@@ -9,13 +9,13 @@
 
 ---
 
-| Version | Datum | Autor | Änderung | Begründung GmbH Umfirmung KV Telematik GmbH | Seite |
+| Version | Datum | Autor | Änderung | Begründung  GmbH  Umfirmung KV Telematik GmbH | Seite |
 |---|---|---|---|---|---|
-| 1.21L | 10.02.2020 kv.digital | GmbH | Umfirmung KV Telematik GmbH  Anpassung URL |  | Alle  68 |
+| 1.21L | 10.02.2020 kv.digital | GmbH | Umfirmung KV Telematik GmbH   Anpassung URL |  | Alle    68 |
 | 1.21L | 30.01.2019 KV | Telematik | Lizenzbestimmungen |  | 3 |
 | 1.21 | 11.11.2014 |  | Redaktionelle Änderungen |  |  |
 | 1.21 | 31.12.2013 |  | Neues Element angestel- | Neue Anforderung |  |
-| 1.20 1.10 | 18.11.2010 |  | Generische Ausrichtung der Berücksichtigung weiterer An- | gesteigerte Wiederverwendbar- Kommentierungsphase |  |
+| 1.20  1.10 | 18.11.2010 |  | Generische Ausrichtung der  Berücksichtigung weiterer An- | gesteigerte Wiederverwendbar-  Kommentierungsphase |  |
 | 1.00 | 25.03.2010 |  | neues Dokument |  |  |
 
 in kv.digital GmbH Schlüsseltabellen der KBV ler_arzt_liste aufgenommen Strukturen forderungen keit
@@ -247,10 +247,10 @@ des öffentlichen Rechts oder öffentlich rechtlichen Sondervermögen ist. Jede 
 | Abbildung 1: |
 |---|
 | Abbildung 2: |
-| Abbildung 3: Abbildung 4: Abbildung 5: Abbildung 6: |
+| Abbildung 3:  Abbildung 4:  Abbildung 5:  Abbildung 6: |
 | Abbildung 7: |
-| Abbildung 8: Abbildung 9: Abbildung 10: Abbildung 11: Abbildung 12: |
-| Abbildung 13: A B B I L D U N G S V E R Z E I C H N I S |
+| Abbildung 8:  Abbildung 9:  Abbildung 10:  Abbildung 11:  Abbildung 12: |
+| Abbildung 13:  A B B I L D U N G S V E R Z E I C H N I S |
 
 Abbildung 14: organization.nm ........................................................................................ 20
 
@@ -342,7 +342,7 @@ Abbildung 55: xslt_hash ........................................................
 
 ---
 
-| Tabelle 1: .............................. 12 | Tabelle 2: ............................................. 12 | Tabelle 3: .............................................................. 13 | Tabelle 4 ..................................................................... 22 | Tabelle 5: ...................................................................... 39 T A B E L L E N V E R Z E I C H N I S | Tabelle 6: ............................................................. 41 |
+| Tabelle 1:  .............................. 12 | Tabelle 2:  ............................................. 12 | Tabelle 3:  .............................................................. 13 | Tabelle 4  ..................................................................... 22 | Tabelle 5:  ...................................................................... 39  T A B E L L E N V E R Z E I C H N I S | Tabelle 6:  ............................................................. 41 |
 |---|---|---|---|---|---|
 |  |  | T A B E L L E N V E R Z E I C H N I S |  |  |  |
 |  |  |  |  |  |  |
@@ -355,13 +355,13 @@ Beschreibung der Kardinalitäten eines XML-Elements Beschreibung der Strukturele
 
 ---
 
-| ........................................................................................................... 13 XML-Code 2: | ............................................................................................................... 15 XML-Code 3: | ............................................................................................... 15 XML-Code 4: | ............................................................................................... 16 XML-Code 5: | ............................................................................................... 16 XML-Code 6: 18 | 17 XML-Code 7: |
+| ........................................................................................................... 13  XML-Code 2: | ............................................................................................................... 15  XML-Code 3: | ............................................................................................... 15  XML-Code 4: | ............................................................................................... 16  XML-Code 5: | ............................................................................................... 16  XML-Code 6:  18 | 17  XML-Code 7: |
 |---|---|---|---|---|---|
-| 17 XML-Code 8: | .............................................................................................. | 18 | X M L - C O D E - V E R Z E I C H N I S XML-Code 9: |  | 18 XML-Code 10: |
-| 19 XML-Code 11: | .............................................................................................. | 19 |  | XML-Code 12: | ............................................................................................................... |
+| 17  XML-Code 8: | .............................................................................................. | 18 | X M L - C O D E - V E R Z E I C H N I S  XML-Code 9: |  | 18  XML-Code 10: |
+| 19  XML-Code 11: | .............................................................................................. | 19 |  | XML-Code 12: | ............................................................................................................... |
 | XML-Code 13: | 20 |  | XML-Code 14: |  | 21 |
-| XML-Code 15: ..................................................................................................... 22 |  | XML-Code 16: | ..................................................................................................... | 23 |  |
-| ....................................................................................................... 24 XML-Code 18: | ....................................................................................................... | 24 | XML-Code 19: | ............................................................................................ 25 |  |
+| XML-Code 15:  ..................................................................................................... 22 |  | XML-Code 16: | ..................................................................................................... | 23 |  |
+| ....................................................................................................... 24  XML-Code 18: | ....................................................................................................... | 24 | XML-Code 19: | ............................................................................................ 25 |  |
 | ............................................................................................................. 26 | XML-Code 21: |  | 26 |  | XML-Code 22: |
 
 XML-Code 23:
@@ -528,11 +528,10 @@ Die Vergabe der Dateinamen erfolgt nach ehd-Richtlinie.
 
 Dateinamenskonvention nach ehd-Richtlinie:
 
-|  |  | **ese_vv.vv_sender_[re+empfänger]_tf+val_nr+val_du+val.xml** | |
-|---|---|---|---|
-| _ | ............. Trennungszeichen | zwischen | den |
+**ese_vv.vv_sender_[re+empfänger]_tf+val_nr+val_du+val.xml**
 
 _ ............. Trennungszeichen zwischen den Namenselementen
+
 
 ---
 
@@ -598,15 +597,15 @@ Es existieren verschiedene Kardinalitäten:
 
 | Kardinalität | Symbol | Beschreibung |
 |---|---|---|
-| 0..1 |  | Optionale Elemente Ein optionales Element wird als Rechteck mit gestri - |
+| 0..1 |  | Optionale Elemente  Ein optionales Element wird als Rechteck mit gestri - |
 
 chelter Linie dargestellt. Es kann keinmal oder einmal vorkommen.
 
 ---
 
-| 1 |  | Obligatorische Elemente Elemente, welche als Rechteck mit durchgezogener |
+| 1 |  | Obligatorische Elemente  Elemente, welche als Rechteck mit durchgezogener |
 |---|---|---|
-| n...m |  | Mehrfache Elemente - |
+| n...m |  | Mehrfache Elemente  - |
 
 **Tabelle 1:**
 
@@ -633,9 +632,9 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 | Symbol | Beschreibung |
 |---|---|
-|  | Element mit Kindelementen Ein Element mit einem oder mehreren Kindelementen wird durch ein |
-|  | Referenzelement Der Pfeil links unten im Element zeigt an, dass das Element an ande |
-|  | Datentyp Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen |
+|  | Element mit Kindelementen  Ein Element mit einem oder mehreren Kindelementen wird durch ein |
+|  | Referenzelement  Der Pfeil links unten im Element zeigt an, dass das Element an ande |
+|  | Datentyp  Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen |
 
 Linie dargestellt sind, müssen genau einmal vorkom men. Bei Elementen, welche mehrfach vorkommen kön - nen, wird die erlaubte Anzahl rechts unter dem Sym bol dargestellt. Die Werte können von 0 bis (un- bounded) reichen. Das Strukturelement <xs:choice> delementen genau eins ausgewählt werden muss. Das Strukturelement <xs:sequence> te in fest- gelegter Reihenfolge aufgeführt werden müssen. Pluszeichen am Rechteckrand symbolisiert. rer Stelle im Schema definiert wurde. Datentyp.
 
@@ -643,7 +642,7 @@ Linie dargestellt sind, müssen genau einmal vorkom men. Bei Elementen, welche m
 
 | Symbol | Beschreibung |
 |---|---|
-|  | Gruppenelement Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement |
+|  | Gruppenelement  Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement |
 
 **Tabelle 3:**
 
@@ -3350,15 +3349,10 @@ Der XML-Code für das Element <xslt_hash> hat folgenden beispielhaften Aufbau:
 
 - [1] ehd  eHealthData, Richtlinie, Version 1.40
 
-- [http://www.kbv.de/ita/4287.html](http://www.kbv.de/ita/4287.html) - [2]
+- [http://www.kbv.de/ita/4287.html](http://www.kbv.de/ita/4287.html)
 
-|  | Schlüsseltabellen | der | KBV |
-|---|---|---|---|
-|  | https://applications.kbv.de/ | |  |
-| Im | Rahmen der |  | Schnittstellenentwicklung |
-| siert | und sind | zum Teil | beispielhaft |
-| KVHB, | KVH, KVN, | KVNO, | KVT, |
+- [2] Schlüsseltabellen der KBV  [https://applications.kbv.de/](https://applications.kbv.de/)
 
-- [3]
+- [3] Im Rahmen der Schnittstellenentwicklung wurden folgende Sammelerklärungen analy siert und sind zum Teil beispielhaft in der Dokumentation verwendet worden: KVSH,
 
-Schlüsseltabellen der KBV Im Rahmen der Schnittstellenentwicklung wurden folgende Sammelerklärungen analy siert und sind zum Teil beispielhaft in der Dokumentation verwend KVHB, KVH, KVN, KVNO, KVT, KVWL,  KVB - et worden: KVSH,
+- KVHB, KVH, KVN, KVNO, KVT, KVWL, KVB

@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 18. FEBRUAR 2021  VERSION: 1.36  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  18. FEBRUAR 2021   VERSION: 1.36   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # HANDBUCH BLANKOFORMU- LARBEDRUCKUNG FÜR DIE PSYCHO- THERAPIE (PTV)
@@ -15,11 +15,15 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 ---
 
-INHALT
+## INHALT
 
-| **1** | **ÜBERSICHT** | **5** |
-|---|---|---|
-| 1.2 | Diagnoseverschlüsselung | 5 |
+**1** **ÜBERSICHT**
+
+**5**
+
+1.2 Diagnoseverschlüsselung
+
+5
 
 **2** **ANFORDERUNGEN ZUR BFB (PTV)**
 
@@ -161,11 +165,11 @@ Die Änderung der Version 1.36 tritt zum 1. Juli 2021 in Kraft.
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.36 | 18.02.2021 | KBV | Klarstellung der Bedruckung |  | 6 8 |
-| 1.35 | 25.03.2020 | KBV | geändertes Layout Aktualisierung der Vorlagen Klarstellung der Anforderung | Verbesserung der Ver- | Alle 10ff   8 |
+| 1.36 | 18.02.2021 | KBV | Klarstellung der Bedruckung |  | 6  8 |
+| 1.35 | 25.03.2020 | KBV | geändertes Layout  Aktualisierung der Vorlagen  Klarstellung der Anforderung | Verbesserung der Ver- | Alle  10ff      8 |
 | 1.34 | 13.08.2019 | KBV | Aufnahme der Anforderung | Verbesserung des Aus- | 9 |
-| 1.33 | 14.08.2018 | KBV | Aktualisierung der Vorlagen |  | 17 18 |
-| 1.32 | 10.11.2017 | KBV | Die BFB-Vorlagen werden |  | 10.10 |
+| 1.33 | 14.08.2018 | KBV | Aktualisierung der Vorlagen |  | 17  18 |
+| 1.32 | 10.11.2017 | KBV | Die BFB-Vorlagen werden |  | 1010 |
 | 1.31 | 10.07.2017 | KBV | Änderung der Vorgaben |  | 6 |
 
 des verkürzten Personalien- felds für das Muster PTV1, PTV2, PTV11 und PTV12 P2.11-20 für das Muster PTV11 auch als PDF-Dateien zur Verfügung gestellt bzgl. des zu verwendenden Papiers ständlichkeit gabeformates für Da- tumsangeben auf BFB- Mustern
@@ -268,7 +272,7 @@ Ident-Nummer einer optionalen Funktion
 
 | PFLICHTFUNKTION BFB | |
 |---|---|
-| P2.8-10 | Verwendung zulässiger BFB-Formulare |
+| P 2.8-10 | Verwendung zulässiger BFB-Formulare |
 
 Im Rahmen der Blankoformularbedruckung für Psychotherapie dürfen nur die in Anlage 1 des BMV -Ä (Psy- chotherapie-Vereinbarung) §18 Absatz 12 Satz 3 bestimmten Formblätter verwendet werden.
 
@@ -413,10 +417,13 @@ Abbildung 2: PTV 1b, Original: DIN A4 hoch
 
 ---
 
-### 3.1.3 PTV 1c .1 (7.2020)
+| **3.1.3** | **PTV** | **1c .1** | **(7.2020)** |  |  |  |  |
+|---|---|---|---|---|---|---|---|
+| Abbildung | 3: PTV | 1c.1, Original: | DIN A4 hoch |  |  |  |  |
+| Seite | 12 von 21 | / KBV / | Handbuch Blankoformularbedruckung | für die | Psychotherapie (PTV) | / Version: | 1.36 / 18. Februar |
+| 2021 |  |  |  |  |  |  |  |
 
-Abbildung 3: PTV 1c.1, Original: DIN A4 hoch
-
+PTV 1c .1 (7.2020) Abbildung 3: PTV 1c.1, Original: DIN A4 hoch
 
 ---
 
@@ -436,10 +443,13 @@ Abbildung 5: PTV 2a, Original: DIN A4 hoch
 
 ---
 
-### 3.2.2 PTV 2b (7.2020)
+| **3.2.2** | **PTV** | **2b** | **(7.2020)** |  |  |  |  |
+|---|---|---|---|---|---|---|---|
+| Abbildung | 6: PTV | 2b, Original: | DIN A4 hoch |  |  |  |  |
+| Seite | 15 von 21 | / KBV / | Handbuch Blankoformularbedruckung | für die | Psychotherapie (PTV) | / Version: | 1.36 / 18. Februar |
+| 2021 |  |  |  |  |  |  |  |
 
-Abbildung 6: PTV 2b, Original: DIN A4 hoch
-
+PTV 2b (7.2020) Abbildung 6: PTV 2b, Original: DIN A4 hoch
 
 ---
 

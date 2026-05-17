@@ -291,11 +291,11 @@ Befund zusätzlich an Prof. Dr. med. Thomas Zusatzarzt per Fax (Faxnummer)
 
 010  013
 
-**FK**  8000  8132  8002  0001  8151  8002  8315  8316  010.5  0103  0132  8003 8218
+**FK**  8000  8132  8002  0001  8151  8002  8315  8316  0105  0103  0132  8003 8218
 
 8002  7278  7279  7273  8235  8002  7420  3101  3102  3104  8003  8003  8003  7265  8122  8002  7321  8312
 
-**Feldinhalt**  8230  Kopfdaten  Obj_0032  LDT3.2.19  Sendendes_System  Obj_0051  Labor27/12  Arzt123456  a/nn/JJMM/MM/aaa  Muster PVS  8.12.0.95  Obj_0051  Timestamp_Erstellung _Daten- satz  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Person_zum_Timestamp  Obj_0047  02  Musterarzt  Klaus  Dr. med.  Obj_0047  Obj_0054  Obj_0032  1  Einsenderidentifikation  Obj_0022  01  4711
+**Feldinhalt**  8230  Kopfdaten  Obj_0032  LDT 3.2.19  Sendendes_System  Obj_0051  Labor27/12  Arzt123456  a/nn/JJMM/MM/aaa  Muster PVS  8.12.0.95  Obj_0051  Timestamp_Erstellung _Daten- satz  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Person_zum_Timestamp  Obj_0047  02  Musterarzt  Klaus  Dr. med.  Obj_0047  Obj_0054  Obj_0032  1  Einsenderidentifikation  Obj_0022  01  4711
 
 **Beschreibung**  Satzart  Objektattribut  ObjektIdent  Version der Datensatzbeschreibung  Objektattribut  ObjektIdent  ID des Empfängers  ID des Senders  KBV-Prüfnummer  Software/Name der Software  Version/Releasestand der Software  Objektende
 
@@ -437,81 +437,60 @@ ObjektIdent  Telefonnummer  Mobiltelefonnummer  Faxnummer  E-Mailadresse  Webadr
 
 ---
 
-016  017  015  017  011  013  012  022  013  017  017  010  022  017  014  018  026  014  022  010  017  017  019  023  017  028  017 012
-
-011
-
-026
-
-017
-
-017
-
-018
-
-014
-
-017
-
-013
-
-011
-
-026  017  017  018
-
-014  017  017  028  017  020  020 010  015  017  011
-
-019
-
-8145  8002  8147  8002  7420  3100  3120  3101  3102  3103  3104  3110  8228  8002  3112  3113  3107  3109  3115  3114  8003  8003  3119  3000  8003  8169  8002 3622
-
-8421
-
-8225
-
-8002
-
-7278
-
-7279
-
-7273
-
-8003
-
-3623
-
-8421
-
-8225  8002  7278  7279  7273  8003  8003  8113  8002  8310  8311  8611  8147  8002  7420  3101
-
-Patient  Obj_0045  Person  Obj_0047  12
-
-Graf  von  Musterpatient  Karl  19600512  Dr. med.  M  Wohnanschrift  Obj_0007  23456  Musterort  Siegburger Straße  425 b
-
-3. Hinterhaus  D  Obj_0007  Obj_0047  S040464113  KAMUPA47112015  Obj_0045  Koerperkenngroessen  Obj_0069 185
-
-cm
-
-Timestamp_Messung
-
-Obj_0054
-
-JJJJMMTT
-
-HHmmss(ms)
-
-UTC+1
-
-Obj_0054 98.6
-
-kg
-
-Timestamp_Messung  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  Obj_0069  Auftragsinformation
-
-Obj_0013  47112345678  47112345678 2  Person  Obj_0047
-
-10  Zusatzarzt
+| 016 | 8145 | Patient |  |
+|---|---|---|---|
+| 017 | 8002 | Obj_0045 |  |
+| 015 | 8147 | Person |  |
+| 017 | 8002 | Obj_0047 |  |
+| 011 | 7420 | 12 |  |
+| 013 | 3100 | Graf |  |
+| 012 | 3120 | von |  |
+| 022 | 3101 |  | Musterpatient |
+| 013 | 3102 | Karl |  |
+| 017 | 3103 | 19600512 |  |
+| 017 | 3104 | Dr. | med. |
+| 010 | 3110 | M |  |
+| 022 | 8228 |  | Wohnanschrift |
+| 017 | 8002 | Obj_0007 |  |
+| 014 | 3112 | 23456 |  |
+| 018 | 3113 | Musterort |  |
+| 026 | 3107 | Siegburger | Straße |
+| 014 | 3109 | 425 b |  |
+| 022 | 3115 | 3. | Hinterhaus |
+| 010 | 3114 | D |  |
+| 017 | 8003 | Obj_0007 |  |
+| 017 | 8003 | Obj_0047 |  |
+| 019 | 3119 |  | S040464113 |
+| 023 | 3000 |  | KAMUPA47112015 |
+| 017 | 8003 | Obj_0045 |  |
+| 028 | 8169 |  | Koerperkenngroessen |
+| 017 | 8002 | Obj_0069 |  |
+| 012 | 3622 | 185 |  |
+| 011 | 8421 | cm |  |
+| 026 | 8225 |  | Timestamp_Messung |
+| 017 | 8002 | Obj_0054 |  |
+| 017 | 7278 | JJJJMMTT |  |
+| 018 | 7279 |  | HHmmss(ms) |
+| 014 | 7273 | UTC+1 |  |
+| 017 | 8003 | Obj_0054 |  |
+| 013 | 3623 | 98.6 |  |
+| 011 | 8421 | kg |  |
+| 026 | 8225 |  | Timestamp_Messung |
+| 017 | 8002 | Obj_0054 |  |
+| 017 | 7278 | JJJJMMTT |  |
+| 018 | 7279 |  | HHmmss(ms) |
+| 014 | 7273 | UTC+1 |  |
+| 017 | 8003 | Obj_0054 |  |
+| 017 | 8003 | Obj_0069 |  |
+| 028 | 8113 |  | Auftragsinformation |
+| 017 | 8002 | Obj_0013 |  |
+| 020 | 8310 |  | 47112345678 |
+| 020 | 8311 |  | 47112345678 |
+| 010 | 8611 | 2 |  |
+| 015 | 8147 | Person |  |
+| 017 | 8002 | Obj_0047 |  |
+| 011 | 7420 | 10 |  |
+| 019 | 3101 | Zusatzarzt |  |
 
 Objektattribut  ObjektIdent  Objektattribut  ObjektIdent  Status Person  Namenszusatz  Vorsatzwort  Nachname  Vorname  Geburtsdatum  Titel  Geschlecht  Objektattribut  ObjektIdent  PLZ  Ort  Straße  Hausnummer  Anschriftenzusatz  Wohnsitzländercode  Objektende  Objektende  Versicherten-ID  Patientennummer  Objektende
 
@@ -537,7 +516,7 @@ Gewicht der Person
 
 Einheit des Meßwertes
 
-Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Objektende  Objektattribut  ObjektIdent  Auftragsnummer des Einsenders  ID Auftragsnummer des Labors  zusätzlicher Befundweg  Objektattribut  ObjektIdent  Status Person  Nachname
+Dr. med. Siegburger Straße 3. Hinterhaus Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Objektende  Objektattribut  ObjektIdent  Auftragsnummer des Einsenders  ID Auftragsnummer des Labors  zusätzlicher Befundweg  Objektattribut  ObjektIdent  Status Person  Nachname
 
 
 ---
@@ -881,7 +860,7 @@ Obj_0007  23456  Musterstadt  1234
 
 D
 
-2  Obj_0007  Private_Kommunikations Obj_0031  +LK_Vorwahl_Rufnummer Obj_0031  Obj_0047  Obj_0008  Obj_0048  Obj_0004  Obj_0001  Material  Obj_0037  12345678.02  02
+2  Obj_0007  Private_Kommunikations Obj_0031  +LK_Vorwahl_Rufnummer Obj_0031  Obj_0047  Obj_0008  Obj_0048  Obj_0004  Obj_0001  Material  Obj_0037  1234567802  02
 
 SE
 
@@ -1152,7 +1131,7 @@ Obj_0037
 
 Material
 
-Obj_0037 12345678.03
+Obj_0037 1234567803
 
 03
 
@@ -1188,7 +1167,7 @@ Hepatitis B Antigen 1
 
 1
 
-12345678.02
+1234567802
 
 SE
 
@@ -1455,7 +1434,7 @@ ObjektIdent
 
 8002
 
-356.4
+3564
 
 8003
 
@@ -1491,7 +1470,7 @@ Qu
 
 Quick 2
 
-12345678.03
+1234567803
 
 CB
 
@@ -1515,7 +1494,7 @@ PSA
 
 PSA 3
 
-12345678.02
+1234567802
 
 SE
 
@@ -1749,11 +1728,11 @@ Zusätzlicher Befund an Prof. Dr. med. Thomas Zusatzarzt per E-Mail an zusatz-
 
 010  013
 
-**FK**  8000  8132  8002  0001  8151  8002  8315  8316  010.5  0103  0132  8003  8218  8002  7278  7279  7273  8235  8002  7420  3101  3102  3104  8003  8003  8003  7265  8122  8002  7321  8312
+**FK**  8000  8132  8002  0001  8151  8002  8315  8316  0105  0103  0132  8003  8218  8002  7278  7279  7273  8235  8002  7420  3101  3102  3104  8003  8003  8003  7265  8122  8002  7321  8312
 
 **Feldinhalt**  8230
 
-Kopfdaten  Obj_0032  LDT3.2.19  Sendendes_System  Obj_0051  Labor27/12  Arzt123456  a/nn/JJMM/MM/aaa  Muster PVS  8.12.0.95
+Kopfdaten  Obj_0032  LDT 3.2.19  Sendendes_System  Obj_0051  Labor27/12  Arzt123456  a/nn/JJMM/MM/aaa  Muster PVS  8.12.0.95
 
 Obj_0051  Timestamp_Erstellung _Daten-satz
 
@@ -1899,79 +1878,60 @@ ObjektIdent  Telefonnummer  Mobiltelefonnummer  Faxnummer  E-Mailadresse  Webadr
 
 ---
 
-016  017  015  017  011  013  012  022  013  017  017  010  022  017  014  018  026  014  022  010  017  017  019  023  017  028  017 012
-
-011
-
-026
-
-017
-
-017
-
-018
-
-014
-
-017
-
-013
-
-011
-
-026  017  017  018
-
-014  017  017  028  017  020  020 010  015  017  011
-
-019
-
-8145  8002  8147  8002  7420  3100  3120  3101  3102  3103  3104  3110  8228  8002  3112  3113  3107  3109  3115  3114  8003  8003  3119  3000  8003  8169  8002 3622
-
-8421
-
-8225
-
-8002
-
-7278
-
-7279
-
-7273
-
-8003
-
-3623
-
-8421
-
-8225  8002  7278  7279  7273  8003  8003  8113  8002  8310  8311  8611  8147  8002  7420  3101
-
-Patient  Obj_0045  Person  Obj_0047  12  Graf  von  Musterpatient  Karl  19600512  Dr. med.  M  Wohnanschrift  Obj_0007  23456  Musterort  Siegburger Straße  425 b
-
-3. Hinterhaus  D  Obj_0007  Obj_0047  S040464113  KAMUPA47112015  Obj_0045  Koerperkenngroessen
-
-Obj_0069 185
-
-cm
-
-Timestamp_Messung
-
-Obj_0054
-
-JJJJMMTT
-
-HHmmss(ms)
-
-UTC+1
-
-Obj_0054 98.6
-
-kg
-
-Timestamp_Messung  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  Obj_0069  Auftragsinformation
-
-Obj_0013  47112345678  47112345678  3  Person  Obj_0047  10  Zusatzarzt
+| 016 | 8145 | Patient |  |
+|---|---|---|---|
+| 017 | 8002 | Obj_0045 |  |
+| 015 | 8147 | Person |  |
+| 017 | 8002 | Obj_0047 |  |
+| 011 | 7420 | 12 |  |
+| 013 | 3100 | Graf |  |
+| 012 | 3120 | von |  |
+| 022 | 3101 |  | Musterpatient |
+| 013 | 3102 | Karl |  |
+| 017 | 3103 | 19600512 |  |
+| 017 | 3104 | Dr. | med. |
+| 010 | 3110 | M |  |
+| 022 | 8228 |  | Wohnanschrift |
+| 017 | 8002 | Obj_0007 |  |
+| 014 | 3112 | 23456 |  |
+| 018 | 3113 | Musterort |  |
+| 026 | 3107 | Siegburger | Straße |
+| 014 | 3109 | 425 b |  |
+| 022 | 3115 | 3. | Hinterhaus |
+| 010 | 3114 | D |  |
+| 017 | 8003 | Obj_0007 |  |
+| 017 | 8003 | Obj_0047 |  |
+| 019 | 3119 |  | S040464113 |
+| 023 | 3000 |  | KAMUPA47112015 |
+| 017 | 8003 | Obj_0045 |  |
+| 028 | 8169 |  | Koerperkenngroessen |
+| 017 | 8002 | Obj_0069 |  |
+| 012 | 3622 | 185 |  |
+| 011 | 8421 | cm |  |
+| 026 | 8225 |  | Timestamp_Messung |
+| 017 | 8002 | Obj_0054 |  |
+| 017 | 7278 | JJJJMMTT |  |
+| 018 | 7279 |  | HHmmss(ms) |
+| 014 | 7273 | UTC+1 |  |
+| 017 | 8003 | Obj_0054 |  |
+| 013 | 3623 | 98.6 |  |
+| 011 | 8421 | kg |  |
+| 026 | 8225 |  | Timestamp_Messung |
+| 017 | 8002 | Obj_0054 |  |
+| 017 | 7278 | JJJJMMTT |  |
+| 018 | 7279 |  | HHmmss(ms) |
+| 014 | 7273 | UTC+1 |  |
+| 017 | 8003 | Obj_0054 |  |
+| 017 | 8003 | Obj_0069 |  |
+| 028 | 8113 |  | Auftragsinformation |
+| 017 | 8002 | Obj_0013 |  |
+| 020 | 8310 |  | 47112345678 |
+| 020 | 8311 |  | 47112345678 |
+| 010 | 8611 | 3 |  |
+| 015 | 8147 | Person |  |
+| 017 | 8002 | Obj_0047 |  |
+| 011 | 7420 | 10 |  |
+| 019 | 3101 | Zusatzarzt |  |
 
 Objektattribut  ObjektIdent  Objektattribut  ObjektIdent  Status Person  Namenszusatz  Vorsatzwort  Nachname  Vorname  Geburtsdatum  Titel  Geschlecht  Objektattribut  ObjektIdent  PLZ
 
@@ -1997,7 +1957,7 @@ Gewicht der Person
 
 Einheit des Meßwertes
 
-Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Objektende  Objektattribut  ObjektIdent  Auftragsnummer des Einsenders  ID Auftragsnummer des Labors  zusätzlicher Befundweg  Objektattribut  ObjektIdent  Status Person  Nachname
+Dr. med. Siegburger Straße 3. Hinterhaus Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Objektende  Objektattribut  ObjektIdent  Auftragsnummer des Einsenders  ID Auftragsnummer des Labors  zusätzlicher Befundweg  Objektattribut  ObjektIdent  Status Person  Nachname
 
 
 ---
@@ -2243,7 +2203,7 @@ Person
 
 Obj_0047
 
-02  Musterarzt  Klaus  Dr. med.  M  Rechnungsanschrift  Obj_0007  12345  Musterhausen  Musterarztstraße  26  Vorderhaus links  D  2  Obj_0007  Geschaeftliche_Kommunikations Obj_0031  +LK_Vorwahl_Rufnummer  Obj_0031  Obj_0047  Obj_0008  Obj_0048  Obj_0003  Obj_0001  Material  Obj_0037  12345678.02  02  SE
+02  Musterarzt  Klaus  Dr. med.  M  Rechnungsanschrift  Obj_0007  12345  Musterhausen  Musterarztstraße  26  Vorderhaus links  D  2  Obj_0007  Geschaeftliche_Kommunikations Obj_0031  +LK_Vorwahl_Rufnummer  Obj_0031  Obj_0047  Obj_0008  Obj_0048  Obj_0003  Obj_0001  Material  Obj_0037  1234567802  02  SE
 
 Postfach  Postfach Wohnsitzländercode  Adresstyp  Objektende
 
@@ -2490,7 +2450,7 @@ Obj_0037
 
 Material
 
-Obj_0037 12345678.03
+Obj_0037 1234567803
 
 03
 
@@ -2526,7 +2486,7 @@ Katalog Labor Muster 5896
 
 Hepatitis B Antigen 3
 
-12345678.02
+1234567802
 
 SE
 
@@ -2759,7 +2719,7 @@ Datum des Timestamp
 
 8002
 
-356.4
+3564
 
 8003
 
@@ -2809,7 +2769,7 @@ Katalog Basis Labor Muster 25K28
 
 Quick 4
 
-12345678.03
+1234567803
 
 CB
 
@@ -3055,11 +3015,11 @@ die über ASV abgerechnet werden können bekannt. Wird eine solche Leistung abge
 
 **Feldinhalt**
 
-8230  Kopfdaten  Obj_0032  LDT3.2.19  Sendendes_System  Obj_0051 019  019  025  019
+8230  Kopfdaten  Obj_0032  LDT 3.2.19  Sendendes_System  Obj_0051 019  019  025  019
 
 018  017
 
-8315  8316  010.5  0103  0132  8003
+8315  8316  0105  0103  0132  8003
 
 Labor27/12  Arzt123456  a/nn/JJMM/MM/aaa  Muster PVS  8.12.0.95  Obj_0051
 
@@ -3159,103 +3119,59 @@ PLZ
 
 ---
 
-021
-
-025
-
-011
-
-025
-
-010
-
-017
-
-028
-
-017  030  030  030  030  026  017  017  017  017  013  013  016  017  015  017  011  022  013
-
-017  010  022  017  014  018  026  014  022  010  017  017  019  021  017 017  017
-
-012
-
-017
-
-017
-
-017
-
-017
-
-011
-
-011
-
-011
-
-017
-
-3113
-
-3107
-
-3109
-
-3115
-
-3114
-
-8003
-
-8131
-
-8002  7330  7331  7333  7335  7334  8003  8003  8003  8003  8001  8000  8145  8002  8147  8002  7420  3101  3102  3103  3110  8228  8002  3112  3113  3107  3109  3115  3114  8003  8003  3119  3000  8003  8150  8002 8511
-
-8512
-
-8003
-
-8140
-
-8002
-
-3668
-
-3664
-
-3666
-
-8003
-
-Musterhausen
-
-Musterarztstraße 26
-
-Vorderhaus links
-
-D
-
-Obj_0007
-
-Kommunikationsdaten
-
-Obj_0031  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  [dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de)  www.musterarzt.de  Obj_0031  Obj_0043  Obj_0019  Obj_0022  8230  8215  Patient  Obj_0045  Person  Obj_0047  12  Musterpatientin  Karla  19600512  W  Wohnanschrift  Obj_0007  23456  Musterort  Siegburger Straße  425 b
-
-3. Hinterhaus  D  Obj_0007  Obj_0047  S040464113  PMUFR2312345  Obj_0045  Schwangerschaft  Obj_0050 235
-
-20151015
-
-Obj_0050
-
-Mutterschaft
-
-Obj_0040 03
-
-02
-
-02
-
-Obj_0040
+| 021 | 3113 |  | Musterhausen |
+|---|---|---|---|
+| 025 | 3107 |  | Musterarztstraße |
+| 011 | 3109 | 26 |  |
+| 025 | 3115 | Vorderhaus | links |
+| 010 | 3114 | D |  |
+| 017 | 8003 | Obj_0007 |  |
+| 028 | 8131 |  | Kommunikationsdaten |
+| 017 | 8002 | Obj_0031 |  |
+| 030 | 7330 |  | +LK_Vorwahl_Rufnummer |
+| 030 | 7331 |  | +LK_Vorwahl_Rufnummer |
+| 030 | 7333 |  | +LK_Vorwahl_Rufnummer |
+| 030 | 7335 |  | dr.musterarzt@mail.de |
+| 026 | 7334 |  | www.musterarzt.de |
+| 017 | 8003 | Obj_0031 |  |
+| 017 | 8003 | Obj_0043 |  |
+| 017 | 8003 | Obj_0019 |  |
+| 017 | 8003 | Obj_0022 |  |
+| 013 | 8001 | 8230 |  |
+| 013 | 8000 | 8215 |  |
+| 016 | 8145 | Patient |  |
+| 017 | 8002 | Obj_0045 |  |
+| 015 | 8147 | Person |  |
+| 017 | 8002 | Obj_0047 |  |
+| 011 | 7420 | 12 |  |
+| 022 | 3101 |  | Musterpatientin |
+| 013 | 3102 | Karla |  |
+| 017 | 3103 | 19600512 |  |
+| 010 | 3110 | W |  |
+| 022 | 8228 |  | Wohnanschrift |
+| 017 | 8002 | Obj_0007 |  |
+| 014 | 3112 | 23456 |  |
+| 018 | 3113 | Musterort |  |
+| 026 | 3107 | Siegburger | Straße |
+| 014 | 3109 | 425 b |  |
+| 022 | 3115 | 3. | Hinterhaus |
+| 010 | 3114 | D |  |
+| 017 | 8003 | Obj_0007 |  |
+| 017 | 8003 | Obj_0047 |  |
+| 019 | 3119 |  | S040464113 |
+| 021 | 3000 |  | PMUFR2312345 |
+| 017 | 8003 | Obj_0045 |  |
+| 017 | 8150 |  | Schwangerschaft |
+| 017 | 8002 | Obj_0050 |  |
+| 012 | 8511 | 235 |  |
+| 017 | 8512 | 20151015 |  |
+| 017 | 8003 | Obj_0050 |  |
+| 017 | 8140 |  | Mutterschaft |
+| 017 | 8002 | Obj_0040 |  |
+| 011 | 3668 | 03 |  |
+| 011 | 3664 | 02 |  |
+| 011 | 3666 | 02 |  |
+| 017 | 8003 | Obj_0040 |  |
 
 Ort
 
@@ -3289,7 +3205,7 @@ Anzahl Geburten
 
 Anzahl Kinder
 
-Objektende
+Vorderhaus links Siegburger Straße 3. Hinterhaus Objektende
 
 
 ---
@@ -3627,7 +3543,7 @@ Musterkasse 78945
 
 1
 
-Obj_0002  Obj_0001  Material  Obj_0037  12345678.02  02  SE
+Obj_0002  Obj_0001  Material  Obj_0037  1234567802  02  SE
 
 Serum
 
@@ -3673,7 +3589,7 @@ Obj_0037
 
 Material
 
-Obj_0037 12345678.03
+Obj_0037 1234567803
 
 03
 
@@ -3978,7 +3894,7 @@ Obj_0037
 
 Material
 
-Obj_0037 12345678.04
+Obj_0037 1234567804
 
 04
 
@@ -4016,7 +3932,7 @@ Hepatitis B Antigen 8
 
 1
 
-12345678.02
+1234567802
 
 SE
 
@@ -4289,7 +4205,7 @@ Objektende
 
 8002
 
-356.4
+3564
 
 8003
 
@@ -4321,7 +4237,7 @@ Qu
 
 Quick 2
 
-12345678.03
+1234567803
 
 CB
 
@@ -4347,7 +4263,7 @@ LVZ Musterlabor 01 8954B47
 
 Erreger+Resistenz 8
 
-12345678.04
+1234567804
 
 AB
 
@@ -4895,13 +4811,13 @@ Muster 10A) C00.2 V
 
 017
 
-**FK**  8000  8132  8002  0001  8151  8002  8315  8316  010.5  0103  0132  8003 8218
+**FK**  8000  8132  8002  0001  8151  8002  8315  8316  0105  0103  0132  8003 8218
 
 8002  7278  7279  7273  8235  8002  7420  3101  3102  3104  8003  8003  8003  7265  8122  8002  7321  8312  8114  8002  8147  8002  7420  3101  3102  3104  8990 8233
 
 8002  7330  7331  7333  7335  7334  8003  8003  0212  8003
 
-**Feldinhalt**  8230  Kopfdaten  Obj_0032  LDT3.2.19  Sendendes_System  Obj_0051  Labor27/12  Arzt123456  a/nn/JJMM/MM/aaa  Muster PVS  8.12.0.95  Obj_0051  Timestamp_Erstellung _Daten satz  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Person_zum_Timestamp  Obj_0047 02  Musterarzt
+**Feldinhalt**  8230  Kopfdaten  Obj_0032  LDT 3.2.19  Sendendes_System  Obj_0051  Labor27/12  Arzt123456  a/nn/JJMM/MM/aaa  Muster PVS  8.12.0.95  Obj_0051  Timestamp_Erstellung _Daten satz  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Person_zum_Timestamp  Obj_0047 02  Musterarzt
 
 Klaus  Dr. med.  Obj_0047  Obj_0054  Obj_0032
 
@@ -4930,101 +4846,59 @@ ObjektIdent  Telefonnummer  Mobiltelefonnummer  Faxnummer  E-Mailadresse  Webadr
 
 ---
 
-024  017  010  010  030
-
-018
-
-021  017  030
-
-032
-
-017
-
-014
-
-021
-
-025
-
-011
-
-025
-
-010
-
-017
-
-028
-
-017  030  030  030  030
-
-026  017  017  017  017  013  013  016  017  015  017  011  013  012  022
-
-013  017  017  010  022  017  014 018  026  014  022
-
-010  017
-
-8119  8002  0204  0204  0203
-
-0201
-
-8143  8002  1250
-
-8229
-
-8002
-
-3112
-
-3113
-
-3107
-
-3109
-
-3115
-
-3114
-
-8003
-
-8131
-
-8002  7330  7331  7333  7335  7334  8003  8003  8003  8003  8001  8000  8145  8002  8147  8002  7420  3100  3120  3101  3102  3103  3104  3110  8228  8002  3112  3113  3107  3109  3115  3114  8003
-
-Betriebsstaette  Obj_0019  1 5  Praxis Dr. Musterarzt
-
-123456789
-
-Organisation  Obj_0043  Praxis Dr. Musterarzt
-
-Anschrift_Arbeitsstelle
-
-Obj_0007 12345
-
-Musterhausen
-
-Musterarztstraße 26
-
-Vorderhaus links
-
-D
-
-Obj_0007
-
-Kommunikationsdaten
-
-Obj_0031  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  [dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de)  www.musterarzt.de  Obj_0031  Obj_0043  Obj_0019  Obj_0022  8230
-
-8215  Patient  Obj_0045  Person  Obj_0047  12
-
-Graf
-
-von  Musterpatient  Karl  19600512  Dr. med.
-
-M  Wohnanschrift  Obj_0007  23456  Musterort  Siegburger Straße  425 b 3. Hinterhaus
-
-D  Obj_0007
+| 024 | 8119 |  | Betriebsstaette |
+|---|---|---|---|
+| 017 | 8002 | Obj_0019 |  |
+| 010 | 0204 | 1 |  |
+| 010 | 0204 | 5 |  |
+| 030 | 0203 | Praxis | Dr. Musterarzt |
+| 018 | 0201 | 123456789 |  |
+| 021 | 8143 |  | Organisation |
+| 017 | 8002 | Obj_0043 |  |
+| 030 | 1250 | Praxis | Dr. Musterarzt |
+| 032 | 8229 |  | Anschrift_Arbeitsstelle |
+| 017 | 8002 | Obj_0007 |  |
+| 014 | 3112 | 12345 |  |
+| 021 | 3113 |  | Musterhausen |
+| 025 | 3107 |  | Musterarztstraße |
+| 011 | 3109 | 26 |  |
+| 025 | 3115 | Vorderhaus | links |
+| 010 | 3114 | D |  |
+| 017 | 8003 | Obj_0007 |  |
+| 028 | 8131 |  | Kommunikationsdaten |
+| 017 | 8002 | Obj_0031 |  |
+| 030 | 7330 |  | +LK_Vorwahl_Rufnummer |
+| 030 | 7331 |  | +LK_Vorwahl_Rufnummer |
+| 030 | 7333 |  | +LK_Vorwahl_Rufnummer |
+| 030 | 7335 |  | dr.musterarzt@mail.de |
+| 026 | 7334 |  | www.musterarzt.de |
+| 017 | 8003 | Obj_0031 |  |
+| 017 | 8003 | Obj_0043 |  |
+| 017 | 8003 | Obj_0019 |  |
+| 017 | 8003 | Obj_0022 |  |
+| 013 | 8001 | 8230 |  |
+| 013 | 8000 | 8215 |  |
+| 016 | 8145 | Patient |  |
+| 017 | 8002 | Obj_0045 |  |
+| 015 | 8147 | Person |  |
+| 017 | 8002 | Obj_0047 |  |
+| 011 | 7420 | 12 |  |
+| 013 | 3100 | Graf |  |
+| 012 | 3120 | von |  |
+| 022 | 3101 |  | Musterpatient |
+| 013 | 3102 | Karl |  |
+| 017 | 3103 | 19600512 |  |
+| 017 | 3104 | Dr. | med. |
+| 010 | 3110 | M |  |
+| 022 | 8228 |  | Wohnanschrift |
+| 017 | 8002 | Obj_0007 |  |
+| 014 | 3112 | 23456 |  |
+| 018 | 3113 | Musterort |  |
+| 026 | 3107 | Siegburger | Straße |
+| 014 | 3109 | 425 b |  |
+| 022 | 3115 | 3. | Hinterhaus |
+| 010 | 3114 | D |  |
+| 017 | 8003 | Obj_0007 |  |
 
 Objektattribut
 
@@ -5054,152 +4928,63 @@ Objektattribut
 
 ObjektIdent  Telefonnummer  Mobiltelefonnummer  Faxnummer  E-Mailadresse  Webadresse  Objektende  Objektende  Objektende
 
-Objektende  Satzende  Satzart  Objektattribut  ObjektIdent  Objektattribut  ObjektIdent  Status Person  Namenszusatz  Vorsatzwort  Nachname  Vorname  Geburtsdatum  Titel  Geschlecht  Objektattribut  ObjektIdent  PLZ  Ort  Straße  Hausnummer  Anschriftenzusatz  Wohnsitzländercode  Objektende
+Praxis Dr. Musterarzt Praxis Dr. Musterarzt Vorderhaus links Dr. med. Siegburger Straße 3. Hinterhaus Objektende  Satzende  Satzart  Objektattribut  ObjektIdent  Objektattribut  ObjektIdent  Status Person  Namenszusatz  Vorsatzwort  Nachname  Vorname  Geburtsdatum  Titel  Geschlecht  Objektattribut  ObjektIdent  PLZ  Ort  Straße  Hausnummer  Anschriftenzusatz  Wohnsitzländercode  Objektende
 
 
 ---
 
-017  019  023  017  028  017
-
-012
-
-011
-
-026
-
-017
-
-017
-
-018
-
-014
-
-017
-
-013
-
-011
-
-026  017  017  018  014  017  017  027  017  010 021  017  014  010  010
-
-017
-
-010
-
-021
-
-017
-
-014
-
-010  010  017  017
-
-031  017  023
-
-017
-
-011
-
-020
-
-014
-
-011
-
-011
-
-010
-
-018
-
-8003  3119  3000  8003  8169  8002 3622
-
-8421
-
-8225
-
-8002
-
-7278
-
-7279
-
-7273
-
-8003
-
-3623
-
-8421
-
-8225  8002  7278  7279  7273  8003  8003  8127  8002  7303  8200  8002  6001  6003  6004 8003
-
-7303
-
-8200
-
-8002
-
-6001
-
-6003  6004  8003  8003  8101  8002  8102 8002
-
-4239
-
-4134
-
-4104
-
-4106
-
-3116
-
-3108
-
-4111
-
-Obj_0047  S040464113  KAMUPA47112015  Obj_0045  Koerperkenngroessen  Obj_0069 185
-
-cm
-
-Timestamp_Messung
-
-Obj_0054
-
-JJJJMMTT
-
-HHmmss(ms)
-
-UTC+1
-
-Obj_0054 98.6
-
-kg
-
-Timestamp_Messung  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  Obj_0069  Veranlassungsgrund  Obj_0027  1  Akutdiagnose  Obj_0100  C00.1  G  R
-
-Obj_0100 2
-
-Akutdiagnose
-
-Obj_0100
-
-C00.2
-
-V  L  Obj_0100  Obj_0027  Abrechnungsinformation Obj_0001  Abrechnung_GKV
-
-Obj_0002 27
-
-Musterkasse 78945
-
-00
-
-00
-
-1
-
-123456789
+| 017 | 8003 | Obj_0047 |
+|---|---|---|
+| 019 | 3119 | S040464113 |
+| 023 | 3000 | KAMUPA47112015 |
+| 017 | 8003 | Obj_0045 |
+| 028 | 8169 | Koerperkenngroessen |
+| 017 | 8002 | Obj_0069 |
+| 012 | 3622 | 185 |
+| 011 | 8421 | cm |
+| 026 | 8225 | Timestamp_Messung |
+| 017 | 8002 | Obj_0054 |
+| 017 | 7278 | JJJJMMTT |
+| 018 | 7279 | HHmmss(ms) |
+| 014 | 7273 | UTC+1 |
+| 017 | 8003 | Obj_0054 |
+| 013 | 3623 | 98.6 |
+| 011 | 8421 | kg |
+| 026 | 8225 | Timestamp_Messung |
+| 017 | 8002 | Obj_0054 |
+| 017 | 7278 | JJJJMMTT |
+| 018 | 7279 | HHmmss(ms) |
+| 014 | 7273 | UTC+1 |
+| 017 | 8003 | Obj_0054 |
+| 017 | 8003 | Obj_0069 |
+| 027 | 8127 | Veranlassungsgrund |
+| 017 | 8002 | Obj_0027 |
+| 010 | 7303 | 1 |
+| 021 | 8200 | Akutdiagnose |
+| 017 | 8002 | Obj_0100 |
+| 014 | 6001 | C00.1 |
+| 010 | 6003 | G |
+| 010 | 6004 | R |
+| 017 | 8003 | Obj_0100 |
+| 010 | 7303 | 2 |
+| 021 | 8200 | Akutdiagnose |
+| 017 | 8002 | Obj_0100 |
+| 014 | 6001 | C00.2 |
+| 010 | 6003 | V |
+| 010 | 6004 | L |
+| 017 | 8003 | Obj_0100 |
+| 017 | 8003 | Obj_0027 |
+| 031 | 8101 | Abrechnungsinformation |
+| 017 | 8002 | Obj_0001 |
+| 023 | 8102 | Abrechnung_GKV |
+| 017 | 8002 | Obj_0002 |
+| 011 | 4239 | 27 |
+| 020 | 4134 | Musterkasse |
+| 014 | 4104 | 78945 |
+| 011 | 4106 | 00 |
+| 011 | 3116 | 00 |
+| 010 | 3108 | 1 |
+| 018 | 4111 | 123456789 |
 
 Objektende  Versicherten-ID  Patientennummer  Objektende
 
@@ -5243,9 +5028,7 @@ Diagnosesicherheit  Lokalisation
 
 Objektende
 
-Objektende
-
-Objektattribut  ObjektIdent  Objektattribut
+Objektende  Objektattribut  ObjektIdent  Objektattribut
 
 ObjektIdent
 
@@ -5524,7 +5307,7 @@ Material Serum unvollständig, Hinweis von Dr. Zusatzarzt auf „Materialmenge g
 
 **FK**  8000  8132  8002  0001  8151  8002  8315  8316  0105  0103  0132  8003  8218  8002  7278  7279  7273  8003  8003  8136  8002  8239  8002  1250  1252  8147
 
-**Feldinhalt**  8220  Kopfdaten  Obj_0032  LDT3.2.19  Sendendes_System  Obj_0051  Arzt123456  Labor27/12  a/nn/JJMM/MM/aaa  MusterLIS  5.12.15.1  Obj_0051  Timestamp_Erstellung_Datensatz  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  Obj_0032  Laborkennung  Obj_0036  Laborbezeichnung  Obj_0043  Laborarztpraxis Mueller/Meier  Abteilungsleiter Klin. Chemie  Person
+**Feldinhalt**  8220  Kopfdaten  Obj_0032  LDT 3.2.19  Sendendes_System  Obj_0051  Arzt123456  Labor27/12  a/nn/JJMM/MM/aaa  MusterLIS  5.12.15.1  Obj_0051  Timestamp_Erstellung_Datensatz  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  Obj_0032  Laborkennung  Obj_0036  Laborbezeichnung  Obj_0043  Laborarztpraxis Mueller/Meier  Abteilungsleiter Klin. Chemie  Person
 
 **Beschreibung**  Satzart  Objektattribut  ObjektIdent  Version der Datensatzbeschreibung  Objektattribut  ObjektIdent  ID des Empfängers  ID des Senders  KBV-Prüfnummer  Software/Name der Software  Version/Releasestand der Software  Objektende  Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Objektende  Objektattribut  ObjektIdent  Objektattribut  ObjektIdent  Organisation / Firma  Funktionsbezeichnung der Person  Objektattribut
 
@@ -5633,29 +5416,62 @@ Objektende  Objektattribut  ObjektIdent  Objektattribut  ObjektIdent  Status Per
 
 ---
 
-013  017  017  010  022  017  014  018  026  014  022  010  017  017  019  023  017  029  017  012  011  027  017  017  019  014
-
-017  013  011  027  017  017  019  014  017  017  028  017  020  036
-
-017  017  019  014  017  020  023 010  035  017
-
-017
-
-3102  3103  3104  3110  8228  8002  3112  3113  3107  3109  3115  3114  8003  8003  3119  3000  8003  8169  8002  3622  8421  8225  8002  7278  7279  7273  8003  3623  8421  8225  8002  7278  7279  7273  8003  8003  8117  8002  8310  8214  8002  7278  7279  7273  8003  8311  7305  8401  8216  8002  7278
-
-Karl  19600512  Dr. med.  M  Wohnanschrift  Obj_0007  23456  Musterort  Siegburger Straße  425 b
-
-3. Hinterhaus  D  Obj_0007  Obj_0047  S040464113  KAMUPA47112015  Obj_0045  Koerperkenngroessen
-
-Obj_0069  185  cm  Timestamp_Messung  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  98.6  kg  Timestamp_Messung  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  Obj_0069  Befundinformationen  Obj_0017  47112345678  Timestamp_Auftragserteilung Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  47112345678  47112345678001  2  Timestamp_Befunderstellung Obj_0054  JJJJMMTT
+| 013 | 3102 | Karl |  |
+|---|---|---|---|
+| 017 | 3103 | 19600512 |  |
+| 017 | 3104 | Dr. | med. |
+| 010 | 3110 | M |  |
+| 022 | 8228 |  | Wohnanschrift |
+| 017 | 8002 | Obj_0007 |  |
+| 014 | 3112 | 23456 |  |
+| 018 | 3113 | Musterort |  |
+| 026 | 3107 | Siegburger | Straße |
+| 014 | 3109 | 425 b |  |
+| 022 | 3115 | 3. | Hinterhaus |
+| 010 | 3114 | D |  |
+| 017 | 8003 | Obj_0007 |  |
+| 017 | 8003 | Obj_0047 |  |
+| 019 | 3119 |  | S040464113 |
+| 023 | 3000 |  | KAMUPA47112015 |
+| 017 | 8003 | Obj_0045 |  |
+| 029 | 8169 |  | Koerperkenngroessen |
+| 017 | 8002 | Obj_0069 |  |
+| 012 | 3622 | 185 |  |
+| 011 | 8421 | cm |  |
+| 027 | 8225 |  | Timestamp_Messung |
+| 017 | 8002 | Obj_0054 |  |
+| 017 | 7278 | JJJJMMTT |  |
+| 019 | 7279 |  | HHmmss(ms) |
+| 014 | 7273 | UTC+1 |  |
+| 017 | 8003 | Obj_0054 |  |
+| 013 | 3623 | 98.6 |  |
+| 011 | 8421 | kg |  |
+| 027 | 8225 |  | Timestamp_Messung |
+| 017 | 8002 | Obj_0054 |  |
+| 017 | 7278 | JJJJMMTT |  |
+| 019 | 7279 |  | HHmmss(ms) |
+| 014 | 7273 | UTC+1 |  |
+| 017 | 8003 | Obj_0054 |  |
+| 017 | 8003 | Obj_0069 |  |
+| 028 | 8117 |  | Befundinformationen |
+| 017 | 8002 | Obj_0017 |  |
+| 020 | 8310 |  | 47112345678 |
+| 036 | 8214 |  | Timestamp_Auftragserteilung |
+| 017 | 8002 | Obj_0054 |  |
+| 017 | 7278 | JJJJMMTT |  |
+| 019 | 7279 |  | HHmmss(ms) |
+| 014 | 7273 | UTC+1 |  |
+| 017 | 8003 | Obj_0054 |  |
+| 020 | 8311 |  | 47112345678 |
+| 023 | 7305 |  | 47112345678001 |
+| 010 | 8401 | 2 |  |
+| 035 | 8216 |  | Timestamp_Befunderstellung |
+| 017 | 8002 | Obj_0054 |  |
+| 017 | 7278 | JJJJMMTT |  |
 
 Vorname  Geburtsdatum  Titel  Geschlecht  Objektattribut  ObjektIdent  PLZ
 
-Ort  Straße  Hausnummer  Anschriftenzusatz  Wohnsitzländercode  Objektende  Objektende  Versicherten-ID  Patientennummer  Objektende  Objektattribut  ObjektIdent  Größe der Person  Einheit des Meßwertes  Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Gewicht der Person  Einheit des Meßwertes  Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Objektende  Objektattribut  ObjektIdent  Auftragsnummer des Einsenders
-
-Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  ID Auftragsnummer des Labors  Befund-ID  Status (Befund/Bericht)
-
-Objektattribut  ObjektIdent  Datum des Timestamp
+Dr. med. Siegburger Straße 3. Hinterhaus Ort  Straße  Hausnummer  Anschriftenzusatz  Wohnsitzländercode  Objektende  Objektende  Versicherten-ID  Patientennummer  Objektende  Objektattribut  ObjektIdent  Größe der Person  Einheit des Meßwertes  Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Gewicht der Person  Einheit des Meßwertes  Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Objektende  Objektattribut  ObjektIdent  Auftragsnummer des Einsenders  Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  ID Auftragsnummer des Labors  Befund-ID  Status (Befund/Bericht)  Objektattribut  ObjektIdent  Datum des Timestamp
 
 
 ---
@@ -5706,7 +5522,7 @@ Dr.  Obj_0047  Zusaetzliche_Informationen  Obj_0068  Eingesandte Menge Probenmat
 
 Bitte senden Sie uns bei zukünfti- gen Aufträgen Probenmaterial ent- sprechend der Vorgaben zu.  Obj_0068  Obj_0026  Obj_0017
 
-Material  Obj_0037  12345678.02  2  SE
+Material  Obj_0037  1234567802  2  SE
 
 Serum  gefroren 1
 
@@ -5714,7 +5530,7 @@ Medikament  Obj_0070  Arzneimittel XYZ  Obj_0070  Timestamp_Materialabnahme_ent-
 
 Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054
 
-Obj_0037  Material  Obj_0037  12345678.03  3
+Obj_0037  Material  Obj_0037  1234567803  3
 
 CB  Citrat-Blut 1
 
@@ -5809,7 +5625,7 @@ Obj_0070  Timestamp_Materialabnahme_ent- nahme
 
 Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1
 
-Obj_0054  Obj_0037  Laborergebnisbericht  Obj_0035  UE_Klinische_Chemie  Obj_0060  ErgebnisIDKC12345  12345678.02  HBs-Ag  Hepatitis B Antigen 06  Methode1
+Obj_0054  Obj_0037  Laborergebnisbericht  Obj_0035  UE_Klinische_Chemie  Obj_0060  ErgebnisIDKC12345  1234567802  HBs-Ag  Hepatitis B Antigen 06  Methode1
 
 01  Ergebnis
 
@@ -5874,7 +5690,7 @@ PM  Obj_0041  Untersuchungsabrechnung Obj_0058  1  0 32xxx
 
 1  Obj_0058  Obj_0060  UE_Klinische_Chemie
 
-Obj_0060  ErgebnisIDKC12302  12345678.03  Qu
+Obj_0060  ErgebnisIDKC12302  1234567803  Qu
 
 Quick  03  Methode5
 
@@ -5939,7 +5755,7 @@ PM  Obj_0041  Untersuchungsabrechnung  Obj_0058  2  0 32xxx
 
 1  Obj_0058  Obj_0060  Timestamp_Erstellung_Laborer- gebnisbericht  Obj_0054  JJJJMMTT  HHmmss(ms)
 
-UTC+1  Obj_0054  Obj_0035  UE_Klinische_Chemie  Obj_0060  ErgebnisIDKC12303  12345678.02  PSA
+UTC+1  Obj_0054  Obj_0035  UE_Klinische_Chemie  Obj_0060  ErgebnisIDKC12303  1234567802  PSA
 
 PSA 06  Methode7
 
@@ -6388,13 +6204,16 @@ Ergebnis: Ergebnistext ErgebnistextErgebnistext
 
 ---
 
-| Zusätzliche |  | Informationen: | Text | Text Text |  |  |  |
-|---|---|---|---|---|---|---|---|
-| Die GOP | und die | Kosten werden |  | mitgeteilt. | Die | Analytik | ist abgeschlossen. |
-|  | **ZUSATZINFORMATIONEN:** | |  |  |  |  |  |
-| Der | Befund im Format | PDF | wird als |  | base64-kodierte | Anlage | mit übermittelt |
-|  | **BEISPIELDATEI:** |  |  |  |  |  |  |
-|  |  | Z01_UseCase14_Befund_Obj_0073_mit_PDF.ldt | | | |  |  |
+| **IT in der** | **Arztpraxis** |  |  |  |  |  |
+|---|---|---|---|---|---|---|
+| LDT 3 |  |  |  |  |  |  |
+| Zusätzliche |  | Informationen: | Text Text | Text |  |  |
+| Die GOP | und die | Kosten werden | mitgeteilt. | Die | Analytik | ist abgeschlossen. |
+|  | **ZUSATZINFORMATIONEN:** | |  |  |  |  |
+| Der | Befund im | Format PDF wird | als | base64-kodierte | Anlage | mit übermittelt |
+|  | **BEISPIELDATEI:** |  |  |  |  |  |
+|  |  | Z01_UseCase14_Befund_Obj_0073_mit_PDF.ldt | | |  |  |
+| LDT 3 Use | Cases, Version | 3.2.19 |  | Seite 60 von 66 |  |  |
 
 Zusätzliche Informationen: Text Text Text Die GOP und die Kosten werden mitgeteilt. Die Analytik ist abgeschlossen. Der Befund im Format PDF wird als base64-kodierte Anlage mit übermittelt
 
@@ -6482,77 +6301,48 @@ Z01_UseCase15_Befund_mit_PDF.ldt
 
 ---
 
-| **IT in** | **der** | **Arztpraxis** |  |  |  |  |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| LDT 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| **14.** | **Use** | **Case** | **16 –** |  | **Darstellung** | | **des** | **Inhaltes** | |  | **Obj_0068** |  |  |  |
-| In | diesem | UseCase | wird | der Umgang | mit | Texten | im | Obj_0068 |  | (Fließtext) | für die | Anzeige | im | empfangenden |
-| System |  | dargestellt. |  |  |  |  |  |  |  |  |  |  |  |  |
-| **14.1.** | **Reiner** |  | **Fließtext** | **ohne** |  | **vordefinierte** | |  | **Formatierung** |  |  |  |  |  |
-| Beispiel: | |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Lorem | ipsum | dolor | sit amet, |  | consectetur | adipisici | elit, | sed | eiusmod | tempor |  | incidunt ut | labore | et dolore |
-| magna | aliqua. | Ut | enim ad | minim | veniam, | quis | nostrud | exercitation | | ullamco | laboris | nisi ut | aliquid | ex ea |
-| commodi | | consequat. | Quis | aute iure |  | reprehenderit | in | voluptate | velit | esse | cillum | dolore eu | fugiat | nulla pari- |
-| atur. | Excepteur | sint | obcaecat |  | cupiditat | non | proident, | sunt in | culpa | qui officia |  | deserunt | mollit anim | id est |
-| laborum. | Lorem | ipsum | dolor | sit amet, | co | nsectetur | adipisici | | elit, sed | eiusmod | tempor | incidunt | ut | labore et |
-| dolore | magna | aliqua. | Ut | enim ad | minim | veniam, | quis | nostrud |  | exercitation | ullamco | laboris | nisi ut | aliquid ex |
-| ea | commodi | consequat. | | Quis aute | iure | reprehenderit | | in voluptate | | velit esse | cillum | dolore | eu | fugiat nulla |
-| pariatur. |  | Excepteur | sint | obcaecat | cupiditat | non | proident, | sunt | in culpa | qui | officia | deserunt | mollit | anim id est |
-| laborum. |  | Lorem | ipsum dolor | sit | amet, | consectetur |  | adipisici | elit, sed | eiusmod | tempor |  | incidunt ut | labore et |
-| dolore | magna | aliqua. | Ut enim | ad | minim | veniam, | quis | nostrud | exercitation | | ullamco | laboris | nisi ut | aliquid ex |
-| ea | commodi | consequat. | | Quis aute | iure | reprehenderit | | in voluptate | | velit esse | cillum | dolore | eu fugiat | nulla |
-| pariatur. |  | Excepteur | sint | obcaecat | cupiditat | non | proident, | sunt | in culpa | qui | officia | deserunt | mollit | anim id est |
-| laborum. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | Darstellung | im | Obj_0068: |  |  |  |  |  |  |  |  |  |  |  |
-|  | 0218237Ergebnistext | | |  |  |  |  |  |  |  |  |  |  |  |
-|  | 0178002Obj_0068 | |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 9993564 | Lorem | ipsum | dolor sit | amet, | consectetur |  | adipisici | elit, sed |  | eius…(max.990 | | Zeichen) |  |
-|  | 0178003Obj_0068 | |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | Darstellung | im | empfangenden | | System: |  |  |  |  |  |  |  |  |  |
-| Fließtext | je | nach | Breite | der Anzeige |  |  |  |  |  |  |  |  |  |  |
-| Lorem | ipsum dolor | sit | amet, | Lorem | ipsum | dolor sit amet, | consectetur | adipisici | elit, sed | eiusmod | tempor incidunt | ut labore | et dolore magna |  |
-| consectetur | adipisici | elit, sed | ei- | aliqua. | Ut enim | ad minim | veniam, quis | nostrud | exercitation | ullamco | laboris nisi ut | aliquid ex ea | commodi conse- |  |
-| usmod | tempor | incidunt ut | labore | quat. | Quis aute | iure | reprehenderit in | voluptate | velit esse | cillum dolore | eu fugiat | nulla pariatur. | Excepteur sint |  |
-| et | dolore magna | aliqua. Ut | enim |  | obcaecat cupiditat | non | proident, sunt | in culpa qui | officia | deserunt mollit | anim id | est laborum. | Lorem ipsum | dolor |
-| ad minim | veniam, | quis | nostrud | sit | amet, | consectetur | adipisici elit, | sed eiusmod | tempor | incidunt ut | labore et | dolore magna | aliqua. Ut enim ad |  |
-| exercitation | ullamco | laboris | nisi ut | minimoder | veniam, | quis nostrud | exercitation | ullamco | laboris nisi | ut aliquid | ex ea | commodi consequat. | Quis aute | iure |
-| aliquid | ex ea | commodi | conse- |  | reprehenderit | in voluptate | velit esse | cillum dolore | eu fugiat | nulla | pariatur. Excepteur | sint obcaecat | cupiditat | non |
-| quat. | Quis aute | iure reprehenderit | |  | proident, sunt | in culpa qui | officia | deserunt mollit | anim id est | laborum. | Lorem ipsum | dolor sit | amet, consectetur |  |
-| in | voluptate velit | esse cillum | do- |  | adipisici elit, | sed eiusmod | tempor | incidunt ut | labore et dolore | magna | aliqua. Ut | enim ad minim | veniam, quis |  |
-| lore | eu fugiat | nulla pariatur. |  |  | nostrud exercitation | ullamco | laboris | nisi ut aliquid | ex ea | commodi | consequat. Quis | aute iure | reprehenderit in |  |
-| Excepteur | sint | obcaecat | cupiditat |  | voluptate velit | esse cillum | dolore eu | fugiat nulla | pariatur. | Excepteur | sint obcaecat | cupiditat non | proident, sunt | in |
-| non | proident, sunt | in culpa | qui | culpa | qui officia | deserunt | mollit anim | id est | laborum. |  |  |  |  |  |
-| officia | deserunt | mollit anim | id est |  |  |  |  |  |  |  |  |  |  |  |
-| laborum. | Lorem | ipsum dolor | sit |  |  |  |  |  |  |  |  |  |  |  |
-| amet, | consectetur | adipisici | elit, |  |  |  |  |  |  |  |  |  |  |  |
-| sed | eiusmod tempor | incidunt | ut |  |  |  |  |  |  |  |  |  |  |  |
-| labore | et dolore | magna aliqua. | Ut |  |  |  |  |  |  |  |  |  |  |  |
-| enim | ad minim | veniam, | quis |  |  |  |  |  |  |  |  |  |  |  |
-| nostrud | exercitation | ullamco | la- |  |  |  |  |  |  |  |  |  |  |  |
-| boris | nisi ut | aliquid ex ea | com- |  |  |  |  |  |  |  |  |  |  |  |
-| modi | consequat. | Quis aute | iure |  |  |  |  |  |  |  |  |  |  |  |
-|  | reprehenderit in | voluptate | velit |  |  |  |  |  |  |  |  |  |  |  |
-| esse | cillum dolore | eu fugiat | nulla |  |  |  |  |  |  |  |  |  |  |  |
-| pariatur. | Excepteur | sint | obcaecat |  |  |  |  |  |  |  |  |  |  |  |
-| cupiditat | non | proident, sunt | in |  |  |  |  |  |  |  |  |  |  |  |
-| culpa | qui officia | deserunt | mollit |  |  |  |  |  |  |  |  |  |  |  |
-| anim | id est laborum. | Lorem | ipsum |  |  |  |  |  |  |  |  |  |  |  |
-| dolor | sit amet, | consectetur | adipi- |  |  |  |  |  |  |  |  |  |  |  |
-| sici | elit, sed | eiusmod tempor | inci- |  |  |  |  |  |  |  |  |  |  |  |
-| dunt | ut labore et | dolore | magna |  |  |  |  |  |  |  |  |  |  |  |
-| aliqua. | Ut enim ad | minim | veniam, |  |  |  |  |  |  |  |  |  |  |  |
-| quis | nostrud | exercitation | ullamco |  |  |  |  |  |  |  |  |  |  |  |
-| laboris | nisi ut aliquid | ex ea | com- |  |  |  |  |  |  |  |  |  |  |  |
-| modi | consequat. | Quis aute | iure |  |  |  |  |  |  |  |  |  |  |  |
-|  | reprehenderit in | voluptate | velit |  |  |  |  |  |  |  |  |  |  |  |
-| esse | cillum dolore | eu fugiat | nulla |  |  |  |  |  |  |  |  |  |  |  |
-| pariatur. | Excepteur | sint | obcaecat |  |  |  |  |  |  |  |  |  |  |  |
-| cupiditat | non | proident, sunt | in |  |  |  |  |  |  |  |  |  |  |  |
-| culpa | qui officia | deserunt | mollit |  |  |  |  |  |  |  |  |  |  |  |
-| anim id | est laborum. |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| LDT 3 | Use Cases, | Version | 3.2.19 |  |  |  | Seite 63 von | 66 |  |  |  |  |  |  |
+**14. Use Case 16 – Darstellung des Inhaltes Obj_0068**
 
-Use Case 16 – Darstellung des Inhaltes Obj_0068 In diesem UseCase wird der Umgang mit Texten im Obj_0068 (Fließtext) für die Anzeige im empfangenden System dargestellt. Reiner Fließtext ohne vordefinierte Formatierung Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pari- atur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, co nsectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est Darstellung im Obj_0068: Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eius…(max.990 Zeichen) Darstellung im empfangenden System: Fließtext je nach Breite der Anzeige Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna consectetur adipisici elit, sed ei- usmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi conse- quat. Quis aute iure reprehenderit in voluptate velit esse cillum do- lore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco la- boris nisi ut aliquid ex ea com- modi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipi- sici elit, sed eiusmod tempor inci- dunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea com- aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut al iquid ex ea commodi conse- quat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore  magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. modi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In diesem UseCase wird der Umgang mit Texten im Obj_0068 (Fließtext) für die Anzeige im empfangenden  System dargestellt.
+
+**14.1. Reiner Fließtext ohne vordefinierte Formatierung**
+
+Beispiel:
+
+Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore  magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea
+
+commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pari- atur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est  laborum. Lorem ipsum dolor sit amet, co nsectetur adipisici elit, sed eiusmod tempor incidunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex  ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+
+pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est  laborum. Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex  ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla  pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est  laborum.
+
+Darstellung im Obj_0068: 0218237Ergebnistext
+
+0178002Obj_0068  9993564Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eius…(max.990 Zeichen) 0178003Obj_0068
+
+Darstellung im empfangenden System:
+
+Fließtext je nach Breite der Anzeige
+
+Lorem ipsum dolor sit amet,
+
+Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna
+
+consectetur adipisici elit, sed ei- usmod tempor incidunt ut labore  et dolore magna aliqua. Ut enim  ad minim veniam, quis nostrud  exercitation ullamco laboris nisi ut
+
+aliquid ex ea commodi conse- quat. Quis aute iure reprehenderit  in voluptate velit esse cillum do- lore eu fugiat nulla pariatur.  Excepteur sint obcaecat cupiditat  non proident, sunt in culpa qui  officia deserunt mollit anim id est  laborum. Lorem ipsum dolor sit   amet, consectetur adipisici elit,  sed eiusmod tempor incidunt ut  labore et dolore magna aliqua. Ut   enim ad minim veniam, quis  nostrud exercitation ullamco la- boris nisi ut aliquid ex ea com- modi consequat. Quis aute iure  reprehenderit in voluptate velit   esse cillum dolore eu fugiat nulla  pariatur. Excepteur sint obcaecat  cupiditat non proident, sunt in   culpa qui officia deserunt mollit  anim id est laborum. Lorem ipsum  dolor sit amet, consectetur adipi- sici elit, sed eiusmod tempor inci- dunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam,  quis nostrud exercitation ullamco  laboris nisi ut aliquid ex ea com-
+
+aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi conse-
+
+quat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint  obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor  sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad  minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure
+
+oder  reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non  proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur  adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+
+nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in  voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in  culpa qui officia deserunt mollit anim id est laborum.
+
+modi consequat. Quis aute iure  reprehenderit in voluptate velit  esse cillum dolore eu fugiat nulla
+
+pariatur. Excepteur sint obcaecat  cupiditat non proident, sunt in  culpa qui officia deserunt mollit  anim id est laborum.
+
 
 ---
 
@@ -6574,7 +6364,7 @@ Excepteur sint
 
 Darstellung im Obj_0068:
 
-0218237Ergebnistext  0178002Obj_0068  0833564Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor  08.13564incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis  0863564nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat.  0853564Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat  0243564nulla pariatur.  0093564  0833564Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia:  02903564deserunt mollit anim  0233564id est laborum  0253564orem ipsum dolor  0173564sit amet  0313564consectetur adipisici.  0093564  0833564Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut  0413564aliquid ex ea commodi consequat.  0093564  037.3564Quis aute iure reprehenderit  0093564  023.3564Excepteur sint
+0218237Ergebnistext  0178002Obj_0068  0833564Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor  0813564incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis  0863564nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat.  0853564Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat  0243564nulla pariatur.  0093564  0833564Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia:  02903564deserunt mollit anim  0233564id est laborum  0253564orem ipsum dolor  0173564sit amet  0313564consectetur adipisici.  0093564  0833564Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut  0413564aliquid ex ea commodi consequat.  0093564  0373564Quis aute iure reprehenderit  0093564  0233564Excepteur sint
 
 0093564  0178003Obj_0068   Darstellung im empfangenden System:
 
@@ -6666,16 +6456,14 @@ Bemerkungen: Döderlein-Zytolyse
 
 ---
 
-| Empfohlen | wird | eine |  | Abklärungskolposkopie | in | 3 Monaten |  |  |
-|---|---|---|---|---|---|---|---|---|
-| Die | unten | dargestellten | Angaben | aus | dem Muster | 39 | (linker | Teil des |
-| ebenfalls | im Befund | mit | übermittelt: | |  |  |  |  |
-|  |  |  | 0 0 | 1 8 |  |  |  |  |
-|  | 0 2 0 2 | 2 0 |  |  |  |  |  |  |
-|  | **ZUSATZINFORMATIONEN:** | | |  |  |  |  |  |
-| Das | Muster 39 | wird als | Digitales | Muster | 39 im | Format | PDF als | base64-kodierte |
-| mit | übermittelt. |  |  |  |  |  |  |  |
-|  | **BEISPIELDATEI:** |  |  |  |  |  |  |  |
-|  | Z01_UseCase17_Muster39.ldt | | |  |  |  |  |  |
+Empfohlen wird eine Abklärungskolposkopie in 3 Monaten
 
-Empfohlen wird eine Abklärungskolposkopie in 3 Monaten Die unten dargestellten Angaben aus dem Muster 39 (linker Teil des Musters) werden ebenfalls im Befund mit übermittelt: 0 2 0 2 2 0 Das Muster 39 wird als Digitales Muster 39 im Format PDF als base64-kodierte Anlage mit übermittelt. 0 0 1
+Die unten dargestellten Angaben aus dem Muster 39 (linker Teil des Musters) werden  ebenfalls im Befund mit übermittelt: 0 2 0 2 2 0
+
+**ZUSATZINFORMATIONEN:**
+
+Das Muster 39 wird als Digitales Muster 39 im Format PDF als base64-kodierte Anlage  mit übermittelt.
+
+**BEISPIELDATEI:**
+
+Z01_UseCase17_Muster39.ldt 0 0 1 8

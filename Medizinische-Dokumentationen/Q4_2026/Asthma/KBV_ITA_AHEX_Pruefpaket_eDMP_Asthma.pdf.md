@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | BUNDESVEREINIGUNG DEZERNAT DIGITALISIERUNG UND IT 31. MÄRZ 2026  VERSION: 1.23  DOKUMENTENSTATUS: IN |
+|  | BUNDESVEREINIGUNG  DEZERNAT DIGITALISIERUNG UND IT  31. MÄRZ 2026   VERSION: 1.23   DOKUMENTENSTATUS: IN |
 |---|---|
 
 # PRUEFPAKET EDMP-ASTHMA
@@ -111,9 +111,13 @@ KASSENÄRZTLICHE IT IN DER ARZTPRAXIS KRAFT
 
 29
 
-|  |  | **TESTDATENVALIDIERUNG** | **30** |
-|---|---|---|---|
-| 3.1 | Prüffall | TDV9518 | 31 |
+**TESTDATENVALIDIERUNG**
+
+**30**
+
+3.1 Prüffall TDV9518
+
+31
 
 |  | **ANHANG** |  | **33** |
 |---|---|---|---|
@@ -124,7 +128,7 @@ KASSENÄRZTLICHE IT IN DER ARZTPRAXIS KRAFT
 
 **35**
 
-Prüffall TDV9518 Versichertendaten 1 Versichertendaten 2
+Versichertendaten 1 Versichertendaten 2
 
 ---
 
@@ -145,18 +149,18 @@ DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.23 | 31.03.2026 | KBV | Anpassung der Prüffälle an  Anpassung Prüffall 9540 | Schnittstellenversion  Änderung der | 9, 13    29 |
-| 1.22 | 15.08.2023 | KBV | Datumsanpassungen der Anpassung der | Datumsanpassungen | 13 |
-| 1.21 | 28.03.2023 | KBV | Korrektur der Daten der Dokumentationen im Prüffall 9514 |  | 22, 25 |
-| 1.20 | 08.11.2022 | KBV | Datumsanpassungen der Neuer Prüffall 9540 zur Teilnahmeerklärung | Datumsanpassungen Schnittstellenversion | Prüffälle  25 |
+| 1.23 | 31.03.2026 | KBV | Anpassung der Prüffälle an    Anpassung Prüffall 9540 | Schnittstellenversion    Änderung der | 9, 13        29 |
+| 1.22 | 15.08.2023 | KBV | Datumsanpassungen der  Anpassung der | Datumsanpassungen | 13 |
+| 1.21 | 28.03.2023 | KBV | Korrektur der Daten der  Dokumentationen im  Prüffall 9514 |  | 22, 25 |
+| 1.20 | 08.11.2022 | KBV | Datumsanpassungen der  Neuer Prüffall 9540 zur  Teilnahmeerklärung | Datumsanpassungen  Schnittstellenversion | Prüffälle    25 |
 | 1.19 | 12.08.2021 | KBV | Überarbeitung des Layouts | Überführung ins neue | Alle |
 | 1.18 | 18.03.2021 | KBV | Datumsanpassungen der | Datumsanpassungen | Prüffälle |
 | 1.17 | 15.02.2021 | KBV | Anpassung an Schnittstelle | Schnittstellenversion | Prüffälle |
 | 1.16 | 11.02.2019 | KBV | Anpassung an Schnittstelle | Schnittstellenversion | Prüffälle |
 |  |  |  |  |  |  |
-|  |  | 31.03.2026 | KBV | Anpassung der Prüffälle an | Anpassung Prüffall 9540 Änderung der |
-|  |  | 29 |  |  | 15.08.2023 KBV Anpassung der Datumsanpassungen |
-|  |  | 1.21 | 28.03.2023 | KBV Korrektur der Daten der Dokumentationen im | 1.20 08.11.2022 Datumsanpassungen der Neuer Prüffall 9540 zur |
+|  |  | 31.03.2026 | KBV | Anpassung der Prüffälle an | Anpassung Prüffall 9540  Änderung der |
+|  |  | 29 |  |  | 15.08.2023  KBV  Anpassung der  Datumsanpassungen |
+|  |  | 1.21 | 28.03.2023 | KBV  Korrektur der Daten der  Dokumentationen im | 1.20  08.11.2022  Datumsanpassungen der  Neuer Prüffall 9540 zur |
 | Schnittstellenversion |  |  |  |  |  |
 
 Schnittstellenversionen 4.47 Prüffälle. Medikamente im Prüffall 6513 für DM2. Erstellung der Prüffälle. Umsetzung der übergreifenden 4.45 4.44 4.47 ist ab 01.10.2026 zu verwenden Barcodeversion (03) ab 1.10.2026 wegen der übergreifenden Prüffälle (DM2- 6.07 ist ab 01.10.2023 zu verwenden). wegen der übergreifenden Prüffälle. 4.46 ist ab 01.04.202 3 zu verwenden Corporate Design wegen der übergreifenden 4.45 ist ab 01.04.2021 zu verwenden 4.44 ist ab 01.04.2019 zu verwenden
@@ -165,7 +169,7 @@ Schnittstellenversionen 4.47 Prüffälle. Medikamente im Prüffall 6513 für DM2
 
 |  |  |  |  |  |  |
 |---|---|---|---|---|---|
-|  | KBV | Anpassung der Prüffälle an | Schnittstellenversion |  | Prüffälle 1.14 KBV Einreichung des Antrags auf |
+|  | KBV | Anpassung der Prüffälle an | Schnittstellenversion |  | Prüffälle  1.14  KBV  Einreichung des Antrags auf |
 |  |  |  | 26 |  | 1.12 |
 | KBV | Aufnahme eines Testfalls | Schnittstellenversion | Schnittstellenversion |  |  |
 |  |  |  | Prüffall | 1.11 | 23.05.2017 Aktualisierung der |
@@ -175,8 +179,8 @@ Schnittstellenversionen 4.47 Prüffälle. Medikamente im Prüffall 6513 für DM2
 |  |  |  |  |  |  |
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 | 1.15 | 07.05.2018 | KBV | Anpassung der Prüffälle an | Schnittstellenversion | Prüffälle |
-| 1.14 | 12.03.2018 | KBV | Einreichung des Antrags auf Korrektur der | Anpassung des | Zertifizier  26 |
-| 1.12 | 13.02.2018 | KBV | Anpassung der Prüffälle an Aufnahme eines Testfalls | Schnittstellenversion  Schnittstellenversion | Prüffälle    Prüffall |
+| 1.14 | 12.03.2018 | KBV | Einreichung des Antrags auf  Korrektur der | Anpassung des | Zertifizier   26 |
+| 1.12 | 13.02.2018 | KBV | Anpassung der Prüffälle an  Aufnahme eines Testfalls | Schnittstellenversion    Schnittstellenversion | Prüffälle        Prüffall |
 | 1.11 | 23.05.2017 | KBV | Komplettüberarbeitung des | Aktualisierung der | Alle |
 
 Schnittstellen 4.42 und 4.43 Zertifizierung Nummerierung in Prüffall 9515 Schnittstellenversionen 4.41 und 4.42 für die Testdatenvalidierung zur Schnittstellenversion 4.43 Prüfpaketes 4.43 ist ab 01.07.2018 zu verwenden Zertifizierungsportales  4.42 ist ab 01.04.2018 zu verwenden 4.43 ist ab 01.07.2018 zu verwenden Zertifizierungsrichtlinie ungsablau TDV9518
@@ -277,7 +281,7 @@ einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender N
 
 - 1
 
-- 2.3
+- 2 3
 
 -  [PrüffallNr.] _[lfdNr.] .*
 
@@ -340,7 +344,7 @@ Ab dem **01.10.2026** muss die Schnittstellenversion **4.47** verwendet werden.
 
 - Ab dem **01.10.2023** muss die Schnittstellenversion** 6.07** verwendet werden.
 
-Ab dem **01.10.2026** muss die Schnittstellenversion **6.08** verwendet werden.
+Ab dem **01.10.2026** muss die Schnittstellenversion **6 08** verwendet werden.
 
 - Indikation **KHK:**
 
@@ -461,8 +465,8 @@ Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 | 9540 | Lija Malta | XML_36 |
 | TDV9518 | Brigitte Althaus | XML_05 |
 | Ersatzverfahren | | |
-| 6513 | Ingrid Schimmelpfennig- | Ersatzverfahren (s. Versichertendaten 1 – |
-| 9513 | Martin Gruber | Ersatzverfahren (s. Versichertendaten 2 – |
+| 6513 | Ingrid Schimmelpfennig- | Ersatzverfahren (s. Versichertendaten 1– |
+| 9513 | Martin Gruber | Ersatzverfahren (s. Versichertendaten 2– |
 
 Hammerschmidt Federmannssohn Ersatzverfahren)
 
@@ -506,7 +510,7 @@ Die Versichertendaten von **Erna Müller (XML_14)**
 | Raucher | Ja | Nein |
 | Begleiterkrankungen | Fettstoffwechselstörung, | Fettstoffwechselstörung |
 | Behandlungsplanung | | |
-| Vom Patienten gewünschte | Tabakverzicht, Körperliches Training |  |
+| Vom Patienten gewünschte | Tabakverzicht,  Körperliches Training |  |
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung | 06.10.2023 | 06.12.2024 |
 
@@ -1022,7 +1026,7 @@ Netzhautuntersuchung seit der letzten Dokumentation das Diabetische Fußsyndrom 
 | Prüffall-ID | 9514 |
 | Testziel | › |
 | Voraussetzung | › |
-| Prüfunterlagen | ›  › |
+| Prüfunterlagen | ›   › |
 | Hinweis | › |
 
 Kontrolle der softwareseitigen Erkennung von Fehleingaben bzw. Prüfung, dass manche Fehleingaben nicht möglich sind. Patient oder Patientin ist mindestens 18 Jahre alt Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis- bzw. Fehlermeldungen.  Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben sind. Prüffall 9514 Aktionen, die durch den Antragssteller durchgeführt werden: 1. Versichertendaten: Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation  DATEN   15.mm.jjjj Patienten
@@ -1153,7 +1157,7 @@ DATEN Häufigkeit von Asthma-Symptomen tagsüber  Bedarfsmedikation wegen Asthma
 | Prüffall-ID | 9515 |
 | Testziel | › |
 | Voraussetzung | › |
-| Prüfunterlagen | › Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert.  › Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen.  › Eingabefehler verhindert |
+| Prüfunterlagen | › Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert.    › Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch  Einblenden der entsprechenden Ziffer erfolgen.    › Eingabefehler verhindert |
 | Hinweis | › |
 
 **Aktionen, die durch den Antragssteller durchgeführt werden:**
@@ -1221,21 +1225,21 @@ Krankenkasse 15.mm.jjjj
 |  |  |
 |---|---|
 | Prüffall-ID | 9530 |
-| Testziel | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges (KBV_ITA_VGEX_Anforderungskatalog_eDMP ) |
+| Testziel | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges  (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
 | Voraussetzung |  |
-| Prüfunterlagen | › einer möglichen Hinweissteuerung.  › Systemfunktionalität. |
+| Prüfunterlagen | › einer möglichen Hinweissteuerung.    › Systemfunktionalität. |
 | Hinweis | Dieser Testfall ist unterteilt in drei Szenarien |
 
 | SZENARIEN |
 |---|
 | Szenario 1 |
-| Es wird eine Erstdokumentation für einen noch nicht im System existierenden Patienten angelegt. Bei Angabe der DMP-Fallnummer ist eine bereits existierende Nummer (z.B. 9511) einzugeben. Das System darf entsprechend der Anforderung P1-10 (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP) die bereits vergebene DMP-Fallnummer nicht akzeptieren. |
+| Es wird eine Erstdokumentation für einen noch nicht im System existierenden Patienten angelegt. Bei  Angabe der DMP-Fallnummer ist eine bereits existierende Nummer (z.B. 9511) einzugeben. Das System  darf entsprechend der Anforderung P1-10 (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP) die bereits  vergebene DMP-Fallnummer nicht akzeptieren. |
 |  |
 | Szenario 2 |
-| Der Patient wechselt den Arzt, z.B. aufgrund einer Vertretungsregelung. Nach Kenntnisnahme einer entsprechenden Warnung gemäß Anforderung P1-12 (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP ), dass zu diesem Patienten keine Erstdokumentation vorliegt, wird eine |
+| Der Patient wechselt den Arzt, z.B. aufgrund einer Vertretungsregelung. Nach Kenntnisnahme einer  entsprechenden Warnung gemäß Anforderung P1-12 (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP),  dass zu diesem Patienten keine Erstdokumentation vorliegt, wird eine |
 |  |
 | Szenario 3 |
-| Die Daten werden vom Anwender für den Versand vorbereitet. Das System erzeugt eine Hinweismeldung einen Transportbegleitzettel aus Anforderungen KP4 KBV_ITA_VGEX_Anforderungskatalog_eDMP ) nachgewiesen werden. |
+| Die Daten werden vom Anwender für den Versand vorbereitet. Das System erzeugt eine  Hinweismeldung  einen Transportbegleitzettel aus Anforderungen KP4 KBV_ITA_VGEX_Anforderungskatalog_eDMP) nachgewiesen  werden. |
 
 Dokumentieren Sie durch Videos die Eingaben einschließlich der Ergebnisse nach Screenshots und ggf. Erläuterungen zum Nachweis der korrekten (Bildschirmkopie beilegen) bezüglich der Datenträgerbeschriftung und druckt Verlaufsdokumentation angelegt.  (Bildschirmkopie oder PDF beilegen). Hier soll die Umsetzung der -40 und KP4-41 (siehe
 
@@ -1246,7 +1250,7 @@ Dokumentieren Sie durch Videos die Eingaben einschließlich der Ergebnisse nach 
 |  | |
 |---|---|
 | Prüffall-ID | 9540 |
-| Testziel | (KBV_ITA_VGEX_Anforderungskatalog_eDMP ) |
+| Testziel | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
 | Voraussetzung |  |
 | Prüfunterlagen | PDF-Datei der indikationsübergreifenden Teilnahme- und Einwilligungserklärung |
 | Hinweis | indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein |
@@ -1333,15 +1337,15 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 | INDIKATIONSÜBERGREIFENDE | |
 |---|---|
 | Administrative Daten | Erstdokumentation |
-| DMP-Fallnummer | TDV9518 |
+| DMP-Fallnummer | TDV 9518 |
 | Krankenhaus-IK |  |
 | Dokumentation in Vertretung erstellt |  |
-| Datum | 0.5.04.2022  05.04.2025 |
+| Datum | 05.04.2022  05.04.2025 |
 | Einschreibung wegen | Asthma bronchiale |
 | Geschlecht | Weiblich |
 | Allgemeine Anamnese- und Befunddaten | |
 | Körpergröße | 1,60 m |
-| Körpergewicht | 0.60 kg |
+| Körpergewicht | 060 kg |
 | Blutdruck | 120 / 80 mmHg |
 | Raucher | Nein |
 | Begleiterkrankungen | Keine der genannten Erkrankungen |
@@ -1453,7 +1457,7 @@ und Georg-von-Groscurth-Plaetzchen
 | EXT_ITA_VGEX_Plausi_eDMP_DM1_DM2 | Plausibilitätsrichtlinie zur Prüfung der |
 | EXT_ITA_VGEX_Plausi_eDMP_KHK | Plausibilitätsrichtlinie zur Prüfung der |
 | EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend | Plausibilitätsrichtlinie zur Prüfung der |
-| KBV_ITA_FMEX_AAZ_eDMP_Asthma | Antrag auf Zertifizierung eDMP-Asthma (Ergänzende Erklärung) |
+| KBV_ITA_FMEX_AAZ_eDMP_Asthma | Antrag auf Zertifizierung eDMP-Asthma  (Ergänzende Erklärung) |
 | [KBV_ITA_RLEX_Zert] | Zertifizierungsrichtlinie der KBV |
 | KBV_ITA_VGEX_Anforderungskatalog_eDMP | Anforderungskatalog eDMP |
 | KBV_ITA_VGEX_Schnittstelle_eDMP_Asthma | Dokumentation Asthma Schnittstellenbeschreibung |

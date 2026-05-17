@@ -5,7 +5,7 @@
 
 ## [KBV_ITA_VGEX_ANFORDERUNGSKATALOG_SST -VOS]
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT |
 |---|---|
 
 |  |
@@ -200,13 +200,13 @@ DOKUMENTENHISTORIE
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 2.1.2 | 15.09.2023 | KBV | Anpassung P4-00 | Konkretisierung | 23 |
-| 2.1.1 | 21.02.2023 | KBV | V2.1.0 umbenannt in V2.1.1   KP4-120: Aufruf Storno-eRezept KP4-121: Aufruf Storno-eRezept | Redaktionelle Änderung  Redaktionelle Änderung | 8  33 |
-| 2.1.0 | 16.12.2022 | KBV | Anpassung der Nutzung des  Redaktionelle Änderungen in  KP3-270  Korrektur von fehlerhafter  Verweis auf §291a SGB V als | Umbenennung des  Fehlerkorrektur   Fehlerkorrektur   Gesetzesverweis veraltet | Alle   21   23   4 |
-| 2.1.0 | 24.11.2022 | KBV | P3-190: überarbeitet   P3-210: neuer Hinweis  KP3-270: neue Anforderung  P3-280: neue Anforderung Tabelle 3 angepasst | Ergebnisse der | 15   17  20 20 24 |
+| 2.1.1 | 21.02.2023 | KBV | V 2.1.0 umbenannt in V2.1.1     KP4-120: Aufruf Storno-eRezept  KP4-121: Aufruf Storno-eRezept | Redaktionelle Änderung    Redaktionelle Änderung | 8    33 |
+| 2.1.0 | 16.12.2022 | KBV | Anpassung der Nutzung des    Redaktionelle Änderungen in   KP 3-270    Korrektur von fehlerhafter    Verweis auf §291a SGB V als | Umbenennung des    Fehlerkorrektur      Fehlerkorrektur      Gesetzesverweis veraltet | Alle      21      23      4 |
+| 2.1.0 | 24.11.2022 | KBV | P3-190: überarbeitet      P3-210: neuer Hinweis    KP3-270: neue Anforderung   P3-280: neue Anforderung  Tabelle 3 angepasst | Ergebnisse der | 15      17    20  20  24 |
 | 2.1.0 | 19.09.2022 | KBV | Anpassung an eRezept und R4 | Änderung der SST- | Alle |
 | 1.20.0 | 08.07.2021 | KBV | Anpassung an E-Rezept | Änderung der SST- | Alle |
-| 1.10.010 | 15.05.2020 | KBV | Geänderte Anforderung P3-80  P3-110 P3-170 P3-180 P4-00 | Anpassung an AVWG- (Version V1.10.010) | 19  24 38 43 47 |
-| 1.10.002 | 14.02.2020 | KBV | Neue Kapitel/Anfo‘s: Kap. 1.4 P3-230, -240 P4-210 P5-01 Geänderte Kapitel/Anfo‘s: Kap. 3, 4, 5 | Redaktionelle Anpassung Konkretisierung der Anforderungen   Redaktionelle Anpassung | Diverse |
+| 1.10.010 | 15.05.2020 | KBV | Geänderte Anforderung  P3-80    P3-110  P3-170  P3-180  P4-00 | Anpassung an AVWG- (Version V1.10.010) | 19    24  38  43  47 |
+| 1.10.002 | 14.02.2020 | KBV | Neue Kapitel/Anfo‘s: Kap. 1.4  P3-230, -240  P4-210  P5-01  Geänderte Kapitel/Anfo‘s: Kap. 3, 4, 5 | Redaktionelle Anpassung  Konkretisierung der  Anforderungen      Redaktionelle Anpassung | Diverse |
 
 Kürzels “AVWG” Referenz Grundlage für Medikationspläne entfernt Zertifizierungsverfahrens Kommentierung Festlegung Festlegung Anforderungskatalog Korrektur der VoS-SST Schnittstelle
 
@@ -214,7 +214,7 @@ Kürzels “AVWG” Referenz Grundlage für Medikationspläne entfernt Zertifizi
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-|  |  |  |  | P3-60, -71, -80, -100, -110,  -130, -190 P4-00, KP4-30, -40, P4-150,  -180, KP4-190 P5-10 Tabelle 18, P4-170  Verschobene Anfo‘s: P3-10 zu P4-999 und P5-999 P3-20 zu P5-999 | Konkretisierung der Anforderungen  Redaktionelle Anpassung |
+|  |  |  |  | P3-60, -71, -80, -100, -110,   -130, -190  P4-00, KP4-30, -40, P4-150,   -180, KP4-190  P5-10  Tabelle 18, P4-170    Verschobene Anfo‘s: P3-10 zu P4-999 und P5-999  P3-20 zu P5-999 | Konkretisierung der  Anforderungen    Redaktionelle Anpassung |
 | 1.10.001 | 27.05.2019 | KBV | Aktualisierung |  | Alle |
 | 1.00 | 29.06.2018 | KBV | Initiale Erstellung | § 291d Absatz 1a Satz 1 Nr. | Alle |
 
@@ -302,7 +302,7 @@ Optionale Funktionen sind wie folgt gekennzeichnet:
 
 ## 1.4 GÜLTIGKEIT DER VERSION DES ANFORDERUNGSKATALOGS
 
-Die Version des Anforderungskataloges V2.1.2 bezieht sich auf die Schnittstellenversion der VoS-SST V2.1.0.
+Die Version des Anforderungskataloges V 2.1.2 bezieht sich auf die Schnittstellenversion der VoS-SST V2.1.0.
 
 
 ---
@@ -772,7 +772,7 @@ e - FHIR®-Elemente
 
 ---
 
-| Beispiel Definition des Patienten in KBV_VoS_Patient: <StructureDefinition xmlns="http://hl7.org/fhir"> <url value="https://fhir.kbv.de/StructureDefinition/  <version value="2.1.0" /> ... </StructureDefinition>  Instanzen des Patienten <Patient xmlns="http://hl7.org/fhir">  <meta> <profile value="https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_Patient \|2.1.0" />  </meta> ... </Patient> |
+| Beispiel  Definition des Patienten in KBV_VoS_Patient:  <StructureDefinition xmlns="http://hl7.org/fhir"> <url value="https://fhir.kbv.de/StructureDefinition/  <version value="2.1.0" />  ...  </StructureDefinition>    Instanzen des Patienten  <Patient xmlns="http://hl7.org/fhir">  <meta>  <profile value="https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_Patient\|2.1.0" />   </meta>  ...  </Patient> |
 |---|
 
 KBV_PR_VoS_Patient" />
@@ -963,7 +963,7 @@ Dem Arzt muss der Aufruf der VoS aus dem PVS ohne Umwege ermöglicht werden.
 
 - 4. Tritt beim Aufrufen der VoS ein Fehler auf, so muss dem Arzt unter Beac eine aussagekräftige Fehlermeldung angezeigt werden.
 
-| Beispiel:  Aufruf: VOSProgramm.exe -kID 12345 |
+| Beispiel:   Aufruf: VOSProgramm.exe -kID 12345 |
 |---|
 
 **HINWEIS**
@@ -1030,7 +1030,7 @@ itioner itionerRole nization nt rage gyIntolerance ition rvation_Body_Weig ht rv
 | KBV_PR_VoS_Obse | (x) | (x) | (x) | - | - | (x) | (x) | (x) | (x) | - | - | - |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | KBV_PR_VoS_Obse | (x) | (x) | (x) | - | - | (x) | (x) | (x) | (x) | - | - | - |
-| KBV_PR_VoS_Docu | (x) | - | (x) Typ =  oder | - | (x) Vom | (x) | (x) Vom | (x) Vom | x vom Typ  oder | - | - | X Vom Typ ( |
+| KBV_PR_VoS_Docu | (x) | - | (x) Typ =    oder | - | (x)  Vom | (x) | (x)  Vom | (x)  Vom | x  vom Typ    oder | - | - | X  Vom Typ ( |
 | KBV_PR_VoS_Prov | - | - | - | - | - | - | - | - | - | - | - | - |
 | KBV_PR_VoS_Prov | (x) | (x) | (x) | - | - | (x) | (x) | (x) | (x) | - | - | - |
 | KBV_PR_VoS_Medi | (x) | - | (x) | - | - | (x) | (x) | (x) | (x) | - | - | - |
@@ -1220,7 +1220,7 @@ Diese Anforderung ermöglicht den direkten Aufruf der Verordnungsfunktion „Adm
 
 Diese Anforderung muss nur dann umgesetzt werden, wenn das PVS die entsprechende  Verordnungsfunktionalität unterstützt.
 
-| Beispiel:  Das manuelle Einspielen von Updates. |
+| Beispiel:   Das manuelle Einspielen von Updates. |
 |---|
 
 | KONDITIONALE PFLICHTFUNKTION VOS |  |
@@ -1284,7 +1284,7 @@ Verordnungsfunktionalität unterstützt.
 
 - P4-10 der VoS übergeben wird.
 
-| Beispiel:  Der Arzt möchte Informationen zu einem Medikament nachschlagen. |
+| Beispiel:   Der Arzt möchte Informationen zu einem Medikament nachschlagen. |
 |---|
 
 | KONDITIONALE PFLICHTFUNKTION VOS |  |
@@ -1303,7 +1303,7 @@ Diese Anforderung ermöglicht den direkten Aufruf der Verordnungsfunktion „Arz
 
 Diese Anforderung muss nur dann umgesetzt werden, wenn das PVS die entsprechende  Verordnungsfunktionalität unterstützt.
 
-| Beispiel:  Der Arzt möchte Informationen zu einem Medikament einsehen, welches einem bestimmten |
+| Beispiel:   Der Arzt möchte Informationen zu einem Medikament einsehen, welches einem bestimmten |
 |---|
 
 | KONDITIONALE PFLICHTFUNKTION VOS |  |
@@ -1575,7 +1575,7 @@ gten Informationen zu den Inhalten
 
 ---
 
-| Beispiel:  Für einen Patienten mit der Versichertenart = 1 (Mitglied) und keine |
+| Beispiel:   Für einen Patienten mit der Versichertenart = 1 (Mitglied) und keine |
 |---|
 
 | PFLICHTFUNKTION VOS |  |
@@ -1595,11 +1595,11 @@ Das PVS muss jederzeit über die read- und search-Interaktion des REST-Services 
 |  |  |  |
 |---|---|---|
 | Information | FHIR-Profil | Mind. zur Verfügung zu stellendende |
-| Behandelnder | KBV_PR_VoS_Practitioner KBV_PR_VoS_PractitionerRole | Alle Behandelnde (Ärzte), die im PVS |
+| Behandelnder | KBV_PR_VoS_Practitioner  KBV_PR_VoS_PractitionerRole | Alle Behandelnde (Ärzte), die im PVS |
 | Betriebsstätte | KBV_PR_VoS_Organization | Alle Betriebsstätten, die im PVS |
 | System | KBV_PR_VoS_Device_PVS | Eine Instanz für das PVS mit der KBV- Pro VoS die an das PVS angeschlossen |
 | Anwender | KBV_PR_VoS_User | Alle im PVS vorhandenen Anwender. |
-| Freitextmedikation Rezeptur Wirkstoffverordnung PZN-Produkt | KBV_PR_VoS_Medication_Compou KBV_PR_VoS_Medication_FreeText KBV_PR_VoS_Medication_Ingredie KBV_PR_VoS_Medication_PZN | Die gesamte Verordnungshistorie |
+| Freitextmedikation  Rezeptur  Wirkstoffverordnung  PZN-Produkt | KBV_PR_VoS_Medication_Compou KBV_PR_VoS_Medication_FreeText KBV_PR_VoS_Medication_Ingredie KBV_PR_VoS_Medication_PZN | Die gesamte Verordnungshistorie |
 
 - 1.
 
@@ -1645,7 +1645,7 @@ muss folgendes übermittelt werden: n weiteren Statusfeld-Angaben nding nt Daten
 
 Tabelle 4 Mindestumfang der Daten an der B1 -Schnittstelle
 
-Herkunftsinformation _MP eight eight ne_Level cy_Status eding_Status Arzneimittelverordnungen relevant (unabhängig davon, ob Sie vor oder nach Einführung der vorliegenden Schnittstelle getätigt wurden). Arzneimittel Personalienfeldes und die Angaben zum ausgedruckten Medikament. die im PVS vorhanden sind, für die Patienten, die über die B1-Schnittstelle abgerufen werden können. für die Patienten, die über die B1- Schnittstelle abgerufen werden können. Informationsquelle der Allergien (auch Dauerdiagnosen) für die Patienten, die über die B1-Schnittstelle abgerufen werden können. med. Informationen, für die Patienten, die über die B1-Schnittstelle abgerufen werden können. PKCS#7 und Medikationspläne (PDF- /XML-Dokumente), die im PVS vorliegen, für die Patienten, die über die B1- Schnittstelle abgerufen werden können.
+Herkunftsinformation _MP eight eight ne_Level cy_Status eding_Status Arzneimittelverordnungen relevant (unabhängig davon, ob Sie vor oder nach Einführung der vorliegenden Schnittstelle getätigt wurden). Arzneimittel Personalienfeldes und die Angaben zum ausgedruckten Medikament. die im PVS vorhanden sind, für die Patienten, die über die B1-Schnittstelle abgerufen werden können. für die Patienten, die über die B1- Schnittstelle abgerufen werden können. Informationsquelle der Allergien (auch Dauerdiagnosen) für die Patienten, die über die B1-Schnittstelle abgerufen werden können. med. Informationen, für die Patienten, die über die B 1-Schnittstelle abgerufen werden können. PKCS#7 und Medikationspläne (PDF- /XML-Dokumente), die im PVS vorliegen, für die Patienten, die über die B1- Schnittstelle abgerufen werden können.
 
 ---
 
@@ -1797,7 +1797,7 @@ Wenn mehrere VoS vorliegen, muss der Arzt festlegen können, welche der vorliege
 
 - 3. Ein Wechsel zwischen mehreren VoS während eines Verordnungsvorgangs ist nicht erlaubt.
 
-- 4. Die Entscheidung, ob eine externe VoS angebunden werden soll, und die für die Anbindung benötigten
+- 4. Die Entscheidung, ob eine externe Vo S angebunden werden soll, und die für die Anbindung benötigten
 
 - Parameter müssen pro Arbeitsplatz festgelegt werden können.
 
@@ -2176,17 +2176,17 @@ einbezogenen Produkten ] erfüllen.
 |  |  |
 |---|---|
 | Referenz | Dokument |
-| FHIR®_RESTful-API | Spezifikation der FHIR®-Restful-API gemäß FHIR® ] http://hl7.org/fhir/r4/http.html |
-| FHIR® | FHIR-Spezifikation Release 4 http://hl7.org/fhir/r4 |
+| FHIR®_RESTful-API | Spezifikation der FHIR®-Restful-API gemäß  FHIR®] http://hl7.org/fhir/r4/http.html |
+| FHIR® | FHIR-Spezifikation Release 4  http://hl7.org/fhir/r4 |
 | Deutschen Basis-Profilen | https://simplifier.net/basisprofil-de-r4 |
-| EXT_ITA_VGEX_Anforderungskatalog_AVWG | „Anforderungskatalog für https://update.kbv.de |
-| KBV_ITA_VGEX_Mapping_KVK | Technische Anlage zu Anlage 4a (BMV) mit https://update.kbv.de |
-| KBV_ITA_VGEX_Datensatzbeschreibung_KVDT | Datensatzbeschreibung KVDT, in aktuellster https://update.kbv.de |
-| KBV_ITA_VGEX_Anforderungskatalog_KVDT | Anforderungskatalog KVDT, in aktuellster https://update.kbv.de |
-| KBV_ITA_VGEX_Anforderungskatalog_Formularbedruc | Anforderungskatalog Formularbedruckung, https://update.kbv.de |
+| EXT_ITA_VGEX_Anforderungskatalog_AVWG | „Anforderungskatalog für  https://update.kbv.de |
+| KBV_ITA_VGEX_Mapping_KVK | Technische Anlage zu Anlage 4a (BMV) mit  https://update.kbv.de |
+| KBV_ITA_VGEX_Datensatzbeschreibung_KVDT | Datensatzbeschreibung KVDT, in aktuellster  https://update.kbv.de |
+| KBV_ITA_VGEX_Anforderungskatalog_KVDT | Anforderungskatalog KVDT, in aktuellster  https://update.kbv.de |
+| KBV_ITA_VGEX_Anforderungskatalog_Formularbedruc | Anforderungskatalog Formularbedruckung,  https://update.kbv.de |
 | KBV_ITA_RLEX_Zert.pdf | Zertifizierungsrichtlinie der KBV https://update.kbv.de |
-| KBV_ITA_FMEX_AaZ_VoS_SST | Antrag auf Zertifizierung https://update.kbv.de |
-| KBV_FHIR_VoS.zip | KBV-Profile https://update.kbv.de |
+| KBV_ITA_FMEX_AaZ_VoS_SST | Antrag auf Zertifizierung  https://update.kbv.de |
+| KBV_FHIR_VoS.zip | KBV-Profile  https://update.kbv.de |
 | KBV_ITA_VGEX_SST_FESTLEGUNG_VOS | Schnittstellenfestlegung_Verordnungssoftw https://update.kbv.de |
 
 Verordnungssoftware“ Mappingtabelle KVK - eGK, in aktuellster Version Version Version in aktuellster Version are

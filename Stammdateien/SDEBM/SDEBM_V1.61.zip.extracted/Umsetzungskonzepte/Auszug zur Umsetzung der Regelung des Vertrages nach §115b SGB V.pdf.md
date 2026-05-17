@@ -39,6 +39,8 @@ Seite 5 von 10
 
 ---
 
+**Dezernat 3 – Gebührenordnung und Vergütung**  **Dezernat 5 – Bereich Informationstechnik**
+
 Sind hingegen Gebührennummern im Abschnitt 3 der Anlage 1 zum Vertrag aufgeführt, so  wird zur Kennzeichnung ein Element „ gungen zur Abrechnung der Gebührennummer eingefügt.
 
 Handelt es sich um Begleitleistungen, so kann im KV-spezifischen Bereich der Gebühren- nummer diese in dem Element „begleit_115b
@@ -77,8 +79,12 @@ aop_115b“ mit Ausprägung V=“true“ bei den Bedin-
 
 </komplex>  <komplex V="FAKULTATIV">  <leistung V="Ein postoperativer Arzt-Patienten-Kontakt"/>  </komplex>
 
+G:\Dezernat3\0S\§§\115b\2007\2007-06-15 RS_D3_70_VIII_04_2007_Umsetzung der Regelung des Vertrages nach § 115b  SGB V_Anlage.doc
+
 
 ---
+
+**Dezernat 3 – Gebührenordnung und Vergütung**  **Dezernat 5 – Bereich Informationstechnik**
 
 </leistungsinhalt>  <bewertung_liste>
 
@@ -138,8 +144,12 @@ Einige GNR des Abschnitts 2 der Anlage 1 zum Vertrag nach § 115b SGB V können 
 
 Für Leistungen des Abschnitts 2, die außerhalb des Vertrages nach § 115b SGB V auch ohne  OPS abgerechnet werden können, wird keine generelle Angabe des OPS-Codes sowie der  GNR-Zusatzangabe gefordert. Demzufolge kann für diese Leistungen keine Plausibilisierung  über das KBV-Prüfmodul erfolgen.
 
+G:\Dezernat3\0S\§§\115b\2007\2007-06-15 RS_D3_70_VIII_04_2007_Umsetzung der Regelung des Vertrages nach § 115b  SGB V_Anlage.doc
+
 
 ---
+
+**Dezernat 3 – Gebührenordnung und Vergütung**  **Dezernat 5 – Bereich Informationstechnik**
 
 Die anderen Leistungen des Abschnitts 2, die immer in Kombination mit dem OPS stets nach  § 115b SGB V abrechnet werden können, erhalten GOS-seitig die GNR-Zusatzangabe  „5035“. Das KBV-Prüfmodul erwartet bei diesen Leistungen dann zwingend die Angabe eines  OPS und prüft zusätzlich dessen zulässige Kombination. Die Kennzeichnung der Kombination  der Gebührennummer und des OPS-Code erfolgt analog zu den Leistungen nach Abschnitt 1.
 
@@ -185,12 +195,16 @@ In der Gebührenordnungsstammdatei kann für diese Leistungen im Bereich  //gnr/
 
 ist in diesem Fall von den KVen mit dem zulässigen Wert zu füllen. Sollte das V-Attribut den  Wert true enthalten, so besteht im Weiteren auch die Möglichkeit im Element
 
+G:\Dezernat3\0S\§§\115b\2007\2007-06-15 RS_D3_70_VIII_04_2007_Umsetzung der Regelung des Vertrages nach § 115b  SGB V_Anlage.doc
+
 <begleit_115b V="…"> verwendet werden. Es
 
 <op_typ
 
 
 ---
+
+**Dezernat 3 – Gebührenordnung und Vergütung**  **Dezernat 5 – Bereich Informationstechnik**
 
 V="…"/> eine Einschränkung der Gültigkeit nach prä-, intra- und/oder postoperativen Bereich
 
@@ -211,3 +225,5 @@ Der AK 1 hat in seiner Sitzung am 2. November 2006 den folgenden Regelungen zur 
 *Die KBV selektiert aus den regionalen GO-Stammdaten alle Leistungen, welche die Abrech-* *nungsbestimmung / GNR – Zusatzangabe „Angabe des OP-Schlüssel“ (5035) enthält, integ-* *riert diese in das KBV-Prüfmodul; dieses prüft für diese Leistungen die Übereinstimmung zwi-* *schen GNR und OPS-Code laut GO-Stammdatei.“*
 
 Liegt keine regionale GO-Stammdatei vor, erfolgt die Prüfung der Übereinstimmung zwischen  GNR und OPS-Code gemäß der bundeseinheitlichen GO-Stammdatei.
+
+G:\Dezernat3\0S\§§\115b\2007\2007-06-15 RS_D3_70_VIII_04_2007_Umsetzung der Regelung des Vertrages nach § 115b  SGB V_Anlage.doc

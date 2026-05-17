@@ -21,9 +21,9 @@ Schnittstelle Arzneimittelver- einbarungen (ARV) Umsetzung im Arzneimittelverord
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 2.02 | 12.12.2018 KBV |  | Anpassung des verweises auf das |  | 39 |
-| 2.01 | 12.11.2018 KBV |  | Redaktionelle Korrekturen  Anpassung der Infomaßnahmen um  Streichung der Kapitel „Me--  Anpassung der „indikationsgerechten -  Aufnahme der „Umsetzung von kombi- |  | 28   15, 29, 30   32     36 |
+| 2.01 | 12.11.2018 KBV |  | Redaktionelle Korrekturen    Anpassung der Infomaßnahmen um    Streichung der Kapitel „Me--   Anpassung der „indikationsgerechten  -    Aufnahme der „Umsetzung von kombi- |  | 28      15, 29,  30      32          36 |
 | 2.00 | 20.07.2016 KBV |  | Aufnahme des Kapitels „Umsetzung der |  | 32 |
-| 1.09 | 15.08.2012 KBV |  | Regelung zum Kostenvergleich auf  Die Regelung zu Infomaßnahmen, die |  | 28 |
+| 1.09 | 15.08.2012 KBV |  | Regelung zum Kostenvergleich auf    Die Regelung zu Infomaßnahmen, die |  | 28 |
 | 1.08 | 02.08.2012 KBV |  | Überarbeitung | redaktionell |  |
 | 1.07 | 02.06.2012 KBV |  | Die Erläuterung für die Kostenver- | Regelung | 17 |
 
@@ -91,7 +91,7 @@ Element <verweis_dokument> im Kapi- tel 15.2 Fachgruppen too Regelung“, „Qua
 
 **4.1** **Konditionale Pflichtfunktion: Kennzeichnung in der Verordnungssoftware ........................ 14**
 
-**4.2** **KonditionalePflichtfunktion: Anzeigen eines Hinweistextes für den Arzt** **............................ 14**
+**4.2** **Konditionale Pflichtfunktion: Anzeigen eines Hinweistextes für den Arzt** **............................ 14**
 
 **5** **UMSETZUNG DER ME-TOO-REGELUNGEN**
 
@@ -205,7 +205,7 @@ Element <verweis_dokument> im Kapi- tel 15.2 Fachgruppen too Regelung“, „Qua
 
 **9.1** **Konditionale Pflichtfunktion: Kennzeichnung in der**
 
-**VerordnungssoftwareArzneimitteldatenbank ................................................................................... 25**
+**Verordnungssoftware Arzneimitteldatenbank ................................................................................... 25**
 
 **9.2** **Konditionale Pflichtfunktion: Anzeigen der Biosimilars**
 
@@ -392,7 +392,7 @@ Anforderungskatalog EXT_ITA_VGEX_Anforderungskatalog_AVWG). Die Implementierung 
 
 Mit dem Element „leitsubstanzquotenr_liste“ werden die Regelungen zu den Leitsubstanzquo- ten wie folgt abgebildet: - 1
 
--  In der Arzneimitteldatenbank und in der Hausapotheke müssen vom AVS In der VoS  müssen die unter die Leitsubstanzquotenregelung fallenden Präparate entsprechend  für den Arzt erkennbar gekennzeichnet werden. Diese Anforderung gilt auch für die  Hausapotheken gemäß Anforderungskatalog nach § 73 SGB V für Verordnungssoft- ware (siehe Funktion O2 -.145), sofern diese in der VoS enthalten sind
+-  In der Arzneimitteldatenbank und in der Hausapotheke müssen vom AVS In der VoS  müssen die unter die Leitsubstanzquotenregelung fallenden Präparate entsprechend  für den Arzt erkennbar gekennzeichnet werden. Diese Anforderung gilt auch für die  Hausapotheken gemäß Anforderungskatalog nach § 73 SGB V für Verordnungssoft- ware (siehe Funktion O2 -. 145), sofern diese in der VoS enthalten sind
 
 -  Die Leitsubstanz(en) müssen gesondert für den Arzt erkennbar gekennzeichnet wer- den.
 
@@ -713,7 +713,7 @@ In der Arzneimitteldatenbank und in der Hausapotheke (vgl. Anforderungskatalog A
 
 EXT_ITA_VGEX_Anforderungskatalog_AVWG) sind vom AVS In der VoS sind die Original-
 
-Präparate für den Arzt erkennbar zu kennzeichnen. Die Kennzeichnung in der Verordnungs- software Datenbank richtet sich nach der Kassenärztlichen Vereinigung, in der die Generi- kaquotenregelung implementiert werden soll. Bei der Kennzeichnung in der Verordnungssoft- wareArzneimitteldatenbank wird keine Unterscheidung nach Fachgruppen getroffen.
+Präparate für den Arzt erkennbar zu kennzeichnen. Die Kennzeichnung in der Verordnungs- software Datenbank richtet sich nach der Kassenärztlichen Vereinigung, in der die Generi- kaquotenregelung implementiert werden soll. Bei der Kennzeichnung in der Verordnungssoft- ware Arzneimitteldatenbank wird keine Unterscheidung nach Fachgruppen getroffen.
 
 Diese Anforderung gilt auch für die Hausapotheken gemäß Anforderungskatalog nach § 73  SGB V für Verordnungssoftware (siehe Funktion O2-145), sofern diese in der VoS enthalten  sind.
 
@@ -756,7 +756,7 @@ Wird von der Landesebene gewünscht, dass die Generika-r Quotenregelung auf Basi
 
 DDD ausgewertet wird, so sind von der Landesebene alle PZN und die entsprechenden DDD  („ddd_je_packung“) für alle von der jeweiligen Regelung betroffenen Wirkstoffe bzw. für den  Gesamtmarkt bereit zu stellen. Die Vergleichsgruppe ist von der KV zu definieren und beinhal- tet auch die entsprechenden Original- Präparate.
 
-*DDDverordneteGenerika*
+*DDDverordnete Generika*
 
 *Quote (%)*
 
@@ -945,7 +945,7 @@ Mithilfe der in diesem Element beschriebenen Datenfelder müssen vom AVS von der
 
 Anforderungskatalog EXT_ITA_VGEX_Anforderungskatalog_AVWG). Die Implementierung  der Controllingfunktion Biosimilarquotenregelung ist für das AVS die VoS optional. Wenn die  Controllingfunktion jedoch implementiert wird, muss sie auch fachgruppenspezifisch möglich  sein.
 
-## 9.1 Konditionale Pflichtfunktion: Kennzeichnung in der Verord- nungssoftwareArzneimitteldatenbank
+## 9.1 Konditionale Pflichtfunktion: Kennzeichnung in der Verord- nungssoftware Arzneimitteldatenbank
 
 In der Arzneimitteldatenbank und in der Hausapotheke sind vom AVS In der VoS sind die un- ter die Biosimilarquotenregelung fallenden Präparate entsprechend für den Arzt erkennbar zu  kennzeichnen. Biosimilars sind gesondert kenntlich zu machen. Die Kennzeichnung in der  Datenbank Verordnungssoftware richtet sich nach der Kassenärztlichen Vereinigung, in der  die Biosimilarquotenregelung implementiert werden soll. Bei der Kennzeichnung in der Arz- neimitteldatenbank Verordnungssoftware wird keine Unterscheidung nach Fachgruppen  (XML-Element ../biosimilar/) getroffen.
 
@@ -984,7 +984,7 @@ bereit zu stellen.
 
 Die Vergleichsgruppe ist von der KV zu definieren und beinhaltet auch die entsprechenden  Biosimilars. Die Vergleichsgruppe ist bei einer Biosimilarquotenregelung die Arzneimittelgrup- pe, die unterhalb des Elementes „biosimilarquotenregelung“ angegeben wird.
 
-*DDDverordneteBiosimilar*
+*DDDverordnete Biosimilar*
 
 *Quote (%)*
 
@@ -1213,7 +1213,7 @@ gestellt werden:
 
 - sen.
 
-- o Alle enthaltenen Wirkstoffe (XML-.Element . /kapitel/wirkstoff) müssen aufge-
+- o Alle enthaltenen Wirkstoffe (XML-. Element . /kapitel/wirkstoff) müssen aufge-
 
 - listet werden. Dabei müssen bei den Wirkstoffen mindestens die Attribute „be- zeichnung“ und „iww_kategorie“ angezeigt werden sowie die entsprechend zu- geordnete Farbe (XML-Element  „../geltungsbereich_kv/iww_kategorien/kategorie/@color“) angezeigt werden.
 
@@ -1288,14 +1288,14 @@ Suche muss folgendes berücksichtigt werden:
 
 - o ggf. Darreichungsform und Verschreibungspflicht, falls diese für die Suche rele- vant sind
 
-Dem Anwender muss die Möglichkeit geboten werden, im Rahmen des Navigierens in  den IWW-.Anmerkungen das ursprünglich gewählte Präparat erneut auszuwählen
+Dem Anwender muss die Möglichkeit geboten werden, im Rahmen des Navigierens in  den IWW-. Anmerkungen das ursprünglich gewählte Präparat erneut auszuwählen
 
 Das ausgewählte Präparat kann direkt auf das Rezept übernommen werden.
 
 
 ---
 
--  Alle ermittelten möglichen Verordnungen werden nach den hinterlegten Indikationen  (siehe: XML-:Element
+-  Alle ermittelten möglichen Verordnungen werden nach den hinterlegten Indikationen  (siehe: XML-: Element
 
 - ../iww_liste/iwwliste/bedingungs_liste/bedingung/iww_indikationen/indikationen) grup- piert für den Anwender dargestellt. Dabei muss der Name der Indikation ersichtlich  sein:
 
@@ -1461,7 +1461,7 @@ Für die Generika-Ziele
 
 -  für die PZN **kein** Rabattvertrag (Datenelement 043 und/oder 044 siehe
 
-- Anforderung P2-.110 [EXT_ITA_VGEX_Anforderungskatalog_AVWG]) vorliegt
+- Anforderung P2-. 110 [EXT_ITA_VGEX_Anforderungskatalog_AVWG]) vorliegt
 
 - 3. Die PZN ist gleich …/kombi_verordnungsziel/pzn_liste/pzn/@V und
 

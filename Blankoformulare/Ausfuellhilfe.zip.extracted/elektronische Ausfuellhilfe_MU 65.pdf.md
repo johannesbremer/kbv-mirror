@@ -11,7 +11,7 @@ Geben Sie hier die Anamnese und ggf. den bisherigen Verlauf der Krankenbehandlun
 
 ---
 
-- **2. Gesundheitsstörungen**
+### Elektronische Ausfüllhilfe Muster 65 - **2. Gesundheitsstörungen**
 
 Geben Sie hier die Gesundheitsstörungen des Kindes an (z.B. Übergewicht, psychische Auffälligkeiten).
 

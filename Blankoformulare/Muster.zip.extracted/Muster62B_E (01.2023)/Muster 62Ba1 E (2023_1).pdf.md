@@ -44,22 +44,59 @@ Vorabinformation aus dem Krankenhaus vor Entlassung gemäß § 10  Abs. 4 Satz 1
 
 **Bewusstseinsstörung**, Art
 
-|  | Kommunikation | Orientierung |  |
-|---|---|---|---|
-| Mitwirkung bei AKI |  |  | Mobilität vorhanden |
-|  | Verständigung | vorhanden, zu |  |
-| uneingeschränkt | uneingeschränkt |  | uneingeschränkt Nackengriff |
-|  |  |  | bis an die Bettkante |
-| eingeschränkt | eingeschränkt |  | Schürzengriff |
-|  |  |  | in den Rollstuhl |
-| nicht möglich | nicht möglich |  | stehfähig, gehfähig Faustschluss |
-|  |  |  | immobilPinzettengriff |
+uneingeschränkt
+
+eingeschränkt
+
+nicht möglich
+
+uneingeschränkt
+
+eingeschränkt
+
+nicht möglich
+
+Ort
+
+Zeit
+
+Person
+
+Situation
+
+nicht vor handen
+
+uneingeschränkt
+
+bis an die Bettkante
+
+in den Rollstuhl
+
+stehfähig, gehfähig
+
+immobil
+
+Nackengriff
+
+Schürzengriff
+
+Faustschluss
+
+Pinzettengriff
 
 nein
 
 ja
 
 teilweise
+
+Mitwirkung bei AKI Kommunikation
+
+Verständigung
+
+Orientierung
+
+vorhanden, zu Mobilität vorhanden
 
 Orale  Ernährung
 
@@ -161,4 +198,4 @@ PRF.NR.
 
 Muster 62Ba.1/E (1.2023)
 
-Ort Zeit Person Situation nicht vorDer Barcode enthält keine auf dem Formular nicht lesbaren Daten.
+Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.

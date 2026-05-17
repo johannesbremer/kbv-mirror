@@ -7,6 +7,8 @@
 
 ---
 
+### Elektronische Ausfüllhilfe Muster 27 – Soziotherapeutischer Betreuungsplan
+
 **Erläuterungen zu den einzelnen Feldern**
 
 - **1. IK des Leistungserbringers**

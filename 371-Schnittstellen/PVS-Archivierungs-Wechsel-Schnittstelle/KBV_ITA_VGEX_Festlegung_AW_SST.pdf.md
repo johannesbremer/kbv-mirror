@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 8. DEZEMBER 2020  VERSION: 1.2.0 STATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT  8. DEZEMBER 2020   VERSION: 1.2.0  STATUS: IN KRAFT |
 |---|---|
 
 # FESTLEGUNG DER ARCHIV- UND  WECHSELSCHNITTSTELLE NACH § 371  ABS. 1 SGB V
@@ -160,7 +160,7 @@ BUNDESVEREINIGUNG  IT IN DER ARZTPRAXISSeite 1 von 41 / KBV / Festlegung der Arc
 
 39
 
-Seite 2 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+Seite 2 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2. 0 / 8. Dezember 2020
 
 
 ---
@@ -202,7 +202,7 @@ DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.2.0 | 0.8.12.2020 |  | 1. 2. 3. 4. 5. 6. 7. | Harmonisierun | 5   8  40  40  12-28        19 & 28 |
+| 1.2.0 | 08.12.2020 |  | 1. 2. 3. 4. 5. 6. 7. | Harmonisierun | 5      8    40    40    12-28                19 &  28 |
 
 Änderung der gesetzlichen Grundlage in § 371 und § 372 Umsetzung einer Basisversion in Kapitel 3 aufgenommen Neues Kapitel 5 „Umsetzung der systemeigenen Schnittstelle “ eingefügt Neue Kapitel 6 „Umsetzungsfrist“ und 7 „Gültigkeit“ eingefügt Umstellung aller FHIR Ressourcen von STU3 auf R4. Dadurch Änderung aller Modelle und Ressourcen inkl. der Dateinamen von 74_* in KBV_* Div. kleinere redaktionel le Änderungen in den gelb markierten Kapitelüberschriften Entfernen der Extension und Namingsystem für die VKNR
 
@@ -364,7 +364,7 @@ Die erste Ebene des Informationsmodells kann der Abbildung 1 entnommen werden. E
 
 0..* -hat
 
-**Leis** **tungsge** **ne** **hmigungKrankenversicherungsverhältnis**
+**Leis** **tungsge** **ne** **hmigung Krankenversicherungsverhältnis**
 
 0..1
 
@@ -376,10 +376,10 @@ Die erste Ebene des Informationsmodells kann der Abbildung 1 entnommen werden. E
 
 0..* -enthält
 
-|  | 10..* |  | -enhält -wird abgerechnet |  |
+|  | 1 0..* |  | -enhält -wird abgerechnet |  |
 |---|---|---|---|---|
 | **Behandelnder** |  | **Begegnung/Hausbesuch** |  | **Abrechnung** |
-|  | -wird durchgeführt -führt |  | 1..*0..* |  |
+|  | -wird durchgeführt -führt |  | 1..* 0..* |  |
 
 -hat
 
@@ -456,7 +456,7 @@ Die Dateinamen für die Elemente der FHIR®-Spezifikationsdateien setzen sich wi
 
 - Bezeichnung - Bezeichnung der entsprechenden Fachlichkeit
 
-| Beispiel: Dateiname: KBV_PR_AW_System |
+| Beispiel:  Dateiname: KBV_PR_AW_System |
 |---|
 
 
@@ -472,21 +472,21 @@ Informationsmodell_AW_SST].
 
 **Begegnung**
 
-Begegnung ::**Behandlung_im_Auf** **trag_Überweisung (ServiceRequest )**
+Begegnung :: **Behandlung_im_Auf** **trag_Überweisung (ServiceRequest )**
 
 -Patient -Behandelnder -Betriebsstaette
 
 |  | -Medikament |  |
 |---|---|---|
-| Begegnung ::**Koerpergewicht(KBV-Basis ), Koerpergroesse (KBV-BasisHueftumfang,Bauchumfang,Raucherstatus,Puls**-Patient**Blutdruck (Obse rva tion)** | **), Koerpertemperatur,,** | Begegnung ::**Dia gnose(Condition)**-Patient |
+| Begegnung **::Koerpergewicht(KBV-Basis ), Koerpergroesse (KBV-BasisHueftumfang,Bauchumfang,Raucherstatus,Puls**-Patient **Blutdruck (Obse rva tion)** | **), Koerpertemperatur,,** | Begegnung **::Dia gnose(Condition)**-Patient |
 
 -Patient
 
-Begegnung ::**Allergie(AllergyIntolerance)**
+Begegnung :: **Allergie(AllergyIntolerance)**
 
-Begegnung ::**Anamnese(Obse** **rva** **tion)**
+Begegnung :: **Anamnese(Obse** **rva** **tion)**
 
-Begegnung ::**Bef** **und(Obse** **rva** **tion)**
+Begegnung :: **Bef** **und(Obse** **rva** **tion)**
 
 -Patient
 
@@ -494,21 +494,21 @@ Abrechnung
 
 Leistungsgenehmigung -Patient
 
-Begegnung ::**Notf** **all(ServiceRequest )**
+Begegnung :: **Notf** **all(ServiceRequest )**
 
-Sonstige ::**Abrechnung_BG(Claim )** Sonstige ::**Abrechnung_HzV_BesondereVersorgung _Selektiv (** **Claim )**
+Sonstige :: **Abrechnung_BG(Claim )** Sonstige :: **Abrechnung_HzV_BesondereVersorgung _Selektiv (** **Claim )**
 
-Begegnung ::**Ueberweisung_KH-Einweisung (ServiceRequest )**
+Begegnung :: **Ueberweisung_KH-Einweisung (ServiceRequest )**
 
 -BehandelnderFunktion -Behandelnder -Patient
 
-Begegnung ::**Abrechnung_vorläufig (Claim )**
+Begegnung :: **Abrechnung_vorläufig (Claim )**
 
-Sonstige ::**Abrechnung_Privat (Claim )** -Organisation-Organisation -Weiterbehandlung _durch
+Sonstige :: **Abrechnung_Privat (Claim )** -Organisation -Organisation -Weiterbehandlung _durch
 
-Sonstige ::**Abrechnung_Vertragsaerztlich (Claim )**
+Sonstige :: **Abrechnung_Vertragsaerztlich (Claim )**
 
-Sonstige ::**Leis** **tungsge** **ne** **hmigung_Heilmittel (Elig** **ibilityresponse )**
+Sonstige :: **Leis** **tungsge** **ne** **hmigung_Heilmittel (Elig** **ibilityresponse )**
 
 -Betriebsstaette -Organisation
 
@@ -516,21 +516,21 @@ Sonstige ::**Leis** **tungsge** **ne** **hmigung_Heilmittel (Elig** **ibilityres
 
 -Organisation -Patient -Betriebsstaette -Patient -Betriebsstaette -Weiterbehandlung _durch -Patient -Patient
 
-Sonstige ::**Leis** **tungsge** **ne** **hmigung_Psychothe** **ra** **pie(Elig** **ibilityresponse )**
+Sonstige :: **Leis** **tungsge** **ne** **hmigung_Psychothe** **ra** **pie(Elig** **ibilityresponse )**
 
 -Patient -Behandelnder -Diagnos e -Medikament -Patient
 
 -Behandelnder
 
-Begegnung ::**Ma** **te** **rial_Sache (Device )**
+Begegnung :: **Ma** **te** **rial_Sache (Device )**
 
 Begegnung ::Therapie(Proce dure)
 
-Sonstige ::**Leistungsanfrage_Psychothe** **ra** **pie(Elig** **ibilityRequest )**Sonstige ::**Leistungsanfrage_Heilmittel (Elig** **ibilityRequest )**
+Sonstige :: **Leistungsanfrage_Psychothe** **ra** **pie(Elig** **ibilityRequest )** Sonstige :: **Leistungsanfrage_Heilmittel (Elig** **ibilityRequest )**
 
 -Diagnos e -Patient
 
-Sonstige ::**Weite** **rbe** **ha** **ndlung_durch (ServiceRequest )**
+Sonstige :: **Weite** **rbe** **ha** **ndlung_durch (ServiceRequest )**
 
 -Patient
 
@@ -538,105 +538,105 @@ Sonstige ::**Weite** **rbe** **ha** **ndlung_durch (ServiceRequest )**
 
 -Behandelnder -Organisation -Betriebsstaette -Patient
 
-Begegnung ::**Untersuchung(Procedure)**
+Begegnung :: **Untersuchung(Procedure)**
 
 -Patient -Behandelnder
 
-Begegnung ::**Begegnung(Encounter)**
+Begegnung :: **Begegnung(Encounter)**
 
--Betriebsstaette -Diagnos eBegegnung ::**Hausbesuch(Encounter)**
+-Betriebsstaette -Diagnos e Begegnung :: **Hausbesuch(Encounter)**
 
 -Patient
 
-Begegnung ::Unf all(Condition )-Anamnese -Allergie -Patient
+Begegnung ::Unf all(Condition ) -Anamnese -Allergie -Patient
 
 -Te rmin
 
-Sonstige ::**Ringversuchszertifikat(Device )**
+Sonstige :: **Ringversuchszertifikat(Device )**
 
-Begegnung ::**Me** **dikament (Medication)** Begegnung ::**Verordnung Arzneimittel(Medicationrequest**
+Begegnung :: **Me** **dikament (Medication)** Begegnung :: **Verordnung Arzneimittel(Medicationrequest**
 
-Begegnung ::**Hausbesuch_Ort(Location )**
+Begegnung :: **Hausbesuch_Ort(Location )**
 
 -Patient
 
 Ringversuchs-
 
-Begegnung ::**Genetische Untersuchung(Procedure)**
+Begegnung :: **Genetische Untersuchung(Procedure)**
 
 zertifikate
 
 -Patient -Vertragsaerztliche Abrechnung -Diagnos e
 
-Begegnung ::**Verordnung Heilmittel(ServiceRequest )**
+Begegnung :: **Verordnung Heilmittel(ServiceRequest )**
 
 -Privatabrechnung -HzV_BesondereVersorgung _Selektiv -Patient
 
 -BG-Abrechnung
 
-Begegnung ::**Ambulante_Operation _General (Procedure)**
+Begegnung :: **Ambulante_Operation _General (Procedure)**
 
-Begegnung ::**Hilfsmittel(Device )**Begegnung ::**Verordnung Hilfsmittel(ServiceRequest )**
-
--Patient
+Begegnung :: **Hilfsmittel(Device )** Begegnung :: **Verordnung Hilfsmittel(ServiceRequest )**
 
 -Patient
 
-Sonstige ::**Krankenversicherungsverhaeltnis(Cove** **rage)**
+-Patient
 
-Begegnung ::**Verordnung Arbeitsunfähigkeit(ServiceRequest )**
+Sonstige :: **Krankenversicherungsverhaeltnis(Cove** **rage)**
 
-Begegnung ::**Ambulante_Operation (Procedure)**
+Begegnung :: **Verordnung Arbeitsunfähigkeit(ServiceRequest )**
+
+Begegnung :: **Ambulante_Operation (Procedure)**
 
 -Organisation
 
-Sonstige ::**Bez** **ugs** **pe** **rson(RelatedPerson )**
+Sonstige :: **Bez** **ugs** **pe** **rson(RelatedPerson )**
 
 -Patient
 
 -Patient
 
-Begegnung ::**Impf** **ung(Immunization)**
+Begegnung :: **Impf** **ung(Immunization)**
 
 Krankenversicherungsverhaeltnis
 
-Begegnung ::**Kurgenehmigung, Kurverlaengerung(Elig** **ibilityResponse )**
+Begegnung :: **Kurgenehmigung, Kurverlaengerung(Elig** **ibilityResponse )**
 
 -Patient
 
-Begegnung ::**Kur_Antrag (Elig** **ibilityRequest )**
+Begegnung :: **Kur_Antrag (Elig** **ibilityRequest )**
 
 -Patient
 
-Begegnung ::**Kur(Procedure)**
+Begegnung :: **Kur(Procedure)**
 
 -Krankenversicherungsverhaeltnis -Begegnung
 
-Begegnung ::**Krankenbefoederung** **Location )** **_Bef** **oe** **rde** **rungsmittel_Loka** **tion(**Begegnung ::**Krankenbefoederung_Bef** **oe** **rde** **rungsmittel(Device )**Begegnung ::**Krankenbefoerderung** **42019 (ServiceRequest )** **, Krankenbefoerderung**
+Begegnung :: **Krankenbefoederung** **Location )** **_Bef** **oe** **rde** **rungsmittel_Loka** **tion(** Begegnung :: **Krankenbefoederung_Bef** **oe** **rde** **rungsmittel(Device )** Begegnung :: **Krankenbefoerderung** **42019 (ServiceRequest )** **, Krankenbefoerderung**
 
 -Patient
 
 -Patient
 
-Begegnung ::**Schwangerschaft (Obse** **rva** **tion)**
+Begegnung :: **Schwangerschaft (Obse** **rva** **tion)**
 
 Patient -Organisation
 
-Sonstige ::**Vorsorgevollmacht(Conse** **nt)**
+Sonstige :: **Vorsorgevollmacht(Conse** **nt)**
 
 -Medikament
 
-Sonstige ::**Dauermedikation (Medica** **tionSta** **tement)**
+Sonstige :: **Dauermedikation (Medica** **tionSta** **tement)**
 
 -Bezugsperson
 
-Sonstige ::**Patie** **nt(** **nt)**Sonstige ::**Selektivvertrag (Contract )**
+Sonstige :: **Patie** **nt(** **nt)** Sonstige :: **Selektivvertrag (Contract )**
 
 -Bezugsperson
 
-Sonstige ::**Notf** **allberechtigter (Conse** **nt)** -Organisation -Organisation
+Sonstige :: **Notf** **allberechtigter (Conse** **nt)** -Organisation -Organisation
 
-Begegnung ::**Krebsfrueherkennung_Frauen _Auf** **trag(ServiceRequest )**
+Begegnung :: **Krebsfrueherkennung_Frauen _Auf** **trag(ServiceRequest )**
 
 -Behandelnder
 
@@ -644,15 +644,15 @@ Begegnung ::**Krebsfrueherkennung_Frauen _Auf** **trag(ServiceRequest )**
 
 -Patient -Begegnung
 
-Sonstige ::**Patie** **ntenve** **rf** **üg** **ung(Conse** **nt)**
+Sonstige :: **Patie** **ntenve** **rf** **üg** **ung(Conse** **nt)**
 
 -Bezugsperson
 
-Sonstige ::**Gesundheitspass(DocumentReference )**
+Sonstige :: **Gesundheitspass(DocumentReference )**
 
 Termin
 
-Begegnung ::**Krebsfrueherkennung_Frauen _Gynaekologische_Operation (**
+Begegnung :: **Krebsfrueherkennung_Frauen _Gynaekologische_Operation (**
 
 -Patient
 
@@ -662,15 +662,15 @@ Sonstige ::Anlage (DocumentReference ) -Person
 
 -Begegnung -Betriebsstaette
 
-Sonstige ::**Te** **rmin(Appointment)**
+Sonstige :: **Te** **rmin(Appointment)**
 
-Begegnung ::**Krebsfrueherkennung_Bef** **und_Rektum _Kolon(Obse** **rva** **tion)**
+Begegnung :: **Krebsfrueherkennung_Bef** **und_Rektum _Kolon(Obse** **rva** **tion)**
 
 -Abrechnung_BG _HzV_BesondereVersorgung _Selektiv -Organisation
 
-Sonstige ::**Betriebsstaette_Ort(Location )**
+Sonstige :: **Betriebsstaette_Ort(Location )**
 
-Begegnung ::**Krebsfrueherkennung** **Obse** **rva**  **_Frauen _Anamese _Diverse (** **tion)**
+Begegnung :: **Krebsfrueherkennung** **Obse** **rva**  **_Frauen _Anamese _Diverse (** **tion)**
 
 -Abrechnung_privat
 
@@ -678,35 +678,35 @@ Begegnung ::**Krebsfrueherkennung** **Obse** **rva**  **_Frauen _Anamese _Divers
 
 -Observation _Anamnese _Bauchumfang
 
-Begegnung ::**Krebsfrueherkennung_Ma** **enne** **_rAuf** **trag(ServiceRequest )**
+Begegnung :: **Krebsfrueherkennung_Ma** **enne** **_rAuf** **trag(ServiceRequest )**
 
 -Observation _Befund _Blutdruck
 
-Begegnung ::**Krebsfrueherkennung** **Obse** **_Frauen _Anamese _Hormona** **rva** **tion)** **nwe** **ndung(**
+Begegnung :: **Krebsfrueherkennung** **Obse** **_Frauen _Anamese _Hormona** **rva** **tion)** **nwe** **ndung(**
 
-Begegnung ::**Krebsfrüherkennung_Mä** **nner(Composition )** -Observation _Hueftumfang _Koerpergewicht -Patient
+Begegnung :: **Krebsfrüherkennung_Mä** **nner(Composition )** -Observation _Hueftumfang _Koerpergewicht -Patient
 
 -Patient -Behandelnder
 
 -Observation _Koerpergroesse _Koerpertemperatur
 
-Begegnung ::**Krebsfrueherkennung_Frauen _Bef** **und_Diverse (**
+Begegnung :: **Krebsfrueherkennung_Frauen _Bef** **und_Diverse (**
 
-Begegnung ::**Krebsfrueherkennung** **Obse** **rva** **_Ma** **tion)** **enne** **_rAnamese _Diverse (** -Blutdruck
+Begegnung :: **Krebsfrueherkennung** **Obse** **rva** **_Ma** **tion)** **enne** **_rAnamese _Diverse (** -Blutdruck
 
--Observation _Puls _RaucherstatusSonstige ::**Behandlungsbaustein_Definition(PlanDefinition )** Sonstige ::**Behandlungsbaustein** **OM** **IM_G_Code , Sonstige (ActivityDefinition** **_Baustein _Dia** **gnose, Leistungsziffer ,**
+-Observation _Puls _Raucherstatus Sonstige :: **Behandlungsbaustein_Definition(PlanDefinition )** Sonstige :: **Behandlungsbaustein** **OM** **IM_G_Code , Sonstige (ActivityDefinition** **_Baustein _Dia** **gnose, Leistungsziffer ,**
 
 -Patient **Obse** **rva** **tion)**
 
-Begegnung ::**Krebsfrüherkennung_Frauen (Composition )**
+Begegnung :: **Krebsfrüherkennung_Frauen (Composition )**
 
 -Observation _Schwangers chaft -Diagnos e -Patient
 
-Begegnung ::**Krebsfrueherkennung_Ma** **enne** **_rBef** **und_Diverse (**
+Begegnung :: **Krebsfrueherkennung_Ma** **enne** **_rBef** **und_Diverse (**
 
 -Allergie -Behandlung_im_Auftrag _Ueberweisung -Unf all
 
-Begegnung ::**Krebsfrueherkennung** **Obse** **rva** **_Frauen _Bef** **tion)** **und_Diverse _Ab30 (**-Blutdruck
+Begegnung :: **Krebsfrueherkennung** **Obse** **rva** **_Frauen _Bef** **tion)** **und_Diverse _Ab30 (** -Blutdruck
 
 **Obse** **rva** **tion)**
 
@@ -714,11 +714,11 @@ Begegnung ::**Krebsfrueherkennung** **Obse** **rva** **_Frauen _Bef** **tion)** 
 
 -Therapie -Untersuchung
 
-Sonstige ::**Behandlungsbaustein_Baustein _Verordnung(ActivityDefinition**
+Sonstige :: **Behandlungsbaustein_Baustein _Verordnung(ActivityDefinition**
 
-Sonstige ::**Betriebsstaette(Organization )**
+Sonstige :: **Betriebsstaette(Organization )**
 
-Begegnung ::**Krebsfrueherkennung_Frauen _Gynaekologische_Dia** **gnose(**
+Begegnung :: **Krebsfrueherkennung_Frauen _Gynaekologische_Dia** **gnose(**
 
 -Verordnung_Arbeitsunfa ehigkeit _Arzneimittel -Medikament
 
@@ -726,7 +726,7 @@ Begegnung ::**Krebsfrueherkennung_Frauen _Gynaekologische_Dia** **gnose(**
 
 -Verordnung_Heilmittel _Hilfsmittel -Kur -Krankenbefoerderung
 
-Sonstige ::**Behandlungsbaustein** **ActivityDefinition** **_Baustein _Textvorlage(**
+Sonstige :: **Behandlungsbaustein** **ActivityDefinition** **_Baustein _Textvorlage(**
 
 -Krebsfrueherkennung
 
@@ -734,51 +734,51 @@ Sonstige ::**Behandlungsbaustein** **ActivityDefinition** **_Baustein _Textvorla
 
 _Frauen _Maenner
 
-Sonstige ::**Anforderung_Sprechstundenbedarf(SupplyRequest)**
+Sonstige :: **Anforderung_Sprechstundenbedarf(SupplyRequest)**
 
 -Genetische _untersuchung -Ambulante_Operation _Genereal -Ringversuchszertifikat -Behandelnder -Medikament
 
-Begegnung ::**Krebsfrueherkennung** **Obse** **_Frauen _Zytologischer_Bef** **rva** **tion)** **und_Diverse (**
+Begegnung :: **Krebsfrueherkennung** **Obse** **_Frauen _Zytologischer_Bef** **rva** **tion)** **und_Diverse (**
 
-Sonstige ::**Behandelnder(Practitioner** Sonstige ::**BehandeldnerFunktion(PractitionerRole**
+Sonstige :: **Behandelnder(Practitioner** Sonstige :: **BehandeldnerFunktion(PractitionerRole**
 
 Betriebsstätte
 
-Begegnung ::**Krebsfrueherkennung** **e_Zellen (Obse** **_Frauen _Zytologischer_Bef** **rva** **tion)** **und_Endozervikal**
+Begegnung :: **Krebsfrueherkennung** **e_Zellen (Obse** **_Frauen _Zytologischer_Bef** **rva** **tion)** **und_Endozervikal**
 
-Begegnung ::**Krebsfrueherkennung_Frauen _Auf** **trag_2020 (ServiceRequest )**
+Begegnung :: **Krebsfrueherkennung_Frauen _Auf** **trag_2020 (ServiceRequest )**
 
 Behandelnder -Patient
 
-Begegnung ::**Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und_Gruppe(**
+Begegnung :: **Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und_Gruppe(**
 
 -Begegnung
 
 **Obse** **rva** **tion)**
 
-Begegnung ::**Krebsfrueherkennung_Frauen _HPV _Testergebnis _2020 (Obse** **rva** **tion)**
+Begegnung :: **Krebsfrueherkennung_Frauen _HPV _Testergebnis _2020 (Obse** **rva** **tion)**
 
 -Patient
 
-Begegnung ::**Krebsfrueherkennung** **Oberservation)** **_Frauen _Zytologischer_Bef** **und_Bemerkungen (**
+Begegnung :: **Krebsfrueherkennung** **Oberservation)** **_Frauen _Zytologischer_Bef** **und_Bemerkungen (**
 
-Begegnung ::**Zytologischer_Bef** **und(DiagnosticReport)**
+Begegnung :: **Zytologischer_Bef** **und(DiagnosticReport)**
 
 -Patient
 
-Begegnung ::**Krebsfrueherkennung_Frauen _HPV _Impf** **ung_2020 (Obse** **rva** **tion)**
+Begegnung :: **Krebsfrueherkennung_Frauen _HPV _Impf** **ung_2020 (Obse** **rva** **tion)**
 
 -Behandelnder
 
-Sonstige ::**Prove** **nienz(Prove** **na** **nce)**
+Sonstige :: **Prove** **nienz(Prove** **na** **nce)**
 
-Sonstige ::**Mitarbeiter(Practitioner**
+Sonstige :: **Mitarbeiter(Practitioner**
 
-Sonstige ::**Personen (Person)**Sonstige ::**Organisation (Organization )**
+Sonstige :: **Personen (Person)** Sonstige :: **Organisation (Organization )**
 
-Begegnung ::**Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und_Kontrolle(**
+Begegnung :: **Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und_Kontrolle(**
 
-Begegnung ::**Krebsfrüherkennung_Frauen _2020 (Composition )**
+Begegnung :: **Krebsfrüherkennung_Frauen _2020 (Composition )**
 
 -Betriebsstaette -...
 
@@ -786,57 +786,57 @@ Begegnung ::**Krebsfrüherkennung_Frauen _2020 (Composition )**
 
 -Patient -Blutdruck
 
-Begegnung ::**Krebsfrueherkennung** **Procedure)** **_Frauen _Gynaekologische_Operation (**
+Begegnung :: **Krebsfrueherkennung** **Procedure)** **_Frauen _Gynaekologische_Operation (**
 
 -Jedes KBV-Profil *
 
 -Patient
 
-Begegnung ::**Krebsfrueherkennung** **ch_EntzuendungsBehandlung** **_Frauen _Zytologischer_Bef** **(Obse** **rva** **tion)** **und_Kontrolle_na**
+Begegnung :: **Krebsfrueherkennung** **ch_EntzuendungsBehandlung** **_Frauen _Zytologischer_Bef** **(Obse** **rva** **tion)** **und_Kontrolle_na**
 
 Adressbuch
 
-Begegnung ::**Krebsfrueherkennung** **Obse** **rva**  **_Frauen _Anamese _Diverse (** **tion)**
+Begegnung :: **Krebsfrueherkennung** **Obse** **rva**  **_Frauen _Anamese _Diverse (** **tion)**
 
 Provenienz
 
-Begegnung ::**Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und_Kontrolle_na**
+Begegnung :: **Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und_Kontrolle_na**
 
 -Patient
 
 **ch_Freitext (Obse** **rva** **tion)**
 
-Begegnung ::**Krebsfrueherkennung_Frauen _Anamese _Hormona** **nwe** **ndung(**
+Begegnung :: **Krebsfrueherkennung_Frauen _Anamese _Hormona** **nwe** **ndung(**
 
-Begegnung ::**Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und_Kontrolle_na**
+Begegnung :: **Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und_Kontrolle_na**
 
 -Patient **Obse** **rva** **tion)**
 
 **ch_Oe** **strogenBe** **ha** **ndlung(Obse** **rva** **tion)**
 
-Begegnung ::**Zytologischer_Bef** **und_2020 (DiagnosticReport)**
+Begegnung :: **Zytologischer_Bef** **und_2020 (DiagnosticReport)**
 
-Begegnung ::**Krebsfrueherkennung** **Obse** **rva** **tion)** **_Frauen _Bef** **und_Diverse (**
+Begegnung :: **Krebsfrueherkennung** **Obse** **rva** **tion)** **_Frauen _Bef** **und_Diverse (**
 
 *In der Klasse Provenienz wird nicht jede Klasse als Attribut explizit aufgeführt
 
-Begegnung ::**Krebsfrueherkennung** **e_Kla** **erung (Obse** **_Frauen _Zytologischer_Bef** **rva** **tion)** **und_histologisch**
+Begegnung :: **Krebsfrueherkennung** **e_Kla** **erung (Obse** **_Frauen _Zytologischer_Bef** **rva** **tion)** **und_histologisch**
 
 -Patient
 
 jedoch könnte jedes beliebige KBV-Profil referenziert werden .
 
-Begegnung ::**Krebsfrueherkennung** **rviceRequest )** **_Frauen _Zytologischer_Bef** **und_Empfehlung(Se**Begegnung ::**Krebsfrueherkennung** **Obse** **_Frauen _Zytologischer_Bef** **rva** **tion)** **und_Gruppe(**
+Begegnung :: **Krebsfrueherkennung** **rviceRequest )** **_Frauen _Zytologischer_Bef** **und_Empfehlung(Se** Begegnung :: **Krebsfrueherkennung** **Obse** **_Frauen _Zytologischer_Bef** **rva** **tion)** **und_Gruppe(**
 
 -Patient
 
-Begegnung ::**Krebsfrueherkennung_Frauen _HPV _Testergebnis _2020 (Obse** **rva** **tion)**Begegnung ::**Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und_Diverse (**
+Begegnung :: **Krebsfrueherkennung_Frauen _HPV _Testergebnis _2020 (Obse** **rva** **tion)** Begegnung :: **Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und_Diverse (**
 
 -Patient
 
 **Obse** **rva** **tion)**
 
-Begegnung ::**Krebsfrueherkennung** **Oberservation)** **_Frauen _Zytologischer_Bef** **und_Bemerkungen (**Begegnung ::**Krebsfrueherkennung** **e_Zellen (Obse** **_Frauen _Zytologischer_Bef** **rva** **tion)** **und_Endozervikal**
+Begegnung :: **Krebsfrueherkennung** **Oberservation)** **_Frauen _Zytologischer_Bef** **und_Bemerkungen (** Begegnung :: **Krebsfrueherkennung** **e_Zellen (Obse** **_Frauen _Zytologischer_Bef** **rva** **tion)** **und_Endozervikal**
 
 Abbildung 3 Ebene 1 des FHIR-Informationsmodells
 
@@ -844,7 +844,7 @@ Die Attribute in den Klassen bezeichnen Referenzen. Der Name des Attributs ist d
 
 Die hier modellierten Profile werden beim Export in Form von einzelnen Dateien (Instanzen) im XML-Format  erzeugt. Die Beziehungen zu den anderen Instanzen werden in den Dateien durch URLs gehalten.
 
-Koerpergewicht(KBV-Basis ), Koerpergroesse (KBV-Basis ), Koerpertemperatur, Hueftumfang,Bauchumfang,Raucherstatus,Puls ,
+Begegnung :: Koerpergewicht(KBV-Basis ), Koerpergroesse (KBV-Basis ), Koerpertemperatur, Hueftumfang,Bauchumfang,Raucherstatus,Puls , Begegnung ::
 
 ---
 
@@ -977,23 +977,23 @@ Einschränkungen diese zu verwenden sind. Die Identifikation der KBV -Profile er
 
 |  |  | KBV_PR_AW_Behandlungsbaus |
 |---|---|---|
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Beh | Optional KBV_PR_AW_Behandlungsbaus |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Beh | Optional KBV_PR_AW_Behandlungsbaus |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Beh | Optional KBV_PR_AW_Behandlungsbaus |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Beh | Optional KBV_PR_AW_Betriebsstaette |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Beh | Optional  KBV_PR_AW_Behandlungsbaus |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Beh | Optional  KBV_PR_AW_Behandlungsbaus |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Beh | Optional  KBV_PR_AW_Behandlungsbaus |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Beh | Optional  KBV_PR_AW_Betriebsstaette |  |
 | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Betr | 06.06.2021 KBV_PR_AW_Betriebsstaette_ |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Betr | Optional KBV_PR_AW_Bezugsperson |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Bez | Verpflichtung KBV_PR_AW_Dauermedikation |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Dau | Optional KBV_PR_AW_Diagnose |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Diag | Optional KBV_PR_AW_Genetische_ |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Gen | Optional KBV_PR_AW_Gesundheitspass |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Ges | Optional KBV_PR_AW_Hausbesuch |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hau | Optional KBV_PR_AW_Hausbesuch_Ort |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hau | Optional KBV_PR_AW_Hersteller_Softwa |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Betr | Optional  KBV_PR_AW_Bezugsperson |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Bez | Verpflichtung  KBV_PR_AW_Dauermedikation |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Dau | Optional  KBV_PR_AW_Diagnose |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Diag | Optional  KBV_PR_AW_Genetische_ |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Gen | Optional  KBV_PR_AW_Gesundheitspass |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Ges | Optional  KBV_PR_AW_Hausbesuch |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hau | Optional  KBV_PR_AW_Hausbesuch_Ort |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hau | Optional  KBV_PR_AW_Hersteller_Softwa |  |
 | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hers | 06.06.2021 KBV_PR_AW_Hilfsmittel |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hilfs | Optional KBV_PR_AW_Impfung |  |
-| https://fhir.kbv.de/StructureDefinition/ | Optional KBV_PR_AW_Krankenbefoerde |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kran | Optional KBV_PR_AW_Krankenbefoerde |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hilfs | Optional  KBV_PR_AW_Impfung |  |
+| https://fhir.kbv.de/StructureDefinition/ | Optional  KBV_PR_AW_Krankenbefoerde |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kran | Optional  KBV_PR_AW_Krankenbefoerde |  |
 | Name | URI | Umsetzung (zum) |
 | KBV_PR_AW_Behandlungsbaus | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Beh | Optional |
 | KBV_PR_AW_Behandlungsbaus | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Beh | Optional |
@@ -1102,21 +1102,21 @@ tein_OMIMCode tein_Sonstige tein_Textvorlage tein_Verordnung Unte rsuchung rung 
 
 |  |  | KBV_PR_AW_Krankenversicher |
 |---|---|---|
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kran | Verpflichtung KBV_PR_AW_Krebsfrueh |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional KBV_PR_AW_Krebsfrueherkenn |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional KBV_PR_AW_Krebsfrueherkenn |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional KBV_PR_AW_Krebsfrueherkenn |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional KBV_PR_AW_Krebsfrueherkenn |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional KBV_PR_AW_Krebsfrueherkenn |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional KBV_PR_AW_Krebsfrueherkenn |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional KBV_PR_AW_Krebsfrueherkenn |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional KBV_PR_AW_Krebsfrueherkenn |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional KBV_PR_AW_Krebsfrueherkenn |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional KBV_PR_AW_Krebsfrueherkenn |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional KBV_PR_AW_Krebsfrueherkenn |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional KBV_PR_AW_Krebsfrueherkenn |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR | Optional KBV_PR_AW_Krebsfrueherkenn |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional KBV_PR_AW_Krebsfrueherkenn |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kran | Verpflichtung  KBV_PR_AW_Krebsfrueh |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional  KBV_PR_AW_Krebsfrueherkenn |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional  KBV_PR_AW_Krebsfrueherkenn |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional  KBV_PR_AW_Krebsfrueherkenn |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional  KBV_PR_AW_Krebsfrueherkenn |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional  KBV_PR_AW_Krebsfrueherkenn |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional  KBV_PR_AW_Krebsfrueherkenn |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional  KBV_PR_AW_Krebsfrueherkenn |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional  KBV_PR_AW_Krebsfrueherkenn |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional  KBV_PR_AW_Krebsfrueherkenn |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional  KBV_PR_AW_Krebsfrueherkenn |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional  KBV_PR_AW_Krebsfrueherkenn |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional  KBV_PR_AW_Krebsfrueherkenn |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR | Optional  KBV_PR_AW_Krebsfrueherkenn |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional  KBV_PR_AW_Krebsfrueherkenn |  |
 | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |  |
 |  |  |  |
 | Name | URI | Umsetzung (zum) |
@@ -1227,19 +1227,19 @@ ungsverhaeltnis ung_Befund_Rektum_Kolon ung_Frauen ung_Frauen_2020 ung_Frauen_An
 
 |  |  | KBV_PR_AW_Kreb |
 |---|---|---|
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional KBV_PR_AW_Krebsfrueherkenn |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional KBV_PR_AW_Krebsfrueherkenn |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional KBV_PR_AW_Krebsfrueh |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional KBV_PR_AW_Krebsfrueherkenn |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional KBV_PR_AW_Krebsfrueherkenn |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional KBV_PR_AW_Krebsfrueherkenn |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional KBV_PR_AW_Krebsfrueherkenn |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional KBV_PR_AW_Krebsfrueherkenn |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional KBV_PR_AW_Krebsfrueherkenn |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional KBV_PR_AW_Krebsfrueherkenn |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional KBV_PR_AW_Krebsfrueherkenn |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional KBV_PR_AW_Krebsfrueherkenn |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional KBV_PR_AW_Krebsfrueherkenn |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional  KBV_PR_AW_Krebsfrueherkenn |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional  KBV_PR_AW_Krebsfrueherkenn |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional  KBV_PR_AW_Krebsfrueh |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional  KBV_PR_AW_Krebsfrueherkenn |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional  KBV_PR_AW_Krebsfrueherkenn |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional  KBV_PR_AW_Krebsfrueherkenn |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional  KBV_PR_AW_Krebsfrueherkenn |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional  KBV_PR_AW_Krebsfrueherkenn |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional  KBV_PR_AW_Krebsfrueherkenn |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional  KBV_PR_AW_Krebsfrueherkenn |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional  KBV_PR_AW_Krebsfrueherkenn |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional  KBV_PR_AW_Krebsfrueherkenn |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional  KBV_PR_AW_Krebsfrueherkenn |  |
 | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |  |
 |  |  |  |
 |  |  |  |
@@ -1352,23 +1352,23 @@ ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_Diverse
 
 |  |  | KBV_PR_AW_Krebsfrueherkenn |
 |---|---|---|
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional KBV_PR_AW_Krebsfrueherkenn |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional KBV_PR_AW_Kur |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur | Optional KBV_PR_AW_Kur_Antrag |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional KBV_PR_AW_Kur_ |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional KBV_PR_AW_Kur_ |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional KBV_PR_AW_Leistungsanfrage |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Leist | Optional KBV_PR_AW_Leistungsanfrage |  |
-| https://fhir.kbv.de/Structur | Optional KBV_PR_AW_Leistungsgenehmi |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Le | Optional KBV_PR_AW_Leistungsgenehmi |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Leist | Optional KBV_PR_AW_Material_ |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Mat | Optional KBV_PR_AW_Medikament |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Med | Optional KBV_PR_AW_Mitarbeiter |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional  KBV_PR_AW_Krebsfrueherkenn |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional  KBV_PR_AW_Kur |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur | Optional  KBV_PR_AW_Kur_Antrag |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional  KBV_PR_AW_Kur_ |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional  KBV_PR_AW_Kur_ |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional  KBV_PR_AW_Leistungsanfrage |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Leist | Optional  KBV_PR_AW_Leistungsanfrage |  |
+| https://fhir.kbv.de/Structur | Optional  KBV_PR_AW_Leistungsgenehmi |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Le | Optional  KBV_PR_AW_Leistungsgenehmi |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Leist | Optional  KBV_PR_AW_Material_ |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Mat | Optional  KBV_PR_AW_Medikament |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Med | Optional  KBV_PR_AW_Mitarbeiter |  |
 | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Mita | 06.06.2021 KBV_PR_AW_Notfall |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Notf | Optional KBV_PR_AW_Notfallbenachrich |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Notf | Optional KBV_PR_AW_Observation_Ana |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Obs | Optional KBV_PR_AW_Observation_ |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_O | Optional KBV_PR_AW_Observation_Befu |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Notf | Optional  KBV_PR_AW_Notfallbenachrich |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Notf | Optional  KBV_PR_AW_Observation_Ana |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Obs | Optional  KBV_PR_AW_Observation_ |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_O | Optional  KBV_PR_AW_Observation_Befu |  |
 | Name | URI | Umsetzung (zum) |
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
@@ -1477,23 +1477,23 @@ ung_Maenner_Auftrag ung_Maenner_Befund_Diverse Kurgenehmig Kurverlaenge rung _He
 
 |  |  | KBV_PR_AW_Observation_ |
 |---|---|---|
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Obs | Optional KBV_PR_AW_Observation_Puls |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Obs | Optional KBV_PR_AW_Observation_ |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_O | Optional KBV_PR_AW_Observation_ |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Obs | Optional KBV_PR_AW_Organisation |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Org | Optional KBV_PR_AW_Patient |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Obs | Optional  KBV_PR_AW_Observation_Puls |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Obs | Optional  KBV_PR_AW_Observation_ |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_O | Optional  KBV_PR_AW_Observation_ |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Obs | Optional  KBV_PR_AW_Organisation |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Org | Optional  KBV_PR_AW_Patient |  |
 | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Pati | 06.06.2021 KBV_PR_AW_Patientenverfueg |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Pati | Optional KBV_PR_AW_Person |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Pers | Optional KBV_PR_AW_Provenienz |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Pati | Optional  KBV_PR_AW_Person |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Pers | Optional  KBV_PR_AW_Provenienz |  |
 | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Prov | 06.06.2021 KBV_PR_AW_Ringversuchszerti |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Ring | Optional KBV_PR_AW_Selektivvertrag |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Sele | Optional KBV_PR_AW_Stationaere_Beha |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_ | Optional KBV_PR_AW_Termin |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Ter | Optional KBV_PR_AW_Therapie |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Ther | Optional KBV_PR_AW_Ueberweisung_K |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Ueb | Optional KBV_PR_AW_Unfall |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Unf | Optional KBV_PR_AW_Unfall_Ort |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Unf | Optional KBV_PR_AW_Untersuchung |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Ring | Optional  KBV_PR_AW_Selektivvertrag |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Sele | Optional  KBV_PR_AW_Stationaere_Beha |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_ | Optional  KBV_PR_AW_Termin |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Ter | Optional  KBV_PR_AW_Therapie |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Ther | Optional  KBV_PR_AW_Ueberweisung_K |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Ueb | Optional  KBV_PR_AW_Unfall |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Unf | Optional  KBV_PR_AW_Unfall_Ort |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Unf | Optional  KBV_PR_AW_Untersuchung |  |
 | Name | URI | Umsetzung (zum) |
 | KBV_PR_AW_Observation_ | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Obs | Optional |
 | KBV_PR_AW_Observation_Puls | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Obs | Optional |
@@ -1602,10 +1602,10 @@ Koer pertemperatur Rau cherstatus Sch wangerschaft fikat ndlung H-Einweisung its
 
 |  |  | KBV_PR_AW_Verordnung_Heil |
 |---|---|---|
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Vero | Optional KBV_PR_AW_Verordnung_Hilfs |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Vero | Optional KBV_PR_AW_Vorsorgevollmach |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Vors | Optional KBV_PR_AW_Weiterbehandlun |  |
-| https://fhir.kbv.de/StructureD | Verpflichtung KBV_PR_AW_Report_Export |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Vero | Optional  KBV_PR_AW_Verordnung_Hilfs |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Vero | Optional  KBV_PR_AW_Vorsorgevollmach |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Vors | Optional  KBV_PR_AW_Weiterbehandlun |  |
+| https://fhir.kbv.de/StructureD | Verpflichtung  KBV_PR_AW_Report_Export |  |
 | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Rep | 06.06.2021 KBV_PR_AW_Report_Import |  |
 | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Rep | 06.06.2021 Tabelle 1 FHIR®-Profile der PVS-Archivierungs- und Wechselschnittstelle |  |
 |  |  |  |
@@ -1733,7 +1733,7 @@ mittel mittel g_durch rdnung_Heilmittel rdnung_Hilfsmittel orgevollmacht efiniti
 | KBV_EX_AW_Abrechnungen_Item_Kontext | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Abrec |
 | KBV_EX_AW_Abrechnungen_spezielle_Abrechnu | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Abrec |
 | KBV_EX_AW_Abrechnung_vertragsaerztlich_Zusa | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Abrec |
-| KBV_EX_AW_Abrechnung_Kundennummer_Abre | https://fhir.kbv.de/StructureDefinition/ KBV_EX_AW_Abrec |
+| KBV_EX_AW_Abrechnung_Kundennummer_Abre | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Abrec |
 | KBV_EX_AW_Abrechnungen_Mahnung | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Abrec |
 | KBV_EX_AW_Abrechnung_Sonstige_GOP | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Abrec |
 | KBV_EX_AW_Adressbuch_Anrede | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Adres |
@@ -1753,7 +1753,7 @@ mittel mittel g_durch rdnung_Heilmittel rdnung_Hilfsmittel orgevollmacht efiniti
 | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Abrec | KBV_EX_AW_Abrechnungen_spezielle_Abrechnu |
 | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Abrec | KBV_EX_AW_Abrechnung_vertragsaerztlich_Zusa |
 | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Abrec | KBV_EX_AW_Abrechnung_Kundennummer_Abre |
-| https://fhir.kbv.de/StructureDefinition/ | KBV_EX_AW_Abrechnungen_Mahnung https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Abrec |
+| https://fhir.kbv.de/StructureDefinition/ | KBV_EX_AW_Abrechnungen_Mahnung  https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Abrec |
 | KBV_EX_AW_Abrechnung_Sonstige_GOP | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Abrec |
 | KBV_EX_AW_Adressbuch_Anrede | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Adres |
 | KBV_EX_AW_Adressbuch_Schlusssatz | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Adres |
@@ -1773,7 +1773,7 @@ mittel mittel g_durch rdnung_Heilmittel rdnung_Hilfsmittel orgevollmacht efiniti
 | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Abrec | KBV_EX_AW_Abrechnungen_spezielle_Abrechnu |
 | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Abrec | KBV_EX_AW_Abrechnung_vertragsaerztlich_Zusa |
 | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Abrec | KBV_EX_AW_Abrechnung_Kundennummer_Abre |
-| https://fhir.kbv.de/StructureDefinition/ | KBV_EX_AW_Abrechnungen_Mahnung https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Abrec |
+| https://fhir.kbv.de/StructureDefinition/ | KBV_EX_AW_Abrechnungen_Mahnung  https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Abrec |
 | KBV_EX_AW_Abrechnung_Sonstige_GOP | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Abrec |
 | KBV_EX_AW_Adressbuch_Anrede | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Adres |
 | KBV_EX_AW_Adressbuch_Schlusssatz | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Adres |
@@ -2294,7 +2294,7 @@ Die NamingSystems definieren konkrete Namensräume für die Elemente.
 | E-GO | https://fhir.kbv.de/NamingSystem/KBV_NS_AW_E-GO |
 | UV-GOAE | https://fhir.kbv.de/NamingSystem/KBV_NS_AW_UV_GOAE |
 | HZV_Selektiv | https://fhir.kbv.de/NamingSystem/KBV_NS_AW_HZV_Selektiv |
-| OMIM_G | https://fhir.kbv.de/NamingSystem/KBV_NS_AW_OMIM _G |
+| OMIM_G | https://fhir.kbv.de/NamingSystem/KBV_NS_AW_OMIM_G |
 | OMIM_P | https://fhir.kbv.de/NamingSystem/KBV_NS_AW_OMIM_P |
 | GOAE | https://fhir.kbv.de/NamingSystem/KBV_NS_AW_GOA |
 | Policy | https://fhir.kbv.de/NamingSystem/KBV_NS_AW_Policy |
@@ -2312,17 +2312,17 @@ In den KBV-Bundles werden mehrere FHIR-Ressourcen in einem Bundle zusammengefass
 
 | Name | Kanonische URL | Umzusetzen | Datenbereich |
 |---|---|---|---|
-| KBV_PR_AW_Bundle_Adressbu | https://fhir.kbv.de/Struc | Optional | Adressen (siehe Kapitel 4.3.3) |
+| KBV_PR_AW_Bundle_Adressbu | https://fhir.kbv.de/Struc | Optional | Adressen (siehe  Kapitel 4.3.3) |
 | KBV_PR_AW_Bundle_Behandlu | https://fhir.kbv.de/Struc | Optional | Behandlungsba Kapitel 4.3.4) |
-| KBV_PR_AW_Bundle_Patienten | https://fhir.kbv.de/Struc | 06.06.2021 | Patientenakten (siehe Kapitel 4.3.5) |
-| KBV_PR_AW_Bundle_Termin | https://fhir.kbv.de/Struc | Optional | Termin (siehe Kapitel 4.3.2) |
+| KBV_PR_AW_Bundle_Patienten | https://fhir.kbv.de/Struc | 06.06.2021 | Patientenakten  (siehe Kapitel  4.3.5) |
+| KBV_PR_AW_Bundle_Termin | https://fhir.kbv.de/Struc | Optional | Termin (siehe  Kapitel 4.3.2) |
 | KBV_PR_AW_Bundle_Sprechst | https://fhir.kbv.de/Struc | Optional | Sprechstundenb |
 
 Tabelle 6 FHIR®-Bundles Datenbereiche der PVS-Archivierungs- und Wechselschnittstelle
 
 Ein Überblick der Zuordnung zwischen den FHIR®-Bundles und den darin enthaltenen KBV-FHIR®-Profilen  kann [KBV_ITA_VGEX_FHIR-Uebersicht-Bundle-Datenbereiche_AW_SST] entnommen werden.
 
-ngsbaustein undenbedarf zum tureDefinition/KBV_PR_ AW_Bundle_Adressbuch tureDefinition/KBV_PR_ AW_Bundle_Behandlung sbaustein tureDefinition/KBV_PR_ AW_Bundle_Patientena tureDefinition/KBV_PR_ tureDefinition/KBV_PR_ AW_Bundle_Sprechstun denbedarf ustein (siehe edarf (siehe
+ngsbaustein undenbedarf zum tureDefinition/KBV_PR_ AW_Bundle_Adressbuch tureDefinition/KBV_PR_ AW_Bundle_Behandlung sbaustein tureDefinition/KBV_PR_ AW_Bundle_Patientena tureDefinition/KBV_PR_ tureDefinition/KBV_PR_ AW_Bundle_Sprechstun denbedarf ustein (siehe edarf (siehe Kapitel 4.3.5)
 
 ---
 
@@ -2344,7 +2344,7 @@ Jede FHIR®-Instanz enthält einen maschinenlesbaren und einen menschenlesbaren 
 
 Jede Instanz einer FHIR®-Ressource enthält ein Element <id> deren Attribut „value“ mit einer eindeutigen ID  gefüllt werden muss. Diese ID muss für jeden Export über alle FHIR®-Instanzen eindeutig vergeben werden.
 
-| Beispiel … <fullUrl value="http://hl7.org/FHIR/Patient/1"/>  <resource> <Patient>  <id value="1"/>  <meta> … |
+| Beispiel  …  <fullUrl value="http://hl7.org/FHIR/Patient/1"/>   <resource>  <Patient>   <id value="1"/>   <meta>  … |
 |---|
 
 Die KBV empfiehlt das Element <Ressourcentyp.id> mit einem Universally Unique Identifier (UUID) zu  belegen.
@@ -2374,7 +2374,7 @@ Die Elemente in der Bezeichnung haben folgende Bedeutung:
 
 - Schnittstelle - AW (steht für Archiv- und Wechselschnittstelle und ist ein fester Wert)
 
-| Beispiel   Vollständiger Export der Archiv und Wechselschnittstelle am 01.08.2018 um 12:00:59 |
+| Beispiel     Vollständiger Export der Archiv und Wechselschnittstelle am 01.08.2018 um 12:00:59 |
 |---|
 
 Ordnerstruktur gemäß den
@@ -2699,10 +2699,10 @@ Versionen.
 
 | Referenz | Dokument |
 |---|---|
-| KBV_ITA_VGEX_Informa | Informationsmodell der PVS-Archivierungs- und Wechselschnittstelle  ftp://ftp.kbv.de/ita |
-| FHIR® | FHIR-Spezifikation Release 4  http://hl7.org/fhir/ |
-| KBV_ITA_VGEX_FHIR | Modell der Umsetzung der PVS-Archivierungs- und Wechselschnittstelle  ftp://ftp.kbv.de/ita-update/371-Schnittstellen/PVS |
-| Hinweise_DV_Arztpraxis | Hinweise und Empfehlungen zur ärztlichen Schweigepflicht, Datenschutz  http://www.bundesaerztekammer.de/fileadmin/user_upload/downloads/p |
-| KBV_ITA_VGEX_FHIR | Abbildung der Zuordnung zwischen FHIR®-Bundles und zugehörigen KBV-  ftp://ftp.kbv.de/ita |
+| KBV_ITA_VGEX_Informa | Informationsmodell der PVS-Archivierungs- und Wechselschnittstelle    ftp://ftp.kbv.de/ita |
+| FHIR® | FHIR-Spezifikation Release 4    http://hl7.org/fhir/ |
+| KBV_ITA_VGEX_FHIR | Modell der Umsetzung der PVS-Archivierungs- und Wechselschnittstelle    ftp://ftp.kbv.de/ita-update/371-Schnittstellen/PVS |
+| Hinweise_DV_Arztpraxis | Hinweise und Empfehlungen zur ärztlichen Schweigepflicht, Datenschutz    http://www.bundesaerztekammer.de/fileadmin/user_upload/downloads/p |
+| KBV_ITA_VGEX_FHIR | Abbildung der Zuordnung zwischen FHIR®-Bundles und zugehörigen KBV-   ftp://ftp.kbv.de/ita |
 
 -Archivierungs-Wechsel- tionsmodell_AW_SST Schnittstelle/  mit FHIR®-Profilen Informationsmodell_AW _SST -Archivierungs-Wechsel- Schnittstelle/  und Datenverarbeitung in der Arztpraxis: df- Ordner/Recht/Hinweise_und_Empfehlungen_aerztliche_Schweigepflicht_D atenschutz_Datenverarbeitung_09.03.2018.pdf  FHIR®-Profilen zur Abbildung der Datenbereiche gemäß Kapitel 4.3. Uebersicht-Bundle- Datenbereiche_AW_SST -Archivierungs-Wechsel- Schnittstelle/

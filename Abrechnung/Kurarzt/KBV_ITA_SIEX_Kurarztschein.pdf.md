@@ -139,4 +139,6 @@ Kompaktkur nicht möglich
 
 **6**
 
+**Verbindliches Muster**
+
 Kurarztstempel

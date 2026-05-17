@@ -110,11 +110,35 @@ Substanz
 
 Hersteller
 
-| mit Beatmung |  | unter Spontanatmung |  | Mobilität |
-|---|---|---|---|---|
-| Dauer |  | Dauer |  | Dauer |
-| Flow l/min |  | Flow l/min |  | Flow l/min |
-| h/tgl. |  | h/tgl. |  | h/tgl. |
+mit Beatmung
+
+Flow
+
+l/min
+
+Dauer
+
+h/tgl.
+
+Dauer
+
+h/tgl.
+
+Dauer
+
+h/tgl.
+
+unter Spontanatmung
+
+Flow
+
+l/min
+
+Mobilität
+
+Flow
+
+l/min
 
 ärztliche Unterschrift
 

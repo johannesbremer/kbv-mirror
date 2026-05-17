@@ -22,7 +22,7 @@ Die Änderungen vom 14.11.2025 treten zum 01.01.2026 in Kraft.
 
 | Version Datum |  | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.03 | 14.11.2025 | KBV | Streichung P1-265,  Überarbeitung P1-266   Umwandlung K2-264 in konditiona- | Abschaltung KV-Connect | 9 |
+| 1.03 | 14.11.2025 | KBV | Streichung P1-265,   Überarbeitung P1-266      Umwandlung K 2-264 in konditiona- | Abschaltung KV-Connect | 9 |
 | 1.02 | 14.02.2025 | KBV | • | weg | 9 |
 | 1.01 | 07.05.2018 | KBV | • • | Aktualisierung der KV- | 9 |
 | 1.00 | 31.07.2014 | KBV | Neues Dokument |  |  |
@@ -86,14 +86,10 @@ INHALTSVERZEICHNIS
 
 ---
 
-| **IT in** | **der Arztpraxis** |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-|  | Anforderungskatalog | QS | Kapselendoskopie | |  |  |  |
-|  | Abbildungsverzeichnis | |  |  |  |  |  |
-| **ABBILDUNG** | **1:** | **BERICHTSZEITRÄUME** |  |  | ................................................................................................................................ | | 6 |
-|  |  | KBV_ITA_VGEX_Anforderungskatalog_QSKE | | * Version | 1.03 | Seite 4 | von 12 |
+**ABBILDUNG 1:** **BERICHTSZEITRÄUME** ................................................................................................................................ 6
 
-ABBILDUNG 1:
+Abbildungsverzeichnis
+
 
 ---
 
@@ -242,7 +238,7 @@ Die Jahresstatistik wird gegen die Plausibilitäten [KBV_ITA_VGEX_Plausi_QSKE] g
 
 | PFLICHTFUNKTION QS Kapselendoskopie | |
 |---|---|
-| P1-300 | Anzeige der Jahresstatistik |
+| P 1-300 | Anzeige der Jahresstatistik |
 
 Der Anwender muss die Möglichkeit haben die generierte Jahresstatistik anzuschauen.
 
@@ -280,7 +276,7 @@ Das System muss sicherstellen, dass der Anwender alle Daten zur Jahresstatistik 
 
 | PFLICHTFUNKTION QS Kapselendoskopie | |
 |---|---|
-| P2-10 | Übermittlung an die Datenannahmestelle |
+| P 2-10 | Übermittlung an die Datenannahmestelle |
 
 Die Jahresstatistik ist im Meldequartal an die Datenannahmestelle zu übermitteln. Die Statis- tik muss dabei bis zum 31.03. (Ende des Meldequartals) bei der Datenannahmestelle vorlie- gen. Der Anwender kann anschließend bis zum 30.06. (Ende des Prüfquartals) auf Aufforde- rung der KV veränderte und überarbeitete Daten an die Datenannahmestelle senden.
 

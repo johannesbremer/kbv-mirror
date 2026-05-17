@@ -115,6 +115,8 @@ Patiententyp (patient.type_cd) .................................................
 
 Die Person Patient (person) ........................................................................................ 23
 
+Header für eDMP / a-Datensatz
+
 
 ---
 
@@ -152,7 +154,7 @@ VersichertenartMFR .............................................................
 
 6.9.5.10 Statusergaenzung ....................................................................................................... 29
 
-6.9.5.11 BisDatumderGueltigkeit .............................................................................................. 29
+6.9.5.11 Bis DatumderGueltigkeit .............................................................................................. 29
 
 6.9.5.12 KVKEinlesedatum ....................................................................................................... 29
 
@@ -200,6 +202,8 @@ Zusatzangabe zur XML-Schnittstelle (Software) ..................................
 
 **8** **Referenzierte Dokumente ................................................................................................... 37**
 
+Header für eDMP / a-Datensatz
+
 
 ---
 
@@ -237,6 +241,8 @@ Abbildung 14 Grundstruktur sciphox:Software ....................................
 
 Abbildung 15 Grundstruktur sciphox:Software ......................................................................... 35
 
+Header für eDMP / a-Datensatz
+
 
 ---
 
@@ -268,6 +274,8 @@ Tabelle 11 Erläuterungen nm (Patient) .........................................
 
 Tabelle 12 SoftwareTyp ........................................................................................................ 32
 
+Header für eDMP / a-Datensatz
+
 
 ---
 
@@ -294,6 +302,8 @@ Diese Schnittstellenbeschreibung ist so angelegt, dass prinzipiell alle Ausfüll
 Die Regeln zur Plausibilisierung sind in der jeweiligen Plausibilitätsrichtlinie hinterlegt. Her-  ausgeber und Verantwortlicher für diese Merkblätter sind die Spitzenverbände der Kranken-  kassen.
 
 ***Lediglich die genannten Plausibilitätsprüfungen sind Prüfungen des KBV-Prüfmoduls***  ***XPM.***
+
+Header für eDMP / a-Datensatz
 
 
 ---
@@ -338,6 +348,8 @@ Beispiele: -  123456789_123_20070301.EED1
 
 -  123456789_123_20070601_a.EVD1
 
+Header für eDMP / a-Datensatz
+
 
 ---
 
@@ -368,7 +380,7 @@ Unterschiede im Header des a-Datensatzes zum Volldatensatz
 | Volldatensatz | a-Datensatz |
 |---|---|
 | document_type_cd V-Attribut : | document_type_cd V-Attribut: |
-| document_type_cd DN-Attribut: Erstmalige Dokumentation Asthma bron- bzw. Verlaufsdokumentation Asthma bronchia- | document_type_cd DN-Attribut: Erstmalige  Dokumentation  Asthma  bron- bzw. Verlaufsdokumentation Asthma  bronchiale |
+| document_type_cd DN-Attribut: Erstmalige Dokumentation Asthma bron-  bzw. Verlaufsdokumentation Asthma bronchia- | document_type_cd DN-Attribut: Erstmalige  Dokumentation  Asthma  bron-  bzw. Verlaufsdokumentation Asthma  bronchiale |
 | patient->person_name | fehlt |
 | patient->addr | fehlt |
 | provider ->person_name | fehlt |
@@ -389,9 +401,13 @@ Unterschiede im Header des a-Datensatzes zum Volldatensatz
 
 **Unterschiede Volldatensatz und a-Datensatz**
 
+Header für eDMP / a-Datensatz
+
 Überblick-Unterschiede EDMP_ASTHMA_EE EDMP_ASTHMA_EV EDMP_ASTHMA_EE_A EDMP_ASTHMA_EV_A chiale a-Datensatz
 
 ---
+
+Header für eDMP / a-Datensatz
 
 # 4 Semantik der verwendeten Diagramm-Symbole
 
@@ -403,9 +419,9 @@ Symbole in den folgenden Kapiteln kurz erläutert werden.
 
 | Kardinalität | Symbol | Beschreibung |
 |---|---|---|
-| 0..1 |  | Optionales Element: Element wird als Rechteck mit mal vorkommen. |
+| 0..1 |  | Optionales Element: Element wird als Rechteck mit  mal vorkommen. |
 | 1 |  | Musselement:  Rechteck mit durchgezogner Linie. Das |
-| n...m |  | Multielement enthält mindestens  n aber maximal m ∞ drückt z.B. |
+| n...m |  | Multielement enthält mindestens  n aber maximal m  ∞ drückt z.B. |
 
 **Tabelle 2**
 
@@ -449,7 +465,7 @@ Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen E
 |---|---|---|
 | & | &amp; | |
 | < | &lt; | |
-| > | &gt; | beide Schreibweisen sind laut 1 erlaubt |
+| > | &gt; | beide Schreibweisen sind laut  1 erlaubt |
 | ’ | &apos; | |
 | “ | &quot; | dieses Zeichen “ ist laut W3C- |
 
@@ -497,6 +513,8 @@ Der Wert für den im Codebeispiel angegebenen Platzhalter „Schema.xsd“ richt
 
 1 W3C-Spezifikation [http://www.w3.org/xml](http://www.w3.org/xml)
 
+Header für eDMP / a-Datensatz
+
 W3C-Spezifikation Spezifikation nur innerhalb der At- tributwerte nicht erlaubt
 
 ---
@@ -508,6 +526,8 @@ werden.
 Zu beachten ist, dass die erstmalige Dokumentation und die Verlaufsdokumentation gleiche  *clinical_document_header* besitzen. Strukturelle Unterschiede ergeben sich erst im *body* der
 
 beiden Dokumente. Das Kapitel 6 clinical_document_header (allgemein) ist somit sowohl für  die erstmalige als auch für die Verlaufsdokumentation gültig.
+
+Header für eDMP / a-Datensatz
 
 
 ---
@@ -574,6 +594,8 @@ aus:
 
 **XML-Code 2 clinical_document_header**
 
+Header für eDMP / a-Datensatz
+
 
 ---
 
@@ -633,8 +655,12 @@ steht ein kodierter Wert z.B. EDMP_DIABETES1_EE, der aus einer Schlüsseltabelle
 
 2 [http://www.kbv.de/keytabs/ita/schluesseltabellen.asp](http://www.kbv.de/keytabs/ita/schluesseltabellen.asp)
 
+Header für eDMP / a-Datensatz
+
 
 ---
+
+Header für eDMP / a-Datensatz
 
 (1.2.276.0.76.5.100) stammt. Der Wert EDMP_DIABETES1_EE entspricht: „Erstmalige Do-  kumentation Diabetes mellitus Typ 1“. Im *S* Attribut steht die eindeutige OID der Schlüsselta-
 
@@ -696,6 +722,8 @@ ein Verweis auf das Ur-
 
 
 ---
+
+Header für eDMP / a-Datensatz
 
 **Abbildung 3 Grundstruktur document_relationship**
 
@@ -814,8 +842,12 @@ function_cd V="VERTRETER" S="1.2.276.0.76.5.105" SN="KBV" DN="Vertreter"/>
 
 **XML-Code 15 function_cd**
 
+Header für eDMP / a-Datensatz
+
 
 ---
+
+Header für eDMP / a-Datensatz
 
 ### 6.8.3 Die Person Arzt (person)
 
@@ -893,6 +925,8 @@ sieht in diesem Fall wie folgt aus:
 
 
 ---
+
+Header für eDMP / a-Datensatz
 
 Das Element *id* darf max. dreimal auftreten, wenn die Angaben („LANR“, „BSNR“ und „Kran-
 
@@ -1003,9 +1037,13 @@ die Kindelemente *ADL STR HNR ZIP, CTY* und *CNT*. Die Struktur dieses Elements 
 
 Abbildung 7 dargestellt.
 
+Header für eDMP / a-Datensatz
+
 Das Element nm kann folgende Elemente enthalten: durch Bindestriche oder Leerzeichen getrennt) String  mit  max.  60 0..1 „Freiherr“ Zeichen und Adelsbezeichnungen, oder „von“ Akademischer Grad, Zusatz beim Element PFX (mehrere Titel Namenszusätze sind durch Leerzeichen getrennt) chenden XML-Elemente:
 
 ---
+
+Header für eDMP / a-Datensatz
 
 **Abbildung 7 Grundstruktur addr (Arzt)**
 
@@ -1017,7 +1055,7 @@ das Dokument erstellt wurde, mit angegeben (z.B. <ADL V=""/>).  kument in einer 
 
 | Element | Wert | Datentyp | Kard. |
 |---|---|---|---|
-| ADL | Name des Krankenhauses und Name der Abteilung, wo die Behand- | String mit max. 60 Zeichen | 0..2 |
+| ADL | Name des Krankenhauses und  Name der Abteilung, wo die Behand- | String mit max. 60 Zeichen | 0..2 |
 | STR | Straße der Anschrift | String mit max. 60 Zeichen | 0..1 |
 | HNR | Hausnummer der Anschrift | String mit max. 15 Zeichen | 0..1 |
 | ZIP | Postleitzahl der Anschrift | String mit 3 bis max. 7 Zeichen | 1..1 |
@@ -1129,6 +1167,8 @@ Der Coderahmen für das Element *patient* sieht wie folgt aus:
 
 **XML-Code 21 patient**
 
+Header für eDMP / a-Datensatz
+
 Die Erläuterung für die verschiedenen Werte sind in der Tabelle 10 aufgeführt.
 
 ---
@@ -1197,6 +1237,8 @@ In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element
 
 Grundstruktur dieses Element ist in Abbildung 10 dargestellt.
 
+Header für eDMP / a-Datensatz
+
 
 ---
 
@@ -1236,9 +1278,13 @@ Unterschiede gegenüber den Angaben zum Arzt bestehen nur in Längenbegrenzungen
 
 In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: die Struktur des Ele-  ments *addr* entspricht hierbei dem *addr*- Element des Arztes, welches bereits im Abschnitt 6.8.3.3 erläutert wurde.
 
+Header für eDMP / a-Datensatz
+
 Das Element nm kann folgende Elemente enthalten: durch Bindestriche oder Leerzeichen getrennt) und Adelsbezeichnungen, „Freiherr“ Zeichen oder „von“
 
 ---
+
+Header für eDMP / a-Datensatz
 
 ### 6.9.3 Geburtsdatum des Patienten (birth_dttm)
 
@@ -1353,8 +1399,12 @@ Datentyp String. Als Beispiel sei hier folgender Code für dieses Element angege
 
 handen ist.
 
+Header für eDMP / a-Datensatz
+
 
 ---
+
+Header für eDMP / a-Datensatz
 
 <sciphox:Kostentraegerbezeichnung V="AOK Rheinland"/>
 
@@ -1426,6 +1476,8 @@ In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element
 
 
 ---
+
+Header für eDMP / a-Datensatz
 
 tenträger handelt. Im *V-*Attribut kann ein bis zu 60 Stellen umfassender alphanumerischer
 
@@ -1501,6 +1553,8 @@ geben das
 
 ---
 
+Header für eDMP / a-Datensatz
+
 die z.B. einer Bescheinigung vom Sozialamt zu entnehmen ist, in der Dokumentation einge-  tragen. Das Element besteht aus dem *V*- und *S*
 
 OID:2.16.840.1.113883.3.7.1.1 aufgeführt.
@@ -1562,6 +1616,8 @@ Attribut. Die Werte sind in der Tabelle mit der
 
 ---
 
+Header für eDMP / a-Datensatz
+
 ## 6.10 Software (local_header)
 
 Die Information über die Software und deren Verantwortliche wird mittels der Sciphox-SSU  *software v1* dargestellt. Das Element
@@ -1614,6 +1670,8 @@ Der Coderahmen für diese Sciphox-SSU sieht dann wie folgt aus:
 
 
 ---
+
+Header für eDMP / a-Datensatz
 
 </sciphox:sciphox-ssu>
 
@@ -1751,8 +1809,12 @@ Wert für die Schlüsseltabelle vorgeschrieben. Der Wert des DN-Attributs beschr
 
 gegeben werden. Als Beispiel sei hier der folgende Code angegeben:
 
+Header für eDMP / a-Datensatz
+
 
 ---
+
+Header für eDMP / a-Datensatz
 
 <sciphox:Kontakttyp V="SOFTV" S="1.2.276.0.76.3.1.1.5.2.3" DN="Softwareverantwortlicher"/>
 
@@ -1871,8 +1933,12 @@ Das Element *SoftwareVersion* wurde bereits ausführlich im Abschnitt 6.10.3 bes
 
 Version der Schnittstelle kann aus dem jeweiligen Schema zur software_ssu des DMP (z.B.  bei Diabetes mellitus Typ 1 -> DMP_DiabetesMellitus1_software_ssu.xsd) oder aus der Datei  ReleaseNotes.html im jeweilgen XPM-Prüfmodul entnommen werden. Eine gültige Versions-  angabe ist verpflichtend.
 
+Header für eDMP / a-Datensatz
+
 
 ---
+
+Header für eDMP / a-Datensatz
 
 ### 6.10.6.3 Softwaretyp der XML-Schnittstelle (SoftwareTyp)
 
@@ -1968,9 +2034,13 @@ zum XPM-
 | U | U-Attribut (Unit) |
 | WOP | Wohnortprinzip |
 
+Header für eDMP / a-Datensatz
+
 Offices and Hospitals using XML between Information Systems in Physician
 
 ---
+
+Header für eDMP / a-Datensatz
 
 **8 Referenzierte Dokumente**
 

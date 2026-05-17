@@ -6,31 +6,31 @@
 
 **Id Praxissoftware**
 
-2.56 **medavis RIS**
+256 **medavis RIS**
 
-2.80 **CGM MEDISTAR BLACK PRO**
+280 **CGM MEDISTAR BLACK PRO**
 
-4.46 **WIN-RADIOLOG**
+446 **WIN-RADIOLOG**
 
-2.54 **ORBIS®**
+254 **ORBIS®**
 
-2.10 **Medical Office**
+210 **Medical Office**
 
-1.12 **TURBOMED**
+112 **TURBOMED**
 
-2.03 **ALBIS**
+203 **ALBIS**
 
-2.52 **CGM M1 PRO**
+252 **CGM M1 PRO**
 
-2.16 **x.isynet**
+216 **x.isynet**
 
-4.39 **eRIS**
+439 **e RIS**
 
-3.43 **SAP Ambulatory Care Management**
+343 **SAP Ambulatory Care Management**
 
-2.76 **RadCentre Billing (OPD)**
+276 **RadCentre Billing (OPD)**
 
-0.62 **EVA**
+062 **EVA**
 
 **Anbieter**
 
@@ -62,15 +62,15 @@ Abasoft EDV-Programme GmbH 1
 
 **Installationen 2.Q.2025**
 
-2.9
+29
 
-2.1
+21
 
-1.4
+14
 
-1.2
+12
 
-1.1
+11
 
 9
 
@@ -90,17 +90,17 @@ Abasoft EDV-Programme GmbH 1
 
 **Installationen 1.Q.2025**
 
-3.0
+30
 
-2.1
+21
 
-1.3
+13
 
-1.2
+12
 
-1.0
+10
 
-1.0
+10
 
 8
 
@@ -149,19 +149,19 @@ Abasoft EDV-Programme GmbH 1
 
 **Id Praxissoftware**
 
-0.23 **DATA VITAL**
+023 **DATA VITAL**
 
-4.62 **medatixx**
+462 **medatixx**
 
-2.43 **x.concept**
+243 **x.concept**
 
-4.57 **tomedo**
+457 **tomedo**
 
-3.14 **IMedOne**
+314 **IMedOne**
 
-4.98 **T2med**
+498 **T 2med**
 
-2.30 **QMED.PRAXIS**
+230 **QMED.PRAXIS**
 
 **Anbieter**
 
@@ -175,7 +175,7 @@ Zollsoft GmbH
 
 Deutsche Telekom Clinical Solutions Gmb
 
-T2med GmbH & Co. KG
+T 2med GmbH & Co. KG
 
 Schwerdtner Medizin-Software GmbH 2
 

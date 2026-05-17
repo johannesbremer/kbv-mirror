@@ -31,15 +31,23 @@
 
 ***häusliches Leben organisieren, Familien-/soziale Beziehungen pflegen, einer Beschäftigung sowie eigene***
 
-**C. Kontextfaktoren, die für die mütter-/väterspezifische Problemkonstellation relevant sind**
+**C. Kontextfaktoren, die für die mütter-/väterspezifische Problemkonstellation relevant sind** **Mehrfachbelastung** **fehlende Anerkennung**
 
-|  | **Erziehungs-** |  | **Pflege von** |  |  |  |
-|---|---|---|---|---|---|---|
-|  | **schwierigkeiten** |  | **Familienangehörigen** |  | **soziale Isolation** |  |
-|  | **mangelnde Unterstützung** |  | **Partner-/ Eheprobleme/** |  | **Teenager-** |  |
-|  | **bei der Kindererziehung** |  | **Trennung vom Partner** |  | **schwangerschaft** |  |
-|  | **Mehrfachbelastung fehlende** |  | **Anerkennung** |  | **Tod des Partners/** |  |
-|  | **durch Beruf/Familie** |  | **der Mutter-/Vaterrolle** |  | **naher Angehöriger Kind** |  |
+**durch Beruf/Familie**
+
+**der Mutter-/Vaterrolle**
+
+**mangelnde Unterstützung Partner-/ Eheprobleme/**
+
+**bei der Kindererziehung**
+
+**Trennung vom Partner**
+
+**Pflege von**
+
+**Erziehungs-** **schwierigkeiten**
+
+**Familienangehörigen**
 
 **Schwierigkeiten bei der Problembewältigung** **(Alltagsprobleme)**
 
@@ -55,11 +63,19 @@
 
 ***hten, Hausarbeiten erledigen,*** ***n Interessen und Hobbies nachgehen)***
 
+**Tod des Partners/** **naher Angehöriger**
+
+**Teenager-** **schwangerschaft**
+
+**soziale Isolation**
+
 **finanzielle Sorgen**
 
 **ständiger Zeitdruck**
 
 **allein erziehend**
+
+**Kind Beziehung**
 
 **PRF.NR.** **Muster 64 Aa/E (10.2018)**
 
@@ -77,4 +93,4 @@
 
 **drohender Arbeitsplatzverlust/** **Arbeitslosigkeit**
 
-fehlende Anerkennung Kind Beziehung**nicht gleichberechtigte Stellung** **der Frau / des Mannes in der** **Familie**
+**nicht gleichberechtigte Stellung** **der Frau / des Mannes in der** **Familie**

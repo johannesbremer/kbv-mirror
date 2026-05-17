@@ -221,8 +221,8 @@ H - ("häufig")
 
 - Feld H46)
 
-NO -
+N O -
 
 - , D=50%  ("zur Hälfte")
 
-PQR
+P Q R

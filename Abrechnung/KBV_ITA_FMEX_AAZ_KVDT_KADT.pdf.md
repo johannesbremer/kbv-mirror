@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT 15. MAI 2024 VERSION: 4.2  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT  15. MAI 2024  VERSION: 4.2   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # ANTRAG AUF ZERTIFIZIERUNG  KURÄRZTLICHE ABRECHNUNG
@@ -32,15 +32,15 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 |  |  | | |
 |---|---|---|---|
-| Name des Antragsstellers [bei juristischen Personen ist die |  | | |
+| Name des Antragsstellers  [bei juristischen Personen ist die |  | | |
 | Geschäftsbereich [falls vorhanden] |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
 | E-Mail-Adresse |  | | |
 | Webseite |  | | |
-| Der Antragssteller ist | ☐  Arzt/Ärztin | ☐  Softwarehaus | ☐  Sonstiges |
-| Systempfleger [nur anzugeben, wenn der |  | | |
+| Der Antragssteller ist | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
+| Systempfleger  [nur anzugeben, wenn der |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
@@ -81,7 +81,10 @@ Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werd
 | ☐ | Windows | ☐ | Mac OS | ☐ | Linux |
 | ☐ | iOS/Android | ☐ | Sonstige | | |
 
+/ Version: 4.2 / 15. Mai 2024
+
 Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
+
 
 ---
 
@@ -129,6 +132,8 @@ Folgende optionale ADT Funktionen sind gem. Anforderungskatalog KVDT realisiert.
 |  |  |
 |  |  |
 
+/ Version: 4.2 / 15. Mai 2024
+
 [ ] [ ] mit  allen Feldern allen Ausprägungen (erlaubte Inhalte) zu den Feldern allen Regeln nsatzbeschreibung KVDT ist das K ADT-Datenpaket realisiert [ ] [ ] [ ] [ ] ADT LT. ANFORDERUNGSKATALOG
 
 ---
@@ -153,6 +158,8 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 | E-Mail-Adresse |  |
 
 Diese Information ist verpflichtend anzugeben
+
+/ Version: 4.2 / 15. Mai 2024
 
 
 ---
@@ -203,6 +210,8 @@ Diese Information ist verpflichtend anzugeben
 
 - Anwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann in diesem  Zusammenhang den Antragsteller zu einer Stellungnahme auffordern.
 
+/ Version: 4.2 / 15. Mai 2024
+
 Rezertifizierung Ergebnisprüfung
 
 ---
@@ -221,7 +230,7 @@ Rezertifizierung Ergebnisprüfung
 
 - (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
 
-- aktualisierten
+/ Version: 4.2 / 15. Mai 2024 - aktualisierten
 
 -
 
@@ -247,3 +256,5 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstel
 Kassenärztliche Bundesvereinigung
 
 Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+
+/ Version: 4.2 / 15. Mai 2024

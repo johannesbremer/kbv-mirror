@@ -36,7 +36,7 @@ Telefonnummer
 
 und Frühförderung behinderter und von Behinderung bedrohter Kinder in interdisziplinären Frühförderstellen in Bayern (RV IFS)  - für **Ärztin / Arzt** / Frühförderstelle / Personensorgeberechtigte / Kostenträger
 
-oErstausstellung  o Folgeplanung o Änderungsplanung
+o Erstausstellung  o Folgeplanung o Änderungsplanung
 
 voraussichtliche Behandlungsdauer in Monaten: _______________ voraussichtlicher
 

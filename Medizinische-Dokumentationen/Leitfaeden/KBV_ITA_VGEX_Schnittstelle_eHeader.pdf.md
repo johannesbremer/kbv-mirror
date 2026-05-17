@@ -26,11 +26,11 @@ Header für eDMP/a-Datensatz le_eHeader] -Lewin-Platz 2 2.39 Datum: 15.11.2017 K
 | 2.36 | 24.09.2014 | KBV | Ersatzwert für Versicherten- | Teilnahme von Versiche | 29 |
 | 2.35 | 13.08.2014 | KBV | Redaktionelle Anpassung |  | 29 |
 | 2.34 | 19.06.2014 | KBV | Aktualisierung von Abbildung | Anpassung an Sche- | 24 |
-| 2.33 | 2.8.05.2014 | KBV | Korrektur der Kardinalität im  Beispiel für  Attribut DN im |  | 21    15 |
-| 2.32 | 30.04.2014 | KBV | Dokument redaktionell bzgl. Erläuterung zu nm (Patient) |  | 25 |
-| 2.31 | 20.02.2014 | KBV | Korrektur der Versionsang  Hinweis auf Inhalt im Feld |  | 28   29 |
-| 2.30 | 26.11.2013 | KBV | Adressen Feldlängen an  Patient und Provider Vorna- |  |  |
-| 2.20 | 02.09.2013 | KBV | Erläuterung zum Kopfdatum   Umstellung auf eGK-VSD | Umstellung auf eGK | 15 9 21 ab 26 |
+| 2.33 | 28.05.2014 | KBV | Korrektur der Kardinalität im    Beispiel für  Attribut DN im |  | 21        15 |
+| 2.32 | 30.04.2014 | KBV | Dokument redaktionell bzgl.  Erläuterung zu nm (Patient) |  | 25 |
+| 2.31 | 20.02.2014 | KBV | Korrektur der Versionsang   Hinweis auf Inhalt im Feld |  | 28      29 |
+| 2.30 | 26.11.2013 | KBV | Adressen Feldlängen an    Patient und Provider Vorna- |  |  |
+| 2.20 | 02.09.2013 | KBV | Erläuterung zum Kopfdatum     Umstellung auf eGK-VSD | Umstellung auf eGK | 15  9  21  ab 26 |
 | 2.10 | 01.08.2012 | KBV | Red. Änderungen |  |  |
 
 a-Datensatz
@@ -102,6 +102,8 @@ ePersonengruppe“ und „DMP-Kennzeichnung“ um eine führende „0“ im Erge
 *6.8.3.4* *Kommunikationsmöglichkeiten des Arztes/Krankenhauses (telecom) ................. 22*
 
 **6.9** **Patienteninformationen (patient)** **............................................................................................... 23**
+
+a-Datensatz
 
 
 ---
@@ -190,8 +192,12 @@ ePersonengruppe“ und „DMP-Kennzeichnung“ um eine führende „0“ im Erge
 
 **8** **REFERENZIERTE DOKUMENTE _________________________________________ 40**
 
+a-Datensatz
+
 
 ---
+
+a-Datensatz
 
 #### ABBILDUNGSVERZEICHNIS
 
@@ -228,6 +234,8 @@ Abbildung 15 Grundstruktur sciphox:Software ....................................
 
 ---
 
+a-Datensatz
+
 #### TABELLENVERZEICHNIS
 
 Tabelle 1 Unterschiede Volldatensatz und a-Datensatz .......................................................... 9
@@ -259,6 +267,8 @@ Tabelle 13 SoftwareTyp ........................................ ................
 
 ---
 
+a-Datensatz
+
 # 1 Einleitung
 
 Diese Schnittstellenbeschreibung beschreibt die Datenstruktur der Dokumentationen des  Disease Management Programms (DMP) Voll- und a-Datensätze.
@@ -289,6 +299,8 @@ wird erklärt, welcher Schnittstellencode zu
 
 
 ---
+
+a-Datensatz
 
 # 2 Dateinamen
 
@@ -361,8 +373,8 @@ Unterschiede im Header des a-Datensatzes zum Volldatensatz
 
 | Volldatensatz | a-Datensatz |
 |---|---|
-| document_type_cd V-Attribut : EDMP_ASTHMA_EE EDMP_ASTHMA_EV | document_type_cd V-Attribut: EDMP_ASTHMA_EE_A EDMP_ASTHMA_EV_A |
-| document_type_cd DN-Attribut: Erstmalige Dokumentation Asthma bronchiale  Erstmalige Dokumentation Asthma bzw. Verlaufsdokumentation Asthma bronchi- | document_type_cd DN-Attribut: bronchiale a-Datensatz bzw. Verlaufs- |
+| document_type_cd V-Attribut : EDMP_ASTHMA_EE  EDMP_ASTHMA_EV | document_type_cd V-Attribut:  EDMP_ASTHMA_EE_A  EDMP_ASTHMA_EV_A |
+| document_type_cd DN-Attribut: Erstmalige Dokumentation Asthma bronchiale  Erstmalige Dokumentation Asthma  bzw. Verlaufsdokumentation Asthma bronchi- | document_type_cd DN-Attribut: bronchiale a-Datensatz bzw. Verlaufs- |
 | patient->person_name | fehlt |
 | patient->addr | fehlt |
 | provider ->person_name | fehlt |
@@ -380,11 +392,15 @@ Unterschiede im Header des a-Datensatzes zum Volldatensatz
 | insurance_ssu->...->VersicherungsschutzEnde | fehlt |
 | insurance_ssu->...->Einlesedatum | fehlt |
 
-**Tabelle 1 Unterschiede Volldatensatz und**
+**Tabelle 1 Unterschiede Volldatensatz und a-Datensatz**
+
+a-Datensatz
 
 dokumentation Asthma bronchiale a- >KostentraegerAbrechnungsbereich
 
 ---
+
+a-Datensatz
 
 # 4 Semantik der verwendeten Diagramm-Symbole
 
@@ -430,6 +446,8 @@ Es existieren verschiedene Kardinalitäten: gestrichelter Linie dargestellt. Es 
 
 ---
 
+a-Datensatz
+
 # 5 Dokumentenstruktur
 
 Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen,  die in diesem Dokument beschrieben werden, ist es wichtig die Groß-/Kleinschreibung zu be- achten. Sonderzeichen (wie &, <, >, ’ , “) werden durch ein „Entity“ ersetzt. Dazu wird das Zei- chen & mit einer bestimmten Zeichenfolge kombiniert. Die folgende Liste gibt den Überblick  wie die Sonderzeichen in XML ersetzt werden:
@@ -438,7 +456,7 @@ Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen E
 |---|---|---|
 | & | &amp; | |
 | < | &lt; | |
-| > | &gt; | beide Schreibweisen sind laut 1 |
+| > | &gt; | beide Schreibweisen sind laut  1 |
 | ’ | &apos; | |
 | “ | &quot; | dieses Zeichen “ ist laut W3C- |
 
@@ -496,8 +514,12 @@ Zu beachten ist, dass die erstmalige Dokumentation und die Verlaufsdokumentation
 
 beiden Dokumente. Das Kapitel 6 clinical_document_header (allgemein) ist somit sowohl für  die erstmalige als auch für die Verlaufsdokumentation gültig.
 
+a-Datensatz
+
 
 ---
+
+a-Datensatz
 
 # 6 clinical_document_header (allgemein)
 
@@ -565,6 +587,8 @@ aus:
 
 
 ---
+
+a-Datensatz
 
 ## 6.1 Dokumenten-ID (id)
 
@@ -671,6 +695,8 @@ Datum an dem die Dokumentation angelegt wurde. Werden im Verlauf weitere Angaben
 
 **XML-Code 9 origination_dttm**
 
+a-Datensatz
+
 
 ---
 
@@ -721,6 +747,8 @@ der fixe Wert „RPLC“ (engl. Replace). Als Beispiel sei hier folgender Code a
 Bei einer Korrekturlieferung steht im *id*-Element des Elements *related_document* der Verweis
 
 auf die Dokument-ID des Ursprungsdokuments (siehe Kapitel 6.1). (Wegen der Kompatibiltät  mit alten Bögen wird die alte Vertragsarztnummer im id-Element ebenfalls akzeptiert) Als Bei- spiel sei hier folgender Code angegeben:
+
+a-Datensatz
 
 
 ---
@@ -787,8 +815,12 @@ stammt. Im *S*-Attribut steht die eindeutige OID der Schlüsseltabelle. Die Beze
 
 Systemnamens wird im *SN*-Attribut angegeben. Der Wert des DN-Attributs beschreibt den
 
+a-Datensatz
+
 
 ---
+
+a-Datensatz
 
 kodierten Wert des V-Attributs. Das *V*- und das *S*-Attribut sind zwingend erforderlich. Das
 
@@ -860,6 +892,8 @@ tennummer des Leistungsortes und die lebenslange Arztnummer des Arztes oder die 
 
 
 ---
+
+a-Datensatz
 
 Wenn der Patient in einer Arztpraxis behandelt wird, dann steht im  Arztnummer (LANR) des Arztes, die 9-stellig numerisch ist. Im
 
@@ -990,9 +1024,13 @@ des Arztes „Dr. med. Ernst August Graf von Oberberg“ ist hier folgender Code
 
 **XML-Code 19 nm (Beispiel Arzt)**
 
+a-Datensatz
+
 Vornamen der Person (mehrere Vornamen sind String mit min. 1 und  0..1 min. 1 und  1..1 und Adelsbezeichnungen, wie z.B. „Freiherr“ oder „von“ 20 0..10 Akademischer Grad, Zusatz beim Element PFX (mehrere Titel Adelszusatz zum Element PFX, z.B. „Gräfin“ (mehrere Namens-
 
 ---
+
+a-Datensatz
 
 #### 6.8.3.3 Adresse des Arztes/Krankenhauses (addr)
 
@@ -1012,7 +1050,7 @@ Krankenhaus"/>). Zusätzlich wird im zweiten  das Dokument erstellt wurde, mit a
 
 | Element | Wert | Datentyp | Kard. |
 |---|---|---|---|
-| ADL | Name des Krankenhauses und Name der Abteilung, wo die Behand- Bei eGK entspricht es dem Element | String mit max. 40 Zeichen | 0..2 |
+| ADL | Name des Krankenhauses und  Name der Abteilung, wo die Behand- Bei eGK entspricht es dem Element | String mit max. 40 Zeichen | 0..2 |
 | STR | Straße der Anschrift | String mit max. 46 Zeichen | 0..1 |
 | HNR | Hausnummer der Anschrift | String mit max. 9 Zeichen | 0..1 |
 | ZIP | Postleitzahl der Anschrift | String mit min. 1 und max. 10 0..1 |  |
@@ -1110,9 +1148,13 @@ Die Erläuterung für die verschiedenen Werte sind in der Tabelle 11 aufgeführt
 
 Das *USE*-Attribut darf hier nur den Wert „WP“ für working place aufweisen.
 
+a-Datensatz
+
 fach)
 
 ---
+
+a-Datensatz
 
 ## 6.9 Patienteninformationen (patient)
 
@@ -1169,6 +1211,8 @@ gender Code verbindlich festgelegt:
 
 ---
 
+a-Datensatz
+
 ### 6.9.2 Die Person Patient (person)
 
 Das Element *person* enthält als Kindelemente *id person_name* und *addr*. Für a-Datensätze
@@ -1220,6 +1264,8 @@ Betriebsstättennummer, für welche die DMP-Fallnummer eindeutig sein muss. Folg
 
 ---
 
+a-Datensatz
+
 #### 6.9.2.2 Name des Patienten (person_name
 
 In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element  *son_nam*e enthält das Element *nm*, welches im nächsten Abschnitt konkretisiert wird. Die
@@ -1269,6 +1315,8 @@ erläutert wurde.
 Das Element nm  kann folgende Elemente enthalten: Vornamen der Person (mehrere Vornamen sind String mit Adelsbezeichnungen, wie z.B. „Freiherr“ oder Zeichen „von“ min. 1 und  1..1 min. 1 und  1..1
 
 ---
+
+a-Datensatz
 
 ### 6.9.3 Geburtsdatum des Patienten (birth_dttm)
 
@@ -1349,6 +1397,8 @@ und* Einlesedatum* weg.
 
 ---
 
+a-Datensatz
+
 **Abbildung 11 Grundstruktur sciphox:GesetzlicheKrankenversicherung**
 
 ### Der Coderahmen für diese Sciphox-SSU würde dann wie folgt aussehen: Die Informationen
@@ -1400,6 +1450,8 @@ müssen zum Teil aus der Kostenträgerstammdatei ermittelt werden. Die Angabe de
 
 ---
 
+a-Datensatz
+
 #### 6.9.5.1 Kostenträgerbezeichnung (Kostentraegerbezeichnung) 3
 
 Das Element *Kostentraegerbezeichnung* enthält den Namen des Kostenträgers . Es ist vom
@@ -1444,7 +1496,7 @@ steht aus den Attributen *V* und *S*. Im *S*-Attribut steht die eindeutige OID d
 
 „2.16.840.1.113883.3.7.1.17“. Das Element gibt es nur, wenn es sich um eine Kasse handelt,  die dem Wohnortprinzip (WOP) unterliegt. Als Beispiel sei hier folgender Code für dieses  Element angegeben:
 
-<sciphox:WOP V="38" S="2.16.840.1.113883.3.7.1.17 "/>
+<sciphox: WOP V="38" S="2.16.840.1.113883.3.7.1.17 "/>
 
 **XML-Code 33 WOP**
 
@@ -1464,6 +1516,8 @@ In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element
 sein. Im *S*-Attribut ist der Wert „AbrechnungsVKNR“ fest vorgegeben. Als Beispiel sei hier
 
 folgender Code für dieses Element angegeben:
+
+a-Datensatz
 
 <sciphox:AbrechnungsVKNR V="24101" S="AbrechnungsVKNR"/>
 
@@ -1517,6 +1571,8 @@ aufgeführt. Es handelt sich
 
 
 ---
+
+a-Datensatz
 
 **XML-Code 37 Versichertenart**
 
@@ -1607,6 +1663,8 @@ Die Information über die Software und deren Verantwortliche wird mittels der Sc
 
 dung 12 dargestellt.
 
+a-Datensatz
+
 *Einlesedatum* muss vorhanden sein, wenn eine Versi-
 
 *sciphox:Software* setzt sich aus den Kindelementen
@@ -1662,8 +1720,12 @@ dung 12 dargestellt.
 
 **XML-Code 43 local_header (Software)**
 
+a-Datensatz
+
 
 ---
+
+a-Datensatz
 
 ### 6.10.1 Software-ID (id)
 
@@ -1703,6 +1765,8 @@ Als Beispiel sei hier der folgende Code angegeben:
 
 
 ---
+
+a-Datensatz
 
 ### 6.10.4 Softwaretyp (SoftwareTyp)
 
@@ -1745,8 +1809,10 @@ Schnittstelle erzeugt. *kontakt_gruppe*
 
 ---
 
-| <sciphox:Kontakt>        <sciphox:Kontakttyp V="SOFTV" S="1.2.276.0.76.3.1.1.5.2.3" DN="Softwareverantwortlicher "/>        <person_name>          . . .       <person_name>         </sciphox:Kontakt> |
+| <sciphox:Kontakt>         <sciphox:Kontakttyp V="SOFTV" S="1.2.276.0.76.3.1.1.5.2.3" DN="Softwareverantwortlicher "/>          <person_name>           . . .        <person_name>                  </sciphox:Kontakt> |
 |---|
+
+a-Datensatz
 
 **XML-Code 48 Kontakt**
 
@@ -1828,6 +1894,8 @@ Prüfmodul zu sammeln. Die Angabe zur verwendeten (DMP)-Schnittstelle und Versio
 *SoftwareName SoftwareVersion*
 
 Grundstruktur ist in Abbildung 14 dargestellt.
+
+a-Datensatz
 
 *SoftwareTyp* und dem optionalen Element
 
@@ -1952,6 +2020,8 @@ lässige Werte für die Bezeichnung des Prüfmoduls stehen in der Tabelle mit de
 
 Prüfmodul ist verpflichtend.
 
+a-Datensatz
+
 
 ---
 
@@ -1966,6 +2036,8 @@ Versionangabe zu dem XPM-Prüfmodul (XPM-Paket) steht in der Datei ReleaseNotes.
 Das Element *SoftwareTyp* wurde bereits ausführlich im Abschnitt 0 beschrieben. Hier ist der
 
 Wert „XPM“ fest vorgeschrieben.
+
+a-Datensatz
 
 
 ---
@@ -1991,6 +2063,8 @@ Wert „XPM“ fest vorgeschrieben.
 | U | U-Attribut (Unit) |
 | WOP | Wohnortprinzip |
 
+a-Datensatz
+
 of Communication between Information Systems in Physician Offices and Hospitals using XML
 
 ---
@@ -2001,5 +2075,7 @@ of Communication between Information Systems in Physician Offices and Hospitals 
 |---|---|
 | [KBV_ITA_VGEX_XML-Schnittstellen] | Austausch von XML-Daten in der vertragsärztlichen |
 | [KBV_ITA_VGEX_Datensatzbeschreibung_KVDT ] austausch zwischen Arztpraxis und Kassenärztlicher | KVDT Datensatzbeschreibung, Einheitlicher Daten- |
+
+a-Datensatz
 
 Versorgung Bundesvereinigung

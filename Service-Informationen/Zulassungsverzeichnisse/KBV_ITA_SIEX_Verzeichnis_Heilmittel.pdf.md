@@ -6,7 +6,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**09. MAI 2026**
+**16. MAI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -32,7 +32,7 @@
 |---|---|---|---|
 |  | Y/495/2401/36/081 | 31.12.2026 |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 09. Mai 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 16. Mai 2026
 
 Y/495/2401/36/062
 
@@ -47,6 +47,11 @@ APRIS APRIS Praxiscomputer GmbH Wetterkreuz 19 91058 Erlangen Internet: www.apri
 
 ---
 
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
+
 **Med7**
 
 **Bitron GmbH Technologiesysteme** Bürgeler Str. 18 A 63075 Offenbach am Main Internet: www.med7.de
@@ -59,18 +64,11 @@ APRIS APRIS Praxiscomputer GmbH Wetterkreuz 19 91058 Erlangen Internet: www.apri
 |---|---|---|---|
 |  | Y/495/2401/36/324 | 31.12.2026 |  |
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 09. Mai 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 16. Mai 2026
 
 Y/495/2401/36/078
 
-Y/495/2401/36/459
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-31.12.2026
+Y/495/2401/36/459 31.12.2026
 
 31.12.2026
 
@@ -80,6 +78,11 @@ CGM MEDICO CGM Clinical Europe GmbH Hadersberg 1 84427 Sankt Wolfgang Internet: 
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **Praxis4More**
 
@@ -93,18 +96,11 @@ CGM MEDICO CGM Clinical Europe GmbH Hadersberg 1 84427 Sankt Wolfgang Internet: 
 |---|---|---|---|
 |  | Y/495/2401/36/203 | 31.12.2026 |  |
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 09. Mai 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 16. Mai 2026
 
 Y/495/2401/36/346
 
-Y/495/2401/36/332
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-31.12.2026
+Y/495/2401/36/332 31.12.2026
 
 31.12.2026
 
@@ -114,6 +110,11 @@ TURBOMED CompuGroup Medical Deutschland AG Maria Trost 23 56070 Koblenz Internet
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **DATA VITAL**
 
@@ -129,18 +130,11 @@ Softwarevariante(n): - CGM M1 PRO NEXT
 |---|---|---|---|
 |  | Y/495/2401/36/060 | 31.12.2026 |  |
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 09. Mai 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 16. Mai 2026
 
 Y/495/2401/36/023
 
-Y/495/2401/36/252
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-31.12.2026
+Y/495/2401/36/252 31.12.2026
 
 31.12.2026
 
@@ -150,6 +144,11 @@ CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG Karl-Wiechert-Allee 64 
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **ORBIS®**
 
@@ -163,18 +162,11 @@ CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG Karl-Wiechert-Allee 64 
 |---|---|---|---|
 |  | Y/495/2509/37/677 | 30.09.2028 |  |
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 09. Mai 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 16. Mai 2026
 
 Y/495/2401/36/254
 
-Y/495/2401/36/314
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-31.12.2026
+Y/495/2401/36/314 31.12.2026
 
 31.12.2026
 
@@ -184,6 +176,11 @@ inSuite Doc Cirrus GmbH Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **apraxos**
 
@@ -199,16 +196,11 @@ inSuite Doc Cirrus GmbH Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com
 |---|---|---|---|
 |  | Y/495/2401/36/253 | 31.12.2026 |  |
 
+/ KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 16. Mai 2026
+
 Y/495/2404/36/602
 
-Y/495/2401/36/086
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-31.03.2027
+Y/495/2401/36/086 31.03.2027
 
 31.12.2026
 
@@ -218,6 +210,11 @@ Epikur Epikur Software GmbH & Co. KG Franklinstraße 26 a 10587 Berlin Internet:
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **INDICATION**
 
@@ -231,16 +228,11 @@ Epikur Epikur Software GmbH & Co. KG Franklinstraße 26 a 10587 Berlin Internet:
 |---|---|---|---|
 |  | Y/495/2401/36/244 | 31.12.2026 |  |
 
+/ KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 16. Mai 2026
+
 Y/495/2401/36/223
 
-Y/495/2401/36/034
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-31.12.2026
+Y/495/2401/36/034 31.12.2026
 
 31.12.2026
 
@@ -250,6 +242,11 @@ FIDUS FIDUS Software Entwicklungs-GmbH Frankfurter Landstr. 117 64291 Darmstadt 
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **Doctorly**
 
@@ -263,16 +260,11 @@ FIDUS FIDUS Software Entwicklungs-GmbH Frankfurter Landstr. 117 64291 Darmstadt 
 |---|---|---|---|
 |  | Y/495/2401/36/451 | 31.12.2026 |  |
 
+/ KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 16. Mai 2026
+
 Y/495/2504/21/616
 
-Y/495/2604/09/701
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-31.12.2026
+Y/495/2604/09/701 31.12.2026
 
 31.12.2026
 
@@ -282,6 +274,11 @@ Elefant HASOMED GmbH Paul-Ecke-Str. 1 39114 Magdeburg Internet: www.hasomed.de i
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **Medical Office**
 
@@ -295,18 +292,11 @@ Elefant HASOMED GmbH Paul-Ecke-Str. 1 39114 Magdeburg Internet: www.hasomed.de i
 |---|---|---|---|
 |  | Y/495/2401/36/320 | 31.12.2026 |  |
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 09. Mai 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 16. Mai 2026
 
 Y/495/2401/36/210
 
-Y/495/2401/36/136
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-31.12.2026
+Y/495/2401/36/136 31.12.2026
 
 31.12.2026
 
@@ -316,6 +306,11 @@ esQlab.online IQVIA Commercial GmbH & Co OHG Angela-Stadler-Str. 9 78224 Singen 
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **EL - Elaphe Longissima**
 
@@ -331,16 +326,11 @@ Softwarevariante(n): - x.vianova
 |---|---|---|---|
 |  | Y/495/2401/36/266 | 31.12.2026 |  |
 
+/ KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 16. Mai 2026
+
 Y/495/2401/36/135
 
-Y/495/2401/36/216
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-31.12.2026
+Y/495/2401/36/216 31.12.2026
 
 31.12.2026
 
@@ -350,6 +340,11 @@ x.concept medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.med
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **medatixx**
 
@@ -365,16 +360,11 @@ Softwarevariante(n): - psyx
 |---|---|---|---|
 |  | Y/495/2401/36/030 | 31.12.2026 |  |
 
+/ KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 16. Mai 2026
+
 Y/495/2401/36/462
 
-Y/495/2401/36/256
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-31.12.2026
+Y/495/2401/36/256 31.12.2026
 
 31.12.2026
 
@@ -385,6 +375,11 @@ eRIS medavis GmbH Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.de Prax
 
 ---
 
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
+
 **MEDICUSplus**
 
 **MEDNET Service für Ärzte AG** Prälat-van-Acken-Straße 14 50935 Köln Internet: www.mednet.de
@@ -393,17 +388,17 @@ eRIS medavis GmbH Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.de Prax
 |---|---|---|---|
 |  | Y/495/2401/36/015 | 31.12.2026 |  |
 
-Y/495/2401/36/192
+/ KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 16. Mai 2026
+
+MEDVISION MedVision AG Heinrich-Hertz-Str. 9 59423 Unna Internet: www.medvision.de Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPHRO - PATIDOK AMBULANZ MEDYS MEDYS GmbH Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de Windows Mac OS WindowsY/495/2401/36/192 31.12.2026 Windows
+
+
+---
 
 |  |  | **Prüfnummer** | **unterstützte** |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
-
-MEDVISION MedVision AG Heinrich-Hertz-Str. 9 59423 Unna Internet: www.medvision.de Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPHRO - PATIDOK AMBULANZ MEDYS MEDYS GmbH Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de Windows Mac OS Windows31.12.2026 Windows
-
-
----
 
 **M-KIS**
 
@@ -417,16 +412,11 @@ MEDVISION MedVision AG Heinrich-Hertz-Str. 9 59423 Unna Internet: www.medvision.
 |---|---|---|---|
 |  | Y/495/2401/36/043 | 31.12.2026 |  |
 
+/ KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 16. Mai 2026
+
 Y/495/2401/36/290
 
-Y/495/2401/36/276
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-31.12.2026
+Y/495/2401/36/276 31.12.2026
 
 31.12.2026
 
@@ -436,6 +426,11 @@ ClinicCentre Billing (OPD) Mesalvo Mannheim GmbH Am Exerzierplatz 14 68167 Mannh
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **SMARTY**
 
@@ -449,16 +444,11 @@ ClinicCentre Billing (OPD) Mesalvo Mannheim GmbH Am Exerzierplatz 14 68167 Mannh
 |---|---|---|---|
 |  | Y/495/2401/36/208 | 31.12.2026 |  |
 
+/ KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 16. Mai 2026
+
 Y/495/2401/36/299
 
-Y/495/2401/36/278
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-31.12.2026
+Y/495/2401/36/278 31.12.2026
 
 31.12.2026
 
@@ -468,6 +458,11 @@ NEXUS/KIS (international) NEXUS / REHA GmbH Irmastraße 1 78166 Donaueschingen N
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **PegaMed**
 
@@ -481,16 +476,11 @@ NEXUS/KIS (international) NEXUS / REHA GmbH Irmastraße 1 78166 Donaueschingen N
 |---|---|---|---|
 |  | Y/495/2401/36/456 | 31.12.2026 |  |
 
+/ KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 16. Mai 2026
+
 Y/495/2401/36/083
 
-Y/495/2401/36/247
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-31.12.2026
+Y/495/2401/36/247 31.12.2026
 
 31.12.2026
 
@@ -500,6 +490,11 @@ psyprax psyprax GmbH Landsberger Straße 308 80687 München Internet: www.psypra
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **S3-Win**
 
@@ -513,18 +508,11 @@ psyprax psyprax GmbH Landsberger Straße 308 80687 München Internet: www.psypra
 |---|---|---|---|
 |  | Y/495/2401/36/230 | 31.12.2026 |  |
 
-Seite 17 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 09. Mai 2026
+Seite 17 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 16. Mai 2026
 
 Y/495/2401/36/261
 
-Y/495/2401/36/343
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-31.12.2026
+Y/495/2401/36/343 31.12.2026
 
 31.12.2026
 
@@ -534,6 +522,11 @@ ARZT 2000 Schmidt Computersysteme Chrysanthemenweg 4 02827 Görlitz Internet: ww
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **principa**
 
@@ -551,18 +544,13 @@ ARZT 2000 Schmidt Computersysteme Chrysanthemenweg 4 02827 Görlitz Internet: ww
 |---|---|---|---|
 |  | Y/495/2401/36/205 | 31.12.2026 |  |
 
+/ KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 16. Mai 2026
+
 Y/495/2401/36/458
 
 Y/495/2401/36/231
 
-Y/495/2401/36/498
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-31.12.2026
+Y/495/2401/36/498 31.12.2026
 
 31.12.2026
 
@@ -577,13 +565,11 @@ Medi10 UfP Systemhaus GmbH Heinz-Fangman-Str. 4 42287 Wuppertal Internet: www.uf
 
 ---
 
-|  | Y/495/2401/36/457 | 31.12.2026 |  |
-|---|---|---|---|
-|  | Y/495/2603/37/768 | 31.03.2029 |  |
-
 |  |  | **Prüfnummer** | **unterstützte** |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
+|  | Y/495/2401/36/457 | 31.12.2026 |  |
+|  | Y/495/2603/37/768 | 31.03.2029 |  |
 
-tomedo Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de tomedo.air Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Mac OS Mac OS Windows
+tomedo Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de tomedo.air Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Mac OS Mac OS Windows/ KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 16. Mai 2026

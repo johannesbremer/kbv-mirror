@@ -5,7 +5,7 @@
 
 [KBV_ITV_VGEX_Definition_von_Prüfnummern]
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 15. NOVEMBER 2023 VERSION 1.0 |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 15. NOVEMBER 2023  VERSION 1.0 |
 |---|---|
 
 |  |
@@ -15,17 +15,17 @@ BUNDESVEREINIGUNG   IT IN DER VERSORGUNG
 
 ---
 
-INHALT
+## INHALT
 
-| **1** | **EINLEITUNG** |  |  |  |  | **4** |
-|---|---|---|---|---|---|---|
-| 1.1 | Definition | der Prüfnummern | der KBV | zur Zertifizierung | von Praxsisoftware | 4 |
+**1** **EINLEITUNG**
+
+**4**
+
+1.1 Definition der Prüfnummern der KBV zur Zertifizierung von Praxsisoftware 4
 
 **2** **REFERENZIERTE DOKUMENTE**
 
 **6**
-
-Definition der Prüfnummern der KBV zur Zertifizierung von Praxsisoftware
 
 
 ---
@@ -127,9 +127,9 @@ Diese identifizieren das System des Herstellers bei der KBV.
 |  |  |
 |---|---|
 | Referenz | Dokument |
-| Zertifizierungsrichtlinie | Auf dem Update-Server der KBV https://update.kbv.de/ita-up- |
-| Zulassungslisten für Praxisverwaltungssysteme | Auf der Homepage der KBV https://www.kbv.de/html/5614.php |
-| Zertifizierungsportal der KBV | ZPORT im Internet https://zertifizierungsportal2.kbv.de/zport/ |
+| Zertifizierungsrichtlinie | Auf dem Update-Server der KBV  https://update.kbv.de/ita-up- |
+| Zulassungslisten für Praxisverwaltungssysteme | Auf der Homepage der KBV  https://www.kbv.de/html/5614.php |
+| Zertifizierungsportal der KBV | ZPORT im Internet  https://zertifizierungsportal2.kbv.de/zport/ |
 
 **Kontakt:**
 

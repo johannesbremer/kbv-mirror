@@ -9,30 +9,21 @@ www.kbv.de
 
 ---
 
-**Inhalt**
+| **Inhalt** |  |  |  |
+|---|---|---|---|
+| **1** | **EINLEITUNG** | **...............................................................................................................** | **4** |
+| **2** |  | **GRUNDSÄTZLICHES...................................................................................................** | **5** |
+| **3** |  | **VORAUSSETZUNG......................................................................................................** | **6** |
+| **4 USE** |  | **CASES.................................................................................................................** | **7** |
+| **4.1** | **Praxisverwaltungssystem** |  | **(Primärsystem).............................................................................................7** |
+| **4.2 Online-Dienst** |  | **........................................................................................................................................7** | |
+| **5** | **ANFORDERUNGEN** | **.....................................................................................................** | **8** |
+| **5.1** |  | **Grundlage..............................................................................................................................................8** | |
+| **5.2 Übergreifende** | **Festlegung** |  | **.....................................................................................................................8** |
+| **5.3** |  | **Änderungen...........................................................................................................................................8** | |
+| **6** |  | **REFERENZEN............................................................................................................** | **14** |
 
-**1 EINLEITUNG ............................................................................................................... 4**
-
-**2 GRUNDSÄTZLICHES................................................................................................... 5**
-
-**3 VORAUSSETZUNG...................................................................................................... 6**
-
-**4 USE CASES................................................................................................................. 7**
-
-**4.1 Praxisverwaltungssystem (Primärsystem).............................................................................................7**
-
-**4.2 Online-Dienst ........................................................................................................................................7**
-
-**5 ANFORDERUNGEN ..................................................................................................... 8**
-
-**5.1 Grundlage..............................................................................................................................................8**
-
-**5.2 Übergreifende Festlegung .....................................................................................................................8**
-
-**5.3 Änderungen...........................................................................................................................................8**
-
-**6 REFERENZEN............................................................................................................ 14**
-
+EINLEITUNG ............................................................................................................... 4 GRUNDSÄTZLICHES................................................................................................... 5 VORAUSSETZUNG...................................................................................................... 6 USE CASES................................................................................................................. 7 4.1 Praxisverwaltungssystem (Primärsystem).............................................................................................7 4.2 Online-Dienst ........................................................................................................................................7 ANFORDERUNGEN ..................................................................................................... 8 5.1 Grundlage..............................................................................................................................................8 5.2 Übergreifende Festlegung .....................................................................................................................8 5.3 Änderungen...........................................................................................................................................8 REFERENZEN............................................................................................................ 14
 
 ---
 
@@ -91,7 +82,7 @@ Entwurf
 
 Dieses Dokument spezifiziert das Authentisierungsverfahren für externe Systeme zur Nutzung von Diensten  des 116117 Terminservice.
 
-4 14
+Seite 4 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung
 
 
 ---
@@ -106,7 +97,7 @@ Der in der [gemILF_PS_eRp] beschriebene Identity Provider (Zentraler IDP, vormal
 
 Es werden in dem hier beschriebenen Authentisierungsverfahren Praxen anhand der telematikID sowie  domainID und keine Personen authentisiert.
 
-5 14
+Seite 5 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung
 
 
 ---
@@ -119,7 +110,7 @@ die Praxis benötigt einen Zugang zur Telematikinfrastruktur (TI), die Praxis be
 
 die Praxis muss Zugriff auf das Schlüsselmaterial und die Zertifikate des Praxisausweises über ihren  Konnektor bzw. TI-Gateway haben.
 
-6 14
+Seite 6 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung
 
 
 ---
@@ -142,7 +133,7 @@ Zugriff auf den Praxisausweis (SMC-B oder SMB). Der Online-Dienst kann im "Namen
 
 **2 Use Case Online-Dienst**
 
-7 14
+Seite 7 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung
 
 
 ---
@@ -177,7 +168,9 @@ A_19234 - PS:  Kommunikation  über TLS- Verbindung
 
 A_19235 - PS:
 
-Unzulässige  TLS- Verbindungen  ablehnen 8 14
+Unzulässige  TLS- Verbindungen  ablehnen
+
+Seite 8 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung
 
 **ÄNDERUNGEN**
 
@@ -204,7 +197,9 @@ Text ausgetauscht mit:
 
 **SPEZIFIKATION** **SKAPITEL**
 
-5.1.2  Verschlüsselte  Kommunikation  zur VAU des E- Rezept  Fachdienstes 9 14
+5.1.2  Verschlüsselte  Kommunikation  zur VAU des E- Rezept  Fachdienstes
+
+Seite 9 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung
 
 **ANFORDERUNG**
 
@@ -233,7 +228,7 @@ Umsetzung  sicherer Kanal  zur VAU des E- Rezept- Fachdienstes
 
 5.1.3  Zertifikatsprüfun g
 
-10 14
+Seite 10 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung
 
 **ÄNDERUNGEN**
 
@@ -330,7 +325,9 @@ aktiv
 
 5.1.3.1  Zertifikatsprüfun g von  Zertifikaten der  TI
 
-5.1.4  Authentifizierun g der LEI 11 14
+5.1.4  Authentifizierun g der LEI
+
+Seite 11 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung
 
 **ANFORDERUNG**
 
@@ -407,7 +404,9 @@ aktiv
 
 **SPEZIFIKATION** **SKAPITEL**
 
-5.1.4.1  Übergreifende  Festlegungen  zur Nutzung des  IDP-Dienstes 12 14
+5.1.4.1  Übergreifende  Festlegungen  zur Nutzung des  IDP-Dienstes
+
+Seite 12 von 14
 
 **ANFORDERUNG**
 
@@ -420,6 +419,8 @@ A_20656-01 -  Prüfung der  Signatur des  Discovery  Document
 A_20657 -  Prüfung der  Signatur des  Discovery  Document
 
 A_20658 -  Sicheres  Löschen der  Token
+
+/ KBV / Spezifikation 116117 Terminservice Authentisierung
 
 **ÄNDERUNGEN**
 
@@ -470,7 +471,9 @@ A_20674 -  Formale Prüfung  der Signatur des  ID_TOKEN
 
 A_20675 -  Gültigkeitsprüfu
 
-ng der Signatur  des ID_TOKEN  innerhalb der TI 13 14
+ng der Signatur  des ID_TOKEN  innerhalb der TI
+
+Seite 13 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung
 
 **ÄNDERUNGEN**
 
@@ -521,4 +524,6 @@ Anforderung entfällt und muss nicht umgesetzt werden.
 
 - Version 1.10.0: [https://gemspec.gematik.de/docs/gemILF/gemILF_PS_eRp/](https://gemspec.gematik.de/docs/gemILF/gemILF_PS_eRp/) gemILF_PS_eRp_V1.10.0/
 
-- Kapitel 5.1 in Version 1.10.0: [https://gemspec.gematik.de/docs/gemILF/gemILF_PS_eRp/](https://gemspec.gematik.de/docs/gemILF/gemILF_PS_eRp/) gemILF_PS_eRp_V1.10.0/#5.1 14 14
+- Kapitel 5.1 in Version 1.10.0: [https://gemspec.gematik.de/docs/gemILF/gemILF_PS_eRp/](https://gemspec.gematik.de/docs/gemILF/gemILF_PS_eRp/) gemILF_PS_eRp_V1.10.0/#5.1
+
+Seite 14 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung

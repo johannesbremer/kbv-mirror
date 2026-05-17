@@ -121,6 +121,8 @@ Linux
 
 ---
 
+Antragssteller:
+
 2 REALISIERUNG VON ANFORDERUNGEN
 
 Der Antragsteller versichert, dass alle Pflichtfunktionen der  [ ] [KBV_ITA_VGEX_Technische_Anlage_eAU] für die Übermittlung von elektronischen  Arbeitsbescheinigungen erfüllt sind.
@@ -182,8 +184,12 @@ ________________
 
 Diese Information ist verpflichtend anzugeben
 
+Antragssteller:
+
 
 ---
+
+Antragssteller:
 
 4 KENNTNISNAHME DURCH DEN ANTRAGSSTELLER
 
@@ -246,6 +252,8 @@ Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung].
 
 ---
 
+Antragssteller:
+
 **IV.** **Sonstiges**
 
 (1) Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen den  Kassenärztlichen Vereinigungen zur vertraulichen und internen Verwendung zur Verfügung zu  stellen, soweit dieses erforderlich ist.
@@ -272,6 +280,8 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+
+Antragssteller:
 
 Unterschrift
 

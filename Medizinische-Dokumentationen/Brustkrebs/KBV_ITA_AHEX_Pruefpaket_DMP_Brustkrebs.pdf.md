@@ -98,16 +98,17 @@ Seite 2 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 20
 
 ---
 
-## ABBILDUNGSVERZEICHNIS
+|  |  | ABBILDUNGSVERZEICHNIS | | |  |  |
+|---|---|---|---|---|---|---|
+| Abbildung | 1: | Exemplarische |  | Verzeichnisstruktur | für die | Zertifizierung |
+| Abbildung | 2: | Exemplarische | Struktur | der | **Archivdatei** | mit den Prüfunterlagen |
+| Abbildung | 3: |  | Testdatenvalidierung |  |  |  |
+| Abbildung | 4: | Exemplarische |  | Verzeichnisstruktur | für die | Testdatenvalidierung |
+| Seite 3 | von 44 / KBV | / Pruefpaket | DMP-Brustkrebs | / Version: | 4.28 / 14. | August 2024 |
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung 2: Exemplarische Struktur der  Abbildung 3: Testdatenvalidierung
+8  8  38  39
 
-Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
-
-**Archivdatei** mit den Prüfunterlagen 8  8  38
-
-39
-
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung 2: Exemplarische Struktur der Abbildung 3: Testdatenvalidierung Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 ---
 
@@ -135,7 +136,7 @@ Seite 4 von 44 / KBV / Pruefpaket DMP-Brustkrebs
 
 | **Datum** | **Autor** | **Änderung** | **Begründung** |
 |---|---|---|---|
-| 1.4.08.2024 | KBV | Anpassung an | Schnittstellenversion |
+| 14.08.2024 | KBV | Anpassung an | Schnittstellenversion |
 
 | 08.11.2022 | KBV | Änderung der Daten in |  |
 |---|---|---|---|
@@ -147,10 +148,11 @@ Seite 4 von 44 / KBV / Pruefpaket DMP-Brustkrebs
 |  |  | Überprüfung der alten | 4.21 wird nicht mehr |
 |  |  | Schnittstellenversion | unterstützt |
 |  |  | 4.21 |  |
-
-27.01.2022
-
-1.2.08.2021
+| 27.01.2022 | KBV | Korrektur des Datums |  |
+|  |  | der Erstellung der |  |
+|  |  | Erstdokumentation im |  |
+|  |  | Prüffall 2617 |  |
+| 12.08.2021 | KBV | Überarbeitung des | Überführung ins neue |
 
 | 28.02.2019 | KBV | redaktionelle Korrektur |  |
 |---|---|---|---|
@@ -158,12 +160,9 @@ Seite 4 von 44 / KBV / Pruefpaket DMP-Brustkrebs
 
 26.07.2018
 
-|  |  | auf Zertifizierung | Zertifizierungsportales |
-|---|---|---|---|
-| 06.02.2018 | KBV | Aufnahme eines Testfalls | Personalienfeldanpass |
-|  |  | zur Überprüfung der | ung zum 1. Juli 2018 |
-|  |  | neuen |  |
-|  |  | Schnittstellenversion |  |
+12.03.2018
+
+06.02.2018
 
 KBV
 
@@ -183,14 +182,6 @@ TDV- Testfall zur
 
 Überprüfung der alten  Schnittstellenversion  4.23
 
-Korrektur des Datums
-
-der Erstellung der  Erstdokumentation im  Prüffall 2617
-
-Überarbeitung des
-
-Überführung ins neue
-
 Layouts
 
 Corporate Design
@@ -202,6 +193,18 @@ des Prüfpakets
 überarbeitete  Plausibilitäten.
 
 Beschluss GBA mit  Wirkung zum  01.10.2018
+
+Einreichung des Antrag Anpassung des
+
+auf Zertifizierung
+
+Zertifizierungsportales
+
+Aufnahme eines Testfalls Personalienfeldanpass
+
+zur Überprüfung der ung zum 1. Juli 2018
+
+neuen  Schnittstellenversion
 
 / Version: 4.28 / 14. August 2024
 
@@ -223,7 +226,6 @@ Alle
 
 Zertifizier ungsablau f
 
-12.03.2018 Einreichung des Antrag Anpassung des
 
 ---
 
@@ -231,18 +233,11 @@ Zertifizier ungsablau f
 
 4.19
 
-**Datum**
-
-|  |  | 4.21 |  |
+| **Datum** | **Autor** | **Änderung** | **Begründung** |
 |---|---|---|---|
+|  |  | 4.21 |  |
 | 23.05.2017 | KBV | Komplettüberarbeitung | Aktualisierung der |
 |  |  | des Prüfpakets | Zertifizierungsrichtlinie |
-
-**Autor**
-
-**Änderung**
-
-**Begründung**
 
 **Seite**
 
@@ -369,7 +364,7 @@ einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender N
 
 1
 
-2.3
+2 3
 
 [PrüffallNr.] _[lfdNr.] .*  Teilnahmeerklärung (Prüffall 2640): TE_EWE_BK.pdf
 
@@ -456,30 +451,23 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 
 ntwickelten Prüfstammdateien verwendet
 
-**INHALT**
-
-391234511
-
-8383822nn (nn ist variabel)
-
-Dr. med. Hans Topp-Glücklich
-
-Musterstr.
-
-1
-
-64283 Darmstadt
-
-06151 / 1111111
-
-06151 / 2222222
-
-siehe Prüffälle (Datum der Erstellung)
+| **INHALT** |  |  |
+|---|---|---|
+| 391234511 |  |  |
+| 8383822nn | (nn ist | variabel) |
+| Dr. med. | Hans | Topp-Glücklich |
+| Musterstr. |  |  |
+| 1 |  |  |
+| 64283 | Darmstadt |  |
+| 06151 / | 1111111 |  |
+| 06151 / | 2222222 |  |
+| siehe | Prüffälle | (Datum der Erstellung) |
 
 Verwendung des  -Kryptomodul (XKM)
 
 eingesetzt
 
+8383822nn (nn ist variabel) Dr. med. Hans Topp-Glücklich 64283 Darmstadt 06151 / 1111111 06151 / 2222222 siehe Prüffälle (Datum der Erstellung)
 
 ---
 
@@ -563,7 +551,7 @@ Test-Krankenhaus, Onkologoie
 
 Müllerstraße 12
 
-134.17 Berlin
+13417 Berlin
 
 06151 / 3333333
 
@@ -658,7 +646,7 @@ Ersatzverfahren)
 
 **Erstdokumentation**
 
-PRF2612 15.04.2023 15.10.2024
+PRF 2612 15.04.2023 15.10.2024
 
 Halbjährlich oder häufiger 170 1,70
 
@@ -790,11 +778,11 @@ Therapie bei Knochenmetastasen (Denosumab)
 
 **Folgedokumentation**
 
-PRF2612 15.10.2023 15.04.2025
+PRF 2612 15.10.2023 15.04.2025
 
 Halbjährlich oder häufiger 170 1,70
 
-0.70
+070
 
 Primärtumors
 
@@ -873,11 +861,11 @@ Bitte achten Sie an dieser Stelle auf die Hinweise in  KBV_ITA_VGEX_Schnittstell
 
 **Erstdokumentation**
 
-PRF2613 15.04.2023 15.10.2024
+PRF 2613 15.04.2023 15.10.2024
 
-Halbjährlich oder häufiger 1.65 1,65
+Halbjährlich oder häufiger 165 1,65
 
-0.80
+080
 
 19.11.2021 19.05.2023
 
@@ -1011,11 +999,11 @@ Therapie bei Knochenmetastasen (Bisphosphonate)
 
 **Erstdokumentation**
 
-PRF2613 29.06.2023 29.12.2024
+PRF 2613 29.06.2023 29.12.2024
 
 165 1,65
 
-0.80
+080
 
 OP nicht geplant (c) Klinisch
 
@@ -1102,11 +1090,11 @@ Nein
 
 **Folgedokumentation**
 
-PRF2613 15.10.2023 15.04.2025
+PRF 2613 15.10.2023 15.04.2025
 
 Halbjährlich oder häufiger 165 1,65
 
-0.85
+085
 
 Kontralateralen Brustkrebses
 
@@ -1195,7 +1183,7 @@ PRF2614 856215715
 
 15.04.2023 15.10.2024
 
-Halbjährlich oder häufiger 1.80 1,80
+Halbjährlich oder häufiger 180 1,80
 
 065
 
@@ -1301,13 +1289,13 @@ Therapie bei Knochenmetastasen (Denosumab)
 
 **Folgedokumentation**
 
-PRF2614 856215715
+PRF 2614 856215715
 
 15.10.2023 15.04.2025
 
-Jährlich 1.80 1,80
+Jährlich 180 1,80
 
-0.65
+065
 
 Lokoregionären Rezidivs
 
@@ -1390,9 +1378,9 @@ Hormonrezeptorstatus Östrogen und/oder Progesteron (gemäß  Immunreaktiver Sco
 
 PRF2615 15.04.2023 15.10.2024
 
-Halbjährlich oder häufiger 1.65 1,65
+Halbjährlich oder häufiger 165 1,65
 
-0.73
+073
 
 01.01.2022 01.07.2023
 
@@ -1506,9 +1494,9 @@ Therapie bei Knochenmetastasen (Denosumab)
 
 PRF2615 15.10.2023 15.04.2025
 
-Halbjährlich oder häufiger 1.65 1,65
+Halbjährlich oder häufiger 165 1,65
 
-0.71
+071
 
 Fernmetastasen
 
@@ -1593,9 +1581,9 @@ M
 
 PRF2616 15.04.2023 15.10.2024
 
-Halbjährlich oder häufiger 1.74 1,74
+Halbjährlich oder häufiger 174 1,74
 
-0.65
+065
 
 2022 2023
 
@@ -1711,9 +1699,9 @@ Therapie bei Knochenmetastasen (Denosumab)
 
 PRF2616 15.10.2023 15.04.2025
 
-Halbjährlich oder häufiger 1.74 1,74
+Halbjährlich oder häufiger 174 1,74
 
-0.75
+075
 
 Kontralateralen Brustkrebses
 
@@ -1738,7 +1726,7 @@ Nein
 
 **Prüffall-ID**
 
-261.7
+2617
 
 **Testziel**
 
@@ -1800,9 +1788,9 @@ Ersatzverfahren.
 
 PRF2617 30.04.2023 30.10.2024
 
-Halbjährlich oder häufiger 1.75 1,75
+Halbjährlich oder häufiger 175 1,75
 
-0.68
+068
 
 08.02.2023 08.08.2024
 
@@ -1918,9 +1906,9 @@ Therapie bei Knochenmetastasen (Denosumab)
 
 PRF2617 30.10.2023 30.04.2025
 
-Halbjährlich oder häufiger 1.75 1,75
+Halbjährlich oder häufiger 175 1,75
 
-0.70
+070
 
 Primärtumors
 
@@ -2387,7 +2375,7 @@ Brustkrebs
 
 DMP-Fallnummer 1010
 
-Datum 0.5.04.2023
+Datum 05.04.2023
 
 
 ---
@@ -2431,7 +2419,7 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 **Prüfunterlagen**
 
-TDV2630
+TDV 2630
 
 Anlage einer Erstdokumentation mit der Schnittstellenversion
 
@@ -2471,7 +2459,7 @@ Fernmetastasen Datum der diagnostischen Sicherung von  Fernmetastasen
 
 Operative Therapie
 
-**4.23**
+**4 23**
 
 Ersatzverfahren
 

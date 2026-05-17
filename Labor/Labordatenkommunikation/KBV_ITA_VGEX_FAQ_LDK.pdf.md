@@ -1,7 +1,7 @@
-|  | IT in der Arztpraxis   FAQ für Softwarehersteller zur  [    Dezernat Digitalisierung und IT    10623 Berlin, Herbert-Lewin-Platz 2      Kassenärztliche Bundesvereinigung  Version |
+|  | IT in der Arztpraxis    FAQ für Softwarehersteller zur   [       Dezernat Digitalisierung und IT       10623 Berlin, Herbert-Lewin-Platz 2            Kassenärztliche Bundesvereinigung   Version |
 |---|---|
 
-Labordatenkommunikation KBV_ITA_VGEX_FAQ_LDK 1.04 Datum: 1.5.11.2023 Kennzeichnung: Öffentlich Status: In Kraft
+Labordatenkommunikation KBV_ITA_VGEX_FAQ_LDK 1.04 Datum: 15.11.2023 Kennzeichnung: Öffentlich Status: In Kraft
 
 
 ---
@@ -12,7 +12,7 @@ Labordatenkommunikation KBV_ITA_VGEX_FAQ_LDK 1.04 Datum: 1.5.11.2023 Kennzeichnu
 |---|---|---|---|---|---|
 | 1.04 | 15.11.2023 KBV |  | Streichung der FAQ-Einträge zum | Aktualisierung der | 8 ff |
 | 1.03 | 13.02.2018 KBV |  | Konkretisierungen bzgl. der |  | 8 |
-| 1.02 | 27.06.2017 KBV |  | Weitere Fragen und Antworten ergänzt |  | 7, 10, 10 |
+| 1.02 | 27.06.2017 KBV |  | Weitere Fragen und Antworten ergänzt |  | 7, 10,  10 |
 | 1.01 | 29.05.2017 KBV |  | Fehlerkorrektur bei typischen |  | 6 |
 | 1.00 | 15.05.2017 KBV |  | Initiale Erstellung |  | alle |
 
@@ -37,7 +37,9 @@ Labordatenkommunikation KBV_ITA_VGEX_FAQ_LDK 1.04 Datum: 1.5.11.2023 Kennzeichnu
 
 **5**
 
-REFERENZIERTE DOKUMENTE **12**
+**12**
+
+REFERENZIERTE DOKUMENTE
 
 
 ---
@@ -361,54 +363,48 @@ Digitales Muster 10  Export Digitales Muster 10A  Export LDT-Auftrag  Export LDT
 
 **unerwünscht, aber nicht verboten. Sofern die miteinander kommunizierenden Systeme**  **keine Prüfung auf gültige Prüfziffer vornehmen, kann der Austausch in gewohnter Weise**  **fortgesetzt werden“?**
 
-| *Die* | *KBV* | *macht* | *keine* |
-|---|---|---|---|
-|  | *zertifiziert* |  | *werden soll,* |
-|  | *dort wird* | *der* | *LDT 3 genutzt.* |
-|  | **Fragestellung:** | | **Ist der** |
-| **Export)?** | |  |  |
-|  | *Antwort* | *der* | *KBV:* |
-| *Der* | *LDT* | *-Befund* | *kann* |
-|  | *Zertifizierung* | | *auch genutzt* |
+*Stellungnahme der KBV:*
+
+*Die KBV macht keine Aussage zu den nicht erwünschten Standards. Wenn der LDT*  *zertifiziert werden soll, dann geschieht dies im Verfahren Labordatenkommunikation (LDK)*  *dort wird der LDT 3 genutzt.*
+
+**Fragestellung: Ist der 01.01.2018 offizieller Starttermin für den LDT 3.0 Befund (Import +**  **Export)?**
+
+*Antwort der KBV:*
+
+*Der LDT -Befund kann bereits seit dem 04.01.2016 zertifiziert und nach der bestandenen*  *Zertifizierung auch genutzt werden.*
 
 *) verwiesen.*
 
 *zum 01.01.2018 einstellen.*
 
-Stellungnahme der KBV: Die KBV macht keine Aussage zu den nicht erwünschten Standards. Wenn der LDT zertifiziert werden soll, dann geschieht dies im Verfahren Labordatenkommunikation (LDK) dort wird der LDT 3 genutzt.  Fragestellung: Ist der 01.01.2018 offizieller Starttermin für den LDT 3.0 Befund (Import + Antwort der KBV: Der LDT -Befund kann bereits seit dem 04.01.2016 zertifiziert und nach der bestandenen Zertifizierung auch genutzt werden.
 
 ---
 
 | **Sachverhalt:** | **„Für** | **den LDT** |
 |---|---|---|
 | **Zertifizierung** | **ist** | **jedoch** |
-|  | *Stellungnahme* | *der KBV:* |
+|  | *Stellungnahme der* | *KBV:* |
 
-| *Der* | *LDT-Auftrag* | | *kann seit* |
-|---|---|---|---|
-|  | *26.05.2017* | *bei der* | *KBV* |
-|  | *werden.* |  |  |
-|  | **Sachverhalt:** | **„Sofern** |  |
-| **bestanden** | | **haben,** | **kann auf** |
-| **Format** |  | **erfolgen“?** |  |
-|  | *Stellungnahme* | *der* | *KBV:* |
+*Der LDT-Auftrag kann seit dem 04.01.2016 freiwillig von Herstellern umgesetzt und seit dem*  *26.05.2017 bei der KBV zertifiziert und nach einer bestandenen Zertifizierung auch genutzt*  *werden.*
 
-**die**
+**Sachverhalt: „Sofern Softwarehäuser die**
 
-| *Der* |  | *LDT-Auftrag* | *kann seit* |
-|---|---|---|---|
-|  | *26.05.2017* | *bei* | *der KBV* |
-|  | *werden.* |  |  |
-|  | **Sachverhalt:** | **„Weder** | **der** |
-| **Auftrag** | **haben** | **vorerst** |  |
-|  | *Stellungnahme* | | *der KBV:* |
+**bestanden haben, kann auf freiwilliger Basis der Datenaustausch ab sofort in diesem**  **Format erfolgen“?**
+
+*Stellungnahme der KBV:*
+
+*Der LDT-Auftrag kann seit dem 04.01.2016 freiwillig von Herstellern umgesetzt und seit dem*  *26.05.2017 bei der KBV zertifiziert und nach der bestandenen Zertifizierung auch genutzt*  *werden.*
+
+**Sachverhalt: Weder der Einsatz von LDT 3.0 Befund, noch der Einsatz des LDT 3.0**
+
+**Auftrag haben vorerst Auswirkungen auf die KVDT**
 
 | *Die* | *Abrechnung* | *erfolgt* |
 |---|---|---|
 |  | *Abrechnungsbegründend* | |
 | *Auftrages* | *mittels* | *BFB-Verfahren* |
 
-*einem*
+*mit einem*
 
 **Zertifizierung**
 
@@ -422,7 +418,7 @@ Stellungnahme der KBV: Die KBV macht keine Aussage zu den nicht erwünschten Sta
 
 **3.0 Auftrag**
 
-ür den LDT 3.0 Auftrag gibt es keinen verbindlichen Starttermin, eine Zertifizierung ist jedoch bereits zum jetzigen Zeitpunkt möglich“? Stellungnahme der KBV: Der LDT-Auftrag kann seit dem 04.01.2016 freiwillig von Herstellern umgesetzt und seit dem 26.05.2017 bei der KBV zertifiziert und nach einer bestandenen Zertifizierung auch genutzt „Sofern Softwarehäuser bestanden haben, kann auf freiwilliger Basis der Datenaustausch ab sofort in diesem Format erfolgen“? Stellungnahme der KBV: Der LDT-Auftrag kann seit dem 04.01.2016 freiwillig von Herstellern umgesetzt und seit dem 26.05.2017 bei der KBV zertifiziert und nach der bestandenen Zertifizierung auch genutzt Weder der Einsatz von LDT 3.0 Befund, noch der Einsatz des LDT 3.0 Auftrag haben vorerst Auswirkungen auf die KVDT Stellungnahme der KBV: Die Abrechnung Abrechnungsbegründend sind der konventionelle Ausdruck des Auftrages, der Ausdruck des Auftrages mittels BFB-Verfahren oder der digitale Auftrag.*zertifiziert ist.*
+ür den LDT 3.0 Auftrag gibt es keinen verbindlichen Starttermin, eine Zertifizierung ist jedoch bereits zum jetzigen Zeitpunkt möglich“? Stellungnahme der KBV: Stellungnahme der KBV: Die Abrechnung Abrechnungsbegründend sind der konventionelle Ausdruck des Auftrages, der Ausdruck des Auftrages mittels BFB-Verfahren oder der digitale Auftrag.*zertifiziert ist.*
 
 
 ---

@@ -1,5 +1,5 @@
 SDEBM-Schnittstellen-Paket 01.61
-Stand: 13.02.2026, Schnittstellenreferenz 01.61
+Stand: 13.05.2026, Schnittstellenreferenz 01.61
 
 ================================================
 
@@ -22,13 +22,13 @@ Dokumentation:
     S_BAR2_WBO_V1.23.pdf
     S_EBM_ABR_ARZTPRAXIS_V1.00.pdf
     S_EBM_ARZTGRUPPE_V1.03.pdf
-    S_EBM_BEZUGSRAUM_V1.11.pdf
+    S_EBM_BEZUGSRAUM_V1.12.pdf
     S_EBM_GOP_ART_V1.01.pdf
     S_EBM_LEISTUNGSGRUPPE_V1.01.pdf
     S_EBM_OW_VERSORGUNGSGEBIET_V1.00.pdf
     S_EBM_PROFILZEITART_V1.01.pdf
     S_EBM_SCHNITTNAHTZEIT_V1.02.pdf
-    S_EBM_ZUSATZANGABE_V1.12.pdf
+    S_EBM_ZUSATZANGABE_V1.13.pdf
     S_GOS_KV_MS_ARZTGRUPPE_V1.02.pdf
     S_GOS_KV_MS_LUGRUPPE_V1.01.pdf
     S_GOS_KV_MS_VBEREICH_V1.03.pdf
@@ -52,13 +52,13 @@ keytabs:                    Version  Erläuterung
     S_BAR2_WBO                 1.23  Arztgruppen nach Bundesarztregister
     S_EBM_ABR_ARZTPRAXIS       1.00  Definiert die Verwendung von GOP hinsichtlich ihrer Abrechnungsfähigkeit in der Arztpraxis.
     S_EBM_ARZTGRUPPE           1.03  Arztgruppen mit interner EBM-Codierung
-    S_EBM_BEZUGSRAUM           1.11  Bezugs(zeit-)räume im Sinne des EBM
+    S_EBM_BEZUGSRAUM           1.12  Bezugs(zeit-)räume im Sinne des EBM
     S_EBM_GOP_ART              1.01  Kategorisierung in GOP-Arten für die KBV-interne Verarbeitung
     S_EBM_LEISTUNGSGRUPPE      1.01  Leistungsgruppen zur Wirtschaftlichkeitsprüfung
     S_EBM_OW_VERSORGUNGSGEBIET 1.00  Bewertungsabhängige Versorgungsgebiete
     S_EBM_PROFILZEITART        1.01  Zeitprofilarten für die Prüfzeiten
     S_EBM_SCHNITTNAHTZEIT      1.02  Codierung der Schnitt-Naht-Zeiten
-    S_EBM_ZUSATZANGABE         1.12  Zusatzangaben als Abrechnungsbegründungen von Ziffern
+    S_EBM_ZUSATZANGABE         1.13  Zusatzangaben als Abrechnungsbegründungen von Ziffern
     S_GOS_KV_MS_ARZTGRUPPE     1.02  KV-spezifische Schlüsseltabelle zu Arztgruppen zur Mengensteuerung (Verwendung in der kv-spezifischen GOStamm)
     S_GOS_KV_MS_LUGRUPPE       1.01  KV-spezifische Schlüsseltabelle zu Leistungsuntergruppen zur Mengensteuerung (Verwendung in der kv-spezifischen GOStamm)
     S_GOS_KV_MS_VBEREICH       1.03  KV-spezifische Schlüsseltabelle zu Versorgungsbereichen zur Mengensteuerung (Verwendung in kv-spezifischer GOStamm)
@@ -92,7 +92,11 @@ Schema:
 
 2.  Inhaltliche Änderungen
 ================================================
-31.10.2025
+13.05.2026
+   - Aktualisierung der Schlüsseltabelle S_EBM_BEZUGSRAUM in der Version V1.12
+   - Aktualisierung der Schlüsseltabelle  S_EBM_ZUSATZANGABE in der Version V1.13
+
+13.02.2026
    - Aktualisierung der Schlüsseltabelle S_VDX_VERTRAGSART in der Version V1.23
    - Aktualisierung der Schlüsseltabelle S_VDX_KONTENART in der Version V1.22
    - Aktualisierung der Schlüsseltabelle S_BAR2_WBO in der Version V1.23
@@ -402,4 +406,4 @@ Schema:
 
     KBV - Dezernat Digitalisierung und IT
     IT in der Arztpraxis
-    Berlin, den 13.02.2026
+    Berlin, den 13.05.2026

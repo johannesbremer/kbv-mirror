@@ -54,15 +54,11 @@ Webanwendung
 
 Webanwendung
 
-**für Patienten**
+#### für Patienten
 
-|  | Webanwendung |  |
-|---|---|---|
-| **für** |  | **Terminservicestellen** |
-|  | **Weitere** | **FHIR-** |
-|  |  | **Schnittstellen** |
-|  | z.B. | „Terminbuchung |
-|  | aus | dem PVS“ |
+Webanwendung
+
+#### für Terminservicestellen
 
 (1) FHIR-Schnittstelle **Abrechnungsinformation**
 
@@ -74,7 +70,11 @@ nach §370a Absatz 5 SGB V
 
 (4) FHIR-Schnittstelle **Dritte**
 
-für Terminservicestellen Weitere FHIR- z.B. „Terminbuchung aus dem PVS“nach §370a Absatz 2 SGB V
+nach §370a Absatz 2 SGB V
+
+**Weitere FHIR-** **Schnittstellen**
+
+z.B. „Terminbuchung  aus dem PVS“
 
 
 ---
@@ -169,15 +169,14 @@ Termin wird durch Patienten  und Patientinnen, durch die  Terminservicestellen d
 
 (nicht Bestandteil der Spezifikation)
 
-|  | **Patientin** |  |
-|---|---|---|
-|  | **Terminservicestellen** | |
-|  | **Dritte** |  |
-| können | Termine | für ihre Nutzer |
-| suchen | und | buchen, gemäß |
-|  | §370a | Absatz 2 |
+**Patientin**
 
-können Termine für ihre Nutzer suchen und buchen, gemäß 370a Absatz 2
+**Terminservicestellen**
+
+**Dritte**
+
+können Termine für ihre Nutzer  suchen und buchen, gemäß  370a Absatz 2
+
 
 ---
 
@@ -397,11 +396,10 @@ weitere Informationen unter:  [https://partnerportal.kv-telematik.de/display/KDK
 
 ---
 
-|  |  | **Interoperabilitätsworkshops** |
-|---|---|---|
-| **für** | **eArztbriefund** | **eNachricht** |
+# Interoperabilitätsworkshops
 
-für eArztbriefund eNachricht
+# für e Arztbriefund eNachricht
+
 
 ---
 
@@ -491,22 +489,32 @@ September
 
 ---
 
-| **Abschaltung** | | **KV** | **-Connect** |
-|---|---|---|---|
-| TOP-10 | Systeme | | nach Nutzern – **Gesamt** (Monat August 2025) |
-| Hersteller | 1 | (898 | Nutzer) |
-| Hersteller | 2 | (753 | Nutzer) |
-| Hersteller | 3 | (589 | Nutzer) |
-| Hersteller | 4 | (506 | Nutzer) |
-| Hersteller | 5 | (391 | Nutzer) |
-| Hersteller | 6 | (376 | Nutzer) |
-| Hersteller | 7 | (298 | Nutzer) |
-| Hersteller | 8 | (263 | Nutzer) |
-| Hersteller | 9 | (235 | Nutzer) |
-| Hersteller | 10 | (233 | Nutzer) |
-|  |  |  | 0 100 200 300 400 500 600 700 800 900 1000 |
+## Abschaltung KV-Connect
 
-Abschaltung KV -10 Systeme nach Nutzern Hersteller 1 (898 Nutzer) Hersteller 2 (753 Nutzer) Hersteller 3 (589 Nutzer) Hersteller 4 (506 Nutzer) Hersteller 5 (391 Nutzer) Hersteller 6 (376 Nutzer) Hersteller 7 (298 Nutzer) Hersteller 8 (263 Nutzer) Hersteller 9 (235 Nutzer) Hersteller 10 (233 Nutzer)
+## TOP-10 Systeme nach Nutzern Gesamt (Monat August 2025)
+
+Hersteller 1 (898 Nutzer)
+
+Hersteller 2 (753 Nutzer)
+
+Hersteller 3 (589 Nutzer)
+
+Hersteller 4 (506 Nutzer)
+
+Hersteller 5 (391 Nutzer)
+
+Hersteller 6 (376 Nutzer)
+
+Hersteller 7 (298 Nutzer)
+
+Hersteller 8 (263 Nutzer)
+
+Hersteller 9 (235 Nutzer)
+
+Hersteller 10 (233 Nutzer)
+
+0 100 200 300 400 500 600 700 800 900 1000
+
 
 ---
 

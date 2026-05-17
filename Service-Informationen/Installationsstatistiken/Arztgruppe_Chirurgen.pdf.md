@@ -6,31 +6,31 @@
 
 **Id Praxissoftware**
 
-2.54 **ORBIS®**
+254 **ORBIS®**
 
-2.80 **CGM MEDISTAR BLACK PRO**
+280 **CGM MEDISTAR BLACK PRO**
 
-2.16 **x.isynet**
+216 **x.isynet**
 
-3.43 **SAP Ambulatory Care Management**
+343 **SAP Ambulatory Care Management**
 
-2.26 **CGM MEDICO**
+226 **CGM MEDICO**
 
-1.12 **TURBOMED**
+112 **TURBOMED**
 
-2.10 **Medical Office**
+210 **Medical Office**
 
-3.14 **IMedOne**
+314 **IMedOne**
 
-4.57 **tomedo**
+457 **tomedo**
 
-2.43 **x.concept**
+243 **x.concept**
 
-4.62 **medatixx**
+462 **medatixx**
 
-2.03 **ALBIS**
+203 **ALBIS**
 
-2.52 **CGM M1 PRO**
+252 **CGM M1 PRO**
 
 **Anbieter**
 
@@ -62,63 +62,63 @@ CompuGroup Medical Deutschland AG 1
 
 **Installationen 2.Q.2025**
 
-5.92
+592
 
-2.73
+273
 
-2.52
+252
 
-1.92
+192
 
-1.75
+175
 
-1.60
+160
 
-1.45
+145
 
-1.38
+138
 
-1.38
+138
 
-1.08
+108
 
-1.04
+104
 
-9.7
+97
 
-9.0
+90
 
 **Installationen 1.Q.2025**
 
-5.81
+581
 
-2.82
+282
 
-2.59
+259
 
-1.92
+192
 
-1.76
+176
 
-1.68
+168
 
-1.35
+135
 
-1.41
+141
 
-1.31
+131
 
-1.14
+114
 
-1.00
+100
 
-1.03
+103
 
-9.0
+90
 
 **Differenz**
 
-1.1
+11
 
 -9
 
@@ -130,7 +130,7 @@ CompuGroup Medical Deutschland AG 1
 
 -8
 
-1.0
+10
 
 -3
 
@@ -149,25 +149,25 @@ CompuGroup Medical Deutschland AG 1
 
 **Id Praxissoftware**
 
-2.08 **NEXUS / KIS**
+208 **NEXUS / KIS**
 
-4.98 **T2med**
+498 **T 2med**
 
-4.22 **ClinicCentre Billing (OPD)**
+422 **ClinicCentre Billing (OPD)**
 
-2.90 **M-KIS**
+290 **M-KIS**
 
-2.44 **QUINCY WIN**
+244 **QUINCY WIN**
 
-0.86 **DURIA**
+086 **DURIA**
 
-1.35 **EL - Elaphe Longissima**
+135 **EL - Elaphe Longissima**
 
 **Anbieter**
 
 NEXUS AG
 
-T2med GmbH & Co. KG
+T 2med GmbH & Co. KG
 
 Mesalvo Mannheim GmbH
 
@@ -181,35 +181,35 @@ medatixx GmbH & Co. KG 2
 
 **Installationen 2.Q.2025**
 
-6.1
+61
 
-5.2
+52
 
-4.6
+46
 
-3.5
+35
 
-3.3
+33
 
-3.3
+33
 
-2.9
+29
 
 **Installationen 1.Q.2025**
 
-5.6
+56
 
-4.8
+48
 
-4.6
+46
 
-3.6
+36
 
-3.3
+33
 
-3.2
+32
 
-3.1
+31
 
 **Differenz**
 

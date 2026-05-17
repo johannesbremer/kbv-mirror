@@ -2,9 +2,7 @@
 
 **Stempel der Krankenkasse und Unterschrift**
 
-| **Unterschrift** | **des Versicherten** |
-|---|---|
-| **Erstversorgung** | **oder Verlust der** |
+**Unterschrift des Versicherten**
 
 **(bei Erstversorgung oder Verlust der Sehhilfe)**
 
@@ -52,7 +50,7 @@
 
 **Bescheinigung des Leistungserbringers**
 
-**Sonstiges:Datum**
+**Sonstiges: Datum**
 
 **Betrag Euro**
 
@@ -88,7 +86,7 @@
 
 **Menge und Art der Verordnung:**
 
-**Befund:Wenn nein, wird eine Verbesserung der Seh-schärfe um mindestens 20% erzielt?**
+**Befund: Wenn nein, wird eine Verbesserung der Seh-schärfe um mindestens 20% erzielt?**
 
 **Achse**
 
@@ -118,7 +116,7 @@
 
 **Die Sehhilfe wurde gemäß vorstehenderangIch versichere, dass die gelieferte Sehhilfe**
 
-**Empfangsbestätder Verordnung entspricht.Datum**
+**Empfangsbestätder Verordnung entspricht. Datum**
 
 **Zur Beachtung für den VersichertenDiese Verordnung ist kein Gutschein für einen bestiDie**  **Der Barcode enthält keine auf dem Formular nicht le**
 
@@ -130,4 +128,4 @@
 
 **R**
 
-Unterschrift des Versicherten**L** **N**
+**L** **N**

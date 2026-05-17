@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 2. SEPTEMBER 2025  VERSION: 2.1.2  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT 2. SEPTEMBER 2025   VERSION: 2.1.2   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # VERORDNUNGSSOFTWARE SCHNITTSTELLE VERSION 2.1.0 - FAQ
@@ -89,7 +89,7 @@ DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 2.1.2 | 02.09.2025 | KBV | Textpassagen bzgl.  Frage 2.12 neu | Zertifizierung durch das | 5 6 11  12 |
+| 2.1.2 | 02.09.2025 | KBV | Textpassagen bzgl.    Frage 2.12 neu | Zertifizierung durch das | 5  6  11    12 |
 | 2.1.1 | 16.05.2023 | KBV | Fragen 2.10, 2.11 und | Anfragen von Herstellern | 11 |
 | 2.1.0 | 01.02.2023 | KBV | Komplette | Neue Version der Schnittstelle 2.1.0 | alle |
 | 1.3 | 12.05.2022 | KBV | Neue Fragen | Datenschutz und Ressourcen-ID | 11 |
@@ -147,16 +147,16 @@ Die im Zertifizierungsportal hinterlegten Profile, gegen die die eingereichten R
 | ERGEBNISMELDUNGEN |  |  |
 |---|---|---|
 | BSP_Medication_Compounding | | |
-| Warning @ Medication.extension[0].value.ofType(CodeableConcept).coding[0] (line 10, col12): The display "Pharmaceutical / biologic product (product) : Has product characteristic (attribute) = Manual method (qualifier value)" is not a valid display for the code {http://snomed.info/sct}373873005:860781008=362943005 - should be one of ['Pharmaceutical / biologic product where Has product characteristic = Manual method'] (from http://tx.fhir.org/r4) f³r "http://snomed.info/sct#373873005:860781008=362943005" | | |
+| Warning @ Medication.extension[0].value.ofType(CodeableConcept).coding[0] (line 10, col12): The display  "Pharmaceutical / biologic product (product) : Has product characteristic (attribute) = Manual method  (qualifier value)" is not a valid display for the code  {http://snomed.info/sct}373873005:860781008=362943005 - should be one of ['Pharmaceutical / biologic  product where Has product characteristic = Manual method'] (from http://tx.fhir.org/r4) f³r  "http://snomed.info/sct#373873005:860781008=362943005" | | |
 | BSP_Medication_Compounding_2 | | |
-| Warning @ Medication.extension[0].value.ofType(CodeableConcept).coding[0] (line 10, col12): The display "Pharmaceutical / biologic product (product) : Has product characteristic (attribute) = Manual method (qualifier value)" is not a valid display for the code {http://snomed.info/sct}373873005:860781008=362943005 - should be one of ['Pharmaceutical / biologic product where Has product characteristic = Manual method'] (from http://tx.fhir.org/r4 ) f³r "http://snomed.info/sct#373873005:860781008=362943005" | | |
+| Warning @ Medication.extension[0].value.ofType(CodeableConcept).coding[0] (line 10, col12): The display  "Pharmaceutical / biologic product (product) : Has product characteristic (attribute) = Manual method  (qualifier value)" is not a valid display for the code  {http://snomed.info/sct}373873005:860781008=362943005 - should be one of ['Pharmaceutical / biologic  product where Has product characteristic = Manual method'] (from http://tx.fhir.org/r4) f³r  "http://snomed.info/sct#373873005:860781008=362943005" | | |
 
 
 ---
 
 | BSP_MEDICATION_COMPOUNDING_3 |
 |---|
-| Warning @ Medication.extension[0].value.ofType(CodeableConcept).coding[0] (line 10, col12): The display "Pharmaceutical / biologic product (product) : Has product characteristic (attribute) = Manual method (qualifier value)" is not a valid display for the code {http://snomed.info/sct}373873005:860781008=362943005 - should be one of ['Pharmaceutical / biologic product where Has product characteristic = Manual method'] (from http://tx.fhir.org/r4) f³r "http://snomed.info/sct#373873005:860781008=362943005" |
+| Warning @ Medication.extension[0].value.ofType(CodeableConcept).coding[0] (line 10, col12): The display  "Pharmaceutical / biologic product (product) : Has product characteristic (attribute) = Manual method  (qualifier value)" is not a valid display for the code  {http://snomed.info/sct}373873005:860781008=362943005 - should be one of ['Pharmaceutical / biologic  product where Has product characteristic = Manual method'] (from http://tx.fhir.org/r4) f³r  "http://snomed.info/sct#373873005:860781008=362943005" |
 
 ## 2.3 FRAGESTELLUNG  WIE WIRD DAS E-REZEPT STORNIERT?
 
@@ -374,7 +374,7 @@ Mit den übergebenen Praxis-, Behandelnden-, Patienten-  -)Rezepte
 
 DocumentReference mit
 
-n eRP-Bundles möglich. Diese
+n e RP-Bundles möglich. Diese
 
 _PR_VoS_Bundle_VoS_PVS aufgenommen.
 
@@ -389,7 +389,7 @@ Es ist durchaus möglich, dass in einem Speicherbundle gleichzeitig signierte da
 
 ## 2.8 FRAGESTELLUNG - WORAUF IST BEI DER NUTZUNG DES HL7
 
-Der HL7-Validator beinhaltet die Möglichkeit Codes (z.B. Snomed werden einzelne Codes an einen Terminologieserver, der derzeit in den USA angesiedelt ist, gesendet. Es  werden jedoch auch personenbezogene Daten (IP Produktivbetrieb sollte daher ausschließlich eine lokale Terminologievalidierung durchgeführt werden,  damit keine personenbezogenen Daten des Arztes/der Praxis übertragen werden.
+Der HL 7-Validator beinhaltet die Möglichkeit Codes (z.B. Snomed werden einzelne Codes an einen Terminologieserver, der derzeit in den USA angesiedelt ist, gesendet. Es  werden jedoch auch personenbezogene Daten (IP Produktivbetrieb sollte daher ausschließlich eine lokale Terminologievalidierung durchgeführt werden,  damit keine personenbezogenen Daten des Arztes/der Praxis übertragen werden.
 
 **Hinweis - Aufbau der Ressourcen-ID**
 
@@ -453,7 +453,7 @@ Die derzeitig gültigen KBV-Zertifikate werden planmäßig auslaufen
 | [Dokumentation HL7.org FHIR-Validator] | Dokumentation des FHIR-Validators von |
 | [Release-Seite des FHIR-Validators] | Release-Seite des FHIR-Validators von |
 | [KBV_FHIR_VoS.zip] | KBV-Profile |
-| [KBV_ITA_VGEX_Anforderungskatalog_SST_VoS ] | Anforderungskatalog |
+| [KBV_ITA_VGEX_Anforderungskatalog_SST_VoS] | Anforderungskatalog |
 | [KBV_ITA_VGEX_SST_Festlegung_VOS_V2.1.0] | Festlegung der Schnittstelle nach §371 |
 
 **Ansprechpartner:**

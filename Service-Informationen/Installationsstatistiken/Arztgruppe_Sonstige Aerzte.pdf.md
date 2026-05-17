@@ -1,36 +1,36 @@
 ### TOP 20 Systeme - Sonstige Ärzte
 
-**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen. Datenstand:** **3.0.06.2025**
+**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen. Datenstand:** **30.06.2025**
 
 **Id Praxissoftware**
 
-2.10 **Medical Office**
+210 **Medical Office**
 
-2.54 **ORBIS®**
+254 **ORBIS®**
 
-4.06 **esQlab.online**
+406 **esQlab.online**
 
-2.80 **CGM MEDISTAR BLACK PRO**
+280 **CGM MEDISTAR BLACK PRO**
 
-3.43 **SAP Ambulatory Care Management**
+343 **SAP Ambulatory Care Management**
 
-2.26 **CGM MEDICO**
+226 **CGM MEDICO**
 
-0.78 **Med7**
+078 **Med7**
 
-2.16 **x.isynet**
+216 **x.isynet**
 
-3.14 **IMedOne**
+314 **IMedOne**
 
-4.56 **RED medical classic**
+456 **RED medical classic**
 
-4.62 **medatixx**
+462 **medatixx**
 
-0.86 **DURIA**
+086 **DURIA**
 
-3.20 **DISweb**
+320 **DISweb**
 
-3.08 **RescuePro**
+308 **RescuePro**
 
 **Anbieter**
 
@@ -64,73 +64,73 @@ RescuePro Production GmbH & Co. KG 1
 
 **Installationen 2.Q.2025**
 
-6.90
+690
 
-6.43
+643
 
-4.83
+483
 
-4.25
+425
 
-2.64
+264
 
-2.37
+237
 
-1.75
+175
 
-1.54
+154
 
-1.51
+151
 
-1.28
+128
 
-1.17
+117
 
-9.5
+95
 
-9.3
+93
 
-9.0
+90
 
 **Installationen 1.Q.2025**
 
-6.64
+664
 
-6.42
+642
 
-4.81
+481
 
-4.06
+406
 
-2.63
+263
 
-2.31
+231
 
-1.69
+169
 
-1.57
+157
 
-1.51
+151
 
-1.26
+126
 
-1.19
+119
 
-9.7
+97
 
-9.4
+94
 
-8.5
+85
 
 **Differenz**
 
-2.6
+26
 
 1
 
 2
 
-1.9
+19
 
 1
 
@@ -157,17 +157,17 @@ RescuePro Production GmbH & Co. KG 1
 
 **Id Praxissoftware**
 
-2.08 **NEXUS / KIS**
+208 **NEXUS / KIS**
 
-4.57 **tomedo**
+457 **tomedo**
 
-2.90 **M-KIS**
+290 **M-KIS**
 
-2.43 **x.concept**
+243 **x.concept**
 
-1.12 **TURBOMED**
+112 **TURBOMED**
 
-2.52 **CGM M1 PRO**
+252 **CGM M1 PRO**
 
 **Anbieter**
 
@@ -185,31 +185,31 @@ CompuGroup Medical Deutschland AG 2
 
 **Installationen 2.Q.2025**
 
-8.2
+82
 
-7.2
+72
 
-6.9
+69
 
-6.0
+60
 
-5.9
+59
 
-5.3
+53
 
 **Installationen 1.Q.2025**
 
-7.9
+79
 
-6.6
+66
 
-7.1
+71
 
-6.4
+64
 
-6.4
+64
 
-5.2
+52
 
 **Differenz**
 

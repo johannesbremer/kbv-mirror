@@ -16,17 +16,15 @@ tätssicherung Zervix-Zytologie Zytologie] Digitalisierung und IT -Lewin-Platz 2
 
 ---
 
-itätssicherung Zervix
-
 ### DOKUMENTENHISTORIE
 
 ### Die Änderungen vom 09.08.2012 treten zum 01.10.2012 in Kraft.
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.03 | 0.9.08.2012 | KBV | Red. Änderungen |  |  |
+| 1.03 | 09.08.2012 | KBV | Red. Änderungen |  |  |
 
--Zytologie
+itätssicherung Zervix -Zytologie
 
 
 ---
@@ -66,6 +64,8 @@ itätssicherung Zervix
 2.2.4 Datenträgerbeschriftung und Transportbegleitzettel ..............................................................7
 
 **3** **REFERENZIERTE DOKUMENTE __________________________________________ 8**
+
+itätssicherung Zervix-Zytologie
 
 
 ---
@@ -116,9 +116,13 @@ Optionale Funktionen sind wie folgt gekennzeichnet:
 |---|---|
 | K8-30 | Funktionsbezeichnung                                                                            (2-80) |
 
-Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Versi- on (2-70)
+Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Versi- on
+
+itätssicherung Zervix-Zytologie (2-70)
 
 ---
+
+itätssicherung Zervix-Zytologie
 
 # 2 Ärztliches Dokumentieren
 
@@ -168,6 +172,8 @@ Die Gesamtzahl der untersuchten Präparate ist größer als die Summe der Anzahl
 
 
 ---
+
+itätssicherung Zervix-Zytologie
 
 **2.1.4 Praxisbesonderheiten**
 
@@ -220,6 +226,8 @@ Vor Fertigstellung des vom Anwender einzureichenden Datenträgers ist das Dokume
 
 ---
 
+itätssicherung Zervix-Zytologie
+
 ### 2.2.4 Datenträgerbeschriftung und Transportbegleitzettel
 
 Werden Datenträger zur Datenübermittlung der Dokumentationsdaten eingesetzt, so sind die  Anforderungen P2-25 und P2-26 einzuhalten.
@@ -241,6 +249,8 @@ Das System muss den Anwender darauf hinweisen, dass die eingesetzten Datenträge
 
 ---
 
+itätssicherung Zervix
+
 # 3 Referenzierte Dokumente
 
 | Referenz | Dokument |
@@ -248,5 +258,7 @@ Das System muss den Anwender darauf hinweisen, dass die eingesetzten Datenträge
 | [KBV_ITA_VGEX_XML-Schnittstellen] | Austausch von XML-Daten in der vertragsärztlichen |
 | [KBV_ITA_VGEX_Schnittstelle_ QS_Zervix- | Schnittstellenbeschreibung Qualitätssicherung Zer- |
 | [KBV_ITA_AHEX_Handbuch_XKM] | XKM Anwenderhandbuch |
+
+-Zytologie
 
 Zytologie] Versorgung vix-Zytologie

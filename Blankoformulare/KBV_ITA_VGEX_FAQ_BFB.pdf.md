@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 15. NOVEMBER 2022 ZU VERSION: 1.01   DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  15. NOVEMBER 2022  ZU VERSION: 1.01    DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # FRAGEN UND ANTWORTEN ZUR
@@ -98,22 +98,22 @@ Diese FAQs dienen ausschließlich zur Orientierung im Themengebiet Blankoformula
 
 | BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
-| Allgemein | In dem technischen Handbuch der Blankoformularbedruckung [1] wird immer nur von PVS gesprochen. Gilt für andere Systeme in | Doch. Im technischen Handbuch steht PVS als Synonym für Systeme, die mit der |
-| Allgemein | Das Zertifizierungsverfahren „Blankoformularbedruckung“ gibt verschiedene Muster vor. Muss eine Software alle Muster umsetzen und gibt es Abhängigkeiten zwischen den Mustern? | Nein. Eine Software kann frei aus den Mustern wählen und diese beliebig miteinander Eine Ausnahme bilden die Muster 62A, 62B und 62C. Hier können bestimmte alternative Kombinationen dieser Muster ausgewählt werden, um die Aufwendungen und Zertifizierungskosten zu minimieren. Nur eine dieser Kombinationen soll dabei ausgewählt werden. |
+| Allgemein | In dem technischen Handbuch der  Blankoformularbedruckung [1] wird immer nur  von PVS gesprochen. Gilt für andere Systeme in | Doch. Im technischen Handbuch steht PVS als Synonym für Systeme, die mit der |
+| Allgemein | Das Zertifizierungsverfahren  „Blankoformularbedruckung“ gibt verschiedene  Muster vor. Muss eine Software alle Muster  umsetzen und gibt es Abhängigkeiten zwischen  den Mustern? | Nein. Eine Software kann frei aus den Mustern wählen und diese beliebig miteinander  Eine Ausnahme bilden die Muster 62A, 62B und 62C. Hier können bestimmte  alternative Kombinationen dieser Muster ausgewählt werden, um die Aufwendungen  und Zertifizierungskosten zu minimieren. Nur eine dieser Kombinationen soll dabei  ausgewählt werden. |
 | Allgemein –  Zertifizierung | Wie viele Prüfnummern erhält ein PVS? | Jedes PVS erhält genau eine Prüfnummer für die Komponente BFB, im Falle der |
 
-Arztpraxen wie Laborinformationssysteme (LIS), Arztinformationssysteme (AIS), Order-Entry- Systeme etc. das technische Handbuch nicht? Blankoformularbedruckung arbeiten. Also auch für LIS, AIS, OE-Systeme etc. kombinieren. Eine Abhängigkeit zwischen den Mustern besteht nicht. Zu einem Muster gehören alle entsprechenden Seiten (wie z. B. Muster 12 mit den Seiten 12a_1, 12a_2, 1.2b, 12c und 1d). erfolgreich bestandenen Prüfung. In den Zulassungslisten der KBV wird pro zertifiziertem System dargestellt, welchen Muster Zertifizierungsbereich das jeweilige PVS umgesetzt hat. Im Rahmen einer Erweiterungszertifizierung können weitere Muster auch unkompliziert nachzertifiziert werden.
+Arztpraxen wie Laborinformationssysteme (LIS), Arztinformationssysteme (AIS), Order-Entry- Systeme etc. das technische Handbuch nicht? Blankoformularbedruckung arbeiten. Also auch für LIS, AIS, OE-Systeme etc. kombinieren. Eine Abhängigkeit zwischen den Mustern besteht nicht. Zu einem Muster gehören alle entsprechenden Seiten (wie z. B. Muster 12 mit den Seiten 12a_1, 12a_2, 12b, 12c und 1d). erfolgreich bestandenen Prüfung. In den Zulassungslisten der KBV wird pro zertifiziertem System dargestellt, welchen Muster Zertifizierungsbereich das jeweilige PVS umgesetzt hat. Im Rahmen einer Erweiterungszertifizierung können weitere Muster auch unkompliziert nachzertifiziert werden.
 
 ---
 
 | BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
-| Allgemein –  Zertifizierung | Was ist im Kapitel Zertifizierungsgegenstand mit „Bezeichnung“ im Antrag auf Zertifizierung [5] gemeint? | Mit „Bezeichnung“ ist die Produktbezeichnung/Softwarebezeichnung,  unter welcher |
-| Allgemein –  Zertifizierung | Welche Muster müssen im Antrag auf Zertifizierung [5] ausgewählt werden? | Diejenigen Muster, für die Sie eine Zertifizierung anstreben.  Bei einer Rezertifizierung |
-| Allgemein –  Zertifizierung | Besteht eine Pflicht zur Rezertifizierung, wenn ein Muster, für das eine Zulassung besteht, aktualisiert wird? | Nein, falls eine gültige Zulassung für ein konkretes Muster besteht, muss bei dessen Aktualisierung eine Anpassung bis zum Stichtag umgesetzt werden. Eine Pflicht zur Rezertifizierung besteht in diesem Fall nicht. |
-| Allgemein –  Zertifizierung | Muss bei Vorhandensein einer gültigen Prüfnummer eine Erweiterungszertifizierung für neu eingeführte Muster vorgenommen werden, wenn deren Bedruckung umgesetzt wird? | Ja, es besteht die Pflicht, für alle Muster, die bedruckt werden können, per Zertifizierung eine Zulassung einzuholen. |
-| Allgemein –  Zertifizierung | Welche Ansprechpartner benötigt die KBV in Kapitel 3 des Antrags auf Zertifizierung [5] „Anlage zu den Kontaktdaten“? | Im Antrag auf Zertifizierung muss mindestens ein Verantwortlicher für das |
-| Kapitel 2.8 | Dürfen für die Bedruckung der formularspezifischen Inhalte der Muster beliebige Schriftarten benutzt werden? | Grundsätzlich ja, denn es müssen Schriftarten mit guter Erkennbarkeit eingesetzt werden. Es wird empfohlen, die Schriftart Courier, Courier New oder andere metrisch kompatible Nachahmungsschriftarten mit regulärer Strichstärke, Stil und Zeichenbreite einzusetzen. Im Rahmen der Prüfung wird die Erkennbarkeit der verwendeten Schriftarten beurteilt. |
+| Allgemein –  Zertifizierung | Was ist im Kapitel Zertifizierungsgegenstand mit  „Bezeichnung“ im Antrag auf Zertifizierung [5]  gemeint? | Mit „Bezeichnung“ ist die Produktbezeichnung/Softwarebezeichnung,  unter welcher |
+| Allgemein –  Zertifizierung | Welche Muster müssen im Antrag auf  Zertifizierung [5] ausgewählt werden? | Diejenigen Muster, für die Sie eine Zertifizierung anstreben.  Bei einer Rezertifizierung |
+| Allgemein –  Zertifizierung | Besteht eine Pflicht zur Rezertifizierung, wenn  ein Muster, für das eine Zulassung besteht,  aktualisiert wird? | Nein, falls eine gültige Zulassung für ein konkretes Muster besteht, muss bei dessen  Aktualisierung eine Anpassung bis zum Stichtag umgesetzt werden. Eine Pflicht zur  Rezertifizierung besteht in diesem Fall nicht. |
+| Allgemein –  Zertifizierung | Muss bei Vorhandensein einer gültigen  Prüfnummer eine Erweiterungszertifizierung für  neu eingeführte Muster vorgenommen werden,  wenn deren Bedruckung umgesetzt wird? | Ja, es besteht die Pflicht, für alle Muster, die bedruckt werden können, per  Zertifizierung eine Zulassung einzuholen. |
+| Allgemein –  Zertifizierung | Welche Ansprechpartner benötigt die KBV in  Kapitel 3 des Antrags auf Zertifizierung [5]  „Anlage zu den Kontaktdaten“? | Im Antrag auf Zertifizierung muss mindestens ein Verantwortlicher für das |
+| Kapitel 2.8 | Dürfen für die Bedruckung der  formularspezifischen Inhalte der Muster  beliebige Schriftarten benutzt werden? | Grundsätzlich ja, denn es müssen Schriftarten mit guter Erkennbarkeit eingesetzt  werden. Es wird empfohlen, die Schriftart Courier, Courier New oder andere metrisch  kompatible Nachahmungsschriftarten mit regulärer Strichstärke, Stil und Zeichenbreite  einzusetzen. Im Rahmen der Prüfung wird die Erkennbarkeit der verwendeten  Schriftarten beurteilt. |
 
 Ihr System auf dem Markt zu finden ist, gemeint. müssen alle Muster ausgewählt werden, die rezertifiziert werden sollen. Bei einer Neu- /Erweiterungszertifizierung nur die neu zu zertifizierenden Muster. Zertifizierungsthema und die Geschäftsführung genannt werden.
 
@@ -128,7 +128,7 @@ Ihr System auf dem Markt zu finden ist, gemeint. müssen alle Muster ausgewählt
 | 1. Allgemeine Angaben | Vollständig | OK |
 | 1.3  Zertifizierungsgegenstand | Bezeichnung (Produktbezeichnung) | Fehler |
 | 1.4. Betriebssysteme | mindestens eins | OK |
-| 2. Realisierung von Anforderungen | Neu-/Erweiterung/ (Die neuen Muster) Rezertifizierungen (Alle Muster) | OK |
+| 2. Realisierung von Anforderungen | Neu-/Erweiterung/ (Die neuen Muster)  Rezertifizierungen (Alle Muster) | OK |
 | 2.2 bis 2.5 Pflichtangaben | Auswahl aller Ankreuzfelder | OK |
 | 3. Anlage zu den Kontaktdaten | Zertifizierungsthema (min. Tele.& E-Mail) | OK |
 |  | Geschäftsführung     (min. Tele.& E-Mail) | Fehler |
@@ -195,7 +195,7 @@ Siehe: Technisches Handbuch Blankoformularbedruckung [1] im Kapitel 2.10 Zeichen
 | Datenblöcke | 9 Blöcke, davon 7 Informationsblöcke | OK |
 | Moduleinheitshöhe | Doppelt so hoch wie breit | Fehler (Dreifache Höhe) |
 | Barcodebreite | Sichtbar = 4,75 cm +/- 1mm | OK |
-| Barcoderuhebereich in alle vier Richtungen | 20 mil → 0,508 mm | OK |
+| Barcoderuhebereich  in alle vier Richtungen | 20 mil → 0,508 mm | OK |
 
 Siehe: Technisches Handbuch Blankoformularbedruckung [1] im 5.5 Technische Vorgaben
 
@@ -268,13 +268,13 @@ Zertifizierungsrichtlinie der
 |  |  |
 |---|---|
 | Referenz | Dokument |
-| [1] | [KBV_ITA_VGEX_Technisches_Handbuch_BFB] Technisches Handbuch Blankoformularbedruckung |
-| [2] | [KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung] Anforderungskatalog Blankoformularbedruckung |
-| [3] | [KBV_ITA_AHEX_PRUEFPAKET_BFB] Prüfpaket Blankoformularbedruckung |
-| [4] | http://www.kbv.de/media/sp/02_Vordruckvereinbarung.pdf Vereinbarung über Vordrucke für die vertragsärztliche Versorgung |
-| [5] | [KBV_ITA_FMEX_AAZ_BFB] Antrag auf Zertifizierung Blankoformularbedruckung |
-| [6] | [KBV_ITA_RLEX_ZERT] Zertifizierungsrichtlinie der KBV |
-| [7] | https://www.kbv.de/media/sp/02a_Blankoformularbedruckung.pdf Vereinbarung über den Einsatz des Blankoformularbedruckungs- |
+| [1] | [KBV_ITA_VGEX_Technisches_Handbuch_BFB]  Technisches Handbuch Blankoformularbedruckung |
+| [2] | [KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung]  Anforderungskatalog Blankoformularbedruckung |
+| [3] | [KBV_ITA_AHEX_PRUEFPAKET_BFB]  Prüfpaket Blankoformularbedruckung |
+| [4] | http://www.kbv.de/media/sp/02_Vordruckvereinbarung.pdf  Vereinbarung über Vordrucke für die vertragsärztliche Versorgung |
+| [5] | [KBV_ITA_FMEX_AAZ_BFB]  Antrag auf Zertifizierung Blankoformularbedruckung |
+| [6] | [KBV_ITA_RLEX_ZERT]  Zertifizierungsrichtlinie der KBV |
+| [7] | https://www.kbv.de/media/sp/02a_Blankoformularbedruckung.pdf  Vereinbarung über den Einsatz des Blankoformularbedruckungs- |
 
 **Ansprechpartner:**
 

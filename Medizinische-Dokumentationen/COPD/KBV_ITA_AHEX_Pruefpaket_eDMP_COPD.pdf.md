@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | BUNDESVEREINIGUNG DEZERNAT DIGITALISIERUNG UND IT 31. MÄRZ 2026  VERSION: 1.27  DOKUMENTENSTATUS: IN KRAFT |
+|  | BUNDESVEREINIGUNG  DEZERNAT DIGITALISIERUNG UND IT  31. MÄRZ 2026   VERSION: 1.27   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # PRUEFPAKET EDMP-COPD
@@ -119,9 +119,13 @@ KASSENÄRZTLICHE IT IN DER ARZTPRAXIS
 
 26
 
-|  |  | **TESTDATENVALIDIERUNG** | **27** |
-|---|---|---|---|
-| 3.1 | Prüffall | TDV8518 | 28 |
+**TESTDATENVALIDIERUNG**
+
+**27**
+
+3.1 Prüffall TDV8518
+
+28
 
 |  | **ANHANG** |  | **30** |
 |---|---|---|---|
@@ -132,7 +136,7 @@ KASSENÄRZTLICHE IT IN DER ARZTPRAXIS
 
 **32**
 
-Prüffall TDV8518 Versichertendaten 1 Versichertendaten 2
+Versichertendaten 1 Versichertendaten 2
 
 ---
 
@@ -151,20 +155,20 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 27
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.27 | 31.03.2026 | KBV | Anpassung der Prüffälle  Anpassung Prüffall 8540 | Schnittstellenversion  Änderung der | 11      26 |
-| 1.26 | 12.02.2024 | KBV | Anpassung der Prüffälle  Änderungen der | Schnittstellenversion | 11     21 |
-| 1.25 | 15.08.2023 | KBV | Datumsanpassungen der Anpassung der | Datumsanpassungen | 11 |
-| 1.24 | 08.02.2023 | KBV | Korrektur des Datums der Erstellung der |  | 21, 23 |
-| 1.23 | 08.11.2022 | KBV | Datumsanpassungen der       Neuer Prüffall 8540 zur | Datumsanpassungen Schnittstellenversion  Anpassung an | 11ff         26 |
+| 1.27 | 31.03.2026 | KBV | Anpassung der Prüffälle    Anpassung Prüffall 8540 | Schnittstellenversion    Änderung der | 11            26 |
+| 1.26 | 12.02.2024 | KBV | Anpassung der Prüffälle    Änderungen der | Schnittstellenversion | 11          21 |
+| 1.25 | 15.08.2023 | KBV | Datumsanpassungen der  Anpassung der | Datumsanpassungen | 11 |
+| 1.24 | 08.02.2023 | KBV | Korrektur des Datums  der Erstellung der |  | 21, 23 |
+| 1.23 | 08.11.2022 | KBV | Datumsanpassungen der              Neuer Prüffall 8540 zur | Datumsanpassungen  Schnittstellenversion    Anpassung an | 11ff                  26 |
 | 1.22 | 12.08.2021 | KBV | Überarbeitung des | Überführung ins neue | Alle |
 | DOKUMENTENHISTORIE | Version |  |  | Datum | Autor |
 | Änderung |  | Begründung |  |  |  |
 |  |  | KBV | Anpassung der Prüffälle |  | Schnittstellenversion |
 |  |  |  |  |  | 26 |
-|  |  | 12.02.2024 | KBV | Anpassung der Prüffälle | Änderungen der Schnittstellenversion |
+|  |  | 12.02.2024 | KBV | Anpassung der Prüffälle | Änderungen der  Schnittstellenversion |
 | 11 |  |  |  |  |  |
-|  | 1.25 |  | 15.08.2023 KBV Datumsanpassungen der | Anpassung der Datumsanpassungen | 08.02.2023 |
-| der Erstellung der |  | 21, 23 |  | 1.23 | 08.11.2022 KBV Datumsanpassungen der |
+|  | 1.25 |  | 15.08.2023  KBV  Datumsanpassungen der | Anpassung der  Datumsanpassungen | 08.02.2023 |
+| der Erstellung der |  | 21, 23 |  | 1.23 | 08.11.2022  KBV  Datumsanpassungen der |
 | Datumsanpassungen |  | Anpassung an | 11ff |  |  |
 |  |  |  |  | 1.22 |  |
 
@@ -177,11 +181,11 @@ Schnittstellenversionen 4.07 an die 4.06 Nummerierung der Aktionen in den Prüff
 
 | 19.03.2021 | Datumsanpassungen |  | 1.20 | KBV |  |
 |---|---|---|---|---|---|
-|  | 28.02.2019 | KBV | Korrektur bei dem Feld Fehlerkorrektur 11ff |  | 11.02.2019 KBV Anpassung der Prüffälle Schnittstellenversion 11ff |
-|  | KBV | Korrektur Prüffall 8514 | 21 |  | 1.16 07.05.2018 KBV Anpassung der Prüffälle Schnittstellenversion |
-| 12.03.2018 | Einreichung des Antrags |  | Korrektur der Anpassung des |  | 6ff |
-|  |  |  | 1.14 |  | KBV Anpassung der Prüffälle  Aufnahme eines Testfalls |
-|  | 11ff |  | 28ff | 1.13 15.11.2017 KBV | Streichung der Zusatz- Schnittstellenversion  Übernahme der 11ff 23.05.2017 |
+|  | 28.02.2019 | KBV | Korrektur bei dem Feld  Fehlerkorrektur 11ff |  | 11.02.2019 KBV  Anpassung der Prüffälle  Schnittstellenversion  11ff |
+|  | KBV | Korrektur Prüffall 8514 | 21 |  | 1.16  07.05.2018 KBV  Anpassung der Prüffälle  Schnittstellenversion |
+| 12.03.2018 | Einreichung des Antrags |  | Korrektur der  Anpassung des |  | 6ff |
+|  |  |  | 1.14 |  | KBV  Anpassung der Prüffälle    Aufnahme eines Testfalls |
+|  | 11ff |  | 28ff | 1.13  15.11.2017 KBV | Streichung der Zusatz- Schnittstellenversion    Übernahme der  11ff  23.05.2017 |
 | Aktualisierung der |  |  |  |  |  |
 | 1.21 | 19.03.2021 | KBV | Datumsanpassungen der | Datumsanpassungen | 11ff |
 | 1.20 | 15.02.2021 | KBV | Anpassung der Prüffälle | Schnittstellenversion | 11ff |
@@ -189,9 +193,9 @@ Schnittstellenversionen 4.07 an die 4.06 Nummerierung der Aktionen in den Prüff
 | 1.18 | 11.02.2019 | KBV | Anpassung der Prüffälle | Schnittstellenversion | 11ff |
 | 1.17 | 15.11.2018 | KBV | Korrektur Prüffall 8514 |  | 21 |
 | 1.16 | 07.05.2018 | KBV | Anpassung der Prüffälle | Schnittstellenversion |  |
-| 1.15 | 12.03.2018 | KBV | Einreichung des Antrags  Korrektur der | Anpassung des | 6ff  24 |
-| 1.14 | 13.02.2018 | KBV | Anpassung der Prüffälle  Aufnahme eines Testfalls | Schnittstellenversion | 11ff    28ff |
-| 1.13 | 15.11.2017 | KBV | Anpassung der Prüffälle  Streichung der Zusatz- | Schnittstellenversion  Übernahme der | 11ff |
+| 1.15 | 12.03.2018 | KBV | Einreichung des Antrags    Korrektur der | Anpassung des | 6ff    24 |
+| 1.14 | 13.02.2018 | KBV | Anpassung der Prüffälle    Aufnahme eines Testfalls | Schnittstellenversion | 11ff        28ff |
+| 1.13 | 15.11.2017 | KBV | Anpassung der Prüffälle    Streichung der Zusatz- | Schnittstellenversion    Übernahme der | 11ff |
 | 1.11 | 23.05.2017 | KBV | Komplettüberarbeitung | Aktualisierung der | Alle |
 
 / Version: 1.27 / 31. März 2026
@@ -291,7 +295,7 @@ entsprechen. Diese werden durch den Prüfer begutachtet.
 
 - 1
 
-- 2.3
+- 2 3
 
 -  [PrüffallNr.] _[lfdNr.] .*
 
@@ -362,11 +366,11 @@ Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22, „se
 
 ### 1.6.1 Schnittstellenversionen - Indikation **COPD:**
 
-Ab dem **01.10.2026** muss die Schnittstellenversion **4.07** verwendet werden.
+Ab dem **01.10.2026** muss die Schnittstellenversion **4 07** verwendet werden.
 
 - Indikation **Diabetes mellitus Typ 1:**
 
-Ab dem **01.10.2026** muss die Schnittstellenversion **5.08** verwendet werden.
+Ab dem **01.10.2026** muss die Schnittstellenversion **5 08** verwendet werden.
 
 - Indikation **KHK:**
 
@@ -462,7 +466,7 @@ Folgende Default-Prüfnummern sind bei der Zertifizierung zu verwenden: - COPD =
 
 - KHK = X/102/2202/36/000
 
-- DM1 = X/104/2202/36/000
+- DM 1 = X/104/2202/36/000
 
 ### 1.6.8 Stammdatei der Datenannahmestellen (SDDA)
 
@@ -479,8 +483,8 @@ Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 | 8540 | Lija Malta | XML_36 |
 | TDV8518 | Brigitte Althaus | XML_05 |
 | Ersatzverfahren | | |
-| 6520 | Johannes Frônkenstein | Ersatzverfahren (s. Versichertendaten 1 ) |
-| 8515 | Martin Gruber | Ersatzverfahren (s. Versichertendaten 2 ) |
+| 6520 | Johannes Frônkenstein | Ersatzverfahren (s. Versichertendaten 1) |
+| 8515 | Martin Gruber | Ersatzverfahren (s. Versichertendaten 2) |
 
 # PRÜFFÄLLE
 
@@ -998,17 +1002,7 @@ Nein
 
 **INDIKATIONSÜBERGREIFENDE DATEN**
 
-| Begleiterkrankungen | Nach Funktion P1-47 des | Nach Funktion P1-47 des |
-|---|---|---|
-|  | Anforderungskatalogs | Anforderungskatalogs |
-|  | müssen die anderen | müssen die anderen |
-|  | eingeschriebenen | eingeschriebenen |
-|  | Indikationen automatisch | Indikationen automatisch |
-|  | übernommen werden. | übernommen werden. |
-|  | Für die COPD- | Für die COPD- |
-|  | Dokumentation sind | Dokumentation sind |
-|  | dieses KHK und Diabetes | dieses KHK und Diabetes |
-|  | mellitus | mellitus |
+Begleiterkrankungen
 
 **Behandlungsplanung**
 
@@ -1074,6 +1068,8 @@ Intervall für künftige Fußinspektionen (bei  Patientinnen und Patienten ab de
 
 Spätfolgen
 
+Nach Funktion P1-47 des  Anforderungskatalogs  müssen die anderen  eingeschriebenen  Indikationen automatisch  übernommen werden.  Für die COPD- Dokumentation sind  dieses KHK und Diabetes  mellitus
+
 Tabakverzicht
 
 Quartalsweise 06.04.2024 15.mm.jjjj
@@ -1101,6 +1097,8 @@ Unauffällig
 alle 6 sechs Monate
 
 Diabetische  Nephropathie
+
+Nach Funktion P1-47 des  Anforderungskatalogs  müssen die anderen  eingeschriebenen  Indikationen automatisch  übernommen werden.  Für die COPD- Dokumentation sind  dieses KHK und Diabetes  mellitus
 
 Jedes zweite Quartal 06.07.2024 15.mm.jjjj
 
@@ -1907,7 +1905,7 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 **Prüffall-ID**
 
-TDV8518
+TDV 8518
 
 **Testziel**
 
@@ -1939,9 +1937,9 @@ Anlage einer Erstdokumentation mit der Schnittstellenversion
 |  | DMP-Fallnummer |
 |  | Krankenhaus-IK |
 
-**4.06**
+**4 06**
 
-Voraussetzung Prüfunterlagen COPD-Dokumentationsunterlagen Hinweis Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten: 2. Anlegen einer Erstdokumentation INDIKATIONSÜBERGREIFENDE Administrative Daten Datum  DATEN Einschreibung wegen Geschlecht Allgemeine Anamnese- und Befunddaten Körpergröße Körpergewicht Blutdruck Raucher Begleiterkrankungen Behandlungsplanung Vom Patienten gewünschte Informationsangebote der Krankenkasse Dokumentationsintervall Datum der Erstellung PEZIFISCHE DATEN TDV8518 03.07.202 COPD  Weiblich 1,60 m 060 kg 120 / 80 mmHg Keine der genannten Erkrankungen Quartalsweise 03.07.2025 -Wertes
+Voraussetzung Prüfunterlagen COPD-Dokumentationsunterlagen Hinweis Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten: 2. Anlegen einer Erstdokumentation INDIKATIONSÜBERGREIFENDE Administrative Daten Datum  DATEN Einschreibung wegen Geschlecht Allgemeine Anamnese- und Befunddaten Körpergröße Körpergewicht Blutdruck Raucher Begleiterkrankungen Behandlungsplanung Vom Patienten gewünschte Informationsangebote der Krankenkasse Dokumentationsintervall Datum der Erstellung PEZIFISCHE DATEN TDV 8518 03.07.202 COPD  Weiblich 1,60 m 060 kg 120 / 80 mmHg Keine der genannten Erkrankungen Quartalsweise 03.07.2025 -Wertes
 
 ---
 
@@ -2046,7 +2044,7 @@ und Georg-von-Groscurth-Plaetzchen
 | EXT_ITA_VGEX_Plausi_eDMP_DM1_DM2 | Plausibilitätsrichtlinie zur Prüfung der |
 | EXT_ITA_VGEX_Plausi_eDMP_KHK | Plausibilitätsrichtlinie zur Prüfung der |
 | EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend | Plausibilitätsrichtlinie zur Prüfung der |
-| KBV_ITA_FMEX_AAZ_eDMP_COPD | Antrag auf Zertifizierung eDMP-COPD (Ergänzende Erklärung) |
+| KBV_ITA_FMEX_AAZ_eDMP_COPD | Antrag auf Zertifizierung eDMP-COPD  (Ergänzende Erklärung) |
 | [KBV_ITA_RLEX_Zert] | Zertifizierungsrichtlinie der KBV |
 | KBV_ITA_VGEX_Anforderungskatalog_eDMP | Anforderungskatalog eDMP |
 | KBV_ITA_VGEX_Schnittstelle_eDMP_COPD | Dokumentation COPD Schnittstellenbeschreibung |

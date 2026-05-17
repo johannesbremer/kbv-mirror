@@ -52,7 +52,7 @@
 
 |  |  |
 |---|---|
-| Auch hier unterscheidet sich das Profil zu dem äquivalenten Profil im eRezept-Projekt fachliche Gründe? |  |
+| Auch hier unterscheidet sich das Profil zu dem äquivalenten Profil im eRezept-Projekt  fachliche Gründe? |  |
 
 140] https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Medikament §291d Absatz 1  Das eRezept soll, sobald dieses absolut fertig ist, die Grundlage Medikament die rudimentären Informationen aller Versionen der letzten 10 Jahre übernehmen können. Auch in Zukunft soll die strukturierte Übernahme vergangener Jahre möglich sein. Aber an den Beschreibungen sieht man, dass bereits ein gewisse Harmonisierung erfolgt ist. Beschreibung (https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Medication_PZN). Gibt es hierfür
 
@@ -109,7 +109,7 @@
 
 |  |  |
 |---|---|
-| Welche Begründung gibt es für die Beschränkung von Elementen auf 0..0? Elemente, die nicht "modifizierend" geflaggt sind, sollten erlaubt werden, auch wenn Sie |  |
+| Welche Begründung gibt es für die Beschränkung von Elementen auf 0..0?  Elemente, die nicht "modifizierend" geflaggt sind, sollten erlaubt werden, auch wenn Sie |  |
 
 §291d Absatz 1 hier nur wohl definierte Informationen übertragen werden, damit ein eindeutiges Verständnis über die übertragenen Informationen vorliegt sollen nur die Use-Case-Spezifischen Informationen erlaubt sein. Beschreibung nicht Bestandteil der AWS Spezifikation sind.
 
@@ -128,7 +128,7 @@
 
 |  |  |
 |---|---|
-| Resource.meta.profile ist in allen Profilen auf 1..1 begrenzt und mit einem FixedValue Neben dem FixedValue sollten unbegrenzt weitere profile-Elemente erlaubt werden |  |
+| Resource.meta.profile ist in allen Profilen auf 1..1 begrenzt und mit einem FixedValue  Neben dem FixedValue sollten unbegrenzt weitere profile-Elemente erlaubt werden |  |
 
 §291d Absatz 1 daher nicht noch weiter zur Ableitung dienen. Die gleichzeitige Konformität weiterer Profilen wäre möglich, aber das Problem ist, dass wenn ein fixed Value angegeben worden ist, alle Einträge diesem genügen müssten. Ein Slicing ist hier nur sehr schwierig möglich. Beschreibung versehen. Dies schließt die Kompatibilität zu jeglichen weiteren Profilen aus. Zusätzliche Kompatibilitätsangaben könnten hier helfen, Daten austauschbar zu machen, die über die AWS Spezifikation hinausgehen. Bsp.: "Diese Ressource erfüllt die Anforderungen der AWS, enthält jedoch zusätzliche Informationen/Codierungen gemäß MI-I". Durch diese Angabe in einer exportierten Ressource, könnte beim Import eine erweiterte Datenübernahme getriggert werden.
 
@@ -185,7 +185,7 @@
 
 |  |  |
 |---|---|
-| Das Binding von Address.country (DEÜV Anlage8) steht in Konflikt mit dem preferred Hier sollte eine deutschlandweite Harmonisierung angestrebt werden. Alternativ: Dort wo |  |
+| Das Binding von Address.country (DEÜV Anlage8) steht in Konflikt mit dem preferred  Hier sollte eine deutschlandweite Harmonisierung angestrebt werden. Alternativ: Dort wo |  |
 
 §291d Absatz 1 angestrebt werden, allerdings ist der Standard in der vertragsärztlichen Versorgung derzeit DEÜV Beschreibung Binding in FHIR Core, den Deutschen Basisprofilen, der MI-I und IsiK (ISO- Ländercodes). DEÜV benötigt wird country ungebunden lassen und den DEÜV-Code in einer Extension anhängen, um beide Codierungen zu erlauben.
 
@@ -223,7 +223,7 @@ Schnittstelle gemäß §291d Absatz 1 verwenden Beschreibung  für LANR
 
 |  |  |
 |---|---|
-| Der (abweichende) Rechnungsempfänger ist in AWS als Patient.contact modelliert, in IsiK Sollte bilateral harmonisiert werden. |  |
+| Der (abweichende) Rechnungsempfänger ist in AWS als Patient.contact modelliert, in IsiK  Sollte bilateral harmonisiert werden. |  |
 
 §291d Absatz 1 Krankenversicherungsverhältnis, nur über ein Profil Abrechnung_Privat(Claim) abgebildet. In Zukunft und mit vorhandensein eines übergreifenden Krankenversicherungsverhältnisses kann dieses Konstrukt aber nochmal überdacht werden Beschreibung jedoch als Coverage.payor (Selbstzahler).
 
@@ -337,7 +337,7 @@ Schnittstelle gemäß §291d Absatz 1 Beschreibung
 
 |  |  |
 |---|---|
-| Die Modellierung von Coverage.payor wird auf Anregung des GKV in den Basisprofilen Harmonisierung |  |
+| Die Modellierung von Coverage.payor wird auf Anregung des GKV in den Basisprofilen  Harmonisierung |  |
 
 §291d Absatz 1 angepasst (payor 1..1 und abrechnendeIK als Extension) Beschreibung
 
@@ -356,7 +356,7 @@ Schnittstelle gemäß §291d Absatz 1 Beschreibung
 
 |  |  |
 |---|---|
-| Warum ist die Extension komplex, wenn sie nur einen einfachen String enthält...? Könnte hier nicht die international standardisierte Translate-Extension verwendet werden? |  |
+| Warum ist die Extension komplex, wenn sie nur einen einfachen String enthält...?  Könnte hier nicht die international standardisierte Translate-Extension verwendet werden? |  |
 
 §291d Absatz 1 Übersetzung=Translation angelehnt. Dies ist durch SNOMED explizit verboten, daher haben wir etwas sehr ähnliches erstellt. Beschreibung
 
@@ -375,7 +375,7 @@ Schnittstelle gemäß §291d Absatz 1 Beschreibung
 
 |  |  |
 |---|---|
-| Die Seitenlokalisation ist, wie bei der ICD -10 Kodierung, als Bestandteil des Codes und nicht der Entsprechen der Vorgaben der Deutschen Basisprofile sollte eine Extension |  |
+| Die Seitenlokalisation ist, wie bei der ICD -10 Kodierung, als Bestandteil des Codes und nicht der  Entsprechen der Vorgaben der Deutschen Basisprofile sollte eine Extension |  |
 
 §291d Absatz 1 bodySite zu betrachten. (https://simplifier.net/basisprofil-de-r4/extension-seitenlokalisation) and Procdure.code.coding verwendet werden. Beschreibung
 
@@ -413,7 +413,7 @@ Schnittstelle gemäß §291d Absatz 1 Beschreibung
 
 |  |  |
 |---|---|
-| LOINC Kodierung sollte für Blutdruck-Komponenten verwendet werden um mit den Übernahme der LOINC Codes aus https://www.hl7.org/fhir/bp.html |  |
+| LOINC Kodierung sollte für Blutdruck-Komponenten verwendet werden um mit den  Übernahme der LOINC Codes aus https://www.hl7.org/fhir/bp.html |  |
 
 §291d Absatz 1 und sobald diese verfügbar sind in die AWS integriert. internationalen HL7 VitalSign Profilen und anderen nationalen Projekten (Siehe COCOS Initative) interoperabel zu bleiben. Beschreibung
 
@@ -451,6 +451,6 @@ Schnittstelle gemäß §291d Absatz 1 Beschreibung
 
 |  |  |
 |---|---|
-| LOINC Kodierung sollte für Raucherstatus verwendet werden um mit interrnationalen  Das folgende LOINC Answer Set sollte verwendet werden: https://loinc.org/LL2201-3/. Ein Code für "Unbekannt" kann auf Basis des Data-Absent-Reason CodeSystem o.Ä. in ein |  |
+| LOINC Kodierung sollte für Raucherstatus verwendet werden um mit interrnationalen    Das folgende LOINC Answer Set sollte verwendet werden: https://loinc.org/LL2201-3/.  Ein Code für "Unbekannt" kann auf Basis des Data-Absent-Reason CodeSystem o.Ä. in ein |  |
 
 §291d Absatz 1 und sobald diese verfügbar sind in die AWS integriert. Beschreibung Initativen interoperable zu belieben. ValueSet gebunden werden.

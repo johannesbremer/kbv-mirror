@@ -105,7 +105,7 @@ alle Änderungen mit Änderungsdatum, Autor,
 
 3.3 Labor-Informationssystem (LIS) ......................................................................................10
 
-3.4 Einsender ........................................................................................................................10
+3 4 Einsender ........................................................................................................................10
 
 3.5 Labor ...............................................................................................................................11
 
@@ -506,7 +506,7 @@ Unter Labor-Informationssystem (LIS) ist ein System zur  und Verarbeitung der Da
 
 Probeneingang/Auftragserfassung über die einzelnen Analytik -Schritte bis zur  1
 
-Befundung und Abrechnung 0F0F . (Im Fall der Erzeugung eines Auftrages zur
+Befundung und Abrechnung 0F 0F . (Im Fall der Erzeugung eines Auftrages zur
 
 Weiterüberweisung von Untersuchungsaufträgen an andere Labore fungiert das LIS
 
@@ -522,12 +522,13 @@ Teilprozessen notwendig sind.
 
 Einsender können neben Arztpraxen und Kliniken auch Verwaltungseinrichtungen,  Polizei, sonstige Justizbehörden , Unternehmen oder auch natürliche Personen sein.
 
-| 1 Im | Sinne dieser | Datensatzbeschreibung |
-|---|---|---|
-| verstehen |  |  |
-| 2 Natürliche | Personen | sind in der |
-|  | Untersuchungsauftrag | direkt in einem |
-| alle | weiteren Aufgaben | zur Stammdatenerfassung, |
+1 Im Sinne dieser Datensatzbeschreibung sind auch eingesetzte Kommunikationssysteme unter der Bezeichnung LIS zu
+
+verstehen
+
+2 Natürliche Personen sind in der Satzbeschreibung nicht separat aufgeführt. Für den Fall, dass eine natürliche Person einen  Untersuchungsauftrag direkt in einem Laborstandort einreicht, fungiert
+
+alle weiteren Aufgaben zur Stammdatenerfassung, Abrechnung und zur Definition des Befundempfängers.
 
 ***führendes*** System
 
@@ -537,9 +538,9 @@ elektronischen Verwaltung
 
 Workflow -Steuerung vom
 
-lung von 2 1F1F
+lung von 2 1F 1F
 
-Im Sinne dieser Datensatzbeschreibung sind auch eingesetzte Kommunikationssysteme unter der Bezeichnung LIS zu Natürliche Personen sind in der Satzbeschreibung nicht separat aufgeführt. Für den Fall, dass eine natürliche Person einen Untersuchungsauftrag direkt in einem Laborstandort einreicht, fungiert alle weiteren Aufgaben zur Stammdatenerfassung, Abrechnung und zur Definition des Befundempfängers.das annehmende Labor als Einsender und übernimmt
+das annehmende Labor als Einsender und übernimmt
 
 
 ---
@@ -827,26 +828,53 @@ Obj_Abrechnungsinformationen
 
 Obj_Material
 
-| Obj_ |  | Obj_ |  | Obj_ |  | Obj_ |
-|---|---|---|---|---|---|---|
-| Laborergeb |  | Laborergeb |  | Laborergeb |  | Laborergeb |
-| nis-bericht |  | nis-bericht |  | nis-bericht |  | nis-bericht |
-| Satzart 8205 |  |  |  |  |  |  |
-| Obj_ |  | Obj_ |  | Obj_ |  | Obj_ |
-| Untersuchu |  | Untersuchu |  | Untersuchu |  | Untersuchu |
-| ngs- |  | ngs- |  | ngs- |  | ngs- |
-| anforderung |  | anforderung |  | anforderung |  | anforderung |
-|  |  |  |  | 8215 |  |  |
-|  |  |  |  | Analytik, |  |  |
-| Obj_Material |  |  |  | Obj_Material |  |  |
+Obj_
 
-LIS
+Obj_
+
+Untersuchu
+
+Untersuchu
+
+ngs-
+
+ngs-
+
+anforderung
+
+anforderung
+
+Satzart 8215
+
+LIS (Workflow-Management, Analytik, Befundung)
+
+Obj_Befundinformationen   Obj_Material
+
+Obj_
+
+Obj_
 
 Obj_Auftragsinformation
 
 Obj_Material
 
+Obj_  Untersuchu ngs- anforderung
+
+Obj_Material
+
+Obj_
+
 Obj_Veranlassung sgrund
+
+Obj_  Untersuchu ngs- anforderung
+
+Obj_
+
+Laborergeb nis-bericht
+
+Satzart 8205
+
+Laborergeb nis-bericht
 
 Obj_Einsenderidentifikation
 
@@ -872,6 +900,8 @@ Scansystem
 
 Über das Scansystem werden die Aufträge verschiedener Einsender , die in  Papierform an das Labor gestellt werden, erfasst und dann ein vollständiger LDT  generiert. Dabei ist das sendende System das eingesetzte System für die  maschinelle Schrift- (OCR) und Markierungserkennung (OMR).
 
+Laborergeb nis-bericht
+
 Obj_Patient
 
 sich
@@ -880,13 +910,15 @@ oder im
 
 Gleichzeitig
 
+Laborergeb nis-bericht
+
 Obj_  Laborkennung
 
 verschiedene
 
 Versand von
 
-Satzart 8215 (Workflow-Management, Analytik, Befundung) Obj_Befundinformationen sind die
+sind die
 
 
 ---
@@ -897,50 +929,82 @@ Der Einsender ist jeweils derjenige, der den Auftrag in Papierform an das Labor 
 
 **4.1.2** **Teilprozess – Datenübergabe aus dem Primärsystem an**
 
-| Primärsystem | ➔ | **LIS** |
-|---|---|---|
-| Aus dem Primärsystem werden | die | Patientenstamm-, Abrechnungs |
-| Auftragsdaten sowie eine |  | systemeigene Auftragsnummer |
-| Ergänzung um eine Patienten | – ID | ist für die nachfolgende |
-| zu den Patientendaten im |  | Primärsystem empfehlenswert. |
-| Anforderungsworkflow | einschließlich | der Kürz ellisten |
-| Leistungsverzeichnisse liegen | im | Primärsystem. |
-| **4.1.3 Teilprozess–** | **Datenübergabe** | **LIS an Primärsystem** |
-| LIS | ➔ | **Primärsystem** |
-| Das LIS übermittelt nach | der | Fertigstellung des Auftrags die |
-| angeforderten Untersuchungen |  | einschließlich der vergebenen |
-| des Labors als Befund | zurück | an das Primärsystem zur |
-| Darstellung der Labordaten. |  |  |
-| **4.1.4 Teilprozess–** | **Datenübergabe** | **aus dem Primärsystem** |
-| Primärsystem | ➔ | **Order Entry** |
-| Aus dem Primärsystem | werden | die Patientenstamm -, |
-| Diagnosedaten sowie eine |  | systemeigene Auftragsnummer |
-| Ergänzung um eine Patienten | – ID | istfür die nachfolgende |
-| zu den Patientendaten im |  | Primärsystem empfehlenswert. |
-| Anforderungsworkflow | einschließlich | der Kürzellisten |
-| Leistungsverzeichnisse liegt | im Order | Entry. |
-| **4.1.5 Teilprozess–** | **Datenübergabe** | **Order/Entry an** |
-| Order Entry | ➔ | **Primärsystem** |
+Primärsystem
 
-jeder Auftragsdatensatz kann
+jeder Auftragsdatensatz
+
+Aus dem Primärsystem werden die Patientenstamm Auftragsdaten sowie eine systemeigene
+
+Ergänzung um eine Patienten  ID ist für die nachfolgende Zuordnung des Befundes
+
+zu den Patientendaten im Primärsystem
+
+Anforderungsworkflow einschließlich  Leistungsverzeichnisse liegen im Primärsystem.
+
+**4.1.3** **Teilprozess – Datenübergabe**
+
+LIS
+
+kann
+
+**LIS**
+
+-, Abrechnungs
+
+Auftragsnummer übermittelt.
+
+empfehlenswert.
+
+der Kürz ellisten und
+
+#### LIS an Primärsystem
+
+**Primärsystem**
+
+Das LIS übermittelt nach der Fertigstellung des Auftrags die  angeforderten Untersuchungen einschließlich der vergebenen Auftragsnummern  des Labors als Befund zurück an das Primärsystem zur Übernahme in die
+
+Darstellung der Labordaten.
+
+**4.1.4** **Teilprozess – Datenübergabe aus dem Primärsystem an O**
+
+Primärsystem
+
+**Order Entry**
+
+Aus dem Primärsystem werden die Patientenstamm -, Abrechnungs
+
+Diagnosedaten sowie eine systemeigene Auftragsnummer übermittelt.
+
+Ergänzung um eine Patienten  ID ist für die nachfolgende Zuordnung des Befundes
+
+zu den Patientendaten im Primärsystem empfehlenswert.
+
+Anforderungsworkflow einschließlich der Kürzellisten
+
+Leistungsverzeichnisse liegt im Order Entry.
+
+**4.1.5** **Teilprozess – Datenübergabe Order/Entry an Primärsystem**
+
+Order Entry
+
+**Primärsystem**
 
 Das Order Entry übermittelt nach der Fertigstellung des Auftrags die Übersicht der  angeforderten Untersuchungen einschließlich der vergebenen Auftragsnummern  des Labors zurück an das Primärsystem zur Aufnahme in die Labordaten des  Primärsystems.
 
 im Obj_ 0022  im
 
-#### LIS
+#### LIS - Diagnose- und  Eine
 
-Eine
+Der komplette  ggf.
 
-komplette  ggf.
+Ergebnisse der
 
 #### rder/Entry
 
 und  Eine
 
-ggf.
+Der komplette  und ggf.
 
-Aus dem Primärsystem werden die Patientenstamm ID ist für die nachfolgende Zuordnung des Befundes Anforderungsworkflow einschließlich Leistungsverzeichnisse liegen im Primärsystem. – Datenübergabe übermittelt. ellisten und Das LIS übermittelt nach der Fertigstellung des Auftrags die angeforderten Untersuchungen einschließlich der vergebenen Auftragsnummern zurück an das Primärsystem zur Übernahme in die – Datenübergabe aus dem Primärsystem an O werden die Auftragsnummer übermittelt. ID ist für die nachfolgende Zuordnung des Befundes Leistungsverzeichnisse liegt im Order Entry. – Datenübergabe Order/Entry an Primärsystem - Diagnose- und Der Ergebnisse der Der komplette
 
 ---
 
@@ -1040,7 +1104,7 @@ Labor
 
 Ein **Datenpaket** ist in **Sätze** unterteilt.  **3**
 
-Ein **Satz** ist unterteilt in **Objektattribute**2F2F und/oder in **Felder.**
+Ein **Satz** ist unterteilt in **Objektattribute**2F 2F und/oder in **Felder.**
 
 Ein **Objekt** ist wiederum unterteilt in **Felder** und/oder **Objektattribute³**
 
@@ -1160,15 +1224,15 @@ mehr erfolgt. Es wird vielmehr auf eine komplette elektronische Übermittlung mi
 
 **SA Übertragung mittels gesicherter Strukturen, vorrangig KV-Connect**
 
-| 8220 | Satz „8220“ ist pro Datei einmal vorhanden. Er ist als erster Satz zu übertragen. |
-|---|---|
-| 8205 | Satz „8205“ folgt in beliebiger Anzahl (≥ 1) und in beliebiger Reihenfolge auf den Satz |
+8220 Satz 8220 ist pro Datei einmal vorhanden. Er ist als erster Satz zu übertragen.
 
-8220
+Satz 8205 folgt in beliebiger Anzahl (≥ 1) 8205  8220
 
 8221 Satz 8221 ist pro Datei einmal vorhanden. Er ist als letzter Satz zu übertragen.
 
 auf den Satz 8230
+
+und in beliebiger Reihenfolge auf den Satz
 
 **6.3** **Satzaufbau**
 
@@ -1412,9 +1476,9 @@ d. h. ohne Feldinhalt bzw. nur mit Leerzeichen gefüllt, zu übertragen.
 
 FK
 
-| Inhalt | Bezeichnung des Feldes | Geburtsdatum |
-|---|---|---|
-| 4Feldlänge | Feldlänge in Bytes | 8 |
+Inhalt  4
+
+Feldlänge3F3 F
 
 **Bedeutung**
 
@@ -1429,6 +1493,10 @@ Feldkennung
 **Bedeutung**
 
 Feldkennung, Identifikation
+
+Bezeichnung des Feldes
+
+Feldlänge in Bytes
 
 Format
 
@@ -1479,7 +1547,11 @@ LDT“ gefüllt, alle weiteren Spalten bleiben
 
 3103
 
-d 3F3 F, bei
+Geburtsdatum 8
+
+d
+
+, bei
 
 
 ---
@@ -1606,223 +1678,31 @@ Dieser Standard entspricht
 
 Gesundheitskarte), sodass nach dem Einlesen und Weiterverarbeiten die Daten  ohne Veränderung übernommen werden können.
 
-Dec
-
-**0 16 32 48 64**
-
-Hex **0** **1** **2** **3** **4**
-
-SP 0
-
-**0 0**
-
-1 A
-
-**1 1**
-
-2 B
-
-**2 2**
-
-3 C
-
-**3 3**
-
-4 D
-
-**4 4**
-
-5 E
-
-**5 5**
-
-6
-
-**6 6**
-
-7 G
-
-**7 7**
-
-dem
-
-**80**
-
-**5**
-
-P
-
-Q
-
-R
-
-S
-
-T
-
-U
-
-F V
-
-W
-
-Standard
-
-**96**
-
-**6**
-
-a
-
-b
-
-c
-
-d
-
-e
-
-f
-
-g
-
-**112 128**
-
-**7** **8**
-
-p
-
-q
-
-r
-
-s
-
-t
-
-u
-
-v
-
-w
-
-**8 8**
-
-**9 9**
-
-**10 A**
-
-**11 B**
-
-**12 C**
-
-**13 D**
-
-**14 E**
-
-**15 F**
-
-8
-
-9
-
-LF
-
-CR
-
-H X h x
-
-I Y i y
-
-J Z j z
-
-K
-
-k
-
-L
-
-l
-
-M
-
-m
-
-N
-
-n
-
-O
-
-o DEL
+| Dec | **0 16** | **32 4864** | **80** | **96 112** | **128 144** | **160 176** | **192 208** | **224 240** |
+|---|---|---|---|---|---|---|---|---|
+| Hex | **0 14** | **2 3** | **5** | **6 7** | **8 9** | **A B** | **C D** | **E F** |
+|  | **@00** | SP 0 | P | ` p |  | ° | À Ð | à ð |
+|  | **A11** | ! 1 | Q | a q |  | ¡ ± | Á Ñ | á ñ |
+|  | **B22** | „ 2 | R | b r |  | ¢ ² | Â Ò | â ò |
+|  | **C33** | # 3 | S | c s |  | £ ³ | Ã Ó | ã ó |
+|  | **D44** | $ 4 | T | d t |  | € Ž | Ä Ô | ä ô |
+|  | **E55** | % 5 | U | e u |  | ¥ µ | Å Õ | å õ |
+|  | **666** | & | F V | f v |  | Š ¶ | Æ Ö | æ ö |
+|  | **G77** | ‚ 7 | W | g w |  | § · | Ç × | ç ÷ |
+| **8 8** |  | ( 8 | H X | h x |  | š ž | È Ø | è ø |
+| **9 9** |  | ) 9 | I Y | i y |  | © ¹ | É Ù | é ù |
+| **10 A** | LF | * : | J Z | j z |  | ª º | Ê Ú | ê ú |
+| **11 B** |  | + ; | K [ | k { |  | « » | Ë Û | ë û |
+| **12 C** |  | , < | L \ | l \| |  | ¬ Œ | Ì Ü | ì ü |
+| **13 D** | CR | - = | M ] | m } |  | SHY œ | Í Ý | í ý |
+| **14 E** |  | . > | N ^ | n ~ |  | ® Ÿ | Î Þ | î þ |
+| **15 F** |  | / ? | O _ | o DEL |  | ¯ ¿ | Ï ß | ï ÿ |
+
+dem Standard
 
 der eGK
 
-**144 160 176**
-
-**9** **A** **B**
-
-²
-
-³
-
-Ž
-
-µ
-
-Š
-
-š ž
-
-¹
-
-ª º
-
-Œ
-
-SHY œ
-
-Ÿ
-
 Diese (elektronischen
-
-**192 208 224 240**
-
-**C** **D** **E** **F**
-
-À Ð à ð
-
-Á Ñ á ñ
-
-Â Ò â ò
-
-Ã Ó ã ó
-
-Ä Ô ä ô
-
-Å Õ å õ
-
-Æ Ö æ ö
-
-Ç
-
-ç
-
-È Ø è ø
-
-É Ù é ù
-
-Ê Ú ê ú
-
-Ë Û ë û
-
-Ì Ü ì ü
-
-Í Ý í ý
-
-Î Þ î þ
-
-Ï ß ï ÿ
 
 
 ---
@@ -1968,9 +1848,7 @@ Satzende
 
 **8.1** ** Satzart: L (Labor)-Datenpake**
 
-|  |  |  | **Vorkommen** | **Feldbezeichnung** | **Feldart** | **Bedingung** | **Erläuterung/Hinwei** |
-|---|---|---|---|---|---|---|---|
-|  |  |  | **1 2 3 4** |  |  |  | **s** |
+**FK**
 
 8000
 
@@ -1986,11 +1864,12 @@ Satzende
 
 **FK**
 
-8000
-
-|  |  |  | 1 | Prüfsumme | M | E157 |  |
+|  |  |  | 1 | Satzart | M |  | 8221 |
 |---|---|---|---|---|---|---|---|
+|  |  |  | 1 | Prüfsumme | M | E157 |  |
 |  |  |  | 1 | Satzende | M |  | 8221 |
+
+**Vorkommen**  **1 2 3 4**
 
 1
 
@@ -2010,9 +1889,9 @@ Satzende
 
 **Vorkommen Feldbezeichnung**  **1 2 3 4**
 
-1
-
 5 An dieser Stelle wird das Labor benannt, welches den Auftrag ursprünglich entgegen genommen hat.
+
+**Feldbezeichnung**
 
 Satzart
 
@@ -2020,7 +1899,7 @@ Kopfdaten
 
 Obj_0032 (Obj_Kopfdaten) 5
 
-Laborkennung4F4F
+Laborkennung4F 4F
 
 Obj_0036 (Obj_Laborkennung)
 
@@ -2030,11 +1909,11 @@ Obj_0019 (Obj_Betriebsstaette)
 
 Satzende
 
-Satzart
-
 ## t-Header „8220“
 
 **-Abschluss „8221“**
+
+**Feldart**
 
 M
 
@@ -2054,11 +1933,13 @@ M
 
 **Feldart**
 
-M
+**Bedingung**
 
 K083  K084  K092
 
 **Bedingung**
+
+**Erläuterung/Hinwei** **s**
 
 8220
 
@@ -2066,9 +1947,7 @@ K083  K084  K092
 
 **Erläuterung/Hinweis**
 
-8221
-
-FK 9300 8001
+8000 9300 8001
 
 ---
 
@@ -2098,17 +1977,14 @@ FK 9300 8001
 
 **FK**
 
-8000
-
-|  |  |  | 1 | Prüfsumme | M | E157 |  |
+|  |  |  | 1 | Satzart | M |  | 8231 |
 |---|---|---|---|---|---|---|---|
+|  |  |  | 1 | Prüfsumme | M | E157 |  |
 |  |  |  | 1 | Satzende | M |  | 8231 |
 
 1
 
 **Vorkommen**  **1 2 3 4**
-
-1
 
 **-Datenpaket-Header „8230“**
 
@@ -2130,8 +2006,6 @@ Satzende
 
 **Feldbezeichnung**
 
-Satzart
-
 **Feldart**
 
 M
@@ -2149,8 +2023,6 @@ m
 M
 
 **Feldart**
-
-M
 
 **Bedingung**
 
@@ -2166,18 +2038,14 @@ K042
 
 8230
 
-**Erläuterung/Hinweis**
-
-9300 8001 8231
+8000 9300 8001 **Erläuterung/Hinweis**
 
 
 ---
 
 **8.5** **Satzart: Befund „8205“**
 
-|  |  |  | **Vorkommen** | **Feldbezeichnung** | **Feldart** | **Bedingung** | **Erläuterung/Hinwei** |
-|---|---|---|---|---|---|---|---|
-|  |  |  | **1 2 3 4** |  |  |  | **s** |
+**FK Vorkommen**  **1 2 3**
 
 8000 1
 
@@ -2241,9 +2109,15 @@ K042
 
 7 Die AG LDT empfiehlt, immer eine PDF
 
+**Feldbezeichnung**
+
+**Feldart**
+
+**4**
+
 Satzart 6
 
-Laborkennung5F5F
+Laborkennung5F 5F
 
 Obj_0036 (Obj_Laborkennung)
 
@@ -2291,13 +2165,15 @@ Zusaetzliche_Informationen
 
 Obj_0068 (Obj_Fließtext) 7
 
-Anhang6F6F
+Anhang6F 6F
 
 Obj_0010 (Obj_Anhang)
 
 t werden, die Unteraufträge bearbeitet haben
 
 -Datei des Befundes in den LDT Datensatz (Satzart 8205) einzubetten.
+
+**Bedingung**
 
 K005  K063
 
@@ -2365,9 +2241,13 @@ m
 
 K
 
-m 8205
+m
 
-FK 1    2    3
+**Erläuterung/Hinwei**
+
+**s**
+
+8205
 
 
 ---
@@ -2376,15 +2256,16 @@ FK 1    2    3
 |---|---|---|---|---|---|
 | 8001 | 1 | Satzende | M |  | 8205 |
 
-FK Vorkommen 1    2    3 Feldbezeichnung Feldart Bedingung Erläuterung/Hinwei
+**Vorkommen**
+
+FK 1    2    3 Feldbezeichnung Feldart Bedingung **Erläuterung/Hinwei**
+
 
 ---
 
 **8.6** **Satzart: Auftrag „8215“**
 
-|  |  |  | **Vorkommen** | **Feldbezeichnung** | **Feldart** | **Bedingung** | **Erläuterung/Hinwei** |
-|---|---|---|---|---|---|---|---|
-|  |  |  | **1 2 3 4** |  |  |  | **s** |
+**FK Vorkommen**  **1 2 3 4**
 
 8000 1
 
@@ -2430,9 +2311,13 @@ FK Vorkommen 1    2    3 Feldbezeichnung Feldart Bedingung Erläuterung/Hinwei
 
 8137  n
 
-|  |  |  | 1 | Obj_0037 (Obj_Material) | m |  |  |
-|---|---|---|---|---|---|---|---|
-|  | 8159 |  | n | Untersuchungsanforderung | m | K069 |  |
+1
+
+n 8159
+
+**Feldbezeichnung**
+
+**Feldart**
 
 Satzart
 
@@ -2473,6 +2358,12 @@ Abrechnungsinformation
 Obj_0001  (Obj_Abrechnungsinformationen)
 
 Material
+
+Obj_0037 (Obj_Material)
+
+Untersuchungsanforderung
+
+**Bedingung**
 
 K011  K020  K025  K027  K031  K032  K042  K063
 
@@ -2528,33 +2419,46 @@ m
 
 k
 
-K069 8215
+K069
 
-FK 2   3    4
+m
+
+m
+
+K069
+
+**Erläuterung/Hinwei** **s**
+
+8215
+
 
 ---
 
-|  |  |  | **Vorkommen** | **Feldbezeichnung** | **Feldart** | **Bedingung** | **Erläuterung/Hinwei** |
-|---|---|---|---|---|---|---|---|
-|  |  |  | **1 2 3 4** |  |  |  | **s** |
+**FK**
 
 8167
 
 8110
 
-|  |  |  | 1 | Obj_0010 (Obj_Anhang) | m |  |  |
-|---|---|---|---|---|---|---|---|
-|  |  |  | 1 | Satzende | M |  | 8215 |
+8001
 
 8
 
-Hinweis 7F7F 1
+Hinweis 7F 7F
+
+**Vorkommen**  **1 2 3 4**
+
+1
 
 n 1
 
-n
+n 1
+
+1
 
 8 Da die Informationen FK 4202 (Unfall, Unfallfolgen) ergänzend zur FK 4221 (Kurativ/Präventiv/ESS/bei belegärztl.  Behandlung) übertragen wird, sind die Labor -Anforderungen, die im Zusammenhang mit Unfall/Unfallfolgen beauftragt  werden, in einer separaten Satzart 8215 zu übermitteln.
+
+**Feldbezeichnung**
 
 Obj_0059  (Obj_Untersuchungsanforderung)
 
@@ -2564,6 +2468,12 @@ Obj_0068 (Obj_Fließtext)
 
 Anhang
 
+Obj_0010 (Obj_Anhang)
+
+Satzende
+
+**Feldart**
+
 m
 
 K
@@ -2572,7 +2482,16 @@ m
 
 K
 
-FK 2   3    4 8001
+m
+
+M
+
+**Bedingung**
+
+**Erläuterung/Hinwei** **s**
+
+8215
+
 
 ---
 
@@ -2847,10 +2766,9 @@ Eine Person kann mehrere Vornamen haben. Im Deutschen stehen die Vornamen (als  
 
 3105
 
-3107
-
-|  |  |  |  | E002 | Letzter Stand im Bezugszeitraum, Art der Versicherung des Patienten basierend auf dem |
+| 3107 | Straße | ≤ 46 | alnum |  | Straßenbezeichnung als Freitext |
 |---|---|---|---|---|---|
+|  |  |  |  | E002 | Letzter Stand im Bezugszeitraum, Art der Versicherung des Patienten basierend auf dem |
 | 3108 | Versichertenart | 1 | num |  |  |
 |  |  |  |  | K056 | Beschäftigungsstatus und dem Verhältnis zum Versicherten. |
 
@@ -2858,9 +2776,9 @@ Eine Person kann mehrere Vornamen haben. Im Deutschen stehen die Vornamen (als  
 
 3110
 
-3112
-
-3113
+| 3112 | Postleitzahl (PLZ) | ≤ 10 | alnum | K017 |  |
+|---|---|---|---|---|---|
+| 3113 | Ort | ≤ 40 | alnum |  | Bezeichnung des Ortes |
 
 3114
 
@@ -2872,35 +2790,17 @@ Eine Person kann mehrere Vornamen haben. Im Deutschen stehen die Vornamen (als  
 
 Versichertennummer
 
-Straße
-
 Hausnummer
 
 Geschlecht
 
-Postleitzahl (PLZ)
-
-Ort
-
 Wohnsitzländercode 6  12
 
-≤ 46
-
 ≤ 9 1
-
-≤ 10
-
-≤ 40
 
 ≤ 3
 
 num
-
-alnum
-
-alnum
-
-alnum
 
 alnum
 
@@ -2914,19 +2814,13 @@ E019  K094
 
 K017
 
-K017
-
 Ein System von Abschlussbezeichnungen, die von Hochschulen aufgrund eines erfolgreich  abgeschlossenen Studiums oder aufgrund einer besonderen wissenschaftlichen Leistung  vergeben werden. Ein akademischer Grad wird nach einem mit Hochschulprüfung  abgeschlossenen Studium durch eine Urkunde verliehen (Graduierung).
 
 Die Krankenversichertennummer ist Bestandteil der Daten, die auf der  Krankenversicherungskarte (nicht eGK) enthalten sind und wird benötigt, damit  Leistungserbringer mit der zuständigen Krankenkasse abrechnen können.
 
-Straßenbezeichnung als Freitext
-
 Eine Hausnummer ist die Bezeichnung, die ein bestimmtes Gebäude in einer Straße oder  einem Ort eindeutig identifiziert. Sie dient der Adressierung, Orientierung und der  Auffindbarkeit eines Gebäudes.
 
 Geschlecht der Person
-
-Bezeichnung des Ortes
 
 Offizielle Kurzbezeichnung des Wohnsitzstaates (z.B. D = Deutschland, A = Österreich)  Codierung gemäß DEÜV (Staatsangehörigkeit und Länderkennzeichen für  Auslandsanschriften):
 
@@ -2939,9 +2833,9 @@ Offizielle Kurzbezeichnung des Wohnsitzstaates (z.B. D = Deutschland, A = Öster
 
 3120
 
-3121
-
-3122
+| 3121 | PostfachPLZ | ≤ 10 | alnum | K017 | Postleitzahl des Postfaches |
+|---|---|---|---|---|---|
+| 3122 | PostfachOrt | ≤ 40 | alnum |  | Ortsbezeichnung des Postfaches |
 
 3123
 
@@ -2951,19 +2845,11 @@ Versicherten_ID
 
 Vorsatzwort
 
-PostfachPLZ
-
-PostfachOrt
-
 Postfach
 
 PostfachWohnsitzlaenderc ode 10
 
 ≤ 20
-
-≤ 10
-
-≤ 40
 
 ≤ 8
 
@@ -2977,13 +2863,7 @@ alnum
 
 alnum
 
-alnum
-
-alnum
-
 F013  K025  K091
-
-K017
 
 K017
 
@@ -3009,10 +2889,6 @@ Sie gehören nicht zum Familiennamen.
 
 Beispiel: Peter von der Höhe trägt den Nachnamen „Höhe“, das „von der sind Vorsatzworte.
 
-Postleitzahl des Postfaches
-
-Ortsbezeichnung des Postfaches
-
 Ein Postfach ist eine Einrichtung, bei der der Empfänger seine Post in einem abschließbaren  Fach in einer Postfiliale abholen kann.
 
 offizielle Kurzbezeichnung des Wohnsitzstaates für das Postfach (z.B. D = Deutschland, A =  Österreich)
@@ -3022,11 +2898,10 @@ offizielle Kurzbezeichnung des Wohnsitzstaates für das Postfach (z.B. D = Deuts
 
 3130
 
-3131
-
-3132
-
-3133
+| 3131 | Teilnahme von | 8 | date | F002 |  |
+|---|---|---|---|---|---|
+| 3132 | Teilnahme bis | 8 | date | F002 |  |
+| 3133 | Datum der Antragstellung | 8 | date | F002 |  |
 
 3134
 
@@ -3046,12 +2921,6 @@ offizielle Kurzbezeichnung des Wohnsitzstaates für das Postfach (z.B. D = Deuts
 
 Einschreibestatus  Selektivverträge
 
-Teilnahme von
-
-Teilnahme bis
-
-Datum der Antragstellung
-
 Bezeichnung des Selektiv- vertrages
 
 HPV-Impfung
@@ -3068,12 +2937,6 @@ Ko-Test
 
 Zeitraum sofort 1
 
-8
-
-8
-
-8
-
 ≤ 60 1
 
 1
@@ -3089,12 +2952,6 @@ Zeitraum sofort 1
 1
 
 num
-
-date
-
-date
-
-date
 
 alnum
 
@@ -3113,12 +2970,6 @@ num
 num
 
 E041
-
-F002
-
-F002
-
-F002
 
 E168
 
@@ -3153,12 +3004,12 @@ Muster 39
 
 ---
 
-3321
-
-3322
-
-|  |  |  |  | K071 | !Rnnnn (n= 0-9); Regeln unter Punkt 4.5 in Technische Spezifikation Eurocode unter |
+|  |  |  |  | F023 |  |
 |---|---|---|---|---|---|
+| 3321 | Zeitraum in Monaten | 1 - 5 | alnum | K123 | Muster 39 |
+|  |  |  |  | K124 |  |
+| 3322 | Alterskategorie | 1 | num | E167 | Muster 39 |
+|  |  |  |  | K071 | !Rnnnn (n= 0-9); Regeln unter Punkt 4.5 in Technische Spezifikation Eurocode unter |
 | 3412 | Blutgruppe-Eurocode | 6 | alnum |  |  |
 |  |  |  |  | K078 | http://www.eurocode.org/guides/structures/EurocodeTechnicalSpecification-2-0-0.pdf |
 
@@ -3168,19 +3019,13 @@ Muster 39
 |---|---|---|---|---|---|
 | 3414 |  | ≤ 60 | alnum |  | Freitext |
 |  | throzytenantigene |  |  | K078 |  |
-
 |  | Spezifität Erythrozyten- |  |  | K071 |  |
-|---|---|---|---|---|---|
 | 3415 |  | ≤ 60 | alnum |  | Freitext |
 |  | antikörper |  |  | K078 |  |
-
 |  | Spezifität HLA-, HPA-, |  |  | K071 |  |
-|---|---|---|---|---|---|
 | 3416 |  | ≤ 60 | alnum |  | Freitext |
 |  | HNA-Antigene |  |  | K078 |  |
-
 |  | Spezifität HLA-, HPA-, |  |  | K071 |  |
-|---|---|---|---|---|---|
 | 3417 |  | ≤ 60 | alnum |  | Freitext |
 |  | HNA-Antikörper |  |  | K078 |  |
 
@@ -3188,47 +3033,26 @@ Muster 39
 
 3419
 
-3420
-
-| 3424 | Therapiebeginn | 8 | date | F002 |  |
+| 3420 | Anforderung NHP | 1 | num | E056 | NHP = Nothilfepass |
 |---|---|---|---|---|---|
+| 3424 | Therapiebeginn | 8 | date | F002 |  |
 | 3425 | Therapieende | 8 | date | F002 |  |
-
-Zeitraum in Monaten
-
-Alterskategorie
 
 Antikörpersuchtest (ge- gen Erythrozytenantigene)
 
 Direkter Coombstest  (DCT)
 
-Ergebnis Kreuzprobe
-
-Anforderung NHP 1 - 5
+Ergebnis Kreuzprobe 1
 
 1
 
-1
-
-1
-
-≤ 60 1
-
-alnum
-
-num
+≤ 60
 
 num
 
 num
 
 alnum
-
-num
-
-F023  K123  K124
-
-E167
 
 E054  K071  K078
 
@@ -3236,15 +3060,7 @@ E055  K071  K078
 
 K071  K078
 
-E056
-
-Muster 39
-
-Muster 39
-
-Präparatenummer in Eurocode-Format 0-20 Stellen alphanumerisch sowie Freitext Resultat
-
-!Rnnnn (n=  0-9); Regeln unter Punkt 4.5 in Technische Spezifikation Eurocode unter NHP = Nothilfepass
+!Rnnnn (n=  0-9); Regeln unter Punkt 4.5 in Technische Spezifikation Eurocode unter Präparatenummer in Eurocode-Format 0-20 Stellen alphanumerisch sowie Freitext Resultat
 
 
 ---
@@ -3264,11 +3080,10 @@ Präparatenummer in Eurocode-Format 0-20 Stellen alphanumerisch sowie Freitext R
 
 3623
 
-3628
-
-3664
-
-3666
+| 3628 | Muttersprache | ≤ 60 | alnum |  | Muttersprache ist die in der frühen Kindheit ohne formalen Unterricht erlernte Sprache. |
+|---|---|---|---|---|---|
+| 3664 | Anzahl Geburten | 2 | num |  | Inklusive Fehlgeburten |
+| 3666 | Anzahl Kinder | 2 | num |  | Selbst geborene Kinder |
 
 3668
 
@@ -3284,12 +3099,6 @@ Größe des Patienten
 
 Gewicht des Patienten
 
-Muttersprache
-
-Anzahl Geburten
-
-Anzahl Kinder
-
 Anzahl Schwanger- schaften
 
 Status der Medikation
@@ -3300,13 +3109,7 @@ Abrechnungs-VKNR 8
 
 var
 
-var
-
-≤ 60 2
-
-2
-
-2
+var 2
 
 1
 
@@ -3319,12 +3122,6 @@ alnum
 f
 
 f
-
-alnum
-
-num
-
-num
 
 num
 
@@ -3349,12 +3146,6 @@ Einheit: Zentimeter [cm]
 Das Körpergewicht bezeichnet die physikalische Masse eines Menschen.
 
 Einheit: Kilogramm [kg]
-
-Muttersprache ist die in der frühen Kindheit ohne formalen Unterricht erlernte Sprache.
-
-Inklusive Fehlgeburten
-
-Selbst geborene Kinder
 
 Akutmedikation / Bedarfsmedikation / Dauermedikation
 
@@ -3472,19 +3263,16 @@ Bundeswehr usw.) ist die Eingabe zusätzlicher Angaben vorgeschrieben, wenn die 
 |---|---|---|---|---|---|
 | 4133 |  | 8 | date |  | Anfangszeitpunkt der Laufzeit eines Versicherungsvertrags (auf eGK gespeichert) |
 |  | Beginn |  |  | K091 |  |
-
-4134
-
-4202
+| 4134 | Kostentraegername | ≤ 45 | alnum |  | Name der Krankenversicherung |
+| 4202 | Unfall, Unfallfolgen | 1 | num | E011 |  |
 
 4204
 
 4207
 
-4208
-
-|  | Zusätzliche Angaben zu |  |  |  |  |
+| 4208 | Befund / Medikation | ≤ 60 | alnum |  | Bisher durchgeführte Maßnahmen (z.B. Medikation) |
 |---|---|---|---|---|---|
+|  | Zusätzliche Angaben zu |  |  |  |  |
 | 4209 |  | ≤ 60 | alnum | K133 |  |
 |  | Untersuchungen |  |  |  |  |
 | 4210 | SER | 1 | num | E011 |  |
@@ -3495,15 +3283,9 @@ Besondere  Personengruppen
 
 DMP_Kennzeichnung
 
-Kostentraegername
-
-Unfall, Unfallfolgen
-
 Eingeschränkter  Leistungsanspruch gemäß  §16 Abs. 3a SGB V
 
 Diagnose /  Verdachtsdiagnose
-
-Befund / Medikation
 
 ≤ 60 2
 
@@ -3511,33 +3293,21 @@ Befund / Medikation
 
 1
 
-1
-
 ≤ 60
 
-≤ 60 45
-
 alnum
 
 num
 
 num
 
-alnum
-
 num
-
-num
-
-alnum
 
 alnum
 
 E021  K022  K023  K024
 
 E020
-
-E011
 
 E011
 
@@ -3549,13 +3319,9 @@ Diese richten sich an einzelnen Krankheitsbildern aus.
 
 Wird beispielsweise festgestellt, dass ein Patient an Diabetes leidet, ergeben sich aus der  Diagnose vorgegebene Behandlungsschritte.
 
-Name der Krankenversicherung
-
 Dieses Feld dient zur Kennzeichnu gemäß § 16 Absatz 3a SGB V“. Der überweisende Vertragsarzt muss dieses Feld
 
 ankreuzen, um den Arzt, der auf Überweisung tätig wird, über den eingeschränkten  Leistungsanspruch zu informieren.
-
-Bisher durchgeführte Maßnahmen (z.B. Medikation)
 
 ng von Fällen mit „eingeschränktem Leistungsanspruch
 
@@ -3650,11 +3416,10 @@ Die Angabe der Scheinuntergruppe zur Kennzeichnung um welche Art der Ü berweisu
 
 6001
 
-6003
-
-6004
-
-6006
+| 6003 | Diagnosesicherheit | 1 | alnum | E037 | Angabe der Diagnosesicherheit |
+|---|---|---|---|---|---|
+| 6004 | Lokalisation | 1 | alnum | E038 | Angabe der Lokalisation der Diagnose |
+| 6006 | Diagnoseerläuterung | ≤ 60 | alnum |  | Freitext zur Erläuterung der Diagnosen |
 
 6008
 
@@ -3674,24 +3439,12 @@ freier Begründungstext
 
 ICD-Code
 
-Diagnosesicherheit
-
-Lokalisation
-
-Diagnoseerläuterung
-
 Diagnoseausnahmetatbes tand 9
 
 ≤ 9   oder  5, 6 3
 
 ≤ 60 3, 5, 6
 
-1
-
-1
-
-≤ 60
-
 ≤ 60
 
 num
@@ -3699,12 +3452,6 @@ num
 alnum
 
 num
-
-alnum
-
-alnum
-
-alnum
 
 alnum
 
@@ -3720,10 +3467,6 @@ E003
 
 F004
 
-E037
-
-E038
-
 Feldlänge ≤ 9 anwendbar bei Gebührennummern aus der GOÄ, Feldlänge 5 und 6 anwendbar bei Gebührennummern aus dem EBM
 
 Wurden Leistungen mehrfach erbracht, können diese durch einen Multiplikator zur  Gebührenziffer gekennzeichnet werden.
@@ -3733,12 +3476,6 @@ Die Abrechnung einiger Gebührennummern bedingt eine Begründung. Über das Feld
 Die Dokumentation muss "hinter" der entsprechenden GNR erfolgen.
 
 Entsprechend: International Classification of Diseases  statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme,  deutschsprachige Ausgabe)
-
-Angabe der Diagnosesicherheit
-
-Angabe der Lokalisation der Diagnose
-
-Freitext zur Erläuterung der Diagnosen
 
 Der Diagnoseausnahmetatbestand muss angegeben werden, wenn der ICD Code trotz  aufgetretenem Regelwerksfehler dennoch übertragen werden soll. Beispiel: Es wird ein ICD  10 Code angegeben, welcher nur für weibliche Patienten gilt. Patient ist männlich. Sofern  der Code verwendet werden soll, muss ein Diagnoseausnahmetatbestand angegeben  werden.
 
@@ -3755,18 +3492,17 @@ German Modification (Internationale
 
 6221
 
-6224
-
-6303
+| 6224 | Wirkstoff-Code | ≤ 60 | alnum |  |  |
+|---|---|---|---|---|---|
+| 6303 | Dateiformat | ≤ 60 | alnum |  | Externes Dateiformat aus Sicht des Betriebssystems (z.B. „PDF“) |
 
 6305
 
 6327
 
-6328
-
-|  | Inhalt der Datei als |  |  | K001 |  |
+| 6328 | Dateicodierung | ≤ 60 | alnum |  | Beispiel: „ISO 10646“ |
 |---|---|---|---|---|---|
+|  | Inhalt der Datei als |  |  | K001 |  |
 | 6329 |  | ≤ 60 | alnum |  | Inhalt des Dokuments (der Anlage) in Form von Base64-kodierten Zeilen |
 |  | base64-kodierte Anlage |  |  | K100 |  |
 
@@ -3782,15 +3518,9 @@ Wirkstoff-Klassifikation  (Code-System)
 
 Kennzeichnung  Fremdbefund
 
-Wirkstoff-Code
-
-Dateiformat
-
 Verweis auf die Datei
 
 Bildinhalt / Dokumenten- inhalt
-
-Dateicodierung
 
 Bezeichnung des  verwendeten Kataloges
 
@@ -3806,12 +3536,6 @@ Kostenübernahmeerklärun g des Auftraggebers liegt  vor
 
 ≤ 60
 
-≤ 60
-
-≤ 60
-
-≤ 60
-
 ≤ 60 1
 
 alnum
@@ -3821,12 +3545,6 @@ alnum
 alnum
 
 num
-
-alnum
-
-alnum
-
-alnum
 
 alnum
 
@@ -3850,13 +3568,9 @@ mögliche Code-Systeme sind derzeit „WG14“, „atcgm2013“, „atcgm2014“
 
 „ASK“ gestattet
 
-Externes Dateiformat aus Sicht des Betriebssystems (z.B. „PDF“)
-
 Uniform Resource Locator, z.B. WWW-Adresse, UNC-Pfad. Beispiel:  \\FS1\TEST\BILD1.PDF. Dateiname, wie er an die Datenstelle kommuniziert wurde/wird
 
 Beschreibung des Bild/Dokumenteninhalts in Freitext
-
-Beispiel: „ISO 10646“
 
 Beispiel: LVZ MVZ Musterstadt
 
@@ -3984,15 +3698,15 @@ Um die Zeitangabe im Timestamp auf die jeweilige Zeitzone zu referenzieren, muss
 
 7276
 
-7278
-
-7279
+| 7278 | Datum des Timestamp | 8 | date | F002 |  |
+|---|---|---|---|---|---|
+| 7279 | Uhrzeit des Timestamp | 6, 9 | num | F016 |  |
 
 7280
 
-7281
-
-7285
+| 7281 | Nachweisverfahren | 1 | num | E069 | Dokumentation des Untersuchungsverfahrens |
+|---|---|---|---|---|---|
+| 7285 | Keim-Nummer | ≤ 60 | alnum |  |  |
 
 7286
 
@@ -4000,10 +3714,9 @@ Um die Zeitangabe im Timestamp auf die jeweilige Zeitzone zu referenzieren, muss
 
 7288
 
-7289
-
-| 7290 | Resistenz-Interpretation | 1 | num | E030 |  |
+| 7289 | MHK/Breakpoint-Wert | ≤ 60 | alnum |  |  |
 |---|---|---|---|---|---|
+| 7290 | Resistenz-Interpretation | 1 | num | E030 |  |
 |  | Lokalisation |  |  |  |  |
 | 7292 |  | ≤ 60 | alnum |  |  |
 |  | Probenmaterial |  |  |  |  |
@@ -4012,15 +3725,7 @@ ID verwendeter  Terminologie
 
 ID verwendeter  Nummernpool
 
-Datum des Timestamp
-
-Uhrzeit des Timestamp
-
 Grund der  Benachrichtigung
-
-Nachweisverfahren
-
-Keim-Nummer
 
 Resistenz-Methode
 
@@ -4028,21 +3733,11 @@ Wirkstoff-Ident
 
 Wirkstoff-Generic- Nummer
 
-MHK/Breakpoint-Wert
-
 ≤ 60
-
-≤ 60 8
-
-6, 9
-
-1
-
-1
 
 ≤ 60 1
 
-≤ 60
+1
 
 ≤ 60
 
@@ -4052,31 +3747,15 @@ alnum
 
 alnum
 
-date
-
-num
-
 num
 
 num
 
 alnum
 
-num
-
 alnum
-
-alnum
-
-alnum
-
-F002
-
-F016
 
 E049
-
-E069
 
 E059  K085  K086
 
@@ -4085,8 +3764,6 @@ Format ist „±hh:mm“ oder „±hh“ und berücksichtigt damit sowohl die Ze
 Referenz auf eine allgemein übliche Terminologie oder einen allgemein üblichen Standard
 
 Nummernkreise, auf die referenziert werden kann
-
-Dokumentation des Untersuchungsverfahrens
 
 
 ---
@@ -4170,11 +3847,10 @@ Festlegung der Abrechnungsart -PCR/Hersteller/Nachweis-
 
 7312
 
-7313
-
-7314
-
-7315
+| 7313 | Art / Rasse / Material | ≤ 60 | alnum | K089 |  |
+|---|---|---|---|---|---|
+| 7314 | Name / Kennung | ≤ 60 | alnum | K089 |  |
+| 7315 | Alter | ≤ 10 | num |  |  |
 
 7316
 
@@ -4191,12 +3867,6 @@ Art des Materials
 Organisches Material
 
 Anorganisches Material
-
-Art / Rasse / Material
-
-Name / Kennung
-
-Alter
 
 Normalwert Listen- bezeichnung
 
@@ -4216,12 +3886,6 @@ Normalwert Listenzeile
 
 ≤ 60
 
-≤ 10
-
-≤ 60
-
-≤ 60
-
 alnum
 
 alnum
@@ -4231,12 +3895,6 @@ num
 num
 
 num
-
-num
-
-alnum
-
-alnum
 
 num
 
@@ -4251,10 +3909,6 @@ E033  K038  K039
 E034  K038
 
 E035  K038
-
-K089
-
-K089
 
 K055
 
@@ -4291,18 +3945,14 @@ Beispiel:
 
 7321
 
-7326
-
-7328
-
-|  | Normalbereichs- |  |  |  | Wird aus medizinischen Gründen im Sinne der Patienten benötigt, um Fehlinterpretationen |
+| 7326 | Alter in | 1 | num | E068 |  |
 |---|---|---|---|---|---|
+| 7328 | Zusätzliche Namenszeile | ≤ 10 | alnum |  |  |
+|  | Normalbereichs- |  |  |  | Wird aus medizinischen Gründen im Sinne der Patienten benötigt, um Fehlinterpretationen |
 | 7329 |  | 1 | alnum | E018 |  |
 |  | relevantes Geschlecht |  |  |  | zu minimieren. |
-
-7330
-
-7331
+| 7330 | Telefonnummer | ≤ 60 | alnum | K059 | +LK_Vorwahl_Rufnummer |
+| 7331 | Mobiltelefonnummer | ≤ 60 | alnum | K059 | +LK_Vorwahl_Rufnummer |
 
 7332
 
@@ -4318,14 +3968,6 @@ Recall empfohlen
 
 Status Einsender
 
-Alter in
-
-Zusätzliche Namenszeile
-
-Telefonnummer
-
-Mobiltelefonnummer
-
 Alternative elektronische  Postadresse
 
 ≤ 60
@@ -4334,14 +3976,6 @@ Alternative elektronische  Postadresse
 
 2
 
-1
-
-≤ 10
-
-≤ 60
-
-≤ 60
-
 ≤ 60
 
 alnum
@@ -4351,14 +3985,6 @@ alnum
 num
 
 num
-
-num
-
-alnum
-
-alnum
-
-alnum
 
 alnum
 
@@ -4367,12 +3993,6 @@ K089
 E011
 
 E023  K045  K046  K047  K107
-
-E068
-
-K059
-
-K059
 
 K059
 
@@ -4389,10 +4009,6 @@ K059
 Bei der Beauftragung von Funktionstests wird diese Information benötigt.
 
 Identifikationsnummer in Verwaltungssoftware (z.B. einer Veterinärpraxis)
-
-+LK_Vorwahl_Rufnummer
-
-+LK_Vorwahl_Rufnummer
 
 Beispiel:Twitter-Acount
 
@@ -4411,20 +4027,14 @@ Beispiel:Twitter-Acount
 
 7340
 
-7351
-
-7352
-
-7354
-
-7355
-
-7356
-
-7357
-
-| 7358 | Name im Klartext | ≤ 60 | alnum |  | Beispiel: Katrin Mustermann |
+| 7351 | Geburtsdatum | 8 | date | F002 | Datum der Geburt des Tieres |
 |---|---|---|---|---|---|
+| 7352 | URL Katalog | ≤ 60 | alnum |  | Beispiel: www.ihreaerzte.de/lvz |
+| 7354 | Keim/Pilz-Identifizierung | ≤ 60 | alnum |  | Isolierte Keim-Referenzierung im Antibiogramm „01“, „02“, ….(wird vom Labor vergeben) |
+| 7355 | Keim/Pilz -Name | ≤ 120 | alnum |  | Beispiel: Beta-hämolysierende Streptokokken, Gruppe B (Streptococcus agalactiae) |
+| 7356 | Keim-OID | ≤ 60 | alnum |  | Referenzkatalog |
+| 7357 | Wachstum | 1 | num | E026 |  |
+| 7358 | Name im Klartext | ≤ 60 | alnum |  | Beispiel: Katrin Mustermann |
 | 7359 | Wirkstoff-OID | ≤ 60 | alnum |  | Beispiel: ATC-Code |
 
 E-Mail-Adresse
@@ -4439,34 +4049,14 @@ Gravidität
 
 Spezifizierung der  alternativen  elektronischen  Postadresse
 
-Geburtsdatum
-
-URL Katalog
-
-Keim/Pilz-Identifizierung
-
-Keim/Pilz -Name
-
-Keim-OID
-
-Wachstum
-
 ≤ 60 1
 
 ≤ 60 8
 
 1
 
-≤ 60 8
-
 ≤ 60
 
-≤ 60
-
-≤ 120
-
-≤ 60 1
-
 alnum
 
 num
@@ -4478,18 +4068,6 @@ num
 num
 
 alnum
-
-date
-
-alnum
-
-alnum
-
-alnum
-
-alnum
-
-num
 
 K059
 
@@ -4499,22 +4077,7 @@ F018
 
 E040
 
-F002
-
-E026
-
-Datum der Geburt des Tieres
-
-Beispiel: www.ihreaerzte.de/lvz
-
-Isolierte Keim-Referenzierung im Antibiogramm
-
-Beispiel: Beta-hämolysierende Streptokokken, Gruppe B (Streptococcus agalactiae)
-
-Referenzkatalog
-
-01 02“, ….(wird vom Labor vergeben)
-
+Beispiel: Beta-hämolysierende Streptokokken, Gruppe  B (Streptococcus agalactiae)
 
 ---
 
@@ -4617,22 +4180,15 @@ Hier wird die Langbezeichnung der Leistung eingetragen.  Beispiel: Natrium, Kali
 
 ---
 
-7373
-
-7374
-
-7375
-
-7376
-
-7377
-
-7378
-
-7379
-
-|  | Ausfluss / pathologische |  |  |  |  |
+| 7373 | Grading | ≤ 5 | alnum |  | Beispiel: G1, G2, G3 |
 |---|---|---|---|---|---|
+| 7374 | Stadium | ≤ 5 | alnum |  | Beispiel: I, II, Iia |
+| 7375 | Jahr der Tumordiagnose | 4 | num | F017 |  |
+| 7376 | Lokalisation Tumor | ≤ 60 | alnum |  |  |
+| 7377 | Maße | ≤ 60 | alnum |  |  |
+| 7378 | Farbe | ≤ 60 | alnum |  |  |
+| 7379 | Infiltrationstiefe | ≤ 60 | alnum |  |  |
+|  | Ausfluss / pathologische |  |  |  |  |
 | 7380 |  | 1 | num | E040 |  |
 |  | Blutung |  |  |  |  |
 | 7382 | IUP | 1 | num | E040 |  |
@@ -4641,101 +4197,26 @@ Hier wird die Langbezeichnung der Leistung eingetragen.  Beispiel: Natrium, Kali
 
 7384
 
-7400
-
-7401
-
-7402
-
-| 7403 | Low-Risk | 1 | num | E169 |  |
+| 7400 | HPV-Befund | 1 | num | E011 |  |
 |---|---|---|---|---|---|
+| 7401 | High-Risk | 1 | num | E169 |  |
+| 7402 | High Risk Typ | ≤ 120 | alnum | F024 | Beispiele: Einzelwert = 18, Wertegruppe = G1:31/33/52/58 |
+| 7403 | Low-Risk | 1 | num | E169 |  |
 | 7404 | Low Risk Typ | ≤ 120 | alnum | F024 | Beispiel: Einzelwert = 42 |
-
-Grading
-
-Stadium
-
-Jahr der Tumordiagnose
-
-Lokalisation Tumor
-
-Maße
-
-Farbe
-
-Infiltrationstiefe
 
 Einnahme von  Ovulationshemmer /  sonstige Hormon- Anwendung
 
-Klinischer Befund
-
-HPV-Befund
-
-High-Risk
-
-High Risk Typ
-
-≤ 5
-
-≤ 5 4
-
-≤ 60
-
-≤ 60
-
-≤ 60
-
-≤ 60 1
+Klinischer Befund 1
 
 1
 
-1
-
-1
-
-≤ 120
-
-alnum
-
-alnum
-
-num
-
-alnum
-
-alnum
-
-alnum
-
-alnum
-
 num
 
 num
-
-num
-
-num
-
-alnum
-
-F017
 
 E040
 
 E176
-
-E011
-
-E169
-
-F024
-
-Beispiel: G1, G2, G3
-
-Beispiel: I, II, Iia
-
-Beispiele: Einzelwert = 18, Wertegruppe = G1:31/33/52/58
 
 
 ---
@@ -4861,22 +4342,18 @@ Ergebnis der Krebsfrüherkennung als Gruppe im Klartext (früher als PAP bezeich
 
 7421
 
-7422
-
-7423
-
-7424
+| 7422 | Chlamydien | 1 | num | E062 |  |
+|---|---|---|---|---|---|
+| 7423 | Erläuterungen | ≤ 990 | alnum |  | Nur für Obj_0034 zu verwenden. |
+| 7424 | Resistenz erstellt nach | 1 | num | E065 |  |
 
 7425
 
-7426
-
-7427
-
-7428
-
-| 7429 | DRG_Hinweis | ≤ 990 | alnum |  | Hier können Hinweise zu DRG´s übermittelt werden. |
+| 7426 | Neisseria Gonorrhoeae | 1 | num | E062 |  |
 |---|---|---|---|---|---|
+| 7427 | Art | 1 | num | E016 |  |
+| 7428 | Geschlecht des Tieres | 1 | num | E165 |  |
+| 7429 | DRG_Hinweis | ≤ 990 | alnum |  | Hier können Hinweise zu DRG´s übermittelt werden. |
 |  | Patienten-ID im |  |  |  | Hier wird die Patienten-ID übermittelt, die der Patient im Selektivvertrag hat, in den er |
 | 7430 |  | ≤ 60 | alnum |  |  |
 |  | Selektivvertrag |  |  |  | eingeschrieben ist. |
@@ -4891,19 +4368,7 @@ Status Person
 
 Status  Rechnungsempfänger
 
-Chlamydien
-
-Erläuterungen
-
-Resistenz erstellt nach
-
-Extragynäkologische  Zytologie
-
-Neisseria Gonorrhoeae
-
-Art
-
-Geschlecht des Tieres 1
+Extragynäkologische  Zytologie 1
 
 1
 
@@ -4915,29 +4380,7 @@ Geschlecht des Tieres 1
 
 1
 
-≤ 990 1
-
-1
-
-1
-
-1
-
-1
-
 num
-
-num
-
-num
-
-num
-
-num
-
-num
-
-alnum
 
 num
 
@@ -4959,19 +4402,7 @@ E027  K094  K104
 
 E029  K029  K093
 
-E062
-
-E065
-
 E063
-
-E062
-
-E016
-
-E165
-
-Nur für Obj_0034 zu verwenden.
 
 z.B. Mammapunktat, Rektumabstrich
 
@@ -5049,49 +4480,25 @@ nnen verschiedene Felder ein Objekt einleiten  m Objekt, welches eine Diagnose
 
 ---
 
-Siehe dazu auch Implementierungshinweis 8101
+| Siehe | dazu | auch | Implementierungshinweis |
+|---|---|---|---|
+| 8101 |  | Abrechnungsinformation | 22 |
+| 8102 |  | Abrechnung_GKV | 14 |
+| 8103 |  | Abrechnung_PKV | 14 |
+| 8104 |  | Abrechnung_IGEL | 15 |
+|  |  | Abrechnung_Sonstige_ |  |
+| 8105 |  |  | 36 |
+|  |  | Kostenuebernahme |  |
+|  |  | Abrechnung |  |
+| 8106 |  |  | 26 |
+|  |  | _Selektivvertrag |  |
+| 8107 | Anschrift | | 9 |
+| 8108 | Adressat | | 8 |
+| 8109 |  | Abrechnung_OEGD | 16 |
 
-8102
+alnum
 
-8103
-
-8104
-
-8105
-
-8106
-
-|  | 8107 |  | Anschrift | 9 | alnum | E077 | Nach dem Vorkommen der Feldkennung folgt das Obj_0007 (Anschrift). |
-|---|---|---|---|---|---|---|---|
-|  | 8108 |  | Adressat | 8 | alnum | E078 | Nach dem Vorkommen der Feldkennung folgt das Obj_0008 (Adressat). |
-
-8109
-
-Abrechnungsinformation
-
-Abrechnung_GKV
-
-Abrechnung_PKV
-
-Abrechnung_IGEL
-
-Abrechnung_Sonstige_  Kostenuebernahme
-
-Abrechnung  _Selektivvertrag
-
-Abrechnung_OEGD 22
-
-14
-
-14
-
-15
-
-36
-
-26
-
-16
+alnum
 
 alnum
 
@@ -5119,6 +4526,10 @@ E075  K027  K105
 
 E076  K027  K070  K103
 
+E077
+
+E078
+
 E170  K027  K070  K097
 
 Nach dem Vorkommen der Feldkennung folgt das Obj_0001 (Abrechnungsinformation).
@@ -5133,8 +4544,13 @@ Nach dem Vorkommen der Feldkennung folgt das Obj_0005 (Abrechnung Sonstige  Kost
 
 Nach dem Vorkommen der Feldkennung folgt das Obj_0006 (Abrechnung Selektivvertrag).
 
+Nach dem Vorkommen der Feldkennung folgt das Obj_0007 (Anschrift).
+
+Nach dem Vorkommen der Feldkennung folgt das Obj_0008 (Adressat).
+
 Nach dem Vorkommen der Feldkennung folgt das Obj_0009 (Abrechnung OEGD).
 
+Siehe dazu auch Implementierungshinweis
 
 ---
 
@@ -5146,22 +4562,27 @@ Nach dem Vorkommen der Feldkennung folgt das Obj_0009 (Abrechnung OEGD).
 
 8114
 
-|  |  |  |  |  |  | K107 |  |
-|---|---|---|---|---|---|---|---|
-|  | 8117 |  | Befundinformationen | 19 | alnum | E082 | Nach dem Vorkommen der Feldkennung folgt das Obj_0017 (Befundinformationen). |
+8117
 
 8118
 
-|  | 8131 |  | Kommunikationsdaten | 19 | alnum | E088 | Nach dem Vorkommen der Feldkennung folgt das Obj_0031 (Kommunikationsdaten). |
-|---|---|---|---|---|---|---|---|
-|  | 8132 |  | Kopfdaten | 9 | alnum | E089 | Nach dem Vorkommen der Feldkennung folgt das Obj_0032 (Kopfdaten). |
-|  | 8119 |  |  |  |  |  |  |
+8119
+
+8122
+
+8126
+
+8127
+
+8131
+
+8132
 
 8134
 
-|  | 8135 |  | Laborergebnisbericht | 20 | alnum | E091 | Nach dem Vorkommen der Feldkennung folgt das Obj_0035 (Laborergebnisbericht). |
-|---|---|---|---|---|---|---|---|
-|  | 8136 |  | Laborkennung | 12 | alnum | E092 | Nach dem Vorkommen der Feldkennung folgt das Obj_0036 (Laborkennung). |
+8135
+
+8136
 
 Anhang
 
@@ -5171,9 +4592,27 @@ Auftragsinformation
 
 Arztidentifikation
 
+Befundinformationen
+
 Abweichender  _Befundweg
 
-Krebsfrueherkennung_Zer vix-Karzinom 6
+Betriebsstaette
+
+Einsenderidentifikation
+
+Fehlermeldung  _Aufmerksamkeit
+
+Veranlassungsgrund
+
+Kommunikationsdaten
+
+Kopfdaten
+
+Krebsfrueherkennung_Zer vix-Karzinom
+
+Laborergebnisbericht
+
+Laborkennung 6
 
 12
 
@@ -5181,9 +4620,45 @@ Krebsfrueherkennung_Zer vix-Karzinom 6
 
 18
 
+19
+
 22
 
+15
+
+23
+
+28
+
+18
+
+19
+
+9
+
 35
+
+20
+
+12
+
+alnum
+
+alnum
+
+alnum
+
+alnum
+
+alnum
+
+alnum
+
+alnum
+
+alnum
+
+alnum
 
 alnum
 
@@ -5203,11 +4678,29 @@ E080  K085
 
 E081  K069
 
-E149
+E149  K107
+
+E082
 
 E083
 
+E084  K046
+
+E085
+
+E086  K082  K099
+
+E087
+
+E088
+
+E089
+
 E090
+
+E091
+
+E092
 
 Nach dem Vorkommen der Feldkennung folgt das Obj_0010 (Anhang).
 
@@ -5217,23 +4710,36 @@ Nach dem Vorkommen der Feldkennung folgt das Obj_0013 (Auftragsinformation).
 
 Nach dem Vorkommen der Feldkennung folgt das Obj_0014 (Arztidentifikation).
 
+Nach dem Vorkommen der Feldkennung folgt das Obj_0017 (Befundinformationen).
+
 Nach dem Vorkommen der Feldkennung folgt das Obj_0031 (Kommunikationsdaten).
 
-8122 8126 8127 Betriebsstaette Einsenderidentifikation Fehlermeldung _Aufmerksamkeit Veranlassungsgrund 15 23 28 18 E084   K046 E085 E086   K082   K099 E087 Nach dem Vorkommen der Feldkennung folgt das Obj_0019 (Betriebstätte). Nach dem Vorkommen der Feldkennung folgt das Obj_0022 (Einsenderidentifikation). Nach dem Vorkommen der Feldkennung folgt das Obj_0026 (Fehlermeldung / Aufmerksamkeit). Nach dem Vorkommen der Feldkennung folgt das Obj_0027 (Veranlassungsgrund). Nach dem Vorkommen der Feldkennung folgt das Obj_0034 (Krebsfrüherkennung Zervix- Karzinom Muster 39).
+Nach dem Vorkommen der Feldkennung folgt das Obj_0019 (Betriebstätte).
 
-|  |  |  |  |  |  | K046 |  |
-|---|---|---|---|---|---|---|---|
-|  | 8122 |  | Einsenderidentifikation | 23 | alnum | E085 | Nach dem Vorkommen der Feldkennung folgt das Obj_0022 (Einsenderidentifikation). |
+Nach dem Vorkommen der Feldkennung folgt das Obj_0022 (Einsenderidentifikation).
+
+Nach dem Vorkommen der Feldkennung folgt das Obj_0026 (Fehlermeldung /  Aufmerksamkeit).
+
+Nach dem Vorkommen der Feldkennung folgt das Obj_0027 (Veranlassungsgrund).
+
+Nach dem Vorkommen der Feldkennung folgt das Obj_0031 (Kommunikationsdaten).
+
+Nach dem Vorkommen der Feldkennung folgt das Obj_0032 (Kopfdaten).
+
+Nach dem Vorkommen der Feldkennung folgt das Obj_0034 (Krebsfrüherkennung Zervix- Karzinom Muster 39).
+
+Nach dem Vorkommen der Feldkennung folgt das Obj_0035 (Laborergebnisbericht).
+
+Nach dem Vorkommen der Feldkennung folgt das Obj_0036 (Laborkennung).
 
 
 ---
 
 8137
 
-8140
-
-|  | 8141 |  | Namenskennung | 13 | alnum | E095 | Nach dem Vorkommen der Feldkennung folgt das Obj_0041 (Namenskennung). |
+|  | 8140 |  | Mutterschaft | 12 | alnum | E094 | Nach dem Vorkommen der Feldkennung folgt das Obj_0040 (Mutterschaft). |
 |---|---|---|---|---|---|---|---|
+|  | 8141 |  | Namenskennung | 13 | alnum | E095 | Nach dem Vorkommen der Feldkennung folgt das Obj_0041 (Namenskennung). |
 |  | 8142 |  | Normalwert | 10 | alnum | E096 | Nach dem Vorkommen der Feldkennung folgt das Obj_0042 (Normalwert). |
 
 8143
@@ -5242,10 +4748,9 @@ Nach dem Vorkommen der Feldkennung folgt das Obj_0031 (Kommunikationsdaten).
 
 8147
 
-8148
-
-|  | 8150 |  | Schwangerschaft | 15 | alnum | E101 | Nach dem Vorkommen der Feldkennung folgt das Obj_0050 (Schwangerschaft). |
+|  | 8148 |  | RgEmpfaenger | 12 | alnum | E100 | Nach dem Vorkommen der Feldkennung folgt das Obj_0048 (RgEmpfänger). |
 |---|---|---|---|---|---|---|---|
+|  | 8150 |  | Schwangerschaft | 15 | alnum | E101 | Nach dem Vorkommen der Feldkennung folgt das Obj_0050 (Schwangerschaft). |
 |  | 8151 |  | Sendendes_System | 16 | alnum | E102 | Nach dem Vorkommen der Feldkennung folgt das Obj_0051 (Sendendes System). |
 
 8153
@@ -5254,15 +4759,11 @@ Nach dem Vorkommen der Feldkennung folgt das Obj_0031 (Kommunikationsdaten).
 
 Material
 
-Mutterschaft
-
 Organisation
 
 Patient
 
 Person
-
-RgEmpfaenger
 
 Tier_Sonstiges
 
@@ -5270,13 +4771,9 @@ Timestamp 8
 
 12
 
-12
-
 7
 
 6
-
-12
 
 14
 
@@ -5294,13 +4791,7 @@ alnum
 
 alnum
 
-alnum
-
-alnum
-
 E093  K069
-
-E094
 
 E097  K029  K101
 
@@ -5310,8 +4801,6 @@ K084
 
 E099  K030  K092  K101  K104
 
-E100
-
 E103  K083
 
 K084
@@ -5320,15 +4809,11 @@ E104
 
 Nach dem Vorkommen der Feldkennung folgt das Obj_0037 (Material).
 
-Nach dem Vorkommen der Feldkennung folgt das Obj_0040 (Mutterschaft).
-
 Nach dem Vorkommen der Feldkennung folgt das Obj_0043 (Organisation).
 
 Nach dem Vorkommen der Feldkennung folgt das Obj_0045 (Patient).
 
 Nach dem Vorkommen der Feldkennung folgt das Obj_0047 (Person).
-
-Nach dem Vorkommen der Feldkennung folgt das Obj_0048 (RgEmpfänger).
 
 Nach dem Vorkommen der Feldkennung folgt das Obj_0053 (Tier/Sonstiges).
 
@@ -5355,10 +4840,9 @@ Nach dem Vorkommen der Feldkennung folgt das Obj_0054 (Timestamp).
 
 8167
 
-8169
-
-|  | 8170 |  | Medikament | 10 | alnum | E152 | Nach dem Vorkommen der Feldkennung folgt das Obj_0070 (Medikament). |
+|  | 8169 |  | Koerperkenngroessen | 19 | alnum | E153 | Nach dem Vorkommen der Feldkennung folgt das Obj_0069 (Koerperkenngroessen). |
 |---|---|---|---|---|---|---|---|
+|  | 8170 |  | Medikament | 10 | alnum | E152 | Nach dem Vorkommen der Feldkennung folgt das Obj_0070 (Medikament). |
 |  | 8171 |  | Wirkstoff | 9 | alnum | E155 | Nach dem Vorkommen der Feldkennung folgt das Obj_0071 (Wirkstoff). |
 
 8200
@@ -5381,8 +4865,6 @@ UE_Zytologie
 
 Zusaetzliche  _Informationen
 
-Koerperkenngroessen
-
 Akutdiagnose 25
 
 5
@@ -5401,11 +4883,7 @@ Akutdiagnose 25
 
 26
 
-19
-
 12
-
-alnum
 
 alnum
 
@@ -5445,8 +4923,6 @@ E112
 
 E113  K100
 
-E153
-
 E116
 
 Nach dem Vorkommen der Feldkennung folgt das Obj_0055 (Blutgruppenzugehoerigkeit).
@@ -5466,8 +4942,6 @@ Nach dem Vorkommen der Feldkennung folgt das Obj_0062 (Untersuchungsergebnis  Kr
 Nach dem Vorkommen der Feldkennung folgt das Obj_0063 (Untersuchungsergebnis  Zytologie).
 
 Nach dem Vorkommen der Feldkennung folgt das Obj_0068 (Fließtext).
-
-Nach dem Vorkommen der Feldkennung folgt das Obj_0069 (Koerperkenngroessen).
 
 Nach dem Vorkommen der Feldkennung folgt das Obj_0100 (Diagnose).
 
@@ -5625,16 +5099,15 @@ Nach dem Vorkommen der Feldkennung folgt das Obj_0054 (Timestamp).
 
 8225
 
-|  | 8226 |  | Timestamp_Gueltig_ab | 20 | alnum | E132 | Nach dem Vorkommen der Feldkennung folgt das Obj_0054 (Timestamp). |
-|---|---|---|---|---|---|---|---|
-|  | 8227 |  | Timestamp_Gueltig_bis | 21 | alnum | E133 | Nach dem Vorkommen der Feldkennung folgt das Obj_0054 (Timestamp). |
+8226
+
+8227
 
 8228
 
-8229
-
-|  | 8230 |  | Rechnungsanschrift | 18 | alnum | E136 | Nach dem Vorkommen der Feldkennung folgt das Obj_0007 (Anschrift). |
+|  | 8229 |  | Anschrift_Arbeitsstelle | 23 | alnum | E135 | Nach dem Vorkommen der Feldkennung folgt das Obj_0007 (Anschrift). |
 |---|---|---|---|---|---|---|---|
+|  | 8230 |  | Rechnungsanschrift | 18 | alnum | E136 | Nach dem Vorkommen der Feldkennung folgt das Obj_0007 (Anschrift). |
 |  | 8231 |  | Temporaere_Anschrift | 20 | alnum | E137 | Nach dem Vorkommen der Feldkennung folgt das Obj_0007 (Anschrift). |
 
 8232
@@ -5651,9 +5124,11 @@ Timestamp_QM_Er- fassung
 
 Timestamp_Messung
 
-Wohnanschrift
+Timestamp_Gueltig_ab
 
-Anschrift_Arbeitsstelle
+Timestamp_Gueltig_bis
+
+Wohnanschrift
 
 Private_Kommunikations- daten
 
@@ -5667,9 +5142,11 @@ Ergebnistext 22
 
 17
 
-13
+20
 
-23
+21
+
+13
 
 27
 
@@ -5699,13 +5176,17 @@ alnum
 
 alnum
 
+alnum
+
 E130
 
 E131  K076  K078  K081  K095  K126
 
-E134  K094
+E132
 
-E135
+E133
+
+E134  K094
 
 E138
 
@@ -5721,7 +5202,9 @@ Nach dem Vorkommen der Feldkennung folgt das Obj_0054 (Timestamp).
 
 Nach dem Vorkommen der Feldkennung folgt das Obj_0054 (Timestamp).
 
-Nach dem Vorkommen der Feldkennung folgt das Obj_0007 (Anschrift).
+Nach dem Vorkommen der Feldkennung folgt das Obj_0054 (Timestamp).
+
+Nach dem Vorkommen der Feldkennung folgt das Obj_0054 (Timestamp).
 
 Nach dem Vorkommen der Feldkennung folgt das Obj_0007 (Anschrift).
 
@@ -5748,11 +5231,11 @@ Nach dem Vorkommen der Feldkennung folgt das Obj_0068 (Fließtext).
 
 8242
 
-82.43
+8243
 
-|  | 8244 |  | BAK | 3 | alnum | E158 | Nach dem Vorkommen der Feldkennung folgt das Obj_0072 (BAK). |  |
-|---|---|---|---|---|---|---|---|---|
-|  | 8245 |  | BAK-Ergebnis | 12 | alnum | E159 | Nach dem Vorkommen der Feldkennung folgt das Obj_0068 (Fließtext). |  |
+8244
+
+8245
 
 8246
 
@@ -5776,6 +5259,10 @@ base64-kodierte_Anlage
 
 Timestamp_Zeitpunkt  _Medikamenteneinnahme
 
+BAK
+
+BAK-Ergebnis
+
 BAK-Ergebnisbezogene  _Hinweise
 
 Diagnostische_Bewertung _Empfehlung
@@ -5796,6 +5283,10 @@ Auftragsnummer des  Labors 25
 
 40
 
+3
+
+12
+
 29
 
 34
@@ -5805,6 +5296,10 @@ Auftragsnummer des  Labors 25
 ≤ 60
 
 ≤ 60
+
+alnum
+
+alnum
 
 alnum
 
@@ -5840,6 +5335,10 @@ E115  K001  K100
 
 E154
 
+E158
+
+E159
+
 E160
 
 E161
@@ -5858,6 +5357,10 @@ Nach dem Vorkommen der Feldkennung folgt das Obj_0068 (Fließtext).
 
 Nach dem Vorkommen der Feldkennung folgt das Obj_0054 (Timestamp).
 
+Nach dem Vorkommen der Feldkennung folgt das Obj_0072 (BAK).
+
+Nach dem Vorkommen der Feldkennung folgt das Obj_0068 (Fließtext).
+
 Nach dem Vorkommen der Feldkennung folgt das Obj_0068 (Fließtext).
 
 Nach dem Vorkommen der Feldkennung folgt das Obj_0068 (Fließtext).
@@ -5875,15 +5378,14 @@ Bezeichnet die eindeutige Nummer, unter der das Labor den Auftrag entgegen nimmt
 
 8313
 
-8315
-
-8316
-
-8324
+| 8315 | ID des Empfängers | ≤ 60 | alnum |  |  |
+|---|---|---|---|---|---|
+| 8316 | ID des Senders | ≤ 60 | alnum |  |  |
+| 8324 | ID eines Laborstandortes | ≤ 60 | alnum |  | Wird vom Labor vergeben. |
 
 8401
 
-84.06
+8406
 
 8410
 
@@ -5896,12 +5398,6 @@ Bezeichnet die eindeutige Nummer, unter der das Labor den Auftrag entgegen nimmt
 Kunden- (Arzt) Nummer
 
 ID Nachforderung
-
-ID des Empfängers
-
-ID des Senders
-
-ID eines Laborstandortes
 
 Status (Befund/Bericht)
 
@@ -5917,12 +5413,6 @@ Ergebnisstatus
 
 ≤ 20
 
-≤ 60
-
-≤ 60
-
-≤ 60
-
 ≤ 60 1
 
 ≤ 60 20
@@ -5930,12 +5420,6 @@ Ergebnisstatus
 ≤ 60 2
 
 2
-
-alnum
-
-alnum
-
-alnum
 
 alnum
 
@@ -5973,8 +5457,6 @@ Identifiziert eine Nachforderung, die auf die Auftrags ID referenziert.
 
 Eine Nachforderung ist eine ergänzende Anforderung von Laboruntersuchungen zu einem  bereits bestehenden Überweisungsauftrag auf der Grundlage einer medizinischen  Bewertung der bis dahin vorliegenden Befundergebnisse und der sich daraus ergebenden  medizinischen Notwendigkeit zur Nachuntersuchung der entnommenen Probe mit weiteren  ergänzenden Untersuchungen. Die Nachforderung wird aus der bereits entnommenen  Patientenprobe durchgeführt.
 
-Wird vom Labor vergeben.
-
 Der Status des Befundes/Berichtes wird aus Sicht des gestellten Auftrages als „Auftrag nicht  abgeschlossen“ oder „Auftrag abgeschlossen“ definiert.
 
 Eindeutige Kurzbezeichnung eines Analyts (eineindeutige Zuordnung aller Eigenschaften  dieses Analyts, wie z.B. Normbereich, Preis und Dimension zum aktuellen Zeitpunkt)
@@ -5990,8 +5472,7 @@ Status des übermittelten Untersuchungsergebnisses
 |---|---|---|---|---|---|
 | 8419 |  | 1 | num |  | SI-Einheit, abweichende Einheit, dimensionslos |
 |  | Messwertes / Wertes |  |  | K002 |  |
-
-8420
+| 8420 | Ergebnis-Wert | ≤ 60 | alnum |  | Messergebnis |
 
 8421
 
@@ -6017,8 +5498,6 @@ Status des übermittelten Untersuchungsergebnisses
 |  |  |  |  | K037 |  |
 | 8460 | Normalwert-Text | ≤ 990 | alnum | K055 | Textfeld zur Erläuterung des Ergebnisses in Bezug auf den Normalwert |
 
-Ergebnis-Wert
-
 Maßeinheit des  Messwertes / Wertes
 
 Grenzwertindikator des  Laborwerts
@@ -6039,8 +5518,6 @@ Probenmaterial- Spezifikation
 
 ≤ 60
 
-≤ 60
-
 ≤ 2 1
 
 2
@@ -6054,8 +5531,6 @@ Probenmaterial- Spezifikation
 ≤ 60
 
 ≤ 60
-
-alnum
 
 alnum
 
@@ -6093,8 +5568,6 @@ K006
 
 K006
 
-Messergebnis
-
 Maßeinheit des Messwertes / Wertes
 
 Kurzbezeichnung zur Identifizierung eines Untersuchungsmaterials, z.B. SE
@@ -6108,16 +5581,13 @@ Detaillierung eines Untersuchungsmaterials, z.B. gefroren
 
 ---
 
-8461
-
-8462
-
-|  | Einwilligungserklärung des |  |  |  | Dem Auftraggeber liegt die Einwilligungserklärung des Patienten zur Durchführung |
+| 8461 | Normalwert untere Grenze | ≤ 60 | f | K055 | Unterer Grenzwert des aktuellen Normalbereiches |
 |---|---|---|---|---|---|
+| 8462 | Normalwert obere Grenze | ≤ 60 | f | K055 | Oberer Grenzwert des aktuellen Normalbereiches |
+|  | Einwilligungserklärung des |  |  |  | Dem Auftraggeber liegt die Einwilligungserklärung des Patienten zur Durchführung |
 | 8491 |  | 1 | num | E011 |  |
 |  | Patienten liegt vor |  |  |  | zustimmungspflichtigen Untersuchungen laut Gendiagnostikgesetz vor. |
-
-8501
+| 8501 | Dringlichkeit | 1 | num | E032 |  |
 
 8504
 
@@ -6137,12 +5607,6 @@ Detaillierung eines Untersuchungsmaterials, z.B. gefroren
 |---|---|---|---|---|---|
 | 8611 | Zusätzlicher Befundweg | 1 | num | E013 | Merkmal für Befundübermittlung in eiligen und Notfällen |
 
-Normalwert untere Grenze
-
-Normalwert obere Grenze
-
-Dringlichkeit
-
 Medikamenteneinnahme  zum Zeitpunkt der  Probenentnahme
 
 Schwangerschaftsdauer
@@ -6155,13 +5619,7 @@ Sammelzeit des  Probenmaterials
 
 Wirkstoffmenge, Menge /  Bezugsmenge, Wirkstärke
 
-Kommentar/Aktenzeichen
-
-≤ 60
-
-≤ 60 1
-
-1
+Kommentar/Aktenzeichen 1
 
 3
 
@@ -6172,12 +5630,6 @@ Kommentar/Aktenzeichen
 ≤ 60
 
 ≤ 60
-
-f
-
-f
-
-num
 
 num
 
@@ -6193,12 +5645,6 @@ f
 
 alnum
 
-K055
-
-K055
-
-E032
-
 E040
 
 F005
@@ -6208,10 +5654,6 @@ F018
 F006
 
 Hinweis:  Kann für das Untersuchungsergebnis kein Normalbereich angegeben werden, so ist in  FK8460 als Wert „k.A.“ zu übertragen.
-
-Unterer Grenzwert des aktuellen Normalbereiches
-
-Oberer Grenzwert des aktuellen Normalbereiches
 
 Maßzahl für die Menge des Probenmaterials
 
@@ -6238,41 +5680,23 @@ Zusatzangaben zur Rechnung, wie Aktenzeichen, Rechnungsnummer, Kundennummer und 
 
 8622
 
-|  | Identifikation/Aktenzeiche |  |  |  |  |
-|---|---|---|---|---|---|
-| 8623 |  | ≤ 22 | alnum |  |  |
-|  | n ÖGD |  |  |  |  |
-| 8624 | Covid-Beauftragung | 1 | num | E174 |  |
+8623
 
-bereits abgerechnet
+8624
 
-Testungen
-
-Beauftragungsgrund
-
-Betreut/untergebracht in
-
-Tätigkeit in Einrichtung
-
-Betroffene Einrichtung
-
-Einverständnis
-
-Corona-GUID 1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-43
+| bereits | abgerechnet |  | 1 |
+|---|---|---|---|
+|  | Testungen |  | 1 |
+|  | Beauftragungsgrund |  | 1 |
+|  | Betreut/untergebracht | in | 1 |
+| Tätigkeit | in | Einrichtung | 1 |
+|  | Betroffene | Einrichtung | 1 |
+|  | Einverständnis |  | 1 |
+|  | Corona-GUID |  | 43 |
+|  | Identifikation/Aktenzeiche | |  |
+|  |  |  | ≤ 22 |
+| n ÖGD |  |  |  |
+|  | Covid-Beauftragung |  | 1 |
 
 num
 
@@ -6289,6 +5713,10 @@ num
 num
 
 alnum
+
+alnum
+
+num
 
 1 = Ja, wenn der GOP durch den Ersteller des Befundes abgerechnet wird
 
@@ -6318,6 +5746,8 @@ Die eindeutige GUID wird nach den folgenden Vorgaben erzeugt:
 
 Beispiel einer erzeugten GUID: 3D6D08-3567F3F2-4DCF-43A3-8737-4CD1F87D6FDA
 
+E174
+
 -  Aufbau ist GUID: <XXXXXX>-<UUID>.
 
 o Komplette Form des Strings: XXXXXX-XXXXXXXX-XXXX-XXXX-XXXX-
@@ -6328,7 +5758,7 @@ XXXXXXXXXXXX.
 
 erzeugt.
 
--  <XXXXXX> wird eine 6-stellige hexadezimale Zufallszahl erzeugt, welche ggf.  linksbündig mit “0” gefüllt werden kann.
+bereits abgerechnet Betreut/untergebracht in Tätigkeit in Einrichtung Betroffene Einrichtung -  <XXXXXX> wird eine 6-stellige hexadezimale Zufallszahl erzeugt, welche ggf.  linksbündig mit “0” gefüllt werden kann.
 
 
 ---
@@ -6337,11 +5767,10 @@ erzeugt.
 
 8626
 
-8627
-
-8629
-
-8630
+| 8627 | KV-Sonderziffer | 1 ≤ 5 | alnum | K131 |  |
+|---|---|---|---|---|---|
+| 8629 | Auftrag | ≤ 6 | alnum | E178 |  |
+| 8630 | Auftragsart | 1 | alnum | E177 |  |
 
 8631
 
@@ -6357,21 +5786,13 @@ erzeugt.
 
 9970
 
-|  | Externe Dokumenten-ID |  |  |  |  |
-|---|---|---|---|---|---|
-| 9980 |  | var | alnum |  |  |
-|  | zur Archivierung |  |  |  |  |
-| 9981 | Dokumentenquelle | 1 | num | E044 |  |
+9980
+
+9981
 
 PLZ ÖGD
 
 Rechtsgrundlage der  Testung
-
-KV-Sonderziffer
-
-Auftrag
-
-Auftragsart
 
 Bestätigungsdiagnostik
 
@@ -6385,13 +5806,13 @@ Originaldokument: Pfad /  Speicherort
 
 Langzeit-Archivierung:  Pfad / Speicherort
 
-Dokumententyp 5
+Dokumententyp
+
+Externe Dokumenten-ID  zur Archivierung
+
+Dokumentenquelle 5
 
 1
-
-1 ≤ 5
-
-≤ 6 1
 
 1
 
@@ -6403,7 +5824,13 @@ Dokumententyp 5
 
 ≤ 60 3
 
+var 1
+
 alnum
+
+num
+
+num
 
 num
 
@@ -6413,27 +5840,15 @@ alnum
 
 alnum
 
+alnum
+
+alnum
+
+alnum
+
 num
-
-num
-
-alnum
-
-alnum
-
-alnum
-
-alnum
-
-alnum
 
 E175  K131  K132
-
-K131
-
-E178
-
-E177
 
 E180  K132
 
@@ -6442,6 +5857,8 @@ E181  K135
 E157
 
 E053  K075
+
+E044
 
 Namenskürzel der Person in deren Kontext die FK verwendet wird  Beispiel: KMu
 
@@ -6553,6 +5970,8 @@ a/nn/JJMM/MM/aaa
 
 Format Versionsnummer der Datensatzbeschreibung
 
+G-alpha ::= A|B|...|Z
+
 kk = erlaubter Inhalt gemäß Regel E014
 
 nnnnn = Seriennummer
@@ -6585,7 +6004,7 @@ aaa = Systemident (alphanumerisch) 9: 00
 
 Verfahrens der Stellen 1 bis 6 der
 
-F009 nnnnn, nnnnn[G-alpha] G-alpha ::= A|B|...|Z n ::= 0|1|...|9
+F009 nnnnn, nnnnn[G-alpha] n ::= 0|1|...|9
 
 
 ---
@@ -6601,24 +6020,19 @@ F014
 | F017 | Basis | F | JJJJ | Format Jahreszahl |
 |---|---|---|---|---|
 | F018 | Basis | F | JJJJMMTT | Format Datum |
-
-F020
-
-KBV
-
-F
+|  |  |  |  | TT = Tag, MM = Monat, JJJJ = Jahr |
+|  |  |  |  | zusätzlich erlaubter Wertebereich: JJJJMM00, JJJJ0000 |
+| F020 | Basis | F | nnnnnnnP | Format der Pharmazentralnummer (PZN) |
 
 KBV
 
 F
 
-Basis
+KBV
 
 F
 
 annnnnnnnP 00nnnnnnP
-
-nnnnnnnP
 
 Format Versicherten-ID
 
@@ -6642,13 +6056,7 @@ mm = Minuten (00
 
 ss = Sekunden (00
 
-ms = Millisekunden (000
-
-TT = Tag, MM = Monat, JJJJ = Jahr
-
-zusätzlich erlaubter Wertebereich: JJJJMM00, JJJJ0000
-
-Format der Pharmazentralnummer (PZN) 23)
+ms = Millisekunden (000 23)
 
 59)
 
@@ -6663,31 +6071,17 @@ gibt sich aus der Differenz
 
 ---
 
-F021
+| F021 | KBV | F |
+|---|---|---|
+| F022 | KBV | F |
+| F023 | KBV | F |
+| F024 | KBV | F |
 
-F022
+35kknnnnn
 
-F023
-
-F024
-
-KBV
-
-KBV
-
-KBV
-
-KBV
-
-F 35kknnnnn
-
-F 555555nff
-
-F
+555555nff
 
 n, nn, n-n, n-nn, nn-nn
-
-F
 
 HPV-Typ-Nummer | ( [ Gruppenname ':' ]  HPV-Typ-Nummer ( ( '/' | '_' ) HPV -Typ- Nummer )+ )
 
@@ -6734,14 +6128,13 @@ HPV-Typ-Nummer und  sches Format. (Bsp.: 18,
 
 **Regelnu** **mmer**
 
-| E001 | Basis | W | LDT3.2.19 | zulässiger Inhalt für FK 0001 |
+| E001 | Basis | W | LDT 3.2.19 | zulässiger Inhalt für FK 0001 |
 |---|---|---|---|---|
 | E002 | KBV | F | 1, 3, 5 | 1 = Mitglied |
 
-E003
-
-| E004 | Basis | F | 8220, 8221, 8230, 8231, 8205, 8215 |  |
+| E003 | Basis | F | 002-999 |  |
 |---|---|---|---|---|
+| E004 | Basis | F | 8220, 8221, 8230, 8231, 8205, 8215 |  |
 | E005 | Basis | F | Bei numerischen Werten: | Bei numerischen Werten: |
 
 E006
@@ -6754,19 +6147,13 @@ Basis
 
 Basis
 
-Basis
-
 **Fehlerstatus**
 
 F
 
 F
 
-F
-
 **Prüfung**
-
-002-999
 
 N, H, +, HH, ++, L, -, LL, --, !H, !+, !L, !-
 
@@ -6808,11 +6195,6 @@ Bei nicht numerischen Werten:
 ---
 
 *es wird auch keine Information dazu ausgegeben oder angegeben werden*
-
-| **IT in** | **der Arztpraxis** |  |  |
-|---|---|---|---|
-| LDT 3.0 |  |  |  |
-| LDT 3 | Satzbeschreibung, | Version | 3.2.19 |
 
 *können.*
 
@@ -6862,9 +6244,16 @@ Bei nicht numerischen Werten:
 
 *Absicherung des bisher ermittelten ärztlich validierten Befundes ist erforderlich.*  *Die weiteren Ergebnisse werden in folgenden Befundberichten ergänzt.*
 
-*Kommentar: Diese Ergebnisse werden zu Befunden (einer Leistung). Der*  *Befundbericht vor Einleitung der erweiterten Analytik kann nur den Status*   *„Auftrag nicht abgeschlossen“ haben. Sollte dies nicht zutreffen ist ein neuer*
+*Kommentar: Diese Ergebnisse werden zu Befunden (einer Leistung). Der*  *Befundbericht vor Einleitung der erweiterten Analytik kann nur den Status*
+
+*„Auftrag nicht abgeschlossen“ haben. Sollte dies nicht zutreffen ist ein neuer*
 
 *Auftrag zu erstellen“!*
+
+| **IT in** | **der Arztpraxis** |  |  |
+|---|---|---|---|
+| LDT 3.0 |  |  |  |
+| LDT 3 | Satzbeschreibung, | Version | 3.2.19 |
 
 
 ---
@@ -6873,12 +6262,10 @@ E008
 
 E009
 
-E010
-
-E011
-
-| E012 | Basis | F | >0 |  |
+| E010 | KBV | F | 00 |  |
 |---|---|---|---|---|
+| E011 | Basis | F | 1 | 1 = ja |
+| E012 | Basis | F | >0 |  |
 | E013 | Basis | F | 0, 1, 2, 3, 4, 5, 6 | 0 = Papier |
 
 |  |  |  | 81, 83, 85-88, 93-96, 98, 99 | Knappschaftskennung |
@@ -6892,21 +6279,9 @@ F
 
 KBV
 
-F
-
-KBV
-
-F
-
-Basis
-
 F 0, 1, 2, 3, 4
 
 21, 23, 24, 27, 28
-
-00
-
-1
 
 **11** = Material fehlt  *Für die Untersuchungsanforderung ist kein Material für die Analytik vorhanden.*
 
@@ -6918,17 +6293,17 @@ F 0, 1, 2, 3, 4
 
 4 = BG Tarif
 
-21 = Auftragsleistungen  23 = Konsiliaruntersuchung  24 = Mit-/Weiterbehandlung  27 = Überweisungsschein für Laboratoriumsuntersuchungen als  00 = Auftragsleistung (Muster 10)  28 = Anforderungsschein für Laboratoriumsuntersuchungen bei  00 = Laborgemeinschaften (Muster 10A) 1 = ja
-
-1 = Telefon
+21 = Auftragsleistungen  23 = Konsiliaruntersuchung  24 = Mit-/Weiterbehandlung  27 = Überweisungsschein für Laboratoriumsuntersuchungen als  00 = Auftragsleistung (Muster 10)  28 = Anforderungsschein für Laboratoriumsuntersuchungen bei  00 = Laborgemeinschaften (Muster 10A) 1 = Telefon
 
 2 = Fax
 
 3 = E-Mail
 
-4 = DFÜ  5 = Tourpost  6 = KV-Connect
+4 = DFÜ  5 = Tourpost  6 = KV-Connect -Kennungen in
 
-E014 01-03, 06-21, 24, 25, 27, 28, 31, 37-73,  78- Zulässige UKV/OKV -Kennungen in den Arztnummern und
+den
+
+E014 01-03, 06-21, 24, 25, 27, 28, 31, 37-73,  78- Zulässige UKV/OKVArztnummern und
 
 
 ---
@@ -6977,49 +6352,46 @@ E016 Basis 1 = Keim
 
 E021 KBV
 
-| 11 = | Osteoporose |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-| 12 = | Adipositas |  |  |  |  |  |  |
-| 30 = | Diabetes Typ 2 | und KHK |  |  |  |  |  |
-| 31 = Asthma | und | Diabetes Typ | 2 |  |  |  |  |
-| 32 = COPD | und Diabetes | Typ | 2 |  |  |  |  |
-| 33 = COPD | und KHK |  |  |  |  |  |  |
-| 34 = COPD, | Diabetes | Typ 2 | und KHK |  |  |  |  |
-| 35 = Asthma | und KHK |  |  |  |  |  |  |
-| 36 = Asthma, | Diabetes | Typ | 2 und | KHK |  |  |  |
-| 37 = | Brustkrebs und | Diabetes | Typ 2 |  |  |  |  |
-| 38 = | Diabetes Typ 1 | und KHK |  |  |  |  |  |
-| 39 = Asthma | und | Diabetes Typ | 1 |  |  |  |  |
-| 40 = Asthma | und | Brustkrebs |  |  |  |  |  |
-| 41 = | Brustkrebs und | KHK |  |  |  |  |  |
-| 42 = | Brustkrebs und | COPD |  |  |  |  |  |
-| 43 = COPD | und Diabetes | Typ | 1 |  |  |  |  |
-| 44 = | Brustkrebs, | Diabetes | Typ 2 und | KHK |  |  |  |
-| 45 = Asthma, | Brustkrebs | und | Diabetes | Typ | 2 |  |  |
-| 46 = | Brustkrebs und | Diabetes | Typ 1 |  |  |  |  |
-| 47 = COPD, | Diabetes | Typ 1 | und KHK |  |  |  |  |
-| 48 = | Brustkrebs, COPD | und | Diabetes | Typ 2 |  |  |  |
-| 49 = Asthma, | Diabetes | Typ | 1 und | KHK |  |  |  |
-| 50 = Asthma, | Brustkrebs | und | KHK |  |  |  |  |
-| 51 = | Brustkrebs, | COPD und | KHK |  |  |  |  |
-| 52 = | Brustkrebs, | COPD, | Diabetes | Typ 2 und | KHK |  |  |
-| 53 = Asthma, | Brustkrebs, |  | Diabetes | Typ 2 | und KHK |  |  |
-| 54 = | Brustkrebs, | Diabetes | Typ 1 und | KHK |  |  |  |
-| 55 = Asthma, | Brustkrebs | und | Diabetes | Typ | 1 |  |  |
-| 56 = Asthma, | Brustkrebs, |  | Diabetes | Typ 1 | und KHK |  |  |
-| 57 = | Brustkrebs, COPD | und | Diabetes | Typ 1 |  |  |  |
-| 58 = | Brustkrebs, | COPD, | Diabetes | Typ 1 und | KHK |  |  |
-| 00 = keine | Angabe |  |  |  |  |  |  |
-| 04 = BSHG |  | (Bundessozialhilfegesetz) | | § 264 | SGB V |  |  |
-| 06 = SER | (Soziales |  | Entschädigungsrecht) | |  |  |  |
-| 07 = | SVA-Kennzeichnung | für |  | zwischenstaatliches | |  |  |
-| 00 = | Krankenversicherungsrecht: | | | Personen | mit Wohnsitz | im | Inland, |
-| 00 = | Abrechnung nach | Aufwand | |  |  |  |  |
-|  |  |  |  |  |  | Seite | 82 von 187 |
+|  | 11 = | Osteoporose |  |  |  |  |
+|---|---|---|---|---|---|---|
+|  | 12 = | Adipositas |  |  |  |  |
+|  | 30 = | Diabetes Typ 2 | und KHK |  |  |  |
+|  | 31 = Asthma | und | Diabetes Typ 2 |  |  |  |
+|  | 32 = COPD | und Diabetes | Typ 2 |  |  |  |
+|  | 33 = COPD | und KHK |  |  |  |  |
+|  | 34 = COPD, | Diabetes | Typ 2 und | KHK |  |  |
+|  | 35 = Asthma | und KHK |  |  |  |  |
+|  | 36 = | Asthma, Diabetes | Typ 2 und | KHK |  |  |
+|  | 37 = | Brustkrebs und | Diabetes Typ | 2 |  |  |
+|  | 38 = | Diabetes Typ 1 | und KHK |  |  |  |
+|  | 39 = Asthma | und | Diabetes Typ 1 |  |  |  |
+|  | 40 = Asthma | und | Brustkrebs |  |  |  |
+|  | 41 = | Brustkrebs und | KHK |  |  |  |
+|  | 42 = | Brustkrebs und | COPD |  |  |  |
+|  | 43 = COPD | und Diabetes | Typ 1 |  |  |  |
+|  | 44 = | Brustkrebs, | Diabetes Typ 2 | und KHK |  |  |
+|  | 45 = Asthma, | Brustkrebs | und | Diabetes Typ | 2 |  |
+|  | 46 = | Brustkrebs und | Diabetes Typ | 1 |  |  |
+|  | 47 = COPD, | Diabetes | Typ 1 und | KHK |  |  |
+|  | 48 = | Brustkrebs, COPD | und Diabetes | Typ | 2 |  |
+|  | 49 = | Asthma, Diabetes | Typ 1 und | KHK |  |  |
+|  | 50 = | Asthma, Brustkrebs | und KHK |  |  |  |
+|  | 51 = | Brustkrebs, | COPD und KHK |  |  |  |
+|  | 52 = | Brustkrebs, | COPD, Diabetes | Typ 2 | und KHK |  |
+|  | 53 = Asthma, | Brustkrebs, | Diabetes | Typ 2 | und KHK |  |
+|  | 54 = | Brustkrebs, | Diabetes Typ 1 | und KHK |  |  |
+|  | 55 = Asthma, | Brustkrebs | und | Diabetes Typ | 1 |  |
+|  | 56 = Asthma, | Brustkrebs, | Diabetes | Typ 1 | und KHK |  |
+|  | 57 = | Brustkrebs, COPD | und Diabetes | Typ | 1 |  |
+|  | 58 = | Brustkrebs, | COPD, Diabetes | Typ 1 | und KHK |  |
+|  | 00 = keineAngabeF00,04,06,07,08,09 | |  |  |  |  |
+|  | 04 = BSHG |  | (Bundessozialhilfegesetz) | § 264 | SGB V |  |
+|  | 06 = SER | (Soziales | Entschädigungsrecht) | |  |  |
+|  | 07 = | SVA-Kennzeichnung | für | zwischenstaatliches | |  |
+|  | 00 = | Krankenversicherungsrecht: | | Personen | mit Wohnsitz | im Inland, |
+|  | 00 = | Abrechnung nach | Aufwand |  |  |  |
 
-F 00, 04, 06, 07, 08, 09
-
-11 = Osteoporose  12 = Adipositas 30 = Diabetes Typ 2 und KHK 31 = Asthma und Diabetes Typ 2 32 = COPD und Diabetes Typ 2 33 = COPD und KHK 34 = COPD, Diabetes Typ 2 und KHK 35 = Asthma und KHK 36 = Asthma, Diabetes Typ 2 und KHK 37 = Brustkrebs und Diabetes Typ 2 38 = Diabetes Typ 1 und KHK 39 = Asthma und Diabetes Typ 1 40 = Asthma und Brustkrebs 41 = Brustkrebs und KHK 42 = Brustkrebs und COPD 43 = COPD und Diabetes Typ 1 44 = Brustkrebs, Diabetes Typ 2 und KHK 45 = Asthma, Brustkrebs und Diabetes Typ 2 46 = Brustkrebs und Diabetes Typ 1 47 = COPD, Diabetes Typ 1 und KHK 48 = Brustkrebs, COPD und Diabetes Typ 2 49 = Asthma, Diabetes Typ 1 und KHK 50 = Asthma, Brustkrebs und KHK 51 = Brustkrebs, COPD und KHK 52 = Brustkrebs, COPD, Diabetes Typ 2 und KHK 53 = Asthma, Brustkrebs, Diabetes Typ 2 und KHK 54 = Brustkrebs, Diabetes Typ 1 und KHK 55 = Asthma, Brustkrebs und Diabetes Typ 1 56 = Asthma, Brustkrebs, Diabetes Typ 1 und KHK 57 = Brustkrebs, COPD und Diabetes Typ 1 58 = Brustkrebs, COPD, Diabetes Typ 1 und KHK 00 = keine Angabe 04 = BSHG (Bundessozialhilfegesetz) § 264 SGB V 06 = SER (Soziales Entschädigungsrecht) 07 = SVA-Kennzeichnung für zwischenstaatliches  00 = Krankenversicherungsrecht: Personen mit Wohnsitz im Inland, 00 = Abrechnung nach Aufwand
+11 = Osteoporose  12 = Adipositas 30 = Diabetes Typ 2 und KHK 31 = Asthma und Diabetes Typ 2 32 = COPD und Diabetes Typ 2 33 = COPD und KHK 34 = COPD, Diabetes Typ 2 und KHK 35 = Asthma und KHK 36 = Asthma, Diabetes Typ 2 und KHK 37 = Brustkrebs und Diabetes Typ 2 38 = Diabetes Typ 1 und KHK 39 = Asthma und Diabetes Typ 1 40 = Asthma und Brustkrebs 41 = Brustkrebs und KHK 42 = Brustkrebs und COPD 43 = COPD und Diabetes Typ 1 44 = Brustkrebs, Diabetes Typ 2 und KHK 45 = Asthma, Brustkrebs und Diabetes Typ 2 46 = Brustkrebs und Diabetes Typ 1 47 = COPD, Diabetes Typ 1 und KHK 48 = Brustkrebs, COPD und Diabetes Typ 2 49 = Asthma, Diabetes Typ 1 und KHK 50 = Asthma, Brustkrebs und KHK 51 = Brustkrebs, COPD und KHK 52 = Brustkrebs, COPD, Diabetes Typ 2 und KHK 53 = Asthma, Brustkrebs, Diabetes Typ 2 und KHK 54 = Brustkrebs, Diabetes Typ 1 und KHK 55 = Asthma, Brustkrebs und Diabetes Typ 1 56 = Asthma, Brustkrebs, Diabetes Typ 1 und KHK 57 = Brustkrebs, COPD und Diabetes Typ 1 58 = Brustkrebs, COPD, Diabetes Typ 1 und KHK 00 = keine Angabe 00, 04, 06, 07, 08, 09 04 = BSHG (Bundessozialhilfegesetz) § 264 SGB V 06 = SER (Soziales Entschädigungsrecht) 07 = SVA-Kennzeichnung für zwischenstaatliches  00 = Krankenversicherungsrecht: Personen mit Wohnsitz im Inland, 00 = Abrechnung nach Aufwand
 
 ---
 
@@ -7214,7 +6586,7 @@ E033 1 = organisch  E036 Feld kann ohne Inhalt übertragen werden Damit wird die
 
 |  |  |  |  | 2 = fremd |
 |---|---|---|---|---|
-| E046 | Basis | F | 1, 2, 3, 4, 5 oder 6 | 1 = Arztpraxis |
+| E046 | Basis | F | Arztpraxis1,2,3,4,5oder6 | 1 = |
 
 E047
 
@@ -7248,28 +6620,15 @@ F 2 = Laborarztpraxis
 
 Krebsfrüherkennungs- und -registergesetz  ** Infektionsschutzgesetz
 
-E042 1 = Physischer Ort Hinweis:  Die Information zur erfolgten Meldung nach KFRG bzw. IfSG erfolgt  immer im Obj_0026, welches sich in dem Untersuchungsergebnis  befindet, dass die Meldepflicht begründet.
+E042 1 = Physischer Ort 1 = Arztpraxis 1, 2, 3, 4, 5 oder 6  Hinweis:  Die Information zur erfolgten Meldung nach KFRG bzw. IfSG erfolgt  immer im Obj_0026, welches sich in dem Untersuchungsergebnis  befindet, dass die Meldepflicht begründet.
 
 
 ---
 
-E050
-
-E051
-
-E052
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
+| E050 | Basis | F |
+|---|---|---|
+| E051 | Basis | F |
+| E052 | Basis | F |
 
 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11,
 
@@ -7506,644 +6865,104 @@ Obj_0059 = Obj_Untersuchungsanforderung  Obj_0060 = Obj_Untersuchungsergebnis Kl
 
 ---
 
-E073
-
-E074
-
-E075
-
-E076
-
-E077
-
-E078
-
-E079
-
-E080
-
-E081
-
-E082
-
-E083
-
-E084
-
-E085
-
-E086
-
-E087
-
-E088
-
-| E089 | Basis | F | Kopfdaten | Inhalt des Objektattributes |
+| E073 | Basis | F | Abrechnung_PKV | Inhalt des Objektattributes |
 |---|---|---|---|---|
+| E074 | Basis | F | Abrechnung_IGEL | Inhalt des Objektattributes |
+| E075 | Basis | F | Abrechnung_Sonstige_Kostenuebernahme | Inhalt des Objektattributes |
+| E076 | Basis | F | Abrechnung_Selektivvertrag | Inhalt des Objektattributes |
+| E077 | Basis | F | Anschrift | Inhalt des Objektattributes |
+| E078 | Basis | F | Adressat | Inhalt des Objektattributes |
+| E079 | Basis | F | Anhang | Inhalt des Objektattributes |
+| E080 | Basis | F | Antibiogramm | Inhalt des Objektattributes |
+| E081 | Basis | F | Auftragsinformation | Inhalt des Objektattributes |
+| E082 | Basis | F | Befundinformationen | Inhalt des Objektattributes |
+| E083 | Basis | F | Abweichender_Befundweg | Inhalt des Objektattributes |
+| E084 | Basis | F | Betriebsstaette | Inhalt des Objektattributes |
+| E085 | Basis | F | Einsenderidentifikation | Inhalt des Objektattributes |
+| E086 | Basis | F | Fehlermeldung_Aufmerksamkeit | Inhalt des Objektattributes |
+| E087 | Basis | F | Veranlassungsgrund | Inhalt des Objektattributes |
+| E088 | Basis | F | Kommunikationsdaten | Inhalt des Objektattributes |
+| E089 | Basis | F | Kopfdaten | Inhalt des Objektattributes |
 | E090 | Basis | F | Krebsfrueherkennung_Zervix-Karzinom | Inhalt des Objektattributes |
 
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Abrechnung_PKV
-
-Abrechnung_IGEL
-
-Abrechnung_Sonstige_Kostenuebernahme
-
-Abrechnung_Selektivvertrag
-
-Anschrift
-
-Adressat
-
-Anhang
-
-Antibiogramm
-
-Auftragsinformation
-
-Befundinformationen
-
-Abweichender_Befundweg
-
-Betriebsstaette
-
-Einsenderidentifikation
-
-Fehlermeldung_Aufmerksamkeit
-
-Veranlassungsgrund
-
-Kommunikationsdaten
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
 
 ---
 
-E091
-
-E092
-
-E093
-
-E094
-
-E095
-
-E096
-
-E097
-
-E098
-
-E099
-
-E100
-
-E101
-
-E102
-
-E103
-
-E104
-
-E105
-
-E106
-
-| E107 | Basis | F | Untersuchungsabrechnung | Inhalt des Objektattributes |
+| E091 | Basis | F | Laborergebnisbericht | Inhalt des Objektattributes |
 |---|---|---|---|---|
+| E092 | Basis | F | Laborkennung | Inhalt des Objektattributes |
+| E093 | Basis | F | Material | Inhalt des Objektattributes |
+| E094 | Basis | F | Mutterschaft | Inhalt des Objektattributes |
+| E095 | Basis | F | Namenskennung | Inhalt des Objektattributes |
+| E096 | Basis | F | Normalwert | Inhalt des Objektattributes |
+| E097 | Basis | F | Organisation | Inhalt des Objektattributes |
+| E098 | Basis | F | Patient | Inhalt des Objektattributes |
+| E099 | Basis | F | Person | Inhalt des Objektattributes |
+| E100 | Basis | F | RgEmpfaenger | Inhalt des Objektattributes |
+| E101 | Basis | F | Schwangerschaft | Inhalt des Objektattributes |
+| E102 | Basis | F | Sendendes_System | Inhalt des Objektattributes |
+| E103 | Basis | F | Tier_Sonstiges | Inhalt des Objektattributes |
+| E104 | Basis | F | Timestamp | Inhalt des Objektattributes |
+| E105 | Basis | F | Blutgruppenzugehoerigkeit | Inhalt des Objektattributes |
+| E106 | Basis | F | Tumor | Inhalt des Objektattributes |
+| E107 | Basis | F | Untersuchungsabrechnung | Inhalt des Objektattributes |
 | E108 | Basis | F | Untersuchungsanforderung | Inhalt des Objektattributes |
 
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Laborergebnisbericht
-
-Laborkennung
-
-Material
-
-Mutterschaft
-
-Namenskennung
-
-Normalwert
-
-Organisation
-
-Patient
-
-Person
-
-RgEmpfaenger
-
-Schwangerschaft
-
-Sendendes_System
-
-Tier_Sonstiges
-
-Timestamp
-
-Blutgruppenzugehoerigkeit
-
-Tumor
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
 
 ---
 
-E109
-
-E110
-
-E111
-
-E112
-
-E113
-
-E114
-
-E115
-
-E116
-
-| E118 | Basis | F | Softwareverantwortlicher | Inhalt des Objektattributes |
+| E109 | Basis | F | UE_Klinische_Chemie | Inhalt des Objektattributes |
 |---|---|---|---|---|
+| E110 | Basis | F | UE_Mikrobiologie | Inhalt des Objektattributes |
+| E111 | Basis | F | UE_Krebsfrueherkennung_Zervix-Karzinom | Inhalt des Objektattributes |
+| E112 | Basis | F | UE_Zytologie | Inhalt des Objektattributes |
+| E113 | Basis | F | Zusaetzliche_Informationen | Inhalt des Objektattributes |
+| E114 | Basis | F | Fliesstext | Inhalt des Objektattributes |
+| E115 | Basis | F | base64-kodierte_Anlage | Inhalt des Objektattributes |
+| E116 | Basis | F | Akutdiagnose | Inhalt des Objektattributes |
+| E118 | Basis | F | Softwareverantwortlicher | Inhalt des Objektattributes |
 | E119 | Basis | F | Timestamp_Erstellung_Untersuchungs- | Inhalt des Objektattributes |
 
-E120
-
-E121
-
-E122
-
-E123
-
-E124
-
-| E125 | Basis | F | Timestamp_Materialabnahme_entnahme | Inhalt des Objektattributes |
+| E120 | Basis | F | Timestamp_Auftragserteilung | Inhalt des Objektattributes |
 |---|---|---|---|---|
+| E121 | Basis | F | Timestamp_Auftragseingang | Inhalt des Objektattributes |
+| E122 | Basis | F | Timestamp_Befunderstellung | Inhalt des Objektattributes |
+| E123 | Basis | F | Praezisierung_Veranlassungsgrund | Inhalt des Objektattributes |
+| E124 | Basis | F | Timestamp_Erstellung_Datensatz | Inhalt des Objektattributes |
+| E125 | Basis | F | Timestamp_Materialabnahme_entnahme | Inhalt des Objektattributes |
 | E126 | Basis | F | Timestamp_Eingangserfassung_Material | Inhalt des Objektattributes |
 
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-UE_Klinische_Chemie
-
-UE_Mikrobiologie
-
-UE_Krebsfrueherkennung_Zervix-Karzinom
-
-UE_Zytologie
-
-Zusaetzliche_Informationen
-
-Fliesstext
-
-base64-kodierte_Anlage
-
-Akutdiagnose
-
 anforderung
-
-Timestamp_Auftragserteilung
-
-Timestamp_Auftragseingang
-
-Timestamp_Befunderstellung
-
-Praezisierung_Veranlassungsgrund
-
-Timestamp_Erstellung_Datensatz
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
 
 
 ---
 
 E127
 
-E128
-
-E129
-
-E130
-
-E131
-
-E132
-
-E133
-
-E134
-
-E135
-
-E136
-
-E137
-
-E138
-
-E139
-
-E141
-
-E142
-
-E143
-
-| E144 | Basis | F | Auftragsbezogene_Hinweise | Inhalt des Objektattributes |
+| E128 | Basis | F | Timestamp_Beginn_Analytik | Inhalt des Objektattributes |
 |---|---|---|---|---|
+| E129 | Basis | F | Timestamp_Ergebniserstellung | Inhalt des Objektattributes |
+| E130 | Basis | F | Timestamp_QM_Erfassung | Inhalt des Objektattributes |
+| E131 | Basis | F | Timestamp_Messung | Inhalt des Objektattributes |
+| E132 | Basis | F | Timestamp_Gueltig_ab | Inhalt des Objektattributes |
+| E133 | Basis | F | Timestamp_Gueltig_bis | Inhalt des Objektattributes |
+| E134 | Basis | F | Wohnanschrift | Inhalt des Objektattributes |
+| E135 | Basis | F | Anschrift_Arbeitsstelle | Inhalt des Objektattributes |
+| E136 | Basis | F | Rechnungsanschrift | Inhalt des Objektattributes |
+| E137 | Basis | F | Temporaere_Anschrift | Inhalt des Objektattributes |
+| E138 | Basis | F | Private_Kommunikationsdaten | Inhalt des Objektattributes |
+| E139 | Basis | F | Geschaeftliche_Kommunikationsdaten | Inhalt des Objektattributes |
+| E141 | Basis | F | Person_zum_Timestamp | Inhalt des Objektattributes |
+| E142 | Basis | F | Testbezogene_Hinweise | Inhalt des Objektattributes |
+| E143 | Basis | F | Ergebnistext | Inhalt des Objektattributes |
+| E144 | Basis | F | Auftragsbezogene_Hinweise | Inhalt des Objektattributes |
 | E145 | Basis | F | Laborbezeichnung | Inhalt des Objektattributes |
 
 Basis
 
 F
 
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
 Timestamp_Erstellung_  Laborergebnisbericht
-
-Timestamp_Beginn_Analytik
-
-Timestamp_Ergebniserstellung
-
-Timestamp_QM_Erfassung
-
-Timestamp_Messung
-
-Timestamp_Gueltig_ab
-
-Timestamp_Gueltig_bis
-
-Wohnanschrift
-
-Anschrift_Arbeitsstelle
-
-Rechnungsanschrift
-
-Temporaere_Anschrift
-
-Private_Kommunikationsdaten
-
-Geschaeftliche_Kommunikationsdaten
-
-Person_zum_Timestamp
-
-Testbezogene_Hinweise
-
-Ergebnistext
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
 
 Inhalt des Objektattributes
 
@@ -8154,34 +6973,14 @@ E146
 
 E147
 
-E149
-
-E150
-
-E151
-
-E152
-
-| E153 | Basis | F | Koerperkenngroessen | Inhalt des Objektattributes |
+| E149 | Basis | F | Arztidentifikation | Inhalt des Objektattributes |
 |---|---|---|---|---|
+| E150 | Basis | F | Ueberweisung_von_anderen_Aerzten | Inhalt des Objektattributes |
+| E151 | Basis | F | Ueberweisung_an | Inhalt des Objektattributes |
+| E152 | Basis | F | Medikament | Inhalt des Objektattributes |
+| E153 | Basis | F | Koerperkenngroessen | Inhalt des Objektattributes |
 | E154 | Basis | F | Timestamp_Zeitpunkt | Inhalt des Objektattributes |
 |  |  |  | _Medikamenteneinnahme |  |
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
 
 Basis
 
@@ -8195,25 +6994,9 @@ F
 
 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12
 
-Arztidentifikation
-
-Ueberweisung_von_anderen_Aerzten
-
-Ueberweisung_an
-
-Medikament
-
 01 = Vorsorge  02 = Verlaufskontrolle  03 = Zustand vor  04 = Zustand nach  05 = Ausschluss  06 = Bestätigung  07 = gezielte Suche  08 = ungezielte Suche  09 = Erfolgskontrolle  10 = Abschlusskontrolle  11 = Immunität/Impferfolg
 
 01 = Eingriff  02 = Medikamentengabe  03 = unklares Fieber  04 = Infektion  05 = Rheuma  06 = Allergie  07 = Herz/Kreislauf  08 = Tumor  09 = Impfungen  10 = Reisen  11 = Immunität nach Infektion  12 = Sonstiges
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
 
 
 ---
@@ -8224,16 +7007,12 @@ Inhalt des Objektattributes
 
 E157
 
-E158
-
-E159
-
-E160
-
-E161
-
-| E162 | Basis | F | UE_Sonstige_Untersuchungsergebnisse | Inhalt des Objektattributes |
+| E158 | Basis | F | BAK | Inhalt des Objektattributes |
 |---|---|---|---|---|
+| E159 | Basis | F | BAK-Ergebnis | Inhalt des Objektattributes |
+| E160 | Basis | F | BAK-Ergebniswertbezogene_Hinweise | Inhalt des Objektattributes |
+| E161 | Basis | F | Diagnostische_Bewertung_Empfehlung | Inhalt des Objektattributes |
+| E162 | Basis | F | UE_Sonstige_Untersuchungsergebnisse | Inhalt des Objektattributes |
 | E163 | Basis | F | UTC−12, UTC−11, UTC−10, UTC−9:30, | Die koordinierte Weltzeit, kurz UTC, ist die heute gültige Weltzeit. |
 
 E164
@@ -8246,31 +7025,7 @@ Basis
 
 F
 
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
-Basis
-
-F
-
 Der Prüfwert wird mit dem Algorithmus SHA 1 berechnet. Der SHA-1 Wert wird aus allen  Zeichen vor der Zeile der Feldkennung 9300  generiert.
-
-BAK
-
-BAK-Ergebnis
-
-BAK-Ergebniswertbezogene_Hinweise
-
-Diagnostische_Bewertung_Empfehlung
 
 UTC−9, UTC−8, UTC−7, UTC−6, UTC−5,  UTC−4, UTC−3:30, UTC−3, UTC−2,  UTC−1, UTC, UTC+1, UTC+2, UTC+3,
 
@@ -8279,14 +7034,6 @@ UTC+3:30, UTC+4, UTC+4:30, UTC+5,  UTC+5:30, UTC+5:45, UTC+6, UTC+6:30,  UTC+7, 
 2 = Bedarfsmedikation  3 = Dauermedikation  4 = Selbstmedikation
 
 Dient der Sicherstellung der Integrität der Daten in der Datei.
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
-
-Inhalt des Objektattributes
 
 Eingeführt wurde sie 1972. Aus einer Zeitangabe in UTC ergibt sich die  entsprechende, in Deutschland,
 
@@ -8307,9 +7054,9 @@ UTC+2 entspricht MESZ
 |---|---|---|---|---|
 | E165 | SV | F | 0, 1, 2, 3 | 0 = unbekannt |
 
-|  |  |  |  | 2 = sterilisiert |
-|---|---|---|---|---|
-| E167 | Basis | F | 1, 2, 3 | 1 = 20-29 Jahre |
+E166
+
+E167
 
 E168
 
@@ -8325,6 +7072,14 @@ E169
 
 E173
 
+SV
+
+F
+
+Basis
+
+F
+
 Basis
 
 F
@@ -8335,15 +7090,21 @@ F
 
 Basis
 
-F 1, 2, 3, 4
+F 1, 2
 
 1, 2, 3
 
 1, 2, 3, 4
 
-1 = weiblich  2 = männlich  3 = unbestimmt 2 = 30-34 Jahre
+1, 2, 3
 
-3 = ab 35 Jahre
+1, 2, 3, 4
+
+1 = weiblich  2 = männlich  3 = unbestimmt
+
+1 = kastriert  2 = sterilisiert
+
+1 = 20-29 Jahre  2 = 30-34 Jahre 3 = ab 35 Jahre
 
 1 = vollständig  2 = unvollständig  3 = keine 4 = unklar
 
@@ -8353,7 +7114,7 @@ F 1, 2, 3, 4
 
 Voraufenthalt Virusvariantengebiet  3 = Test nach § 3 TestV Ausbruchsgeschehen  4 = Test nach § 4 Abs. 1 Nr. 1 und 2 TestV Verhütung der Verbreitung
 
-E166 SV 1 = kastriert 1 = Medizinischen Einrichtungen  2 = Pflege- und anderen Wohneinrichtungen  3 = Gemeinschaftseinrichtungen  4 = Sonstigen Einrichtungen
+1 = Medizinischen Einrichtungen  2 = Pflege- und anderen Wohneinrichtungen  3 = Gemeinschaftseinrichtungen  4 = Sonstigen Einrichtungen
 
 
 ---
@@ -8411,16 +7172,31 @@ E176 0, 1 0 = unauffällig ### der Spalte „Gruppe“ den Wert, der im LDT mit 
 
 ---
 
-II-a  IIw bzw. IIk  II-p  II-g  II-e  IIID  IIID1  IIID2
+II-a
 
-III  III-p  III-g  III-e  III-x
-
-IVa  IVa-p  IVa-g  IVb  IVb-p  IVb-g  V  V-p
-
-V-g
-
-| V-e | V = 8 | e = 3 | 8,3 | **III** |
+| IIw bzw. IIk | IIw = 3 (KV: II) | 0 | 3,0 | II |
 |---|---|---|---|---|
+| II-p | IIw = 3 (KV: II) | p = 1 | 3,1 | **III** |
+| II-g | IIw = 3 (KV: II) | g = 2 | 3,2 | **III** |
+| II-e | IIw = 3 (KV: II) | e = 3 | 3,3 | **III** |
+| IIID | IIID = 4 | 0 | 4,0 | II |
+| IIID1 | IIID = 4 | D1 = 1 | 4,1 | **III** |
+| IIID2 | IIID = 4 | D2 = 2 | 4,2 | **III** |
+| III | III = 5 | 0 | 5,0 | II |
+| III-p | III = 5 | p = 1 | 5,1 | **III** |
+| III-g | III = 5 | g = 2 | 5,2 | **III** |
+| III-e | III = 5 | e = 3 | 5,3 | **III** |
+| III-x | III = 5 | x = 4 | 5,4 | **III** |
+| IVa | IVa = 6 | 0 | 6,0 | II |
+| IVa-p | IVa = 6 | p = 1 | 6,1 | **III** |
+| IVa-g | IVa = 6 | g = 2 | 6,2 | **III** |
+| IVb | IVb = 7 | 0 | 7,0 | II |
+| IVb-p | IVb = 7 | p = 1 | 7,1 | **III** |
+| IVb-g | IVb = 7 | g = 2 | 7,2 | **III** |
+| V | V = 8 | 0 | 8,0 | II |
+| V-p | V = 8 | p = 1 | 8,1 | **III** |
+| V-g | V = 8 | g = 2 | 8,2 | **III** |
+| V-e | V = 8 | e = 3 | 8,3 | **III** |
 | V-x | V = 8 | x = 4 | 8,4 | **III** |
 
 ### Hinweis:
@@ -8437,17 +7213,13 @@ Feldkennungen bzw. deren Inhalten fest.
 |---|---|---|---|---|
 | **mmer** |  |  |  |  |
 
-II = 2  IIw = 3 (KV: II)  IIw = 3 (KV: II)  IIw = 3 (KV: II)  IIw = 3 (KV: II)  IIID = 4  IIID = 4  IIID = 4  III = 5  III = 5  III = 5  III = 5  III = 5  IVa = 6  IVa = 6  IVa = 6  IVb = 7  IVb = 7  IVb = 7  V = 8  V = 8  V = 8
+II = 2 2
 
-2  0  p = 1  g = 2  e = 3  0  D1 = 1  D2 = 2  0  p = 1  g = 2  e = 3  x = 4  0  p = 1  g = 2  0  p = 1  g = 2  0  p = 1  g = 2
-
-2,2  3,0  3,1  3,2  3,3  4,0  4,1  4,2  5,0  5,1  5,2  5,3  5,4 6,0  6,1  6,2  7,0  7,1  7,2
-
-8,0  8,1  8,2
+2,2
 
 ### „Nomenklatur“ den Wert „II“ haben dürfen nur bei Befunden
 
-**III**  II  **III**  **III**  **III**  II  **III**  **III**  II  **III**  **III**  **III**  **III**  II  **III**  **III**  II  **III**  **III**  II  **III**  **III**
+**III**
 
 ### bis zum 31.12.2014 verwendet werden.
 
@@ -8459,26 +7231,21 @@ II = 2  IIw = 3 (KV: II)  IIw = 3 (KV: II)  IIw = 3 (KV: II)  IIw = 3 (KV: II)  
 |  |  |  | vorhanden. |  |
 | K002 | Basis | F | Wenn Feldinhalt von FK 8419 = 1 oder 2, | Wenn zu einem Ergebnisw ert Maßeinheit angegeben wird, muss |
 
-|  |  |  | muss FK 8421 vorkommen. | angegeben werden, ob es sich bei der Maßeinheit um eine konventionelle |
-|---|---|---|---|---|
-|  |  |  | Wenn Feldinhalt von FK 8419 = 9, darf FK | oder SI-Einheit handelt. Wenn zu einem Ergebniswert keine Maßeinheit |
-|  |  |  | 8421 nicht vorkommen. | angegeben wird, muss angegeben werden, dass es sich bei dem |
-|  |  |  |  | Ergebniswert um eine sogenannte „dimensionslose Größe“ handelt. |
-| K003 | KBV | F | Wenn Feldinhalt von FK 7303 = 1, 8 oder 9 | Wird die FK 8410 (Test -Ident) im Kontext mit der Überweisung von |
-
 |  |  |  | ist und FK 8410 vorhanden, muss auch FK | Laborleistungen an einen Laborfacharzt verwendet, muss die FK 8411 |
 |---|---|---|---|---|
 |  |  |  | 8411 vorhanden sein. | (Testbezeichnung) im Datensatz vorkommen (mit Inhalt der FK 8411 |
 |  |  |  |  | muss das Auftragsfeld des digitalen Musters 10 befüllt werden) |
 | K005 | KBV | F | Wenn Feldinhalt von FK 8000 = 8205 und | In Befunden mit dem Status “Auftrag nicht abgeschlossen” dürfen keine |
 
-| K006 | Basis | F | Wenn FK 8428 oder FK 8430 oder FK 8429 |  |
+| K006 | Basis |  | Wenn FK 8428 oder FK 8430 oder FK8429F |  |
 |---|---|---|---|---|
 |  |  |  | vorhanden ist, kann FK 8431 vorhanden |  |
 |  |  |  | sein. |  |
 | K008 | KBV | F | Wenn der Inhalt von FK 8002 = Obj_0058 | Für die Abrechnung von Leistungen, die im Bereich der kassenärztlichen |
 
 K009 Basis
+
+muss FK 8421 vorkommen.  Wenn Feldinhalt von FK 8419 = 9, darf FK  8421 nicht vorkommen.
 
 der Inhalt FK 8401 = 1, darf FK 4121 nicht  vorhanden sein.
 
@@ -8498,6 +7265,8 @@ der
 
 oder 3 erlaubt.
 
+angegeben werden, ob es sich bei der Maßeinheit um eine konventionelle  oder SI-Einheit handelt. Wenn zu einem Ergebniswert keine Maßeinheit  angegeben wird, muss angegeben werden, dass es sich bei dem  Ergebniswert um eine sogenannte „dimensionslose Größe“ handelt.
+
 Abrechnungsinformationen übertragen werden.
 
 Nur in Befunden mit dem Status “Auftrag abgeschlossen” können
@@ -8512,7 +7281,7 @@ Gebührenordnung angegeben werden.
 
 und ASV) erbracht
 
-Wenn der Inhalt von  FK 8002 = Obj_0058 oder GOÄ als
+K003 Wenn Feldinhalt von FK 7303 = 1, 8 oder 9 Wird die FK 8410 (Test -Ident) im Kontext mit der Überweisung von Wenn FK 8428 oder FK 8430 oder FK 8429 Wenn der Inhalt von  FK 8002 = Obj_0058 oder GOÄ als
 
 
 ---
@@ -8560,9 +7329,7 @@ Weiterüberweisungen dürfen nur durch Laborfachärzte durchgeführt  werden.
 | K015 | KBV | F | Nur wenn FK 4239 = 27 oder 28, kann FK |  |
 |---|---|---|---|---|
 |  |  |  | 4229 vorhanden sein. |  |
-
 | K016 | KBV | F | Wenn Inhalt von FK 4239 ≠ 27, 28, dann |  |
-|---|---|---|---|---|
 |  |  |  | muss FK 8241 vorhanden sein. |  |
 | K017 | Basis | F | FK 3112 und/oder FK 3121 muss vorhanden | Diese Regel beschreibt die mindestens erforderlichen Angaben im |
 
@@ -8574,9 +7341,7 @@ Weiterüberweisungen dürfen nur durch Laborfachärzte durchgeführt  werden.
 | K021 | KBV | F | Wenn Inhalt von FK 4239 = 28, dann muss |  |
 |---|---|---|---|---|
 |  |  |  | Inhalt von FK 4221 ungleich 3 sein. |  |
-
 | K022 | KBV | F | Wenn Inhalt von FK 4131 = „07” oder „08“, |  |
-|---|---|---|---|---|
 |  |  |  | dann muss Inhalt von FK 4106 = „01“ sein. |  |
 | K023 | KBV | F | Wenn Inhalt von FK 4131 = „06”, dann |  |
 |  |  |  | muss Inhalt von FK 4106 = „02“ sein. |  |
@@ -8623,9 +7388,7 @@ K027
 | K029 | SV | F | Wenn Inhalt von FK 7421 = 15, 16 oder 90 |  |
 |---|---|---|---|---|
 |  |  |  | dann muss FK 8143 vorhanden sein. |  |
-
 | K030 | SV | F | Wenn Inhalt von FK 7421 = 02, 03, 04, 05, |  |
-|---|---|---|---|---|
 |  |  |  | 06, 11 oder 12 muss FK 8147 im Obj_0048 |  |
 |  |  |  | (Obj_RgEmpfaenger) vorhanden sein. |  |
 | K031 | KBV | F | Wenn in der Satzart 8215 mehrere Objekte | Beispiel: |
@@ -8746,40 +7509,14 @@ FK 4217 und FK 4241 oder
 
 ---
 
-K042
-
-|  |  |  | (Obj_Betriebsstätte) nur einmal vorkommt, | Betriebsstätte) zwingend anzugeben, ob es sich bei der Betriebsstätte um |
-|---|---|---|---|---|
-|  |  |  | muss der Inhalt der FK 0204 = 1, 2, 3 oder 4 | eine Arztpraxis (1), eine Laborarztpraxis (2), eine Laborgemeinschaft (3) |
-|  |  |  | sein. | oder eine sonstige medizinische Einrichtung (4) handelt. |
-|  |  |  | Wenn FK 0204 im Obj_0019 | Ergänzend kann mit einem zweiten Vorkommen der FK 0204 (Status der |
-|  |  |  | (Obj_Betriebsstätte) zweimal vorkommt, | Betriebsstätte) angegeben werden, ob es sich bei der oben |
-|  |  |  | muss der Inhalt der FK 0204 einmal mit 1, 2, | beschriebenen Betriebsstätte um eine Hauptbetriebsstätte (5) oder eine |
-|  |  |  | 3 oder 4 und einmal mit 5 oder 6 gefüllt sein. | Nebenbetriebsstätte (6) handelt. |
-|  |  |  | Im Obj_0019 (Obj_Betriebsstätte) darf die | Die Feldkennung FK 0204 (Status der Betriebsstätte) darf maximal |
-|  |  |  | FK 0204 maximal zweimal vorkommen. | zweimal im Obj_Betriebsstätte vorkommen. |
-
-| K044 | Basis | F | FK 0200 oder FK 0201 müssen vorhanden |  |
-|---|---|---|---|---|
-|  |  |  | sein. |  |
-
-K045
-
-| K046 | KBV | F | Wenn Inhalt von FK 7321 = 01, 02, 07, 08, |  |
-|---|---|---|---|---|
-|  |  |  | 14 oder 17, dann muss FK 8119 vorhanden |  |
-|  |  |  | sein. |  |
-| K047 | SV | F | Wenn Inhalt von FK 7321 = 03, 15 oder 16, | In Obj_0022 (Obj_Einsenderidentifikation) ist Obj_0019 |
-
-|  |  |  | darf FK 8119 nicht vorhanden sein. | (Obj_Betriebsstaette) nur dann zu verwenden, wenn es sich um eine |
-|---|---|---|---|---|
-|  |  |  |  | medizinische Einrichtung handelt. |
-| K048 | SV | F | Wenn Inhalt von FK 7321 = 03, 15 oder 16, |  |
-|  |  |  | muss FK 8143 im Obj_0022 |  |
-
-Basis
-
-SV
+| K042 | Basis |
+|---|---|
+| K043 | KBV |
+| K044 | Basis |
+| K045 | SV |
+| K046 | KBV |
+| K047 | SV |
+| K048 | SV |
 
 FK 4225 und FK 4241 oder
 
@@ -8789,15 +7526,68 @@ W
 
 Obj_0022 (Obj_Einsenderidentifikation) in  Satzart 8215 muss nur dann verwendet  werden, wenn die Inhalte des  (Obj_Einsenderidentifikation) von denen in  Satzart 8230 abweichen.
 
+F
+
+Wenn FK 0204 im
+
+(Obj_Betriebsstätte) nur einmal vorkommt,  muss der Inhalt der FK 0204 = 1, 2, 3 oder 4
+
 Obj_0022
+
+Obj_0019
+
+sein.
+
+Wenn FK 0204 im Obj_0019
+
+(Obj_Betriebsstätte) zweimal vorkommt,
+
+muss der Inhalt der FK 0204 einmal mit 1, 2,
+
+3 oder 4 und einmal mit 5 oder 6 gefüllt sein
+
+Im Obj_0019 (Obj_Betriebsstätte) darf die  FK 0204 maximal zweimal vorkommen.
+
+F
+
+FK 0200 oder FK 0201 müssen vorhanden  sein.
 
 F
 
 Wenn Inhalt von FK 7321 = 03, 04, 05, 06,  08, 11, 12, 14 oder 16 ist, dann muss FK  8147 vorhanden sein.
 
+F
+
+Wenn Inhalt von FK 7321 = 01, 02, 07, 08,  14 oder 17, dann muss FK 8119 vorhanden  sein.
+
+Wenn Inhalt von FK 7321 = 03, 15 oder 16,
+
+F
+
+darf FK 8119 nicht vorhanden sein.
+
+F
+
+Wenn Inhalt von FK 7321 = 03, 15 oder 16,  muss FK 8143 im Obj_0022
+
 Abbildung von Unterüberweisungen im LDT-Datensatz
 
-K043 KBV Im Obj_0019 (Obj_Betriebsstätte) ist mit der muss FK 8143 im  Obj_0022
+Im Obj_0019 (Obj_Betriebsstätte) ist  Betriebsstätte) zwingend anzugeben, ob es sich bei der Betriebsstätte um  eine Arztpraxis (1), eine Laborarztpraxis (2), eine Laborgemeinschaft (3)  oder eine sonstige medizinische Einrichtung (4) handelt.
+
+Ergänzend kann mit einem zweiten Vorkommen der FK 0204 (Status der  Betriebsstätte) angegeben werden,
+
+beschriebenen Betriebsstätte um eine Hauptbetriebsstätte (5) oder eine  Nebenbetriebsstätte (6) handelt.
+
+Die Feldkennung FK 0204 (Status der Betriebsstätte) darf maximal
+
+zweimal im Obj_Betriebsstätte vorkommen.
+
+In Obj_0022 (Obj_Einsenderidentifikation) ist Obj_0019  (Obj_Betriebsstaette) nur dann zu verwenden, wenn es sich um eine  medizinische Einrichtung handelt.
+
+mit der FK 0204 (Status der
+
+ob es sich bei der oben
+
 
 ---
 
@@ -8814,9 +7604,7 @@ K043 KBV Im Obj_0019 (Obj_Betriebsstätte) ist mit der muss FK 8143 im  Obj_0022
 | K055 | Basis | F | FK 8460 oder FK 8461 oder FK 8462 oder |  |
 |---|---|---|---|---|
 |  |  |  | FK 7316 muss vorhanden sein. |  |
-
-| K056 | KBV | F | FK 3108muss nur vorhanden sein, wenn der |  |
-|---|---|---|---|---|
+| K056 | KBV |  | FK 3108muss nur vorhanden sein, wennderF |  |
 |  |  |  | Inhalt von FK 7303 = 1, 2, 8, 9 oder 10 ist. |  |
 | K057 | KBV | F | FK 0222 muss vorhanden sein, wenn in | Die ASV-Teamnummer ist anzugeben, wenn Leistungen im Rahmen der |
 
@@ -8824,7 +7612,7 @@ K043 KBV Im Obj_0019 (Obj_Betriebsstätte) ist mit der muss FK 8143 im  Obj_0022
 |---|---|---|---|---|
 |  |  |  | 7332, FK 7333, FK 7334 oder FK 7335 muss |  |
 |  |  |  | vorhanden sein. |  |
-| K060 | Basis | F | Inhalt von FK 7303 = 11 darf nur im | Bezieht sich die Angabe des Veranlassungsgrundes bzw. der |
+| K060 | Basis |  | Inhalt von FK 7303 = 11 darf nurimF | Bezieht sich die Angabe des Veranlassungsgrundes bzw. der |
 |  |  |  | Obj_0027 (Obj_Veranlassungsgrund) | aufgeführten Diagnose auf den kompletten Auftrag, kann der Wert 11 |
 |  |  |  | vorkommen | (keine Zuordnung) eingesetzt werden. |
 
@@ -8844,7 +7632,7 @@ ASV (Ambulante Spezialfachärztliche Versorgung) entsprechend § 116b  des SGB V
 
 der Normalwertspezifikation
 
-Inhalt von FK 7303 = 1, 2, 8, 9 oder 10  ist.
+muss nur vorhanden sein, wenn der Inhalt von FK 7303 = 1, 2, 8, 9 oder 10  ist. Inhalt von FK 7303 = 11 darf nur im
 
 ---
 
@@ -8952,13 +7740,9 @@ K083
 
 K084
 
-| K085 | Basis | F | FK 8111 kann nur vorkommen, wenn FK |  |
-|---|---|---|---|---|
-|  |  |  | 7286 mit Inhalt ≠ 0 vorkommt. |  |
+K085
 
-| K086 | Basis | F | FK 7293 kann nur vorkommen, wenn Inhalt |  |
-|---|---|---|---|---|
-|  |  |  | von FK 7286 = 1 oder 2 ist. |  |
+K086
 
 K087
 
@@ -8971,6 +7755,14 @@ KBV
 F
 
 SV
+
+F
+
+Basis
+
+F
+
+Basis
 
 F
 
@@ -9000,6 +7792,10 @@ vorkommen.
 
 Wenn in Satzart 8220 oder 8205 die FK  7266 mit den Inhalten 1 oder 2 vorkommt,  muss in Satzart 8205 die FK 8145 oder FK  8153 vorkommen.
 
+FK 8111 kann nur vorkommen, wenn FK  7286 mit Inhalt ≠ 0 vorkommt.
+
+FK 7293 kann nur vorkommen, wenn Inhalt  von FK 7286 = 1 oder 2 ist.
+
 Falls eine Versichertenkarte eingelesen  wurde, dann muss die FK 4109 vorhanden  sein.
 
 die
@@ -9026,24 +7822,25 @@ K090
 |  |  |  | müssen die FK 3119 und FK 4133 |  |
 |  |  |  | vorhanden sein. |  |
 | K092 | KBV | F | In Satzart 8220 muss einmal die FK 8147 | Das Labor muss mindestens einen Ansprechpartner mitteilen. |
-
 |  |  |  | vorkommen. |  |
-|---|---|---|---|---|
 | K093 | SV | F | Wenn Inhalt von FK 7362 = 2, dann darf | Leistungen im Rahmen der Privat-LG werden dem einsendenden Arzt in |
-
 |  |  |  | Inhalt FK 7421 im Obj_0048 nur der Wert | Rechnung gestellt. |
-|---|---|---|---|---|
 |  |  |  | 02 sein. |  |
 | K094 | Basis | F | Wenn Inhalt von FK 7420 = 12 und FK | Handelt es sich bei der Person um einen Patienten und kommen in der |
 
-|  |  |  | vorhanden ist, muss FK 8225 mindestens | der Timestamp der Messung angegeben werden. |
-|---|---|---|---|---|
-|  |  |  | einmal im Obj_0073 vorkommen. |  |
-| K096 | Basis | F | Wenn Inhalt von FK 8401 = 2, darf der | In einem Befund mit dem Status „Auftrag abgeschlossen“ werden keine |
-|  |  |  | Inhalt von FK 8418 nicht 02, 05 oder 10 | fehlenden oder vorläufigen Werte übertragen. |
-|  |  |  | sein. |  |
+K095
+
+K096
 
 KBV
+
+F
+
+Basis
+
+F
+
+Basis
 
 F
 
@@ -9053,7 +7850,15 @@ muss entweder die FK 3105 und sowie die FK 4110 vorhanden sein.
 
 7303 mit den Werten 1, 2, 3, 8, 9 oder 10 in  jeweiliger Satzart 8205 oder 8215  vorkommen, dann müssen die FK 3103, FK  3110 und FK 8228 vorhanden sein.
 
+Wenn FK 7368
+
+vorhanden ist, muss FK 8225 mindestens  einmal im Obj_0073 vorkommen.
+
+Wenn Inhalt von FK 8401 = 2, darf der  Inhalt von FK 8418 nicht 02, 05 oder 10  sein.
+
 oder FK 3119
+
+im Obj_0073 nicht
 
 Da seit dem 01.01.2015 nur noch bei „originären“ SKT die KVKs  zulässig sind, können Behandlungen auf Basis der eingelesen KVKs nur  bei „originären“ SKT durchgeführt werden.
 
@@ -9061,7 +7866,11 @@ Zum 01.01.2025 gibt die Heilfürsorge der Bundespolizei als erster  Sonstiger Ko
 
 jeweiligen Satzart „Auftrag“ oder „Befund“ die Werte für Abrechnungsinfo  zur Untersuchung 1, 2, 3, 8, 9 oder 10 vor, müssen die Angaben zum  Geburtsdatum, Geschlecht und Wohnort vorhanden sein.
 
-K091 Falls die FK 4109 vorhanden ist und der Da seit dem 01.01.2015 im Bereich der GKV-Kostenträgern KVKs nicht K095 FK 7368 Wenn das eingesandte Untersuchungsmaterial zu verarbeiten war, muss Diese Regel ermöglicht es, Aufträge bzw. Befunde zu übertragen, bei  denen die Angaben zum Geschlecht, Geburtsdatum bzw. Wohnort des  Patienten nicht oder nicht komplett vorhanden sind.
+Diese Regel ermöglicht es, Aufträge bzw. Befunde zu übertragen, bei  denen die Angaben zum Geschlecht, Geburtsdatum bzw. Wohnort des  Patienten nicht oder nicht komplett vorhanden sind.
+
+Wenn das eingesandte Untersuchungsmaterial zu verarbeiten war, muss  der Timestamp der Messung angegeben werden.
+
+K091 Falls die FK 4109 vorhanden ist und der Da seit dem 01.01.2015 im Bereich der GKV-Kostenträgern KVKs nicht In einem Befund mit dem Status „Auftrag abgeschlossen“ werden keine  fehlenden oder vorläufigen Werte übertragen.
 
 
 ---
@@ -9082,16 +7891,17 @@ K100
 
 K101
 
-|  |  |  | Inhalt 6 vorkommt, muss die FK 8104 | Gesundheitsleistungen (IgeL) abgerechnet werden sollen, muss das |
-|---|---|---|---|---|
-|  |  |  | vorhanden sein. | Obj_0004 (Abrechnung_IgeL) vorhanden sein. |
-| K103 | SV | F | Wenn in Satzart 8215 die FK 7303 mit dem | Wenn Untersuchungen im Kontext eines Selektivvertrages abgerechnet |
-|  |  |  | Inhalt 5 vorkommt, muss die FK 8106 | werden sollen, muss das Obj_0006 (Abrechnung_Selektivvertrag) |
-|  |  |  | vorhanden sein. | vorhanden sein. |
+K102
+
+K103
 
 Basis
 
 Basis
+
+SV
+
+SV
 
 oder !H oder !+ ist, muss FK 8126 der FK  8422 folgen.
 
@@ -9105,9 +7915,21 @@ F
 
 In Obj_0008 (Obj_Adressat) muss  entweder FK 8143 oder FK 8147  vorkommen.
 
+F
+
+Wenn in Satzart 8215 die FK 7303 mit dem  Inhalt 6 vorkommt, muss die FK 8104  vorhanden sein.
+
+F
+
+Wenn in Satzart 8215 die FK 7303 mit dem  Inhalt 5 vorkommt, muss die FK 8106  vorhanden sein.
+
 werden, um den Befundempfänger auf die Werte hinzuweisen.
 
-K097 KBV Wenn Untersuchungen im kassenärztlichen Kontext abgerechnet wer- K102 Wenn Untersuchungen im Kontext der individuellen Der Adressat kann nur eine Person oder eine Organisation sein.
+Der Adressat kann nur eine Person oder eine Organisation sein.
+
+Wenn Untersuchungen im Kontext der individuellen  Gesundheitsleistungen (IgeL) abgerechnet werden sollen, muss das  Obj_0004 (Abrechnung_IgeL) vorhanden sein.
+
+K097 KBV Wenn Untersuchungen im kassenärztlichen Kontext abgerechnet wer-Wenn Untersuchungen im Kontext eines Selektivvertrages abgerechnet  werden sollen, muss das Obj_0006 (Abrechnung_Selektivvertrag)  vorhanden sein.
 
 
 ---
@@ -9126,13 +7948,9 @@ K097 KBV Wenn Untersuchungen im kassenärztlichen Kontext abgerechnet wer- K102 
 |---|---|---|---|---|
 |  |  |  |  | angeforderten Leistung oder auf ein Test-Ident verwiesen. |
 | K107 | Basis | F | Wenn Inhalt von FK 7321 = 01, 02 oder 07 | Ist der Einsender ein Arzt, muss das Obj_Arztidentifikation vorhanden |
-
 |  |  |  | ist, dann muss FK 8114 vorhanden sein. | sein. |
-|---|---|---|---|---|
 | K112 | Basis | F | Die FK 8310 muss nur dann vorkommen, | Die Auftragsnummer des Einsenders muss vom Labor im Befund nur |
-
 |  |  |  | wenn der Inhalt der FK 8310 im Auftrag | dann zurückübermittelt werden, wenn der Einsender diese bei der |
-|---|---|---|---|---|
 |  |  |  | übermittelt wurde. | Beauftragung übermittelt hat. |
 | K113 | Basis | F | Wenn der Inhalt von FK 7303 = 99, muss | Die Stornierung einer Untersuchungsanforderung wird nur in der Satzart |
 
@@ -9140,20 +7958,43 @@ K097 KBV Wenn Untersuchungen im kassenärztlichen Kontext abgerechnet wer- K102 
 |---|---|---|---|---|
 | K114 | Basis | F | Wenn der Inhalt vonFK 8000 = 8215 und der | Änderung eines Auftrages ist nur mittels einer Nachforderung möglich. |
 
-| K115 | KBV | F | Entweder die FK 0212 oder die FK 0223 |  |
-|---|---|---|---|---|
-|  |  |  | muss jeweils mindestens einmal |  |
-|  |  |  | vorkommen. |  |
-| K116 | KBV | F | Wenn Feldinhalt vonFK 4239 ≠ 28 und wenn | Es ist ausgeschlossen, dass ein Krankenhausarzt im Rahmen seiner |
-|  |  |  | FK 0222 vorhanden ist, dann muss | ASV-Berechtigung Mitglied einer Laborgemeinschaft ist und in diesem |
-|  |  |  | entweder FK 0212 oder FK 0223 vorhanden | Zusammenhang Laborleistungen auf Muster 10A anfordert, gemäß § 25 |
-|  |  |  | sein. | Abs. 3 S. 7 BMV-Ä. |
-|  |  |  | Wenn Feldinhalt von FK 4239 = 28 und |  |
-|  |  |  | wenn FK 0222 vorhanden ist, dann muss ein |  |
+K115
+
+K116
+
+KBV
+
+F
+
+KBV
+
+F
 
 Inhalt von FK 7303 in mindestens einem
 
-K104 Basis Wenn FK 8147 im Obj_0045 (Patient) Bei Verwendung des Objektes Person im Objekt Patient muss der Obj_0059 mit dem Wert 99 vorkommt, muss  im Obj_0013 die FK 8313 vorkommen.
+Obj_0059 mit dem Wert 99 vorkommt, muss  im Obj_0013 die FK 8313 vorkommen.
+
+Entweder die FK 0212 oder die FK 0223  muss jeweils mindestens
+
+vorkommen.
+
+Wenn Feldinhalt von  FK 0222 vorhanden ist,
+
+entweder FK 0212 oder FK 0223 vorhanden
+
+sein.
+
+Wenn Feldinhalt von  wenn FK 0222 vorhanden ist, dann muss ein
+
+FK 4239
+
+FK 4239 = 28 und
+
+einmal
+
+≠ 28 und wenn  dann muss
+
+K104 Basis Wenn FK 8147 im Obj_0045 (Patient) Bei Verwendung des Objektes Person im Objekt Patient muss der Es ist ausgeschlossen, dass ein Krankenhausarzt im Rahmen seiner  ASV-Berechtigung Mitglied einer Laborgemeinschaft ist und in diesem  Zusammenhang Laborleistungen auf Muster 10A anfordert, gemäß § 25  Abs. 3 S. 7 BMV-Ä.
 
 
 ---
@@ -9283,17 +8124,10 @@ innerhalb des entsprechenden Objektes  min. die FK 8617 oder die FK 8631  vorhan
 
 ---
 
-K133
-
-K134
-
-K135
-
-Basis
-
-Basis
-
-Basis
+| K133 | Basis |
+|---|---|
+| K134 | Basis |
+| K135 | Basis |
 
 W
 
@@ -9324,32 +8158,147 @@ aufgrund einer inkompatiblen Änderung der LDT 3
 
 Dieses Objekt wird als Zusammenfassung aller im Auftrag vorhandenen Abrechnungsarten genutzt. An Hand der hier gemachten  eine Prüfroutine hinsichtlich der Vollständigkeit der darunterliegenden Objekte eingeführt werden. Pro
 
-|  |  | | | | | **Obj_Abrechnungsinformationen** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8002 | 1 |  |  |  |  | ObjektIdent | M | K027 |  |
-| 8102 |  | n |  |  |  | Abrechnung_GKV | m | K027K070 |  |
-|  |  |  | 1 |  |  | Obj_0002 (Obj_Abrechnung GKV) | m |  |  |
-| 8103 |  | n |  |  |  | Abrechnung_PKV | m | K027K070 |  |
-|  |  |  | 1 |  |  | Obj_0003 (Obj_Abrechnung PKV) | m |  |  |
-| 8104 |  | 1 |  |  |  | Abrechnung_Ige-Leistungen | m | K027K070 |  |
-|  |  |  | 1 |  |  | Obj_0004 (Obj_Abrechnung Ige-Leistungen) | m |  |  |
-| 8105 |  | 1 |  |  |  | Abrechnung_Sonstige_Kostenuebernahme | m | K027 |  |
-|  |  |  | 1 |  |  | Obj_0005 (Obj_Abrechnung sonstige Kostenuebernahme) | m |  |  |
-| 8106 |  | 1 |  |  |  | Abrechnung_Selektivvertrag | m | K027K070 |  |
-|  |  |  | 1 |  |  | Obj_0006 (Obj_Abrechnung Selektivvertrag) | m |  |  |
-| 8109 |  | 1 |  |  |  | Abrechnung_OEGD | m | K027K070 |  |
-|  |  |  | 1 |  |  | Obj_0009 (Obj_ Abrechnung_OEGD) | m |  |  |
-| 8003 | 1 |  |  |  |  | Objektende | M |  |  |
+**FK**
+
+8002
+
+8102
+
+8103
+
+8104
+
+8105   8106
+
+8109
+
+8003
 
 **-Objektkatalog**
 
 ## Obj_Abrechnungsinformationen „Obj_0001“
 
+**Vorkommen**
+
+**1 2 3**
+
+1
+
+n 1
+
+n 1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+**Obj_Abrechnungsinformationen**
+
+**Feld-/Objektbezeichnung**
+
+**4 5**
+
+ObjektIdent
+
+Abrechnung_GKV
+
+Obj_0002 (Obj_Abrechnung GKV)
+
+Abrechnung_PKV
+
+Obj_0003 (Obj_Abrechnung PKV)
+
+Abrechnung_Ige-Leistungen
+
+Obj_0004 (Obj_Abrechnung Ige-Leistungen)
+
+Abrechnung_Sonstige_Kostenuebernahme
+
+Obj_0005 (Obj_Abrechnung sonstige Kostenuebernahme)
+
+Abrechnung_Selektivvertrag
+
+Obj_0006 (Obj_Abrechnung Selektivvertrag)
+
+Abrechnung_OEGD
+
+Obj_0009 (Obj_ Abrechnung_OEGD)
+
+Objektende
+
 Satzart „8215“ darf dieses Objekt nur einmal vorhanden sein.
 
-Vorkommen Angaben kann bei der Implementierung
+**Feldart Regel**
+
+M
+
+K027  K027
+
+m
+
+K070
+
+m
+
+K027
+
+m
+
+K070
+
+m
+
+K027
+
+m
+
+K070
+
+m
+
+m
+
+K027
+
+m
+
+K027
+
+m
+
+K070
+
+m
+
+K027
+
+m
+
+K070
+
+m
+
+M
+
+Angaben kann bei der Implementierung
+
+**OID: noch nicht vergeben**
+
+**Erläuterung**
 
 
 ---
@@ -9360,37 +8309,25 @@ Hier werden alle Angaben für die Abrechnung von Untersuchungsanforderungen in d
 
 Mit diesem Objekt werden die Informationen für die Abrechnung von Untersuchungsanforderungen zusammengefasst, die im Regelleistungskatalog der Krankenkassen  vorhanden sind oder anderweitig z.B. über eDMP dem Patienten zugeordnet werden können.
 
-**FK**
-
-**Vorkommen**
-
-**1 2 3**
-
-8002 1
-
-4239  1
-
-4134  1
-
-4104  1
-
-4106  1
-
-4108  1
-
-3116  1
-
-3108  1
-
-4109  1
-
-4133  1
+| **FK** |  | **Vorkommen** |  |
+|---|---|---|---|
+|  | **1 2** | **3** | **4** |
+| 8002 | 1 |  |  |
+| 4239 | 1 |  |  |
+| 4134 | 1 |  |  |
+| 4104 | 1 |  |  |
+| 4106 | 1 |  |  |
+| 4108 | 1 |  |  |
+| 3116 | 1 |  |  |
+| 3108 | 1 |  |  |
+| 4109 | 1 |  |  |
+| 4133 | 1 |  |  |
 
 **Obj_Abrechnung GKV**
 
 **Feld-/Objektbezeichnung**
 
-**4 5**
+**5**
 
 ObjektIdent
 
@@ -9451,53 +8388,31 @@ der gesetzlichen
 
 ---
 
-4110  1
-
-4111  1
-
-4229  n
-
-4122  1
-
-4124  1
-
-4126  n
-
-4131  1
-
-4132  1
-
-4202  1
-
-4204  1
-
-4210  1
-
-4221  1
-
-4231  1
-
-8616  1
-
-8618  1
-
-8619  1
-
-8620  1
-
-8621  1
-
-8622  1
-
-8624  1
-
-4241  1
-
-4248  1
-
-4217  1
-
-4225  1
+| 4110 | 1 |
+|---|---|
+| 4111 | 1 |
+| 4229 | n |
+| 4122 | 1 |
+| 4124 | 1 |
+| 4126 | n |
+| 4131 | 1 |
+| 4132 | 1 |
+| 4202 | 1 |
+| 4204 | 1 |
+| 4210 | 1 |
+| 4221 | 1 |
+| 4231 | 1 |
+| 8616 | 1 |
+| 8618 | 1 |
+| 8619 | 1 |
+| 8620 | 1 |
+| 8621 | 1 |
+| 8622 | 1 |
+| 8624 | 1 |
+| 4241 | 1 |
+| 4248 | 1 |
+| 4217 | 1 |
+| 4225 | 1 |
 
 VersicherungsschutzEnde
 
@@ -9723,18 +8638,57 @@ die GOÄ abgerechnet werden. Das Objekt
 
 Mit diesem Objekt werden die Informationen für die Abrechnung von Untersuchungsanforderungen  versicherten Patienten erbracht werden können.
 
-|  |  | | | | | **Obj_Abrechnung Ige-Leistungen** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8002 | 1 |  |  |  |  | ObjektIdent | M |  |  |
-| 4121 |  | 1 |  |  |  | Gebührenordnung | M | K019 |  |
-| 7253 |  | 1 |  |  |  | Kostenübernahmeerklärung des Auftraggebers liegt vor | M |  |  |
-| 8148 |  |  | 1 |  |  | RgEmpfaenger | m |  |  |
-|  |  |  |  | 1 |  | Obj_0048 (Obj_Rechnungsempfaenger) | m |  |  |
-| 8003 | 1 |  |  |  |  | Objektende | M |  |  |
+| **FK** |  | **Vorkommen** |  |
+|---|---|---|---|
+|  | **1 2** | **3** | **4** |
+| 8002 | 1 |  |  |
+| 4121 | 1 |  |  |
+| 7253 | 1 |  |  |
+| 8148 |  | 1 |  |
+|  |  |  | 1 |
+| 8003 | 1 |  |  |
 
-Vorkommen zusammengefasst, welche als Ige-Leistungen gegenüber gesetzlich
+**Obj_Abrechnung Ige-Leistungen**
+
+**Feld-/Objektbezeichnung**
+
+**5**
+
+ObjektIdent
+
+Gebührenordnung
+
+Kostenübernahmeerklärung des Auftraggebers liegt vor
+
+RgEmpfaenger
+
+Obj_0048 (Obj_Rechnungsempfaenger)
+
+Objektende
+
+zusammengefasst, welche als Ige-Leistungen gegenüber gesetzlich
+
+**Feldart**
+
+M
+
+M
+
+M
+
+m
+
+m
+
+M
+
+**Regel**
+
+K019
+
+**OID: noch nicht vergeben**
+
+**Erläuterung**
 
 
 ---
@@ -9743,23 +8697,15 @@ Vorkommen zusammengefasst, welche als Ige-Leistungen gegenüber gesetzlich
 
 Mit diesem Objekt werden die Informationen für die Abrechnung von Untersuchungsanforderungen zusammengefasst, welche ein Labo r außerhalb der Regelleistungen  EBM und GOÄ erbringen kann. Es werden hierüber auch Leistungen abgerechnet, welche nicht durch medizinische Einsender abgefor betreffen, die nicht humanen Ursprungs sind. Der Rechnungsempfänger ist frei wählbar.
 
-**FK**
-
-**Vorkommen**
-
-**1 2 3 4**
-
-8002 1
-
-7261  1
-
-7253  1
-
-8148   1
-
-1
-
-8003 1
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 7261 | 1 |  |
+| 7253 | 1 |  |
+| 8148 |  | 1 |
+|  |  | 1 |
+| 8003 | 1 |  |
 
 **Obj_Abrechnung sonstige Kostenuebernahme**
 
@@ -9806,26 +8752,85 @@ M
 
 Mit diesem Objekt werden die Informationen für die Abrechnung von Untersuchungsanforderungen zusammengefasst,  damit außerhalb der budgetären Leistungen erbracht werden. Die Möglichkeit zum Abschluss von Selektivve rträgen besteht im Wesentlichen in der hausarztzentrierten  Versorgung (§ 73 b SGB V), bei strukturierten Behandlungsprogrammen für chronische Erkrankungen (Disease Integrierten Versorgung (§§ 140ff SGB V).
 
-|  |  | | | | | **Obj_Abrechnung Selektivvertrag** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8002 | 1 |  |  |  |  | ObjektIdent | M |  |  |
-| 3130 |  | 1 |  |  |  | Einschreibestatus Selektivverträge | M |  |  |
-| 3134 |  |  | 1 |  |  | Bezeichnung des Selektivvertrages | M |  |  |
-| 4134 |  |  |  | 1 |  | Kostentraegername | m |  |  |
-| 3131 |  |  | 1 |  |  | Teilnahme von | K |  |  |
-| 3132 |  |  | 1 |  |  | Teilnahme bis | K |  |  |
-| 3133 |  |  | 1 |  |  | Datum der Antragstellung | k |  |  |
-| 7430 |  |  | 1 |  |  | Patienten-ID im Selektivvertrag | k |  |  |
-| 4121 |  | 1 |  |  |  | Gebührenordnung | K | K019 |  |
-| 8148 |  | 1 |  |  |  | RgEmpfaenger | M |  |  |
-|  |  |  | 1 |  |  | Obj_0048 (Obj_Rechnungsempfaenger) | m |  |  |
-| 8003 | 1 |  |  |  |  | Objektende | M |  |  |
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 3130 | 1 |  |
+| 3134 |  | 1 |
+| 4134 |  | 1 |
+| 3131 |  | 1 |
+| 3132 |  | 1 |
+| 3133 |  | 1 |
+| 7430 |  | 1 |
+| 4121 | 1 |  |
+| 8148 | 1 |  |
+|  |  | 1 |
+| 8003 | 1 |  |
+
+**Obj_Abrechnung Selektivvertrag**
+
+**Feld-/Objektbezeichnung**
+
+**5**
+
+ObjektIdent
+
+Einschreibestatus Selektivverträge
+
+Bezeichnung des Selektivvertrages
+
+Kostentraegername
+
+Teilnahme von
+
+Teilnahme bis
+
+Datum der Antragstellung
+
+Patienten-ID im Selektivvertrag
+
+Gebührenordnung
+
+RgEmpfaenger
+
+Obj_0048 (Obj_Rechnungsempfaenger)
+
+Objektende
 
 welche im Rahmen von Selektivverträgen und
 
-Vorkommen -Management-Programme) (§ 137 f SGB V) und in der
+-Management-Programme) (§ 137 f SGB V) und in der
+
+**OID: noch nicht vergeben**
+
+**Feldart Regel Erläuterung**
+
+M
+
+M
+
+M
+
+m
+
+K
+
+K
+
+k
+
+k
+
+K
+
+K019
+
+M
+
+m
+
+M
 
 
 ---
@@ -9834,65 +8839,54 @@ Vorkommen -Management-Programme) (§ 137 f SGB V) und in der
 
 Das Objekt Anschrift definiert die Adresse. Dabei kann es sich entweder um ein Postfach oder um eine physische Adresse handel
 
-**FK**
-
-**Vorkommen**
-
-**1 2**
-
-8002 1
-
-3112  1
-
-3113
-
-3107
-
-3109
-
-3115
-
-3114  1
-
-3121  1
-
-3122
-
-3123
-
-3124  1
-
-| 1202 |  | n |  |  |  | Adresstyp | K |  |  |
-|---|---|---|---|---|---|---|---|---|---|
-| 8003 | 1 |  |  |  |  | Objektende | M |  |  |
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 3112 | 1 |  |
+| 3113 |  | 1 |
+| 3107 |  | 1 |
+| 3109 |  | 1 |
+| 3115 |  | 1 |
+| 3114 | 1 |  |
+| 3121 | 1 |  |
+| 3122 |  | 1 |
+| 3123 |  | 1 |
+| 3124 | 1 |  |
+| 1202 | n |  |
+| 8003 | 1 |  |
 
 **Obj_Anschrift**
 
 **Feld-/Objektbezeichnung**
 
-**3 4 5**
+**5**
 
 ObjektIdent
 
-PLZ 1
+PLZ
 
-Ort 1
+Ort
 
-Straße 1
+Straße
 
-Hausnummer 1
+Hausnummer
 
 Anschriftenzusatz
 
 Wohnsitzländercode
 
-PostfachPLZ 1
+PostfachPLZ
 
-PostfachOrt 1
+PostfachOrt
 
 Postfach
 
 PostfachWohnsitzlaendercode
+
+Adresstyp
+
+Objektende
 
 **Feldart**
 
@@ -9918,6 +8912,10 @@ k
 
 k
 
+K
+
+M
+
 **Regel**
 
 K017
@@ -9939,31 +8937,15 @@ n.
 
 **11.8** ** Obj_Adressat „Obj_0008“**
 
-**FK**
-
-8002
-
-81.47
-
-8143
-
-8003
-
-**Vorkommen**
-
-**1 2 3 4**
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 8147 | 1 |  |
+|  |  | 1 |
+| 8143 | 1 |  |
+|  |  | 1 |
+| 8003 | 1 |  |
 
 **Obj_Adressat**
 
@@ -10014,55 +8996,31 @@ K029  K101
 
 In diesem Objekt werden die Informationen des Musters OEGD abgebildet.
 
-**FK**
-
-**Vorkommen**
-
-**1 2 3**
-
-8002 1
-
-4110  1
-
-8626  1
-
-8627
-
-1
-
-8617
-
-1
-
-4111
-
-1
-
-8631  1
-
-8632  1
-
-8618  1
-
-8619  1
-
-8620  1
-
-8621  1
-
-8622  1
-
-8625  1
-
-| 8623 |  | 1 |  |  |  | Identifikation/Aktenzeichen ÖGD | K |  |  |
-|---|---|---|---|---|---|---|---|---|---|
-| 8003 | 1 |  |  |  |  | Objektende | M |  |  |
+| **FK** | **Vorkommen** |  |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 4110 | 1 |  |
+| 8626 | 1 |  |
+| 8627 | 1 |  |
+| 8617 | 1 |  |
+| 4111 | 1 |  |
+| 8631 | 1 |  |
+| 8632 | 1 |  |
+| 8618 | 1 |  |
+| 8619 | 1 |  |
+| 8620 | 1 |  |
+| 8621 | 1 |  |
+| 8622 | 1 |  |
+| 8625 | 1 |  |
+| 8623 | 1 |  |
+| 8003 | 1 |  |
 
 **Obj_Abrechnung OEGD**
 
 **Feld-/Objektbezeichnung**
 
-**4 5**
+**5**
 
 ObjektIdent
 
@@ -10092,6 +9050,10 @@ Corona-GUID
 
 PLZ ÖGD
 
+Identifikation/Aktenzeichen ÖGD
+
+Objektende
+
 **Feldart**
 
 M
@@ -10122,6 +9084,10 @@ K
 
 K
 
+K
+
+M
+
 **Regel**
 
 K132  K131  K131  K132  K131  K131  K132  K135  K130  K131  K130  K131  K131
@@ -10137,39 +9103,23 @@ K132  K131  K131  K132  K131  K131  K132  K135  K130  K131  K130  K131  K131
 
 Im Objekt Anhang können Informationen wie B
 
-**FK**
-
-**Vorkommen**
-
-**1 2 3**
-
-8002 1
-
-9970  1
-
-6221  1
-
-6305  1
-
-8242  1
-
-1
-
-6303  1
-
-6328  1
-
-6327  1
-
-9908  1
-
-9909  1
-
-9980  n
-
-| 9981 |  | 1 |  |  |  | Dokumentenquelle | k |  |  |
-|---|---|---|---|---|---|---|---|---|---|
-| 8003 | 1 |  |  |  |  | Objektende | M |  |  |
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 9970 | 1 |  |
+| 6221 | 1 |  |
+| 6305 | 1 |  |
+| 8242 | 1 |  |
+|  |  | 1 |
+| 6303 | 1 |  |
+| 6328 | 1 |  |
+| 6327 | 1 |  |
+| 9908 | 1 |  |
+| 9909 | 1 |  |
+| 9980 | n |  |
+| 9981 | 1 |  |
+| 8003 | 1 |  |
 
 efunde, Fotos oder sonstige Dokumentationen, die in einem digitalen Standardformat vorliegen, transportiert werden.
 
@@ -10177,7 +9127,7 @@ efunde, Fotos oder sonstige Dokumentationen, die in einem digitalen Standardform
 
 **Feld-/Objektbezeichnung**
 
-**4 5**
+**5**
 
 ObjektIdent
 
@@ -10203,6 +9153,10 @@ Langzeit-Archivierung: Pfad/Speicherort
 
 Externe Dokumenten_ID zur Archivierung
 
+Dokumentenquelle
+
+Objektende
+
 **Feldart**
 
 M
@@ -10229,6 +9183,10 @@ k
 
 k
 
+k
+
+M
+
 **Regel**
 
 K075
@@ -10250,31 +9208,24 @@ In diesem Objekt wird ein Antibiogramm (Matrix) aus dem Bereich Mikrobiologie tr
 
 Die Darstellung des Antibiogramms erfolgt als drei Struktur zugrunde gelegt:
 
-Matrix
-
-|  | Sensitivität | Sensitivität | Sensitivität |  | Sensitivität |
+| Matrix | K1 | K2 | K3 | … | Kx |
 |---|---|---|---|---|---|
+|  | Sensitivität | Sensitivität | Sensitivität |  | Sensitivität |
 | W1 |  |  |  |  |  |
 |  | MHK Breakpoint | MHK Breakpoint | MHK Breakpoint |  | MHK Breakpoint |
 |  | MHK Einheit | MHK Einheit | MHK Einheit |  | MHK Einheit |
 |  | Resistenz Interpretation | Resistenz Interpretation | Resistenz Interpretation |  | Resistenz Interpretation |
-
 |  | Sensitivität | Sensitivität | Sensitivität |  | Sensitivität |
-|---|---|---|---|---|---|
 | W2 |  |  |  |  |  |
 |  | MHK Breakpoint | MHK Breakpoint | MHK Breakpoint |  | MHK Breakpoint |
 |  | MHK Einheit | MHK Einheit | MHK Einheit |  | MHK Einheit |
 |  | Resistenz Interpretation | Resistenz Interpretation | Resistenz Interpretation |  | Resistenz Interpretation |
-
 |  | Sensitivität | Sensitivität | Sensitivität |  | Sensitivität |
-|---|---|---|---|---|---|
 | W3 |  |  |  |  |  |
 |  | MHK Breakpoint | MHK Breakpoint | MHK Breakpoint |  | MHK Breakpoint |
 |  | MHK Einheit | MHK Einheit | MHK Einheit |  | MHK Einheit |
 |  | Resistenz Interpretation | Resistenz Interpretation | Resistenz Interpretation |  | Resistenz Interpretation |
-
 | …… |  |  |  |  |  |
-|---|---|---|---|---|---|
 |  | Sensitivität | Sensitivität | Sensitivität |  | Sensitivität |
 | W y |  |  |  |  |  |
 |  | MHK Breakpoint | MHK Breakpoint | MHK Breakpoint |  | MHK Breakpoint |
@@ -10285,41 +9236,101 @@ K = Keim-Identifizierung (x = max. Anzahl der Keime) x
 
 W = Wertepaar aus Wirkstoffident und Ableitungen (y = max. Anzahl der getesteten Wirkstoffe) y
 
-K1
-
 **11“**
 
 dimensionale Matrix. Um den redundanten Informationsgehalt so gering wie möglich zu halten wird folgende Matrix
 
-K2
-
-K3
-
-K x
-
 
 ---
 
-|  |  | | | | | **Obj_Antibiogramm** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8002 | 1 |  |  |  |  | ObjektIdent | M | K085 |  |
-| 7287 |  | n |  |  |  | Wirkstoff-Ident | M |  |  |
-| 7288 |  |  | n |  |  | Wirkstoff-Generic-Nummer | k |  |  |
-| 7359 |  |  | n |  |  | OID Wirkstoff | k |  |  |
-| 7370 |  |  | n |  |  | Wirkstoff- oder Handelsname | k |  |  |
-| 7354 |  |  | n |  |  | Keim-Identifizierung | K |  |  |
-| 7367 |  |  |  | 1 |  | Sensitivität | m |  |  |
-| 7289 |  |  |  | 1 |  | MHK/Breakpoint Wert | k |  |  |
-| 7369 |  |  |  |  | 1 | MHK-Einheit | k |  |  |
-| 7290 |  |  |  | n |  | Resistenz Interpretation | K |  |  |
-| 7424 |  |  |  |  | 1 | Resistenz erstellt nach | K |  |  |
-| 8237 |  | 1 |  |  |  | Ergebnistext | k | K100 |  |
-|  |  |  | 1 |  |  | Obj_0068 (Obj_Fließtext) | m |  |  |
-| 8003 | 1 |  |  |  |  | Objektende | M |  |  |
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 7287 | n |  |
+| 7288 |  | n |
+| 7359 |  | n |
+| 7370 |  | n |
+| 7354 |  | n |
+| 7367 |  | 1 |
+| 7289 |  | 1 |
+| 7369 |  |  |
+| 7290 |  | n |
+| 7424 |  |  |
+| 8237 | 1 |  |
+|  |  | 1 |
+| 8003 | 1 |  |
 
-Vorkommen
+**Obj_Antibiogramm**
+
+**Feld-/Objektbezeichnung**
+
+**5**
+
+ObjektIdent
+
+Wirkstoff-Ident
+
+Wirkstoff-Generic-Nummer
+
+OID Wirkstoff
+
+Wirkstoff- oder Handelsname
+
+Keim-Identifizierung
+
+Sensitivität
+
+MHK/Breakpoint Wert 1 MHK-Einheit
+
+Resistenz Interpretation 1 Resistenz erstellt nach
+
+Ergebnistext
+
+Obj_0068 (Obj_Fließtext)
+
+Objektende
+
+**Feldart**
+
+M
+
+M
+
+k
+
+k
+
+k
+
+K
+
+m
+
+k
+
+k
+
+K
+
+K
+
+k
+
+m
+
+M
+
+**Regel**
+
+K085
+
+K100
+
+**OID: noch nicht vergeben**
+
+**Erläuterung**
+
 
 ---
 
@@ -10327,34 +9338,108 @@ Vorkommen
 
 In diesem Objekt werden übergeordnete Informationen
 
-|  |  | | | | | **Obj_Auftragsinformation** |  |  | **OID noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Bezeichnung der Feldinhalte** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8002 | 1 |  |  |  |  | ObjektIdent | M |  |  |
-| 8310 |  | 1 |  |  |  | Auftragsnummer des Einsenders | M |  |  |
-| 8313 |  |  | n |  |  | ID Nachforderung | m | K114 |  |
-| 8311 |  | 1 |  |  |  | ID Auftragsnummer des Labors | K |  |  |
-| 7268 |  | 1 |  |  |  | Fachrichtung oder Stationskennung | K |  |  |
-| 0080 |  | 1 |  |  |  | ID Fallakte oder Studie | K |  |  |
-| 0081 |  |  | n |  |  | Bezeichnung der Fallakte oder Studie | k |  |  |
-| 8118 |  | 1 |  |  |  | Abweichender_Befundweg | K |  |  |
-|  |  |  | 1 |  |  | Obj_0031 (Obj_Kommunikationsdaten) | m |  |  |
-| 8611 |  | n |  |  |  | zusätzlicher Befundweg | K |  |  |
-| 8147 |  |  | 1 |  |  | Person | m |  |  |
-|  |  |  |  | 1 |  | Obj_0047 (Obj_Person) | m |  |  |
-| 8213 |  | 1 |  |  |  | Timestamp_Erstellung_Untersuchungsanforderung | M |  |  |
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8238 |  | 1 |  |  |  | Auftragsbezogene_Hinweise | K | K100 |  |
-|  |  |  | 1 |  |  | Obj_0068 (Obj_Fließtext) | m |  |  |
-| 8141 |  | 1 |  |  |  | Namenskennung | K |  |  |
-|  |  |  | 1 |  |  | Obj_0041 (Obj_Namenskennung) | m |  |  |
-| 8003 | 1 |  |  |  |  | Objektende | M |  |  |
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 8310 | 1 |  |
+| 8313 |  | n |
+| 8311 | 1 |  |
+| 7268 | 1 |  |
+| 0080 | 1 |  |
+| 0081 |  | n |
+| 8118 | 1 |  |
+|  |  | 1 |
+| 8611 | n |  |
+| 8147 |  | 1 |
+|  |  | 1 |
+| 8213 | 1 |  |
+|  |  | 1 |
+| 8238 | 1 |  |
+|  |  | 1 |
+| 8141 | 1 |  |
+|  |  | 1 |
+| 8003 | 1 |  |
 
 **0013“**
 
-Vorkommen zum Auftrag zusammengefasst sowie zusätzliche Befundwege definiert.
+zum Auftrag zusammengefasst sowie zusätzliche Befundwege definiert.
 
+|  | **Obj_Auftragsinformation** |  |
+|---|---|---|
+| **Bezeichnung** | **der** | **Feldinhalte** |
+| **5** |  |  |
+| ObjektIdent |  |  |
+|  | Auftragsnummer des | Einsenders |
+| ID | Nachforderung |  |
+| ID | Auftragsnummer | des Labors |
+| Fachrichtung | oder | Stationskennung |
+| ID Fallakte | oder Studie |  |
+| Bezeichnung | der | Fallakte oder Studie |
+|  | Abweichender_Befundweg |  |
+| Obj_0031 |  | (Obj_Kommunikationsdaten) |
+| zusätzlicher | Befundweg |  |
+| Person |  |  |
+| Obj_0047 | (Obj_Person) |  |
+|  |  | Timestamp_Erstellung_Untersuchungsanforderung |
+| Obj_0054 | (Obj_Timestamp) | |
+|  | Auftragsbezogene_Hinweise | |
+| Obj_0068 | (Obj_Fließtext) |  |
+|  | Namenskennung |  |
+| Obj_0041 |  | (Obj_Namenskennung) |
+| Objektende |  |  |
+
+**Feldart**
+
+M
+
+M
+
+m
+
+K
+
+K
+
+K
+
+k
+
+K
+
+m
+
+K
+
+m
+
+m
+
+M
+
+m
+
+K
+
+m
+
+K
+
+m
+
+M
+
+**Regel**
+
+K114
+
+K100
+
+**OID noch nicht vergeben**
+
+**Erläuterung**
+
+Bezeichnung der Feldinhalte Auftragsnummer des Einsenders ID Nachforderung ID Auftragsnummer des Labors Fachrichtung oder Stationskennung ID Fallakte oder Studie Bezeichnung der Fallakte oder Studie Obj_0031 (Obj_Kommunikationsdaten) zusätzlicher Befundweg Obj_0047 (Obj_Person) Obj_0054 (Obj_Timestamp) Obj_0068 (Obj_Fließtext) Obj_0041 (Obj_Namenskennung)
 
 ---
 
@@ -10362,22 +9447,82 @@ Vorkommen zum Auftrag zusammengefasst sowie zusätzliche Befundwege definiert.
 
 Hier werden alle notwendigen Informationen zum Einsender zusammengefasst.
 
-|  |  | | | | | **Obj_Arztidentifikation** |  |  | **OID: noch nicht vergeben,** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8002 | 1 |  |  |  |  | ObjektIdent | M |  |  |
-| 8147 |  | 1 |  |  |  | Person | M |  |  |
-|  |  |  | 1 |  |  | Obj_0047 (Obj_Person) | m |  |  |
-| 0212 |  | n |  |  |  | Lebenslange Arztnummer (LANR) | m | K020K115K116 |  |
-| 0223 |  | n |  |  |  | Pseudo-LANR für Krankenhausärzte im Rahmen der ASVAbrechnung- | m | K020K115K116 |  |
-| 0306 |  | 1 |  |  |  | Vertrags-ID des behandelnden Arztes | K |  | Nur bei Selektivverträgen zu verwenden. |
-| 0307 |  | n |  |  |  | Arzt-ID eines Arztes | K |  |  |
-| 0308 |  |  | n |  |  | Typ der Arzt-ID | m |  |  |
-| 0222 |  | 1 |  |  |  | ASV-Teamnummer | m | K057K116 |  |
-| 8003 | 1 |  |  |  |  | Objektende | M |  |  |
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 8147 | 1 |  |
+|  |  | 1 |
+| 0212 | n |  |
+| 0223 | n |  |
+| 0306 | 1 |  |
+| 0307 | n |  |
+| 0308 |  | n |
+| 0222 | 1 |  |
+| 8003 | 1 |  |
 
-Vorkommen
+**Obj_Arztidentifikation**
+
+**Feld-/Objektbezeichnung**
+
+**5**
+
+ObjektIdent
+
+Person
+
+Obj_0047 (Obj_Person)
+
+Lebenslange Arztnummer (LANR)
+
+Pseudo-LANR für Krankenhausärzte im Rahmen der ASV
+
+Abrechnung
+
+Vertrags-ID des behandelnden Arztes
+
+Arzt-ID eines Arztes
+
+Typ der Arzt-ID
+
+ASV-Teamnummer
+
+Objektende
+
+**Feldart**
+
+M
+
+M
+
+m
+
+m
+
+m
+
+K
+
+K
+
+m
+
+m
+
+M
+
+**Regel**
+
+K020  K115  K116  K020  K115  K116
+
+K057  K116
+
+**OID: noch nicht vergeben,**
+
+**Erläuterung**
+
+Nur bei Selektivverträgen zu verwenden.
+
 
 ---
 
@@ -10385,36 +9530,143 @@ Vorkommen
 
 Dieses Objekt bündelt alle Daten zum Befund inklusive aller Kennungen, welche eine eineindeutige Zuordnung von Auftrag und Be
 
-|  |  | | | | | **Obj_Befundinformationen** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8002 | 1 |  |  |  |  | ObjektIdent | M |  |  |
-| 8310 |  | 1 |  |  |  | Auftragsnummer des Einsenders | m | K112 |  |
-| 8313 |  |  | n |  |  | ID Nachforderung | k |  |  |
-| 8214 |  | 1 |  |  |  | Timestamp_Auftragserteilung | k |  |  |
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8215 |  | 1 |  |  |  | Timestamp_Auftragseingang | k |  |  |
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8616 |  | 1 |  |  |  | Testung | K |  |  |
-| 8626 |  | 1 |  |  |  | Rechtsgrundlage der Testung | K | K131K132 |  |
-| 8627 |  |  | 1 |  |  | KV-Sonderziffer | m | K131 |  |
-| 8617 |  |  | 1 |  |  | Beauftragungsgrund | m | K132K131 |  |
-| 4111 |  |  | 1 |  |  | Kostenträgerkennung | m | K131 |  |
-| 8631 |  | 1 |  |  |  | Bestätigungsdiagnostik | m | K132 |  |
-| 8632 |  | 1 |  |  |  | Virusvariantendiagnostik | k | K135 |  |
-| 8618 |  | 1 |  |  |  | Betreut/untergebracht in | k | K130K131 |  |
-| 8619 |  | 1 |  |  |  | Tätigkeit in Einrichtung | k | K130K131 |  |
-| 8620 |  | 1 |  |  |  | Betroffene Einrichtung | K | K131 |  |
-| 8622 |  | 1 |  |  |  | Corona-GUID | K |  |  |
-| 8625 |  | 1 |  |  |  | PLZ ÖGD | K |  |  |
-| 8623 |  | 1 |  |  |  | Identifikation/Aktenzeichen ÖGD | K |  |  |
-| 8311 |  | 1 |  |  |  | ID Auftragsnummer des Labors | M |  |  |
-| 7305 |  |  | 1 |  |  | Befund-ID | m |  |  |
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 8310 | 1 |  |
+| 8313 |  | n |
+| 8214 | 1 |  |
+|  |  | 1 |
+| 8215 | 1 |  |
+|  |  | 1 |
+| 8616 | 1 |  |
+| 8626 | 1 |  |
+| 8627 |  | 1 |
+| 8617 |  | 1 |
+| 4111 |  | 1 |
+| 8631 | 1 |  |
+| 8632 | 1 |  |
+| 8618 | 1 |  |
+| 8619 | 1 |  |
+| 8620 | 1 |  |
+| 8622 | 1 |  |
+| 8625 | 1 |  |
+| 8623 | 1 |  |
+| 8311 | 1 |  |
+| 7305 |  | 1 |
 
 **0017“**
 
-Vorkommen fund sicherstellen.
+**Obj_Befundinformationen**
+
+**Feld-/Objektbezeichnung**
+
+**5**
+
+ObjektIdent
+
+Auftragsnummer des Einsenders
+
+ID Nachforderung
+
+Timestamp_Auftragserteilung
+
+Obj_0054 (Obj_Timestamp)
+
+Timestamp_Auftragseingang
+
+Obj_0054 (Obj_Timestamp)
+
+Testung
+
+Rechtsgrundlage der Testung
+
+KV-Sonderziffer
+
+Beauftragungsgrund
+
+Kostenträgerkennung
+
+Bestätigungsdiagnostik
+
+Virusvariantendiagnostik
+
+Betreut/untergebracht in
+
+Tätigkeit in Einrichtung
+
+Betroffene Einrichtung
+
+Corona-GUID
+
+PLZ ÖGD
+
+Identifikation/Aktenzeichen ÖGD
+
+ID Auftragsnummer des Labors
+
+Befund-ID
+
+**Feldart**
+
+M
+
+m
+
+k
+
+k
+
+m
+
+k
+
+m
+
+K
+
+K
+
+m
+
+m
+
+m
+
+m
+
+k
+
+k
+
+k
+
+K
+
+K
+
+K
+
+K
+
+M
+
+m
+
+**Regel**
+
+K112
+
+K131  K132  K131  K132  K131  K131
+
+K132  K135  K130  K131  K130  K131  K131
+
+fund sicherstellen.
+
+**OID: noch nicht vergeben**
+
+**Erläuterung**
 
 
 ---
@@ -10577,23 +9829,73 @@ Status (Befund/Bericht) ID der Fallakte oder Studie Bezeichnung der Fallakte ode
 
 Dieses Objekt fasst die notwendigen Informationen zur Betriebsstätte von medizinischen Einrichtungen zusammen.
 
-|  |  | | | | | **Obj_Betriebsstaette** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8002 | 1 |  |  |  |  | ObjektIdent | M |  |  |
-| 0204 |  | n |  |  |  | Status der Betriebsstätte | M | K043 |  |
-| 0203 |  | 1 |  |  |  | (N)BSNR-Bezeichnung | M |  |  |
-| 0200 |  |  | 1 |  |  | Betriebsstätten_ID | m | K044 |  |
-| 0201 |  |  | 1 |  |  | Betriebs- (BSNR) oder Nebenbetriebsstättennummer(NBSNR) | m | K044K020 |  |
-| 0213 |  |  | 1 |  |  | Institutskennzeichen (IK) (der Betriebsstätte) | K |  |  |
-| 8143 |  |  | 1 |  |  | Organisation | m |  |  |
-|  |  |  |  | 1 |  | Obj_0043 (Obj_Organisation) | m |  |  |
-| 8003 | 1 |  |  |  |  | Objektende | M |  |  |
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 0204 | n |  |
+| 0203 | 1 |  |
+| 0200 |  | 1 |
+| 0201 |  | 1 |
+| 0213 |  | 1 |
+| 8143 |  | 1 |
+|  |  | 1 |
+| 8003 | 1 |  |
 
 **0019“**
 
-Vorkommen
+**Obj_Betriebsstaette**
+
+**Feld-/Objektbezeichnung**
+
+**5**
+
+ObjektIdent
+
+Status der Betriebsstätte (N)BSNR-Bezeichnung
+
+Betriebsstätten_ID
+
+Betriebs- (BSNR) oder Nebenbetriebsstättennummer (NBSNR)
+
+Institutskennzeichen (IK) (der Betriebsstätte)
+
+Organisation
+
+Obj_0043 (Obj_Organisation)
+
+Objektende
+
+**Feldart**
+
+M
+
+M
+
+M
+
+m
+
+m
+
+K
+
+m
+
+m
+
+M
+
+**Regel**
+
+K043
+
+K044  K044  K020
+
+**OID: noch nicht vergeben**
+
+**Erläuterung**
+
 
 ---
 
@@ -10601,27 +9903,17 @@ Vorkommen
 
 Mit diesem Objekt können Angaben zu Diagnosen des Patienten übertragen werden.
 
-**FK**
-
-**Vorkommen**
-
-**1 2 3 4**
-
-8002 1
-
-4207  n
-
-6001  1
-
-6003   1
-
-6004   1
-
-6006   n
-
-| 6008 |  |  | n |  |  | Diagnoseausnahmetatbestand | k |  |  |
-|---|---|---|---|---|---|---|---|---|---|
-| 8003 | 1 |  |  |  |  | Objektende | M |  |  |
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 4207 | n |  |
+| 6001 | 1 |  |
+| 6003 |  | 1 |
+| 6004 |  | 1 |
+| 6006 |  | n |
+| 6008 |  | n |
+| 8003 | 1 |  |
 
 **Obj_Diagnose**
 
@@ -10641,6 +9933,10 @@ Lokalisation
 
 Diagnoseerläuterung
 
+Diagnoseausnahmetatbestand
+
+Objektende
+
 **OID: noch nicht vergeben**
 
 **Feldart Regel Erläuterung**
@@ -10657,6 +9953,10 @@ k
 
 k
 
+k
+
+M
+
 
 ---
 
@@ -10664,30 +9964,129 @@ k
 
 Hier werden alle notwendigen Informationen zum Einsender zusammengefasst.
 
-|  |  | | | | | **Obj_Einsenderidentifikation** |  |  | **OID: noch nicht vergeben,** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8002 | 1 |  |  |  |  | ObjektIdent | M |  |  |
-| 7321 |  | n |  |  |  | Status Einsender | M | K045K046K047K048K107 |  |
-| 8312 |  | 1 |  |  |  | Kunden- (Arzt) Nummer | K |  |  |
-| 7267 |  |  | 1 |  |  | ID des Auftraggebers | K |  |  |
-| 8114 |  | 1 |  |  |  | Arztidentifikation | m | K107 |  |
-|  |  |  | 1 |  |  | Obj_0014 (Obj_Arztidentifikation) | m |  |  |
-| 8240 |  | 1 |  |  |  | Ueberweisung_von_anderen_Aerzten | K | K041 |  |
-|  |  |  | 1 |  |  | Obj_0014 (Obj_Arztidentifikation) | m |  |  |
-| 8241 |  | 1 |  |  |  | Ueberweisung_an | m | K016 |  |
-|  |  |  | 1 |  |  | Obj_0068 (Obj_Fließtext) | m |  |  |
-| 8147 |  | 1 |  |  |  | Person | m | K045 |  |
-|  |  |  | 1 |  |  | Obj_0047 (Obj_Person) | m |  |  |
-| 7268 |  | 1 |  |  |  | Fachrichtung oder Stationskennung | K |  |  |
-| 8119 |  | 1 |  |  |  | Betriebsstaette | m | K046K047 |  |
-|  |  |  | 1 |  |  | Obj_0019 (Obj_Betriebsstaette) | m |  |  |
-| 8143 |  | 1 |  |  |  | Organisation | m | K048 |  |
-|  |  |  | 1 |  |  | Obj_0043 (Obj_Organisation) | m |  |  |
-| 8003 | 1 |  |  |  |  | Objektende | M |  |  |
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 7321 | n |  |
+| 8312 | 1 |  |
+| 7267 |  | 1 |
+| 8114 | 1 |  |
+|  |  | 1 |
+| 8240 | 1 |  |
+|  |  | 1 |
+| 8241 | 1 |  |
+|  |  | 1 |
+| 8147 | 1 |  |
+|  |  | 1 |
+| 7268 | 1 |  |
+| 8119 | 1 |  |
+|  |  | 1 |
+| 8143 | 1 |  |
+|  |  | 1 |
+| 8003 | 1 |  |
 
-Vorkommen **0022“**
+**0022“**
+
+**Obj_Einsenderidentifikation**
+
+**Feld-/Objektbezeichnung**
+
+**5**
+
+ObjektIdent
+
+Status Einsender
+
+Kunden- (Arzt) Nummer
+
+ID des Auftraggebers
+
+Arztidentifikation
+
+Obj_0014 (Obj_Arztidentifikation)
+
+Ueberweisung_von_anderen_Aerzten
+
+Obj_0014 (Obj_Arztidentifikation)
+
+Ueberweisung_an
+
+Obj_0068 (Obj_Fließtext)
+
+Person
+
+Obj_0047 (Obj_Person)
+
+Fachrichtung oder Stationskennung
+
+Betriebsstaette
+
+Obj_0019 (Obj_Betriebsstaette)
+
+Organisation
+
+Obj_0043 (Obj_Organisation)
+
+Objektende
+
+**Feldart**
+
+M
+
+M
+
+K
+
+K
+
+m
+
+m
+
+K
+
+m
+
+m
+
+m
+
+m
+
+m
+
+K
+
+m
+
+m
+
+m
+
+m
+
+M
+
+**Regel**
+
+K 045  K046  K047  K048  K107
+
+K107
+
+K041
+
+K016
+
+K045
+
+K046  K047
+
+K048
+
+**OID: noch nicht vergeben,**
+
+**Erläuterung**
 
 
 ---
@@ -10696,26 +10095,84 @@ Vorkommen **0022“**
 
 Dieses Objekt soll genutzt werden, wenn es aus Sicht des Auftragsnehmers Vorkommnisse im Prozess gegeben hat, die eine zusätz Einsenders erfordern.
 
-|  |  | | | | | **Obj_Fehlermeldung/Aufmerksamkeit** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8002 | 1 |  |  |  |  | ObjektIdent | M |  |  |
-| 7280 |  | n |  |  |  | Grund der Benachrichtigung | M |  |  |
-| 7320 |  |  | 1 |  |  | Recall empfohlen | k |  |  |
-| 8154 |  |  |  | 1 |  | Timestamp | k |  |  |
-|  |  |  |  |  | 1 | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8147 |  | 1 |  |  |  | Person | M |  |  |
-|  |  |  | 1 |  |  | Obj_0047 (Obj_Person) | m |  |  |
-| 8167 |  | n |  |  |  | Zusaetzliche_Informationen | K |  |  |
-|  |  |  | 1 |  |  | Obj_0068 (Obj_Fließtext) | m |  |  |
-| 8110 |  | n |  |  |  | Anhang | K |  |  |
-|  |  |  | 1 |  |  | Obj_0010 (Obj_Anhang) | m |  |  |
-| 8003 | 1 |  |  |  |  | Objektende | M |  |  |
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 7280 | n |  |
+| 7320 |  | 1 |
+| 8154 |  | 1 |
+| 8147 | 1 |  |
+|  |  | 1 |
+| 8167 | n |  |
+|  |  | 1 |
+| 8110 | n |  |
+|  |  | 1 |
+| 8003 | 1 |  |
 
 **0026“**
 
-Vorkommen liche Benachrichtigung des
+**Obj_Fehlermeldung/Aufmerksamkeit**
+
+**Feld-/Objektbezeichnung**
+
+**5**
+
+ObjektIdent
+
+Grund der Benachrichtigung
+
+Recall empfohlen
+
+Timestamp 1 Obj_0054 (Obj_Timestamp)
+
+Person
+
+Obj_0047 (Obj_Person)
+
+Zusaetzliche_Informationen
+
+Obj_0068 (Obj_Fließtext)
+
+Anhang
+
+Obj_0010 (Obj_Anhang)
+
+Objektende
+
+**Feldart**
+
+M
+
+M
+
+k
+
+k
+
+m
+
+M
+
+m
+
+K
+
+m
+
+K
+
+m
+
+M
+
+**Regel**
+
+liche Benachrichtigung des
+
+**OID: noch nicht vergeben**
+
+**Erläuterung**
 
 
 ---
@@ -10724,19 +10181,13 @@ Vorkommen liche Benachrichtigung des
 
 In diesem Objekt können semantisch zusammenhängende Texte oder Dateien (Base64
 
-**FK**
-
-**Vorkommen**
-
-**1 2 3 4**
-
-8002 1
-
-3564  n
-
-| 6329 |  | n |  |  |  | Base64-kodierte Anlage | m | K100 |  |
-|---|---|---|---|---|---|---|---|---|---|
-| 8003 | 1 |  |  |  |  | Objektende | M |  |  |
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 3564 | n |  |
+| 6329 | n |  |
+| 8003 | 1 |  |
 
 **Obj_Fließtext**
 
@@ -10746,7 +10197,11 @@ In diesem Objekt können semantisch zusammenhängende Texte oder Dateien (Base64
 
 ObjektIdent
 
-Text -kodiert) übertragen werden.
+Text
+
+Base64-kodierte Anlage
+
+Objektende -kodiert) übertragen werden.
 
 **Feldart**
 
@@ -10754,7 +10209,13 @@ M
 
 m
 
+m
+
+M
+
 **Regel**
+
+K100
 
 K100
 
@@ -10769,24 +10230,76 @@ K100
 
 In diesem Objekt können Körperkenngrößen zum Patienten (Größe, Gewicht) übertragen werden
 
-|  |  | | | | | **Obj_Koerperkenngroessen** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8002 | 1 |  |  |  |  | ObjektIdent | M |  |  |
-| 3622 |  | 1 |  |  |  | Größe des Patienten | K |  |  |
-| 8421 |  |  | 1 |  |  | Maßeinheit des Messwertes / Wertes | m |  | Defaultwert „cm“ |
-| 8225 |  |  | 1 |  |  | Timestamp_Messung | m |  |  |
-|  |  |  |  | 1 |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 3623 |  | 1 |  |  |  | Gewicht des Patienten | K |  |  |
-| 8421 |  |  | 1 |  |  | Maßeinheit des Messwertes / Wertes | m |  | Defaultwert „kg“ |
-| 8225 |  |  | 1 |  |  | Timestamp_Messung | m |  |  |
-|  |  |  |  | 1 |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8003 | 1 |  |  |  |  | Objektende | M |  |  |
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 3622 | 1 |  |
+| 8421 |  | 1 |
+| 8225 |  | 1 |
+|  |  | 1 |
+| 3623 | 1 |  |
+| 8421 |  | 1 |
+| 8225 |  | 1 |
+|  |  | 1 |
+| 8003 | 1 |  |
 
 ## „Obj_0069“
 
-Vorkommen
+**Obj_Koerperkenngroessen**
+
+**Feld-/Objektbezeichnung**
+
+**5**
+
+ObjektIdent
+
+Größe des Patienten
+
+Maßeinheit des Messwertes / Wertes
+
+Timestamp_Messung
+
+Obj_0054 (Obj_Timestamp)
+
+Gewicht des Patienten
+
+Maßeinheit des Messwertes / Wertes
+
+Timestamp_Messung
+
+Obj_0054 (Obj_Timestamp)
+
+Objektende
+
+**OID: noch nicht vergeben**
+
+**Feldart Regel Erläuterung**
+
+M
+
+K
+
+m
+
+Defaultwert „cm“
+
+m
+
+m
+
+K
+
+m
+
+Defaultwert „kg“
+
+m
+
+m
+
+M
+
 
 ---
 
@@ -10814,9 +10327,9 @@ Hier werden alle Informationen zusammengefasst, die eine Kommunikation bspw. Mit
 
 7335  n
 
-| 7334 |  | n |  |  |  | Webadresse | m | K059 |  |
-|---|---|---|---|---|---|---|---|---|---|
-| 8003 | 1 |  |  |  |  | Objektende | M |  |  |
+7334  n
+
+8003 1
 
 **0031“**
 
@@ -10840,6 +10353,10 @@ Faxnummer
 
 E-Mailadresse
 
+Webadresse
+
+Objektende
+
 **Feldart**
 
 M
@@ -10856,7 +10373,13 @@ m
 
 m
 
+m
+
+M
+
 **Regel**
+
+K059
 
 K059
 
@@ -10879,82 +10402,64 @@ K059
 
 Hier werden alle Informationen zusammengefasst, die
 
-|  |  | | | | | **Obj_Kopfdaten** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8002 | 1 |  |  |  |  | ObjektIdent | M |  |  |
-| 0001 |  | 1 |  |  |  | Version der Datensatzbeschreibung | M |  |  |
-| 8151 |  | 1 |  |  |  | Sendendes_System | M |  |  |
-|  |  |  | 1 |  |  | Obj_0051 (Obj_Sendendes System) | m |  |  |
-| 8218 |  | 1 |  |  |  | Timestamp_Erstellung_Datensatz | K |  |  |
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8212 |  | 1 |  |  |  | Softwareverantwortlicher | K |  |  |
-|  |  |  | 1 |  |  | Obj_0043 (Obj_Organisation) | m |  |  |
-| 8003 | 1 |  |  |  |  | Objektende | M |  |  |
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 0001 | 1 |  |
+| 8151 | 1 |  |
+|  |  | 1 |
+| 8218 | 1 |  |
+|  |  | 1 |
+| 8212 | 1 |  |
+|  |  | 1 |
+| 8003 | 1 |  |
 
 **2“**
 
-Vorkommen im Kontext mit der Erstellung des Datensatzes stehen.
+im Kontext mit der Erstellung des Datensatzes stehen.
 
-
----
-
-**11.23** **Obj_Krebsfrueherkennung**
-
-In diesem Objekt wird das Muster 39, Grundlage für die Krebsfrüherkennungsuntersuchung Zervix-Karzinom, abgebildet.
-
-|  |  | | | | | **Obj_Krebsfrueherkennung Zervix-Karzinom (Muster39)** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8002 | 1 |  |  |  |  | ObjektIdent | M |  |  |
-| 3322 |  | 1 |  |  |  | Alterskategorie | M |  |  |
-| 8630 |  | 1 |  |  |  | Auftragsart | M |  |  |
-| 8629 |  | 1 |  |  |  | Auftrag | M |  |  |
-| 7296 |  | 1 |  |  |  | Wiederholungsuntersuchung | K |  |  |
-| 7297 |  | 1 |  |  |  | Datum der letzten Untersuchung | K |  |  |
-| 7414 |  | 1 |  |  |  | Gruppe | K |  |  |
-| 7336 |  | 1 |  |  |  | Gyn. OP, Strahlen oder Chemotherapie des Genitales | K |  |  |
-| 7337 |  |  | n |  |  | Gyn. OP, Strahlen oder Chemotherapie des Genitales –Welche? | k |  |  |
-| 7338 |  | 1 |  |  |  | Gyn. OP, Strahlen oder Chemotherapie des Genitales -Wann? | K |  |  |
-| 8512 |  | 1 |  |  |  | letzte Periode | K |  |  |
-| 7339 |  | 1 |  |  |  | Gravidität | K |  |  |
-| 7380 |  | 1 |  |  |  | Ausfluss / path. Blutung | K |  |  |
-| 7382 |  | 1 |  |  |  | IUP | K |  |  |
-| 7383 |  | 1 |  |  |  | Einnahme von Ovulationshemmer / sonstige Hormon-Anwendung | K |  |  |
-| 7384 |  | 1 |  |  |  | Klinischer Befund | K |  |  |
-| 7423 |  | 1 |  |  |  | Erläuterungen | K |  |  |
-| 3313 |  | 1 |  |  |  | HPV-Impfung | M |  |  |
-| 3314 |  | 1 |  |  |  | HPV-HR-Test | M | K128 |  |
-| 3316 |  |  | 1 |  |  | HPV-HR-Testergebnis | m | K128 |  |
-| 8167 |  | n |  |  |  | Zusaetzliche_Informationen | K |  |  |
-|  |  |  | 1 |  |  | Obj_0068 (Obj_Fließtext) | m |  |  |
-
-Vorkommen ## Zervix-Karzinom (Muster 39) „Obj_0034“
-
-
----
-
-**FK**
-
-**1**
-
-8003 1
-
-**Vorkommen**
-
-**2 3 4**
-
-**Obj_Krebsfrueherkennung Zervix-Karzinom (Muster39)**
+**Obj_Kopfdaten**
 
 **Feld-/Objektbezeichnung**
 
 **5**
 
+ObjektIdent
+
+Version der Datensatzbeschreibung
+
+Sendendes_System
+
+Obj_0051 (Obj_Sendendes System)
+
+Timestamp_Erstellung_Datensatz
+
+Obj_0054 (Obj_Timestamp)
+
+Softwareverantwortlicher
+
+Obj_0043 (Obj_Organisation)
+
 Objektende
 
 **Feldart**
+
+M
+
+M
+
+M
+
+m
+
+K
+
+m
+
+K
+
+m
 
 M
 
@@ -10967,38 +10472,320 @@ M
 
 ---
 
+**11.23** **Obj_Krebsfrueherkennung**
+
+In diesem Objekt wird das Muster 39, Grundlage für die Krebsfrüherkennungsuntersuchung Zervix-Karzinom, abgebildet.
+
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 3322 | 1 |  |
+| 8630 | 1 |  |
+| 8629 | 1 |  |
+| 7296 | 1 |  |
+| 7297 | 1 |  |
+| 7414 | 1 |  |
+| 7336 | 1 |  |
+| 7337 |  | n |
+| 7338 | 1 |  |
+| 8512 | 1 |  |
+| 7339 | 1 |  |
+| 7380 | 1 |  |
+| 7382 | 1 |  |
+| 7383 | 1 |  |
+| 7384 | 1 |  |
+| 7423 | 1 |  |
+| 3313 | 1 |  |
+| 3314 | 1 |  |
+| 3316 |  | 1 |
+| 8167 | n |  |
+|  |  | 1 |
+
+## Zervix-Karzinom (Muster 39) „Obj_
+
+**Obj_Krebsfrueherkennung Zervix-Karzinom (Muster39)**
+
+**Feld-/Objektbezeichnung**
+
+**5**
+
+ObjektIdent
+
+**0034“**
+
+Alterskategorie
+
+Auftragsart
+
+Auftrag
+
+Wiederholungsuntersuchung
+
+Datum der letzten Untersuchung
+
+Gruppe
+
+Gyn. OP, Strahlen oder Chemotherapie des Genitales
+
+Gyn. OP, Strahlen oder Chemotherapie des Genitales
+
+Welche?
+
+Gyn. OP, Strahlen oder Chemotherapie des Genitales -
+
+Wann?
+
+letzte Periode
+
+Gravidität
+
+Ausfluss / path. Blutung
+
+IUP
+
+Einnahme von Ovulationshemmer / sonstige Hormon-
+
+Anwendung
+
+Klinischer Befund
+
+Erläuterungen
+
+HPV-Impfung
+
+HPV-HR-Test
+
+HPV-HR-Testergebnis
+
+Zusaetzliche_Informationen
+
+Obj_0068 (Obj_Fließtext)
+
+**Feldart**
+
+M
+
+M
+
+M
+
+M
+
+K
+
+K
+
+K
+
+K
+
+k
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+M
+
+M
+
+m
+
+K
+
+m
+
+**Regel**
+
+K128  K128
+
+**OID: noch nicht vergeben**
+
+**Erläuterung**
+
+
+---
+
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8003 | 1 |  |
+
+**Obj_Krebsfrueherkennung Zervix-Karzinom (Muster39)**
+
+**Feld-/Objektbezeichnung**
+
+**5**
+
+Objektende
+
+|  |  | **OID: noch** | **nicht vergeben** |
+|---|---|---|---|
+| **Feldart** | **Regel** | **Erläuterung** |  |
+| M |  |  |  |
+
+OID: noch nicht vergeben
+
+---
+
 **11.24** **Obj_Laborergebnisbericht „Obj_**
 
 Im Objekt werden die Untersuchungsergebnisse zusammengefasst.
 
 Hinweis: Die Feldkennungen 8160, 8161, 8162, 8163, 8155, 8248 und 8156 können im Obj_0035 in beliebiger Reihenfolge angeordnet und übertragen werden. Damit  wird es möglich, im Obj_0035 die Struktur eines schriftlichen Befundes nachzubilden.
 
-|  |  | | | | | **Obj_Laborergebnisbericht** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8002 | 1 |  |  |  |  | ObjektIdent | M | K009 |  |
-| 8160 |  | n |  |  |  | UE_Klinische_Chemie | m | K009 |  |
-|  |  |  | 1 |  |  | Obj_0060(Obj_Untersuchungsergebnis_Klinische_Chemie) | m |  |  |
-| 8161 |  | n |  |  |  | UE _Mikrobiologie | m | K009 |  |
-|  |  |  | 1 |  |  | Obj_0061 (Obj_Untersuchungsergebnis_Mikrobiologie) | m |  |  |
-| 8162 |  | n |  |  |  | UE_Krebsfrueherkennung_Zervix-Karzinom | m | K009 |  |
-|  |  |  | 1 |  |  | Obj_0062(Obj_Untersuchungsergebnis_Krebsfrueherkennung_Zervix-Karzinom) | m |  |  |
-| 8163 |  | n |  |  |  | UE _Zytologie | m | K009 |  |
-|  |  |  | 1 |  |  | Obj_0063 (Obj_Untersuchungsergebnis_Zytologie) | m |  |  |
-| 8155 |  | n |  |  |  | Blutgruppenzugehoerigkeit | m | K009 |  |
-|  |  |  | 1 |  |  | Obj_0055 (Obj_Blutgruppenzugehoerigkeit) | m |  |  |
-| 8248 |  | n |  |  |  | UE_Sonstige_Untersuchungsergebnisse | m | K009 |  |
-|  |  |  | 1 |  |  | Obj_0073 (Obj_Sonstige Untersuchungsergebnisse) | m |  |  |
-| 8156 |  | n |  |  |  | Tumor | K |  |  |
-|  |  |  | 1 |  |  | Obj_0056 (Obj_Tumor) | m |  |  |
-| 8221 |  | 1 |  |  |  | Timestamp_Erstellung_Laborergebnisbericht | M |  |  |
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8167 |  | n |  |  |  | Zusaetzliche_Informationen | K |  |  |
-|  |  |  | 1 |  |  | Obj_0068 (Obj_Fließtext) | m |  |  |
-| 8110 |  | n |  |  |  | Anhang | K |  |  |
+**FK**
 
-Vorkommen **0035“**
+**Vorkommen**
+
+**1 2**
+
+8002 1
+
+8160  n
+
+8161  n
+
+8162  n
+
+8163  n
+
+8155  n
+
+8248  n
+
+8156  n
+
+8221  1
+
+8167  n
+
+8110  n
+
+**0035“**
+
+**Obj_Laborergebnisbericht**
+
+**Feld-/Objektbezeichnung**
+
+**3 4 5**
+
+ObjektIdent
+
+UE_Klinische_Chemie
+
+Obj_0060 1
+
+(Obj_Untersuchungsergebnis_Klinische_Chemie)
+
+UE _Mikrobiologie 1
+
+Obj_0061 (Obj_Untersuchungsergebnis_Mikrobiologie)
+
+UE_Krebsfrueherkennung_Zervix-Karzinom
+
+Obj_0062 1
+
+(Obj_Untersuchungsergebnis_Krebsfrueherkennung_  Zervix-Karzinom)
+
+UE _Zytologie 1
+
+Obj_0063 (Obj_Untersuchungsergebnis_Zytologie)
+
+Blutgruppenzugehoerigkeit 1
+
+Obj_0055 (Obj_Blutgruppenzugehoerigkeit)
+
+UE_Sonstige_Untersuchungsergebnisse 1
+
+Obj_0073 (Obj_Sonstige Untersuchungsergebnisse)
+
+Tumor 1
+
+Obj_0056 (Obj_Tumor)
+
+Timestamp_Erstellung_Laborergebnisbericht 1
+
+Obj_0054 (Obj_Timestamp)
+
+Zusaetzliche_Informationen 1
+
+Obj_0068 (Obj_Fließtext)
+
+Anhang
+
+**Feldart**
+
+M
+
+m
+
+m
+
+m
+
+m
+
+m
+
+m
+
+m
+
+m
+
+m
+
+m
+
+m
+
+m
+
+K
+
+m
+
+M
+
+m
+
+K
+
+m
+
+K
+
+**Regel**
+
+K009
+
+K009
+
+K009   K009
+
+K009
+
+K009
+
+K009
+
+**OID: noch nicht vergeben**
+
+**Erläuterung**
 
 
 ---
@@ -11007,31 +10794,14 @@ Vorkommen **0035“**
 
 8141   8003
 
-**Vorkommen**
-
-**1 2 3 4**
-
-1
-
-1
-
-1
-
-1
-
-**Obj_Laborergebnisbericht**
-
-**Feld-/Objektbezeichnung**
-
-**5**
-
-Obj_0010 (Obj_Anhang)
-
-Namenskennung
-
-Obj_0041 (Obj_Namenskennung)
-
-Objektende
+|  |  |  | **Obj_Laborergebnisbericht** |
+|---|---|---|---|
+|  | **Vorkommen** |  | **Feld-/Objektbezeichnung** |
+| **1 2** | **3 4** | **5** |  |
+|  | 1 | Obj_0010 | (Obj_Anhang) |
+| 1 |  |  | Namenskennung |
+|  | 1 | Obj_0041 | (Obj_Namenskennung) |
+| 1 |  |  | Objektende |
 
 **OID: noch nicht vergeben**
 
@@ -11045,6 +10815,8 @@ m
 
 M
 
+Obj_0010 (Obj_Anhang) Obj_0041 (Obj_Namenskennung)
+
 
 ---
 
@@ -11052,21 +10824,62 @@ M
 
 Das Objekt enthält die Angaben zu dem Labor, welches den Auftrag ausgeführt hat.
 
-|  |  | | | | | **Obj_Laborkennung** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8002 | 1 |  |  |  |  | ObjektIdent | M |  |  |
-| 8239 |  | 1 |  |  |  | Laborbezeichnung | m |  |  |
-|  |  |  | 1 |  |  | Obj_0043 (Obj_Organisation) | m |  |  |
-| 7352 |  | n |  |  |  | URL Kataloge | K |  |  |
-| 8324 |  | 1 |  |  |  | ID eines Laborstandortes | K |  |  |
-| 7266 |  | 1 |  |  |  | Laborart | M | K083K084 |  |
-| 8003 | 1 |  |  |  |  | Objektende | M |  |  |
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 8239 | 1 |  |
+|  |  | 1 |
+| 7352 | n |  |
+| 8324 | 1 |  |
+| 7266 | 1 |  |
+| 8003 | 1 |  |
 
 **0036“**
 
-Vorkommen
+**Obj_Laborkennung**
+
+**Feld-/Objektbezeichnung**
+
+**5**
+
+ObjektIdent
+
+Laborbezeichnung
+
+Obj_0043 (Obj_Organisation)
+
+URL Kataloge
+
+ID eines Laborstandortes
+
+Laborart
+
+Objektende
+
+**Feldart**
+
+M
+
+m
+
+m
+
+K
+
+K
+
+M
+
+M
+
+**Regel**
+
+K083  K084
+
+**OID: noch nicht vergeben**
+
+**Erläuterung**
 
 
 ---
@@ -11075,52 +10888,147 @@ Vorkommen
 
 Im Objekt werden die Informationen zur Identifikation des zu untersuchenden Materials übermittelt sowie Angaben zum Material
 
-|  |  | | | | | **Obj_Material** |  |  | **OID noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Bezeichnung der Feldinhalte** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8002 | 1 |  |  |  |  | ObjektIdent | M |  |  |
-| 7364 |  | 1 |  |  |  | Probengefäß-Ident | M |  |  |
-| 8429 |  | 1 |  |  |  | Probenmaterial Index | K | K006 |  |
-| 8428 |  | 1 |  |  |  | Probenmaterial-Ident | K | K006 |  |
-| 8430 |  | 1 |  |  |  | Probenmaterial-Bezeichnung | k | K006 |  |
-| 8431 |  | 1 |  |  |  | Probenmaterial-Spezifikation | k | K006 |  |
-| 7292 |  | 1 |  |  |  | Lokalisation Probenmaterial | K |  |  |
-| 7310 |  | 1 |  |  |  | Art des Materials | k | K038K039 |  |
-| 7311 |  |  | 1 |  |  | Organisches Material | k | K038 |  |
-| 7312 |  |  | 1 |  |  | Anorganisches Material | k | K038 |  |
-| 8167 |  |  |  | 1 |  | Zusaetzliche_Informationen | k |  |  |
-|  |  |  |  |  | 1 | Obj_0068 (Obj_Fließtext) | m |  |  |
-| 8504 |  | n |  |  |  | Medikamenteneinnahme zum Zeitpunkt derMaterialentnahme | K |  |  |
-| 8170 |  |  | 1 |  |  | Medikament | k |  |  |
-|  |  |  |  | 1 |  | Obj_0070 (Obj_Medikament) | m |  |  |
-| 7318 |  | n |  |  |  | Nahrungsaufnahme zum Zeitpunkt der Materialentnahme | K |  |  |
-| 8520 |  | 1 |  |  |  | Menge des Probenmaterials | K |  |  |
-| 8421 |  |  | 1 |  |  | Maßeinheit des Messwertes / Wertes | m |  |  |
-| 8522 |  |  | 1 |  |  | Sammelzeit des Probenmaterials | k |  |  |
-| 8219 |  | 1 |  |  |  | Timestamp_Materialabnahme_entnahme | K m | K063 |  |
-
-8219  1
-
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |
-|---|---|---|---|---|---|---|---|---|
-| 8220 |  | 1 |  |  |  | Timestamp_Eingangserfassung_Material | k m | K063 |
-
-8220  1
+| **FK** | **Vorkommen** |  |
+|---|---|---|
+|  | **1 2 3** | **4** |
+| 8002 | 1 |  |
+| 7364 | 1 |  |
+| 8429 | 1 |  |
+| 8428 | 1 |  |
+| 8430 | 1 |  |
+| 8431 | 1 |  |
+| 7292 | 1 |  |
+| 7310 | 1 |  |
+| 7311 | 1 |  |
+| 7312 | 1 |  |
+| 8167 |  | 1 |
+| 8504 | n |  |
+| 8170 | 1 |  |
+|  |  | 1 |
+| 7318 | n |  |
+| 8520 | 1 |  |
+| 8421 | 1 |  |
+| 8522 | 1 |  |
+| 8219 | 1 |  |
+|  | 1 |  |
+| 8220 | 1 |  |
+|  | 1 |  |
 
 **0037“**
 
-Timestamp_Materialabnahme_entnahme
+**Obj_Material**
 
-Timestamp_Eingangserfassung_Material 1
+**Bezeichnung der Feldinhalte**
+
+**5**
+
+ObjektIdent
+
+Probengefäß-Ident
+
+Probenmaterial Index
+
+Probenmaterial-Ident
+
+Probenmaterial-Bezeichnung
+
+Probenmaterial-Spezifikation
+
+Lokalisation Probenmaterial
+
+Art des Materials
+
+Organisches Material
+
+Anorganisches Material
+
+Zusaetzliche_Informationen 1 Obj_0068 (Obj_Fließtext)
+
+Medikamenteneinnahme zum Zeitpunkt der
+
+Materialentnahme
+
+Medikament
+
+Obj_0070 (Obj_Medikament)
+
+Nahrungsaufnahme zum Zeitpunkt der Materialentnahme
+
+Menge des Probenmaterials
+
+Maßeinheit des Messwertes / Wertes
+
+Sammelzeit des Probenmaterials
+
+Timestamp_Materialabnahme_entnahme
 
 Obj_0054 (Obj_Timestamp)
 
+Timestamp_Eingangserfassung_Material
+
+Obj_0054 (Obj_Timestamp)
+
+**Feldart**
+
+M
+
+M
+
+K
+
+K
+
+k
+
+k
+
+K
+
+k
+
+k
+
+k
+
+k
+
+m
+
+K
+
+k
+
+m
+
+K
+
+K
+
+m
+
+k
+
 K m
+
+m
 
 k m
 
 m
+
+**Regel**
+
+K006
+
+K006
+
+K006
+
+K006
+
+K038  K039  K038
+
+K038
 
 K063
 
@@ -11128,27 +11036,31 @@ K063
 
 selbst.
 
-Vorkommen
+**OID noch nicht vergeben**
+
+**Erläuterung**
+
 
 ---
 
-8126  1
+| 8126 | 1 |  |
+|---|---|---|
+|  |  | 1 |
+| 8167 | n |  |
+|  |  | 1 |
+| 8110 | n |  |
+|  |  | 1 |
+| 8003 | 1 |  |
 
-8167  n
-
-8110  n
-
-8003 1
-
-Fehlermeldung_Aufmerksamkeit 1
+Fehlermeldung_Aufmerksamkeit
 
 Obj_0026 (Obj_Fehlermeldung/Aufmerksamkeit)
 
-Zusaetzliche_Informationen 1
+Zusaetzliche_Informationen
 
 Obj_0068 (Obj_Fließtext)
 
-Anhang 1
+Anhang
 
 Obj_0010 (Obj_Anhang)
 
@@ -11177,30 +11089,115 @@ M
 
 Hier werden Informationen zu Medikamenten zusammengefasst.
 
-|  |  | | | | | **Obj_Medikament** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8002 | 1 |  |  |  |  | ObjektIdent | M |  |  |
-| 8243 |  | 1 |  |  |  | Timestamp_Zeitpunkt_Medikamenteneinnahme | K |  |  |
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 6.208 |  | 1 |  |  |  | Handelsname des Arzneimittels | M |  |  |
-| 6207 |  | 1 |  |  |  | Rezeptur | K |  |  |
-| 8171 |  |  | n |  |  | Wirkstoff | K |  |  |
-|  |  |  |  | 1 |  | Obj_0071 (Obj_Wirkstoff) | m |  |  |
-| 6206 |  |  | 1 |  |  | Pharmazentralnummer (PZN) | k |  |  |
-| 8523 |  | 1 |  |  |  | Wirkstoffmenge, Menge / Bezugsmenge, Wirkstärke | K |  |  |
-| 8421 |  |  | 1 |  |  | Maßeinheit des Messwertes / Wertes | m |  |  |
-| 3689 |  | n |  |  |  | Status der Medikation | K |  |  |
-| 8226 |  | 1 |  |  |  | Timestamp_Gueltig_ab | K |  |  |
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8227 |  | 1 |  |  |  | Timestamp_Gueltig_bis | K |  |  |
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8167 |  | 1 |  |  |  | Zusaetzliche_Informationen | K |  |  |
-|  |  |  | 1 |  |  | Obj_0068 (Obj_Fließtext) | m |  |  |
-| 8003 | 1 |  |  |  |  | Objektende | M |  |  |
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 8243 | 1 |  |
+|  |  | 1 |
+| 6208 | 1 |  |
+| 6207 | 1 |  |
+| 8171 |  | n |
+|  |  | 1 |
+| 6206 |  | 1 |
+| 8523 | 1 |  |
+| 8421 |  | 1 |
+| 3689 | n |  |
+| 8226 | 1 |  |
+|  |  | 1 |
+| 8227 | 1 |  |
+|  |  | 1 |
+| 8167 | 1 |  |
+|  |  | 1 |
+| 8003 | 1 |  |
 
-Vorkommen **0070“**
+**0070“**
+
+**Obj_Medikament**
+
+**Feld-/Objektbezeichnung**
+
+**5**
+
+ObjektIdent
+
+Timestamp_Zeitpunkt_Medikamenteneinnahme
+
+Obj_0054 (Obj_Timestamp)
+
+Handelsname des Arzneimittels
+
+Rezeptur
+
+Wirkstoff
+
+Obj_0071 (Obj_Wirkstoff)
+
+Pharmazentralnummer (PZN)
+
+Wirkstoffmenge, Menge / Bezugsmenge, Wirkstärke
+
+Maßeinheit des Messwertes / Wertes
+
+Status der Medikation
+
+Timestamp_Gueltig_ab
+
+Obj_0054 (Obj_Timestamp)
+
+Timestamp_Gueltig_bis
+
+Obj_0054 (Obj_Timestamp)
+
+Zusaetzliche_Informationen
+
+Obj_0068 (Obj_Fließtext)
+
+Objektende
+
+**Feldart**
+
+M
+
+K
+
+m
+
+M
+
+K
+
+K
+
+m
+
+k
+
+K
+
+m
+
+K
+
+K
+
+m
+
+**Regel**
+
+**OID: noch nicht vergeben**
+
+**Erläuterung**
+
+K
+
+m
+
+K
+
+m
+
+M
 
 
 ---
@@ -11209,27 +11206,14 @@ Vorkommen **0070“**
 
 Das Objekt Mutterschaft fasst die Angaben zur Mutterschaft zusammen.
 
-**FK**
-
-**1**
-
-8002 1
-
-3668
-
-3664
-
-| 3666 |  |  | 1 |  |  | Anzahl Kinder | k |  |  |
-|---|---|---|---|---|---|---|---|---|---|
-| 8003 | 1 |  |  |  |  | Objektende | M |  |  |
-
-**Vorkommen**
-
-**2 3 4**
-
-1
-
-1
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 3668 | 1 |  |
+| 3664 |  | 1 |
+| 3666 |  | 1 |
+| 8003 | 1 |  |
 
 **0040“**
 
@@ -11245,6 +11229,10 @@ Anzahl Schwangerschaften
 
 Anzahl Geburten
 
+Anzahl Kinder
+
+Objektende
+
 **Feldart**
 
 M
@@ -11252,6 +11240,10 @@ M
 M
 
 k
+
+k
+
+M
 
 **Regel**
 
@@ -11266,19 +11258,52 @@ k
 
 Das Objekt dient der Darstellung und elektronischen Übermittlung von Namenskennzeichnungen.
 
-|  |  | | | | | **Obj_Namenskennung** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8002 | 1 |  |  |  |  | ObjektIdent | M |  |  |
-| 7420 |  | 1 |  |  |  | Status Person | M |  |  |
-| 7358 |  |  | 1 |  |  | Name im Klartext | m |  |  |
-| 8990 |  |  |  | 1 |  | Namenskürzel / Namenszeichen | K |  |  |
-| 8110 |  |  |  | 1 |  | Anhang | k |  |  |
-|  |  |  |  |  | 1 | Obj_0010 (Obj_Anhang) | m |  |  |
-| 8003 | 1 |  |  |  |  | Objektende | M |  |  |
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 7420 | 1 |  |
+| 7358 |  | 1 |
+| 8990 |  | 1 |
+| 8110 |  | 1 |
+| 8003 | 1 |  |
 
-Vorkommen
+**Obj_Namenskennung**
+
+**Feld-/Objektbezeichnung**
+
+**5**
+
+ObjektIdent
+
+Status Person
+
+Name im Klartext
+
+Namenskürzel / Namenszeichen
+
+Anhang 1 Obj_0010 (Obj_Anhang)
+
+Objektende
+
+**OID: noch nicht vergeben**
+
+**Feldart Regel Erläuterung**
+
+M
+
+M
+
+m
+
+K
+
+k
+
+m
+
+M
+
 
 ---
 
@@ -11286,36 +11311,146 @@ Vorkommen
 
 Mit diesem Objekt werden Norm- und Referenzbereiche strukturiert dargestellt.
 
-|  |  | | | | | **Obj_Normalwert** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8002 | 1 |  |  |  |  | ObjektIdent | M |  |  |
-| 8424 |  | 1 |  |  |  | Normalwertspezifikation | M | K054 |  |
-| 8167 |  |  | 1 |  |  | Zusaetzliche_Informationen | k |  |  |
-|  |  |  |  | 1 |  | Obj_0068 (Obj_Fließtext) | m |  |  |
-| 8460 |  | n |  |  |  | Normalwert-Text | m | K055 |  |
-| 8461 |  | 1 |  |  |  | Normalwert untere Grenze | m | K055 |  |
-| 8419 |  |  | 1 |  |  | Einheitensystem des Messwertes / Wertes | m | K002 |  |
-| 8421 |  |  |  | 1 |  | Maßeinheit des Messwertes / Wertes | m | K002 |  |
-| 8462 |  | 1 |  |  |  | Normalwert obere Grenze | m | K055 |  |
-| 8419 |  |  | 1 |  |  | Einheitensystem des Messwertes / Wertes | m | K002 |  |
-| 8421 |  |  |  | 1 |  | Maßeinheit des Messwertes / Wertes | m | K002 |  |
-| 7316 |  | 1 |  |  |  | Normalwert Listenbezeichnung | m | K055 |  |
-| 7317 |  |  | n |  |  | Normalwert Listenzeile | m |  |  |
-| 7363 |  | 1 |  |  |  | Alarmwert untere Grenze | K |  |  |
-| 8419 |  |  | 1 |  |  | Einheitensystem des Messwertes / Wertes | m | K002 |  |
-| 8421 |  |  |  | 1 |  | Maßeinheit des Messwertes / Wertes | m | K002 |  |
-| 7371 |  | 1 |  |  |  | Alarmwert obere Grenze | K |  |  |
-| 8419 |  |  | 1 |  |  | Einheitensystem des Messwertes / Wertes | m | K002 |  |
-| 8421 |  |  |  | 1 |  | Maßeinheit des Messwertes / Wertes | m | K002 |  |
-| 8422 |  | 1 |  |  |  | Grenzwertindikator des Laborwertes | M |  |  |
-| 8126 |  |  | 1 |  |  | Fehlermeldung_Aufmerksamkeit | m | K099 |  |
-|  |  |  |  | 1 |  | Obj_0026 (Obj_Fehlermeldung/Aufmerksamkeit) | m |  |  |
-| 8003 | 1 |  |  |  |  | Objektende | M |  |  |
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 8424 | 1 |  |
+| 8167 |  | 1 |
+|  |  | 1 |
+| 8460 | n |  |
+| 8461 | 1 |  |
+| 8419 |  | 1 |
+| 8421 |  | 1 |
+| 8462 | 1 |  |
+| 8419 |  | 1 |
+| 8421 |  | 1 |
+| 7316 | 1 |  |
+| 7317 |  | n |
+| 7363 | 1 |  |
+| 8419 |  | 1 |
+| 8421 |  | 1 |
+| 7371 | 1 |  |
+| 8419 |  | 1 |
+| 8421 |  | 1 |
+| 8422 | 1 |  |
+| 8126 |  | 1 |
+|  |  | 1 |
+| 8003 | 1 |  |
 
-Vorkommen **0042“**
+**0042“**
 
+|  | **Obj_Normalwert** |  |
+|---|---|---|
+|  | **Feld-/Objektbezeichnung** |  |
+| **5** |  |  |
+| ObjektIdent |  |  |
+|  | Normalwertspezifikation |  |
+|  | Zusaetzliche_Informationen |  |
+| Obj_0068 | (Obj_Fließtext) |  |
+|  | Normalwert-Text |  |
+| Normalwert | untere Grenze |  |
+|  | Einheitensystem des | Messwertes / Wertes |
+| Maßeinheit | des Messwertes | / Wertes |
+| Normalwert | obere Grenze |  |
+|  | Einheitensystem des | Messwertes / Wertes |
+| Maßeinheit | des Messwertes | / Wertes |
+| Normalwert | Listenbezeichnung |  |
+| Normalwert | Listenzeile |  |
+| Alarmwert | untere Grenze |  |
+|  | Einheitensystem des | Messwertes / Wertes |
+| Maßeinheit | des Messwertes | / Wertes |
+| Alarmwert | obere Grenze |  |
+|  | Einheitensystem des | Messwertes / Wertes |
+| Maßeinheit | des Messwertes | / Wertes |
+|  | Grenzwertindikator des | Laborwertes |
+|  | Fehlermeldung_Aufmerksamkeit | |
+| Obj_0026 |  | (Obj_Fehlermeldung/Aufmerksamkeit) |
+| Objektende |  |  |
+
+**Feldart**
+
+M
+
+M
+
+k
+
+m
+
+m
+
+m
+
+m
+
+m
+
+m
+
+m
+
+m
+
+m
+
+m
+
+K
+
+m
+
+m
+
+K
+
+m
+
+m
+
+M
+
+m
+
+m
+
+M
+
+**Regel**
+
+K054
+
+K055
+
+K055
+
+K002
+
+K002
+
+K055
+
+K002
+
+K002
+
+K055
+
+K002
+
+K002
+
+K002
+
+K002
+
+K099
+
+**OID: noch nicht vergeben**
+
+**Erläuterung**
+
+Obj_0068 (Obj_Fließtext) Normalwert untere Grenze Einheitensystem des Messwertes / Wertes Maßeinheit des Messwertes / Wertes Normalwert obere Grenze Einheitensystem des Messwertes / Wertes Maßeinheit des Messwertes / Wertes Normalwert Listenbezeichnung Normalwert Listenzeile Alarmwert untere Grenze Einheitensystem des Messwertes / Wertes Maßeinheit des Messwertes / Wertes Alarmwert obere Grenze Einheitensystem des Messwertes / Wertes Maßeinheit des Messwertes / Wertes Grenzwertindikator des Laborwertes Obj_0026 (Obj_Fehlermeldung/Aufmerksamkeit)
 
 ---
 
@@ -11323,25 +11458,88 @@ Vorkommen **0042“**
 
 Mit diesem Objekt werden Organisationsstrukturen abgebildet.
 
-|  |  | | | | | **Obj_Organisation** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8002 | 1 |  |  |  |  | ObjektIdent | M |  |  |
-| 1250 |  | 1 |  |  |  | Organisation / Firma | M |  |  |
-| 1251 |  |  | 1 |  |  | Rechtsform der Organisation | K |  |  |
-| 1252 |  |  | n |  |  | Funktionsbezeichnung der Person innerhalb derOrganisation | K |  |  |
-| 8147 |  |  |  | n |  | Person | m | K092 |  |
-|  |  |  |  |  | 1 | Obj_0047 (Obj_Person) | m |  |  |
-| 8229 |  |  | n |  |  | Anschrift_Arbeitsstelle | K |  |  |
-|  |  |  |  | 1 |  | Obj_0007 (Obj_Anschrift) | m |  |  |
-| 8230 |  |  | 1 |  |  | Rechnungsanschrift | K |  |  |
-|  |  |  |  | 1 |  | Obj_0007 (Obj_Anschrift) | m |  |  |
-| 8131 |  |  | 1 |  |  | Kommunikationsdaten | K |  |  |
-|  |  |  |  | 1 |  | Obj_0031 (Obj_Kommunikationsdaten) | m |  |  |
-| 8003 | 1 |  |  |  |  | Objektende | M |  |  |
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 1250 | 1 |  |
+| 1251 |  | 1 |
+| 1252 |  | n |
+| 8147 |  | n |
+| 8229 |  | n |
+|  |  | 1 |
+| 8230 |  | 1 |
+|  |  | 1 |
+| 8131 |  | 1 |
+|  |  | 1 |
+| 8003 | 1 |  |
 
-Vorkommen
+**Obj_Organisation**
+
+**Feld-/Objektbezeichnung**
+
+**5**
+
+ObjektIdent
+
+Organisation / Firma
+
+Rechtsform der Organisation  Funktionsbezeichnung der Person innerhalb der
+
+Organisation
+
+Person 1 Obj_0047 (Obj_Person)
+
+Anschrift_Arbeitsstelle
+
+Obj_0007 (Obj_Anschrift)
+
+Rechnungsanschrift
+
+Obj_0007 (Obj_Anschrift)
+
+Kommunikationsdaten
+
+Obj_0031 (Obj_Kommunikationsdaten)
+
+Objektende
+
+**Feldart**
+
+M
+
+M
+
+K
+
+K
+
+m
+
+m
+
+K
+
+m
+
+K
+
+m
+
+K
+
+m
+
+M
+
+**Regel**
+
+K092
+
+**OID: noch nicht vergeben**
+
+**Erläuterung**
+
 
 ---
 
@@ -11349,21 +11547,74 @@ Vorkommen
 
 In diesem Objekt werden die Informationen über einen Patienten aufgeführt.
 
-|  |  | | | | | **Obj_Patient** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8002 | 1 |  |  |  |  | ObjektIdent | M |  |  |
-| 8147 |  | 1 |  |  |  | Person | M | K104 |  |
-|  |  |  | 1 |  |  | Obj_0047 (Obj_Person) | m |  |  |
-| 3119 |  | 1 |  |  |  | Versicherten_ID | m | K025K091 |  |
-| 3105 |  | 1 |  |  |  | Versichertennummer | m | K025K090 |  |
-| 7329 |  | 1 |  |  |  | Normalbereichsrelevantes Geschlecht | K |  |  |
-| 7922 |  | 1 |  |  |  | Sterbedatum des Patienten | K |  |  |
-| 3000 |  | 1 |  |  |  | Patientennummer | K |  |  |
-| 8003 | 1 |  |  |  |  | Objektende | M |  |  |
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 8147 | 1 |  |
+|  |  | 1 |
+| 3119 | 1 |  |
+| 3105 | 1 |  |
+| 7329 | 1 |  |
+| 7922 | 1 |  |
+| 3000 | 1 |  |
+| 8003 | 1 |  |
 
-Vorkommen **0045“**
+**0045“**
+
+**Obj_Patient**
+
+**Feld-/Objektbezeichnung**
+
+**5**
+
+ObjektIdent
+
+Person
+
+Obj_0047 (Obj_Person)
+
+Versicherten_ID
+
+Versichertennummer
+
+Normalbereichsrelevantes Geschlecht
+
+Sterbedatum des Patienten
+
+Patientennummer
+
+Objektende
+
+**Feldart**
+
+M
+
+M
+
+m
+
+m
+
+m
+
+K
+
+K
+
+K
+
+M
+
+**Regel**
+
+K104
+
+K025  K091  K025  K090
+
+**OID: noch nicht vergeben**
+
+**Erläuterung**
 
 
 ---
@@ -11372,36 +11623,147 @@ Vorkommen **0045“**
 
 Mit dem Objekt Person werden alle die natürlichen Personen dargestellt, deren Daten für die Abwicklung, Abrechnung oder Dokum notwendig sind.
 
-|  |  | | | | | **Obj_Person** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regeln** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8002 | 1 |  |  |  |  | ObjektIdent | M |  |  |
-| 7420 |  | 1 |  |  |  | Status Person | m | K094K104 |  |
-| 3100 |  | 1 |  |  |  | Namenszusatz | K |  |  |
-| 3120 |  | 1 |  |  |  | Vorsatzwort | K |  |  |
-| 3101 |  | 1 |  |  |  | Nachname | M |  |  |
-| 3102 |  | n |  |  |  | Vorname | M |  |  |
-| 3103 |  | 1 |  |  |  | Geburtsdatum | m | K094 |  |
-| 3104 |  | 1 |  |  |  | Titel | K |  |  |
-| 3110 |  | 1 |  |  |  | Geschlecht | m | K094 |  |
-| 3628 |  | 1 |  |  |  | Muttersprache (der Person) | K |  |  |
-| 8990 |  | 1 |  |  |  | Namenskürzel / Namenszeichen | K |  |  |
-| 8228 |  | 1 |  |  |  | Wohnanschrift | m | K094 |  |
-|  |  |  | 1 |  |  | Obj_0007 (Obj_Anschrift) | m |  |  |
-| 8229 |  | 1 |  |  |  | Anschrift_Arbeitsstelle | K |  |  |
-|  |  |  | 1 |  |  | Obj_0007 (Obj_Anschrift) | m |  |  |
-| 8230 |  | 1 |  |  |  | Rechnungsanschrift | K |  |  |
-|  |  |  | 1 |  |  | Obj_0007 (Obj_Anschrift) | m |  |  |
-| 8232 |  | 1 |  |  |  | Private_Kommunikationsdaten | K |  |  |
-|  |  |  | 1 |  |  | Obj_0031 (Obj_Kommunikationsdaten) | m |  |  |
-| 8233 |  | 1 |  |  |  | Geschaeftliche_Kommunikationsdaten | K |  |  |
-|  |  |  | 1 |  |  | Obj_0031 (Obj_Kommunikationsdaten) | m |  |  |
-| 8003 | 1 |  |  |  |  | Objektende | M |  |  |
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 7420 | 1 |  |
+| 3100 | 1 |  |
+| 3120 | 1 |  |
+| 3101 | 1 |  |
+| 3102 | n |  |
+| 3103 | 1 |  |
+| 3104 | 1 |  |
+| 3110 | 1 |  |
+| 3628 | 1 |  |
+| 8990 | 1 |  |
+|  | 18228 |  |
+|  |  | 1 |
+|  | 18229 |  |
+|  |  | 1 |
+|  | 18230 |  |
+|  |  | 1 |
+| 8232 | 1 |  |
+|  |  | 1 |
+| 8233 | 1 |  |
+|  |  | 1 |
+| 8003 | 1 |  |
 
 **0047“**
 
-Vorkommen entation von Aufträgen und Befunden
+**Obj_Person**
+
+**Feld-/Objektbezeichnung**
+
+**5**
+
+ObjektIdent
+
+Status Person
+
+Namenszusatz
+
+Vorsatzwort
+
+Nachname
+
+Vorname
+
+Geburtsdatum
+
+Titel
+
+Geschlecht
+
+Muttersprache (der Person)
+
+Namenskürzel / Namenszeichen
+
+Wohnanschrift
+
+Obj_0007 (Obj_Anschrift)
+
+Anschrift_Arbeitsstelle
+
+Obj_0007 (Obj_Anschrift)
+
+Rechnungsanschrift
+
+Obj_0007 (Obj_Anschrift)
+
+Private_Kommunikationsdaten
+
+Obj_0031 (Obj_Kommunikationsdaten)
+
+Geschaeftliche_Kommunikationsdaten
+
+Obj_0031 (Obj_Kommunikationsdaten)
+
+Objektende
+
+**Feldart**
+
+M
+
+m
+
+K
+
+K
+
+M
+
+M
+
+m
+
+K
+
+m
+
+K
+
+K
+
+m
+
+m
+
+K
+
+m
+
+K
+
+m
+
+K
+
+m
+
+K
+
+m
+
+M
+
+**Regeln**
+
+K094
+
+K104
+
+K094
+
+K094
+
+K094
+
+entation von Aufträgen und Befunden
+
+**OID: noch nicht vergeben**
+
+**Erläuterung**
 
 
 ---
@@ -11410,22 +11772,81 @@ Vorkommen entation von Aufträgen und Befunden
 
 Hier sind alle Angaben zum Rechnungsempfänger enthalten.
 
-|  |  | | | | | **Obj_RgEmpfaenger** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8002 | 1 |  |  |  |  | ObjektIdent | M | K030 |  |
-| 8310 |  | 1 |  |  |  | Auftragsnummer des Einsenders | M |  |  |
-| 7421 |  | 1 |  |  |  | Status Rechnungsempfänger | M | K029K030K093 |  |
-| 0600 |  | 1 |  |  |  | Name der Einrichtung des Auftraggebers | m |  |  |
-| 7328 |  |  | 1 |  |  | Zusätzliche Namenszeile | k |  |  |
-| 8108 |  | 1 |  |  |  | Adressat | M | K030 |  |
-|  |  |  | 1 |  |  | Obj_0008 (Obj_Adressat) | m |  |  |
-| 8610 |  | 1 |  |  |  | Privattarif | K |  |  |
-| 8608 |  | 1 |  |  |  | Kommentar/Aktenzeichen | K |  |  |
-| 8003 | 1 |  |  |  |  | Objektende | M |  |  |
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 8310 | 1 |  |
+| 7421 | 1 |  |
+| 0600 | 1 |  |
+| 7328 |  | 1 |
+| 8108 | 1 |  |
+|  |  | 1 |
+| 8610 | 1 |  |
+| 8608 | 1 |  |
+| 8003 | 1 |  |
 
-Vorkommen ## „Obj_0048“
+## „Obj_0048“
+
+**Obj_RgEmpfaenger**
+
+**Feld-/Objektbezeichnung**
+
+**5**
+
+ObjektIdent
+
+Auftragsnummer des Einsenders
+
+Status Rechnungsempfänger
+
+Name der Einrichtung des Auftraggebers
+
+Zusätzliche Namenszeile
+
+Adressat
+
+Obj_0008 (Obj_Adressat)
+
+Privattarif
+
+Kommentar/Aktenzeichen
+
+Objektende
+
+**Feldart**
+
+M
+
+M
+
+M
+
+m
+
+k
+
+M
+
+m
+
+K
+
+K
+
+M
+
+**Regel**
+
+K030
+
+K029  K030  K093
+
+K030
+
+**OID: noch nicht vergeben**
+
+**Erläuterung**
 
 
 ---
@@ -11434,21 +11855,14 @@ Vorkommen ## „Obj_0048“
 
 Dieses Objekt enthält schwangerschaftsspezifische Informationen.
 
-**FK**
-
-**Vorkommen**
-
-**1 2 3 4**
-
-8002 1
-
-8511  1
-
-8512  1
-
-| 3471 |  |  | 1 |  |  | errechneter Entbindungstermin | k |  |  |
-|---|---|---|---|---|---|---|---|---|---|
-| 8003 | 1 |  |  |  |  | Objektende | M |  |  |
+| **FK** |  | **Vorkommen** |  |
+|---|---|---|---|
+|  | **1 2** | **3** | **4** |
+| 8002 | 1 |  |  |
+| 8511 | 1 |  |  |
+| 8512 | 1 |  |  |
+| 3471 |  | 1 |  |
+| 8003 | 1 |  |  |
 
 **0050“**
 
@@ -11464,6 +11878,10 @@ Schwangerschaftsdauer
 
 letzte Periode
 
+errechneter Entbindungstermin
+
+Objektende
+
 **Feldart**
 
 M
@@ -11471,6 +11889,10 @@ M
 K
 
 m
+
+k
+
+M
 
 **Regel**
 
@@ -11487,24 +11909,66 @@ K118
 
 Dieses Objekt enthält die Information zum sendenden Softwaresystem, welches
 
-|  |  | | | | | **Obj_Sendendes System** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8002 | 1 |  |  |  |  | ObjektIdent | M |  |  |
-| 8315 |  | 1 |  |  |  | ID des Empfängers | K |  |  |
-| 8316 |  | 1 |  |  |  | ID des Senders | K |  |  |
-| 0105 |  | 1 |  |  |  | KBV-Prüfnummer | m | K050 |  |
-| 8212 |  | 1 |  |  |  | Softwareverantwortlicher | K |  |  |
-|  |  |  | 1 |  |  | Obj_0043 (Obj_Organisation) | m |  |  |
-| 0103 |  | 1 |  |  |  | Software/Name der Software | M |  |  |
-| 0132 |  |  | 1 |  |  | Version/Releasestand der Software | m |  |  |
-| 8003 | 1 |  |  |  |  | Objektende | M |  |  |
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 8315 | 1 |  |
+| 8316 | 1 |  |
+| 0105 | 1 |  |
+| 8212 | 1 |  |
+|  |  | 1 |
+| 0103 | 1 |  |
+| 0132 |  | 1 |
+| 8003 | 1 |  |
 
 **0051“**
 
-Vorkommen den LDT Datensatz erstellt hat.
+|  | **Obj_Sendendes** | **System** |  |
+|---|---|---|---|
+|  | **Feld-/Objektbezeichnung** | |  |
+| **5** |  |  |  |
+|  | ObjektIdent |  |  |
+| ID | des Empfängers |  |  |
+| ID | des Senders |  |  |
+|  | KBV-Prüfnummer |  |  |
+|  | Softwareverantwortlicher | |  |
+|  | Obj_0043 | (Obj_Organisation) | |
+|  | Software/Name | der | Software |
+|  | Version/Releasestand | | der Software |
+|  | Objektende |  |  |
 
+den LDT Datensatz erstellt hat.
+
+**Feldart**
+
+M
+
+K
+
+K
+
+m
+
+K
+
+m
+
+M
+
+m
+
+M
+
+**Regel**
+
+K050
+
+**OID: noch nicht vergeben**
+
+**Erläuterung**
+
+Obj_Sendendes System ID des Empfängers  ID des Senders  Obj_0043 (Obj_Organisation) Software/Name der Software Version/Releasestand der Software
 
 ---
 
@@ -11512,50 +11976,198 @@ Vorkommen den LDT Datensatz erstellt hat.
 
 Enthält ein Auftrag Materialien, die nicht h
 
-|  |  | | | | | **Obj_Tier/Sonstiges** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8002 | 1 |  |  |  |  | ObjektIdent | M |  |  |
-| 7319 |  | 1 |  |  |  | Identifikationsnummer der Quelle | m | K089 |  |
-| 7313 |  | 1 |  |  |  | Art/Rasse/Material | m | K089 |  |
-| 7314 |  | 1 |  |  |  | Name/Kennung | m | K089 |  |
-| 7315 |  | 1 |  |  |  | Alter | K |  |  |
-| 7326 |  |  | 1 |  |  | Alter in | m |  |  |
-| 7351 |  | 1 |  |  |  | Geburtsdatum | K |  |  |
-| 7428 |  | 1 |  |  |  | Geschlecht des Tieres | K |  |  |
-| 7432 |  | 1 |  |  |  | kastriert/sterilisiert | K |  |  |
-| 8107 |  | 1 |  |  |  | Anschrift | K |  |  |
-|  |  |  | 1 |  |  | Obj_0007 (Obj_Anschrift) | m |  |  |
-| 8147 |  | 1 |  |  |  | Person | K | K117 |  |
-|  |  |  | 1 |  |  | Obj_0047 (Obj_Person) | m |  |  |
-| 8110 |  | n |  |  |  | Anhang | K |  |  |
-|  |  |  | 1 |  |  | Obj_0010 (Obj_Anhang) | m |  |  |
-| 8003 | 1 |  |  |  |  | Objektende | M |  |  |
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 7319 | 1 |  |
+| 7313 | 1 |  |
+| 7314 | 1 |  |
+| 7315 | 1 |  |
+| 7326 |  | 1 |
+| 7351 | 1 |  |
+| 7428 | 1 |  |
+| 7432 | 1 |  |
+| 8107 | 1 |  |
+|  |  | 1 |
+| 8147 | 1 |  |
+|  |  | 1 |
+| 8110 | n |  |
+|  |  | 1 |
+| 8003 | 1 |  |
 
 **0053“**
 
-Vorkommen umanen Ursprungs sind, so werden die entsprechenden Informationen zur Materialquelle in diesem Objekt beschrieben.
+umanen Ursprungs sind, so werden die entsprechenden Informationen zur Materialquelle in diesem Objekt beschrieben.
+
+**Obj_Tier/Sonstiges**
+
+**Feld-/Objektbezeichnung**
+
+**5**
+
+ObjektIdent
+
+Identifikationsnummer der Quelle
+
+Art/Rasse/Material
+
+Name/Kennung
+
+Alter
+
+Alter in
+
+Geburtsdatum
+
+Geschlecht des Tieres
+
+kastriert/sterilisiert
+
+Anschrift
+
+Obj_0007 (Obj_Anschrift)
+
+Person
+
+Obj_0047 (Obj_Person)
+
+Anhang
+
+Obj_0010 (Obj_Anhang)
+
+Objektende
+
+**Feldart**
+
+M
+
+m
+
+m
+
+m
+
+K
+
+m
+
+K
+
+K
+
+K
+
+K
+
+m
+
+K
+
+m
+
+K
+
+m
+
+M
+
+**Regel**
+
+K089
+
+K089
+
+K089
+
+K117
+
+**OID: noch nicht vergeben**
+
+**Erläuterung**
 
 
 ---
 
 **11.38** **Obj_Timestamp „Obj_**
 
-|  |  | | | | | **Obj_Timestamp** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8002 | 1 |  |  |  |  | ObjektIdent | M |  |  |
-| 7278 |  | 1 |  |  |  | Datum des Timestamp | M |  |  |
-| 7279 |  | 1 |  |  |  | Uhrzeit des Timestamp | K |  |  |
-| 7273 |  |  | 1 |  |  | Zeitzone | m |  |  |
-| 7272 |  | 1 |  |  |  | Freitext zum Timestamp | K |  |  |
-| 8235 |  | 1 |  |  |  | Person_zum_Timestamp | K |  |  |
-|  |  |  | 1 |  |  | Obj_0047 (Obj_Person) | m |  |  |
-| 8003 | 1 |  |  |  |  | Objektende | M |  |  |
+**FK**
 
-Vorkommen **0054“**
+**1**
+
+8002 1
+
+7278
+
+7279
+
+7273
+
+7272
+
+8235
+
+8003 1
+
+**Vorkommen**
+
+**2 3**
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+**0054“**
+
+**Obj_Timestamp**
+
+**Feld-/Objektbezeichnung**
+
+**4 5**
+
+ObjektIdent
+
+Datum des Timestamp
+
+Uhrzeit des Timestamp
+
+Zeitzone
+
+Freitext zum Timestamp
+
+Person_zum_Timestamp
+
+Obj_0047 (Obj_Person)
+
+Objektende
+
+**OID: noch nicht vergeben**
+
+**Feldart Regel Erläuterung**
+
+M
+
+M
+
+K
+
+m
+
+K
+
+K
+
+m
+
+M
 
 
 ---
@@ -11564,91 +12176,148 @@ Vorkommen **0054“**
 
 Dieses Objekt transportiert die Informationen zur Blutgruppenzugehörigkeit.
 
-|  |  | | | | | **Obj_Blutgruppenzugehoerigkeit** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8002 | 1 |  |  |  |  | ObjektIdent | M | K009 |  |
-| 7304 |  | 1 |  |  |  | Ergebnis- ID | M |  |  |
-| 7364 |  | n |  |  |  | Probengefäß-Ident | M |  |  |
-| 8418 |  | 1 |  |  |  | Ergebnisstatus | M | K076K096 |  |
-| 3412 |  | 1 |  |  |  | Blutgruppe-Eurocode | m | K071K078 |  |
-| 3413 |  | 1 |  |  |  | Antikörpersuchtest (gegen Erythrozytenantigene) | K | K071K078 |  |
-| 3414 |  | 1 |  |  |  | Spezifität weitere Erythrozytenantigene | K | K071K078 |  |
-| 3415 |  | 1 |  |  |  | Spezifität Erythrozytenantikörper | K | K071K078 |  |
-| 3416 |  | 1 |  |  |  | Spezifität HLA-, HPA-, HNA-Antigene | K | K071K078 |  |
-| 3417 |  | 1 |  |  |  | Spezifität HLA-, HPA-, HNA-Antikörper | K | K071K078 |  |
-| 7263 |  | 1 |  |  |  | Test-ID | K |  |  |
-| 3418 |  | 1 |  |  |  | Direkter Coombstest (DCT) | K | K071K078 |  |
-| 3419 |  | n |  |  |  | Ergebnis Kreuzprobe | K | K071K078 |  |
-| 7275 |  |  | n |  |  | ID Terminologie | K |  |  |
-| 3420 |  | 1 |  |  |  | Anforderung NHP | K |  |  |
-| 8220 |  | 1 |  |  |  | Timestamp_Eingangserfassung_Material | K |  |  |
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8222 |  | 1 |  |  |  | Timestamp_Beginn_Analytik | K |  |  |
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8223 |  | 1 |  |  |  | Timestamp_Ergebniserstellung | K |  |  |
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 7304 | 1 |  |
+| 7364 | n |  |
+| 8418 | 1 |  |
+| 3412 | 1 |  |
+| 3413 | 1 |  |
+| 3414 | 1 |  |
+| 3415 | 1 |  |
+| 3416 | 1 |  |
+| 3417 | 1 |  |
+| 7263 | 1 |  |
+| 3418 | 1 |  |
+| 3419 | n |  |
+| 7275 |  | n |
+| 3420 | 1 |  |
+| 8220 | 1 |  |
+|  |  | 1 |
+| 8222 | 1 |  |
+|  |  | 1 |
+| 8223 | 1 |  |
 
-Vorkommen ## „Obj_0055“
+**„Obj_0055“**
 
+|  | **Obj_Blutgruppenzugehoerigkeit** | |
+|---|---|---|
+|  | **Feld-/Objektbezeichnung** | |
+| **5** |  |  |
+| ObjektIdent |  |  |
+| Ergebnis- | ID |  |
+|  | Probengefäß-Ident |  |
+|  | Ergebnisstatus |  |
+|  | Blutgruppe-Eurocode |  |
+|  | Antikörpersuchtest | (gegen Erythrozytenantigene) |
+| Spezifität | weitere | Erythrozytenantigene |
+| Spezifität |  | Erythrozytenantikörper |
+| Spezifität | HLA-, | HPA-, HNA-Antigene |
+| Spezifität | HLA-, | HPA-, HNA-Antikörper |
+| Test-ID |  |  |
+| Direkter | Coombstest | (DCT) |
+| Ergebnis | Kreuzprobe |  |
+| ID | Terminologie |  |
+| Anforderung | NHP |  |
+|  |  | Timestamp_Eingangserfassung_Material |
+| Obj_0054 |  | (Obj_Timestamp) |
+|  | Timestamp_Beginn_Analytik | |
+| Obj_0054 |  | (Obj_Timestamp) |
+|  | Timestamp_Ergebniserstellung | |
+
+**Feldart**
+
+M
+
+M
+
+M
+
+M
+
+m
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+m
+
+K
+
+m
+
+K
+
+**Regel**
+
+K009
+
+K076  K096  K071  K078  K071  K078  K071  K078  K071  K078  K071  K078  K071  K078
+
+K071  K078  K071  K078
+
+**OID: noch nicht**
+
+**Erläuterung**
+
+**vergeben**
+
+Ergebnis- ID Antikörpersuchtest (gegen Erythrozytenantigene) Spezifität weitere Erythrozytenantigene Spezifität Erythrozytenantikörper Spezifität HLA-, HPA-, HNA-Antigene Spezifität HLA-, HPA-, HNA-Antikörper Direkter Coombstest (DCT) Ergebnis Kreuzprobe ID Terminologie Anforderung NHP Obj_0054 (Obj_Timestamp) Obj_0054 (Obj_Timestamp)
 
 ---
 
-1
+|  |  | 1 |
+|---|---|---|
+| 8224 | 1 |  |
+|  |  | 1 |
+| 8225 | 1 |  |
+|  |  | 1 |
+| 8126 | 1 |  |
+|  |  | 1 |
+| 8167 | n |  |
+|  |  | 1 |
+| 7429 | 1 |  |
+| 3473 | 1 |  |
+| 8158 | 1 |  |
+|  |  | 1 |
+| 8003 | 1 |  |
 
-8224  1
-
-1
-
-8225  1
-
-1
-
-8126  1
-
-1
-
-8167  n
-
-1
-
-7429  1
-
-3473  1
-
-8158  1
-
-1
-
-8003 1
-
-Obj_0054 (Obj_Timestamp)
-
-Timestamp_QM_Erfassung
-
-Obj_0054 (Obj_Timestamp)
-
-Timestamp_Messung
-
-Obj_0054 (Obj_Timestamp)
-
-Fehlermeldung_Aufmerksamkeit
-
-Obj_0026 (Obj_Fehlermeldung/Aufmerksamkeit)
-
-Zusaetzliche_Informationen
-
-Obj_0068 (Obj_Fließtext)
-
-DRG_Hinweis
-
-Untersuchungsergebnis durch Auftragslaboratorium erstellt
-
-Untersuchungsabrechnung
-
-Obj_0058 (Obj_Untersuchungsabrechnung)
-
-Objektende
+| Obj_0054 | (Obj_Timestamp) |  |  |
+|---|---|---|---|
+|  | Timestamp_QM_Erfassung |  |  |
+| Obj_0054 | (Obj_Timestamp) |  |  |
+|  | Timestamp_Messung |  |  |
+| Obj_0054 | (Obj_Timestamp) |  |  |
+|  | Fehlermeldung_Aufmerksamkeit | |  |
+| Obj_0026 |  | (Obj_Fehlermeldung/Aufmerksamkeit) |  |
+|  | Zusaetzliche_Informationen |  |  |
+| Obj_0068 | (Obj_Fließtext) |  |  |
+|  | DRG_Hinweis |  |  |
+|  | Untersuchungsergebnis | durch | Auftragslaboratorium erstellt |
+|  | Untersuchungsabrechnung |  |  |
+| Obj_0058 |  | (Obj_Untersuchungsabrechnung) |  |
+|  | Objektende |  |  |
 
 m
 
@@ -11684,6 +12353,7 @@ m
 
 M
 
+Obj_0054 (Obj_Timestamp) Obj_0054 (Obj_Timestamp) Obj_0054 (Obj_Timestamp) Obj_0026 (Obj_Fehlermeldung/Aufmerksamkeit) Obj_0068 (Obj_Fließtext) Untersuchungsergebnis durch Auftragslaboratorium erstellt Obj_0058 (Obj_Untersuchungsabrechnung)
 
 ---
 
@@ -11691,38 +12361,155 @@ M
 
 In diesem Objekt können Information zu einem Tumor sowohl für die Beauftragung und für den
 
-|  |  | | | | | **Obj_Tumor** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8002 | 1 |  |  |  |  | ObjektIdent | M |  |  |
-| 7364 |  | 1 |  |  |  | Probengefaeß-Ident | M |  |  |
-| 7372 |  | 1 |  |  |  | Tumorklassifikation | K |  |  |
-| 7373 |  | 1 |  |  |  | Grading | K |  |  |
-| 7374 |  | 1 |  |  |  | Stadium | K |  |  |
-| 7375 |  | 1 |  |  |  | Jahr der Tumordiagnose | K |  |  |
-| 7376 |  | 1 |  |  |  | Lokalisation Tumor | M |  | Freitext |
-| 7377 |  | n |  |  |  | Maße | K |  | Freitext |
-| 7378 |  | 1 |  |  |  | Farbe | K |  | Freitext |
-| 7379 |  | 1 |  |  |  | Infiltrationstiefe | K |  | Freitext |
-| 3424 |  | 1 |  |  |  | Therapiebeginn | K |  |  |
-| 3425 |  | 1 |  |  |  | Therapieende | K |  |  |
-| 8220 |  | 1 |  |  |  | Timestamp_Eingangserfassung_Material | K |  |  |
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8222 |  | 1 |  |  |  | Timestamp_Beginn_Analytik | K |  |  |
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8223 |  | 1 |  |  |  | Timestamp_Ergebniserstellung | K |  |  |
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8224 |  | 1 |  |  |  | Timestamp_QM_Erfassung | K |  |  |
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8225 |  | 1 |  |  |  | Timestamp_Messung | K |  |  |
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8126 |  | 1 |  |  |  | Fehlermeldung_Aufmerksamkeit | K |  |  |
-|  |  |  | 1 |  |  | Obj_0026 (Obj_Fehlermeldung/Aufmerksamkeit) | m |  |  |
+| **FK** | **Vorkommen** |  |
+|---|---|---|
+|  | **1 2 3** | **4** |
+| 8002 | 1 |  |
+| 7364 | 1 |  |
+| 7372 | 1 |  |
+| 7373 | 1 |  |
+| 7374 | 1 |  |
+| 7375 | 1 |  |
+| 7376 | 1 |  |
+| 7377 | n |  |
+| 7378 | 1 |  |
+| 7379 | 1 |  |
+| 3424 | 1 |  |
+| 3425 | 1 |  |
+| 8220 | 1 |  |
+|  | 1 |  |
+| 8222 | 1 |  |
+|  | 1 |  |
+| 8223 | 1 |  |
+|  | 1 |  |
+| 8224 | 1 |  |
+|  | 1 |  |
+| 8225 | 1 |  |
+|  | 1 |  |
+| 8126 | 1 |  |
+|  | 1 |  |
 
 **0056“**
 
-Vorkommen Befund transportiert werden.
+**Obj_Tumor**
+
+**Feld-/Objektbezeichnung**
+
+**5**
+
+ObjektIdent
+
+Probengefaeß-Ident
+
+Tumorklassifikation
+
+Grading
+
+Stadium
+
+Jahr der Tumordiagnose
+
+Lokalisation Tumor
+
+Maße
+
+Farbe
+
+Infiltrationstiefe
+
+Therapiebeginn
+
+Therapieende
+
+Timestamp_Eingangserfassung_Material
+
+Obj_0054 (Obj_Timestamp)
+
+Timestamp_Beginn_Analytik
+
+Obj_0054 (Obj_Timestamp)
+
+Timestamp_Ergebniserstellung
+
+Obj_0054 (Obj_Timestamp)
+
+Timestamp_QM_Erfassung
+
+Obj_0054 (Obj_Timestamp)
+
+Timestamp_Messung
+
+Obj_0054 (Obj_Timestamp)
+
+Fehlermeldung_Aufmerksamkeit
+
+Obj_0026 (Obj_Fehlermeldung/Aufmerksamkeit)
+
+Befund transportiert werden.
+
+**Feldart**
+
+M
+
+M
+
+K
+
+K
+
+K
+
+K
+
+M
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+m
+
+K
+
+m
+
+K
+
+m
+
+K
+
+m
+
+K
+
+m
+
+K
+
+m
+
+**Regel**
+
+**OID: noch nicht vergeben**
+
+**Erläuterung**
+
+Freitext
+
+Freitext
+
+Freitext
+
+Freitext
 
 
 ---
@@ -11774,33 +12561,20 @@ M
 
 Jeder Untersuchung wird direkt eine  sind.
 
-**FK**
-
-**Vorkommen**
-
-**1 2**
-
-8002 1
-
-7303  1
-
-4121  1
-
-5001
-
-8406
-
-5005
-
-5009
-
-8614
-
-7259  1
-
-| 7251 |  |  | 1 |  |  | Bezeichnung des verwendeten Kataloges | K |  |  |
-|---|---|---|---|---|---|---|---|---|---|
-| 8003 | 1 |  |  |  |  | Objektende | M |  |  |
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 7303 | 1 |  |
+| 4121 | 1 |  |
+| 5001 |  | n |
+| 8406 |  | 1 |
+| 5005 |  | 1 |
+| 5009 |  | n |
+| 8614 |  | 1 |
+| 7259 | 1 |  |
+| 7251 |  | 1 |
+| 8003 | 1 |  |
 
 **0058“**
 
@@ -11810,7 +12584,7 @@ Abrechnung zugeordnet. Hier werden alle Werte transportiert, die für die ordnun
 
 **Bezeichnung der Feldinhalte**
 
-**3 4 5**
+**5**
 
 ObjektIdent
 
@@ -11818,13 +12592,21 @@ Abrechnungsinfo zur Untersuchung
 
 Gebührenordnung
 
-n   Gebührennummer (GNR) 1  Kosten in €-Cent
+Gebührennummer (GNR)
 
-1  Multiplikator
+Kosten in €-Cent
 
-n  freier Begründungstext 1  bereits abgerechnet
+Multiplikator
+
+freier Begründungstext
+
+bereits abgerechnet
 
 ID Katalog abrechenbare Leistungen
+
+Bezeichnung des verwendeten Kataloges
+
+Objektende
 
 **Feldart**
 
@@ -11845,6 +12627,10 @@ k
 M
 
 K
+
+K
+
+M
 
 **Regel**
 
@@ -11889,9 +12675,9 @@ In diesem Objekt werden alle Informationen zur Untersuchungsanforderung zusammen
 
 7303  1
 
-| 8501 |  | 1 |  |  |  | Dringlichkeit | K |  |  |
-|---|---|---|---|---|---|---|---|---|---|
-| 8423 |  | 1 |  |  |  | Pathologisch bekannt | K |  |  |
+8501  1
+
+8423  1
 
 **0059“**
 
@@ -11917,6 +12703,10 @@ Testbezeichnung
 
 Abrechnungsinfo zur Untersuchung
 
+Dringlichkeit
+
+Pathologisch bekannt
+
 **Feldart**
 
 M
@@ -11938,6 +12728,10 @@ m
 m
 
 M
+
+K
+
+K
 
 **Regel**
 
@@ -11993,7 +12787,9 @@ Probenmaterial-Index
 
 Anforderungen
 
-Krebsfrueherkennung_Zervix-Karzinom  Obj_0034 (Obj_Krebsfrueherkennung Zervix-Karzinom   (Muster39))
+Krebsfrueherkennung_Zervix-Karzinom
+
+Obj_0034 (Obj_Krebsfrueherkennung Zervix-Karzinom   (Muster39))
 
 Tumor
 
@@ -12086,118 +12882,228 @@ M
 
 In diesem Objekt werden die Ergebnisse aus dem Bereich Klinische Chemie übermittelt.
 
-|  |  | | | | | **Obj_Untersuchungsergebnis Klinische Chemie** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8002 | 1 |  |  |  |  | ObjektIdent | M | K009K054K106 |  |
-| 7304 |  | 1 |  |  |  | Ergebnis-ID | M |  |  |
-| 7364 |  | n |  |  |  | Probengefäß-Ident | M |  |  |
-| 7260 |  | 1 |  |  |  | ID Katalog anforderbare Leistungen | m | K053K106 |  |
-| 7352 |  |  | 1 |  |  | URL Kataloge | m | K053 |  |
-| 7251 |  |  | 1 |  |  | Bezeichnung des verwendeten Kataloges | k |  |  |
-| 7365 |  |  | 1 |  |  | Analysen-ID | m |  |  |
-| 7366 |  |  |  | 1 |  | Langbezeichnung der angeforderten Leistung | k |  |  |
-| 8410 |  | 1 |  |  |  | Test-Ident | m | K106 |  |
-| 8411 |  |  | 1 |  |  | Testbezeichnung | m |  |  |
-| 7263 |  |  | 1 |  |  | Test-ID | K |  |  |
-| 7264 |  |  | 1 |  |  | Test-Gerät-UID | K |  |  |
-| 8418 |  | 1 |  |  |  | Ergebnisstatus | M | K076K082K096 |  |
-| 7302 |  |  | n |  |  | Testmethode | K |  |  |
-| 7306 |  | n |  |  |  | Darstellung Ergebniswerte | K |  |  |
-| 8420 |  |  | n |  |  | Ergebnis-Wert | m |  |  |
-| 8419 |  |  |  | 1 |  | Einheitensystem des Messwertes / Wertes | m | K002 |  |
-| 8421 |  |  |  |  | 1 | Maßeinheit des Messwertes / Wertes | m | K002 |  |
-| 8142 |  |  |  | n |  | Normalwert | K | K054 |  |
-|  |  |  |  |  | 1 | Obj_0042 (Obj_Normalwert) | m |  |  |
-| 8225 |  |  |  | 1 |  | Timestamp_Messung | m | K076 |  |
-
-Vorkommen **0060“**
-
-
----
-
-**FK**
-
-8237   8236   8167   8220   8222   8223 8224
-
-8126
-
-8141
-
-8158   7429
-
-3473  8110
-
-8003
-
-**Vorkommen**
-
-**1 2**
-
-n 1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-n 1
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 7304 | 1 |  |
+| 7364 | n |  |
+| 7260 | 1 |  |
+| 7352 |  | 1 |
+| 7251 |  | 1 |
+| 7365 |  | 1 |
+| 7366 |  | 1 |
+| 8410 | 1 |  |
+| 8411 |  | 1 |
+| 7263 |  | 1 |
+| 7264 |  | 1 |
+| 8418 | 1 |  |
+| 7302 |  | n |
+| 7306 | n |  |
+| 8420 |  | n |
+| 8419 |  | 1 |
+| 8421 |  |  |
+| 8142 |  | n |
+| 8225 |  | 1 |
 
 **Obj_Untersuchungsergebnis Klinische Chemie**
 
 **Feld-/Objektbezeichnung**
 
-**3 4 5**
+**5**
+
+**0060“**
+
+ObjektIdent
+
+Ergebnis-ID
+
+Probengefäß-Ident
+
+ID Katalog anforderbare Leistungen
+
+URL Kataloge
+
+Bezeichnung des verwendeten Kataloges
+
+Analysen-ID
+
+Langbezeichnung der angeforderten Leistung
+
+Test-Ident
+
+Testbezeichnung
+
+Test-ID
+
+Test-Gerät-UID
+
+Ergebnisstatus
+
+Testmethode
+
+Darstellung Ergebniswerte
+
+Ergebnis-Wert
+
+Einheitensystem des Messwertes / Wertes
+
+1 Maßeinheit des Messwertes / Wertes
+
+Normalwert 1 Obj_0042 (Obj_Normalwert)
+
+Timestamp_Messung
+
+**Feldart**
+
+M
+
+M
+
+M
+
+m
+
+m
+
+k
+
+m
+
+k
+
+m
+
+m
+
+K
+
+K
+
+M
+
+K
+
+K
+
+m
+
+m
+
+m
+
+K
+
+m
+
+m
+
+**Regel**
+
+K009  K054  K106
+
+K053  K106  K053
+
+K106
+
+K076  K082  K096
+
+K002
+
+K002
+
+K054
+
+K076
+
+**OID: noch nicht vergeben**
+
+**Erläuterung**
+
+
+---
+
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8237 |  | 1 |
+| 8236 |  | 1 |
+|  |  | 1 |
+| 8167 | n |  |
+|  |  | 1 |
+| 8220 | 1 |  |
+|  |  | 1 |
+| 8222 | 1 |  |
+|  |  | 1 |
+| 8223 | 1 |  |
+|  |  | 1 |
+| 8224 | 1 |  |
+|  |  | 1 |
+| 8126 | 1 |  |
+|  |  | 1 |
+| 8141 | 1 |  |
+|  |  | 1 |
+| 8158 | 1 |  |
+|  |  | 1 |
+| 7429 | 1 |  |
+| 3473 | 1 |  |
+| 8110 | n |  |
+|  |  | 1 |
+| 8003 | 1 |  |
+
+**Obj_Untersuchungsergebnis Klinische Chemie**
+
+**Feld-/Objektbezeichnung**
+
+**5**
 
 1 Obj_0054 (Obj_Timestamp)
 
-1  Ergebnistext
+Ergebnistext 1 Obj_0068 (Obj_Fließtext)
 
-1 Obj_0068 (Obj_Fließtext)
+Testbezogene_Hinweise
 
-1   Testbezogene_Hinweise
+Obj_0068 (Obj_Fließtext)
 
-1  Obj_0068 (Obj_Fließtext)
+Zusaetzliche_Informationen
 
-Zusaetzliche_Informationen 1   Obj_0068 (Obj_Fließtext)
+Obj_0068 (Obj_Fließtext)
 
-Timestamp_Eingangserfassung_Material 1   Obj_0054 (Obj_Timestamp)
+Timestamp_Eingangserfassung_Material
 
-Timestamp_Beginn_Analytik 1   Obj_0054 (Obj_Timestamp)
+Obj_0054 (Obj_Timestamp)
 
-Timestamp_Ergebniserstellung 1   Obj_0054 (Obj_Timestamp)
+Timestamp_Beginn_Analytik
 
-Timestamp_QM_Erfassung 1   Obj_0054 (Obj_Timestamp)
+Obj_0054 (Obj_Timestamp)
+
+Timestamp_Ergebniserstellung
+
+Obj_0054 (Obj_Timestamp)
+
+Timestamp_QM_Erfassung
+
+Obj_0054 (Obj_Timestamp)
 
 Fehlermeldung_Aufmerksamkeit
 
-1   Obj_0026 (Obj_Fehlermeldung/Aufmerksamkeit)
+Obj_0026 (Obj_Fehlermeldung/Aufmerksamkeit)
 
 Namenskennung
 
-1   Obj_0041 (Obj_Namenskennung)
+Obj_0041 (Obj_Namenskennung)
 
 Untersuchungsabrechnung
 
-1   Obj_0058 (Obj_Untersuchungsabrechnung)
+Obj_0058 (Obj_Untersuchungsabrechnung)
 
 DRG_Hinweis
 
 Untersuchungsergebnis durch Auftragslaboratorium erstellt
 
-Anhang 1   Obj_0010 (Obj_Anhang)
+Anhang
+
+Obj_0010 (Obj_Anhang)
 
 Objektende
 
@@ -12282,8 +13188,9 @@ Damit das Befundergebnis automatisiert in das Obj_Untersuchungsergebnis Krebsfr�
 |---|---|---|---|---|
 | Testbezeichnung | 8411 |  | ('HPV' \| 'hpv') und erlaubter Inhalt gemäß Regel F024 |  |
 |  |  | oder Gruppentypisierung |  | HPV:31/33/52/58 |
-
-Testmethode
+|  |  | Produktname des verwendeten |  |  |
+| Testmethode | 7302 | Analysegerätes bzw. PCR- | beliebiger alphanumerischer Text | Abbott Alinity |
+|  |  | Testkits |  |  |
 
 Darstellung  Ergebniswerte
 
@@ -12297,8 +13204,6 @@ Normalwert
 
 **Feldkennung**
 
-7302
-
 7306
 
 8420
@@ -12311,8 +13216,6 @@ HPV“ oder „A HPV“ als präventive Untersuchung erteilt.
 
 **Inhalt**
 
-Produktname des verwendeten  Analysegerätes bzw. PCR- Testkits
-
 Trinäres Testergebnis
 
 Wert des Testergenisses
@@ -12322,8 +13225,6 @@ Dimensionslose Größe
 Keine Angabe des  Normalwertes
 
 **Kodierung***
-
-beliebiger alphanumerischer Text
 
 '08'
 
@@ -12339,7 +13240,7 @@ ist vorgesehen, dass die HPV -
 
 **Beispiele**
 
-Abbott Alinity 1
+1
 
 ('HPV' | 'hpv') und erlaubter Inhalt gemäß Regel F024
 
@@ -12349,95 +13250,395 @@ Abbott Alinity 1
 
 In diesem Objekt werden die Ergebnisse aus dem Bereich Mikrobiologie transportiert. Um diese Daten strukturiert zu übertragen hierarchische Vorgehensweise definiert: Ausgangspunkt ist immer das Material und die dazugehörige Anforderung. Aus diesen Anforderungen erfolgt über verschiedene  Nachweisverfahren eine Stufendiagnostik zur Keimbestimmung, optional die Bestimmung der Breakpunkte bzw. MHK´s  Antibiotika. Die Erregermenge wird als semiquantitatives Ergebnis abhängig des Untersuchungsmaterials dargestellt.
 
-|  |  | | | | | **Obj_Untersuchungsergebnis Mikrobiologie** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8002 | 1 |  |  |  |  | ObjektIdent | M | K009K010K054 |  |
-| 7304 |  | 1 |  |  |  | Ergebnis-ID | M |  |  |
-| 7364 |  | n |  |  |  | Probengefäß-Ident | M |  |  |
-| 7260 |  | n |  |  |  | ID Katalog anforderbare Leistungen | m | K010K053 |  |
-| 7352 |  |  | 1 |  |  | URL Kataloge | m | K053 |  |
-| 7251 |  |  | 1 |  |  | Bezeichnung des verwendeten Kataloges | k |  |  |
-| 7365 |  |  | 1 |  |  | Analysen-ID | m |  |  |
-| 7366 |  |  |  | 1 |  | Langbezeichnung der angeforderten Leistung | k |  |  |
-| 8410 |  | n |  |  |  | Test-Ident | m | K010 |  |
-| 8411 |  |  | 1 |  |  | Testbezeichnung | m |  |  |
-| 8434 |  | n |  |  |  | Anforderung | m | K010 |  |
-| 7281 |  | n |  |  |  | Nachweisverfahren | M |  |  |
-| 7302 |  |  | 1 |  |  | Testmethode | m |  |  |
-| 8418 |  | 1 |  |  |  | Ergebnisstatus | M | K076K082K096 |  |
-| 8244 |  | n |  |  |  | BAK | K |  |  |
-|  |  |  | 1 |  |  | Obj_0072 (Obj_BAK) | m |  |  |
-| 7354 |  | n |  |  |  | Keim/Pilz-Identifizierung | m |  |  |
-| 7355 |  |  | 1 |  |  | Keim/Pilz-Name | m |  |  |
-| 7427 |  |  | 1 |  |  | Art | m |  |  |
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 7304 | 1 |  |
+| 7364 | n |  |
+| 7260 | n |  |
+| 7352 |  | 1 |
+| 7251 |  | 1 |
+| 7365 |  | 1 |
+| 7366 |  | 1 |
+| 8410 | n |  |
+| 8411 |  | 1 |
+| 8434 | n |  |
+| 7281 | n |  |
+| 7302 |  | 1 |
+| 8418 | 1 |  |
+| 8244 | n |  |
+|  |  | 1 |
+| 7354 | n |  |
+| 7355 |  | 1 |
+| 7427 |  | 1 |
 
 **0061“**
 
+**Obj_Untersuchungsergebnis Mikrobiologie**
+
+**Feld-/Objektbezeichnung**
+
+**5**
+
+ObjektIdent
+
+Ergebnis-ID
+
+Probengefäß-Ident
+
+ID Katalog anforderbare Leistungen
+
+URL Kataloge
+
+Bezeichnung des verwendeten Kataloges
+
+Analysen-ID
+
+Langbezeichnung der angeforderten Leistung
+
+Test-Ident
+
+Testbezeichnung
+
+Anforderung
+
+Nachweisverfahren
+
+Testmethode
+
+Ergebnisstatus
+
+BAK
+
+Obj_0072 (Obj_BAK)
+
+Keim/Pilz-Identifizierung
+
+Keim/Pilz-Name
+
+Art
+
+**Feldart**
+
+M
+
+M
+
+M
+
+m
+
+m
+
+k
+
+m
+
+k
+
+m
+
+m
+
+m
+
+M
+
+m
+
+M
+
+K
+
+m
+
+m
+
+m
+
+m
+
+**Regel**
+
+K009  K010  K054
+
+K010  K053  K053
+
+K010
+
+K010
+
+K076  K082  K096
+
 wird eine in der Mikrobiologie übliche
 
-Vorkommen (Minimale Hemm Konzentration) für einzelne
+(Minimale Hemm Konzentration) für einzelne
+
+**OID: noch nicht vergeben**
+
+**Erläuterung**
 
 
 ---
 
-|  |  | | | | | **Obj_Untersuchungsergebnis Mikrobiologie** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 7301 |  |  | 1 |  |  | Ergebnis | m |  |  |
-| 7357 |  |  | 1 |  |  | Wachstum | k |  | Quantitative Ergebnisse in FK 8237 darstellen |
-| 7293 |  |  |  | n |  | Einheit der Mengenangabe | k | K086 |  |
-| 7356 |  |  | 1 |  |  | OID-Keim | k |  |  |
-| 7285 |  |  | 1 |  |  | Keim-Nummer | k |  |  |
-| 7361 |  |  | 1 |  |  | Keim-ID im Katalog | k |  |  |
-| 7251 |  |  |  | 1 |  | Bezeichnung des verwendeten Kataloges | m |  |  |
-| 8236 |  |  | 1 |  |  | Testbezogene_Hinweise | k | K100 |  |
-|  |  |  |  | 1 |  | Obj_0068 (Obj_Fließtext) | m |  |  |
-| 8225 |  |  | 1 |  |  | Timestamp_Messung | K |  |  |
-|  |  |  |  | 1 |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8237 |  |  | 1 |  |  | Ergebnistext | K | K100 |  |
-|  |  |  |  | 1 |  | Obj_0068 (Obj_Fließtext) | m |  |  |
-| 7286 |  | n |  |  |  | Resistenz-Methode | M | K085K086 |  |
-| 8111 |  |  | 1 |  |  | Antibiogramm | k | K085 |  |
-|  |  |  |  | 1 |  | Obj_0011 (Obj_Antibiogramm) | m |  |  |
-| 8237 |  | 1 |  |  |  | Ergebnistext | K | K100 |  |
-|  |  |  | 1 |  |  | Obj_0068 (Obj_Fließtext) | m |  |  |
-| 8220 |  | 1 |  |  |  | Timestamp_Eingangserfassung_Material | K |  |  |
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8222 |  | 1 |  |  |  | Timestamp_Beginn_Analytik | K |  |  |
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8223 |  | 1 |  |  |  | Timestamp_Ergebniserstellung | K |  |  |
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8224 |  | 1 |  |  |  | Timestamp_QM_Erfassung | K |  |  |
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 7301 |  | 1 |
+| 7357 |  | 1 |
+| 7293 |  | n |
+| 7356 |  | 1 |
+| 7285 |  | 1 |
+| 7361 |  | 1 |
+| 7251 |  | 1 |
+| 8236 |  | 1 |
+|  |  | 1 |
+| 8225 |  | 1 |
+|  |  | 1 |
+| 8237 |  | 1 |
+|  |  | 1 |
+| 7286 | n |  |
+| 8111 |  | 1 |
+|  |  | 1 |
+| 8237 | 1 |  |
+|  |  | 1 |
+| 8220 | 1 |  |
+|  |  | 1 |
+| 8222 | 1 |  |
+|  |  | 1 |
+| 8223 | 1 |  |
+|  |  | 1 |
+| 8224 | 1 |  |
+|  |  | 1 |
 
-Vorkommen
+**Obj_Untersuchungsergebnis Mikrobiologie**
+
+**Feld-/Objektbezeichnung**
+
+**5**
+
+Ergebnis
+
+Wachstum
+
+Einheit der Mengenangabe
+
+OID-Keim
+
+Keim-Nummer
+
+Keim-ID im Katalog
+
+Bezeichnung des verwendeten Kataloges
+
+Testbezogene_Hinweise
+
+Obj_0068 (Obj_Fließtext)
+
+Timestamp_Messung
+
+Obj_0054 (Obj_Timestamp)
+
+Ergebnistext
+
+Obj_0068 (Obj_Fließtext)
+
+Resistenz-Methode
+
+Antibiogramm
+
+Obj_0011 (Obj_Antibiogramm)
+
+Ergebnistext
+
+Obj_0068 (Obj_Fließtext)
+
+Timestamp_Eingangserfassung_Material
+
+Obj_0054 (Obj_Timestamp)
+
+Timestamp_Beginn_Analytik
+
+Obj_0054 (Obj_Timestamp)
+
+Timestamp_Ergebniserstellung
+
+Obj_0054 (Obj_Timestamp)
+
+Timestamp_QM_Erfassung
+
+Obj_0054 (Obj_Timestamp)
+
+**Feldart**
+
+m
+
+k
+
+k
+
+k
+
+k
+
+k
+
+m
+
+k
+
+m
+
+K
+
+m
+
+K
+
+m
+
+M
+
+k
+
+m
+
+K
+
+m
+
+K
+
+m
+
+K
+
+m
+
+K
+
+m
+
+K
+
+m
+
+**Regel**
+
+K086
+
+K100
+
+K100
+
+K085  K086  K085
+
+K100
+
+**OID: noch nicht vergeben**
+
+**Erläuterung**
+
+Quantitative Ergebnisse in FK 8237 darstellen
+
 
 ---
 
-|  |  | | | | | **Obj_Untersuchungsergebnis Mikrobiologie** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8225 |  | 1 |  |  |  | Timestamp_Messung | m | K076 |  |
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8126 |  | 1 |  |  |  | Fehlermeldung_Aufmerksamkeit | K |  |  |
-|  |  |  | 1 |  |  | Obj_0026 (Obj_Fehlermeldung/Aufmerksamkeit) | m |  |  |
-| 8167 |  | n |  |  |  | Zusaetzliche_Informationen | K |  |  |
-|  |  |  | 1 |  |  | Obj_0068 (Obj_Fließtext) | m |  |  |
-| 8141 |  | 1 |  |  |  | Namenskennung | M |  |  |
-|  |  |  | 1 |  |  | Obj_0041 (Obj_Namenskennung) | m |  |  |
-| 8158 |  | 1 |  |  |  | Untersuchungsabrechnung | k |  |  |
-|  |  |  | 1 |  |  | Obj_0058 (Obj_Untersuchungsabrechnung) | m |  |  |
-| 7429 |  | 1 |  |  |  | DRG_Hinweis | K |  |  |
-| 3473 |  | 1 |  |  |  | Untersuchungsergebnis durch Auftragslaboratorium erstellt | K |  |  |
-| 8110 |  | n |  |  |  | Anhang | K |  |  |
-|  |  |  | 1 |  |  | Obj_0010 (Obj_Anhang) | m |  |  |
-| 8003 | 1 |  |  |  |  | Objektende | M |  |  |
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8225 | 1 |  |
+|  |  | 1 |
+| 8126 | 1 |  |
+|  |  | 1 |
+| 8167 | n |  |
+|  |  | 1 |
+| 8141 | 1 |  |
+|  |  | 1 |
+| 8158 | 1 |  |
+|  |  | 1 |
+| 7429 | 1 |  |
+| 3473 | 1 |  |
+| 8110 | n |  |
+|  |  | 1 |
+| 8003 | 1 |  |
 
-Vorkommen
+**Obj_Untersuchungsergebnis Mikrobiologie**
+
+**Feld-/Objektbezeichnung**
+
+**5**
+
+Timestamp_Messung
+
+Obj_0054 (Obj_Timestamp)
+
+Fehlermeldung_Aufmerksamkeit
+
+Obj_0026 (Obj_Fehlermeldung/Aufmerksamkeit)
+
+Zusaetzliche_Informationen
+
+Obj_0068 (Obj_Fließtext)
+
+Namenskennung
+
+Obj_0041 (Obj_Namenskennung)
+
+Untersuchungsabrechnung
+
+Obj_0058 (Obj_Untersuchungsabrechnung)
+
+DRG_Hinweis
+
+Untersuchungsergebnis durch Auftragslaboratorium erstellt
+
+Anhang
+
+Obj_0010 (Obj_Anhang)
+
+Objektende
+
+|  | **OID: noch** | **nicht vergeben** |
+|---|---|---|
+| **Regel** | **Erläuterung** |  |
+| K076 |  |  |
+
+**Feldart**
+
+m
+
+m
+
+K
+
+m
+
+K
+
+m
+
+M
+
+m
+
+k
+
+m
+
+K
+
+K
+
+K
+
+m
+
+M
+
+OID: noch nicht vergeben
+
 
 ---
 
@@ -12445,67 +13646,333 @@ Vorkommen
 
 In diesem Objekt werden die Ergebnisse der Krebsfrüherkennung Zervix-Karzinom übertragen. Die Inhalte richten sich nach dem Muster 39a/b.
 
-|  |  | | | | | **Obj_Untersuchungsergebnis KrebsfrüherkennungZervix-Karzinom** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8002 | 1 |  |  |  |  | ObjektIdent | M | K009 |  |
-| 7304 |  | 1 |  |  |  | Ergebnis-ID | M |  |  |
-| 7364 |  | n |  |  |  | Probengefäß-Ident | M |  |  |
-| 8410 |  | 1 |  |  |  | Test-Ident | M |  |  |
-| 8411 |  |  | 1 |  |  | Testbezeichnung | m |  |  |
-| 8422 |  |  | n |  |  | Grenzwertindikator des Laborwertes | m |  |  |
-| 8126 |  |  |  | 1 |  | Fehlermeldung_Aufmerksamkeit | m | K099 |  |
-|  |  |  |  |  | 1 | Obj_0026 (Obj_Fehlermeldung/Aufmerksamkeit) | m |  |  |
-| 8237 |  |  | 1 |  |  | Ergebnistext | m | K100 |  |
-|  |  |  |  | 1 |  | Obj_0068 (Obj_Fließtext) | m |  |  |
-| 8418 |  | 1 |  |  |  | Ergebnisstatus | M | K076K096K082 |  |
-| 7405 |  | 1 |  |  |  | Endozervikale Zellen | m | K134 |  |
-| 7406 |  | 1 |  |  |  | Proliferationsgrad | m | K134 |  |
-| 7407 |  | 1 |  |  |  | Doederleinflora | m | K134 |  |
-| 7408 |  | 1 |  |  |  | Mischflora | m | K134 |  |
-| 7409 |  | 1 |  |  |  | Kokkenflora | m | K134 |  |
-| 7410 |  | 1 |  |  |  | Trichomonaden | m | K134 |  |
-| 7411 |  | 1 |  |  |  | Candida | m | K134 |  |
-| 7412 |  | 1 |  |  |  | Gardnerella | m | K134 |  |
-| 7414 |  | 1 |  |  |  | Gruppe | K | K134 |  |
-| 7413 |  |  | 1 |  |  | Codierung der Gruppe | m |  |  |
-| 3316 |  | 1 |  |  |  | HPV-HR-Testergebnis | K | K122 |  |
+**FK**
 
-Vorkommen ## Krebsfrüherkennung Zervix-Karzinom „Obj_0062“
+**Vorkommen**
+
+**1 2**
+
+8002 1
+
+7304  1
+
+7364  n
+
+8410  1
+
+8411
+
+8422
+
+8126
+
+8237
+
+8418  1
+
+7405  1
+
+7406  1
+
+7407  1
+
+7408  1
+
+7409  1
+
+7410  1
+
+7411  1
+
+7412  1
+
+7414  1
+
+7413
+
+3316  1
+
+## Krebsfrüherkennung Zervix-Karzinom „Obj_0062“
+
+**Obj_Untersuchungsergebnis Krebsfrüherkennung**  **Zervix-Karzinom**  **Feld-/Objektbezeichnung**
+
+**3 4 5**
+
+ObjektIdent
+
+Ergebnis-ID
+
+Probengefäß-Ident
+
+Test-Ident 1   Testbezeichnung
+
+n   Grenzwertindikator des Laborwertes
+
+1  Fehlermeldung_Aufmerksamkeit
+
+1 Obj_0026 (Obj_Fehlermeldung/Aufmerksamkeit) 1
+
+Ergebnistext 1  Obj_0068 (Obj_Fließtext)
+
+Ergebnisstatus
+
+Endozervikale Zellen
+
+Proliferationsgrad
+
+Doederleinflora
+
+Mischflora
+
+Kokkenflora
+
+Trichomonaden
+
+Candida
+
+Gardnerella
+
+Gruppe 1
+
+Codierung der Gruppe
+
+HPV-HR-Testergebnis
+
+**Feldart**
+
+M
+
+M
+
+M
+
+M
+
+m
+
+m
+
+m
+
+m
+
+m
+
+m
+
+M
+
+m  m
+
+m
+
+m
+
+m
+
+m
+
+m
+
+m
+
+K
+
+m
+
+K
+
+**Regel**
+
+K009
+
+K099   K100   K076  K096  K082  K134  K134  K134  K134  K134  K134  K134  K134  K134
+
+K122
+
+**OID: noch nicht vergeben**
+
+**Erläuterung**
 
 
 ---
 
-|  |  | | | | | **Obj_Untersuchungsergebnis KrebsfrüherkennungZervix-Karzinom** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 3317 |  |  | 1 |  |  | HPV-Typ 16/18 | k | K122 |  |
-| 7415 |  | 1 |  |  |  | Zytologische Kontrolle | K | K123K124 |  |
-| 7416 |  |  | n |  |  | Grund der Nachkontrolle | k |  |  |
-| 7417 |  | 1 |  |  |  | Abklärungskolposkopie | K | K123K124 |  |
-| 3318 |  | 1 |  |  |  | HPV-Test | K | K123K124 |  |
-| 3319 |  | 1 |  |  |  | Ko-Test | K | K123K124 |  |
-| 3320 |  | 1 |  |  |  | Zeitraum sofort | K | K123K124 |  |
-| 3321 |  | 1 |  |  |  | Zeitraum in Monaten | K | K123K124 |  |
-| 8237 |  | 1 |  |  |  | Ergebnistext | K | K100 |  |
-|  |  |  | 1 |  |  | Obj_0068 (Obj_Fließtext) | m |  |  |
-| 8134 |  | 1 |  |  |  | Krebsfrueherkennung_Zervix-Karzinom | K |  |  |
-|  |  |  | 1 |  |  | Obj_0034 (Obj_Krebsfrüherkennung Zervix-Karzinom(Muster 39)) | m |  |  |
-| 8126 |  | 1 |  |  |  | Fehlermeldung_Aufmerksamkeit | K |  |  |
-|  |  |  | 1 |  |  | Obj_0026 (Obj_Fehlermeldung/Aufmerksamkeit) | m |  |  |
-| 8220 |  | 1 |  |  |  | Timestamp_Eingangserfassung_Material | K |  |  |
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8222 |  | 1 |  |  |  | Timestamp_Beginn_Analytik | K |  |  |
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8223 |  | 1 |  |  |  | Timestamp_Ergebniserstellung | K |  |  |
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8224 |  | 1 |  |  |  | Timestamp_QM_Erfassung | K |  |  |
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8225 |  | 1 |  |  |  | Timestamp_Messung | m | K076K126 |  |
+**FK**
 
-Vorkommen
+3317
+
+7415
+
+7416
+
+7417
+
+3318
+
+3319
+
+3320
+
+3321
+
+8237
+
+8134
+
+8126   8220   8222
+
+8223   8224
+
+8225
+
+**Vorkommen**
+
+**1 2**
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+**Obj_Untersuchungsergebnis Krebsfrüherkennung**  **Zervix-Karzinom**  **Feld-/Objektbezeichnung**
+
+**3 4 5**
+
+1
+
+HPV-Typ 16/18
+
+Zytologische Kontrolle
+
+n
+
+Grund der Nachkontrolle
+
+Abklärungskolposkopie
+
+HPV-Test
+
+Ko-Test
+
+Zeitraum sofort
+
+Zeitraum in Monaten
+
+Ergebnistext 1
+
+Obj_0068 (Obj_Fließtext)
+
+Krebsfrueherkennung_Zervix-Karzinom
+
+Obj_0034 (Obj_Krebsfrüherkennung Zervix-Karzinom 1
+
+(Muster 39))
+
+Fehlermeldung_Aufmerksamkeit
+
+1   Obj_0026 (Obj_Fehlermeldung/Aufmerksamkeit)
+
+Timestamp_Eingangserfassung_Material 1
+
+Obj_0054 (Obj_Timestamp)
+
+Timestamp_Beginn_Analytik 1
+
+Obj_0054 (Obj_Timestamp)
+
+Timestamp_Ergebniserstellung 1
+
+Obj_0054 (Obj_Timestamp)
+
+Timestamp_QM_Erfassung 1
+
+Obj_0054 (Obj_Timestamp)
+
+Timestamp_Messung
+
+**Feldart**
+
+k
+
+K
+
+k
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+m
+
+K
+
+m
+
+K
+
+m
+
+K
+
+m
+
+K
+
+m
+
+K
+
+m
+
+K
+
+m
+
+m
+
+**Regel**
+
+K122  K123  K124
+
+K123  K124  K123  K124  K123  K124  K123  K124  K123  K124  K100
+
+K076  K126
+
+**OID: noch nicht vergeben**
+
+**Erläuterung**
+
 
 ---
 
@@ -12538,9 +14005,7 @@ Damit der Wert des Grenzwertindikators in Feldkennung 8422 einen eindeutigen Bez
 | AA (sehr auffällig) | Falls FK 3320 vorhanden ist | Falls eine Empfehlung „sofort“ vorhanden ist |
 |---|---|---|
 | A (auffällig) | Falls FK 7415 oder FK 7417 oder FK 3318 oder FK 3319 vorhanden sind, oder FK | Falls eine Empfehlung existiert oder ein positiver |
-
 |  | 3316 = 1, oder FK 7414 = II-p oder II-g oder II-e oder IIID1 oder IIID2 oder III-p oder III- | Befund vorliegt und Regel AA nicht zutrifft. |
-|---|---|---|
 |  | g oder III-e oder III-x oder IVa-p oder IVa-g oder IVb-p oder IVb-g oder V-p oder V-g | Ein positiver Befund liegt bei einem positiven HPV- |
 |  | oder V-e oder V-x und FK 3320 nicht vorhanden ist | HR-Testergebnis oder ab einer Gruppe II-p vor. |
 | N (normal) | Falls FK 7415 und FK 7417 und FK 3318 und FK 3319 nicht vorhanden sind und FK | Falls Regel A nicht zutrifft |
@@ -12645,87 +14110,341 @@ M
 
 In diesem Objekt können weitere Ergebnisse aus dem Bereich Zytologie transportiert werden.
 
-|  |  | | | | | **Obj_Untersuchungsergebnis Zytologie** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8002 | 1 |  |  |  |  | ObjektIdent | M | K009 |  |
-| 7304 |  | 1 |  |  |  | Ergebnis-ID | M |  |  |
-| 7320 |  |  | 1 |  |  | Recall empfohlen | k |  |  |
-| 8154 |  |  |  | 1 |  | Timestamp | k |  |  |
-|  |  |  |  |  | 1 | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 7364 |  | n |  |  |  | Probengefäß-Ident | M |  |  |
-| 7260 |  | n |  |  |  | ID Katalog anforderbare Leistungen | m | K053K119 |  |
-| 7352 |  |  | 1 |  |  | URL Kataloge | m | K053 |  |
-| 7251 |  |  | 1 |  |  | Bezeichnung des verwendeten Kataloges | k |  |  |
-| 7365 |  |  | 1 |  |  | Analysen-ID | m |  |  |
-| 7366 |  |  |  | 1 |  | Langbezeichnung der angeforderten Leistung | k |  |  |
-| 8410 |  | n |  |  |  | Test-Ident | m | K119 |  |
-| 8411 |  |  | 1 |  |  | Testbezeichnung | m |  |  |
-| 8418 |  | 1 |  |  |  | Ergebnisstatus | M | K076K082K096 |  |
-| 8422 |  |  | n |  |  | Grenzwertindikator des Laborwertes | m |  |  |
-| 8126 |  |  |  | 1 |  | Fehlermeldung_Aufmerksamkeit | m | K099 |  |
-|  |  |  |  |  | 1 | Obj_0026 (Obj_Fehlermeldung/Aufmerksamkeit) | m |  |  |
-| 8237 |  | 1 |  |  |  | Ergebnistext | m | K100 |  |
-|  |  |  | 1 |  |  | Obj_0068 (Obj_Fließtext) | m |  |  |
-| 7368 |  | 1 |  |  |  | Zellmaterial nicht verwertbar | K | K080K081K082 |  |
-| 7400 |  | 1 |  |  |  | HPV Befund | K |  |  |
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 7304 | 1 |  |
+| 7320 |  | 1 |
+| 8154 |  | 1 |
+| 7364 | n |  |
+| 7260 | n |  |
+| 7352 |  | 1 |
+| 7251 |  | 1 |
+| 7365 |  | 1 |
+| 7366 |  | 1 |
+| 8410 | n |  |
+| 8411 |  | 1 |
+| 8418 | 1 |  |
+| 8422 |  | n |
+| 8126 |  | 1 |
+| 8237 | 1 |  |
+|  |  | 1 |
+| 7368 | 1 |  |
+| 7400 | 1 |  |
 
 **0063“**
 
-Vorkommen
+|  | **Obj_Untersuchungsergebnis** | | **Zytologie** |
+|---|---|---|---|
+|  | **Feld-/Objektbezeichnung** | |  |
+| **5** |  |  |  |
+|  | ObjektIdent |  |  |
+|  | Ergebnis-ID |  |  |
+| Recall | empfohlen |  |  |
+|  | Timestamp |  |  |
+| 1 Obj_0054 |  | (Obj_Timestamp) |  |
+|  | Probengefäß-Ident |  |  |
+| ID | Katalog | anforderbare | Leistungen |
+| URL | Kataloge |  |  |
+|  | Bezeichnung des | verwendeten | Kataloges |
+|  | Analysen-ID |  |  |
+|  | Langbezeichnung | der | angeforderten Leistung |
+| Test-Ident |  |  |  |
+|  | Testbezeichnung |  |  |
+|  | Ergebnisstatus |  |  |
+|  | Grenzwertindikator | des | Laborwertes |
+|  |  | Fehlermeldung_Aufmerksamkeit |  |
+| 1 Obj_0026 |  |  | (Obj_Fehlermeldung/Aufmerksamkeit) |
+|  | Ergebnistext |  |  |
+| Obj_0068 |  | (Obj_Fließtext) |  |
+|  | Zellmaterial nicht | verwertbar |  |
+| HPV | Befund |  |  |
+
+**Feldart**
+
+M
+
+M
+
+k
+
+k
+
+m
+
+M
+
+m
+
+m
+
+k
+
+m
+
+k
+
+m
+
+m
+
+M
+
+m
+
+m
+
+m
+
+m
+
+m
+
+K
+
+K
+
+**Regel**
+
+K009
+
+K053  K119  K053
+
+K119
+
+K076  K082  K096
+
+K099
+
+K100
+
+K080  K081  K082
+
+**OID: noch nicht vergeben**
+
+**Erläuterung**
+
+Obj_Untersuchungsergebnis Zytologie Recall empfohlen Obj_0054 (Obj_Timestamp) ID Katalog anforderbare Leistungen URL Kataloge  Bezeichnung des verwendeten Kataloges Langbezeichnung der angeforderten Leistung Grenzwertindikator des Laborwertes Obj_0026 (Obj_Fehlermeldung/Aufmerksamkeit) Obj_0068 (Obj_Fließtext) Zellmaterial nicht verwertbar HPV Befund
 
 ---
 
-|  |  | | | | | **Obj_Untersuchungsergebnis Zytologie** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 7402 |  |  | n |  |  | High Risk Typ | k | F024 |  |
-| 7401 |  |  |  | 1 |  | High-Risk | m |  |  |
-| 7404 |  |  | n |  |  | Low Risk Typ | k | F024 |  |
-| 7403 |  |  |  | 1 |  | Low-Risk | m |  |  |
-| 7414 |  | 1 |  |  |  | Gruppe | K |  |  |
-| 7413 |  |  | 1 |  |  | Codierung der Gruppe | m |  |  |
-| 7418 |  | 1 |  |  |  | p16/Ki67 | K |  |  |
-| 7419 |  | 1 |  |  |  | L1 | K |  |  |
-| 7422 |  | 1 |  |  |  | Chlamydien | K |  |  |
-| 7425 |  | 1 |  |  |  | Extragynäkologische Zytologie | K |  |  |
-| 7426 |  | 1 |  |  |  | Neisseria Gonorrhoeae | K |  |  |
-| 8126 |  | 1 |  |  |  | Fehlermeldung_Aufmerksamkeit | K |  |  |
-|  |  |  | 1 |  |  | Obj_0026 (Obj_Fehlermeldung/Aufmerksamkeit) | m |  |  |
-| 8220 |  | 1 |  |  |  | Timestamp_Eingangserfassung_Material | K |  |  |
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8222 |  | 1 |  |  |  | Timestamp_Beginn_Analytik | K |  |  |
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8223 |  | 1 |  |  |  | Timestamp_Ergebniserstellung | K |  |  |
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8224 |  | 1 |  |  |  | Timestamp_QM_Erfassung | K |  |  |
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8225 |  | 1 |  |  |  | Timestamp_Messung | m | K076K081 |  |
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8167 |  | n |  |  |  | Zusaetzliche_Informationen | K |  |  |
-|  |  |  | 1 |  |  | Obj_0068 (Obj_Fließtext) | m |  |  |
-| 8110 |  | n |  |  |  | Anhang | K |  |  |
+| **FK** | **Vorkommen** |  |
+|---|---|---|
+|  | **1 2 3** | **4** |
+| 7402 | n |  |
+| 7401 |  | 1 |
+| 7404 | n |  |
+| 7403 |  | 1 |
+| 7414 | 1 |  |
+| 7413 | 1 |  |
+| 7418 | 1 |  |
+| 7419 | 1 |  |
+| 7422 | 1 |  |
+| 7425 | 1 |  |
+| 7426 | 1 |  |
+| 8126 | 1 |  |
+|  | 1 |  |
+| 8220 | 1 |  |
+|  | 1 |  |
+| 8222 | 1 |  |
+|  | 1 |  |
+| 8223 | 1 |  |
+|  | 1 |  |
+| 8224 | 1 |  |
+|  | 1 |  |
+| 8225 | 1 |  |
+|  | 1 |  |
+| 8167 | n |  |
+|  | 1 |  |
+| 8110 | n |  |
 
-Vorkommen
+**Obj_Untersuchungsergebnis Zytologie**
+
+**Feld-/Objektbezeichnung**
+
+**5**
+
+High Risk Typ
+
+High-Risk
+
+Low Risk Typ
+
+Low-Risk
+
+Gruppe
+
+Codierung der Gruppe
+
+p16/Ki67
+
+L1
+
+Chlamydien
+
+Extragynäkologische Zytologie
+
+Neisseria Gonorrhoeae
+
+Fehlermeldung_Aufmerksamkeit
+
+Obj_0026 (Obj_Fehlermeldung/Aufmerksamkeit)
+
+Timestamp_Eingangserfassung_Material
+
+Obj_0054 (Obj_Timestamp)
+
+Timestamp_Beginn_Analytik
+
+Obj_0054 (Obj_Timestamp)
+
+Timestamp_Ergebniserstellung
+
+Obj_0054 (Obj_Timestamp)
+
+Timestamp_QM_Erfassung
+
+Obj_0054 (Obj_Timestamp)
+
+Timestamp_Messung
+
+Obj_0054 (Obj_Timestamp)
+
+Zusaetzliche_Informationen
+
+Obj_0068 (Obj_Fließtext)
+
+Anhang
+
+**Feldart**
+
+k
+
+m
+
+k
+
+m
+
+K
+
+m
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+m
+
+K
+
+m
+
+K
+
+m
+
+K
+
+m
+
+K
+
+m
+
+m
+
+m
+
+K
+
+m
+
+K
+
+**Regel**
+
+F024
+
+F024
+
+K076  K081
+
+**OID: noch nicht vergeben**
+
+**Erläuterung**
+
 
 ---
 
-|  |  | | | | | **Obj_Untersuchungsergebnis Zytologie** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-|  |  |  | 1 |  |  | Obj_0010 (Obj_Anhang) | m |  |  |
-| 8141 |  | 1 |  |  |  | Namenskennung | M |  |  |
-|  |  |  | 1 |  |  | Obj_0041 (Obj_Namenskennung) | m |  |  |
-| 8158 |  | 1 |  |  |  | Untersuchungsabrechnung | k | K080 |  |
-|  |  |  | 1 |  |  | Obj_0058 (Obj_Untersuchungsabrechnung) | m |  |  |
-| 7429 |  | 1 |  |  |  | DRG_Hinweis | K |  |  |
-| 3473 |  | 1 |  |  |  | Untersuchungsergebnis durch Auftragslaboratorium erstellt | K |  |  |
-| 8003 | 1 |  |  |  |  | Objektende | M |  |  |
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+|  |  | 1 |
+| 8141 | 1 |  |
+|  |  | 1 |
+| 8158 | 1 |  |
+|  |  | 1 |
+| 7429 | 1 |  |
+| 3473 | 1 |  |
+| 8003 | 1 |  |
 
-Vorkommen
+**Obj_Untersuchungsergebnis Zytologie**
+
+**Feld-/Objektbezeichnung**
+
+**5**
+
+Obj_0010 (Obj_Anhang)
+
+Namenskennung
+
+Obj_0041 (Obj_Namenskennung)
+
+Untersuchungsabrechnung
+
+Obj_0058 (Obj_Untersuchungsabrechnung)
+
+DRG_Hinweis
+
+Untersuchungsergebnis durch Auftragslaboratorium erstellt
+
+Objektende
+
+**Feldart**
+
+m
+
+M
+
+m
+
+k
+
+m
+
+K
+
+K
+
+M
+
+**Regel**
+
+K080
+
+**OID: noch nicht vergeben**
+
+**Erläuterung**
 
 
 ---
@@ -12734,39 +14453,29 @@ Vorkommen
 
 Mit diesem Objekt können Angaben zum Grund der Veranlassung der laboratoriumsmedizinischen Untersuchung übertragen werden.
 
-**Vorkommen**
-
-**FK**
-
-**1 2 3**
-
-8002 1
-
-7303  n
-
-8417   1
-
-8427
-
-8217
-
-8200   n
-
-4209   n
-
-| 4208 |  |  | n |  |  |  | Vorbefund/Medikation | K |
-|---|---|---|---|---|---|---|---|---|
-| 8170 |  |  |  | n |  |  | Medikament | k |
-|  |  |  |  |  | 1 |  | Obj_0070 (Obj_Medikament) | m |
-| 8110 |  | n |  |  |  |  | Anhang | K |
-|  |  |  | 1 |  |  |  | Obj_0010 (Obj_Anhang) | m |
-| 8003 | 1 |  |  |  |  |  | Objektende | M |
+|  | **VorkommenFK** | |  |
+|---|---|---|---|
+|  | **1 2** | **3 4** | **5** |
+| 8002 | 1 |  |  |
+| 7303 | n |  |  |
+| 8417 |  | 1 |  |
+| 8427 |  | 1 |  |
+| 8217 |  |  | 1 |
+| 8200 |  | n |  |
+|  |  | 1 |  |
+| 4209 |  | n |  |
+| 4208 |  | n |  |
+| 8170 |  | n |  |
+|  |  |  | 1 |
+| 8110 | n |  |  |
+|  |  | 1 |  |
+| 8003 | 1 |  |  |
 
 **Obj_Veranlassungsgrund**
 
 **Feld-/Objektbezeichnung**
 
-**4 5 6**
+**6**
 
 ObjektIdent
 
@@ -12774,13 +14483,27 @@ Abrechnungsinfo zur Untersuchung
 
 Anlass der Untersuchung
 
-1   Spezifizierung des Veranlassungsgrundes
+Spezifizierung des Veranlassungsgrundes
 
-1  Praezisierung_Veranlassungsgrund 1 Obj_0068 (Obj_Fließtext)
+Praezisierung_Veranlassungsgrund 1 Obj_0068 (Obj_Fließtext)
 
-Akutdiagnose 1   Obj_0100 (Obj_Diagnose)
+Akutdiagnose
+
+Obj_0100 (Obj_Diagnose)
 
 Zusätzliche Angaben zu Untersuchungen
+
+Vorbefund/Medikation
+
+Medikament
+
+Obj_0070 (Obj_Medikament)
+
+Anhang
+
+Obj_0010 (Obj_Anhang)
+
+Objektende
 
 **Feldart**
 
@@ -12801,6 +14524,18 @@ K
 m
 
 k
+
+K
+
+k
+
+m
+
+K
+
+m
+
+M
 
 **Regel**
 
@@ -12823,25 +14558,16 @@ Dieses Feld muss in diesem Objekt verwendet  werden um die Diagnosekodierung bez
 
 Hier werden Informationen zu Wirkstoffen zusammengefasst.
 
-**FK**
-
-**Vorkommen**
-
-**1 2 3 4**
-
-8002 1
-
-62.12  1
-
-6224   1
-
-6214    1
-
-8523   1
-
-| 8421 |  |  |  | 1 |  | Maßeinheit des Messwertes / Wertes | m |  |  |
-|---|---|---|---|---|---|---|---|---|---|
-| 8003 | 1 |  |  |  |  | Objektende | M |  |  |
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 6212 | 1 |  |
+| 6224 |  | 1 |
+| 6214 |  | 1 |
+| 8523 |  | 1 |
+| 8421 |  | 1 |
+| 8003 | 1 |  |
 
 **Obj_Wirkstoff**
 
@@ -12859,6 +14585,10 @@ Wirkstoff-Klassifikation (Code-System)
 
 Wirkstoffmenge, Menge / Bezugsmenge Wirkstärke
 
+Maßeinheit des Messwertes / Wertes
+
+Objektende
+
 **OID: noch nicht vergeben**
 
 **Feldart Regel Erläuterung**
@@ -12873,6 +14603,10 @@ m
 
 k
 
+m
+
+M
+
 
 ---
 
@@ -12880,34 +14614,97 @@ k
 
 In diesem Objekt werden die Ergebnisse bakteriologischer Untersuchungen strukturiert abgebildet.
 
-|  |  | | | | | **Obj_BAK-Ergebnis** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8002 | 1 |  |  |  |  | ObjektIdent | M |  |  |
-| 8245 |  | 1 |  |  |  | BAK-Ergebnis | M |  |  |
-|  |  |  | 1 |  |  | Obj_0068 (Obj_Fließtext) | m |  |  |
-| 7306 |  | n |  |  |  | Darstellung Ergebniswerte | K |  |  |
-| 8420 |  |  | n |  |  | Ergebnis-Wert | m |  |  |
-| 8419 |  |  |  | 1 |  | Einheitensystem des Messwertes / Wertes | k | K002 |  |
-| 8421 |  |  |  |  | 1 | Maßeinheit des Messwertes / Wertes | m | K002 |  |
-| 8142 |  |  |  | n |  | Normalwert | K | K054 |  |
-|  |  |  |  |  | 1 | Obj_0042 (Obj_Normalwert) | m |  |  |
-| 8237 |  |  |  | 1 |  | Ergebnistext | K | K100 |  |
-|  |  |  |  |  | 1 | Obj_0068 (Obj_Fließtext) | m |  |  |
-| 8246 |  | 1 |  |  |  | BAK-Ergebniswertbezogene Hinweise | K | K100 |  |
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 8245 | 1 |  |
+|  |  | 1 |
+| 7306 | n |  |
+| 8420 |  | n |
+| 8419 |  | 1 |
+| 8421 |  |  |
+| 8142 |  | n |
+| 8237 |  | 1 |
+| 8246 | 1 |  |
+|  |  | 1 |
+| 8003 | 1 |  |
 
-8246  1
+**Obj_BAK-Ergebnis**
 
-|  |  |  | 1 |  |  | Obj_0068 (Obj_Fließtext) | m |
-|---|---|---|---|---|---|---|---|
-| 8003 | 1 |  |  |  |  | Objektende | M |
+**Feld-/Objektbezeichnung**
+
+**5**
+
+ObjektIdent
+
+BAK-Ergebnis
+
+Obj_0068 (Obj_Fließtext)
+
+Darstellung Ergebniswerte
+
+Ergebnis-Wert
+
+Einheitensystem des Messwertes / Wertes
+
+1 Maßeinheit des Messwertes / Wertes
+
+Normalwert 1 Obj_0042 (Obj_Normalwert)
+
+Ergebnistext 1 Obj_0068 (Obj_Fließtext)
 
 BAK-Ergebniswertbezogene Hinweise
 
+Obj_0068 (Obj_Fließtext)
+
+Objektende
+
+**Feldart**
+
+M
+
+M
+
+m
+
 K
 
-Vorkommen K100
+m
+
+k
+
+m
+
+K
+
+m
+
+K
+
+m
+
+K
+
+m
+
+M
+
+**Regel**
+
+K002
+
+K002
+
+K054
+
+K100
+
+K100
+
+**OID: noch nicht vergeben**
+
+**Erläuterung**
 
 
 ---
@@ -12920,77 +14717,285 @@ In diesem Objekt können die Untersuchungsergebnisse transportiert werden, die a
 
 Das jeweilige Fachgebiet wird über die FK 7431 definiert.
 
-|  |  | | | | | **Obj_Sonstige Untersuchungsergebnisse** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8002 | 1 |  |  |  |  | ObjektIdent | M | K009 |  |
-| 7431 |  | 1 |  |  |  | Fachgebiet | M |  |  |
-| 7304 |  | 1 |  |  |  | Ergebnis-ID | M |  |  |
-| 7320 |  |  | 1 |  |  | Recall empfohlen | k |  |  |
-| 8154 |  |  |  | 1 |  | Timestamp | k |  |  |
-|  |  |  |  |  | 1 | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 7364 |  | n |  |  |  | Probengefäß-Ident | k |  |  |
-| 7260 |  | n |  |  |  | ID Katalog anforderbare Leistungen | m | K053K120 |  |
-| 7352 |  |  | 1 |  |  | URL Kataloge | m | K053 |  |
-| 7251 |  |  | 1 |  |  | Bezeichnung des verwendeten Kataloges | k |  |  |
-| 7365 |  |  | 1 |  |  | Analysen-ID | m |  |  |
-| 7366 |  |  |  | 1 |  | Langbezeichnung der angeforderten Leistung | k |  |  |
-| 8410 |  | n |  |  |  | Test-Ident | m | K120 |  |
-| 8411 |  |  | 1 |  |  | Testbezeichnung | m |  |  |
-| 8418 |  | 1 |  |  |  | Ergebnisstatus | M | K076K082K096 |  |
-| 8422 |  |  | n |  |  | Grenzwertindikator des Laborwertes | k |  | Es wird empfohlen, im Rahmen einesPathologie-Befundes, bei dem eine Meldung anein Krebsregister erfolgt, den Wert “AA” (sehrauffällig) zu verwenden. |
-| 8126 |  |  |  | 1 |  | Fehlermeldung_Aufmerksamkeit | m | K099 |  |
-|  |  |  |  |  | 1 | Obj_0026 (Obj_Fehlermeldung/Aufmerksamkeit) | m |  |  |
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8002 | 1 |  |
+| 7431 | 1 |  |
+| 7304 | 1 |  |
+| 7320 |  | 1 |
+| 8154 |  | 1 |
+| 7364 | n |  |
+| 7260 | n |  |
+| 7352 |  | 1 |
+| 7251 |  | 1 |
+| 7365 |  | 1 |
+| 7366 |  | 1 |
+| 8410 | n |  |
+| 8411 |  | 1 |
+| 8418 | 1 |  |
+| 8422 |  | n |
+| 8126 |  | 1 |
 
-Vorkommen (Obj_Untersuchungsergebnis_Mikrobiologie), 0062 (Obj_Untersuchungsergebnis_ Krebsfrueherkennung_Zervix-Karzinom), 0063  (Obj_Blutgruppenzugehoerigkeit) und 0056 (Obj_Tumor) beschriebenen Fachgebiete liegen.
+(Obj_Untersuchungsergebnis_Mikrobiologie), 0062 (Obj_Untersuchungsergebnis_ Krebsfrueherkennung_Zervix-Karzinom), 0063  (Obj_Blutgruppenzugehoerigkeit) und 0056 (Obj_Tumor) beschriebenen Fachgebiete liegen.
+
+**Obj_Sonstige Untersuchungsergebnisse**
+
+**Feld-/Objektbezeichnung**
+
+**5**
+
+ObjektIdent
+
+Fachgebiet
+
+Ergebnis-ID
+
+Recall empfohlen
+
+Timestamp 1 Obj_0054 (Obj_Timestamp)
+
+Probengefäß-Ident
+
+ID Katalog anforderbare Leistungen
+
+URL Kataloge
+
+Bezeichnung des verwendeten Kataloges
+
+Analysen-ID
+
+Langbezeichnung der angeforderten Leistung
+
+Test-Ident
+
+Testbezeichnung
+
+Ergebnisstatus
+
+Grenzwertindikator des Laborwertes
+
+Fehlermeldung_Aufmerksamkeit
+
+1 Obj_0026 (Obj_Fehlermeldung/Aufmerksamkeit)
+
+**Feldart**
+
+M
+
+M
+
+M
+
+k
+
+k
+
+m
+
+k
+
+m
+
+m
+
+k
+
+m
+
+k
+
+m
+
+m
+
+M
+
+k
+
+m
+
+m
+
+**Regel**
+
+K009
+
+K053  K120  K053
+
+K120
+
+K076  K082  K096
+
+K099
+
+**OID: noch nicht vergeben**
+
+**Erläuterung**
+
+Es wird empfohlen, im Rahmen eines  Pathologie-Befundes, bei dem eine Meldung an  ein Krebsregister erfolgt, den Wert “AA” (sehr  auffällig) zu verwenden.
 
 
 ---
 
-|  |  | | | | | **Obj_Sonstige Untersuchungsergebnisse** |  |  | **OID: noch nicht vergeben** |
-|---|---|---|---|---|---|---|---|---|---|
-| **FK** |  | | | | | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** |
-|  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
-| 8237 |  | 1 |  |  |  | Ergebnistext | m | K100 |  |
-|  |  |  | 1 |  |  | Obj_0068 (Obj_Fließtext) | m |  |  |
-| 7368 |  | 1 |  |  |  | Zellmaterial nicht verwertbar | K | K095K121K082 |  |
-| 8126 |  | 1 |  |  |  | Fehlermeldung_Aufmerksamkeit | K |  |  |
-|  |  |  | 1 |  |  | Obj_0026 (Obj_Fehlermeldung/Aufmerksamkeit) | m |  |  |
-| 8220 |  | 1 |  |  |  | Timestamp_Eingangserfassung_Material | K |  |  |
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8222 |  | 1 |  |  |  | Timestamp_Beginn_Analytik | K |  |  |
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8223 |  | 1 |  |  |  | Timestamp_Ergebniserstellung | K |  |  |
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8224 |  | 1 |  |  |  | Timestamp_QM_Erfassung | K |  |  |
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8225 |  | 1 |  |  |  | Timestamp_Messung | m | K076K095 |  |
-|  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
-| 8167 |  | n |  |  |  | Zusaetzliche_Informationen | K |  |  |
-|  |  |  | 1 |  |  | Obj_0068 (Obj_Fließtext) | m |  |  |
-| 8110 |  | n |  |  |  | Anhang | K |  |  |
-|  |  |  | 1 |  |  | Obj_0010 (Obj_Anhang) | m |  |  |
-| 8141 |  | 1 |  |  |  | Namenskennung | M |  |  |
-|  |  |  | 1 |  |  | Obj_0041 (Obj_Namenskennung) | m |  |  |
-| 8158 |  | 1 |  |  |  | Untersuchungsabrechnung | k | K121 |  |
-|  |  |  | 1 |  |  | Obj_0058 (Obj_Untersuchungsabrechnung) | m |  |  |
-| 7429 |  | 1 |  |  |  | DRG_Hinweis | K |  |  |
-| 3473 |  | 1 |  |  |  | Untersuchungsergebnis durch Auftragslaboratorium erstellt | K |  |  |
+| **FK** | **Vorkommen** |  |
+|---|---|---|
+|  | **1 2 3** | **4** |
+| 8237 | 1 |  |
+|  | 1 |  |
+| 7368 | 1 |  |
+| 8126 | 1 |  |
+|  | 1 |  |
+| 8220 | 1 |  |
+|  | 1 |  |
+| 8222 | 1 |  |
+|  | 1 |  |
+| 8223 | 1 |  |
+|  | 1 |  |
+| 8224 | 1 |  |
+|  | 1 |  |
+| 8225 | 1 |  |
+|  | 1 |  |
+| 8167 | n |  |
+|  | 1 |  |
+| 8110 | n |  |
+|  | 1 |  |
+| 8141 | 1 |  |
+|  | 1 |  |
+| 8158 | 1 |  |
+|  | 1 |  |
+| 7429 | 1 |  |
+| 3473 | 1 |  |
 
-Vorkommen
+**Obj_Sonstige Untersuchungsergebnisse**
+
+**Feld-/Objektbezeichnung**
+
+**5**
+
+Ergebnistext
+
+Obj_0068 (Obj_Fließtext)
+
+Zellmaterial nicht verwertbar
+
+Fehlermeldung_Aufmerksamkeit
+
+Obj_0026 (Obj_Fehlermeldung/Aufmerksamkeit)
+
+Timestamp_Eingangserfassung_Material
+
+Obj_0054 (Obj_Timestamp)
+
+Timestamp_Beginn_Analytik
+
+Obj_0054 (Obj_Timestamp)
+
+Timestamp_Ergebniserstellung
+
+Obj_0054 (Obj_Timestamp)
+
+Timestamp_QM_Erfassung
+
+Obj_0054 (Obj_Timestamp)
+
+Timestamp_Messung
+
+Obj_0054 (Obj_Timestamp)
+
+Zusaetzliche_Informationen
+
+Obj_0068 (Obj_Fließtext)
+
+Anhang
+
+Obj_0010 (Obj_Anhang)
+
+Namenskennung
+
+Obj_0041 (Obj_Namenskennung)
+
+Untersuchungsabrechnung
+
+Obj_0058 (Obj_Untersuchungsabrechnung)
+
+DRG_Hinweis
+
+Untersuchungsergebnis durch Auftragslaboratorium erstellt
+
+**Feldart**
+
+m
+
+m
+
+K
+
+K
+
+m
+
+K
+
+m
+
+K
+
+m
+
+K
+
+m
+
+K
+
+m
+
+m
+
+m
+
+K
+
+m
+
+K
+
+m
+
+M
+
+m
+
+k
+
+m
+
+K
+
+K
+
+**Regel**
+
+K100
+
+K095  K121  K082
+
+K076  K095
+
+K121
+
+**OID: noch nicht vergeben**
+
+**Erläuterung**
+
 
 ---
 
-**FK**
-
-**1**
-
-8003 1
-
-**Vorkommen**
-
-**2 3 4**
+| **FK** |  | **Vorkommen** |
+|---|---|---|
+|  | **1 2** | **3 4** |
+| 8003 | 1 |  |
 
 **Obj_Sonstige Untersuchungsergebnisse**
 
@@ -13000,21 +15005,20 @@ Vorkommen
 
 Objektende
 
-**Feldart**
+|  |  | **OID: noch** | **nicht vergeben** |
+|---|---|---|---|
+| **Feldart** | **Regel** | **Erläuterung** |  |
+| M |  |  |  |
 
-M
-
-**Regel**
-
-**OID: noch nicht vergeben**
-
-**Erläuterung**
-
+OID: noch nicht vergeben
 
 ---
 
-| **Anlagen** |  |  |
-|---|---|---|
-| LDT | 3 Use | Cases |
+| **IT in** | **der Arztpraxis** |  |  |  |  |
+|---|---|---|---|---|---|
+| LDT 3.0 |  |  |  |  |  |
+| **Anlagen** | |  |  |  |  |
+| LDT | 3 Use | Cases |  |  |  |
+| LDT 3 | Satzbeschreibung, | | Version 3.2.19 | Seite | 187 von 187 |
 
 LDT 3 Use Cases

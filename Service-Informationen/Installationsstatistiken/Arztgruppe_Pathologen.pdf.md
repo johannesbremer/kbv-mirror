@@ -1,38 +1,38 @@
 ### TOP 20 Systeme - Pathologen
 
-**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen. Datenstand:** **3.0.06.2025**
+**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen. Datenstand:** **30.06.2025**
 
 **Id Praxissoftware**
 
-3.45 **NEXUS / PATHOLOGIE und NEXUS / ZYTOLOGIE**
+345 **NEXUS / PATHOLOGIE und NEXUS / ZYTOLOGIE**
 
-4.41 **dc-pathos/dc-ross**
+441 **dc-pathos/dc-ross**
 
-4.73 **KVDT (ADT)**
+473 **KVDT (ADT)**
 
-7.02 **Co-Fox Pathologie (LIMS)**
+702 **Co-Fox Pathologie (LIMS)**
 
-2.54 **ORBIS®**
+254 **ORBIS®**
 
-0.60 **Data-AL**
+060 **Data-AL**
 
-7.41 **LINA**
+741 **LINA**
 
-4.75 **Pegasus Software für Pathologie und Zytologie**
+475 **Pegasus Software für Pathologie und Zytologie**
 
-2.26 **CGM MEDICO**
+226 **CGM MEDICO**
 
-2.16 **x.isynet**
+216 **x.isynet**
 
-2.10 **Medical Office**
+210 **Medical Office**
 
-2.80 **CGM MEDISTAR BLACK PRO**
+280 **CGM MEDISTAR BLACK PRO**
 
-3.43 **SAP Ambulatory Care Management**
+343 **SAP Ambulatory Care Management**
 
-7.25 **NEXUS / SWISSLAB**
+725 **NEXUS / SWISSLAB**
 
-5.61 **EISHISTO**
+561 **EISHISTO**
 
 **Anbieter**
 
@@ -68,13 +68,13 @@ EI Systems, Andreas Eicker 1
 
 **Installationen 2.Q.2025**
 
-7.1
+71
 
-6.2
+62
 
-3.4
+34
 
-1.6
+16
 
 6
 
@@ -100,13 +100,13 @@ EI Systems, Andreas Eicker 1
 
 **Installationen 1.Q.2025**
 
-6.9
+69
 
-6.5
+65
 
-3.5
+35
 
-1.3
+13
 
 6
 
@@ -167,15 +167,15 @@ EI Systems, Andreas Eicker 1
 
 **Id Praxissoftware**
 
-4.55 **imassense ISG**
+455 **imassense ISG**
 
-2.66 **x.comfort**
+266 **x.comfort**
 
-4.62 **medatixx**
+462 **medatixx**
 
-1.12 **TURBOMED**
+112 **TURBOMED**
 
-0.78 **Med7**
+078 **Med7**
 
 **Anbieter**
 

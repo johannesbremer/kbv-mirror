@@ -109,11 +109,13 @@ Ergänzung Element-Definition  "mustSupport"
 
 0.1
 
-4 12
+Seite 4 von 12
 
 **DATUM**
 
 14.10.2024
+
+/ KBV / Technische Anlage zur Spezifikation "116117 Terminservice - Abrechnungsinformation"
 
 **AUTOR**
 
@@ -154,7 +156,7 @@ Entwurf
 
 Mit der Schnittstelle „116117 Terminservice - Abrechnungsinformation“ ist es möglich,  abrechnungsrelevante Informationen zu Terminen, welche über den 116117 Terminservice vermittelt wurden,  automatisiert dem Abrechnungsfall eines Patienten zuzuordnen und die Auswahl der zutreffenden  Gebührenordnungsposition zu unterstützen.
 
-5 12
+Seite 5 von 12 / KBV / Technische Anlage zur Spezifikation "116117 Terminservice - Abrechnungsinformation"
 
 
 ---
@@ -167,7 +169,7 @@ Die Authentifizierung und Authentifizierungsverfahren erfolgt gemäß [TSS_Auth]
 
 Anwender der Schnittstelle können auf Daten der Praxen zugreifen, für die sie sich im  Authentifizierungsverfahren mittels SMC-B authentisieren konnten.
 
-6 12
+Seite 6 von 12 / KBV / Technische Anlage zur Spezifikation "116117 Terminservice - Abrechnungsinformation"
 
 
 ---
@@ -176,7 +178,7 @@ Anwender der Schnittstelle können auf Daten der Praxen zugreifen, für die sie 
 
 Der Use Case für diese Schnittstelle ist die Anforderung von abrechnungsrelevanten Informationen zu einer  Behandlung eines Patienten aufgrund einer Terminbuchung (= Terminvermittlung) über die  Terminservicestellen der KVen.
 
-7 12
+Seite 7 von 12 / KBV / Technische Anlage zur Spezifikation "116117 Terminservice - Abrechnungsinformation"
 
 
 ---
@@ -201,7 +203,7 @@ Nach der initialen Synchronisation sollte das Software-System in regelmäßigen 
 
 **2 Workflow Kontinuierliche Synchronisation**
 
-8 12
+Seite 8 von 12 / KBV / Technische Anlage zur Spezifikation "116117 Terminservice - Abrechnungsinformation"
 
 
 ---
@@ -240,7 +242,7 @@ Weitere Erläuterungen sowie Beispiele zu Responses sind im Implementation Guide
 
 **5.2**
 
-9 12
+Seite 9 von 12 / KBV / Technische Anlage zur Spezifikation "116117 Terminservice - Abrechnungsinformation"
 
 
 ---
@@ -277,7 +279,7 @@ Für das Abrufen der geänderten Daten ist ein POST-Request mit den entsprechend
 
 Weitere Erläuterungen sowie Beispiele zu Requests sind im Implementation Guide auf Simplifier zu finden.
 
-10 12
+Seite 10 von 12 / KBV / Technische Anlage zur Spezifikation "116117 Terminservice - Abrechnungsinformation"
 
 **ABBILDUNG**  **IN FHIR**
 
@@ -326,7 +328,7 @@ Elemente mit der Eigenschaft "mustSupport" müssen immer implementiert werden. S
 
 Die Übermittlung der Daten erfolgt ausschließlich im XML Format (Content-Type application/xml oder  application/xml+fhir). Eine Übermittlung in JSON wird nicht unterstützt.
 
-11 12
+Seite 11 von 12 / KBV / Technische Anlage zur Spezifikation "116117 Terminservice - Abrechnungsinformation"
 
 
 ---
@@ -335,4 +337,6 @@ Die Übermittlung der Daten erfolgt ausschließlich im XML Format (Content-Type 
 
 [TSS_Auth]: Spezifikation 116117 Terminservice Authentifizierung; [https://partnerportal.kv-telematik.de/](https://partnerportal.kv-telematik.de/) display/TSSSPEC/116117+Terminservice+-+Schnittstellen FHIR-Profile zu Abrechnungsinformation: [https://simplifier.net/Terminsynchronisation-TVS/](https://simplifier.net/Terminsynchronisation-TVS/)
 
-[Implementation Guide]: [https://simplifier.net/guide/implementierungsleitfaden-terminsynchronisation-](https://simplifier.net/guide/implementierungsleitfaden-terminsynchronisation-) tvs?version=current [https://simplifier.net/guide/implementierungsleitfaden-abrechnungsinformationen-](https://simplifier.net/guide/implementierungsleitfaden-abrechnungsinformationen-) pvs 12 12
+[Implementation Guide]: [https://simplifier.net/guide/implementierungsleitfaden-terminsynchronisation-](https://simplifier.net/guide/implementierungsleitfaden-terminsynchronisation-) tvs?version=current [https://simplifier.net/guide/implementierungsleitfaden-abrechnungsinformationen-](https://simplifier.net/guide/implementierungsleitfaden-abrechnungsinformationen-) pvs
+
+Seite 12 von 12 / KBV / Technische Anlage zur Spezifikation "116117 Terminservice - Abrechnungsinformation"

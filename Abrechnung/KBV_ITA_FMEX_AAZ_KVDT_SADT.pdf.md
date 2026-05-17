@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT 15. MAI 2024 VERSION: 4.3  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT  15. MAI 2024  VERSION: 4.3   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # ANTRAG AUF ZERTIFIZIERUNG  ABRECHNUNG VON  SCHWANGERSCHAFTSABBRÜCHEN
@@ -31,15 +31,15 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 |  |  | | |
 |---|---|---|---|
-| Name des Antragsstellers [bei juristischen Personen ist die |  | | |
+| Name des Antragsstellers  [bei juristischen Personen ist die |  | | |
 | Geschäftsbereich [falls vorhanden] |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
 | E-Mail-Adresse |  | | |
 | Webseite |  | | |
-| Der Antragssteller ist | ☐  Arzt/Ärztin | ☐  Softwarehaus | ☐  Sonstiges |
-| Systempfleger [nur anzugeben, wenn der |  | | |
+| Der Antragssteller ist | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
+| Systempfleger  [nur anzugeben, wenn der |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
@@ -84,7 +84,10 @@ Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werd
 | ☐ | Windows | ☐ | Mac OS | ☐ | Linux |
 | ☐ | iOS/Android | ☐ | Sonstige | | |
 
+/ Version: 4.3 / 15. Mai 2024
+
 Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
+
 
 ---
 
@@ -101,7 +104,7 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
 
 |  |  | | | | |
 |---|---|---|---|---|---|
-| ☐ | Satzart sad1  (ambulante Behandlung) | ☐ | Satzart sad2 (Überweisung) | ☐ | Satzart sad3  (belegärztliche |
+| ☐ | Satzart sad1   (ambulante Behandlung) | ☐ | Satzart sad2  (Überweisung) | ☐ | Satzart sad3   (belegärztliche |
 
 ## 2.3 REALISIERTE OPTIONALE FUNKTIONEN SADT
 
@@ -119,6 +122,8 @@ Folgende optionale SADT Funktionen sind gem. Anforderungskatalog KVDT realisiert
 |  |  |
 |  |  |
 |  |  |
+
+/ Version: 4.3 / 15. Mai 2024
 
 [ ] mit [ ] allen Feldern allen Ausprägungen (erlaubte Inhalte) zu den Feldern allen Regeln g KVDT ist das SADT-Datenpaket realisiert [ ] [ ] [ ] [ ] [ ] [ ]
 
@@ -146,6 +151,8 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 | E-Mail-Adresse |  |
 
 Diese Information ist verpflichtend anzugeben
+
+/ Version: 4.3 / 15. Mai 2024
 
 
 ---
@@ -205,7 +212,10 @@ Diese Information ist verpflichtend anzugeben
 
 -
 
+/ Version: 4.3 / 15. Mai 2024
+
 Neu- oder Erweiterungs- neuen Satzart Sicht- oder Sicht- oder
+
 
 ---
 
@@ -231,7 +241,7 @@ Neu- oder Erweiterungs- neuen Satzart Sicht- oder Sicht- oder
 
 -
 
--
+/ Version: 4.3 / 15. Mai 2024 -
 
 -
 
@@ -255,3 +265,5 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstel
 Kassenärztliche Bundesvereinigung
 
 Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+
+/ Version: 4.3 / 15. Mai 2024

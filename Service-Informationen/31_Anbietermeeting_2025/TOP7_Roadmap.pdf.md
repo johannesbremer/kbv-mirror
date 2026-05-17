@@ -138,19 +138,18 @@ Quelle: gematik GmbH
 
 ---
 
-|  |  |  |  |  |  |  |  |  | ↗ **EVHEILM** |
-|---|---|---|---|---|---|---|---|---|---|
-|  |  | **Elektronische** | |  |  | **Verordnung** | **Heilmittel** |  |  |
-|  | Gemäß | §360 |  | Absatz | ›7 SGB | V ist die |  | elektronische Verordnung von Heilmitteln | zum 1. Januar 2027 |
-|  | zu | ermöglich. | |  |  |  |  |  |  |
-|  |  | Aufgrund | | dieser | ›gesetzlichen | | Vorgabe | hat die gematik gemeinsam mit | den betroffenen |
-|  |  | Akteuren | | nun die |  | Erarbeitung | des digitalen | Verordnungsverfahrens | gestartet. |
-| Quelle: |  | gematik | GmbH |  |  |  |  |  |  |
-|  |  |  |  |  |  | https://fachportal.gematik.de/fileadmin/Fachportal/Hersteller___Anbieter/Roadmap/Q3/OneRoadmap_20250801.pdf | | (gekürzt) |  |
-| **ROADMAP** | **-** | **IT IN** | **DER** | **VERSORGUNG** |  |  |  |  | SEITE 8 |
-| 31. |  | ANBIETERMEETING | DER | KBV AM | 18. SEPTEMBER | 2025 |  |  |  |
+## Elektronische Verordnung Heilmittel
 
-Elektronische Verordnung Heilmittel Gemäß §360 Absatz 7 SGB V ist die elektronische Verordnung von Heilmitteln zum 1. Januar 2027 zu ermöglich. Aufgrund dieser gesetzlichen Vorgabe hat die gematik gemeinsam mit den betroffenen Akteuren nun die Erarbeitung des digitalen Verordnungsverfahrens gestartet.
+- Gemäß §360 Absatz 7 SGB V ist die elektronische Verordnung von Heilmitteln zum 1. Januar 2027
+
+# - zu ermöglich.
+
+# - Aufgrund dieser gesetzlichen Vorgabe hat die gematik gemeinsam mit den betroffenen  Akteuren nun die Erarbeitung des digitalen Verordnungsverfahrens gestartet.
+
+- **EVHEILM**
+
+(gekürzt)
+
 
 ---
 

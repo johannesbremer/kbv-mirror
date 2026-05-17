@@ -7,42 +7,29 @@ Copyright © kv.digital GmbH, 2025 Alle Rechte vorbehalten. Nachdruck und Vervie
 
 ---
 
-## Inhaltsverzeichnis
+|  | Inhaltsverzeichnis | |  |  |
+|---|---|---|---|---|
+| 1 |  |  | Einführung................................................................................................................................4 | |
+| 1.1 | Geltungsbereich |  | ..............................................................................................................................................4 | |
+| 1.2 | Abgrenzung |  | .......................................................................................................................................................4 | |
+| 2 | Allgemein |  | ..................................................................................................................................5 | |
+| 2.1 | Aufbau und | Struktur | ......................................................................................................................................6 | |
+| 2.1.1 Das | Element version |  | ..........................................................................................................................................................................6 | |
+| 2.1.2 Das | Element |  | guid.................................................................................................................................................................................6 | |
+|  |  |  | GUID-Generierung.............................................................................................................................................................................6 | |
+| 2.1.3 Das | Element bsnr |  | ................................................................................................................................................................................7 | |
+| 2.1.4 Das | Element |  | testdaten......................................................................................................................................................................7 | |
+| 2.1.5 Das | Element | lieferungs_zeitpunkt | ...............................................................................................................................................7 | |
+| 2.1.6 Das | Element |  | dokumenten_typ.......................................................................................................................................................7 | |
+| 2.1.7 Das | Element |  | quartal...........................................................................................................................................................................7 | |
+| 2.1.8 Das | Element vollstaendig |  | ................................................................................................................................................................8 | |
+| 2.1.9 Das | Element anhang |  | ..........................................................................................................................................................................8 | |
+| 2.2 | Anforderungen | an die | Software-Systeme.............................................................................................8 | |
+| 2.2.1 | Anforderungen | an die Software-Systeme | der | Leistungserbringer.................................................................................8 |
+| 2.2.2 | Anforderungen an | die Software-Systeme | der KVen | ............................................................................................................9 |
+| 3 |  |  | Referenzen............................................................................................................................ | 10 |
 
-1 Einführung................................................................................................................................4 1.1 Geltungsbereich ..............................................................................................................................................4
-
-1.2 Abgrenzung .......................................................................................................................................................4
-
-2 Allgemein ..................................................................................................................................5 2.1 Aufbau und Struktur ......................................................................................................................................6
-
-2.1.1 Das Element version ..........................................................................................................................................................................6
-
-2.1.2 Das Element guid.................................................................................................................................................................................6
-
-GUID-Generierung.............................................................................................................................................................................6
-
-2.1.3 Das Element bsnr ................................................................................................................................................................................7
-
-2.1.4 Das Element testdaten......................................................................................................................................................................7
-
-2.1.5 Das Element lieferungs_zeitpunkt ...............................................................................................................................................7
-
-2.1.6 Das Element dokumenten_typ.......................................................................................................................................................7
-
-2.1.7 Das Element quartal...........................................................................................................................................................................7
-
-2.1.8 Das Element vollstaendig ................................................................................................................................................................8
-
-2.1.9 Das Element anhang ..........................................................................................................................................................................8
-
-2.2 Anforderungen an die Software-Systeme.............................................................................................8
-
-2.2.1 Anforderungen an die Software-Systeme der Leistungserbringer.................................................................................8
-
-2.2.2 Anforderungen an die Software-Systeme der KVen ............................................................................................................9
-
-3 Referenzen............................................................................................................................ 10
-
+Geltungsbereich ..............................................................................................................................................4 Abgrenzung .......................................................................................................................................................4 Allgemein ..................................................................................................................................5 Aufbau und Struktur ......................................................................................................................................6 2.1.1 Das Element version ..........................................................................................................................................................................6 2.1.2 Das Element guid.................................................................................................................................................................................6 2.1.3 Das Element bsnr ................................................................................................................................................................................7 2.1.4 Das Element testdaten......................................................................................................................................................................7 2.1.5 Das Element lieferungs_zeitpunkt ...............................................................................................................................................7 2.1.6 Das Element dokumenten_typ.......................................................................................................................................................7 2.1.7 Das Element quartal...........................................................................................................................................................................7 2.1.8 Das Element vollstaendig ................................................................................................................................................................8 2.1.9 Das Element anhang ..........................................................................................................................................................................8 Anforderungen an die Software-Systeme.............................................................................................8 2.2.1 Anforderungen an die Software-Systeme der Leistungserbringer.................................................................................8 2.2.2 Anforderungen an die Software-Systeme der KVen ............................................................................................................9 Referenzen............................................................................................................................ 10
 
 ---
 
@@ -119,6 +106,8 @@ Lizenzbestimmungen 3 von 10
 
 ---
 
+Begleitdatei V1.0
+
 **1 Einführung** Dieses Dokument dient der Spezifikation von Begleitdateien, die in verschiedenen Anwendungen eingesetzt  werden können. Begleitdateien enthalten Informationen zu den eingereichten Datenpaketen einer konkreten  Anwendung. Sie sind gleichzeitig maschinen- und menschenlesbar und ermöglichen die automatische  Zuordnung und Weiterverarbeitung der gelieferten Datenpakete, ohne diese schon vollständig entschlüsseln  zu müssen.
 
 Die vorliegende Spezifikation beschreibt nur den Aufbau und die Struktur der Begleitdatei sowie einige  grundlegende Anforderungen. Die weitere Verarbeitung bzw. Verwendung der Begleitdatei in einer  Anwendung ist in den jeweiligen Anwendungs-Spezifikationen beschrieben.
@@ -127,7 +116,7 @@ Die vorliegende Spezifikation beschreibt nur den Aufbau und die Struktur der Beg
 
 **1.2 Abgrenzung** Anwendungs-spezifische Anforderungen an die Begleitdatei sind in den jeweiligen Anwendungs- Spezifikationen beschrieben, die an den entsprechenden Stellen referenziert werden.
 
-4 10
+Seite 4 von 10
 
 
 ---
@@ -160,11 +149,13 @@ Für die Begleitdatei **MUSS**
 
 Die Begleitdatei **MUSS** den fixen Dateinamen "
 
+Seite
+
 der Zeichensatz UTF-8 verwendet werden.
 
 begleitdatei " erhalten.
 
-5 10
+Begleitdatei V1.0 5 von 10
 
 
 ---
@@ -201,6 +192,8 @@ Der GUID wird gemeinsam mit dem Element  Datenpaketen unterscheiden zu können.
 
 Für die Datenlieferungen ist es notwendig, neue Daten von ersetzenden (korrigierenden) Daten zu  unterscheiden. Das Software-System muss für jede Datenlieferung eine GUID gemäß Definition [[http://de.wikipedia.org/wiki/](http://de.wikipedia.org/wiki/) Globally_Unique_Identifier] generieren. Es wird eine 32-Zeichen-kodierte hexadezimale Zeichenkette mit
 
+Seite
+
 positiv integer " und muss genau einmal vorhanden sein. Die
 
 1 ". Im V-Attribut wird der Elementinhalt übertragen.
@@ -209,9 +202,11 @@ guid genutzt, um Korrekturlieferungen unterscheiden zu
 
 string " und muss genau einmal vorhanden sein. Im V-Attribut wird der
 
-version verwendet, um neue Datenpakete von ersetzenden (UUID) Definition
+version verwendet, um neue Datenpakete von ersetzenden
 
-6 10
+Begleitdatei V1.0 (UUID) Definition
+
+6 von 10
 
 
 ---
@@ -264,9 +259,11 @@ Das Element hat den Datentyp " string " als Basis und ist durch ein Pattern eing
 
 JJJJ-Q. Es muss genau einmal vorhanden sein. Im V-Attribut wird der Elementinhalt übertragen.
 
+Seite
+
 *neuen* GUID zu versehen.
 
-7 10
+Begleitdatei V1.0 7 von 10
 
 
 ---
@@ -321,12 +318,18 @@ Stammdaten einer Praxis automatisch in die Begleitdatei übernehmen.
 
 **[BGD0812]**
 
+Seite
+
+Begleitdatei V1.0
+
 generieren.
 
-*der* schon für die 8 10
+*der* schon für die 8 von 10
 
 
 ---
+
+Begleitdatei V1.0
 
 Das Software-System **MUSS** dem Anwender die Möglichkeit bieten, vor dem Versand das Quartal zu
 
@@ -356,13 +359,17 @@ Das Software-System **DARF** keine Case-Sensitive-Validierung für die aufgefüh
 
 Element anhang mit den Dateien des übermittelnden Datenpakets durchführen.
 
-9 10
+Seite 9 von 10
 
 
 ---
+
+Begleitdatei V1.0
 
 **3 Referenzen** [Einlieferung_<Anwendung>]: 1ClickAbrechnung: [https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/)
 
 [https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/) eDokumentation: [https://update.kbv.de/ita-update/Medizinische-Dokumentationen/](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/) eDokumentation_KIM/ *1ClickHDRG:* [https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/)
 
-[GUID]: Definition GUID, RFC 1422 [https://tools.ietf.org/html/rfc4122](https://tools.ietf.org/html/rfc4122) 10 10
+[GUID]: Definition GUID, RFC 1422 [https://tools.ietf.org/html/rfc4122](https://tools.ietf.org/html/rfc4122)
+
+Seite 10 von 10

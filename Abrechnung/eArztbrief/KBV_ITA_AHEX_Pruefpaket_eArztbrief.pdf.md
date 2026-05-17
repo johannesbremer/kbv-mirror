@@ -5,7 +5,7 @@
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_EARZTBRIEF]
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 15. NOVEMBER 2024  VERSION: 3.6  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 15. NOVEMBER 2024   VERSION: 3.6   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 |  |
@@ -78,16 +78,16 @@ DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 3.6 | 15.11.2025 | KBV | Erweiterung Prüffall 01 Anpassung Prüffall 07 Entfall Prüffall 08 | Obligatorischer Nachweis | 8 13 |
+| 3.6 | 15.11.2025 | KBV | Erweiterung Prüffall 01  Anpassung Prüffall 07  Entfall Prüffall 08 | Obligatorischer Nachweis | 8  13 |
 | 3.5 | 15.08.2024 | KBV | Klarstellung Beispiel Struktur |  | 5 |
-| 3.4 | 15.05.2024 | KBV | Erweiterung Prüffall 07, |  | 13 13 |
-| 3.3 | 08.02.2024 | KBV | Logische Anpassungen Prüffall |  | 10, 13 |
+| 3.4 | 15.05.2024 | KBV | Erweiterung Prüffall 07, |  | 13  13 |
+| 3.3 | 08.02.2024 | KBV | Logische Anpassungen Prüffall |  | 10,  13 |
 | 3.2 | 16.08.2023 | KBV | Kleine redaktionelle Korrekturen |  | 10, |
 | 3.1 | 07.08.2023 | KBV | Neuer Interoperabilitätsprüffall | Prüfung der neuen | 13 |
 | 3.0 | 12.06.2020 | KBV | Komplettüberarbeitung des | Anpassung aufgrund des | Alle |
 | 2.0 | 17.06.2019 | KBV | Komplettüberarbeitung des | Anpassung der | Alle |
 | 1.21 | 13.03.2018 | KBV | Einreichung des Antrags auf | Anpassung des | 4f |
-| 1.20 | 14.12.2017 | KBV | Anpassung der einzureichenden | Anpassung der redaktionelle | 9 |
+| 1.20 | 14.12.2017 | KBV | Anpassung der einzureichenden | Anpassung der  redaktionelle | 9 |
 | 1.11 | 23.05.2017 | KBV | Komplettüberarbeitung des | Aktualisierung der | Alle |
 
 ZIP-Archiv Anpassung Prüffall 08 03, Fehlerkorrektur Prüffall 08 aufgenommen Prüfpakets Prüfpakets Zertifizierung Prüfunterlagen von PF02  Prüfpakets Audit, IOWS Workshop kv.digital Anforderung P43-03 Kommunikationsdienstes der gematik (KIM) Anforderungen P44-03, P44-04 und P44-05 Zertifizierungsportales  Anforderung P50-01 Änderungen Zertifizierungsrichtlinie 11,
@@ -197,7 +197,7 @@ Die Teile der eArztbrief-Lieferung sind im entsprechenden Dateiformat zu exporti
 
 Die für den Versand sowie für den Empfang geforderten Videomitschnitte und Screenshots mü einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.
 
-- 2.3
+- 2 3
 
 -  <PrüffallNr.> _[lfdNr.] .*
 
@@ -273,7 +273,7 @@ Für die nachfolgenden Prüffälle werden folgende Patienten benötigt:
 |---|---|
 | Prüffall-ID | PF01 |
 | Testziel | Versand eines eArztbriefes ohne automatische Abrechnung |
-| Voraussetzung | Ordnungsgemäße Einbindung des behandelnden Arztes und des Empfängers des Es handelt sich um den ersten zu versendenden eArztbrief im Quartal. |
+| Voraussetzung | Ordnungsgemäße Einbindung des behandelnden Arztes und des Empfängers des  Es handelt sich um den ersten zu versendenden eArztbrief im Quartal. |
 | Aktion |  |
 | Einzureichende |  |
 
@@ -311,7 +311,7 @@ syntaktisch und semantisch korrekten eArztbrief zu versenden.
 |  |  |
 |---|---|
 |  |  |
-| Hinweis | Sowohl Empfänger und Sender des eArztbriefes als auch der betreffende Patient ist Die medizinischen Informationen gemäß Aktion 1. müssen mindestens in der PDF |
+| Hinweis | Sowohl Empfänger und Sender des eArztbriefes als auch der betreffende Patient ist  Die medizinischen Informationen gemäß Aktion 1. müssen mindestens in der PDF |
 
 **Tabelle 1: Prüffalltabelle**
 
@@ -346,7 +346,7 @@ Empfang eines eArztbriefes mit automatischer Abrechnung
 |---|---|
 | Prüffall-ID | PF03 |
 | Testziel | Empfang eines eArztbriefes mit automatischer Abrechnung |
-| Voraussetzung | Ordnungsgemäße Einbindung des behandelnden Arztes und des Senders des eArztbrief-  Der Patient „Karl  eArztbrief-Lieferung zu |
+| Voraussetzung | Ordnungsgemäße Einbindung des behandelnden Arztes und des Senders des  eArztbrief-   Der Patient „Karl   eArztbrief-Lieferung zu |
 | Aktion |  |
 | Einzureichende |  |
 | Hinweis | Die Patientendaten im PVS müssen sich von den Patientendaten der eArztbrief |
@@ -365,7 +365,7 @@ Prüfunterlagen Lieferung zum Patienten „Karl Friederich Schaumberg“ (XML Ve
 |---|---|
 | Prüffall-ID | PF04 |
 | Testziel | Empfang eines eArztbriefes bei einem bekannten Patienten ohne Arzt |
-| Voraussetzung | Ordnungsgemäße Einbindung des behandelnden Arztes und des Senders des Die Patientin „Brigitte Althaus“ (XML_05) wurde bereits im Vorquartal im System eArztbrief- Es bestand im laufenden Quartal noch kein Arzt |
+| Voraussetzung | Ordnungsgemäße Einbindung des behandelnden Arztes und des Senders des  Die Patientin „Brigitte Althaus“ (XML_05) wurde bereits im Vorquartal im System  eArztbrief- Es bestand im laufenden Quartal noch kein Arzt |
 | Aktion |  |
 | Einzureichende |  |
 | Hinweis | Die Patientendaten im PVS müssen sich von den Patient |
@@ -388,7 +388,7 @@ Prüfunterlagen Patientenkontakt im aktuellen Quartal angelegt.  Lieferung zur P
 |---|---|
 | Prüffall-ID | PF05 |
 | Testziel | Empfang eines eArztbriefes bei unbekannten Patienten |
-| Voraussetzung | Ordnungsgemäße Einbindung des behandelnden Arztes und des Senders des eArztbrief- Der Patient „Martin Frühstück“ ist der Praxis nicht bekannt (k |
+| Voraussetzung | Ordnungsgemäße Einbindung des behandelnden Arztes und des Senders des  eArztbrief- Der Patient „Martin Frühstück“ ist der Praxis nicht bekannt (k |
 | Aktion |  |
 | Einzureichende |  |
 
@@ -428,7 +428,7 @@ Prüfunterlagen Lieferung zum Patienten „Martin Frühstück“ (XML_07) im Ori
 |---|---|
 | Prüffall-ID | PF07 |
 | Testziel | Nachweis des KIM Bestätigungsverfahrens der gematik sowie des eArztbrief Audits |
-| Voraussetzung | Bestehen des Bestätigungsverfahren der gematik Bestehen des Audits zum eArztbrief der kv.digital. Teilnahme am Interoperabilitätsworkshop der kv.digital. |
+| Voraussetzung | Bestehen des Bestätigungsverfahren der gematik Bestehen des Audits zum eArztbrief der kv.digital.  Teilnahme am Interoperabilitätsworkshop der kv.digital. |
 | Einzureichende | Optional bis zum 30.09.2024: |
 
 **Tabelle 7: Prüffalltabelle**
@@ -439,7 +439,7 @@ Prüfunterlagen Lieferung zum Patienten „Martin Frühstück“ (XML_07) im Ori
 |---|---|
 | Prüffall-ID | PF08 |
 | Testziel | Interoperabilitätsprüfung |
-| Voraussetzung | Dieser Prüffall ist nur durchzuführen, wenn  Für die Interoperabilitätsprüfung wird von der kv.digital GmbH ein Test- und Im Backend steht für die KIM-Anwendung eArztbrief V1.2 ein entsprechender  Das Backend ist nur über die Referenzumgebung (RU) der Telemat  Die Adresse des Backends für eArztbrief V1.2 der kv.digital in der RU der TI lautet:  kv.digital-eArztbrief-V1.2@kv.digital.kim.telematik-test |
+| Voraussetzung | Dieser Prüffall ist nur durchzuführen, wenn    Für die Interoperabilitätsprüfung wird von der kv.digital GmbH ein Test- und  Im Backend steht für die KIM-Anwendung eArztbrief V1.2 ein entsprechender    Das Backend ist nur über die Referenzumgebung (RU) der Telemat   Die Adresse des Backends für eArztbrief V1.2 der kv.digital in der RU der TI lautet:   kv.digital-eArztbrief-V1.2@kv.digital.kim.telematik-test |
 | Aktion |  |
 
 - 2. Bitte fügen Sie den Nachweis zum Bestehen des Audits eArztbrief der kv.digital als

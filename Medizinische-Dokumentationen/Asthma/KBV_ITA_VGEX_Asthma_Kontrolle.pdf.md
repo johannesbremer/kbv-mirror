@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 22. AUGUST 2024  VERSION: 1.1  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 22. AUGUST 2024   VERSION: 1.1   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # ZUSTANDSBEDINGUNGEN  ASTHMAKONTROLLE
@@ -243,7 +243,7 @@ Es müssen drei oder vier der folgenden 4 Kriterien zutreffen: - **bis < 18 6 Ja
 |  |  |
 |---|---|
 | Referenz | Dokument |
-| [DMP-A-RL] | Richtlinie  zur Zusammenführung der Anforderungen an strukturierte Behandlungsprogramme nach § 137f Absatz 2 SGB V DMP-Anforderungen-Richtlinie |
+| [DMP-A-RL] | Richtlinie    zur Zusammenführung der Anforderungen an strukturierte Behandlungsprogramme nach § 137f Absatz 2 SGB V  DMP-Anforderungen-Richtlinie |
 
 **Ansprechpartner:**
 

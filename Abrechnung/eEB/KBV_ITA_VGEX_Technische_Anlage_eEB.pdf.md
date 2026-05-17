@@ -1,19 +1,21 @@
-|  |
-|---|
-
 # TECHNISCHE ANLAGE ELEKTRONISCHE  ERSATZBESCHEINIGUNG (EEB)
 
 ## [KBV_ITA_VGEX_TECHNISCHE_ANLAGE_
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 15. MAI 2025  VERSION: 1.01  DOKUMENTENSTATUS: IN KRAFT |
-|---|---|
+## EEB]
 
-EEB]
+**DEZERNAT DIGITALISIERUNG UND IT**
 
-|  |
-|---|
+**DOKUMENTENSTATUS: IN KRAFT**
 
-BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
+**KASSENÄRZTLICHE**  **BUNDESVEREINIGUNG**
+
+**IT IN DER ARZTPRAXIS**
+
+**13. MAI 2026**
+
+**VERSION: 1.02**
+
 
 ---
 
@@ -40,13 +42,15 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 # DOKUMENTENHISTORIE
 
-Die Version 1.01 tritt spätestens zum 01.07.2025 in Kraft.
+Die Version 1.02 tritt zum 01.07.2026 in Kraft.
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.01 | 15.05.2025 | KBV | Hinweis ergänzt  Anforderung konkretisiert  Referenzen aktualisiert |  | 5  5  9 |
+| 1.02 | 13.05.2026 | KBV | Aufnahme der optionalen    Anpassung der P2-02 |  | 7      5 |
+| 1.01 | 15.05.2025 | KBV | Hinweis ergänzt    Anforderung konkretisiert    Referenzen aktualisiert |  | 5    5    9 |
 | 1.00 | 11.03.2025 | KBV | Erstellung der Spezifikation |  | alle |
 
+Anforderung O2-02
 
 ---
 
@@ -54,7 +58,9 @@ Die Version 1.01 tritt spätestens zum 01.07.2025 in Kraft.
 
 Der Gesetzgeber hat im Zuge der Anpassung des § 291 Absatz 9 SGB V festgelegt, dass eine versicherte  Person, die bei dem ersten Arzt-Patienten-Kontakt im Quartal keine elektronische Gesundheitskarte
 
-vorlegen kann, ersatzweise einen Nachweis der Berechtigung zum Leistungsanspruch über eine von ihrer  Krankenkasse angebotene Benutzeroberfläche elektronisch anfordern kann.
+vorlegen kann, ersatzweise einen Nachweis der Berechtigung zum Leistungsanspruch über eine von ihrer
+
+Krankenkasse angebotene Benutzeroberfläche elektronisch anfordern kann.
 
 Die Vertragspartner des Bundesmantelvertrag-Ärzte (BMV-Ä) haben entsprechende Regelungen getroffen,
 
@@ -81,19 +87,19 @@ Dieses Kapitel beschreibt die Vorgaben, welche Softwarehersteller umsetzen müss
 
 | PFLICHTFUNKTION ELEKTRONISCHE ERSATZBESCHEINIGUNG |  |
 |---|---|
-| P2-01 | Erzeugung des QR-Codes für die Praxis |
+| P 2-01 | Erzeugung des QR-Codes für die Praxis |
 
-Die Software muss dem Anwender die Möglichkeit bieten, einen QR-Code gemäß des
-
-[eEB_Implementierungsleitfadens] zu erzeugen.
+Die Software muss dem Anwender die Möglichkeit bieten, einen QR [eEB_Implementierungsleitfadens] zu erzeugen.
 
 **Begründung:**
 
-Aufgrund der Notwendigkeit die KIM-Adresse der Arztpraxis den Krankenkassen-Apps standardisiert und
-
-geordnet bereitzustellen, erfolgt die Herausgabe der KIM-Adresse an den Patienten bevorzugt in Form
+Aufgrund der Notwendigkeit die KIM-Adresse der Arztpraxis den Krankenkassen geordnet bereitzustellen, erfolgt die Herausgabe der KIM-Adresse an den Patienten bevorzugt in Form
 
 eines QR-Codes.
+
+-Code gemäß des
+
+-Apps standardisiert und
 
 **Akzeptanzkriterium:**
 
@@ -107,17 +113,13 @@ eines QR-Codes.
 
 - b) Die Software schlägt eine passende KIM-Adresse der Praxis vor.
 
-- 2. Die Software muss dem Anwender die Möglichkeit bieten, den gemäß Akzeptanzkriterium 1 erstellten
+- 2. Die Software muss dem Anwender die Möglichkeit bieten, den gemäß Akzeptanzkriterium 1 erstellten  QR-Code auszudrucken bzw. anderweitig als Grafik bereitzustellen.
 
-- QR-Code auszudrucken bzw. anderweitig als Grafik bereitzustellen.
-
-Hinweis:
+**Hinweis:**
 
 Die Software muss den QR-Code nicht zwingend selber erstellen.
 
-Ausreichend wäre bspw. auch, wenn der Anwender mit Unterstützung der Software auf, die von der
-
-gematik bereitgestellten Webseite zur Erstellung des QR-Codes geleitet wird und von der Software die
+Ausreichend wäre bspw. auch, wenn der Anwender mit Unterstützung der Software auf, die von der  gematik bereitgestellten Webseite zur Erstellung des QR-Codes geleitet wird und von der Software die
 
 benötigten Informationen wie bspw. die KIM-Adresse mindestens angezeigt bekommt.
 
@@ -135,7 +137,7 @@ Gemäß § 19 BMV-Ä sollen Versicherte die Möglichkeit erhalten, einer Vertrag
 
 **Akzeptanzkriterium:**
 
-- 1. Die Software muss eine eingehende KIM-Nachricht, die die X-KIM-Dienstkennung  eEB;Bescheinigung;V1.0“ gemäß dem [eEB_Implementierungsleitfadens] Kapitel „Einführung“
+- 1. Die Software muss eine eingehende KIM-Nachricht, die die X-KIM-Dienstkennung  eEB;Bescheinigung;V 1.01.1“ gemäß dem [eEB_Implementierungsleitfadens Kapitel „Einführung“
 
 - >“Interoperabilitätsvorgaben“ KIM-Nachrichtenstruktur“ >„KIM Bescheinigung“ beinhaltet,
 
@@ -152,7 +154,9 @@ festgelegt werden.
 
 ---
 
-- b) Die Software muss dem Anwender bei eHBA basierten KIM-Adressen - die KIM-Adresse ist im  Verzeichnisdienst der TI zu einem eHBA-Eintrag (einer Person) hinterlegt - die Möglichkeit bieten - festzulegen, dass
+- b) Die Software muss dem Anwender bei eHBA basierten KIM-Adressen - die KIM-Adresse ist im
+
+- Verzeichnisdienst der TI zu einem eHBA-Eintrag (einer Person) hinterlegt - die Möglichkeit bieten - festzulegen, dass
 
 - 1. entweder die KIM-Mails automatisch von der Software vom KIM-Mail-Server abgerufen werden - oder
 
@@ -160,11 +164,13 @@ festgelegt werden.
 
 - 2. Die Software stellt sicher, dass die zu verarbeitende KIM-Nachricht tatsächlich von einer Krankenkasse - versendet wurde.
 
-- 3. Die Software muss prüfen, ob die in der signierten FHIR-Instanz (gemäß dem  [eEB_Implementierungsleitfadens] Kapitel „Einführung“ >“Interoperabilitätsvorgaben“ FHIR-Profile
+- 3. Die Software muss prüfen, ob die in der signierten FHIR-Instanz (gemäß dem
 
-- enthaltenen Versichertendaten, einem bereits im Praxisverwaltungssystem vorhandenen Versicherten - zugeordnet werden können.
+- [eEB_Implementierungsleitfadens] Kapitel „Einführung“ >“Interoperabilitätsvorgaben“ FHIR-Profile“
 
-- a) Wenn ja, dann prüft die Software, ob für den Versicherten im laufenden Quartal bereits eine eGK - eingelesen wurde.
+- enthaltenen Versichertendaten, einem bereits im Praxisverwaltungssystem vorhandenen Versicherten  zugeordnet werden können.
+
+- a) Wenn ja, dann prüft die Software, ob für den Versicherten im laufenden Quartal bereits eine eGK  eingelesen wurde.
 
 - Wenn ja:
 
@@ -188,9 +194,7 @@ festgelegt werden.
 
 - Wenn nein:
 
-- - Dann zeigt die Software dem Anwender die Versichertendaten zur Übernahme ins
-
-- Praxisverwaltungssystem an. Die Software übernimmt die in der FHIR-Instanz übermittelten VSD-
+- - Dann zeigt die Software dem Anwender die Versichertendaten zur Übernahme ins  Praxisverwaltungssystem an. Die Software übernimmt die in der FHIR-Instanz übermittelten VSD-
 
 - Daten aus den FHIR-Elementen „Coverage.extension:persoenlicheVersichertendaten
 
@@ -208,24 +212,9 @@ festgelegt werden.
 
 **HINWEIS**
 
-- Die Software kann auf freiwilliger Basis die weiteren im Implementierungsleitfaden
-
-- [eEB_Implementierungsleitfadens] beschriebenen Funktionen (wie bspw. OCI-Verfahren für PKV-
-
-- Versicherte oder das KIM-Verfahren zur Anforderung eines eEB aus der Praxis) umsetzen und den  Vertragsarztpraxen bereitstellen.
-
-- Liegt zum Zeitpunkt der Anforderung einer eEB durch die Praxis noch keine
-
-- Krankenversichertennummer (KVNR) zum Versicherten bei der Krankenkasse vor, dann kann die  Krankenkasse die erforderlichen Daten zum Ersatzverfahren gem. Anlage 4a Absatz 2.5 mittels der  FHIR-Profile „EEBCoverageNoEgk“ und „KBV_PR_FOR_Patient“ liefern.
-
 - Die in den FHIR-Elementen „Coverage.extension:persoenlicheVersichertendaten“,
 
-- „Coverage.extension:allgemeineVersicherungsdaten“ sowie
-
-
----
-
-- „Coverage.extension:geschuetzteVersichertendaten“ enthaltenen VSD-Daten werden base64 -codiert
+- „Coverage.extension:allgemeineVersicherungsdaten“ sowie  „Coverage.extension:geschuetzteVersichertendaten“ enthaltenen VSD-Daten werden base64 -codiert
 
 - übermittelt (vergleichbar mit der Rückmeldung des Konnektors).
 
@@ -236,13 +225,42 @@ festgelegt werden.
 
 ---
 
+- 1. Die Software bietet dem Anwender die Funktionen zur Erstellung und Versand einer eEB-Anfrage gemäß
+
+- den Kapiteln „Einführung“ >“Interoperabilitätsvorgaben“ > “KIM Nachrichtenstruktur“ KIM Anfrage
+
+- einer Ersatzbescheinigung“ sowie „Einführung“ > „Elektronische Ersatzbescheinigung (eEB)“ des
+
+- [eEB_Implementierungsleitfadens] an.
+
+- 2. Die Software bietet dem Anwender eine Funktion an, um die Zustimmung des Patienten zu der eEB
+
+- Anfrage im PVS zu dokumentieren.
+
+| OPTIONALE FUNKTION ELEKTRONISCHE ERSATZBESCHEINIGUNG |  |
+|---|---|
+| O2-02 | Versand einer eEB-Anfrage |
+
+Die Software kann dem Anwender die Möglichkeiten zur Verfügung stellen, eine Anfrage zur eEB-
+
+Bescheinigung mittels KIM an die Krankenkasse zu senden.
+
+**Begründung:**
+
+Gemäß der BMV-Ä Anlage 4a Anhang 1 Punkt 2.9 kann eine Praxis in Ausnahmefällen bei bekannten  Patienten die elektronische Ersatzbescheinigung bei der Krankenkasse nach Einwilligung des Patienten  anfragen.
+
+**Akzeptanzkriterium:**
+
+
+---
+
 # 3 FESTLEGUNG FÜR DIE KRANKENKASSEN
 
 Dieses Kapitel beschreibt die Vorgaben, die von den Krankenkassen umgesetzt werden müssen.
 
 | PFLICHTFUNKTION ELEKTRONISCHE ERSATZBESCHEINIGUNG |  |
 |---|---|
-| P4-01 | Bereitstellung von Funktionen der Versicherten |
+| P 4-01 | Bereitstellung von Funktionen der Versicherten |
 
 Die Krankenkassen müssen ihren Versicherten Funktionen zur Verfügung stellen, um einen eEB gemäß dem
 
@@ -252,7 +270,7 @@ entsprechende Vertragsarztpraxis zu senden.
 
 **Begründung:**
 
-Gemäß der § 19 BMV-Ä sollen Versicherte die Möglichkeit erhalten, einer Vertragsarztpraxis eine  elektronische Ersatzbescheinigung als Nachweis des Versicherungsverhältnisses zu übermitteln.
+Gemäß des § 19 BMV-Ä sollen Versicherte die Möglichkeit erhalten, einer Vertragsarztpraxis eine  elektronische Ersatzbescheinigung als Nachweis des Versicherungsverhältnisses zu übermitteln.
 
 **Akzeptanzkriterium:**
 
@@ -278,7 +296,7 @@ Gemäß der § 19 BMV-Ä sollen Versicherte die Möglichkeit erhalten, einer Ver
 | Referenz | Dokument |
 | eEB_Implementierungsleitfaden | https://simplifier.net/guide/implementierungsl |
 | BMV-Ä | https://www.kbv.de/media/sp/BMV-Aerzte.pdf |
-| Anlage 4a und Anlage 4b | Anlage 4a:  https://www.kbv.de/media/sp/04a_elektr._Ges  Anlage 4b: https://www.kbv.de/media/sp/Anlage_4b_Aut |
+| Anlage 4a und Anlage 4b | Anlage 4a:   https://www.kbv.de/media/sp/04a_elektr._Ges   Anlage 4b:  https://www.kbv.de/media/sp/Anlage_4b_Aut |
 
 **Ansprechpartner:**
 

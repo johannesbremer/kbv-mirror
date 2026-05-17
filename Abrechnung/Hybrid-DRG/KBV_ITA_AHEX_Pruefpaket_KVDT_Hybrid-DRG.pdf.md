@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 13. JANUAR 2025  VERSION: 1.5  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 13. JANUAR 2025   VERSION: 1.5   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # PRÜFPAKET KVDT HYBRID -DRG
@@ -267,7 +267,7 @@ group.de/index.php?option=com_webgrouper&view=webgrouper&Itemid=112
 | FK 5035 | OP-Schlüssel | 5-530.03 |
 | FK 5041 | Seitenlokalisation | L |
 | FK 5098 | (N)BSNR des Ortes der | 198212400 |
-| FK 5099 | Lebenslange Arztnummer (LANR) des Vertragspsychotherapeuten | 776299002 |
+| FK 5099 | Lebenslange Arztnummer (LANR) des  Vertragspsychotherapeuten | 776299002 |
 | FK 6009 | Hauptdiagnose | K40.90 |
 | FK 6010 | Seitenlokalisation Hauptdiagnose | L |
 | Einzureichende | .XKM-Abrechnungsdatei mit Testschlüssel verschlüsselt | |

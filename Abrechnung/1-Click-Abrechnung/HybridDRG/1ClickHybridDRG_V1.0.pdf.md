@@ -7,66 +7,42 @@ Copyright © kv.digital GmbH, 2024 Alle Rechte vorbehalten. Nachdruck und Vervie
 
 ---
 
-## Inhaltsverzeichnis
+|  | Inhaltsverzeichnis | |  |  |  |  |
+|---|---|---|---|---|---|---|
+| 1 |  |  |  |  | Einführung................................................................................................................................ | 5 |
+| 1.1 | Geltungsbereich |  |  |  | ..............................................................................................................................................5 | |
+| 1.2 Abgrenzung |  |  |  |  | .......................................................................................................................................................5 | |
+| 2 Arten | der übermittelten |  | Nachrichten |  | .......................................................................... | 6 |
+| 3 | Anforderungen an | die |  |  | Software-Systeme................................................................... | 7 |
+| 3.1 | Übergreifende | Anforderungen | an | 1ClickHybridDRG | .....................................................................7 | |
+| 3.2 | Anforderungen an | 1ClickHybridDRG-Lieferung | |  | ...............................................................................8 | |
+| 3.2.1 Anforderungen | an den |  |  |  | Nachrichten-Header...........................................................................................................................8 | |
+| 3.2.2 Anforderungen | an den | Nachrichten-Body |  |  | ...............................................................................................................................8 | |
+| 3.2.3 Anforderungen | an die Anhänge |  |  |  | ....................................................................................................................................................8 | |
+| 3.2.4 Beispiel | für eine |  |  |  | 1ClickHybridDRG-Lieferung..................................................................................................................... | 11 |
+| 3.3 | Anforderungen an | die |  |  | 1ClickHybridDRG-Eingangsbestätigung.............................................. | 12 |
+| 3.3.1 Anforderungen | an den |  |  |  | Nachrichten-Header........................................................................................................................ | 12 |
+| 3.3.2 Anforderungen | an den | Nachrichten-Body |  |  | ............................................................................................................................ | 12 |
+| 3.3.3 Anforderungen | an die Anhänge |  |  |  | ................................................................................................................................................. | 12 |
+| 3.3.4 Beispiel | für eine |  |  |  | 1ClickHybridDRG-Eingangsbestätigung.............................................................................................. | 13 |
+| 3.4 | Anforderungen an | die | 1ClickHybridDRG-Rückmeldung | | ............................................................ | 14 |
+| 3.4.1 Allgemeine | Anforderungen | an die |  | 1ClickHybridDRG-Rückmeldung | ........................................................................ | 14 |
+| 3.4.2 Anforderungen | an den |  |  |  | Nachrichten-Header........................................................................................................................ | 14 |
+| 3.4.3 Anforderungen | an den | Nachrichten-Body |  |  | ............................................................................................................................ | 14 |
+| 3.4.4 Anforderungen | an die Anhänge |  |  |  | ................................................................................................................................................. | 14 |
+| 3.4.5 Beispiel | für eine | 1ClickHybridDRG-Rückmeldung |  |  | ............................................................................................................ | 16 |
+| 3.5 | Anforderungen zum | Versand | und Empfang | von | Nachrichten | ................................................... 17 |
+| 3.5.1 | Anforderungen an die | Software-Systeme | der |  | Leistungserbringer.............................................................................. | 17 |
+| 3.5.2 Anforderungen | an die | Software-Systeme der | KVen |  | ......................................................................................................... | 20 |
+| 4 |  |  |  |  | Referenzen............................................................................................................................ | 22 |
+| 5 |  |  |  |  | Anhang.................................................................................................................................... | 23 |
+| 5.1 Zulässige | Datenpakete |  |  |  | .............................................................................................................................. | 23 |
+| 5.1.1 Zulässige | Datenpakete der |  |  |  | 1ClickHybridDRG-Lieferung............................................................................................... | 23 |
+| Funktion | 1: 1ClickHybridDRG | als |  |  | Testabrechnung........................................................................................................... | 23 |
+| Funktion | 2: 1ClickHybridDRG | als | Echtabrechnung |  | .......................................................................................................... | 23 |
+| 5.1.2 Zulässige | Datenpakete | der |  |  | 1ClickHybridDRG-Eingangsbestätigung........................................................................ | 23 |
 
-1 Einführung................................................................................................................................ 5 1.1 Geltungsbereich ..............................................................................................................................................5
-
-1.2 Abgrenzung .......................................................................................................................................................5
-
-2 Arten der übermittelten Nachrichten .......................................................................... 6
-
-3 Anforderungen an die Software-Systeme................................................................... 7 3.1 Übergreifende Anforderungen an 1ClickHybridDRG .....................................................................7
-
-3.2 Anforderungen an 1ClickHybridDRG-Lieferung ...............................................................................8
-
-3.2.1 Anforderungen an den Nachrichten-Header...........................................................................................................................8
-
-3.2.2 Anforderungen an den Nachrichten-Body ...............................................................................................................................8
-
-3.2.3 Anforderungen an die Anhänge ....................................................................................................................................................8
-
-3.2.4 Beispiel für eine 1ClickHybridDRG-Lieferung..................................................................................................................... 11
-
-3.3 Anforderungen an die 1ClickHybridDRG-Eingangsbestätigung.............................................. 12
-
-3.3.1 Anforderungen an den Nachrichten-Header........................................................................................................................ 12
-
-3.3.2 Anforderungen an den Nachrichten-Body ............................................................................................................................ 12
-
-3.3.3 Anforderungen an die Anhänge ................................................................................................................................................. 12
-
-3.3.4 Beispiel für eine 1ClickHybridDRG-Eingangsbestätigung.............................................................................................. 13
-
-3.4 Anforderungen an die 1ClickHybridDRG-Rückmeldung ............................................................ 14
-
-3.4.1 Allgemeine Anforderungen an die 1ClickHybridDRG-Rückmeldung ........................................................................ 14
-
-3.4.2 Anforderungen an den Nachrichten-Header........................................................................................................................ 14
-
-3.4.3 Anforderungen an den Nachrichten-Body ............................................................................................................................ 14
-
-3.4.4 Anforderungen an die Anhänge ................................................................................................................................................. 14
-
-3.4.5 Beispiel für eine 1ClickHybridDRG-Rückmeldung ............................................................................................................ 16
-
-3.5 Anforderungen zum Versand und Empfang von Nachrichten ................................................... 17
-
-3.5.1 Anforderungen an die Software-Systeme der Leistungserbringer.............................................................................. 17
-
-3.5.2 Anforderungen an die Software-Systeme der KVen ......................................................................................................... 20
-
-4 Referenzen............................................................................................................................ 22
-
-5 Anhang.................................................................................................................................... 23 5.1 Zulässige Datenpakete .............................................................................................................................. 23
-
-5.1.1 Zulässige Datenpakete der 1ClickHybridDRG-Lieferung............................................................................................... 23
-
-Funktion 1: 1ClickHybridDRG als Testabrechnung........................................................................................................... 23
-
-Funktion 2: 1ClickHybridDRG als Echtabrechnung .......................................................................................................... 23
-
-5.1.2 Zulässige Datenpakete der 1ClickHybridDRG-Eingangsbestätigung........................................................................ 23
-
+Einführung................................................................................................................................ 5 Geltungsbereich ..............................................................................................................................................5 Abgrenzung .......................................................................................................................................................5 Arten der übermittelten Nachrichten .......................................................................... 6 Anforderungen an die Software-Systeme................................................................... 7 Übergreifende Anforderungen an 1ClickHybridDRG .....................................................................7 Anforderungen an 1ClickHybridDRG-Lieferung ...............................................................................8 3.2.1 Anforderungen an den Nachrichten-Header...........................................................................................................................8 3.2.2 Anforderungen an den Nachrichten-Body ...............................................................................................................................8 3.2.3 Anforderungen an die Anhänge ....................................................................................................................................................8 3.2.4 Beispiel für eine 1ClickHybridDRG-Lieferung..................................................................................................................... 11 Anforderungen an die 1ClickHybridDRG-Eingangsbestätigung.............................................. 12 3.3.1 Anforderungen an den Nachrichten-Header........................................................................................................................ 12 3.3.2 Anforderungen an den Nachrichten-Body ............................................................................................................................ 12 3.3.3 Anforderungen an die Anhänge ................................................................................................................................................. 12 3.3.4 Beispiel für eine 1ClickHybridDRG-Eingangsbestätigung.............................................................................................. 13 Anforderungen an die 1ClickHybridDRG-Rückmeldung ............................................................ 14 3.4.1 Allgemeine Anforderungen an die 1ClickHybridDRG-Rückmeldung ........................................................................ 14 3.4.2 Anforderungen an den Nachrichten-Header........................................................................................................................ 14 3.4.3 Anforderungen an den Nachrichten-Body ............................................................................................................................ 14 3.4.4 Anforderungen an die Anhänge ................................................................................................................................................. 14 3.4.5 Beispiel für eine 1ClickHybridDRG-Rückmeldung ............................................................................................................ 16 Anforderungen zum Versand und Empfang von Nachrichten ................................................... 17 3.5.1 Anforderungen an die Software-Systeme der Leistungserbringer.............................................................................. 17 3.5.2 Anforderungen an die Software-Systeme der KVen ......................................................................................................... 20 Referenzen............................................................................................................................ 22 Anhang.................................................................................................................................... 23 Zulässige Datenpakete .............................................................................................................................. 23 5.1.1 Zulässige Datenpakete der 1ClickHybridDRG-Lieferung............................................................................................... 23 Funktion 1: 1ClickHybridDRG als Testabrechnung........................................................................................................... 23 Funktion 2: 1ClickHybridDRG als Echtabrechnung .......................................................................................................... 23 5.1.2 Zulässige Datenpakete der 1ClickHybridDRG-Eingangsbestätigung........................................................................ 23
 
 ---
 
@@ -112,6 +88,8 @@ Lizenzbestimmungen
 
 ---
 
+1ClickHybridDRG V1.0
+
 **1 Einführung** Dieses Dokument dient der Spezifikation der Inhalte der Anwendung 1ClickHybridDRG für die Übermittlung  von Nachrichten durch den sicheren Kommunikationsdienst KIM (Kommunikation im Medizinwesen).
 
 Mittels des Anwendungsdienstes 1ClickHybridDRG können berechtigte Vertragsärztinnen und Vertragsärzte
@@ -124,10 +102,12 @@ Kassenärztliche Vereinigung (KV) senden. Das funktioniert „per Klick“, also
 
 **1.2 Abgrenzung** Übergreifende Anforderungen an die Transportebene, wie die Signatur und Verschlüsselung der Nachricht,  sowie der Transportweg sind nicht Bestandteil der vorliegenden Spezifikation. Die Detailinformationen zur  Transportebene finden sich in den mitgeltenden Dokumenten, die an den entsprechenden Stellen referenziert  werden.
 
-5 24
+Seite 5 von 24
 
 
 ---
+
+1ClickHybridDRG V1.0
 
 **2 Arten der übermittelten Nachrichten** Für die Anwendung 1ClickHybridDRG sind drei Arten von Nachrichten spezifiziert:
 
@@ -147,10 +127,14 @@ einer versendeten 1ClickHybridDRG-Lieferung und ist anhand der Dienstkennung  "1
 
 - Begleitdatei (verpflichtend; dient als Bezug zum eingesendeten Datenpaket)
 
-- eine oder mehrere Dateien im PDF-Format 6 24
+- eine oder mehrere Dateien im PDF-Format
+
+Seite 6 von 24
 
 
 ---
+
+1ClickHybridDRG V1.0
 
 **3 Anforderungen an die Software-Systeme** Für die Anwendung 1ClickHybridDRG wird zwischen unterschiedlichen Software-Systemen unterschieden:
 
@@ -178,10 +162,12 @@ versenden.
 
 1ClickHybridDRG-Nachrichten **DÜRFEN KEIN** Header-Element CC  enthalten.
 
-7 24
+Seite 7 von 24
 
 
 ---
+
+1ClickHybridDRG V1.0
 
 **3.2 Anforderungen an 1ClickHybridDRG-Lieferung**
 
@@ -233,7 +219,7 @@ Die Abrechnung kann in folgende Arten unterteilt werden:
 
 - Falls die Testabrechnung von einer KV angeboten wird, können Testabrechnungen jederzeit an  die zuständige KV gesendet werden.
 
-8 24
+Seite 8 von 24
 
 
 ---
@@ -270,13 +256,15 @@ Die 1ClickHybridDRG-Lieferung **DARF KEINE** weiteren Anhänge außer der KVDT-A
 
 (Satzart Hybrid-DRG) und der Begleitdatei enthalten.
 
+Seite 1ClickHybridDRG V1.0
+
 "ABRECHNUNG" befüllt
 
 befüllt werden.
 
 befüllt werden.
 
-9 24
+9 von 24
 
 
 ---
@@ -296,6 +284,8 @@ Begleitdatei
 KVDT-Abrechnungsdatei (Satzart  Hybrid-DRG)
 
 **1 Tabelle: Metainformationen** Hinweis: Die Angabe des Parameters "filename" in Content-Disposition ist optional. Wird "filename" jedoch  angegeben, muss dieser mit dem Wert in "name" im Parameter Content-Type übereinstimmen.
+
+Seite
 
 Content-Disposition
 
@@ -319,7 +309,7 @@ iname>"
 
 base64
 
-base64
+base64 1ClickHybridDRG V1.0
 
 Content-Type
 
@@ -327,7 +317,7 @@ Content-Type
 
 attachment
 
-attachment 10 24
+attachment 10 von 24
 
 
 ---
@@ -344,7 +334,9 @@ XJ6dG51bW1lci9CU05SOiAwMTAxMDAzMDAgICAgICAgICAgICAgIA0KRXJzdGVsbHVuZ3Nk ...
 
 --------------080807020509080601050908--
 
-11 24
+Seite 1ClickHybridDRG V1.0
+
+11 von 24
 
 
 ---
@@ -375,35 +367,51 @@ Die Anforderungen an den Nachrichten-Body sind in [SPKA] beschrieben.
 
 Die 1ClickHybridDRG-Eingangsbestätigung enthält keine Anhänge.
 
+Seite
+
 **MUSS** genau den
 
 " aufweisen.
 
 1ClickHybridDRG-
 
-12 24
+1ClickHybridDRG V1.0
+
+12 von 24
 
 
 ---
 
-3.3.4 Beispiel für eine 1ClickHybridDRG-Eingangsbestätigung
+| 3.3.4 | Beispiel für | eine | 1ClickHybridDRG-Eingangsbestätigung |
+|---|---|---|---|
+| Date: | Mon, 24 Jun | 2024 | 10:30:37 +0100 |
+| From: |  | KV123@xyz.kim.telematik |  |
+| To: | ArztABC@xyz.kim.telematik | |  |
+| Message-ID: |  | <Message-ID> |  |
+| Subject: |  |  | 1ClickHybridDRG-Eingangsbestaetigung |
+| In-Reply-To: |  | <Original-Message-ID> | |
+|  | X-KIM-Dienstkennung: |  | 1ClickHybridDRG;Eingangsbestaetigung;V1.0 |
+|  | X-KIM-Sendersystem: |  | Beispiel-KV;V20.21 |
+| Content-Type: | | multipart/report; | report-type=disposition-notification; |
+|  |  |  | boundary="--------------mdn050609000308010900000100" |
+|  |  | --------------mdn050609000308010900000100 | |
+| Content-Type: | | text/plain; | charset=utf-8 |
+|  | Content-Transfer-Encoding: | | 8bit |
+|  | <menschenlesbarer | Teil> |  |
+|  |  | --------------mdn050609000308010900000100 | |
+| Content-Type: | |  | message/disposition-notification |
+|  | Original-Message-ID: |  | <Original-Message-ID> |
+| Disposition: |  |  | automatic-action/MDN-sent-automatically;displayed |
+|  |  | --------------mdn050609000308010900000100-- | |
 
-Date: Mon, 24 Jun 2024 10:30:37 +0100 From: [KV123@xyz.kim.telematik](mailto:KV123@xyz.kim.telematik) To: [ArztABC@xyz.kim.telematik](mailto:ArztABC@xyz.kim.telematik) Message-ID: <Message-ID> Subject: 1ClickHybridDRG-Eingangsbestaetigung In-Reply-To: <Original-Message-ID> X-KIM-Dienstkennung: 1ClickHybridDRG;Eingangsbestaetigung;V1.0 X-KIM-Sendersystem: Beispiel-KV;V20.21 Content-Type: multipart/report; report-type=disposition-notification; boundary="--------------mdn050609000308010900000100"
+Seite 1ClickHybridDRG V1.0
 
---------------mdn050609000308010900000100 Content-Type: text/plain; charset=utf-8 Content-Transfer-Encoding: 8bit
-
-<menschenlesbarer Teil>
-
---------------mdn050609000308010900000100 Content-Type: message/disposition-notification
-
-Original-Message-ID: <Original-Message-ID> Disposition: automatic-action/MDN-sent-automatically;displayed
-
---------------mdn050609000308010900000100--
-
-13 24
+3.3.4 Beispiel für eine 1ClickHybridDRG-Eingangsbestätigung Date: Mon, 24 Jun 2024 10:30:37 +0100 From: KV123@xyz.kim.telematik To: ArztABC@xyz.kim.telematik Message-ID: <Message-ID> Subject: 1ClickHybridDRG-Eingangsbestaetigung In-Reply-To: <Original-Message-ID> X-KIM-Dienstkennung: 1ClickHybridDRG;Eingangsbestaetigung;V1.0 X-KIM-Sendersystem: Beispiel-KV;V20.21 Content-Type: multipart/report; report-type=disposition-notification; Content-Type: text/plain; charset=utf-8 Content-Transfer-Encoding: 8bit <menschenlesbarer Teil> Content-Type: message/disposition-notification Original-Message-ID: <Original-Message-ID> Disposition: automatic-action/MDN-sent-automatically;displayed13 von 24
 
 
 ---
+
+1ClickHybridDRG V1.0
 
 **3.4 Anforderungen an die 1ClickHybridDRG-Rückmeldung**
 
@@ -459,7 +467,7 @@ Anmerkung:
 
 - Der in der Begleitdatei enthaltene GUID (Global Unique Identifier) dient der eindeutigen Zuordnung  zwischen versendeter 1ClickHybridDRG-Lieferung und zugehöriger 1ClickHybridDRG-Rückmeldung.
 
-14 24
+Seite 14 von 24
 
 
 ---
@@ -484,6 +492,8 @@ PDF-Datei(en)
 
 **2 Tabelle: Metainformationen** Hinweis: Die Angabe des Parameters "filename" in Content-Disposition ist optional. Wird "filename" jedoch  angegeben, muss dieser mit dem Wert in "name" im Parameter Content-Type übereinstimmen.
 
+Seite
+
 **KANN** ein oder mehrere MIME-Segmente mit je einer PDF-Datei
 
 die in Tabelle 2 aufgelisteten Metainformationen (
@@ -506,7 +516,7 @@ name="<dateiname>"
 
 base64
 
-base64
+base64 1ClickHybridDRG V1.0
 
 Content-Type
 
@@ -514,10 +524,12 @@ Content-Type
 
 attachment
 
-attachment 15 24
+attachment 15 von 24
 
 
 ---
+
+1ClickHybridDRG V1.0
 
 3.4.5 Beispiel für eine 1ClickHybridDRG-Rückmeldung
 
@@ -525,10 +537,12 @@ Content-Type: multipart/mixed;boundary="------------080807020509080601050908" MI
 
 This is a multi-part message in MIME format.  --------------080807020509080601050908 Content-Type: application/xml; name="begleitdatei.xml" Content-Transfer-Encoding: base64 Content-Disposition: attachment; filename="begleitdatei.xml"  PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4 ...  --------------080807020509080601050908 Content-Type: application/pdf; name="Protokoll.pdf" Content-Transfer-Encoding: base64 Content-Disposition: attachment; filename="Protokoll.pdf"  XJ6dG51bW1lci9CU05SOiAwMTAxMDAzMDAgICAgICAgICAgICAgIA0KRXJzdGVsbHVuZ3Nk YXR1bTogMTguMDkuMjAxNSAxMTowNjowMSAgIA0KUGFrZXQgMS8xICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgIA0KDQoqWEtNKg0KMS4yNiAgDQoxICAgIA0KMSAgICANCjcgDQox DQowDQog..  --------------080807020509080601050908--
 
-16 24
+Seite 16 von 24
 
 
 ---
+
+1ClickHybridDRG V1.0
 
 **3.5 Anforderungen zum Versand und Empfang von Nachrichten**
 
@@ -582,10 +596,12 @@ Anmerkung:
 
 - Konkrete Anforderungen zur Anzeige sind in [1HDRG0818] definiert.
 
-17 24
+Seite 17 von 24
 
 
 ---
+
+1ClickHybridDRG V1.0
 
 **[1HDRG0814]**
 
@@ -635,7 +651,7 @@ Anmerkung:
 
 - Die Information muss in geeigneter Form erfolgen.
 
-18 24
+Seite 18 von 24
 
 
 ---
@@ -672,14 +688,18 @@ Anmerkung:
 
 - Die Anzeige muss in geeigneter Form erfolgen.
 
+Seite 1ClickHybridDRG V1.0
+
 **MUSS** das Software-
 
 **KANN** das Software-
 
-19 24
+19 von 24
 
 
 ---
+
+1ClickHybridDRG V1.0
 
 3.5.2 Anforderungen an die Software-Systeme der KVen
 
@@ -741,10 +761,14 @@ Es obliegt der jeweiligen KV, selbst festzulegen:
 
 - Prüfung der Inhalte: Prüfung durch das KVDT-Prüfmodul der KBV, zusätzlich Prüfung durch das  KV-Regelwerk und der Hybrid-DRG-Abrechnung
 
-3. ob und welche Prüfungen bzgl. der Begleitdatei erfolgen: 20 24
+3. ob und welche Prüfungen bzgl. der Begleitdatei erfolgen:
+
+Seite 20 von 24
 
 
 ---
+
+1ClickHybridDRG V1.0
 
 - XSD-Validierung
 
@@ -754,7 +778,7 @@ Abhängig vom Verarbeitungsprozess können dabei Fehler auftreten, die dem Absen
 
 - die Prüfungsergebnisse nach jedem Verarbeitungsschritt in Form der 1ClickHybridDRG-Rückmeldung  versenden.
 
-21 24
+Seite 21 von 24
 
 
 ---
@@ -777,7 +801,9 @@ SDKVCA/
 
 Anwendungen
 
-[https://update.kbv.de/ita-](https://update.kbv.de/ita-) 22 24
+Seite 1ClickHybridDRG V1.0
+
+[https://update.kbv.de/ita-](https://update.kbv.de/ita-) 22 von 24
 
 
 ---
@@ -822,7 +848,9 @@ Die Fachliche Rückmeldung zu einer Testabrechnung hat mindestens die Begleitdat
 
 Sie wird bei den folgenden Funktionen versendet: - Funktion 1
 
-23 24
+Seite 1ClickHybridDRG V1.0
+
+23 von 24
 
 
 ---
@@ -835,4 +863,6 @@ Sie wird bei den folgenden Funktionen versendet.
 
 - Funktion 2
 
-24 24
+Seite 1ClickHybridDRG V1.0
+
+24 von 24

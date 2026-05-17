@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 1.3. FEBRUAR 2025 VERSION: 2.49 DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  13. FEBRUAR 2025  VERSION: 2.49 DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # ANFORDERUNGSKATALOG EDMP
@@ -198,21 +198,21 @@ DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 2.49 | 1.3.02.2026 | KBV | Einführung eDMP Adipositas –    Anpassung P1-15 und P4-20 durch  Anpassung der Anforderungen KP2-  Anpassung der Anforderung KP1-48  Anpassung der möglichen  DMP-Kennzeichen (Abschnitt 3.3)  Anpassung der Anforderung P1-50  Aufnahme der Anforderung P1-42   Redaktionelle Anpassungen | Plausibilitätsänderung | 10, 11, 11, 12 31, 34 45, 45, 12, 71   14, 71   18, 40    29  77   29  18  alle |
+| 2.49 | 13.02.2026 | KBV | Einführung eDMP Adipositas –        Anpassung P1-15 und P4-20 durch    Anpassung der Anforderungen KP2-   Anpassung der Anforderung KP1-48    Anpassung der möglichen   DMP-Kennzeichen (Abschnitt 3.3)    Anpassung der Anforderung P1-50    Aufnahme der Anforderung P1-42     Redaktionelle Anpassungen | Plausibilitätsänderung | 10, 11,  11, 12  31, 34  45, 45,  12, 71     14, 71      18, 40        29    77      29    18    alle |
 | 2.48 | 15.05.2025 | KBV | Anpassung der Anforderung KP2-20 |  | 53 |
-| 2.47 | 15.11.2024 | KBV | Aufnahme der Anforderung O4-42   Anpassung der folgenden KP1-48 P1-15 KP1-22 P4-20  Redaktionelle Anpassungen | Aufnahme von KIM als  Änderungen der  Redaktionelle | 60  29 14 9 71 |
-| 2.46 | 15.08.2024 | KBV | Anpassung der folgenden KP2-210  KP2-310 KP2-410 KP1-48 P1-47 P1-101 | Redaktionelle | 18 22 24 29 40 50 |
+| 2.47 | 15.11.2024 | KBV | Aufnahme der Anforderung O4-42      Anpassung der folgenden  KP1-48  P1-15  KP1-22  P4-20    Redaktionelle Anpassungen | Aufnahme von KIM als    Änderungen der    Redaktionelle | 60    29  14  9  71 |
+| 2.46 | 15.08.2024 | KBV | Anpassung der folgenden  KP2-210   KP2-310  KP2-410  KP1-48  P1-47  P1-101 | Redaktionelle | 18  22  24  29  40  50 |
 |  |  |  |  |  |  |
-| 2.49 1.3.02.2026 KBV Einführung eDMP Adipositas –    Anpassung P1-15 und P4-20 durch | Anpassung der Anforderungen KP2-  Anpassung der Anforderung KP1-48  Anpassung der möglichen | Anpassung der Anforderung P1-50 Aufnahme der Anforderung P1-42   Redaktionelle Anpassungen      Plausibilitätsänderung 10, 11, 11, 12 | | | |
-| 31, 34 |  |  | 45, 45, 12, 71   14, 71 | 18, 40    29 | 77   29 18  alle 15.05.2025 KBV Anpassung der Anforderung KP2-20  53 15.11.2024 |
-|  | Anpassung der folgenden | KP1-48 | P1-15 KP1-22 P4-20 |  | Aufnahme von KIM als  Änderungen der  Redaktionelle 60 |
-| 29 |  | 14 | 9 71 2.46 15.08.2024 KBV | Anpassung der folgenden KP2-210  KP2-310 KP2-410 KP1-48 P1-47 P1-101 Redaktionelle | 18 22 24 29 40 50 Die Änderungen vom 13.02.2026 (Version 2.49) treten zum |
+| 2.49  13.02.2026  KBV  Einführung eDMP Adipositas –        Anpassung P1-15 und P4-20 durch | Anpassung der Anforderungen KP2-   Anpassung der Anforderung KP1-48    Anpassung der möglichen | Anpassung der Anforderung P1-50  Aufnahme der Anforderung P1-42     Redaktionelle Anpassungen            Plausibilitätsänderung  10, 11,  11, 12 | | | |
+| 31, 34 |  |  | 45, 45,  12, 71     14, 71 | 18, 40        29 | 77      29  18    alle  15.05.2025 KBV  Anpassung der Anforderung KP2-20    53  15.11.2024 |
+|  | Anpassung der folgenden | KP1-48 | P1-15  KP1-22  P4-20 |  | Aufnahme von KIM als    Änderungen der    Redaktionelle  60 |
+| 29 |  | 14 | 9  71  2.46  15.08.2024 KBV | Anpassung der folgenden  KP2-210   KP2-310  KP2-410  KP1-48  P1-47  P1-101  Redaktionelle | 18  22  24  29  40  50  Die Änderungen vom 13.02.2026 (Version 2.49) treten zum |
 |  |  |  |  |  |  |
-| 2.49 1.3.02.2026 KBV Einführung eDMP Adipositas –    Anpassung P1-15 und P4-20 durch | Anpassung der Anforderungen KP2- | Anpassung der Anforderung KP1-48  Anpassung der möglichen  DMP-Kennzeichen (Abschnitt 3.3)  Anpassung der Anforderung P1-50  Aufnahme der Anforderung P1-42  Redaktionelle Anpassungen       10, 11, 11, 12 | | | |
-| 31, 34 |  |  | 45, 45, 12, 71 |  | 14, 71   18, 40    29  77  29 |
+| 2.49  13.02.2026  KBV  Einführung eDMP Adipositas –        Anpassung P1-15 und P4-20 durch | Anpassung der Anforderungen KP2- | Anpassung der Anforderung KP1-48    Anpassung der möglichen   DMP-Kennzeichen (Abschnitt 3.3)    Anpassung der Anforderung P1-50    Aufnahme der Anforderung P1-42   Redaktionelle Anpassungen              10, 11,  11, 12 | | | |
+| 31, 34 |  |  | 45, 45,  12, 71 |  | 14, 71      18, 40        29    77    29 |
 |  | alle |  |  | 2.48 | 15.05.2025 KBV |
 |  | 53 |  |  |  | 15.11.2024 |
-|  | Anpassung der folgenden | KP1-48 | P1-15 KP1-22 P4-20  Redaktionelle Anpassungen Aufnahme von KIM als |  | Redaktionelle 60  29 14 71 2.46 15.08.2024 KBV Anpassung der folgenden |
+|  | Anpassung der folgenden | KP1-48 | P1-15  KP1-22  P4-20    Redaktionelle Anpassungen  Aufnahme von KIM als |  | Redaktionelle  60    29  14  71  2.46  15.08.2024 KBV  Anpassung der folgenden |
 | KP2-410 | P1-47 | P1-101 | Redaktionelle |  |  |
 |  |  | 18 |  |  | 24 |
 |  | 40 |  |  | 50 | Die Änderungen vom 13.02.2026 (Version 2.49) treten zum |
@@ -223,21 +223,21 @@ DOKUMENTENHISTORIE
 
 |  |  |  |  |  |  |
 |---|---|---|---|---|---|
-|  |  |  | Ergänzung einer zu  Anpassung der möglichen  DMP-Kennzeichen (Abschnitt 3.3)    Nähere   68 71 | 23    53 | 77 2.45 15.01.2024 KBV Anpassung der P1-15 an die COPD-  Streichung der Anforderung KP1-42   Überarbeitung der Anforderung KP2-  Aufnahme der Anforderung KP2-310   Aufnahme der Anforderung KP2-310    Anpassung der Anforderung P1-100   Überführung in    Nähere Nähere   14     21 |
+|  |  |  | Ergänzung einer zu    Anpassung der möglichen   DMP-Kennzeichen (Abschnitt 3.3)        Nähere      68  71 | 23        53 | 77  2.45  15.01.2024 KBV  Anpassung der P1-15 an die COPD-    Streichung der Anforderung KP1-42      Überarbeitung der Anforderung KP2-   Aufnahme der Anforderung KP2-310      Aufnahme der Anforderung KP2-310        Anpassung der Anforderung P1-100      Überführung in        Nähere  Nähere      14          21 |
 |  |  |  |  |  |  |
-|  |  |  | 2.44 25.10.2023 KBV Anpassung der Anforderung P1-50  Verbesserung der Formulierung bzw. | 29  17, 40, | 62 2.43 KBV Redaktionelle Korrekturen |
-|  |  |  |  |  | 8, 9, 14, 15, 16, 17, 25, 29, |
+|  |  |  | 2.44  25.10.2023 KBV  Anpassung der Anforderung P1-50    Verbesserung der Formulierung bzw. | 29    17, 40, | 62  2.43  KBV  Redaktionelle Korrekturen |
+|  |  |  |  |  | 8, 9,  14, 15,  16, 17,  25, 29, |
 | Version | Datum | Autor | Änderung | Begründung | Seite |
-| P2-50 P4-20  Aufnahme der Anforderung KP2-320    Ergänzung einer zu  Anpassung der möglichen  DMP-Kennzeichen (Abschnitt 3.3) | Nähere | 68 71  23    53    77 | | | |
-| 2.45 | 15.01.2024 | KBV | Anpassung der P1-15 an die COPD-  Streichung der Anforderung KP1-42   Überarbeitung der Anforderung KP2-  Aufnahme der Anforderung KP2-310    Aufnahme der Anforderung KP2-310    Anpassung der Anforderung P1-100 | Überführung in    Nähere  Nähere | 14   16   18, 20, 21  22    24    62 |
-| 2.44 | 25.10.2023 | KBV | Anpassung der Anforderung P1-50  Verbesserung der Formulierung bzw. |  | 29  17, 40, 62 |
-| 2.43 | 26.04.2023 | KBV | Redaktionelle Korrekturen          Anpassung an die DM1 & 2 |  | 8, 9, 12, 13, 14, 15, 16, 17, 17, 15, 25, 29, 40, 44, 47, 60, 63, 69, 79  18, 20, 21, 41, 46, 71 |
+| P2-50  P4-20    Aufnahme der Anforderung KP2-320        Ergänzung einer zu    Anpassung der möglichen   DMP-Kennzeichen (Abschnitt 3.3) | Nähere | 68  71    23        53        77 | | | |
+| 2.45 | 15.01.2024 | KBV | Anpassung der P1-15 an die COPD-    Streichung der Anforderung KP1-42      Überarbeitung der Anforderung KP2-   Aufnahme der Anforderung KP2-310        Aufnahme der Anforderung KP2-310        Anpassung der Anforderung P1-100 | Überführung in        Nähere    Nähere | 14      16      18, 20,  21    22        24        62 |
+| 2.44 | 25.10.2023 | KBV | Anpassung der Anforderung P1-50    Verbesserung der Formulierung bzw. |  | 29    17, 40,  62 |
+| 2.43 | 26.04.2023 | KBV | Redaktionelle Korrekturen                   Anpassung an die DM1 & 2 |  | 8, 9,  12, 13,  14, 15,  16, 17,  17, 15,  25, 29,  40, 44,  47, 60,  63, 69,  79    18, 20,  21, 41,  46, 71 |
 | Version | Datum | Autor | Änderung | Begründung | Seite |
-| P2-50 P4-20  Aufnahme der Anforderung KP2-320    Ergänzung einer zu  Anpassung der möglichen  DMP-Kennzeichen (Abschnitt 3.3) |  | Nähere   68 71  23       77 | | | |
-| 2.45 | 15.01.2024 | KBV | Anpassung der P1-15 an die COPD-  Streichung der Anforderung KP1-42   Überarbeitung der Anforderung KP2- | Aufnahme der Anforderung KP2-310 | Aufnahme der Anforderung KP2-310    Anpassung der Anforderung P1-100    Überführung in    Nähere  Nähere  14  16 |
+| P2-50  P4-20    Aufnahme der Anforderung KP2-320        Ergänzung einer zu    Anpassung der möglichen   DMP-Kennzeichen (Abschnitt 3.3) |  | Nähere      68  71    23              77 | | | |
+| 2.45 | 15.01.2024 | KBV | Anpassung der P1-15 an die COPD-    Streichung der Anforderung KP1-42      Überarbeitung der Anforderung KP2- | Aufnahme der Anforderung KP2-310 | Aufnahme der Anforderung KP2-310        Anpassung der Anforderung P1-100        Überführung in        Nähere    Nähere    14    16 |
 |  | 21 |  |  |  |  |
 |  |  |  |  |  | 62 |
-| 2.44 | 25.10.2023 | KBV | Anpassung der Anforderung P1-50  Verbesserung der Formulierung bzw.  29 |  | 17, 40, 62 2.43 26.04.2023 KBV Redaktionelle Korrekturen        Anpassung an die DM1 & 2 |
+| 2.44 | 25.10.2023 | KBV | Anpassung der Anforderung P1-50    Verbesserung der Formulierung bzw.    29 |  | 17, 40,  62  2.43  26.04.2023 KBV  Redaktionelle Korrekturen               Anpassung an die DM1 & 2 |
 |  |  |  |  |  |  |
 |  |  |  |  | 12, 13, | 14, 15, |
 | 16, 17, |  |  | 17, 15, |  |  |
@@ -248,21 +248,21 @@ berücksichtigenden Anforderung aus KVDT (Abschnitt 2.2) Änderungen 210 und KP2
 
 |  |  |  |  |  |  |
 |---|---|---|---|---|---|
-|  |  | Anpassung der Anforderung O1-45 | Aktualisierung der Anforderung P1-  Aktualisierung der Anforderung P1-  Klarstellung der Anforderung P1-100 Angleichung der  64, 66      39 | 58 | 62 2.42 11.08.2022 KBV Einführung eDMP Rheumatoide    Einführung eines Barcodes PDF417  Klarstellung der Anforderungen P6-  28, 39, 41, 41, 52, 71  74    2.41 12.11.2021 |
+|  |  | Anpassung der Anforderung O1-45 | Aktualisierung der Anforderung P1-   Aktualisierung der Anforderung P1-   Klarstellung der Anforderung P1-100  Angleichung der    64, 66            39 | 58 | 62  2.42  11.08.2022 KBV  Einführung eDMP Rheumatoide        Einführung eines Barcodes PDF417    Klarstellung der Anforderungen P6-   28, 39,  41, 41,  52, 71    74        2.41  12.11.2021 |
 |  | 46 |  |  | 2.40 | 13.08.2021 KBV |
-|  |  |  | 2.39 15.02.2021 KBV Einführung des eDMP Osteoporose   Anpassung der eDMP DM1 und DM2 | Redaktionelle Anpassungen   12, 14, | 39, 41, 71, 83 39, 71 |
-|  |  | 70 | 2.38 12.02.2021 KBV | Fehlerkorrektur bei KP1  47 | 2.37 KBV Anpassung der Schnittstellenversion 14, 71 2.36 13.11.2020 KBV |
+|  |  |  | 2.39  15.02.2021 KBV  Einführung des eDMP Osteoporose      Anpassung der eDMP DM1 und DM2 | Redaktionelle Anpassungen     12, 14, | 39, 41,  71, 83  39, 71 |
+|  |  | 70 | 2.38  12.02.2021 KBV | Fehlerkorrektur bei KP1   47 | 2.37  KBV  Anpassung der Schnittstellenversion  14, 71  2.36  13.11.2020 KBV |
 | Version | Datum | Autor | Änderung | Begründung | Seite |
-| Redaktionelle Bearbeitung /     Anpassung der Anforderung O1-45  Aktualisierung der Anforderung P1-  Aktualisierung der Anforderung P1- | Klarstellung der Anforderung P1-100 Angleichung der  64, 66 | 39  58  58   62 | | | |
-| 2.42 | 11.08.2022 | KBV | Einführung eDMP Rheumatoide    Einführung eines Barcodes PDF417  Klarstellung der Anforderungen P6-  12, 14, 28, 39, | 41, 41, 52, 71  74 | 81, 82 2.41 12.11.2021 KBV Anpassung der Anforderung P1-61 46 13.08.2021 KBV Neue Pflichtfunktion P1-82  60 |
-| 2.39 | 15.02.2021 | KBV | Einführung des eDMP Osteoporose | Anpassung der eDMP DM1 und DM2 | Redaktionelle Anpassungen   12, 14, 39, 41, |
-|  |  |  | 16, 17, 39, 71 46, 47, 70 | 2.38 12.02.2021 KBV Fehlerkorrektur bei KP1  47 | 15.01.2021 KBV Anpassung der Schnittstellenversion  14, 71 2.36 13.11.2020 KBV Fehlerkorrektur der  71 |
+| Redaktionelle Bearbeitung /          Anpassung der Anforderung O1-45    Aktualisierung der Anforderung P1-   Aktualisierung der Anforderung P1- | Klarstellung der Anforderung P1-100  Angleichung der    64, 66 | 39    58    58      62 | | | |
+| 2.42 | 11.08.2022 | KBV | Einführung eDMP Rheumatoide        Einführung eines Barcodes PDF417    Klarstellung der Anforderungen P6-   12, 14,  28, 39, | 41, 41,  52, 71    74 | 81, 82  2.41  12.11.2021 KBV  Anpassung der Anforderung P1-61  46  13.08.2021 KBV  Neue Pflichtfunktion P1-82    60 |
+| 2.39 | 15.02.2021 | KBV | Einführung des eDMP Osteoporose | Anpassung der eDMP DM1 und DM2 | Redaktionelle Anpassungen     12, 14,  39, 41, |
+|  |  |  | 16, 17,  39, 71  46, 47,  70 | 2.38  12.02.2021 KBV  Fehlerkorrektur bei KP1   47 | 15.01.2021 KBV  Anpassung der Schnittstellenversion    14, 71  2.36  13.11.2020 KBV  Fehlerkorrektur der    71 |
 | Version | Datum | Autor | Änderung | Begründung | Seite |
-| Redaktionelle Bearbeitung /     Anpassung der Anforderung O1-45  Aktualisierung der Anforderung P1-  Aktualisierung der Anforderung P1-  Klarstellung der Anforderung P1-100 | Angleichung der | 64, 66      39  58   58   62 | | | |
-| 2.42 | 11.08.2022 | KBV | Einführung eDMP Rheumatoide    Einführung eines Barcodes PDF417  Klarstellung der Anforderungen P6- |  | 12, 14, 28, 39, 41, 41, 52, 71  74    81, 82 |
+| Redaktionelle Bearbeitung /          Anpassung der Anforderung O1-45    Aktualisierung der Anforderung P1-   Aktualisierung der Anforderung P1-   Klarstellung der Anforderung P1-100 | Angleichung der | 64, 66            39    58      58      62 | | | |
+| 2.42 | 11.08.2022 | KBV | Einführung eDMP Rheumatoide        Einführung eines Barcodes PDF417    Klarstellung der Anforderungen P6- |  | 12, 14,  28, 39,  41, 41,  52, 71    74        81, 82 |
 | 2.41 | 12.11.2021 | KBV | Anpassung der Anforderung P1-61 |  | 46 |
 | 2.40 | 13.08.2021 | KBV | Neue Pflichtfunktion P1-82 |  | 60 |
-| 2.39 | 15.02.2021 | KBV | Einführung des eDMP Osteoporose   Anpassung der eDMP DM1 und DM2  Redaktionelle Anpassungen |  | 12, 14, 39, 41, 71, 83 16, 17, 39, 71 46, 47, 70 |
+| 2.39 | 15.02.2021 | KBV | Einführung des eDMP Osteoporose      Anpassung der eDMP DM1 und DM2    Redaktionelle Anpassungen |  | 12, 14,  39, 41,  71, 83  16, 17,  39, 71  46, 47,  70 |
 | 2.38 | 12.02.2021 | KBV | Fehlerkorrektur bei KP1 |  | 47 |
 | 2.37 | 15.01.2021 | KBV | Anpassung der Schnittstellenversion |  | 14, 71 |
 | 2.36 | 13.11.2020 | KBV | Fehlerkorrektur der |  | 71 |
@@ -438,19 +438,19 @@ Konditionale Pflichtfunktionen sind wie folgt gekennzeichnet:
 
 | KONDITIONALE PFLICHTFUNKTION EDMP |  |
 |---|---|
-| Eindeutige Ident- Nummer z. B. | Funktionsbezeichnung |
+| Eindeutige Ident- Nummer  z. B. | Funktionsbezeichnung |
 
 Optionale Funktionen sind wie folgt gekennzeichnet:
 
 | OPTIONALE FUNKTION EDMP |  |
 |---|---|
-| Eindeutige Ident- Nummer z. B. | Funktionsbezeichnung |
+| Eindeutige Ident- Nummer  z. B. | Funktionsbezeichnung |
 
 1 Dazu zählen die DMP (Disease Management Programme) Diabetes Mellitus Typ 1, Diabetes Mellitus Typ 2, Koronare Herzkrankheit ( KHK), Asthma
 
 bronchiale, COPD, Herzinsuffizienz (HI), chronischer Rückenschmerz, Depression, Osteoporose , Rheumatoide Arthritis, Adipositas – Erwachsene und  Adipositas - Kinder und Jugendliche.
 
-Pn-nn,  P4-10 KPn-nn, KP4-10 On-nn,  O8-30
+Pn-nn,  P4-10 KPn-nn, KP4-10 On-nn,  O 8-30
 
 
 ---
@@ -473,7 +473,7 @@ der Anwender dabei unterstützt werden. Die DMP-Fallnummer muss dem Patienten ei
 
 Beachten Sie diesbezüglich auch Kapitel 2.1.15.
 
-| PFLICHTFUNKTION EDMP P1-12 | Folgedokumentationen bedürfen einer erstmaligen Dokumentation |
+| PFLICHTFUNKTION EDMP  P1-12 | Folgedokumentationen bedürfen einer erstmaligen Dokumentation |
 |---|---|
 
 Wird für einen eingeschriebenen Patienten eine Folgedokumentation angelegt, so muss die Software
@@ -486,7 +486,7 @@ Prinzipiell ist es also möglich, dass der Verlauf einer Falldokumentation mit e
 
 beginnt.
 
-| KONDITIONALE PFLICHTFUNKTION EDMP KP1-22 |  |
+| KONDITIONALE PFLICHTFUNKTION EDMP  KP1-22 |  |
 |---|---|
 
 Das System prüft bei der Anlage einer Dokumentation des eDMPs chronischer Rückenschmerz, ob bei dem  Patienten in der vorherigen Dokumentation die Beendigung der Teilnahme vereinbart wurde.
@@ -538,7 +538,7 @@ Die Anforderung muss von allen Systemen umgesetzt werden, welche das eDMP chroni
 
 | KONDITIONALE PFLICHTFUNKTION EDMP |  |
 |---|---|
-| KP1-24 | Prüfung auf Folgedokumentationen bei dem eDMP Adipositas - Erwachsene |
+| KP 1-24 | Prüfung auf Folgedokumentationen bei dem eDMP Adipositas - Erwachsene |
 
 Das System prüft bei der Anlage einer Dokumentation des eDMPs Adipositas - Erwachsene, ob bei dem
 
@@ -572,7 +572,7 @@ Die Anforderung muss von allen Systemen umgesetzt werden, welche das eDMP Adipos
 
 | KONDITIONALE PFLICHTFUNKTION EDMP |  |
 |---|---|
-| KP1-25 | Vorbelegung des Parameters „Beendigung der DMP-Teilnahme“ beim eDMP Adipositas - Erwachsene |
+| KP 1-25 | Vorbelegung des Parameters „Beendigung der DMP-Teilnahme“ beim eDMP Adipositas -  Erwachsene |
 
 Das System belegt den Parameter „Beendigung der DMP-Teilnahme“ mit dem Wert „Nein“ vor.
 
@@ -623,7 +623,7 @@ Die Anforderung muss von allen Systemen umgesetzt werden, welche das eDMP Adipos
 
 | KONDITIONALE PFLICHTFUNKTION EDMP |  |
 |---|---|
-| KP1-27 | Vorbelegung des Parameters „Beendigung der DMP-Teilnahme“ beim eDMP Adipositas - Kinder und Jugendliche |
+| KP1-27 | Vorbelegung des Parameters „Beendigung der DMP-Teilnahme“ beim eDMP Adipositas -  Kinder und Jugendliche |
 
 Das System belegt den Parameter „Beendigung der DMP
 
@@ -1200,7 +1200,7 @@ unterstützen.
 
 | KONDITIONALE PFLICHTFUNKTION EDMP |  |
 |---|---|
-| KP2-220 | Nähere Parameter-Erläuterungen bei dem eDMP Diabetes mellitus Typ 1 |
+| KP 2-220 | Nähere Parameter-Erläuterungen bei dem eDMP Diabetes mellitus Typ 1 |
 
 Das System muss sicherstellen, dass dem Anwender bei dem eDMP Diabetes mellitus Typ 1 zu spezifischen  Parametern nähere Erläuterungen zur Verfügung gestellt werden.
 
@@ -1404,9 +1404,9 @@ Ruhebeschwerden oder Beschwerden bei (normales Gehen, Ankleiden) Angina pectoris
 
 | Intensität | Statin und Dosierung |
 |---|---|
-| Niedrig (relative LDL-Reduktion < 30 %) | Lovastatin 20 mg Pravastatin 10-20 mg Simvastatin 10 mg |
-| Moderat (relative LDL-Reduktion 30 – 49 %) | Atorvastatin 10-20 mg Rosuvastatin 5-10 mg Simvastatin 20-40 mg Pravastatin 40-80 mg Lovastatin 40 mg |
-| Hoch (relative LDL- | Atorvastatin 40-80 mg Rosuvastatin 20-40 mg |
+| Niedrig (relative LDL-Reduktion < 30 %) | Lovastatin 20 mg  Pravastatin 10-20 mg  Simvastatin 10 mg |
+| Moderat (relative LDL-Reduktion 30 – 49 %) | Atorvastatin 10-20 mg  Rosuvastatin 5-10 mg  Simvastatin 20-40 mg  Pravastatin 40-80 mg  Lovastatin 40 mg |
+| Hoch (relative LDL- | Atorvastatin 40-80 mg  Rosuvastatin 20-40 mg |
 
 Tabelle 4: Übersicht Statindosierungen
 
@@ -1461,13 +1461,13 @@ Der Anwender soll bei der richtlinienkonformen Befüllung der Dokumentation unte
 
 - als Hinweis zur Anzeige gebracht werden, ohne den Workflow zu unterbrechen:
 
-| Aktueller Wert im Symptomatik – PHQ-9 Summenwert“ | Anzuzeigender Text |
+| Aktueller Wert im  Symptomatik – PHQ-9 Summenwert“ | Anzuzeigender Text |
 |---|---|
 | 0 – 4 | „Aktueller PHQ-9-Wert: Keine Symptomatik“ |
-| 5 – 9 | „Aktueller PHQ-9-Wert: Leichte |
-| 10 – 14 | „Aktueller PHQ-9-Wert: Mittelgradige |
-| 15 – 19 | „Aktueller PHQ-9-Wert: Schwere |
-| 20 – 27 | „Aktueller PHQ-9-Wert: Schwerste |
+| 5 – 9 | Symptomausprägung“ |
+| 10 – 14 | Symptomausprägung“ |
+| 15 – 19 | Symptomausprägung“ |
+| 20 – 27 | Symptomausprägung“ |
 
 Tabelle 5: Nähere Parameter-Erläuterungen Erstdokumentation Depression (Aktuelle Symptomatik – PHQ-9 Summenwert)
 
@@ -1475,25 +1475,23 @@ Tabelle 5: Nähere Parameter-Erläuterungen Erstdokumentation Depression (Aktuel
 
 - vorhergehenden verfügbaren Dokumentation berechnen.
 
-𝐖𝐖𝐖𝐖 𝐖𝐖𝐖𝐖
+۲ܑ܎܎܍ܚ܍ܖܢ
 
 - 3. Falls eine Folgedokumentation erstellt wird, muss dem Anwender nach der Erfassung des Parameters  „Aktuelle Symptomatik – PHQ-9 Summenwert“ in Abhängigkeit vom aktuellen Wert und vom
 
-- berechneten Differenzwert der folgende Text als Hinweis zur Anzeige gebracht werden, ohne den  Workflow zu unterbrechen: -
+- berechneten Differenzwert der folgende Text als Hinweis zur Anzeige gebracht werden, ohne den  Workflow zu unterbrechen:
 
-𝐯𝐯 𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯 𝐯𝐯 𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯 𝐯𝐯 𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯ü𝐠𝐠 𝐠𝐠𝐠𝐠 𝐃𝐃
+܅𝐖𝐖𝐖𝐖ܜ ܞܗ𝐯𝐯ܐ𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯܏𝐯𝐯ܐ𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯܌𝐯𝐯 ܅𝐖𝐖𝐖𝐖ܜ -
 
-𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 𝐚𝐚 𝐃𝐃
+ܞ𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯ü𝐠𝐠܊܉𝐠𝐠𝐠𝐠 ۲𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܑ𝐃𝐃ܖ
 
-𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃
+𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 ܔܔ𝐚𝐚 ۲𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܑ𝐃𝐃ܖ
 
-𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃
-
-Parameter „Aktuelle Symptomausprägung“ Symptomausprägung“ Symptomausprägung“ Symptomausprägung“
+Parameter „Aktuelle „Aktueller PHQ-9-Wert: Leichte „Aktueller PHQ-9-Wert: Mittelgradige „Aktueller PHQ-9-Wert: Schwere „Aktueller PHQ-9-Wert: Schwerste
 
 ---
 
-| Wert der aktuellen Dokumentation | Differenzwert (Wert der vorhergehenden Dokumentation minus Wert der aktuellen | Anzuzeigender Text |
+| Wert der aktuellen  Dokumentation | Differenzwert (Wert der  vorhergehenden  Dokumentation minus Wert  der aktuellen | Anzuzeigender Text |
 |---|---|---|
 | 0 – 4 | >= 5 | „Aktueller PHQ-9-Wert: Keine Symptomatik. |
 | 0 – 4 | > -5 bis < 5 | „Aktueller PHQ-9-Wert: Keine Symptomatik. |
@@ -1530,16 +1528,16 @@ Dokumentation) Relevante Verbesserung zur letzten Dokumentation“ Keine relevan
 |  |  |  |
 |  |  | Anzuzeigender Text |
 |  |  | „Aktuell in Remission” |
-| Wert der aktuellen Dokumentation | Differenzwert (Wert der vorhergehenden Dokumentation minus Wert der aktuellen Dokumentation) | Anzuzeigender Text |
+| Wert der aktuellen  Dokumentation | Differenzwert (Wert der  vorhergehenden  Dokumentation minus Wert  der aktuellen  Dokumentation) | Anzuzeigender Text |
 | 20 – 27 | >= 5 | Symptomausprägung. Relevante |
 | 20 – 27 | > -5 bis < 5 | Symptomausprägung. Keine relevante |
 | 20 – 27 | <= -5 | Symptomausprägung. Relevante |
 
-| Aktueller Wert im Parameter „Aktuelle Krankheitsaktivität - DAS-28-Wert“ | Anzuzeigender Text |
+| Aktueller Wert im Parameter „Aktuelle  Krankheitsaktivität - DAS-28-Wert“ | Anzuzeigender Text |
 |---|---|
 | < 2,6 | „Aktuell in Remission” |
 | >=2,6 bis < 3,2 | „Aktuell niedrige Krankheitsaktivität“ |
-| >=3,2 bis > 5,1 | „Aktuell moderate Krankheitsaktivität“ |
+| >=3,2 bis  > 5,1 | „Aktuell moderate Krankheitsaktivität“ |
 
 Tabelle 7: Nähere Parameter-Erläuterungen Erstdokumentation Rheumatoide Arthritis (Aktuelle Krankheitsaktivität – DAS- 28-Wert)
 
@@ -1556,9 +1554,11 @@ Tabelle 7: Nähere Parameter-Erläuterungen Erstdokumentation Rheumatoide Arthri
 
 ---
 
+ܢܖ܍ܚ܍܎܎ܑ۲
+
 - **3.** Falls eine Folgedokumentation erstellt wird, muss das System dem Anwender nach der Erfassung des  Parameters „Aktuelle Krankheitsaktivität – DAS-28-Wert“ einen Hinweistext anzeigen, ohne den  Workflow zu unterbrechen. Der Inhalt des Hinweistexts hängt vom aktuellen Parameterwert und vom  berechneten Differenzwert ab:
 
-| Aktueller Wert im Parameter „Aktuelle Krankheitsaktivität - DAS-28-Wert“ | Differenzwert (Wert der vorhergehenden Dokumentation minus Wert der aktuellen Dokumentation) | Anzuzeigender Text |
+| Aktueller Wert im  Parameter „Aktuelle  Krankheitsaktivität -  DAS-28-Wert“ | Differenzwert (Wert der  vorhergehenden  Dokumentation minus Wert  der aktuellen  Dokumentation) | Anzuzeigender Text |
 |---|---|---|
 
 < 2,6
@@ -1589,7 +1589,9 @@ Das System muss sicherstellen, dass dem Anwender bei dem eDMP Herzinsuffizienz z
 
 **Begründung:**
 
-𝐖𝐖𝐖𝐖 𝐯𝐯 𝐖𝐖𝐖𝐖
+܅𝐖𝐖𝐖𝐖ܜ ܞܗ𝐯𝐯ܐ𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯܏𝐯𝐯ܐ𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯܌𝐯𝐯 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 ܔܔ𝐚𝐚
+
+܅𝐖𝐖𝐖𝐖ܜ
 
 *Nicht relevant für den*  *anzuzeigenden Text*
 
@@ -1605,17 +1607,9 @@ Das System muss sicherstellen, dass dem Anwender bei dem eDMP Herzinsuffizienz z
 
 <= 1,2
 
-𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯 𝐯𝐯 𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯
+ܞ𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯ü𝐠𝐠܊܉𝐠𝐠𝐠𝐠 ۲𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܑ𝐃𝐃ܖ
 
-𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚
-
-𝐯𝐯 𝐚𝐚 𝐃𝐃
-
-𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯ü𝐠𝐠 𝐠𝐠𝐠𝐠 𝐃𝐃
-
-𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃
-
-𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃
+۲𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܑ𝐃𝐃ܖ
 
 „Aktuell in Remission“
 
@@ -1769,7 +1763,7 @@ Spironolacton
 
 **KONDITIONALE PFLICHTFUNKTION EDMP**
 
-**KP2-510** Nähere Parameter-Erläuterungen bei dem eDMP Adipositas - Erwachsene
+**KP 2-510** Nähere Parameter-Erläuterungen bei dem eDMP Adipositas - Erwachsene
 
 Zieldosierung 1x10 mg/d
 
@@ -1800,9 +1794,11 @@ Der Anwender soll bei der richtlinienkonformen Befüllung der Dokumentation unte
 
 - **2.** Das System muss nach jeder Angabe des Parameters „Körpergewicht“ in einer Folgedokumentation die  Differenz des Wertes des Parameters „Körpergewicht“ in der aktuellen Dokumentation zum Wert des  Parameters „Körpergewicht“ aus der vorhergehenden verfügbaren Dokumentation berechnen.
 
--  Das System muss den folgenden Text als Hinweis zur Anzeige bringen, ohne den Workflow zu  unterbrechen:
+-  Das System muss den folgenden Text als Hinweis zur Anzeige bringen, ohne den Workflow zu - unterbrechen:
 
 *„Aktueller BMI = [BMI] kg/m “*
+
+ܢܖ܍ܚ܍܎܎ܑ۲𝐃𝐃܍ܚ𝐃𝐃
 
 - a) Das System muss einen Hinweistext zur Anzeige bringen, ohne den Workflow zu unterbrechen. Der  Inhalt des Hinweistexts hängt von dem berechneten Differenzwert ab:
 
@@ -1820,29 +1816,23 @@ Tabelle 13: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Erw
 
 - **3.** Das System muss nach jeder Angabe des Parameters „Körpergewicht“ in einer Folgedokumentation die  Differenz des Wertes des Parameters „Körpergewicht“ in der aktuellen Dokumentation zum Wert des  Parametes „Körpergewicht“ aus der Erstdokumentation berechnen, sofern die Erstdokumentation im  System vorliegt.
 
-𝐃𝐃 𝐃𝐃 𝐖𝐖𝐖𝐖
-
-- **Tabelle 22**) den Body-Mass-Index (BMI) berechnen.
-
-ö𝐫𝐫 𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 ö𝐫𝐫 𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫
-
-𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 𝐤𝐤𝐤𝐤
-
-öß𝐞𝐞 𝐦𝐦)²
+۷ۻ۰
 
 *2*
 
-𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚
+𝐖𝐖𝐖𝐖 ܅𝐖𝐖𝐖𝐖ܜ 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚
 
-𝐖𝐖𝐖𝐖
+܅𝐖𝐖𝐖𝐖ܜ ܞܗ𝐯𝐯ܐ𝐯𝐯𝐯𝐯
 
-𝐚𝐚 𝐃𝐃
+- **Tabelle 22**) den Body-Mass-Index (BMI) berechnen.
 
-𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃
+۹ö𝐫𝐫ܘ𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 ܟ𝐫𝐫܋𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 𝐤𝐤𝐤𝐤
 
-𝐯𝐯 𝐯𝐯𝐯𝐯 𝐯𝐯 𝐯𝐯𝐯𝐯 𝐯𝐯 𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯ü𝐠𝐠 𝐠𝐠𝐠𝐠𝐠𝐠𝐠𝐠 𝐃𝐃
+۹𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 ö𝐫𝐫ܘ𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 öß𝐞𝐞 𝐦𝐦)²
 
-𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃
+ܔܔ𝐚𝐚 ۲𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܑ𝐃𝐃ܖ
+
+܏𝐯𝐯ܐ𝐯𝐯𝐯𝐯 ܌𝐯𝐯 ܞ𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯ü𝐠𝐠܊܉𝐠𝐠𝐠𝐠𝐠𝐠𝐠𝐠 ۲𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܑ𝐃𝐃ܖ
 
 Anzuzeigender Text
 
@@ -1855,9 +1845,9 @@ Anzuzeigender Text
 
 ---
 
-𝐃𝐃
+ܢܖ܍ܚ܍܎܎ܑ۲𝐃𝐃܍ܚ𝐃𝐃
 
-𝐃𝐃
+ܢܖ܍ܚ܍܎܎ܑ۲𝐃𝐃܍ܚ𝐃𝐃
 
 - a) Das System muss einen Hinweistext zur Anzeige bringen, ohne den Workflow zu unterbrechen. Der
 
@@ -1871,9 +1861,9 @@ Tabelle 14: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Erw
 
 | Differenzwert | Angezeigter Text |
 |---|---|
-| > 0 | „Differenz zwischen dem aktuellen Körpergewicht und dem Körpergewicht der ältesten verfügbaren Dokumentation: +[Differenzwert] kg ([Differenzwert in %] %) (Gewichtszunahme)“ |
-| < 0 | „Differenz zwischen dem aktuellen Körpergewicht und dem Körpergewicht der ältesten verfügbaren Dokumentation: [Differenzwert] kg ([Differenzwert in %] %) (Gewichtsabnahme)“ |
-| = 0 | „Differenz zwischen dem aktuellen Körpergewicht und dem Körpergewicht der ältesten verfügbaren Dokumentation: [Differenzwert] kg ([Differenzwert in %] %) (Keine Gewichtszunahme)“ |
+| > 0 | „Differenz zwischen dem aktuellen Körpergewicht und dem  Körpergewicht der ältesten verfügbaren Dokumentation:  +[Differenzwert] kg ([Differenzwert in %] %)  (Gewichtszunahme)“ |
+| < 0 | „Differenz zwischen dem aktuellen Körpergewicht und dem  Körpergewicht der ältesten verfügbaren Dokumentation:  [Differenzwert] kg ([Differenzwert in %] %)  (Gewichtsabnahme)“ |
+| = 0 | „Differenz zwischen dem aktuellen Körpergewicht und dem  Körpergewicht der ältesten verfügbaren Dokumentation:  [Differenzwert] kg ([Differenzwert in %] %) (Keine  Gewichtszunahme)“ |
 
 Tabelle 15: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Erwachsene (BMI im Vergleich zur ältesten  verfügbaren Dokumentation)
 
@@ -1887,17 +1877,17 @@ Tabelle 15: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Erw
 
 *= 0*
 
-𝐃𝐃 𝐖𝐖𝐖𝐖 𝐖𝐖𝐖𝐖
+𝐖𝐖𝐖𝐖 ܅𝐖𝐖𝐖𝐖ܜ
 
-𝐃𝐃 𝐢𝐢𝐢𝐢 % =
+܅𝐖𝐖𝐖𝐖ܜ
 
-𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚
+𝐢𝐢𝐢𝐢 % =
 
-𝐚𝐚 𝐃𝐃
+𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 ܔܔ𝐚𝐚 ۲𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܑ𝐃𝐃ܖ ܅𝐖𝐖𝐖𝐖ܜ 𝐚𝐚𝐚𝐚𝐝𝐝𝐝𝐝𝐝𝐝 ܛ
 
-𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚
+𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 ܔܔ𝐚𝐚 ۲𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܑ𝐃𝐃ܖ − ܅𝐖𝐖𝐖𝐖ܜ 𝐚𝐚𝐚𝐚𝐝𝐝𝐝𝐝𝐝𝐝 ܛ
 
-𝐚𝐚 𝐃𝐃 𝐖𝐖𝐖𝐖
+܅𝐖𝐖𝐖𝐖ܜ 𝐚𝐚𝐚𝐚𝐝𝐝𝐝𝐝𝐝𝐝 ܛ 𝐝𝐝𝐝𝐝𝐝𝐝 ۳𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄
 
 Anzuzeigender Text
 
@@ -1907,19 +1897,11 @@ Anzuzeigender Text
 
 *„Differenz zwischen dem aktuellen Körpergewicht und dem*  *Körpergewicht der Erstdokumentation: [Differenzwert] kg*  *([Differenzwert in %] %) (Keine Gewichtszunahme)“*
 
-𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃
+𝐝𝐝𝐝𝐝𝐝𝐝 ۳𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄
 
-𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃
+𝐝𝐝𝐝𝐝𝐝𝐝 ۳𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄
 
-𝐚𝐚𝐚𝐚𝐝𝐝𝐝𝐝𝐝𝐝 𝐝𝐝𝐝𝐝𝐝𝐝 𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄
-
-𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚𝐝𝐝𝐝𝐝𝐝𝐝
-
-𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚𝐝𝐝𝐝𝐝𝐝𝐝
-
-𝐝𝐝𝐝𝐝𝐝𝐝 𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄
-
-𝐝𝐝𝐝𝐝𝐝𝐝 𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄
+∗૚૙૙
 
 
 ---
@@ -1944,7 +1926,7 @@ Der Anwender soll bei der richtlinienkonformen Befüllung der Dokumentation unte
 
 - 1. Das System muss in jeder Dokumentation nach Angabe der Parameter „Körpergewicht“ und  „Körpergröße“ den Standard Deviation Score (BMI-SDS) nach der folgenden Formel berechnen:
 
-𝐒𝐒
+۷ۻ۰ ܁𝐒𝐒܁
 
 - a) Das System muss den Wert des berechneten BMI-SDS in den Parameter „BMI-SDS“ der aktuellen  Dokumentation übernehmen.
 
@@ -1964,21 +1946,25 @@ Für die verwendeten Parameter gilt:
 
 - **BMI**: Der Body-Mass-Index (BMI) berechnet sich als Quotient aus dem aktuellen Körpergewicht und der  aktuellen Körpergröße zum Quadrat
 
+۷ۻ۰
+
 - **M(t), L(t)** und** S(t)**: Die Werte für M(t), L(t) und S(t) w
 
 - **Tabelle 17 (männlich)** oder **Tabelle 18 (weiblich oder divers),**
 
-- Kinder und Jugendliche zu
+ۺ
+
+۷ۻ۰ 𝐌𝐌 𝐭𝐭
+
+ۺ 𝐭𝐭) ×
 
 𝐭𝐭
 
-𝐌𝐌 𝐭𝐭
+𝐭𝐭 - Kinder und Jugendliche zu
 
-𝐭𝐭) × 𝐭𝐭
+۹ö𝐫𝐫ܘ𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 ܟ𝐫𝐫܋𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 𝐤𝐤𝐤𝐤
 
-ö𝐫𝐫 𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 𝐤𝐤𝐤𝐤
-
-ö𝐫𝐫 𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 öß𝐞𝐞 𝐦𝐦
+۹ö𝐫𝐫ܘ𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 öß𝐞𝐞 𝐦𝐦
 
 - erden aus den geschlechtsspezifischen Tabellen -  entnommen. Dafür muss zunächst das
 
@@ -1995,7 +1981,7 @@ Für die verwendeten Parameter gilt:
 
 Das Alter wird in halbjährigen Altersstufen eingeordnet, es wird in 0,5 Schritten abgerundet.
 
-| Alter in Jahren (t) (männlich) | L | S | M |
+| Alter in Jahren (t)  (männlich) | L | S | M |
 |---|---|---|---|
 | 0,0 | 1,306 | 0,101 | 12,676 |
 | 0,5 | -0,667 | 0,084 | 16,699 |
@@ -2092,7 +2078,7 @@ Alters in Jahren (t) sind die entsprechenden Werte M, L und S aus der entspreche
 | 20,5 | -1,301 | 0,129 | 22,840 |
 | 21 | -1,272 | 0,129 | 23,057 |
 
-| Alter in Jahren (t) (weiblich oder divers) | L | S | M |
+| Alter in Jahren (t)  (weiblich oder  divers) | L | S | M |
 |---|---|---|---|
 | 0,0 | 1,339 | 0,097 | 12,583 |
 | 0,5 | -0,032 | 0,082 | 16,160 |
@@ -2194,15 +2180,15 @@ Tabelle 18: L-, S- und M-Werte von Mädchen und divers für den BMI-SDS-Wert in 
 
 - 2. Das System muss in jeder Folgedokumentation  Dokumentation zum Wert des BMI-SDS aus der vorhergehenden verfügbaren Dokumentation nach der - folgenden Formel berechnen
 
-𝐃𝐃 𝐃𝐃
+ܢܖ܍ܚ܍܎܎ܑ۲𝐃𝐃܍ܚ𝐃𝐃
 
 - a) Das System muss einen Hinweistext zur Anzeige bringen, ohne den Workflow zu unterbrechen. Der  Inhalt des Hinweistexts hängt von dem berechneten Differenzwert ab:
 
-|  | Anzuzeigender Text |
+| Differenzwert | Anzuzeigender Text |
 |---|---|
-| > 0 | „Differenz zwischen dem aktuellen BMI-SDS und dem BMI-SDS der letzten verfügbaren Dokumentation: +[Differenzwert] (Gewichtszunahme)“ |
-| > -0,20 bis <= 0 | „Differenz zwischen dem aktuellen BMI-SDS und dem BMI-SDS der letzten verfügbaren Dokumentation: [Differenzwert] (Gewichtsstabilisierung)“ |
-| <= -0,20 | „Differenz zwischen dem aktuellen BMI-SDS und dem BMI-SDS der letzten verfügbaren Dokumentation: [Differenzwert] (Klinische relevante Gewichtsabnahme, guter |
+| > 0 | „Differenz zwischen dem aktuellen BMI-SDS und  dem BMI-SDS der letzten verfügbaren  Dokumentation: +[Differenzwert]  (Gewichtszunahme)“ |
+| > -0,20 bis <= 0 | „Differenz zwischen dem aktuellen BMI-SDS und  dem BMI-SDS der letzten verfügbaren  Dokumentation: [Differenzwert]  (Gewichtsstabilisierung)“ |
+| <= -0,20 | „Differenz zwischen dem aktuellen BMI-SDS und  dem BMI-SDS der letzten verfügbaren  Dokumentation: [Differenzwert] (Klinische |
 
 Tabelle 19: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Kinder und Jugendliche (BMI-SDS im  Vergleich zur vorherigen Dokumentation)
 
@@ -2210,47 +2196,39 @@ Tabelle 19: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Kin
 
 - 3. Das System muss in jeder Folgedokumentation die Differenz des Wertes des BMI Dokumentation zum Wert des BMI berechnen, sofern die Erstdokumentation im System vorliegt.
 
-𝐃𝐃 𝐃𝐃 𝐖𝐖𝐖𝐖 𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚
+ܢܖ܍ܚ܍܎܎ܑ۲𝐃𝐃܍ܚ𝐃𝐃 𝐖𝐖𝐖𝐖 ܅𝐖𝐖𝐖𝐖ܜ 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚
 
 - a) Das System muss einen Hinweistext zur Anzeige bringen, ohne den Workflow zu unterbrechen. Der  Inhalt des Hinweistexts hängt von dem berechneten Differenzwert ab:
 
-|  | Anzuzeigender Text |
+| Differenzwert | Anzuzeigender Text |
 |---|---|
-| > 0 | „Differenz zwischen dem aktuellen BMI-SDS und dem BMI-SDS der Erstdokumentation: +[Differenzwert] (Gewichtszunahme)“ |
+| > 0 | „Differenz zwischen dem aktuellen BMI-SDS und  dem BMI-SDS der Erstdokumentation:  +[Differenzwert] (Gewichtszunahme)“ |
 |  |  |
 |  |  |
 |  |  |
 |  |  |
 
-𝐖𝐖𝐖𝐖 𝐖𝐖𝐖𝐖 𝐯𝐯𝐯𝐯
+܅𝐖𝐖𝐖𝐖ܜ ܅𝐖𝐖𝐖𝐖ܜ 𝐯𝐯𝐯𝐯ܞܗ𝐯𝐯ܐ𝐯𝐯𝐯𝐯܏𝐯𝐯ܐ𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯܌𝐯𝐯
 
 - -SDS aus der Erstdokumentation
 
-𝐚𝐚
+ܔܔ𝐚𝐚 ۲𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃
 
 - die Differenz des Wertes BMI-SDS in der aktuellen
 
-𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚
+𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 ܔܔ𝐚𝐚 ۲𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܑ𝐃𝐃ܖ
 
-𝐚𝐚 𝐃𝐃
+ܞ𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯 ü𝐠𝐠܊܉𝐠𝐠𝐠𝐠𝐠𝐠𝐠𝐠 ۲𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܑ𝐃𝐃ܖ
 
-𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃
-
-𝐯𝐯 𝐯𝐯𝐯𝐯 𝐯𝐯 𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯 𝐯𝐯 𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯 ü𝐠𝐠 𝐠𝐠𝐠𝐠𝐠𝐠𝐠𝐠 𝐃𝐃
-
-𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃
-
-𝐃𝐃
-
-𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃 - -SDS aus der aktuellen
+ܑ𝐃𝐃ܖ - -SDS aus der aktuellen
 
 - nach der folgenden Formel
 
 -
 
-𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚𝐝𝐝𝐝𝐝𝐝𝐝 𝐝𝐝𝐝𝐝𝐝𝐝 𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄
+܅𝐖𝐖𝐖𝐖ܜ 𝐚𝐚𝐚𝐚𝐝𝐝𝐝𝐝𝐝𝐝 ܛ 𝐝𝐝𝐝𝐝𝐝𝐝 ۳𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄
 
-Erfolg)“
+relevante Gewichtsabnahme, guter Erfolg)“
 
 ---
 
@@ -2258,9 +2236,9 @@ Erfolg)“
 |---|---|
 |  |  |
 | Differenzwert | Anzuzeigender Text |
-| > -0,20 bis <= 0 | „Differenz zwischen dem aktuellen BMI-SDS und dem BMI-SDS der Erstdokumentation: [Differenzwert] (Gewichtsstabilisierung)“ |
-| > -0,50 bis <= -0,20 | „Differenz zwischen dem aktuellen BMI-SDS und dem BMI-SDS der Erstdokumentation: [Differenzwert] (Klinisch relevante Gewichtsabnahme, guter Erfolg)“ |
-| <= -0,50 | „Differenz zwischen dem aktuellen BMI-SDS und dem BMI-SDS der Erstdokumentation: [Differenzwert] (Klinisch relevante Gewichtsabnahme, sehr guter |
+| > -0,20 bis <= 0 | „Differenz zwischen dem aktuellen BMI-SDS und  dem BMI-SDS der Erstdokumentation:  [Differenzwert] (Gewichtsstabilisierung)“ |
+| > -0,50 bis <= -0,20 | „Differenz zwischen dem aktuellen BMI-SDS und  dem BMI-SDS der Erstdokumentation:  [Differenzwert] (Klinisch relevante  Gewichtsabnahme, guter Erfolg)“ |
+| <= -0,50 | „Differenz zwischen dem aktuellen BMI-SDS und  dem BMI-SDS der Erstdokumentation:  [Differenzwert] (Klinisch relevante  Gewichtsabnahme, sehr guter |
 
 Tabelle 20: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Kinder und Jugendliche (BMI-SDS im
 
@@ -2270,10 +2248,10 @@ Vergleich zur Erstdokumentation)
 
 | Differenzwert | Anzuzeigender Text |
 |---|---|
-| > 0 | „Differenz zwischen dem aktuellen BMI-SDS und dem BMI-SDS der ältesten verfügbaren Dokumentation: +[Differenzwert] (Gewichtszunahme)“ |
-| > -0,20 bis <= 0 | „Differenz zwischen dem aktuellen BMI-SDS und dem BMI-SDS der ältesten verfügbaren Dokumentation: [Differenzwert] (Gewichtsstabilisierung)“ |
-| > -0,50 bis <= -0,20 | „Differenz zwischen dem aktuellen BMI-SDS und dem BMI-SDS der ältesten verfügbaren Dokumentation: [Differenzwert] (Klinisch relevante Gewichtsabnahme, guter Erfolg)“ |
-| <= -0,50 | „Differenz zwischen dem aktuellen BMI-SDS und dem BMI-SDS der ältesten verfügbaren Dokumentation: [Differenzwert] (Klinisch relevante Gewichtsabnahme, sehr guter |
+| > 0 | „Differenz zwischen dem aktuellen BMI-SDS und  dem BMI-SDS der ältesten verfügbaren  Dokumentation: +[Differenzwert]  (Gewichtszunahme)“ |
+| > -0,20 bis <= 0 | „Differenz zwischen dem aktuellen BMI-SDS und  dem BMI-SDS der ältesten verfügbaren  Dokumentation: [Differenzwert]  (Gewichtsstabilisierung)“ |
+| > -0,50 bis <= -0,20 | „Differenz zwischen dem aktuellen BMI-SDS und  dem BMI-SDS der ältesten verfügbaren  Dokumentation: [Differenzwert] (Klinisch relevante  Gewichtsabnahme, guter Erfolg)“ |
+| <= -0,50 | „Differenz zwischen dem aktuellen BMI-SDS und  dem BMI-SDS der ältesten verfügbaren  Dokumentation: [Differenzwert] (Klinisch relevante  Gewichtsabnahme, sehr guter |
 
 Tabelle 21: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Kinder und Jugendliche (BMI-SDS im  Vergleich zur ältesten verfügbaren Dokumentation)
 
@@ -2294,7 +2272,7 @@ Die Anforderung muss von allen Systemen umgesetzt werden, welche das eDMP Adipos
 
 | OPTIONALE FUNKTION EDMP |  |
 |---|---|
-| O1-43 | Übernahme von Daten aus näheren Parameter -Erläuterungen |
+| O 1-43 | Übernahme von Daten aus näheren Parameter -Erläuterungen |
 
 Das System kann dem Anwender die Übernahme von definierten Parameter -Erläuterungen ermöglichen.
 
@@ -2310,7 +2288,7 @@ unterschiedlich kennzeichnen.
 
 | OPTIONALE FUNKTION EDMP |  |
 |---|---|
-| O1-45 | Inaktive Parameter |
+| O 1-45 | Inaktive Parameter |
 
 Das System muss Parameter, die für die Erstdokumentation eines eDMP Folgedokumentation inaktiv anzeigen. Genauso muss das System Parameter, die spezifisch für die  Folgedokumentation eines eDMP sind, in der jeweiligen Erstdokumentation inaktiv anzeigen.
 
@@ -2347,7 +2325,7 @@ spezifisch sind, in der jeweiligen
 
 | OPTIONALE FUNKTION EDMP |  |
 |---|---|
-| O1-46 | Dynamisches Ein- und Ausblenden von Parametern |
+| O 1-46 | Dynamisches Ein- und Ausblenden von Parametern |
 
 Das System kann direkt auf Eingaben mit Ein- und Ausblenden von weiteren Parametern reagieren, falls  dies erforderlich ist.
 
@@ -2403,13 +2381,13 @@ Hier muss für den Parameter „Begleiterkrankungen“ automatisch Diabetes mell
 | Indikation | Übernahmerelevanter Parameter | Quittierung |
 |---|---|---|
 | Indikationsübergreifend | Geschlecht | einzeln oder blockweise mit weiteren |
-| Diabetes mellitus 1 + 2 KHK Asthma COPD Chronischer Rückenschmerz Depression Osteoporose Rheumatoide Arthritis Herzinsuffizienz Adipositas - Erwachsene  (für die Indikation Adipositas - Kinder und Jugendliche darf keine automatische Übernahme erfolgen) | Körpergröße | einzeln oder blockweise mit weiteren |
-| Diabetes mellitus 1 + 2 KHK Asthma COPD Chronischer Depression Osteoporose Rheumatoide Arthritis (für die Indikation Adipositas - Kinder und Jugendliche und Adipositas - Erwachsene | Körpergewicht | einzeln oder blockweise mit weiteren |
+| Diabetes mellitus 1 + 2  KHK  Asthma  COPD  Chronischer  Rückenschmerz  Depression  Osteoporose Rheumatoide Arthritis  Herzinsuffizienz  Adipositas - Erwachsene   (für die Indikation  Adipositas - Kinder und  Jugendliche darf keine  automatische Übernahme  erfolgen) | Körpergröße | einzeln oder blockweise mit weiteren |
+| Diabetes mellitus 1 + 2  KHK  Asthma  COPD  Chronischer  Depression  Osteoporose Rheumatoide Arthritis  (für die Indikation  Adipositas - Kinder und  Jugendliche und  Adipositas - Erwachsene | Körpergewicht | einzeln oder blockweise mit weiteren |
 |  |  |  |
-| Datenübernahme aus vorhergehender Dokumentation Das System muss ermöglichen, Daten aus einer vorhergehenden Dokumentation zu übernehmen. Es ist darauf zu achten, dass stets der aktuellste verfügbare Wert zur Übernahme herangezogen wird. Die zu entnehmen. |  |  |
+| Datenübernahme aus vorhergehender Dokumentation Das System muss ermöglichen, Daten aus einer vorhergehenden Dokumentation zu übernehmen.  Es ist darauf zu achten, dass stets der aktuellste verfügbare Wert zur Übernahme herangezogen wird. Die  zu entnehmen. |  |  |
 |  | Quittierung |  |
 | Indikationsübergreifend | Geschlecht |  |
-|  |  | Körpergröße Diabetes mellitus 1 + 2 |
+|  |  | Körpergröße  Diabetes mellitus 1 + 2 |
 |  |  | einzeln oder blockweise mit weiteren |
 | KHK | COPD |  |
 | Rheumatoide Arthritis | Adipositas - Erwachsene |  |
@@ -2420,46 +2398,46 @@ Hier muss für den Parameter „Begleiterkrankungen“ automatisch Diabetes mell
 |  |  | Es ist darauf zu achten, dass stets der aktuellste verfügbare Wert zur Übernahme herangezogen wird. Die |
 |  |  | einzeln oder blockweise mit weiteren |
 |  |  | KHK |
-|  |  | Osteoporose PFLICHTFUNKTION EDMP Diabetes mellitus 1 + 2 Chronischer |
-| (für die Indikation | Jugendliche darf keine | automatische Übernahme Adipositas - Erwachsene |
+|  |  | Osteoporose PFLICHTFUNKTION EDMP  Diabetes mellitus 1 + 2  Chronischer |
+| (für die Indikation | Jugendliche darf keine | automatische Übernahme  Adipositas - Erwachsene |
 |  |  |  |
 | COPD |  |  |
-|  |  | Es ist darauf zu achten, dass stets der aktuellste verfügbare Wert zur Übernahme herangezogen wird. Die Quittierung |
+|  |  | Es ist darauf zu achten, dass stets der aktuellste verfügbare Wert zur Übernahme herangezogen wird. Die  Quittierung |
 | einzeln oder blockweise mit weiteren |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
 |  | einzeln oder blockweise mit weiteren |  |
 
-Dabei ist zu berücksichtigen, dass dies ausschließlich für ausgewählte Parameter gilt sowie eine Quittierung der Datenübernahme durch den Anwender erfolgen muss. Es wird zwischen blockweiser und einzelner Quittierung unterschieden. Diese Anforderung gilt für alle Formen der Dateneingabe (z. B. Beleglesung, Digitalisierbrett, Tastatur, Scanner).  übernahmerelevanten Parameter mit Art der Quittierung sind der Herzinsuffizienz, Tabelle 22 indikationsübergreifenden Anamnese- und Befunddaten indikationsübergreifenden Anamnese- und Befunddaten indikationsübergreifenden Anamnese- und Befunddaten
+Dabei ist zu berücksichtigen, dass dies ausschließlich für ausgewählte Parameter gilt sowie eine Quittierung der Datenübernahme durch den Anwender erfolgen muss. Es wird zwischen blockweiser und einzelner Quittierung unterschieden. Diese Anforderung gilt für alle Formen der Dateneingabe (z. B. Beleglesung, Digitalisierbrett, Tastatur, Scanner).  übernahmerelevanten Parameter mit Art der Quittierung sind der Herzinsuffizienz, darf keine automatische Übernahme erfolgen) Tabelle 22 indikationsübergreifenden Anamnese- und Befunddaten indikationsübergreifenden Anamnese- und Befunddaten indikationsübergreifenden Anamnese- und Befunddaten
 
 ---
 
 |  |  | Begleiterkrankungen |
 |---|---|---|
 | Diabetes mellitus Typ 2 | Insulin oder Insulin-Analoga |  |
-| Diabetes mellitus Typ 2 Metformin Diabetes mellitus Typ 2 SGLT2-Inhibitor Diabetes mellitus Typ 2 | › |  |
+| Diabetes mellitus Typ 2  Metformin  Diabetes mellitus Typ 2  SGLT2-Inhibitor  Diabetes mellitus Typ 2 | › |  |
 | › GLP-1-Rezeptoragonist |  | › |
 | Indikation | Übernahmerelevanter Parameter | Quittierung |
-| Diabetes mellitus 1 + 2  KHK  Herzinsuffizienz Chronischer Depression Osteoporose (für die Indikation COPD, | Raucher | einzeln oder blockweise mit |
+| Diabetes mellitus 1 + 2   KHK   Herzinsuffizienz  Chronischer  Depression  Osteoporose (für die Indikation COPD, | Raucher | einzeln oder blockweise mit |
 | Indikationsübergreifend | Begleiterkrankungen | einzeln oder blockweise mit weiteren |
-| Diabetes mellitus Typ 2 | Insulin oder Insulin-Analoga | einzeln oder blockweise mit ausschließlich folgenden Parametern: › › |
-| Diabetes mellitus Typ 2 | Thrombozytenaggregationshemmer | einzeln oder blockweise mit ausschließlich folgenden Parametern: › › |
-| Diabetes mellitus Typ 2 | Sonstige antidiabetische | einzeln oder blockweise mit ausschließlich folgenden Parametern: › › |
+| Diabetes mellitus Typ 2 | Insulin oder Insulin-Analoga | einzeln oder blockweise mit  ausschließlich folgenden Parametern:  › › |
+| Diabetes mellitus Typ 2 | Thrombozytenaggregationshemmer | einzeln oder blockweise mit  ausschließlich folgenden Parametern:  › › |
+| Diabetes mellitus Typ 2 | Sonstige antidiabetische | einzeln oder blockweise mit  ausschließlich folgenden Parametern:  › › |
 | Diabetes mellitus Typ 2 | Metformin | einzeln |
 | Diabetes mellitus Typ 2 | SGLT2-Inhibitor | einzeln |
 | Diabetes mellitus Typ 2 | GLP-1-Rezeptoragonist | einzeln |
 | Diabetes mellitus Typ 1 | Thrombozyten- | einzeln |
-| KHK | Thrombozyten- aggregationshemmer | einzeln oder blockweise mit › › |
+| KHK | Thrombozyten-  aggregationshemmer | einzeln oder blockweise mit  › › |
 |  | Übernahmerelevanter Parameter | Quittierung |
-| Diabetes mellitus 1 + 2 | KHK | Depression (für die Indikation COPD, |
+| Diabetes mellitus 1 + 2 | KHK | Depression  (für die Indikation COPD, |
 |  | einzeln oder blockweise mit weiteren |  |
 |  |  |  |
 | Sonstige antidiabetische |  |  |
-|  |  | Diabetes mellitus Typ 2  KHK einzeln oder blockweise mit |
-|  | › | Indikation ausschließlich folgenden Parametern: einzeln |
+|  |  | Diabetes mellitus Typ 2    KHK  einzeln oder blockweise mit |
+|  | › | Indikation  ausschließlich folgenden Parametern:  einzeln |
 | Metformin | Übernahmerelevanter Parameter | Quittierung |
-| Diabetes mellitus 1 + 2 | KHK | Depression (für die Indikation COPD, Begleiterkrankungen |
+| Diabetes mellitus 1 + 2 | KHK | Depression  (für die Indikation COPD,  Begleiterkrankungen |
 |  |  |  |
 |  |  | › |
 |  |  |  |
@@ -2473,10 +2451,10 @@ Rückenschmerz Asthma und Rheumatoide Arthritis darf keine automatische Übernah
 |  |  |  |
 |---|---|---|
 |  |  | › |
-| › › Asthma Kurz wirksame inhalative Beta-2- einzeln oder blockweise mit |  |  |
-| › einzeln oder blockweise mit › |  |  |
+| › › Asthma  Kurz wirksame inhalative Beta-2-  einzeln oder blockweise mit |  |  |
+| › einzeln oder blockweise mit  › |  |  |
 | › | Übernahmerelevanter Parameter | Quittierung |
-| KHK Betablocker › › |  |  |
+| KHK  Betablocker  › › |  |  |
 |  |  | ACE-Hemmer |
 |  |  |  |
 |  | › | › |
@@ -2487,14 +2465,14 @@ Rückenschmerz Asthma und Rheumatoide Arthritis darf keine automatische Übernah
 |  | › |  |
 | › |  | › Systemische Glukokortikosteroide |
 | Indikation | Übernahmerelevanter Parameter | Quittierung |
-| KHK | Betablocker | einzeln oder blockweise mit › › |
-| KHK | ACE-Hemmer | einzeln oder blockweise mit › › |
-| Asthma | Inhalative Glukokortikosteroide | einzeln oder blockweise mit › › › › |
-| Asthma | Inhalative lang wirksame Beta-2- | einzeln oder blockweise mit › › › › |
-| Asthma | Kurz wirksame inhalative Beta-2- | einzeln oder blockweise mit › › › › |
-| Asthma | Systemische Glukokortikosteroide | einzeln oder blockweise mit › › › › |
+| KHK | Betablocker | einzeln oder blockweise mit  › › |
+| KHK | ACE-Hemmer | einzeln oder blockweise mit  › › |
+| Asthma | Inhalative Glukokortikosteroide | einzeln oder blockweise mit  › › › › |
+| Asthma | Inhalative lang wirksame Beta-2- | einzeln oder blockweise mit  › › › › |
+| Asthma | Kurz wirksame inhalative Beta-2- | einzeln oder blockweise mit  › › › › |
+| Asthma | Systemische Glukokortikosteroide | einzeln oder blockweise mit  › › › › |
 |  | Übernahmerelevanter Parameter | Quittierung |
-| KHK | Betablocker | einzeln oder blockweise mit › › |
+| KHK | Betablocker | einzeln oder blockweise mit  › › |
 | › |  |  |
 |  |  |  |
 |  | einzeln oder blockweise mit |  |
@@ -2508,10 +2486,10 @@ Sympathomimetika Sympathomimetika ausschließlich folgenden Parametern: Thromboz
 | 2 |  | › |
 |---|---|---|
 |  |  | COPD |
-| 2 Indikation OPTIONALE FUNKTION EDMP  O1-51 |  | Aktuelle DMARD-Therapie |
+| 2 Indikation  OPTIONALE FUNKTION EDMP   O 1-51 |  | Aktuelle DMARD-Therapie |
 | Tabelle 22: relevante Parameter mit Art der Quittierung | Datenübernahme aus dem PVS |  |
 |  | Übernahmerelevanter Parameter | Quittierung |
-| Asthma Sonstige asthmaspezifische › › |  |  |
+| Asthma  Sonstige asthmaspezifische  › › |  |  |
 |  | › |  |
 |  |  | einzeln oder blockweise ausschließlich |
 |  | Diabetes mellitus 1 + 2 | Tabelle 22: relevante Parameter mit Art der Quittierung |
@@ -2522,14 +2500,14 @@ Sympathomimetika Sympathomimetika ausschließlich folgenden Parametern: Thromboz
 |  |  |  |
 |  |  |  |
 |  | Übernahmerelevanter Parameter | Quittierung |
-| Asthma | Sonstige asthmaspezifische | einzeln oder blockweise mit › › |
+| Asthma | Sonstige asthmaspezifische | einzeln oder blockweise mit  › › |
 |  |  | COPD |
-|  |  | Lang wirksame Anticholinergika einzeln oder blockweise mit weiteren |
-|  |  | Hierbei ist darauf zu achten, dass stets der aktuellste verfügbare Wert zur Übernahme herangezogen wird. OPTIONALE FUNKTION EDMP |
+|  |  | Lang wirksame Anticholinergika  einzeln oder blockweise mit weiteren |
+|  |  | Hierbei ist darauf zu achten, dass stets der aktuellste verfügbare Wert zur Übernahme herangezogen wird.  OPTIONALE FUNKTION EDMP |
 |  |  |  |
 |  |  |  |
 | Indikation | Übernahmerelevanter Parameter | Quittierung |
-| Asthma | Sonstige asthmaspezifische | einzeln oder blockweise mit › › › › |
+| Asthma | Sonstige asthmaspezifische | einzeln oder blockweise mit  › › › › |
 | COPD | Kurz wirksame Beta-2- | einzeln oder blockweise ausschließlich |
 | COPD | Lang wirksame Beta-2- | einzeln oder blockweise ausschließlich |
 | COPD | Lang wirksame Anticholinergika | einzeln oder blockweise ausschließlich |
@@ -2538,14 +2516,14 @@ Sympathomimetika Sympathomimetika ausschließlich folgenden Parametern: Thromboz
 
 Die Software kann eine automatisierte Übernahme von Parametern aus dem PVS unterstützen, falls durch eine Dateneingabe (z. B. Beleglesung, Digitalisierbrett, Tastatur, Scanner).  Eine Quittierung hat immer zu erfolgen, auch wenn es sich um tagesaktuelle Werte handelt.  Praxisverwaltungssystem Medikation Sympathomimetika und/oder Sympathomimetika  des Anwenders in das eDMP übernommen werden. Dies gilt für alle Formen der ausschließlich folgenden Parametern:  Inhalative Glukokortikosteroide Inhalative lang wirksame Beta-2- Sympathomimetika Kurz wirksame inhalative Beta-2- Sympathomimetika Systemische Glukokortikosteroide mit den folgenden beiden Parametern: (Lang wirksame Beta Sympathomimetika, Lang wirksame Anticholinergika)  mit den folgenden beiden Parametern: (Kurz wirksame Beta-2- Sympathomimetika und/oder Anticholinergika, Lang wirksame Anticholinergika)  mit den folgenden beiden Parametern: (Kurz wirksame Beta-2- Sympathomimetika und/oder Anticholinergika, Lang wirksame Beta- 2-Sympathomimetika)  Anamnese- und Befunddaten Anamnese- und Befunddaten diese | OPTIONALE FUNKTION EDMP |  |
 |---|---|
-| O1-51 | Datenübernahme aus dem PVS 2 |
+| O 1-51 | Datenübernahme aus dem PVS 2 |
 
 
 ---
 
 | OPTIONALE FUNKTION EDMP |  |
 |---|---|
-| O1-52 | Datenübernahme für den Parameter Schulung |
+| O 1-52 | Datenübernahme für den Parameter Schulung |
 
 Das System kann den Parameter mit dem Wert „Bei letzter Dokumentation keine Schulung empfohlen“  vorbelegen, falls bei der vorangegangenen Dokumentation zu diesem Patienten und zu der jeweiligen  Indikation diese Schulung nicht empfohlen wurde.
 
@@ -2553,7 +2531,7 @@ Das System kann den Parameter mit dem Wert „Bei letzter Dokumentation keine Sc
 
 | KONDITIONALE PFLICHTFUNKTION EDMP |  |
 |---|---|
-| KP2-530 | Datenübernahme für den Parameter „Prädiabetes bei Einschreibung“ bei dem eDMP Adipositas - Erwachsene |
+| KP2-530 | Datenübernahme für den Parameter „Prädiabetes bei Einschreibung“ bei dem eDMP  Adipositas - Erwachsene |
 
 Das System muss den Wert des Parameters „Prädiabetes bei Einschreibung“ automatisch aus der
 
@@ -2587,7 +2565,7 @@ Die Anforderung O1-45 ist auf diese Anforderung nicht anzuwenden.
 
 | KONDITIONALE PFLICHTFUNKTION EDMP |  |
 |---|---|
-| KP2-540 | Datenübernahme für den Parameter „Manifester Diabetes mellitus Typ 2“ bei dem eDMP Adipositas - Erwachsene |
+| KP2-540 | Datenübernahme für den Parameter „Manifester Diabetes mellitus Typ 2“ bei dem eDMP  Adipositas - Erwachsene |
 
 Das System muss ermöglichen, bestimmte Daten aus einer vorhergehenden Dokumentation zu  übernehmen.
 
@@ -2642,7 +2620,7 @@ Es wird eine Kombination von DM2 und KHK dokumentiert. Hierbei überschneiden si
 
 „Thrombozytenaggregationshemmer“ bei KHK die Ausprägung „Ja“ ausgewählt werden. Ändert der
 
-Anwender die Angabe bei KHK auf „Nein“, so erfolgt automatisch eine gleichartige Änderung bei der  Indikation DM2. Selektiert der Anwender bspw. bei DM2 „Quartalsweise“ beim Parameter
+Anwender die Angabe bei KHK auf „Nein“, so erfolgt automatisch eine gleichartige Änderung bei der  Indikation DM 2. Selektiert der Anwender bspw. bei DM2 „Quartalsweise“ beim Parameter
 
 „Dokumentationsintervall“, so muss automatisch beim Parameter „Dokumentationsintervall“ bei KHK die
 
@@ -2665,7 +2643,7 @@ Der Anwender soll die Möglichkeit erhalten, einem relevanten Patienten den Frag
 
 | CPG-FRAGEBOGEN |  |
 |---|---|
-| Frage 1: Wie würden Sie Ihre einschätzen, wenn | |
+| Frage 1: Wie würden Sie Ihre  einschätzen, wenn | |
 | Auswahlmöglichkeit zu Frage 1: Ganzzahl zwischen 0 bis 10 | |
 | Frage 2: Wie würden Sie Ihre | |
 |  |  |
@@ -2712,9 +2690,9 @@ Erstdokumentation Das System muss dem Anwender die Möglichkeit bieten, den CPG-
 
 | Berechnung | Bewertung |  |
 |---|---|---|
-| Schmerzintensität (Ergebnis Frage 1 +  Ergebnis Frage 2 +  Ergebnis Frage 3) / 3 * 10 | Schmerz-Score:              0 = 0 (kein)     1 - 49 = 1 (geringer) 50 - 100 = 2 (hoher) |  |
-| Beeinträchtigungsgrad  (Ergebnis Frage 5 +  Ergebnis Frage 6 +  Ergebnis Frage 7) / 3 * 10 | Disability        0 - 29 = 0       30 - 49 = 1       50 - 69 = 2     70 - 100 = 3 | Disability Summe aus Disablity-Score und Disablilty |
-| Beeinträchtigungstage  Anzahl der Tage in Frage 4 | Disability          0 - 6 = 0 | |
+| Schmerzintensität  (Ergebnis Frage 1 +   Ergebnis Frage 2 +   Ergebnis Frage 3) / 3 * 10 | Schmerz-Score:               0 = 0 (kein)      1 - 49 = 1 (geringer)  50 - 100 = 2 (hoher) |  |
+| Beeinträchtigungsgrad   (Ergebnis Frage 5 +   Ergebnis Frage 6 +   Ergebnis Frage 7) / 3 * 10 | Disability        0 - 29 = 0        30 - 49 = 1        50 - 69 = 2      70 - 100 = 3 | Disability Summe aus  Disablity-Score  und  Disablilty |
+| Beeinträchtigungstage   Anzahl der Tage in Frage 4 | Disability          0 - 6 = 0 | |
 |  |  |  |
 |  | | |
 
@@ -2726,10 +2704,10 @@ in den letzten 3 Monaten im Durchschnitt , wenn 0 = kein Schmerz und 10 = stärk
 | Begründung: |  |  |
 |---|---|---|
 |  |  |  |
-|  | Bedingung: Die Anforderung muss von allen Systemen umgesetzt werden, welche das eDMP chronischer |  |
+|  | Bedingung:  Die Anforderung muss von allen Systemen umgesetzt werden, welche das eDMP chronischer |  |
 |  |  | |
 | Berechnung | Bewertung |  |
-| 7 - 14 = 1       15 - 30 = 2         >=  31 = 3 | | |
+| 7 - 14 = 1        15 - 30 = 2          >=  31 = 3 | | |
 
 Im Rahmen der Folgedokumentation und gegebenenfalls eines Vergleiches kann der Anwender freiwillig
 
@@ -2870,7 +2848,7 @@ Die verpflichtende regelmäßige Bestimmung der Symptomschwere mittels des PHQ s
 |  | 3 | 2 |  | 3 |  |
 |  |  | 2 |  | 3 |  |
 | h. Waren Ihre Bewegungen oder Ihre |  | 2 |  | 3 |  |
-|  | 0  1 |  | 2 | 3 | 3 |
+|  | 0    1 |  | 2 | 3 | 3 |
 
 - und
 
@@ -3025,11 +3003,11 @@ Abbildung 2: Erfassung der Anzahl der druckschmerzhaften Gelenke (t28)
 
 - ]) eingibt:
 
-| 1. | Anzahl geschwollener Gelenke (sw28) (Wertebereich: 0 – 28) |  |
+| 1. | Anzahl geschwollener Gelenke (sw28)  (Wertebereich: 0 – 28) |  |
 |---|---|---|
-| 2. | Anzahl druckschmerzhafter Gelenke (t28)  (Wertebereich 0 - 28) |  |
-| 3. | Subjektive Krankheitsaktivität (VAS)  (Wertebereich 0 – 100) |  |
-| 4. | Blutsenkung (BSG) (Wertebereich 0 – 999) | ________ mm/h |
+| 2. | Anzahl druckschmerzhafter Gelenke (t28)   (Wertebereich 0 - 28) |  |
+| 3. | Subjektive Krankheitsaktivität (VAS)   (Wertebereich 0 – 100) |  |
+| 4. | Blutsenkung (BSG)  (Wertebereich 0 – 999) | ________ mm/h |
 
 
 ---
@@ -3064,7 +3042,7 @@ Die Versendung einer fehlerhaften Dokumentation muss systemseitig ausgeschlossen
 
 | OPTIONALE FUNKTION EDMP |  |
 |---|---|
-| O2-25 | Anzeige und Auswahl der druckschmerzhaften Gelenke und der geschwollenen Gelenke |
+| O 2-25 | Anzeige und Auswahl der druckschmerzhaften Gelenke und der geschwollenen Gelenke |
 
 Das System kann dem Anwender ermöglichen, die in KP2-20 aufgelisteten 14 beidseitig zu erfassenden  Gelenke in der Programmoberfläche als druckschmerzhaft und / oder geschwollen zu markieren.
 
@@ -3158,7 +3136,7 @@ Die Versendung einer nicht vollständigen und/oder fehlerhaften Dokumentation mu
 
 | OPTIONALE FUNKTION EDMP |  |
 |---|---|
-| O1-71 | Verweis auf fehlerhaftes Datenfeld |
+| O 1-71 | Verweis auf fehlerhaftes Datenfeld |
 
 Zu dem fehlerhaften Datenfeld wird ein Verweis gelegt, sodass der Anwender zu diesem direkt gelangen  kann.
 
@@ -3211,7 +3189,7 @@ Die Software muss anhand der Schnittstellenversion (siehe Abschnitt 6.10.6 des D
 
 | OPTIONALE FUNKTION EDMP |  |
 |---|---|
-| O1-74 | Anzeige Asthmakontrolle |
+| O 1-74 | Anzeige Asthmakontrolle |
 
 Die Software kann dem Anwender nach Abschluss der Dokumentationseingabe den Grad der  Asthmakontrolle errechnen und zur Anzeige bringen.
 
@@ -3315,7 +3293,7 @@ Die Versendung einer nicht vollständigen und/oder fehlerhaften Dokumentation mu
 
 | OPTIONALE FUNKTION EDMP |  |
 |---|---|
-| O1-92 | Archivieren von Dokumentationsdaten (portabler Datenspeicher) |
+| O 1-92 | Archivieren von Dokumentationsdaten (portabler Datenspeicher) |
 
 Das System muss die Möglichkeit bieten, Dokumentationsdaten eines bestimmten Zeitraumes auf einem  portablen Datenspeicher zu archivieren.
 
@@ -3407,7 +3385,7 @@ erst nach 4 Quartalen eine Folgedokumentation erstellt wird. Infolgedessen wird 
 
 | OPTIONALE FUNKTION EDMP |  |
 |---|---|
-| O1-120 | Reminderfunktion |
+| O 1-120 | Reminderfunktion |
 
 Die Software kann dem Anwender die Möglichkeit geben, eine Reminderfunktion zu aktivieren. Diese  Funktion sollte über die Systemkonfiguration einstellbar sein. Somit wird der Anwender in einem  bestimmten Zeitintervall systemseitig an ausstehende Dokumentationen erinnert. Dies kann darüber  hinaus auch jederzeit durch den Anwender als Liste abrufbar sein.
 
@@ -3550,7 +3528,7 @@ Das Ersatzverfahren ist eine besondere Form der "manuellen" Erfassung von Patien
 
 | PFLICHTFUNKTION EDMP |  |
 |---|---|
-| P2-40 | „Ersatzverfahren“ anwenden  Versichertendaten manuell erfassen |
+| P2-40 | „Ersatzverfahren“ anwenden   Versichertendaten manuell erfassen |
 
 3 sinngemäß laut Anlage 4a BMV-Ä (Vereinbarung zum Inhalt und zur Anwendung der elektronischen Gesundheitskarte), Anhang 1, 2.4 Anlage 4  BMV-Ä/EKV (Vereinbarung zur Gestaltung und zum Inhalt der Krankenversichertenkarte) und Anlage 6 BMV-Ä (Datenaustausch)
 
@@ -3583,10 +3561,10 @@ wird wie folgt definiert :  liegt vor, wenn der Arzt noch nicht am VSDM nach Pun
 | Postfach | <person><addr><CNT> |  |
 | Kostentraegerkennung | <local_header><sciphox <GesetzlicheKrankenversicherung><Kostentraegerkennung> | X |
 | WOP-Kennzeichen (KV- | <local_header><sciphox |  |
-| DMP-Kennzeichnung | <local_header><sciphox <GesetzlicheKrankenversicherung><DMP_Kennzeichnung> | X  (vgl. KVDT  P2-402) |
-| BesonderePersonengruppe <local_header><sciphox | -ssu> <GesetzlicheKrankenversicherung> <BesonderePersonengruppe> | X (vgl. KVDT  P2-401) |
+| DMP-Kennzeichnung | <local_header><sciphox <GesetzlicheKrankenversicherung><DMP_Kennzeichnung> | X   (vgl. KVDT   P2-402) |
+| BesonderePersonengruppe <local_header><sciphox | -ssu>  <GesetzlicheKrankenversicherung> <BesonderePersonengruppe> | X  (vgl. KVDT   P2-401) |
 | Versichertenart | <local_header><sciphox | X |
-| Geschlecht | <administrative_gender_cd> | X  (vgl. KP2- |
+| Geschlecht | <administrative_gender_cd> | X   (vgl. KP2- |
 
 Postfachadresse Bereich) -Header (Kindelemente von cda:patient vergleiche [[KBV_ITA_VGEX_Schnittstelle_eHeader <GesetzlicheKrankenversicherung><KVBereich><WOP> <GesetzlicheKrankenversicherung><Versichertenart> angabe 52)
 
@@ -3922,7 +3900,7 @@ Die Anforderung muss von allen Systemen umgesetzt werden, welche die Speicherung
 |---|---|
 | O4-42 | eDMP Übertragung über KIM |
 
-Die Software kann dem Anwender eine Funktion zur Übertragung der eDMP Dokumentationen auf Basis  von KIM bereitstellen.
+Die Software kann dem Anwender eine Funktion zur Übertragung der e DMP Dokumentationen auf Basis  von KIM bereitstellen.
 
 **Begründung:**
 
@@ -4051,9 +4029,9 @@ Behandlungsprogramm für“ und oberhalb des Feldes „Krankenhaus -IK“ - ein 
 
 | NR. | FELDBEZEICHNUNG | FELDLÄNGE | TYP | ERLAUBTE INHALTE | FORMAT/ BEMERKUNG |
 |---|---|---|---|---|---|
-| 01 | Formularcode | 4 | a | 070E 070F | Name des Formulars |
+| 01 | Formularcode | 4 | a | 070E  070F | Name des Formulars |
 | 02 | Formularcodeergänzung | 1 | a | a | Exemplar für die |
-| 03 | Versionsnummer | 2 | n | 02 03 |  |
+| 03 | Versionsnummer | 2 | n | 02  03 |  |
 | 04 | Nachname | <=45 | a |  |  |
 | 05 | Vorname | <=45 | a |  |  |
 | 06 | Geburtsdatum | 8 | n |  | Format: JJJJMMTT |
@@ -4062,23 +4040,23 @@ Behandlungsprogramm für“ und oberhalb des Feldes „Krankenhaus -IK“ - ein 
 | 09 | Versicherten-ID | <=12 | a |  |  |
 | 10 | Versichertenart | 1 | n | 1,3,5 |  |
 | 11 | Besondere Personengruppe | 2 | n | 00, 04, 06, 07, 08, |  |
-| 12 | DMP-Kennzeichnung | 2 | n | 00, 01, 02, 03, 04, 10, 11, 12, 13, 30, |  |
-| 13 | (Neben-) Betriebsstättennummer | 9 | n |  |  |
+| 12 | DMP-Kennzeichnung | 2 | n | 00, 01, 02, 03, 04,  10, 11, 12, 13, 30, |  |
+| 13 | (Neben-)  Betriebsstättennummer | 9 | n |  |  |
 | 14 | LANR | 9 | n |  |  |
 | 15 | Ausstellungsdatum | 8 | n |  | Format: JJJJMMTT |
 | 16 | DMP-Fallnummer | <=7 |  |  | 16 |
 | 17 | Krankenhaus-IK | 9 | n |  |  |
-| 18 | Diabetes mellitus Typ 1 oder 2 | 1 | n |  | 1 = Diabetes Typ 1, 2 = Diabetes Typ 2 |
-| 19 | Koronare Herzkrankheit oder Herzinsuffizienz | 1 | n |  | 1 = Koronare 2 = Herzinsuffizienz |
+| 18 | Diabetes mellitus Typ 1 oder  2 | 1 | n |  | 1 = Diabetes Typ 1,  2 = Diabetes Typ 2 |
+| 19 | Koronare Herzkrankheit oder  Herzinsuffizienz | 1 | n |  | 1 = Koronare  2 = Herzinsuffizienz |
 | 20 | Asthma oder COPD | 1 | n |  | 1 = Asthma, |
 |  |  |  |  |  |  |
 |  |  | | | | |
-| 9 n | n |  |  |  | n |
+| 9  n | n |  |  |  | n |
 |  |  |  |  | n |  |
 |  |  |  |  |  |  |
 |  |  | n |  |  |  |
 |  | n | 2 = Diabetes Typ 2 |  |  |  |
-| 1 | <=12 a 1 = Koronare |  |  |  |  |
+| 1 | <=12  a  1 = Koronare |  |  |  |  |
 
 ## BARCODE INHALT
 
@@ -4115,7 +4093,7 @@ Behandlungsprogramm für“ und oberhalb des Feldes „Krankenhaus -IK“ - ein 
 | 23 | Rheumatoide Arthritis | 1 | n |  | 1 = angekreuzt |
 | 24 | Rückenschmerz | 1 | n |  | 1 = angekreuzt |
 | 25 | Osteoporose | 1 | n |  | 1 = angekreuzt |
-| 26 | Adipositas – Erwachsene oder Adipositas – Kinder und Jugendliche | 1 | n |  | 1 = Adipositas – Erwachsene  2 = Adipositas – Kinder und Jugendliche |
+| 26 | Adipositas – Erwachsene oder  Adipositas – Kinder und  Jugendliche | 1 | n |  | 1 = Adipositas –  Erwachsene   2 = Adipositas – Kinder  und Jugendliche |
 
 |  |
 |---|
@@ -4209,7 +4187,7 @@ aufgeführten Vorgaben darf die KT-Stammdatei temporär erweitert werden:
 
 | OPTIONALE FUNKTION EDMP |  |
 |---|---|
-| O5-21 | temporäre Erweiterung der KT |
+| O 5-21 | temporäre Erweiterung der KT |
 
 Die von der KBV gelieferte aktuelle KT-Stammdatei kann bereits mit einem Update an die Anwender seitens
 
@@ -4295,7 +4273,7 @@ Datensätze anzupassen.
 
 | OPTIONALE FUNKTION EDMP |  |
 |---|---|
-| O6-21 | Erweiterung und Änderung der SDDA durch den Softwareverantwortlichen |
+| O 6-21 | Erweiterung und Änderung der SDDA durch den Softwareverantwortlichen |
 
 Die von der KBV in der SDDA gelieferten Datenannahmestellen-Stammsätze können von Seiten des
 
@@ -4323,28 +4301,28 @@ Da Ergänzungen oder Änderungen nach Redaktionsschluss der für das Folgequarta
 |  |  |
 |---|---|
 | Referenz | Dokument |
-| [KBV_ITA_VGEX_XML-Schnittstellen ] | Austausch von XML-Daten in der vertragsärztlichen |
-| [KBV_ITA_VGEX_Schnittstelle_eHeader ] | Schnittstellenbeschreibung eDoku |
+| [KBV_ITA_VGEX_XML-Schnittstellen] | Austausch von XML-Daten in der vertragsärztlichen |
+| [KBV_ITA_VGEX_Schnittstelle_eHeader] | Schnittstellenbeschreibung eDoku |
 | [KBV_ITA_AHEX_Handbuch_Pruefmodul] | KBV-Prüfmodul XPM Anwenderhandbuch |
 | [KBV_ITA_AHEX_Handbuch_Kryptomodul] | KBV-Kryptomodul XKM Anwenderhandbuch |
-| [KBV_ITA_VGEX_Schnittstelle_SDDA ] | Datenannahmestellen-Stammdatei (SDDA) |
+| [KBV_ITA_VGEX_Schnittstelle_SDDA] | Datenannahmestellen-Stammdatei (SDDA) |
 | [EXT_ITA_AHEX_Anleitung_eDMP_Uebergreife nd] | Ausfüllanleitung zum diagnoseübergreifenden |
-| [KBV_ITA_VGEX_Anforderungskatalog_KVDT ] | Anforderungskatalog KVDT |
+| [KBV_ITA_VGEX_Anforderungskatalog_KVDT] | Anforderungskatalog KVDT |
 | [GBA_DMP_A_RL] | Richtlinie des Gemeinsamen Bundesausschusses |
-| [EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend ] | Plausibilität eDMP Übergreifend |
-| [EXT_ITA_VGEX_Plausi_eDMP_Asthma ] | Plausibilität eDMP Asthma |
+| [EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend] | Plausibilität eDMP Übergreifend |
+| [EXT_ITA_VGEX_Plausi_eDMP_Asthma] | Plausibilität eDMP Asthma |
 | [EXT_ITA_VGEX_Plausi_eDMP_Adipositas_Erwa chsene] | Plausibilität eDMP Adipositas - Erwachsene |
-| [EXT_ITA_VGEX_Plausi_eDMP_Adipositas_ KiJu] | Plausibilität eDMP Adipositas -  Kinder und |
-| [EXT_ITA_VGEX_Plausi_eDMP_COPD ] | Plausibilität eDMP COPD |
-| [EXT_ITA_VGEX_Plausi_eDMP_DM1_DM2 ] | Plausibilität eDMP DM1 und DM2 |
-| [EXT_ITA_VGEX_Plausi_eDMP_KHK ] | Plausibilität eDMP KHK |
-| [EXT_ITA_VGEX_Asthma_Kontrolle ] | In diesem Dokument werden die Bedingungen für |
-| [EXT_ITA_VGEX_Plausi_eDMP_HI ] | Plausibilität eDMP Herzinsuffizienz |
-| [EXT_ITA_VGEX_Plausi_eDMP_Ruecken ] | Plausibilität eDMP chronischer Rückenschmerz |
-| [EXT_ITA_VGEX_Plausi_eDMP_Depression ] | Plausibilität eDMP Depression |
-| [KBV_ITA_VHEX_CPG -Fragebogen] | CPG-Fragebogen zur Bestimmung des |
+| [EXT_ITA_VGEX_Plausi_eDMP_Adipositas_KiJu] | Plausibilität eDMP Adipositas -  Kinder und |
+| [EXT_ITA_VGEX_Plausi_eDMP_COPD] | Plausibilität eDMP COPD |
+| [EXT_ITA_VGEX_Plausi_eDMP_DM1_DM2] | Plausibilität eDMP DM1 und DM2 |
+| [EXT_ITA_VGEX_Plausi_eDMP_KHK] | Plausibilität eDMP KHK |
+| [EXT_ITA_VGEX_Asthma_Kontrolle] | In diesem Dokument werden die Bedingungen für |
+| [EXT_ITA_VGEX_Plausi_eDMP_HI] | Plausibilität eDMP Herzinsuffizienz |
+| [EXT_ITA_VGEX_Plausi_eDMP_Ruecken] | Plausibilität eDMP chronischer Rückenschmerz |
+| [EXT_ITA_VGEX_Plausi_eDMP_Depression] | Plausibilität eDMP Depression |
+| [KBV_ITA_VHEX_CPG-Fragebogen] | CPG-Fragebogen zur Bestimmung des |
 | [KBV_ITA_VHEX_PHQ-9-Fragebogen] | PHQ-9-Fragebogen zur Bestimmung des |
-| [EXT_ITA_VGEX_Plausi_eDMP_Osteoporose ] | Plausibilität eDMP Osteoporose |
+| [EXT_ITA_VGEX_Plausi_eDMP_Osteoporose] | Plausibilität eDMP Osteoporose |
 | Plausibilität eDMP Adipositas - Erwachsene |  |
 |  |  |
 | [KBV_ITA_VGEX_XML-Schnittstellen | ] |
@@ -4371,7 +4349,7 @@ Versorgung -Header, gültig ab dem 01.07.2018 allgemeinen Datensatz zur Zusammen
 | Technisches Handbuch Blankoformularbedruckung | nd] |
 | Vorlage der übergreifenden TE/EWE. | [Anlage 4a BMV-Ä, Anhang 1] |
 | Anlage 1 zu Vereinbarung zum Inhalt und zur |  |
-| Anwendung der eGK Technische Anlage zu Anlage 4a (BMV-Ä) | [eDMP 1.0] |
+| Anwendung der eGK  Technische Anlage zu Anlage 4a (BMV-Ä) | [eDMP 1.0] |
 | Spezifikation der Inhalte der Anwendung eDMP 1.0 | [gematik Implementierungsleitfaden |
 | Vorgaben der gematik für die Implementierung des |  |
 | Ansprechpartner: |  |
@@ -4395,8 +4373,8 @@ Versorgung -Header, gültig ab dem 01.07.2018 allgemeinen Datensatz zur Zusammen
 | [KBV_ITA_VGEX_Technisches_Handbuch_BFB] | Technisches Handbuch Blankoformularbedruckung |
 | [EXT_ITA_AHEX_Teilnahme_eDMP_Uebergreife nd] | Vorlage der übergreifenden TE/EWE. |
 | [Anlage 4a BMV-Ä, Anhang 1] | Anlage 1 zu Vereinbarung zum Inhalt und zur |
-| [KBV_ITA_VGEX_Mapping_KVK] | Anwendung der eGK Technische Anlage zu Anlage 4a (BMV-Ä) |
+| [KBV_ITA_VGEX_Mapping_KVK] | Anwendung der eGK  Technische Anlage zu Anlage 4a (BMV-Ä) |
 | [eDMP 1.0] | Spezifikation der Inhalte der Anwendung eDMP 1.0 |
-| [gematik Implementierungsleitfaden Primärsysteme Telematikinfrastruktur ] | Vorgaben der gematik für die Implementierung des |
+| [gematik Implementierungsleitfaden  Primärsysteme Telematikinfrastruktur] | Vorgaben der gematik für die Implementierung des |
 
 Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, ita@kbv.de  Herbert-Lewin-Platz 2, 10623 Berlin ita@kbv.de, www.kbv.de bzw. geschwollenen Gelenke Markierung der druckschmerzhaften bzw. geschwollenen Gelenke Anwendung der elektronischen Gesundheitskarte für die Übermittlung von Nachrichten durch den sicheren Kommunikationsdienst KIM (Kommunikation im Medizinwesen) Versichertenstammdatenmanagements und der Basisdienste QES, Signatur und Verschlüsselung in Primärsystemen

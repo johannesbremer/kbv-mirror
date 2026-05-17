@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 31. MÄRZ 2026  VERSION: 1.04  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  31. MÄRZ 2026   VERSION: 1.04   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # PRÜFPAKET EDMP-RHEUMATOIDE
@@ -121,15 +121,16 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
 
 **27**
 
-|  | **ANHANG** |  | **28** |
-|---|---|---|---|
-| 4.1 | Prüffall | 10 – Ersatzverfahren | 28 |
+**ANHANG**
+
+**28**
+
+4.1 Prüffall 10 – Ersatzverfahren 28
 
 **REFERENZIERTE DOKUMENTE**
 
 **29**
 
-Prüffall 10 – Ersatzverfahren
 
 ---
 
@@ -147,10 +148,10 @@ DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.04 | 31.03.2026 | KBV | Anpassung der Prüffälle an  Anpassung Prüffall 7240 | Schnittstellenversion | 7, 10ff    26 |
-| 1.03 | 1.5.08.2025 | KBV | Datumsanpassung im | Änderung der | 26 |
-| 1.02 | 12.05.2025 | KBV | Datumsanpassungen der Überarbeitung des Testfalls Überarbeitung des Testfalls |  | 7 9ff  20  24 |
-| 1.01 | 15.08.2023 | KBV | Datumsanpassungen der Anpassung der | Datumsanpassungen | 9ff |
+| 1.04 | 31.03.2026 | KBV | Anpassung der Prüffälle an    Anpassung Prüffall 7240 | Schnittstellenversion | 7, 10ff        26 |
+| 1.03 | 15.08.2025 | KBV | Datumsanpassung im | Änderung der | 26 |
+| 1.02 | 12.05.2025 | KBV | Datumsanpassungen der  Überarbeitung des Testfalls  Überarbeitung des Testfalls |  | 7  9ff    20    24 |
+| 1.01 | 15.08.2023 | KBV | Datumsanpassungen der  Anpassung der | Datumsanpassungen | 9ff |
 | 1.00 | 08.11.2022 | KBV | Dokumenterstellung | Initiale Erstellung | Alle |
 
 6
@@ -265,7 +266,7 @@ entsprechen. Diese werden durch den Prüfer begutachtet.
 
 - 1
 
-- 2.3
+- 2 3
 
 -  PrüffallNr. _[lfdNr.] .*
 
@@ -492,10 +493,10 @@ Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
 |  |  |
 |---|---|
-| Prüffall-ID | 7.211 |
+| Prüffall-ID | 7211 |
 | Testziel | Anlage einer Erst- und einer Folgedokumentation |
 | Voraussetzung |  |
-| Einzureichende Prüfunterlagen | 1. eDMP rheumatoide Arthritis |
+| Einzureichende  Prüfunterlagen | 1. eDMP rheumatoide Arthritis |
 | Hinweis | Bei der Erfassung der Daten für den Prüffall kann Prüffall 7230 Szenario |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
@@ -556,7 +557,7 @@ DATEN Informationsangebote der Krankenkasse
 |---|---|---|
 |  | Erstdokumentation | Folgedokumentation |
 | Anamnese- und Befunddaten | | |
-| Aktuelle Krankheitsaktivität - DAS-28-Wert  Das System muss den Wert des berechneten DAS - | Automatische DAS-28-Fragebogen | Automatische DAS-28-Fragebogen |
+| Aktuelle Krankheitsaktivität - DAS-28-Wert    Das System muss den Wert des berechneten DAS - | Automatische  DAS-28-Fragebogen | Automatische  DAS-28-Fragebogen |
 | Erkrankungsdauer der rheumatoiden Arthritis | Weniger als zwei Jahre | Zwei Jahre oder mehr |
 | Klinische Einschätzung des Osteoporoserisikos | Nein | Ja |
 | Medikamentöse und sonstige Maßnahmen | | |
@@ -597,10 +598,10 @@ Erfassen Sie jeweils eine Erst- und Folgedokumentation (s.u., “Indikationsübe
 | DAS-28-Wert Fragebogen |  | |
 |---|---|---|
 |  | Erstdokumentation | Folgedokumentation |
-| 1. Anzahl geschwollener Gelenke (sw28) | 2.0 | 1 |
-| 2. Anzahl druckschmerzhafter Gelenke (t28) | 2.0 | 2 |
-| 3. Subjektive Krankheitsaktivität (VAS) | 9.0 | 5 |
-| 4. Blutsenkungsgeschwindigkeit (BSG) (mm/h) | 9.00 | 3 |
+| 1. Anzahl geschwollener Gelenke (sw28) | 20 | 1 |
+| 2. Anzahl druckschmerzhafter Gelenke (t28) | 20 | 2 |
+| 3. Subjektive Krankheitsaktivität (VAS) | 90 | 5 |
+| 4. Blutsenkungsgeschwindigkeit (BSG) (mm/h) | 900 | 3 |
 
 einlesen und speichern.
 
@@ -620,8 +621,8 @@ Dokumentationsunterlagen (Wertebereich: 0 – 28) (Wertebereich 0 - 28) (Wertebe
 | Geschlecht | Männlich | Männlich |
 | Allgemeine Anamnese- und Befunddaten | | |
 | Körpergröße | 2,13 m | 2,13 m |
-| Körpergewicht | 1.10 kg | 1.05 kg |
-| Blutdruck | 180 / 101 mmHg | 1.50 / 90 mmHg |
+| Körpergewicht | 110 kg | 105 kg |
+| Blutdruck | 180 / 101 mmHg | 150 / 90 mmHg |
 | Raucher | Nein | Nein |
 | Begleiterkrankungen | Diabetes mellitus | Diabetes mellitus |
 |  |  |  |
@@ -641,7 +642,7 @@ DATEN Informationsangebote der Krankenkasse
 |---|---|---|
 |  | Erstdokumentation | Folgedokumentation |
 | Anamnese- und Befunddaten | | |
-| Aktuelle | Übernahme aus dem DAS-28-Fragebogen | Automatische DAS-28-Fragebogen |
+| Aktuelle | Übernahme aus dem  DAS-28-Fragebogen | Automatische  DAS-28-Fragebogen |
 | Erkrankungsdauer der rheumatoiden Arthritis | Zwei Jahre oder mehr | Zwei Jahre oder mehr |
 | Klinische Einschätzung des Osteoporoserisikos | Nein | Nein |
 | Medikamentöse und sonstige Maßnahmen | | |
@@ -708,8 +709,8 @@ verfügt, müssen die entsprechenden Daten ebenfalls dokumentiert werden. Sollte
 | Geschlecht | Weiblich | Weiblich |
 | Allgemeine Anamnese- und Befunddaten | | |
 | Körpergröße | 1,72 m | 1,72 m |
-| Körpergewicht | 63 kg | 6.1 kg |
-| Blutdruck | 120 / 70 mmHg | 1.19 / 65 mmHg |
+| Körpergewicht | 63 kg | 61 kg |
+| Blutdruck | 120 / 70 mmHg | 119 / 65 mmHg |
 | Raucher | Ja | Ja |
 | Begleiterkrankungen | Nach Funktion P1-47 des Anforderungskatalogs | |
 | Behandlungsplanung | | |
@@ -728,7 +729,7 @@ DATEN Informationsangebote der Krankenkasse Diabetes mellitus Typ 2 müssen die 
 |---|---|---|---|
 |  | Erstdokumentation | Folgedokumentation | |
 | Anamnese- und Befunddaten | | | |
-| RA | Aktuelle Krankheitsaktivität - DAS-28-Wert | Automatische DAS-28-Fragebogen | Automatische DAS-28-Fragebogen |
+| RA | Aktuelle Krankheitsaktivität - DAS-28-Wert | Automatische  DAS-28-Fragebogen | Automatische  DAS-28-Fragebogen |
 | RA | Erkrankungsdauer der rheumatoiden | Weniger als zwei Jahre | Zwei Jahre oder mehr |
 | RA | Klinische Einschätzung des | Nein | Nein |
 | DM2 | HbA1c-Wert | 8,0 % | 160 mmol/mol |
@@ -739,7 +740,7 @@ DATEN Informationsangebote der Krankenkasse Diabetes mellitus Typ 2 müssen die 
 | DM2 | Ulkus | nein | tief |
 | DM2 | (Wund)Infektion | nein | ja |
 | DM2 | Injektionsstellen |  | Unauffällig |
-| DM2 | Intervall für künftige Fußinspektionen (bei | alle 3 drei Monate oder häufiger | Jährlich |
+| DM2 | Intervall für künftige Fußinspektionen (bei | alle 3 drei Monate oder  häufiger | Jährlich |
 | DM2 | Spätfolgen | Diabetische Neuropathie | Diabetische Retinopathie, |
 | Relevante Ereignisse | | | |
 | DM2 | Relevante Ereignisse | Nierenersatztherapie | Keine der genannten |
@@ -852,7 +853,7 @@ orale Antikoagulation einer Rheuma-Schulung teilgenommen aktueller Dokumentation
 | Prüffall-ID | 7214 |
 | Testziel | Kontrolle der softwareseitigen Erkennung von Fehleingaben |
 | Voraussetzung |  |
-| Prüfunterlagen | Fehlermeldungen.   Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
+| Prüfunterlagen | Fehlermeldungen.     Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
 | Hinweis | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben |
 
 Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis - bzw. Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. sind. Prüffall 7214 Aktionen, die durch den Antragsteller durchgeführt werden: Versichertendaten Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation  DATEN Je nach Auswahl des Keine der genannten
@@ -886,7 +887,7 @@ Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis - bzw. 
 |---|---|---|
 |  | Erstdokumentation | Aktion |
 | Anamnese- und Befunddaten | | |
-| Aktuelle Krankheitsaktivität - DAS-28-Wert Pflichtfeld | 10,1 | Nr. 2 |
+| Aktuelle Krankheitsaktivität - DAS-28-Wert  Pflichtfeld | 10,1 | Nr. 2 |
 | Erkrankungsdauer der rheumatoiden Arthritis (zum | Zwei Jahre | Nr. 3 |
 | Klinische Einschätzung des Osteoporoserisikos |  | Nr. 4 |
 | Medikamentöse und sonstige Maßnahmen | | |
@@ -921,7 +922,7 @@ Krankenkasse SPEZIFISCHE DATEN Anamnese- und Befunddaten Aktuelle Krankheitsakti
 | Raucher | Nein |  |
 | Begleiterkrankungen | Chronische |  |
 | Behandlungsplanung | | |
-| Vom Patienten gewünschte Informationsangebote der | Tabakverzicht, Körperliches Training |  |
+| Vom Patienten gewünschte Informationsangebote der | Tabakverzicht,  Körperliches Training |  |
 | Dokumentationsintervall | Quartalsweise |  |
 | Datum der Erstellung (siehe Kap. 1.6.2) | 15.mm.jjjj |  |
 
@@ -961,7 +962,7 @@ Arthritis Schulung teilgenommen Dokumentation) keine Schulung empfohlen
 |  |  |
 |---|---|
 | Prüffall-ID | 7230 |
-| Testziel | (KBV_ITA_VGEX_Anforderungskatalog_eDMP ) |
+| Testziel | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
 | Voraussetzung |  |
 | Prüfunterlagen | Dokumentieren Sie durch Video |
 | Hinweis | Dieser Testfall ist unterteilt in drei Szenarien |
@@ -971,9 +972,9 @@ Arthritis Schulung teilgenommen Dokumentation) keine Schulung empfohlen
 | Szenario 1 |
 | Es wird eine Folgedokumentation |
 | Szenario 2 |
-| Bitte verwenden Sie für dieses Szenario die Daten aus Prüffall 7211.  1. a) b) c) , Anforderung 2. a) b) c) |
+| Bitte verwenden Sie für dieses Szenario die Daten aus Prüffall 7211.    1. a) b) c) , Anforderung  2. a) b) c) |
 |  |
-| 7230 (KBV_ITA_VGEX_Anforderungskatalog_eDMP |
+| 7230  (KBV_ITA_VGEX_Anforderungskatalog_eDMP |
 |  |
 | Aktionen, die durch den Antragsteller durchgeführt werden: |
 
@@ -988,9 +989,9 @@ Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP s di
 |  |
 |  |
 | SZENARIEN |
-| KBV_ITA_VGEX_Anforderungskatalog_eDMP , Anforderung  KBV_ITA_VGEX_Anforderungskatalog_eDMP , Anforderung |
+| KBV_ITA_VGEX_Anforderungskatalog_eDMP, Anforderung    KBV_ITA_VGEX_Anforderungskatalog_eDMP, Anforderung |
 | Szenario 3 |
-| Zeigen Sie, dass das System dem Anwender den Ausdruck des Disease Activity Score (DAS gemäß KBV_ITA_VGEX_Anforderungskatalog_eDMP ). Zeigen Sie auch, dass der Anwender die vier Parameter mit den Daten aus dem Prüffall |
+| Zeigen Sie, dass das System dem Anwender den Ausdruck des Disease Activity Score (DAS gemäß  KBV_ITA_VGEX_Anforderungskatalog_eDMP).  Zeigen Sie auch, dass der Anwender die vier Parameter mit den Daten aus dem Prüffall |
 
 die Differenz zum Wert dieses Parameters aus der vorhergehenden verfügbaren anzeigt. Dies muss erfolgen, ohne dass der Workflow unterbrochen wird (siehe einen Hinweistext anzeigt. Dies muss erfolgen, ohne dass der Workflow unterbrochen wird (siehe KP2-10  ermöglicht (siehe Berechnung des DAS-28-Scores eintragen kann. KP2-01, Akzeptanzkriterium 2 KP2-01, Akzeptanzkriterium 3 -28)  7212  zur
 
@@ -1001,7 +1002,7 @@ die Differenz zum Wert dieses Parameters aus der vorhergehenden verfügbaren anz
 |  | |
 |---|---|
 | Prüffall-ID | 7240 |
-| Testziel | (KBV_ITA_VGEX_Anforderungskatalog_eDMP ) |
+| Testziel | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
 | Voraussetzung |  |
 | Prüfunterlagen | PDF-Datei „TE_EWE_RA.pdf“ der indikationsübergreifenden Teilnahme- und |
 | Hinweis | Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der |
@@ -1073,7 +1074,7 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 | 4110 | Versicherungsschutz Ende |  |
 | 4111 | Kostentraegerkennung | 109719018 |
 | 4131 | BesonderePersonengruppe | 00 |
-| 4132 | DMP_Kennzeichnung | 0.8 |
+| 4132 | DMP_Kennzeichnung | 08 |
 
 
 ---
@@ -1089,7 +1090,7 @@ REFERENZIERTE DOKUMENTE
 | EXT_ITA_VGEX_Plausi_eDMP_Rheuma | Plausibilitätsrichtlinie zur Prüfung der Dokumentations- |
 | EXT_ITA_VGEX_Plausi_eDMP_DM1_DM2 | Plausibilitätsrichtlinie zur Prüfung der Dokumentations- |
 | KBV_ITA_VGEX_Schnittstelle_eDMP_Rheuma | Dokumentation Schnittstellenbeschreibung eDMP |
-| KBV_ITA_VGEX_Schnittstelle_eDMP_ DM2 | Dokumentation Schnittstellenbeschreibung eDMP |
+| KBV_ITA_VGEX_Schnittstelle_eDMP_DM2 | Dokumentation Schnittstellenbeschreibung eDMP |
 | KBV_ITA_VGEX_Schnittstelle_eHeader | Dokumentation eHeader |
 | XPM-Paket_RA | Prüfmodul eDMP rheumatoide Arthritis |
 | XPM-Paket_DM2 | Prüfmodul eDMP Diabetes mellitus 2 |

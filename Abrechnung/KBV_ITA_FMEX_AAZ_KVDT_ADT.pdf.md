@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT 15. MAI 2024 VERSION: 4.4  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT  15. MAI 2024  VERSION: 4.4   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # ANTRAG AUF ZERTIFIZIERUNG  ABRECHNUNGSDATEN -ADT
@@ -29,15 +29,15 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 |  |  | | |
 |---|---|---|---|
-| Name des Antragsstellers [bei juristischen Personen ist die |  | | |
+| Name des Antragsstellers  [bei juristischen Personen ist die |  | | |
 | Geschäftsbereich [falls vorhanden] |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
 | E-Mail-Adresse |  | | |
 | Webseite |  | | |
-| Der Antragssteller ist | ☐  Arzt/Ärztin | ☐  Softwarehaus | ☐  Sonstiges |
-| Systempfleger [nur anzugeben, wenn der |  | | |
+| Der Antragssteller ist | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
+| Systempfleger  [nur anzugeben, wenn der |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
@@ -66,7 +66,7 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls
 |---|---|---|
 | Bezeichnung |  | |
 | Identnummer [die letzten drei |  | |
-| Zertifizierungsgegenstand | ☐  ja, System ist mit Arzt-Patient- | ☐  nein, System ist ohne Arzt- |
+| Zertifizierungsgegenstand | ☐ ja, System ist mit Arzt-Patient- | ☐ nein, System ist ohne Arzt- |
 
 ## 1.4  BETRIEBSSYSTEME
 

@@ -41,11 +41,11 @@ gemäß NYHA-Klassifikation an:
 
 **NYHA-Klassifikation bei Herzinsuffizienz (nach Leistungsfähigkeit)**
 
-| NYHA I (asymptoma- | Herzerkrankung ohne körperliche Limitation.  Alltägliche körperliche Belastung verursacht keine inadäquate Erschöpfung, Rhythmusstörun- |
+| NYHA I  (asymptoma- | Herzerkrankung ohne körperliche Limitation.   Alltägliche körperliche Belastung verursacht keine inadäquate Erschöpfung, Rhythmusstörun- |
 |---|---|
-| NYHA II (leicht) | Herzerkrankung mit leichter Einschränkung der körperlichen Leistungsfähigkeit.  Keine Beschwerden in Ruhe und bei geringer Anstrengung.  Stärkere körperliche Belastung verursacht Erschöpfung, Rhythmusstörungen, Luftnot oder An- |
-| NYHA III (mittelschwer) | Herzerkrankung mit höhergradiger Einschränkung der körperlichen Leistungsfähigkeit bei ge- Keine Beschwerden in Ruhe.  Geringe körperliche Belastung verursacht Erschöpfung, Rhythmusstörungen, Luftnot oder An- |
-| NYHA IV (schwer) | Herzerkrankung mit Beschwerden bei allen körperlichen Aktivitäten und in Ruhe, Bettlägerigkeit. |
+| NYHA II  (leicht) | Herzerkrankung mit leichter Einschränkung der körperlichen Leistungsfähigkeit.   Keine Beschwerden in Ruhe und bei geringer Anstrengung.   Stärkere körperliche Belastung verursacht Erschöpfung, Rhythmusstörungen, Luftnot oder An- |
+| NYHA III  (mittelschwer) | Herzerkrankung mit höhergradiger Einschränkung der körperlichen Leistungsfähigkeit bei ge- Keine Beschwerden in Ruhe.   Geringe körperliche Belastung verursacht Erschöpfung, Rhythmusstörungen, Luftnot oder An- |
+| NYHA IV  (schwer) | Herzerkrankung mit Beschwerden bei allen körperlichen Aktivitäten und in Ruhe, Bettlägerigkeit. |
 
 Aus: Bundesärztekammer (BÄK), Kassenärztliche Bundesvereinigung (KBV), Arbeitsgemeinschaft der  schen Fachgesellschaften (AWMF). Nationale Versorgungs-Leitlinie Chronische Herzinsuffizienz, Langfassung, Version
 

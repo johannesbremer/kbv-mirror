@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT 15. MAI 2024 VERSION: 2.6  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT  15. MAI 2024  VERSION: 2.6   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # ANTRAG AUF ZERTIFIZIERUNG  LABORDATENKOMMUNIKATION
@@ -32,15 +32,15 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 |  |  | | |
 |---|---|---|---|
-| Name des Antragstellers [bei juristischen Personen ist die |  | | |
+| Name des Antragstellers  [bei juristischen Personen ist die |  | | |
 | Geschäftsbereich [falls |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
 | E-Mail-Adresse |  | | |
 | Webseite |  | | |
-| Der Antragsteller ist | ☐  Arzt/Ärztin | ☐  Softwarehaus | ☐  Sonstiges |
-| Systempfleger [nur anzugeben, wenn der |  | | |
+| Der Antragsteller ist | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
+| Systempfleger  [nur anzugeben, wenn der |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
@@ -87,6 +87,8 @@ vorhanden) des Zertifizierungsgegenstandes an.
 
 -Betriebssysteme unterstützt werden.
 
+/ Version: 2.6 / 15. Mai 2024
+
 Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
 
 ---
@@ -105,7 +107,10 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
 | LDT-Befund | ☐ | ☐ |
 | LDT-Befund- Zervix-Zytologie | ☐ |  |
 
+/ Version: 2.6 / 15. Mai 2024
+
 [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+
 
 ---
 
@@ -129,6 +134,8 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 | E-Mail-Adresse |  |
 
 Diese Information ist verpflichtend anzugeben
+
+/ Version: 2.6 / 15. Mai 2024
 
 
 ---
@@ -159,8 +166,8 @@ Diese Information ist verpflichtend anzugeben
 | Digitales Muster 39 - | Neu-, Re- oder | Ergebnisprüfung | 137,62 |
 | LDT-Auftrag - Export | Neu-, Re- oder | Ergebnisprüfung | 275,24 |
 | LDT-Auftrag - Import | Neu-, Re- oder | Ergebnisprüfung | 275,24 |
-| LDT-Befund Vollständig | Neu-, Re- oder | Ergebnisprüfung | 275,24 |
-| LDT-Befund Zervix-Zytologie/ | Neu-, Re- oder | Ergebnisprüfung | 137,62 |
+| LDT-Befund  Vollständig | Neu-, Re- oder | Ergebnisprüfung | 275,24 |
+| LDT-Befund  Zervix-Zytologie/ | Neu-, Re- oder | Ergebnisprüfung | 137,62 |
 | LDT-Befund - Import | Neu-, Re- oder | Ergebnisprüfung | 275,24 |
 
 1 LDT-Befund-Export Vollständig beinhaltet LDT
@@ -171,7 +178,9 @@ Diese Information ist verpflichtend anzugeben
 
 -
 
--Befund  Export Zervix-Zytologie/Pathologie -
+-Befund  Export Zervix-Zytologie/Pathologie
+
+/ Version: 2.6 / 15. Mai 2024 -
 
 -
 
@@ -205,6 +214,8 @@ Pathologie Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszer
 
 - (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung  Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung].
 
+/ Version: 2.6 / 15. Mai 2024
+
 
 ---
 
@@ -226,6 +237,8 @@ Pathologie Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszer
 
 - zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
 
+/ Version: 2.6 / 15. Mai 2024
+
 
 ---
 
@@ -244,3 +257,5 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstel
 Kassenärztliche Bundesvereinigung
 
 Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+
+/ Version: 2.6 / 15. Mai 2024

@@ -120,3 +120,7 @@ Die Verhaltenstherapie geht davon aus, dass psychische Beschwerden das Ergebnis 
 nichtbewussten Lernprozessen sind. Zu Beginn der Behandlung wird gemeinsam mit der Patientin oder dem  Patienten erarbeitet, welche Bedingungen ihrer oder seiner Lebensgeschichte und der aktuellen Lebenssituation  zur Entstehung und Aufrechterhaltung der psychischen Symptomatik beigetragen haben und weiter wirksam sind.  Auf dieser Grundlage werden gemeinsam die Therapieziele und der Behandlungsplan festgelegt. In der  Verhaltenstherapie wird die Patientin oder der Patient zur aktiven Veränderung ihres oder seines Handelns,
 
 Denkens und Fühlens motiviert und angeleitet. Dabei werden die bereits vorhandenen Stärken und Fähigkeiten  herausgearbeitet und für den Veränderungsprozess nutzbar gemacht.
+
+#### gültig ab 01.07.2020
+
+Formblatt PTV 10

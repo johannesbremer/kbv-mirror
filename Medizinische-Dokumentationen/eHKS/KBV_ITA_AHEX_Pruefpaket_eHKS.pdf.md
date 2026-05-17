@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 30. MAI 2025  VERSION: 3.03  DOKUMENTENSTATUS: IN |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  30. MAI 2025   VERSION: 3.03   DOKUMENTENSTATUS: IN |
 |---|---|
 
 # PRUEFPAKET HAUTKREBS-SCREENING
@@ -126,11 +126,11 @@ DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 3.03 | 30.05.2025 | KBV | Korrektur der  Änderung des im Prüffall |  | 16 |
-| 3.02 | 12.08.2021 | KBV | Überarbeitung der Links      Komplettanpassung der  Änderung des im Prüffall | Austausch des FTP- https://update.kbv.de  Schnittstellenversion | Alle      16 |
-| 3.01 | 28.08.2019 | KBV | Korrektur der  Korrektur der |  | 9    10 |
-| 3.00 | 15.08.2019 | KBV | Aufnahme eines Testfalls  Überarbeitung des | Schnittstellenversion    Überführung ins neue | 24     Alle |
-| 2.08 | 08.11.2018 | KBV | Komplettanpassung der  Streichung des | Schnittstellenversion   Abkündigung des | 10ff |
+| 3.03 | 30.05.2025 | KBV | Korrektur der    Änderung des im Prüffall |  | 16 |
+| 3.02 | 12.08.2021 | KBV | Überarbeitung der Links            Komplettanpassung der    Änderung des im Prüffall | Austausch des FTP- https://update.kbv.de    Schnittstellenversion | Alle            16 |
+| 3.01 | 28.08.2019 | KBV | Korrektur der    Korrektur der |  | 9        10 |
+| 3.00 | 15.08.2019 | KBV | Aufnahme eines Testfalls    Überarbeitung des | Schnittstellenversion        Überführung ins neue | 24          Alle |
+| 2.08 | 08.11.2018 | KBV | Komplettanpassung der    Streichung des | Schnittstellenversion      Abkündigung des | 10ff |
 
 Versichertendaten. 8005 zu erfassenden Geburtsdatums  Prüffälle an 2.33 8005 zu erfassenden Geburtsdatums  Personalien in der Prüffallauflistung Patientennummer für die Testdatenvalidierung zur 2.33 Layouts Prüffälle an 2.32 eVersandlistenmoduls Servers durch neuen „Update-Server“ der KBV: 2.33 ist ab 01.10.2019 zu verwenden 2.33 ist ab 01.10.2019 zu verwenden Corporate Design 2.32 ist ab 01.01.2019 zu verwenden eVersandlistenmoduls
 
@@ -345,7 +345,7 @@ Ersatzverfahren erfassen und speichern.
 | Patientennummer | 8001 |
 | Geschlecht der/des Versich | Männlich |
 | Untersuchungsdatum | |
-| Untersuchungsdatum | 0.1.01.2020  01.01.2024 |
+| Untersuchungsdatum | 01.01.2020  01.01.2024 |
 
 | NICHT-DERMATOLOGEN-DATEN | |
 |---|---|
@@ -386,7 +386,7 @@ Die Versichertendaten von Brigitte Neuhaus (XML_06) einlesen und speichern.
 | Patientennummer | 8002 |
 | Geschlecht der/des Versich | Generiert aus XML-Datei |
 | Untersuchungsdatum | |
-| Untersuchungsdatum | 0.2.01.2020  02.01.2024 |
+| Untersuchungsdatum | 02.01.2020  02.01.2024 |
 
 | NICHT-DERMATOLOGEN-DATEN | |
 |---|---|
@@ -460,7 +460,7 @@ Kontrolle der Erkennung von Fehleingaben eHKS-Dokumentationsunterlagen XPM-Proto
 | Patientennummer | 8003 |
 | Geschlecht der/des Versich | Generiert aus XML-Datei |
 | Untersuchungsdatum | |
-| Untersuchungsdatum | 0.6.01.2020  06.01.2024 |
+| Untersuchungsdatum | 06.01.2020  06.01.2024 |
 
 erten Versichertendaten: Die Versichertendaten von Viktor Müller (XML_09) einlesen und speichern 2. Anlegen einer Hautkrebs-Dokumentation durch einen Dermatologen
 
@@ -564,7 +564,7 @@ durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordick
 | Patientennummer | 8004 |
 | Geschlecht der/des Versich | Generiert aus XML-Datei |
 | Untersuchungsdatum | |
-| Untersuchungsdatum | 0.2.01.2020  02.01.2024 |
+| Untersuchungsdatum | 02.01.2020  02.01.2024 |
 
 erten Versichertendaten: Die Versichertendaten von Ludger Königsstein (XML_15) einlesen bzw. und speichern. 2. Anlegen einer Hautkrebs
 
@@ -619,7 +619,7 @@ durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordick
 |---|---|
 | Prüffall-ID | 8005 |
 | Testziel | Kontrolle der Erkennung von Fehleingaben |
-| Voraussetzung | Die Dokumentation wird durch einen Dermatologen ausgefüllt . Das Untersuchungsdatum ist der 02.01.2020  02.01.2024. |
+| Voraussetzung | Die Dokumentation wird durch einen Dermatologen ausgefüllt .  Das Untersuchungsdatum ist der 02.01.2020  02.01.2024. |
 | Prüfunterlagen | XPM-Protokolle zu den fehlerhaften Angaben oder Screenshots, wenn die Fehler |
 | Hinweis | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht v |
 
@@ -817,7 +817,7 @@ entnommen oder Exzision durchgeführt Malignes Melanom – Klassifikation Malign
 |  |  |
 |---|---|
 | Prüffall-ID | 8006 |
-| Testziel | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eHKS ) |
+| Testziel | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eHKS  ) |
 | Voraussetzung |  |
 | Prüfunterlagen | Screenshots / PDFs zum Nachweis der korrekten Systemfunktionalität |
 | Hinweis | Dieser Testfall ist unterteilt in zwei Szenarien |

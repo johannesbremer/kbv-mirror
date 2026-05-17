@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 21. NOVEMBER 2024  VERSION: 1.5  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 21. NOVEMBER 2024   VERSION: 1.5   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # PRÜFPAKET KVDT TI -PAUSCHA LE
@@ -67,7 +67,7 @@ DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.0 | 1.8.08.2023 | KBV | Neues Dokument | Initiale Erstellung | Alle |
+| 1.0 | 18.08.2023 | KBV | Neues Dokument | Initiale Erstellung | Alle |
 | 1.1 | 20.09.2023 | KBV | Kapitel 3.4 | Änderung der | 7 |
 | 1.2 | 11.10.2023 | KBV | Kapitel 4 | Anpassung Prüffall 3 | 9 |
 | 1.3 | 12.10.2023 | KBV | Kapitel 3 und 4 | Schärfung der | 4, 8, |
@@ -277,14 +277,14 @@ In der Kopfzeile der Tabelle wird auf die zu verwendende XML die konkreten Werte
 |---|---|
 | Prüffall-ID (FK 3000) | Prüffall 1 |
 | Versichertendaten | [XML_45] Marion Müller |
-| Vorgaben | ePA Stufe 2 eRezept NFDM eMP KIM eAU eArztbrief Kartenterminal - ja SMC-B eHBA |
+| Vorgaben | ePA Stufe 2  eRezept  NFDM  eMP  KIM  eAU  eArztbrief  Kartenterminal - ja  SMC-B  eHBA |
 | Einzureichende | .XKM-Abrechnungsdatei mit Testschlüssel verschlüsselt |
 
 |  |  |
 |---|---|
 | Prüffall-ID (FK 3000) | Prüffall 2 |
 | Versichertendaten | [XML_46] Sophia Müller |
-| Vorgaben | ePA Stufe 1 eRezept NFDM eMP KIM eAU eArztbrief Kartenterminal - ja SMC-B eHBA |
+| Vorgaben | ePA Stufe 1  eRezept  NFDM  eMP  KIM  eAU  eArztbrief  Kartenterminal - ja  SMC-B  eHBA |
 | Einzureichende | .XKM-Abrechnungsdatei mit Testschlüssel verschlüsselt |
 
 Datei referenziert. Unter „Vorgaben“ sind  Die
@@ -298,7 +298,7 @@ Prüfunterlagen Prüfunterlagen  nein (keine Unterstützung)  nein  nein  nein
 | Prüffall-ID (FK 3000) | Prüffall 3 | |
 | Versichertendaten | [XML_47] Emilia Müller | |
 | Hinweis | Bitte erfassen Sie auch eine Nebenbetriebsstätte. | |
-| Vorgaben | Hauptsitz:  ePA Stufe 1 eRezept NFDM eMP KIM eAU eArztbrief Kartenterminal - ja SMC-B eHBA | Nebensitz:  ePA Stufe 3 eRezept NFDM eMP KIM eAU eArztbrief Kartenterminal - ja SMC-B eHBA |
+| Vorgaben | Hauptsitz:   ePA Stufe 1  eRezept  NFDM  eMP  KIM  eAU  eArztbrief  Kartenterminal - ja  SMC-B  eHBA | Nebensitz:   ePA Stufe 3  eRezept  NFDM  eMP  KIM  eAU  eArztbrief  Kartenterminal - ja  SMC-B  eHBA |
 | Einzureichende | .XKM-Abrechnungsdatei mit Testschlüssel verschlüsselt | |
 
 Prüfunterlagen  nein  nein  nein

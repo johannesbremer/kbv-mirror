@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT 13. FEBRUAR 2026 VERSION: 1.0  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT  13. FEBRUAR 2026 VERSION: 1.0   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # ANTRAG AUF ZERTIFIZIERUNG EDMP- ADIPOSITAS-ERWACHSENE
@@ -23,21 +23,21 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
 
 Die Einleitung der Zertifizierung für das oben genannte Zertifizierungsthema wird durch die Übergabe  dieses Antrages an die Kassenärztliche Bundesvereinigung (KBV) initiiert.
 
-## 1.1 ANTRAGSSTELLER
+## 1 1 ANTRAGSSTELLER
 
 Antragssteller ist die juristische oder natürliche Person, die für die Einhaltung der in diesem Antrag  bezeichneten Zulassungskriterien gegenüber der KBV verantwortlich zeichnet.
 
 |  |  | | |
 |---|---|---|---|
-| Name des Antragstellers [bei juristischen Personen ist die Rechtsform anzugeben] |  | | |
-| Geschäftsbereich [falls vorhanden] |  | | |
+| Name des Antragstellers  [bei juristischen Personen ist die  Rechtsform anzugeben] |  | | |
+| Geschäftsbereich [falls  vorhanden] |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
 | E-Mail-Adresse |  | | |
 | Webseite |  | | |
 | Der Antragsteller | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
-| Systempfleger [nur anzugeben, wenn der Systempfleger vom Antragsteller abweicht] |  | | |
+| Systempfleger  [nur anzugeben, wenn der  Systempfleger vom Antragsteller  abweicht] |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
@@ -53,7 +53,7 @@ Nur anzugeben, wenn abweichend von Abschnitt 1.1.
 
 |  |  |
 |---|---|
-| Bestell- bzw. Auftragsnummer des Antragsstellers |  |
+| Bestell- bzw. Auftragsnummer des  Antragsstellers |  |
 | Name |  |
 | Straße und Hausnummer |  |
 | PLZ, Ort |  |
@@ -65,7 +65,7 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizie
 |  |  |
 |---|---|
 | Bezeichnung |  |
-| Identnummer [die letzten drei Stellen der Prüfnummer, falls vorhanden] |  |
+| Identnummer [die letzten drei  Stellen der Prüfnummer, falls  vorhanden] |  |
 
 ## 1.4  BETRIEBSSYSTEME
 
@@ -105,7 +105,7 @@ Folgende optionale eDMP Adipositas-Erwachsene Funktionen sind gem. Anforderungsk
 |---|---|---|---|---|---|
 | ☐ | KEINE | ☐ | ALLE | ☐ | Laut nachfolgender Liste |
 
-| IDENT-NUMMER | BEZEICHNUNG DER OPTIONALEN FUNKTION LT. ANFORDERUNGSKATALOG |
+| IDENT-NUMMER | BEZEICHNUNG DER OPTIONALEN FUNKTION  LT. ANFORDERUNGSKATALOG |
 |---|---|
 |  |  |
 |  |  |
@@ -162,7 +162,7 @@ Diese Information ist verpflichtend anzugeben
 
 | THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART | KOSTEN IN € |
 |---|---|---|---|
-| eDMP Adipositas- | Neu- oder | Ergebnisprüfung | 275,24 |
+| e DMP Adipositas- | Neu- oder | Ergebnisprüfung | 275,24 |
 
 - **II.** **Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**
 

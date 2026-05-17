@@ -26,18 +26,18 @@ Die Version 2.7 ist zum 01.10.2024 umzusetzen.
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.0 | 22.03.2016 KBV/GKV-SV |  | neues Dokument | Einführung des | alle |
-| 1.1 | 0.1.04.2016 KBV/GKV-SV |  |  |  |  |
+| 1.1 | 01.04.2016 KBV/GKV-SV |  |  |  |  |
 | 1.2 | 26.07.2016 KBV/GKV-SV |  |  |  |  |
 | 1.3 | 01.09.2016 KBV/GKV-SV |  |  |  |  |
 | 1.4 | 07.02.2017 KBV/GKV-SV |  |  |  |  |
 | 1.5 | 19.04.2017 KBV/GKV-SV |  |  |  |  |
 | 1.6 | 17.07.2017 KBV/GKV-SV |  |  |  |  |
 | 2.0 | 15.01.2020 KBV/GKV-SV |  | Gesamtes Dokument | Änderung der Heilmittel- | alle |
-| 2.1 | 01.07.2020 KBV/GKV-SV |  | P3-01, P3-09, P3-16, P3-11, P3-18, P3-35, P3-34 | Redaktionelle Anpassung | 13, 22, 24, 32, 33,  43, 47, 48 |
+| 2.1 | 01.07.2020 KBV/GKV-SV |  | P3-01, P3-09, P3-16,  P3-11, P3-18, P3-35,  P3-34 | Redaktionelle Anpassung | 13, 22,  24, 32,  33, 43,  47, 48 |
 | 2.2 | 15.08.2020 KBV/GKV-SV |  | P3-11 | Konkretisierung der | 37 |
 | 2.3 | 05.10.2020 KBV/GKV-SV |  |  | Abschluss des formellen |  |
-| 2.4 | 20.07.2021 KBV/GKV-SV |  | P3-09, P3-16, P3-21,  P3-11, P3-13, P3-18, Glossar, Referenzierte Dokumente | Konkretisierung der | 22, 24, 26, 30, 38, 41, 51, 53 |
-| 2.5 | 12.05.2022 KBV/GKV-SV |  | P3-07, P3-11, P3-13 | Änderung der Heilmittel- | 21, 30, 38 |
+| 2.4 | 20.07.2021 KBV/GKV-SV |  | P3-09, P3-16, P3-21,   P3-11, P3-13, P3-18,  Glossar,  Referenzierte Dokumente | Konkretisierung der | 22, 24,  26, 30,  38, 41,  51, 53 |
+| 2.5 | 12.05.2022 KBV/GKV-SV |  | P3-07, P3-11, P3-13 | Änderung der Heilmittel- | 21, 30,  38 |
 | 2.6 | 23.03.2023 KBV/GKV-SV |  | P3-07, P3-11 | Erweiterung der | 21, 33 |
 | 2.7 | 18.04.2024 KBV/GKV-SV |  | P3-21 | Änderung der Heilmittel- | 27 |
 
@@ -1437,7 +1437,7 @@ einzelnen Heilmitteln kann durch den Arzt erfolgen, soweit dies aus medizinische
 
 Die untenstehende Tabelle (Tabelle 1) zeigt ein Beispiel für die Verordnung einer standardisierten  Heilmittelkombination mit der Benennung mehrerer Heilmittel.
 
-| Heilmittel nach Maßgabe des Katalogs Heilmittel | Behandlungseinheiten |
+| Heilmittel nach Maßgabe des Katalogs  Heilmittel | Behandlungseinheiten |
 |---|---|
 | Standardisierte Heilmittelkombination (KG;MT;KMT;Wärmetherapie) | 6 |
 |  |  |
@@ -1495,7 +1495,7 @@ Heilmittel je Verordnung für eine Behandlungsdauer von bis zu 12 Wochen verordn
 
 - (1) Der Anwender muss die Möglichkeit haben, ohne Unterbrechung des Workflows und spätestens zum
 
-- Zeitpunkt des Eingabedialogs für die Anzahl der Behandlungseinheiten (siehe P3-11), Informationen  nach P3-01 Punkt (1) zu hinterlegen.
+- Zeitpunkt des Eingabedialogs für die Anzahl der Behandlungseinheiten (siehe P 3-11), Informationen  nach P3-01 Punkt (1) zu hinterlegen.
 
 - (2) Die bis zu diesem Zeitpunkt erfassten Informationen (ICD-10-GM-Code und Diagnosegruppe) werden
 
@@ -1912,7 +1912,7 @@ nicht zuzulassen.
 
 - c. Bei den folgenden Diagnosegruppen (SDHM XML-Element ../kapitel/diagnosegruppe/@V)
 
-- erfolgt die oben genannte Berechnung nicht und der Hinweis wird nicht angezeigt: ST3, DF, NF - und QF.
+- erfolgt die oben genannte Berechnung nicht und der Hinweis wird nicht angezeigt: ST 3, DF, NF - und QF.
 
 - d. Bei den folgenden Diagnosegruppen (SDHM XML-Element ../kapitel/diagnosegruppe/@V)
 
@@ -1972,7 +1972,7 @@ Der Ergebniswert der Therapiefrequenz ist entsprechend den Daten aus der  Freque
 |  | Einzelwert | Wertspanne |
 | „%dx tägl.“, | „%d <maximale Anzahl> | Einheiten pro Tag |
 | „%dx wöch.“, | „%d <maximale Anzahl> | Einheiten pro Woche |
-| „alle %d Wochen“, <minimale Anzahl> | „alle %d | Wochen zwischen zwei |
+| „alle %d Wochen“,  <minimale Anzahl> | „alle %d | Wochen zwischen zwei |
 
 **Tabelle 2:** Formatierungsanweisung Therapiefrequenz
 
@@ -2009,7 +2009,7 @@ Wochen zwischen zwei
 
 Die untenstehende Tabelle 3 zeigt einige Beispiel für die Bedruckung der Verordnung von Heilmitteln  mit den sechs möglichen Angaben der Therapiefrequenz.
 
-| Heilmittel nach Maßgabe des Katalogs Heilmittel |  | Therapiefrequenz für die Heilmittelbehandlung |
+| Heilmittel nach Maßgabe des Katalogs  Heilmittel |  | Therapiefrequenz für die Heilmittelbehandlung |
 |---|---|---|
 | Standardisierte Heilmittelkombination(KG;MT;KMT;Wärmetherapie) |  | 1-2x wöch. |
 | Übungsbehandlung im Bewegungsbad Gruppe |  | 1x wöch. |
@@ -2424,7 +2424,7 @@ Bedruckung des Musters 13 um.
 
 | PFLICHTFUNKTION | |
 |---|---|
-| P3-35 | Einbindung von Heilmittelpreisen durch den Software-Hersteller |
+| P 3-35 | Einbindung von Heilmittelpreisen durch den Software-Hersteller |
 
 Die Software bindet die vom GKV -SV vereinbarten Heilmittelpreise nach § 125 SGB V für alle  verordnungsfähigen Heilmittel laut Heilmittel-Stammdatei ein.
 
@@ -2620,10 +2620,10 @@ Um eigene Auswertungen zu ermöglichen und im Falle von Wirtschaftlichkeitsprüf
 | BVB (regional) | Nach § 106b Abs. 2 Satz 5 SGB V können die Landesve rbände der |
 | BMV-Ä | Bundesmantelvertrag - Ärzte |
 | G-BA | Gemeinsamer Bundesausschuss |
-| GKV-SV | Spitzenverband Bund der Krankenkassen, satzungsgemäß im Rechts - und www.gkv-spitzenverband.de/ |
+| GKV-SV | Spitzenverband Bund der Krankenkassen, satzungsgemäß im Rechts - und  www.gkv-spitzenverband.de/ |
 | Heilmittelkatalog | Der Heilmittelkatalog |
 | HeilM-RL | Heilmittel-Richtlinie des Gemeinsamen Bundesausschuss |
-| Heilmittelbereich | Folgende Heilmittelbereiche werden in der Heilmittel-Richtlinie ▪ ▪ ▪ ▪ ▪ |
+| Heilmittelbereich | Folgende Heilmittelbereiche werden in der Heilmittel-Richtlinie  ▪ ▪ ▪ ▪ ▪ |
 | ICD-10-GM | Die Internationale statistische Klassifikation der Krankheiten und verwandter |
 | KBV | Kassenärztliche Bundesvereinigung |
 
@@ -2653,14 +2653,14 @@ Es werden zum Teil übergeordnete Verweise verwendet. Damit soll vermieden werde
 
 | Referenz | Titel des Dokumentes/Hyperlink |
 |---|---|
-| [EXT_ITA_VGEX_Anforderungskatalog_AVWG] | Anforderungskatalog nach § 73 für https://update.kbv.de/ita- |
-| [KBV_ITA_VGEX_Anforderungskatalog_KVDT] | Anforderungskatalog KVDT (Kassenärztliche https://update.kbv.de/ita- |
-| [KBV_ITA_VGEX_Schnittstelle_SDHM] | Schnittstellenbeschreibung SDHM https://update.kbv.de/ita- |
+| [EXT_ITA_VGEX_Anforderungskatalog_AVWG] | Anforderungskatalog nach § 73 für  https://update.kbv.de/ita- |
+| [KBV_ITA_VGEX_Anforderungskatalog_KVDT] | Anforderungskatalog KVDT (Kassenärztliche  https://update.kbv.de/ita- |
+| [KBV_ITA_VGEX_Schnittstelle_SDHM] | Schnittstellenbeschreibung SDHM  https://update.kbv.de/ita- |
 | [Schnittstelle_SDHMBV] | Schnittstellenbeschreibung SDHMBV (Blanko- https://www.gkv- |
-| [KBV_ITA_VGEX_Mapping_KVK] | Anwendung der eGK Technische Anlage zu Anlage 4a (BMV-Ä) https://update.kbv.de/ita- |
-| [KBV_ITA_VGEX_Anforderungskatalog_Formularbedrucku | Anforderungskatalog Formularbedruckung https://update.kbv.de/ita- |
-| [KBV_ITA_RLEX_Zert] | Zertifizierungsrichtlinie der KBV https://update.kbv.de/ita- |
-| [HeilM-RL] | Richtlinie des Gemeinsamen Bundesausschusses https://www.g-ba.de/informationen/richtlinien/12/ |
+| [KBV_ITA_VGEX_Mapping_KVK] | Anwendung der eGK  Technische Anlage zu Anlage 4a (BMV-Ä)  https://update.kbv.de/ita- |
+| [KBV_ITA_VGEX_Anforderungskatalog_Formularbedrucku | Anforderungskatalog Formularbedruckung  https://update.kbv.de/ita- |
+| [KBV_ITA_RLEX_Zert] | Zertifizierungsrichtlinie der KBV  https://update.kbv.de/ita- |
+| [HeilM-RL] | Richtlinie des Gemeinsamen Bundesausschusses  https://www.g-ba.de/informationen/richtlinien/12/ |
 
 ng] Verordnungssoftware update/Verordnungen/Arzneimittel/ Vereinigung DatenTransfer) update/Abrechnung/KBV_ITA_VGEX_Anforderungsk atalog_KVDT.pdf  (Heilmittelstammdatei) update/Stammdateien/SDHM/SDHM_V2.03.zip Verordnungs-Stammdatei) datenaustausch.de/leistungserbringer/aerzte/aerzte. jsp  update/Abrechnung/KBV_ITA_VGEX_Mapping_KVK. pdf update/Abrechnung/KBV_ITA_VGEX_Anforderungsk atalog_Formularbedruckung.pdf update/Allgemein/KBV_ITA_RLEX_Zert.pdf über die Verordnung von Heilmitteln in der vertragsärztlichen Versorgung
 
@@ -2668,9 +2668,9 @@ ng] Verordnungssoftware update/Verordnungen/Arzneimittel/ Vereinigung DatenTrans
 
 | Referenz | Titel des Dokumentes/Hyperlink |
 |---|---|
-| [HeilM-Katalog] | Zweiter Teil der Heilmittel-Richtlinie - Zuordnung der https://www.g-ba.de/informationen/richtlinien/12/ |
-| [Heilmittel_Anhang_1] | Anhang 1 zur Anlage 2 der Rahmenvorgaben nach § http://www.kbv.de/html/2756.php |
-| [Heilmittel_Anlage_2] | Anlage 2 zur Heilmittel -Richtlinie: Diagnoseliste zum https://www.g-ba.de/informationen/richtlinien/12/ |
+| [HeilM-Katalog] | Zweiter Teil der Heilmittel-Richtlinie - Zuordnung der  https://www.g-ba.de/informationen/richtlinien/12/ |
+| [Heilmittel_Anhang_1] | Anhang 1 zur Anlage 2 der Rahmenvorgaben nach §  http://www.kbv.de/html/2756.php |
+| [Heilmittel_Anlage_2] | Anlage 2 zur Heilmittel -Richtlinie: Diagnoseliste zum  https://www.g-ba.de/informationen/richtlinien/12/ |
 | [Heilmittel_Preise] | Heilmittelpreise nach § 125 SGB V www.gkv- |
 
 Heilmittel zu Indikationen (Heilmitt elkatalog) nach § 92 Absatz 6 Satz 1 Nummer 2 SGB V 106b Abs. 2 SGB V für die Wirtschaftlichkeitsprüfung ärztlich verordneter Leistungen vom 30.11.2015 langfristigen Heilmittelbedarf nach § 32 Abs. 1a SGB heilmittel.de/fuer_heilmittelerbringer/heilmittelprei se/heilmittelpreise.jsp

@@ -167,6 +167,8 @@ TG Phoniatrie und Pädaudiologie
 
 145
 
+7 / KBV / SCHLÜSSELTABELLE - S_BAR2_WBO
+
 **Bezeichnung**
 
 FÄ/FA Haut- und Geschlechtskrankheiten
@@ -237,6 +239,8 @@ FÄ/FA Psychiatrie
 
 
 ---
+
+**Code**
 
 146
 
@@ -310,6 +314,10 @@ FÄ/FA Psychiatrie
 |---|---|
 | 308 | FÄ/FA Physiologie |
 
+7 / KBV / SCHLÜSSELTABELLE - S_BAR2_WBO
+
+**Bezeichnung**
+
 TG Kinderneuropsychiatrie; neue Bundesländer
 
 FÄ/FA Psychiatrie und Psychotherapie
@@ -381,6 +389,8 @@ Medizinische Informatik
 
 ---
 
+**Code**
+
 309
 
 310
@@ -451,6 +461,10 @@ Medizinische Informatik
 |---|---|
 | 372 | Fachwissenschaftlerin/Fachwissenschaftler Genetik |
 
+7 / KBV / SCHLÜSSELTABELLE - S_BAR2_WBO
+
+**Bezeichnung**
+
 FÄ/FA Physiotherapie; neue Bundesländer
 
 FÄ/FA Psychotherapie; neue Bundesländer
@@ -507,6 +521,8 @@ Fachzahnärztin/Fachzahnarzt für Mikrobiologie 2 BMV-Ä)
 
 
 ---
+
+**Code**
 
 373
 
@@ -578,6 +594,10 @@ Fachzahnärztin/Fachzahnarzt für Mikrobiologie 2 BMV-Ä)
 |---|---|
 | 531 | SP Neuropädiatrie |
 
+7 / KBV / SCHLÜSSELTABELLE - S_BAR2_WBO
+
+**Bezeichnung**
+
 Fachwissenschaftlerin/Fachwissenschaftler Immunologie
 
 Fachwissenschaftlerin/Fachwissenschaftler Zytologie/Histologie
@@ -638,6 +658,8 @@ TG Kardiologie und Angiologie; kammerindividuell
 
 
 ---
+
+**Code**
 
 532
 
@@ -709,6 +731,10 @@ TG Kardiologie und Angiologie; kammerindividuell
 |---|---|
 | 566 | FÄ/FA Mikrobiologie |
 
+7 / KBV / SCHLÜSSELTABELLE - S_BAR2_WBO
+
+**Bezeichnung**
+
 FÄ/FA Mikrobiologie, Virologie und Infektionsepidemiologie
 
 SP Forensische Psychiatrie
@@ -770,6 +796,8 @@ TG Kinderkardiologie
 
 ---
 
+**Code**
+
 567
 
 568
@@ -819,6 +847,10 @@ TG Kinderkardiologie
 991
 
 992
+
+7 / KBV / SCHLÜSSELTABELLE - S_BAR2_WBO
+
+**Bezeichnung**
 
 FÄ/FA Oralchirurgie; kammerindividuell
 

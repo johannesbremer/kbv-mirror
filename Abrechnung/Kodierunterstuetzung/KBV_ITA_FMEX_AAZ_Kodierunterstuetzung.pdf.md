@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT 15. MAI 2024 VERSION: 1.3  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT  15. MAI 2024  VERSION: 1.3   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # ANTRAG AUF ZERTIFIZIERUNG  KODIERUNTERSTÜTZUNG
@@ -32,15 +32,15 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 |  |  | | |
 |---|---|---|---|
-| Name des Antragstellers [bei juristischen Personen ist die |  | | |
+| Name des Antragstellers  [bei juristischen Personen ist die |  | | |
 | Geschäftsbereich [falls |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
 | E-Mail-Adresse |  | | |
 | Webseite |  | | |
-| Der Antragsteller ist | ☐  Arzt/Ärztin | ☐  Softwarehaus | ☐  Sonstiges |
-| Systempfleger [nur anzugeben, wenn der |  | | |
+| Der Antragsteller ist | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
+| Systempfleger  [nur anzugeben, wenn der |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
@@ -78,6 +78,8 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls
 1.1.
 
 vorhanden) des Zertifizierungsgegenstandes an.
+
+/ Version: 1.3 / 15. Mai 2024
 
 Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] von Direktabrechnungen gemäß §§ 115b, 116b und 120 Abs. 3 SGB V verwendet. von selektivvertraglichen Abrechnungen verwendet.
 
@@ -121,6 +123,8 @@ Folgende optionale Funktionen sind gem. Anforderungskatalog
 
 -Betriebssysteme unterstützt werden.
 
+/ Version: 1.3 / 15. Mai 2024
+
 Kodierunterstützung realisiert.
 
 [ ] [ ] [ ] [ ] [ ] [ ] Anforderungskataloges Kodierunterstützung sind realisiert. des Einsatzbereiches des [ ] [ ] [ ] LT. ANFORDERUNGSKATALOG
@@ -147,6 +151,8 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 | E-Mail-Adresse |  |
 
 Diese Information ist verpflichtend anzugeben
+
+/ Version: 1.3 / 15. Mai 2024
 
 
 ---
@@ -201,6 +207,8 @@ Diese Information ist verpflichtend anzugeben
 
 - Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung].
 
+/ Version: 1.3 / 15. Mai 2024
+
 Rezertifizierung
 
 ---
@@ -232,6 +240,8 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstel
 Kassenärztliche Bundesvereinigung
 
 Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+
+/ Version: 1.3 / 15. Mai 2024
 
 - stellten Daten zurückweisen können.
 

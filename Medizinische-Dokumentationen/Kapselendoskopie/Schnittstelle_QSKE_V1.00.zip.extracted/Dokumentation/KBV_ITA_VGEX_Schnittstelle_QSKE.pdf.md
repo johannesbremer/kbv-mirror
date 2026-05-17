@@ -102,6 +102,8 @@ Kapselendoskopie
 
 4.3.9 anzahl_untersuchungen_ohne_nachweis_blutungsquelle .................................................. 20
 
+Kapselendoskopie
+
 
 ---
 
@@ -131,25 +133,33 @@ Kapselendoskopie
 
 **22**
 
+Kapselendoskopie
+
 
 ---
 
-| **IT in** | **der Arztpraxis** | |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-|  | Schnittstellenbeschreibung | | QS | Kapselendoskopie |  |  |  |
-|  |  |  | **ABBILDUNGSVERZEICHNIS** | | |  |  |
-|  | **Abbildung 1** | **- Element** | **ehd** |  | **.................................................................................................** | | **12** |
-| **Abbildung** | **2 -** | **Element id** |  |  | **....................................................................................................** | | **13** |
-| **Abbildung** | **3 -** | **Element** | **document_type_cd** |  | **.......................................................................** | | **13** |
-|  | **Abbildung 4** | **- Element** |  | **document_relationship** | | **.................................................................** | **13** |
-| **Abbildung** | **5 -** | **Element provider** |  |  | **.........................................................................................** | | **14** |
-| **Abbildung** | **6** | **- Element** | **interface** |  | **.........................................................................................** | | **14** |
-|  | **Abbildung 7** | **- Element** |  | **sciphox:Software** |  | **..........................................................................** | **15** |
-|  | **Abbildung 8** | **- Element** | **body** |  | **...............................................................................................** | | **17** |
-|  | **Abbildung 9** | **- Element** |  | **qske_dokumentation** |  | **....................................................................** | **18** |
-|  |  | KBV_ITA_VGEX_Schnittstelle_QSKE | * | Version 1.00 |  | Seite | 5 von 22 |
+#### ABBILDUNGSVERZEICHNIS
 
-Abbildung 1 - Element ehd Abbildung 2 - Element id .................................................................................................... Abbildung 3 - Element document_type_cd ....................................................................... Abbildung 4 - Element document_relationship Abbildung 5 - Element provider ......................................................................................... Abbildung 6 - Element interface Abbildung 7 - Element sciphox:Software Abbildung 8 - Element body Abbildung 9 - Element qske_dokumentation
+**Abbildung 1 - Element ehd ................................................................................................. 12**
+
+**Abbildung 2 - Element id .................................................................................................... 13**
+
+**Abbildung 3 - Element document_type_cd ....................................................................... 13**
+
+**Abbildung 4 - Element document_relationship ................................................................. 13**
+
+**Abbildung 5 - Element provider ......................................................................................... 14**
+
+**Abbildung 6 - Element interface ......................................................................................... 14**
+
+**Abbildung 7 - Element sciphox:Software .......................................................................... 15**
+
+**Abbildung 8 - Element body ............................................................................................... 17**
+
+**Abbildung 9 - Element qske_dokumentation .................................................................... 18**
+
+Kapselendoskopie
+
 
 ---
 
@@ -160,6 +170,8 @@ Abbildung 1 - Element ehd Abbildung 2 - Element id .............................
 **Tabelle 2 – Beschreibung der Strukturelement-Symbole ................................................. 10**
 
 **Tabelle 3 – Beschreibung sonstiger Symbole ................................................................... 11**
+
+Kapselendoskopie
 
 
 ---
@@ -178,8 +190,12 @@ Abbildung 1 - Element ehd Abbildung 2 - Element id .............................
 
 **XML-Code 6 - qske dokumentation .................................................................................... 19**
 
+Kapselendoskopie
+
 
 ---
+
+Kapselendoskopie
 
 # 1. Einleitung
 
@@ -191,7 +207,7 @@ Dieses Dokument beschreibt die Schnittstelle QS Kapselendoskopie. Die Schnittste
 
 ## 1.1 Zweck des Dokuments
 
-Das vorliegende Dokument erklärt dem Leser, wie die Schnittstelle eDoku-Portal aussieht, wie  sie funktioniert und wie er sie aufrufen kann.
+Das vorliegende Dokument erklärt dem Leser, wie die Schnittstelle e Doku-Portal aussieht, wie  sie funktioniert und wie er sie aufrufen kann.
 
 Der Leser soll erfahren, was er tun muss, um die Jahresstatistik über die Schnittstelle einzu- reichen. Dazu gehört sowohl das technische Verständnis für die Schnittstelle, als auch das  fachliche Wissen darüber, wie valide Daten aussehen und in welcher Form sie von der  Schnittstelle erwartet werden.
 
@@ -201,6 +217,8 @@ Das Dokument richtet sich an Hersteller von Praxisverwaltungs- bzw. Arztinformat
 
 
 ---
+
+Kapselendoskopie
 
 # 2. Dateinamen
 
@@ -252,9 +270,13 @@ Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinand
 
 **Tabelle 2 – Beschreibung der Strukturelement-Symbole**
 
+Kapselendoskopie
+
 gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen.  Existieren keine Daten zu diesem Element, wird es nicht angegeben. Das Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1.. aus, dass das Element mindestens einmal vorkommen muss aber auch unendlich mal auftreten kann.  drückt z.B. elementen genau eins ausgewählt werden kann. in festgelegter Reihenfolge aufgeführt werden müssen.
 
 ---
+
+Kapselendoskopie
 
 ## 3.3 Sonstige Symbole
 
@@ -272,6 +294,8 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 zeichen am Rechteckrand symbolisiert. das Element an anderer Stelle im Schema definiert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein. siert einen Datentyp.  Gruppenelement dar, welches verschiedene Elemente zusam- menfasst.
 
 ---
+
+Kapselendoskopie
 
 # 4. Beschreibung der ehd-Schnittstelle
 
@@ -350,10 +374,12 @@ mente eingeschränkt:
 
 **Abbildung 4 - Element document_relationship**
 
+Kapselendoskopie
+
 
 ---
 
-| <ehd:document_relationship> <ehd:document_relationship.type_cd V="RPLC"/> <ehd:related_document> <ehd:id EX="ag111105-2d51-4016-831e-cbd9e1a318h9" RT="555333222"/> </ehd:related_document> </ehd:document_relationship> |
+| <ehd:document_relationship>  <ehd:document_relationship.type_cd V="RPLC"/>  <ehd:related_document>  <ehd:id EX="ag111105-2d51-4016-831e-cbd9e1a318h9" RT="555333222"/>  </ehd:related_document>  </ehd:document_relationship> |
 |---|
 
 **XML-Code 2 - document_relationship**
@@ -382,12 +408,14 @@ Betriebsstättennummer, (id-Element EX-Attribut enthält die Betriebsstätten- n
 
 **Abbildung 6 - Element interface**
 
+Kapselendoskopie
+
 
 ---
 
 XML-Beispiel
 
-| </ehd:person>     </ehd:organization>             <ehd:local_header>           </ehd:header> |
+| </ehd:person>        </ehd:organization>                    <ehd:local_header>                  </ehd:header> |
 |---|
 
 **XML-Code 3 - ehd-header**
@@ -403,6 +431,8 @@ Die Information über die Software und deren Verantwortliche wird mittels der Sc
 *phox:id*. Die Struktur für dieses Element ist in Abbildung 7 dargestellt.
 
 **Abbildung 7 - Element sciphox:Software**
+
+Kapselendoskopie
 
 <ehd:header> <ehd:id RT="555333222" EX="ag111105-2d51-4016-831e-cbd9e1a318h9"/> <ehd:document_type_cd V="QSKE"/> <ehd:origination_dttm V="2013-02-02"/> <ehd:provider> <ehd:person> <ehd:id EX="555333222" RT="1.2.276.0.76.4.16"/> <ehd:organization> <ehd:id EX="123456789" RT="1.2.276.0.76.4.17"/> </ehd:provider> <ehd:interface> <ehd:id EX="QSKE" RT="1.2.276.0.76.5.109"/> <ehd:interface.nm V="QS Kapselendoskopie"/> <ehd:version V="1.00"/> <ehd:/interface> <sciphox:sciphox-ssu type="software" country="de" version="v1"> <sciphox:Software> <sciphox:id  EX="..." RT="KBV-Prüfnummer"/>   </sciphox:Software> </sciphox:sciphox-ssu> </ehd:local_heaer>
 
@@ -440,6 +470,8 @@ Als Beispiel sei hier der folgende Code mit fiktiver KBV-Prüfnummer angegeben:
 
 **XML-Code 5 - id (Software)**
 
+Kapselendoskopie
+
 
 ---
 
@@ -453,6 +485,8 @@ Das body-Element hat den benutzerdefinierten Typ  sem Typ wird im Kapitel 4.3 be
 
 Das Element *qske_dokumentation*
 
+Kapselendoskopie
+
 **Abbildung 8 - Element body**
 
 ## dokumentation
@@ -464,13 +498,17 @@ enthält die QS Kapselendoskopie Jahresstatistik.
 
 ---
 
-| <qske:qske_dokumentation> <anzahl_erstuntersuchungen V="10"/> |
+| <qske:qske_dokumentation>  <anzahl_erstuntersuchungen V="10"/> |
 |---|
-| Abbildung 9 - Element qske_dokumentation  XML-Beispiel (ohne Anspruch auf Vollständigkeit) <qske:qske_dokumentation> <anzahl_erstuntersuchungen V="10"/> |
+| Abbildung 9 - Element qske_dokumentation    XML-Beispiel (ohne Anspruch auf Vollständigkeit)  <qske:qske_dokumentation>  <anzahl_erstuntersuchungen V="10"/> |
+
+Kapselendoskopie
 
 <anzahl_wiederholungsuntersuchungen V="10"/> <anzahl_nicht_zutreffend V="5"/> <anzahl_kapselendoskopien_mit_auslassung V="15"/> <anzahl_kapselendoskopien_ohne_auslassung V="2"/> <anzahl_auswertungen_selbst V="3"/> <anzahl_auswertungen_anderer_arzt V="15"/> <anzahl_untersuchungen_mit_nachweis_blutungsquelle V="0"/>
 
 ---
+
+Kapselendoskopie
 
 | </qske:qske_dokumentation> |
 |---|
@@ -556,6 +594,8 @@ Die Anzahl (nonNegativeInteger) der unvollständiger Untersuchungen aufgrund von
 
 Die Anzahl (nonNegativeInteger) der unvollständiger Untersuchungen aufgrund von Retention  mehr als 2 Stunden im Magen (entspricht Feld 6.b.I.03 der Plausibilitäten) wird hier im V- Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
 
+Kapselendoskopie
+
 
 ---
 
@@ -575,8 +615,12 @@ Die Anzahl (nonNegativeInteger) der unvollständiger Untersuchungen aufgrund and
 
 Die Anzahl (nonNegativeInteger) der empfohlener Wiederholungsuntersuchungen aufgrund  von Einschränkungen gemäß Nummern 5 und 6 der Plausibilitäten (entspricht Feld 7 der  Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 lie- gen.
 
+Kapselendoskopie
+
 
 ---
+
+Kapselendoskopie
 
 # 5. Referenzierte Dokumente
 
@@ -585,4 +629,4 @@ Die Anzahl (nonNegativeInteger) der empfohlener Wiederholungsuntersuchungen aufg
 | [KBV_ITA_VGEX_eHD] | Richtlinie ehd - eHealthData |
 | [KBV_ITA_VGEX_Plausi_QSKE] | Plausibilitäten der Qualitätssicherungsvereinbarung Kapselen- |
 | [1] | Qualitätssicherungsvereinbarung Kapselendoskopie |
-| [2] | XML Schema Part 0: Primer Second Edition http://www.w3.org/TR/xmlschema-0/ |
+| [2] | XML Schema Part 0: Primer Second Edition  http://www.w3.org/TR/xmlschema-0/ |

@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 9. SEPTEMBER 2025  VERSION: 1.62  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 9. SEPTEMBER 2025   VERSION: 1.62   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # PRÜFPAKET ELEKTRONISCHE  ARBEITSUNFÄHIGKEITSBESCHEINIGUNG
@@ -73,11 +73,11 @@ DOKUMENTENHISTORIE
 |---|---|---|---|---|---|
 | 1.62 | 09.09.2025 | KBV | Korrektur des XML-Verweises für |  | 8 |
 | 1.61 | 03.09.2025 | KBV | Klarstellung der Anweisung von |  | 15 |
-| 1.60 | 27.08.2025 | KBV | Anpassung der Prüfung an die  Flexibilisierung der |  | Alle   8 |
-| 1.50 | 30.11.2021 | KBV | Anpassungen der Formulierung  Erweiterung der |  | 17     18 |
-| 1.40 | 10.06.2021 | KBV | Anpassung der Formulierung der  Anpassung der Formulierung des |  | 14   15 |
-| 1.30 | 30.04.2021 | KBV | Korrektur der Anforderung an     Streichung der einzureichenden | Die Groß- und  Die Betreffzeile einer | 9       12 |
-| 1.20 | 24.02.2021 | KBV | Änderung der  Angabe „AU | Anpassung der | 6   10, |
+| 1.60 | 27.08.2025 | KBV | Anpassung der Prüfung an die    Flexibilisierung der |  | Alle      8 |
+| 1.50 | 30.11.2021 | KBV | Anpassungen der Formulierung    Erweiterung der |  | 17          18 |
+| 1.40 | 10.06.2021 | KBV | Anpassung der Formulierung der    Anpassung der Formulierung des |  | 14      15 |
+| 1.30 | 30.04.2021 | KBV | Korrektur der Anforderung an          Streichung der einzureichenden | Die Groß- und    Die Betreffzeile einer | 9              12 |
+| 1.20 | 24.02.2021 | KBV | Änderung der    Angabe „AU | Anpassung der | 6      10, |
 | 1.10 | 02.02.2021 | KBV | Überarbeitung des Prüfpaketes |  | Alle |
 
 Ernesto Müller Prüffall 08 eAU-FHIR-Version 1.2.0  Praxisstammdaten des Testziels, der Aktion sowie einzureichenden Unterlagen im PF12  Testdatenvalidierung bzgl. der Prüfung von Barcodes Voraussetzung in PF08 Testziels in PF10 den einzureichenden Screenshot in Prüffall PF01 Prüfunterlage „Screenshot der Betreffzeile“ in Prüffall PF05 Komponentennummer seit“ in Prüffällen mit Folgebescheinigungen gestrichen Kleinschreibung des Header-Elements „Reply To“ der KIM Nachricht wurde korrigiert. eAU-Nachricht wird bereits in Prüffall PF01 geprüft. Mit der Streichung wird das Zertifizierungsverfahren vereinfacht.   technischen Anlage eAU 11,
@@ -255,7 +255,7 @@ Prüffälle als XML-Dateien
 | Brigitte Althaus | XML_05 |
 | Viktor Müller | XML_09 |
 | Ingrid Schimmelpfennig-Hammerschmidt | XML_37 |
-| Ernesto Müller | XML_51 XML_50 |
+| Ernesto Müller | XML_51  XML_50 |
 
 **Anmerkung:**
 
@@ -320,7 +320,7 @@ Federmannssohn
 |---|---|
 | Prüffall-ID | PF01 |
 | Testziel | Erstellung einer eAU (Erstbescheinigung) für den Patienten |
-| Voraussetzung | › › Patient „Karl |
+| Voraussetzung | ›  › Patient „Karl |
 | Aktion |  |
 | Einzureichende |  |
 | Hinweis | Für die Zertifizierung sind die einzureichenden XML |
@@ -350,7 +350,7 @@ Es muss die Möglichkeit bestehen, von den Ein- und Ausgabemasken des zu prüfen
 |---|---|
 | Prüffall-ID | PF02 |
 | Testziel | Erstellung einer eAU (Folge |
-| Voraussetzung | › › › Patient „Karl |
+| Voraussetzung | ›  ›  › Patient „Karl |
 | Aktion |  |
 | Einzureichende |  |
 | Hinweis | Für die Zertifizierung sind die einzureichenden XML |
@@ -361,7 +361,7 @@ Es muss die Möglichkeit bestehen, von den Ein- und Ausgabemasken des zu prüfen
 |---|---|
 | Prüffall-ID | PF03 |
 | Testziel | Stornierung der eAU aus PF02 |
-| Voraussetzung | › › |
+| Voraussetzung | ›  › |
 | Aktion |  |
 | Einzureichende |  |
 
@@ -385,7 +385,7 @@ Prüfunterlagen bescheinigung) für den Patienten „ Karl-Friederich Schaumberg
 |---|---|
 | Prüffall-ID | PF04 |
 | Testziel | Erstellung einer eAU (Folgebescheinigung) für den Patienten „ |
-| Voraussetzung | › › › Patient „Karl |
+| Voraussetzung | › ›  › Patient „Karl |
 | Aktion |  |
 | Einzureichende |  |
 | Hinweis | Für die Zertifizierung sind die einzureichenden XML |
@@ -405,7 +405,7 @@ Prüfunterlagen bescheinigung) für den Patienten „ Karl-Friederich Schaumberg
 |---|---|
 | Prüffall-ID | PF05 |
 | Testziel | Erstellung einer eAU (Folgebescheinigung) für d |
-| Voraussetzung | › › Patientin „Brigitte Althaus“ ist im System ausgewählt |
+| Voraussetzung | ›  › Patientin „Brigitte Althaus“ ist im System ausgewählt |
 | Aktion |  |
 | Einzureichende |  |
 | Hinweis | Für die Zertifizierung sind die einzureichenden XML |
@@ -421,7 +421,7 @@ Prüfunterlagen ie Patientin Arzt 1 ist als ausstellender Arzt im System ausgew�
 |---|---|
 | Prüffall-ID | PF06 |
 | Testziel | Erstellung einer eAU (Folgebescheinigung |
-| Voraussetzung | › › Patient „Viktor Müller“ ist im System ausgewählt |
+| Voraussetzung | ›  › Patient „Viktor Müller“ ist im System ausgewählt |
 | Aktion | Der Anwender visualisiert die erzeugte eAU mit dem |
 | Einzureichende |  |
 | Hinweis | Für die Zertifizierung sind die einzureichenden XML |
@@ -448,7 +448,7 @@ Prüfunterlagen ) für den Patienten „ Arzt 1 als ausstellender Arzt ist im Sy
 |---|---|
 | Prüffall-ID | PF08 |
 | Testziel | Erstellung einer eAU (Folgebescheinigung) für den Patienten |
-| Voraussetzung | › › › Patient „Enesto Müller“ ist |
+| Voraussetzung | ›  ›  › Patient „Enesto Müller“ ist |
 | Aktion |  |
 | Einzureichende |  |
 | Hinweis | Wenn ein Arzt in Weiterbildung eine AU ausstellt, dann muss ebenfalls der |
@@ -482,7 +482,7 @@ Prüfunterlagen -Kasse-Arzt_96d6a790- afc2-4556-ab73-301e51a7bf30.xml [Testdaten
 |---|---|
 | Prüffall-ID | PF10 |
 | Testziel | Anzeige der erzeugten/versendeten Daten |
-| Voraussetzung | Prüffälle PF01 bis PF08 wurden durchgeführt |
+| Voraussetzung | Prüffälle PF01 bis PF 08 wurden durchgeführt |
 | Einzureichende |  |
 
 **Tabelle 10: Prüffalltabelle**
@@ -586,13 +586,13 @@ Bitte beachten Sie die folgende Verzeichnisstruktur des zip-Archivs.
 |  |  |
 |---|---|
 | Referenz | Dokument |
-| KBV_ITA_RLEX_Zert | Zertifizierungsrichtlinie der KBV  https://update.kbv.de/ita- |
-| KBV_ITA_VGEX_Technische_Anlage_eAU | Technische Anlage zur eAU  https://update.kbv.de/ita- |
-| KBV_ITA_VGEX_Technisches_Handbuch_DiMus | Technisches Handbuch Digitale Vordrucke  https://update.kbv.de/ita- |
-| KBV_ITA_FMEX_AAZ_eAU | Antrag auf Zertifizierung eAU  https://update.kbv.de/ita- |
-| gemLeit_Best_Konf_PS | Leitfaden Bestätigung der Konformität des  https://fachportal.gematik.de/hersteller |
-| VSD_5.2.0_Testfaelle_Vn.n.zip | Testdaten VSD in der aktuellen Version  https://update.kbv.de/ita- |
-| Testdaten_eAU | Testdaten eAU in der aktuellen Version  https://update.kbv.de/ita- |
+| KBV_ITA_RLEX_Zert | Zertifizierungsrichtlinie der KBV   https://update.kbv.de/ita- |
+| KBV_ITA_VGEX_Technische_Anlage_eAU | Technische Anlage zur eAU    https://update.kbv.de/ita- |
+| KBV_ITA_VGEX_Technisches_Handbuch_DiMus | Technisches Handbuch Digitale Vordrucke   https://update.kbv.de/ita- |
+| KBV_ITA_FMEX_AAZ_e AU | Antrag auf Zertifizierung eAU    https://update.kbv.de/ita- |
+| gemLeit_Best_Konf_PS | Leitfaden Bestätigung der Konformität des    https://fachportal.gematik.de/hersteller |
+| VSD_5.2.0_Testfaelle_Vn.n.zip | Testdaten VSD in der aktuellen Version    https://update.kbv.de/ita- |
+| Testdaten_eAU | Testdaten eAU in der aktuellen Version    https://update.kbv.de/ita- |
 
 **Kontakt:**
 

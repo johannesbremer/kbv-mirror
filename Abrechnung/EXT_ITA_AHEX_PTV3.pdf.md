@@ -160,3 +160,7 @@ o Für Psychologische Psychotherapeutinnen/Psychotherapeuten und Kinder- und Jug
 - ggf. Kopie des Konsiliarberichts (Pseudonymisierung beachten!)
 
 - ggf. Kopien ergänzender Befundberichte (Pseudonymisierung beachten!)
+
+### gültig ab 01.07.2020
+
+Leitfaden PTV 3

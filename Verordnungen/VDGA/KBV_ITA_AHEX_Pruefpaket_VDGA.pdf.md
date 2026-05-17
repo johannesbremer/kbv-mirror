@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 27. MÄRZ 2024  VERSION: 1.5  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 27. MÄRZ 2024   VERSION: 1.5   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # PRÜFPAKET VERORDNUNG DIGITALER  GESUNDHEITSANWENDUNGEN
@@ -107,8 +107,8 @@ DOKUMENTENHISTORIE
 |---|---|---|---|---|---|
 | 1.5 | 27.03.2024 | KBV | Redaktionelle Korrektur der |  | 11 |
 | 1.4 | 21.02.2024 | KBV | Redaktionelle Korrektur der |  | 10 |
-| 1.3 | 19.01.2024 | KBV | Optionalisierung des Prüffalls 03 Aufnahme von Hinweisen zum |  | 12 10, 11, 12 |
-| 1.2 | 04.12.2023 | KBV | Streichung des nicht genutzten Redaktionelle Korrektur von Anpassung der Reihenfolge der |  | 8  12 ff |
+| 1.3 | 19.01.2024 | KBV | Optionalisierung des Prüffalls 03 Aufnahme von Hinweisen zum |  | 12  10, 11,  12 |
+| 1.2 | 04.12.2023 | KBV | Streichung des nicht genutzten  Redaktionelle Korrektur von  Anpassung der Reihenfolge der |  | 8    12 ff |
 | 1.1 | 12.10.2023 | KBV | Korrektur der Überschrift von |  | 12 |
 | 1.0 | 15.09.2023 | KBV | Erstellung des Prüfpaketes |  | Alle |
 
@@ -247,7 +247,7 @@ Die geforderten Videomitschnitte müssen ebenfalls im Hauptverzeichnis übermitt
 
 folgender Namenskonvention entsprechen. Diese werden durch den Prüfer begutachtet.
 
-2.3
+2 3
 
 <PrüffallNr.> _[AnweisungsNr.] .*  z.B. **PF01.mp4**
 

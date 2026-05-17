@@ -9,6 +9,8 @@
 
 ---
 
+### Elektronische Ausfüllhilfe Muster 26 – Verordnung Soziotherapie
+
 **Erläuterungen zu den einzelnen Feldern**
 
 - **1. Diagnose (ICD-10-Code)**

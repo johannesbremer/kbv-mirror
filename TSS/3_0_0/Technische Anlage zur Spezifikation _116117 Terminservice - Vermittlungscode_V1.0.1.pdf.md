@@ -109,28 +109,12 @@ Seite 3 von 11 / KBV / Technische Anlage zur Spezifikation "116117 Terminservice
 
 ---
 
-**VERSION**
+| **VERSION** | **DATUM** | **AUTOR** | **KAPITEL** |  | **ÄNDERUNG** |  | **STATUS** |
+|---|---|---|---|---|---|---|---|
+| 0.1 | 14.08.2024 | kv.digital | alle | initiale |  | Erstellung | außer Kraft |
+| Seite 4 von | 11 / KBV / | Technische Anlage | zur Spezifikation | "116117 | Terminservice | - Vermittlungscode" |  |
 
-0.1
-
-4 11
-
-**DATUM**
-
-14.08.2024
-
-**AUTOR KAPITEL**
-
-kv.digital alle
-
-**ÄNDERUNG**
-
-initiale Erstellung
-
-**STATUS**
-
-außer Kraft
-
+/ KBV / Technische Anlage zur Spezifikation "116117 Terminservice - Vermittlungscode"  initiale Erstellung
 
 ---
 
@@ -162,7 +146,7 @@ Diese Schnittstelle dient dazu, Überweisungen bzw. Vermittlungen an Psychothera
 
 Die Spezifikation umfasst die Formate der zu übertragenden Daten.
 
-5 11
+Seite 5 von 11 / KBV / Technische Anlage zur Spezifikation "116117 Terminservice - Vermittlungscode"
 
 
 ---
@@ -175,7 +159,7 @@ Die Authentifizierung und Authentifizierungsverfahren erfolgt gemäß [TSS_Auth]
 
 Anwender der Schnittstelle können für die Praxen Vermittlungscodes anfordern, für die sie sich im  Authentifizierungsverfahren mittels SMC-B authentisieren konnten.
 
-6 11
+Seite 6 von 11 / KBV / Technische Anlage zur Spezifikation "116117 Terminservice - Vermittlungscode"
 
 
 ---
@@ -192,7 +176,7 @@ Bei den derzeitigen "Use Cases" existieren zwei Prozessteilnehmer, der Überweis
 
 **1 Abbildung Workflow Vermittlungscode abrufen** Wenn bei der Anforderung eines Vermittlungscodes Patientendaten mitgegeben werden, wird davon  ausgegangen, dass der Patient hierzu sein Einverständnis gegenüber dem Arzt gegeben hat.
 
-7 11
+Seite 7 von 11 / KBV / Technische Anlage zur Spezifikation "116117 Terminservice - Vermittlungscode"
 
 
 ---
@@ -215,7 +199,7 @@ Der Vermittlungscode besteht aus einer Folge von genau 12 Zeichen (Großbuchstab
 
 - überweisender Arzt/Psychotherapeut - Daten des Patienten
 
-8 11
+Seite 8 von 11 / KBV / Technische Anlage zur Spezifikation "116117 Terminservice - Vermittlungscode"
 
 
 ---
@@ -262,7 +246,7 @@ bsnr
 
 **1 Tabelle Eingabe-Parameter (Request)**
 
-9 11
+Seite 9 von 11 / KBV / Technische Anlage zur Spezifikation "116117 Terminservice - Vermittlungscode"
 
 **FHIR RESSOURCE**
 
@@ -325,7 +309,7 @@ Elemente mit der Eigenschaft "mustSupport" müssen immer implementiert werden. S
 
 Die Übermittlung der Daten erfolgt ausschließlich im XML Format (Content-Type application/xml oder  application/xml+fhir). Eine Übermittlung in JSON wird nicht unterstützt.
 
-10 11
+Seite 10 von 11 / KBV / Technische Anlage zur Spezifikation "116117 Terminservice - Vermittlungscode"
 
 
 ---
@@ -336,4 +320,6 @@ Die Übermittlung der Daten erfolgt ausschließlich im XML Format (Content-Type 
 
 - FHIR-Profile zu Vermittlungscode: [https://simplifier.net/Vermittlungscode-abrufen-PVS](https://simplifier.net/Vermittlungscode-abrufen-PVS)
 
-- [Implementation Guide]: [https://simplifier.net/guide/implementierungsleitfaden-vermittlungscode-](https://simplifier.net/guide/implementierungsleitfaden-vermittlungscode-) anfordern-fuer-pvs?version=current [https://simplifier.net/guide/implementierungsleitfaden-](https://simplifier.net/guide/implementierungsleitfaden-) vermittlungscode-anfordern-fuer-pvs 11 11
+- [Implementation Guide]: [https://simplifier.net/guide/implementierungsleitfaden-vermittlungscode-](https://simplifier.net/guide/implementierungsleitfaden-vermittlungscode-) anfordern-fuer-pvs?version=current [https://simplifier.net/guide/implementierungsleitfaden-](https://simplifier.net/guide/implementierungsleitfaden-) vermittlungscode-anfordern-fuer-pvs
+
+Seite 11 von 11 / KBV / Technische Anlage zur Spezifikation "116117 Terminservice - Vermittlungscode"

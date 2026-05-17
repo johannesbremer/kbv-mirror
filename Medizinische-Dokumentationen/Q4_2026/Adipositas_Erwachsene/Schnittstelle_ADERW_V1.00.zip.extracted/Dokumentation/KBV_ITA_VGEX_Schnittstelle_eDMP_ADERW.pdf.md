@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 19. FEBRUAR 2026  VERSION: 1.00  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 19. FEBRUAR 2026   VERSION: 1.00   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # SCHNITTSTELLENBESCHREIBUNG  ADIPOSITAS - ERWACHSENE
@@ -46,9 +46,11 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **12**
 
-| **5** |  | **CLINICAL_DOCUMENT_HEADER** | |  |  |  | **13** |
-|---|---|---|---|---|---|---|---|
-| 5.1 | Unterschiede | im Header | des Datensatzes | zum | DMP Adipositas | - Erwachsene | 13 |
+**5** **CLINICAL_DOCUMENT_HEADER**
+
+**13**
+
+5.1 Unterschiede im Header des Datensatzes zum DMP Adipositas - Erwachsene 13
 
 **6** **BODY DER „ERSTMALIGEN DOKUMENTATION“**
 
@@ -131,8 +133,6 @@ Adipositas-Schulung empfohlen (bei aktueller Dokumentation) 27
 Vom Patienten gewünschte Informationsangebote der Krankenkasse 27
 
 Dokumentationsintervall 28
-
-Unterschiede im Header des Datensatzes zum DMP Adipositas
 
 
 ---
@@ -528,8 +528,8 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 |  |  |
 |---|---|
 | Symbol | Beschreibung |
-|  | Element mit Kindelementen Ein Element mit einem oder mehreren Kindelementen wird durch ein |
-|  | Referenzelement Der Pfeil links unten im Element zeigt an, dass das Element an anderer Stelle |
+|  | Element mit Kindelementen  Ein Element mit einem oder mehreren Kindelementen wird durch ein |
+|  | Referenzelement  Der Pfeil links unten im Element zeigt an, dass das Element an anderer Stelle |
 |  | Datentyp Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen Datentyp. |
 |  | Gruppenelement Ein Rechteck mit vier abgeflachten Ecken stellt ein |
 
@@ -557,7 +557,7 @@ jedem Prüfmodul enthalten. Das Schema des Elements  DMP_AdipositasErwachsene.xs
 
 Folgender Code ist für diese Elemente zwingend vorgeschrieben
 
-| <?xml version="1.0" encoding="ISO-8859-15"?> <levelone xmlns="urn::hl7-org/cda"      xmlns:sciphox="urn::sciphox-org/sciphox"      xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance>  <clinical_document_header>   . . .  </clinical_document_header>   <body>    …   </body> </levelone> |
+| <?xml version="1.0" encoding="ISO-8859-15"?>  <levelone xmlns="urn::hl7-org/cda"           xmlns:sciphox="urn::sciphox-org/sciphox"           xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance>    <clinical_document_header>      . . .    </clinical_document_header>    <body>      …    </body>  </levelone> |
 |---|
 
 **XML-Code 1:** levelone
@@ -596,7 +596,7 @@ Der Aufbau des Elements <body> ist in Abbildung 2 dargestellt.
 
 Der Coderahmen für das <body>-Element sieht wie folgt aus.
 
-| <body>   <section>    …   </section> </body> |
+| <body>    <section>      …    </section>  </body> |
 |---|
 
 **XML-Code 2:** body
@@ -651,7 +651,7 @@ und Befunddaten“,  , die jeweils in einem <paragraph>-
 
 ---
 
-| <section>   <paragraph>    <caption>     <caption_cd DN="Administrative Daten"/>    </caption>    <content>     ...    </content>   </paragraph>   <paragraph>    <caption>     <caption_cd DN="Anamnese- und Befunddaten"/>    </caption>    <content>     ...    </content>   </paragraph>   <paragraph>    <caption>     <caption_cd DN="Therapeutische Maßnahmen"/>    </caption>    <content>     ...    </content>   </paragraph>   <paragraph>    <caption>     <caption_cd DN="Schulung"/>    </caption>    <content>     ...    </content>   </paragraph>  <paragraph>    <caption>   </caption>    <content>     ...    </content>   </paragraph>  </section> |
+| <section>    <paragraph>      <caption>        <caption_cd DN="Administrative Daten"/>      </caption>      <content>        ...      </content>    </paragraph>    <paragraph>      <caption>        <caption_cd DN="Anamnese- und Befunddaten"/>      </caption>      <content>        ...      </content>    </paragraph>    <paragraph>      <caption>        <caption_cd DN="Therapeutische Maßnahmen"/>      </caption>      <content>        ...      </content>    </paragraph>    <paragraph>      <caption>        <caption_cd DN="Schulung"/>      </caption>      <content>        ...      </content>    </paragraph>    <paragraph>      <caption>     </caption>      <content>        ...      </content>    </paragraph>  </section> |
 |---|
 
 **XML-Code 3:** section
@@ -682,7 +682,7 @@ verwendet wird. Der Coderahmen für das Element  folgendermaßen aus: -ssu angeg
 
 ---
 
-| <content>   <local_markup ignore="all" descriptor="sciphox">    <sciphox:sciphox-ssu type="observation" country="de" version="v1">   ...    </sciphox:sciphox-ssu>   </local_markup> </content> |
+| <content>    <local_markup ignore="all" descriptor="sciphox">      <sciphox:sciphox-ssu type="observation" country="de" version="v1">      ...      </sciphox:sciphox-ssu>    </local_markup>  </content> |
 |---|
 
 **XML-Code 4:** content mit sciphox -SSU (observation)
@@ -705,7 +705,7 @@ Der Aufbau dieser SSU ist nachfolgend beschrieben:
 
 Der XML-Code zum Element <sciphox-ssu> sieht folgendermaßen aus:
 
-| <sciphox:sciphox-ssu type="observation" country="de" version="v1">   <sciphox:Beobachtungen>        </sciphox:sciphox-ssu> |
+| <sciphox:sciphox-ssu type="observation" country="de" version="v1">    <sciphox:Beobachtungen>               </sciphox:sciphox-ssu> |
 |---|
 
 **XML-Code 5:** Beobachtungen
@@ -730,7 +730,7 @@ Das Element <Parameter> enthält nur das *DN*-Attribut. Als Wert werden die Para
 
 Der XML-Code zum Element <Parameter> sieht folgendermaßen aus:
 
-| <sciphox:Beobachtung>    </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>      </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 6:** Parameter
@@ -743,7 +743,7 @@ hinterlegt sind (z.B. „Ja“ und „Nein“), werden in diesem Element, im *V-
 
 zum Element <Ergebnistext> sieht folgendermaßen aus:
 
-| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>        </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 7:** Ergebnistext
@@ -758,7 +758,7 @@ Dezimaltrennzeichen wird der Dezimalpunkt verwendet. Im U-Attribut (UNIT) wird d
 
 eingetragen. Der XML-Code zum Element <Ergebniswert> sieht folgendermaßen aus:
 
-| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>        </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 8:** Ergebniswert
@@ -783,7 +783,7 @@ Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau di
 
 Der Coderahmen sieht wie folgt aus:
 
-| <content>   <local_markup ignore="all" descriptor="sciphox">    <sciphox:sciphox-ssu type="observation" country="de" version="v1">     <sciphox:Beobachtungen>        </content> |
+| <content>    <local_markup ignore="all" descriptor="sciphox">      <sciphox:sciphox-ssu type="observation" country="de" version="v1">        <sciphox:Beobachtungen>               </content> |
 |---|
 
 **XML-Code 9:** content (Administrative Daten )
@@ -796,7 +796,7 @@ gemäß Tabelle 4. Wenn bei diesem Parameter mehrere Felder ausgewählt wurden, 
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 10:** Einschreibung wegen
@@ -842,7 +842,7 @@ mindestens ein Kindelement <sciphox:Ergebnistext> bzw. <sciphox:Ergebniswert>.
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
 
-| <content>   <local_markup ignore="all" descriptor="sciphox">    <sciphox:sciphox-ssu type="observation" country="de" version="v1">     <sciphox:Beobachtungen>                            </content> |
+| <content>    <local_markup ignore="all" descriptor="sciphox">      <sciphox:sciphox-ssu type="observation" country="de" version="v1">        <sciphox:Beobachtungen>                                                       </content> |
 |---|
 
 **XML-Code 11:** content (Anamnese- und Befunddaten)
@@ -861,7 +861,7 @@ Bei diesem Parameter enthält das Element  *U* Attribut den fest vorgeschriebene
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>      </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 12:** Körpergröße
@@ -874,7 +874,7 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im  im *U* Attr
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 13:** Körpergewicht
@@ -887,7 +887,7 @@ Bei diesem Parameter enthält das Element gemäß Tabelle 5.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 14:** Raucher
@@ -913,7 +913,7 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im  und im *U* 
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 15:** Blutdruck systolisch
@@ -926,7 +926,7 @@ und im *U* Attribut den fest vorgeschriebenen Wert „mmHg“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 16:** Blutdruck diastolisch
@@ -939,7 +939,7 @@ Tabelle 6. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können m
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>    </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>       </sciphox:Beobachtung> |
 |---|
 
 <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg" /> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="110" U="mmHg" /> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="Arterielle Hypertonie"/> <sciphox:Ergebnistext V="AVK"/>**XML-Code 17:** Begleiterkrankungen
@@ -984,7 +984,7 @@ Der Coderahmen sieht wie folgt aus:
 
 ---
 
-| <content>   <local_markup ignore="all" descriptor="sciphox">    <sciphox:sciphox-ssu type="observation" country="de" version="v1">     <sciphox:Beobachtungen>                            </local_markup>  </content> |
+| <content>    <local_markup ignore="all" descriptor="sciphox">      <sciphox:sciphox-ssu type="observation" country="de" version="v1">        <sciphox:Beobachtungen>                                                       </local_markup>  </content> |
 |---|
 
 **XML-Code 18:** content (Therapeutische Maßnahmen)
@@ -997,7 +997,7 @@ gemäß Tabelle 7.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 19:** Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training
@@ -1025,7 +1025,7 @@ gemäß Tabelle 8.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 20:** Regelmäßige körperliche Alltagsaktivität
@@ -1045,7 +1045,7 @@ gemäß Tabelle 9.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 21:** Regelmäßiges körperliches Training
@@ -1065,7 +1065,7 @@ gemäß Tabelle 10.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 22:** Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der
@@ -1095,7 +1095,7 @@ gemäß Tabelle 11.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 23:** Adäquat geändertes Ernährungsverhalten
@@ -1115,7 +1115,7 @@ gemäß Tabelle 12.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 24:** Prädiabetes bei Einschreibung
@@ -1145,7 +1145,7 @@ Im Element <content> wird die Sciphox-SSU *observation*
 
 Der Coderahmen sieht wie folgt aus:
 
-| <content>   <local_markup ignore="all" descriptor="sciphox">    <sciphox:sciphox-ssu type="observation" country="de" version="v1">     <sciphox:Beobachtungen>            </local_markup>  </content> |
+| <content>    <local_markup ignore="all" descriptor="sciphox">      <sciphox:sciphox-ssu type="observation" country="de" version="v1">        <sciphox:Beobachtungen>                       </local_markup>  </content> |
 |---|
 
 verwendet. Der Aufbau dieser SSU ist in Kapitel
@@ -1164,7 +1164,7 @@ gemäß Tabelle 13.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 26:** Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas
@@ -1200,7 +1200,7 @@ gemäß Tabelle 14.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
@@ -1228,7 +1228,7 @@ und mindestens ein Kindelement <sciphox:Ergebnistext>.
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
 
-| <content>   <local_markup ignore="all" descriptor="sciphox">    <sciphox:sciphox-ssu type="observation" country="de" version="v1">     <sciphox:Beobachtungen>            </content> |
+| <content>    <local_markup ignore="all" descriptor="sciphox">      <sciphox:sciphox-ssu type="observation" country="de" version="v1">        <sciphox:Beobachtungen>                       </content> |
 |---|
 
 **XML-Code 28:** content (Behandlungsplanung)
@@ -1247,7 +1247,7 @@ Bei diesem Parameter enthält das Element gemäß Tabelle 15. Wenn bei diesem Pa
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>         </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 29:** Vom Patienten gewünschte Informationsangebote der Krankenkasse
@@ -1270,7 +1270,7 @@ gemäß Tabelle 16.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 30:** Dokumentationsintervall
@@ -1334,7 +1334,7 @@ aus. Die Werte der einzelnen <caption_cd>-Elemente entsprechen dabei den Abschni
 
 ---
 
-| <section>   <paragraph>    <caption>     <caption_cd DN="Administrative Daten"/>    </caption>    <content>     ...    </content>   </paragraph>   <paragraph>    <caption>     <caption_cd DN="Anamnese- und Befunddaten"/>    </caption>    <content>     ...    </content>   </paragraph>   <paragraph>    <caption>     <caption_cd DN="Therapeutische Maßnahmen"/>    </caption>    <content>     ...    </content>   </paragraph>   <paragraph>    <caption>     <caption_cd DN="Schulung"/>    </caption>    <content>     ...    </content>   </paragraph>  <paragraph>    <caption>     <caption_cd DN="Relevante Ereignisse seit der letzten Dokumentation"/>    </caption>    <content>     ...    </content>   </paragraph>  <paragraph>    <caption>   </caption>    <content>     ...    </content>   </paragraph>  </section> |
+| <section>    <paragraph>      <caption>        <caption_cd DN="Administrative Daten"/>      </caption>      <content>        ...      </content>    </paragraph>    <paragraph>      <caption>        <caption_cd DN="Anamnese- und Befunddaten"/>      </caption>      <content>        ...      </content>    </paragraph>    <paragraph>      <caption>        <caption_cd DN="Therapeutische Maßnahmen"/>      </caption>      <content>        ...      </content>    </paragraph>    <paragraph>      <caption>        <caption_cd DN="Schulung"/>      </caption>      <content>        ...      </content>    </paragraph>    <paragraph>      <caption>        <caption_cd DN="Relevante Ereignisse seit der letzten Dokumentation"/>      </caption>      <content>        ...      </content>    </paragraph>    <paragraph>      <caption>     </caption>      <content>        ...      </content>    </paragraph>  </section> |
 |---|
 
 **XML-Code 31:** section (Verlaufsdokumentation)
@@ -1369,7 +1369,7 @@ mindestens ein Kindelement <sciphox:Ergebnistext> bzw. <sciphox:Ergebniswert>.
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
 
-| <content>   <local_markup ignore="all" descriptor="sciphox">    <sciphox:sciphox-ssu type="observation" country="de" version="v1">     <sciphox:Beobachtungen>                            </content> |
+| <content>    <local_markup ignore="all" descriptor="sciphox">      <sciphox:sciphox-ssu type="observation" country="de" version="v1">        <sciphox:Beobachtungen>                                                       </content> |
 |---|
 
 **XML-Code 32:** content (Anamnese- und Befunddaten)
@@ -1424,7 +1424,7 @@ Der Coderahmen sieht wie folgt aus:
 
 ---
 
-| <content>   <local_markup ignore="all" descriptor="sciphox">    <sciphox:sciphox-ssu type="observation" country="de" version="v1">     <sciphox:Beobachtungen>                            </local_markup>  </content> |
+| <content>    <local_markup ignore="all" descriptor="sciphox">      <sciphox:sciphox-ssu type="observation" country="de" version="v1">        <sciphox:Beobachtungen>                                                       </local_markup>  </content> |
 |---|
 
 **XML-Code 33:** content (Therapeutische Maßnahmen)
@@ -1439,7 +1439,7 @@ gemäß Tabelle 17.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 34:** Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training seit
@@ -1477,7 +1477,7 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tab
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 35:** Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der
@@ -1523,7 +1523,7 @@ verwendet. Der Aufbau dieser SSU ist in Kapitel  sciphox:Beobachtungen>. Das Ele
 
 ---
 
-| <content>   <local_markup ignore="all" descriptor="sciphox">    <sciphox:sciphox-ssu type="observation" country="de" version="v1">     <sciphox:Beobachtungen>                                               <sciphox:Parameter DN="Adipositas-Schulung wahrgenommen"/>      </local_markup>  </content> |
+| <content>    <local_markup ignore="all" descriptor="sciphox">      <sciphox:sciphox-ssu type="observation" country="de" version="v1">        <sciphox:Beobachtungen>                                                     <sciphox:Parameter DN="Adipositas-Schulung wahrgenommen"/>           </local_markup>  </content> |
 |---|
 
 **XML-Code 36:** content (Schulung)
@@ -1540,7 +1540,7 @@ gemäß Tabelle 19.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>    </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>       </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 37:** Empfohlene Adipositas-Schulung wahrgenommen
@@ -1572,7 +1572,7 @@ genau ein Kindelement <sciphox:Ergebnistext>.
 
 Der Coderahmen sieht wie folgt aus:
 
-| <content>   <local_markup ignore="all" descriptor="sciphox">    <sciphox:sciphox-ssu type="observation" country="de" version="v1">     <sciphox:Beobachtungen>            </local_markup>  </content> |
+| <content>    <local_markup ignore="all" descriptor="sciphox">      <sciphox:sciphox-ssu type="observation" country="de" version="v1">        <sciphox:Beobachtungen>                       </local_markup>  </content> |
 |---|
 
 **XML-Code 38:** content (Relevante Ereignisse seit der letzten Dokumentation )
@@ -1585,7 +1585,7 @@ gemäß Tabelle 20.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 39:** Manifester Diabetes mellitus Typ 2
@@ -1611,7 +1611,7 @@ gemäß Tabelle 21.
 
 ---
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 40:** Beendigung der DMP -Teilnahme
@@ -1651,10 +1651,10 @@ siehe Kapitel 6.1.8.
 | HL7® | Health Level 7 |
 | KHK | Koronare Herzkrankheit |
 | OID | Object Identifier |
-| PRF | PERFORMER –  Ausführender |
+| PRF | PERFORMER – Ausführender |
 | RT | RT-Attribut (root) |
 | S | S-Attribut (source) |
-| SCIPHOX | Standardisation of Communication between Information Systems in Physician Offices and Hospitals using XML |
+| SCIPHOX | Standardisation of Communication between  Information Systems in Physician Offices and  Hospitals using XML |
 | SSU | Small Semantic Units |
 | String | Kette aus alphanumerischen Zeichen |
 | U | U-Attribut (unit) |
@@ -1674,10 +1674,10 @@ siehe Kapitel 6.1.8.
 |---|---|
 | Referenz | Dokument |
 | [KBV_ITA_VGEX_XML-Schnittstellen] | Austausch von XML Daten in der Vertragsärztlichen |
-| [EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend ] | Plausibilitätsrichtlinie zur Prüfung der |
+| [EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend] | Plausibilitätsrichtlinie zur Prüfung der |
 | [EXT_ITA_VGEX_Plausi_eDMP_Adipositas_Erwac hsene] | Plausibilitätsrichtlinie zur Prüfung der |
-| [KBV_ITA_VGEX_Schnittstelle_eHeader ] | Header für elektronische Dokumentation |
-| [KBV_ITA_VGEX_Anforderungskatalog_eDMP ] | Anforderungskatalog eDMP |
+| [KBV_ITA_VGEX_Schnittstelle_eHeader] | Header für elektronische Dokumentation |
+| [KBV_ITA_VGEX_Anforderungskatalog_eDMP] | Anforderungskatalog eDMP |
 
 **Ansprechpartner:**
 

@@ -182,13 +182,11 @@ Programmerweiterung
 
 **22**
 
-**4.1**
+**4.1** **Zeichensatzkonverter ................................................................................................................. 22**
 
-| **Zeichensatzkonverter** |  | **................................................................................................................. 22** |
-|---|---|---|
-| **ANHANG** |  | **24** |
+**5** **ANHANG**
 
-**5**
+**24**
 
 **5.1** **Starten eines Java-Programms ................................................................................................. 24**
 
@@ -204,7 +202,6 @@ Programmerweiterung
 
 **6.3** **Hinweise ....................................................................................................................................... 26**
 
-Zeichensatzkonverter ................................................................................................................. 22
 
 ---
 
@@ -228,19 +225,17 @@ Tabelle 3: Übergabeparameter ..................................................
 
 ---
 
-| **1** | **Einleitung** | |
-|---|---|---|
-| Dieses | Dokument | gibt |
-| schreibung | zur | Installation |
-| XPM | ist ein | Prüfprogramm |
-| entsprechen | | müssen. Als |
-| welches |  | Informationen |
-| je nach | Zustand | des |
-| lich. |  |  |
-| XPM ist | auf | allen |
-| sion 17 | verfügbar | ist. |
-| **1.1** |  | **Begriffsklärung** |
-| *Was* | *ist ein* | *XPM-Paket?* |
+# 1 Einleitung
+
+Dieses Dokument gibt einen kurzen Überblick über die Arbeitsweise und eine genaue Be- schreibung zur Installation und Ausführung des neuen KBV-Prüfmoduls XPM.
+
+XPM ist ein Prüfprogramm für Datensätze, die einer definierten Schnittstellenbeschreibung  entsprechen müssen. Als Ergebnis der Prüfung wird unter anderem ein Prüfprotokoll erstellt  welches Informationen über den Zustand der Prüfdatei enthält. Das Ergebnis der Prüfung ist  je nach Zustand des Prüflings folgender Status: Ok, Warnung, Fehlerhaft oder Abbruch mög- lich.
+
+XPM ist auf allen Computersystemen lauffähig, für die die Java Laufzeitumgebung in der Ver- sion 17 verfügbar ist.
+
+## 1.1 Begriffsklärung
+
+*Was ist ein XPM-Paket?*
 
 | Ein | XPM-Paket | ist ein |
 |---|---|---|
@@ -253,29 +248,33 @@ Tabelle 3: Übergabeparameter ..................................................
 |  | schiedenen | Modi) |
 |  | *Begriffserläuterungen:* | |
 
-|  **XPM** | : | Das X |
-|---|---|---|
-| dul, | das | XPM steht |
-| dul. |  |  |
-|  | **XPM-Paket** | : |
-|  |  | **XPM-Paket_xxx_20aa.b.c** |
-| xxx | der | XPM--Paket |
-|  | lieferung | Nr. c für |
-|  | Schnittstelle | eine |
-|  | mentation | und |
-|  | stellen. |  |
-|  | **XPM-Prüfprojekt** | : |
-| ration |  | enthalten, |
-|  | **XPM-Kernel** | : |
-|  |  | schnittstellenspezifisches |
-|  | enthält, | nicht |
-|  | **KVDT-XPM-Paket** | |
-| (auch | ADT- | Prüfmodul |
-|  | fiziell | richtige |
+- **XPM** Das X steht für beliebige Daten- bzw. Schnittstellenarten, PM steht für Prüfmo-
 
-- Paket löste das alte DOS basierte Prüfmodul ab
+- dul, das XPM steht als Synonym für ein (durch ein Prüfprojekt) konfigurierbares Prüfmo- dul.
 
-1 Einleitung Dieses Dokument gibt einen kurzen Überblick über die Arbeitsweise und eine genaue Be- schreibung zur Installation und Ausführung des neuen KBV-Prüfmoduls XPM. XPM ist ein Prüfprogramm für Datensätze, die einer definierten Schnittstellenbeschreibung entsprechen müssen. Als Ergebnis der Prüfung wird unter anderem ein Prüfprotokoll erstellt welches Informationen über den Zustand der Prüfdatei enthält. Das Ergebnis der Prüfung ist je nach Zustand des Prüflings folgender Status: Ok, Warnung, Fehlerhaft oder Abbruch mög- XPM ist auf allen Computersystemen lauffähig, für die die Java Laufzeitumgebung in der Ver- sion 17 verfügbar ist. 1.1 Begriffsklärung Was ist ein XPM-Paket? Ein XPM-Paket ist ein schnittstellenspezifisches Prüfmodulpaket, das aus folgenden Teilen XPM-Kernel (JAVA-Programm zum Interpretieren eines XPM-Prüfprojektes) XPM-Prüfprojekt (schnittstellenspezifische Konfiguration) ReleaseNotes (Textdatei, die alle Informationen zur Version des Prüfmodulpakets enthält) GUI (Aufruf des Prüfmoduls als graphische Benutzungsoberfläche) Batchdateien und Shellskripte (Beispiele für den commandline-orientierten Aufruf in ver- schiedenen Modi) Das X steht für beliebige Daten- bzw. Schnittstellenarten, PM steht für Prüfmo- dul, das XPM steht als Synonym für ein (durch ein Prüfprojekt) konfigurierbares Prüfmo- : Schnittstellenspezifisches Prüfmodulpaket. : Schnittstellenspezifisches Prüfmodulpaket der Schnittstelle xxx der XPM-- Paket Version c für das Quartal b des Jahres aa, wobei es sich um die Aus- lieferung Nr. c für das Quartal b handelt, auch "das aktuelle xxx-Prüfmodul". Definiert die Schnittstelle eine erstmalige Dokumentation und Verlaufsdokumentation bzw. Erstdoku- mentation und Folgedokumentation so enthält das Prüfpaket Prüfungen für beide Schnitt- : Tabellen und Codeelemente, die die schnittstellenspezifische Konfigu- ration enthalten, schnittstellenspezifischer Bestandteil des XPM-Pakets : Programm zum Interpretieren eines XPM-Prüfprojektes, der Kernel ist ohne schnittstellenspezifisches Prüfprojekt, welches die schnittstellenspezifische Konfiguration enthält, nicht verwendbar; XPM-allgemeiner Bestandteil des XPM-Pakets : Das KVDT-XPM- (auch ADT- Prüfmodul genannt, da ADT der wesentliche Bestandteil des KVDT ist). Die of- fiziell richtige Bezeichnung ist das "KBV-Prüfmodul".
+- **XPM-Paket**: Schnittstellenspezifisches Prüfmodulpaket.
+
+- **XPM-Paket_xxx_20aa.b.c**: Schnittstellenspezifisches Prüfmodulpaket der Schnittstelle
+
+- xxx der XPM--Paket Version c für das Quartal b des Jahres aa, wobei es sich um die Aus-
+
+- lieferung Nr. c für das Quartal b handelt, auch "das aktuelle xxx-Prüfmodul". Definiert die  Schnittstelle eine erstmalige Dokumentation und Verlaufsdokumentation bzw. Erstdoku- mentation und Folgedokumentation so enthält das Prüfpaket Prüfungen für beide Schnitt- stellen.
+
+- **XPM-Prüfprojekt**: Tabellen und Codeelemente, die die schnittstellenspezifische Konfigu-
+
+- ration enthalten, schnittstellenspezifischer Bestandteil des XPM-Pakets
+
+- **XPM-Kernel**: Programm zum Interpretieren eines XPM-Prüfprojektes, der Kernel ist ohne
+
+- schnittstellenspezifisches Prüfprojekt, welches die schnittstellenspezifische Konfiguration  enthält, nicht verwendbar; XPM-allgemeiner Bestandteil des XPM-Pakets
+
+- **KVDT-XPM-Paket**: Das KVDT-XPM- Paket löste das alte DOS basierte Prüfmodul ab
+
+- (auch ADT- Prüfmodul genannt, da ADT der wesentliche Bestandteil des KVDT ist). Die of-
+
+- fiziell richtige Bezeichnung ist das "KBV-Prüfmodul".
+
+Ein XPM-Paket ist ein schnittstellenspezifisches Prüfmodulpaket, das aus folgenden Teilen XPM-Kernel (JAVA-Programm zum Interpretieren eines XPM-Prüfprojektes) XPM-Prüfprojekt (schnittstellenspezifische Konfiguration) ReleaseNotes (Textdatei, die alle Informationen zur Version des Prüfmodulpakets enthält) GUI (Aufruf des Prüfmoduls als graphische Benutzungsoberfläche) Batchdateien und Shellskripte (Beispiele für den commandline-orientierten Aufruf in ver- schiedenen Modi)
 
 ---
 
@@ -797,16 +796,14 @@ Archive geprüft werden.
 
 ---
 
-| **IT in** | **der** | **Arztpraxis** |  |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | Handbuch | KBV- Prüfmodul | XPM |  |  |  |  |  |  |  |  |
-|  |  |  |  | **Abbildung** | **1: XPM** | **Prüfmodul** | **für** | **KVDT Prüfung** |  |  |  |
-|  |  |  |  | **Abbildung 2:** | **XPM** | **Prüfmodul** | **für** | **Brustkrebs Prüfung** |  |  |  |
-| **3.3.1** |  | **Prüfdatei** | **selektieren** | |  |  |  |  |  |  |  |
-| Bitte | drücken | Sie | den | ‘...’-Knopf | und | wählen Sie | die | gewünschte | Prüfdatei aus. |  |  |
-|  |  | KBV_ITA_AHEX_Handbuch_Pruefmodul | | 1.34* Version |  |  |  |  |  | Seite | 20 26von |
+**Abbildung 1: XPM Prüfmodul für KVDT Prüfung**
 
-Abbildung 1: XPM Prüfmodul für KVDT Prüfung Abbildung 2: XPM Prüfmodul für Brustkrebs Prüfung Prüfdatei selektieren Bitte drücken Sie den ‘...’-Knopf und wählen Sie die gewünschte Prüfdatei aus.
+**Abbildung 2: XPM Prüfmodul für Brustkrebs Prüfung**
+
+### 3.3.1 Prüfdatei selektieren
+
+### Bitte drücken Sie den ‘...’-Knopf und wählen Sie die gewünschte Prüfdatei aus.
+
 
 ---
 
@@ -827,14 +824,14 @@ Bitte drücken Sie den ‘Starten’-Knopf. Während der Prüfung zeigt der Fort
 |---|---|
 | -q <Dateiname> | Der Dateiname der zu konvertierenden Datei bzw. Verzeichnisname. |
 | -z <Dateiname> | Der Dateiname der umgewandelten Datei bzw. Verzeichnisname. |
-| -s <Zeichensatz> | Der Zeichensatz in den konvertiert werden soll. Mögliche Werte: 7Bit IBM ISO-8859-1 ISO-8859-15 |
-| 4 Zusatzprogramme 4.1 Zeichensatzkonverter | Hier ein Beispiel für einen Aufruf: java -Xmx300m |
+| -s <Zeichensatz> | Der Zeichensatz in den konvertiert werden soll. Mögliche Werte:  7Bit  IBM  ISO-8859-1  ISO-8859-15 |
+| 4 Zusatzprogramme  4.1 Zeichensatzkonverter | Hier ein Beispiel für einen Aufruf: java -Xmx300m |
 |  | -classpath "Bin/xpm-core-4.2.15.jar" |
 |  |  |
 | de.kbv.xpm.core.converter.CharsetConverter |  |
 | -q Daten\Z05123456699_31.03.2010_12.00.CON | -z Daten\Umgewandelt\ |
 
-Der Zeichensatz-Konverter wandelt komplette Abrechnungsdateien in einen gewünschten Zeichensatz um. Für XML-- Dateien kann er nicht verwendet werden, da bei diesen im Ge gensatz zu KVDT-Dateien nicht die Zeichenkodierung anhand des Dateinamens ermittelt wer- den kann. -Dfile.encoding=8859_1 -s IBM -l Der Aufruf von Java-5.1 Programmen wird im Kapitel ausführlich erläutert. Der Parameter ‘ se, die den Konverter startet. Der optionale Parameter ‘–l’ bewirkt, dass die Ursprungsdatei ) nach der Verarbeitung gelöscht wird. Die konver- tierte Datei wird also unter den Namen X05123456699_31.03.2010_12.00.CON Wird kein Dateiname für die Ausgabedatei vergeben (Parameter -z) so wird der Name konver- tierten Datei wird folgendermaßen gebildet: Der erste Buchstabe im Dateinamen symbolisiert den Zeichensatz. • S bei 7Bit • X bei IBM ’ ist der Name einer Klas- erzeugt. • A bei ISO--1 • Z bei ISO-8859-15 Der restliche Dateiname entspricht dem ursprünglichen Dateinamen. Bei der Abarbeitung kompletter Verzeichnisse werden nur *.CON bzw. *.WTK Dateien berück- sichtigt.
+Der Zeichensatz-Konverter wandelt komplette Abrechnungsdateien in einen gewünschten Zeichensatz um. Für XML-- Dateien kann er nicht verwendet werden, da bei diesen im Ge gensatz zu KVDT-Dateien nicht die Zeichenkodierung anhand des Dateinamens ermittelt wer- den kann. -Dfile.encoding=8859_1 -s IBM -l Der Aufruf von Java-5.1 Programmen wird im Kapitel ausführlich erläutert. Der Parameter ‘ se, die den Konverter startet. Der optionale Parameter ‘–l’ bewirkt, dass die Ursprungsdatei Z 05123456699_31.03.2010_12.00.CON ) nach der Verarbeitung gelöscht wird. Die konver- tierte Datei wird also unter den Namen X 05123456699_31.03.2010_12.00.CON Wird kein Dateiname für die Ausgabedatei vergeben (Parameter -z) so wird der Name konver- tierten Datei wird folgendermaßen gebildet: Der erste Buchstabe im Dateinamen symbolisiert den Zeichensatz. • S bei 7Bit • X bei IBM ’ ist der Name einer Klas- erzeugt. • A bei ISO--1 • Z bei ISO-8859-15 Der restliche Dateiname entspricht dem ursprünglichen Dateinamen. Bei der Abarbeitung kompletter Verzeichnisse werden nur *.CON bzw. *.WTK Dateien berück- sichtigt.
 
 
 ---

@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 5. MÄRZ 2025 VERSION 1.23 DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT 5. MÄRZ 2025  VERSION 1.23  DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # SPRECHSTUNDE VDGA
@@ -32,7 +32,7 @@ DOKUMENTENHISTORIE
 | 1.14 | 11.04.2024 | KBV | Nachtrag zur Sprechstunde vom |  | 22 |
 | 1.13 | 08.04.2024 | KBV | Notizen zur Sprechstunde am 2. |  | 25 |
 | 1.12 | 27.03.2024 | KBV | Notizen zur Sprechstunde am |  | 22 |
-| 1.11 | 12.03.2024 | KBV | Notizen zur Sprechstunde am 5. Nachtrag zur Sprechstunde vom |  | 21  20 |
+| 1.11 | 12.03.2024 | KBV | Notizen zur Sprechstunde am 5.  Nachtrag zur Sprechstunde vom |  | 21    20 |
 | 1.10 | 01.03.2024 | KBV | Notizen zur Sprechstunde am 9. |  | 15 |
 | 1.09 | 21.02.2024 | KBV | Notizen zur Sprechstunde am |  | 20 |
 
@@ -47,7 +47,7 @@ DOKUMENTENHISTORIE
 | 1.06 | 22.01.2024 | KBV | Notizen zur Sprechstunde am 9. |  | 15 |
 | 1.05 | 09.01.2024 | KBV | Notizen zur Sprechstunde am |  | 13 |
 | 1.04 | 28.11.2023 | KBV | Notizen zur Sprechstunde am |  | 10, 12, 12 |
-| 1.03 | 26.10.2023 | KBV | Notizen zur Sprechstunde am Informationen zum nächsten |  | 10  6 |
+| 1.03 | 26.10.2023 | KBV | Notizen zur Sprechstunde am  Informationen zum nächsten |  | 10    6 |
 | 1.02 | 16.10.2023 | KBV | Notizen zur Sprechstunde am |  | 9 |
 | 1.01 | 08.09.2023 | KBV | Notizen zur Sprechstunde am 5. |  | 8 |
 | 1.00 | 25.08.2023 | KBV | Erstellung des Dokuments |  | alle |

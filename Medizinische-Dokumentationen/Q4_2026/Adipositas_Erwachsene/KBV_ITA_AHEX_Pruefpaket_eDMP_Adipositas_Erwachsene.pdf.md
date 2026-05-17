@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 31. MÄRZ 2026  VERSION: 1.00  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  31. MÄRZ 2026   VERSION: 1.00   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # PRÜFPAKET EDMP- ADIPOSITAS -
@@ -117,17 +117,17 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
 
 **20**
 
-|  | **ANHANG** |  | **21** |
-|---|---|---|---|
-| 4.1 | Prüffall | 10 – Ersatzverfahren | 21 |
+**ANHANG**
+
+**21**
+
+4.1 Prüffall 10  Ersatzverfahren 21
 
 **REFERENZIERTE DOKUMENTE**
 
 **22**
 
 / 31. März 2026
-
-Prüffall 10
 
 
 ---
@@ -255,7 +255,7 @@ entsprechen. Diese werden durch den Prüfer begutachtet.
 
 - 1
 
-- 2.3
+- 2 3
 
 -  PrüffallNr. _[lfdNr.] .*
 
@@ -463,10 +463,10 @@ PRÜFFÄLLE
 | Prüffall-ID | 1111 |
 | Testziel | › |
 | Voraussetzung | › |
-| Einzureichende Prüfunterlagen | › |
+| Einzureichende  Prüfunterlagen | › |
 | Hinweis | › |
 
-Anlage einer Erst- und einer Folgedokumentation eDMP Adipositas - Erwachsene Dokumentationsunterlagen PRÜFFÄLLE DOKUMENTATION 2.1.1 Prüffall 1111 Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten Die Versichertendaten von Katarina Maier (XML_12) Informationsangebote der Krankenkasse  einlesen und speichern. Erwachsene Erwachsene
+Anlage einer Erst- und einer Folgedokumentation e DMP Adipositas - Erwachsene Dokumentationsunterlagen PRÜFFÄLLE DOKUMENTATION 2.1.1 Prüffall 1111 Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten Die Versichertendaten von Katarina Maier (XML_12) Informationsangebote der Krankenkasse  einlesen und speichern. Erwachsene Erwachsene
 
 ---
 
@@ -496,7 +496,7 @@ Anlage einer Erst- und einer Folgedokumentation eDMP Adipositas - Erwachsene Dok
 |  | Erstdokumentation | Folgedokumentation |
 | Therapeutische Maßnahmen | | |
 | Ziele zur regelmäßigen körperlichen | Ziele vereinbart |  |
-| Ziele zur regelmäßigen körperlichen |  | Keine Ziele vereinbart  oder überprüft |
+| Ziele zur regelmäßigen körperlichen |  | Keine Ziele vereinbart   oder überprüft |
 | Regelmäßige körperliche Alltagsaktivität | Ja | Nein |
 | Regelmäßiges körperliches Training | Nein | Ja |
 | Ziele zur Ernährungsumstellung oder zur | Ziele vereinbart |  |
@@ -611,7 +611,7 @@ Alltagsaktivität und körperlichem Training Alltagsaktivität und körperlichem
 | Prüffall-ID | 1114 |
 | Testziel | › |
 | Voraussetzung | › |
-| Prüfunterlagen | ›  › |
+| Prüfunterlagen | ›   › |
 | Hinweis | › |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
@@ -685,7 +685,7 @@ der Krankenkasse 2) INDIKATIONSSPEZIFISCHE DATEN Ziele zur regelmäßigen körpe
 | Raucher | Nein |  |
 | Begleiterkrankungen | Chronische Herzinsuffizienz, |  |
 | Behandlungsplanung | | |
-| Vom Patienten gewünschte Informationsangebote | Tabakverzicht, Körperliches Training |  |
+| Vom Patienten gewünschte Informationsangebote | Tabakverzicht,  Körperliches Training |  |
 | Dokumentationsintervall | Quartalsweise |  |
 | Datum der Erstellung (siehe Kap. 1.6. | 15.mm.jjjj |  |
 
@@ -742,7 +742,7 @@ Aufrechterhaltung der Ernährungsänderung seit der multimodalen Adipositas-Schu
 |  |  |
 |---|---|
 | Prüffall-ID | 1130 |
-| Testziel | eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP ) |
+| Testziel | eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
 | Voraussetzung | › |
 | Prüfunterlagen | nach einer möglichen Hinweissteuerung. |
 | Hinweis | › |
@@ -754,9 +754,9 @@ Aufrechterhaltung der Ernährungsänderung seit der multimodalen Adipositas-Schu
 | Szenario 1 |
 | Es wird eine Folgedokumentation |
 | Szenario 2 |
-| Es wird eine Folgedokumentation angelegt. In der vorherigen Folgedokumentation wurde bei Zeigen Sie die Systemreaktion.  Mit diesem Szenario soll die korrekte Umsetzung der |
+| Es wird eine Folgedokumentation angelegt. In der vorherigen Folgedokumentation wurde bei  Zeigen Sie die Systemreaktion.   Mit diesem Szenario soll die korrekte Umsetzung der |
 | Szenario 3 |
-| Es wird eine weitere Folgedokumentation für den Patienten aus Prüffall 1114 angelegt, welche 1. 2. 3. 4. Mit diesem Szenario soll die korrekte Umsetzung der |
+| Es wird eine weitere Folgedokumentation für den Patienten aus Prüffall 1114 angelegt, welche  1. 2. 3. 4. Mit diesem Szenario soll die korrekte Umsetzung der |
 
 Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges Dokumentieren Sie durch Video Dieser Testfall ist unterteilt in  drei Szenarien s die Eingaben einschließlich der Ergebnisse  angelegt. Zeigen Sie, wie das System die Datenübernahme aus einer vorherigen Dokumentation, gemäß Anforderung P1 KBV_ITA_VGEX_Anforderungskatalog_eDMP), vornimmt.  dem Parameter „Beendigung der DMP-Teilnahme“ die Angabe „Ja“ gemacht. KBV_ITA_VGEX_Anforderungskatalog_eDMP ) überprüft werden. zeitlich nach den bestehenden Dokumentationen liegt. Bei dem Parameter „Körpergewicht“ wird die Angabe „210“ gemacht. Zeigen Sie die Ändern Sie das Körpergewicht auf den Wert „220“ und zeigen Sie die Systemreaktion. Ändern Sie das Körpergewicht auf den Wert „190“ und zeigen Sie die Systemreaktion. Ändern Sie das Körpergewicht auf den Wert „200“ und zeigen Sie die Systemreaktion. KBV_ITA_VGEX_Anforderungskatalog_eDMP) überprüft werden. -50  (siehe Anforderung KP1 -24  (siehe Anforderung KP2 -510  (siehe
 
@@ -767,7 +767,7 @@ Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges Dokumenti
 |  | |
 |---|---|
 | Prüffall-ID | 1140 |
-| Testziel | eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP ) |
+| Testziel | eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
 | Voraussetzung |  |
 | Prüfunterlagen | PDF-Datei „TE_EWE_ADERW.pdf“ der indikationsübergreifenden |
 | Hinweis | Falls Ihr System die optionale Anforderung O |
@@ -786,7 +786,7 @@ Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 |---|---|
 | Administrative Daten |  |
 | DMP | Adipositas - Erwachsene |
-| DMP-Fallnummer | 1.112 |
+| DMP-Fallnummer | 1112 |
 | Datum | 15.10.2026 |
 
 Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges Teilnahme- und Einwilligungserklärung  7-10 (Ausdruck des Barcodes auf der indikationsübergreifenden Teilnahme - und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.

@@ -1,38 +1,31 @@
-| Name, Vorname | *der des | Versicherten |  |  |
-|---|---|---|---|---|
-|  |  |  |  | geb. am |
-|  |  |  |  | Datum |
-| **Ich empfehle** | **Ihrem** | **Kind:** |  |  |
-| mehr | Alltagsbewegung |  |  |  |
-| B.(z. | zu Fuß, mit | dem Rad zur | Kita, zur | Schule), |
-|  | regelmäßige Bewegung | durch | ein |  |
-| Sport- | und | Bewegungsangebot, |  |  |
-|  | regelmäßiges | Schwimmen |  |  |
-| zur | Absicherung | der Schwimmfähigkeit. | |  |
-| **Hinweise** | **an den** | **Sportverein:** |  |  |
+Name, Vorname der des Versicherten
 
-|  | REZEPT | | FÜR |
-|---|---|---|---|
-|  |  | BEWEGUNG | |
-|  | Regelmäßige |  | Bewegung ist |
-|  | wichtig für | eine | gesunde und |
-|  | ganzheitliche | | Entwicklung von |
-|  | Kindern | und | Jugendlichen! |
-|  | Regelmäßige | Bewegung | hilft |
-| dabei, |  | Muskeln, | Knochen, Herz |
-| und | Kreislauf | stark | zu machen. |
-|  | Bewegung | ist auch | gut für die |
-|  | Entwicklung | Ihres | Kindes und |
-| fördert | die |  | Selbstwirksamkeit |
-| und | das | Selbstvertrauen. | Kinder, |
-| die | sich | regelmäßig | bewegen, |
-| können | sich | besser | konzentrieren, |
-| sind |  | entspannter | und trainieren |
-| soziale |  | Kompetenzen. |  |
-| Stempel | und | Unterschrift |  |
-| *Arzt | Ärztin |  |  |
+**Ich empfehle Ihrem Kind:**
 
-Name, Vorname der des Versicherten Ich empfehle Ihrem Kind: mehr Alltagsbewegung  [ ] B. zu Fuß, mit dem Rad zur Kita, zur Schule), regelmäßige Bewegung durch ein  [ ] Sport- und Bewegungsangebot, regelmäßiges Schwimmen  [ ] zur Absicherung der Schwimmfähigkeit. Hinweise an den Sportverein: REZEPT FÜR  Regelmäßige Bewegung ist wichtig für eine gesunde und ganzheitliche Entwicklung von Kindern und Jugendlichen! Regelmäßige Bewegung hilft dabei, Muskeln, Knochen, Herz und Kreislauf stark zu machen. Bewegung ist auch gut für die Entwicklung Ihres Kindes und fördert die Selbstwirksamkeit und das Selbstvertrauen. Kinder, die sich regelmäßig bewegen, können sich besser konzentrieren, sind entspannter und trainieren soziale Kompetenzen. Stempel und Unterschrift Arzt Ärztin
+mehr Alltagsbewegung
+
+[ ] B. zu Fuß, mit dem Rad zur Kita, zur Schule),(z.
+
+regelmäßige Bewegung durch ein  [ ] Sport- und Bewegungsangebot,
+
+regelmäßiges Schwimmen  [ ]
+
+zur Absicherung der Schwimmfähigkeit.
+
+**Hinweise an den Sportverein:**
+
+# REZEPT FÜR  BEWEGUNG
+
+geb. am
+
+Regelmäßige Bewegung ist  wichtig für eine gesunde und  ganzheitliche Entwicklung von  Kindern und Jugendlichen!
+
+Datum
+
+Regelmäßige Bewegung hilft  dabei, Muskeln, Knochen, Herz  und Kreislauf stark zu machen.  Bewegung ist auch gut für die  Entwicklung Ihres Kindes und  fördert die Selbstwirksamkeit  und das Selbstvertrauen. Kinder,  die sich regelmäßig bewegen,  können sich besser konzentrieren,  sind entspannter und trainieren  soziale Kompetenzen.
+
+Stempel und Unterschrift Arzt Ärztin
+
 
 ---
 

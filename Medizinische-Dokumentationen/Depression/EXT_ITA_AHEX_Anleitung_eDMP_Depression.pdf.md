@@ -47,7 +47,7 @@ Summenwertes.
 
 Tabelle 1: Interpretation des PHQ-9-Summenwerts
 
-| PHQ-9 Summenwert | Schweregrad der Depression |
+| PHQ-9  Summenwert | Schweregrad der Depression |
 |---|---|
 | 0 | Fehlen einer depressiven Schweregradausprägung |
 | 5 | Leichte Ausprägung |

@@ -12,7 +12,7 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-SDKT (Kostenträger- Stammdatei) 1.05 Datum: 1.2.03.2025 Kennzeichnung: Öffentlich Status: In Kraft
+SDKT (Kostenträger- Stammdatei) 1.05 Datum: 12.03.2025 Kennzeichnung: Öffentlich Status: In Kraft
 
 ---
 
@@ -20,12 +20,12 @@ SDKT (Kostenträger- Stammdatei) 1.05 Datum: 1.2.03.2025 Kennzeichnung: Öffentl
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.05 | 1.2.03.2025 | KBV | Grafik in Tabelle 34: Element Erweiterung des Elementes Verschiebung des Elementes Grafik in Tabelle 58: Element | Einführung der | 29  40  44  47 |
-| 1.04 | 18.09.2012 | KBV | Beispiel zu Element <gueltig- | Vermeidung einer F ehlinterpre- | 31 57 |
+| 1.05 | 12.03.2025 | KBV | Grafik in Tabelle 34: Element  Erweiterung des Elementes  Verschiebung des Elementes  Grafik in Tabelle 58: Element | Einführung der | 29    40    44    47 |
+| 1.04 | 18.09.2012 | KBV | Beispiel zu Element <gueltig- | Vermeidung einer F ehlinterpre- | 31  57 |
 | 1.03 | 25.07.2012 | KBV | redaktionelle Überarbeitung | - | - |
 | 1.02 | 18.12.2007 | KBV | Häufigkeit von wop_kv geän- | Fusion der | 50 |
-| 1.01 | 21.06.2007 | KBV | Element bedruckungsname | Element bedruckungsname im | neu: 56 |
-| 1.00 | 15.03.2007 | KBV | Häufigkeit von DAV verändert  Länge von |  | 40 52 |
+| 1.01 | 21.06.2007 | KBV | Element bedruckungsname | Element bedruckungsname im | neu:  56 |
+| 1.00 | 15.03.2007 | KBV | Häufigkeit von DAV verändert   Länge von |  | 40  52 |
 | 1.00 | 14.03.2007 | KBV | Erweiterung des | Verdeutlichung aufgrund Nach- | 25 |
 | 1.00 | 29.01.2007 | KBV | kleine Änderungen |  | diverse |
 | 1.00 | Dezember | KBV | neues Dokument |  |  |
@@ -418,14 +418,13 @@ Tabelle 71: Element kt_abrechnungsbereich ......................................
 
 ---
 
-Tabelle 72: Element bedruckungsname ............................................................................. 56
+| Tabelle | 72: | Element bedruckungsname.............................................................................56 |
+|---|---|---|
+| Tabelle | 73: | Element gueltigkeit.....................................................................................57 |
+| Tabelle | 74: | Element unz_kv_geltungsbereich_liste.................................................57 |
+| Tabelle | 75: | Element unz_kv_geltungsbereich..............................................................58 |
 
-Tabelle 73: Element gueltigkeit ..................................................................................... 57
-
-Tabelle 74: Element unz_kv_geltungsbereich_liste ................................................. 57
-
-Tabelle 75: Element unz_kv_geltungsbereich .............................................................. 58
-
+Tabelle 72: Element Tabelle 73: Element Tabelle 74: Element Tabelle 75: Element
 
 ---
 
@@ -475,8 +474,8 @@ Ele-
 
 | namespace urn:ehd/001 |  |
 |---|---|
-| attributes | Name   Type   Use   Default   Fixed   Annotation ehd_version   ehd_version_typ required |
-| annotation | documentation root element ehd "eHealthData" |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  ehd_version    ehd_version_typ  required |
+| annotation | documentation  root element ehd "eHealthData" |
 
 #### Tabelle 1: Element ehd
 
@@ -489,7 +488,7 @@ beispielsweise Erzeuger und Empfänger der Datei, Gültigkeitszeitraum der entha
 | diagram |  |
 |---|---|
 | namespace urn:ehd/001 |  |
-| annotation | documentation Informationen zur Datei |
+| annotation | documentation  Informationen zur Datei |
 
 #### Tabelle 2: Element header
 
@@ -505,7 +504,7 @@ ment bzw. jede XML-Datei weltweit identifiziert werden kann. Jede XML-Datei hat 
 | diagram |  |
 |---|---|
 | namespace urn:ehd/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation EX   derived by: required           RT   derived by: required           RTV   xs:string prohibited |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  EX    derived by:  required               RT    derived by:  required               RTV    xs:string  prohibited |
 
 **Tabelle 3: Element id**
 
@@ -527,7 +526,7 @@ Doku-
 | diagram |  |
 |---|---|
 | namespace urn:ehd/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation DN   xs:string optional           SN   xs:string optional           SV   xs:string optional           S   xs:string optional      1.2.276.0.76.5.100     V   derived by: required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  DN    xs:string  optional               SN    xs:string  optional               SV    xs:string  optional               S    xs:string  optional        1.2.276.0.76.5.100       V    derived by:  required |
 
 **Tabelle 4: Element document_type_cd**
 
@@ -540,7 +539,7 @@ tenträgerstammdatei ist jeweils für ein Quartal gültig, anzugeben in Form von
 | diagram |  |
 |---|---|
 | namespace urn:ehd/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   zeitraum_typ required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    zeitraum_typ  required |
 
 **Tabelle 5: Element service_tmr**
 
@@ -556,7 +555,7 @@ Das Element ***<origination_dttm>*** beschreibt das Erstellungsdatum der Datei.
 | diagram |  |
 |---|---|
 | namespace urn:ehd/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   xs:date required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:date  required |
 
 **Tabelle 6: Element origination_dttm**
 
@@ -600,7 +599,7 @@ Das id-Element wird genauso gebildet wie das Dokument GUID angegeben werden muss
 | diagram |  |
 |---|---|
 | namespace urn:ehd/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation EX   derived by: required           RT   derived by: required           RTV   xs:string prohibited |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  EX    derived by:  required               RT    derived by:  required               RTV    xs:string  prohibited |
 
 **Tabelle 9: Element id**
 
@@ -630,7 +629,7 @@ n.
 | diagram |  |
 |---|---|
 | namespace urn:ehd/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation EX   derived by: required           RTV   xs:string optional           RT   derived by: required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  EX    derived by:  required               RTV    xs:string  optional               RT    derived by:  required |
 
 **Tabelle 11: Element id**
 
@@ -643,7 +642,7 @@ entsprechenden Schnittstellenbezeichnung steht.
 | diagram |  |
 |---|---|
 | namespace urn:ehd/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   derived by: required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    derived by:  required |
 
 **Tabelle 12: Element interface.nm**
 
@@ -656,7 +655,7 @@ von Version zu Version auch Struktur und Inhaltsbedeutung der Daten ändern kann
 | diagram |  |
 |---|---|
 | namespace urn:ehd/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   derived by: required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    derived by:  required |
 
 enthält die Bezeichnung der Schnittstelle als Text, wie er auf der
 
@@ -673,7 +672,7 @@ Element kts:kostentraeger_liste wird ab Kapitel 3 erläutert.
 | diagram |  |
 |---|---|
 | namespace urn:ehd/001 |  |
-| annotation | documentation die eigentlichen Daten |
+| annotation | documentation  die eigentlichen Daten |
 
 **Tabelle 14: Element body**
 
@@ -686,7 +685,7 @@ der XML-Datei verwendet werden. Bei der Entwicklung einer konkreten Schnittstell
 | diagram |  |
 |---|---|
 | namespace urn:ehd/001 |  |
-| annotation | documentation Schlüsseltabellen |
+| annotation | documentation  Schlüsseltabellen |
 
 **Tabelle 15: Element keytabs**
 
@@ -704,16 +703,16 @@ Die Definitionen der Schlüsseltabellen „Keytab“ sind im
 | diagram |  |
 |---|---|
 | namespace urn:ehd/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation S   xs:string required           SN   xs:string required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  S    xs:string  required               SN    xs:string  required |
 
 ### Anhang zu finden.
 
 
 ---
 
-|  | SV   xs:string required |
+|  | SV    xs:string  required |
 |---|---|
-| annotation | documentation Sclüsseltabelle mit S=OID, SN=Name der Schlüsseltabelle, SV=Version |
+| annotation | documentation  Sclüsseltabelle mit S=OID, SN=Name der Schlüsseltabelle, SV=Version |
 
 #### Tabelle 16: Element keytab
 
@@ -724,8 +723,8 @@ Eine Schlüsseltabelle enthält mehrere Schlüsseln ( buten eingetragen.
 | diagram |  |
 |---|---|
 | namespace urn:ehd/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   xs:string required           S   xs:string required           SV   xs:string required           DN   xs:string required |
-| annotation | documentation Schlüssel mit V=Wert, DN=WertBezeichnung, S=OID zur welchen Sclüsseltabelle der Wert gehört, SV=Version der |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required               S    xs:string  required               SV    xs:string  required               DN    xs:string  required |
+| annotation | documentation  Schlüssel mit V=Wert, DN=WertBezeichnung, S=OID zur welchen Sclüsseltabelle der Wert gehört, SV=Version der |
 
 #### Tabelle 17: Element key
 
@@ -741,7 +740,7 @@ Eine Schlüsseltabelle kann einen Verweis auf einen Schlüssel aus einer anderen
 | diagram |  |
 |---|---|
 | namespace urn:ehd/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   xs:string required           S   xs:string required           SV   xs:string required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required               S    xs:string  required               SV    xs:string  required |
 
 **Tabelle 18: Element fkey**
 
@@ -750,7 +749,7 @@ Eine Schlüsseltabelle kann einen Verweis auf einen Schlüssel aus einer anderen
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| annotation | documentation Liste der Kostenträger |
+| annotation | documentation  Liste der Kostenträger |
 
 **Tabelle 19: Element kostentraeger_liste**
 
@@ -790,8 +789,8 @@ eindeutig ist.
 |  |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| properties | isRef  0 minOcc  1 maxOcc  unbounded content  complex |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   kts:vknr_typ required         documentation KV-KK-NR: KV-Kassen-Nummer - KV- a) Kostenträger-Nummer (KV-Abrechnungsstelle - 2 b) Pflichtkassen-Nummer (KV-Abrechnungsstelle - 2 c) Ersatzkassen-Nummer (KV-Abrechnungsstelle - 2 d) Besondere Kostenträger-Nummer (KV- |
+| properties | isRef  0  minOcc  1  maxOcc  unbounded  content  complex |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    kts:vknr_typ required            documentation  KV-KK-NR: KV-Kassen-Nummer - KV- a) Kostenträger-Nummer (KV-Abrechnungsstelle - 2  b) Pflichtkassen-Nummer (KV-Abrechnungsstelle - 2  c) Ersatzkassen-Nummer (KV-Abrechnungsstelle - 2  d) Besondere Kostenträger-Nummer (KV- |
 | annotation | documentati- Kostenträger |
 
 Verarbeitungsnummer (derzeitige KV-Interne Kassen- Nr. laut KBV-Schlüssel);  Zeichen, Seriennummer - 3 Zeichen);  Zeichen, Kassengruppe - 1 Zeichen, lfd. Nummer - 2 Zeichen);  Zeichen, Kassengruppe - 2 Zeichen, lfd. Nummer - 1 Zeichen);  Abrechnungsstelle - 2 Zeichen, Kassengruppe - 2 Zei- chen, lfd. Nummer - 1 Zeichen#### Tabelle 20: Element kostentraeger
@@ -816,7 +815,7 @@ Alte Feldbezeichnung: Feldkennung  (DA 100, 105, 900, 905), entspricht Feldkennu
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   zeitraum_typ required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    zeitraum_typ  required |
 
 , 145, 146
 
@@ -872,8 +871,8 @@ Alte Feldbezeichnung: Feldkennung KK-AEN-DATUM-Z8
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   zeitraum_typ required |
-| annotation | documentation Wirksamkeit der letzten Änderung (V=KK documentation Format: 'YYYY-MM-DD..YYYY-MM-DD' |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    zeitraum_typ  required |
+| annotation | documentation  Wirksamkeit der letzten Änderung (V=KK documentation  Format: 'YYYY-MM-DD..YYYY-MM-DD' |
 
 **Tabelle 23: Element wirksamkeitsdatum**
 
@@ -890,8 +889,8 @@ Alte Feldbezeichnung: Feldkennung KK-MASCH-DATUM-Z8
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   zeitraum_typ required |
-| annotation | documentation Maschinendatum der letzten Durchführung documentation Format: 'YYYY-MM-DD..YYYY-MM-DD' |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    zeitraum_typ  required |
+| annotation | documentation  Maschinendatum der letzten Durchführung  documentation  Format: 'YYYY-MM-DD..YYYY-MM-DD' |
 
 **Tabelle 24: Element erfassungsdatum**
 
@@ -925,8 +924,8 @@ Prüfung: Es wird geprüft, ob diese KV-Nummer eine gültige Nummer laut Schlüs
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   kts:kvnr_typ required         documentation VERT-KV-CODE  S   derived by: optional |
-| annotation | documentation Vertragsschließende KV (VERT-KV-X3) |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    kts:kvnr_typ  required            documentation  VERT-KV-CODE   S    derived by:  optional |
+| annotation | documentation  Vertragsschließende KV (VERT-KV-X3) |
 
 **Tabelle 25: Element vertrags_kv**
 
@@ -945,7 +944,7 @@ Prüfung: Es wird geprüft, ob diese KV-Nummer eine gültige Nummer laut Schlüs
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   kts:kvnr_typ required         documentation |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    kts:kvnr_typ  required            documentation |
 
 enthält die KV-Nummer der KV, die mit der Kasse
 
@@ -965,7 +964,7 @@ xs:string
 
 ---
 
-|  | für die Aufteilung der Gesamt-  S   derived by: optional |
+|  | für die Aufteilung der Gesamt-   S    derived by:  optional |
 |---|---|
 
 **Tabelle 26: Element abrechnungsstelle**
@@ -985,8 +984,8 @@ Prüfung: Es wird geprüft, dass die hier angegebene Referenzkasse auch in der L
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   kts:vknr_typ required         documentati- REF-KKA- |
-| annotation | documentation Referenzkasse (REF-KKA-Z6) documentation Referenzkasse |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    kts:vknr_typ  required            documentati- REF-KKA- |
+| annotation | documentation  Referenzkasse (REF-KKA-Z6)  documentation  Referenzkasse |
 
 **Tabelle 27: Element referenzkasse**
 
@@ -1001,7 +1000,7 @@ onen zu einer Kasse.
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| properties | isRef  0 content  complex |
+| properties | isRef  0  content  complex |
 
 vergütung zuständige KV- Abrechnungsstelle (V=NR-GES- VERG-KVA-Z2) xs:string VKNR **Tabelle 28: Element bezeichnung**
 
@@ -1021,7 +1020,7 @@ Alte Feldbezeichnung: Feldkennung KK-NAME-X39
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   xs:string required         documentati- KK-NAME-X39 |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required            documentati- KK-NAME-X39 |
 
 **Tabelle 29: Element name**
 
@@ -1036,7 +1035,7 @@ Alte Feldbezeichnung: Feldkennung
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   xs:string required         documentati- KN-SORT-X3 |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required            documentati- KN-SORT-X3 |
 
 sortierungsname
 
@@ -1062,7 +1061,7 @@ enthält den Kurznamen der Kasse.
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   xs:string required         documentati- KK-KURZ- |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required            documentati- KK-KURZ- |
 
 **Tabelle 31: Element kurzname**
 
@@ -1077,7 +1076,7 @@ Alte Feldbezeichnung: Feldkennung
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   xs:string required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required |
 
 suchname 2013
 
@@ -1106,8 +1105,8 @@ Alte Feldbezeichnung: Feldkennung KT-ART-GRU-K2
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   xs:string required         documentation KT-ART-GRU-K2  S   derived by: optional |
-| annotation | documentation Kostenträgergruppe - Verschlüsselung siehe AST-Schl. Verz. Kap. 4.2 |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required            documentation  KT-ART-GRU-K2   S    derived by:  optional |
+| annotation | documentation  Kostenträgergruppe - Verschlüsselung siehe AST-Schl. Verz. Kap. 4.2 |
 
 **Tabelle 33: Element kostentraegergruppe**
 
@@ -1152,8 +1151,8 @@ Alte Feldbezeichnung: Feldkennung
 |---|---|
 | namespace urn:ehd/kts/001 |  |
 | properties | content  complex |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   kts:iknummer_typ required         documentati- IK-Nummer  R   derived by: xs:string optional |
-| annotation | documentation Institutionskennzeichen |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    kts:iknummer_typ  required            documentati- IK-Nummer   R    derived by: xs:string  optional |
+| annotation | documentation  Institutionskennzeichen |
 
 **Tabelle 35: Element ik**
 
@@ -1187,7 +1186,7 @@ Alte Feldbezeichnung: Feldkennung
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   zeitraum_typ required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    zeitraum_typ  required |
 
 **Tabelle 36: Element gueltigkeit**
 
@@ -1213,8 +1212,8 @@ Alte Feldbezeichnung: Feldkennung
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   derived by: required         documentati- KK-ART-X2 documentati- F = Fusion, A |
-| annotation | documentation Art der Existenzbeendigung |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    derived by:  required            documentati- KK-ART-X2  documentati- F = Fusion, A |
+| annotation | documentation  Art der Existenzbeendigung |
 
 **Tabelle 37: Element existenzbeendigung**
 
@@ -1238,8 +1237,8 @@ Alte Feldbezeichnung: Feldkennung
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   derived by: required         documentati- Quartal (For- |
-| annotation | documentation Letztes Quartal der maschinellen Abrechnungsfähigkeit im FKZ (V=ABR |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    derived by:  required            documentati- Quartal (For- |
+| annotation | documentation  Letztes Quartal der maschinellen Abrechnungsfähigkeit im FKZ (V=ABR |
 
 letztes_quartal
 
@@ -1264,8 +1263,8 @@ Prüfung: Die angegebene Kassennummer muss in der Kostenträgerliste vorhanden s
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   kts:vknr_typ required         documentation AUFN-KK-VKNR |
-| annotation | documentation Aufnehmende Kasse (AUFN-KK-X6) |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    kts:vknr_typ  required            documentation  AUFN-KK-VKNR |
+| annotation | documentation  Aufnehmende Kasse (AUFN-KK-X6) |
 
 , 145, 146
 
@@ -1292,7 +1291,7 @@ Alte Feldbezeichnung: nicht vorhanden
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| annotation | documentation Anschriften |
+| annotation | documentation  Anschriften |
 
 #### Tabelle 40: Element adresse_liste
 
@@ -1316,8 +1315,8 @@ ten. Dabei dürfen nur jeweils ein Postfach und nur eine Hausanschrift vorhanden
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation R   derived by: required         documentati- Art der Adres- |
-| annotation | documentation CTY = ORT-X30; STR = STR-X30; PLZ = PLZ_ORT (Hausanschrift) documentation CTY = Ort-Postfach; PBO = POSTFACH; PLZ = PLZ_Postfach (Postfachan- |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  R    derived by:  required            documentati- Art der Adres- |
+| annotation | documentation  CTY = ORT-X30; STR = STR-X30; PLZ = PLZ_ORT (Hausanschrift) documentation  CTY = Ort-Postfach; PBO = POSTFACH; PLZ = PLZ_Postfach (Postfachan- |
 
 **Tabelle 41: Element adresse**
 
@@ -1343,7 +1342,7 @@ Alte Feldbezeichnung: Feldkennung (DA 145), STR (DA 146)
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   xs:string required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required |
 
 **Tabelle 42: Element STR**
 
@@ -1360,7 +1359,7 @@ Alte Feldbezeichnung: Feldkennung  (DA 145), HNR (DA 146)
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   xs:string required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required |
 
 **Tabelle 43: Element HNR**
 
@@ -1386,7 +1385,7 @@ Alte Feldbezeichnung: Feldkennung POSTFACH (DA 100, 105, 900, 905), Feldkennung 
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   xs:string required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required |
 
 **Tabelle 44: Element POB**
 
@@ -1405,7 +1404,7 @@ nung 2036 (DA 145), ZIP (DA 146)
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   xs:string required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required |
 
 **Tabelle 45: Element ZIP**
 
@@ -1427,7 +1426,7 @@ Feldkennung 2036 (DA 145), CTY (DA 146)
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   xs:string required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required |
 
 **Tabelle 46: Element CTY**
 
@@ -1444,7 +1443,7 @@ Alte Feldbezeichnung: STA (DA 146)
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   xs:string required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required |
 
 **Tabelle 47: Element STA**
 
@@ -1464,7 +1463,7 @@ Alte Feldbezeichnung: CNT (DA 146)
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   xs:string required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required |
 
 **Tabelle 48: Element CNT**
 
@@ -1479,7 +1478,7 @@ Alte Feldbezeichnung: Feldkennung PRAXISNETZ-KZ
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   xs:string required         documentation PRAXISNETZ-KZ |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required            documentation  PRAXISNETZ-KZ |
 
 **Tabelle 49: Element praxisnetz**
 
@@ -1503,7 +1502,7 @@ Prüfung: Die Basiskassennummer muss in der Kostenträgerliste vorhanden sein.
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   kts:vknr_typ required         documentation BASISKASSE-VKNR |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    kts:vknr_typ  required            documentation  BASISKASSE-VKNR |
 
 **Tabelle 50: Element basiskasse**
 
@@ -1514,7 +1513,7 @@ Frühere Datenart: 100, 105, 900, 905
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| annotation | documentation Liste der Datenannahme- und - |
+| annotation | documentation  Liste der Datenannahme- und - |
 
 **Tabelle 51: Element dav_liste**
 
@@ -1548,8 +1547,8 @@ Land“) und für die Kasse (R
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   xs:string optional         documentation DAV-Kürzel  DN   xs:string optional         documentation DAV-Bezeichnung  R   derived by: required         documentation Kasse / Land / Bund ASV, |
-| annotation | documentation Datenannahmestelle auf für die definierten DAV-Typen Kassenebene / |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  optional            documentation  DAV-Kürzel   DN    xs:string  optional            documentation  DAV-Bezeichnung   R    derived by:  required            documentation  Kasse / Land / Bund ASV, |
+| annotation | documentation  Datenannahmestelle auf für die definierten DAV-Typen Kassenebene / |
 
 Attribut enthält den Wert „
 
@@ -1578,8 +1577,8 @@ Alte Feldbezeichnung: Feldkennung
 |---|---|
 | namespace urn:ehd/kts/001 |  |
 | properties | content  complex |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   kts:iknummer_typ required         documentati- IK-Nummer  R   derived by: xs:string optional |
-| annotation | documentation Institutionskennzeichen |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    kts:iknummer_typ  required            documentati- IK-Nummer   R    derived by: xs:string  optional |
+| annotation | documentation  Institutionskennzeichen |
 
 DAV-IK-Kasse
 
@@ -1602,7 +1601,7 @@ Folgende Varianten sind möglich:
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   zeitraum_typ required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    zeitraum_typ  required |
 
 **Tabelle 54: Element gueltigkeit**
 
@@ -1626,8 +1625,8 @@ Beschreibung: Das Element  Kürzel und Bezeichnung.
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   xs:string optional         documentati- EBS-Kürzel  DN   xs:string optional         documentati- EBS- |
-| annotation | documentation EBS - Enschlüsselungsberechtigte Stelle |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  optional            documentati- EBS-Kürzel   DN    xs:string  optional            documentati- EBS- |
+| annotation | documentation  EBS - Enschlüsselungsberechtigte Stelle |
 
 ebs enthält die Entschlüsselungsberechtigte Stelle eventuell mit
 
@@ -1654,8 +1653,8 @@ Bezeichnung EBS-IK
 
 | properties | content  complex |
 |---|---|
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   kts:iknummer_typ required         documentati- IK-Nummer  R   derived by: xs:string optional |
-| annotation | documentation Institutionskennzeichen |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    kts:iknummer_typ  required            documentati- IK-Nummer   R    derived by: xs:string  optional |
+| annotation | documentation  Institutionskennzeichen |
 
 **Tabelle 56: Element ik**
 
@@ -1676,7 +1675,7 @@ Folgende Varianten sind möglich:
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   zeitraum_typ required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    zeitraum_typ  required |
 
 **Tabelle 57: Element gueltigkeit**
 
@@ -1694,8 +1693,8 @@ Kürzel und Bezeichnung.
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   xs:string optional         documentati- EBS-Kürzel  DN   xs:string optional         documentati- EBS- |
-| annotation | documentation EBS - Enschlüsselungsberechtigte Stelle |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  optional            documentati- EBS-Kürzel   DN    xs:string  optional            documentati- EBS- |
+| annotation | documentation  EBS - Enschlüsselungsberechtigte Stelle |
 
 Bezeichnung #### Tabelle 58: Element ebs
 
@@ -1716,8 +1715,8 @@ Alte Feldbezeichnung: Feldkennung EBS-IK
 |---|---|
 | namespace urn:ehd/kts/001 |  |
 | properties | content  complex |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   kts:iknummer_typ required         documentati- IK-Nummer  R   derived by: xs:string optional |
-| annotation | documentation Institutionskennzeichen |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    kts:iknummer_typ  required            documentati- IK-Nummer   R    derived by: xs:string  optional |
+| annotation | documentation  Institutionskennzeichen |
 
 **Tabelle 59: Element ik**
 
@@ -1738,7 +1737,7 @@ Folgende Varianten sind möglich:
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   zeitraum_typ required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    zeitraum_typ  required |
 
 , 145, 146
 
@@ -1764,7 +1763,7 @@ Prüfung: Das Unterelement versicherte muss genau dreimal vorkommen.
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| annotation | documentation Mitgliederzahlen |
+| annotation | documentation  Mitgliederzahlen |
 
 **Tabelle 61: Element versicherte_liste**
 
@@ -1793,9 +1792,9 @@ sind die Mitgliederzahlen der Kasse
 
 ---
 
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   xs:int required         documentati- ALLG-VS-MG-  R   derived by: required         documentati- M (Mitglieder), |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:int  required            documentati- ALLG-VS-MG-   R    derived by:  required            documentati- M (Mitglieder), |
 |---|---|
-| identity | Name   Refer   Selector   Field(s)   unique   nur_ein_versicherte    ./kts:versicherte  @R |
+| identity | Name    Refer    Selector    Field(s)    unique    nur_ein_versicherte     ./kts:versicherte   @R |
 
 constraints xs:string _typ   Z7, ALLG-VS- FA-Z7, ALLG- VS-RV-Z7 F (Familien- versicherte), R (Rentner) #### Tabelle 62: Element mitglieder
 
@@ -1813,9 +1812,9 @@ Alte Feldbezeichnung: Feldkennung
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| properties | isRef  0 content  complex |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   xs:string required         documentati- KZ_WOP documentati- WOP-  S   derived by: optional |
-| annotation | documentation WOP - Wohnortprin- |
+| properties | isRef  0  content  complex |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required            documentati- KZ_WOP  documentati- WOP-   S    derived by:  optional |
+| annotation | documentation  WOP - Wohnortprin- |
 
 **Tabelle 63: Element wop**
 
@@ -1837,8 +1836,8 @@ Beschreibung: Das Element  Nummern.
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| properties | minOcc  0 maxOcc  1 |
-| annotation | documentation Liste der WOP-Zuordnungen |
+| properties | minOcc  0  maxOcc  1 |
+| annotation | documentation  Liste der WOP-Zuordnungen |
 
 **Tabelle 64: Element wop_kv_liste**
 
@@ -1855,9 +1854,9 @@ Prüfung: Die KV-Nummer muss laut Schlüsseltabelle S_KBV_
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| properties | isRef  0 minOcc  21 maxOcc  21 content  complex |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   kts:kvnr_typ required           S   derived by: optional |
-| annotation | documentation KV_BEZ_WOP_01, KV_BEZ_WOP_02 ... KV_BEZ_WOP_98 documentation WOP-Zuordnung KV-Landesstelle |
+| properties | isRef  0  minOcc  21  maxOcc  21  content  complex |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    kts:kvnr_typ  required               S    derived by:  optional |
+| annotation | documentation  KV_BEZ_WOP_01, KV_BEZ_WOP_02 ... KV_BEZ_WOP_98 documentation  WOP-Zuordnung KV-Landesstelle |
 
 wop_kv_liste
 
@@ -1894,7 +1893,7 @@ Prüfung: Die KV-Nummer muss laut Schlüsseltabelle S_KBV_BEZIRKSSTELLE korrekt 
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   kts:kvnr_typ required           S   derived by: optional |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    kts:kvnr_typ  required               S    derived by:  optional |
 
 **Tabelle 66: Element bezirksstelle**
 
@@ -1907,7 +1906,7 @@ Beschreibung: Das Element  Bewertungsfeldnummer (RT-Attribut des Elements
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| annotation | documentation Liste der Bewerungsfel- |
+| annotation | documentation  Liste der Bewerungsfel- |
 
 bewertungsfeld_liste
 
@@ -1948,8 +1947,8 @@ Alte Feldbezeichnung: Feldkennung  S8
 
 | diagram |  |
 |---|---|
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   derived by: xs:string required         documentation 1-BEW-S8, 2-BEW-S8 ... 50-BEW-S8 inklusi-  RT   derived by: required         documentation Bewertungsfeldnummer (1-50)  DN   derived by: xs:string optional         documentation   U   derived by: xs:string required         documentation 1 - Punktwert, 2 - Quote |
-| annotation | documentation 1-BEW-S9, 2-BEW-S9 ... 50-BEW-S9 documentation Bewertungsfeld |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    derived by: xs:string  required            documentation  1-BEW-S8, 2-BEW-S8 ... 50-BEW-S8 inklusi-   RT    derived by:  required            documentation  Bewertungsfeldnummer (1-50)   DN    derived by: xs:string  optional            documentation     U    derived by: xs:string  required            documentation  1 - Punktwert, 2 - Quote |
+| annotation | documentation  1-BEW-S9, 2-BEW-S9 ... 50-BEW-S9  documentation  Bewertungsfeld |
 
 bewertungsfeld
 
@@ -1985,7 +1984,7 @@ des Bewertungsfeldes zur weiteren Verarbeitung in vdx, speziell zum Ausweis im F
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   derived by: required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    derived by:  required |
 
 **Tabelle 69: Element bewertungskriterium**
 
@@ -2031,7 +2030,7 @@ xs:string (DA 146)
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   xs:string required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required |
 
 #### Tabelle 71: Element ortssuchname
 
@@ -2053,7 +2052,7 @@ Prüfung: Der Wert muss laut Schlüsseltabelle S_KBV_GEBUEHRENORDNUNG korrekt se
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   derived by: required           S   derived by: optional |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    derived by:  required               S    derived by:  optional |
 
 gebuehrenordnung 2006 (DA 145),
 
@@ -2103,7 +2102,7 @@ reich_liste (DA 146)
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   xs:string required           S   derived by: optional |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required               S    derived by:  optional |
 
 gibt die vertragliche Vereinbarung
 
@@ -2122,7 +2121,7 @@ Alte Feldbezeichnung: Feldkennung
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   xs:string required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required |
 
 **Tabelle 75: Element bedruckungsname**
 
@@ -2154,7 +2153,7 @@ Alte Feldbezeichnung: Feldkennung
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   zeitraum_typ required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    zeitraum_typ  required |
 
 **Tabelle 76: Element gueltigkeit**
 
@@ -2212,7 +2211,7 @@ Alte Feldbezeichnung: Feldkennung
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   kts:kvnr_typ required           S   derived by: optional |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    kts:kvnr_typ  required               S    derived by:  optional |
 
 im Element 2029 (DA 145),
 

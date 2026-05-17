@@ -23,8 +23,8 @@ Die Änderungen vom 10.01.2020 treten zum 01.01.2021 in Kraft.
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.31 | 03.09.2020 | KBV | Änderung des Inkrafttretens der | Verschiebung des Inkrafttretens | 2 |
-| 1.31 | 10.01.2020 | KBV | <zeitraum_akutereignis> | neues optionales Element zur neuer Eintrag in der Kapitelliste geänderte Diagnosegruppen | 14, 18  18, 19 20 |
-| 1.2 | 14.08.2017 | KBV | <icd_code> <geltungsbereich_kv> <kapitel_liste>  Diverse Abbildungen | optionales Element neues Element zur Kennzeich- Max. Anzahl der Kapitel auf vier Überarbeitung der Beschreibungs- | 13, 13 13  18, 19 |
+| 1.31 | 10.01.2020 | KBV | <zeitraum_akutereignis> | neues optionales Element zur  neuer Eintrag in der Kapitelliste  geänderte Diagnosegruppen | 14, 18    18, 19  20 |
+| 1.2 | 14.08.2017 | KBV | <icd_code>  <geltungsbereich_kv>  <kapitel_liste>    Diverse Abbildungen | optionales Element  neues Element zur Kennzeich- Max. Anzahl der Kapitel auf vier  Überarbeitung der Beschreibungs- | 13, 13  13    18, 19 |
 | 1.1 | 19.07.2016 | KBV | Kapitel 5.5 <heilmittel>Element | Max. Anzahl der erlaubten <heil- | 14 |
 | 1.0 | 31.03.2016 | KBV | neues Dokument |  |  |
 
@@ -243,18 +243,7 @@ Die vorliegende Schnittstellenbeschreibung definiert das Format der SDHMA Stammd
 
 Diese Datei wird den Softwarehäusern, die Arztpraxissoftware herstellen, sowie den Kassen- ärztlichen Vereinigungen vom Dezernat 6 der KBV ausschließlich zur Nutzung in der ver- tragsärztlichen Versorgung zur Verfügung gestellt. Für alle sonstigen Nutzungszwecke wende  man sich über den Servicedesk der KBV (EMail: [KBVServiceDesk@KBV.de](mailto:KBVServiceDesk@KBV.de), Telefon: 030 /  4005- 2121) an das Dezernat 4 der KBV.
 
-|  | Versorgung | in | Deutschland |
-|---|---|---|---|
-|  |  | Heilmittelvereinbarung | seit |
-|  | separaten | Stammdatei, | der |
-|  |  | das Format | der SDHMA |
-|  |  | [KBV_ITA_VGEX_eHD]. | |
-|  | Arztpraxissoftware | | herstellen, |
-|  |  | ausschließlich | zur Nutzung |
-|  | Für | alle | sonstigen |
-|  |  | KBVServiceDesk@KBV.de, | |
-
-Heil-
+Stammdatei Heil-
 
 # 2 Konventionen
 
@@ -327,9 +316,9 @@ Es existieren verschiedene Kardinalitäten:
 
 | Kardinalität | Symbol | Beschreibung |
 |---|---|---|
-| 0..1 |  | Optionale Elemente Ein optionales Element wird als Rechteck mit gestri- |
-| 1 |  | Obligatorische Elemente Elemente, welche als Rechteck mit durchgezogener |
-| n...m |  | Mehrfache Elemente Bei Elementen, welche mehrfach vorkommen kön- |
+| 0..1 |  | Optionale Elemente  Ein optionales Element wird als Rechteck mit gestri- |
+| 1 |  | Obligatorische Elemente  Elemente, welche als Rechteck mit durchgezogener |
+| n...m |  | Mehrfache Elemente  Bei Elementen, welche mehrfach vorkommen kön- |
 
 **Tabelle 1:** Beschreibung der Kardinalitäten eines XML
 
@@ -357,10 +346,10 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 | Symbol | Beschreibung |
 |---|---|
-|  | Element mit Kindelementen Ein Element mit einem oder mehreren Kindelementen wird durch ein |
-|  | Referenzelement Der Pfeil links unten im Element zeigt an, dass das Element an ande- |
-|  | Datentyp Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen |
-|  | Gruppenelement Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement |
+|  | Element mit Kindelementen  Ein Element mit einem oder mehreren Kindelementen wird durch ein |
+|  | Referenzelement  Der Pfeil links unten im Element zeigt an, dass das Element an ande- |
+|  | Datentyp  Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen |
+|  | Gruppenelement  Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement |
 
 **Tabelle 3:** Beschreibung sonstiger Symbole
 
@@ -794,28 +783,28 @@ V="..." DN="..."
 
 | Wert ( | Bezeichnung (optional |
 |---|---|
-| AT1 | Störungen der Atmung |
+| AT 1 | Störungen der Atmung |
 | AT2 | Störungen der Atmung |
 | AT3 | Störungen der Atmung bei Mukoviszidose |
 | CS | chronifiziertes Schmerzsyndrom |
 | CF | Mukoviszidose (Cystische Fribrose) |
 | DF | Diabetisches Fußsyndrom |
 | EN1 | ZNS-Erkrankungen (Gehirn) und/oder Entwicklungsstörungen |
-| EN2 | ZNS-Erkrankungen  (Rückenmark) / Neuromuskuläre Erkrankungen |
+| EN2 | ZNS-Erkrankungen (Rückenmark) / Neuromuskuläre Erkrankungen |
 | EN3 | Periphere Nervenläsionen / Muskelerkrankungen Rückenmarkserkrankungen |
 | EN4 | periphere Nervenläsionen |
-| EX1 | Verletzungen/Operationen und Erkrankungen der Extremitäten und des Beckens |
+| EX 1 | Verletzungen/Operationen und Erkrankungen der Extremitäten und des Beckens |
 | EX2 | Verletzungen/Operationen und Erkrankungen der Extremitäten und des |
 | EX3 | Verletzungen/Operationen und Erkrankungen der Extremitäten und des Beckens |
 | EX4 | Miss- und Fehlbildungen, Strukturschäden der Stütz |
-| GE | Arterielle Gefäßerkrankungen (bei konservativer Behandlung, nach Interventioneller / operativer Behandlung) |
+| GE | Arterielle Gefäßerkrankungen (bei konservativer Behandlung, nach  Interventioneller / operativer Behandlung) |
 | Abbildung 16: | Der XML-Code für ein <diagnosegruppe_liste> Element hat folgenden Aufbau: |
 | <diagnosegruppe_liste> | <diagnosegruppe V="..." DN="..." S="1.2.276.0.76.3.1.1.5.2.38"/> |
 |  |  |
 |  |  |
 | <diagnosegruppe V="..." DN="..." S="1.2.276.0.76.3.1.1.5.2.38"/> | </diagnosegruppe_liste> |
 |  |  |
-| XML-Code 16: | 5.17 diagnosegruppe  Das Element <diagnosegruppe> enthält im V-Attribut die Kennzeichnung der Art der Thera- |
+| XML-Code 16: | 5.17 diagnosegruppe   Das Element <diagnosegruppe> enthält im V-Attribut die Kennzeichnung der Art der Thera- |
 |  | Abbildung 17: |
 | Der XML-Code für ein <diagnosegruppe> Element hat folgenden Aufbau: | <diagnosegruppe V="AT1" DN="Störungen..." S="1.2.276.0.76.3.1.1.5.2.38"/> |
 |  |  |
@@ -823,7 +812,7 @@ V="..." DN="..."
 | Wert ( |  |
 |  | Bezeichnung (optional |
 |  |  |
-| AT1 | Störungen der Atmung |
+| AT 1 | Störungen der Atmung |
 | AT2 | Störungen der Atmung |
 | AT3 | Störungen der Atmung bei Mukoviszidose |
 | CS | chronifiziertes Schmerzsyndrom |
@@ -834,7 +823,7 @@ V="..." DN="..."
 |  | (Rückenmark) / Neuromuskuläre Erkrankungen |
 | EN3 | Periphere Nervenläsionen / Muskelerkrankungen Rückenmarkserkrankungen |
 | EN4 | periphere Nervenläsionen |
-| EX1 | Verletzungen/Operationen und Erkrankungen der Extremitäten und des Beckens |
+| EX 1 | Verletzungen/Operationen und Erkrankungen der Extremitäten und des Beckens |
 | EX2 | Verletzungen/Operationen und Erkrankungen der Extremitäten und des |
 | EX3 | Verletzungen/Operationen und Erkrankungen der Extremitäten und des Beckens |
 | EX4 | Miss- und Fehlbildungen, Strukturschäden der Stütz |
@@ -855,30 +844,30 @@ piegruppe. Die Werte entsprechen der Schlüsseltabelle S_HM_DIAGNOSEGRUPPE (OID:
 
 ---
 
-| SAS Seltene angeborene Stoffwechselerkrankungen | Erkrankungen der Wirbelsäule, Gelenke und Extremitäten (mit motorisch SB2 |
+| SAS  Seltene angeborene Stoffwechselerkrankungen | Erkrankungen der Wirbelsäule, Gelenke und Extremitäten (mit motorisch SB2 |
 |---|---|
 | SB3 | System- und Autoimmunerkrankungen mit Bindegewebe-, Muskel- und Gefäßbe- |
 | SB4 | Gelenkerkrankungen, Vorwiegend Schulter/ Ellbogen/ Hand mit prognostisc |
 | SB5 | Gelenkerkrankungen/ Störung der Gelenkfunktion mit prognostisch längerdauern- |
 | SB6 | Sympathische Reflexdystrophie, Sudeck`sches Syndrom, CRPS (chronisch regio- |
 | SB7 | Erkrankungen mit Gefäß-, Muskel- und Bindegewebsbeteiligung, insbesondere |
-| SC1 | Krankhafte Störungen des Schluckaktes |
+| SC 1 | Krankhafte Störungen des Schluckaktes |
 | SC2 | Schädigungen im Kopf-Hals-Bereich |
-| SF | Störungen der Stimm- und Sprechfunktion SO1 Störung der Dickdarmfunktion |
+| SF | Störungen der Stimm- und Sprechfunktion  SO1  Störung der Dickdarmfunktion |
 | SO2 | Störungen der Ausscheidung (Stuhlinkontinenz, Harninkontinenz) |
 | SO3 | Schwindel unterschiedlicher Genese und Ätiologie |
 | SO4 | Sekundäre periphere trophische Störungen bei Erkrankungen |
 | SO5 | Prostatitis, Adnexitis |
 | SP1 | Störungen der Sprache vor Abschluss der Sprachentwicklung |
 | SP2 | Störungen der auditiven Wahrnehmung |
-| SP3 | Störungen der Artikulation SP4 |
-| LY1 | Lymphabflussstörungen |
+| SP3 | Störungen der Artikulation  SP4 |
+| LY 1 | Lymphabflussstörungen |
 | LY2 | Lymphabflussstörungen |
 | LY3 | chronische Lymphabflussstörungen bei bösartigen Erkrankungen |
 | PN | periphere Nervenläsionen / Muskelerkrankungen |
 | PS1 | Entwicklungs-,störungen; Verhaltens- und emotionale Störungen mit Beginn in |
 | PS2 | Neurotische-, Belastungs- und somatoforme Störungen; Verhaltensauffällig |
-| PS3 | Schizophrenie, schizo-type und Wwahnhafte Störungen; und affektive Störungen  / |
+| PS3 | Schizophrenie, schizo-type und Wwahnhafte Störungen; und affektive Störungen / |
 | PS4 | Dementielle Syndrome Psychische und Verhaltensstörungen durch psychotrope |
 | PS5 | Dementielle Syndrome |
 | RE1 | Störungen des Redeflusses (Stottern) |
@@ -891,7 +880,7 @@ piegruppe. Die Werte entsprechen der Schlüsseltabelle S_HM_DIAGNOSEGRUPPE (OID:
 | SB5 | Gelenkerkrankungen/ Störung der Gelenkfunktion mit prognostisch längerdauern- |
 | SB6 | Sympathische Reflexdystrophie, Sudeck`sches Syndrom, CRPS (chronisch regio- |
 | SB7 | Erkrankungen mit Gefäß-, Muskel- und Bindegewebsbeteiligung, insbesondere |
-| SC1 | Krankhafte Störungen des Schluckaktes |
+| SC 1 | Krankhafte Störungen des Schluckaktes |
 | SC2 | Schädigungen im Kopf-Hals-Bereich |
 | SF | Störungen der Stimm- und Sprechfunktion |
 | SO1 | Störung der Dickdarmfunktion |
@@ -909,9 +898,9 @@ piegruppe. Die Werte entsprechen der Schlüsseltabelle S_HM_DIAGNOSEGRUPPE (OID:
 | ST2 | Funktionell bedingte Erkrankungen der Stimme |
 | ST3 | Psychogene Aphonie Erkrankungen der Stimme |
 | ST4 | Psychogene Dysphonie Erkrankungen der Stimme |
-| LY1 | Lymphabflussstörungen |
+| LY 1 | Lymphabflussstörungen |
 | LY2 | Lymphabflussstörungen |
-| LY3 | chronische Lymphabflussstörungen bei bösartigen Erkrankungen PN periphere Nervenläsionen / Muskelerkrankungen |
+| LY3 | chronische Lymphabflussstörungen bei bösartigen Erkrankungen PN  periphere Nervenläsionen / Muskelerkrankungen |
 | PS1 | Entwicklungs-,störungen; Verhaltens- und emotionale Störungen mit Beginn in |
 
 Kindheit und Jugend mit körperlichen Störungen oder Faktoren; Abhängigkeitserkrankungen Substanzen funktionellen Schädigungen) Wirbelsäulenerkrankungen funktionellen und sensomotorisch-perzeptiven Schädigungen) Störungen nach traumatischer Schädigung, Operationen, Verbrennungen, Verätzungen teiligung (mit motorisch-funktionellen/ sensomotorisch Amputationen nach Abschluß der Wundheilung, Angeborene Fehlbildungen kurzzeitigem Behandlungsbedarf dem Behandlungsbedarf nales Schmerzsyndrom); Stadium II und III systemische Erkrankungen Taubheit keiten  Persönlichkeits-und Verhaltensstörun- -perzeptiven Schädigungen)
@@ -935,9 +924,9 @@ Kindheit und Jugend mit körperlichen Störungen oder Faktoren; Abhängigkeitser
 |  |  |
 |  |  |
 |  |  |
-| WS1 | Wirbelsäulenerkrankungen |
+| WS 1 | Wirbelsäulenerkrankungen |
 | WS2 | Wirbelsäulenerkrankungen |
-| ZN1 | ZNS-Erkrankungen einschließlich des Rückenmarks |
+| ZN 1 | ZNS-Erkrankungen einschließlich des Rückenmarks |
 |  | / Neuromuskuläre Erkran- |
 | ZN2 | ZNS-Erkrankungen einschließlich des Rückenmarks |
 | Tabelle 7: |  |
@@ -972,9 +961,9 @@ Kindheit und Jugend mit körperlichen Störungen oder Faktoren; Abhängigkeitser
 |  |  |
 |  |  |
 |  |  |
-| WS1 | Wirbelsäulenerkrankungen |
+| WS 1 | Wirbelsäulenerkrankungen |
 | WS2 | Wirbelsäulenerkrankungen |
-| ZN1 | ZNS-Erkrankungen einschließlich des Rückenmarks  / Neuromuskuläre Erkran- |
+| ZN 1 | ZNS-Erkrankungen einschließlich des Rückenmarks / Neuromuskuläre Erkran- |
 | ZN2 | ZNS-Erkrankungen einschließlich des Rückenmarks |
 
 Übersicht der Attributausprägungen des Elements <diagnosegruppe>

@@ -108,6 +108,8 @@ Medikament/
 
 Substanz
 
+Flow l/min
+
 Häufigkeit
 
 tgl. wtl. mtl.
@@ -130,4 +132,4 @@ Muster 62Cb/E (1.2023)
 
 aktiv
 
-Flow             l/min Flow             l/min Mobilität Flow             l/minbis
+Flow             l/min Flow             l/min Mobilitätbis

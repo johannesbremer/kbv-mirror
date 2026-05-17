@@ -21,7 +21,7 @@ Erstellung und Verarbeitung von XML-Stammdateien für die ARV-Schnittstelle  Dig
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 2.02 | 14.08.2019 | KBV | • |  | 6 |
-| 2.01 | 19.10.2018 | KBV | • • • | - - |  |
+| 2.01 | 19.10.2018 | KBV | • • • | -  - |  |
 | 2.00 | 28.09.2016 | KBV | Anpassung der Verfahrensweise |  | 5, 6 |
 | 1.08 | 03.08.2013 | KBV | Redaktionelle Korrektur |  | 6 |
 
@@ -50,6 +50,8 @@ Klarstellung der Bereitste lungsfristen Redaktionelle Änderungen Anpassung der 
 **3** **HINWEISE AN DIE SOFTWAREHÄUSER FÜR DEN UMGANG MIT FEHLERN**  **IN DEN ARV-STAMMDATEIEN, DIE AL** **SIND**
 
 **S PRODUKTIVDATEI VERÖFFENTLICHT**  **6**
+
+-Stammdateien für die ARV
 
 
 ---
@@ -82,6 +84,8 @@ Die korrekte Schreibweise muss unbedingt eingehalten werden, und es sollte siche
 
 ches gilt für „Rasilez®“ und „Rasilez® plus“.
 
+-Stammdateien für die ARV
+
 
 ---
 
@@ -108,6 +112,8 @@ dardaggregat definiert. Grundsätzlich ist diese Angabe auch in der Kategorie Ha
 - i. In der bereitgestellten Datei müssen die nach Nummer 1 bis 3 be- schriebenen Daten entsprechend den regionalen Informationen ange- passt werden.
 
 - ii. Die bereitgestellte Datei kann um weitere regionale ARV-Stammdaten  erweitert werden.
+
+-Stammdateien für die ARV
 
 
 ---
@@ -142,7 +148,7 @@ Wenn Sie eine fehlerhafte Angabe in einer Stammdatei feststellen, informieren Si
 
 - 4. Bitte senden Sie eine Rückmeldung bzw. Fehlermeldung an die KV mit CC an die KBV  ([KBV_Arzneimittel@kbv.de](mailto:KBV_Arzneimittel@kbv.de); [arv@kbv.de](mailto:arv@kbv.de)). Wenn die KV eine Korrektur der Stammda- tei liefert, dann wird diese durch die KBV zeitnah im Internet zur Verfügung gestellt und  es wird durch einen ITA-Newsletter darauf hingewiesen.
 
-- 5. Wenn die von der Landesebene gelieferten PZN keinen Treffer in der Verordnungs- software ergeben, wird die Datei normal weiterbearbeitet. Bitte senden Sie eine Feh- lermeldung an die KV mit CC an die KBV (siehe 4.)
+- 5. Wenn die von der Landesebene gelieferten PZN keinen Treffer in der Verordnungs- software ergeben, wird die Datei normal weiterbearbeitet. Bitte senden Sie eine Feh- lermeldung an die KV mit CC an die KBV (siehe 4.) -Stammdateien für die ARV
 
 
 ---
@@ -151,4 +157,4 @@ Wenn Sie eine fehlerhafte Angabe in einer Stammdatei feststellen, informieren Si
 
 ### - keinen Treffer in der Verordnungssoftware ergeben, wird die Datei normal weiterbear-
 
-- beitet. Bitte senden Sie eine Fehlermeldung an die KV mit CC an die KBV (siehe 4.)
+- beitet. Bitte senden Sie eine Fehlermeldung an die KV mit CC an die KBV (siehe 4.) -Stammdateien für die ARV

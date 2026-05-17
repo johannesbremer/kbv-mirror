@@ -251,7 +251,7 @@ an.
 
 Die krankheitsmodifizierende Therapie mittels DMARDs soll unmittelbar nach Diagnosestellung begonnen  werden, denn ein früher Behandlungsbeginn hat einen günstigen Effekt auf die radiologische Progression, den  Erhalt und die Wiederherstellung der Funktionalität, das Erreichen einer anhaltenden Remission und die  Reduktion der Mortalität . Bei der Therapieentscheidung sollen die Krankheitsaktivität, die bestehenden  strukturellen Schäden, Komorbiditäten und Sicherheitsaspekte berücksichtigt werden.
 
-Als Mittel der ersten Wahl (Starttherapie) wird das csDMARD Methotrexat empfohlen, wenn keine
+Als Mittel der ersten Wahl (Starttherapie) wird das cs DMARD Methotrexat empfohlen, wenn keine
 
 Kontraindikationen vorliegen (insbesondere Niereninsuffizienz, zeitnah geplante oder bestehende
 

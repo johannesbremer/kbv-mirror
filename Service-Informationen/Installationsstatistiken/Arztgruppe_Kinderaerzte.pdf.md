@@ -6,31 +6,31 @@
 
 **Id Praxissoftware**
 
-2.80 **CGM MEDISTAR BLACK PRO**
+280 **CGM MEDISTAR BLACK PRO**
 
-2.10 **Medical Office**
+210 **Medical Office**
 
-1.12 **TURBOMED**
+112 **TURBOMED**
 
-2.43 **x.concept**
+243 **x.concept**
 
-4.62 **medatixx**
+462 **medatixx**
 
-2.54 **ORBIS®**
+254 **ORBIS®**
 
-2.16 **x.isynet**
+216 **x.isynet**
 
-4.98 **T2med**
+498 **T 2med**
 
-4.57 **tomedo**
+457 **tomedo**
 
-2.03 **ALBIS**
+203 **ALBIS**
 
-3.43 **SAP Ambulatory Care Management**
+343 **SAP Ambulatory Care Management**
 
-2.44 **QUINCY WIN**
+244 **QUINCY WIN**
 
-2.52 **CGM M1 PRO**
+252 **CGM M1 PRO**
 
 **Anbieter**
 
@@ -48,7 +48,7 @@ Dedalus HealthCare GmbH
 
 medatixx GmbH & Co. KG
 
-T2med GmbH & Co. KG
+T 2med GmbH & Co. KG
 
 Zollsoft GmbH
 
@@ -62,79 +62,79 @@ CompuGroup Medical Deutschland AG 1
 
 **Installationen 2.Q.2025**
 
-7.04
+704
 
-6.28
+628
 
-4.05
+405
 
-3.54
+354
 
-3.40
+340
 
-3.26
+326
 
-3.00
+300
 
-2.52
+252
 
-2.33
+233
 
-1.97
+197
 
-1.77
+177
 
-1.35
+135
 
-1.27
+127
 
 **Installationen 1.Q.2025**
 
-7.21
+721
 
-5.71
+571
 
-4.27
+427
 
-3.63
+363
 
-3.19
+319
 
-3.32
+332
 
-3.00
+300
 
-2.36
+236
 
-2.21
+221
 
-2.02
+202
 
-1.79
+179
 
-1.41
+141
 
-1.27
+127
 
 **Differenz**
 
 -17
 
-5.7
+57
 
 -22
 
 -9
 
-2.1
+21
 
 -6
 
 0
 
-1.6
+16
 
-1.2
+12
 
 -5
 
@@ -149,19 +149,19 @@ CompuGroup Medical Deutschland AG 1
 
 **Id Praxissoftware**
 
-0.86 **DURIA**
+086 **DURIA**
 
-2.26 **CGM MEDICO**
+226 **CGM MEDICO**
 
-2.66 **x.comfort**
+266 **x.comfort**
 
-1.35 **EL - Elaphe Longissima**
+135 **EL - Elaphe Longissima**
 
-3.14 **IMedOne**
+314 **IMedOne**
 
-2.61 **S3-Win**
+261 **S 3-Win**
 
-0.83 **PegaMed**
+083 **PegaMed**
 
 **Anbieter**
 
@@ -175,41 +175,41 @@ medatixx GmbH & Co. KG
 
 Deutsche Telekom Clinical Solutions GmbH
 
-S3 Praxiscomputer GmbH / Maximilian Flender
+S 3 Praxiscomputer GmbH / Maximilian Flender
 
 PEGA Elektronik GmbH 2
 
 **Installationen 2.Q.2025**
 
-1.06
+106
 
-9.5
+95
 
-8.0
+80
 
-8.0
+80
 
-7.7
+77
 
-6.5
+65
 
-5.7
+57
 
 **Installationen 1.Q.2025**
 
-1.07
+107
 
-9.8
+98
 
-8.1
+81
 
-8.4
+84
 
-7.2
+72
 
-6.3
+63
 
-5.7
+57
 
 **Differenz**
 

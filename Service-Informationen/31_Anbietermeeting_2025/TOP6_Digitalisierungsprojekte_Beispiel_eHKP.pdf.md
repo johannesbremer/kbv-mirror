@@ -42,6 +42,8 @@
 
 ## - ZEITPLAN GEMATIK
 
+**- BEISPIEL EHKP**
+
 # - FRÜHERE DIGITALISIERUNGSPROJEKTE
 
 # - EHKP
@@ -66,6 +68,8 @@
 ## - insbesondere von Aufgaben des Patienten
 
 - **LESSONS LEARNED FRÜHERE DIGITALISIERUNGSPROJEKTE**
+
+**- BEISPIEL EHKP**
 
 
 ---
@@ -100,6 +104,8 @@
 
 ## › Ergebnisse › Informationsmodell › Soll-Prozess › Datensätze
 
+**- BEISPIEL EHKP**
+
 
 ---
 
@@ -127,13 +133,12 @@
 
 - **DIGITALISIERUNGSPROJEKT EHKP**
 
+**- BEISPIEL EHKP**
+
 
 ---
 
-| **Digitaler** | **Soll-** | **Prozess** | **(vereinfacht)** |
-|---|---|---|---|
-| **DIGITALISIERUNGSPROJEKTE** | **-** | **BEISPIEL EHKP** |  |
-| 31. ANBIETERMEETING | DER KBV | AM 18. | SEPTEMBER 2025 |
+## Digitaler Soll-Prozess (vereinfacht)
 
 ## Nicht abgebildet
 
@@ -155,17 +160,17 @@
 
 ## - Einreichen bei Kostenträger
 
-Digitaler Soll- Prozess (vereinfacht)- **DIGITALISIERUNGSPROJEKT EHKP**
+- **DIGITALISIERUNGSPROJEKT EHKP**
 
 
 ---
 
 |  | **Statusmodell** |  |  | **(vorläufig)** |
 |---|---|---|---|---|
-|  | **DIGITALISIERUNGSPROJEKTE** | **-** | **BEISPIEL EHKP** |  |
-| 31. | ANBIETERMEETING DER | KBV AM | 18. | SEPTEMBER 2025 |
+|  | **DIGITALISIERUNGSPROJEKTE-** | **BEISPIEL** | **EHKP** |  |
+| 31. ANBIETERMEETING | DER | KBV AM | 18. SEPTEMBER | 2025 |
 
-Statusmodell (vorläufig)- **DIGITALISIERUNGSPROJEKT EHKP**
+Statusmodell (vorläufig) - BEISPIEL EHKP- **DIGITALISIERUNGSPROJEKT EHKP**
 
 
 ---
@@ -184,11 +189,9 @@ Statusmodell (vorläufig)- **DIGITALISIERUNGSPROJEKT EHKP**
 
 ## - Entscheidungsdatensatz des Kostenträgers
 
-- Datensatz des Pflegedienstes zur Leistungserbringung
+## - Datensatz des Pflegedienstes zur Leistungserbringung - **DATENSÄTZE**
 
-| ↗ | **DATENSÄTZE** |  |
-|---|---|---|
-|  | SEITE | 9 |
+**- BEISPIEL EHKP**
 
 
 ---
@@ -215,6 +218,8 @@ Statusmodell (vorläufig)- **DIGITALISIERUNGSPROJEKT EHKP**
 
 ## - Angaben des Pflegedienstes zu Dauer und Häufigkeit - **DATENSÄTZE**
 
+**- BEISPIEL EHKP**
+
 
 ---
 
@@ -224,23 +229,19 @@ Statusmodell (vorläufig)- **DIGITALISIERUNGSPROJEKT EHKP**
 
 ## - Abstimmung der Anforderungen mit Prozessbeteiligten
 
-## - Veröffentlichung im Einvernehmen mit GKV-SV - Kommentierung geplant
+## - Veröffentlichung im Einvernehmen mit GKV-SV
 
-| ↗ | **WEITERES** | **VORGEHEN** |  |
-|---|---|---|---|
-|  |  | SEITE | 11 |
+## - Kommentierung geplant - **WEITERES VORGEHEN**
 
-WEITERES VORGEHEN
+**- BEISPIEL EHKP**
+
 
 ---
 
-**Zeitplan gematik**
+## Zeitplan gematik - **WEITERES VORGEHEN**
 
-| ↗ | **WEITERES** | **VORGEHEN** |  |
-|---|---|---|---|
-|  |  | SEITE | 12 |
+**- BEISPIEL EHKP**
 
-WEITERES VORGEHEN
 
 ---
 

@@ -5,7 +5,7 @@
 
 ## [KBV_ITV_VGEX_ANFORDERUNGSKATALOG_SMCB
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 15. SEPTEMBER 2025  VERSION: 2.0  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  15. SEPTEMBER 2025   VERSION: 2.0   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 **-B**
@@ -25,12 +25,12 @@ Die Änderungen treten zum 15.09.2025 in Kraft.
 | VERSION | DATUM | AUTOR | ÄNDERUNG | KAPITEL |
 |---|---|---|---|---|
 | 2.0 | 15.09.2025 | KBV | - | Alle |
-| 1.92 | 18.07.2023 | KBV | -  -  -  -  - | 3.9 4.3.1 0 4.3.3 |
-| 1.91 | 30.03.2023 | KBV | -  -  -  -  -  -  -  -  - | 3.2.3  3.5  3.9  3.9  4.2.3  4.2.3  4.2.3  4.6.3 |
+| 1.92 | 18.07.2023 | KBV | -  -  -  -  - | 3.9  4.3.1  0  4.3.3 |
+| 1.91 | 30.03.2023 | KBV | -  -  -  -  -  -  -  -  - | 3.2.3    3.5    3.9    3.9    4.2.3    4.2.3    4.2.3    4.6.3 |
 | 1.9 | 29.09.2022 | KBV | - | 4.2.3 |
-| 1.8 | 13.09.2022 | KBV | -  -  -  - | 3.2.2/3.2.3    4.2.3   4.2.3 |
-| 1.7 | 04.05.2022 | KBV | -  -  -  - | 3.9/4.2/ 4.3/4.6.3/5   4.2.3 |
-| 1.6 | 22.12.2020 | KBV | Änderungen -  Redaktionell - | 4.2.3 |
+| 1.8 | 13.09.2022 | KBV | -  -  -  - | 3.2.2/3.2.3        4.2.3      4.2.3 |
+| 1.7 | 04.05.2022 | KBV | -  -  -  - | 3.9/4.2/  4.3/4.6.3/5      4.2.3 |
+| 1.6 | 22.12.2020 | KBV | Änderungen  -  Redaktionell  - | 4.2.3 |
 | 1.5 | 14.02.2020 | KBV | Änderungen | 3.3 |
 
 Komplette Überarbeitung zur Einarbeitung HSM-B Berücksichtigung von KV_AFO_0136 in Abbildung 1. Ergänzungen in Tabelle 8 aufgrund von KV_AFO_0136. Ergänzungen in Abbildung 4 aufgrund von KV_AFO_0136. Neu: KV_AFO_0136  Korrektur von Antragsdaten nach Übergang in den Status „zur Freigabe“ Redaktionelle Korrekturen Streichung der Vorgabe „per Post“ zum Versand des Initialkennwortes an KV-Mitarbeiter. KV_AFO_0027: Verlängerung der Löschfristen für Anträge in den Status „Antrag vorbefüllt“ und „Bearbeitung beendet“. KV_AFO_0034 : Status „Eingang Antragsunterlagen“ wird in Tabelle 3 und Abbildung 1 als optional gekennzeichnet. KV_AFO_0034: Hinzufügen fehlender Statusübergange durch Storniermöglichkeit (KV_AFO_0123) in Abbildung 1. KV_AFO_0046: Anpassung des Umsetzungsdatums für die sichere Identifizierung an gematik-Vorgabe. KV_AFO_0067: Anpassung an Prozess mit sicherer Identifizierung und Entfernung von fehlerhaften/veralteten Verweisen. KV_AFO_0123: Berücksichtigung weiterer Statusübergänge durch Storniermöglichkeit.  KV_AFO_0121: Ergänzung der Adresse der Betriebsstätte Diverse redaktionelle Korrekturen. Konkretisierung des Termins für die Umsetzung der sicheren Identifizierung des Antragstellers gemäß [gemRL_TSL_SP_CP] aufgrund von Fristverschiebung seitens der gematik. Streichung von KV_AFO_0012, da Passwortvorgaben veraltet (nicht mehr den Regelungen des IT-Grundschutz-Kompendiums des BSI entsprechend). Sicherung des Portals nach Stand der Technik wird bereits von [gemRL_TSL_SP_CP] gefordert. Streichung von KV_AFO_0120, da veraltet; Zugriff durch berufsmäßige Gehilfen von Psychotherapeuten nach § 359 Abs. 1 S. 1 Nr. 4 lit. a sublit. aa SGB V möglich. Streichung von KV_AFO_0063, neue KV_AFO_0135, um eine Änderung von vorbefüllten Daten zu ermöglichen, falls diese von den im sicheren Identifizierungsverfahren zu verifizierenden Daten abweichen. Redaktionelle Korrekturen Anpassung des Prozesses und der Status sowie Auflösen von Inkonsistenzen im Zuge der Umsetzung der neuen gematik- Anforderungen an die Kartenherausgabeprozesse ([gemRL_TSL_SP_CP], Version 2.10.1) Neu: KV_AFO_0133  Beschränkung der Lieferadresse Neu: KV_AFO_0134  Verifikation identifizierender Daten im Rahmen der sicheren Identifizierung Diverse redaktionelle Korrekturen Neu: KV_AFO_0132 Zuordnung eines elektronischen Heilberufsausweises Diverse sprachliche Verbesserungen
@@ -39,10 +39,10 @@ Komplette Überarbeitung zur Einarbeitung HSM-B Berücksichtigung von KV_AFO_013
 
 | VERSION | DATUM | AUTOR | ÄNDERUNG | KAPITEL |
 |---|---|---|---|---|
-|  |  |  | -  -  -  -  Anpassung an aktuelles KBV Corporate Design - Hinweis: Hierdurch bedingte Formatierungsänderungen sind nicht Redaktionell - Änderung der Seitenverweise in Kapitelverweise in der | 4.2.3  5 4.2.3 |
-| 1.4 | 15.05.2019 | KBV | Änderungen - KV_AFO_0124: Klarstellung, dass die SOAP-Schnittstelle nur über - KV_AFO_0125: Klarstellung, dass auf Basis vorhandener - KV_AFO_0126: Klarstellung, dass ein Antragsteller Karten für - KV_AFO_0127: Flexibilisierung, so dass Bestellungen/Anträge auch - Entfernung der Frist von 28 Tagen zur Freischaltung der Zertifikate - Entfernung der Anforderung für einen TSP-eigenen - KV_AFO_0128 und KV_AFO_0129: Möglichkeiten zum Export und - KV_AFO_0130 wurde neu aufgenommen Redaktionell - Diverse sprachliche Verbesserungen | 3.4  4.2.3  4.2.3   4.2.3  4.4.3  4.4.3   4.6.3   5 |
-| 1.3 | 07.03.2018 | KBV | Änderungen - Bedingung zur Umsetzung der SOAP-Schnittstelle geändert Redaktionell - KV_AFO_0011 umformuliert - Erläuternde Ergänzungen in Tabelle 6 und 9 aufgenommen. | 3    3.2.2 4.2.3/ 4.3.3 |
-| 1.2 | 20.12.2017 | KBV | Aufnahme von Rückmeldungen vom BMG: - KV_AFO_0120 Rahmenbedingung beim Antrag für Klarstellungen/Anpassungen auf Basis von Rückmeldungen der Industrie - Inkonsistenz zwischen TUC Antragstellung und KV_AFO_0064 - Streichung von KV_AFO_0040 aufgrund von inhaltsgleicher - Neu: KV_AFO_0122 Gestaltung der Freigabe- - Neu: KV_AFO_0123 Storniermöglichkeit bis zur - Korrektur in den Anforderungen KV_AFO_0082, KV_AFO_0085, - Auflösung der Inkonsistenz zu gematik-Anforderungen im Bezug - Optimierung der Ansicht für die KVen in Tabelle 13 | alle |
+|  |  |  | -  -  -  -  Anpassung an aktuelles KBV Corporate Design  -  Hinweis: Hierdurch bedingte Formatierungsänderungen sind nicht  Redaktionell  -  Änderung der Seitenverweise in Kapitelverweise in der | 4.2.3    5  4.2.3 |
+| 1.4 | 15.05.2019 | KBV | Änderungen  -  KV_AFO_0124: Klarstellung, dass die SOAP-Schnittstelle nur über  -  KV_AFO_0125: Klarstellung, dass auf Basis vorhandener  -  KV_AFO_0126: Klarstellung, dass ein Antragsteller Karten für  -  KV_AFO_0127: Flexibilisierung, so dass Bestellungen/Anträge auch  -  Entfernung der Frist von 28 Tagen zur Freischaltung der Zertifikate  -  Entfernung der Anforderung für einen TSP-eigenen  -  KV_AFO_0128 und KV_AFO_0129: Möglichkeiten zum Export und  -  KV_AFO_0130 wurde neu aufgenommen  Redaktionell  -  Diverse sprachliche Verbesserungen | 3.4    4.2.3    4.2.3      4.2.3    4.4.3    4.4.3      4.6.3      5 |
+| 1.3 | 07.03.2018 | KBV | Änderungen  -  Bedingung zur Umsetzung der SOAP-Schnittstelle geändert  Redaktionell  -  KV_AFO_0011 umformuliert  -  Erläuternde Ergänzungen in Tabelle 6 und 9 aufgenommen. | 3      3.2.2  4.2.3/  4.3.3 |
+| 1.2 | 20.12.2017 | KBV | Aufnahme von Rückmeldungen vom BMG:  -  KV_AFO_0120 Rahmenbedingung beim Antrag für  Klarstellungen/Anpassungen auf Basis von Rückmeldungen der Industrie  -  Inkonsistenz zwischen TUC Antragstellung und KV_AFO_0064  -  Streichung von KV_AFO_0040 aufgrund von inhaltsgleicher  -  Neu: KV_AFO_0122 Gestaltung der Freigabe- -  Neu: KV_AFO_0123 Storniermöglichkeit bis zur  -  Korrektur in den Anforderungen KV_AFO_0082, KV_AFO_0085,  -  Auflösung der Inkonsistenz zu gematik-Anforderungen im Bezug  -  Optimierung der Ansicht für die KVen in Tabelle 13 | alle |
 
 KV_AFO_0023: TSP darf das Antragportal nicht mehr im SNK bereitstellen. KV_AFO_0087: Bei der Beantragung von Ersatzkarten ist eine Freigabe durch die zuständige KV notwendig. KV_AFO_0116: Anpassung der Hinweise Neu: KV_AFO_0131 - Zuordnung der KV anhand der BSNR im Antragsportal - Sonderfälle gelb markiert. Dokumentenhistorie. das SNK verfügbar sein soll Antragsdaten ein neuer Antrag gestellt werden darf mehrere Praxen wie z.B. Haupt- und Nebenbetriebsstätte(n) bestellen kann. über andere Wege als das Antragsportal eingehen können. nach Auslieferung (KV_AFO_0088) Verzeichnisdienst, da innerhalb der TI ein zentraler Verzeichnisdienst aufgebaut wird (KV_AFO_0089) zur Beschränkung der Anzahl angezeigter Datensätze in der Überblicksansicht Psychotherapeutische Praxen oder den KVen aufgelöst Anforderung KV_AFO_0030 /Ablehnungsmöglichkeit Freigabe/Ablehnung des Antrags KV_AFO_0086, KV_AFO_0087: Aufnahme des PIN/PUK-Briefes auf die Verfügbarkeit des Verzeichnisdienstes in der TI: KV_AFO_0089
 
@@ -50,8 +50,8 @@ KV_AFO_0023: TSP darf das Antragportal nicht mehr im SNK bereitstellen. KV_AFO_0
 
 | VERSION | DATUM | AUTOR | ÄNDERUNG | KAPITEL |
 |---|---|---|---|---|
-|  |  |  |  | - Neu: KV_AFO_0121 - KV_AFO_0114: Ergänzung der BSNR in Benachrichtigungen für die - KV_AFO_0115: Ergänzung des Sperrgrundes in Benachrichtigungen |
-| 1.1 | 15.08.2017 | KBV | Aufnahme von Rückmeldungen aus der Industrie: - Erweiterung der Übergreifende Festlegungen  - KV_AFO_0002: Lösungsneutrale Umformulierung - KV_AFO_0006: Redaktionelle Klarstellung - KV_AFO_0021: Klarstellende Anmerkung ergänzt - KV_AFO_0064: Klarstellung, dass der TSP eine Vorgangsnummer - KV_AFO_0087: Änderung bzgl. der Bestellmöglichkeit einer - Kapitel 4.5: Klarstellung, dass durch den TSP auch ein telefonischer - KV_AFO_0099: Redaktionelle Klarstellung | alle |
+|  |  |  |  | -  Neu: KV_AFO_0121  -  KV_AFO_0114: Ergänzung der BSNR in Benachrichtigungen für die  -  KV_AFO_0115: Ergänzung des Sperrgrundes in Benachrichtigungen |
+| 1.1 | 15.08.2017 | KBV | Aufnahme von Rückmeldungen aus der Industrie:  -  Erweiterung der Übergreifende Festlegungen   -  KV_AFO_0002: Lösungsneutrale Umformulierung  -  KV_AFO_0006: Redaktionelle Klarstellung  -  KV_AFO_0021: Klarstellende Anmerkung ergänzt  -  KV_AFO_0064: Klarstellung, dass der TSP eine Vorgangsnummer  -  KV_AFO_0087: Änderung bzgl. der Bestellmöglichkeit einer  -  Kapitel 4.5: Klarstellung, dass durch den TSP auch ein telefonischer  -  KV_AFO_0099: Redaktionelle Klarstellung | alle |
 | 1.0 | 01.06.2017 | KBV | Aufnahme der Rückmeldungen aus Kommentierungsverfahren | alle |
 | 0.5 | 02.05.2017 | KBV | Erste Version als Basis für Abstimmung mit KVen und TSP | alle |
 
@@ -310,11 +310,11 @@ Die folgende Tabelle beschreibt die relevanten Akteure und Rollen des
 | ROLLE | BESCHREIBUNG |
 |---|---|
 | Antragsteller | Berechtigte Personen, die eine SM-B für die Praxis beantragen dürfen. |
-| Berechtigte Mitarbeiter | Die berechtigten Mitarbeiter von KVen - Anträge freigeben/ablehnen, - Anträge sperren, - Informationen einsehen (Monitoring). Der TSP führt eine Registrierung berechtigter Mitarbeiter der |
+| Berechtigte Mitarbeiter | Die berechtigten Mitarbeiter von KVen  -  Anträge freigeben/ablehnen,  -  Anträge sperren,  -  Informationen einsehen (Monitoring). Der TSP führt eine Registrierung berechtigter Mitarbeiter der |
 | Maschinen-Account KV | Der Maschinen-Account für KVen wird für die Nutzung der SOAP |
-| Leiter der | Der Leiter der Attributsbestätigenden Stelle der KV In diesem Fall ist mit Leiter nicht der Vorstand |
-| Kassenärztliche | Gemäß der gematik-Definition fungiert das KV-System für seine Mitglieder Die jeweilige KV ist für die von ihr ausgegebenen In diesem Dokument wird nicht zwischen Kartenherausgeber |
-| TSP | Verantwortet den Betrieb der PKI (RA, CA, OCSP) und stellt die Schnittstellen Der TSP stellt für die Antragsteller und KV einen „Single Point of Contact“ |
+| Leiter der | Der Leiter der Attributsbestätigenden Stelle der KV  In diesem Fall ist mit Leiter nicht der Vorstand |
+| Kassenärztliche | Gemäß der gematik-Definition fungiert das KV-System für seine Mitglieder  Die jeweilige KV ist für die von ihr ausgegebenen  In diesem Dokument wird nicht zwischen Kartenherausgeber |
+| TSP | Verantwortet den Betrieb der PKI (RA, CA, OCSP) und stellt die Schnittstellen  Der TSP stellt für die Antragsteller und KV einen „Single Point of Contact“ |
 
 Systems.
 
@@ -674,8 +674,8 @@ Der TSP MUSS die Antragsdaten wie in **TABELLE 2:**
 | STATUS | LÖSCHEN ODER ANONYMISIEREN |
 |---|---|
 | Die KV hat einen Antrag mit Werten vorbefüllt. Der | Der TSP MUSS die Vorbefüllungsdaten nach |
-| Ein Antragsteller hat einen Antrag Für das Wiederaufrufen des Antrags hat er | Der TSP MUSS die Antragsdaten eines Antrags mit |
-| Ein Antragsteller hat einen Antrag im Antragsportal Bei einer ggf. eigenen Prüfung hat der TSP Fehler | Der TSP MUSS die Antragsdaten nach 30 Tagen |
+| Ein Antragsteller hat einen Antrag  Für das Wiederaufrufen des Antrags hat er | Der TSP MUSS die Antragsdaten eines Antrags mit |
+| Ein Antragsteller hat einen Antrag im Antragsportal  Bei einer ggf. eigenen Prüfung hat der TSP Fehler | Der TSP MUSS die Antragsdaten nach 30 Tagen |
 | Der TSP hat den Antrag zur Freigabe an die KV | Der TSP MUSS die Antragsdaten (auch die im |
 | Die KV hat einen SM-B-Antrag freigegeben. | Alle zum Antrag zugehörigen Daten werden 5 Jahre |
 | Die Zertifikate einer SM-B wurden gesperrt oder | Alle zum Antrag zugehörigen Daten werden 5 Jahre |
@@ -696,7 +696,7 @@ Antragsteller stellt keinen Antrag beim TSP. zwischengespeichert, aber noch nich
 
 | STATUS | LÖSCHEN ODER ANONYMISIEREN |
 |---|---|
-|  | Account durch den Leiter der Der TSP MUSS nach der Löschung des Accounts |
+|  | Account durch den Leiter der  Der TSP MUSS nach der Löschung des Accounts |
 
 ## 3.6 ÄNDERUNGSHISTORIE
 
@@ -783,7 +783,12 @@ Attributsbestätigenden Stelle sämtliche Berechtigungen entzogen und der Accoun
 
 ---
 
-**Abbildung 1: Gesamtübersicht zu Antrags - und SM-B-Status**
+| **Abbildung** | **1:** | **Gesamtübersicht** | **zu** | **Antrags** | **- und** | **SM-B-Status** |  |  |
+|---|---|---|---|---|---|---|---|---|
+| Seite 17 von | 57 / KBV / | Anforderungskatalog | | SM-B Anbieter | - Anforderungen | an TSP im | Rahmen der Ausgabe | von SM-B |
+| für das | KV-System / | Version: 2.0 | / 15 September | 2025 |  |  |  |  |
+
+Abbildung 1: Gesamtübersicht zu Antrags - und SM-B-Status
 
 
 ---
@@ -809,7 +814,7 @@ Die Vorbefüllung geschieht über die SOAP-Schnittstelle.
 | Name | Vorbefüllung |
 | Beschreibung | Bei der Vorbefüllung werden Daten von der KV an den TSP übermittelt, die im |
 | Auslöser | Der Antragsteller veranlasst bei der für ihn zuständigen KV die Übermittlung von |
-| Vorbedingungen | Eine TLS-Verbindung wurde aufgebaut. Die KV hat sich an der SOAP-Schnittstelle authentisiert. |
+| Vorbedingungen | Eine TLS-Verbindung wurde aufgebaut.  Die KV hat sich an der SOAP-Schnittstelle authentisiert. |
 | Eingangsdaten | Es sind Daten zur Vorbefüllung von Anträgen notwendig. Die Vorbefüllungsdaten liegen in Form einer |
 | Ausgangsdaten | Gesamter Vorbefüllungsdatensatz inkl. der vom TSP erzeugten Vorgangsnummer. schluss der Vorbefüllung |
 | Nachbedingungen | Beim TSP liegen die Daten aus der Vorbefüllung inkl. der zugehörigen |
@@ -926,8 +931,8 @@ Abonnements oder Folgeidentitäten ist pro separater SM-B-Produktion erneut die 
 | Name | Antragstellung |
 | Beschreibung | Der Antragsteller bestellt eine bzw. mehrere SM-B beim TSP für seine Praxis bzw. |
 | Auslöser | Der Antragsteller benötigt eine |
-| Vorbedingungen | Vorbedingungen für Varianten:  •  •  •  • |
-| Eingangsdaten | Antragsdaten für die Bestellung gemäß [gemSpec_Pers_SMC-B] und  Eingangsdaten bei Varianten: •  •  •  • |
+| Vorbedingungen | Vorbedingungen für Varianten:   •  •  •  • |
+| Eingangsdaten | Antragsdaten für die Bestellung gemäß [gemSpec_Pers_SMC-B] und    Eingangsdaten bei Varianten:  •  •  •  • |
 | Ausgangsdaten | Antrag als PDF oder E-Mail mit Antragsdaten, Vorgangsnummer sowie Zugriffsdaten |
 | Nachbedingungen | Der Antrag ist im Status „zur Freigabe“ oder „Antrag in |
 | Standardablauf | Siehe ABBILDUNG 3: . |
@@ -985,13 +990,13 @@ jeweils kennzeichnen, ob die Eingabe durch den Antragsteller optional oder verpf
 |---|---|---|
 | Nachname | Der Nachname des Antragstellers wird für die | HNameType:Nachname |
 | Vornamen | Der oder die Vornamen des Antragstellers | HNameType:Vornamen |
-| LANR | Die Lebenslange Arztnummer identifiziert den Die LANR wird für die Freigabe des Antrags | ProfessionalDataType:HeilberuflerID |
+| LANR | Die Lebenslange Arztnummer identifiziert den  Die LANR wird für die Freigabe des Antrags | ProfessionalDataType:HeilberuflerID |
 | Geburtsdatum | Das Geburtsdatum wird für die Freigabe des | GeburtsdatenType:Geburtsdatum |
 | Praxis oder MVZ | | |
 | Name | Der Name der Praxis/des MVZ wird als | InstName |
 | Adresse der | Die Anschrift der Betriebsstättennummer | Institution:Anschrift: |
-| BSNR | Die Betriebsstättennummer identifiziert die Die BSNR wird für die Freigabe des Antrags Die BSNR wird als Zertifikatsinhalt der SM-B | InstID |
-| Profession | Der Wert MUSS entweder „Betriebsstätte Arzt“ Die Profession wird als Zertifikatsinhalt der SM Dieser Wert wird für die Freigabe des Antrags | InstProfessionItemType |
+| BSNR | Die Betriebsstättennummer identifiziert die  Die BSNR wird für die Freigabe des Antrags  Die BSNR wird als Zertifikatsinhalt der SM-B | InstID |
+| Profession | Der Wert MUSS entweder „Betriebsstätte Arzt“  Die Profession wird als Zertifikatsinhalt der SM Dieser Wert wird für die Freigabe des Antrags | InstProfessionItemType |
 
 **ATEN EINES ANTRAGS** ermöglichen. Bei allen Eingabefeldern MUSS der TSP
 
@@ -1384,12 +1389,12 @@ Darüber hinaus können KVen gemäß [KV_AFO_0136] einen Antrag zur Korrektur an
 | ELEMENT | BESCHREIBUNG |
 |---|---|
 | Name | Freigabe |
-| Beschreibung | [FG-1]: Die KV kann im [FG-2]: Als andere Möglichkeit kann die KV über einen SOAP Nach einer Freigabe produziert der TSP die zugehörigen Zertifikate, Schlüssel, für eine |
+| Beschreibung | [FG-1]: Die KV kann im  [FG-2]: Als andere Möglichkeit kann die KV über einen SOAP Nach einer Freigabe produziert der TSP die zugehörigen Zertifikate, Schlüssel,  für eine |
 | Auslöser | Der TSP informiert die KV per E- |
-| Vorbedingungen | Es liegt ein A   [FG-2]: Authentisierung des SOAP-Clients der KV beim SOAP-Request. |
+| Vorbedingungen | Es liegt ein A    [FG-2]: Authentisierung des SOAP-Clients der KV beim SOAP-Request. |
 | Eingangsdaten | [FG-1] und [FG-3]: Daten, um den freizugebenen Antrag zu identifizieren. [FG-2]: Freigabeauftrag über SOAP |
-| Ausgangsdaten | •  •  bzw. •  • |
-| Nachbedingungen | Der Antrag ist freigegeben oder abgelehnt und hat entsprechend den Status  Im Fall des Status „Freigegeben“ werden die Schlüssel, Zertifikate und die PIN/PUK |
+| Ausgangsdaten | •  •  bzw.  •  • |
+| Nachbedingungen | Der Antrag ist freigegeben oder abgelehnt und hat entsprechend den Status    Im Fall des Status „Freigegeben“ werden die Schlüssel, Zertifikate und die PIN/PUK |
 | Standardablauf | Siehe ABBILDUNG 4: sowie ABBILDUNG 5: |
 | Varianten/ | • |
 
@@ -1522,11 +1527,11 @@ Der TSP MUSS die Freigabemöglichkeit im Portal so gestalten, dass
 |---|---|---|
 | Nachname | Der Nachname des Antragstellers wird für | HNameType:Nachname |
 | Vornamen | Der oder die Vornamen des Antragstellers | HNameType:Vornamen |
-| LANR | Die Lebenslange Arztnummer identifiziert Die LANR wird für die Freigabe des Antrags | ProfessionalDataType:HeilberuflerID |
+| LANR | Die Lebenslange Arztnummer identifiziert  Die LANR wird für die Freigabe des Antrags | ProfessionalDataType:HeilberuflerID |
 | Geburtsdatum | Das Geburtsdatum wird für die Freigabe des | GeburtsdatenType:Geburtsdatum |
 | Praxis oder MVZ | | |
 | Adresse der | Die Anschrift der Betriebsstättennummer | Institution:Anschrift: |
-| BSNR | Die Betriebsstättennummer identifiziert die Die BSNR wird für die Freigabe des Antrags Die BSNR wird als Zertifikatsinhalt der SM-B | InstID |
+| BSNR | Die Betriebsstättennummer identifiziert die  Die BSNR wird für die Freigabe des Antrags  Die BSNR wird als Zertifikatsinhalt der SM-B | InstID |
 
 -Bs der KVen die Datenstrukturen aus [gemSpec_Pers_SMC
 
@@ -1547,7 +1552,7 @@ Praxis/des MVZ die Freigabe des Antrags durch die KV geprüft.  werden für die 
 
 | FELD | BESCHREIBUNG/FORMAT | [GEMSPEC_PERS_SMC-B] |
 |---|---|---|
-| Profession | Der Wert MUSS entweder „Betriebsstätte Die Profession wird als Zertifikatsinhalt der Dieser Wert wird für die Freigabe des | InstProfessionItemType |
+| Profession | Der Wert MUSS entweder „Betriebsstätte  Die Profession wird als Zertifikatsinhalt der  Dieser Wert wird für die Freigabe des | InstProfessionItemType |
 
 **KV_AFO_0136 Korrektur von Antragsdaten nach Übergang in den Status „zur Freigabe“**
 
@@ -1586,7 +1591,7 @@ der Freischaltung ermöglicht der TSP die Überprüfung der Gültigkeit der X.50
 | ELEMENT | BESCHREIBUNG |
 |---|---|
 | Name | Lieferung |
-| Beschreibung | bzw. fertiggestellte, kartenungebundene Der TSP versendet den Brief mit PIN/PUK bzw. Aktivierungscode |
+| Beschreibung | bzw. fertiggestellte, kartenungebundene  Der TSP versendet den Brief mit PIN/PUK bzw. Aktivierungscode |
 | Auslöser | Der TSP will dem Antragsteller die beantragte(n) |
 
 MAPPING ZUR XML-STRUKTUR Arzt“ oder „Betriebsstätte Psychotherapeut“ lauten. SM-B benötigt. Antrags durch die KV geprüft. Bei der Lieferung werden fertiggestellte SMC-B vom TSP an die angegebene Lieferanschrift des Antragstellers versendet Identitäten an den HSK des Antragstellers übermittelt  (HSM-B).   an den Antragsteller. Zur Freischaltung der Zertifikate der SM-B ruft der Antragsteller das Antragsportal auf und gibt die zugehörigen Zugriffsdaten ein. Der TSP ermöglicht im Anschluss die Überprüfung der X.509-Zertifikate am OCSP-Server und informiert den Antragsteller über die erfolgreiche Freischaltung. SM-B ausliefern.
@@ -1694,9 +1699,9 @@ nicht freigeschaltet“ setzen. In diesem Fall SOLL der TSP eine Möglichkeit zu
 | ELEMENT | BESCHREIBUNG |
 |---|---|
 | Name | Sperrung |
-| Beschreibung | • der die zu sperrenden Zertifikate zugehören.  •  •  Nach einer Prüfung sperrt der TSP alle Zertifikate der |
+| Beschreibung | • der die zu sperrenden Zertifikate zugehören.   •  •  Nach einer Prüfung sperrt der TSP alle Zertifikate der |
 | Auslöser | Die Zertifikate einer SM-B sollen gesperrt werden, z.B. weil der Antragsteller bzw. |
-| Vorbedingungen | Eine TLS-Verbindung wurde aufgebaut. Die zu sperrenden Zertifikate befinden sich in einem sperrbaren Status. •  o  •  o  Zertifikate können beim TSP gesperrt werden. Dafür gibt es die folgenden Varianten: •  •  • |
+| Vorbedingungen | Eine TLS-Verbindung wurde aufgebaut.  Die zu sperrenden Zertifikate befinden sich in einem sperrbaren Status.  •  o  •  o  Zertifikate können beim TSP gesperrt werden. Dafür gibt es die folgenden Varianten: •   •  • |
 
 [SP-1]: Antragsteller sperrt Zertifikate im Antragsportal, [SP-2]: KV sperrt Zertifikate im Freigabeportal, [SP-3]: KV sperrt Zertifikate über die SOAP -Schnittstelle,  [SP-4]: Antragsteller sperrt Zertifikate schriftlich. Ein telefonischer Sperrweg durch den Antragsteller KANN  vergleichbar mit [SP-4]  durch den TSP angeboten werden. Es ist hervorzuheben, dass eine KV nur sperrberechtigt ist für die jenigen SM-B, deren Anträge sie auch bestätigt hat. Der Umzug einer Praxis in ein anderes KV -Gebiet ändert die Zuständigkeit sowie die Betriebsstättennummer der Praxis, so dass eine neue SM -B beantragt werden muss. 4.5.1 TUC-Beschreibung Tabelle 11: TUC_Sperrung [SP-1]: Ein Antragsteller gibt im Antragsportal Zugriffsdaten der SM-B ein, [SP-2]: Eine KV sucht im Freigabeportal die SM-B, zu der die zu sperrende Zertifikate gehören, und löst einen Sperrauftrag aus. [SP-3]: Eine KV sendet einen Sperrauftrag über die SOAP-Schnittstelle an den TSP. SM-B. Im Falle von [SP-2] und [SP-3] sperrt der TSP auch alle Zertifikate weiterer SM-B der gleichen Institution (SM-B, die derselben BSNR zugeordnet sind).  die Praxis die SMC-B verloren hat oder sich Angaben im Zertifikat (BSNR) geändert haben.  [SP-1]: Der Antragsteller kennt die Zugriffsdaten der SM-B, der die zu sperrenden Zertifikate zugehören (falls diese Daten nicht bekannt sind, kann der Antragsteller auch auf schriftlichem Wege sperren, siehe [SP-4]). [SP-2]: Die KV ist im Portal authentisiert.
 
@@ -1713,10 +1718,10 @@ nicht freigeschaltet“ setzen. In diesem Fall SOLL der TSP eine Möglichkeit zu
 | Fehlerfälle | •  o  •  o  o  •  o  o  •  o  o |
 | Nichtfunktionale | Keine |
 
-| • | Ausgangsdaten Sperrbestätigung |
+| • | Ausgangsdaten  Sperrbestätigung |
 |---|---|
 | Nachbedingungen |  |
-| Standardablauf | Siehe ABBILDUNG 7:  sowie ABBILDUNG 8:  Varianten/ Bei [SP-2] kann die KV im Freigabeportal die SM-B auswählen, deren Zertifikate |
+| Standardablauf | Siehe ABBILDUNG 7:  sowie ABBILDUNG 8:   Varianten/  Bei [SP-2] kann die KV im Freigabeportal die SM-B auswählen, deren Zertifikate |
 | Fehlerfälle | • |
 |  | o  •  o  o  •  o  o  o |
 
@@ -1831,13 +1836,13 @@ im Freigabeportal für die KV auch weitere Funktionen zur Freigabe und zur Sperr
 | Name | Monitoring |
 | Beschreibung | KVen können sich am Freigabeportal über Anträge informieren: •  •  •  •  •  Außerdem können über die SOAP-Schnittstelle Statusabfragen unter Verwendung |
 | Auslöser | Eine KV benötigt Informationen über einen oder mehrere Anträge oder möchte |
-| Vorbedingungen | Eine TLS/SSL-Verbindung wurde aufgebaut. Für Portalzugriff:  •  Bei SOAP-Zugriff:  • |
+| Vorbedingungen | Eine TLS/SSL-Verbindung wurde aufgebaut.  Für Portalzugriff:   •  Bei SOAP-Zugriff:   • |
 | Eingangsdaten | Such- und Filterkriterien |
 | Ausgangsdaten | •  • |
 | Nachbedingungen | Keine |
-| Standardablauf | Siehe  ABBILDUNG 9: |
+| Standardablauf | Siehe   ABBILDUNG 9: |
 | Varianten/ | Keine |
-| Fehlerfälle | Keine im Portal: Wenn über die Such- und Filterkriterien keine Anträge gefunden Bei der SOAP-Schnittstelle sendet der TSP in den folgenden Fällen eine •  •  • |
+| Fehlerfälle | Keine im Portal: Wenn über die Such- und Filterkriterien keine Anträge gefunden  Bei der SOAP-Schnittstelle sendet der TSP in den folgenden Fällen eine  •  •  • |
 | Nichtfunktionale | Keine |
 
 Alternativen Anforderungen Sie können sich eine Überblicksansicht über alle Anträge anzeigen lassen. Sie können sich eine Detailansicht eines ausgewählten Antrags anzeigen lassen. Sie können sich die Historie zu den Statuswechseln eines ausgewählten Antrags anzeigen lassen. Sie können Anträge nach Zeitraum, Status und/oder einem Suchbegriff filtern. Sie können in der Überblicksansicht Anträge sortieren. von Filterkriterien durchgeführt werden. einen oder mehrere Anträge zum Zwecke der Freigabe oder Sperrung aufrufen. Der Mitarbeiter der KV hat sich am Freigabeportal authentisiert. Authentisierung an der SOAP-Schnittstelle und passende Zugriffsrechte Überblicksansicht, Detailansicht und Produktionsrückmeldungen von Anträgen Antragsinformationen / SM-B-Informationen werden, werden keine Anträge angezeigt. Dies ist nicht als Fehler anzusehen. entsprechende Response:  Die übermittelte Datenstruktur ist nicht korrekt, Zum angefragten Status ist kein Antrag vorhanden, Ein angefragter Antrag ist nicht vorhanden.
@@ -1914,7 +1919,7 @@ unterstützen. Freigeben und Ablehnen von Anträgen ist nur für Anträge im Sta
 
 | SPALTEN IN DER | AKTIONEN IN DER | DATEN IN DETAILANSICHT | AKTIONEN IN DETAILANSICHT |
 |---|---|---|---|
-| •  •  •  •  •  •  •  •  • | •  •  •  •  •  • | •  2 2 Daten zum Antrag •  • | •  •  •  •  • |
+| •  •  •  •  •  •  •  •  • | •  •  •  •  •  • | •  2 2 Daten zum Antrag  •  • | •  •  •  •  • |
 
 ÜBERBLICKSANSICHT Vorgangsnummer Betriebsstättennummer Lebenslange Arztnummer des Antragstellers Name des Antragstellers Geburtsdatum des Antragstellers Betriebsstättenart (gemäß KV_AFO_0054) Art der SM-B (SMC-B oder HSM-B) Status Datum der letzten Bearbeitung  Daten, die nicht durch den Anforderungskatalog vorgegeben werden, aber zusätzlich vom TSP erhoben werden, wie z.B. für die Re ÜBERBLICKSANSICHT Anzeige Detailansicht Filtermöglichkeiten nach allen Spalten Suchmöglichkeiten nach allen Spalten Auswahlmöglichkeit zum Sperren Anzeige „Anträge zur Freigabe“ in Überblicksliste, von dort Aufruf von Detailansicht  Antrag löschen [bei aktuellem Status „Antrag vorbefüllt“] Alle KV-relevanten vorhandenen Antragstyp (Erstantrag, Austausch SM-B-Daten (falls vorhanden, u.a. Telematik-ID, ICCSN und ggf. Laufzeit der Karte, Art der SM-B (SMC-B oder HSM-B)) chnungsabwicklung, müssen den KVen nicht angezeigt werden. Aufruf einer Übersicht über bisherige Statuswechsel (mit Datumsangaben) Aufruf von anderen Anträgen des gleichen Antragstellers bzw. zur gleichen Betriebsstätte Aufruf „Sperren“ bei aktuellem Status „Zertifikate freigeschaltet“ mit Möglichkeit zur Angabe eines Sperrgrundes  Aufruf von „Freigeben“ oder „Freigabe ablehnen“ mit Möglichkeit zur Angabe eines Grundes [bei aktuellem Status „zur Freigabe“] Antrag löschen [bei aktuellem Status „Antrag vorbefüllt“]
 
@@ -2007,7 +2012,7 @@ Der TSP KANN in der Überblicksansicht die Anzahl der angezeigten Datensätze be
 |---|---|
 | Name | Benachrichtigungen |
 | Beschreibung | Der TSP informiert die KVen und/oder die Antragsteller bei bestimmten |
-| Auslöser | Auslöser für das Versenden von Benachrichtigungen sind folgende Ereignisse: •  •  •  •  •  •  •  •  •  • |
+| Auslöser | Auslöser für das Versenden von Benachrichtigungen sind folgende Ereignisse:  •  •  •  •  •  •  •  •  •  • |
 | Vorbedingungen | Die KV und der Antragsteller haben dem TSP eine oder mehrere E |
 | Eingangsdaten | Vorgangsnummer und Status der Anträge bzw. Zertifikate. |
 | Ausgangsdaten | E-Mail-Benachrichtigungen an die KV und/oder Antragsteller. |
@@ -2185,8 +2190,8 @@ dieser gemäß [gemSpec_PKI] zu befüllen.
 
 | ELEMENT | INHALT |
 |---|---|
-| subject - commonName | Die ersten zwei Zeilen der Anschriftszone (DIN5008), somit „Kurzname“ •  • |
-| subject - organizationName | Die 9-stellige Betriebsstättennummer der Praxis oder des MVZ ist zu •  • |
+| subject - commonName | Die ersten zwei Zeilen der Anschriftszone (DIN5008), somit „Kurzname“  •  • |
+| subject - organizationName | Die 9-stellige Betriebsstättennummer der Praxis oder des MVZ ist zu  •  • |
 | extensions - Admission, | „professionOID“ = OID •  • |
 | extensions - Admission, | Die TelematikID ist durch den TSP gemäß [KV_AFO_01 |
 
@@ -2271,9 +2276,9 @@ der Praxis oder des MVZ. Antragsportal: Hier ist in einem Feld der Praxisname ab
 | REFERENZ | DOKUMENT |
 |---|---|
 | [gemSpec_Pers_SMC-B] | Übergabeschnittstelle für die Produktion von SMC Quelle: LEO-TSP-AG |
-| [KBV_ITA_VGEX_Schnittstelle_SMCB] | Konkretisierung von [gemSpec_Pers_SMC-B] in https://update.kbv.de/ita-update/SMCB/ |
+| [KBV_ITA_VGEX_Schnittstelle_SMCB] | Konkretisierung von [gemSpec_Pers_SMC-B] in  https://update.kbv.de/ita-update/SMCB/ |
 | [gemRL_TSL_SP_CP] | Certificate Policy |
-| [gemSpec_OID] | Spezifikation der verwendeten OIDs durch die Quelle: www.gematik.de |
+| [gemSpec_OID] | Spezifikation der verwendeten OIDs durch die  Quelle: www.gematik.de |
 | [gemSpec_PKI] | Spezifikation der PKI durch die gematik Quelle: www.gematik.de |
 | [gemF_Personalisierung_HSM] | Spezifikation der Personalisierung von SM Quelle: www.gematik.de |
 

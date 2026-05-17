@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 12. AUGUST 2021  VERSION: 1.07  DOKUMENTENSTATUS: IN |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  12. AUGUST 2021   VERSION: 1.07   DOKUMENTENSTATUS: IN |
 |---|---|
 
 # PRUEFPAKET QS-HOLMIUM-LASER- THERAPIE
@@ -87,7 +87,7 @@ DOKUMENTENHISTORIE
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.07 | 12.08.2021 | KBV | Überarbeitung des | Überführung ins neue | Alle |
-| 1.06 | 1.2.03.2018 | KBV | Einreichung des Antrags | Anpassung des | 5ff |
+| 1.06 | 12.03.2018 | KBV | Einreichung des Antrags | Anpassung des | 5ff |
 | 1.05 | 23.05.2017 | KBV | Komplettüberarbeitung | Aktualisierung der | Alle |
 
 Layouts auf Zertifizierung des Prüfpaketes  Corporate Design Zertifizierungsportals Zertifizierungsrichtlinie
@@ -186,7 +186,7 @@ Die geforderten Videomitschnitte und Screenshots müssen in einem gesonderten Or
 
 1
 
-2.3
+2 3
 
 [PrüffallNr.] _[lfdNr.] .*
 
@@ -229,7 +229,7 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 |---|---|
 | Betriebsstättennummer (BSNR) | 381234511 |
 | (N)BSNR-Bezeichnung: | Praxis Dr. med. Topp-Glücklich |
-| Lebenslange Arztnummer (LANR) | 5553339.67 |
+| Lebenslange Arztnummer (LANR) | 555333967 |
 | Arztname | Dr. med. Hans Topp-Glücklich, Urologe |
 | Straße | Musterstr. |
 | Hausnummer | 1 |
@@ -301,7 +301,7 @@ hen Sie dieses
 
 ---
 
-| 4 10 – 19,9 g | |
+| 4  10 – 19,9 g | |
 |---|---|
 | 20 – 39,9 g | |
 | 8 | 40 g und mehr |
@@ -389,7 +389,7 @@ hen Sie dieses
 |  |  |
 |---|---|
 | Prüffall-ID | 2 |
-| Testziel | Die folgenden Konstellationen stellen Plausibilitätsverstöße dar, die durch die KBV_ITA_VGEX_Plausi_QSHLT ) erkannt werden müssen |
+| Testziel | Die folgenden Konstellationen stellen Plausibilitätsverstöße dar, die durch die  KBV_ITA_VGEX_Plausi_QSHLT) erkannt werden müssen |
 | Voraussetzung | Die weiteren, nicht vorgegebenen Angaben der einzelnen Konstellationen sind |
 | Prüfunterlagen | Werden Plausibilitätsverstöße softwareseitig erkannt, so sind entsprechende |
 | Hinweis |  |
@@ -398,7 +398,7 @@ Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzu
 
 ---
 
-| Resektionsgewicht 0 g (Abbruch) | |
+| Resektionsgewicht  0 g (Abbruch) | |
 |---|---|
 | >0 – 9,9 g | |
 | 0 | 10 – 19,9 g |
@@ -520,7 +520,7 @@ Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzu
 | KONSTELLATION | |
 |---|---|
 | intraoperativ aufgetretene Komplikationen gemäß § 6 Abs. 1 Nr. 2 | |
-| Blasenverletzung | 1.2 |
+| Blasenverletzung | 12 |
 
 | WERTKORREKTUR | |
 |---|---|
@@ -696,11 +696,11 @@ d der
 |---|---|
 | Referenz | Dokument |
 | KBV_ITA_FMEX_AAZ_QSHLT | Antrag auf Zertifizierung QSHLT |
-| [KBV_ITA_RLEX_Zert ] | Zertifizierungsrichtlinie der KBV |
+| [KBV_ITA_RLEX_Zert] | Zertifizierungsrichtlinie der KBV |
 | [Austausch_von_XML-Daten_V(n.nn ).ZIP] | KBV_ITA_VGEX_XML |
-| [KBV_ITA_VGEX_Schnittstelle_QS HLT] | Schnittstellenbeschreibung QS Kapselendoskopie |
+| [KBV_ITA_VGEX_Schnittstelle_QSHLT] | Schnittstellenbeschreibung QS Kapselendoskopie |
 | [KBV_ITA_VGEX_Plausi_QSHLT] | Plausibilitäten und Berechnungsvorschrift QS |
-| [KBV_ITA_VGEX_Anforderungskatalog_QSHLT ] | Anforderungskatalog |
+| [KBV_ITA_VGEX_Anforderungskatalog_QSHLT] | Anforderungskatalog |
 | Prüfstammdateien | Alle für das Verfahren ggf. relevanten |
 | KBV-Kryptomodul (XKM) und öffentlicher | KBV-Kryptomodul |
 

@@ -117,10 +117,10 @@ Die Angaben können - je nach Praxissoftware - direkt aus der Vordokumentation �
 
 | Intensität | Statin und Dosierung |
 |---|---|
-| Niedrig (relative LDL-Reduktion < 30%) | Lovastatin 20 mg |
+| Niedrig  (relative LDL-Reduktion < 30%) | Lovastatin 20 mg |
 |  | Pravastatin 10-20 mg |
 |  | Simvastatin 10 mg |
-| Moderat (relative LDL-Reduktion 30 - 49%) | Atorvastatin 10-20 mg |
+| Moderat  (relative LDL-Reduktion 30 - 49%) | Atorvastatin 10-20 mg |
 |  | Rosuvastatin 5-10 mg |
 |  | Simvastatin 20-40 mg |
 |  | Pravastatin 40-80 mg |
@@ -144,12 +144,12 @@ Geben Sie bitte an, ob eine Therapie mit Thrombozytenaggregationshemmern durchge
 | Bei der | Bitte geben Sie an |
 |  |  |
 |  | Gemeint sind hierbei folgende Schulungsmaßnahmen: |
-| a) akkreditierte und für das DMP zugelassene Schulungen, sowie |  |
+| a)  akkreditierte und für das DMP zugelassene Schulungen, sowie |  |
 |  |  |
 |  |  |
 |  |  |
 |  |  |
-| Hoch (relative LDL- | Atorvastatin 40-80 mg |
+| Hoch  (relative LDL- | Atorvastatin 40-80 mg |
 |  | Rosuvastatin 20-40 mg |
 
 Reduktion ≥ 50%) Aktuelle Therapiestrategie Statin Genau eine Angabe zu diesem Feld ist erforderlich und zulässig , wenn im Feld „Aktuelle Statin Dosis“ die Angabe „Hoch“ oder „Moderat“ oder „Niedrig“ erfolgt ist. Bei der Verordnung von Statinen wird empfohlen, dass vorzugsweise eine Strategie der festen Dosis (hoch oder moderat ) oder alternativ eine Zielwert-Strategie gemeinsam mit der Patientin oder dem Patienten unter Berücksichtigung des Nutzen-Schadens-Risikos vereinbart werden. Strategie der festen Dosis  sollte allen Patientinnen oder Patienten mit KHK eine Statintherapie in fester Dosis empfohlen werden, sofern keine Kontraindikationen bestehen. Über die Dosierung (hohe vs. mittlere Dosis) soll partizipativ entschieden werden. Mit der Zielwert-Strategie soll der LDL -Wert auf den Zielwert < 55 mg/dl (< 1,4 mmol/l) gesenkt werden oder eine mindestens 50%ige Reduktion erzielt werden. Bitte geben Sie an, welche Strategie Sie gemeinsam mit Ihrer Patientin oder Ihrem Patienten für die Therapie mit einem Statin vereinbart haben. Sollten Sie mit Ihrer Patientin oder Ihrem Patienten keine Strategie vereinbart haben, geben Sie bitte “Keine Strategie vereinbart“ an. Grund für niedrige Statin-Dosis Genau eine Angabe ist erforderlich und zulässig , wenn im Feld „Aktuelle Statin Dosis“ Angabe „Niedrig“ erfolgt ist. Bitte geben Sie den Grund für eine niedrige Statin-Dosis an. Befindet sich Ihre Patientin oder Ihr Patient aktuell in der Aufdosierungsphase, sodass noch keine hohe oder moderate Dosis möglich ist, geben Sie bitte „Aufdosierungsphase“ an. Ist der LDL -Zielwert aktuell bereits erreicht, geben Sie bitte „LDL Zielwert erreicht“ an. Besteht eine Kontraindikation gegen eine hohe oder moderate Dosis , geben Sie bitte „Kontraindikation gegen hohe oder moderate Dosis “ an. Dies gilt auch für Unverträglichkeiten. Wird eine feste hohe oder moderate Dosis durch Ihre Patientin oder Ihren Patienten abgelehnt, geben Sie bitte „Ablehnung durch Patienten“ an.  Trifft keine der genannten Antworten zu, geben Sie bitte „Keine Begründung“ an Schulung bereits vor Einschreibung in DMP wahrgenommen im Rahmen einer Erstdokumentation  möglich und ist hier verpflichtend. Genau eine Angabe ist erforderlich.  Folgedokumentation  ist hier keine Angabe zulässig , ob Ihre Patientin oder Ihr Patient bereits vor Einschreibung in das DMP an einer KHK-relevanten Schulung teilgenommen hat. Die Angabe „Ja“ soll nur erfolgen, wenn zum Zeitpunkt der Einschreibung von einem hinreichenden Schulungsstand der Patientin oder des Patienten auszugehen ist. Bei einer KHK -relevante Schulung kann es sich um eine Diabetes - Schulung, eine Hypertonie -Schulung, eine Antikoagulations -Schulung oder eine KHK -spezifische Schulung handeln.

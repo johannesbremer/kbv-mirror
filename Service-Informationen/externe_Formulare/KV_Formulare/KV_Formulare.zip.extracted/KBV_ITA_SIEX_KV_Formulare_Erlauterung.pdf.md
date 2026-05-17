@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 13. FEBRUAR 2026 VERSION 1.01 DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT 13. FEBRUAR 2026  VERSION 1.01  DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # ERLÄUTERUNG DER KV -FORMULARE
@@ -61,8 +61,8 @@ Bei Fragen zu den Formularen wenden sie sich bitte direkt an die jeweilige KV.
 
 | KV | FORMULAR |
 |---|---|
-| KV Bayerns Rückfragen bitte an it- arztpraxis@kvb.de | Formular zum Förder- und Behandlungsplan • |
-| KV Bayerns Rückfragen bitte an it- arztpraxis@kvb.de | Formular für den Förder- und Behandlungsplan KV_Bayerns\EXT_ITA_FuB_Plan_RV_IHF_(23.01.2026).pdf |
+| KV Bayerns  Rückfragen bitte an it- arztpraxis@kvb.de | Formular zum Förder- und Behandlungsplan • |
+| KV Bayerns  Rückfragen bitte an it- arztpraxis@kvb.de | Formular für den Förder- und Behandlungsplan KV_Bayerns\EXT_ITA_FuB_Plan_RV_IHF_(23.01.2026).pdf |
 
 Kontakt:
 

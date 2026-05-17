@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT 15. MAI 2024 VERSION: 4.4  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT  15. MAI 2024  VERSION: 4.4   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # ANTRAG AUF ZERTIFIZIERUNG EDMP KORONARE HERZKRANKHEITEN
@@ -31,7 +31,7 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 |  |  | | |
 |---|---|---|---|
-| Name des Antragstellers [bei juristischen Personen ist die |  | | |
+| Name des Antragstellers  [bei juristischen Personen ist die |  | | |
 | Geschäftsbereich [falls vorhanden] |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
@@ -39,7 +39,7 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 | E-Mail-Adresse |  | | |
 | Webseite |  | | |
 | Der Antragsteller ist | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
-| Systempfleger [nur anzugeben, wenn der |  | | |
+| Systempfleger  [nur anzugeben, wenn der |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
@@ -79,6 +79,8 @@ Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werd
 | ☐ | Windows | ☐ | Mac OS | ☐ | Linux |
 | ☐ | iOS/Android | ☐ | Sonstige | | |
 
+/ Version: 4.4 / 15. Mai 2024
+
 Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
 
 ---
@@ -107,6 +109,8 @@ Folgende optionale eDMP KHK Funktionen sind gem. Anforderungskatalog DMP realisi
 |  |  |
 |  |  |
 
+/ Version: 4.4 / 15. Mai 2024
+
 [ ] der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. [ ] Anforderungsdokumente, Schnittstellenbeschreibungen  sowie Plausibilitätsrichtlinien erfüllt sind. -Stammdatei [ ] [ ] [ ] ANFORDERUNGSKATALOG EDMP KHK  LT.
 
 ---
@@ -131,6 +135,8 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 | E-Mail-Adresse |  |
 
 Diese Information ist verpflichtend anzugeben
+
+/ Version: 4.4 / 15. Mai 2024
 
 
 ---
@@ -183,6 +189,8 @@ Diese Information ist verpflichtend anzugeben
 
 - Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung].
 
+/ Version: 4.4 / 15. Mai 2024
+
 Rezertifizierung
 
 ---
@@ -203,6 +211,8 @@ Rezertifizierung
 
 - zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
 
+/ Version: 4.4 / 15. Mai 2024
+
 
 ---
 
@@ -221,3 +231,5 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstel
 Kassenärztliche Bundesvereinigung
 
 Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+
+/ Version: 4.4 / 15. Mai 2024

@@ -5,7 +5,7 @@
 
 ## [KBV_ITV_FMEX_AAZ_SMCB]
 
-|  | KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT 1.OKTOBER 2025 VERSION: 2.3  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE     DEZERNAT DIGITALISIERUNG UND IT  1.OKTOBER 2025  VERSION: 2.3   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 **-B**
@@ -32,7 +32,7 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 |  | |
 |---|---|
-| Name des Antragsstellers [bei juristischen Personen ist die |  |
+| Name des Antragsstellers  [bei juristischen Personen ist die |  |
 | Geschäftsbereich [falls vorhanden] |  |
 | Straße und Hausnummer |  |
 | PLZ, Ort |  |
@@ -69,7 +69,7 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizie
 |  | |
 |---|---|
 | ☐ | Der Antragssteller beantragt die Sektorzulassung als Anbieter einer SMC-B im |
-| ☐ | Der Antragssteller beantragt die Sektorzulassung als Anbieter einer HSM-B im Voraussetzung für die Beantragung ist: - |
+| ☐ | Der Antragssteller beantragt die Sektorzulassung als Anbieter einer HSM-B im  Voraussetzung für die Beantragung ist:  - |
 | ☐ | Der Antragssteller beantragt die Sektorzulassung als Anbieter sowohl einer SMC-B als auch einer |
 
 Stellen der Prüfnummer, falls vorhanden] [ ] Zuständigkeitsbereich der Kassenärztlichen Vereinigungen. Nur mit dieser Zulassung ist es dem Antragsteller gestattet, den Mitgliedern der KVen kartengebundene Praxisausweise, auch SMC-B genannt, anzubieten. [ ] Zuständigkeitsbereich der Kassenärztlichen Vereinigungen. Nur mit dieser Zulassung ist es dem Antragsteller gestattet, den Mitgliedern der KVen kartenungebundene Praxisausweise, auch HSM- B genannt, anzubieten. das Vorhandensein einer gültigen Sektorzulassung SMC-B für den Antragssteller. [ ] HSM-B im Zuständigkeitsbereich der Kassenärztlichen Vereinigungen. Mit dieser kombinierten Zulassung ist es dem Antragsteller gestattet, den Mitgliedern der KVen sowohl kartengebundene Praxisausweise (SMC-B) als auch kartenungebundene Praxisausweise (HSM-B) anzubieten.
@@ -82,8 +82,8 @@ Stellen der Prüfnummer, falls vorhanden] [ ] Zuständigkeitsbereich der Kassen�
 
 |  | |
 |---|---|
-| ☐ | Der Antragssteller bestätigt, dass er durch die gematik als Anbieter der "operativen Sollte diese gematik-Zulassung dem Antragssteller noch nicht vorliegen, muss dieser mit |
-| ☐ | Der Antragssteller bestätigt, dass alle Anforderungen des TSP-Anforderungskataloges insbesondere die Datensatzbeschreibung zur Umsetzung der LEO-TSP-Schnittstelle im KV-Bereich |
+| ☐ | Der Antragssteller bestätigt, dass er durch die gematik als Anbieter der "operativen  Sollte diese gematik-Zulassung dem Antragssteller noch nicht vorliegen, muss dieser mit |
+| ☐ | Der Antragssteller bestätigt, dass alle Anforderungen des TSP-Anforderungskataloges  insbesondere die Datensatzbeschreibung zur Umsetzung der LEO-TSP-Schnittstelle im KV-Bereich |
 | ☐ | Der Antragssteller bestätigt, dass der Antragsprozess für die SM-B Ausgabe auch im Hinblick auf |
 
 **3.2**
@@ -150,7 +150,7 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 |---|---|---|---|
 | Sektorzulassung SMC-B | Neu- oder Rezertifizierung | Ergebnisprüfung | 2.064,30 |
 | Sektorzulassung HSM-B | Erweiterungszertifizierung | Ergebnisprüfung |  |
-| Sektorzulassung SMC-B u. HSM-B | Neu- oder Rezertifizierung / Erweiterungszertifizierung | Ergebnisprüfung | 2.752,40 € |
+| Sektorzulassung SMC-B u. HSM-B | Neu- oder Rezertifizierung /  Erweiterungszertifizierung | Ergebnisprüfung | 2.752,40 € |
 
 - **II.** **Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**
 

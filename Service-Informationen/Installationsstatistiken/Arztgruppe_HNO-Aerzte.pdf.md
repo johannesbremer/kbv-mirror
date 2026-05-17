@@ -6,31 +6,31 @@
 
 **Id Praxissoftware**
 
-2.80 **CGM MEDISTAR BLACK PRO**
+280 **CGM MEDISTAR BLACK PRO**
 
-4.62 **medatixx**
+462 **medatixx**
 
-2.16 **x.isynet**
+216 **x.isynet**
 
-1.12 **TURBOMED**
+112 **TURBOMED**
 
-4.57 **tomedo**
+457 **tomedo**
 
-2.03 **ALBIS**
+203 **ALBIS**
 
-2.10 **Medical Office**
+210 **Medical Office**
 
-4.98 **T2med**
+498 **T 2med**
 
-2.43 **x.concept**
+243 **x.concept**
 
-2.54 **ORBIS®**
+254 **ORBIS®**
 
-0.86 **DURIA**
+086 **DURIA**
 
-2.61 **S3-Win**
+261 **S 3-Win**
 
-2.52 **CGM M1 PRO**
+252 **CGM M1 PRO**
 
 **Anbieter**
 
@@ -48,7 +48,7 @@ CompuGroup Medical Deutschland AG
 
 INDAMED EDV-Entwicklung und Vertrieb GmbH
 
-T2med GmbH & Co. KG
+T 2med GmbH & Co. KG
 
 medatixx GmbH & Co. KG
 
@@ -56,69 +56,69 @@ Dedalus HealthCare GmbH
 
 Duria eG
 
-S3 Praxiscomputer GmbH / Maximilian Flender
+S 3 Praxiscomputer GmbH / Maximilian Flender
 
 CompuGroup Medical Deutschland AG 1
 
 **Installationen 2.Q.2025**
 
-4.65
+465
 
-2.83
+283
 
-2.05
+205
 
-1.73
+173
 
-1.44
+144
 
-1.38
+138
 
-1.26
+126
 
-1.13
+113
 
-1.00
+100
 
-9.9
+99
 
-8.5
+85
 
-8.5
+85
 
-6.6
+66
 
 **Installationen 1.Q.2025**
 
-4.54
+454
 
-2.80
+280
 
-2.17
+217
 
-1.77
+177
 
-1.38
+138
 
-1.42
+142
 
-1.24
+124
 
-1.09
+109
 
-1.00
+100
 
-9.8
+98
 
-8.6
+86
 
-8.6
+86
 
-6.7
+67
 
 **Differenz**
 
-1.1
+11
 
 3
 
@@ -149,19 +149,19 @@ CompuGroup Medical Deutschland AG 1
 
 **Id Praxissoftware**
 
-2.66 **x.comfort**
+266 **x.comfort**
 
-2.44 **QUINCY WIN**
+244 **QUINCY WIN**
 
-0.30 **Praxis-Programm**
+030 **Praxis-Programm**
 
-2.38 **InterMediNet KVDT**
+238 **InterMediNet KVDT**
 
-3.43 **SAP Ambulatory Care Management**
+343 **SAP Ambulatory Care Management**
 
-1.35 **EL - Elaphe Longissima**
+135 **EL - Elaphe Longissima**
 
-0.83 **PegaMed**
+083 **PegaMed**
 
 **Anbieter**
 
@@ -181,35 +181,35 @@ PEGA Elektronik GmbH 2
 
 **Installationen 2.Q.2025**
 
-6.4
+64
 
-6.0
+60
 
-5.7
+57
 
-5.1
+51
 
-4.5
+45
 
-4.3
+43
 
-2.8
+28
 
 **Installationen 1.Q.2025**
 
-6.5
+65
 
-6.3
+63
 
-5.8
+58
 
-5.3
+53
 
-4.6
+46
 
-4.1
+41
 
-2.8
+28
 
 **Differenz**
 

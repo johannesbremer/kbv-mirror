@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT 15. MAI 2024 VERSION: 4.4  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT  15. MAI 2024  VERSION: 4.4   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # ANTRAG AUF ZERTIFIZIERUNG EDMP-
@@ -31,7 +31,7 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 |  |  | | |
 |---|---|---|---|
-| Name des Antragstellers [bei juristischen Personen ist die |  | | |
+| Name des Antragstellers  [bei juristischen Personen ist die |  | | |
 | Geschäftsbereich [falls vorhanden] |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
@@ -39,7 +39,7 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 | E-Mail-Adresse |  | | |
 | Webseite |  | | |
 | Der Antragsteller ist | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
-| Systempfleger [nur anzugeben, wenn der |  | | |
+| Systempfleger  [nur anzugeben, wenn der |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
@@ -152,7 +152,7 @@ Diese Information ist verpflichtend anzugeben
 
 | THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART | KOSTEN IN € |
 |---|---|---|---|
-| eDMP-COPD | Neu- oder | Ergebnisprüfung | 275,24 |
+| e DMP-COPD | Neu- oder | Ergebnisprüfung | 275,24 |
 
 - **II. Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**
 

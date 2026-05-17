@@ -5,8 +5,8 @@
 | Erstellt von: | Udo Karlins |
 | Version: | 1.1.1 |
 | Status: | in Bearbeitung |
-| Letzte Aktualisierung am/von: | 1.7.11.2025 / Udo Karlins |
-| Nächste Revision am: | 0.1.12.2026 |
+| Letzte Aktualisierung am/von: | 17.11.2025 / Udo Karlins |
+| Nächste Revision am: | 01.12.2026 |
 | Sicherheitsklassifizierung: | öffentlich |
 
 # elektronische Sammelerklärung
@@ -75,7 +75,7 @@ Richtlinie    nur zum internen Gebrauch                   Anweisung    in Kraft 
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
-| 1.7.11.2025 | 1.1.1 | Udo Karlins | Kommentare der kv.digital eingearbeitet |
+| 17.11.2025 | 1.1.1 | Udo Karlins | Kommentare der kv.digital eingearbeitet |
 | 12.11.2025 | 1.1.0 | Udo Karlins | Kommentare der kv.digital eingearbeitet |
 | 05.08.2025 | 1.0.1 | Udo Karlins | TelefonNr für Praxisstempel |
 | 22.07.2025 | 1.0.0 | Udo Karlins | Freigabe |
@@ -145,19 +145,17 @@ Nebenbetriebsstätte(n).
 
 ---
 
-| 4.3 | Mitgeltende |  | Dokumente |
-|---|---|---|---|
-| Basis für | den | Aufbau | der |
-| Sammelerklärung | | 1(eSE) “, | die im |
-| im Jahr | 2010 definiert | wurde. |  |
-| Das | vorliegende | Dokument | führt |
-| sich in | der genannten |  | Schnittstelle |
+## 4.3 Mitgeltende Dokumente
 
-ist die Schnittstellenbeschreibung „elektronische
+Basis für den Aufbau der Sammelerklärung ist die Schnittstellenbeschreibung „elektronische 1
 
--übergreifenden Arbeitsgruppe der KV Telematik ARGE
+Sammelerklärung (eSE) “, die im Rahmen einer KV -übergreifenden Arbeitsgruppe der KV Telematik ARGE
 
-Mitgeltende Dokumente Sammelerklärung (eSE) “, die im Rahmen einer KV im Jahr 2010 definiert wurde.  Das vorliegende Dokument führt lediglich die Strukturelemente auf, die von der KVSH gefordert werden und sich in der genannten Schnittstelle wiederfinden. 1 [https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/)  Sammelerklärung.zip
+im Jahr 2010 definiert wurde.
+
+1 [https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/)  Sammelerklärung.zip
+
+Das vorliegende Dokument führt lediglich die Strukturelemente auf, die von der KVSH gefordert werden und  sich in der genannten Schnittstelle wiederfinden.
 
 
 ---
@@ -312,11 +310,10 @@ Es werden keine Informationen aus dem body-Bereich verwendet.
 
 ---
 
-| 6 | Erzeugung | einer |  | Sammelerklärung | im PDF/A- | 1b Format |
-|---|---|---|---|---|---|---|
-| Nachfolgende | Skizze | gibt | einen beispielhaften | Überblick | zur Vorgehensweise: |  |
+# 6 Erzeugung einer Sammelerklärung im PDF/A-1b Format
 
-Erzeugung einer Sammelerklärung im PDF/A- Nachfolgende Skizze gibt einen beispielhaften Überblick zur Vorgehensweise:
+Nachfolgende Skizze gibt einen beispielhaften Überblick zur Vorgehensweise:
+
 
 ---
 

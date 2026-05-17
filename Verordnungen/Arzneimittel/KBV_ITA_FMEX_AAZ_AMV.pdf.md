@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 17. MAI 2024 VERSION: 5.6  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT  17. MAI 2024  VERSION: 5.6   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # ANTRAG AUF ZERTIFIZIERUNG  VERORDNUNG VON ARZNEIMITTELN
@@ -32,15 +32,15 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 |  |  | | |
 |---|---|---|---|
-| Name des Antragstellers [bei juristischen Personen ist die |  | | |
+| Name des Antragstellers  [bei juristischen Personen ist die |  | | |
 | Geschäftsbereich [falls |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
 | E-Mail-Adresse |  | | |
 | Webseite |  | | |
-| Der Antragsteller ist | ☐  Arzt/Ärztin | ☐  Softwarehaus | ☐  Sonstiges |
-| Systempfleger [nur anzugeben, wenn der |  | | |
+| Der Antragsteller ist | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
+| Systempfleger  [nur anzugeben, wenn der |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
@@ -87,6 +87,8 @@ Bitte geben Sie im Folgenden an, welche Client
 
 vorhanden) des Zertifizierungsgegenstandes an.
 
+/ Version: 5.6 / 17. Mai 2024
+
 Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
 
 ---
@@ -100,7 +102,7 @@ Bitte kreuzen Sie zutreffendes an (Mehrfachnennungen sind möglich):
 |  |  | | |
 |---|---|---|---|
 | ☐ | Es werden Rohdaten verwendet. | | |
-|  | Name der Rohdaten (sofern verwendet) | ☐ |  |
+|  | Name der Rohdaten  (sofern verwendet) | ☐ |  |
 |  |  | ☐ |  |
 |  |  | ☐ |  |
 | ☐ | Es wird eine Arzneimitteldatenbank verwendet. | | |
@@ -126,6 +128,8 @@ Bitte kreuzen Sie zutreffendes an (Mehrfachnennungen sind möglich):
 
 ## PFLICHTFUNKTIONEN UND KONDITIONALE PFLICHTFUNKTIONEN
 
+/ Version: 5.6 / 17. Mai 2024
+
 [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] nach § 73 SGB V für Verordnungssoftware/Arzneimitteldatenbanken erfüllt sind. Anforderungskatalogs nach § 73 SGB V für Verordn sind. Übermittlung von elektronischen Arzneimittelverordnungen erfüllt sind. ichtfunktionen des Anforderungs ungssoftware/Arzneimitteldaten katalogs banken erfüllt
 
 ---
@@ -149,7 +153,8 @@ Folgende optionale Funktionen wurden umgesetzt:
 | O4-130 | Weitere Controllingprogramme | ☐ |
 | O4-140 | Preiszuordnung bei Wirkstoffverordnung | ☐ |
 
-NUMMER -A4- Blatt BITTE ANKREUZEN [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+NUMMER -A4- Blatt BITTE ANKREUZEN [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]/ Version: 5.6 / 17. Mai 2024
+
 
 ---
 
@@ -174,6 +179,8 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 
 Diese Information ist verpflichtend anzugeben
 
+/ Version: 5.6 / 17. Mai 2024
+
 
 ---
 
@@ -193,7 +200,7 @@ Diese Information ist verpflichtend anzugeben
 
 | THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART | KOSTEN IN € |
 |---|---|---|---|
-| Verordnung von Arznei- | Neu-, Re- oder Er- | (Prüfvorgang AMV | 1.651,44 [pro Sichtprüfung] |
+| Verordnung von Arznei- | Neu-, Re- oder Er- | (Prüfvorgang AMV | 1.651,44  [pro Sichtprüfung] |
 
 - **II.** **Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**
 
@@ -229,6 +236,8 @@ Diese Information ist verpflichtend anzugeben
 
 - Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur
 
+/ Version: 5.6 / 17. Mai 2024
+
 Sichtprüfung und mitteln  weiterungszertifizierung Ergebnisprüfung eRezept)
 
 ---
@@ -253,6 +262,8 @@ Sichtprüfung und mitteln  weiterungszertifizierung Ergebnisprüfung eRezept)
 
 - zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
 
+/ Version: 5.6 / 17. Mai 2024
+
 
 ---
 
@@ -271,3 +282,5 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstel
 Kassenärztliche Bundesvereinigung
 
 Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+
+/ Version: 5.6 / 17. Mai 2024

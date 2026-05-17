@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 12. AUGUST 2021  VERSION: 3.01  DOKUMENTENSTATUS: IN |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  12. AUGUST 2021   VERSION: 3.01   DOKUMENTENSTATUS: IN |
 |---|---|
 
 # PRUEFPAKET QS  HÖRGERÄTEVERSORGUNG
@@ -70,7 +70,7 @@ DOKUMENTENHISTORIE
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 3.01 | 12.08.2021 | KBV | Überarbeitung der Links | Austausch des FTP- https://update.kbv.de | Alle |
-| 3.00 | 15.08.2019 | KBV | Aktualisierung der  Überarbeitung des | Schnittstellenversion  Überführung ins neue | 8ff |
+| 3.00 | 15.08.2019 | KBV | Aktualisierung der    Überarbeitung des | Schnittstellenversion    Überführung ins neue | 8ff |
 | 2.03 | 12.03.2018 | KBV | Einreichung des Antrages | Anpassung des | 8ff |
 
 Prüffälle auf die Schnittstellenversion 1.12 Layouts auf Zertifizierung Servers durch neuen „Update-Server“ der KBV: 1.12 ist ab 01.10.2019 zu verwenden Corporate Design Zertifizierungsportals
@@ -205,7 +205,7 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | Bauform |  |
 |  |  |
 | Zentrale Hörstörung ausgeschlossen |  |
-| Sprachverstehen: mit Kopfhörer am dBopt: Sprachtest möglich | nein |
+| Sprachverstehen: mit Kopfhörer am d Bopt: Sprachtest möglich | nein |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ dB |  |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ % (E/Z) |  |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ dB (SVS) |  |
@@ -278,7 +278,7 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  andere andere 2. Anlegen einer Nach Verordnu
 | Geschlecht | männlich |
 | Nach Verordnung | |
 | Untersuchungsdatum (Nachsorge) | 20-03-2020 |
-| Die Hörgeräteversorgung entspricht dem HNO-ärztlichen Vorschlag zur Gerätetechnik | nicht bekannt |
+| Die Hörgeräteversorgung entspricht  dem HNO-ärztlichen Vorschlag zur Gerätetechnik | nicht bekannt |
 | Abweichung in Luftleitung |  |
 | Abweichung in Knochenleitung |  |
 | Abweichung in Sonderversorgung |  |
@@ -380,7 +380,7 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  2. Anlegen einer Nach Verordnung: Patientena
 | Geschlecht | männlich |
 | Nach Verordnung | |
 | Untersuchungsdatum (Nachsorge) | 31-03-2020 |
-| Die Hörgeräteversorgung entspricht dem HNO-ärztlichen Vorschlag zur Gerätetechnik | ja |
+| Die Hörgeräteversorgung entspricht  dem HNO-ärztlichen Vorschlag zur Gerätetechnik | ja |
 | Abweichung in Luftleitung |  |
 | Abweichung in Knochenleitung |  |
 | Abweichung in Sonderversorgung |  |
@@ -446,7 +446,7 @@ PRÜFFALL 5603 1. Anlegen einer Vor Verordnung und einer Verordnung: anderes OLS
 |  | |
 | Patientenangaben | Patienten-ID |
 | Ac13762434 | Geburtsjahr |
-| 191.1 | Geschlecht |
+| 1911 | Geschlecht |
 | weiblich | |
 | Nach Verordnung | Untersuchungsdatum (Nachsorge) |
 | 25-03-2020 | Die Hörgeräteversorgung entspricht |
@@ -480,11 +480,11 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  Anlegen einer Nach Verordnung: % (E/Z) dB (S
 |---|---|
 | Patientenangaben | |
 | Patienten-ID | Ac13762434 |
-| Geburtsjahr | 191.1 |
+| Geburtsjahr | 1911 |
 | Geschlecht | weiblich |
 | Nach Verordnung | |
 | Untersuchungsdatum (Nachsorge) | 25-03-2020 |
-| Die Hörgeräteversorgung entspricht dem HNO-ärztlichen Vorschlag zur Gerätetechnik | nein |
+| Die Hörgeräteversorgung entspricht  dem HNO-ärztlichen Vorschlag zur Gerätetechnik | nein |
 | Abweichung in Luftleitung | HdO; IO; offene Versorgung; geschlossene |
 | Abweichung in Knochenleitung | Knochenleitungsbügel; teilimplantiertes |
 | Abweichung in Sonderversorgung | CROS / BiCROS; andere |
@@ -610,7 +610,7 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  2. Anlegen einer Nach Verordnung: Patientena
 | Geschlecht | weiblich |
 | Nach Verordnung | |
 | Untersuchungsdatum (Nachsorge) | 26-03-2020 |
-| Die Hörgeräteversorgung entspricht dem HNO-ärztlichen Vorschlag zur Gerätetechnik | nein |
+| Die Hörgeräteversorgung entspricht  dem HNO-ärztlichen Vorschlag zur Gerätetechnik | nein |
 | Abweichung in Luftleitung | offene Versorgung |
 | Abweichung in Knochenleitung | Knochenleitungsbügel |
 | Abweichung in Sonderversorgung | andere |
@@ -707,7 +707,7 @@ verhindert Eingabefehler -1  5606-2 andere PRÜFFALL 5606  5606-3 andere
 | 15-01-2020 | |
 | Sprachverstehen: mit Kopfhörer am dBopt: Sprachtest möglich | ja |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ dB |  |
-| Sprachverstehen: mit Kopfhörer am dBopt: von ___ % (E/Z) |  |
+| Sprachverstehen: mit Kopfhörer am d Bopt: von ___ % (E/Z) |  |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ dB (SVS) |  |
 | Sprachtestmaterial |  |
 |  | Anderes Material |
@@ -740,7 +740,7 @@ anderes KONSTELLATION  5606-4 Hörgeräteerstversorgung Wenn Vorversorgung, wann
 | Untersuchungsdatum (Vor Verordnung / Verordnung) | 15-01-2020 |
 | Sprachverstehen: mit Kopfhörer am dBopt: Sprachtest möglich | ja |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ dB |  |
-| Sprachverstehen: mit Kopfhörer am dBopt: von ___ % (E/Z) |  |
+| Sprachverstehen: mit Kopfhörer am d Bopt: von ___ % (E/Z) |  |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ dB (SVS) |  |
 | Sprachtestmaterial |  |
 |  | Anderes Material |
@@ -768,7 +768,7 @@ anderes KONSTELLATION  5606-4 Hörgeräteerstversorgung Wenn Vorversorgung, wann
 |---|---|
 | Nach Verordnung | |
 | Untersuchungsdatum (Nachsorge) | 17-06-2020 |
-| Die Hörgeräteversorgung entspricht dem HNO-ärztlichen Vorschlag zur Gerätetechnik | ja |
+| Die Hörgeräteversorgung entspricht  dem HNO-ärztlichen Vorschlag zur Gerätetechnik | ja |
 | Abweichung in Luftleitung | HdO |
 | Abweichung in Knochenleitung |  |
 | Abweichung in Sonderversorgung | andere |
@@ -787,7 +787,7 @@ anderes KONSTELLATION  5606-4 Hörgeräteerstversorgung Wenn Vorversorgung, wann
 |---|---|
 | Nach Verordnung | |
 | Untersuchungsdatum (Nachsorge) | 17-06-2020 |
-| Die Hörgeräteversorgung entspricht dem HNO-ärztlichen Vorschlag zur Gerätetechnik | nein |
+| Die Hörgeräteversorgung entspricht  dem HNO-ärztlichen Vorschlag zur Gerätetechnik | nein |
 | Abweichung in Luftleitung |  |
 | Abweichung in Knochenleitung |  |
 | Abweichung in Sonderversorgung |  |
@@ -802,7 +802,7 @@ anderes KONSTELLATION  5606-4 Hörgeräteerstversorgung Wenn Vorversorgung, wann
 |---|---|
 | Nach Verordnung | |
 | Untersuchungsdatum (Nachsorge) | 17-06-2020 |
-| Die Hörgeräteversorgung entspricht dem HNO-ärztlichen Vorschlag zur Gerätetechnik | nein |
+| Die Hörgeräteversorgung entspricht  dem HNO-ärztlichen Vorschlag zur Gerätetechnik | nein |
 | Abweichung in Luftleitung |  |
 | Abweichung in Knochenleitung |  |
 | Abweichung in Sonderversorgung |  |
@@ -822,7 +822,7 @@ anderes KONSTELLATION  5606-4 Hörgeräteerstversorgung Wenn Vorversorgung, wann
 |  |  |
 |---|---|
 | Prüffall-ID | 5608 |
-| Testziel | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges QS ) |
+| Testziel | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges QS  ) |
 | Voraussetzung |  |
 | Prüfunterlagen | Screenshots / PDFs zum Nachweis der korrekten Systemfunktionalität |
 | Hinweis | Dieser Testfall ist unterteilt in vier Szenarien |
@@ -845,7 +845,7 @@ Hörgeräteversorgung (siehe KBV_ITA_VGEX_Anforderungskatalog_QSHGV Angabe der P
 |  |  |
 |---|---|
 | Patientenangaben | |
-| Patienten-ID | 560.9 |
+| Patienten-ID | 5609 |
 | Geburtsjahr | 1945 |
 | Geschlecht | unbestimmt |
 | Vor Verordnung | |
@@ -878,7 +878,7 @@ Hörgeräteversorgung (siehe KBV_ITA_VGEX_Anforderungskatalog_QSHGV Angabe der P
 |  |  |
 |---|---|
 | Prüffall-ID | 5609 |
-| Testziel | Kontrolle der korrekten ) |
+| Testziel | Kontrolle der korrekten  ) |
 | Voraussetzung |  |
 | Prüfunterlagen | › › |
 | Hinweis |  |
@@ -955,9 +955,9 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  andere andere
 |  |  |
 |---|---|
 | Prüffall-ID | 5610 |
-| Testziel | Kontrolle der optionalen Funktionen K1 KBV_ITA_VGEX_Anforderungskatalog_QSHGV ) |
+| Testziel | Kontrolle der optionalen Funktionen K1 KBV_ITA_VGEX_Anforderungskatalog_QSHGV) |
 | Voraussetzung | Nur zu bearbeiten, wenn in der Software die Parameter |
-| Prüfunterlagen | der Hörfähigkeit) automatisch anhand der APHAB-Berechnungsvorschrift ) ermittelt wird |
+| Prüfunterlagen | der Hörfähigkeit) automatisch anhand der APHAB-Berechnungsvorschrift  ) ermittelt wird |
 | Hinweis |  |
 
 -95 und K1-96 (siehe und Berechnungen im Rahmen der APHAB-Dokumentation implementiert sind Screenshots für den Prüffall 5602 zum Nachweis, dass der Nutzen (Verbesserung (EXT_ITA_AHEX_Berechnung_APHAB_QSHGV PRÜFFALL 5610 (KONDITIONAL Anlegen einer Vor Verordnung und einer Verordnung: Kassiererin spreche, kann ich dem Gespräch folgen. Alarmanlage, empfinde ich als unangenehm laut. Familienangehörigen zu folgen. verstehen. Familienmitglieder dabei unterhalten habe ich Mühe, die Nachrichten zu verstehen. mit einer Person unterhalten möchte, ist es für mich schwierig, zu verstehen. großen leeren Raumes befindet, verstehe ich seine Worte. beantworte, habe ich Schwierigkeiten, dem Gespräch zu folgen. herum flüstern und mit Papier rascheln, kann ich dem Dialog immer noch folgen. unterhalte, habe ich Schwierigkeiten, zu verstehen. (Vor)

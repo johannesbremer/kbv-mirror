@@ -63,30 +63,22 @@
 
 **11**
 
-**5.1**
+**5.1** **ausfuellhilfen ............................................................................................................................... 11**
 
-|  | **ausfuellhilfen** | **...............................................................................................................................** | **11** |
-|---|---|---|---|
-| **feld_liste** |  | **.......................................................................................................................................** | **12** |
-| **feld** |  | **................................................................................................................................................** | **12** |
-| **nummer** |  | **........................................................................................................................................** | **13** |
-| **name** |  | **.............................................................................................................................................** | **13** |
-| **hinweistext** | | **...................................................................................................................................** | **13** |
-|  | **REFERENZIERTE** | **DOKUMENTE** | **14** |
+**5.2** **feld_liste ....................................................................................................................................... 12**
 
-**5.2**
+**5.3** **feld ................................................................................................................................................ 12**
 
-**5.3**
+**5.4** **nummer ........................................................................................................................................ 13**
 
-**5.4**
+**5.5** **name ............................................................................................................................................. 13**
 
-**5.5**
+**5.6** **hinweistext ................................................................................................................................... 13**
 
-**5.6**
+**6** **REFERENZIERTE DOKUMENTE**
 
-**6**
+**14**
 
-............................................................................................................................... 11 ....................................................................................................................................... 12 ................................................................................................................................................ 12 ........................................................................................................................................ 13 ............................................................................................................................................. 13 ................................................................................................................................... 13 REFERENZIERTE DOKUMENTE
 
 ---
 
@@ -171,7 +163,7 @@ Mit der in diesem Dokument beschriebenen XML-Struktur werden die Informationen d
 
 Veröffentlichungen sind nach wie vor einzusetzen, da sich die Informationen der XML-Dateien  auf die Abbildung der PDF-Dateien beziehen.
 
-Die vorliegende Beschreibung definiert das Format der Ausfüllhilfen der KBV im XML-,Format
+Die vorliegende Beschreibung definiert das Format der Ausfüllhilfen der KBV im XML-, Format
 
 konform zur ehd- Richtlinie [KBV_ITA_VGEX_eHD
 
@@ -236,9 +228,9 @@ Es existieren verschiedene Kardinalitäten:
 
 | Kardinalität | Symbol | Beschreibung |
 |---|---|---|
-| 0..1 |  | Optionale Elemente Ein optionales Element wird als Rechteck mit gestri- |
-| 1 |  | Obligatorische Elemente Elemente, welche als Rechteck mit durchgezogener |
-| n...m |  | Mehrfache Elemente Bei Elementen, welche mehrfach vorkommen kön- |
+| 0..1 |  | Optionale Elemente  Ein optionales Element wird als Rechteck mit gestri- |
+| 1 |  | Obligatorische Elemente  Elemente, welche als Rechteck mit durchgezogener |
+| n...m |  | Mehrfache Elemente  Bei Elementen, welche mehrfach vorkommen kön- |
 
 **Tabelle 1:** Beschreibung der Kardinalitäten eines XML-Elements
 
@@ -267,10 +259,10 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 | Symbol | Beschreibung |
 |---|---|
-|  | Element mit Kindelementen Ein Element mit einem oder mehreren Kindelementen wird durch ein |
-|  | Referenzelement Der Pfeil links unten im Element zeigt an, dass das Element an ande- |
-|  | Datentyp Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen |
-|  | Gruppenelement Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement |
+|  | Element mit Kindelementen  Ein Element mit einem oder mehreren Kindelementen wird durch ein |
+|  | Referenzelement  Der Pfeil links unten im Element zeigt an, dass das Element an ande- |
+|  | Datentyp  Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen |
+|  | Gruppenelement  Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement |
 
 **Tabelle 3:** Beschreibung sonstiger Symbole
 
@@ -461,7 +453,7 @@ Der XML-Code für ein <hinweistext> Element hat folgenden Aufbau:
 
 **<hinweistext V="** **Geben Sie hier bitte an, seit wann (TTMMJJ) der Versicherte sich in Dauerbe-**
 
-**handlung befindet. Eine**Dauerbehandlung** liegt vor, wenn der Versicherte mindestens ein Jahr**
+**handlung befindet. Eine**Dauerbehandlung** liegt vor, wenn der Versicherte mindestens ein Jahr**
 
 **lang vor Ausstellen dieser Bescheinigung jeweils wenigstens einmal im Quartal wegen derselben**  **Erkrankung in Ärztlicher Behandlung war.">**
 

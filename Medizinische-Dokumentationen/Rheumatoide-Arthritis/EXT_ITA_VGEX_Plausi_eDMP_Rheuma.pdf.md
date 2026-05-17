@@ -34,9 +34,9 @@
 |  | Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* in Feld 10 | | |
 | Lfd. | Parameter | Ausprägung | Plausibilitäten |
 | Anamnese- und Befunddaten | | | |
-| 1 | Aktuelle Krankheitsaktivität - DAS- | Zahl (0 | Pflichtfeld Nummerische Angabe  Die Angabe erfolgt mit einer Nachkommastelle und einer  Die Angabe muss gleich oder größer „0 |
-| 2 | Erkrankungsdauer der | Weniger als zwei Jahre / Zwei Jahre | Pflichtfeld Genau eine Angabe ist zulässig. |
-| 3 | Klinische Einschätzung des | Ja / Nein | Pflichtfeld Genau eine Angabe ist zulässig. |
+| 1 | Aktuelle Krankheitsaktivität - DAS- | Zahl (0 | Pflichtfeld  Nummerische Angabe   Die Angabe erfolgt mit einer Nachkommastelle und einer    Die Angabe muss gleich oder größer „0 |
+| 2 | Erkrankungsdauer der | Weniger als zwei Jahre / Zwei Jahre | Pflichtfeld  Genau eine Angabe ist zulässig. |
+| 3 | Klinische Einschätzung des | Ja / Nein | Pflichtfeld  Genau eine Angabe ist zulässig. |
 | Medikamentöse und sonstige Maßnahmen | | | |
 | 4 | Aktuelle Glukokortikoidtherapie | Ja, bis zu 6 Monate lang / Ja, länger | Pflichtfeld |
 
@@ -47,12 +47,12 @@ Nr. sind die nachstehenden Felder der Anlage 2 2* entsprechend den Festlegungen 
 
 |  |  |  | Genau eine Angabe ist zulässig. |
 |---|---|---|---|
-| 5 | Aktuelle DMARD-Therapie | Therapiepause vereinbart | Pflichtfeld Genau eine Angabe ist zulässig. |
-| 6 | Regelmäßige körperliche Aktivität | Ja / Nein / Nicht möglich | Pflichtfeld Mehrfachnennungen sind möglich. Wenn die Angabe „Ja“ erfolgt ist, kann gleichzeitig keine Die Angaben „Nein“ und „Nicht möglich“ können einzeln |
+| 5 | Aktuelle DMARD-Therapie | Therapiepause vereinbart | Pflichtfeld  Genau eine Angabe ist zulässig. |
+| 6 | Regelmäßige körperliche Aktivität | Ja / Nein / Nicht möglich | Pflichtfeld  Mehrfachnennungen sind möglich.  Wenn die Angabe „Ja“ erfolgt ist, kann gleichzeitig keine  Die Angaben „Nein“ und „Nicht möglich“ können einzeln |
 | Schulung | | | |
-| 7 | DMP an einer Rheuma-Schulung | Ja / Nein | Bedingtes Pflichtfeld Genau eine Angabe ist zulässig Eine Angabe ist erforderlich, wenn die Anlage 22* im Eine Angabe im Rahmen einer Folgedokumentation ist |
+| 7 | DMP an einer Rheuma-Schulung | Ja / Nein | Bedingtes Pflichtfeld Genau eine Angabe ist zulässig Eine Angabe ist erforderlich, wenn die Anlage 22* im  Eine Angabe im Rahmen einer Folgedokumentation ist |
 | 8 | aktueller Dokumentation) | Ja / Nein | Pflichtfeld Genau eine Angabe ist zulässig |
-| 9 | Rheuma-Schulung | Schulung empfohlen | Bedingtes Pflichtfeld Eine Angabe ist erforderlich, wenn die Anlage 22* im Eine Angabe im Rahmen einer Erstdokumentation ist |
+| 9 | Rheuma-Schulung | Schulung empfohlen | Bedingtes Pflichtfeld  Eine Angabe ist erforderlich, wenn die Anlage 22* im  Eine Angabe im Rahmen einer Erstdokumentation ist |
 
 Bereits vor Einschreibung in das teilgenommen Rheuma-Schulung empfohlen (bei wahrgenommen Kontraindikation Ja / Nein / War aktuell nicht möglich / Bei letzter andere Angabe erfolgen. oder gemeinsam erfolgen. Erstdokumentation auszufüllen ist. nicht zulässig tation keine Rahmen einer Folgedokumentation auszufüllen ist. nicht zulässig.
 

@@ -1,4 +1,4 @@
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 1 VERSION: 1.0 DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT  1 VERSION: 1.0  DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # ANTRAG AUF ZERTIFIZIERUNG  ELEKTRONISCHE VERORDNUN G VON  DIGA
@@ -28,7 +28,7 @@ Antragsteller ist die juristische oder natürliche Person, die für die Einhaltu
 
 |  |  | | |
 |---|---|---|---|
-| Name des Antragstellers [bei juristischen Personen ist die |  | | |
+| Name des Antragstellers  [bei juristischen Personen ist die |  | | |
 | Geschäftsbereich [falls vorhanden] |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
@@ -36,7 +36,7 @@ Antragsteller ist die juristische oder natürliche Person, die für die Einhaltu
 | E-Mail-Adresse |  | | |
 | Webseite |  | | |
 | Der Antragsteller ist | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
-| Systempfleger [nur anzugeben, wenn der |  | | |
+| Systempfleger  [nur anzugeben, wenn der |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
@@ -76,7 +76,7 @@ Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werd
 | ☐ | Windows | ☐ | Mac OS | ☐ | Linux |
 | ☐ | iOS/Android | ☐ | Sonstige | | |
 
-Antragstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]8
+Antragstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]8. Dezember 2024
 
 
 ---
@@ -98,7 +98,7 @@ Folgende optionale Funktionen wurden umgesetzt:
 | O35-35 | Festlegung der ausstellenden Person zum Signaturzeitpunkt | ☐ |
 | O62-04 | Zwei Patientenausdrucke einer Person auf einem DIN-A4-Blatt | ☐ |
 
-8
+8. Dezember 2024
 
 [ ] Verordnung digitaler Gesundheitsanwendungen nach § 33a SGB V erfüllt sind. NUMMER BITTE ANKREUZEN [ ][ ]
 
@@ -130,7 +130,7 @@ Diese Information ist verpflichtend anzugeben
 
 ________________
 
-8
+8. Dezember 2024
 
 
 ---
@@ -147,7 +147,7 @@ ________________
 
 | THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART | KOSTEN IN € |
 |---|---|---|---|
-| eVDGA | Neu- oder | Ergebnisprüfung | 275,24 |
+| e VDGA | Neu- oder | Ergebnisprüfung | 275,24 |
 
 - **II. Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**
 
@@ -175,7 +175,7 @@ ________________
 
 - (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung – Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung].
 
-Rezertifizierung 8
+Rezertifizierung 8. Dezember 2024
 
 
 ---
@@ -192,7 +192,7 @@ Rezertifizierung 8
 
 - (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
 
-8
+8. Dezember 2024
 
 
 ---
@@ -211,4 +211,4 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstel
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
 
-/ Version: 1.0 / 18
+/ Version: 1.0 / 18. Dezember 2024

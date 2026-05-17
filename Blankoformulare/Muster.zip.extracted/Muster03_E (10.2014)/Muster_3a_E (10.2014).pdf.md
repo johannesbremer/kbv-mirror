@@ -10,6 +10,8 @@
 
 **Ggf. besondere Feststellungen**
 
+**Datum**
+
 ***Vor der Weitergabe des Vordrucks an die Krankenkasse von der Versicherten auszufüllen.*** **Name, Vorname**
 
 **PLZ**
@@ -40,6 +42,10 @@
 
 **Datum**
 
+**geb. am**
+
+**Status**
+
 **Straße, Haus-Nr.**
 
 **Zeugnis über den**
@@ -62,4 +68,4 @@
 
 **Unterschrift der Versicherten**
 
-Datum geb. am Status**PRF.NR.** **Muster 3a/E (10.2014)**
+**PRF.NR.** **Muster 3a/E (10.2014)**

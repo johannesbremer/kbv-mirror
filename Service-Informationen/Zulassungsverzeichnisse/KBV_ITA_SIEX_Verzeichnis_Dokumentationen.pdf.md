@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**09. MAI 2026**
+**16. MAI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -25,19 +25,22 @@
 |  | Y/52/2501/36/344 | 31.12.2027 | QS Zervix-Zytologie |  |
 |---|---|---|---|---|
 |  | Y/60/2501/36/344 | 31.12.2027 | QS Kapselendoskopie |  |
-
 |  | Y/53/2601/36/031 | 31.12.2028 | Hautkrebs-Screening |  |
-|---|---|---|---|---|
 |  | Y/53/2601/36/081 | 31.12.2028 | Hautkrebs-Screening |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 09. Mai 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 16. Mai 2026
 
 Y/53/2601/36/062 31.12.2028 Hautkrebs-Screening
 
-ACETOmed ACETO Softwareentwicklung GmbH Landsberger Straße 155 80687 München Internet: www.aceto-online.com Linux Mac OS Sonstige Windows APRIS APRIS Praxiscomputer GmbH Wetterkreuz 19 91058 Erlangen Internet: www.apris.de Arztpraxis Wiegand APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH Draiser Straße 164 55128 Mainz Internet: www.apw-wiegand.de iOS/Android Linux Mac OS Windows WindowsWindows
+ACETOmed ACETO Softwareentwicklung GmbH Landsberger Straße 155 80687 München Internet: www.aceto-online.com APRIS APRIS Praxiscomputer GmbH Wetterkreuz 19 91058 Erlangen Internet: www.apris.de Arztpraxis Wiegand APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH Draiser Straße 164 55128 Mainz Internet: www.apw-wiegand.de Linux Mac OS Sonstige Windows iOS/Android Linux Mac OS Windows WindowsWindows
 
 
 ---
+
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
 **D-Doc**
 
@@ -54,14 +57,7 @@ ACETOmed ACETO Softwareentwicklung GmbH Landsberger Straße 155 80687 München I
 |  | Y/56/2401/36/112 | 31.12.2026 | QS Hörgeräteversorgung |  |
 |  | Y/58/2401/36/112 | 31.12.2026 | QS Hörgeräteversorgung Kinder |  |
 
-X/53/2501/36/921
-
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
-|  |  | **gültig bis** |  | **Betriebssysteme** |
-
-31.12.2027 Hautkrebs-Screening
+X/53/2501/36/921 31.12.2027 Hautkrebs-Screening
 
 Y/52/2509/36/525 31.08.2028 QS Zervix-Zytologie
 
@@ -72,27 +68,26 @@ Praxis4More CoKom One GmbH John-F.-Kennedy-Straße 10 97877 Wertheim Internet: w
 
 ---
 
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 |  | Y/53/2601/36/203 | 31.12.2028 | Hautkrebs-Screening |  |
-|---|---|---|---|---|
 |  | Y/56/2310/36/203 | 30.09.2026 | QS Hörgeräteversorgung |  |
-
 |  | Y/53/2601/36/023 | 31.12.2028 | Hautkrebs-Screening |  |
-|---|---|---|---|---|
 |  | Y/53/2601/36/252 | 31.12.2028 | Hautkrebs-Screening |  |
 |  | Y/56/2401/36/252 | 31.12.2026 | QS Hörgeräteversorgung |  |
 |  | Y/58/2401/36/252 | 31.12.2026 | QS Hörgeräteversorgung Kinder |  |
+
+ALBIS CompuGroup Medical Deutschland AG Maria Trost 21 56070 Koblenz Internet: www.albis.de DATA VITAL CompuGroup Medical Deutschland AG Maria Trost 25 56070 Koblenz Internet: www.cgm.com/de CGM M1 PRO CompuGroup Medical Deutschland AG Maria Trost 25 56070 Koblenz Internet: www.cgm.com/de Softwarevariante(n): - CGM M1 PRO NEXT Windows Linux Windows
+
+---
 
 |  |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
-
-ALBIS CompuGroup Medical Deutschland AG Maria Trost 21 56070 Koblenz Internet: www.albis.de Windows DATA VITAL CompuGroup Medical Deutschland AG Maria Trost 25 56070 Koblenz Internet: www.cgm.com/de CGM M1 PRO CompuGroup Medical Deutschland AG Maria Trost 25 56070 Koblenz Internet: www.cgm.com/de Softwarevariante(n): - CGM M1 PRO NEXT Linux Windows
-
----
-
 |  | Y/53/2601/36/280 | 31.12.2028 | Hautkrebs-Screening |  |
-|---|---|---|---|---|
 |  | Y/52/2407/36/280 | 30.06.2027 | QS Zervix-Zytologie |  |
 |  | Y/56/2401/36/280 | 31.12.2026 | QS Hörgeräteversorgung |  |
 |  | Y/58/2401/36/280 | 31.12.2026 | QS Hörgeräteversorgung Kinder |  |
@@ -107,17 +102,17 @@ ALBIS CompuGroup Medical Deutschland AG Maria Trost 21 56070 Koblenz Internet: w
 |  | Y/56/2507/36/488 | 30.06.2028 | QS Hörgeräteversorgung |  |
 |  | Y/58/2507/36/488 | 30.06.2028 | QS Hörgeräteversorgung Kinder |  |
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
-|  |  | **gültig bis** |  | **Betriebssysteme** |
-
 Y/53/2507/36/060 30.06.2028 Hautkrebs-Screening
 
 CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG Karl-Wiechert-Allee 64 30625 Hannover Internet: www.medistar.de und www.cgm.com/de Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK Windows InterMediNet KVDT DBI Informatik, Dirk Blume Tieberg 7 31191 Algermissen Internet: www.dbi-informatik.de inSuite Doc Cirrus GmbH Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com Windows iOS/Android Linux Mac OS Sonstige WindowsWindows
 
 
 ---
+
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
 **JPC ZytoLab**
 
@@ -133,14 +128,7 @@ CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG Karl-Wiechert-Allee 64 
 |  | Y/56/2401/36/086 | 31.12.2026 | QS Hörgeräteversorgung |  |
 |  | Y/53/2501/36/295 | 31.12.2027 | Hautkrebs-Screening |  |
 
-Y/52/2403/36/673
-
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
-|  |  | **gültig bis** |  | **Betriebssysteme** |
-
-28.02.2027 QS Zervix-Zytologie
+Y/52/2403/36/673 28.02.2027 QS Zervix-Zytologie
 
 Y/53/2601/36/602 31.12.2028 Hautkrebs-Screening
 
@@ -151,6 +139,11 @@ DURIA Duria eG Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de Epik
 
 ---
 
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
 **medibit**
 
 **Examion GmbH** Erich-Herion-Straße 37 70736 Fellbach Internet: www.examion.com
@@ -159,26 +152,22 @@ DURIA Duria eG Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de Epik
 |---|---|---|---|---|
 |  | Y/56/2401/36/244 | 31.12.2026 | QS Hörgeräteversorgung |  |
 |  | Y/58/2401/36/244 | 31.12.2026 | QS Hörgeräteversorgung Kinder |  |
-
 |  | Y/53/2507/36/616 | 30.06.2028 | Hautkrebs-Screening |  |
-|---|---|---|---|---|
 |  | Y/53/2507/36/701 | 30.06.2028 | Hautkrebs-Screening |  |
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 09. Mai 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 16. Mai 2026
 
-Y/53/2501/36/034
+Y/53/2501/36/034 31.12.2027 Hautkrebs-Screening
+
+QUINCY WIN Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de Doctorly Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de garrioPRO garrio GmbH Liebknechtstraße 29 70565 Stuttgart Internet: www.garrio.de Windows iOS/Android Linux Mac OS Windows Linux Mac OS WindowsWindows
+
+
+---
 
 |  |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
-
-31.12.2027 Hautkrebs-Screening
-
-QUINCY WIN Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de Windows Doctorly Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de garrioPRO garrio GmbH Liebknechtstraße 29 70565 Stuttgart Internet: www.garrio.de iOS/Android Linux Mac OS Windows Linux Mac OS WindowsWindows
-
-
----
 
 **GMC PaDok**
 
@@ -188,24 +177,20 @@ QUINCY WIN Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet
 |---|---|---|---|---|
 |  | Y/52/2407/36/210 | 30.06.2027 | QS Zervix-Zytologie |  |
 |  | Y/56/2401/36/210 | 31.12.2026 | QS Hörgeräteversorgung |  |
-
 |  | Y/53/2501/36/136 | 31.12.2027 | Hautkrebs-Screening |  |
-|---|---|---|---|---|
 |  | X/53/2501/36/377 | 31.12.2027 | Hautkrebs-Screening |  |
 
-X/53/2601/36/940
+X/53/2601/36/940 31.12.2028 Hautkrebs-Screening
+
+Medical Office INDAMED EDV-Entwicklung und Vertrieb GmbH Ziegeleiweg 1 19057 Schwerin Internet: www.indamed.de InterARZT InterData Praxiscomputer GmbH Alte Bahnhofstraße 50-52 48268 Greven Internet: www.InterData.de MIQ-EHKS IOMTech GmbH Köpenicker Straße 9 10997 Berlin Internet: www.iomtech.de Windows Mac OS Windows Linux Mac OS Sonstige WindowsWindows
+
+
+---
 
 |  |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
-
-31.12.2028 Hautkrebs-Screening
-
-Medical Office INDAMED EDV-Entwicklung und Vertrieb GmbH Ziegeleiweg 1 19057 Schwerin Internet: www.indamed.de Windows InterARZT InterData Praxiscomputer GmbH Alte Bahnhofstraße 50-52 48268 Greven Internet: www.InterData.de MIQ-EHKS IOMTech GmbH Köpenicker Straße 9 10997 Berlin Internet: www.iomtech.de Mac OS Windows Linux Mac OS Sonstige WindowsWindows
-
-
----
 
 **MELOS MeCom Arzt & Labor**
 
@@ -214,26 +199,22 @@ Medical Office INDAMED EDV-Entwicklung und Vertrieb GmbH Ziegeleiweg 1 19057 Sch
 |  | Y/52/2601/36/721 | 31.12.2028 | QS Zervix-Zytologie |  |
 |---|---|---|---|---|
 |  | Y/55/2404/36/721 | 31.03.2027 | QS Molekulargenetik |  |
-
 |  | Y/53/2601/36/135 | 31.12.2028 | Hautkrebs-Screening |  |
-|---|---|---|---|---|
 |  | Y/53/2501/36/462 | 31.12.2027 | Hautkrebs-Screening |  |
 |  | Y/56/2405/38/462 | 30.06.2027 | QS Hörgeräteversorgung |  |
 |  | Y/58/2405/38/462 | 30.06.2027 | QS Hörgeräteversorgung Kinder |  |
 
-Y/52/2407/36/065
+Y/52/2407/36/065 30.06.2027 QS Zervix-Zytologie
+
+David Medat Computersysteme GmbH Albrechtstraße 14 80636 München Internet: www.medat.de EL - Elaphe Longissima medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de medatixx medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de Softwarevariante(n): - psyx Linux Sonstige Windows Windows WindowsWindows
+
+
+---
 
 |  |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
-
-30.06.2027 QS Zervix-Zytologie
-
-David Medat Computersysteme GmbH Albrechtstraße 14 80636 München Internet: www.medat.de Linux Sonstige Windows EL - Elaphe Longissima medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de medatixx medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de Softwarevariante(n): - psyx Windows WindowsWindows
-
-
----
 
 **x.dmp**
 
@@ -247,42 +228,35 @@ David Medat Computersysteme GmbH Albrechtstraße 14 80636 München Internet: www
 |  | Y/56/2310/36/030 | 30.09.2026 | QS Hörgeräteversorgung |  |
 |  | Y/53/2504/36/192 | 31.03.2028 | Hautkrebs-Screening |  |
 
-V/53/2601/36/538
-
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
-|  |  | **gültig bis** |  | **Betriebssysteme** |
-
-31.12.2028 Hautkrebs-Screening
+V/53/2601/36/538 31.12.2028 Hautkrebs-Screening
 
 Praxis-Programm medisoftware GmbH & Co. KG Steinstraße 1 24118 Kiel Internet: www.medisoftware.de MEDICUSplus MEDNET Service für Ärzte AG Prälat-van-Acken-Straße 14 50935 Köln Internet: www.mednet.de Windows WindowsWindows
 
 
 ---
 
-|  | Y/60/2510/36/251 | 30.09.2028 | QS Kapselendoskopie |  |
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+|  | Y/60/2510/36/251 | 30.09.2028 | QS Kapselendoskopie |  |
 |  | Y/53/2501/36/251 | 31.12.2027 | Hautkrebs-Screening |  |
 |  | Y/56/2401/36/251 | 31.12.2026 | QS Hörgeräteversorgung |  |
 |  | Y/58/2401/36/251 | 31.12.2026 | QS Hörgeräteversorgung Kinder |  |
-
 |  | Y/53/2601/36/015 | 31.12.2028 | Hautkrebs-Screening |  |
-|---|---|---|---|---|
 |  | Y/60/2404/36/015 | 31.03.2027 | QS Kapselendoskopie |  |
 |  | Y/56/2401/36/015 | 31.12.2026 | QS Hörgeräteversorgung |  |
 |  | Y/53/2601/36/043 | 31.12.2028 | Hautkrebs-Screening |  |
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 09. Mai 2026
+MEDVISION MedVision AG Heinrich-Hertz-Str. 9 59423 Unna Internet: www.medvision.de Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPHRO - PATIDOK AMBULANZ MEDYS MEDYS GmbH Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de Pro_Medico Neutz GmbH Systemhaus Schwabstraße 22 74189 Weinsberg Internet: www.neutz.net Windows Mac OS Windows WindowsSeite 11 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 16. Mai 2026
+
+
+---
 
 |  |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
-
-MEDVISION MedVision AG Heinrich-Hertz-Str. 9 59423 Unna Internet: www.medvision.de Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPHRO - PATIDOK AMBULANZ Windows MEDYS MEDYS GmbH Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de Pro_Medico Neutz GmbH Systemhaus Schwabstraße 22 74189 Weinsberg Internet: www.neutz.net Mac OS Windows Windows
-
----
 
 **NEXUS / PATHOLOGIE und NEXUS /** **ZYTOLOGIE**
 
@@ -298,14 +272,7 @@ MEDVISION MedVision AG Heinrich-Hertz-Str. 9 59423 Unna Internet: www.medvision.
 |  | Y/58/2401/36/083 | 31.12.2026 | QS Hörgeräteversorgung Kinder |  |
 |  | Y/52/2407/36/475 | 30.06.2027 | QS Zervix-Zytologie |  |
 
-Y/52/2407/36/345
-
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
-|  |  | **gültig bis** |  | **Betriebssysteme** |
-
-30.06.2027 QS Zervix-Zytologie
+Y/52/2407/36/345 30.06.2027 QS Zervix-Zytologie
 
 Y/52/2407/36/441 30.06.2027 QS Zervix-Zytologie
 
@@ -316,6 +283,11 @@ PegaMed PEGA Elektronik GmbH Felix-Dahn-Straße 15 70597 Stuttgart Internet: www
 
 ---
 
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
 **GenLAB8**
 
 **projodis GmbH** Gebrüder-Freitag-Straße 1 35510 Butzbach Internet: [http://www.projodis.com](http://www.projodis.com)
@@ -323,26 +295,22 @@ PegaMed PEGA Elektronik GmbH Felix-Dahn-Straße 15 70597 Stuttgart Internet: www
 |  | Y/53/2604/36/247 | 31.03.2029 | Hautkrebs-Screening |  |
 |---|---|---|---|---|
 |  | Y/56/2401/36/247 | 31.12.2026 | QS Hörgeräteversorgung |  |
-
 |  | Y/53/2504/36/456 | 31.03.2028 | Hautkrebs-Screening |  |
-|---|---|---|---|---|
 |  | Y/53/2601/36/261 | 31.12.2028 | Hautkrebs-Screening |  |
 |  | Y/56/2401/36/261 | 31.12.2026 | QS Hörgeräteversorgung |  |
 |  | Y/58/2401/36/261 | 31.12.2026 | QS Hörgeräteversorgung Kinder |  |
 
-Y/55/2311/36/609
+Y/55/2311/36/609 31.10.2026 QS Molekulargenetik
+
+PROFIMED PRO MEDISOFT AG Besselstraße 25 68219 Mannheim Internet: www.pro-medisoft.de RED medical classic RED Medical Systems GmbH Lutzstraße 2 80687 München Internet: www.REDMEDICAL.DE S3-Win S3 Praxiscomputer GmbH / Maximilian Flender Lorscher Straße 2 69469 Weinheim Internet: http://www.praxiscomputer.de Windows iOS/Android Linux Mac OS Sonstige Windows Sonstige WindowsWindows
+
+
+---
 
 |  |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
-
-31.10.2026 QS Molekulargenetik
-
-PROFIMED PRO MEDISOFT AG Besselstraße 25 68219 Mannheim Internet: www.pro-medisoft.de Windows RED medical classic RED Medical Systems GmbH Lutzstraße 2 80687 München Internet: www.REDMEDICAL.DE S3-Win S3 Praxiscomputer GmbH / Maximilian Flender Lorscher Straße 2 69469 Weinheim Internet: http://www.praxiscomputer.de iOS/Android Linux Mac OS Sonstige Windows Sonstige WindowsWindows
-
-
----
 
 **ARZT 2000**
 
@@ -358,14 +326,7 @@ PROFIMED PRO MEDISOFT AG Besselstraße 25 68219 Mannheim Internet: www.pro-medis
 
 Y/53/2601/36/171
 
-Y/53/2601/36/230
-
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
-|  |  | **gültig bis** |  | **Betriebssysteme** |
-
-31.12.2028
+Y/53/2601/36/230 31.12.2028
 
 31.12.2028
 
@@ -380,6 +341,11 @@ principa SIEGELE Software GmbH Wehrgasse 28/3+4 A-1050 Wien T2med T2med GmbH & C
 
 ---
 
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
 **Medi10**
 
 **UfP Systemhaus GmbH** Heinz-Fangman-Str. 4 42287 Wuppertal Internet: www.ufpgmbh.de
@@ -390,15 +356,8 @@ principa SIEGELE Software GmbH Wehrgasse 28/3+4 A-1050 Wien T2med T2med GmbH & C
 |  | Y/55/2402/36/457 | 31.01.2027 | QS Molekulargenetik |  |
 |  | Y/53/2603/37/768 | 31.03.2029 | Hautkrebs-Screening |  |
 
-Seite 15 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 09. Mai 2026
+Seite 15 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 16. Mai 2026
 
-Y/53/2501/36/313
-
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
-|  |  | **gültig bis** |  | **Betriebssysteme** |
-
-31.12.2027 Hautkrebs-Screening
+Y/53/2501/36/313 31.12.2027 Hautkrebs-Screening
 
 tomedo Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de tomedo.air Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Mac OS Mac OS WindowsWindows

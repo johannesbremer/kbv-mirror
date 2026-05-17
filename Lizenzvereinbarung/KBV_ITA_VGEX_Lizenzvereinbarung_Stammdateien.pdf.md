@@ -120,3 +120,5 @@ der Verantwortung des Softwareherstellers. Dieses gilt gleichermaßen für regel
 - (6) Auf die vorliegende Vereinbarung findet unter Ausschluss der Normen, die in eine andere Rechtsordnung
 
 - verweisen, ausschließlich deutsches Recht Anwendung.
+
+/ 15. August 2023

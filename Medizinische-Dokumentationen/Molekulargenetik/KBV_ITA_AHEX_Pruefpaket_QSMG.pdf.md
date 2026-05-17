@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 27. JANUAR 2022  VERSION: 1.13  DOKUMENTENSTATUS: IN |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  27. JANUAR 2022   VERSION: 1.13   DOKUMENTENSTATUS: IN |
 |---|---|
 
 # PRUEFPAKET QS-MOLEKULARGENETIK
@@ -96,7 +96,7 @@ DOKUMENTENHISTORIE
 | 1.13 | 27.01.2022 | KBV | Redaktionelle | Doppelt vorhandener | 15 |
 | 1.12 | 12.08.2021 | KBV | Überarbeitung des | Überführung ins neue | Alle |
 | 1.11 | 13.03.2018 | KBV | Einreichung des Antrags | Anpassung des | 5ff |
-| 1.10 | 23.05.2017 | KBV | Überarbeitung von  Überarbeitung der | Vereinheitlichung der  Aufgrund der | 5ff   9ff |
+| 1.10 | 23.05.2017 | KBV | Überarbeitung von    Überarbeitung der | Vereinheitlichung der    Aufgrund der | 5ff      9ff |
 
 Anpassung des Prüffalls Layouts auf Zertifizierung Kapitel 1 Prüffälle Inhalt (Seite 15) gelöscht Corporate Design Zertifizierungsportals Strukturen Aktualisierung der Plausibilität
 
@@ -198,7 +198,7 @@ durch den Prüfer begutachtet.
 
 1
 
-2.3
+2 3
 
 *PrüffallNr*. _[lfdNr.] .*
 
@@ -478,7 +478,7 @@ NG GEMÄß § 5 NR. 2
 | Testziel | › |
 | Voraussetzung | Das Dokumentationsdatum ist der 3 |
 | Prüfunterlagen | › › |
-| Hinweis | Der Prüffall ist in 8 Fehlerkonstellationen aufgeteilt  Alle nicht vorgegebenen Angaben jeder einzelnen Konstellation sind immer aus der  Anhang 4.1 zu entnehmen |
+| Hinweis | Der Prüffall ist in 8 Fehlerkonstellationen aufgeteilt    Alle nicht vorgegebenen Angaben jeder einzelnen Konstellation sind immer aus der   Anhang 4.1 zu entnehmen |
 
 Aktionen, die durch den Antragsteller durchgeführt werden:
 
@@ -544,9 +544,9 @@ Fragestellung vorgeburtlicher Fragestellung diagnostischer Fragestellung Endbefu
 |  | | | |
 | Konstellation 6 | | | |
 | 5 Anzahl der Untersuchungen je GOP | | | |
-| 11432 | 150 | davon pathologische | 5.0 |
-|  |  | davon unauffällige | 5.0 |
-|  |  | davon nicht beurteilbare | 5.0 |
+| 11432 | 150 | davon pathologische | 50 |
+|  |  | davon unauffällige | 50 |
+|  |  | davon nicht beurteilbare | 50 |
 |  | | | |
 | Konstellation 7 | | | |
 | 10 Ergebnisse der externen Qualitätssicherung gemäß § 5 Nr. 2 | | | |
@@ -559,7 +559,7 @@ Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde End
 |  |  |  | |
 |---|---|---|---|
 | Konstellation 8 | | | |
-| Sofern mehr als 150 Untersuchungen für eine GOP durchgeführt wurden 11 Anzahl der Einsendungen je Facharztgruppe für diese GOP | | | |
+| Sofern mehr als 150 Untersuchungen für eine GOP durchgeführt wurden  11 Anzahl der Einsendungen je Facharztgruppe für diese GOP | | | |
 | 11395 |  |  | |
 |  | 04 (Anästhesiologie) | 299 |  |
 |  | 22 (Humangenetik) | 300 |  |
@@ -635,11 +635,11 @@ Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde End
 | SZENARIEN |
 |---|
 | Szenario 1 |
-| Zeigen Sie mittels eines Screenshots, dass eine Korrektur/Änderung der in den Prüffällen 1 und 2 erstellten Weisen Sie auch per Screenshot oder als PDF-Dokument nach, dass die Jahresstatistik ausgedruckt werden |
+| Zeigen Sie mittels eines Screenshots, dass eine Korrektur/Änderung der in den Prüffällen 1 und 2 erstellten  Weisen Sie auch per Screenshot oder als PDF-Dokument nach, dass die Jahresstatistik ausgedruckt werden |
 | Szenario 2 |
-| 1.  2.  3. |
+| 1.   2.   3. |
 | Szenario 3 |
-| Weisen Sie per Screenshots nach, dass bei der Erstellung eines Behandlungsfalls die Angaben zu:  • • |
+| Weisen Sie per Screenshots nach, dass bei der Erstellung eines Behandlungsfalls die Angaben zu:   • • |
 | 2.4 |
 |  |
 |  |
@@ -718,7 +718,7 @@ Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 | ANGABEN FÜR DIE JAHR ESSTATISTIK FÜR PRÜF | | | |
 |  | | | |
 | 1 | Gesamtzahl der Behandlungsfälle nach | 1500 |  |
-| 2 | dabei Behandlungsfälle mit 700 | davon pathologische | 300 |
+| 2 | dabei Behandlungsfälle mit  700 | davon pathologische | 300 |
 |  |  | davon unauffällige | 300 |
 |  | davon nicht beurteilbare | 100 | 3 |
 | dabei Behandlungsfälle mit prädiktiver | 500 | davon pathologische | 200 |
@@ -735,7 +735,7 @@ Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 | 600 | | | |
 |  |  | davon unauffällige | |
 | 400 |  |  | |
-| davon nicht beurteilbare 200 | | | |
+| davon nicht beurteilbare  200 | | | |
 | 11432 | 500 | davon pathologische | |
 | 100 |  |  | davon unauffällige |
 | 4 4.1 | | | |
@@ -792,7 +792,7 @@ ANHANG EBM-Unterabschnitt 11.4.2 diagnostischer Fragestellung Fragestellung vorg
 | 10 Ergebnisse der externen Qualitätssicherung gemäß § 5 Nr. 2 | | | |
 | Gesamtanzahl der Untersuchungen | 3 |  | |
 | Gesamtanzahl der Zertifikate | 2 |  | |
-| Sofern mehr als 150 Untersuchungen für eine GOP durchgeführt wurden 11 Anzahl der Einsendungen je Facharztgruppe für diese GOP | | | |
+| Sofern mehr als 150 Untersuchungen für eine GOP durchgeführt wurden  11 Anzahl der Einsendungen je Facharztgruppe für diese GOP | | | |
 | 11395 |  |  | |
 |  | 04 (Anästhesiologie) | 300 |  |
 | ANGABEN FÜR DIE JAHR ESSTATISTIK FÜR PRÜF | | | |
@@ -867,14 +867,14 @@ FALL 2
 |  |  |
 |---|---|
 | Referenz | Dokument |
-| [KBV_ITA_FMEX_AAZ_QSMG ] | Antrag auf Zertifizierung QSMG |
-| [KBV_ITA_RLEX_Zert ] | Zertifizierungsrichtlinie der KBV |
+| [KBV_ITA_FMEX_AAZ_QSMG] | Antrag auf Zertifizierung QSMG |
+| [KBV_ITA_RLEX_Zert] | Zertifizierungsrichtlinie der KBV |
 | [Austausch_von_XML-Daten_V(n.nn).ZIP] | KBV_ITA_VGEX_XML |
 | [KBV_ITA_VGEX_Schnittstelle_QSMG ] | Schnittstellenbeschreibung QS Molekulargenetik |
 | [KBV_ITA_VGEX_Plausi_QSMG] | Plausibilitäten und Berechnungsvorschrift QS |
 | [KBV_ITA_VGEX_Anforderungskatalog_QSMG ] | Anforderungskatalog |
-| [KBV_ITA_AHEX_Ausfuellhinweise_QSMG ] | Ausfüllhinweise Qualitätssicherungsvereinbarung |
-| [ Prüfstammdateien ] | Alle für das Verfahren ggf. relevanten |
+| [KBV_ITA_AHEX_Ausfuellhinweise_QSMG] | Ausfüllhinweise Qualitätssicherungsvereinbarung |
+| [Prüfstammdateien] | Alle für das Verfahren ggf. relevanten |
 
 **Ansprechpartner:**
 

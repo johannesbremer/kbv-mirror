@@ -209,6 +209,8 @@ Muster 22
 
 Muster 25
 
+Antragssteller:
+
 Verordnung von Krankenhausbehandlung
 
 Zeugnis über den mutmaßlichen Tag der Entbindung
@@ -326,6 +328,8 @@ Muster 70
 
 Muster 70A
 
+Antragssteller:
+
 Verordnung Soziotherapie gem. § 37a SGB V
 
 Soziotherapeutischer Betreuungsplan gem. § 37a SGB V
@@ -433,6 +437,8 @@ Alle Pflichtfunktionen des Anforderungskataloges BFB (vgl. Technisches Handbuch 
 
 Die KBV-Prüfnummer wird auf jedem BFB-Formular nach Vorgabe aufgedruckt.
 
+Antragssteller:
+
 Antrag des Versicherten auf Psychotherapie
 
 Angaben des Therapeuten zum Antrag des Versicherten
@@ -459,6 +465,8 @@ DIN A4 hoch kein -Vereinbarung
 
 
 ---
+
+Antragssteller:
 
 **2.4** **BARCODE**
 
@@ -507,8 +515,12 @@ ________________
 
 Diese Information ist verpflichtend anzugeben
 
+Antragssteller:
+
 
 ---
+
+Antragssteller:
 
 4 KENNTNISNAHME DURCH DEN ANTRAGSSTELLER
 
@@ -520,19 +532,16 @@ Diese Information ist verpflichtend anzugeben
 
 **THEMA**
 
-**ZERTIFIZIERUNGSART PRÜFUNGSART**
+**ZERTIFIZIERUNGSART**
 
-**KOSTEN IN €**
+| **PRÜFUNGSART** | **KOSTEN** | **IN €** |
+|---|---|---|
+| Ergebnisprüfung | 68,81 |  |
+|  | [pro | Muster] |
 
 BFB
 
-Neu- oder
-
-Ergebnisprüfung 68,81
-
-Rezertifizierung
-
-[pro Muster]
+Neu- oder  Rezertifizierung
 
 **II.** **Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**
 
@@ -570,8 +579,11 @@ veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
 
 Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung].
 
+KOSTEN IN € [pro Muster]
 
 ---
+
+Antragssteller:
 
 **IV.** **Sonstiges**
 
@@ -593,6 +605,8 @@ Seite 10 von 11 / KBV / Antrag auf Zertifizierung Blankoformularbedruckung / Ver
 
 
 ---
+
+Antragssteller:
 
 Ort, Datum
 

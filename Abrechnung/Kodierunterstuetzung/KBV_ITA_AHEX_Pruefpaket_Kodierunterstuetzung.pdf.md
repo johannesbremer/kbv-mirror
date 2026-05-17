@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 27. JANUAR 2025  VERSION: 1.07  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 27. JANUAR 2025   VERSION: 1.07   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # PRÜFPAKET KODIERUNTERSTÜTZUNG
@@ -58,16 +58,16 @@ DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.07 | 2.7.01.2025 | KBV | Aktualisierung diverser | Auslauf von | Kap. |
-| 1.06 | 15.11.2022 | KBV | Ausschluss der Systeme verwendet werden. | Kodierunterstützung | alle |
+| 1.07 | 27.01.2025 | KBV | Aktualisierung diverser | Auslauf von | Kap. |
+| 1.06 | 15.11.2022 | KBV | Ausschluss der Systeme  verwendet werden. | Kodierunterstützung | alle |
 | 1.05 | 10.02.2022 | KBV | Kleine Anpassungen und | Klarstellung der | 11, |
 | 1.04 | 19.11.2021 | KBV | Kleine Korrekturen | Vereinheitlichung des | 12 |
-| 1.03 | 15.11.2021 | KBV | Kleine Anpassungen und  Aktualisierung der Links zum | Anpassung nach | 12, 16, 15, 20  5, 7 |
-| 1.02 | 26.10.2021 | KBV | Kleine Anpassungen der | Klarstellung der | 16 18 23 |
-| 1.01 | 13.09.2021 | KBV | Ergänzung der   Kleine Anpassungen der | Konkretisierung der zu | 11 17  Alle |
+| 1.03 | 15.11.2021 | KBV | Kleine Anpassungen und    Aktualisierung der Links zum | Anpassung nach | 12,  16,  15,  20    5, 7 |
+| 1.02 | 26.10.2021 | KBV | Kleine Anpassungen der | Klarstellung der | 16  18  23 |
+| 1.01 | 13.09.2021 | KBV | Ergänzung der      Kleine Anpassungen der | Konkretisierung der zu | 11  17    Alle |
 | 1.0 | 28.06.2021 | KBV | Neues Dokument | Initiale Erstellung | Alle |
 
-Kodierregeln in den Prüfvorgaben welche nicht ausschließlich für die Abrechnung gemäß § 57a, Abs. 2 BMV-Ä oder für die Direktabrechnung gemäß §§ 115b, 116b und 120 Abs. 3 SGB V und  der Systeme welche für die Abrechnung gemäß § 57a, Abs. 2 BMV-Ä Ergänzungen der Prüffälle PF01, PF02, PF07, PF10, PF11 und PF17 Ergänzungen der Prüffälle PF01, PF02, PF04, PF11, PF12 Anforderungskatalog und den Beispieldaten Prüffälle Kapitelbeschreibung Prüffälle Kodierregeln; Aufnahme neuer Kodierregeln in die Stammdatei wird im Prüfvorgang KVDT geprüft erwarteten Dokumentation ICD-10-GM-Kodes J44.90 Anforderungsänderung erwarteten Dokumentation bearbeitenden Prüffälle 2-4 18, 19,
+Kodierregeln in den Prüfvorgaben welche nicht ausschließlich für die Abrechnung gemäß § 57a, Abs. 2 BMV-Ä oder für die Direktabrechnung gemäß §§ 115b, 116b und 120 Abs. 3 SGB V und  der Systeme welche für die Abrechnung gemäß § 57a, Abs. 2 BMV-Ä Ergänzungen der Prüffälle PF01, PF02, PF07, PF10, PF11 und PF17 Ergänzungen der Prüffälle PF 01, PF02, PF04, PF11, PF12 Anforderungskatalog und den Beispieldaten Prüffälle Kapitelbeschreibung Prüffälle Kodierregeln; Aufnahme neuer Kodierregeln in die Stammdatei wird im Prüfvorgang KVDT geprüft erwarteten Dokumentation ICD-10-GM-Kodes J44.90 Anforderungsänderung erwarteten Dokumentation bearbeitenden Prüffälle 2-4 18, 19,
 
 ---
 
@@ -179,9 +179,9 @@ Die geforderten Videomitschnitte müssen im Hauptverzeichnis übermittelt werden
 
 Dateinamen, der nach folgender Namenskonvention aufgebaut ist:
 
-**1.2**
+**1 2**
 
-***PrüffallNr*****.> _[*****AktionNr.*****] .*  z.B. PF01_1.mp4**
+***PrüffallNr*****.> _[*****Aktion Nr.*****] .*  z.B. PF01_1.mp4**
 
 Die geforderten Screenshots sind entsprechend der Reihenfolge der Anweisungen des Prüffalls in  zu hinterlegen. Die Screenshots sind im PDF-Format bereitzustellen. Es ist zu beachten, dass pro Prüffall eine
 
@@ -435,9 +435,9 @@ In diesem Kapitel werden die Prüffälle für  Selektivverträgen verwendet werd
 | Prüffall-ID | PF01 |
 | Testziel | Übersicht und Konfiguration der behandlungsfallbezogenen und |
 | Voraussetzung |  |
-| Aktion | sollen au sollen auf den Prüfzei  Hinweis: Bitte achten Sie darauf, dass alle Texte (z.B. Diagnosenklartext, |
+| Aktion | sollen au sollen auf den Prüfzei   Hinweis: Bitte achten Sie darauf, dass alle Texte (z.B. Diagnosenklartext, |
 | Einzureichende | Dokumentieren Sie |
-| Geprüfte | Insbesondere folgende Pflichtfunktionen sind betroffen: › › › |
+| Geprüfte | Insbesondere folgende Pflichtfunktionen sind betroffen:  › › › |
 
 Prüfunterlagen Anforderungen quartalsübergreifenden Kodierregeln 1. Zur Konfiguration aller behandlungsfallbezogen Kodierregeln soll eine Gesamtübersicht angezeigt werden.  2. Für den Einsatz der behandlungsfallbezogenen Kodierregel ID 01-01-018 a) die Detailinformation der Kodierregel angezeigt werden b) r Prüfzeitpunkt auf „zur Abrechnung“ in de r Detailansicht geändert werden c) sofern möglich der Status auf „inaktiv“ in der Detailansicht geändert werden. 3. Die Kodierregeln:  a) 01-02-012 b) 01-01-001 01-01-125 c) 01-01-021 f den Prüfzeitpunkt „zur Abrechnung“ gesetzt werden. 4. Zur Konfiguration aller quartalsübergreifenden Kodierregeln soll eine Gesamtübersicht dieser angezeigt werden. 5. Für den Einsatz der quartalsübergreifenden Kodierregel ID 03-02-038 a) die Detailinformation zur Kodierregel angezeigt werden b) sofern möglich der Status auf „inaktiv“ geändert werden 6. Die Kodierregeln:  a) 03-02-036 03-02-173 b) 03-02-044 c) 03-02-046 tpunkt „zur Abrechnung“ gesetzt werden. Korrekturvorschlag etc.) vollständig angezeigt werden. durch ein Video die kompletten Konfigurationsschritte einschließlich der Ergebnisse nach einer möglichen Hinweissteuerung. KP10-610  - Einsatzpflicht KP10-650  - Konfiguration der behandlungsfallbe zogenen Kodierregeln KP10-660 - Konfiguration der quartalsübergreifenden KodierregelnSysteme definiert, welche zur Abrechnung im Rahmen von
 
@@ -446,18 +446,18 @@ Prüfunterlagen Anforderungen quartalsübergreifenden Kodierregeln 1. Zur Konfig
 
 |  |  |
 |---|---|
-| Prüffall-ID PF02 |  |
-| Testziel Übernahme von Dauerdiagnosen und Anwendung von behandlungsfall |  |
+| Prüffall-ID  PF02 |  |
+| Testziel  Übernahme von Dauerdiagnosen und Anwendung von behandlungsfall |  |
 | Voraussetzung Für die Patientin Marion Müller wurden in den letzten 4 Quartalen die in der |  |
-|  | ICD-10- G I63.5 G |
-| I63.5 G | I63.5 |
-| G | J44.9- I10.90 G 1. a) b) 2. 3. a) b) 4. 5. |
+|  | ICD-10- G  I63.5  G |
+| I63.5  G | I63.5 |
+| G | J44.9-  I10.90  G  1. a) b) 2. 3. a) b) 4. 5. |
 
 Die Patientin Marion Müller wird bei dem Arzt behandelt. Es sollen die existierenden Dauerdiagnosen mit den nachfolgenden Ausnahmen in das aktuelle Abrechnungsquartal übernommen werden J44.90 T88.7 Der ICD-10-GM-Kode T88.7 soll zukünftig keine Dauerdiagnose sein, sondern soll im aktuellen Abrechnungsquartal als Anamnestische Diagnose behandelt und in die Abrechnung übernommen werden.  Für die Patientin sollen die beiden ICD-10-GM-Kodes I11.00 G und G46.0 G als Behandlungsdiagnose erfasst werden. Nach der Erfassung als Behandlungsdiagnose soll  der ICD-10-GM-Kode I11.00 G als Dauerdiagnose gekennzeichnet werden. Nach der Erfassung als Behandlungsdiagnose soll  der ICD-10-GM-Kode G46.0 G als Anamnestische Diagnose gekennzeichnet und in die Abrechnung übernommen werden.  Es soll als zusätzliche Erläuterung der Text „Hypertonie ursächlich für Herzinsuffizienz“ zu der Behandlungsdiagnose I11.00 G für die Abrechnung erfasst werden.  Sofern Korrekturhinweise durch eine Kodierregel angezeigt werden, soll vom Anwender frei entschieden werden, welche Änderung vorgenommen wird. bezogenen Kodierregeln  folgenden Tabelle aufgeführten ICD-10-GM-Kodes als Behandlungsdiagnosen erfasst und als Dauerdiagnosen gekennzeichnet. Quartal -4 Quartal -3 Quartal -2 Quartal -1 Aktuelles Quartal GM- Kode DS GM- Kode DS GM- Kode DS GM- Kode DS GM- Kode I25.12 I25.12 I25.12 E11.90 E11.30 E11.30 E11.30 I63.9 I21.9 I21.9 I21.0 J44.90 J44.90 T88.7 T88.7 Aktion |  |  |
 |---|---|
 | Prüffall-ID | PF02 |
 | Testziel | Übernahme von Dauerdiagnosen und Anwendung von behandlungsfall |
-| Voraussetzung | Für die Patientin Marion Müller wurden in den letzten 4 Quartalen die in der    Quartal -4 Quartal -3 Quartal -2 Quartal -1  Aktuelles Quartal ICD-10- DS ICD-10- DS ICD-10- DS ICD-10- DS  ICD-10- I63.5 G I63.5 G I63.5 G I63.5 G  J44.9- I10.90 G I10.90 G I10.90 G I10.90 G  I10.90   I25.12 G I25.12 G I25.12 G  E11.90   E11.30 G E11.30 G E11.30 G  I63.9     I21.9 G I21.9 G  I21.0     J44.90 G J44.90 G       T88.7 G T88.7 G |
+| Voraussetzung | Für die Patientin Marion Müller wurden in den letzten 4 Quartalen die in der        Quartal -4  Quartal -3  Quartal -2  Quartal -1    Aktuelles Quartal  ICD-10- DS  ICD-10- DS  ICD-10- DS  ICD-10- DS    ICD-10- I63.5  G  I63.5  G  I63.5  G  I63.5  G    J44.9-  I10.90  G  I10.90  G  I10.90  G  I10.90  G    I10.90      I25.12  G  I25.12  G  I25.12  G    E11.90      E11.30  G  E11.30  G  E11.30  G    I63.9          I21.9  G  I21.9  G    I21.0          J44.90  G  J44.90  G              T88.7  G  T88.7  G |
 | Aktion |  |
 
 
@@ -473,7 +473,7 @@ Die Patientin Marion Müller wird bei dem Arzt behandelt. Es sollen die existier
 | Prüffall-ID | PF03 |
 | Testziel | Prüfen und sicherstellen, dass ein vom |
 | Voraussetzung |  |
-| Aktion | Diagnosensicherheit: G Diagnosensicherheit: G Diagnosensicherheit: V Diagnosensicherheit: V Diagnosensicherheit: G Diagnosensicherheit: G |
+| Aktion | Diagnosensicherheit: G  Diagnosensicherheit: G  Diagnosensicherheit: V  Diagnosensicherheit: V  Diagnosensicherheit: G  Diagnosensicherheit: G |
 | Prüfunterlagen | Dokumentieren Sie durch Screenshots die Meldung des Systems |
 | Geprüfte | › › › › › |
 
@@ -498,23 +498,23 @@ KP10-542 Kennzeichnung „ungeeignet als Dauerdiagnose“ Prüffall-ID PF04 Test
 
 ---
 
-| PF05 | Testziel Übernahme von Dauerdiagnosen und Anwendung von behandlungsfallbezogenen |
+| PF05 | Testziel  Übernahme von Dauerdiagnosen und Anwendung von behandlungsfallbezogenen |
 |---|---|
 | Voraussetzung | Für den Patienten Viktor Werner wurden in den letzten 4 Quartalen die in der |
 |  |  |
 |  | Quartal -4 |
-| Quartal -3 Quartal -2 |  |
+| Quartal -3  Quartal -2 |  |
 | ICD-10- |  |
-| I60.7 G | I60.7 G I60.7 G I60.7 G  J44.9- 1. a) 2. |
+| I60.7  G | I60.7  G  I60.7  G  I60.7  G    J44.9-  1. a) 2. |
 
 |  |  |
 |---|---|
 | Prüffall-ID | PF05 |
 | Testziel | Übernahme von Dauerdiagnosen und Anwendung von behandlungsfallbezogenen |
-| Voraussetzung | Für den Patienten Viktor Werner wurden in den letzten 4 Quartalen die in der    Quartal -4 Quartal -3 Quartal -2 Quartal -1  Aktuelles Quartal ICD-10- DS ICD-10- DS ICD-10- DS ICD-10- DS  ICD-10- I60.7 G I60.7 G I60.7 G I60.7 G  J44.9- I10.90 G I10.90 G I10.90 G I10.90 G  I10.90   I25.12 G I25.12 G I25.12 G  E11.90   E11.40 G E11.40 G E11.40 G  I63.9     I21.9 G I21.9 G  I21.0     J30.1 G J30.1 G       L24.2 G L24.2 G |
+| Voraussetzung | Für den Patienten Viktor Werner wurden in den letzten 4 Quartalen die in der        Quartal -4  Quartal -3  Quartal -2  Quartal -1    Aktuelles Quartal  ICD-10- DS  ICD-10- DS  ICD-10- DS  ICD-10- DS    ICD-10- I60.7  G  I60.7  G  I60.7  G  I60.7  G    J44.9-  I10.90  G  I10.90  G  I10.90  G  I10.90  G    I10.90      I25.12  G  I25.12  G  I25.12  G    E11.90      E11.40  G  E11.40  G  E11.40  G    I63.9          I21.9  G  I21.9  G    I21.0          J30.1  G  J30.1  G              L24.2  G  L24.2  G |
 | Aktion |  |
 | Einzureichende | Dokumentieren Sie durch ein Video die Schritte einschließlich der Ergebnisse nach |
-| Geprüfte | › › › ›  › |
+| Geprüfte | › › › ›   › |
 
 Der Patient Viktor Werner wird bei dem Arzt behandelt. Es sollen die existierenden Dauerdiagnosen in das aktuelle Abrechnungsquartal übernommen werden. Aus der Liste der Dauerdiagnosen soll vor der Übernahme in die Abrechnung für den ICD-10-GM- Kode I21.9 das Zusatzkennzeichen „G“ für die Diagnosensicherheit in „Z“ geändert werden Sofern Korrekturhinweise durch eine Kodierregel angezeig t werden, soll vom Anwender frei entschieden werden, welche Änderung vorgenommen wird. Prüffall-ID Kodierregeln. folgenden Tabelle aufgeführten ICD-10-GM-Kodes als Behandlungsdiagnosen erfasst und als Dauerdiagnosen gekennzeichnet. Quartal -1 Aktuelles Quartal GM- Kode DS GM- Kode DS GM- Kode DS GM- Kode DS GM- Kode I10.90 I10.90 I10.90 I10.90 I10.90 I25.12 I25.12 I25.12 E11.90 E11.40 E11.40 E11.40 I63.9 I21.9 I21.9 I21.0 J30.1 J30.1 L24.2 L24.2 Aktion Prüfunterlagen einer möglichen Hinweissteuerung. Anforderungen KP10-231  - Diagnosensicherheit bei Dauerdiagnosen KP10-240  - Übernahme von Dauerdiagnosen als Behandlungsdiagnosen in die Abrechnung KP10-700  - Ausführung der behandlungsfallbezogenen Kodierregeln KP10-750  - Erzeugung eines Hinweises und Korrekturvorschlages Verarbeitung und Anzeige des Korrekturvorschlages gemäß KP10-760  oder KP10- 770  oder KP10-780
 
@@ -524,7 +524,7 @@ Der Patient Viktor Werner wird bei dem Arzt behandelt. Es sollen die existierend
 |---|---|
 | Prüffall-ID | PF06 |
 | Testziel | Ausführung von behandlungsfallbezogenen und quartalsübergreifenden |
-|  | Voraussetzung Die vorangegangenen Prüffälle wurden durchgeführt.  Aktion 1. 2. Einzureichende Dokumentieren Sie durch ein Video die Schritte einschließlich der Ergebnisse nach Geprüfte › › › › ›    Prüffall-ID PF07 Testziel Anzeige der gesamthaften Verschlüsselungsanleitungen des BfArMs in der Übersicht Voraussetzung  Aktion 1. Einzureichende Dokumentieren Sie das Ergebnis der Anzeige Beispielsweise kann dies durch die Darstellung nachgewiesen werden, Geprüfte › › |
+|  | Voraussetzung  Die vorangegangenen Prüffälle wurden durchgeführt.   Aktion  1. 2. Einzureichende  Dokumentieren Sie durch ein Video die Schritte einschließlich der Ergebnisse nach  Geprüfte  › › › › ›       Prüffall-ID  PF07  Testziel  Anzeige der gesamthaften Verschlüsselungsanleitungen des BfArMs in der Übersicht Voraussetzung    Aktion  1. Einzureichende  Dokumentieren Sie das Ergebnis der Anzeige  Beispielsweise kann dies durch die Darstellung nachgewiesen werden,  Geprüfte  › › |
 |  |  |
 |  |  |
 |  | 1. 2. |
@@ -544,8 +544,8 @@ Prüfunterlagen Anforderungen Prüfunterlagen Anforderungen Kodierregeln mit dem
 | Testziel | Anzeige der gesamthaften Verschlüsselungsanleitungen des BfArMs in der Übersicht |
 | Voraussetzung |  |
 | Aktion |  |
-| Einzureichende | Dokumentieren Sie das Ergebnis der Anzeige Beispielsweise kann dies durch die Darstellung nachgewiesen werden, |
-| Geprüfte | › › Einzureichende › › › |
+| Einzureichende | Dokumentieren Sie das Ergebnis der Anzeige  Beispielsweise kann dies durch die Darstellung nachgewiesen werden, |
+| Geprüfte | › › Einzureichende  › › › |
 
 
 ---
@@ -559,13 +559,13 @@ In diesem Kapitel werden die Prüffälle für Systeme definiert, welche  Selekti
 | Prüffall-ID | PF08 |
 | Testziel | Prüfen und sicherstellen, dass ein vom Anwender eingegebene ICD-10-GM-Kodes in |
 | Voraussetzung |  |
-| Aktion | Diagnosensicherheit: G Diagnosensicherheit: G Diagnosensicherheit: V Diagnosensicherheit: V Diagnosensicherheit: G |
+| Aktion | Diagnosensicherheit: G  Diagnosensicherheit: G  Diagnosensicherheit: V  Diagnosensicherheit: V  Diagnosensicherheit: G |
 | Prüfunterlagen | Dokumentieren Sie durch Screenshots die Meldung des Systems |
-| Geprüfte | › › › › › ›  Aktion |
+| Geprüfte | › › › › › ›   Aktion |
 
 | Prüfunterlagen | Dokumentieren Sie durch Screenshots die Meldung des Systems |
 |---|---|
-| Geprüfte › | › |
+| Geprüfte  › | › |
 | › › | › |
 | › |  |
 |  |  |
@@ -577,14 +577,14 @@ Aktion Einzureichende Anforderungen Der Anwender erfasst für Leonie Gonzales im
 
 ---
 
-|  | Prüffall-ID PF09 |
+|  | Prüffall-ID  PF09 |
 |---|---|
 | Testziel | Prüfen und sicherstellen, dass die Plausibilitäten der ICD-Stammdatei korrekt |
 | Voraussetzung |  |
 | Aktion | 1. |
-| 2. · | Dokumentieren Sie durch Screenshots die Meldung des Systems Geprüfte › |
+| 2. · | Dokumentieren Sie durch Screenshots die Meldung des Systems Geprüfte  › |
 |  |  |
-| Prüffall-ID | PF10 Testziel Anzeige der gesamthaften Verschlüsselungsanleitungen des BfArMs in der Übersicht Voraussetzung 1. 2. · |
+| Prüffall-ID | PF10  Testziel  Anzeige der gesamthaften Verschlüsselungsanleitungen des BfArMs in der Übersicht Voraussetzung  1. 2. · |
 
 |  |  |
 |---|---|
@@ -601,8 +601,8 @@ Aktion Einzureichende Anforderungen Der Anwender erfasst für Leonie Gonzales im
 | Testziel | Anzeige der gesamthaften Verschlüsselungsanleitungen des BfArMs in der Übersicht |
 | Voraussetzung |  |
 | Aktion |  |
-| Einzureichende | Dokumentieren Sie das Ergebnis der Anzeige in Screenshots, aus welchen ersichtlich Beispielsweise kann dies durch die Darstellung nachgewiesen werden, wie ein Kapitel |
-| Geprüfte | › › Prüfunterlagen Dokumentieren Sie durch Screenshots die Meldung des Systems Geprüfte › › › |
+| Einzureichende | Dokumentieren Sie das Ergebnis der Anzeige in Screenshots, aus welchen ersichtlich  Beispielsweise kann dies durch die Darstellung nachgewiesen werden, wie ein Kapitel |
+| Geprüfte | › › Prüfunterlagen  Dokumentieren Sie durch Screenshots die Meldung des Systems Geprüfte  › › › |
 
 Einzureichende Prüfunterlagen Anforderungen angewendet werden, und Anzeige von ICD-10-GM-Kode-bezogenen Hinweisen aus der Verschlüsselungsanleitung des BfArM. Der Anwender erfasst für Rodrigo Gonzales den ICD-10-GM- Kode „ H28.0 “ mit der Diagnosen sicherheit „G“ für die Abrechnung und lässt sich vor der Auswahl des ICD-10-GM-Kodes die Verschlüsselungsanleitung des BfArM für den ICD-10-GM- Kode „H28.0“  anzeigen. Sofern ein Hinweis angezeigt wird, soll:  Der ICD-10-GM-Kode E10.31 mit der Diagnosen sicherheit „G“  kodiert werden. P11-740 - Anzeige von Verschlüsselungsanleitungen zu einem ICD -10-GM-Kode P11-700  Einsatzpflicht P10-460 Sekundärkode mit "*" (Stern) oder „!“ (Ausrufezeichen) Der Anwender lässt sich die gesamthaften Einträge der Verschlüsselungsanleitung des BfArMs anzeigen, ohne Bezug zu einem ICD-10-GM-Kode.  Anforderungen ist, dass die Verschlüsselungsanleitung in das System integriert ist. aus der Verschlüsselungsanleitung aus - /aufgeklappt wird. P11-700  Einsatzpflicht P11-750  Gesamthafte Anzeige der Verschlüsselungsanleitung des BfArM
 
@@ -615,20 +615,20 @@ In diesem Kapitel werden die Prüffälle für Systeme definiert, welche ausschli
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF11 |
+| Prüffall-ID | PF 11 |
 | Testziel | Übersicht und Konfiguration der behandlungsfallbezogenen |
 | Voraussetzung |  |
-| Aktion | sollen  Hinweis: Bitte achten Sie darauf, dass alle Texte (z.B. Diagnosenklartext, |
+| Aktion | sollen    Hinweis: Bitte achten Sie darauf, dass alle Texte (z.B. Diagnosenklartext, |
 | Einzureichende | Dokumentieren Sie durch ein Video die kompletten Konfigurationsschritte |
-| Geprüfte | Insbesondere folgende Pflichtfunktionen sind betroffen: › › 1. a)    Prüffall-ID Übersicht und Konfiguration der behandlungsfallbezogenen Voraussetzung 1. 2. b) |
+| Geprüfte | Insbesondere folgende Pflichtfunktionen sind betroffen:  › › 1. a)       Prüffall-ID  Übersicht und Konfiguration der behandlungsfallbezogenen  Voraussetzung  1. 2. b) |
 
 | sollen | Hinweis: Bitte achten Sie darauf, dass alle Texte (z.B. Diagnosenklartext, |
 |---|---|
-| Einzureichende Dokumentieren Sie durch ein Video die kompletten Konfigurationsschritte |  |
-| Geprüfte Insbesondere folgende Pflichtfunktionen sind betroffen: | › |
+| Einzureichende  Dokumentieren Sie durch ein Video die kompletten Konfigurationsschritte |  |
+| Geprüfte  Insbesondere folgende Pflichtfunktionen sind betroffen: | › |
 | › |  |
 |  |  |
-|  | Prüffall-ID PF12 |
+|  | Prüffall-ID  PF12 |
 | Testziel | Anwendung von behandlungsfallbezogenen Kodierregeln 1. 2. a) b) c) 3. a) b) c) |
 
 |  |  |
@@ -650,7 +650,7 @@ Aktion Prüfunterlagen Anforderungen Zur Konfiguration aller behandlungsfallbezo
 | h) |  |
 | i) | › |
 |  |  |
-|  | Prüffall-ID PF13 c) d) e) f) g) h) i) 2. 3. |
+|  | Prüffall-ID  PF 13  c) d) e) f) g) h) i) 2. 3. |
 
 |  |  |
 |---|---|
@@ -660,20 +660,20 @@ Aktion Prüfunterlagen Anforderungen Zur Konfiguration aller behandlungsfallbezo
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF13 |
+| Prüffall-ID | PF 13 |
 | Testziel | Prüfen und sicherstellen, dass ein vom Anwender |
 | Voraussetzung |  |
-| Aktion | Diagnosensicherheit: G Diagnosensicherheit: G |
+| Aktion | Diagnosensicherheit: G  Diagnosensicherheit: G |
 
-ICD-10-GM-Kode: I63.5  Diagnosensicherheit: G ICD-10-GM-Kode: I21.9 Diagnosensicherheit: G ICD-10-GM-Kode: I10.90 Diagnosensicherheit: G ICD-10-GM-Kode: J44.90 Diagnosensicherheit: G ICD-10-GM-Kode: T88.7 Diagnosensicherheit: G ICD-10-GM-Kode: I11.00 Diagnosensicherheit: G ICD-10-GM-Kode: G46.0 Diagnosensicherheit: G  Es soll als zusätzliche Erläuterung der Text Herzinsuffizienz“ zu der Behandlungsdiagnose I11.00 G für die Abrechnung erfasst werden.  Sofern Korrekturhinweise durch eine Kodierregel angezeigt werden, soll vom Anwender frei entschieden werden, welche Änderung vorgenommen wird. Einzureichende Dokumentieren Sie durch ein Video die Prüfunterlagen einer möglichen Hinweissteuerung. Geprüfte KP10-700  - Ausführung der behandlungsfallbezogenen Kodierregeln Anforderungen KP10-710  - Validierung von Behandlungsdiagnosen gegen die behandlungsfallbezogenen Kodierregeln KP10-750  - Erzeugung eines Hinweises und Korrekturvorschlages Verarbeitung und Anzeige des Korrekturvorschlages 770  oder KP10-780 „Hypertonie ursächlich für Schritte einschließlich der Ergebnisse nach gemäß KP10-760  oder KP10- Testziel Voraussetzung Aktion Prüfen und sicherstellen, dass ein vom Anwender der aktuellen ICD-10-GM-Stammdatei vorhanden ist. Der Anwender erfasst für Leonie Gonzales im Rahmen der Behandlung die folgenden ICD-10-GM-Kodes. Sofern ein ICD-10-GM-Kode nicht existiert, soll dieser wieder aus der Dokumentation entfernt werden ICD-10-GM-Kode: X17.4  Diagnosensicherheit: G ICD-10-GM-Kode: E66.00 eingegebener ICD-10-GM-Kode in
+ICD-10-GM-Kode: I63.5  Diagnosensicherheit: G ICD-10-GM-Kode: I21.9 Diagnosensicherheit: G ICD-10-GM-Kode: I10.90 Diagnosensicherheit: G ICD-10-GM-Kode: J44.90 Diagnosensicherheit: G ICD-10-GM-Kode: T88.7 Diagnosensicherheit: G ICD-10-GM-Kode: I11.00 Diagnosensicherheit: G ICD-10-GM-Kode: G46.0 Diagnosensicherheit: G  Es soll als zusätzliche Erläuterung der Text Herzinsuffizienz“ zu der Behandlungsdiagnose I11.00 G für die Abrechnung erfasst werden.  Sofern Korrekturhinweise durch eine Kodierregel angezeigt werden, soll vom Anwender frei entschieden werden, welche Änderung vorgenommen wird. Einzureichende Dokumentieren Sie durch ein Video die Prüfunterlagen einer möglichen Hinweissteuerung. Geprüfte KP10-700  - Ausführung der behandlungsfallbezogenen Kodierregeln Anforderungen KP10-710  - Validierung von Behandlungsdiagnosen gegen die behandlungsfallbezogenen Kodierregeln KP 10-750  - Erzeugung eines Hinweises und Korrekturvorschlages Verarbeitung und Anzeige des Korrekturvorschlages 770  oder KP10-780 „Hypertonie ursächlich für Schritte einschließlich der Ergebnisse nach gemäß KP10-760  oder KP10- Testziel Voraussetzung Aktion Prüfen und sicherstellen, dass ein vom Anwender der aktuellen ICD-10-GM-Stammdatei vorhanden ist. Der Anwender erfasst für Leonie Gonzales im Rahmen der Behandlung die folgenden ICD-10-GM-Kodes. Sofern ein ICD-10-GM-Kode nicht existiert, soll dieser wieder aus der Dokumentation entfernt werden ICD-10-GM-Kode: X17.4  Diagnosensicherheit: G ICD-10-GM-Kode: E66.00 eingegebener ICD-10-GM-Kode in
 
 ---
 
 |  |  |
 |---|---|
-|  | Diagnosensicherheit: V Diagnosensicherheit: V Diagnosensicherheit: G  Prüfunterlagen › › |
+|  | Diagnosensicherheit: V  Diagnosensicherheit: V  Diagnosensicherheit: G   Prüfunterlagen  › › |
 |  |  |
-|  | Prüffall-ID PF14 Einzureichende Dokumentieren Sie durch ein Video die Schritte einschließlich der Ergebnisse nach Geprüfte c) d) e) |
+|  | Prüffall-ID  PF14  Einzureichende  Dokumentieren Sie durch ein Video die Schritte einschließlich der Ergebnisse nach  Geprüfte  c) d) e) |
 
 |  |  |
 |---|---|
@@ -682,11 +682,11 @@ ICD-10-GM-Kode: I63.5  Diagnosensicherheit: G ICD-10-GM-Kode: I21.9 Diagnosensic
 | Voraussetzung |  |
 | Aktion | Diagnosensicherheit: G |
 | Einzureichende | Dokumentieren Sie durch ein Video die Schritte einschließlich der Ergebnisse nach |
-| Geprüfte | › › › › › › › › › ›    Prüffall-ID PF14 Testziel Freitextsuche, Anzeige der Verschlüsselungsanleitung des BfArM und die Ausführung |
+| Geprüfte | › › › › › › › › › ›       Prüffall-ID  PF14  Testziel  Freitextsuche, Anzeige der Verschlüsselungsanleitung des BfArM und die Ausführung |
 
 Anforderungen Testziel Voraussetzung Aktion Anforderungen ICD-10-GM-Kode: C61  ICD-10-GM-Kode: B05.4  ICD-10-GM-Kode: E42 Dokumentieren Sie durch Screenshots die Meldung des Systems P10-430  Existenzprüfung P10-480  - Altersgruppenbezug von ICD P10-470  - Geschlechtsbezug von ICD-10-GM-Kodes P10-500  - IfSG-Meldung P10-490  - Seltene Diagnosen in Mitteleuropa -10-GM-Kodes Freitextsuche, Anzeige der Verschlüsselungsanleitung des BfArM und die Ausführung von behandlungsfallbezogenen Kodierregeln 1. Der Anwender sucht für den Patienten Rodrigo Gonzales mittels einer Freitext- Suche nach einem passenden ICD-10-GM- Kode mit dem Text „ Katarakt 2. Der Anwender erfasst den ICD-10-GM- Kode „ H28.0 “ mit der Diagnosen „G“ für die Abrechnung und lässt sich vor der Auswahl des ICD Verschlüsselungsanleitung des BfArM für den ICD -10-GM-Kode 3. Sofern Hinweise angezeigt werden, soll:  a) Der ICD-10-GM-Kode E10.31 mit der Diagnosen sicherheit „G“ 4. Der Anwender erfasst für Rodrigo Gonzales im Rahmen der Behandlung den weiteren ICD-10-GM-Kodes: a) ICD-10-GM-Kode:  E12.80 5. Sofern Korrekturhinweise aufgrund einer Kodierregel angezeigt werden, soll: a) der ICD-10-GM-Kode E12.80 mit der Diagnosen sicherheit „G“ einer möglichen Hinweissteuerung. P11-740 - Anzeige von Verschlüsselungsanleitungen zu einem ICD P11-700  Einsatzpflicht Diabetische -10-GM-Kodes die „H28.0“  anzeigen.   kodiert werden.  gelöscht werden -10-GM-Kode P10-460 Sekundärkode mit "*" (Stern) oder „!“ (Ausrufezeichen) KP10-700  - Ausführung der behandlungsfallbezogene KP10-750  - Erzeugung eines Hinweises und Korrekturvorschlages KP10-760  - Verarbeitung und Anzeige des Korrekturvorschlages vom Typ „DELETE“ n Kodierregeln |  |  |
 |---|---|
-|  | Diagnosensicherheit: V Diagnosensicherheit: V Diagnosensicherheit: G |
+|  | Diagnosensicherheit: V  Diagnosensicherheit: V  Diagnosensicherheit: G |
 | Prüfunterlagen | Dokumentieren Sie durch Screenshots die Meldung des Systems |
 | Geprüfte | › › › › › 1. 2. 3. a) 4. a) 5. a) |
 
@@ -709,9 +709,9 @@ Anforderungen Testziel Voraussetzung Aktion Anforderungen ICD-10-GM-Kode: C61  I
 | 2. | Einzureichende |
 | Dokumentieren Sie durch ein Video die Schritte einschließlich der Ergebnisse nach |  |
 |  | Prüffall-ID |
-| PF16 | Testziel Ausführung von behandlungsfallbezogenen Voraussetzung Die vorangegangenen Prüffälle wurden durchgeführt. 1. a)  b)  c)  d)  e)  f)  g)  2. |
+| PF16 | Testziel  Ausführung von behandlungsfallbezogenen  Voraussetzung  Die vorangegangenen Prüffälle wurden durchgeführt.  1. a)   b)   c)   d)   e)   f)   g)   2. |
 
-Aktion Prüfunterlagen Geprüfte Anforderungen Der Patient Viktor Werner wird bei dem Arzt behandelt. Es sollen die folgenden ICD-10-GM-Kodes als Behandlungsdiagnosen für die Abrechnung erfasst werden: ICD-10-GM-Kode: E11.40  Diagnosensicherheit: G ICD-10-GM-Kode: I25.12  Diagnosensicherheit: G ICD-10-GM-Kode: I60.7 Diagnosensicherheit: G ICD-10-GM-Kode: I21.9 Diagnosensicherheit: Z ICD-10-GM-Kode: I10.90 Diagnosensicherheit: G  ICD-10-GM-Kode: J30.1 Diagnosensicherheit: G ICD-10-GM-Kode: L24.2 Diagnosensicherheit: G Sofern Korrekturhinweise durch eine Kodierregel angezeigt werden, soll vom Anwender frei entschieden werden, welche Änderung vorgenommen wird. einer möglichen Hinweissteuerung. KP10-700  - Ausführung der behandlungsfallbezogenen Kodierregeln KP10-750  - Erzeugung eines Hinweises und Korrekturvorschlages Verarbeitung und Anzeige des Korrekturvorschlages gemäß KP10-760  oder KP10- 770  oder KP10-780 Kodierregeln mit dem Prüfzeitpunkt „zur Abrechnung“. Es soll die Abrechnung für alle in den Prüffällen erfassten Patienten erstellt werden. Sofern Korrekturhinweise durch eine Kodierregel angezeigt werden, soll vom Anwender frei entschieden werden, welche Änderung vorgenommen wird|  |  |
+Aktion Prüfunterlagen Geprüfte Anforderungen Der Patient Viktor Werner wird bei dem Arzt behandelt. Es sollen die folgenden ICD-10-GM-Kodes als Behandlungsdiagnosen für die Abrechnung erfasst werden: ICD-10-GM-Kode: E11.40  Diagnosensicherheit: G ICD-10-GM-Kode: I25.12  Diagnosensicherheit: G ICD-10-GM-Kode: I60.7 Diagnosensicherheit: G ICD-10-GM-Kode: I21.9 Diagnosensicherheit: Z ICD-10-GM-Kode: I10.90 Diagnosensicherheit: G  ICD-10-GM-Kode: J30.1 Diagnosensicherheit: G ICD-10-GM-Kode: L24.2 Diagnosensicherheit: G Sofern Korrekturhinweise durch eine Kodierregel angezeigt werden, soll vom Anwender frei entschieden werden, welche Änderung vorgenommen wird. einer möglichen Hinweissteuerung. KP10-700  - Ausführung der behandlungsfallbezogenen Kodierregeln KP10-750  - Erzeugung eines Hinweises und Korrekturvorschlages Verarbeitung und Anzeige des Korrekturvorschlages gemäß KP10-760  oder KP 10- 770  oder KP10-780 Kodierregeln mit dem Prüfzeitpunkt „zur Abrechnung“. Es soll die Abrechnung für alle in den Prüffällen erfassten Patienten erstellt werden. Sofern Korrekturhinweise durch eine Kodierregel angezeigt werden, soll vom Anwender frei entschieden werden, welche Änderung vorgenommen wird|  |  |
 |---|---|
 | Prüffall-ID | PF16 |
 | Testziel | Ausführung von behandlungsfallbezogenen |
@@ -732,7 +732,7 @@ Aktion Prüfunterlagen Geprüfte Anforderungen Der Patient Viktor Werner wird be
 | Testziel | Anzeige der gesamthaften Verschlüsselungsanleitungen des BfArMs in der Übersicht |
 | Voraussetzung |  |
 | Aktion |  |
-| Einzureichende | Dokumentieren Sie das Ergebnis der Anzeige in Screenshots, aus welchen ersichtlich Beispielsweise kann dies durch die Darstellung nachgewiesen werden, wie ein Kapitel |
+| Einzureichende | Dokumentieren Sie das Ergebnis der Anzeige in Screenshots, aus welchen ersichtlich  Beispielsweise kann dies durch die Darstellung nachgewiesen werden, wie ein Kapitel |
 | Geprüfte | › › |
 
 Prüfunterlagen Anforderungen Prüffall-ID Testziel Voraussetzung Aktion einer möglichen Hinweissteuerung. KP10-700  Ausführung der behandlungsfallbezogenen Kodierregeln KP10-720  Ausführung der quartalsübergreifenden Kodierregeln KP10-740  Übersichtsanzeige Kodierregeln KP10-750  Erzeugung eines Hinweises und Korrekturvorschlages Verarbeitung und Anzeige des Korrekturvorschlages gemäß KP10-760  oder KP10- 770  oder KP10-780 PF17 Anzeige der gesamthaften Verschlüsselungsanleitungen des BfArMs in der Übersicht Der Anwender lässt sich die gesamthaften Einträge der Verschlüsselungsanleitung des BfArMs anzeigen, ohne Bezug zu einem ICD-10-GM-Kode.  Prüfunterlagen Anforderungen ist, dass die Verschlüsselungsanleitung in das System integriert ist. aus der Verschlüsselungsanleitung aus- /aufgeklappt wird. P11-700  Einsatzpflicht P11-750  Gesamthafte Anzeige der Verschlüsselungsanleitung des BfArM
@@ -746,8 +746,8 @@ Prüfunterlagen Anforderungen Prüffall-ID Testziel Voraussetzung Aktion einer m
 |---|---|
 | Referenz | Dokument |
 | [KBV_ITA_RLEX_Zert] | Zertifizierungsrichtlinie der KBV |
-| [KBV_ITA_VGEX_ANFORDERUNGSKATALOG_ICD | Anforderungskatalog zur Anwendung der ICD-10-GM |
-| [KBV_ITA_FMEX_AAZ_Kodierunterstuetzung ] | Antrag auf Zertifizierung |
+| [KBV_ITA_VGEX_ANFORDERUNGSKATALOG_ICD | Anforderungskatalog zur  Anwendung der ICD-10-GM |
+| [KBV_ITA_FMEX_AAZ_Kodierunterstuetzung] | Antrag auf Zertifizierung |
 | [KBV_ITA_VGEX_Schnittstelle_SDICD] | Datensatzbeschreibung ICD-10-GM- |
 | [KBV_ITA_VGEX_Schnittstelle_SDKH] | Stammdatei Kodierhilfe (SDKH), in aktueller |
 | [KBV_ITA_VGEX_Schnittstelle_SDKRW] | Stammdatei Kodierregelwerk (SDKRW), in |

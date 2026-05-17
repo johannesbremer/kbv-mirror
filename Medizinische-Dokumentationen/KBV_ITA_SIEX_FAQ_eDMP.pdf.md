@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 15. AUGUST 2023 VERSION 1.0 DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT 15. AUGUST 2023  VERSION 1.0  DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # FAQ FÜR SOFTWAREHERSTELLER ZU  DEN EDMP ANFORDERUNGEN
@@ -18,7 +18,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.0 | 15.08.2023 | KBV | Erstellung des FAQ-Dokumentes | Konkretisierung der Beantwortung | alle |
+| 1.0 | 15.08.2023 | KBV | Erstellung des FAQ-Dokumentes | Konkretisierung der  Beantwortung | alle |
 
 neuen Anforderungen häufig gestellter Fragen
 
@@ -123,3 +123,5 @@ Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 Kassenärztliche Bundesvereinigung
 
 Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+
+/ 15. August 2023

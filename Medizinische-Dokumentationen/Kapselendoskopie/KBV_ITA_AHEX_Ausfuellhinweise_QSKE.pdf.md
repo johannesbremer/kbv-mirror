@@ -25,7 +25,7 @@ Version  Datum: Kennzeichnung:  Öffentlich  Status:    In Kraft
 | 1.01 | 21.01.2015 KBV |  | Redaktionelle Korrekturen | Überarbeitung der |  |
 | 1.00 | 10.11.2014 KBV |  | Initiales Dokument |  |  |
 
-1.01
+1 01
 
 Ausfüllhinweise
 
@@ -43,6 +43,10 @@ Ausfüllhinweise
 
 **3** **REFERENZIERTE DOKUMENTE __________________________________________ 7**
 
+**IT in der Arztpraxis**
+
+1 01
+
 
 ---
 
@@ -56,14 +60,20 @@ sind. Nachfolgend erhalten Sie Erläuterungen zu den einzelnen Eingabedaten, wel
 
 ### Dokumentation dem Anwender zur Verfügung gestellt werden dürfen.
 
+**IT in der Arztpraxis**
+
+1 01
+
 
 ---
 
+**IT in der Arztpraxis**
+
 **2 Eingabedaten**
 
-| Nr. gem. Plausi- [KBV_ITA_VGEX_ | Ausfüllhinweis |
+| Nr.  gem. Plausi- [KBV_ITA_VGEX_ | Ausfüllhinweis |
 |---|---|
-| 1.a | Eine Erstuntersuchung ist jede Untersuchung zur Abklärung einer Fragestellung obskurer Blutungen. Eine Wiederholungsuntersuch Eine Untersuchung im Rahmen einer Verlaufskontrolle ist  In der Jahresstatistik sind die Untersuchungen zu erfassen, bei denen Sie die Kapsel appliziert haben. Falls Sie Kapseln appl  Die Summe der Erst- und Wiederholungsuntersuchungen entspricht der Summe der insgesamt in dieser Betriebsstätte applizierte |
+| 1.a | Eine Erstuntersuchung ist jede Untersuchung zur Abklärung einer Fragestellung obskurer Blutungen. Eine Wiederholungsuntersuch Eine Untersuchung im Rahmen einer Verlaufskontrolle ist    In der Jahresstatistik sind die Untersuchungen zu erfassen, bei denen Sie die Kapsel appliziert haben. Falls Sie Kapseln appl   Die Summe der Erst- und Wiederholungsuntersuchungen entspricht der Summe der insgesamt in dieser Betriebsstätte applizierte |
 | 1.b | |
 | 2.a | Zu den durchgeführten Untersuchungen im Berichtsjahr sind Angaben zur Auslassmöglichkeit einer ggf. vorhandenen |
 | 2.b | |
@@ -84,14 +94,16 @@ sind. Nachfolgend erhalten Sie Erläuterungen zu den einzelnen Eingabedaten, wel
 | In der Jahresstatistik sind die Untersuchungen zu erfassen, bei denen Sie die Kapsel appliziert haben. Falls Sie Kapseln appl | |
 | Die Summe der Erst- und Wiederholungsuntersuchungen entspricht der Summe der insgesamt in dieser Betriebsstätte applizierte | 1.b |
 
+1.01
+
 Katalog Plausi_QSKE] vor, wenn die Untersuchung aufgrund mangelnder Beurteilbarkeit oder Unvollständigkeit nochmals notwendig ist. keine  Wiederholungs-, sondern eine Erstuntersuchung. diese von einem anderen Arzt ausgewertet wurden, müssen Sie als Applizierer die Befunddaten dieser Untersuchungen in ihre Statistik übernehmen. abgerechneten Kapselendoskopien. blutungsfördernden Medikation zu dokumentieren. Auswertungen sie beauftragt haben. Arzt übermitteln und dürfen hier die Anzahl der an sie beauftragten Auswertungen beauftragt worden waren, durch Übernahme der Angaben des beauftragten Auswerters, in der Jahresstatistik dokumentieren. jeweiligen Auswerter anzugeben. beauftragt worden waren, durch Übernahme der Angaben des beauftragten Auswerters, in der Jahresstatistik dokumentieren. efunde an den applizierenden (= beauftragenden) nicht  eintragen. einen eigenen Auswertungen, oder falls diese ung liegt iziert haben, aber n und den.   vom
 
 ---
 
-| 6.a Zu den im Berichtsjahr durchgeführten Kapselendoskopien sind Angaben zur Vollständigkeit der Untersuchung vom jeweiligen Ausw Der Applizierer soll für alle Kapselendoskopien Angaben in Bezug auf die Vollständigkeit aus seinen eigenen Auswertungen, oder falls diese |  |
+| 6.a  Zu den im Berichtsjahr durchgeführten Kapselendoskopien sind Angaben zur Vollständigkeit der Untersuchung vom jeweiligen Ausw Der Applizierer soll für alle Kapselendoskopien Angaben in Bezug auf die Vollständigkeit aus seinen eigenen Auswertungen, oder falls diese |  |
 |---|---|
-|  | 6.b.III 6.b.IV 7 |
-| Zu den im Berichtsjahr durchgeführten Kapselendoskopien sind Angaben zur Notwendigkeit einer Wiederholungsuntersuchung vom je Der Applizierer soll für alle Kapselendoskopien Angaben in Bezug auf die Notwendigkeit einer Wiederholungsuntersuchung aus seinen Die Notwendigkeit von Wiederholungsuntersuchungen kann sich ausschließlich aufgrund eingeschränkter Beurteilbarkeit (5.b) bzw | |
+|  | 6.b.III  6.b.IV  7 |
+| Zu den im Berichtsjahr durchgeführten Kapselendoskopien sind Angaben zur Notwendigkeit einer Wiederholungsuntersuchung vom je Der Applizierer soll für alle Kapselendoskopien Angaben in Bezug auf die Notwendigkeit einer Wiederholungsuntersuchung aus seinen  Die Notwendigkeit von Wiederholungsuntersuchungen kann sich ausschließlich aufgrund eingeschränkter Beurteilbarkeit (5.b) bzw | |
 |  |  |
 |  | |
 |  | |
@@ -109,16 +121,24 @@ Katalog Plausi_QSKE] vor, wenn die Untersuchung aufgrund mangelnder Beurteilbark
 | 6.b.II | |
 | 6.b.III | |
 | 6.b.IV | |
-| 7 | Zu den im Berichtsjahr durchgeführten Kapselendoskopien sind Angaben zur Notwendigkeit einer Wiederholungsuntersuchung vom je Der Applizierer soll für alle Kapselendoskopien Angaben in Bezug auf die Notwendigkeit einer Wiederholungsuntersuchung aus seinen Die Notwendigkeit von Wiederholungsuntersuchungen kann sich ausschließlich aufgrund eingeschränkter Beurteilbarkeit (5.b) bzw |
+| 7 | Zu den im Berichtsjahr durchgeführten Kapselendoskopien sind Angaben zur Notwendigkeit einer Wiederholungsuntersuchung vom je Der Applizierer soll für alle Kapselendoskopien Angaben in Bezug auf die Notwendigkeit einer Wiederholungsuntersuchung aus seinen  Die Notwendigkeit von Wiederholungsuntersuchungen kann sich ausschließlich aufgrund eingeschränkter Beurteilbarkeit (5.b) bzw |
+
+**IT in der Arztpraxis**
+
+1.01
 
 erter anzugeben.  beauftragt worden waren, durch Übernahme der Angaben des Auswerters, in der Jahresstatistik zu dokumentieren. Auswerter anzugeben. eigenen Auswertungen, oder falls diese beauftragt worden waren, durch Übernahme der Angaben des Auswerters, in der Jahresstat istik zu dokumentieren. Vollständigkeit (6.b) der Untersuchungen ergeben. Eine empfohlene Untersuchung im Rahmen einer Verlaufskontrolle ist keine Wiederholungsuntersuchung.
 
 ---
 
+**IT in der Arztpraxis**
+
 # 3 Referenzierte Dokumente
 
 | Referenz | Dokument |
 |---|---|
-| [1] | Qualitätssicherungsvereinbarung Kapselendoskopie |
+| [1] | Qualitätssicherungsvereinbarung  Kapselendoskopie |
 | [KBV_ITA_VGEX_Anforderungskatalog_QSKE] | Anforderungskatalog |
 | [KBV_ITA_VGEX_Plausi_QSKE] | Berechnungsvorschriften zur Jahresstatistik für |
+
+1 01

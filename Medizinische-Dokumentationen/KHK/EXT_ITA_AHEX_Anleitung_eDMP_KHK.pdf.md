@@ -176,15 +176,15 @@ Tabelle: Übersicht Statindosierungen (aus: Tragende Gründe 18. Änd. DMP-A-RL)
 
 | Intensität | Statin und Dosierung |
 |---|---|
-| Niedrig (relative LDL-Reduktion < 30%) | Lovastatin 20 mg |
+| Niedrig  (relative LDL-Reduktion < 30%) | Lovastatin 20 mg |
 |  | Pravastatin 10-20 mg |
 |  | Simvastatin 10 mg |
-| Moderat (relative LDL-Reduktion 30 - 49%) | Atorvastatin 10-20 mg |
+| Moderat  (relative LDL-Reduktion 30 - 49%) | Atorvastatin 10-20 mg |
 |  | Rosuvastatin 5-10 mg |
 |  | Simvastatin 20-40 mg |
 |  | Pravastatin 40-80 mg |
 |  | Lovastatin 40 mg |
-| Hoch (relative LDL- | Atorvastatin 40-80 mg |
+| Hoch  (relative LDL- | Atorvastatin 40-80 mg |
 |  | Rosuvastatin 20-40 mg |
 
 #### Aktuelle Therapiestrategie Statin
@@ -307,13 +307,11 @@ an. Bitte beachten Sie: Diese Angabe kann bei wiederholter Angabe zum Ausschluss
 
 Versicherten aus dem Programm führen!
 
-Sollten Sie bei der letzten Dokumentation keine Schulung empfohlen haben, geben Sie dies bitte  mit Bei letzter Dokumentation keine Schulung
+Sollten Sie bei der letzten Dokumentation keine Schulung empfohlen haben, geben Sie dies bitte  mit Bei letzter Dokumentation keine Schulung empfohlen“ an.
 
-|  | empfohlen“ | an. |  |
-|---|---|---|---|
-| möglich“ | und | „Bei letzter | Dokume |
+Die Angaben „Ja“, „War aktuell nicht möglich“ und „Bei letzter Dokume ntation keine Schulung
 
-Die Angaben „Ja“, „War aktuell nicht möglich“ und „Bei letzter Dokume empfohlen“ führen nicht zum Ausschluss der Patientin oder des Patienten aus dem Programm.
+empfohlen“ führen nicht zum Ausschluss der Patientin oder des Patienten aus dem Programm.
 
 #### Regelmäßiges sportliches Training
 
@@ -345,4 +343,4 @@ Sollte aus einem für Sie nachvollziehbaren Grund regelmäßiges sportliches Tra
 
 nachvollziehbaren Gründe bestehen.
 
-ntation keine Schulung ## Behandlungsplan
+## Behandlungsplan

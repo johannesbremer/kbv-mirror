@@ -4,9 +4,9 @@
 
 **IT IN DER ARZTPRAXIS**
 
-**16. APRIL 2026**
+**13. MAI 2026**
 
-**VERSION 2.3**
+**VERSION 2.4**
 
 **DOKUMENTENSTATUS: IN KRAFT**
 
@@ -21,10 +21,11 @@
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 2.3 | 16.04.2026 | KBV | Ergänzung der Fragestellung zur  Vereinheitlichung der Antwort  Aktualisierung der Information |  | 12   12   9 |
-| 2.2 | 02.09.2025 | KBV | Ergänzung der Liste mit den zu  Anpassung der Frage zur Länge  Streichung der Fragen zur  Ergänzung der Fragestellung zu  Ergänzung der Fragestellung zu |  | 4    12    f  12   13 |
+| 2.4 | 13.05.2026 | KBV | Ergänzung der Antwort zu    Ergänzung der Antwort zu PZN-   Klarstellung der Fragestellung |  | 10          12        11 |
+| 2.3 | 16.04.2026 | KBV | Ergänzung der Fragestellung zur    Vereinheitlichung der Antwort    Aktualisierung der Information |  | 11      11      9 |
+| 2.2 | 02.09.2025 | KBV | Ergänzung der Liste mit den zu    Anpassung der Frage zur Länge    Streichung der Fragen zur    Ergänzung der Fragestellung zu    Ergänzung der Fragestellung zu |  | 4        11        f    11      12 |
 
-Länge von Wirkstoffnamen  zur Länge des Handelsnamens und des Wirkstoffnamens zur Ermittlung der postalischen Adresse zum eAU Versand ignorierenden Meldungen beim eRezept des Handelsnamens Packungsgröße, zur VersichertenID, zur Herstellungsanweisung einer Rezeptur und zur Verschreiber- ID Kombipackungen PZN-Verordnungen ohne Wirkstoffinformationen
+Teilverordnungen einer Mehrfachverordnung auf dem Patientenausdruck Verordnungen mit nicht vorhandenen Wirkstoffen zur Länge von Wirkstoffnamen Länge von Wirkstoffnamen  zur Länge des Handelsnamens und des Wirkstoffnamens zur Ermittlung der postalischen Adresse zum eAU Versand ignorierenden Meldungen beim eRezept des Handelsnamens Packungsgröße, zur VersichertenID, zur Herstellungsanweisung einer Rezeptur und zur Verschreiber- ID Kombipackungen PZN-Verordnungen ohne Wirkstoffinformationen
 
 
 ---
@@ -118,7 +119,7 @@ ignorierenden Meldungen bereit. Zahlen von Array-Angaben bspw. entry[0] können 
 | 2) | Information @ Bundle.entry[4].resource.ofType |
 | 3) | Information @ Bundle.entry[6].resource.ofType(Coverage).type (line 366, col11): Keiner der |
 | 4) | Information @ Bundle.entry[6].resource.ofType(Condition).code.coding[0] : Code System URI |
-| 5) | Warning @ value: Wert sollte nicht mit Leerzeichen beginnen oder enden  Diese Meldung tritt auf, wenn |
+| 5) | Warning @ value: Wert sollte nicht mit Leerzeichen beginnen oder enden   Diese Meldung tritt auf, wenn |
 
 Composition).type (line 28, col11): Keiner der angegebenen Codes ist im Valueset 'FHIR Document Type Codes' (http://hl7.org/fhir/ValueSet/doc-typecodes|4.0.1), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = e010) (Practitioner).qualification[0].code (line 266, col12): Keiner der angegebenen Codes ist im Valueset 'Practitioner Speciality' (https://fhir.kbv.de/ValueSet/KBV_VS_Base_Practitioner_Speciality|1.3.0), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Qualification_Type#00) angegebenen Codes ist im Valueset 'Coverage Type and Self -Pay Codes' (http://hl7.org/fhir/ValueSet/coverage -type|4.0.1), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = http://fhir.de/CodeSystem/versicherungsart -de- basis#GKV) "http://fhir.de/CodeSystem/dimdi/icd -10-gm" ist unbekannt, so dass der Code nicht validiert werden kann  ein Wert (z.B. Zeichenkette/String) vorangestellte oder hintenangestellte Leerzeichen enthält.
 
@@ -131,7 +132,7 @@ Composition).type (line 28, col11): Keiner der angegebenen Codes ist im Valueset
 | 3) | Information @ Bundle.entry[6].resource.ofType(Coverage).type (line 366, col11): Keiner der |
 | 4) | Information @ Bundle.entry[2].resource.ofType(Medication).code.coding[0] (line 170, col14): |
 | 5) | Information @ |
-| 6) | Warning @ value: Wert sollte nicht mit Leerzeichen beginnen oder enden  Diese Meldung tritt auf, wenn ein Wert (z.B. Zeichenkette/String) vorangestellte oder |
+| 6) | Warning @ value: Wert sollte nicht mit Leerzeichen beginnen oder enden   Diese Meldung tritt auf, wenn ein Wert (z.B. Zeichenkette/String) vorangestellte oder |
 | 7) | Information @ Bundle.entry[4].resource/*Practitioner/bc329f24 |
 | 8) | Information @ Bundle.entry[5].resource/*Practitioner/cb7558e2 |
 | 9) | Warning @ Bundle.entry[5].resource/*Practitioner/cb7558e2 |
@@ -164,11 +165,9 @@ reference.value: „urn:uuid:<id>“
 
 fullUrl.value: „urn:uuid:<id>“
 
--Spezifikation beachtet und
-
 [https://www.hl7.org/fhir/bundle.html](https://www.hl7.org/fhir/bundle.html)
 
-## -Dateien beachtet
+## -Dateien beachtet -Spezifikation beachtet und
 
 im
 
@@ -295,31 +294,23 @@ Ja, diese Funktionalitäten können auch in weiteren Digitalen Mustern eingesetz
 
 ### Antwort der KBV:
 
-Der GKV-SV als Vertretung der gesetzlichen Krankenkassen hat zur Ermittlung der korrekten postalischen  Adressen der Krankenkassen auf seiner Webseite die Informationen in der Beitragssatzdatei für die eAU
+Der GKV-SV als Vertretung der gesetzlichen Krankenkassen hat zur Ermittlung der korrekten postalischen  Adressen der Krankenkassen auf seiner Webseite unter der URL [https://gkv-](https://gkv-)
 
-veröffentlicht. Sie finden die Beitragssatzdatei unter der URL [https://gkv-](https://gkv-)
+ag.de/datenaustausch/stammdatendatei/ veröffentlicht.
 
-ag.de/beitragssaetze/beitragssatzdatei/ [https://gkv-ag.de/datenaustausch/stammdatendatei/](https://gkv-ag.de/datenaustausch/stammdatendatei/)
+Die korrekte Versandadresse kann aus der entsprechenden Stammdatei ermittelt werden:
 
-veröffentlicht.
+Identifizierung des relevanten Kostenträgers über die Suche des „IK des zuständigen Kostenträgers laut  eGK“ im XML-Element */Einzugsstelle/Adressdaten/Ik/Iknr.*
 
-Die korrekte Versandadresse kann aus der Beitragssatzdatei entsprechenden Stammdatei wie folgt
+Nachdem der korrekte XML-Tag* /Einzugsstelle/Adressdaten* identifiziert wurde, muss die für die eAU
 
-ermittelt werden:
+korrekte Versandadresse im Element */Einzugsstelle/Adressdaten/Anschrift_postalisch/* wie folgt
 
-Identifizierung des relevanten Kostenträgers über die Suche des „IK des zuständigen Kostenträgers laut  eGK“ im XML-Element */Beitragssatzdatei/ADR/IK/IKNR. /Einzugsstelle/Adressdaten/Ik/Iknr.*
+identifiziert werden:* /Einzugsstelle/Adressdaten/Anschrift_postalisch/@verfahren = „eAU“*
 
-Nachdem der korrekte XML-Tag* /Beitragssatzdatei/ADR /Einzugsstelle/Adressdaten* identifiziert wurde,
+## Frage: Wohin werden eAU von gesetzlich Versicherten (GKV-Versicherte) gesendet, wenn es sich um
 
-muss die für die eAU korrekte Versandadresse im Element */Beitragssatzdatei/ADR/Anschrift_postalisch/*
-
-*/Einzugsstelle/Adressdaten/Anschrift_postalisch/* wie folgt identifiziert werden:
-
-*/Beitragssatzdatei/ADR/Anschrift_postalisch/@verfahren = „eAU“*
-
-*/Einzugsstelle/Adressdaten/Anschrift_postalisch/@verfahren = „eAU“*
-
-## Frage: Wohin werden eAU von gesetzlich Versicherten (GKV-Versicherte) gesendet, wenn es sich um  einen Fall der Berufsgenossenschaften handelt?
+## einen Fall der Berufsgenossenschaften handelt?
 
 ### Antwort der KBV:
 
@@ -327,10 +318,7 @@ Auch bei Arbeitsunfähigkeitsbescheinigungen, die im Zuständigkeitsbereich der 
 
 Die Krankenkasse leitet bei Bedarf die Daten an die zuständige Berufsgenossenschaft weiter. Dies bedeutet
 
-
----
-
-Hersteller wenden zur Ermittlungen der KIM-Adresse die gleichen Funktionen wie bei einer gesetzlichen
+Hersteller wenden zur Ermittlung der KIM-Adresse die gleichen Funktionen wie bei einer gesetzlichen
 
 Krankenkasse an.
 
@@ -367,13 +355,17 @@ Wenn der Austausch ausgeschlossen ist, muss der Wert „false“ gesetzt sein. I
 
 ### Antwort der KBV:
 
-Eine Mehrfachverordnung kann aus zwei bis vier Teilverordnungen bestehen. Die Pflichtfunktionen in der  technischen Anlage sind in Abhängigkeit der Anzahl Teilverordnung zu bewerten. Zusätzlich ist relevant, ob
+Eine Mehrfachverordnung kann aus zwei bis vier Teilverordnungen bestehen. Ab der Version 1.72 der
 
-neben der Mehrfachverordnung noch weitere Verordnungen im Rahmen des Verordnungsvorgangs eines
+Technischen Anlage E-Rezept gilt, dass der Patientenausdruck bis zu vier Teilverordnungen umfassen muss  (siehe P6-22 Akzeptanzkriterium 1). Bis zur Version 1.71 konnten maximal drei Verordnungen auf einem  Patientenausdruck erfasst werden. Die nachfolgenden Erläuterungen sind demnach überholt und werden  künftig gestrichen. Die Pflichtfunktionen in der technischen Anlage sind in Abhängigkeit von der Anzahl an
 
-Patienten ausgestellt werden. Das Ziel ist einerseits das logische Zusammenhalten der Teilverordnungen
+Teilverordnungen zu bewerten. Zusätzlich ist relevant, ob neben der Mehrfachverordnung noch weitere
 
-einer Mehrfachverordnung und andererseits die Minimierung der notwendigen Ausdrucke.
+Verordnungen im Rahmen des Verordnungsvorgangs eines Patienten ausgestellt werden. Das Ziel ist
+
+einerseits das logische Zusammenhalten der Teilverordnungen einer Mehrfachverordnung und andererseits
+
+die Minimierung der notwendigen Ausdrucke.
 
 Bei einer Mehrfachverordnung aus zwei Teilverordnungen muss, sofern vorhanden, noch eine weitere
 
@@ -412,17 +404,21 @@ Abhängigkeit von der Verordnungssituation (bspw. unter Berücksichtigung der Ei
 
 Entsprechend der Technischen Anlage E-Rezept ist die Länge des Handelsnamens bei einer PZN-Verordnung
 
-auf 100 Zeichen begrenzt. Wenn der Name die maximale Länge überschreitet, soll das System den Namen
+auf 100 Zeichen begrenzt. Sollte ein Handelsname diese Länge überschreiten, so ist dieser auf 97 Zeichen,  gefolgt von drei Punkten zu kürzen.
 
-nach 100 Zeichen abschneiden. Sollte ein Handelsname diese Länge überschreiten, so ist dieser auf 97  Zeichen, gefolgt von drei Punkten zu kürzen.
-
-## Frage: Worauf ist bei der Länge des Wirkstoffnamens zu achten?
+## Frage: Worauf ist bei der Länge des Wirkstoffnamens bei eRezepten zu achten?
 
 ### Antwort der KBV:
 
 Entsprechend der Technischen Anlage E-Rezept ist die Länge des Wirkstoffnamens derzeit auf 80 Zeichen
 
-begrenzt. Sollte ein Wirkstoffname diese Länge überschreiten, so ist dieser auf 77 Zeichen, gefolgt von drei  Punkten zu kürzen.
+begrenzt.
+
+Wenn eine PZN-Verordnung ausgestellt werden sollte und der ein Wirkstoffname diese Länge von 80
+
+Zeichen überschreitet, so ist dieser auf 77 Zeichen, gefolgt von drei Punkten zu kürzen.
+
+Wenn eine Wirkstoffverordnung ausgestellt werden soll und der Wirkstoffname die Länge von 80 Zeichen  überschreitet, dann sollte der Wirkstoffname nicht gekürzt werden, sondern es sollte eine  Freitextverordnung erzeugt werden.
 
 ## Frage: Was ist bei der Verordnung von Kombipackungen zu beachten?
 
@@ -448,6 +444,8 @@ Wenn im Rahmen einer PZN-Verordnung für das zu verordnende Präparat keine Wirk
 den Arzneimittelstammdaten gemäß P2-110 des AMV-Anforderungskataloges vorhanden sind, dann
 
 müssen im Profil KBV_PR_ERP_Medication_PZN Ersatzwerte für Wirkstoff-Angaben übermittelt werden.
+
+Dies gilt jedoch nur für die Profilversion 1.3. Für E-Rezepte ab der Version 1.4 sind keine Ersatzwerte mehr  anzugeben, sondern es gilt die Regelung der Technischen Anlage P36-22 Akzeptanzkriterium 3.d).
 
 Ersatzwerte:
 

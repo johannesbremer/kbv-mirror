@@ -22,7 +22,7 @@
 
 **Version anzuwenden ab:**
 
-# Version: 8.0
+# Version: 8 0
 
 **01.08.2025**
 
@@ -34,16 +34,16 @@
 | Lfd. | Parameter | Ausprägung | Plausibilitätsregeln |
 |---|---|---|---|
 |  | Administrative Daten | | |
-| 1 | DMP-Fallnummer | Nummer | Pflichtfeld; bis zu 7 Stellen; alphanumerische Angabe |
+| 1 | DMP-Fallnummer | Nummer | Pflichtfeld;  bis zu 7 Stellen; alphanumerische Angabe |
 | 2 | Name der/des Versicherten | Nachname, Vorname | Pflichtfeld |
 | 3 | Geburtsdatum der/des | TT.MM.JJJJ | Pflichtfeld; Das Datum muss kleiner dem Datum in Feld |
 | 4 | Kostenträgername | Name der Krankenkasse | Pflichtfeld |
 | 5 | Kostenträgerkennung | 9 bzw. 7-stellige Nummer | Pflichtfeld, 7- oder 9-stellige numerische Angabe |
-| 6 | Versicherten-Nummer | Nummer (bis zu 12 Stellen, alphanumerisch) | Pflichtfeld; bis zu 12 Stellen, alphanumerische Angabe |
-| 7a | Vertragsarzt-Nummer  1 1 | 9-stellige Nummer | Bedingtes Pflichtfeld, 9-stellige numerische Angabe wenn in Feld 8 eine Angabe erfolgt ist, ist hier keine |
-| 7b | Betriebsstätten-Nummer | 9-stellige Nummer | Bedingtes Pflichtfeld, 9-stellige numerische Angabe wenn in Feld 8 eine Angabe erfolgt ist, ist hier keine |
-| 8 | Krankenhaus- | IK-Nummer | Bedingtes Pflichtfeld; neunstellige numerische Angabe - Wenn eine Angabe in Feld 7a und in Feld 7b erfolgt ist, |
-| 9 | Datum  2 2 | TT.MM.JJJJ | Pflichtfeld; das Datum muss gleich oder kleiner zum |
+| 6 | Versicherten-Nummer | Nummer (bis zu 12 Stellen, alphanumerisch) | Pflichtfeld;  bis zu 12 Stellen, alphanumerische Angabe |
+| 7a | Vertragsarzt-Nummer  1 1 | 9-stellige Nummer | Bedingtes Pflichtfeld, 9-stellige numerische Angabe  wenn in Feld 8 eine Angabe erfolgt ist, ist hier keine |
+| 7b | Betriebsstätten-Nummer | 9-stellige Nummer | Bedingtes Pflichtfeld, 9-stellige numerische Angabe  wenn in Feld 8 eine Angabe erfolgt ist, ist hier keine |
+| 8 | Krankenhaus- | IK-Nummer | Bedingtes Pflichtfeld; neunstellige numerische Angabe  - Wenn eine Angabe in Feld 7a und in Feld 7b erfolgt ist, |
+| 9 | Datum  2 2 | TT.MM.JJJJ | Pflichtfeld;  das Datum muss gleich oder kleiner zum |
 
 #### Datensatz für die indikationsübergreifende Dokumentation (ausgenommen Brustkrebs)
 
@@ -53,19 +53,19 @@ Nr.   Gemeint ist die Lebenslange Arztnummer Dies entspricht dem „origination_
 
 ---
 
-| 10 | Einschreibung wegen | KHK / Diabetes mellitus Typ 1 / Diabetes mellitus | Pflichtfeld;  mindestens eine Angabe ist erforderlich,  „Diabetes mellitus Typ 1“ kann nicht gleichzeitig mit  „Asthma bronchiale“ kann nicht gleichzeitig mit „COPD“  „KHK“ kann nicht gleichzeitig mit „  „Adipositas –  Die indikationsübergreifende Dokumentation gemäß  1. Erfolgt eine Angabe zu  2. Erfolgt eine Angabe zu  3. Erfolgt eine Angabe zu  3a. Ergibt die Differenz aus der Datumsangabe in Feld | |
+| 10 | Einschreibung wegen | KHK / Diabetes mellitus Typ 1 / Diabetes mellitus | Pflichtfeld;    mindestens eine Angabe ist erforderlich,    „Diabetes mellitus Typ 1“ kann nicht gleichzeitig mit    „Asthma bronchiale“ kann nicht gleichzeitig mit „COPD“    „KHK“ kann nicht gleichzeitig mit „   „Adipositas –   Die indikationsübergreifende Dokumentation gemäß    1. Erfolgt eine Angabe zu    2. Erfolgt eine Angabe zu    3. Erfolgt eine Angabe zu    3a. Ergibt die Differenz aus der Datumsangabe in Feld | |
 |---|---|---|---|---|
-|  |  |  | 10  Einschreibung wegen  KHK / Diabetes mellitus Typ 1 / Diabetes mellitus Pflichtfeld;  mindestens eine Angabe ist erforderlich,  „Diabetes mellitus Typ 1“ kann nicht gleichzeitig mit  „Asthma bronchiale“ kann nicht gleichzeitig mit „COPD“  „KHK“ kann nicht gleichzeitig mit „  „Adipositas –  Die indikationsübergreifende Dokumentation gemäß  1. Erfolgt eine Angabe zu | |
-|  |  |  | 10  Einschreibung wegen  KHK / Diabetes mellitus Typ 1 / Diabetes mellitus Pflichtfeld;  mindestens eine Angabe ist erforderlich,  „Diabetes mellitus Typ 1“ kann nicht gleichzeitig mit  „Asthma bronchiale“ kann nicht gleichzeitig mit „COPD“  „KHK“ kann nicht gleichzeitig mit „  „Adipositas –  Die indikationsübergreifende Dokumentation gemäß | |
-|  |  |  | 10  Einschreibung wegen  KHK / Diabetes mellitus Typ 1 / Diabetes mellitus Pflichtfeld;  mindestens eine Angabe ist erforderlich,  „Diabetes mellitus Typ 1“ kann nicht gleichzeitig mit | |
+|  |  |  | 10   Einschreibung wegen   KHK / Diabetes mellitus Typ 1 / Diabetes mellitus  Pflichtfeld;    mindestens eine Angabe ist erforderlich,    „Diabetes mellitus Typ 1“ kann nicht gleichzeitig mit    „Asthma bronchiale“ kann nicht gleichzeitig mit „COPD“    „KHK“ kann nicht gleichzeitig mit „   „Adipositas –   Die indikationsübergreifende Dokumentation gemäß    1. Erfolgt eine Angabe zu | |
+|  |  |  | 10   Einschreibung wegen   KHK / Diabetes mellitus Typ 1 / Diabetes mellitus  Pflichtfeld;    mindestens eine Angabe ist erforderlich,    „Diabetes mellitus Typ 1“ kann nicht gleichzeitig mit    „Asthma bronchiale“ kann nicht gleichzeitig mit „COPD“    „KHK“ kann nicht gleichzeitig mit „   „Adipositas –   Die indikationsübergreifende Dokumentation gemäß | |
+|  |  |  | 10   Einschreibung wegen   KHK / Diabetes mellitus Typ 1 / Diabetes mellitus  Pflichtfeld;    mindestens eine Angabe ist erforderlich,    „Diabetes mellitus Typ 1“ kann nicht gleichzeitig mit | |
 | „Asthma bronchiale“ kann nicht gleichzeitig mit „COPD“ |  | „KHK“ kann nicht gleichzeitig mit „ |  | |
 | „Adipositas – |  | Die indikationsübergreifende Dokumentation gemäß | 1. Erfolgt eine Angabe zu | |
 | 2. Erfolgt eine Angabe zu | 3. Erfolgt eine Angabe zu | 3a. Ergibt die Differenz aus der Datumsangabe in Feld | | |
 |  |  |  |  | |
 |  |  |  |  | |
 |  |  |  |  | |
-|  |  |  | 10  Einschreibung wegen  KHK / Diabetes mellitus Typ 1 / Diabetes mellitus Pflichtfeld;  mindestens eine Angabe ist erforderlich,  „Diabetes mellitus Typ 1“ kann nicht gleichzeitig mit  „Asthma bronchiale“ kann nicht gleichzeitig mit „COPD“  „KHK“ kann nicht gleichzeitig mit „  „Adipositas – | |
-| Die indikationsübergreifende Dokumentation gemäß |  | 1. Erfolgt eine Angabe zu | 2. Erfolgt eine Angabe zu  3. Erfolgt eine Angabe zu | |
+|  |  |  | 10   Einschreibung wegen   KHK / Diabetes mellitus Typ 1 / Diabetes mellitus  Pflichtfeld;    mindestens eine Angabe ist erforderlich,    „Diabetes mellitus Typ 1“ kann nicht gleichzeitig mit    „Asthma bronchiale“ kann nicht gleichzeitig mit „COPD“    „KHK“ kann nicht gleichzeitig mit „   „Adipositas – | |
+| Die indikationsübergreifende Dokumentation gemäß |  | 1. Erfolgt eine Angabe zu | 2. Erfolgt eine Angabe zu    3. Erfolgt eine Angabe zu | |
 |  |  |  | 10 | |
 | Einschreibung wegen | KHK / Diabetes mellitus Typ 1 / Diabetes mellitus | Pflichtfeld; | mindestens eine Angabe ist erforderlich, | |
 | „Diabetes mellitus Typ 1“ kann nicht gleichzeitig mit |  | „Asthma bronchiale“ kann nicht gleichzeitig mit „COPD“ |  | |
@@ -79,21 +79,21 @@ Typ 2 / Asthma bronchiale / COPD / chronische Herzinsuffizienz / chronischer Rü
 
 ---
 
-| nicht möglich. |  | 4. Erfolgt eine Angabe zu | 4a. Ergibt die Differenz aus der Datumsangabe in Feld   3, 4  6. Erfolgt eine Angabe zu  7. Erfolgt eine Angabe zu  7a. Ergibt die Differenz aus der Datumsangabe in Feld   3, 9  8a. | |
+| nicht möglich. |  | 4. Erfolgt eine Angabe zu | 4a. Ergibt die Differenz aus der Datumsangabe in Feld     3, 4    6. Erfolgt eine Angabe zu    7. Erfolgt eine Angabe zu    7a. Ergibt die Differenz aus der Datumsangabe in Feld      3, 9    8a. | |
 |---|---|---|---|---|
-|  |  |  | nicht möglich.  4. Erfolgt eine Angabe zu  4a. Ergibt die Differenz aus der Datumsangabe in Feld   3, 4  6. Erfolgt eine Angabe zu  7. Erfolgt eine Angabe zu  7a. Ergibt die Differenz aus der Datumsangabe in Feld   3, 9  8a. | |
-|  |  |  | nicht möglich.  4. Erfolgt eine Angabe zu  4a. Ergibt die Differenz aus der Datumsangabe in Feld   3, 4  6. Erfolgt eine Angabe zu  7. Erfolgt eine Angabe zu  7a. Ergibt die Differenz aus der Datumsangabe in Feld   3, 9 | |
-|  |  |  | nicht möglich.  4. Erfolgt eine Angabe zu  4a. Ergibt die Differenz aus der Datumsangabe in Feld   3, 4  6. Erfolgt eine Angabe zu | |
+|  |  |  | nicht möglich.    4. Erfolgt eine Angabe zu    4a. Ergibt die Differenz aus der Datumsangabe in Feld     3, 4    6. Erfolgt eine Angabe zu    7. Erfolgt eine Angabe zu    7a. Ergibt die Differenz aus der Datumsangabe in Feld      3, 9    8a. | |
+|  |  |  | nicht möglich.    4. Erfolgt eine Angabe zu    4a. Ergibt die Differenz aus der Datumsangabe in Feld     3, 4    6. Erfolgt eine Angabe zu    7. Erfolgt eine Angabe zu    7a. Ergibt die Differenz aus der Datumsangabe in Feld      3, 9 | |
+|  |  |  | nicht möglich.    4. Erfolgt eine Angabe zu    4a. Ergibt die Differenz aus der Datumsangabe in Feld     3, 4    6. Erfolgt eine Angabe zu | |
 |  | 7. Erfolgt eine Angabe zu |  | 7a. Ergibt die Differenz aus der Datumsangabe in Feld | |
 |  |  | 3, 9 | 8a. | |
 |  |  |  | | |
 |  |  |  |  | |
 |  |  |  |  | |
 |  |  |  |  | |
-|  |  |  | nicht möglich.  4. Erfolgt eine Angabe zu  4a. Ergibt die Differenz aus der Datumsangabe in Feld   3, 4  6. Erfolgt eine Angabe zu  7. Erfolgt eine Angabe zu  7a. Ergibt die Differenz aus der Datumsangabe in Feld | |
+|  |  |  | nicht möglich.    4. Erfolgt eine Angabe zu    4a. Ergibt die Differenz aus der Datumsangabe in Feld     3, 4    6. Erfolgt eine Angabe zu    7. Erfolgt eine Angabe zu    7a. Ergibt die Differenz aus der Datumsangabe in Feld | |
 | 3, 9 |  | 8a. |  | |
 |  |  |  | nicht möglich. | |
-|  | 4. Erfolgt eine Angabe zu |  | 4a. Ergibt die Differenz aus der Datumsangabe in Feld   3, 4 | |
+|  | 4. Erfolgt eine Angabe zu |  | 4a. Ergibt die Differenz aus der Datumsangabe in Feld     3, 4 | |
 |  | 6. Erfolgt eine Angabe zu |  | 7. Erfolgt eine Angabe zu | |
 | 7a. Ergibt die Differenz aus der Datumsangabe in Feld |  | 3, 9 | | |
 | 8a. |  |  |  | |
@@ -105,18 +105,18 @@ COPD , müssen zusätzlich die Angaben der Anlage 12* entsprechend den dort fest
 
 ---
 
-|  | 8b. |  | 9. Erfolgt eine Angabe zu  9a. Ergibt die Differenz aus der Datumsangabe in Feld  10. Erfolgt eine Angabe zu „Adipositas  10a. Ergibt die Differenz aus der Datumsangabe in Feld  11. Erfolgt eine Angabe zu „Adipositas  11a. Ergibt die Differenz aus der Datumsangabe in Feld  11b. Erfolgt die Angabe im Rahmen einer | |
+|  | 8b. |  | 9. Erfolgt eine Angabe zu    9a. Ergibt die Differenz aus der Datumsangabe in Feld    10. Erfolgt eine Angabe zu „Adipositas   10a. Ergibt die Differenz aus der Datumsangabe in Feld    11. Erfolgt eine Angabe zu „Adipositas    11a. Ergibt die Differenz aus der Datumsangabe in Feld    11b. Erfolgt die Angabe im Rahmen einer | |
 |---|---|---|---|---|
-|  |  |  | 8b.  9. Erfolgt eine Angabe zu  9a. Ergibt die Differenz aus der Datumsangabe in Feld  10. Erfolgt eine Angabe zu „Adipositas  10a. Ergibt die Differenz aus der Datumsangabe in Feld  11. Erfolgt eine Angabe zu „Adipositas  11a. Ergibt die Differenz aus der Datumsangabe in Feld  11b. Erfolgt die Angabe im Rahmen einer | |
-|  |  |  | 8b.  9. Erfolgt eine Angabe zu  9a. Ergibt die Differenz aus der Datumsangabe in Feld  10. Erfolgt eine Angabe zu „Adipositas  10a. Ergibt die Differenz aus der Datumsangabe in Feld  11. Erfolgt eine Angabe zu „Adipositas  11a. Ergibt die Differenz aus der Datumsangabe in Feld  11b. Erfolgt die Angabe im Rahmen einer | |
-|  |  |  | 8b.  9. Erfolgt eine Angabe zu  9a. Ergibt die Differenz aus der Datumsangabe in Feld  10. Erfolgt eine Angabe zu „Adipositas | |
+|  |  |  | 8b.    9. Erfolgt eine Angabe zu    9a. Ergibt die Differenz aus der Datumsangabe in Feld    10. Erfolgt eine Angabe zu „Adipositas   10a. Ergibt die Differenz aus der Datumsangabe in Feld    11. Erfolgt eine Angabe zu „Adipositas    11a. Ergibt die Differenz aus der Datumsangabe in Feld    11b. Erfolgt die Angabe im Rahmen einer | |
+|  |  |  | 8b.    9. Erfolgt eine Angabe zu    9a. Ergibt die Differenz aus der Datumsangabe in Feld    10. Erfolgt eine Angabe zu „Adipositas   10a. Ergibt die Differenz aus der Datumsangabe in Feld    11. Erfolgt eine Angabe zu „Adipositas    11a. Ergibt die Differenz aus der Datumsangabe in Feld    11b. Erfolgt die Angabe im Rahmen einer | |
+|  |  |  | 8b.    9. Erfolgt eine Angabe zu    9a. Ergibt die Differenz aus der Datumsangabe in Feld    10. Erfolgt eine Angabe zu „Adipositas | |
 | 10a. Ergibt die Differenz aus der Datumsangabe in Feld |  | 11. Erfolgt eine Angabe zu „Adipositas |  | |
 | 11a. Ergibt die Differenz aus der Datumsangabe in Feld |  | 11b. Erfolgt die Angabe im Rahmen einer |  | |
 |  |  |  | | |
 |  |  |  |  | |
 |  |  |  |  | |
 |  |  |  |  | |
-|  |  |  | 8b.  9. Erfolgt eine Angabe zu  9a. Ergibt die Differenz aus der Datumsangabe in Feld  10. Erfolgt eine Angabe zu „Adipositas  10a. Ergibt die Differenz aus der Datumsangabe in Feld  11. Erfolgt eine Angabe zu „Adipositas  11a. Ergibt die Differenz aus der Datumsangabe in Feld | |
+|  |  |  | 8b.    9. Erfolgt eine Angabe zu    9a. Ergibt die Differenz aus der Datumsangabe in Feld    10. Erfolgt eine Angabe zu „Adipositas   10a. Ergibt die Differenz aus der Datumsangabe in Feld    11. Erfolgt eine Angabe zu „Adipositas    11a. Ergibt die Differenz aus der Datumsangabe in Feld | |
 | 11b. Erfolgt die Angabe im Rahmen einer |  |  |  | |
 |  |  |  |  | |
 | 8b. |  | 9. Erfolgt eine Angabe zu | 9a. Ergibt die Differenz aus der Datumsangabe in Feld | |
@@ -131,25 +131,25 @@ Erfolgt in Feld 12 die Angabe „Weiblich“ oder „Unbestimmt“ oder „Diver
 
 ---
 
-| Feld 3 ein Lebensalter größer gleich 18 Jahren, ist die |  | 11c. Erfolgt die Angabe im Rahmen einer | 11  (weggefallen)     12  Geschlecht  Männlich / Weiblich / Unbestimmt / Divers Pflichtfeld; genau eine Angabe ist zulässig  Allgemeine Anamnese- und Befunddaten | |
+| Feld 3 ein Lebensalter größer gleich 18 Jahren, ist die |  | 11c. Erfolgt die Angabe im Rahmen einer | 11   (weggefallen)        12   Geschlecht   Männlich / Weiblich / Unbestimmt / Divers  Pflichtfeld;  genau eine Angabe ist zulässig    Allgemeine Anamnese- und Befunddaten | |
 |---|---|---|---|---|
-|  |  |  | Feld 3 ein Lebensalter größer gleich 18 Jahren, ist die  11c. Erfolgt die Angabe im Rahmen einer       11  (weggefallen)     12  Geschlecht  Männlich / Weiblich / Unbestimmt / Divers Pflichtfeld; genau eine Angabe ist zulässig | |
-|  |  |  | Feld 3 ein Lebensalter größer gleich 18 Jahren, ist die  11c. Erfolgt die Angabe im Rahmen einer       11  (weggefallen)     12  Geschlecht  Männlich / Weiblich / Unbestimmt / Divers | |
-|  |  |  | Feld 3 ein Lebensalter größer gleich 18 Jahren, ist die  11c. Erfolgt die Angabe im Rahmen einer | |
+|  |  |  | Feld 3 ein Lebensalter größer gleich 18 Jahren, ist die    11c. Erfolgt die Angabe im Rahmen einer              11   (weggefallen)        12   Geschlecht   Männlich / Weiblich / Unbestimmt / Divers  Pflichtfeld;  genau eine Angabe ist zulässig | |
+|  |  |  | Feld 3 ein Lebensalter größer gleich 18 Jahren, ist die    11c. Erfolgt die Angabe im Rahmen einer              11   (weggefallen)        12   Geschlecht   Männlich / Weiblich / Unbestimmt / Divers | |
+|  |  |  | Feld 3 ein Lebensalter größer gleich 18 Jahren, ist die    11c. Erfolgt die Angabe im Rahmen einer | |
 | 11 | (weggefallen) |  |  | |
-| 12 | Geschlecht | Männlich / Weiblich / Unbestimmt / Divers | Pflichtfeld; genau eine Angabe ist zulässig | |
+| 12 | Geschlecht | Männlich / Weiblich / Unbestimmt / Divers | Pflichtfeld;  genau eine Angabe ist zulässig | |
 |  | Allgemeine Anamnese- und Befunddaten |  | | |
-| 13 | Körpergröße | m | Pflichtfeld; Numerische Angabe mit zwei Stellen hinter dem Komma; | |
-| 14 | Körpergewicht | kg | Pflichtfeld; Numerische Angabe ohne Komma, Wertebereich 000 - | |
-| 15 |  | mm Hg | Bedingtes Pflichtfeld;  Numerische Angabe,  Wenn in Feld 10 mindestens eine Angabe zu  Enthält Feld 10 die alleinige Angabe „Asthma bronchiale“ | |
-|  |  |  | Feld 3 ein Lebensalter größer gleich 18 Jahren, ist die  11c. Erfolgt die Angabe im Rahmen einer       11  (weggefallen)     12  Geschlecht | |
+| 13 | Körpergröße | m | Pflichtfeld;  Numerische Angabe mit zwei Stellen hinter dem Komma; | |
+| 14 | Körpergewicht | kg | Pflichtfeld;  Numerische Angabe ohne Komma, Wertebereich 000 - | |
+| 15 |  | mm Hg | Bedingtes Pflichtfeld;   Numerische Angabe,    Wenn in Feld 10 mindestens eine Angabe zu    Enthält Feld 10 die alleinige Angabe „Asthma bronchiale“ | |
+|  |  |  | Feld 3 ein Lebensalter größer gleich 18 Jahren, ist die    11c. Erfolgt die Angabe im Rahmen einer              11   (weggefallen)        12   Geschlecht | |
 | Männlich / Weiblich / Unbestimmt / Divers | Pflichtfeld; | genau eine Angabe ist zulässig | Allgemeine Anamnese- und Befunddaten | |
 |  |  |  | Feld 3 ein Lebensalter größer gleich 18 Jahren, ist die | |
 |  | 11c. Erfolgt die Angabe im Rahmen einer |  |  | |
 |  |  | 11 | (weggefallen) | |
-|  | 12  Geschlecht | Männlich / Weiblich / Unbestimmt / Divers Pflichtfeld; | | |
+|  | 12   Geschlecht | Männlich / Weiblich / Unbestimmt / Divers  Pflichtfeld; | | |
 | genau eine Angabe ist zulässig |  |  | Allgemeine Anamnese- und Befunddaten | |
-|  |  | 13 | Körpergröße  m | |
+|  |  | 13 | Körpergröße   m | |
 | Pflichtfeld; | Numerische Angabe mit zwei Stellen hinter dem Komma; | 14 | Körpergewicht | |
 | kg | Pflichtfeld; | Numerische Angabe ohne Komma, Wertebereich 000 - | 15 | mm Hg |
 
@@ -157,24 +157,24 @@ Angabe „Adipositas - Kinder und Jugendliche" nicht möglich. Folgedokumentatio
 
 ---
 
-| und ergibt gleichzeitig die Differenz aus der |  | Enthält Feld 10 die alleinige Angabe „Adipositas – | Enthält Feld 10 die alleinige Angabe „Asthma bronchiale“  Enthält Feld 10 die alleinige Angabe „Diabetes mellitus eine Angabe erfolgen.  Enthält Feld 10 die alleinige Angabe „Diabetes mellitus  Die Angabe muss im Wertebereich systolisch 50 - 300 und  diastolisch 30 - 180 liegen. Der systolische Wert muss größer als der diastolische 16  5 Ja / Nein  Bedingtes Pflichtfeld;  genau eine Angabe ist zulässig Ergibt die Differenz aus der Datumsangabe in Feld 22 Ergibt die Differenz aus der Datumsangabe in Feld 22 | |
+| und ergibt gleichzeitig die Differenz aus der |  | Enthält Feld 10 die alleinige Angabe „Adipositas – | Enthält Feld 10 die alleinige Angabe „Asthma bronchiale“   Enthält Feld 10 die alleinige Angabe „Diabetes mellitus  eine Angabe erfolgen.    Enthält Feld 10 die alleinige Angabe „Diabetes mellitus    Die Angabe muss im Wertebereich  systolisch 50 - 300 und   diastolisch 30 - 180 liegen.  Der systolische Wert muss größer als der diastolische  16   5 Ja / Nein   Bedingtes Pflichtfeld;   genau eine Angabe ist zulässig  Ergibt die Differenz aus der Datumsangabe in Feld 22  Ergibt die Differenz aus der Datumsangabe in Feld 22 | |
 |---|---|---|---|---|
-|  |  |  | und ergibt gleichzeitig die Differenz aus der  Enthält Feld 10 die alleinige Angabe „Adipositas –  Enthält Feld 10 die alleinige Angabe „Asthma bronchiale“  Enthält Feld 10 die alleinige Angabe „Diabetes mellitus eine Angabe erfolgen.  Enthält Feld 10 die alleinige Angabe „Diabetes mellitus  Die Angabe muss im Wertebereich systolisch 50 - 300 und  diastolisch 30 - 180 liegen. Der systolische Wert muss größer als der diastolische 16  5 Ja / Nein | |
-|  |  |  | und ergibt gleichzeitig die Differenz aus der  Enthält Feld 10 die alleinige Angabe „Adipositas –  Enthält Feld 10 die alleinige Angabe „Asthma bronchiale“  Enthält Feld 10 die alleinige Angabe „Diabetes mellitus eine Angabe erfolgen.  Enthält Feld 10 die alleinige Angabe „Diabetes mellitus  Die Angabe muss im Wertebereich systolisch 50 - 300 und  diastolisch 30 - 180 liegen. Der systolische Wert muss größer als der diastolische 16 | |
-|  |  |  | und ergibt gleichzeitig die Differenz aus der  Enthält Feld 10 die alleinige Angabe „Adipositas –  Enthält Feld 10 die alleinige Angabe „Asthma bronchiale“  Enthält Feld 10 die alleinige Angabe „Diabetes mellitus eine Angabe erfolgen. | |
+|  |  |  | und ergibt gleichzeitig die Differenz aus der    Enthält Feld 10 die alleinige Angabe „Adipositas –   Enthält Feld 10 die alleinige Angabe „Asthma bronchiale“   Enthält Feld 10 die alleinige Angabe „Diabetes mellitus  eine Angabe erfolgen.    Enthält Feld 10 die alleinige Angabe „Diabetes mellitus    Die Angabe muss im Wertebereich  systolisch 50 - 300 und   diastolisch 30 - 180 liegen.  Der systolische Wert muss größer als der diastolische  16   5 Ja / Nein | |
+|  |  |  | und ergibt gleichzeitig die Differenz aus der    Enthält Feld 10 die alleinige Angabe „Adipositas –   Enthält Feld 10 die alleinige Angabe „Asthma bronchiale“   Enthält Feld 10 die alleinige Angabe „Diabetes mellitus  eine Angabe erfolgen.    Enthält Feld 10 die alleinige Angabe „Diabetes mellitus    Die Angabe muss im Wertebereich  systolisch 50 - 300 und   diastolisch 30 - 180 liegen.  Der systolische Wert muss größer als der diastolische  16 | |
+|  |  |  | und ergibt gleichzeitig die Differenz aus der    Enthält Feld 10 die alleinige Angabe „Adipositas –   Enthält Feld 10 die alleinige Angabe „Asthma bronchiale“   Enthält Feld 10 die alleinige Angabe „Diabetes mellitus  eine Angabe erfolgen. | |
 | Enthält Feld 10 die alleinige Angabe „Diabetes mellitus |  | Die Angabe muss im Wertebereich | systolisch 50 - 300 und | |
 | diastolisch 30 - 180 liegen. | Der systolische Wert muss größer als der diastolische | 16 | 5 Ja / Nein | |
-| Bedingtes Pflichtfeld;  genau eine Angabe ist zulässig | Ergibt die Differenz aus der Datumsangabe in Feld 22 Ergibt die Differenz aus der Datumsangabe in Feld 22 |  | | |
+| Bedingtes Pflichtfeld;   genau eine Angabe ist zulässig | Ergibt die Differenz aus der Datumsangabe in Feld 22  Ergibt die Differenz aus der Datumsangabe in Feld 22 |  | | |
 |  |  |  |  | |
 |  |  |  |  | |
 |  |  |  |  | |
-|  |  |  | und ergibt gleichzeitig die Differenz aus der  Enthält Feld 10 die alleinige Angabe „Adipositas –  Enthält Feld 10 die alleinige Angabe „Asthma bronchiale“  Enthält Feld 10 die alleinige Angabe „Diabetes mellitus eine Angabe erfolgen.  Enthält Feld 10 die alleinige Angabe „Diabetes mellitus  Die Angabe muss im Wertebereich systolisch 50 - 300 und  diastolisch 30 - 180 liegen. Der systolische Wert muss größer als der diastolische | |
-| 16 | 5 | Ja / Nein | Bedingtes Pflichtfeld;  genau eine Angabe ist zulässig Ergibt die Differenz aus der Datumsangabe in Feld 22 Ergibt die Differenz aus der Datumsangabe in Feld 22 | |
+|  |  |  | und ergibt gleichzeitig die Differenz aus der    Enthält Feld 10 die alleinige Angabe „Adipositas –   Enthält Feld 10 die alleinige Angabe „Asthma bronchiale“   Enthält Feld 10 die alleinige Angabe „Diabetes mellitus  eine Angabe erfolgen.    Enthält Feld 10 die alleinige Angabe „Diabetes mellitus    Die Angabe muss im Wertebereich  systolisch 50 - 300 und   diastolisch 30 - 180 liegen.  Der systolische Wert muss größer als der diastolische | |
+| 16 | 5 | Ja / Nein | Bedingtes Pflichtfeld;   genau eine Angabe ist zulässig  Ergibt die Differenz aus der Datumsangabe in Feld 22  Ergibt die Differenz aus der Datumsangabe in Feld 22 | |
 |  |  |  | und ergibt gleichzeitig die Differenz aus der | |
-|  | Enthält Feld 10 die alleinige Angabe „Adipositas – |  | Enthält Feld 10 die alleinige Angabe „Asthma bronchiale“  Enthält Feld 10 die alleinige Angabe „Diabetes mellitus | |
+|  | Enthält Feld 10 die alleinige Angabe „Adipositas – |  | Enthält Feld 10 die alleinige Angabe „Asthma bronchiale“   Enthält Feld 10 die alleinige Angabe „Diabetes mellitus | |
 | eine Angabe erfolgen. |  | Enthält Feld 10 die alleinige Angabe „Diabetes mellitus |  | |
-| Die Angabe muss im Wertebereich systolisch 50 - 300 und | diastolisch 30 - 180 liegen. Der systolische Wert muss größer als der diastolische | 16  5 | | |
-| Ja / Nein | Bedingtes Pflichtfeld; | genau eine Angabe ist zulässig | Ergibt die Differenz aus der Datumsangabe in Feld 22 Ergibt die Differenz aus der Datumsangabe in Feld 22 | |
+| Die Angabe muss im Wertebereich  systolisch 50 - 300 und | diastolisch 30 - 180 liegen.  Der systolische Wert muss größer als der diastolische | 16   5 | | |
+| Ja / Nein | Bedingtes Pflichtfeld; | genau eine Angabe ist zulässig | Ergibt die Differenz aus der Datumsangabe in Feld 22  Ergibt die Differenz aus der Datumsangabe in Feld 22 | |
 |  |  |  |  | |
 |  |  |  |  | |
 |  |  |  |  |  |
@@ -183,27 +183,27 @@ Datumsangabe in Feld 22 minus der Datumsangabe in Feld 3 ein Lebensalter von gr�
 
 ---
 
-| größer gleich 12 Jahren, muss eine Angabe erfolgen | 17 | Begleiterkrankungen | Arterielle Hypertonie / Fettstoffwechselstörung / Pflichtfeld; mindestens eine Angabe ist notwendig; wenn „keine der genannten Erkrankungen“ ange 18  (weggefallen)    Behandlungsplanung    19  Vom Patienten gewünschte Tabakverzicht / Ernährungsberatung / Körperliches Kein Pflichtfeld Mehrfachnennungen sind möglich 20  Dokumentationsintervall | |
+| größer gleich 12 Jahren, muss eine Angabe erfolgen | 17 | Begleiterkrankungen | Arterielle Hypertonie / Fettstoffwechselstörung /  Pflichtfeld;  mindestens eine Angabe ist notwendig;  wenn „keine der genannten Erkrankungen“ ange 18   (weggefallen)        Behandlungsplanung      19   Vom Patienten gewünschte  Tabakverzicht / Ernährungsberatung / Körperliches  Kein Pflichtfeld  Mehrfachnennungen sind möglich  20   Dokumentationsintervall | |
 |---|---|---|---|---|
-|  |  |  | größer gleich 12 Jahren, muss eine Angabe erfolgen 17  Begleiterkrankungen  Arterielle Hypertonie / Fettstoffwechselstörung / Pflichtfeld; mindestens eine Angabe ist notwendig; wenn „keine der genannten Erkrankungen“ ange 18  (weggefallen)    Behandlungsplanung    19 | |
-|  |  |  | größer gleich 12 Jahren, muss eine Angabe erfolgen 17  Begleiterkrankungen  Arterielle Hypertonie / Fettstoffwechselstörung / Pflichtfeld; mindestens eine Angabe ist notwendig; wenn „keine der genannten Erkrankungen“ ange 18  (weggefallen)    Behandlungsplanung | |
-|  |  |  | größer gleich 12 Jahren, muss eine Angabe erfolgen 17  Begleiterkrankungen  Arterielle Hypertonie / Fettstoffwechselstörung / Pflichtfeld; mindestens eine Angabe ist notwendig; wenn „keine der genannten Erkrankungen“ ange 18  (weggefallen) | |
+|  |  |  | größer gleich 12 Jahren, muss eine Angabe erfolgen  17   Begleiterkrankungen   Arterielle Hypertonie / Fettstoffwechselstörung /  Pflichtfeld;  mindestens eine Angabe ist notwendig;  wenn „keine der genannten Erkrankungen“ ange 18   (weggefallen)        Behandlungsplanung      19 | |
+|  |  |  | größer gleich 12 Jahren, muss eine Angabe erfolgen  17   Begleiterkrankungen   Arterielle Hypertonie / Fettstoffwechselstörung /  Pflichtfeld;  mindestens eine Angabe ist notwendig;  wenn „keine der genannten Erkrankungen“ ange 18   (weggefallen)        Behandlungsplanung | |
+|  |  |  | größer gleich 12 Jahren, muss eine Angabe erfolgen  17   Begleiterkrankungen   Arterielle Hypertonie / Fettstoffwechselstörung /  Pflichtfeld;  mindestens eine Angabe ist notwendig;  wenn „keine der genannten Erkrankungen“ ange 18   (weggefallen) | |
 |  |  |  |  | |
 |  | Behandlungsplanung |  | 19 | |
-| Vom Patienten gewünschte Tabakverzicht / Ernährungsberatung / Körperliches | Kein Pflichtfeld Mehrfachnennungen sind möglich | 20  Dokumentationsintervall | | |
-| Quartalsweise / Jedes zweite Quartal | Pflichtfeld; | nur eine Angabe ist zulässig | 21  (weggefallen) | |
-|  |  | 22 | 6 TT.MM.JJJJ | |
-| Pflichtfeld | Erfassungsstelle sein |  | 3 4 5 6 7 | |
-|  |  |  | größer gleich 12 Jahren, muss eine Angabe erfolgen 17  Begleiterkrankungen  Arterielle Hypertonie / Fettstoffwechselstörung / Pflichtfeld; mindestens eine Angabe ist notwendig; wenn „keine der genannten Erkrankungen“ ange 18  (weggefallen)    Behandlungsplanung | |
-|  |  | 19 | Vom Patienten gewünschte Tabakverzicht / Ernährungsberatung / Körperliches Kein Pflichtfeld Mehrfachnennungen sind möglich | |
+| Vom Patienten gewünschte  Tabakverzicht / Ernährungsberatung / Körperliches | Kein Pflichtfeld  Mehrfachnennungen sind möglich | 20   Dokumentationsintervall | | |
+| Quartalsweise / Jedes zweite Quartal | Pflichtfeld; | nur eine Angabe ist zulässig | 21   (weggefallen) | |
+|  |  | 22 | 6  TT.MM.JJJJ | |
+| Pflichtfeld | Erfassungsstelle sein |  | 3  4  5  6 7 | |
+|  |  |  | größer gleich 12 Jahren, muss eine Angabe erfolgen  17   Begleiterkrankungen   Arterielle Hypertonie / Fettstoffwechselstörung /  Pflichtfeld;  mindestens eine Angabe ist notwendig;  wenn „keine der genannten Erkrankungen“ ange 18   (weggefallen)        Behandlungsplanung | |
+|  |  | 19 | Vom Patienten gewünschte  Tabakverzicht / Ernährungsberatung / Körperliches  Kein Pflichtfeld  Mehrfachnennungen sind möglich | |
 |  |  |  | größer gleich 12 Jahren, muss eine Angabe erfolgen | |
-| 17 | Begleiterkrankungen | Arterielle Hypertonie / Fettstoffwechselstörung / | Pflichtfeld; mindestens eine Angabe ist notwendig; wenn „keine der genannten Erkrankungen“ ange | |
+| 17 | Begleiterkrankungen | Arterielle Hypertonie / Fettstoffwechselstörung / | Pflichtfeld;  mindestens eine Angabe ist notwendig;  wenn „keine der genannten Erkrankungen“ ange | |
 | 18 | (weggefallen) |  |  | |
 |  | Behandlungsplanung |  | | |
-| 19 | Vom Patienten gewünschte | Tabakverzicht / Ernährungsberatung / Körperliches | Kein Pflichtfeld Mehrfachnennungen sind möglich | |
-| 20 | Dokumentationsintervall | Quartalsweise / Jedes zweite Quartal | Pflichtfeld; nur eine Angabe ist zulässig | |
+| 19 | Vom Patienten gewünschte | Tabakverzicht / Ernährungsberatung / Körperliches | Kein Pflichtfeld  Mehrfachnennungen sind möglich | |
+| 20 | Dokumentationsintervall | Quartalsweise / Jedes zweite Quartal | Pflichtfeld;  nur eine Angabe ist zulässig | |
 | 21 | (weggefallen) |  |  | |
-| 22 | 6 | TT.MM.JJJJ | Pflichtfeld Erfassungsstelle sein |  |
+| 22 | 6 | TT.MM.JJJJ | Pflichtfeld  Erfassungsstelle sein |  |
 
 8 Eine Angabe zu „Depression“ ist erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 18* in Kraft treten.
 

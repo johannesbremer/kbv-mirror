@@ -276,15 +276,11 @@ QUELLE: KBV-ANBIETERMEETING, 11.09.2024 -
 
 ## - Herunterladen von  Inhalten - Einstellen von
 
-- Dokumenten
+## - Dokumenten
 
-|  |  | **Allgemeine** | |
-|---|---|---|---|
-|  |  | **Anforderungen** | **zur** |
-|  | **Nutzung** | **der** | **ePA** |
-|  | Ladevorgänge | | dürfen |
-| die |  | Arbeitsprozesse | |
-|  | nicht |  | stören |
+## Allgemeine  Anforderungen zur  Nutzung der ePA
+
+## Ladevorgänge dürfen  die Arbeitsprozesse  nicht stören
 
 ## Möglichst  automatisierter  Workflow
 
@@ -294,23 +290,17 @@ QUELLE: KBV-ANBIETERMEETING, 11.09.2024 - **ANFORDERUNGEN AN DAS PVS**
 
 ## Zeit für
 
-Anforderungen zur Nutzung der ePA Ladevorgänge dürfen die Arbeitsprozesse nicht stören## relevant
+## relevant
 
 
 ---
 
-|  |  |  |  |  | ↗ **DIGITAL UND NAH** |
-|---|---|---|---|---|---|
-|  |  |  | **Positionspapier** | **Digitalisierung** | **beschlossen auf der VV im Mai 2025** |
-|  |  |  |  |  | **SIEBEN THEMENFELDER** |
-| *Erarbeitet in* | *einem* |  | *gemeinsamen* | |  |
-| *Prozess mit* | *der* | *VV* | *12/24-05/25* | |  |
-|  | Weitere | Informationen | unter | www.kbv.de/digitalisierung |  |
-|  |  |  |  |  | Plus **FÜNF KERNFORDERUNGEN** |
-| **EPA** | **für Alle** | **- Stand** | **der** | **Einführung** | SEITE 15 |
-|  |  | KBV-ANBIETERMEETING, | 18. | SEPTEMBER 2025 |  |
+## Positionspapier Digitalisierung beschlossen auf der VV im Mai 2025 - **DIGITAL UND NAH**
 
-Positionspapier Digitalisierung beschlossen auf der VV im Mai 2025 Erarbeitet in einem gemeinsamen Prozess mit der VV 12/24-05/25
+### Erarbeitet in einem gemeinsamen  Prozess mit der VV 12/24-05/25
+
+## Plus FÜNF KERNFORDERUNGEN
+
 
 ---
 

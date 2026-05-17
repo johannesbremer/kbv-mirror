@@ -29,6 +29,8 @@ Wenn die Behandlung als Folge eines Unfalls erforderlich wird, kann die Krankenk
 
 ---
 
+**Intern**
+
 Bei Arbeitsunfällen, Berufskrankheiten und Schülerunfällen verwenden Sie das Muster 6 bitte nicht. Die
 
 Abrechnung der Behandlung ist in diesen Fällen mit dem zuständigen Unfallversicherungsträger  vorzunehmen. Hierfür ist die „Ärztliche Unfallmeldung“ (Formtext F 1050) nach dem Vertrag  Ärzte/Unfallversicherungsträger zu verwenden. Unter Schülerunfällen sind auch Unfälle von Kindern in  Kindergärten und von Studierenden während des Studiums zu verstehen.
@@ -83,6 +85,8 @@ Wenn Ihnen bekannt ist, dass der Patient wegen Rückständen bei den Mitgliedsbe
 
 
 ---
+
+**Intern**
 
 Unter „Diagnose/Verdachtsdiagnose“, „Befund/Medikation“ bzw. „Auftrag“ geben Sie bitte Informationen
 

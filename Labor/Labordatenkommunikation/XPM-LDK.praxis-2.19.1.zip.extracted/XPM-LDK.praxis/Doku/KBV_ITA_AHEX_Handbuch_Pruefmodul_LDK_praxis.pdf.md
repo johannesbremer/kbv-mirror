@@ -5,7 +5,7 @@
 | Dezernat Digitalisierung und IT |
 | 10623 Berlin, Herbert |
 | Kassenärztliche Bundesvereinigung |
-| Version Datum: Klassifizierung:  Extern |
+| Version  Datum:  Klassifizierung:  Extern |
 
 KBV_ITA_AHEX_Handbuch_Pruefmodul -Lewin-Platz 2 Status: 1.0.4 28.01.2024 In Kraft © Kassenärztliche Bundesvereinigung, Berlin 2024
 
@@ -20,8 +20,8 @@ KBV_ITA_AHEX_Handbuch_Pruefmodul -Lewin-Platz 2 Status: 1.0.4 28.01.2024 In Kraf
 |---|---|---|---|---|---|
 | 1.0.4 | 28.01.2024 | KBV | Zu verwendende minimale |  | 5 |
 | 1.0.3 | 01.03.2018 | KBV | Dateiname des Java-Archivs |  | 22 |
-| 1.0.2 | 03.08.2017 | KBV | Einfügen der Javaklasse „XPMEinstieg“ |  | 22 |
-| 1.0.1 | 15.06.2017 | KBV | Anpassung der Beschrei- Einfügung eines Hinweises |  | 23 24 |
+| 1.0.2 | 03.08.2017 | KBV | Einfügen der Javaklasse  „XPMEinstieg“ |  | 22 |
+| 1.0.1 | 15.06.2017 | KBV | Anpassung der Beschrei-  Einfügung eines Hinweises |  | 23  24 |
 | 1.0.0 | 15.05.2017 | KBV | Initiale Erstellung |  | all |
 
 **E NT E NHI S T OR I E**
@@ -29,6 +29,8 @@ KBV_ITA_AHEX_Handbuch_Pruefmodul -Lewin-Platz 2 Status: 1.0.4 28.01.2024 In Kraf
 Java-Version aktualisiert im Abschnitt 4.2 aktualisiert bung der Datumsprüfung bei der Beschreibung der Prüfungen
 
 ---
+
+**XPM-LDK.praxis**
 
 # Inhaltsverzeichnis - **1. EINLEITUNG**
 
@@ -94,6 +96,8 @@ Java-Version aktualisiert im Abschnitt 4.2 aktualisiert bung der Datumsprüfung 
 
 
 ---
+
+**XPM-LDK.praxis**
 
 - **4. HINWEISE ZU JAVA**
 
@@ -206,6 +210,8 @@ Das LDK-Prüfmodul ist auf allen Computersystemen lauffähig, für die die Java 
 
 - **"Prüfmodul-Version"**: Bezeichnet die Version des XPM_LDK-Paketes.
 
+**XPM-LDK.praxis**
+
 
 ---
 
@@ -222,6 +228,8 @@ XPM ist eine Applikation für ein 32bit-System.
 Benötigt wird ein Computersystem, das leistungsmäßig mit einem IBM-kompatiblen PC,  256 MB Hauptspeicher und einem Pentium-Prozessor 500 oder höher vergleichbar ist.
 
 Langsamere Prozessoren und weniger Hauptspeicher erhöhen stark die Laufzeit des  Programms. XPM benötigt weniger als 10 MByte Festplattenplatz.
+
+**XPM-LDK.praxis**
 
 
 ---
@@ -262,8 +270,12 @@ In diesem Ordner werden alle Ausgaben des Prüfmoduls generiert.
 
 In diesem Ordner befinden sich die XML-Schemadateien, die das Prüfformat definieren.  Die Schemadateien (*.xsd) dürfen **nicht** verändert werden.
 
+**XPM-LDK.praxis**
+
 
 ---
+
+**XPM-LDK.praxis**
 
 # 3. Anwendung des Prüfmoduls
 
@@ -285,17 +297,19 @@ Das Prüfmodul LDK wird, wie eingangs erwähnt, mit verschiedenen Übergabeparam
 
 | Prüfmodus | Übergabeparameter | Skriptname |
 |---|---|---|
-| LDT | -c, -f Optional: -h, -m, -p, -s, -v, -z, -e, | StartPruefung.bat und |
-| LDT Verzeichnisprü- | -c, -e, -s, -m, Optional: -f, -h, -p, -v, -z | VerzeichnisPruefung.bat und |
+| LDT | -c, -f  Optional: -h, -m, -p,  -s, -v, -z, -e, | StartPruefung.bat und |
+| LDT Verzeichnisprü- | -c, -e, -s, -m,  Optional: -f, -h, -p,  -v, -z | VerzeichnisPruefung.bat und |
 
 StartPruefung .sh VerzeichnisPruefung.sh
 
 ---
 
-| Digitales Muster | -c, -x, -f v, -h | StartPruefungDigitaleMuster.bat und |
+**XPM-LDK.praxis**
+
+| Digitales Muster | -c, -x, -f  v, -h | StartPruefungDigitaleMuster.bat und |
 |---|---|---|
-| Digitales Muster mit | -s, -x, -e, -m, -c | VerzeichnisPruefungDigitaleMuster.bat VerzeichnisPruefungDigitaleMuster.sh |
-| Abgleich zwischen |  | StartPruefungDigitaleMusterVsLDT.bat StartPruefungDigitaleMusterVsLDT.sh |
+| Digitales Muster mit | -s, -x, -e, -m, -c | VerzeichnisPruefungDigitaleMuster.bat  VerzeichnisPruefungDigitaleMuster.sh |
+| Abgleich zwischen |  | StartPruefungDigitaleMusterVsLDT.bat  StartPruefungDigitaleMusterVsLDT.sh |
 
 # 3.3 Konfigurationsdatei
 
@@ -331,10 +345,12 @@ Bei eingeschalteter Option –m wird die geprüfte Datei mit Status ‘ok’ in 
 
 **pruefdaten**“ festgelegt.
 
-Optional: -e, -s, -m, - Verzeichnisprüfung Optional: -h, -v digitalem Muster und -c, -y, -f StartPruefungDigitaleMuster.sh **okdaten**
+Optional: -e, -s, -m, - Verzeichnisprüfung Optional: -h, -v digitalem Muster und -c, -y, -f StartPruefung DigitaleMuster.sh **okdaten**
 
 
 ---
+
+**XPM-LDK.praxis**
 
 z.B.: <okdaten>Geprueft/NichtAbgelehnt/</okdaten>
 
@@ -403,6 +419,8 @@ festgelegt.
 
 ---
 
+**XPM-LDK.praxis**
+
 Wertebereich: „ja“, „nein“.
 
 z.B.: <fehler_begrenzen>ja</fehler_begrenzen>
@@ -442,6 +460,8 @@ Im Abschnitt Ausgabedateien werden die Pfade für die Ausgabelisten und Protokol
 CSV JRPRINT PDF PRINTER PRINTER_DIALOG RTF TEXT XLS chen’ lässt sich das Trennzeichen zwischen den Spal- ten festlegen. Standardmäßig ist hier das Komma vor- eingestellt. zeigt und gedruckt werden Seitenbreite in Zeichen festlegen. Standardmäßig ist hier die Breite von 80 Zeichen voreingestellt. Ein an- sprechendes Layout erreicht man, in dem die Breite auf den Wert 120 gesetzt wird.
 
 ---
+
+**XPM-LDK.praxis**
 
 z.B.: <FehlerListe Format="PDF">Listen/Protokoll.pdf</FehlerListe>
 
@@ -513,6 +533,8 @@ Variable
 
 ---
 
+**XPM-LDK.praxis**
+
 hält, die erst zur Laufzeit ermittelt werden und unterschiedliche Ausprägungen enthalten  kann.
 
 z.B.: Zu der GNR '%s' wurde keine Angabe im Feld '%s' gemacht.
@@ -560,6 +582,8 @@ z.B.: <gui_selektion>nein</gui_selektion>
 
 ---
 
+**XPM-LDK.praxis**
+
 # 3.3.5 Umgebungsvariablen
 
 Jedes Element der Konfigurationsdatei darf Umgebungsvariablen enthalten.
@@ -597,16 +621,18 @@ Das Prüfmodul kann als ein kommandozeilenorientiertes Programm gestartet werden
 
 ---
 
+**XPM-LDK.praxis**
+
 # 3.4.1 Übergabeparameter
 
 | Übergabeparamet | Beschreibung |
 |---|---|
-| -c | Das Prüfmodul braucht für die Prüfung die Pfadangabe einer Hinter dieser Option muss die Pfadangabe stehen! |
+| -c | Das Prüfmodul braucht für die Prüfung die Pfadangabe einer  Hinter dieser Option muss die Pfadangabe stehen! |
 | -e | Das Prüfmodul wird im Einzellaufmodus gestartet. XPM_LDK |
 | -f | Hinter dieser Option sollte die Pfadangabe einer Prüfdatei ste- |
 | -h | Das Prüfmodul gibt einen Hilfetext aus und beendet sich an- |
 | -m | Das Prüfmodul verschiebt bereits geprüfte Dateien bzw. Zip- |
-| -p | Alle Konfigurationsmöglichkeiten der Konfigurationsdatei, kön- ter ist optional. |
+| -p | Alle Konfigurationsmöglichkeiten der Konfigurationsdatei, kön-  ter ist optional. |
 | -s | Das Prüfmodul wird im sogenannten Servermodus gestartet. |
 
 XML-Konfigurationsdatei. verarbeitet alle Dateien eines Eingangsverzeichnisses und be- endet sich anschließend. Diese Option ist nur in Kombination mit Servermodus aufrufbar. Dieser Übergabeparameter ist opti- hen, die vom Prüfmodul bearbeitet wird. Dieser Übergabepa- rameter ist optional. schließend. Archive in entsprechende Verzeichnisse, die in der Konfigurati- onsdatei eingestellt werden. Dieser Übergabeparameter ist op- nen nun über diesen Übergabeparameter gesetzt werden. Die Zuweisung erfolgt in der Form ’Schalter[@Attribut]=Wert’. Schalter ist ein beliebiger Schalter der Konfigurationsdatei. Soll nur das Attribut eines Schalters gesetzt werden so muss der Name des Attributes hinter dem @-Zeichen angegeben wer- den. Der Wert selbst wird hinter dem Gleichheitszeichen ange- geben. Dieser Parameter kann mehrfach übergeben werden, um diverse Einstellungen vorzunehmen. Bitte beachten Sie, dass die hier übergebenen Parameter die Einstellungen der Konfigurationsdatei überschreiben. Schauen Sie sich zum bes- seren Verständnis das Beispiel 4 an. Dieser Übergabeparame- XPM_LDK verarbeitet im 30 Sekunden-Takt Dateien eines Ein- gangsverzeichnisses. Der Abbruch des Programmlaufs kann über CTRL-C erfolgen. Dieser Übergabeparameter ist optional.
@@ -616,8 +642,8 @@ XML-Konfigurationsdatei. verarbeitet alle Dateien eines Eingangsverzeichnisses u
 | -v | Das Prüfmodul gibt die Versionsnummer des XPM-Kernels aus |
 |---|---|
 | -z | Hinter dieser Option sollte die Pfadangabe einer Zip-Datei ste- |
-| -x | Der Parameter –x aktiviert die Prüfung der digitalen Muster. Der Der Parameter darf nicht gleichzeitig mit –y aufgerufen werden. |
-| -y | Der Parameter –y aktiviert den PDF-LDT abgleich zwischen der Dieser Parameter darf nicht gleichzeitig mit dem Parameter –x Bsp: -y ./DigitaleMuster/xyz.pdf |
+| -x | Der Parameter –x aktiviert die Prüfung der digitalen Muster. Der  Der Parameter darf nicht gleichzeitig mit –y aufgerufen werden. |
+| -y | Der Parameter –y aktiviert den PDF-LDT abgleich zwischen der  Dieser Parameter darf nicht gleichzeitig mit dem Parameter –x  Bsp: -y ./DigitaleMuster/xyz.pdf |
 
 **Tabelle 3: Übergabeparameter**
 
@@ -637,9 +663,13 @@ XPM_LDK liest die Konfigurationsdatei ‘Konfig/konfig.xml’ ein und prüft die
 
 Übergabeparameter: -c Konfig/konfig.xml –s -e
 
+**XPM-LDK.praxis**
+
 und beendet sich anschließend. Wird außer diesem Übergabe- parameter auch noch die Konfigurationsdatei (Übergabepara- meter -c) angegeben, so wird zusätzlich die Versionsnummer des Prüfpaketes ausgegeben. hen, die vom Prüfmodul bearbeitet wird. Der Inhalt des Zip- Archivs darf nur Prüfdateien enthalten. Dieser Übergabepara- meter ist optional. Pfad zum PDF wird mit –f %PFAD% übergeben, außer bei der Verzeichnisprüfung. Bsp: -x –f ./DigitaleMuster PDF-Datei, deren Pfad hinter diesem Parameter angegeben wird und der LDT-Datei, deren Pfad hinter dem Parameter –f angegeben wird. –f ./LDT/Z0112345.ldt
 
 ---
+
+**XPM-LDK.praxis**
 
 XPM_LDK liest die Konfigurationsdatei ‘Konfig/konfig.xml’ ein und prüft das komplette  Verzeichnis, welches in der Konfigurationsdatei unter dem Konfigurationsschalter  ’pruefdaten’ angegeben wurde. Anschließend wird XPM_LDK beendet.
 
@@ -674,6 +704,8 @@ Das XPM_LDK liest die Konfigurationsdatei „konfig.xml“ ein und vergleicht de
 
 ---
 
+**XPM-LDK.praxis**
+
 # 3.5 Arbeiten mit grafischer Oberfläche
 
 Die grafische Oberfläche stellt eine Alternative zum Kommandozeilen-Programm dar.  Es können sowohl Verzeichnisse als auch Zip-Archive geprüft werden.
@@ -690,6 +722,8 @@ Ist lediglich eine LDT-Datei ausgewählt, kann nur der Modus „Nur LDT“ ausge
 
 
 ---
+
+**XPM-LDK.praxis**
 
 # 3.5.2 Prüfung starten
 
@@ -711,6 +745,8 @@ Unter den Optionen kann das Prüfmodul konfiguriert werden.
 # 3.5.4 Ansicht
 
 Unter „Ansicht“ kann die Fehlerstatistik und das Prüfprotokoll aufgerufen werden.
+
+**XPM-LDK.praxis**
 
 
 ---
@@ -750,6 +786,8 @@ Der Parameter ‘de.kbv.pruefmodul.GUI. LDK’ ist der Name einer Klasse, die da
 XPM startet.
 
 Die Parameter ‘–c’ und ‘–f’ sind die eigentlichen Übergabeparameter, die an das Prüf-  programm übergeben werden.
+
+**XPM-LDK.praxis**
 
 
 ---
@@ -796,8 +834,12 @@ System.***out*** **println**("Einzel-Prüfung mit Status " + **nStatus** + " bee
 
 System.***out*** **println**();
 
+**XPM-LDK.praxis**
+
 
 ---
+
+**XPM-LDK.praxis**
 
 # 5. Prüfungen des XPM-LDK
 
@@ -864,6 +906,8 @@ control:Formularversion="07.2017"/>
 
 ---
 
+**XPM-LDK.praxis**
+
 # 5.1.1 Einhaltung Anzahl erlaubter Zeichen
 
 Das Prüfmodul prüft für alle textbasierten PDF-Formularfelder in der zu prüfenden PDF-  Datei ob die Länge des Inhaltes des Feldes kleiner oder gleich der im technischen  Handbuch angegebenen maximal zulässigen Anzahl an Zeichen ist. Bei PDF-Feldern  mit variabler Schriftgröße wird vom Prüfmodul zunächst die verwendete Schriftgröße  und anschließend die Anzahl der Zeichen ermittelt. Ist der Inhalt länger als laut techni-  schem Handbuch erlaubt, wird eine Fehlermeldung ausgegeben.
@@ -901,6 +945,8 @@ Das Prüfmodul validiert die PDF-Datei gegen die PDF/A3a – Spezifikation. Bei 
 
 Das Prüfmodul prüft, ob alle Felder entsprechend den Vorgaben des techn. Handbuchs  vorhanden sind und alle Felder korrekt benannt sind. Bei einem Verstoß gibt das Prüf-  modul einen Fehler aus.
 
+**XPM-LDK.praxis**
+
 
 ---
 
@@ -936,8 +982,12 @@ Das Prüfmodul prüft, ob der Inhalt des PDF-Formularfelds „4134_Kostenträger
 
 Das Prüfmodul prüft, ob der Inhalt des PDF-Formularfelds „3116_WOP“ mit dem Inhalt  des LDT-Felds mit Feldkennung „3116“ identisch ist. Ist dies nicht der Fall wird ein ent-  sprechender Hinweis ausgegeben.
 
+**XPM-LDK.praxis**
+
 
 ---
+
+**XPM-LDK.praxis**
 
 # 5.2.1.3 Nachname ist in beiden Dateien identisch
 
@@ -990,6 +1040,8 @@ Das PDF-Feld „0000_Wohnsitzlaendercode_PLZ_Ort“ wird entsprechend der Vorgab
 
 ---
 
+**XPM-LDK.praxis**
+
 - b) PLZ(PDF) = LDT FK 3112 und - c) Ort(PDF) = LDT FK 3113
 
 Ist das nicht der Fall, wird ein entsprechender Hinweistext ausgegeben.
@@ -1036,6 +1088,8 @@ Ist der Inhalt des PDF-Feldes „0000_weitere_Kennzeichen“ = 1, dann muss das 
 
 
 ---
+
+**XPM-LDK.praxis**
 
 chungsanforderungen durchgeführt und gilt als bestanden, wenn alle Anforderungen  positiv getestet wurden.
 
@@ -1116,8 +1170,12 @@ Das Prüfmodul prüft, ob das Abnahmedatum im maschinenlesbaren Teil des Inhalts
 
 Ist das nicht der Fall, wird ein entsprechender Hinweis ausgegeben.
 
+**XPM-LDK.praxis**
+
 
 ---
+
+**XPM-LDK.praxis**
 
 # 5.2.1.25 Die Abnahmezeit muss in beiden Dateien identisch sein.
 
@@ -1200,8 +1258,12 @@ Es wird davon ausgegangen, dass
 
 -  Ist eine der genannten Kombinationen im Objekt „Untersuchungsanforderung“  vorhanden, können die jeweils anderen Kombinationen in diesem Objekt nicht  mehr vorkommen.
 
+**XPM-LDK.praxis**
+
 
 ---
+
+**XPM-LDK.praxis**
 
 Da das Feld „Auftrag“ im LDT mehrfach und in verschiedenen Konstellationen (siehe  oben) vorkommen kann, um den Inhalt wiederzugeben, werden diese Felder so geprüft,  dass zunächst die LDT-Felder der ersten Untersuchungsanforderung ausgelesen wer-  den und geprüft wird, ob der Inhalt der LDT-Felder in der Zeichenkette im PDF-Feld
 
@@ -1263,3 +1325,5 @@ Ist das nicht der Fall, wird ein entsprechender Hinweis ausgegeben.
 # 5.3 Prüfungen im Prüfmodus „LDT“ bzw. „LDT Verzeichnisprüfung“
 
 Es werden die Vorgaben in der LDT 3.0 – Datensatzbeschreibung geprüft. Hierbei wird  über die Konfiguration gesteuert, welcher Regelsatz (basis, kbv, qms, gesamt) verwen-  det wird.
+
+**XPM-LDK.praxis**

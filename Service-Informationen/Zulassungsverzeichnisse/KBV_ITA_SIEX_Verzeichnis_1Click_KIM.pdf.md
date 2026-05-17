@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**09. MAI 2026**
+**16. MAI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -30,7 +30,7 @@
 |---|---|---|---|
 |  | Y/169/2409/36/031 | 31.08.2027 |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 09. Mai 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 16. Mai 2026
 
 Y/169/2407/36/395
 
@@ -44,6 +44,11 @@ MAP Software für Laborärzte Andaco Consulting & Trading GmbH Emkendorfstraße 
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **Arztpraxis Wiegand**
 
@@ -59,14 +64,7 @@ MAP Software für Laborärzte Andaco Consulting & Trading GmbH Emkendorfstraße 
 
 Y/169/2402/36/081
 
-Y/169/2409/36/078
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-31.01.2027
+Y/169/2409/36/078 31.01.2027
 
 31.08.2027
 
@@ -76,6 +74,11 @@ RAD+ RIS System boos-uttenthaler-garcia RAD+ Entwicklungsgesellschaft bR Augusti
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **amasys**
 
@@ -91,14 +94,7 @@ RAD+ RIS System boos-uttenthaler-garcia RAD+ Entwicklungsgesellschaft bR Augusti
 
 Y/169/2407/36/323
 
-Y/169/2406/36/459
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-30.06.2027
+Y/169/2406/36/459 30.06.2027
 
 31.05.2027
 
@@ -108,6 +104,11 @@ CGM MEDICO CGM Clinical Europe GmbH Hadersberg 1 84427 Sankt Wolfgang Internet: 
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **MOLIS**
 
@@ -121,18 +122,11 @@ CGM MEDICO CGM Clinical Europe GmbH Hadersberg 1 84427 Sankt Wolfgang Internet: 
 |---|---|---|---|
 |  | Y/169/2410/36/729 | 30.09.2027 |  |
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 09. Mai 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 16. Mai 2026
 
 Y/169/2408/36/706
 
-Y/169/2408/36/263
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-31.07.2027
+Y/169/2408/36/263 31.07.2027
 
 31.07.2027
 
@@ -142,6 +136,11 @@ PROMED-open / X-PROMED Clinisys Deutschland GmbH Am Klingenweg 6 65396 Walluf In
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **Co-Fox Pathologie (LIMS)**
 
@@ -157,14 +156,7 @@ PROMED-open / X-PROMED Clinisys Deutschland GmbH Am Klingenweg 6 65396 Walluf In
 
 Y/169/2501/36/702
 
-Y/169/2409/36/346
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-31.12.2027
+Y/169/2409/36/346 31.12.2027
 
 31.08.2027
 
@@ -174,6 +166,11 @@ Z1 CompuGroup Medical Dentalsysteme GmbH Maria Trost 25 56070 Koblenz Internet: 
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **ALBIS**
 
@@ -189,14 +186,7 @@ Z1 CompuGroup Medical Dentalsysteme GmbH Maria Trost 25 56070 Koblenz Internet: 
 
 Y/169/2410/36/203
 
-Y/169/2409/36/023
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-30.09.2027
+Y/169/2409/36/023 30.09.2027
 
 31.08.2027
 
@@ -206,6 +196,11 @@ CGM M1 PRO CompuGroup Medical Deutschland AG Maria Trost 25 56070 Koblenz Intern
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **CGM MEDISTAR BLACK PRO**
 
@@ -223,14 +218,7 @@ Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK
 
 Y/169/2501/36/280
 
-Y/169/2505/36/752
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-31.12.2027
+Y/169/2505/36/752 31.12.2027
 
 30.04.2028
 
@@ -240,6 +228,11 @@ DS-WIN-PLUS (DS-WIN-MED) DAMPSOFT GmbH Vogelsang 1 24351 Damp Internet: www.damp
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **InterMediNet KVDT**
 
@@ -255,14 +248,7 @@ DS-WIN-PLUS (DS-WIN-MED) DAMPSOFT GmbH Vogelsang 1 24351 Damp Internet: www.damp
 
 Y/169/2411/36/238
 
-Y/169/2407/36/254
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-31.10.2027
+Y/169/2407/36/254 31.10.2027
 
 30.06.2027
 
@@ -272,6 +258,11 @@ Opus::L Labormanagementsystem Dedalus Labor GmbH Ruhrallee 201 45136 Essen Inter
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **inSuite**
 
@@ -287,14 +278,7 @@ Opus::L Labormanagementsystem Dedalus Labor GmbH Ruhrallee 201 45136 Essen Inter
 
 Y/169/2408/36/488
 
-Y/169/2409/36/677
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-31.07.2027
+Y/169/2409/36/677 31.07.2027
 
 31.08.2027
 
@@ -304,6 +288,11 @@ i/med Billing Dorner GmbH & Co. KG Neuenburger Straße 4 79379 Müllheim Interne
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **apraxos**
 
@@ -317,18 +306,11 @@ i/med Billing Dorner GmbH & Co. KG Neuenburger Straße 4 79379 Müllheim Interne
 |---|---|---|---|
 |  | Y/169/2407/36/561 | 30.06.2027 |  |
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 09. Mai 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 16. Mai 2026
 
 Y/169/2408/36/602
 
-Y/169/2401/36/086
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-31.07.2027
+Y/169/2401/36/086 31.07.2027
 
 31.12.2026
 
@@ -338,6 +320,11 @@ Xplore RIS EDL Software Deutschland GmbH Sprockhövelerstraße 4 45527 Hattingen
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **Elea Lab**
 
@@ -351,18 +338,11 @@ Xplore RIS EDL Software Deutschland GmbH Sprockhövelerstraße 4 45527 Hattingen
 |---|---|---|---|
 |  | Y/169/2409/36/223 | 31.08.2027 |  |
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 09. Mai 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 16. Mai 2026
 
 Y/169/2507/36/769
 
-Y/169/2407/36/295
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-30.06.2028
+Y/169/2407/36/295 30.06.2028
 
 30.06.2027
 
@@ -372,6 +352,11 @@ PsychoDat ergosoft GmbH Bahnhofstraße 11 c 67159 Friedelsheim Internet: www.erg
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **EVIDENT**
 
@@ -385,18 +370,11 @@ PsychoDat ergosoft GmbH Bahnhofstraße 11 c 67159 Friedelsheim Internet: www.erg
 |---|---|---|---|
 |  | Y/169/2505/36/478 | 30.04.2028 |  |
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 09. Mai 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 16. Mai 2026
 
 Y/169/2408/36/421
 
-Y/169/2407/36/034
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-31.07.2027
+Y/169/2407/36/034 31.07.2027
 
 30.06.2027
 
@@ -406,6 +384,11 @@ FIDUS FIDUS Software Entwicklungs-GmbH Frankfurter Landstr. 117 64291 Darmstadt 
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **theHub**
 
@@ -421,14 +404,7 @@ FIDUS FIDUS Software Entwicklungs-GmbH Frankfurter Landstr. 117 64291 Darmstadt 
 
 Y/169/2504/36/630
 
-Y/169/2411/36/244
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-31.03.2028
+Y/169/2411/36/244 31.03.2028
 
 31.10.2027
 
@@ -438,6 +414,11 @@ Doctorly Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet: 
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **Centricity RIS-i**
 
@@ -453,14 +434,7 @@ Doctorly Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet: 
 
 Y/169/2407/36/417
 
-Y/169/2501/36/195
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-30.06.2027
+Y/169/2501/36/195 30.06.2027
 
 31.12.2027
 
@@ -470,6 +444,11 @@ Elefant HASOMED GmbH Paul-Ecke-Str. 1 39114 Magdeburg Internet: www.hasomed.de I
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **ifa|NX-NEXT Generation AIS**
 
@@ -485,14 +464,7 @@ Elefant HASOMED GmbH Paul-Ecke-Str. 1 39114 Magdeburg Internet: www.hasomed.de I
 
 Y/169/2409/36/451
 
-Y/169/2502/36/473
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-31.08.2027
+Y/169/2502/36/473 31.08.2027
 
 31.01.2028
 
@@ -502,6 +474,11 @@ imassense ISG imassense Deutschland GmbH Buckower Chaussee 106 - 107 12277 Berli
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **Medical Office**
 
@@ -517,14 +494,7 @@ imassense ISG imassense Deutschland GmbH Buckower Chaussee 106 - 107 12277 Berli
 
 Y/169/2409/36/210
 
-Y/169/2410/36/136
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-31.08.2027
+Y/169/2410/36/136 31.08.2027
 
 30.09.2027
 
@@ -534,6 +504,11 @@ esQlab.online IQVIA Commercial GmbH & Co OHG Angela-Stadler-Str. 9 78224 Singen 
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **CLASSY RT**
 
@@ -549,14 +524,7 @@ esQlab.online IQVIA Commercial GmbH & Co OHG Angela-Stadler-Str. 9 78224 Singen 
 
 Y/169/2407/36/385
 
-Y/169/2409/36/741
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-30.06.2027
+Y/169/2409/36/741 30.06.2027
 
 31.08.2027
 
@@ -566,6 +534,11 @@ smartLIS Laborinformationssystem Abrechnungsmodul labdock GmbH Helenenstieg 4 22
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **MELOS MeCom Arzt & Labor**
 
@@ -581,14 +554,7 @@ smartLIS Laborinformationssystem Abrechnungsmodul labdock GmbH Helenenstieg 4 22
 
 Y/169/2412/36/065
 
-Y/169/2409/36/716
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-30.11.2027
+Y/169/2409/36/716 30.11.2027
 
 31.08.2027
 
@@ -598,6 +564,11 @@ SYLAB Labor Dr. von Froreich GmbH Großmoorbogen 25 21079 Hamburg Internet: www.
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **H&S Laborsoftware**
 
@@ -611,18 +582,11 @@ SYLAB Labor Dr. von Froreich GmbH Großmoorbogen 25 21079 Hamburg Internet: www.
 |---|---|---|---|
 |  | Y/169/2408/36/216 | 31.07.2027 |  |
 
-Seite 20 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 09. Mai 2026
+Seite 20 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 16. Mai 2026
 
 Y/169/2409/36/375
 
-Y/169/2412/36/721
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-31.08.2027
+Y/169/2412/36/721 31.08.2027
 
 30.11.2027
 
@@ -632,6 +596,11 @@ EL - Elaphe Longissima medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Inte
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **x.concept**
 
@@ -645,18 +614,11 @@ EL - Elaphe Longissima medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Inte
 |---|---|---|---|
 |  | Y/169/2408/36/256 | 31.07.2027 |  |
 
-Seite 21 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 09. Mai 2026
+Seite 21 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 16. Mai 2026
 
 Y/169/2406/36/243
 
-Y/169/2405/36/266
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-31.05.2027
+Y/169/2405/36/266 31.05.2027
 
 30.04.2027
 
@@ -666,6 +628,11 @@ medatixx medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.meda
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **eRIS**
 
@@ -681,14 +648,7 @@ medatixx medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.meda
 
 Y/169/2407/36/439
 
-Y/169/2411/36/433
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-30.06.2027
+Y/169/2411/36/433 30.06.2027
 
 31.10.2027
 
@@ -699,6 +659,11 @@ WIN-RADIOLOG medigration GmbH Dr.-Rudolf-Eberle-Straße 8 - 10 76534 Baden-Baden
 
 ---
 
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
+
 **MEDIPX**
 
 **MEDITEC Medizinische Datentechnologie GmbH** Griesbergstraße 1B-C 31162 Bad Salzdetfurth Internet: www.meditec-gmbh.com
@@ -707,19 +672,17 @@ WIN-RADIOLOG medigration GmbH Dr.-Rudolf-Eberle-Straße 8 - 10 76534 Baden-Baden
 |---|---|---|---|
 |  | Y/169/2410/36/192 | 30.09.2027 |  |
 
-Y/169/2412/36/087
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-30.11.2027
+Y/169/2412/36/087 30.11.2027
 
 EKM-LAB Medizinisches Labor Ostsachsen MVZ eGbR Flinzstraße 1 02625 Bautzen Internet: www.labor-ostsachsen.de MEDICUSplus MEDNET Service für Ärzte AG Prälat-van-Acken-Straße 14 50935 Köln Internet: www.mednet.de Windows WindowsLinux Windows
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **MEDVISION**
 
@@ -731,19 +694,17 @@ Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPH
 |---|---|---|---|
 |  | Y/169/2312/36/290 | 30.11.2026 |  |
 
-Seite 24 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 09. Mai 2026
+Seite 24 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 16. Mai 2026
 
-Y/169/2312/37/251
+MEDYS MEDYS GmbH Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de M-KIS Meierhofer AG Einsteinring 30 85609 Aschheim Internet: www.meierhofer.com Mac OS Windows WindowsY/169/2312/37/251 31.12.2026 Windows
+
+
+---
 
 |  |  | **Prüfnummer** | **unterstützte** |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
-
-MEDYS MEDYS GmbH Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de M-KIS Meierhofer AG Einsteinring 30 85609 Aschheim Internet: www.meierhofer.com Mac OS Windows Windows31.12.2026 Windows
-
-
----
 
 **RadCentre Billing (OPD)**
 
@@ -759,14 +720,7 @@ MEDYS MEDYS GmbH Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de M-KIS 
 
 Y/169/2407/36/276
 
-Y/169/2407/36/422
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-30.06.2027
+Y/169/2407/36/422 30.06.2027
 
 30.06.2027
 
@@ -776,6 +730,11 @@ LabCentre Mesalvo Mannheim GmbH Am Exerzierplatz 14 68167 Mannheim Internet: htt
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **Pro_Medico**
 
@@ -791,14 +750,7 @@ LabCentre Mesalvo Mannheim GmbH Am Exerzierplatz 14 68167 Mannheim Internet: htt
 
 Y/169/2404/36/043
 
-Y/169/2403/36/299
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-31.03.2027
+Y/169/2403/36/299 31.03.2027
 
 28.02.2027
 
@@ -808,6 +760,11 @@ MEDOS NEXUS / CHILI GmbH Friedrich-Ebert-Str. 2 69221 Dossenheim Internet: https
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **NEXUS / PATHOLOGIE und NEXUS / ZYTOLOGIE**
 
@@ -823,14 +780,7 @@ MEDOS NEXUS / CHILI GmbH Friedrich-Ebert-Str. 2 69221 Dossenheim Internet: https
 
 Y/169/2412/36/345
 
-Y/169/2501/36/441
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-30.11.2027
+Y/169/2501/36/441 30.11.2027
 
 31.12.2027
 
@@ -840,6 +790,11 @@ NEXUS / KIS NEXUS AG Irmastraße 1 78166 Donaueschingen Internet: www.nexus-ag.d
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **PegaMed**
 
@@ -855,14 +810,7 @@ NEXUS / KIS NEXUS AG Irmastraße 1 78166 Donaueschingen Internet: www.nexus-ag.d
 
 Y/169/2311/36/083
 
-Y/169/2409/36/475
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-31.10.2026
+Y/169/2409/36/475 31.10.2026
 
 31.08.2027
 
@@ -872,6 +820,11 @@ GenLAB8 projodis GmbH Gebrüder-Freitag-Straße 1 35510 Butzbach Internet: http:
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **psyprax**
 
@@ -887,14 +840,7 @@ GenLAB8 projodis GmbH Gebrüder-Freitag-Straße 1 35510 Butzbach Internet: http:
 
 Y/169/2403/36/348
 
-Y/169/2405/36/456
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-28.02.2027
+Y/169/2405/36/456 28.02.2027
 
 30.04.2027
 
@@ -904,6 +850,11 @@ RED Medical RED Medical Systems GmbH Lutzstraße 2 80687 München Internet: www.
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **S3-Win**
 
@@ -919,14 +870,7 @@ RED Medical RED Medical Systems GmbH Lutzstraße 2 80687 München Internet: www.
 
 Y/169/2411/36/261
 
-Y/169/2407/36/343
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-31.10.2027
+Y/169/2407/36/343 31.10.2027
 
 30.06.2027
 
@@ -936,6 +880,11 @@ ARZT 2000 Schmidt Computersysteme Chrysanthemenweg 4 02827 Görlitz Internet: ww
 
 
 ---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **principa**
 
@@ -957,14 +906,7 @@ Y/169/2407/36/458
 
 Y/169/2601/36/770
 
-Y/169/2410/36/454
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-30.06.2027
+Y/169/2410/36/454 30.06.2027
 
 31.12.2028
 
@@ -979,6 +921,11 @@ MEDI_LINE Strzata, Dr. med. Norbert Kirschgarten 1 99510 Kapellendorf proLAB Sys
 
 ---
 
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
+
 **T2med**
 
 **T2med GmbH & Co. KG** Bismarckallee 15 24105 Kiel Internet: www.t2med.de
@@ -991,18 +938,11 @@ MEDI_LINE Strzata, Dr. med. Norbert Kirschgarten 1 99510 Kapellendorf proLAB Sys
 |---|---|---|---|
 |  | Y/169/2311/36/457 | 31.10.2026 |  |
 
-Seite 32 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 09. Mai 2026
+Seite 32 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 16. Mai 2026
 
 Y/169/2410/36/498
 
-Y/169/2409/36/313
-
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-
-30.09.2027
+Y/169/2409/36/313 30.09.2027
 
 31.08.2027
 
@@ -1019,4 +959,4 @@ UNISOLO®-POESY UNISOLO® GmbH Gaußstr. 7 38106 Braunschweig Internet: www.unis
 |  |  | **gültig bis** | **Betriebssysteme** |
 |  | Y/169/2509/36/768 | 31.08.2028 |  |
 
-tomedo.air Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Mac OS WindowsSeite 33 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 09. Mai 2026
+tomedo.air Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Mac OS WindowsSeite 33 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 16. Mai 2026

@@ -21,7 +21,7 @@ EBM- Schnittstelle (GOS)   extern
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.40 | 08.08.2013 | KBV | Umwandlung der Versicherten- | Bestätigung der Regelungen |  |
-| 1.30 | 2.6.07.2013 | KBV | Abrechnung der Versicherten- PFG-Ausschluss Erläuterung der PFG Zusammenfassung | Verwendung der altersklas- Filterkriterium für Leistungen Zuschlag zur VP, Abbildung wahrscheinliche Szenarien |  |
+| 1.30 | 26.07.2013 | KBV | Abrechnung der Versicherten- PFG-Ausschluss  Erläuterung der PFG  Zusammenfassung | Verwendung der altersklas- Filterkriterium für Leistungen  Zuschlag zur VP, Abbildung  wahrscheinliche Szenarien |  |
 | 1.20 | 10.07.2013 | KBV | Erläuterung versorgungsbe- |  |  |
 | 1.10 | 05.07.2013 | KBV | Weitergehende Verwendung | Anpassung an finale Be- | Fehler! |
 | 1.00 | 01.07.2013 | KBV |  |  |  |
@@ -142,9 +142,7 @@ Um die grundversorgungsfremden Leistungen direkt filtern zu können, sind diese 
 
 über das Attribut (*pfg_ausschluss = true*) gekennzeichnet.
 
-| 1 |  |  |
-|---|---|---|
-| Im Anhang | 3 des EBM | sind diese |
+1 Im Anhang 3 des EBM sind diese Leistungen mit einem * hinter der Nummer hervorgehoben.
 
 Zusätzlich beinhalten diese, über die fachärztliche Grundversorgung hinausgehenden Leis- tungen, gegenseitige Ausschlüsse gegen die fachärztlichen Zusatzpauschalen
 
@@ -162,16 +160,11 @@ Die GOP -Art ist derzeit optional, wird aber durch die KBV initial für alle GOP
 
 tungen angegeben wird.
 
-Im Anhang 3 des EBM sind diese Leistungen mit einem * hinter der Nummer hervorgehoben.
 
 ---
 
-| **Dezernat** | **6 –** | **Informationstechnik,** |  | **Telematik** | **und** | **Telemedizin** |  |  |
-|---|---|---|---|---|---|---|---|---|
-| **Abbildung** | **5:** | **Schlüsselwerte** | **für die** | **GOP-Art,** | **grau** | **– derzeit** | **nicht** | **in Verwendung** |
-| Abbildung | des HA-EBM | auf die | EBM-Schnittstelle | (GOS) |  |  |  |  |
+#### Abbildung 5: Schlüsselwerte für die GOP-Art, grau  derzeit nicht in Verwendung
 
-Abbildung 5: Schlüsselwerte für die GOP-Art, grau derzeit nicht in Verwendung
 
 ---
 

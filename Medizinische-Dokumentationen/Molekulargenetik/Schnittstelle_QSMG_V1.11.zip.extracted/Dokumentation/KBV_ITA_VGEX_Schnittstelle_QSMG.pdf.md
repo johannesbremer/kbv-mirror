@@ -105,8 +105,12 @@ bzgl. veralteter Links überarbeitet
 
 4.3.9 unterauftrag_anzahl ............................................................................................................. 23
 
+Molekulargenetik
+
 
 ---
+
+Molekulargenetik
 
 4.3.10 einsender_lanr_anzahl .................................................................................................... 23
 
@@ -155,6 +159,8 @@ bzgl. veralteter Links überarbeitet
 
 **Abbildung 14 - Element fachgruppe_einsender_liste/fachgruppe_einsender ................ 24**
 
+Molekulargenetik
+
 
 ---
 
@@ -165,6 +171,8 @@ bzgl. veralteter Links überarbeitet
 **Tabelle 2 – Beschreibung der Strukturelement-Symbole ................................................. 10**
 
 **Tabelle 3 – Beschreibung sonstiger Symbole ................................................................... 11**
+
+Molekulargenetik
 
 
 ---
@@ -183,6 +191,8 @@ bzgl. veralteter Links überarbeitet
 
 **XML-Code 6 - qsmg dokumentation ................................................................................... 19**
 
+Molekulargenetik
+
 
 ---
 
@@ -196,7 +206,7 @@ Dieses Dokument beschreibt die Schnittstelle QS Molekulargenetik. Die Schnittste
 
 ## 1.1 Zweck des Dokuments
 
-Das vorliegende Dokument erklärt dem Leser, wie die Schnittstelle eDoku-Portal aussieht, wie  sie funktioniert und wie er sie aufrufen kann.
+Das vorliegende Dokument erklärt dem Leser, wie die Schnittstelle e Doku-Portal aussieht, wie  sie funktioniert und wie er sie aufrufen kann.
 
 Der Leser soll erfahren was er tun muss, um die Jahresstatistik über die Schnittstelle einzu- reichen. Dazu gehört sowohl das technische Verständnis für die Schnittstelle, als auch das  fachliche Wissen darüber, wie valide Daten aussehen und in welcher Form sie von der  Schnittstelle erwartet werden.
 
@@ -204,8 +214,12 @@ Der Leser soll erfahren was er tun muss, um die Jahresstatistik über die Schnit
 
 Das Dokument richtet sich an Hersteller von Praxisverwaltungs- bzw. Arztinformationssyste- men, die Aufrufe der Schnittstelle in ein Softwareprodukt einbinden wollen.
 
+Molekulargenetik
+
 
 ---
+
+Molekulargenetik
 
 # 2. Dateinamen
 
@@ -257,6 +271,8 @@ Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinand
 
 **Tabelle 2 – Beschreibung der Strukturelement-Symbole**
 
+Molekulargenetik
+
 gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen.  Existieren keine Daten zu diesem Element, wird es nicht angegeben. Das Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1.. aus, dass das Element mindestens einmal vorkommen muss aber auch unendlich mal auftreten kann.  drückt z.B. elementen genau eins ausgewählt werden kann. in festgelegter Reihenfolge aufgeführt werden müssen.
 
 ---
@@ -274,9 +290,13 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 **Tabelle 3 – Beschreibung sonstiger Symbole**
 
+Molekulargenetik
+
 zeichen am Rechteckrand symbolisiert. das Element an anderer Stelle im Schema definiert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein. siert einen Datentyp.  Gruppenelement dar, welches verschiedene Elemente zusam- menfasst.
 
 ---
+
+Molekulargenetik
 
 # 4. Beschreibung der ehd-Schnittstelle
 
@@ -355,10 +375,12 @@ mente eingeschränkt:
 
 **Abbildung 4 - Element document_relationship**
 
+Molekulargenetik
+
 
 ---
 
-| <ehd:document_relationship> <ehd:document_relationship.type_cd V="RPLC"/> <ehd:related_document> < </ehd:related_document> </ehd:document_relationship> |
+| <ehd:document_relationship>  <ehd:document_relationship.type_cd V="RPLC"/>  <ehd:related_document>  < </ehd:related_document>  </ehd:document_relationship> |
 |---|
 
 **XML-Code 2 - document_relationship**
@@ -385,13 +407,15 @@ Betriebsstättennummer, (id-Element EX-Attribut enthält die Betriebsstätten- n
 
 **Abbildung 6 - Element interface**
 
+Molekulargenetik
+
 id EX=" ag111105-2d51-4016-831e-cbd9e1a318h9 " RT="278012312"/>
 
 ---
 
 XML-Beispiel
 
-| </ehd:person>     </ehd:organization>             <ehd:local_header>           </ehd:header> |
+| </ehd:person>        </ehd:organization>                    <ehd:local_header>                  </ehd:header> |
 |---|
 
 **XML-Code 3 - ehd-header**
@@ -407,6 +431,8 @@ Die Information über die Software und deren Verantwortliche wird mittels der Sc
 *phox:id*. Die Struktur für dieses Element ist in Abbildung 7 dargestellt.
 
 **Abbildung 7 - Element sciphox:Software**
+
+Molekulargenetik
 
 <ehd:header> <ehd:id RT="123456789" EX="ag111105-2d51-4016-831e-cbd9e1a318h9"/> <ehd:document_type_cd V="QSMG"/> <ehd:origination_dttm V="2013-02-02"/> <ehd:provider> <ehd:person> <ehd:id EX="555333222" RT="1.2.276.0.76.4.16"/> <ehd:organization> <ehd:id EX="123456789" RT="1.2.276.0.76.4.17"/> </ehd:provider> <ehd:interface> <ehd:id EX="QSMG" RT="1.2.276.0.76.5.109"/> <ehd:interface.nm V="QS Molekulargenetik"/> <ehd:version V="1.00"/> <ehd:/interface> <sciphox:sciphox-ssu type="software" country="de" version="v1"> <sciphox:Software> <sciphox:id  EX="..." RT="KBV-Prüfnummer"/>   </sciphox:Software> </sciphox:sciphox-ssu> </ehd:local_heaer>
 
@@ -444,6 +470,8 @@ Als Beispiel sei hier der folgende Code mit fiktiver KBV-Prüfnummer angegeben:
 
 **XML-Code 5 - id (Software)**
 
+Molekulargenetik
+
 
 ---
 
@@ -463,18 +491,24 @@ Das Element *qsmg_dokumentation* enthält die QS Molekulargenetik Jahresstatisti
 
 **Abbildung 9 - Element qsmg_dokumentation**
 
+Molekulargenetik
+
 
 ---
 
 | <qsmg:qsmg_dokumentation |
 |---|
-| Die Jahresstatistik enthält weitere Elemente die nachfolgend beschrieben werden.  XML-Beispiel (ohne Anspruch auf Vollständigkeit) <qsmg:qsmg_dokumentation |
+| Die Jahresstatistik enthält weitere Elemente die nachfolgend beschrieben werden.    XML-Beispiel (ohne Anspruch auf Vollständigkeit)  <qsmg:qsmg_dokumentation |
+
+Molekulargenetik
 
 xmlns:qsmg ="urn:ehd/qsmg/001 <behandlungsfall_anzahl  V="1500 "/> <diagnostische_fragestellung <behandlungsfall_anzahl  V="700"/> <pathologischer_befund_anzahl  V="300"/> <unauffaelliger_befund_anzahl  V="300"/> <nichtbeurteilbarer_befund_anzahl  V="100"/> </diagnostische_fragestellung <praediktive_fragestellung <behandlungsfall_anzahl V="500"/> <pathologischer_befund_anzahl  V="200"/> <unauffaelliger_befund_anzahl  V="100"/> <nichtbeurteilbarer_befund_anzahl  V="200"/> </praediktive_fragestellung <vorgeburtliche_fragestellung <behandlungsfall_anzahl  V="300"/> <pathologischer_befund_anzahl  V="100"/> <unauffaelliger_befund_anzahl  V="100"/> <nichtbeurteilbarer_befund_anzahl  V="100"/> </vorgeburtliche_fragestellung <leistung_liste> <leistung> <gop=" 11395"/> <gop_anzahl V="1200"/> <pathologischer_befund_anzahl  V="600"/> <unauffaelliger_befund_anzahl  V="400"/> <nichtbeurteilbarer_befund_anzahl  V="200"/> <fachgruppe_einsender_liste <fachgruppe_einsender <fachgruppe_nummer V="03"/> <einsendungen_anzahl  V="300"/> </fachgruppe_einsender <fachgruppe_einsender <fachgruppe_nummer V="02"/> <einsendungen_anzahl  V="300"/> </fachgruppe_einsender </fachgruppe_einsender_liste </leistung> <leistung> <gop=" 11432"/> <gop_anzahl V="500"/> <pathologischer_befund_anzahl  V="100"/> <unauffaelliger_befund_anzahl  V="100"/> <nichtbeurteilbarer_befund_anzahl  V="300"/> <fachgruppe_einsender_liste <fachgruppe_einsender <fachgruppe_nummer V="03"/> <einsendungen_anzahl  V="200"/> </fachgruppe_einsender <fachgruppe_einsender <fachgruppe_nummer V="05"/> <einsendungen_anzahl  V="300"/> </fachgruppe_einsender </fachgruppe_einsender_liste </leistung> </leistung_liste> <quotient_pathologisch <gop_anzahl V="700"/> <befund_anzahl V="600"/>
 
 ---
 
-| </qsmg:qsmg_dokumentation XML-Code 6 - qsmg dokumentation  4.3.1 b Die Anzahl (nonNegativeInteger ) aller Behandlungsfälle wird hier im V-Attribut angegeben.  4.3.2 Behandlungsfälle mit diagnostischer Fragestellung werden hier dokumentiert. Das Element 1 1 |
+Molekulargenetik
+
+| </qsmg:qsmg_dokumentation XML-Code 6 - qsmg dokumentation   4.3.1 b Die Anzahl (nonNegativeInteger ) aller Behandlungsfälle wird hier im V-Attribut angegeben.    4.3.2  Behandlungsfälle mit diagnostischer Fragestellung werden hier dokumentiert. Das Element  1 1 |
 |---|
 | </qsmg:qsmg_dokumentation |
 
@@ -524,6 +558,8 @@ Alle Angaben in den Kindelementen sind ähnlich wie in <*diagnostische_fragestel
 
 hen sich jedoch auf die Behandlungsfälle mit vorgeburtlicher Fragestellung.
 
+Molekulargenetik
+
 
 ---
 
@@ -563,8 +599,12 @@ Die Anzahl ( nonNegativeInteger) der Leistungen (GOP) aus Kapitel 4.3.5.1, die z
 
 Die Anzahl der Ärzte, die eine Probe zur genetischen Analyse geschickt haben (Überwei- sung), wird ermittelt. Aus der erfassten LANR des Überweisers (nach Muster 10 und 10a) je  Behandlungsfall wird die Fachgruppe (8.-9. Stelle der LANR) bestimmt.
 
+Molekulargenetik
+
 
 ---
+
+Molekulargenetik
 
 Das optionale Element fachgruppe_einsender_liste wird nur dann gefüllt, wenn  >= 150 ist. Wurden mehrere Fachgruppen ermittelt, wird für jede Fachgruppe das Element  *fachgruppe_einsender* und die Anzahl der Einsendungen angegeben.
 
@@ -604,6 +644,8 @@ Der Quotient (Float mit max. zwei Nachkommastellen) wird wie folgt berechnet:  *
 
 
 ---
+
+Molekulargenetik
 
 ### 4.3.7 quotient_unauffaellig
 
@@ -686,13 +728,17 @@ Das Produkt (nonNegativeInteger) aus ringversuchspflichtiger Untersuchung und de
 
 Das Produkt (nonNegativeInteger) aus ringversuchspflichtiger Untersuchung und erteilter Zer- tifikate im Jahr für diese Untersuchung wird hier im V-Attribut angegeben.
 
+Molekulargenetik
+
 
 ---
+
+Molekulargenetik
 
 # 5. Referenzierte Dokumente
 
 | Referenz | Dokument |
 |---|---|
 | [KBV_ITA_VGEX_eHD] | Richtlinie ehd - eHealthData |
-| [1] | Qualitätssicherungsvereinbarung Molekulargenetik http://www.kbv.de/html/themen_2846.php |
-| [2] | XML Schema Part 0: Primer Second Edition http://www.w3.org/TR/xmlschema-0/ |
+| [1] | Qualitätssicherungsvereinbarung Molekulargenetik  http://www.kbv.de/html/themen_2846.php |
+| [2] | XML Schema Part 0: Primer Second Edition  http://www.w3.org/TR/xmlschema-0/ |

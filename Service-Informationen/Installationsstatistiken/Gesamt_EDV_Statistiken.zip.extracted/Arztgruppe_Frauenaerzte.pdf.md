@@ -6,31 +6,31 @@
 
 **Id Praxissoftware**
 
-2.80 **CGM MEDISTAR BLACK PRO**
+280 **CGM MEDISTAR BLACK PRO**
 
-1.12 **TURBOMED**
+112 **TURBOMED**
 
-2.54 **ORBIS®**
+254 **ORBIS®**
 
-2.16 **x.isynet**
+216 **x.isynet**
 
-4.62 **medatixx**
+462 **medatixx**
 
-2.10 **Medical Office**
+210 **Medical Office**
 
-4.57 **tomedo**
+457 **tomedo**
 
-2.03 **ALBIS**
+203 **ALBIS**
 
-2.43 **x.concept**
+243 **x.concept**
 
-2.52 **CGM M1 PRO**
+252 **CGM M1 PRO**
 
-4.98 **T2med**
+498 **T 2med**
 
-2.26 **CGM MEDICO**
+226 **CGM MEDICO**
 
-2.44 **QUINCY WIN**
+244 **QUINCY WIN**
 
 **Anbieter**
 
@@ -54,7 +54,7 @@ medatixx GmbH & Co. KG
 
 CompuGroup Medical Deutschland AG
 
-T2med GmbH & Co. KG
+T 2med GmbH & Co. KG
 
 CGM Clinical Europe GmbH
 
@@ -62,59 +62,59 @@ Frey ADV GmbH 1
 
 **Installationen 2.Q.2025**
 
-1.706
+1 706
 
-7.70
+770
 
-5.59
+559
 
-4.82
+482
 
-3.99
+399
 
-3.63
+363
 
-3.57
+357
 
-3.15
+315
 
-3.11
+311
 
-2.87
+287
 
-2.44
+244
 
-1.86
+186
 
-1.60
+160
 
 **Installationen 1.Q.2025**
 
-1.740
+1 740
 
-7.86
+786
 
-5.59
+559
 
-4.96
+496
 
-3.81
+381
 
-3.62
+362
 
-3.45
+345
 
-3.14
+314
 
-3.19
+319
 
-2.90
+290
 
-2.36
+236
 
-1.87
+187
 
-1.62
+162
 
 **Differenz**
 
@@ -126,11 +126,11 @@ Frey ADV GmbH 1
 
 -14
 
-1.8
+18
 
 1
 
-1.2
+12
 
 1
 
@@ -149,19 +149,19 @@ Frey ADV GmbH 1
 
 **Id Praxissoftware**
 
-3.43 **SAP Ambulatory Care Management**
+343 **SAP Ambulatory Care Management**
 
-3.14 **IMedOne**
+314 **IMedOne**
 
-0.86 **DURIA**
+086 **DURIA**
 
-1.35 **EL - Elaphe Longissima**
+135 **EL - Elaphe Longissima**
 
-2.66 **x.comfort**
+266 **x.comfort**
 
-0.83 **PegaMed**
+083 **PegaMed**
 
-0.15 **MEDYS**
+015 **MEDYS**
 
 **Anbieter**
 
@@ -181,35 +181,35 @@ MEDYS GmbH 2
 
 **Installationen 2.Q.2025**
 
-1.48
+148
 
-1.39
+139
 
-1.33
+133
 
-1.32
+132
 
-1.30
+130
 
-9.4
+94
 
-8.5
+85
 
 **Installationen 1.Q.2025**
 
-1.57
+157
 
-1.36
+136
 
-1.33
+133
 
-1.32
+132
 
-1.35
+135
 
-9.6
+96
 
-8.9
+89
 
 **Differenz**
 

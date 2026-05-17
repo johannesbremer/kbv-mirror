@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 1.2. AUGUST 2022  VERSION: 4.46  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  12. AUGUST 2022   VERSION: 4.46   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # SCHNITTSTELLENBESCHR EIBUNG
@@ -344,9 +344,9 @@ WEGEN ASTHMA BRONCHIALE SEIT DER LETZTEN DOKUMENTATION .........................
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 4.46 | 12.08.2022 | KBV | Anpassung an die | Beschluss des G-BA | 19 |
-| 4.45 | 1.2.08.2022 | KBV | Redaktionelle Korrektur des |  | 34 |
-| 4.45 | 22.10.2020 | KBV | Anpassung an die Überführung in neues Design Vereinheitlichung des Hochziehen des Kapitels Textuelle Anpassungen an Löschung der Definition von Aufteilung von Kapitel 6.1.7.1 Austausch der Abbildung 2 Vereinheitlichung der Angabe | Beschluss des G-BA   Bedingt durch neues Layout  Wird in dieser Schnittstelle Überarbeitung aufgrund von Kardinalität in Abbildung | 19  Alle Alle 17ff  Alle   14  14ff |
-| 4.44 | 30.01.2019 | KBV | Erweiterung des Werteb | Anpassung an das | 14  22 |
+| 4.45 | 12.08.2022 | KBV | Redaktionelle Korrektur des |  | 34 |
+| 4.45 | 22.10.2020 | KBV | Anpassung an die  Überführung in neues Design  Vereinheitlichung des  Hochziehen des Kapitels  Textuelle Anpassungen an  Löschung der Definition von  Aufteilung von Kapitel 6.1.7.1  Austausch der Abbildung 2  Vereinheitlichung der Angabe | Beschluss des G-BA      Bedingt durch neues Layout    Wird in dieser Schnittstelle  Überarbeitung aufgrund von  Kardinalität in Abbildung | 19    Alle  Alle  17ff    Alle      14    14ff |
+| 4.44 | 30.01.2019 | KBV | Erweiterung des  Werteb | Anpassung an das | 14    22 |
 
 aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen) Parameters Therapieanpassung aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen) Wordings der DMP- Schnittstellen (bpsw. body wird zu <body>) 6.1.2.1 in der Hierarchisierung zu 6.1.3. Dadurch Änderung der Nummerierung aller Folgekapitel in Abschnitt 6.1 und Änderung von Kapitelverweisen. bestehende Schnittstelle <Zeitpunkt_dttm> in vier einzelne Abschnitte möglicher Ergebnistexte als Tabellen in Kapitel 6 und 7 Wertebereichs für den Parameter „Geschlecht des Patienten“ ereich „Körpergewicht“ dreistellig nicht verwendet Übersichtlichkeit und Eindeutigkeit korrigiert Personenstandsgesetz (PstG)
 
@@ -448,8 +448,8 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 |  |  |
 |---|---|
 | Symbol | Beschreibung |
-|  | Element mit Kindelementen Ein Element mit einem oder mehreren Kindelementen wird durch ein |
-|  | Referenzelement Der Pfeil links unten im Element zeigt an, dass das Element an anderer Stelle |
+|  | Element mit Kindelementen  Ein Element mit einem oder mehreren Kindelementen wird durch ein |
+|  | Referenzelement  Der Pfeil links unten im Element zeigt an, dass das Element an anderer Stelle |
 |  | Datentyp Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen Datentyp. |
 |  | Gruppenelement Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement dar, |
 
@@ -474,7 +474,7 @@ jedem Prüfmodul enthalten. Das Schema des Elements <levelone> von Asthma bronch
 
 Folgender Code ist für diese Elemente zwingend vorgeschrieben:
 
-| <?xml version="1.0" encoding="ISO-8859-15"?> <levelone xmlns="urn::hl7-org/cda"         </levelone> |
+| <?xml version="1.0" encoding="ISO-8859-15"?>  <levelone xmlns="urn::hl7-org/cda"                 </levelone> |
 |---|
 
 **XML-Code 1:** levelone
@@ -506,7 +506,7 @@ Der Aufbau des Elements <body> ist in Abbildung 2 dargestellt.
 
 Der Coderahmen für das <body>-Element sieht wie folgt aus:
 
-| <body>    </body> |
+| <body>       </body> |
 |---|
 
 **XML-Code 2**: body
@@ -540,7 +540,7 @@ Wenn in allen Abschnitten Daten enthalten sind, sieht der Coderahmen für das El
 
 aus (siehe XML-Code 3). Die Werte der einzelnen <caption_cd>-Elemente entsprechen dabei den  Abschnittsüberschriften aus dem Datensatz.
 
-| <section>                                         </paragraph>   <caption>    </caption>      </section> |
+| <section>                                                                                 </paragraph>      <caption>      </caption>          </section> |
 |---|
 
 <paragraph> <caption_cd DN="Administrative Daten"/> <content> ... </content> <paragraph> <caption_cd DN="Anamnese- und Befunddaten"/> <content> ... </content> <paragraph> <caption_cd DN="Relevante Ereignisse"/> <content> ... </content> <paragraph> <caption_cd DN="Medikamente"/> <content> ... </content> <paragraph> <caption_cd DN="Schulung"/> <content> ... </content> <paragraph> <caption_cd DN="Behandlungsplanung"/> <content> ... </content>**XML-Code 3:** section
@@ -568,7 +568,7 @@ verwendet wird. Der Coderahmen für das Element <content> mit Sciphox-SSU *obser
 
 folgendermaßen aus:
 
-| <content>   <sciphox:sciphox-ssu type="observation" country="de" version="v1">    </content> |
+| <content>     <sciphox:sciphox-ssu type="observation" country="de" version="v1">        </content> |
 |---|
 
 **XML-Code 4:** content mit sciphox -SSU (observation)
@@ -588,7 +588,7 @@ Der Aufbau dieser SSU ist nachfolgend beschrieben:
 
 Der XML-Code zum Element <sciphox-ssu> sieht folgendermaßen aus:
 
-| <sciphox:sciphox-ssu type="observation" country="de" version="v1">  <sciphox:Beobachtungen>         </sciphox:sciphox-ssu> |
+| <sciphox:sciphox-ssu type="observation" country="de" version="v1">   <sciphox:Beobachtungen>                </sciphox:sciphox-ssu> |
 |---|
 
 **XML-Code 5:** Beobachtungen
@@ -603,7 +603,7 @@ werden im jeweiligen Element <Ergebnistext> und <Ergebniswert> untergebracht.
 
 Der XML-Code zum Element <Parameter> sieht folgendermaßen aus:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 *DN*-Attribut. Als Wert werden die Parameter aus dem Datensatz
@@ -614,7 +614,7 @@ Der XML-Code zum Element <Parameter> sieht folgendermaßen aus:
 
 Das Element <Ergebnistext> enthält nur das  hinterlegt sind (z.B. „Ja“ und „Nein“), werden in diesem Element, im  zum Element <Ergebnistext> sieht folgendermaßen aus:
 
-| <sciphox:Beobachtung>    </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>       </sciphox:Beobachtung> |
 |---|
 
 *V-*Attribut. Einzelne Ausprägungen, die als Text im Datensatz
@@ -625,7 +625,7 @@ Das Element <Ergebnistext> enthält nur das  hinterlegt sind (z.B. „Ja“ und 
 
 ### 6.1.3.3 Ergebniswert
 
-Das Element <Ergebniswert> enthält nur das  Datensatz eingegeben werden (z.B. „1.80“), werden in diesem Element, im
+Das Element <Ergebniswert> enthält nur das  Datensatz eingegeben werden (z.B. „1 80“), werden in diesem Element, im
 
 Dezimaltrennzeichen wird der Dezimalpunkt verwendet. Im U-Attribut (UNIT) wird di eingetragen. Der XML-Code zum Element <Ergebniswert> sieht folgendermaßen aus:
 
@@ -636,7 +636,7 @@ Dezimaltrennzeichen wird der Dezimalpunkt verwendet. Im U-Attribut (UNIT) wird d
 
 ---
 
-| <sciphox:Beobachtung>    </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>       </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 8:** Ergebniswert
@@ -651,7 +651,7 @@ Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau di
 
 Der Coderahmen sieht wie folgt aus:
 
-| <content>     <sciphox:Beobachtungen>          </content> |
+| <content>         <sciphox:Beobachtungen>                  </content> |
 |---|
 
 **XML-Code 9:** content (Administrative Daten)
@@ -664,7 +664,7 @@ gemäß Tabelle 4. Wenn bei diesem Parameter mehrere Felder ausgewählt wurden, 
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 <sciphox:Ergebniswert V=". . ." U="..."/> <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Asthma bronchiale"/> <sciphox:Ergebnistext V="KHK"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Asthma bronchiale"/>**XML-Code 10:** Einschreibung wegen
@@ -702,7 +702,7 @@ dargestellt. Diese SSU enthält genau ein Kindelement sciphox:Beobachtungen>. Da
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
 
-| <content>    <sciphox:Beobachtungen>                                                 </content> |
+| <content>       <sciphox:Beobachtungen>                                                                                                </content> |
 |---|
 
 <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="80" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="KHK"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="In den letzten 4 Wochen: Häufigkeit von Asthma-Symptomen tagsüber"/> <sciphox:Ergebnistext V="Häufiger als 2 mal wöchentlich"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="In den letzten 4 Wochen: Häufigkeit des Einsatzes der Bedarfsmedikation"/> <sciphox:Ergebnistext V="Häufiger als 2 mal wöchentlich"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="In den letzten 4 Wochen: Einschränkung von Aktivitäten im Alltag wegen Asthma bronchiale"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="In den letzten 4 Wochen: Asthmabedingte Störung des Nachtschlafes"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktueller FEV1-Wert (mindestens alle 12 Monate)"/> <sciphox:Ergebnistext V="Nicht durchgeführt"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>**XML-Code 11:** content (Anamnese- und Befunddaten)
@@ -716,7 +716,7 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im  *U* Attribu
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>      </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 12:** Körpergröße
@@ -727,7 +727,7 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im  im *U*-Attr
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 13:** Körpergewicht
@@ -740,7 +740,7 @@ gemäß Tabelle 5.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 14:** Raucher
@@ -767,7 +767,7 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im  und im *U* 
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 15:** Blutdruck systolisch
@@ -778,7 +778,7 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im  und im *U* 
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 16:** Blutdruck diastolisch
@@ -789,7 +789,7 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tab
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>    </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>       </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 17:** Begleiterkrankungen
@@ -824,7 +824,7 @@ gemäß Tabelle 7.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 18:** In den letzten 4 Wochen: Häufigkeit von Asthma -Symptomen tagsüber
@@ -851,7 +851,7 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tab
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 19:** In den letzten 4 Wochen: Häufigkeit des Einsatzes der Bedarfsmedikation
@@ -876,7 +876,7 @@ gemäß Tabelle 9.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 20:** In den letzten 4 Wochen: Einschränkung von Aktivitäten im Alltag wegen Asthma
@@ -908,7 +908,7 @@ gemäß Tabelle 10.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 21:** In den letzten 4 Wochen: Asthmabedingte Störung des Nachtschlafes
@@ -932,14 +932,14 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut
 
 Als Beispiel bei durchgeführter Messung sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 22:** Aktueller FEV -Wert (mindestens alle 12 Monate) 1
 
 Als Beispiel bei nicht durchgeführter Messung sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 23:** Aktueller FEV -Wert (mindestens alle 12 Monate) 1
@@ -965,7 +965,7 @@ Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau di
 
 Der Coderahmen sieht wie folgt aus:
 
-| <content>    <sciphox:Beobachtungen>                            </local_markup> </content> |
+| <content>        <sciphox:Beobachtungen>                                                        </local_markup>  </content> |
 |---|
 
 **XML-Code 24:** content (Medikamente)
@@ -978,7 +978,7 @@ gemäß Tabelle 11. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, 
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Inhalative Glukokortikosteroide"/> . . . </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Inhalative lang wirksame Beta-2-Sympathomimetika"/> . . . </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Kurz wirksame inhalative Beta-2-Sympathomimetika"/> . . . </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Systemische Glukokortikosteroide"/> . . . </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Sonstige asthmaspezifische Medikation"/> . . . </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Inhalationstechnik überprüft"/> . . . </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Inhalative Glukokortikosteroide"/> <sciphox:Ergebnistext V="Bei Bedarf"/>**XML-Code 25:** Inhalative Glukokortikosteroide
@@ -1003,7 +1003,7 @@ gemäß Tabelle 12. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, 
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 26:** Inhalative lang wirksame Beta -2-Sympathomimetika
@@ -1025,7 +1025,7 @@ gemäß Tabelle 13. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, 
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 <sciphox:Parameter DN="Inhalative lang wirksame Beta-2-Sympathomimetika"/> <sciphox:Ergebnistext V="Bei Bedarf"/> <sciphox:Parameter DN="Kurz wirksame inhalative Beta-2-Sympathomimetika"/> <sciphox:Ergebnistext V="Bei Bedarf"/>**XML-Code 27:** Kurz wirksame inhalative Beta-2-Sympathomimetika
@@ -1050,7 +1050,7 @@ gemäß Tabelle 14. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, 
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 28:** Systemische Glukokortikosteroide
@@ -1072,7 +1072,7 @@ gemäß Tabelle 15. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, 
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 <sciphox:Parameter DN="Systemische Glukokortikosteroide"/> <sciphox:Ergebnistext V="Bei Bedarf"/> <sciphox:Parameter DN="Sonstige asthmaspezifische Medikation"/> <sciphox:Ergebnistext V="Nein"/>**XML-Code 29:** Sonstige asthmaspezifische Medikation
@@ -1096,7 +1096,7 @@ gemäß Tabelle 16.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 30:** Inhalationstechnik überprüft
@@ -1121,7 +1121,7 @@ Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau di
 
 ---
 
-| <content>    <sciphox:Beobachtungen>        <sciphox:Parameter DN="Asthma-Schulung empfohlen (bei aktueller Dokumentation)"/>          <sciphox:Parameter DN="Asthma-Schulung schon vor Einschreibung in DMP bereits wahrgenommen"/>       </local_markup>  </content> |
+| <content>       <sciphox:Beobachtungen>              <sciphox:Parameter DN="Asthma-Schulung empfohlen (bei aktueller Dokumentation)"/>                  <sciphox:Parameter DN="Asthma-Schulung schon vor Einschreibung in DMP bereits wahrgenommen"/>            </local_markup>  </content> |
 |---|
 
 **XML-Code 31:** content (Schulung)
@@ -1134,7 +1134,7 @@ gemäß Tabelle 17.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 32:** Asthma-Schulung empfohlen (bei aktueller Dokumentation)
@@ -1154,7 +1154,7 @@ gemäß Tabelle 18.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Asthma-Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Asthma-Schulung schon vor Einschreibung in DMP bereits wahrgenommen"/> <sciphox:Ergebnistext V="Nein"/>**XML-Code 33**: Asthma-Schulung schon vor Einschreibung in DMP bereits wahrgenommen
@@ -1181,7 +1181,7 @@ Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau di
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
 
-| <content>    <sciphox:Beobachtungen>                     </content> |
+| <content>       <sciphox:Beobachtungen>                                        </content> |
 |---|
 
 **XML-Code 34:** content (Behandlungsplanung)
@@ -1197,7 +1197,7 @@ gemäß Tabelle 19. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, 
 
 ---
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 35:** Vom Patienten gewünschte Informationsangebote der Krankenkasse
@@ -1220,7 +1220,7 @@ gemäß Tabelle 20.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 36:** Dokumentationsintervall
@@ -1240,7 +1240,7 @@ gemäß Tabelle 21.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> <sciphox:Ergebnistext V="Körperliches Training “/> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V="Quartalsweise"/> <sciphox:Parameter DN="Schriftlicher Selbstmanagementplan"/> <sciphox:Ergebnistext V="Ja"/> **XML-Code 37:** Schriftlicher Selbstmanagementplan
@@ -1263,7 +1263,7 @@ gemäß Tabelle 22. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, 
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>    </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>       </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 38:** Therapieanpassung
@@ -1302,7 +1302,7 @@ Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau di
 
 Der Coderahmen sieht wie folgt aus:
 
-| <content>    <sciphox:Beobachtungen>         </local_markup>  </content> |
+| <content>       <sciphox:Beobachtungen>                </local_markup>  </content> |
 |---|
 
 **XML-Code 39:** content (Relevante Ereignisse)
@@ -1315,7 +1315,7 @@ Behandlungen“ und im *U*-Attribut den fest vorgeschriebenen Wert „Anzahl“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 40**: Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen
@@ -1336,7 +1336,7 @@ Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau di
 
 Der Coderahmen sieht wie folgt aus:
 
-| <content>    <sciphox:Beobachtungen>              </local_markup>  </content> |
+| <content>       <sciphox:Beobachtungen>                         </local_markup>  </content> |
 |---|
 
 **XML-Code 41:** content (Schulung)
@@ -1353,7 +1353,7 @@ gemäß Tabelle 23.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 42:** Empfohlene Asthma-Schulung wahrgenommen

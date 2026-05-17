@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 31. MÄRZ 2026  VERSION: 1.05  DOKUMENTENSTATUS: IN KRAF |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  31. MÄRZ 2026   VERSION: 1.05   DOKUMENTENSTATUS: IN KRAF |
 |---|---|
 
 # PRUEFPAKET EDMP HERZINSUFFIZIENZ
@@ -123,15 +123,15 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 25
 
-| **4** | **ANHANG** |  | **27** |
-|---|---|---|---|
-| 4.1 | Prüffall | 10 – Ersatzverfahren | 27 |
+**4** **ANHANG**
+
+**27**
+
+4.1 Prüffall 10  Ersatzverfahren 27
 
 **5** **REFERENZIERTE DOKUMENTE**
 
 **28**
-
-Prüffall 10
 
 
 ---
@@ -153,10 +153,10 @@ DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.05 | 31.03.2026 | KBV | Anpassung der  Anpassung Prüffall | Schnittstellenversion  Änderung der | 11     23 |
-| 1.04 | 0.9.12.2024 | KBV | Anpassung der  Überarbeitung des | Schnittstellenversion | 11     22 |
-| 1.03 | 1.2.02.2024 | KBV | Anpassung der übergreifenden Prüffälle an COPD- Schnittstellenversion 4.06 | COPD- Schnittstellenversion 4.06 ist ab 01.04.2023 zu verwenden | 11 |
-| 1.02 | 08.11.2022 | KBV | Datumsanpassungen    Aufnahme eines  Neuer Prüffall 4540 zur | Datumsanpassungen  Schnittstellenversion     Anpassung an | 11     25       23 |
+| 1.05 | 31.03.2026 | KBV | Anpassung der    Anpassung Prüffall | Schnittstellenversion    Änderung der | 11          23 |
+| 1.04 | 09.12.2024 | KBV | Anpassung der    Überarbeitung des | Schnittstellenversion | 11          22 |
+| 1.03 | 12.02.2024 | KBV | Anpassung der  übergreifenden  Prüffälle an COPD-  Schnittstellenversion 4.06 | COPD-  Schnittstellenversion 4.06 ist ab 01.04.2023 zu verwenden | 11 |
+| 1.02 | 08.11.2022 | KBV | Datumsanpassungen        Aufnahme eines    Neuer Prüffall 4540 zur | Datumsanpassungen    Schnittstellenversion          Anpassung an | 11          25              23 |
 | 1.01 | 15.02.2021 | KBV | Anpassung der | Schnittstellenversion | 11 |
 | 1.0 | 19.06.2019 | KBV | Dokumenterstellung | initiale Erstellung | alle |
 
@@ -254,7 +254,7 @@ einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender N
 
 - 1
 
-- 2.3
+- 2 3
 
 -  [PrüffallNr.] _[lfdNr.] .*
 
@@ -327,7 +327,7 @@ Ab dem **01.10.2026** muss die Schnittstellenversion **1.04** verwendet werden.
 
 - Indikation **COPD:**
 
-Ab dem **01.10.2026** muss die Schnittstellenversion **4.07** verwendet werden.
+Ab dem **01.10.2026** muss die Schnittstellenversion **4 07** verwendet werden.
 
 ### 1.6.2 Datumseingaben
 
@@ -479,7 +479,7 @@ Die Versichertendaten von
 | Raucher | Ja | Nein |
 | Begleiterkrankungen | COPD | COPD |
 | Behandlungsplanung | | |
-| Vom Patienten gewünschte | Tabakverzicht, Körperliches Training |  |
+| Vom Patienten gewünschte | Tabakverzicht,  Körperliches Training |  |
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung | 07.01.2025 | 10.06.2025 |
 
@@ -771,7 +771,7 @@ PEZIFISCHE DATEN (MRA) Dokumentation) ein DMP bereits wahrgenommen  empfohlen (b
 | Prüffall-ID | 4514 |
 | Testziel | Kontrolle der softwareseitigen Erkennung von Fehleingaben |
 | Voraussetzung | Patient oder Patientin ist mindestens 18 Jahre alt |
-| Prüfunterlagen | Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert.  Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
+| Prüfunterlagen | Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert.   Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
 | Hinweis | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben sind. |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
@@ -911,7 +911,7 @@ Eingabefehler verhindert  DATEN Informationsangebote der Krankenkasse  15.mm.jjj
 |  |  |
 |---|---|
 | Prüffall-ID | 4530 |
-| Testziel | (KBV_ITA_VGEX_Anforderungskatalog_eDMP ) |
+| Testziel | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
 | Voraussetzung |  |
 | Prüfunterlagen | Dokumentieren Sie durch Videos die Eingaben einschließlich der Ergebnisse nach |
 | Hinweis | Dieser Testfall ist unterteilt in vier Szenarien |
@@ -938,7 +938,7 @@ Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP eine
 |  | |
 |---|---|
 | Prüffall-ID | 4540 |
-| Testziel | (KBV_ITA_VGEX_Anforderungskatalog_eDMP ) |
+| Testziel | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
 | Voraussetzung |  |
 | Prüfunterlagen | PDF-Datei „TE_EWE_HI.pdf“ |
 | Hinweis | Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der |
@@ -1023,7 +1023,7 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 | INDIKATIONSÜBERGREIFENDE DATEN | |
 |---|---|
 | Administrative Daten | Erstdokumentation |
-| DMP-Fallnummer | TDV4518 |
+| DMP-Fallnummer | TDV 4518 |
 | Krankenhaus-IK |  |
 | Dokumentation in Vertretung erstellt |  |
 | Datum | 05.04.2023 |
@@ -1040,7 +1040,7 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 | Dokumentationsintervall | Quartalsweise |
 | Datum der Erstellung | 05.04.2023 |
 
-1.03 Informationsangebote der Krankenkasse   05.04.2026 Erkrankungen Ernährungsberatung, Körperliches Training   05.04.2026 Brigitte Althaus (XML_05) einlesen und speichern. 2. Anlegen einer Erstdokumentation DATEN
+1 03 Informationsangebote der Krankenkasse   05.04.2026 Erkrankungen Ernährungsberatung, Körperliches Training   05.04.2026 Brigitte Althaus (XML_05) einlesen und speichern. 2. Anlegen einer Erstdokumentation DATEN
 
 ---
 

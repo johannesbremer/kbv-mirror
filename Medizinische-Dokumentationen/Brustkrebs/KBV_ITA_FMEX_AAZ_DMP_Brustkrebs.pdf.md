@@ -123,6 +123,8 @@ Linux
 
 ---
 
+Antragssteller:
+
 2 REALISIERUNG VON ANFORDERUNGEN
 
 Der Antragsteller versichert, dass die aktuelle Version der verbindlichen Kostenträger [ ] der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht.
@@ -186,8 +188,12 @@ ________________
 
 Diese Information ist verpflichtend anzugeben
 
+Antragssteller:
+
 
 ---
+
+Antragssteller:
 
 4 KENNTNISNAHME DURCH DEN ANTRAGSSTELLER
 
@@ -240,6 +246,8 @@ der Zulassung führen.
 
 ---
 
+Antragssteller:
+
 **IV. Sonstiges**
 
 (1) Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen den Kassenärztlichen Vereinigungen zur vertraulichen und internen Verwendung zur Verfügung zu
@@ -262,6 +270,8 @@ Seite 7 von 8 / KBV / Antrag auf Zertifizierung DMP-Brustkrebs / Version: 4.4  /
 
 
 ---
+
+Antragssteller:
 
 Ort, Datum
 

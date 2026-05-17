@@ -6,31 +6,31 @@
 
 **Id Praxissoftware**
 
-7.06 **MOLIS**
+706 **MOLIS**
 
-7.21 **David**
+721 **David**
 
-3.47 **Opus::L Labormanagementsystem**
+347 **Opus::L Labormanagementsystem**
 
-7.04 **PROMED-open / X-PROMED**
+704 **PROMED-open / X-PROMED**
 
-7.16 **Melos-Labor-System**
+716 **Melos-Labor-System**
 
-4.09 **i/med Billing**
+409 **i/med Billing**
 
-2.63 **Clinisys vianova Labor**
+263 **Clinisys vianova Labor**
 
-7.29 **GLIMS**
+729 **GLIMS**
 
-4.93 **LX**
+493 **LX**
 
-2.10 **Medical Office**
+210 **Medical Office**
 
-7.25 **NEXUS / SWISSLAB**
+725 **NEXUS / SWISSLAB**
 
-3.75 **H&S Laborsoftware**
+375 **H&S Laborsoftware**
 
-2.80 **CGM MEDISTAR BLACK PRO**
+280 **CGM MEDISTAR BLACK PRO**
 
 **Anbieter**
 
@@ -62,19 +62,19 @@ CompuGroup Medical Deutschland AG 1
 
 **Installationen 2.Q.2025**
 
-2.8
+28
 
-1.8
+18
 
-1.5
+15
 
-1.4
+14
 
-1.4
+14
 
-1.1
+11
 
-1.0
+10
 
 9
 
@@ -90,17 +90,17 @@ CompuGroup Medical Deutschland AG 1
 
 **Installationen 1.Q.2025**
 
-3.1
+31
 
-1.7
+17
 
-1.5
+15
 
-1.6
+16
 
-1.3
+13
 
-1.1
+11
 
 8
 
@@ -149,19 +149,19 @@ CompuGroup Medical Deutschland AG 1
 
 **Id Praxissoftware**
 
-7.03 **ELADIS**
+703 **ELADIS**
 
-2.16 **x.isynet**
+216 **x.isynet**
 
-2.54 **ORBIS®**
+254 **ORBIS®**
 
-7.40 **LabCentre**
+740 **LabCentre**
 
-3.43 **SAP Ambulatory Care Management**
+343 **SAP Ambulatory Care Management**
 
-2.52 **CGM M1 PRO**
+252 **CGM M1 PRO**
 
-4.88 **inSuite**
+488 **inSuite**
 
 **Anbieter**
 

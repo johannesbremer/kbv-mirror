@@ -37,7 +37,7 @@ Bei „kontrolliertem“ Asthma ist die Therapie adäquat und kann eventuell sog
 | Symptome am Tage | ≤ | > 2 x / Woche | > als 2 x / Woche |
 | Nächtliche Symptome | Keine | Vorhanden | Vorhanden |
 | Einschränkung der | Keine | Vorhanden | Vorhanden |
-| Einsatz der 1 | ≤ | > 2 x / Woche | > 2 x / Woche |
+| Einsatz der  1 | ≤ | > 2 x / Woche | > 2 x / Woche |
 
 1 Ohne den prophylaktischen Einsatz vor geplanter sportlicher Betätigung
 
@@ -53,7 +53,7 @@ Asthmakontrolle (Angaben aus den letzten 4 Wochen) Alltagsaktivitäten Bedarfsme
 | Symptome am Tage | < 1 x / Woche | ≥ |  |
 | Nächtliche Symptome | Keine | Vorhanden | Vorhanden |
 | Einschränkung der | Keine | Vorhanden | Vorhanden |
-| Einsatz der Bedarfsmedikation | < 1 x / Woche | ≥ 1 |  |
+| Einsatz der  Bedarfsmedikation | < 1 x / Woche | ≥ 1 |  |
 
 #### In den letzten 4 Wochen: Häufigkeit von Asthma-Symptomen tagsüber
 
@@ -194,11 +194,11 @@ Tabelle: Medikamentöses Stufenschema Asthma-Therapie: Erwachsene
 
 | Stufe | Bedarfstherapie | Dauertherapie |
 |---|---|---|
-| Stufe 1 | SABA | Keine   Andere Therapieoptionen können unter Beachtung der |
+| Stufe 1 | SABA | Keine     Andere Therapieoptionen können unter Beachtung der |
 |  | Stufe 2 | ICS niedrigdosiert |
-| Stufe 3 | SABA oder ICS + Formoterol (wenn Teil der | ICS niedrigdosiert + LABA (1. Wahl) oder ICS mitteldosiert |
-|  | Stufe 4 | ICS mittel- bis hochdosiert + LABA (1. Wahl) oder ICS mittel- bis hochdosiert + LABA + LAMA |
-|  | Stufe 5 | ICS Höchstdosis + LABA + LAMA Bei unzureichender Kontrolle: Nachrangig: OCS |
+| Stufe 3 | SABA  oder  ICS + Formoterol  (wenn Teil der | ICS niedrigdosiert + LABA (1. Wahl)  oder  ICS mitteldosiert |
+|  | Stufe 4 | ICS mittel- bis hochdosiert + LABA (1. Wahl)  oder  ICS mittel- bis hochdosiert + LABA + LAMA |
+|  | Stufe 5 | ICS Höchstdosis + LABA + LAMA  Bei unzureichender Kontrolle:  Nachrangig: OCS |
 
 (In der Tabelle verwendete Abkürzungen: ICS: Inhalative Glukokortikosteroide LAMA: Lang wirkende Anticholinergika, SABA: kurz wirkende Beta
 
@@ -219,12 +219,12 @@ Dauertherapie) Zulassungseinschränkungen individuell geprüft werden. Überweis
 
 | Stufe | Bedarfstherapie | Dauertherapie |
 |---|---|---|
-| Stufe 1 | SABA** | Keine  Zulassungseinschränkungen individuell geprüft werden. |
-|  | Stufe 2 | ICS niedrigdosiert (1. Wahl) oder LTRA |
+| Stufe 1 | SABA** | Keine    Zulassungseinschränkungen individuell geprüft werden. |
+|  | Stufe 2 | ICS niedrigdosiert (1. Wahl)  oder  LTRA |
 |  | Stufe 3 | ICS mitteldosiert |
-| Stufe 4 | SABA**  oder ICS + Formoterol | ICS mitteldosiert + LABA oder ICS mitteldosiert + LTRA oder  ICS mitteldosiert + LABA + LTRA Bei unzureichender Kontrolle: ICS mitteldosiert + LABA + LTRA + LAMA*** (Tiotropium) |
+| Stufe 4 | SABA**    oder  ICS + Formoterol | ICS mitteldosiert + LABA  oder  ICS mitteldosiert + LTRA  oder   ICS mitteldosiert + LABA + LTRA  Bei unzureichender Kontrolle:  ICS mitteldosiert + LABA + LTRA + LAMA*** (Tiotropium) |
 |  | Stufe 5 | Bei einem ab Stufe 4 nicht ausreichend kontrollierten Asthma |
-|  | Stufe 6 | Zusätzlich zu Stufe 5  (wenn Indikation es erlaubt) Nachrangig: OCS |
+|  | Stufe 6 | Zusätzlich zu Stufe 5   (wenn Indikation es erlaubt)  Nachrangig: OCS |
 
 *Als Monotherapie nur zugelassen vom vollendeten zweiten bis zum vollendeten 15. Lebensjahr.*
 

@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**08. MAI 2026**
+**16. MAI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -39,7 +39,7 @@
 
 Bahnhofstraße 11 c 67159 Friedelsheim Internet: www.ergosoft.info
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 08. Mai 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 16. Mai 2026
 
 **Prüfnummer**
 
@@ -68,6 +68,8 @@ Y/172/2507/36/253
 
 ---
 
+**Kontaktdaten**
+
 **INDICATION**
 
 **ET Software Developments GmbH** Hebelstraße 7 69214 Eppelheim Internet: www.indication.com
@@ -86,7 +88,9 @@ Y/172/2507/36/253
 
 Softwarevariante(n): - x.vianova
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 08. Mai 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 16. Mai 2026
+
+**Prüfnummer**
 
 Y/172/2511/38/223
 
@@ -94,7 +98,11 @@ Y/172/2510/36/210
 
 Y/172/2510/36/385
 
-Y/172/2510/36/216 31.12.2028
+Y/172/2510/36/216
+
+**Prüfnummer gültig bis**
+
+31.12.2028
 
 30.09.2028
 
@@ -104,6 +112,8 @@ Y/172/2510/36/216 31.12.2028
 
 
 ---
+
+**Kontaktdaten**
 
 **x.concept**
 
@@ -123,7 +133,9 @@ Softwarevariante(n): - psyx
 
 **medavis GmbH** Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.de
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 08. Mai 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 16. Mai 2026
+
+**Prüfnummer**
 
 Y/172/2509/36/243
 
@@ -131,7 +143,11 @@ Y/172/2509/36/266
 
 Y/172/2509/36/462
 
-Y/172/2509/36/256 31.08.2028
+Y/172/2509/36/256
+
+**Prüfnummer gültig bis**
+
+31.08.2028
 
 31.08.2028
 
@@ -142,27 +158,38 @@ Y/172/2509/36/256 31.08.2028
 
 ---
 
-**eRIS**
+|  | **Kontaktdaten** |  |  |
+|---|---|---|---|
+| **eRIS** |  |  |  |
+| **medavis** | **GmbH** |  |  |
+|  | Bannwaldallee | 60 |  |
+| 76185 | Karlsruhe |  |  |
+| Internet: |  | www.medavis.de |  |
+|  | **Praxis-Programm** |  |  |
+|  | **medisoftware** | **GmbH &** | **Co. KG** |
+|  | Steinstraße 1 |  |  |
+| 24118 | Kiel |  |  |
+| Internet: |  | www.medisoftware.de | |
+| **MEDVISION** | |  |  |
+|  | **MedVision AG** |  |  |
+|  | Heinrich-Hertz-Str. | 9 |  |
+| 59423 | Unna |  |  |
+| Internet: |  | www.medvision.de | |
+|  | Softwarevariante(n): |  |  |
+| - | medvisionAMBULANZ | |  |
+| - | medvisionMVZ |  |  |
+| - | medvisionPRAXIS |  |  |
+| - | NEPHRO |  |  |
+| - | PATIDOK | AMBULANZ |  |
+| **MEDOS** |  |  |  |
+| **NEXUS** | **/ CHILI** | **GmbH** |  |
+|  | Friedrich-Ebert-Str. | 2 |  |
+| 69221 | Dossenheim |  |  |
+| Internet: |  | https://www.nexus-chili.com | |
 
-**medavis GmbH** Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.de
+Seite 5 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 16. Mai 2026
 
-**Praxis-Programm**
-
-**medisoftware GmbH & Co. KG** Steinstraße 1 24118 Kiel Internet: www.medisoftware.de
-
-**MEDVISION**
-
-**MedVision AG** Heinrich-Hertz-Str. 9 59423 Unna Internet: www.medvision.de
-
-Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPHRO - PATIDOK AMBULANZ
-
-**MEDOS**
-
-**NEXUS / CHILI GmbH**
-
-Friedrich-Ebert-Str. 2 69221 Dossenheim Internet: [https://www.nexus-chili.com](https://www.nexus-chili.com)
-
-Seite 5 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 08. Mai 2026
+**Prüfnummer**
 
 Y/172/2509/36/439
 
@@ -170,16 +197,22 @@ Y/172/2507/36/030
 
 Y/172/2511/38/251
 
-Y/172/2601/36/278 31.08.2028
+Y/172/2601/36/278
+
+**Prüfnummer gültig bis**
+
+31.08.2028
 
 30.06.2028
 
 31.12.2028
 
-31.12.2028
+medavis GmbH Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.de medisoftware GmbH & Co. KG 24118 Kiel Internet: www.medisoftware.de Heinrich-Hertz-Str. 9 59423 Unna Internet: www.medvision.de - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPHRO - PATIDOK AMBULANZ NEXUS / CHILI GmbH Friedrich-Ebert-Str. 2 69221 Dossenheim Internet: https://www.nexus-chili.com31.12.2028
 
 
 ---
+
+**Kontaktdaten**
 
 **PegaMed**
 
@@ -197,7 +230,9 @@ Y/172/2601/36/278 31.08.2028
 
 **Schwerdtner Medizin-Software GmbH** Loebensteinstraße 26 30175 Hannover Internet: www.q-med.de
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 08. Mai 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 16. Mai 2026
+
+**Prüfnummer**
 
 Y/172/2507/36/083
 
@@ -205,7 +240,11 @@ Y/172/2511/38/261
 
 Y/172/2510/36/171
 
-Y/172/2509/36/230 30.06.2028
+Y/172/2509/36/230
+
+**Prüfnummer gültig bis**
+
+30.06.2028
 
 31.12.2028
 
@@ -216,26 +255,38 @@ Y/172/2509/36/230 30.06.2028
 
 ---
 
-**PDV-FR**
+|  | **Kontaktdaten** |  |  |
+|---|---|---|---|
+| **PDV-FR** |  |  |  |
+|  | **Universitätsklinikum** | | **Freiburg AdöR** |
+|  | Agnesenstraße | 6-8 |  |
+| 79106 | Freiburg |  |  |
+|  | Internet: | www.uniklink-freiburg.de | |
+| **tomedo** |  |  |  |
+| **Zollsoft** | **GmbH** |  |  |
+|  | Ernst-Haeckel-Platz | 5/6 |  |
+| 07745 | Jena |  |  |
+|  | Internet: | www.zollsoft.de |  |
+|  | **tomedo.air** |  |  |
+| **Zollsoft** | **GmbH** |  |  |
+|  | Ernst-Haeckel-Platz | 5/6 |  |
+| 07745 | Jena |  |  |
+|  | Internet: | www.zollsoft.de |  |
 
-**Universitätsklinikum Freiburg AdöR** Agnesenstraße 6-8 79106 Freiburg Internet: www.uniklink-freiburg.de
+Seite 7 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 16. Mai 2026
 
-**tomedo**
-
-**Zollsoft GmbH** Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de
-
-**tomedo.air**
-
-**Zollsoft GmbH** Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de
-
-Seite 7 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 08. Mai 2026
+**Prüfnummer**
 
 Y/172/2512/36/551
 
 Y/172/2507/36/457
 
-Y/172/2510/36/768 30.11.2028
+Y/172/2510/36/768
+
+**Prüfnummer gültig bis**
+
+30.11.2028
 
 30.06.2028
 
-30.09.2028
+Universitätsklinikum Freiburg AdöR Agnesenstraße 6-8 79106 Freiburg Internet: www.uniklink-freiburg.de Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de30.09.2028

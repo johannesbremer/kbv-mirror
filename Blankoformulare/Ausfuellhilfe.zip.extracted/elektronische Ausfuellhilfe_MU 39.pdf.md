@@ -37,7 +37,7 @@ Bitte geben Sie den Befund mittels Münchener Nomenklatur III an
 
 | Erlaubte Werte | Erläuterung zur Münchner Nomenklatur III |
 |---|---|
-| 0, I, II-a, II-p, II-g, II-e, III-p, III-g, III-e, III-x, IIID1, Die folgenden Werte der Münchener I/II, II, I-II, IIw, IIk, IIID, III, IVa, IVb, V | 0 = unzureichendes Material, I = unauffällige und unverdächtige Befunde II-a = Unauffällige Befunde bei auffälliger II-p, II-g, II-e = Befunde mit eingeschränkt III-p, III-g, III-e, III-x = Unklare bzw. zweifelhafte IIID1, IIID2 = Dysplasiebefunde mit größerer IVa-p, IVa-g, IVb-p, IVb-g = Unmittelbare V-p, V-g, V-e, V-x = Malignome |
+| 0, I, II-a, II-p, II-g, II-e, III-p, III-g, III-e, III-x, IIID1,  Die folgenden Werte der Münchener  I/II, II, I-II, IIw, IIk, IIID, III, IVa, IVb, V | 0 = unzureichendes Material,  I = unauffällige und unverdächtige Befunde  II-a = Unauffällige Befunde bei auffälliger  II-p, II-g, II-e = Befunde mit eingeschränkt  III-p, III-g, III-e, III-x = Unklare bzw. zweifelhafte  IIID1, IIID2 = Dysplasiebefunde mit größerer  IVa-p, IVa-g, IVb-p, IVb-g = Unmittelbare  V-p, V-g, V-e, V-x = Malignome |
 
 ## Gynäkologe/ Gynäkologin):
 

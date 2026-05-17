@@ -6,31 +6,31 @@
 
 **Id Praxissoftware**
 
-2.80 **CGM MEDISTAR BLACK PRO**
+280 **CGM MEDISTAR BLACK PRO**
 
-2.16 **x.isynet**
+216 **x.isynet**
 
-2.54 **ORBIS®**
+254 **ORBIS®**
 
-2.10 **Medical Office**
+210 **Medical Office**
 
-4.57 **tomedo**
+457 **tomedo**
 
-1.12 **TURBOMED**
+112 **TURBOMED**
 
-4.62 **medatixx**
+462 **medatixx**
 
-2.43 **x.concept**
+243 **x.concept**
 
-2.52 **CGM M1 PRO**
+252 **CGM M1 PRO**
 
-2.03 **ALBIS**
+203 **ALBIS**
 
-2.26 **CGM MEDICO**
+226 **CGM MEDICO**
 
-3.43 **SAP Ambulatory Care Management**
+343 **SAP Ambulatory Care Management**
 
-4.98 **T2med**
+498 **T 2med**
 
 **Anbieter**
 
@@ -58,63 +58,63 @@ CGM Clinical Europe GmbH
 
 SAP SE
 
-T2med GmbH & Co. KG 1
+T 2med GmbH & Co. KG 1
 
 **Installationen 2.Q.2025**
 
-9.19
+919
 
-4.07
+407
 
-3.40
+340
 
-2.75
+275
 
-2.39
+239
 
-2.08
+208
 
-1.92
+192
 
-1.81
+181
 
-1.31
+131
 
-1.30
+130
 
-1.17
+117
 
-1.15
+115
 
-1.08
+108
 
 **Installationen 1.Q.2025**
 
-9.32
+932
 
-4.18
+418
 
-3.37
+337
 
-2.67
+267
 
-2.13
+213
 
-2.11
+211
 
-1.85
+185
 
-1.85
+185
 
-1.33
+133
 
-1.34
+134
 
-1.18
+118
 
-1.17
+117
 
-1.08
+108
 
 **Differenz**
 
@@ -126,7 +126,7 @@ T2med GmbH & Co. KG 1
 
 8
 
-2.6
+26
 
 -3
 
@@ -149,19 +149,19 @@ T2med GmbH & Co. KG 1
 
 **Id Praxissoftware**
 
-2.44 **QUINCY WIN**
+244 **QUINCY WIN**
 
-3.14 **IMedOne**
+314 **IMedOne**
 
-0.86 **DURIA**
+086 **DURIA**
 
-2.08 **NEXUS / KIS**
+208 **NEXUS / KIS**
 
-1.35 **EL - Elaphe Longissima**
+135 **EL - Elaphe Longissima**
 
-2.61 **S3-Win**
+261 **S 3-Win**
 
-4.88 **inSuite**
+488 **inSuite**
 
 **Anbieter**
 
@@ -175,41 +175,41 @@ NEXUS AG
 
 medatixx GmbH & Co. KG
 
-S3 Praxiscomputer GmbH / Maximilian Flender
+S 3 Praxiscomputer GmbH / Maximilian Flender
 
 Doc Cirrus GmbH 2
 
 **Installationen 2.Q.2025**
 
-8.5
+85
 
-7.6
+76
 
-5.9
+59
 
-4.5
+45
 
-4.4
+44
 
-3.5
+35
 
-3.3
+33
 
 **Installationen 1.Q.2025**
 
-8.6
+86
 
-7.6
+76
 
-5.9
+59
 
-4.5
+45
 
-4.3
+43
 
-3.8
+38
 
-3.5
+35
 
 **Differenz**
 

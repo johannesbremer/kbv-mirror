@@ -1,20 +1,19 @@
-## IT in der Arztpraxis
+| ***IT in*** | ***der*** | ***Arztpraxis*** | |
+|---|---|---|---|
+|  | *Merkblatt* |  |  |
+|  |  | *Krankenversichertenkarte* | |
+|  |  | [KBV_ITA_VGEX_Merkblatt_KVK] | |
+| Dezernat | 6 |  |  |
+|  | Informationstechnik, | Telematik | und Telemedizin |
+| 10623 | Berlin, | Herbert-Lewin-Platz | 2 |
+|  | Kassenärztliche | Bundesvereinigung | |
+| Version | 2.05 |  |  |
+| Datum: |  | 20.07.2012 |  |
+| Klassifizierung: | Extern |  |  |
+| Status: | In | Kraft |  |
+| © | Kassenärztliche | Bundesvereinigung, | Berlin 2012 |
 
-## Merkblatt  Krankenversichertenkarte
-
-### [KBV_ITA_VGEX_Merkblatt_KVK]
-
-### Dezernat 6  Informationstechnik, Telematik und Telemedizin
-
-10623 Berlin, Herbert-Lewin-Platz 2
-
-### Kassenärztliche Bundesvereinigung
-
-Version 2.05
-
-Datum: 20.07.2012  Klassifizierung: Extern  Status: In Kraft
-
-© Kassenärztliche Bundesvereinigung, Berlin 2012
+IT in der Arztpraxis Dezernat 6 Informationstechnik, Telematik und Telemedizin 10623 Berlin, Herbert-Lewin-Platz 2 Kassenärztliche Bundesvereinigung Version  2.05 Datum: 20.07.2012 Klassifizierung: Extern  Status: In Kraft © Kassenärztliche Bundesvereinigung, Berlin 2012
 
 
 ---
@@ -45,6 +44,10 @@ Redaktionelle Änderung
 
 
 ---
+
+**IT in der Arztpraxis**
+
+Merkblatt Krankenversichertenkarte
 
 #### INHALTSVERZEICHNIS
 
@@ -99,6 +102,10 @@ Redaktionelle Änderung
 
 ---
 
+**IT in der Arztpraxis**
+
+Merkblatt Krankenversichertenkarte
+
 **ABBILDUNGSVERZEICHNIS**
 
 ABBILDUNG 1: T=1 ÜBERTRAGUNGSBLOCK ................................................................... 10
@@ -121,6 +128,10 @@ R-BLOCKS ........................................................... 13
 
 
 ---
+
+**IT in der Arztpraxis**
+
+Merkblatt Krankenversichertenkarte
 
 **TABELLENVERZEICHNIS**
 
@@ -152,6 +163,10 @@ ADDRESS-BYTE (NAD-BYTE ............................... 11
 
 
 ---
+
+**IT in der Arztpraxis**
+
+Merkblatt Krankenversichertenkarte
 
 **1 Die Verarbeitung der Daten der KVK**  Sämtliche Überprüfungen der Konsistenz der Daten erfolgen im Lesegerät, das in Absprache  mit dem Bundesbeauftragten für den Datenschutz vom Bundesamt für die Sicherheit in der  Informationstechnik oder einer anderen autorisierten Stelle diesbezüglich zertifiziert werden
 
@@ -252,6 +267,10 @@ tag length Daten- typ '8D' 4 GültigkeitsDatum (MMJJ) PrüfSumme (XOR) über das
 
 ---
 
+**IT in der Arztpraxis**
+
+Merkblatt Krankenversichertenkarte
+
 **Anmerkungen:**
 
 **Erläuterung der Tabelle zur Datenstruktur des Application-file**
@@ -279,6 +298,10 @@ Die Postleitzahl darf nur in Verbindung mit einem WohnsitzLänderCode alphanumer
 
 ---
 
+**IT in der Arztpraxis**
+
+Merkblatt Krankenversichertenkarte
+
 **1.2 Datenstruktur der Versic hertendaten - Festformat**
 
 **Datenobjekt**
@@ -302,6 +325,10 @@ Die Daten im VersichertenDatenTemplate und in der Kennung des Kartenherstellers 
 
 ---
 
+**IT in der Arztpraxis**
+
+Merkblatt Krankenversichertenkarte
+
 **1.3 Liste der im Rahmen von DIN 66003 zulässigen Sonderzeichen**
 
 | Zeichen | Bezeichnung Hex- |  | Zeichen | Bezeichnung Hex- |  |
@@ -312,55 +339,49 @@ Leerzeichen (Space) '20'
 
 kommerzielles Und
 
-' Apostroph '27'
-
-( Klammer auf
-
-) Klammer zu '29'
-
-+ plus '2B'
-
-| - | Bindestrich '2D' |  | . | Punkt '2E' |  |
+| ' | Apostroph '27' |  | ( | Klammer auf '28' |  |
 |---|---|---|---|---|---|
+| ) | Klammer zu '29' |  | + | plus '2B' |  |
+| - | Bindestrich '2D' |  | . | Punkt '2E' |  |
 | / | Schrägstrich '2F' |  | _ | Unterstreichung '5F' |  |
 
 **Tabelle 3: DIN 66003 Sonderzeichen**
 
 **1.4 Gesamtliste der im Rahmen von DIN 66003 zulässigen Zeichen**
 
-HEX 20 21 22 23 24 25 26 27.28 29 2A
+HEX 20 21 22 23 24 25 26 27 28 29 2A
 
-NUM 32 33 34 35 36 37 38 39.40 41 42
+NUM 32 33 34 35 36 37 38 39 40 41 42
 
 ALPHA SP
 
-HEX 30 31 32 33 34 35 36.37 38.39
+HEX 30 31 32 33 34 35 36 37 38.39
 
-NUM 48 49 50 51 52 53 54.55 56.57
+NUM 48 49 50 51 52 53 54 55 56.57
 
 ALPHA 0 1 2 3 4 5 6 7 8 9
 
-HEX 40 41 42 43 44 45 46.47 48.49
+HEX 40 41 42 43 44 45 46 47 48 49
 
-NUM 64 65 66 67 68 69 70.71 72.73
+NUM 64 65 66 67 68 69 70 71 72 73
 
 ALPHA A B C D E F G H I
 
-HEX 50 51 52 53 54 55 56.57 58.59
+HEX 50 51 52 53 54 55 56 57 58 59
 
-NUM 80 81 82 83 84 85 86.87 88.89
+NUM 80 81 82 83 84 85 86 87 88 89
 
 ALPHA P Q R S T U V W X Y
 
-HEX 60 61 62 63 64 65 66.67 68.69
+HEX 60 61 62 63 64 65 66 67 68 69
 
-NUM 96 97 98 99 10.10 10.10 10.10 0 1 2 3 4 5
+NUM 96 97 98 99 10 10 10 10 10 10 0 1 2 3 4 5
 
 ALPHA a b c d e f g h i
 
-HEX 70 71 72 73 74 75 76.77 78.79
+HEX 70 71 72 73 74 75 76 77 78 79
 
-NUM 11.11 11.11 11.11 11.11 12.12 2 3 4 5 6 7 8 9 0 1
+NUM 11 11 11 11 11 11 11 11 12 12 2 3 4 5 6 7 8 9 0 1
 
 ALPHA p q r s t u v w x y
 
@@ -374,27 +395,27 @@ ALPHA p q r s t u v w x y
 
 4A 4B 4C
 
-74.75 76
+74 75 76
 
 J K L 5A 5B 5C
 
-90.91 92
+90 91 92
 
 Z Ä Ö 6A 6B 6C
 
-10.10 10.10
+10 10 10 10
 
 6 7 8
 
 j k l 7A 7B 7C
 
-12.12 12.12
+12 12 12 12
 
 2 3 4
 
 z ä ö
 
-'26'  '28'
+'26'
 
 2D 2E 2F
 
@@ -412,18 +433,22 @@ M N O 5D 5E 5F  93 94 95  Ü _
 
 6D 6E 6F
 
-11.11 9 0 1
+11 11 9 0 1
 
 m n o 7D 7E 7F
 
-12.12
+12 12
 
 5 6 7
 
-Zeichen Bezeichnung Hex- Zeichen Bezeichnung Hex- - Bindestrich '2D' . Punkt / Schrägstrich '2F' _ Unterstreichung '5F' ü ß
+Zeichen Bezeichnung Hex- Zeichen Bezeichnung Hex- ' Apostroph '27' ( Klammer auf ) Klammer zu + plus '2B' - Bindestrich '2D' . Punkt / Schrägstrich '2F' _ Unterstreichung '5F' ü ß
 
 
 ---
+
+**IT in der Arztpraxis**
+
+Merkblatt Krankenversichertenkarte
 
 **2 Festlegung zur Übertragungsschni ttstelle zwischen Host und**
 
@@ -461,6 +486,10 @@ Prüfsumme (Error Detection Code EDC): XOR (Exclusiv-Oder-Verknüpfung).  RTS- u
 
 
 ---
+
+**IT in der Arztpraxis**
+
+Merkblatt Krankenversichertenkarte
 
 Im folgenden werden die Funktionen und Leistungsmerkmale des T=1-Protokolls  beschrieben, die für die Krankenversicherten-Anwendung obligatorisch sind. Die übrigen  Funktionen müssen, wenn sie implementiert werden, ebenfalls standard-konform realisiert  werden.
 
@@ -513,17 +542,27 @@ Response of CardTerminal Control Command Response of KVK-Application Command
 
 ---
 
+**IT in der Arztpraxis**
+
+Merkblatt Krankenversichertenkarte
+
 **2.1.1.1 Fehlerfreie Übertragung**  Die Karten-Terminal-Steuerungs-Kommandos und die Anwendungs-Kommandos sowie  deren zugehörige Antworten werden im sog. I-Block (Information-Block) übertragen  (siehe Abb. 2).
 
-| **Host** | **I-Block** |  |
-|---|---|---|
-|  |  | **Card-Terminal** |
-| **(PC oder** |  |  |
-| **Workstation)** | **I-Block** |  |
+**I-Block**
 
 **Fehlerfreie**
 
+**Host**
+
+**Card-Terminal**
+
 **Übertragung**
+
+**(PC oder**
+
+**I-Block**
+
+**Workstation)**
 
 **Abbildung 2: Tabelle 7: Kommandos KVK**
 
@@ -549,6 +588,10 @@ Der Daten-Kettungs-Mechanismus (More data bit) ist ebenfalls zu unterstützen, s
 
 
 ---
+
+**IT in der Arztpraxis**
+
+Merkblatt Krankenversichertenkarte
 
 Da beim Senden aufeinander folgender Informationsblöcke Flußkontrolle benötigt wird, ist ein  I-Block mit M-Bit=1 mit einem Receive Ready-Block (R-Block) zu quittieren. Abb. 4 zeigt  einen Kommunikationsablauf mit Chaining.
 
@@ -587,6 +630,10 @@ Die PCB-Codierung des R-Blocks zeigt Abb. 5. Das Informationsfeld ist bei einem 
 
 ---
 
+**IT in der Arztpraxis**
+
+Merkblatt Krankenversichertenkarte
+
 **2.1.1.2 Übertragung**  Wird ein fehlerhafter I-Block empfangen, ist dies dem Kommunikationspartner mit einem R- Block anzuzeigen (siehe Abb. 6). Hierbei hat Bit b5 des R-Blocks den Wert der Send  Sequence Number des Blocks, der wiederholt werden soll.
 
 **Host**  **(PC oder**  **Workstation)**
@@ -619,27 +666,36 @@ Tritt ein Fehler zum zweiten Mal hintereinander auf, ist vom Host her eine Resyn
 
 **Card-**  **Terminal**
 
-**Fehlerhafter**  **I-Block Host/CT:**
+|  | **Fehlerhafter** |  |  |
+|---|---|---|---|
+| **I-Block** | | **Host/CT:** |  |
+| **1.** | **CT sendet** |  | **R-Block** |
+| **2.** | **Host** | **wiederholt** | **I-Block** |
+| **3.** | **CT sendet** |  | **I-Block** |
+|  | **Fehlerhafter** |  |  |
+| **I-Block** |  | **CT/Host:** |  |
+| **1.** | **Host** | **sendet** | **R-Block** |
+| **2. CT** | **sendet** | **I-Block** | |
 
-**1. CT sendet R-Block**
-**2. Host wiederholt I-Block**
-**3. CT sendet I-Block** **Fehlerhafter**  **I-Block CT/Host:**
-
-**1. Host sendet R-Block**
-**2. CT sendet I-Block**
-
+I-Block Host/CT: 1. CT sendet R-Block 2. Host wiederholt I-Block 3. CT sendet I-Block I-Block CT/Host: 1. Host sendet R-Block 2. CT sendet I-Block
 
 ---
+
+**IT in der Arztpraxis**
+
+Merkblatt Krankenversichertenkarte
 
 **b8 b7 b6 b5 b4 b3 b2 b1**
 
 **1 1 0 0 0 0 1 1**
 
-|  |  |  |  |  |  | WTX | request |
-|---|---|---|---|---|---|---|---|
-|  |  |  |  | indication |  |  |  |
-|  | **b7** |  | **b5** | **b4** | **b3** | **b2** | **b1** |
-| **1** | **1** | **1** | **0** | **0** | **0** | **1** | **1** |
+WTX request
+
+S-Block indication
+
+**b8 b7 b6 b5 b4 b3 b2 b1**
+
+**1 1 1 0 0 0 1 1**
 
 WTX response
 
@@ -651,19 +707,20 @@ Ein WTX request kann auch vom Host abgelehnt werden. In diesem Fall wird als Ant
 
 **2.1.1.4. Resynchronisation** Zur Resynchronisation kann vom PC bzw. der Workstation ein RESYNCH request gesendet  werden, der vom Karten-Terminal mit dem RESYNCH response zu beantworten ist. Der  RESYNCH request ist immer nach dem Start der KVK-Anwendung vom Host zum Karten- Terminal zu senden. Auch in bestimmten Fehlersituationen (siehe Abschnitt 2) sowie zum  Abbruch eines Kommandos, falls dies notwendig ist (siehe Abschnitt 3), ist der RESYNCH- Mechanismus einzusetzen. Mit dem RESYNCH request/response-Paar werden die  Übertragungsprotokollautomaten in Host und Karten-Terminal synchronisiert bzw. nach  fehlerhafter oder unterbrochener Kommunikation resynchronisiert. Die Sende-Sequenz- Zähler werden durch diesen Befehl ebenfalls auf Null zurückgesetzt. Ein ggf. in Bearbeitung  befindliches Anwendungs-Kommando wird abgebrochen. Die Codierung von RESYNCH  request/response ist in Abb. 8 dargestellt.
 
-WTX request S-Block indication b8 b7 b6 b5 b4 b3 b2 b1 1 1 1 0 0 0 1 1
 
 ---
+
+**IT in der Arztpraxis**
+
+Merkblatt Krankenversichertenkarte
 
 **b8 b7 b6 b5 b4 b3 b2 b1**
 
 **1 1 0 0 0 0 0 0**
 
-|  |  |  |  |  |  | **RESYNCH** |  |
-|---|---|---|---|---|---|---|---|
-|  |  |  |  |  | **S-Block** |  | **indication** |
-|  |  |  | **b5** | **b4** | **b3** | **b2** | **b1** |
-| **1** | **1** | **1** | **0** | **0** | **0** | **0** | **0** |
+**b8 b7 b6 b5 b4 b3 b2 b1**
+
+**1 1 1 0 0 0 0 0**
 
 **Abb. 8: PCB-Codierung der S-Blöcke für RESYNCH request/response**
 
@@ -679,10 +736,20 @@ Im Informationsfeld wird das Kommando bzw. die Antwort auf das Kommando übertra
 
 #### S-Block indication
 
-b8 b7 b6 b5 b4 b3 b2 b1 1 1 1 0 0 0 0 0 S-Block indication request#### response
+#### RESYNCH
+
+#### S-Block indication
+
+**request**
+
+#### response
 
 
 ---
+
+**IT in der Arztpraxis**
+
+Merkblatt Krankenversichertenkarte
 
 **3 Beschreibung der Kommandos fü r die KVK-Anwendung und zur**
 
@@ -728,6 +795,10 @@ for transmission
 
 ---
 
+**IT in der Arztpraxis**
+
+Merkblatt Krankenversichertenkarte
+
 3. Das KVK-Anwendungs-Protokoll basiert auf Kommandos, die zum 'Interindustry  Command Set' gehören (siehe ISO 7816-4). Das CLA-Byte hat daher bei diesen  Kommandos folgende Codierung:
 
 '00' = Command message structure and coding according to ISO 7816-4.
@@ -765,6 +836,10 @@ Functional Unit:  '00' = Card Terminal
 
 ---
 
+**IT in der Arztpraxis**
+
+Merkblatt Krankenversichertenkarte
+
 **3.2 REQUEST ICC**
 
 Mit diesem Kommando wird die Chipkarte angefordert. Nach Einführung der Chipkarte wird  automatisch ein Reset durchgeführt. Der Timer T ist auf '01' (=1 Sekunde) zu setzen. Im  L-Byte ist dann ebenfalls '01' (Length = 1 Byte) anzugeben.
@@ -796,6 +871,10 @@ Status Bytes:  '9000' = synchronous ICC presented,  reset successful
 
 ---
 
+**IT in der Arztpraxis**
+
+Merkblatt Krankenversichertenkarte
+
 **3.3 EJECT ICC**
 
 Das Kommando steuert die Kontaktiereinheit und ggf. vorhandene Signalgeber. Der Timer T  ist auf '01' (=1 Sekunde) zu setzen. Im L-Byte ist dann ebenfalls '01' (Length = 1 Byte)  anzugeben. Gesetzte Indikatoren (LEDs und/oder akustisches Signal) werden nach  Herausnahme der Karte bzw. nach Ablauf des Application Timers, wenn die Karte nicht  entnommen wurde, gelöscht.
@@ -823,6 +902,10 @@ Status Bytes:  '9000' = Command successful  '9001' = Command successful, card  r
 
 ---
 
+**IT in der Arztpraxis**
+
+Merkblatt Krankenversichertenkarte
+
 **4 KVK-Anwendungs-Kommandos**
 
 **4.1 SELECT FILE**
@@ -831,13 +914,9 @@ Mit dem SELECT FILE-Kommando wird die KVK-Anwendung selektiert. Das Kommando wir
 
 **Command:**
 
-CLA INS P1 P2
+CLA INS P1 P2  '00' 'A4' 'SC'
 
-| '00' | 'A4' | | 'SC' | | '00' Lc | | Application | |
-|---|---|---|---|---|---|---|---|---|
-| SELECT | | File | |  |  | |  |  |
-| | | | | | | | | |
-| | | | | | | | | |
+SELECT File
 
 ***) Die AID hat sich durch neueste ISO-Bestimmungen geändert.Da die**  **Versichertenkarten teilweise schon mit der alten AID ('D28000000101') in Umlauf**  **sind, sind für das Chipkarten-Terminal beide AID's zugelassen.**
 
@@ -845,15 +924,28 @@ Response:
 
 SW1 SW2
 
-L Lc
+L
+
+'00' Lc
+
+Lc  Application Id. (AID)
+
+AID der Krankenversicherten-
+
+'06' Anwendung: 'D27600000101'*) bzw.
 
 Selection Control:  '04' = Application ID (AID)
 
 Status Bytes:  '9000' = Command successful '6A82' = Application not found or  ATR/DIR data incorrect
 
-'00' 'A4' SELECT File Application Id. (AID) AID der Krankenversicherten- '06' Anwendung: 'D27600000101'*) bzw. 'D28000000101'
+'D28000000101'
+
 
 ---
+
+**IT in der Arztpraxis**
+
+Merkblatt Krankenversichertenkarte
 
 **4.2 READ BINARY**
 
@@ -892,6 +984,10 @@ Status Bytes:  '9000' = Command successful  '6282' = Warning, end of file  reach
 
 ---
 
+**IT in der Arztpraxis**
+
+Merkblatt Krankenversichertenkarte
+
 b) Lesen des VD-Templates mit mehreren READ BINARY-Kommandos
 
 Das READ BINARY-Kommando ist mit fortgeschaltetem Offset sooft aufzurufen, bis das  Ende der Daten mit den Status-Bytes '6282' angezeigt wird. Die Länge Le beträgt bei einer  Informationsfeldgröße von 32 Bytes '1E', d.h. die Rückantwort enthält 30 Daten- und 2 Status-Bytes.
@@ -900,6 +996,10 @@ Entspricht die Struktur der Daten nicht den Vorgaben, werden nur die Status-Byte
 
 
 ---
+
+**IT in der Arztpraxis**
+
+Merkblatt Krankenversichertenkarte
 
 **5 Ablauf der KVK-Anwendung**  Nach dem Start der KVK-Anwendung müssen zuerst die Übertragungs-Protokollautomaten  durch Austausch von RESYNCH request/response auf einen definierten Ausgangswert  zurückgesetzt werden. Danach werden auf Anwendungsebene folgende Kommandos  gesendet:
 
@@ -943,6 +1043,10 @@ Der PC sendet bis zum Ablauf einer Default-Wartezeit von 60 Sekunden (diese Zeit
 
 
 ---
+
+**IT in der Arztpraxis**
+
+Merkblatt Krankenversichertenkarte
 
 **6 Serielle Schnittstelle**
 

@@ -6,29 +6,29 @@
 
 **Id**
 
-2.80
+280
 
-1.12
+112
 
-2.52
+252
 
-2.16
+216
 
-2.43
+243
 
-2.03
+203
 
-2.54
+254
 
-2.44
+244
 
-4.57
+457
 
-4.88
+488
 
-4.62
+462
 
-2.10
+210
 
 **Praxissoftware**
 
@@ -165,13 +165,13 @@ INDAMED EDV-Entwicklung und Vertrieb GmbH 1
 
 **Id**
 
-2.66
+266
 
-0.30
+030
 
-0.23
+023
 
-2.61
+261
 
 **Praxissoftware**
 
@@ -181,7 +181,7 @@ INDAMED EDV-Entwicklung und Vertrieb GmbH 1
 
 **DATA VITAL**
 
-**S3-Win**
+**S 3-Win**
 
 **Anbieter**
 
@@ -191,7 +191,7 @@ MediSoftware Computersysteme für Ärzte
 
 CompuGroup Medical Deutschland AG
 
-S3 Praxiscomputer GmbH / Maximilian Flender 2
+S 3 Praxiscomputer GmbH / Maximilian Flender 2
 
 **Installationen 2.Q.2025**
 

@@ -106,25 +106,27 @@ bzw. des gesetzlichen Vertreters zu 1. und 2.
 
 **T T M M J J J J**
 
-|  | **–** | **von** |  | **der** |  |  | **behandelnden** |
-|---|---|---|---|---|---|---|---|
-| Ich |  | bestätige, |  |  | dass | für | die |
-|  | sprechend |  | den |  |  | rechtlichen |  |
-| wurden |  | und |  | erfüllt |  | sind. |  |
-|  | wirkung |  | und | T | eilnahme |  | an |
-|  | profitieren |  |  | kann. |  |  |  |
-| Bitte | das |  | heutige | Datum |  |  | eintragen. |
-| **T** | **T** | **M** | **M** | **J** | **J** | **J** | **J** |
+**– von der behandelnden Ärztin/vom behandelnden Arzt oder Krankenhausärztin/Krankenhausarzt auszufüllen –**
 
-ersicherte/den vorgenannten Versicherten die oben genannte(n) Diagnose(n) ent-
+Ich bestätige, dass für die vorgenannte Versicherte/den vorgenannten Versicherten die oben genannte(n) Diagnose(n) ent-
 
-eifend gr
+sprechend den rechtlichen Anforderungen gesichert ist/sind und die indikationsspezifischen Einschreibekriterien überprüft  eifend
 
-Indikationsüber 24.04.2025 TEEWE
+wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit- gr
+
+wirkung und Teilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung
+
+profitieren kann.
+
+Indikationsüber
+
+Bitte das heutige Datum eintragen. **T T M M J J J J**
+
+24.04.2025 TEEWE
 
 Unterschrift
 
-– von der behandelnden Ärztin/vom behandelnden Arzt oder Krankenhausärztin/Krankenhausarzt auszufüllen – Ich bestätige, dass für die vorgenannte V sprechend den rechtlichen Anforderungen gesichert ist/sind und die indikationsspezifischen Einschreibekriterien überprüft wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit- wirkung und T eilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung profitieren kann. Bitte das heutige Datum eintragen. T T M M J J J JStempel Ärztin/Arzt
+Stempel Ärztin/Arzt
 
 
 ---
@@ -237,23 +239,27 @@ bzw. des gesetzlichen Vertreters zu 1. und 2.
 
 **T T M M J J J J**
 
-|  | **–** | **von** |  | **der** |  |  | **behandelnden** |
-|---|---|---|---|---|---|---|---|
-| Ich |  | bestätige, |  |  | dass | für | die |
-|  | sprechend |  | den |  |  | rechtlichen |  |
-| wurden |  | und |  | erfüllt |  | sind. |  |
-|  | wirkung |  | und | T | eilnahme |  | an |
-|  | profitieren |  |  | kann. |  |  |  |
-| Bitte | das |  | heutige | Datum |  |  | eintragen. |
-| **T** | **T** | **M** | **M** | **J** | **J** | **J** | **J** |
+**– von der behandelnden Ärztin/vom behandelnden Arzt oder Krankenhausärztin/Krankenhausarzt auszufüllen –**
 
-ersicherte/den vorgenannten Versicherten die oben genannte(n) Diagnose(n) ent-
+Ich bestätige, dass für die vorgenannte Versicherte/den vorgenannten Versicherten die oben genannte(n) Diagnose(n) ent-
 
-eifend gr 24.04.2025 TEEWE
+sprechend den rechtlichen Anforderungen gesichert ist/sind und die indikationsspezifischen Einschreibekriterien überprüft  eifend
+
+wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit- gr
+
+wirkung und Teilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung
+
+profitieren kann.
+
+Indikationsüber
+
+Bitte das heutige Datum eintragen. **T T M M J J J J**
+
+24.04.2025 TEEWE
 
 Unterschrift
 
-– von der behandelnden Ärztin/vom behandelnden Arzt oder Krankenhausärztin/Krankenhausarzt auszufüllen – Ich bestätige, dass für die vorgenannte V sprechend den rechtlichen Anforderungen gesichert ist/sind und die indikationsspezifischen Einschreibekriterien überprüft wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit- wirkung und T eilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung profitieren kann. Bitte das heutige Datum eintragen. T T M M J J J JStempel Ärztin/Arzt
+Stempel Ärztin/Arzt
 
 
 ---
@@ -368,23 +374,27 @@ bzw. des gesetzlichen Vertreters zu 1. und 2.
 
 **T T M M J J J J**
 
-|  | **–** | **von** |  | **der** |  |  | **behandelnden** |
-|---|---|---|---|---|---|---|---|
-| Ich |  | bestätige, |  |  | dass | für | die |
-|  | sprechend |  | den |  |  | rechtlichen |  |
-| wurden |  | und |  | erfüllt |  | sind. |  |
-|  | wirkung |  | und | T | eilnahme |  | an |
-|  | profitieren |  |  | kann. |  |  |  |
-| Bitte | das |  | heutige | Datum |  |  | eintragen. |
-| **T** | **T** | **M** | **M** | **J** | **J** | **J** | **J** |
+**– von der behandelnden Ärztin/vom behandelnden Arzt oder Krankenhausärztin/Krankenhausarzt auszufüllen –**
 
-ersicherte/den vorgenannten Versicherten die oben genannte(n) Diagnose(n) ent-
+Ich bestätige, dass für die vorgenannte Versicherte/den vorgenannten Versicherten die oben genannte(n) Diagnose(n) ent-
 
-eifend gr 24.04.2025 TEEWE
+sprechend den rechtlichen Anforderungen gesichert ist/sind und die indikationsspezifischen Einschreibekriterien überprüft  eifend
+
+wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit- gr
+
+wirkung und Teilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung
+
+profitieren kann.
+
+Indikationsüber
+
+Bitte das heutige Datum eintragen. **T T M M J J J J**
+
+24.04.2025 TEEWE
 
 Unterschrift
 
-– von der behandelnden Ärztin/vom behandelnden Arzt oder Krankenhausärztin/Krankenhausarzt auszufüllen – Ich bestätige, dass für die vorgenannte V sprechend den rechtlichen Anforderungen gesichert ist/sind und die indikationsspezifischen Einschreibekriterien überprüft wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit- wirkung und T eilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung profitieren kann. Bitte das heutige Datum eintragen. T T M M J J J JStempel Ärztin/Arzt
+Stempel Ärztin/Arzt
 
 
 ---
@@ -444,6 +454,8 @@ Der dargestellte Ablauf der Programme und die nachfolgend beschriebenen Aufgaben
 erhobenen Daten erfolgt unter Beachtung der Datenschutzgrundverordnung (DS-GVO). Dadurch ist der Schutz Ihrer Daten immer  gr
 
 gewährleistet! Bei allen Beteiligten haben nur speziell für das Programm ausgewählte und besonders geschulte Mitarbeiterinnen/ Mitarbeiter Zugang zu den Daten. Des Weiteren werden Ihre Daten entsprechend den gültigen Rechtsvorschriften aufewahrt.
+
+Indikationsüber
 
 **3.1 Was geschieht bei der Ärztin/dem Arzt mit den Daten?**
 
@@ -548,6 +560,8 @@ regelmäßige Dokumentation.
 gr
 
 **Koordination Ihrer Behandlung**
+
+Indikationsüber
 
 Die von Ihnen gewählte Ärztin oder der von Ihnen gewählte Arzt koordiniert die Programmdurchführung und berät und unterstützt
 

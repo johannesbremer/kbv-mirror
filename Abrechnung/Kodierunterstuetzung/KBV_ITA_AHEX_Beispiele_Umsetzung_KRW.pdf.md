@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | BUNDESVEREINIGUNG    DEZERNAT DIGITALISIERUNG UND IT 15. APRIL 2023  VERSION: 1.02 |
+|  | BUNDESVEREINIGUNG     DEZERNAT DIGITALISIERUNG UND IT  15. APRIL 2023   VERSION: 1.02 |
 |---|---|
 
 # BEISPIELE FÜR DIE UMSETZUNG
@@ -112,7 +112,7 @@ DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.02 | 15.04.2023 | KBV | Ergänzung der UseCases 6,8,9  Ergänzung der Korrekturwerte  Einfügung Kapitel 4 Beispiele | Ergänzung      Ergänzung   Zusammenführung | 10, 13, 17      11   30 |
+| 1.02 | 15.04.2023 | KBV | Ergänzung der UseCases 6,8,9    Ergänzung der Korrekturwerte    Einfügung Kapitel 4 Beispiele | Ergänzung            Ergänzung      Zusammenführung | 10, 13, 17            11      30 |
 | 1.01 | 23.11.2021 | KBV | Korrektur UseCase 13 |  | 26 |
 | 1.00 | 13.09.2021 | KBV | Bereitstellung des Dokumentes |  |  |
 
@@ -175,9 +175,9 @@ Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wir
 | ERWARTETE REAKTION DER SOFTWARE |
 |---|
 | Nach der Beendigung des Kodiervorgangs wird die Kodierregel mit der ID „01-01-001“ ausgelöst |
-| Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: I21.2 Z |
-| Anzeige des folgenden Hinweistextes: Für die Abbildung eines Zustandes nach akutem Myokardinfarkt sieht die ICD-10 einen spezifischen Kode |
-| Anzeige des folgenden Vorschlagstextes: Sofern zutreffend, ersetzen Sie bitte den Kode durch einen der folgenden Kodes mit dem I25.20 (Alter Myokardinfarkt, 29 Tage bis unter 4 Monate zurückliegend) G I25.21 (Alter Myokardinfarkt, 4 Monate bis unter 1 Jahr zurückliegend) G I25.22 (Alter Myokardinfarkt, 1 Jahr und länger zurückliegend) G I25.29 (Alter Myokardinfarkt, nicht näher bezeichnet) G |
+| Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat:  I21.2 Z |
+| Anzeige des folgenden Hinweistextes:  Für die Abbildung eines Zustandes nach akutem Myokardinfarkt sieht die ICD-10 einen spezifischen Kode |
+| Anzeige des folgenden Vorschlagstextes:  Sofern zutreffend, ersetzen Sie bitte den Kode durch einen der folgenden Kodes mit dem  I25.20 (Alter Myokardinfarkt, 29 Tage bis unter 4 Monate zurückliegend) G  I25.21 (Alter Myokardinfarkt, 4 Monate bis unter 1 Jahr zurückliegend) G  I25.22 (Alter Myokardinfarkt, 1 Jahr und länger zurückliegend) G  I25.29 (Alter Myokardinfarkt, nicht näher bezeichnet) G |
 
 Der Anwender wählt den ICD-10-GM- Kode I25.22 G aus der Vorschlagsliste aus und bestätigt die Auswahl.
 
@@ -231,9 +231,9 @@ Nach Eingabe der Diagnosen aus UseCase 2 ändert der Anwender bei dem ICD-10-GM-
 | ERWARTETE REAKTION DER SOFTWARE |
 |---|
 | Nach der Änderung des Zusatzkennzeichens für die Diagnosensicherheit wird die Kodierregel mit der |
-| Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: I21.0 Z |
-| Anzeige des folgenden Hinweistextes: Für die Abbildung eines Zustandes nach akutem Myokardinfarkt sieht die ICD-10 einen spezifischen Kode |
-| Anzeige des folgenden Vorschlagstextes: Sofern zutreffend, ersetzen Sie bitte den Kode durch einen der folgenden Kodes mit dem I25.20 (Alter Myokardinfarkt, 29 Tage bis unter 4 Monate zurückliegend) G I25.21 (Alter Myokardinfarkt, 4 Monate bis unter 1 Jahr zurückliegend) G I25.22 (Alter Myokardinfarkt, 1 Jahr und länger zurückliegend) G I25.29 (Alter Myokardinfarkt, nicht näher bezeichnet) G |
+| Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat:  I21.0 Z |
+| Anzeige des folgenden Hinweistextes:  Für die Abbildung eines Zustandes nach akutem Myokardinfarkt sieht die ICD-10 einen spezifischen Kode |
+| Anzeige des folgenden Vorschlagstextes:  Sofern zutreffend, ersetzen Sie bitte den Kode durch einen der folgenden Kodes mit dem  I25.20 (Alter Myokardinfarkt, 29 Tage bis unter 4 Monate zurückliegend) G  I25.21 (Alter Myokardinfarkt, 4 Monate bis unter 1 Jahr zurückliegend) G  I25.22 (Alter Myokardinfarkt, 1 Jahr und länger zurückliegend) G  I25.29 (Alter Myokardinfarkt, nicht näher bezeichnet) G |
 
 Der Anwender wählt den ICD-10-GM- Kode I25.29 G aus der Vorschlagsliste aus und bestätigt die Auswahl.
 
@@ -267,9 +267,9 @@ Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wir
 | ERWARTETE REAKTION DER SOFTWARE |
 |---|
 | Nach der Beendigung des Kodiervorgangs wird die Kodierregel mit der ID „01-02-011“ ausgelöst |
-| Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: E11.30 G |
-| Anzeige des folgenden Hinweistextes: Für die Abbildung von diabetischen Augenkomplikationen sieht die ICD-10 spezifische Kodes vor. |
-| Anzeige des folgenden Vorschlagstextes: Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes: H28.0 (Diabetische Katarakt) H36.0 (Retinopathia diabetica) |
+| Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat:  E11.30 G |
+| Anzeige des folgenden Hinweistextes:  Für die Abbildung von diabetischen Augenkomplikationen sieht die ICD-10 spezifische Kodes vor. |
+| Anzeige des folgenden Vorschlagstextes:  Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes:  H28.0 (Diabetische Katarakt)  H36.0 (Retinopathia diabetica) |
 | Aufforderung an den Anwender, das zutreffende Zusatzkennzeichen für die Diagnosensicherheit zu |
 
 Der Anwender wählt den Kode H28.0 mit dem Kennzeichen „G“ aus.
@@ -341,10 +341,10 @@ Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wir
 | Nach der Beendigung des Kodiervorgangs wird keine Kodierregel ausgelöst |
 | Falls die Prüfung gegen das Kodierregelwerk direkt nach der Eingabe eines Kodes erfolgt, können die |
 | Eingabe der Diagnosen E11.30 G und / oder E11.31 G vor der Diagnose H36.0 G: Auslösen der |
-| Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: E11.30 G bzw. E11.31 G |
-| Anzeige des folgenden Hinweistextes: Für die Abbildung von diabetischen Augenkomplikationen sieht die ICD-10 spezifische Kodes vor. |
-| Anzeige des folgenden Vorschlagstextes: Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes: H28.0 (Diabetische Katarakt) H36.0 (Retinopathia diabetica) |
-| Aufforderung an den Anwender, das zutreffende Zusatzkennzeichen für die Diagnosensicherheit zu Hinweis für die Prüfung der Umsetzung:  Bitte wählen Sie das Zusatzkennzeichen „G“. |
+| Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat:  E11.30 G bzw. E11.31 G |
+| Anzeige des folgenden Hinweistextes:  Für die Abbildung von diabetischen Augenkomplikationen sieht die ICD-10 spezifische Kodes vor. |
+| Anzeige des folgenden Vorschlagstextes:  Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes:  H28.0 (Diabetische Katarakt)  H36.0 (Retinopathia diabetica) |
+| Aufforderung an den Anwender, das zutreffende Zusatzkennzeichen für die Diagnosensicherheit zu  Hinweis für die Prüfung der Umsetzung:  Bitte wählen Sie das Zusatzkennzeichen „G“. |
 
 folgenden Regeln in Abhängigkeit von der Eingabereihenfolge ausgelöst werden Kodierregel mit der ID 01-02-011 ergänzen. UseCase 6 „EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER“ angegebenen ICD-10-GM-Kodes für den Versicherten kodiert werden.
 
@@ -370,9 +370,9 @@ folgenden Regeln in Abhängigkeit von der Eingabereihenfolge ausgelöst werden K
 | ERWARTETE REAKTION DER SOFTWARE |
 |---|
 | Nach der Beendigung des Kodiervorgangs wird die Kodierregel mit der ID „01-02-012“ ausgelöst |
-| Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: E11.40 G |
-| Anzeige des folgenden Hinweistextes: Für die Abbildung von neurologischen Komplikationen bei Diabetes mellitus sieht die ICD-10 spezifische |
-| Anzeige des folgenden Vorschlagstextes: Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes: G59.0 (Diabetische Mononeuropathie) G63.2 (Diabetische Polyneuropathie) G73.0 (Myastheniesyndrome bei endokrinen Krankheiten) G99.00 (Gastroparese bei autonomer Neuropathie bei endokrinen und Stoffwechselkrankheiten) G99.08 (Sonstige autonome Neuropathie bei endokrinen und Stoffwechselkrankheiten) |
+| Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat:  E11.40 G |
+| Anzeige des folgenden Hinweistextes:  Für die Abbildung von neurologischen Komplikationen bei Diabetes mellitus sieht die ICD-10 spezifische |
+| Anzeige des folgenden Vorschlagstextes:  Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes:  G59.0 (Diabetische Mononeuropathie)  G63.2 (Diabetische Polyneuropathie)  G73.0 (Myastheniesyndrome bei endokrinen Krankheiten)  G99.00 (Gastroparese bei autonomer Neuropathie bei endokrinen und Stoffwechselkrankheiten)  G99.08 (Sonstige autonome Neuropathie bei endokrinen und Stoffwechselkrankheiten) |
 | Aufforderung an den Anwender, das zutreffende Zusatzkennzeichen für die Diagnosensicherheit zu |
 
 | ERWARTETE REAKTION DER SOFTWARE |
@@ -404,16 +404,16 @@ folgenden Regeln in Abhängigkeit von der Eingabereihenfolge ausgelöst werden K
 | ERWARTETE REAKTION DER SOFTWARE | |
 |---|---|
 | Falls die Diagnosen direkt nach der Eingabe der Einzeldiagnosen geprüft werden und eine der | |
-| Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: E11.20 G bzw. E10.20 G | |
-| Anzeige des folgenden Hinweistextes: Für die Abbildung von diabetischen Nierenkomplikationen sieht die ICD-10 einen spezifischen Kode vor.. | |
-| Anzeige des folgenden Vorschlagstextes: Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes: N08.3 (Glomeruläre Krankheiten bei Diabetes mellitus  (E10-E14+, vierte Stelle .2)) | |
+| Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat:  E11.20 G bzw. E10.20 G | |
+| Anzeige des folgenden Hinweistextes:  Für die Abbildung von diabetischen Nierenkomplikationen sieht die ICD-10 einen spezifischen Kode vor.. | |
+| Anzeige des folgenden Vorschlagstextes:  Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes:  N08.3 (Glomeruläre Krankheiten bei Diabetes mellitus  (E10-E14+, vierte Stelle .2)) | |
 | Aufforderung an den Anwender, das zutreffende Zusatzkennzeichen für die Diagnosensicherheit zu | |
 | Falls die Diagnosen direkt nach der Eingabe der Einzeldiagnosen geprüft werden und die Diagnose | |
-| Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: N08.3 G | |
-| Anzeige des folgenden Hinweistextes: Der Kode für diabetische Nierenkomplikationen ist laut ICD-10 nur in Verbindung mit einem Kode für den | |
-| Anzeige des folgenden Vorschlagstextes: Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes: E10.20 (Diabetes mellitus vom Typ 1 mit Nierenkomplikationen [N08.3*], nicht als entgleist E10.21 (Diabetes mellitus vom Typ 1 mit Nierenkomplikationen, als entgleist bezeichnet [N08.3*]) E11.20 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit Nierenkomplikationen, | |
+| Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat:  N08.3 G | |
+| Anzeige des folgenden Hinweistextes:  Der Kode für diabetische Nierenkomplikationen ist laut ICD-10 nur in Verbindung mit einem Kode für den | |
+| Anzeige des folgenden Vorschlagstextes:  Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes:  E10.20 (Diabetes mellitus vom Typ 1 mit Nierenkomplikationen [N08.3*], nicht als entgleist  E10.21 (Diabetes mellitus vom Typ 1 mit Nierenkomplikationen, als entgleist bezeichnet [N08.3*])  E11.20 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit Nierenkomplikationen, | |
 | 1.1.8 Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle | |
-| EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER ICD-10-GM-Kode Diagnosesicherheit J30.1 G E11.20 G N08.3 G M54.5 G E10.20 G  ERWARTETE REAKTION DER SOFTWARE Falls die Diagnosen direkt nach der Eingabe der Einzeldiagnosen geprüft werden und eine der Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: E11.20 G bzw. E10.20 G Anzeige des folgenden Hinweistextes: Für die Abbildung von diabetischen Nierenkomplikationen sieht die ICD-10 einen spezifischen Kode vor.. Anzeige des folgenden Vorschlagstextes: Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes: N08.3 (Glomeruläre Krankheiten bei Diabetes mellitus  (E10-E14+, vierte Stelle .2)) | |
+| EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER  ICD-10-GM-Kode  Diagnosesicherheit  J30.1  G  E11.20  G  N08.3  G  M54.5  G  E10.20  G    ERWARTETE REAKTION DER SOFTWARE  Falls die Diagnosen direkt nach der Eingabe der Einzeldiagnosen geprüft werden und eine der  Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat:  E11.20 G bzw. E10.20 G  Anzeige des folgenden Hinweistextes:  Für die Abbildung von diabetischen Nierenkomplikationen sieht die ICD-10 einen spezifischen Kode vor.. Anzeige des folgenden Vorschlagstextes:  Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes:  N08.3 (Glomeruläre Krankheiten bei Diabetes mellitus  (E10-E14+, vierte Stelle .2)) | |
 | 1.1.8 Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle | |
 | EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER | |
 |  | |
@@ -425,7 +425,7 @@ folgenden Regeln in Abhängigkeit von der Eingabereihenfolge ausgelöst werden K
 | M54.5 | G |
 | E10.20 | |
 | G |  |
-| ERWARTETE REAKTION DER SOFTWARE | Falls die Diagnosen direkt nach der Eingabe der Einzeldiagnosen geprüft werden und eine der Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: E11.20 G bzw. E10.20 G |
+| ERWARTETE REAKTION DER SOFTWARE | Falls die Diagnosen direkt nach der Eingabe der Einzeldiagnosen geprüft werden und eine der  Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat:  E11.20 G bzw. E10.20 G |
 
 | EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER | |
 |---|---|
@@ -440,21 +440,21 @@ UseCase 8 „EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER“ angegebenen ICD-1
 
 ---
 
-| E12.73 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit sonstigen multiplen E12.74 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit diabetischem | |
+| E12.73 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit sonstigen multiplen  E12.74 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit diabetischem | |
 |---|---|
 | E13.72 (Sonstiger näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, nicht | |
-| E13.73 (Sonstiger näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, als E13.74 (Sonstiger näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, nicht als | |
-| E13.75 (Sonstiger näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, als entgleist E14.72 (Nicht näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, nicht als | |
-| E14.73 (Nicht näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, als E14.74 (Nicht näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, nicht als entgleist E14.75 (Nicht näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, als entgleist | |
+| E13.73 (Sonstiger näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, als  E13.74 (Sonstiger näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, nicht als | |
+| E13.75 (Sonstiger näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, als entgleist  E14.72 (Nicht näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, nicht als | |
+| E14.73 (Nicht näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, als  E14.74 (Nicht näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, nicht als entgleist  E14.75 (Nicht näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, als entgleist | |
 |  | |
 |  | |
 |  | |
 |  | |
 |  | |
 | ERWARTETE REAKTION DER SOFTWARE | |
-| E11.21 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit Nierenkomplikationen, E12.20 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung [Malnutrition] mit E12.21 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung [Malnutrition] mit E13.20 (Sonstiger näher bezeichneter Diabetes mellitus mit Nierenkomplikationen, nicht als entgleist E13.21 (Sonstiger näher bezeichneter Diabetes mellitus mit Nierenkomplikationen, als entgleist E14.20 (Nicht näher bezeichneter Diabetes mellitus mit Nierenkomplikationen, nicht als entgleist E14.21 (Nicht näher bezeichneter Diabetes mellitus mit Nierenkomplikationen, als entgleist bezeichnet E10.72 (Diabetes mellitus vom Typ 1 mit sonstigen multiplen Komplikationen, nicht als entgleist E10.73 (Diabetes mellitus vom Typ 1 mit sonstigen multiplen Komplikationen, als entgleist bezeichnet) E10.74 (Diabetes mellitus vom Typ 1 mit diabetischem Fußsyndrom, nicht als entgleist bezeichnet) E10.75 (Diabetes mellitus vom Typ 1 mit diabetischem Fußsyndrom, als entgleist bezeichnet) E11.72 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit sonstigen multiplen E11.73 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit sonstigen multiplen E11.74 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit diabetischem E11.75 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit diabetischem E12.72 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit sonstigen multiplen E12.73 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit sonstigen multiplen E12.74 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit diabetischem E12.75 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit diabetischem E13.72 (Sonstiger näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, nicht E13.73 (Sonstiger näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, als E13.74 (Sonstiger näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, nicht als E13.75 (Sonstiger näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, als entgleist E14.72 (Nicht näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, nicht als E14.73 (Nicht näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, als E14.74 (Nicht näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, nicht als entgleist E14.75 (Nicht näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, als entgleist | |
+| E11.21 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit Nierenkomplikationen,  E12.20 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung [Malnutrition] mit  E12.21 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung [Malnutrition] mit  E13.20 (Sonstiger näher bezeichneter Diabetes mellitus mit Nierenkomplikationen, nicht als entgleist  E13.21 (Sonstiger näher bezeichneter Diabetes mellitus mit Nierenkomplikationen, als entgleist  E14.20 (Nicht näher bezeichneter Diabetes mellitus mit Nierenkomplikationen, nicht als entgleist  E14.21 (Nicht näher bezeichneter Diabetes mellitus mit Nierenkomplikationen, als entgleist bezeichnet  E10.72 (Diabetes mellitus vom Typ 1 mit sonstigen multiplen Komplikationen, nicht als entgleist  E10.73 (Diabetes mellitus vom Typ 1 mit sonstigen multiplen Komplikationen, als entgleist bezeichnet)  E10.74 (Diabetes mellitus vom Typ 1 mit diabetischem Fußsyndrom, nicht als entgleist bezeichnet)  E10.75 (Diabetes mellitus vom Typ 1 mit diabetischem Fußsyndrom, als entgleist bezeichnet)  E11.72 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit sonstigen multiplen  E11.73 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit sonstigen multiplen  E11.74 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit diabetischem  E11.75 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit diabetischem  E12.72 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit sonstigen multiplen  E12.73 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit sonstigen multiplen  E12.74 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit diabetischem  E12.75 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit diabetischem  E13.72 (Sonstiger näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, nicht  E13.73 (Sonstiger näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, als  E13.74 (Sonstiger näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, nicht als  E13.75 (Sonstiger näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, als entgleist  E14.72 (Nicht näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, nicht als  E14.73 (Nicht näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, als  E14.74 (Nicht näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, nicht als entgleist  E14.75 (Nicht näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, als entgleist | |
 | ERWARTETE REAKTION DER SOFTWARE | |
-| E11.21 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit Nierenkomplikationen, E12.20 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung [Malnutrition] mit | |
+| E11.21 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit Nierenkomplikationen,  E12.20 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung [Malnutrition] mit | |
 | E12.21 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung [Malnutrition] mit | |
 | E13.20 (Sonstiger näher bezeichneter Diabetes mellitus mit Nierenkomplikationen, nicht als entgleist | |
 | E13.21 (Sonstiger näher bezeichneter Diabetes mellitus mit Nierenkomplikationen, als entgleist | E14.20 (Nicht näher bezeichneter Diabetes mellitus mit Nierenkomplikationen, nicht als entgleist |
@@ -464,27 +464,27 @@ UseCase 8 „EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER“ angegebenen ICD-1
 | E11.72 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit sonstigen multiplen | E11.73 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit sonstigen multiplen |
 | E11.74 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit diabetischem | |
 | E11.75 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit diabetischem | E12.72 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit sonstigen multiplen |
-| E12.73 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit sonstigen multiplen E12.74 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit diabetischem E12.75 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit diabetischem | E13.72 (Sonstiger näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, nicht E13.73 (Sonstiger näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, als E13.74 (Sonstiger näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, nicht als |
+| E12.73 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit sonstigen multiplen  E12.74 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit diabetischem  E12.75 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit diabetischem | E13.72 (Sonstiger näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, nicht  E13.73 (Sonstiger näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, als  E13.74 (Sonstiger näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, nicht als |
 
 als entgleist bezeichnet [N08.3*]) Nierenkomplikationen, nicht als entgleist bezeichnet [N08.3*]) Nierenkomplikationen, als entgleist bezeichnet [N08.3*]) bezeichnet [N08.3*]) bezeichnet [N08.3*]) bezeichnet [N08.3*]) [N08.3*]) Komplikationen, nicht als entgleist bezeichnet) Komplikationen, nicht als entgleist bezeichnet)
 
 ---
 
-| Entfernen Sie bitte nicht zutreffende Kodes. E10.20 (Diabetes mellitus vom Typ 1 mit | |
+| Entfernen Sie bitte nicht zutreffende Kodes.  E10.20 (Diabetes mellitus vom Typ 1 mit | |
 |---|---|
 | Entfernen Sie bitte nicht zutreffende Kodes. | |
-| E10.20 (Diabetes mellitus vom Typ 1 mit E11.20 (Nicht primär insulinabhängiger | |
+| E10.20 (Diabetes mellitus vom Typ 1 mit  E11.20 (Nicht primär insulinabhängiger | |
 | Der Anwender wählt aus, dass der ICD-10-GM- | |
 | ERWARTETE REAKTION DER SOFTWARE | |
 |  | |
 | Der ICD-10-GM-Kode E10.20 G wird aus den eingegebenen Behandlungsdiagnosen entfernt. | |
 | Anmerkung: Gemäß KP-710, Akzeptanzkriterium 6, werden gegen gelöschte Behandlungsdiagnosen | |
 | ERWARTETE ERGEBNISDATEN | |
-| ICD-10-GM-Kode Zusatzkennzeichen für die Diagnosensicherheit J30.1 G | |
+| ICD-10-GM-Kode  Zusatzkennzeichen für die Diagnosensicherheit  J30.1  G | |
 | ERWARTETE REAKTION DER SOFTWARE | |
-| Aufforderung an den Anwender, das zutreffende Zusatzkennzeichen für die Diagnosensicherheit zu Hinweis für die Prüfung der Umsetzung: Übernehmen Sie die Diagnosen E10.20 und E11.10, jeweils mit Nach der Beendigung des Kodiervorgangs wird (bei sequenzieller Abarbeitung) zuerst die Kodierregel Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: ID „01-01-025“ ID „01-01-026“ E10.20 G E11.20 G Anzeige des folgenden Hinweistextes: ID „01-01-025“ ID „01-01-026“ Unterschiedliche Typen des Diabetes mellitus Unterschiedliche Typen des Diabetes mellitus Anzeige des folgenden Vorschlagstextes: ID „01-01-025“ ID „01-01-026“ Entfernen Sie bitte nicht zutreffende Kodes. E10.20 (Diabetes mellitus vom Typ 1 mit E11.20 (Nicht primär insulinabhängiger Entfernen Sie bitte nicht zutreffende Kodes. E10.20 (Diabetes mellitus vom Typ 1 mit E11.20 (Nicht primär insulinabhängiger  Der Anwender wählt aus, dass der ICD-10-GM-  ERWARTETE REAKTION DER SOFTWARE | |
+| Aufforderung an den Anwender, das zutreffende Zusatzkennzeichen für die Diagnosensicherheit zu  Hinweis für die Prüfung der Umsetzung: Übernehmen Sie die Diagnosen E10.20 und E11.10, jeweils mit  Nach der Beendigung des Kodiervorgangs wird (bei sequenzieller Abarbeitung) zuerst die Kodierregel  Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat:  ID „01-01-025“  ID „01-01-026“  E10.20 G  E11.20 G  Anzeige des folgenden Hinweistextes:  ID „01-01-025“  ID „01-01-026“  Unterschiedliche Typen des Diabetes mellitus  Unterschiedliche Typen des Diabetes mellitus  Anzeige des folgenden Vorschlagstextes:  ID „01-01-025“  ID „01-01-026“  Entfernen Sie bitte nicht zutreffende Kodes.  E10.20 (Diabetes mellitus vom Typ 1 mit  E11.20 (Nicht primär insulinabhängiger  Entfernen Sie bitte nicht zutreffende Kodes.  E10.20 (Diabetes mellitus vom Typ 1 mit  E11.20 (Nicht primär insulinabhängiger    Der Anwender wählt aus, dass der ICD-10-GM-    ERWARTETE REAKTION DER SOFTWARE | |
 | ERWARTETE REAKTION DER SOFTWARE | |
-| Aufforderung an den Anwender, das zutreffende Zusatzkennzeichen für die Diagnosensicherheit zu Hinweis für die Prüfung der Umsetzung: Übernehmen Sie die Diagnosen E10.20 und E11.10, jeweils mit | |
+| Aufforderung an den Anwender, das zutreffende Zusatzkennzeichen für die Diagnosensicherheit zu  Hinweis für die Prüfung der Umsetzung: Übernehmen Sie die Diagnosen E10.20 und E11.10, jeweils mit | |
 | Nach der Beendigung des Kodiervorgangs wird (bei sequenzieller Abarbeitung) zuerst die Kodierregel | |
 | Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: | |
 | ID „01-01-025“ | ID „01-01-026“ |
@@ -494,7 +494,7 @@ als entgleist bezeichnet [N08.3*]) Nierenkomplikationen, nicht als entgleist bez
 | Unterschiedliche Typen des Diabetes mellitus | Unterschiedliche Typen des Diabetes mellitus |
 | Anzeige des folgenden Vorschlagstextes: | |
 | ID „01-01-025“ | ID „01-01-026“ |
-| Entfernen Sie bitte nicht zutreffende Kodes. E10.20 (Diabetes mellitus vom Typ 1 mit E11.20 (Nicht primär insulinabhängiger | Entfernen Sie bitte nicht zutreffende Kodes. E10.20 (Diabetes mellitus vom Typ 1 mit E11.20 (Nicht primär insulinabhängiger |
+| Entfernen Sie bitte nicht zutreffende Kodes.  E10.20 (Diabetes mellitus vom Typ 1 mit  E11.20 (Nicht primär insulinabhängiger | Entfernen Sie bitte nicht zutreffende Kodes.  E10.20 (Diabetes mellitus vom Typ 1 mit  E11.20 (Nicht primär insulinabhängiger |
 
 | ERWARTETE ERGEBNISDATEN | |
 |---|---|
@@ -507,7 +507,7 @@ als entgleist bezeichnet [N08.3*]) Nierenkomplikationen, nicht als entgleist bez
 
 ergänzen. dem Zusatzkennzeichen „G“. mit der ID „01-01-025“ oder zuerst die Kodierregel mit der ID „01-01-026“ausgelöst schließen sich üblicherweise aus. Nierenkomplikationen [N08.3*], nicht als entgleist bezeichnet) Diabetes mellitus [Typ-2-Diabetes] mit Nierenkomplikationen, nicht als entgleist bezeichnet [N08.3*]) Kode E10.20 G gelöscht aus der Abrechnung entfernt werden soll. keine weiteren Kodierregeln ausgeführt. Da E10.20 G gelöscht wurde , ist dieser Kode kein Bestandteil der Wertemengen des Bedingungsblockes der Regel  mehr. Nach Verarbeitung der zuerst angeschlagenen Regel sollte die jeweils andere Regel daher nicht (mehr) anschlagen. schließen sich üblicherweise aus. Nierenkomplikationen [N08.3*], nicht als entgleist bezeichnet) Diabetes mellitus [Typ-2-Diabetes] mit Nierenkomplikationen, nicht als entgleist bezeichnet [N08.3*])  bzw. des Prüfungsblockes der Regel | ERWARTETE REAKTION DER SOFTWARE |
 |---|
-| Der ICD-10-GM-Kode E10.20 G wird aus den eingegebenen Behandlungsdiagnosen entfernt. Anmerkung: Gemäß KP-710, Akzeptanzkriterium 6, werden gegen gelöschte Behandlungsdiagnosen |
+| Der ICD-10-GM-Kode E10.20 G wird aus den eingegebenen Behandlungsdiagnosen entfernt.  Anmerkung: Gemäß KP-710, Akzeptanzkriterium 6, werden gegen gelöschte Behandlungsdiagnosen |
 
 
 ---
@@ -546,7 +546,7 @@ Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wir
 |---|
 | Nach der Beendigung des Kodiervorgangs wird keine Kodierregel ausgelöst. |
 | Anmerkung: Die Kodierregel „01-02-010“ sollte nicht anschlagen, da die Übernahme von Diagnosen aus |
-| Falls die Diagnosen direkt nachdem sie eingegeben werden gegen die Kodierregeln geprüft werden, 01-01-017 01-02-010  ausgelöst werden, siehe auch UseCase 8. |
+| Falls die Diagnosen direkt nachdem sie eingegeben werden gegen die Kodierregeln geprüft werden,  01-01-017  01-02-010   ausgelöst werden, siehe auch UseCase 8. |
 
 einem Vorquartal wie ein Kodiervorgang gewertet wird bzw. die übernommenen Diagnosen für die Verarbeitung der Kodierregeln berücksichtigt werden sollen. können die Regeln mit den IDs
 
@@ -731,7 +731,7 @@ UseCase 12 Daten gegen die behandlungsfallbezogenen Kodierregeln prüfen.
 
 ---
 
-| J06.9 G | |
+| J06.9  G | |
 |---|---|
 | G | |
 | I83.9 | G |
@@ -960,7 +960,7 @@ QUARTALSÜBERGREIFENDE REGELN KONFIGURATION DER KODIERREGELN UseCase 13 gegen di
 
 ---
 
-| I21.0 G | | | | | | | | | |
+| I21.0  G | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|
 | Quartal -4 | | | | | | | | | |
 | Quartal -3 | Quartal -2 | Quartal -1 | Aktuelles Quartal | ICD-10- | | | | | |
@@ -1036,7 +1036,7 @@ GM- Kode GM- Kode GM- Kode GM- Kode GM- Kode GM- Kode GM- Kode GM- Kode GM- Kode
 
 ---
 
-| I10.90 G | | | | | | | | | |
+| I10.90  G | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|
 |  | | | | | | | | | |
 | I10.90 | G | J44.9- | G | I63.9 | | | | | |

@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 4. OKTOBER 2024  VERSION: 3.41  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 4. OKTOBER 2024   VERSION: 3.41   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # PRÜFPAKET  BLANKOFORMULARBEDRUCKUNG
@@ -238,10 +238,10 @@ DOKUMENTENHISTORIE
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 3.41 | 04.10.2024 | KBV | Aktualisierung des | Änderung an den Mustern | Alle |
-| 3.40 | 15.05.2024 | KBV | Aktualisierung des Anpassung der Prüffälle für | Änderung an den Mustern | Alle  22, 26 |
+| 3.40 | 15.05.2024 | KBV | Aktualisierung des  Anpassung der Prüffälle für | Änderung an den Mustern | Alle    22, 26 |
 | 3.39 | 14.03.2024 | KBV | Anpassung der Prüffälle für | Änderung an den Mustern | 20 |
-| 3.38 | 15.05.2023 | KBV | Anpassung der Abbildung Anpassung der Prüffälle für | Korrektur der Prüffälle | 8  15, 24, 35, 36 |
-| 3.37 | 06.01.2023 | KBV | Anpassung der Prüffälle für  Klarstellung der Prüffälle für | Änderung an den Mustern | 31   30 |
+| 3.38 | 15.05.2023 | KBV | Anpassung der Abbildung  Anpassung der Prüffälle für | Korrektur der Prüffälle | 8    15, 24, 35,  36 |
+| 3.37 | 06.01.2023 | KBV | Anpassung der Prüffälle für    Klarstellung der Prüffälle für | Änderung an den Mustern | 31      30 |
 | 3.36 | 15.12.2022 | KBV | Aktualisierung der Grafik zur | Fehlerhafte Ausweisung des | 8, 32 |
 
 Systemdatums sowie der Datumsangaben Systemdatums Muster 12 und 21 Muster 10 der Verzeichnisstruktur Muster 02, 13, 64 und 65 Muster 56 Muster 53 Einreichung der PDF- Dokumente Muster 62Ba
@@ -388,7 +388,7 @@ nd PTV12 21, 22, 25, 26, 27, 28,
 
 Muster, für die keine Prüfung beantragt wurde, dürfen nicht in der zip-Datei vorkommen.
 
-Beispiel einer gültigen ZIP-Datei mit den beantragten Mustern „0.2, 04, 10 und 10L“:
+Beispiel einer gültigen ZIP-Datei mit den beantragten Mustern „02, 04, 10 und 10L“:
 
 Abbildung 2: Exemplarische Verzeichnisstruktur bei Einreichung der Muster 2, 4, 10 und 10L
 
@@ -975,7 +975,7 @@ erforderlich machen Hüftbereich
 | Wundversorgung chronisch | Ja |
 | Wundverbände chronisch (Häufigkeit) | Tgl. „03“ |
 | Wundverbände chronisch (Dauer) | 1711 bis 1512 |
-| Sonstige Maßnahmen der Behandlungspflege | Helfen beim Dem Patienten durch Bewegungstherapie helfen |
+| Sonstige Maßnahmen der Behandlungspflege | Helfen beim  Dem Patienten durch Bewegungstherapie helfen |
 | Sonstige Maßnahmen der Behandlungspflege I | Mtl. „42“ |
 | Sonstige Maßnahmen der Behandlungspflege I | 1711 bis 1512 |
 | Sonstige Maßnahmen der Behandlungspflege II | Wtl. „03“ |
@@ -1181,7 +1181,7 @@ Personalien: Schimmelpfennig-Hammerschmidt Federmannssohn (Siehe XML Verzeichnis
 
 | FELDER | INHALT |
 |---|---|
-| Bewegungsgewohnheit/Ernährung Sonstiges | Ernährung Sonstiges: „Handlungsfeld“ |
+| Bewegungsgewohnheit/Ernährung  Sonstiges | Ernährung  Sonstiges: „Handlungsfeld“ |
 | Hinweise des behandelnden Arztes | Weitere Information für die Behandlung |
 
 Alle weiteren Formularfelder können beliebig ausgefüllt
@@ -1369,7 +1369,7 @@ Personalien: Malta (Siehe XML Verzeichnisname: XML_36)
 | Klinischer Status (Bewusstseinsstörung) | Nein |
 | Klinischer Status (Mitwirkung bei AKI) | uneingeschränkt |
 | Klinischer Status (Kommunikation Verständigung) | eingeschränkt |
-| Klinischer Status (Orientierung vorhanden, zu) | Ort, Zeit, Person, Situation |
+| Klinischer Status (Orientierung  vorhanden, zu) | Ort, Zeit, Person, Situation |
 
 perspektivisch vorliegen) festgestellt am) am) Entlassung gemäß § 10 Abs. 4 Satz 1 AKI -Richtlinie Funktionseinschränkungen)
 
@@ -1396,12 +1396,12 @@ Personalien: Malta (Siehe XML Verzeichnisname: XML_36)
 | Therapieziele (MRE-Besiedelung) | ja |
 | Therapieziele (MRE-Besiedelung, folgender Keim) | Pseudomonaden |
 | Therapieziele (Maßnahmen der Heilmitteltherapie | Logopädie |
-| Maßnahmen der außerklinischen Intensivpflege | Blutdruck (Venen und Arterien), Puls, Körpertemperatur |
+| Maßnahmen der außerklinischen Intensivpflege | Blutdruck (Venen und Arterien), Puls,  Körpertemperatur |
 | Maßnahmen der außerklinischen Intensivpflege | Nein |
 | Maßnahmen der außerklinischen Intensivpflege | Ja |
 | Maßnahmen der außerklinischen Intensivpflege | nein |
 | Maßnahmen der außerklinischen Intensivpflege | ja |
-| Maßnahmen der außerklinischen Intensivpflege pro Tag) | 3 |
+| Maßnahmen der außerklinischen Intensivpflege  pro Tag) | 3 |
 | Maßnahmen der außerklinischen Intensivpflege | Atrovent |
 
 Jahren wurde zweimal in Folge im Rahmen einer unmittelbar persönlichen Erhebung festgestellt, dass keine Aussicht …) zum Zwecke der Therapieoptimierung und zur Verbesserung der Lebensqualität) zur Unterstützung der Therapieziele im Rahmen der AKI) (Benennung der zu erfassenden und zu bewertenden Vitalparameter) (Tracheostoma/Trachealkanülenmanagement) (Sekretmanagement) (Sekretmanagement Absauggerät) (Sekretmanagement Inhalationsgerät) (Sekretmanagement Inhalationsgerät Häufigkeit (Sekretmanagement Inhalationsgerät Medikament/Substanz) Sauerstoffsättigung im Blut, CO2 Gehalt im Blut,
@@ -1444,7 +1444,7 @@ Personalien: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeich
 | FELDER | INHALT |
 |---|---|
 | Vorsorgerelevante Gesundheitsstörung | Kopfschmerzen |
-| Vorsorgerelevante Erkrankung | Nicht näher bezeichnete Adipositas, Grad oder Abhängigkeitssyndrom durch Alkoholgebrauch |
+| Vorsorgerelevante Erkrankung | Nicht näher bezeichnete Adipositas, Grad oder  Abhängigkeitssyndrom durch Alkoholgebrauch |
 | Vorsorgerelevante Erkrankung (Diagnose) | E66.99 G  und  F10.2 V |
 | Kurze Angabe zur Anamnese | Alkohol, Allergien |
 | Vorübergehende Beeinträchtigung der | Kopfschmerzen |
@@ -1609,7 +1609,7 @@ Personalien: Schimmelpfennig-Hammerschmidt Federmannssohn (Siehe XML Verzeichnis
 | Ergebnis der Psychotherapeutischen Sprechstunde | Bei Ihnen wurde(n) folgende |
 | ICD-10 - GM endständig | F60.9 G, F20.9 V, F28 A |
 | Diagnose(n)/Verdachtsdiagnosen (im Klartext …) | Persönlichkeitsstörung, nicht näher bezeichnet; |
-| Empfehlungen zum weiteren Vorgehen | Stationäre Behandlung; Krankenhausbehandlung; Fachärztliche Abklärung |
+| Empfehlungen zum weiteren Vorgehen | Stationäre Behandlung; Krankenhausbehandlung;  Fachärztliche Abklärung |
 | Fachärztliche Abklärung  (Fachgebiet) | Facharzt für Kardiologie |
 | nähere Angaben zu den Empfehlungen | Termin sollte Nachmittags vorgenommen werden |
 | Name mitbehandelnde*r Ärztin/Arzt | Dr. Hausarzt |
@@ -1658,7 +1658,7 @@ Personalien: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeich
 
 | FELDER | INHALT |
 |---|---|
-| Befunde | Röntgen, CT (Anzukreuzen) Sonstiges: Allgemeine Untersuchung |
+| Befunde | Röntgen, CT (Anzukreuzen)  Sonstiges: Allgemeine Untersuchung |
 | Mitgegebene Unterlagen | Bilder, Arztbrief |
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
@@ -1671,7 +1671,7 @@ Personalien: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeich
 
 | FELDER | INHALT |
 |---|---|
-| Bewegungsgewohnheit/Ernährung Sonstiges | Ernährung Sonstiges: „Handlungsfeld“ |
+| Bewegungsgewohnheit/Ernährung  Sonstiges | Ernährung  Sonstiges: „Handlungsfeld“ |
 | Hinweise des behandelnden Arztes | Weitere Information für die Behandlung |
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
@@ -1684,7 +1684,7 @@ Personalien: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeich
 
 | FELDER | INHALT |
 |---|---|
-| Aufnahme in die AAPV | 15.11.2024  Wiederaufnahme |
+| Aufnahme in die AAPV | 15.11.2024   Wiederaufnahme |
 | Hauptdiagnose (Datum Erstdiagnose) | 11.2024 |
 | Schmerztherapie erforderlich | ja |
 
@@ -1702,7 +1702,7 @@ Personalien: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeich
 
 | FELDER | INHALT |
 |---|---|
-| Aufnahme in die AAPV | 15.11.2024 Wiederaufnahme |
+| Aufnahme in die AAPV | 15.11.2024  Wiederaufnahme |
 | Patient betreut als | QPA |
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
@@ -1715,7 +1715,7 @@ Personalien: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeich
 
 | FELDER | INHALT |
 |---|---|
-| Beendigung der AAPV-Versorgung | 15.11.2024   Überleitung in die SAPV-Vollversorgung |
+| Beendigung der AAPV-Versorgung | 15.11.2024    Überleitung in die SAPV-Vollversorgung |
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
@@ -1790,7 +1790,7 @@ Fehlermeldung, dass der Kostenträger aufgelöst ist.
 | FELDER | INHALT |
 |---|---|
 | Anforderungskatalog KVDT: | P2-260 |
-| Ergebnis: | Screenshot (Systemseitig erfolgt ein Warnhinweis, Muster mit Personalienfeld |
+| Ergebnis: | Screenshot (Systemseitig erfolgt ein Warnhinweis,  Muster mit Personalienfeld |
 
 Personalien: Pan (Siehe XML Verzeichnisname: XML_39)
 
@@ -1911,8 +1911,8 @@ Personalien: Im Ersatzverfahren zu erfassen
 
 | FELDER | INHALT |
 |---|---|
-| Anforderungskatalog KVDT: | P2-325 P2-410 P2-430 |
-| Ergebnis: | Screenshot §§ 4 und 6 AsylbLG  und Muster mit Personalienfeld |
+| Anforderungskatalog KVDT: | P2-325  P2-410  P2-430 |
+| Ergebnis: | Screenshot §§ 4 und 6 AsylbLG  und  Muster mit Personalienfeld |
 
 Personalien: Im Ersatzverfahren zu erfassen
 

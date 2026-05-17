@@ -35,15 +35,15 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 |  |  | | |
 |---|---|---|---|
-| Name des Antragsstellers [bei juristischen Personen ist die |  | | |
+| Name des Antragsstellers  [bei juristischen Personen ist die |  | | |
 | Geschäftsbereich [falls vorhanden] |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
 | E-Mail-Adresse |  | | |
 | Webseite |  | | |
-| Der Antragssteller ist | ☐  Arzt/Ärztin | ☐  Softwarehaus | ☐  Sonstiges |
-| Systempfleger [nur anzugeben, wenn der |  | | |
+| Der Antragssteller ist | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
+| Systempfleger  [nur anzugeben, wenn der |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
@@ -77,7 +77,10 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizie
 | Bezeichnung (Name der Software) |  |
 | Identnummer [die letzten drei |  |
 
+/ Version: 1.3 / 15. April 2026
+
 Antragsstellers Stellen der Prüfnummer, falls vorhanden]
+
 
 ---
 
@@ -92,8 +95,8 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden]
 
 |  |  |
 |---|---|
-| ☐ | Der Antragsteller versichert, dass die technischen und organisatorischen Maßnahmen (TOMs) Prüfnummer wird nur bei vollständiger Erfüllung vergeben. |
-| ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden Anforderungsdokumente und Schnittstellenbeschreibungen erfüllt sind. Diese Dokumente sind dem Anforderungskatalog „Anforderungskatalog Schnittstelle gemäß §370a Abs. 2 SGB V“ ] zu entnehmen. |
+| ☐ | Der Antragsteller versichert, dass die technischen und organisatorischen Maßnahmen (TOMs)  Prüfnummer wird nur bei vollständiger Erfüllung vergeben. |
+| ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden Anforderungsdokumente und Schnittstellenbeschreibungen erfüllt sind. Diese Dokumente sind dem Anforderungskatalog „Anforderungskatalog Schnittstelle gemäß §370a Abs. 2 SGB V“  ] zu entnehmen. |
 
 |  |  |
 |---|---|
@@ -104,7 +107,10 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden]
 |---|---|---|---|---|---|
 | ☐ | KEINE | ☐ | ALLE | ☐ | Laut nachfolgender Liste |
 
+/ Version: 1.3 / 15. April 2026
+
 [ ] [ ] gemäß der Datenschutz-Grundverordnung (DSGVO) umgesetzt und dokumentiert wurden. Die TOMs laut [KBV_ITV_FMEX_TOM_370a] werden im Rahmen der Zertifizierung überprüft. Eine [VERFAHRENSORDNUNG NACH § 370A ABS. 3 SGB V Telemedizinische Leistungen Behandlungstermin  wurden umgesetzt. wurden umgesetzt. 2.2 Folgende optionale Funktionen sind gemäß der aktuell gültigen Technischen Anlage zur Spezifikation der Schnittstelle gemäß § 370A Abs.2 SGB V https://www.ina.gematik.de/detailansicht?rsmbasechild_knowledgebasesingle%5Bdocid%5D=STANDARD% 3A10443&cHash=1c7bdad095b176382087fee0dbe5a96c [ ] [ ] 2.2.1 Folgende optionale Erweiterungen wurden zur Funktion [ ] [ ] [ ] [ ] [ ] REALISIERUNG VON ANFORDERUNGEN ANFORDERUNGSDOKUMENTE REALISIERTE OPTIONALE FUNKTIONEN  (unter Telemedizinische Leistungen postleitzahl leistungsmerkmal [ ] ) realisiert. Telemedizinische Leistungen umgesetzt: [ ]  start  ende
+
 
 ---
 
@@ -146,7 +152,10 @@ Behandlungstermin umgesetzt:
 
 [ ]
 
+/ Version: 1.3 / 15. April 2026
+
 suchradius - Suchparameter leistungsmerkmal ) - Suchparameter ) - Suchparameter  suchradius
+
 
 ---
 
@@ -180,6 +189,8 @@ Ansprechpartner(in): Produktmanagement
 
 **E-Mail-Adresse**
 
+/ Version: 1.3 / 15. April 2026
+
 
 ---
 
@@ -200,8 +211,8 @@ Ansprechpartner(in): Produktmanagement
 | THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART | KOSTEN IN € |
 |---|---|---|---|
 | SST 370A ABS2 | zum Zertifizierungsportal |  | 34,00 |
-|  | Neu-, Re- und einschließlich der automatischen | Ergebnisprüfung | 1.222,10 |
-|  | Neu-, Re- und einschließlich der | Sichtprüfung | 681,04 |
+|  | Neu-, Re- und  einschließlich der  automatischen | Ergebnisprüfung | 1.222,10 |
+|  | Neu-, Re- und  einschließlich der | Sichtprüfung | 681,04 |
 
 - **II.** **Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**
 
@@ -235,7 +246,10 @@ Ansprechpartner(in): Produktmanagement
 
 -
 
+/ Version: 1.3 / 15. April 2026
+
 Einrichtung des Zugangs falls nicht vorhanden Erweiterungszertifizierung  Rezertifizierung Erweiterungszertifizierung pro Sichtprüfungstermin Rezertifizierung
+
 
 ---
 
@@ -287,6 +301,8 @@ Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv
 
 Unterschrift
 
-Name in Druckbuchstaben -
+Name in Druckbuchstaben
+
+/ Version: 1.3 / 15. April 2026 -
 
 - - und

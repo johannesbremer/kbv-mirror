@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 31. MÄRZ 2026  VERSION: 1.00  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  31. MÄRZ 2026   VERSION: 1.00   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # PRÜFPAKET EDMP- ADIPOSITAS -
@@ -259,7 +259,7 @@ entsprechen. Diese werden durch den Prüfer begutachtet.
 
 - 1
 
-- 2.3
+- 2 3
 
 -  PrüffallNr. _[lfdNr.] .*
 
@@ -486,10 +486,10 @@ beliebiger Empfänger
 | Prüffall-ID | 2211 |
 | Testziel | › |
 | Voraussetzung | › |
-| Einzureichende Prüfunterlagen | › |
+| Einzureichende  Prüfunterlagen | › |
 | Hinweis | › |
 
-Anlage einer Erst- und einer Folgedokumentation Patientin ist zum Datum der Erstdokumentation 6 Jahre alt (Geburtsdatum liegt 6 Jahre vor Datum der Erstdokumentation) eDMP Adipositas - Kinder und Jugendliche Dokumentationsunterlagen PRÜFFÄLLE DOKUMENTATION 2.1.1 Prüffall 2211 Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten Die Versichertendaten von Gertrud Zimmerpflanze ( Ersatzverfahren – Anhang 4.1  sind im Ersatzverfahren zu erfassen. Jugendliche Jugendliche
+Anlage einer Erst- und einer Folgedokumentation Patientin ist zum Datum der Erstdokumentation 6 Jahre alt (Geburtsdatum liegt 6 Jahre vor Datum der Erstdokumentation) e DMP Adipositas - Kinder und Jugendliche Dokumentationsunterlagen PRÜFFÄLLE DOKUMENTATION 2.1.1 Prüffall 2211 Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten Die Versichertendaten von Gertrud Zimmerpflanze ( Ersatzverfahren – Anhang 4.1  sind im Ersatzverfahren zu erfassen. Jugendliche Jugendliche
 
 ---
 
@@ -614,7 +614,7 @@ Aufrechterhaltung der Ernährungsänderung Aufrechterhaltung der Ernährungsänd
 | Prüffall-ID | 2214 |
 | Testziel | › |
 | Voraussetzung | › |
-| Prüfunterlagen | ›  › |
+| Prüfunterlagen | ›   › |
 | Hinweis | › |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
@@ -711,7 +711,7 @@ der Krankenkasse 2) INDIKATIONSSPEZIFISCHE DATEN BMI-SDS Ziele zur regelmäßige
 | Raucher | Nein |  |
 | Begleiterkrankungen | Chronische |  |
 | Behandlungsplanung | | |
-| Vom Patienten gewünschte Informationsangebote | Tabakverzicht, Körperliches Training |  |
+| Vom Patienten gewünschte Informationsangebote | Tabakverzicht,  Körperliches Training |  |
 | Dokumentationsintervall | Quartalsweise |  |
 | Datum der Erstellung (siehe Kap. 1.6. | 15.mm.jjjj |  |
 
@@ -768,7 +768,7 @@ Aufrechterhaltung der Ernährungsänderung Aufrechterhaltung der Ernährungsänd
 |  |  |
 |---|---|
 | Prüffall-ID | 2230 |
-| Testziel | eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP ) |
+| Testziel | eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
 | Voraussetzung | › |
 | Prüfunterlagen | nach einer möglichen Hinweissteuerung. |
 | Hinweis | › |
@@ -780,9 +780,9 @@ Aufrechterhaltung der Ernährungsänderung Aufrechterhaltung der Ernährungsänd
 | Szenario 1 |
 | Es wird eine Folgedokumentation |
 | Szenario 2 |
-| Es wird eine Folgedokumentation angelegt. In der vorherigen Folgedokumentation wurde bei Zeigen Sie die Systemreaktion.  Mit diesem Szenario soll die korrekte Umsetzung der |
+| Es wird eine Folgedokumentation angelegt. In der vorherigen Folgedokumentation wurde bei  Zeigen Sie die Systemreaktion.   Mit diesem Szenario soll die korrekte Umsetzung der |
 | Szenario 3 |
-| Bitte öffnen Sie die Ändern Sie das Körpergewicht nacheinander zu den folgenden Werten Zeigen Sie jeweils den berechneten BMI  1. 2. 3. 4. 5. |
+| Bitte öffnen Sie die  Ändern Sie das Körpergewicht nacheinander zu den folgenden Werten Zeigen Sie jeweils den berechneten BMI   1. 2. 3. 4. 5. |
 |  |
 |  |
 
@@ -821,7 +821,7 @@ Bei dem Parameter „Körpergewicht“ wird die Angabe „ 85“ gemacht. Zeigen
 |  | |
 |---|---|
 | Prüffall-ID | 2240 |
-| Testziel | eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP ) |
+| Testziel | eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
 | Voraussetzung |  |
 | Prüfunterlagen | PDF-Datei „TE_EWE_ADKJ.pdf“ der indikationsübergreifenden Teilnahme- |
 | Hinweis | Falls Ihr System die optionale Anforderung O |
@@ -906,7 +906,7 @@ XKM-Datei
 | 3102 | Vorname | Gertrud |
 | 3103 | Geburtsdatum | [6 Jahre vor Datum der Erstdokumentation] (Bsp.: |
 | 3104 | Titel |  |
-| 3119 | Versicherten_ID | A123456789 |
+| 3119 | Versicherten_ID | A 123456789 |
 | 3107 | Straße | Meisterstraße |
 | 3109 | Hausnummer | 42 |
 | 3112 | PLZ | 23774 |
@@ -919,7 +919,7 @@ XKM-Datei
 | 4110 | Versicherungsschutz Ende |  |
 | 4111 | Kostentraegerkennung | 101577500 |
 | 4131 | BesonderePersonengruppe | 00 |
-| 4132 | DMP_Kennzeichnung | 1.3 |
+| 4132 | DMP_Kennzeichnung | 13 |
 
 Erstdokumentation am 15.10.2026, Geburtsdatum 15.10.2020)
 

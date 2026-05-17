@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 9. MAI 2025  VERSION: 1.01  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 9. MAI 2025   VERSION: 1.01   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # PRUEFPAKET 116117 TERMINSERVICE  VERMITTLUNGSCODE
@@ -152,6 +152,8 @@ eingereichte Antrag auf Zertifizierung dort hochgeladen werden.
 
 Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
 
+/ Version: 1.01 / 9. Mai 2025
+
 |  |  |
 |---|---|
 
@@ -195,6 +197,8 @@ Zusammenhang berücksichtigen Sie bitte das Kapitel Referenzierte Dokumente.
 In diesem Kapitel werden alle notwendigen Vorgaben definiert, die bei der Erstellung der einzureichenden  Prüfunterlagen einzuhalten sind. Für die Zertifizierung werden als Nachweis die in diesem Abschnitt
 
 beschriebenen Unterlagen über das Zertifizierungsportal erwartet.
+
+/ Version: 1.01 / 9. Mai 2025
 
 |  |  |
 |---|---|
@@ -250,6 +254,8 @@ Die Versichertendaten des Testpatienten enthalten alle für den jeweiligen Prüf
 
 Prüffälle als XML-Dateien
 
+/ Version: 1.01 / 9. Mai 2025
+
 |  |  |
 |---|---|
 
@@ -258,7 +264,7 @@ Prüffälle als XML-Dateien
 
 | PRÜFFALL-ID | NAME | VERZEICHNISNAME |
 |---|---|---|
-| 02 03 04 | Schaumbërg-von-und-zu- | Testpatient_XML |
+| 02  03  04 | Schaumbërg-von-und-zu- | Testpatient_XML |
 
 **Prüffall-ID „02, 03 und 04“ (XML_40)**
 
@@ -288,7 +294,7 @@ Prüffälle als XML-Dateien
 | 4110 | Versicherungsschutz Ende | 31.12.2045 |
 | 4111 | Kostentraegerkennung | 104424874 |
 | 4134 | Kostentraegername | Thyssen Industrie |
-| 4132 | DMP_Kennzeichnung | 0.9 |
+| 4132 | DMP_Kennzeichnung | 09 |
 
 Schaumburg-und-Radëberg |  |  |
 |---|---|
@@ -309,8 +315,10 @@ Sofern zur Bearbeitung der Prüffälle Praxisdaten benötigt werden, können die
 | Vorname: | Heribert |
 | Strasse: | Musterstr. 1 |
 | PLZ/Ort: | 48143 Münster |
-| Telefon: | 0.2151 / 1111111 |
-| Telefax: | 0.2151 / 2222222 |
+| Telefon: | 02151 / 1111111 |
+| Telefax: | 02151 / 2222222 |
+
+/ Version: 1.01 / 9. Mai 2025
 
 |  |  |
 |---|---|
@@ -333,6 +341,8 @@ Zur Initiierung des Audits setzt sich der Hersteller per E-Mail an [audit@kv.dig
 Verbindung. Im Betreff der Nachricht ist "Anmeldung Audit" sowie die betreffende 116117 Terminservice Schnittstelle anzugeben. Die kv.digital GmbH antwortet auf diese Nachricht mit einer Bestätigung.
 
 Weitere Informationen zum Ablauf des Audits finden Sie im Partnerportal der kv.digital.
+
+/ Version: 1.01 / 9. Mai 2025
 
 Der Nachweis über das von der kv.digital GmbH erfolgreich durchgeführte Audit 116117 Terminservice -Vermittlungscode als „ PDF -Dokument, als Nachweis Prüfunterlagen der erfolgreichen Absolvierung. |  |  |
 |---|---|
@@ -372,7 +382,11 @@ XML-Name: Testpatient_XML
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-der Terminservicestelle nach den aktuellen Vorgaben auf das Muster 6 zur Weitergabe an den Patienten drucken. Prüfunterlagen konventionelle Bedruckung als auch die Blankoformularbedruckung verwendet werden. -Dokument. Hierbei kann entweder die Vermittlungscode 3a SGB V Unterbauchschmerz li, Lab: Entzündungsparameter erhöht, MiBi Stuhl negativ der geforderten Daten laut Anforderungskatalog>|  |  |
+/ Version: 1.01 / 9. Mai 2025
+
+der Terminservicestelle nach den aktuellen Vorgaben auf das Muster 6 zur Weitergabe an den Patienten drucken. Prüfunterlagen konventionelle Bedruckung als auch die Blankoformularbedruckung verwendet werden. -Dokument. Hierbei kann entweder die Vermittlungscode 3a SGB V Unterbauchschmerz li, Lab: Entzündungsparameter erhöht, MiBi Stuhl negativ der geforderten Daten laut Anforderungskatalog>
+
+|  |  |
 |---|---|
 
 
@@ -400,7 +414,7 @@ XML-Name: Testpatient_XML
 | ICD-10 - GM endstellig | F60.9 G, F20.9 V, F28 A |
 | Diagnose(n)/Verdachtsdiagnosen (im Klartext …) | Persönlichkeitsstörung, nicht näher bezeichnet; |
 | Empfehlungen zum weiteren Vorgehen | Ambulante psychotherapeutische Akutbehandlung |
-| Freitextfeld im Bereich  Nähere Angaben zu den Empfehlungen | <An dieser Stelle steht der Vermittlungscode inkl. |
+| Freitextfeld im Bereich    Nähere Angaben zu den Empfehlungen | <An dieser Stelle steht der Vermittlungscode inkl. |
 | Name des Arztes | Facharzt für Psychiatrie und Psychotherapie |
 | Straße | Facharztstraße |
 | PLZ | 10623 |
@@ -408,7 +422,11 @@ XML-Name: Testpatient_XML
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-Vermittlungscode der Terminservicestelle nach den aktuellen Vorgaben auf das Muster PTV11 zur Weitergabe an den Prüfunterlagen konventionelle Bedruckung als auch die Blankoformularbedruckung verwendet werden. Patienten drucken. -Dokument . Hierbei kann entweder die Ihr nächster Termin Diagnose(n)/Verdachtsdiagnose(n) festgestellt Schizophrenie, nicht näher bezeichnet; sonstige nichtorganische psychotische Störungen der geforderten Daten laut Anforderungskatalog>|  |  |
+/ Version: 1.01 / 9. Mai 2025
+
+Vermittlungscode der Terminservicestelle nach den aktuellen Vorgaben auf das Muster PTV11 zur Weitergabe an den Prüfunterlagen konventionelle Bedruckung als auch die Blankoformularbedruckung verwendet werden. Patienten drucken. -Dokument . Hierbei kann entweder die Ihr nächster Termin Diagnose(n)/Verdachtsdiagnose(n) festgestellt Schizophrenie, nicht näher bezeichnet; sonstige nichtorganische psychotische Störungen der geforderten Daten laut Anforderungskatalog>
+
+|  |  |
 |---|---|
 
 
@@ -419,9 +437,9 @@ Vermittlungscode der Terminservicestelle nach den aktuellen Vorgaben auf das Mus
 |  |  |
 |---|---|
 | Referenz | Dokument |
-| [Spec _ | „ |
-| [Technische_Anlage_116117_Terminservice_Vcode ] | „Technische Anlage zur Spezifikation „ |
-| [KBV_ITA_VGEX_Anforderungskatalog_TSS ] | „ |
+| [Spec_ | „ |
+| [Technische_Anlage_116117_Terminservice_Vcode] | „Technische Anlage zur Spezifikation „ |
+| [KBV_ITA_VGEX_Anforderungskatalog_TSS] | „ |
 | [KBV_ITA_RLEX_Zert] | Zertifizierungsrichtlinie der KBV |
 | [KBV_ITA_FMEX_AAZ_116117_Vcode] | Antrag auf Zertifizierung 116117 Terminservice |
 | [Stammdateien] | Im Rahmen der Prüfung sind die regulären KBV- |
@@ -437,5 +455,9 @@ Kassenärztliche Bundesvereinigung
 
 Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
 
-116117_Terminservice_Vcode] Spezifikation 116117 Terminservice - Vermittlungscode  in der stets aktuellen Version  Terminservice -  Vermittlungscode““ in der stets aktuellen Version Anforderungskatalog Terminservice “ in der stets aktuellen Version Vermittlungscode Stammdateien zu verwenden. Verwendung im Rahmen der Zertifizierung. |  |  |
+/ Version: 1.01 / 9. Mai 2025
+
+Spezifikation 116117 Terminservice - Vermittlungscode  in der stets aktuellen Version  Terminservice -  Vermittlungscode““ in der stets aktuellen Version Anforderungskatalog Terminservice “ in der stets aktuellen Version Vermittlungscode Stammdateien zu verwenden. Verwendung im Rahmen der Zertifizierung.
+
+|  |  |
 |---|---|

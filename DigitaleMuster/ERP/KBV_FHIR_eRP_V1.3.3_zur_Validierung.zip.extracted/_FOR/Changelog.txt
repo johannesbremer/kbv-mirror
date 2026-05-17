@@ -1,5 +1,0 @@
-!!Anpassen 20.11.2025 !!
-
-Aufnahme des Feldes 
-meta.versionID
-BSNR harte Längenbeschränkung

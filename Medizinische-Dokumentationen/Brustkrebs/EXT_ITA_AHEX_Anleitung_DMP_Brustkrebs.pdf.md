@@ -666,11 +666,7 @@ In diesem Fall geben Sie *Halbjährlich oder häufiger“* an.
 
 Tritt innerhalb eines Zeitraums von fünf Jahren nach histologischer Sicherung kein neues Ereignis (lo- koregionäres Rezidiv, kontralateraler Tumor) auf , soll die Dokumentation ab dem sechsten Jahr in der  Regel mindestens jedes vierte Quartal (bzw. einmal jährlich) erfolgen.
 
-In diesem Fall geben Sie „
-
-| diesem | Fall geben | Sie „ | *Jährlich*“ an. |
-|---|---|---|---|
-|  | Auftreten eines | neuen | Ereignisses |
+In diesem Fall geben Sie „*Jährlich*“ an
 
 Bei Auftreten eines neuen Ereignisses (lokoregionäres Rezidiv, kontralateraler Tumor) soll die Doku- mentation innerhalb der nachfolgenden fünf Jahre nach histologischer Sicherung des jeweils neu auf- getretenen Ereignisses in der Regel mindestens jedes zweite Quartal erfolgen.
 
@@ -976,19 +972,13 @@ zusätzlich eine Angabe zu Ziffer 5.1 im Abschnitt 5 erforderlich.
 
 ein **lokoregionäres Re-**
 
-|  | histologisch | gesichert | worden |
-|---|---|---|---|
-|  |  | ***Sicherung)*** |  |
-|  | **Dokumentation** | | ein |
-|  | histologischen | Sicherung | an. Es |
-|  | auch | gleichzeitig |  |
-| keine | Angaben | zu | Abschnitt |
+ein **kontralateraler**
 
 **Fernmetastasen** auf-
 
 „Behandlung bei fortgeschrittener
 
-kontralateraler ist
+ist
 
 
 ---
@@ -1136,11 +1126,7 @@ In diesem Fall geben Sie *Halbjährlich oder häufiger“* an.
 
 Tritt innerhalb eines Zeitraums von fünf Jahren nach histologischer Sicherung kein neues Ereignis (lo- koregionäres Rezidiv, kontralateraler Tumor) auf , soll die Dokumentation ab dem sechsten Jahr in der  Regel mindestens jedes vierte Quartal (bzw. einmal jährlich) erfolgen.
 
-In diesem Fall geben Sie „
-
-| diesem | Fall geben | Sie „ | *Jährlich*“ an. |
-|---|---|---|---|
-|  | Auftreten eines | neuen | Ereignisses |
+In diesem Fall geben Sie „*Jährlich*“ an.
 
 Bei Auftreten eines neuen Ereignisses (lokoregionäres Rezidiv, kontralateraler Tumor) soll die Doku- mentation innerhalb der nachfolgenden fünf Jahre nach histologischer Sicherung des jeweils neu auf- getretenen Ereignisses in der Regel mindestens jedes zweite Quartal erfolgen.
 
@@ -1152,7 +1138,7 @@ Bei allen teilnehmenden Patientinnen können im individuellen Fall kürzere oder
 
 Bitte beachten Sie, dass die Dokumentationen regelmäßig erstellt werden müssen. Fehlen zwei Doku- mentationen in Folge, muss die DMP-Teilnahme der Patientin beendet. Zur Bestimmung, ob eine Do- kumentation fehlt, wird Angabe zum Dokumentationsintervall der letzten gültig vorliegenden Dokumen- tation herangezogen.
 
-## 7.1
+## 7 1
 
 innerhalb der ersten fünf Jahre
 

@@ -5,7 +5,7 @@
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_EDMP_OSTEOPOROSE]
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 31. MÄRZ 2026  VERSION: 1.07  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  31. MÄRZ 2026   VERSION: 1.07   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 |  |
@@ -135,15 +135,15 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
 
 28
 
-|  | **ANHANG** |  | **30** |
-|---|---|---|---|
-| 4.1 | Prüffall | 10 – Ersatzverfahren | 30 |
+**ANHANG**
+
+**30**
+
+4.1 Prüffall 10 – Ersatzverfahren 30
 
 **REFERENZIERTE DOKUMENTE**
 
 **31**
-
-Prüffall 10 – Ersatzverfahren
 
 
 ---
@@ -152,13 +152,13 @@ ABBILDUNGSVERZEICHNIS
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.07 | 31.03.2026 | KBV | Anpassung der Prüffälle an Anpassung Prüffall 3940 | Schnittstellenversion | 8, 12ff    26 |
+| 1.07 | 31.03.2026 | KBV | Anpassung der Prüffälle an  Anpassung Prüffall 3940 | Schnittstellenversion | 8, 12ff        26 |
 | 1.06 | 15.08.2025 | KBV | Datumsanpassung des | Änderung der | 26 |
-| 1.05 | 12.05.2025 | KBV | Datumsanpassungen der Überarbeitung der |  | 7ff |
-| 1.04 | 12.02.2024 | KBV | Anpassung der übergreifenden Prüffälle an COPD- Schnittstellenversion 4.06 | COPD- Schnittstellenversion 4.06 ist ab 01.04.2024 zu verwenden | 12 |
+| 1.05 | 12.05.2025 | KBV | Datumsanpassungen der  Überarbeitung der |  | 7ff |
+| 1.04 | 12.02.2024 | KBV | Anpassung der  übergreifenden Prüffälle  an COPD-  Schnittstellenversion 4.06 | COPD-  Schnittstellenversion 4.06 ist ab 01.04.2024  zu verwenden | 12 |
 | 1.03 | 24.07.2023 | KBV | Prüffälle 3914, 3915, 3916: | Korrekturen Prüffälle | 19, 23, 24 |
 | 1.02 | 18.07.2023 | KBV | Prüffall 07 Anpassung des | Wiederherstellung der | 19 |
-| 1.01 | 08.11.2022 | KBV | Datumsanpassungen der   Aufnahme eines Testfalls  Neuer Prüffall 3940 zur | Datumsanpassungen Schnittstellenversion | alle          26 |
+| 1.01 | 08.11.2022 | KBV | Datumsanpassungen der      Aufnahme eines Testfalls    Neuer Prüffall 3940 zur | Datumsanpassungen  Schnittstellenversion | alle                    26 |
 |  |  | | | | |
 |  | Abbildung 2: : Exemplarische Struktur der |  |  |  | Abbildung 3: Testdatenvalidierung |
 
@@ -266,7 +266,7 @@ XML-Dateien im entsprechenden Verzeichnis enthält, erwartet. Diese müssen fehl
 
 [Konditional] Multimorbider Fall: Sofern Ihr System eine Zulassung für eine oder mehrere in dem Prüffall
 
-3.920 genannten Indikationen verfügt, müssen die entsprechenden Daten ebenfalls dokumentiert  werden. Dabei müssen die Dateien entsprechend den Vorgaben als eine Archivdatei verschlüsselt  (*.zip.XKM) direkt in dem Hauptverzeichnis des ZIP-Archives abgelegt werden.
+3920 genannten Indikationen verfügt, müssen die entsprechenden Daten ebenfalls dokumentiert  werden. Dabei müssen die Dateien entsprechend den Vorgaben als eine Archivdatei verschlüsselt  (*.zip.XKM) direkt in dem Hauptverzeichnis des ZIP-Archives abgelegt werden.
 
 - **Videodateien, Screenshots ausgewählter Anforderungen und Teilnahmeerklärung:**
 
@@ -276,7 +276,7 @@ einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender N
 
 entsprechen. Diese werden durch den Prüfer begutachtet.
 
-- **PrüffallNr**.] _[ 1 **lfdNr**.] .*  2.3
+- **PrüffallNr**.] _[ 1 **lfdNr**.] .*  2 3
 
 - Teilnahmeerklärung (Prüffall 3940): TE_EWE_OST.pdf
 
@@ -343,7 +343,7 @@ Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unter
 
 - Ab dem **01.07.2021** muss die Schnittstellenversion **1.01** verwendet werden.
 
-- Ab dem **01.10.2026** muss die Schnittstellenversion **1.02** verwendet werden.
+- Ab dem **01.10.2026** muss die Schnittstellenversion **1 02** verwendet werden.
 
 -
 
@@ -351,7 +351,7 @@ Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unter
 
 - Ab dem **01.04.2024** muss die Schnittstellenversion **4.06** verwendet werden
 
-- Ab dem **01.10.2026** muss die Schnittstellenversion **4.07** verwendet werden
+- Ab dem **01.10.2026** muss die Schnittstellenversion **4 07** verwendet werden
 
 ### 1.6.2 Datumseingaben
 
@@ -456,11 +456,11 @@ Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
 | PRÜFFALL-ID | NAME | VERZEICHNISNAME |
 |---|---|---|
-| 3.911 | Ludger Königsstein | XML_15 |
-| 3.912 | Friëdrich-Wilhelm-Karl-Gustav-Justus-Gotfried | XML_21 |
+| 3911 | Ludger Königsstein | XML_15 |
+| 3912 | Friëdrich-Wilhelm-Karl-Gustav-Justus-Gotfried | XML_21 |
 | 3940 | Lija Malta | XML_36 |
 | TDV3918 | Maria Eichendorf | XML_16 |
-| 3.920 | Lija Malta | Ersatzverfahren |
+| 3920 | Lija Malta | Ersatzverfahren |
 
 Schaumbërg-von-und-zu-Schaumburg-und- Radëberg (s. Anhang 4.1)
 
@@ -491,7 +491,7 @@ Die Versichertendaten von Ludger Königsstein
 | INDIKATIONSÜBERGREIFENDE | | |
 |---|---|---|
 | Administrative Daten | Erstdokumentation | Verlaufsdokumentation |
-| DMP-Fallnummer | 3.911 | 3.911 |
+| DMP-Fallnummer | 3911 | 3911 |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum | 15.mm.jjjj | 15.mm.jjjj |
@@ -499,12 +499,12 @@ Die Versichertendaten von Ludger Königsstein
 | Geschlecht | Männlich | Männlich |
 | Allgemeine Anamnese- und Befunddaten | | |
 | Körpergröße | 2,21 m | 2,21 m |
-| Körpergewicht | 1.16 kg | 9.6 kg |
-| Blutdruck (systolisch / diastolisch) | 1.55 / 85 mmHg | 1.25 / 75 mmHg |
+| Körpergewicht | 116 kg | 96 kg |
+| Blutdruck (systolisch / diastolisch) | 155 / 85 mmHg | 125 / 75 mmHg |
 | Raucher | Ja | Nein |
 | Begleiterkrankungen | Arterielle Hypertonie | AVK |
 | Behandlungsplanung | | |
-| Vom Patienten gewünschte | Tabakverzicht,  Körperliches Training | Körperliches Training, |
+| Vom Patienten gewünschte | Tabakverzicht,   Körperliches Training | Körperliches Training, |
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung | 15.mm.jjjj | 15.mm.jjjj |
 
@@ -521,17 +521,17 @@ Anlage einer Erst- und einer Verlaufsdokumentation OST-Dokumentationsunterlagen 
 | Osteoporosebedingte Fraktur in den letzten 12 | Ja |  |
 | Neu aufgetretene osteoporosebedingte Fraktur |  | Ja |
 | Lokalisation der osteoporosebedingten Fraktur | Proximale Femurfraktur, | Singuläre |
-| Stürze in den letzten 6 Monaten | 2.8 |  |
+| Stürze in den letzten 6 Monaten | 28 |  |
 | Stürze seit der letzten Dokumentation |  | 9 |
 | Sonstige Befunde und nichtmedikamentöse Behandlung | | |
 | Teilnehmerinnen und Teilnehmer ab 70 Jahre: | Ja | Ja |
-| Bei Teilnehmerinnen und Teilnehmern mit erhöhtem Sturzrisiko oder Stürzen:   Sturzprophylaxemaßnahme empfohlen | Ja | Nein |
+| Bei Teilnehmerinnen und Teilnehmern mit  erhöhtem Sturzrisiko oder Stürzen:     Sturzprophylaxemaßnahme empfohlen | Ja | Nein |
 | Regelmäßiges körperliches Training | Nein, Nicht möglich | Ja |
 | Medikamentöse Behandlung | | |
 | Aktuelle osteoporosespezifische Medikation | Teriparatid | Patientin mit |
 | Dauer der osteoporosespezifischen Medikation | Aktuell andauernd, seit | Aktuell andauernd, |
 | Schulungen | | |
-| Schulung bereits vor Einschreibung in das DMP wahrgenommen | Ja |  |
+| Schulung bereits vor Einschreibung in das DMP  wahrgenommen | Ja |  |
 | Schulung empfohlen (bei aktueller | Ja | Ja |
 | Empfohlene Schulung wahrgenommen |  | Ja |
 
@@ -562,7 +562,7 @@ Schaumburg-und-Radëberg (XML_21) einlesen und speichern
 | INDIKATIONSÜBERGREIFENDE | | |
 |---|---|---|
 | Administrative Daten | Erstdokumentation | Verlaufsdokumentation |
-| DMP-Fallnummer | 391.2 | 391.2 |
+| DMP-Fallnummer | 3912 | 3912 |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung |  |  |
 | Datum | 15.mm.jjjj | 15.mm.jjjj |
@@ -571,11 +571,11 @@ Schaumburg-und-Radëberg (XML_21) einlesen und speichern
 | Allgemeine Anamnese- und Befunddaten | | |
 | Körpergröße | 1,81 m | 1,81 m |
 | Körpergewicht | 76 kg | 72 kg |
-| Blutdruck (systolisch / diastolisch) | 1.45 / 75 mmHg | 125 / 70 mmHg |
+| Blutdruck (systolisch / diastolisch) | 145 / 75 mmHg | 125 / 70 mmHg |
 | Raucher | Nein | Nein |
 | Begleiterkrankungen | COPD, | COPD |
 | Behandlungsplanung | | |
-| Vom Patienten gewünschte | Tabakverzicht,  Körperliches Training | Ernährungsberatung |
+| Vom Patienten gewünschte | Tabakverzicht,   Körperliches Training | Ernährungsberatung |
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung | 15.mm.jjjj | 15.mm.jjjj |
 
@@ -594,13 +594,13 @@ Anlage einer Erst- und einer Verlaufsdokumentation OST-Dokumentationsunterlagen 
 | Stürze seit der letzten Dokumentation |  | 10 |
 | Sonstige Befunde und nichtmedikamentöse Behandlung | | |
 | Teilnehmerinnen und Teilnehmer ab 70 Jahre: | Ja | Ja |
-| Bei Teilnehmerinnen und Teilnehmern mit erhöhtem Sturzrisiko oder Stürzen:   Sturzprophylaxemaßnahme empfohlen | Nein | Ja |
+| Bei Teilnehmerinnen und Teilnehmern mit  erhöhtem Sturzrisiko oder Stürzen:     Sturzprophylaxemaßnahme empfohlen | Nein | Ja |
 | Regelmäßiges körperliches Training | Ja | Nicht möglich |
 | Medikamentöse Behandlung | | |
 | Aktuelle osteoporosespezifische Medikation | Bisphosphonate | Patientin mit |
 | Dauer der osteoporosespezifischen Medikation | Keine | Aktuell andauernd, |
 | Schulungen | | |
-| Schulung bereits vor Einschreibung in das DMP wahrgenommen | Ja |  |
+| Schulung bereits vor Einschreibung in das DMP  wahrgenommen | Ja |  |
 | Schulung empfohlen (bei aktueller | Ja | Ja |
 | Empfohlene Schulung wahrgenommen |  | Ja |
 
@@ -629,7 +629,7 @@ Die Versichertendaten
 | INDIKATIONSÜBERGREIFENDE | | |
 |---|---|---|
 | Administrative Daten | Erstdokumentation | Verlaufsdokumentation |
-| DMP-Fallnummer | 3.920 | 3.920 |
+| DMP-Fallnummer | 3920 | 3920 |
 | Krankenhaus-IK | 856215715 | 856215715 |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum | 15.mm.jjjj | 15.mm.jjjj |
@@ -638,7 +638,7 @@ Die Versichertendaten
 | Allgemeine Anamnese- und Befunddaten | | |
 | Körpergröße | 1,75 m | 1,75 m |
 | Körpergewicht | 064 kg | 062 kg |
-| Blutdruck | 123 / 72 mmHg | 1.24 / 76 mmHg |
+| Blutdruck | 123 / 72 mmHg | 124 / 76 mmHg |
 | Raucher | Ja | Nein |
 | Begleiterkrankungen | Nach Funktion P1-47 des | Nach Funktion P1-47 des |
 
@@ -668,14 +668,14 @@ Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider Einschreibu
 | OST | Stürze seit der letzten Dokumentation |  | 9 |
 | Relevante Ereignisse | | | |
 | COPD |  |  | 2 |
-| COPD | Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen COPD seit der letzten Dokumentation |  | 1 |
+| COPD | Ungeplante, auch notfallmäßige  (ambulant und stationär) ärztliche  Behandlung wegen COPD seit der letzten Dokumentation |  | 1 |
 | Medikamente | | | |
 | COPD | Kurz wirksame Beta-2-Sympathomimetika | Kontraindikation | Dauermedikation |
 | COPD | Lang wirksame Beta-2-Sympathomimetika | Dauermedikation | Kontraindikation |
 | COPD | Lang wirksame Anticholinergika | Keine, Kontraindikation | Keine |
 | COPD | Inhalationstechnik überprüft | Nein | Ja |
 | COPD | Sonstige diagnosespezifische Medikation | Andere | Inhalative |
-| OST | Aktuelle osteoporosespezifische Medikation | Patientin mit | Bisphosphonate |
+| OST | Aktuelle osteoporosespezifische  Medikation | Patientin mit | Bisphosphonate |
 |  | Behandlung wegen COPD seit der letzten Dokumentation |  |  |
 |  | | | |
 |  |  |  | Vom Patienten gewünschte |
@@ -710,7 +710,7 @@ Informationsangebote der Krankenkasse Ernährungsberatung PEZIFISCHE DATEN Monat
 |  |  | Teilnehmerinnen und Teilnehmer ab 70 | Ja |
 |  | | | |
 | Ja |  |  | OST |
-| Nicht möglich | Dauer der osteoporosespezifischen Medikation | Schulung | Schulung bereits vor Einschreibung in das |
+| Nicht möglich | Dauer der osteoporosespezifischen  Medikation | Schulung | Schulung bereits vor Einschreibung in das |
 |  | | | |
 |  |  |  |  |
 |  |  |  |  |
@@ -718,12 +718,12 @@ Informationsangebote der Krankenkasse Ernährungsberatung PEZIFISCHE DATEN Monat
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
-| OST | Dauer der osteoporosespezifischen Medikation | Vor dem | Aktuell andauernd, |
+| OST | Dauer der osteoporosespezifischen  Medikation | Vor dem | Aktuell andauernd, |
 | Schulung | | | |
 | COPD | COPD-Schulung empfohlen (bei aktueller | Nein | Ja |
 | COPD | Schulung schon vor der Einschreibung in | Nein |  |
 | COPD | Empfohlene Schulung wahrgenommen |  | Bei letzter |
-| OST | Schulung bereits vor Einschreibung in das DMP wahrgenommen | Nein |  |
+| OST | Schulung bereits vor Einschreibung in das  DMP wahrgenommen | Nein |  |
 | OST | Schulung empfohlen (bei aktueller | Nein | Ja |
 | OST | Empfohlene Schulung wahrgenommen |  | Ja |
 | Behandlungsplanung | | | |
@@ -733,7 +733,7 @@ Informationsangebote der Krankenkasse Ernährungsberatung PEZIFISCHE DATEN Monat
 | COPD | Empfehlung zum körperlichen Training | Nein | Ja |
 | Sonstige Befunde und nichtmedikamentöse Behandlung | | | |
 | OST | Teilnehmerinnen und Teilnehmer ab 70 | Ja | Ja |
-| OST | Bei Teilnehmerinnen und Teilnehmern mit erhöhtem Sturzrisiko oder Stürzen:   Sturzprophylaxemaßnahme empfohlen | Ja | Nein |
+| OST | Bei Teilnehmerinnen und Teilnehmern mit  erhöhtem Sturzrisiko oder Stürzen:     Sturzprophylaxemaßnahme empfohlen | Ja | Nein |
 | OST | Regelmäßiges körperliches Training | Nicht möglich | Ja |
 
 Dokumentation) DMP bereits wahrgenommen Dokumentation) ausgesprochen Tabakentwöhnungsprogramm ausgesprochen seit der letzten Empfehlung teilgenommen ausgesprochen Jahre: erhöhtes Sturzrisiko abgeschlossenen 3. Jahr abgebrochen Fortführung über drei Jahre hinaus Dokumentation keine
@@ -745,7 +745,7 @@ Dokumentation) DMP bereits wahrgenommen Dokumentation) ausgesprochen Tabakentwö
 | INDIKATIONSÜBERGREIFENDE | | |
 |---|---|---|
 | Administrative Daten | Erstdokumentation | Aktion |
-| DMP-Fallnummer | 3.914 |  |
+| DMP-Fallnummer | 3914 |  |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum | 15.mm-jjjj |  |
@@ -758,7 +758,7 @@ Dokumentation) DMP bereits wahrgenommen Dokumentation) ausgesprochen Tabakentwö
 | Raucher | Ja |  |
 | Begleiterkrankungen | Keine der genannten |  |
 | Behandlungsplanung | | |
-| Vom Patienten gewünschte Informationsangebote der | Ernährungsberatung,  Körperliches Training |  |
+| Vom Patienten gewünschte Informationsangebote der | Ernährungsberatung,   Körperliches Training |  |
 | 2.2.1 |  |  |
 
 |  |  |
@@ -766,7 +766,7 @@ Dokumentation) DMP bereits wahrgenommen Dokumentation) ausgesprochen Tabakentwö
 | Prüffall-ID | 3914 |
 | Testziel | › |
 | Voraussetzung | › |
-| Prüfunterlagen | ›  › |
+| Prüfunterlagen | ›   › |
 | Hinweis | › |
 
 Kontrolle der softwareseitigen Erkennung von Patient oder Patientin ist Dokumentieren Sie durch Video(s) die Eingaben nach einer möglichen Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert. Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben sind. Fehleingaben  65 Jahre alt Prüffall 3914 Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten: Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation:  DATEN Krankenkasse Erkrankungen
@@ -802,13 +802,13 @@ INDIKATIONS SPEZIFISCHE DATEN Anamnese und Befunddaten Osteoporosebedingte Frakt
 | Stürze seit der letzten Dokumentation | 10 | Nr. 3 |
 | Sonstige Befunde und nichtmedikamentöse Behandlung | | |
 | Teilnehmerinnen und Teilnehmer ab 70 Jahre: erhöhtes | Ja | Nr. 4 |
-| Bei Teilnehmerinnen und Teilnehmern mit erh Sturzrisiko oder Stürzen:   Sturzprophylaxemaßnahme empfohlen | Ja |  |
+| Bei Teilnehmerinnen und Teilnehmern mit erh Sturzrisiko oder Stürzen:     Sturzprophylaxemaßnahme empfohlen | Ja |  |
 | Regelmäßiges körperliches Training | Nein, Nicht möglich |  |
 | Medikamentöse Behandlung | | |
 | Aktuelle osteoporosespezifische Medikation |  | Nr. 5 |
 | Dauer der osteoporosespezifischen Medikation |  | Nr. 6 |
 | Schulung | | |
-| Schulung bereits vor Einschreibung in das DMP wahrgenommen | Nein |  |
+| Schulung bereits vor Einschreibung in das DMP  wahrgenommen | Nein |  |
 | Schulung empfohlen (bei aktueller Dokumentation) | Ja |  |
 | Empfohlene Schulung wahrgenommen | Ja | Nr. 7 |
 
@@ -824,7 +824,7 @@ INDIKATIONS SPEZIFISCHE DATEN Anamnese und Befunddaten Osteoporosebedingte Frakt
 | INDIKATIONSÜBERGREIFENDE | | |
 |---|---|---|
 | Administrative Daten | Verlaufsdokumentation | Aktion |
-| DMP-Fallnummer | 3.914 |  |
+| DMP-Fallnummer | 3914 |  |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum | 15.mm.jjjj |  |
@@ -858,13 +858,13 @@ DATEN Krankenkasse Erkrankungen SPEZIFISCHE DATEN
 | SONSTIGE BEFUNDE UND NICHTMEDIKAMENTÖSE BEHANDLUNG | | |
 |---|---|---|
 | Teilnehmerinnen und Teilnehmer ab 70 Jahre: erhöhtes |  | Nr. 10 |
-| Bei Teilnehmerinnen und Teilnehmern mit erh Sturzrisiko oder Stürzen:  Sturzprophylaxemaßnahme empfohlen |  | Nr. 11 |
+| Bei Teilnehmerinnen und Teilnehmern mit erh Sturzrisiko oder Stürzen:   Sturzprophylaxemaßnahme empfohlen |  | Nr. 11 |
 | Regelmäßiges körperliches Training | Ja |  |
 | Medikamentöse Behandlung | | |
 | Aktuelle osteoporosespezifische Medikation | Denosumab |  |
 | Dauer der osteoporosespezifischen Medikation | Drei Jahre | Nr. 12 |
 | Schulung | | |
-| Schulung bereits vor Einschreibung in das DMP wahrgenommen | Nein | Nr. 13 |
+| Schulung bereits vor Einschreibung in das DMP  wahrgenommen | Nein | Nr. 13 |
 | Schulung empfohlen (bei aktueller Dokumentation) | Nein |  |
 | Empfohlene Schulung wahrgenommen |  | Nr. 14 |
 
@@ -879,7 +879,7 @@ DATEN Krankenkasse Erkrankungen SPEZIFISCHE DATEN
 | Prüffall-ID | 3915 |
 | Testziel | › |
 | Voraussetzung | › |
-| Prüfunterlagen | ›  › |
+| Prüfunterlagen | ›   › |
 | Hinweis | › |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
@@ -911,7 +911,7 @@ Kontrolle der softwareseitigen Erkennung Prüfung, dass manche Fehleingaben nich
 | Prüffall-ID | 3916 |
 | Testziel | › |
 | Voraussetzung | › |
-| Prüfunterlagen | ›  › |
+| Prüfunterlagen | ›   › |
 | Hinweis | › |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
@@ -984,7 +984,7 @@ Die Versichertendaten von **Malta Lija (XML_36)** einlesen und speichern.
 | Administrative Daten |  |
 | DMP | Osteoporose |
 | DMP-Fallnummer | 1010 |
-| Datum | 1.5.08.2025 15.10.2026 |
+| Datum | 15.08.2025 15.10.2026 |
 
 Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP PDF-Datei „TE_EWE_OST.pdf“ der indikationsübergreifenden Teilnahme- und Einwilligungserklärung  Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
 
@@ -1057,7 +1057,7 @@ Die Versichertendaten von
 | Raucher | Nein |
 | Begleiterkrankungen | Keine der genannten |
 | Behandlungsplanung | |
-| Vom Patienten gewünschte Informationsangebote der Krankenkasse | Tabakverzicht,  Körperliches Training |
+| Vom Patienten gewünschte Informationsangebote der Krankenkasse | Tabakverzicht,   Körperliches Training |
 | Dokumentationsintervall | Quartalsweise |
 | Datum der Erstellung | 05.04.2022 |
 
@@ -1065,7 +1065,7 @@ Maria Eichendorf (XML_16) einlesen und speichern.
 
 -
 
-TDV3918 Anlage einer Erstdokumentation mit der DMP OST Dokumentationsunterlagen Schnittstellenversion 1.01   15.04.2025 Erkrankungen   15.04.2025
+TDV3918 Anlage einer Erstdokumentation mit der DMP OST Dokumentationsunterlagen Schnittstellenversion 1 01   15.04.2025 Erkrankungen   15.04.2025
 
 ---
 
@@ -1101,7 +1101,7 @@ htem Sturzrisiko oder Stürzen:  Sturzprophylaxemaßnahme empfohlen Andere wenig
 | 3120 | Vorsatzwort |  |
 | 3101 | Name | Malta |
 | 3102 | Vorname | Lija |
-| 3103 | Geburtsdatum | 0.0.01.1900 |
+| 3103 | Geburtsdatum | 00.01.1900 |
 | 3104 | Titel |  |
 | 3119 | Versicherten_ID | M000119009 |
 | 3107 | Straße | Malta-Lija-Straße |

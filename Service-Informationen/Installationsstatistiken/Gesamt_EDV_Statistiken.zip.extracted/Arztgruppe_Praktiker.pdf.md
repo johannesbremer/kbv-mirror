@@ -4,33 +4,33 @@
 
 **Id Praxissoftware**
 
-1.12 **TURBOMED**
+112 **TURBOMED**
 
-2.66 **x.comfort**
+266 **x.comfort**
 
-2.16 **x.isynet**
+216 **x.isynet**
 
-2.80 **CGM MEDISTAR BLACK PRO**
+280 **CGM MEDISTAR BLACK PRO**
 
-2.03 **ALBIS**
+203 **ALBIS**
 
-4.62 **medatixx**
+462 **medatixx**
 
-2.43 **x.concept**
+243 **x.concept**
 
-2.44 **QUINCY WIN**
+244 **QUINCY WIN**
 
-2.52 **CGM M1 PRO**
+252 **CGM M1 PRO**
 
-2.10 **Medical Office**
+210 **Medical Office**
 
-4.98 **T2med**
+498 **T 2med**
 
-0.86 **DURIA**
+086 **DURIA**
 
-0.60 **Data-AL**
+060 **Data-AL**
 
-1.35 **EL - Elaphe Longissima**
+135 **EL - Elaphe Longissima**
 
 **Anbieter**
 
@@ -54,7 +54,7 @@ CompuGroup Medical Deutschland AG
 
 INDAMED EDV-Entwicklung und Vertrieb GmbH
 
-T2med GmbH & Co. KG
+T 2med GmbH & Co. KG
 
 Duria eG
 
@@ -66,65 +66,65 @@ medatixx GmbH & Co. KG 1
 
 **Installationen 2.Q.2025**
 
-2.05
+205
 
-1.85
+185
 
-1.71
+171
 
-1.66
+166
 
-1.26
+126
 
-1.09
+109
 
-9.9
+99
 
-8.4
+84
 
-7.7
+77
 
-7.2
+72
 
-6.0
+60
 
-6.0
+60
 
-5.1
+51
 
-4.2
+42
 
 **Installationen 1.Q.2**
 
-2.20
+220
 
-1.94
+194
 
-1.79
+179
 
-1.68
+168
 
-1.29
+129
 
-1.07
+107
 
-9.8
+98
 
-8.4
+84
 
-7.9
+79
 
-7.6
+76
 
-6.3
+63
 
-6.2
+62
 
-5.3
+53
 
-4.2
+42
 
-**0.25 Differenz**
+**025 Differenz**
 
 -15
 
@@ -159,17 +159,17 @@ medatixx GmbH & Co. KG 1
 
 **Id Praxissoftware**
 
-3.48 **psyprax**
+348 **psyprax**
 
-0.78 **Med7**
+078 **Med7**
 
-0.81 **Arztpraxis Wiegand**
+081 **Arztpraxis Wiegand**
 
-4.57 **tomedo**
+457 **tomedo**
 
-0.83 **PegaMed**
+083 **PegaMed**
 
-2.61 **S3-Win**
+261 **S 3-Win**
 
 **Anbieter**
 
@@ -183,35 +183,35 @@ Zollsoft GmbH
 
 PEGA Elektronik GmbH
 
-S3 Praxiscomputer GmbH / Maximilian Flender 2
+S 3 Praxiscomputer GmbH / Maximilian Flender 2
 
 **Installationen 2.Q.2025**
 
-3.1
+31
 
-2.5
+25
 
-2.4
+24
 
-2.4
+24
 
-2.1
+21
 
-1.9
+19
 
 **Installationen 1.Q.2025**
 
-3.3
+33
 
-2.3
+23
 
-2.5
+25
 
-2.3
+23
 
-2.1
+21
 
-1.9
+19
 
 **Differenz**
 

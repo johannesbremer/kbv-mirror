@@ -6,29 +6,29 @@
 
 **Id**
 
-1.12
+112
 
-2.80
+280
 
-4.62
+462
 
-2.16
+216
 
-4.98
+498
 
-2.10
+210
 
-2.43
+243
 
-2.03
+203
 
-2.44
+244
 
-2.66
+266
 
-4.57
+457
 
-2.52
+252
 
 **Praxissoftware**
 
@@ -40,7 +40,7 @@
 
 **x.isynet**
 
-**T2med**
+**T 2med**
 
 **Medical Office**
 
@@ -66,7 +66,7 @@ medatixx GmbH & Co. KG
 
 medatixx GmbH & Co. KG
 
-T2med GmbH & Co. KG
+T 2med GmbH & Co. KG
 
 INDAMED EDV-Entwicklung und Vertrieb GmbH
 
@@ -84,55 +84,55 @@ CompuGroup Medical Deutschland AG 1
 
 **Installationen 2.Q.2025**
 
-1.991
+1 991
 
-1.951
+1 951
 
-1.675
+1 675
 
-1.576
+1 576
 
-1.556
+1 556
 
-1.508
+1 508
 
-1.232
+1 232
 
-1.107
+1 107
 
-1.056
+1 056
 
-9.28
+928
 
-7.95
+795
 
-7.02
+702
 
 **Installationen 1.Q.2025**
 
-2.060
+2 060
 
-1.942
+1 942
 
-1.617
+1 617
 
-1.601
+1 601
 
-1.504
+1 504
 
-1.494
+1 494
 
-1.267
+1 267
 
-1.133
+1 133
 
-1.072
+1 072
 
-9.68
+968
 
-7.48
+748
 
-7.22
+722
 
 **Differenz**
 
@@ -140,13 +140,13 @@ CompuGroup Medical Deutschland AG 1
 
 9
 
-5.8
+58
 
 -25
 
-5.2
+52
 
-1.4
+14
 
 -35
 
@@ -156,7 +156,7 @@ CompuGroup Medical Deutschland AG 1
 
 -40
 
-4.7
+47
 
 -20
 
@@ -165,21 +165,21 @@ CompuGroup Medical Deutschland AG 1
 
 **Id**
 
-0.86
+086
 
-1.35
+135
 
-0.83
+083
 
-0.60
+060
 
-2.61
+261
 
-4.88
+488
 
-0.30
+030
 
-0.62
+062
 
 **Praxissoftware**
 
@@ -191,7 +191,7 @@ CompuGroup Medical Deutschland AG 1
 
 **Data-AL**
 
-**S3-Win**
+**S 3-Win**
 
 **inSuite**
 
@@ -211,7 +211,7 @@ PEGA Elektronik GmbH
 
 Data-AL GmbH
 
-S3 Praxiscomputer GmbH / Maximilian Flender
+S 3 Praxiscomputer GmbH / Maximilian Flender
 
 Doc Cirrus GmbH
 
@@ -221,39 +221,39 @@ Abasoft EDV-Programme GmbH 2
 
 **Installationen 2.Q.2025**
 
-6.13
+613
 
-5.06
+506
 
-4.37
+437
 
-3.76
+376
 
-3.34
+334
 
-2.73
+273
 
-2.02
+202
 
-1.68
+168
 
 **Installationen 1.Q.2025**
 
-6.08
+608
 
-5.17
+517
 
-4.30
+430
 
-3.83
+383
 
-3.47
+347
 
-2.90
+290
 
-2.03
+203
 
-1.68
+168
 
 **Differenz**
 

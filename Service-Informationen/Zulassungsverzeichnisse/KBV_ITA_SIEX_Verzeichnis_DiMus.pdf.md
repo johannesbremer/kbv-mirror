@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**09. MAI 2026**
+**16. MAI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -30,7 +30,7 @@
 |---|---|---|---|---|
 |  | Y/80/2502/24/031 | 31.01.2027 | eAU |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 09. Mai 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 16. Mai 2026
 
 Y/80/2407/24/062
 
@@ -49,6 +49,11 @@ Clinixx(R) Krankenhausinformationssystem AMC Holding GmbH Ballindamm 5 20095 Ham
 
 ---
 
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
 **Arztpraxis Wiegand**
 
 **APW-Wiegand - Med. Software Entwicklung** **und Vertrieb GmbH** Draiser Straße 164 55128 Mainz Internet: www.apw-wiegand.de
@@ -63,14 +68,7 @@ Clinixx(R) Krankenhausinformationssystem AMC Holding GmbH Ballindamm 5 20095 Ham
 
 Y/80/2407/24/081
 
-Y/80/2410/36/754
-
-|  |  | **Prüfnummer** |  | **unterstützte** |
-|---|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
-|  |  | **gültig bis** |  | **Betriebssysteme** |
-
-30.06.2026
+Y/80/2410/36/754 30.06.2026
 
 30.09.2027
 
@@ -84,6 +82,11 @@ Med7 Bitron GmbH Technologiesysteme Bürgeler Str. 18 A 63075 Offenbach am Main 
 
 
 ---
+
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
 **CGM CLINICAL**
 
@@ -99,14 +102,7 @@ Med7 Bitron GmbH Technologiesysteme Bürgeler Str. 18 A 63075 Offenbach am Main 
 
 Y/80/2409/24/459
 
-Y/80/2409/24/226
-
-|  |  | **Prüfnummer** |  | **unterstützte** |
-|---|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
-|  |  | **gültig bis** |  | **Betriebssysteme** |
-
-31.08.2026 eAU
+Y/80/2409/24/226 31.08.2026 eAU
 
 31.08.2026 eAU
 
@@ -116,6 +112,11 @@ Praxis4More CoKom One GmbH John-F.-Kennedy-Straße 10 97877 Wertheim Internet: w
 
 
 ---
+
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
 **TURBOMED**
 
@@ -131,14 +132,7 @@ Praxis4More CoKom One GmbH John-F.-Kennedy-Straße 10 97877 Wertheim Internet: w
 
 Y/80/2408/24/112
 
-Y/80/2407/24/203
-
-|  |  | **Prüfnummer** |  | **unterstützte** |
-|---|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
-|  |  | **gültig bis** |  | **Betriebssysteme** |
-
-31.07.2026 eAU
+Y/80/2407/24/203 31.07.2026 eAU
 
 30.06.2026 eAU
 
@@ -148,6 +142,11 @@ DATA VITAL CompuGroup Medical Deutschland AG Maria Trost 25 56070 Koblenz Intern
 
 
 ---
+
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
 **CGM MEDISTAR BLACK PRO**
 
@@ -167,14 +166,7 @@ Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK
 
 Y/80/2409/24/280
 
-Y/80/2409/24/752
-
-|  |  | **Prüfnummer** |  | **unterstützte** |
-|---|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
-|  |  | **gültig bis** |  | **Betriebssysteme** |
-
-31.08.2026 eAU
+Y/80/2409/24/752 31.08.2026 eAU
 
 31.08.2026 eAU
 
@@ -184,6 +176,11 @@ DS-WIN-PLUS (DS-WIN-MED) DAMPSOFT GmbH Vogelsang 1 24351 Damp Internet: www.damp
 
 
 ---
+
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
 **InterMediNet KVDT**
 
@@ -199,14 +196,7 @@ DS-WIN-PLUS (DS-WIN-MED) DAMPSOFT GmbH Vogelsang 1 24351 Damp Internet: www.damp
 
 Y/80/2409/24/238
 
-Y/80/2407/24/254
-
-|  |  | **Prüfnummer** |  | **unterstützte** |
-|---|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
-|  |  | **gültig bis** |  | **Betriebssysteme** |
-
-31.08.2026
+Y/80/2407/24/254 31.08.2026
 
 30.06.2026
 
@@ -220,6 +210,11 @@ IMedOne Deutsche Telekom Clinical Solutions GmbH Sternengasse 14-16 50676 Köln 
 
 
 ---
+
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
 **Doctolib Praxis**
 
@@ -235,14 +230,7 @@ IMedOne Deutsche Telekom Clinical Solutions GmbH Sternengasse 14-16 50676 Köln 
 
 Y/80/2506/37/677
 
-Y/80/2410/24/602
-
-|  |  | **Prüfnummer** |  | **unterstützte** |
-|---|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
-|  |  | **gültig bis** |  | **Betriebssysteme** |
-
-30.06.2028
+Y/80/2410/24/602 30.06.2028
 
 30.09.2026
 
@@ -256,6 +244,11 @@ DURIA Duria eG Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de Epik
 
 
 ---
+
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
 **PsychoDat**
 
@@ -271,14 +264,7 @@ DURIA Duria eG Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de Epik
 
 Y/80/2407/24/253
 
-Y/80/2407/24/223
-
-|  |  | **Prüfnummer** |  | **unterstützte** |
-|---|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
-|  |  | **gültig bis** |  | **Betriebssysteme** |
-
-30.06.2026 eAU
+Y/80/2407/24/223 30.06.2026 eAU
 
 30.06.2026 eAU
 
@@ -288,6 +274,11 @@ EVIDENT EVIDENT GmbH Eberhard-Anheuser-Straße 3 55543 Bad Kreuznach Internet: w
 
 
 ---
+
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
 **FIDUS**
 
@@ -303,14 +294,7 @@ EVIDENT EVIDENT GmbH Eberhard-Anheuser-Straße 3 55543 Bad Kreuznach Internet: w
 
 Y/80/2407/24/403
 
-Y/80/2502/36/630
-
-|  |  | **Prüfnummer** |  | **unterstützte** |
-|---|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
-|  |  | **gültig bis** |  | **Betriebssysteme** |
-
-30.06.2026
+Y/80/2502/36/630 30.06.2026
 
 31.01.2028
 
@@ -324,6 +308,11 @@ QUINCY WIN Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet
 
 
 ---
+
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
 **garrioPRO**
 
@@ -339,14 +328,7 @@ QUINCY WIN Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet
 
 Y/80/2407/36/701
 
-Y/80/2507/24/417
-
-|  |  | **Prüfnummer** |  | **unterstützte** |
-|---|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
-|  |  | **gültig bis** |  | **Betriebssysteme** |
-
-30.06.2027
+Y/80/2507/24/417 30.06.2027
 
 30.06.2027
 
@@ -361,6 +343,11 @@ Torin Getinge IT Solutions GmbH Südportal 5 22848 Norderstedt eReha GITG AG Kur
 
 ---
 
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
 **MedForm**
 
 **GMC Systems GmbH** Albert-Einstein-Str. 3 98693 Ilmenau Internet: www.gmc-systems.de
@@ -373,18 +360,11 @@ Torin Getinge IT Solutions GmbH Südportal 5 22848 Norderstedt eReha GITG AG Kur
 |---|---|---|---|---|
 |  | Y/80/2409/24/400 | 31.08.2026 | eAU |  |
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 09. Mai 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 16. Mai 2026
 
 Y/80/2603/24/749
 
-Y/80/2410/24/195
-
-|  |  | **Prüfnummer** |  | **unterstützte** |
-|---|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
-|  |  | **gültig bis** |  | **Betriebssysteme** |
-
-29.02.2028 eAU
+Y/80/2410/24/195 29.02.2028 eAU
 
 30.09.2026 eAU
 
@@ -394,6 +374,11 @@ Elefant HASOMED GmbH Paul-Ecke-Str. 1 39114 Magdeburg Internet: www.hasomed.de I
 
 
 ---
+
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
 **ifa|NX-NEXT Generation AIS**
 
@@ -409,14 +394,7 @@ Elefant HASOMED GmbH Paul-Ecke-Str. 1 39114 Magdeburg Internet: www.hasomed.de I
 
 Y/80/2408/24/451
 
-Y/80/2505/24/596
-
-|  |  | **Prüfnummer** |  | **unterstützte** |
-|---|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
-|  |  | **gültig bis** |  | **Betriebssysteme** |
-
-31.07.2026
+Y/80/2505/24/596 31.07.2026
 
 30.04.2027
 
@@ -430,6 +408,11 @@ DynaMed IMA-Systems Information-Technology GmbH Römerstraße 2 A-6900 Bregenz I
 
 
 ---
+
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
 **InterARZT**
 
@@ -445,14 +428,7 @@ DynaMed IMA-Systems Information-Technology GmbH Römerstraße 2 A-6900 Bregenz I
 
 Y/80/2408/24/136
 
-Y/80/2412/25/406
-
-|  |  | **Prüfnummer** |  | **unterstützte** |
-|---|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
-|  |  | **gültig bis** |  | **Betriebssysteme** |
-
-31.07.2026 eAU
+Y/80/2412/25/406 31.07.2026 eAU
 
 31.12.2026 eAU
 
@@ -462,6 +438,11 @@ DISweb KfH - Kuratorium für Dialyse und Nierentransplantation e.V. Martin-Behai
 
 
 ---
+
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
 **Klinik Dialog Plus**
 
@@ -477,14 +458,7 @@ DISweb KfH - Kuratorium für Dialyse und Nierentransplantation e.V. Martin-Behai
 
 Y/80/2409/24/684
 
-Y/80/2409/24/135
-
-|  |  | **Prüfnummer** |  | **unterstützte** |
-|---|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
-|  |  | **gültig bis** |  | **Betriebssysteme** |
-
-31.08.2026 eAU
+Y/80/2409/24/135 31.08.2026 eAU
 
 31.08.2026 eAU
 
@@ -494,6 +468,11 @@ x.isynet medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.meda
 
 
 ---
+
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
 **x.comfort**
 
@@ -509,18 +488,11 @@ Softwarevariante(n): - psyx
 |---|---|---|---|---|
 |  | Y/80/2410/24/439 | 30.09.2026 | eAU |  |
 
-Seite 16 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 09. Mai 2026
+Seite 16 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 16. Mai 2026
 
 Y/80/2408/24/266
 
-Y/80/2407/24/462
-
-|  |  | **Prüfnummer** |  | **unterstützte** |
-|---|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
-|  |  | **gültig bis** |  | **Betriebssysteme** |
-
-31.07.2026 eAU
+Y/80/2407/24/462 31.07.2026 eAU
 
 30.06.2026 eAU
 
@@ -530,6 +502,11 @@ medavis RIS medavis GmbH Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.
 
 
 ---
+
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
 **Ashvins xIS**
 
@@ -545,14 +522,7 @@ medavis RIS medavis GmbH Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.
 
 Y/80/2411/24/433
 
-Y/80/2306/36/746
-
-|  |  | **Prüfnummer** |  | **unterstützte** |
-|---|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
-|  |  | **gültig bis** |  | **Betriebssysteme** |
-
-31.10.2026 eAU
+Y/80/2306/36/746 31.10.2026 eAU
 
 31.05.2026 eAU
 
@@ -563,6 +533,11 @@ WIN-RADIOLOG medigration GmbH Dr.-Rudolf-Eberle-Straße 8 - 10 76534 Baden-Baden
 
 ---
 
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
 **MEDIPX**
 
 **MEDITEC Medizinische Datentechnologie** **GmbH** Griesbergstraße 1B-C 31162 Bad Salzdetfurth Internet: www.meditec-gmbh.com
@@ -571,19 +546,17 @@ WIN-RADIOLOG medigration GmbH Dr.-Rudolf-Eberle-Straße 8 - 10 76534 Baden-Baden
 |---|---|---|---|---|
 |  | Y/80/2407/24/251 | 30.06.2026 | eAU |  |
 
-Y/80/2501/24/087
-
-|  |  | **Prüfnummer** |  | **unterstützte** |
-|---|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
-|  |  | **gültig bis** |  | **Betriebssysteme** |
-
-31.12.2026 eAU
+Y/80/2501/24/087 31.12.2026 eAU
 
 MEDICUSplus MEDNET Service für Ärzte AG Prälat-van-Acken-Straße 14 50935 Köln Internet: www.mednet.de MEDVISION MedVision AG Heinrich-Hertz-Str. 9 59423 Unna Internet: www.medvision.de Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPHRO - PATIDOK AMBULANZ Windows WindowsLinux Windows
 
 
 ---
+
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
 **MEDYS**
 
@@ -599,14 +572,7 @@ MEDICUSplus MEDNET Service für Ärzte AG Prälat-van-Acken-Straße 14 50935 Kö
 
 Y/80/2407/24/015
 
-Y/80/2407/24/290
-
-|  |  | **Prüfnummer** |  | **unterstützte** |
-|---|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
-|  |  | **gültig bis** |  | **Betriebssysteme** |
-
-30.06.2026
+Y/80/2407/24/290 30.06.2026
 
 30.06.2026
 
@@ -620,6 +586,11 @@ Meona Clinics Mesalvo Freiburg GmbH Heinrich-von-Stephan-Straße 25 79100 Freibu
 
 
 ---
+
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
 **ClinicCentre Billing (OPD)**
 
@@ -635,14 +606,7 @@ Meona Clinics Mesalvo Freiburg GmbH Heinrich-von-Stephan-Straße 25 79100 Freibu
 
 Y/80/2407/24/422
 
-Y/80/2507/24/494
-
-|  |  | **Prüfnummer** |  | **unterstützte** |
-|---|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
-|  |  | **gültig bis** |  | **Betriebssysteme** |
-
-30.06.2026 eAU
+Y/80/2507/24/494 30.06.2026 eAU
 
 30.06.2027 eAU
 
@@ -652,6 +616,11 @@ Pro_Medico Neutz GmbH Systemhaus Schwabstraße 22 74189 Weinsberg Internet: www.
 
 
 ---
+
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
 **MEDOS**
 
@@ -667,14 +636,7 @@ Pro_Medico Neutz GmbH Systemhaus Schwabstraße 22 74189 Weinsberg Internet: www.
 
 Y/80/2407/24/278
 
-Y/80/2410/24/487
-
-|  |  | **Prüfnummer** |  | **unterstützte** |
-|---|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
-|  |  | **gültig bis** |  | **Betriebssysteme** |
-
-30.06.2026 eAU
+Y/80/2410/24/487 30.06.2026 eAU
 
 30.09.2026 eAU
 
@@ -684,6 +646,11 @@ NEXUS / KIS NEXUS AG Irmastraße 1 78166 Donaueschingen Internet: www.nexus-ag.d
 
 
 ---
+
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
 **PROFIMED**
 
@@ -699,14 +666,7 @@ NEXUS / KIS NEXUS AG Irmastraße 1 78166 Donaueschingen Internet: www.nexus-ag.d
 
 Y/80/2407/24/247
 
-Y/80/2409/24/348
-
-|  |  | **Prüfnummer** |  | **unterstützte** |
-|---|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
-|  |  | **gültig bis** |  | **Betriebssysteme** |
-
-30.06.2026
+Y/80/2409/24/348 30.06.2026
 
 31.08.2026
 
@@ -720,6 +680,11 @@ RED medical classic RED Medical Systems GmbH Lutzstraße 2 80687 München Intern
 
 
 ---
+
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
 **RescuePro**
 
@@ -735,14 +700,7 @@ RED medical classic RED Medical Systems GmbH Lutzstraße 2 80687 München Intern
 
 Y/80/2507/24/308
 
-Y/80/2409/24/261
-
-|  |  | **Prüfnummer** |  | **unterstützte** |
-|---|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
-|  |  | **gültig bis** |  | **Betriebssysteme** |
-
-30.06.2027
+Y/80/2409/24/261 30.06.2027
 
 31.08.2026
 
@@ -756,6 +714,11 @@ SAP Ambulatory Care Management SAP SE Dietmar-Hopp-Allee 16 69190 Walldorf Inter
 
 
 ---
+
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
 **QMED.PRAXIS**
 
@@ -777,14 +740,7 @@ Y/80/2407/24/230
 
 Y/80/2408/24/458
 
-Y/80/2409/24/231
-
-|  |  | **Prüfnummer** |  | **unterstützte** |
-|---|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
-|  |  | **gültig bis** |  | **Betriebssysteme** |
-
-30.06.2026
+Y/80/2409/24/231 30.06.2026
 
 31.07.2026
 
@@ -805,6 +761,11 @@ T2med T2med GmbH & Co. KG Bismarckallee 15 24105 Kiel Internet: www.t2med.de Tel
 
 ---
 
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
 **Medi10**
 
 **UfP Systemhaus GmbH** Heinz-Fangman-Str. 4 42287 Wuppertal Internet: www.ufpgmbh.de
@@ -817,18 +778,11 @@ T2med T2med GmbH & Co. KG Bismarckallee 15 24105 Kiel Internet: www.t2med.de Tel
 |---|---|---|---|---|
 |  | Y/80/2509/37/768 | 30.09.2028 | eAU |  |
 
-Seite 25 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 09. Mai 2026
+Seite 25 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 16. Mai 2026
 
 Y/80/2407/24/313
 
-Y/80/2410/24/205
-
-|  |  | **Prüfnummer** |  | **unterstützte** |
-|---|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
-|  |  | **gültig bis** |  | **Betriebssysteme** |
-
-30.06.2026
+Y/80/2410/24/205 30.06.2026
 
 30.09.2026
 

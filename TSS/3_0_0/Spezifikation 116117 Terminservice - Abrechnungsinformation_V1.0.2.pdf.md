@@ -109,7 +109,7 @@ Entwurf
 
 In den folgenden Abschnitten sind die Anforderungen zusammengestellt, die die Software-Systeme der  Leistungserbringer erfüllen müssen. Die Anforderungen stehen immer im Kontext zur technischen Anlage zur  Spezifikation "116117 Terminservice Abrechnungsinformation" [TSSAIF], auch wenn nicht in jedem Einzelfall  darauf verwiesen wird.
 
-4 10
+Seite 4 von 10 / KBV / Spezifikation 116117 Terminservice - Abrechnungsinformation
 
 
 ---
@@ -128,17 +128,17 @@ Anforderung in seinem Software-System umzusetzen oder nicht. Das Software-System
 
 Sachverhalte. Bei der Umsetzung durch die Softwarehersteller gibt es – wie bei den MUSS-Anforderungen -  keinen Ermessensspielraum.
 
-5 10
+Seite 5 von 10 / KBV / Spezifikation 116117 Terminservice - Abrechnungsinformation
 
 
 ---
 
-3 VORAUSSETZUNGEN
+| 3 | VORAUSSETZUNGEN | |  |  |  |
+|---|---|---|---|---|---|
+| Für die | Nutzung die | Schnittstelle wird | die Authentisierung | gemäß | [TSS_Auth] vorausgesetzt. |
+| Seite 6 von | 10 / KBV / Spezifikation | 116117 | Terminservice - | Abrechnungsinformation |  |
 
-Für die Nutzung die Schnittstelle wird die Authentisierung gemäß [TSS_Auth] vorausgesetzt.
-
-6 10
-
+3 VORAUSSETZUNGEN Für die Nutzung die Schnittstelle wird die Authentisierung gemäß [TSS_Auth] vorausgesetzt.  / KBV / Spezifikation 116117 Terminservice - Abrechnungsinformation
 
 ---
 
@@ -198,7 +198,7 @@ Anmerkung:
 
 Enthält der FHIR-Request keinen Parameter "bsnr", so enthält der Response die Daten aller Praxen, für die  der Anwender authentisiert ist. Die Angabe wird daher empfohlen.
 
-7 10
+Seite 7 von 10 / KBV / Spezifikation 116117 Terminservice - Abrechnungsinformation
 
 
 ---
@@ -235,7 +235,9 @@ Miss- erfolg
 
 Anmerkungen:
 
-Es wird empfohlen, statt der Anzeige von Dialogfenstern, die den Anwender in seiner Arbeit stören würden,  Statusanzeigen zu nutzen, um den Erfolgs- oder Fehlerfall des automatischen Abrufs darzustellen. An  einer für den Anwender gut sichtbaren und geeigneten Stelle in der Software sollte die entsprechende  Information möglichst farblich sinnvoll (z.B. rot = Fehlerfall, grün = Erfolgsfall) in Kurzform dargestellt 8 10
+Es wird empfohlen, statt der Anzeige von Dialogfenstern, die den Anwender in seiner Arbeit stören würden,  Statusanzeigen zu nutzen, um den Erfolgs- oder Fehlerfall des automatischen Abrufs darzustellen. An  einer für den Anwender gut sichtbaren und geeigneten Stelle in der Software sollte die entsprechende  Information möglichst farblich sinnvoll (z.B. rot = Fehlerfall, grün = Erfolgsfall) in Kurzform dargestellt
+
+Seite 8 von 10 / KBV / Spezifikation 116117 Terminservice - Abrechnungsinformation
 
 Provenance- Suchergebnisse)
 
@@ -280,7 +282,7 @@ Anmerkungen:
 
 Es wird empfohlen, statt der Anzeige von Dialogfenstern, die den Anwender in seiner Arbeit stören würden,  Statusanzeigen zu nutzen, um den Erfolgs- oder Fehlerfall des automatischen Abrufs darzustellen. An  einer für den Anwender gut sichtbaren und geeigneten Stelle in der Software sollte die entsprechende  Information möglichst farblich sinnvoll (z.B. rot = Fehlerfall, grün = Erfolgsfall) in Kurzform dargestellt  werden. Der Anwender sollte dann die Möglichkeit haben, durch Klick auf die Statusanzeige ausführliche  Informationen zu erhalten. Die Zeit von 24 Stunden bezieht sich auf die Öffnungszeiten der Praxis. Urlaubszeiten, Wochenenden und  andere Schließzeiten zählen hierbei nicht mit. Es bleibt dem Softwarehersteller überlassen, ob und auf  welche Weise Öffnungszeiten der Praxis im System erfasst werden. Eine regelmäßige Erfassung der  exakten Zeiten ist nicht zwingend erforderlich, wenn dem Anwender bei der Anzeige der Meldung auch die  Information angezeigt wird, dass er nur dann das Softwarehaus bzw. den Dienstleister vor Ort kontaktieren  sollte, wenn die Praxis tatsächlich auch in dieser Zeit geöffnet war.
 
-9 10
+Seite 9 von 10 / KBV / Spezifikation 116117 Terminservice - Abrechnungsinformation
 
 
 ---
@@ -293,4 +295,6 @@ partnerportal.kv-telematik.de/display/TSSSPEC/116117+Terminservice+-+Schnittstel
 
 [Implementation Guide]: Implementation Guide zu TSS-Abrechnungsinformation; [https://simplifier.net/](https://simplifier.net/)
 
-guide/implementierungsleitfaden-terminsynchronisation-tvs?version=current [https://simplifier.net/guide/](https://simplifier.net/guide/) implementierungsleitfaden-abrechnungsinformationen-pvs 10 10
+guide/implementierungsleitfaden-terminsynchronisation-tvs?version=current [https://simplifier.net/guide/](https://simplifier.net/guide/) implementierungsleitfaden-abrechnungsinformationen-pvs
+
+Seite 10 von 10 / KBV / Spezifikation 116117 Terminservice - Abrechnungsinformation

@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 12. AUGUST 2021  VERSION: 1.08  DOKUMENTENSTATUS: IN |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  12. AUGUST 2021   VERSION: 1.08   DOKUMENTENSTATUS: IN |
 |---|---|
 
 # PRUEFPAKET QS- KAPSELENDOSKOPIE
@@ -67,10 +67,14 @@ Prüffall 1 Prüffall 2 Prüffall 3
 
 ---
 
-# ABBILDUNGSVERZEICHNIS
+|  |  | ABBILDUNGSVERZEICHNIS | |  |  |  |
+|---|---|---|---|---|---|---|
+| Abbildung | 1: | Exemplarische | Verzeichnisstruktur | für | die | Zertifizierung |
+| Seite 3 | von 15 / KBV | / Pruefpaket | QS- Kapselendoskopie | / Version: | 1.08 / | 12. August 2021 |
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung 7
+7
 
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung
 
 ---
 
@@ -79,7 +83,7 @@ DOKUMENTENHISTORIE
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.08 | 12.08.2021 | KBV | Überarbeitung des | Überführung ins neue | Alle |
-| 1.07 | 1.2.03.2018 | KBV | Einreichung des Antrags | Anpassung des | 5ff |
+| 1.07 | 12.03.2018 | KBV | Einreichung des Antrags | Anpassung des | 5ff |
 | 1.06 | 23.05.2017 | KBV | Komplettüberarbeitung | Aktualisierung der | Alle |
 
 Layouts auf Zertifizierung des Prüfpaketes  Corporate Design Zertifizierungsportals Zertifizierungsrichtlinie
@@ -207,7 +211,7 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 |---|---|
 | Betriebsstättennummer (BSNR) | 381234511 |
 | (N)BSNR-Bezeichnung: | Praxis Dr. med. Topp-Glücklich |
-| Lebenslange Arztnummer (LANR) | 5553339.67 |
+| Lebenslange Arztnummer (LANR) | 555333967 |
 | Arztname | Dr. med. Hans Topp-Glücklich, |
 | Straße | Musterstr. |
 | Hausnummer | 1 |
@@ -222,7 +226,7 @@ Urologe
 | TABELLE 1 - JAHRESSTATISTIK 2014 | |
 |---|---|
 | 1 Anzahl Kapselendoskopien | |
-| Anzahl Erstuntersuchungen | 1.6 |
+| Anzahl Erstuntersuchungen | 16 |
 | Anzahl Wiederholungsuntersuchungen | 5 |
 | 2 Auslassungsmöglichkeit blutungsfördernder Medikation | |
 | Nicht zutreffend | 7 |
@@ -331,7 +335,7 @@ Empfehlungen zur Wiederholungsuntersuchung und 6
 |  |  |
 |---|---|
 | Prüffall-ID | 2 |
-| Testziel | Die folgenden Konstellationen stellen Plausibilitätsverstöße dar, die durch die KBV_ITA_VGEX_Plausi_QSKE ) erkannt werden müssen. |
+| Testziel | Die folgenden Konstellationen stellen Plausibilitätsverstöße dar, die durch die  KBV_ITA_VGEX_Plausi_QSKE) erkannt werden müssen. |
 | Voraussetzung | Die weiteren, nicht vorgegebenen Angaben der einzelnen Kons |
 | Prüfunterlagen | Werden Plausibilitätsverstöße softwareseitig erkannt, so sind entsprechende |
 | Hinweis |  |
@@ -340,7 +344,7 @@ Software anhand der vorgegebenen Plausibilitäten (siehe tellationen sind gemä�
 
 ---
 
-| 7 Kapselendoskopien mit Auslassung | |
+| 7  Kapselendoskopien mit Auslassung | |
 |---|---|
 | Kapselendoskopien ohne Auslassung | |
 | 4 |  |
@@ -473,12 +477,12 @@ Beurteilbarkeit des Bildmaterials und 6 IEDERHOLUNGSUNTERSUCHUNG Jahresstatistik
 |---|---|
 | Referenz | Dokument |
 | KBV_ITA_FMEX_AAZ_QSKE | Antrag auf Zertifizierung QSKE |
-| [KBV_ITA_RLEX_Zert ] | Zertifizierungsrichtlinie der KBV |
+| [KBV_ITA_RLEX_Zert] | Zertifizierungsrichtlinie der KBV |
 | [Austausch_von_XML-Daten_V(n.nn ).ZIP] | KBV_ITA_VGEX_XM |
-| [KBV_ITA_VGEX_Schnittstelle_QSKE ] | Schnittstellenbeschreibung QS Kapselendoskopie |
+| [KBV_ITA_VGEX_Schnittstelle_QSKE] | Schnittstellenbeschreibung QS Kapselendoskopie |
 | [KBV_ITA_VGEX_Plausi_QSKE] | Plausibilitäten und Berechnungsvorschrift QS |
-| [KBV_ITA_VGEX_Anforderungskatalog_QSKE ] | Anforderungskatalog |
-| [KBV_ITA_AHEX_Ausfuellhinweise_QSKE ] | Ausfüllhinweise Qualitätssicherungsvereinbarung |
+| [KBV_ITA_VGEX_Anforderungskatalog_QSKE] | Anforderungskatalog |
+| [KBV_ITA_AHEX_Ausfuellhinweise_QSKE] | Ausfüllhinweise Qualitätssicherungsvereinbarung |
 | Prüfstammdateien | Alle für das Verfahren ggf. relevanten |
 | KBV-Kryptomodul (XKM) und öffentlicher | KBV-Kryptomodul |
 

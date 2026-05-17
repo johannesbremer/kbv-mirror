@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**09. MAI 2026**
+**16. MAI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -38,7 +38,7 @@
 
 Internet: www.elea.health
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 09. Mai 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 16. Mai 2026
 
 System mit APK
 
@@ -81,6 +81,11 @@ iOS/Android Mac OS Windows
 
 ---
 
+|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|---|
+| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
+|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+
 **Doctolib Praxis**
 
 **Doctolib GmbH** Mehringdamm 51 10961 Berlin Internet: [https://www.doctolib.de](https://www.doctolib.de)
@@ -99,10 +104,7 @@ iOS/Android Mac OS Windows
 
 **Co-Fox GmbH** Wilhelm-Saucke-Straße 12 29227 Celle Internet: co-fox.de
 
-|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|---|
-| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
-|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 16. Mai 2026
 
 System mit APK
 
@@ -145,6 +147,11 @@ iOS/Android Linux Mac OS Windows
 
 ---
 
+|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|---|
+| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
+|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+
 **theHub**
 
 **Fresenius Medical Care Deutschland** **GmbH** Else-Kröner-Str. 3 61352 Bad Homburg Internet: www.freseniusmedicalcare.com
@@ -161,12 +168,7 @@ iOS/Android Linux Mac OS Windows
 
 **Frey ADV GmbH** Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 09. Mai 2026
-
-|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|---|
-| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
-|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+Seite 4 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 16. Mai 2026
 
 System mit APK
 
@@ -209,9 +211,11 @@ iOS/Android Linux Mac OS Windows
 
 ---
 
-**smartLIS Laborinformationssystem** **Abrechnungsmodul**
-
-**labdock GmbH** Helenenstieg 4 22765 Hamburg Internet: www.labdock.de
+|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|---|
+| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
+|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+|  | System ohne APK | Y/200/2306/36/643 | 31.05.2026 | Satzart: Überweisung |  |
 
 **GenLAB8**
 
@@ -225,26 +229,17 @@ iOS/Android Linux Mac OS Windows
 
 **boos-uttenthaler-garcia RAD+** **Entwicklungsgesellschaft bR** Augustin-Schwarz Str. 6 85276 Pfaffenhofen a.d. Ilm
 
-|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|---|
-| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
-|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
-
-System ohne APK
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 16. Mai 2026
 
 System mit APK
 
 System mit APK
 
 System mit APK
-
-Y/200/2306/36/643
 
 Y/202/2307/36/609
 
 Y/203/2307/36/636
-
-31.05.2026 Satzart: Überweisung
 
 Satzart: Ambulante Behandlung
 
@@ -258,16 +253,19 @@ Satzart: Ambulante Behandlung
 
 30.06.2026 Satzart: Überweisung Satzart: Notfall/ Notfalldienst
 
-Linux Mac OS Windows
-
 Windows
 
 Windows
 
-Linux Mac OS Windows
+smartLIS Laborinformationssystem Abrechnungsmodul labdock GmbH Helenenstieg 4 22765 Hamburg Internet: www.labdock.de Linux Mac OS WindowsLinux Mac OS Windows
 
 
 ---
+
+|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|---|
+| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
+|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
 
 **RED Medical**
 
@@ -287,10 +285,7 @@ Herderstr. 7 26169 Friesoythe Internet: www.apraxos.de
 
 **labsolution S.à.r.l & Co.KG** Hauptstrooss 22 L-9753 Heinerscheid Internet: www.labsolution.lu
 
-|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|---|
-| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
-|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 16. Mai 2026
 
 System mit APK
 
@@ -333,6 +328,11 @@ Linux Sonstige Windows
 
 ---
 
+|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|---|
+| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
+|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+
 **T2med**
 
 **T2med GmbH & Co. KG** Bismarckallee 15 24105 Kiel Internet: www.t2med.de
@@ -349,10 +349,7 @@ Linux Sonstige Windows
 
 **Müritz COMP Greifswald** **Computersystemhaus GmbH** An der Jungfernwiese 2 17489 Greifswald Internet: www.med4win.de
 
-|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|---|
-| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
-|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 16. Mai 2026
 
 System mit APK
 
@@ -395,6 +392,11 @@ Windows
 
 ---
 
+|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|---|
+| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
+|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+
 **NEXUS RIS**
 
 **NEXUS / CHILI GmbH** Friedrich-Ebert-Str. 2 69221 Dossenheim Internet: [https://www.nexus-](https://www.nexus-) chili.com
@@ -411,10 +413,7 @@ Windows
 
 **imassense Deutschland GmbH** Buckower Chaussee 106 - 107 12277 Berlin Internet: www.imassense.de
 
-|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|---|
-| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
-|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 16. Mai 2026
 
 System mit APK
 
@@ -457,6 +456,11 @@ Linux Sonstige Windows
 
 ---
 
+|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|---|
+| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
+|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+
 **medatixx**
 
 **medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
@@ -475,10 +479,7 @@ Softwarevariante(n): - psyx
 
 **SIEGELE Software GmbH** Wehrgasse 28/3+4 A-1050 Wien
 
-|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|---|
-| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
-|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 16. Mai 2026
 
 System mit APK
 
@@ -521,6 +522,11 @@ Linux Windows
 
 ---
 
+|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|---|
+| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
+|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+
 **RED medical classic**
 
 **RED Medical Systems GmbH** Lutzstraße 2 80687 München Internet: www.REDMEDICAL.DE
@@ -539,10 +545,7 @@ Linux Windows
 
 **IQVIA Commercial GmbH & Co OHG** Angela-Stadler-Str. 9 78224 Singen Internet: www.gradient.de
 
-|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|---|
-| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
-|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 16. Mai 2026
 
 System mit APK
 
@@ -585,6 +588,11 @@ Windows
 
 ---
 
+|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|---|
+| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
+|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+
 **ClinicCentre Billing (OPD)**
 
 **Mesalvo Mannheim GmbH** Am Exerzierplatz 14 68167 Mannheim Internet: [https://mesalvo.com](https://mesalvo.com)
@@ -603,10 +611,7 @@ Windows
 
 Neuenburger Straße 4 79379 Müllheim Internet: www.dorner.de
 
-|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|---|
-| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
-|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 16. Mai 2026
 
 System mit APK
 
@@ -649,9 +654,11 @@ Windows
 
 ---
 
-**LIS++**
-
-**4labs software gmbh, c/o MVZ Dr.** **Klein Dr. Schmitt & Partner** Brüsseler Str.1 67657 Kaiserslautern Internet: www.4labs.eu
+|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|---|
+| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
+|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+|  | System ohne APK | Y/200/2601/36/395 | 31.12.2028 | Satzart: Überweisung |  |
 
 **CLASSY RT**
 
@@ -663,31 +670,23 @@ Windows
 |---|---|---|---|---|---|
 |  | System ohne APK | Y/207/2501/36/818 | 31.12.2027 | Satzart: Überweisung |  |
 
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 16. Mai 2026
+
+System mit APK
+
+Y/1/2501/36/385 31.12.2027
+
+Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+
+LIS++ 4labs software gmbh, c/o MVZ Dr. Klein Dr. Schmitt & Partner Brüsseler Str.1 67657 Kaiserslautern Internet: www.4labs.eu Linux Windows H&S Laborsoftware Limbach Gruppe SE Marktstraße 32 - 34 65428 Rüsselsheim Internet: www.hus-soft.de proLAB SysTek GmbH Bad Meinberger Str. 1 32760 Detmold Internet: www.systek.de Linux Sonstige Windows WindowsWindows
+
+
+---
+
 |  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|---|
 | **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
 |  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
-
-System ohne APK
-
-System mit APK
-
-Y/200/2601/36/395
-
-Y/1/2501/36/385 31.12.2028
-
-31.12.2027
-
-Satzart: Überweisung
-
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
-
-Linux Windows
-
-H&S Laborsoftware Limbach Gruppe SE Marktstraße 32 - 34 65428 Rüsselsheim Internet: www.hus-soft.de proLAB SysTek GmbH Bad Meinberger Str. 1 32760 Detmold Internet: www.systek.de Linux Sonstige Windows WindowsWindows
-
-
----
 
 **psyprax**
 
@@ -705,12 +704,7 @@ H&S Laborsoftware Limbach Gruppe SE Marktstraße 32 - 34 65428 Rüsselsheim Inte
 
 **NEXUS / DIGITAL PATHOLOGY GmbH** Irmastraße 1 78166 Donaueschingen Internet: nexus-pathozyto.de
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 09. Mai 2026
-
-|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|---|
-| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
-|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+Seite 13 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 16. Mai 2026
 
 System mit APK
 
@@ -753,6 +747,11 @@ Windows
 
 ---
 
+|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|---|
+| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
+|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+
 **LabCentre**
 
 **Mesalvo Mannheim GmbH** Am Exerzierplatz 14 68167 Mannheim Internet: [https://mesalvo.com](https://mesalvo.com)
@@ -769,12 +768,7 @@ Windows
 
 **CompuGroup Medical Dentalsysteme** **GmbH** Maria Trost 25 56070 Koblenz Internet: www.cgm-dentalsysteme.de
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 09. Mai 2026
-
-|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|---|
-| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
-|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+Seite 14 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 16. Mai 2026
 
 System ohne APK
 
@@ -817,9 +811,11 @@ Windows
 
 ---
 
-**Pegasus Software für Pathologie und** **Zytologie**
-
-**Pegasus Datensysteme** Josephsburgstr. 75 81673 München Internet: www.pegasus-zytologie.de
+|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|---|
+| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
+|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+|  | System ohne APK | Y/200/2309/36/475 | 31.08.2026 | Satzart: Überweisung |  |
 
 **amasys**
 
@@ -829,41 +825,33 @@ Windows
 
 **KfH - Kuratorium für Dialyse und** **Nierentransplantation e.V.** Martin-Behaim-Straße 20 63263 Neu-Isenburg Internet: www.kfh.de
 
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 16. Mai 2026
+
+System mit APK
+
+System mit APK
+
+Y/1/2307/36/323
+
+Y/1/2601/36/320 30.06.2026
+
+31.12.2028
+
+Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+
+Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+
+Windows
+
+Pegasus Software für Pathologie und Zytologie Pegasus Datensysteme Josephsburgstr. 75 81673 München Internet: www.pegasus-zytologie.de WindowsWindows
+
+
+---
+
 |  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|---|
 | **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
 |  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
-
-System ohne APK
-
-System mit APK
-
-System mit APK
-
-Y/200/2309/36/475
-
-Y/1/2307/36/323
-
-Y/1/2601/36/320 31.08.2026
-
-30.06.2026
-
-31.12.2028
-
-Satzart: Überweisung
-
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
-
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
-
-Windows
-
-Windows
-
-Windows
-
-
----
 
 **IMedOne**
 
@@ -887,12 +875,7 @@ Internet: www.rescuepro.de
 
 Königstraße 7 26180 Rastede Internet: www.newmediacompany.de
 
-Seite 16 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 09. Mai 2026
-
-|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|---|
-| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
-|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+Seite 16 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 16. Mai 2026
 
 System mit APK
 
@@ -935,6 +918,11 @@ Windows
 
 ---
 
+|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|---|
+| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
+|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+
 **Elefant**
 
 **HASOMED GmbH**
@@ -955,10 +943,7 @@ Paul-Ecke-Str. 1 39114 Magdeburg Internet: www.hasomed.de
 
 **Epikur Software GmbH & Co. KG** Franklinstraße 26 a 10587 Berlin Internet: www.epikur.de
 
-|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|---|
-| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
-|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 16. Mai 2026
 
 System mit APK
 
@@ -1001,6 +986,11 @@ Linux Mac OS Windows
 
 ---
 
+|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|---|
+| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
+|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+
 **M-KIS**
 
 **Meierhofer AG** Einsteinring 30 85609 Aschheim Internet: www.meierhofer.com
@@ -1025,10 +1015,7 @@ Softwarevariante(n):
 
 - CGM MEDISTAR - CGM MEDISTAR BLACK
 
-|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|---|
-| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
-|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 16. Mai 2026
 
 System mit APK
 
@@ -1071,6 +1058,11 @@ Windows
 
 ---
 
+|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|---|
+| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
+|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+
 **MEDOS**
 
 **NEXUS / CHILI GmbH** Friedrich-Ebert-Str. 2 69221 Dossenheim Internet: [https://www.nexus-](https://www.nexus-) chili.com
@@ -1087,10 +1079,7 @@ Windows
 
 **Clinisys Deutschland GmbH** Am Klingenweg 6 65396 Walluf Internet: www.clinisys.com
 
-|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|---|
-| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
-|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 16. Mai 2026
 
 System mit APK
 
@@ -1131,6 +1120,11 @@ Windows
 
 ---
 
+|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|---|
+| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
+|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+
 **DS-WIN-PLUS (DS-WIN-MED)**
 
 **DAMPSOFT GmbH** Vogelsang 1 24351 Damp Internet: www.dampsoft.de
@@ -1147,10 +1141,7 @@ Windows
 
 **medavis GmbH** Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.de
 
-|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|---|
-| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
-|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 16. Mai 2026
 
 System mit APK
 
@@ -1191,6 +1182,11 @@ Windows
 
 ---
 
+|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|---|
+| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
+|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+
 **NEXUS / SWISSLAB**
 
 **NEXUS SWISSLAB GmbH** Sachsendamm 2-7 10829 Berlin
@@ -1215,10 +1211,7 @@ Internet: [http://www.nexus-](http://www.nexus-) swisslab.de
 
 Softwarevariante(n): - CGM M1 PRO NEXT
 
-|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|---|
-| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
-|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 16. Mai 2026
 
 System ohne APK
 
@@ -1261,6 +1254,11 @@ Windows
 
 ---
 
+|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|---|
+| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
+|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+
 **MEDVISION**
 
 **MedVision AG** Heinrich-Hertz-Str. 9 59423 Unna Internet: www.medvision.de
@@ -1275,10 +1273,7 @@ Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPH
 
 **PRO MEDISOFT AG** Besselstraße 25 68219 Mannheim Internet: www.pro-medisoft.de
 
-|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|---|
-| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
-|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 16. Mai 2026
 
 System mit APK
 
@@ -1311,6 +1306,11 @@ Windows
 
 ---
 
+|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|---|
+| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
+|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+
 **QUINCY WIN**
 
 **Frey ADV GmbH** Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de
@@ -1331,10 +1331,7 @@ Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
 
 Tieberg 7 31191 Algermissen Internet: www.dbi-informatik.de
 
-|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|---|
-| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
-|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 16. Mai 2026
 
 System mit APK
 
@@ -1375,6 +1372,11 @@ Windows
 
 ---
 
+|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|---|
+| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
+|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+
 **PROMED-open / X-PROMED**
 
 **Clinisys Deutschland GmbH** Am Klingenweg 6 65396 Walluf Internet: www.clinisys.com
@@ -1395,10 +1397,7 @@ Internet: www.q-med.de
 
 **Universitätsklinikum Freiburg AdöR** Agnesenstraße 6-8 79106 Freiburg Internet: www.uniklink-freiburg.de
 
-|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|---|
-| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
-|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 16. Mai 2026
 
 System ohne APK
 
@@ -1441,6 +1440,11 @@ Linux Windows
 
 ---
 
+|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|---|
+| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
+|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+
 **MOLIS**
 
 **CGM LAB International GmbH** Gesundheitscampus-Süd 17 44801 Bochum Internet: www.cgm.com
@@ -1461,10 +1465,7 @@ Internet: www.medatixx.de
 
 Softwarevariante(n): - x.vianova
 
-|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|---|
-| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
-|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 16. Mai 2026
 
 System ohne APK
 
@@ -1507,6 +1508,11 @@ Windows
 
 ---
 
+|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|---|
+| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
+|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+
 **ELADIS**
 
 **LabKom Biochemische** **Dienstleistungen GmbH** August-Wessels-Str. 5 86154 Augsburg Internet: www.labkom.de
@@ -1525,10 +1531,7 @@ Windows
 
 Internet: www.unisolo.de
 
-|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|---|
-| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
-|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 16. Mai 2026
 
 System ohne APK
 
@@ -1571,6 +1574,11 @@ Windows
 
 ---
 
+|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|---|
+| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
+|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+
 **ALBIS**
 
 **CompuGroup Medical Deutschland** **AG** Maria Trost 21 56070 Koblenz Internet: www.albis.de
@@ -1587,10 +1595,7 @@ Windows
 
 **MEDNET Service für Ärzte AG** Prälat-van-Acken-Straße 14 50935 Köln Internet: www.mednet.de
 
-|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|---|
-| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
-|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 16. Mai 2026
 
 System mit APK
 
@@ -1633,6 +1638,11 @@ Windows
 
 ---
 
+|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|---|
+| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
+|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+
 **WIN-RADIOLOG**
 
 **medigration GmbH** Dr.-Rudolf-Eberle-Straße 8 - 10 76534 Baden-Baden Internet: www.medigration.de
@@ -1651,12 +1661,7 @@ Internet: www.medys.de
 
 **NEXUS / DIGITAL PATHOLOGY GmbH** Irmastraße 1 78166 Donaueschingen Internet: nexus-pathozyto.de
 
-Seite 28 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 09. Mai 2026
-
-|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|---|
-| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
-|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+Seite 28 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 16. Mai 2026
 
 System mit APK
 
@@ -1699,6 +1704,11 @@ Sonstige Windows
 
 ---
 
+|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|---|
+| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
+|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+
 **InterARZT**
 
 **InterData Praxiscomputer GmbH** Alte Bahnhofstraße 50-52 48268 Greven Internet: www.InterData.de
@@ -1719,10 +1729,7 @@ Sonstige Windows
 
 Edisonallee 25 89231 Neu-Ulm Internet: www.data-al.de
 
-|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|---|
-| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
-|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 16. Mai 2026
 
 System mit APK
 
@@ -1763,6 +1770,11 @@ Windows
 
 ---
 
+|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|---|
+| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
+|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+
 **APRIS**
 
 **APRIS Praxiscomputer GmbH** Wetterkreuz 19 91058 Erlangen Internet: www.apris.de
@@ -1779,12 +1791,7 @@ Windows
 
 **Examion GmbH** Erich-Herion-Straße 37 70736 Fellbach Internet: www.examion.com
 
-Seite 30 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 09. Mai 2026
-
-|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|---|
-| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
-|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+Seite 30 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 16. Mai 2026
 
 System mit APK
 
@@ -1827,6 +1834,11 @@ Windows
 
 ---
 
+|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|---|
+| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
+|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+
 **MEDIPX**
 
 **MEDITEC Medizinische** **Datentechnologie GmbH** Griesbergstraße 1B-C 31162 Bad Salzdetfurth Internet: www.meditec-gmbh.com
@@ -1845,10 +1857,7 @@ Windows
 
 **PEGA Elektronik GmbH** Felix-Dahn-Straße 15 70597 Stuttgart Internet: www.pegamed.de
 
-|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|---|
-| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
-|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 16. Mai 2026
 
 System mit APK
 
@@ -1891,6 +1900,11 @@ Windows
 
 ---
 
+|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|---|
+| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
+|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+
 **Arztpraxis Wiegand**
 
 **APW-Wiegand - Med. Software** **Entwicklung und Vertrieb GmbH** Draiser Straße 164 55128 Mainz Internet: www.apw-wiegand.de
@@ -1907,10 +1921,7 @@ Windows
 
 **medisoftware GmbH & Co. KG** Steinstraße 1 24118 Kiel Internet: www.medisoftware.de
 
-|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|---|
-| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
-|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 16. Mai 2026
 
 System mit APK
 
@@ -1953,6 +1964,11 @@ Windows
 
 ---
 
+|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|---|
+| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
+|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+
 **MELOS MeCom Arzt & Labor**
 
 **LABLIONS software & solutions** **GmbH** Franz-Beer-Straße 6 86459 Gessertshausen Internet: www.mdn.de
@@ -1961,10 +1977,7 @@ Windows
 
 **Neutz GmbH Systemhaus** Schwabstraße 22 74189 Weinsberg Internet: www.neutz.net
 
-|  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|---|
-| **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
-|  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 16. Mai 2026
 
 System ohne APK
 

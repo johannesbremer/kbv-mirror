@@ -1,38 +1,38 @@
 ### TOP 20 Systeme - Radiologen
 
-**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen. Datenstand:** **3.0.06.2025**
+**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen. Datenstand:** **30.06.2025**
 
 **Id Praxissoftware**
 
-2.56 **medavis RIS**
+256 **medavis RIS**
 
-2.54 **ORBIS®**
+254 **ORBIS®**
 
-2.76 **RadCentre Billing (OPD)**
+276 **RadCentre Billing (OPD)**
 
-3.43 **SAP Ambulatory Care Management**
+343 **SAP Ambulatory Care Management**
 
-4.46 **WIN-RADIOLOG**
+446 **WIN-RADIOLOG**
 
-2.26 **CGM MEDICO**
+226 **CGM MEDICO**
 
-4.39 **eRIS**
+439 **e RIS**
 
-3.14 **IMedOne**
+314 **IMedOne**
 
-2.80 **CGM MEDISTAR BLACK PRO**
+280 **CGM MEDISTAR BLACK PRO**
 
-2.16 **x.isynet**
+216 **x.isynet**
 
-2.52 **CGM M1 PRO**
+252 **CGM M1 PRO**
 
-4.17 **Centricity RIS-i**
+417 **Centricity RIS-i**
 
-3.85 **CLASSY RT**
+385 **CLASSY RT**
 
-2.03 **ALBIS**
+203 **ALBIS**
 
-4.87 **NEXUS RIS**
+487 **NEXUS RIS**
 
 **Anbieter**
 
@@ -68,67 +68,67 @@ NEXUS / CHILI GmbH 1
 
 **Installationen 2.Q.2025**
 
-2.16
+216
 
-1.85
+185
 
-8.1
+81
 
-8.0
+80
 
-5.8
+58
 
-4.7
+47
 
-4.3
+43
 
-4.1
+41
 
-4.0
+40
 
-3.6
+36
 
-2.8
+28
 
-2.8
+28
 
-2.7
+27
 
-2.6
+26
 
-2.4
+24
 
 **Installationen 1.Q.2025**
 
-2.08
+208
 
-1.86
+186
 
-8.0
+80
 
-7.8
+78
 
-5.8
+58
 
-4.6
+46
 
-4.4
+44
 
-4.2
+42
 
-4.4
+44
 
-3.7
+37
 
-3.0
+30
 
-3.1
+31
 
-2.4
+24
 
-2.8
+28
 
-2.5
+25
 
 **Differenz**
 
@@ -167,15 +167,15 @@ NEXUS / CHILI GmbH 1
 
 **Id Praxissoftware**
 
-1.12 **TURBOMED**
+112 **TURBOMED**
 
-6.37 **Xplore RIS**
+637 **Xplore RIS**
 
-4.47 **CARW**
+447 **CARW**
 
-2.10 **Medical Office**
+210 **Medical Office**
 
-0.62 **EVA**
+062 **EVA**
 
 **Anbieter**
 
@@ -191,27 +191,27 @@ Abasoft EDV-Programme GmbH 2
 
 **Installationen 2.Q.2025**
 
-2.2
+22
 
-1.7
+17
 
-1.7
+17
 
-1.6
+16
 
-1.5
+15
 
 **Installationen 1.Q.2025**
 
-2.4
+24
 
-1.7
+17
 
-1.7
+17
 
-1.6
+16
 
-1.6
+16
 
 **Differenz**
 

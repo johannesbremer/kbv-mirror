@@ -98,6 +98,8 @@ vorlage angepasst
 
 *4.8.4.4* *telecom (Kommunikationsmöglichkeiten) ............................................................. 31*
 
+* Version 1.41
+
 
 ---
 
@@ -166,6 +168,8 @@ vorlage angepasst
 **6.2** **constraint (Referenzintegrität)** **................................................................................................... 48**
 
 **7** **NAMENSGEBUNG FÜR EHD-DATEIEN**
+
+* Version 1.41
 
 ............................................................................ 34
 
@@ -244,13 +248,11 @@ vorlage angepasst
 
 **63**
 
-**11.1**
+**11.1** **Versionierung der Schnittstelle** **................................................................................................. 63**
 
-| **Versionierung** | **der** | **Schnittstelle** | **................................................................................................. 63** |
-|---|---|---|---|
-|  | **REGISTRIERUNG** | **EINER SCHNITTSTELLE** | **63** |
+**12** **REGISTRIERUNG EINER SCHNITTSTELLE**
 
-**12**
+**63**
 
 **13** **WEITERENTWICKLUNG**
 
@@ -258,17 +260,14 @@ vorlage angepasst
 
 **14** **ANHANG**
 
-**6.4**
+**64**
 
-**14.1**
+**14.1** **Verweise ....................................................................................................................................... 64**
 
-| **Verweise** |  | **.......................................................................................................................................** | **64** |
-|---|---|---|---|
-|  | **Schlüsseltabellen** | **........................................................................................................................** | **64** |
+**14.2** **Schlüsseltabellen ........................................................................................................................ 64**
 
-**14.2**
+* Version 1.41
 
-Versionierung der Schnittstelle REGISTRIERUNG EINER SCHNITTSTELLE ....................................................................................................................................... 64 ........................................................................................................................ 64
 
 ---
 
@@ -308,6 +307,8 @@ Abbildung 15 /ehd/body ....................................... .................
 
 Abbildung 16 Aufteilung der Schemas für die ehd-Schnittstelle XY ...................................... 60
 
+* Version 1.41
+
 
 ---
 
@@ -324,6 +325,8 @@ Tabelle 4 Erläuterungen /person/person_name/pfx ...............................
 Tabelle 5 Erläuterungen /person/person_name/telecom ...................................................... 30
 
 Tabelle 6 Schlüsseltabellen ................................................................................................. 64
+
+* Version 1.41
 
 
 ---
@@ -408,6 +411,8 @@ XML-Code 34 /ehd/header/scope/scope.nm ........................................ 
 
 XML-Code 35 /ehd/header/state ................................ .......................................................... 40
 
+* Version 1.41
+
 
 ---
 
@@ -443,6 +448,8 @@ XML-Code 47 xy_header.xsd ................................ .....................
 
 XML-Code 48 xy_body.xsd .................................. ................................................................ 62
 
+* Version 1.41
+
 
 ---
 
@@ -460,6 +467,8 @@ Das vorliegende Dokument ist geschaffen worden, um Schnittstellenentwicklern ein
 
 ehd steht für eHealth-Data. Die ehd-Richtlinie ist bewusst so gestaltet, dass sie nicht an eine  Institution gebunden ist.
 
+* Version 1.41
+
 
 ---
 
@@ -473,9 +482,9 @@ Es existieren verschiedene Kardinalitäten:
 
 | Kardinalität | Symbol | Beschreibung |
 |---|---|---|
-| 0..1 |  | Optionale Elemente Ein optionales Element wird als Rechteck mit gestri- |
-| 1 |  | Obligatorische Elemente Elemente, welche als Rechteck mit durchgezogener |
-| n...m |  | Mehrfache Elemente Bei Elementen, welche mehrfach vorkommen kön- |
+| 0..1 |  | Optionale Elemente  Ein optionales Element wird als Rechteck mit gestri- |
+| 1 |  | Obligatorische Elemente  Elemente, welche als Rechteck mit durchgezogener |
+| n...m |  | Mehrfache Elemente  Bei Elementen, welche mehrfach vorkommen kön- |
 
 **Tabelle 1 Beschreibung der Kardinalitäten eines XML-Elements**
 
@@ -490,6 +499,8 @@ Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mit
 
 **Tabelle 2 Beschreibung der Strukturelement-Symbole**
 
+* Version 1.41
+
 chelter Linie dargestellt. Es kann keinmal oder einmal vorkommen. Linie dargestellt sind, müssen genau einmal vor- kommen. nen, wird die erlaubte Anzahl rechts unter dem Sym- bol dargestellt. Die Werte können von 0 bis bounded) reichen.  (un- <xs:choice> zeigt an, dass zwischen verschiedenen Kin- delementen genau eins ausgewählt werden muss. <xs:sequence>  beschreibt, dass die Kindelemente in fest- gelegter Reihenfolge aufgeführt werden müssen. ***<xs:choice>***
 
 
@@ -501,12 +512,14 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 | Symbol | Beschreibung |
 |---|---|
-|  | Element mit Kindelementen Ein Element mit einem oder mehreren Kindelementen wird durch ein |
-|  | Referenzelement Der Pfeil links unten im Element zeigt an, dass das Element an ande- |
-|  | Datentyp Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen |
-|  | Gruppenelement Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement |
+|  | Element mit Kindelementen  Ein Element mit einem oder mehreren Kindelementen wird durch ein |
+|  | Referenzelement  Der Pfeil links unten im Element zeigt an, dass das Element an ande- |
+|  | Datentyp  Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen |
+|  | Gruppenelement  Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement |
 
 **Tabelle 3 Beschreibung sonstiger Symbole**
+
+* Version 1.41
 
 Pluszeichen am Rechteckrand symbolisiert. rer Stelle im Schema definiert wurde. Datentyp.  dar, welches mehrere Elemente zusammenfasst.
 
@@ -530,8 +543,8 @@ Das ***<ehd>*** - Element hat folgende Elemente/Attribute:
 
 | Kardinalität | 1..1 |
 |---|---|
-| children | header (1..1) body (1..1) keytabs (0..1) |
-| attributs | Name   Type   Use   Default   Fixed   Annotation ehd_version   xs:string  required |
+| children | header (1..1)  body (1..1)  keytabs (0..1) |
+| attributs | Name    Type    Use    Default    Fixed    Annotation  ehd_version    xs:string   required |
 
 **XML-Code 1: ehd Element**
 
@@ -540,6 +553,8 @@ ehd_version: Im XML-File wird die Versionsnummer zur zugrundeliegenden ehd-Richt
 Um die Aufwärtskompatibilität zu gewährleisten, wird kein fester Wert für die  Version vorgegeben. Die Aufwärtskompatibilität ist dann gegeben, wenn kleine  optionale Änderungen am ehd-Schema gemacht werden, so dass früher er- stellte XML-Dateien trotzdem ohne Fehler gelesen werden können. Im Sche- ma, im Attribut version ist die aktuelle Schema-Version angegeben, so dass  Entwickler selbst entscheiden können, ob bestimmte Versionen akzeptiert  werden, oder nicht. Bei einem festvorgegebenem ehd_versions-Wert müssten  alle XML-Dateien aktualisiert werden, auch wenn die Änderungen nicht diese  Dateien betreffen.
 
 Der Schnittstellenentwickler kann also selbst entscheiden, ob im Schema das  Attribut auf Übereinstimmung mit einer bestimmten ehd-Richtlinienversion  oder auf „>“, „<“,oder „=“ oder beliebig geprüft wird.
+
+* Version 1.41
 
 
 ---
@@ -582,16 +597,19 @@ Folgender Code ist für die Implementierung einer ehd-Schnittstelle vorgeschrieb
 
 **XML-Code 2 /ehd (Root-Element)**
 
+* Version 1.41
+
 
 ---
 
-| **4** | **header** |  | **(Metadaten)** |  |  |  |
-|---|---|---|---|---|---|---|
-| Der | Header | enthält | die Metadaten | zu den | im body | liegenden eigentlichen |
-| folgende |  | Grundstruktur: |  |  |  |  |
-|  |  |  |  | **Abbildung** | **2 /ehd/header** |  |
+# 4 header (Metadaten)
 
-header (Metadaten) Der Header enthält die Metadaten zu den im body liegenden eigentlichen Inhaltsdaten, er hat folgende Grundstruktur:  Abbildung 2 /ehd/header
+### Der Header enthält die Metadaten zu den im body liegenden eigentlichen Inhaltsdaten, er hat  folgende Grundstruktur:
+
+**Abbildung 2 /ehd/header**
+
+* Version 1.41
+
 
 ---
 
@@ -661,7 +679,7 @@ Das Element hat folgende Attribute:
 
 | Kardinalität | 1..1 |
 |---|---|
-| attributs | Name   Type   Use   Default   Fixed   Annotation EX   xs:string   optional           RT   xs:string   required           RTV xs:string optional |
+| attributs | Name    Type    Use    Default    Fixed    Annotation  EX    xs:string    optional               RT    xs:string    required               RTV  xs:string optional |
 
 ### EX: („extension“=“Erweiterung“ zu dem RT-Attribut) dieses Attribut enthält eine OID bzw.
 
@@ -678,6 +696,8 @@ que identifier), zu verwenden. Jede, auf Basis dieser Beschreibung, erstellte ko
 ### Bei einer GUID handelt sich um eine 128 Bit-Zahl, die aus einer Menge von Informati-
 
 onen gebildet wird. Zum Erzeugen von GUID gibt es zahlreiche Tools, auch mit Java  gibt es solche Werkzeuge. Eine GUID ist z.B. nach den Microsoft-Vorgaben
+
+* Version 1.41
 
 **XML-Code 3 /ehd/header**
 
@@ -702,7 +722,7 @@ Das Element hat folgende Attribute:
 
 | Kardinalität | 0..1 |
 |---|---|
-| Attributs | Name   Type   Use   Default   Fixed   Annotation EX   xs:string   optional          RT   xs:string   required           RTV   xs:string   optional |
+| Attributs | Name    Type    Use    Default    Fixed    Annotation  EX    xs:string    optional              RT    xs:string    required               RTV    xs:string    optional |
 
 EX: („extension“=“Erweiterung“ zu dem RT-Attribut), beliebige Zeichenfolge
 
@@ -722,7 +742,9 @@ Das Element hat folgende Attribute:
 
 | Kardinalität | 0..1 |
 |---|---|
-| attributs | Name   Type   Use   Default   Fixed   Annotation V   xs:nonNegativeInteger   required |
+| attributs | Name    Type    Use    Default    Fixed    Annotation  V    xs:nonNegativeInteger    required |
+
+* Version 1.41
 
 "/>
 
@@ -750,7 +772,7 @@ Das Element hat folgende Attribute:
 | Kardinalität | 1..1 |
 |---|---|
 | children |  |
-| attributs | Name   Type   Use   Default   Fixed   Annota- V   xs:string   required           DN   xs:string   optional           S   xs:string   optional        1.2.276.0.76.2.2.100   SN   xs:string   optional           SV   xs:string   optional |
+| attributs | Name    Type    Use    Default    Fixed    Annota- V    xs:string    required               DN    xs:string    optional               S    xs:string    optional          1.2.276.0.76.2.2.100     SN    xs:string    optional               SV    xs:string    optional |
 
 **XML-Code 6 /ehd/header/version_nbr**
 
@@ -769,6 +791,8 @@ SN: menschenlesbarer Klartextname der Schlüsseltabelle
 SV: Version der Schlüsseltabelle, wenn die Schlüsseltabelle geändert bzw. ergänzt wird, wird  die Version hochgezählt. Es ist empfehlenswert die Version der Schlüsseltabelle anzugeben,  um auch nach mehreren Schlüsseltabellenänderungen noch feststellen zu können, wann ein  Wert gültig war.
 
 Bei dem Element <document_type_cd> wird im V-Attribut das Kürzel (Kode) der Schnittstelle  bzw. Satzart eingetragen, im S-Attribut steht die Schlüsseltabelle, in der alle Kodes verwaltet  werden.
+
+* Version 1.41
 
 . Gemäß der Namenskonvention haben Elemente,
 
@@ -789,7 +813,7 @@ Das Element hat folgende Attribute:
 
 | Kardinalität | 0..1 |
 |---|---|
-| attributs | Name   Type   Use   Default   Fixed   Annotation V   zeitraum_typ   required |
+| attributs | Name    Type    Use    Default    Fixed    Annotation  V    zeitraum_typ    required |
 
 V: hier wird der Gültigkeitszeitraum z.B. im Format „YYYY-MM-DD..YYYY-MM-DD“ angege- ben. Das erste Datum steht dabei für den Anfang, das zweite Datum für das Ende des Gültig-
 
@@ -821,7 +845,9 @@ Das Element hat folgende Attribute:
 
 | Kardinalität | 1..1 |
 |---|---|
-| attributs | Name   Type   Use   Default   Fixed   Annotation V   xs:date   required |
+| attributs | Name    Type    Use    Default    Fixed    Annotation  V    xs:date    required |
+
+* Version 1.41
 
 
 ---
@@ -846,8 +872,8 @@ Das Element hat folgende Attribute:
 
 | Kardinaldiät | 0..n |
 |---|---|
-| children | document_relationship.type_cd (1..1) related_document (1..1) local_header (0..n) |
-| attributs | Name   Type   Use   Default   Fixed   Annotation |
+| children | document_relationship.type_cd (1..1)  related_document (1..1)  local_header (0..n) |
+| attributs | Name    Type    Use    Default    Fixed    Annotation |
 
 ***<document_relationship.type_cd*** Der Beziehungstyp wird in diesem Kode-Element festgelegt.
 
@@ -860,6 +886,8 @@ Das Element hat folgende Attribute:
 ***<local_header>*** - Element wird in local_header (Platz für lokale Elementdefinitionen) erklärt.
 
 <document_relationship
+
+* Version 1.41
 
 
 ---
@@ -908,6 +936,8 @@ SN="Dokumentbeziehungstypen
 
 **Abbildung 4 /ehd/header/document_relationship/related_document**
 
+* Version 1.41
+
 " SV="1.0"/>
 
 "/>
@@ -929,8 +959,8 @@ Das Element hat folgende Attribute:
 
 | Kardinalität | 1..1 |
 |---|---|
-| children | id (1..1) set_id (0..1) version_nbr (0..1) local_header(0..n) |
-| attributs | Name   Type   Use   Default   Fixed   Annotation |
+| children | id (1..1)  set_id (0..1)  version_nbr (0..1)  local_header(0..n) |
+| attributs | Name    Type    Use    Default    Fixed    Annotation |
 
 ### Die Identifikation des Verweisdokuments erfolgt über die Dokument-Identifikatoren:
 
@@ -960,6 +990,8 @@ Das Element hat folgende Attribute:
 
 ### gruppe.
 
+* Version 1.41
+
 "/>
 
 
@@ -971,8 +1003,8 @@ Das Element hat folgende Attribute:
 
 | Kardinalität 0..n |  |
 |---|---|
-| children | intended_recipient.type_cd (0..1) function_cd (0..1) person (0..n) organization (0..n) local_header(0..n) |
-| attributs | Name   Type   Use   Default   Fixed   Annotation |
+| children | intended_recipient.type_cd (0..1)  function_cd (0..1)  person (0..n)  organization (0..n) local_header(0..n) |
+| attributs | Name    Type    Use    Default    Fixed    Annotation |
 
 („Eigner“, „Empfänger“) zugeordnet werden. Der Typ wird in die-
 
@@ -1034,14 +1066,18 @@ werden können. Der Datentyp ist **v_s_string_typ**, in dem Attribute und Elemen
 
 <intended_recipient.type_cd V="OWNER " S="1.2.276.0.76.2.2.102" SV="1.0" DN="Eigner"/>
 
+* Version 1.41
+
 
 ---
 
 | Kardinalität | 0..n |
 |---|---|
 | children | id (0..1) |
-| <intended_recipient.type_cd XML-Code 14 /ehd/header/intended_recipient/intended_recipient.type_cd  4.8.2 Die genauere Rolle/Funktion des Empfängers („Dateneingang“) wird in diesem Kode-Element | |
-| Bei diesem Element handelt es sich um ein Kode-Element, mit dem Kodewerte angegeben | <function_cd V="DtE" S="1.2.276.0.76.2.2.105 XML-Code 15 /ehd/header/intended_recipient/function_cd  4.8.3 Generell können Persondaten in diesem Element untergebracht werden. Dieses Element wird |
+| <intended_recipient.type_cd XML-Code 14 /ehd/header/intended_recipient/intended_recipient.type_cd   4.8.2 Die genauere Rolle/Funktion des Empfängers („Dateneingang“) wird in diesem Kode-Element | |
+| Bei diesem Element handelt es sich um ein Kode-Element, mit dem Kodewerte angegeben | <function_cd V="DtE" S="1.2.276.0.76.2.2.105 XML-Code 15 /ehd/header/intended_recipient/function_cd   4.8.3 Generell können Persondaten in diesem Element untergebracht werden. Dieses Element wird |
+
+* Version 1.41
 
 V="RECEIVER" S="1.2.276.0.76.2.2.102 function_cd (Rolle/Funktion der Empfänger) beschrieben. werden können. Der Datentyp ist v_s_string_typ sind, die für Kode-Elemente üblich sind. person (Persondaten) an mehreren Stellen, wo Personangaben übermittelt werden sollen, wiederverwendet.  Abbildung 6 /ehd/header/.../person Das Element hat folgende Attribute: " SV="1.0" DN="Empfänger"/> , in dem Attribute und Elemente definiert " SV="1.0" DN=”Dateneingang”/>
 
@@ -1050,8 +1086,8 @@ V="RECEIVER" S="1.2.276.0.76.2.2.102 function_cd (Rolle/Funktion der Empfänger)
 | hier hinterlegt. Damit ist der direkter Bezug der Person zu der Organi- | terlegt. |
 |---|---|
 | unter den die Person erreichbar ist, wird hier hinterlegt. | <local_header> |
-| person_name (0..1) organization.nm (0..n) addr (0..n) telecom (0..n) local_header(0..n) | |
-| attributs | Name   Type   Use   Default   Fixed   Annotation |
+| person_name (0..1)  organization.nm (0..n) addr (0..n)  telecom (0..n)  local_header(0..n) | |
+| attributs | Name    Type    Use    Default    Fixed    Annotation |
 
 <person>
 
@@ -1101,6 +1137,8 @@ gen. Zusätzlich im RTV-Attribut kann die Version der Schlüsseltabelle angegebe
 
 ### Es ist empfehlenswert die Version der Schlüsseltabelle aus folgenden Gründen immer anzu- geben:
 
+* Version 1.41
+
 <id> Die Identifikation einer Person.  <person_name> Angabe zu dem Namen einer Person wird hier hinterlegt. <organization.nm> Angabe zu dem Organisationsnamen, zu der die Person zugehört, wird sation vorhanden und die Notwendigkeit die Organisation noch mal im <organization>  - Element anzugeben entfällt. <addr> Angabe zu der Adresse, in der die Person erreichbar ist, wird hier hin- <telecom> Angabe zu den Telekommunikationskontakten (mail, fax, tel. usw...),  - Element wird in  local_header (Platz für lokale Elementdefinitionen) erklärt.
 
 ---
@@ -1124,7 +1162,9 @@ Das Element hat folgende Attribute:
 | Kardinalität 0..1 |  |
 |---|---|
 | children | nm (1..1) |
-| attributs | Name   Type   Use   Default   Fixed   Annotation |
+| attributs | Name    Type    Use    Default    Fixed    Annotation |
+
+* Version 1.41
 
 
 ---
@@ -1161,7 +1201,7 @@ werden.
 
 Ein Trennzeichen hat nur die Bedeutung, genau so gedruckt zu werden, wie es  im Namen vorkommt. Ein Trennzeichen hat keine führenden und nachfolgen- den Leerzeichen.
 
-| attributs | Name   Type   Use   Default   Fixed   Annotation V   xs:string   required           QUAL   xs:NMTOKENS  optional |
+| attributs | Name    Type    Use    Default    Fixed    Annotation  V    xs:string    required               QUAL    xs:NMTOKENS   optional |
 |---|---|
 
 V: hier wird der Wert eingetragen
@@ -1189,7 +1229,9 @@ Als Beispiel für den Namen des Arztes „Dr. med. Ernst August Graf von Oberber
 
 </nm>
 
-Adelszusatz zum Element PFX, z.B. „Gräfin“ und „von“ (mehrere **XML-Code 18 /ehd/header/…/person/person_name/nm**
+**XML-Code 18 /ehd/header/…/person/person_name/nm**
+
+Adelszusatz zum Element PFX, z.B. „Gräfin“ und „von“ (mehrere * Version 1.41
 
 
 ---
@@ -1202,7 +1244,7 @@ Das Element hat folgende Attribute:
 
 | Kardinalität | 0..n |
 |---|---|
-| attributs | Name   Type   Use   Default   Fixed   Annotation V   xs:string   required |
+| attributs | Name    Type    Use    Default    Fixed    Annotation  V    xs:string    required |
 
 V: hier wird der Wert eingetragen
 
@@ -1217,6 +1259,8 @@ Die Adresse wird in diesem Element erfasst.
 **Abbildung 8 /ehd/header/.../person/addr**
 
 Dieses Element kann folgende Kindelemente enthalten:
+
+* Version 1.41
 
 ***<organization>*** - Element anzugeben, entfällt.
 
@@ -1263,7 +1307,7 @@ Das Element hat folgende Attribute:
 
 | Kardinalität | 0..n |
 |---|---|
-| attributs | Name   Type   Use   Default   Fixed   Annotation V   xs:string   required |
+| attributs | Name    Type    Use    Default    Fixed    Annotation  V    xs:string    required |
 
 V: hier wird der Wert eingetragen
 
@@ -1289,9 +1333,11 @@ Das Element hat folgende Attribute:
 
 | Kardinalität | 0..n |
 |---|---|
-| attributs | Name   Type   Use   Default   Fixed   Annotation V   xs:string   required |
+| attributs | Name    Type    Use    Default    Fixed    Annotation  V    xs:string    required |
 
 V: hier wird der Wert eingetragen
+
+* Version 1.41
 
 
 ---
@@ -1322,8 +1368,10 @@ Das Element hat folgende Attribute:
 
 | Kardinalität | 0..n |
 |---|---|
-| children | id (0..1) organization.nm (0..n) addr (0..n) telecom (0..n) local_header(0..n) |
-| attributs | Name   Type   Use   Default   Fixed   Annotation |
+| children | id (0..1)  organization.nm (0..n) addr (0..n)  telecom (0..n)  local_header(0..n) |
+| attributs | Name    Type    Use    Default    Fixed    Annotation |
+
+* Version 1.41
 
 -0" USE="WP <telecom V="fax:(0221)4449 -400" USE="WP <telecom V="mailto:info@kbv.de <telecom V="http://www.kbv.de" USE="WP <telecom V="ftp://ftp.kbv.de" USE="WP
 
@@ -1397,6 +1445,8 @@ gen. Zusätzlich im RTV-Attribut kann die Version der Schlüsseltabelle angegebe
 
 ### Siehe telecom (Kommunikationsmöglichkeiten)
 
+* Version 1.41
+
 
 ---
 
@@ -1412,8 +1462,8 @@ Das Element hat folgende Attribute:
 
 | Kardinalität 0..n |  |
 |---|---|
-| children | originator.type_cd (0..1) function_cd (0..1) participation_tmr (0..1) person (0..n) organization (0..n) local_header(0..n) |
-| attributs | Name   Type   Use   Default   Fixed   Annotation |
+| children | originator.type_cd (0..1)  function_cd (0..1)  participation_tmr (0..1)  person (0..n)  organization (0..n) local_header(0..n) |
+| attributs | Name    Type    Use    Default    Fixed    Annotation |
 
 ***<originator.type_cd>***
 
@@ -1427,6 +1477,8 @@ gelegt.
 
 ***<person>*** der Urheber kann eine Person sein. Mehrere Personen können zu einem Ur- hebertyp angegeben werden.
 
+* Version 1.41
+
 
 ---
 
@@ -1435,6 +1487,8 @@ gelegt.
 ### einem Urhebertyp angegeben werden.
 
 ***<local_header>*** - Element wird in local_header (Platz für lokale Elementdefinitionen) erklärt.
+
+* Version 1.41
 
 
 ---
@@ -1515,6 +1569,8 @@ war. Der Zeitraum wird so angegeben, wie der Gültigzeitraum des Elements <servi
 
 **XML-Code 26 /ehd/header/originator/participation_tmr**
 
+* Version 1.41
+
 
 ---
 
@@ -1538,8 +1594,10 @@ Das Element hat folgende Attribute:
 
 | Kardinalität 1..n |  |
 |---|---|
-| children | provider.type_cd (0..1) function_cd (0..1) participation_tmr (0..1) person (0..n) organization (0..n) local_header(0..n) |
-| attributs | Name   Type   Use   Default   Fixed   Annotation |
+| children | provider.type_cd (0..1)  function_cd (0..1)  participation_tmr (0..1)  person (0..n)  organization (0..n)  local_header(0..n) |
+| attributs | Name    Type    Use    Default    Fixed    Annotation |
+
+* Version 1.41
 
 ***<provider>***
 
@@ -1624,6 +1682,8 @@ werden können. Der Datentyp ist **v_s_string_typ**, in dem Attribute und Elemen
 
 ### Die genauere Rolle/Funktion des Senders („Datenausgang“) wird in diesem Kode-Element  beschrieben.
 
+* Version 1.41
+
 
 ---
 
@@ -1657,6 +1717,8 @@ Das optionale Element ***<scope>*** beschreibt den Geltungsbereich der Daten. **
 
 ter Linie bei Stammdateien relevant, die nur einen begrenzten Geltungsbereich haben, wenn  z.B. von der KBV Daten verteilt werden, die nur in bestimmten KV-Regionen gelten. Die nä- heren Angaben stehen in den Kindelementen.
 
+* Version 1.41
+
 
 ---
 
@@ -1666,8 +1728,8 @@ Das Element hat folgende Attribute:
 
 | Kardinalität 0..n |  |
 |---|---|
-| children | id (1..n) scope.type_cd (1..1) scope.nm (0..n) local_header (0..n) |
-| attributs | Name   Type   Use   Default   Fixed   Annotation |
+| children | id (1..n)  scope.type_cd (1..1)  scope.nm (0..n)  local_header (0..n) |
+| attributs | Name    Type    Use    Default    Fixed    Annotation |
 
 ***<id>***  Die Identifikation des Geltungsbereiches.
 
@@ -1692,6 +1754,8 @@ net werden. Der Typ wird in diesem Kode-Element festgelegt.
 </scope>
 
 **XML-Code 31 /ehd/header/scope**
+
+* Version 1.41
 
 
 ---
@@ -1726,7 +1790,7 @@ Das Element hat folgende Attribute:
 
 | Kardinalität | 0..n |
 |---|---|
-| attributs | Name   Type   Use   Default   Fixed   Annotation V   xs:string   required |
+| attributs | Name    Type    Use    Default    Fixed    Annotation  V    xs:string    required |
 
 V: hier wird der Wert eingetragen
 
@@ -1734,22 +1798,25 @@ V: hier wird der Wert eingetragen
 
 **XML-Code 34 /ehd/header/scope/scope.nm**
 
+* Version 1.41
+
 
 ---
 
 | Kardinalität 1..1 |  |
 |---|---|
-| 4.12 | Das optionale Element Bei diesem Element handelt es sich um ein Kode-Element, mit dem Kodewerte angegeben Die Werte für das V-Attribut sind je nach konkreter Schnittstelle frei wählbar. Im S-Attribut |
-| <state V="E01002" S="1.2.276.0.76.2.2.108 | XML-Code 35 /ehd/header/state  4.13 Die Daten der XML-Datei entsprechen einer Schnittstellenbeschreibung, welche normaler-   Abbildung 13 /ehd/header/interface |
+| 4.12 | Das optionale Element  Bei diesem Element handelt es sich um ein Kode-Element, mit dem Kodewerte angegeben  Die Werte für das V-Attribut sind je nach konkreter Schnittstelle frei wählbar. Im S-Attribut |
+| <state V="E01002" S="1.2.276.0.76.2.2.108 | XML-Code 35 /ehd/header/state   4.13  Die Daten der XML-Datei entsprechen einer Schnittstellenbeschreibung, welche normaler-     Abbildung 13 /ehd/header/interface |
 
-state (Bearbeitungszustand) <state>  beschreibt in seinem V-Attribut den Bearbeitungszustand. Es wird damit ermöglicht, die XML-Dateien zu kennzeichnen, die einen Bearbeitungsschritt durchlaufen haben (z.B. Prüfung, Filterung).  werden können. Der Datentyp ist v_s_string_typ sind, die für Kode-Elemente üblich sind. steht die OID der jeweiligen Schlüsseltabelle.  , in dem Attribute und Elemente definiert " DN="EingangspruefungOK "/> interface (Beschreibung der Schnittstelle) weise aus Strukturinformation und ggf. Kontextregeln besteht. Im Element <interface>  wird auf die Beschreibung der zu den Daten gehörenden Schnittstelle verwiesen. Das Element hat folgende Attribute:
+state (Bearbeitungszustand) <state>  beschreibt in seinem V-Attribut den Bearbeitungszustand. Es wird damit ermöglicht, die XML-Dateien zu kennzeichnen, die einen Bearbeitungsschritt durchlaufen haben (z.B. Prüfung, Filterung).  werden können. Der Datentyp ist v_s_string_typ sind, die für Kode-Elemente üblich sind. steht die OID der jeweiligen Schlüsseltabelle.  , in dem Attribute und Elemente definiert " DN="EingangspruefungOK "/> interface (Beschreibung der Schnittstelle) weise aus Strukturinformation und ggf. Kontextregeln besteht. Im Element <interface>  wird auf die Beschreibung der zu den Daten gehörenden Schnittstelle verwiesen. Das Element hat folgende Attribute: * Version 1.41
+
 
 ---
 
 | <id> | <interface.nm> |
 |---|---|
-| children | id (1..1) interface.nm(1..1) version (1..1) originator (0..n) description (0..1) local_header (0..n) |
-| attributs | Name   Type   Use   Default   Fixed   Annotation |
+| children | id (1..1)  interface.nm(1..1)  version (1..1)  originator (0..n)  description (0..1)  local_header (0..n) |
+| attributs | Name    Type    Use    Default    Fixed    Annotation |
 
 ***<version>***
 
@@ -1821,6 +1888,8 @@ gen. Zusätzlich im RTV-Attribut kann die Version der Schlüsseltabelle angegebe
 
 ### Gründe für die Angabe der Schlüsseltabellenversion siehe Seite:25.
 
+* Version 1.41
+
 Die Identifikation der Schnittstelle.  Angabe zu dem Namen der Schnittstelle
 
 ---
@@ -1839,7 +1908,7 @@ Das Element hat folgende Attribute:
 
 | Kardinalität | 1..1 |
 |---|---|
-| attributs | Name   Type   Use   Default   Fixed   Annotation V   xs:string   required |
+| attributs | Name    Type    Use    Default    Fixed    Annotation  V    xs:string    required |
 
 V: hier wird der Wert eingetragen
 
@@ -1857,7 +1926,7 @@ Das Element hat folgende Attribute:
 
 | Kardinalität | 1..1 |
 |---|---|
-| attributs | Name   Type   Use   Default   Fixed   Annotation V   xs:nonNegativeInteger   required |
+| attributs | Name    Type    Use    Default    Fixed    Annotation  V    xs:nonNegativeInteger    required |
 
 V: hier wird der Wert eingetragen
 
@@ -1870,6 +1939,8 @@ V: hier wird der Wert eingetragen
 Im Element ***<originator>*** sind alle relevanten Informationen zu der die Schnittstelle definieren-
 
 den Instanz angegeben. Die Struktur dieses Elements ist bei originator (Urheber) beschrie- ben.
+
+* Version 1.41
 
 
 ---
@@ -1884,7 +1955,7 @@ Das Element hat folgende Attribute:
 
 | Kardinalität | 0..1 |
 |---|---|
-| Attributs | Name   Type   Use   Default   Fixed   Annotation V   xs:string   required           URL   xs:anyURI   optional |
+| Attributs | Name    Type    Use    Default    Fixed    Annotation  V    xs:string    required               URL    xs:anyURI    optional |
 
 V:
 
@@ -1904,7 +1975,7 @@ Das Element hat folgende Attribute:
 
 | Kardinalität | 0..n |
 |---|---|
-| attributs | Name   Type   Use   Default   Fixed   Annotation Ignore   ignore_typ   optional markup        descriptor   xs:string   optional         Render   xs:render     optional |
+| attributs | Name    Type    Use    Default    Fixed    Annotation  Ignore    ignore_typ    optional  markup           descriptor    xs:string   optional             Render    xs:render      optional |
 
 ignore: Dieses Attribut kann einer Anwendung (z.B. stylesheet) Hinweis geben, ob  Daten innerhalb des ***<local_header>***-Elements ignoriert werden können. Mit
 
@@ -1918,7 +1989,9 @@ render: In diesem Attribut wird vorgegeben, wie die Inhalte durch Anwendungen (z
 
 ***<local_header>***-Elements:
 
-Die Grundstruktur des -Element ignoriert werden. Mit
+Die Grundstruktur des
+
+* Version 1.41 -Element ignoriert werden. Mit
 
 ***<lo-***
 
@@ -1944,6 +2017,8 @@ beliebige Element verwendet werden. Dazu wird der Basistyp: local_header-cont.mo
 </local_header>
 
 **XML-Code 41 /ehd/header/local_header**
+
+* Version 1.41
 
 
 ---
@@ -1971,6 +2046,8 @@ nicht zur Verfügung.
 ## 5.2 Möglichkeiten body zu signieren mit XML-
 
 Diese Möglichkeit wird noch geprüft und steht in der vorliegenden Version der ehd-Richtlinie  nicht zur Verfügung.
+
+* Version 1.41
 
 **Abbildung 15 /ehd/body**
 
@@ -2029,6 +2106,8 @@ werden soll, weil z.B. im body-Bereich auf diese Code-Wert-Paare referenziert wi
 
 **XML-Code 42 /ehd/keytabs**
 
+* Version 1.41
+
 
 ---
 
@@ -2043,7 +2122,7 @@ Das Element hat folgende Attribute:
 | Kardinalität | 1..n |
 |---|---|
 | children | key (1..n) |
-| attributs | Name   Type   Use   Default   Fixed   Annotation S   xs:string   required          SN   xs:string   required           SV   xs:string   required |
+| attributs | Name    Type    Use    Default    Fixed    Annotation  S    xs:string    required              SN    xs:string    required               SV    xs:string    required |
 
 S: OID der Schlüsseltabelle, in der kodierte Werte verwaltet werden
 
@@ -2073,7 +2152,7 @@ Das Element hat folgende Attribute:
 
 | Kardinalität | 1..n |
 |---|---|
-| attributs | Name   Type   Use   Default   Fixed   Annotation V   xs:string   required           DN   xs:string   required           S   xs:string   required          SV   xs:string   required           ##local |
+| attributs | Name    Type    Use    Default    Fixed    Annotation  V    xs:string    required               DN    xs:string    required               S    xs:string    required              SV    xs:string    required               ##local |
 
 V: Kürzel, kodierter Wert
 
@@ -2084,6 +2163,8 @@ S: OID der Schlüsseltabelle
 SV : Version der Schlüsseltabelle
 
 ##local: weitere Attribute, das können weitere Spalten der Tabelle sein.
+
+* Version 1.41
 
 " SV="1.0"/>
 
@@ -2148,6 +2229,8 @@ Name
 attributs  V
 
 S  SV  ##local
+
+* Version 1.41
 
 Type  xs:string  xs:string  xs:string
 
@@ -2238,6 +2321,8 @@ Annotation
 
 ### W3C-Seite: [1]
 
+* Version 1.41
+
 
 ---
 
@@ -2246,6 +2331,7 @@ Annotation
 | Richtlinie | ehd - | eHealthData |  |
 |  | KBV_ITA_VGEX_eHD | * Version | 1.41 |
 
+* Version 1.41
 
 ---
 
@@ -2292,6 +2378,8 @@ Elements ***<intended_recipient>*** Wenn der Typecode den Wert für „Empfänge
 **tf+** ........... timeframe - Zeitraum auf den sich die Daten beziehen, Folgende Notation ist  erlaubt:
 
 YYYY oder  YYYYqQ oder  YYYYmMM oder
+
+* Version 1.41
 
 ***<document_type_cd***
 
@@ -2366,6 +2454,8 @@ Die Extension .zip ist zulässig, wenn die ehd-Datei mit einem zip-Algorithmus k
 
 Die Extension .kry ist zulässig, wenn die ehd-Datei mit einem Verschlüsselungs-Algorithmus  verschlüsselt wurde. Wenn es Einschränkungen bei der Art und Weise des verschlüsseln  gibt, muss das in der konkreten Schnittstellenbeschreibung der ehd-Schnittstelle erläutert  werden.
 
+* Version 1.41
+
 
 ---
 
@@ -2384,6 +2474,8 @@ ehd.sdkt_01.12_kbv_ re+allkv_tf+2004q4.xml.zip.kry
 ehd.sdebm2000plus_01.02_kbv_ re+allkv_tf+2005q1.xml.zip
 
 Die vorgegebene Namensgebung betrifft ehd-Dateien, gezippte Archive können einer ande- ren Konvention entsprechen (KV-DTA Richtlinie).
+
+* Version 1.41
 
 
 ---
@@ -2427,6 +2519,8 @@ Implizite Typdefinitionen sind bei einfachen Typen dann sinnvoll, wenn davon aus
 Durch die Verwendung von expliziten Typdefinitionen (benannte Typen) können diese Typen  wiederverwendet werden, indem neue Schemadefinitionen aus vorhandenen Typen zusam- mengesetzt werden.
 
 Zu diesem Zweck werden Typen, die auch in anderen Projekten im Gesundheitsbereich ver- wendet werden können, nicht im speziellen Schema selbst definiert, sondern in die ehd- Typbibliothek ausgelagert. Diese wird dann durch eine ***<xs:import>*** - Anweisung eingebunden.
+
+* Version 1.41
 
 
 ---
@@ -2505,6 +2599,8 @@ Schlüsseltabellen auszuweichen. Dazu werden Kode-Elemente mit den Verweisen auf
 
 geren Zeitraum normalerweise unverändert bleiben. Solche Schlüsseltabellen können entwe-
 
+* Version 1.41
+
 
 ---
 
@@ -2545,6 +2641,8 @@ nicht alle Programmiersprachen die automatische Auflösung in einzelne Token unt
 im Schema:
 
 <xs:element name="notallowed" type="xs:NMTOKENS"/>
+
+* Version 1.41
 
 
 ---
@@ -2625,6 +2723,8 @@ im Schema:
 
 <header></header>
 
+* Version 1.41
+
 
 ---
 
@@ -2684,6 +2784,8 @@ Jeder Namespace muss innerhalb der ehd-Namespacehierarchie eindeutig sein. Die b
 
 ### Qualified Name: <kts:vknr></kts:vknr>
 
+* Version 1.41
+
 
 ---
 
@@ -2733,6 +2835,8 @@ Detaillierte Anmerkungen zum Erstellen der Bereiche Root, Header und Body:
 
 -  Das ***<keytabs >***-Element ist unverändert zu übernehmen.
 
+* Version 1.41
+
 
 ---
 
@@ -2767,6 +2871,8 @@ Weitere Bibliotheken z.B. von „SCIPHOX“ oder eigendefinierte Schemas können
 <xs:include schemaLocation="keytabs.xsd"/>
 
 <xs:element name="ehd" type="xy_root_typ">
+
+* Version 1.41
 
 
 ---
@@ -2867,6 +2973,8 @@ im Root-Bereich nicht erlaubt ist. Das Weglassen dieser XML-Prüfung könnte den
 
 **XML-Code 47 xy_header.xsd**
 
+* Version 1.41
+
 
 ---
 
@@ -2934,40 +3042,50 @@ Kriterien sofort vom Parser erkannt. Dieses Vorgehen trägt viel zur Qualitätss
 
 ### werden alle Flüchtigkeitsfehler beseitigt und der Nutzen der automatischen Sicherstellung der  Schemaqualität wird die Entwicklungsschwierigkeiten überwiegen.
 
+* Version 1.41
+
 
 ---
 
-| **10** |  | **Dokumentation** |
-|---|---|---|
-| Für | jede | definierte |
-|  | Schnittstelle | vollständig, |
-| Es | ist | erwünscht, dass |
-| **11** |  | **Versionierung** |
-| **11.1** |  | **Versionierung** |
-| Bei | jeglicher | Änderung |
-|  | zuzählen. | Bei größeren |
-| z.B. | bei | einer großen |
-|  | Änderungen | ausschließlich |
-| keiner | neuen |  |
-| **12** |  | **Registrierung** |
-| Um | zu | vermeiden, dass |
-|  | versehentlich | schon |
-| triert | werden. |  |
-| Dazu | muss | lediglich |
-|  |  | ehd-register@kbv.de |
+# 10 Dokumentation
 
-|  | - | Name der |
-|---|---|---|
-|  | - | Definierende |
-|  | - |  |
-|  | - | Namespace |
-|  | - | evtl. |
-| **13** |  |  |
-| Die | ehd-Richtlinie | ist |
-| Bei | Anregungen | zur |
-| email | an: | ehd@kbv.de |
+Für jede definierte ehd-Schnittstelle muss es eine Schnittstellenbeschreibung geben, die die  Schnittstelle vollständig, eindeutig und widerspruchsfrei beschreibt.
 
-Für jede definierte ehd-Schnittstelle muss es eine Schnittstellenbeschreibung geben, die die Schnittstelle vollständig, eindeutig und widerspruchsfrei beschreibt.  Es ist erwünscht, dass diese Schnittstellenbeschreibung über das Internet zugänglich ist.  Versionierung der Schnittstelle Bei jeglicher Änderung an einer Schnittstelle ist vor der Freigabe die Versionsnummer hoch- zuzählen. Bei größeren Änderungen kann auch ein Nummernbereich übersprungen werden, z.B. bei einer großen Revision von 1.34 auf 2.00. Änderungen ausschließlich an der Dokumentation ohne Änderung der Schnittstelle führen zu keiner neuen Schnittstellen-Version wohl aber zu einer Beschreibungsversion. Registrierung einer Schnittstelle Um zu vermeiden, dass eine Satzart zufällig mehrfach definiert wird, bzw. eine Bezeichnung versehentlich schon verwendet wurde, muss jede Satzart bzw. der Name jeder Satzart regis- triert werden.  Dazu muss lediglich eine formlose eMail mit folgendem Inhalt an die emailadresse  ehd-register@kbv.de geschickt werden:  Name der Satzart, bzw. der Schnittstelle Definierende Instanz (Organisation, Person),  Kurzbeschreibung,  evtl. Link auf Schnittstellendefinition (empfohlen) Weiterentwicklung Die ehd-Richtlinie ist bewusst so gestaltet, dass sie nicht an eine Institution gebunden ist. Bei Anregungen zur Erweiterung, Änderung, Korrektur dieser Richtlinie senden Sie bitte eine email an: ehd@kbv.de
+Es ist erwünscht, dass diese Schnittstellenbeschreibung über das Internet zugänglich ist.
+
+# 11 Versionierung
+
+## 11.1 Versionierung der Schnittstelle
+
+Bei jeglicher Änderung an einer Schnittstelle ist vor der Freigabe die Versionsnummer hoch- zuzählen. Bei größeren Änderungen kann auch ein Nummernbereich übersprungen werden,  z.B. bei einer großen Revision von 1.34 auf 2.00.
+
+Änderungen ausschließlich an der Dokumentation ohne Änderung der Schnittstelle führen zu  keiner neuen Schnittstellen-Version wohl aber zu einer Beschreibungsversion.
+
+# 12 Registrierung einer Schnittstelle
+
+Um zu vermeiden, dass eine Satzart zufällig mehrfach definiert wird, bzw. eine Bezeichnung  versehentlich schon verwendet wurde, muss jede Satzart bzw. der Name jeder Satzart regis- triert werden.
+
+Dazu muss lediglich eine formlose eMail mit folgendem Inhalt an die emailadresse
+
+[ehd-register@kbv.de](mailto:ehd-register@kbv.de) geschickt werden:
+
+- Name der Satzart, bzw. der Schnittstelle
+
+- Definierende Instanz (Organisation, Person),
+
+- Kurzbeschreibung,
+
+- Namespace
+
+- evtl. Link auf Schnittstellendefinition (empfohlen)
+
+# 13 Weiterentwicklung
+
+Die ehd-Richtlinie ist bewusst so gestaltet, dass sie nicht an eine Institution gebunden ist.
+
+Bei Anregungen zur Erweiterung, Änderung, Korrektur dieser Richtlinie senden Sie bitte eine  email an: [ehd@kbv.de](mailto:ehd@kbv.de)
+
+* Version 1.41
 
 
 ---
@@ -3025,3 +3143,5 @@ URL:[http://www.w3.org/TR/xmlschema](http://www.w3.org/TR/xmlschema)-2/
 | 1.2.276.0.76.5.109 | Schnittstelle | interface/id |  | |
 
 **Tabelle 6 Schlüsseltabellen**
+
+* Version 1.41

@@ -1,4 +1,4 @@
-|  | IT in der Arztpraxis Schnittstellenbeschreibung [KBV_ITA_VGEX_Schnittstelle_eHKS] |
+|  | IT in der Arztpraxis  Schnittstellenbeschreibung  [KBV_ITA_VGEX_Schnittstelle_eHKS] |
 |---|---|
 |  | Dezernat Digitalisierung |
 |  |  |
@@ -18,7 +18,7 @@ Hautkrebs-Screening (eHKS) und IT 2.33 Datum: 12.08.2019 Kennzeichnung: Öffentl
 |---|---|---|---|---|---|
 | 2.33 | 12.08.2019 KBV |  | Anpassung des Vorkommens von Alter |  | 15 |
 | 2.33 | 06.05.2019 KBV |  | Erweiterung des Wertebereichs für den Anpassung an das Perso- | nenstandsgesetz (PstG) | 16 |
-| 2.32 | 27.06.2018 KBV |  | Anpassung an GBA-Beschluss vom Klarstellung |  | 17ff 23ff 31ff |
+| 2.32 | 27.06.2018 KBV |  | Anpassung an GBA-Beschluss vom  Klarstellung |  | 17ff  23ff  31ff |
 | 2.31 | 11.12.2017 KBV |  | Angleichung der Versionsnummern von |  |  |
 | 2.01 | 29.01.2014 KBV |  | Elementenamen entsprechend dem |  | 15 |
 | 2.00 | 16.10.2013 KBV |  | Verwendung des neuen eDoku- Änderung der Schemaversion | Anpassung des eDoku- |  |
@@ -460,7 +460,7 @@ Lediglich die genannten Plausibilitätsprüfungen sind Prüfungen des KBV-Prüfm
 
 # 2 Dateinamen
 
-Das Konzept zur Gestaltung der XML-Dateien für den Datentransfer ist in einem Extradoku- ment beschrieben [KBV_ITA_VGEX_XML-.Schnittstellen]
+Das Konzept zur Gestaltung der XML-Dateien für den Datentransfer ist in einem Extradoku- ment beschrieben [KBV_ITA_VGEX_XML-. Schnittstellen]
 
 Für den Dateinamen einer einzelnen XML-Datei ist folgendes festgelegt: -  Der Präfix setzt sich aus
 
@@ -839,7 +839,7 @@ in Version *v1* verwendet wird. Der Coderahmen für das  sieht demnach folgender
 
 ---
 
-| <content>   <sciphox:sciphox-ssu type="observation" country="de" version="v1">             . . .   </content> |
+| <content>      <sciphox:sciphox-ssu type="observation" country="de" version="v1">              . . .      </content> |
 |---|
 
 **XML-Code 4 – content mit sciphox-SSU (observation)**
@@ -870,7 +870,7 @@ Der Aufbau dieser SSU ist nachfolgend beschrieben:
 
 Der XML-Code zum Element
 
-| <sciphox:sciphox-ssu type="observation" country="de" version="v1">       <> sciphox:Beobachtungen               <>             . . .              </sciphox:Beobachtung>               <sciphox:Beobachtung>  <!-- eventuell mehrere Beobachtung-Elemente-->             . . .              </sciphox:Beobachtung>       </sciphox:Beobachtungen> </sciphox:sciphox-ssu> |
+| <sciphox:sciphox-ssu type="observation" country="de" version="v1">        <>sciphox:Beobachtungen                <>              . . .               </sciphox:Beobachtung>                <sciphox:Beobachtung>  <!-- eventuell mehrere Beobachtung-Elemente-->              . . .               </sciphox:Beobachtung>        </sciphox:Beobachtungen>  </sciphox:sciphox-ssu> |
 |---|
 
 *sciphox-ssu* sieht folgendermaßen aus:
@@ -901,7 +901,7 @@ mäß den Vorgaben des Plausibilitätenkataloges umgesetzt. Das heißt, dass geg
 
 Der XML-Code zum Element *Parameter* sieht folgendermaßen aus:
 
-| <>         . . . </sciphox:Beobachtung> |
+| <>          . . .  </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 6 – Parameter**
@@ -914,7 +914,7 @@ Plausibilitätenkatalog hinterlegt sind (z.B. „Ja“ und „Nein“), werden i
 
 Der XML-Code zum Element *Ergebnistext* sieht folgendermaßen aus:
 
-| <>        . . .       <sciphox:Ergebnistext V=" . . ."/>        . . . </sciphox:Beobachtung> |
+| <>        . . .        <sciphox:Ergebnistext V=" . . ."/>         . . .  </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 7 – Ergebnistext**
@@ -929,7 +929,7 @@ wird die Einheit (z.B. „mm“) eingetragen. Der XML-Code zum Element *Ergebnis
 
 gendermaßen aus:
 
-| <>        . . .       <sciphox:Ergebniswert V=". . ." U=". . ."/>        . . . </sciphox:Beobachtung> |
+| <>        . . .        <sciphox:Ergebniswert V=". . ." U=". . ."/>         . . .  </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 8 – Ergebniswert**
@@ -1019,7 +1019,7 @@ bzw. „EHKS_D“ angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <>   </sciphox:Beobachtung> |
+| <>     </sciphox:Beobachtung> |
 |---|
 
 <sciphox:Parameter DN="Alter"/> <sciphox:Ergebniswert V="37" U="Jahre"/>
@@ -1143,7 +1143,7 @@ oder „Nein“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <>   </sciphox:Beobachtung> |
+| <>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 12 – VerdachtsdiagnoseND**
@@ -1158,7 +1158,7 @@ Ist die Angabe laut Plausibilitätsrichtlinien optional und nicht getätigt word
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <>   </sciphox:Beobachtung> |
+| <>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 13 – Malignes Melanom**
@@ -1173,7 +1173,7 @@ Ist die Angabe laut Plausibilitätsrichtlinien optional und nicht getätigt word
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <>   </sciphox:Beobachtung> |
+| <>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 14 – Basalzellkarzinom**
@@ -1206,7 +1206,7 @@ Ist die Angabe laut Plausibilitätsrichtlinien optional und nicht getätigt word
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <>   </sciphox:Beobachtung> |
+| <>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 15 – Spinozelluläres Karzinom**
@@ -1221,7 +1221,7 @@ Ist die Angabe laut Plausibilitätsrichtlinien optional und nicht getätigt word
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <>   </sciphox:Beobachtung> |
+| <>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 16 – anderer Hautkrebs**
@@ -1234,7 +1234,7 @@ Ist die Angabe laut Plausibilitätsrichtlinien optional und nicht getätigt word
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <>   </sciphox:Beobachtung> |
+| <>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 17 – sonstiger dermatologisch abklärungsbedürftiger Befund**
@@ -1267,7 +1267,7 @@ e-
 
 ---
 
-| <>   </sciphox:Beobachtung> |
+| <>     </sciphox:Beobachtung> |
 |---|
 
 #### XML-Code 18 – Screening-Teilnehmer wird an einen Dermatologen überwiesen
@@ -1614,7 +1614,7 @@ oder „Nein“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <>   </sciphox:Beobachtung> |
+| <>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 25 – Überweisender Arzt hat HKS durchgeführt**
@@ -1732,7 +1732,7 @@ oder „Nein“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <>   </sciphox:Beobachtung> |
+| <>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 27 – Angabe über die Verdachtsdiagnose liegt vor**
@@ -1741,7 +1741,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 Sofern der Wert „Ja“ zu Parameter „Angabe über die Verdachtsdiagnose liegt vor“ angegeben  wird, muss dieser Beobachtungsblock vorhanden sein. Sofern der Wert „Nein“ zu Parameter  „Angabe über die Verdachtsdiagnose liegt vor“ angegeben wird, entfällt dieser Beobach- tungsblock komplett.
 
-Struktur siehe Kapitel6.1.4.2 .
+Struktur siehe Kapitel 6.1.4.2 .
 
 #### 7.1.5.3 Basalzellkarzinom
 
@@ -1891,7 +1891,7 @@ oder „Nein“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <>   </sciphox:Beobachtung> |
+| <>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 29 – sonstiger mit Biopsie abklärungsbedürftiger Befund**
@@ -1986,7 +1986,7 @@ Bei diesem Parameter enthält das Element  oder „Nein“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <>   </sciphox:Beobachtung> |
+| <>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 31 – Biopsie zu Verdachtsdiagnose entnommen oder Exzision durchgeführt**
@@ -1997,7 +1997,7 @@ Bei diesem Parameter enthält das Element  entnommenen Biopsien oder Exzisionen.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <>   </sciphox:Beobachtung> |
+| <>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 32 – Anzahl der entnommenen Biopsien/Exzisionen**
@@ -2008,7 +2008,7 @@ Bei diesem Parameter enthält das Element  oder „Nein“. Wird keine Angabe ge
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <>   </sciphox:Beobachtung> |
+| <>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 33 – anderweitige Therapie oder Diagnostik vorgenommen bzw. eingeleitet**
@@ -2039,7 +2039,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ---
 
-| <>   </sciphox:Beobachtung> |
+| <>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 34 – derzeit keine weitere Therapie/Diagnositk**
@@ -2184,7 +2184,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 innerhalb des Blocks enthält minimal ein, ma-
 
-| <>             </sciphox:Beobachtung> |
+| <>                         </sciphox:Beobachtung> |
 |---|
 
 im *V*-Attribut entweder „Ja“
@@ -2210,7 +2210,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ---
 
-| <>   </sciphox:Beobachtung> |
+| <>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 37 – Klassifikation**
@@ -2225,7 +2225,7 @@ Wird zu diesem Parameter keine Angabe gemacht, entfällt dieser Beobachtungsbloc
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <>   </sciphox:Beobachtung> |
+| <>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 38 – Tumordicke (Breslow)**
@@ -2261,7 +2261,7 @@ und „vertikaler Tumordurchmesser (histologisch)“ fest vorgegeben.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <>             </sciphox:Beobachtung> |
+| <>                         </sciphox:Beobachtung> |
 |---|
 
 im *V*-Attribut entweder „Ja“
@@ -2282,7 +2282,7 @@ len Tumordurchmesser“ (Wertebereich: 0,1 – 999,9, Format: [n][n]n[,][n]) und
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <>   </sciphox:Beobachtung> |
+| <>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 40 – horizontaler Tumordurchmesser (klinisch)**
@@ -2305,7 +2305,7 @@ plett.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <>   </sciphox:Beobachtung> |
+| <>     </sciphox:Beobachtung> |
 |---|
 
 *sciphox:Ergebniswert*
@@ -2330,7 +2330,7 @@ ben.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <>             </sciphox:Beobachtung> |
+| <>                         </sciphox:Beobachtung> |
 |---|
 
 *sciphox:Beobachtungen*
@@ -2363,7 +2363,7 @@ im *V*-Attribut entweder „Kar-
 
 ---
 
-| <>   </sciphox:Beobachtung> |
+| <>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 43 – Klassifikation**
@@ -2380,7 +2380,7 @@ plett.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <>   </sciphox:Beobachtung> |
+| <>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 44 – Grading**
@@ -2407,7 +2407,7 @@ Bei diesem Parameter enthält das Element  oder „Nein“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <>   </sciphox:Beobachtung> |
+| <>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 45 – atypischer Nävuszellnävus**
@@ -2428,7 +2428,7 @@ oder „Nein“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <>   </sciphox:Beobachtung> |
+| <>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 46 – junktionaler, compound, dermaler atypischer Nävuszellnävus**
@@ -2441,7 +2441,7 @@ oder „Nein“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <>   </sciphox:Beobachtung> |
+| <>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 47 – Aktinische Keratose**
@@ -2454,7 +2454,7 @@ oder „Nein“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <>   </sciphox:Beobachtung> |
+| <>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 48 – Andere hier nicht relevante Hautveränderung**

@@ -8,7 +8,7 @@
 
 *Arzneimittelversorgung einbezogenen*  *Produkten*
 
-|  | Anlage 23 zu § 29 Bundesmantelvertrag [EXT_ITA_VGEX_Anforderungskatalog_AVWG] |
+|  | Anlage 23 zu § 29 Bundesmantelvertrag  [EXT_ITA_VGEX_Anforderungskatalog_AVWG] |
 |---|---|
 |  | Version |
 |  |  |
@@ -22,9 +22,7 @@
 
 ---
 
-| **Inkrafttreten** |  |  |  |  |
-|---|---|---|---|---|
-| Der Anforderungskatalog | in der | Version 5.8 tritt | am 01.10.2025 | in Kraft. |
+# Inkrafttreten
 
 Der Anforderungskatalog in der Version 5. 8 tritt am 01.10.2025 in Kraft.
 
@@ -36,16 +34,16 @@ Der Anforderungskatalog in der Version 5. 8 tritt am 01.10.2025 in Kraft.
 | Version |  | Änderung | Begründung | Seite |
 | 5.8 | 01.10.2025 | Inkrafttreten |  |  |
 |  |  | P2-110 | Aufnahme des neuen Merkmals 023, | 11, 30 |
-|  |  | P2-110 | Erweiterung der Kapitel „ | 18  19 |
+|  |  | P2-110 | Erweiterung der Kapitel „ | 18    19 |
 |  |  | K2-155, | Klarstellung zum Thema Hausapotheke | 21, 23 |
 |  |  | P3-141 | Klarstellung zum Thema Rote-Handbriefe | 32 |
-|  |  | P3-621,  O3-622,  P3-624,  P3-700,  P3-720 | Klarstellung der Anforderungen | 46, 47, 48, 55, 57 |
+|  |  | P3-621,   O3-622,   P3-624,   P3-700,   P3-720 | Klarstellung der Anforderungen | 46, 47, 48,  55, 57 |
 |  |  | P3-625 | Klarstellung der Dosierungsangabe | 49 |
 |  |  | P3-630 | Klarstellung der Ersatzverordnung | 51 |
 |  |  | P3-730 | Überarbeitung der Anforderung | 61 |
 |  |  | P3-731 | Klarstellung der Anforderung | 64 |
 | 5.7 | 01.04.2025 | Inkrafttreten | Verpflichtende Einbindung der | 17 |
-|  |  | P2-110 | Aufnahme des vertraulichen | 12, 23, 27, 29 |
+|  |  | P2-110 | Aufnahme des vertraulichen | 12, 23, 27,  29 |
 |  |  | P2-110 | Anzeige des Merkmales 410 | 19, 30 |
 | 5.6 | 01.10.2023 | Inkrafttreten | Implementierung und Anzeige der Rote- | 2 |
 |  |  | P2-110 | Implementierung der Rote-Hand-Briefe und | 16-17 |
@@ -1574,11 +1572,11 @@ Unter Ha usapotheke sind praxisbezogene BSNR/ NBSNR oder arztbezogene
 
 Produktlisten zu verstehen, aus denen Verordnungen vorgenommen werden können . Eine  Verordnungssoftware kann eine bis mehrere dieser Produktlisten enthalten. Daher handelt es
 
-sich bei den folgenden Anforderungen um konditionale Pflichtfunktionen. Die Produktlisten  werden in der Verordnungssoftware gespeichert. Sobald eine Verordnungssoftware eine  Hausapotheke hat, müssen die Funktionen **K2-150** bis **K2-160**
+sich bei den folgenden Anforderungen um konditionale Pflichtfunktionen. Die Produktlisten  werden in der Verordnungssoftware gespeichert. Sobald eine Verordnungssoftware eine  Hausapotheke hat, müssen die Funktionen **K 2-150** bis **K2-160**
 
 | KONDITIONALE PFLICHTFUNKTION | |
 |---|---|
-| K2-150 | Erstinstallation der Verordnungssoftware |
+| K 2-150 | Erstinstallation der Verordnungssoftware |
 
 In der Verordnungssoftware darf die Hausapotheke bei der Erstinstallation keinen Eintrag  enthalten, also nicht vorbelegt sein. Dies gilt nicht bei Übertragung einer bestehenden  Hausapotheke im Rahmen des Wechsels der Verordnungssoftw
 
@@ -1623,7 +1621,7 @@ Um dem Anwender einen einfachen Zugriff auf seine häufig verschriebene geben, k
 
 - definierten Informationen zu speichern
 
-- (3) Für Produkte, die nicht eineindeutig durch eine PZN gekennzeichnet sind  eine Wirkstoffverordnung gemäß O 3-622 verordnet wurden , Anforderung O3-622 definierten Informationen zu speichern
+- (3) Für Produkte, die nicht eineindeutig durch eine PZN gekennzeichnet sind  eine Wirkstoffverordnung gemäß O 3-622 verordnet wurden , Anforderung O 3-622 definierten Informationen zu speichern
 
 - (4) Für Produkte, die nicht eineindeutig durch eine PZN gekennzeichnet sind  eine Rezepturverordnung gemäß O 3-623 verordnet wurden , Anforderung O3-623 definierten Informationen zu speichern
 
@@ -1901,7 +1899,7 @@ Bei einem Verordnungsvorgang bzw. der Auswahl eine r Packung sollen die grundleg
 
 - Auswahl einer konkreten Packung angezeigt werden:
 
-| Merkmal | Inhalt gemäß P2-110 |
+| Merkmal | Inhalt gemäß  P2-110 |
 |---|---|
 | Handelsname | 002, 202, 402, 502, |
 | Darreichungsform | 003, 205, 405, 504, |
@@ -1921,9 +1919,9 @@ Erste Ebene Arzneimitteln; Herstellerangabe oder Vertragspreis bei Medizinproduk
 
 ---
 
-| Merkmal | Inhalt gemäß P2-110 |
+| Merkmal | Inhalt gemäß  P2-110 |
 |---|---|
-| Gesamtzuzahlung des Patienten als Summe von | Wenn Merkmal 038   039 Ansonsten     035 + 036 |
+| Gesamtzuzahlung des Patienten als Summe von | Wenn Merkmal 038    039  Ansonsten      035 + 036 |
 | Kennzeichnung: AVP liegt über/unter/gleich Festbetrag | 034 |
 | Wirkstoff/Wirkstoffe | 004 |
 | Wirkstärke/Wirkstärken | 005 |
@@ -1935,7 +1933,7 @@ Erste Ebene Arzneimitteln; Herstellerangabe oder Vertragspreis bei Medizinproduk
 | - | 053 |
 | - | 055 |
 | - | 052 |
-| - | 008  Keine |
+| - | 008   Keine |
 | - | 063 |
 | Kennzeichnung, ob ein Verordnungsausschluss besteht. Dies ist |  |
 | - | 050 |
@@ -1945,12 +1943,12 @@ Mehrkosten Arzneimittelvereinbarung betroffen ist SGB V für die Krankenkasse de
 
 ---
 
-| Merkmal | Inhalt gemäß P2-110 |
+| Merkmal | Inhalt gemäß  P2-110 |
 |---|---|
 | - | und nicht 053 |
 | - | 056 |
-| Kennzeichnung, falls mindestens ein Rote-Hand-Brief nach Bedingung der Anzeige: - Anzeige: 1. 2. | 350 |
-| Kennzeichnung, falls Schulungsmaterial nach EAMIV vorliegt Anzeige: 1. 2. | 355 |
+| Kennzeichnung, falls mindestens ein Rote-Hand-Brief nach  Bedingung der Anzeige:  -  Anzeige:  1.  2. | 350 |
+| Kennzeichnung, falls Schulungsmaterial nach EAMIV vorliegt  Anzeige:  1.  2. | 355 |
 
 5 Link zum Rote-Hand-Symbol [https://update.kbv.de/ita-update/Verordnungen/Arzneimittel/Logos/rote_hand.zip](https://update.kbv.de/ita-update/Verordnungen/Arzneimittel/Logos/rote_hand.zip)
 
@@ -1987,9 +1985,9 @@ die für die Verordnung wichtig sind, sichtbar sein.
 
 - (1) In der Anzeige der weiteren packungsbezogenen Informationen müssen mindestens  folgende Merkmale nach **P2-110** ohne weitere Anwenderaktion (z.B. Scroll-Vorgänge) - angezeigt werden:
 
-| Merkmal | Inhalt gemäß P2-110 |
+| Merkmal | Inhalt gemäß  P2-110 |
 |---|---|
-| Zuzahlung | Wenn Merkmal 038   039 Ansonsten    035 |
+| Zuzahlung | Wenn Merkmal 038    039  Ansonsten     035 |
 | Mehrkosten | 036 |
 | Festbetragshöhe | 033 |
 | Kennzeichnung: Apothekenpflicht oder Verschreibungspflicht oder | 010 oder 011 oder |
@@ -2003,7 +2001,7 @@ Zweite Ebene Pflichtfunktion zutrifft, dann  BtM oder T-Rezept-Arzneimittel 012 
 
 ---
 
-| Merkmal | Inhalt gemäß P2-110 |
+| Merkmal | Inhalt gemäß  P2-110 |
 |---|---|
 | Kennzeichnung, falls dieses Arzneimittel | 055 |
 | Kennzeichnung, falls dieses Arzneimittel | 056 |
@@ -2912,7 +2910,7 @@ Arzneimittelverordnung genannt) beziehen sich auf den Verordnungsprozess  davon,
 
 | PFLICHTFUNKTION | |
 |---|---|
-| P3-621 | Verordnung aus den Arzneimittelstammdaten |
+| P 3-621 | Verordnung aus den Arzneimittelstammdaten |
 
 Die Verordnungssoftware  Arzneimittelstammdaten (P2-110) umsetzen.
 
@@ -2979,11 +2977,11 @@ auf Grundlage der - Vertragsarzt
 
 - darf daher nicht vorgenommen werden.
 
-- (7) Für die Bedruckung einer papiergebundenen Verordnung ist **P3-721** zu beachten.
+- (7) Für die Bedruckung einer papiergebundenen Verordnung ist **P 3-721** zu beachten.
 
 | OPTIONALE FUNKTION | |
 |---|---|
-| O3-622 | Wirkstoffverordnung |
+| O 3-622 | Wirkstoffverordnung |
 
 Die Verordnungssoftware kann eine strukturierte Wirkstoffverordnung anbieten. Dies gilt nicht
 
@@ -3027,7 +3025,7 @@ Ausstellen.
 
 - Informationen eines Fertigarzneimittels aus den Arzneimittelstammdaten umsetzen.
 
-- (9) Für die Bedruckung einer papiergebundenen Verordnung ist **K3-722** zu beachten.
+- (9) Für die Bedruckung einer papiergebundenen Verordnung ist **K 3-722** zu beachten.
 
 - (10) Eine strukturierte Wirkstoffverordnung darf nur für Arzneimittel (Merkmal 023
 
@@ -3072,7 +3070,7 @@ Die strukturierte Erfassung der notwendigen Informationen für eine Rezeptur sol
 
 | PFLICHTFUNKTION | |
 |---|---|
-| P3-624 | Freitextverordnung |
+| P 3-624 | Freitextverordnung |
 
 Die Verordnungssoftware muss eine Freitextverordnung ermöglichen
 
@@ -3106,11 +3104,11 @@ die in der - umsetzen.
 
 -
 
-- **K3-723** zu beachten.
+- **K 3-723** zu beachten.
 
 abgebildet - der
 
-- **P3-724** zu beachten.
+- **P 3-724** zu beachten.
 
 
 ---
@@ -3119,7 +3117,7 @@ abgebildet - der
 
 | PFLICHTFUNKTION | |
 |---|---|
-| P3-625 | Dosierungsangabe |
+| P 3-625 | Dosierungsangabe |
 
 Die Verordnungssoftware muss die Angabe einer Dosierung auf einem Rezept ermöglichen.
 
@@ -3133,9 +3131,9 @@ verschriebene Arzneimittel unmittelbar an die verschreibende Person abgegeben wi
 
 **Akzeptanzkriterien**
 
-- (1) Die Verordnungssoftware muss bei Verordnungen von verschreibungspflichtigen  Arzneimitteln (Merkmal 011) aus den Arzneimittelstammdaten **P3-621**
+- (1) Die Verordnungssoftware muss bei Verordnungen von verschreibungspflichtigen  Arzneimitteln (Merkmal 011) aus den Arzneimittelstammdaten **P 3-621**
 
-- Wirkstoffverordnungen (**O3-622**) sowie bei Freitextverordnung (**P3-624**) eine Auswahl
+- Wirkstoffverordnungen (**O 3-622**) sowie bei Freitextverordnung (**P3-624**) eine Auswahl
 
 - der folgenden Optionen fordern folgende **drei Auswahlmöglichkeiten** anbieten:
 
@@ -3265,7 +3263,7 @@ Dosierungsangabe nach** P3-625** ist daher bei Rezepturen nicht vorgesehen.
 
 | PFLICHTFUNKTION | |
 |---|---|
-| P3-630 | Ersatzverordnung |
+| P 3-630 | Ersatzverordnung |
 
 Die Verordnungssoftware muss das Erstellen einer Ersatzverordnung  Satz 7 SGB V ermöglichen.
 
@@ -3332,7 +3330,7 @@ nach § 31 Absatz 3 - nach § 31 Absatz 3 Satz 7
 
 | PFLICHTFUNKTION | |
 |---|---|
-| P3-640 | Mehrfachverordnung |
+| P 3-640 | Mehrfachverordnung |
 
 Die Verordnungssoftware muss die Erstellung einer Mehrfachverordnung (§ 31 Absatz 1b  SGB V i.V.m § 4 Absatz 3 AMVV) im Rahmen einer elektronischen Arzneimittelverordnung  (gemäß P3-710) ermöglichen.
 
@@ -3499,9 +3497,9 @@ Betäubungsmittel und T-Arzneimittel.
 
 **Akzeptanzkriterien:**
 
-- (1) Die Verordnungssoftware muss für die Ausstellung von  **622 O3-623 P3-624**) die folgenden Varianten unterstützen:
+- (1) Die Verordnungssoftware muss für die Ausstellung von  **622 O3-623 P 3-624**) die folgenden Varianten unterstützen:
 
-- o elektronische Verordnung gemäß **P3-710**
+- o elektronische Verordnung gemäß **P 3-710**
 
 - o Papiergebundene Verordnung gemäß P3-720
 
@@ -3529,7 +3527,7 @@ Hiervon ausgenommen - Verordnungen (
 
 V in die
 
-sind - **P3-621 O3-**
+sind - **P 3-621 O 3-**
 
 - bei Wirkstoff-,
 
@@ -3540,7 +3538,7 @@ sind - **P3-621 O3-**
 
 | PFLICHTFUNKTION | |
 |---|---|
-| P3-710 | Allgemeine Vorgaben zu elektronischen |
+| P 3-710 | Allgemeine Vorgaben zu elektronischen |
 
 Die Verordnungssoftware muss die elektronische Verordnung ermöglichen. Die
 
@@ -3566,15 +3564,15 @@ vorgesehen; die technische Ausgestaltung zur Übertragung einer elektronischen V
 
 - (3) Die elektronische Verordnung darf ausschließlich umgesetzt werden für:
 
-- o apothekenpflichtige Arzneimittel (Merkmal 010 bzw. 011) aus den  Arzneimittelstammdaten (**P3-621**), ausgenommen sind Betäubungsmittel und
+- o apothekenpflichtige Arzneimittel (Merkmal 010 bzw. 011) aus den  Arzneimittelstammdaten (**P 3-621**), ausgenommen sind Betäubungsmittel und
 
 - T-Rezept-Arzneimittel (Merkmal 012 und 013
 
-- o Wirkstoffverordnungen (**O3-622**
+- o Wirkstoffverordnungen (**O 3-622**
 
 - o Rezepturen (**O3-623**) und
 
-- o Freitextverordnungen nach (**P3-624**
+- o Freitextverordnungen nach (**P 3-624**
 
 - (4) Die Verordnungssoftware muss die Vertragsärztin bzw. den Vertragsarzt bei der
 
@@ -3595,7 +3593,7 @@ Verordnungen
 
 | PFLICHTFUNKTION | |
 |---|---|
-| P3-720 | Allgemeine Vorgaben für die Rezeptbedruckung |
+| P 3-720 | Allgemeine Vorgaben für die Rezeptbedruckung |
 
 Die Verordnungssoftware muss eine gesetzeskonforme sowie eine dem BMV -Ä
 
@@ -3615,7 +3613,7 @@ Arzneimittelversorgung einbezogenen Produkten erfolgt gemäß den gesetzlichen V
 
 - (3) Akzeptanzkriterium 2 gilt nicht für Rezepturverordnungen **O3-623**
 
-- Ersatzverordnungen (**P3-630**) sowie Mehrfachverordnungen.
+- Ersatzverordnungen (**P 3-630**) sowie Mehrfachverordnungen.
 
 - (4) Die Verordnungssoftware muss sicherstellen, dass die gleichzeitige Verwendung  eines Arzneiverordnungsblatts für die Verordnung von Hilfsmitteln und Arzneimitteln  unzulässig ist. Die Verordnungssoftware muss die Vertragsärztin bzw. den
 
@@ -3631,7 +3629,7 @@ Arzneimittelversorgung einbezogenen Produkten erfolgt gemäß den gesetzlichen V
 
 - eine Dosierung auf dem Rezept angegeben wird **P3-625**) und dadurch die in den
 
-- Pflichtfunktionen **P3-721** und **K3-722** genannten Informationen nicht im Ausdruck über
+- Pflichtfunktionen **P 3-721** und **K 3-722** genannten Informationen nicht im Ausdruck über
 
 - zwei Zeilen abbildbar sind, kann die Verordnungssoftware mehrere Zeilen verwenden.
 
@@ -3664,7 +3662,7 @@ Arzneimittelversorgung einbezogenen Produkten erfolgt gemäß den gesetzlichen V
 
 | PFLICHTFUNKTION | |
 |---|---|
-| P3-721 | Rezeptbedruckung von Verordnungen aus |
+| P 3-721 | Rezeptbedruckung von Verordnungen aus |
 
 Die Verordnungssoftware muss gewährleisten, dass die notwendigen Informationen zu  Arzneimitteln und sonstigen nach § 31 SGB V in die Arzneimittelversorgung einbezogenen  Produkten aus den Arzneimittelstammdaten (Produkte mit PZN) auf
 
@@ -3692,11 +3690,11 @@ Die gleichzeitige Angabe von Packungsgröße und Normgröße ist  zulässig.
 
 - o PZN (in der Form PZN01234567); die PZN muss ohne Zeilenumbruch  aufgedruckt werden.
 
-- o Dosierung (**P3-625**
+- o Dosierung (**P 3-625**
 
 - (2) Die Verordnungssoftware muss gewährleisten, dass die folgenden Informationen  aufgedruckt werden, wenn die entsprechenden Felder von der Vertragsärztin bzw.  dem Vertragsarzt ausgefüllt bzw. die Kennzeichen gesetzt wurden:
 
-- o Ersatzverordnung (gemäß **P3-630**) in der ersten Zeile
+- o Ersatzverordnung (gemäß **P 3-630**) in der ersten Zeile
 
 - o Verordnung nach § 27a SGB V“ (Verordnung im Rahmen künstlicher - Befruchtung)
 
@@ -3715,7 +3713,7 @@ den Arzneimittelstammdatenin die
 
 | KONDITIONALE PFLICHTFUNKTION | |
 |---|---|
-| K3-722 | Rezeptbedruckung von Wirkstoffverordnungen |
+| K 3-722 | Rezeptbedruckung von Wirkstoffverordnungen |
 
 Das System muss sicherstellen, dass Wirkstoffverordnungen auf eine papiergebundene  Verordnung ausgedruckt werden können, wenn die Funktion angeboten wird
 
@@ -3741,24 +3739,24 @@ Arzneimittelversorgung einbezogenen Produkten erfolgt gemäß den gesetzlichen V
 
 - wurden bzw. die Kennzeichen gesetzt wurden:
 
-- o Ersatzverordnung (gemäß **P3-630**) in der ersten Zeile
+- o Ersatzverordnung (gemäß **P 3-630**) in der ersten Zeile
 
 - o Verordnung nach § 27a SGB V“ (Verordnung im Rahmen künstlicher - Befruchtung)
 
-- o Dosierung (**P3-625**
+- o Dosierung (**P 3-625**
 
 - o Abgabehinweise
 
 **Kondition**
 
-Umsetzung der Funktion **O3-622** Wirkstoffverordnung
+Umsetzung der Funktion **O 3-622** Wirkstoffverordnung
 
 
 ---
 
 | KONDITIONALE PFLICHTFUNKTION | |
 |---|---|
-| K3-723 | Rezeptbedruckung von Rezepturverordnungen |
+| K 3-723 | Rezeptbedruckung von Rezepturverordnungen |
 
 Das System muss sicherstellen, dass eine Rezepturverordnung auf ein Rezeptformular  ausgedruckt werden kann, wenn die Funktion angeboten wird
 
@@ -3798,7 +3796,7 @@ Umsetzung der Funktion
 
 | PFLICHTFUNKTION | |
 |---|---|
-| P3-724 | Rezeptbedruckung von Freitextverordnungen |
+| P 3-724 | Rezeptbedruckung von Freitextverordnungen |
 
 Das System muss sicherstellen, dass Freitext verordnungen auf eine papiergebundene  Verordnung ausgedruckt werden können.
 
@@ -3889,7 +3887,7 @@ auszuwählen.
 
 Verordnungen
 
-- **P3-710** muss im Element type im Profil -
+- **P 3-710** muss im Element type im Profil -
 
 -
 
@@ -4019,9 +4017,9 @@ FORMULARAUSWAHL VERORDNUNG edient KBV_PR_ERP_Medication_Co mpounding eText kbv.d
 
 ---
 
-| Arzneiverordnungsblatt | Entsprechend vorliegendem ▪ ▪ ▪ ▪ | 00 | Sofern ein gesetzlich Versicherter eine  Sofern ein gesetzlich Versicherter gemäß |
+| Arzneiverordnungsblatt | Entsprechend vorliegendem  ▪ ▪ ▪ ▪ | 00 | Sofern ein gesetzlich Versicherter eine    Sofern ein gesetzlich Versicherter gemäß |
 |---|---|---|---|
-| Privat-Rezept | Entsprechend vorliegendem ▪ ▪ | 00 |  |
+| Privat-Rezept | Entsprechend vorliegendem  ▪ ▪ | 00 |  |
 
 *Hinweise:*
 
@@ -4034,7 +4032,7 @@ FORMULARAUSWAHL VERORDNUNG edient KBV_PR_ERP_Medication_Co mpounding eText kbv.d
 
 | PFLICHTUNKTION | |
 |---|---|
-| P3-800 | Medikationsplan nach § 31a SGB V |
+| P 3-800 | Medikationsplan nach § 31a SGB V |
 
 Die Verordnungssoftware muss die zur Erstellung und Aktualisierung des Medikationsplans  nach § 31a SGB V notwendigen Funktionen und Informationen enthalten.
 

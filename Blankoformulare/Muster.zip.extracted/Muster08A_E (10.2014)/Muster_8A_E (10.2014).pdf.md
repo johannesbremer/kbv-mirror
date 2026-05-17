@@ -2,9 +2,7 @@
 
 **Stempel der Krankenkasse und Unterschrift**
 
-| **Unterschrift** | **des Versicherten** |
-|---|---|
-| **Erstversorgung** | **oder Verlust der** |
+**Unterschrift des Versicherten**
 
 **(bei Erstversorgung oder Verlust der Sehhilfe)**
 
@@ -12,7 +10,9 @@
 
 **dass ich bisher noch keine Sehhilfe gehabt habedass meine bisherige Sehhilfe verlorengegangen ist**
 
-**vergrößernde Sehhilfen**
+| **und** | **Unterschrift des** | **Empfängers (Vor-** |
+|---|---|---|
+|  | **vergrößernde Sehhilfen** |  |
 
 **in Höhe des geltenden Festbetragesin Höhe von**
 
@@ -20,7 +20,7 @@
 
 **Die Kosten werden übernommen**
 
-**Erklärung des VersichertenEntscheidung der KrankenkasseEmpfangsbestätigung**
+**Erklärung des VersichertenEntscheidung der Krankenkasse**
 
 **Datum**
 
@@ -76,12 +76,6 @@
 
 **Befund: mindestens WHO 1**
 
-**Unterschrift des Empfängers (Vor- und Zuname)**
-
-**Bescheinigung des Leistungserbringers**
-
-**Datum**
-
 **Betrag Euro**
 
 **Kostenrechnung des Leistungserbringers10-stellige** **Hilfsmittelpositionsnummer**
@@ -112,7 +106,7 @@
 
 **Lieferung anderer Ware**
 
-**Die vergrößernde Sehhilfe wurde gemäßvorstehender Empfangsbestätigungabgegeben und angepasst.Ich versichere, dass die gelieferte vergrößerndeSehhilfe der Verordnung entspricht.Datum**
+**vorstehender Empfangsbestätigungabgegeben und angepasst. Ich versichere, dass die gelieferte vergrößerndeSehhilfe der Verordnung entspricht. Datum**
 
 **Zur Beachtung für den VersichertenDiese Verordnung ist kein Gutschein für einen bestiDie**  **Der Barcode enthält keine auf dem Formular nicht le**
 
@@ -124,4 +118,4 @@
 
 **R**
 
-Unterschrift des Versicherten**L**
+Empfangsbestätigung Unterschrift des Empfängers (Vor- und Zuname) Bescheinigung des Leistungserbringers Datum Die vergrößernde Sehhilfe wurde gemäß**L**

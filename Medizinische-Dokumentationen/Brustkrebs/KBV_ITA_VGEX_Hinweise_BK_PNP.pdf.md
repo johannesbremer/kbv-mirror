@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | DEZERNAT DIGITALISIERUNG UND IT VERSION: 1.0 1. OKTOBER 2018 KENNZEICHNUNG: ÖFFENTLICH STATUS: IN KRAFT |
+|  | DEZERNAT DIGITALISIERUNG UND IT  VERSION: 1.0  1. OKTOBER 2018  KENNZEICHNUNG: ÖFFENTLICH  STATUS: IN KRAFT |
 |---|---|
 
 # HINWEISE ZUR „POSTOP ERATIVEN
@@ -113,12 +113,12 @@ Die Abhängigkeiten sind den Plausibilitäten zu entnehmen.
 
 ---
 
-| **1.1.4** |  | **Vorbelegung** | **von** | **Feldern** |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| Aus | den | Plausibilitäten | ergeben | sich | auch | Abhängigkeiten | von zulässigen |  | Antwortmöglichkeiten. | | So ist im |
-| Rahmen | einer |  | pnp-Dokumentation | für | das Feld | 15 | vorgegeben, dass, | wenn in | Feld 14 | „OP nicht | geplant“ |
-|  | angegeben | wurde, | in Feld 15 | lediglich | der Wert | „(c) | Klinisch“ angegeben | werden | darf. | Um | fehlerhafte |
-|  | Eingaben | zu vermeiden, | sollten | in | diesem Fall | diese Felder | automatisch | mit | diesem Wert | vorbelegt | werden. |
-| Seite | 5 / | KBV / | KBV_ITA_VGEX_Hinweise_BK_PNP | | / Version: | 1.0 |  |  |  |  |  |
+### 1.1.4 Vorbelegung von Feldern
 
-Vorbelegung von Feldern Aus den Plausibilitäten ergeben sich auch Abhängigkeiten von zulässigen Antwortmöglichkeiten. So ist i Rahmen einer pnp-Dokumentation für das Feld 15 vorgegeben, dass, wenn in Feld „OP nicht geplant“ angegeben wurde, in Feld 15 lediglich der Wert „(c) Klinisch“ angegeben werden darf . Um fehlerhafte Eingaben zu vermeiden, sollten in diesem Fall diese Felder automatisch mit diesem  Wert vorbelegt werden.
+Aus den Plausibilitäten ergeben sich auch Abhängigkeiten von zulässigen Antwortmöglichkeiten. So ist im
+
+Rahmen einer pnp-Dokumentation für das Feld 15 vorgegeben, dass, wenn in Feld  14 „OP nicht geplant“
+
+angegeben wurde, in Feld 15 lediglich der Wert „(c) Klinisch“ angegeben werden darf. Um fehlerhafte
+
+Eingaben zu vermeiden, sollten in diesem Fall diese Felder automatisch mit diesem Wert vorbelegt werden.

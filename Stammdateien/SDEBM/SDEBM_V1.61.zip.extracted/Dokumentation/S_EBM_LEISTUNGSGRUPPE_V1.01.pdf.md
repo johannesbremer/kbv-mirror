@@ -175,7 +175,13 @@ KV-spezifische Verwendung
 |---|---|
 | 82 | KV-spezifische Verwendung |
 
+3 / KBV / SCHLÜSSELTABELLE - S_EBM_LEISTUNGSGRUPPE
+
 **Bezeichnung**
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
 
 Mutterschaftvorsorge
 
@@ -244,6 +250,8 @@ Sonderleistungen
 
 ---
 
+**Code**
+
 83
 
 84
@@ -277,6 +285,16 @@ Sonderleistungen
 | 98 | KV-spezifische Verwendung |
 |---|---|
 | 99 | KV-spezifische Verwendung |
+
+3 / KBV / SCHLÜSSELTABELLE - S_EBM_LEISTUNGSGRUPPE
+
+**Bezeichnung**
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
 
 KV-spezifische Verwendung
 

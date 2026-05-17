@@ -397,7 +397,7 @@ der angegebenen Codes ist im Valueset [http://hl7.org/fhir/ValueSet/identifier-t
 
 Warning @ Bundle.entry[10].resource.ofType(Organization).identifier[0].type (line 559, col9) :  Keiner der angegebenen Codes ist im Valueset [http://hl7.org/fhir/ValueSet/identifier](http://hl7.org/fhir/ValueSet/identifier)-type
 
-([http://hl7.org/fhir/ValueSet/identifier](http://hl7.org/fhir/ValueSet/identifier)-type, und ein Code sollte aus diesem Valueset stammen, es
+([http://hl7.org/fhir/Value](http://hl7.org/fhir/Value) Set/identifier-type, und ein Code sollte aus diesem Valueset stammen, es
 
 sei denn, er enthält keinen geeigneten Code) (Codes = [http://terminology.hl7.org/CodeSystem/v2](http://terminology.hl7.org/CodeSystem/v2) 0203#BSNR)
 

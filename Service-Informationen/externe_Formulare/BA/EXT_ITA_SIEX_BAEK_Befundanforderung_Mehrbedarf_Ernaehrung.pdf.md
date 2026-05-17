@@ -22,7 +22,7 @@ Patient/in befindet sich seit _____________ regelmäßig  gelegentlich  nicht in
 
 **Gewichtsverlauf (in den letzten 12 Monaten):**
 
-AM 6 ÄD – 1900.8_Befundbericht_BÄK_MEB_21.12
+AM 6 ÄD – 1900.8_Befundbericht_BÄK_MEB_21. 12
 
 [ ]
 
@@ -51,7 +51,7 @@ BGL-Nummer: ________________
 
 # Wenn ja, um welche(s) Nahrungsergänzungsmittel, in welcher Dosierung, handelt es sich?
 
-12
+AM 6 ÄD – 1900.8_Befundbericht_BÄK_MEB_21. 12
 
 
 ---
@@ -74,7 +74,9 @@ ___________________________
 
 Ort, Datum
 
-Stempel und Unterschrift 12
+Stempel und Unterschrift
+
+AM 6 ÄD – 1900.8_Befundbericht_BÄK_MEB_21. 12
 
 **Rückruf erbeten** [ ]
 
@@ -98,7 +100,7 @@ An den
 | ¹Rechnungsnummer: |  |
 |---|---|
 | Rechnungsdatum: |  |
-| Steuernummer/  Ust-Id-Nr.: |  |
+| Steuernummer/   Ust-Id-Nr.: |  |
 | ¹Liquidations-ID ÄD: |  |
 
 Ärztlichen Dienst der
@@ -109,18 +111,20 @@ Agentur für Arbeit
 
 Für meine Bemühungen erlaube ich mir zu berechnen:
 
-| Fotokopierkosten:  0,50 € 0,15 € | ____  Seiten á 0,15 € | = = | __________  €    __________  € |
+| Fotokopierkosten:   0,50 € 0,15 € | ____  Seiten á  0,15 € | =  = | __________  €     __________  € |
 |---|---|---|---|
-| Ausstellung des vollständigen Befundberichts und Übermittlung an den Ärztlichen Dienst: | 32,50 € | = | € |
+| Ausstellung des vollständigen Befundberichts und  Übermittlung an den Ärztlichen Dienst: | 32,50 € | = | € |
 | Portokosten: |  | = | € |
 | Gesamtsumme: |  | = | € |
 |  |  |  |  |
 
-Ich bitte um Überweisung auf das folgende Konto: 12
+Ich bitte um Überweisung auf das folgende Konto:
+
+AM 6 ÄD – 1900.8_Befundbericht_BÄK_MEB_21. 12
 
 | Kontoinhaber/in |
 |---|
-| IBAN:  D E 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 |
+| IBAN:   D  E  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20 |
 | BIC: |
 | Bank/Sparkasse: |
 

@@ -135,7 +135,7 @@ Kennzeichnung für PLZ-Stammdatei = PLZ
 | 1 | 2 | 3 |  | 4 | 5 |  | 6 | 7 | . | 1 | 2 | 3 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 
-| PLZ74_1.202 | mit Beginn des 2. Quartals 2002 eingesetzt werden muss. Diese Datei muss solange eingesetzt werden, bis eine neue PLZ -Stammdatei geliefert |
+| PLZ74_1.202 | mit Beginn des 2. Quartals 2002 eingesetzt werden muss.  Diese Datei muss solange eingesetzt werden, bis eine neue PLZ -Stammdatei geliefert |
 |---|---|
 
 ist der Name der bundeseinheitlichen PLZ-Stammdatei der KBV in der ersten Version, die wird.

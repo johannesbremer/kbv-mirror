@@ -4,61 +4,61 @@
 
 **Id Praxissoftware**
 
-4.57 **tomedo**
+457 **tomedo**
 
-4.62 **medatixx**
+462 **medatixx**
 
-2.10 **Medical Office**
+210 **Medical Office**
 
-4.98 **T2med**
+498 **T 2med**
 
-4.06 **esQlab.online**
+406 **esQlab.online**
 
-2.95 **Epikur**
+295 **Epikur**
 
-2.99 **SMARTY**
+299 **SMARTY**
 
-6.26 **RED Medical**
+626 **RED Medical**
 
-2.08 **NEXUS / KIS**
+208 **NEXUS / KIS**
 
-4.56 **RED medical classic**
+456 **RED medical classic**
 
-4.03 **FIDUS**
+403 **FIDUS**
 
-4.22 **ClinicCentre Billing (OPD)**
+422 **ClinicCentre Billing (OPD)**
 
-2.56 **medavis RIS**
+256 **medavis RIS**
 
-2.54 **ORBIS®**
+254 **ORBIS®**
 
-4.88 **inSuite**
+488 **inSuite**
 
-2.53 **PsychoDat**
+253 **PsychoDat**
 
-2.62 **DS-WIN-PLUS (DS-WIN-MED)**
+262 **DS-WIN-PLUS (DS-WIN-MED)**
 
-3.08 **RescuePro**
+308 **RescuePro**
 
-4.51 **ifa|NX-NEXT Generation AIS**
+451 **ifa|NX-NEXT Generation AIS**
 
-3.85 **CLASSY RT**
+385 **CLASSY RT**
 
-2.63 **Clinisys vianova Labor**
+263 **Clinisys vianova Labor**
 
-2.26 **CGM MEDICO**
+226 **CGM MEDICO**
 
-4.00 **IFA-AUGENARZT**
+400 **IFA-AUGENARZT**
 
-4.75 **Pegasus Software für Pathologie und Zytolog**
+475 **Pegasus Software für Pathologie und Zytolog**
 
-7.02 **Co-Fox Pathologie (LIMS)**
+702 **Co-Fox Pathologie (LIMS)**
 
-7.40 **LabCentre**
+740 **LabCentre**
 
-4.46 **WIN-RADIOLOG**
+446 **WIN-RADIOLOG**
 
-4.21 **EVIDENT**
+421 **EVIDENT**
 
 **gen. Auflistung aller System- und Softwareanbieter. Sortiert n**
 
@@ -70,7 +70,7 @@ medatixx GmbH & Co. KG
 
 INDAMED EDV-Entwicklung und Vertrieb GmbH
 
-T2med GmbH & Co. KG
+T 2med GmbH & Co. KG
 
 IQVIA Commercial GmbH & Co OHG
 
@@ -186,141 +186,141 @@ EVIDENT GmbH
 
 **Installationen 2.Q.2025**
 
-3.883
+3 883
 
-5.493
+5 493
 
-5.648
+5 648
 
-3.662
+3 662
 
-7.52
+752
 
-5.929
+5 929
 
-4.891
+4 891
 
-2.12
+212
 
-3.80
+380
 
-4.88
+488
 
-5.27
+527
 
-2.87
+287
 
-2.56
+256
 
-4.091
+4 091
 
-6.96
+696
 
-1.735
+1 735
 
-9.1
+91
 
-1.83
+183
 
-2.2
+22
 
-3.1
+31
 
-1.8
+18
 
-1.349
+1 349
 
-4.02
+402
 
-4.2
+42
 
-1.9
+19
 
-1.4
+14
 
-7.4
+74
 
-7.20
+720
 
 **Installationen 1.Q.2025**
 
-3.628
+3 628
 
-5.267
+5 267
 
-5.484
+5 484
 
-3.528
+3 528
 
-6.56
+656
 
-5.840
+5 840
 
-4.829
+4 829
 
-1.66
+166
 
-3.55
+355
 
-4.76
+476
 
-5.18
+518
 
-2.78
+278
 
-2.47
+247
 
-4.084
+4 084
 
-6.89
+689
 
-1.729
+1 729
 
-8.6
+86
 
-1.79
+179
 
-1.8
+18
 
-2.7
+27
 
-1.4
+14
 
-1.346
+1 346
 
-3.99
+399
 
-3.9
+39
 
-1.6
+16
 
-1.1
+11
 
-7.2
+72
 
-7.18
+718
 
 **Differenz**
 
-2.55
+255
 
-2.26
+226
 
-1.64
+164
 
-1.34
+134
 
-9.6
+96
 
-8.9
+89
 
-6.2
+62
 
-4.6
+46
 
-2.5
+25
 
-1.2
+12
 
 9
 
@@ -368,13 +368,13 @@ EVIDENT GmbH
 
 3,8%
 
-1.4,6%
+14,6%
 
 1,5%
 
 1,3%
 
-2.7,7%
+27,7%
 
 7,1%
 
@@ -396,11 +396,11 @@ EVIDENT GmbH
 
 2,2%
 
-2.2,3%
+22,3%
 
-1.4,8%
+14,8%
 
-2.8,7%
+28,7%
 
 0,2%
 
@@ -408,9 +408,9 @@ EVIDENT GmbH
 
 7,7%
 
-1.8,7%
+18,7%
 
-2.7,4%
+27,4%
 
 2,7%
 
@@ -421,73 +421,73 @@ EVIDENT GmbH
 
 **Id Praxissoftware**
 
-6.43 **smartLIS Laborinformationssystem Abrechnungsmodul**
+643 **smartLIS Laborinformationssystem Abrechnungsmodul**
 
-7.16 **Melos-Labor-System**
+716 **Melos-Labor-System**
 
-5.61 **EISHISTO**
+561 **EISHISTO**
 
-7.29 **GLIMS**
+729 **GLIMS**
 
-4.93 **LX**
+493 **LX**
 
-1.95 **J-MED**
+195 **J-MED**
 
-3.95 **LIS++**
+395 **LIS++**
 
-6.16 **Doctorly**
+616 **Doctorly**
 
-5.51 **PDV-FR**
+551 **PDV-FR**
 
-3.46 **Praxis4More**
+346 **Praxis4More**
 
-0.65 **MELOS MeCom Arzt & Labor**
+065 **MELOS MeCom Arzt & Labor**
 
-6.42 **DynaMed**
+642 **DynaMed**
 
-7.25 **NEXUS / SWISSLAB**
+725 **NEXUS / SWISSLAB**
 
-6.02 **apraxos**
+602 **apraxos**
 
-2.23 **INDICATION**
+223 **INDICATION**
 
-6.36 **RAD+ RIS System**
+636 **RAD+ RIS System**
 
-4.66 **CGM VT**
+466 **CGM VT**
 
-2.31 **MEDI_LINE**
+231 **MEDI_LINE**
 
-6.37 **Xplore RIS**
+637 **Xplore RIS**
 
-7.30 **SYLAB**
+730 **SYLAB**
 
-3.47 **Opus::L Labormanagementsystem**
+347 **Opus::L Labormanagementsystem**
 
-7.52 **INFINITYQ HEALTH**
+752 **INFINITYQ HEALTH**
 
-3.13 **Medi10**
+313 **Medi10**
 
-4.55 **imassense ISG**
+455 **imassense ISG**
 
-2.05 **UNISOLO®-POESY**
+205 **UNISOLO®-POESY**
 
-7.14 **I.S.-L-SEELIG**
+714 **I.S.-L-SEELIG**
 
-6.09 **GenLAB8**
+609 **GenLAB8**
 
-8.18 **proLAB**
+818 **proLAB**
 
-4.73 **KVDT (ADT)**
+473 **KVDT (ADT)**
 
-3.75 **H&S Laborsoftware**
+375 **H&S Laborsoftware**
 
-7.41 **LINA**
+741 **LINA**
 
-4.94 **Med4WinPlus**
+494 **Med4WinPlus**
 
-6.30 **theHub**
+630 **theHub**
 
-**CGM CLINICAL**
+459 **CGM CLINICAL**
 
 **Anbieter**
 
@@ -627,39 +627,41 @@ Austria GmbH 0,0%
 
 0,0%
 
+0,1%
+
 2
 
 **Installationen 2.Q.2025**
 
 4
 
-3.7
+37
 
 3
 
-1.9
+19
 
-2.5
+25
 
-3.2
+32
 
 4
 
-9.1
+91
 
-2.6
+26
 
-7.2
+72
 
 3
 
 4
 
-1.9
+19
 
-1.4
+14
 
-7.1
+71
 
 6
 
@@ -667,19 +669,19 @@ Austria GmbH 0,0%
 
 1
 
-2.0
+20
 
 2
 
-3.9
+39
 
 8
 
-5.9
+59
 
 2
 
-1.4
+14
 
 1
 
@@ -687,47 +689,49 @@ Austria GmbH 0,0%
 
 7
 
-4.1
+41
 
-2.0
+20
 
 6
 
 5
 
 1
+
+96
 
 **Installationen 1.Q.2025**
 
 2
 
-3.5
+35
 
 2
 
-1.8
+18
 
-2.4
+24
 
-3.1
+31
 
 3
 
-9.0
+90
 
-2.5
+25
 
-7.1
+71
 
 2
 
 3
 
-1.8
+18
 
-1.3
+13
 
-7.0
+70
 
 5
 
@@ -735,19 +739,19 @@ Austria GmbH 0,0%
 
 1
 
-2.0
+20
 
 2
 
-3.9
+39
 
 8
 
-5.9
+59
 
 2
 
-1.4
+14
 
 1
 
@@ -755,15 +759,17 @@ Austria GmbH 0,0%
 
 7
 
-4.1
+41
 
-2.0
+20
 
 6
 
 5
 
 1
+
+96
 
 **Differenz Differenz in % zum 1.Q.2025**
 
@@ -771,7 +777,7 @@ Austria GmbH 0,0%
 
 2 6,3%
 
-1 5.0,0%
+1 50,0%
 
 1 5,8%
 
@@ -779,7 +785,7 @@ Austria GmbH 0,0%
 
 1 3,3%
 
-1 3.3,1%
+1 33,1%
 
 1 1,1%
 
@@ -787,9 +793,9 @@ Austria GmbH 0,0%
 
 1 1,4%
 
-1 5.0,0%
+1 50,0%
 
-1 3.3,4%
+1 33,4%
 
 1 5,6%
 
@@ -797,7 +803,7 @@ Austria GmbH 0,0%
 
 1 1,4%
 
-1 2.0,0%
+1 20,0%
 
 0 0,0%
 
@@ -833,78 +839,82 @@ Austria GmbH 0,0%
 
 0 0,0%
 
-0
+0 0,0%
 
 
 ---
 
-7.03 **ELADIS**
+**Id Praxissoftware**
 
-4.78 **PathoFlow**
+703 **ELADIS**
 
-3.32 **Z1**
+478 **PathoFlow**
 
-4.87 **NEXUS RIS**
+332 **Z 1**
 
-6.13 **VAULT Suite**
+487 **NEXUS RIS**
 
-6.69 **CGM SOUL**
+613 **VAULT Suite**
 
-4.39 **eRIS**
+669 **CGM SOUL**
 
-4.47 **CARW**
+439 **e RIS**
 
-4.54 **PalliDoc**
+447 **CARW**
 
-2.78 **MEDOS**
+454 **PalliDoc**
 
-0.83 **PegaMed**
+278 **MEDOS**
 
-2.38 **InterMediNet KVDT**
+083 **PegaMed**
 
-4.16 **MAP Software für Laborärzte**
+238 **InterMediNet KVDT**
 
-4.58 **principa**
+416 **MAP Software für Laborärzte**
 
-1.71 **ARZT 2000**
+458 **principa**
 
-5.25 **QuickCON**
+171 **ARZT 2000**
 
-0.87 **MEDIPX**
+525 **QuickCON**
 
-1.92 **MEDICUS**
+087 **MEDIPX**
 
-7.18 **IMP::System**
+192 **MEDICUS**
 
-3.20 **DISweb**
+718 **IMP::System**
 
-7.21 **David**
+320 **DISweb**
 
-2.76 **RadCentre Billing (OPD)**
+721 **David**
 
-7.31 **C-LAB**
+276 **RadCentre Billing (OPD)**
 
-2.90 **M-KIS**
+731 **C-LAB**
 
-4.09 **i/med Billing**
+290 **M-KIS**
 
-3.23 **amasys**
+409 **i/med Billing**
 
-4.17 **Centricity RIS-i**
+323 **amasys**
 
-7.04 **PROMED-open / X-PROMED**
+417 **Centricity RIS-i**
 
-0.31 **APRIS**
+704 **PROMED-open / X-PROMED**
 
-0.81 **Arztpraxis Wiegand**
+031 **APRIS**
 
-7.06 **MOLIS**
+081 **Arztpraxis Wiegand**
 
-3.45 **NEXUS / PATHOLOGIE und NEXUS / ZYTOLOGIE**
+706 **MOLIS**
 
-1.36 **InterARZT**
+345 **NEXUS / PATHOLOGIE und NEXUS / ZYTOLOGIE**
 
-**medibit**
+136 **InterARZT**
+
+034 **medibit**
+
+**Anbieter**
 
 LabKom Biochemische Dienstleistungen GmbH
 
@@ -972,7 +982,11 @@ NEXUS / DIGITAL PATHOLOGY GmbH
 
 InterData Praxiscomputer GmbH
 
-Examion GmbH 0,0%
+Examion GmbH
+
+**%Anteil 2.Q.2025**
+
+0,0%
 
 0,0%
 
@@ -1040,141 +1054,149 @@ GmbH 3
 
 0,3%
 
+0,1%
+
 **Installationen 2.Q.2025**
 
-1.3
+13
 
 2
 
-2.1
+21
 
-2.8
+28
 
 4
 
-1.2
+12
 
-5.1
+51
 
-1.9
+19
 
-1.6
+16
 
-1.2
+12
 
-1.000
+1 000
 
-5.4
+54
 
 3
 
-8.1
+81
 
-2.2
+22
 
 7
 
 3
 
-2.7
+27
 
 1
 
-2.09
+209
 
-4.1
+41
 
-9.3
+93
 
 7
 
-3.41
+341
 
-2.5
+25
 
-9.4
+94
 
-3.1
+31
 
-2.1
+21
 
-1.39
+139
 
-1.84
+184
 
-6.4
+64
 
-1.04
+104
 
-3.53
+353
+
+69
 
 **Installationen 1.Q.2025**
 
-1.3
+13
 
 2
 
-2.1
+21
 
-2.8
-
-4
-
-1.2
-
-5.2
-
-2.0
-
-1.7
-
-1.3
-
-1.001
-
-5.5
+28
 
 4
 
-8.2
+12
 
-2.3
+52
+
+20
+
+17
+
+13
+
+1 001
+
+55
+
+4
+
+82
+
+23
 
 9
 
 5
 
-2.9
+29
 
 3
 
-2.11
+211
 
-4.3
+43
 
-9.5
+95
 
 9
 
-3.44
+344
 
-2.8
+28
 
-9.7
+97
 
-3.4
+34
 
-2.4
+24
 
-1.42
+142
 
-1.87
+187
 
-6.8
+68
 
-1.08
+108
 
-3.58
+358
+
+74
+
+**Differenz**
 
 0
 
@@ -1243,6 +1265,8 @@ GmbH 3
 -5
 
 -5
+
+**Differenz in % zum 1.Q.2025**
 
 0,0%
 
@@ -1315,57 +1339,61 @@ GmbH 3
 
 ---
 
-2.30 **QMED.PRAXIS**
+**Id Praxissoftware**
 
-0.86 **DURIA**
+230 **QMED.PRAXIS**
 
-2.51 **MEDVISION**
+086 **DURIA**
 
-0.60 **Data-AL**
+251 **MEDVISION**
 
-4.41 **dc-pathos/dc-ross**
+060 **Data-AL**
 
-0.62 **EVA**
+441 **dc-pathos/dc-ross**
 
-0.15 **MEDYS**
+062 **EVA**
 
-0.43 **Pro_Medico**
+015 **MEDYS**
 
-0.30 **Praxis-Programm**
+043 **Pro_Medico**
 
-3.14 **IMedOne**
+030 **Praxis-Programm**
 
-0.78 **Med7**
+314 **IMedOne**
 
-2.98 **Elefant**
+078 **Med7**
 
-2.47 **PROFIMED**
+298 **Elefant**
 
-2.61 **S3-Win**
+247 **PROFIMED**
 
-3.43 **SAP Ambulatory Care Management**
+261 **S 3-Win**
 
-1.35 **EL - Elaphe Longissima**
+343 **SAP Ambulatory Care Management**
 
-0.23 **DATA VITAL**
+135 **EL - Elaphe Longissima**
 
-2.52 **CGM M1 PRO**
+023 **DATA VITAL**
 
-2.44 **QUINCY WIN**
+252 **CGM M1 PRO**
 
-3.48 **psyprax**
+244 **QUINCY WIN**
 
-2.03 **ALBIS**
+348 **psyprax**
 
-2.66 **x.comfort**
+203 **ALBIS**
 
-2.43 **x.concept**
+266 **x.comfort**
 
-2.80 **CGM MEDISTAR BLACK PRO**
+243 **x.concept**
 
-2.16 **x.isynet**
+280 **CGM MEDISTAR BLACK PRO**
 
-1.12 **TURBOMED**
+216 **x.isynet**
+
+112 **TURBOMED**
+
+**Anbieter**
 
 Schwerdtner Medizin-Software GmbH
 
@@ -1393,7 +1421,7 @@ HASOMED GmbH
 
 PRO MEDISOFT AG
 
-S3 Praxiscomputer GmbH / Maximilian Fle
+S 3 Praxiscomputer GmbH / Maximilian Fle
 
 SAP SE
 
@@ -1421,7 +1449,11 @@ CompuGroup Medical Deutschland AG
 
 H
 
-nder 0,1%
+nder
+
+**%Anteil 2.Q.2025**
+
+0,1%
 
 1,7%
 
@@ -1477,111 +1509,111 @@ nder 0,1%
 
 **Installationen 2.Q.2025**
 
-1.60
+160
 
-2.062
+2 062
 
-3.82
+382
 
-8.63
+863
 
-7.4
+74
 
-4.54
+454
 
-5.98
+598
 
-2.16
+216
 
-6.92
+692
 
-9.76
+976
 
-5.42
+542
 
-1.0.990
+10 990
 
-4.59
+459
 
-1.052
+1 052
 
-1.553
+1 553
 
-1.462
+1 462
 
-2.96
+296
 
-2.427
+2 427
 
-2.728
+2 728
 
-1.0.699
+10 699
 
-3.763
+3 763
 
-2.120
+2 120
 
-3.829
+3 829
 
-1.0.045
+10 045
 
-6.327
+6 327
 
-6.710
+6 710
 
 **Installationen 1.Q.2025**
 
-1.65
+165
 
-2.067
+2 067
 
-3.88
+388
 
-8.69
+869
 
-8.0
+80
 
-4.61
+461
 
-6.05
+605
 
-2.24
+224
 
-7.01
+701
 
-9.86
+986
 
-5.54
+554
 
-1.1.004
+11 004
 
-4.73
+473
 
-1.069
+1 069
 
-1.570
+1 570
 
-1.479
+1 479
 
-3.21
+321
 
-2.469
+2 469
 
-2.770
+2 770
 
-1.0.763
+10 763
 
-3.831
+3 831
 
-2.203
+2 203
 
-3.922
+3 922
 
-1.0.140
+10 140
 
-6.464
+6 464
 
-6.930
+6 930
 
 **Differenz**
 
@@ -1636,6 +1668,8 @@ nder 0,1%
 -137
 
 -220
+
+**Differenz in % zum 1.Q.2025**
 
 -3,0%
 

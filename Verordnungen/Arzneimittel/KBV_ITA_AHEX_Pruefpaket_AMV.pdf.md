@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 12. OKTOBER 2023  VERSION: 1.12  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 12. OKTOBER 2023   VERSION: 1.12   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # PRÜFPAKET  ARZNEIMITTELVERORDNUNG
@@ -26,15 +26,17 @@ INHALT
 | 1.4 |  | Zertifizierungsdokumente | 6 |
 | 1.5 | Einreichung | von Korrekturlieferungen | 6 |
 
-| **2** |  | **VORBEREITUNG FÜR** | **DIE SICHTPRÜFUNG** | **7** |
-|---|---|---|---|---|
-| 2.1 | Anzulegende | Praxen | und Patienten | 7 |
+**2** **VORBEREITUNG FÜR DIE SICHTPRÜFUNG**
+
+**7**
+
+2.1 Anzulegende Praxen und Patienten 7
 
 **3** **REFERENZIERTE DOKUMENTE**
 
 **9**
 
-Einreichung von Korrekturlieferungen VORBEREITUNG FÜR DIE SICHTPRÜFUNG Anzulegende Praxen und Patienten
+Einreichung von Korrekturlieferungen
 
 
 ---
@@ -45,16 +47,16 @@ DOKUMENTENH
 |---|---|---|---|---|---|
 | 1.12 | 12.10.2023 | KBV | Klarstellung im |  | 4, 6 |
 | 1.11 | 26.04.2022 | KBV | Anpassung des | Für den Prüffall 24 des | 8 |
-| 1.10 | 17.12.2021 | KBV | Komplettüberarbeitung | Aktualisierung von Anpassungen eRezept | alle |
+| 1.10 | 17.12.2021 | KBV | Komplettüberarbeitung | Aktualisierung von  Anpassungen e Rezept | alle |
 | 1.09 | 07.04.2021 | KBV | Überarbeitung von Kapitel 2 | Update-Häufigkeit der | 6 |
-| 1.08 | 15.08.2018 | KBV | Überarbeitung von Kapitel 2 | Korrektur von fehlerhafter  Anpassung von | 7, 8   8 |
+| 1.08 | 15.08.2018 | KBV | Überarbeitung von Kapitel 2 | Korrektur von fehlerhafter    Anpassung von | 7, 8      8 |
 | 1.07 | 15.06.2018 | KBV | Überarbeitung von Kapitel 2 |  | 7 |
 | 1.06 | 15.03.2018 | KBV | Einreichung des Antrags auf | Anpassung des | 4f |
 | 1.05 | 15.02.2018 | KBV | Komplettüberarbeitung des |  | alle |
 | 1.04 | 26.10.2017 | KBV | Komplettüberarbeitung des |  | alle |
 | 1.03 | 23.02.2017 | KBV | Vorbereitung für die | Aktualisierung der Daten | 7 |
 | 1.02 | 05.02.2017 | KBV | Vorbereitung für die | Aktualisierung der Daten | 7 |
-| 1.01 | 07.11.2016 | KBV | Allgemeines Review  Aktualisierung der Testdaten |  | alle |
+| 1.01 | 07.11.2016 | KBV | Allgemeines Review   Aktualisierung der Testdaten |  | alle |
 | 1.00 | 06.10.2016 | KBV | Neues Dokument | Initiale Erstellung | alle |
 
 # ISTORIE
@@ -222,7 +224,7 @@ Systemseitig müssen die folgenden Einstellungen am Zertifizierungsgegenstand vo
 
 ermöglicht werden:
 
--  Bei Prüfungsbeginn müssen die Arzneimitteldaten vom 1. oder 15. des Monats mit einem Abstand  von 14 Tagen zum Sichtprüfungstermin vorhanden sein (z.B. ist bei einer Sichtprüfung am 18.06.2018
+-  Bei Prüfungsbeginn müssen die Arzneimitteldaten vom 1. oder 15. des Monats mit einem Abstand  von 14 Tagen zum Sichtprüfungstermin vorhanden sein (z.B. ist bei einer Sichtprüfung am 18. 06.2018
 
 - der Arzneimitteldatenstand vom 01.06.2018 vorzuhalten).
 
@@ -287,9 +289,9 @@ Legen Sie im Ersatzverfahren Patienten mit folgenden Daten an:
 
 | NAME | PATIENTENDATEN |
 |---|---|
-| Dr. Lena Freifrau von und zu Groß | Geburtsdatum: Straße: Wohnort: Kasse: |
-| Leonie Gonzales | Geburtsdatum:  Straße:  Wohnort:  Kasse: |
-| Bertha Bdorf | Geburtsdatum: Straße:  Wohnort: Kasse: |
+| Dr. Lena Freifrau von und zu Groß | Geburtsdatum:  Straße:  Wohnort:  Kasse: |
+| Leonie Gonzales | Geburtsdatum:   Straße:   Wohnort:   Kasse: |
+| Bertha Bdorf | Geburtsdatum:  Straße:   Wohnort:  Kasse: |
 
 Tabelle 3: Liste der anzulegenden Patienten
 
@@ -305,7 +307,7 @@ Alle in Tabelle 3 nicht vorgegebenen Werte sind beliebig.
 |---|---|
 | Referenz | Dokument |
 | KBV_ITA_RLEX_Zert | Zertifizierungsrichtlinie der KBV |
-| EXT_ITA_VGEX_Anforderungskatalog_AVWG | Anforderungskatalog nach § 73 SGB V für Verordnungssoftware/Arzneimitteldatenb |
+| EXT_ITA_VGEX_Anforderungskatalog_AVWG | Anforderungskatalog nach § 73 SGB V  für Verordnungssoftware/Arzneimitteldatenb |
 | EXT_ITA_VGEX_BMP_Anlage3 | Spezifikation für einen bundeseinheitlichen Medikationsplan (BMP) gemäß § 31a SGB V |
 | KBV_ITA_FMEX_AAZ_AVWG | Antrag auf Zertifizierung Verordnung von |
 | KBV_ITA_AHEX_AVWG_FAQ | Fragen und Antworten zum Anforderungskatalog |

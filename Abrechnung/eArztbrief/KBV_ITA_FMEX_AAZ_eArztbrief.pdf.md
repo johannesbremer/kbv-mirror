@@ -98,9 +98,13 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls
 
 Bitte geben Sie im Folgenden an, welche Client
 
-| Windows | ☐ | Mac OS | ☐ |
+| Windows☐ | ☐ | Mac OS | Linux☐ |
 |---|---|---|---|
-| iOS/Android | ☐ | Sonstige | |
+| iOS/Android☐ | ☐ | Sonstige | |
+
+[ ]
+
+[ ]
 
 2
 
@@ -110,7 +114,11 @@ Bitte geben Sie im Folgenden an, welche Client
 
 Der Antragsteller versichert, dass alle Pflichtfunktionen des Anforderungskataloges  [KBV_ITA_VGEX_Anforderungskatalog_eArztbrief erfüllt sind.
 
-1.1.
+[ ]
+
+[ ]
+
+/ Version: 3.2 / 15. Mai 2024 1.1.
 
 vorhanden) des Zertifizierungsgegenstandes an.
 
@@ -118,7 +126,8 @@ vorhanden) des Zertifizierungsgegenstandes an.
 
 ] für die Übermittlung von elektronischen Briefen
 
-[ ] [ ] [ ] [ ] [ ] Linux
+[ ]
+
 
 ---
 
@@ -154,8 +163,14 @@ ________________
 
 Diese Information ist verpflichtend anzugeben
 
+Antragssteller:
+
+/ Version: 3.2 / 15. Mai 2024
+
 
 ---
+
+Antragssteller:
 
 4 KENNTNISNAHME DURCH DEN ANTRAGSSTELLER
 
@@ -217,8 +232,12 @@ Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbegin
 
 Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung].
 
+/ Version: 3.2 / 15. Mai 2024
+
 
 ---
+
+Antragssteller:
 
 **IV.** **Sonstiges**
 
@@ -232,12 +251,16 @@ Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung].
 
 (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
 
+/ Version: 3.2 / 15. Mai 2024
+
 nahmen den
 
 igkeit der in diesem - und
 
 
 ---
+
+Antragssteller:
 
 Ort, Datum
 
@@ -250,6 +273,8 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstel
 Kassenärztliche Bundesvereinigung
 
 Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+
+/ Version: 3.2 / 15. Mai 2024
 
 Unterschrift
 

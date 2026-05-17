@@ -77,22 +77,19 @@ Beschluss aus dem AK7 (Ver- besserung der Schnittstellen- struktur)
 |  |  |  |  | Version 1.41 |  |
 |---|---|---|---|---|---|
 | 1.41 | 19.07.2013 | KBV | - Dokumentation zum Kz. | Bedeutung der Ausprägung „ver- | **95** |
-
 |  |  |  | Arztpraxis aktualisiert | steckt“ präzisiert |  |
-|---|---|---|---|---|---|
 | 1.40 | 04.07.2013 | KBV | - Kennzeichen arztpraxis | Änderung von Typ Bool in String | **95** |
+|  |  |  |  | sowie Referenz auf Schlüsseltab- |  |
+|  |  |  |  | elle |  |
+| 1.40 | 06.06.2013 | KBV | - Regel: Sub-GOP | Referenz auf verknüpfte Leistun- | **86** |
 
-1.40  Beta
-
-1.32
+Beta 1.32
 
 17.04.2015 KBV
 
 06.01.2015 KBV
 
 19.12.2014 KBV
-
-06.06.2013 KBV
 
 26.07.2012 KBV
 
@@ -102,7 +99,7 @@ Entfernung der Elemente  maximalhaeufigkeit und  minimalhaeufigkeit
 
 Neuaufnahme des XML- Elementes Mengensteue- rung_liste mit seinen ent- sprechenden Kindelementen  Entfernung des rlv Kennzei- chens aus dem KBV Teil
 
-Regel: Sub-GOP  Regel: PFG-Ausschluss  gnr_type_cd
+Regel: PFG-Ausschluss  gnr_type_cd
 
 Layout
 
@@ -110,9 +107,7 @@ Aufgrund der ASV muss der Kur- züberlick der EBM-Systematik  angepasst werden
 
 fehlerhafter Inhalt
 
-sowie Referenz auf Schlüsseltab- elle
-
-Referenz auf verknüpfte Leistun- gen Ausschluss fachärztl. Grund- pauschale  Verweis auf Schlüsseltabelle
+gen Ausschluss fachärztl. Grund- pauschale  Verweis auf Schlüsseltabelle
 
 redaktionell
 
@@ -126,11 +121,11 @@ redaktionell
 
 **98**
 
-**86**  **88**
+**88**
 
 **95**
 
-1.42 29.07.2013 Kennzeichen arztpraxis Aufhebung der Änderungen aus
+1.42 29.07.2013 Aufhebung der Änderungen aus
 
 ---
 
@@ -207,21 +202,17 @@ redaktionell
 
 **20**
 
-**9.1**
+**9.1** **keytab (Schlüsseltabelle) ......................................................................................................... 20**
 
-|  | **keytab (Schlüsseltabelle)** |  | **......................................................................................................... 20** |
-|---|---|---|---|
-| **BODY** |  |  | **22** |
+**10** **BODY**
 
-**10**
+**22**
 
-**10.1**
+**10.1** **Element: gnr_liste ..................................................................................................................... 22**
 
-| **Element:** | **gnr_liste** |  | **..................................................................................................................... 22** |
-|---|---|---|---|
-| **SEKTION:** |  | **ALLGEMEIN** | **25** |
+**11** **SEKTION: ALLGEMEIN**
 
-**11**
+**25**
 
 **11.1** **Element: gueltigkeit .................................................................................................................. 26**
 
@@ -267,7 +258,7 @@ redaktionell
 
 **12.10** **Element: scheinarten_liste ....................................................................................................... 78**
 
-Element: gnr_liste SEKTION: ALLGEMEIN **12.11** **Element: abr_best ..................................................................................................................... 80**
+**12.11** **Element: abr_best ..................................................................................................................... 80**
 
 
 ---
@@ -321,38 +312,29 @@ Element: gnr_liste SEKTION: ALLGEMEIN **12.11** **Element: abr_best ............
 
 ---
 
-| **IT in** | **der** | **Arztpraxis** |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|
-|  |  | Datensatzbeschreibung |  | EBM-Stammdatei | - Satzarten | 850, 851, | 852, 853 |  |  |  |
-| **A** | **B B** | **I L D** | **U N** | **G S** | **V E R** | **Z E I C** | **H N** | **I S** |  |  |
-|  | Abbildung | 1: | Struktur | des Elements | keytabs |  | ................................ | | ........................................ | 20 |
-|  |  | KBV_ITA_VGEX_Datensatz_SDEBM | | * | Version 1.61 |  |  |  | Seite | 7 von 117 |
+| **IT in der** | **Arztpraxis** |  |  |  |  |  |
+|---|---|---|---|---|---|---|
+|  | Datensatzbeschreibung | EBM-Stammdatei | - Satzarten | 850, 851, | 852, 853 |  |
+| **A B** | **B I L D** | **U N G** | **S V E R** | **Z E I C** | **H N I S** |  |
+| Abbildung | 1: | Struktur des | Elements | keytabs | ........................................................................20 | |
+|  | KBV_ITA_VGEX_Datensatz_SDEBM | | * Version 1.61 |  |  | Seite 7 von 117 |
 
 Abbildung 1: Struktur des Elements keytabs
 
 ---
 
-**X** **M** **L- C** **O** **D** **E** **V** **E** **R** **Z** **E** **I** **C** **H**  **N** **I** **S**
+| **IT in der** | **Arztpraxis** |  |  |  |  |  |
+|---|---|---|---|---|---|---|
+|  | Datensatzbeschreibung |  | EBM-Stammdatei - | Satzarten 850, | 851, 852, 853 |  |
+| **X M** | **L- C O** | **D E V** | **E R Z E** | **I C H N** | **I S** |  |
+| XML-Code | 1 | /ehd |  |  | ................................................................................................................. | 18 |
+| XML-Code | 2 | /ehd/keytabs |  |  | .................................................................................................... | 20 |
+| XML-Code | 3 |  |  |  | /ehd/keytabs/keytab......................................................................................... | 21 |
+| XML-Code | 4 |  |  |  | /ehd/keytabs/keytab/key.................................................................................. | 21 |
+| XML-Code | 5 |  |  |  | /ehd/keytabs/keytab/key/fkey........................................................................... | 21 |
+|  | KBV_ITA_VGEX_Datensatz_SDEBM | | * Version 1.61 |  |  | Seite 8 von 117 |
 
-XML-Code 1 /ehd .................................................................................................................
-
-XML-Code 2 /ehd/keytabs ....................................................................................................
-
-XML-Code 3 /ehd/keytabs/keytab .........................................................................................
-
-XML-Code 4 /ehd/keytabs/keytab/key ..................................................................................
-
-XML-Code 5 /ehd/keytabs/keytab/key/fkey ...........................................................................
-
-18
-
-20
-
-21
-
-21
-
-21
+XML-Code 1 /ehd XML-Code 2 /ehd/keytabs XML-Code 3 /ehd/keytabs/keytab XML-Code 4 /ehd/keytabs/keytab/key XML-Code 5 /ehd/keytabs/keytab/key/fkey
 
 
 ---
@@ -567,8 +549,9 @@ bedingung
 | regel | möglichst vollständig |  |
 |---|---|---|
 | kv | teilweise | GOP-Art |
-
-vdx
+|  |  | Abrechnungskennzeichen |
+|  |  | Arztpraxis |
+| vdx | vollständig |  |
 
 **3.2 KV -> KBV (Satzart 851)**
 
@@ -595,8 +578,6 @@ vollständig
 
 möglichst vollständig
 
-vollständig
-
 Elemente
 
 vollständig
@@ -606,8 +587,6 @@ möglichst vollständig
 möglichst vollständig -Richtlinie vereinbart:
 
 Beispiel
-
-Abrechnungskennzeichen  Arztpraxis
 
 Hinzusetzung der kv -spezifischen,
 
@@ -1530,9 +1509,9 @@ Use  required  required
 
 Default
 
-| Fixed |  | Annotation |
-|---|---|---|
-|  | Seite | 29 von 117 |
+Fixed
+
+Annotation
 
 
 ---
@@ -2318,15 +2297,23 @@ annotation
 
 wenn Euro- und Punktbewertung existiert.
 
-| Hinweis: |  |
-|---|---|
-| Element muss | vorhanden sein, wenn sowohl Punkt- als auch Eurobewertungen existieren. |
-| (Derzeit nicht | in Verwendung). |
-| **11.7** | **Element: zeitbedarf_liste** |
-| Die | kalkulatorischen Zeiten werden unter dem Element <zeitbedarf_liste> aufgeführt. Damit |
-| die Zeiten | jeweils eindeutig zugeordnet sind, wurde eine Identitätsbedingung an den Leis- |
-| tungstyp | gebunden. |
-| element | **zeitbedarf_liste** |
+***V***
+
+***S***
+
+Hinweis:
+
+Element muss vorhanden sein, wenn sowohl Punkt (Derzeit nicht in Verwendung).
+
+Code
+
+OID der Schlüsseltabelle
+
+**11.7 Element: zeitbedarf_liste**
+
+Die kalkulatorischen Zeiten werden unter dem Element <zeitbedarf_liste> aufgeführt. Damit  die Zeiten jeweils eindeutig zugeordnet sind, wurde eine Identitätsbedingung an den Leis- tungstyp gebunden.
+
+element** zeitbedarf_liste**
 
 diagram
 
@@ -2360,13 +2347,14 @@ isRef 0  content complex
 
 Default
 
+- als auch Eurobewertungen existieren.
+
 Fixed
 
 Annotation 1.2.276.0.76.5.3
 
 74
 
-S Element muss vorhanden sein, wenn sowohl Punkt (Derzeit nicht in Verwendung). Code OID der Schlüsseltabelle 11.7 Element: zeitbedarf_liste Die kalkulatorischen Zeiten werden unter dem Element <zeitbedarf_liste> aufgeführt. Damit die Zeiten jeweils eindeutig zugeordnet sind, wurde eine Identitätsbedingung an den Leis- tungstyp gebunden.
 
 ---
 
@@ -2774,7 +2762,7 @@ children **go:ul go:ol go:b go:br go:div go:em go:i go:u go:sup go:sub go:strong
 
 | Die weiteren | XML-Elementen zur Formatierung werden in den Kapiteln „ 11.10.9“, „11.10.10“, |
 |---|---|
-| „11.10.11 | “, „11.10.12“, „11.10.13“, „11.10.14“ und „11.10.15“ beschrieben. |
+| „11.10.11“, | „11.10.12“, „11.10.13“, „11.10.14“ und „11.10.15“ beschrieben. |
 | **11.10.3** | **Element: ol** |
 | Das Element | <ol> wird zur Darstellung von nummerierten Listen verwendet. |
 
@@ -3020,22 +3008,24 @@ Verlinkung zu einer anderen GNR
 
 ---
 
-| **IT in** | **der** | **Arztpraxis** |  |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  | Datensatzbeschreibung |  | EBM-Stammdatei | - Satzarten | 850, | 851, 852, | 853 |  |  |  |
-| **href** |  |  |  | ID | des | verlinkten | Elementes |  |  |  |  |
-| Die | weiteren | | XML-Elementen | zur |  | Formatierung | werden | in den | Kapiteln „ 11.10.9 | “, „ | 11.10.10“, |
-| „ | 11.10.11 | “, „11.10.12 | “, „ | 11.10.13 | “, „ | 11.10.14“ | und „ | 11.10.15“ | beschrieben. |  |  |
-|  | **11.10.9** |  | **Element:** | **font** |  |  |  |  |  |  |  |
-|  | Mithilfe | des | Elementes | <font> | kann für | den | anzeigenden | Text direkte | Schriftgröße | dargestellt | |
-|  | werden. | Wenn diese | Element | nicht |  | gesetzt | wird, dann | wird empfohlen | den Text | mit | Schrift- |
-| größe | 12 | anzuzeigen. | Das | Element | kann | weitere |  | Formatierungselemente |  | enthalten. |  |
-| element | **font** |  |  |  |  |  |  |  |  |  |  |
-|  | diagram |  |  |  |  |  |  |  |  |  |  |
-|  | name- | urn:ehd/go/001 |  |  |  |  |  |  |  |  |  |
-|  |  | KBV_ITA_VGEX_Datensatz_SDEBM | | * | Version 1.61 |  |  |  |  | Seite 51 | von 117 |
+**href**
 
-ID des verlinkten Elementes Die weiteren XML-Elementen zur Formatierung “ und „ Element: font Mithilfe des Elementes <font> kann für den anzeigenden Text direkte Schriftgröße dargestellt werden. Wenn diese Element nicht gesetzt wird, dann wird empfohlen den Text mit Schrift- größe 12 anzuzeigen. Das Element kann weitere Formatierungselemente enthalten. werden in den Kapiteln „ “ beschrieben
+ID des verlinkten Elementes
+
+Die weiteren XML-Elementen zur Formatierung  11.10.11“, „11.10.12“, „11.10.13“, „11.10.14“ und „
+
+**11.10.9** **Element: font**
+
+Mithilfe des Elementes <font> kann für den anzeigenden Text direkte Schriftgröße dargestellt  werden. Wenn diese Element nicht gesetzt wird, dann wird empfohlen den Text mit Schrift- größe 12 anzuzeigen. Das Element kann weitere Formatierungselemente enthalten.
+
+element **font**
+
+diagram
+
+name- urn:ehd/go/001
+
+werden in den Kapiteln „ 11.10.9“, „11.10.10 11.10.15“ beschrieben
+
 
 ---
 
@@ -4011,14 +4001,27 @@ sonderheit  nach §115b
 
 Abschnitte 1,2  Anlage 1
 
-| Hinweis: |  |
-|---|---|
-| Die Bezeichnung | der OP -Schlüssel kann dem DN-Attribut des XML-Elements ..//opscode der |
-| Operationen- | und Prozedurenschlüsselstammdatei (SDOPS) entnommen werden. |
-| **12.6.1.3** | **Element: seite** |
-| Durch das | Element <seite> wird der OP -Schlüssel anhand der Seitenlokalisation genauer |
-| spezifiziert. |  |
-| element | **begruendungen_liste/ops_liste/kategorie/ops/seite** |
+***V***   OP-Schlüssel
+
+***R***
+
+***<seite>***
+
+Hinweis auf 115b-OPS
+
+Seitenlokalisation R, L, B (falls relevant für Kategoriezuordnung)
+
+Hinweis:
+
+Die Bezeichnung der OP -Schlüssel kann dem DN-Attribut des XML-Elements ..//opscode der  Operationen- und Prozedurenschlüsselstammdatei
+
+**12.6.1.3 Element: seite**
+
+Durch das Element <seite> wird der OP -Schlüssel anhand der Seitenlokalisation genauer
+
+spezifiziert.
+
+element** begruendungen_liste/ops_liste/kategorie/ops/seite**
 
 diagram
 
@@ -4050,7 +4053,7 @@ B (beidseitig)
 
 P (Paarig)
 
-Default
+Default (SDOPS) entnommen werden.
 
 Default
 
@@ -4060,7 +4063,7 @@ Fixed
 
 Annotation
 
-V OP-Schlüssel R Hinweis auf 115b-OPS Seitenlokalisation R, L, B (falls relevant für Kategoriezuordnung) Die Bezeichnung der OP -Schlüssel kann dem DN-Attribut des XML-Elements ..//opscode der Operationen- und Prozedurenschlüsselstammdatei Durch das Element <seite> wird der OP -Schlüssel anhand der Seitenlokalisation genauer Annotation
+Annotation
 
 
 ---
@@ -4748,7 +4751,7 @@ element** altersbedingung_liste/alter/range_typ**
 
 diagram
 
-isRef 0
+is Ref 0
 
 properties  content complex   Name
 
@@ -5743,19 +5746,27 @@ annotation
 
 ersetzt. Um eine Verfälschung der Abrechnungsstatistik zu vermeiden, darf die
 
-| Hinweis: |  |
-|---|---|
-| Die | Höchstwertziffern sind in der Abrechnung durch die Arztpraxis nicht zu verwenden und |
-| daher über | das Kennzeichen arztpraxis/@V=false zu belegen (Verfälschung der Abrech- |
-| nungsstatistik!). |  |
-| **13.5.1.1** | **Element: ersetzung** |
-| Innerhalb | dieses Elements wird auf die Höchstwertziffer verwiesen, die zusätzlich als eigen- |
-| ständige GNR | innerhalb des GO-Stammes existiert. |
-| element | **ersetzungs_liste/ersetzung** |
+***<ersetzung>***
+
+der Arztpraxis erfolgen.
+
+Höchstwertziffer, die Kombinationen von Leistungen ersetzt
+
+Hinweis:
+
+Die Höchstwertziffern sind in der Abrechnung durch die Arztpraxis nicht zu verwenden und  daher über das Kennzeichen  nungsstatistik!).
+
+**13.5.1.1 Element: ersetzung**
+
+Innerhalb dieses Elements wird auf die Höchstwertziffer verwiesen, die zusätzlich als eigen- ständige GNR innerhalb des GO-Stammes existiert.
+
+element** ersetzungs_liste/ersetzung**
 
 diagram
 
 Refer
+
+arztpraxis/@V=false zu belegen
 
 properties
 
@@ -5793,7 +5804,7 @@ Höchstwertziffer
 
 Liste der Ziffern, deren Gesamtbewertung
 
-Selector  go:ersetzung
+Selector  go:ersetzung (Verfälschung der Abrech-
 
 Fixed
 
@@ -5801,7 +5812,7 @@ Field(s)  @V
 
 Ersetzung nicht in
 
-<ersetzung> der Arztpraxis erfolgen. Höchstwertziffer, die Kombinationen von Leistungen ersetzt Die Höchstwertziffern sind in der Abrechnung durch die Arztpraxis nicht zu verwenden und daher über das Kennzeichen Innerhalb dieses Elements wird auf die Höchstwertziffer verwiesen, die zusätzlich als eigen- ständige GNR innerhalb des GO-Stammes existiert. Annotation
+Annotation
 
 
 ---
@@ -5918,9 +5929,9 @@ Use  required
 
 Default
 
-| Fixed |  | Annotation |
-|---|---|---|
-|  | Seite | 92 von 117 |
+Fixed
+
+Annotation
 
 
 ---
@@ -7036,15 +7047,25 @@ documentation Orientierungswerte nach Versorgungsgebiet. Muss vorhanden sein,
 
 annotation
 
-| Hinweis: |  |
-|---|---|
-| Element muss | vorhanden sein, wenn sowohl Punkt- als auch Eurobewertungen existieren. |
-| (Derzeit nicht | in Verwendung). |
-| **14.4** | **Element: ktgruppen_liste** |
-| Nicht jede | GNR muss bei allen Kostenträgergruppen abrechenbar sein. Diese Tatsache wird |
-| durch einen | Kostenträgergruppen-Ausschluss ermöglicht. Alternativ können auch nur die ex- |
-| plizit | zulässigen KT-Gruppen angegeben werden (Positivliste). |
-| element | **ktgruppen_liste** |
+wenn Euro- und Punktbewertung existiert.
+
+***V***
+
+***S***
+
+Hinweis:
+
+Element muss vorhanden sein, wenn sowohl Punkt (Derzeit nicht in Verwendung).
+
+Code
+
+OID der Schlüsseltabelle
+
+**14.4 Element: ktgruppen_liste**
+
+Nicht jede GNR muss bei allen Kostenträgergruppen abrechenbar sein. Diese Tatsache wird  durch einen Kostenträgergruppen-Ausschluss ermöglicht. Alternativ können auch nur die ex- plizit zulässigen KT-Gruppen angegeben werden (Positivliste).
+
+element** ktgruppen_liste**
 
 diagram
 
@@ -7058,9 +7079,11 @@ Use  required  required
 
 Default
 
+- als auch Eurobewertungen existieren.
+
 Fixed   1.2.276.0.76.5.2 237
 
-wenn Euro- und Punktbewertung existiert. S Element muss vorhanden sein, wenn sowohl Punkt (Derzeit nicht in Verwendung). Code OID der Schlüsseltabelle 14.4  Element: ktgruppen_liste Nicht jede GNR muss bei allen Kostenträgergruppen abrechenbar sein. Diese Tatsache wird durch einen Kostenträgergruppen-Ausschluss ermöglicht. Alternativ können auch nur die ex- plizit zulässigen KT-Gruppen angegeben werden (Positivliste).Annotation
+Annotation
 
 
 ---
@@ -7254,15 +7277,19 @@ documentation Beinhaltet die VKNR des jeweiligen Kostenträgers.
 
 annotation
 
-| Hinweis: |  |
-|---|---|
-| Weitere | Informationen zum Kostenträger sind über die Kostenträgerstammdatei (SDKT) ein- |
-| holbar, was | im weitesten Sinne ebenfalls als Schlüsseltabelle angesehen werden kann. |
-| **14.6** | **Element: ktab_liste** |
-| Die <ktab_liste> | definiert den Ein - bzw. Ausschluss von Kostenträgerabrechnungsbereichen. |
-| Wie bei den | meisten Listen ist auch hier durch die Definition des V -Attributes der Liste die |
-| Angabe einer | Positiv- bzw. Negativliste möglich. |
-| element **ktab_liste** |  |
+***V***   VKNR
+
+Hinweis:
+
+Weitere Informationen zum Kostenträger sind über die Kostenträgerstammdatei (SDKT) ein-
+
+holbar, was im weitesten Sinne ebenfalls als Schlüsseltabelle angesehen werden kann.
+
+**14.6 Element: ktab_liste**
+
+Die <ktab_liste> definiert den Ein - bzw. Ausschluss von Kostenträgerabrechnungsbereichen.  Wie bei den meisten Listen ist auch hier durch die Definition des V -Attributes der Liste die  Angabe einer Positiv- bzw. Negativliste möglich.
+
+element** ktab_liste**
 
 diagram
 
@@ -7270,7 +7297,7 @@ type go:ktab_liste_typ
 
 content complex
 
-VKNR Weitere Informationen zum Kostenträger sind über die Kostenträgerstammdatei (SDKT) holbar, was im weitesten Sinne ebenfalls als Schlüsseltabelle angesehen werden kann. 14.6  Element: ktab_liste Die <ktab_liste> definiert den Ein - bzw. Ausschluss von Kostenträgerabrechnungsbereichen. Wie bei den meisten Listen ist auch hier durch die Definition des V -Attributes der Liste die Angabe einer Positiv- bzw. Negativliste möglich. properties
+properties
 
 
 ---

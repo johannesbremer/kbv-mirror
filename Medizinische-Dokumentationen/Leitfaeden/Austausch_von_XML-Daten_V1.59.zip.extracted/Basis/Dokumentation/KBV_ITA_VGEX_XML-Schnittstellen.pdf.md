@@ -11,7 +11,7 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-vertragsärztlichen Versorgung KBV_ITA_VGEX_XML-Schnittstellen 1.59 Datum: 1.5.08.2025 Kennzeichnung: Öffentlich  Status: In Kraft
+vertragsärztlichen Versorgung KBV_ITA_VGEX_XML-Schnittstellen 1.59 Datum: 15.08.2025 Kennzeichnung: Öffentlich  Status: In Kraft
 
 ---
 
@@ -24,16 +24,16 @@ Die Änderungen treten zum 1. Oktober 2025 in Kraft
 | 1.59 | 15.08.2025 | KBV | Anpassung des Elementes verschlu- |  | 18, 23 |
 | 1.58 | 14.11.2024 | KBV | Anpassung der Archivendung Herzin- |  | 14 |
 | 1.57 | 14.08.2024 | KBV | Anpassung der Archivendung Brust- |  | 14 |
-| 1.56 | 1.5.11.2023 | KBV | Anpassung der Archivendung COPD |  | 14 |
+| 1.56 | 15.11.2023 | KBV | Anpassung der Archivendung COPD |  | 14 |
 | 1.55 | 05.04.2023 | KBV | Anpassung der Archivendungen der |  | 14 |
-| 1.54 | 12.08.2022 | KBV | Neue Schnittstelle: rheumatoide Arth- Anpassung der Archivendungen |  | 12, 16, 26  16 |
-| 1.53 | 15.01.2021 | KBV | Neue Schnittstelle: Osteoporose  Anpassung der Archivendungen |  | 12, 16, 26 16 |
+| 1.54 | 12.08.2022 | KBV | Neue Schnittstelle: rheumatoide Arth- Anpassung der Archivendungen |  | 12, 16, 26    16 |
+| 1.53 | 15.01.2021 | KBV | Neue Schnittstelle: Osteoporose   Anpassung der Archivendungen |  | 12, 16, 26  16 |
 | 1.52 | 15.01.2021 | KBV | Anpassung der Archivendung De- | Aufgrund einer Fehlerkorrek- | 16 |
-| 1.51 | 09.11.2020 | KBV | Neue Schnittstelle: chronischer Rü- Anpassung der Archivendungen  Streichung von FEK, BERST und DIA |  | 12, 16, 26  16 12, 14, 16, 26 |
-| 1.50 | 30.04.2019 | KBV | Neue Schnittstelle: Herzinsuffizienz Erweiterung des Formats der Version |  | 11, 14, 26 24 |
-| 1.49 | 21.01.2019 | KBV | Anpassung der Archivdateinamen im Aktualisierung des Transportbegleit- |  | 14  30 |
+| 1.51 | 09.11.2020 | KBV | Neue Schnittstelle: chronischer Rü- Anpassung der Archivendungen   Streichung von FEK, BERST und DIA |  | 12, 16, 26    16  12, 14, 16,  26 |
+| 1.50 | 30.04.2019 | KBV | Neue Schnittstelle: Herzinsuffizienz  Erweiterung des Formats der Version |  | 11, 14, 26  24 |
+| 1.49 | 21.01.2019 | KBV | Anpassung der Archivdateinamen im  Aktualisierung des Transportbegleit- |  | 14    30 |
 | 1.48 | 28.06.2018 | KBV | Aufnahme des Archivdateinamens mit Aufgrund einer Fehlerkorrek- | aktualisiert | 14 |
-| 1.47 | 25.05.2018 | KBV | Aufnahme des Archivdateinamens mit Aktualisierung des DMP Streichung der Diskette als Datenträ- | Brustkrebs | 14   29, 29, 30 |
+| 1.47 | 25.05.2018 | KBV | Aufnahme des Archivdateinamens mit Aktualisierung des DMP  Streichung der Diskette als Datenträ- | Brustkrebs | 14     29, 29, 30 |
 | 1.46 | 08.01.2018 | KBV | Anpassung der Archivdateinamen für |  | 14 |
 | 1.45 | 04.12.2017 | KBV | Anpassung der Archivdateinamens | Streichung des Modules | 14 |
 
@@ -1345,7 +1345,7 @@ Erstellt am 15.07.2019
 | Referenz | Dokument |
 |---|---|
 | [KBV_ITA_VGEX_Schnittstelle_SDDA] | aktuell gültige |
-| [1] | KBV-Schlüsseltabellen http://applications.kbv.de/keytabs/ita/schluesseltabell |
-| [Spec_KIM_eHKS] | KIM Spezifikation für eHKS der kv.digital  https://partnerportal.kv- |
+| [1] | KBV-Schlüsseltabellen  http://applications.kbv.de/keytabs/ita/schluesseltabell |
+| [Spec_KIM_eHKS] | KIM Spezifikation für eHKS der kv.digital    https://partnerportal.kv- |
 
 Version Schnittstellenbeschreibung S_KBV_BEZIRKSSTELLE, en.asp telema- tik.de/spaces/KDK/pages/71095111/Dokumente+zu m+Download

@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT 21. FEBRUAR 2024 VERSION: 1.2  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT  21. FEBRUAR 2024  VERSION: 1.2   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # ANTRAG AUF ZERTIFIZIERUNG  VERORDNUN G VON DIGA
@@ -32,15 +32,15 @@ Antragsteller ist die juristische oder natürliche Person, die für die Einhaltu
 
 |  |  | | |
 |---|---|---|---|
-| Name des Antragstellers [bei juristischen Personen ist die |  | | |
+| Name des Antragstellers  [bei juristischen Personen ist die |  | | |
 | Geschäftsbereich [falls vorhanden] |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
 | E-Mail-Adresse |  | | |
 | Webseite |  | | |
-| Der Antragsteller ist | ☐  Arzt/Ärztin | ☐  Softwarehaus | ☐  Sonstiges |
-| Systempfleger [nur anzugeben, wenn der |  | | |
+| Der Antragsteller ist | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
+| Systempfleger  [nur anzugeben, wenn der |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
@@ -81,7 +81,10 @@ Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werd
 | ☐ | Windows | ☐ | Mac OS | ☐ | Linux |
 | ☐ | iOS/Android | ☐ | Sonstige | | |
 
+/ Version: 1.2 / 21. Februar 2024
+
 Antragstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
+
 
 ---
 
@@ -99,7 +102,7 @@ Folgende konditionalen Pflichtfunktionen
 
 | IDENT- | BEZEICHNUNG | UMGESETZTE FUNKTIONEN |
 |---|---|---|
-| KP3-020 KP3-030 | Eine Version der Verordnungssoftware Verhalten der Software bei der Anzeige von Werbung Ausschalten von Werbung | ☐ |
+| KP3-020  KP3-030 | Eine Version der Verordnungssoftware  Verhalten der Software bei der Anzeige von Werbung Ausschalten von Werbung | ☐ |
 | KP4-312 | Angaben bei erster und wiederholter Verordnung | ☐ |
 | KP4-322 | Freitext-Verordnung | ☐ |
 
@@ -110,10 +113,12 @@ Folgende optionale Funktionen wurden umgesetzt:
 | IDENT- | BEZEICHNUNG | UMGESETZTE FUNKTIONEN |
 |---|---|---|
 | O2-030 | Weitere Inhalte der Daten des Produktverzeichnisses | ☐ |
-| O3-040 | Eine von Produktwerbung freie Version der Werbefreie Verordnungssoftware | ☐ |
+| O3-040 | Eine von Produktwerbung freie Version der  Werbefreie Verordnungssoftware | ☐ |
 | O4-221 | Anzeige nicht verordnungsfähiger DiGA-Verordnungseinheiten | ☐ |
 
 wurden umgesetzt:
+
+/ Version: 1.2 / 21. Februar 2024
 
 [ ] SGB V zur Verordnung von Digitalen Gesundheitsanwendungen nach § 33a SGB V nach § 73 Abs. 9  erfüllt sind. NUMMER wird angeboten Ebene mit Produktwerbung  Dritte BITTE ANKREUZEN [ ] [ ] [ ] NUMMER Verordnungssoftware wird angeboten BITTE ANKREUZEN [ ] [ ] [ ]
 
@@ -141,6 +146,8 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 | E-Mail-Adresse |  |
 
 Diese Information ist verpflichtend anzugeben
+
+/ Version: 1.2 / 21. Februar 2024
 
 
 ---
@@ -197,6 +204,8 @@ Diese Information ist verpflichtend anzugeben
 
 - Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung].
 
+/ Version: 1.2 / 21. Februar 2024
+
 Rezertifizierung
 
 ---
@@ -219,6 +228,8 @@ Rezertifizierung
 
 - zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
 
+/ Version: 1.2 / 21. Februar 2024
+
 
 ---
 
@@ -235,3 +246,5 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+
+/ Version: 1.2 / 21. Februar 2024

@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 12. AUGUST 2021  VERSION: 3.01 DOKUMENTENSTATUS: IN |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  12. AUGUST 2021   VERSION: 3.01 DOKUMENTENSTATUS: IN |
 |---|---|
 
 # PRUEFPAKET QS  HÖRGERÄTEVERSORGUNG-KINDER
@@ -68,7 +68,7 @@ DOKUMENTENHISTORIE
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 3.01 | 12.08.2021 | KBV | Überarbeitung der Links | Austausch des FTP- https://update.kbv.de | Alle |
-| 3.00 | 15.08.2019 | KBV | Aktualisierung der  Überarbeitung des | Schnittstellenversion  Überführung ins neue | 8ff |
+| 3.00 | 15.08.2019 | KBV | Aktualisierung der    Überarbeitung des | Schnittstellenversion    Überführung ins neue | 8ff |
 | 2.03 | 12.03.2018 | KBV | Einreichung des Antrages | Anpassung des | 8ff |
 
 Prüffälle auf die Schnittstellenversion 1.12 Layouts auf Zertifizierung Servers durch neuen „Update-Server“ der KBV: 1.12 ist ab 01.10.2 019 zu verwenden Corporate Design Zertifizierungsportals
@@ -560,7 +560,7 @@ verhindert sind en sind frei wählbar, sofern diese nicht vorgegeben -1  5805-2 
 |  |  |
 |---|---|
 | Prüffall-ID | 5806 |
-| Testziel | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges QS ) |
+| Testziel | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges QS  ) |
 | Voraussetzung |  |
 | Prüfunterlagen | Screenshots / PDFs zum Nachweis der korrekten Systemfunktionalität |
 | Hinweis | Dieser Testfall ist unterteilt in vier Szenarien |

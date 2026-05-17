@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 1.4. NOVEMBER 2025  VERSION: 1.03  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  14. NOVEMBER 2025   VERSION: 1.03   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # SCHNITTSTELLENBESCHREIBUNG  DEPRESSION
@@ -45,9 +45,11 @@ BUNDESVEREINIGUNG  IT IN DER ARZTPRAXIS
 
 **12**
 
-| **5** |  | **CLINICAL_DOCUMENT_HEADER** | |  |  | **13** |
-|---|---|---|---|---|---|---|
-| 5.1 | Unterschiede | im Header | des Datensatzes | zum | DMPDepression | 13 |
+**5** **CLINICAL_DOCUMENT_HEADER**
+
+**13**
+
+5.1 Unterschiede im Header des Datensatzes zum DMP Depression 13
 
 **6** **BODY DER „ERSTMALIGEN DOKUMENTATION“**
 
@@ -129,7 +131,6 @@ Vom Patienten gewünschte Informationsangebote der Krankenkasse 29
 
 Dokumentationsintervall 29
 
-Unterschiede im Header des Datensatzes zum DMP
 
 ---
 
@@ -331,7 +332,7 @@ TEILGENOMMEN ...................................................................
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.03 | 1.4.11.2025 | KBV | Anpassung an die | Beschluss des G-BA | 18 |
+| 1.03 | 14.11.2025 | KBV | Anpassung an die | Beschluss des G-BA | 18 |
 | 1.02 | 12.08.2022 | KBV | Anpassung an die | Beschluss des G-BA | 18 |
 | 1.01 | 06.01.2021 | KBV | Anpassung an neue Version | Korrektur der Komponenten- | - |
 | 1.00 | 22.10.2020 | KBV | neues Dokument |  |  |
@@ -447,7 +448,7 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 |---|---|
 | Symbol | Beschreibung |
 |  | Element mit Kindelementen Ein Element mit einem oder mehreren Kindelementen wird durch ein |
-|  | Referenzelement Der Pfeil links unten im Element zeigt an, dass das Element an anderer Stelle |
+|  | Referenzelement  Der Pfeil links unten im Element zeigt an, dass das Element an anderer Stelle |
 |  | Datentyp Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen Datentyp. |
 |  | Gruppenelement Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement dar, |
 
@@ -479,7 +480,7 @@ DMP_Depression.xsd
 
 Folgender Code ist für diese Elemente zwingend vorgeschrieben
 
-| <?xml version="1.0" encoding="ISO-8859-15"?> <levelone xmlns="urn::hl7-org/cda"         </levelone> |
+| <?xml version="1.0" encoding="ISO-8859-15"?>  <levelone xmlns="urn::hl7-org/cda"                 </levelone> |
 |---|
 
 **XML-Code 1:** levelone
@@ -510,7 +511,7 @@ Der Aufbau des Elements <body> ist in Abbildung 2 dargestellt.
 
 Der Coderahmen für das <body>-Element sieht wie folgt aus.
 
-| <body>    </body> |
+| <body>       </body> |
 |---|
 
 **XML-Code 2:** body
@@ -555,7 +556,7 @@ Wenn in allen Abschnitten Daten enthalten sind, sieht der Coderahmen für das El
 
 dem Datensatz.
 
-| <section>                                  </paragraph>   <caption>   </caption>     </section> |
+| <section>                                                                  </paragraph>      <caption>     </caption>         </section> |
 |---|
 
 **XML-Code 3:** section
@@ -584,7 +585,7 @@ verwendet wird. Der Coderahmen für das Element <content> mit Sciphox-SSU *obser
 
 folgendermaßen aus:
 
-| <content>   <sciphox:sciphox-ssu type="observation" country="de" version="v1">    </content> |
+| <content>     <sciphox:sciphox-ssu type="observation" country="de" version="v1">        </content> |
 |---|
 
 **XML-Code 4:** content mit sciphox-SSU (observation)
@@ -609,7 +610,7 @@ Der Aufbau dieser SSU ist nachfolgend beschrieben:
 
 Der XML-Code zum Element <sciphox-ssu> sieht folgendermaßen aus:
 
-| <sciphox:sciphox-ssu type="observation" country="de" version="v1">  <sciphox:Beobachtungen>        </sciphox:sciphox-ssu> |
+| <sciphox:sciphox-ssu type="observation" country="de" version="v1">   <sciphox:Beobachtungen>               </sciphox:sciphox-ssu> |
 |---|
 
 **XML-Code 5:** Beobachtungen
@@ -628,7 +629,7 @@ Das Element <Parameter> enthält nur das *DN*-Attribut. Als Wert werden die Para
 
 Der XML-Code zum Element <Parameter> sieht folgendermaßen aus:
 
-| <sciphox:Beobachtung>   XML-Code 7: </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     XML-Code 7: </sciphox:Beobachtung> |
 |---|
 
 *V-*Attribut. Einzelne Ausprägungen, die als Text im Datensatz  *V-*Attribut, angegeben. Der XML-Code
@@ -643,7 +644,7 @@ Datensatz eingegeben werden (z.B. „1.80“), werden in diesem Element, im *V-*
 
 Dezimaltrennzeichen wird der Dezimalpunkt verwendet. Im U-Attribut (UNIT) wird die Einheit (z.B. „m“)  eingetragen. Der XML-Code zum Element <Ergebniswert> sieht folgendermaßen aus:
 
-| <sciphox:Beobachtung>    </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>       </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 8:** Ergebniswert
@@ -660,7 +661,7 @@ Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau di
 
 mindestens ein Kindelement <sciphox:Ergebnistext
 
-<sciphox:Parameter DN="..."/> XML-Code 6:  Parameter Ergebnistext Das Element <Ergebnistext > enthält nur das hinterlegt sind (z.B. „Ja“ und „Nein“), werden in diesem Element, im zum Element <Ergebnistext <sciphox:Ergebnistext V="..."/> ...  Ergebnistext <sciphox:Ergebniswert V=". . ." U="..."/>| <sciphox:Beobachtung>    </sciphox:Beobachtung> |
+<sciphox:Parameter DN="..."/> XML-Code 6:  Parameter Ergebnistext Das Element <Ergebnistext > enthält nur das hinterlegt sind (z.B. „Ja“ und „Nein“), werden in diesem Element, im zum Element <Ergebnistext <sciphox:Ergebnistext V="..."/> ...  Ergebnistext <sciphox:Ergebniswert V=". . ." U="..."/>| <sciphox:Beobachtung>       </sciphox:Beobachtung> |
 |---|
 
 
@@ -668,7 +669,7 @@ mindestens ein Kindelement <sciphox:Ergebnistext
 
 Der Coderahmen sieht wie folgt aus:
 
-| <content>        <sciphox:Beobachtungen>              </content> |
+| <content>            <sciphox:Beobachtungen>                     </content> |
 |---|
 
 **XML-Code 9:**
@@ -696,7 +697,7 @@ gemäß Tabelle 4. Wenn bei diesem Parameter mehrere Felder ausgewählt wurden, 
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   < </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>    < </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 10:**
@@ -739,7 +740,7 @@ Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus
 
 ---
 
-| <content>     <sciphox:Beobachtungen>                                            </content> |
+| <content>        <sciphox:Beobachtungen>                                                                                       </content> |
 |---|
 
 **XML-Code 11:** content (Anamnese- und Befunddaten)
@@ -752,7 +753,7 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V*-Attribut
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <   </sciphox:Beobachtung> |
+| <     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 12:** Körpergröße
@@ -769,7 +770,7 @@ im *U*-Attribut den fest vorgeschriebenen Wert „kg“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 13:** Körpergewicht
@@ -782,7 +783,7 @@ gemäß Tabelle 5.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 14:** Raucher
@@ -806,7 +807,7 @@ und im *U*-Attribut den fest vorgeschriebenen Wert „mmHg“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 15:** Blutdruck systolisch
@@ -819,7 +820,7 @@ und im *U*-Attribut den fest vorgeschriebenen Wert „mmHg“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 16:** Blutdruck diastolisch
@@ -834,7 +835,7 @@ Tabelle 6. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können m
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>    </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>       </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 17:** Begleiterkrankungen
@@ -867,7 +868,7 @@ Skalensummenwertes erfolgt ohne Nachkommastelle.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 18:** Aktuelle Symptomatik – PHQ-9 Summenwert
@@ -880,7 +881,7 @@ Tabelle 7. Ein Element <sciphox:Ergebnistext> mit entsprechenden Werten kann ang
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 19:** Schweregrad zu Beginn der aktuellen depressiven Episode
@@ -906,7 +907,7 @@ Tabelle 8. Ein Element <sciphox:Ergebnistext> mit entsprechenden Werten
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 20:** Dauer der aktuellen depressiven Episode
@@ -926,7 +927,7 @@ Tabelle 9. Ein Element <sciphox:Ergebnistext> mit entsprechenden Werten
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 21:** Suizidalität eingeschätzt
@@ -963,7 +964,7 @@ genau ein Kindelement <sciphox:Ergebnistext>
 
 Der Coderahmen sieht wie folgt aus:
 
-| <content>    <sciphox:Beobachtungen>            </content> |
+| <content>       <sciphox:Beobachtungen>                       </content> |
 |---|
 
 **XML-Code 22:** content (Nicht-medikamentöse und medikamentöse Behandlung
@@ -976,7 +977,7 @@ Tabelle 10. Ein Element <sciphox:Ergebnistext> mit entsprechenden Werten kann an
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 23:** Aktuelle Psychotherapie
@@ -1002,7 +1003,7 @@ Tabelle 11. Ein Element <sciphox:Ergebnistext> mit entsprechenden Werten
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 24:** Aktuelle medikamentöse Therapie mit Antidepressiva
@@ -1042,7 +1043,7 @@ Der Coderahmen sieht wie folgt aus:
 
 ---
 
-| <content>       <sciphox:Beobachtungen>     teilgenommen"/>                  </local_markup> </content> |
+| <content>          <sciphox:Beobachtungen>       teilgenommen"/>                           </local_markup> </content> |
 |---|
 
 **XML-Code 25:** content (Schulung)
@@ -1055,7 +1056,7 @@ gemäß Tabelle 12. Ein Element <sciphox:Ergebnistext> mit entsprechenden Werten
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   < </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>    < </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 26:** Bereits vor Einschreibung in das DMP an einer depressionsspezifischen Schulung
@@ -1083,7 +1084,7 @@ gemäß Tabelle 13. Ein Element <sciphox:Ergebnistext> mit entsprechenden Werten
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   < </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>    < </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 27**: Depressionsspezifische Schulung empfohlen (bei aktueller Dokumentation)
@@ -1111,7 +1112,7 @@ Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
 
-| <content>       <sciphox:Beobachtungen>                      </content> |
+| <content>          <sciphox:Beobachtungen>                                 </content> |
 |---|
 
 **XML-Code 28:** content (Behandlungsplanung)
@@ -1128,7 +1129,7 @@ gemäß Tabelle 14. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, 
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 29:** Vom Patienten gewünschte Informationsangebote der Krankenkasse
@@ -1151,7 +1152,7 @@ gemäß Tabelle 15.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 30:** Dokumentationsintervall
@@ -1236,7 +1237,7 @@ Tabelle 16: Werte bei Ergebnistext (Schweregrad zu Beginn der aktuellen depressi
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 31:** Schweregrad zu Beginn der aktuellen depressiven Episode
@@ -1283,7 +1284,7 @@ genau ein Kindelement <sciphox:Ergebnistext>.
 
 Der Coderahmen sieht wie folgt aus:
 
-| <content>     <sciphox:Beobachtungen>             </local_markup> </content> |
+| <content>        <sciphox:Beobachtungen>                        </local_markup> </content> |
 |---|
 
 **XML-Code 32:** content (Schulung)
@@ -1300,7 +1301,7 @@ gemäß Tabelle 17.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 33:** Depressionsspezifische Schulung wahrgenommen
@@ -1364,11 +1365,11 @@ Information Systems in Physician Offices and Hospitals using XML
 |  |  |
 |---|---|
 | Referenz | Dokument |
-| [KBV_ITA_VGEX_XML-Schnittstellen ] | Austausch von XML Daten in der Vertragsärztlichen |
-| [EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend ] | Plausibilitätsrichtlinie zur Prüfung der |
-| [EXT_ITA_VGEX_Plausi_eDMP_ Depression] | Plausibilitätsrichtlinie zur Prüfung der Depression |
-| [KBV_ITA_VGEX_Schnittstelle_eHeader ] | Header für elektronische Dokumentation |
-| [KBV_ITA_VGEX_Anforderungskatalog_eDMP ] | Anforderungskatalog eDMP |
+| [KBV_ITA_VGEX_XML-Schnittstellen] | Austausch von XML Daten in der Vertragsärztlichen |
+| [EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend] | Plausibilitätsrichtlinie zur Prüfung der |
+| [EXT_ITA_VGEX_Plausi_eDMP_Depression] | Plausibilitätsrichtlinie zur Prüfung der  Depression |
+| [KBV_ITA_VGEX_Schnittstelle_eHeader] | Header für elektronische Dokumentation |
+| [KBV_ITA_VGEX_Anforderungskatalog_eDMP] | Anforderungskatalog eDMP |
 
 **Ansprechpartner:**
 

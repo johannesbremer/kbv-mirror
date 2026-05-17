@@ -13,6 +13,8 @@ Geben Sie in den Abschnitten A und B die relevanten Gesundheitsstörungen einsch
 
 ---
 
+### Elektronische Ausfüllhilfe Muster 64
+
 - **2. Kurze Angaben zur Anamnese**
 
 Geben Sie hier die Anamnese und ggf. den bisherigen Verlauf der Krankenbehandlung einschließlich der  Beschwerden an.
@@ -28,6 +30,8 @@ Geben Sie die Lebensumstände an, die für die mütter -/väterspezifische Probl
 
 ---
 
+### Elektronische Ausfüllhilfe Muster 64
+
 - **5. Krankenbehandlung und andere Maßnahmen**
 
 Geben Sie in den Abschnitten A und B die bisher durchgeführten Leistungen der Krankenbehandlung an und  bestätigen Sie, dass die bisherigen Maßnahmen nicht ausreichend bzw. zielführend sind .
@@ -42,6 +46,8 @@ Geben Sie hier die Ihrer Einschätzung nach geeignete Leistungsform an (z. B. M�
 
 
 ---
+
+### Elektronische Ausfüllhilfe Muster 64
 
 - **8. Angaben zu Kindern, die mit aufgenommen werden sollen**
 

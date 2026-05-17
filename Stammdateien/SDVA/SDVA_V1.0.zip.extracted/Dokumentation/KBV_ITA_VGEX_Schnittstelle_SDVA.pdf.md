@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 21. APRIL 2021  VERSION: 1.0  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  21. APRIL 2021   VERSION: 1.0   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # SCHNITTSTELLENBESCHREIBUNG SDVA  (VERSCHLÜSSELUNGSANLEITUNG-
@@ -405,9 +405,9 @@ Es existieren verschiedene Kardinalitäten:
 | BESCHREIBUNG DER KARDINALITÄTEN | | |
 |---|---|---|
 | Kardinalität | Symbol | Beschreibung |
-| 0..1 |  | Optionales Element Element wird als Rechteck mit gestrichelter Linie |
-| 1 |  | Musselement Rechteck mit durchgezogener Linie. Das Element muss |
-| n...m |  | Multielement Enthält mindestens n aber maximal m Elemente, was |
+| 0..1 |  | Optionales Element  Element wird als Rechteck mit gestrichelter Linie |
+| 1 |  | Musselement  Rechteck mit durchgezogener Linie. Das Element muss |
+| n...m |  | Multielement  Enthält mindestens n aber maximal m Elemente, was |
 
 Tabelle 2: Beschreibung der Kardinalitäten
 
@@ -434,8 +434,8 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 | BESCHREIBUNG SONSTIGER SYMBOLE | |
 |---|---|
 | Symbol | Beschreibung |
-|  | Element mit Kindelementen Ein Element mit einem oder mehreren Kindelementen wird durch ein |
-|  | Referenzelement Der Pfeil links unten im Element zeigt an, dass das Element an anderer Stelle |
+|  | Element mit Kindelementen  Ein Element mit einem oder mehreren Kindelementen wird durch ein |
+|  | Referenzelement  Der Pfeil links unten im Element zeigt an, dass das Element an anderer Stelle |
 |  | Datentyp Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen Datentyp. |
 |  | Gruppenelement Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement dar, |
 
@@ -455,7 +455,7 @@ Abbildung 1: /ehd (root-Element)
 
 Das ***<ehd>*** - Element hat folgenden Aufbau:
 
-| <?xml version="1.0" encoding="ISO-8859-15"?> <ehd:ehd xmlns="urn:ehd/001" <ehd:header> ... </ehd:header> <ehd:body> ... </ehd:body> </ehd:ehd> |
+| <?xml version="1.0" encoding="ISO-8859-15"?>  <ehd:ehd xmlns="urn:ehd/001"  <ehd:header>  ...  </ehd:header>  <ehd:body>  ...  </ehd:body>  </ehd:ehd> |
 |---|
 
 Formel 1: XML-Code /ehd
@@ -498,7 +498,7 @@ Abbildung 2 va_stammdaten
 
 Der Coderahmen für das <va_stammdaten>-
 
-| <va_stammdaten> <haupt_zweig_liste> ... </haupt_zweig_liste>  </va_stammdaten> |
+| <va_stammdaten>  <haupt_zweig_liste>  ...  </haupt_zweig_liste>   </va_stammdaten> |
 |---|
 
 Element sieht wie folgt aus:
@@ -518,7 +518,7 @@ Der Coderahmen für das <haupt_zweig_liste>-Element sieht wie folgt aus:
 
 ---
 
-| <haupt_zweig_liste> <haupt_zweig V=“1“ DN>   ... </haupt_zweig> <haupt_zweig V=“2“ DN=“Wesentliche jährliche Änderungen der ICD-10-GM-Daten“>   ... </haupt_zweig> </> |
+| <haupt_zweig_liste>  <haupt_zweig V=“1“ DN>    ... </haupt_zweig>  <haupt_zweig V=“2“ DN=“Wesentliche jährliche Änderungen der ICD-10-GM-Daten“>    ... </haupt_zweig>  </> |
 |---|
 
 Formel 3: XML-Code: haupt_zweig_liste
@@ -537,7 +537,7 @@ Abbildung 4 haupt_zweig
 
 Der Coderahmen für das <haupt_zweig>- Element sieht wie folgt aus:
 
-| <haupt_zweig V=“1“ DN=“Anleitung zur Verschlüsselung“> <titel V=““ <nr V=“1“ /> <hauptkapitel_liste>     ... </hauptkapitel_liste> </> |
+| <haupt_zweig V=“1“ DN=“Anleitung zur Verschlüsselung“> <titel V=““ <nr V=“1“ />  <hauptkapitel_liste>      ...  </hauptkapitel_liste> </> |
 |---|
 
 Formel 4: XML-Code: haupt_zweig
@@ -574,7 +574,7 @@ Abbildung 5 hauptkapitel_liste
 
 Der Coderahmen für das <hauptkapitel_liste>-Element sieht wie folgt aus:
 
-| <hauptkapitel_liste> <hauptkapitel V=“...“>    ... </hauptkapitel>  <hauptkapitel V=“...“>    ... </hauptkapitel>  </hauptkapitel_liste> |
+| <hauptkapitel_liste>  <hauptkapitel V=“...“>     ...  </hauptkapitel>   <hauptkapitel V=“...“>     ...  </hauptkapitel>   </hauptkapitel_liste> |
 |---|
 
 Formel 5: XML-Code: hauptkapitel_liste
@@ -593,7 +593,7 @@ Abbildung 6: hauptkapitel
 
 Der Coderahmen für das <hauptkapitel>-Element sieht wie folgt aus.
 
-| <hauptkapitel V=“112“ > <titel V=“ <nr V=“1.1“ /> <kapitel_liste>     ... </kapitel_liste> < |
+| <hauptkapitel V=“112“ >  <titel V=“ <nr V=“1.1“ />  <kapitel_liste>      ...  </kapitel_liste> < |
 |---|
 
 Formel 6: XML-Code: hauptkapitel
@@ -624,7 +624,7 @@ Was ist zu verschlüsseln?“ /> hauptkapitel>
 
 ---
 
-| <kapitel_liste> <kapitel V=“...“>    ... </kapitel>  <kapitel V=“...“>    ... </kapitel>  </kapitel_liste> |
+| <kapitel_liste>  <kapitel V=“...“>     ...  </kapitel>   <kapitel V=“...“>     ...  </kapitel>   </kapitel_liste> |
 |---|
 
 Formel 7: XML-Code: kapitel_liste
@@ -639,7 +639,7 @@ Abbildung 8: kapitel
 
 Der XML-Code für ein <kapitel> Element hat folgenden Aufbau:
 
-| <kapitel V=“11211“ > <titel V=““ <nr V=“1.1.1“ /> <beschreibung>     ... </beschreibung> <   <kapitel V=“112223“ > <titel V=“Kapitel XI - Krankheiten des Verdauungssystems (K00-K93)“ /> <nr V=“2.3.11“ /> <unterkapitel>     ... </unterkapitel> < |
+| <kapitel V=“11211“ >  <titel V=““ <nr V=“1.1.1“ />  <beschreibung>      ...  </beschreibung> <     <kapitel V=“112223“ >  <titel V=“Kapitel XI - Krankheiten des Verdauungssystems (K00-K93)“ />  <nr V=“2.3.11“ />  <unterkapitel>     ...  </unterkapitel> < |
 |---|
 
 Formel 8: XML-Code: kapitel
@@ -670,7 +670,7 @@ Abbildung 9: unterkapitel_liste
 
 Der XML-Code für ein <unterkapitel_liste> Element hat folgenden Aufbau:
 
-| <unterkapitel_liste> <unterkapitel V=“...“>    ... </unterkapitel>  <unterkapitel V=“...“>    ... </unterkapitel>  </unterkapitel> |
+| <unterkapitel_liste>  <unterkapitel V=“...“>     ...  </unterkapitel>   <unterkapitel V=“...“>     ...  </unterkapitel>   </unterkapitel> |
 |---|
 
 Formel 9: XML-Code: unterkapitel_liste
@@ -688,7 +688,7 @@ Der XML-Code für ein <unterkapitel> Element hat folgenden Aufbau:
 
 ---
 
-| <kapitel V=“11211“ > <titel V=““ <nr V=“1.1.1“ /> <beschreibung>     ... </beschreibung> < |
+| <kapitel V=“11211“ >  <titel V=““ <nr V=“1.1.1“ />  <beschreibung>      ...  </beschreibung> < |
 |---|
 
 Formel 10: XML-Code: unterkapitel
@@ -719,7 +719,7 @@ Gesetzliche Bestimmungen /> kapitel>
 
 ---
 
-| <beschreibung>  <div>            Grundsätzlich gilt: Zur Verschlüsselung sind die endständigen (terminalen) Schlüsselnummern     </p>      In der ambulanten Versorgung (§ 295 SGB V) kann auf die fünfte Stelle verzichtet werden    </p>      <li>in der hausärztlichen Versorgung,</li>         <li>im organisierten Notfalldienst und</li>      <li>in der fachärztlichen Versorgung für Diagnosen außerhalb des Fachgebietes.</li>    </ul>  </div> </beschreibung> |
+| <beschreibung>   <div>              Grundsätzlich gilt: Zur Verschlüsselung sind die endständigen (terminalen) Schlüsselnummern      </p>       In der ambulanten Versorgung (§ 295 SGB V) kann auf die fünfte Stelle verzichtet werden     </p>       <li>in der hausärztlichen Versorgung,</li>          <li>im organisierten Notfalldienst und</li>       <li>in der fachärztlichen Versorgung für Diagnosen außerhalb des Fachgebietes.</li>     </ul>   </div>  </beschreibung> |
 |---|
 
 Formel 11: XML-Code: beschreibung
@@ -740,7 +740,7 @@ Der XML-Code für ein <div> Element hat folgenden Aufbau:
 
 ---
 
-| <div>                </p>          </p>      <li>in der hausärztlichen Versorgung,</li>         <li>im organisierten Notfalldienst und</li>      <li>in der osen außerhalb des Fachgebietes.</li>    </ul>  </div> |
+| <div>                   </p>            </p>       <li>in der hausärztlichen Versorgung,</li>          <li>im organisierten Notfalldienst und</li>       <li>in der osen außerhalb des Fachgebietes.</li>    </ul>   </div> |
 |---|
 
 Formel 12: XML-Code: div
@@ -753,7 +753,7 @@ Abbildung 13: ul
 
 Der XML-ulCode für ein < > Element hat folgenden Aufbau:
 
-| <ul>   <li>in der hausärztlichen Versorgung,</li>      <li>im organisierten Notfalldienst und</li>   <li>in der fachärztlichen Versorgung für Diagnosen außerhalb des Fachgebietes.</li> </ul> |
+| <ul>    <li>in der hausärztlichen Versorgung,</li>       <li>im organisierten Notfalldienst und</li>    <li>in der fachärztlichen Versorgung für Diagnosen außerhalb des Fachgebietes.</li>  </ul> |
 |---|
 
 Formel 13: XML-Code: ul
@@ -787,7 +787,7 @@ Abbildung 15: table
 
 Der XML-Code für ein <table> Element hat folgenden Aufbau:
 
-| <table>    <tr>       <th>...</th>          <th>...</th>       </tr>    <tr>       <td>...</td>          <td>...</td>       </tr> </table> |
+| <table>     <tr>        <th>...</th>           <th>...</th>        </tr>     <tr>        <td>...</td>           <td>...</td>        </tr>  </table> |
 |---|
 
 
@@ -805,7 +805,7 @@ Abbildung 16: tr
 
 Der XML-trCode für ein <
 
-| <tr>       <th>...</th>          <th>...</th>       </tr>    <tr>       <td>...</td>          <td>...</td>       </tr> |
+| <tr>        <th>...</th>           <th>...</th>        </tr>     <tr>        <td>...</td>           <td>...</td>        </tr> |
 |---|
 
 > Element hat folgenden Aufbau:
@@ -827,7 +827,7 @@ Der XML-thCode für ein <
 
 ---
 
-| <tr>       <th>Diagnose</th>          <th>§ 2th>       <th>§ 301 SGB V (stationäre Versorgung)</th>       </tr> |
+| <tr>        <th>Diagnose</th>           <th>§ 2th>       <th>§ 301 SGB V (stationäre Versorgung)</th>        </tr> |
 |---|
 
 Formel 17: XML-Code: th
@@ -842,7 +842,7 @@ Abbildung 18: td
 
 Der XML-tdCode für ein < > Element hat folgenden Aufbau:
 
-| <tr>       <td>Schnittwunde am linken Unterarm</td>          <td>S51.9 GL</td>       <td>S51.9 L</td>       </tr> |
+| <tr>        <td>Schnittwunde am linken Unterarm</td>           <td>S51.9 GL</td>        <td>S51.9 L</td>        </tr> |
 |---|
 
 Formel 18: XML-Code: td
@@ -855,7 +855,7 @@ Abbildung 19: ol
 
 Der XML-Code für ein <ol> Element hat folgenden Aufbau:
 
-| <ol>   <li>in der hausärztlichen Versorgung,</li>      <li>im organisierten Notfalldienst und</li>   <li>in der fachärztlichen Versorgung für Diagnosen außerhalb des Fachgebietes.</li> </ol> |
+| <ol>    <li>in der hausärztlichen Versorgung,</li>       <li>im organisierten Notfalldienst und</li>    <li>in der fachärztlichen Versorgung für Diagnosen außerhalb des Fachgebietes.</li>  </ol> |
 |---|
 
 95 SGB V (ambulante Versorgung)</
@@ -876,7 +876,7 @@ Abbildung 20: p
 
 Der XML-Code für ein <p> Element hat folgenden Aufbau:
 
-| <p> Mit der ICD-10-GM 2021 wurden die Schlüsselnummern unter K57.- Divertikulose des Darmes an die </p> |
+| <p> Mit der ICD-10-GM 2021 wurden die Schlüsselnummern unter K57.- Divertikulose des Darmes an die  </p> |
 |---|
 
 Formel 20: XML-Code: p

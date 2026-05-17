@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | DEZERNAT  1. DEZEMBER 2020 |
+|  | DEZERNAT    1. DEZEMBER 2020 |
 |---|---|
 
 # PT-BERATER – DOSIERUNGSANGABE  AUF REZEPT – FAQS
@@ -170,7 +170,7 @@ Wir empfehlen ÄrztInnen im Falle, dass für ihre Patienten ein Medikationsplan 
 
 Medikationsplanes auf das Rezept zu kopieren, um ggf. mit der Zeit auseinanderlaufende Dosierungen zu  verhindern.
 
-Daher wirdSoftwarehäusern gleichsam empfohlen, dass eine Verordnung aus dem BMP heraus  automatisch, d.h. durch Voreinstellung das Kennzeichen Dj auf dem Rezept auslöst. Die
+Daher wird Softwarehäusern gleichsam empfohlen, dass eine Verordnung aus dem BMP heraus  automatisch, d.h. durch Voreinstellung das Kennzeichen Dj auf dem Rezept auslöst. Die
 
 Wechselmöglichkeit zu einer manuell eingegebenen Dosierung durch ÄrztInnen muss weiterhin gegeben  sein.
 

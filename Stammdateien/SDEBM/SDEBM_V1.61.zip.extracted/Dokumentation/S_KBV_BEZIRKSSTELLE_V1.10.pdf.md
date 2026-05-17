@@ -175,6 +175,8 @@ Aachen
 |---|---|
 | 69 | Niederbayern |
 
+3 / KBV / SCHLÜSSELTABELLE - S_KBV_BEZIRKSSTELLE
+
 **Bezeichnung**
 
 Köln
@@ -248,6 +250,8 @@ Unterfranken
 
 ---
 
+**Code**
+
 70
 
 71
@@ -291,6 +295,10 @@ Unterfranken
 | 96 | Leipzig |
 |---|---|
 | 98 | Sachsen |
+
+3 / KBV / SCHLÜSSELTABELLE - S_KBV_BEZIRKSSTELLE
+
+**Bezeichnung**
 
 Schwaben
 

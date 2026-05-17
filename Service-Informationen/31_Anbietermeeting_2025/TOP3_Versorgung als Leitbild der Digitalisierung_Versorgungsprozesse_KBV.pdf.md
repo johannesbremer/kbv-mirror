@@ -285,7 +285,7 @@ gaben 67% der Befragten an
 
 # eMP und ISiK: Nächste  Konformitätsbewertungen werden geplant
 
-### Vorbereitungen für KOB zur ePA 3.1.3 sind gestartet
+### Vorbereitungen für KOB zur e PA 3.1.3 sind gestartet
 
 - **Identifikation der Anforderungen**, die in Empfehlungsprozess dem BMG zur
 
@@ -305,9 +305,9 @@ gaben 67% der Befragten an
 
 ### Gesundheits-IT-Interoperabilitäts-Governance Verordnung
 
-- **KOB für ePA 3.0 / Medication Service ePA 3.0** wird durch
+- **KOB für e PA 3.0 / Medication Service ePA 3.0** wird durch
 
-### kommende KOB für ePA 3.1.3 ersetzt
+### kommende KOB für e PA 3.1.3 ersetzt
 
 - Operativer Prozess bleibt bestehen: Bereitstellung der **Testsuite**
 
@@ -354,12 +354,12 @@ credits:istock.com/CoreDesignKEY
 
 ---
 
-# Zukunft der gematik
+|  | **Zukunft** | | **der gematik** |
+|---|---|---|---|
+| **Dr.** | **Florian** |  | **Fuhrmann** |
+|  | Vorsitzender |  | Geschäftsführung |
 
-**Dr. Florian Fuhrmann**
-
-## Vorsitzender Geschäftsführung
-
+Zukunft der gematik Dr. Florian Fuhrmann Vorsitzender Ge
 
 ---
 
@@ -405,11 +405,10 @@ Versorgung auf dem Land## Kostendruck
 
 ---
 
-| **Analoge** | **Prozesse** |  |  |
-|---|---|---|---|
-|  |  | **Digitale** | **Journeys** |
+## Analoge Prozesse
 
-Analoge Prozesse Digitale Journeys
+## Digitale Journeys
+
 
 ---
 

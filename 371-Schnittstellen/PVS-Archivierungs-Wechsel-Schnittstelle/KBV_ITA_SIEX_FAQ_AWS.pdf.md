@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | DEZERNAT DIGITALISI REF. INTEROPERABILIT 13. MAI 2022 1.3 |
+|  | DEZERNAT DIGITALISI REF. INTEROPERABILIT 13. MAI 2022  1.3 |
 |---|---|
 
 # FAQS ZUR ARCHIVIERUNGS- UND  WECHSELSCHNITTSTELLE
@@ -178,10 +178,10 @@ BEKANNTE FEHLER KBV_Profil KBV_PR_AW_Report_Import
 |---|---|---|---|---|---|
 | 1.10.001 | 01.08.2019 | KBV | Initiale Erstellung | Neues Dokument | alle |
 | 1.10.002 | 01.11.2019 | KBV | Div. Ergänzungen |  | alle |
-| 1.2.0 | 31.08.2020 | KBV | Div. Ergänzungen  Kapitel 5 - Validierung | Änderung der SST | Alle |
+| 1.2.0 | 31.08.2020 | KBV | Div. Ergänzungen    Kapitel 5 - Validierung | Änderung der SST | Alle |
 | 1.2.0 | 05.02.2021 | KBV | Kapitel 5.1 aktualisiert |  | 9 |
 | 1.2.0 | 18.06.2021 | KBV | Kapitel 1.3, 5 und 6 |  | alle |
-| 1.2.0 | 14.07.2021 | KBV | Neue Kapitel 4.6 |  | 11, 14, 18, 19 |
+| 1.2.0 | 14.07.2021 | KBV | Neue Kapitel 4.6 |  | 11, 14, 18,  19 |
 | 1.2.0 | 15.11.2021 | KBV | Kapitel 7.3 | Aufnahme in |  |
 | 1.3 | 13.05.2022 | KBV | Kapitel 6.2 |  | 17 |
 
@@ -192,7 +192,7 @@ eingefügt aktualisiert. , 5.4, und 8. „Alternativwerte entfernt und 6.3 einge
 
 ---
 
-# FAQ ZUR VERSION 1.2.0
+# FAQ ZUR VERSION 1.2. 0
 
 In diesem Dokument werden häufige Fragen zur Archiv - und Wechselschnittstelle erläutert.
 
@@ -240,7 +240,7 @@ Funktionsumfang von PVS A: - Patientendaten
 
 - Arzt-Patientenkontakt (Begegnung) - Terminplanung
 
-- eDMP
+- e DMP
 
 Funktionsumfang von PVS B: - Patientendaten
 
@@ -261,7 +261,7 @@ Funktionsumfang von PVS B: - Patientendaten
 
 - Terminplan
 
-- FHIR -Ressourcen (74_PR_AW_Termin) - eDMP
+- FHIR -Ressourcen (74_PR_AW_Termin) - e DMP
 
 - FHIR -Ressourcen Anlage (74_PR_AW_Anlage)
 
@@ -281,7 +281,7 @@ Funktionsumfang von PVS B: - Patientendaten
 
 - Nach ANF-AWS **P07-01 Satz 5**
 
-- Patientenbezogene eDMP nach ANF -AWS **P07-01** relevant - Müssen importiert werden
+- Patientenbezogene e DMP nach ANF -AWS **P07-01** relevant - Müssen importiert werden
 
 - Als Anlage mit Profil 74_PR_AW_Anlage
 
@@ -364,7 +364,7 @@ Der Import darf nur mit der gleichen Version der AW -SST erfolgen , die im Expor
 
 P7-07).
 
-Zu einem späteren Zeitpunkt soll eine Abwärtskompatibilität mit der Minor -Version (letzte Stelle) „X.X.**X**
+Zu einem späteren Zeitpunkt soll eine Abwärtskompatibilität mit der Minor -Version (letzte Stelle) „X.X. **X**
 
 hergestellt werden, sodass der Export/Import nur noch mit der gleichen Major -Version „**X.X**.X“ (ersten
 

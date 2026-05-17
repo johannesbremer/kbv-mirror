@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | BUNDESVEREINIGUNG DEZERNAT DIGITALISIERUNG UND IT 31. MÄRZ 2026  VERSION: 1.21  DOKUMENTENSTATUS: IN |
+|  | BUNDESVEREINIGUNG  DEZERNAT DIGITALISIERUNG UND IT  31. MÄRZ 2026   VERSION: 1.21   DOKUMENTENSTATUS: IN |
 |---|---|
 
 # PRUEFPAKET EDMP-KHK
@@ -123,9 +123,11 @@ KASSENÄRZTLICHE IT IN DER ARZTPRAXIS KRAFT
 
 28
 
-| **4** | **ANHANG** |  | **30** |
-|---|---|---|---|
-| 4.1 | Versichertendaten | – Ersatzverfahren | 30 |
+**4** **ANHANG**
+
+**30**
+
+4.1 Versichertendaten  Ersatzverfahren 30
 
 **5** **REFERENZIERTE DOKUMENTE**
 
@@ -151,9 +153,9 @@ DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.21 | 31.03.2026 | KBV | Anpassung der Prüffälle an  Anpassung Prüffall 7540 | Schnittstellenversion  Änderung der | 9, 13    26 |
-| 1.20 | 15.08.2023 | KBV | Datumsanpassungen der Anpassung der | Datumsanpassungen | 13 |
-| 1.19 | 08.11.2022 | KBV | Datumsanpassungen der        Neuer Prüffall 2630 zur | Datumsanpassungen  Schnittstellenversion  Anpassung an | 17         26 |
+| 1.21 | 31.03.2026 | KBV | Anpassung der Prüffälle an    Anpassung Prüffall 7540 | Schnittstellenversion    Änderung der | 9, 13        26 |
+| 1.20 | 15.08.2023 | KBV | Datumsanpassungen der  Anpassung der | Datumsanpassungen | 13 |
+| 1.19 | 08.11.2022 | KBV | Datumsanpassungen der                Neuer Prüffall 2630 zur | Datumsanpassungen    Schnittstellenversion    Anpassung an | 17                  26 |
 | 1.18 | 12.08.2021 | KBV | redaktionelle Korrektur von |  | 17 |
 | 1.17 | 18.03.2021 | KBV | Datumsanpassungen der | Datumsanpassungen | 13ff |
 | 1.16 | 15.02.2021 | KBV | Anpassung der Prüffälle an | Schnittstellenversion | 13ff |
@@ -161,7 +163,7 @@ DOKUMENTENHISTORIE
 | 1.14 | 07.05.2018 | KBV | Anpassung der Prüffälle an | Schnittstellenversion | 13ff |
 | 1.13 | 13.03.2018 | KBV | Einreichung des Antrags auf | Anpassung des | 7 |
 |  |  |  |  |  |  |
-|  |  | 31.03.2026 | KBV Anpassung der Prüffälle an | Anpassung Prüffall 7540 | Änderung der 9, 13 |
+|  |  | 31.03.2026 | KBV  Anpassung der Prüffälle an | Anpassung Prüffall 7540 | Änderung der  9, 13 |
 |  | 26 |  |  |  | 1.20 |
 
 4.17 Prüffälle. Medikamente im Prüffall 6513 für DM2. Prüffälle. Umsetzung der übergreifenden Teilnahmeerklärung. Prüffall 5613 Schnittstellenversionen 4.15 Schnittstellenversionen 4.14 Schnittstellenversionen 4.12 und 4.13 Zertifizierung 4.17 ist ab 01.10.2026 zu verwenden Barcodeversion (03) ab 1.10.2026 wegen der übergreifenden Prüffälle (DM2- 6.07 ist ab 01.10.2023 zu verwenden). wegen der übergreifenden Prüffälle. 4.16 ist ab 01.04.2023 zu verwenden. Änderungen im Anforderungskatalog. wegen der übergreifenden 4.15 ist ab 01.04.2021 zu verwenden 4.14 ist ab 01.04.2019 zu verwenden 4.13 ist ab 01.07.2018 zu verwenden Zertifizierungsportals
@@ -170,7 +172,7 @@ DOKUMENTENHISTORIE
 
 |  |  |  |  |  |  |
 |---|---|---|---|---|---|
-|  | KBV | Anpassung der Prüffälle an | Aufnahme eines Testfalls Schnittstellenversion Schnittstellenversion | 13ff | 27ff 1.11 23.05.2017 KBV |
+|  | KBV | Anpassung der Prüffälle an | Aufnahme eines Testfalls  Schnittstellenversion  Schnittstellenversion | 13ff | 27ff  1.11  23.05.2017 KBV |
 | Alle |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
@@ -180,7 +182,7 @@ DOKUMENTENHISTORIE
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 | Version | Datum | Autor | Änderung | Begründung | Seite |
-| 1.12 | 13.02.2018 | KBV | Anpassung der Prüffälle an Aufnahme eines Testfalls | Schnittstellenversion Schnittstellenversion | 13ff   27ff |
+| 1.12 | 13.02.2018 | KBV | Anpassung der Prüffälle an  Aufnahme eines Testfalls | Schnittstellenversion  Schnittstellenversion | 13ff      27ff |
 | 1.11 | 23.05.2017 | KBV | Komplettüberarbeitung des | Aktualisierung der | Alle |
 
 Schnittstellenversionen 4.11 und 4.12 für die Testdatenvalidierung zur Schnittstellenversion 4.13 Prüfpaketes 4.12 ist ab 01.04.2018 zu verwenden 4.13 ist ab 01.07.2018 zu verwenden Zertifizierungsrichtlinie
@@ -279,7 +281,7 @@ einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender N
 
 - 1
 
-- 2.3
+- 2 3
 
 -  [PrüffallNr.] _[lfdNr.] .*
 
@@ -338,7 +340,7 @@ Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unter
 
 - Ab dem **01.10.2023** muss die Schnittstellenversion** 6.07** verwendet werden.
 
-Ab dem **01.10.2026** muss die Schnittstellenversion **6.08** verwendet werden.
+Ab dem **01.10.2026** muss die Schnittstellenversion **6 08** verwendet werden.
 
 - Indikation **Asthma:**
 
@@ -497,7 +499,7 @@ Die Versichertendaten von Maria Eichendorf (XML_16) einlesen und speichern.
 | DMP-Fallnummer | 7511 | 7511 |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
-| Datum | 0.6.10.2023  15.mm.jjjj | 06.12.2023  15.mm.jjjj |
+| Datum | 06.10.2023  15.mm.jjjj | 06.12.2023  15.mm.jjjj |
 | Einschreibung wegen | KHK | KHK |
 | Geschlecht | Weiblich | Weiblich |
 | Allgemeine Anamnese- und Befunddaten | | |
@@ -529,7 +531,7 @@ DATEN Informationsangebote der Krankenkasse Arterielle Hypertonie, AVK, Chronisc
 | Betablocker | Ja | Nein, Kontraindikation |
 | ACE-Hemmer | ARB | Kontraindikation |
 | Aktuelle Statin-Dosis | Hoch | Moderat |
-| Aktuelle Therapiestrategie Statin | Feste Hochdosis- Strategie    Strategie der festen Dosis (hoch oder moderat) | Zielwert-Strategie |
+| Aktuelle Therapiestrategie Statin | Feste Hochdosis- Strategie      Strategie der festen Dosis  (hoch oder moderat) | Zielwert-Strategie |
 | Grund für niedrige Statin-Dosis |  | Aufdosierungsphase |
 | Schulung | | |
 | Schulung bereits vor Einschreibung in DMP | Ja |  |
@@ -602,7 +604,7 @@ DATEN Informationsangebote der Krankenkasse Erkrankungen Erkrankungen
 | ACE-Hemmer | Nein, ARB | Nein |
 | Aktuelle Statin-Dosis | Niedrig | Kein Statin |
 | Aktuelle Therapiestrategie Statin | Keine Strategie |  |
-| Grund für niedrige Statin-Dosis | Kontraindikation gegen hohe oder moderate Dosis |  |
+| Grund für niedrige Statin-Dosis | Kontraindikation gegen  hohe oder moderate  Dosis |  |
 | Schulung | | |
 | Schulung bereits vor Einschreibung in DMP | Nein |  |
 | Schulung empfohlen (bei aktueller | Nein | Nein |
@@ -889,7 +891,7 @@ Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatis
 | DM2 | HbA1c-Zielwert | Zielwert erreicht | Zielwert erreicht |
 | DM2 | GLP-1-Rezeptoragonist | Ja | Kontraindikation, Nein |
 | DM2 | Thrombozytenaggregationshemmer | Nein | Kontraindikation, Nein |
-|  | ACE-Hemmer Nein | Nein, ARB |  |
+|  | ACE-Hemmer  Nein | Nein, ARB |  |
 | KHK | Betablocker | Ja | Kontraindikation |
 
 vereinbart Patienten aktueller Dokumentation) Einschreibung in DMP bereits Dokumentation) DMP bereits wahrgenommen DMP wahrgenommen Dokumentation) Dokumentation keine Dokumentation keine Medikation
@@ -960,7 +962,7 @@ vereinbart Patienten aktueller Dokumentation) Einschreibung in DMP bereits Dokum
 |  |  |  |  |
 | DM2 | Ophthalmologische |  | Nicht durchgeführt |
 | DM2 | Behandlung/Mitbehandlung in einer | Ja, Veranlasst | Nein |
-| DM2 | Diabetesbezogene stationäre Einweisung | Nein | Nein |
+| DM2 | Diabetesbezogene stationäre  Einweisung | Nein | Nein |
 | KHK | Regelmäßiges sportliches Training | Ja | Nein, Nicht möglich |
 
 Netzhautuntersuchung seit der letzten Dokumentation für das Diabetische Fußsyndrom qualifizierten Einrichtung
@@ -994,7 +996,7 @@ Netzhautuntersuchung seit der letzten Dokumentation für das Diabetische Fußsyn
 | Prüffall-ID | 7514 |
 | Testziel | manche Fehleingaben nicht möglich sind. |
 | Voraussetzung | Patient oder Patientin ist mindestens 18 Jahre alt |
-| Prüfunterlagen | Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis - bzw.  Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
+| Prüfunterlagen | Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis - bzw.    Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
 | Hinweis | sind. |
 
 Kontrolle der softwareseitigen Erkennung von Fehleingaben Fehlermeldungen.  Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben  bzw. Prüfung, dass Prüffall 7514 Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten: Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation:  DATEN Krankenkasse   15.mm.jjjj
@@ -1087,9 +1089,9 @@ letzten Dokumentation (hoch oder moderat) Patienten
 |  |  |
 |---|---|
 | Prüffall-ID | 7530 |
-| Testziel | (KBV_ITA_VGEX_Anforderungskatalog_eDMP ) |
-| Voraussetzung | Szenario 3: Ihr System unterstützt die Datenübermittlung mit Datenträgern. Wenn dies nicht der Fall ist, schreiben Sie dieses bitte. |
-| Prüfunterlagen | Dokumentieren Sie durch Videos die Eingaben einschließlich der Ergebnisse nach einer möglichen Hinweissteuerung.  Screenshots / PDFs und ggf. Erläuterungen zum Nachweis der korrekten Systemfunktionalität |
+| Testziel | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
+| Voraussetzung | Szenario 3: Ihr System unterstützt die Datenübermittlung mit Datenträgern. Wenn  dies nicht der Fall ist, schreiben Sie dieses bitte. |
+| Prüfunterlagen | Dokumentieren Sie durch Videos die Eingaben einschließlich der Ergebnisse nach  einer möglichen Hinweissteuerung.    Screenshots / PDFs und ggf. Erläuterungen zum Nachweis der korrekten  Systemfunktionalität |
 | Hinweis | Dieser Testfall ist unterteilt in vier fünf Szenarien |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
@@ -1097,15 +1099,15 @@ letzten Dokumentation (hoch oder moderat) Patienten
 | SZENARIEN |
 |---|
 | Szenario 1 |
-| Es wird eine Erstdokumentation für einen noch nicht im System existierenden Patienten angelegt. Bei ) die bereits |
+| Es wird eine Erstdokumentation für einen noch nicht im System existierenden Patienten angelegt. Bei  ) die bereits |
 | Szenario 2 |
-| Der Patient wechselt den Arzt, z.B. aufgrund einer Vertretungsregelung. Nach Kenntnisnahme einer KBV_ITA_VGEX_Anforderungskatalog_eDMP ), dass zu diesem Patienten keine Erstdokumentation |
+| Der Patient wechselt den Arzt, z.B. aufgrund einer Vertretungsregelung. Nach Kenntnisnahme einer  KBV_ITA_VGEX_Anforderungskatalog_eDMP), dass zu diesem Patienten keine Erstdokumentation |
 | Szenario 3 |
-| Die Daten werden vom Anwender für den Versand vorbereitet. Das System erzeugt eine Hinweismeldung (Bildschirmkopie beilegen) bezüglich der Datenträgerbeschriftung und druckt einen Transportbegleitzettel aus. Hier soll die Umsetzung der Anforderungen KP4 -40 und KP4-41 (siehe  KBV_ITA_VGEX_Anforderungskatalog_eDMP ) |
+| Die Daten werden vom Anwender für den Versand vorbereitet. Das System erzeugt eine Hinweismeldung  (Bildschirmkopie beilegen) bezüglich der Datenträgerbeschriftung und druckt einen  Transportbegleitzettel aus. Hier soll die Umsetzung der Anforderungen KP4 -40 und KP4-41 (siehe   KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
 | Szenario 3 |
-| Das System ermöglicht dem Anwender, sich als erläuternde Übersicht bei der Indikation KHK die Tabelle ) |
+| Das System ermöglicht dem Anwender, sich als erläuternde Übersicht bei der Indikation KHK die Tabelle  ) |
 | Szenario 4 |
-| Zeigen Sie, dass das System bei der Auswahl die näheren Erläuterungen zum Parameter „Aktuelle Statin KBV_ITA_VGEX_Anforderungskatalog_eDMP ). |
+| Zeigen Sie, dass das System bei der Auswahl die näheren Erläuterungen zum Parameter „Aktuelle Statin KBV_ITA_VGEX_Anforderungskatalog_eDMP). |
 
 Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP Angabe der DMP-Fallnummer ist eine bereits existierende Nummer (z.B. 4511) einzugeben. Das System darf entsprechend der Anforderung P1-10 (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP vergebene DMP-Fallnummer nicht akzeptieren entsprechenden Warnung gemäß Anforderung P1-12 (siehe vorliegt, wird eine Verlaufsdokumentation angelegt. nachgewiesen werden. der CCS-Schweregradeinteilungen (siehe Tabelle 2 in KBV_ITA_VGEX_Anforderungskatalog_eDMP anzeigen zu lassen. Dosis“ die Dosierung gemäß Anforderung P1-42 (2.) anzeigt (siehe
 
@@ -1116,7 +1118,7 @@ Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP Anga
 |  | |
 |---|---|
 | Prüffall-ID | 7540 |
-| Testziel | (KBV_ITA_VGEX_Anforderungskatalog_eDMP ) |
+| Testziel | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
 | Voraussetzung |  |
 | Prüfunterlagen | Einwilligungserklärung |
 | Hinweis | Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der |
@@ -1136,7 +1138,7 @@ Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 | Administrative Daten |  |
 | DMP | KHK |
 | DMP-Fallnummer | 1010 |
-| Datum | 0.5.04.2023  15.10.2026 |
+| Datum | 05.04.2023  15.10.2026 |
 
 Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP PDF-Datei „TE_EWE_KHK.pdf“ der indikationsübergreifenden Teilnahme- und indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
 
@@ -1191,7 +1193,7 @@ Die Versichertendaten von Brigitte Althaus (XML_05) einlesen und speichern.
 | DMP-Fallnummer | TDV7518 |  |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
-| Datum | 0.5.04.2022  15.10.2025 |  |
+| Datum | 05.04.2022  15.10.2025 |  |
 | Einschreibung wegen | KHK |  |
 | Geschlecht | Weiblich |  |
 | Allgemeine Anamnese- und Befunddaten | | |
@@ -1203,7 +1205,7 @@ Die Versichertendaten von Brigitte Althaus (XML_05) einlesen und speichern.
 | Behandlungsplanung | | |
 | Vom Patienten gewünschte |  |  |
 | Dokumentationsintervall | Quartalsweise |  |
-| Datum der Erstellung | 0.5.04.2022  15.10.2025 |  |
+| Datum der Erstellung | 05.04.2022  15.10.2025 |  |
 
 -
 
@@ -1279,7 +1281,7 @@ Federmannssohn Plaetzchen
 | EXT_ITA_VGEX_Plausi_eDMP_DM1_DM2 | Plausibilitätsrichtlinie zur Prüfung der |
 | EXT_ITA_VGEX_Plausi_eDMP_KHK | Plausibilitätsrichtlinie zur Prüfung der |
 | EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend | Plausibilitätsrichtlinie zur Prüfung der |
-| KBV_ITA_FMEX_EE_eDMP_KHK | Antrag auf Zertifizierung eDMP-KHK  (Ergänzende Erklärung) |
+| KBV_ITA_FMEX_EE_eDMP_KHK | Antrag auf Zertifizierung eDMP-KHK   (Ergänzende Erklärung) |
 | KBV_ITA_RLEX_Zert | Zertifizierungsrichtlinie der KBV |
 | KBV_ITA_VGEX_Anforderungskatalog_eDMP | Anforderungskatalog eDMP |
 | KBV_ITA_VGEX_Schnittstelle_eDMP_KHK | Schnittstellenbeschreibung Koronare Herzkrankheit |

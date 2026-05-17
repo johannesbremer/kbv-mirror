@@ -5,7 +5,7 @@
 
 ## [KBV_ITA_SIEX_SPRECHSTUNDE
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 18. AUGUST 2025 VERSION 1.08 DOKUMENTENSTATUS: IN |
+|  | KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT  18. AUGUST 2025  VERSION 1.08  DOKUMENTENSTATUS: IN |
 |---|---|
 
 |  |
@@ -21,11 +21,11 @@ BUNDESVEREINIGUNG  IT IN DER ARZTPRAXIS  KRAFT
 |---|---|---|---|---|---|
 | 1.08 | 18.08.2025 | KBV | Erfassung der Fragen aus der |  | 21 |
 | 1.07 | 01.07.2025 | KBV | Erfassung der Fragen aus der |  | 16 |
-| 1.06 | 27.05.2025 | KBV | Erfassung der Frage aus der |  | 12,  13 |
-| 1.05 | 0.5.03.2025 | KBV | Erfassung der Frage aus der |  | 10 |
+| 1.06 | 27.05.2025 | KBV | Erfassung der Frage aus der |  | 12,   13 |
+| 1.05 | 05.03.2025 | KBV | Erfassung der Frage aus der |  | 10 |
 | 1.04 | 25.02.2025 | KBV | Erfassung der Fragen aus der |  | 9 |
 | 1.03 | 05.12.2024 | KBV | Übersicht der Datenannahme | Aufnahme der | 24 |
-| 1.02 | 0.3.12.2024 | KBV | Erfassung der Fragen aus der  Übersicht der Datenannahme |  | 8   24 |
+| 1.02 | 03.12.2024 | KBV | Erfassung der Fragen aus der    Übersicht der Datenannahme |  | 8      24 |
 | 1.01 | 25.10.2024 | KBV | Erfassung der Fragen aus der |  | 7 |
 | 1.00 | 22.10.2024 | KBV | Erstellung des Dokuments |  | alle |
 
@@ -480,7 +480,7 @@ Im Rahmen des eEB -Verfahrens werden die VSD-Daten der eGK an die Praxis übermi
 
 Bei der Verarbeitung der eEB-Daten darf in der Abrechnung kein Einlesedatum gesetzt werden.
 
-Grundsätzlich ist das eEB-Verfahren keine Alternative zur eGK sondern dient nur der elektronischen  Übermittelung der Ersatzbescheinigung der Krankenversicherung.
+Grundsätzlich ist das e EB-Verfahren keine Alternative zur eGK sondern dient nur der elektronischen  Übermittelung der Ersatzbescheinigung der Krankenversicherung.
 
 ## Frage
 
@@ -1090,10 +1090,14 @@ Bereitstellung einer Webanwendung zur Abrechnung von Hybrid-DRG Abrechnungen Ann
 
 ---
 
-Kontakt:
+| Kontakt: | |  |  |  |  |  |
+|---|---|---|---|---|---|---|
+| Dezernat |  | Digitalisierung | | und IT |  |  |
+| IT in | der | Arztpraxis |  |  |  |  |
+| Tel.: | 030 | 4005-2077, |  | ita@kbv.de |  |  |
+|  | Kassenärztliche |  | Bundesvereinigung | |  |  |
+|  | Herbert-Lewin-Platz | | 2, | 10623 Berlin |  |  |
+|  | ita@kbv.de, |  | www.kbv.de |  |  |  |
+| Seite | 26 von | 26 / KBV | / | Sprechstunde Hybrid-DRG | / 18. | August 2025 |
 
-Dezernat Digitalisierung und IT  IT in der Arztpraxis
-
-Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
-
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
+Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, ita@kbv.de  Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin ita@kbv.de, www.kbv.de

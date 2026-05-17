@@ -5,7 +5,7 @@
 
 ### [KBV_ITA_VGEX_SST_FESTLEGUNG_VOS]
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT |
 |---|---|
 
 **TTSTELLEN NACH**  **R 2 SGB V**
@@ -13,7 +13,7 @@
 |  |
 |---|
 
-DOKUMENTENSTATUS: IN KRAFT  BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   0.1. FEBRUAR 2023 VERSION: 2.1.0
+DOKUMENTENSTATUS: IN KRAFT  BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   01. FEBRUAR 2023 VERSION: 2.1.0
 
 ---
 
@@ -106,11 +106,10 @@ Inhalt
 
 ---
 
-| **8** | **REFERENZIERTE** | | **DOKUMENTE** | |  |  |  |  |  |  |  | **32** |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Seite 3 von | 33 / KBV | / Festlegung | der | Schnittstellen | nach § 371 | Absatz 1 Nummer | 2 SGB | V / | Version 2.1.0 | / 1. | Februar 2023 |  |
+**8** **REFERENZIERTE DOKUMENTE**
 
-REFERENZIERTE DOKUMENTE
+**32**
+
 
 ---
 
@@ -118,12 +117,12 @@ DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 2.1.0 | 1.6.12.2022 | KBV | Anpassung der Nutzung des Kürzels   Neues ValueSet | Umbenennung des  Ergebnis der zweiten | Alle  17 |
-| 2.1.0 | 25.11.2022 | KBV | KBV_PR_VoS_MedicationStatement_MP Definition überarbeitet  KBV_EX_VoS_Medication_Amount_ FreeText entfernt  KBV_EX_VoS_Condition_Permanent umbenannt   KBV_EX_VoS_Medication_isOverThe Counter aufgenommen  Tabelle 44 Fehlerkorrektur  Umsetzungsfrist aktualisiert | Ergebnisse der | 12  14  14  15  16  3.2 |
+| 2.1.0 | 16.12.2022 | KBV | Anpassung der Nutzung des Kürzels      Neues ValueSet | Umbenennung des    Ergebnis der zweiten | Alle    17 |
+| 2.1.0 | 25.11.2022 | KBV | KBV_PR_VoS_MedicationStatement_MP Definition überarbeitet    KBV_EX_VoS_Medication_Amount_ FreeText entfernt    KBV_EX_VoS_Condition_Permanent umbenannt    KBV_EX_VoS_Medication_isOverThe Counter aufgenommen    Tabelle 44 Fehlerkorrektur    Umsetzungsfrist aktualisiert | Ergebnisse der | 12    14    14    15    16    32 |
 | 2.1.0 | 19.09.2022 | KBV | Anpassung an R4 und eRezept | Neue Version | Alle |
-| 1.20.0 | 08.07.2021 | KBV | Neue Version | E-Rezept Umsetzungsfrist | 4, 10 28 |
-| 1.10.010 | 05.06.2020 | KBV | Neue Version  Neue Kapitel 6 und 7 eingefügt Kapitel 4.1.7.5 Transaction angepasst Kapitel 4.1.8 Paging erweitert Aufnahme: Valueset 74_VS_VoS_Identifiertyp | Profile,  organisatorische Paging wird erlaubt | ALLE 28 31 23 24 16 |
-| 1.10 | 1.8.03.2019 | KBV | 1. › › › › › › › › | Fortschreibung der | 7-11 |
+| 1.20.0 | 08.07.2021 | KBV | Neue Version | E-Rezept  Umsetzungsfrist | 4, 10  28 |
+| 1.10.010 | 05.06.2020 | KBV | Neue Version   Neue Kapitel 6 und 7 eingefügt Kapitel 4.1.7.5 Transaction angepasst Kapitel 4.1.8 Paging erweitert Aufnahme: Valueset  74_VS_VoS_Identifiertyp | Profile,   organisatorische  Paging wird erlaubt | ALLE  28  31  23  24  16 |
+| 1.10 | 18.03.2019 | KBV | 1. › › › › › › › › | Fortschreibung der | 7-11 |
 
 “AVWG” KBV_VS_VoS_AgentRoles Aufnahme: Profile 74_PR_VoS_Anwender 74_PR_VoS_Bundle_VoS_PVS 74_PR_VOS_Diagnose 74_PR_VoS_OBS_Stillend 74_PR_VoS_OBS_Schwanger 74_PR_VoS_OBS_Kreatinwert 74_PR_VoS_OBS_Gewicht 74_PR_VoS_OBS_Koerpergroesse Zertifizierungs- verfahrens Kommentierung Kommentierung Stabilisierung KBV- Festlegungen eingefügt, Schnittstelle um weitere Patienten- informationen sowie Datenübergabe von VoS an PVS zur Sicherstellung des Aufrufkontextes
 
@@ -131,7 +130,7 @@ DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-|  |  |  |  | 2. › › › › › 3. › › › 4. › 5. › 6. › › 7. 8. 9. | 11-12       12-14            22 Alle  Alle |
+|  |  |  |  | 2. › › › › › 3. › › › 4. › 5. › 6. › › 7. 8. 9. | 11-12              12-14                        22  Alle    Alle |
 | 1.00 | 20.03.2018 | KBV | Neues Dokument | § 291d Absatz 1a | Alle |
 
 Aufnahme: Extensions 74_EX_VOS_Anwender_Sytem 74_EX_VoS_Diagnose_ istDauerdiagnose 74_EX_VoS_PruefNummer 74_EX_VoS_Rezept_ASV Aufnahme: Code-Systemen 74_CS_VoS_AuthorTyp 74_CS_VoS_DokumentTyp 74_CS_VoS_Koerperkenngroessen Aufnahme: Value-Set 74_VS_VoS_DokumentTyp Aufnahme: Naming-System 74_NS_VoS_KBV-Pruefnummer Entfernt: FHIR-Profile 74_EX_VM_Normgroesse 74_PR_VM_Adresse Kapitel 4.1.7.5 aufgenommen Anpassung der FHIR®-Ressourcen- Namen und -URIs Redaktionelle Änderungen Satz 1 Nr.1 SGB V
@@ -341,7 +340,7 @@ Tabelle 6: KBV_PR_VoS_Bundle_PVS_VoS
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_Bundle_VoS_PVS |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/bundle.html |
-| Definition | Bundle zum Schreiben von ausgestellten Rezepten und aktualisierten/ erstellten 5.1.3 sowie 5.2.3. |
+| Definition | Bundle zum Schreiben von ausgestellten Rezepten und aktualisierten/ erstellten  5.1.3 sowie 5.2.3. |
 
 Tabelle 7: KBV_PR_VoS_Bundle_VoS_PVS
 
@@ -492,7 +491,7 @@ Tabelle 23 KBV_PR_VoS_Prescription
 
 | KBV_PR_VOS_DEVICE_PVS |  |
 |---|---|
-| Kanonische URL | https://fhir.kbv.de/StructureDefinition/ KBV_PR_VoS_Device_PVS |
+| Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_Device_PVS |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/device.html |
 | Definition | Angaben zum PVS und zur Verordnungssoftware |
 | Hinweis | KBV-Prüfnummer ist zu erfassen. Es handelt sich um die Prüfnummer, welche im |
@@ -501,7 +500,7 @@ Tabelle 24: KBV_PR_VoS_Device_PVS
 
 | KBV_PR_VOS_PROVENANCE_ALLERGYINTOLERANCE |  |
 |---|---|
-| Kanonische URL | https://fhir.kbv.de/StructureDefinition/ KBV_PR_VoS_Provenance_AllergyIntoleranc |
+| Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_Provenance_AllergyIntoleranc |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/provenance.html |
 | Definition | Eine Provenance-Ressource, die die Informationsquelle der Allergie transportiert |
 
@@ -509,7 +508,7 @@ Tabelle 25: KBV_PR_VoS_Provenance_AllergyIntolerance
 
 | KBV_PR_VOS_PROVENANCE_EPRESCRIPTION |  |
 |---|---|
-| Kanonische URL | https://fhir.kbv.de/StructureDefinition/ KBV_PR_VoS_Provenance_ePrescription |
+| Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_Provenance_ePrescription |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/provenance.html |
 | Definition | Eine Provenance-Ressource, die von der VoS an das PVS gesendet wird, um ein |
 
@@ -545,28 +544,28 @@ Tabelle 29: KBV_EX_VoS_ePrescription_Access
 
 | KBV_EX_VOS_BTM_PRESCRIPTION_MARKS |  |
 |---|---|
-| Kanonische URL | https://fhir.kbv.de/StructureDefinition/ KBV_EX_VoS_BTM_Prescription_Marks |
+| Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_VoS_BTM_Prescription_Marks |
 | Definition | Spiegelt die Kennzeichen für die Sonderregelungen auf einem BtM |
 
 Tabelle 30: KBV_EX_VoS_BTM_Prescription_Marks
 
 | KBV_EX_VOS _ISPERMANENT |  |
 |---|---|
-| Kanonische URL | https://fhir.kbv.de/StructureDefinition/ KBV_EX_VoS_ isPermanent |
+| Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_VoS_ isPermanent |
 | Definition | oder eine Medikation eine Dauermedikation ist. |
 
 Tabelle 31: KBV_EX_VoS_ isPermanent
 
 | KBV_EX_VOS_SKT |  |
 |---|---|
-| Kanonische URL | https://fhir.kbv.de/StructureDefinition/ KBV_EX_VoS_SKT |
+| Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_VoS_SKT |
 | Definition | Angabe der SKT-Zusatzangabe |
 
 Tabelle 32: KBV_EX_VoS_SKT
 
 | KBV_EX_VOS_T_PRESCRIPTION_MARKS |  |
 |---|---|
-| Kanonische URL | https://fhir.kbv.de/StructureDefinition/ KBV_EX_VoS_T_Prescription_Marks |
+| Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_VoS_T_Prescription_Marks |
 | Definition | Spiegelt die Ankreuzfelder auf einem T-Rezept wider. |
 
 Tabelle 33: KBV_EX_VoS_T_Prescription_Marks
@@ -603,7 +602,7 @@ Die CodeSystems definieren, welche Codes festgelegt wurden und was diese bedeute
 
 | KBV_VS_VOS_PRESCRIPTIONTYPE |  |
 |---|---|
-| Kanonische URL | https://fhir.kbv.de/ValueSet/KBV_VS_VoS_ PrescriptionType |
+| Kanonische URL | https://fhir.kbv.de/ValueSet/KBV_VS_VoS_PrescriptionType |
 | Definition | Bildet die Rezepttypen ab |
 
 Tabelle 37: KBV_VS_VoS_PrescriptionType
@@ -935,9 +934,9 @@ Das PVS beantwortet die Anfrage mit folgenden Statuscodes und Ergeb
 | ERGEBNIS DER ANFRAGE | STATUSCODE | BESONDERHEITEN IN DER ANTWORT |
 |---|---|---|
 | Die Ressource wurde erfolgreich | 201 | Es wird die |
-| Das Erstellen der Ressource war | 400 | Eine Ressource vom Typ OperationOutcome „ FHIR®-Ressourcen “) wird im http |
-| Das Erstellen der Ressource war | 404 | (siehe 3.4 „ FHIR®-Ressourcen -Body übergeben. |
-| Das Erstellen der Ressource war | 422 | (siehe „ FHIR®-Ressourcen ““) wird |
+| Das Erstellen der Ressource war | 400 | Eine Ressource vom Typ OperationOutcome „FHIR®-Ressourcen“) wird im http |
+| Das Erstellen der Ressource war | 404 | (siehe 3.4  „FHIR®-Ressourcen -Body übergeben. |
+| Das Erstellen der Ressource war | 422 | (siehe  „FHIR®-Ressourcen““) wird |
 
 Tabelle 54: Statuscode und Antworten in der create -Interaktion
 
@@ -988,9 +987,9 @@ erstellt. fehlerhaft, da das Format der übergebenen Ressource nicht zu der vorg
 | ERGEBNIS DER ANFRAGE | STATUSCODE | BESONDERHEITEN IN DER ANTWORT |
 |---|---|---|
 | Die Suche war erfolgreich. Eine | 200 | Im http-Body wird eine FHIR®-Ressource vom Typ |
-| Die Suche konnte nicht | 400 | Eine Ressource vom Typ „ FHIR®-Ressourcen “)  wird im http |
-| Die Suche konnte nicht | 401 | Eine Ressource vom Typ „ FHIR®-Ressourcen “)  wird im http |
-| Die Suche konnte nicht | 404 | Eine Ressource vom Typ „ FHIR®-Ressourcen “)  wird im http |
+| Die Suche konnte nicht | 400 | Eine Ressource vom Typ  „FHIR®-Ressourcen“)  wird im http |
+| Die Suche konnte nicht | 401 | Eine Ressource vom Typ  „FHIR®-Ressourcen“)  wird im http |
+| Die Suche konnte nicht | 404 | Eine Ressource vom Typ  „FHIR®-Ressourcen“)  wird im http |
 
 Tabelle 55: Statuscode und Antworten in der search -Interaktion
 
@@ -1166,15 +1165,15 @@ Das Praxisverwaltungssystem stellte die in der folgenden Tabelle beschriebenen I
 
 | RESSOURCENTYP (PROFIL) | LESEN | SCHREIBEN | SUCHEN | LÖSCHEN | TRANSAKTI ON |
 |---|---|---|---|---|---|
-| Patient (KBV_PR_VoS_Patient) | Ja | Nein | Ja | Nein | - |
-| Coverage (KBV_PR_VoS_Coverage) | Ja | Nein | Ja | Nein | - |
-| AllergyIntolerance (KBV_PR_VoS_AllergyIntolerance) | Ja | Nein | Ja | Nein | - |
-| Practitioner KBV_PR_VoS_Practitioner  KBV_PR_VoS_User | Ja | Nein | Ja | Nein | - |
-| PractitionerRole (KBV_PR_VoS_PractitionerRole) | Ja | Nein | Ja | Nein | - |
-| Organization (KBV_PR_VoS_Organization) | Ja | Nein | Ja | Nein | - |
-| Device  KBV_PR_VoS_Device_PVS | Ja | Nein | Ja | Nein | - |
-| Medication KBV_PR_VoS_Medication_Compoun KBV_PR_VoS_Medication_FreeText KBV_PR_VoS_Medication_PZN KBV_PR_VoS_Medication_Ingredient | Ja | Nur als Teil von | Ja | Nein | Schreiben |
-| Medicationstatement (KBV_PR_VoS_MedicationStatement | Ja | Nur als Teil von | Ja | Nein | Schreiben |
+| Patient  (KBV_PR_VoS_Patient) | Ja | Nein | Ja | Nein | - |
+| Coverage  (KBV_PR_VoS_Coverage) | Ja | Nein | Ja | Nein | - |
+| AllergyIntolerance  (KBV_PR_VoS_AllergyIntolerance) | Ja | Nein | Ja | Nein | - |
+| Practitioner  KBV_PR_VoS_Practitioner   KBV_PR_VoS_User | Ja | Nein | Ja | Nein | - |
+| PractitionerRole  (KBV_PR_VoS_PractitionerRole) | Ja | Nein | Ja | Nein | - |
+| Organization  (KBV_PR_VoS_Organization) | Ja | Nein | Ja | Nein | - |
+| Device    KBV_PR_VoS_Device_PVS | Ja | Nein | Ja | Nein | - |
+| Medication  KBV_PR_VoS_Medication_Compoun KBV_PR_VoS_Medication_FreeText KBV_PR_VoS_Medication_PZN KBV_PR_VoS_Medication_Ingredient | Ja | Nur als Teil von | Ja | Nein | Schreiben |
+| Medicationstatement  (KBV_PR_VoS_MedicationStatement | Ja | Nur als Teil von | Ja | Nein | Schreiben |
 
 ding _MP) „Transaktion“ „Transaktion“4.1.7
 
@@ -1183,15 +1182,15 @@ ding _MP) „Transaktion“ „Transaktion“4.1.7
 
 | RESSOURCENTYP (PROFIL) | LESEN | SCHREIBEN | SUCHEN | LÖSCHEN | TRANSAKTI ON |
 |---|---|---|---|---|---|
-| MedicationRequest (KBV_PR_VoS_Prescription) | Ja | Nur als Teil von | Ja | Nein | Schreiben |
-| DocumentReference (KBV_PR_VoS_DocumentReference) | Ja | Nur als Teil von | Ja | Nein | Schreiben |
-| Observation KBV_PR_VoS_Observation_Breast KBV_PR_VoS_Observation_Pregn KBV_PR_VoS_Observation_Body_ KBV_PR_VoS_Observation_Body_ KBV_PR_VoS_Observation_Creati | Ja | Nein | Ja | Nein | - |
-| Condition (KBV_PR_VoS_Condition) | Ja | Nein | Ja | Nein | - |
-| Bundle (KBV_PR_VoS_Bundle_PVS_VoS KBV_PR_VoS_Bundle_VoS_PVS) | Ja | Nein | Nein | Ja  (für | Ja  (für |
+| MedicationRequest  (KBV_PR_VoS_Prescription) | Ja | Nur als Teil von | Ja | Nein | Schreiben |
+| DocumentReference  (KBV_PR_VoS_DocumentReference) | Ja | Nur als Teil von | Ja | Nein | Schreiben |
+| Observation  KBV_PR_VoS_Observation_Breast KBV_PR_VoS_Observation_Pregn KBV_PR_VoS_Observation_Body_ KBV_PR_VoS_Observation_Body_ KBV_PR_VoS_Observation_Creati | Ja | Nein | Ja | Nein | - |
+| Condition  (KBV_PR_VoS_Condition) | Ja | Nein | Ja | Nein | - |
+| Bundle  (KBV_PR_VoS_Bundle_PVS_VoS  KBV_PR_VoS_Bundle_VoS_PVS) | Ja | Nein | Nein | Ja   (für | Ja   (für |
 
-| Provenance KBV_PR_VoS_Provenance_ePrescript | Ja | Nur als Teil von | Ja | Nein | Schreiben |
+| Provenance  KBV_PR_VoS_Provenance_ePrescript | Ja | Nur als Teil von | Ja | Nein | Schreiben |
 |---|---|---|---|---|---|
-| Provenance KBV_PR_VoS_Provenance_AllergyInt | Ja | Nein | Ja | Nein | - |
+| Provenance  KBV_PR_VoS_Provenance_AllergyInt | Ja | Nein | Ja | Nein | - |
 
 Tabelle 58: Interaktionen auf den FHIR® -Ressourcen
 
@@ -1410,9 +1409,9 @@ Die Integration der Schnittstelle muss spätestens zum 01.08.2023 erfolgt sein.
 |  |  |
 |---|---|
 | Referenz | Dokument |
-| FHIR®_RESTful-API | Spezifikation der FHIR®-Restful-API gemäß FHIR® ] http://hl7.org/fhir/r4/http.html |
-| FHIR® | FHIR-Spezifikation Release 4    http://hl7.org/fhir/r4 |
-| EXT_ITA_VGEX_Anforderungskatalog_AV | „Anforderungskatalog für Verordnungssoftware“ https://update.kbv.de/ |
+| FHIR®_RESTful-API | Spezifikation der FHIR®-Restful-API gemäß  FHIR®] http://hl7.org/fhir/r4/http.html |
+| FHIR® | FHIR-Spezifikation Release 4     http://hl7.org/fhir/r4 |
+| EXT_ITA_VGEX_Anforderungskatalog_AV | „Anforderungskatalog für Verordnungssoftware“  https://update.kbv.de/ |
 
 **Ansprechpartner:**
 

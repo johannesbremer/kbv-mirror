@@ -12,7 +12,7 @@
 |  | Version |
 |  |  |
 
-bedruckung _Formular- bedruckung] 1.37 Datum: 1.5.08.2025 Kennzeichnung: Öffentlich Status: In Kraft
+bedruckung _Formular- bedruckung] 1.37 Datum: 15.08.2025 Kennzeichnung: Öffentlich Status: In Kraft
 
 ---
 
@@ -26,13 +26,13 @@ bedruckung _Formular- bedruckung] 1.37 Datum: 1.5.08.2025 Kennzeichnung: Öffent
 | 1.34 | 15.02.2024 KBV |  | Klarstellung der Anforderung KP7-81 |  | 8 |
 | 1.33 | 13.05.2022 KBV |  | Aktualisierung der Anforderung P7- |  | 13 |
 | 1.32 | 12.11.2021 KBV |  | Klarstellung der Anforderung KP7-90 |  | 11 |
-| 1.31 | 12.08.2021 KBV |  | Streichung von Muster 1 | Einführung der eAU | 5, 11, 13 |
+| 1.31 | 12.08.2021 KBV |  | Streichung von Muster 1 | Einführung der eAU | 5, 11,  13 |
 | 1.30 | 14.05.2021 KBV |  | Klarstellung der Anforderung KP7-95 |  | 10 |
-| 1.29 | 15.02.2021 KBV |  | Klarstellung der Umsetzungspflicht |  | 8 9 |
+| 1.29 | 15.02.2021 KBV |  | Klarstellung der Umsetzungspflicht |  | 8  9 |
 | 1.28 | 06.10.2020 KBV |  | Klarstellung der Anforderung KP7- |  |  |
 | 1.27 | 14.08.2020 KBV |  | Klarstellung der Anforderung KP7- |  |  |
 | 1.26 | 28.05.2020 KBV |  | Klarstellung der Umsetzungspflicht |  |  |
-| 1.25 | 13.05.2020 KBV |  | Aktualisierung der Anforderungen Aufnahme von Verordnung von digi- |  | 6, 6, 13 |
+| 1.25 | 13.05.2020 KBV |  | Aktualisierung der Anforderungen  Aufnahme von Verordnung von digi- |  | 6, 6, 13 |
 | 1.24 | 13.11.2019 KBV |  | P7-90: aktualisiert | entfällt zum 1. Januar | 9 |
 | 1.23 | 15.11.2018 KBV |  | P7-10: red. Hinweis ergänzt |  | 5 |
 
@@ -180,7 +180,7 @@ Grundsätzliche Informationen zur Bedruckung von vertragsärztlichen Formularen 
 
 Ebenso können sich auch Funktionen für die Formularbedruckung aus den Vordruckerläute- rungen ergeben. Daher können einzelne Funktionen auch Verweise auf die Vordruckerläute- rungen enthalten. Diese Verweise werden in diesem Dokument in der Form *VE 52* oder *VE*
 
-*52.1* angegeben. Wobei die erste Zahl (Zahl vor dem Punkt) auf das Muster (in dem Beispiel  Muster 52) verweist. Die optionale zweite Zahl (Zahl nach dem Punkt) verweist auf die Nummer
+*52 1* angegeben. Wobei die erste Zahl (Zahl vor dem Punkt) auf das Muster (in dem Beispiel  Muster 52) verweist. Die optionale zweite Zahl (Zahl nach dem Punkt) verweist auf die Nummer
 
 des Hinweises in den Vordruckerläuterungen des mit der ersten Zahl angege benen Musters  (in dem Beispiel Hinweis 1 zum Feld *Wegen welcher Diagnose(n) (ICD10) besteht die Arbeits-*
 
@@ -214,7 +214,7 @@ satzbeschreibung_KVDT].
 
 | PFLICHTFUNKTION ADT | |
 |---|---|
-| P7-20 | Zweite Namenszeile |
+| P 7-20 | Zweite Namenszeile |
 
 - (1) Die zweite Namenszeile wird durch die Aneinanderreihung von Titel, Vorname, Namens-
 
@@ -292,7 +292,7 @@ Vor dem Hintergrund des in vielen KVen erwarteten Ausdrucks von SKT Personalienf
 
 | PFLICHTFUNKTION ADT | |
 |---|---|
-| P7-45 | Ausdruck Inhalt des Feldes 4124 (SKT |
+| P 7-45 | Ausdruck Inhalt des Feldes 4124 (SKT |
 
 - (1) In Analogie zum Ausdruck des Inhaltes der Felder 3105 (Versichertennummer des Patien-
 
@@ -472,7 +472,7 @@ Die Software muss diese Formate für die Formularinhalte der folgenden Muster un
 
 | Muster | Felder |
 |---|---|
-| 39a/b | tales (Wann?) • |
+| 39a/b | tales (Wann?)  • |
 
 -
 
@@ -545,7 +545,7 @@ lienfeld hinaus, so gilt:
 
 | KONDITIONALE PFLICHTFUNKTION | |
 |---|---|
-| KP7-90 | Warnhinweis bei Nichtvorlage Versicherungsnachweis |
+| KP 7-90 | Warnhinweis bei Nichtvorlage Versicherungsnachweis |
 
 Falls ein Anwender ein Rezept für Medikamente bzw. für Heil Überweisungsschein ausstellt, dann muss, falls kein Versicherungsnachweis (z.B. kein Über-
 
@@ -580,7 +580,7 @@ Achtung: im aktuellen Quartal lag kein gültiger Versicherungsnachweis vor. Ohne
 
 | PFLICHTFUNKTION | |
 |---|---|
-| P7-100 |  |
+| P 7-100 |  |
 
 Ein Patient kommt zu Beginn des Quartals ohne Versicherungsnachweis in die Arztpraxis. Der  Arzt möchte - in Kenntnis über mögliche Regressforderungen - den Patienten behandeln und  ein vertragsärztliches Formular ausstellen.
 
@@ -705,11 +705,9 @@ Pseudo-LANR für Krankenhäuser-Arzt kann auch Mit- und mit seiner
 
 ---
 
-| ASV- | Teamnummer |  | kennzeichnen. | Das | Ankreuzfeld „Behandlung | gemäß | § |
-|---|---|---|---|---|---|---|---|
-| kommt | im | Rahmen der | ASV nicht | zur Anwendung. |  |  |  |
+ASV-Teamnummer kennzeichnen. Das Ankreuzfeld „Behandlung gemäß § 116b SGB V“
 
-Teamnummer kennzeichnen. Das Ankreuzfeld „Behandlung gemäß § 116b SGB V“ kommt im Rahmen der ASV nicht zur Anwendung.
+kommt im Rahmen der ASV nicht zur Anwendung.
 
 
 ---
@@ -736,7 +734,7 @@ Teamnummer kennzeichnen. Das Ankreuzfeld „Behandlung gemäß § 116b SGB V“ 
 | KTAB | Kostenträger-Abrechnungsbereich |
 | KV | Kassenärztliche Vereinigung |
 | KVK | Krankenversichertenkarte |
-| SKT TSS | Sonstige Kostenträger Terminservicestelle |
+| SKT  TSS | Sonstige Kostenträger  Terminservicestelle |
 | VKNR | 5-stellige Kassennummer |
 | VKNR-KTAB-Kom- | Kombination von Abrechnungs-VKNR und Kostenträger-Abrechnungs- |
 
@@ -754,6 +752,6 @@ In der vertragsärztlichen Versorgung existieren zur Identifikation der Kostentr
 | [2] | Vereinbarung über Vordrucke für die vertragsärzt- |
 | [3] | Erläuterungen zur Vereinbarung über Vordrucke |
 | [KBV_ITA_VGEX_Schnittstelle_SDICD] | Schnittstellenbeschreibung der ICD-Stammdatei, |
-| [ASV-Vertrag] | ASV-Abrechnungsvereinbarung   Vertragliche Grundlagen zur ASV |
+| [ASV-Vertrag] | ASV-Abrechnungsvereinbarung     Vertragliche Grundlagen zur ASV |
 
 pingtabelle KVK - eGK, in aktuellster Version liche Versorgung (Vordruck vereinbarung (Anlage 2 BMV-Ä)), in aktuellster Version (www.kbv.de) für die vertragsärztliche Versorgung, in aktuellster Version (www.kbv.de)

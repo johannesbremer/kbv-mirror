@@ -167,10 +167,10 @@ Die Gebühren und Auslagen auf Grundlage dieser Richtlinie bestimmen sich nach d
 | 2. | Sichtprüfung | 68,00 |
 | 3. | Beendigung der Zertifizierung ohne Zulassung | themenspezifischen Kosten des |
 | 4. | Entzug der Zulassung | 68,00 |
-| 5. | Herstellung von Abschriften und Ausdrucken 5.1 - je DIN A4-Kopie-SW 5.2 - je DIN A3-Kopie-SW 5.3 - je DIN A4-Farbkopie 5.4 - je DIN A3-Farbkopie | 0,10 0,15 0,50 0,75 € |
+| 5. | Herstellung von Abschriften und Ausdrucken 5.1 - je DIN A4-Kopie-SW  5.2 - je DIN A3-Kopie-SW  5.3 - je DIN A4-Farbkopie  5.4 - je DIN A3-Farbkopie | 0,10  0,15  0,50  0,75 € |
 | 6. | Herstellung von Kopien auf sonstigen Datenträgern | In voller Höhe |
-| 7. | Vollständige oder teilweise Zurückweisung eines Widerspruchs. | angefochtenen Verwaltungsakt |
-| 8. | Aufwand für besondere Verpackung und besondere Beförderung | In voller Höhe |
+| 7. | Vollständige oder teilweise Zurückweisung eines  Widerspruchs. | angefochtenen Verwaltungsakt |
+| 8. | Aufwand für besondere Verpackung und besondere  Beförderung | In voller Höhe |
 
 für Neu-, Re- und Erweiterungszertifizierung beinhaltet u. a. die anfallende automatische Rezertifizierung für Neu-, Re- und Erweiterungszertifizierung [pro Sichtprüfungstermin] beinhaltet u. a. die anfallende automatische Rezertifizierung € bis 4.000,00 € bis 4.000,00 34,00 € bis zu  25 % der Verfahrens € bis 4.000,00 Bis zur Höhe der für den festgesetzten Gebühr; mindestens €, höchstens 350,00 €
 

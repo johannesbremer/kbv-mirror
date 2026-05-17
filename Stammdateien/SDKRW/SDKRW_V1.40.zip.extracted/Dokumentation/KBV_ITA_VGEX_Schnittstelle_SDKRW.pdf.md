@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 15. NOVEMBER 2021  VERSION: 1.40  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  15. NOVEMBER 2021   VERSION: 1.40   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # SCHNITTSTELLENBESCHREIBUNG  SDKRW (KODIERREGELWERK-
@@ -400,9 +400,9 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.40 | 15.11.2021 | KBV | Textuelle Klarstellung der  Textuelle Klarstellung des  Hinweis zum Element |  | 28, 30   26    22 |
-| 1.40 | 23.09.2021 | KBV | Klarstellung der Elemente |  | 28, 30 |
-| 1.40 | 07.09.2021 | KBV | Aufnahme des Elementes | Element wurde in der | 14, 34 |
+| 1.40 | 15.11.2021 | KBV | Textuelle Klarstellung der    Textuelle Klarstellung des    Hinweis zum Element |  | 28,  30      26        22 |
+| 1.40 | 23.09.2021 | KBV | Klarstellung der Elemente |  | 28,  30 |
+| 1.40 | 07.09.2021 | KBV | Aufnahme des Elementes | Element wurde in der | 14,  34 |
 | 1.40 | 19.04.2021 | KBV | Überarbeitung der KRW- |  | alle |
 
 Elemente <subbedingung> und <subpruefung> Hinweises bei dem Element <existenz> <echtzeitpruefung> aufgenommen <subbedingung> und <subpruefung> <kurz_beschreibung> Schnittstellenbeschreibung nicht aufgeführt Schnittstelle
@@ -474,9 +474,9 @@ Es existieren verschiedene Kardinalitäten:
 
 | Kardinalität | Symbol | Beschreibung |
 |---|---|---|
-| 0..1 |  | Optionale Elemente Ein optionales Element wird als Rechteck mit gestrichelter |
-| 1 |  | Obligatorische Elemente Elemente, welche als Rechteck mit durchgezogener Linie |
-| n...m |  | Mehrfache Elemente Bei Elementen, welche mehrfach vorkommen können, wird |
+| 0..1 |  | Optionale Elemente  Ein optionales Element wird als Rechteck mit gestrichelter |
+| 1 |  | Obligatorische Elemente  Elemente, welche als Rechteck mit durchgezogener Linie |
+| n...m |  | Mehrfache Elemente  Bei Elementen, welche mehrfach vorkommen können, wird |
 
 **Tabelle 1:**
 
@@ -509,10 +509,10 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 | Symbol | Beschreibung |
 |---|---|
-|  | Element mit Kindelementen Ein Element mit einem oder mehreren Kindelementen wird durch ein |
-|  | Referenzelement Der Pfeil links unten im Element zeigt an, dass das Element an anderer Stelle |
-|  | Datentyp Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen Datentyp. |
-|  | Gruppenelement Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement dar, |
+|  | Element mit Kindelementen  Ein Element mit einem oder mehreren Kindelementen wird durch ein |
+|  | Referenzelement  Der Pfeil links unten im Element zeigt an, dass das Element an anderer Stelle |
+|  | Datentyp  Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen Datentyp. |
+|  | Gruppenelement  Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement dar, |
 
 **Tabelle 3:** Beschreibung sonstiger Symbole
 
@@ -657,8 +657,12 @@ Das Element <kodierregel> repräsentiert stets eine fachliche Kodierregel, dabei
 
 ---
 
-**Abbildung 4:** kodierregel
+| **Abbildung** | **4:** | kodierregel |  |  |  |  |
+|---|---|---|---|---|---|---|
+| Seite 14 | von 35 / KBV | / Schnittstellenbeschreibung | SDKRW (Kodierregelwerk-Stammdatei) | / Version: | 1.40 / | 15. November |
+| 2021 |  |  |  |  |  |  |
 
+Abbildung 4:
 
 ---
 
@@ -928,7 +932,7 @@ Der XML-Code für das Element <echtzeitpruefung> hat folgenden Aufbau:
 |---|---|---|
 | 1 | bei Kodierung | im Rahmen der Kodierung |
 | 2 | zur Abrechnung | im Rahmen der Übertragung in die |
-| 3 | wählbar | zu einem vom Anwender frei wählbaren Hinweis: |
+| 3 | wählbar | zu einem vom Anwender frei wählbaren  Hinweis: |
 
 **Tabelle 8:** Zulässige Werte für das Element echtzeitpruefung
 
@@ -969,8 +973,8 @@ Der XML-Code für das Element <pruefgrundlage> hat folgenden Aufbau:
 | Wert (V="...") | Bezeichner ( DN="...") | Fachliche Bedeutung; OID |
 |---|---|---|
 | 1 | Einzelfall | Prüfung, bei einem einzelnen Patienten |
-| 2 | Patientenstamm | Prüfung, aller Patienten derselben Arztpraxis   |
-| 3 | Behandelte Patienten im Quartal | Prüfung, aller Patienten derselben Arztpraxis,  |
+| 2 | Patientenstamm | Prüfung, aller Patienten derselben Arztpraxis    |
+| 3 | Behandelte Patienten im Quartal | Prüfung, aller Patienten derselben Arztpraxis,   |
 
 **Tabelle 9:** Zulässige Werte für das Element pruefgrundlage
 
@@ -1403,7 +1407,7 @@ V="" ... Ersetzen einer identifizierten Diagnose verwendet werden.
 |---|---|
 | Referenz | Dokument |
 | [KBV_ITA_VGEX_EHD] | Namensgebung beim Entwurf von XML-Schnittstellen |
-| [2] | Schlüsseltabellen der KBV https://applications.kbv.de/overview.xhtml |
+| [2] | Schlüsseltabellen der KBV  https://applications.kbv.de/overview.xhtml |
 
 **Ansprechpartner:**
 

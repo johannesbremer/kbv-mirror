@@ -21,18 +21,18 @@ Die Änderungen treten zum 01.10.2024 in Kraft
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 2.10 | 15.05.2024 | KBV | Anpassungen an Version 2.7 des An- Anpassung der zulässigen Kodierung | Änderung der Heilmittel- Notationskennzeichen und | 22, 25  34 |
+| 2.10 | 15.05.2024 | KBV | Anpassungen an Version 2.7 des An- Anpassung der zulässigen Kodierung | Änderung der Heilmittel- Notationskennzeichen und | 22, 25    34 |
 | 2.04 | 29.04.2022 | KBV | Anpassungen an Version 2.5 des An- | Änderung der Heilmittel- | 15, 35 |
-| 2.03 | 0.3.09.2020 | KBV | Änderung des Inkrafttretens der Version | Verschiebung des Inkraft- | 2 |
+| 2.03 | 03.09.2020 | KBV | Änderung des Inkrafttretens der Version | Verschiebung des Inkraft- | 2 |
 | 2.03 | 09.01.2020 | KBV | Anpassungen an Version 2.0 des An- | Änderung der Heilmittel- | Alle |
-| 2.01 | 20.10.2017 | KBV | Aufnahme der Positionsnummern zu Kennzeichnung der Massagetechniken | Die Aufnahme der Positi- Rückmeldung von SWH | 10, 13, 22, 23, 27, 28  22, 26, 27 |
-| 2.00 | 14.08.2017 | KBV | Aktualisierung der Versionsnummer Anpassungen bzgl. der Aufnahme der | Anpassung der Verord- | 10, 13 21, 31 |
-| 1.01 | 25.07.2016 | KBV | Korrektur einiger XML-Beispiele Fehlerkorrektur der XML-Elemente Anpassung der Beschreibungstexte für |  | 16, 31 28  31 |
+| 2.01 | 20.10.2017 | KBV | Aufnahme der Positionsnummern zu  Kennzeichnung der Massagetechniken | Die Aufnahme der Positi- Rückmeldung von SWH | 10, 13,  22, 23,  27, 28    22, 26,  27 |
+| 2.00 | 14.08.2017 | KBV | Aktualisierung der Versionsnummer  Anpassungen bzgl. der Aufnahme der | Anpassung der Verord- | 10, 13  21, 31 |
+| 1.01 | 25.07.2016 | KBV | Korrektur einiger XML-Beispiele  Fehlerkorrektur der XML-Elemente  Anpassung der Beschreibungstexte für |  | 16, 31  28    31 |
 | 1.0 | 30.03.2016 | KBV | neues Dokument |  |  |
 
 **U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O**  **R** **I** **E**
 
-forderungskatalogs nach § 73 SGB V für die Verordnung von Heilmittel eines ICD-10-GM-Codes forderungskatalogs nach § 73 SGB V für die Verordnung von Heilmittel vom 09.01.2020 (Version 2.03) forderungskatalogs nach § 73 SGB V für die Verordnung von Heilmittel den Heilmitteln Ernährungstherapie <frequenzempfehlung_liste> und    <frequenzempfehlung> die XML-Elemente  Richtlinie des G-BA mit Beschlussfassung vom 1.8.04.2024 Code UUU sind nicht notwendig Richtlinie des G-BA mit Beschlussfassung vom 17.02.2022 tretens der Heilmittel- Richtlinie des G-BA mit Beschlussfassung vom 03.09.2020 Richtlinie des G-BA mit Beschlussfassung vom 19.09.2019 onsnummern dient der Integration von Preisinfor- mationen zur besseren Berechnung der maximalen Verord- nungen von Massagen nungsmenge
+forderungskatalogs nach § 73 SGB V für die Verordnung von Heilmittel eines ICD-10-GM-Codes forderungskatalogs nach § 73 SGB V für die Verordnung von Heilmittel vom 09.01.2020 (Version 2.03) forderungskatalogs nach § 73 SGB V für die Verordnung von Heilmittel den Heilmitteln Ernährungstherapie <frequenzempfehlung_liste> und    <frequenzempfehlung> die XML-Elemente  Richtlinie des G-BA mit Beschlussfassung vom 18.04.2024 Code UUU sind nicht notwendig Richtlinie des G-BA mit Beschlussfassung vom 17.02.2022 tretens der Heilmittel- Richtlinie des G-BA mit Beschlussfassung vom Richtlinie des G-BA mit Beschlussfassung vom 19.09.2019 onsnummern dient der Integration von Preisinfor- mationen zur besseren Berechnung der maximalen Verord- nungen von Massagen nungsmenge
 
 ---
 
@@ -521,7 +521,7 @@ Standard-Namespace ist **urn:ehd/sdhm/001**
 
 ## 2.3 Root-Schema
 
-Das Root-Schema, worin die abgeleiteten ehd -Schemata sowie die projektbezogenen body- Schemata inkludiert sind, heißt **sdhm_root_V2.10.xsd**
+Das Root-Schema, worin die abgeleiteten ehd -Schemata sowie die projektbezogenen body- Schemata inkludiert sind, heißt **sdhm_root_V 2.10.xsd**
 
 ## 2.4 Dateinamen
 
@@ -584,9 +584,9 @@ Es existieren verschiedene Kardinalitäten:
 
 | Kardinalität | Symbol | Beschreibung |
 |---|---|---|
-| 0..1 |  | Optionale Elemente Ein optionales Element wird als Rechteck mit gestri- |
-| 1 |  | Obligatorische Elemente Elemente, welche als Rechteck mit durchgezogener |
-| n...m |  | Mehrfache Elemente Bei Elementen, welche mehrfach vorkommen kön- |
+| 0..1 |  | Optionale Elemente  Ein optionales Element wird als Rechteck mit gestri- |
+| 1 |  | Obligatorische Elemente  Elemente, welche als Rechteck mit durchgezogener |
+| n...m |  | Mehrfache Elemente  Bei Elementen, welche mehrfach vorkommen kön- |
 
 **Tabelle 1:** Beschreibung der Kardinalitäten eines XML-Elements
 
@@ -614,10 +614,10 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 | Symbol | Beschreibung |
 |---|---|
-|  | Element mit Kindelementen Ein Element mit einem oder mehreren Kindelementen wird durch ein |
-|  | Referenzelement Der Pfeil links unten im Element zeigt an, dass das Element an ande- |
-|  | Datentyp Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen |
-|  | Gruppenelement Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement |
+|  | Element mit Kindelementen  Ein Element mit einem oder mehreren Kindelementen wird durch ein |
+|  | Referenzelement  Der Pfeil links unten im Element zeigt an, dass das Element an ande- |
+|  | Datentyp  Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen |
+|  | Gruppenelement  Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement |
 
 **Tabelle 3:** Beschreibung sonstiger Symbole
 
@@ -645,7 +645,7 @@ Das ***<ehd>*** - Element hat folgenden Aufbau:
 
 **<ehd:ehd ehd_version="..." xmlns="urn:ehd/001"**  xmlns:xsi="[http://www.w3.org/2001/XMLSchema](http://www.w3.org/2001/XMLSchema)-instance"
 
-**../Schema/sdhm_root_V2.10.xsd">**
+**../Schema/sdhm_root_V 2.10.xsd">**
 
 **<ehd:header>**
 

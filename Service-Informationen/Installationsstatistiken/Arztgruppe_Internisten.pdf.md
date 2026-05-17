@@ -6,31 +6,31 @@
 
 **Id Praxissoftware**
 
-2.80 **CGM MEDISTAR BLACK PRO**
+280 **CGM MEDISTAR BLACK PRO**
 
-2.16 **x.isynet**
+216 **x.isynet**
 
-1.12 **TURBOMED**
+112 **TURBOMED**
 
-4.62 **medatixx**
+462 **medatixx**
 
-2.10 **Medical Office**
+210 **Medical Office**
 
-2.03 **ALBIS**
+203 **ALBIS**
 
-2.43 **x.concept**
+243 **x.concept**
 
-4.98 **T2med**
+498 **T 2med**
 
-2.54 **ORBIS®**
+254 **ORBIS®**
 
-2.44 **QUINCY WIN**
+244 **QUINCY WIN**
 
-4.57 **tomedo**
+457 **tomedo**
 
-2.52 **CGM M1 PRO**
+252 **CGM M1 PRO**
 
-2.66 **x.comfort**
+266 **x.comfort**
 
 **Anbieter**
 
@@ -48,7 +48,7 @@ CompuGroup Medical Deutschland AG
 
 medatixx GmbH & Co. KG
 
-T2med GmbH & Co. KG
+T 2med GmbH & Co. KG
 
 Dedalus HealthCare GmbH
 
@@ -62,59 +62,59 @@ medatixx GmbH & Co. KG 1
 
 **Installationen 2.Q.2025**
 
-1.595
+1 595
 
-1.401
+1 401
 
-1.360
+1 360
 
-1.040
+1 040
 
-1.028
+1 028
 
-9.16
+916
 
-8.55
+855
 
-8.18
+818
 
-7.22
+722
 
-6.12
+612
 
-5.27
+527
 
-4.61
+461
 
-4.00
+400
 
 **Installationen 1.Q.2025**
 
-1.606
+1 606
 
-1.431
+1 431
 
-1.402
+1 402
 
-1.001
+1 001
 
-1.007
+1 007
 
-9.35
+935
 
-8.75
+875
 
-7.81
+781
 
-7.30
+730
 
-6.21
+621
 
-4.84
+484
 
-4.73
+473
 
-4.18
+418
 
 **Differenz**
 
@@ -124,21 +124,21 @@ medatixx GmbH & Co. KG 1
 
 -42
 
-3.9
+39
 
-2.1
+21
 
 -19
 
 -20
 
-3.7
+37
 
 -8
 
 -9
 
-4.3
+43
 
 -12
 
@@ -149,19 +149,19 @@ medatixx GmbH & Co. KG 1
 
 **Id Praxissoftware**
 
-0.86 **DURIA**
+086 **DURIA**
 
-2.51 **MEDVISION**
+251 **MEDVISION**
 
-1.35 **EL - Elaphe Longissima**
+135 **EL - Elaphe Longissima**
 
-3.43 **SAP Ambulatory Care Management**
+343 **SAP Ambulatory Care Management**
 
-2.26 **CGM MEDICO**
+226 **CGM MEDICO**
 
-0.60 **Data-AL**
+060 **Data-AL**
 
-0.83 **PegaMed**
+083 **PegaMed**
 
 **Anbieter**
 
@@ -181,35 +181,35 @@ PEGA Elektronik GmbH 2
 
 **Installationen 2.Q.2025**
 
-3.79
+379
 
-3.39
+339
 
-3.13
+313
 
-2.73
+273
 
-2.22
+222
 
-2.06
+206
 
-2.04
+204
 
 **Installationen 1.Q.2025**
 
-3.80
+380
 
-3.46
+346
 
-3.16
+316
 
-2.79
+279
 
-2.23
+223
 
-2.05
+205
 
-2.07
+207
 
 **Differenz**
 

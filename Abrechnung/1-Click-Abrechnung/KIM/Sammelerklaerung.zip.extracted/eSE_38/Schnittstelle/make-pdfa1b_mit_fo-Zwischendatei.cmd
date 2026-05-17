@@ -15,10 +15,10 @@ set ENV=-cp .;;%dir%\build\fop.jar;%dir%\lib\batik-all-1.14.jar;%dir%\lib\common
 
 
 REM ********  erster Durchlauf mit .fo Zwischendatei ************
-java %ENV% org.apache.fop.cli.Main -xml ./XML-Beispiele/ese_1.21_274412300_tf+2015q3_du+Arzt.xml -xsl ./Stylesheet/kvnoSammelFOfuerPDFA-1b.xsl -a -l german -c fop.xconf -pdfprofile PDF/A-1b  -foout ./Sammelerklaerung_in_PDFA/ese_1.21_274412300_tf+2015q3_du+Arzt.foo
+java %ENV% org.apache.fop.cli.Main -xml ./XML-Beispiele/ese_1.21_274412300_tf+2026q2_du+Arzt.xml -xsl ./Stylesheet/kvnoSammelFOfuerPDFA-1b.xsl -a -l german -c fop.xconf -pdfprofile PDF/A-1b  -foout ./Sammelerklaerung_in_PDFA/ese_1.21_274412300_tf+2026q2_du+Arzt.foo
 
-java %ENV% org.apache.fop.cli.Main -fo Sammelerklaerung_in_PDFA/ese_1.21_274412300_tf+2015q3_du+Arzt.foo -a -l german -c fop.xconf -pdfprofile PDF/A-1b  -pdf ./Sammelerklaerung_in_PDFA/ese_1.21_274412300_tf+2015q3_du+Arzt.pdf
+java %ENV% org.apache.fop.cli.Main -fo Sammelerklaerung_in_PDFA/ese_1.21_274412300_tf+2026q2_du+Arzt.foo -a -l german -c fop.xconf -pdfprofile PDF/A-1b  -pdf ./Sammelerklaerung_in_PDFA/ese_1.21_274412300_tf+2026q2_du+Arzt.pdf
 
-java %ENV% org.apache.fop.cli.Main -xml ./XML-Beispiele/ese_1.21_274412400_tf+2015q3_du+Arzt.xml -xsl ./Stylesheet/kvnoSammelFOfuerPDFA-1b.xsl -a -l german -c fop.xconf -pdfprofile PDF/A-1b  -foout ./Sammelerklaerung_in_PDFA/ese_1.21_274412400_tf+2015q3_du+Arzt.foo
+java %ENV% org.apache.fop.cli.Main -xml ./XML-Beispiele/ese_1.21_274412400_tf+2026q2_du+Arzt.xml -xsl ./Stylesheet/kvnoSammelFOfuerPDFA-1b.xsl -a -l german -c fop.xconf -pdfprofile PDF/A-1b  -foout ./Sammelerklaerung_in_PDFA/ese_1.21_274412400_tf+2026q2_du+Arzt.foo
 
-java %ENV% org.apache.fop.cli.Main -fo Sammelerklaerung_in_PDFA/ese_1.21_274412400_tf+2015q3_du+Arzt.foo -a -l german -c fop.xconf -pdfprofile PDF/A-1b  -pdf ./Sammelerklaerung_in_PDFA/ese_1.21_274412400_tf+2015q3_du+Arzt.pdf
+java %ENV% org.apache.fop.cli.Main -fo Sammelerklaerung_in_PDFA/ese_1.21_274412400_tf+2026q2_du+Arzt.foo -a -l german -c fop.xconf -pdfprofile PDF/A-1b  -pdf ./Sammelerklaerung_in_PDFA/ese_1.21_274412400_tf+2026q2_du+Arzt.pdf

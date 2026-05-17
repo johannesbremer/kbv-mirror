@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT  22. SEPTEMBER 2022 VERSION: 1.0  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT   22. SEPTEMBER 2022  VERSION: 1.0   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # BEKANNTGABE SOFTWARE VARIANTE N
@@ -36,7 +36,7 @@ Basissoftware übereinstimmen.
 
 |  |  | | |
 |---|---|---|---|
-| Name des Softwareverantwortlichen [bei juristischen Personen ist die Rechtsform anzugeben] |  | | |
+| Name des  Softwareverantwortlichen  [bei juristischen Personen ist die  Rechtsform anzugeben] |  | | |
 | Geschäftsbereich [falls vorhanden] |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
@@ -44,8 +44,8 @@ Basissoftware übereinstimmen.
 | Faxnummer |  | | |
 | E-Mail-Adresse |  | | |
 | Webseite |  | | |
-| Der Softwareverantwortlicher ist | ☐  Arzt/Ärztin | ☐  Softwarehaus | ☐  Sonstiges |
-| Systempfleger [nur anzugeben, wenn der Systempfleger vom Antragssteller abweicht] |  | | |
+| Der Softwareverantwortlicher ist | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
+| Systempfleger  [nur anzugeben, wenn der  Systempfleger vom Antragssteller  abweicht] |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 
@@ -70,7 +70,7 @@ bekanntzugebenden Varianten.
 |  |  |
 |---|---|
 | Bezeichnung |  |
-| Ident-Nummer [die letzten drei Stellen der Prüfnummer, falls vorhanden] |  |
+| Ident-Nummer [die letzten drei  Stellen der Prüfnummer, falls  vorhanden] |  |
 
 # 2 ANGABEN ZU SOFTWAREVARIANTEN
 

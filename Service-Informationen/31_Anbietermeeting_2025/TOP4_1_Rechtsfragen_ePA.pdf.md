@@ -33,7 +33,7 @@ insgesamt, noch gegen das Einstellen des betreffenden Dokuments. Weitere
 
 ---
 
-## Befüllung der ePA - Pflichtdaten
+## Befüllung der e PA - Pflichtdaten
 
 ## - Daten zu Anwendungsfällen nach § 342 Abs. 2a, 2b, 2c SGB V (
 
@@ -60,7 +60,7 @@ insgesamt, noch gegen das Einstellen des betreffenden Dokuments. Weitere
 
 ---
 
-## Befüllung der ePA - Weitere Daten (Wunschdaten)
+## Befüllung der e PA - Weitere Daten (Wunschdaten)
 
 ## - Einstellung auf Verlangen des Versicherten (§ 347 Abs. 4)
 

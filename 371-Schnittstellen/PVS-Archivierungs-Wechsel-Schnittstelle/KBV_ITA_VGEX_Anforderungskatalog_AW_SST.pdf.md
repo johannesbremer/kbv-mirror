@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIE 15. NOVEMBER 2021  VERSION: 1.2.1 DOKUMENTENSTATUS: |
+|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIE 15. NOVEMBER 2021   VERSION: 1.2.1 DOKUMENTENSTATUS: |
 |---|---|
 
 # ANFORDERUNGSKATALOG DER ARCHIV-
@@ -78,6 +78,8 @@ BUNDESVEREINIGUNG   RUNG UND IT IT IN DER ARZTPRAXIS IN KRAFT
 
 **54**
 
+/ Version: 1.2.1
+
 
 ---
 
@@ -99,12 +101,14 @@ DOKUMENTENHISTORIE
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.00 | 11.09.2018 KBV |  | Initiale Erstellung | § 291d Absatz | alle |
-| 1.10.001 | 27.05.2019 KBV |  | 1. 2. und P6-19 aufgenommen. 3. und P7-06 aufgenommen. 4. P6-12 und P7-04 5. 6. 7. |  | 20  43   49- 38   51/3 7 |
-| 1.10.002 | 05.09.2019 KBV |  | 1. 2. 3. 4. 5. 6. |  | 26 35 46 47 50 47 |
-| 1.2.0 | 10.12.2020 KBV |  | 7. 8. 9. 10. 11. 12. 13. 14. 15. |  | 6   7 11 12 49 |
+| 1.10.001 | 27.05.2019 KBV |  | 1. 2. und P6-19 aufgenommen.  3. und P7-06 aufgenommen.  4. P6-12  und P7-04  5. 6. 7. |  | 20    43      49- 38      51/3 7 |
+| 1.10.002 | 05.09.2019 KBV |  | 1. 2. 3. 4. 5. 6. |  | 26  35  46  47  50  47 |
+| 1.2.0 | 10.12.2020 KBV |  | 7. 8. 9. 10. 11. 12. 13. 14. 15. |  | 6      7  11  12  49 |
 |  |  |  |  |  |  |
 | 27.05.2019 KBV | | | | | |
-|  | 1. |  | und P6-19 aufgenommen. 4. 5. 6. 7. 20 43    05.09.2019 KBV 1. |  | 2. 4. 5. 6.  35 46 50 47 1.2.0 10.12.2020 KBV 7. 8. |
+|  | 1. |  | und P6-19 aufgenommen.  4. 5. 6. 7. 20  43        05.09.2019 KBV  1. |  | 2. 4. 5. 6.   35  46  50  47  1.2.0  10.12.2020 KBV  7. 8. |
+
+/ Version: 1.2.1
 
 Neue Anforderung P5-02 aufgenommen. Neue Export -Anforderungen P6-17, KP6-18 Neue Import -Anforderungen P7-02, O7-05 Anpassung Erzeugung Reportdateien Historisierung der Begegnung geändert Neue Anforderung P3 -10 aufgenommen Neue Anforderung zur Kompatibilität der Schnittstellenversionen P6-20 und P707 1 SGB V Anlagen können auf Wunsch des Anwenders referenziert werden P5 -52 Anforderung P6 -03 konkretisiert Neue Afo P6 -21 für Multiplikator einer GOP Neue Afo KP6-22 zum Abbilden von GOPn aus sonstigen Codesystemen Import in ein System mit vorhandenen Daten konkretisiert Afo P7 -03 Neue Afo KP6-23 für die Abbildung von Teilaufträgen Geänderte gesetzliche Grundlage in § 371 und 372 Umstellung der Ressourcen von STU3 auf R4 Änderung der Dat einamen von 74_* in KBV_* Kapitel 1.4 eingefügt Ausnahmen in P3 -02 zugefügt Hinweis P3-04 Must-Support Überarbeitung P7 -01 und Separierung in KP7-05 Div. redaktionelle Anpassung Neue Anforderungen: P3-11, P5-59, O6-24
 
@@ -113,12 +117,14 @@ Neue Anforderung P5-02 aufgenommen. Neue Export -Anforderungen P6-17, KP6-18 Neu
 |  |  |  |  |  |  |
 |---|---|---|---|---|---|
 |  |  |  |  |  |  |
-|  | 16. |  | 15.11.2021 KBV 1. 3. 4. 5. 6. 7. 8. 9. |  | 12. 13. 15. 16. 17. |
-|  | 18. |  | Versch. Punkte Anpassung ä => ae 15 24 |  | 32 33 |
+|  | 16. |  | 15.11.2021 KBV  1. 3. 4. 5. 6. 7. 8. 9. |  | 12. 13. 15. 16. 17. |
+|  | 18. |  | Versch. Punkte Anpassung ä => ae  15  24 |  | 32  33 |
 | 36 |  |  |  |  |  |
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 | 16. | | | | | |
-| 1.2.1 | 15.11.2021 KBV |  | 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18.  Versch. Punkte Anpassung ä => ae | P3-20 ist ein | 7 8 12 15 19 20 24 27 28 29 32 33 36 42 48 51 52 53 |
+| 1.2.1 | 15.11.2021 KBV |  | 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18.   Versch. Punkte Anpassung ä => ae | P3-20 ist ein | 7  8  12  15  19  20  24  27  28  29  32  33  36  42  48  51  52  53 |
+
+/ Version: 1.2.1
 
 Komplette Überarbeitung der Anforderungen zu den Datenbereichen im Kapitel 2.4 Gültigkeit des Anforderungskatalogs Hinweis hinzugefügt P1-01 4. Angepasst P3-04 1. Und 2. Präzisiert P3-20 Neu hinzugefügt P5-00 2. Hinweis auf Änderung für die Zukunft P5-02 Konkretisierung  KP5-05 7. hinzugefügt P5-52 überarbeitet KP5-54 kleiner Hinweis KP5-55 kleiner Hinweis P5-59 Anpassung des Zeichensatzes P6-00 1. Spezifizierung P6-05 Anpassungen P6-13 generell überarbeitet P7-01 versch. Änderungen KP7-05 c) Textanpassun gen P708 3. Spezifizierung der Vers. Nummer KP7-09 NEU Spezifizierung der Provenienzen als Anlage wichtiger Zusatz um Datenkonflikte zu klären
 
@@ -174,6 +180,8 @@ Optionale Funktionen sind wie folgt gekennzeichnet:
 |---|---|
 | O4-20 | Funktionsbezeichnung |
 
+/ Version: 1.2.1
+
 PFLICHTFUNKTION AW-SST
 
 
@@ -188,6 +196,8 @@ Hinweis: In der Version 1.2.1 werden keine neuen Verpflichtungen in den Anforder
 Bereits heute erkannte Bedarf für eine Verpflichtung wird mit der Markierung [siehe Hinweis Kap itel 1.4]
 
 verdeutlicht und voraussichtlich mit der neuen Version der AWS -SST verpflichtend definiert . Damit wird  gewährleistet, dass bei der Umsetzung die Verpflichtung bereits heute angenommen werden kann, um ggf.  spätere Aufwände zu minimieren.
+
+/ Version: 1.2.1
 
 
 ---
@@ -251,6 +261,8 @@ Dokuments [ Festlegung_SST_AW
 eingesetzt werden.
 
 - eigenen
+
+/ Version: 1.2.1
 
 ] vollständig und
 
@@ -325,6 +337,8 @@ als
 
 D.h. es muss gegen -
 
+/ Version: 1.2.1
+
 
 ---
 
@@ -334,7 +348,7 @@ Ein Großteil der FHIR® -Instanzen enthält einen maschinenlesbaren und einen m
 
 | PFLICHTFUNKTION AW -SST |  |
 |---|---|
-| P3-00 | Logische Identifier (FHIR®) |
+| P 3-00 | Logische Identifier (FHIR®) |
 
 Jede FHIR®-Instanz (BUNDLES und Ressourcen) enthält ein Element <Ressourcentyp.id> deren Attribut  „value“ mit einer eindeutigen ID gefüllt werden muss.
 
@@ -346,7 +360,7 @@ Mit dem Identifier wird eine eindeutige Referenz von
 
 Die vergebene ID muss für jeden Export über alle FHIR®
 
-| Beispiel:  … <fullUrl value="http://beispielpraxis.de/FHIR/Patient/1"/> <Patient> <id value="1"/> <meta> … |
+| Beispiel:   …  <fullUrl value="http://beispielpraxis.de/FHIR/Patient/1"/> <Patient>  <id value="1"/>  <meta>  … |
 |---|
 
 BUNDLES und Instanzen sichergestellt.
@@ -374,6 +388,8 @@ Festlegung für die Schnittstelle.
 **Akzeptanzkriterium:**
 
 Die Definition für die Verwendung der maschinenlesbaren Elemente in den KBV der jeweils aktuellen Schnittstellenversion) einzuhalten.
+
+/ Version: 1.2.1
 
 ngezeigt. Die -Profilen ist ausnahmslos (in
 
@@ -432,6 +448,8 @@ Festlegung für die Schnitts telle.
 
 Eine konkrete Formatierung für die einzelnen Texte und Abschnitte wird nicht vorgegeben, da die  Softwarehersteller somit größere Freiheiten haben, dies in ihrem System optimal umzusetzen
 
+/ Version: 1.2.1
+
 Teil
 
 
@@ -485,7 +503,7 @@ Festlegung für die Schnittstelle.
 
 - referenzierten Ressourcen angegeben.
 
--Dateien
+/ Version: 1.2.1 -Dateien
 
 
 ---
@@ -556,7 +574,7 @@ in der Referenz explizit anzugeben z. B. [http://Testserver.de/Patient/1/_histor
 
 auf den Patienten mit der Ressourcen-ID=1 und der meta.versionID=2 verwiesen werden.
 
--Dateien
+/ Version: 1.2.1 -Dateien
 
 
 ---
@@ -565,13 +583,15 @@ auf den Patienten mit der Ressourcen-ID=1 und der meta.versionID=2 verwiesen wer
 |---|---|
 | KP3-09 | Definition der Versionsnummer (meta.versionId) |
 
-| Beispiel Definition des Patienten in <StructureDefiniti on xmlns="http://hl7.org/fhir"> <url value="https://fhir.kbv.de/StructureD  <version value="1. 2.0" /> ... </StructureDefinition> |
+| Beispiel  Definition des Patienten in  <StructureDefiniti on xmlns="http://hl7.org/fhir"> <url value="https://fhir.kbv.de/StructureD  <version value="1.2.0" />  ...  </StructureDefinition> |
 |---|
-| KONDITIONALE PFLICHTFUNKTION AW -SST  KP3-09 Definition der Versionsnummer (meta.versionId) Ist das System mit einer Möglichkeit zur historisierten Speicherung von Informationen ausgestattet, so sind |
+| KONDITIONALE PFLICHTFUNKTION AW -SST    KP3-09  Definition der Versionsnummer (meta.versionId) Ist das System mit einer Möglichkeit zur historisierten Speicherung von Informationen ausgestattet, so sind |
 
 | PFLICHTFUNKTION AW -SST |  |
 |---|---|
 | P3-10 | Schnittstellenversion im Element meta.profile |
+
+/ Version: 1.2.1
 
 diese Strukturen mit einer Historie -Version auch in dieser SST abzubilden. Zum einheitlichen Verständnis muss der Aufbau der Versionsnummer definiert werden. Begründung: Hiermit werden Änderungen an fachlichen gleichen Objekten mit einer Versionierung abgebildet. Akzeptan zkriterium: Die zeitlich gesehen älteste Informationseinheit hat die kleinste numerische Versionsnummer (meta.versionId=1). Darauffolgende chronologische Änderungen haben Versionsnummern (1, 2, 3 usw.) zur Folge. Es sind nur natürl iche Zahlen Das Element meta.profile in Instanzen der FHIR® -Ressourcen ist mit der Canonical -URL des verwendeten FHIR® -Profils unter Angabe der Versionsnum mer der Schnittstelle zu versehen.  Begründung: Zur Kennzeichnung mit welchem KBV -Profil die FHIR® -Instanz konform ist, ist die entsprechende URL des FHIR® -Profils anzugeben. Zur Gewährleistung einer Eindeutigkeit ist die URL um die Versionsnummer Schnittstelle des entsprechenden Profils zu erweitern. Akzeptanzkriterium: Alle FHIR® -Instanzen müssen im Element meta.profil e einen Eintrag gemäß Kapitel 2.3.0. http://www.hl7.org/fhir/r4/referen ces.html der [FHIR® ]-Spezifikation in folgender Form enthalten :  <URL des FHIR -Profils>|<Version des Profils> Es gilt: <URL des FHIR -Profils> = Inhalt aus StructureDefinition.URL des entsprechenden Profils <Version des Profils> = Inhalt aus StructureDefinition.version des entsprechenden Profils im Format „X.X.X“ KBV_AW_Patient: efinition/KBV_PR_AW_Patient" /> fortlaufende ansteigende OHNE DIE NULL  erlaubt 5
 
@@ -579,7 +599,7 @@ diese Strukturen mit einer Historie -Version auch in dieser SST abzubilden. Zum 
 
 | PFLICHTFUNKTION AW -SST |
 |---|
-| Instanzen des Patienten <Patient xmlns="http://hl7.org/fhir">  <meta> <profile value=" https://fhir.kbv.de/StructureDefin "  </meta> … </Patient> |
+| Instanzen des Patienten  <Patient xmlns="http://hl7.org/fhir">  <meta>  <profile value="https://fhir.kbv.de/StructureDefin "   </meta>  …  </Patient> |
 
 | PFLICHTFUNKTION AW -SST |  |
 |---|---|
@@ -612,6 +632,8 @@ Erstellung valider Ressourcen mit KBV-Profilen.
 - verwendet werden und das Element
 
 - , kann das Dummy- . Bei fehlender Möglichkeit
+
+/ Version: 1.2.1
 
 P3-11 Belegung der Elemente text.status Die Belegung der Elemente text.status soll mit dem Wert „extensions“ erfolgen. Begründung: Klarstellung zur de rzeit noch uneinheitlichen Definition in den KBV -Profilen. Akzeptanzkriterium: 1. Das E lement text.status muss in allen Instanzen der KBV -Profile mit dem Wert „extensions“ gefüllt werden. 2.4 DEFAULTWERTE in den KBV -Profilen ition/KBV_PR_AW_Patient|1.2.0| PFLICHTFUNKTION AW -SST |  |
 |---|---|
@@ -680,6 +702,8 @@ Festlegung für die Schnittstelle.
 
 - 1. Im System sind Termine für den Export vorhanden und der gewählte Datenbereich schließt die Termine - ein.
 
+/ Version: 1.2.1
+
 
 ---
 
@@ -729,7 +753,9 @@ Festlegung für die Schnittstelle.
 
 - KBV_PR_AW_Bundle_Adressbuch
 
-- , sofern das System die Funktionalitäten -
+- , sofern das System die Funktionalitäten
+
+/ Version: 1.2.1 -
 
 - im Profil
 
@@ -792,6 +818,8 @@ Festlegung für die Schnittstelle.
 
 - 1. Im System sind Patientenakten für den Export vorhande n und der gewählte Datenbereich schließt die - Patientenakten ein.
 
+/ Version: 1.2.1
+
 PFLICHTFUNKTION AW -SST
 
 
@@ -853,6 +881,8 @@ Bedeutung der einzelnen Parameter:
 
 - Schnittstelle: AW = Fester Wert (Archiv- und Wechselschnittstelle)
 
+/ Version: 1.2.1
+
 
 ---
 
@@ -886,7 +916,7 @@ Hiermit wird ein besseres Auffinden der Dateien ermöglicht.
 
 -
 
-- Ordner _System
+/ Version: 1.2.1 - Ordner _System
 
 ---
 
@@ -929,6 +959,8 @@ Hiermit wird ein besseres Auffinden der exportierten Dateien ermöglicht.
 - 1. Im System sind Adressen für den Export vorhanden und der gewählte Datenbereich schließt die  Adressen ein.
 
 - 2. Es wird eine BUNDLE -Datei mit Daten nach KP4-02 erzeugt.
+
+/ Version: 1.2.1
 
 PFLICHTFUNKTION AW-SST 5-03 - Ordner Adressen
 
@@ -977,6 +1009,8 @@ Hiermit wird ein besseres Auffinden der exportierten Dateien ermöglicht.
 
 - 2. Es wird eine BUNDLE -Datei mit Daten nach KP4-03 erzeugt.
 
+/ Version: 1.2.1
+
 PFLICHTFUNKTION AW-SST - Ordner Behandlungsbausteine
 
 
@@ -1017,6 +1051,8 @@ Hiermit wird ein besseres Auffinden der exportierten Dateien ermöglicht.
 - 4. Die BUNDLE-Dateien der Patienten müssen im Verzeichnis Patientenakten alphabetisch nach dem
 
 - ersten Buchstaben des Nachnamens in Unterordnern gespeichert werden:
+
+/ Version: 1.2.1
 
 PFLICHTFUNKTION AW-SST - Ordner Patientenakten
 
@@ -1077,6 +1113,8 @@ Hiermit wird ein besseres Auffinden der exportierten Dateien ermöglicht.
 
 - 2. Es wird eine BUNDLE -Datei mit Daten zum Sprechstundenbedarf nach KP4-04 erzeugt.
 
+/ Version: 1.2.1
+
 PFLICHTFUNKTION AW-SST - Ordner Sprechstundenbedarf
 
 
@@ -1131,6 +1169,8 @@ Hiermit wird ein besseres Auffinden der exportierten Dateien ermöglicht.
 -
 
 - Termine
+
+/ Version: 1.2.1
 
 PFLICHTFUNKTION AW-SST - Ordner Termine
 
@@ -1188,6 +1228,8 @@ Die ursprünglichen Dateinamen der Anla gen bleiben erhalten bzw. sind frei wäh
 
 Anlagen vorgegeben.
 
+/ Version: 1.2.1
+
 
 ---
 
@@ -1234,6 +1276,8 @@ einer Abfrage mitzuteilen.
 - Abfrage unter Punkt 3) durch den Nutzer fest legbar sein. In der Abfrage muss auf alle bekannten  Abhängigkeiten zur Weiternutzung des Systems hingewiesen werden, die dem exportierenden System - bekannt sind .
 
 - 8. Die Anlagen müssen in fachlich getrennten Unterordnern unter dem Ordner „Anlage n“ abgelegt - werden:
+
+/ Version: 1.2.1
 
 
 ---
@@ -1306,6 +1350,8 @@ referenzieren, in Unterordnern mit der Bezeichnung  gespeichert werden.
 
 - 1. Im System sind Anlagen der Abrechnung für den Export vorhanden .
 
+/ Version: 1.2.1
+
 
 ---
 
@@ -1337,6 +1383,8 @@ Hiermit wird ein besseres Auffinden der exportierten Dateien ermöglicht.
 
 - 1. Im System sind Anlagen der Begegnung für den Export vorhanden.
 
+/ Version: 1.2.1
+
 
 ---
 
@@ -1365,6 +1413,8 @@ Hiermit wird ein besseres Auffinden der exportierten Dateien ermöglicht.
 -
 
 - für den Export vorhanden.
+
+/ Version: 1.2.1
 
 
 ---
@@ -1427,6 +1477,8 @@ Hiermit wird ein besseres Auffinden der exportierten Dateien ermöglicht .
 
 - n (referenziert im KBV-Profil KBV_PR_AW_Anlage) mit
 
+/ Version: 1.2.1
+
 PFLICHTFUNKTION AW -SST
 
 
@@ -1482,6 +1534,8 @@ Plattformunabhängige Festlegung.
 
 -  CON, PRN, AU X, NUL, COM1, COM2, COM3, COM4, COM5, COM6, COM7, COM8, COM9,  LPT1, LPT2, LPT3, LPT4, LPT5, LPT6, LPT7, LPT8, LPT9
 
+/ Version: 1.2.1
+
 
 ---
 
@@ -1530,6 +1584,8 @@ nterstützen und vollständig
 der ggf. vorhandenen zusätzlich
 
 ilt die Definition im Punkt 1
+
+/ Version: 1.2.1
 
 muss -Elemente (text)
 
@@ -1592,6 +1648,8 @@ Festlegung für die Schnittstelle.
 
 - 5. Die erzeugten Dateien der Punkte 1, 3 und 4 sind über die Ressource KBV_PR_AW_Anlage zu  exportieren.
 
+/ Version: 1.2.1
+
 PFLICH TFUNKTION  AW-SST
 
 
@@ -1642,6 +1700,8 @@ des Profils KBV_PR_AW_Anlage das Profil KBV_PR_AW_Patient zu referenzieren. Bei 
 (Betriebsstätte) Dokumentation (z. B. QS Kapselendoskopie) ist in der Instanz des Profils
 
 KBV_PR_AW_Anlage das Profil KBV_PR_AW_ Betriebsst aette zu referenzieren.
+
+/ Version: 1.2.1
 
 
 ---
@@ -1714,6 +1774,8 @@ Festlegung für die Schnittstelle.
 
 -
 
+/ Version: 1.2.1
+
 
 ---
 
@@ -1767,7 +1829,7 @@ Es sollen im Zielsystem alle für eine noch nicht erfolgte Abrechnung relevanten
 
 - KBV_PR_AW_Abrechnung_Vertragsaerztlich
 
-| Beispiel (für Status abgerechnet): … <status value="active"/> … |
+| Beispiel (für Status abgerechnet):  …  <status value="active"/>  … |
 |---|
 
 **HINWEIS**
@@ -1775,6 +1837,8 @@ Es sollen im Zielsystem alle für eine noch nicht erfolgte Abrechnung relevanten
 Die Markierung ob eine GOP abrechnungsfähig ist, erfolgt im KBV KBV_PR_AW_Abrechnung_vorlaeufig.
 
 -Profil
+
+/ Version: 1.2.1
 
 
 ---
@@ -1816,6 +1880,8 @@ KBV_PR_AW_Abrechnung_XXX existieren.
 - KBV_PR_AW_Abrechnung_Vertragsaerztlich
 
 auftreten und dieselbe Instanz des KBV -Profils KBV_PR_AW_Abrechnung_vorlaeufig referenzieren.
+
+/ Version: 1.2.1
 
 
 ---
@@ -1888,6 +1954,8 @@ Verwendung von Einzelinformationen vorzuziehen.
 
 - **SUPPORTINGINFO** (Befund/Medikation, es kann entweder ein String oder eine Referenz zu einer - Diagnose erstellt werden.)
 
+/ Version: 1.2.1
+
 
 ---
 
@@ -1957,7 +2025,7 @@ er einer Betriebsstätte.
 
 der Version zugeordnet werden.
 
--Profil
+/ Version: 1.2.1 -Profil
 
 - -Profil
 
@@ -2007,6 +2075,8 @@ Bedeutung:
 - 6. Für Test -Exporte kann unter Angabe des Parameters KBV_PR_AW_Report_Export.purposeOfEvent =
 
 - HTEST, sowohl der menschenlesbare Teil aus [P3-02] als auch die PDFs aus [P6-13] weggelassen werden.
+
+/ Version: 1.2.1
 
 
 ---
@@ -2070,6 +2140,8 @@ Es sollen keine unvollständigen Dateien oder Verzeichnisse erhalten bleiben, di
 - 2. Der Anwender ist entsprechend, unter Angabe der Fehlerursache, darüber zu informieren.
 
 - 3. Die Reportdatei darf in diesem Fall nicht erzeugt werden.
+
+/ Version: 1.2.1
 
 nen -Reader
 
@@ -2159,6 +2231,8 @@ Leere Ressourcen können beim Import zu Fehlinterpretationen führen
 
 -
 
+/ Version: 1.2.1
+
 
 ---
 
@@ -2204,7 +2278,7 @@ ystem erfolgen
 
 - sind als Referenz freigegeben.
 
--
+/ Version: 1.2.1 -
 
 - System
 
@@ -2258,7 +2332,7 @@ Festlegung für die Schnittstelle.
 
 - 2. Die technische Möglichkeit den Multiplikator durch Wiederholen des Elements Claim.Item im KBV KBV_PR_AW_Abrechnung_vorlaeufig abzubilden ist nicht zuläs sig.
 
-- zur Auswahl
+/ Version: 1.2.1 - zur Auswahl
 
 -
 
@@ -2333,6 +2407,8 @@ keinen Bezug zu einer Begegnung haben.
 
 - Inhalt = Dummy
 
+/ Version: 1.2.1
+
 PFLICHTFUNKTION AW-SST PFLICHTFU NKTION AW-SST
 
 
@@ -2367,6 +2443,8 @@ Punkt 1 ausnahmslos.
 ionalität des Zielsystems vollständig
 
 - für den Import der exportierten Daten anbieten.
+
+/ Version: 1.2.1 -
 
 ehe
 
@@ -2431,6 +2509,8 @@ Für die Abbildung der Provenienz -Ressourcen gilt die Anforderung KP7 -09.
 
 - 11. Die Einträge aus den Punkten 8 und 10 sind dem Anwender in geeigneter Weise anzuzeigen.
 
+/ Version: 1.2.1
+
 
 ---
 
@@ -2482,6 +2562,8 @@ Eine Schulung der Anwender durch die Hersteller wird nicht erwartet.
 
 beim Import beachtet werden.
 
+/ Version: 1.2.1
+
 n der Lage sein,
 
 -
@@ -2528,6 +2610,8 @@ Bedeutung:
 - 5. Zusätzlich ist die Instanz des KBV -Profils KBV_PR_AW_Report_Import mit dem Dateinamen nach 3. und
 
 - der Dateiendung .xml im ausgewählten Ordner aus Punkt 4 zu speichern.
+
+/ Version: 1.2.1
 
 
 ---
@@ -2602,6 +2686,8 @@ Die FHIR -Spezifikation ermöglicht derzeit nicht das Importieren von historisie
 
 - danach, u. s. w. (Siehe P7-02).
 
+/ Version: 1.2.1
+
 der Reportdatei
 
 
@@ -2653,6 +2739,8 @@ Die AW-SST ist derzeit nicht abwärtskompatibel
 
 - Nutzer mit einer Fehlermeldung inklusive der Versionsnummern ( System -Einstellung und ermittelte  Versionsnummer des Imports) anzuzeigen. Der Import darf in diesem Fall nicht durchgeführt werden.
 
+/ Version: 1.2.1
+
 Exportverzeich nis
 
 
@@ -2696,6 +2784,8 @@ Hinweis: Derzeit ist es auch nicht möglich für jeden Ressourcentyp eine separa
 
 - zusammengefasst importiert werden.
 
+/ Version: 1.2.1
+
 NDITIONALE PFLICHTFUNKTION AW -SST
 
 
@@ -2706,13 +2796,13 @@ NDITIONALE PFLICHTFUNKTION AW -SST
 |  |  |
 |---|---|
 | Referenz | Dokument |
-| FHIR® | FHIR ®-Spezifikation: http://hl7.org/fhir/R4/ |
+| FHIR® | FHIR ®-Spezifikation:  http://hl7.org/fhir/R4/ |
 | Deutschen Basis -Profilen | https://simplifier.net/BasisprofilDE/ |
 | KBV-Basisprofile | https://simplifier.net/Base1x0 |
-| KBV_ITA_RLEX_Zert.pdf | Zertifizierungsrichtlinie der KBV: https://update.kbv.de/ita - |
-| KBV_FHIR_AW.zip | KBV-Profile: https://update.kbv.de/ita -update/371 - |
+| KBV_ITA_RLEX_Zert.pdf | Zertifizierungsrichtlinie der KBV:  https://update.kbv.de/ita - |
+| KBV_FHIR_AW.zip | KBV-Profile:  https://update.kbv.de/ita -update/371 - |
 | KBV_ITA_VGEX_Festlegung_AW_SST | Festlegung der Archiv - und Wechsel- https://update.kbv.de/ita -update/371 - |
-| Hinweise_DV_Arztpraxis | Hinweise und Empfehlungen zur ärztlichen http://www.bundesaerztekammer.de/filea |
+| Hinweise_DV_Arztpraxis | Hinweise und Empfehlungen zur ärztlichen  http://www.bundesaerztekammer.de/filea |
 
 **Ansprechpartner**
 
@@ -2727,5 +2817,7 @@ Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv
 IT
 
 # NTE
+
+/ Version: 1.2.1
 
 update/Allgemein/ Schnittstellen/PVS -Archivierungs -Wechsel Schnittstell Schnittstelle nach § 371 Abs. 1 SGB V: Schnittstellen/PVS -Archivierungs -Wechsel Schnittstelle/ Schweigepflicht, Datenschutz und Datenverarbeitung in der Arztpraxis: dmin/user_upload/downloads/pdf - Ordner/Recht/Hinweise_und_Empfehlunge n_aerztliche_Schweigepflicht_Datenschutz _Datenverarbeitung_09.03.2018_.pdf

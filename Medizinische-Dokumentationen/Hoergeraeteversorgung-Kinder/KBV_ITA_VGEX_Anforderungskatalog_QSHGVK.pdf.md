@@ -22,12 +22,12 @@ geräteversorgung Kinder QSHGVK] 1.11 Datum: 13.02.2026 Kennzeichnung: Öffentli
 | Version Datum |  | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.11 | 13.02.2026 | KBV | Aktualisierung des | Aktualisierung des | 14 |
-| 1.10 | 14.11.2025 | KBV | Streichung P1-265,  Überarbeitung P1-266   Umwandlung K1 -264 in | KV-Connect Abschaltung | 12ff |
+| 1.10 | 14.11.2025 | KBV | Streichung P1-265,   Überarbeitung P 1-266      Umwandlung K1 -264 in | KV-Connect Abschaltung | 12ff |
 | 1.09 | 15.08.2025 | KBV | Aktualisierung des | Aktualisierung des | 14 |
 | 1.08 | 14.02.2025 | KBV | P1-266: neu aufgenommen | Aufnahme von KIM als | 13 |
 | 1.07 | 14.08.2023 | KBV | Aktualisierung des | Aktualisierung des | 14 |
 | 1.06 | 13.08.2021 | KBV | Aktualisierung des | Aktualisierung des | 14 |
-| 1.05 | 14.05.2019 | KBV | - P1-261, P1 -262 und P1 -263 ge- - P1-265: Neu aufgenommen | Aktualisierung der KV- |  |
+| 1.05 | 14.05.2019 | KBV | -  P1-261, P1 -262 und P1 -263 ge- -  P1-265: Neu aufgenommen | Aktualisierung der KV- |  |
 | 1.04 | 03.05.2019 | KBV | Aufnahme der Funktion P1-300 | Erweiterung des Wer- |  |
 
 **K** **U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O**
@@ -93,14 +93,10 @@ Schlüssels in der Version 08 nale Pflichtfunktion KP1-264 Schlüssels in der Ve
 
 ---
 
-| **IT in** | **der** | **Arztpraxis** |  |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | Anforderungskatalog | | QS | Hörgeräteversorgung | | Kinder |  |  |  |  |  |
-| **A** | **B B** | **I L** | **D U N** | **G S V** | **E R** | **Z E I** | **C H N** | **I S** |  |  |  |
-|  | Abbildung | 1 | Berichtszeiträume | |  |  | ................................................................ | | | ................................ | 6 |
-|  |  | KBV_ITA_VGEX_Anforderungskatalog_ | | QSHGVK | * Version | 1.11 |  |  |  | Seite 4 | von 15 |
+Abbildung 1 Berichtszeiträume ................................................................................................ 6
 
-Abbildung 1 Berichtszeiträume ................................ 6
+**A** **B** **B** **I** **L** **D** **U** **N** **G** **S** **V** **E** **R** **Z** **E** **I** **C** **H** **N** **I** **S**
+
 
 ---
 
@@ -440,7 +436,7 @@ Innerhalb dieser Übersicht müssen weitere Angaben erfolgen:
 |---|---|
 | P1-230 | Öffnen von |
 
-PatientenID Dokumentationen anhand der ÜbersichtAnhand der Übersicht ist es möglich, eine ausgewählte Dokumentation zu öffnen und zu be- arbeiten.
+Patienten ID Dokumentationen anhand der ÜbersichtAnhand der Übersicht ist es möglich, eine ausgewählte Dokumentation zu öffnen und zu be- arbeiten.
 
 
 ---
@@ -541,7 +537,7 @@ Es sind folgende Import-Status möglich:
 | OK | Die Datei wurde erfolgreich importiert. |
 | OK (implausibel) | es sind Fehler in der Datei, die jedoch nicht zum Abbruch des Im- |
 | Datei existiert bereits | cher Zuordnung (SET_ID, BSNR, LANR) vorhanden ist. |
-| Fehlgeschlagen | Beim Import der Datei sind Fehler aufgetreten, daher konnte diese übermittelt. |
+| Fehlgeschlagen | Beim Import der Datei sind Fehler aufgetreten, daher konnte diese  übermittelt. |
 
 Die KIM-Nachricht mit der Rückmeldung wird an die Absender  aus der Anwender (Arzt) die exportierten Dateien über
 

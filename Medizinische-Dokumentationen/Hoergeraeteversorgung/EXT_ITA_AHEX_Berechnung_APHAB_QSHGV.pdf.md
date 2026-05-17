@@ -2,22 +2,22 @@
 
 | Definitionen | |
 |---|---|
-| EC | Durchschnittlicher APHAB-Score in der EC-Skala (Hören in ruhiger Umgebung) |
-| BN | Durchschnittlicher APHAB-Score in der BN-Skala (Hören mit Hintergrundgeräuschen) |
-| RV | Durchschnittlicher APHAB-Score in der BN-Skala (Hören in hallender Umgebung) |
-| AV | Durchschnittlicher APHAB-Score in der BN-Skala (Hören von lauten Geräuschen) |
+| EC | Durchschnittlicher APHAB-Score in der EC-Skala  (Hören in ruhiger Umgebung) |
+| BN | Durchschnittlicher APHAB-Score in der BN-Skala  (Hören mit Hintergrundgeräuschen) |
+| RV | Durchschnittlicher APHAB-Score in der BN-Skala  (Hören in hallender Umgebung) |
+| AV | Durchschnittlicher APHAB-Score in der BN-Skala  (Hören von lauten Geräuschen) |
 |  | |
 | Der Index „x“ kann die folgenden Benennungen haben: | |
 | x=u (unaided) | WERT der entsprechenden APHAB-Skala |
 | x=a (aided) | WERT der entsprechenden APHAB-Skala |
-| x=b (benefit) | [WERT(Skala "unaided")]MINUS [WERT ("Skala "aided")] dies entspricht den durchschnittlichen Nutzen der einzelnen Skalen |
+| x=b (benefit) | [WERT(Skala "unaided")]MINUS [WERT ("Skala "aided")]  dies entspricht den durchschnittlichen Nutzen der einzelnen Skalen |
 |  | |
 | Invertierung | Die APHAB-Antwortwerte zu den Fragen 1, 9, 11, 16, 19 und 21 müssen vor |
 |  | |
-| Formeln zur Berechnung der Gesamtbewertung und Verbesserung (ohne AV-Skala, das Hören von lauten Geräuschen wird durch Hörgeräte nicht angenehmer) | |
-| Gesamtbewertung | = (Gesamtbewertung ohne Hörgerät) MINUS (Gesamtbewertung mit      Hörgerät) = {[Summe (EC , BN , RV )] GETEILT 3} MINUS {[Summe (EC , BN , RV )]      GETEILT 3}   Es wird die Differenz der jeweiligen Durchschnittswerte für die drei Skalen gebildet. |
+| Formeln zur Berechnung der Gesamtbewertung und Verbesserung  (ohne AV-Skala, das Hören von lauten Geräuschen wird durch Hörgeräte nicht angenehmer) | |
+| Gesamtbewertung | = (Gesamtbewertung ohne Hörgerät) MINUS (Gesamtbewertung mit      Hörgerät)  = {[Summe (EC , BN , RV )] GETEILT 3} MINUS {[Summe (EC , BN , RV )]       GETEILT 3}     Es wird die Differenz der jeweiligen Durchschnittswerte für die drei Skalen gebildet. |
 |  | |
-| Verbesserung der | = Gesamtbewertung {[SUMME (EC , BN , RV )] GETEILT      [SUMME Gesamtbewertung ohne Hörgerät (EC , BN , RV )]} x 100   Die Gesamtbewertung des Nutzens wird ins Verhältnis zur Gesamtbewertung ohne |
+| Verbesserung der | = Gesamtbewertung {[SUMME (EC , BN , RV )] GETEILT       [SUMME Gesamtbewertung ohne Hörgerät (EC , BN , RV )]} x 100     Die Gesamtbewertung des Nutzens wird ins Verhältnis zur Gesamtbewertung ohne |
 
 **Literatur:**
 

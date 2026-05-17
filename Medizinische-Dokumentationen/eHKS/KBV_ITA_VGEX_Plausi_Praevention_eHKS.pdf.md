@@ -1,4 +1,4 @@
-|  | IT in der Arztpraxis Plausibilitätenkatalog Prävent [KBV_ITA_VGEX_Plausi_Praevention_eHKS] |
+|  | IT in der Arztpraxis  Plausibilitätenkatalog Prävent [KBV_ITA_VGEX_Plausi_Praevention_eHKS] |
 |---|---|
 |  | Dezernat Digitalisierung und IT |
 |  |  |
@@ -75,12 +75,12 @@ Wenn ein Wert zu einer Warnung führt, soll der Anwender auf diesen Umstand hing
 | 1.1.1 | Lebenslange Arztnummer | Nummerisch 9-stellig | Pflichtfeld (voraussichtlich geltend ab 01.07.2008) |
 | 1.1.2 | Betriebsstättennummer | Nummerisch 9-stellig | Pflichtfeld (voraussichtlich geltend ab 01.07.2008) |
 | 1.2 | Personenstammdaten | | |
-| 1.2.1 | Geburtsdatum der/des Versi- Alternativ zum Geburtsdatum | TT.MM.JJJJ | Pflichtfeld Geburtsdatum (1.2.1) muss kleiner gleich dem Un- |
-| 1.2.2 | Geschlecht der/des Versicher- | Weiblich/Männlich/Unbestimmt/Divers | Pflichtfeld Es ist genau eine Angabe erforderlich. |
-| 1.2.3 | Name des Kostenträgers |  | Pflichtfeld Der Name des Kostenträgers muss der Kostenträ- |
-| 1.2.4 | Institutionskennzeichen des | Nummerisch 7-stellig | Pflichtfeld Stammdateiprüfung |
+| 1.2.1 | Geburtsdatum der/des Versi- Alternativ zum Geburtsdatum | TT.MM.JJJJ | Pflichtfeld  Geburtsdatum (1.2.1) muss kleiner gleich dem Un- |
+| 1.2.2 | Geschlecht der/des Versicher- | Weiblich/Männlich/Unbestimmt/Divers | Pflichtfeld  Es ist genau eine Angabe erforderlich. |
+| 1.2.3 | Name des Kostenträgers |  | Pflichtfeld  Der Name des Kostenträgers muss der Kostenträ- |
+| 1.2.4 | Institutionskennzeichen des | Nummerisch 7-stellig | Pflichtfeld  Stammdateiprüfung |
 | 1.3 | Untersuchungsdatum | | |
-|  | Untersuchungsdatum | TT.MM.JJJJ | Pflichtfeld  Das Untersuchungsdatum (1.3) muss kleiner gleich |
+|  | Untersuchungsdatum | TT.MM.JJJJ | Pflichtfeld   Das Untersuchungsdatum (1.3) muss kleiner gleich |
 | 1.4 | Art der Präventionsmaßnahme, für die dieser allgemeine Datensatz konzipiert wurde | | |
 | 1.4.1 | Hautkrebs-Screening |  | Ergibt die Differenz aus der Datumsangabe in Feld |
 | 3 Plausibilitätsprüfungen | | | |

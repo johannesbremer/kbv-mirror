@@ -97,11 +97,9 @@ AM 18. SEPTEMBER 2025
 
 ## - Terminabbildung
 
-## - Update Terminologie - Konkretisierungen
+## - Update Terminologie
 
-| ↗ | **KBV.BASIS** |  |
-|---|---|---|
-|  | SEITE | 6 |
+## - Konkretisierungen - **KBV.BASIS**
 
 
 ---
@@ -252,6 +250,8 @@ Umsetzung Mitte März 2026 -  01.10.2026
 
 ---
 
+## Überblick Europa EHDS
+
 ## - WP 6 Services for the Electronic Health Record (EHR)
 
 ## - WP 6.1 Patient Summary: Implementationguideson EEHRxF, functional and technical
@@ -262,8 +262,12 @@ Umsetzung Mitte März 2026 -  01.10.2026
 
 ## - functional and technical requirements and specifications for EHR systems - Kommentierungabgeschlossen
 
+- **ÜBERBLICK EUROPA EHDS**
+
 
 ---
+
+## Überblick Europa EHDS
 
 ## - WP 7 Services for the ElectronicHealth Record (EHR)
 
@@ -279,8 +283,12 @@ Umsetzung Mitte März 2026 -  01.10.2026
 
 ## - requirements and specifications for EHR systems - Kommentierungbeendet
 
+- **ÜBERBLICK EUROPA EHDS**
+
 
 ---
+
+## Überblick Europa EHDS
 
 ## - WP 8 Certification and labelling network
 
@@ -290,27 +298,31 @@ Umsetzung Mitte März 2026 -  01.10.2026
 
 ## - WP 8.3 EHDS Guidelines for manufacturers of wellness applications in Europe - Kommentierungbeendet
 
-| ↗ | **ÜBERBLICK EUROPA** | **EHDS** |  |
+- **ÜBERBLICK EUROPA EHDS**
+
+
+---
+
+|  |  |  | ↗ **ÜBERBLICK EUROPA EHDS** |
 |---|---|---|---|
-|  |  |  | SEITE 17 |
+|  | **Überblick** | **Europa** | **EHDS** |
+|  |  | ›WP9Cross-bordertelemedicineservices | |
+|  |  | ›WP9.1Requirementsandusecasesonthe | availability of health data incross-border |
+|  |  | telemedicine services |  |
+|  | ▪ | Kommentierungabgeschlossen |  |
+|  |  |  | ›WP9.2-Technicalspecificationsontheavailability of health data incross-border telemedicine |
+|  | services |  |  |
+|  | ▪ | Kommentierungabgeschlossen |  |
+|  |  |  | ›WP9.3RequirementsforLarge-ScaleUptake of Telemedicine Service |
+|  | ▪ | Kommentierungabgeschlossen |  |
+|  | **INTEROPERABILITÄT** |  | SEITE 18 |
+| 31. | ANBIETERMEETING | DER KBV AM 18. SEPTEMBER | 2025 |
 
-
----
-
-## - WP 9 Cross-border telemedicine services
-
-## - WP 9.1 Requirements and use cases on the availability of health data incross-border
-
-## - telemedicine services - Kommentierungabgeschlossen
-
-## - WP 9.2-Technical specifications on the availability of health data incross-border telemedicine
-
-## - services - Kommentierungabgeschlossen
-
-## - WP 9.3 Requirements for Large-Scale Uptake of Telemedicine Service - Kommentierungabgeschlossen
-
+Überblick Europa EHDS WP 9 Cross-border telemedicine services WP 9.1 Requirements and use cases on the availability of health data WP 9.2-Technical specifications on the availability of health data WP 9.3 Requirements for Large -Scale Uptake of Telemedicine Service
 
 ---
+
+## Überblick Europa EHDS
 
 ## WP 5.1
 
@@ -330,8 +342,12 @@ Umsetzung Mitte März 2026 -  01.10.2026
 
 ## - erforderlichen Instrumente.
 
+- **ÜBERBLICK EUROPA EHDS**
+
 
 ---
+
+## Überblick Europa EHDS
 
 ## WP 5.1
 
@@ -351,8 +367,12 @@ Umsetzung Mitte März 2026 -  01.10.2026
 
 ## - solche Korrektur darf nur von einer ordnungsgemäß autorisierten Person vorgenommen  werden und muss protokolliert werden.
 
+- **ÜBERBLICK EUROPA EHDS**
+
 
 ---
+
+## Überblick Europa EHDS
 
 ## WP 5.1 - Allgemeine Anforderungen - Beispiele für verpflichtende Anforderungen übersetzt
 
@@ -374,8 +394,12 @@ Umsetzung Mitte März 2026 -  01.10.2026
 
 ## - noch ihre Leistungsfähigkeit einbüßen.
 
+- **ÜBERBLICK EUROPA EHDS**
+
 
 ---
+
+## Überblick Europa EHDS
 
 ## WP 5.1
 
@@ -393,8 +417,12 @@ Umsetzung Mitte März 2026 -  01.10.2026
 
 ## - unterstützt.
 
+- **ÜBERBLICK EUROPA EHDS**
+
 
 ---
+
+## Überblick Europa EHDS
 
 ## WP 5.1 - Interoperabilitätsanforderungen - Beispiele für verpflichtende Anforderungen übersetzt
 
@@ -408,10 +436,12 @@ Umsetzung Mitte März 2026 -  01.10.2026
 
 - Ermöglicht natürlichen Personen, Informationen in ihre elektronische Gesundheitsakte  einzufügen. Die eingefügten Informationen müssen von den elektronischen
 
-## - Gesundheitsdaten getrennt werden, die von Angehörigen der Gesundheitsberufe erstellt und  eingefügt wurden (EHDS, Artikel 5)
+## - Gesundheitsdaten getrennt werden, die von Angehörigen der Gesundheitsberufe erstellt und  eingefügt wurden (EHDS, Artikel 5) - **ÜBERBLICK EUROPA EHDS**
 
 
 ---
+
+## Überblick Europa EHDS
 
 ## WP 5.1
 
@@ -427,8 +457,12 @@ Umsetzung Mitte März 2026 -  01.10.2026
 
 ## - (EU 910/2014, aktualisiert im Jahr 2024) für die Authentifizierung von Angehörigen der  Gesundheitsberufe anerkannt sind (siehe EHDS Art. 12).
 
+- **ÜBERBLICK EUROPA EHDS**
+
 
 ---
+
+## Überblick Europa EHDS
 
 ## WP 5.1 - Sicherheits- und Protokollierungsanforderungen- Beispiele für verpflichtende
 
@@ -454,19 +488,27 @@ Umsetzung Mitte März 2026 -  01.10.2026
 
 ## - als solches gekennzeichnet werden.
 
-
----
-
-## WP 5.1 - Sicherheits- und Protokollierungsanforderungen- Beispiele für verpflichtende
-
-## Anforderungen(Übersetzt)
-
-## - Das EHR-System muss potenziell unterschiedliche Gesetze oder Vorschriften in mehreren  Mitgliedstaaten berücksichtigen – insbesondere für primäre Kategorien personenbezogener
-
-## - elektronischer Gesundheitsdaten.
+- **ÜBERBLICK EUROPA EHDS**
 
 
 ---
+
+|  |  |  |  | ↗ **ÜBERBLICK EUROPA EHDS** |
+|---|---|---|---|---|
+|  | **Überblick** | | **Europa** | **EHDS** |
+| WP | 5.1 - | **Sicherheits-** | | **und Protokollierungsanforderungen-** Beispiele für verpflichtende |
+|  |  | Anforderungen(Übersetzt) | |  |
+|  |  |  |  | ›DasEHR-SystemmusspotenziellunterschiedlicheGesetzeoder Vorschriften in mehreren |
+|  |  | Mitgliedstaaten |  | berücksichtigen – insbesondere für primäre Kategorien personenbezogener |
+|  |  | elektronischer |  | Gesundheitsdaten. |
+|  | **INTEROPERABILITÄT** |  |  | SEITE 26 |
+| 31. | ANBIETERMEETING | DER KBV | AM 18. | SEPTEMBER 2025 |
+
+Überblick Europa EHDS WP 5.1 - Sicherheits- und Protokollierungsanforderungen- Das EHR-System muss potenziell unterschiedliche Gesetze oder Vorschriften in mehreren Mitgliedstaaten berücksichtigen elektronischer Gesundheitsdaten.
+
+---
+
+## Überblick Europa EHDS
 
 ## WP 5.2
 
@@ -484,10 +526,12 @@ Umsetzung Mitte März 2026 -  01.10.2026
 
 - Wiederverwendbarkeit
 
-- Überwachung der Einhaltung von Vorschriften
+- Überwachung der Einhaltung von Vorschriften - **ÜBERBLICK EUROPA EHDS**
 
 
 ---
+
+## Überblick Europa EHDS
 
 ## WP 5.2
 
@@ -505,10 +549,12 @@ Umsetzung Mitte März 2026 -  01.10.2026
 
 - Wiederverwendbarkeit
 
-- Überwachung der Einhaltung von Vorschriften
+- Überwachung der Einhaltung von Vorschriften - **ÜBERBLICK EUROPA EHDS**
 
 
 ---
+
+## Überblick Europa EHDS
 
 ## WP 5.2 - Technische Anforderungen für EEHRxF-Metadaten
 
@@ -530,8 +576,12 @@ Umsetzung Mitte März 2026 -  01.10.2026
 
 ## - Fallmanagements.
 
+- **ÜBERBLICK EUROPA EHDS**
+
 
 ---
+
+## Überblick Europa EHDS
 
 ## WP 5.2 - Technische Anforderungen für EEHRxF-Metadaten
 
@@ -551,65 +601,60 @@ Umsetzung Mitte März 2026 -  01.10.2026
 
 ## - Sicherheits- und Vertraulichkeitsstufen
 
-- Dokumentenklassifizierungsschemata (z. B. FHIR DocumentReference
+- Dokumentenklassifizierungsschemata (z. B. FHIR DocumentReference - **ÜBERBLICK EUROPA EHDS**
 
-| ↗ | **ÜBERBLICK EUROPA** | **EHDS** |  |
+
+---
+
+|  |  |  | ↗ **ÜBERBLICK EUROPA EHDS** |
 |---|---|---|---|
-|  |  |  | SEITE 30 |
+|  | **Überblick** | **Europa EHDS** |  |
+| WP 5.2 | - | **Technische Anforderungen** | **für EEHRxF-Metadaten** |
+| › | **Strukturelle** | **Metadaten** |  |
+|  |  | ›DokumentenschemaoderTemplateID |  |
+|  |  | ›AbschnittsüberschriftenundHierarchien | |
+|  |  | ›-FHIRRessourcen | |
+|  |  | ›VerknüpfungmitTerminologienundCodesystemen | (z. B. SNOMED CT, LOINC) |
+| **INTEROPERABILITÄT** |  |  | SEITE 31 |
+| 31. | ANBIETERMEETING | DER KBV AM 18. SEPTEMBER 2025 |  |
 
-
----
-
-## WP 5.2 - Technische Anforderungen für EEHRxF-Metadaten
-
-## - Strukturelle Metadaten
-
-## - Dokumentenschema oder Template ID
-
-## - Abschnittsüberschriften und Hierarchien
-
-## - FHIR Ressourcen
-
-- Verknüpfung mit Terminologien und Codesystemen (z. B. SNOMED CT, LOINC)
-
+Überblick Europa EHDS WP 5.2 - Technische Anforderungen für Strukturelle Metadaten Dokumentenschema oder Template ID Abschnittsüberschriften und Hierarchien FHIR Ressourcen Verknüpfung mit Terminologien und Codesystemen (z. B. SNOMED CT, LOINC)
 
 ---
 
-## WP 5.2 - Technische Anforderungen für EEHRxF-Metadaten
+|  |  | ↗ **ÜBERBLICK EUROPA EHDS** |
+|---|---|---|
+| **Überblick** | **Europa EHDS** |  |
+| WP 5.2 | - **Technische Anforderungen** | **für EEHRxF-Metadaten** |
+| › | **Administrative Metadaten** |  |
+|  | ›Identifikatoren(z.B.UUID,OID) |  |
+|  | ›InformationenzuVerwahrungundEigentumsverhältnissen | |
+|  | ›InformationenzuZugriffskontrolleundAutorisierung |  |
+|  | ›AuditTrailsundHerkunftsangaben(z.B. | Quellsystem, Zeitstempel, Rolle des Autors) |
+|  | ›RechtlicheundregulatorischeKennzeichnungen | (z. B. Einwilligungsstatus, Vorschriften zur |
+|  | Datenaufbewahrung) |  |
+| **INTEROPERABILITÄT** |  | SEITE 32 |
+| 31. | ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025 |  |
 
-## - Administrative Metadaten
-
-- Identifikatoren (z. B. UUID, OID)
-
-## - Informationen zu Verwahrung und Eigentumsverhältnissen
-
-## - Informationen zu Zugriffskontrolle und Autorisierung
-
-- Audit Trails und Herkunftsangaben (z. B. Quellsystem, Zeitstempel, Rolle des Autors)
-
-- Rechtliche und regulatorische Kennzeichnungen (z. B. Einwilligungsstatus, Vorschriften zur
-
-## - Datenaufbewahrung)
-
+Überblick Europa EHDS WP 5.2 - Technische Anforderungen für Identifikatoren (z. B. UUID, OID) Informationen zu Verwahrung und Eigentumsverhältnissen Informationen zu Zugriffskontrolle und Autorisierung Audit Trails und Herkunftsangaben (z. B. Quellsystem, Zeitstempel, Rolle des Autors) Rechtliche und regulatorische Kennzeichnungen (z. B. Einwilligungsstatus, Vorschriften zur
 
 ---
 
-## WP 5.2 - Technische Anforderungen für EEHRxF-Metadaten
+|  |  |  | ↗ **ÜBERBLICK EUROPA EHDS** |
+|---|---|---|---|
+| **Überblick** | | **Europa EHDS** |  |
+| WP 5.2 | - | **Technische Anforderungen** | **für EEHRxF-Metadaten** |
+| › | **Metadaten** | **zu klinischen** | **Inhalten** |
+|  |  | ›Patientenidentifikatoren(einschließlich | pseudonymisierter oder grenzüberschreitender IDs) |
+|  |  | ›ArztkontaktundEpisodenidentifikatoren |  |
+|  |  | ›MitgliederundRollendesBehandlungsteams | |
+|  |  | ›ZeitlicheMarkierungen(z.B.Beginn,Aufnahme, | Entlassungsdaten) |
+|  |  | ›KlinischeKonzepteundDiagnosen |  |
+|  |  |  | ›KontextuelleBeziehungen(z.B.Eltern-Kind-Dokumentenbeziehungen) |
+| **INTEROPERABILITÄT** |  |  | SEITE 33 |
+| 31. | ANBIETERMEETING DER | KBV AM 18. SEPTEMBER 2025 |  |
 
-## - Metadaten zu klinischen Inhalten
-
-## - Patientenidentifikatoren (einschließlich pseudonymisierter oder grenzüberschreitender IDs)
-
-## - Arztkontakt und Episodenidentifikatoren
-
-## - Mitglieder und Rollen des Behandlungsteams
-
-- Zeitliche Markierungen (z. B. Beginn, Aufnahme, Entlassungsdaten)
-
-## - Klinische Konzepte und Diagnosen
-
-- Kontextuelle Beziehungen (z. B. Eltern-Kind-Dokumentenbeziehungen)
-
+Überblick Europa EHDS WP 5.2 - Technische Anforderungen für Metadaten zu klinischen Inhalten  (einschließlich pseudonymisierter oder grenzüberschreitender IDs) Arztkontakt und Mitglieder und Rollen des Zeitliche Markierungen (z. B. Beginn, Aufnahme, Entlassungsdaten) Klinische Konzepte und Diagnosen Kontextuelle Beziehungen (z. B. Eltern
 
 ---
 

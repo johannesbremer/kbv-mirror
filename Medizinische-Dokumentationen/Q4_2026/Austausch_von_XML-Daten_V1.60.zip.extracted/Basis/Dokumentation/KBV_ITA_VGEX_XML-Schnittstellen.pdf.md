@@ -13,28 +13,28 @@
 
 © Kassenärztliche Bundesvereinigung, Berlin 2025
 
-vertragsärztlichen Versorgung KBV_ITA_VGEX_XML -Schnittstellen Herbert-Lewin-Platz 2 1.60 Datum: 1.3.02.2026 Kennzeichnung: Öffentlich  Status: In Kraft
+vertragsärztlichen Versorgung KBV_ITA_VGEX_XML -Schnittstellen Herbert-Lewin-Platz 2 1.60 Datum: 13.02.2026 Kennzeichnung: Öffentlich  Status: In Kraft
 
 ---
 
 | Version Datum |  | Autor Änderung |  | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.60 | 1.3.02.2026 | KBV | Neue Schnittstelle: Adipositas Neue Schnittstelle: Adipositas  Anpassung der Archivendungen |  | 12, 16, 27  16 |
+| 1.60 | 13.02.2026 | KBV | Neue Schnittstelle: Adipositas  Neue Schnittstelle: Adipositas    Anpassung der Archivendungen |  | 12, 16, 27    16 |
 | 1.59 | 15.08.2025 | KBV | Anpassung des Elementes |  | 19, 24 |
 | 1.58 | 14.11.2024 | KBV | Anpassung der Archivendung Herzin- |  | 14 |
 | 1.57 | 14.08.2024 | KBV | Anpassung der Archivendung Brust- |  | 14 |
 | 1.56 | 15.11.2023 | KBV | Anpassung der Archivendung COPD |  | 14 |
 | 1.55 | 05.04.2023 | KBV | Anpassung der Archivendungen der |  | 14 |
-| 1.54 | 12.08.2022 | KBV | Neue Schnittstelle: r Anpassung der Archivendungen |  | 12, 16, 27  16 |
-| 1.53 | 15.01.2021 | KBV | Neue Schnittstelle: Anpassung der Archivendungen |  | 12, 16, 27 16 |
+| 1.54 | 12.08.2022 | KBV | Neue Schnittstelle: r Anpassung der Archivendungen |  | 12, 16, 27    16 |
+| 1.53 | 15.01.2021 | KBV | Neue Schnittstelle:  Anpassung der Archivendungen |  | 12, 16, 27  16 |
 | 1.52 | 15.01.2021 | KBV | Anpassung der Archivendung De- | Aufgrund einer Fehlerkorrek- | 16 |
-| 1.51 | 09.11.2020 | KBV | Neue Schnittstelle Anpassung der Archivendungen Streichung von FEK, BERST und DIA |  | 12, 16, 27  16 12, 14, 16, 27 |
-| 1.50 | 30.04.2019 | KBV | Neue Schnittstelle: Herzinsuffizienz Erweiterung des Formats der Version |  | 11, 14, 27 25 |
-| 1.49 | 21.01.2019 | KBV | Anpassung der Archivdateinamen Aktualisierung des Transportbegleit- |  | 14  31 |
+| 1.51 | 09.11.2020 | KBV | Neue Schnittstelle Anpassung der Archivendungen  Streichung von FEK, BERST und DIA |  | 12, 16, 27    16  12, 14, 16,  27 |
+| 1.50 | 30.04.2019 | KBV | Neue Schnittstelle: Herzinsuffizienz  Erweiterung des Formats der Version |  | 11, 14, 27  25 |
+| 1.49 | 21.01.2019 | KBV | Anpassung der Archivdateinamen Aktualisierung des Transportbegleit- |  | 14    31 |
 | 1.48 | 28.06.2018 | KBV | Aufnahme des Archivdateinamens mit Aufgrund einer Fehlerkorrek- | tur des Brustkrebsschemas | 14 |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
-|  |  |  |  |  | 1.60 1.3.02.2026 KBV |
+|  |  |  |  |  | 1.60  13.02.2026  KBV |
 
 -Schnittstellen * Version 1.60
 
@@ -44,22 +44,24 @@ DOKUMENTENHISTORIE Die Änderungen vom 13. Februar 2026 treten zum 1. Oktober 20
 
 |  |  |  |  |  |  |
 |---|---|---|---|---|---|
-| 14 |  |  |  |  | INHALTSVERZEICHNIS_____________________________________________________  ABBILDUNGSVERZEICHNIS ________________________________________________ |
+| 14 |  |  |  |  | INHALTSVERZEICHNIS_____________________________________________________    ABBILDUNGSVERZEICHNIS ________________________________________________ |
 |  | TABELLENVERZEICHNIS |  |  | XML-CODE VERZEICHNIS __________________________________________________ | 1 |
 |  | 2 |  |  |  |  |
 | 2.2 |  |  |  | 2.3 |  |
 |  |  |  | 3.1 |  | 3.2 |
 |  |  | 3.3 |  |  | 3.4 |
 |  | 3.4.1 |  |  | 3.4.2 | 3.4.3 |
-| 4 |  |  | 4.1 |  | 4.2  4.2.1 |
+| 4 |  |  | 4.1 |  | 4.2   4.2.1 |
 | INHALTSVERZEICHNIS |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
-| 1.47 | 25.05.2018 | KBV | der Endung *422 für die Übergangs- Streichung der Diskette als Datenträ- | Brustkrebs | 14   30, 30, 31 |
+| 1.47 | 25.05.2018 | KBV | der Endung *422 für die Übergangs- Streichung der Diskette als Datenträ- | Brustkrebs | 14     30, 30, 31 |
 | 1.46 | 08.01.2018 | KBV | Anpassung der Archivdateinamen |  | 14 |
 | 1.45 | 04.12.2017 | KBV | Anpassung der Archivdateinamens | Streichung des Modules | 14 |
+
+-Schnittstellen * Version 1.60
 
 Aufnahme des Archivdateinamens mit Aktualisierung des DMP regelung des DMPs Brustkrebs ger die Anpassung des Personalienfeldes für Streichung des Modules Herzin- Herzinsuffizienz suffizienz DOKUMENTENHISTORIE ___________________________________________________ EINLEITUNG __________________________________________________________ SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE _____________________ 9 Kardinalität ......................................................................................................................................9 Strukturelemente ............................................................................................................................9 Sonstige Symbole ..........................................................................................................................9 DATEIEN DER DATENLIEFERUNG 11 Aufbau der Archivdatei ............................................................................................................... 11 Komprimierungsalgorithmus ..................................................................................................... 12 eVersandliste ............................................................................................................................... 14 Dateinamen .................................................................................................................................. 14 Die einzelne XML-Datei ....................................................................................................... 14 Die Archivdatei ..................................................................................................................... 14 Die Begleitdatei .................................................................................................................... 17 3.5 Zeichensatz .................................................................................................................................. 18 AUFBAU DER BEGLEITDATEI 19 Datum der Erstellung (erstellungsdatum -datei) ....................................................................... 20 Datei-Empfänger (empfaenger) .................................................................................................. 20 Bezirksstelle (ukv) ................................................................................................................ 21
 
@@ -117,6 +119,8 @@ Aufnahme des Archivdateinamens mit Aktualisierung des DMP regelung des DMPs Brus
 
 **6** **REFERENZIERTE DOKUMENTE _________________________________________ 32**
 
+-Schnittstellen * Version 1.60
+
 
 ---
 
@@ -144,7 +148,7 @@ Abbildung 10 – Grundstruktur zeitraum ........................................
 
 Abbildung 11 - Beschriftung CD ................................................................ ............................ 30
 
-Abbildung 12 – Transportbegleitzettel ................................ ................................................... 31
+Abbildung 12 – Transportbegleitzettel ................................ ................................................... 31 -Schnittstellen * Version 1.60
 
 
 ---
@@ -163,7 +167,7 @@ Tabelle 5 – Kürzel der Dokumentationsarten
 
 Tabelle 6 – Sonderzeichen in XML ................................................................
 
-Tabelle 7 - Zulässige relative Pfade für Element Verzeichnispfad ......................................... 27
+Tabelle 7 - Zulässige relative Pfade für Element Verzeichnispfad ......................................... 27 -Schnittstellen * Version 1.60
 
 ................................................................ ........... 9
 
@@ -232,6 +236,8 @@ XML-Code 23 – bis.............................................................
 
 28
 
+-Schnittstellen * Version 1.60
+
 
 ---
 
@@ -252,6 +258,8 @@ Grundsätzlich sind alle Nutzdaten (ZIP-Archive), die von einer Arztpraxis über
 verschlüsselt.
 
 Die hier beschriebenen Sachverhalte sind so angelegt, dass sie gleichermaßen für den Da- tenaustausch der Arztpraxis mit der Kassenärztlichen Vereinigung aber auch mit der Daten- stelle genutzt werden können.
+
+-Schnittstellen * Version 1.60
 
 
 ---
@@ -278,7 +286,8 @@ Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, dere
 |  | Das Strukturelement Choice zeigt an, dass zwischen verschiedenen Kindelementen |
 |  | Das Strukturelement Sequence beschreibt, dass verschiedene Kindelemente in fest- |
 
-Optionales Element: Element wird als Rechteck mit gestrichelter Musselement:  Rechteck mit durchgezogner Linie. Das Element was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindes- tens einmal vorkommen muss aber auch beliebig oft auftreten kann. genau eines ausgewählt werden kann.  gelegter Reihenfolge aufgeführt werden müssen. Es existieren verschiedene Kardinalitäten: Tabelle 1 – Beschreibung der Kardinalitäten 2.2 Strukturelemente Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mitei- nander logisch verknüpft. In diesem Dokument werden zwei Strukturelement -Arten verwendet: Choice und Sequence. 2.3 Sonstige Symbole Es werden außerdem folgende Diagramm-Symbole verwendet: Tabelle 2 – Beschreibung der Strukturelement -Symbole am Rechteckrand symbolisiert. Element an anderer Stelle im Schema definiert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein.
+Optionales Element: Element wird als Rechteck mit gestrichelter Musselement:  Rechteck mit durchgezogner Linie. Das Element was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindes- tens einmal vorkommen muss aber auch beliebig oft auftreten kann. genau eines ausgewählt werden kann.  gelegter Reihenfolge aufgeführt werden müssen. Es existieren verschiedene Kardinalitäten: Tabelle 1 – Beschreibung der Kardinalitäten 2.2 Strukturelemente Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mitei- nander logisch verknüpft. In diesem Dokument werden zwei Strukturelement -Arten verwendet: Choice und Sequence. 2.3 Sonstige Symbole Es werden außerdem folgende Diagramm-Symbole verwendet: Tabelle 2 – Beschreibung der Strukturelement -Symbole am Rechteckrand symbolisiert. Element an anderer Stelle im Schema definiert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein. -Schnittstellen * Version 1.60
+
 
 ---
 
@@ -290,6 +299,8 @@ Optionales Element: Element wird als Rechteck mit gestrichelter Musselement:  Re
 |  | Gruppenelement: Rechteck mit vier abgeflachten Ecken stellt ein Grup- |
 
 **Tabelle 3 – Beschreibung sonstiger Symbole**
+
+-Schnittstellen * Version 1.60
 
 einen Datentyp.  penelement dar, welches verschiedene Elemente zusammenfasst.
 
@@ -317,7 +328,7 @@ Archivdatei
 |---|---|---|
 | Diabetes_mellitus_Typ_1 |  | Koloskopie |
 | Dokumentation |  | Dokumentation |
-| Diabetes Typ 1 |  | Koloskopie |
+| KoloskopieDiabetesTyp1 |  |  |
 | Dokumentationen |  | Dokumentationen |
 
 ### Archivdatei
@@ -334,12 +345,12 @@ Dialyse
 
 Dokumentationen
 
-Öffentliche Schlüssel
+Öffentliche Schlüssel -Schnittstellen * Version 1.60
 
-| Diabetes_mellitus_Typ_1 |  | Koloskopie |
+Diabetes Typ 1       | Diabetes_mellitus_Typ_1 |  | Koloskopie |
 |---|---|---|
 | Dokumentation |  | Dokumentation |
-| Diabetes Typ 1 |  | Koloskopie |
+| KoloskopieDiabetesTyp1 |  |  |
 | Dokumentationen |  | Dokumentationen |
 
 
@@ -376,7 +387,7 @@ belle 4 zu entnehmen.
 
 Für das Erstellen der Archivdateien ist der ZIP-Algorithmus zu verwenden. Dieser Komprimie- rungsalgorithmus ist in verschiedensten freien und kommerziellen Softwareprodukten enthal- ten. Da in diesem Bereich sehr viele Produkte existieren, ist es nicht möglich eine komplette  Übersicht über alle verfügbaren Produkte anzubieten. Allerdings findet man im Internet sehr  schnell mit Hilfe gängiger Suchmaschinen eine Vielzahl von möglichen Produkten.
 
-Um eine Auswahl der zu verwendenden Software zu erleichtern, empfehlen wir die Verwen- dung von „Info-ZIP“. Dieses Programm arbeitet kommandozeilenbasiert und kann somit prob- lemlos in ein bestehendes Praxisverwaltungssystem eingebunden werden. Es ist für sämtliche  Betriebssysteme erhältlich und entsprechende Manuals, Readme’s inkl. FAQ’s sind im Liefer- umfang enthalten. Nähere Informationen zu dieser Software können über folgende Webseite  abgerufen werden: [http://www.info](http://www.info)
+Um eine Auswahl der zu verwendenden Software zu erleichtern, empfehlen wir die Verwen- dung von „Info-ZIP“. Dieses Programm arbeitet kommandozeilenbasiert und kann somit prob- lemlos in ein bestehendes Praxisverwaltungssystem eingebunden werden. Es ist für sämtliche  Betriebssysteme erhältlich und entsprechende Manuals, Readme’s inkl. FAQ’s sind im Liefer- umfang enthalten. Nähere Informationen zu dieser Software können über folgende Webseite  abgerufen werden: [http://www.info](http://www.info) -Schnittstellen * Version 1.60
 
 **Tabelle 4 - Zulässige relative Pfade**
 
@@ -407,7 +418,7 @@ Der allgemeine Aufbau des Befehls zip sieht demzufolge so aus:
 
 Eine Übersicht über die Konfigurationsmöglichkeiten und weiteren Befehlen erhalten Sie,  wenn Sie einfach den Befehl ***zip*** in die Kommandozeile eingeben. Sie bekommen dann fol-
 
-gende Ausgabe:
+gende Ausgabe: -Schnittstellen * Version 1.60
 
 
 ---
@@ -456,6 +467,8 @@ kunden) der Archivdatei.
 
 Zeitpunkt JJJJMMTT erstellt wurden und in einer Datenlieferung enthalten sind, unterschieden  werden können. Die laufende Nummer sollte pro Indikation gezählt werden.
 
+-Schnittstellen * Version 1.60
+
 
 ---
 
@@ -479,19 +492,19 @@ Beispiel:
 | DM1_505 | Diabetes mellitus Typ 1 (indikationsbezogenen Plausibilitäten) |
 | DM1_506 | Diabetes mellitus Typ 1 (Anpassung der übergreifenden Plausibilitäten) |
 | DM1_507 | Diabetes mellitus Typ 1 (indikationsbezogenen Plausibilitäten) |
-| DM1_508 | Diabetes mellitus Typ 1 (Anpassung der übergreifenden Plausibilitäten und indikationsbezogenen Plausibilitäten) |
+| DM1_508 | Diabetes mellitus Typ 1 (Anpassung der übergreifenden Plausibilitäten und  indikationsbezogenen Plausibilitäten) |
 | DM2 | Diabetes mellitus Typ 2 |
 | DM2_603 | Diabetes mellitus Typ 2 (Anpassung der übergreifenden Plausibilitäten) |
 | DM2_604 | Diabetes mellitus Typ 2 (Anpassung der übergreifenden Plausibilitäten) |
 | DM2_605 | Diabetes mellitus Typ 2 (indikationsbezogenen Plausibilitäten) |
 | DM2_606 | Diabetes mellitus Typ 2 (Anpassung der übergreifenden Plausibilitäten) |
 | DM2_607 | Diabetes mellitus Typ 2 (indikationsbezogenen Plausibilitäten) |
-| DM2_608 | Diabetes mellitus Typ 2 (Anpassung der übergreifenden Plausibilitäten und indikationsbezogenen Plausibilitäten) |
+| DM2_608 | Diabetes mellitus Typ 2 (Anpassung der übergreifenden Plausibilitäten und  indikationsbezogenen Plausibilitäten) |
 | KHK | Koronare Herzkrankheit |
 | KHK_414 | Koronare Herzkrankheit (Anpassung der übergreifenden Plausibilitäten) |
-| KHK_415 | Koronare Herzkrankheit (Anpassung der übergreifenden Plausibilitäten und indikationsbezogenen Plausibilitäten) |
+| KHK_415 | Koronare Herzkrankheit (Anpassung der übergreifenden Plausibilitäten und  indikationsbezogenen Plausibilitäten) |
 | KHK_416 | Koronare Herzkrankheit (Anpassung der übergreifenden Plausibilitäten) |
-| KHK_417 | Koronare Herzkrankheit (Anpassung der übergreifenden Plausibilitäten und indikationsbezogenen Plausibilitäten) |
+| KHK_417 | Koronare Herzkrankheit (Anpassung der übergreifenden Plausibilitäten und  indikationsbezogenen Plausibilitäten) |
 | BK | Brustkrebs |
 | BK_421 | Brustkrebs (wegen der Anpassung des Personalienfeldes) |
 | BK_423 | Brustkrebs (wegen der Aktualisierung des DMPs) |
@@ -533,6 +546,8 @@ Beispiel:
 | BK_423 | AB |
 |  |  |
 
+-Schnittstellen * Version 1.60
+
 
 ---
 
@@ -562,8 +577,8 @@ Beispiel:
 | QSHLT |  |
 |  |  |
 | QS Holmiumlaser-Therapie |  |
-| AB_444 | Asthma bronchiale (Anpassung der übergreifenden und indikationsbezogenen Plausibilitäten) |
-| AB_445 | Asthma bronchiale (Anpassung der übergreifenden und indikationsbezogenen Plausibilitäten) |
+| AB_444 | Asthma bronchiale (Anpassung der übergreifenden und indikationsbezogenen  Plausibilitäten) |
+| AB_445 | Asthma bronchiale (Anpassung der übergreifenden und indikationsbezogenen  Plausibilitäten) |
 | AB_446 | Asthma bronchiale (Anpassung der übergreifenden Plausibilitäten) |
 | AB_447 | Asthma bronchiale (Anpassung der übergreifenden Plausibilitäten) |
 | COPD | COPD |
@@ -598,6 +613,8 @@ Beispiel:
 | QSHLT | QS Holmiumlaser-Therapie |
 | QSKE | QS Kapselendoskopie |
 
+-Schnittstellen * Version 1.60
+
 **Tabelle 5 – Kürzel der Dokumentationsarten**
 
 
@@ -615,6 +632,8 @@ Begleitdateiname für das im Abschnitt 3.4.2 angegebene Beispiel:
 
 - 987654321_20030310100200_1_BK.zip.XKM mit der (N)BSNR „987654321“, die am  10.03.2003 erstellt wurde.
 
+-Schnittstellen * Version 1.60
+
 
 ---
 
@@ -631,6 +650,8 @@ Einige Sonderzeichen des Zeichensatzes führen zu Problemen bei der Verarbeitung
 | > | &gt; | beide Schreibweisen sind laut W3C- |
 | ’ | &apos; | |
 | “ | &quot; | dieses Zeichen “ ist laut W3C- |
+
+-Schnittstellen * Version 1.60
 
 **Tabelle 6 – Sonderzeichen in XML**
 
@@ -656,7 +677,7 @@ Die grundsätzliche Struktur einer Begleitdatei ist in Abbildung 3 dargestellt.
 
 Wenn alle Kindelemente vorkommen, sieht der Coderahmen für das Element *begleitdatei* wie
 
-folgt aus:
+folgt aus: -Schnittstellen * Version 1.60
 
 
 ---
@@ -739,6 +760,8 @@ Die Grundstruktur für dieses Element ist in Abbildung 4 dargestellt.
 
 **Abbildung 4 – Grundstruktur empfaenger**
 
+-Schnittstellen * Version 1.60
+
 
 ---
 
@@ -796,7 +819,7 @@ Das Element *arzt* enthält die Attribute *EX* und
 
 NBSNR des Tätigkeitsortes, an dem die Archivdatei erstellt wurde, verwiesen steht der feste Wert „BSNR“.
 
-Folgender Code sei hier als Beispiel angegeben:
+Folgender Code sei hier als Beispiel angegeben: -Schnittstellen * Version 1.60
 
 . Im *EX*-Attribut steht der konkrete 2-stellige
 
@@ -864,6 +887,8 @@ Das Element *komprimierungssoftware* enthält die Information zur verwendeten Ko
 rungssoftware und besteht aus den Kindelementen  *ware-hersteller* und gegebenenfalls *software-link*
 
 Die Grundstruktur für dieses Element ist in Abbildung 6 dargestellt.
+
+-Schnittstellen * Version 1.60
 
 *EX* und *RT*. Im EX-Attribut steht das konkrete
 
@@ -936,7 +961,7 @@ handelt sich dabei um einen String.
 
 Als Beispiel sei hier der folgende Code angegeben:
 
-### -hersteller)
+### -hersteller) -Schnittstellen * Version 1.60
 
 
 ---
@@ -999,6 +1024,8 @@ Wenn alle Kindelemente vorkommen, sieht der Coderahmen für dieses Element wie f
 
 **XML-Code 13 – verschluesselungssoftware**
 
+-Schnittstellen * Version 1.60
+
 
 ---
 
@@ -1046,7 +1073,7 @@ Die Grundstruktur für dieses Element ist in Abbildung 8 dargestellt.
 
 **Abbildung 8 – Grundstruktur archive**
 
-Der Coderahmen für dieses Element sieht wie folgt aus:
+Der Coderahmen für dieses Element sieht wie folgt aus: -Schnittstellen * Version 1.60
 
 
 ---
@@ -1113,7 +1140,7 @@ Das Element *pfad* enthält als Wert den relativen Pfad des Verzeichnisses. Es h
 
 dabei um einen String. Die hier festgelegten Vorgaben für die Strukturierung der Archivdatei  müssen verwendet werden. Die angegebenen Verzeichnispfade werden ebenfalls durch das  Schema vorgegeben.
 
-Als Beispiel sei hier der folgende Code angegeben:
+Als Beispiel sei hier der folgende Code angegeben: -Schnittstellen * Version 1.60
 
 
 ---
@@ -1160,6 +1187,8 @@ Der Coderahmen für dieses Element sieht wie folgt aus:
 
 **</bgl:zeitraum>**
 
+-Schnittstellen * Version 1.60
+
 **"/>**
 
 **XML-Code 20 – pfad**
@@ -1203,6 +1232,8 @@ Als Beispiel sei hier der folgende Code angegeben:
 
 **XML-Code 23 – bis**
 
+-Schnittstellen * Version 1.60
+
 
 ---
 
@@ -1227,6 +1258,8 @@ Es sind handelsübliche Recordable-CD-ROMs zu verwenden.
 Auf der CD-ROM dürfen keine Unterverzeichnisse eingerichtet werden. Alle auf dem Daten- träger befindlichen Dateien müssen sich im Wurzelverzeichnis befinden.
 
 Es dürfen sich mehrere Dateien auf einer CD-ROM befinden.
+
+-Schnittstellen * Version 1.60
 
 
 ---
@@ -1285,6 +1318,8 @@ Erstellt am 15.07.2019
 
 **Abbildung 11 - Beschriftung CD**
 
+-Schnittstellen * Version 1.60
+
 
 ---
 
@@ -1318,6 +1353,8 @@ Erstellt am 15.07.2019
 
 **Abbildung 12 – Transportbegleitzettel**
 
+-Schnittstellen * Version 1.60
+
 
 ---
 
@@ -1326,7 +1363,9 @@ Erstellt am 15.07.2019
 | Referenz | Dokument |
 |---|---|
 | [KBV_ITA_VGEX_Schnittstelle_SDDA ] | aktuell gültige Version Schnittstellenbeschreibung |
-| [1] | KBV-Schlüsseltabellen http://applications.kbv.de/keytabs/ita/schluesseltabell en.asp |
-| [Spec_KIM_eHKS] | KIM Spezifikation für eHKS der kv.digital  https://partnerportal.kv- telema- tik.de/spaces/KDK/pages/71095111/Dokumente+zu m+Download |
+| [1] | KBV-Schlüsseltabellen  http://applications.kbv.de/keytabs/ita/schluesseltabell en.asp |
+| [Spec_KIM_eHKS] | KIM Spezifikation für eHKS der kv.digital    https://partnerportal.kv- telema- tik.de/spaces/KDK/pages/71095111/Dokumente+zu m+Download |
+
+-Schnittstellen * Version 1.60
 
 S_KBV_BEZIRKSSTELLE,

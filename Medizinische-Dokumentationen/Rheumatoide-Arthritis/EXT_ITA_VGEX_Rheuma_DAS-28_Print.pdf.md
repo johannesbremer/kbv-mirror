@@ -36,13 +36,11 @@ beurteilt, sodass eine Anzahl von 28 zu beurteilenden Gelenken resultiert. Beurt
 
 14. Kniegelenk
 
-| **Anzahl** | **der geschwollenen Gelenke** |  |  |
-|---|---|---|---|
-| Die 14 | definierten Gelenke werden **sowohl** | **auf** | **der** |
-| beurteilt, | sodass eine Anzahl von 28 zu | beurteilenden |  |
-| der | folgenden 14 Gelenke **jeweils rechts-** | **und** | **linksseitig** |
+(2) **Anzahl der geschwollenen Gelenke**
 
-(2)
+Die 14 definierten Gelenke werden **sowohl auf der rechten als auch auf der linken Körperseite**
+
+beurteilt, sodass eine Anzahl von 28 zu beurteilenden Gelenken resultiert. Beurteilen Sie bitte für jedes  der folgenden 14 Gelenke **jeweils rechts- und linksseitig**
 
 **Gelenk (geschwollen) R**
 
@@ -70,7 +68,7 @@ beurteilt, sodass eine Anzahl von 28 zu beurteilenden Gelenken resultiert. Beurt
 
 , ob es **druckschmerzhaft** ist oder nicht:
 
-**geschwollen** ist oder nicht: 11. Fingermittelgelenk PIP 3
+, ob es **geschwollen** ist oder nicht: 11. Fingermittelgelenk PIP 3
 
 12. Fingermittelgelenk PIP 4
 
@@ -82,7 +80,7 @@ Ein von der RA betroffenes Gelenk kann entweder geschwollen und gleichzeitig nic
 
 oder gleichzeitig geschwollen und druckschmerzhaft
 
-Anzahl der geschwollenen Gelenke Die 14 definierten Gelenke werden sowohl auf der rechten als auch auf der linken Körperseite beurteilt, sodass eine Anzahl von 28 zu beurteilenden Gelenken resultiert. Beurteilen Sie bitte für jedes der folgenden 14 Gelenke jeweils rechts- und linksseitig , ob es 13. Fingermittelgelenk PIP 5 14. Kniegelenk  1
+13. Fingermittelgelenk PIP 5 14. Kniegelenk  1
 
 
 ---

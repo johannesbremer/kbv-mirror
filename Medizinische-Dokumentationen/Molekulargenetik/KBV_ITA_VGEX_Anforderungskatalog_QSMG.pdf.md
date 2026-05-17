@@ -9,7 +9,7 @@
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
-|  | 1.4.11.2025 |
+|  | 14.11.2025 |
 
 kulargenetik Digitalisierung und IT 10623 Berlin, Version  1.16 Datum: Kennzeichnung: Öffentlich  Status: In Kraft
 
@@ -22,16 +22,16 @@ Die Änderungen vom 14.11.2025 treten zum 01.01.2026 in Kraft.
 
 | Version Datum |  | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.16 | 14.11.2025 KBV |  | Streichung P1-265,  Überarbeitung P1-266   Umwandlung K2-264 in kon- | Abschaltung KV-Connect | 15 |
+| 1.16 | 14.11.2025 KBV |  | Streichung P1-265,   Überarbeitung P1-266      Umwandlung K 2-264 in kon- | Abschaltung KV-Connect | 15 |
 | 1.15 | 14.02.2025 KBV |  | - | KIM als Übertragungsweg | 15 |
-| 1.14 | 07.05.2018 KBV |  | - - | Aktualisierung der KV- | 15 |
+| 1.14 | 07.05.2018 KBV |  | -  - | Aktualisierung der KV- | 15 |
 | 1.13 | 09.04.2014 KBV |  | Dokument redaktionell bzgl. |  |  |
 | 1.12 | 05.09.2013 KBV |  | Der Arzt darf sich nicht über | Änderung Plausibilitäten | 13 |
-| 1.11 | 29.10.2012 KBV |  | KV-Connect: Vorgaben zur  Nur GKV-Versicherte sind zu | Einsatz KV-Connect | 7 |
+| 1.11 | 29.10.2012 KBV |  | KV-Connect: Vorgaben zur    Nur GKV-Versicherte sind zu | Einsatz KV-Connect | 7 |
 | 1.10 | 09.08.2012 KBV |  | redaktionelle Überarbeitung | Anpassung an das neue |  |
 | 1.00 | 25.04.2012 KBV |  | Neues Dokument |  |  |
 
-ditionale Pflichtfunktion KP2- P1-261, P1-262 und P1- 263 gestrichen P1-265: Neu aufgenom- veralteter Links überarbeitet Pflichtfelder hinwegsetzen (P1-210). Übermittlung. berücksichtigen (P1-35). Connect Spezifikation Layout
+ditionale Pflichtfunktion KP2- P1-261, P1-262 und P1- 263 gestrichen P1-265: Neu aufgenom- veralteter Links überarbeitet Pflichtfelder hinwegsetzen (P1-210). Übermittlung. berücksichtigen (P 1-35). Connect Spezifikation Layout
 
 ---
 
@@ -94,14 +94,10 @@ ditionale Pflichtfunktion KP2- P1-261, P1-262 und P1- 263 gestrichen P1-265: Neu
 
 ---
 
-| **IT in** | **der Arztpraxis** |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-|  | Anforderungskatalog | QS | Molekulargenetik | |  |  |  |
-|  |  |  | **ABBILDUNGSVERZEICHNIS** | | |  |  |
-| **ABBILDUNG** | **1:** | **BERICHTSZEITRÄUME** |  |  | ................................................................................................................................ | | 6 |
-|  |  | KBV_ITA_VGEX_Anforderungskatalog_QSMG | | * Version | 1.16 | Seite 4 | von 19 |
+**ABBILDUNG 1:** **BERICHTSZEITRÄUME** ................................................................................................................................ 6
 
-ABBILDUNG 1:
+### ABBILDUNGSVERZEICHNIS
+
 
 ---
 
@@ -179,17 +175,17 @@ fassbar sein.
 
 Die Behandlungsfälle werden erstmals vom 01.04.2012 - 31.12.2012 erfasst, danach jährlich  vom 01.01.-31.12. des Untersuchungsjahres.
 
-Untersuchungsjahr: 01.01.-.31.12 Das Kalenderjahr, in dem die molekulargenetischen
+Untersuchungsjahr: 01.01.-. 31.12 Das Kalenderjahr, in dem die molekulargenetischen
 
 Untersuchungen durchgeführt werden.
 
-Meldequartal: 01.01.-.31.03 Das sich an das Untersuchungsjahr anschließende
+Meldequartal: 01.01.-. 31.03 Das sich an das Untersuchungsjahr anschließende
 
 Prüfquartal: 01.01
 
 Quartal.
 
-01.04.-.30.06 Das sich an das Meldequartal anschließende Quartal
+01.04.-. 30.06 Das sich an das Meldequartal anschließende Quartal
 
 dient den Korrekturen.
 
@@ -269,7 +265,7 @@ scheine) zu einem Fall vor, ist dennoch nur eine Art der Fragestellung möglich.
 
 Beispiel:
 
-| 20 Behandlungsfälle mit diagnostischer Fragestellung. 40 Behandlungsfälle mit prädiktiver Fragestellung. 50 Behandlungsfälle mit vorgeburtlicher Fragestellung. |
+| 20 Behandlungsfälle mit diagnostischer Fragestellung.  40 Behandlungsfälle mit prädiktiver Fragestellung.  50 Behandlungsfälle mit vorgeburtlicher Fragestellung. |
 |---|
 
 Beispiel 1 Art der Fragestellung
@@ -297,7 +293,7 @@ Die unterscheidenden Befunde sind in den Ausfüllhinweisen beschrieben
 
 Beispiel:
 
-| 60 Behandlungsfälle mit diag. Fragestellung, davon 20 mit pathologischem Befund 60 Behandlungsfälle mit diag. Fragestellung, davon 10 mit unauffälligem Befund 60 Behandlungsfälle mit diag. Fragestellung, davon 30 mit nicht beurteilbarem Befund  70 Behandlungsfälle mit präd. Fragestellung, davon 40 mit pathologischem Befund 70 Behandlungsfälle mit präd. Fragestellung, davon 20 mit unauffälligem Befund 70 Behandlungsfälle mit präd. Fragestellung, davon 10 mit nicht beurteilbarem Befund  210 Behandlungsfälle mit vorgeb. Fragestellung, davon 60 mit pathologischem Befund 210 Behandlungsfälle mit vorgeb. Fragestellung, davon 80 mit unauffälligem Befund 210 Behandlungsfälle mit vorgeb. Fragestellung, davon 70 mit nicht beurteilbarem Befund |
+| 60 Behandlungsfälle mit diag. Fragestellung, davon 20 mit pathologischem Befund  60 Behandlungsfälle mit diag. Fragestellung, davon 10 mit unauffälligem Befund  60 Behandlungsfälle mit diag. Fragestellung, davon 30 mit nicht beurteilbarem Befund    70 Behandlungsfälle mit präd. Fragestellung, davon 40 mit pathologischem Befund  70 Behandlungsfälle mit präd. Fragestellung, davon 20 mit unauffälligem Befund  70 Behandlungsfälle mit präd. Fragestellung, davon 10 mit nicht beurteilbarem Befund    210 Behandlungsfälle mit vorgeb. Fragestellung, davon 60 mit pathologischem Befund  210 Behandlungsfälle mit vorgeb. Fragestellung, davon 80 mit unauffälligem Befund  210 Behandlungsfälle mit vorgeb. Fragestellung, davon 70 mit nicht beurteilbarem Befund |
 |---|
 
 Beispiel 2 Art des Befunds
@@ -357,12 +353,12 @@ Die Zähler und Nenner, sowie die errechneten Quotienten sind in der Jahresstati
 
 Beispiel
 
-| Es gibt 25 Behandlungsfälle mit pathologischem Befund. Bei diesen Behandlungsfällen  Es gibt 10 Behandlungsfälle mit unauffälligem Befund. Bei diesen Behandlungsfällen wur-  Es gibt 20 Behandlungsfälle mit nicht beurteilbarem Befund. Bei diesen Behandlungsfällen |
+| Es gibt 25 Behandlungsfälle mit pathologischem Befund. Bei diesen Behandlungsfällen    Es gibt 10 Behandlungsfälle mit unauffälligem Befund. Bei diesen Behandlungsfällen wur-   Es gibt 20 Behandlungsfälle mit nicht beurteilbarem Befund. Bei diesen Behandlungsfällen |
 |---|
 
 Beispiel 3 Quotient differenziert nach Art des Befundes
 
-wurden 50 GOPs abgerechnet. Quotient1: 50 / 25 = 2 den 30 GOPs abgerechnet. Quotient2: 30 / 10 = 3 wurden 50 GOPs abgerechnet. Quotient3: 50 / 20 = 2,5
+wurden 50 GOPs abgerechnet. Quotient1: 50 / 25 = 2 den 30 GOPs abgerechnet. Quotient2: 30 / 10 = 3 wurden 50 GOPs abgerechnet. Quotient 3: 50 / 20 = 2,5
 
 
 ---
@@ -434,7 +430,7 @@ Das Produkt der beiden Größen ist zu bilden und die Summe der Produkte ist zu 
 
 Beispiel
 
-| Untersuchung: BRCA1 Teilnahmehäufigkeit: 2x   Untersuchung: FraX Teilnahmehäufigkeit: 1x   Gesamtanzahl = 3 |
+| Untersuchung: BRCA1 Teilnahmehäufigkeit: 2x     Untersuchung: FraX Teilnahmehäufigkeit: 1x     Gesamtanzahl = 3 |
 |---|
 
 Beispiel 4 Gesamtanzahl der Untersuchungen
@@ -452,7 +448,7 @@ Die Summe über das Produkt aus ringversuchspflichtiger Untersuchung und erteilt
 
 Beispiel
 
-| Untersuchung: BRCA1 Zertifikate: 2x   Untersuchung: FraX Zertifikate: 2x   Gesamtanzahl = 4 |
+| Untersuchung: BRCA1 Zertifikate: 2x     Untersuchung: FraX Zertifikate: 2x     Gesamtanzahl = 4 |
 |---|
 
 Beispiel 5 Gesamtanzahl der Zertifikate
@@ -494,7 +490,7 @@ gestellung (s P1-70) dokumentiert wurde, ist der Anwender darauf hinzuweisen
 
 | PFLICHTFUNKTION QS Molekulargenetik | |
 |---|---|
-| P1-300 | Anzeige der Jahresstatistik |
+| P 1-300 | Anzeige der Jahresstatistik |
 
 Der Anwender muss die Möglichkeit haben die generierte Jahresstatistik anzuschauen.
 
@@ -529,7 +525,7 @@ Das System muss sicherstellen, dass der Anwender alle Daten zur Jahresstatistik 
 
 | PFLICHTFUNKTION QS Molekulargenetik | |
 |---|---|
-| P2-10 | Übermittlung an die Datenannahmestelle |
+| P 2-10 | Übermittlung an die Datenannahmestelle |
 
 Die Jahresstatistik ist im Meldequartal an die Datenannahmestelle zu übermitteln. Die Statis- tik muss dabei bis zum 31.03. (Ende des Meldequartals) bei der Datenannahmestelle vorlie- gen. Der Anwender kann anschließend bis zum 30.06. (Ende des Prüfquartals) auf Aufforde- rung der KV veränderte und überarbeitete Daten an die Datenannahmestelle senden.
 
@@ -561,7 +557,7 @@ Zum 01.10.2018 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstü
 
 | PFLICHTFUNKTION QS Molekulargenetik | |
 |---|---|
-| P1-266 | QSMG auf Basis von KIM |
+| P 1-266 | QSMG auf Basis von KIM |
 
 Die Software muss dem Anwender eine Funktion für die Übertragung der QSMG- Dokumentationen auf Basis von KIM bereitstellen.
 
@@ -660,7 +656,7 @@ Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM ni
 | [KBV_ITA_AHEX_Ausfuellhinweise_QSMG] | Ausfüllhinweise zur betriebsstättenbezogenen Jahres- |
 | [KBV_ITA_VGEX_Plausi_QSMG] | Berechnungsvorschriften zur betriebsstättenbezoge- |
 | [KBV_ITA_AHEX_Handbuch_Kryptomodul] | KBV-Kryptomodul XKM Anwenderhandbuch |
-| [1] | Qualitätssicherungsvereinbarung Molekulargenetik http://www.kbv.de/html/themen_2846.php |
+| [1] | Qualitätssicherungsvereinbarung Molekulargenetik  http://www.kbv.de/html/themen_2846.php |
 | [2] | Schlüsseltabelle S_BAR2_ARZTNRFACHGRUPPE |
 | [3] | Richtlinie der Bundesärztekammer zur Qualitätssiche- |
 | [Spezifikation_eDoku_KIM] | Spezifikation KIM Anwendungsdienst " eDokumentati- on V2.0“ in der stets aktuellen Version |

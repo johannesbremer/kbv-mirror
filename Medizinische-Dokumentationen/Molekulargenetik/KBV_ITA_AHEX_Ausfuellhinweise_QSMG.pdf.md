@@ -17,7 +17,7 @@ vor, dass Labore eine Jahresstatistik erstellen für die Statistik erforderlich 
 | Unterauftrag | Ein Unterauftrag ist die vollständige oder teilweise Weiter- |
 | Einsender | Der Einsender (Erstveranlasser) ist der Arzt, der das U n- |
 | Fachgruppe | Die Fachgruppenzugehörigkeit ergibt sich aus der lebens- |
-| Externe Qualitätssicherung  (Ringversuche) | In die Jahresstatistik fließen nur die Untersuchungen ein,   |
+| Externe Qualitätssicherung   (Ringversuche) | In die Jahresstatistik fließen nur die Untersuchungen ein,    |
 
 . Der § 8 Abs. 1 gibt vor, welche Angaben
 

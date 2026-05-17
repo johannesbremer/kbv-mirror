@@ -42,19 +42,13 @@ weiß, dass ich detaillierte Informationen zeitnah mit meinen Einschreibungsunte
 
 Bitte das heutige Datum eintragen. **T T M M J J J J**
 
-|  | **–** | **von** |  | **der** |  |  | **behandelnden** |
-|---|---|---|---|---|---|---|---|
-| Ich |  | bestätige, |  |  | dass | für |  |
-|  | sprechend |  | den |  |  | rechtlichen |  |
-| wurden |  | und |  | erfüllt |  | sind. |  |
-|  | wirkung |  | und |  | Teilnahme |  | an |
-|  | profitieren |  |  | kann. |  |  |  |
-| Bitte | das | heutige |  | Datum |  |  | eintragen. |
-| **T** | **T** | **M** | **M** | **J** | **J** | **J** | **J** |
+**– von der behandelnden Ärztin/vom behandelnden Arzt oder Krankenhausärztin/Krankenhausarzt auszufüllen –**
 
-gesichert ist/sind und die indikationsspezifischen Einschreibekriterien überprüft
+Ich bestätige, dass für die vorgenannte Versicherte/den vorgenannten Versicherten die oben genannte(n) Diagnose(n)  sprechend den rechtlichen Anforderungen gesichert ist/sind und die indikationsspezifischen Einschreibekriterien überprüft
 
-Unterschrift
+wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit wirkung und Teilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung  profitieren kann.
+
+Bitte das heutige Datum eintragen. **T T M M J J J J** Unterschrift
 
 # Erklärung
 
@@ -90,9 +84,7 @@ ent -
 
 ### Exemplar für die Datenstelle
 
-Indikationsübergreifend
-
-– von der behandelnden Ärztin/vom behandelnden Arzt oder Krankenhausärztin/Krankenhausarzt auszufüllen – Ich bestätige, dass für die vorgenannte Versicherte/den vorgenannten Versicherten die oben genannte(n) Diagnose(n) sprechend den rechtlichen Anforderungen wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit wirkung und Teilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung profitieren kann. Bitte das heutige Datum eintragen. J	J	J	J06.05.2020 TEEWE
+Indikationsübergreifend 06.05.2020 TEEWE
 
 
 ---
@@ -141,19 +133,13 @@ weiß, dass ich detaillierte Informationen zeitnah mit meinen Einschreibungsunte
 
 Bitte das heutige Datum eintragen. **T T M M J J J J**
 
-|  | **–** | **von** |  | **der** |  |  | **behandelnden** |
-|---|---|---|---|---|---|---|---|
-| Ich |  | bestätige, |  |  | dass | für |  |
-|  | sprechend |  | den |  |  | rechtlichen |  |
-| wurden |  | und |  | erfüllt |  | sind. |  |
-|  | wirkung |  | und |  | Teilnahme |  | an |
-|  | profitieren |  |  | kann. |  |  |  |
-| Bitte | das | heutige |  | Datum |  |  | eintragen. |
-| **T** | **T** | **M** | **M** | **J** | **J** | **J** | **J** |
+**– von der behandelnden Ärztin/vom behandelnden Arzt oder Krankenhausärztin/Krankenhausarzt auszufüllen –**
 
-gesichert ist/sind und die indikationsspezifischen Einschreibekriterien überprüft
+Ich bestätige, dass für die vorgenannte Versicherte/den vorgenannten Versicherten die oben genannte(n) Diagnose(n)  sprechend den rechtlichen Anforderungen gesichert ist/sind und die indikationsspezifischen Einschreibekriterien überprüft
 
-Unterschrift
+wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit wirkung und Teilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung  profitieren kann.
+
+Bitte das heutige Datum eintragen. **T T M M J J J J** Unterschrift
 
 # Erklärung
 
@@ -189,7 +175,7 @@ ent -
 
 ### Exemplar für den Arzt
 
-– von der behandelnden Ärztin/vom behandelnden Arzt oder Krankenhausärztin/Krankenhausarzt auszufüllen – Ich bestätige, dass für die vorgenannte Versicherte/den vorgenannten Versicherten die oben genannte(n) Diagnose(n) sprechend den rechtlichen Anforderungen wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit wirkung und Teilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung profitieren kann. Bitte das heutige Datum eintragen. J	J	J	J06.05.2020 TEEWE
+Indikationsübergreifend 06.05.2020 TEEWE
 
 
 ---
@@ -238,19 +224,13 @@ weiß, dass ich detaillierte Informationen zeitnah mit meinen Einschreibungsunte
 
 Bitte das heutige Datum eintragen. **T T M M J J J J**
 
-|  | **–** | **von** |  | **der** |  |  | **behandelnden** |
-|---|---|---|---|---|---|---|---|
-| Ich |  | bestätige, |  |  | dass | für |  |
-|  | sprechend |  | den |  |  | rechtlichen |  |
-| wurden |  | und |  | erfüllt |  | sind. |  |
-|  | wirkung |  | und |  | Teilnahme |  | an |
-|  | profitieren |  |  | kann. |  |  |  |
-| Bitte | das | heutige |  | Datum |  |  | eintragen. |
-| **T** | **T** | **M** | **M** | **J** | **J** | **J** | **J** |
+**– von der behandelnden Ärztin/vom behandelnden Arzt oder Krankenhausärztin/Krankenhausarzt auszufüllen –**
 
-gesichert ist/sind und die indikationsspezifischen Einschreibekriterien überprüft
+Ich bestätige, dass für die vorgenannte Versicherte/den vorgenannten Versicherten die oben genannte(n) Diagnose(n)  sprechend den rechtlichen Anforderungen gesichert ist/sind und die indikationsspezifischen Einschreibekriterien überprüft
 
-Unterschrift
+wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit wirkung und Teilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung  profitieren kann.
+
+Bitte das heutige Datum eintragen. **T T M M J J J J** Unterschrift
 
 # Erklärung
 
@@ -286,7 +266,7 @@ ent -
 
 ### Exemplar für den Patienten
 
-– von der behandelnden Ärztin/vom behandelnden Arzt oder Krankenhausärztin/Krankenhausarzt auszufüllen – Ich bestätige, dass für die vorgenannte Versicherte/den vorgenannten Versicherten die oben genannte(n) Diagnose(n) sprechend den rechtlichen Anforderungen wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit wirkung und Teilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung profitieren kann. Bitte das heutige Datum eintragen. J	J	J	J06.05.2020 TEEWE
+Indikationsübergreifend 06.05.2020 TEEWE
 
 
 ---
@@ -340,6 +320,8 @@ Alternativ dazu besteht die Möglichkeit, dass Ihre Krankenkasse die Aufgaben de
 Der dargestellte Ablauf der Programme und die nachfolgend beschriebenen Aufgaben der Beteiligten sind gesetzlich vorgeschrieben.  Bei jedem Bearbeitungsschritt werden strengste gesetzliche Sicherheitsvorschriften beachtet. Die Verarbeitung Ihrer im Programm  erhobenen Daten erfolgt unter Beachtung der Datenschutzgrundverordnung (DS-GVO). Dadurch ist der Schutz Ihrer Daten immer
 
 gewährleistet! Bei allen Beteiligten haben nur speziell für das Programm ausgewählte und besonders geschulte Mitarbeiterinnen/ Mitarbeiter Zugang zu den Daten. Des Weiteren werden Ihre Daten entsprechend den gültigen Rechtsvorschriften aufbewahrt.
+
+Indikationsübergreifend
 
 **3.1 Was geschieht bei der Ärztin/dem Arzt mit den Daten?**
 
@@ -414,6 +396,8 @@ Ihre individuelle Betreuung bildet den Schwerpunkt dieser Behandlungsprogramme. 
 Ihr Arzt oder Ihre Ärztin wird Sie über den Umgang mit weiteren gesundheitsgefährdenden Einflüssen aufklären und mit Ihnen  zusammen eine Handlungsstrategie zu deren Vermeidung abstimmen. Sie legen gemeinsam mit Ihrer Ärztin bzw. Ihrem Arzt Ihre  individuellen Therapieziele fest und wirken aktiv an der Behandlung Ihrer Erkrankung mit.  Das Programm sieht insbesondere regelmäßige Wiedervorstellungstermine vor. Nehmen Sie diese wahr und tragen Sie damit aktiv  dazu bei, dass Sie Ihre vereinbarten Behandlungsziele erreichen. Zur Unterstützung Ihrer Selbstmanagementkompetenz dient die  regelmäßige Dokumentation.
 
 **Koordination Ihrer Behandlung**
+
+Indikationsübergreifend
 
 Die von Ihnen gewählte Ärztin oder der von Ihnen gewählte Arzt koordiniert die Programmdurchführung und berät und unterstützt  Sie in allen Fragen. Voraussetzung für Ihre Teilnahme ist, dass diese Ärztin bzw. dieser Arzt selbst am Programm teilnimmt.  Ihre Ärztin oder Ihr Arzt wird mit Ihnen regelmäßige Untersuchungstermine vereinbaren, deren Inhalte und Abstände fest geregelt  06.05.2020
 

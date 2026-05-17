@@ -31,9 +31,9 @@ DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.3 | 10.01.2025 | KBV/GKV-SV | Aktualisierung des Kapi- Anpassung der Anforde- Anpassung der Anforde- Anpassung der Anforde- Anpassung der Anforde- Anpassung der Anforde- Anpassung der Anforde- Aufnahme der Anforde- | Terminierung der ver- Verpflichtende Anzeige der Verpflichtende Anzeige des Redaktionelle Anpassung Erweiterung mit Akzeptanz-  Abbildung der elektroni- | 4  8, 19, 29 8, 18, 28 17  19, 29  22  22  23 |
-| 1.2 | 0.3.06.2024 | KBV/GKV-SV | Anpassung des Termins Anpassung der Anforde- Anpassung der Anforde- | Klarstellungen und Anre- | 4  20  22 |
-| 1.1 | 11.01.2024 | KBV/GKV-SV | Anpassung der Anforde- Erweiterung der  Anpassung der Anforde- Erweiterung der | Klarstellungen und Anre- | 13 14  21  22 |
+| 1.3 | 10.01.2025 | KBV/GKV-SV | Aktualisierung des Kapi- Anpassung der Anforde- Anpassung der Anforde- Anpassung der Anforde- Anpassung der Anforde- Anpassung der Anforde- Anpassung der Anforde- Aufnahme der Anforde- | Terminierung der ver- Verpflichtende Anzeige der  Verpflichtende Anzeige des  Redaktionelle Anpassung  Erweiterung mit Akzeptanz-   Abbildung der elektroni- | 4    8,  19,  29  8,  18,  28  17    19,  29    22    22    23 |
+| 1.2 | 03.06.2024 | KBV/GKV-SV | Anpassung des Termins  Anpassung der Anforde- Anpassung der Anforde- | Klarstellungen und Anre- | 4    20    22 |
+| 1.1 | 11.01.2024 | KBV/GKV-SV | Anpassung der Anforde- Erweiterung der   Anpassung der Anforde- Erweiterung der | Klarstellungen und Anre- | 13  14    21    22 |
 | 1.0 | 25.05.2023 | KBV/GKV-SV | neues Dokument | Einführung des Anforde- | alle |
 
 tels 1.2 rung P2-020 und P4-311 und des Glossars  rung P2-020 und P4-310 und des Glossars  rung P4-230 rung P4-311 und des Glossars  rung P4-342 rung P4-340 rung P4-343 der verpflichtenden Um- setzung rungen KP4-312  rung P4-342 rung P4-130 Anforderung P4-210 rung P4-322 Anforderung P4-342 pflichtenden Umsetzung der elektronischen Verord- nung Nutzungshinweise Vorhandenseins von Kont- raindikationen kriterium 3 und 4 kriterium 5 schen Verordnung gungen aus der Sprech- stunde und den Zertifizie- rungen zum Verfahren Ver- ordnung von DiGA (VDGA) gungen aus der Sprech- stunde zum Verfahren Ver- ordnung von DiGA (VDGA) rungskatalogs nach § 73 Abs. 9 SGB V für Verord- nung von DiGA
@@ -1259,7 +1259,7 @@ nden ist. Bei der Bedruck-
 
 | PFLICHTFUNKTION | |
 |---|---|
-| P4-343 | Allgemeine Vorgaben für die elektronische Verordnung |
+| P 4-343 | Allgemeine Vorgaben für die elektronische Verordnung |
 
 Die Verordnungssoftware muss gewährleisten, dass die Verordnung von Digitalen Gesundheitsan- wendungen in Form einer elektronischen Verordnung erfolgen kann.
 
@@ -1410,14 +1410,14 @@ schen Klassifikation der Krankheiten und verwandter Gesundheits- probleme
 
 | BEGRIFF | BEDEUTUNG |
 |---|---|
-| PZN | Die Pharmazentralnummer (PZN) stellt die für die Verordnung von Zur Verordnung einer spezifischen Verordnungseinheit einer DiGA Die PZN wird zentral von der Informationsstelle für Arzneimittelspe- |
+| PZN | Die Pharmazentralnummer (PZN) stellt die für die Verordnung von  Zur Verordnung einer spezifischen Verordnungseinheit einer DiGA  Die PZN wird zentral von der Informationsstelle für Arzneimittelspe- |
 | DiGA-Verordnungseinheit | Die DiGA-Verordnungseinheit stellt das im Verordnungsvorgang ver- |
 | DiGA-Modul-Name | Eine DiGA kann grundsätzlich aus verschiedenen DiGA |
 | DiGA-Name | Die Angabe des Namens der DiGA entspricht dem offiziellen, voll- |
 | Indikationen | Die Indikationen beinhalten Informationen dazu, wann die Anwen- |
 | Redaktioneller Steckbrief | Der redaktionelle Steckbrief beinhaltet redaktionelle Beschreibun- |
-| Vorhandensein von Kontraindika- | Das Vorhandensein von Kontraindikationen (als Boolescher Wert) zeigt an, ob bei der Verordnung der DiGA |
-| Kontraindikationen | Die Kontraindikationen beinhalten Informationen dazu, wann die ist der DiGA-Verordnungseinheit zugeordnet. |
+| Vorhandensein von Kontraindika- | Das Vorhandensein von Kontraindikationen (als Boolescher Wert)  zeigt an, ob bei der Verordnung der DiGA |
+| Kontraindikationen | Die Kontraindikationen beinhalten Informationen dazu, wann die  ist der DiGA-Verordnungseinheit zugeordnet. |
 
 DiGA relevante Kennnummer dar. Einzelne Verordnungseinheiten können unter Nutzung der PZN verordnet werden. durch die Ärzte und Psychotherapeuten wird jeder DiGA -Verord- nungseinheit bei der Aufnahme ins Produktverzeichnis zusätzlich eine eineindeutige 8-stellige numerische PZN zugeordnet. zialitäten - IFA GmbH vergeben, die dem BfArM die benötigten PZN zur Zuordnung zu den DiGA-Verordnungseinheiten zur Verfügung stellt. ordnete Produkt dar, dem die verordnungsrelevanten Daten wie  bei- spielsweise ein Name, die PZN, zulässige Indikationen und Preisan- gaben zugeordnet sind. Die DiGA-Verordnungseinheit ist einem kon- kreten DiGA-Modul zugeordnet, welches wiederum einer DiGA zuge- ordnet ist. -Modulen be- stehen, die für speziellen Anwendungsfälle zum Einsatz kommen. Die Angabe des Namens des DiGA-Moduls entspricht dem offiziel- len, vollständigen Handelsnamen des DiGA -Moduls. Diese Informa- tion ist dem DiGA-Modul zugeordnet. ständigen Handelsnamen der DiGA. Diese Information ist der DiGA dung einer Verordnungseinheit einer digitalen Gesundheitsanwen- dung angezeigt ist. Sie werden durch eine Liste von ICD -Diagnosen repräsentiert, die jeweils aus dem ICD-10-GM-Kode und dem dazu- gehörigen ICD-10-GM-Diagnoseklartext bestehen. Diese Information gen einer DiGA oder eines Moduls einer DiGA. Diese Information ist der DiGA zugeordnet. -Verordnungseinheit Kont- raindikationen zu beachten sind. Anwendung einer Verordnungseinheit einer digitalen Gesundheits- anwendung nicht angezeigt, also kontraindiziert ist. Sie werden so- wohl durch eine Liste von ICD-Diagnosen repräsentiert, die jeweil aus dem ICD-10-GM-Kode und dem dazugehörigen Diagnoseklartext bestehen, als auch durch die Ausschlusskriterien. Diese Information
 
@@ -1425,12 +1425,12 @@ DiGA relevante Kennnummer dar. Einzelne Verordnungseinheiten können unter Nutzu
 
 | BEGRIFF | BEDEUTUNG |
 |---|---|
-| Informationen zum positiven Ver- | Die Informationen zum positiven Versorgungseffekt beinhalten die Diese Information ist der DiGA zugeordnet. |
+| Informationen zum positiven Ver- | Die Informationen zum positiven Versorgungseffekt beinhalten die  Diese Information ist der DiGA zugeordnet. |
 | Nicht indizierte Geschlechtskenn- | Die Angaben zu den nicht indizierten Geschlechtskennzeichen der |
 | Altersgruppen der Ziel-/Patien- | Die Angaben zu den Altersgruppen der Ziel Der Altersgruppenbezeichnung kann optional |
 | Anwendungsdauer | Die Angaben zur Anwendungsdauer bestehen |
 | Nutzungshinweise | Die Nutzungshinweise können Angaben zu der vom Hersteller für er- |
-| Status im DiGA-Verzeichnis | Die Angabe zum Status im DiGA-Verzeichnis repräsentiert den Status Diese Information ist dem Verzeichniseintrag zugeordnet. |
+| Status im DiGA-Verzeichnis | Die Angabe zum Status im DiGA-Verzeichnis repräsentiert den Status  Diese Information ist dem Verzeichniseintrag zugeordnet. |
 | Erforderlichkeit von Zusatzgerä- | Diese Angabe kennzeichnet, ob zusätzliche Geräte en |
 
 zeichen der Ziel-/Patientengrup- tengruppen Angaben und Nachweise zum positiven Versorgungseffekt, die der DiGA-Hersteller im Zuge des Antragsverfahre ns für die Listung im DiGA-Verzeichnis vorgelegt hat. Sie werden durch eine Liste von Ant- worten zu vorgegebenen Fragen repräsentiert, die zu einem Block von Fragen mit dem Titel „Angaben zum positiven Versorgungsef- fekt“ gehören. Diese Informationen sind de m DiGA-Antwortdaten- satz der DiGA zugeordnet, der wiederum einem DiGA -Fragenkatalog zugeordnet ist. Der Fragenblock kann beispielsweise Fragen zu fol- genden Einträgen enthalten: Nachweis zum positiven Versorgungseffekt Angabe Erprobungszeitraum (höchstens 1 2 Monate) Kurzfassung zum vorliegenden oder geplanten Nachweis des po- sitiven Versorgungseffektes nach PICO -Schema Angaben zum positiven Versorgungseffekt Ziel- /Patientengruppen besteht aus einer Liste von menschenlesba- ren Geschlechtskennzeichen. Diese Information ist der DiGA -Verord- nungseinheit zugeordnet. - /Patientengruppen be- steht aus einer Liste von menschenlesbaren Altersgruppenbezeich- nungen. Diese Information ist der DiGA -Verordnungseinheit zuge- ein zusätzlicher Kom- mentar beigefügt sein, welcher z.B. die in der Bezeichnung angege- bene Altersangaben korrigiert. aus einem dezimalen Wert und der menschenlesbaren Angabe einer Zeiteinheit. Diese In- formation ist der DiGA-Verordnungseinheit zugeordnet. forderlich gehaltenen Mindest- und Höchstdauer der Nutzung der DiGA enthalten. Diese Information ist der DiGA zugeordnet. des Eintrags der DiGA im Verzeichnis. Dieser kann die folgenden drei Werte annehmen: draft: vorläufig aufgenommen active: dauerhaft aufgenommen retired: zurückgezogen/entfernt/gestrichen tweder im zu verordnenden Produkt enthalten sind, oder zusätzlich verpflichtend oder optional erworben werden müssen. Es sind folgende vier Kenn- zeichnungen zu verwenden: - keine Zusatzgeräte
@@ -1459,7 +1459,7 @@ Zusatzgeräte enthalten Zusatzgeräte optional Zusatzgeräte benötigt geräte. 
 | BEGRIFF | BEDEUTUNG |
 |---|---|
 |  | Die zusätzlichen Mehrkosten werden nicht direkt im DiGA |
-| Höchstbetrag oder Vergütun | Der Preis einer DiGA-Verordnungseinheit wird im ersten Jahr ihrer Ein Vergütungsbetrag ist der Preis, zu dem eine DiGA Im DiGA-Verzeichnis wird optional entweder ein H |
+| Höchstbetrag oder Vergütun | Der Preis einer DiGA-Verordnungseinheit wird im ersten Jahr ihrer  Ein Vergütungsbetrag ist der Preis, zu dem eine DiGA Im DiGA-Verzeichnis wird optional entweder ein H |
 | Ausschlusskriterien | Die Angabe zu den Ausschlusskriterien benennt die Kriterien, bei de- |
 | Informationen zu Datenschutz | Die Informationen zu Datenschutz und Datensicherheit beinhalten |
 
@@ -1483,12 +1483,12 @@ Resultieren alle Fehler und Fehlfunktionen der Zugr iffskontrolle in einer Ableh
 |  |  |
 |---|---|
 | Referenz | Dokument |
-| Anlage 2 | Anlage 2 - Vereinbarung über die Vordrucke für https://www.kbv.de/media/sp/02_Vordruck- |
-| Anlage 2b | Anlage 2b des Bundesmantelvertrages-Ärzte https://www.kbv.de/media/sp/02b_Vordruck- |
-| KBV_ITA_VGEX_Technisches_Handbuch_DiMus | Technisches Handbuch Anlage 2b https://update.kbv.de/ita-update/DigitaleMus- |
+| Anlage 2 | Anlage 2 - Vereinbarung über die Vordrucke für  https://www.kbv.de/media/sp/02_Vordruck- |
+| Anlage 2b | Anlage 2b des Bundesmantelvertrages-Ärzte  https://www.kbv.de/media/sp/02b_Vordruck- |
+| KBV_ITA_VGEX_Technisches_Handbuch_DiMus | Technisches Handbuch Anlage 2b  https://update.kbv.de/ita-update/DigitaleMus- |
 | KBV_ITA_VGEX_Mapping_KVK | Anwendung der eGK - Technische Anlage zu An- https://update.kbv.de/ita-update/Abrech- |
-| DiGA-API | Beschreibung der DiGA-API https://simplifier.net/guide/diga/ |
-| KBV_ITA_VGEX_TECHNISCHE_ANLAGE_EVDGA | Technische Anlage eVDGA https://update.kbv.de/ita-update/DigitaleMus- |
+| DiGA-API | Beschreibung der DiGA-API  https://simplifier.net/guide/diga/ |
+| KBV_ITA_VGEX_TECHNISCHE_ANLAGE_EVDGA | Technische Anlage eVDGA  https://update.kbv.de/ita-update/DigitaleMus- |
 
 die vertragsärztliche Versorgung vereinbarung.pdf  vereinbarung_digitale_Vordrucke.pdf ter/KBV_ITA_VGEX_Technisches_Hand- buch_DiMus.pdf  lage 4a (BMV-Ä) nung/KBV_ITA_VGEX_Mapping_KVK.pdf ter/eVDGA/KBV_ITA_VGEX_Technische_An- lage_eVDGA.pdf
 

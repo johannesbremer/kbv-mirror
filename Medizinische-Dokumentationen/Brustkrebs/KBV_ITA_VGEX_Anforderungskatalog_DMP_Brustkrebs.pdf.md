@@ -18,16 +18,16 @@ Brustkrebs log_DMP_Brustkrebs Herbert-Lewin-Platz 2 Version  2.24 Datum: Kennzei
 
 | Version Datum |  | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 2.24 | 15.08.2024 | KBV | Neue Anforderung zu näheren Pa meter-Erläuterungen für Brust  Ergänzung einer zu berücksichti den Anforderung aus KVDT (Abschnitt 2.2)  Anpassung der möglichen DMP-Kennzeichen (Abschnitt 3.3)  Aktualisierung bzgl. der zu übermit den Archive |  | 10f  14  24  9 |
-| 2.23 | 25.04.2023 | KBV | Aktualisierung der relevanten KVDT    Redaktionelle Überarbeitung   Einführung eines Barcodes PDF417 auf der übergreifenden | Angleichung an den ak-     Angleichung an den An- | 13  29  22 |
-| 2.22 | 08.08.2018 | KBV | Klarstellung der Anforderung  Aufnahme einer Regelung zur Zwi-  Überarbeitung der Anforderung P3  Klarstellung der Anforderung    Streichung der Anforderung P5  Anpassung der Anforderung  Aktualisierung der relevanten KVDT  Aktualisierung der referenzierten Do- | Klarstellung zum Um- | 8  11  18, 19  13  20  13  30 |
-| 2.21 | 25.07.2018 | KBV | Aktualisierung bzgl. der zu übermitteln- | Anpassung des DMP | 9 20 |
+| 2.24 | 15.08.2024 | KBV | Neue Anforderung zu näheren Pa meter-Erläuterungen für Brust   Ergänzung einer zu berücksichti den Anforderung aus KVDT (Abschnitt  2.2)    Anpassung der möglichen  DMP-Kennzeichen (Abschnitt 3.3)   Aktualisierung bzgl. der zu übermit den Archive |  | 10f    14    24    9 |
+| 2.23 | 25.04.2023 | KBV | Aktualisierung der relevanten KVDT       Redaktionelle Überarbeitung     Einführung eines Barcodes PDF417 auf der übergreifenden | Angleichung an den ak-         Angleichung an den An- | 13  29    22 |
+| 2.22 | 08.08.2018 | KBV | Klarstellung der Anforderung    Aufnahme einer Regelung zur Zwi-   Überarbeitung der Anforderung P3   Klarstellung der Anforderung        Streichung der Anforderung P5   Anpassung der Anforderung    Aktualisierung der relevanten KVDT   Aktualisierung der referenzierten Do- | Klarstellung zum Um- | 8    11    18,  19    13    20    13    30 |
+| 2.21 | 25.07.2018 | KBV | Aktualisierung bzgl. der zu übermitteln- | Anpassung des DMP | 9  20 |
 | 2.20 | 15.03.2018 | KBV | Aktualisierung der relevanten KVDT | Personalienfeld Ände- | 13 |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  | 10f |  |  |  |
-|  |  |  | 24  9 DOKUMENTENHISTORIE | 2.23 25.04.2023 KBV Aktualisierung der relevanten KVDT    Redaktionelle Überarbeitung | Einführung eines Barcodes PDF417 auf der übergreifenden Angleichung an den ak-     13 |
+|  |  |  | 24    9  DOKUMENTENHISTORIE | 2.23  25.04.2023  KBV  Aktualisierung der relevanten KVDT       Redaktionelle Überarbeitung | Einführung eines Barcodes PDF417 auf der übergreifenden Angleichung an den ak-         13 |
 |  |  | 2.22 | 08.08.2018 | KBV | Klarstellung der Anforderung |
 | Aufnahme einer Regelung zur Zwi- |  | Überarbeitung der Anforderung P3 |  | Klarstellung der Anforderung |  |
 |  | Anpassung der Anforderung |  | Aktualisierung der relevanten KVDT |  | Aktualisierung der referenzierten Do- |
@@ -46,16 +46,16 @@ Die Änderung der Version 2.2 4 sind zum 01.10.2024 umzusetzen.  ra- krebs gen- 
 
 |  |  |  |  |  |  |
 |---|---|---|---|---|---|
-|  |  |  | KBV | 2.16 | 04.02.2015 KBV   22.09.2014 KBV Verweis auf KVDT-Funktionen P2-101- Anpassung KVDT-Anfor- Verwendung eines Ersatzwertes bei Teilnahme von Versi-  Formulierung bezüglich der Standardi- |
-|  |  |  | cherten der Sonstigen   bessere Verständlichkeit 13 |  | 16 2.14 |
-| KBV | Formulierung in P4-70 korrigiert |  | 2.13 08.05.2014 KBV Entfernen des Verweises auf die Up-  26 2.12 06.03.2014 KBV Übergangslösung für Umstellung auf | 2.11 12.12.2013 KBV Anpassung bzgl. Änderungen aus Up-  s. 2.07  2.10 16.10.2013 KBV Umstellung auf eGK-VSD 5.2.0 (sci- Umstellung auf eGK 13 | 2.07 11.11.2013 KBV Streichen der Regelung zur Über- Ende des Übergangs- 20 2.06 06.08.2013 Hinweis auf eVersandliste unter P1-14  8 |
+|  |  |  | KBV | 2.16 | 04.02.2015  KBV      22.09.2014  KBV  Verweis auf KVDT-Funktionen P2-101- Anpassung KVDT-Anfor- Verwendung eines Ersatzwertes bei Teilnahme von Versi-   Formulierung bezüglich der Standardi- |
+|  |  |  | cherten der Sonstigen      bessere Verständlichkeit 13 |  | 16  2.14 |
+| KBV | Formulierung in P4-70 korrigiert |  | 2.13  08.05.2014  KBV  Entfernen des Verweises auf die Up-   26  2.12  06.03.2014  KBV  Übergangslösung für Umstellung auf | 2.11  12.12.2013  KBV  Anpassung bzgl. Änderungen aus Up-   s. 2.07    2.10  16.10.2013  KBV  Umstellung auf eGK-VSD 5.2.0 (sci- Umstellung auf eGK 13 | 2.07  11.11.2013  KBV  Streichen der Regelung zur Über- Ende des Übergangs- 20  2.06  06.08.2013  Hinweis auf eVersandliste unter P1-14    8 |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
-| 2.19 | 16.01.2018 | KBV | Angleichung an den eDMP-Anforde- • •  Aktualisierung bzgl. der zu übermitteln- | Personalienfeld Ände- | 9  13  20 |
+| 2.19 | 16.01.2018 | KBV | Angleichung an den eDMP-Anforde- • •   Aktualisierung bzgl. der zu übermitteln- | Personalienfeld Ände- | 9    13    20 |
 | 2.18 | 12.05.2015 | KBV | P2-40 konkretisiert |  | 15 |
 | 2.17 | 09.03.2015 | KBV | Streichen der Übergangsregelung |  | 20 |
 | 2.16 | 04.02.2015 | KBV | Streichen der Übergangsregelung |  |  |
-| 2.15 | 22.09.2014 | KBV | Verweis auf KVDT-Funktionen P2-101- Anpassung KVDT-Anfor-  Verwendung eines Ersatzwertes bei Teilnahme von Versi-  Formulierung bezüglich der Standardi- | cherten der Sonstigen   bessere Verständlichkeit | 13      18   16 |
+| 2.15 | 22.09.2014 | KBV | Verweis auf KVDT-Funktionen P2-101- Anpassung KVDT-Anfor-   Verwendung eines Ersatzwertes bei Teilnahme von Versi-   Formulierung bezüglich der Standardi- | cherten der Sonstigen      bessere Verständlichkeit | 13            18      16 |
 | 2.14 | 05.06.2014 | KBV | Formulierung in P4-70 korrigiert |  |  |
 | 2.13 | 08.05.2014 | KBV | Entfernen des Verweises auf die Up- |  | 26 |
 | 2.12 | 06.03.2014 | KBV | Übergangslösung für Umstellung auf |  |  |
@@ -63,6 +63,8 @@ Die Änderung der Version 2.2 4 sind zum 01.10.2024 umzusetzen.  ra- krebs gen- 
 | 2.10 | 16.10.2013 | KBV | Umstellung auf eGK-VSD 5.2.0 (sci- | Umstellung auf eGK | 13 |
 | 2.07 | 11.11.2013 | KBV | Streichen der Regelung zur Über- | Ende des Übergangs- | 20 |
 | 2.06 | 06.08.2013 | KBV | Hinweis auf eVersandliste unter P1-14 |  | 8 |
+
+Brustkrebs
 
 rungskatalog Verwendung/Bedeutung der Datumsfelder relevante KVDT-Anforderun- den Archive KVK-Ablöse KVK-Ablöse KVK als Berechtigungsnachweis zur derungskatalog Inanspruchnahme ärztlicher Leistun- gen ungültig – Ausnahmeregelung für  „originäre“ Sonstige Kostenträger  und  P2 -166 –Überprüfung der Leistungs- pflicht des Kostenträgers im Abschnitt  „Versicherteninformationen“ eingefügt. Versicherten der Sonstigen Kostenträ- ger ohne Versichertenkarte sierung des Wertes des Geburtsda- tums angepasst. date CD eGK-Formate date I/2014 phox-ssu v3) gangsfrist gestrichen  Ende der Übergangsfrist  Ende der Übergangsfrist Kostenträger an DMP zeitraums
 
@@ -142,8 +144,14 @@ rungskatalog Verwendung/Bedeutung der Datumsfelder relevante KVDT-Anforderun- de
 
 #### INHALTSVERZEICHNIS
 
+[KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.24
+
+Brustkrebs
+
 
 ---
+
+Brustkrebs
 
 **4.1** **Kostenträger-Stammdateien der KBV (EHD-Format)**
 
@@ -166,6 +174,8 @@ rungskatalog Verwendung/Bedeutung der Datumsfelder relevante KVDT-Anforderun- de
 *4.2.2.2* *Temporäre Erweiterung und Änderung durch den Softwareverantwortlichen ..... 29*
 
 **5** **REFERENZIERTE DOKUMENTE _________________________________________**
+
+[KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.24
 
 **.............................................................. 26**
 
@@ -194,8 +204,14 @@ Abbildung 1: Positionierung des PDF 417 Barcodes auf dem Formular Teilnahmeerkl�
 
 #### ABBILDUNGSVERZEICHNIS
 
+[KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.24
+
+Brustkrebs
+
 
 ---
+
+Brustkrebs
 
 # 1 Einleitung
 
@@ -239,7 +255,8 @@ Ident-Nummer einer Pflichtfunktion Ident-Nummer einer älteren Ver- sion
 
 Ident-Nummer einer optionalen Funktion
 
-(2-70) füllt sind. Rahmen des Gutachterverfahrens nachzuweisen.
+(2-70) füllt sind. Rahmen des Gutachterverfahrens nachzuweisen. [KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.24
+
 
 ---
 
@@ -271,7 +288,7 @@ Prinzipiell ist es also möglich, dass der Verlauf einer Falldokumentation mit e
 
 | PFLICHTFUNKTION DMP | |
 |---|---|
-| P1-15 | Arztwechsel |
+| P 1-15 | Arztwechsel |
 
 Wechselt der eingeschriebene Patient den dokumentierenden Arzt, muss bei der Erfassung der  Folgedokumentation der Arztwechsel gekennzeichnet werden. Das Element Arztwechsel wird  nicht in den Datensatz übermittelt.
 
@@ -295,8 +312,14 @@ Die Software muss den Zeitpunkt der Dokumentation erfassen.
 
 Zu beachten ist in diesem Zusammenhang auch die Pflichtfunktion **P1-14**
 
+[KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.24
+
+Brustkrebs
+
 
 ---
+
+Brustkrebs
 
 | PFLICHTFUNKTION EDMP | |
 |---|---|
@@ -366,8 +389,12 @@ das Erstelldatum für die Dokumentation besitzt.
 
 Die Software muss dem Anwender die folgende Erläuterung zum Erstelldatum anzeigen, wenn  der Anwender diese abruft:
 
+[KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.24
+
 
 ---
+
+Brustkrebs
 
 *Mithilfe von diesem Datumsfeld wird angegeben, für welches Quartal die Dokumentation er-* *stellt wurde, das Datum muss in dem entsprechenden Abrechnungsquartal liegen. Anhand die-* *ses Datums wird von Ihrer Datenannahmestelle geprüft, ob die korrekten Pa* *Dokumentation erfasst wurden.*
 
@@ -421,6 +448,8 @@ mentationen korrekt, gemäß der im Dokumentationsquartal gültigen Dokumentatio
 
 Das System muss sicherstellen, dass dem Anwender bei dem DMP Brustkrebs Parametern nähere Erläuterungen zur Verfügung gestellt werden.
 
+[KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.24
+
 kte Schnittstellenversion verwendet
 
 *rameter für die*
@@ -450,7 +479,7 @@ Bei der postoperativen Erstdokumentation nach präoperativer Einschreibung (pnp)
 
 | PFLICHTFUNKTION DMP | |
 |---|---|
-| P1-20 | Sichern der Dokumentationsdaten Archivieren von Dokumentationsdaten (portabler Datenspeicher) |
+| P1-20 | Sichern der Dokumentationsdaten  Archivieren von Dokumentationsdaten (portabler Datenspeicher) |
 
 Das System muss die Möglichkeit bieten Dokumentationsdaten eines bestimmten Zeitraumes  auf einem portablen Datenspeicher zu archivieren.
 
@@ -459,6 +488,10 @@ Das System muss die Möglichkeit bieten Dokumentationsdaten eines bestimmten Zei
 | P1-23 | Archivieren von Dokumentationsdaten |
 
 Das System muss die Möglichkeit bieten die Dokumentationsdaten gemäß der Schnittstellen- beschreibung [KBV_ITA_VGEX_Schnittstelle_eHeader] nach dem Versand zu einer Datenan- nahmestelle zu archivieren.
+
+[KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.24
+
+Brustkrebs
 
 Das System muss sicherstellen, dass alle Dokumentationsdaten unverändert gespeichert wer- den und jederzeit einsehbar sind. P1-21 Zwischenspeichern der Dokumentationsdaten Das System muss sicherstellen, dass nicht vollständige und/oder fehlerhafte Dokumentationen unverändert zwischengespeichert werden können, so dass diese erhalten bleiben und erwei- terbar sind. Für den Nutzer muss ersichtlich sein, dass es sich um eine unvollständige und/oder fehlerhafte Dokumentation handelt. Hinweis: Die Versendung einer nicht vollständigen und/oder fehlerhaften Dokumentation muss systemseitig ausgeschlossen werden. 2.1.4 Optionale FUNKTION DMP K1-22 | PFLICHTFUNKTION DMP | |
 |---|---|
@@ -470,6 +503,8 @@ Das System muss sicherstellen, dass alle Dokumentationsdaten unverändert gespei
 
 
 ---
+
+Brustkrebs
 
 **2.1.5 Eindeutigkeit von elektronischen Dokumentationen**
 
@@ -489,8 +524,12 @@ Das System muss sicherstellen, dass alle Dokumentationsdaten unverändert gespei
 
 - 4. Gibt der Anwender eine DMP-Fallnummer ein, die systemseitig bereits für einen ande- ren Patienten existiert, so darf diese Nummer nicht übernommen werden und das Sys- tem muss mit einem entsprechenden Fehlerhinweis den Anwender auffordern eine nicht  existierende DMP-Fallnummer einzugeben.
 
+[KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.24
+
 
 ---
+
+Brustkrebs
 
 | PFLICHTFUNKTION DMP | |
 |---|---|
@@ -542,6 +581,8 @@ Originaldokument.
 
 Die Anforderungen bezüglich der Ermittlung und Speicherung der Versicherteninformationen  weichen nur in wenigen Punkten von [KBV_ITA_VGEX_Anforderungskatalog_KVDT] ab. Diese  Abweichungen werden unten explizit aufgeführt.
 
+[KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.24
+
 
 ---
 
@@ -579,12 +620,18 @@ Aus Kapitel 2.2 „Patientenstammdaten erfassen und verarbeiten“ in [KBV_ITA_V
 
 Tabelle 1
 
+[KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.24
+
+Brustkrebs
+
 Übersicht der zu realisierenden Pflichtfunktionen analog zu [KBV_ITA_VGEX_Anforderungs- katalog_KVDT]
 
 ärztlicher Leistungen ungültig – Ausnahmeregelung für „originäre“ Sonstige Kostenträger (VKNR-Seriennummer 3.-5. Stelle >= 800) Form angezeigt *nicht möglich sein“ zu ersetzen*
 
 
 ---
+
+Brustkrebs
 
 | Bezeichnung | Elemente gem. DMP-Header (Kindelemente von |
 |---|---|
@@ -595,7 +642,7 @@ Tabelle 1
 | Geburtsdatum | <birth_dttm> |
 | Titel des Patienten | <person><person_name><nm><pfx> |
 | Versichertennummer | <local_header><sciphox-ssu><GesetzlicheKrankenversiche- |
-| Versicherungsschutz Ende | <local_header><sciphox-ssu> <GesetzlicheKrankenversicherung><VersicherungsschutzEnde> |
+| Versicherungsschutz Ende | <local_header><sciphox-ssu>  <GesetzlicheKrankenversicherung><VersicherungsschutzEnde> |
 | Straßenadresse |  |
 | Straße | <person><addr><STR> |
 | PLZ | <person><addr><ZIP> |
@@ -616,15 +663,17 @@ Tabelle 1
 
 | PFLICHTFUNKTION DMP | |
 |---|---|
-| P2-40 | „Ersatzverfahren“ anwenden |
+| P 2-40 | „Ersatzverfahren“ anwenden |
 
 1 sinngemäß laut Anlage 6 der „Vereinbarung zur Gestaltung und bundesweiten Einführung der Krankenversichertenkarte“
+
+[KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.24
 
 Versichertendaten manuell erfassen  Patientenstammdaten "manuell" erfassen stammdaten zu erfassen, z.B.: Patientenstammdaten manuell über Tastatur eingeben, gedruckte Patientenstammdaten (z.B. Überweisungsschein im Labor) scannen und in- terpretieren. daten und wird wie folgt definiert :  liegt vor, wenn dem Arzt lediglich ein gültiger Überweisungsschein (z.B. Einsendepraxen), nicht aber die Krankenversichertenkarte zur Verfügung steht, der Versicherte darauf hinweist, dass sich die zuständige Krankenkasse oder der Versicher- tenstatus geändert hat, die Versichertenkarte dies aber noch nicht berücksichtigt, die Versichertenkarte defekt ist, das Lesegerät/der Drucker defekt ist, die Versichertenkarte nicht benutzt werden kann, weil für Hausbesuche kein entsprechendes Gerät zur Verfügung steht. Beim und in allen Fällen, in denen keine Versichertenkarte vorgelegt wird (z.B. Überweisungsschein) oder vorgelegt werden kann (z.B. Einsendepraxen, Einsendepraxen, be- fristete provisorische Ersatzbescheinigung nach § 19(2) BMV-Ä), muss das System die Erfas- sung sämtlicher Versichertendaten ermöglichen Behandlungsausweises von der Versichertenkarte umgedruckt wurden. Diese sind: Patientenstamm- , wie sie in das Personalienfeld des jeweiligen gleiche [KBV_ITA_VGEX_Schnittstelle_eHeader ]) rung><Versichertennummer> cda:patient  ver-
 
 ---
 
-|  | P2-50 Geburtsdatum mit besonderem Wertebereich |
+|  | P 2-50  Geburtsdatum mit besonderem Wertebereich |
 |---|---|
 |  | Ein Geburtsdatum muss mit seinem definierten Wertebereich vollständig erfasst und verarbeitet |
 |  | Das Geburtsdatum ist für die Ermittlung der Einschreibekriterien unabdingbar. Deswegen wurde |
@@ -646,15 +695,19 @@ Versichertendaten manuell erfassen  Patientenstammdaten "manuell" erfassen stamm
 | Postfach Ort | <person><addr><CTY> |
 | Postfach | <person><addr><POB> |
 | Postfach Wohnsitzländercode | <person><addr><CNT> |
-| Kostentraegerkennung | <local_header><sciphox-ssu> <GesetzlicheKrankenversicherung><Kostentraegerkennung> |
-| WOP-Kennzeichen (KV-Bereich) | <local_header><sciphox-ssu> <GesetzlicheKrankenversicherung><WOP> |
-| DMP-Kennzeichnung | <local_header><sciphox-ssu> <GesetzlicheKrankenversicherung><DMP_Kennzeichnung> |
-| BesonderePersonengruppe | <local_header><sciphox-ssu> <GesetzlicheKrankenversicherung> <BesonderePersonengruppe> |
-| Versichertenart | <local_header><sciphox-ssu> <GesetzlicheKrankenversicherung><Versichertenart> |
+| Kostentraegerkennung | <local_header><sciphox-ssu>  <GesetzlicheKrankenversicherung><Kostentraegerkennung> |
+| WOP-Kennzeichen (KV-Bereich) | <local_header><sciphox-ssu>  <GesetzlicheKrankenversicherung><WOP> |
+| DMP-Kennzeichnung | <local_header><sciphox-ssu>  <GesetzlicheKrankenversicherung><DMP_Kennzeichnung> |
+| BesonderePersonengruppe | <local_header><sciphox-ssu>  <GesetzlicheKrankenversicherung>  <BesonderePersonengruppe> |
+| Versichertenart | <local_header><sciphox-ssu>  <GesetzlicheKrankenversicherung><Versichertenart> |
+
+[KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.24
+
+Brustkrebs
 
 Elemente gem. DMP-Header (Kindelemente von cda:patient  ver- Tabelle 2 Übersicht der zu erfassenden Daten im Ersatzverfahren Versicherte der Sonstigen Kostenträger haben in einigen Fällen weder eine Versichertenkarte noch eine Versichertennummer. Die Daten des Berechtigungsnachweises müssen daher über das Ersatzverfahren erfasst werden. Da die Versichertennummer für die DMP-Dokumentation ein Pflichtfeld ist, muss in diesem Fall der Ersatzwert „X999999999“ für das Feld Versicherten- nummer eingetragen werden. Für die Weiterverarbeitung der o.a. Daten gelten - mit Ausnahme der Restriktionen zur "Amt- lichkeit" - grundsätzlich die gleichen Vorgaben, wie sie auch bei einem Einlesevorgang über ein Lesegerät beachtet werden müssen.  2.2.2 Ein Geburtsdatum kann außerhalb des üblichen Datumsformats liegen; daher gilt: werden können.  birth_dttm (Geburtsdatum des Patienten) im DMP-Header:  JJJJ-TT-MM, JJJJ-MM-00, JJJJ-00-00 mit den Spitzenverbänden der Krankenkassen folgendes Vorgehen vereinbart: so ist die Aufnahme in ein DMP abzulehnen un d der Patient aufzufordern seitens seiner 1. Erscheint ein Patient ohne Angabe eines Geburtsjahres auf der der Versichertenkarte, Krankenkasse eine Sonderbescheinigung einzureichen, auf der das Geburtsdatum ver- merkt ist. Dieses, seitens der zuständigen Krankenkasse bekannt gegebene Geburts- datum, ist für Dokumentation und Bedruckung zu verwenden. ten, so sind grundsätzlich folgende Angaben für Dokumentation und Bedruckung zu ver- 2. Sind auf der der Versichertenkarte keine Angaben zum Geburtstag und –monat enthal- wenden: Geburtstag: 01 Geburtsmonat: 01 | PFLICHTFUNKTION DMP | |
 |---|---|
-| P2-50 | Geburtsdatum mit besonderem Wertebereich |
+| P 2-50 | Geburtsdatum mit besonderem Wertebereich |
 
 
 ---
@@ -665,9 +718,13 @@ Laut dem G-BA-Beschluss vom 21.06.2005 sind nur weibliche Patientinnen zur Teiln
 
 | PFLICHTFUNKTION DMP | |
 |---|---|
-| P2-55 | Geschlecht nur weiblich |
+| P 2-55 | Geschlecht nur weiblich |
 
 Die Geschlechtsangabe ist optional. Falls die Geschlechtsangabe vorliegt, dann muss die Pa- tientin weiblich sein.
+
+[KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.24
+
+Brustkrebs
 
 
 ---
@@ -720,6 +777,10 @@ Mithilfe dieser Anforderung soll sichergestellt werden, dass die aus dem System 
 
 - 3. Der im Personalienfeld zu druckende Kostenträgername muss anhand der Anforderun- gen P2-210, P2-220 und P2-411 aus dem Dokument [KBV_ITA_VGEX_Anforderungs- katalog_KVDT] ermittelt werden.
 
+[KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.24
+
+Brustkrebs
+
 
 ---
 
@@ -743,6 +804,10 @@ Nur wenn beide Erklärungen unterschrieben und versendet wurden, sind die Daten-
 
 - 2. Schließt der Anwender den Hinweis für einen Patienten, dann erscheint dieser für eine  erstmalige Dokumentation bei dem Patienten nicht noch einmal.
 
+[KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.24
+
+Brustkrebs
+
 versendet haben!
 
 **Teilnahme-**
@@ -753,6 +818,8 @@ versendet haben!
 ## 2.4 Datenübermittlung
 
 ### 2.4.1 Anwendung Prüfmodul (XPM)
+
+Brustkrebs
 
 | PFLICHTFUNKTION DMP | |
 |---|---|
@@ -802,10 +869,12 @@ das jeweils für das Dokumentationsquartal
 
 - 2. Der Anwender muss die Möglichkeit haben, patientenspezifisch abweichende Empfän- ger zu konfigurieren. Diese patientenspezifische Einstellung überlagert die automatisiert  ermittelten Empfängerinformationen.
 
-- *Stammdatei Daten-*
+[KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.24 - *Stammdatei Daten-*
 
 
 ---
+
+Brustkrebs
 
 **2.4.3 Verschlüsseln der Daten**
 
@@ -833,8 +902,12 @@ Das System muss den Anwender darauf hinweisen, dass die eingesetzten Datenträge
 
 - 2. Das System darf das Unterschriftsdatum auf dem Transportbegleitzettel nicht aufdru- cken. Dieses Datum ist vom Anwender bei Unterzeichnung des Transportbegleitzettels  handschriftlich anzugeben.
 
+[KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.24
+
 
 ---
+
+Brustkrebs
 
 # 3 Barcode des Formulars der Teilnahmeerklärung  (Exemplar für die Datenstelle)
 
@@ -880,7 +953,8 @@ Die Software muss den Barcode an der definierten Position der TE/EWE auf der Aus
 
 pitel 3.2.2 Positionierung / Aufdruck des Barcodes).
 
-Einwilligungserklärung
+Einwilligungserklärung [KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.24
+
 
 ---
 
@@ -912,6 +986,10 @@ unterhalb des Textes „Erklärung zur Teilnahme an einem strukturierten Behandl
 
 Auf der Datenstellenausfertigung der TE/EWE (Versionsmuster 070E) kann in der markierten  Stelle in Abbildung 3 - unterhalb des Textes „Erklärung zur Teilnahme an einem strukturierten  Behandlungsprogramm für“ und oberhalb des Feldes „Krankenhaus-IK“ - ein 2D-Barcode (PDF 417) gedruckt werden.
 
+[KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.24
+
+Brustkrebs
+
 
 ---
 
@@ -928,13 +1006,13 @@ Auf der Datenstellenausfertigung der TE/EWE (Versionsmuster 070E) kann in der ma
 | 09 | Versicherten- | <=12 | a |  |  |
 | 10 | Versicherten- | 1 | n | 1,3,5 |  |
 | 11 | Besondere | 2 | n | 00, 04, 06, 07, 08, 09 |  |
-| 12 | DMP-Kenn- | 2 | n | 00, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58 |  |
+| 12 | DMP-Kenn- | 2 | n | 00, 01, 02, 03, 04, 05, 06, 07, 08,  09, 10, 11, 12, 30, 31, 32, 33, 34,  35, 36, 37, 38, 39, 40, 41, 42, 43,  44, 45, 46, 47, 48, 49, 50, 51, 52,  53, 54, 55, 56, 57, 58 |  |
 | 13 | (Neben-) Be- | 9 | n |  |  |
 | 14 | LANR | 9 | n |  |  |
 | 15 | Ausstellungs- | 8 | n |  | Format : JJJJMMTT |
 | 16 | DMP-Fallnum- | <=7 |  |  | 16 |
 | 3.3 Barcode Inhalt | Nr. | Feldbezeich- | Feld- | Typ | Erlaubte Inhalte |
-|  | 01 | Formularcode | 4 | a | 070E Name des Formu- |
+|  | 01 | Formularcode | 4 | a | 070E  Name des Formu- |
 | 02 | Formular- | 1 | a | a | Exemplar für die |
 | Versionsnum- | 2 | n |  |  | 04 |
 | <=45 | a |  |  |  | 05 |
@@ -944,6 +1022,10 @@ Auf der Datenstellenausfertigung der TE/EWE (Versionsmuster 070E) kann in der ma
 | 9 | n |  |  |  | 09 |
 | <=12 | a |  |  |  | 10 |
 | 1 | n | 1,3,5 |  |  | |
+
+[KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.24
+
+Brustkrebs
 
 nung codeergän- zung rungsschutz Ende kennung ID  art Personen- gruppe zeichnung triebsstätten- nummer länge lars Datenstelle zusätzlicher Wer- tebereich :  JJJJMM00, JJJJ0000, 00000000
 
@@ -968,9 +1050,9 @@ nung codeergän- zung rungsschutz Ende kennung ID  art Personen- gruppe zeichnun
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 | 17 | Krankenhaus- | 9 | n |  |  |
-| 18 | Diabetes melli- | 1 | n |  | 1 = Diabetes Typ 2 = Diabetes Typ 2 |
-| 19 | Koronare | 1 | n |  | 1 = Koronare 2= Herzinsuffizienz |
-| 20 | Asthma oder | 1 | n |  | 1 = Asthma, 2= COPD |
+| 18 | Diabetes melli- | 1 | n |  | 1 = Diabetes Typ  2 = Diabetes Typ 2 |
+| 19 | Koronare | 1 | n |  | 1 = Koronare  2= Herzinsuffizienz |
+| 20 | Asthma oder | 1 | n |  | 1 = Asthma,  2= COPD |
 | 21 | Brustkrebs | 1 | n |  | 1 = angekreuzt |
 | 22 | Depression | 1 | n |  | 1 = angekreuzt |
 | 23 | Rheumatoide | 1 | n |  | 1 = angekreuzt |
@@ -979,9 +1061,15 @@ nung codeergän- zung rungsschutz Ende kennung ID  art Personen- gruppe zeichnun
 |  |  |  |  |  |  |
 |  | Maximale Ge- | 188 + TABS |  |  | |
 
+[KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.24
+
+Brustkrebs
+
 IK tus Typ 1 oder Herzkrankheit oder Herzin- Arthritis schmerz samtlänge 1, Herzkrankheit,
 
 ---
+
+Brustkrebs
 
 # 4 Stammdateien der KBV
 
@@ -1017,8 +1105,12 @@ Beispiel:
 
 *lieferung der Datei seitens der KBV erfolgen.*
 
+[KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.24
+
 
 ---
+
+Brustkrebs
 
 | PFLICHTFUNKTION DMP | |
 |---|---|
@@ -1074,6 +1166,8 @@ Nach Maßgabe der im Kapitel 2.2 (P2-270) des Dokumentes [KBV_ITA_VGEX_Anforderu
 
 - b) Ein IK darf zu einem bestehenden KT-Stammsatz hinzugefügt werden.
 
+[KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.24
+
 
 ---
 
@@ -1111,9 +1205,15 @@ Mit einem Update zur SDDA muss spätestens mit Beginn des neuen Quartals die neu
 
 *Datei seitens der KBV erfolgen.*
 
+[KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.24
+
+Brustkrebs
+
 chen
 
 ---
+
+Brustkrebs
 
 | PFLICHTFUNKTION DMP | |
 |---|---|
@@ -1157,6 +1257,8 @@ die SDDA erweitert werden:
 
 Die von der KBV gelieferte aktuelle SDDA kann bereits mit einem Update an die Anwender  seitens des Softwareverantwortlichen erweitert werden. Es können sowohl neue Datenannah- mestellen-Stammsätze (<intended_recipient>) hinzugefügt werden, als auch Änderungen be- stehender Datenannahmestellen-Stammsätze erfolgen.
 
+[KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.24
+
 
 ---
 
@@ -1174,5 +1276,9 @@ Die von der KBV gelieferte aktuelle SDDA kann bereits mit einem Update an die An
 | [GBA_DMP_A_RL] | Richtlinie des Gemeinsamen Bundesausschusses |
 | [KBV_ITA_VGEX_Technisches_Hand- buch_BFB] | Technisches Handbuch Blankoformularbedruckung |
 | [EXT_ITA_AHEX_Teilnahme_eDMP_Uebergrei- fend] | Vorlage der übergreifenden TE/EWE. |
+
+[KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.24
+
+Brustkrebs
 
 Versorgung 1.10.2014 zur Regelung von Anforderungen an die Ausgestal- tung von Strukturierten Behandlungsprogrammen nach §137f Abs. 2 SGB V zur Zusammenführung der Anforderungen an struk- turierte Behandlungsprogramme nach § 137f Abs. 2 SGB V

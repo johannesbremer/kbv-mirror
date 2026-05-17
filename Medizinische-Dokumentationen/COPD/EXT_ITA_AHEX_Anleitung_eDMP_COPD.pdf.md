@@ -238,18 +238,15 @@ Genau eine Angabe ist erforderlich. Sie ist ausschließlich im Rahmen einer Folg
 
 Die Angaben zur Schulung beziehen sich hier ausschließlich rückblickend auf eine Schulung, die
 
-Sie Ihrem Patienten bei dem letzten Dokumentationstermin empfohlen haben, und sind daher nur  im Rahmen einer
-
-|  | **Folgedokumentation** | | möglich |
-|---|---|---|---|
-|  | ist | hier keine | Angabe |
-|  | Ihr Patient | im |  |
-| an. |  | Sollte Ihr | Patient |
-| Grund | nicht |  | wahrgenommen |
+Sie Ihrem Patienten bei dem letzten Dokumentationstermin empfohlen haben, und sind daher nur  im Rahmen einer **Folgedokumentation** möglich und verpflichtend.
 
 Bei der Erstdokumentation ist hier keine Angabe möglich.
 
-Hat Ihre Patientin oder Ihr Patient im Dokumentationszeitraum an einer Schulung teilgenommen,  geben Sie bitte „Ja“ an.  nachvollziehbaren Grund nicht wahrgenommen  **kann bei wiederholter Angabe zum Ausschluss des Versicherten aus dem Programm führen!**
+Hat Ihre Patientin oder Ihr Patient im Dokumentationszeitraum an einer Schulung teilgenommen,  geben Sie bitte „Ja“ an. Sollte Ihr Patient eine empfohlene Schulung
+
+nachvollziehbaren Grund nicht wahrgenommen haben, kreuzen Sie bitte „Nein“ an.
+
+**kann bei wiederholter Angabe zum Ausschluss des Versicherten aus dem Programm führen!**
 
 Die Angabe „War aktuell nicht möglich“ ist anzukreuzen, wenn die Schulung innerhalb des  Dokumentationsintervalls (jedes Quartal oder jedes zweite Quartal) wegen nachvollziehbarer  Gründe nicht wahrgenommen werden konnte. Solche Gründe können z.B. sein: Fehl ende  Schulungskapazität, Krankenhausaufenthalt des Patienten, private Gründe. Die Beurteilung, ob die  Gründe nachvollziehbar sind, obliegt alleine Ihnen und dem Patienten.
 
@@ -282,14 +279,6 @@ ohne einen für Sie  **Diese Angabe**
 Schulung
 
 Konsultation erfragt werden
-
-möglich und verpflichtend. Sollte Ihr Patient eine empfohlene Schulung haben, kreuzen Sie bitte „Nein“ an. | ist |  | anzukreuzen, | wenn die |
-|---|---|---|---|
-| oder | jedes | zweite | Quartal) |
-| konnte. | Solche | Gründe | können |
-| des | Patienten, | | private Gründe. |
-|  | Ihnen und | dem | Patienten. |
-|  | keine | Schulung | empfohlen |
 
 
 ---

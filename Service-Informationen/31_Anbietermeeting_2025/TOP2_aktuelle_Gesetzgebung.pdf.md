@@ -23,11 +23,7 @@
 
 ---
 
-**Timeline Koalitionsvertrag**
-
-| ↗ | **KOALITIONSVERTRAG** |  |
-|---|---|---|
-|  | SEITE | 4 |
+## Timeline Koalitionsvertrag - **KOALITIONSVERTRAG**
 
 06.11.2024
 
@@ -297,11 +293,9 @@ Bundesparteitag CDU
 
 ---
 
-| ↗ | **BEREICH** | **POLITIK** |  |
-|---|---|---|---|
-|  |  | SEITE | 18 |
+- **BEREICH POLITIK**
 
-BEREICH POLITIKDas Bild kann nicht angezeigt werden.
+Das Bild kann nicht angezeigt werden.
 
 
 ---

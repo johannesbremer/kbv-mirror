@@ -23,9 +23,9 @@ Die Änderungen vom 14.11.2025 treten zum 01.01.2026 in Kraft.
 
 | Version Datum |  | Autor Änderung |  | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.04 | 14.11.2025 KBV |  | Streichung P1-265,  Überarbeitung P1-266   Umwandlung K2-264 in konditio- | Abschaltung KV | 9 |
-| 1.03 | 14.02.2025 KBV |  | - P1-266: Neu aufgenommen | KIM als | 9 |
-| 1.02 | 07.05.2018 KBV |  | - P1-261, P1-262 und P1-263 - P1-265: Neu aufgenommen | Aktualisierung der | 9 |
+| 1.04 | 14.11.2025 KBV |  | Streichung P1-265,   Überarbeitung P1-266      Umwandlung K2-264 in konditio- | Abschaltung KV | 9 |
+| 1.03 | 14.02.2025 KBV |  | -  P1-266: Neu aufgenommen | KIM als | 9 |
+| 1.02 | 07.05.2018 KBV |  | -  P1-261, P1-262 und P1-263  -  P1-265: Neu aufgenommen | Aktualisierung der | 9 |
 | 1.01 | 07.05.2014 KBV |  | Red. Änderungen |  | 13 |
 | 1.00 | 31.03.2014 KBV |  |  | Einführung der |  |
 
@@ -245,7 +245,7 @@ Plausibilitäten
 
 | PFLICHTFUNKTION QS Holmium-Laser-Therapie | |
 |---|---|
-| P1-300 | Anzeige der Jahresstatistik |
+| P 1-300 | Anzeige der Jahresstatistik |
 
 Der Anwender muss die Möglichkeit haben die generierte Jahresstatistik anzuschauen.
 
@@ -284,7 +284,7 @@ alle Daten zur Jahresstatistik bis Ende
 
 | PFLICHTFUNKTION QS Holmium-Laser-Therapie | |
 |---|---|
-| P2-10 | Übermittlung an die Datenannahmestelle |
+| P 2-10 | Übermittlung an die Datenannahmestelle |
 
 Die Jahresstatistik ist im Meldequartal an die Datenannahmestelle zu übermitteln. Die Statis- tik muss dabei bis zum 31.03. (Ende des Meldequartals) bei der Datenannahmestelle vorlie- gen. Der Anwender kann anschließend bis zum 30.06. (Ende des Prüfquartals) auf Aufforde- rung der KV veränderte und überarbeitete Daten an die Datenannahmestelle senden.
 

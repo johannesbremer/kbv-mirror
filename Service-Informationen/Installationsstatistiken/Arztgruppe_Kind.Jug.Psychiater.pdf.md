@@ -6,29 +6,29 @@
 
 **Id**
 
-2.95
+295
 
-1.12
+112
 
-4.62
+462
 
-2.99
+299
 
-2.98
+298
 
-3.48
+348
 
-2.16
+216
 
-2.43
+243
 
-4.57
+457
 
-2.03
+203
 
-2.10
+210
 
-2.80
+280
 
 **Praxissoftware**
 
@@ -84,55 +84,55 @@ CompuGroup Medical Deutschland AG 1
 
 **Installationen 2.Q.2025**
 
-1.14
+114
 
-9.1
+91
 
-7.2
+72
 
-6.2
+62
 
-6.0
+60
 
-5.5
+55
 
-4.6
+46
 
-4.6
+46
 
-4.3
+43
 
-3.5
+35
 
-3.2
+32
 
-2.7
+27
 
 **Installationen 1.Q.2025**
 
-1.13
+113
 
-9.4
+94
 
-6.7
+67
 
-6.2
+62
 
-6.1
+61
 
-5.7
+57
 
-5.0
+50
 
-4.8
+48
 
-4.4
+44
 
-3.4
+34
 
-2.9
+29
 
-2.8
+28
 
 **Differenz**
 
@@ -165,21 +165,21 @@ CompuGroup Medical Deutschland AG 1
 
 **Id**
 
-2.44
+244
 
-1.35
+135
 
-2.52
+252
 
-4.98
+498
 
-2.61
+261
 
-2.66
+266
 
-2.47
+247
 
-0.60
+060
 
 **Praxissoftware**
 
@@ -189,9 +189,9 @@ CompuGroup Medical Deutschland AG 1
 
 **CGM M1 PRO**
 
-**T2med**
+**T 2med**
 
-**S3-Win**
+**S 3-Win**
 
 **x.comfort**
 
@@ -209,9 +209,9 @@ medatixx GmbH & Co. KG
 
 CompuGroup Medical Deutschland AG
 
-T2med GmbH & Co. KG
+T 2med GmbH & Co. KG
 
-S3 Praxiscomputer GmbH / Maximilian Flender
+S 3 Praxiscomputer GmbH / Maximilian Flender
 
 medatixx GmbH & Co. KG
 
@@ -221,15 +221,15 @@ Data-AL GmbH
 
 **Installationen 2.Q.2025**
 
-2.7
+27
 
-1.4
+14
 
-1.4
+14
 
-1.3
+13
 
-1.0
+10
 
 9
 
@@ -241,15 +241,15 @@ Data-AL GmbH
 
 **Installationen 1.Q.2025**
 
-2.8
+28
 
-1.4
+14
 
-1.4
+14
 
-1.3
+13
 
-1.0
+10
 
 9
 

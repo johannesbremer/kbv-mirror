@@ -49,11 +49,15 @@ Straße, Haus-Nr.
 |  | einrichtungen | wurde |
 |  | ja |  |
 
+nein
+
 Einwilligung der/des Versicherten zur Übermittlung der gutachterlichen Stellungnahme
 
 des Medizinischen Dienstes an die verordnende Vertragsärztin / den verordnenden
 
 Vertragsarzt wurde erteilt.
+
+nein
 
 **A. Erteilte Einwillligungserklärungen**
 
@@ -89,4 +93,4 @@ Kostenträgerkennung
 
 PRF.NR.
 
-nein nein Einwilligung der/des Versicherten zur Übermittlung der Leistungsentscheidung der  Krankenkasse an Angehörige und Vertrauenspersonen sowie Pflege- und Betreuungs- einrichtungen wurde erteilt.Muster 61 Teil Eb/E (7.2022)
+Einwilligung der/des Versicherten zur Übermittlung der Leistungsentscheidung der  Krankenkasse an Angehörige und Vertrauenspersonen sowie Pflege- und Betreuungs- einrichtungen wurde erteilt.Muster 61 Teil Eb/E (7.2022)

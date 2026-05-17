@@ -121,6 +121,8 @@ Empfängnisregelung, Sterilisation, Schwangerschaftsabbruch, (Ärztliche Behandl
 |---|---|
 | 999 | Hochschulambulanzen nach § 117 SGB V |
 
+2 / KBV / SCHLÜSSELTABELLE - S_VDX_KONTENART
+
 (Krankenhausbehandlung) Behandlung in psychiatrischen Institutsambulanzen nach § 118 SGB V
 
 Leistungen bei Schwangerschaft und Mutterschaft (Ärztliche Betreuung)

@@ -13,18 +13,22 @@
 | **Der Barcode enthält** | **keine auf dem Formular** | **nicht** | **lesbaren Daten.** |  |
 |  | **Ausfertigung für** | **den** | **überweisenden** | **Arzt** |
 
-|  |  | **2** |
-|---|---|---|
-| **Verordnung** | **von** |  |
-|  | **Krankenhausbehandlung** | |
-| ***(Nur bei*** | ***medizinischer Notwendigkeit*** | ***zulässig)*** |
-| **Belegarzt-** |  |  |
-| **behandlung** |  | **Notfall** |
-| **Unfall,** |  | **Versorgungs-** |
-| **Unfallfolgen** | **leiden** | **(BVG)** |
-| **Nächsterreichbare,** | **geeignete** | **Krankenhäuser** |
-| **Vertragsarztstempel** | **/ Unterschrift** | **des Arztes** |
-| **Muster 2c/E (10.2014)** |  |  |
-| **PRF.NR.** |  |  |
+**Verordnung von**  **Krankenhausbehandlung**
 
-Krankenkasse bzw. Kostenträger Name, Vorname des Versicherten Für den Krankenhausarzt! Vertraulich! Bisherige Maßnahmen (z. B. Medikation) Fragestellung/Hinweise (z. B. Allergie) Mitgegebene Befunde Der Barcode enthält keine auf dem Formular nicht lesbaren Daten. Ausfertigung für den überweisenden Arzt Verordnung von (Nur bei medizinischer Notwendigkeit zulässig) Nächsterreichbare, geeignete Krankenhäuser Vertragsarztstempel / Unterschrift des Arztes leiden (BVG)
+***(Nur bei medizinischer Notwendigkeit zulässig)***
+
+**Belegarzt-**
+
+**behandlung**
+
+**Unfall,**  **Unfallfolgen** **Nächsterreichbare, geeignete Krankenhäuser**
+
+**Vertragsarztstempel / Unterschrift des Arztes**
+
+**Muster 2c/E (10.2014)** **PRF.NR.**
+
+**2**
+
+**Notfall**
+
+Krankenkasse bzw. Kostenträger Name, Vorname des Versicherten Für den Krankenhausarzt! Vertraulich! Bisherige Maßnahmen (z. B. Medikation) Fragestellung/Hinweise (z. B. Allergie) Mitgegebene Befunde Der Barcode enthält keine auf dem Formular nicht lesbaren Daten. Ausfertigung für den überweisenden Arzt**Versorgungs-** **leiden (BVG)**

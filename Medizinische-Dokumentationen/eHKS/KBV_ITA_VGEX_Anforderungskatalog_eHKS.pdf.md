@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 15. AUGUST 2025  VERSION: 1.14  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 15. AUGUST 2025   VERSION: 1.14   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # ANFORDERUNGSKATALOG HAUTKREBS SCREENING (EHKS)
@@ -94,7 +94,7 @@ Die Vorgaben der Version 1.14 sind zum 1. Oktober 2025 umzusetzen.
 | 1.10 | 26.06.2018 | KBV | Streichung der Anforderungen | Abkündigung des |  |
 | 1.09 | 08.08.2017 | KBV | Streichung des Hinweises in | Anpassung an neue | 5 |
 | 1.08 | 02.08.2012 | KBV | Red. Änderungen | entfällt | alle |
-| 1.07 | 22.04.2010 | KBV | P2-50-Erstellung Versandliste  Neue Funktionen: P2-70-Elektronische Versandliste P2-75-Anbindung an das EVL- P2-80-Druck des | Einführung |  |
+| 1.07 | 22.04.2010 | KBV | P2-50-Erstellung Versandliste    Neue Funktionen:  P2-70-Elektronische Versandliste P2-75-Anbindung an das EVL- P2-80-Druck des | Einführung |  |
 | 1.06 | 13.01.2010 | KBV | P1-40: Bezeichnung |  | 6 |
 
 P2-30 des Schemas von 3.32 in 2.33 P1-60 P1-11 zum eVersandlistenmodul P1-10 entfallen Modul Bestätigungsschreibens Pflichtfunktion korrigiert Spezifikation für KIM der kv.digital Wertebereichs für den Parameter „Geschlecht des Patienten“ nach Änderung des Personenstandsgesetz (PstG) von Parameter- bezeichnungen Versandlistenmoduls Zertifizierungsrichtlinie der KBV eVersandlisten- Verfahren
@@ -372,8 +372,8 @@ beschriftet werden müssen. Eine Funktion zur Bedruckung entsprechender Aufklebe
 | [KBV_ITA_VGEX_Plausi_eHKS] | Plausibilitätenkatalog der elektronischen |
 | [KBV_ITA_AHEX_Handbuch_Kryptomodul] | KBV-Kryptomodul XKM Anwenderhandbuch |
 | [KBV_ITA_AHEX_Handbuch_Pruefmodul] | KBV-Prüfmodul XPM Anwenderhandbuch |
-| [KBV_ITA_VGEX_Anforderungskatalog_KVDT ] | Anforderungskatalog KVDT |
-| [Spec_KIM_eHKS] | KIM Spezifikation für eHKS der kv.digital  https://partnerportal.kv- |
+| [KBV_ITA_VGEX_Anforderungskatalog_KVDT] | Anforderungskatalog KVDT |
+| [Spec_KIM_eHKS] | KIM Spezifikation für eHKS der kv.digital   https://partnerportal.kv- |
 
 **Ansprechpartner:**
 

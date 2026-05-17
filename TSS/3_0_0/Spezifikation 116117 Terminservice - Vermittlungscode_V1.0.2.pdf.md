@@ -117,7 +117,7 @@ Entwurf
 
 In den folgenden Abschnitten sind die Anforderungen zusammengestellt, die die Software-Systeme der  Leistungserbringer erfüllen müssen, um Vermittlungscodes vom 116117 Terminservice anfordern zu können.  Die Anforderungen stehen immer im Kontext zur technischen Anlage zur Spezifikation "116117  Vermittlungscode" [TSSVCA], auch wenn nicht in jedem Einzelfall darauf verwiesen wird.
 
-4 11
+Seite 4 von 11 / KBV / Spezifikation 116117 Terminservice - Vermittlungscode
 
 
 ---
@@ -140,17 +140,17 @@ Anforderung in seinem Software-System umzusetzen oder nicht. Das Software-System
 
 Sachverhalte. Bei der Umsetzung durch die Softwarehersteller gibt es – wie bei den MUSS-Anforderungen -  keinen Ermessensspielraum.
 
-5 11
+Seite 5 von 11 / KBV / Spezifikation 116117 Terminservice - Vermittlungscode
 
 
 ---
 
-3 VORAUSSETZUNGEN
+| 3 | VORAUSSETZUNGEN | |  |  |  |
+|---|---|---|---|---|---|
+| Für die | Nutzung die | Schnittstelle wird | die Authentisierung | gemäß | [TSS_Auth] vorausgesetzt. |
+| Seite 6 von | 11 / KBV / Spezifikation | 116117 | Terminservice - | Vermittlungscode |  |
 
-Für die Nutzung die Schnittstelle wird die Authentisierung gemäß [TSS_Auth] vorausgesetzt.
-
-6 11
-
+3 VORAUSSETZUNGEN Für die Nutzung die Schnittstelle wird die Authentisierung gemäß [TSS_Auth] vorausgesetzt.  / KBV / Spezifikation 116117 Terminservice - Vermittlungscode
 
 ---
 
@@ -214,7 +214,7 @@ Zusätzlich **MUSS** das Software-System die bundesweit einheitliche Rufnummer
 
 6 oder PTV 11 aufbringen: "Vermittlungscode: <Vermittlungscode> <URL> Tel:  116117".
 
-7 11
+Seite 7 von 11 / KBV / Spezifikation 116117 Terminservice - Vermittlungscode
 
 
 ---
@@ -229,7 +229,7 @@ Anmerkung:
 
 - Weitere Anforderungen zum Aufbringen von Informationen sind in den folgenden Abschnitten speziell für  Muster 6 bzw. PTV11 definiert.
 
-8 11
+Seite 8 von 11 / KBV / Spezifikation 116117 Terminservice - Vermittlungscode
 
 **ABBILDUNG IM SOFTWARE-SYSTEM**
 
@@ -298,7 +298,7 @@ Das Software-System **MUSS** die zurückgegebenen Werte für Vermittlungscode un
 
 bundesweit einheitliche Rufnummer "116117" des Ärztlichen Bereitschaftsdienstes in die erste Zeile des  Feldes "Auftrag" aufbringen.
 
-9 11
+Seite 9 von 11 / KBV / Spezifikation 116117 Terminservice - Vermittlungscode
 
 
 ---
@@ -337,7 +337,7 @@ Das Software-System **MUSS** die zurückgegebenen Werte für Vermittlungscode un
 
 bundesweit einheitliche Rufnummer "116117" des Ärztlichen Bereitschaftsdienstes in die erste oder die  ersten beiden Zeilen des Freitextfeldes aufbringen.
 
-10 11
+Seite 10 von 11 / KBV / Spezifikation 116117 Terminservice - Vermittlungscode
 
 
 ---
@@ -354,4 +354,6 @@ partnerportal.kv-telematik.de/display/TSSSPEC/116117+Terminservice+-+Schnittstel
 
 - [Implementation Guide]: Implementation Guide [https://simplifier.net/guide/implementierungsleitfaden-](https://simplifier.net/guide/implementierungsleitfaden-)
 
-vermittlungscode-anfordern-fuer-pvs?version=current [https://simplifier.net/guide/](https://simplifier.net/guide/) implementierungsleitfaden-vermittlungscode-anfordern-fuer-pvs 11 11
+vermittlungscode-anfordern-fuer-pvs?version=current [https://simplifier.net/guide/](https://simplifier.net/guide/) implementierungsleitfaden-vermittlungscode-anfordern-fuer-pvs
+
+Seite 11 von 11 / KBV / Spezifikation 116117 Terminservice - Vermittlungscode

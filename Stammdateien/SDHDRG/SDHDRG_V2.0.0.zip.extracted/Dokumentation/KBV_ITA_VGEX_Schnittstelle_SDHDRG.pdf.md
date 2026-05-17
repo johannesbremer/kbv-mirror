@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 14. NOVEMBER 2025  VERSION: 2.0.0 |
+|  | KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT  14. NOVEMBER 2025   VERSION: 2.0.0 |
 |---|---|
 
 # SCHNITTSTELLENBESCHREIBUNG  SDHDRG (HYBRID -DRG)
@@ -76,26 +76,62 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  DOKUMENTENSTATUS: IN KRAFT
 
 **9**
 
-| **5** | **BODY** | **(INHALTSDATEN)** | **9** |
-|---|---|---|---|
-| 5.1 |  | sdhdrg_stammdaten | 9 |
-| 5.2 |  | leistungsbereich_liste | 9 |
-|  | 5.2.1 | leistungsbereich | 10 |
-| 5.3 |  | hybrid_drg_liste | 10 |
-|  | 5.3.1 | hybrid_drg | 11 |
-|  | 5.3.1.1 | name | 11 |
-|  | 5.3.1.2 | bewertung | 12 |
-|  | 5.3.1.3 | ohne_postoperativ | 12 |
-|  | 5.3.1.4 | mit_postoperativ | 13 |
-| 5.4 | ops_liste |  | 13 |
-|  | 5.4.1 | ops | 14 |
-|  | 5.4.1.1 | hinweis | 14 |
+**5** **BODY (INHALTSDATEN)**
+
+**9**
+
+5.1 sdhdrg_stammdaten
+
+9
+
+5.2 leistungsbereich_liste
+
+9
+
+5.2.1 leistungsbereich
+
+10
+
+5.3 hybrid_drg_liste
+
+10
+
+5.3.1 hybrid_drg
+
+11
+
+5.3.1.1 name
+
+11
+
+5.3.1.2 bewertung
+
+12
+
+5.3.1.3 ohne_postoperativ
+
+12
+
+5.3.1.4 mit_postoperativ
+
+13
+
+5.4 ops_liste
+
+13
+
+5.4.1 ops
+
+14
+
+5.4.1.1 hinweis
+
+14
 
 **6** **REFERENZIERTE DOKUMENTE**
 
 **15**
 
-BODY (INHALTSDATEN)
 
 ---
 
@@ -130,7 +166,7 @@ DOKUMENTENSTATUS
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 2.0.0 | 14.11.2025 | KBV | Streichung des OPS-Zweiges  Aufnahme des OPS-Zweiges |  | 9,10,13 |
+| 2.0.0 | 14.11.2025 | KBV | Streichung des OPS-Zweiges    Aufnahme des OPS-Zweiges |  | 9,10,13 |
 | 1.0.0 | 08.01.2025 | KBV | neues Dokument |  | alle |
 
 unter dem XML-Zweig <leistungsbereich> unter dem XML-Element <sdhdrg_stammdaten>
@@ -229,9 +265,9 @@ Es existieren verschiedene Kardinalitäten:
 
 | Kardinalität | Symbol | Beschreibung |
 |---|---|---|
-| 0..1 |  | Optionale Elemente Ein optionales Element wird als Rechteck mit gestrichelter |
-| 1 |  | Obligatorische Elemente Elemente, welche als Rechteck mit durchgezogener Linie |
-| n...m |  | Mehrfache Elemente Bei Elementen, welche mehrfach vorkommen können, |
+| 0..1 |  | Optionale Elemente  Ein optionales Element wird als Rechteck mit gestrichelter |
+| 1 |  | Obligatorische Elemente  Elemente, welche als Rechteck mit durchgezogener Linie |
+| n...m |  | Mehrfache Elemente  Bei Elementen, welche mehrfach vorkommen können, |
 
 Tabelle 1: Beschreibung der Kardinalitäten eines XML -Elements
 
@@ -257,10 +293,10 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 | Symbol | Beschreibung |
 |---|---|
-|  | Element mit Kindelementen Ein Element mit einem oder mehreren Kindelementen wird durch ein |
-|  | Referenzelement Der Pfeil links unten im Element zeigt an, dass das |
-|  | Datentyp Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen Datentyp. |
-|  | Gruppenelement Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement dar, |
+|  | Element mit Kindelementen  Ein Element mit einem oder mehreren Kindelementen wird durch ein |
+|  | Referenzelement  Der Pfeil links unten im Element zeigt an, dass das |
+|  | Datentyp  Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen Datentyp. |
+|  | Gruppenelement  Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement dar, |
 
 Tabelle 3: Beschreibung sonstiger Symbole
 
@@ -425,9 +461,9 @@ DRG-Vergütungsvereinbarung ab. Das V-Attribut enthält den Namen des Leistungsb
 
 Das Element ***<leistungsbereich>*** enthält die das Pflichtelemente
 
-| die | das Pflichtelemente |  |  | und . |
+| die | das Pflichtelemente |  |  | und ***<ops_liste>.*** |
 |---|---|---|---|---|
-|  |  |  | ***<hybrid_drg_liste>*** | ***<ops_liste>*** |
+|  |  |  | ***<hybrid_drg_liste>*** |  |
 
 Abbildung 4: leistungsbereich
 
@@ -683,7 +719,7 @@ XML-Code 13: hinweis
 | REFERENZIERTE DOKUMENTE |  |
 |---|---|
 | Referenz | Dokument |
-| KBV_ITA_VGEX_eHD | ehd https://update.kbv.de/ita-update/Medizinische- |
+| KBV_ITA_VGEX_eHD | ehd  https://update.kbv.de/ita-update/Medizinische- |
 
 **Ansprechpartner:**
 

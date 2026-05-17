@@ -33,26 +33,19 @@ Berlin, den 10. März 2026
 
 ---
 
-Für die Unfallversicherungsträger:
+| Für die |  | Unfallversicherungsträger: | |  |  |  |
+|---|---|---|---|---|---|---|
+|  | _______________________ | |  |  |  |  |
+| Dr. | Edlyn Höller |  |  |  |  |  |
+| Für | die Kassenärztliche |  | Bundesvereinigung: |  |  |  |
+|  | ________________________ | |  |  |  |  |
+| Dr. | Andreas Gassen |  |  |  |  |  |
+| Für die | Sozialversicherung | | für Landwirtschaft, | Forsten | und Gartenbau | als landwirtschaftliche |
+|  | Berufsgenossenschaft | (SVLFG) | |  |  |  |
+|  |  | _______________________________ | |  |  |  |
+| Dr. | Marion Baierl |  |  |  |  |  |
 
-Dr. Edlyn Höller
-
-Für die Kassenärztliche Bundesvereinigung:
-
-Dr. Andreas Gassen
-
-Für die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau als landwirtschaftliche
-
-Berufsgenossenschaft (SVLFG)
-
-Dr. Marion Baierl
-
-_______________________
-
-________________________
-
-_______________________________
-
+Für die Unfallversicherungsträger: Dr. Edlyn Höller Für die Kassenärztliche Bundesvereinigung: Dr. Andreas Gassen Für die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau als landwirtschaftliche Berufsgenossenschaft (SVLFG)  Dr. Marion Baierl
 
 ---
 
@@ -677,7 +670,7 @@ Nummer Nummer - *nicht besetzt*
 
 | Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
 |---|---|---|---|---|---|
-| 19.2 | 0,47 | 0,47 |  |  |  |
+| 192 | 0,47 | 0,47 |  |  |  |
 
 *Elektronische Übermitteilung eines Arztberichtes an den Unfallversicherungsträger*
 
@@ -1095,7 +1088,7 @@ Nummer
 
 | Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
 |---|---|---|---|---|---|
-| 34.00 |  | 105,02 |  |  |  |
+| 3400 |  | 105,02 |  |  |  |
 
 *Arthroskopie als diagnostische Maßnahme einschließlich*
 
@@ -1134,7 +1127,7 @@ Nummer
 
 | Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
 |---|---|---|---|---|---|
-| 340.1 |  | 35,00 |  |  |  |
+| 3401 |  | 35,00 |  |  |  |
 
 *Zuschlag zur Nr. 3400 für im Rahmen der ambulanten arthroskopischen Leistung vom*  *Operateur verwendeten Verbrauchsmaterialen für den einmaligen Gebrauch.*
 
@@ -1146,7 +1139,7 @@ Nummer
 
 | Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
 |---|---|---|---|---|---|
-| 34.10 |  | 314,75 |  |  |  |
+| 3410 |  | 314,75 |  |  |  |
 
 *Resezierende, entfernende arthroskopische Operation eines Gelenkes*  *einschließlich*
 
@@ -1189,7 +1182,7 @@ Nummer
 
 | Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
 |---|---|---|---|---|---|
-| 34.11 |  | 50,00 |  |  |  |
+| 3411 |  | 50,00 |  |  |  |
 
 *Zuschlag zur Nr. 3410 für im Rahmen der ambulanten arthroskopischen Leistung vom*  *Operateur verwendeten Verbrauchsmaterialen für den einmaligen Gebrauch.*
 
@@ -1203,7 +1196,7 @@ Nummer
 
 | Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
 |---|---|---|---|---|---|
-| 34.20 |  | 490,38 |  |  |  |
+| 3420 |  | 490,38 |  |  |  |
 
 *Arthroskopisch rekonstruktive, erhaltende Operation an einem Gelenk*  *einschließlich*
 
@@ -1250,7 +1243,7 @@ Nummer
 
 | Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
 |---|---|---|---|---|---|
-| 342.1 |  | 150,00 |  |  |  |
+| 3421 |  | 150,00 |  |  |  |
 
 *Zuschlag zur Nr. 3420 für im Rahmen der ambulanten arthroskopischen Leistung vom*  *Operateur verwendeten Verbrauchsmaterialen für den einmaligen Gebrauch.*
 
@@ -1264,13 +1257,13 @@ Nummer
 
 | Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
 |---|---|---|---|---|---|
-| 342.2 |  | 100,51 |  |  |  |
+| 3422 |  | 100,51 |  |  |  |
 
 *Zuschlag zu der Leistung nach Nr. 3420 für einen weiteren in derselben Operation*  *zusätzlichen rekonstruktiven arthroskopischen Eingriff*
 
 | Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
 |---|---|---|---|---|---|
-| 34.30 |  | 944,93 |  |  |  |
+| 3430 |  | 944,93 |  |  |  |
 
 *Arthroskopische Operation mit primärer Naht, Reinsertion, Rekonstruktion oder plastischem*  *Ersatz eines Bandes/einer Sehne/eines Labrums/eines Diskus, einer Kapsel oder die*  *Implantation von autologem, allogenem oder alloplastischen Gewebe oder Material an einem*  *Gelenk oder Refixation eines osteochondralen Fragmentes oder einer Fraktur oder*  *Stabilisierung des ACG durch Fixationsverfahren (z.B. VKB oder HKB, RM*
 
@@ -1319,7 +1312,7 @@ Nummer
 
 | Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
 |---|---|---|---|---|---|
-| 34.31 |  | 200,00 |  |  |  |
+| 3431 |  | 200,00 |  |  |  |
 
 *Zuschlag zur Nr. 3430 für im Rahmen der ambulanten arthroskopischen Leistung vom*  *Operateur verwendeten Verbrauchsmaterialen für den einmaligen Gebrauch.*
 
@@ -1333,13 +1326,13 @@ Nummer
 
 | Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
 |---|---|---|---|---|---|
-| 34.32 |  | 144,01 |  |  |  |
+| 3432 |  | 144,01 |  |  |  |
 
 *Zuschlag zu der Nr. 3430 für die Entnahme körpereigener(n) Sehne(n) für Bandoperationen*  *an einem Gelenk einschließlich aller Maßnahmen der Vorbereitung und Versorgung der*  *Entnahmestelle.*    *Unabhängig der Anzahl und des Umfangs der Aufbereitung des entnommenen Materials*  *kann die Leistung bei der Entnahme an einem Bein nur einmal abgerechnet werden. Erfolgt*  *die Entnahme an beiden Beinen, weil an einem Bein nicht ausreichend Material vorhanden*  *ist, kann die Leistung ein zweites Mal abgerechnet werden.*
 
 | Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
 |---|---|---|---|---|---|
-| 34.33 |  | 150,00 |  |  |  |
+| 3433 |  | 150,00 |  |  |  |
 
 *Zuschlag zu der Leistung nach Nr. 3430 für einen weiteren in derselben Operation*  *zusätzlichen rekonstruktiven arthroskopischen Eingriff.*
 
@@ -1347,7 +1340,7 @@ Nummer
 
 | Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
 |---|---|---|---|---|---|
-| 34.34 |  | 34,75 |  |  |  |
+| 3434 |  | 34,75 |  |  |  |
 
 
 ---
@@ -1356,13 +1349,13 @@ Nummer
 
 | Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
 |---|---|---|---|---|---|
-| 34.35 |  | 171,42 |  |  |  |
+| 3435 |  | 171,42 |  |  |  |
 
 *Zuschlag für eine arthroskopische Operation nach Nr. 3430 unter Verwendung von*  *autogenem Material incl. der Spongiosa Transplantation*
 
 | Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
 |---|---|---|---|---|---|
-| 34.40 |  | 522,71 |  |  |  |
+| 3440 |  | 522,71 |  |  |  |
 
 *Vorbereitende arthroskopische Operation für eine zukünftig geplante rekonstruktive*  *Arthroskopie an einem Gelenk*
 
@@ -1404,7 +1397,7 @@ Nummer
 
 | Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
 |---|---|---|---|---|---|
-| 34.41 |  | 150,00 |  |  |  |
+| 3441 |  | 150,00 |  |  |  |
 
 *Zuschlag zur Nr. 3440 für im Rahmen der ambulanten arthroskopischen Leistung vom*  *Operateur verwendeten Verbrauchsmaterialen für den einmaligen Bedarf.*
 
@@ -1421,18 +1414,18 @@ Nummer
 
 | Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
 |---|---|---|---|---|---|
-| 34.42 |  | 34,75 |  |  |  |
+| 3442 |  | 34,75 |  |  |  |
 
 *Zuschlag für eine arthroskopische Operation nach Nr. 3440 unter Verwendung von*  *autologem oder alloplastischem Gewebe oder Material*
 
 | Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
 |---|---|---|---|---|---|
-| 34.43 |  | 128,30 |  |  |  |
+| 3443 |  | 128,30 |  |  |  |
 
 *Zuschlag für eine arthroskopische Operation nach Nr. 3440 unter Verwendung von*  *autogenem Material incl. der Spongiosa Transplantation*
 
 | Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
 |---|---|---|---|---|---|
-| 34.44 |  | 130,00 |  |  |  |
+| 3444 |  | 130,00 |  |  |  |
 
 *Zuschlag zu der Nr. 3440 für die Entnahme von autologem Knorpel zum Anzüchten eines*  *körpereigenen Ersatzes.*

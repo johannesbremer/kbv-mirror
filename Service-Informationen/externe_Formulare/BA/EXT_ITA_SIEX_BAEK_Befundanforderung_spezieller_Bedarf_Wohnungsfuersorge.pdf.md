@@ -22,7 +22,7 @@ AM 6-ÄD – 1900.8_Befundbericht_BÄK_spezieller_Bedarf_Wohnungsfürsorge_2
 
 regelmäßig [ ]
 
-1.12
+1. 12
 
 # 17 12.2021
 
@@ -61,7 +61,9 @@ Medizinische Unterlagen können ggf. angefordert werden bei: [ ]
 
 **-Entlassungsberichte, Reha**
 
-__________________________  Ort, Datum 12
+__________________________  Ort, Datum
+
+AM 6-ÄD – 1900.8_Befundbericht_BÄK_spezieller_Bedarf_Wohnungsfürsorge_21. 12
 
 **-Entlassungsberichte, Gutachten u. ä.) als**
 
@@ -81,7 +83,7 @@ An den
 | ¹Rechnungsnummer: |  |
 |---|---|
 | Rechnungsdatum: |  |
-| Steuernummer/  Ust-Id-Nr.: |  |
+| Steuernummer/   Ust-Id-Nr.: |  |
 | ¹Liquidations-ID ÄD: |  |
 
 Ärztlichen Dienst der
@@ -92,9 +94,9 @@ Agentur für Arbeit
 
 Für meine Bemühungen erlaube ich mir zu berechnen:
 
-| Fotokopierkosten:  0,50 € 0,15 € | ____  Seiten á 0,15 € | = = | __________  €    __________  € |
+| Fotokopierkosten:   0,50 € 0,15 € | ____  Seiten á  0,15 € | =  = | __________  €     __________  € |
 |---|---|---|---|
-| Ausstellung des vollständigen Befundberichts und Übermittlung an den Ärztlichen Dienst: | 32,50 € | = | € |
+| Ausstellung des vollständigen Befundberichts und  Übermittlung an den Ärztlichen Dienst: | 32,50 € | = | € |
 | Portokosten: |  | = | € |
 | Gesamtsumme: |  | = | € |
 |  |  |  |  |
@@ -105,7 +107,7 @@ AM 6-ÄD – 1900.8_Befundbericht_BÄK_spezieller_Bedarf_Wohnungsfürsorge_21.07
 
 | Kontoinhaber/in |
 |---|
-| IBAN:  D E 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 |
+| IBAN:   D  E  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20 |
 | BIC: |
 | Bank/Sparkasse: |
 

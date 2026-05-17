@@ -1,6 +1,8 @@
-Krankenkasse bzw. Kostenträger
-
-Name, Vorname des Versicherten
+| Krankenkasse | bzw. Kostenträger |  |
+|---|---|---|
+| Name, | Vorname des Versicherten |  |
+| Kassen-Nr. |  | Versicherten-Nr. |
+| Vertragsarzt-Nr. |  | VK gültig bis |
 
 ## Fragebogen
 
@@ -8,17 +10,9 @@ geb. am
 
 ## der Hörbehinderung
 
-Kassen-Nr.
-
-Versicherten-Nr.
-
 Status.
 
 Bearbeiter
-
-Vertragsarzt-Nr.
-
-VK gültig bis
 
 Datum
 
@@ -152,24 +146,24 @@ G
 
 G
 
-G
+Krankenkasse bzw. Kostenträger Name, Vorname des VersichertenG
 
 
 ---
 
-**in** **einem** **kleinen** **Büroraum** **Fragen** **stelle**
+#### Wenn ich in einem kleinen Büroraum Fragen stelle
 
-#### oder beantworte, habe  Schwierigkeiten,
+#### oder beantworte, habe ich Schwierigkeiten,
 
 10
 
 #### dem Gespräch zu folgen.
 
-**im** **Kino** **oder** **Theater** **bin** **und** **die** **Leute**
+**Wenn** **ich** **im** **Kino** **oder** **Theater** **bin** **und** **die** **Leute**
 
-**um** **mich** **herum** **flüstern** **und**  **Papier** **rascheln,**
+**um** **mich** **herum** **flüstern** **und** **mit** **Papier** **rascheln,**
 
-11 **kann**  **dem** **Dialog** **immer** **noch** **folgen.**
+11 **kann** **ich** **dem** **Dialog** **immer** **noch** **folgen.**
 
 **Wenn** **ich** **mich** **mit** **einem** **Freund** **in** **einer** **ruhigen**
 
@@ -241,9 +235,9 @@ Unterschrift des Patienten
 
 Datum
 
-A
+## B CDA
 
-A
+## B CDA
 
 ## B CDA
 
@@ -315,7 +309,7 @@ Hälf
 
 immer
 
-HäufigIn
+der  HäufigIn
 
 FastImmer
 

@@ -72,7 +72,7 @@ Die vorliegende Schnittstellenbeschreibung definiert das Format der SDOPS der KB
 
 Die Datei wird den Softwarehäusern vom Dezernat Digitalisierung und IT der KBV zur Nutzung in der vertragsärztlichen Versorgung zur Verfügung gestellt. Für Fragen zu den Nutzungszwecken steht das Dezernat Vergütung und Gebührenordnung über den Servicedesk der KBV (EMail:  4005-2077) zur Verfügung.
 
-3 12
+Seite 3 von 12 / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozedurenschlüsselstammdatei) / Version 1.00
 
 [KBVServiceDesk@KBV.de](mailto:KBVServiceDesk@KBV.de), Telefon: 030 /
 
@@ -157,7 +157,7 @@ Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, dere
 
 folgenden Kapiteln kurz erläutert werden.
 
-4 12
+Seite 4 von 12 / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozedurenschlüsselstammdatei) / Version 1.00
 
 
 ---
@@ -178,7 +178,9 @@ Symbol 2.5.3 Sonstige Symbole
 
 Es werden außerdem folgende Diagramm-Symbole verwendet:
 
-Symbol 5 12
+Symbol
+
+Seite 5 von 12 / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozedurenschlüsselstammdatei) / Version 1.00
 
 Symbol
 
@@ -223,7 +225,9 @@ Datentyp Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen Daten
 
 ---
 
-Symbol 6 12
+Symbol
+
+Seite 6 von 12 / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozedurenschlüsselstammdatei) / Version 1.00
 
 Beschreibung
 
@@ -264,7 +268,9 @@ ehd:ehd>
 
 ### <body>
 
-### Der Namensraum für die ehd-Schnittstelle ist zwingend: 7 12
+### Der Namensraum für die ehd-Schnittstelle ist zwingend:
+
+Seite 7 von 12 / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozedurenschlüsselstammdatei) / Version 1.00
 
 ### Im XML-File wird die Versionsnummer zur zugrundeliegenden ehd-
 
@@ -293,7 +299,7 @@ Für die Beschreibung der Inhalte und deren Ausprägungen der header-Elemente wi
 
 Version der ehd-Schnittstellenbeschreibung [1] verwiesen.
 
-8 12
+Seite 8 von 12 / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozedurenschlüsselstammdatei) / Version 1.00
 
 
 ---
@@ -332,7 +338,9 @@ opscode V="1-100" DN="Klinische Untersuchung in Allgemeinanästhesie"> gueltigke
 
 kzseite ... />
 
-opscode 9 12
+opscode
+
+Seite 9 von 12 / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozedurenschlüsselstammdatei) / Version 1.00
 
 
 ---
@@ -375,7 +383,7 @@ oder
 
 kzseite V="J" />
 
-10 12
+Seite 10 von 12 / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozedurenschlüsselstammdatei) / Version 1.00
 
 
 ---
@@ -412,17 +420,15 @@ kz115b_info V="Erwachsene: 1, Neugeborene, Säuglinge, Kleinkinder, Kinder und
 
 Jugendliche: 2" />
 
-11 12
+Seite 11 von 12 / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozedurenschlüsselstammdatei) / Version 1.00
 
 
 ---
 
-## REFERENZIERTE DOKUMENTE IN SDOPS
+| 6. | REFERENZIERTE | |  | DOKUMENTE | IN SDOPS |  |  |
+|---|---|---|---|---|---|---|---|
+| Referenz |  |  | Dokument |  |  |  |  |
+|  | KBV_ITA_VGEX_eHD | ehd | - eHealthData, | Richtlinie |  |  |  |
+| Seite 12 von | 12 / KBV / | Stammdateien | der KBV - | SDOPS (Operationen- | und Prozedurenschlüsselstammdatei) | / | Version 1.00 |
 
-Referenz
-
-KBV_ITA_VGEX_eHD 12 12
-
-Dokument
-
-ehd - eHealthData, Richtlinie
+REFERENZIERTE DOKUMENTE IN SDOPS  / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozedurenschlüsselstammdatei) / Version 1.00 ehd - eHealthData, Richtlinie

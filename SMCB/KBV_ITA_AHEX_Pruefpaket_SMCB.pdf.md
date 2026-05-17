@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 1.5. SEPTEMBER 2025  VERSION: 2.0  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 15. SEPTEMBER 2025   VERSION: 2.0   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # PRÜFPAKET SEKTORZULASSUNG SMC -B
@@ -289,7 +289,7 @@ Dateien und Unterlagen in der jeweils aktuellen Version
 | [KBV_ITA_VGEX_Anforderungskatalog_SMC | Liste der fachlichen Anforderungen für das |
 | [KBV_ITA_VGEX_Schnittstelle_SMCB] | Nutzung der sektorübergreifenden LEO-TSP- |
 | [gemZul_Prod_X509] | Zulassungsverfahren der gematik für Anbieter von |
-| [gemProdT_X.509_TSP_nonQES_SMC-B] | Produkttypsteckbrief der gematik für Anbieter von www.gematik.de |
+| [gemProdT_X.509_TSP_nonQES_SMC-B] | Produkttypsteckbrief der gematik für Anbieter von  www.gematik.de |
 
 **Ansprechpartner:**
 

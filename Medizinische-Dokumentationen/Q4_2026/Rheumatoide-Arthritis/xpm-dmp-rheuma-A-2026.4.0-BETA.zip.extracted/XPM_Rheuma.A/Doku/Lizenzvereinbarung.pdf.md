@@ -179,7 +179,7 @@ e-
 
 (1) Die KBV haftet für alle Schäden, die aufgrund grob fahrlässigen oder vorsätzlichen Verhaltens
 
-oder durch eine schuldhafte Verletzung von Leben, Körper oder Gesundheit entstehen, oder für   **2 3**
+oder durch eine schuldhafte Verletzung von Leben, Körper oder Gesundheit entstehen, oder für   **2** von **3**
 
 
 ---
@@ -238,4 +238,4 @@ gung der KBV abgetreten werden.
 
 Kassenärztliche Bundesvereinigung
 
-**3 3**
+**3** von **3**

@@ -5,7 +5,7 @@
 
 ## [KBV_ITA_VGEX_ANFORDERUNGSKATALOG_ICD
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 15. AUGUST 2025  VERSION: 3.10  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 15. AUGUST 2025   VERSION: 3.10   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 **-10-GM**
@@ -195,11 +195,11 @@ Medizinprodukte Gesundheitsprobleme, 10. Revision, German Modification deutschen
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 3.10 | 15.08.2025 | KBV | › | Relaunch KBV- | Alle |
-| 3.09 | 15.05.2024 | KBV | › › › › |  | 48   33  20  52 |
+| 3.09 | 15.05.2024 | KBV | › › › › |  | 48      33    20    52 |
 | 3.08 | 15.08.2023 | KBV | › |  | 51 |
-| 3.07 | 15.02.2023 | KBV | › › › › |  | 13   16  18  28 |
+| 3.07 | 15.02.2023 | KBV | › › › › |  | 13      16    18    28 |
 | 3.06 | 15.02.2023 | KBV | › | Verbesserung der | 53 |
-| 3.05 | 13.05.2022 | KBV | › Änderung Begründung Seite › Relaunch KBV- 33  Alle 3.09 15.05.2024 KBV ›  52 DOKUMENTENHISTORIE Die Änderungen vom 15.08.2025 treten zum 01.10.2025 in Kraft. Version Datum KBV › › 33 3.09 15.05.2024 KBV › › › ›  48   33  20  52 3.08 15.08.2023 DOKUMENTENHISTORIE |  | 49 |
+| 3.05 | 13.05.2022 | KBV | › Änderung  Begründung  Seite  › Relaunch KBV- 33    Alle  3.09  15.05.2024  KBV  ›   52  DOKUMENTENHISTORIE  Die Änderungen vom 15.08.2025 treten zum 01.10.2025 in Kraft.  Version  Datum  KBV  › › 33  3.09  15.05.2024  KBV  › › › ›   48      33    20    52  3.08  15.08.2023  DOKUMENTENHISTORIE |  | 49 |
 
 Anpassung und Aktualisierung von Verlinkungen zu Websites und Website referenzierten Dokumenten KP10-720 Klarstellung der Anforderung KP10-540 Akzeptanzkriterium ergänzt O10-300 Akzeptanzkriterium ergänzt KP10-750 Klarstellung der Anforderung KP10-740 Korrektur eines Verweises KP10-200 Klarstellung der Anforderung KP10-240 Ergänzung der Anforderung KP10-250 Ergänzung der Anforderung P10-470 Hinweis ergänzt KP10-760 Ergänzung der Anzeige die Praxis Anforderung KP10-730 Anforderung klargestellt
 
@@ -252,7 +252,7 @@ Optionale Funktionen sind wie folgt gekennzeichnet:
 |---|---|
 | Eindeutige Ident- | Funktionsbezeichnung |
 
-Nummer Pn-nn  P4-10 Nummer  KPn-nn KP4-15 Nummer On-nn z.B.  O4-20
+Nummer Pn-nn  P4-10 Nummer  KPn-nn KP 4-15 Nummer On-nn z.B.  O4-20
 
 
 ---
@@ -299,7 +299,7 @@ Umsetzung nicht dem Sinn und Zweck des Anforderungskatalogs bzw. der Kodiervorga
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
-|  |  |  | 1. 2. 3. 2 2.1 Behandlungsdiagnosen In den Abrechnungsunterlagen für die vertragsärztlichen Leistungen 2 |  |  |
+|  |  |  | 1. 2. 3. 2 2.1 Behandlungsdiagnosen  In den Abrechnungsunterlagen für die vertragsärztlichen Leistungen 2 |  |  |
 
 Akutdiagnosen:  Dieser Begriff fasst vorübergehende Erkrankungen, Störungen oder Zustände zusammen, die im Abrechnungszeitraum aufgrund ihres neuen oder erneuten Auftretens die Definition einer Behandlungsdiagnose erfüllen, z.B. Infekt der oberen Atemwege.  Diese Diagnosen werden regulär in der KVDT Feldkennung (FK) 6001 übertragen. Dauerdiagnosen:  Dieser Begriff fasst dauerhaft fortbestehende Erkrankungen, Störungen oder Zustände zusammen, die regelhaft  über mehrere Abrechnungszeiträume hinweg die Definition einer Behandlungsdiagnose erfüllen, z.B. Diabete s mellitus. Diese Diagnosen werden regulär in der FK 3673 übertragen.  Anamnestische Diagnosen:  Dieser Begriff fasst dauerhaft fortbestehende oder zurückliegende Erkrankungen, Störungen oder Zustände zusammen , die nicht regelhaft  in jedem Abrechnungszeitraum die Definition einer Behandlungsdiagnose erfüllen. , z.B. Allergien. Sollte eine Anamnestische Diagnose in einem Abrechnungszeitraum die Definition einer Behandlungsdiagnose erfüll en, dann wird sie ausschließlich in diesem Abrechnungszeitraum in der FK 3673 übertragen.  ALLGEMEINE REGELUNGEN ZUR ANWENDUNG DES DIAGNOSENSCHLÜSSELS NACH ICD-10-GM BEGRIFFSDEFINITIONEN  sind ausschließlich diejenigen Diagnosen zu übertragen, welche im Abrechnungszeitraum im Zusammenhang mit der Veranlassung einer vertragsärztlichen Leistung stehen. Für diese Diagnosen wird analog zu den Kodiervorgaben der KBV im Anforderungskatalog der Begriff „Behandlungsdiagnose“  verwendet. Sollten in den Softwaresystemen anderslautende Begriffe wie z. B. „Abrechnungsdiagnose“ geläufiger sein, ist im Folgendem der Begriff „Behandlungsdiagnose“ hierfür als stellvertretend zu verstehen. im jeweiligen Abrechnungszeitraum die Definition einer Behandlungsdiagnose. Für die korrekte Übertragung von ausschließlich Behandlungsdiagnosen in die Abrechnungsunterlagen sind die Diagnosen einer der folgenden drei Kategorien zu zuordnen:
 
@@ -308,11 +308,11 @@ Akutdiagnosen:  Dieser Begriff fasst vorübergehende Erkrankungen, Störungen od
 |  |  |  | P10-80 | Verbindliche Verwendung der Begr | Die Software muss sicherstellen, dass in Anwenderdialogen im Zusammenhang mit der Dokumentation und |
 |---|---|---|---|---|---|
 | Begründung: | Die einheitliche Verwendung der | Akzeptanzkriterium: | 1. | 2. |  |
-| 2.2 |  | PFLICHTFUNKTION | P10-90 | Kennzeichnung und Übertragung von | Die Software muss sicherstellen, dass im Rahmen der Abrechnung ausschließlich Behandlungsdiagnosen Begründung:  Gemäß § 295, Abs. 1, Satz 1, 2, 3 SGB V sind Vertragsärzte und Vertragspsychotherapeuten Akzeptanzkriterium: 1. 2. 3. Hinweis: Zu welchem Zeitpunkt die Funktionalität zur Auswahl der Behandlungsdiagnose(n) im Softwaresystem Möglich wäre hier bspw. die Auswahl, Zuordnung oder Erfassung zutreffender Beha |
+| 2.2 |  | PFLICHTFUNKTION | P 10-90 | Kennzeichnung und Übertragung von | Die Software muss sicherstellen, dass im Rahmen der Abrechnung ausschließlich Behandlungsdiagnosen  Begründung:   Gemäß § 295, Abs. 1, Satz 1, 2, 3 SGB V sind Vertragsärzte und Vertragspsychotherapeuten  Akzeptanzkriterium:  1. 2. 3. Hinweis:  Zu welchem Zeitpunkt die Funktionalität zur Auswahl der Behandlungsdiagnose(n) im Softwaresystem  Möglich wäre hier bspw. die Auswahl, Zuordnung oder Erfassung zutreffender Beha |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
-|  |  |  | P10-80 Verbindliche Verwendung der Begr Die Software muss sicherstellen, dass in Anwenderdialogen im Zusammenhang mit der Dokumentation und 1. 2. 1. 2. 3.  2.2 PFLICHTFUNKTION  Zu welchem Zeitpunkt die Funktionalität zur Auswahl der Behandlungsdiagnose(n) im Softwaresystem Möglich wäre hier bspw. die Auswahl, Zuordnung oder Erfassung zutreffender Beha PFLICHTFUNKTION  PFLICHTFUNKTION  P10-90 Begründung:  1. 2.2 PFLICHTFUNKTION   P10-90 Kennzeichnung und Übertragung von Die Software muss sicherstellen, dass im Rahmen der Abrechnung ausschließlich Behandlungsdiagnosen Begründung:  Gemäß § 295, Abs. 1, Satz 1, 2, 3 SGB V sind Vertragsärzte und Vertragspsychotherapeuten Akzeptanzkriterium: 1. 2. 3. Hinweis: Zu welchem Zeitpunkt die Funktionalität zur Auswahl der Behandlungsdiagnose(n) im Softwaresystem Möglich wäre hier bspw. die Auswahl, Zuordnung oder Erfassung zutreffender Beha |  |  |
+|  |  |  | P10-80  Verbindliche Verwendung der Begr Die Software muss sicherstellen, dass in Anwenderdialogen im Zusammenhang mit der Dokumentation und  1. 2. 1. 2. 3.   2.2 PFLICHTFUNKTION   Zu welchem Zeitpunkt die Funktionalität zur Auswahl der Behandlungsdiagnose(n) im Softwaresystem  Möglich wäre hier bspw. die Auswahl, Zuordnung oder Erfassung zutreffender Beha PFLICHTFUNKTION    PFLICHTFUNKTION   P 10-90  Begründung:   1. 2.2 PFLICHTFUNKTION     P 10-90  Kennzeichnung und Übertragung von  Die Software muss sicherstellen, dass im Rahmen der Abrechnung ausschließlich Behandlungsdiagnosen  Begründung:   Gemäß § 295, Abs. 1, Satz 1, 2, 3 SGB V sind Vertragsärzte und Vertragspsychotherapeuten  Akzeptanzkriterium:  1. 2. 3. Hinweis:  Zu welchem Zeitpunkt die Funktionalität zur Auswahl der Behandlungsdiagnose(n) im Softwaresystem  Möglich wäre hier bspw. die Auswahl, Zuordnung oder Erfassung zutreffender Beha |  |  |
 
 iffe „Akutdiagnose“, „Dauerdiagnose“ „Anamnesti sche Diagnose “ in den Anwenderdialogen Abrechnung ambulanter Leistungen die Begriffe Akutdiagnose Dauerdiagnose Anamnestische Diagnose  entsprechend der Begriffsdefinitionen verwendet werden.  Begriffe „Akutdiagnose“, „Dauerdiagnose“ und „Anamnestische Diagnose in den Anwenderdialogen sorgt für die eindeutige Wiedererkennung sowie korrekte Einordnung und Übertragung von Diagnosen. Ebenso wird durch eine einheitliche Verwendung von Begriffen die Kommunikation zwischen den Vertragsärzten und den Kassenärztlichen Vereinigungen verbessert. Die Software muss sicherstellen, dass in den Anwenderdialogen Dokumentation und Abrechnung ambulanter Leistungen die Begriffe Akutdiagnose „Dauerdiagnose“ Anamnestische Diagnose  verwendet werden.  Die Software muss sicherstellen, dass dem Anwender bei Bedarf die Definitionen der Begriffe Akutdiagnose „Dauerdiagnose“ oder „ Anamnestische Diagnose  angezeigt werden (z.B. als Hinweistext). ÜBERTRAGUNG VON BEHANDLUNGSDIAGNOSEN Diagnosen als Behandlungsdiagnosen übertragen werden. verpflichtet, Diagnosen nach ICD-10-GM zur Begründung der ärztlichen Leistungen im Rahmen der Abrechnung zu verschlüsseln. Pro Behandlungsfall muss mindestens eine Behandlungsdiagnose in den KVDT-Feldern 6001 oder 3673 in der Abrechnung übertragen werden. Die Software darf nicht automatisch alle historisch vorliegenden Diagnosen eines Patienten als Behandlungsdiagnosen kennzeichnen und in die Abrechnung übertragen. Die Software muss dem Anwender die Behandlungsdiagnosen, die in die Abrechnung übertragen werden, deutlich anzeigen.  umgesetzt wird und wie die Software den Anwender unterstützt, bleibt dem Softwarehersteller überlassen. Siehe auch unter Begriffsdefinitionen die Ausführungen zu „ diagnosen“. durch den Anwender in Zusammenhang mit der ohnehin datumsbezogenen Speicherung der dokumentierten Leistungen. | PFLICHTFUNKTION |  |
 |---|---|
@@ -320,7 +320,7 @@ iffe „Akutdiagnose“, „Dauerdiagnose“ „Anamnesti sche Diagnose “ in d
 
 | PFLICHTFUNKTION |  |
 |---|---|
-| P10-90 | Kennzeichnung und Übertragung von |
+| P 10-90 | Kennzeichnung und Übertragung von |
 
 
 ---
@@ -328,11 +328,11 @@ iffe „Akutdiagnose“, „Dauerdiagnose“ „Anamnesti sche Diagnose “ in d
 |  | PFLICHTFUNKTION |  |  |  | P10-100 |
 |---|---|---|---|---|---|
 | Übertragung von Akutdiagnosen als Behandlungsdiagnosen mit Verschlüsselung nach ICD-10- | Die Software muss sicherstellen, dass Akutdiagnosen als Behandlungsdiagnosen im Rahmen der | Begründung: | Nach § 295 SGB V sind Behandlungsdiagnosen im Rahmen der | Akzeptanzkriterium: | 1. |
-| 3). |  | 2. | 3.  PFLICHTFUNKTION |  | P10-110 Diagnosensicherheit bei Akutdiagnosen Die Software muss sicherstellen, dass eine Angabe der Diagnosensicherheit bei Akutdiagnosen Begründung: Das Zusatzkennzeichen für die Diagnosensicherheit Akzeptanzkriterium: 1. 2. V |
+| 3). |  | 2. | 3.   PFLICHTFUNKTION |  | P10-110  Diagnosensicherheit bei Akutdiagnosen Die Software muss sicherstellen, dass eine Angabe der Diagnosensicherheit bei Akutdiagnosen Begründung:  Das Zusatzkennzeichen für die Diagnosensicherheit  Akzeptanzkriterium:  1. 2. V |
 | G  = für eine gesicherte Diagnose | A  = für eine ausgeschlossene Diagnose | Z |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
-|  |  |  | P10-100 Nach § 295 SGB V sind Behandlungsdiagnosen im Rahmen der Akzeptanzkriterium: Die Software muss sicherstellen, dass eine Angabe der Diagnosensicherheit bei Akutdiagnosen Begründung: Das Zusatzkennzeichen für die Diagnosensicherheit 1. 3). 2. 3. 1. 2. Unter historischen Diagnosen nach Akzeptanzkriterium 2 werden 2.3 PFLICHTFUNKTION 2. 3. PFLICHTFUNKTION Die Software muss sicherstellen, dass eine Angabe der Diagnosensicherheit bei Akutdiagnosen 3). 2. 3.  PFLICHTFUNKTION  P10-110 Diagnosensicherheit bei Akutdiagnosen Die Software muss sicherstellen, dass eine Angabe der Diagnosensicherheit bei Akutdiagnosen Begründung: Das Zusatzkennzeichen für die Diagnosensicherheit Akzeptanzkriterium: 1. 2. V G  = für eine gesicherte Diagnose A  = für eine ausgeschlossene Diagnose Unter historischen Diagnosen nach Akzeptanzkriterium 2 werden |  |  |
+|  |  |  | P10-100  Nach § 295 SGB V sind Behandlungsdiagnosen im Rahmen der  Akzeptanzkriterium:  Die Software muss sicherstellen, dass eine Angabe der Diagnosensicherheit bei Akutdiagnosen Begründung:  Das Zusatzkennzeichen für die Diagnosensicherheit  1. 3).  2. 3. 1. 2. Unter historischen Diagnosen nach Akzeptanzkriterium 2 werden  2.3 PFLICHTFUNKTION  2. 3. PFLICHTFUNKTION  Die Software muss sicherstellen, dass eine Angabe der Diagnosensicherheit bei Akutdiagnosen 3).  2. 3.   PFLICHTFUNKTION    P10-110  Diagnosensicherheit bei Akutdiagnosen Die Software muss sicherstellen, dass eine Angabe der Diagnosensicherheit bei Akutdiagnosen Begründung:  Das Zusatzkennzeichen für die Diagnosensicherheit  Akzeptanzkriterium:  1. 2. V  G  = für eine gesicherte Diagnose  A  = für eine ausgeschlossene Diagnose Unter historischen Diagnosen nach Akzeptanzkriterium 2 werden |  |  |
 
 ehemalige Akutdiagnosen verstanden. Diese ehemaligen Akutdiagnosen dürfen nicht automatisch in Abrechnung übernommen werden . Dies bedeutet im Umkehrschluss, dass Dauerdiagnosen und Anamnestische Diagnosen, welche vor der Aktualisierung der Vorgaben der Kodierunterstützung als Dauerdiagnosen oder Anamnestische Diagnosen gekennzeichnet wurden, auch zukünftig als Dauerdiagnosen oder Anamnestische Diagnosen gelten und die Anwender keine erneute Festlegung der Kategorie treffen müssen.  AKUTDIAGNOSEN GM Abrechnung mit Diagnosenschlüsseln der ICD-10-GM kodiert und übertragen werden können. ambulanten Versorgung auf Abrechnungsunterlagen für ärztliche Leistungen nach der ICD-10-GM zu verschlüsseln und zu übertragen. Die Software stellt sicher, dass zur Verschlüsselung der Akutdiagnose nur ICD-10-GM-Kodes (XML- Element ../icd_code/@V ) aus der „ICD -10-GM- Stammdatei“ der KBV verwendet werden (gemäß Kapitel Die Software überträgt mit der Abrechnung jeden ICD -10-GM-Kode (Akutdiagnosen) im Feld FK 6001. Die Software stellt sicher, dass nur die ICD-10-GM-Kodes in der Abrechnung übertragen werden, die laut den Metadaten des BfArM zur Verschlüsselung im Rahmen der Abrechnung zugelassen sind bzw. welchen das XML-Element ../abrechenbar/@V  in der ICD-10-GM-Stammdatei der KBV gleich “J“ ist.  in der Abrechnung übertragen wird. muss gemäß Bekanntmachung des Bundesministeriums für Gesundheit (BMG) im Zusammenhang mit § 295 SGB V in der vertragsärztlichen Versorgung angegeben werden (obligates Zusatzkennzeichen) Die Software stellt sicher, dass zu jeder Akutdiagnose in der FK 6001 genau ein Zusatzkennzeichen für die Diagnosensicherheit in der FK 6003 übertragen wird. Die Software stellt sicher, dass dem Zusatzkennzeichen für die Diagnosensicherheit nur einer der folgenden Werte zugeordnet wird:  = für eine Verdachtsdiagnose = für einen (symptomlosen) Zustand nach der betreffenden Diagnose | PFLICHTFUNKTION |  |
 |---|---|
@@ -352,7 +352,7 @@ ehemalige Akutdiagnosen verstanden. Diese ehemaligen Akutdiagnosen dürfen nicht
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
-|  |  |  | PFLICHTFUNKTION Weitere Informationen zur Akutdiagnose Die Software muss sicherstellen, dass zu Akutdiagnosen weitere Informationen zur Diagnose in der 2.  Begründung: Gemäß Bekanntmachung des BMG zur Verwendung der ICD-10-GM kann im Zusammenhang mit § 295 SGB Akzeptanzkriterium: 1. a) 3. a) KP10-350 in Bezug auf den ICD- 10-GM-Kode Z01.7 definiert.  1. a) b) c) 2. Gemäß Bekanntmachung des BMG zur Verwendung der ICD-10-GM kann im Zusammenhang mit § 295 SGB Akzeptanzkriterium: 1. a) i. ii. b) i. ii. c) i. ii. 2.  3. |  |  |
+|  |  |  | PFLICHTFUNKTION  Weitere Informationen zur Akutdiagnose Die Software muss sicherstellen, dass zu Akutdiagnosen weitere Informationen zur Diagnose in der  2.   Begründung:  Gemäß Bekanntmachung des BMG zur Verwendung der ICD-10-GM kann im Zusammenhang mit § 295 SGB  Akzeptanzkriterium:  1. a) 3. a) KP10-350 in Bezug auf den ICD- 10-GM-Kode Z01.7 definiert.   1. a) b) c) 2. Gemäß Bekanntmachung des BMG zur Verwendung der ICD-10-GM kann im Zusammenhang mit § 295 SGB  Akzeptanzkriterium:  1. a) i. ii. b) i. ii. c) i. ii. 2.   3. |  |  |
 
 Die Software darf das Eingabefeld der Diagnosensicherheit (Feld 6003) nicht mit einem Defaultwert belegen. Die Software muss sicherstellen, dass die Auswahl des Wertes ausschließlich manuell vom Anwender vorgenommen wird. Eine Ausnahme für dieses Akzeptanzkriterium ist in der Anforderung Abrechnung übertragen werden können. V in der ambulanten Versorgung ein Zusatzkennzeichen für die Seitenlokalisation angegeben werden (fakultatives Zusatzkennzeichen). Zudem ist die Angabe zusätzlicher Informationen zu einer Diag nose oder von Ausnahmetatbestände n für die Kodierung einer Diagnose vorgesehen für den Fall, dass sie durch Rechtsverordnung erforderlich werden. Die Software ermöglicht dem Anwender, die folgenden Angaben zu einer Akutdiagnose (FK 6001) zu erfassen und in der Abrechnung zu übertragen: Seitenlokalisation:  Es können die Werte „R“ (rechts), „L“ (links) oder „B“ ( beidseitig) erfasst werden. Der Wert der Seitenlokalisation wird in der FK 6004 übertragen.  Diagnosenerläuterung: Der Anwender muss die Möglichkeit haben , zu einer Akutdiagnose weitere erläuternde Informationen zu übertragen. Die Erläuterung wird in der FK 600 6 übertragen.  Diagnosenausnahmetatbestand:  Der Anwender muss die Möglichkeit haben, zu einer Akutdiagnose einen Ausnahmetatbestand zu übertragen.  Der Diagnosenausnahmetatbestand wird in der FK 6008 übertragen.  Die Software darf die Eingabefelder für die  Diagnosenerläuterung (FK 6006), die Seitenlokalisation (FK 6004) und den Diagnosenausnahmetatbestand (FK 6008) nicht mit einem Defaultwert belegen. Die Software muss sicherstellen, dass die Eingabe ausschließlich manuell vom Anwender vorgenommen wird. | PFLICHTFUNKTION |  |
 |---|---|
@@ -364,11 +364,11 @@ Die Software darf das Eingabefeld der Diagnosensicherheit (Feld 6003) nicht mit 
 |  |  | KONDITIONALE PFLICHTFUNKTION |  |  |  |
 |---|---|---|---|---|---|
 | KP10-200 | Kategorisierung von Diagnosen als Dauerdiagnosen oder Anamnestische Diagnosen | Die Software muss sicherstellen, dass vom Anwender die Diagnosen entsprechend ihrer Bedeutung für die | Begründung: | Die Einteilung in Dauerdiagnosen und A | Akzeptanzkriterium: |
-| 1. | a) | b) | c) |  | übernommen.  d)  2. a) |
+| 1. | a) | b) | c) |  | übernommen.   d)   2. a) |
 | b) | 3. |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
-|  |  |  | Begründung:  Die Einteilung in Dauerdiagnosen und A Akzeptanzkriterium: 1. a) b) c)  2. 2.4 Dauerdiagnosen und anamnestische Diagnosen, welche vor der Aktualisierung der Vorgaben der  b) c) übernommen.  1. a) b) c) übernommen.  d)  2. a) b) 3. 2.4 |  |  |
+|  |  |  | Begründung:   Die Einteilung in Dauerdiagnosen und A Akzeptanzkriterium:  1. a) b) c)   2. 2.4 Dauerdiagnosen und anamnestische Diagnosen, welche vor der Aktualisierung der Vorgaben der    b) c) übernommen.   1. a) b) c) übernommen.   d)   2. a) b) 3. 2.4 |  |  |
 
 DAUERDIAGNOSEN UND ANAMNESTISCHE DIAGNOSEN Kodierunterstützung als Dauerdiagnosen oder anamnestische Diagnosen gekennzeichnet wurden, gelten auch zukünftig als Dauerdiagnosen oder anamnestische Diagnosen, und  Anwender müssen für diese Diagnosen keine erneute Festlegung der Kategorie treffen. Übertragung als Behandlungsdiagnose in regelhaft behandlungsrelevante Dauerdiagnosen („Dauerdiagnosen“) und nicht regelhaft behandlungsrelevante Diagnosen („ osen“) eingeordnet werden können. namnestische Diagnosen ergibt sich aus den „Kodiervorgaben nach § 295 Abs. 4 SGB V“. Durch die Einordnung in die genannten Kategorien  wird sichergestellt, dass Diagnosen mit regelhaftem Leistungsbedarf und Diagnosen ohne regelhaften Leistungsbedarf besser voneinander unterschieden werden. Dies ist im Zusammenhang mit der Übermittlung der Behandlungsdiagnosen erforderlich. Die Software stellt sicher, dass der Anwender Diagnosen für einen Patienten als Dauerdiagnose oder als Anamnestische Diagnose kennzeichnen kann.  Im Rahmen der Kennzeichnung müssen, sofern vorhanden, die Informationen zur Diagnosensicherheit, zur Seitenlokalisation, zur Diagnosenerläuterung und zum Diagnosenausnahmetatbestand für die Wiederverwendung von der Software mitgespeichert werden. Der Anwender kann die gespeicherten Informationen jederzeit verändern. Die Software stellt dabei sicher, dass sich die Änderungen der gespeicherten Informationen nicht rückwirkend auf Vorquartale auswirken. Wenn eine Diagnose erstmalig während der Behandlung als Dauerdiagnose gekennzeichnet wird, dann wird diese gemäß den Anforderungen  KP10-230, KP10-231 und KP10-232 in die Abrechnung Wenn eine Diagnose erstmalig während der Behandlung als Anamnestische Diagnose gekennzeichnet wird, dann muss der Anwender die Möglichkeit haben zu entscheiden, ob d iese Anamnestische Diagnose in dem Quartal behandlungsrelevant ist. Wenn das der Fall ist, dann wird diese Diagnose gemäß den Anforderungen KP10-230, KP10-231 und KP10-232 in die Abrechnung übernommen. Die Software stellt sicher, dass der Anwender zwischen den Kategorien Dauerdiagnose und Anamnestische Diagnose wechseln kann.  Die Software stellt sicher, dass sich die Änderung der Kategorie nicht rückwirkend auf Vorquartale auswirkt. Die Software muss Änderungen der Kategorie bei der gesamthaften Übertragung von Dauerdiagnosen in die Abrechnung nach KP10 -240 bzw. bei der Übernahme von Anamnestischen Diagnosen nach KP10-250 berücksichtigen. Die Software stellt sicher, dass der Anwender die Kennzeichnung als Dauerdiagnose und/oder Anamnestische Diagnose wieder aufheben kann. Die Software darf diese nicht mehr gekennzeichneten Diagnosen in der Folge nicht mehr nach KP10-240 bzw. KP10-250 zur Übernahme in die Abrechnung anbieten. | KONDITIONALE PFLICHTFUNKTION |  |
 |---|---|
@@ -380,11 +380,11 @@ DAUERDIAGNOSEN UND ANAMNESTISCHE DIAGNOSEN Kodierunterstützung als Dauerdiagnos
 | Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme, die ausschließlich: | › | › | › | verwendet werden. |  |
 |---|---|---|---|---|---|
 |  | KONDITIONALE PFLICHTFUNKTION |  |  |  | KP10-201 |
-| medizinischen Patientendokumentation | Die Software muss eine eindeutige Kennzeichnung der | Begründung: | Durch die Kennzeichnung ist ersichtlich, ob es sich bei der dokumentierten Akzeptanzkriterium: 1. KP10-200 in der medizinischen Patientendokumentation unterstützen. |  | Bedingung: Ausgenommen von der Umsetzung dieser › › › verwendet werden.  KONDITIONALE PFLICHTFUNKTION |
+| medizinischen Patientendokumentation | Die Software muss eine eindeutige Kennzeichnung der | Begründung: | Durch die Kennzeichnung ist ersichtlich, ob es sich bei der dokumentierten  Akzeptanzkriterium: 1. KP10-200 in der medizinischen Patientendokumentation unterstützen. |  | Bedingung:  Ausgenommen von der Umsetzung dieser  › › › verwendet werden.    KONDITIONALE PFLICHTFUNKTION |
 |  | KP10-230 | mit Verschlüsselung nach ICD-10-GM | Die Software muss sicherstellen, dass Dauerdiagnosen |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
-|  |  |  | › verwendet werden.    › verwendet werden.  KP10-201 medizinischen Patientendokumentation Die Software muss eine eindeutige Kennzeichnung der Begründung:  Durch die Kennzeichnung ist ersichtlich, ob es sich bei der dokumentierten KONDITIONALE PFLICHTFUNKTION 4. Bedingung: Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme, die ausschließlich: › Begründung:  Durch die Kennzeichnung ist ersichtlich, ob es sich bei der dokumentierten KP10-200 in der medizinischen Patientendokumentation unterstützen. Ausgenommen von der Umsetzung dieser › medizinischen Patientendokumentation Die Software muss eine eindeutige Kennzeichnung der Begründung:  Durch die Kennzeichnung ist ersichtlich, ob es sich bei der dokumentierten Akzeptanzkriterium: 1. KP10-200 in der medizinischen Patientendokumentation unterstützen. Bedingung: Ausgenommen von der Umsetzung dieser › › › verwendet werden.  KONDITIONALE PFLICHTFUNKTION  KP10-230 4. |  |  |
+|  |  |  | › verwendet werden.       › verwendet werden.    KP10-201  medizinischen Patientendokumentation  Die Software muss eine eindeutige Kennzeichnung der  Begründung:   Durch die Kennzeichnung ist ersichtlich, ob es sich bei der dokumentierten  KONDITIONALE PFLICHTFUNKTION  4. Bedingung:  Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme, die ausschließlich: › Begründung:   Durch die Kennzeichnung ist ersichtlich, ob es sich bei der dokumentierten  KP10-200 in der medizinischen Patientendokumentation unterstützen.  Ausgenommen von der Umsetzung dieser  › medizinischen Patientendokumentation  Die Software muss eine eindeutige Kennzeichnung der  Begründung:   Durch die Kennzeichnung ist ersichtlich, ob es sich bei der dokumentierten  Akzeptanzkriterium: 1. KP10-200 in der medizinischen Patientendokumentation unterstützen.  Bedingung:  Ausgenommen von der Umsetzung dieser  › › › verwendet werden.    KONDITIONALE PFLICHTFUNKTION    KP10-230  4. |  |  |
 
 Die Software stellt sicher, dass die Kategorisierung in Dauerdiagnosen und Anamnestische Diagnosen nur auf Patientenebene erfolgt. für die Abrechnung gemäß § 57a, Abs. 2 BMV-Ä für die Direktabrechnung gemäß §§ 115b, 116b und 120 Abs. 3 SGB V zur Abrechnung im Rahmen von Selektivverträgen in einem spezifischen Bereich kontextbezogenen fest vorgegebenen gleichbleibenden Diagnosenspektrum und ohne die dauerhafte Behandlung von Erkrankten mit chronischen Diagnosen Kennzeichnung der Kategorien Dauerdiagnose und Anamnestische Diagnose in der Kategorien Dauerdiagnose und Anamnestische Diagnose in der medizinischen Patientendokumentation unterstützen. Dauerdiagnose oder eine Anamnestische Diagnose handelt. Dies ist im Zusammenhang mit der Übermittlung der Behandlungsdiagnosen erforderlich. Die Software muss die Kennzeichnung der Dauerdiagnose bzw. der Anamnestischen Diagnose nach für die Abrechnung gemäß § 57a, Abs. 2 BMV-Ä für die Direktabrechnung gemäß §§ 115b, 116b und 120 Abs. 3 SGB V zur Abrechnung im Rahmen von Selektivverträgen in einem spezifischen Bereich kontextbezogenen fest vorgegebenen gleichbleibenden Diagnosenspektrum und ohne die dauerhafte Behandlung von Erkrankten mit chronischen Diagnosen Übertragung von Dauerdiagnosen bzw. Anamnestischen Diagnosen als Behandlungsdiagnose bzw. Anamnestische Diagnosen als Behandlungsdiagnosen im Rahmen der Abrechnung mit  Diagnoseschlüsseln der ICD-10-GM kodiert und übertragen werden können. , mit einem Diagnose um eine , mit einem | KONDITIONALE PFLICHTFUNKTION |  |
 |---|---|
@@ -821,7 +821,7 @@ Durch das Ausblenden nicht benötigter Anamnestischer Diagnosen, d.h. die in den
 
 | OPTIONALE FUNKTION |  |
 |---|---|
-| O10-300 | Verwendung von anwenderdefinierten Kürzel |
+| O 10-300 | Verwendung von anwenderdefinierten Kürzel |
 
 Die Software kann dem Anwender die Möglichkeit geben, anwenderdefinierte Kürzel zu verwenden. Mit  Hilfe eines Kürzels können entweder ein oder mehrere ICD-10-GM-Kodes oder ICD-10-GM-Kodes in  Kombination mit einer GOP gesetzt werden.
 
@@ -984,7 +984,7 @@ verwendet werden.
 
 | OPTIONALE FUNKTION |  |
 |---|---|
-| O10-360 | Übernahme von ICD-10-GM-Kodes von externen Dokumentationen |
+| O 10-360 | Übernahme von ICD-10-GM-Kodes von externen Dokumentationen |
 
 Die Software kann die Übernahme von ICD-10-GM-Kodes wie bspw. aus dem Auftragsfeld, dem Feld der
 
@@ -1339,7 +1339,7 @@ wird immer gegen die Daten geprüft, welche im Rahmen der Abrechnung übertragen
 
 - ausgeben, sofern FK 3110 ungleich U, X, D und die Felder 6008 / 3677 nicht vorhanden sind:
 
-| /diagnose/ | /diagnose/ | FK (KVDT) | Von dem Softwaresystem zu erzeugender |
+| /diagnose/ | /diagnose/ | FK  (KVDT) | Von dem Softwaresystem zu erzeugender |
 |---|---|---|---|
 | m | K | W | überwiegend nur für männliche Patienten.“ |
 | m | M | W | „Bitte Kodierung überprüfen: Kode gilt nur für |
@@ -1399,7 +1399,7 @@ Durch die Überprüfung des Altersgruppenbezugs können nicht plausible Werte au
 
 - 5. Für die Platzhalter [mindestalter] und [höchstalter] sind folgende Werte einzusetzen:
 
-| Altersbezug /diagnose/untere_altersgrenze/@V@U; /diagnose/obere_altersgrenze/@V@U | [mindestalter] | [höchstalter] |
+| Altersbezug  /diagnose/untere_altersgrenze/@V@U; /diagnose/obere_altersgrenze/@V@U | [mindestalter] | [höchstalter] |
 |---|---|---|
 
 , welche im - XML-Element
@@ -2401,25 +2401,37 @@ DS = „G“
 
 - Bedingungsblockes nach 1.a) verknüpft, um das abschließende Ergebnis der Bedingungsprüfung  zu erhalten.  Beispiel für die Zusammenstellung des Bedingungsblocks anhand der Kodierregel-ID: 01-02-011:
 
-|  | (ICD = | „E10.3-“ | OR ICD | = | „E10.30“ OR | ICD = | „E10.31“ |
-|---|---|---|---|---|---|---|---|
-|  | ICD = | „E11.31“ | OR ICD | = „E12.3 | -“ OR | ICD = | „E12.30“ |
-|  | = „E13.30“ | OR | ICD = | „E13.31“ | OR ICD | = „E14.3 | -“ OR |
-|  | „G“) |  |  |  |  |  |  |
-|  | Hinweise: |  |  |  |  |  |  |
-|  | XML-Element |  |  |  |  | *../kodierregel/bedingung/subbedingung/parameter/@V* | |
-|  | Subbedingungsblock | | entweder | | den Wert | „DS“ oder |  |
-|  | das | XML-Element | ../ | *kodierregel* | / | *bedingung* | / |
-|  | dann | wird | der | erzeugte | Logikausdruck | des |  |
-|  | das | XML-Element | ../ | *kodierregel* | / | *bedingung* | / |
-|  | dann | erfolgt | keine | weitere | Negation. |  |  |
-|  | der |  | Subbedingungsblock | | mehr als | einen | Wert |
-|  |  |  |  | *../kodierregel/bedingung/subbedingung/value_liste/value/@V* | | | |
-|  | (XML-Element |  |  | *../kodierregel/bedingung/* | |  |  |
-|  | Wert | „AND“ oder | „OR“ | besitzt. |  |  |  |
-|  | anhand | eines | Wertes | der | Kodierregl | -ID: | fiktiv: |
+- (ICD = „E10.3 “ OR ICD = „E10.30“ OR ICD = „E10.31“ OR ICD = „E11.3 “ OR ICD = „E11.30“ OR
 
-- “ OR ICD  DS =
+- ICD = „E11.31“ OR ICD = „E12.3 “ OR ICD = „E12.30“ OR ICD = „E12.31“ OR ICD = „E13.3 “ OR ICD
+
+- = „E13.30“ OR ICD = „E13.31“ OR ICD = „E14.3 “ OR ICD = „E14.30“ OR ICD = „E14.31“) AND (DS =
+
+- „G“
+
+Hinweise:
+
+Das XML-Element *../kodierregel/bedingung/subbedingung/parameter/@V* besitzt im
+
+Subbedingungsblock entweder den Wert „DS“ oder „SL“.
+
+Wenn das XML-Element ../*kodierregel bedingung subbedingung*/existenz/@V den Wert FALSE
+
+besitzt, dann wird der erzeugte Logikausdruck des Subbedingungsblockes negiert.
+
+Wenn das XML-Element ../*kodierregel bedingung subbedingung existenz*/@V den Wert TRUE
+
+besitzt, dann erfolgt keine weitere Negation.
+
+Wenn der Subbedingungsblock mehr als einen Wert (XML-Element
+
+*../kodierregel/bedingung/subbedingung/value_liste/value/@V*) enthält, dann ist immer der Operator
+
+(XML-Element *../kodierregel/bedingung/subbedingung/operator/@V*) angegeben, welcher entweder
+
+den Wert „AND“ oder „OR“ besitzt.
+
+Beispiel anhand eines Wertes der Kodierregl-ID: fiktiv: (DS = „G“ OR DS = „V“) oder
 
 Beispiel anhand eines Wertes der Kodierregl-ID: fiktiv ../subbedingung/existenz = FALSE: NOT(DS =
 
@@ -2455,7 +2467,7 @@ Beispiel anhand eines Wertes der Kodierregl-ID: fiktiv ../subbedingung/existenz 
 
 - = "E11.6-" OR ICD = "E11.60" OR ICD = "E11.61" OR ICD = "E11.7-" OR ICD = "E11.72" OR ICD =
 
-(ICD = „E10.3 “ OR ICD = „E10.30“ OR ICD = „E10.31“ OR ICD = „E11.3 “ OR ICD = „E11.30“ OR ICD = „E11.31“ OR ICD = „E12.3 “ OR ICD = „E12.30“ OR ICD = „E12.31“ OR ICD = „E13.3 = „E13.30“ OR ICD = „E13.31“ OR ICD = „E14.3 “ OR ICD = „E14.30“ OR ICD = „E14.31“) AND ( Das XML-Element  besitzt im Subbedingungsblock entweder den Wert „DS“ oder „SL“. Wenn das XML-Element ../ /existenz/@V den Wert FALSE besitzt, dann wird der erzeugte Logi kausdruck des Subbedingungsblockes negiert. Wenn das XML-Element ../ existenz /@V den Wert TRUE besitzt, dann erfolgt keine weitere Negation. Wenn der Subbedingungsblock mehr als einen Wert (XML ) enthält, dann ist immer der Operator subbedingung/operator/@V ) angegeben, welcher entweder ert „AND“ oder „OR“ besitzt. Beispiel anhand eines Wertes der Kodierregl -ID: fiktiv: (DS = „G“ OR DS = „V“) oder - "E11.73" OR ICD = "E11.74" OR ICD = "E11.75" OR ICD = "E11.8-" OR ICD = "E11.80" OR ICD =
+- "E11.73" OR ICD = "E11.74" OR ICD = "E11.75" OR ICD = "E11.8-" OR ICD = "E11.80" OR ICD =
 
 
 ---
@@ -2528,7 +2540,7 @@ Wenn der Prüfungsblock mehr als einen Wert (XML-Element
 
 - "E12.80" OR ICD = "E12.81" OR ICD = "E12.9-" OR ICD = "E12.90" OR ICD = "E12.91" OR ICD =
 
-- "E13.0-" OR ICD = "E13.01" OR ICD = "E13.1-" OR ICD = "E13.11" OR ICD = "E13.2-" OR ICD =
+- "E13.0-" OR ICD = "E13.01" OR ICD = "E13. 1-" OR ICD = "E13.11" OR ICD = "E13.2-" OR ICD =
 
 - "E13.20" OR ICD = "E13.21" OR ICD = "E13.3-" OR ICD = "E13.30" OR ICD = "E13.31" OR ICD =
 
@@ -2648,7 +2660,7 @@ Abrechnungserstellung und zu einem beliebigen Zeitpunkt auszuführen.
 
 - „wählbar“ gekennzeichneten quartalsübergreifenden Kodierregel und nicht vom Anwender nach KP10-
 
-- 7.50 Akzeptanzkriterium 2 für eine erneute Prüfung ausgeschlossenen quartalsübergreifenden  Kodierregel gemäß KP10-730 über alle Behandlungsdiagnosen für alle Behandlungsfälle des aktuellen  Quartals zu einem frei gewählten Zeitpunkt auszuführen.
+- 750 Akzeptanzkriterium 2 für eine erneute Prüfung ausgeschlossenen quartalsübergreifenden  Kodierregel gemäß KP10-730 über alle Behandlungsdiagnosen für alle Behandlungsfälle des aktuellen  Quartals zu einem frei gewählten Zeitpunkt auszuführen.
 
 - a) Eine Kodierregeln gilt in diesem Fall als aktiv, falls
 
@@ -2772,23 +2784,31 @@ DS = „G“
 
 - ii. Das Teilergebnis der Subbedingung wird immer mit einem logischen AND mit dem Ergebnis des  Bedingungsblockes nach 1.a) verknüpft, um das abschließende Ergebnis der Bedingungsprüfung  zu erhalten.  Beispiel für die Zusammenstellung des Bedingungsblocks anhand der Kodierregel-ID: 03-02-044:
 
-|  | (ICD = | „I63.0“ OR | ICD = „I63.1“ | OR ICD | = „I63.2“ OR |
-|---|---|---|---|---|---|
-|  | „I63.5“ OR | ICD = | „I63.6“ OR | ICD = „I63.8“ | OR ICD = |
-|  | Hinweise: |  |  |  |  |
-|  | XML-Element |  |  |  | *../kodierregel/bedingung/subbedingung/parameter/@V* |
-|  | Subbedingungsblock | | entweder | den Wert | „DS“ oder „SL“. |
-|  | das | XML-Element | ../ | *kodierregel*/ | *bedingung*/ |
-|  | dann | wird der | erzeugte | gesamte | Logikausdruck |
-|  | das | XML-Element | ../ | *kodierregel*/ | *bedingung*/ |
-|  | dann | erfolgt keine | weitere | Negation. |  |
-|  | der | Subbedingungsblock | | mehr als | einen Wert |
-|  |  |  | *../kodierregel/bedingung/subbedingung/value_l* | |  |
-|  | (XML-Element |  |  | *../kodierregel/bedingung/subbedingung/operator/@V* | |
-|  | Wert „AND“ | oder | „OR“ besitzt. |  |  |
-|  | anhand | eines | Wertes der | Kodierregl | -ID: fiktiv: |
+- (ICD = „I63.0“ OR ICD = „I63.1“ OR ICD = „I63.2“ OR ICD = „I63.3“ OR ICD = „I63.4“ OR ICD =  „I63.5“ OR ICD = „I63.6“ OR ICD = „I63.8“ OR ICD = „I63.9“) AND (DS = „G“
 
-„V“)) oder
+Hinweise:
+
+Das XML-Element *../kodierregel/bedingung/subbedingung/parameter/@V* besitzt im
+
+Subbedingungsblock entweder den Wert „DS“ oder „SL“.
+
+Wenn das XML-Element ../*kodierregel bedingung subbedingung*/existenz/@V den Wert FALSE
+
+besitzt, dann wird der erzeugte gesamte Logikausdruck des Subbedingungssblockes negiert.
+
+Wenn das XML-Element ../*kodierregel bedingung subbedingung existenz*/@V den Wert TRUE
+
+besitzt, dann erfolgt keine weitere Negation.
+
+Wenn der Subbedingungsblock mehr als einen Wert (XML-Element
+
+*../kodierregel/bedingung/subbedingung/value_liste/value/@V*) enthält, dann ist immer der Operator
+
+(XML-Element *../kodierregel/bedingung/subbedingung/operator/@V*) angegeben, welcher entweder
+
+den Wert „AND“ oder „OR“ besitzt.
+
+Beispiel anhand eines Wertes der Kodierregl-ID: fiktiv: ((DS = „G“) OR (DS = „V“)) oder
 
 Beispiel anhand eines Wertes der Kodierregl-ID: fiktiv ../subbedingung/existenz = FALSE: NOT(DS (=
 
@@ -2818,7 +2838,7 @@ Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme, die aussc
 
 - für die Abrechnung gemäß § 57a, Abs. 2 BMV-Ä
 
-(ICD = „I63.0“ OR ICD = „I63.1“ OR ICD = „I63.2“ OR ICD = „I63.3“ OR ICD = „I63.4“ OR ICD = „I63.5“ OR ICD = „I63.6“ OR ICD = „I63.8“ OR ICD = „I63.9“)  AND ( DS = „G“ Das XML-Element  besitzt im entweder den Wert „DS“ oder „SL“. Wenn das XML-Element ../ /existenz/@V den Wert FALSE besitzt, dann wird der erzeugte gesamte Logikausdruck des Subbedingungssblockes negiert. Wenn das XML-Element ../ existenz /@V den Wert TRUE besitzt, dann erfolgt keine weitere Negation. Wenn der Subbedingungsblock mehr als einen Wert (XML iste/value/@V ) enthält, dann ist immer der Operator ) angegeben, welcher entweder den Wert „AND“ oder „OR“ besitzt. Beispiel anhand eines Wertes der Kodierregl -ID: fiktiv: (( DS = „G“ ) OR (DS = - für die Direktabrechnung gemäß §§ 115b, 116b und 120 Abs. 3 SGB V
+- für die Direktabrechnung gemäß §§ 115b, 116b und 120 Abs. 3 SGB V
 
 
 ---
@@ -3303,7 +3323,7 @@ Nicht zu verwechseln ist die Kodierhilfe mit den verbindlich vorgegebenen allgem
 
 | OPTIONALE FUNKTION |  |
 |---|---|
-| O11-10 | Einsatz der Kodierhilfe-Stammdatei |
+| O 11-10 | Einsatz der Kodierhilfe-Stammdatei |
 
 Die Software kann die Kodierhilfe-Stammdatei zur Unterstützung des Anwenders bei einer sachgerechten  Kodierung einsetzen. Es besteht keine Einsatzpflicht. Wenn die Software die SDKH einsetzt, sind die
 
@@ -3580,7 +3600,7 @@ GM-Kode zu unterstützen, muss die Anzeige in einer übersichtlichen Art erfolge
 
 - 2. Die Software ermöglicht dem Anwender die Sortierung der Informationen in der Übersicht.
 
-- 3. Die Software ermöglicht dem Anwender die Anzeige der Informationen zu einem Treffer gemäß KP11-
+- 3. Die Software ermöglicht dem Anwender die Anzeige der Informationen zu einem Treffer gemäß KP 11-
 
 - 90.
 
@@ -3692,7 +3712,7 @@ Suchergebnis direkt in die Abrechnung eines Behandlungsfalles zu übernehmen.
 
 - als Behandlungsdiagnose in die Abrechnung nach P10-100 zu übernehmen.
 
-- a) Der Anwender muss bei der Übernahme des ICD-10-GM-Kode die Möglichkeit haben, die  zusätzlichen Informationen nach P10-110 und P10-111 zu erfassen.
+- a) Der Anwender muss bei der Übernahme des ICD-10-GM-Kode die Möglichkeit haben, die  zusätzlichen Informationen nach P 10-110 und P10-111 zu erfassen.
 
 **Bedingung:**
 
@@ -3735,7 +3755,7 @@ eingesetzt werden, können auch andere entsprechende Stammdaten (basierend auf d
 
 | PFLICHTFUNKTION | |
 |---|---|
-| P11-700 | Einsatzpflicht |
+| P 11-700 | Einsatzpflicht |
 
 In der Software müssen die Daten der gültigen Verschlüsselungsanleitung-Stammdatei der KBV zur
 
@@ -3755,7 +3775,7 @@ genannten, vom BfArM herausgegebenen Informationen.
 
 | PFLICHTFUNKTION | |
 |---|---|
-| P11-710 | Gültigkeit |
+| P 11-710 | Gültigkeit |
 
 Die im aktuellen Quartal bereitgestellte Version der Verschlüsselungsanleitung-Stammdatei gilt für den
 
@@ -3784,7 +3804,7 @@ Sie können sich auf dem KBV-Updateserver, unter [KBV_ITA_VGEX_Schnittstelle_SDV
 
 | PFLICHTFUNKTION |  |
 |---|---|
-| P11-720 | Inhaltliche Unveränderbarkeit |
+| P 11-720 | Inhaltliche Unveränderbarkeit |
 
 Die Datensätze der Verschlüsselungsanleitung-Stammdatei dürfen inhaltlich nicht verändert werden.
 
@@ -3806,7 +3826,7 @@ Diese Anforderung definiert nicht, dass Softwaresysteme zwingend mit der Struktu
 
 | PFLICHTFUNKTION |  |
 |---|---|
-| P11-740 | Anzeige von Verschlüsselungsanleitungen |
+| P 11-740 | Anzeige von Verschlüsselungsanleitungen |
 
 Die Software muss dem Anwender die zu einem ICD-10-GM-Kode vorhandenen Hinweise zur  Verschlüsselung anzeigen, wenn der Anwender dies wünscht.
 
@@ -3987,10 +4007,10 @@ Abbildung 3: Ausführung quartalsübergreifender Kodierregeln
 |---|---|---|---|
 | Diagnosen- | Akutdiagnosen | Dauerdiagnosen | Anamnestische Diagnosen |
 | Definition | Dieser Begriff fasst | Dieser Begriff fasst | Dieser Begriff fasst |
-| Übernahme in | Immer | Wenn sie zur Übernahme   Aus der Nicht-Übernahme | Wenn sie explizit für die Behandlungsdiagnose in die  Aus der Übernahme einer |
+| Übernahme in | Immer | Wenn sie zur Übernahme      Aus der Nicht-Übernahme | Wenn sie explizit für die  Behandlungsdiagnose in die    Aus der Übernahme einer |
 | Anforderungen | | | |
 | Verwendung der | P10-80 | | |
-| Kategorisierung |  | KP10-200 KP10-201 | |
+| Kategorisierung |  | KP10-200  KP10-201 | |
 | Übernahme in | P10-100 | KP10-240 | KP10-250 |
 
 kategorie die Abrechnung Begriffe und Kennzeichnung die Abrechnung vorübergehende Erkrankungen, Störungen oder Zustände zusammen, die im Abrechnungszeitraum aufgrund ihres neuen oder erneuten Auftretens die Definition einer erfüllen, z.B. Infekt der oberen Atemwege. dauerhaft fortbestehende Erkrankungen, Störungen oder Zustände zusammen, regelhaft  über mehrere Abrechnungszeiträume hinweg die Definition einer erfüllen, z.B. Diabetes mellitus. als Behandlungsdiagnose in die Abrechnung bestätigt wurden. einer Dauerdiagnose in die Abrechnung resultiert kein Wechsel in eine andere Diagnosenkategorie. dauerhaft fortbestehende oder zurückliegende Erkrankungen, Störungen oder Zustände zusammen, nicht regelhaft  in jedem Abrechnungszeitraum die Definition einer erfüllen., z.B. Allergien. Übernahme als Abrechnung ausgewählt sind. Anamnestischen Diagnose in die Abrechnung resultiert kein Wechsel in eine andere Diagnosenkategorie.
@@ -4013,11 +4033,11 @@ Feldkennung (FK)
 |---|---|
 | Referenz | Dokument |
 | [KBV_ITA_VGEX_Schnittstelle_SDICD] | Datensatzbeschreibung ICD-10-GM- |
-| [KBV_ITA_VGEX_Schnittstelle_SDKH ] | Stammdatei Kodierhilfe (SDKH), in aktueller |
+| [KBV_ITA_VGEX_Schnittstelle_SDKH] | Stammdatei Kodierhilfe (SDKH), in aktueller |
 | [KBV_ITA_VGEX_Schnittstelle_SDKRW] | Stammdatei Kodierregelwerk (SDKRW), in |
-| [KBV_ITA_VGEX_Anforderungskatalog_KVDT ] | Anforderungskatalog KVDT, in aktueller |
+| [KBV_ITA_VGEX_Anforderungskatalog_KVDT] | Anforderungskatalog KVDT, in aktueller |
 | [KBV_ITA_VGEX_Schnittstelle_SDVA] | Stammdatei Verschlüsselungsanleitung |
-| [PraxisWissen_Kodierunterstützung ] | Serviceheft der KBV für Ärzte zum Umgang |
+| [PraxisWissen_Kodierunterstützung] | Serviceheft der KBV für Ärzte zum Umgang |
 | [KBV_Beschluss_Kodiervorgaben] | Prüfregeln aus der Kodierregelwerk- |
 | [Zi_Kodierhilfe] | Nachschlagewerk zur Verbesserung der |
 

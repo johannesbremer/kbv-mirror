@@ -9,4 +9,4 @@ set ENV=-cp .;;%dir%\build\fop.jar;%dir%\lib\batik-all-1.14.jar;%dir%\lib\common
 
 REM ********  Durchlauf ohne .fo Zwischendatei ************
 
-java %ENV% org.apache.fop.cli.Main -xml ./XML-Beispiele/ese_1.21_274433300_tf+2015q3_du+Krankenhaus.xml -xsl ./Stylesheet/kvnoSammelFOfuerPDFA-1b.xsl -a -l german -c fop.xconf -pdfprofile PDF/A-1b  -pdf ./Sammelerklaerung_in_PDFA/ese_1.21_274433300_tf+2015q3_du+Krankenhaus.pdf
+java %ENV% org.apache.fop.cli.Main -xml ./XML-Beispiele/ese_1.21_274433300_tf+2026q2_du+Krankenhaus.xml -xsl ./Stylesheet/kvnoSammelFOfuerPDFA-1b.xsl -a -l german -c fop.xconf -pdfprofile PDF/A-1b  -pdf ./Sammelerklaerung_in_PDFA/ese_1.21_274433300_tf+2026q2_du+Krankenhaus.pdf

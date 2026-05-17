@@ -27,12 +27,9 @@
 
 **4**
 
-| **5** | **EINSATZ** | **DES** |  | **KOMMUNIKATIONSDIENSTES** | **KIM** | **VOM ARZT** | **/ VON** | **DER PRAXIS** | **ZUR** | **KRANKENKASSE** |
-|---|---|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  |  |  |  |  |  | **31** |
-| 5.1 |  | Kommunikation vom | Arzt/ von | der Praxis | zur | Krankenkasse |  |  |  | 32 |
-| 5.2 |  | Kommunikation von | der | Krankenkasse | zum Arzt/ | zur Praxis |  |  |  | 44 |
-|  | 5.2.1 |  | Übergangsregelung | ab 1. Oktober | 2025 |  |  |  |  | 46 |
+**5**
+
+5.1  5.2
 
 **6**
 
@@ -64,6 +61,10 @@ Vorgaben zur Verwendung der Formularübergreifenden und EAU-Profile
 
 **SIGNIERUNG VON DOKUMENTEN AUF ARZTSEITE**
 
+**EINSATZ DES KOMMUNIKATIONSDIENSTES KIM VOM ARZT / VON DER PRAXIS ZUR KRANKENKASSE**
+
+Kommunikation vom Arzt/ von der Praxis zur Krankenkasse  Kommunikation von der Krankenkasse zum Arzt/ zur Praxis  5.2.1 Übergangsregelung ab 1. Oktober 2025
+
 **FESTLEGUNG FÜR DIE SOFTWARE**
 
 **GENERIERUNG DES PDF417-BARCODES**
@@ -84,6 +85,10 @@ Allgemeine Informationen zum Barcode  Erzeugung des Barcodes  Satztabelle
 
 **29**
 
+**31**
+
+32  44  46
+
 **49**
 
 **54**
@@ -92,7 +97,7 @@ Allgemeine Informationen zum Barcode  Erzeugung des Barcodes  Satztabelle
 
 **62**
 
-EINSATZ DES KOMMUNIKATIONSDIENSTES KIM VOM ARZT / VON DER PRAXIS ZUR KRANKENKASSE Kommunikation vom Arzt/ von der Praxis zur Krankenkasse Kommunikation von der Krankenkasse zum Arzt/ zur Praxis Übergangsregelung ab 1. Oktober 2025 **90**
+**90**
 
 
 ---
@@ -137,18 +142,16 @@ Sobald eine Nutzung der eAU für PKV-Versicherte möglich ist, erfolgt eine ents
 | **Datum** | **Autor** | **Änderung** | **Begründung** |
 |---|---|---|---|
 | 18.12.2025 | KBV | Aktualisierung der | Bereitstellung eines |
-
-1.26
-
-1.25
-
 |  |  | Versionsnummer der FHIR- | BugFix-Release |
-|---|---|---|---|
 |  |  | Profile | (aufgrund Anpassung |
 |  |  |  | in FOR-Profilen) |
 |  |  | Anpassung der Bedingung des |  |
 |  |  | Feldes 61c |  |
 | 14.11.2025 | KBV | Klarstellung der Anforderung P6- | Umgang mit Sonstigen |
+
+1.26
+
+1.25
 
 1.24
 
@@ -262,17 +265,20 @@ Akzeptanzkriterium 16   Ergänzung eines Hinweises zu  P310-02
 
 ---
 
-**Version Datum**
+| **Version** | **Datum** | **Autor** |
+|---|---|---|
+| 1.20 | 28.09.2022 | KBV |
+| 1.20 | 15.08.2022 | KBV |
 
-**Autor Änderung**
+**Änderung**
 
 **Begründung**
 
-1.20 28.09.2022 KBV Aufnahme einer
+Aufnahme einer
 
 Übergangsregelung   Aufnahme der optionalen  Funktionen O5-09  (Weiterleitung von  Fehlermeldung an den  Softwareanbieter) und O6-07  (Versand der eAU und Storno- Nachrichten an die  Krankenkasse)   Anpassungen der Funktion P6- 02   Anpassungen der Funktionen  P5-02, P5-04 und KP5-05
 
-1.20 15.08.2022 KBV Aufnahme von optionalen
+Aufnahme von optionalen
 
 Feldern für PKV-Versicherte:  - teilweise Arbeitsfähig ab -  - Berufsunfähig  - Datum für den Beginn der  Wiedereingliederung,  - stationäre Heilbehandlung und  die Angabe des Entlassungs-  datums sowie Aufnahme-  datums für die Reha und  stationäre Heilbehandlung   Aufnahme der ASV- Fachgruppennummer   Aufnahme der Standortnummer   Aktualisierung der Version der  eAU-FHIR-Profile   Optimierung/Anpassung des  Informationsmodelles sowie der  entsprechenden Anforderungen  für die Instanzen   Redaktionelle Anpassung  (betroffen ist Spalte FHIR®- Element) der Darstellung der zu  befüllenden FHIR®-Elemente  hieraus ergeben sich keine  Änderungen der FHIR®- Strukturen.
 
@@ -373,10 +379,13 @@ Bedeutung:
 
 Kürzel - KBV (steht für Kassenärztliche Bundesvereinigung und ist ein fester Wert)  Kategorie - PR (Profil), EX (Extension), VS (ValueSet), NS (NamingSystem) und CS (CodeSystem)  Thema - EAU (steht für eAU) und FOR (steht für die formularübergreifenden Festlegungen)  Bezeichnung - Bezeichnung für das entsprechende Thema
 
-**Beispiel:**
+| **Beispiel:** |  |  |
+|---|---|---|
+| › | Dateiname: KBV_PR_FOR_Patient |  |
+| › URL: |  | https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient |
+| › | Abbildung der | formularübergreifenden Patienteninformationen |
 
-Dateiname: KBV_PR_FOR_Patient  URL: [https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient](https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient)  Abbildung der formularübergreifenden Patienteninformationen
-
+URL: https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient  Abbildung der formularübergreifenden Patienteninformationen
 
 ---
 
@@ -793,7 +802,7 @@ Die eAU-spezifischen sowie die formularübergreifenden KBV-Profile müssen ohne 
 
 Die FHIR®-Spezifikation definiert eine Reihe von Basis-Ressourcen, welche in verschiedenen Bereichen des  Gesundheitswesens eingesetzt werden können. Diese mussten für den vorliegenden Anwendungsbereich  entsprechend angepasst werden.
 
-Für die Umsetzung der eAU wurden KBV-Profile erstellt, welche zum Teil von den Deutschen Basis-Profilen  der FHIR®-Spezifikation abgeleitet sind. Die KBV-Profile geben Auskunft darüber, mit welchen  Erweiterungen sowie Einschränkungen die FHIR®-Ressourcen zu verwenden sind.
+Für die Umsetzung der e AU wurden KBV-Profile erstellt, welche zum Teil von den Deutschen Basis-Profilen  der FHIR®-Spezifikation abgeleitet sind. Die KBV-Profile geben Auskunft darüber, mit welchen  Erweiterungen sowie Einschränkungen die FHIR®-Ressourcen zu verwenden sind.
 
 **Akzeptanzkriterium:**
 
@@ -801,7 +810,7 @@ Für die Umsetzung der eAU wurden KBV-Profile erstellt, welche zum Teil von den 
 
 **PFLICHTFUNKTION EAU**
 
-**P310-02** Umgang mit der Eigenschaft „mustSupport“
+**P310-02** Umgang mit der Eigenschaft „must Support“
 
 FHIR®-Elemente mit der Eigenschaft "mustSupport" müssen immer implementiert werden.
 
@@ -816,7 +825,7 @@ Informationen vorliegen.
 
 **Akzeptanzkriterium:**
 
-1. Die Software, welche die Dateien erstellt, muss die mit „mustSupport“ gekennzeichneten FHIR®-
+1. Die Software, welche die Dateien erstellt, muss die mit „must Support“ gekennzeichneten FHIR®-
 
 Elemente (mustSupport value="true") in den KBV-Profilen unterstützen  befüllen und übermitteln
 
@@ -1325,7 +1334,7 @@ KBV_PR_FOR_Patient gemäß P4- 05 aus  [KBV_ITA_VGEX_Technisches_Ha ndbuch_DiMus
 
 KBV_PR_FOR_Practitioner  gemäß P04-01 aus  [KBV_ITA_VGEX_Technisches_Ha ndbuch_DiMus]
 
-KBV_PR_FOR_PractitionerRole  gemäß P04-02 aus  [KBV_ITA_VGEX_Technisches_Ha ndbuch_DiMus]
+KBV_PR_FOR_Practitioner Role  gemäß P04-02 aus  [KBV_ITA_VGEX_Technisches_Ha ndbuch_DiMus]
 
 KBV_PR_FOR_Practitioner  gemäß P04-01 aus  [KBV_ITA_VGEX_Technisches_Ha ndbuch_DiMus]
 
@@ -1435,7 +1444,7 @@ b) *<Dokumenten-ID>* = Wert des Elementes identifier.value der Instanz des Profi
 
 KBV_PR_EAU_Storno_Bundle
 
-4. Die Software erzeugt für jede eStorno-Nachricht gemäß Akzeptanzkriterium 1) eine eigene UUID.  a) Wenn eine übermittelte eStorno-Nachricht aufgrund einer Fehlermeldung von der Krankenkasse  gemäß P5-04 Akzeptanzkriterium 13 b) nochmals erstellt und versendet werden muss, dann muss  diese eStorno-Nachricht eine eigene UUID besitzen.
+4. Die Software erzeugt für jede e Storno-Nachricht gemäß Akzeptanzkriterium 1) eine eigene UUID.  a) Wenn eine übermittelte e Storno-Nachricht aufgrund einer Fehlermeldung von der Krankenkasse  gemäß P5-04 Akzeptanzkriterium 13 b) nochmals erstellt und versendet werden muss, dann muss  diese eStorno-Nachricht eine eigene UUID besitzen.
 
 **Hinweis:**
 
@@ -1691,13 +1700,13 @@ a) Erzeugung einer qualifizierten elektronischen Signatur (QES) mittels elektron
 
 3. Die Software muss die Signaturerstellung mittels der Komponenten der Telematikinfrastruktur (TI)  (Basisfunktionalität des Konnektors) ermöglichen und dabei alle zur Verfügung stehenden Signaturmodi  (bspw. PIN-Eingabe und Komfortsignatur) unterstützen.  a) Die Informationen zum Sperrstatus des Signaturzertifikats zum Zeitpunkt der Signatur sind bei der  Erzeugung der QES mit einzubetten (Nutzung des Parameter „SIG:IncludeRevocationInfo“)
 
-4. Die Signatur muss für jede Instanz als CAdES-Enveloping-Signatur durch den Konnektor erzeugt werden.  a) eAU: Der Dateiname der zu versendeten eAU-Datei (im PKCS#7-Format) ist immer wie folgt  aufgebaut:  *E,T*>EAU0_<*Dokumenten-ID*>.p7s
+4. Die Signatur muss für jede Instanz als CAdES-Enveloping-Signatur durch den Konnektor erzeugt werden.  a) eAU: Der Dateiname der zu versendeten eAU-Datei (im PKCS#7-Format) ist immer wie folgt  aufgebaut:  *E,T*>EAU0_<*Dokumenten-ID*>.p 7s
 
 *E, T*> = E für Echtdaten im Produktivsystem und T für Testdaten im Testsystem  *Dokumenten-ID*> = Wert des Elementes identifier.value der Instanz des Profils
 
 KBV_PR_EAU_Bundle
 
-b) Storno-Nachricht: Der Dateiname der zu versendenden Storno-Nachricht (im PKCS#7-Format) ist  immer wie folgt aufgebaut:  *<E,T>*EAU0_Storno_*<Dokumenten-ID der Storno-Nachricht>*.p7s
+b) Storno-Nachricht: Der Dateiname der zu versendenden Storno-Nachricht (im PKCS#7-Format) ist  immer wie folgt aufgebaut:  *<E,T>*EAU0_Storno_*<Dokumenten-ID der Storno-Nachricht>*.p 7s
 
 *<E, T*> = *E* für Echtdaten im Produktivsystem und *T* für Testdaten im Testsystem
 
@@ -1718,7 +1727,7 @@ ID>.p7s oder /<E,T>EAU0_Storno_<Dokumenten-ID der Storno-Nachricht>.p7s) des Akz
 
 **PFLICHTFUNKTION EAU**
 
-**P4-02** Darstellung der xHTML-Repräsentation vor Signierung
+**P 4-02** Darstellung der xHTML-Repräsentation vor Signierung
 
 Die Software stellt sicher, dass der Anwender sich vor der Signierung die originären Daten der eAU-Datei  mithilfe des vereinbarten Stylesheets visualisieren lassen kann.
 
@@ -2107,57 +2116,66 @@ Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und 
 
 ---
 
-| **NR.** | **FEHLERCODE** | **DURCH** | **PVS** | **ANZUZEIGENDE** | **MELDUNG** |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| n) | 305 | <Sehr | geehrte | Arztpraxis>, für | die am | <XX.XX.XXXX> |  | übermittelte | Stornomeldung | der |  |  |
-|  |  |  | Arbeitsunfähigkeitsbescheinigung | | Ihres | Patienten | / Ihrer | Patientin | <Vorname | und | Name> | müssen wir |
-|  |  | Ihnen | leider mitteilen, | dass die | Übermittlung |  | fehlgeschlagen | ist. |  |  |  |  |
-|  |  | Grund | hierfür ist, | dass die | Signaturprüfung | der | KIM-Nachricht | ergeben | hat, | dass der |  | Nachrichteninhalt |
-|  |  | nicht | zur Signatur | passt. |  |  |  |  |  |  |  |  |
-|  |  | Wenden | Sie sich | bitte zur Behebung | des | Problems | an Ihren |  | Softwarehersteller | und | senden Sie | die Daten |
-|  |  | danach | erneut. |  |  |  |  |  |  |  |  |  |
-| o) | 307 | <Sehr | geehrte | Arztpraxis>, für | die am | <XX.XX.XXXX> |  | übermittelte |  | Arbeitsunfähigkeitsbescheinigung | | Ihres |
-|  |  | Patienten | / Ihrer | Patientin | <Vorname und | Name> | müssen wir | Ihnen | leider | mitteilen, | dass die |  |
-|  |  |  | Übermittlung | fehlgeschlagen ist. |  |  |  |  |  |  |  |  |
-|  |  | Grund | hierfür ist, | dass die | KIM-Nachricht | zwar als | eine | verschlüsselte |  | KIM-Nachricht | gekennzeichnet | |
-|  |  | wurde, | aber auf | Grund des falschen | Formats | nicht | von der | Krankenkasse |  | entschlüsselt | werden | konnte. |
-|  |  | Wenden | Sie sich | bitte zur Behebung | des | Problems | an Ihren |  | Softwarehersteller | und | senden Sie | die Daten |
-|  |  | danach | erneut. |  |  |  |  |  |  |  |  |  |
-|  |  | Sollte | eine Korrektur | des Fehlers | nach | Rücksprache | mit | ihrem | Softwarehersteller | nicht | bis Ende | des |
-|  |  |  | nachfolgenden | Werktages möglich | sein, | senden Sie | bitte | die | AU-Bescheinigung | (Ausdruck | der |  |
-|  |  |  | Ausfertigung | Krankenkasse) | postalisch an | die | zuständige | Krankenkasse. |  |  |  |  |
-| p) | 309 | <Sehr | geehrte | Arztpraxis>, für | die am | <XX.XX.XXXX> |  | übermittelte |  | Arbeitsunfähigkeitsbescheinigung | | Ihres |
-|  |  | Patienten | / Ihrer | Patientin | <Vorname und | Name> | müssen wir | Ihnen | leider | mitteilen, | dass die |  |
-|  |  |  | Übermittlung | fehlgeschlagen ist. |  |  |  |  |  |  |  |  |
-|  |  | Grund | hierfür ist, | dass für die | KIM-Nachricht | keine | Signatur | vorhanden | ist. |  |  |  |
-|  |  | Wenden | Sie sich | bitte zur Behebung | des | Problems | an Ihren |  | Softwarehersteller | und | senden Sie | die Daten |
-|  |  | danach | erneut. |  |  |  |  |  |  |  |  |  |
-|  |  | Sollte | eine Korrektur | des Fehlers | nach | Rücksprache | mit | ihrem | Softwarehersteller | nicht | bis Ende | des |
-|  |  |  | nachfolgenden | Werktages möglich | sein, | senden Sie | bitte | die | AU-Bescheinigung | (Ausdruck | der |  |
-|  |  |  | Ausfertigung | Krankenkasse) | postalisch an | die | zuständige | Krankenkasse. |  |  |  |  |
-| q) | 310 | <Sehr | geehrte | Arztpraxis>, für | die am | <XX.XX.XXXX> |  | übermittelte |  | Arbeitsunfähigkeitsbescheinigung | | Ihres |
-|  |  | Patienten | / Ihrer | Patientin | <Vorname und | Name> | müssen wir | Ihnen | leider | mitteilen, | dass die |  |
-|  |  |  | Übermittlung | fehlgeschlagen ist. |  |  |  |  |  |  |  |  |
-|  |  | Grund | hierfür ist, | dass die | Signatur für | die | KIM-Nachricht | aufgrund | des falschen | Formats | nicht | geprüft |
-|  |  | werden | konnte. |  |  |  |  |  |  |  |  |  |
-|  |  | Wenden | Sie sich | bitte zur Behebung | des | Problems | an Ihren |  | Softwarehersteller | und | senden Sie | die Daten |
-|  |  | danach | erneut. |  |  |  |  |  |  |  |  |  |
-|  |  | Sollte | eine Korrektur | des Fehlers | nach | Rücksprache | mit | ihrem | Softwarehersteller | nicht | bis Ende | des |
-|  |  |  | nachfolgenden | Werktages möglich | sein, | senden Sie | bitte | die | AU-Bescheinigung | (Ausdruck | der |  |
-|  |  |  | Ausfertigung | Krankenkasse) | postalisch an | die | zuständige | Krankenkasse. |  |  |  |  |
-| r) | 311 | <Sehr | geehrte | Arztpraxis>, für | die am | <XX.XX.XXXX> |  | übermittelte |  | Arbeitsunfähigkeitsbescheinigung | | Ihres |
-|  |  | Patienten | / Ihrer | Patientin | <Vorname und | Name> | müssen wir | Ihnen | leider | mitteilen, | dass die |  |
-|  |  |  | Übermittlung | fehlgeschlagen ist. |  |  |  |  |  |  |  |  |
-|  |  | Grund | hierfür ist, | dass die | Signaturprüfung | der | KIM-Nachricht | ergeben | hat, | dass der |  | Nachrichteninhalt |
-|  |  | nicht | zur Signatur | passt. |  |  |  |  |  |  |  |  |
-|  |  | Wenden | Sie sich | bitte zur Behebung | des | Problems | an Ihren |  | Softwarehersteller | und | senden Sie | die Daten |
-|  |  | danach | erneut. |  |  |  |  |  |  |  |  |  |
-|  |  | Sollte | eine Korrektur | des Fehlers | nach | Rücksprache | mit | ihrem | Softwarehersteller | nicht | bis Ende | des |
-|  |  |  | nachfolgenden | Werktages möglich | sein, | senden Sie | bitte | die | AU-Bescheinigung | (Ausdruck | der |  |
-|  |  |  | Ausfertigung | Krankenkasse) | postalisch an | die | zuständige | Krankenkasse. |  |  |  |  |
-| SEITE | 39 VON 91 | / KBV / | TECHNISCHE ANLAGE | ZUR EAU / | VERSION: 1.26 | / 24. | NOVEMBER | 2025 |  |  |  |  |
+**NR. FEHLERCODE DURCH PVS ANZUZEIGENDE MELDUNG**
 
-DURCH PVS ANZUZEIGENDE MELDUNG  <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der Arbeitsunfähigkeitsbescheinigung Ihres Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung fehlgeschlagen ist. Grund hierfür ist, dass die Signaturprüfung der KIM-Nachricht ergeben hat, dass der Nachrichteninhalt nicht zur Signatur passt.  Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten danach erneut. <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung Ihres Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung fehlgeschlagen ist.  Grund hierfür ist, dass die KIM-Nachricht zwar als eine verschlüsselte KIM-Nachricht gekennzeichnet wurde, aber auf Grund des falschen Formats nicht von der Krankenkasse entschlüsselt werden konnte.   Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten danach erneut. Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des nachfolgenden Werktages möglich sein, senden Sie bitte die AU-Bescheinigung (Ausdruck der Ausfertigung Krankenkasse) postalisch an die zuständige Krankenkasse. <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung Ihres Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung fehlgeschlagen ist. Grund hierfür ist, dass für die KIM-Nachricht keine Signatur vorhanden ist.  Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten danach erneut. Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des nachfolgenden Werktages möglich sein, senden Sie bitte die AU-Bescheinigung (Ausdruck der Ausfertigung Krankenkasse) postalisch an die zuständige Krankenkasse. <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung Ihres Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung fehlgeschlagen ist.  Grund hierfür ist, dass die Signatur für die KIM-Nachricht aufgrund des falschen Formats nicht geprüft werden konnte.  Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten danach erneut. Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des nachfolgenden Werktages möglich sein, senden Sie bitte die AU-Bescheinigung (Ausdruck der Ausfertigung Krankenkasse) postalisch an die zuständige Krankenkasse. <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung Ihres Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung fehlgeschlagen ist.  Grund hierfür ist, dass die Signaturprüfung der KIM-Nachricht ergeben hat, dass der Nachrichteninhalt nicht zur Signatur passt.  Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten danach erneut. Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des nachfolgenden Werktages möglich sein, senden Sie bitte die AU-Bescheinigung (Ausdruck der Ausfertigung Krankenkasse) postalisch an die zuständige Krankenkasse.
+<Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der
+
+n) 305
+
+Arbeitsunfähigkeitsbescheinigung Ihres Patienten / Ihrer Patientin <Vorname und Name> müssen wir  Ihnen leider mitteilen, dass die Übermittlung fehlgeschlagen ist.
+
+Grund hierfür ist, dass die Signaturprüfung der KIM-Nachricht ergeben hat, dass der Nachrichteninhalt  nicht zur Signatur passt.
+
+Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  danach erneut.
+
+<Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung Ihres
+
+o) 307
+
+Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die  Übermittlung fehlgeschlagen ist.
+
+Grund hierfür ist, dass die KIM-Nachricht zwar als eine verschlüsselte KIM-Nachricht gekennzeichnet  wurde, aber auf Grund des falschen Formats nicht von der Krankenkasse entschlüsselt werden konnte.
+
+Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  danach erneut.
+
+Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des  nachfolgenden Werktages möglich sein, senden Sie bitte die AU-Bescheinigung (Ausdruck der  Ausfertigung Krankenkasse) postalisch an die zuständige Krankenkasse.
+
+<Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung Ihres
+
+p) 309
+
+Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die  Übermittlung fehlgeschlagen ist.
+
+Grund hierfür ist, dass für die KIM-Nachricht keine Signatur vorhanden ist.
+
+Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  danach erneut.
+
+Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des  nachfolgenden Werktages möglich sein, senden Sie bitte die AU-Bescheinigung (Ausdruck der  Ausfertigung Krankenkasse) postalisch an die zuständige Krankenkasse.
+
+<Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung Ihres
+
+q) 310
+
+Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die  Übermittlung fehlgeschlagen ist.
+
+Grund hierfür ist, dass die Signatur für die KIM-Nachricht aufgrund des falschen Formats nicht geprüft  werden konnte.
+
+Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  danach erneut.
+
+Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des  nachfolgenden Werktages möglich sein, senden Sie bitte die AU-Bescheinigung (Ausdruck der  Ausfertigung Krankenkasse) postalisch an die zuständige Krankenkasse.
+
+<Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung Ihres
+
+r) 311
+
+Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die  Übermittlung fehlgeschlagen ist.
+
+Grund hierfür ist, dass die Signaturprüfung der KIM-Nachricht ergeben hat, dass der Nachrichteninhalt  nicht zur Signatur passt.
+
+Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  danach erneut.
+
+Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des  nachfolgenden Werktages möglich sein, senden Sie bitte die AU-Bescheinigung (Ausdruck der  Ausfertigung Krankenkasse) postalisch an die zuständige Krankenkasse.
+
 
 ---
 
@@ -2524,7 +2542,7 @@ Die erzeugten Ausdrucke sollen nicht auf Sicherheitspapier ausgedruckt werden.  
 
 ---
 
-Bereitstellung der eAU für den Versicherten, soll das Softwaresystem die eAU-FHIR-Datei verwenden,  welche auch an die Krankenkasse (gemäß P4-01) übermittelt wird.   **PFLICHTFUNKTION EAU**
+Bereitstellung der eAU für den Versicherten, soll das Softwaresystem die e AU-FHIR-Datei verwenden,  welche auch an die Krankenkasse (gemäß P4-01) übermittelt wird.   **PFLICHTFUNKTION EAU**
 
 **P6-03** Versand der eAU und Storno-Nachrichten an die Krankenkasse
 
@@ -2592,14 +2610,6 @@ Aufgrund von bspw. Eingabefehlern muss ein Anwender die Möglichkeit haben, eine
 1. Ein Anwender muss die Möglichkeit haben eine bereits versendete eAU mittels einer Storno-Nachricht  gemäß P5-03 zu stornieren.  a) Die Software speichert, dass eine eAU storniert wurde.  b) Die Software ermöglicht dem Anwender den Versand einer korrigierten eAU.
 
 2. Wenn ein Anwender eine eAU, die noch nicht versendet wurde stornieren möchte, dann ist der Versand  einer Storno-Nachricht gemäß P5-03 an die Krankenkasse nicht gestattet.  3. Die Software verhindert, dass für eine eAU, für die eine Fehlernachricht vorliegt, eine Storno-Nachricht  erstellt und versendet werden kann.
-
-| den |  | Versand einer eAU und/oder |  |
-|---|---|---|---|
-| 1 |  | und 2 anbieten. |  |
-|  |  | Konfigurationsmöglichkeiten des |  |
-| für |  | den Versand der eAU und/oder |  |
-| 1 |  | und 2 zur Verfügung. |  |
-| ändern. |  |  |  |
 
 
 ---
@@ -2777,17 +2787,13 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 
 Tabelle 22: Satztabelle für die Zusammensetzung des PDF417 -Barcode-Inhaltes
 
-**NR.**
-
-01
-
-02
-
-|  | Versionsnummer | 2 | n | 12 | Barcode-Version des Formulars |  |
+| **NR.** | **FELDBEZEICHNUNG** | **LÄNGE** | **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |  |
 |---|---|---|---|---|---|---|
+|  | Formularcode | 2 | n | 01 | Nr. des Musters |  |
+|  | Formularcodeergänzung | 1 | a | a | Ausfertigung der Krankenkasse |  |
+|  | Versionsnummer | 2 | n | 12 | Barcode-Version des Formulars |  |
 |  |  |  |  |  | für die eAU |  |
-
-04
+|  | Versicherungsschutz Ende | 8 | n |  | Format: JJJJMMTT |  |
 
 05
 
@@ -2801,14 +2807,6 @@ Tabelle 22: Satztabelle für die Zusammensetzung des PDF417 -Barcode-Inhaltes
 
 10
 
-**FELDBEZEICHNUNG**
-
-Formularcode
-
-Formularcodeergänzung
-
-Versicherungsschutz Ende
-
 Kostenträgerkennung
 
 Versicherten-ID
@@ -2819,14 +2817,6 @@ Besondere  Personengruppe
 
 DMP-Kennzeichnung (N)BSNR
 
-**LÄNGE**
-
-2
-
-1
-
-8
-
 9
 
 <=12 1
@@ -2836,20 +2826,6 @@ DMP-Kennzeichnung (N)BSNR
 2
 
 9
-
-**TYP**
-
-n
-
-a
-
-n
-
-**ERLAUBTE INHALTE**
-
-01
-
-a
 
 n
 
@@ -2863,22 +2839,6 @@ n 00, 01, 02, 03, 04, 05,  06, 07, 08, 09, 10, 11,  12, 30, 31, 32, 33, 34,  35,
 
 n
 
-**FORMAT/ BEMERKUNG**
-
-Nr. des Musters
-
-Ausfertigung der
-
-Format: JJJJMMTT
-
-**X-PATH AUSDRUCK AUSGEHEND VON**  **BUNDLE/ENTRY/RESOURCE/**
-
-konstanter Wert
-
-Krankenkasse konstanter Wert
-
-Coverage/period/end/@value
-
 Coverage/payor/identifier[system/@value='[http://fhir.d](http://fhir.d) e/sid/arge-ik/iknr']/value/@value
 
 Patient/identifier/value/@value
@@ -2889,110 +2849,23 @@ Coverage/extension[@url='[http://fhir.de/StructureDefini](http://fhir.de/Structu
 
 Coverage/extension[@url='[http://fhir.de/StructureDefini](http://fhir.de/StructureDefini) tion/gkv/dmp-kennzeichen']  /valueCoding[system/@value='[https://fhir.kbv.de/CodeS](https://fhir.kbv.de/CodeS) ystem/KBV_CS_SFHIR_KBV_DMP']/code/@value
 
-03 konstanter Wert Bedingung:  Wenn vorhanden, dann:  PractitionerRole/organization/identifier[system/@value
+02 03 04 X-PATH AUSDRUCK AUSGEHEND VON  BUNDLE/ENTRY/RESOURCE/ konstanter Wert konstanter Wert konstanter Wert Coverage/period/end/@value Bedingung:  Wenn vorhanden, dann:  PractitionerRole/organization/identifier[system/@value
 
 
 ---
 
-**NR.**
-
-11
-
-12
-
-13
-
-14
-
-15
-
-16
-
-17
-
-18
-
-|  | festgestellt am | 8 | n |  | Format: JJJJMMTT |  |
-|---|---|---|---|---|---|---|
-|  | sonstiger Unfall | 1 | n | 1 | 1 = angekreuzt |  |
-
-**FELDBEZEICHNUNG**
-
-LANR
-
-Ausstellungsdatum
-
-Erstbescheinigung
-
-Folgebescheinigung
-
-Arbeitsunfall
-
-Durchgangsarzt
-
-arbeitsunfähig seit
-
-voraussichtliche AU bis
-
-**LÄNGE**
-
-9
-
-8
-
-1
-
-1
-
-1
-
-1
-
-8
-
-8
-
-**TYP**
-
-n
-
-n
-
-n
-
-n
-
-n
-
-n
-
-n
-
-n
-
-**ERLAUBTE INHALTE**
-
-1
-
-1
-
-1
-
-1
-
-**FORMAT/ BEMERKUNG**
-
-Format: JJJJMMTT 1 = angekreuzt
-
-1 = angekreuzt
-
-1 = angekreuzt
-
-1 = angekreuzt
-
-Format: JJJJMMTT
-
-Format: JJJJMMTT
+| **NR.** | **FELDBEZEICHNUNG** | **LÄNGE** | **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
+|---|---|---|---|---|---|
+| 11 LANR |  | 9 | n |  |  |
+| 12 | Ausstellungsdatum | 8 | n |  | Format: JJJJMMTT |
+| 13 | Erstbescheinigung | 1 | n 1 |  | 1 = angekreuzt |
+| 14 | Folgebescheinigung | 1 | n 1 |  | 1 = angekreuzt |
+| 15 | Arbeitsunfall | 1 | n 1 |  | 1 = angekreuzt |
+| 16 | Durchgangsarzt | 1 | n 1 |  | 1 = angekreuzt |
+| 17 | arbeitsunfähig seit | 8 | n |  | Format: JJJJMMTT |
+| 18 | voraussichtliche AU bis | 8 | n |  | Format: JJJJMMTT |
+| 19 | festgestellt am | 8 | n |  | Format: JJJJMMTT |
+| 20 sonstiger | Unfall | 1 | n 1 |  | 1 = angekreuzt |
 
 **X-PATH AUSDRUCK AUSGEHEND VON**  **BUNDLE/ENTRY/RESOURCE/**  ='[http://fhir.de/NamingSystem/asv/teamnummer'](http://fhir.de/NamingSystem/asv/teamnummer')]  /value/@value  sonst:  Organization/identifier/value/@value
 
@@ -3010,38 +2883,29 @@ ServiceRequest/code/coding/code[@value='d_arzt']
 
 Condition[meta/profile/@value='[https://fhir.kbv.de](https://fhir.kbv.de)  /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2 ']  /onsetPeriod/start/@value
 
-19 20 Condition[meta/profile/@value='https://fhir.kbv.de /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2.'] /extension[@url='http://hl7.org/fhir/StructureDefinition /condition-assertedDate']/valueDateTime/@value Condition[meta/profile/@value='https://fhir.kbv.de /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2'] /extension[@url='http://hl7.org/fhir/StructureDefinitionCondition[meta/profile/@value='[https://fhir.kbv.de](https://fhir.kbv.de)  /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2 ']  /onsetPeriod/end/@value
+Condition[meta/profile/@value='[https://fhir.kbv.de](https://fhir.kbv.de)  /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2 ']  /onsetPeriod/end/@value
+
+Condition[meta/profile/@value='[https://fhir.kbv.de](https://fhir.kbv.de)  /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2.']  /extension[@url='[http://hl7.org/fhir/StructureDefinition](http://hl7.org/fhir/StructureDefinition) /condition-assertedDate']/valueDateTime/@value
+
+sonstiger Unfall Condition[meta/profile/@value='[https://fhir.kbv.de](https://fhir.kbv.de)  /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2']  /extension[@url='[http://hl7.org/fhir/StructureDefinition](http://hl7.org/fhir/StructureDefinition)
 
 
 ---
 
 **NR.**
 
-21
-
-22
-
-23
-
-24
-
-25
+|  | SER | 1 | n | 1 | 1 = angekreuzt |  |
+|---|---|---|---|---|---|---|
+|  | Rehabilitation | 1 | n | 1 | 1 = angekreuzt |  |
+|  | Wiedereingliederung | 1 | n | 1 | 1 = angekreuzt |  |
+|  | sonstige Maßnahmen | <=70 | a |  | Freitext |  |
+|  | Krankengeldfall | 1 | n | 1 | 1 = angekreuzt |  |
 
 26
 
 27
 
 **FELDBEZEICHNUNG**
-
-SER
-
-Rehabilitation
-
-Wiedereingliederung
-
-sonstige Maßnahmen
-
-Krankengeldfall
 
 Endbescheinigung
 
@@ -3051,27 +2915,9 @@ Diagnosen
 
 1
 
-1
-
-1
-
-<=70 1
-
-1
-
 <=70
 
 **TYP**
-
-n
-
-n
-
-n
-
-a
-
-n
 
 n
 
@@ -3081,23 +2927,7 @@ a
 
 1
 
-1
-
-1
-
-1
-
-1
-
 **FORMAT/ BEMERKUNG**
-
-1 = angekreuzt
-
-1 = angekreuzt
-
-1 = angekreuzt
-
-Freitext 1 = angekreuzt
 
 1 = angekreuzt
 
@@ -3105,21 +2935,11 @@ max. 6 ICD-10-Diagnosen;  mehrere Angaben sind durch ein  Komma und ein Leerzeic
 
 **X-PATH AUSDRUCK AUSGEHEND VON**  **BUNDLE/ENTRY/RESOURCE/**  /condition-dueTo']/valueCodeableConcept  /coding/code[@value='1']
 
-Condition[meta/profile/@value='[https://fhir.kbv.de](https://fhir.kbv.de)  /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2']/ extension[@url='[http://hl7.org/fhir/StructureDefinition/](http://hl7.org/fhir/StructureDefinition/) condition-dueTo']/valueCodeableConcept  /coding/code[@value='3']
-
-ServiceRequest/code/coding/code[@value='reha']
-
-ServiceRequest/code/coding  /code[@value='wiedereingliederung']
-
-ServiceRequest/code/text/@value
-
-Condition[meta/profile/@value='[https://fhir.kbv.de](https://fhir.kbv.de)  /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2']/ extension[@url='[https://fhir.kbv.de/StructureDefinition/](https://fhir.kbv.de/StructureDefinition/) KBV_EX_EAU_7_weeks']/valueBoolean/@value='true'
-
 Composition/type/coding/code[@value='FOLGE_END' or  @value='ERST_END']
 
 ICD-10:  Condition[meta/profile/@value='[https://fhir.kbv.de](https://fhir.kbv.de)  /StructureDefinition/KBV_PR_EAU_Condition_ICD|1.2‘]/
 
-code/coding/code/@value  Diagnosesicherheit:  Condition[meta/profile/@value='[https://fhir.kbv.de](https://fhir.kbv.de)  /StructureDefinition/KBV_PR_EAU_Condition_ICD|1.2  ‘]/code/coding/extension[@url='[http://fhir.de/Structure](http://fhir.de/Structure) Definition/icd-10-gm- diagnosesicherheit']/valueCoding/code/@value  Seitenlokalisation:  Condition[meta/profile/@value='[https://fhir.kbv.de](https://fhir.kbv.de)  /StructureDefinition/KBV_PR_EAU_Condition_ICD|1.2  ‘]/code/coding/extension[@url='[http://fhir.de/Structure](http://fhir.de/Structure) Definition/seitenlokalisation']/valueCoding/code/@value
+21 22 23 24 25 Condition[meta/profile/@value='https://fhir.kbv.de /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2']/ extension[@url='http://hl7.org/fhir/StructureDefinition/ condition-dueTo']/valueCodeableConcept /coding/code[@value='3'] ServiceRequest/code/coding/code[@value='reha'] ServiceRequest/code/coding /code[@value='wiedereingliederung'] ServiceRequest/code/text/@value Condition[meta/profile/@value='https://fhir.kbv.de /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2']/ extension[@url='https://fhir.kbv.de/StructureDefinition/ KBV_EX_EAU_7_weeks']/valueBoolean/@value='true' code/coding/code/@value  Diagnosesicherheit:  Condition[meta/profile/@value='[https://fhir.kbv.de](https://fhir.kbv.de)  /StructureDefinition/KBV_PR_EAU_Condition_ICD|1.2  ‘]/code/coding/extension[@url='[http://fhir.de/Structure](http://fhir.de/Structure) Definition/icd-10-gm- diagnosesicherheit']/valueCoding/code/@value  Seitenlokalisation:  Condition[meta/profile/@value='[https://fhir.kbv.de](https://fhir.kbv.de)  /StructureDefinition/KBV_PR_EAU_Condition_ICD|1.2  ‘]/code/coding/extension[@url='[http://fhir.de/Structure](http://fhir.de/Structure) Definition/seitenlokalisation']/valueCoding/code/@value
 
 
 ---
@@ -3163,9 +2983,9 @@ Bedingung
 
 Tabelle 23: Auflistung der abzubildenden Felder für die eAU
 
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-DERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  |  |  | **(GRAU = FELDGRUPPE)** |  |  |  |  |  |
+**ID**
+
+**1 2 3 4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
 
 **1**
 
@@ -3189,11 +3009,17 @@ x
 
 Dokumenten-ID
 
+**LÄNGE**
+
 Kodiert 5-8
 
 6..17
 
 36
+
+**WIE-DERH.**
+
+**BESCHREIBUNG**
 
 **1..1**
 
@@ -3215,14 +3041,16 @@ Dieses Feld enthält die  Prüfnummer, welche jede  zertifizierte Software im  v
 
 Dieses Feld enthält eine  eindeutige Identifikation des  Dokuments.  Diese ID wird mit signiert und  sichert damit vor Fälschungen.
 
+**BEDINGUNGEN**
+
 WENN  das Feld "Kostenträgertyp"  gleich "GKV" oder "BG" oder  "SKT" oder "UK" ist,  DANN  ist dieses Feld Pflicht  ANSONSTEN  ist dieses Feld optional.
 
 
 ---
 
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-DERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  |  |  | **(GRAU = FELDGRUPPE)** |  |  |  |  |  |
+**ID**
+
+**1 2**
 
 **6**
 
@@ -3242,6 +3070,8 @@ x
 
 11
 
+**3 4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
+
 **Empfänger / Kostenträger**
 
 Kostenträgertyp
@@ -3260,12 +3090,16 @@ x
 
 Name des Kostenträgers
 
+**LÄNGE**
+
 Kodiert 9
 
 9
 
 1..45
 
+**WIE-DERH.**
+
 **1..1**
 
 1..1
@@ -3277,6 +3111,8 @@ Kodiert 9
 0..1
 
 1..1
+
+**BESCHREIBUNG**
 
 **Dieser Block enthält Daten zum**  **Kostenträger.**
 
@@ -3289,6 +3125,8 @@ Dieses Feld enthält das  Institutionskennzeichen (IK) der  zuständigen Kranken
 Dieses Feld enthält das  Institutionskennzeichen (IK) und  wird verwendet, wenn der  Kostenträger nicht die zuständige  Krankenkasse ist, bspw. eine  Berufsgenossenschaft (BG) oder  eine Unfallkasse (UK).
 
 Dieses Feld enthält den Namen  des Kostenträgers. Der korrekte  Name ergibt sich aus den  definierten Bedruckungsregeln  laut "Technische Anlage zur
+
+**BEDINGUNGEN**
 
 WENN  das Feld "Kostenträgertyp"  gleich "GKV" oder "BG" oder  "SKT" oder "UK" oder „PKV“  ist,  DANN  ist dieses Feld Pflicht.  ANSONSTEN  ist dieses Feld optional.
 
@@ -3609,12 +3447,18 @@ WENN  in diesem Feld ein Datum  angegeben wird,  DANN  darf das Datum nicht in  
 
 **1 2**
 
+28
+
+29
+
+30
+
+**3 4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
+
 | x | | | Wohnsitzländercode derVersichertenanschrift | Kodiert 1..3 | 0..1 | Dieses Feld enthält denWohnsitzländercode(entsprechend GemeinsamesRundschreiben DEÜV Anlage 08). |
 |---|---|---|---|---|---|---|
 | x | | | Postleitzahl derVersichertenanschrift | 1..10 | 0..1 | Dieses Feld enthält diePostleitzahl. |
 | x | | | Ortsname derVersichertenanschrift | 1..40 | 0..1 | Dieses Feld enthält denOrtsnamen. Mehrere |
-
-**3 4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
 
 **LÄNGE WIE-DERH.**
 
@@ -3622,7 +3466,13 @@ WENN  in diesem Feld ein Datum  angegeben wird,  DANN  darf das Datum nicht in  
 
 **BEDINGUNGEN**
 
-28 29 3.0 WENN der Versicherte sich nicht elektronisch ausgewiesen hat und das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ ist DANN ist dieses Feld Pflicht.   ANSONSTEN WENN der Versicherte sich elektronisch ausgewiesen hat und das Feld „Wohnsitzländercode der Versichertenanschrift“ gleich „D“ und das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ ist DANN ist dieses Feld Pflicht. ANSONSTEN ist dieses Feld optional. **muss dieser Block**  **angegeben werden.**  **ANSONSTEN**  **darf dieser Block nicht**  **angegeben werden.**
+**muss dieser Block**  **angegeben werden.**  **ANSONSTEN**  **darf dieser Block nicht**  **angegeben werden.**
+
+WENN  der Versicherte sich nicht  elektronisch ausgewiesen  hat und das Feld  "Kostenträgertyp" gleich  "GKV" oder "BG" oder "SKT"  oder "UK" oder „PKV“ ist
+
+DANN  ist dieses Feld Pflicht.  ANSONSTEN WENN  der Versicherte sich  elektronisch ausgewiesen  hat und das Feld  „Wohnsitzländercode der  Versichertenanschrift“ gleich  „D“ und das Feld  "Kostenträgertyp" gleich  "GKV" oder "BG" oder "SKT"  oder "UK" oder „PKV“ ist
+
+DANN  ist dieses Feld Pflicht.  ANSONSTEN  ist dieses Feld optional.
 
 
 ---
@@ -3631,11 +3481,11 @@ WENN  in diesem Feld ein Datum  angegeben wird,  DANN  darf das Datum nicht in  
 
 **1 2**
 
-3.1
+31
 
-3.2
+32
 
-3.3
+33
 
 **34**
 
@@ -3720,9 +3570,9 @@ DANN  ist dieses Feld Pflicht.
 
 ---
 
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-DERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  |  |  | **(GRAU = FELDGRUPPE)** |  |  |  |  |
+**ID**
+
+**1 2**
 
 37
 
@@ -3738,6 +3588,8 @@ DANN  ist dieses Feld Pflicht.
 
 **146**
 
+**3 4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
+
 x
 
 Ortsname der Versicherten- Postfachanschrift
@@ -3752,19 +3604,25 @@ Postfach der Versicherten- Postfachanschrift
 
 **x**    **Qualifikation der**  **ausstellenden/**  **verschreibenden Person**
 
+**LÄNGE**
+
 1..40
 
 1..8
 
-0..1
+**WIE-DERH.**
 
 0..1
 
-**1..1**
+0..1
 
 **1..1**
 
 **1..1**
+
+**1..1**
+
+**BESCHREIBUNG**
 
 Dieses Feld enthält den  Ortsnamen. Mehrere  Namensbestandteile sind durch  Blank/Sonderzeichen getrennt.
 
@@ -3776,6 +3634,8 @@ Dieses Feld enthält das Postfach.
 
 **Dieser Block enthält**  **Informationen über die**  **Qualifikation der ausstellenden/**  **verschreibenden Person**
 
+**BEDINGUNGEN**
+
 ANSONSTEN WENN  der Versicherte sich  elektronisch ausgewiesen  hat und das Feld  „Wohnsitzländercode der  Versicherten- Postfachanschrift“ gleich „D“  und das Feld  "Kostenträgertyp" gleich  "GKV" oder "BG" oder "SKT"  oder "UK" oder „PKV“ ist
 
 DANN  ist dieses Feld Pflicht.  ANSONSTEN  ist dieses Feld optional.
@@ -3783,9 +3643,9 @@ DANN  ist dieses Feld Pflicht.  ANSONSTEN  ist dieses Feld optional.
 
 ---
 
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-DERH.** | **BESCHREIBUNG** |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  |  |  | **(GRAU = FELDGRUPPE)** |  |  |  |  |  |
+**ID**
+
+**1 2**
 
 41
 
@@ -3794,6 +3654,8 @@ DANN  ist dieses Feld Pflicht.  ANSONSTEN  ist dieses Feld optional.
 147
 
 **42**
+
+**3 4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
 
 Typ der ausstellenden/
 
@@ -3805,6 +3667,8 @@ x   Berufsbezeichnung der  ausstellenden/ verschreibenden  Person
 
 x   ASV-Fachgruppennummer der  ausstellenden/ verschreibenden  Person
 
+**LÄNGE**
+
 Kodiert 1..100
 
 9
@@ -3813,11 +3677,15 @@ Kodiert 1..100
 
 **Identifikator der**  **ausstellenden/**  **verschreibenden Person**
 
+**WIE-DERH.**
+
 1..1
 
 1..1
 
 0..1
+
+**BESCHREIBUNG**
 
 Dieses Feld enthält einen Typ zur  Kennzeichnung der  verschreibenden Person z.B. Arzt,  Arzt in Weiterbildung.
 
@@ -3831,11 +3699,13 @@ Dieses Feld enthält die ASV- Fachgruppennummer gemäß der  ASV Vereinbarung (A
 
 **Identifikator der Person, z.B. eine**  **Arztnummer (Lebenslange**  **Arztnummer LANR) oder**  **Zahnarztnummer (ZANR) und**  **kann zusätzlich eine Telematik-ID**  **enthalten.**
 
+**BEDINGUNGEN**
+
 WENN  das Feld „Typ der  ausstellenden /  verschreibenden Person“  gleich „00“ oder „04“ und  das Feld „Kennzeichen  Rechtsgrundlage“ gleich  „01“ oder „11“ ist und der  Block „Identifikator der  ausstellenden/  verschreibenden Person“  nicht vorhanden ist,  DANN  ist dieses Feld optional.  ANSONSTEN  darf dieses Feld nicht  angegeben werden.
 
 **WENN**  **das Feld "Kostenträgertyp"**  **gleich "GKV" oder "BG"**  **oder "SKT" oder "UK" oder**  **“PKV“ ist** **und das Feld „Typ**
 
-BEDINGUNGEN **der ausstellenden /**  **verschreibenden Person“**  **gleich „00“ oder „01“ oder**  **„04“ ist und das Feld „ASV**
+**der ausstellenden /**  **verschreibenden Person“**  **gleich „00“ oder „01“ oder**  **„04“ ist und das Feld „ASV**
 
 
 ---
@@ -3877,27 +3747,39 @@ ausstellenden/  verschreibenden Person“
 
 ---
 
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-DERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  |  |  | **(GRAU = FELDGRUPPE)** |  |  |  |  |
+**ID**
+
+**1 2**
 
 42b
 
 42c
 
+**3 4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
+
 x   Zahnarztnummer der  ausstellenden/ verschreibenden  Person
 
-x   Telematik-ID der ausstellenden/  verschreibenden Person 9
+x   Telematik-ID der ausstellenden/  verschreibenden Person
+
+**LÄNGE**
+
+9
 
 1..128
 
+**WIE-DERH.**
+
 0..1
 
 0..1
+
+**BESCHREIBUNG**
 
 Dieses Feld enthält als  Identifikator der Person eine  Zahnarztnummer (ZANR).
 
 Dieses Feld enthält als  Identifikator der Person eine  Telematik-ID.
+
+**BEDINGUNGEN**
 
 vorhanden ist und das Feld  „Typ der ausstellenden /  verschreibenden Person“  gleich „00“ oder „03“ oder  „04“ ist,
 
@@ -3997,39 +3879,18 @@ WENN  das Feld „Kennzeichen  Rechtsgrundlage“ den Wert  "01" oder "11" besit
 
 ---
 
-**ID**
-
-**1 2**
-
-48
-
-**5.0**
-
-**x**
-
-**3 4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
-
-x
-
-Vorsatzwort der ausstellenden/  verschreibenden Person
-
-**Verantwortliche Person**
-
-**LÄNGE**
-
-1..20
-
-**WIE-DERH.**
+| **ID** | **1 2 3 4** | **5 6 FELDNAME** |  | **LÄNGE** | **WIE-DERH.** |
+|---|---|---|---|---|---|
+|  |  | **(GRAU** | **= FELDGRUPPE)** |  |  |
+| 48 | x |  | Vorsatzwort der | ausstellenden/ 1..20 | 0..1 |
+|  |  |  | verschreibenden Person |  |  |
+| **50** | **x** |  | **Verantwortliche Person** |  | **0..1** |
 
 **BESCHREIBUNG**
 
 Namenszusätze sind durch Blank  getrennt.
 
-0..1
-
 Dieses Feld enthält das  Vorsatzwort der Person als  Bestandteil des Nachnamens, z.B.  „von“, „von der“, „zu“; mehrere  Vorsatzwörter sind durch Blank  getrennt.
-
-**0..1**
 
 **Dieser Block enthält die Daten**  **der verantwortlichen Person, z.B.**  **des zur Weiterbildung**  **ermächtigten Arztes (im**  **vertrags(zahn)ärztlichen Bereich**  **und im Krankenhaus).**   **Der Block dient dazu, die**  **entsprechende Konstellation des**  **Arztstempels abzubilden und**  **eine Zuordnung zum**  **verantwortlichen**  **Vertrags(zahn)arzt / Facharzt zu**  **ermöglichen.**
 
@@ -4043,7 +3904,7 @@ Dieses Feld enthält das  Vorsatzwort der Person als  Bestandteil des Nachnamens
 
 **verantwortlichen Person“**  **gleich „00“ oder „01“ oder**  **„04“ ist,**
 
-**DANN**  **muss dieser Block**  **vorhanden sein.**  **ANSONSTEN WENN**  **das Feld „Typ der**  **ausstellenden/**  **verschreibenden Person"**  **gleich „03“ ist und das Feld**  **"Identifikator der**  **ausstellenden/**  **verschreibenden Person“**  **vorhanden ist und das Feld**  **„Typ der verantwortlichen**  **Person“ gleich „00“ oder**
+(GRAU = FELDGRUPPE) Vorsatzwort der ausstellenden/ **DANN**  **muss dieser Block**  **vorhanden sein.**  **ANSONSTEN WENN**  **das Feld „Typ der**  **ausstellenden/**  **verschreibenden Person"**  **gleich „03“ ist und das Feld**  **"Identifikator der**  **ausstellenden/**  **verschreibenden Person“**  **vorhanden ist und das Feld**  **„Typ der verantwortlichen**  **Person“ gleich „00“ oder**
 
 
 ---
@@ -4121,13 +3982,19 @@ WENN  das Feld „Typ der  verantwortlichen Person“  gleich „00“ oder „0
 
 ---
 
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-DERH.** | **BESCHREIBUNG** |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  |  |  | **(GRAU = FELDGRUPPE)** |  |  |  |  |  |
+**ID**
+
+**1 2**
 
 **52**
 
 52a
+
+**3 4 5 6 FELDNAME**
+
+**LÄNGE**
+
+**(GRAU = FELDGRUPPE)**
 
 **x**
 
@@ -4137,19 +4004,25 @@ x   Arztnummer der 9
 
 verantwortlichen Person
 
+**WIE-DERH.**
+
 **0..1**
 
 0..1
+
+**BESCHREIBUNG**
 
 **Dieser Block enthält den**  **Identifikator der Person, z.B. eine**  **Arztnummer oder**  **Zahnarztnummer und kann**  **zusätzlich eine Telematik-ID**  **enthalten.**
 
 Dieses Feld enthält als  Identifikator der Person eine
 
+**BEDINGUNGEN**
+
 Block „Identifikator der  verantwortlichen Person“  nicht vorhanden ist,  DANN  ist dieses Feld optional.  ANSONSTEN  darf dieses Feld nicht  angegeben werden.
 
 **WENN**  **das Feld "Kostenträgertyp"**  **gleich "GKV" oder "BG"**  **oder "SKT" oder "UK" oder**  **“PKV“ und das Feld „Typ der**  **verantwortlichen Person“**  **gleich „00“ oder „01“ oder**  **„04“ ist und das Feld „ASV** **Fachgruppennummer der**  **verantwortlichen Person“**  **nicht vorhanden ist,**  **DANN**  **ist dieser Block Pflicht.**  **ANSONSTEN WENN**  **das Feld „ASV** **Fachgruppennummer der**  **verantwortlichen Person“**  **vorhanden ist,**  **DANN**  **darf dieser Block nicht**  **angegeben werden.**  **ANSONSTEN**  **ist dieser Block**  **optional.**
 
-BEDINGUNGEN WENN  der Block „Identifikator der  verantwortlichen Person“
+WENN  der Block „Identifikator der  verantwortlichen Person“
 
 
 ---
@@ -4334,27 +4207,17 @@ x   IK-Nummer
 
 x   KZV-Abrechnungsnummer
 
-**LÄNGE**
-
-9
-
-9
-
-9
-
-**WIE-DERH.**
-
-0..1
+| **LÄNGE** | **WIE-DERH.** |
+|---|---|
+| 9 | 0..1 |
+| 9 | 0..1 |
+| 9 | 0..1 |
 
 **BESCHREIBUNG**
 
 Dieses Feld enthält eine  Betriebsstättennummer (BSNR)  zur Identifikation einer  Einrichtung. Im vertragsärztlichen  Bereich ist das Feld eine  Voraussetzung für die Abrechnung  zwischen Leistungserbringern und  Kostenträgern.
 
-0..1
-
 Dieses Feld enthält ein  Institutionskennzeichen (IK),  welches von der ARGE·IK  vergeben wird und ein  eindeutiges Merkmal zur  Abrechnung mit den Trägern der  Sozialversicherung ist.
-
-0..1
 
 Dieses Feld enthält eine  Abrechnungsnummer der  Kassenzahnärztlichen Vereinigung  (KZV).  Abrechnungsnummern des  Zahnarztes/der Zahnärztin mit  weniger als 9 Stellen sind mit  vorangestellten Nullen  entsprechend zu füllen.
 
@@ -4371,9 +4234,9 @@ WENN  der Block „Identifikator der  Einrichtung“ vorhanden ist  und das Feld
 
 ---
 
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-DERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  |  |  | **(GRAU = FELDGRUPPE)** |  |  |  |  |
+**ID**
+
+**1 2**
 
 61d
 
@@ -4389,6 +4252,8 @@ WENN  der Block „Identifikator der  Einrichtung“ vorhanden ist  und das Feld
 
 65
 
+**3 4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
+
 x   Standortnummer
 
 x   Telematik-ID der Einrichtung
@@ -4403,7 +4268,11 @@ x Wohnsitzländercode der  Einrichtung
 
 x Postleitzahl der Einrichtung
 
-x Ortsname der Einrichtung 9
+x Ortsname der Einrichtung
+
+**LÄNGE**
+
+9
 
 1..128
 
@@ -4412,6 +4281,8 @@ x Ortsname der Einrichtung 9
 Kodiert 1..10
 
 1..40
+
+**WIE-DERH.**
 
 0..1
 
@@ -4427,6 +4298,8 @@ Kodiert 1..10
 
 1..1
 
+**BESCHREIBUNG**
+
 Dieses Feld enthält eine  Standortnummer eines  Krankenhauses.
 
 Dieses Feld enthält eine  Telematik-ID der Einrichtung.
@@ -4440,6 +4313,8 @@ Dieses Feld enthält den  Wohnsitzländercode  (entsprechend Gemeinsames  Rundsc
 Dieses Feld enthält die  Postleitzahl.
 
 Dieses Feld enthält den  Ortsnamen. Mehrere
+
+**BEDINGUNGEN**
 
 DANN  ist dieses Feld Pflicht  ANSONSTEN  darf dieses Feld nicht  angegeben werden.
 
@@ -4571,9 +4446,9 @@ Art“ gleich
 
 ---
 
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-DERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  |  |  | **(GRAU = FELDGRUPPE)** |  |  |  |  |
+**ID**
+
+**1 2**
 
 75
 
@@ -4589,6 +4464,8 @@ x
 
 81
 
+**3 4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
+
 Voraussichtlich-AU-bis
 
 Teilweise arbeitsfähig ab
@@ -4599,7 +4476,11 @@ Festgestellt-am
 
 x    Arbeitsunfall,  Arbeitsunfallfolgen,  Berufskrankheit
 
-x    SER 10
+x    SER
+
+**LÄNGE**
+
+10
 
 10
 
@@ -4607,7 +4488,11 @@ x    SER 10
 
 Kodiert
 
-Kodiert 1..1
+Kodiert
+
+**WIE-DERH.**
+
+1..1
 
 0..1
 
@@ -4618,6 +4503,8 @@ Kodiert 1..1
 0..1
 
 0..1
+
+**BESCHREIBUNG**
 
 Dieses Feld enthält das Datum, bis  zu dem die Arbeitsunfähigkeit  bescheinigt wird (Ende der AU).
 
@@ -4630,6 +4517,8 @@ Dieses Feld enthält das Datum, an  dem die Arbeitsunfähigkeit  festgestellt wi
 Dieses Feld beschreibt, ob die AU  aufgrund eines Arbeitsunfalles,  einer Arbeitsunfallfolge oder  Berufskrankheit erstellt wird.
 
 Dieses Feld beschreibt, ob ein  Leiden nach dem Soziales
+
+**BEDINGUNGEN**
 
 DANN  muss dieses Feld gesetzt  werden.  WENN  das Feld „AU „FOLGE" oder „FOLGE_END“  ist
 
@@ -4709,9 +4598,9 @@ DANN  darf dieses Feld gesetzt  werden.  ANSONSTEN  darf dieses Feld nicht geset
 
 ---
 
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-DERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  |  |  | **(GRAU = FELDGRUPPE)** |  |  |  |  |
+**ID**
+
+**1 2**
 
 **98**
 
@@ -4725,6 +4614,8 @@ DANN  darf dieses Feld gesetzt  werden.  ANSONSTEN  darf dieses Feld nicht geset
 
 101
 
+**3 4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
+
 **Maßnahmen**
 
 x    Leistungen Reha
@@ -4737,11 +4628,17 @@ x    Wiedereingliederung
 
 x   ab
 
+**LÄNGE**
+
 Kodiert 10
 
 10
 
 Kodiert 10
+
+**WIE-DERH.**
+
+**BESCHREIBUNG**
 
 **0..1**
 
@@ -4765,6 +4662,8 @@ Dieses Feld gibt für eine PKV- Versicherte/einen PKV- Versicherten ein  zukünf
 
 Dieses Feld beschreibt, ob  Maßnahmen zur stufenweisen  Wiedereingliederung für  erforderlich gehalten werden.
 
+**BEDINGUNGEN**
+
 WENN  das Feld "Kostenträgertyp"  gleich „PKV“ ist
 
 DANN  darf dieses Feld gesetzt  werden.  ANSONSTEN  darf dieses Feld nicht gesetzt  werden.
@@ -4780,9 +4679,9 @@ DANN
 
 ---
 
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-DERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  |  |  | **(GRAU = FELDGRUPPE)** |  |  |  |  |
+**ID**
+
+**1 2**
 
 102
 
@@ -4790,25 +4689,35 @@ DANN
 
 104
 
+**3 4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
+
 x    Stationäre Heilbehandlung
 
 x   Aufnahmedatum
 
 x   Entlassungsdatum
 
+**LÄNGE**
+
 Bool 10
 
 10
 
-0..1
+**WIE-DERH.**
 
 0..1
 
 0..1
+
+0..1
+
+**BESCHREIBUNG**
 
 Dieses Feld gibt für eine PKV- Versicherte/einen PKV- Versicherten ein  zukünftiges/tatsächliches  Aufnahmedatum bspw. in die  Reha, stationäre  Behandlung usw. an.
 
 Dieses Feld gibt für eine PKV- Versicherte/einen PKV- Versicherten ein  zukünftiges/tatsächliches  Entlassungsdatum bspw. in die  Reha, stationäre  Behandlung usw. an.
+
+**BEDINGUNGEN**
 
 darf dieses Feld gesetzt  werden.  ANSONSTEN  darf dieses Feld nicht gesetzt  werden.
 

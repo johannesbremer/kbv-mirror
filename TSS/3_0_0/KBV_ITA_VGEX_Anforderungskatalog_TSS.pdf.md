@@ -5,7 +5,7 @@
 
 ## [KBV_ITA_VGEX_ANFORDERUNGSKATALOG_
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 19. DEZEMBER 2024  VERSION: 3.0.0  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 19. DEZEMBER 2024   VERSION: 3.0.0   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 TSS]
@@ -60,16 +60,16 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 3.0.0 | 19.12.2024 | KBV | Anpassung der Anforderungen: P2-01 P3-05 P3-06 P4-01 P4-02 P4-04 P4-06 Streichung der Anforderung  P2-02 O3-07 | Neue Spezifikationen der | 6 7 8 9 9 11 13  6 7 |
-| 2.0.7 | 15.05.2023 | KBV | Anpassung der Anforderung P4-04 |  | 11 |
-| 2.0.6 | 15.11.2022 | KBV | Anpassung der Anforderung Streichung der Anforderung | Überführung als | 11 |
-| 2.0.5 | 1.3.08.2021 | KBV | Anpassung der P4-05 |  |  |
+| 3.0.0 | 19.12.2024 | KBV | Anpassung der Anforderungen:  P2-01  P3-05  P3-06  P4-01  P4-02  P4-04  P4-06  Streichung der Anforderung   P2-02  O3-07 | Neue Spezifikationen der | 6  7  8  9  9  11  13    6  7 |
+| 2.0.7 | 15.05.2023 | KBV | Anpassung der Anforderung  P4-04 |  | 11 |
+| 2.0.6 | 15.11.2022 | KBV | Anpassung der Anforderung  Streichung der Anforderung | Überführung als | 11 |
+| 2.0.5 | 13.08.2021 | KBV | Anpassung der P4-05 |  |  |
 | 2.0.4 | 15.06.2020 | KBV | Streichen des Wasserzeichens |  |  |
-| 2.0.4 | 14.05.2020 | KBV | Anpassung Webseite für den Klarstellung der Zuordnung P4- |  | 7 8  10 |
+| 2.0.4 | 14.05.2020 | KBV | Anpassung Webseite für den  Klarstellung der Zuordnung P4- |  | 7  8    10 |
 | 2.0.3 | 08.04.2020 | KBV | Anpassung an das geänderte |  | 8 |
 | 2.0.2 | 13.02.2020 | KBV | Klarstellung der Berechnung |  | 11 |
 | 2.0.1 | 10.01.2020 | KBV | Anpassung der Feldkennung | Vermeidung von | 11 |
-| 2.0.0 | 19.12.2019 | KBV | Aufnahme des Kapitels Streichung der |  | 9ff.   7, 8 |
+| 2.0.0 | 19.12.2019 | KBV | Aufnahme des Kapitels  Streichung der |  | 9ff.      7, 8 |
 
 Vermittlungscode bei Muster 6 und PTV 11 03 PTV 11 Vorgaben P4-04 und P4-05 4107 in 4114 und 4112 in 4115 Umsetzung der Spezifikation TSS-Abrechnungsinformation Übergangsregelung zur Terminservice- Schnittstellen konditionale Pflichtfunktion KP2- 513 in den KVDT- Anforderungskatalog Seiteneffekten beim Einsatz von alten Schnittstellen
 
@@ -245,7 +245,7 @@ Das System kann die im FHIR-Bundle "Vermittlungscode-Anforderung-Muster06" angeg
 
 | PFLICHTFUNKTION |  |
 |---|---|
-| P3-08 | Verwendung des Vermittlungscodes auf dem Muster PTV 11 |
+| P 3-08 | Verwendung des Vermittlungscodes auf dem Muster PTV 11 |
 
 und die URL bei der Bedruckung.
 
@@ -660,20 +660,20 @@ Parametern Nachname und Vorname kann eine Phonetische Suche verwendet und alle p
 |  |  |
 |---|---|
 | Referenz | Dokument |
-| [Anbindung_KV_Connect] | Anforderungskatalog „Anbindung an KV   Dieses Dokument wird in dem Verzeichnis https://update.kbv.de/ita-update/KV- |
-| [Spec_eTerminservice] | Spezifikation „Spezifikation KV   Dieses Dokument wird in dem Verzeichnis https://update.kbv.de/ita-update/TSS bereitgestellt. |
-| [Spec_eTerminservice_Abr] | Spezifikation „Spezifikation KV   Dieses Dokument wird in dem Verzeichnis https://update.kbv.de/ita-update/TSS/   bereitgestellt. |
-| [Spec_Vermittlungscode] | Spezifikation „Spezifikation 116117  „  Diese Dokumente werden in dem update/TSS/3_0_0   bereitgestellt. |
-| [Spec_Abrechnungsinformation] | Spezifikation „Spezifikation 116117  „Technische Anlage zur Spezifikation  Diese Dokumente werden in dem update/TSS/3_0_0   bereitgestellt. |
+| [Anbindung_KV_Connect] | Anforderungskatalog „Anbindung an KV    Dieses Dokument wird in dem Verzeichnis  https://update.kbv.de/ita-update/KV- |
+| [Spec_eTerminservice] | Spezifikation „Spezifikation KV    Dieses Dokument wird in dem Verzeichnis  https://update.kbv.de/ita-update/TSS  bereitgestellt. |
+| [Spec_eTerminservice_Abr] | Spezifikation „Spezifikation KV    Dieses Dokument wird in dem Verzeichnis  https://update.kbv.de/ita-update/TSS/    bereitgestellt. |
+| [Spec_Vermittlungscode] | Spezifikation „Spezifikation 116117    „   Diese Dokumente werden in dem  update/TSS/3_0_0   bereitgestellt. |
+| [Spec_Abrechnungsinformation] | Spezifikation „Spezifikation 116117    „Technische Anlage zur Spezifikation    Diese Dokumente werden in dem  update/TSS/3_0_0   bereitgestellt. |
 
-Connect“ in der stets aktuellen Version  Connect/ bereitgestellt. -Connect Anwendungsdienst eTerminservice“ in der stets aktuellen Version   -Connect Anwendungsdienst eTerminservice Abrechnungsinformation“ in der stets aktuellen Version   Vermittlungscode“ in der stets aktuellen Version _116117 Terminservice “ in der stets aktuellen Version in der stets aktuellen Version _116117 Terminservice Abrechnungsinformation“ in der stets aktuellen Version  TSS-# NTE
+Connect“ in der stets aktuellen Version  Connect/ bereitgestellt. -Connect Anwendungsdienst eTerminservice“ in der stets aktuellen Version   -Connect Anwendungsdienst eTerminservice Abrechnungsinformation“ in der stets aktuellen Version   Vermittlungscode“ in der stets aktuellen Version _116117 Terminservice “ in der stets aktuellen Version Verzeichnis https://update.kbv.de/ita- in der stets aktuellen Version _116117 Terminservice Abrechnungsinformation“ in der stets aktuellen Version Verzeichnis https://update.kbv.de/ita-  TSS-# NTE
 
 
 ---
 
 |  |  |
 |---|---|
-|  | Spezifikation in der stets aktuellen Version  Dieses Dokument wird in dem Verzeichnis https://update.kbv.de/ita- |
+|  | Spezifikation  in der stets aktuellen Version    Dieses Dokument wird in dem Verzeichnis  https://update.kbv.de/ita- |
 | KBV_ITA_RLEX_Zert.pdf | Zertifizierungsrichtlinie der KBV https://update.kbv.de/ita- |
 
 **Ansprechpartner:**

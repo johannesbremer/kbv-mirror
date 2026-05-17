@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 7. AUGUST 2024  VERSION: 2.4  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 7. AUGUST 2024   VERSION: 2.4   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # PRÜFPAKET 1 CLICKABRECHNUNG
@@ -140,13 +140,13 @@ DOKUMENTENHISTORIE
 
 | VERSION | DATUM | AUTOR | ÄNDERUNG | BEGRÜNDUNG | SEITE |
 |---|---|---|---|---|---|
-| 2.4 | 07.08.2024 | KBV | Anpassungen beim | Bessere | 1.1 |
-| 2.3 | 23.01.2024 | KBV | Ergänzung im Kapitel Aufnahme eines neuen Voraussetzungen für | Fehlende | 20   15  7 |
+| 2.4 | 07.08.2024 | KBV | Anpassungen beim | Bessere | 11 |
+| 2.3 | 23.01.2024 | KBV | Ergänzung im Kapitel  Aufnahme eines neuen  Voraussetzungen für | Fehlende | 20      15    7 |
 | 2.2 | 15.11.2023 | KBV | Anpassungen beim | Bessere | 11 |
 | 2.1 | 16.10.2023 | KBV | Redaktionelle |  | 11 |
-| 2.0 | 26.07.2023 | KBV | Komplettüberarbeitung Überarbeitung des | Kommunikationsweg | Alle |
+| 2.0 | 26.07.2023 | KBV | Komplettüberarbeitung  Überarbeitung des | Kommunikationsweg | Alle |
 | 1.14 | 10.02.2023 | KBV | Redaktionelle |  | Alle |
-| 1.13 | 15.05.2020 | KBV | Klarstellung zur Klarstellung zum Audit |  | 12   13 |
+| 1.13 | 15.05.2020 | KBV | Klarstellung zur  Klarstellung zum Audit |  | 12      13 |
 
 PF04 4.4.1 Prüfergebnisse im Prüfprotokoll Prüffalls (PF-11) die Referenzumgebung (RU) der Telematikinfrastruktur PF06 Änderung (Anpassung des Textes für den menschenlesbaren Body, Einfügen eines Hinweises) des Prüfpaketes Layouts Änderung und Korrektur der Links Bereitstellung der Prüfdaten „Anbindung an KVConnect“ Verständlichkeit und Vermeidung von Missverständnissen Prüfnummer 1Click0136/d Verständlichkeit und Vermeidung von Missverständnissen KIM statt KV- Connect
 
@@ -715,8 +715,8 @@ Die Adresse muss aus der SDKVCA bestimmt werden -
 
 | Was wird an das | Ergebnis der Prüfung | Ergebnis der Prüfung | Was sendet das Backend |
 |---|---|---|---|
-| "1ClickAbrechnung- Lieferung" | Nachricht "1ClickAbrechnung- | entfällt | Prüfprotokoll Technische |
-| "1ClickAbrechnung- Lieferung" | Nachricht Fehler | Datenpakete sind | Prüfprotokoll Technische Fachliche Rückmeldung |
+| "1ClickAbrechnung-  Lieferung" | Nachricht  "1ClickAbrechnung- | entfällt | Prüfprotokoll  Technische |
+| "1ClickAbrechnung-  Lieferung" | Nachricht  Fehler | Datenpakete sind | Prüfprotokoll  Technische  Fachliche Rückmeldung |
 
 **Tabelle 1: Verhalten des Prüfclients**
 
@@ -756,7 +756,7 @@ Backend gesendet? Lieferung" enthielt Lieferung" enthielt keine fehlerfrei oder 
 | 1Click0142/b | Die Metainformationen im MIME -Segment der Begleitdatei sind | Ja / Nein | 1Click0142/b entfällt, wenn 1Click0142/a = Nein |
 | BGD0101 | Ist die | Ja / Nein | BGD0101 entfällt, wenn: |
 | BGD0102 | -8 erstellt worden? | Ja / Nein | BGD0102 entfällt, wenn BGD0101 = Nein |
-| 1Click0134/a | Enthält die | Ja / Nein | 1Click0134/a entfällt, wenn: 1Click0134/a sowie die nachfolgenden Prüfungen |
+| 1Click0134/a | Enthält die | Ja / Nein | 1Click0134/a entfällt, wenn:  1Click0134/a sowie die nachfolgenden Prüfungen |
 
 Ist das Element „ “ im Nachrichten-Header eingerichtet?  mit dem vorgegebenen Wert befüllt? Disposition- Notification-To Cc 1ClickAbrechnung-Lieferung genau MIME-Segment mit einer Begleitdatei im XML -Format? angelegt? entsprechend der Vorgaben befüllt? valide zur XSD -Schemadatei KVTA_Einlieferung-Abrechnung_2_0_0.xsd Ist die Begleitdatei mit dem Zeichensatz UTF 1ClickAbrechnung-Lieferung genau MIME-Segment mit der Abrechnungsdatei? -Header nicht erfolgreich war. 1Click0131= Nein 1Click0142/b = Nein 1Click0142/b = Nein aufgrund Angaben
 
@@ -767,7 +767,7 @@ Ist das Element „ “ im Nachrichten-Header eingerichtet?  mit dem vorgegebene
 |  |  |  | Begleitdatei keine Abrechnungsdatei enthalten sein |
 | 1Click0142/c | Die Metainformationen im MIME -Segment der Abrechnungsdatei | Ja / Nein | entfällt, wenn 1Click0134/a = Nein |
 | 1Click0142/d | Die Metainformationen im MIME-Segment Abrechnungsdatei sind Ja / Nein |  | entfällt, wenn 1Click0142/c = Nein |
-| 1Click0134/b | Enthält die Nachricht " | Ja / Nein | 1Click0134/b entfällt, wenn: 1Click0134/b sowie die nachfolgenden Prüfungen |
+| 1Click0134/b | Enthält die Nachricht " | Ja / Nein | 1Click0134/b entfällt, wenn:  1Click0134/b sowie die nachfolgenden Prüfungen |
 | 1Click0142/e | Die Metainformationen im MIME -Segment der Sammelerklärung | Ja / Nein | entfällt, wenn 1Click0134/b = Nein |
 | 1Click0142/f | Die Metainformationen im MIME-Segment Sammelerklärung im | Ja / Nein | entfällt, wenn 1Click0142/e = Nein |
 | 1Click0136/b | Wurde die Namenskonvention für die Sammelerklärung im XML - | Ja / Nein | 1Click0136/b entfällt, wenn: |
@@ -781,10 +781,10 @@ sind angelegt? entsprechend der Vorgaben befüllt? 1ClickAbrechnung-Lieferung MI
 | PRÜFNUMMER | PRÜFUMFANG | ERGEBNIS | HINWEIS |
 |---|---|---|---|
 | 1Click0136/d | Ist die | Ja / Nein | entfällt, wenn: |
-| 1Click0134/c | Enthält die Nachricht " | Ja / Nein | 1Click0134/c entfällt, wenn: 1Click0134/c sowie die nachfolgenden Prüfungen |
+| 1Click0134/c | Enthält die Nachricht " | Ja / Nein | 1Click0134/c entfällt, wenn:  1Click0134/c sowie die nachfolgenden Prüfungen |
 | 1Click0142/g | Die Metainformationen im MIME -Segment der Sammelerklärung | Ja / Nein | 1Click0142/g entfällt, wenn 1Click0134 /c = Nein |
 | 1Click0142/h | Die Metainformationen im MIME -Segment Sammelerklärung im | Ja / Nein | 1Click0142/h entfällt, wenn 1Click0142/g = Nein |
-| 1Click0137 | Ist die Sammelerklärung im PDF/A-Format erstellt worden? | Ja / Nein | 1Click0137 entfällt, wenn: geprüft wird gegen den Standard PDF/A-1b |
+| 1Click0137 | Ist die Sammelerklärung im PDF/A-Format erstellt worden? | Ja / Nein | 1Click0137 entfällt, wenn:  geprüft wird gegen den Standard PDF/A-1b |
 | 1Click0141/a | Wurde die Namenskonvention für die Sammelerklärung im PDF - | Ja / Nein | 1Click0141/a entfällt, wenn: |
 
 - 1Click0134/b = Nein

@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT 4. FEBRUAR 2025 VERSION: 1.0  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT  4. FEBRUAR 2025  VERSION: 1.0   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # ANTRAG AUF ZERTIFIZIERUNG 116117  VERMITTLUNGSCODE
@@ -27,15 +27,15 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 |  |  | | |
 |---|---|---|---|
-| Name des Antragstellers [bei juristischen Personen ist die Rechtsform anzugeben] |  | | |
+| Name des Antragstellers  [bei juristischen Personen ist die  Rechtsform anzugeben] |  | | |
 | Geschäftsbereich [falls vorhanden] |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
 | E-Mail-Adresse |  | | |
 | Webseite |  | | |
-| Der Antragsteller | ☐  Arzt/Ärztin | ☐  Softwarehaus | ☐  Sonstiges |
-| Systempfleger [nur anzugeben, wenn der Systempfleger vom Antragsteller abweicht] |  | | |
+| Der Antragsteller | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
+| Systempfleger  [nur anzugeben, wenn der  Systempfleger vom Antragsteller  abweicht] |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
@@ -53,7 +53,7 @@ Nur anzugeben, wenn abweichend von Abschnitt 1.1.
 
 |  |  |
 |---|---|
-| Bestell- bzw. Auftragsnummer des Antragsstellers |  |
+| Bestell- bzw. Auftragsnummer des  Antragsstellers |  |
 | Name |  |
 | Straße und Hausnummer |  |
 | PLZ, Ort |  |
@@ -65,7 +65,7 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizie
 |  |  |
 |---|---|
 | Bezeichnung |  |
-| Identnummer [die letzten drei Stellen der Prüfnummer, falls vorhanden] |  |
+| Identnummer [die letzten drei  Stellen der Prüfnummer, falls  vorhanden] |  |
 
 ## 1.4
 
@@ -84,7 +84,7 @@ Bitte geben Sie im Folgenden an, welche Client
 
 |  |  |
 |---|---|
-| ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen des Kapitels 2 „Umsetzung der Spezifikation Der Antragsteller nimmt die Anforderung KP2-505 des Anforderungskataloges KVDT |
+| ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen des Kapitels 2 „Umsetzung der Spezifikation  Der Antragsteller nimmt die Anforderung KP2-505 des Anforderungskataloges KVDT |
 
 [ ]
 

@@ -6,31 +6,31 @@
 
 **Id Praxissoftware**
 
-2.80 **CGM MEDISTAR BLACK PRO**
+280 **CGM MEDISTAR BLACK PRO**
 
-4.57 **tomedo**
+457 **tomedo**
 
-1.12 **TURBOMED**
+112 **TURBOMED**
 
-2.03 **ALBIS**
+203 **ALBIS**
 
-2.10 **Medical Office**
+210 **Medical Office**
 
-2.16 **x.isynet**
+216 **x.isynet**
 
-4.62 **medatixx**
+462 **medatixx**
 
-2.61 **S3-Win**
+261 **S 3-Win**
 
-2.43 **x.concept**
+243 **x.concept**
 
-4.98 **T2med**
+498 **T 2med**
 
-2.44 **QUINCY WIN**
+244 **QUINCY WIN**
 
-2.52 **CGM M1 PRO**
+252 **CGM M1 PRO**
 
-1.35 **EL - Elaphe Longissima**
+135 **EL - Elaphe Longissima**
 
 **Anbieter**
 
@@ -48,11 +48,11 @@ medatixx GmbH & Co. KG
 
 medatixx GmbH & Co. KG
 
-S3 Praxiscomputer GmbH / Maximilian Flender
+S 3 Praxiscomputer GmbH / Maximilian Flender
 
 medatixx GmbH & Co. KG
 
-T2med GmbH & Co. KG
+T 2med GmbH & Co. KG
 
 Frey ADV GmbH
 
@@ -62,59 +62,59 @@ medatixx GmbH & Co. KG 1
 
 **Installationen 2.Q.2025**
 
-3.93
+393
 
-2.53
+253
 
-2.42
+242
 
-1.56
+156
 
-1.27
+127
 
-1.22
+122
 
-1.04
+104
 
-9.8
+98
 
-8.5
+85
 
-8.2
+82
 
-7.6
+76
 
-7.2
+72
 
-5.6
+56
 
 **Installationen 1.Q.2025**
 
-3.98
+398
 
-2.45
+245
 
-2.47
+247
 
-1.58
+158
 
-1.26
+126
 
-1.23
+123
 
-1.02
+102
 
-1.00
+100
 
-8.8
+88
 
-8.0
+80
 
-7.7
+77
 
-7.3
+73
 
-5.8
+58
 
 **Differenz**
 
@@ -149,19 +149,19 @@ medatixx GmbH & Co. KG 1
 
 **Id Praxissoftware**
 
-2.54 **ORBIS®**
+254 **ORBIS®**
 
-0.15 **MEDYS**
+015 **MEDYS**
 
-3.43 **SAP Ambulatory Care Management**
+343 **SAP Ambulatory Care Management**
 
-2.66 **x.comfort**
+266 **x.comfort**
 
-0.86 **DURIA**
+086 **DURIA**
 
-0.83 **PegaMed**
+083 **PegaMed**
 
-0.30 **Praxis-Programm**
+030 **Praxis-Programm**
 
 **Anbieter**
 
@@ -181,35 +181,35 @@ MediSoftware Computersysteme für Ärzte 2
 
 **Installationen 2.Q.2025**
 
-4.1
+41
 
-3.7
+37
 
-3.5
+35
 
-3.4
+34
 
-3.1
+31
 
-2.5
+25
 
-2.4
+24
 
 **Installationen 1.Q.2025**
 
-4.2
+42
 
-3.7
+37
 
-3.2
+32
 
-3.7
+37
 
-3.1
+31
 
-2.5
+25
 
-2.4
+24
 
 **Differenz**
 

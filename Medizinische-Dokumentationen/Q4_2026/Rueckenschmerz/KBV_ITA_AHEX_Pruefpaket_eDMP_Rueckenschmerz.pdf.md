@@ -5,7 +5,7 @@
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_EDMP_RUECKENSCHMERZ
 
-|  | BUNDESVEREINIGUNG DEZERNAT DIGITALISIERUNG UND IT 31. MÄRZ 2026  VERSION: 1.03  DOKUMENTENSTATUS: IN |
+|  | BUNDESVEREINIGUNG  DEZERNAT DIGITALISIERUNG UND IT  31. MÄRZ 2026   VERSION: 1.03   DOKUMENTENSTATUS: IN |
 |---|---|
 
 |  |
@@ -125,17 +125,17 @@ KASSENÄRZTLICHE IT IN DER ARZTPRAXIS KRAFT
 
 26
 
-| **4** | **ANHANG** |  | **29** |
-|---|---|---|---|
-| 4.1 | Prüffall | 10 – Ersatzverfahren | 29 |
+**4** **ANHANG**
+
+**29**
+
+4.1 Prüffall 10 – Ersatzverfahren 29
 
 **5** **REFERENZIERTE DOKUMENTE**
 
 **30**
 
 3 / 31. März 2026
-
-Prüffall 10 – Ersatzverfahren
 
 
 ---
@@ -154,10 +154,10 @@ DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.03 | 31.03.2026 | KBV | Anpassung der Prüffälle an  Redaktionelle Bearbeitung von  Anpassung Prüffall 3540 | Schnittstellenversion    Änderung der | 7, 10   22   24 |
+| 1.03 | 31.03.2026 | KBV | Anpassung der Prüffälle an    Redaktionelle Bearbeitung von    Anpassung Prüffall 3540 | Schnittstellenversion        Änderung der | 7, 10      22      24 |
 | 1.02 | 12.02.2024 | KBV | Anpassung der übergreifenden | COPD- | 9ff |
-| 1.01 | 08.11.2022 | KBV | Datumsanpassungen der  Ergänzung eines Testfalls für |  | Alle   24 |
-| 1.00 | 15.02.2021 | KBV | Datumsanpassungen der  Aufnahme eines Testfalls für  Neuer Prüffall 3540 zur  Redaktionelle Bearbeitung von | Datumsanpassungen Schnittstellenversion   Anpassung an | Alle         24     22 |
+| 1.01 | 08.11.2022 | KBV | Datumsanpassungen der    Ergänzung eines Testfalls für |  | Alle      24 |
+| 1.00 | 15.02.2021 | KBV | Datumsanpassungen der    Aufnahme eines Testfalls für    Neuer Prüffall 3540 zur    Redaktionelle Bearbeitung von | Datumsanpassungen  Schnittstellenversion      Anpassung an | Alle                  24          22 |
 | 1.00 | 15.02.2021 | KBV | Dokumenterstellung | Initiale Erstellung | alle |
 
 **Archivdatei** mit den Prüfunterlagen 6
@@ -260,7 +260,7 @@ einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender N
 
 - 1
 
-- 2.3
+- 2 3
 
 -  [PrüffallNr.] _[lfdNr.] .*
 
@@ -313,7 +313,7 @@ Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22, „se
 
 - Ab dem **01.04.2023** muss die Schnittstellenversion** 1.01** verwendet werden.
 
-Ab dem **01.10.2026** muss die Schnittstellenversion **1.02** verwendet werden.
+Ab dem **01.10.2026** muss die Schnittstellenversion **1 02** verwendet werden.
 
 - Indikation **COPD:**
 
@@ -477,7 +477,7 @@ Anlage einer Erst- und einer Verlaufsdokumentation CR-Dokumentationsunterlagen B
 | Datum der Erstellung |  | |
 |---|---|---|
 |  |  |  |
-|  | 1.35 / 85 mmHg |  |
+|  | 135 / 85 mmHg |  |
 |  | Nein |  |
 |  | Erkrankungen |  |
 |  |  |  |
@@ -488,7 +488,7 @@ Anlage einer Erst- und einer Verlaufsdokumentation CR-Dokumentationsunterlagen B
 
 - **3.**
 
-den letzten 3 Monaten Ihre Freizeitaktivitäten Unternehmungen im Familien- und Freundeskreis beeinträchtigt, wenn 0 = keine Beeinträchtigung und  10 = keine Aktivitäten mehr möglich  bedeuten? den letzten 3 Monaten Ihre Arbeitsfähigkeit (einschließlich Hausarbeit) beeinträchtigt, wenn Beeinträchtigung und 10 = keine Aktivitäten mehr möglich bedeuten? Anlegen einer Erst- und einer Verlaufsdokumentation INDIKATIONSÜBERGREIFENDE  DATEN Administrative Daten DMP-Fallnummer Krankenhaus-IK Dokumentation in Vertretung erstellt Einschreibung wegen Geschlecht Allgemeine Anamnese- und Befunddaten Körpergröße Körpergewicht Blutdruck (systolisch / diastolisch) Raucher Begleiterkrankungen Behandlungsplanung Vom Patienten gewünschte Informationsangebote der Krankenkasse Dokumentationsintervall  oder 0 = keine Erstdokumentation 3511 06.04.2024  15.mm.jjjj chronischer Männlich 2,01 m 1.06 kg 1.45 / 90 mmHg Ja Arterielle Hypertonie Tabakverzicht, Ernährungsberatung,  Quartalsweise 06.04.2024  15.mm.jjjj Verlaufsdokumentation 3511 06.07.2024  15.mm.jjjj chronischer Männlich 2,01 m 9.6 kg Keine der genannten Jedes zweite Quartal 06.07.2024  15.mm.jjjj
+den letzten 3 Monaten Ihre Freizeitaktivitäten Unternehmungen im Familien- und Freundeskreis beeinträchtigt, wenn 0 = keine Beeinträchtigung und  10 = keine Aktivitäten mehr möglich  bedeuten? den letzten 3 Monaten Ihre Arbeitsfähigkeit (einschließlich Hausarbeit) beeinträchtigt, wenn Beeinträchtigung und 10 = keine Aktivitäten mehr möglich bedeuten? Anlegen einer Erst- und einer Verlaufsdokumentation INDIKATIONSÜBERGREIFENDE  DATEN Administrative Daten DMP-Fallnummer Krankenhaus-IK Dokumentation in Vertretung erstellt Einschreibung wegen Geschlecht Allgemeine Anamnese- und Befunddaten Körpergröße Körpergewicht Blutdruck (systolisch / diastolisch) Raucher Begleiterkrankungen Behandlungsplanung Vom Patienten gewünschte Informationsangebote der Krankenkasse Dokumentationsintervall  oder 0 = keine Erstdokumentation 3511 06.04.2024  15.mm.jjjj chronischer Männlich 2,01 m 106 kg 145 / 90 mmHg Ja Arterielle Hypertonie Tabakverzicht, Ernährungsberatung,  Quartalsweise 06.04.2024  15.mm.jjjj Verlaufsdokumentation 3511 06.07.2024  15.mm.jjjj chronischer Männlich 2,01 m 96 kg Keine der genannten Jedes zweite Quartal 06.07.2024  15.mm.jjjj
 
 | INDIKATIONSÜBERGREIFENDE | | |
 |---|---|---|
@@ -501,12 +501,12 @@ den letzten 3 Monaten Ihre Freizeitaktivitäten Unternehmungen im Familien- und 
 | Geschlecht | Männlich | Männlich |
 | Allgemeine Anamnese- und Befunddaten | | |
 | Körpergröße | 2,01 m | 2,01 m |
-| Körpergewicht | 1.06 kg | 9.6 kg |
-| Blutdruck (systolisch / diastolisch) | 1.45 / 90 mmHg | 1.35 / 85 mmHg |
+| Körpergewicht | 106 kg | 96 kg |
+| Blutdruck (systolisch / diastolisch) | 145 / 90 mmHg | 135 / 85 mmHg |
 | Raucher | Ja | Nein |
 | Begleiterkrankungen | Arterielle Hypertonie | Erkrankungen |
 | Behandlungsplanung | | |
-| Vom Patienten gewünschte | Tabakverzicht, Körperliches Training | Körperliches Training |
+| Vom Patienten gewünschte | Tabakverzicht,  Körperliches Training | Körperliches Training |
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung | 06.04.2024  15.mm.jjjj | 06.07.2024  15.mm.jjjj |
 
@@ -573,7 +573,7 @@ Die Versichertendaten von
 | Raucher | Nein | Nein |
 | Begleiterkrankungen | Erkrankungen | COPD |
 | Behandlungsplanung | | |
-| Vom Patienten gewünschte | Ernährungsberatung,  Körperliches Training | Körperliches Training |
+| Vom Patienten gewünschte | Ernährungsberatung,   Körperliches Training | Körperliches Training |
 | Dokumentationsintervall | Quartalsweise | Quartalsweise |
 | Datum der Erstellung | 06.04.2024  15.mm.jjjj | 06.07.2024  15.mm.jjjj |
 
@@ -636,7 +636,7 @@ Die Versichertendaten von Kai von und zu Oldenburg (Siehe Anhang 4.1) im Ersatzv
 | Allgemeine Anamnese- und Befunddaten | | |
 | Körpergröße | 1,75 m | 1,75 m |
 | Körpergewicht | 064 kg | 062 kg |
-| Blutdruck | 123 / 72 mmHg | 1.24 / 76 mmHg |
+| Blutdruck | 123 / 72 mmHg | 124 / 76 mmHg |
 | Raucher | Ja | Nein |
 | Begleiterkrankungen | Nach Funktion P1-47 des | Nach Funktion P1-47 des |
 |  | | |
@@ -759,7 +759,7 @@ einer multimodalen Schulung teilgenommen empfohlen (bei aktueller Dokumentation)
 | Prüffall-ID | 3514 |
 | Testziel | › |
 | Voraussetzung | › |
-| Prüfunterlagen | ›  › |
+| Prüfunterlagen | ›   › |
 | Hinweis | › |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
@@ -892,9 +892,9 @@ multimodalen Schulung teilgenommen aktueller Dokumentation) in den letzten drei 
 |  |  |
 |---|---|
 | Prüffall-ID | 3530 |
-| Testziel | (KBV_ITA_VGEX_Anforderungskatalog_eDMP ) |
+| Testziel | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
 | Voraussetzung |  |
-| Prüfunterlagen | Dokumentieren Sie durch Videos die Eingaben einschließlich der Ergebnisse nach einer möglichen Hinweissteuerung. |
+| Prüfunterlagen | Dokumentieren Sie durch Videos die Eingaben einschließlich der Ergebnisse nach  einer möglichen Hinweissteuerung. |
 | Hinweis | Dieser Testfall ist unterteilt in vier Szenarien |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
@@ -902,11 +902,11 @@ multimodalen Schulung teilgenommen aktueller Dokumentation) in den letzten drei 
 | SZENARIEN |
 |---|
 | Szenario 1 |
-| › Fragebogens einer KBV_ITA_VGEX_Anforderungskatalog_eDMP ). |
+| › Fragebogens einer  KBV_ITA_VGEX_Anforderungskatalog_eDMP). |
 | Szenario 2 |
-| › › • Erstdokumentation • Akz. 1) • • Einschreibung in das eDMP chronischer Rückenschmerz fortgefahren werden soll (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP ). |
+| › › • Erstdokumentation • Akz. 1) • • Einschreibung in das eDMP chronischer Rückenschmerz fortgefahren werden soll (siehe  KBV_ITA_VGEX_Anforderungskatalog_eDMP). |
 | Szenario 3 |
-| › › • • jeweils die nähere Erläuterung gemäß Anforderung KP1-46 anzeigt wird (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP ). |
+| › › • • jeweils die nähere Erläuterung gemäß Anforderung KP1-46 anzeigt wird  (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP). |
 |  |
 |  |
 | ) |
@@ -956,7 +956,7 @@ Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 | Administrative Daten |  |
 | DMP | chronischer Rückenschmerz |
 | DMP-Fallnummer | 1010 |
-| Datum | 0.5.04.2023  15.10.2026 |
+| Datum | 05.04.2023  15.10.2026 |
 
 Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP PDF-Datei „TE_EWE_CR.pdf“ der indikationsübergreifenden Teilnahme- und Einwilligungserklärung  Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
 
@@ -999,7 +999,7 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 |  |  |
 |---|---|
-| Prüffall-ID | TDV3518 |
+| Prüffall-ID | TDV 3518 |
 | Testziel | › |
 | Voraussetzung | › |
 | Prüfunterlagen | › |
@@ -1019,11 +1019,11 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 | Frage 5: In welchem Maße haben Rückenschmerzen in | 4 | 4 |
 | Erstdokumentation | Verlaufsdokumentation | |
 |  |  |  |
-| TDV3518 |  |  |
+| TDV 3518 |  |  |
 
 - **2.**
 
-Anlage einer Erstdokumentation mit der Schnittstellenversion 1.01 CR-Dokumentationsunterlagen Versichertendaten Die Versichertendaten von Brigitte Althaus (XML_05) einlesen und speichern. Bestimmung des Schweregrads nach von Korff: Jeweils für die Erst- und Folgedokumentation die Antworten auf die Fragen des CPG-Fragebogens erfassen und den Schweregrad berechnen. momentanen Rückenschmerzen, d.h. jetzt im Augenblick , auf einer Skala einschätzen, wenn 0 = kein Schmerz und 10 = stärkster vorstellbarer Schmerz  bedeuten? stärksten Rückenschmerzen in den letzten 3 Monaten einschätzen, wenn 0 = kein Schmerz und 10 = stärkster vorstellbarer Schmerz bedeuten? in den letzten 3 Monaten im Durchschnitt , wenn 0 = kein Schmerz und 10 = stärkster vorstellbarer Schmerz bedeuten? An wie vielen Tagen  konnten Sie in den letzten 3 Monaten aufgrund von Rückenschmerzen nicht Ihren üblichen Aktivitäten nachgehen (z. B. Arbeit, Schule, Haushalt)? den letzten 3 Monaten Ihre alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) beeinträchtigt, wenn 0 = keine Beeinträchtigung und  10 = keine Aktivitäten  mehr möglich bedeuten?
+Anlage einer Erstdokumentation mit der Schnittstellenversion 1 01 CR-Dokumentationsunterlagen Versichertendaten Die Versichertendaten von Brigitte Althaus (XML_05) einlesen und speichern. Bestimmung des Schweregrads nach von Korff: Jeweils für die Erst- und Folgedokumentation die Antworten auf die Fragen des CPG-Fragebogens erfassen und den Schweregrad berechnen. momentanen Rückenschmerzen, d.h. jetzt im Augenblick , auf einer Skala einschätzen, wenn 0 = kein Schmerz und 10 = stärkster vorstellbarer Schmerz  bedeuten? stärksten Rückenschmerzen in den letzten 3 Monaten einschätzen, wenn 0 = kein Schmerz und 10 = stärkster vorstellbarer Schmerz bedeuten? in den letzten 3 Monaten im Durchschnitt , wenn 0 = kein Schmerz und 10 = stärkster vorstellbarer Schmerz bedeuten? An wie vielen Tagen  konnten Sie in den letzten 3 Monaten aufgrund von Rückenschmerzen nicht Ihren üblichen Aktivitäten nachgehen (z. B. Arbeit, Schule, Haushalt)? den letzten 3 Monaten Ihre alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) beeinträchtigt, wenn 0 = keine Beeinträchtigung und  10 = keine Aktivitäten  mehr möglich bedeuten?
 
 ---
 

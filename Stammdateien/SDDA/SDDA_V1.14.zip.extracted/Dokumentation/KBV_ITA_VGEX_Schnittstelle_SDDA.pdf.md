@@ -19,10 +19,10 @@ stellen-Stammdatei (SDDA) 1.14 Datum: 22.11.2024 Kennzeichnung: Öffentlich Stat
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.14 | 22.11.2024 | KBV | Element Streichung des Elemen- Anpassung der Version Redaktionelle Anpassung | Datenannahmestellen   Verbesserung der Zuord- | 29, 31  29, 30  23 |
+| 1.14 | 22.11.2024 | KBV | Element  Streichung des Elemen- Anpassung der Version  Redaktionelle Anpassung | Datenannahmestellen      Verbesserung der Zuord- | 29, 31    29, 30    23 |
 | 1.13 | 11.12.2017 | KBV | Dokumentenversion und |  |  |
 | 1.10 | 04.11.2015 | KBV | Korrektur des Beispiels | Attribut | 19 |
-| 1.09 | 24.04.2015 | KBV | Element Entfernung der Diagram- Entfernung des Ab- Anpassung der Version | können auch über KV- Das Element Verbesserung der Konsis- | 31  32  23 |
+| 1.09 | 24.04.2015 | KBV | Element  Entfernung der Diagram- Entfernung des Ab- Anpassung der Version | können auch über KV- Das Element  Verbesserung der Konsis- | 31    32    23 |
 | 1.08 | 09.08.2012 | KBV | Red. Änderungen |  |  |
 
 **K** **U** **M** **E** **N** **T** **E** **N**
@@ -254,9 +254,9 @@ Für die XML -Dateien ist der Zeichensatz ISO -8859-1 vorgeschrieben. Bei allen 
 
 Das ***<ehd>*** - Element hat folgenden Aufbau:
 
-| attributes | Name   Type   Use   Default   Fixed   Annotation ehd_version   xs:decimal required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  ehd_version    xs:decimal required |
 |---|---|
-| example | <ehd:ehd xmlns:ehd="urn:ehd/001" xmlns="urn:ehd/sdda/001"                        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"   ehd_version="1.30">     <ehd:header>         ...     </ehd:header>     <ehd:body>             </ehd:body> </ehd:ehd> |
+| example | <ehd:ehd xmlns:ehd="urn:ehd/001" xmlns="urn:ehd/sdda/001"                         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"     ehd_version="1.30">      <ehd:header>          ...      </ehd:header>      <ehd:body>               </ehd:body>  </ehd:ehd> |
 
 ehd_version: Im XML-File wird die Versionsnummer zur zugrundeliegenden ehd-Richtlinie  bzw. des verwendeten ehd-Schemas angeben. Der Wertebereich wird auf 0.00  bis 99.99 festgelegt, anderenfalls wird der Parser Fehler melden.
 
@@ -279,7 +279,7 @@ Der Header enthält die Metadaten zu den im body liegenden eigentlichen Inhaltsd
 
 | diagram |  |
 |---|---|
-| example | <ehd:header>     <ehd:id EX="1100" RT="1.2.276.0.76.3.1.1"/>     <ehd:document_type_cd V="SDDA" S="1.2.276.0.76.5.100" DN="Stammdatei-Datenannahmestellen"/>     <ehd:service_tmr V="2005-04-21.."/>     <ehd:origination_dttm V="2005-04-21"/>     <ehd:provider>         ...     </ehd:provider>     <ehd:interface>         ...     </ehd:interface> </ehd:header> |
+| example | <ehd:header>      <ehd:id EX="1100" RT="1.2.276.0.76.3.1.1"/>      <ehd:document_type_cd V="SDDA" S="1.2.276.0.76.5.100" DN="Stammdatei-Datenannahmestellen"/>      <ehd:service_tmr V="2005-04-21.."/>      <ehd:origination_dttm V="2005-04-21"/>      <ehd:provider>          ...      </ehd:provider>      <ehd:interface>          ...      </ehd:interface>  </ehd:header> |
 
 ## 5.1 id (Dokument-ID)
 
@@ -291,7 +291,7 @@ Das Element hat folgenden Aufbau:
 
 | diagram |  |
 |---|---|
-| attributes | Name   Type   Use   Default   Fixed   Annotation EX   xs:string optional           RT   xs:string required           RTV   xs:string optional |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  EX    xs:string  optional               RT    xs:string  required               RTV    xs:string  optional |
 | example | <ehd:id EX="1100" RT="1.2.276.0.76.3.1.1"/> |
 
 EX: („extension“=“Erweiterung“ zu dem RT EX-Attribut einen Identifikator, der die betreffende XML -Datei eindeutig identifiziert. Je-
@@ -337,7 +337,7 @@ Das Element <document_type_cd> hat folgenden Aufbau:
 
 | diagram |  |
 |---|---|
-| attributes | Name   Type   Use   Default   Fixed   Annotation DN   xs:string optional           SN   xs:string optional           SV   xs:string optional           S   xs:string optional      1.2.276.0.76.5.100     V    required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  DN    xs:string  optional               SN    xs:string  optional               SV    xs:string  optional               S    xs:string  optional        1.2.276.0.76.5.100       V      required |
 | example <ehd:document_type_cd V="SDDA" S="1.2.276.0.76.5.100" DN="Stammdatei-Datenannahmestellen"/> |  |
 
 dieses Attribut enthält eine OID/Nummer der Organisation oder der
@@ -383,7 +383,7 @@ Das Element hat folgenden Aufbau:
 
 | diagram |  |
 |---|---|
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   zeitraum_typ required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    zeitraum_typ  required |
 | example | <ehd:service_tmr V="2005-04-21.."/> |
 
 V: hier wird der Gültigkeitszeitraum z.B. im Format „ geben. Das erste Datum steht dabei für den Anfang, das zweite Datum für das Ende  des Gültigkeitszeitraums. Die beiden Angaben werden durch zwei Punkte voneinander
@@ -408,7 +408,7 @@ Das Element hat folgenden Aufbau:
 
 | diagram |  |
 |---|---|
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   xs:date required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:date  required |
 | example | <ehd:origination_dttm V="2005-04-21"/> |
 
 ***<origination_dttm>*** beschreibt das Erstellungsdatum der Stammdatei.
@@ -450,7 +450,7 @@ DD“ ange-
 
 | diagram |  |
 |---|---|
-| XML-Rahmen | <ehd:provider>     <ehd:provider.type_cd V="     <ehd:function_cd V="     <ehd :participation_tmr V="     <ehd :person>             </ehd:person>     <ehd:organization>         ...     </ehd:organization>     <ehd:local_header>         ...     </ehd: local_header > </ehd:provider> |
+| XML-Rahmen | <ehd:provider>      <ehd:provider.type_cd V="     <ehd:function_cd V="     <ehd :participation_tmr V="     <ehd :person>               </ehd:person>      <ehd:organization>          ...      </ehd:organization>      <ehd:local_header>          ...      </ehd: local_header >  </ehd:provider> |
 
 ***<provider.type_cd>***
 
@@ -662,7 +662,7 @@ Werte für diese Elemente werden im V-Attribut angegeben. Jedes Namensteil -Elem
 
 Das Element hat folgende Attribute:
 
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   xs:string   required           QUAL   xs:NMTOKENS   optional |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string    required               QUAL    xs:NMTOKENS    optional |
 |---|---|
 
 
@@ -707,7 +707,7 @@ Das Element hat folgende Attribute:
 
 | Kardinaliät | 0..n |
 |---|---|
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   xs:string   required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string    required |
 
 V: hier wird der Wert eingetragen
 
@@ -764,7 +764,7 @@ Das Element hat folgende Attribute:
 
 | Kardinaliät | 0..n |
 |---|---|
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   xs:string   required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string    required |
 
 V: hier wird der Wert eingetragen
 
@@ -797,7 +797,7 @@ Das Element hat folgende Attribute:
 
 | Kardinaliät | 0..n |
 |---|---|
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   xs:string   required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string    required |
 
 V: hier wird der Wert eingetragen
 
@@ -825,7 +825,7 @@ Das Element hat folgende Attribute:
 
 | Kardinaliät 0..n |  |
 |---|---|
-| attributes | Name   Type   Use   Default   Fixed   Annotation Ignore   ignore_typ   optional markup        descriptor   xs:string   optional         Render   xs:render     optional |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  Ignore    ignore_typ    optional  markup           descriptor    xs:string    optional             Render    xs:render      optional |
 
 ignore: Dieses Attribut kann einer Anwendung (z.B. Stylesheet) Hinweis geben, ob  Daten innerhalb des ***<local_header>***-Elements ignoriert werden können. Mit Aus-
 
@@ -943,7 +943,7 @@ Das Element hat folgende Attribute:
 
 | Kardinaliät | 0..n |
 |---|---|
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   xs:string   required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string    required |
 
 V: hier wird der Wert eingetragen
 
@@ -1010,13 +1010,13 @@ Wenn als Identifikation ein Kodewert aus einer Schlüsseltabelle verwendet werde
 
 Das Element hat folgende Attribute:
 
-| attributes | Name   Type   Use   Default   Fixed   Annotation EX   xs:string required           RTV   xs:string optional |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  EX    xs:string  required               RTV    xs:string  optional |
 |---|---|
 
 
 ---
 
-|  | RT   xs:string required      1.2.276.0.76.5.109 |
+|  | RT    xs:string  required        1.2.276.0.76.5.109 |
 |---|---|
 
 ***<id EX="19441" RT="1.2.276.0.76.5.109"/>***
@@ -1037,7 +1037,7 @@ Das Element hat folgende Attribute:
 
 | Kardinaliät | 1..n |
 |---|---|
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   xs:string   required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string    required |
 
 V: hier wird der Wert eingetragen
 
@@ -1057,7 +1057,7 @@ Das Element hat folgende Attribute:
 
 | Kardinaliät | 1..1 |
 |---|---|
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   xs:nonNegativeInteger   required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:nonNegativeInteger    required |
 
 V: hier wird der Wert eingetragen
 
@@ -1102,7 +1102,7 @@ ei nzelnen Datenannahmestellen
 
 | diagram |  |
 |---|---|
-| XML-Rahmen | <datenannahmestellen_liste>     <intended_recipient>         ...     </intended_recipient> … <datenannahmestellen_liste> |
+| XML-Rahmen | <datenannahmestellen_liste>      <intended_recipient>          ...      </intended_recipient>  … <datenannahmestellen_liste> |
 
 ***Datenannahmestellen-Stammsatz***
 
@@ -1114,7 +1114,7 @@ Das Element <intended_recipient> enthält jeweils einen Datenannahmestellen -Sta
 
 | diagram |  |
 |---|---|
-| XML- | <intended_recipient>     <person>             </person>     <organization>             </organization>     <local_header>             </local_header> </intended_recipient> |
+| XML- | <intended_recipient>      <person>               </person>      <organization>               </organization>      <local_header>               </local_header>  </intended_recipient> |
 
 <person>  Ansprechpartner der Datenannahmestelle
 
@@ -1134,7 +1134,7 @@ Rahmen
 
 | diagram |  |
 |---|---|
-| XML- | <person>     <person_name>         ...     </person_name>     <addr>         ...      </addr>     <telecom V="..."/> </person> |
+| XML- | <person>      <person_name>          ...      </person_name>      <addr>          ...        </addr>      <telecom V="..."/>  </person> |
 
 <person_name>
 
@@ -1178,7 +1178,7 @@ Rahmen
 
 | diagram |  |
 |---|---|
-| XML- | <organization>     <id RT="     <organization.nm V="      <addr>             </addr>     <telecom V="..."/> </organization> |
+| XML- | <organization>      <id RT="     <organization.nm V="      <addr>               </addr>      <telecom V="..."/>  </organization> |
 
 <id>   Institutionskennzeichen der Datenannahmestelle
 
@@ -1200,7 +1200,7 @@ verwendet.
 
 | diagram |  |
 |---|---|
-| attributes | Name   Type   Use   Default   Fixed   Annotation EX   xs:string optional           RT   xs:string required           RTV   xs:string optional |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  EX    xs:string  optional               RT    xs:string  required               RTV    xs:string  optional |
 | example | <id RT="109989162"/> |
 
 #### 6.1.2.2 organization.nm
@@ -1214,7 +1214,7 @@ Rahmen **element** datenannahmestellen_liste/intended_recipient/organization/org
 
 | diagram |  |
 |---|---|
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   xs:string optional |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  optional |
 | example <organization.nm V="T-Systems International GmbH"/> |  |
 
 #### 6.1.2.3 addr
@@ -1243,7 +1243,7 @@ Der Aufbau entspricht dem folgenden Beispiel:
 
 | diagram |  |
 |---|---|
-| XML-Rahmen | <local_header>     <kv_bereich_liste>         ...     </kv_bereich_liste> </local_header> |
+| XML-Rahmen | <local_header>      <kv_bereich_liste>          ...      </kv_bereich_liste>  </local_header> |
 
 #### 6.1.3.1 kv_bereich_liste
 
@@ -1255,7 +1255,7 @@ hemstelle zuständig ist.
 
 | diagram |  |
 |---|---|
-| example | <kv_bereich_liste>     <kv_bereich V="55" S="1.2.276.0.76.5.233">         ...     </kv_bereich>     <kv_bereich V="60" S="1.2.276.0.76.5.233">         ...     </kv_bereich> </kv_bereich_liste> |
+| example | <kv_bereich_liste>      <kv_bereich V="55" S="1.2.276.0.76.5.233">          ...      </kv_bereich>      <kv_bereich V="60" S="1.2.276.0.76.5.233">          ...      </kv_bereich>  </kv_bereich_liste> |
 
 5.5.4.5
 
@@ -1278,7 +1278,7 @@ angegebenen KV-Bereich.
 
 | diagram |  |
 |---|---|
-| example | <kv_bereich V="93" S="1.2.276.0.76.5.233">     <dmp_liste>         ...     </dmp_liste>         ... </kv_bereich> |
+| example | <kv_bereich V="93" S="1.2.276.0.76.5.233">      <dmp_liste>          ...      </dmp_liste>          ...  </kv_bereich> |
 
 ###### 6.1.3.2.1.1 dmp
 
@@ -1292,7 +1292,7 @@ setzt.
 
 | diagram |  |
 |---|---|
-| example | <dmp_liste>     <dmp V="1" S="1.2.276.0.76.5.223">         ...     </dmp>     <dmp V="2" S="1.2.276.0.76.5.223">         ...     </dmp> </dmp_liste> |
+| example | <dmp_liste>      <dmp V="1" S="1.2.276.0.76.5.223">          ...      </dmp>      <dmp V="2" S="1.2.276.0.76.5.223">          ...      </dmp>  </dmp_liste> |
 
 Als Unterelement des DMP existiert ein Element <kostentraeger_gruppe_liste>.
 
@@ -1313,7 +1313,7 @@ und für das angegebene DMP.
 
 | diagram |  |
 |---|---|
-| example | <dmp V="1" S="1.2.276.0.76.5.223">     <kostentraeger_gruppe_liste>         ...     </kostentraeger_gruppe_liste> </dmp> |
+| example | <dmp V="1" S="1.2.276.0.76.5.223">      <kostentraeger_gruppe_liste>          ...      </kostentraeger_gruppe_liste>  </dmp> |
 
 ###### 6.1.3.2.1.2.1 kostentraeger_gruppe
 
@@ -1323,7 +1323,7 @@ Dieses Element gibt den jeweiligen Kostenträger an. Der Wert für das V-Attribu
 
 | diagram |  |
 |---|---|
-| example | <kostentraeger_gruppe_liste>     <kostentraeger_gruppe V="01" S="1.2.276.0.76.5.240"/>     <kostentraeger_gruppe V="02" S="1.2.276.0.76.5.240"/>     <kostentraeger_gruppe V="03" S="1.2.276.0.76.5.240"/>     <kostentraeger_gruppe V="04" S="1.2.276.0.76.5.240"/> </kostentraeger_gruppe_liste> |
+| example | <kostentraeger_gruppe_liste>      <kostentraeger_gruppe V="01" S="1.2.276.0.76.5.240"/>      <kostentraeger_gruppe V="02" S="1.2.276.0.76.5.240"/>      <kostentraeger_gruppe V="03" S="1.2.276.0.76.5.240"/>      <kostentraeger_gruppe V="04" S="1.2.276.0.76.5.240"/>  </kostentraeger_gruppe_liste> |
 
 Das Element <kostentraeger_gruppe> hat als optionales Kindelement <service_tmr> (gemäß
 
@@ -1339,7 +1339,7 @@ Kennung angegeben. Existiert eine derartige Kennung für eine Datenannahmestelle
 
 | diagram |  |
 |---|---|
-| example | <kv_bereich V="55" S="1.2.276.0.76.5.233">         ... <d2d_kennung V="0180249"/> </kv_bereich> |
+| example | <kv_bereich V="55" S="1.2.276.0.76.5.233">          ...  <d2d_kennung V="0180249"/>  </kv_bereich> |
 
 
 ---
@@ -1354,7 +1354,7 @@ Connect-Adresse angegeben. Existiert eine derartige Kennung für eine Datenannah
 
 | diagram |  |
 |---|---|
-| example | <kv_connect V="daten@annahmestelle.de">         ... </kv_connect> |
+| example | <kv_connect V="daten@annahmestelle.de">          ...  </kv_connect> |
 
 Das Element <kv_connect> hat als optionales Kindelement <service_tmr> (gemäß Kapitel  5.3).
 
@@ -1370,7 +1370,7 @@ Sofern eine Datenstelle die Annahme über KIM anbietet, wird erwartet, dass die 
 
 | diagram |  |
 |---|---|
-| example | <kim_email V="daten@annahmestelle.de">         ... </kim_email> |
+| example | <kim_email V="daten@annahmestelle.de">          ...  </kim_email> |
 
 Das Element <kim_email> hat als optionales Kindelement <service_tmr> (gemäß Kapitel 5.3).
 
@@ -1385,7 +1385,7 @@ Mit Hilfe dieses Elementes wird der Zeitraum der Existenz der Datenannahmestelle
 
 | diagram |  |
 |---|---|
-| example | <kostentraeger_gruppe V="11" S="1.2.276.0.76.5.240">     <service_tmr V="..2005-08-21"/> </kostentraeger_gruppe> |
+| example | <kostentraeger_gruppe V="11" S="1.2.276.0.76.5.240">      <service_tmr V="..2005-08-21"/>  </kostentraeger_gruppe> |
 
 die Verwendung dieses Ele-
 
@@ -1397,6 +1397,6 @@ die Verwendung dieses Ele-
 | Referenz | Dokument |
 |---|---|
 | [KBV_ITA_VGEX_Schnittstelle_eHeader] | Header für elektronische Dokumentation Volldatensatz / a |
-| [eDMP 1.0] | Spezifikation eDMP über KIM der kv.digital  https://partnerportal.kv- |
+| [eDMP 1.0] | Spezifikation eDMP über KIM der kv.digital    https://partnerportal.kv- |
 
 Datensatz Schnittstellenbeschreibung telematik.de/display/KDK/Dokumente+zum+Download

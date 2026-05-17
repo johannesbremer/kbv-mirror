@@ -22,12 +22,12 @@ geräteversorgung 1.13 Datum: 13.02.2026 Kennzeichnung: Öffentlich  Status: In 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.13 | 13.02.2026 | KBV | Aktualisierung des | Aktualisierung des Schlüs- | 15 |
-| 1.12 | 14.11.2025 | KBV | Streichung P1-265,  Überarbeitung P1-266   Umwandlung K1-264 in eine Konditio- | Abschaltung KV-Connect | 13 |
+| 1.12 | 14.11.2025 | KBV | Streichung P1-265,   Überarbeitung P1-266      Umwandlung K1-264 in eine Konditio- | Abschaltung KV-Connect | 13 |
 | 1.11 | 15.08.2025 | KBV | Aktualisierung des | Aktualisierung des | 15 |
 | 1.10 | 14.02.2025 | KBV | P1-266: neu aufgenommen | Aufnahme von KIM als | 13 |
 | 1.09 | 14.08.2023 | KBV | Aktualisierung des | Aktualisierung des | 15 |
 | 1.08 | 13.08.2021 | KBV | Aktualisierung des | Aktualisierung des | 15 |
-| 1.07 | 14.05.2019 | KBV | - P1-261, P1 -262 und P1 -263 ge- - P1-265: neu aufgenommen | Aktualisierung der KV- | 13 |
+| 1.07 | 14.05.2019 | KBV | -  P1-261, P1 -262 und P1 -263 ge- -  P1-265: neu aufgenommen | Aktualisierung der KV- | 13 |
 | 1.06 | 03.05.2019 | KBV | Aufnahme der Funktion P1-300 | Erweiterung des Wer- | 13 |
 
 **U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O**
@@ -261,7 +261,7 @@ geändert.
 
 | Optionale FUNKTION QS Hörgeräteversorgung | |
 |---|---|
-| K1-95 | APHAB Dokumentation |
+| K 1-95 | APHAB Dokumentation |
 
 Die Parameter des APHAB -Bogens [EXT_ITA_AHEX_Bewertung_APHAB_vor_QSHGV] und
 
@@ -276,7 +276,7 @@ auf dem APHAB-Bogen optional.
 
 | Optionale FUNKTION QS Hörgeräteversorgung | |
 |---|---|
-| K1-96 | Nutzenberechnung anhand der APHAB Dokumentation |
+| K 1-96 | Nutzenberechnung anhand der APHAB Dokumentation |
 
 Der Nutzen (Verbesserung der Hörfähigkeit) wird anhand der APHAB [EXT_ITA_AHEX_Berechnung_APHAB_QSHGV]
 
@@ -608,7 +608,7 @@ Es sind folgende Import-Status möglich:
 | OK | Die Datei wurde erfolgreich importiert. |
 | OK (implausibel) | es sind Fehler in der Datei, die jedoch nicht zum Abbruch des Im- |
 | Datei existiert bereits | Die Datei wurde nicht importiert, da bereits ein Datensatz mit glei- |
-| Fehlgeschlagen | Beim Import der Datei sind Fehler aufgetreten, daher konnte diese übermittelt. |
+| Fehlgeschlagen | Beim Import der Datei sind Fehler aufgetreten, daher konnte diese  übermittelt. |
 
 Die KIM-Nachricht mit der Rückmeldung wird an die Absender  Adresse geschickt, von der
 

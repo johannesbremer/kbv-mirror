@@ -6,31 +6,31 @@
 
 **Id Praxissoftware**
 
-2.99 **SMARTY**
+299 **SMARTY**
 
-2.54 **ORBIS®**
+254 **ORBIS®**
 
-4.62 **medatixx**
+462 **medatixx**
 
-2.16 **x.isynet**
+216 **x.isynet**
 
-2.80 **CGM MEDISTAR BLACK PRO**
+280 **CGM MEDISTAR BLACK PRO**
 
-1.12 **TURBOMED**
+112 **TURBOMED**
 
-3.08 **RescuePro**
+308 **RescuePro**
 
-4.57 **tomedo**
+457 **tomedo**
 
-2.10 **Medical Office**
+210 **Medical Office**
 
-0.78 **Med7**
+078 **Med7**
 
-2.26 **CGM MEDICO**
+226 **CGM MEDICO**
 
-2.44 **QUINCY WIN**
+244 **QUINCY WIN**
 
-2.03 **ALBIS**
+203 **ALBIS**
 
 **Anbieter**
 
@@ -62,59 +62,59 @@ CompuGroup Medical Deutschland AG 1
 
 **Installationen 2.Q.2025**
 
-2.21
+221
 
-1.51
+151
 
-1.10
+110
 
-9.5
+95
 
-9.2
+92
 
-9.0
+90
 
-8.9
+89
 
-8.6
+86
 
-7.7
+77
 
-7.7
+77
 
-7.1
+71
 
-5.6
+56
 
-5.0
+50
 
 **Installationen 1.Q.2025**
 
-2.22
+222
 
-1.54
+154
 
-1.09
+109
 
-1.00
+100
 
-9.2
+92
 
-9.7
+97
 
-9.1
+91
 
-8.5
+85
 
-7.3
+73
 
-7.9
+79
 
-7.0
+70
 
-5.7
+57
 
-5.3
+53
 
 **Differenz**
 
@@ -149,25 +149,25 @@ CompuGroup Medical Deutschland AG 1
 
 **Id Praxissoftware**
 
-2.52 **CGM M1 PRO**
+252 **CGM M1 PRO**
 
-4.98 **T2med**
+498 **T 2med**
 
-2.43 **x.concept**
+243 **x.concept**
 
-3.43 **SAP Ambulatory Care Management**
+343 **SAP Ambulatory Care Management**
 
-3.14 **IMedOne**
+314 **IMedOne**
 
-2.61 **S3-Win**
+261 **S 3-Win**
 
-2.47 **PROFIMED**
+247 **PROFIMED**
 
 **Anbieter**
 
 CompuGroup Medical Deutschland AG
 
-T2med GmbH & Co. KG
+T 2med GmbH & Co. KG
 
 medatixx GmbH & Co. KG
 
@@ -175,41 +175,41 @@ SAP SE
 
 Deutsche Telekom Clinical Solutions GmbH
 
-S3 Praxiscomputer GmbH / Maximilian Flender
+S 3 Praxiscomputer GmbH / Maximilian Flender
 
 PRO MEDISOFT AG 2
 
 **Installationen 2.Q.2025**
 
-4.7
+47
 
-4.5
+45
 
-4.4
+44
 
-3.5
+35
 
-3.5
+35
 
-3.4
+34
 
-3.3
+33
 
 **Installationen 1.Q.2025**
 
-4.4
+44
 
-4.5
+45
 
-4.2
+42
 
-3.6
+36
 
-3.4
+34
 
-3.5
+35
 
-3.6
+36
 
 **Differenz**
 

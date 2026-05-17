@@ -8,7 +8,11 @@
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  version="1.00">
 
-	<!-- Version: 23.06.2022
+	<!--
+		Version: 22.04.2026
+		 - Anpassung des Style-Sheets kvnoSammelFOfuerPDFA-1b.xsl für Block 4 - Text zum Notfalldienst 
+	
+		Version: 23.06.2022
 		 - Neues Logo eingefügt
 		 - Änderungen am Text zu Leistungen ($sammeltyp='Arzt')
 		 - Unterschrift neben dem Datum bei den zugelassenen Ärzten hinzugefügt
@@ -32,6 +36,7 @@
 		am 29.07.2014 folgende Änderung:
 		- Anpassung an das 3.Quartal 2014
 		- Für //ehd:provider/ehd:organization/ehd:addr  hinzugefügt, dass entweder POB oder ZIP erkannt wird.
+	
 -->
 
 	<!-- Globaler Parameter 'sammeltyp' zur Steuerung der Ausgabe. Es können folgende Sammelerklärungen erzeugt werden:
@@ -45,7 +50,7 @@
 	<xsl:param name="sammeltyp" select="//ehd:header/ehd:intended_recipient/ehd:organization/ehd:organization.nm/@V"/>
 	<xsl:param name="schriftgroesse_festerText" select=" '10pt' "/>
 	<xsl:param name="schriftgroesse_variablerText" select=" '9pt' "/>
-	<xsl:param name="version" select=" 'Formularversion 23.06.2022' "/>
+	<xsl:param name="version" select=" 'Formularversion 22.04.2026' "/>
 	<!-- Versionsangabe des Stylesheets. Wird am Fussende jeder Seite ausgegeben. -->
 
 	<xsl:output method="xml" encoding="ISO-8859-1" indent="yes"/>
@@ -951,9 +956,8 @@
 					</fo:table-cell>
 					<fo:table-cell padding="0pt" font-weight="'normal'">
 						<fo:block xml:lang="de-DE">
-							An folgenden Tagen war(en) ich/wir zum organisierten ärztlichen Notfalldienst eingeteilt und habe(n)
-							die abgerechneten Leistungen persönlich oder durch einen Vertreter in eigener Praxis bzw. in einer von
-							der KV Nordrhein und der Ärztekammer Nordrhein genehmigten Notfallpraxis erbracht:
+							An folgenden Tagen war(en) ich/wir zum organisierten ärztlichen Notdienst gemäß der Notdienstordnung 
+              eingeteilt und habe(n) die abgerechneten Leistungen persönlich oder durch eine Vertreter erbracht:
 						</fo:block>
 					</fo:table-cell>
 				</fo:table-row>

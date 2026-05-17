@@ -6,31 +6,31 @@
 
 **Id Praxissoftware**
 
-2.80 **CGM MEDISTAR BLACK PRO**
+280 **CGM MEDISTAR BLACK PRO**
 
-4.03 **FIDUS**
+403 **FIDUS**
 
-4.00 **IFA-AUGENARZT**
+400 **IFA-AUGENARZT**
 
-0.86 **DURIA**
+086 **DURIA**
 
-1.12 **TURBOMED**
+112 **TURBOMED**
 
-4.57 **tomedo**
+457 **tomedo**
 
-2.16 **x.isynet**
+216 **x.isynet**
 
-2.10 **Medical Office**
+210 **Medical Office**
 
-0.30 **Praxis-Programm**
+030 **Praxis-Programm**
 
-2.54 **ORBIS®**
+254 **ORBIS®**
 
-3.43 **SAP Ambulatory Care Management**
+343 **SAP Ambulatory Care Management**
 
-4.62 **medatixx**
+462 **medatixx**
 
-2.03 **ALBIS**
+203 **ALBIS**
 
 **Anbieter**
 
@@ -62,59 +62,59 @@ CompuGroup Medical Deutschland AG 1
 
 **Installationen 2.Q.2025**
 
-5.25
+525
 
-5.21
+521
 
-3.98
+398
 
-3.20
+320
 
-2.46
+246
 
-1.63
+163
 
-9.9
+99
 
-8.5
+85
 
-6.8
+68
 
-5.2
+52
 
-4.5
+45
 
-3.0
+30
 
-2.6
+26
 
 **Installationen 1.Q.2025**
 
-5.31
+531
 
-5.12
+512
 
-3.95
+395
 
-3.21
+321
 
-2.49
+249
 
-1.56
+156
 
-1.00
+100
 
-8.4
+84
 
-7.0
+70
 
-5.3
+53
 
-4.4
+44
 
-2.7
+27
 
-2.6
+26
 
 **Differenz**
 
@@ -149,19 +149,19 @@ CompuGroup Medical Deutschland AG 1
 
 **Id Praxissoftware**
 
-2.26 **CGM MEDICO**
+226 **CGM MEDICO**
 
-3.14 **IMedOne**
+314 **IMedOne**
 
-2.52 **CGM M1 PRO**
+252 **CGM M1 PRO**
 
-4.51 **ifa|NX-NEXT Generation AI**
+451 **ifa|NX-NEXT Generation AI**
 
-0.15 **MEDYS**
+015 **MEDYS**
 
-2.61 **S3-Win**
+261 **S 3-Win**
 
-2.66 **x.comfort**
+266 **x.comfort**
 
 **Anbieter**
 
@@ -177,41 +177,41 @@ ifa systems AG
 
 MEDYS GmbH
 
-S3 Praxiscomputer GmbH / Maximilian Flender
+S 3 Praxiscomputer GmbH / Maximilian Flender
 
 medatixx GmbH & Co. KG 2
 
 **Installationen 2.Q.2025**
 
-2.5
+25
 
-2.3
+23
 
-2.2
+22
 
-1.6
+16
 
-1.4
+14
 
-1.3
+13
 
-1.2
+12
 
 **Installationen 1.Q.2025**
 
-2.6
+26
 
-2.2
+22
 
-2.5
+25
 
-1.2
+12
 
-1.4
+14
 
-1.4
+14
 
-1.2
+12
 
 **Differenz**
 

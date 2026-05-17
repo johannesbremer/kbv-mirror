@@ -4,7 +4,7 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 29. JANUAR 2026  VERSION: 1.9  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 29. JANUAR 2026   VERSION: 1.9   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
 # PRÜFPAKET ELEKTRONISCHE  VERORDNUNG DIGITALER  GESUNDHEITSANWENDUNGEN
@@ -95,13 +95,13 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.9 | 2.9.01.2026 | KBV | Aktualisierung des Prüffalls PF08   Aktualisierung der | Anpassung der | 12   9, 10, 10, 10, 11, 11, 12 |
+| 1.9 | 29.01.2026 | KBV | Aktualisierung des Prüffalls PF08     Aktualisierung der | Anpassung der | 12      9, 10,  10, 10,  11, 11,  12 |
 | 1.8 | 09.10.2025 | KBV | Aktualisierung des Prüffalls PF02 | Die verwendete PZN | 10 |
-| 1.7 | 21.07.2025 | KBV | Anpassung des Prüffalls PF03   Anpassung Stammdaten der | PZN 19205615 wurde | 10   7 |
-| 1.5 | 15.05.2025 | KBV | Anpassung auf eVDGA Version  Redaktionelle Anpassung des |  | 9, 10, 10, 10, 11, 12 11 |
+| 1.7 | 21.07.2025 | KBV | Anpassung des Prüffalls PF03      Anpassung Stammdaten der | PZN 19205615 wurde | 10      7 |
+| 1.5 | 15.05.2025 | KBV | Anpassung auf eVDGA Version    Redaktionelle Anpassung des |  | 9, 10,  10, 10,  11, 12  11 |
 | 1.4 | 07.04.2025 | KBV | Redaktionelle Anpassung des |  | 10 |
 | 1.3 | 26.02.2025 | KBV | Redaktionelle Anpassungen |  | 4, 8 |
-| 1.2 | 02.01.2025 | KBV | Anpassung von Kapitel 2.6.4   Aufnahme von Kapitel 2.6.6 | Streichung der | 7   8 |
+| 1.2 | 02.01.2025 | KBV | Anpassung von Kapitel 2.6.4      Aufnahme von Kapitel 2.6.6 | Streichung der | 7      8 |
 | 1.1 | 19.12.2024 | KBV | Anpassung der referenzierten |  | 15 |
 | 1.0 | 26.11.2024 | KBV | Ersterstellung |  |  |
 
@@ -116,7 +116,7 @@ Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle f�
 
 Zertifizierungsgegenstandes im Bereich der Verordnung digitaler Gesundheitsanwendungen (VDGA)
 
-konkret die elektronische Verordnung digitaler Gesundheitsanwendungen gem. § 33a SGB V (eVDGA) in
+konkret die elektronische Verordnung digitaler Gesundheitsanwendungen gem. § 33a SGB V (e VDGA) in
 
 Form des elektronischen Vordrucks e16D.
 
@@ -224,7 +224,7 @@ sowie bei ausgewählten Prüffällen eine signierte Datei eingereicht werden mus
 
 -  <PrüffallNr.> .xml  z.B. PF01.xml
 
-- <PrüffallNr.>.p7s  z.B. PF01.p7s
+- <PrüffallNr.>.p 7s  z.B. PF01.p7s
 
 Die geforderten Screenshots, ersichtlich am Prüffall, müssen in einem gesonderten Ordner  „Dokumentation“ übermittelt werden und folgender Namenskonvention entsprechen. Diese werden durch  die prüfende Person begutachtet. Die Screenshots müssen im PDF-Format übermittelt werden.
 
@@ -232,7 +232,7 @@ Die geforderten Screenshots, ersichtlich am Prüffall, müssen in einem gesonder
 
 Die gesammelten Dateien und der Ordner „Dokumentation“
 
-zip- Archiv muss mit „Zert_4.51_<SystemID>“ benannt werden.
+zip- Archiv muss mit „Zert_451_<SystemID>“ benannt werden.
 
 wurde, ergibt sich die SystemID aus den letzten drei Stellen der Prüfnummer.
 
@@ -399,7 +399,7 @@ Karl- Friederich Schaumberg“ Arzt 1 ist als ausstellender Arzt im System ausge
 |  |  |
 |---|---|
 | Prüffall-ID | PF02 |
-| Bedingung | Die konditionale Anforderungsfunktion KP4-322 ] wurde umgesetzt. |
+| Bedingung | Die konditionale Anforderungsfunktion KP4-322  ] wurde umgesetzt. |
 | Testziel | Erstellen einer eVDGA (Freitextverordnung |
 | Voraussetzung |  |
 | Aktion |  |
@@ -458,7 +458,7 @@ Einzureichende [KBV_ITA_VGEX_Anforderungskatalog_VDGA Arzt 1 ist als ausstellend
 |  |  |
 |---|---|
 | Prüffall-ID | PF05 |
-| Testziel | Signieren mehrerer eVDGA mittels Stapelsignatur |
+| Testziel | Signieren mehrerer e VDGA mittels Stapelsignatur |
 | Voraussetzung |  |
 | Aktion |  |
 | Prüfunterlagen |  |
@@ -540,7 +540,7 @@ Prüfunterlagen XML-Datei der eVDGA FHIR-Profile in der Version 1.2.0 1.2.1 zu e
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF09 |
+| Prüffall-ID | PF 09 |
 | Testziel | Bestätigungsschreiben der gematik zum Funktionsumfang eVDGA |
 | Voraussetzung |  |
 | Einzureichende |  |
@@ -591,25 +591,25 @@ Bitte beachten Sie die folgende Verzeichnisstruktur des zip-Archivs.
 |---|---|
 | Referenz | Dokument |
 | KBV_ITA_RLEX_Zert | Zertifizierungsrichtlinie der KBV https://update.kbv.de/ita- |
-| KBV_ITA_VGEX_Anforderungskatalog_VDGA | Anforderungskatalog nach § 73 Abs. 9 https://update.kbv.de/ita- |
-| KBV_ITA_VGEX_Technische_Anlage_ | Technische Anlage zur elektronischen https://update.kbv.de/ita- |
+| KBV_ITA_VGEX_Anforderungskatalog_VDGA | Anforderungskatalog nach § 73 Abs. 9  https://update.kbv.de/ita- |
+| KBV_ITA_VGEX_Technische_Anlage_ | Technische Anlage zur elektronischen  https://update.kbv.de/ita- |
 | KBV_ITA_VGEX_Technisches_Handbuch_DiMus | Technisches Handbuch Digitale Vordrucke https://update.kbv.de/ita- |
-| KBV_ITA_FMEX_AAZ_EVDGA | Antrag auf Zertifizierung elektronischer https://update.kbv.de/ita- |
-| KBV_ITA_AHEX_PRUEFPAKET_VDGA | Prüfpaket elektronischer Verordnung https://update.kbv.de/ita- |
-| gemLeit_Best_Konf_PS-TI | Leitfaden Bestätigung der Konformität des https://fachportal.gematik.de/hersteller |
+| KBV_ITA_FMEX_AAZ_EVDGA | Antrag auf Zertifizierung elektronischer  https://update.kbv.de/ita- |
+| KBV_ITA_AHEX_PRUEFPAKET_VDGA | Prüfpaket elektronischer Verordnung  https://update.kbv.de/ita- |
+| gemLeit_Best_Konf_PS-TI | Leitfaden Bestätigung der Konformität des  https://fachportal.gematik.de/hersteller |
 | VSD_5.2.0_Testfaelle_Vn.n.zip | Testdaten VSD in der aktuellen Version https://update.kbv.de/ita- |
-| gemSysL_eRp | Systemspezifisches Konzept E-Rezept  https://gemspec.gematik.de/releases/ |
+| gemSysL_eRp | Systemspezifisches Konzept E-Rezept   https://gemspec.gematik.de/releases/ |
 
-update/Allgemein/KBV_ITA_RLEX_Zert.pdf SGB V für Verordnung von DiGA update/Verordnungen/VDGA/KBV_ITA_VG EX_Anforderungskatalog_VDGA.pdf eVDGA Verordnung digitaler Gesundheitsanwendungen (e16D) update/DigitaleMuster/eVDGA/KBV_ITA_V GEX_Technische_Anlage_eVDGA.pdf  update/DigitaleMuster/KBV_ITA_VGEX_Tec hnisches_Handbuch_DiMus.pdf  Verordnung von DiGA update/Verordnungen/VDGA/KBV_ITA_FM EX_AAZ_eVDGA.pdf digitaler Gesundheitsanwendungen update/Verordnungen/VDGA/KBV_ITA_AH EX_Pruefpaket_VDGA.pdf Primärsystems zur Telematikinfrastruktur  anbieter/primaersysteme/best-konf-ps-ti  update/Abrechnung/Pruefverfahren/
+update/Allgemein/KBV_ITA_RLEX_Zert.pdf SGB V für Verordnung von DiGA update/Verordnungen/VDGA/KBV_ITA_VG EX_Anforderungskatalog_VDGA.pdf e VDGA Verordnung digitaler Gesundheitsanwendungen (e16D) update/DigitaleMuster/eVDGA/KBV_ITA_V GEX_Technische_Anlage_eVDGA.pdf  update/DigitaleMuster/KBV_ITA_VGEX_Tec hnisches_Handbuch_DiMus.pdf  Verordnung von DiGA update/Verordnungen/VDGA/KBV_ITA_FM EX_AAZ_eVDGA.pdf digitaler Gesundheitsanwendungen update/Verordnungen/VDGA/KBV_ITA_AH EX_Pruefpaket_VDGA.pdf Primärsystems zur Telematikinfrastruktur  anbieter/primaersysteme/best-konf-ps-ti  update/Abrechnung/Pruefverfahren/
 
 ---
 
 |  |  |
 |---|---|
-| gemILF_PS_eRP | Spezifikation Implementierungsleitfaden https://gemspec.gematik.de/docs/gemILF/ |
-| gemF_eRp_DiGA | Feature: Verordnung von Digitalen https://gemspec.gematik.de/releases/ |
-| gemSpec_DM_eRp | Spezifikation Datenmodell E-Rezept https://gemspec.gematik.de/docs/gemSpec |
-| gemTest_Karten | Informationen zu Testkarten https://fachportal.gematik.de/toolkit/testk |
+| gemILF_PS_eRP | Spezifikation Implementierungsleitfaden  https://gemspec.gematik.de/docs/gemILF/ |
+| gemF_eRp_DiGA | Feature: Verordnung von Digitalen  https://gemspec.gematik.de/releases/ |
+| gemSpec_DM_eRp | Spezifikation Datenmodell E-Rezept  https://gemspec.gematik.de/docs/gemSpec |
+| gemTest_Karten | Informationen zu Testkarten  https://fachportal.gematik.de/toolkit/testk |
 
 **Kontakt:**
 
