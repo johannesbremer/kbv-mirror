@@ -29,75 +29,75 @@
 
 ---
 
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
 |---|---|---|---|
-| Anlage 8*: |  |  | Lfd. |
-| Anlage 8*: |  |  | Lfd. |
-| Anlage 8*: |  |  | Lfd. |
-| Anlage 8*: |  |  | Lfd. |
-| Anlage 8*: |  |  | Lfd. |
-| Anlage 8*: |  |  | Lfd. |
-| Anlage 8*: |  |  | Lfd. |
-| Anlage 8*: |  |  | Lfd. |
-| Anlage 8*: |  |  | Lfd. |
-|  | Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* | | |
+| **Anlage 8*:** |  |  | **Lfd.** |
+| **Anlage 8*:** |  |  | **Lfd.** |
+| **Anlage 8*:** |  |  | **Lfd.** |
+| **Anlage 8*:** |  |  | **Lfd.** |
+| **Anlage 8*:** |  |  | **Lfd.** |
+| **Anlage 8*:** |  |  | **Lfd.** |
+| **Anlage 8*:** |  |  | **Lfd.** |
+| **Anlage 8*:** |  |  | **Lfd.** |
+| **Anlage 8*:** |  |  | **Lfd.** |
+|  | **Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2*** | | |
 |  | Anamnese- und Befunddaten |  | |
 | 1 | HbA1c-Wert | Wert in % / mmol/mol | Pflichtfeld  Nur eine Angabe ist möglich.  Numerische Angabe    Erfolgt die Angabe im Feld „Wert in %“:  Wertebereich 0,0 bis 21,0.    Erfolgt die Angabe in Feld „mmol/mol“: Anga Wertebereich 0 bis 210. |
 | 1a | Nur bei Diabetes mellitus    Pathologische Albumin-Kreatinin- | Ja / Nein / Nicht untersucht | Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig.    Eine Angabe ist erforderlich, wenn in Feld 10 der Anlage    Eine Angabe ist nicht zulässig, wenn in Feld 10 der |
 | 2 | (weggefallen) | (weggefallen) |  |
 | 2a | eGFR | 2 | Pflichtfeld  Genau eine Angabe ist zulässig. |
-|  |  |  | Parameter  Ausprägung  Plausibilitäten |
-|  | Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* | Anamnese- und Befunddaten     1   HbA1c-Wert   Wert in % / mmol/mol  Pflichtfeld  Nur eine Angabe ist möglich.  Numerische Angabe    Erfolgt die Angabe im Feld „Wert in %“:  Wertebereich 0,0 bis 21,0.    Erfolgt die Angabe in Feld „mmol/mol“: Anga Wertebereich 0 bis 210.    1a  Nur bei Diabetes mellitus    Pathologische Albumin-Kreatinin- | Ja / Nein / Nicht untersucht  Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig.    Eine Angabe ist erforderlich, wenn in Feld 10 der Anlage    Eine Angabe ist nicht zulässig, wenn in Feld 10 der    2   (weggefallen)  (weggefallen)    2a  eGFR  2 Pflichtfeld  Genau eine Angabe ist zulässig. |
-|  |  |  | Parameter  Ausprägung  Plausibilitäten |
-| Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* |  |  | Anamnese- und Befunddaten     1   HbA1c-Wert   Wert in % / mmol/mol  Pflichtfeld  Nur eine Angabe ist möglich.  Numerische Angabe    Erfolgt die Angabe im Feld „Wert in %“:  Wertebereich 0,0 bis 21,0. |
+|  |  |  | **Parameter  Ausprägung  Plausibilitäten** |
+|  | **Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2*** | Anamnese- und Befunddaten     1   HbA1c-Wert   Wert in % / mmol/mol  Pflichtfeld  Nur eine Angabe ist möglich.  Numerische Angabe    Erfolgt die Angabe im Feld „Wert in %“:  Wertebereich 0,0 bis 21,0.    Erfolgt die Angabe in Feld „mmol/mol“: Anga Wertebereich 0 bis 210.    1a  Nur bei Diabetes mellitus    Pathologische Albumin-Kreatinin- | Ja / Nein / Nicht untersucht  Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig.    Eine Angabe ist erforderlich, wenn in Feld 10 der Anlage    Eine Angabe ist nicht zulässig, wenn in Feld 10 der    2   (weggefallen)  (weggefallen)    2a  eGFR  2 Pflichtfeld  Genau eine Angabe ist zulässig. |
+|  |  |  | **Parameter  Ausprägung  Plausibilitäten ** |
+| **Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2*** |  |  | Anamnese- und Befunddaten     1   HbA1c-Wert   Wert in % / mmol/mol  Pflichtfeld  Nur eine Angabe ist möglich.  Numerische Angabe    Erfolgt die Angabe im Feld „Wert in %“:  Wertebereich 0,0 bis 21,0. |
 |  | Erfolgt die Angabe in Feld „mmol/mol“: Anga | Wertebereich 0 bis 210. | 1a  Nur bei Diabetes mellitus    Pathologische Albumin-Kreatinin- |
 | Ja / Nein / Nicht untersucht | Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig. | Eine Angabe ist erforderlich, wenn in Feld 10 der Anlage    Eine Angabe ist nicht zulässig, wenn in Feld 10 der |
-| Parameter  Ausprägung | Plausibilitäten | Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* | |
+| **Parameter  Ausprägung** | **Plausibilitäten ** | **Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2*** | |
 |  |  | Anamnese- und Befunddaten | 1   HbA1c-Wert   Wert in % / mmol/mol  Pflichtfeld |
 | Nur eine Angabe ist möglich. | Numerische Angabe |  | Erfolgt die Angabe im Feld „Wert in %“:  Wertebereich 0,0 bis 21,0.    Erfolgt die Angabe in Feld „mmol/mol“: Anga Wertebereich 0 bis 210.    1a  Nur bei Diabetes mellitus |
 | Pathologische Albumin-Kreatinin- | Ja / Nein / Nicht untersucht | Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig. |
 |  | Eine Angabe ist erforderlich, wenn in Feld 10 der Anlage |  | Eine Angabe ist nicht zulässig, wenn in Feld 10 der    2   (weggefallen)  (weggefallen)    2a  eGFR  2 |
-| Parameter  Ausprägung | Plausibilitäten | Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* | |
+| **Parameter  Ausprägung** | **Plausibilitäten ** | **Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2*** | |
 |  | Anamnese- und Befunddaten |  | 1   HbA1c-Wert   Wert in % / mmol/mol  Pflichtfeld  Nur eine Angabe ist möglich.  Numerische Angabe |
 |  | Erfolgt die Angabe im Feld „Wert in %“: | Wertebereich 0,0 bis 21,0. |  |
 | Erfolgt die Angabe in Feld „mmol/mol“: Anga | Wertebereich 0 bis 210. |  | 1a  Nur bei Diabetes mellitus    Pathologische Albumin-Kreatinin- Ja / Nein / Nicht untersucht  Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig.    Eine Angabe ist erforderlich, wenn in Feld 10 der Anlage    Eine Angabe ist nicht zulässig, wenn in Feld 10 der |
 |  | 2 | (weggefallen) | (weggefallen)    2a  eGFR |
-|  |  |  | Parameter  Ausprägung  Plausibilitäten |
-| Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* |  | Anamnese- und Befunddaten | 1   HbA1c-Wert   Wert in % / mmol/mol  Pflichtfeld  Nur eine Angabe ist möglich.  Numerische Angabe    Erfolgt die Angabe im Feld „Wert in %“:  Wertebereich 0,0 bis 21,0. |
+|  |  |  | **Parameter  Ausprägung  Plausibilitäten ** |
+| **Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2*** |  | Anamnese- und Befunddaten | 1   HbA1c-Wert   Wert in % / mmol/mol  Pflichtfeld  Nur eine Angabe ist möglich.  Numerische Angabe    Erfolgt die Angabe im Feld „Wert in %“:  Wertebereich 0,0 bis 21,0. |
 |  | Erfolgt die Angabe in Feld „mmol/mol“: Anga Wertebereich 0 bis 210. |  | 1a  Nur bei Diabetes mellitus    Pathologische Albumin-Kreatinin- Ja / Nein / Nicht untersucht  Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig.    Eine Angabe ist erforderlich, wenn in Feld 10 der Anlage |
-|  |  |  | Parameter  Ausprägung |
-| Plausibilitäten |  | Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* | Anamnese- und Befunddaten     1   HbA1c-Wert   Wert in % / mmol/mol  Pflichtfeld  Nur eine Angabe ist möglich.  Numerische Angabe |
+|  |  |  | **Parameter  Ausprägung** |
+| **Plausibilitäten** |  | **Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2*** | Anamnese- und Befunddaten     1   HbA1c-Wert   Wert in % / mmol/mol  Pflichtfeld  Nur eine Angabe ist möglich.  Numerische Angabe |
 | Erfolgt die Angabe im Feld „Wert in %“: | Wertebereich 0,0 bis 21,0. | Erfolgt die Angabe in Feld „mmol/mol“: Anga Wertebereich 0 bis 210. |  |
 | 1a | Nur bei Diabetes mellitus | Pathologische Albumin-Kreatinin- Ja / Nein / Nicht untersucht | Bedingtes Pflichtfeld |
 | Genau eine Angabe ist zulässig. | Eine Angabe ist erforderlich, wenn in Feld 10 der Anlage | Eine Angabe ist nicht zulässig, wenn in Feld 10 der |  |
 | 2 | (weggefallen)  (weggefallen) | 2a | eGFR |
-| Parameter  Ausprägung | Plausibilitäten | Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* | |
+| **Parameter  Ausprägung** | **Plausibilitäten ** | **Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2*** | |
 |  |  | Anamnese- und Befunddaten | 1   HbA1c-Wert   Wert in % / mmol/mol  Pflichtfeld  Nur eine Angabe ist möglich.  Numerische Angabe |
 |  | Erfolgt die Angabe im Feld „Wert in %“: | Wertebereich 0,0 bis 21,0. | Erfolgt die Angabe in Feld „mmol/mol“: Anga Wertebereich 0 bis 210.    1a  Nur bei Diabetes mellitus    Pathologische Albumin-Kreatinin- Ja / Nein / Nicht untersucht |
 | Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig. | Eine Angabe ist erforderlich, wenn in Feld 10 der Anlage    Eine Angabe ist nicht zulässig, wenn in Feld 10 der    2 | (weggefallen)  (weggefallen)    2a  eGFR |
-|  |  |  | Parameter  Ausprägung  Plausibilitäten    Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* |
+|  |  |  | **Parameter  Ausprägung  Plausibilitäten **  **Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2*** |
 |  | Anamnese- und Befunddaten | 1 | |
 | HbA1c-Wert | Wert in % / mmol/mol | Pflichtfeld | Nur eine Angabe ist möglich.  Numerische Angabe |
 | Erfolgt die Angabe im Feld „Wert in %“: | Wertebereich 0,0 bis 21,0. |  | Erfolgt die Angabe in Feld „mmol/mol“: Anga Wertebereich 0 bis 210.    1a  Nur bei Diabetes mellitus    Pathologische Albumin-Kreatinin- Ja / Nein / Nicht untersucht  Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig. |
 | Eine Angabe ist erforderlich, wenn in Feld 10 der Anlage |  | Eine Angabe ist nicht zulässig, wenn in Feld 10 der | 2   (weggefallen)  (weggefallen) |
-|  |  |  | Parameter  Ausprägung  Plausibilitäten |
-|  | Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* |  | Anamnese- und Befunddaten |
+|  |  |  | **Parameter  Ausprägung  Plausibilitäten** |
+|  | **Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2*** |  | Anamnese- und Befunddaten |
 
-Nr. Datensatz für die indikationsspezifische Dokumentation: Typ 1“ oder „Diabetes mellitus Typ 2“ Plausibilitätsregeln auszufüllen Typ 1: Ratio  erfolgt, sind die nachstehenden Felder der Anlage 8* entsprechend den Festlegungen der ml/min/1,73m KOF / Nicht bestimmt Diabetes mellitus Typ 1 und in Feld 10 mindestens die Angabe „Diabetes mellitus Diabetes mellitus Typ 2 einer Stelle hinter dem Komma; Nachkommastelle; 2* die Angabe „Diabetes mellitus Typ 1“ erfolgt ist die Angabe „Diabetes mellitus Typ 2“ erfolgt ist.  Angabe mit be ohne
+Nr. Datensatz für die indikationsspezifische Dokumentation: Typ 1“ oder „Diabetes mellitus Typ 2“ Plausibilitätsregeln auszufüllen Typ 1: Ratio  erfolgt, sind die nachstehenden Felder der Anlage 8* entsprechend den Festlegungen der ml/min/1,73m KOF / Nicht bestimmt Diabetes mellitus Typ 1 und Diabetes mellitus Typ 2 in Feld 10 mindestens die Angabe „Diabetes mellitus einer Stelle hinter dem Komma; Nachkommastelle; 2* die Angabe „Diabetes mellitus Typ 1“ erfolgt ist die Angabe „Diabetes mellitus Typ 2“ erfolgt ist.  Angabe mit be ohne
 
 ---
 
-| Plausibilitäten | 2 | Wertebereich 0 bis 200 |  |
+| **Plausibilitäten** | 2 | Wertebereich 0 bis 200 |  |
 |---|---|---|---|
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
 | 3 | Fußstatus | | |
 | 1.  Pulsstatus: | Unauffällig / Auffällig / Nicht untersucht | 2.  Sensibilitätsprüfung: | |
 | Unauffällig / Auffällig / Nicht untersucht |  | 3. | Weiteres Risiko für Ulkus:  Fußdeformität / Hyperkeratose mit  ja / nein / nicht untersucht      4.  Ulkus:   oberflächlich / tief / nein / nicht untersucht    5. |
@@ -145,17 +145,17 @@ Nr. Erfolgt die Angabe im Feld „ml/min/1,73m KOF“: nummerischer Wert; Angabe
 
 ---
 
-| Plausibilitäten | zu 4. Ulkus: genau eine Angabe ist zulässig. |  | Zu 5. (Wund)Infektion: genau eine Angabe ist zulässig. |
+| **Plausibilitäten** | zu 4. Ulkus: genau eine Angabe ist zulässig. |  | Zu 5. (Wund)Infektion: genau eine Angabe ist zulässig. |
 |---|---|---|---|
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
 |  | 3a | | |
 | Injektionsstellen (bei  Unauffällig / Auffällig / Nicht untersucht | Bedingtes Pflichtfeld   Genau eine Angabe ist zulässig. | Eine Angabe ist erforderlich, wenn | |
 | – |  | ODER | –    Eine Angabe ist nicht zulässig, wenn    in Feld 10 der Anlage 2* mindestens die Angabe    3b  Intervall für künftige  Jährlich / alle sechs Monate / alle drei  Bedingtes Pflichtfeld |
@@ -203,17 +203,17 @@ Nr. Insulintherapie) Fußinspektionen (bei Patientinnen und Patienten ab dem vol
 
 ---
 
-| Plausibilitäten |  |  |  |
+| **Plausibilitäten** |  |  |  |
 |---|---|---|---|
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
 | Relevante Ereignisse |  | | |
 | 5 | Relevante Ereignisse  Nierenersatztherapie / Erblindung / Amputation / | Pflichtfeld  Mindestens eine Angabe ist erforderlich. | |
 | Mehrfachnennungen sind möglich. |  | Wenn die Angabe „ | 6   Schwere Hypoglykämien seit der  Anzahl   Bedingtes Pflichtfeld  numerische Angabe    Eine Angabe ist erforderlich, wenn die Anlage 8* im    Eine Angabe im Rahmen einer Erstdokumentation ist |
@@ -261,17 +261,17 @@ Nr. letzten Dokumentation Behandlung wegen Diabetes mellitus seit der letzten Do
 
 ---
 
-| Plausibilitäten |  |  |  |
+| **Plausibilitäten** |  |  |  |
 |---|---|---|---|
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
 | Medikamente |  | | |
 | 9 | Nur bei Diabetes mellitus Typ 2:  Insulin oder Insulin-Analoga | Ja / Nein   Bedingtes Pflichtfeld | |
 | Genau eine Angabe ist zulässig. |  | Eine Angabe ist erforderlich, wenn in Feld 10 der Anlage | Eine Angabe ist nicht zulässig, wenn in Feld 10 der    10   (weggefallen)  (weggefallen)    11   Nur bei Diabetes mellitus Typ 2:  Ja / Nein / Kontraindikation |
@@ -319,17 +319,17 @@ Nr. Metformin  Sonstige antidiabetische Medikation 2* mindestens eine Angabe zu 
 
 ---
 
-| Plausibilitäten | 2* |  | Eine Angabe ist nicht zulässig, wenn in Feld 10 der |
+| **Plausibilitäten** | 2* |  | Eine Angabe ist nicht zulässig, wenn in Feld 10 der |
 |---|---|---|---|
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
 |  | 12a | | |
 | Nur bei Diabetes mellitus Typ 2:  SGLT2-Inhibitor | Ja / Nein / Kontraindikation | Bedingtes Pflichtfeld   Mehrfachnennungen sind möglich. | |
 |  | Mindestens eine Angabe ist erforderlich, wenn in Feld |  | Die Angabe „   Die Angabe „   Eine Angabe ist nicht zulässig, wenn in Feld 10 der    12b  Nur bei Diabetes mellitus Typ 2:  GLP-1-Rezeptoragonist  Ja / Nein / Kontraindikation |
@@ -377,17 +377,17 @@ Nr. mindestens eine Angabe zu „Diabetes mellitus Typ 2“ erfolgt ist. Anlage 
 
 ---
 
-| Plausibilitäten | Eine Angabe ist nicht zulässig, wenn in Feld 10 der |  | 13 |
+| **Plausibilitäten** | Eine Angabe ist nicht zulässig, wenn in Feld 10 der |  | 13 |
 |---|---|---|---|
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
 | Thrombozytenaggregationshemmer | Ja / Nein / Kontraindikation / orale | | |
 | Pflichtfeld  Mindestens eine Angabe ist erforderlich. | Mehrfachnennungen sind möglich. | Die Angabe „ Die Angabe „ | |
 |  | Die Angabe „ |  | Die Angabe „Kontraindikation“ kann auch alleine oder    Die Angabe „   14   (weggefallen)    (weggefallen) |
@@ -435,17 +435,17 @@ Nr. Antikoagulation Anlage 2* die Angabe „Diabetes mellitus Typ 1“ erfolgt i
 
 ---
 
-| Plausibilitäten |  |  |  |
+| **Plausibilitäten** |  |  |  |
 |---|---|---|---|
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
 | Schulung |  | | |
 | 18 | Schulung empfohlen (bei aktueller  Diabetes-Schulung / Hypertonie-Schulung / | Pflichtfeld   Mindestens eine Angabe ist erforderlich. | |
 | Mehrfachnennungen sind möglich. |  | Wenn die Angabe „ | Die Angabe „Diabetes   18a  Schulung schon vor Einschreibung  Diabetes-Schulung / Hypertonie-Schulung /  Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich.    Mindestens eine Angabe ist erforderlich, wenn die |
@@ -493,17 +493,17 @@ Nr. Dokumentation)   ins DMP bereits wahrgenommen wahrgenommen  Dokumentation ke
 
 ---
 
-| Plausibilitäten | Genau jeweils eine Angabe ist für die "Diabetes- |  | Genau jeweils eine Angabe zu „Diabetes |
+| **Plausibilitäten** | Genau jeweils eine Angabe ist für die "Diabetes- |  | Genau jeweils eine Angabe zu „Diabetes |
 |---|---|---|---|
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
 |  | Die Angaben zu „Diabetes Schulung“ und „Hypertonie | | |
 |  |  | Behandlungsplanung | |
 |  | 20 | HbA1c-Zielwert | Zielwert erreicht / Zielwert noch nicht erreicht   Pflichtfeld  Genau eine Angabe ist zulässig.    21   Ophthalmologische  Durchgeführt / Nicht durchgeführt / Veranlasst   Bedingtes Pflichtfeld   Mindestens eine Angabe ist erforderlich.  Mehrfachnennungen sind möglich. |
@@ -551,17 +551,17 @@ Nr. Netzhautuntersuchung seit der letzten Dokumentation für das Diabetische Fu�
 
 ---
 
-| Plausibilitäten | Wenn „ | „Ja“ kann auch gleichzeitig mit „ |  |
+| **Plausibilitäten** | Wenn „ | „Ja“ kann auch gleichzeitig mit „ |  |
 |---|---|---|---|
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
 | 23 | (weggefallen) | | |
 | (weggefallen) |  |  | |
 |  |  |  |  |

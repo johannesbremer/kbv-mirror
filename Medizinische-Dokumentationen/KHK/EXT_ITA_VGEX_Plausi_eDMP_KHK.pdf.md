@@ -2,10 +2,7 @@
 
 ## Plausibilitätsrichtlinie
 
-## zur Prüfung der Dokumentationsdaten
-
-## des strukturierten Behandlungsprogramms
-
+## zur Prüfung der Dokumentationsdaten des strukturierten Behandlungsprogramms
 # KHK
 
 **Grundlage:**
@@ -29,9 +26,9 @@
 
 #### Anlage 6: Datensatz für die indikationsspezifische Dokumentation:
 
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
 |---|---|---|---|
-|  | Ist in den indikationsübergreifenden Dokumentationsparametern gemäß | | |
+|  | **Ist in den indikationsübergreifenden Dokumentationsparametern gemäß** | | |
 |  | Anamnese- und Befunddaten | | |
 | 1 | Angina pectoris | Nein / Wenn ja: CCS I / CCS II / CCS III / CCS IV | Pflichtfel Genau eine Angabe ist zulässig |
 | 2 | (weggefallen) |  |  |
@@ -44,7 +41,7 @@ Nr. sind die nachstehenden Felder der Anlage 2 entsprechend den Festlegungen der
 
 ---
 
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
 |---|---|---|---|
 |  |  |  | Die Angaben „Herzinfarkt“ |
 | 3a | Herzinfarkt innerhalb der letzten 12 | Ja / Nein | Pflichtfeld  Genau eine Angabe ist zulässig |
@@ -57,7 +54,7 @@ Nr. Monate wegen KHK seit der letzten Dokumentation  „Instabile Angina pectori
 
 ---
 
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
 |---|---|---|---|
 | 7 | Betablocker | Ja / Nein / Kontraindikation | Pflichtfeld;   Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich Erfolgt die Angabe „Ja“ ist keine weitere Ang   Die Angabe „ |
 | 8 | ACE-Hemmer | Ja / Nein / Kontraindikation | Pflichtfeld;   Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich   Die Angabe  Die Angabe „   Die Angabe „Kontraindikation“ kann auch alleine oder    Die Angabe „ |
@@ -68,7 +65,7 @@ Nr. Nein“ kann alleine oder gleichzeitig mit der Angabe „Kontraindikation“
 
 ---
 
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
 |---|---|---|---|
 | 9b | Aktuelle Therapiestrategie Statin | Feste Hochdosis | Bedingtes Pflichtfeld Genau eine Angabe ist zulässig.    Eine Angabe ist erforderlich   Eine Angabe ist nicht zulässig, wenn in |
 | 9c | Grund für moderate o | Aufdosierungsphase / LDL | Bedingtes Pflichtfeld Genau eine Angabe ist zulässig.   Eine Angabe ist erforderlich, wenn in Feld 9a die    Eine Angabe ist nicht zulässig, wenn in Feld 9a die Angabe |
@@ -78,11 +75,11 @@ Nr. Nein“ kann alleine oder gleichzeitig mit der Angabe „Kontraindikation“
 | 11 | Schulung empfohlen (bei aktueller | Ja / Nein | Pflichtfeld;  Genau eine Angabe ist zulässig |
 | 12 | Empfohlene Schulung(en) | Ja / Nein / War aktuell nicht möglich / Bei | Bedingtes Pflichtfeld;  Genau eine Angabe ist zulässig Eine Angabe ist erforderlich, wenn die Anlage  Eine Angabe im Rahmen einer Erstdokumentation ist nicht |
 
-Nr. Statin-Dosis in DMP wahrgenommen Dokumentation)  wahrgenommen der niedrige -Strategie / Zielwert Strategie / Keine Strategie erreicht / Kontraindikation gegen Hochdosis / Ablehnung durch Patienten Keine Begründung letzter Dokumentation keine Schulung vereinbart -Zielwert „Hoch“ oder „Moderat“ oder „Niedrig“ „Kein Statin“ Kontraindikation gegen „Moderat“ oder „Niedrig“ erfolgt ist „Hoch“ oder „Kein Statin“ oder „Kontraindikation gegen Statin“ erfolgt ist einer Erstdokumentation auszufüllen ist iner Folgedokumentation ist nicht einer Folgedokumentation auszufüllen ist wenn die Anlage 6* im Rahmen erfolgt ist Statin“ erfolgt ist 6* im Rahmen
+Nr. Statin-Dosis in DMP wahrgenommen Dokumentation)  wahrgenommen -Strategie / Zielwert Strategie / Keine Strategie der niedrige erreicht / Kontraindikation gegen Hochdosis / Ablehnung durch Patienten Keine Begründung letzter Dokumentation keine Schulung vereinbart -Zielwert „Hoch“ oder „Moderat“ oder „Niedrig“ „Kein Statin“ Kontraindikation gegen „Moderat“ oder „Niedrig“ erfolgt ist „Hoch“ oder „Kein Statin“ oder „Kontraindikation gegen Statin“ erfolgt ist einer Erstdokumentation auszufüllen ist iner Folgedokumentation ist nicht einer Folgedokumentation auszufüllen ist wenn die Anlage 6* im Rahmen erfolgt ist Statin“ erfolgt ist 6* im Rahmen
 
 ---
 
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
 |---|---|---|---|
 |  |  |  | zulässig |
 |  | Behandlungsplanung |  | |

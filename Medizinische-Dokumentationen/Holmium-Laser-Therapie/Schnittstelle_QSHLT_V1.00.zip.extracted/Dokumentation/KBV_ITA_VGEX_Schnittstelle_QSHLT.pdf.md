@@ -1,8 +1,8 @@
-|  | IT in der Arztpraxis |
+|  | ***IT in der Arztpraxis*** |
 |---|---|
-|  | Schnittstellenbeschreibung QS |
+|  | *Schnittstellenbeschreibung QS* |
 |  | [KBV_ITA_VGEX_Schnittstelle_QS |
-|  |  |
+|  | ** |
 |  | Dezernat |
 |  |  |
 |  | 10623 Berlin, Herbert |
@@ -20,7 +20,7 @@ Holmium-Laser-Therapie
 
 ### DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
@@ -160,30 +160,23 @@ Holmium-Laser-Therapie
 
 ---
 
-#### ABBILDUNGSVERZEICHNIS
+| **IT in** | **der Arztpraxis** | |  |  |
+|---|---|---|---|---|
+|  | Schnittstellenbeschreibung | | QS Holmium-Laser-Therapie |  |
+|  |  |  | **ABBILDUNGSVERZEICHNIS** |  |
+|  | **Abbildung 1** | **- Element** | **ehd** | **................................................................................................. 12** |
+| **Abbildung** | **2 -** | **Element id** | **....................................................................................................** | **13** |
+| **Abbildung** | **3 -** | **Element** | **document_type_cd** | **....................................................................... 13** |
+|  | **Abbildung 4** | **- Element** | **document_relationship** | **................................................................. 13** |
+| **Abbildung** | **5 -** | **Element provider** | **.........................................................................................** | **14** |
+| **Abbildung** | **6** | **- Element** | **interface** | **......................................................................................... 14** |
+|  | **Abbildung 7** | **- Element** | **sciphox:Software** | **.......................................................................... 15** |
+|  | **Abbildung 8** | **- Element** | **body** | **............................................................................................... 17** |
+|  | **Abbildung 9** | **- Element** | **qshlt_dokumentation Teil 1** | **.......................................................... 17** |
+|  | **Abbildung 10** | **- Element** | **qshlt_dokumentation Teil 2** | **........................................................ 18** |
+|  |  | KBV_ITA_VGEX_Schnittstelle_QSHLT | * Version 1.00 | Seite 5 von 23 |
 
-**Abbildung 1 - Element ehd ................................................................................................. 12**
-
-**Abbildung 2 - Element id .................................................................................................... 13**
-
-**Abbildung 3 - Element document_type_cd ................................................................ ....... 13**
-
-**Abbildung 4 - Element document_relationship ................................................................. 13**
-
-**Abbildung 5 - Element provider ................................................................ ......................... 14**
-
-**Abbildung 6 - Element interface ................................................................ ......................... 14**
-
-**Abbildung 7 - Element sciphox:Software ................................................................ .......... 15**
-
-**Abbildung 8 - Element body ................................................................ ............................... 17**
-
-**Abbildung 9 - Element qshlt_dokumentation Teil 1 .......................................................... 17**
-
-**Abbildung 10 - Element qshlt_dokumentation Teil 2 ........................................................ 18**
-
-Holmium-Laser-Therapie
-
+Abbildung 1 - Element ehd Abbildung 2 - Element id .................................................................................................... Abbildung 3 - Element document_type_cd ................................................................ Abbildung 4 - Element document_relationship Abbildung 5 - Element provider ................................................................ Abbildung 6 - Element interface Abbildung 7 - Element sciphox:Software Abbildung 8 - Element body Abbildung 9 - Element qshlt_dokumentation Teil 1 Abbildung 10 - Element qshlt_dokumentation Teil 2
 
 ---
 
@@ -277,7 +270,7 @@ Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, dere
 
 Es existieren verschiedene Kardinalitäten:
 
-| Kardinalität | Symbol | Beschreibung |
+| **Kardinalität** | **Symbol** | **Beschreibung** |
 |---|---|---|
 | 0..1 |  | Optionales Element: Element wird als Rechteck mit |
 | 1 |  | Musselement: Rechteck mit durchgezogener Linie. |
@@ -289,7 +282,7 @@ Es existieren verschiedene Kardinalitäten:
 
 Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinander lo- gisch verknüpft. In diesem Dokument werden zwei Strukturelement-Arten verwendet: Choice  und Sequence.
 
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |---|---|
 |  | Das Strukturelement Choice zeigt an, dass zwischen verschiedenen Kind- |
 |  | Das Strukturelement Sequence beschreibt, dass verschiedene Kindelemente |
@@ -304,7 +297,7 @@ gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen.  Existier
 
 Es werden außerdem folgende Diagramm-Symbole verwendet:
 
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |---|---|
 |  | Ein Element mit mehreren Kindelementen wird durch ein Plus- |
 |  | Referenzelement: Der Pfeil links unten im Element zeigt an, dass |
@@ -403,8 +396,8 @@ Holmium-Laser-Therapie
 
 ---
 
-| <ehd:document_relationship>  <ehd:document_relationship.type_cd V="RPLC"/>  <ehd:related_document>  < </ehd:related_document>  </ehd:document_relationship> |
-|---|
+\| <ehd:document_relationship>  <ehd:document_relationship.type_cd V="RPLC"/>  <ehd:related_document> **<** </ehd:related_document>  </ehd:document_relationship> |
+\|---|
 
 **XML-Code 2 - document_relationship**
 
@@ -442,8 +435,8 @@ id EX=" ag111105-2d51-4016-831e-cbd9e1a318h9 " RT="278012312"/>
 
 XML-Beispiel
 
-| </ehd:person>      </ehd:organization>              <ehd:local_header>              </ehd:header> |
-|---|
+\| </ehd:person>      </ehd:organization>              <ehd:local_header>              </ehd:header> |
+\|---|
 
 **XML-Code 3 - ehd-header**
 
@@ -523,9 +516,9 @@ Holmium-Laser-Therapie
 
 ---
 
-| <qshlt:qshlt_dokumentation> |
-|---|
-| Abbildung 10 - Element qshlt_dokumentation XML-Beispiel (ohne Anspruch auf Vollständigkeit)  <qshlt:qshlt_dokumentation> |
+\| <qshlt:qshlt_dokumentation> |
+\|---|
+\| **Abbildung 10 - Element qshlt_dokumentation** XML-Beispiel (ohne Anspruch auf Vollständigkeit)  <qshlt:qshlt_dokumentation> |
 
 Holmium-Laser-Therapie
 
@@ -535,9 +528,9 @@ Teil 2 <anzahl_ersteingriffe V="10"/> <anzahl_folgeeingriffe V="10"/> <anzahl_ei
 
 Holmium-Laser-Therapie
 
-| </qshlt:qshlt_dokumentation>     XML-Code 6 - qshlt dokumentation    4.3.1  Die Anzahl (nonNegativeInteger ) der Ersteingriffe wird hier im V-Attribut angegeben. Der    4.3.2  Die Anzahl (nonNegativeInteger) der Folgeeingriffe wird hier im V-Attribut angegeben. Der |
-|---|
-| </qshlt:qshlt_dokumentation> |
+\| </qshlt:qshlt_dokumentation>    **XML-Code 6 - qshlt dokumentation **  **4.3.1 ** Die Anzahl (nonNegativeInteger ) der Ersteingriffe wird hier im V-Attribut angegeben. Der   **4.3.2 ** Die Anzahl (nonNegativeInteger) der Folgeeingriffe wird hier im V-Attribut angegeben. Der |
+\|---|
+\| </qshlt:qshlt_dokumentation> |
 
 ### 4.3.3 anzahl_ eingriffe_mit_absoluter_op_indikation
 
@@ -708,7 +701,7 @@ Holmium-Laser-Therapie
 
 # 5. Referenzierte Dokumente
 
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 |---|---|
 | [KBV_ITA_VGEX_eHD] | Richtlinie ehd - eHealthData |
 | [1] | Qualitätssicherungsvereinbarung Holmium-Laser-Therapie |

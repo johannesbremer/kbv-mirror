@@ -1,8 +1,8 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
 ## MUSTER 20  STUFENWEISE WIEDEREINGLIEDERUNG IN DAS
 

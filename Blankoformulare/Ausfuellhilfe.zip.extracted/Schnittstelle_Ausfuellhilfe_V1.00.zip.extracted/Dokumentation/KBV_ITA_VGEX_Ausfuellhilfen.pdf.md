@@ -1,8 +1,8 @@
-|  | IT in der Arztpraxis |
+|  | ***IT in der Arztpraxis*** |
 |---|---|
-|  | Ausfüllhilfen in XML |
+|  | *Ausfüllhilfen in XML* |
 |  | [KBV_ITA_VGEX_Ausfuellhilfen] |
-|  |  |
+|  | ** |
 |  | Dezernat Digitalisierung und IT |
 |  |  |
 |  | 10623 Berlin, Herbert-Lewin-Platz 2 |
@@ -18,7 +18,7 @@
 
 ### DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.00 | 14.11.2017 | KBV | neues Dokument |  |  |
 
@@ -226,11 +226,11 @@ Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, dere
 
 Es existieren verschiedene Kardinalitäten:
 
-| Kardinalität | Symbol | Beschreibung |
+| **Kardinalität** | **Symbol** | **Beschreibung** |
 |---|---|---|
-| 0..1 |  | Optionale Elemente  Ein optionales Element wird als Rechteck mit gestri- |
-| 1 |  | Obligatorische Elemente  Elemente, welche als Rechteck mit durchgezogener |
-| n...m |  | Mehrfache Elemente  Bei Elementen, welche mehrfach vorkommen kön- |
+| 0..1 |  | **Optionale Elemente ** Ein optionales Element wird als Rechteck mit gestri- |
+| 1 |  | **Obligatorische Elemente ** Elemente, welche als Rechteck mit durchgezogener |
+| n...m |  | **Mehrfache Elemente ** Bei Elementen, welche mehrfach vorkommen kön- |
 
 **Tabelle 1:** Beschreibung der Kardinalitäten eines XML-Elements
 
@@ -246,7 +246,7 @@ nander verknüpft. In diesem Dokument werden zwei Strukturelemente verwendet: **
 
 und ***<xs:sequence>***
 
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |---|---|
 |  | Das Strukturelement |
 |  | Das Strukturelement |
@@ -257,12 +257,12 @@ und ***<xs:sequence>***
 
 Es werden außerdem folgende Diagramm-Symbole verwendet:
 
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |---|---|
-|  | Element mit Kindelementen  Ein Element mit einem oder mehreren Kindelementen wird durch ein |
-|  | Referenzelement  Der Pfeil links unten im Element zeigt an, dass das Element an ande- |
-|  | Datentyp  Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen |
-|  | Gruppenelement  Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement |
+|  | **Element mit Kindelementen ** Ein Element mit einem oder mehreren Kindelementen wird durch ein |
+|  | **Referenzelement ** Der Pfeil links unten im Element zeigt an, dass das Element an ande- |
+|  | **Datentyp ** Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen |
+|  | **Gruppenelement ** Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement |
 
 **Tabelle 3:** Beschreibung sonstiger Symbole
 
@@ -464,7 +464,7 @@ Der XML-Code für ein <hinweistext> Element hat folgenden Aufbau:
 
 # 6 Referenzierte Dokumente
 
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 |---|---|
 | KBV_ITA_VGEX_eHD | ehd – |
 

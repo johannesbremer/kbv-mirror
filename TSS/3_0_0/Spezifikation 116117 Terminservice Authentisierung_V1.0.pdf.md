@@ -78,12 +78,13 @@ Entwurf
 
 ---
 
-1 EINLEITUNG
+| 1 | EINLEITUNG |
+|---|---|
+| Dieses | Dokument spezifiziert das Authentisierungsverfahren für externe Systeme zur Nutzung von Diensten |
+| des 116117 | Terminservice. |
+| Seite 4 von | 14 / KBV / Spezifikation 116117 Terminservice Authentisierung |
 
-Dieses Dokument spezifiziert das Authentisierungsverfahren für externe Systeme zur Nutzung von Diensten  des 116117 Terminservice.
-
-Seite 4 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung
-
+1 EINLEITUNG Dieses Dokument spezifiziert das Authentisierungsverfahren für externe Systeme zur Nutzung von Diensten des 116117 Terminservice.  / KBV / Spezifikation 116117 Terminservice Authentisierung
 
 ---
 

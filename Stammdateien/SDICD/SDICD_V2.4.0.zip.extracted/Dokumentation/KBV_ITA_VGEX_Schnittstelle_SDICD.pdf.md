@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  15. NOVEMBER 2021   VERSION: 2.4.0   DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  15. NOVEMBER 2021   VERSION: 2.4.0   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # SCHNITTSTELLENBESCHREIBUNG SDICD  (ICD-10-GM-STAMMDATEI)
@@ -326,19 +326,19 @@ FORMEL 29: XML-CODE: KEINE_DAUERDIAGNOSE .......................................
 
 1 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 2.4.0 | 15.11.2021 | KBV | Ergänzung der Arztgruppe |  | 23 |
-| 2.4.0 | 14.04.2021 | KBV | Komplett Überarbeitung    Aufnahme der neuen Elemente:   <keine_dauerdiagnose>  <verschluesselungsanleitung_liste> <verschluesselungsanleitung_ref>   Die nicht verwendeten Elemente | Neues CD und Anpassungen | Alle      19, 20,  24, 25,  33, 33 |
-| 2.3.0 | 26.07.2016 | KBV | Korrektur der Abbildung 11 Korrektur Kapitel 5.1 und 5.15 | Entfernung der optionalen  Einführung einer angleichen- | 18  13, 20 |
+| 2.4.0 | 15.11.2021 | KBV | Ergänzung der Arztgruppe |  | **23** |
+| 2.4.0 | 14.04.2021 | KBV | Komplett Überarbeitung    Aufnahme der neuen Elemente:   <keine_dauerdiagnose>  <verschluesselungsanleitung_liste> <verschluesselungsanleitung_ref>   Die nicht verwendeten Elemente | Neues CD und Anpassungen | **Alle **    **19, 20,  24, 25,  33, 33** |
+| 2.3.0 | 26.07.2016 | KBV | Korrektur der Abbildung 11 Korrektur Kapitel 5.1 und 5.15 | Entfernung der optionalen  Einführung einer angleichen- | **18  13, 20** |
 
 Bereitschaftsdienst <kodierrichtlinien_liste> und <akr_ref> wurden aus der Dokumentation und dem Schema gestrichen. <diagnosethesaurus_liste> unterhalb des <icd- stammdaten> Elements  den Nummerierung der Paket- , Dokument- und Schemaversionen
 
 ---
 
-| BESCHREIBUNG DER BESTANDTEILE DES DATEINAMENS | |
+| **BESCHREIBUNG DER BESTANDTEILE DES DATEINAMENS** | |
 |---|---|
-| Bestandteile des | Beschreibung |
+| **Bestandteile des** | **Beschreibung** |
 | - | Trennungszeichen zwischen den Namenselementen |
 | datatyp | Header-Element <document_type_cd>. |
 | vv.vv | des Header-Elements <interface>. |
@@ -365,7 +365,7 @@ EINLEITUNG XML-Format. Das XML-- Format orientiert sich dabei an die ehd Richtli
 |  |  |
 |  |  |
 |  |  |
-| BESCHREIBUNG DER BESTANDTEILE DES DATEINAMENS | |
+| **BESCHREIBUNG DER BESTANDTEILE DES DATEINAMENS** | |
 | verwendet werden | |
 
 Tabelle 1: Beschreibung der Bestandteile des Dateinamens Beispiel: ICD_01.00_74_tf+2013_nr+1.xml
@@ -380,9 +380,9 @@ Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, dere
 
 Es existieren verschiedene Kardinalitäten:
 
-| BESCHREIBUNG DER KARDINALITÄTEN | | |
+| **BESCHREIBUNG DER KARDINALITÄTEN** | | |
 |---|---|---|
-| Kardinalität | Symbol | Beschreibung |
+| **Kardinalität** | **Symbol** | **Beschreibung** |
 | 0..1 |  | Optionales Element  Element wird als Rechteck mit gestrichelter Linie |
 | 1 |  | Musselement  Rechteck mit durchgezogener Linie. Das Element muss |
 | n...m |  | Multielement  Enthält mindestens n aber maximal m Elemente, was |
@@ -393,9 +393,9 @@ Tabelle 2: Beschreibung der Kardinalitäten
 
 Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente miteinander verknüpft.  In diesem Dokument werden zwei Strukturelemente verwendet: ***<xs:choice>*** und ***<xs:sequence>***
 
-| BESCHREIBUNG DER STRUKTURELEMENTE-SYMBOLE | |
+| **BESCHREIBUNG DER STRUKTURELEMENTE-SYMBOLE** | |
 |---|---|
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |  | Das Strukturelement |
 |  | Das Strukturelement |
 
@@ -409,9 +409,9 @@ dargestellt. Es kann kein oder einmal vorkommen. genau einmal vorkommen. durch d
 
 Es werden außerdem folgende Diagramm-Symbole verwendet:
 
-| BESCHREIBUNG SONSTIGER SYMBOLE | |
+| **BESCHREIBUNG SONSTIGER SYMBOLE** | |
 |---|---|
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |  | Element mit Kindelementen  Ein Element mit einem oder mehreren Kindelementen wird durch ein |
 |  | Referenzelement  Der Pfeil links unten im Element zeigt an, dass das Element an anderer Stelle |
 |  | Datentyp Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen Datentyp. |
@@ -435,8 +435,8 @@ Abbildung 1: /ehd (root-Element)
 
 Das ***<ehd>***
 
-| <?xml version="1.0" encoding="ISO-8859-15"?>  <ehd:ehd xmlns="urn:ehd/001"  <ehd:header>  ...  </ehd:header>  <ehd:body>  ...  </ehd:body>  </ehd:ehd> |
-|---|
+\| **<?xml version="1.0" encoding="ISO-8859-15"?>  <ehd:ehd xmlns="urn:ehd/001"  <ehd:header>  ...  </ehd:header>  <ehd:body>  ...  </ehd:body>  </ehd:ehd>** |
+\|---|
 
 Formel 1: XML-Code /ehd
 
@@ -480,8 +480,8 @@ Abbildung 2 icd_stammdatei
 
 Der Coderahmen für das <icd_stammdaten>-Element sieht wie folgt aus:
 
-| <icd_stammdaten>  <kapitel_liste>  ...  </kapitel_liste>  </> |
-|---|
+\| ****<icd_stammdaten>  <kapitel_liste>  ...  </kapitel_liste>  </>** |
+\|---|
 
 Formel 2: XML-Code: icd_stammdaten
 
@@ -496,8 +496,8 @@ Abbildung 3: kapitel_liste
 
 Der Coderahmen für das <icd_stammdaten>-Element sieht wie folgt aus.
 
-| <kapitel_liste>  <kapitel>  ...  </kapitel>  <kapitel>  ...  </kapitel>  ...   < |
-|---|
+\| ****<kapitel_liste>  <kapitel>  ...  </kapitel>  <kapitel>  ...  </kapitel>  ...   <**** |
+\|---|
 
 Formel 3: XML-Code: kapitel_liste
 
@@ -511,8 +511,8 @@ Abbildung 4: Kapitel
 
 Der XML-Code für ein <kapitel> Element hat folgenden Aufbau:
 
-| <kapitel>  <nummer V="..."/>  <von_icd_code V="..."/>  <bis_icd_code V="..."/>  <bezeichnung V="..."/>  <gruppen_liste>  ...  </gruppen_liste>  </kapitel> |
-|---|
+\| ****<kapitel>  <nummer V="..."/>  <von_icd_code V="..."/>  <bis_icd_code V="..."/>  <bezeichnung V="..."/>  <gruppen_liste>  ...  </gruppen_liste>  </kapitel> **** |
+\|---|
 
 Formel 4: XML-Code: kapitel
 
@@ -527,8 +527,8 @@ Abbildung 5: nummer
 
 Der XML-Code für ein <nummer> Element hat folgenden Aufbau:
 
-| <nummer V="..."/> |
-|---|
+\| ****<nummer V="..."/>** |
+\|---|
 
 Formel 5: XML-Code: nummer
 
@@ -540,8 +540,8 @@ Abbildung 6: von_icd_code
 
 Der XML-Code für ein <von_icd_code> Element hat folgenden Aufbau:
 
-| <von_icd_code V="..."/> |
-|---|
+\| ****<von_icd_code V="..."/>** |
+\|---|
 
 Formel 6: XML-Code: von_icd_code
 
@@ -556,8 +556,8 @@ Abbildung 7: bis_icd_code
 
 Der XML-Code für ein <bis_icd_code> Element hat folgenden Aufbau:
 
-| <bis_icd_code V="..."/> |
-|---|
+\| ****<bis_icd_code V="..."/>** |
+\|---|
 
 Formel 7: XML-Code: bis_icd_code
 
@@ -573,8 +573,8 @@ Abbildung 8: gruppen_liste
 
 Der XML-Code für ein <gruppen_liste> Element hat folgenden Aufbau:
 
-| <gruppen_liste>  <gruppe>  ...  </gruppe>  <gruppe>  ...  </gruppe>  ...  </gruppen_liste> |
-|---|
+\| ****<gruppen_liste>  <gruppe>  ...  </gruppe>  <gruppe>  ...  </gruppe>  ...  </gruppen_liste>**** |
+\|---|
 
 Formel 8: XML-Code: gruppen_liste
 
@@ -589,8 +589,8 @@ Abbildung 9: gruppe
 
 Der XML-Code für ein <gruppe> Element hat folgenden Aufbau:
 
-| <gruppe>  <von_icd_code V="..."/>  <bis_icd_code V="..."/>  <bezeichnung V="..."/>  <diagnosen_liste>  ...  </>  </gruppe> |
-|---|
+\| ****<gruppe>  <von_icd_code V="..."/>  <bis_icd_code V="..."/>  <bezeichnung V="..."/>  <diagnosen_liste>  ...  </>  </gruppe>**** |
+\|---|
 
 Formel 9: XML-Code: gruppe
 
@@ -617,8 +617,8 @@ Abbildung 10: diagnose_liste
 
 Der XML-Code für ein <diagnosen_liste> Element hat folgenden Aufbau:
 
-| <diagnosen_liste>  <diagnose>  ...  </diagnose>  <diagnose>  ...  </diagnose>  ...  </> |
-|---|
+\| ****<diagnosen_liste>  <diagnose>  ...  </diagnose>  <diagnose>  ...  </diagnose>  ...  </>**** |
+\|---|
 
 Formel 10: XML-Code: diagnose_liste
 
@@ -636,23 +636,23 @@ Abbildung 11: diagnose prinzipieller Aufbau -10-GM-
 
 ---
 
-| <diagnose>  <icd_code V="Z00.-"/>  <bezeichnung V="..."/>  <abrechenbar V="..."/> |
-|---|
-| Abbildung 12: diagnose optionale Elemente          Der XML-Code für ein <diagnose> Element hat folgenden Aufbau (im Beispiel wird die Kodierung ‚Z00,     <diagnose>  <icd_code V="Z00.-"/>  <bezeichnung V="..."/>  <abrechenbar V="..."/> |
+\| **<diagnose>  <icd_code V="Z00.-"/>  <bezeichnung V="..."/>  <abrechenbar V="..."/>** |
+\|---|
+\| Abbildung 12: diagnose optionale Elemente          Der XML-Code für ein <diagnose> Element hat folgenden Aufbau (im Beispiel wird die Kodierung ‚Z00,    **<diagnose>  <icd_code V="Z00.-"/>  <bezeichnung V="..."/>  <abrechenbar V="..."/>** |
 
 -’ mit Beispielen für zwei dort untergeordnete Kodierungen verwendet):
 
 ---
 
-| <infektionsschutzgesetz_meldepflicht V="..."/>  <infektionsschutzgesetz_abrechnungsbesonderheit V="..."/>   <keine_dauerdiagnose V="..."" DN="..."/>  <diagnosen_liste>  <diagnose> |
-|---|
-| <notationskennzeichen V="..."/>  <geschlechtsbezug V="..." DN="..."/>  <geschlechtsbezug_fehlerart V="..." DN="..."/>  <untere_altersgrenze V="..."/>  <obere_altersgrenze V="..."/>  <altersbezug_fehlerart V="..."/>  <krankheit_in_mitteleuropa_sehr_selten V="..."/>  <schlüsselnummer_mit_inhalt_belegt V="..."/>  <infektionsschutzgesetz_meldepflicht V="..."/>  <infektionsschutzgesetz_abrechnungsbesonderheit V="..."/>   <keine_dauerdiagnose V="..."" DN="..."/>  <diagnosen_liste>  <diagnose>  <icd_code V="Z00.0"/>  ...  </diagnose>  <diagnose>  <icd_code V="Z00.1"/>  ...  <diagnose>  ...  </diagnosen_liste>  <diagnosethesaurus_liste>  ...  </>  <verschluesselungsanleitung_liste>  ...  </>  </diagnose> |
+\| **<infektionsschutzgesetz_meldepflicht V="..."/>  <infektionsschutzgesetz_abrechnungsbesonderheit V="..."/>   <keine_dauerdiagnose V="..."" DN="..."/>  <diagnosen_liste>  <diagnose>** |
+\|---|
+\| **<notationskennzeichen V="..."/>  <geschlechtsbezug V="..." DN="..."/>  <geschlechtsbezug_fehlerart V="..." DN="..."/>  <untere_altersgrenze V="..."/>  <obere_altersgrenze V="..."/>  <altersbezug_fehlerart V="..."/>  <krankheit_in_mitteleuropa_sehr_selten V="..."/>  <schlüsselnummer_mit_inhalt_belegt V="..."/>  <infektionsschutzgesetz_meldepflicht V="..."/>  <infektionsschutzgesetz_abrechnungsbesonderheit V="..."/>   <keine_dauerdiagnose V="..."" DN="..."/>  <diagnosen_liste>  <diagnose>  <icd_code V="Z00.0"/>  ...  </diagnose>  <diagnose>  <icd_code V="Z00.1"/>  ...  <diagnose>  ...  </diagnosen_liste>  <diagnosethesaurus_liste>  ...  </>  <verschluesselungsanleitung_liste>  ...  </>  </diagnose>**** |
 
 Formel 11: XML-Code: diagnose
 
-| <diagnosethesaurus_liste>  <diagnosethesaurus V="...">  <arztgruppen_liste>  <arztgruppe V="..." DN="..."/> |
-|---|
-| <notationskennzeichen V="..."/>  <geschlechtsbezug V="..." DN="..."/>  <geschlechtsbezug_fehlerart V="..." DN="..."/>  <untere_altersgrenze V="..."/>  <obere_altersgrenze V="..."/>  <altersbezug_fehlerart V="..."/>  <krankheit_in_mitteleuropa_sehr_selten V="..."/>  <schlüsselnummer_mit_inhalt_belegt V="..."/>  <infektionsschutzgesetz_meldepflicht V="..."/>  <infektionsschutzgesetz_abrechnungsbesonderheit V="..."/>   <keine_dauerdiagnose V="..."" DN="..."/>  <diagnosen_liste> |
+\| ****<diagnosethesaurus_liste>  <diagnosethesaurus V="...">  <arztgruppen_liste>  <arztgruppe V="..." DN="..."/>** |
+\|---|
+\| **<notationskennzeichen V="..."/>  <geschlechtsbezug V="..." DN="..."/>  <geschlechtsbezug_fehlerart V="..." DN="..."/>  <untere_altersgrenze V="..."/>  <obere_altersgrenze V="..."/>  <altersbezug_fehlerart V="..."/>  <krankheit_in_mitteleuropa_sehr_selten V="..."/>  <schlüsselnummer_mit_inhalt_belegt V="..."/>  <infektionsschutzgesetz_meldepflicht V="..."/>  <infektionsschutzgesetz_abrechnungsbesonderheit V="..."/>   <keine_dauerdiagnose V="..."" DN="..."/>  <diagnosen_liste>** |
 
 Das Element <diagnosethesaurus_liste> umschließt eine Liste von <diagnosethesaurus> Elementen. Alle  einer Diagnose untergeordneten <diagnosethesaurus> Elemente enthalten alternative Diagnosetexte zu  der übergeordneten Diagnose.
 
@@ -668,9 +668,9 @@ DIAGNOSETHESAURUS_LI STE
 
 ---
 
-|  |
-|---|
-| <arztgruppe V="..." DN="..."/>  </>  </diagnosethesaurus>  <diagnosethesaurus V="...">  <arztgruppen_liste>  <arztgruppe V="..." DN="..."/>  <arztgruppe V="..." DN="..."/>  </>  </diagnosethesaurus>  ...  </> |
+\|  |
+\|---|
+\| **<arztgruppe V="..." DN="..."/>  </>  </diagnosethesaurus>  <diagnosethesaurus V="...">  <arztgruppen_liste>  <arztgruppe V="..." DN="..."/>  <arztgruppe V="..." DN="..."/>  </>  </diagnosethesaurus>  ...  </>**** |
 
 Formel 12: XML-Code: diagnosethesaurus_liste
 
@@ -682,8 +682,8 @@ Abbildung 14: diagnosethesaurus
 
 Der XML-Code für ein <diagnosethesaurus> Element hat folgenden Aufbau:
 
-| <diagnosethesaurus V="...">  <arztgruppen_liste>  <arztgruppe V="..." DN="..." S="1.2.276.0.76.5.115"/>  <arztgruppe V="..." DN="..." S="1.2.276.0.76.5.115"/>  </>  </> |
-|---|
+\| ****<diagnosethesaurus V="...">  <arztgruppen_liste>  <arztgruppe V="..." DN="..." S="1.2.276.0.76.5.115"/>  <arztgruppe V="..." DN="..." S="1.2.276.0.76.5.115"/>  </>  </>**** |
+\|---|
 
 Formel 13: XML-Code: diagnosethesaurus
 
@@ -699,8 +699,8 @@ diagnosethesaurus_liste
 
 Der XML-Code für ein <arztgruppen_liste> Element hat folgenden Aufbau:
 
-| <arztgruppen_liste>  <arztgruppe V="..." DN="..." S="1.2.276.0.76.5.115"/>  <arztgruppe V="..." DN="..." S="1.2.276.0.76.5.115"/>  </> |
-|---|
+\| ****<arztgruppen_liste>  <arztgruppe V="..." DN="..." S="1.2.276.0.76.5.115"/>  <arztgruppe V="..." DN="..." S="1.2.276.0.76.5.115"/>  </> **** |
+\|---|
 
 Formel 14: XML-Code: arztgruppen_liste
 
@@ -714,17 +714,17 @@ Abbildung 16: arztgruppe
 
 Der XML-Code für ein <arztgruppe> Element hat folgenden Aufbau:
 
-| <arztgruppe V="..." DN="..." S="1.2.276.0.76.5.115"/> |
-|---|
+\| ****<arztgruppe V="..." DN="..." S="1.2.276.0.76.5.115"/> **** |
+\|---|
 
 Formel 15: XML-Code: arztgruppe
 
 
 ---
 
-| ARZTGRUPPE |  |
+| **ARZTGRUPPE** |  |
 |---|---|
-| Wert ( | Bedeutung (optional |
+| **Wert (** | Bedeutung (optional |
 | 3 | Hausarzt |
 | 6 | Augenarzt |
 | 7 | Chirurg |
@@ -748,8 +748,8 @@ Abbildung 17: verschluesselungsanleitung_liste
 
 Der XML-Code für ein <verschluesselungsanleitung_liste> Element hat folgenden Aufbau:
 
-| <verschluesselungsanleitung_liste>      <verschluesselungsanleitung_ref V="..." />     <verschluesselungsanleitung_ref V="..." />     <verschluesselungsanleitung_ref V="..." />  </> |
-|---|
+\| **<verschluesselungsanleitung_liste>      <verschluesselungsanleitung_ref V="..." />     <verschluesselungsanleitung_ref V="..." />     <verschluesselungsanleitung_ref V="..." />  </>** |
+\|---|
 
 Formel 16: XML-Code: verschluesselungsanleitung _liste
 
@@ -765,8 +765,8 @@ Abbildung 18: verschluesselungsanleitung_ref
 
 Der XML-Code für ein <verschluesselungsanleitung_ref> Element hat folgenden Aufbau:
 
-| <verschluesselungsanleitung_ref V="1234" /> |
-|---|
+\| ****<verschluesselungsanleitung_ref V="1234" /> **** |
+\|---|
 
 Formel 17: XML-Code: verschluesselungsanleitung_ref
 
@@ -782,8 +782,8 @@ Abbildung 19 : icd_code
 
 Der XML-Code für ein <icd_code> Element hat folgenden Aufbau:
 
-| <icd_code V="..."/> |
-|---|
+\| **<icd_code V="..."/> **** |
+\|---|
 
 Formel 18: XML-Code: icd_code ICD_Code
 
@@ -798,8 +798,8 @@ Abbildung 20: bezeichnung
 
 Der XML-Code für ein <bezeichnung> Element hat folgenden Aufbau:
 
-| <bezeichnung V="..."/> |
-|---|
+\| **<bezeichnung V="..."/> **** |
+\|---|
 
 Formel 19: ML-Code: bezeichnung
 
@@ -811,10 +811,10 @@ Abbildung 21: abrechenbar
 
 Der XML-Code für ein <abrechenbar> Element hat folgenden Aufbau:
 
-| Wert ( |
-|---|
+\| ****Wert (** |
+\|---|
 
-| ABRECHENBAR |  |
+| **ABRECHENBAR** |  |
 |---|---|
 | j | ja |
 | n | nein |
@@ -835,14 +835,14 @@ Abbildung 22 : notationskennzeichen
 
 Der XML-Code für ein <notationskennzeichen> Element hat folgenden Aufbau:
 
-| <notationskennzeichen V="..."/> |
-|---|
+\| **<notationskennzeichen V="..."/>** |
+\|---|
 
 Formel 21: XML-Code: notationskennzeichen
 
-| NOTATIONSKENNZEICHEN |  |
+| **NOTATIONSKENNZEICHEN** |  |
 |---|---|
-| Wert ( | Bedeutung (optional |
+| **Wert (** | Bedeutung (optional |
 | + | Kreuzzeichen - Primärschlüssel |
 | * | Sternzeichen - Sekundärschlüssel |
 | ! | Ausrufezeichen - Zusatzschlüssel |
@@ -857,12 +857,12 @@ Abbildung 23: geschlechtsbezug
 
 Der XML-Code für ein <geschlechtsbezug> Element hat folgenden Aufbau:
 
-| <geschlechtsbezug V="..." DN="..."/> |
-|---|
+\| **<geschlechtsbezug V="..." DN="..."/>**** |
+\|---|
 
-| GESCHLECHTSBEZUG |  |
+| **GESCHLECHTSBEZUG** |  |
 |---|---|
-| Wert ( | Bedeutung (optional |
+| **Wert (** | Bedeutung (optional |
 | w | weiblich |
 | Formel 22: XML-Code geschlechtsbezug |  |
 
@@ -888,14 +888,14 @@ Abbildung 24: geschlechtsbezug_fehlerart
 
 Der XML-Code für ein <geschlechtsbezug_fehlerart> Element hat folgenden Aufbau:
 
-| <geschlechtsbezug_fehlerart V="..." DN="..."/> |
-|---|
+\| **<geschlechtsbezug_fehlerart V="..." DN="..."/>**** |
+\|---|
 
 Formel 23: XML-Code: geschlechtsbezug_fehlerart
 
-| GESCHLECHTSBEZUG_FEHLERART |  |
+| **GESCHLECHTSBEZUG_FEHLERART** |  |
 |---|---|
-| Wert ( | Bedeutung (optional |
+| **Wert (** | Bedeutung (optional |
 | k | k = Kann-Fehler |
 | m | m = Muss-Fehler |
 
@@ -921,14 +921,14 @@ Abbildung 25: untere_altersgrenze
 
 Der XML-Code für ein <untere_altersgrenze> Element hat folgenden Aufbau:
 
-| <untere_altersgrenze V="..." U="..."/> |
-|---|
+\| **<untere_altersgrenze V="..." U="..."/>** |
+\|---|
 
 Formel 24: XML-Code: untere_altersgrenze
 
-| UNTERE_ALTERSGRENZE |  |
+| **UNTERE_ALTERSGRENZE** |  |
 |---|---|
-| Wert ( | |
+| **Wert (** | |
 | Jahr | |
 | Tag | |
 
@@ -948,14 +948,14 @@ U="..."
 
 ---
 
-| <obere_altersgrenze V="..." U="..."/> |
-|---|
+\| **<obere_altersgrenze V="..." U="..."/>** |
+\|---|
 
 Formel 25: XML-Code: obere_altersgrenze
 
-| OBERE_ALTERSGRENZE |  |
+| **OBERE_ALTERSGRENZE** |  |
 |---|---|
-| Wert ( | |
+| **Wert (** | |
 | Jahr | |
 | Tag | |
 
@@ -969,14 +969,14 @@ Abbildung 27: altersbezug_fehlerart
 
 Der XML-Code für ein <altersbezug_fehlerart> Element hat folgenden Aufbau:
 
-| <altersbezug_fehlerart V="..." DN="..."/> |
-|---|
+\| **<altersbezug_fehlerart V="..." DN="..."/>** |
+\|---|
 
 Formel 26: XML-Code: altersbezug_fehlerart
 
-| ALTERSBEZUG_FEHLERART |  |
+| **ALTERSBEZUG_FEHLERART** |  |
 |---|---|
-| Wert ( | Bedeutung (optional |
+| **Wert (** | Bedeutung (optional |
 | k | Kann-Fehler |
 | m | Muss-Fehler |
 
@@ -994,14 +994,14 @@ Abbildung 28: krankheit_in_mitteleuropa_sehr_selten
 
 Der XML-Code für ein <krankheit_in_mitteleuropa_sehr_selten> Element hat folgenden Aufbau:
 
-| <krankheit_in_mitteleuropa_sehr_selten V="..." DN="..."/> |
-|---|
+\| **<krankheit_in_mitteleuropa_sehr_selten V="..." DN="..."/>** |
+\|---|
 
 Formel 27: XML-Code: krankheit_in_mitteleuropa_sehr_selten
 
-| KRANKHEIT_IN_MITTELEUROPA_SEHR_SELTEN |  |
+| **KRANKHEIT_IN_MITTELEUROPA_SEHR_SELTEN** |  |
 |---|---|
-| Wert ( | Bedeutung (optional |
+| **Wert (** | Bedeutung (optional |
 | j | ja |
 | n | nein |
 
@@ -1015,8 +1015,8 @@ Abbildung 29: schlüsselnummer_mit_inhalt_belegt
 
 Der XML-Code für ein <schlüsselnummer_mit_inhalt_belegt> Element hat folgenden Aufbau:
 
-| <schlüsselnummer_mit_inhalt_belegt |
-|---|
+\| **<schlüsselnummer_mit_inhalt_belegt** |
+\|---|
 
 Formel 28: XML-Code: schlüsselnummer_mit_inhalt_belegt
 
@@ -1024,9 +1024,9 @@ V="..." DN="..." V="..." DN="..."/>
 
 ---
 
-| SCHLÜSSELNUMMER_MIT_INHALT_BELEGT |  |
+| **SCHLÜSSELNUMMER_MIT_INHALT_BELEGT** |  |
 |---|---|
-| Wert ( | Bedeutung (optional |
+| **Wert (** | Bedeutung (optional |
 | j | ja |
 | n | nein |
 
@@ -1040,14 +1040,14 @@ Abbildung 30: infektionsschutzgesetz_meldepflicht
 
 Der XML-Code für ein <infektionsschutzgesetz_meldepflicht> Element hat folgenden Aufbau:
 
-| <infektionsschutzgesetz_meldepflicht V="..." DN="..."/> |
-|---|
+\| **<infektionsschutzgesetz_meldepflicht V="..." DN="..."/>** |
+\|---|
 
 Formel 29: XML_Code: infektionsschutzgesetz_meldepflicht
 
-| INFEKTIONSSCHUTZGESETZ_MELDEPFLICHT |  |
+| **INFEKTIONSSCHUTZGESETZ_MELDEPFLICHT** |  |
 |---|---|
-| Wert ( | Bedeutung (optional |
+| **Wert (** | Bedeutung (optional |
 | j | ja |
 | n | nein |
 
@@ -1065,14 +1065,14 @@ Abbildung 31: infektionsschutzgesetz_abrechnungsbesonderheit
 
 Der XML-Code für ein <infektionsschutzgesetz_abrechnungsbesonderheit> Element hat folgenden Aufbau:
 
-| <infektionsschutzgesetz_meldepflicht V="..." DN="..."/> |
-|---|
+\| **<infektionsschutzgesetz_meldepflicht V="..." DN="..."/>** |
+\|---|
 
 Formel 30: XML-Code: infektionsschutzgesetz_abrechnungsbesonderheit
 
-| INFEKTIONSSCHUTZGESETZ_ABRECHNUNGSBESONDERHEIT | |
+| **INFEKTIONSSCHUTZGESETZ_ABRECHNUNGSBESONDERHEIT** | |
 |---|---|
-| Wert ( | Bedeutung (optional |
+| **Wert (** | Bedeutung (optional |
 | j | ja |
 | n | nein |
 
@@ -1086,14 +1086,14 @@ Abbildung 32: keine_dauerdiagnose
 
 Der XML-Code für ein <keine_dauerdiagnose> Element hat folgenden Aufbau:
 
-| <keine_dauerdiagnose V="..." DN="... |
-|---|
+\| **<keine_dauerdiagnose V="..." DN="...** |
+\|---|
 
 Formel 31: XML-Code: keine_dauerdiagnose
 
-| ICD_10_GM_CODE_KEINE_DAUERDIAGNOSE | |
+| **ICD_10_GM_CODE_KEINE_DAUERDIAGNOSE** | |
 |---|---|
-| Wert ( | Bedeutung (optional |
+| **Wert (** | Bedeutung (optional |
 | 1 | ist als Dauerdiagnose nicht geeignet |
 | 0 | Nicht definiert |
 
@@ -1107,7 +1107,7 @@ V="..." DN="..." "/> V="..." DN="..."
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 | [KBV_ITA_VGEX_eHD] | ehd – eHealthData, Richtlinie |
 
 **Ansprechpartner:**

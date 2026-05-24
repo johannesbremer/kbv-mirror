@@ -2,10 +2,7 @@
 
 ## zum indikationsspezifischen Datensatz
 
-## für das strukturierte Behandlungsprogramm
-
-## chronische Herzinsuffizienz
-
+## für das strukturierte Behandlungsprogramm chronische Herzinsuffizienz
 Stand der letzten Bearbeitung: 11-10-2024
 
 Version 2.0
@@ -27,10 +24,7 @@ Bitte geben Sie „Ja“ nur dann an, wenn Sie sowohl  eGFR bestimmt haben. Sofe
 
 stimmt haben, geben Sie bitte „Nein“
 
-#### Symptomatik
-
-#### sechs
-
+#### Symptomatik sechs
 an.
 
 Eine Angabe ist erforderlich.
@@ -41,11 +35,11 @@ gemäß NYHA-Klassifikation an:
 
 **NYHA-Klassifikation bei Herzinsuffizienz (nach Leistungsfähigkeit)**
 
-| NYHA I  (asymptoma- | Herzerkrankung ohne körperliche Limitation.   Alltägliche körperliche Belastung verursacht keine inadäquate Erschöpfung, Rhythmusstörun- |
+| **NYHA I ** (asymptoma- | Herzerkrankung ohne körperliche Limitation.   Alltägliche körperliche Belastung verursacht keine inadäquate Erschöpfung, Rhythmusstörun- |
 |---|---|
-| NYHA II  (leicht) | Herzerkrankung mit leichter Einschränkung der körperlichen Leistungsfähigkeit.   Keine Beschwerden in Ruhe und bei geringer Anstrengung.   Stärkere körperliche Belastung verursacht Erschöpfung, Rhythmusstörungen, Luftnot oder An- |
-| NYHA III  (mittelschwer) | Herzerkrankung mit höhergradiger Einschränkung der körperlichen Leistungsfähigkeit bei ge- Keine Beschwerden in Ruhe.   Geringe körperliche Belastung verursacht Erschöpfung, Rhythmusstörungen, Luftnot oder An- |
-| NYHA IV  (schwer) | Herzerkrankung mit Beschwerden bei allen körperlichen Aktivitäten und in Ruhe, Bettlägerigkeit. |
+| **NYHA II ** (leicht) | Herzerkrankung mit leichter Einschränkung der körperlichen Leistungsfähigkeit.   Keine Beschwerden in Ruhe und bei geringer Anstrengung.   Stärkere körperliche Belastung verursacht Erschöpfung, Rhythmusstörungen, Luftnot oder An- |
+| **NYHA III ** (mittelschwer) | Herzerkrankung mit höhergradiger Einschränkung der körperlichen Leistungsfähigkeit bei ge- Keine Beschwerden in Ruhe.   Geringe körperliche Belastung verursacht Erschöpfung, Rhythmusstörungen, Luftnot oder An- |
+| **NYHA IV ** (schwer) | Herzerkrankung mit Beschwerden bei allen körperlichen Aktivitäten und in Ruhe, Bettlägerigkeit. |
 
 Aus: Bundesärztekammer (BÄK), Kassenärztliche Bundesvereinigung (KBV), Arbeitsgemeinschaft der  schen Fachgesellschaften (AWMF). Nationale Versorgungs-Leitlinie Chronische Herzinsuffizienz, Langfassung, Version
 
@@ -110,13 +104,13 @@ nosis and treatment of acute and chronic heart failure”, S. 3621)
 
 | Wirkstoff | Zieldosierung |
 |---|---|
-| ACE-Hemmer | |
+| **ACE-Hemmer** | |
 | Captopril | 3x50 mg/d |
 | Enalapril | 2x10-20 mg/d |
 | Lisinopril | 1x20-35 mg/d |
 | Ramipril | 1x10 mg/d |
 | Trandolapril | 1x4 mg/d |
-| ARNI | |
+| **ARNI** | |
 | Sacubitril/ Valsartan | 2x97/103 mg/d |
 
 
@@ -124,16 +118,16 @@ nosis and treatment of acute and chronic heart failure”, S. 3621)
 
 | Wirkstoff | Zieldosierung |
 |---|---|
-| ARB | |
+| **ARB** | |
 | Candesartan | 1x32 mg/d |
 | Losartan | 1x150 mg/d |
 | Valsartan | 2x160 mg/d |
-| Betablocker | |
+| **Betablocker** | |
 | Bisoprolol | 1x10 mg/d |
 | Carvedilol | 2x25 mg/d |
 | Metoprololsuccinat | 1x190 mg/d |
 | Nebivolol | 1x10 mg/d |
-| MRA | |
+| **MRA** | |
 | Eplerenon | 1x50 mg |
 | Spironolacton | 1x50 mg |
 
@@ -289,10 +283,7 @@ Sollten Sie **keine Schulung** **empfohlen** haben (z. B. weil Ihre Patientin bz
 
 lung wahrgenommen hat), geben Sie dies bitte mit „**Nein** an.
 
-#### Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz-spezifischen Schulung teil-
-
-#### genommen
-
+#### Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz-spezifischen Schulung teil- genommen
 Eine Angabe in diesem Feld ist nur im Rahmen der **Erstdokumentation** möglich und hier verpflichtend.
 
 **Genau eine Angabe** ist erforderlich und zulässig. Bei der Folgedokumentation ist hier keine Angabe mög-

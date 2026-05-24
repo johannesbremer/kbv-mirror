@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  15. NOVEMBER 2022  ZU VERSION: 1.01    DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  15. NOVEMBER 2022  ZU VERSION: 1.01    DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # FRAGEN UND ANTWORTEN ZUR
@@ -79,9 +79,9 @@ BUNDESVEREINIGUNG     IT IN DER ARZTPRAXIS
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 1.01 | 15.11.2022 | KBV | Aktualisierung der |  | 4 |
+| 1.01 | 15.11.2022 | KBV | Aktualisierung der |  | **4** |
 | 1.00 | 15.08.2017 | KBV | Initiale Erstellung | Neuerstellung des | Alle |
 
 Fragen und Antworten Anforderungskatalogs
@@ -96,7 +96,7 @@ Diese FAQs dienen ausschließlich zur Orientierung im Themengebiet Blankoformula
 
 2 FRAGEN UND ANTWORTEN ZUR BLANKOFORMULARBEDRUCKUNG
 
-| BEZUG [1] | FRAGE | ANTWORT |
+| **BEZUG [1]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
 | Allgemein | In dem technischen Handbuch der  Blankoformularbedruckung [1] wird immer nur  von PVS gesprochen. Gilt für andere Systeme in | Doch. Im technischen Handbuch steht PVS als Synonym für Systeme, die mit der |
 | Allgemein | Das Zertifizierungsverfahren  „Blankoformularbedruckung“ gibt verschiedene  Muster vor. Muss eine Software alle Muster  umsetzen und gibt es Abhängigkeiten zwischen  den Mustern? | Nein. Eine Software kann frei aus den Mustern wählen und diese beliebig miteinander  Eine Ausnahme bilden die Muster 62A, 62B und 62C. Hier können bestimmte  alternative Kombinationen dieser Muster ausgewählt werden, um die Aufwendungen  und Zertifizierungskosten zu minimieren. Nur eine dieser Kombinationen soll dabei  ausgewählt werden. |
@@ -106,7 +106,7 @@ Arztpraxen wie Laborinformationssysteme (LIS), Arztinformationssysteme (AIS), Or
 
 ---
 
-| BEZUG [1] | FRAGE | ANTWORT |
+| **BEZUG [1]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
 | Allgemein –  Zertifizierung | Was ist im Kapitel Zertifizierungsgegenstand mit  „Bezeichnung“ im Antrag auf Zertifizierung [5]  gemeint? | Mit „Bezeichnung“ ist die Produktbezeichnung/Softwarebezeichnung,  unter welcher |
 | Allgemein –  Zertifizierung | Welche Muster müssen im Antrag auf  Zertifizierung [5] ausgewählt werden? | Diejenigen Muster, für die Sie eine Zertifizierung anstreben.  Bei einer Rezertifizierung |
@@ -123,7 +123,7 @@ Ihr System auf dem Markt zu finden ist, gemeint. müssen alle Muster ausgewählt
 
 **3.1** **ANTRAG AUF ZERTIFIZIERUNG**
 
-| BEREICH | INHALT | ERGEBNIS |
+| **BEREICH** | **INHALT** | **ERGEBNIS** |
 |---|---|---|
 | 1. Allgemeine Angaben | Vollständig | OK |
 | 1.3  Zertifizierungsgegenstand | Bezeichnung (Produktbezeichnung) | Fehler |
@@ -138,7 +138,7 @@ Ihr System auf dem Markt zu finden ist, gemeint. müssen alle Muster ausgewählt
 
 **3.2.1** **Abmessungen**
 
-| ANFORDERUNG | ERGEBNIS |
+| **ANFORDERUNG** | **ERGEBNIS** |
 |---|---|
 | Gesamtbreite 8 cm | Fehler (skaliert) |
 | Papierrand 9mm und 5mm | OK |
@@ -156,7 +156,7 @@ werden.
 
 ---
 
-| ZEILE | BEISPIEL AN EINEM KORREKTEN PERSONALIENFELD | ERGEBNIS |
+| **ZEILE** | **BEISPIEL AN EINEM KORREKTEN PERSONALIENFELD** | **ERGEBNIS** |
 |---|---|---|
 | 1. Zeile |  | OK |
 |  | 2. Zeile | Fehler* (zu niedrig) |
@@ -168,7 +168,7 @@ werden.
 |  | Positionierung Untereinander | Fehler (0,5-1 Zeichen versetzt) |
 | Inhalt | „Betriebsstätten | OK |
 
-| ANFORDERUNG | INHALT | ERGEBNIS |
+| **ANFORDERUNG** | **INHALT** | **ERGEBNIS** |
 |---|---|---|
 | Zeichendichte (Schriftgröße) | 10 Zeichen/Zoll (12pt.) | OK |
 | Schriftart: | Courier oder Courier New | OK |
@@ -181,7 +181,7 @@ Siehe: Technisches Handbuch Blankoformularbedruckung [1] im Kapitel 2.8 Bedrucku
 
 **3.3.1** **Codierung**
 
-| ANFORDERUNG | ART | ERGEBNIS |
+| **ANFORDERUNG** | **ART** | **ERGEBNIS** |
 |---|---|---|
 | Codierung | ISO 8859-15 | OK |
 
@@ -189,7 +189,7 @@ Siehe: Technisches Handbuch Blankoformularbedruckung [1] im Kapitel 2.10 Zeichen
 
 **3.3.2** **Eigenschaften**
 
-| ANFORDERUNG | INHALT | ERGEBNIS |
+| **ANFORDERUNG** | **INHALT** | **ERGEBNIS** |
 |---|---|---|
 | Barcodetyp | PDF 417 | OK |
 | Datenblöcke | 9 Blöcke, davon 7 Informationsblöcke | OK |
@@ -201,7 +201,7 @@ Siehe: Technisches Handbuch Blankoformularbedruckung [1] im 5.5 Technische Vorga
 
 **3.4** **KBV-PRÜFNUMMER**
 
-| ANFORDERUNG | INHALT | ERGEBNIS |
+| **ANFORDERUNG** | **INHALT** | **ERGEBNIS** |
 |---|---|---|
 | Schriftgröße | 5 pt. | Fehler (6 pt.) |
 
@@ -209,7 +209,7 @@ Nr.“ & „Arzt Nr.“ & „Datum“
 
 ---
 
-| ANFORDERUNG | INHALT | ERGEBNIS |
+| **ANFORDERUNG** | **INHALT** | **ERGEBNIS** |
 |---|---|---|
 | Schriftart: | Arial | OK |
 | KBV-Prüfnummer: | Y/9/1704/36/001 | OK |
@@ -220,7 +220,7 @@ Siehe: Prüfpaket Blankoformularbedruckung [3] im Kapitel 1.6.2 Vorbereitungen
 
 **3.5** **STEMPEL**
 
-| ZEILE | BEISPIEL FÜR EINEN VOLLSTÄNDIGEN PRÜFARZTSTEMPEL | VORHANDEN/ERGEBNIS |
+| **ZEILE** | **BEISPIEL FÜR EINEN VOLLSTÄNDIGEN PRÜFARZTSTEMPEL** | **VORHANDEN/ERGEBNIS** |
 |---|---|---|
 |  |  |  |
 |  | 1. Information | Vorhanden |
@@ -267,7 +267,7 @@ Zertifizierungsrichtlinie der
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 | [1] | [KBV_ITA_VGEX_Technisches_Handbuch_BFB]  Technisches Handbuch Blankoformularbedruckung |
 | [2] | [KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung]  Anforderungskatalog Blankoformularbedruckung |
 | [3] | [KBV_ITA_AHEX_PRUEFPAKET_BFB]  Prüfpaket Blankoformularbedruckung |

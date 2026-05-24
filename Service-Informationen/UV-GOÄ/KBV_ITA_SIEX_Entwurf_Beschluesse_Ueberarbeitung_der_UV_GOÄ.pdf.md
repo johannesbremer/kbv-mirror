@@ -33,19 +33,26 @@ Berlin, den 10. März 2026
 
 ---
 
-| Für die |  | Unfallversicherungsträger: | |  |  |  |
-|---|---|---|---|---|---|---|
-|  | _______________________ | |  |  |  |  |
-| Dr. | Edlyn Höller |  |  |  |  |  |
-| Für | die Kassenärztliche |  | Bundesvereinigung: |  |  |  |
-|  | ________________________ | |  |  |  |  |
-| Dr. | Andreas Gassen |  |  |  |  |  |
-| Für die | Sozialversicherung | | für Landwirtschaft, | Forsten | und Gartenbau | als landwirtschaftliche |
-|  | Berufsgenossenschaft | (SVLFG) | |  |  |  |
-|  |  | _______________________________ | |  |  |  |
-| Dr. | Marion Baierl |  |  |  |  |  |
+Für die Unfallversicherungsträger:
 
-Für die Unfallversicherungsträger: Dr. Edlyn Höller Für die Kassenärztliche Bundesvereinigung: Dr. Andreas Gassen Für die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau als landwirtschaftliche Berufsgenossenschaft (SVLFG)  Dr. Marion Baierl
+Dr. Edlyn Höller
+
+Für die Kassenärztliche Bundesvereinigung:
+
+Dr. Andreas Gassen
+
+Für die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau als landwirtschaftliche
+
+Berufsgenossenschaft (SVLFG)
+
+Dr. Marion Baierl
+
+_______________________
+
+________________________
+
+_______________________________
+
 
 ---
 
@@ -168,9 +175,9 @@ Gebühren, die nicht Gegenstand der Überarbeitung waren und auf die Änderungen
 
 - **4.** In I. Allgemeine Beratungen und Untersuchungen werden die Nummern 1 bis 5 wie folgt  gefasst:
 
-| „ | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| „ | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 1 | 8,37 | 10,43 |  | 1,74 | 1,74 |
+| *1* | *8,37* | *10,43* |  | *1,74* | *1,74* |
 
 *Symptomzentrierte Untersuchung bei Unfallverletzungen oder bei Verdacht auf das*  *Vorliegen einer Berufskrankheit einschließlich Beratung.*
 
@@ -182,9 +189,9 @@ Gebühren, die nicht Gegenstand der Überarbeitung waren und auf die Änderungen
 
 *Daneben nicht abrechenbar: Nrn. 2, 45, 448 – 449, 804 bis 812, 817, 835, 849, 861 bis 864,*  *870, 871, 886, 887*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 2 | 19,56 | 24,31 |  | 3,51 | 3,51 |
+| *2* | *19,56* | *24,31* |  | *3,51* | *3,51* |
 
 *Umfassende Untersuchung verbunden mit nach Umfang und Zeit besonderem*  *differenzialdiagnostischen Aufwand und/oder Beteiligung mehrerer Organe einschl. Klärung*  *oder Überprüfung des Zusammenhangs mit der Berufstätigkeit einschließlich Beratung.*
 
@@ -195,25 +202,25 @@ Nummer *Daneben nicht abrechenbar: Nr. 1,45, 50, 448 – 449, 600, 601, 800, 826
 
 ---
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 3 | 7,58 | 9,42 |  |  |  |
+| *3* | *7,58* | *9,42* |  |  |  |
 
 *Zuschlag zu den Nummern 1 oder 2 für Leistungen zwischen 19 - 7 Uhr sowie an*  *Samstagen, Sonntagen und Feiertagen.*
 
 *Die Leistung kann nicht abgerechnet werden, wenn Versicherte zu diesen Zeiten einbestellt*  *werden.*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 4 | 10,00 | 10,00 |  |  |  |
+| *4* | *10,00* | *10,00* |  |  |  |
 
 *Zuschlag zu Nr. 1 oder 2 für die Entscheidung des Durchgangsarztes, keine Behandlung zu*  *Lasten des Unfallversicherungsträgers einzuleiten bzw. diese abzubrechen. Voraussetzung*  *ist, dass die Gründe dokumentiert, Versicherte über die Entscheidung aufgeklärt und - soweit*  *bekannt - weiterbehandelnde Ärzte informiert werden.*
 
 *Die Leistung kann nur von D-Ärzten abgerechnet werden.*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 5 | 10,00 | 10,00 |  |  |  |
+| *5* | *10,00* | *10,00* |  |  |  |
 
 *Zuschlag für einen erhöhten ärztlichen Aufwand bei erschwerter Kommunikation im Rahmen*  *der Leistungen nach den Nrn. 1 und 2. Dies ist im Bericht zu dokumentieren.*
 
@@ -223,9 +230,9 @@ Nummer *Daneben nicht abrechenbar: Nr. 1,45, 50, 448 – 449, 600, 601, 800, 826
 
 - **6.** In I. Allgemeine Beratungen und Untersuchungen werden die Nummern 10 und 10a wie  folgt gefasst:
 
-| „ | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| „ | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 10 |  | 9,14 |  | 3,02 | 3,02 |
+| *10* |  | *9,14* |  | *3,02* | *3,02* |
 
 Nummer *Telemedizinische Beratungsleistungen als selbstständige Leistungen durch den D-Arzt,*  *Handchirurgen nach § 37 (3) Vertrag Ärzte/UV-Träger und im Einzelfall nach vorheriger*  *Kostenzusage durch den UV-Träger.*
 
@@ -240,9 +247,9 @@ Nummer *Telemedizinische Beratungsleistungen als selbstständige Leistungen durc
 
 *Daneben nicht abrechenbar: Nrn. 1, 2, 10a, 11, 12, 15, 45, 50, 60, 6002*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 10a |  | 18,28 |  | 6,02 | 6,02 |
+| *10a* |  | *18,28* |  | *6,02* | *6,02* |
 
 *Leistung nach Nr. 10, jedoch für die Dauer von mehr als 10 Minuten.*
 
@@ -252,9 +259,9 @@ Nummer *Telemedizinische Beratungsleistungen als selbstständige Leistungen durc
 
 - **8.** In I. Allgemeine Beratungen und Untersuchungen wird die Nummer 12 wie folgt gefasst:
 
-| „ | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| „ | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 12 | 7,58 | 9,42 |  |  |  |
+| *12* | *7,58* | *9,42* |  |  |  |
 
 Nummer *Zuschlag zu Nr. 11 für die Leistung zwischen 19 - 7 Uhr sowie an Samstagen, Sonntagen*  *und Feiertagen.*
 
@@ -265,23 +272,23 @@ Nummer *Zuschlag zu Nr. 11 für die Leistung zwischen 19 - 7 Uhr sowie an Samsta
 
 - **10.** In I. Allgemeine Beratungen und Untersuchungen werden die Nummern 15, 16 und 17 wie  folgt gefasst:
 
-| „Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *„Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 15 | 15,66 | 15,66 |  | 1,20 | 1,20 |
+| *15* | *15,66* | *15,66* |  | *1,20* | *1,20* |
 
 *Telefonisches oder videobasiertes Gespräch des Arztes mit einem Mitarbeitenden des*  *Unfallversicherungsträgers im Zusammenhang mit der Steuerung und Überwachung des*  *Heilverfahrens. Die Leistung kann nur bei besonderer Heilbehandlung und maximal 3x im*  *Behandlungsfall abgerechnet werden. Die Gespräche sind zu dokumentieren. Eine*  *zusätzliche Berichterstattung erfolgt ausschließlich auf Anforderung des UV-Trägers.*
 
 *Daneben nicht abrechenbar: Nrn. 11, 12, 18, 19 und 34*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 16 | 2,80 | 3,49 |  | 1,74 | 1,74 |
+| *16* | *2,80* | *3,49* |  | *1,74* | *1,74* |
 
 *Aushändigen von Wiederholungsrezepten und/oder Übermittlung von Befunden oder*  *ärztlichen Anordnungen - auch mittels Fernsprecher - durch die medizinische Fachkraft als*  *alleinige Leistung*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 17 |  | 135,79 |  |  |  |
+| *17* |  | *135,79* |  |  |  |
 
 *Mitwirkung des Arztes bei der Erstellung des Reha-Planes i. S. von Nr. 3.2 des*  *Handlungsleitfadens "Das Reha-Management der Deutschen Gesetzlichen*  *Unfallversicherung". Die Mitwirkung bedarf eines Auftrages durch den UV-Träger.*
 
@@ -291,9 +298,9 @@ Nummer *Zuschlag zu Nr. 11 für die Leistung zwischen 19 - 7 Uhr sowie an Samsta
 
 - **12.** In I. Allgemeine Beratungen und Untersuchungen werden die Nummern 18 und 19 wie  folgt gefasst:
 
-| „ | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| „ | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 18 |  | 67,90 |  |  |  |
+| *18* |  | *67,90* |  |  |  |
 
 Nummer *Fortschreibung des Reha- und Teilhabeplanes nach Nr. 17 UV-GOÄ. Die Mitwirkung bedarf*  *eines Auftrages durch den UV-Träger.*
 
@@ -302,9 +309,9 @@ Nummer *Fortschreibung des Reha- und Teilhabeplanes nach Nr. 17 UV-GOÄ. Die Mit
 
 *Daneben nicht abrechenbar: Nrn. 17, 34, 35, 6000, 6002*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 19 | 27,92 | 34,75 |  | 1,74 | 1,74 |
+| *19* | *27,92* | *34,75* |  | *1,74* | *1,74* |
 
 *Einleitung und Koordination flankierender therapeutischer und sozialer Maßnahmen während*  *der kontinuierlichen ambulanten Betreuung eines chronisch Kranken. Die Leistung kann nur*  *abgerechnet werden, wenn alle der vorgenannten Kriterien erfüllt sind.*
 
@@ -318,9 +325,9 @@ Nummer *Fortschreibung des Reha- und Teilhabeplanes nach Nr. 17 UV-GOÄ. Die Mit
 
 - **15.** In II. Leistungen unter besonderen Bedingungen werden die Nummern 34, 35 und 36 wie  folgt gefasst:
 
-| „ | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| „ | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 34 | 74,27 | 74,27 |  | 5,71 | 5,71 |
+| *34* | *74,27* | *74,27* |  | *5,71* | *5,71* |
 
 *Untersuchung zum Stand des Heilverfahrens einschließlich Einschätzung zum bisherigen*  *Verlauf und/oder zu laufenden oder geplanten Maßnahmen der medizinischen Behandlung*  *bzw. Rehabilitation durch einen anderen als den behandelnden Arzt.*
 
@@ -330,9 +337,9 @@ Nummer *Fortschreibung des Reha- und Teilhabeplanes nach Nr. 17 UV-GOÄ. Die Mit
 
 *Daneben nicht abrechenbar: Nrn. 1, 2, 35, 36, 110, 115, 118, 6000*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 35 | 13,78 | 13,78 |  | 1,74 | 1,74 |
+| *35* | *13,78* | *13,78* |  | *1,74* | *1,74* |
 
 Nummer *Beurteilung und Bewertung von Schnittbildern und /oder Röntgenbildern durch den D-Arzt*  *bei einem Arztwechsel*
 
@@ -347,9 +354,9 @@ Nummer *Beurteilung und Bewertung von Schnittbildern und /oder Röntgenbildern d
 
 *Daneben nicht abrechenbar: Nrn. 17, 18, 34, 5255, 5256, 5257*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 36 | 13,78 | 13,78 |  | 1,74 | 1,74 |
+| *36* | *13,78* | *13,78* |  | *1,74* | *1,74* |
 
 *Beurteilung und Bewertung von Schnittbildern des hinzugezogenen Radiologen durch den D-* *Arzt*
 
@@ -363,9 +370,9 @@ Nummer *Beurteilung und Bewertung von Schnittbildern und /oder Röntgenbildern d
 
 **16.** In III. Visiten, Konsiliartätigkeit, Besuche, Assistenz wird die Nummer 45 wie folgt gefasst:
 
-| „ | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| „ | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 45 | 10,00 | 12,00 |  |  |  |
+| *45* | *10,00* | *12,00* |  |  |  |
 
 *Visite(n) im Krankenhaus*
 
@@ -384,17 +391,17 @@ Nummer *Die Leistung nach Nummer 45 ist neben anderen Leistungen des Abschnitts 
 
 - **18.** In III. Visiten, Konsiliartätigkeit, Besuche, Assistenz werden die Nummern 48 und 50 wie  folgt gefasst:
 
-| „ | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| „ | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 48 | 11,16 | 13,89 |  |  |  |
+| *48* | *11,16* | *13,89* |  |  |  |
 
 *Besuch eines Patienten auf einer Pflegestation (z. B. in Alten- oder Pflegeheimen) - bei*  *regelmäßiger Tätigkeit des Arztes auf der Pflegestation zu vorher vereinbarten Zeiten.*
 
 *Daneben nicht abrechenbar: Nrn. 11,12, 50, 51, 52*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 50 | 29,80 | 37,08 |  |  |  |
+| *50* | *29,80* | *37,08* |  |  |  |
 
 *Besuch, einschließlich Beratung und Untersuchung*
 
@@ -406,9 +413,9 @@ Nummer *Die Leistung nach Nummer 45 ist neben anderen Leistungen des Abschnitts 
 
 - **20.** In III. Visiten, Konsiliartätigkeit, Besuche, Assistenz werden die Nummern 51, 52, 53, 54,  55, 56 und 57 wie folgt gefasst:
 
-| „ | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| „ | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 51 | 17,89 | 22,28 |  |  |  |
+| *51* | *17,89* | *22,28* |  |  |  |
 
 *Zuschlag zur Nr. 50, zwischen 19 - 7 Uhr, sowie an Samstagen, Sonn- und Feiertagen*
 
@@ -418,17 +425,17 @@ Nummer Nummer
 
 ---
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 52 | 11,18 | 13,89 |  |  |  |
+| *52* | *11,18* | *13,89* |  |  |  |
 
 *Zuschlag zur Nr. 50 für eine über das Maß hinausgehende Untersuchung wie z.B. ärztliche*  *Versorgung von Schwerverletzten und -erkrankten, Verdacht auf multiple Verletzungen.*
 
 *Die Notwendigkeit der Leistung ist auf der Rechnung zu begründen. Die Leistung ist nur*  *einmal im Behandlungsfall berechnungsfähig.*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 53 | 23,27 | 28,96 |  |  |  |
+| *53* | *23,27* | *28,96* |  |  |  |
 
 *Besuch eines weiteren Kranken in derselben häuslichen Gemeinschaft in unmittelbaren*  *zeitlichen Zusammenhang mit der Leistung nach Nr. 50, einschließlich Beratung und*
 
@@ -438,25 +445,25 @@ Nummer Nummer
 
 *Daneben nicht abrechenbar: Nrn. 1, 2, 45, 448 - 449*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 54 | 7,85 | 7,85 |  |  |  |
+| *54* | *7,85* | *7,85* |  |  |  |
 
 *Aufsuchen eines Patienten außerhalb der Praxisräume oder des Krankenhauses durch nicht*  *ärztliches Personal im Auftrag des niedergelassenen Arztes (z. B. zur Durchführung von*  *kapillaren oder venösen Blutentnahmen, Wundbehandlungen, Verbandwechsel,*  *Katheterwechsel).*
 
 *Wegegeld ist nicht berechnungsfähig. Die Gebühr ist nicht berechnungsfähig, wenn das*  *nichtärztliche Personal den Arzt begleitet.*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 55 | 46,54 | 57,92 |  | 14,02 | 14,02 |
+| *55* | *46,54* | *57,92* |  | *14,02* | *14,02* |
 
 *Begleitung eines Patienten durch den behandelnden Arzt zur unmittelbar notwendigen*  *stationären Behandlung - gegebenenfalls einschließlich organisatorischer Vorbereitung der*  *Krankenhausaufnahme - je angefangene halbe Stunde der Einsatzdauer.*
 
 *Daneben nicht abrechenbar: Nrn. 56, 60, 833*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 56 | 8,37 | 10,43 |  |  |  |
+| *56* | *8,37* | *10,43* |  |  |  |
 
 *Verweilen, ohne Unterbrechung und ohne Erbringung anderer ärztlicher Leistungen, je*  *angefangene halbe Stunde – am Tag*
 
@@ -467,9 +474,9 @@ Nummer Nummer
 
 *Daneben nicht abrechenbar: Nrn. 448 - 449*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 57 | 8,37 | 10,43 |  |  |  |
+| *57* | *8,37* | *10,43* |  |  |  |
 
 *Zuschlag für die Leistung nach Nr. 56 bei Nacht (zwischen 19 und 7 Uhr) oder an*  *Samstagen, Sonn- und Feiertagen*
 
@@ -477,9 +484,9 @@ Nummer Nummer
 
 **21.** In III. Visiten, Konsiliartätigkeit, Besuche, Assistenz wird nach Nummer 57 folgende  Nummern 60 eingefügt:
 
-| „Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *„Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 60 | 11,16 | 13,89 |  | 1,74 | 1,74 |
+| *60* | *11,16* | *13,89* |  | *1,74* | *1,74* |
 
 *Konsiliarische Erörterung zwischen zwei oder mehr liquidationsberechtigten Ärzten, für jeden*  *Arzt – am Tag –*
 
@@ -500,15 +507,15 @@ Nummer Nummer
 
 - **23.** In III. Visiten, Konsiliartätigkeit, Besuche, Assistenz werden nach Nummer 60 folgende  Nummern 61, 62 und 63 eingefügt:
 
-| „Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *„Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 61 | 11,00 | 14,00 |  |  |  |
+| *61* | *11,00* | *14,00* |  |  |  |
 
 *Zuschlag zur Leistung nach Nr. 60 (zwischen19 und 7 Uhr), sowie an Samstagen, Sonn- und*  *Feiertagen*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 62 | 12,10 | 15,05 |  |  |  |
+| *62* | *12,10* | *15,05* |  |  |  |
 
 *Assistenz je angefangene halbe Stunde – die Leistungen sind anzugeben – am Tag*
 
@@ -516,9 +523,9 @@ Nummer Nummer
 
 *Die Nummer 62 gilt nicht für Ärzte, die zur Ausführung einer Narkose hinzugezogen werden;*  *sie darf nicht berechnet werden, wenn die Assistenz durch nicht liquidationsberechtigte Ärzte*  *erfolgt.*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 63 | 11,00 | 14,00 |  |  |  |
+| *63* | *11,00* | *14,00* |  |  |  |
 
 *Zuschlag zu der Leistung nach Nr. 62 zwischen 19 - 7 Uhr, sowie an Samstagen, Sonn- und*  *Feiertagen*
 
@@ -545,9 +552,9 @@ Nummer Nummer
 
 **25.** In IV. Wegegeld und Reiseentschädigung wird die Nummer 71 wie folgt gefasst:
 
-| „ | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| „ | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 71 | 12,10 | 12,10 |  |  |  |
+| *71* | *12,10* | *12,10* |  |  |  |
 
 *Wegegeld*
 
@@ -581,9 +588,9 @@ Nummer
 
 **28.** In VI. Besondere Bedingungen werden die Nummern 117 und 118 wie folgt gefasst:
 
-| „ | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| „ | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 117 | 23,77 | 23,77 |  |  |  |
+| *117* | *23,77* | *23,77* |  |  |  |
 
 *Vordruck F 1110*
 
@@ -591,9 +598,9 @@ Nummer
 
 *Daneben nicht abrechenbar: Nr. 166*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 118 | 42,42 | 42,42 |  |  |  |
+| *118* | *42,42* | *42,42* |  |  |  |
 
 *Ausführlicher Befundbericht auf Anforderung des Unfallversicherungsträgers, einschließlich*  *Schreibgebühren*
 
@@ -601,9 +608,9 @@ Nummer
 
 **29.** In VI. Besondere Bedingungen wird nach Nummer 117 folgende Nummer 119 neu  eingefügt:
 
-| „ | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| „ | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 119 | 26,72 | 26,72 |  |  |  |
+| *119* | *26,72* | *26,72* |  |  |  |
 
 *Vordruck F 2160*
 
@@ -619,9 +626,9 @@ Nummer Nummer
 
 ---
 
-| „ | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| „ | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 134 | 20,88 | 20,88 |  |  |  |
+| *134* | *20,88* | *20,88* |  |  |  |
 
 *Erstellung eines Messblatts auf Anforderung des Unfallversicherungsträgers außerhalb einer*  *Begutachtung mit Vordruck F 4220, F 4222, F 4224 und F 6222.*
 
@@ -645,9 +652,9 @@ Nummer Nummer
 
 - **33.** In Formulargutachten wird nach Nummer 165 folgende Nummer 166 neu eingefügt:
 
-| „ | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| „ | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 166 | 5,15 | 5,15 |  |  |  |
+| *166* | *5,15* | *5,15* |  |  |  |
 
 *Schreibgebühren für Gutachten nach den Nummern 146 bis 154, 155 (ausgenommen*  *audiologischer Befundbogen), 160, 161, 165, je Seite*
 
@@ -662,21 +669,21 @@ Nummer Nummer - *nicht besetzt*
 
 ---
 
-| „ | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| „ | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 191 | 0,24 | 0,24 |  |  |  |
+| *191* | *0,24* | *0,24* |  |  |  |
 
 *je verlangte Kopie eines Befundes, eines Berichts, der Praxis- oder Stationsaufzeichnungen,*  *der Karteiauszüge, etc. zuzüglich Porto*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 192 | 0,47 | 0,47 |  |  |  |
+| *192* | *0,47* | *0,47* |  |  |  |
 
 *Elektronische Übermitteilung eines Arztberichtes an den Unfallversicherungsträger*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 193 | 10,35 | 10,35 |  |  |  |
+| *193* | *10,35* | *10,35* |  |  |  |
 
 *Zusammenstellen und Übersenden von Auszügen aus der Behandlungsdokumentation*  *und/oder bildgebendem Material in analoger oder digitaler Form auf Anforderung des UV-* *Trägers. Die Richtigkeit ist vom absendenden Arzt zu bescheinigen.*
 
@@ -701,60 +708,60 @@ Nummer - *nicht besetzt*
 
 **In Abschnitt F. Innere Medizin, Kinderheilkunde, Dermatologie**
 
-| „Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *„Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 730 |  |  |  |  |  |
+| *730* |  |  |  |  |  |
 
 *Telemedizinische Beratungsleistungen nach Nummer 10 bei Berufskrankheiten und im*  *Hautarztverfahren. Bei der Behandlung von Berufskrankheiten sowie damit ggf. verbundenen*  *Maßnahmen der Individualprävention und im Hautarztverfahren gelten die Beschränkung auf*  *den Behandlungsfall, eine vorherige Kostenzusage, die Verlaufsberichterstattung sowie die*  *Dokumentationspflicht nicht.*
 
 *Daneben nicht abrechenbar: Nrn. 10, 10a, 731*
 
-| „Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *„Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 731 |  |  |  |  |  |
+| *731* |  |  |  |  |  |
 
 *Telemedizinische Beratungsleistungen nach Nummer 10 bei Berufskrankheiten und im*  *Hautarztverfahren von mehr als 10 Minuten. Bei der Behandlung von Berufskrankheiten*  *sowie damit ggf. verbundenen Maßnahmen der Individualprävention und im*  *Hautarztverfahren gelten die Beschränkung auf den Behandlungsfall, eine vorherige*  *Kostenzusage, die Verlaufsberichterstattung sowie die Dokumentationspflicht nicht.*
 
 *Daneben nicht abrechenbar: Nrn. 10, 730*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 735 |  |  |  |  |  |
+| *735* |  |  |  |  |  |
 
 *Leistung nach Nr. 2 bei Ganzkörperuntersuchungen der Haut im Rahmen der*  *leitliniengemäßen Nachsorge von Plattenepithelkarzinomen. Soweit eine Auflichtmikroskopie*  *erforderlich wird, ist diese zusätzlich nach UV-GOÄ-Nr. 750 berechnungsfähig.*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 736 |  |  |  |  |  |
+| *736* |  |  |  |  |  |
 
 *Erstellung eines individuellen Hautschutzplanes nachvorheriger Anforderung durch den*  *Unfallversicherungsträger. Die Leistung beinhaltet auch die Besprechung des*  *Hautschutzplanes mit dem Erkrankten.*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 737 |  |  |  |  |  |
+| *737* |  |  |  |  |  |
 
 
 ---
 
 *Kopie und Versand von Hauttestprotokollen, zuzüglich Porto*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 738 |  |  |  |  |  |
+| *738* |  |  |  |  |  |
 
 *Zu Hautkrankheiten gefertigte Fotos (Indikationen zur Fotodokumentation s. DGUV-* *Honorarleitfaden, Anlage 3 auf www.dguv.de, webcode p012510), die den im jeweiligen*  *Bericht oder im Gutachten beschriebenen Hautbefund nachvollziehbar dokumentieren und*  *auf einem Speichermedium (einschließlich der Herstellung, Verpackung, zuzüglich Porto) zur*  *Verfügung gestellt werden, unabhängig von der Anzahl der Fotos. Eine*  *Darüberhinausgehende notwendige Fotodokumentation kann durch den UV-Träger nach*  *Rücksprache genehmigt werden.*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 739 |  |  |  |  |  |
+| *739* |  |  |  |  |  |
 
 *Behandlungsplan für die Chemotherapie und/oder schriftlicher Nachsorgeplan für einen*  *tumorkranken Patienten, individuell für den einzelnen Patienten aufgestellt.*
 
 **In Abschnitt H. Geburtshilfe und Gynäkologie**
 
-| „Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *„Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 1004 |  |  |  |  |  |
+| *1004* |  |  |  |  |  |
 
 *Eingehende humangenetische Beratung, je angefangene halbe Stunde und Sitzung.*
 
@@ -764,9 +771,9 @@ Nummer - *nicht besetzt*
 
 *Daneben nicht abrechenbar: Nrn. 1 – 15, 1005*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 1005 |  |  |  |  |  |
+| *1005* |  |  |  |  |  |
 
 *Eingehende Beratung einer Schwangeren im Konfliktfall über die Erhaltung oder den*  *Abbruch der Schwangerschaft - auch einschließlich Beratung über soziale Hilfen,*  *gegebenenfalls auch einschließlich Beurteilung über das Vorliegen einer Indikation für einen*  *nicht rechtswidrigen Schwangerschaftsabbruch.*
 
@@ -777,15 +784,15 @@ Nummer - *nicht besetzt*
 
 ---
 
-| „ | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| „ | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 1403 |  |  |  |  |  |
+| *1403* |  |  |  |  |  |
 
 *Tonschwellenaudiometrische Untersuchung, auch beidseitig, (Bestimmung der Hörschwelle*  *mit 8 bis 12 Prüffrequenzen oder mittels kontinuierlicher Frequenzänderung im*  *Hauptfrequenz-bereich des menschlichen Gehörs, in Luft- und in Knochenleitung, auch mit*  *Vertäubung) - auch mit Bestimmung der Intensitätsbreite und gegebenenfalls einschließlich*  *überschwelliger audiometrischer Untersuchung -*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 1403a |  |  |  |  |  |
+| *1403a* |  |  |  |  |  |
 
 *Kopie und Versand von Tonschwellenaudiogrammen - auch beiderseits - zuzüglich Porto*
 
@@ -803,25 +810,25 @@ Nummer
 
 **39.** In III. Punktionen werden die Nummern 300, 301 und 302 wie folgt gefasst:
 
-| „ | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| „ | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 300 |  |  |  |  |  |
+| *300* |  |  |  |  |  |
 
 *Punktion eines Gelenks*
 
 *Daneben nicht abrechenbar: Nrn. 3400, 3410, 3420, 3430, 3440*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 301 |  |  |  |  |  |
+| *301* |  |  |  |  |  |
 
 *Punktion eines Ellenbogen-, Knie- oder Wirbelgelenks*
 
 *Daneben nicht abrechenbar: Nrn. 3400, 3410, 3420, 3430, 3440*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 302 |  |  |  |  |  |
+| *302* |  |  |  |  |  |
 
 *Punktion eines Schulter- oder Hüftgelenks*
 
@@ -829,9 +836,9 @@ Nummer
 
 **40.** In VIII. Zuschläge zu ambulanten Operations- und Anästhesieleistungen werden die  Nummern 448, 448a und 449 wie folgt gefasst:
 
-| „Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *„Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 448 |  |  |  |  |  |
+| *448* |  |  |  |  |  |
 
 *Beobachtung und Betreuung eines Kranken bis zu zwei Stunden, während der Aufwach-*  *und/oder Erholungszeit bis zum Eintritt der Transportfähigkeit nach ambulanten operativen*  *Leistungen bei Durchführung unter ambulanten Anästhesien. Die Leistung nach Nummer*  *448 ist je Behandlungstag nur einmal berechnungsfähig.*
 
@@ -850,17 +857,17 @@ Nummer *Sachkosten*
 
 *Daneben nicht abrechenbar: Nrn. 1, 2, 56, 57, 448a, 449*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 448a |  |  |  |  |  |
+| *448a* |  |  |  |  |  |
 
 *Beobachtung und Betreuung eines Kranken über mehr als zwei Stunden während der*  *Aufwach- und/oder Erholungszeit bis zum Eintritt der Transportfähigkeit nach ambulanten*  *operativen Leistungen bei Durchführung unter ambulanten Anästhesien bzw. Narkosen. Die*  *Leistung nach Nummer 448a ist je Behandlungstag nur einmal berechnungsfähig.*
 
 *Daneben nicht abrechenbar: Nrn. 1, 2, 56, 57, 448, 449*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 449 |  |  |  |  |  |
+| *449* |  |  |  |  |  |
 
 *Beobachtung und Betreuung eines Kranken über mehr als vier Stunden, während der*  *Aufwach- und/oder Erholungszeit bis zum Eintritt der Transportfähigkeit nach ambulanten*  *operativen Leistungen bei Durchführung unter ambulanten Anästhesien bzw. Narkosen. Die*  *Leistung nach Nummer 449 ist je Behandlungstag nur einmal berechnungsfähig.*
 
@@ -868,9 +875,9 @@ Nummer *Sachkosten*
 
 **41.** In VII. Lichttherapie wird die Nummer 570 wie folgt gefasst:
 
-| „ | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| „ | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 570 |  |  |  |  |  |
+| *570* |  |  |  |  |  |
 
 *Photodynamische Therapie (PDT) von Hautläsionen inkl. photodynamischer*  *Lichtbestrahlung, Aufklärung und Beratung, Erstellung des Behandlungsplans,*  *vorbereitender Maßnahmen (z.B. Kürettage, Kryotherapie, Debridement, Laserbehandlung)*  *und Auftragen des Photosensibilisators, Okklusiv-Verband inkl. adäquatem*  *Schmerzmanagement, ggf. Anwendung einer Kaltpackung inkl. Dokumentation. Eine ggf.*  *durchgeführte photodynamische Diagnostik ist nicht gesondert abrechenbar. Die Gebühr*  *umfasst die PDT-Behandlung von bis zu 100 cm2 der im Behandlungsplan festgestellten*  *Gesamtfläche1, ggf. auch in mehreren Sitzungen. Die PDT-Behandlung des*  *darüberhinausgehenden Teils der Gesamtfläche ist nach Nr. 571 abzurechnen. Eine ggf.*  *durchgeführte photodynamische Diagnostik ist nicht gesondert abrechenbar. Die Leistung*  *kann nur mit Zustimmung des UV-Trägers erbracht werden.*
 
@@ -878,9 +885,9 @@ Nummer *Sachkosten*
 
 **42.** In F. Innere Medizin, Kinderheilkunde, Dermatologie wird die Nummer 753 wie folgt  gefasst:
 
-| „ | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| „ | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 753 |  |  |  |  |  |
+| *753* |  |  |  |  |  |
 
 Nummer Nummer
 
@@ -892,9 +899,9 @@ Nummer Nummer
 
 **43.** In G. Neurologie, Psychiatrie und Psychotherapie werden die Nummern 800, 801, 826,  833 wie folgt gefasst:
 
-| „ | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| „ | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 800 |  |  |  |  |  |
+| *800* |  |  |  |  |  |
 
 *Eingehende neurologische Untersuchung - gegebenenfalls einschließlich der Untersuchung*  *des Augenhintergrundes –*
 
@@ -902,9 +909,9 @@ Nummer Nummer
 
 *Daneben nicht abrechenbar: Nrn. 2, 825, 826, 830, 1400*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 801 |  |  |  |  |  |
+| *801* |  |  |  |  |  |
 
 *Eingehende psychiatrische Untersuchung - gegebenenfalls unter Einschaltung der Bezugs-*
 
@@ -912,17 +919,17 @@ Nummer Nummer
 
 *Daneben nicht abrechenbar: Nr. 2, 715 – 718, 825, 826, 830, 1400*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 826 |  |  |  |  |  |
+| *826* |  |  |  |  |  |
 
 *Gezielte neurologische Gleichgewichts- und Koordinationsprüfung - gegebenenfalls*  *einschließlich kalorisch-otologischer Prüfung*
 
 *Daneben nicht abrechenbar: Nr. 2, 800, 1412*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 833 |  |  |  |  |  |
+| *833* |  |  |  |  |  |
 
 *Begleitung eines psychisch Kranken bei Überführung in die Klinik - einschließlich Ausstellung*  *der notwendigen Bescheinigungen -*
 
@@ -936,9 +943,9 @@ Nummer
 
 **44.** In I. Augenheilkunde werden die Nummern 1213 und 1217 wie folgt gefasst:
 
-| „Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *„Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 1213 |  |  |  |  |  |
+| *1213* |  |  |  |  |  |
 
 *Prüfung auf Sitz und Funktion der verordneten Kontaktlinsen (Haftschalen) für beide Augen*  *und gegebenenfalls Anpassung anderer Kontakt-linsen (Haftschalen) - einschließlich*  *objektiver Refraktionsbestimmung, Messung der Hornhautradien und der*  *Spaltlampenmikroskopie –*
 
@@ -946,9 +953,9 @@ Nummer
 
 *Daneben nicht abrechenbar: 2*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 1217 |  |  |  |  |  |
+| *1217* |  |  |  |  |  |
 
 *Qualitative und quantitative Untersuchung des binokularen Sehaktes*
 
@@ -962,9 +969,9 @@ Nummer
 
 **46.** In I a. Wundbehandlung mit Vakuumversiegelungstherapie werden die Nummern 2018,  2019 und 2020 wie folgt gefasst:
 
-| „Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *„Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 2018 |  |  |  |  |  |
+| *2018* |  |  |  |  |  |
 
 *Vakuumversiegelung*
 
@@ -973,9 +980,9 @@ Nummer
 
 *Bei den Kosten handelt es sich um eine Tagespauschale. Mit der Pauschale sind alle Kosten*  *einschließlich der Miete des Gerätes, aller Behandlungen und Materialkosten abgegolten.*  *Sie kann für jeden Kalendertag der Behandlung mit Ausnahme des letzten*  *Behandlungstages abgerechnet werden.*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 2019 |  |  |  |  |  |
+| *2019* |  |  |  |  |  |
 
 *Erstanlage einer Vakuumversiegelung - als selbstständige Leistung*
 
@@ -983,9 +990,9 @@ Nummer
 
 *Daneben nicht abrechenbar: 1, 2, 2000 – 2016, 2018, 2020 - 2065*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 2020 |  |  |  |  |  |
+| *2020* |  |  |  |  |  |
 
 *Wechsel einer Vakuumversiegelung - als selbstständige Leistung*
 
@@ -1086,9 +1093,9 @@ Nummer
 
 ***Teil C - Leistungen/Gebühren***
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 3400 |  | 105,02 |  |  |  |
+| *3400* |  | *105,02* |  |  |  |
 
 *Arthroskopie als diagnostische Maßnahme einschließlich*
 
@@ -1125,9 +1132,9 @@ Nummer
 
 *Daneben kann der Zuschlag nach Nr. 443 sowie 3401 abgerechnet werden.*    *Daneben nicht abrechenbar: Nrn. 1, 2, 60, 200, 203a, 204, 203B, 209, 255, 297, 298, 300-* *302, 490, 491, 510, 530, 740, 2015, 2032, 2093, 5295*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 3401 |  | 35,00 |  |  |  |
+| *3401* |  | *35,00* |  |  |  |
 
 *Zuschlag zur Nr. 3400 für im Rahmen der ambulanten arthroskopischen Leistung vom*  *Operateur verwendeten Verbrauchsmaterialen für den einmaligen Gebrauch.*
 
@@ -1137,9 +1144,9 @@ Nummer
 
 *Die an der Operation beteiligten Ärzte, (ggf. auch der Betreiber des Ambulatoriums) haben*  *sich darüber zu verständigen, wer den Zuschlag abrechnet.*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 3410 |  | 314,75 |  |  |  |
+| *3410* |  | *314,75* |  |  |  |
 
 *Resezierende, entfernende arthroskopische Operation eines Gelenkes*  *einschließlich*
 
@@ -1180,9 +1187,9 @@ Nummer
 
 *Daneben nicht abrechenbar: Nrn. 1, 2, 60, 200, 203a, 204, 203B, 209, 255, 297, 298, 300-* *302, 490, 491, 510, 530, 740, 2015, 2032, 2093, 5295*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 3411 |  | 50,00 |  |  |  |
+| *3411* |  | *50,00* |  |  |  |
 
 *Zuschlag zur Nr. 3410 für im Rahmen der ambulanten arthroskopischen Leistung vom*  *Operateur verwendeten Verbrauchsmaterialen für den einmaligen Gebrauch.*
 
@@ -1194,9 +1201,9 @@ Nummer
 
 *Die an der Operation beteiligten Ärzte, (ggf. auch der Betreiber des Ambulatoriums) haben*  *sich darüber zu verständigen, wer den Zuschlag abrechnet.*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 3420 |  | 490,38 |  |  |  |
+| *3420* |  | *490,38* |  |  |  |
 
 *Arthroskopisch rekonstruktive, erhaltende Operation an einem Gelenk*  *einschließlich*
 
@@ -1241,9 +1248,9 @@ Nummer
 
 ---
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 3421 |  | 150,00 |  |  |  |
+| *3421* |  | *150,00* |  |  |  |
 
 *Zuschlag zur Nr. 3420 für im Rahmen der ambulanten arthroskopischen Leistung vom*  *Operateur verwendeten Verbrauchsmaterialen für den einmaligen Gebrauch.*
 
@@ -1255,15 +1262,15 @@ Nummer
 
 *Die an der Operation beteiligten Ärzte, (ggf. auch der Betreiber des Ambulatoriums) haben*  *sich darüber zu verständigen, wer den Zuschlag abrechnet.*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 3422 |  | 100,51 |  |  |  |
+| *3422* |  | *100,51* |  |  |  |
 
 *Zuschlag zu der Leistung nach Nr. 3420 für einen weiteren in derselben Operation*  *zusätzlichen rekonstruktiven arthroskopischen Eingriff*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 3430 |  | 944,93 |  |  |  |
+| *3430* |  | *944,93* |  |  |  |
 
 *Arthroskopische Operation mit primärer Naht, Reinsertion, Rekonstruktion oder plastischem*  *Ersatz eines Bandes/einer Sehne/eines Labrums/eines Diskus, einer Kapsel oder die*  *Implantation von autologem, allogenem oder alloplastischen Gewebe oder Material an einem*  *Gelenk oder Refixation eines osteochondralen Fragmentes oder einer Fraktur oder*  *Stabilisierung des ACG durch Fixationsverfahren (z.B. VKB oder HKB, RM*
 
@@ -1310,9 +1317,9 @@ Nummer
 
 *Daneben nicht abrechenbar: Nrn. 1, 2, 60, 200, 203a, 204, 203B, 209, 255, 297, 298, 300-* *302, 490, 491, 510, 530, 740, 2015, 2032, 2093, 5295*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 3431 |  | 200,00 |  |  |  |
+| *3431* |  | *200,00* |  |  |  |
 
 *Zuschlag zur Nr. 3430 für im Rahmen der ambulanten arthroskopischen Leistung vom*  *Operateur verwendeten Verbrauchsmaterialen für den einmaligen Gebrauch.*
 
@@ -1324,38 +1331,38 @@ Nummer
 
 *Die an der Operation beteiligten Ärzte, (ggf. auch der Betreiber des Ambulatoriums) haben*  *sich darüber zu verständigen, wer den Zuschlag abrechnet.*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 3432 |  | 144,01 |  |  |  |
+| *3432* |  | *144,01* |  |  |  |
 
 *Zuschlag zu der Nr. 3430 für die Entnahme körpereigener(n) Sehne(n) für Bandoperationen*  *an einem Gelenk einschließlich aller Maßnahmen der Vorbereitung und Versorgung der*  *Entnahmestelle.*    *Unabhängig der Anzahl und des Umfangs der Aufbereitung des entnommenen Materials*  *kann die Leistung bei der Entnahme an einem Bein nur einmal abgerechnet werden. Erfolgt*  *die Entnahme an beiden Beinen, weil an einem Bein nicht ausreichend Material vorhanden*  *ist, kann die Leistung ein zweites Mal abgerechnet werden.*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 3433 |  | 150,00 |  |  |  |
+| *3433* |  | *150,00* |  |  |  |
 
 *Zuschlag zu der Leistung nach Nr. 3430 für einen weiteren in derselben Operation*  *zusätzlichen rekonstruktiven arthroskopischen Eingriff.*
 
 *Die Leistung kann je weiteren Eingriff, maximal, aber drei Mal abgerechnet werden.*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 3434 |  | 34,75 |  |  |  |
+| *3434* |  | *34,75* |  |  |  |
 
 
 ---
 
 *Zuschlag für eine arthroskopische Operation nach Nr. 3430 unter Verwendung von*  *allogenem oder alloplastischem Gewebe oder Material*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 3435 |  | 171,42 |  |  |  |
+| *3435* |  | *171,42* |  |  |  |
 
 *Zuschlag für eine arthroskopische Operation nach Nr. 3430 unter Verwendung von*  *autogenem Material incl. der Spongiosa Transplantation*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 3440 |  | 522,71 |  |  |  |
+| *3440* |  | *522,71* |  |  |  |
 
 *Vorbereitende arthroskopische Operation für eine zukünftig geplante rekonstruktive*  *Arthroskopie an einem Gelenk*
 
@@ -1395,9 +1402,9 @@ Nummer
 
 *Daneben kann der Zuschlag nach Nr. 445 sowie 3441 abgerechnet werden.*   *Daneben nicht abrechenbar: Nrn. 1, 2, 60, 200, 203a, 204, 203B, 209, 255, 297, 298, 300-* *302, 490, 491, 510, 530, 740, 2015, 2032, 2093, 5295*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 3441 |  | 150,00 |  |  |  |
+| *3441* |  | *150,00* |  |  |  |
 
 *Zuschlag zur Nr. 3440 für im Rahmen der ambulanten arthroskopischen Leistung vom*  *Operateur verwendeten Verbrauchsmaterialen für den einmaligen Bedarf.*
 
@@ -1412,20 +1419,20 @@ Nummer
 
 *Die an der Operation beteiligten Ärzte, (ggf. auch der Betreiber des Ambulatoriums) haben*  *sich darüber zu verständigen, wer den Zuschlag abrechnet.*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 3442 |  | 34,75 |  |  |  |
+| *3442* |  | *34,75* |  |  |  |
 
 *Zuschlag für eine arthroskopische Operation nach Nr. 3440 unter Verwendung von*  *autologem oder alloplastischem Gewebe oder Material*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 3443 |  | 128,30 |  |  |  |
+| *3443* |  | *128,30* |  |  |  |
 
 *Zuschlag für eine arthroskopische Operation nach Nr. 3440 unter Verwendung von*  *autogenem Material incl. der Spongiosa Transplantation*
 
-| Nummer | Allgemeine HB | Besondere HB | Besondere Kosten | Allg. Kosten | Sachkosten |
+| *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
-| 3444 |  | 130,00 |  |  |  |
+| *3444* |  | *130,00* |  |  |  |
 
 *Zuschlag zu der Nr. 3440 für die Entnahme von autologem Knorpel zum Anzüchten eines*  *körpereigenen Ersatzes.*

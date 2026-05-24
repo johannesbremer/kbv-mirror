@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 29. JANUAR 2026   VERSION: 1.9   DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 29. JANUAR 2026   VERSION: 1.9   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # PRÜFPAKET ELEKTRONISCHE  VERORDNUNG DIGITALER  GESUNDHEITSANWENDUNGEN
@@ -93,7 +93,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 1 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.9 | 29.01.2026 | KBV | Aktualisierung des Prüffalls PF08     Aktualisierung der | Anpassung der | 12      9, 10,  10, 10,  11, 11,  12 |
 | 1.8 | 09.10.2025 | KBV | Aktualisierung des Prüffalls PF02 | Die verwendete PZN | 10 |
@@ -273,13 +273,13 @@ Prüfstammdateien verwendet
 
 Prüffälle als XML-Dateien
 
-| NAME | VERZEICHNISNAME |
+| **NAME** | **VERZEICHNISNAME** |
 |---|---|
-| Karl-Friederich Schaumberg | XML_01 |
-| Viktor Müller | XML_09 |
-| Brigitte Althaus | XML_05 |
-| Viktor Werner | XML_34 |
-| Ingrid Schimmelpfennig-Hammerschmidt | XML_37 |
+| **Karl-Friederich Schaumberg** | XML_01 |
+| **Viktor Müller** | XML_09 |
+| **Brigitte Althaus** | XML_05 |
+| **Viktor Werner** | XML_34 |
+| **Ingrid Schimmelpfennig-Hammerschmidt** | XML_37 |
 
 **Anmerkung:**
 
@@ -287,26 +287,26 @@ Die Verwendung einer Import-Schnittstelle für die XML Produktivbetrieb unterbun
 
 **2.6.4** **Praxisdaten/ Arztstempel**
 
-| ARZT 1 (ALS AUSSTELLENDER ARZT) |  |
+| **ARZT 1 (ALS AUSSTELLENDER ARZT)** |  |
 |---|---|
-| Bezeichnung | Inhalt/ Bedingung zum Inhalt |
-| Typ | Arzt / Arzt als Vertreter |
-| Lebenslange Arztnummer (LANR) | 838382201 |
-| ASV-Teamnummer | 001234566 |
-| Nachname | kann beliebig gewählt werden |
-| Vorname | kann beliebig gewählt werden |
-| Titel | Dr. |
-| Namenzusatz | kann beliebig gewählt werden |
-| Vorsatzwort | kann beliebig gewählt werden |
-| Berufsbezeichnung | Facharzt für Allgemeinmedizin |
-| Betriebsstättennummer (BSNR) | 241234601 |
-| Name der Betriebsstätte | Praxis |
-| Straße und Hausnummer | <kann beliebig gewählt werden> |
-| Adresszusatz | <optional, kann beliebig gewählt werden> |
-| PLZ/Ort | <kann beliebig gewählt werden> |
-| Wohnsitzländercode | D |
-| Telefon | <kann beliebig gewählt werden> |
-| Telefax | <kann beliebig gewählt werden> |
+| **Bezeichnung** | **Inhalt/ Bedingung zum Inhalt** |
+| **Typ** | Arzt / Arzt als Vertreter |
+| **Lebenslange Arztnummer (LANR)** | 838382201 |
+| **ASV-Teamnummer** | 001234566 |
+| **Nachname** | kann beliebig gewählt werden |
+| **Vorname** | kann beliebig gewählt werden |
+| **Titel** | Dr. |
+| **Namenzusatz** | kann beliebig gewählt werden |
+| **Vorsatzwort** | kann beliebig gewählt werden |
+| **Berufsbezeichnung** | Facharzt für Allgemeinmedizin |
+| **Betriebsstättennummer (BSNR)** | 241234601 |
+| **Name der Betriebsstätte** | Praxis |
+| **Straße und Hausnummer** | <kann beliebig gewählt werden> |
+| **Adresszusatz** | <optional, kann beliebig gewählt werden> |
+| **PLZ/Ort** | <kann beliebig gewählt werden> |
+| **Wohnsitzländercode** | D |
+| **Telefon** | <kann beliebig gewählt werden> |
+| **Telefax** | <kann beliebig gewählt werden> |
 
 -
 
@@ -317,30 +317,30 @@ Federmannssohn Marian Schölz  -Dateien ist nur für Prüfzwecke erlaubt und mus
 
 ---
 
-| ARZT 1 (ALS AUSSTELLENDER ARZT) |  |
+| **ARZT 1 (ALS AUSSTELLENDER ARZT)** |  |
 |---|---|
-| E-Mail-Adresse | MS@Testpraxis.de |
+| **E-Mail-Adresse** | MS@Testpraxis.de |
 
-| ARZT 2 (ALS VERANTWORTLICHER ARZT) |  |
+| **ARZT 2 (ALS VERANTWORTLICHER ARZT)** |  |
 |---|---|
-| Bezeichnung | Inhalt/ Bedingung zum Inhalt |
-| Typ | Arzt |
-| Lebenslange Arztnummer (LANR) | 728382503 |
-| Nachname | kann beliebig gewählt werden |
-| Vorname | kann beliebig gewählt werden |
-| Titel | Dr. |
-| Namenzusatz | kann beliebig gewählt werden |
-| Vorsatzwort | kann beliebig gewählt werden |
-| Berufsbezeichnung | Arzt |
-| Betriebsstättennummer (BSNR) | 241234601 |
-| Name der Betriebsstätte | Praxis Marian Schölz |
-| Straße und Hausnummer | <kann beliebig gewählt werden> |
-| Adresszusatz | <optional, kann beliebig gewählt werden> |
-| PLZ/Ort | <kann beliebig gewählt werden> |
-| Wohnsitzländercode | D |
-| Telefon | <kann beliebig gewählt werden> |
-| Telefax | <kann beliebig gewählt werden> |
-| E-Mail-Adresse | MS@Testpraxis.de |
+| **Bezeichnung** | **Inhalt/ Bedingung zum Inhalt** |
+| **Typ** | Arzt |
+| **Lebenslange Arztnummer (LANR)** | 728382503 |
+| **Nachname** | kann beliebig gewählt werden |
+| **Vorname** | kann beliebig gewählt werden |
+| **Titel** | Dr. |
+| **Namenzusatz** | kann beliebig gewählt werden |
+| **Vorsatzwort** | kann beliebig gewählt werden |
+| **Berufsbezeichnung** | Arzt |
+| **Betriebsstättennummer (BSNR)** | 241234601 |
+| **Name der Betriebsstätte** | Praxis Marian Schölz |
+| **Straße und Hausnummer** | <kann beliebig gewählt werden> |
+| **Adresszusatz** | <optional, kann beliebig gewählt werden> |
+| **PLZ/Ort** | <kann beliebig gewählt werden> |
+| **Wohnsitzländercode** | D |
+| **Telefon** | <kann beliebig gewählt werden> |
+| **Telefax** | <kann beliebig gewählt werden> |
+| **E-Mail-Adresse** | MS@Testpraxis.de |
 
 ### 2.6.5 Version der zu verwendenden FHIR-Profile
 
@@ -383,12 +383,12 @@ Szenarien prüfen zu können: Es muss die Möglichkeit bestehen, von den Ein- un
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF01 |
-| Testziel | Erstellen und Signieren einer eVDGA für den Patienten |
-| Voraussetzung |  |
-| Aktion |  |
-| Einzureichende |  |
-| Hinweis | Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eVDGA- |
+| **Prüffall-ID** | PF01 |
+| **Testziel** | Erstellen und Signieren einer eVDGA für den Patienten |
+| **Voraussetzung** |  |
+| **Aktion** |  |
+| **Einzureichende** |  |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eVDGA- |
 
 **Tabelle 1: Prüffalltabelle  Verordnung für Patient „Karl-Friederich Schaumberg**
 
@@ -398,32 +398,32 @@ Karl- Friederich Schaumberg“ Arzt 1 ist als ausstellender Arzt im System ausge
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF02 |
-| Bedingung | Die konditionale Anforderungsfunktion KP4-322  ] wurde umgesetzt. |
-| Testziel | Erstellen einer eVDGA (Freitextverordnung |
-| Voraussetzung |  |
-| Aktion |  |
-| Prüfunterlagen |  |
-| Hinweis |  |
+| **Prüffall-ID** | PF02 |
+| **Bedingung** | Die konditionale Anforderungsfunktion KP4-322  ] wurde umgesetzt. |
+| **Testziel** | Erstellen einer eVDGA (Freitextverordnung |
+| **Voraussetzung** |  |
+| **Aktion** |  |
+| **Prüfunterlagen** |  |
+| **Hinweis** |  |
 
 **Tabelle 2: Prüffalltabelle**
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF03 |
-| Testziel | Erstellen einer eVDGA |
-| Voraussetzung |  |
-| Aktion |  |
-| Prüfunterlagen |  |
-| Hinweis |  |
+| **Prüffall-ID** | PF03 |
+| **Testziel** | Erstellen einer eVDGA |
+| **Voraussetzung** |  |
+| **Aktion** |  |
+| **Prüfunterlagen** |  |
+| **Hinweis** |  |
 
 **Tabelle 3: Prüffalltabelle**
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF04 |
-| Testziel | Erstellen einer eVDGA |
-| Voraussetzung |  |
+| **Prüffall-ID** | PF04 |
+| **Testziel** | Erstellen einer eVDGA |
+| **Voraussetzung** |  |
 
 - FHIR-Profile in der Version 1.2.0 1.2.1 zu erstellen.
 
@@ -449,28 +449,28 @@ Einzureichende [KBV_ITA_VGEX_Anforderungskatalog_VDGA Arzt 1 ist als ausstellend
 |  |  |
 |---|---|
 |  |  |
-| Aktion |  |
-| Prüfunterlagen |  |
-| Hinweis |  |
+| **Aktion** |  |
+| **Prüfunterlagen** |  |
+| **Hinweis** |  |
 
 **Tabelle 4: Prüffalltabelle**
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF05 |
-| Testziel | Signieren mehrerer e VDGA mittels Stapelsignatur |
-| Voraussetzung |  |
-| Aktion |  |
-| Prüfunterlagen |  |
+| **Prüffall-ID** | PF05 |
+| **Testziel** | Signieren mehrerer e VDGA mittels Stapelsignatur |
+| **Voraussetzung** |  |
+| **Aktion** |  |
+| **Prüfunterlagen** |  |
 
 **Tabelle 5: Prüffalltabelle**
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF06 |
-| Testziel | Erstellen einer eVDGA |
-| Voraussetzung |  |
-| Aktion |  |
+| **Prüffall-ID** | PF06 |
+| **Testziel** | Erstellen einer eVDGA |
+| **Voraussetzung** |  |
+| **Aktion** |  |
 
 - FHIR-Profile in der Version 1.2.0 1.2.1 zu erstellen.
 
@@ -497,28 +497,28 @@ Einzureichende Patient „Viktor Müller“ ist im System ausgewählt Das Ausste
 
 |  |  |
 |---|---|
-| Einzureichende |  |
-| Hinweis | Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eVDGA- |
+| **Einzureichende** |  |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eVDGA- |
 
 **Tabelle 6: Prüffalltabelle  Verordnung für Patientin**
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF07 |
-| Testziel | Erstellen einer eVDGA |
-| Voraussetzung |  |
-| Aktion |  |
-| Einzureichende |  |
+| **Prüffall-ID** | PF07 |
+| **Testziel** | Erstellen einer eVDGA |
+| **Voraussetzung** |  |
+| **Aktion** |  |
+| **Einzureichende** |  |
 
 **Tabelle 7: Prüffalltabelle  V**
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF08 |
-| Testziel | Erstellen einer eVDGA für die Patientin |
-| Voraussetzung |  |
-| Aktion |  |
-| Einzureichende |  |
+| **Prüffall-ID** | PF08 |
+| **Testziel** | Erstellen einer eVDGA für die Patientin |
+| **Voraussetzung** |  |
+| **Aktion** |  |
+| **Einzureichende** |  |
 
 **Brigitte Althaus**
 
@@ -532,7 +532,7 @@ Prüfunterlagen XML-Datei der eVDGA FHIR-Profile in der Version 1.2.0 1.2.1 zu e
 |  |  |
 |---|---|
 |  |  |
-| Hinweis | Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eVDGA- |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eVDGA- |
 
 **Tabelle 8: Prüffalltabelle**
 
@@ -540,10 +540,10 @@ Prüfunterlagen XML-Datei der eVDGA FHIR-Profile in der Version 1.2.0 1.2.1 zu e
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF 09 |
-| Testziel | Bestätigungsschreiben der gematik zum Funktionsumfang eVDGA |
-| Voraussetzung |  |
-| Einzureichende |  |
+| **Prüffall-ID** | PF 09 |
+| **Testziel** | Bestätigungsschreiben der gematik zum Funktionsumfang eVDGA |
+| **Voraussetzung** |  |
+| **Einzureichende** |  |
 
 **Tabelle 9: Prüffalltabelle**
 
@@ -589,7 +589,7 @@ Bitte beachten Sie die folgende Verzeichnisstruktur des zip-Archivs.
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | Dokument |
 | KBV_ITA_RLEX_Zert | Zertifizierungsrichtlinie der KBV https://update.kbv.de/ita- |
 | KBV_ITA_VGEX_Anforderungskatalog_VDGA | Anforderungskatalog nach § 73 Abs. 9  https://update.kbv.de/ita- |
 | KBV_ITA_VGEX_Technische_Anlage_ | Technische Anlage zur elektronischen  https://update.kbv.de/ita- |

@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**16. MAI 2026**
+**23. MAI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -28,7 +28,7 @@
 |  | Y/53/2601/36/031 | 31.12.2028 | Hautkrebs-Screening |  |
 |  | Y/53/2601/36/081 | 31.12.2028 | Hautkrebs-Screening |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 16. Mai 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 23. Mai 2026
 
 Y/53/2601/36/062 31.12.2028 Hautkrebs-Screening
 
@@ -155,7 +155,7 @@ DURIA Duria eG Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de Epik
 |  | Y/53/2507/36/616 | 30.06.2028 | Hautkrebs-Screening |  |
 |  | Y/53/2507/36/701 | 30.06.2028 | Hautkrebs-Screening |  |
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 16. Mai 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 23. Mai 2026
 
 Y/53/2501/36/034 31.12.2027 Hautkrebs-Screening
 
@@ -248,7 +248,7 @@ Praxis-Programm medisoftware GmbH & Co. KG Steinstraße 1 24118 Kiel Internet: w
 |  | Y/56/2401/36/015 | 31.12.2026 | QS Hörgeräteversorgung |  |
 |  | Y/53/2601/36/043 | 31.12.2028 | Hautkrebs-Screening |  |
 
-MEDVISION MedVision AG Heinrich-Hertz-Str. 9 59423 Unna Internet: www.medvision.de Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPHRO - PATIDOK AMBULANZ MEDYS MEDYS GmbH Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de Pro_Medico Neutz GmbH Systemhaus Schwabstraße 22 74189 Weinsberg Internet: www.neutz.net Windows Mac OS Windows WindowsSeite 11 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 16. Mai 2026
+MEDVISION MedVision AG Heinrich-Hertz-Str. 9 59423 Unna Internet: www.medvision.de Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPHRO - PATIDOK AMBULANZ MEDYS MEDYS GmbH Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de Pro_Medico Neutz GmbH Systemhaus Schwabstraße 22 74189 Weinsberg Internet: www.neutz.net Windows Mac OS Windows WindowsSeite 11 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 23. Mai 2026
 
 
 ---
@@ -356,7 +356,7 @@ principa SIEGELE Software GmbH Wehrgasse 28/3+4 A-1050 Wien T2med T2med GmbH & C
 |  | Y/55/2402/36/457 | 31.01.2027 | QS Molekulargenetik |  |
 |  | Y/53/2603/37/768 | 31.03.2029 | Hautkrebs-Screening |  |
 
-Seite 15 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 16. Mai 2026
+Seite 15 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 23. Mai 2026
 
 Y/53/2501/36/313 31.12.2027 Hautkrebs-Screening
 

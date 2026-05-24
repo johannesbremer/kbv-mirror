@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  12. AUGUST 2021   VERSION: 3.01 DOKUMENTENSTATUS: IN |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  12. AUGUST 2021   VERSION: 3.01 DOKUMENTENSTATUS: IN** |
 |---|---|
 
 # PRUEFPAKET QS  HÖRGERÄTEVERSORGUNG-KINDER
@@ -17,15 +17,15 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS  KRAFT
 
 INHALT
 
-| **1** |  | **ALLGEMEINES** | **5** |
-|---|---|---|---|
-| 1.1 |  | Rechtsgrundlage | 5 |
-| 1.2 |  | Zertifizierungsablauf | 5 |
-| 1.3 |  | Zertifizierungsportal | 6 |
-| 1.4 |  | Zertifizierungsdokumente | 6 |
-| 1.5 |  | Prüfunterlagen | 6 |
-| 1.6 | Prüfvorgaben |  | 7 |
-| 1.7 | Praxisdaten/ | Arztstempel | 7 |
+| **1** | **ALLGEMEINES** | **5** |
+|---|---|---|
+| 1.1 | Rechtsgrundlage | 5 |
+| 1.2 | Zertifizierungsablauf | 5 |
+| 1.3 | Zertifizierungsportal | 6 |
+| 1.4 | Zertifizierungsdokumente | 6 |
+| 1.5 | Prüfunterlagen | 6 |
+| 1.6 | Prüfvorgaben | 7 |
+| 1.7 | Praxisdaten/ Arztstempel | 7 |
 
 | **2** |  | **PRÜFFÄLLE** | **8** |
 |---|---|---|---|
@@ -47,7 +47,7 @@ INHALT
 
 -Kinder / Version: 3.01 / 12. August 2021
 
-Praxisdaten/ Arztstempel Prüffall 5801 Prüffall 5802 Prüffall 5803 Prüffall 5804 Prüffall 5805 Prüffall 5806 Prüffall 5807 (optional)
+Prüffall 5801 Prüffall 5802 Prüffall 5803 Prüffall 5804 Prüffall 5805 Prüffall 5806 Prüffall 5807 (optional)
 
 
 ---
@@ -65,7 +65,7 @@ Abbildung 3: Struktur des ZIP-Archives für die Testdatenvalidierung anhand von 
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 3.01 | 12.08.2021 | KBV | Überarbeitung der Links | Austausch des FTP- https://update.kbv.de | Alle |
 | 3.00 | 15.08.2019 | KBV | Aktualisierung der    Überarbeitung des | Schnittstellenversion    Überführung ins neue | 8ff |
@@ -191,13 +191,13 @@ Der 5807 ist nur dann verpflichtend zu bearbeiten und einzureichen, wenn im Antr
 
 Folgende Angaben sind für die Zertifizierung zu verwenden:
 
-| BEZEICHNUNNG | INHALT |
+| **BEZEICHNUNNG** | **INHALT** |
 |---|---|
-| Betriebsstättennummer (BSNR): | 391234511 |
-| BSNR-Bezeichnung: | Praxis Dr. med. Heribert Topp-Glücklich |
-| Lebenslange Arztnummer (LANR): | 838382202 |
-| Dokumentationsdatum (Kopfdatum): | 27.12.2020 |
-| Zu verwendende Prüfnummer: | Y/58/1307/36/000 |
+| **Betriebsstättennummer (BSNR):** | 391234511 |
+| **BSNR-Bezeichnung:** | Praxis Dr. med. Heribert Topp-Glücklich |
+| **Lebenslange Arztnummer (LANR):** | 838382202 |
+| **Dokumentationsdatum (Kopfdatum):** | 27.12.2020 |
+| **Zu verwendende Prüfnummer:** | Y/58/1307/36/000 |
 
 ##
 
@@ -214,28 +214,28 @@ rderte
 
 |  |  |
 |---|---|
-| Prüffall-ID | 5801 |
-| Testziel | Anlage einer Vor Verordnung, einer Verordnung u |
-| Voraussetzung |  |
-| Prüfunterlagen | QSHGVK-Dokumentationsunterlagen |
-| Hinweis |  |
+| **Prüffall-ID** | 5801 |
+| **Testziel** | Anlage einer Vor Verordnung, einer Verordnung u |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | QSHGVK-Dokumentationsunterlagen |
+| **Hinweis** |  |
 
 - 1. Anlegen einer Vor Verordnung und einer Verordnung:
 
 |  |  |
 |---|---|
-| Allgemeine und Patientenangaben | |
+| **Allgemeine und Patientenangaben** | |
 | Patienten-ID | 5801 |
 | Geburtsjahr des Kindes | 2013 |
 | Geburtsmonat des Kindes | 08 |
 | Geschlecht | männlich |
-| Vor Verordnung | |
+| **Vor Verordnung** | |
 | Untersuchungsdatum (Vor Verordnung / Verordnung) | 01-07-2020 |
 | Hörgeräteerstversorgung | nicht bekannt |
 | Wenn Vorversorgung, wann |  |
 | Sprachentwicklungsstörung | nein |
 |  |  |
-| Verordnung | |
+| **Verordnung** | |
 | Schallempfindungsschwerhörigkeit | links |
 | Schallleitungsschwerhörigkeit |  |
 | Kombinierte Schwerhörigkeit |  |
@@ -253,12 +253,12 @@ nd einer Nachsorge andere Ursache  andere
 
 |  |  |
 |---|---|
-| Allgemeine und Patientenangaben | |
+| **Allgemeine und Patientenangaben** | |
 | Patienten-ID | 5801 |
 | Geburtsjahr des Kindes | 2013 |
 | Geburtsmonat des Kindes | 08 |
 | Geschlecht | männlich |
-| Nachsorge | |
+| **Nachsorge** | |
 | Untersuchungsdatum (Nachsorge) | 20-09-2020 |
 | Die Hörgeräteversorgung entspricht dem aufgestellten | ja |
 | Abweichung in Luftleitung |  |
@@ -277,28 +277,28 @@ Versorgungskonzept andere
 
 |  |  |
 |---|---|
-| Prüffall-ID | 5802 |
-| Testziel | Anlage einer Vor Verordnung, einer Verordnung und einer Nachsorge |
-| Voraussetzung |  |
-| Prüfunterlagen | QSHGVK-Dokumentationsunterlagen |
-| Hinweis |  |
+| **Prüffall-ID** | 5802 |
+| **Testziel** | Anlage einer Vor Verordnung, einer Verordnung und einer Nachsorge |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | QSHGVK-Dokumentationsunterlagen |
+| **Hinweis** |  |
 
 - 1. Anlegen einer Vor Verordnung und einer Verordnung:
 
 |  |  |
 |---|---|
-| Allgemeine und Patientenangaben | |
+| **Allgemeine und Patientenangaben** | |
 | Patienten-ID | 5802 |
 | Geburtsjahr des Kindes | 2014 |
 | Geburtsmonat des Kindes | 10 |
 | Geschlecht | männlich |
-| Vor Verordnung | |
+| **Vor Verordnung** | |
 | Untersuchungsdatum (Vor Verordnung / Verordnung) | 01-07-2020 |
 | Hörgeräteerstversorgung | ja |
 | Wenn Vorversorgung, wann |  |
 | Sprachentwicklungsstörung | nicht beurteilbar |
 |  |  |
-| Verordnung | |
+| **Verordnung** | |
 | Schallempfindungsschwerhörigkeit |  |
 | Schallleitungsschwerhörigkeit | rechts |
 | Kombinierte Schwerhörigkeit |  |
@@ -316,12 +316,12 @@ andere Ursache
 
 |  |  |
 |---|---|
-| Allgemeine und Patientenangaben | |
+| **Allgemeine und Patientenangaben** | |
 | Patienten-ID | 5802 |
 | Geburtsjahr des Kindes | 2014 |
 | Geburtsmonat des Kindes | 10 |
 | Geschlecht | männlich |
-| Nachsorge | |
+| **Nachsorge** | |
 | Untersuchungsdatum (Nachsorge) | 30-09-2020 |
 | Die Hörgeräteversorgung entspricht dem aufgestellten | ja |
 | Abweichung in Luftleitung |  |
@@ -340,35 +340,35 @@ Versorgungskonzept andere
 
 |  |  |
 |---|---|
-| Prüffall-ID | 5803 |
-| Testziel | Anlage einer Vor Verordnung, einer Verordnung und einer Nachsorge |
-| Voraussetzung |  |
-| Prüfunterlagen | QSHGVK-Dokumentationsunterlagen |
-| Hinweis |  |
+| **Prüffall-ID** | 5803 |
+| **Testziel** | Anlage einer Vor Verordnung, einer Verordnung und einer Nachsorge |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | QSHGVK-Dokumentationsunterlagen |
+| **Hinweis** |  |
 
 - 1. Anlegen einer Vor Verordnung und einer Verordnung:
 
 |  |  |
 |---|---|
-| Allgemeine und Patientenangaben | |
+| **Allgemeine und Patientenangaben** | |
 | Patienten-ID | Ac13762434 |
 | Geburtsjahr des Kindes | 2009 |
 | Geburtsmonat des Kindes | 04 |
 | Geschlecht | weiblich |
-| Vor Verordnung | |
+| **Vor Verordnung** | |
 | Untersuchungsdatum (Vor Verordnung / Verordnung) | 07-07-2020 |
 | Hörgeräteerstversorgung | nein |
 | Wenn Vorversorgung, wann | 2012 |
 | Sprachentwicklungsstörung | ja, andere Ursache |
-|  | Andere Ursache |
-| Verordnung | |
+|  | *Andere Ursache* |
+| **Verordnung** | |
 | Schallempfindungsschwerhörigkeit |  |
 | Schallleitungsschwerhörigkeit |  |
 | Kombinierte Schwerhörigkeit | rechts; links |
 | Schweregrad der Hörstörung (WHO 2001): rechts | hochgradig schwerhörig |
 | Schweregrad der Hörstörung (WHO 2001): links | Hörreste oder Taubheit |
 | Ärztlicher Vorschlag zur Gerätetechnik: Luftleitung | HdO; CROS; BiCROS; andere |
-|  | Andere Gerätetechnik Luftleitung |
+|  | *Andere Gerätetechnik Luftleitung* |
 | Ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung | Kopfbügel / Stirnband; |
 
 teilimplantiertes Knochenleitungsgerät
@@ -379,16 +379,16 @@ teilimplantiertes Knochenleitungsgerät
 
 |  |  |
 |---|---|
-| Allgemeine und Patientenangaben | |
+| **Allgemeine und Patientenangaben** | |
 | Patienten-ID | Ac13762434 |
 | Geburtsjahr des Kindes | 2009 |
 | Geburtsmonat des Kindes | 04 |
 | Geschlecht | weiblich |
-| Nachsorge | |
+| **Nachsorge** | |
 | Untersuchungsdatum (Nachsorge) | 25-09-2020 |
 | Die Hörgeräteversorgung entspricht dem aufgestellten | nein |
 | Abweichung in Luftleitung | HdO; CROS; BiCROS; andere |
-|  | Andere Luftleitung |
+|  | *Andere Luftleitung* |
 | Abweichung in Knochenleitung | Kopfbügel / Stirnband; |
 | War der Hörgeräte-Versorgungserfolg ermittelbar | ja |
 | Hörgeräte-Versorgungserfolg ermittelt durch | Sprachaudiometrie; |
@@ -403,35 +403,35 @@ Versorgungskonzept teilimplantiertes Knochenleitungsgerät Spielaudiometrie; and
 
 |  |  |
 |---|---|
-| Prüffall-ID | 5804 |
-| Testziel | Anlage einer Vor Verordnung, einer Verordnung und einer Nachsorge |
-| Voraussetzung |  |
-| Prüfunterlagen | QSHGVK-Dokumentationsunterlagen |
-| Hinweis |  |
+| **Prüffall-ID** | 5804 |
+| **Testziel** | Anlage einer Vor Verordnung, einer Verordnung und einer Nachsorge |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | QSHGVK-Dokumentationsunterlagen |
+| **Hinweis** |  |
 
 - 1. Anlegen einer Vor Verordnung und einer Verordnung:
 
 |  |  |
 |---|---|
-| Allgemeine und Patientenangaben | |
+| **Allgemeine und Patientenangaben** | |
 | Patienten-ID | 5804 |
 | Geburtsjahr des Kindes | 2018 |
 | Geburtsmonat des Kindes | 08 |
 | Geschlecht | weiblich |
-| Vor Verordnung | |
+| **Vor Verordnung** | |
 | Untersuchungsdatum (Vor Verordnung / Verordnung) | 08-07-2020 |
 | Hörgeräteerstversorgung | nein |
 | Wenn Vorversorgung, wann | 2011 |
 | Sprachentwicklungsstörung | ja, audiogen |
 |  |  |
-| Verordnung | |
+| **Verordnung** | |
 | Schallempfindungsschwerhörigkeit |  |
 | Schallleitungsschwerhörigkeit | links |
 | Kombinierte Schwerhörigkeit | rechts |
 | Schweregrad der Hörstörung (WHO 2001): rechts | Hörreste oder Taubheit |
 | Schweregrad der Hörstörung (WHO 2001): links | mittelgradig schwerhörig |
 | Ärztlicher Vorschlag zur Gerätetechnik: Luftleitung | HdO |
-|  |  |
+|  | ** |
 | Ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung | teilimplantiertes Knochenleitungsgerät |
 
 andere Ursache andere
@@ -442,16 +442,16 @@ andere Ursache andere
 
 |  |  |
 |---|---|
-| Allgemeine und Patientenangaben | |
+| **Allgemeine und Patientenangaben** | |
 | Patienten-ID | 5804 |
 | Geburtsjahr des Kindes | 2018 |
 | Geburtsmonat des Kindes | 08 |
 | Geschlecht | weiblich |
-| Nachsorge | |
+| **Nachsorge** | |
 | Untersuchungsdatum (Nachsorge) | 26-09-2020 |
 | Die Hörgeräteversorgung entspricht dem aufgestellten | nein |
 | Abweichung in Luftleitung | andere |
-|  |  |
+|  | ** |
 | Abweichung in Knochenleitung | Kopfbügel / Stirnband |
 | War der Hörgeräte-Versorgungserfolg ermittelbar | ja |
 | Hörgeräte-Versorgungserfolg ermittelt durch | andere altersgerechte |
@@ -466,64 +466,64 @@ Versorgungskonzept Testverfahren
 
 |  |  |
 |---|---|
-| Prüffall-ID | 5805 |
-| Testziel | Kontrolle der softwareseitigen Erkennung von Fehleingaben |
-| Voraussetzung |  |
-| Prüfunterlagen | Screenshots oder Erläuterungen, wie das Softwaresystem die Eingabefehler |
-| Hinweis | Konkrete Dokumentationsdat |
+| **Prüffall-ID** | 5805 |
+| **Testziel** | Kontrolle der softwareseitigen Erkennung von Fehleingaben |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | Screenshots oder Erläuterungen, wie das Softwaresystem die Eingabefehler |
+| **Hinweis** | Konkrete Dokumentationsdat |
 
-| KONSTELLATION 5805 |  |
+| **KONSTELLATION 5805** |  |
 |---|---|
-| Patientenangaben | |
+| **Patientenangaben** | |
 | Patienten-ID | 5805 |
 | Geburtsjahr des Kindes |  |
 | Geburtsmonat des Kindes |  |
 | Geschlecht | männlich |
 
-| KONSTELLATION |  |
+| **KONSTELLATION** |  |
 |---|---|
-| Vor Verordnung | |
+| **Vor Verordnung** | |
 | Untersuchungsdatum (Vor Verordnung / Verordnung) | 12-07-2020 |
 | Hörgeräteerstversorgung | nicht bekannt |
 | Wenn Vorversorgung, wann | 2011 |
 | Sprachentwicklungsstörung | ja, audiogen |
-|  | Andere Ursache |
+|  | *Andere Ursache* |
 
-| KONSTELLATION 5805 |  |
+| **KONSTELLATION 5805** |  |
 |---|---|
-| Vor Verordnung | |
+| **Vor Verordnung** | |
 | Untersuchungsdatum (Vor Verordnung / Verordnung) | 12-07-2020 |
 | Hörgeräteerstversorgung | ja |
 | Wenn Vorversorgung, wann |  |
 | Sprachentwicklungsstörung | nein; nicht beurteilbar |
-|  |  |
+|  | ** |
 
 verhindert sind en sind frei wählbar, sofern diese nicht vorgegeben -1  5805-2 andere Ursache -3 andere Ursache
 
 ---
 
-| KONSTELLATION |  |
+| **KONSTELLATION** |  |
 |---|---|
-| Verordnung | |
+| **Verordnung** | |
 | Schallempfindungsschwerhörigkeit |  |
 | Schallleitungsschwerhörigkeit |  |
 | Kombinierte Schwerhörigkeit |  |
 
-| KONSTELLATION |  |
+| **KONSTELLATION** |  |
 |---|---|
-| Verordnung | |
+| **Verordnung** | |
 | Schallempfindungsschwerhörigkeit |  |
 | Schallleitungsschwerhörigkeit | links |
 | Kombinierte Schwerhörigkeit |  |
 | Schweregrad der Hörstörung (WHO 2001): rechts |  |
 | Schweregrad der Hörstörung (WHO 2001): links | hochgradig schwerhörig; Hörreste oder |
 | Ärztlicher Vorschlag zur Gerätetechnik: Luftleitung |  |
-|  | Andere Gerätetechnik Luftleitung |
+|  | *Andere Gerätetechnik Luftleitung* |
 | Ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung |  |
 
-| KONSTELLATION |  |
+| **KONSTELLATION** |  |
 |---|---|
-| Nachsorge | |
+| **Nachsorge** | |
 | Untersuchungsdatum (Nachsorge) | 17-09-2020 |
 | Der Hörgeräteversorgungsvorschlag entspricht dem |  |
 | Abweichung in Luftleitung |  |
@@ -538,9 +538,9 @@ verhindert sind en sind frei wählbar, sofern diese nicht vorgegeben -1  5805-2 
 
 ---
 
-| KONSTELLATION |  |
+| **KONSTELLATION** |  |
 |---|---|
-| Nachsorge | |
+| **Nachsorge** | |
 | Untersuchungsdatum (Nachsorge) |  |
 | Der Hörgeräteversorgungsvorschlag entspricht dem | nein |
 | Abweichung in Luftleitung |  |
@@ -559,22 +559,22 @@ verhindert sind en sind frei wählbar, sofern diese nicht vorgegeben -1  5805-2 
 
 |  |  |
 |---|---|
-| Prüffall-ID | 5806 |
-| Testziel | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges QS  ) |
-| Voraussetzung |  |
-| Prüfunterlagen | Screenshots / PDFs zum Nachweis der korrekten Systemfunktionalität |
-| Hinweis | Dieser Testfall ist unterteilt in vier Szenarien |
+| **Prüffall-ID** | 5806 |
+| **Testziel** | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges QS  ) |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | Screenshots / PDFs zum Nachweis der korrekten Systemfunktionalität |
+| **Hinweis** | Dieser Testfall ist unterteilt in vier Szenarien |
 
-| SZENARIEN |
-|---|
-| Szenario 1 |
-| Es wird eine „(Vor) Verordnung“ für einen noch nicht im System existierenden Patienten angel |
-| Szenario 2 |
-| Weisen Sie die korrekte Systemfunktionalität nach P1 |
-| Szenario 3 |
-| Für eine der Dokumentationen der Prüffälle 5801 bis 5804 ist per Screenshot oder als |
-| Szenario 4 |
-| Zeigen Sie mittels Screenshots, dass eine Korrektur/Änderung der im Prüffall 5802 erstellten |
+\| **SZENARIEN** |
+\|---|
+\| **Szenario 1** |
+\| Es wird eine „(Vor) Verordnung“ für einen noch nicht im System existierenden Patienten angel |
+\| **Szenario 2** |
+\| Weisen Sie die korrekte Systemfunktionalität nach P1 |
+\| **Szenario 3** |
+\| Für eine der Dokumentationen der Prüffälle 5801 bis 5804 ist per Screenshot oder als |
+\| **Szenario 4** |
+\| Zeigen Sie mittels Screenshots, dass eine Korrektur/Änderung der im Prüffall 5802 erstellten |
 
 Hörgeräteversorgung Kinder (s. KBV_ITA_VGEX_Anforderungskatalog_QSHGVK Angabe der Patienten -ID ist eine bereits existierende Nummer (z.B. Ac13762434) einzugeben. Das System darf entsprechend den Anforderungen P1-40, P1-200 die bereits vergebene Patienten akzeptieren. Für den Nachweis der korrekten Systemfunktionalität werden ein oder mehrere Screenshots erwartet. -170 bis P1-190 nach. Es werden Screenshots vom Speichern und Archivieren von Dokumentationsdaten erwartet. Insbesondere soll der Nachweis erbracht werden, dass es möglich ist, eine nicht vollständige und/oder fehlerhafte Dokumentation zu speichern, so dass diese erhalten bleibt und erweiterbar ist. Ein Screenshot soll den erneute Dokumentation zur nachträglichen Bearbeitung belegen (möglichst an einem anderen Datum). nachzuweisen, dass der Bogen der „(Vor) Verordnung“ und „Nachsorge“ ausgedruckt werden kann (P1- 160).  Dokumentation am 01.01. 2021 (nach Ende des Melde-/Prüfquartals) nicht mehr möglich ist (P1-20). egt. Bei -ID nicht n Aufruf dieser PDF-Dokument
 
@@ -584,35 +584,35 @@ Hörgeräteversorgung Kinder (s. KBV_ITA_VGEX_Anforderungskatalog_QSHGVK Angabe 
 
 |  |  |
 |---|---|
-| Prüffall-ID | 5807 |
-| Testziel | Kontrolle der korrekten Erkennung von Verletzungen gegen optionale |
-| Voraussetzung |  |
-| Prüfunterlagen | Screenshots von den Warnmeldungen sowie die im Anschluss erzeugte XML |
-| Hinweis |  |
+| **Prüffall-ID** | 5807 |
+| **Testziel** | Kontrolle der korrekten Erkennung von Verletzungen gegen optionale |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | Screenshots von den Warnmeldungen sowie die im Anschluss erzeugte XML |
+| **Hinweis** |  |
 
 - 1. Anlegen einer Vor Verordnung und einer Verordnung:
 
 |  |  |
 |---|---|
-| Allgemeine und Patientenangaben | |
+| **Allgemeine und Patientenangaben** | |
 | Patienten-ID | 5807 |
 | Geburtsjahr des Kindes | 2017 |
 | Geburtsmonat des Kindes | 01 |
 | Geschlecht | weiblich |
-| Vor Verordnung | |
+| **Vor Verordnung** | |
 | Untersuchungsdatum (Vor Verordnung / Verordnung) | 08-07-2020 |
 | Hörgeräteerstversorgung | ja |
 | Wenn Vorversorgung, wann |  |
 | Sprachentwicklungsstörung | ja, andere Ursache |
 |  |  |
-| Verordnung | |
+| **Verordnung** | |
 | Schallempfindungsschwerhörigkeit | links |
 | Schallleitungsschwerhörigkeit | links |
 | Kombinierte Schwerhörigkeit | rechts |
 | Schweregrad der Hörstörung (WHO 2001): rechts | geringgradig schwerhörig |
 | Schweregrad der Hörstörung (WHO 2001): links | mittelgradig schwerhörig |
 | Ärztlicher Vorschlag zur Gerätetechnik: Luftleitung | BiCROS |
-|  |  |
+|  | ** |
 | Ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung |  |
 
 Plausibilitäten, die anhand der Berechnungsvorschriften und Plausibilitäten erkannt werden müssen, wenn Sie diese umgeset zt haben -Datei
@@ -640,7 +640,7 @@ ZIP-Archives.
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 | KBV_ITA_AHEX_Ausfuellhinweise_QSHGVK | Ausfüllhinweise zum Dokumentationsbogen |
 | KBV_ITA_FMEX_AAZ_QSHGVK | Antrag auf Zertifizierung QSHGVK |
 | KBV_ITA_RLEX_Zert | Zertifizierungsrichtlinie der KBV |

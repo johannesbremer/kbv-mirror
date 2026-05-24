@@ -1,5 +1,5 @@
-|  |
-|---|
+\|  |
+\|---|
 
 # PRÜFPAKET  LABORDATENKOMMUNIKATION
 
@@ -8,10 +8,10 @@
 |  |  |
 |---|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 15. NOVEMBER 2023  VERSION: 1.23  DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 15. NOVEMBER 2023  VERSION: 1.23  DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 KASSENÄRZTLICHE BUNDESVEREINIGUNG  IT IN DER ARZTPRAXIS
@@ -166,7 +166,7 @@ Abbildung 4: Struktur des ZIP-Archives mit LDT-Befund-Export 32
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.23 | 15.11.2023 | KBV | Anpassung Kapitel 1.5.5    Anpassung Prüffälle PF04,  Anpassung der Prüffälle PF09,  Signierung der Muster über | Nachweis des  Redaktionelle Korrektur  Streichung konkreter | 8    19, 21, 35    13, 15, 16,  19, 19, 21,  21, 29, 33,  34, 35, 36,  38  12 |
 | 1.22 | 16.02.2021 | KBV | Aufnahme neuer Prüffälle  Testdatenvalidierung  Anpassung Prüffälle | Muster 6  Muster 6 und 39  Zervix-Zytologie/ Pathologie | 7, 13  33  27 |
@@ -425,95 +425,95 @@ Daten des Einsenders: In den Feldern BSNR und LANR innerhalb des Personalienfeld
 
 Prüffall PF07_2 immer die Werte des einsendenden Arztes zu erfassen. Der Vertragsarztstempel beinhaltet  somit immer die Daten des Einsenders.
 
-| DATEN DES EINSENDERS |  |
+| **DATEN DES EINSENDERS** |  |
 |---|---|
-| (Neben-)Betriebsstättennummer (BSNR) | 398212400 |
-| BSNR-Bezeichnung | Praxis Dr. med. Heribert Topp-Glücklich |
-| Lebenslange Arztnummer (LANR) | 776299002 |
-| Arztname | gemäß der zur Signatur verwendeten Testkarte Dr. med. Topp-Glücklich |
+| **(Neben-)Betriebsstättennummer (BSNR)** | 398212400 |
+| **BSNR-Bezeichnung** | Praxis Dr. med. Heribert Topp-Glücklich |
+| **Lebenslange Arztnummer (LANR)** | 776299002 |
+| **Arztname** | gemäß der zur Signatur verwendeten Testkarte Dr. med. Topp-Glücklich |
 
 
 ---
 
-| DATEN DES EINSENDERS |  |
+| **DATEN DES EINSENDERS** |  |
 |---|---|
-| Vorname | gemäß der zur Signatur verwendeten Testkarte |
-| Strasse | Musterstr. 1 |
-| PLZ/Ort | 64297 Darmstadt |
-| Telefon | 06151 / 1111111 |
-| Telefax | 06151 / 2222222 |
-| E-Mail-Adresse der Betriebsstätte | dr@toppgluecklich.de |
-| Status der Betriebsstätte | Arztpraxis |
-| BSNR-Bezeichnung | Praxis Dr. med. Heribert Topp-Glücklich |
-| Organisation / Firma | Praxis Dr. Topp-Glücklich |
-| Status Einsender | Einsender Arzt |
-| Kunden-(Arzt)Nummer | 4711 |
-| E-Mail-Adresse des Einsenders | ms@toppgluecklich.de |
+| **Vorname** | gemäß der zur Signatur verwendeten Testkarte |
+| **Strasse** | Musterstr. 1 |
+| **PLZ/Ort** | 64297 Darmstadt |
+| **Telefon** | 06151 / 1111111 |
+| **Telefax** | 06151 / 2222222 |
+| **E-Mail-Adresse der Betriebsstätte** | dr@toppgluecklich.de |
+| **Status der Betriebsstätte** | Arztpraxis |
+| **BSNR-Bezeichnung** | Praxis Dr. med. Heribert Topp-Glücklich |
+| **Organisation / Firma** | Praxis Dr. Topp-Glücklich |
+| **Status Einsender** | Einsender Arzt |
+| **Kunden-(Arzt)Nummer** | 4711 |
+| **E-Mail-Adresse des Einsenders** | ms@toppgluecklich.de |
 
 **Daten des Erstveranlassers:** Die Werte des Erstveranlassers sind in den entsprechenden Feldern zu
 
 übernehmen; z.B. in Muster 10 unterhalb des Personalienfeldes.
 
-| DATEN DES ERSTVERANLASSERS |  |
+| **DATEN DES ERSTVERANLASSERS** |  |
 |---|---|
-| Arztname | Dr. med. Isabell Einsender |
-| Kunden-(Arzt)Nummer | 4712 |
-| Straße | Musterstr. |
-| Anschriftenzusatz | Vorderhaus |
-| Hausnummer | 2 |
-| PLZ | 64283 |
-| Ort | Darmstadt |
-| Wohnsitzländercode | D |
-| Telefon | 06151 1234567 |
-| E-Mail | dr@einsender.de |
-| Lebenslange Arztnummer (LANR) | 838382202 |
-| (N)BSNR-Bezeichnung | Praxis Dr. Topp-Glücklich |
-| (Neben-)Betriebsstättennummer (BSNR) | 391234511 |
+| **Arztname** | Dr. med. Isabell Einsender |
+| **Kunden-(Arzt)Nummer** | 4712 |
+| **Straße** | Musterstr. |
+| **Anschriftenzusatz** | Vorderhaus |
+| **Hausnummer** | 2 |
+| **PLZ** | 64283 |
+| **Ort** | Darmstadt |
+| **Wohnsitzländercode** | D |
+| **Telefon** | 06151 1234567 |
+| **E-Mail** | dr@einsender.de |
+| **Lebenslange Arztnummer (LANR)** | 838382202 |
+| **(N)BSNR-Bezeichnung** | Praxis Dr. Topp-Glücklich |
+| **(Neben-)Betriebsstättennummer (BSNR)** | 391234511 |
 
 Daten des Labors: Das Labor, welches die Leistung erbringt.
 
-| LABORFACHARZT |  |
+| **LABORFACHARZT** |  |
 |---|---|
-| Laborbezeichnung | Laborarztpraxis Müller |
-| Laborname | Dr. Richard Müller |
+| **Laborbezeichnung** | Laborarztpraxis Müller |
+| **Laborname** | Dr. Richard Müller |
 
 Hauptbetriebsstätte
 
 ---
 
-| LABORFACHARZT |  |
+| **LABORFACHARZT** |  |
 |---|---|
-| Straße | Ottostr. |
-| Anschriftenzusatz | Eingang links |
-| Hausnummer | 2 |
-| PLZ | 50859 |
-| Ort | Köln |
-| Wohnsitzländercode | D |
-| (N)BSNR-Bezeichnung | Labor Müller |
-| (Neben-)Betriebsstättennummer | 270719100 |
-| Telefonnummer | 0221 1456546 |
-| E-Mail-Adresse | dr@richardmueller.de |
+| **Straße** | Ottostr. |
+| **Anschriftenzusatz** | Eingang links |
+| **Hausnummer** | 2 |
+| **PLZ** | 50859 |
+| **Ort** | Köln |
+| **Wohnsitzländercode** | D |
+| **(N)BSNR-Bezeichnung** | Labor Müller |
+| **(Neben-)Betriebsstättennummer** | 270719100 |
+| **Telefonnummer** | 0221 1456546 |
+| **E-Mail-Adresse** | dr@richardmueller.de |
 
-| KONTAKTPERSON |  |
+| **KONTAKTPERSON** |  |
 |---|---|
-| Nachname | Müller |
-| Vorname | Richard |
-| Titel | Dr. |
-| Telefonnummer | 0221 1456546 |
-| E-Mail-Adresse | dr@richardmueller.de |
+| **Nachname** | Müller |
+| **Vorname** | Richard |
+| **Titel** | Dr. |
+| **Telefonnummer** | 0221 1456546 |
+| **E-Mail-Adresse** | dr@richardmueller.de |
 
 Daten des zytologisch tätigen Arztes (Prüff
 
-| ZYTOLOGISCH TÄTIGER ARZT |  |
+| **ZYTOLOGISCH TÄTIGER ARZT** |  |
 |---|---|
-| (Neben-)Betriebsstättennummer (BSNR) | 123456788 |
-| BSNR-Bezeichnung | Labor Hannelore Topp-Glücklich |
-| Lebenslange Arztnummer (LANR) | 987654321 |
-| Arztname | gemäß der zur Signatur verwendeten Testkarte |
-| Vorname | gemäß der zur Signatur verwendeten Testkarte |
-| Strasse | Laborstr. 3 |
-| PLZ/Ort | 64297 Darmstadt |
-| Telefon | 06151 / 3333333 |
+| **(Neben-)Betriebsstättennummer (BSNR)** | 123456788 |
+| **BSNR-Bezeichnung** | Labor Hannelore Topp-Glücklich |
+| **Lebenslange Arztnummer (LANR)** | 987654321 |
+| **Arztname** | gemäß der zur Signatur verwendeten Testkarte |
+| **Vorname** | gemäß der zur Signatur verwendeten Testkarte |
+| **Strasse** | Laborstr. 3 |
+| **PLZ/Ort** | 64297 Darmstadt |
+| **Telefon** | 06151 / 3333333 |
 
 ## 1.7 LDT DATENSATZ
 
@@ -543,21 +543,21 @@ Auf die Muster 6, 10 und 39 ist eine qualifizierte elektronische Signatur (QES) 
 
 Die Versichertendaten der Testpatienten müssen als „manuelle Erfassung“ d.h. ohne Einlesedatum  aufgenommen werden, auch wenn diese als XML Patientendaten in dem jeweiligen Prüffall verwendet wird, kann der Prüffalltabelle unter „Voraussetzung“  entnommen werden. Für die Prüffälle in diesem Prüfpaket kommen folgende Versichertendaten zum  Einsatz: - 1. Eike Flüchtling [EV01]
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Name | Flüchtling |
-| Vorname | Eike |
-| Geburtsdatum | 00.00.1960 |
-| Versicherten_ID | M240819600 |
-| Straße | Ringstraße-in-der-Stadt ohne Nummer |
-| PLZ | 12043 |
-| Wohnsitzländercode | D |
-| Ort | Berlin |
-| WOP | 72 |
-| Versichertenart | 1 |
-| Geschlecht | X |
-| Kostentraegerkennung | 105189484 |
-| BesonderePersonengruppe | 9 |
+| **Name** | Flüchtling |
+| **Vorname** | Eike |
+| **Geburtsdatum** | 00.00.1960 |
+| **Versicherten_ID** | M240819600 |
+| **Straße** | Ringstraße-in-der-Stadt ohne Nummer |
+| **PLZ** | 12043 |
+| **Wohnsitzländercode** | D |
+| **Ort** | Berlin |
+| **WOP** | 72 |
+| **Versichertenart** | 1 |
+| **Geschlecht** | X |
+| **Kostentraegerkennung** | 105189484 |
+| **BesonderePersonengruppe** | 9 |
 
 - 2. Friedrich Schaumbërg [XML_21]
 
@@ -569,9 +569,9 @@ Diese Prüffälle sind nur dann zu realisieren, wenn im Antrag auf Zertifizierun
 
 |  |  |
 |---|---|
-| Testziel | Export des signierten digitalen Musters |
-| Voraussetzung | Einsender und Erstveranlasser wurden bereits erfasst [Abschnitt 1.6.3  Versichertendaten: Eike Flüchtling [EV01] |
-| Einzureichende  Prüfunterlagen | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
+| **Testziel** | Export des signierten digitalen Musters |
+| **Voraussetzung** | Einsender und Erstveranlasser wurden bereits erfasst [Abschnitt 1.6.3  Versichertendaten: Eike Flüchtling [EV01] |
+| **Einzureichende  Prüfunterlagen ** | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -590,18 +590,18 @@ Eike Flüchtling [EV01]
 
 - 2. Musterspezifische Daten erfassen und im Anschluss das digitale Muster
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Ausstellungsdatum | 04.01.2021 |
-| Quartal | Q1/2021 |
-| Kurativ / Präventiv / Behandl. | bei belegärztl. Behandlung |
-| OP-Datum der OP bei Leistungen | 21.01.2021 3 Wochen nach dem Ausstellungsdatum |
-| Überweisung an | Facharzt im Krankenhaus |
-| Mit-/Weiterbehandlung | ja |
-| AU bis | 29.01.2021 4 Wochen nach dem Ausstellungsdatum |
-| Diagnose / Verdachtsdiagnose (195 Zeichen) | 123456789012345678901234567890123456789012345678901234 |
-| Befund / Medikation  (324 Zeichen) | 123456789012345678901234567890123456789012345678901234 |
-| Auftrag  (1512 Zeichen) | 123456789012345678901234567890123456789012345678901234 |
+| **Ausstellungsdatum** | 04.01.2021 |
+| **Quartal** | Q1/2021 |
+| **Kurativ / Präventiv / Behandl.** | bei belegärztl. Behandlung |
+| **OP-Datum der OP bei Leistungen** | 21.01.2021 3 Wochen nach dem Ausstellungsdatum |
+| **Überweisung an** | Facharzt im Krankenhaus |
+| **Mit-/Weiterbehandlung** | ja |
+| **AU bis** | 29.01.2021 4 Wochen nach dem Ausstellungsdatum |
+| **Diagnose / Verdachtsdiagnose (195 Zeichen)** | 123456789012345678901234567890123456789012345678901234 |
+| **Befund / Medikation  (324 Zeichen)** | 123456789012345678901234567890123456789012345678901234 |
+| **Auftrag  (1512 Zeichen)** | 123456789012345678901234567890123456789012345678901234 |
 
 -
 
@@ -614,11 +614,11 @@ gemäß § 116b SGB V nach Abschnitt 31.2  ESS / bei 567890123456789012345678901
 
 - 4. digitales Muster exportieren signieren
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
 |  | 901234567890123456789012345678901234567890123456789012 |
-| Vertragsarztstempel / Unterschrift | 398212400  Praxis Dr. med. Heribert Topp-Glücklich  776299002  Schölz  Marian  Musterstr. 1  64297 Darmstadt  06151 / 1111111  06151 / 2222222 |
-| Unterschrift (QES) | elektr. Signatur des Einsenders einfügen |
+| **Vertragsarztstempel / Unterschrift** | 398212400  Praxis Dr. med. Heribert Topp-Glücklich  776299002  Schölz  Marian  Musterstr. 1  64297 Darmstadt  06151 / 1111111  06151 / 2222222 |
+| **Unterschrift (QES)** | elektr. Signatur des Einsenders einfügen |
 
 ## 2.2 DIGITALES MUSTER 06  IMPORT
 
@@ -630,10 +630,10 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 
 |  |  |
 |---|---|
-| Testziel | Import des signierten digitalen Musters 10 mit Dokumentation. |
-| Voraussetzung | 04.02.2021 |
-| Einzureichende  Prüfunterlagen | Screenshots über den gesamten Ablauf. Es müssen der komplette Importvorgang  Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen]  Optional: Die importierten Daten müssen als Muster |
-| Hinweis | Das zu importierende Muster steht im Zertifizierungsportal zum Download zur |
+| **Testziel** | Import des signierten digitalen Musters 10 mit Dokumentation. |
+| **Voraussetzung** | 04.02.2021 |
+| **Einzureichende  Prüfunterlagen ** | Screenshots über den gesamten Ablauf. Es müssen der komplette Importvorgang  Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen]  Optional: Die importierten Daten müssen als Muster |
+| **Hinweis** | Das zu importierende Muster steht im Zertifizierungsportal zum Download zur |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -647,9 +647,9 @@ Zertifizierungsgegenstand importiert.
 
 |  |  |
 |---|---|
-| Testziel | Export des signierten digitalen Musters 10 mit Dokumentation. |
-| Voraussetzung | Einsender und Erstveranlasser wurden bereits erfasst [ Stammdaten]  Versichertendaten: Eike Flüchtling [EV01] |
-| Einzureichende  Prüfunterlagen | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
+| **Testziel** | Export des signierten digitalen Musters 10 mit Dokumentation. |
+| **Voraussetzung** | Einsender und Erstveranlasser wurden bereits erfasst [ Stammdaten]  Versichertendaten: Eike Flüchtling [EV01] |
+| **Einzureichende  Prüfunterlagen ** | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
 
 - 2. Manuelle Erfassung der Versichertendaten:
 
@@ -667,33 +667,33 @@ Diese Prüffälle sind nur dann zu realisieren, wenn im Antrag auf Zertifizierun
 
 Eike Flüchtling [EV01]
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Ausstellungsdatum | 11.01.2021 |
-| Kurativ / Präventiv / ESS / bei belegärztl. | Kurativ |
-| Unfall, Unfallfolgen | ja |
-| Auftragsnummer des Labors | 0000000000003 |
-| Kontrolluntersuchung einer bekannten Infektion | ja |
-| Eintragung nur bei Weiterüberweisungbehandlung | ja (Daten des Erstveranlassers) |
-| Abnahmedatum | 11.01.2021 1 Tag vor dem Ausstellungsdatum |
-| Abnahmezeit | 12:10 Uhr |
-| Befundübermittlung eilt, Übermittlung an | ja |
-| Telefon | ja |
-| Fax | Nein |
-| Nr. | 06151 / 1111111 |
-| SSW |  |
-| Diagnose / Verdachtsdiagnose | Angeborenes Jodmangelsyndrom |
-| Befund / Medikation | Befund |
-| Auftrag Anforderungen | Untersuchung auf Schilddrüsenunterfunktion |
+| **Ausstellungsdatum** | 11.01.2021 |
+| **Kurativ / Präventiv / ESS / bei belegärztl.** | Kurativ |
+| **Unfall, Unfallfolgen** | ja |
+| **Auftragsnummer des Labors** | 0000000000003 |
+| **Kontrolluntersuchung einer bekannten Infektion** | ja |
+| **Eintragung nur bei Weiterüberweisungbehandlung** | ja (Daten des Erstveranlassers) |
+| **Abnahmedatum** | 11.01.2021 1 Tag vor dem Ausstellungsdatum |
+| **Abnahmezeit** | 12:10 Uhr |
+| **Befundübermittlung eilt, Übermittlung an** | ja |
+| **Telefon** | ja |
+| **Fax** | Nein |
+| **Nr.** | 06151 / 1111111 |
+| **SSW** |  |
+| **Diagnose / Verdachtsdiagnose** | Angeborenes Jodmangelsyndrom |
+| **Befund / Medikation** | Befund |
+| **Auftrag Anforderungen** | Untersuchung auf Schilddrüsenunterfunktion |
 
 Screenshots über den Exportvorgang sowie die Anzeige der erfassten Daten im Zertifizierungsgegenstand. 2. Digitales Muster 10 als PDF-Dokument für Eike Flüchtling [EV01] Abschnitt 1.6.3 Behandlung
 
 ---
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Vertragsarztstempel / Unterschrift überw. Arzt | 398212400  Praxis Dr. med. Heribert Topp-Glücklich  776299002  Schölz  Marian  Musterstr. 1  64297 Darmstadt  06151 / 1111111  06151 / 2222222 |
-| Unterschrift (QES) | elektr. Signatur des Einsenders einfügen |
+| **Vertragsarztstempel / Unterschrift überw. Arzt** | 398212400  Praxis Dr. med. Heribert Topp-Glücklich  776299002  Schölz  Marian  Musterstr. 1  64297 Darmstadt  06151 / 1111111  06151 / 2222222 |
+| **Unterschrift (QES)** | elektr. Signatur des Einsenders einfügen |
 
 - 4. digitales Muster erstellen signieren
 
@@ -703,9 +703,9 @@ Screenshots über den Exportvorgang sowie die Anzeige der erfassten Daten im Zer
 
 |  |  |
 |---|---|
-| Testziel | Export des signierten digitalen Musters 10 mit Dokumentation. |
-| Voraussetzung | Einsender und Erstveranlasser wurden  Stammdaten]  Versichertendaten: Friedrich Schaumbërg [XML_21] |
-| Einzureichende  Prüfunterlagen | Screenshots über den Exportvorgang sowie die Anzeige der erfassten Daten im  Digitales Muster 10 als PDF-Dokument für Friedrich Schaumbërg  ] |
+| **Testziel** | Export des signierten digitalen Musters 10 mit Dokumentation. |
+| **Voraussetzung** | Einsender und Erstveranlasser wurden  Stammdaten]  Versichertendaten: Friedrich Schaumbërg [XML_21] |
+| **Einzureichende  Prüfunterlagen ** | Screenshots über den Exportvorgang sowie die Anzeige der erfassten Daten im  Digitales Muster 10 als PDF-Dokument für Friedrich Schaumbërg  ] |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -715,33 +715,33 @@ Friedrich Schaumbërg [XML_21]
 
 - 2. Musterspezifische Daten erfassen und im Anschluss das digitale Muster
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Ausstellungsdatum | 24.01.2021 |
-| Kurativ / Präventiv / ESS / bei belegärztl.icher | bei belegärztlicher Behandlung |
-| Unfall, Unfallfolgen | nein |
-| Auftragsnummer des Labors | 0000000000004 |
-| Kontrolluntersuchung einer bekannten Infektion | ja |
-| Eintragung nur bei Weiterüberweisungbehandlung | ja (Daten des Erstveranlassers) |
-| Abnahmedatum | 24.01.2021 1 Tag vor dem Ausstellungsdatum |
-| Abnahmezeit | 12:15 Uhr |
-| Befundübermittlung eilt, Übermittlung an | ja |
-| Telefon | nein |
+| **Ausstellungsdatum** | 24.01.2021 |
+| **Kurativ / Präventiv / ESS / bei belegärztl.icher** | bei belegärztlicher Behandlung |
+| **Unfall, Unfallfolgen** | nein |
+| **Auftragsnummer des Labors** | 0000000000004 |
+| **Kontrolluntersuchung einer bekannten Infektion** | ja |
+| **Eintragung nur bei Weiterüberweisungbehandlung** | ja (Daten des Erstveranlassers) |
+| **Abnahmedatum** | 24.01.2021 1 Tag vor dem Ausstellungsdatum |
+| **Abnahmezeit** | 12:15 Uhr |
+| **Befundübermittlung eilt, Übermittlung an** | ja |
+| **Telefon** | nein |
 
 Zertifizierungsgegenstand.  Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen bereits erfasst [Abschnitt 1.6.3 - signieren und exportieren:
 
 
 ---
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Fax | ja |
-| Nr. | 06151 / 2222222 |
-| Diagnose / Verdachtsdiagnose (59 Zeichen) | 1234567890123456789012345678901234567890 1234567890123456789 |
-| Befund / Medikation (288 Zeichen) | 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 12345678 |
-| Auftrag Anforderungen (736 Zeichen) | 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456 |
-| Vertragsarztstempel / Unterschrift überw. Arzt | 398212400  Praxis Dr. med. Heribert Topp-Glücklich  776299002  Schölz  Marian  Musterstr. 1  64297 Darmstadt  06151 / 1111111  06151 / 2222222 |
-| Unterschrift (QES) | elektr. Signatur des Einsenders einfügen |
+| **Fax** | ja |
+| **Nr.** | 06151 / 2222222 |
+| **Diagnose / Verdachtsdiagnose (59 Zeichen)** | 1234567890123456789012345678901234567890 1234567890123456789 |
+| **Befund / Medikation (288 Zeichen)** | 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 12345678 |
+| **Auftrag Anforderungen (736 Zeichen)** | 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456789012345678901234567890 1234567890123456 |
+| **Vertragsarztstempel / Unterschrift überw. Arzt** | 398212400  Praxis Dr. med. Heribert Topp-Glücklich  776299002  Schölz  Marian  Musterstr. 1  64297 Darmstadt  06151 / 1111111  06151 / 2222222 |
+| **Unterschrift (QES)** | elektr. Signatur des Einsenders einfügen |
 
 - 3. digitales Muster exportieren signieren
 
@@ -760,10 +760,10 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 
 |  |  |
 |---|---|
-| Testziel | Import des signierten digitalen Musters 10 mit Dokumentation. |
-| Voraussetzung | 04.01.2021 |
-| Einzureichende  Prüfunterlagen | Screenshots über den gesamten Ablauf. Es müssen der komplette Importvorgang  Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen]  Optional: Die importierten Daten müssen als Muster 10 |
-| Hinweis | Verfügung. |
+| **Testziel** | Import des signierten digitalen Musters 10 mit Dokumentation. |
+| **Voraussetzung** | 04.01.2021 |
+| **Einzureichende  Prüfunterlagen ** | Screenshots über den gesamten Ablauf. Es müssen der komplette Importvorgang  Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen]  Optional: Die importierten Daten müssen als Muster 10 |
+| **Hinweis** | Verfügung. |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -779,9 +779,9 @@ Diese Prüffälle sind nur dann zu realisieren, wenn im Antrag auf Zertifizierun
 
 |  |  |
 |---|---|
-| Testziel | Export des signierten digitalen Musters 10A mit Dokumentation. |
-| Voraussetzung | Einsender wurde bereits erfasst [Abschnitt 1.6.3 Stammdaten]  Versichertendaten: Eike Flüchtling [EV01] |
-| Einzureichende  Prüfunterlagen | Screenshots über den Exportvorgang sowie die Anzeige der erfassten Daten im  Digitales Muster 10 als PDF-Dokument für Eike Flüchtling  Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
+| **Testziel** | Export des signierten digitalen Musters 10A mit Dokumentation. |
+| **Voraussetzung** | Einsender wurde bereits erfasst [Abschnitt 1.6.3 Stammdaten]  Versichertendaten: Eike Flüchtling [EV01] |
+| **Einzureichende  Prüfunterlagen ** | Screenshots über den Exportvorgang sowie die Anzeige der erfassten Daten im  Digitales Muster 10 als PDF-Dokument für Eike Flüchtling  Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -791,10 +791,10 @@ Eike Flüchtling [EV01]
 
 - 2. Musterspezifische Daten erfassen und im Anschluss das digitale Muster exportieren:
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Ausstellungsdatum | 11.01.2021 |
-| Kurativ / Präventiv / bei belegärztl. Behandlung | Kurativ |
+| **Ausstellungsdatum** | 11.01.2021 |
+| **Kurativ / Präventiv / bei belegärztl. Behandlung** | Kurativ |
 
 **Digitales Muster 10**
 
@@ -805,15 +805,15 @@ sowie die Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersich
 
 ---
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Unfall, Unfallfolgen | ja |
-| Auftragsnummer | 0000000000005 |
-| Diagnosen | Diagnose |
-| Abnahmedatum | 11.01.2021 1 Tag vor dem Ausstellungsdatum |
-| Abnahmezeit | 12:10 Uhr |
-| Befund eilt | ja |
-| Auftrag | kleines Blutbild, Quick, PTT, ASL, Calcium, CK, Eisen, |
+| **Unfall, Unfallfolgen** | ja |
+| **Auftragsnummer** | 0000000000005 |
+| **Diagnosen** | Diagnose |
+| **Abnahmedatum** | 11.01.2021 1 Tag vor dem Ausstellungsdatum |
+| **Abnahmezeit** | 12:10 Uhr |
+| **Befund eilt** | ja |
+| **Auftrag** | kleines Blutbild, Quick, PTT, ASL, Calcium, CK, Eisen, |
 
 - 3. digitales Muster exportieren
 
@@ -821,9 +821,9 @@ sowie die Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersich
 
 |  |  |
 |---|---|
-| Testziel | Export des signierten digitalen Musters 10A mit Dokumentation. |
-| Voraussetzung | Einsender wurde bereits erfasst [Abschnitt 1.6.3 Stammdaten]  Versichertendaten: Friedrich Schaumbërg [XML_21] |
-| Einzureichende  Prüfunterlagen | Screenshots über den Exportvorgang sowie die Anzeige der erfassten Daten im  Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
+| **Testziel** | Export des signierten digitalen Musters 10A mit Dokumentation. |
+| **Voraussetzung** | Einsender wurde bereits erfasst [Abschnitt 1.6.3 Stammdaten]  Versichertendaten: Friedrich Schaumbërg [XML_21] |
+| **Einzureichende  Prüfunterlagen ** | Screenshots über den Exportvorgang sowie die Anzeige der erfassten Daten im  Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -833,27 +833,27 @@ Friedrich Schaumbërg [XML_21]
 
 - 2. Musterspezifische Daten erfassen und im Anschluss das digitale Muster exportieren:
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Ausstellungsdatum | 24.01.2021 |
-| Kurativ / Präventiv / bei belegärztl | bei belegärztlicher Behandlung |
-| Unfall, Unfallfolgen | nein |
-| Auftragsnummer | 0000000000006 |
-| Diagnosen (59 Zeichen) | 1234567890123456789012345678901234567890 1234567890123456789 |
-| Abnahmedatum | 24.01.2021 1 Tag vor dem Ausstellungsdatum |
-| Abnahmezeit | 12:15 Uhr |
-| Befund eilt | ja |
-| Auftrag | Glukose, Sonstiges |
-| Sonstiger Aufträage | 123456789012345678901234 |
+| **Ausstellungsdatum** | 24.01.2021 |
+| **Kurativ / Präventiv / bei belegärztl** | bei belegärztlicher Behandlung |
+| **Unfall, Unfallfolgen** | nein |
+| **Auftragsnummer** | 0000000000006 |
+| **Diagnosen (59 Zeichen)** | 1234567890123456789012345678901234567890 1234567890123456789 |
+| **Abnahmedatum** | 24.01.2021 1 Tag vor dem Ausstellungsdatum |
+| **Abnahmezeit** | 12:15 Uhr |
+| **Befund eilt** | ja |
+| **Auftrag** | Glukose, Sonstiges |
+| **Sonstiger Aufträage** | 123456789012345678901234 |
 
 Kalium, LDH Zertifizierungsgegenstand.  Digitales Muster 10A als PDF-Dokument für Friedrich Schaumbërg .icher Großes Blutbild, Blutsenkung, Quick, Bilirubin gesamt, IgG, -
 
 
 ---
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| (572 Zeichen) | 567890123456789012345678  901234567890123456789012 |
+| **(572 Zeichen)** | 567890123456789012345678  901234567890123456789012 |
 
 - 3. digitales Muster exportieren
 
@@ -867,10 +867,10 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 
 |  |  |
 |---|---|
-| Testziel | Import des signierten digitalen Musters 10A mit Dokumentation. |
-| Voraussetzung | System-Datum: 04.01.2021 |
-| Einzureichende  Prüfunterlagen |  |
-| Hinweis | Das zu importierende Muster steht im Zertifizierungsportal |
+| **Testziel** | Import des signierten digitalen Musters 10A mit Dokumentation. |
+| **Voraussetzung** | System-Datum: 04.01.2021 |
+| **Einzureichende  Prüfunterlagen ** |  |
+| **Hinweis** | Das zu importierende Muster steht im Zertifizierungsportal |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -890,9 +890,9 @@ der Prüffall 7_2 (PF07_2) eingereicht werden.
 
 |  |  |
 |---|---|
-| Testziel | Export des signierten digitalen Musters 39 |
-| Voraussetzung | Versichertendaten: Malta [XML_20] |
-| Einzureichende  Prüfunterlagen | Screenshots über den Exportvorgang sowie die Anzeige der erfassten Daten im  Digitales Muster 39 als PDF-Dokument für Malta  Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
+| **Testziel** | Export des signierten digitalen Musters 39 |
+| **Voraussetzung** | Versichertendaten: Malta [XML_20] |
+| **Einzureichende  Prüfunterlagen ** | Screenshots über den Exportvorgang sowie die Anzeige der erfassten Daten im  Digitales Muster 39 als PDF-Dokument für Malta  Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -905,39 +905,39 @@ Malta [XML_20]
 
 - 2. Musterspezifische Daten erfassen und im Anschluss das digitale Muster
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Ausstellungsdatum | 04.01.2021 |
-| Auftragsnummer des Labors | 0000000000009 |
-| Alterskategorie | <automatisch> |
-| Auftragsart | Primärscreening |
-| Auftrag | Ko-Testung (Zyt.+HPV) |
-| Wurde bereits eine Krebsfrüherkennungsuntersu.. | ja, zuletzt |
-| ja, zuletzt | 12.2019 55 Wochen vor dem Ausstellungsdatum |
-| Gruppe | II |
-| HPV-Impfung | unklar |
-| HPV-HR-Testergebnis | liegt vor |
-| liegt vor (positiv/negativ/nicht verwertbar) | nicht verwertbar |
-| Gynäkologische OP Strahlen- | ja |
-| Welche? | € |
-| Wann? | 10.06.2020 26 Wochen vor dem |
-| Letzte Periode | 20.12.2020 2 Wochen vor dem |
-| Gravidität | nein |
-| Ausfluss / Pathologische Blutung | nein |
-| IUP | nein |
-| Einnahme von Ovulationshemmer / sonstige | nein |
-| Klinischer Befund | unauffällig |
-| Erläuterungen  (130  Zeichen) | Zervixkarzinom, das die Gebärmuttergrenze |
-| Vertragsarztstempel / Unterschrift des Arztes | 398212400  Praxis Dr. med. Heribert Topp-Glücklich  776299002  Schölz  Marian  Musterstr. 1  64297 Darmstadt  06151 / 1111111  06151 / 2222222 |
+| **Ausstellungsdatum** | 04.01.2021 |
+| **Auftragsnummer des Labors** | 0000000000009 |
+| **Alterskategorie** | <automatisch> |
+| **Auftragsart** | Primärscreening |
+| **Auftrag** | Ko-Testung (Zyt.+HPV) |
+| **Wurde bereits eine Krebsfrüherkennungsuntersu..** | ja, zuletzt |
+| **ja, zuletzt** | 12.2019 55 Wochen vor dem Ausstellungsdatum |
+| **Gruppe** | II |
+| **HPV-Impfung** | unklar |
+| **HPV-HR-Testergebnis** | liegt vor |
+| **liegt vor (positiv/negativ/nicht verwertbar)** | nicht verwertbar |
+| **Gynäkologische OP Strahlen-** | ja |
+| **Welche?** | € |
+| **Wann?** | 10.06.2020 26 Wochen vor dem |
+| **Letzte Periode** | 20.12.2020 2 Wochen vor dem |
+| **Gravidität** | nein |
+| **Ausfluss / Pathologische Blutung** | nein |
+| **IUP** | nein |
+| **Einnahme von Ovulationshemmer / sonstige** | nein |
+| **Klinischer Befund** | unauffällig |
+| **Erläuterungen  (130  Zeichen)** | Zervixkarzinom, das die Gebärmuttergrenze |
+| **Vertragsarztstempel / Unterschrift des Arztes** | 398212400  Praxis Dr. med. Heribert Topp-Glücklich  776299002  Schölz  Marian  Musterstr. 1  64297 Darmstadt  06151 / 1111111  06151 / 2222222 |
 
 (vollständig/unvollständig/keine/unklar) oder Chemotherap… Hormonanwendung -Testuntersuchung überschritten hat, aber weder die Beckenwand noch das untere Drittel der Vagina erreicht- signieren und exportieren:
 
 
 ---
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Unterschrift (QES) | elektr. Signatur des Einsenders einfügen |
+| **Unterschrift (QES)** | elektr. Signatur des Einsenders einfügen |
 
 - 3. digitales Muster signieren
 
@@ -947,9 +947,9 @@ Malta [XML_20]
 
 |  |  |
 |---|---|
-| Testziel | Export des signierten digitalen Musters 39 mit Dokumentation. |
-| Voraussetzung | Versichertendaten: Malta [XML_20] Download des Muster_39_Malta_1 vom Zertifizierungsportal |
-| Einzureichende  Prüfunterlagen | Screenshots über den Exportvorgang sowie die Anzeige der erfassten Daten im  Digitales Muster 39 als PDF-Dokument für Malta  Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
+| **Testziel** | Export des signierten digitalen Musters 39 mit Dokumentation. |
+| **Voraussetzung** | Versichertendaten: Malta [XML_20] Download des Muster_39_Malta_1 vom Zertifizierungsportal |
+| **Einzureichende  Prüfunterlagen ** | Screenshots über den Exportvorgang sowie die Anzeige der erfassten Daten im  Digitales Muster 39 als PDF-Dokument für Malta  Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -961,23 +961,23 @@ Malta [XML_20]
 
 - 2. Musterspezifische Daten erfassen und im Anschluss das digitale Muster
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Ausstellungsdatum | 15.02.2021 |
-| Auftragsnummer des Labors | 0000000000010 20200104123401 |
-| Eingangsdatum | 15.02.2021 1 Tag vor dem Ausstellungsdatum |
-| Endozervikale Zellen | vorhanden |
-| Proliferationsgrad | 3-4 |
-| Döderleinflora | nein |
-| Mischflora | ja |
-| Kokkenflora | nein |
-| Trichomonaden | nein |
-| Candida | nein |
-| Gardnerella | ja |
-| Gruppe | II |
-| HPV-HR-Testergebnis (positiv/negativ/nicht | positiv |
-| Liegt HPV-Typ 16 oder HPV-Typ 18 vor? | ja |
-| Bemerkungen  (195 Zeichen) | € 78901234567890123456789012345678901 |
+| **Ausstellungsdatum** | 15.02.2021 |
+| **Auftragsnummer des Labors** | 0000000000010 20200104123401 |
+| **Eingangsdatum** | 15.02.2021 1 Tag vor dem Ausstellungsdatum |
+| **Endozervikale Zellen** | vorhanden |
+| **Proliferationsgrad** | 3-4 |
+| **Döderleinflora** | nein |
+| **Mischflora** | ja |
+| **Kokkenflora** | nein |
+| **Trichomonaden** | nein |
+| **Candida** | nein |
+| **Gardnerella** | ja |
+| **Gruppe** | II |
+| **HPV-HR-Testergebnis (positiv/negativ/nicht** | positiv |
+| **Liegt HPV-Typ 16 oder HPV-Typ 18 vor?** | ja |
+| **Bemerkungen  (195 Zeichen)** | € 78901234567890123456789012345678901 |
 
 **und  oder**
 
@@ -988,19 +988,19 @@ Zertifizierungsgegenstand.  verwendbar) -Testuntersuchung 1234567890123456- sign
 
 ---
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
 |  | 78901234567890123456789012345678901 23456789012345678901234567890123456 78901234567890123456 |
-| zytologische Kontrolle | ja |
-| nach Entzündungsbehandlung | nein |
-| nach Östrogenbehandlung | ja |
-| HPV-Test | nein |
-| Ko-Test | ja |
-| Abklärungskolposkopie | nein |
-| Zeitraum | ja in 2 Monaten |
-| sofort | nein |
-| Zytologischer Vertragsarztstempel des | 123456788  Labor Hannelore Topp-Glücklich  987654321  Blücher Dr. med. Topp-Glücklich  Josefine Hannelore  Laborstr. 3  64297 Darmstadt  06151 / 3333333 |
-| Unterschrift (QES) | elektr. Signatur des Einsenders einfügen |
+| **zytologische Kontrolle** | ja |
+| **nach Entzündungsbehandlung** | nein |
+| **nach Östrogenbehandlung** | ja |
+| **HPV-Test** | nein |
+| **Ko-Test** | ja |
+| **Abklärungskolposkopie** | nein |
+| **Zeitraum** | ja in 2 Monaten |
+| **sofort** | nein |
+| **Zytologischer Vertragsarztstempel des** | 123456788  Labor Hannelore Topp-Glücklich  987654321  Blücher Dr. med. Topp-Glücklich  Josefine Hannelore  Laborstr. 3  64297 Darmstadt  06151 / 3333333 |
+| **Unterschrift (QES)** | elektr. Signatur des Einsenders einfügen |
 
 - 3. digitales Muster signieren
 
@@ -1018,10 +1018,10 @@ der Prüffall 8_2 (PF08_2) eingereicht werden.
 
 |  |  |
 |---|---|
-| Testziel | Import des signierten digitalen Musters |
-| Voraussetzung | Download des Muster_39_Malta_2 vom Zertifizierungsportal |
-| Einzureichende  Prüfunterlagen |  |
-| Hinweis | Das zu importierende Muster steht im Zertifizierungsportal zum Download zur |
+| **Testziel** | Import des signierten digitalen Musters |
+| **Voraussetzung** | Download des Muster_39_Malta_2 vom Zertifizierungsportal |
+| **Einzureichende  Prüfunterlagen ** |  |
+| **Hinweis** | Das zu importierende Muster steht im Zertifizierungsportal zum Download zur |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -1040,10 +1040,10 @@ Zertifizierungsgegenstand importiert.
 
 |  |  |
 |---|---|
-| Testziel | Import des signierten digitalen Musters 39 mit Dokumentation. |
-| Voraussetzung | Download des Muster_39_Malta_3 vom Zertifizierungsportal Update-Server |
-| Einzureichende  Prüfunterlagen |  |
-| Hinweis | Das zu importierende Muster steht im Zertifizierungsportal zum Download zur |
+| **Testziel** | Import des signierten digitalen Musters 39 mit Dokumentation. |
+| **Voraussetzung** | Download des Muster_39_Malta_3 vom Zertifizierungsportal Update-Server |
+| **Einzureichende  Prüfunterlagen ** |  |
+| **Hinweis** | Das zu importierende Muster steht im Zertifizierungsportal zum Download zur |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -1059,10 +1059,10 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag a **Export** beantr
 
 |  |  |
 |---|---|
-| Testziel | Export des LDT-Befundes. |
-| Voraussetzung | Sendendes Labor entspricht den Daten des Labors  Einsender bzw. Empfänger entspricht den Daten des Einsenders [Abschnitt 1.6.3  Versichertendatendaten: Eike Flüchtling [EV01] |
-| Einzureichende  Prüfunterlagen | Die exportierte LDT-Datei. |
-| Hinweis | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
+| **Testziel** | Export des LDT-Befundes. |
+| **Voraussetzung** | Sendendes Labor entspricht den Daten des Labors  Einsender bzw. Empfänger entspricht den Daten des Einsenders [Abschnitt 1.6.3  Versichertendatendaten: Eike Flüchtling [EV01] |
+| **Einzureichende  Prüfunterlagen** | Die exportierte LDT-Datei. |
+| **Hinweis** | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden.**
 
@@ -1070,12 +1070,12 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag a **Export** beantr
 
 - 2. Befundspezifische Daten erfassen
 
-| FELDER | INHALT |
-| Befundinformationen | |
+\| **FELDER** | **INHALT** |
+| **Befundinformationen** | |
 |---|---|
-| Status (Befund/Bericht) | Auftrag abgeschlossen |
-| Material | |
-| Probenmaterial-Ident: | SE |
+| **Status (Befund/Bericht)** | Auftrag abgeschlossen |
+| **Material** | |
+| **Probenmaterial-Ident:** | SE |
 
 Muster_39_Malta_2 wird in den
 
@@ -1088,19 +1088,19 @@ Screenshots über den gesamten Ablauf. Es müssen der komplette Importvorgang so
 
 ---
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Probenmaterial-Bezeichnung: | Serum |
-| Leistung | |
-| Test-Ident | KBJK |
-| Testbezeichnung | KBV-Verfahren JK |
-| Ergebnisstatus | Befundergebnis |
-| Ergebnis-Wert | 4.7 |
-| Einheitensystem des Messwertes / Wertes in | 2 |
-| MaßeEinheit des Messwertes / Wertes | ng/l |
-| Normalwertspezifikation | 13 |
-| Testbezogene Hinweise | Eine Kontrolle in ca. 4 Wochen wird empfohlen. |
-| Gebührennummer (GNR) | 32094 |
+| **Probenmaterial-Bezeichnung:** | Serum |
+| **Leistung** | |
+| **Test-Ident** | KBJK |
+| **Testbezeichnung** | KBV-Verfahren JK |
+| **Ergebnisstatus** | Befundergebnis |
+| **Ergebnis-Wert** | 4.7 |
+| **Einheitensystem des Messwertes / Wertes in** | 2 |
+| **MaßeEinheit des Messwertes / Wertes** | ng/l |
+| **Normalwertspezifikation** | 13 |
+| **Testbezogene Hinweise** | Eine Kontrolle in ca. 4 Wochen wird empfohlen. |
+| **Gebührennummer (GNR)** | 32094 |
 
 - 3. Eine LDT Befund Datei (.ldt) erstellen und exportieren.
 
@@ -1108,10 +1108,10 @@ Screenshots über den gesamten Ablauf. Es müssen der komplette Importvorgang so
 
 |  |  |
 |---|---|
-| Testziel | Export des LDT-Befundes. |
-| Voraussetzung | Sendendes Labor entspricht den Daten des Labors [Abschnitt 1.6.3 Stammdaten]  Einsender bzw. Empfänger entspricht den Daten des Einsenders [ Stammdaten]  Versichertendatendaten: Friedrich Schaumbërg [XML_21] |
-| Einzureichende  Prüfunterlagen | Die exportierte LDT-Datei. |
-| Hinweis | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
+| **Testziel** | Export des LDT-Befundes. |
+| **Voraussetzung** | Sendendes Labor entspricht den Daten des Labors [Abschnitt 1.6.3 Stammdaten]  Einsender bzw. Empfänger entspricht den Daten des Einsenders [ Stammdaten]  Versichertendatendaten: Friedrich Schaumbërg [XML_21] |
+| **Einzureichende  Prüfunterlagen** | Die exportierte LDT-Datei. |
+| **Hinweis** | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden.**
 
@@ -1123,11 +1123,11 @@ Screenshots über den gesamten Ablauf. Es müssen der komplette Importvorgang so
 
 - übermitteln. Dabei gelten folgende Bedingungen:
 
-| FELDER | INHALT |
-| Befundinformationen | |
+\| **FELDER** | **INHALT** |
+| **Befundinformationen** | |
 |---|---|
-| Dokumententyp | Laborbefund |
-| Dateiformat | PDF |
+| **Dokumententyp** | Laborbefund |
+| **Dateiformat** | PDF |
 
 - 4. Eine LDT Befund Datei (.ldt) erstellen und exportieren.
 
@@ -1146,10 +1146,10 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 
 |  |  |
 |---|---|
-| Testziel | Export des LDT-Befundes Zervix-Zytologie/Pathologie. |
-| Voraussetzung | Sendendes Labor entspricht den Daten des Labors [Abschnitt 1.6.3 Stammdaten]  Einsender bzw. Empfänger entspricht den Daten des Einsenders [Abschnitt 1.6.3  Stammdaten]  Versichertendatendaten: Eike Flüchtling [EV01] |
-| Einzureichende  Prüfunterlagen |  |
-| Hinweis | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
+| **Testziel** | Export des LDT-Befundes Zervix-Zytologie/Pathologie. |
+| **Voraussetzung** | Sendendes Labor entspricht den Daten des Labors [Abschnitt 1.6.3 Stammdaten]  Einsender bzw. Empfänger entspricht den Daten des Einsenders [Abschnitt 1.6.3  Stammdaten]  Versichertendatendaten: Eike Flüchtling [EV01] |
+| **Einzureichende  Prüfunterlagen ** |  |
+| **Hinweis** | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden.**
 
@@ -1157,26 +1157,26 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 
 - 2. Befundspezifische Daten erfassen
 
-| FELDER | INHALT |
-| Befundinformationen | |
+\| **FELDER** | **INHALT** |
+| **Befundinformationen** | |
 |---|---|
-| Status (Befund/Bericht) | Auftrag abgeschlossen |
-| Material | |
-| Probenmaterial-Ident: | AB |
-| Probenmaterial-Bezeichnung: | Abstrich |
-| Lokalisation Probenmaterial | Vagina |
-| Leistung | |
-| Endozervikale Zellen | vorhanden |
-| Gruppe | III |
-| Döderleinflora | ja |
-| Mischflora | nein |
-| Kokkenflora | nein |
-| Trichomonaden | nein |
-| Candida | nein |
-| Gardnerella | nein |
-| Proliferationsgrad | 3-4 |
-| Zytologische Kontrolle | ja |
-| Grund der Nachkontrolle | nach Östrogenbehandlung |
+| **Status (Befund/Bericht)** | Auftrag abgeschlossen |
+| **Material** | |
+| **Probenmaterial-Ident:** | AB |
+| **Probenmaterial-Bezeichnung:** | Abstrich |
+| **Lokalisation Probenmaterial** | Vagina |
+| **Leistung** | |
+| **Endozervikale Zellen** | vorhanden |
+| **Gruppe** | III |
+| **Döderleinflora** | ja |
+| **Mischflora** | nein |
+| **Kokkenflora** | nein |
+| **Trichomonaden** | nein |
+| **Candida** | nein |
+| **Gardnerella** | nein |
+| **Proliferationsgrad** | 3-4 |
+| **Zytologische Kontrolle** | ja |
+| **Grund der Nachkontrolle** | nach Östrogenbehandlung |
 
 ## EXPORT - Eike Flüchtling [EV01]
 
@@ -1185,14 +1185,14 @@ Die exportierte LDT-Datei. **LDT-Befund-**
 
 ---
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Abklärungskolposkopie | nein |
-| Abrechnungsinfo zur Untersuchung | GKV Laborfacharzt |
-| Gebührenordnung | EBM |
-| Kosten in € | 1450 |
-| Gebuehrennummer (GNR) | 32412 |
-| bereits abgerechnet | ja |
+| **Abklärungskolposkopie** | nein |
+| **Abrechnungsinfo zur Untersuchung** | GKV Laborfacharzt |
+| **Gebührenordnung** | EBM |
+| **Kosten in €** | 1450 |
+| **Gebuehrennummer (GNR)** | 32412 |
+| **bereits abgerechnet** | ja |
 
 - 3. Eine LDT Befund Datei (.ldt) erstellen und exportieren.
 
@@ -1206,10 +1206,10 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 
 |  |  |
 |---|---|
-| Testziel | Import des LDT-Befundes Klinische Chemie |
-| Voraussetzung | Sendendes Labor entspricht den Daten des Labors [Abschnitt 1.6.3 Stammdaten]  Einsender bzw. Empfänger entspricht den Daten des Einsenders [Abschnitt 1.6.3  Der Patient Eike Flüchtling [EV01] muss im System vor dem Import der LDT Befund |
-| Einzureichende  Prüfunterlagen |  |
-| Hinweis | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
+| **Testziel** | Import des LDT-Befundes Klinische Chemie |
+| **Voraussetzung** | Sendendes Labor entspricht den Daten des Labors [Abschnitt 1.6.3 Stammdaten]  Einsender bzw. Empfänger entspricht den Daten des Einsenders [Abschnitt 1.6.3  Der Patient Eike Flüchtling [EV01] muss im System vor dem Import der LDT Befund |
+| **Einzureichende  Prüfunterlagen ** |  |
+| **Hinweis** | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden.**
 
@@ -1227,8 +1227,8 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 
 |  |  |
 |---|---|
-| Testziel | Import des LDT-Befundes Zytologie Krebsvorsorge |
-| Voraussetzung | Sendendes Labor entspricht den Daten des Labors  Einsender bzw. Empfänger entspricht den Daten des Einsenders [Abschnitt 1.6.3 |
+| **Testziel** | Import des LDT-Befundes Zytologie Krebsvorsorge |
+| **Voraussetzung** | Sendendes Labor entspricht den Daten des Labors  Einsender bzw. Empfänger entspricht den Daten des Einsenders [Abschnitt 1.6.3 |
 
 -Cent Datei aufgenommen worden sein. Screenshots über den Ablauf.  Export des enthaltenden Anhangs. Optional: Die importierten Daten müssen als LDT -Befund exportiert werden, wenn der Antragsteller „LDT Befund mit Export“ beantragt oder hierfür bereits eine Zulassung hat. [Abschnitt 1.6.3 Stammdaten] Stammdaten]
 
@@ -1237,8 +1237,8 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 |  |  |
 |---|---|
 |  | Der Patient Eike Flüchtling [EV01] muss im System vor dem Import der LDT Befund |
-| Einzureichende  Prüfunterlagen |  |
-| Hinweis | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
+| **Einzureichende  Prüfunterlagen ** |  |
+| **Hinweis** | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden.**
 
@@ -1262,10 +1262,10 @@ Diese Prüffälle sind nur dann zu realisieren, wenn im Antrag auf Zertifizierun
 
 |  |  |
 |---|---|
-| Testziel | Export von LDT-Auftrag |
-| Voraussetzung | [Abschnitt 1.6.3 Stammdaten] |
-| Einzureichende  Prüfunterlagen |  |
-| Hinweis | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
+| **Testziel** | Export von LDT-Auftrag |
+| **Voraussetzung** | [Abschnitt 1.6.3 Stammdaten] |
+| **Einzureichende  Prüfunterlagen** |  |
+| **Hinweis** | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden.**
 
@@ -1273,31 +1273,31 @@ Diese Prüffälle sind nur dann zu realisieren, wenn im Antrag auf Zertifizierun
 
 - 2. Erfassung der auftragsspezifischen Daten.
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Scheinuntergruppe | 27 |
-| Ausstellungsdatum | 11.01.2021 |
-| Kurativ / Präventiv / ESS / bei belegärztl.icher | Kurativ |
-| Unfall, Unfallfolgen | ja |
-| Kontrolluntersuchung einer bekannten Infektion | ja |
-| Eingeschränkter Leistungsanspruch gemäß §16 | ja |
-| Eintragung nur bei Weiterüberweisungbehandlung | ja (Daten des Erstveranlassers) |
+| **Scheinuntergruppe** | 27 |
+| **Ausstellungsdatum** | 11.01.2021 |
+| **Kurativ / Präventiv / ESS / bei belegärztl.icher** | Kurativ |
+| **Unfall, Unfallfolgen** | ja |
+| **Kontrolluntersuchung einer bekannten Infektion** | ja |
+| **Eingeschränkter Leistungsanspruch gemäß §16** | ja |
+| **Eintragung nur bei Weiterüberweisungbehandlung** | ja (Daten des Erstveranlassers) |
 
 Datei aufgenommen worden sein. Screenshots über den Ablauf.  Optional: Die importierten Daten müs sen als LDT-Befund exportiert werden, wenn der Antragsteller „LDT Befund mit Export“ beantragt oder hierfür bereits eine Zulassung hat. Einsender bzw. Sender des Auftrags entspricht den Daten des Einsenders Versichertendatendaten: Eike Flüchtling [EV01] Die exportierte LDT-Datei Behandlung Abs. 3a SGB V -
 
 
 ---
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Materiala Abnahme/Entnahmedatum | 11.01.2021 1 Tag vor dem Ausstellungsdatum |
-| Materiala Abnahme/Entnahmeuhrzeit | 12:10 Uhr |
-| Telefonnummer | 06151 / 1111111 |
-| Faxnummer | 06151 / 2222222 |
-| Diagnose / Verdachtsdiagnose | Angeborenes Jodmangelsyndrom |
-| Befund / Medikation | Befund |
-| Dringlichkeit | Eilig |
-| Anforderungen | Untersuchung auf Schilddrüsenunterfunktion |
+| **Materiala Abnahme/Entnahmedatum** | 11.01.2021 1 Tag vor dem Ausstellungsdatum |
+| **Materiala Abnahme/Entnahmeuhrzeit** | 12:10 Uhr |
+| **Telefonnummer** | 06151 / 1111111 |
+| **Faxnummer** | 06151 / 2222222 |
+| **Diagnose / Verdachtsdiagnose** | Angeborenes Jodmangelsyndrom |
+| **Befund / Medikation** | Befund |
+| **Dringlichkeit** | Eilig |
+| **Anforderungen** | Untersuchung auf Schilddrüsenunterfunktion |
 
 - 3. Eine LDT Auftrag Datei (.ldt) erstellen und exportieren.
 
@@ -1305,10 +1305,10 @@ Datei aufgenommen worden sein. Screenshots über den Ablauf.  Optional: Die impo
 
 |  |  |
 |---|---|
-| Testziel | Export von LDT-Auftrag |
-| Voraussetzung | Einsender bzw. Sender des Auftrags entspricht den Daten des Einsenders  Versichertendatendaten: Friedrich Schaumbërg [XML_2 |
-| Einzureichende  Prüfunterlagen |  |
-| Hinweis | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
+| **Testziel** | Export von LDT-Auftrag |
+| **Voraussetzung** | Einsender bzw. Sender des Auftrags entspricht den Daten des Einsenders  Versichertendatendaten: Friedrich Schaumbërg [XML_2 |
+| **Einzureichende  Prüfunterlagen ** |  |
+| **Hinweis** | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden.**
 
@@ -1316,16 +1316,16 @@ Datei aufgenommen worden sein. Screenshots über den Ablauf.  Optional: Die impo
 
 - 2. Erfassung der auftragsspezifischen Daten.
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Scheinuntergruppe | 28 |
-| Ausstellungsdatum | 24.01.2021 |
-| Kurativ / Präventiv / ESS / bei belegärztl.icher | bei belegärztlicher Behandlung |
-| Unfall, Unfallfolgen | nein |
-| Akutdiagnose Diagnosen (59 Zeichen) | 12345678901234567890123456789012345678901 |
-| Materiala Abnahme/Entnahmedatum | 24.01.2021 1 Tag vor dem Ausstellungsdatum |
-| Materiala Abnahme/Entnahmeuhrzeit | 12:15 Uhr |
-| Dringlichkeit | Eilig |
+| **Scheinuntergruppe** | 28 |
+| **Ausstellungsdatum** | 24.01.2021 |
+| **Kurativ / Präventiv / ESS / bei belegärztl.icher** | bei belegärztlicher Behandlung |
+| **Unfall, Unfallfolgen** | nein |
+| **Akutdiagnose Diagnosen (59 Zeichen)** | 12345678901234567890123456789012345678901 |
+| **Materiala Abnahme/Entnahmedatum** | 24.01.2021 1 Tag vor dem Ausstellungsdatum |
+| **Materiala Abnahme/Entnahmeuhrzeit** | 12:15 Uhr |
+| **Dringlichkeit** | Eilig |
 
 -
 
@@ -1334,10 +1334,10 @@ Datei aufgenommen worden sein. Screenshots über den Ablauf.  Optional: Die impo
 
 ---
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Test-Ident Anforderungen | gesamt, IgG, Glukose, Sonstiges |
-| Zusätzliche Informationen Sonstiger Auftrag (47 | 12345678901234567890123456789012345678901 |
+| **Test-Ident Anforderungen** | gesamt, IgG, Glukose, Sonstiges |
+| **Zusätzliche Informationen Sonstiger Auftrag (47** | 12345678901234567890123456789012345678901 |
 
 - 3. Eine LDT Auftrag Datei (.ldt) erstellen und exportieren.
 
@@ -1351,10 +1351,10 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 
 |  |  |
 |---|---|
-| Testziel | Import von LDT-Auftrag |
-| Voraussetzung | [Abschnitt 1.6.3 Stammdaten] |
-| Einzureichende  Prüfunterlagen |  |
-| Hinweis | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
+| **Testziel** | Import von LDT-Auftrag |
+| **Voraussetzung** | [Abschnitt 1.6.3 Stammdaten] |
+| **Einzureichende  Prüfunterlagen ** |  |
+| **Hinweis** | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden.**
 
@@ -1404,9 +1404,9 @@ Abbildung 4: Struktur des ZIP -Archives mit LDT-Befund-Export
 
 |  |  |
 |---|---|
-| Testziel | Export des signierten digitalen Musters 6 |
-| Voraussetzung | Einsender und Erstveranlasser wurden bereits erfasst [ Stammdaten]  Versichertendaten: Malta als XML-Datei [XML_20] |
-| Einzureichende |  |
+| **Testziel** | Export des signierten digitalen Musters 6 |
+| **Voraussetzung** | Einsender und Erstveranlasser wurden bereits erfasst [ Stammdaten]  Versichertendaten: Malta als XML-Datei [XML_20] |
+| **Einzureichende** |  |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -1416,19 +1416,19 @@ Malta [XML_20]
 
 - 2. Musterspezifische Daten erfassen und im Anschluss das digitale Muster signieren und exportieren:
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Ausstellungsdatum | 03.01.2021 |
-| Kurativ / Präventiv / Behandl. gemäß § 116b SGB V | Kurativ |
-| Scheinuntergruppe Mit-/Weiterbehandlung | ja |
-| OP-Datum der OP bei Leistungen | 21.01.2021 3 Wochen nach dem Ausstellungsdatum |
-| Überweisung an | Arzt |
-| AU bis | 28.01.2021 4 Wochen nach dem Ausstellungsdatum |
-| Diagnose / Verdachtsdiagnose (23 Zeichen) | Verdachtsdiagnose auf 42 |
-| Befund / Medikation (28 Zeichen) | Befunde 42 mit Medikation 42 |
-| Auftrag Anforderungen (34 Zeichen) | Test-Auftrag sollte 42 entsprechen |
-| Vertragsarztstempel / Unterschrift des Arztes | 398212400  Praxis Dr. med. Heribert Topp-Glücklich  776299002  Schölz  Marian  Musterstr. 1  64297 Darmstadt  06151 / 1111111  06151 / 2222222 |
-| Unterschrift (QES) | „elektr. Signatur“ des Einsenders einfügen |
+| **Ausstellungsdatum** | 03.01.2021 |
+| **Kurativ / Präventiv / Behandl. gemäß § 116b SGB V** | Kurativ |
+| **Scheinuntergruppe Mit-/Weiterbehandlung** | ja |
+| **OP-Datum der OP bei Leistungen** | 21.01.2021 3 Wochen nach dem Ausstellungsdatum |
+| **Überweisung an** | Arzt |
+| **AU bis** | 28.01.2021 4 Wochen nach dem Ausstellungsdatum |
+| **Diagnose / Verdachtsdiagnose (23 Zeichen)** | Verdachtsdiagnose auf 42 |
+| **Befund / Medikation (28 Zeichen)** | Befunde 42 mit Medikation 42 |
+| **Auftrag Anforderungen (34 Zeichen)** | Test-Auftrag sollte 42 entsprechen |
+| **Vertragsarztstempel / Unterschrift des Arztes** | 398212400  Praxis Dr. med. Heribert Topp-Glücklich  776299002  Schölz  Marian  Musterstr. 1  64297 Darmstadt  06151 / 1111111  06151 / 2222222 |
+| **Unterschrift (QES)** | „elektr. Signatur“ des Einsenders einfügen |
 
 - Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen
 
@@ -1443,9 +1443,9 @@ Prüfunterlagen Digitales Muster 6 als PDF-Dokument für Malta Abschnitt 1.6.3 E
 
 |  |  |
 |---|---|
-| Testziel | Export des signierten digitalen Musters 10 |
-| Voraussetzung | Einsender und Erstveranlasser wurden bereits erfasst [ Stammdaten]  Versichertendaten: Malta als XML-Datei [XML_20] |
-| Einzureichende |  |
+| **Testziel** | Export des signierten digitalen Musters 10 |
+| **Voraussetzung** | Einsender und Erstveranlasser wurden bereits erfasst [ Stammdaten]  Versichertendaten: Malta als XML-Datei [XML_20] |
+| **Einzureichende** |  |
 
 - Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen
 
@@ -1461,32 +1461,32 @@ Prüfunterlagen Digitales Muster 6 als PDF-Dokument für Malta Abschnitt 1.6.3 E
 
 Malta [XML_20]
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Ausstellungsdatum | 03.01.2021 |
-| Kurativ / Präventiv / ESS / bei belegärztl.icher | Kurativ |
-| Unfall, Unfallfolgen | nein |
-| Auftragsnummer | 0000000000001 |
-| Eintragung nur bei Weiterüberweisungbehandlung | ja (Daten des Erstveranlassers) |
-| Abnahmedatum | 03.01.2021 1 Tag vor dem Ausstellungsdatum |
-| Abnahmezeit | 12:05 Uhr |
-| Befundübermittlung eilt, Übermittlung an | ja |
-| Telefon | ja |
-| Fax | Nein |
-| Nr. | 06151 / 1111111 |
-| SSW | 42 |
-| Diagnose / Verdachtsdiagnose (23 Zeichen) | Verdachtsdiagnose auf 42 |
-| Befund / Medikation (28 Zeichen) | Befunde 42 mit Medikation 42 |
-| Auftrag Anforderungen (34 Zeichen) | Test-Auftrag sollte 42 entsprechen |
-| Vertragsarztstempel / Unterschrift überw. Arzt | 398212400  Praxis Dr. med. Heribert Topp-Glücklich  776299002  Schölz  Marian  Musterstr. 1  64297 Darmstadt  06151 / 1111111  06151 / 2222222 |
+| **Ausstellungsdatum** | 03.01.2021 |
+| **Kurativ / Präventiv / ESS / bei belegärztl.icher** | Kurativ |
+| **Unfall, Unfallfolgen** | nein |
+| **Auftragsnummer** | 0000000000001 |
+| **Eintragung nur bei Weiterüberweisungbehandlung** | ja (Daten des Erstveranlassers) |
+| **Abnahmedatum** | 03.01.2021 1 Tag vor dem Ausstellungsdatum |
+| **Abnahmezeit** | 12:05 Uhr |
+| **Befundübermittlung eilt, Übermittlung an** | ja |
+| **Telefon** | ja |
+| **Fax** | Nein |
+| **Nr.** | 06151 / 1111111 |
+| **SSW** | 42 |
+| **Diagnose / Verdachtsdiagnose (23 Zeichen)** | Verdachtsdiagnose auf 42 |
+| **Befund / Medikation (28 Zeichen)** | Befunde 42 mit Medikation 42 |
+| **Auftrag Anforderungen (34 Zeichen)** | Test-Auftrag sollte 42 entsprechen |
+| **Vertragsarztstempel / Unterschrift überw. Arzt** | 398212400  Praxis Dr. med. Heribert Topp-Glücklich  776299002  Schölz  Marian  Musterstr. 1  64297 Darmstadt  06151 / 1111111  06151 / 2222222 |
 
 Digitales Muster 10 als PDF-Dokument für Malta Abschnitt 1.6.3 Prüfunterlagen Behandlung
 
 ---
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Unterschrift (QES) | elektr. Signatur des Einsenders einfügen |
+| **Unterschrift (QES)** | elektr. Signatur des Einsenders einfügen |
 
 - 7. digitales Muster exportieren signieren
 
@@ -1500,9 +1500,9 @@ Digitales Muster 10 als PDF-Dokument für Malta Abschnitt 1.6.3 Prüfunterlagen 
 
 |  |  |
 |---|---|
-| Testziel | Export des signierten digitalen Musters 10A |
-| Voraussetzung | Einsender wurde bereits erfasst [Abschnitt 1.6.3 Stammdaten]  Versichertendaten: Malta als XML-Datei [XML_20] |
-| Einzureichende |  |
+| **Testziel** | Export des signierten digitalen Musters 10A |
+| **Voraussetzung** | Einsender wurde bereits erfasst [Abschnitt 1.6.3 Stammdaten]  Versichertendaten: Malta als XML-Datei [XML_20] |
+| **Einzureichende** |  |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -1514,19 +1514,19 @@ Malta [XML_20]
 
 - 2. Musterspezifische Daten erfassen und im Anschluss das digitale Muster exportieren:
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Ausstellungsdatum | 03.01.2021 |
-| Kurativ / Präventiv / bei belegärztl. Behandlung | Kurativ |
-| Unfall, Unfallfolgen | nein |
-| Auftragsnummer | 0000000000002 |
-| SSW | 42 |
-| Diagnosen (23 Zeichen) | Verdachtsdiagnose auf 42 |
-| Abnahmedatum | 03.01.2021 1 Tag vor dem Ausstellungsdatum |
-| Abnahmezeit | 12:05 Uhr |
-| Befund eilt | ja |
-| Auftrag Anforderungen | alkalische Phosphatase Fibrinogen, Eiweiß gesamt, |
-| Sonstiger Aufträage (10 Zeichen) | Auftrag 42 |
+| **Ausstellungsdatum** | 03.01.2021 |
+| **Kurativ / Präventiv / bei belegärztl. Behandlung** | Kurativ |
+| **Unfall, Unfallfolgen** | nein |
+| **Auftragsnummer** | 0000000000002 |
+| **SSW** | 42 |
+| **Diagnosen (23 Zeichen)** | Verdachtsdiagnose auf 42 |
+| **Abnahmedatum** | 03.01.2021 1 Tag vor dem Ausstellungsdatum |
+| **Abnahmezeit** | 12:05 Uhr |
+| **Befund eilt** | ja |
+| **Auftrag Anforderungen** | alkalische Phosphatase Fibrinogen, Eiweiß gesamt, |
+| **Sonstiger Aufträage (10 Zeichen)** | Auftrag 42 |
 
 - 3. digitales Muster exportieren
 
@@ -1541,9 +1541,9 @@ Prüfunterlagen Digitales Muster 10A als PDF-Dokument für Malta. IgM, Kalium, K
 
 |  |  |
 |---|---|
-| Testziel | Export des signierten digitalen Musters 39 |
-| Voraussetzung | Einsender wurde bereits erfasst [Abschnitt 1.6.3 Stammdaten]  Versichertendaten: Malta als XML-Datei [XML_20] |
-| Einzureichende |  |
+| **Testziel** | Export des signierten digitalen Musters 39 |
+| **Voraussetzung** | Einsender wurde bereits erfasst [Abschnitt 1.6.3 Stammdaten]  Versichertendaten: Malta als XML-Datei [XML_20] |
+| **Einzureichende** |  |
 
 - Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen
 
@@ -1555,39 +1555,39 @@ Malta [XML_20]
 
 - 2. Musterspezifische Daten erfassen und im Anschluss das digitale Muster
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Ausstellungsdatum | 03.01.2021 |
-| Auftragsnummer des Labors | 0000000000006 |
-| Alterskategorie | <automatisch> |
-| Auftragsart | Abklärungsdiagnostik |
-| Auftrag | HPV-Test |
-| Wurde bereits eine Krebsfrüherkennungsuntersu.. | ja, zuletzt |
-| ja, zuletzt | 11.2019 59 Wochen vor dem Ausstellungsdatum |
-| Gruppe | III |
-| HPV-Impfung | unklar |
-| HPV-HR-Testergebnis | liegt vor |
-| liegt vor (positiv/negativ/nicht verwertbar) | nicht verwertbar |
-| Gynäkologische OP Strahlen- | ja |
-| Welche? | € |
-| Wann? | 10.06.2020 26 Wochen vor dem Ausstellungsdatum |
-| Letzte Periode | 24.12.2020 2 Wochen vor dem Ausstellungsdatum |
-| Gravidität | nein |
-| Ausfluss / pathologische Blutung | ja |
-| IUP | nein |
-| Einnahme von Ovulationshemmer / sonstige | nein |
-| Klinischer Befund | auffällig |
-| Erläuterungen (14) | Zervixkarzinom |
+| **Ausstellungsdatum** | 03.01.2021 |
+| **Auftragsnummer des Labors** | 0000000000006 |
+| **Alterskategorie** | <automatisch> |
+| **Auftragsart** | Abklärungsdiagnostik |
+| **Auftrag** | HPV-Test |
+| **Wurde bereits eine Krebsfrüherkennungsuntersu..** | ja, zuletzt |
+| **ja, zuletzt** | 11.2019 59 Wochen vor dem Ausstellungsdatum |
+| **Gruppe** | III |
+| **HPV-Impfung** | unklar |
+| **HPV-HR-Testergebnis** | liegt vor |
+| **liegt vor (positiv/negativ/nicht verwertbar)** | nicht verwertbar |
+| **Gynäkologische OP Strahlen-** | ja |
+| **Welche?** | € |
+| **Wann?** | 10.06.2020 26 Wochen vor dem Ausstellungsdatum |
+| **Letzte Periode** | 24.12.2020 2 Wochen vor dem Ausstellungsdatum |
+| **Gravidität** | nein |
+| **Ausfluss / pathologische Blutung** | ja |
+| **IUP** | nein |
+| **Einnahme von Ovulationshemmer / sonstige** | nein |
+| **Klinischer Befund** | auffällig |
+| **Erläuterungen (14)** | Zervixkarzinom |
 
 Digitales Muster 39 als PDF-Dokument für Malta. Prüfunterlagen (vollständig/unvollständig/keine/unklar) oder Chemotherap… Hormonanwendung -Testuntersuchung - signieren und exportieren:
 
 
 ---
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Vertragsarztstempel / Unterschrift des Arztes | 398212400  Praxis Dr. med. Heribert Topp-Glücklich  776299002  Schölz  Marian  Musterstr. 1  64297 Darmstadt  06151 / 1111111  06151 / 2222222 |
-| Unterschrift (QES) | elektr. Signatur des Einsenders einfügen |
+| **Vertragsarztstempel / Unterschrift des Arztes** | 398212400  Praxis Dr. med. Heribert Topp-Glücklich  776299002  Schölz  Marian  Musterstr. 1  64297 Darmstadt  06151 / 1111111  06151 / 2222222 |
+| **Unterschrift (QES)** | elektr. Signatur des Einsenders einfügen |
 
 - 3. digitales Muster signieren
 
@@ -1599,10 +1599,10 @@ Digitales Muster 39 als PDF-Dokument für Malta. Prüfunterlagen (vollständig/u
 
 |  |  |
 |---|---|
-| Testziel | Export des LDT-Befundes. |
-| Voraussetzung | Sendendes Labor entspricht den Daten des Labors [Abschnitt 1.6.3 Stammdaten]  Einsender bzw. Empfänger entspricht den Daten des Einsenders [Abschn Versichertendatendaten: Malta [XML_20] |
-| Einzureichende |  |
-| Hinweis | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
+| **Testziel** | Export des LDT-Befundes. |
+| **Voraussetzung** | Sendendes Labor entspricht den Daten des Labors [Abschnitt 1.6.3 Stammdaten]  Einsender bzw. Empfänger entspricht den Daten des Einsenders [Abschn Versichertendatendaten: Malta [XML_20] |
+| **Einzureichende** |  |
+| **Hinweis** | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden.**
 
@@ -1610,18 +1610,18 @@ Digitales Muster 39 als PDF-Dokument für Malta. Prüfunterlagen (vollständig/u
 
 - 2. Befundspezifische Daten erfassen:
 
-| FELDER | INHALT |
-| Befundinformationen | |
+\| **FELDER** | **INHALT** |
+| **Befundinformationen** | |
 |---|---|
-| Status (Befund/Bericht) | Auftrag abgeschlossen |
-| Material | |
-| Probenmaterial-Ident: | SE |
-| Probenmaterial-Bezeichnung: | Serum |
-| Leistung | |
-| Test-Ident | KBJK |
-| Testbezeichnung | KBV-Verfahren JK |
-| Ergebnisstatus | Befundergebnis |
-| Ergebnis-Wert | 4.7 |
+| **Status (Befund/Bericht)** | Auftrag abgeschlossen |
+| **Material** | |
+| **Probenmaterial-Ident:** | SE |
+| **Probenmaterial-Bezeichnung:** | Serum |
+| **Leistung** | |
+| **Test-Ident** | KBJK |
+| **Testbezeichnung** | KBV-Verfahren JK |
+| **Ergebnisstatus** | Befundergebnis |
+| **Ergebnis-Wert** | 4.7 |
 
 -
 
@@ -1630,13 +1630,13 @@ Die exportierte LDT-Datei. Dateinamenskonvention beachten, siehe Kapitel 1.5.3 P
 
 ---
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Einheitensystem des Messwertes / | 1 |
-| MaßeEinheit des Messwertes / | ng/l |
-| Normalwertspezifikation | 10 |
-| Testbezogene Hinweise | Eine Kontrolle in ca. 4 Wochen wird empfohlen. |
-| Gebührennummer (GNR) | 32094 |
+| **Einheitensystem des Messwertes /** | 1 |
+| **MaßeEinheit des Messwertes /** | ng/l |
+| **Normalwertspezifikation** | 10 |
+| **Testbezogene Hinweise** | Eine Kontrolle in ca. 4 Wochen wird empfohlen. |
+| **Gebührennummer (GNR)** | 32094 |
 
 - 3. Eine LDT Befund Datei (.ldt) erstellen und exportieren.
 
@@ -1646,10 +1646,10 @@ Die exportierte LDT-Datei. Dateinamenskonvention beachten, siehe Kapitel 1.5.3 P
 
 |  |  |
 |---|---|
-| Testziel | Export von LDT-Befund |
-| Voraussetzung | Einsender bzw. Sender des Auftrags entspricht den Daten des Einsenders |
-| Einzureichende |  |
-| Hinweis | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
+| **Testziel** | Export von LDT-Befund |
+| **Voraussetzung** | Einsender bzw. Sender des Auftrags entspricht den Daten des Einsenders |
+| **Einzureichende** |  |
+| **Hinweis** | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden.**
 
@@ -1657,19 +1657,19 @@ Die exportierte LDT-Datei. Dateinamenskonvention beachten, siehe Kapitel 1.5.3 P
 
 - 2. Erfassung der auftragsspezifischen Daten.
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Scheinuntergruppe | 27 |
-| Ausstellungsdatum | 11.01.2021 |
-| Kurativ / Präventiv / ESS / bei belegärztl.icher | Kurativ |
-| Unfall, Unfallfolgen | ja |
-| Kontrolluntersuchung einer bekannten Infektion | ja |
-| Eingeschränkter Leistungsanspruch gemäß §16 | ja |
-| Eintragung nur bei Weiterüberweisungbehandlung | ja (Daten des Erstveranlassers) |
-| Materiala Abnahme/Entnahmedatum | 11.01.2021 1 Tag vor dem Ausstellungsdatum |
-| Materiala Abnahme/Entnahmeuhrzeit | 12:10 Uhr |
-| Telefonnummer | 06151 / 1111111 |
-| Faxnummer | 06151 / 2222222 |
+| **Scheinuntergruppe** | 27 |
+| **Ausstellungsdatum** | 11.01.2021 |
+| **Kurativ / Präventiv / ESS / bei belegärztl.icher** | Kurativ |
+| **Unfall, Unfallfolgen** | ja |
+| **Kontrolluntersuchung einer bekannten Infektion** | ja |
+| **Eingeschränkter Leistungsanspruch gemäß §16** | ja |
+| **Eintragung nur bei Weiterüberweisungbehandlung** | ja (Daten des Erstveranlassers) |
+| **Materiala Abnahme/Entnahmedatum** | 11.01.2021 1 Tag vor dem Ausstellungsdatum |
+| **Materiala Abnahme/Entnahmeuhrzeit** | 12:10 Uhr |
+| **Telefonnummer** | 06151 / 1111111 |
+| **Faxnummer** | 06151 / 2222222 |
 
 -
 
@@ -1680,30 +1680,30 @@ Wertes nach Norm Wertes  [Abschnitt 1.6.3 Stammdaten] Die exportierte LDT-Datei.
 
 - 3. Eine LDT Auftrag Datei (.ldt) erstellen und exportieren.
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Diagnose / Verdachtsdiagnose | Angeborenes Jodmangelsyndrom |
-| Befund / Medikation | Befund |
-| Dringlichkeit | Eilig |
-| Anforderungen | Untersuchung auf Schilddrüsenunterfunktion |
+| **Diagnose / Verdachtsdiagnose** | Angeborenes Jodmangelsyndrom |
+| **Befund / Medikation** | Befund |
+| **Dringlichkeit** | Eilig |
+| **Anforderungen** | Untersuchung auf Schilddrüsenunterfunktion |
 
 
 ---
 
 4 REFERENZIERTE DOKUMENTE
 
-|  |  |
-| Allgemeine Informationen | |
+\|  |  |
+| **Allgemeine Informationen** | |
 |---|---|
 | KBV_ITA_RLEX_RiLi_Zert | Zertifizierungsrichtlinie der KBV |
-| Datensatz- und Schnittstellenbeschreibung | |
+| **Datensatz- und Schnittstellenbeschreibung** | |
 | KBV_ITA_VGEX_Datensatzbeschreibung_KVDT | Datensatzbeschreibung KVDT |
 | KBV_ITA_VGEX_Datensatzbeschreibung_SDKV | Datensatzbeschreibung KV-Spezifika- |
 | KBV_ITA_VGEX_Schnittstelle_SDKT | Datensatzbeschreibung Kostenträger- |
-| Stammdateien (nur für Prüfverfahren geeignet) | |
+| **Stammdateien (nur für Prüfverfahren geeignet)** | |
 | 74E13101.sdkv.prf.zip | modifizierte KV-Spezifika-Stammdatei |
 | 74E16101.sdkt.prf.zip | modifizierte Kostenträger- |
-| Labordatenkommunikation | |
+| **Labordatenkommunikation** | |
 | KBV_ITA_VGEX_Anforderungskatalog_Labordatenkommunikation | Anforderungskatalog |
 | KBV_ITA_VGEX_Technisches_Handbuch_DiMus | Technisches Handbuch Digitale |
 | KBV_ITA_VGEX_EE_LDK | Antrag auf Zertifizierung (Ergänzende |

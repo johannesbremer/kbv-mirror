@@ -1,8 +1,8 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
 ## MUSTER 13  HEILMITTELVERORDNUNG
 

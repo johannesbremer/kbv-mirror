@@ -1,12 +1,12 @@
-Zur Ermittlung des **DAS-28-Wertes** müssen folgende vier Parameter erfasst werden:
+Zur Ermittlung des **DAS-28-Wertes**
 
 (1) **Anzahl der druckschmerzhaften Gelenke**
 
-Die 14 definierten Gelenke werden **sowohl auf der rechten als auch auf der linken Körperseite**
+Die 14 definierten Gelenke werden  beurteilt, sodass eine Anzahl von 28 zu beurteilenden Gelenken resultiert. Beurteilen Sie bitte für jedes
 
-beurteilt, sodass eine Anzahl von 28 zu beurteilenden Gelenken resultiert. Beurteilen Sie bitte für jedes  der folgenden 14 Gelenke **jeweils rechts- und linksseitig**
+der folgenden 14 Gelenke
 
-**Gelenk (druckschmerzhaft) R L**
+**Gelenk (druckschmerzhaft) R**
 
 1. Schultergelenk
 
@@ -38,13 +38,9 @@ beurteilt, sodass eine Anzahl von 28 zu beurteilenden Gelenken resultiert. Beurt
 
 (2) **Anzahl der geschwollenen Gelenke**
 
-Die 14 definierten Gelenke werden **sowohl auf der rechten als auch auf der linken Körperseite**
-
-beurteilt, sodass eine Anzahl von 28 zu beurteilenden Gelenken resultiert. Beurteilen Sie bitte für jedes  der folgenden 14 Gelenke **jeweils rechts- und linksseitig**
+Die 14 definierten Gelenke werden  beurteilt, sodass eine Anzahl von 28 zu beurteilenden Gelenken resultiert. Beurteilen Sie bitte für jedes  der folgenden 14 Gelenke
 
 **Gelenk (geschwollen) R**
-
-**L**
 
 1. Schultergelenk
 
@@ -65,6 +61,20 @@ beurteilt, sodass eine Anzahl von 28 zu beurteilenden Gelenken resultiert. Beurt
 9. Fingermittelgelenk PIP 1
 
 10. Fingermittelgelenk PIP 2
+
+müssen folgende vier Parameter erfasst werden:
+
+**sowohl auf der rechten als auch auf der linken Körperseite**
+
+**jeweils rechts- und linksseitig**
+
+**L**
+
+**sowohl auf der rechten als auch auf der linken Körperseite**
+
+**jeweils rechts- und linksseitig**
+
+**L**
 
 , ob es **druckschmerzhaft** ist oder nicht:
 

@@ -442,13 +442,11 @@ Sonstige:: **Mitarbeiter (Practitioner )**
 
 ## KBV_PR_AW_Bundle_Termin
 
-Sonstige::
-
 Sonstige:: **Patient(Patient)**
 
 Sonstige:: **Termin(Appointment)**
 
-**BehandelnderFunktion(Practitionerrole)**
+Sonstige:: **BehandelnderFunktion(Practitionerrole)**
 
 Sonstige:: **Behandeldner (Practitioner )**
 

@@ -165,10 +165,10 @@
 
 ---
 
-|  | **Statusmodell** |  |  | **(vorläufig)** |
-|---|---|---|---|---|
-|  | **DIGITALISIERUNGSPROJEKTE-** | **BEISPIEL** | **EHKP** |  |
-| 31. ANBIETERMEETING | DER | KBV AM | 18. SEPTEMBER | 2025 |
+| **Statusmodell** |  | **(vorläufig)** |
+|---|---|---|
+| **DIGITALISIERUNGSPROJEKTE-** | **BEISPIEL** | **EHKP** |
+| 31. ANBIETERMEETING | DER KBV AM | 18. SEPTEMBER 2025 |
 
 Statusmodell (vorläufig) - BEISPIEL EHKP- **DIGITALISIERUNGSPROJEKT EHKP**
 

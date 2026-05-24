@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 27. MÄRZ 2024   VERSION: 1.5   DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 27. MÄRZ 2024   VERSION: 1.5   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # PRÜFPAKET VERORDNUNG DIGITALER  GESUNDHEITSANWENDUNGEN
@@ -103,7 +103,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.5 | 27.03.2024 | KBV | Redaktionelle Korrektur der |  | 11 |
 | 1.4 | 21.02.2024 | KBV | Redaktionelle Korrektur der |  | 10 |
@@ -300,75 +300,75 @@ Die Verwendung einer Import-Schnittstelle ist nur für Prüfzwecke erlaubt und m
 
 1.6.2.1 Althaus [XML_05]
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Nachname | Althaus |
-| Vorname | Brigitte |
-| Geburtsdatum | 12.07.1978 |
-| Versicherten_ID | A120778335 |
-| Straße | Potsdamer Platz |
-| Hausnummer | 19 |
-| PLZ | 10117 |
-| Wohnsitzländercode | D |
-| Ort | Berlin |
-| WOP | 72 |
-| Versichertenart | 1 |
-| Geschlecht | W |
-| Versicherungsschutz Beginn | 01.01.2011 |
-| Kostentraegerkennung | 109723913 |
-| Kostentraegername | BKK Verkehrsbau Union |
+| **Nachname** | Althaus |
+| **Vorname** | Brigitte |
+| **Geburtsdatum** | 12.07.1978 |
+| **Versicherten_ID** | A120778335 |
+| **Straße** | Potsdamer Platz |
+| **Hausnummer** | 19 |
+| **PLZ** | 10117 |
+| **Wohnsitzländercode** | D |
+| **Ort** | Berlin |
+| **WOP** | 72 |
+| **Versichertenart** | 1 |
+| **Geschlecht** | W |
+| **Versicherungsschutz Beginn** | 01.01.2011 |
+| **Kostentraegerkennung** | 109723913 |
+| **Kostentraegername** | BKK Verkehrsbau Union |
 
 1.6.2.2 Schimmelpfennig-Hammerschmidt Federmannssohn [XML_22]
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Nachname | Schimmelpfennig-Hammerschmidt Federmannssohn |
-| Vorname | Ingrid |
-| Titel | Dr. |
-| Namenszusatz | Erbprinzessin |
-| Vorsatzwort | von und zu der |
-| Geburtsdatum | 31.01.2010 |
-| Versicherten_ID | M310119802 |
-| Straße | Anneliese- und Georg-von-Groscurth-Plaetzchen |
+| **Nachname** | Schimmelpfennig-Hammerschmidt Federmannssohn |
+| **Vorname** | Ingrid |
+| **Titel** | Dr. |
+| **Namenszusatz** | Erbprinzessin |
+| **Vorsatzwort** | von und zu der |
+| **Geburtsdatum** | 31.01.2010 |
+| **Versicherten_ID** | M310119802 |
+| **Straße** | Anneliese- und Georg-von-Groscurth-Plaetzchen |
 
 in den einzelnen Prüffällen kann entweder über das Einlesen (mit einer
 
 
 ---
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Hausnummer | 149-C |
-| Anschriftenzusatz | 5. OG - Hinterhof |
-| PLZ | 12489 |
-| Wohnsitzländercode | D |
-| Ort | Berlin |
-| PostfachPLZ | 10117 |
-| PostfachOrt | Berlin |
-| Postfach | 120264 |
-| PostfachWohnsitzländercode | D |
-| WOP | 72 |
-| Versichertenart | 3 |
-| Geschlecht | W |
-| Versicherungsschutz Beginn | 01.04.2012 |
-| Versicherungsschutz Ende | 30.04.2040 |
-| Kostentraegerkennung | 108416214 |
-| Kostentraegername | AOK Bayern |
-| DMP_Kennzeichnung | 6 |
+| **Hausnummer** | 149-C |
+| **Anschriftenzusatz** | 5. OG - Hinterhof |
+| **PLZ** | 12489 |
+| **Wohnsitzländercode** | D |
+| **Ort** | Berlin |
+| **PostfachPLZ** | 10117 |
+| **PostfachOrt** | Berlin |
+| **Postfach** | 120264 |
+| **PostfachWohnsitzländercode** | D |
+| **WOP** | 72 |
+| **Versichertenart** | 3 |
+| **Geschlecht** | W |
+| **Versicherungsschutz Beginn** | 01.04.2012 |
+| **Versicherungsschutz Ende** | 30.04.2040 |
+| **Kostentraegerkennung** | 108416214 |
+| **Kostentraegername** | AOK Bayern |
+| **DMP_Kennzeichnung** | 6 |
 
 **1.6.3** **Praxisdaten / Arztstempel**
 
 |  |  |
 |---|---|
-| Betriebsstättennummer (BSNR): | 398212400 |
-| BSNR-Bezeichnung: | Dr. med. Heribert Topp-Glücklich |
-| Lebenslange Arztnummer (LANR): | 776299002 |
-| Arztname: | Topp-Glücklich |
-| Vorname: | Heribert |
-| Straße und Hausnummer: | Musterstr. 1 |
-| PLZ/Ort: | 64297 Darmstadt |
-| Telefon: | 06151 / 1111111 |
-| Telefax: | 06151 / 2222222 |
+| **Betriebsstättennummer (BSNR):** | 398212400 |
+| **BSNR-Bezeichnung:** | Dr. med. Heribert Topp-Glücklich |
+| **Lebenslange Arztnummer (LANR):** | 776299002 |
+| **Arztname:** | Topp-Glücklich |
+| **Vorname:** | Heribert |
+| **Straße und Hausnummer:** | Musterstr. 1 |
+| **PLZ/Ort:** | 64297 Darmstadt |
+| **Telefon:** | 06151 / 1111111 |
+| **Telefax:** | 06151 / 2222222 |
 
 ### 1.6.4 Produktdaten
 
@@ -379,12 +379,12 @@ aktuellen Daten des DiGA-
 
 ---
 
-| DIGITALE GESUNDHEITSANWENDUNG | PZN | PRÜFFÄLLE |
+| **DIGITALE GESUNDHEITSANWENDUNG** | **PZN** | **PRÜFFÄLLE** |
 |---|---|---|
-| Selfapys Online-Kurs bei Generalisierter Angststörung | 17554323 | PF01 |
-| Velibra | 16879359 | PF02 |
-| Iuvenis | 09999999 | PF03 |
-| Kalmeda | 16876740 | PF04 |
+| **Selfapys Online-Kurs bei Generalisierter Angststörung** | 17554323 | PF01 |
+| **Velibra** | 16879359 | PF02 |
+| **Iuvenis** | 09999999 | PF03 |
+| **Kalmeda** | 16876740 | PF04 |
 
 ### 1.6.5 Falldarstellung
 
@@ -429,8 +429,8 @@ Das Ausstellungsdatum der Verordnungen kann jeweils so gewählt werden, dass es 
 
 **2.1** **VERORDNUNG NACH PRODUKTSUCHE**
 
-| PRÜFFALL 01 |
-|---|
+\| **PRÜFFALL 01** |
+\|---|
 
 **Anweisung 1:**
 
@@ -468,25 +468,25 @@ Falls die konditionale Pflichtfunktion KP3-020 unterstützt werden muss, ist wä
 
 - die Möglichkeit besteht, angezeigte Werbefenster durch eine einzige Aktion auszuschalten.
 
-| Felder Muster 16 | Daten |
+| **Felder Muster 16** | **Daten** |
 |---|---|
-| Patient/Patientin | XML Verzeichnisname: XML_05 |
-| PZN | 17554323 |
-| Name der DiGA-Verordnungseinheit | Selfapy Angst 001 |
+| **Patient/Patientin** | XML Verzeichnisname: XML_05 |
+| **PZN** | 17554323 |
+| **Name der DiGA-Verordnungseinheit** | Selfapy Angst 001 |
 
-| Suchkriterien | Daten |
+| **Suchkriterien** | **Daten** |
 |---|---|
-| ICD-10-GM-Diagnoseklartext einer Diagnose | Generalisierte Angststörung |
-| Altersgruppen der Ziel- /Patientengruppen | Erwachsene(r) (18-65 Jahre) |
+| **ICD-10-GM-Diagnoseklartext einer Diagnose** | Generalisierte Angststörung |
+| **Altersgruppen der Ziel- /Patientengruppen** | Erwachsene(r) (18-65 Jahre) |
 
 der Indikationen
 
 ---
 
-| Fragenkatalog | Frage |
+| **Fragenkatalog** | **Frage** |
 |---|---|
-| Datenschutz und Datensicherheit | die digitale Gesundheitsanwendung nutzende Person |
-| Positiver Versorgungseffekt | Die digitale Gesundheitsanwendung enthält ein |
+| **Datenschutz und Datensicherheit** | die digitale Gesundheitsanwendung nutzende Person |
+| **Positiver Versorgungseffekt** | Die digitale Gesundheitsanwendung enthält ein |
 
 **Insbesondere folgende Pflichtfunktionen sind betroffen:**
 
@@ -516,8 +516,8 @@ der Indikationen
 
 **2.2** **VERORDNUNG NACH INDIKATIONSBEZOGENER VERGLEICHSSUCHE**
 
-| PRÜFFALL 02 |
-|---|
+\| **PRÜFFALL 02** |
+\|---|
 
 **Anweisung:**
 
@@ -531,11 +531,11 @@ Dokumentieren Sie den vollständigen Erfassungsdialog  angezeigter Werbung durch
 
 Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach  die Praxisdaten gemäß Kapitel 1.6.3 als Arztstempel aufzudrucken.
 
-| Felder Muster 16 | Daten |
+| **Felder Muster 16** | **Daten** |
 |---|---|
-| Patient/Patientin | XML Verzeichnisname: XML_05 |
-| PZN | 16879359 |
-| Name der DiGA-Verordnungseinheit | velibra 001 |
+| **Patient/Patientin** | XML Verzeichnisname: XML_05 |
+| **PZN** | 16879359 |
+| **Name der DiGA-Verordnungseinheit** | velibra 001 |
 
 -
 
@@ -590,8 +590,8 @@ Erzwingt die digitale Gesundheitsanwendung, dass eine die für ihre Authentisier
 
 **2.3** **FREITEXT-VERORDNUNG**
 
-| PRÜFFALL 03 |
-|---|
+\| **PRÜFFALL 03** |
+\|---|
 
 **Bedingung:**
 
@@ -609,11 +609,11 @@ Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben
 
 die Praxisdaten gemäß Kapitel 1.6.3 als Arztstempel aufzudrucken.
 
-| Felder Muster 16 | Daten |
+| **Felder Muster 16** | **Daten** |
 |---|---|
-| Patient/Patientin | XML Verzeichnisname: XML_22 |
-| PZN | 09999999 |
-| Name der DiGA-Verordnungseinheit | iuvenis 001 |
+| **Patient/Patientin** | XML Verzeichnisname: XML_22 |
+| **PZN** | 09999999 |
+| **Name der DiGA-Verordnungseinheit** | iuvenis 001 |
 
 **Insbesondere folgende Pflichtfunktionen sind betroffen:**
 
@@ -638,8 +638,8 @@ möglich ist. Dabei sind -
 
 **2.4** **VERORDNUNGSSTATISTIK**
 
-| PRÜFFALL 04 |
-|---|
+\| **PRÜFFALL 04** |
+\|---|
 
 **Anweisung 1:**
 
@@ -661,8 +661,8 @@ Wählen Sie aus der tabellarischen Übersicht nach Anweisung 1 die dokumentierte
 
 **2.5** **ANZEIGE NICHT VERORDNUNGSFÄHIGER DIGA**
 
-| PRÜFFALL 05 |
-|---|
+\| **PRÜFFALL 05** |
+\|---|
 
 **Bedingung:**
 
@@ -676,10 +676,10 @@ Anweisung) und lassen Sie sich anschließend zusätzlich auch die nicht verordnu
 
 Dokumentieren Sie den vollständigen Anwendungsdialog einschließlich möglicher Hinweissteuerung oder  angezeigter Werbung durch Screenshots. Dabei sollen alle in der Auswahlliste verfügbaren Information aus  den Daten des Produktverzeichnisses zur Anzeige gebracht werden.
 
-| Suchkriterien | Daten |
+| **Suchkriterien** | **Daten** |
 |---|---|
-| DiGA-Name | Kalmeda |
-| Altersgruppen der Ziel- /Patientengruppen | Erwachsene (älter als 65 Jahre) |
+| **DiGA-Name** | Kalmeda |
+| **Altersgruppen der Ziel- /Patientengruppen** | Erwachsene (älter als 65 Jahre) |
 
 **Insbesondere folgende Pflichtfunktionen sind betroffen:**
 
@@ -716,7 +716,7 @@ Dokumentieren Sie den vollständigen Anwendungsdialog einschließlich möglicher
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 | KBV_ITA_RLEX_Zert | Zertifizierungsrichtlinie der KBV |
 | KBV_ITA_FMEX_AAZ_VDGA | Antrag auf Zertifizierung |
 | VSD_5.2.0_Testfaelle_VX.X | Patientendaten für Prüffälle |

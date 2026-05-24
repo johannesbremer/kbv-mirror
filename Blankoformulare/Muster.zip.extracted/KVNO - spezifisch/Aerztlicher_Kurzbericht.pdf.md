@@ -92,11 +92,13 @@ Krankenhausaufenthalt von:
 
 Aufnahmegrund:
 
-**Änderung** **Ja / Nein**
-
 **Medikation Entlassung nach Abgleich mit Aufnahmemedikation**
 
-**Medikamenten-** **Veränderungen erfolgt**
+**Medikamenten-**
+
+**Änderung** **Veränderungen erfolgt**
+
+**Ja / Nein**
 
 Echo
 

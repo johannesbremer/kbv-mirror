@@ -127,18 +127,18 @@ interpretiert werden kann.
 
 Tabelle 1: Interpretation des DAS -28-Wertes
 
-| DAS-28-Wert | Krankheitsaktivität |
+| **DAS-28-Wert** | **Krankheitsaktivität** |
 |---|---|
-| < 2,6 | Remission |
-| ≥ 2,6 bis < 3,2 | Niedrige Krankheitsaktivität |
-| ≥ 3,2 bis ≤ 5,1 | Moderate Krankheitsaktivität |
-| > 5,1 | Hohe Krankheitsaktivität |
+| **< 2,6** | Remission |
+| **≥ 2,6 bis < 3,2** | Niedrige Krankheitsaktivität |
+| **≥ 3,2 bis ≤ 5,1** | Moderate Krankheitsaktivität |
+| **> 5,1** | Hohe Krankheitsaktivität |
 
 Tabelle 2: Berechnung des DAS-28-Wertes
 
-| DAS-28- |
-|---|
-| Legende: |
+\| DAS-28- |
+\|---|
+\| *Legende:* |
 
 Mit der kontinuierlichen und standardisierten Erhebung des DAS-28-Wertes können Sie die Änderungen der
 

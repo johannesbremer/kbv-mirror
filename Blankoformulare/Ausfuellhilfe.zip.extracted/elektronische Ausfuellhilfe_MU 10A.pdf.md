@@ -1,8 +1,8 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
 ## MUSTER 10A – ANFORDERUNGSSCHEIN FÜR  LABORATORIUMSUNTERSUCHUNGEN BEI LABORGEMEINSCHAFTEN
 

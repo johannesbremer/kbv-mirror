@@ -2,7 +2,7 @@
 
 Die Information über die regionale Verwendung obliegt den Kassenärztlichen Vereini- gungen.
 
-| Buchstabe | Kennzeichnung der Narkosen |
+| **Buchstabe** | **Kennzeichnung der Narkosen** |
 |---|---|
 | Z | für die EBM-Gebührenordnungspositionen (GOP) 05210, 05211, 05212, 05230, |
 | Y | für die Grundpauschalen GOP 05210R, 05211R, 05212R gibt es die GOP 05210Y, |

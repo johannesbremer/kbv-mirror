@@ -1,6 +1,6 @@
-|  | IT in der Arztpraxis |
+|  | ***IT in der Arztpraxis***** |
 |---|---|
-|  | Implementierungshinweise zur |
+|  | *Implementierungshinweise zur* |
 |  | [KBV_ITA_VGEX_Implementierungshinweise |
 |  |  |
 |  | Dezernat Digitalisierung und IT |
@@ -18,14 +18,14 @@ Schnittstelle Arzneimittelver- einbarungen (ARV) Umsetzung im Arzneimittelverord
 
 ### DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 2.02 | 12.12.2018 KBV |  | Anpassung des verweises auf das |  | 39 |
-| 2.01 | 12.11.2018 KBV |  | Redaktionelle Korrekturen    Anpassung der Infomaßnahmen um    Streichung der Kapitel „Me--   Anpassung der „indikationsgerechten  -    Aufnahme der „Umsetzung von kombi- |  | 28      15, 29,  30      32          36 |
-| 2.00 | 20.07.2016 KBV |  | Aufnahme des Kapitels „Umsetzung der |  | 32 |
-| 1.09 | 15.08.2012 KBV |  | Regelung zum Kostenvergleich auf    Die Regelung zu Infomaßnahmen, die |  | 28 |
+| 2.02 | 12.12.2018 KBV |  | Anpassung des verweises auf das |  | **39** |
+| 2.01 | 12.11.2018 KBV |  | Redaktionelle Korrekturen    Anpassung der Infomaßnahmen um    Streichung der Kapitel „Me--   Anpassung der „indikationsgerechten  -    Aufnahme der „Umsetzung von kombi- |  | **28 **    **15, 29,  30 **    **32 **        **36** |
+| 2.00 | 20.07.2016 KBV |  | Aufnahme des Kapitels „Umsetzung der |  | **32 ** |
+| 1.09 | 15.08.2012 KBV |  | Regelung zum Kostenvergleich auf    Die Regelung zu Infomaßnahmen, die |  | **28** |
 | 1.08 | 02.08.2012 KBV |  | Überarbeitung | redaktionell |  |
-| 1.07 | 02.06.2012 KBV |  | Die Erläuterung für die Kostenver- | Regelung | 17 |
+| 1.07 | 02.06.2012 KBV |  | Die Erläuterung für die Kostenver- | Regelung | **17** |
 
 Element <verweis_dokument> im Kapi- tel 15.2 Fachgruppen too Regelung“, „Qualitätssicherungsrege- lungen“ und „Studienregelungen“ wirtschaftlichen Wirkstoffauswahl (IWW)“ Korrekturen der Vorgaben für den Indikationbaum  nierten Verordnungszielen“ indikationsgerechten wirtschaftlichen Wirkstoffauswahl (IWW)“ DDD- bzw. PDD-Basis wird erweitert  um die Möglichkeit zur Angabe einer  Quote. Studienregelung, die Qualitätssiche- rungmaßnahmenregelung und die Be- handlungsalternativenregelung werden erweitert um die Möglichkeit, das An- zeigen von Texten und Dokumenten an Bedingungen bezüglich Alter und Ge- schlecht des Patienten/der Patientin zu knüpfen. kann auf Basis gleichsregelung wird hinsichtlich der KV-spezifischer PDD ang wandt werden. PDD (prescribed daily doses) ange- passt.
 
@@ -176,9 +176,7 @@ Element <verweis_dokument> im Kapi- tel 15.2 Fachgruppen too Regelung“, „Qua
 
 **...................................................................................... 18**
 
-**19**
-
-**Datenbank .... 19**
+**Datenbank**
 
 **.................... 19**
 
@@ -188,13 +186,17 @@ Element <verweis_dokument> im Kapi- tel 15.2 Fachgruppen too Regelung“, „Qua
 
 **...................................................................................... 21**
 
-**22**
-
-**.... 22**
-
 **.................................... 22**
 
 **.......................... 22**
+
+**19**
+
+**.... 19**
+
+**22**
+
+**.... 22**
 
 
 ---
@@ -875,11 +877,11 @@ Je nach Vereinbarung kann sich eine definierte Höchstquote auch auf den Verordn
 
 fachgruppenspezifische Warnhinweise („warnhin-
 
-*100
-
 **auf Basis der**
 
 vom AVS von der VoS ermit-
+
+*100
 
 
 ---
@@ -988,15 +990,11 @@ Die Vergleichsgruppe ist von der KV zu definieren und beinhaltet auch die entspr
 
 *Quote (%)*
 
-oder **auf Basis des Bruttoumsatzes**
+**auf Basis der Anzahl verordneter DDD auf Basis der**
 
-**auf Basis der Anzahl verordneter DDD**
+oder **auf Basis des Bruttoumsatzes** vom AVS von der VoS ermit-
 
 *100
-
-**auf Basis der**
-
-vom AVS von der VoS ermit-
 
 *DDDVergleichsgruppe*
 
@@ -1028,11 +1026,11 @@ und DDD für die Vergleichsgruppe inklusive der Biosimilar von der Landesebene b
 
 *100
 
+gewünscht, wird die Quote
+
 *100
 
 **„quote_biosimilar_verordnungen“**
-
-gewünscht, wird die Quote
 
 **auf den Verord-**
 
@@ -1523,7 +1521,7 @@ Bei einem als unerwünscht gekennzeichnten Präparat muss dem Anwender angezeigt
 
 **16 Referenzierte Dokumente**
 
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 |---|---|
 | [KBV_ITA_VGEX_Schnittstelle_ARV] | ARV-Schnittstellenbeschreibung, aktuelle Vers |
 | [EXT_ITA_VGEX_Anforderungskatalog_AVWG | Anforderungskatalog nach § 73 Abs. 8 SGB V für |

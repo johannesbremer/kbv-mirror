@@ -97,11 +97,9 @@ Ihrer Patientin -
 
 - Ihre Patientin bzw. Ihr Patienten gemäß ihrer -
 
-bzw.
+bzw. Ihres Patienten zum
 
-- Ihre Patientin bzw. Ihr Patient
-
-Ihres Patienten zum -
+- Ihre Patientin bzw. Ihr Patient -
 
 Asthmakontrolle (Angaben aus den letzten 4 Wochen) Alltagsaktivitäten Mindestens 3 der 4 kontrollierten Asthmas
 

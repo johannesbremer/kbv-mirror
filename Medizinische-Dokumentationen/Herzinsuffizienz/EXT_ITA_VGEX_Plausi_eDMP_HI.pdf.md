@@ -29,9 +29,9 @@
 
 #### Anlage 14: Datensatz für die indikationsspezifische Dokumentation:
 
-| Lfd | Dokumentationsparameter | Ausprägung | Plausibilitäten |
+| **Lfd** | **Dokumentationsparameter** | **Ausprägung** | **Plausibilitäten** |
 |---|---|---|---|
-|  | Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* | | |
+|  | **Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2*** | | |
 |  | Anamnese- und Befunddaten | | |
 | 1 | Serum-Elektrolyte und eGFR in | Ja / Nein | Pflichtfeld  Genau eine Angabe ist zulässig. |
 | 2 | Symptomatik | NYHA I /   NYHA II /   NYHA III /   NYHA IV | Pflichtfeld   Genau eine Angabe ist zulässig. |
@@ -45,7 +45,7 @@ Nr. Herzinsuffizienz “ erfolgt, sind die nachstehenden Felder der Anlage auszu
 
 ---
 
-| Lfd | Dokumentationsparameter | Ausprägung | Plausibilitäten |
+| **Lfd** | **Dokumentationsparameter** | **Ausprägung** | **Plausibilitäten** |
 |---|---|---|---|
 |  |  |  | Mehrfachnennungen sind möglich.  •  •  • |
 | 4a | Evidenzbasierte Zieldosis | Erreicht / Nicht erreicht / | Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich.    Eine Angabe ist erforderlich und nur dann zulässig, wenn in  •  •  •  •    Eine Angabe ist nicht zulässig, wenn in Feld 4 zum Parameter  - nur  - nur  - |
@@ -54,7 +54,7 @@ Nr. Wenn d ie Angabe „Ja“ erfolgt ist, kann gleichzeitig keine andere Angabe
 
 ---
 
-| Lfd | Dokumentationsparameter | Ausprägung | Plausibilitäten |
+| **Lfd** | **Dokumentationsparameter** | **Ausprägung** | **Plausibilitäten** |
 |---|---|---|---|
 | 5 | Betablocker | Ja / Nein / Kontraindikation | Pflichtfeld  Mindestens eine Angabe ist erforderlich.  Mehrfachnennungen sind möglich.  •  • |
 | 5a | Evidenzbasierte Zieldosis  Betablocker | Erreicht / Nicht erreicht / | Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich.    Eine Angabe ist erforderlich und nur dann zulässig, wenn in  •  •  •    •    Eine Angabe ist nicht zulässig, wenn in Feld 5 zum Parameter  - |
@@ -64,7 +64,7 @@ Nr. Wenn d ie Angabe „Ja“ erfolgt ist, kann gleichzeitig keine andere Angabe
 
 ---
 
-| Lfd | Dokumentationsparameter | Ausprägung | Plausibilitäten |
+| **Lfd** | **Dokumentationsparameter** | **Ausprägung** | **Plausibilitäten** |
 |---|---|---|---|
 |  |  |  | • • |
 | 6a | Evidenzbasierte Zieldosis  MRA | Erreicht / Nicht erreicht / Titrationsphase / Max. tolerierte Dosis erreicht | Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich.    Eine Angabe ist erforderlich und nur dann zulässig, wenn in  • • • •   Eine Angabe ist nicht zulässig, wenn in Feld 6 zum Parameter  Angaben erfolgt sind:  - |
@@ -74,7 +74,7 @@ Nr. Wenn die Angabe „Ja“ erfolgt ist, kann gleichzeitig keine andere Angabe 
 
 ---
 
-| Lfd | Dokumentationsparameter | Ausprägung | Plausibilitäten |
+| **Lfd** | **Dokumentationsparameter** | **Ausprägung** | **Plausibilitäten** |
 |---|---|---|---|
 |  | Schulung | | |
 | 8 | Herzinsuffizienz-spezifische | Ja / Nein | Pflichtfeld  Genau eine Angabe ist zulässig. |
@@ -84,11 +84,11 @@ Nr. Wenn die Angabe „Ja“ erfolgt ist, kann gleichzeitig keine andere Angabe 
 | 11 | Regelmäßiges körperliches | Ja / Nein / Nicht möglich | Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich.   „ Eine Angabe ist optional, wenn in Feld 2  Wenn die Angabe „Ja“ erfolgt ist, kann gleichzeitig keine  Die Angaben |
 | 12 | Führen eines Gewichtsprotokolls | Ja / Nein / Nicht erforderlich | Pflichtfeld  Mindestens eine Angabe ist erforderlich.  Mehrfachnennungen sind möglich. |
 
-Nr. Schulung empfohlen (bei aktueller Dokumentation)  DMP an einer spezifische Schulung wahrgenommen  Training Bei letzter Dokumentation keine Schulung empfohlen  einer Folgedokumentation auszufüllen ist. Eine Angabe ist erforderlich, wenn in Feld 2 Symptomatik NYHA I  oder NYHA II  oder NYHA III Symptomatik NYHA IV  erfolgt ist. andere Angabe erfolgen. „Nein“ und „Nicht möglich“ können einzeln oder gemeinsam erfolgen.
+Nr. Schulung empfohlen (bei aktueller Dokumentation)  DMP an einer spezifische Schulung wahrgenommen  Bei letzter Dokumentation keine Schulung empfohlen  Training einer Folgedokumentation auszufüllen ist. Eine Angabe ist erforderlich, wenn in Feld 2 Symptomatik NYHA I  oder NYHA II  oder NYHA III Symptomatik NYHA IV  erfolgt ist. andere Angabe erfolgen. „Nein“ und „Nicht möglich“ können einzeln oder gemeinsam erfolgen.
 
 ---
 
-| Lfd | Dokumentationsparameter | Ausprägung | Plausibilitäten |
+| **Lfd** | **Dokumentationsparameter** | **Ausprägung** | **Plausibilitäten** |
 |---|---|---|---|
 |  |  |  | Wenn die Angabe „Ja“ erfolgt ist, kann gleichzeitig  Die Angaben „Nein“ und „Nicht erforderlich“ können einzeln |
 

@@ -63,9 +63,11 @@ Seite 2 von 8 / KBV / Antrag auf Zertifizierung DMP-Brustkrebs / Version: 4.4 / 
 
 Arzt/Ärztin[ ]
 
-Softwarehaus[ ]
+Softwarehaus
 
 Sonstiges[ ]
+
+[ ]
 
 
 ---
@@ -116,9 +118,9 @@ vorhanden) des Zertifizierungsgegenstandes an.
 
 -Betriebssysteme unterstützt werden.
 
-[ ]
-
 Linux
+
+[ ]
 
 
 ---

@@ -1,15 +1,15 @@
-|  |
-|---|
+\|  |
+\|---|
 
 # PRÜFPAKET EARZTBRIEF
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_EARZTBRIEF]
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 15. NOVEMBER 2024   VERSION: 3.6   DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 15. NOVEMBER 2024   VERSION: 3.6   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
@@ -76,7 +76,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 3.6 | 15.11.2025 | KBV | Erweiterung Prüffall 01  Anpassung Prüffall 07  Entfall Prüffall 08 | Obligatorischer Nachweis | 8  13 |
 | 3.5 | 15.08.2024 | KBV | Klarstellung Beispiel Struktur |  | 5 |
@@ -271,11 +271,11 @@ Für die nachfolgenden Prüffälle werden folgende Patienten benötigt:
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF01 |
-| Testziel | Versand eines eArztbriefes ohne automatische Abrechnung |
-| Voraussetzung | Ordnungsgemäße Einbindung des behandelnden Arztes und des Empfängers des  Es handelt sich um den ersten zu versendenden eArztbrief im Quartal. |
-| Aktion |  |
-| Einzureichende |  |
+| **Prüffall-ID** | PF01 |
+| **Testziel** | Versand eines eArztbriefes ohne automatische Abrechnung |
+| **Voraussetzung** | Ordnungsgemäße Einbindung des behandelnden Arztes und des Empfängers des  Es handelt sich um den ersten zu versendenden eArztbrief im Quartal. |
+| **Aktion** |  |
+| **Einzureichende** |  |
 
 - a) Auswahl Erstellung des eArztbriefes
 
@@ -311,7 +311,7 @@ syntaktisch und semantisch korrekten eArztbrief zu versenden.
 |  |  |
 |---|---|
 |  |  |
-| Hinweis | Sowohl Empfänger und Sender des eArztbriefes als auch der betreffende Patient ist  Die medizinischen Informationen gemäß Aktion 1. müssen mindestens in der PDF |
+| **Hinweis** | Sowohl Empfänger und Sender des eArztbriefes als auch der betreffende Patient ist  Die medizinischen Informationen gemäß Aktion 1. müssen mindestens in der PDF |
 
 **Tabelle 1: Prüffalltabelle**
 
@@ -319,12 +319,12 @@ syntaktisch und semantisch korrekten eArztbrief zu versenden.
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF02 |
-| Testziel | Versand eines eArztbriefes mit automatischer Abrechnung |
-| Voraussetzung | Ordnungsgemäße Einbindung des behandelnden Arztes und des Empfängers des |
-| Aktion |  |
-| Einzureichende |  |
-| Hinweis | Sowohl Empfänger und Sender des eArztbriefes als auch d |
+| **Prüffall-ID** | PF02 |
+| **Testziel** | Versand eines eArztbriefes mit automatischer Abrechnung |
+| **Voraussetzung** | Ordnungsgemäße Einbindung des behandelnden Arztes und des Empfängers des |
+| **Aktion** |  |
+| **Einzureichende** |  |
+| **Hinweis** | Sowohl Empfänger und Sender des eArztbriefes als auch d |
 
 **Tabelle 2: Prüffalltabelle**
 
@@ -344,12 +344,12 @@ Empfang eines eArztbriefes mit automatischer Abrechnung
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF03 |
-| Testziel | Empfang eines eArztbriefes mit automatischer Abrechnung |
-| Voraussetzung | Ordnungsgemäße Einbindung des behandelnden Arztes und des Senders des  eArztbrief-   Der Patient „Karl   eArztbrief-Lieferung zu |
-| Aktion |  |
-| Einzureichende |  |
-| Hinweis | Die Patientendaten im PVS müssen sich von den Patientendaten der eArztbrief |
+| **Prüffall-ID** | PF03 |
+| **Testziel** | Empfang eines eArztbriefes mit automatischer Abrechnung |
+| **Voraussetzung** | Ordnungsgemäße Einbindung des behandelnden Arztes und des Senders des  eArztbrief-   Der Patient „Karl   eArztbrief-Lieferung zu |
+| **Aktion** |  |
+| **Einzureichende** |  |
+| **Hinweis** | Die Patientendaten im PVS müssen sich von den Patientendaten der eArztbrief |
 
 empfangen.
 
@@ -363,12 +363,12 @@ Prüfunterlagen Lieferung zum Patienten „Karl Friederich Schaumberg“ (XML Ve
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF04 |
-| Testziel | Empfang eines eArztbriefes bei einem bekannten Patienten ohne Arzt |
-| Voraussetzung | Ordnungsgemäße Einbindung des behandelnden Arztes und des Senders des  Die Patientin „Brigitte Althaus“ (XML_05) wurde bereits im Vorquartal im System  eArztbrief- Es bestand im laufenden Quartal noch kein Arzt |
-| Aktion |  |
-| Einzureichende |  |
-| Hinweis | Die Patientendaten im PVS müssen sich von den Patient |
+| **Prüffall-ID** | PF04 |
+| **Testziel** | Empfang eines eArztbriefes bei einem bekannten Patienten ohne Arzt |
+| **Voraussetzung** | Ordnungsgemäße Einbindung des behandelnden Arztes und des Senders des  Die Patientin „Brigitte Althaus“ (XML_05) wurde bereits im Vorquartal im System  eArztbrief- Es bestand im laufenden Quartal noch kein Arzt |
+| **Aktion** |  |
+| **Einzureichende** |  |
+| **Hinweis** | Die Patientendaten im PVS müssen sich von den Patient |
 
 **Tabelle 4: Prüffalltabelle**
 
@@ -386,11 +386,11 @@ Prüfunterlagen Patientenkontakt im aktuellen Quartal angelegt.  Lieferung zur P
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF05 |
-| Testziel | Empfang eines eArztbriefes bei unbekannten Patienten |
-| Voraussetzung | Ordnungsgemäße Einbindung des behandelnden Arztes und des Senders des  eArztbrief- Der Patient „Martin Frühstück“ ist der Praxis nicht bekannt (k |
-| Aktion |  |
-| Einzureichende |  |
+| **Prüffall-ID** | PF05 |
+| **Testziel** | Empfang eines eArztbriefes bei unbekannten Patienten |
+| **Voraussetzung** | Ordnungsgemäße Einbindung des behandelnden Arztes und des Senders des  eArztbrief- Der Patient „Martin Frühstück“ ist der Praxis nicht bekannt (k |
+| **Aktion** |  |
+| **Einzureichende** |  |
 
 **Tabelle 5: Prüffalltabelle**
 
@@ -398,11 +398,11 @@ Prüfunterlagen Patientenkontakt im aktuellen Quartal angelegt.  Lieferung zur P
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF06 |
-| Testziel | Zuordnung von Patient und eArztbrief |
-| Voraussetzung | Der eArztbrief aus PF 05 zum Patien |
-| Aktion |  |
-| Einzureichende |  |
+| **Prüffall-ID** | PF06 |
+| **Testziel** | Zuordnung von Patient und eArztbrief |
+| **Voraussetzung** | Der eArztbrief aus PF 05 zum Patien |
+| **Aktion** |  |
+| **Einzureichende** |  |
 
 **Tabelle 6: Prüffalltabelle**
 
@@ -426,10 +426,10 @@ Prüfunterlagen Lieferung zum Patienten „Martin Frühstück“ (XML_07) im Ori
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF07 |
-| Testziel | Nachweis des KIM Bestätigungsverfahrens der gematik sowie des eArztbrief Audits |
-| Voraussetzung | Bestehen des Bestätigungsverfahren der gematik Bestehen des Audits zum eArztbrief der kv.digital.  Teilnahme am Interoperabilitätsworkshop der kv.digital. |
-| Einzureichende | Optional bis zum 30.09.2024: |
+| **Prüffall-ID** | PF07 |
+| **Testziel** | Nachweis des KIM Bestätigungsverfahrens der gematik sowie des eArztbrief Audits |
+| **Voraussetzung** | Bestehen des Bestätigungsverfahren der gematik Bestehen des Audits zum eArztbrief der kv.digital.  Teilnahme am Interoperabilitätsworkshop der kv.digital. |
+| **Einzureichende** | Optional bis zum 30.09.2024: |
 
 **Tabelle 7: Prüffalltabelle**
 
@@ -437,10 +437,10 @@ Prüfunterlagen Lieferung zum Patienten „Martin Frühstück“ (XML_07) im Ori
 
 |  | |
 |---|---|
-| Prüffall-ID | PF08 |
-| Testziel | Interoperabilitätsprüfung |
-| Voraussetzung | Dieser Prüffall ist nur durchzuführen, wenn    Für die Interoperabilitätsprüfung wird von der kv.digital GmbH ein Test- und  Im Backend steht für die KIM-Anwendung eArztbrief V1.2 ein entsprechender    Das Backend ist nur über die Referenzumgebung (RU) der Telemat   Die Adresse des Backends für eArztbrief V1.2 der kv.digital in der RU der TI lautet:   kv.digital-eArztbrief-V1.2@kv.digital.kim.telematik-test |
-| Aktion |  |
+| **Prüffall-ID** | PF08 |
+| **Testziel** | Interoperabilitätsprüfung |
+| **Voraussetzung** | Dieser Prüffall ist nur durchzuführen, wenn    Für die Interoperabilitätsprüfung wird von der kv.digital GmbH ein Test- und  Im Backend steht für die KIM-Anwendung eArztbrief V1.2 ein entsprechender    Das Backend ist nur über die Referenzumgebung (RU) der Telemat   Die Adresse des Backends für eArztbrief V1.2 der kv.digital in der RU der TI lautet:  **kv.digital-eArztbrief-V1.2@kv.digital.kim.telematik-test** |
+| **Aktion** |  |
 
 - 2. Bitte fügen Sie den Nachweis zum Bestehen des Audits eArztbrief der kv.digital als
 
@@ -459,8 +459,8 @@ Prüfunterlagen [optional] und des Interoperabilitätsworkshops der kv.digital [
 
 |  | |
 |---|---|
-|  | Hinweis: |
-| Einzureichende | und ggf. |
+|  | **Hinweis:** |
+| **Einzureichende** | und ggf. |
 
 **Tabelle 8: Prüffalltabelle**
 
@@ -488,7 +488,7 @@ Prüfunterlagen 2. Der Anwender ruft den Test-eArztbrief ab (manuell oder durch 
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 | [KBV_ITA_RLEX_Zert] | Zertifizierungsrichtlinie der KBV |
 | [KBV_ITA_VGEX_Anforderungskatalog_eArztbrief] | Anforderungskatalog eArztbrief |
 | [KBV_ITA_FMEX_AAZ_eArztbrief] | Antrag auf Zertifizierung |

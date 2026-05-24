@@ -1,17 +1,17 @@
-|  |
-|---|
+\|  |
+\|---|
 
 # ANTRAG AUF ZERTIFIZIERUNG  SEKTORZULASSUNG SMC
 
 ## [KBV_ITV_FMEX_AAZ_SMCB]
 
-|  | KASSENÄRZTLICHE     DEZERNAT DIGITALISIERUNG UND IT  1.OKTOBER 2025  VERSION: 2.3   DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE     DEZERNAT DIGITALISIERUNG UND IT  1.OKTOBER 2025  VERSION: 2.3   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 **-B**
 
-|  |
-|---|
+\|  |
+\|---|
 
 BUNDESVEREINIGUNG IT IN DER VERSORGUNG
 
@@ -32,13 +32,13 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 |  | |
 |---|---|
-| Name des Antragsstellers  [bei juristischen Personen ist die |  |
-| Geschäftsbereich [falls vorhanden] |  |
-| Straße und Hausnummer |  |
-| PLZ, Ort |  |
-| Telefonnummer |  |
-| E-Mail-Adresse |  |
-| Webseite |  |
+| **Name des Antragsstellers  [bei juristischen Personen ist die** |  |
+| **Geschäftsbereich [falls vorhanden]** |  |
+| **Straße und Hausnummer** |  |
+| **PLZ, Ort** |  |
+| **Telefonnummer** |  |
+| **E-Mail-Adresse** |  |
+| **Webseite** |  |
 
 ## 1.2 OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE
 
@@ -46,10 +46,10 @@ Nur anzugeben, wenn abweichend von Abschnitt 1.1.
 
 |  | |
 |---|---|
-| Bestell- bzw. Auftragsnummer des |  |
-| Name |  |
-| Straße und Hausnummer |  |
-| PLZ, Ort |  |
+| **Bestell- bzw. Auftragsnummer des** |  |
+| **Name** |  |
+| **Straße und Hausnummer** |  |
+| **PLZ, Ort** |  |
 
 Rechtsform anzugeben] Antragsstellers
 
@@ -61,8 +61,8 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizie
 
 |  | |
 |---|---|
-| Bezeichnung |  |
-| Identnummer [die letzten drei |  |
+| **Bezeichnung** |  |
+| **Identnummer [die letzten drei** |  |
 
 2 BEANTRAGUNG ZUR ZERTIFIZIERUNG
 
@@ -108,28 +108,28 @@ Stellen der Prüfnummer, falls vorhanden] [ ] Zuständigkeitsbereich der Kassen�
 
 Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizierungsthema“ sowie die  „Geschäftsführung“ zu benennen.
 
-|  | |
-| Ansprechpartner(in) für das vorliegende Zertifizierungsthema | |
+\|  | |
+| **Ansprechpartner(in) für das vorliegende Zertifizierungsthema** | |
 |---|---|
-| Name |  |
-| Telefonnummer |  |
-| E-Mail-Adresse |  |
-| Ansprechpartner(in) Geschäftsführung | |
-| Name |  |
-| Telefonnummer |  |
-| E-Mail-Adresse |  |
-| Ansprechpartner(in) für KVen | |
-| Name |  |
-| Telefonnummer |  |
-| URL Freigabeportal |  |
-| E-Mail-Adresse |  |
-| Ansprechpartner(in) für Praxen und MVZ | |
-| Name |  |
-| Telefonnummer |  |
-| E-Mail-Adresse |  |
-| URL Antragsportal |  |
-| Technische Hotline |  |
-| Service-Zeiten für die technische |  |
+| **Name** |  |
+| **Telefonnummer** |  |
+| **E-Mail-Adresse** |  |
+| **Ansprechpartner(in) Geschäftsführung** | |
+| **Name** |  |
+| **Telefonnummer** |  |
+| **E-Mail-Adresse** |  |
+| **Ansprechpartner(in) für KVen** | |
+| **Name** |  |
+| **Telefonnummer** |  |
+| **URL Freigabeportal** |  |
+| **E-Mail-Adresse** |  |
+| **Ansprechpartner(in) für Praxen und MVZ** | |
+| **Name** |  |
+| **Telefonnummer** |  |
+| **E-Mail-Adresse** |  |
+| **URL Antragsportal** |  |
+| **Technische Hotline** |  |
+| **Service-Zeiten für die technische** |  |
 
 
 ---
@@ -146,7 +146,7 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 
 - (4) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
 
-| THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART | KOSTEN IN € |
+| **THEMA** | **ZERTIFIZIERUNGSART** | **PRÜFUNGSART** | **KOSTEN IN €** |
 |---|---|---|---|
 | Sektorzulassung SMC-B | Neu- oder Rezertifizierung | Ergebnisprüfung | 2.064,30 |
 | Sektorzulassung HSM-B | Erweiterungszertifizierung | Ergebnisprüfung |  |

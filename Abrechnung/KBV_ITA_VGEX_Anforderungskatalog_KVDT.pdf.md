@@ -512,17 +512,34 @@ StammDatei für den EBM
 
 ---
 
-| SKT | Sonstige | Kostenträger |  |
-|---|---|---|---|
-| SNZ |  | Schnitt-Naht-Zeit |  |
-| TSS |  | Terminservicestelle |  |
-| VDT |  | VersichertenDatenTemplate |  |
-| VSDM |  | Versichertenstammdatenmanagement |  |
-| VKNR | 5-stellige | Kassennummer |  |
-| VKNR-KTAB-Kombination | Kombination | von | Abrechnungs-VKNR und Kostenträger- |
-|  |  | Abrechnungsbereich |  |
+SKT
 
-Sonstige Kostenträger 5-stellige Kassennummer Kombination von Abrechnungs-VKNR und
+SNZ
+
+TSS
+
+VDT
+
+VSDM
+
+VKNR
+
+VKNR-KTAB-Kombination
+
+Sonstige Kostenträger
+
+Schnitt-Naht-Zeit
+
+Terminservicestelle
+
+VersichertenDatenTemplate
+
+Versichertenstammdatenmanagement 5-stellige Kassennummer
+
+Kombination von Abrechnungs-VKNR und  Abrechnungsbereich
+
+Kostenträger-
+
 
 ---
 
@@ -1239,10 +1256,7 @@ Beispiel 1:
 
 ### Erläuterung der Wertepaare aus den Beispielen 1 bis 3:
 
-### ePA Stufe 3  ja
-
-### eRezept  ja
-
+### ePA Stufe 3  ja eRezept  ja
 bzw. TIM (13) aufweisen muss.
 
 -Datensatzbeschreibung eine Hierarchiestufe tiefer
@@ -2982,10 +2996,7 @@ c) Es handelt sich hierbei um ein optionales Element.
 
 ### analog zu „Fall 1 – IK ist gültig“ (siehe Funktio
 
-### aufnehmenden Kostenträgers. Für die Weiterverarbeitung sind dementsprechend die Eigenschaften des
-
-### aufnehmenden Kostenträges relevant.
-
+### aufnehmenden Kostenträgers. Für die Weiterverarbeitung sind dementsprechend die Eigenschaften des aufnehmenden Kostenträges relevant.
 3. Für die ADT-Abrechnung gilt unter Berücksichtigung von Ziffer (2): a) "VKNR" des aufnehmenden (neuen) Kostenträgers ist zu verwenden. 16
 
 b) "IK" des ursprünglichen (alten) Kostenträgers ist zu verwenden.
@@ -2996,10 +3007,7 @@ c) Sofern eine Versichertenkarte eingelesen wurde 2.0 erfolgt ist , gilt zusätz
 
 b) "IK" des ursprünglichen (alten) Kostenträgers ist zu verwenden.
 
-### BEISPIEL FUSION
-
-### ursprünglicher Kostenträger
-
+### BEISPIEL FUSION ursprünglicher Kostenträger
 <kostentraeger V="13407">  <gueltigkeit V="1975-07-21.. **2010-06-3**
 
 <bezeichnung>  <name V="BKK DER PARTNER"/>  <sortierungsname V="PARTNER"/>  <kurzname V="BKK DER PARTNER"/>  <suchname V="BKK DER PARTNER"/>  </bezeichnung>  <kostentraegergruppe V="04"  S="1.2.276.0.76.5.240"/>  <ik_liste>  <ik V="**102522653**
@@ -3202,11 +3210,13 @@ Stammdatei vorhanden
 
 definiert.
 
-abgelaufen **A**
-
 in der KT-
 
-**und** der -Abrechnung zu Lasten
+abgelaufen **und** der
+
+**A**
+
+-Abrechnung zu Lasten
 
 in der KT-
 
@@ -3714,15 +3724,9 @@ FK gem. ADT 3100
 
 3107
 
--460 (Existenzprüfung über PLZ
+-460 (Existenzprüfung über PLZ -Systemen in der
 
-21 ist des Weiteren Anlage 4a BMV-
-
--Systemen in der
-
-22
-
--Patienten-Kontakt“
+21 ist des Weiteren Anlage 4a BMV- 22 -Patienten-Kontakt“
 
 Mindestangabe
 
@@ -3747,21 +3751,21 @@ X
 
 ---
 
-| PLZ |  |  | 3112 |
-|---|---|---|---|
-| Ort |  |  | 3113 |
-|  | Hausnummer |  | 3109 |
-|  | Wohnsitzlaendercode |  | 3114 |
-|  | Postfachadresse: |  |  |
-|  | PostfachPLZ |  | 3121 |
-|  | PostfachOrt |  | 3122 |
-| Postfach |  |  | 3123 |
-|  | PostfachWohnsitzlaendercode | | 3124 |
-| Sonstige | Kostenträger | ohne Versichertenkarte: |  |
-|  |  | Personenkreis/Untersuchungskategorie | 4123 |
-|  | SKT-Zusatzangaben |  | 4124 |
-|  | SKT-Bemerkungen |  | 4126 |
-|  | Gültigkeitszeitraum | von ... bis ... | 4125 |
+| PLZ | 3112 |
+|---|---|
+| Ort | 3113 |
+| Hausnummer | 3109 |
+| Wohnsitzlaendercode | 3114 |
+| Postfachadresse: |  |
+| PostfachPLZ | 3121 |
+| PostfachOrt | 3122 |
+| Postfach | 3123 |
+| PostfachWohnsitzlaendercode | 3124 |
+| Sonstige Kostenträger ohne | Versichertenkarte: |
+| Personenkreis/Untersuchungskategorie | 4123 |
+| SKT-Zusatzangaben | 4124 |
+| SKT-Bemerkungen | 4126 |
+| Gültigkeitszeitraum von ... | bis ... 4125 |
 
 Tabelle 5  Datenangaben im Ersatzverfahren / „manuelle“ Erfassung von Versichertendaten
 
@@ -4107,13 +4111,11 @@ Kurzname: BUNDESWEHR
 
 ---
 
-Überweisungsschein zur Feststellung der VKNR: 79869
-
-Wehrdienstfähigkeit (WE) (§ 75 Abs. 3 SGB V) Suchname: BA für PM der Bundeswehr, Ref. I 2.3.5
-
-Kurzname: BUNDESWEHR MUSTERG
-
-Tabelle 6  Zuordnung sonstiger Kostenträger „Bundeswehr“
+| Überweisungsschein | zur | Feststellung der | VKNR: | 79869 |
+|---|---|---|---|---|
+| Wehrdienstfähigkeit | (WE) (§ | 75 Abs. 3 | SGB V) Suchname: | BA für PM der Bundeswehr, Ref. I 2.3.5 |
+|  |  |  |  | Kurzname: BUNDESWEHR MUSTERG |
+| Tabelle 6 – Zuordnung | sonstiger Kostenträger | „Bundeswehr“ |  |  |
 
 2. Die „Personenkennziffer“ ist gemäß den Einstellungen der KV-Spezifika (kvx3) als SKT-Zusatzangabe
 
@@ -4137,6 +4139,7 @@ erfassen und unter der FK 4125 (Gültigkeitszeitraum von … bis …) zu übertr
 
 Abbildung 1: Überweisungsschein für Überweisungsaufträge der Bundeswehr (Satzart 0102/0104)
 
+Überweisungsschein zur Feststellung der VKNR: 79869 Wehrdienstfähigkeit (WE) (§ 75 Abs. 3 SGB V) Suchname: BA für PM der Bundeswehr, Ref. I 2.3.5 Zuordnung sonstiger Kostenträger „Bundeswehr“
 
 ---
 
@@ -7659,9 +7662,10 @@ Die Software stellt dem Anwender eine Möglichkeit zur Verfügung dies in der  P
 
 Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme ohne APK.
 
-**KONDITIONALE PFLICHTFUNKTION ADT**
-
-**KP2-967** Erinnerungsfunktion bei bewilligter Psychotherapie mit Restkontingent und ohne APK seit zwei  Quartalen
+|  | **KONDITIONALE** | **PFLICHTFUNKTION ADT** |
+|---|---|---|
+| **KP2-967** | Erinnerungsfunktion | bei bewilligter Psychotherapie mit Restkontingent und ohne APK seit zwei |
+|  | Quartalen |  |
 
 Falls eine bewilligte Psychotherapie mit Restkontingent besteht und kein APK seit zwei Quartalen  stattgefunden hat, muss die Software den Anwender auf die Angabe der Pseudo-GOP 88130 bzw. 88131
 
@@ -7687,6 +7691,7 @@ a) Dem Anwender sollen nur bewilligte Psychotherapie mit Restkontingent angezeig
 
 Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme ohne APK.
 
+KONDITIONALE PFLICHTFUNKTION ADT Erinnerungsfunktion bei bewilligter Psychotherapie mit Restkontingent und ohne APK seit zwei
 
 ---
 
@@ -7741,9 +7746,10 @@ KP2-971 erstellen und ausdrucken.
 
 ---
 
-**KONDITIONALE PFLICHTFUNKTION ADT**
-
-**KP2-970** Erinnerungsfunktion bei bewilligter Psychotherapie  Abrechnungsquartal
+|  | **KONDITIONALE** | **PFLICHTFUNKTION ADT** |
+|---|---|---|
+| **KP2-970** | Erinnerungsfunktion | bei bewilligter Psychotherapie **mit** Restkontingent und APK im |
+|  | Abrechnungsquartal |  |
 
 Falls für eine bewilligte Psychotherapie Leistungen erfasst wurden zu der bewilligten Psychotherapie besteht und sich eine Rezidivprophylaxe anschließen kann, soll die  Software den Anwender auf die Angabe der Pseudo
 
@@ -7771,8 +7777,6 @@ Die Software kann folgende Kriterien benutzen (gemäß Richtlinie des Gemeinsame
 
 37 Psychotherapie-Richtlinie § 14 Rezidivprophylaxe, (3):
 
-**mit**
-
 und am Quartalsende ein Restkontingent -GOP 88131 hinweisen.
 
 -Richtlinie)), um zu entscheiden, ob sich eine
@@ -7795,7 +7799,7 @@ KP2-967.
 
 noch nicht 21 Jahre alt sind. …
 
-Restkontingent und APK im 39
+39
 
 GOP 88131“ hinweisen, falls
 
@@ -7809,7 +7813,7 @@ GOP 88131“ hinweisen, falls
 
 KP2-965, KP2-966,
 
-r
+KONDITIONALE PFLICHTFUNKTION ADT Erinnerungsfunktion bei bewilligter Psychotherapie r
 
 
 ---
@@ -8741,9 +8745,7 @@ nicht möglich ist.
 
 Die Kurärztliche Abrechnung erfolgt dann direkt mit dem Kostenträger. 2. Eine Weiterverarbeitung zum Zwecke der KADT **möglich sein** 3. Eine Bedruckung von vertragsärztlichen Formularen muss mit Sonstigen Kostenträgern
 
--Abrechnung darf mit Sonstigen Kostenträgern
-
-**nicht**
+-Abrechnung darf mit Sonstigen Kostenträgern **nicht**
 
 **möglich** sein.
 

@@ -1,8 +1,8 @@
-| Nr. | Eingabefeld | Ausfüllhinweis |
+| **Nr.** | **Eingabefeld** | **Ausfüllhinweis** |
 |---|---|---|
-| Allgemeine Angaben | | |
+| **Allgemeine Angaben** | | |
 | 1. | Patienten-ID | Bitte beachten Sie bei Ihren Angaben, dass die Pati- |
-| (Vor) Verordnung | | |
+| **(Vor) Verordnung** | | |
 | 9. | Sprachverstehen | Am schlechteren Ohr gemessen |
 | 9b | dB | Freiburger Einsilber / Freiburger Zahlen   - Der Punkt des besten Hörverstehens des  Eingabe bitte ohne Nachkommastellen. |
 | 9c | % (E/Z) | Freiburger Einsilber / Freiburger Zahlen  Bitte entnehmen Sie die Werte aus dem Audio- |
@@ -11,21 +11,21 @@
 | 10. | Freiburger Zahlen | Sprachverständnistest |
 | 10. | OLSA | Sprachverständnistest (Oldenburger Satztest) |
 | 10. | GÖSA | Sprachverständnistest (Göttinger Satztest) |
-|  | Dokumentationsbogen: Ausfüllhinweise |  |
+|  | **Dokumentationsbogen: Ausfüllhinweise** |  |
 | Zur Information des Arztes werden in der Dokumentationsmaske Infoboxen und Ausfüllhin- | Infoboxen beinhalten allgemeine Informationen. | Bei ausgewählten Eingabefeldern sollen Ausfüllhinweise integriert werden. |
-|  |  | Liste der Infoboxen: |
-|  |  | Infobox |
-| Text | (Vor) Verordnung | Inhalt dieses Abschnitts ist die Untersuchung des Patienten bei Neuverord- |
+|  |  | **Liste der Infoboxen:** |
+|  |  | **Infobox** |
+| **Text** | (Vor) Verordnung | Inhalt dieses Abschnitts ist die Untersuchung des Patienten bei Neuverord- |
 | Nach Verordnung | Inhalt dieses Abschnitts ist die erste Nachuntersuchung nach erfolgter Hör- | APHAB-Bogen |
 | Der APHAB-Bogen (Abbreviated Profile of Hearing Aid Benefit) ist ein In- | | |
-|  |  | Liste der Ausfüllhinweise: |
-|  |  | Nr.  Eingabefeld |
-| Ausfüllhinweis | Allgemeine Angaben | 1.  Patienten-ID |
-| Bitte beachten Sie bei Ihren Angaben, dass die Pati- | (Vor) Verordnung | 9. |
+|  |  | **Liste der Ausfüllhinweise:** |
+|  |  | **Nr.  Eingabefeld** |
+| **Ausfüllhinweis** | **Allgemeine Angaben** | 1.  Patienten-ID |
+| Bitte beachten Sie bei Ihren Angaben, dass die Pati- | **(Vor) Verordnung** | 9. |
 | Sprachverstehen | | |
 | Am schlechteren Ohr gemessen | 9b | dB  Freiburger Einsilber / Freiburger Zahlen   - Der Punkt des besten Hörverstehens des  Eingabe bitte ohne Nachkommastellen.  9c  % (E/Z)  Freiburger Einsilber / Freiburger Zahlen  Bitte entnehmen Sie die Werte aus dem Audio- |
 
-| Infobox | Text |
+| **Infobox** | **Text** |
 |---|---|
 | (Vor) Verordnung | Inhalt dieses Abschnitts ist die Untersuchung des Patienten bei Neuverord- |
 | Nach Verordnung | Inhalt dieses Abschnitts ist die erste Nachuntersuchung nach erfolgter Hör- |
@@ -40,7 +40,7 @@ nung eines Hörgerätes / von Hörgeräten beim Jugendlichen oder Erwachse- nen 
 | dB (SVS) | | |
 | Sprachverständlichkeitsschwelle (Göttinger Satztest, | Bitte tragen Sie den Hörverlust in dB ein. | 30. |
 | Nutzen (Verbesserung der Hörfä- | | |
-| Bitte beantworten Sie nach Möglichkeit alle Fragen. | APHAB-Bogen |  |
+| Bitte beantworten Sie nach Möglichkeit alle Fragen. | **APHAB-Bogen** |  |
 | Sowohl | Bitte tragen Sie hier die Antworten des Patienten ein. | A: immer  B: fast immer  C: häufig |
 | D: in der Hälfte der Fälle | E: gelegentlich | F: selten  G: nie |
 |  |  |  |
@@ -54,12 +54,12 @@ nung eines Hörgerätes / von Hörgeräten beim Jugendlichen oder Erwachse- nen 
 | 14.a / 14b | Schweregrad der Hörstörung | Nach WHO 2001 (Grades of hearing impairment) |
 | 16. | Tinnitus | H93.1 |
 | 16. | Otitis externa | H60.- |
-| Nach Verordnung | | |
+| **Nach Verordnung** | | |
 | 26./27. | Erzieltes Sprachverstehen im | Binaural (bei ggf. einseitiger Normalhörigkeit ohne |
 | 26. | % (E/Z) | Freiburger Einsilber / Freiburger Zahlen  Bitte entnehmen Sie die Werte aus dem Audio- |
 | 27. | dB (SVS) | Sprachverständlichkeitsschwelle (Göttinger Satztest,  Bitte tragen Sie den Hörverlust in dB ein. |
 | 30. | Nutzen (Verbesserung der Hörfä- | Bitte beantworten Sie nach Möglichkeit alle Fragen. |
-| APHAB-Bogen | | |
+| **APHAB-Bogen** | | |
 |  | Sowohl | Bitte tragen Sie hier die Antworten des Patienten ein.  A: immer  B: fast immer  C: häufig  D: in der Hälfte der Fälle  E: gelegentlich  F: selten  G: nie |
 
 (rechts / links) Freifeld mit Hörgerät(en) higkeit) beim APHAB-Bogen vor der Hörgeräteversorgung als auch nach der Hörgeräteversorgung oder nach Ihrer Einschätzung Vertäubung des normalhörigen Ohres) gramm. Oldenburger Satztest) Dies ist wichtig für die Errechnung der Verbesserung der Hörfähigkeit. Dabei bedeuten:

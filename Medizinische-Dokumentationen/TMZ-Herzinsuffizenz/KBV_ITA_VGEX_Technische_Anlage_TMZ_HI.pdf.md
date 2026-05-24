@@ -1,11 +1,11 @@
-|  |
-|---|
+\|  |
+\|---|
 
 # ANFORDERUNGSKATALOG TMZ HI
 
 ## [KBV_ITV_VGEX_ANFORDERUNGSKATALOG_TMZ_HI]
 
-|  | BUNDESVEREINIGUNG    DEZERNAT DIGITALISIERUNG UND IT 15. MAI 2025   VERSION: 1.01    DOKUMENTENSTATUS: IN KRAFT |
+|  | **BUNDESVEREINIGUNG    DEZERNAT DIGITALISIERUNG UND IT 15. MAI 2025   VERSION: 1.01    DOKUMENTENSTATUS: IN KRAFT ** |
 |---|---|
 
 KASSENÄRZTLICHE IT IN DER VERSORGUNG
@@ -16,9 +16,9 @@ KASSENÄRZTLICHE IT IN DER VERSORGUNG
 
 Die Änderung der Technischen Anlage TMZ HI gelten für die Übermittlung  Jahr 2024.
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 1.01 | 15.05.2025 | KBV | Redaktionelle Aktu- Aktualisierung des Ab- Aktualisierung der An- - - - - - Version  Datum  Autor  Änderung  Begründung  Redaktionelle Aktu- Aktualisierung des Ab- Aktualisierung der An- KBV  Redaktionelle Aktu- Aktualisierung der An- - -   8  13  Redaktionelle Aktu- Aktualisierung des Ab- Aktualisierung der An- - - - - - Aktualisierung der Vor- Aktualisierung der Vor- Aktualisierung der Vor- Aktualisierung der |  | 5, 7    6      8  13  8  14  14  9    16    30 |
+| 1.01 | 15.05.2025 | KBV | Redaktionelle Aktu- Aktualisierung des Ab- Aktualisierung der An- - - - - -**Version  Datum  Autor  Änderung  Begründung ** Redaktionelle Aktu- Aktualisierung des Ab- Aktualisierung der An- KBV  Redaktionelle Aktu- Aktualisierung der An- - -  **8  13 ** Redaktionelle Aktu- Aktualisierung des Ab- Aktualisierung der An- - - - - - Aktualisierung der Vor- Aktualisierung der Vor- Aktualisierung der Vor- Aktualisierung der |  | **5, 7 **  **6 **    **8  13  8  14  14  9 **  **16 **  **30** |
 | 1.00 | 18.08.2023 | KBV | neues Dokument |  | alle |
 
 der Berichtsdaten ab dem
@@ -126,22 +126,22 @@ Diese Technische Anlage richtet sich an Hersteller, welche den TMZ Softwarelösu
 
 monitoring bei Herzinsuffizienz zur Verfügung stellen. Eine Softwarezertifizierung wird für dieses  Thema nicht angeboten. Die Aufgabe der Hersteller beschränkt sich auf drei Funktionalitäten:
 
-| 1. |  | 2. |  | 3. | Die Übermittlung der Daten aus dem TMZ zur KV |
+| **1.** |  | **2.** |  | **3.** | Die Übermittlung der Daten aus dem TMZ zur KV |
 |---|---|---|---|---|---|
-| 1.2 | Pflichtfunktionen | Konditionale Pflichtfunktionen | Optionale Funktionen Erläuterung der Funktionsdarstellung: PFLICHTFUNKTION  Px-xxx  Funktionsbezeichnung    Ident-Nummer einer Pflichtfunktion  1. 2. 3. Optionale Funktionen Erläuterung der Funktionsdarstellung: Konditionale Pflichtfunktionen Optionale Funktionen PFLICHTFUNKTION  Px-xxx  Eine Anforderungsfunktion enthält immer eine Begründung und eine Liste von Akzeptanzkriterien.  Eine Anforderungsfunktion kann Hinweise und/oder Beispiele zur Umsetzung enthalten, welche    Optionale Funktionen Erläuterung der Funktionsdarstellung: PFLICHTFUNKTION  Px-xxx  Funktionsbezeichnung    Ident-Nummer einer Pflichtfunktion  KONDITIONALE PFLICHTFUNKTIONKONDITIONALE PFLICHTFUNKTION KPx-xxx | Funktionsbezeichnung | Ident-Nummer einer konditionalen Pflichtfunktion, die an Bedingungen geknüpft ist, welche be- OPTIONALE FUNKTION  Ox-xxx  Funktionsbezeichnung  Ident-Nummer einer optionalen Funktion Eine Anforderungsfunktion enthält immer eine Begründung und eine Liste von Akzeptanzkriterien.  Eine Anforderungsfunktion kann Hinweise und/oder Beispiele zur Umsetzung enthalten, welche |
+| **1.2** | **Pflichtfunktionen** | **Konditionale Pflichtfunktionen** | **Optionale Funktionen Erläuterung der Funktionsdarstellung: PFLICHTFUNKTION  Px-xxx  Funktionsbezeichnung **   Ident-Nummer einer Pflichtfunktion **1. 2. 3. Optionale Funktionen Erläuterung der Funktionsdarstellung: Konditionale Pflichtfunktionen Optionale Funktionen PFLICHTFUNKTION  Px-xxx ** Eine Anforderungsfunktion enthält immer eine Begründung und eine Liste von Akzeptanzkriterien.  Eine Anforderungsfunktion kann Hinweise und/oder Beispiele zur Umsetzung enthalten, welche   **Optionale Funktionen Erläuterung der Funktionsdarstellung: PFLICHTFUNKTION  Px-xxx  Funktionsbezeichnung **   Ident-Nummer einer Pflichtfunktion **KONDITIONALE PFLICHTFUNKTIONKONDITIONALE PFLICHTFUNKTION KPx-xxx** | **Funktionsbezeichnung** | Ident-Nummer einer konditionalen Pflichtfunktion, die an Bedingungen geknüpft ist, welche be-**OPTIONALE FUNKTION  Ox-xxx  Funktionsbezeichnung ** Ident-Nummer einer optionalen Funktion Eine Anforderungsfunktion enthält immer eine Begründung und eine Liste von Akzeptanzkriterien.  Eine Anforderungsfunktion kann Hinweise und/oder Beispiele zur Umsetzung enthalten, welche |
 |  |  |  |  |  |  |
 
-Erfassung von Daten pro Patient Erstellung einer in bis zu 4 Strata aufgeteilten, aggregierten Jahresstatistik aus den erfassten Pati- entendaten Export der Daten der gem. Nr. 2 erstellten Jahresstatistik  in die lokale Umgebung (zur späteren Weiterleitung)  sowie zur KBV müssen nicht durch  Hersteller imple- mentiert werden. PFLICHTFUNKTIONEN UND OPTIONALE FUNKTIONEN DER SOFTWARE  müssen in der Software implementiert sein.  müssen implementiert werden, wenn alle jeweils genannten Bedin- gungen erfüllt sind.  können implementiert werden, wenn alle jeweils genannten Bedingungen er- füllt sind. schrieben sind. Die Begründung soll dem Verständnis für die Gründe der Anforderungserhebung dienen und ist nicht Teil der durch diesen Anforderungskatalog definierten Norm. Die Akzeptanzkriterien sind fachliche Anforderungen, welche Abnahmekriterien darstellen, denen ein Softwareprodukt genügen muss. empfehlenden Charakter haben. | PFLICHTFUNKTION | | |
+Erfassung von Daten pro Patient Erstellung einer in bis zu 4 Strata aufgeteilten, aggregierten Jahresstatistik aus den erfassten Pati- entendaten Export der Daten der gem. Nr. 2 erstellten Jahresstatistik  in die lokale Umgebung (zur späteren Weiterleitung)  sowie zur KBV müssen nicht durch  Hersteller imple- mentiert werden. PFLICHTFUNKTIONEN UND OPTIONALE FUNKTIONEN DER SOFTWARE  müssen in der Software implementiert sein.  müssen implementiert werden, wenn alle jeweils genannten Bedin- gungen erfüllt sind.  können implementiert werden, wenn alle jeweils genannten Bedingungen er- füllt sind. schrieben sind. Die Begründung soll dem Verständnis für die Gründe der Anforderungserhebung dienen und ist nicht Teil der durch diesen Anforderungskatalog definierten Norm. Die Akzeptanzkriterien sind fachliche Anforderungen, welche Abnahmekriterien darstellen, denen ein Softwareprodukt genügen muss. empfehlenden Charakter haben. | **PFLICHTFUNKTION** | | |
 |---|---|---|
-| Px-xxx | Funktionsbezeichnung |  |
+| **Px-xxx** | **Funktionsbezeichnung** |  |
 
-| KONDITIONALE PFLICHTFUNKTION | |
+| **KONDITIONALE PFLICHTFUNKTION** | |
 |---|---|
-| KPx-xxx | Funktionsbezeichnung |
+| **KPx-xxx** | **Funktionsbezeichnung** |
 
-| OPTIONALE FUNKTION | |
+| **OPTIONALE FUNKTION** | |
 |---|---|
-| Ox-xxx | Funktionsbezeichnung |
+| **Ox-xxx** | **Funktionsbezeichnung** |
 
 
 ---
@@ -152,16 +152,16 @@ Erfassung von Daten pro Patient Erstellung einer in bis zu 4 Strata aufgeteilten
 
 Um softwareseitig die Berechnung der Jahresstatistik gemäß der  Softwaresystem in der Lage sein, die notwendigen behandlungsbezogene TMZ zu erfassen.
 
-|  | PFLICHTFUNKTION | P 1-100 | Erfassung der behandlungsbezogenen Daten pro Patient |  | Die Software bietet dem Anwender die Möglichkeit die notwendigen behandlungsbezogenen Daten |
+|  | **PFLICHTFUNKTION** | **P 1-100** | **Erfassung der behandlungsbezogenen Daten pro Patient** |  | Die Software bietet dem Anwender die Möglichkeit die notwendigen behandlungsbezogenen Daten |
 |---|---|---|---|---|---|
-| Begründung: | Damit die TMZ eine Jahresstatistik erstellen können, müssen die notwendigen behandlungsbezoge- | Akzeptanzkriterium: | 1. a) b)   PFLICHTFUNKTION  P 1-100  Erfassung der behandlungsbezogenen Daten pro Patient   1. a) b) Akzeptanzkriterium:  1. b)   1. a) b) |  |  |
+| **Begründung:** | Damit die TMZ eine Jahresstatistik erstellen können, müssen die notwendigen behandlungsbezoge- | **Akzeptanzkriterium:** | 1. a) b)  **PFLICHTFUNKTION  P 1-100  Erfassung der behandlungsbezogenen Daten pro Patient**   1. a) b)**Akzeptanzkriterium: ** 1. b)   1. a) b) |  |  |
 |  |  |  |  |  |  |
 
 nach § 7 Abs. 1 Buchstaben a bis i der QS-V TmHi zu erfassen und entsprechend auszuwerten, um eine aggregierte als Jahresstatistik über ein Datenjahr auszuwerten zu erstellen.  nen Daten in der Software erfasst und ausgewertet werden können.  Die Software ermöglicht dem Anwender min. die Erfassung der folgenden behandl Daten: Die Software kann von den Feldnamen abweichen Die Software kann die Erhebung weiterer Informationen ermöglichen.  QS-V TmHi durchzuführen, muss das  n Daten pro Patient des
 
-| PFLICHTFUNKTION | | |
+| **PFLICHTFUNKTION** | | |
 |---|---|---|
-| P 1-100 | Erfassung der behandlungsbezogenen Daten pro Patient |  |
+| **P 1-100** | **Erfassung der behandlungsbezogenen Daten pro Patient** |  |
 
 
 ---
@@ -171,7 +171,7 @@ nach § 7 Abs. 1 Buchstaben a bis i der QS-V TmHi zu erfassen und entsprechend a
 | FELD-NR. | MGL. FELDNAME | FELDART | DATENTYP | ANZAHL DER | BESCHREIBUNG | HINWEIS / PLAUSIBILI- |
 |---|---|---|---|---|---|---|
 | 01 | DATENJAHR | M | numerisch | 4 | JJJJ | Jede Jahresstatistik enthält |
-| 02 | EINSENDER_PSEUDO- | M | alphanum. | 7 | Einsender-Pseudonym gemäß P 1-110 |  |
+| 02 | EINSENDER_PSEUDO- | M | alphanum. | 7 | Einsender-Pseudonym gemäß **P 1-110** |  |
 | 03 | TM_PAT_IMP | M | numerisch | 1 | Patient mit Implantaten   Hinweis:  Das Merkmal "1" wird für die Art der Geräteversorgung  Anwender legt die Auswahl für Feld-Nr. 03 oder 04 da- rauf bezogen fest, welche Geräteart für den Patienten  Es kann entweder im Feld-Nr. 03 oder 04 die Angabe  "1" erfolgen. | Wert 1 oder 0 |
 | 04 | TM_PAT_EXT_GT | M | numerisch | 1 | Patient mit externen Geräten | Wert 1 oder 0 |
 
@@ -213,36 +213,36 @@ STELLEN TÄTSPRÜFUNG kompensation im Datenjahr bei Patienten gemäß Feld- Anga
 
 ---
 
-| PFLICHTFUNKTION | | |
+| **PFLICHTFUNKTION** | | |
 |---|---|---|
-| P 1-110 | Erfassung des Einsender-Pseudonyms |  |
+| **P 1-110** | **Erfassung des Einsender-Pseudonyms** |  |
 
-| P 1-110 | Erfassung des Einsender-Pseudonyms |  | Die Software bietet dem Anwender die Möglichkeit | Begründung: |  |
+| **P 1-110** | **Erfassung des Einsender-Pseudonyms** |  | Die Software bietet dem Anwender die Möglichkeit | **Begründung:** |  |
 |---|---|---|---|---|---|
-| Die Datenannahme und | Akzeptanzkriterium: | 1. | a) Beispiele:  › › ›   PFLICHTFUNKTION  P 1-110  Erfassung des Einsender-Pseudonyms    Die Software bietet dem Anwender die Möglichkeit Begründung:  a) Beispiele:  › 1. a) › › › 1. a) b) a) Beispiele:  › › ›   PFLICHTFUNKTION  Berechnung der Anzahl der Patienten pro TM-Art P 1-130  Berechnung der Anzahl der Patienten pro TM-Art |  | Die Software berechnet bzw. zählt die Gesamtzahl der Patienten  Begründung: Für die Berechnung der Statistikwerte zur Erstellung der Jahresstatistik ist es notwendig, dass die Ge- Akzeptanzkriterium:  1. a) b) |
+| Die Datenannahme und | **Akzeptanzkriterium:** | 1. | a)**Beispiele: ** › › ›  **PFLICHTFUNKTION  P 1-110  Erfassung des Einsender-Pseudonyms **   Die Software bietet dem Anwender die Möglichkeit**Begründung: ** a)**Beispiele: ** › 1. a) › › › 1. a) b) a)**Beispiele: ** › › ›  **PFLICHTFUNKTION  Berechnung der Anzahl der Patienten pro TM-Art P 1-130  Berechnung der Anzahl der Patienten pro TM-Art** |  | Die Software berechnet bzw. zählt die Gesamtzahl der Patienten **Begründung:** Für die Berechnung der Statistikwerte zur Erstellung der Jahresstatistik ist es notwendig, dass die Ge-**Akzeptanzkriterium: ** 1. a) b) |
 |  |  |  |  |  |  |
 
-, dass von der KV vergebene Einsender-Pseudo- nym zu erfassen.  -verarbeitung durch die KVen und durch die KBV setzt ein e Einsender-Pseudo- nymisierung voraus. Dies ist notwendig, um die Identität des Arztes, der die Jahresstatistik für das TMZ einsendet, gegenüber der KBV zu maskieren, eine anschließende De -Pseudonymisierung durch die zu- ständige KV aber dennoch  zu ermöglichen. Hierfür muss das Einsender-Pseudonym durch die Software erfasst und vorgehalten werden können. Die Software ermöglicht dem Anwender, dass von der KV vergebene Einsender-Pseudonym zu er- fassen und ggf. zu ändern.   Die Software verwendet das Einsender -Pseudonym für die Erstellung der Jahresstatistik. 51-8898 20-67HG 17-8H9F im TMZ je Telemonitoring-Art (TM- Art) gemäß den Feld-Nr. 03 bis 06 gem. Tab. 1.  samtanzahl der erfassten Patienten im TMZ für den Berichtszeitraum erfasst wird. Die Software berechnet die Gesamtanzahl der Patienten je TM-Art gemäß der Feld-Nr. 03 bis 06 gemäß Tab. 1. Die Software berücksichtigt einen Patienten bei der Zählung, falls das entsprechende Feld den Wert „1“ besitzt. Für den Fall, dass die Anzahl der Patienten für eine TM-Art gleich 0 ist, kann die TM-Art in der zu erstellenden csv-Datei entfallen. | PFLICHTFUNKTION | | |
+, dass von der KV vergebene Einsender-Pseudo- nym zu erfassen.  -verarbeitung durch die KVen und durch die KBV setzt ein e Einsender-Pseudo- nymisierung voraus. Dies ist notwendig, um die Identität des Arztes, der die Jahresstatistik für das TMZ einsendet, gegenüber der KBV zu maskieren, eine anschließende De -Pseudonymisierung durch die zu- ständige KV aber dennoch  zu ermöglichen. Hierfür muss das Einsender-Pseudonym durch die Software erfasst und vorgehalten werden können. Die Software ermöglicht dem Anwender, dass von der KV vergebene Einsender-Pseudonym zu er- fassen und ggf. zu ändern.   Die Software verwendet das Einsender -Pseudonym für die Erstellung der Jahresstatistik. 51-8898 20-67HG 17-8H9F im TMZ je Telemonitoring-Art (TM- Art) gemäß den Feld-Nr. 03 bis 06 gem. Tab. 1.  samtanzahl der erfassten Patienten im TMZ für den Berichtszeitraum erfasst wird. Die Software berechnet die Gesamtanzahl der Patienten je TM-Art gemäß der Feld-Nr. 03 bis 06 gemäß Tab. 1. Die Software berücksichtigt einen Patienten bei der Zählung, falls das entsprechende Feld den Wert „1“ besitzt. Für den Fall, dass die Anzahl der Patienten für eine TM-Art gleich 0 ist, kann die TM-Art in der zu erstellenden csv-Datei entfallen. | **PFLICHTFUNKTION** | | |
 |---|---|---|
-| P 1-130 | Berechnung der Anzahl der Patienten pro TM-Art |  |
+| **P 1-130** | **Berechnung der Anzahl der Patienten pro TM-Art** |  |
 
 
 ---
 
 # 3 ERSTELLUNG DER JAHRESSTATISTIK
 
-| PFLICHTFUNKTION | P 3-100 | Dateinamen der Jahresstatistik |  |  | Die Software erzeugt den Dateinamen der TMZ |
+| **PFLICHTFUNKTION** | **P 3-100** | **Dateinamen der Jahresstatistik** |  |  | Die Software erzeugt den Dateinamen der TMZ |
 |---|---|---|---|---|---|
-| Begründung: | Der Dateiname ist nach den vorgegebenen Regeln zu bilden, damit es bei der KV und der KBV zu keinen | Akzeptanzkriterien: | 1. a) b) c) d) e) PFLICHTFUNKTION  P 3-100  Dateinamen der Jahresstatistik   1. a) b) Akzeptanzkriterien:  1. b) Die Software hat die Jahresstatistik getrennt, in folgende max. vier Strata aufgeteilt gemäß der Fel- - - - - 1. a) b) c) d) e) › Beispiel:   › |  | PFLICHTFUNKTION  P 3-200  Erstellung der Jahresstatistik    Die Software erstellt aus den erfassten behandlungsbezogenen Daten der Patienten  Die Software hat die Jahresstatistik getrennt, in folgende max. vier Strata aufgeteilt gemäß der Fel- - - - - Dies bedeutet, dass die Software entsprechende Filterkriterien vorweisen muss, mit welchen diese  Für den Fall, dass die Anzahl der Patienten für ein Stratum gemäß der Felder 03 bis 06 der Tabelle 1 |
+| **Begründung:** | Der Dateiname ist nach den vorgegebenen Regeln zu bilden, damit es bei der KV und der KBV zu keinen | **Akzeptanzkriterien:** | 1. a) b) c) d) e)**PFLICHTFUNKTION  P 3-100  Dateinamen der Jahresstatistik**   1. a) b)**Akzeptanzkriterien: ** 1. b) Die Software hat die Jahresstatistik getrennt, in folgende max. vier Strata aufgeteilt gemäß der Fel- - - - - 1. a) b) c) d) e) ›**Beispiel:  ** › |  | **PFLICHTFUNKTION  P 3-200  Erstellung der Jahresstatistik **   Die Software erstellt aus den erfassten behandlungsbezogenen Daten der Patienten  Die Software hat die Jahresstatistik getrennt, in folgende max. vier Strata aufgeteilt gemäß der Fel- - - - - Dies bedeutet, dass die Software entsprechende Filterkriterien vorweisen muss, mit welchen diese  Für den Fall, dass die Anzahl der Patienten für ein Stratum gemäß der Felder 03 bis 06 der Tabelle 1 |
 |  |  |  |  |  |  |
 
-sender_Pseudonym>_<Datenjahr>_<Erstellungsdatum>.<Endung> Verwechslungen mit anderen Datenarten kommen kann. Regeln gebildet werden, da Abweichungen des Dateinamens von der Vorgabe zur Ablehnung der An- nahme der Datei führen. Die Software muss den Dateinamen der Jahresstatistik nach dem folgenden Schema erzeugen Satzart>_HI_<Einsender_Pseudonym>_<Datenjahr>_<Erstellungsdatum>.<Endung> Satzart = TMZ_HI Einsender_Pseudonym  = 7-stellig alphanumerisch (gemäß P1-110) Datenjahr  = 4-stellig numerisch (JJJJ) Erstellungsdatum  = 8-stellig numerisch (JJJJMMTT) Endung  = csv TMZ_HI_17-87H5_2023_20240101.csv Jahresstatik.  dern 03 bis 06 der Tabelle 1 zu erstellen: Telemonitoring mit Implantaten Telemonitoring mit externen Geräten intensiviertes Telemonitoring normales Telemonitoring vier Telemonitoring-Arten identifiziert werden können und auf denen die nachfolgenden Berechnun- gen gem. § 7 Abs. 1 Buchstaben a) bis i) (mit der Berechnung von Medianen und Mittelwerten) erfol- gen können.   ist, müssen die Berechnungen für das betreffende Stratum nicht durchgeführt werden. Das sprechende leere Stratum kann in der zu erstellende csv-Datei entfallen.  -Jahresstatik nach dem Schema Satzart>_HI_<Ein- Die Bildung des Dateinamens muss nach den eine aggregierte ent-| PFLICHTFUNKTION | | |
+sender_Pseudonym>_<Datenjahr>_<Erstellungsdatum>.<Endung> Verwechslungen mit anderen Datenarten kommen kann. Regeln gebildet werden, da Abweichungen des Dateinamens von der Vorgabe zur Ablehnung der An- nahme der Datei führen. Die Software muss den Dateinamen der Jahresstatistik nach dem folgenden Schema erzeugen Satzart>_HI_<Einsender_Pseudonym>_<Datenjahr>_<Erstellungsdatum>.<Endung> Satzart = TMZ_HI Einsender_Pseudonym  = 7-stellig alphanumerisch (gemäß P1-110) Datenjahr  = 4-stellig numerisch (JJJJ) Erstellungsdatum  = 8-stellig numerisch (JJJJMMTT) Endung  = csv TMZ_HI_17-87H5_2023_20240101.csv Jahresstatik.  dern 03 bis 06 der Tabelle 1 zu erstellen: Telemonitoring mit Implantaten Telemonitoring mit externen Geräten intensiviertes Telemonitoring normales Telemonitoring vier Telemonitoring-Arten identifiziert werden können und auf denen die nachfolgenden Berechnun- gen gem. § 7 Abs. 1 Buchstaben a) bis i) (mit der Berechnung von Medianen und Mittelwerten) erfol- gen können.   ist, müssen die Berechnungen für das betreffende Stratum nicht durchgeführt werden. Das sprechende leere Stratum kann in der zu erstellende csv-Datei entfallen.  -Jahresstatik nach dem Schema Satzart>_HI_<Ein- Die Bildung des Dateinamens muss nach den eine aggregierte ent-| **PFLICHTFUNKTION** | | |
 |---|---|---|
-| P 3-100 | Dateinamen der Jahresstatistik |  |
+| **P 3-100** | **Dateinamen der Jahresstatistik** |  |
 
-| PFLICHTFUNKTION | | |
+| **PFLICHTFUNKTION** | | |
 |---|---|---|
-| P 3-200 | Erstellung der Jahresstatistik |  |
+| **P 3-200** | **Erstellung der Jahresstatistik** |  |
 
 
 ---
@@ -295,7 +295,7 @@ TYP STELLEN ITÄTSPRÜFUNG JAHR der Angabe des Vorjahres des Be- richtsjahres ze
 |---|---|---|---|---|---|---|---|
 |  |  |  |  |  |  |  | - 2-stelliger Schlüssel Feld-Nr. 02, ge- |
 | 04 | TM_ART | M | nume- | 1 | 1: Telemonitoring mit Im- 2: Telemonitoring mit exter-   4: intensiviertes Telemonito- | oder 3 | Die Feld-Nr. 04 enthält den Wert,  Es kann vorkommen, dass Patienten  welcher der Patient am längsten |
-| 05 | ANZ_PAT | M | nume- | 1-5 | Anzahl der vom TMZ mit Te- P 1-130) | 34 | maximal fünfstellige Zahl ohne füh- |
+| 05 | ANZ_PAT | M | nume- | 1-5 | Anzahl der vom TMZ mit Te-**P 1-130**) | 34 | maximal fünfstellige Zahl ohne füh- |
 
 BEZEICHNUNG TYP risch risch STELLEN plantaten  nen Geräten 3: normales Telemonitoring lemonitoring versorgten Pa- tienten je TM_Art gem. Feld- Nr. 03 bis 06 gem. Tab. 1 (siehe Anforderung 1 oder 2 oder 4 ITÄTSPRÜFUNG folgt von einem Minuszeichen, ge- folgt von einem 4-stelligen alphanu- merischen Zufallskennzeichen welcher die Art des Telemonitorings beschreibt (gem. der Feld-Nr. 03 bis 06 der Tab. 1). Die vier verschiede- nen csv-Datenstrings in der jeweili- gen TMZ-Datei ergeben sich aus den Feld-Nr. 03 bis 06 gem. Tab. 1 und werden daraus entsprechend er- zeugt.  in einem Datenjahr sowohl die eine als auch die andere Telemonitoring Art erhalten. In der Jahresstatistik wird die TM-Art ausgewertet, unter während des Datenjahres behandelt wurde. rende Nullen
 
@@ -420,9 +420,9 @@ TYP STELLEN Tab. 2. für  für Feld-Nr. 22 ITÄTSPRÜFUNG dardabweichung erfolgt
 
 ---
 
-| PFLICHTFUNKTION | | |
+| **PFLICHTFUNKTION** | | |
 |---|---|---|
-| P 3-300 | Bereitstellung der Jahresstatistik |  |
+| **P 3-300** | **Bereitstellung der Jahresstatistik** |  |
 
 Die Software bietet dem Anwender die Möglichkeit ren zu lassen.
 
@@ -445,7 +445,7 @@ Um die Wei-
 
 4 BERECHNUNGSGRUNDLAGEN
 
-| BEDEUTUNG | DEFINITION / | FORMEL / BERECHNUNG / ERMITTLUNG |
+| **BEDEUTUNG** | **DEFINITION /** | **FORMEL / BERECHNUNG / ERMITTLUNG** |
 |---|---|---|
 | Median für | Bei einer aufsteigenden Sor- | Addition der beiden mittleren Werte der Daten- |
 | Median für | Bei einer aufsteigenden Sor- | Ermittlung des Wertes |

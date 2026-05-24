@@ -1,8 +1,8 @@
-|  | IT in der Arztpraxis |
+|  | ***IT in der Arztpraxis***** |
 |---|---|
-|  | Schnittstellenbeschreibung |
+|  | *Schnittstellenbeschreibung* |
 |  | [KBV_ITA_VGEX_Schnittstelle_SD |
-|  |  |
+|  | ** |
 |  | Dezernat Digitalisierung und IT |
 |  |  |
 |  | 10623 Berlin, Herbert-Lewin-Platz 2 |
@@ -19,15 +19,15 @@ SDHM (Heilmittelstammdatei) HM] 2.10 Datum: 15.05.2024 Kennzeichnung: Öffentlic
 
 Die Änderungen treten zum 01.10.2024 in Kraft
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 2.10 | 15.05.2024 | KBV | Anpassungen an Version 2.7 des An- Anpassung der zulässigen Kodierung | Änderung der Heilmittel- Notationskennzeichen und | 22, 25    34 |
-| 2.04 | 29.04.2022 | KBV | Anpassungen an Version 2.5 des An- | Änderung der Heilmittel- | 15, 35 |
-| 2.03 | 03.09.2020 | KBV | Änderung des Inkrafttretens der Version | Verschiebung des Inkraft- | 2 |
-| 2.03 | 09.01.2020 | KBV | Anpassungen an Version 2.0 des An- | Änderung der Heilmittel- | Alle |
-| 2.01 | 20.10.2017 | KBV | Aufnahme der Positionsnummern zu  Kennzeichnung der Massagetechniken | Die Aufnahme der Positi- Rückmeldung von SWH | 10, 13,  22, 23,  27, 28    22, 26,  27 |
-| 2.00 | 14.08.2017 | KBV | Aktualisierung der Versionsnummer  Anpassungen bzgl. der Aufnahme der | Anpassung der Verord- | 10, 13  21, 31 |
-| 1.01 | 25.07.2016 | KBV | Korrektur einiger XML-Beispiele  Fehlerkorrektur der XML-Elemente  Anpassung der Beschreibungstexte für |  | 16, 31  28    31 |
+| 2.10 | 15.05.2024 | KBV | Anpassungen an Version 2.7 des An- Anpassung der zulässigen Kodierung | Änderung der Heilmittel- Notationskennzeichen und | **22, 25 **  **34 ** |
+| 2.04 | 29.04.2022 | KBV | Anpassungen an Version 2.5 des An- | Änderung der Heilmittel- | **15, 35 ** |
+| 2.03 | 03.09.2020 | KBV | Änderung des Inkrafttretens der Version | Verschiebung des Inkraft- | **2** |
+| 2.03 | 09.01.2020 | KBV | Anpassungen an Version 2.0 des An- | Änderung der Heilmittel- | **Alle** |
+| 2.01 | 20.10.2017 | KBV | Aufnahme der Positionsnummern zu  Kennzeichnung der Massagetechniken | Die Aufnahme der Positi- Rückmeldung von SWH | **10, 13,  22, 23,  27, 28 **  **22, 26,  27 ** |
+| 2.00 | 14.08.2017 | KBV | Aktualisierung der Versionsnummer  Anpassungen bzgl. der Aufnahme der | Anpassung der Verord- | **10, 13  21, 31 ** |
+| 1.01 | 25.07.2016 | KBV | Korrektur einiger XML-Beispiele  Fehlerkorrektur der XML-Elemente  Anpassung der Beschreibungstexte für |  | **16, 31  28 **  **31 ** |
 | 1.0 | 30.03.2016 | KBV | neues Dokument |  |  |
 
 **U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O**  **R** **I** **E**
@@ -582,11 +582,11 @@ Zur Visualisierung der verwendeten XML -Schemata werden Diagramme verwendet, der
 
 Es existieren verschiedene Kardinalitäten:
 
-| Kardinalität | Symbol | Beschreibung |
+| **Kardinalität** | **Symbol** | **Beschreibung** |
 |---|---|---|
-| 0..1 |  | Optionale Elemente  Ein optionales Element wird als Rechteck mit gestri- |
-| 1 |  | Obligatorische Elemente  Elemente, welche als Rechteck mit durchgezogener |
-| n...m |  | Mehrfache Elemente  Bei Elementen, welche mehrfach vorkommen kön- |
+| 0..1 |  | **Optionale Elemente ** Ein optionales Element wird als Rechteck mit gestri- |
+| 1 |  | **Obligatorische Elemente ** Elemente, welche als Rechteck mit durchgezogener |
+| n...m |  | **Mehrfache Elemente ** Bei Elementen, welche mehrfach vorkommen kön- |
 
 **Tabelle 1:** Beschreibung der Kardinalitäten eines XML-Elements
 
@@ -601,7 +601,7 @@ Die Elemente eines Schema -Diagramms werden über sogenannte Strukturelemente mi
 
 und ***<xs:sequence>***
 
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |---|---|
 |  | Das Strukturelement |
 |  | Das Strukturelement |
@@ -612,12 +612,12 @@ und ***<xs:sequence>***
 
 Es werden außerdem folgende Diagramm-Symbole verwendet:
 
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |---|---|
-|  | Element mit Kindelementen  Ein Element mit einem oder mehreren Kindelementen wird durch ein |
-|  | Referenzelement  Der Pfeil links unten im Element zeigt an, dass das Element an ande- |
-|  | Datentyp  Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen |
-|  | Gruppenelement  Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement |
+|  | **Element mit Kindelementen ** Ein Element mit einem oder mehreren Kindelementen wird durch ein |
+|  | **Referenzelement ** Der Pfeil links unten im Element zeigt an, dass das Element an ande- |
+|  | **Datentyp ** Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen |
+|  | **Gruppenelement ** Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement |
 
 **Tabelle 3:** Beschreibung sonstiger Symbole
 
@@ -1459,10 +1459,10 @@ Der XML-Code für ein <frequenzempfehlungstyp> Element hat folgenden Aufbau:
 
 Das V-Attribut kann folgende Werte annehmen:
 
-| einheiten_pro_tag |
-|---|
-| einheiten_pro_woche |
-| wochen_zwischen_einheiten |
+\| **einheiten_pro_tag** |
+\|---|
+\| **einheiten_pro_woche** |
+\| **wochen_zwischen_einheiten** |
 
 **Tabelle 4:** Mögliche Werte bei frequenzempfehlungstyp
 
@@ -1774,7 +1774,7 @@ Siehe Abschnitt 5.11.7.4.1 icd_code.
 
 **6 Referenzierte Dokumente**
 
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 |---|---|
 | KBV_ITA_VGEX_eHD | ehd |
 

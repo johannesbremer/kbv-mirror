@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT  15. MAI 2024  VERSION: 4.2   DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT  15. MAI 2024  VERSION: 4.2   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # ANTRAG AUF ZERTIFIZIERUNG QS HÖRGERÄTEVERSORGUNG
@@ -29,21 +29,21 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 |  |  | | |
 |---|---|---|---|
-| Name des Antragstellers  [bei juristischen Personen ist die |  | | |
-| Geschäftsbereich [falls vorhanden] |  | | |
-| Straße und Hausnummer |  | | |
-| PLZ, Ort |  | | |
-| Telefonnummer |  | | |
-| E-Mail-Adresse |  | | |
-| Webseite |  | | |
-| Der Antragsteller ist | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
-| Systempfleger  [nur anzugeben, wenn der |  | | |
-| Straße und Hausnummer |  | | |
-| PLZ, Ort |  | | |
-| Telefonnummer |  | | |
-| E-Mail-Adresse |  | | |
+| **Name des Antragstellers  [bei juristischen Personen ist die** |  | | |
+| **Geschäftsbereich [falls vorhanden]** |  | | |
+| **Straße und Hausnummer** |  | | |
+| **PLZ, Ort** |  | | |
+| **Telefonnummer** |  | | |
+| **E-Mail-Adresse** |  | | |
+| **Webseite** |  | | |
+| **Der Antragsteller ist** | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
+| **Systempfleger  [nur anzugeben, wenn der** |  | | |
+| **Straße und Hausnummer** |  | | |
+| **PLZ, Ort** |  | | |
+| **Telefonnummer** |  | | |
+| **E-Mail-Adresse** |  | | |
 
-Rechtsform anzugeben] [ ] Systempfleger vom Antragsteller abweicht] [ ] [ ]
+Rechtsform anzugeben] Systempfleger vom Antragsteller abweicht] [ ] [ ] [ ]
 
 ---
 
@@ -53,10 +53,10 @@ Nur anzugeben, wenn abweichend von Abschnitt
 
 |  |  |
 |---|---|
-| Bestell- bzw. Auftragsnummer des |  |
-| Name |  |
-| Straße und Hausnummer |  |
-| PLZ, Ort |  |
+| **Bestell- bzw. Auftragsnummer des** |  |
+| **Name** |  |
+| **Straße und Hausnummer** |  |
+| **PLZ, Ort** |  |
 
 ## 1.3 ZERTIFIZIERUNGSGEGENSTAND
 
@@ -64,8 +64,8 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls
 
 |  |  |
 |---|---|
-| Bezeichnung |  |
-| Identnummer [die letzten drei |  |
+| **Bezeichnung** |  |
+| **Identnummer [die letzten drei** |  |
 
 ## 1.4  BETRIEBSSYSTEME
 
@@ -97,20 +97,20 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ] [ 
 
 Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizierungsthema“ sowie die  „Geschäftsführung“ zu benennen.
 
-|  | |
+\|  | |
 | Ansprechpartner(in) für das vorliegende Zertifizierungsthema | |
 |---|---|
-| Name* |  |
-| Telefonnummer* |  |
-| E-Mail-Adresse* |  |
+| **Name*** |  |
+| **Telefonnummer*** |  |
+| **E-Mail-Adresse*** |  |
 | Ansprechpartner(in): Geschäftsführung | |
-| Name* |  |
-| Telefonnummer |  |
-| E-Mail-Adresse* |  |
+| **Name*** |  |
+| **Telefonnummer** |  |
+| **E-Mail-Adresse*** |  |
 | Ansprechpartner(in): Produktmanagement | |
-| Name |  |
-| Telefonnummer |  |
-| E-Mail-Adresse |  |
+| **Name** |  |
+| **Telefonnummer** |  |
+| **E-Mail-Adresse** |  |
 
 Diese Information ist verpflichtend anzugeben
 
@@ -129,7 +129,7 @@ Diese Information ist verpflichtend anzugeben
 
 - (4) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
 
-| THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART | KOSTEN IN € |
+| **THEMA** | **ZERTIFIZIERUNGSART** | **PRÜFUNGSART** | **KOSTEN IN €** |
 |---|---|---|---|
 | QSHGV | Neu- oder | Ergebnisprüfung | 189,23 |
 

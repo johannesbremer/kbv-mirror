@@ -109,12 +109,30 @@ Seite 3 von 11 / KBV / Technische Anlage zur Spezifikation "116117 Terminservice
 
 ---
 
-| **VERSION** | **DATUM** | **AUTOR** | **KAPITEL** |  | **ÄNDERUNG** |  | **STATUS** |
-|---|---|---|---|---|---|---|---|
-| 0.1 | 14.08.2024 | kv.digital | alle | initiale |  | Erstellung | außer Kraft |
-| Seite 4 von | 11 / KBV / | Technische Anlage | zur Spezifikation | "116117 | Terminservice | - Vermittlungscode" |  |
+**VERSION**
 
-/ KBV / Technische Anlage zur Spezifikation "116117 Terminservice - Vermittlungscode"  initiale Erstellung
+0.1
+
+Seite 4 von 11
+
+**DATUM**
+
+14.08.2024
+
+/ KBV / Technische Anlage zur Spezifikation "116117 Terminservice - Vermittlungscode"
+
+**AUTOR KAPITEL**
+
+kv.digital alle
+
+**ÄNDERUNG**
+
+initiale Erstellung
+
+**STATUS**
+
+außer Kraft
+
 
 ---
 

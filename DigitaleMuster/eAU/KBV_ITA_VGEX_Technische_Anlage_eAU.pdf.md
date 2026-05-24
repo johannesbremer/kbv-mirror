@@ -379,13 +379,13 @@ Bedeutung:
 
 Kürzel - KBV (steht für Kassenärztliche Bundesvereinigung und ist ein fester Wert)  Kategorie - PR (Profil), EX (Extension), VS (ValueSet), NS (NamingSystem) und CS (CodeSystem)  Thema - EAU (steht für eAU) und FOR (steht für die formularübergreifenden Festlegungen)  Bezeichnung - Bezeichnung für das entsprechende Thema
 
-| **Beispiel:** |  |  |
-|---|---|---|
-| › | Dateiname: KBV_PR_FOR_Patient |  |
-| › URL: |  | https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient |
-| › | Abbildung der | formularübergreifenden Patienteninformationen |
+| **Beispiel:** |  |
+|---|---|
+| › | Dateiname: KBV_PR_FOR_Patient |
+| › URL: | https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient |
+| › | Abbildung der formularübergreifenden Patienteninformationen |
 
-URL: https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient  Abbildung der formularübergreifenden Patienteninformationen
+URL: https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient
 
 ---
 
@@ -2803,27 +2803,23 @@ Tabelle 22: Satztabelle für die Zusammensetzung des PDF417 -Barcode-Inhaltes
 
 08
 
-09
-
-10
-
 Kostenträgerkennung
 
 Versicherten-ID
 
 Versichertenart
 
-Besondere  Personengruppe
-
-DMP-Kennzeichnung (N)BSNR
-
-9
+Besondere  Personengruppe 9
 
 <=12 1
 
 2
 
-2
+09
+
+10
+
+DMP-Kennzeichnung 2 (N)BSNR
 
 9
 
@@ -2854,18 +2850,121 @@ Coverage/extension[@url='[http://fhir.de/StructureDefini](http://fhir.de/Structu
 
 ---
 
-| **NR.** | **FELDBEZEICHNUNG** | **LÄNGE** | **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|---|---|---|
-| 11 LANR |  | 9 | n |  |  |
-| 12 | Ausstellungsdatum | 8 | n |  | Format: JJJJMMTT |
-| 13 | Erstbescheinigung | 1 | n 1 |  | 1 = angekreuzt |
-| 14 | Folgebescheinigung | 1 | n 1 |  | 1 = angekreuzt |
-| 15 | Arbeitsunfall | 1 | n 1 |  | 1 = angekreuzt |
-| 16 | Durchgangsarzt | 1 | n 1 |  | 1 = angekreuzt |
-| 17 | arbeitsunfähig seit | 8 | n |  | Format: JJJJMMTT |
-| 18 | voraussichtliche AU bis | 8 | n |  | Format: JJJJMMTT |
-| 19 | festgestellt am | 8 | n |  | Format: JJJJMMTT |
-| 20 sonstiger | Unfall | 1 | n 1 |  | 1 = angekreuzt |
+**NR.**
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+**FELDBEZEICHNUNG**
+
+LANR
+
+Ausstellungsdatum
+
+Erstbescheinigung
+
+Folgebescheinigung
+
+Arbeitsunfall
+
+Durchgangsarzt
+
+arbeitsunfähig seit
+
+voraussichtliche AU bis
+
+festgestellt am
+
+sonstiger Unfall
+
+**LÄNGE**
+
+9
+
+8
+
+1
+
+1
+
+1
+
+1
+
+8
+
+8
+
+8
+
+1
+
+**TYP**
+
+n
+
+n
+
+n
+
+n
+
+n
+
+n
+
+n
+
+n
+
+n
+
+n
+
+**ERLAUBTE INHALTE**
+
+1
+
+1
+
+1
+
+1
+
+1
+
+**FORMAT/ BEMERKUNG**
+
+Format: JJJJMMTT 1 = angekreuzt
+
+1 = angekreuzt
+
+1 = angekreuzt
+
+1 = angekreuzt
+
+Format: JJJJMMTT
+
+Format: JJJJMMTT
+
+Format: JJJJMMTT 1 = angekreuzt
 
 **X-PATH AUSDRUCK AUSGEHEND VON**  **BUNDLE/ENTRY/RESOURCE/**  ='[http://fhir.de/NamingSystem/asv/teamnummer'](http://fhir.de/NamingSystem/asv/teamnummer')]  /value/@value  sonst:  Organization/identifier/value/@value
 
@@ -2887,7 +2986,7 @@ Condition[meta/profile/@value='[https://fhir.kbv.de](https://fhir.kbv.de)  /Stru
 
 Condition[meta/profile/@value='[https://fhir.kbv.de](https://fhir.kbv.de)  /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2.']  /extension[@url='[http://hl7.org/fhir/StructureDefinition](http://hl7.org/fhir/StructureDefinition) /condition-assertedDate']/valueDateTime/@value
 
-sonstiger Unfall Condition[meta/profile/@value='[https://fhir.kbv.de](https://fhir.kbv.de)  /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2']  /extension[@url='[http://hl7.org/fhir/StructureDefinition](http://hl7.org/fhir/StructureDefinition)
+Condition[meta/profile/@value='[https://fhir.kbv.de](https://fhir.kbv.de)  /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2']  /extension[@url='[http://hl7.org/fhir/StructureDefinition](http://hl7.org/fhir/StructureDefinition)
 
 
 ---
@@ -3679,13 +3778,13 @@ Kodiert 1..100
 
 **WIE-DERH.**
 
+**BESCHREIBUNG**
+
 1..1
 
 1..1
 
 0..1
-
-**BESCHREIBUNG**
 
 Dieses Feld enthält einen Typ zur  Kennzeichnung der  verschreibenden Person z.B. Arzt,  Arzt in Weiterbildung.
 
@@ -3710,27 +3809,13 @@ WENN  das Feld „Typ der  ausstellenden /  verschreibenden Person“  gleich �
 
 ---
 
-**ID**
-
-**1 2**
-
-42a
-
-**3 4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
-
-x   Arztnummer der ausstellenden/  verschreibenden Person
-
-**LÄNGE**
-
-9
-
-**WIE-DERH.**
-
-0..1
-
-**BESCHREIBUNG**
-
-Dieses Feld enthält als  Identifikator der Person eine  Arztnummer (Lebenslange  Arztnummer LANR).
+| **ID 1 2 3 4 5 6 FELDNAME** | **LÄNGE WIE-DERH. BESCHREIBUNG** | |
+|---|---|---|
+| **(GRAU = FELDGRUPPE)** |  |  |
+| 42a x Arztnummer der ausstellenden/ 9 | 0..1 Dieses | Feld enthält als |
+| verschreibenden Person | Identifikator | der Person eine |
+|  | Arztnummer | (Lebenslange |
+|  | Arztnummer | LANR). |
 
 **BEDINGUNGEN**
 
@@ -3742,7 +3827,7 @@ Dieses Feld enthält als  Identifikator der Person eine  Arztnummer (Lebenslange
 
 WENN  der Block „Identifikator der
 
-ausstellenden/  verschreibenden Person“
+Dieses Feld enthält als Identifikator der Person eine Arztnummer (Lebenslange Arztnummer LANR). ausstellenden/  verschreibenden Person“
 
 
 ---
@@ -3879,12 +3964,12 @@ WENN  das Feld „Kennzeichen  Rechtsgrundlage“ den Wert  "01" oder "11" besit
 
 ---
 
-| **ID** | **1 2 3 4** | **5 6 FELDNAME** |  | **LÄNGE** | **WIE-DERH.** |
-|---|---|---|---|---|---|
-|  |  | **(GRAU** | **= FELDGRUPPE)** |  |  |
-| 48 | x |  | Vorsatzwort der | ausstellenden/ 1..20 | 0..1 |
-|  |  |  | verschreibenden Person |  |  |
-| **50** | **x** |  | **Verantwortliche Person** |  | **0..1** |
+| **ID** | **1 2 3 4** | **5 6 FELDNAME** |  | **LÄNGE WIE-DERH.** |
+|---|---|---|---|---|
+|  |  | **(GRAU** | **= FELDGRUPPE)** |  |
+| 48 | x |  | Vorsatzwort der ausstellenden/ | 1..20 0..1 |
+|  |  |  | verschreibenden Person |  |
+| **50** | **x** |  | **Verantwortliche Person** | **0..1** |
 
 **BESCHREIBUNG**
 
@@ -3904,7 +3989,7 @@ Dieses Feld enthält das  Vorsatzwort der Person als  Bestandteil des Nachnamens
 
 **verantwortlichen Person“**  **gleich „00“ oder „01“ oder**  **„04“ ist,**
 
-(GRAU = FELDGRUPPE) Vorsatzwort der ausstellenden/ **DANN**  **muss dieser Block**  **vorhanden sein.**  **ANSONSTEN WENN**  **das Feld „Typ der**  **ausstellenden/**  **verschreibenden Person"**  **gleich „03“ ist und das Feld**  **"Identifikator der**  **ausstellenden/**  **verschreibenden Person“**  **vorhanden ist und das Feld**  **„Typ der verantwortlichen**  **Person“ gleich „00“ oder**
+(GRAU = FELDGRUPPE) **DANN**  **muss dieser Block**  **vorhanden sein.**  **ANSONSTEN WENN**  **das Feld „Typ der**  **ausstellenden/**  **verschreibenden Person"**  **gleich „03“ ist und das Feld**  **"Identifikator der**  **ausstellenden/**  **verschreibenden Person“**  **vorhanden ist und das Feld**  **„Typ der verantwortlichen**  **Person“ gleich „00“ oder**
 
 
 ---
@@ -4642,13 +4727,13 @@ Kodiert 10
 
 **0..1**
 
+0..1
+
+0..1
+
 **Dieser Block enthält**  **Maßnahmen, die für erforderlich**  **gehalten werden.**
 
-0..1
-
 Dieses Feld beschreibt, ob  Leistungen zur medizinischen  Rehabilitation für erforderlich  gehalten werden.
-
-0..1
 
 Dieses Feld gibt für eine PKV- Versicherte/einen PKV- Versicherten ein  zukünftiges/tatsächliches  Aufnahmedatum bspw. in die  Reha, stationäre  Behandlung usw. an.
 
@@ -4873,13 +4958,15 @@ voraussichtlich um einen  Krankengeldfall (ab 7. Woche der
 
 **1 2**
 
-**3 4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
+**3 4 5 6 FELDNAME**
 
 **LÄNGE WIE-DERH.**
 
 **BESCHREIBUNG**
 
 **BEDINGUNGEN**
+
+**(GRAU = FELDGRUPPE)**
 
 Arbeitsunfähigkeit oder sonstiger  Krankengeldfall) handelt.
 

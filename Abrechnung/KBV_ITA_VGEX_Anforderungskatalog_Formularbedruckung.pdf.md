@@ -1,8 +1,8 @@
-|  | IT in der Arztpraxis |
+|  | ***IT in der Arztpraxis***** |
 |---|---|
-|  | Anforderungskatalog Formular- |
+|  | *Anforderungskatalog Formular-* |
 |  | [KBV_ITA_VGEX_Anforderungskatalog |
-|  |  |
+|  | ** |
 |  | Dezernat Digitalisierung und IT |
 |  |  |
 |  | 10623 Berlin, Herbert-Lewin-Platz 2 |
@@ -18,25 +18,27 @@ bedruckung _Formular- bedruckung] 1.37 Datum: 15.08.2025 Kennzeichnung: Öffentl
 
 **D** **O** **K**
 
-| Version Datum |  | Autor Änderung |  | Begründung | Seite |
+| **Version Datum** |  | **Autor Änderung** |  | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 1.37 | 15.08.2025 KBV |  | Aktualisierung der Referenzen auf |  | 16 |
+| 1.37 | 15.08.2025 KBV |  | Aktualisierung der Referenzen auf |  | **16** |
 | 1.36 | 15.08.2024 KBV |  | Streichung der Anforderung KP7-140 | forderungskatalogs |  |
-| 1.35 | 15.05.2024 KBV |  | Klarstellung der Anforderung KP7-82 |  | 9 |
-| 1.34 | 15.02.2024 KBV |  | Klarstellung der Anforderung KP7-81 |  | 8 |
-| 1.33 | 13.05.2022 KBV |  | Aktualisierung der Anforderung P7- |  | 13 |
-| 1.32 | 12.11.2021 KBV |  | Klarstellung der Anforderung KP7-90 |  | 11 |
-| 1.31 | 12.08.2021 KBV |  | Streichung von Muster 1 | Einführung der eAU | 5, 11,  13 |
-| 1.30 | 14.05.2021 KBV |  | Klarstellung der Anforderung KP7-95 |  | 10 |
-| 1.29 | 15.02.2021 KBV |  | Klarstellung der Umsetzungspflicht |  | 8  9 |
+| 1.35 | 15.05.2024 KBV |  | Klarstellung der Anforderung KP7-82 |  | **9** |
+| 1.34 | 15.02.2024 KBV |  | Klarstellung der Anforderung KP7-81 |  | **8** |
+| 1.33 | 13.05.2022 KBV |  | Aktualisierung der Anforderung P7- |  | **13** |
+| 1.32 | 12.11.2021 KBV |  | Klarstellung der Anforderung KP7-90 |  | **11** |
+| 1.31 | 12.08.2021 KBV |  | Streichung von Muster 1 | Einführung der eAU | **5, 11,  13** |
+| 1.30 | 14.05.2021 KBV |  | Klarstellung der Anforderung KP7-95 |  | **10** |
+| 1.29 | 15.02.2021 KBV |  | Klarstellung der Umsetzungspflicht |  | **8  9** |
 | 1.28 | 06.10.2020 KBV |  | Klarstellung der Anforderung KP7- |  |  |
 | 1.27 | 14.08.2020 KBV |  | Klarstellung der Anforderung KP7- |  |  |
 | 1.26 | 28.05.2020 KBV |  | Klarstellung der Umsetzungspflicht |  |  |
-| 1.25 | 13.05.2020 KBV |  | Aktualisierung der Anforderungen  Aufnahme von Verordnung von digi- |  | 6, 6, 13 |
-| 1.24 | 13.11.2019 KBV |  | P7-90: aktualisiert | entfällt zum 1. Januar | 9 |
-| 1.23 | 15.11.2018 KBV |  | P7-10: red. Hinweis ergänzt |  | 5 |
+| 1.25 | 13.05.2020 KBV |  | Aktualisierung der Anforderungen  Aufnahme von Verordnung von digi- |  | **6, 6, 13 ** |
+| 1.24 | 13.11.2019 KBV |  | P7-90: aktualisiert | entfällt zum 1. Januar | **9** |
+| 1.23 | 15.11.2018 KBV |  | P7-10: red. Hinweis ergänzt |  | **5** |
 
-**U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O**  **R** **I** **E**
+**U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O**
+
+**R** **I** **E**
 
 die KBV-Webseite 130 für die Anforderungen KP7-81 und für die Anforderung KP7-140 KP7-30, P7-130 und KP7-31 an die Aktualisierungen zum Statusfeld talen Gesundheitsanwendungen Inkrafttreten des An- VDGA Der Ersatzwert „UUU“
 
@@ -137,23 +139,23 @@ Geprüft wird vertragskonformes Funktionieren der Abrechnungsprogramme im Sinne 
 
 **Erläuterung der Funktionsdarstellung**
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P4-10 | Funktionsbezeichnung |
+| **P4-10** | **Funktionsbezeichnung** |
 
 Ident-Nummer einer Pflichtfunktion
 
 Ident-Nummer einer älteren Version
 
-| OPTIONALE FUNKTION | |
+| **OPTIONALE FUNKTION** | |
 |---|---|
-| K8-30 | Funktionsbezeichnung |
+| **K8-30** | **Funktionsbezeichnung** |
 
 Ident-Nummer einer optionalen Funktion
 
-| KONDITIONALE PFLICHTFUNKTION | |
+| **KONDITIONALE PFLICHTFUNKTION** | |
 |---|---|
-| KP8-30 | Funktionsbezeichnung |
+| **KP8-30** | **Funktionsbezeichnung** |
 
 Ident-Nummer einer konditionalen Pflichtfunktion, die an Bedingungen geknüpft ist.
 
@@ -188,9 +190,9 @@ des Hinweises in den Vordruckerläuterungen des mit der ersten Zahl angege benen
 
 **2.1 Bedruckung des Personalienfeldes**
 
-| PFLICHTFUNKTION ADT | |
+| **PFLICHTFUNKTION ADT** | |
 |---|---|
-| P7-10 | Maschinenlesbarer Ausdruck des Personalienfeldes |
+| **P7-10** | **Maschinenlesbarer Ausdruck des Personalienfeldes** |
 
 Die Bedruckung des Personalienfeldes aller vertragsärztlichen Formulare, muss ab dem  1.10.2014 gemäß den verbindlichen Bedruckungsvorschriften im Abschnitt „Bedruckung des
 
@@ -212,9 +214,9 @@ ping_KVK] sowie Erläuterung zu Feld FK 3107 (Straße), Kapitel 6 in [KBV_ITA_VG
 
 satzbeschreibung_KVDT].
 
-| PFLICHTFUNKTION ADT | |
+| **PFLICHTFUNKTION ADT** | |
 |---|---|
-| P 7-20 | Zweite Namenszeile |
+| **P 7-20** | **Zweite Namenszeile** |
 
 - (1) Die zweite Namenszeile wird durch die Aneinanderreihung von Titel, Vorname, Namens-
 
@@ -227,9 +229,9 @@ satzbeschreibung_KVDT].
 
 ---
 
-| KONDITIONALE PFLICHTFUNKTION | |
+| **KONDITIONALE PFLICHTFUNKTION** | |
 |---|---|
-| KP7-30 | Bedruckung mit dem TSS-Kennzeichen |
+| **KP7-30** | **Bedruckung mit dem TSS-Kennzeichen** |
 
 Die Software muss bei der Bedruckung von Vordrucken, welche von Krankenhäusern, die Leis-
 
@@ -251,9 +253,9 @@ Krankenhäusern, die Leistungen im Rahmen des § 75 Absatz 1a SGB V erbringen, i
 
 - Die Software muss im Personalienfeld der Vordrucke in Zeile 6 Druckposition 29 eine  „0“ oder im Rahmen einer Ersatzverordnung eine „1“ drucken.
 
-| KONDITIONALE PFLICHTFUNKTION | |
+| **KONDITIONALE PFLICHTFUNKTION** | |
 |---|---|
-| KP7-31 | Bedruckung mit dem Entlassmanagement |
+| **KP7-31** | **Bedruckung mit dem Entlassmanagement** |
 
 Die Software muss bei der Bedruckung von Vordrucken, welche im Rahmen des Entlassma- nagements ausgestellt werden, im Statusfeld des Personalienfelds das Entlassmanagement- Kennzeichen „4“ aufdrucken können.
 
@@ -290,9 +292,9 @@ zeile, sofern die Angaben zum Versicherten nicht auf Basis einer  werden. Die Be
 
 Vor dem Hintergrund des in vielen KVen erwarteten Ausdrucks von SKT Personalienfeld (z.B. Aktenzeichen bei Sozialämtern) gilt für den Ausdruck bei Sonstigen Kos- tenträgern, die keine Versichertenkarten ausgeben, folgende Regelung für den Ausdruck des  Inhaltes des Feldes 4124 (SKT-Zusatzangaben):
 
-| PFLICHTFUNKTION ADT | |
+| **PFLICHTFUNKTION ADT** | |
 |---|---|
-| P 7-45 | Ausdruck Inhalt des Feldes 4124 (SKT |
+| **P 7-45** | Ausdruck Inhalt des Feldes 4124 (SKT |
 
 - (1) In Analogie zum Ausdruck des Inhaltes der Felder 3105 (Versichertennummer des Patien-
 
@@ -318,9 +320,9 @@ Versichertenkarte vorgelegt -Zusatzangaben im
 
 **2.1.2.1 Namens- und Adressausdruck bei vertragsärztlichen Formularen**
 
-| KONDITIONALE PFLICHTFUNKTION | |
+| **KONDITIONALE PFLICHTFUNKTION** | |
 |---|---|
-| KP7-81 | Standardmäßiger Ausdruck der Namens |
+| **KP7-81** | Standardmäßiger Ausdruck der Namens |
 
 Die Software muss das Bedrucken des Personalienfeldes von vertragsärztlichen Formularen,  wie - Verordnungen,
 
@@ -387,9 +389,9 @@ Dies stellt den Standardfall dar. Arztbriefe oder nicht vertragsärztliche Formu
 
 **2.1.2.2 Namens- und Adressausdruck bei Überweisungs- und Abrechnungs-** **scheinen**
 
-| KONDITIONALE PFLICHTFUNKTION | |
+| **KONDITIONALE PFLICHTFUNKTION** | |
 |---|---|
-| KP7-82 | Ausdruck von Namens- und Adressinformationen bei den Mustern |
+| **KP7-82** | Ausdruck von Namens- und Adressinformationen bei den Mustern |
 
 Bei Überweisungs - /Abrechnungsscheinen sind, sofern eine Versichertenkarte (eGK sowie  KVK) eingelesen wurde, immer die amtlichen Namens- und Adressinformation von der Versi- chertenkarte für den Ausdruck des Personalienfeldes zu verwenden. Das gilt auch dann, wenn  Name oder Adresse von der Versichertenkarte als veraltet bekannt ist.
 
@@ -407,9 +409,9 @@ Ein zweiter wichtiger Punkt ist der Fremdkassenzahlungsausgleich zwischen den KV
 
 **2.2 Ausdruck von ICD-10-Diagnosen**
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P7-90 | Ausdruck von ICD-10-Diagnosen |
+| **P7-90** | Ausdruck von ICD-10-Diagnosen |
 
 Die Software muss die Formatvorgaben für den Ausdruck von ICD
 
@@ -446,9 +448,9 @@ die Seitenlokalisation, wenn diese vom Anwender angegeben wurde.
 
 **2.3 Ausdruck von Datumsangaben**
 
-| KONDITIONALE PFLICHTFUNKTION | |
+| **KONDITIONALE PFLICHTFUNKTION** | |
 |---|---|
-| KP7-95 | Ausdruck von Datumsangaben mit erweitertem |
+| **KP7-95** | Ausdruck von Datumsangaben mit erweitertem |
 
 Die Software muss den Ausdruck von Datumsangaben mit erweitertem Wertebereich für For- mularinhalte unterstützen.
 
@@ -470,9 +472,9 @@ zutrifft:
 
 Die Software muss diese Formate für die Formularinhalte der folgenden Muster unterstützen:
 
-| Muster | Felder |
+| **Muster** | **Felder** |
 |---|---|
-| 39a/b | tales (Wann?)  • |
+| 39a/b | *tales (Wann?) * • |
 
 -
 
@@ -482,9 +484,9 @@ Die Software muss diese Formate für die Formularinhalte der folgenden Muster un
 
 **2.4 Muster 16 (Rezept)**
 
-| KONDITIONALE PFLICHTFUNKTION | |
+| **KONDITIONALE PFLICHTFUNKTION** | |
 |---|---|
-| KP7-60 | Muster 16: Ankreuzfelder und Formularkennzeichen |
+| **KP7-60** | Muster 16: Ankreuzfelder und Formularkennzeichen |
 
 Unterstützt die Abrechnungssoftware das Bedrucken von Muster 16 über das Personalienfeld
 
@@ -507,9 +509,9 @@ Wertebereich in Formularin- halten Gynäkologische OP, Strahlen - oder Chemother
 
 **2.5 Muster 10A (Anforderungsschein für Laboratoriumsleistungen**  **bei Laborgemeinschaften)**
 
-| KONDITIONALE PFLICHTFUNKTION | |
+| **KONDITIONALE PFLICHTFUNKTION** | |
 |---|---|
-| KP7-71 | Anforderungen an den Einsatz von Muster 10A (Barcode PDF |
+| **KP7-71** | Anforderungen an den Einsatz von Muster 10A (Barcode PDF |
 
 Unterstützt die Abrechnungssoftware das Bedrucken von Muster 10A, so gilt:
 
@@ -523,9 +525,9 @@ Unterstützt die Abrechnungssoftware das Bedrucken von Muster 10A, so gilt:
 
 **2.6 Besonderheiten bei Arbeitsunfällen**
 
-| KONDITIONALE PFLICHTFUNKTION ADT | |
+| **KONDITIONALE PFLICHTFUNKTION ADT** | |
 |---|---|
-| KP7-80 | Muster 4 und 16 bei Arbeitsunfällen |
+| **KP7-80** | Muster 4 und 16 bei Arbeitsunfällen |
 
 Unterstützt die Abrechnungssoftware das Bedrucken von Muster 4 oder 16 über das Persona-
 
@@ -543,9 +545,9 @@ lienfeld hinaus, so gilt:
 
 **2.7 Warnhinweis bei Nichtvorlage des Versicherungsnachweises**
 
-| KONDITIONALE PFLICHTFUNKTION | |
+| **KONDITIONALE PFLICHTFUNKTION** | |
 |---|---|
-| KP 7-90 | Warnhinweis bei Nichtvorlage Versicherungsnachweis |
+| **KP 7-90** | Warnhinweis bei Nichtvorlage Versicherungsnachweis |
 
 Falls ein Anwender ein Rezept für Medikamente bzw. für Heil Überweisungsschein ausstellt, dann muss, falls kein Versicherungsnachweis (z.B. kein Über-
 
@@ -578,9 +580,9 @@ Achtung: im aktuellen Quartal lag kein gültiger Versicherungsnachweis vor. Ohne
 
 **2.8 Hinweise zum Quartalswechsel**
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P 7-100 |  |
+| **P 7-100** |  |
 
 Ein Patient kommt zu Beginn des Quartals ohne Versicherungsnachweis in die Arztpraxis. Der  Arzt möchte - in Kenntnis über mögliche Regressforderungen - den Patienten behandeln und  ein vertragsärztliches Formular ausstellen.
 
@@ -590,9 +592,9 @@ Falls die Daten zu dem Patienten aus einem Patientenstamm zur Bedruckung herange
 
 Die folgenden Funktionen müssen umgesetzt werden, wenn über die Bedruckung des Perso- nalienfeldes hinaus weitere Felder des Musters 52 durch die Software bedruckt werden.
 
-| KONDITIONALE PFLICHTFUNKTION | |
+| **KONDITIONALE PFLICHTFUNKTION** | |
 |---|---|
-| KP52-1 | Formatvorgaben aus den Vordruckerläuterungen für Muster 52 |
+| **KP52-1** | Formatvorgaben aus den Vordruckerläuterungen für Muster 52 |
 
 Die Software muss die Formatvorgaben aus den Vordruckerläuterungen für das Muster 52 ein-
 
@@ -616,17 +618,17 @@ Die Software druckt:
 
 - *die Arbeitsunfähigkeit?* (siehe VE 52.1).
 
-| KONDITIONALE PFLICHTFUNKTION | |
+| **KONDITIONALE PFLICHTFUNKTION** | |
 |---|---|
-| KP52-3 | Ausdruck eines Diagnosefreitextes |
+| **KP52-3** | Ausdruck eines Diagnosefreitextes |
 
 Die Software muss dem Anwender den Ausdruck eines Diagnosefreitextes ermöglichen.
+
+- in dem For-
 
 - VE 52) und
 
 - *Diagnose(n) (ICD10) besteht*
-
-- in dem For-
 
 Quartalswechsel
 
@@ -640,9 +642,9 @@ Der Anwender muss die Möglichkeit haben, notwendige zusätzliche Angaben außer
 
 Die Software erlaubt dem Anwender die  das Freitextfeld des Abschnitts *9. Sonstiges/Bemerkungen zum Gesundheitszustand*
 
-| KONDITIONALE PFLICHTFUNKTION | |
+| **KONDITIONALE PFLICHTFUNKTION** | |
 |---|---|
-| KP52-4 | Überprüfung des Platzbedarfes bei Diagnosefreitext |
+| **KP52-4** | Überprüfung des Platzbedarfes bei Diagnosefreitext |
 
 Die Software muss den Anwender über zu wenig Platz für den Ausdruck des Diagnosefreitex- tes informieren.
 
@@ -660,9 +662,9 @@ werden soll. Die Software ermöglicht dem Anwender diesen Text zu ändern.
 
 **2.10 Ambulante spezialärztlichen Versorgung (ASV)**
 
-| PFLICHTFUNKTION ADT | |
+| **PFLICHTFUNKTION ADT** | |
 |---|---|
-| P7-130 | Bedruckung mit dem ASV-Kennzeichen, der ASV-Teamnummer und der |
+| **P7-130** | Bedruckung mit dem ASV-Kennzeichen, der ASV-Teamnummer und der |
 
 Die Software muss bei der Bedruckung von Formularen, welche für die Behandlung von ASV-
 
@@ -744,7 +746,7 @@ In der vertragsärztlichen Versorgung existieren zur Identifikation der Kostentr
 
 **3.2 Referenzierte Dokumente**
 
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 |---|---|
 | [KBV_ITA_VGEX_Anforderungskatalog_KVDT] | Anforderungskatalog KVDT, in aktuellster Version |
 | [KBV_ITA_VGEX_Datensatzbeschreibung_KVDT] | Datensatzbeschreibung KVDT, in aktuellster Ver- |

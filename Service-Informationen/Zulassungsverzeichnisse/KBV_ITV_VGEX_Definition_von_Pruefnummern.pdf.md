@@ -1,15 +1,15 @@
-|  |
-|---|
+\|  |
+\|---|
 
 # KBV PRÜFNUMMERN DEFINITION
 
 [KBV_ITV_VGEX_Definition_von_Prüfnummern]
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 15. NOVEMBER 2023  VERSION 1.0 |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 15. NOVEMBER 2023  VERSION 1.0** |
 |---|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
 BUNDESVEREINIGUNG   IT IN DER VERSORGUNG
 
@@ -32,7 +32,7 @@ BUNDESVEREINIGUNG   IT IN DER VERSORGUNG
 
 **DOKUMENTENSTATUS**
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.0 | 15.11.2023 | KBV | Initiales Dokument | Bereitstellung der | alle |
 
@@ -57,7 +57,7 @@ Wobei die Stellen im Einzelnen folgendes bedeuten:
 
 **Softwareklasse:**
 
-| WERT | BEDEUTUNG |
+| **WERT** | **BEDEUTUNG** |
 |---|---|
 | X | System |
 | Y | Praxisverwaltungssystem |
@@ -66,7 +66,7 @@ Wobei die Stellen im Einzelnen folgendes bedeuten:
 
 **Komponente**
 
-| WERT | NAME |
+| **WERT** | **NAME** |
 |---|---|
 | 1 | KVDT ADT |
 | 2 | KVDT KADT |
@@ -90,19 +90,19 @@ Wobei die Stellen im Einzelnen folgendes bedeuten:
 | 500 | KVDT SADT |
 | 806-808 | KV-SafeNet Versionen 3.1-3.3 |
 
+in der Regel für 36
+
 en erneuert werden.
 
 ist:
 
 **-ID**
 
-in der Regel für 36
-
 Deutsche Krankenhausgesellschaft
 
 ---
 
-| WERT | NAME |
+| **WERT** | **NAME** |
 |---|---|
 | 820-821 | Richtlinie KV |
 
@@ -126,7 +126,7 @@ Diese identifizieren das System des Herstellers bei der KBV.
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | Dokument |
 | Zertifizierungsrichtlinie | Auf dem Update-Server der KBV  https://update.kbv.de/ita-up- |
 | Zulassungslisten für Praxisverwaltungssysteme | Auf der Homepage der KBV  https://www.kbv.de/html/5614.php |
 | Zertifizierungsportal der KBV | ZPORT im Internet  https://zertifizierungsportal2.kbv.de/zport/ |

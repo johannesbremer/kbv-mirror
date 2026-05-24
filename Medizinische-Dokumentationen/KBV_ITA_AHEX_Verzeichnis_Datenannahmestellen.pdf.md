@@ -1,42 +1,42 @@
-| KV-Bereich | Einschränkung | Name | IK | Postanschrift | Adresse für Dokumentations- | Ansprechpersonen |
+| **KV-Bereich** | **Einschränkung** | **Name** | **IK** | **Postanschrift** | **Adresse für Dokumentations-** | **Ansprechpersonen** |
 |---|---|---|---|---|---|---|
-| Übersicht der DMP-Datenannahmestellen ( | KV-Bereich | Einschränkung | Name | IK | Postanschrift | Adresse für Dokumentations- |
-| Übersicht der DMP-Datenannahmestellen ( | KV-Bereich | Einschränkung | Name | IK | Postanschrift | Adresse für Dokumentations- |
-| Übersicht der DMP-Datenannahmestellen ( | KV-Bereich | Einschränkung | Name | IK | Postanschrift | Adresse für Dokumentations- |
-| Übersicht der DMP-Datenannahmestellen ( | KV-Bereich | Einschränkung | Name | IK | Postanschrift | Adresse für Dokumentations- |
-| Übersicht der DMP-Datenannahmestellen ( | KV-Bereich | Einschränkung | Name | IK | Postanschrift | Adresse für Dokumentations- |
+| **Übersicht der DMP-Datenannahmestellen (** | **KV-Bereich** | **Einschränkung** | **Name** | **IK** | **Postanschrift** | **Adresse für Dokumentations-** |
+| **Übersicht der DMP-Datenannahmestellen (** | **KV-Bereich** | **Einschränkung** | **Name** | **IK** | **Postanschrift** | **Adresse für Dokumentations-** |
+| **Übersicht der DMP-Datenannahmestellen (** | **KV-Bereich** | **Einschränkung** | **Name** | **IK** | **Postanschrift** | **Adresse für Dokumentations-** |
+| **Übersicht der DMP-Datenannahmestellen (** | **KV-Bereich** | **Einschränkung** | **Name** | **IK** | **Postanschrift** | **Adresse für Dokumentations-** |
+| **Übersicht der DMP-Datenannahmestellen (** | **KV-Bereich** | **Einschränkung** | **Name** | **IK** | **Postanschrift** | **Adresse für Dokumentations-** |
 | Baden- | AOK    Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs,  KHK,  Asthma bronchiale,  COPD  LKK:  Brustkrebs | IQVIA Health System | 66 14 30 035 | IQVIA Health System Services  1 1 Abteilung DMP-BW (AOK)  Postfach 50 07 51  04304 Leipzig | KIM-Adresse:  DMP-Datenstelle@davaso.kim.telematik | DMP-Hotline:  Tel.: 0341-25920-43  Fax: 0341-25920-22    dmp-bw@iqvia-hss.de |
 | Baden- | IKK, BKK, KBS, vdek    Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs,  KHK,  Asthma bronchiale,  COPD | SPS Germany GmbH | 59 09 12 218 | DMP-Datenstelle -   Baden-Württemberg  Postfach 10 03 18  96055 Bamberg | KIM-Adresse:  edmp.datenstelle.bawue@i- motion.kim.telematik | Praxis-Hotline:  0951/30939-68  datenstelle@dmpservices.de |
 | Bayern | AOK, IKK, BKK, KBS, vdek, LKK  Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs,  KHK,  Asthma bronchiale,  COPD,  Osteoporose (ab 01.10.2025) | Arbeitsgemeinschaft | 59 09 14 492 | Arbeitsgemeinschaft | KIM-Adresse:  dokumentation@dmp-datenstelle- bayern.kim.telematik | Herr Brummer  Servicetelefonie:  info@dmp-bayern.de |
-| Ansprechpersonen | Baden- AOK    Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs, | KHK, | Asthma bronchiale, | COPD  LKK:  Brustkrebs  IQVIA Health System  66 14 30 035 | IQVIA Health System Services  1 Abteilung DMP-BW (AOK)  Postfach 50 07 51  04304 Leipzig  KIM-Adresse: | DMP-Datenstelle@davaso.kim.telematik  DMP-Hotline:  Tel.: 0341-25920-43  Fax: 0341-25920-22    dmp-bw@iqvia-hss.de |
+| **Ansprechpersonen** | Baden- AOK    Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs, | KHK, | Asthma bronchiale, | COPD  LKK:  Brustkrebs  IQVIA Health System  66 14 30 035 | IQVIA Health System Services  1 Abteilung DMP-BW (AOK)  Postfach 50 07 51  04304 Leipzig  KIM-Adresse: | DMP-Datenstelle@davaso.kim.telematik  DMP-Hotline:  Tel.: 0341-25920-43  Fax: 0341-25920-22    dmp-bw@iqvia-hss.de |
 |  | Baden- IKK, BKK, KBS, vdek    Diabetes mellitus Typ 1, |  | Diabetes mellitus Typ 2, | Brustkrebs,  KHK, | Asthma bronchiale,  COPD  SPS Germany GmbH | 59 09 12 218  DMP-Datenstelle -   Baden-Württemberg  Postfach 10 03 18  96055 Bamberg  KIM-Adresse: |
 | edmp.datenstelle.bawue@i- | motion.kim.telematik  Praxis-Hotline:  0951/30939-68  datenstelle@dmpservices.de  Bayern  AOK, IKK, BKK, KBS, vdek, LKK | Diabetes mellitus Typ 1, | Diabetes mellitus Typ 2, | Brustkrebs,  KHK,  Asthma bronchiale,  COPD,  Osteoporose (ab 01.10.2025) Arbeitsgemeinschaft | 59 09 14 492  Arbeitsgemeinschaft  KIM-Adresse: | dokumentation@dmp-datenstelle- bayern.kim.telematik  Herr Brummer  Servicetelefonie:  info@dmp-bayern.de |
 |  | 1 |  |  |  |  |  |
-| Ansprechpersonen | Baden- AOK    Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs, | KHK, | Asthma bronchiale, | COPD  LKK:  Brustkrebs | IQVIA Health System  66 14 30 035  IQVIA Health System Services  1 Abteilung DMP-BW (AOK)  Postfach 50 07 51 | 04304 Leipzig  KIM-Adresse:  DMP-Datenstelle@davaso.kim.telematik  DMP-Hotline:  Tel.: 0341-25920-43  Fax: 0341-25920-22    dmp-bw@iqvia-hss.de |
+| **Ansprechpersonen** | Baden- AOK    Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs, | KHK, | Asthma bronchiale, | COPD  LKK:  Brustkrebs | IQVIA Health System  66 14 30 035  IQVIA Health System Services  1 Abteilung DMP-BW (AOK)  Postfach 50 07 51 | 04304 Leipzig  KIM-Adresse:  DMP-Datenstelle@davaso.kim.telematik  DMP-Hotline:  Tel.: 0341-25920-43  Fax: 0341-25920-22    dmp-bw@iqvia-hss.de |
 |  | Baden- IKK, BKK, KBS, vdek    Diabetes mellitus Typ 1, | Diabetes mellitus Typ 2, |  | Brustkrebs,  KHK,  Asthma bronchiale, | COPD  SPS Germany GmbH  59 09 12 218 | DMP-Datenstelle -   Baden-Württemberg  Postfach 10 03 18  96055 Bamberg  KIM-Adresse: |
 | edmp.datenstelle.bawue@i- | motion.kim.telematik  Praxis-Hotline:  0951/30939-68  datenstelle@dmpservices.de  Bayern | AOK, IKK, BKK, KBS, vdek, LKK | Diabetes mellitus Typ 1, | Diabetes mellitus Typ 2,  Brustkrebs,  KHK,  Asthma bronchiale, | COPD,  Osteoporose (ab 01.10.2025) Arbeitsgemeinschaft | 59 09 14 492  Arbeitsgemeinschaft  KIM-Adresse:  dokumentation@dmp-datenstelle- bayern.kim.telematik |
 | Herr Brummer | Servicetelefonie:  info@dmp-bayern.de  1 |  |  |  |  |  |
-| Ansprechpersonen | Baden- AOK    Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs, | KHK, | Asthma bronchiale, | COPD  LKK:  Brustkrebs  IQVIA Health System  66 14 30 035  IQVIA Health System Services | 1 | Abteilung DMP-BW (AOK)  Postfach 50 07 51  04304 Leipzig  KIM-Adresse:  DMP-Datenstelle@davaso.kim.telematik  DMP-Hotline:  Tel.: 0341-25920-43  Fax: 0341-25920-22    dmp-bw@iqvia-hss.de  Baden- |
+| **Ansprechpersonen** | Baden- AOK    Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs, | KHK, | Asthma bronchiale, | COPD  LKK:  Brustkrebs  IQVIA Health System  66 14 30 035  IQVIA Health System Services | 1 | Abteilung DMP-BW (AOK)  Postfach 50 07 51  04304 Leipzig  KIM-Adresse:  DMP-Datenstelle@davaso.kim.telematik  DMP-Hotline:  Tel.: 0341-25920-43  Fax: 0341-25920-22    dmp-bw@iqvia-hss.de  Baden- |
 |  | IKK, BKK, KBS, vdek    Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs, |  | KHK, | Asthma bronchiale,  COPD  SPS Germany GmbH  59 09 12 218 | DMP-Datenstelle -   Baden-Württemberg | Postfach 10 03 18  96055 Bamberg  KIM-Adresse:  edmp.datenstelle.bawue@i- motion.kim.telematik  Praxis-Hotline:  0951/30939-68  datenstelle@dmpservices.de |
 |  | Bayern  AOK, IKK, BKK, KBS, vdek, LKK  Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs,  KHK,  Asthma bronchiale,  COPD, | Osteoporose (ab 01.10.2025) | Arbeitsgemeinschaft | 59 09 14 492  Arbeitsgemeinschaft  KIM-Adresse:  dokumentation@dmp-datenstelle- bayern.kim.telematik | Herr Brummer  Servicetelefonie:  info@dmp-bayern.de | 1 |
 |  |  |  |  |  |  |  |
-| Ansprechpersonen | Baden- AOK    Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs, | KHK, | Asthma bronchiale, | COPD  LKK:  Brustkrebs | IQVIA Health System  66 14 30 035  IQVIA Health System Services  1 Abteilung DMP-BW (AOK)  Postfach 50 07 51 | 04304 Leipzig  KIM-Adresse:  DMP-Datenstelle@davaso.kim.telematik |
+| **Ansprechpersonen** | Baden- AOK    Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs, | KHK, | Asthma bronchiale, | COPD  LKK:  Brustkrebs | IQVIA Health System  66 14 30 035  IQVIA Health System Services  1 Abteilung DMP-BW (AOK)  Postfach 50 07 51 | 04304 Leipzig  KIM-Adresse:  DMP-Datenstelle@davaso.kim.telematik |
 | DMP-Hotline: | Tel.: 0341-25920-43  Fax: 0341-25920-22    dmp-bw@iqvia-hss.de  Baden- IKK, BKK, KBS, vdek    Diabetes mellitus Typ 1, | Diabetes mellitus Typ 2, |  | Brustkrebs,  KHK,  Asthma bronchiale, | COPD  SPS Germany GmbH  59 09 12 218 | DMP-Datenstelle -   Baden-Württemberg  Postfach 10 03 18  96055 Bamberg  KIM-Adresse: |
 | edmp.datenstelle.bawue@i- | motion.kim.telematik  Praxis-Hotline:  0951/30939-68  datenstelle@dmpservices.de  Bayern  AOK, IKK, BKK, KBS, vdek, LKK  Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs,  KHK,  Asthma bronchiale,  COPD, | Osteoporose (ab 01.10.2025) | Arbeitsgemeinschaft | 59 09 14 492  Arbeitsgemeinschaft  KIM-Adresse:  dokumentation@dmp-datenstelle- | bayern.kim.telematik  Herr Brummer | Servicetelefonie:  info@dmp-bayern.de  1 |
-| Ansprechpersonen | Baden- AOK    Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs, | KHK, | Asthma bronchiale, | COPD  LKK:  Brustkrebs | IQVIA Health System  66 14 30 035  IQVIA Health System Services  1 Abteilung DMP-BW (AOK)  Postfach 50 07 51 | 04304 Leipzig  KIM-Adresse:  DMP-Datenstelle@davaso.kim.telematik |
+| **Ansprechpersonen** | Baden- AOK    Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs, | KHK, | Asthma bronchiale, | COPD  LKK:  Brustkrebs | IQVIA Health System  66 14 30 035  IQVIA Health System Services  1 Abteilung DMP-BW (AOK)  Postfach 50 07 51 | 04304 Leipzig  KIM-Adresse:  DMP-Datenstelle@davaso.kim.telematik |
 | DMP-Hotline: | Tel.: 0341-25920-43  Fax: 0341-25920-22    dmp-bw@iqvia-hss.de  Baden- IKK, BKK, KBS, vdek |  |  | Diabetes mellitus Typ 1,  edmp.datenstelle.bawue@i- Diabetes mellitus Typ 2,  Brustkrebs, | KHK,  Asthma bronchiale,  COPD  SPS Germany GmbH | 59 09 12 218  DMP-Datenstelle -   Baden-Württemberg  Postfach 10 03 18  96055 Bamberg |
 
 (ab 01.07.2025)  Die Firma IQVIA Health System Services GmbH vergibt für jeden KV-Bezirk ein Postfach in Leipzig, an welches die Ärzte die sollen. Für nähere Informationen wenden Sie sich bitte direkt an die Firma Services GmbH DMP-Datenstelle Bayern GbR gültig ab 01.07.2026, Stand 13.05.2026) DMP-Datenstelle Bayern GbR Postfach 21 01 40 80671 München  GmbH. E-Mail-Adresse und KIM- datensätze Teilnahme- und Einwilligungserklärungen sowie Korrekturen schicken 089 327 33 2600
 
 ---
 
-| Einschränkung | Name | IK | Postanschrift | E-Mail-Adresse und KIM- | Ansprechpersonen | Berlin |
+| **Einschränkung** | **Name** | **IK** | **Postanschrift** | **E-Mail-Adresse und KIM-** | **Ansprechpersonen** | Berlin |
 |---|---|---|---|---|---|---|
-| KV-Bereich | Einschränkung | Name | IK | Postanschrift | E-Mail-Adresse und KIM- | Ansprechpersonen |
-| KV-Bereich | Einschränkung | Name | IK | Postanschrift | E-Mail-Adresse und KIM- | Ansprechpersonen |
-| KV-Bereich | Einschränkung | Name | IK | Postanschrift | E-Mail-Adresse und KIM- | Ansprechpersonen |
-| KV-Bereich | Einschränkung | Name | IK | Postanschrift | E-Mail-Adresse und KIM- | Ansprechpersonen |
-| KV-Bereich | Einschränkung | Name | IK | Postanschrift | E-Mail-Adresse und KIM- | Ansprechpersonen |
+| **KV-Bereich** | **Einschränkung** | **Name** | **IK** | **Postanschrift** | **E-Mail-Adresse und KIM-** | **Ansprechpersonen** |
+| **KV-Bereich** | **Einschränkung** | **Name** | **IK** | **Postanschrift** | **E-Mail-Adresse und KIM-** | **Ansprechpersonen** |
+| **KV-Bereich** | **Einschränkung** | **Name** | **IK** | **Postanschrift** | **E-Mail-Adresse und KIM-** | **Ansprechpersonen** |
+| **KV-Bereich** | **Einschränkung** | **Name** | **IK** | **Postanschrift** | **E-Mail-Adresse und KIM-** | **Ansprechpersonen** |
+| **KV-Bereich** | **Einschränkung** | **Name** | **IK** | **Postanschrift** | **E-Mail-Adresse und KIM-** | **Ansprechpersonen** |
 | AOK, LKK, IKK, BKK, KBS, vdek | Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs,  KHK,  Asthma bronchiale,  COPD,  Osteoporose (ab 01.07.2025) data experts gmbh  59 11 02 528  DMP-Datenstelle Berlin  c/o data experts gmbh  Niederlassung Berlin | Allee der Kosmonauten 33g | 12681 Berlin | DMP-Annahme-Berlin@data-experts.de  AOK, IKK, BKK, LKK, KBS, vdek   KIM-Adresse:  DMP-Datenstelle@data- experts.kim.telematik | DMP-Hotline:  Tel.: 030-54708-126 | Fax: 030-54708-29126    dmpdatenstelle@data- experts.de  Brandenburg |
 | AOK, LKK, IKK, BKK, KBS, vdek | Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs,  KHK,  Asthma bronchiale,  COPD  data experts gmbh  59 11 02 528  DMP-Datenstelle Brandenburg  c/o data experts gmbh  Niederlassung Berlin  Postfach 400160  12631 Berlin  KIM-Adresse:  DMP-Datenstelle@data- experts.kim.telematik |  | DMP-Hotline: | Tel.: 030-54708-136  Fax: 030-54708-29126    dmpdatenstelle@data- experts.de | Bremen  AOK, IKK, BKK, KBS, vdek, LKK Diabetes mellitus Typ 1, | Diabetes mellitus Typ 2,  Brustkrebs,  KHK,  Asthma bronchiale, |
 | COPD, | Osteoporose (ab 01.07.2024) IQVIA Health System  66 14 30 035  IQVIA Health System Services  1 Abteilung DMP-HB  Postfach 50 06 62 | 04305 Leipzig | KIM-Adresse: | DMP-Datenstelle@davaso.kim.telematik | DMP-Hotline:  Tel.: 0341-25920-43  Fax: 0341-25920-22 | dmp-hb@iqvia-hss.de  Hamburg |
@@ -62,13 +62,13 @@ Die Firma IQVIA Health System Services GmbH vergibt für jeden KV-Bezirk ein Pos
 
 ---
 
-| Einschränkung | Name | IK | Postanschrift | E-Mail-Adresse und KIM- | Ansprechpersonen | Hessen |
+| **Einschränkung** | **Name** | **IK** | **Postanschrift** | **E-Mail-Adresse und KIM-** | **Ansprechpersonen** | Hessen |
 |---|---|---|---|---|---|---|
-| KV-Bereich | Einschränkung | Name | IK | Postanschrift | E-Mail-Adresse und KIM- | Ansprechpersonen |
-| KV-Bereich | Einschränkung | Name | IK | Postanschrift | E-Mail-Adresse und KIM- | Ansprechpersonen |
-| KV-Bereich | Einschränkung | Name | IK | Postanschrift | E-Mail-Adresse und KIM- | Ansprechpersonen |
-| KV-Bereich | Einschränkung | Name | IK | Postanschrift | E-Mail-Adresse und KIM- | Ansprechpersonen |
-| KV-Bereich | Einschränkung | Name | IK | Postanschrift | E-Mail-Adresse und KIM- | Ansprechpersonen |
+| **KV-Bereich** | **Einschränkung** | **Name** | **IK** | **Postanschrift** | **E-Mail-Adresse und KIM-** | **Ansprechpersonen** |
+| **KV-Bereich** | **Einschränkung** | **Name** | **IK** | **Postanschrift** | **E-Mail-Adresse und KIM-** | **Ansprechpersonen** |
+| **KV-Bereich** | **Einschränkung** | **Name** | **IK** | **Postanschrift** | **E-Mail-Adresse und KIM-** | **Ansprechpersonen** |
+| **KV-Bereich** | **Einschränkung** | **Name** | **IK** | **Postanschrift** | **E-Mail-Adresse und KIM-** | **Ansprechpersonen** |
+| **KV-Bereich** | **Einschränkung** | **Name** | **IK** | **Postanschrift** | **E-Mail-Adresse und KIM-** | **Ansprechpersonen** |
 | AOK, LKK, IKK, BKK, KBS, vdek | Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs,  KHK,  Asthma bronchiale,  COPD,  Osteoporose (ab 01.04.2025) SPS Germany GmbH  59 09 12 218  DMP-Datenstelle   Postfach 10 02 02  96054 Bamberg | dmp-hessen@dmpservices.de |  | KIM-Adresse:  Brustkrebs,  edmp.datenstelle.hessen@i- motion.kim.telematik  Praxis-Hotline: | 0951/30939-53  datenstelle@dmpservices.de | Praxis-Hotline DMP  0951/30939-21  datenstelle@dmpservices.de  Mecklenburg- |
 | AOK, LKK, IKK, BKK, KBS, vdek | Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs,  KHK,  Asthma bronchiale,  COPD,  Osteoporose (ab 01.10.2024) IQVIA Health System  66 14 30 035  IQVIA Health System Services  1  Abteilung DMP-MV  Postfach 50 06 54  04305 Leipzig  KIM-Adresse: | DMP-Datenstelle@davaso.kim.telematik |  | DMP-Hotline:  Tel.: 0341-25920-43  Fax: 0341-25920-22    dmp-mv@iqvia-hss.de | Niedersachsen  AOK, LKK, IKK, BKK, KBS, vdek Diabetes mellitus Typ 1, | Diabetes mellitus Typ 2,  Brustkrebs,  KHK,  Asthma bronchiale, |
 | COPD | IQVIA Health System  66 14 30 035  1 Abteilung DMP-NDS  Postfach 50 06 53  04305 Leipzig  KIM-Adresse:  DMP-Datenstelle@davaso.kim.telematik |  | DMP-Hotline: | Tel.: 0341-25920-43 | Fax: 0341-25920-22    dmp-nds@iqvia-hss.de | Nordrhein  AOK, LKK, IKK, BKK, KBS, vdek Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2, |
@@ -94,13 +94,13 @@ Vorpommern  Die Firma IQVIA Health System Services GmbH vergibt für jeden KV-Be
 
 ---
 
-| Einschränkung | Name | IK | Postanschrift | E-Mail-Adresse und KIM- | Ansprechpersonen | Rheinland-Pfalz |
+| **Einschränkung** | **Name** | **IK** | **Postanschrift** | **E-Mail-Adresse und KIM-** | **Ansprechpersonen** | Rheinland-Pfalz |
 |---|---|---|---|---|---|---|
-| KV-Bereich | Einschränkung | Name | IK | Postanschrift | E-Mail-Adresse und KIM- | Ansprechpersonen |
-| KV-Bereich | Einschränkung | Name | IK | Postanschrift | E-Mail-Adresse und KIM- | Ansprechpersonen |
-| KV-Bereich | Einschränkung | Name | IK | Postanschrift | E-Mail-Adresse und KIM- | Ansprechpersonen |
-| KV-Bereich | Einschränkung | Name | IK | Postanschrift | E-Mail-Adresse und KIM- | Ansprechpersonen |
-| KV-Bereich | Einschränkung | Name | IK | Postanschrift | E-Mail-Adresse und KIM- | Ansprechpersonen |
+| **KV-Bereich** | **Einschränkung** | **Name** | **IK** | **Postanschrift** | **E-Mail-Adresse und KIM-** | **Ansprechpersonen** |
+| **KV-Bereich** | **Einschränkung** | **Name** | **IK** | **Postanschrift** | **E-Mail-Adresse und KIM-** | **Ansprechpersonen** |
+| **KV-Bereich** | **Einschränkung** | **Name** | **IK** | **Postanschrift** | **E-Mail-Adresse und KIM-** | **Ansprechpersonen** |
+| **KV-Bereich** | **Einschränkung** | **Name** | **IK** | **Postanschrift** | **E-Mail-Adresse und KIM-** | **Ansprechpersonen** |
+| **KV-Bereich** | **Einschränkung** | **Name** | **IK** | **Postanschrift** | **E-Mail-Adresse und KIM-** | **Ansprechpersonen** |
 | AOK | Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs,  KHK,  COPD,  Asthma bronchiale,  Osteoporose (ab 01.01.2024)  DMP-Datenstelle der  10 73 10 373  AOK Rheinland-Pfalz/Saarland    DMP-Datenstelle für die Region |  | Virchowstr. 30 | 67304 Eisenberg  edmp@rps.aok.de  Tel.: 0341-25920-43  Eric Maier  0681/6001-293  Eric.Maier@rps.aok.de | dmp@rps.aok.de | Herr Siegfried Lemmert  06351-403286  siegfried.lemmert@rps.aok.de  dmp@rps.aok.de |
 |  | Rheinland-Pfalz  LKK, IKK, BKK, KBS, vdek   Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs,  KHK,  Asthma bronchiale,  COPD,  Osteoporose (ab 01.10.2025) DMP-Datenstelle Trier  98 50 00 011  Datenstelle für DMP Trier  Postfach 4240  54232 Trier | Schönbornstr. 10 | 54295 Trier | KIM-Adresse:  edmp@datenstelle-trier.kim.telematik  Herr Joachim Schu  0651/17039-0 | info@datenstelle-trier.de    KIM-Kommunikation: | info@datenstelle- trier.kim.telematik  Saarland |
 | AOK, LKK, IKK, KBS, vdek | Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs,  KHK,  Asthma bronchiale,  COPD,  Osteoporose (ab 01.10.2025) IQVIA Health System | 66 14 30 035 | IQVIA Health System Services | 1 | Abteilung DMP-SL  Postfach 50 02 08  04302 Leipzig | KIM-Adresse:  DMP-Datenstelle@davaso.kim.telematik  DMP-Hotline: |
@@ -126,13 +126,13 @@ Die Firma IQVIA Health System Services sollen. Für nähere Informationen wenden
 
 ---
 
-| Einschränkung | Name | IK | Postanschrift | E-Mail-Adresse und KIM- | Ansprechpersonen | Sachsen |
+| **Einschränkung** | **Name** | **IK** | **Postanschrift** | **E-Mail-Adresse und KIM-** | **Ansprechpersonen** | Sachsen |
 |---|---|---|---|---|---|---|
-| KV-Bereich | Einschränkung | Name | IK | Postanschrift | E-Mail-Adresse und KIM- | Ansprechpersonen |
-| KV-Bereich | Einschränkung | Name | IK | Postanschrift | E-Mail-Adresse und KIM- | Ansprechpersonen |
-| KV-Bereich | Einschränkung | Name | IK | Postanschrift | E-Mail-Adresse und KIM- | Ansprechpersonen |
-| KV-Bereich | Einschränkung | Name | IK | Postanschrift | E-Mail-Adresse und KIM- | Ansprechpersonen |
-| KV-Bereich | Einschränkung | Name | IK | Postanschrift | E-Mail-Adresse und KIM- | Ansprechpersonen |
+| **KV-Bereich** | **Einschränkung** | **Name** | **IK** | **Postanschrift** | **E-Mail-Adresse und KIM-** | **Ansprechpersonen** |
+| **KV-Bereich** | **Einschränkung** | **Name** | **IK** | **Postanschrift** | **E-Mail-Adresse und KIM-** | **Ansprechpersonen** |
+| **KV-Bereich** | **Einschränkung** | **Name** | **IK** | **Postanschrift** | **E-Mail-Adresse und KIM-** | **Ansprechpersonen** |
+| **KV-Bereich** | **Einschränkung** | **Name** | **IK** | **Postanschrift** | **E-Mail-Adresse und KIM-** | **Ansprechpersonen** |
+| **KV-Bereich** | **Einschränkung** | **Name** | **IK** | **Postanschrift** | **E-Mail-Adresse und KIM-** | **Ansprechpersonen** |
 | AOK, LKK, IKK, BKK, KBS, vdek | Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  KHK,  Brustkrebs,  Asthma bronchiale,  COPD,  Osteoporose (ab 01.10.2025) SPS Germany GmbH  59 09 12 218  DMP-Datenstelle Sachsen  Postfach 10 04 37  96056 Bamberg | dmp-sachsen@dmpservices.de |  | KIM-Adresse:    edmp.datenstelle.sachsen@i- motion.kim.telematik  Praxis-Hotline: | 0951/30939-61  datenstelle@dmpservices.de | Sachsen-Anhalt  AOK, IKK, BKK, KBS, vdek  Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  KHK,  Asthma bronchiale, |
 | Brustkrebs, | COPD    AOK, IKK  Osteoporose (ab 01.10.2023)   KBS  Osteoporose (ab 01.01.2024) IQVIA Health System  66 14 30 035  IQVIA Health System Services  1 Abteilung DMP-SAN  Postfach 50 05 55  04305 Leipzig  KIM-Adresse: | DMP-Datenstelle@davaso.kim.telematik |  | DMP-Hotline:  Tel.: 0341-25920-43  Fax: 0341-25920-22    dmp-san@iqvia-hss.de | Schleswig- AOK, IKK, BKK, KBS, vdek, LKK Diabetes mellitus Typ 1, | Diabetes mellitus Typ 2,  Brustkrebs,  KHK,  Asthma bronchiale, |
 | COPD, | Rheumatoide Arthritis (ab    AOK, BKK, KBS, vdek, LKK  Osteoporose (ab 01.10.2023)    IKK  Osteoporose (ab 01.01.2024) IQVIA Health System | 66 14 30 035 | 1 | Abteilung DMP-SH | Postfach 50 07 52  04304 Leipzig  KIM-Adresse:  DMP-Datenstelle@davaso.kim.telematik | DMP-Hotline:  Tel.: 0341-25920-43  Fax: 0341-25920-22 |
@@ -158,13 +158,13 @@ Holstein 01.07.2025)  Die Firma IQVIA Health System Services GmbH vergibt für j
 
 ---
 
-| Einschränkung | Name | IK | Postanschrift | E-Mail-Adresse und KIM- | Ansprechpersonen | Thüringen |
+| **Einschränkung** | **Name** | **IK** | **Postanschrift** | **E-Mail-Adresse und KIM-** | **Ansprechpersonen** | Thüringen |
 |---|---|---|---|---|---|---|
-| KV-Bereich | Einschränkung | Name | IK | Postanschrift | E-Mail-Adresse und KIM- | Ansprechpersonen |
-| KV-Bereich | Einschränkung | Name | IK | Postanschrift | E-Mail-Adresse und KIM- | Ansprechpersonen |
-| KV-Bereich | Einschränkung | Name | IK | Postanschrift | E-Mail-Adresse und KIM- | Ansprechpersonen |
-| KV-Bereich | Einschränkung | Name | IK | Postanschrift | E-Mail-Adresse und KIM- | Ansprechpersonen |
-| KV-Bereich | Einschränkung | Name | IK | Postanschrift | E-Mail-Adresse und KIM- | Ansprechpersonen |
+| **KV-Bereich** | **Einschränkung** | **Name** | **IK** | **Postanschrift** | **E-Mail-Adresse und KIM-** | **Ansprechpersonen** |
+| **KV-Bereich** | **Einschränkung** | **Name** | **IK** | **Postanschrift** | **E-Mail-Adresse und KIM-** | **Ansprechpersonen** |
+| **KV-Bereich** | **Einschränkung** | **Name** | **IK** | **Postanschrift** | **E-Mail-Adresse und KIM-** | **Ansprechpersonen** |
+| **KV-Bereich** | **Einschränkung** | **Name** | **IK** | **Postanschrift** | **E-Mail-Adresse und KIM-** | **Ansprechpersonen** |
+| **KV-Bereich** | **Einschränkung** | **Name** | **IK** | **Postanschrift** | **E-Mail-Adresse und KIM-** | **Ansprechpersonen** |
 | AOK, LKK, IKK, BKK, KBS, vdek | Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs,  KHK,  Asthma bronchiale,  COPD,  Osteoporose (ab 01.04.2026) SPS Germany GmbH  59 09 12 218  DMP-Datenstelle   Postfach 10 04 38  96056 Bamberg | dmp-thueringen@dmpservices.de |  | KIM-Adresse:  edmp.datenstelle.thueringen@i- motion.kim.telematik  Praxis-Hotline: | 0951/30939-62  datenstelle@dmpservices.de | Westfalen-Lippe  AOK, LKK, IKK, BKK, KBS, vdek Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs,  KHK, |
 | Asthma bronchiale, | COPD,  Osteoporose (ab 01.04.2024),  Rheumatoide Arthritis (ab  IQVIA Health System  66 14 30 035  IQVIA Health System Services  1 Abteilung DMP-WL  Postfach 50 06 55  04305 Leipzig  dmp-datenaustausch@iqvia-hss.de    KIM-Adresse:  DMP-Datenstelle@davaso.kim.telematik |  | DMP-Hotline: | Tel.: 0341-25920-43  Fax: 0341-25920-22    dmp-wl@iqvia-hss.de | 1 |  |
 |  |  |  |  |  |  |  |

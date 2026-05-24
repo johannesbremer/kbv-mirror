@@ -29,7 +29,7 @@ mantelvertrag-Ärzte (BMV-Ä) den nachstehenden
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.3 | 10.01.2025 | KBV/GKV-SV | Aktualisierung des Kapi- Anpassung der Anforde- Anpassung der Anforde- Anpassung der Anforde- Anpassung der Anforde- Anpassung der Anforde- Anpassung der Anforde- Aufnahme der Anforde- | Terminierung der ver- Verpflichtende Anzeige der  Verpflichtende Anzeige des  Redaktionelle Anpassung  Erweiterung mit Akzeptanz-   Abbildung der elektroni- | 4    8,  19,  29  8,  18,  28  17    19,  29    22    22    23 |
 | 1.2 | 03.06.2024 | KBV/GKV-SV | Anpassung des Termins  Anpassung der Anforde- Anpassung der Anforde- | Klarstellungen und Anre- | 4    20    22 |
@@ -154,21 +154,21 @@ konditionalen Pflichtfunktionen ist im Rahmen eines Gutachterverfahrens nachzuwe
 
 **Erläuterung der Funktionsdarstellung:**
 
-| PFLICHTFUNKTION | | |
+| **PFLICHTFUNKTION** | | |
 |---|---|---|
-| Px-xxx | Funktionsbezeichnung |  |
+| **Px-xxx** | **Funktionsbezeichnung** |  |
 
 Ident-Nummer einer Pflichtfunktion
 
-| KONDITIONALE PFLICHTFUNKTION | |
+| **KONDITIONALE PFLICHTFUNKTION** | |
 |---|---|
-| KPx-xxx | Funktionsbezeichnung |
+| **KPx-xxx** | **Funktionsbezeichnung** |
 
 Ident-Nummer einer konditionalen Pflichtfunktion, die an Bedingungen geknüpft ist, welche be- schrieben sind.
 
-| OPTIONALE FUNKTION | |
+| **OPTIONALE FUNKTION** | |
 |---|---|
-| Ox-xxx | Funktionsbezeichnung |
+| **Ox-xxx** | **Funktionsbezeichnung** |
 
 Ident-Nummer einer optionalen Funktion
 
@@ -178,9 +178,9 @@ Eine Anforderungsfunktion kann Hinweise und/oder Beispiele zur Umsetzung enthalt
 
 **1.4** **ALLGEMEINE ANFORDERUNG AN DIE VER**
 
-| PFLICHTFUNKTION | | |
+| **PFLICHTFUNKTION** | | |
 |---|---|---|
-| P1-310 | Benutzerhandbuch |  |
+| **P1-310** | **Benutzerhandbuch** |  |
 
 Den nutzenden Ärzten und Psychotherapeuten wird eine ausreichende Dokumentation der Verord- nungssoftware zur Verfügung gestellt.
 
@@ -198,9 +198,9 @@ te Prüfung im Rahmen des Zertifi-
 
 t - zur Ver-
 
-| PFLICHTFUNKTION | | |
+| **PFLICHTFUNKTION** | | |
 |---|---|---|
-| P1-320 | Sicherung von Nutzereinstellungen |  |
+| **P1-320** | **Sicherung von Nutzereinstellungen** |  |
 
 Die Einstellungen, welche innerhalb der Software durch die nutzenden Ärzte und Psychotherapeuten  vorgenommen wurden, müssen nach Aktualisierung der Software erhalten bleiben.
 
@@ -217,9 +217,9 @@ Psychotherapeuten im Zusammenhang
 
 - 1. Die von den nutzenden Ärzten und Psychotherapeuten hinterlegten Nutzereinstellungen müssen  nach der Aktualisierung der Verordnungssoftware im System hinterlegt bleiben.
 
-| PFLICHTFUNKTION | | |
+| **PFLICHTFUNKTION** | | |
 |---|---|---|
-| P1-330 | Freischaltung einzelner Informationen |  |
+| **P1-330** | **Freischaltung einzelner Informationen** |  |
 
 Die nutzenden Ärzte und Psychotherapeuten müssen auf alle angebotenen Informationsinhalte zu  digitalen Gesundheitsanwendungen zugreifen können, ohne dass eine gesonderte Freischaltung oder  andere Maßnahmen zur Aktivierung notwendig ist.
 
@@ -240,9 +240,9 @@ Der zeitliche und bürokratische Aufwand für die Ärzte und Psychotherapeuten i
 
 GESUNDHEITSANWENDUNGEN
 
-| PFLICHTFUNKTION | | |
+| **PFLICHTFUNKTION** | | |
 |---|---|---|
-| P2-010 | Vollständigkeit und Aktualität der Daten des Produktverzeichnisses |  |
+| **P2-010** | **Vollständigkeit und Aktualität der Daten des Produktverzeichnisses** |  |
 
 Die Daten des DiGA-Verzeichnisses des BfArM (Bundesinstitut für Arzneimittel und Medizinprodukte)  bestehend aus Preis- und Produktinformationen nach § 139e SGB V sind den nutzenden Ärzten und  Psychotherapeuten von der Verordnungssoftware vollständig und aktuell bereitzustellen.
 
@@ -276,9 +276,9 @@ Sobald eine DiGA das Prüfverfahren des BfArM erfolgreich durchlaufen hat, werde
 
 Zusätzlich zum Datum des Datenstands des Produktverzeichnisses kann dessen Alter in Tagen ange- geben werden, um die Aktualität der Daten einfacher erfassbar zu gestalten.
 
-| PFLICHTFUNKTION | | |
+| **PFLICHTFUNKTION** | | |
 |---|---|---|
-| P2-015 | Prüfregeln zur Aktualität der Daten des Produktverzeichnisses |  |
+| **P2-015** | **Prüfregeln zur Aktualität der Daten des Produktverzeichnisses** |  |
 
 In der Verordnungssoftware sind Prüfregeln zu implementieren, die bei Ablauf der Aktualität der Da- ten des Produktverzeichnisses auf durchzuführende Aktualisierungen aufmerksam machen.
 
@@ -301,9 +301,9 @@ Der Begriff „Aufruf“ bezieht sich auf den für die nutzenden Ärzte und Psyc
 
 Zusätzlich zum Datum des Datenstands des Produktverzeichnisses kann dessen Alter in Tagen ange- geben werden, um die Aktualität der Daten einfacher erfassbar zu gestalten.
 
-| PFLICHTFUNKTION | | |
+| **PFLICHTFUNKTION** | | |
 |---|---|---|
-| P2-020 | Mindestangaben der Daten des Produktverzeichnisses |  |
+| **P2-020** | **Mindestangaben der Daten des Produktverzeichnisses** |  |
 
 Von den Daten des Produktverzeichnisses werden den nutzenden Ärzten und Psychotherapeuten  Mindestangaben für DiGA zur Verfügung gestellt.
 
@@ -364,9 +364,9 @@ kennba-
 
 - Informationen zum positiven Versorgungseffekt
 
-| PFLICHTFUNKTION | | |
+| **PFLICHTFUNKTION** | | |
 |---|---|---|
-| P2-021 | Liste von nicht indizierten Geschlechtskennzeichen der Ziel |  |
+| **P2-021** | **Liste von nicht indizierten Geschlechtskennzeichen der Ziel** |  |
 
 Den nutzenden Ärzten und Psychotherapeuten wird auf Ebene der  kennzeichen zur Verfügung gestellt, die Ziel- /Patientengruppen kennzeichnen, für welche die An-
 
@@ -417,9 +417,9 @@ Falls eine DiGA-Verordnungseinheit für Patienten aller drei Geschlechtskennzeic
 
 schlechtskennzeichen der Ziel- /Patientengruppen leer.
 
-| OPTIONALE FUNKTION | |
+| **OPTIONALE FUNKTION** | |
 |---|---|
-| O2-030 | Weitere Inhalte der Daten des Produktverzeichnisses |
+| **O2-030** | **Weitere Inhalte der Daten des Produktverzeichnisses** |
 
 Von den Daten des Produktverzeichnisses werden den nutzenden Ärzten und Psychotherapeuten
 
@@ -439,9 +439,9 @@ P2-020 entsprechenden Daten des Produktverzeichnisses hilfreich sein.
 
 - ten des Produktverzeichnisses nach § 139e SGB V vorhanden ist.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P2-050 | Nachträgliche Bearbeitung von Daten aus dem Produktverzeichnis |
+| **P2-050** | **Nachträgliche Bearbeitung von Daten aus dem Produktverzeichnis** |
 
 Eine nachträgliche Bearbeitung von Daten aus dem Produktverzeichnis gemäß Pflichtfunktion P2-010
 
@@ -464,9 +464,9 @@ schung der Daten dar, die im Rahmen der vertragsärztlichen Verordnung von DiGA 
 
 3 WERBUNG
 
-| KONDITIONALE PFLICHTFUNKTION | |
+| **KONDITIONALE PFLICHTFUNKTION** | |
 |---|---|
-| KP3-020 | Verhalten der Software bei der Anzeige von Werbung |
+| **KP3-020** | **Verhalten der Software bei der Anzeige von Werbung** |
 
 Sofern die Verordnungssoftware Produktwerbung anzeigt, muss die Anzeige von Werbung eindeutig  abgegrenzt sein.
 
@@ -515,9 +515,9 @@ bung anzeigt.
 
 ---
 
-| KONDITIONALE PFLICHTFUNKTION | |
+| **KONDITIONALE PFLICHTFUNKTION** | |
 |---|---|
-| KP3-030 | Ausschalten von Werbung |
+| **KP3-030** | **Ausschalten von Werbung** |
 
 Bei der Verordnung muss den nutzenden Ärzten und Psychotherapeuten ermöglicht werden, ange- zeigte Werbefenster auszublenden.
 
@@ -533,9 +533,9 @@ Die die Verordnungssoftware nutzenden Ärzte und Psychotherapeuten sollen die M�
 
 Ausgenommen von der Umsetzung dieser Anforderung ist Verordnungssoftware, welche keine Wer- bung anzeigt.
 
-| OPTIONALE  FUNKTION | |
+| **OPTIONALE  FUNKTION** | |
 |---|---|
-| O3-040 | Werbefreie Verordnungssoftware |
+| **O3-040** | **Werbefreie Verordnungssoftware** |
 
 Die Anbieter von Verordnungssoftware müssen von Produktwerbung freie Versionen ihrer Systeme  anbieten.
 
@@ -558,9 +558,9 @@ Die nutzenden Ärzte und Psychotherapeuten der Verordnungssoftware sollen die M�
 
 **4.1** **ALLGEMEINE ANFORDERUNGEN**
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P4-110 | Einheitliches Layout von Auswahllisten |
+| **P4-110** | **Einheitliches Layout von Auswahllisten** |
 
 Von der Verordnungssoftware angezeigte Auswahllisten zur Verordnung von DiGA besitzen für jede  DiGA bzw. DiGA-Verordnungseinheit ein einheitliches Layout ohne Hervorhebungen.
 
@@ -580,9 +580,9 @@ gen einzelner DiGA bzw. deren DiGA-Verordnungseinheiten muss daher unterbleiben.
 
 Die Anforderung gilt unabhängig davon, ob die Auswahllisten das Ergebnis eines Such Sortiervorgangs darstellen.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P4-120 | Auswahl aus einem vollständigen Verzeichnis |
+| **P4-120** | **Auswahl aus einem vollständigen Verzeichnis** |
 
 Die Übernahme eines Produktes auf eine Verordnung erfolgt auf Grundlage eines vollständigen Pro- duktverzeichnisses gemäß der Pflichtfunktion P2-020.
 
@@ -596,9 +596,9 @@ Die die Verordnungssoftware nutzenden Ärzte und Psychotherapeuten sollen die M�
 
 - vorzunehmen, die ausschließlich auf Grundlage aller in der Software vorgehalten Produktverzeichnisses angezeigt werden.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P4-130 | Verordnungsdokumentation |
+| **P4-130** | **Verordnungsdokumentation** |
 
 Die Verordnungssoftware dokumentiert alle durch die nutzenden Ärzte und Psychotherapeuten getä- tigten Verordnungen einer DiGA.
 
@@ -651,9 +651,9 @@ nete Produktdaten zum Zeitpunkt der Verordnung dokumentiert werden, damit die nu
 
 **4.2** **ANFORDERUNGEN AN DIE PRODUKTSUCHE**
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P4-210 | Such-/ Rechercheoptionen |
+| **P4-210** | **Such-/ Rechercheoptionen** |
 
 Die nutzenden Ärzte und Psychotherapeuten sollen Verordnungseinheiten Digitaler Gesundheitsan- wendungen anhand geeigneter Kriterien suchen können.
 
@@ -726,9 +726,9 @@ ICD-10-GM-Kodes möglich.
 
 Die Umsetzung einer Wildcard-Suche bei unvollständigen Eingaben wird empfohlen.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P4-220 | Sortierung der Auswahlliste |
+| **P4-220** | **Sortierung der Auswahlliste** |
 
 Die Auswahlliste nach Pflichtfunktion P4-120 und die Ergebnisse einer Anwendersuche nach den im
 
@@ -773,9 +773,9 @@ nungseinheit verordnet wird. Die Beeinflussung des Auswahlprozesses durch spezie
 
 - tens eine alphabetisch aufsteigende Sortierung zu unterstützen.
 
-| OPTIONALE FUNKTION | |
+| **OPTIONALE FUNKTION** | |
 |---|---|
-| O4-221 | Anzeige nicht verordnungsfähiger DiGA-Verordnungseinheiten |
+| **O4-221** | **Anzeige nicht verordnungsfähiger DiGA-Verordnungseinheiten** |
 
 Als Ergebnisse einer Anwendersuche werden gemäß dem Akzeptanzkriterium P4-220 4 ausschließlich
 
@@ -830,9 +830,9 @@ formieren.
 
 - a) Das Akzeptanzkriterium P4-220 1 b) gilt in diesem Fall nicht.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P4-230 | Indikationsbezogene Vergleichssuche |
+| **P4-230** | **Indikationsbezogene Vergleichssuche** |
 
 Den nutzenden Ärzten und Psychotherapeuten wird eine Vergleichssuche angeboten, mit der zu ei- ner angezeigten DiGA-Verordnungseinheit weitere ähnliche DiGA-Verordnungseinheiten anhand ge-
 
@@ -915,9 +915,9 @@ Die im Folgenden beschriebenen Funktionen der Verordnungsinhalte beziehen sich a
 
 nungsprozess.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P4-310 | Angaben bei erster und wiederholter Verordnung |
+| **P4-310** | **Angaben bei erster und wiederholter Verordnung** |
 
 In den Auswahllisten nach den Pflichtfunktionen P4-120, P4-220 und P4-230 sind durch die Verord-
 
@@ -933,25 +933,25 @@ Bei einem Verordnungsvorgang bzw. der Auswahl einer Verordnungseinheit sollen di
 
 **Akzeptanzkriterien:**
 
-| Merkmal |
-|---|
-| Name der DiGA-Verordnungseinheit |
-| PZN |
-| DiGA-Modul-Name |
-| ICD 10-GM Kodes der Indikationen |
-| Vorhandensein von Kontraindikationen |
-| Preis |
-| Anwendungsdauer |
-| Erforderlichkeit von Zusatzgeräten |
-| Status im DiGA-Verzeichnis |
+\| **Merkmal** |
+\|---|
+\| Name der DiGA-Verordnungseinheit |
+\| PZN |
+\| DiGA-Modul-Name |
+\| ICD 10-GM Kodes der Indikationen |
+\| Vorhandensein von Kontraindikationen |
+\| Preis |
+\| Anwendungsdauer |
+\| Erforderlichkeit von Zusatzgeräten |
+\| Status im DiGA-Verzeichnis |
 
 Erste Ebene
 
 ---
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P4-311 | Angaben bei erster und wiederholter Verordnung |
+| **P4-311** | **Angaben bei erster und wiederholter Verordnung** |
 
 Auf Anforderung durch die nutzenden Ärzte und Psychotherapeuten  ware auf zweiter Ebene alle Merkmale aus den Daten des Produktverzeichnisses  DiGA-Verordnungseinheit nach Pflichtfunktion P2-020 anzuzeigen.
 
@@ -965,27 +965,27 @@ Für eine bestimmte DiGA-Verordnungseinheit sollen weitere Eigenschaften und Inf
 
 - Informationsmerkmal existiert:
 
-| Merkmal |
-|---|
-| Name der DiGA-Verordnungseinheit |
-| PZN |
-| DiGA-Modul-Name |
-| DiGA-Name |
-| Indikationen |
-| Redaktioneller Steckbrief |
-| Kontraindikationen |
-| Nicht indizierte Geschlechtskennzeichen der Ziel |
-| Altersgruppen der Ziel- /Patientengruppen |
-| Preis |
-| Zusätzliche Mehrkosten |
-| Anwendungsdauer |
-| Status im DiGA-Verzeichnis |
-| Erforderlichkeit von Zusatzgeräten |
-| Erforderliche Zusatzgeräte |
-| Erforderliche vertragsärztliche Leistungen |
-| Verfügbare Sprachversionen |
-| Name des Herstellers |
-| Nutzungshinweise |
+\| **Merkmal** |
+\|---|
+\| Name der DiGA-Verordnungseinheit |
+\| PZN |
+\| DiGA-Modul-Name |
+\| DiGA-Name |
+\| Indikationen |
+\| Redaktioneller Steckbrief |
+\| Kontraindikationen |
+\| Nicht indizierte Geschlechtskennzeichen der Ziel |
+\| Altersgruppen der Ziel- /Patientengruppen |
+\| Preis |
+\| Zusätzliche Mehrkosten |
+\| Anwendungsdauer |
+\| Status im DiGA-Verzeichnis |
+\| Erforderlichkeit von Zusatzgeräten |
+\| Erforderliche Zusatzgeräte |
+\| Erforderliche vertragsärztliche Leistungen |
+\| Verfügbare Sprachversionen |
+\| Name des Herstellers |
+\| Nutzungshinweise |
 
 - a) Für die zusätzlichen Mehrkosten ist der Wert 0,00 anzuzeigen, falls im DiGA Höchstbetrag oder Vergütungsbetrag hinterlegt ist.
 
@@ -999,9 +999,7 @@ Für eine bestimmte DiGA-Verordnungseinheit sollen weitere Eigenschaften und Inf
 
 - 4. Die Verordnungssoftware muss zusätzlich zur Bezeichnung einer Altersgruppe der Ziel tengruppen den zugeordneten Kommentar anzeigen, falls dieser vorhanden ist.
 
-sind durch die Verordnungssoft-
-
-für eine bestimmte
+sind durch die Verordnungssoft- für eine bestimmte
 
 angezeigt werden - aus den Daten
 
@@ -1042,9 +1040,9 @@ Zweite Ebene -
 
 - b) dass die Angaben nach Pflichtfunktion P2-020 auf Basis der aktuellen Produktdaten erfolgen.
 
-| KONDITIONALE PFLICHTFUNKTION | |
+| **KONDITIONALE PFLICHTFUNKTION** | |
 |---|---|
-| KP4-312 | Angaben bei erster und wiederholter Verordnung |
+| **KP4-312** | **Angaben bei erster und wiederholter Verordnung** |
 
 Auf Anforderung durch die nutzenden Ärzte und Psychotherapeuten sind durch die Verordnungssoft-
 
@@ -1058,13 +1056,13 @@ werden können.
 
 **Akzeptanzkriterium:**
 
-| Merkmal |
-|---|
-| Plattformverfügbarkeit und -anforderungen, Versionen |
-| Ansprechpartner des Herstellers |
-| Kontaktdaten des Herstellers |
-| Informationen zu Datenschutz und Datensicherheit |
-| Informationen zum positiven Versorgungseffekt |
+\| **Merkmal** |
+\|---|
+\| Plattformverfügbarkeit und -anforderungen, Versionen |
+\| Ansprechpartner des Herstellers |
+\| Kontaktdaten des Herstellers |
+\| Informationen zu Datenschutz und Datensicherheit |
+\| Informationen zum positiven Versorgungseffekt |
 
 **Bedingung:**
 
@@ -1072,9 +1070,9 @@ Die in Akzeptanzkriterium 1 benannten Merkmale aus den Daten des Produktverzeich
 
 zeigt.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P4-320 | Zugriff auf zurückliegende Verordnungen |
+| **P4-320** | **Zugriff auf zurückliegende Verordnungen** |
 
 Den nutzenden Ärzten und Psychotherapeuten muss die Möglichkeit gegeben werden, eine Verord-
 
@@ -1105,9 +1103,9 @@ unterbrechen darauf hinweisen, dass entsprechende Änderungen der Produktdaten v
 
 - 4. Die Verordnungssoftware muss es den nutzenden Ärzten und Psychotherapeute sich für die zu verordnende DiGA-Verordnungseinheit die geforderten Merkmale nach Pflichtfunk- tion P4-311 anzeigen zu lassen.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P4-321 | Verordnung aus den Daten des Produktverzeichnisses |
+| **P4-321** | **Verordnung aus den Daten des Produktverzeichnisses** |
 
 Die Verordnungssoftware muss Verordnungen von Produkten auf Grundlage der Daten des Produkt- verzeichnisses nach Pflichtfunktion P2-020 umsetzen.
 
@@ -1127,9 +1125,9 @@ Nach der Suche und Auswahl eines Produktes ist die Verordnung dieses Produktes d
 
 Für die Bedruckung einer papiergebundenen Verordnung ist die Anforderungsfunktion  achten.
 
-| KONDITIONALE PFLICHTFUNKTION | |
+| **KONDITIONALE PFLICHTFUNKTION** | |
 |---|---|
-| KP4-322 | Freitext-Verordnung |
+| **KP4-322** | **Freitext-Verordnung** |
 
 Es muss den nutzenden Ärzten und Psychotherapeuten in Ausnahmefällen möglich sein, DiGA ordnungseinheiten zu verordnen, die im Produktverzeichnis aufgrund dessen begrenzter Aktualisie- rungsrate noch nicht enthalten sind.
 
@@ -1158,9 +1156,9 @@ P4-342 zu be-
 
 Ausgenommen von der Umsetzung dieser Anforderung ist Verordnungssoftware, welche eine tages- aktuelle Aktualisierung des Produktverzeichnisses unterstützt.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P4-340 | Erstellung von Verordnungen |
+| **P4-340** | **Erstellung von Verordnungen** |
 
 Die Verordnungssoftware muss die Bedruckung von papiergebundenen Verordnungen unterstützen.
 
@@ -1176,9 +1174,9 @@ Die Verordnung von DiGA erfolgt gemäß den gesetzlichen Vorgaben
 
 - b) elektronische Verordnungen (gemäß P4-343)
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P4-342 | Allgemeine Vorgaben für die Formularbedruckung |
+| **P4-342** | **Allgemeine Vorgaben für die Formularbedruckung** |
 
 Die Verordnungssoftware muss gewährleisten, dass die notwendigen Informationen zu Digitalen Ge- sundheitsanwendungen auf papiergebundenen Verordnungen ausgedruckt werden können.
 
@@ -1257,9 +1255,9 @@ nden ist. Bei der Bedruck-
 
 - f) Aut idem
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P 4-343 | Allgemeine Vorgaben für die elektronische Verordnung |
+| **P 4-343** | **Allgemeine Vorgaben für die elektronische Verordnung** |
 
 Die Verordnungssoftware muss gewährleisten, dass die Verordnung von Digitalen Gesundheitsan- wendungen in Form einer elektronischen Verordnung erfolgen kann.
 
@@ -1299,9 +1297,9 @@ wurde und die gematik die Bereitstellung des E-Rezept-Fachdienstes für die prod
 
 5 STATISTIK- UND CONTROLLING-FUNKTIONEN
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P5-010 | Verordnungsstatistik |
+| **P5-010** | **Verordnungsstatistik** |
 
 Die Software hält eine Funktion bereit, die den nutzenden Ärzten und Psychotherapeuten eine Ver-
 
@@ -1374,9 +1372,9 @@ in der Software dokumentiert wurden. Ein Default-Filterkriterium für den Zeitbe
 
 Statistik kann eigenständig vom Hersteller festgelegt werden.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P5-020 | Export von Verordnungsdaten |
+| **P5-020** | **Export von Verordnungsdaten** |
 
 Die Software muss einen Transfer von allen oder ausgewählten Verordnungsdaten in Tabellenkalku- lationsprogramme vorsehen.
 
@@ -1391,16 +1389,16 @@ Um eigene Auswertungen zu ermöglichen und im Falle von Wirtschaftlichkeitsprüf
 
 6 ABKÜRZUNGSVERZEICHNIS
 
-| ABKÜRZUNG | BEDEUTUNG |
+| **ABKÜRZUNG** | **BEDEUTUNG** |
 |---|---|
-| BfArM | Bundesinstitut für Arzneimittel und Medizinprodukte |
-| BMV-Ä | Bundesmantelvertrag-Ärzte |
-| DiGA | Digitale Gesundheitsanwendung |
-| ICD-10-GM | Deutsche Modifikation der 10. Version der internationalen statisti- |
-| KBV | Kassenärztliche Bundesvereinigung |
-| PZN | Pharmazentralnummer |
-| SGB | Sozialgesetzbuch |
-| VDGA | Verordnung digitaler Gesundheitsanwendungen |
+| **BfArM** | Bundesinstitut für Arzneimittel und Medizinprodukte |
+| **BMV-Ä** | Bundesmantelvertrag-Ärzte |
+| **DiGA** | Digitale Gesundheitsanwendung |
+| **ICD-10-GM** | Deutsche Modifikation der 10. Version der internationalen statisti- |
+| **KBV** | Kassenärztliche Bundesvereinigung |
+| **PZN** | Pharmazentralnummer |
+| **SGB** | Sozialgesetzbuch |
+| **VDGA** | Verordnung digitaler Gesundheitsanwendungen |
 
 schen Klassifikation der Krankheiten und verwandter Gesundheits- probleme
 
@@ -1408,47 +1406,47 @@ schen Klassifikation der Krankheiten und verwandter Gesundheits- probleme
 
 7 GLOSSAR
 
-| BEGRIFF | BEDEUTUNG |
+| **BEGRIFF** | **BEDEUTUNG** |
 |---|---|
-| PZN | Die Pharmazentralnummer (PZN) stellt die für die Verordnung von  Zur Verordnung einer spezifischen Verordnungseinheit einer DiGA  Die PZN wird zentral von der Informationsstelle für Arzneimittelspe- |
-| DiGA-Verordnungseinheit | Die DiGA-Verordnungseinheit stellt das im Verordnungsvorgang ver- |
-| DiGA-Modul-Name | Eine DiGA kann grundsätzlich aus verschiedenen DiGA |
-| DiGA-Name | Die Angabe des Namens der DiGA entspricht dem offiziellen, voll- |
-| Indikationen | Die Indikationen beinhalten Informationen dazu, wann die Anwen- |
-| Redaktioneller Steckbrief | Der redaktionelle Steckbrief beinhaltet redaktionelle Beschreibun- |
-| Vorhandensein von Kontraindika- | Das Vorhandensein von Kontraindikationen (als Boolescher Wert)  zeigt an, ob bei der Verordnung der DiGA |
-| Kontraindikationen | Die Kontraindikationen beinhalten Informationen dazu, wann die  ist der DiGA-Verordnungseinheit zugeordnet. |
+| **PZN** | Die Pharmazentralnummer (PZN) stellt die für die Verordnung von  Zur Verordnung einer spezifischen Verordnungseinheit einer DiGA  Die PZN wird zentral von der Informationsstelle für Arzneimittelspe- |
+| **DiGA-Verordnungseinheit** | Die DiGA-Verordnungseinheit stellt das im Verordnungsvorgang ver- |
+| **DiGA-Modul-Name** | Eine DiGA kann grundsätzlich aus verschiedenen DiGA |
+| **DiGA-Name** | Die Angabe des Namens der DiGA entspricht dem offiziellen, voll- |
+| **Indikationen** | Die Indikationen beinhalten Informationen dazu, wann die Anwen- |
+| **Redaktioneller Steckbrief** | Der redaktionelle Steckbrief beinhaltet redaktionelle Beschreibun- |
+| **Vorhandensein von Kontraindika-** | Das Vorhandensein von Kontraindikationen (als Boolescher Wert)  zeigt an, ob bei der Verordnung der DiGA |
+| **Kontraindikationen** | Die Kontraindikationen beinhalten Informationen dazu, wann die  ist der DiGA-Verordnungseinheit zugeordnet. |
 
 DiGA relevante Kennnummer dar. Einzelne Verordnungseinheiten können unter Nutzung der PZN verordnet werden. durch die Ärzte und Psychotherapeuten wird jeder DiGA -Verord- nungseinheit bei der Aufnahme ins Produktverzeichnis zusätzlich eine eineindeutige 8-stellige numerische PZN zugeordnet. zialitäten - IFA GmbH vergeben, die dem BfArM die benötigten PZN zur Zuordnung zu den DiGA-Verordnungseinheiten zur Verfügung stellt. ordnete Produkt dar, dem die verordnungsrelevanten Daten wie  bei- spielsweise ein Name, die PZN, zulässige Indikationen und Preisan- gaben zugeordnet sind. Die DiGA-Verordnungseinheit ist einem kon- kreten DiGA-Modul zugeordnet, welches wiederum einer DiGA zuge- ordnet ist. -Modulen be- stehen, die für speziellen Anwendungsfälle zum Einsatz kommen. Die Angabe des Namens des DiGA-Moduls entspricht dem offiziel- len, vollständigen Handelsnamen des DiGA -Moduls. Diese Informa- tion ist dem DiGA-Modul zugeordnet. ständigen Handelsnamen der DiGA. Diese Information ist der DiGA dung einer Verordnungseinheit einer digitalen Gesundheitsanwen- dung angezeigt ist. Sie werden durch eine Liste von ICD -Diagnosen repräsentiert, die jeweils aus dem ICD-10-GM-Kode und dem dazu- gehörigen ICD-10-GM-Diagnoseklartext bestehen. Diese Information gen einer DiGA oder eines Moduls einer DiGA. Diese Information ist der DiGA zugeordnet. -Verordnungseinheit Kont- raindikationen zu beachten sind. Anwendung einer Verordnungseinheit einer digitalen Gesundheits- anwendung nicht angezeigt, also kontraindiziert ist. Sie werden so- wohl durch eine Liste von ICD-Diagnosen repräsentiert, die jeweil aus dem ICD-10-GM-Kode und dem dazugehörigen Diagnoseklartext bestehen, als auch durch die Ausschlusskriterien. Diese Information
 
 ---
 
-| BEGRIFF | BEDEUTUNG |
+| **BEGRIFF** | **BEDEUTUNG** |
 |---|---|
-| Informationen zum positiven Ver- | Die Informationen zum positiven Versorgungseffekt beinhalten die  Diese Information ist der DiGA zugeordnet. |
-| Nicht indizierte Geschlechtskenn- | Die Angaben zu den nicht indizierten Geschlechtskennzeichen der |
-| Altersgruppen der Ziel-/Patien- | Die Angaben zu den Altersgruppen der Ziel Der Altersgruppenbezeichnung kann optional |
-| Anwendungsdauer | Die Angaben zur Anwendungsdauer bestehen |
-| Nutzungshinweise | Die Nutzungshinweise können Angaben zu der vom Hersteller für er- |
-| Status im DiGA-Verzeichnis | Die Angabe zum Status im DiGA-Verzeichnis repräsentiert den Status  Diese Information ist dem Verzeichniseintrag zugeordnet. |
-| Erforderlichkeit von Zusatzgerä- | Diese Angabe kennzeichnet, ob zusätzliche Geräte en |
+| **Informationen zum positiven Ver-** | Die Informationen zum positiven Versorgungseffekt beinhalten die  Diese Information ist der DiGA zugeordnet. |
+| **Nicht indizierte Geschlechtskenn-** | Die Angaben zu den nicht indizierten Geschlechtskennzeichen der |
+| **Altersgruppen der Ziel-/Patien-** | Die Angaben zu den Altersgruppen der Ziel Der Altersgruppenbezeichnung kann optional |
+| **Anwendungsdauer** | Die Angaben zur Anwendungsdauer bestehen |
+| **Nutzungshinweise** | Die Nutzungshinweise können Angaben zu der vom Hersteller für er- |
+| **Status im DiGA-Verzeichnis** | Die Angabe zum Status im DiGA-Verzeichnis repräsentiert den Status  Diese Information ist dem Verzeichniseintrag zugeordnet. |
+| **Erforderlichkeit von Zusatzgerä-** | Diese Angabe kennzeichnet, ob zusätzliche Geräte en |
 
 zeichen der Ziel-/Patientengrup- tengruppen Angaben und Nachweise zum positiven Versorgungseffekt, die der DiGA-Hersteller im Zuge des Antragsverfahre ns für die Listung im DiGA-Verzeichnis vorgelegt hat. Sie werden durch eine Liste von Ant- worten zu vorgegebenen Fragen repräsentiert, die zu einem Block von Fragen mit dem Titel „Angaben zum positiven Versorgungsef- fekt“ gehören. Diese Informationen sind de m DiGA-Antwortdaten- satz der DiGA zugeordnet, der wiederum einem DiGA -Fragenkatalog zugeordnet ist. Der Fragenblock kann beispielsweise Fragen zu fol- genden Einträgen enthalten: Nachweis zum positiven Versorgungseffekt Angabe Erprobungszeitraum (höchstens 1 2 Monate) Kurzfassung zum vorliegenden oder geplanten Nachweis des po- sitiven Versorgungseffektes nach PICO -Schema Angaben zum positiven Versorgungseffekt Ziel- /Patientengruppen besteht aus einer Liste von menschenlesba- ren Geschlechtskennzeichen. Diese Information ist der DiGA -Verord- nungseinheit zugeordnet. - /Patientengruppen be- steht aus einer Liste von menschenlesbaren Altersgruppenbezeich- nungen. Diese Information ist der DiGA -Verordnungseinheit zuge- ein zusätzlicher Kom- mentar beigefügt sein, welcher z.B. die in der Bezeichnung angege- bene Altersangaben korrigiert. aus einem dezimalen Wert und der menschenlesbaren Angabe einer Zeiteinheit. Diese In- formation ist der DiGA-Verordnungseinheit zugeordnet. forderlich gehaltenen Mindest- und Höchstdauer der Nutzung der DiGA enthalten. Diese Information ist der DiGA zugeordnet. des Eintrags der DiGA im Verzeichnis. Dieser kann die folgenden drei Werte annehmen: draft: vorläufig aufgenommen active: dauerhaft aufgenommen retired: zurückgezogen/entfernt/gestrichen tweder im zu verordnenden Produkt enthalten sind, oder zusätzlich verpflichtend oder optional erworben werden müssen. Es sind folgende vier Kenn- zeichnungen zu verwenden: - keine Zusatzgeräte
 
 
 ---
 
-| BEGRIFF | BEDEUTUNG |
+| **BEGRIFF** | **BEDEUTUNG** |
 |---|---|
 |  | Diese Information ist dem DiGA-Modul zugeordnet. |
-| Erforderliche Zusatzgeräte | Diese Angabe enthält eine Beschreibung der erforderlichen Zusatz- |
-| Erforderliche vertragsärztliche | Die Angabe der erforderlichen vertragsärztlichen oder vertragspsy- |
-| Plattformverfügbarkeit und - | Diese Informationen beinhalten die Angaben zu Plattformen, auf de- Diese Information ist dem DiGA-Modul zugeordnet. |
-| Name des Herstellers | Diese Information gibt den Klarnamen des Herstellers einer DiGA an |
-| Ansprechpartner des Herstellers | Diese Angabe enthält den Namen des Ansprechpartners des Herstel- |
-| Kontaktdaten des Herstellers | Die Kontaktdaten des Herstellers können den Namen, die E |
-| Preis | Diese Preisinformation gibt den von den Gesetzlichen Krankenkas- Der Preis wird nicht direkt im DiGA |
-| Zusätzliche Mehrkosten | Die zusätzlichen Mehrkosten in Form eines dezimalen monetären |
+| **Erforderliche Zusatzgeräte** | Diese Angabe enthält eine Beschreibung der erforderlichen Zusatz- |
+| **Erforderliche vertragsärztliche** | Die Angabe der erforderlichen vertragsärztlichen oder vertragspsy- |
+| **Plattformverfügbarkeit und -** | Diese Informationen beinhalten die Angaben zu Plattformen, auf de- Diese Information ist dem DiGA-Modul zugeordnet. |
+| **Name des Herstellers** | Diese Information gibt den Klarnamen des Herstellers einer DiGA an |
+| **Ansprechpartner des Herstellers** | Diese Angabe enthält den Namen des Ansprechpartners des Herstel- |
+| **Kontaktdaten des Herstellers** | Die Kontaktdaten des Herstellers können den Namen, die E |
+| **Preis** | Diese Preisinformation gibt den von den Gesetzlichen Krankenkas- Der Preis wird nicht direkt im DiGA |
+| **Zusätzliche Mehrkosten** | Die zusätzlichen Mehrkosten in Form eines dezimalen monetären |
 
 Zusatzgeräte enthalten Zusatzgeräte optional Zusatzgeräte benötigt geräte. Diese Information ist dem DiGA Leistungen chotherapeutischen Leistungen können aus einer Beschreibung von Leistungen, die bisher nicht im EBM abgebildet sind oder Tätigkeiten der Heilmittelerbringer oder Hebammen darstellen und/oder eine Liste von EBM-Gebührenordnungsnummern bestehen. Diese Infor- mation ist der DiGA-Verordnungseinheit zugeordnet. an- forderungen, Versionen nen ein Modul einer DiGA verfügbar ist, sowie zu den Anforderun- gen an diese Plattformen bezüglich der Hard - und Softwarekompati- bilität. Die Angaben können eine Liste mit diesen Informationen pro Listeneintrag enthalten: Typ und Version der Plattform Beschreibung der Hardwarekompatibilität Beschreibung der Softwarekompatibilität und ist dem DiGA-Hersteller zugeordnet. lers. Diese Information ist dem DiGA-Hersteller zugeordnet. -Mail-Ad- resse und die Telefonnummer des Ansprechpartners umfassen. Diese Informationen sind dem DiGA-Hersteller zugeordnet. sen erstatteten Abgabepreis der DiGA -Verordnungseinheit in Form eines dezimalen monetären Wertes und der Währungsbezeichnung an. Diese Information ist der DiGA-Verordnungseinheit zugeordnet. -Verzeichnis gelistet. Er entspricht dem vom Hersteller festgelegte Preis, der als Herstellerpreis im Ver- zeichnis angegeben wird, falls kein niedrigerer Höchstbetrag oder Vergütungsbetrag vereinbart worden ist. Im entgegengesetzten Fall entspricht der Preis dem im Verzeichnis optional hinterlegten Höchstbetrag oder Vergütungsbetrag. Wertes und der Währungsbezeichnung sind vom Versicherten zu tragen. Dies trifft zu, falls der Herstellerpreis über dem von den Ge- setzlichen Krankenkassen erstatteten Abgabepreis in Gestalt eines Höchstbetrags oder Vergütungsbetrags liegt. Diese Information ist der DiGA-Verordnungseinheit zugeordnet.
 
@@ -1456,22 +1454,22 @@ Zusatzgeräte enthalten Zusatzgeräte optional Zusatzgeräte benötigt geräte. 
 
 - Werden personenbezogene Daten nach Erfüllung der Zwecke  nach § 4 Absatz 2 Satz 1 Nummer 1 bis 4 nicht weiter gespei- chert?
 
-| BEGRIFF | BEDEUTUNG |
+| **BEGRIFF** | **BEDEUTUNG** |
 |---|---|
 |  | Die zusätzlichen Mehrkosten werden nicht direkt im DiGA |
-| Höchstbetrag oder Vergütun | Der Preis einer DiGA-Verordnungseinheit wird im ersten Jahr ihrer  Ein Vergütungsbetrag ist der Preis, zu dem eine DiGA Im DiGA-Verzeichnis wird optional entweder ein H |
-| Ausschlusskriterien | Die Angabe zu den Ausschlusskriterien benennt die Kriterien, bei de- |
-| Informationen zu Datenschutz | Die Informationen zu Datenschutz und Datensicherheit beinhalten |
+| **Höchstbetrag oder Vergütun** | Der Preis einer DiGA-Verordnungseinheit wird im ersten Jahr ihrer  Ein Vergütungsbetrag ist der Preis, zu dem eine DiGA Im DiGA-Verzeichnis wird optional entweder ein H |
+| **Ausschlusskriterien** | Die Angabe zu den Ausschlusskriterien benennt die Kriterien, bei de- |
+| **Informationen zu Datenschutz** | Die Informationen zu Datenschutz und Datensicherheit beinhalten |
 
 -Verzeich- nis gelistet. Sie entsprechen der Differenz zwischen dem Hersteller- preis und dem optional im Verzeichnis hinterlegten niedrigerem Höchstbetrag oder Vergütungsbetrag. Falls kein Höchstbetrag oder Vergütungsbetrag im Verzeichnis gelistet ist, ist der Zahlenwert 0,00 für die zusätzlichen Mehrkosten auszuweisen. gsbe- Aufnahme ins DiGA-Verzeichnis oder so lange, wie ihre Erprobungs- zeit anhält (max. 2 Jahre), grundsätzlich alleinig vom Hersteller be- stimmt. Für Gruppen vergleichbarer DiGA gelten al lerdings Höchst- beträge, d. h. Preisgrenzen, bis zu denen die Krankenkassen die Kos- ten einer DiGA-Verordnungseinheit erstatten. Sollte der Hersteller- preis höher als der für die DiGA- Verordnungseinheit relevante Höchstbetrag liegen, fallen für die Versicher ten zusätzliche Mehr- kosten an. -Verordnungs- einheit ab dem 13. Monat ihrer Listung von den gesetzlichen Kran- kenkassen erstattet wird (Wird ein Vergütungsbetrag erst nach dem 13. Monat der Listung vereinbart, so tritt er rückwirkend ab dem 13. Monat der Listung in Kraft). Dieser Vergütungsbetrag tritt an die Stelle des eventuell durch einen Höchstbetrag gedeckelten Preises, den die Hersteller innerhalb der Erprobungszeit für ihre DiGA -Ver- ordnungseinheit selbst bestimmen. Der Vergütungsbetrag wird zwi- schen Hersteller und GKV-Spitzenverband vereinbart. Kommt eine Vereinbarung nicht zustande, legt die zuständige Schiedsstelle die- sen Vergütungsbetrag fest. Vergütungsbetrag hinterlegt. nen die Anwendung der DiGA-Verordnungseinheit einer digitalen Gesundheitsanwendung ausgeschlossen ist. Diese Information der DiGA-Verordnungseinheit zugeordnet. die näheren Angaben des Herstellers zu den wichtigen Anforderun- gen an Datenschutz und Datensicherheit der DiGA, die der DiGA Hersteller im Zuge des Antragsverfahrens für die Listung im DiGA Verzeichnis vorgelegt hat. Sie werden durch eine Liste von Antwor- ten zu vorgegebenen Fragen repräsentiert, die zu den drei mögli- chen Blöcken von Fragen mit den Tite ln „Datenschutz“, „Datensi- cherheit“ und „Zusatzanforderungen bei digitalen Gesundheitsan- wendungen mit sehr hohem Schutzbedarf“ gehören. Diese Informa- tionen sind dem DiGA-Antwortdatensatz der DiGA zugeordnet, der wiederum einem DiGA-Fragenkatalog zugeordnet ist. Der Fragen- block kann beispielsweise Fragen zu folgenden Einträgen enthalten:
 
 ---
 
-| BEGRIFF | BEDEUTUNG |
+| **BEGRIFF** | **BEDEUTUNG** |
 |---|---|
 |  | Diese Information ist der DiGA zugeordnet. |
-| Verfügbare Sprachversionen | Die Information zu den verfügbare Sprachversionen gibt in Form ei- |
-| DiGA-API | Das DiGA-API ist eine Softwareschnittstelle zur Bereitstellung der |
+| **Verfügbare Sprachversionen** | Die Information zu den verfügbare Sprachversionen gibt in Form ei- |
+| **DiGA-API** | Das DiGA-API ist eine Softwareschnittstelle zur Bereitstellung der |
 
 Resultieren alle Fehler und Fehlfunktionen der Zugr iffskontrolle in einer Ablehnung von Zugriffen? ner Liste von Sprachbezeichnungen an, in welchen Sprachen das DiGA-Modul bereitgestellt wird. Diese Information ist dem DiGA Modul zugeordnet. Daten aus dem DiGA-Verzeichnis nach §§ 33a und 139e Absatz 1 Satz 3 des Fünften Buches Sozialgesetzbuch (SGB V) i.V.m. § 22 Ab- satz 1 Satz 1 Nr. 1 der Digitalen Gesundheitsanwendungen -Verord- nung (DiGAV).
 
@@ -1482,7 +1480,7 @@ Resultieren alle Fehler und Fehlfunktionen der Zugr iffskontrolle in einer Ableh
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | Dokument |
 | Anlage 2 | Anlage 2 - Vereinbarung über die Vordrucke für  https://www.kbv.de/media/sp/02_Vordruck- |
 | Anlage 2b | Anlage 2b des Bundesmantelvertrages-Ärzte  https://www.kbv.de/media/sp/02b_Vordruck- |
 | KBV_ITA_VGEX_Technisches_Handbuch_DiMus | Technisches Handbuch Anlage 2b  https://update.kbv.de/ita-update/DigitaleMus- |

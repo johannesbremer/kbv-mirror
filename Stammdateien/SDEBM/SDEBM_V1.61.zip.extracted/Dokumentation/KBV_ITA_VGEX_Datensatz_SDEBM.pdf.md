@@ -93,19 +93,21 @@ Beta 1.32
 
 26.07.2012 KBV
 
-Änderung des Zeichensatzes  in ISO-8859-15  OIDs der Schlüsseltabellen  bei den Elementen  <ms_versorgungsbereich>,  <ms_arztgruppe>,  <ms_scheinuntergruppe>  und  <ms_leistungsuntergruppe>  ergänzt  Anpassung der EBM- Systematik  Aktualisierung der Erläute- rungen für die Bereiche bei  dem XML-Element <bereich>
+Änderung des Zeichensatzes  in ISO-8859-15  OIDs der Schlüsseltabellen  bei den Elementen  <ms_versorgungsbereich>,  <ms_arztgruppe>,  <ms_scheinuntergruppe>  und  <ms_leistungsuntergruppe>
+
+ergänzt  Anpassung der EBM- Systematik  Aktualisierung der Erläute- rungen für die Bereiche bei  dem XML-Element <bereich>
 
 Entfernung der Elemente  maximalhaeufigkeit und  minimalhaeufigkeit
 
 Neuaufnahme des XML- Elementes Mengensteue- rung_liste mit seinen ent- sprechenden Kindelementen  Entfernung des rlv Kennzei- chens aus dem KBV Teil
 
-Regel: PFG-Ausschluss  gnr_type_cd
-
-Layout
-
 Aufgrund der ASV muss der Kur- züberlick der EBM-Systematik  angepasst werden
 
 fehlerhafter Inhalt
+
+Regel: PFG-Ausschluss  gnr_type_cd
+
+Layout
 
 gen Ausschluss fachärztl. Grund- pauschale  Verweis auf Schlüsseltabelle
 
@@ -312,27 +314,27 @@ redaktionell
 
 ---
 
-| **IT in der** | **Arztpraxis** |  |  |  |  |  |
-|---|---|---|---|---|---|---|
-|  | Datensatzbeschreibung | EBM-Stammdatei | - Satzarten | 850, 851, | 852, 853 |  |
-| **A B** | **B I L D** | **U N G** | **S V E R** | **Z E I C** | **H N I S** |  |
-| Abbildung | 1: | Struktur des | Elements | keytabs | ........................................................................20 | |
-|  | KBV_ITA_VGEX_Datensatz_SDEBM | | * Version 1.61 |  |  | Seite 7 von 117 |
+| **IT in der** | **Arztpraxis** |  |  |  |
+|---|---|---|---|---|
+| Datensatzbeschreibung |  | EBM-Stammdatei | - Satzarten | 850, 851, 852, 853 |
+| **A B B** | **I L D U N** | **G S** | **V E R** | **Z E I C H N I S** |
+| Abbildung | 1: Struktur | des Elements | keytabs | ........................................................................20 |
+|  | KBV_ITA_VGEX_Datensatz_SDEBM | * | Version 1.61 | Seite 7 von 117 |
 
 Abbildung 1: Struktur des Elements keytabs
 
 ---
 
-| **IT in der** | **Arztpraxis** |  |  |  |  |  |
-|---|---|---|---|---|---|---|
-|  | Datensatzbeschreibung |  | EBM-Stammdatei - | Satzarten 850, | 851, 852, 853 |  |
-| **X M** | **L- C O** | **D E V** | **E R Z E** | **I C H N** | **I S** |  |
-| XML-Code | 1 | /ehd |  |  | ................................................................................................................. | 18 |
-| XML-Code | 2 | /ehd/keytabs |  |  | .................................................................................................... | 20 |
-| XML-Code | 3 |  |  |  | /ehd/keytabs/keytab......................................................................................... | 21 |
-| XML-Code | 4 |  |  |  | /ehd/keytabs/keytab/key.................................................................................. | 21 |
-| XML-Code | 5 |  |  |  | /ehd/keytabs/keytab/key/fkey........................................................................... | 21 |
-|  | KBV_ITA_VGEX_Datensatz_SDEBM | | * Version 1.61 |  |  | Seite 8 von 117 |
+| **IT in der** | **Arztpraxis** |  |
+|---|---|---|
+|  | Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, | 852, 853 |
+| **X M** | **L- C O D E V E R Z E I C H N I** | **S** |
+| XML-Code | 1 /ehd | .................................................................................................................18 |
+| XML-Code | 2 /ehd/keytabs | ....................................................................................................20 |
+| XML-Code | 3 | /ehd/keytabs/keytab.........................................................................................21 |
+| XML-Code | 4 | /ehd/keytabs/keytab/key..................................................................................21 |
+| XML-Code | 5 | /ehd/keytabs/keytab/key/fkey...........................................................................21 |
+|  | KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61 | Seite 8 von 117 |
 
 XML-Code 1 /ehd XML-Code 2 /ehd/keytabs XML-Code 3 /ehd/keytabs/keytab XML-Code 4 /ehd/keytabs/keytab/key XML-Code 5 /ehd/keytabs/keytab/key/fkey
 
@@ -1229,9 +1231,7 @@ element** allgemein**
 
 ***type*** *go:allgemein_typ*
 
-***content***
-
-***complex***
+***content***  ***complex***
 
 ***properties***
 
@@ -1399,11 +1399,11 @@ annotation
 
 Für Gültigkeitsangaben sind folgende Formate möglich:  ***YYYY-MM-DD..YYYY-MM-DD***  ***..YYYY-MM-DD***  ***YYYY-MM-DD..***  ***YYYY-MM-DD***
 
+required
+
 zeitraum_typ
 
 Gültigkeitszeitraum ([date]..[date])
-
-required
 
 ***gilt von YYYY-MM-DD bis YYYY-MM-DD***
 
@@ -1877,11 +1877,9 @@ siehe Kapitel „ 11.10
 
 ***0***  ***1***  ***complex***
 
-***mixed***
+***mixed***  ***true***
 
 ***children*** *go:div*
-
-***true***
 
 ***annotation*** ***documentation***
 
@@ -1930,15 +1928,11 @@ xs:string
 
 required
 
-documentation Verständliche Kurzfassung für die
+documentation Verständliche Kurzfassung für die Patientenquittung.
 
 annotation
 
-***V***
-
-Patientenquittung.
-
-Text für die Patientenquittung
+***V***   Text für die Patientenquittung
 
 **11.3 Element: Anmerkungen_liste**
 
@@ -2319,13 +2313,13 @@ diagram
 
 type go:zeitbedarf_liste_typ
 
-properties
-
-annotation
-
 content complex
 
+properties
+
 documentation Beinhaltet die kalkulatorischen Zeiten als betriebswirtschaftliche Grundlage.
+
+annotation
 
 ***<zeit>***
 
@@ -2341,9 +2335,9 @@ element** zeitbedarf_liste/zeit**
 
 diagram
 
-properties
+isRef 0
 
-isRef 0  content complex
+properties  content complex
 
 Default
 
@@ -2728,11 +2722,11 @@ Listenelement, welches die einzelnen Listenelemente repräsen- tiert
 
 ***Fixed***
 
-bei ‚oder‘ oder ‚und/oder‘ innerhalb
-
 ***Annotation***
 
 kein Bullet-
+
+bei ‚oder‘ oder ‚und/oder‘ innerhalb
 
 
 ---
@@ -3138,9 +3132,9 @@ content  complex
 
 properties
 
-children **go:b go:br go:div go:em go:i go:u go:sup go:sub go:strong go:font go:a**
-
 mixed  true
+
+children **go:b go:br go:div go:em go:i go:u go:sup go:sub go:strong go:font go:a**
 
 used by group  **ebmtextformattedtype_group**
 
@@ -3223,9 +3217,9 @@ content  complex
 
 properties
 
-children **go:b go:br go:div go:em go:i go:u go:sup go:sub go:strong go:font go:a**
-
 mixed  true
+
+children **go:b go:br go:div go:em go:i go:u go:sup go:sub go:strong go:font go:a**
 
 used by group  **ebmtextformattedtype_group**
 
@@ -3648,11 +3642,9 @@ documentation Trigger für die Abrechnungsbesonderheit nach §115b
 
 annotation
 
-***V***
-
 Abschnitt 3, Anlage 1
 
-true
+***V***   true
 
 **12.5 Element: gnr_zusatzangaben**
 
@@ -3735,9 +3727,13 @@ FK der Zusatzangabe gemäß KVDT [2]
 
 Abrechnungsbegründung dient eine Schlüsseltabelle mit den
 
-Use  required  Refer
+Use
 
 Default
+
+required
+
+Refer
 
 isRef 0
 
@@ -3900,21 +3896,15 @@ u_kategorie_V
 
 Selector  go:kategorie
 
-documentation Beinhaltet die mit der Leistung verknüpften OP
+documentation Beinhaltet die mit der Leistung verknüpften OP-Schlüssel im Rahmen des ambulanten Operierens.
 
 annotation
 
-***V***
-
-***<kategorie>***
-
--Schlüssel im Rahmen des ambulanten Operierens.
-
 Wird zusätzlich für abrechnungsbegründende Zwecke verwendet.
 
-true /1: Liste enthält Werte, die WAHR sein müssen
+***V***   true /1: Liste enthält Werte, die WAHR sein müssen
 
-Kategorie der OP-Schlüssel
+***<kategorie>***  Kategorie der OP-Schlüssel
 
 **12.6.1.1  Element: kategorie**
 
@@ -4025,9 +4015,9 @@ element** begruendungen_liste/ops_liste/kategorie/ops/seite**
 
 diagram
 
-properties
+isRef 0
 
-isRef 0  content complex
+properties  content complex
 
 Name
 
@@ -4472,11 +4462,9 @@ documentation Beinhaltet die maximal zulässige Anzahl von Ansetzungen einer GNR
 
 annotation
 
-***<bezugsraum>***
-
 zugszeitraum.
 
-Bezugsräume der jeweiligen Anzahlbedingung
+***<bezugsraum>***  Bezugsräume der jeweiligen Anzahlbedingung
 
 **12.9.1** **Element: bezugsraum**
 
@@ -4551,9 +4539,9 @@ element** anzahlbedingung/bezugsraum/anzahl**
 
 diagram
 
-properties
+isRef 0
 
-isRef 0  content complex
+properties  content complex
 
 Name
 
@@ -4611,15 +4599,17 @@ Name  u_anz_gnr_zusatzan gabe_V
 
 Zusatzangabe
 
-properties
+isRef 0
 
-isRef 0  content complex
+properties  content complex
 
 Name
 
+Type
+
 attributes  V
 
-Type  xs:string
+xs:string
 
 Refer
 
@@ -4676,9 +4666,9 @@ Refer
 
 identity con- unique
 
-straints
-
 u_anz_alter_V_rt
+
+straints
 
 documentation Liste der Altersbeschränkungen
 
@@ -4977,13 +4967,9 @@ documentation Angabe der Scheinunterguppe.
 
 annotation
 
-***V***
+***V***   Code für Scheinuntergruppe
 
-***S***
-
-Code für Scheinuntergruppe
-
-OID der Schlüsseltabelle
+***S***   OID der Schlüsseltabelle
 
 **12.11 Element: abr_best**
 
@@ -5087,19 +5073,17 @@ Refer
 
 identity con- unique
 
+u_aus_bezugsraum_
+
 straints
 
-u_aus_bezugsraum_
+V
 
 documentation Beinhaltet kapitel- als auch leistungsbezogene Ausschlüsse.
 
 annotation
 
-***<bezugsraum>***
-
-V
-
-Bezugsraum
+***<bezugsraum>***  Bezugsraum
 
 **13.1.1** **Element: bezugsraum**
 
@@ -5519,11 +5503,9 @@ documentation Verweis auf Unter-Leistungen , die als Spezialisierung oder Differ
 
 annotation
 
-***<bezugsraum>***
-
 gelten. Kann ebenfalls in Zusammenhang mit Zuschlägen verwendet werden.
 
-Bezugsraum
+***<bezugsraum>***  Bezugsraum
 
 **13.3.1** **Element: sub_gop_liste/bezugsraum**
 
@@ -5677,9 +5659,9 @@ element** pfg_ausschluss**
 
 diagram
 
-properties
+isRef 0
 
-isRef 0  content complex
+properties  content complex
 
 Name
 
@@ -5746,11 +5728,9 @@ annotation
 
 ersetzt. Um eine Verfälschung der Abrechnungsstatistik zu vermeiden, darf die
 
-***<ersetzung>***
-
 der Arztpraxis erfolgen.
 
-Höchstwertziffer, die Kombinationen von Leistungen ersetzt
+***<ersetzung>*** Höchstwertziffer, die Kombinationen von Leistungen ersetzt
 
 Hinweis:
 
@@ -6028,9 +6008,9 @@ element** kennzeichen/arztpraxis**
 
 diagram
 
-properties
+isRef 0
 
-isRef 0  content Complex
+properties  content Complex
 
 Name
 
@@ -6058,9 +6038,9 @@ element** kennzeichen/fkz**
 
 diagram
 
-properties
+isRef 0
 
-isRef 0  content Complex
+properties  content Complex
 
 Name
 
@@ -6072,9 +6052,7 @@ documentation Boolescher Wert, welcher die Zulässigkeit der Ziffer im Rahmen de
 
 annotation
 
-***V***
-
-true /1: wird im fkz verwendet
+***V***   true /1: wird im fkz verwendet
 
 false /0: nicht für fkz freigegeben
 
@@ -6165,11 +6143,9 @@ Type  go:gnr_format_ typ  xs:string
 
 annotation
 
-***V***
-
 angegeben.
 
-GNR
+***V***   GNR
 
 **14.1.4** **Element: begleit_115b**
 
@@ -6204,9 +6180,9 @@ element** kennzeichen/begleit_115b**
 
 diagram
 
-properties
+isRef 0
 
-isRef 0  content complex
+properties  content complex
 
 Name
 
@@ -6666,17 +6642,13 @@ required
 
 required
 
-annotation
-
-***V***
-
-***S***
-
 documentation
 
-Code für die Leistungsuntergruppe
+annotation
 
-OID der Schlüsseltabelle
+***V***   Code für die Leistungsuntergruppe
+
+***S***   OID der Schlüsseltabelle
 
 **14.2 Element: kv_gruppierungsfeld_liste**
 
@@ -6696,11 +6668,9 @@ documentation Sammelelement für kv-spezifische Informationen zur Initialisierun
 
 annotation
 
-***<kv_gruppierungsfeld>***
-
 im Rahmen von VDX
 
-Eingruppierung für die Bewertungssteuerung
+***<kv_gruppierungsfeld>*** Eingruppierung für die Bewertungssteuerung
 
 **14.2.1**
 
@@ -6771,11 +6741,9 @@ documentation Sammelelement für die kv-spezifischen Bewertungen. Im Falle ihrer
 
 annotation
 
-***<kv_bewertung>***
-
 tung regional die allgemeingültige EBM-Bewertung.
 
-kv-spezifische Bewertung
+***<kv_bewertung>***  kv-spezifische Bewertung
 
 **14.3.1** **Element: kv_bewertung**
 
@@ -7004,15 +6972,17 @@ Use
 
 Default
 
+Fixed
+
+Annotation
+
 required
 
-Fixed   Leistung bezogen sein. Stan-
+Leistung bezogen sein. Stan-
 
 12.1 erläutert.
 
 14.4 erläutert.
-
-Annotation
 
 
 ---
@@ -7310,17 +7280,29 @@ identity con- unique
 
 straints
 
-Type  xs:boolean  Name  u_ktab_V
+Type
 
-Use  required  Refer
+Use  required
+
+xs:boolean  Name
+
+Refer
+
+u_ktab_V
 
 Default
 
 Fixed
 
-Selector  go:ktab
+Annotation
 
-Annotation   Field(s)  @V
+Selector
+
+Field(s)
+
+go:ktab
+
+@V
 
 documentation Sammelelement für die Kostenträgerabrechnungsbereiche und definiert deren Ein
 
@@ -7384,7 +7366,9 @@ OID der Schlüsseltabelle
 
 type go:abrechnungsstelle_liste_typ
 
-properties content complex
+content complex
+
+properties
 
 Use  required  required
 
@@ -7602,11 +7586,9 @@ element** as_ktgruppen_liste/abrechnungsstelle/ktgruppe**
 
 diagram
 
-properties
-
 isRef 0
 
-content complex
+properties  content complex
 
 Fixed
 
@@ -7676,13 +7658,9 @@ documentation In dieser Sektion werden relevante Daten zum
 
 annotation
 
-***<vertragsart>***
+***<vertragsart>***  Vertragsart
 
-***<gkv_kontenart_liste>***
-
-Vertragsart
-
-Kontenart
+***<gkv_kontenart_liste>*** Kontenart
 
 **15.1 Element: vertragsart**
 

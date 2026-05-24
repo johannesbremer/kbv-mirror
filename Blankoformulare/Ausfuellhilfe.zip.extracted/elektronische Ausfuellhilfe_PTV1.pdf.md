@@ -1,8 +1,8 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
 ## AUSFÜLLHILFE: FORMBLATT PTV 1  ANTRAG AUF PSYCHOTHERAPIE
 

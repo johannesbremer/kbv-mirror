@@ -1,4 +1,4 @@
-| Dokumenten-ID / Titel | Spezifikation eSE - elektronische Sammelerklärung |
+| **Dokumenten-ID / Titel** | **Spezifikation eSE - elektronische Sammelerklärung** |
 |---|---|
 | Dateiname: | Spezifikation KVSH Sammelerklärung V1.1.1.docx |
 | Dokumentenebene | Konzept |
@@ -9,17 +9,8 @@
 | Nächste Revision am: | 01.12.2026 |
 | Sicherheitsklassifizierung: | öffentlich |
 
-# elektronische Sammelerklärung
-
-# Kassenärztlichen Vereinigung
-
-# Schleswig-Holstein
-
-# Spezifikation
-
-# in der
-
-Richtlinie    nur zum internen Gebrauch                   Anweisung    in Kraft  Vereinbarung    Bericht  KV-Pedia
+# elektronische Sammelerklärung Kassenärztlichen Vereinigung Spezifikation Schleswig-Holstein in der
+Richtlinie    nur zum internen Gebrauch                   Anweisung    Vereinbarung    in Kraft  Bericht  KV-Pedia
 
 ---
 
@@ -70,7 +61,7 @@ Richtlinie    nur zum internen Gebrauch                   Anweisung    in Kraft 
 
 2  Versionshistorie
 
-| Datum | Version | Autor | Inhalt |
+| **Datum** | **Version** | **Autor** | **Inhalt** |
 |---|---|---|---|
 |  |  |  |  |
 |  |  |  |  |

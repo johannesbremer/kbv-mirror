@@ -29,26 +29,26 @@
 
 |  |  | | |
 |---|---|---|---|
-| Lfd. Nr. | Parameter | Ausprägung | Plausibilitätsregeln |
+| Lfd. Nr. | **Parameter** | **Ausprägung** | **Plausibilitätsregeln** |
 | Therapeutische Maßnahmen |  | | |
 | 1a | Ziele zur regelmäßigen körperlichen | Ziele vereinbart / | Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn die  Eine Angabe im Rahmen einer |
 | 1b | Ziele zur regelmäßigen körperlichen | Ziele vereinbart oder überprüft / | Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn die  Eine Angabe im Rahmen einer |
 | 2 | Regelmäßige körperliche | Ja / Nein | Pflichtfeld  Genau eine Angabe ist zulässig |
 | 3 | Regelmäßiges körperliches Training | Ja / Nein | Pflichtfeld  Genau eine Angabe ist zulässig |
-|  |  |  | Lfd. Nr.  Parameter |
-| Ausprägung | Plausibilitätsregeln |  | Therapeutische Maßnahmen     1a |
+|  |  |  | Lfd. Nr. **Parameter** |
+| **Ausprägung** | **Plausibilitätsregeln** |  | Therapeutische Maßnahmen     1a |
 | Ziele zur regelmäßigen körperlichen | Ziele vereinbart / | Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn die  Eine Angabe im Rahmen einer |
 | 1b | Ziele zur regelmäßigen körperlichen | Ziele vereinbart oder überprüft / | Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn die |
 | Eine Angabe im Rahmen einer  2 | Regelmäßige körperliche  Ja / Nein | | |
 | Pflichtfeld | Genau eine Angabe ist zulässig | 3 | Regelmäßiges körperliches Training  Ja / Nein  Pflichtfeld  Genau eine Angabe ist zulässig |
 |  |  |  |  |
-|  |  | Lfd. Nr. | Parameter  Ausprägung  Plausibilitätsregeln |
+|  |  | Lfd. Nr. | **Parameter  Ausprägung  Plausibilitätsregeln** |
 |  | Therapeutische Maßnahmen |  | 1a  Ziele zur regelmäßigen körperlichen  Ziele vereinbart /   Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn die |
 | Eine Angabe im Rahmen einer  1b | Ziele zur regelmäßigen körperlichen  Ziele vereinbart oder überprüft / | | |
 | Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig. | Eine Angabe ist erforderlich, wenn die | Eine Angabe im Rahmen einer  2  Regelmäßige körperliche  Ja / Nein |
 |  |  |  |  |
-|  | Lfd. Nr.  Parameter | | |
-| Ausprägung  Plausibilitätsregeln | Therapeutische Maßnahmen |  | 1a  Ziele zur regelmäßigen körperlichen  Ziele vereinbart /   Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn die |
+|  | Lfd. Nr. **Parameter** | | |
+| **Ausprägung  Plausibilitätsregeln** | Therapeutische Maßnahmen |  | 1a  Ziele zur regelmäßigen körperlichen  Ziele vereinbart /   Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn die |
 
 Alltagsaktivität und körperlichem Alltagsaktivität und körperlichem Training seit der letzten Dokumentation Alltagsaktivität Keine Ziele vereinbart  Keine Ziele vereinbart oder überprüft Anlage 24* im Rahmen einer Erstdokumentation auszufüllen ist. Folgedokumentation ist nicht zulässig. Anlage 24* im Rahmen einer Folgedokumentation auszufüllen ist. Erstdokumentation ist nicht zulässig.
 

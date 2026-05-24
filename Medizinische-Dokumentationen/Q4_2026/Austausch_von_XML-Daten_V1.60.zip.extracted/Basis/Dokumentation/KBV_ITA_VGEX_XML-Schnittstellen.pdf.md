@@ -1,8 +1,8 @@
-|  | IT in der Arztpraxis |
+|  | ***IT in der Arztpraxis***** |
 |---|---|
-|  | Austausch von XML-Daten in der |
+|  | *Austausch von XML-Daten in der* |
 |  | [ |
-|  |  |
+|  | ** |
 |  | Dezernat Digitalisierung und IT |
 |  |  |
 |  | 10623 Berlin, |
@@ -17,21 +17,21 @@ vertragsärztlichen Versorgung KBV_ITA_VGEX_XML -Schnittstellen Herbert-Lewin-Pl
 
 ---
 
-| Version Datum |  | Autor Änderung |  | Begründung | Seite |
+| **Version Datum** |  | **Autor Änderung** |  | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 1.60 | 13.02.2026 | KBV | Neue Schnittstelle: Adipositas  Neue Schnittstelle: Adipositas    Anpassung der Archivendungen |  | 12, 16, 27    16 |
-| 1.59 | 15.08.2025 | KBV | Anpassung des Elementes |  | 19, 24 |
-| 1.58 | 14.11.2024 | KBV | Anpassung der Archivendung Herzin- |  | 14 |
-| 1.57 | 14.08.2024 | KBV | Anpassung der Archivendung Brust- |  | 14 |
-| 1.56 | 15.11.2023 | KBV | Anpassung der Archivendung COPD |  | 14 |
-| 1.55 | 05.04.2023 | KBV | Anpassung der Archivendungen der |  | 14 |
-| 1.54 | 12.08.2022 | KBV | Neue Schnittstelle: r Anpassung der Archivendungen |  | 12, 16, 27    16 |
-| 1.53 | 15.01.2021 | KBV | Neue Schnittstelle:  Anpassung der Archivendungen |  | 12, 16, 27  16 |
-| 1.52 | 15.01.2021 | KBV | Anpassung der Archivendung De- | Aufgrund einer Fehlerkorrek- | 16 |
-| 1.51 | 09.11.2020 | KBV | Neue Schnittstelle Anpassung der Archivendungen  Streichung von FEK, BERST und DIA |  | 12, 16, 27    16  12, 14, 16,  27 |
-| 1.50 | 30.04.2019 | KBV | Neue Schnittstelle: Herzinsuffizienz  Erweiterung des Formats der Version |  | 11, 14, 27  25 |
-| 1.49 | 21.01.2019 | KBV | Anpassung der Archivdateinamen Aktualisierung des Transportbegleit- |  | 14    31 |
-| 1.48 | 28.06.2018 | KBV | Aufnahme des Archivdateinamens mit Aufgrund einer Fehlerkorrek- | tur des Brustkrebsschemas | 14 |
+| 1.60 | 13.02.2026 | KBV | Neue Schnittstelle: Adipositas  Neue Schnittstelle: Adipositas    Anpassung der Archivendungen |  | **12, 16, 27 **  **16** |
+| 1.59 | 15.08.2025 | KBV | Anpassung des Elementes |  | **19, 24** |
+| 1.58 | 14.11.2024 | KBV | Anpassung der Archivendung Herzin- |  | **14** |
+| 1.57 | 14.08.2024 | KBV | Anpassung der Archivendung Brust- |  | **14** |
+| 1.56 | 15.11.2023 | KBV | Anpassung der Archivendung COPD |  | **14** |
+| 1.55 | 05.04.2023 | KBV | Anpassung der Archivendungen der |  | **14** |
+| 1.54 | 12.08.2022 | KBV | Neue Schnittstelle: r Anpassung der Archivendungen |  | **12, 16, 27 **  **16** |
+| 1.53 | 15.01.2021 | KBV | Neue Schnittstelle:  Anpassung der Archivendungen |  | **12, 16, 27  16** |
+| 1.52 | 15.01.2021 | KBV | Anpassung der Archivendung De- | Aufgrund einer Fehlerkorrek- | **16** |
+| 1.51 | 09.11.2020 | KBV | Neue Schnittstelle Anpassung der Archivendungen  Streichung von FEK, BERST und DIA |  | **12, 16, 27 **  **16  12, 14, 16,  27** |
+| 1.50 | 30.04.2019 | KBV | Neue Schnittstelle: Herzinsuffizienz  Erweiterung des Formats der Version |  | **11, 14, 27  25** |
+| 1.49 | 21.01.2019 | KBV | Anpassung der Archivdateinamen Aktualisierung des Transportbegleit- |  | **14 **  **31** |
+| 1.48 | 28.06.2018 | KBV | Aufnahme des Archivdateinamens mit Aufgrund einer Fehlerkorrek- | tur des Brustkrebsschemas | **14** |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  | 1.60  13.02.2026  KBV |
@@ -44,22 +44,22 @@ DOKUMENTENHISTORIE Die Änderungen vom 13. Februar 2026 treten zum 1. Oktober 20
 
 |  |  |  |  |  |  |
 |---|---|---|---|---|---|
-| 14 |  |  |  |  | INHALTSVERZEICHNIS_____________________________________________________    ABBILDUNGSVERZEICHNIS ________________________________________________ |
-|  | TABELLENVERZEICHNIS |  |  | XML-CODE VERZEICHNIS __________________________________________________ | 1 |
-|  | 2 |  |  |  |  |
-| 2.2 |  |  |  | 2.3 |  |
-|  |  |  | 3.1 |  | 3.2 |
-|  |  | 3.3 |  |  | 3.4 |
+| **14** |  |  |  |  | **INHALTSVERZEICHNIS_____________________________________________________ **  **ABBILDUNGSVERZEICHNIS ________________________________________________ ** |
+|  | **TABELLENVERZEICHNIS** |  |  | **XML-CODE VERZEICHNIS __________________________________________________** | **1** |
+|  | **2** |  |  |  |  |
+| **2.2** |  |  |  | **2.3** |  |
+|  |  |  | **3.1** |  | **3.2** |
+|  |  | **3.3** |  |  | **3.4** |
 |  | 3.4.1 |  |  | 3.4.2 | 3.4.3 |
-| 4 |  |  | 4.1 |  | 4.2   4.2.1 |
-| INHALTSVERZEICHNIS |  |  |  |  |  |
+| **4** |  |  | **4.1** |  | **4.2**   4.2.1 |
+| **INHALTSVERZEICHNIS** |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
-| 1.47 | 25.05.2018 | KBV | der Endung *422 für die Übergangs- Streichung der Diskette als Datenträ- | Brustkrebs | 14     30, 30, 31 |
-| 1.46 | 08.01.2018 | KBV | Anpassung der Archivdateinamen |  | 14 |
-| 1.45 | 04.12.2017 | KBV | Anpassung der Archivdateinamens | Streichung des Modules | 14 |
+| 1.47 | 25.05.2018 | KBV | der Endung *422 für die Übergangs- Streichung der Diskette als Datenträ- | Brustkrebs | **14 **  **30, 30, 31** |
+| 1.46 | 08.01.2018 | KBV | Anpassung der Archivdateinamen |  | **14 ** |
+| 1.45 | 04.12.2017 | KBV | Anpassung der Archivdateinamens | Streichung des Modules | **14 ** |
 
 -Schnittstellen * Version 1.60
 
@@ -268,20 +268,20 @@ Die hier beschriebenen Sachverhalte sind so angelegt, dass sie gleichermaßen f�
 
 Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, deren  Symbole in den folgenden Kapiteln kurz erläutert werden sollen.
 
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |---|---|
 |  | Ein Element mit mehreren Kindelementen wird durch ein Pluszeichen |
 |  | Referenzelement: Der Pfeil links unten im Element zeigt an, dass das |
-|  | 2.1 Kardinalität |
-| Beschreibung |  |
+|  | **2.1 Kardinalität** |
+| **Beschreibung** |  |
 
-| Kardinalität | Symbol | Beschreibung |
+| **Kardinalität** | **Symbol** | **Beschreibung** |
 |---|---|---|
 | 0..1 |  | Linie dargestellt. Es kann kein oder einmal vorkommen |
 | 1 |  | muss genau einmal vorkommen |
 | n...m |  | Multielement: enthält mindestens n aber maximal m Elemente, |
 
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |---|---|
 |  | Das Strukturelement Choice zeigt an, dass zwischen verschiedenen Kindelementen |
 |  | Das Strukturelement Sequence beschreibt, dass verschiedene Kindelemente in fest- |
@@ -356,7 +356,7 @@ Diabetes Typ 1       | Diabetes_mellitus_Typ_1 |  | Koloskopie |
 
 ---
 
-| Dokumentationsart | relativer Pfad |
+| **Dokumentationsart** | **relativer Pfad** |
 |---|---|
 | Brustkrebs | Brustkrebs/Dokumentation |
 | Diabetes Mellitus Typ 2 | Diabetes_Mellitus_Typ_2/Dokumentation |
@@ -484,7 +484,7 @@ Beispiel:
 
 -  987654321_20030310100200_1_BK.zip.XKM – Name der Archivdatei nach Ver- schlüsseln mit dem KBV-Kryptomodul (XKM)
 
-| Kürzel | Dokumentationsart |
+| **Kürzel** | **Dokumentationsart** |
 |---|---|
 | DM1 | Diabetes mellitus Typ 1 |
 | DM1_503 | Diabetes mellitus Typ 1 (Anpassung der übergreifenden Plausibilitäten) |
@@ -512,7 +512,7 @@ Beispiel:
 | AB | Asthma bronchiale |
 |  |  |
 |  |  |
-| Kürzel |  |
+| **Kürzel** |  |
 |  |  |
 |  |  |
 |  |  |
@@ -643,7 +643,7 @@ Für die Erstellung der Begleitdatei wird der Zeichensatz nach ISO 8859-15 verwe
 
 Einige Sonderzeichen des Zeichensatzes führen zu Problemen bei der Verarbeitung von  XML-Daten, sofern übliche XML-Tools verwendet werden. Diese müssen, auch wenn sie in- nerhalb eines Strings verwendet werden, durch die entsprechenden Maskierungen ersetzt  werden. Eine Übersicht der zu ersetzenden Zeichen ist in Tabelle 6 dargestellt.
 
-| Sonderzeichen | Ersetzen durch | |
+| **Sonderzeichen** | **Ersetzen durch** | |
 |---|---|---|
 | & | &amp; | |
 | < | &lt; | |
@@ -1149,7 +1149,7 @@ Als Beispiel sei hier der folgende Code angegeben: -Schnittstellen * Version 1.6
 
 Die zulässigen relativen Pfade sind in der folgenden Tabelle angegeben.
 
-| Dokumentationsart | relativer Pfad |
+| **Dokumentationsart** | **relativer Pfad** |
 |---|---|
 | Brustkrebs | Brustkrebs/Dokumentation |
 | Diabetes Mellitus Typ 2 | Diabetes_Mellitus_Typ_2/Dokumentation |
@@ -1360,7 +1360,7 @@ Erstellt am 15.07.2019
 
 **6 Referenzierte Dokumente**
 
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 |---|---|
 | [KBV_ITA_VGEX_Schnittstelle_SDDA ] | aktuell gültige Version Schnittstellenbeschreibung |
 | [1] | KBV-Schlüsseltabellen  http://applications.kbv.de/keytabs/ita/schluesseltabell en.asp |

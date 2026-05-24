@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 27. AUGUST 2025   VERSION: 1.04   DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 27. AUGUST 2025   VERSION: 1.04   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # PRUEFPAKET 116117 TERMINSERVICE  ABRECHNUNGSINFORMATION
@@ -112,13 +112,13 @@ Abrechnungsdatei 7
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.04 | 27.08.2025 | KBV | Korrektur des | Inkorrekte Monatsangabe | 17 |
 | 1.03 | 27.06.2025 | KBV | Korrektur des | Inkorrekte Monatsangabe | 17 |
 | 1.02 | 20.06.2025 | KBV | Datumsanpassung der    Datumsanpassung der | Die Anpassung der Länge | 10ff      18 |
 | 1.01 | 05.06.2025 | KBV | Anpassung der FHIR- | Klarstellung und Korrektur | 18 |
-| 1.0 | 12.02.2025 | KBV | Dokumenterstellung | Neue Spezifikation 116117  Spec_Terminservice_Abr“ | alle |
+| 1.0 | 12.02.2025 | KBV | Dokumenterstellung | Neue Spezifikation 116117  Spec_Terminservice_Abr**“** | alle |
 
 Behandlungsdatums im Fließtext des Prüffalles 09 Behandlungsdatums im Prüffall 09 Prüffälle FHIR-Daten für die Terminservicestelle Daten für die Terminservicestelle des Vermittlungscodes auf 14 Stellen der verwendeten FHIR- Daten Abrechnungsinformation stets aktuellen Version
 
@@ -284,18 +284,18 @@ separaten Verzeichnis die folgenden XML-Dateien:
 
 Prüffälle als XML-Dateien
 
-| NAME | VERZEICHNISNAME |
+| **NAME** | **VERZEICHNISNAME** |
 |---|---|
-| Prof. Dr. Graf Freiherr von Schaumberg | XML_01 |
-| Prof. Dr. Dr. med Kluge | XML_02 |
-| Althaus | XML_03 |
-| Frühstück | XML_04 |
-| Kleinjung | XML_05 |
-| Müller | XML_06 |
-| Aufgelöst | XML_07 |
-| Pan | XML_08 |
-| Malta | XML_09 |
-| Eichendorf | XML_10 |
+| **Prof. Dr. Graf Freiherr von Schaumberg** | XML_01 |
+| **Prof. Dr. Dr. med Kluge** | XML_02 |
+| **Althaus** | XML_03 |
+| **Frühstück** | XML_04 |
+| **Kleinjung** | XML_05 |
+| **Müller** | XML_06 |
+| **Aufgelöst** | XML_07 |
+| **Pan** | XML_08 |
+| **Malta** | XML_09 |
+| **Eichendorf** | XML_10 |
 
 / Version: 1.04 / 27. August 2025
 
@@ -306,31 +306,31 @@ Prüffälle als XML-Dateien
 
 Sofern zur Bearbeitung der Prüffälle Praxisdaten benötigt werden, können die folgenden Praxisdaten  verwendet werden.
 
-| ARZT 1 |  |
+| **ARZT 1** |  |
 |---|---|
-| Betriebsstättennummer (BSNR): | 241234601 |
-| BSNR-Bezeichnung: | Praxis Annie More |
-| Lebenslange Arztnummer (LANR): | 838382201 |
-| Arztname: | More |
-| Vorname: | Annie |
-| Straße und Hausnummer: | Musterstr. 1 |
-| PLZ/Ort: | 40474 Düsseldorf |
-| Telefon: | 0211 / 1111111 |
-| Telefax: | 0211 / 2222222 |
-| E-Mail-Adresse: | AM@Testpraxis.de |
+| **Betriebsstättennummer (BSNR):** | 241234601 |
+| **BSNR-Bezeichnung:** | Praxis Annie More |
+| **Lebenslange Arztnummer (LANR):** | 838382201 |
+| **Arztname:** | More |
+| **Vorname:** | Annie |
+| **Straße und Hausnummer:** | Musterstr. 1 |
+| **PLZ/Ort:** | 40474 Düsseldorf |
+| **Telefon:** | 0211 / 1111111 |
+| **Telefax:** | 0211 / 2222222 |
+| **E-Mail-Adresse:** | AM@Testpraxis.de |
 
-| ARZT 2 |  |
+| **ARZT 2** |  |
 |---|---|
-| Betriebsstättennummer (BSNR): | 241234601 |
-| BSNR-Bezeichnung: | Praxis Annie More |
-| Lebenslange Arztnummer (LANR): | 728382503 |
-| Arztname: | More |
-| Vorname: | Klaus |
-| Straße und Hausnummer: | Musterstr. 1 |
-| PLZ/Ort: | 40474 Düsseldorf |
-| Telefon: | 0211 / 1111111 |
-| Telefax: | 0211 / 2222222 |
-| E-Mail-Adresse: | AM@Testpraxis.de |
+| **Betriebsstättennummer (BSNR):** | 241234601 |
+| **BSNR-Bezeichnung:** | Praxis Annie More |
+| **Lebenslange Arztnummer (LANR):** | 728382503 |
+| **Arztname:** | More |
+| **Vorname:** | Klaus |
+| **Straße und Hausnummer:** | Musterstr. 1 |
+| **PLZ/Ort:** | 40474 Düsseldorf |
+| **Telefon:** | 0211 / 1111111 |
+| **Telefax:** | 0211 / 2222222 |
+| **E-Mail-Adresse:** | AM@Testpraxis.de |
 
 / Version: 1.04 / 27. August 2025
 
@@ -343,9 +343,9 @@ Sofern zur Bearbeitung der Prüffälle Praxisdaten benötigt werden, können die
 
 |  |  |
 |---|---|
-| Prüffall-ID | 01 |
-| Testziel | „ |
-| Einzureichende | Eine Audit-Bescheinigung der kv.digital GmbH |
+| **Prüffall-ID** | 01 |
+| **Testziel** | „ |
+| **Einzureichende** | Eine Audit-Bescheinigung der kv.digital GmbH |
 
 Zur Initiierung des Audits setzt sich der Hersteller per E-Mail an [audit@kv.digital](mailto:audit@kv.digital) mit der kv.digital GmbH in
 
@@ -363,11 +363,11 @@ Der Nachweis über das von der kv.digital GmbH erfolgreich durchgeführte Audit 
 
 |  |  |
 |---|---|
-| Prüffall-ID | 02 |
-| Behandlungstag | 10.09.2025 |
-| Testziel | Abfrage und Anzeige einer Übersicht, über alle Termine nach |
-| Aufgabe | Die Praxis fragt bei der Terminservicestelle alle verfügbaren Termine ab, damit die    Es werden die Termine „Termin_1“, „Termin_2“, „Termin_3“, „Term   Der Anwender lässt sich die Übersicht der abgerufenen Termine anzeigen. |
-| Einzureichende | Es wird ein Video/Videos eingereicht, aus dem/denen ersichtlich wird |
+| **Prüffall-ID** | 02 |
+| **Behandlungstag** | 10.09.2025 |
+| **Testziel** | Abfrage und Anzeige einer Übersicht, über alle Termine nach |
+| **Aufgabe** | Die Praxis fragt bei der Terminservicestelle alle verfügbaren Termine ab, damit die    Es werden die Termine „Termin_1“, „Termin_2“, „Termin_3“, „Term   Der Anwender lässt sich die Übersicht der abgerufenen Termine anzeigen. |
+| **Einzureichende** | Es wird ein Video/Videos eingereicht, aus dem/denen ersichtlich wird |
 
 - a) alle Termine nach Anforderung P4-03 angezeigt werden und alle weiteren  Informationen eines Termins einzusehen sind
 
@@ -387,14 +387,14 @@ den Anforderungen P4-02 und P4-03 Praxis für den Behandlungstag informiert ist,
 
 |  |  |
 |---|---|
-| Prüffall-ID | 03 |
-| Behandlungstag | 10.09.2025 |
-| Testziel | Zuordnung eines Termins zu einem Patienten (gemäß  , KP2-513) |
-| Aufgabe | Die Praxis nimmt einen Patienten auf und behandelt diesen. Im Rahmen der |
-| Patient | Herr Prof. Dr. Graf Freiherr von Schaumberg (XML_01) |
-| Arzt | Arzt 2 (LANR 728382503) |
-| Einzureichende | Es wird ein Video/Videos eingereicht, aus dem/denen Folgendes ersichtlich wird: |
-| Hinweis | Alle nicht im Prüffall beschriebenen Information (z.B. die passende Versicherten |
+| **Prüffall-ID** | 03 |
+| **Behandlungstag** | 10.09.2025 |
+| **Testziel** | Zuordnung eines Termins zu einem Patienten (gemäß  , KP2-513) |
+| **Aufgabe** | Die Praxis nimmt einen Patienten auf und behandelt diesen. Im Rahmen der |
+| **Patient** | Herr Prof. Dr. Graf Freiherr von Schaumberg (XML_01) |
+| **Arzt** | Arzt 2 (LANR 728382503) |
+| **Einzureichende** | Es wird ein Video/Videos eingereicht, aus dem/denen Folgendes ersichtlich wird: |
+| **Hinweis** | Alle nicht im Prüffall beschriebenen Information (z.B. die passende Versicherten |
 
 ## 2.3 PRÜFFALL 03: AUFNAHME UND BEHANDLUNG VON PATIENT 1
 
@@ -406,14 +406,14 @@ a) die automatische Zuordnung eines Termins zu dem Patienten, b) der abgerechnet
 
 |  |  |
 |---|---|
-| Prüffall-ID | 04 |
-| Behandlungstag | 10.09.2025 |
-| Testziel | Zuordnung eines Termins zu einem Patienten (gemäß  , KP2-513) |
-| Aufgabe | Die Praxis nimmt einen Patienten auf und behandelt diesen. Im Rahmen der |
-| Patient | Frau Prof. Dr. Dr. med Kluge (XML_02) |
-| Arzt | Arzt 1 (LANR 838382201) |
-| Einzureichende | Es wird ein Video/Videos eingereicht, aus dem/denen Folgendes ersichtlich wird: |
-| Hinweis | Alle nicht im Prüffall beschriebenen Information (z.B. die passende Versicherten |
+| **Prüffall-ID** | 04 |
+| **Behandlungstag** | 10.09.2025 |
+| **Testziel** | Zuordnung eines Termins zu einem Patienten (gemäß  , KP2-513) |
+| **Aufgabe** | Die Praxis nimmt einen Patienten auf und behandelt diesen. Im Rahmen der |
+| **Patient** | Frau Prof. Dr. Dr. med Kluge (XML_02) |
+| **Arzt** | Arzt 1 (LANR 838382201) |
+| **Einzureichende** | Es wird ein Video/Videos eingereicht, aus dem/denen Folgendes ersichtlich wird: |
+| **Hinweis** | Alle nicht im Prüffall beschriebenen Information (z.B. die passende Versicherten |
 
 ## 2.4 PRÜFFALL 04: AUFNAHME UND BEHANDLUNG VON PATIENT 2
 
@@ -425,14 +425,14 @@ a) die automatische Zuordnung eines Termins zu dem Patienten, b) der abgerechnet
 
 |  |  |
 |---|---|
-| Prüffall-ID | 05 |
-| Behandlungstag | 10.09.2025 |
-| Testziel | Zuordnung eines Termins zu einem Patienten (gemäß  , KP2-513) |
-| Aufgabe | Die Praxis nimmt einen Patienten auf und behandelt diesen. Im Rahmen der |
-| Patient | Frau Althaus (XML_03) |
-| Arzt | Arzt 1 (LANR 838382201) |
-| Einzureichende | Es wird ein Video/Videos eingereicht, aus dem/denen Folgendes ersichtlich wird: |
-| Hinweis | Alle nicht im Prüffall beschriebenen Information (z.B. die passende Versicherten |
+| **Prüffall-ID** | 05 |
+| **Behandlungstag** | 10.09.2025 |
+| **Testziel** | Zuordnung eines Termins zu einem Patienten (gemäß  , KP2-513) |
+| **Aufgabe** | Die Praxis nimmt einen Patienten auf und behandelt diesen. Im Rahmen der |
+| **Patient** | Frau Althaus (XML_03) |
+| **Arzt** | Arzt 1 (LANR 838382201) |
+| **Einzureichende** | Es wird ein Video/Videos eingereicht, aus dem/denen Folgendes ersichtlich wird: |
+| **Hinweis** | Alle nicht im Prüffall beschriebenen Information (z.B. die passende Versicherten |
 
 ## 2.5 PRÜFFALL 05: AUFNAHME UND BEHANDLUNG VON PATIENT 3
 
@@ -446,14 +446,14 @@ a) die automatische Zuordnung eines Termins zu dem Patienten, b) der abgerechnet
 
 |  |  |
 |---|---|
-| Prüffall-ID | 06 |
-| Behandlungstag | 10.09.2025 |
-| Testziel | Zuordnung eines Termins zu einem Patienten (gemäß P4 , KP2-513) |
-| Aufgabe | Die Praxis nimmt einen Patienten auf und behandelt diesen. Im Rahmen der |
-| Patient | Herr Frühstück (XML_04) |
-| Arzt | Arzt 2 (LANR 728382503) |
-| Einzureichende | Es wird ein Video/Videos eingereicht, aus dem/denen |
-| Hinweis | Alle nicht im Prüffall beschriebenen Information (z.B. die passende Versicherten |
+| **Prüffall-ID** | 06 |
+| **Behandlungstag** | 10.09.2025 |
+| **Testziel** | Zuordnung eines Termins zu einem Patienten (gemäß P4 , KP2-513) |
+| **Aufgabe** | Die Praxis nimmt einen Patienten auf und behandelt diesen. Im Rahmen der |
+| **Patient** | Herr Frühstück (XML_04) |
+| **Arzt** | Arzt 2 (LANR 728382503) |
+| **Einzureichende** | Es wird ein Video/Videos eingereicht, aus dem/denen |
+| **Hinweis** | Alle nicht im Prüffall beschriebenen Information (z.B. die passende Versicherten |
 
 / Version: 1.04 / 27. August 2025
 
@@ -465,24 +465,24 @@ a) die automatische Zuordnung eines Termins zu dem Patienten, b) der abgerechnet
 
 |  |  |
 |---|---|
-| Prüffall-ID | 07 |
-| Behandlungstag | 10.09.2025 |
-| Testziel | Zuordnung eines Termins zu einem Patienten (gemäß |
-| Aufgabe | Die Praxis nimmt einen Patienten auf und behandelt diesen.  Im Rahmen der Aufnahme wird versucht dem Patienten ein Termin zuzuordnen, |
-| Patient | Herr Pan (XML_08) |
-| Arzt | Arzt 2 (LANR 728382503) |
-| Einzureichende | Es wird ein Video eingereicht, in welchem die automatische Zuordnung eines    Es wird ein Video/Videos eingereicht, aus dem/denen Folgendes ersichtlich wird: |
-| Hinweis | Alle nicht im Prüffall beschriebenen Information |
+| **Prüffall-ID** | 07 |
+| **Behandlungstag** | 10.09.2025 |
+| **Testziel** | Zuordnung eines Termins zu einem Patienten (gemäß |
+| **Aufgabe** | Die Praxis nimmt einen Patienten auf und behandelt diesen.  Im Rahmen der Aufnahme wird versucht dem Patienten ein Termin zuzuordnen, |
+| **Patient** | Herr Pan (XML_08) |
+| **Arzt** | Arzt 2 (LANR 728382503) |
+| **Einzureichende** | Es wird ein Video eingereicht, in welchem die automatische Zuordnung eines    Es wird ein Video/Videos eingereicht, aus dem/denen Folgendes ersichtlich wird: |
+| **Hinweis** | Alle nicht im Prüffall beschriebenen Information |
 
 **2.8** **PRÜFFALL 08: MANUELLE ABFRAGE BEI DER TERMINSERVICESTELLE**
 
 |  |  |
 |---|---|
-| Prüffall-ID | 08 |
-| Behandlungstag | 14.09.2025 |
-| Testziel | Abfrage und Anzeige einer Übersicht, über alle Termine nach den Anforderungen |
-| Aufgabe | Die Praxis fragt bei der Terminservicestelle alle verfügbaren Termine ab   Es werden die Termine „Termin_6“, „Termin_7“, „Termin_9“ und „Termin_10“    Der Anwender lässt sich die Übersicht über alle in diesem Quartal noch nicht |
-| Einzureichende | Es wird ein Video eingereicht, aus dem ersichtlich wird, dass alle relevanten |
+| **Prüffall-ID** | 08 |
+| **Behandlungstag** | 14.09.2025 |
+| **Testziel** | Abfrage und Anzeige einer Übersicht, über alle Termine nach den Anforderungen |
+| **Aufgabe** | Die Praxis fragt bei der Terminservicestelle alle verfügbaren Termine ab   Es werden die Termine „Termin_6“, „Termin_7“, „Termin_9“ und „Termin_10“    Der Anwender lässt sich die Übersicht über alle in diesem Quartal noch nicht |
+| **Einzureichende** | Es wird ein Video eingereicht, aus dem ersichtlich wird, dass alle relevanten |
 
 / Version: 1.04 / 27. August 2025
 
@@ -495,23 +495,23 @@ Prüfunterlagen sofern der Anwender eine Warnmeldung Terminservice Informationen
 
 |  |  |
 |---|---|
-| Prüffall-ID | 09 |
-| Behandlungstag | 14.09.2025 |
-| Tag der Eintragung | 20.09.2025 |
-| Testziel | Der Anwender ordnet einem behandelten Patienten nachträglich einen Termin mit |
-| Aufgabe | Der Anwender ordnet dem Patienten, welcher am 14.09.2025 14.04.2025 |
-| Patient | Frau Malta (XML_09) behandelt am |
-| Arzt | Arzt 1 (LANR 838382201) |
-| Einzureichende | Es wird ein Video eingereicht, in welchem ersichtlich wird : (gemäß KBV_ITA_VGEX_Anforderungskatalog_KVDT, |
-| Hinweis | Alle nicht im Prüffall beschriebenen Information (z.B. die passende Versicherten |
+| **Prüffall-ID** | 09 |
+| **Behandlungstag** | **14.09.2025** |
+| **Tag der Eintragung** | **20.09.2025** |
+| **Testziel** | Der Anwender ordnet einem behandelten Patienten nachträglich einen Termin mit |
+| **Aufgabe** | Der Anwender ordnet dem Patienten, welcher am 14.09.2025 14.04.2025 |
+| **Patient** | Frau Malta (XML_09) behandelt am |
+| **Arzt** | Arzt 1 (LANR 838382201) |
+| **Einzureichende** | Es wird ein Video eingereicht, in welchem ersichtlich wird : (gemäß KBV_ITA_VGEX_Anforderungskatalog_KVDT, |
+| **Hinweis** | Alle nicht im Prüffall beschriebenen Information (z.B. die passende Versicherten |
 
 **2.10** **PRÜFFALL 10: ERSTELLEN EINER ABRECHNUNG**
 
 |  |  |
 |---|---|
-| Prüffall-ID | 10 |
-| Testziel | Die Praxis erstellt die Abrechnung |
-| Einzureichende | Es wird eine Abrechnungsdatei (.con) eingereicht, |
+| **Prüffall-ID** | 10 |
+| **Testziel** | Die Praxis erstellt die Abrechnung |
+| **Einzureichende** | Es wird eine Abrechnungsdatei (.con) eingereicht, |
 
 ## S TERMINS
 
@@ -526,7 +526,7 @@ der TSS- Informationen Prüfunterlagen   14.08.2025 den relevanten Informationen
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 | [Spec_eTerminservice_Abr] | „Spezifikation 116117 Terminservice  Abrechnungsinformation |
 | [KBV_ITA_VGEX_Anforderungskatalog_TSS] | Anforderungskatalog „eTerminservice“. |
 | [KBV_ITA_RLEX_Zert] | Zertifizierungsrichtlinie der KBV |

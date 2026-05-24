@@ -1,9 +1,9 @@
-| Sammelerklärung 2. Quartal 2026 \| Krankenhäuser | |
+| **Sammelerklärung 2. Quartal 2026 \| Krankenhäuser** | |
 |---|---|
-| Städtisches Krankenhaus Leverkusen Dr. med.  Hans  Krankenhausarzt Facharzt f. Innere Medizin -Angiologie- Willy-Brandt-Ring  25 51371  Leverkusen | BSNR: 274433300 Fallzahl: 641 |
+| **Städtisches Krankenhaus Leverkusen Dr. med.  Hans  Krankenhausarzt Facharzt f. Innere Medizin -Angiologie- Willy-Brandt-Ring  25 51371  Leverkusen** | BSNR: 274433300 Fallzahl: 641 |
 
-| Ich versichere: |
-|---|
+\| **Ich versichere:** |
+\|---|
 
 | 1. | Die Abrechnung ist vollständig; die maßgeblichen Regelungen und Bestimmungen, besonders die des  Sozialgesetzbuchs V, des Bundesmantelvertrages (BMV-Ä), des Einheitlichen Bewertungsmaßstabs und des  Honorarverteilungsmaßstabs, der IT-Richtlinien der KV Nordrhein sowie der Richtlinien des Gemeinsamen  Bundesausschusses in der jeweils geltenden Fassung wurden beachtet. |
 |---|---|
@@ -17,8 +17,8 @@
 | 4. | Die ambulanten Notfallleistungen werden ausschließlich durch das Krankenhaus und nicht durch einen  ermächtigten Krankenhausarzt abgerechnet. |
 |---|---|
 
-| Ferner bestätige ich: |
-|---|
+\| **Ferner bestätige ich:** |
+\|---|
 
 | 5. | Datum und Uhrzeit der ambulanten Notfallbehandlung sind angegeben. Die abgerechneten Notfallleistungen  umfassen nur die medizinische Erstversorgung. |
 |---|---|
@@ -35,8 +35,8 @@
 | 9. | Die eingesetzte Software ist zertifiziert. |
 |---|---|
 
-| 1\|2 2. Die in Rechnung gestellten Leistungen haben ausschließlich zur Leistungserbringung berechtigte Personen  erbracht. |
-|---|
+\| **1\|2** 2. Die in Rechnung gestellten Leistungen haben ausschließlich zur Leistungserbringung berechtigte Personen  erbracht. |
+\|---|
 
 Sammelerklärung 2. Quartal 2026 | Krankenhäuser 1|2
 
@@ -49,12 +49,12 @@ Formularversion 22.04.2026
 |  | wenn die Abrechnung nicht den genannten Bestimmungen entspricht und/oder |
 |  | wenn durch die Beschäftigung eines nicht genehmigten Assistenten/Vertreters Leistungen abgerechnet wurden. |
 
-| Eine Veränderung des Erklärungstextes führt zur Unwirksamkeit der Erklärung mit der Folge, dass die KV Nordrhein  die Abrechnung ablehnen kann. |
-|---|
+\| Eine Veränderung des Erklärungstextes führt zur Unwirksamkeit der Erklärung mit der Folge, dass die KV Nordrhein  die Abrechnung ablehnen kann. |
+\|---|
 
 | 30.06.2026 |  |  |
 |---|---|---|
 | Datum |  | Unterschrift des ärztlichen Leiters (bei Berufsausübungsgemeinschaften ggf. eines Partners - ansonsten auf  gesondertem Blatt - bzw. für ein Medizinisches Versorgungszentrum der  ärztliche Leiter bzw. für Notfallpraxen der jeweils verantwortliche Arzt) |
 
-| 2\|2 |
-|---|
+\| **2\|2** |
+\|---|

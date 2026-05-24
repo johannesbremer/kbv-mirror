@@ -1,7 +1,7 @@
-|  | IT in der Arztpraxis |
+|  | ***IT in der Arztpraxis*** |
 |---|---|
-|  | Ausfüllhinweise Kapselendoskopie |
-|  | KBV_ITA_AHEX_Ausfuellhinweise_QSKE |
+|  | *Ausfüllhinweise Kapselendoskopie* |
+|  | *KBV_ITA_AHEX_Ausfuellhinweise_QSKE* |
 |  |  |
 |  | Dezernat Digitalisierung und IT |
 |  |  |
@@ -20,7 +20,7 @@ Version  Datum: Kennzeichnung:  Öffentlich  Status:    In Kraft
 
 ### DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| Version | Datum | Autor | Änderung | Begründung | **Seite** |
 |---|---|---|---|---|---|
 | 1.01 | 21.01.2015 KBV |  | Redaktionelle Korrekturen | Überarbeitung der |  |
 | 1.00 | 10.11.2014 KBV |  | Initiales Dokument |  |  |
@@ -71,7 +71,7 @@ sind. Nachfolgend erhalten Sie Erläuterungen zu den einzelnen Eingabedaten, wel
 
 **2 Eingabedaten**
 
-| Nr.  gem. Plausi- [KBV_ITA_VGEX_ | Ausfüllhinweis |
+| **Nr.  gem. Plausi- [KBV_ITA_VGEX_** | **Ausfüllhinweis** |
 |---|---|
 | 1.a | Eine Erstuntersuchung ist jede Untersuchung zur Abklärung einer Fragestellung obskurer Blutungen. Eine Wiederholungsuntersuch Eine Untersuchung im Rahmen einer Verlaufskontrolle ist    In der Jahresstatistik sind die Untersuchungen zu erfassen, bei denen Sie die Kapsel appliziert haben. Falls Sie Kapseln appl   Die Summe der Erst- und Wiederholungsuntersuchungen entspricht der Summe der insgesamt in dieser Betriebsstätte applizierte |
 | 1.b | |
@@ -85,7 +85,7 @@ sind. Nachfolgend erhalten Sie Erläuterungen zu den einzelnen Eingabedaten, wel
 | 5.a | Zu den im Berichtsjahr durchgeführten Kapselendoskopien sind Angaben zu Einschränkungen der Beurteilbarkeit des Bildmaterials Der Applizierer hat für alle Kapselendoskopien Angaben in Bezug auf die Beurteilbarkeit aus s |
 | 5.b.I | |
 | 5.b.II | |
-|  | gem. Plausi- |
+|  | **gem. Plausi-** |
 |  | |
 |  | |
 |  | |
@@ -135,7 +135,7 @@ erter anzugeben.  beauftragt worden waren, durch Übernahme der Angaben des Ausw
 
 # 3 Referenzierte Dokumente
 
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 |---|---|
 | [1] | Qualitätssicherungsvereinbarung  Kapselendoskopie |
 | [KBV_ITA_VGEX_Anforderungskatalog_QSKE] | Anforderungskatalog |

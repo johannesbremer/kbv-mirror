@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 11. NOVEMBER 2025   VERSION: 3.6   DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 11. NOVEMBER 2025   VERSION: 3.6   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # PRÜFPAKET ELEKTRONISCHES REZEPT
@@ -99,7 +99,7 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
 
 # DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 3.6 | 11.11.2025 | KBV | Korrektur PF06    Aktualisierung der Grafik der |  | 14    6 |
 | 3.5 | 30.09.2025 | KBV | Aktualisierung der Prüffälle auf |  | Alle |
@@ -276,13 +276,13 @@ Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüf
 
 Prüffälle als XML-Dateien
 
-| NAME | VERZEICHNISNAME |
+| **NAME** | **VERZEICHNISNAME** |
 |---|---|
-| Karl-Friederich Schaumberg | XML_01 |
-| Viktor Müller | XML_09 |
-| Brigitte Althaus | XML_05 |
-| Viktor Werner | XML_34 |
-| Ingrid Schimmelpfennig-Hammerschmidt | XML_37 |
+| **Karl-Friederich Schaumberg** | XML_01 |
+| **Viktor Müller** | XML_09 |
+| **Brigitte Althaus** | XML_05 |
+| **Viktor Werner** | XML_34 |
+| **Ingrid Schimmelpfennig-Hammerschmidt** | XML_37 |
 
 **Anmerkung:**
 
@@ -290,55 +290,55 @@ Die Verwendung einer Import-Schnittstelle für die XML-Dateien ist nur für Prü
 
 **1.6.4** **Praxisdaten/ Arztstempel**
 
-| ÄRZTIN 1 |  |
+| **ÄRZTIN 1** |  |
 |---|---|
-| Bezeichnung | Inhalt/ Bedingung zum Inhalt |
-| Typ | Arzt |
-| Lebenslange Arztnummer (LANR) | 838382201 |
-| ASV-Teamnummer | 001234566 |
-| Nachname | <kann beliebig gewählt werden> |
-| Vorname | <kann beliebig gewählt werden> |
-| Titel | Dr. |
+| **Bezeichnung** | **Inhalt/ Bedingung zum Inhalt** |
+| **Typ** | Arzt |
+| **Lebenslange Arztnummer (LANR)** | 838382201 |
+| **ASV-Teamnummer** | 001234566 |
+| **Nachname** | <kann beliebig gewählt werden> |
+| **Vorname** | <kann beliebig gewählt werden> |
+| **Titel** | Dr. |
 
 Federmannssohn
 
 ---
 
-| ÄRZTIN 1 |  |
+| **ÄRZTIN 1** |  |
 |---|---|
-| Namenzusatz | <optionale Angabe, kann beliebig gewählt werden> |
-| Vorsatzwort | <optionale Angabe, kann beliebig gewählt werden> |
-| Berufsbezeichnung | Fachärztin für Allgemeinmedizin |
-| Betriebsstättennummer (BSNR) | 241234601 |
-| Name der Betriebsstätte | Praxis Annie More |
-| Straße und Hausnummer | <kann beliebig gewählt werden> |
-| Adresszusatz | <optionale Angabe, kann beliebig gewählt werden> |
-| PLZ/Ort | <kann beliebig gewählt werden> |
-| Wohnsitzländercode | D |
-| Telefon | <kann beliebig gewählt werden> |
-| Telefax | <kann beliebig gewählt werden> |
-| E-Mail-Adresse | AM@Testpraxis.de |
+| **Namenzusatz** | <optionale Angabe, kann beliebig gewählt werden> |
+| **Vorsatzwort** | <optionale Angabe, kann beliebig gewählt werden> |
+| **Berufsbezeichnung** | Fachärztin für Allgemeinmedizin |
+| **Betriebsstättennummer (BSNR)** | 241234601 |
+| **Name der Betriebsstätte** | Praxis Annie More |
+| **Straße und Hausnummer** | <kann beliebig gewählt werden> |
+| **Adresszusatz** | <optionale Angabe, kann beliebig gewählt werden> |
+| **PLZ/Ort** | <kann beliebig gewählt werden> |
+| **Wohnsitzländercode** | D |
+| **Telefon** | <kann beliebig gewählt werden> |
+| **Telefax** | <kann beliebig gewählt werden> |
+| **E-Mail-Adresse** | AM@Testpraxis.de |
 
-| ARZT 2 (ALS VERTRETER) |  |
+| **ARZT 2 (ALS VERTRETER)** |  |
 |---|---|
-| Bezeichnung | Inhalt/ Bedingung zum Inhalt |
-| Typ | Arzt als persönliche Vertretung |
-| Lebenslange Arztnummer (LANR) | 728382503 |
-| Nachname | <kann beliebig gewählt werden> |
-| Vorname | <kann beliebig gewählt werden> |
-| Titel | Dr. |
-| Namenzusatz | <kann beliebig gewählt werden> |
-| Vorsatzwort | <kann beliebig gewählt werden> |
-| Berufsbezeichnung | Arzt |
-| Betriebsstättennummer (BSNR) | 241234601 |
-| Name der Betriebsstätte | Praxis Annie More |
-| Straße und Hausnummer | <kann beliebig gewählt werden> |
-| Adresszusatz | <optionale Angabe, kann beliebig gewählt werden> |
-| PLZ/Ort | <kann beliebig gewählt werden> |
-| Wohnsitzländercode | D |
-| Telefon | <kann beliebig gewählt werden> |
-| Telefax | <kann beliebig gewählt werden> |
-| E-Mail-Adresse | AM@Testpraxis.de |
+| **Bezeichnung** | **Inhalt/ Bedingung zum Inhalt** |
+| **Typ** | Arzt als persönliche Vertretung |
+| **Lebenslange Arztnummer (LANR)** | 728382503 |
+| **Nachname** | <kann beliebig gewählt werden> |
+| **Vorname** | <kann beliebig gewählt werden> |
+| **Titel** | Dr. |
+| **Namenzusatz** | <kann beliebig gewählt werden> |
+| **Vorsatzwort** | <kann beliebig gewählt werden> |
+| **Berufsbezeichnung** | Arzt |
+| **Betriebsstättennummer (BSNR)** | 241234601 |
+| **Name der Betriebsstätte** | Praxis Annie More |
+| **Straße und Hausnummer** | <kann beliebig gewählt werden> |
+| **Adresszusatz** | <optionale Angabe, kann beliebig gewählt werden> |
+| **PLZ/Ort** | <kann beliebig gewählt werden> |
+| **Wohnsitzländercode** | D |
+| **Telefon** | <kann beliebig gewählt werden> |
+| **Telefax** | <kann beliebig gewählt werden> |
+| **E-Mail-Adresse** | AM@Testpraxis.de |
 
 
 ---
@@ -389,12 +389,12 @@ Folgende Voraussetzungen müssen im System geschaffen werden, um die in den Prü
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF01 |
-| Testziel | Erstellen und Signieren eines eRP |
-| Voraussetzung | ›  › Patient „Karl |
-| Aktion |  |
-| Einzureichende | ›  ›  ›  › |
-| Hinweis | Für die Zertifizierung sind die einzureichenden XML |
+| **Prüffall-ID** | PF01 |
+| **Testziel** | Erstellen und Signieren eines eRP |
+| **Voraussetzung** | ›  › Patient „Karl |
+| **Aktion** |  |
+| **Einzureichende** | ›  ›  ›  › |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML |
 
 **Tabelle 1: Prüffalltabelle**
 
@@ -410,23 +410,23 @@ Prüfunterlagen (PZN-Verordnung) für den Patienten Karl- Friederich Schaumberg�
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF02 |
-| Testziel | Erneutes Erstellen und Signieren eines eRP (PZN |
-| Voraussetzung | ›  › Patient „Karl › |
-| Aktion |  |
-| Einzureichende | ›  › |
-| Hinweis | Für die Zertifizierung sind die einzureichenden XML |
+| **Prüffall-ID** | PF02 |
+| **Testziel** | Erneutes Erstellen und Signieren eines eRP (PZN |
+| **Voraussetzung** | ›  › Patient „Karl › |
+| **Aktion** |  |
+| **Einzureichende** | ›  › |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML |
 
 **Tabelle 2: Prüffalltabelle**
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF03 |
-| Testziel | Erstellen eines eRP (Freitextverordnung) für den Patienten „Viktor Müller“ |
-| Voraussetzung | ›  › Patient „ |
-| Aktion | 1x tgl. dünn auf die betroffene Stelle auftragen |
-| Einzureichende | › |
-| Hinweis | Für die Zertifizierung sind die einzureichenden XML |
+| **Prüffall-ID** | PF03 |
+| **Testziel** | Erstellen eines eRP (Freitextverordnung) für den Patienten „Viktor Müller“ |
+| **Voraussetzung** | ›  › Patient „ |
+| **Aktion** | 1x tgl. dünn auf die betroffene Stelle auftragen |
+| **Einzureichende** | › |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML |
 
 **Tabelle 3: Prüffalltabelle**
 
@@ -439,23 +439,23 @@ Prüfunterlagen -Verordnung) für den Patienten Karl- Friederich Schaumberg“ �
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF04 |
-| Testziel | Erstellen eines eRP (PZN- |
-| Voraussetzung | ›  › Patient „Viktor Müller“ ist im System ausgewählt › |
-| Aktion |  |
-| Einzureichende | › |
-| Hinweis | Für die Zertifizierung sind die einzureichenden XML |
+| **Prüffall-ID** | PF04 |
+| **Testziel** | Erstellen eines eRP (PZN- |
+| **Voraussetzung** | ›  › Patient „Viktor Müller“ ist im System ausgewählt › |
+| **Aktion** |  |
+| **Einzureichende** | › |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML |
 
 **Tabelle 4: Prüffalltabelle**
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF05 |
-| Testziel | Erstellen eines eRP (PZN-Verordnung |
-| Voraussetzung | ›  › Patient „Viktor Müller“ ist im System ausgewählt › |
-| Aktion |  |
-| Einzureichende | › |
-| Hinweis | Für die Zertifizierung sind die einzureichenden XML |
+| **Prüffall-ID** | PF05 |
+| **Testziel** | Erstellen eines eRP (PZN-Verordnung |
+| **Voraussetzung** | ›  › Patient „Viktor Müller“ ist im System ausgewählt › |
+| **Aktion** |  |
+| **Einzureichende** | › |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML |
 
 **Tabelle 5: Prüffalltabelle**
 
@@ -468,22 +468,22 @@ Prüfunterlagen Verordnung) für den Patienten „Viktor Müller“ Ärztin 1 is
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF06 |
-| Testziel | Signieren mehrerer eRP mittels Stapelsignatur |
-| Voraussetzung | ›  › Patient „ › |
-| Aktion |  |
-| Einzureichende | ›  › |
+| **Prüffall-ID** | PF06 |
+| **Testziel** | Signieren mehrerer eRP mittels Stapelsignatur |
+| **Voraussetzung** | ›  › Patient „ › |
+| **Aktion** |  |
+| **Einzureichende** | ›  › |
 
 **Tabelle 6: Prüffalltabelle**
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF07 |
-| Testziel | Erstellen eines eRP (PZN-Verordnung) für die |
-| Voraussetzung | ›  ›  › |
-| Aktion |  |
-| Einzureichende | › |
-| Hinweis | Für die Zertifizierung sind die einzureichenden XML |
+| **Prüffall-ID** | PF07 |
+| **Testziel** | Erstellen eines eRP (PZN-Verordnung) für die |
+| **Voraussetzung** | ›  ›  › |
+| **Aktion** |  |
+| **Einzureichende** | › |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML |
 
 **Tabelle 7: Prüffalltabelle**
 
@@ -499,12 +499,12 @@ Prüfunterlagen Ärztin 1 ist als ausstellende Ärztin im System ausgewählt  Vi
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF08 |
-| Testziel | Erstellen eines eRP (PZN- |
-| Voraussetzung | ›  › Patient „Viktor Werner“ ist im System ausgewählt |
-| Aktion |  |
-| Einzureichende | ›  ›  1.  a)  PZN = 07097020 (Metoprololsuccinat AL 47,5mg 100 Retardtabl. N3)   b)  c)  d)  e) )   b)  c)  d)  e)  2.  a)  b)  c)  d)  3.  1.  a)  PZN = 07097020 (Metoprololsuccinat AL 47,5mg 100 Retardtabl. N3)   b)  c)  d)  e)  2.  a)  b)  c)  d)  3.  a)  b)  c)  d)  4.  a)  b)  c)  5.  6.  Einzureichende  ›   a)  PZN = 07097020 (Metoprololsuccinat AL 47,5mg 100 Retardtabl. N3)   b)    a)  PZN = 07097020 (Metoprololsuccinat AL 47,5mg 100 Retardtabl. N3)   b)  d)  4.  a)  b)  c)  5. |
-| Hinweis | Für die Zertifizierung sind die einzureichenden XML |
+| **Prüffall-ID** | PF08 |
+| **Testziel** | Erstellen eines eRP (PZN- |
+| **Voraussetzung** | ›  › Patient „Viktor Werner“ ist im System ausgewählt |
+| **Aktion** |  |
+| **Einzureichende** | ›  ›  1.  a)  PZN = 07097020 (Metoprololsuccinat AL 47,5mg 100 Retardtabl. N3)   b)  c)  d)  e) )   b)  c)  d)  e)  2.  a)  b)  c)  d) **3.**  1.  a)  PZN = 07097020 (Metoprololsuccinat AL 47,5mg 100 Retardtabl. N3)   b)  c)  d)  e)  2.  a)  b)  c)  d) **3.**  a)  b)  c)  d) **4.**  a)  b)  c) **5.** **6.** **Einzureichende ** ›   a)  PZN = 07097020 (Metoprololsuccinat AL 47,5mg 100 Retardtabl. N3)   b)    a)  PZN = 07097020 (Metoprololsuccinat AL 47,5mg 100 Retardtabl. N3)   b)  d) **4.**  a)  b)  c) **5.** |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML |
 
 **Tabelle 8: Prüffalltabelle  PZN-Mehrfachverordnung für Patient „Viktor Werner“**
 
@@ -514,63 +514,63 @@ Mehrfachverordnung) für den Patienten „Viktor Werner“ Ärztin 1 ist als aus
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF09 |
-| Testziel | Erstellen eines eRP (PZN-Verordnung) für die Patientin |
-| Voraussetzung | ›  › |
-| Aktion |  |
-|  | 1.  a)  b)  c)  d)  e)  f)  2.    d)  e)  f)  2.  Einzureichende  ›  Hinweis  Für die Zertifizierung sind die einzureichenden XML Tabelle 9: Prüffalltabelle    1.  a)  b)  c)  d)  e)  f)  2.  Einzureichende  ›  Hinweis  Für die Zertifizierung sind die einzureichenden XML Tabelle 9: Prüffalltabelle      a)  b)  c)  d)  e)   a)  b)  c)  d)  e) |
+| **Prüffall-ID** | PF09 |
+| **Testziel** | Erstellen eines eRP (PZN-Verordnung) für die Patientin |
+| **Voraussetzung** | ›  › |
+| **Aktion** |  |
+|  | 1.  a)  b)  c)  d)  e)  f) **2.**    d)  e)  f) **2.** **Einzureichende ** › **Hinweis ** Für die Zertifizierung sind die einzureichenden XML**Tabelle 9: Prüffalltabelle **   1.  a)  b)  c)  d)  e)  f) **2.** **Einzureichende ** › **Hinweis ** Für die Zertifizierung sind die einzureichenden XML**Tabelle 9: Prüffalltabelle **     a)  b)  c)  d)  e)   a)  b)  c)  d)  e) |
 |  |  |
 
 Prüfunterlagen Ingrid Schimmelpfennig- Hammerschmidt Federmannssohn  im Rahmen der ASV Ärztin 1 ist als ausstellende Ärztin im System ausgewählt  Ingrid Schimmelpfennig -Hammerschmidt Federmannssohn “ ist im System ausgewählt Der Anwender erstellt eine Verordnung mit den folgenden Daten: PZN = 01672693 (CAPVAL® Saft 25 mg/5 g, 100ml Suspension zum Einnehmen N1) Anzahl der verordneten Packungen = 1 Kennzeichen Dosierung = true Dosieranweisung = 3x täglich 5ml Zuzahlungsstatus = von Zuzahlungspflicht befreit Behandlung findet im Rahmen der ambulanten spezialfachärztlichen Versorgung (ASV) statt: ASV-Teamnummer = 001234566 Der Anwender signiert das eRP. XML-Datei des eRP -Dateien auf Basis der eRezept FHIR-Profile in der Version 1.3.2 zu erstellen.   PZN-Verordnung für Patientin Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn  im Rahmen der ASV |  |  |
 |---|---|
-| Prüffall-ID | PF09 |
-| Testziel | Erstellen eines eRP (PZN-Verordnung) für die Patientin |
-| Voraussetzung | ›  › |
-| Aktion |  |
-| Einzureichende | › |
-| Hinweis | Für die Zertifizierung sind die einzureichenden XML |
+| **Prüffall-ID** | PF09 |
+| **Testziel** | Erstellen eines eRP (PZN-Verordnung) für die Patientin |
+| **Voraussetzung** | ›  › |
+| **Aktion** |  |
+| **Einzureichende** | › |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML |
 
 
 ---
 
-| 2.3 Bedingung für den Prüffall PF10: | Der nachfolgende Prüffall ist nur durchzuführen, sofern das zu prüfende Systeme eine Wirkstoffverordnung  WG] unterstützt. Dies ist |
+| **2.3** Bedingung für den Prüffall PF10: | Der nachfolgende Prüffall ist nur durchzuführen, sofern das zu prüfende Systeme eine Wirkstoffverordnung  WG] unterstützt. Dies ist |
 |---|---|
 | im Antrag auf Zertifizierung [KBV_ITA_FMEX_AAZ_AMV] anzugeben. |  |
 |  |  |
-|  | Prüffall-ID  PF10 |
-| Testziel |  |
-|  | Erstellen eines eRP (Wirkstoffverordnung Voraussetzung  ›  ›  Aktion  1.  a)  b)  c)  d) 1.  a)  b)  c)  d)  e)  f)  g)  h)  2.  3.  Erstellen eines eRP (Wirkstoffverordnung Voraussetzung  ›  ›  Aktion  1.  a)  b)  c)  d)  e)  f)  g)  h)  2.  3.  Einzureichende  ›  ›  Hinweis  Für die Zertifizierung sind die einzureichenden XML Tabelle 10: Prüffalltabelle  Bedingung für den Prüffall PF11:  Der nachfolgende Prüffall ist nur durchzuführen, sofern das zu prüfende Systeme eine Rezepturverordnung  WG] unterstützt. Dies ist  im Antrag auf Zertifizierung [KBV_ITA_FMEX_AAZ_AMV] anzugeben.    Voraussetzung  ›  ›  Aktion  1.  a)  Voraussetzung  ›  ›  Aktion  1.  a)  Für die Zertifizierung sind die einzureichenden XML Tabelle 10: Prüffalltabelle  Bedingung für den Prüffall PF11:  Der nachfolgende Prüffall ist nur durchzuführen, sofern das zu prüfende Systeme eine Rezepturverordnung  WG] unterstützt. Dies ist  im Antrag auf Zertifizierung [KBV_ITA_FMEX_AAZ_AMV] anzugeben. |
+|  | **Prüffall-ID ** PF10 |
+| **Testziel** |  |
+|  | Erstellen eines eRP (Wirkstoffverordnung**Voraussetzung ** ›  › **Aktion ** 1.  a)  b)  c)  d) 1.  a)  b)  c)  d)  e)  f)  g)  h) **2.** **3.**  Erstellen eines eRP (Wirkstoffverordnung**Voraussetzung ** ›  › **Aktion ** 1.  a)  b)  c)  d)  e)  f)  g)  h) **2.** **3.** **Einzureichende ** ›  › **Hinweis ** Für die Zertifizierung sind die einzureichenden XML**Tabelle 10: Prüffalltabelle ** Bedingung für den Prüffall PF11:  Der nachfolgende Prüffall ist nur durchzuführen, sofern das zu prüfende Systeme eine Rezepturverordnung  WG] unterstützt. Dies ist  im Antrag auf Zertifizierung [KBV_ITA_FMEX_AAZ_AMV] anzugeben.   **Voraussetzung ** ›  › **Aktion ** 1.  a) **Voraussetzung ** ›  › **Aktion ** 1.  a)  Für die Zertifizierung sind die einzureichenden XML**Tabelle 10: Prüffalltabelle ** Bedingung für den Prüffall PF11:  Der nachfolgende Prüffall ist nur durchzuführen, sofern das zu prüfende Systeme eine Rezepturverordnung  WG] unterstützt. Dies ist  im Antrag auf Zertifizierung [KBV_ITA_FMEX_AAZ_AMV] anzugeben. |
 |  |  |
 
 ERSTELLEN EINES ERP gemäß den Vorgaben in dem Dokument Prüfunterlagen gemäß den Vorgaben in dem Dokument  KONDITIONALE PRÜFFÄLLE [EXT_ITA_VGEX_Anforderungskatalog_AV ) für die Patientin „ Hammerschmidt Federmannssohn Ärztin 1 ist als ausstellende Ärztin im System ausgewählt  Patientin Ingrid Schimmelpfennig -Hammerschmidt Federmannssohn System ausgewählt Der Anwender erstellt eine Verordnung mit den folgenden Daten: Wirkstoffnummer = 5682 oder 05682 Darreichungsform Freitext = Tabletten Packungsgröße nach abgeteilter Menge = 20 Packungsgröße Einheit = Stück Anzahl der verordneten Packungen = 1 Kennzeichen Dosierung = true Dosieranweisung = 1-0-1-0 Zuzahlungsstatus = von Zuzahlungspflicht befreit Der Anwender signiert das eRP. Der Anwender erzeugt einen Patientenausdruck XML-Datei des eRP PDF-Datei mit Patientenausdruck des eRP FHIR-Profile in der Version 1.3.2 zu erstellen.  für Patientin „ Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn [EXT_ITA_VGEX_Anforderungskatalog_AV Ingrid Schimmelpfennig-  des eRP. -Dateien auf Basis der eRezept “ ist im |  |  |
 |---|---|
-| Prüffall-ID | PF10 |
-| Testziel | Erstellen eines eRP (Wirkstoffverordnung |
-| Voraussetzung | ›  › |
-| Aktion |  |
-| Einzureichende | ›  › |
-| Hinweis | Für die Zertifizierung sind die einzureichenden XML |
+| **Prüffall-ID** | PF10 |
+| **Testziel** | Erstellen eines eRP (Wirkstoffverordnung |
+| **Voraussetzung** | ›  › |
+| **Aktion** |  |
+| **Einzureichende** | ›  › |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML |
 
 
 ---
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF11 |
-| Testziel | Erstellen eines eRP (Rezepturverordnung |
-| Voraussetzung | ›  › |
-| Aktion |  |
-| 6. | Einzureichende  ›  1.  a)  b)  c)  d)  e)  f)  g)    d)  e)  f)  g)  h)  i)  j)  2.  a)  b)  c) 1.  a)  b)  c)  d)  e)  f)  g)  h)  i)  j)  2.  a)  b)  c)  d)  3.  a)  b)  c)  d)  4.  a)  b)  5.  6.    a)  b)  c)  d)  e)   a)  b)  c)  d)  e)   b)  c)  d)  4.  a)  b) |
-| › | Hinweis |
+| **Prüffall-ID** | PF11 |
+| **Testziel** | Erstellen eines eRP (Rezepturverordnung |
+| **Voraussetzung** | ›  › |
+| **Aktion** |  |
+| **6.** | **Einzureichende ** ›  1.  a)  b)  c)  d)  e)  f)  g)    d)  e)  f)  g)  h)  i)  j) **2.**  a)  b)  c) 1.  a)  b)  c)  d)  e)  f)  g)  h)  i)  j) **2.**  a)  b)  c)  d) **3.**  a)  b)  c)  d) **4.**  a)  b) **5.** **6.**    a)  b)  c)  d)  e)   a)  b)  c)  d)  e)   b)  c)  d) **4.**  a)  b) |
+| › | **Hinweis** |
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF11 |
-| Testziel | Erstellen eines eRP (Rezepturverordnung |
-| Voraussetzung | ›  › |
-| Aktion |  |
-| Einzureichende | ›  › |
-| Hinweis | Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eRezept |
+| **Prüffall-ID** | PF11 |
+| **Testziel** | Erstellen eines eRP (Rezepturverordnung |
+| **Voraussetzung** | ›  › |
+| **Aktion** |  |
+| **Einzureichende** | ›  › |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eRezept |
 
 **Tabelle 11: Prüffalltabelle  Rezepturverordnung für Patientin „Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn**
 
@@ -579,29 +579,29 @@ ERSTELLEN EINES ERP gemäß den Vorgaben in dem Dokument Prüfunterlagen gemäß
 
 ---
 
-| 2.4 |  |
+| **2.4** |  |
 |---|---|
-|  | Prüffall-ID |
-| PF12 | Testziel |
-| Nachweis, dass die Erstellung eines BtM-Rezept als eRP nicht möglich ist | Voraussetzung  › |
+|  | **Prüffall-ID** |
+| PF12 | **Testziel** |
+| Nachweis, dass die Erstellung eines BtM-Rezept als eRP nicht möglich ist | **Voraussetzung ** › |
 | › Patient „Viktor Müller“ ist im System ausgewählt |  |
-|  | Aktion  1.  2.  a)  b)  3.  Einzureichende  ›  Tabelle 12: Prüffalltabelle    b)  3.  Einzureichende  ›  Tabelle 12: Prüffalltabelle    2.5     Prüffall-ID  PF13  Testziel  Bestätigungsschreiben der gematik zum Funktionsumfang E-Rezept  Voraussetzung  Aktion  1.  2.  a)  b)  3.  Einzureichende  ›  Tabelle 12: Prüffalltabelle    2.5     Prüffall-ID  PF13  Testziel  Bestätigungsschreiben der gematik zum Funktionsumfang E-Rezept  Voraussetzung  Bestehen des Bestätigungsverfahren der gematik Einzureichende  › Tabelle 13: Prüffalltabelle    1.  2.  a)  b)  3.  1.  2.  a)  b)  3.  Tabelle 13: Prüffalltabelle |
+|  | **Aktion  1.** **2.**  a)  b) **3.** **Einzureichende ** › **Tabelle 12: Prüffalltabelle **   b) **3.** **Einzureichende ** › **Tabelle 12: Prüffalltabelle **  **2.5**    **Prüffall-ID ** PF13 **Testziel ** Bestätigungsschreiben der gematik zum Funktionsumfang E-Rezept **Voraussetzung  Aktion  1.** **2.**  a)  b) **3.** **Einzureichende ** › **Tabelle 12: Prüffalltabelle **  **2.5**    **Prüffall-ID ** PF13 **Testziel ** Bestätigungsschreiben der gematik zum Funktionsumfang E-Rezept **Voraussetzung ** Bestehen des Bestätigungsverfahren der gematik**Einzureichende ** ›**Tabelle 13: Prüffalltabelle **  **1.** **2.**  a)  b) **3.** **1.** **2.**  a)  b) **3.** **Tabelle 13: Prüffalltabelle ** |
 |  |  |
 
 ERSTELLEN EINES ERP Prüfunterlagen BESTÄTIGUNG DER GEMATIK ZUM FUNKTIONSUMFANG E-REZEPT  Prüfunterlagen  PRÜFFÄLLE FÜR WEITERE VERORDNUNGS Ärztin 1 ist als ausstellende Ärztin im System ausgewählt Bitte starten Sie die Videoaufzeichnung Ihres Bildschirms Der Anwender erstellt eine Verordnung mit den folgenden Daten: PZN = 06973620 (Ritalin® Adult 30 mg 56 Hartkapseln mit veränderter Wirkstofffreisetzung N2)  Kennzeichen Dosierung = false Bitte beenden Sie die Videoaufzeichnung Ihres Bildschirms Videoaufzeichnung des Bildschirms  PZN-Verordnung für Patient „  Bestätigungsschreiben der gematik - Bestätigung der Konformität des Primärsystems zum Funktionsumfang E-Rezept  Einreichung Bestätigungsschreiben der gematik SZENARIEN  [gemLeit_Best_Konf_eRP] |  |  |
 |---|---|
-| Prüffall-ID | PF12 |
-| Testziel | Nachweis, dass die Erstellung eines BtM-Rezept als eRP nicht möglich ist |
-| Voraussetzung | ›  › Patient „Viktor Müller“ ist im System ausgewählt |
-| Aktion |  |
-| Einzureichende | › |
+| **Prüffall-ID** | PF12 |
+| **Testziel** | Nachweis, dass die Erstellung eines BtM-Rezept als eRP nicht möglich ist |
+| **Voraussetzung** | ›  › Patient „Viktor Müller“ ist im System ausgewählt |
+| **Aktion** |  |
+| **Einzureichende** | › |
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF13 |
-| Testziel | Bestätigungsschreiben der gematik zum Funktionsumfang E-Rezept |
-| Voraussetzung | Bestehen des Bestätigungsverfahren der gematik |
-| Einzureichende | › |
+| **Prüffall-ID** | PF13 |
+| **Testziel** | Bestätigungsschreiben der gematik zum Funktionsumfang E-Rezept |
+| **Voraussetzung** | Bestehen des Bestätigungsverfahren der gematik |
+| **Einzureichende** | › |
 
 
 ---
@@ -629,32 +629,32 @@ Bitte beachten Sie die folgende Verzeichnisstruktur des zip-Archivs.
 
 ---
 
-| 3.1 |  |
+| **3.1** |  |
 |---|---|
-|  | Prüffall-ID |
-| TF 01 | Testziel |
-| Erstellen eines eRP (PZN-Verordnung) für den Patiente | Voraussetzung  › |
+|  | **Prüffall-ID** |
+| TF 01 | **Testziel** |
+| Erstellen eines eRP (PZN-Verordnung) für den Patiente | **Voraussetzung ** › |
 | › |  |
-| › | Hinweis  Für die Testdatenvalidierung sind die einzureichenden XML-Dateien auf Basis der  Tabelle 15: Prüffalltabelle    Aktion  1.  a)  b)  c)  2.  Einzureichende  ›  Hinweis  c)  2.  Einzureichende  ›  Hinweis  Für die Testdatenvalidierung sind die einzureichenden XML-Dateien auf Basis der  Tabelle 14: Prüffalltabelle        Prüffall-ID  TF 02  Testziel  Erstellen eines eRP (PZN- Aktion  1.  a)  b)  c)  2.  Einzureichende  ›  Hinweis  Für die Testdatenvalidierung sind die einzureichenden XML-Dateien auf Basis der  Tabelle 14: Prüffalltabelle        Prüffall-ID  TF 02  Testziel  Erstellen eines eRP (PZN- Voraussetzung  ›  › Patientin „Brigitte Althaus“ ist im System ausgewählt Aktion  1.  a)  b)  c)  d)  2.  Einzureichende  ›  Hinweis  1.  a)  b)  c)  2.  1.  a)  b)  c)  2.  1.  a)  b)  c)  d)  2. |
+| › | **Hinweis ** Für die Testdatenvalidierung sind die einzureichenden XML-Dateien auf Basis der **Tabelle 15: Prüffalltabelle **  **Aktion  1.**  a)  b)  c) **2.** **Einzureichende ** › **Hinweis ** c) **2.** **Einzureichende ** › **Hinweis ** Für die Testdatenvalidierung sind die einzureichenden XML-Dateien auf Basis der **Tabelle 14: Prüffalltabelle **      **Prüffall-ID ** TF 02 **Testziel ** Erstellen eines eRP (PZN-**Aktion  1.**  a)  b)  c) **2.** **Einzureichende ** › **Hinweis ** Für die Testdatenvalidierung sind die einzureichenden XML-Dateien auf Basis der **Tabelle 14: Prüffalltabelle **      **Prüffall-ID ** TF 02 **Testziel ** Erstellen eines eRP (PZN-**Voraussetzung ** ›  › Patientin „Brigitte Althaus“ ist im System ausgewählt**Aktion  1.**  a)  b)  c)  d) **2.** **Einzureichende ** › **Hinweis  1.**  a)  b)  c) **2.** **1.**  a)  b)  c) **2.** **1.**  a)  b)  c)  d) **2.** |
 |  |  |
 
 TESTFÄLLE EREZEPT Prüfunterlagen Prüfunterlagen Ernesto Müller Ärztin 1 ist als ausstellende Ärztin im System ausgewählt Patienten Ernesto Müller Der Anwender erstellt eine Verordnung mit den folgenden Daten: PZN = 03428402 (Sortis 80 mg Eurim 100 Filmtabletten N3) Anzahl der verordneten Packungen = 1 Kennzeichen Dosierung = false Der Anwender signiert das eRP. XML-Datei des eRP eRezept-FHIR-Profile in der Version 1.3.2 zu erstellen.   PZN-Verordnung für Patienten Ernesto Müller Verordnung) für die Patientin „Brigitte Althaus“ Ärztin 1 ist als ausstellende Ärztin im System ausgewählt Der Anwender erstellt eine Verordnung mit den folgenden Daten: PZN = 16578267 (Fintepla 2,2 mg/ml Lösung zum Einnehmen 60ml) Verschreiber-ID =  428549185 Anzahl der verordneten Packungen = 1 Kennzeichen Dosierung = false Der Anwender signiert das eRP. XML-Datei des eRP eRezept-FHIR-Profile in der Version 1.3.2 zu erstellen.  für Patientin „|  |  |
 |---|---|
-| Prüffall-ID | TF 01 |
-| Testziel | Erstellen eines eRP (PZN-Verordnung) für den Patiente |
-| Voraussetzung | ›  › |
-| Aktion |  |
-| Einzureichende | › |
-| Hinweis | Für die Testdatenvalidierung sind die einzureichenden XML-Dateien auf Basis der |
+| **Prüffall-ID** | TF 01 |
+| **Testziel** | Erstellen eines eRP (PZN-Verordnung) für den Patiente |
+| **Voraussetzung** | ›  › |
+| **Aktion** |  |
+| **Einzureichende** | › |
+| **Hinweis** | Für die Testdatenvalidierung sind die einzureichenden XML-Dateien auf Basis der |
 
 |  |  |
 |---|---|
-| Prüffall-ID | TF 02 |
-| Testziel | Erstellen eines eRP (PZN- |
-| Voraussetzung | ›  › Patientin „Brigitte Althaus“ ist im System ausgewählt |
-| Aktion |  |
-| Einzureichende | › |
-| Hinweis | Für die Testdatenvalidierung sind die einzureichenden XML-Dateien auf Basis der |
+| **Prüffall-ID** | TF 02 |
+| **Testziel** | Erstellen eines eRP (PZN- |
+| **Voraussetzung** | ›  › Patientin „Brigitte Althaus“ ist im System ausgewählt |
+| **Aktion** |  |
+| **Einzureichende** | › |
+| **Hinweis** | Für die Testdatenvalidierung sind die einzureichenden XML-Dateien auf Basis der |
 
 
 ---
@@ -663,7 +663,7 @@ TESTFÄLLE EREZEPT Prüfunterlagen Prüfunterlagen Ernesto Müller Ärztin 1 ist
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | Dokument |
 | KBV_ITA_RLEX_Zert | Zertifizierungsrichtlinie der KBV https://update.kbv.de/ita- |
 | KBV_ITA_VGEX_Technische_Anlage_eRP | Technische Anlage zum eRP  https://update.kbv.de/ita- |
 | KBV_ITA_VGEX_Technisches_Handbuch_DiMus | Technisches Handbuch Digitale Vordrucke https://update.kbv.de/ita- |

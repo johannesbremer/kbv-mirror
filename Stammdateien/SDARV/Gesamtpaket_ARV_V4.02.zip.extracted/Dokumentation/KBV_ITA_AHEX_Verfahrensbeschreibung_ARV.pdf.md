@@ -1,8 +1,8 @@
-|  | IT in der Arztpraxis |
+|  | ***IT in der Arztpraxis*** |
 |---|---|
-|  | Verfahrensbeschreibung zur |
+|  | *Verfahrensbeschreibung zur* |
 |  | [KBV_ITA_AHEX_Verfahrensbeschreibung_ARV] |
-|  |  |
+|  | ** |
 |  | Dezernat |
 |  |  |
 |  | 10623 Berlin, Herbert |
@@ -18,12 +18,12 @@ Erstellung und Verarbeitung von XML-Stammdateien für die ARV-Schnittstelle  Dig
 
 ### DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 2.02 | 14.08.2019 | KBV | • |  | 6 |
+| 2.02 | 14.08.2019 | KBV | • |  | **6** |
 | 2.01 | 19.10.2018 | KBV | • • • | -  - |  |
-| 2.00 | 28.09.2016 | KBV | Anpassung der Verfahrensweise |  | 5, 6 |
-| 1.08 | 03.08.2013 | KBV | Redaktionelle Korrektur |  | 6 |
+| 2.00 | 28.09.2016 | KBV | Anpassung der Verfahrensweise |  | **5, 6** |
+| 1.08 | 03.08.2013 | KBV | Redaktionelle Korrektur |  | **6** |
 
 -Stammdateien für die ARV
 

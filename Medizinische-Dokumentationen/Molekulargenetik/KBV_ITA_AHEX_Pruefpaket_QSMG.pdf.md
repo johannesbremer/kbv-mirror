@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  27. JANUAR 2022   VERSION: 1.13   DOKUMENTENSTATUS: IN |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  27. JANUAR 2022   VERSION: 1.13   DOKUMENTENSTATUS: IN** |
 |---|---|
 
 # PRUEFPAKET QS-MOLEKULARGENETIK
@@ -91,14 +91,14 @@ Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 23
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.13 | 27.01.2022 | KBV | Redaktionelle | Doppelt vorhandener | 15 |
 | 1.12 | 12.08.2021 | KBV | Überarbeitung des | Überführung ins neue | Alle |
 | 1.11 | 13.03.2018 | KBV | Einreichung des Antrags | Anpassung des | 5ff |
 | 1.10 | 23.05.2017 | KBV | Überarbeitung von    Überarbeitung der | Vereinheitlichung der    Aufgrund der | 5ff      9ff |
 
-Anpassung des Prüffalls Layouts auf Zertifizierung Kapitel 1 Prüffälle Inhalt (Seite 15) gelöscht Corporate Design Zertifizierungsportals Strukturen Aktualisierung der Plausibilität
+Anpassung des Prüffalls Inhalt (Seite 15) Layouts auf Zertifizierung Kapitel 1 Prüffälle gelöscht Corporate Design Zertifizierungsportals Strukturen Aktualisierung der Plausibilität
 
 ---
 
@@ -235,20 +235,20 @@ Prüfstammdateien verwendet 1 Nummer des Prüffalls
 
 Folgende Angaben sind für die Zertifizierung zu verwenden:
 
-| BEZEICHNUNG | INHALT |
+| **BEZEICHNUNG** | **INHALT** |
 |---|---|
-| Betriebsstättennummer (BSNR) | 381234511 |
-| (N)BSNR-Bezeichnung: | Gemeinschaftspraxis Dr. med. Topp- |
-| Lebenslange Arztnummer (LANR) | 555333922 |
-| Arztname | Dr. med. Hans Topp-Glücklich, Laborarzt |
-| Lebenslange Arztnummer (LANR): | 112354648 |
-| Arztname: | Dr. med. Otto Müller, Laborarzt |
-| Straße | Musterstr. |
-| Hausnummer | 1 |
-| PLZ/Ort | 64283 Darmstadt |
-| Telefon | 06151 / 1111111 |
-| Dokumentationsdatum (Kopfdatum): | 31.03.2018 |
-| Zu verwendende Prüfnummer: | Y/55/1301/36/000 |
+| **Betriebsstättennummer (BSNR)** | 381234511 |
+| **(N)BSNR-Bezeichnung:** | Gemeinschaftspraxis Dr. med. Topp- |
+| **Lebenslange Arztnummer (LANR)** | 555333922 |
+| **Arztname** | Dr. med. Hans Topp-Glücklich, Laborarzt |
+| **Lebenslange Arztnummer (LANR):** | 112354648 |
+| **Arztname:** | Dr. med. Otto Müller, Laborarzt |
+| **Straße** | Musterstr. |
+| **Hausnummer** | 1 |
+| **PLZ/Ort** | 64283 Darmstadt |
+| **Telefon** | 06151 / 1111111 |
+| **Dokumentationsdatum (Kopfdatum):** | 31.03.2018 |
+| **Zu verwendende Prüfnummer:** | Y/55/1301/36/000 |
 
 **Hinweis:** Zu den einzelnen Prüffällen ist ein Dokumentationsdatum angegeben. Bitte verstehen Sie dieses
 
@@ -264,28 +264,28 @@ Glücklich/Müller
 
 |  |  |
 |---|---|
-| Prüffall-ID | 1 |
-| Testziel | › |
-| Voraussetzung | Das Dokumentationsdatum ist der 31.03.2018 |
-| Prüfunterlagen | › › |
-| Hinweis | Es werden |
+| **Prüffall-ID** | 1 |
+| **Testziel** | › |
+| **Voraussetzung** | Das Dokumentationsdatum ist der 31.03.2018 |
+| **Prüfunterlagen** | › › |
+| **Hinweis** | Es werden |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
 - 1. **Anmelden als 1. Arzt mit BSNR 381234511 und LANR 555333922**
 
-| BEHANDLUNGSFALL 1 | | | |
+| **BEHANDLUNGSFALL 1** | | | |
 |---|---|---|---|
-| Art der Fragestellung | diagnostische Fragestellung | | |
-| Leistungen (GOPs) |  | | |
-| Leistung (GOP) | 11355 | Art des Befundes | nicht beurteilbar |
-| Leistung (GOP) | 11444 | Art des Befundes | pathologisch |
-| Leistung (GOP) | 11449 | Art des Befundes | pathologisch |
-| Endbefund | pathologischer Befund | | |
-| BSNR des Einsenders | 839123343 | | |
-| LANR des Einsenders | 838382004 | | |
-| Unterauftrag | Nein | | |
-| Dokumentationsdatum | 01.04.2017 | | |
+| **Art der Fragestellung** | diagnostische Fragestellung | | |
+| **Leistungen (GOPs)** |  | | |
+| **Leistung (GOP)** | 11355 | **Art des Befundes** | nicht beurteilbar |
+| **Leistung (GOP)** | 11444 | **Art des Befundes** | pathologisch |
+| **Leistung (GOP)** | 11449 | **Art des Befundes** | pathologisch |
+| **Endbefund** | pathologischer Befund | | |
+| **BSNR des Einsenders** | 839123343 | | |
+| **LANR des Einsenders** | 838382004 | | |
+| **Unterauftrag** | Nein | | |
+| **Dokumentationsdatum** | 01.04.2017 | | |
 
 -
 
@@ -293,63 +293,63 @@ Abrechnungsfalls (Satzart 0102 mit Scheinuntergruppe 27 oder 21) erfasst Überpr
 
 ---
 
-| BEHANDLUNGSFALL 2 | | | |
+| **BEHANDLUNGSFALL 2** | | | |
 |---|---|---|---|
-| Art der Fragestellung | prädiktive Fragestellung | | |
-| Leistungen (GOPs) |  | | |
-| Leistung (GOP) | 11351 | Art des Befundes | pathologisch |
-| Leistung (GOP) | 11380 | Art des Befundes | unauffällig |
-| Leistung (GOP) | 11446 | Art des Befundes | unauffällig |
-| Endbefund | unauffälliger Befund | | |
-| BSNR des Einsenders | 839123343 | | |
-| LANR des Einsenders | 838382022 | | |
-| Unterauftrag | Nein | | |
-| Dokumentationsdatum | 30.06.2017 | | |
+| **Art der Fragestellung** | prädiktive Fragestellung | | |
+| **Leistungen (GOPs)** |  | | |
+| **Leistung (GOP)** | 11351 | **Art des Befundes** | pathologisch |
+| **Leistung (GOP)** | 11380 | **Art des Befundes** | unauffällig |
+| **Leistung (GOP)** | 11446 | **Art des Befundes** | unauffällig |
+| **Endbefund** | unauffälliger Befund | | |
+| **BSNR des Einsenders** | 839123343 | | |
+| **LANR des Einsenders** | 838382022 | | |
+| **Unterauftrag** | Nein | | |
+| **Dokumentationsdatum** | 30.06.2017 | | |
 
-| BEHANDLUNGSFALL 3 | | | |
+| **BEHANDLUNGSFALL 3** | | | |
 |---|---|---|---|
-| Art der Fragestellung | vorgeburtliche Fragestellung | | |
-| Leistungen (GOPs) |  | | |
-| Leistung (GOP) | 11371 | Art des Befundes | nicht beurteilbar |
-| Leistung (GOP) | 11411 | Art des Befundes | unauffällig |
-| Endbefund | nicht beurteilbarer Befund | | |
-| BSNR des Einsenders | 839123314 | | |
-| LANR des Einsenders | 838382022 | | |
-| Unterauftrag | Ja | | |
-| Dokumentationsdatum | 30.06.2017 | | |
+| **Art der Fragestellung** | vorgeburtliche Fragestellung | | |
+| **Leistungen (GOPs)** |  | | |
+| **Leistung (GOP)** | 11371 | **Art des Befundes** | nicht beurteilbar |
+| **Leistung (GOP)** | 11411 | **Art des Befundes** | unauffällig |
+| **Endbefund** | nicht beurteilbarer Befund | | |
+| **BSNR des Einsenders** | 839123314 | | |
+| **LANR des Einsenders** | 838382022 | | |
+| **Unterauftrag** | Ja | | |
+| **Dokumentationsdatum** | 30.06.2017 | | |
 
 -Molekulargenetik /
 
 
 ---
 
-| BEHANDLUNGSFALL 4 | | | |
+| **BEHANDLUNGSFALL 4** | | | |
 |---|---|---|---|
-| Art der Fragestellung | diagnostische Fragestellung | | |
-| Leistungen (GOPs) |  | | |
-| Leistung (GOP) | 11352 | Art des Befundes | pathologisch |
-| Leistung (GOP) | 11371 | Art des Befundes | pathologisch |
-| Leistung (GOP) | 11400 | Art des Befundes | pathologisch |
-| Leistung (GOP) | 11411 | Art des Befundes | nicht beurteilbar |
-| Endbefund | pathologischer Befund | | |
-| BSNR des Einsenders | 839123343 | | |
-| LANR des Einsenders | 838382704 | | |
-| Unterauftrag | Ja | | |
-| Dokumentationsdatum | 30.06.2017 | | |
+| **Art der Fragestellung** | diagnostische Fragestellung | | |
+| **Leistungen (GOPs)** |  | | |
+| **Leistung (GOP)** | 11352 | **Art des Befundes** | pathologisch |
+| **Leistung (GOP)** | 11371 | **Art des Befundes** | pathologisch |
+| **Leistung (GOP)** | 11400 | **Art des Befundes** | pathologisch |
+| **Leistung (GOP)** | 11411 | **Art des Befundes** | nicht beurteilbar |
+| **Endbefund** | pathologischer Befund | | |
+| **BSNR des Einsenders** | 839123343 | | |
+| **LANR des Einsenders** | 838382704 | | |
+| **Unterauftrag** | Ja | | |
+| **Dokumentationsdatum** | 30.06.2017 | | |
 
-| BEHANDLUNGSFALL 5 | | | |
+| **BEHANDLUNGSFALL 5** | | | |
 |---|---|---|---|
-| Art der Fragestellung | diagnostische Fragestellung | | |
-| Leistungen (GOPs) |  | | |
-| Leistung (GOP) | 11351 | Art des Befundes | nicht beurteilbar |
-| Leistung (GOP) | 11352 | Art des Befundes | pathologisch |
-| Leistung (GOP) | 11355 | Art des Befundes | unauffällig |
-| Leistung (GOP) | 11390 | Art des Befundes | unauffällig |
-| Endbefund | unauffälliger Befund | | |
-| BSNR des Einsenders | 839123377 | | |
-| LANR des Einsenders | 838382362 | | |
-| Unterauftrag | Ja | | |
-| Dokumentationsdatum | 30.09.2017 | | |
+| **Art der Fragestellung** | diagnostische Fragestellung | | |
+| **Leistungen (GOPs)** |  | | |
+| **Leistung (GOP)** | 11351 | **Art des Befundes** | nicht beurteilbar |
+| **Leistung (GOP)** | 11352 | **Art des Befundes** | pathologisch |
+| **Leistung (GOP)** | 11355 | **Art des Befundes** | unauffällig |
+| **Leistung (GOP)** | 11390 | **Art des Befundes** | unauffällig |
+| **Endbefund** | unauffälliger Befund | | |
+| **BSNR des Einsenders** | 839123377 | | |
+| **LANR des Einsenders** | 838382362 | | |
+| **Unterauftrag** | Ja | | |
+| **Dokumentationsdatum** | 30.09.2017 | | |
 
 -Molekulargenet
 
@@ -358,31 +358,31 @@ Abrechnungsfalls (Satzart 0102 mit Scheinuntergruppe 27 oder 21) erfasst Überpr
 
 - 2. **Anmelden als 2. Arzt mit BSNR 381234511 und LANR 112354648**
 
-| BEHANDLUNGSFALL 6 | | | |
+| **BEHANDLUNGSFALL 6** | | | |
 |---|---|---|---|
-| Art der Fragestellung | vorgeburtliche Fragestellung | | |
-| Leistungen (GOPs) |  | | |
-| Leistung (GOP) | 11371 | Art des Befundes | pathologisch |
-| Leistung (GOP) | 11400 | Art des Befundes | unauffällig |
-| Leistung (GOP) | 11411 | Art des Befundes | unauffällig |
-| Endbefund | unauffälliger Befund | | |
-| BSNR des Einsenders | 839123377 | | |
-| LANR des Einsenders | 838382562 | | |
-| Unterauftrag | Ja | | |
-| Dokumentationsdatum | 30.09.2017 | | |
+| **Art der Fragestellung** | vorgeburtliche Fragestellung | | |
+| **Leistungen (GOPs)** |  | | |
+| **Leistung (GOP)** | 11371 | **Art des Befundes** | pathologisch |
+| **Leistung (GOP)** | 11400 | **Art des Befundes** | unauffällig |
+| **Leistung (GOP)** | 11411 | **Art des Befundes** | unauffällig |
+| **Endbefund** | unauffälliger Befund | | |
+| **BSNR des Einsenders** | 839123377 | | |
+| **LANR des Einsenders** | 838382562 | | |
+| **Unterauftrag** | Ja | | |
+| **Dokumentationsdatum** | 30.09.2017 | | |
 
-| BEHANDLUNGSFALL 7 | | | |
+| **BEHANDLUNGSFALL 7** | | | |
 |---|---|---|---|
-| Art der Fragestellung | prädiktive Fragestellung | | |
-| Leistungen (GOPs) |  | | |
-| Leistung (GOP) | 11380 | Art des Befundes | nicht beurteilbar |
-| Leistung (GOP) | 11395 | Art des Befundes | nicht beurteilbar |
-| Leistung (GOP) | 11400 | Art des Befundes | pathologisch |
-| Endbefund | nicht beurteilbarer Befund | | |
-| BSNR des Einsenders | 839123387 | | |
-| LANR des Einsenders | 838382922 | | |
-| Unterauftrag | Ja | | |
-| Dokumentationsdatum | 30.06.2017 | | |
+| **Art der Fragestellung** | prädiktive Fragestellung | | |
+| **Leistungen (GOPs)** |  | | |
+| **Leistung (GOP)** | 11380 | **Art des Befundes** | nicht beurteilbar |
+| **Leistung (GOP)** | 11395 | **Art des Befundes** | nicht beurteilbar |
+| **Leistung (GOP)** | 11400 | **Art des Befundes** | pathologisch |
+| **Endbefund** | nicht beurteilbarer Befund | | |
+| **BSNR des Einsenders** | 839123387 | | |
+| **LANR des Einsenders** | 838382922 | | |
+| **Unterauftrag** | Ja | | |
+| **Dokumentationsdatum** | 30.06.2017 | | |
 
 -Molekulargenetik /
 
@@ -391,74 +391,74 @@ Abrechnungsfalls (Satzart 0102 mit Scheinuntergruppe 27 oder 21) erfasst Überpr
 
 ---
 
-| BEHANDLUNGSFALL 8 | | | |
+| **BEHANDLUNGSFALL 8** | | | |
 |---|---|---|---|
-| Art der Fragestellung | prädiktive Fragestellung | | |
-| Leistungen (GOPs) |  | | |
-| Leistung (GOP) | 11380 | Art des Befundes | pathologisch |
-| Leistung (GOP) | 11390 | Art des Befundes | nicht beurteilbar |
-| Leistung (GOP) | 11400 | Art des Befundes | nicht beurteilbar |
-| Leistung (GOP) | 11411 | Art des Befundes | pathologisch |
-| Leistung (GOP) | 11446 | Art des Befundes | pathologisch |
-| Endbefund | pathologischer Befund | | |
-| BSNR des Einsenders | 839123336 | | |
-| LANR des Einsenders | 838382922 | | |
-| Unterauftrag | Ja | | |
-| Dokumentationsdatum | 31.12.2017 | | |
+| **Art der Fragestellung** | prädiktive Fragestellung | | |
+| **Leistungen (GOPs)** |  | | |
+| **Leistung (GOP)** | 11380 | **Art des Befundes** | pathologisch |
+| **Leistung (GOP)** | 11390 | **Art des Befundes** | nicht beurteilbar |
+| **Leistung (GOP)** | 11400 | **Art des Befundes** | nicht beurteilbar |
+| **Leistung (GOP)** | 11411 | **Art des Befundes** | pathologisch |
+| **Leistung (GOP)** | 11446 | **Art des Befundes** | pathologisch |
+| **Endbefund** | pathologischer Befund | | |
+| **BSNR des Einsenders** | 839123336 | | |
+| **LANR des Einsenders** | 838382922 | | |
+| **Unterauftrag** | Ja | | |
+| **Dokumentationsdatum** | 31.12.2017 | | |
 
-| BEHANDLUNGSFALL 9 | | | |
+| **BEHANDLUNGSFALL 9** | | | |
 |---|---|---|---|
-| Art der Fragestellung | diagnostische Fragestellung | | |
-| Leistungen (GOPs) |  | | |
-| Leistung (GOP) | 11352 | Art des Befundes | unauffällig |
-| Leistung (GOP) | 11356 | Art des Befundes | pathologisch |
-| Leistung (GOP) | 11390 | Art des Befundes | nicht beurteilbar |
-| Endbefund | unauffälliger Befund | | |
-| BSNR des Einsenders | 839123344 | | |
-| LANR des Einsenders | 838382104 | | |
-| Unterauftrag | Nein | | |
-| Dokumentationsdatum | 31.12.2017 | | |
+| **Art der Fragestellung** | diagnostische Fragestellung | | |
+| **Leistungen (GOPs)** |  | | |
+| **Leistung (GOP)** | 11352 | **Art des Befundes** | unauffällig |
+| **Leistung (GOP)** | 11356 | **Art des Befundes** | pathologisch |
+| **Leistung (GOP)** | 11390 | **Art des Befundes** | nicht beurteilbar |
+| **Endbefund** | unauffälliger Befund | | |
+| **BSNR des Einsenders** | 839123344 | | |
+| **LANR des Einsenders** | 838382104 | | |
+| **Unterauftrag** | Nein | | |
+| **Dokumentationsdatum** | 31.12.2017 | | |
 
 -Molekulargenet
 
 
 ---
 
-| BEHANDLUNGSFALL 10 | | | |
+| **BEHANDLUNGSFALL 10** | | | |
 |---|---|---|---|
-| Art der Fragestellung | vorgeburtliche Fragestellung | | |
-| Leistungen (GOPs) |  | | |
-| Leistung (GOP) | 11449 | Art des Befundes | unauffällig |
-| Endbefund | unauffälliger Befund | | |
-| BSNR des Einsenders | 839123344 | | |
-| LANR des Einsenders | 838382662 | | |
-| Unterauftrag | Nein | | |
-| Dokumentationsdatum | 31.12.2016 | | |
+| **Art der Fragestellung** | vorgeburtliche Fragestellung | | |
+| **Leistungen (GOPs)** |  | | |
+| **Leistung (GOP)** | 11449 | **Art des Befundes** | unauffällig |
+| **Endbefund** | unauffälliger Befund | | |
+| **BSNR des Einsenders** | 839123344 | | |
+| **LANR des Einsenders** | 838382662 | | |
+| **Unterauftrag** | Nein | | |
+| **Dokumentationsdatum** | 31.12.2016 | | |
 
 - 3. **Anmelden als 2. Arzt mit NBSNR 987654321 und LANR 112354648**
 
-| BEHANDLUNGSFALL 11 | | | |
+| **BEHANDLUNGSFALL 11** | | | |
 |---|---|---|---|
-| Art der Fragestellung | diagnostische Fragestellung | | |
-| Leistungen (GOPs) |  | | |
-| Leistung (GOP) | 11356 | Art des Befundes | unauffällig |
-| Leistung (GOP) | 11371 | Art des Befundes | pathologisch |
-| Leistung (GOP) | 11390 | Art des Befundes | pathologisch |
-| Endbefund | pathologischer Befund | | |
-| BSNR des Einsenders | 989123388 | | |
-| LANR des Einsenders | 838382162 | | |
-| Unterauftrag | Nein | | |
-| Dokumentationsdatum | 31.12.2017 | | |
+| **Art der Fragestellung** | diagnostische Fragestellung | | |
+| **Leistungen (GOPs)** |  | | |
+| **Leistung (GOP)** | 11356 | **Art des Befundes** | unauffällig |
+| **Leistung (GOP)** | 11371 | **Art des Befundes** | pathologisch |
+| **Leistung (GOP)** | 11390 | **Art des Befundes** | pathologisch |
+| **Endbefund** | pathologischer Befund | | |
+| **BSNR des Einsenders** | 989123388 | | |
+| **LANR des Einsenders** | 838382162 | | |
+| **Unterauftrag** | Nein | | |
+| **Dokumentationsdatum** | 31.12.2017 | | |
 
 Anzahl der erteilten Ringversuchs-Zertifikate im ganzen Jahr, unterschieden nach der Art der  ringversuchspflichtigen Untersuchung sowie Anzahl der jeweiligen Untersuchungen
 
-| ERGEBNISSE DER EXTERNEN QUALITÄTSSICHERU | | |
+| **ERGEBNISSE DER EXTERNEN QUALITÄTSSICHERU** | | |
 |---|---|---|
-| Ringversuchspflichtige Untersuchung | Teilnahmehäufigkeit | Anzahl Zertifikate |
-| CFTR | 1 | 1 |
-| Huntingtin | 1 | 1 |
-| Dystrophin | 2 | 1 |
-| SMA | 0 | 0 |
+| **Ringversuchspflichtige Untersuchung** | **Teilnahmehäufigkeit** | **Anzahl Zertifikate** |
+| **CFTR** | 1 | 1 |
+| **Huntingtin** | 1 | 1 |
+| **Dystrophin** | 2 | 1 |
+| **SMA** | 0 | 0 |
 
 - 4. **Erstellung der Jahresstatistik 2017 für die BSNR 381234511**
 
@@ -474,11 +474,11 @@ NG GEMÄß § 5 NR. 2
 
 |  |  |
 |---|---|
-| Prüffall-ID | 2 |
-| Testziel | › |
-| Voraussetzung | Das Dokumentationsdatum ist der 3 |
-| Prüfunterlagen | › › |
-| Hinweis | Der Prüffall ist in 8 Fehlerkonstellationen aufgeteilt    Alle nicht vorgegebenen Angaben jeder einzelnen Konstellation sind immer aus der   Anhang 4.1 zu entnehmen |
+| **Prüffall-ID** | 2 |
+| **Testziel** | › |
+| **Voraussetzung** | Das Dokumentationsdatum ist der 3 |
+| **Prüfunterlagen** | › › |
+| **Hinweis** | Der Prüffall ist in 8 Fehlerkonstellationen aufgeteilt    Alle nicht vorgegebenen Angaben jeder einzelnen Konstellation sind immer aus der   Anhang 4.1 zu entnehmen |
 
 Aktionen, die durch den Antragsteller durchgeführt werden:
 
@@ -486,17 +486,17 @@ Aktionen, die durch den Antragsteller durchgeführt werden:
 
 - 2. Bearbeitung der Fehlerkonstellationen, bei denen die feh speichern sein müssen.
 
-| 8 FEHLERKONSTELLATIO | | | |
+| **8 FEHLERKONSTELLATIO** | | | |
 |---|---|---|---|
-| Konstellation 1 | | | |
-| 1 | | | |
-| Gesamtzahl der Behandlungsfälle nach | 1501 |  | |
+| **Konstellation 1** | | | |
+| **1** | | | |
+| **Gesamtzahl der Behandlungsfälle nach** | 1501 |  | |
 |  | | | |
-| Konstellation 2 | | | |
-| 2 | | | |
-| dabei Behandlungsfälle mit | keine Angabe | davon pathologische | keine Angabe |
-|  |  | davon unauffällige | keine Angabe |
-|  |  | davon nicht beurteilbare | keine Angabe |
+| **Konstellation 2** | | | |
+| **2** | | | |
+| **dabei Behandlungsfälle mit** | keine Angabe | **davon pathologische** | keine Angabe |
+|  |  | **davon unauffällige** | keine Angabe |
+|  |  | **davon nicht beurteilbare** | keine Angabe |
 
 - lerhaften / unvollständigen Daten trotzdem zu
 
@@ -506,26 +506,26 @@ Aktionen, die durch den Antragsteller durchgeführt werden:
 
 |  |  |  |  |
 |---|---|---|---|
-| 3 | | | |
-| dabei Behandlungsfälle mit prädiktiver | keine Angabe | davon pathologische | keine Angabe |
-|  |  | davon unauffällige | keine Angabe |
-|  |  | davon nicht beurteilbare | keine Angabe |
-| 4 | | | |
-| dabei Behandlungsfälle mit | keine Angabe | davon pathologische | keine Angabe |
-|  |  | davon unauffällige | keine Angabe |
-|  |  | davon nicht beurteilbare | keine Angabe |
+| **3** | | | |
+| **dabei Behandlungsfälle mit prädiktiver** | keine Angabe | **davon pathologische** | keine Angabe |
+|  |  | **davon unauffällige** | keine Angabe |
+|  |  | **davon nicht beurteilbare** | keine Angabe |
+| **4** | | | |
+| **dabei Behandlungsfälle mit** | keine Angabe | **davon pathologische** | keine Angabe |
+|  |  | **davon unauffällige** | keine Angabe |
+|  |  | **davon nicht beurteilbare** | keine Angabe |
 |  | | | |
-| Konstellation 3 | | | |
-| 2 | | | |
-| dabei Behandlungsfälle mit | 700 | davon pathologische | 700 |
-|  |  | davon unauffällige | 0 |
-|  |  | davon nicht beurteilbare | 0 |
+| **Konstellation 3** | | | |
+| **2** | | | |
+| **dabei Behandlungsfälle mit** | 700 | **davon pathologische** | 700 |
+|  |  | **davon unauffällige** | 0 |
+|  |  | **davon nicht beurteilbare** | 0 |
 |  | | | |
-| Konstellation 4 | | | |
-| 5 Anzahl der Untersuchungen je GOP | | | |
-| 11432 | 500 | davon pathologische | 0 |
-|  |  | davon unauffällige | 500 |
-|  |  | davon nicht beurteilbare | 0 |
+| **Konstellation 4** | | | |
+| **5 Anzahl der Untersuchungen je GOP** | | | |
+| **11432** | 500 | **davon pathologische** | 0 |
+|  |  | **davon unauffällige** | 500 |
+|  |  | **davon nicht beurteilbare** | 0 |
 
 Fragestellung vorgeburtlicher Fragestellung diagnostischer Fragestellung Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde
 
@@ -533,24 +533,24 @@ Fragestellung vorgeburtlicher Fragestellung diagnostischer Fragestellung Endbefu
 
 |  |  |  |  |
 |---|---|---|---|
-| Konstellation 5 | | | |
-| 5 Anzahl der Untersuchungen je GOP | | | |
-| 11395 | 1200 | davon pathologische | 0 |
-|  |  | davon unauffällige | 800 |
-|  |  | davon nicht beurteilbare | 400 |
-| 11432 | 500 | davon pathologische | 0 |
-|  |  | davon unauffällige | 200 |
-|  |  | davon nicht beurteilbare | 300 |
+| **Konstellation 5** | | | |
+| **5 Anzahl der Untersuchungen je GOP** | | | |
+| **11395** | 1200 | **davon pathologische** | 0 |
+|  |  | **davon unauffällige** | 800 |
+|  |  | **davon nicht beurteilbare** | 400 |
+| **11432** | 500 | **davon pathologische** | 0 |
+|  |  | **davon unauffällige** | 200 |
+|  |  | **davon nicht beurteilbare** | 300 |
 |  | | | |
-| Konstellation 6 | | | |
-| 5 Anzahl der Untersuchungen je GOP | | | |
-| 11432 | 150 | davon pathologische | 50 |
-|  |  | davon unauffällige | 50 |
-|  |  | davon nicht beurteilbare | 50 |
+| **Konstellation 6** | | | |
+| **5 Anzahl der Untersuchungen je GOP** | | | |
+| **11432** | 150 | **davon pathologische** | 50 |
+|  |  | **davon unauffällige** | 50 |
+|  |  | **davon nicht beurteilbare** | 50 |
 |  | | | |
-| Konstellation 7 | | | |
-| 10 Ergebnisse der externen Qualitätssicherung gemäß § 5 Nr. 2 | | | |
-| Gesamtanzahl der Zertifikate | 4 |  | |
+| **Konstellation 7** | | | |
+| **10 Ergebnisse der externen Qualitätssicherung gemäß § 5 Nr. 2** | | | |
+| **Gesamtanzahl der Zertifikate** | 4 |  | |
 
 Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde
 
@@ -558,49 +558,49 @@ Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde End
 
 |  |  |  | |
 |---|---|---|---|
-| Konstellation 8 | | | |
-| Sofern mehr als 150 Untersuchungen für eine GOP durchgeführt wurden  11 Anzahl der Einsendungen je Facharztgruppe für diese GOP | | | |
-| 11395 |  |  | |
-|  | 04 (Anästhesiologie) | 299 |  |
-|  | 22 (Humangenetik) | 300 |  |
-| 11432 |  |  | |
-|  | 04 (Anästhesiologie) | 201 |  |
-|  | 22 (Humangenetik) | 300 |  |
+| **Konstellation 8** | | | |
+| Sofern mehr als 150 Untersuchungen für eine GOP durchgeführt wurden **11 Anzahl der Einsendungen je Facharztgruppe für diese GOP** | | | |
+| **11395** |  |  | |
+|  | **04 (Anästhesiologie)** | 299 |  |
+|  | **22 (Humangenetik)** | 300 |  |
+| **11432** |  |  | |
+|  | **04 (Anästhesiologie)** | 201 |  |
+|  | **22 (Humangenetik)** | 300 |  |
 
 - 3. **Erstellung der Korrekturlieferung der Jahresstatistik 2017 QS Molekulargenetik mit den Angaben der**  **Tabelle 1 und Änderungen entsprechend Konstellation 8**
 
 
 ---
 
-| JAHRESSTATISTIK | | | |
+| **JAHRESSTATISTIK** | | | |
 |---|---|---|---|
-| 1 | | | |
-| Gesamtzahl der Behandlungsfälle | keine Angabe |  | |
+| **1** | | | |
+| **Gesamtzahl der Behandlungsfälle** | keine Angabe |  | |
 |  | | | |
-| 2 | | | |
-| dabei Behandlungsfälle mit | 2 | davon pathologische | 1 |
-|  |  | davon unauffällige | 1 |
-|  |  | davon nicht beurteilbare | keine Angabe |
+| **2** | | | |
+| **dabei Behandlungsfälle mit** | 2 | **davon pathologische** | 1 |
+|  |  | **davon unauffällige** | 1 |
+|  |  | **davon nicht beurteilbare** | keine Angabe |
 |  | | | |
-| 5 Anzahl der Untersuchungen je GOP | | | |
-| 11380 | 2 | davon pathologische | 1 |
-|  |  | davon unauffällige | 1 |
-|  |  | davon nicht beurteilbare | keine Angabe |
+| **5 Anzahl der Untersuchungen je GOP** | | | |
+| **11380** | 2 | **davon pathologische** | 1 |
+|  |  | **davon unauffällige** | 1 |
+|  |  | **davon nicht beurteilbare** | keine Angabe |
 |  | | | |
-| 6 Mittlere Anzahl der GOPs je Behandlungsfall (Quotient je Befund) | | | |
-| Quotient | Anzahl GOPs bei | Anzahl Behandlungsfälle | Quotient |
-| 2.3 | | | |
-|  |  |  | Prüffall-ID |
-| 3 | Testziel | Prüfung, dass diese fehlerhafte Jahresstatistik nicht erfasst werden kann | Voraussetzung |
-| Das Dokumentationsdatum ist der 31.03.2018 | Prüfunterlagen |  |  |
+| **6 Mittlere Anzahl der GOPs je Behandlungsfall (Quotient je Befund)** | | | |
+| **Quotient** | **Anzahl GOPs bei** | **Anzahl Behandlungsfälle** | **Quotient** |
+| **2.3** | | | |
+|  |  |  | **Prüffall-ID** |
+| 3 | **Testziel** | Prüfung, dass diese fehlerhafte Jahresstatistik nicht erfasst werden kann | **Voraussetzung** |
+| Das Dokumentationsdatum ist der 31.03.2018 | **Prüfunterlagen** |  |  |
 
 |  |  |
 |---|---|
-| Prüffall-ID | 3 |
-| Testziel | Prüfung, dass diese fehlerhafte Jahresstatistik nicht erfasst werden kann |
-| Voraussetzung | Das Dokumentationsdatum ist der 31.03.2018 |
-| Prüfunterlagen | › › |
-| Hinweis |  |
+| **Prüffall-ID** | 3 |
+| **Testziel** | Prüfung, dass diese fehlerhafte Jahresstatistik nicht erfasst werden kann |
+| **Voraussetzung** | Das Dokumentationsdatum ist der 31.03.2018 |
+| **Prüfunterlagen** | › › |
+| **Hinweis** |  |
 
 1. Screenshot, dass die Erfassung der geforderten Jahresstatistik nicht möglich ist 2. Bitte übermitteln Sie alle durch diese Jahresstatistik erzeugten Warnungen (oder Fehler) PRÜFFALL 3 Aktionen, die durch den Antragsteller durchgeführt werden: Erfassung der Jahresstatistik nach EBM-Unterabschnitt 11.4.2 diagnostischer Fragestellung (pathologisch) Behandlungsfällen pathologischem Endbefund Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde mit pathologischem Endbefund
 
@@ -623,50 +623,50 @@ Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde End
 |  | | | |
 |  | | | |
 |  |  |  |  |
-| JAHRESSTATISTIK | | | |
+| **JAHRESSTATISTIK** | | | |
 |  | 1 | 1 | 1,00 |
-| Quotient | Anzahl GOPs bei | Anzahl Behandlungsfälle | Quotient |
+| **Quotient** | **Anzahl GOPs bei** | **Anzahl Behandlungsfälle** | **Quotient** |
 |  | 1 | 1 | 1,00 |
 
 (unauffällig) Behandlungsfällen mit unauffälligem mit unauffälligem Endbefund Endbefund
 
 ---
 
-| SZENARIEN |
-|---|
-| Szenario 1 |
-| Zeigen Sie mittels eines Screenshots, dass eine Korrektur/Änderung der in den Prüffällen 1 und 2 erstellten  Weisen Sie auch per Screenshot oder als PDF-Dokument nach, dass die Jahresstatistik ausgedruckt werden |
-| Szenario 2 |
-| 1.   2.   3. |
-| Szenario 3 |
-| Weisen Sie per Screenshots nach, dass bei der Erstellung eines Behandlungsfalls die Angaben zu:   • • |
-| 2.4 |
-|  |
-|  |
+\| **SZENARIEN** |
+\|---|
+\| **Szenario 1** |
+\| Zeigen Sie mittels eines Screenshots, dass eine Korrektur/Änderung der in den Prüffällen 1 und 2 erstellten  Weisen Sie auch per Screenshot oder als PDF-Dokument nach, dass die Jahresstatistik ausgedruckt werden |
+\| **Szenario 2** |
+\| 1.   2.  **3.** |
+\| **Szenario 3** |
+\| Weisen Sie per Screenshots nach, dass bei der Erstellung eines Behandlungsfalls die Angaben zu:   • • |
+\| **2.4** |
+\|  |
+\|  |
 
 |  |  |
 |---|---|
-| Prüffall-ID | 4 |
-| Testziel | › › › |
-| Voraussetzung |  |
-| Prüfunterlagen | › |
-| Hinweis | Dieser Testfall ist unterteilt in vier Szenarien |
+| **Prüffall-ID** | 4 |
+| **Testziel** | › › › |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | › |
+| **Hinweis** | Dieser Testfall ist unterteilt in vier Szenarien |
 
 1. Überprüfung von Funktionen P1-310, P1-60, P1-70, P1-90 und P1-220 2. Überprüfung, dass Änderungen nach Ende des Prüfquartals nicht mehr möglich sind 3. Überprüfung, dass Art der Fragestellung und Art des Befundes zu einem GOP nach EBM-Unterabschnitt 11.4.2 Pflichtangaben bei der Erstellung eines Behandlungsfalls sind Entsprechende Screenshots  PRÜFFALL 4 Aktionen, die durch den Antragsteller durchgeführt werden: Jahresstatistik am 01.07.2018 (nach Ende des Prüfquartals) nicht mehr möglich ist.  kann (P1-310). Die Art der Fragestellung zum Behandlungsfall ist durch den Anwender zu wählen. Zeigen Sie mittels Screenshots auf, dass eine gleichzeitige Auswahl mehrerer Arten von Fragestellungen für d Behandlungsfall nicht möglich ist, auch wenn mehrere Behandlungen (Überweisungen) für den Behandlungsfall vorliegen (P1-60).  Die Art des Endbefundes zum Behandlungsfall ist durch den Anwender zu wählen. Zeigen Sie mittels Screenshots auf, dass eine gleichzeitige Auswahl mehrerer Arten für den Befund im Sinne der Fragestellung des Behandlungsfalls nicht möglich ist. Für den Behandlungsfall müssen mehrere verschiedene Befunde existieren (P1 Die Art des Befundes zu einer Leistung (GOP) nach EBM-Unterabschnitt 11.4.2 ist durch den Anwender zu wählen. Zeigen Sie mittels Screenshots auf, dass eine gleichzeitige Auswahl mehrerer Befunden für die Leistung nicht möglich ist (P1-90). Art der Fragestellung des Behandlungsfalls  Art des Befundes zu einer Leistung (GOP) nach EBM-Unterabschnitt 11.4.2 verpflichtend sind, der Endbefund zum Behandlungsfall aber nicht angegeben werden muss. -70).  Arten von
 
 ---
 
-|  |
-|---|
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| SZENARIEN |
-| Szenario 4 |
-| Erstellen Sie einen Behandlungsfall, bei dem kein Endbefund dokumentiert wurde. Weisen Sie per |
+\|  |
+\|---|
+\|  |
+\|  |
+\|  |
+\|  |
+\|  |
+\|  |
+\| **SZENARIEN** |
+\| **Szenario 4** |
+\| Erstellen Sie einen Behandlungsfall, bei dem kein Endbefund dokumentiert wurde. Weisen Sie per |
 
 Screenshot nach, dass bei der Erstellung der Jahresstatistik der Benutzer darauf hingewiesen wird, dass noch ein Behandlungsfall ohne Endbefund vorliegt (P1-220).
 
@@ -691,56 +691,56 @@ Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 ---
 
-| ANGABEN FÜR DIE JAHR ESSTATISTIK FÜR PRÜF | | | |
+| **ANGABEN FÜR DIE JAHR ESSTATISTIK FÜR PRÜF** | | | |
 |---|---|---|---|
-| 1 | | | |
+| **1** | | | |
 | Gesamtzahl der Behandlungsfälle nach | 1500 |  | |
-| 2 | | | |
+| **2** | | | |
 | dabei Behandlungsfälle mit | 700 | davon pathologische | 300 |
 |  |  | davon unauffällige | 300 |
 |  |  | davon nicht beurteilbare | 100 |
-| 3 | | | |
+| **3** | | | |
 | dabei Behandlungsfälle mit prädiktiver | 500 | davon pathologische | 200 |
 |  |  | davon unauffällige | 100 |
 |  |  | davon nicht beurteilbare | 200 |
-| 4 | | | |
-| dabei Behandlungsfälle mit | 300 | davon pathologische | 100 |
+| **4** | | | |
+| **dabei Behandlungsfälle mit** | 300 | davon pathologische | 100 |
 |  |  | davon unauffällige | 100 |
 |  |  | davon nicht beurteilbare | 100 |
-| 5 Anzahl der Untersuchungen je GOP | | | |
-| 11395 | 1200 | davon pathologische | 600 |
+| **5 Anzahl der Untersuchungen je GOP** | | | |
+| **11395** | 1200 | davon pathologische | 600 |
 |  |  | davon unauffällige | 400 |
 |  |  | davon nicht beurteilbare | 200 |
-| 11432 | 500 | davon pathologische | 100 |
+| **11432** | 500 | davon pathologische | 100 |
 |  |  | davon unauffällige | 100 |
 |  |  | davon nicht beurteilbare | 300 |
-| 4 4.1 | | | |
-| ANGABEN FÜR DIE JAHR ESSTATISTIK FÜR PRÜF | | | |
+| 4**4.1** | | | |
+| **ANGABEN FÜR DIE JAHR ESSTATISTIK FÜR PRÜF** | | | |
 |  | | | |
-| 1 | Gesamtzahl der Behandlungsfälle nach | 1500 |  |
-| 2 | dabei Behandlungsfälle mit  700 | davon pathologische | 300 |
+| **1** | Gesamtzahl der Behandlungsfälle nach | 1500 |  |
+| **2** | dabei Behandlungsfälle mit  700 | davon pathologische | 300 |
 |  |  | davon unauffällige | 300 |
-|  | davon nicht beurteilbare | 100 | 3 |
+|  | davon nicht beurteilbare | 100 | **3** |
 | dabei Behandlungsfälle mit prädiktiver | 500 | davon pathologische | 200 |
 |  |  | davon unauffällige | 100 |
 |  | | | |
 |  | davon nicht beurteilbare | 200 | |
-| 4 | | | |
-| dabei Behandlungsfälle mit | 300 | davon pathologische | |
+| **4** | | | |
+| **dabei Behandlungsfälle mit** | 300 | davon pathologische | |
 | 100 |  |  | |
 | davon unauffällige | | | |
 | 100 |  |  | |
-| davon nicht beurteilbare | 100 | 5 Anzahl der Untersuchungen je GOP | |
-| 11395 | 1200 | davon pathologische | |
+| davon nicht beurteilbare | 100 | **5 Anzahl der Untersuchungen je GOP** | |
+| **11395** | 1200 | davon pathologische | |
 | 600 | | | |
 |  |  | davon unauffällige | |
 | 400 |  |  | |
 | davon nicht beurteilbare  200 | | | |
-| 11432 | 500 | davon pathologische | |
+| **11432** | 500 | davon pathologische | |
 | 100 |  |  | davon unauffällige |
-| 4 4.1 | | | |
-| ANGABEN FÜR DIE JAHR ESSTATISTIK FÜR PRÜF |  | 1 | Gesamtzahl der Behandlungsfälle nach |
-| 1500 |  | 2 | |
+| 4**4.1** | | | |
+| **ANGABEN FÜR DIE JAHR ESSTATISTIK FÜR PRÜF** |  | **1** | Gesamtzahl der Behandlungsfälle nach |
+| 1500 |  | **2** | |
 | dabei Behandlungsfälle mit | 700 | davon pathologische | 300 |
 |  |  | davon unauffällige | 300 |
 
@@ -750,56 +750,56 @@ ANHANG EBM-Unterabschnitt 11.4.2 diagnostischer Fragestellung Fragestellung vorg
 
 | Endbefunde | | | |
 |---|---|---|---|
-| Quotient | | | |
+| **Quotient** | | | |
 | Anzahl GOPs bei | Anzahl Behandlungsfälle mit | Quotient | |
 |  | | | |
 | 700 |  | 600 | 1,17 |
-| Quotient | Anzahl GOPs bei | Anzahl Behandlungsfälle mit | Quotient |
+| **Quotient** | Anzahl GOPs bei | Anzahl Behandlungsfälle mit | Quotient |
 |  | 500 |  | 500 |
 | 1,00 | | | |
-| Quotient | Anzahl GOPs bei | Anzahl Behandlungsfälle mit | Quotient |
+| **Quotient** | Anzahl GOPs bei | Anzahl Behandlungsfälle mit | Quotient |
 |  | 500 | 400 | 1,25 |
-| 7 | Anzahl der Behandlungsfälle mit | 300 |  |
-| 8 Anzahl der Einsender | | | |
-| Anzahl LANR | 120 |  | Anzahl BSNR |
-| 90 |  | 9 Anzahl der Einsendungen je Facharztgruppe | 04 (Anästhesiologie) |
-| 500 |  | 22 (Humangenetik) | 300 |
+| **7** | **Anzahl der Behandlungsfälle mit** | 300 |  |
+| **8 Anzahl der Einsender** | | | |
+| **Anzahl LANR** | 120 |  | **Anzahl BSNR** |
+| 90 |  | **9 Anzahl der Einsendungen je Facharztgruppe** | **04 (Anästhesiologie)** |
+| 500 |  | **22 (Humangenetik)** | 300 |
 |  | | | |
-| 62 (Radiologie) | 300 |  | 10 Ergebnisse der externen Qualitätssicherung gemäß § 5 Nr. 2 |
-| Gesamtanzahl der Untersuchungen | 3 |  | Gesamtanzahl der Zertifikate |
-| 2 |  | Sofern mehr als 150 Untersuchungen für eine GOP durchgeführt wurden | 11 Anzahl der Einsendungen je Facharztgruppe für diese GOP |
-| 11395 |  |  |  |
-| 04 (Anästhesiologie) | 300 |  |  |
+| **62 (Radiologie)** | 300 |  | **10 Ergebnisse der externen Qualitätssicherung gemäß § 5 Nr. 2** |
+| **Gesamtanzahl der Untersuchungen** | 3 |  | **Gesamtanzahl der Zertifikate** |
+| 2 |  | Sofern mehr als 150 Untersuchungen für eine GOP durchgeführt wurden | **11 Anzahl der Einsendungen je Facharztgruppe für diese GOP** |
+| **11395** |  |  |  |
+| **04 (Anästhesiologie)** | 300 |  |  |
 |  |  |  |  |
-| ANGABEN FÜR DIE JAHR ESSTATISTIK FÜR PRÜF | | | |
+| **ANGABEN FÜR DIE JAHR ESSTATISTIK FÜR PRÜF** | | | |
 | Endbefunde | | | |
-| 6 Mittlere Anzahl der GOPs je Behandlungsfall (Quotient je Befund) | | | |
-| Quotient | Anzahl GOPs bei | Anzahl Behandlungsfälle mit | Quotient |
+| **6 Mittlere Anzahl der GOPs je Behandlungsfall (Quotient je Befund)** | | | |
+| **Quotient** | Anzahl GOPs bei | Anzahl Behandlungsfälle mit | Quotient |
 |  | 700 | 600 | 1,17 |
-| Quotient | Anzahl GOPs bei | Anzahl Behandlungsfälle mit | Quotient |
+| **Quotient** | Anzahl GOPs bei | Anzahl Behandlungsfälle mit | Quotient |
 |  | 500 | 500 | 1,00 |
-| Quotient | Anzahl GOPs bei | Anzahl Behandlungsfälle mit | Quotient |
+| **Quotient** | Anzahl GOPs bei | Anzahl Behandlungsfälle mit | Quotient |
 |  | 500 | 400 | 1,25 |
-| 7 | | | |
-| Anzahl der Behandlungsfälle mit | 300 |  | |
-| 8 Anzahl der Einsender | | | |
-| Anzahl LANR | 120 |  | |
-| Anzahl BSNR | 90 |  | |
-| 9 Anzahl der Einsendungen je Facharztgruppe | | | |
-| 04 (Anästhesiologie) | 500 |  | |
-| 22 (Humangenetik) | 300 |  | |
-| 62 (Radiologie) | 300 |  | |
-| 10 Ergebnisse der externen Qualitätssicherung gemäß § 5 Nr. 2 | | | |
-| Gesamtanzahl der Untersuchungen | 3 |  | |
-| Gesamtanzahl der Zertifikate | 2 |  | |
-| Sofern mehr als 150 Untersuchungen für eine GOP durchgeführt wurden  11 Anzahl der Einsendungen je Facharztgruppe für diese GOP | | | |
-| 11395 |  |  | |
-|  | 04 (Anästhesiologie) | 300 |  |
-| ANGABEN FÜR DIE JAHR ESSTATISTIK FÜR PRÜF | | | |
-| Endbefunde | 6 Mittlere Anzahl der GOPs je Behandlungsfall (Quotient je Befund) | Quotient | Anzahl GOPs bei |
+| **7** | | | |
+| **Anzahl der Behandlungsfälle mit** | 300 |  | |
+| **8 Anzahl der Einsender** | | | |
+| **Anzahl LANR** | 120 |  | |
+| **Anzahl BSNR** | 90 |  | |
+| **9 Anzahl der Einsendungen je Facharztgruppe** | | | |
+| **04 (Anästhesiologie)** | 500 |  | |
+| **22 (Humangenetik)** | 300 |  | |
+| **62 (Radiologie)** | 300 |  | |
+| **10 Ergebnisse der externen Qualitätssicherung gemäß § 5 Nr. 2** | | | |
+| **Gesamtanzahl der Untersuchungen** | 3 |  | |
+| **Gesamtanzahl der Zertifikate** | 2 |  | |
+| Sofern mehr als 150 Untersuchungen für eine GOP durchgeführt wurden **11 Anzahl der Einsendungen je Facharztgruppe für diese GOP** | | | |
+| **11395** |  |  | |
+|  | **04 (Anästhesiologie)** | 300 |  |
+| **ANGABEN FÜR DIE JAHR ESSTATISTIK FÜR PRÜF** | | | |
+| Endbefunde | **6 Mittlere Anzahl der GOPs je Behandlungsfall (Quotient je Befund)** | **Quotient** | Anzahl GOPs bei |
 | Anzahl Behandlungsfälle mit | Quotient |  | |
 | 700 |  | 600 | 1,17 |
-| Quotient | Anzahl GOPs bei | Anzahl Behandlungsfälle mit | Quotient |
+| **Quotient** | Anzahl GOPs bei | Anzahl Behandlungsfälle mit | Quotient |
 
 (pathologisch) (unauffällig) (nicht beurteilbar) mindestens einem Unterauftrag FALL 2 Behandlungsfällen pathologischem Behandlungsfällen mit unauffälligem Behandlungsfällen mit nicht beurteilbarem pathologischem Endbefund unauffälligem Endbefund nicht beurteilbarem
 
@@ -808,15 +808,11 @@ ANHANG EBM-Unterabschnitt 11.4.2 diagnostischer Fragestellung Fragestellung vorg
 |  | | | |
 |---|---|---|---|
 | 300 | | | |
-|  | 11432 |  | |
+|  | **11432** |  | |
 |  | | | |
-|  | 04 (Anästhesiologie) | 200 |  |
-|  | 22 (Humangenetik) | 300 |  |
-|  | Tabelle 1: Angaben für die Jahresstatistik für Prüffall 2 |  |  |
-|  | | | |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+|  | **04 (Anästhesiologie)** | 200 |  |
+|  | **22 (Humangenetik)** | 300 |  |
+|  | **Tabelle 1: Angaben für die Jahresstatistik für Prüffall 2** |  |  |
 |  | | | |
 |  |  |  |  |
 |  |  |  |  |
@@ -825,38 +821,42 @@ ANHANG EBM-Unterabschnitt 11.4.2 diagnostischer Fragestellung Fragestellung vorg
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-| ANGABEN FÜR DIE JAHR ESSTATISTIK FÜR PRÜF | | | |
 |  | | | |
-| 22 (Humangenetik) | | | |
-| 300 |  | 11432 |  |
-|  | 04 (Anästhesiologie) | 200 |  |
-|  | 22 (Humangenetik) | 300 |  |
-|  | Tabelle 1: Angaben für die Jahresstatistik für Prüffall 2 |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+| **ANGABEN FÜR DIE JAHR ESSTATISTIK FÜR PRÜF** | | | |
+|  | | | |
+| **22 (Humangenetik)** | | | |
+| 300 |  | **11432** |  |
+|  | **04 (Anästhesiologie)** | 200 |  |
+|  | **22 (Humangenetik)** | 300 |  |
+|  | **Tabelle 1: Angaben für die Jahresstatistik für Prüffall 2 ** |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  | | | |
-|  |  |  | |
-|  | | | |
-|  |  |  | |
-|  |  |  | |
-|  | | | |
-|  |  |  | |
-|  |  |  | |
 |  |  |  | |
 |  | | | |
 |  |  |  | |
 |  |  |  | |
 |  | | | |
 |  |  |  | |
+|  |  |  | |
+|  |  |  | |
+|  | | | |
+|  |  |  | |
+|  |  |  | |
+|  | | | |
+|  |  |  | |
 |  |  |  |  |
-| ANGABEN FÜR DIE JAHR ESSTATISTIK FÜR PRÜF | | | |
-|  | 22 (Humangenetik) | 300 |  |
-| 11432 |  |  | |
-|  | 04 (Anästhesiologie) | 200 |  |
-|  | 22 (Humangenetik) | 300 |  |
+| **ANGABEN FÜR DIE JAHR ESSTATISTIK FÜR PRÜF** | | | |
+|  | **22 (Humangenetik)** | 300 |  |
+| **11432** |  |  | |
+|  | **04 (Anästhesiologie)** | 200 |  |
+|  | **22 (Humangenetik)** | 300 |  |
 
 FALL 2
 
@@ -866,7 +866,7 @@ FALL 2
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 | [KBV_ITA_FMEX_AAZ_QSMG] | Antrag auf Zertifizierung QSMG |
 | [KBV_ITA_RLEX_Zert] | Zertifizierungsrichtlinie der KBV |
 | [Austausch_von_XML-Daten_V(n.nn).ZIP] | KBV_ITA_VGEX_XML |
@@ -874,7 +874,7 @@ FALL 2
 | [KBV_ITA_VGEX_Plausi_QSMG] | Plausibilitäten und Berechnungsvorschrift QS |
 | [KBV_ITA_VGEX_Anforderungskatalog_QSMG ] | Anforderungskatalog |
 | [KBV_ITA_AHEX_Ausfuellhinweise_QSMG] | Ausfüllhinweise Qualitätssicherungsvereinbarung |
-| [Prüfstammdateien] | Alle für das Verfahren ggf. relevanten |
+| **[**Prüfstammdateien**]** | Alle für das Verfahren ggf. relevanten |
 
 **Ansprechpartner:**
 

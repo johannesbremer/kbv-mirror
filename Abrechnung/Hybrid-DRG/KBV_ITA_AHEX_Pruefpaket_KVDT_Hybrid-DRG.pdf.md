@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 13. JANUAR 2025   VERSION: 1.5   DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 13. JANUAR 2025   VERSION: 1.5   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # PRÜFPAKET KVDT HYBRID -DRG
@@ -61,7 +61,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.5 | 13.01.2025 | KBV | Aktualisierungen | Anpassungen für 2025 | S.9- |
 | 1.4 | 21.11.2024 | KBV | Aktualisierungen | Versichertendaten | S. 10 |
@@ -138,78 +138,78 @@ die folgenden XML -Dateien mit
 
 3.2.1.1 [XML_49]
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Nachname | Müller |
-| Vorname | Emil |
-| Geburtsdatum | 01.01.1971 |
-| Versicherten_ID | E543768738 |
-| Straße | Schloßallee |
-| Hausnummer | 125 |
-| PLZ | 80639 |
-| Wohnsitzländercode | D |
-| Ort | München |
-| WOP | 71 |
-| Versichertenart | 1 |
-| Geschlecht | M |
-| Versicherungsschutz Beginn | 01.01.2016 |
-| Versicherungsschutz Ende | 31.12.2040 |
-| Kostentraegerkennung | 108939385 |
+| **Nachname** | Müller |
+| **Vorname** | Emil |
+| **Geburtsdatum** | 01.01.1971 |
+| **Versicherten_ID** | E543768738 |
+| **Straße** | Schloßallee |
+| **Hausnummer** | 125 |
+| **PLZ** | 80639 |
+| **Wohnsitzländercode** | D |
+| **Ort** | München |
+| **WOP** | 71 |
+| **Versichertenart** | 1 |
+| **Geschlecht** | M |
+| **Versicherungsschutz Beginn** | 01.01.2016 |
+| **Versicherungsschutz Ende** | 31.12.2040 |
+| **Kostentraegerkennung** | 108939385 |
 
 3.2.1.2 [XML_48]
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Nachname | Müller |
-| Vorname | Florian |
-| Geburtsdatum | 20.10.2012 |
-| Versicherten_ID | G894698435 |
-| Straße | Schloßallee |
-| Hausnummer | 125 |
-| PLZ | 80639 |
-| Wohnsitzländercode | D |
-| Ort | München |
-| WOP | 71 |
-| Versichertenart | 3 |
-| Geschlecht | M |
-| Versicherungsschutz Beginn | 20.10.2024 |
-| Versicherungsschutz Ende | 31.12.2040 |
+| **Nachname** | Müller |
+| **Vorname** | Florian |
+| **Geburtsdatum** | 20.10.2012 |
+| **Versicherten_ID** | G894698435 |
+| **Straße** | Schloßallee |
+| **Hausnummer** | 125 |
+| **PLZ** | 80639 |
+| **Wohnsitzländercode** | D |
+| **Ort** | München |
+| **WOP** | 71 |
+| **Versichertenart** | 3 |
+| **Geschlecht** | M |
+| **Versicherungsschutz Beginn** | 20.10.2024 |
+| **Versicherungsschutz Ende** | 31.12.2040 |
 
 
 ---
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Kostentraegerkennung | 108939385 |
+| **Kostentraegerkennung** | 108939385 |
 
 ## 3.3 PRAXISDATEN
 
 Sofern zur Bearbeitung der Prüffälle Praxisdaten benötigt werden, können die folgenden Praxisdaten  verwendet werden. Eine Abweichung von den hier abgebildeten Daten ist möglich.
 
-| PRAXISDATEN (HAUPTSITZ - ABRECHNENDER ARZT) | |
+| **PRAXISDATEN (HAUPTSITZ - ABRECHNENDER ARZT)** | |
 |---|---|
-| Betriebsstättennummer (BSNR) | 198212400 |
-| BSNR-Bezeichnung | Praxis Dr. med. Heribert Topp-Glücklich |
-| Lebenslange Arztnummer (LANR) | 776299002 |
-| ASV Teamnummer | 001234566 |
-| Arztname | Dr. med. Topp-Glücklich |
-| Vorname | Heribert |
-| Strasse | Musterstr. 1 |
-| PLZ/Ort | 48143 Münster |
-| Telefon | 0251 / 1111111 |
-| Telefax | 0251 / 2222222 |
-| E-Mail-Adresse | Dr.Heribert.Topp-Gluecklich@KBV-Testpraxis.de |
-| KV-Voreinstellungen | KV: 20 (KV WL) |
+| **Betriebsstättennummer (BSNR)** | 198212400 |
+| **BSNR-Bezeichnung** | Praxis Dr. med. Heribert Topp-Glücklich |
+| **Lebenslange Arztnummer (LANR)** | 776299002 |
+| **ASV Teamnummer** | 001234566 |
+| **Arztname** | Dr. med. Topp-Glücklich |
+| **Vorname** | Heribert |
+| **Strasse** | Musterstr. 1 |
+| **PLZ/Ort** | 48143 Münster |
+| **Telefon** | 0251 / 1111111 |
+| **Telefax** | 0251 / 2222222 |
+| **E-Mail-Adresse** | Dr.Heribert.Topp-Gluecklich@KBV-Testpraxis.de |
+| **KV-Voreinstellungen** | KV: 20 (KV WL) |
 |  | Bezirkstelle: 19 (Münster) |
 
-| ÜBERWEISER |  |
+| **ÜBERWEISER** |  |
 |---|---|
-| Betriebsstättennummer (BSNR): | 198209700 |
-| Lebenslange Arztnummer (LANR): |  |
-| Name: | House |
-| Vorname: | Gregory |
-| Strasse: | Herbert-Lewin-Platz 2 |
-| PLZ Ort: | 10623 Berlin |
+| **Betriebsstättennummer (BSNR):** | **198209700** |
+| **Lebenslange Arztnummer (LANR):** |  |
+| **Name:** | House |
+| **Vorname:** | Gregory |
+| **Strasse:** | Herbert-Lewin-Platz 2 |
+| **PLZ Ort:** | 10623 Berlin |
 
 ## 3.4 XPM-PRÜFMODUL UND VERSCHLÜSSELUNG
 
@@ -254,23 +254,23 @@ group.de/index.php?option=com_webgrouper&view=webgrouper&Itemid=112
 
 |  |  | |
 |---|---|---|
-| Prüffall-ID (FK 3000) | Prüffall 1 | |
-| Versichertendaten | [XML_49] Emil Müller | |
-| Vorgaben | Feldbezeichnung | Feldinhalt |
-| FK 0104 | Grouper-Software | Testgrouper |
-| FK 5027 | Hybrid-DRG | G24M |
-| FK 5028 | Datum des Beginns der Leistung | 09.01.2025 |
-| FK 5029 | Datum Ende der Leistung | 10.01.2025 |
-| FK 5030 | Beatmungsstunden | 0 |
-| FK 5009 | Freier Begründungstext | „ |
-| FK 5034 | OP-Datum | 09.01.2025 |
-| FK 5035 | OP-Schlüssel | 5-530.03 |
-| FK 5041 | Seitenlokalisation | L |
-| FK 5098 | (N)BSNR des Ortes der | 198212400 |
-| FK 5099 | Lebenslange Arztnummer (LANR) des  Vertragspsychotherapeuten | 776299002 |
-| FK 6009 | Hauptdiagnose | K40.90 |
-| FK 6010 | Seitenlokalisation Hauptdiagnose | L |
-| Einzureichende | .XKM-Abrechnungsdatei mit Testschlüssel verschlüsselt | |
+| **Prüffall-ID (FK 3000)** | **Prüffall 1** | |
+| **Versichertendaten** | [XML_49] Emil Müller | |
+| **Vorgaben** | **Feldbezeichnung** | **Feldinhalt** |
+| **FK 0104** | Grouper-Software | Testgrouper |
+| **FK 5027** | Hybrid-DRG | G24M |
+| **FK 5028** | Datum des Beginns der Leistung | 09.01.2025 |
+| **FK 5029** | Datum Ende der Leistung | 10.01.2025 |
+| **FK 5030** | Beatmungsstunden | 0 |
+| **FK 5009** | Freier Begründungstext | „ |
+| **FK 5034** | OP-Datum | 09.01.2025 |
+| **FK 5035** | OP-Schlüssel | 5-530.03 |
+| **FK 5041** | Seitenlokalisation | L |
+| **FK 5098** | (N)BSNR des Ortes der | 198212400 |
+| **FK 5099** | Lebenslange Arztnummer (LANR) des  Vertragspsychotherapeuten | 776299002 |
+| **FK 6009** | Hauptdiagnose | K40.90 |
+| **FK 6010** | Seitenlokalisation Hauptdiagnose | L |
+| **Einzureichende** | .XKM-Abrechnungsdatei mit Testschlüssel verschlüsselt | |
 
 Prüfunterlagen Leistungserbringung Vertragsarztes/
 
@@ -279,19 +279,19 @@ Prüfunterlagen Leistungserbringung Vertragsarztes/
 
 |  |  | |
 |---|---|---|
-| Prüffall-ID (FK 3000) | Prüffall 2 | |
-| Versichertendaten | [XML_48] Florian Müller | |
-| Vorgaben | Feldbezeichnung | Feldinhalt |
-| FK 0104 | Grouper-Software | Testgrouper |
-| FK 5027 | Hybrid-DRG | G24N |
-| FK 5028 | Datum des Beginns der Leistung | 09.01.2025 |
-| FK 5029 | Datum Ende der Leistung | 09.01.2025 |
-| FK 5034 | OP-Datum | 09.01.2025 |
-| FK 5035 | OP-Schlüssel | 5-530.03 |
-| FK 5041 | Seitenlokalisation | B |
-| FK 5098 | (N)BSNR des Ortes der | 198212400 |
-| FK 5099 | Lebenslange Arztnummer (LANR) des | 776299002 |
-| FK 6009 | Hauptdiagnose | K40.20 |
-| Einzureichende | .XKM-Abrechnungsdatei mit Testschlüssel verschlüsselt | |
+| **Prüffall-ID (FK 3000)** | **Prüffall 2** | |
+| **Versichertendaten** | [XML_48] Florian Müller | |
+| **Vorgaben** | **Feldbezeichnung** | **Feldinhalt** |
+| **FK 0104** | Grouper-Software | Testgrouper |
+| **FK 5027** | Hybrid-DRG | G24N |
+| **FK 5028** | Datum des Beginns der Leistung | 09.01.2025 |
+| **FK 5029** | Datum Ende der Leistung | 09.01.2025 |
+| **FK 5034** | OP-Datum | 09.01.2025 |
+| **FK 5035** | OP-Schlüssel | 5-530.03 |
+| **FK 5041** | Seitenlokalisation | B |
+| **FK 5098** | (N)BSNR des Ortes der | 198212400 |
+| **FK 5099** | Lebenslange Arztnummer (LANR) des | 776299002 |
+| **FK 6009** | Hauptdiagnose | K40.20 |
+| **Einzureichende** | .XKM-Abrechnungsdatei mit Testschlüssel verschlüsselt | |
 
 Prüfunterlagen Leistungserbringung Vertragsarztes/Vertragspsychotherapeut

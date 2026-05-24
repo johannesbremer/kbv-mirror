@@ -88,13 +88,11 @@ es der aufgeführten Ereignisse
 
 Nein“ an.
 
-der Herzinfarkt aufgetreten ist. Sollte
-
-**Folgedokumentation**
-
 **innerhalb der**
 
-möglich und ist hier
+der Herzinfarkt aufgetreten ist. Sollte
+
+**Folgedokumentation** möglich und ist hier
 
 # Medikamente
 
@@ -115,7 +113,7 @@ Die Angaben können - je nach Praxissoftware - direkt aus der Vordokumentation �
 
 ---
 
-| Intensität | Statin und Dosierung |
+| **Intensität** | **Statin und Dosierung** |
 |---|---|
 | Niedrig  (relative LDL-Reduktion < 30%) | Lovastatin 20 mg |
 |  | Pravastatin 10-20 mg |
@@ -125,7 +123,7 @@ Die Angaben können - je nach Praxissoftware - direkt aus der Vordokumentation �
 |  | Simvastatin 20-40 mg |
 |  | Pravastatin 40-80 mg |
 |  | Lovastatin 40 mg |
-| Thrombozytenaggregationshemmer | Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich. |
+| **Thrombozytenaggregationshemmer** | Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich. |
 |  |  |
 
 Chronische KHK, 1.

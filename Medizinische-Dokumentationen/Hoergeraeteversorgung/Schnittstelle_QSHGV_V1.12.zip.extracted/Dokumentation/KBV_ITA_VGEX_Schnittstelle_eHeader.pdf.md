@@ -29,10 +29,10 @@ In Kraft
 
 ### D O K U M E N T E N H I S T O R I E
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 2.12 | 12.04.2019 | KBV | Erweiterung des | Anpassung an das | 25 |
-| 2.11 | 10.11.2015 | KBV | Erweiterung des | Anpassung an das | 25 |
+| 2.12 | 12.04.2019 | KBV | Erweiterung des | Anpassung an das | **25** |
+| 2.11 | 10.11.2015 | KBV | Erweiterung des | Anpassung an das | **25** |
 | 2.10 | 01.08.2012 | KBV | Red. |  |  |
 
 Header für eDMP / a-Datensatz
@@ -377,25 +377,25 @@ Unterschiede im Header des a-Datensatzes zum Volldatensatz
 
 - *SKTZusatzangabe, VersichertenstatusKVK, VersichertenartMFR, Statusergaenzung,*  *BisDatumderGueltigkeit und KVKEinlesedatum* entfallen vollständig.
 
-| Volldatensatz | a-Datensatz |
+| **Volldatensatz** | **a-Datensatz** |
 |---|---|
-| document_type_cd V-Attribut : | document_type_cd V-Attribut: |
-| document_type_cd DN-Attribut: Erstmalige Dokumentation Asthma bron-  bzw. Verlaufsdokumentation Asthma bronchia- | document_type_cd DN-Attribut: Erstmalige  Dokumentation  Asthma  bron-  bzw. Verlaufsdokumentation Asthma  bronchiale |
-| patient->person_name | fehlt |
-| patient->addr | fehlt |
-| provider ->person_name | fehlt |
-| provider->addr | fehlt |
-| provider ->telecom | fehlt |
-| insurance_ssu->...->Versichertennummer | pseudonymisierte Versichertennummer |
-| insurance_ssu->...- >KostentraegerAbrechnungsbereich | fehlt |
-| insurance_ssu->...->KVBereich | fehlt |
-| insurance_ssu->...->AbrechnungsVKNR | fehlt |
-| insurance_ssu->...->SKTZusatzangabe | fehlt |
-| insurance_ssu->...->VersichertenstatusKVK | fehlt |
-| insurance_ssu->...->VersichertenartMFR | fehlt |
-| insurance_ssu->...->Statusergaenzung | fehlt |
-| insurance_ssu->...->BisDatumderGueltigkeit | fehlt |
-| insurance_ssu->...->KVKEinlesedatum | fehlt |
+| *document_type_cd V-Attribut :* | *document_type_cd V-Attribut:* |
+| *document_type_cd DN-Attribut:****Erstmalige Dokumentation Asthma bron-  bzw. Verlaufsdokumentation Asthma bronchia-*** | *document_type_cd DN-Attribut:****Erstmalige  Dokumentation  Asthma  bron-  bzw. Verlaufsdokumentation Asthma  bronchiale*** |
+| *patient->person_name* | fehlt |
+| *patient->addr* | fehlt |
+| *provider ->person_name* | fehlt |
+| *provider->addr* | fehlt |
+| *provider ->telecom* | fehlt |
+| *insurance_ssu->...->Versichertennummer* | pseudonymisierte Versichertennummer |
+| *insurance_ssu->...- >KostentraegerAbrechnungsbereich* | fehlt |
+| *insurance_ssu->...->KVBereich* | fehlt |
+| *insurance_ssu->...->AbrechnungsVKNR* | fehlt |
+| *insurance_ssu->...->SKTZusatzangabe* | fehlt |
+| *insurance_ssu->...->VersichertenstatusKVK* | fehlt |
+| *insurance_ssu->...->VersichertenartMFR* | fehlt |
+| *insurance_ssu->...->Statusergaenzung* | fehlt |
+| *insurance_ssu->...->BisDatumderGueltigkeit* | fehlt |
+| *insurance_ssu->...->KVKEinlesedatum* | fehlt |
 
 **Tabelle 1**
 
@@ -417,7 +417,7 @@ Symbole in den folgenden Kapiteln kurz erläutert werden.
 
 **4.1 Kardinalität**
 
-| Kardinalität | Symbol | Beschreibung |
+| **Kardinalität** | **Symbol** | **Beschreibung** |
 |---|---|---|
 | 0..1 |  | Optionales Element: Element wird als Rechteck mit  mal vorkommen. |
 | 1 |  | Musselement:  Rechteck mit durchgezogner Linie. Das |
@@ -431,7 +431,7 @@ Symbole in den folgenden Kapiteln kurz erläutert werden.
 
 Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinander lo-  gisch verknüpft. In diesem Dokument werden zwei Strukturelement-Arten verwendet: Choice  und Sequence.
 
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |---|---|
 |  | Das  Strukturelement  Choice  zeigt  an,  dass  zwischen  verschiedenen  Kin- |
 |  | Das Strukturelement, Sequence beschreibt, dass verschiedene Kindelemente |
@@ -442,7 +442,7 @@ Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinand
 
 **4.3 Sonstige Symbole**
 
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |---|---|
 |  | Ein Element mit mehreren Kindelementen wird durch ein |
 |  | Referenzelement: Der Pfeil links unten im Element zeigt |
@@ -461,7 +461,7 @@ Es existieren verschiedene Kardinalitäten: gestrichelter Linie dargestellt. Es 
 
 Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen,  die in diesem Dokument beschrieben werden, ist es wichtig die Groß-/Kleinschreibung zu be-  achten. Sonderzeichen (wie &, <, >, ’ , “) werden durch ein „Entity“ ersetzt. Dazu wird das Zei-  chen & mit einer bestimmten Zeichenfolge kombiniert. Die folgende Liste gibt den Überblick  wie die Sonderzeichen in XML ersetzt werden:
 
-| Sonderzeichen | Ersetzen durch |  |
+| **Sonderzeichen** | **Ersetzen durch** |  |
 |---|---|---|
 | & | &amp; | |
 | < | &lt; | |
@@ -714,9 +714,7 @@ Die Grundstruktur für dieses Element ist in Abbildung 3 dargestellt.
 
 *document_relationship.type_cd*
 
-*V*-Attribut kön-  *V-*, das
-
-*S*-, das
+*V*-Attribut kön-  *V-*, das *S*-, das
 
 ein Verweis auf das Ur-
 
@@ -981,7 +979,7 @@ Der Coderahmen für dieses Element sieht wie folgt aus:
 
 6.8.3.2.1 Namensbestandteile des Arztes (nm)
 
-| Element | Werte | Datentyp | Kard. |
+| **Element** | **Werte** | **Datentyp** | **Kard.** |
 |---|---|---|---|
 | GIV | Vornamen der Person (mehrere Vornamen sind | Zeichen |  |
 | FAM | Familiennamen der Person | String  mit  max.  60 1..1 |  |
@@ -993,7 +991,7 @@ Zu dem Element *PFX* kann es zusätzlich zum *V*-Attribut das *QUAL*-Attribut mi
 
 Ausprägungen geben:
 
-| Code | Definition | Ausprägung |
+| **Code** | **Definition** | **Ausprägung** |
 |---|---|---|
 | AC | academic | sind durch Leerzeichen getrennt) |
 | NB | nobility | Adelszusatz zum Element PFX, z.B. „Gräfin“ und „von“ (mehrere |
@@ -1002,7 +1000,7 @@ Ausprägungen geben:
 
 Die Speicherung der Namen entspricht der Spezifikation der Krankenversichertenkarte (KVK).  Die folgende Tabelle zeigt die Abbildung der Angaben der Versichertenkarte auf die entspre-
 
-| Versichertenkarte | XML-Element |
+| **Versichertenkarte** | **XML-Element** |
 |---|---|
 | Titel | <PFX V="..." QUAL="AC"/> |
 | Vorname | <GIV V="..."/> |
@@ -1053,7 +1051,7 @@ Krankenhaus"/>). Zusätzlich wird im zweiten *ADL-*
 
 das Dokument erstellt wurde, mit angegeben (z.B. <ADL V=""/>).  kument in einer Arztpraxis erstellt wird, dann kann das
 
-| Element | Wert | Datentyp | Kard. |
+| **Element** | **Wert** | **Datentyp** | **Kard.** |
 |---|---|---|---|
 | ADL | Name des Krankenhauses und  Name der Abteilung, wo die Behand- | String mit max. 60 Zeichen | 0..2 |
 | STR | Straße der Anschrift | String mit max. 60 Zeichen | 0..1 |
@@ -1111,7 +1109,7 @@ dem *V*-Attribut handelt es sich dabei um einen bis zu 150 Zeichen umfassenden S
 
 mit dem Wert „tel“, „fax“ „mailto“, „http“ oder „ftp“ beginnen muss.
 
-| Code | Definition | Beispiel |
+| **Code** | **Definition** | **Beispiel** |
 |---|---|---|
 | tel | Telefon/Mobiltelefon | <telecom V="tel:(0221)4449-0" USE="WP"/> |
 | fax | Faxnummer | <telecom V="fax:(0221)4449-400" USE="WP"/> |
@@ -1264,7 +1262,7 @@ Der Coderahmen für dieses Element sieht wie folgt aus:
 
 6.9.2.2.1 Namensbestandteile des Patienten (nm)
 
-| Element | Werte | Datentyp | Kard. |
+| **Element** | **Werte** | **Datentyp** | **Kard.** |
 |---|---|---|---|
 | GIV | Vornamen der Person (mehrere Vornamen sind | String  mit  max.  28 1..1 |  |
 | FAM | Familiennamen der Person | Zeichen |  |
@@ -1519,7 +1517,7 @@ OID: „1.2.276.0.76.5.113“.
 
 Die letzten beiden Ziffern (3.-4. Stelle) der vierstelligen  Geburtsjahr des Versicherten an.
 
-| Wert | Beschreibung |
+| **Wert** | **Beschreibung** |
 |---|---|
 | 00 in Verbindung mit Stelle 2 = 0 | Versicherter nimmt nicht an der Stichprobe |
 | 00-99 in Verbindung mit Stelle 2 > 0 | Geburtsjahr JJ |
@@ -2015,7 +2013,7 @@ zum XPM-
 
 # 7 Glossar
 
-| Kürzel | Beschreibung |
+| **Kürzel** | **Beschreibung** |
 |---|---|
 | CDA | Clinical Document Architecture |
 | DMP | Disease Management Programm |
@@ -2044,7 +2042,7 @@ Header für eDMP / a-Datensatz
 
 **8 Referenzierte Dokumente**
 
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 |---|---|
 | [KBV_ITA_VGEX_XML-Schnittstellen] | Austausch von XML-Daten in der vertragsärztlichen |
 | [KBV_ITA_VGEX_Datensatzbeschreibung_KVDT] | KVDT Datensatzbeschreibung, Einheitlicher Daten- |

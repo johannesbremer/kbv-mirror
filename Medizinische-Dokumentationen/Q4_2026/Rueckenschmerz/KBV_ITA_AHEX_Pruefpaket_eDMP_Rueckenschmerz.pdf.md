@@ -1,15 +1,15 @@
-|  |
-|---|
+\|  |
+\|---|
 
 # PRUEFPAKET EDMP-CHRONISCHER  RUECKENSCHMERZ
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_EDMP_RUECKENSCHMERZ
 
-|  | BUNDESVEREINIGUNG  DEZERNAT DIGITALISIERUNG UND IT  31. MÄRZ 2026   VERSION: 1.03   DOKUMENTENSTATUS: IN |
+|  | **BUNDESVEREINIGUNG  DEZERNAT DIGITALISIERUNG UND IT  31. MÄRZ 2026   VERSION: 1.03   DOKUMENTENSTATUS: IN** |
 |---|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
 KASSENÄRZTLICHE IT IN DER ARZTPRAXIS KRAFT
 
@@ -152,7 +152,7 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.03 | 31.03.2026 | KBV | Anpassung der Prüffälle an    Redaktionelle Bearbeitung von    Anpassung Prüffall 3540 | Schnittstellenversion        Änderung der | 7, 10      22      24 |
 | 1.02 | 12.02.2024 | KBV | Anpassung der übergreifenden | COPD- | 9ff |
@@ -372,17 +372,17 @@ Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüf
 
 Folgende Angaben sind für die Zertifizierung zu verwenden:
 
-| BEZEICHNUNG | INHALT |
+| **BEZEICHNUNG** | **INHALT** |
 |---|---|
-| Betriebsstättennummer (BSNR) | 391234511 |
-| BSNR-Bezeichnung | Praxis Dr. med. Heribert Topp-Glücklich |
-| Lebenslange Arztnummer (LANR) | 838382202 |
-| Arztname | Dr. med. Hans Topp-Glücklich |
-| Straße | Musterstr. |
-| Hausnummer | 1 |
-| PLZ/Ort | 64283 Darmstadt |
-| Telefon | 06151 / 1111111 |
-| Telefax | 06151 / 2222222 |
+| **Betriebsstättennummer (BSNR)** | 391234511 |
+| **BSNR-Bezeichnung** | Praxis Dr. med. Heribert Topp-Glücklich |
+| **Lebenslange Arztnummer (LANR)** | 838382202 |
+| **Arztname** | Dr. med. Hans Topp-Glücklich |
+| **Straße** | Musterstr. |
+| **Hausnummer** | 1 |
+| **PLZ/Ort** | 64283 Darmstadt |
+| **Telefon** | 06151 / 1111111 |
+| **Telefax** | 06151 / 2222222 |
 
 -
 
@@ -397,15 +397,15 @@ erforderlichen Angaben  “ bereitgestellt. Die XML-
 
 Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der Begleitdatei als Absender bzw.  dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. Für die Angabe des  dokumentierenden Arztes, der auch hier genannt werden muss, ist der oben genannte Arztname zu  verwenden. Herr Topp-Glücklich ist also für die „Krankenhausfälle“ Angestellter des Krankenhauses und  betreut den Patienten im DMP. Es soll hier seine Telefonnummer angegeben werden. Die  Vertragsarztnummer spielt hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind  demzufolge zwei Absender (Krankenhaus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete  und zwei Begleitdateien einzureichen.
 
-| BEZEICHNUNG | INHALT |
+| **BEZEICHNUNG** | **INHALT** |
 |---|---|
-| Krankenhaus-IK | 856215715 |
-| Name des Krankenhauses | Test-Krankenhaus, Pneumologie |
-| Straße | Am Wehr |
-| Hausnummer | 20 |
-| Postleitzahl und Ort | 10437 Berlin |
-| Telefon | 06151 / 1111111 |
-| Telefax | 06151 / 2222222 |
+| **Krankenhaus-IK** | 856215715 |
+| **Name des Krankenhauses** | Test-Krankenhaus, Pneumologie |
+| **Straße** | Am Wehr |
+| **Hausnummer** | 20 |
+| **Postleitzahl und Ort** | 10437 Berlin |
+| **Telefon** | 06151 / 1111111 |
+| **Telefax** | 06151 / 2222222 |
 
 ### 1.6.7 Prüfnummer
 
@@ -421,13 +421,13 @@ Der Empfänger der elektronischen Dokumentationen muss, soweit möglich, automat
 
 Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
-| PRÜFFALL-ID | NAME | VERZEICHNISNAME |
+| **PRÜFFALL-ID** | **NAME** | **VERZEICHNISNAME** |
 |---|---|---|
-| 3511 | Viktor Müller | XML_09 |
-| 3512 | Monika Kleinjung | XML_08 |
-| 3518 | Brigitte Althaus | XML_05 |
-| 3520 | Kai von und zu Oldenburg | Ersatzverfahren (s Anhang 4.1) |
-| 3540 | Lija Malta | XML_36 |
+| **3511** | Viktor Müller | XML_09 |
+| **3512** | Monika Kleinjung | XML_08 |
+| **3518** | Brigitte Althaus | XML_05 |
+| **3520** | Kai von und zu Oldenburg | Ersatzverfahren (s Anhang 4.1) |
+| **3540** | Lija Malta | XML_36 |
 
 
 ---
@@ -440,11 +440,11 @@ Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
 |  |  |
 |---|---|
-| Prüffall-ID | 3511 |
-| Testziel | › |
-| Voraussetzung | › |
-| Prüfunterlagen | › |
-| Hinweis | › |
+| **Prüffall-ID** | 3511 |
+| **Testziel** | › |
+| **Voraussetzung** | › |
+| **Prüfunterlagen** | › |
+| **Hinweis** | › |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -458,7 +458,7 @@ Jeweils für die Erst- und Folgedokumentation die Antworten auf die Fragen des C
 
 erfassen und den Schweregrad berechnen.
 
-| CPG-FRAGEBOGEN |  | |
+| **CPG-FRAGEBOGEN** |  | |
 |---|---|---|
 | Fragen | Erstdokumentation | Verlaufsdokumentation |
 | Frage 1: Wie würden Sie Ihre | 7 | 4 |
@@ -482,7 +482,7 @@ Anlage einer Erst- und einer Verlaufsdokumentation CR-Dokumentationsunterlagen B
 |  | Erkrankungen |  |
 |  |  |  |
 |  | Körperliches Training | Körperliches Training |
-| CPG-FRAGEBOGEN |  | |
+| **CPG-FRAGEBOGEN** |  | |
 | Frage 6: In welchem Maße haben Rückenschmerzen in | 6 | 6 |
 | Frage 7: In welchem Maße haben Rückenschmerzen in | 5 | 2 |
 
@@ -490,22 +490,22 @@ Anlage einer Erst- und einer Verlaufsdokumentation CR-Dokumentationsunterlagen B
 
 den letzten 3 Monaten Ihre Freizeitaktivitäten Unternehmungen im Familien- und Freundeskreis beeinträchtigt, wenn 0 = keine Beeinträchtigung und  10 = keine Aktivitäten mehr möglich  bedeuten? den letzten 3 Monaten Ihre Arbeitsfähigkeit (einschließlich Hausarbeit) beeinträchtigt, wenn Beeinträchtigung und 10 = keine Aktivitäten mehr möglich bedeuten? Anlegen einer Erst- und einer Verlaufsdokumentation INDIKATIONSÜBERGREIFENDE  DATEN Administrative Daten DMP-Fallnummer Krankenhaus-IK Dokumentation in Vertretung erstellt Einschreibung wegen Geschlecht Allgemeine Anamnese- und Befunddaten Körpergröße Körpergewicht Blutdruck (systolisch / diastolisch) Raucher Begleiterkrankungen Behandlungsplanung Vom Patienten gewünschte Informationsangebote der Krankenkasse Dokumentationsintervall  oder 0 = keine Erstdokumentation 3511 06.04.2024  15.mm.jjjj chronischer Männlich 2,01 m 106 kg 145 / 90 mmHg Ja Arterielle Hypertonie Tabakverzicht, Ernährungsberatung,  Quartalsweise 06.04.2024  15.mm.jjjj Verlaufsdokumentation 3511 06.07.2024  15.mm.jjjj chronischer Männlich 2,01 m 96 kg Keine der genannten Jedes zweite Quartal 06.07.2024  15.mm.jjjj
 
-| INDIKATIONSÜBERGREIFENDE | | |
+| **INDIKATIONSÜBERGREIFENDE** | | |
 |---|---|---|
-| Administrative Daten | Erstdokumentation | Verlaufsdokumentation |
+| **Administrative Daten** | **Erstdokumentation** | **Verlaufsdokumentation** |
 | DMP-Fallnummer | 3511 | 3511 |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum | 06.04.2024  15.mm.jjjj | 06.07.2024  15.mm.jjjj |
 | Einschreibung wegen | chronischer | Rückenschmerz |
 | Geschlecht | Männlich | Männlich |
-| Allgemeine Anamnese- und Befunddaten | | |
+| **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 2,01 m | 2,01 m |
 | Körpergewicht | 106 kg | 96 kg |
 | Blutdruck (systolisch / diastolisch) | 145 / 90 mmHg | 135 / 85 mmHg |
 | Raucher | Ja | Nein |
 | Begleiterkrankungen | Arterielle Hypertonie | Erkrankungen |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Vom Patienten gewünschte | Tabakverzicht,  Körperliches Training | Körperliches Training |
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung | 06.04.2024  15.mm.jjjj | 06.07.2024  15.mm.jjjj |
@@ -513,19 +513,19 @@ den letzten 3 Monaten Ihre Freizeitaktivitäten Unternehmungen im Familien- und 
 
 ---
 
-| INDIKATIONS | | |
+| **INDIKATIONS** | | |
 |---|---|---|
-|  | Erstdokumentation | Verlaufsdokumentation |
-| Relevante Ereignisse | | |
+|  | **Erstdokumentation** | **Verlaufsdokumentation** |
+| **Relevante Ereignisse** | | |
 | Ungeplante ambulante oder stationäre |  | 5 |
-| Medikamente | | |
+| **Medikamente** | | |
 | Aktuelle kreuzschmerzbedingte | Ja, länger als 12 Wochen | Ja, weniger als 12 |
 | Aktuelle kreuzschmerzbedingte | Dauerhaft | Bei Bedarf |
-| Schulung | | |
+| **Schulung** | | |
 | Bereits vor Einschreibung in das DMP an einer | Nein |  |
 | Kreuzschmerz-spezifische Schulung empfohlen | Ja | Ja |
 | Kreuzschmerz-spezifische Schulung |  | Ja |
-| Sonstige Behandlung | | |
+| **Sonstige Behandlung** | | |
 | Regelmäßig körperlich aktiv | Nicht möglich | Ja |
 | CPG Item 3: Durchschnittliche Stärke der | Automatische | Automatische |
 | CPG Item 5: Kreuzschmerzbedingte | Automatische | Automatische |
@@ -543,11 +543,11 @@ PEZIFISCHE DATEN kreuzschmerzbedingte Akutbehandlung seit der letzten Dokumentat
 
 |  |  |
 |---|---|
-| Prüffall-ID | 3512 |
-| Testziel | › |
-| Voraussetzung | › |
-| Prüfunterlagen | › |
-| Hinweis | › |
+| **Prüffall-ID** | 3512 |
+| **Testziel** | › |
+| **Voraussetzung** | › |
+| **Prüfunterlagen** | › |
+| **Hinweis** | › |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -557,22 +557,22 @@ Die Versichertendaten von
 
 - **2.** **Anlegen einer Erst- und einer Verlaufsdokumentation**
 
-| INDIKATIONSÜBERGREIFENDE | | |
+| **INDIKATIONSÜBERGREIFENDE** | | |
 |---|---|---|
-| Administrative Daten | Erstdokumentation | Verlaufsdokumentation |
+| **Administrative Daten** | **Erstdokumentation** | **Verlaufsdokumentation** |
 | DMP-Fallnummer | 3512 | 3512 |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  | Ja |
 | Datum | 06.04.2024  15.mm.jjjj | 06.07.2024  15.mm.jjjj |
 | Einschreibung wegen | Chronischer | Chronischer |
 | Geschlecht | Weiblich | Weiblich |
-| Allgemeine Anamnese- und Befunddaten | | |
+| **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 1,50 m | 1,50 m |
 | Körpergewicht | 050 kg | 050 kg |
 | Blutdruck | 100 / 50 mmHg | 105 / 55 mmHg |
 | Raucher | Nein | Nein |
 | Begleiterkrankungen | Erkrankungen | COPD |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Vom Patienten gewünschte | Ernährungsberatung,   Körperliches Training | Körperliches Training |
 | Dokumentationsintervall | Quartalsweise | Quartalsweise |
 | Datum der Erstellung | 06.04.2024  15.mm.jjjj | 06.07.2024  15.mm.jjjj |
@@ -583,19 +583,19 @@ Anlage einer Erst- und einer Verlaufsdokumentation CR-Dokumentationsunterlagen  
 
 ---
 
-| INDIKATIONS | | |
+| **INDIKATIONS** | | |
 |---|---|---|
-|  | Erstdokumentation | Verlaufsdokumentation |
-| Relevante Ereignisse | | |
+|  | **Erstdokumentation** | **Verlaufsdokumentation** |
+| **Relevante Ereignisse** | | |
 | Ungeplante ambulante oder stationäre |  | 6 |
-| Medikamente | | |
+| **Medikamente** | | |
 | Aktuelle kreuzschmerzbedingte | Ja, länger als 12 Wochen | Ja, länger als 12 Wochen |
 | Aktuelle kreuzschmerzbedingte | Bei Bedarf | Nein |
-| Schulung | | |
+| **Schulung** | | |
 | Bereits vor Einschreibung in das DMP an einer | Ja |  |
 | Kreuzschmerz-spezifische Schulung empfohlen | Ja | Ja |
 | Kreuzschmerz-spezifische Schulung |  | War aktuell nicht möglich |
-| Sonstige Behandlung | | |
+| **Sonstige Behandlung** | | |
 | Regelmäßig körperlich aktiv | Nicht möglich | Ja |
 | CPG Item 3: Durchschnittliche Stärke der | 5 | 4 |
 | CPG Item 5: Kreuzschmerzbedingte | 6 | 4 |
@@ -610,11 +610,11 @@ PEZIFISCHE DATEN kreuzschmerzbedingte Akutbehandlung seit der letzten Dokumentat
 
 |  |  |
 |---|---|
-| Prüffall-ID | 3520 |
-| Testziel | › |
-| Voraussetzung | › |
-| Prüfunterlagen | › › |
-| Hinweis | › |
+| **Prüffall-ID** | 3520 |
+| **Testziel** | › |
+| **Voraussetzung** | › |
+| **Prüfunterlagen** | › › |
+| **Hinweis** | › |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -624,16 +624,16 @@ Die Versichertendaten von Kai von und zu Oldenburg (Siehe Anhang 4.1) im Ersatzv
 
 - **2.** **Anlegen einer Erst- und einer Verlaufsdokumentation**
 
-| INDIKATIONSÜBERGREIFENDE | | |
+| **INDIKATIONSÜBERGREIFENDE** | | |
 |---|---|---|
-| Administrative Daten | Erstdokumentation | Verlaufsdokumentation |
+| **Administrative Daten** | **Erstdokumentation** | **Verlaufsdokumentation** |
 | DMP-Fallnummer | 3520 | 3520 |
 | Krankenhaus-IK | 856215715 | 856215715 |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum | 06.04.2024  15.mm.jjjj | 06.07.2024  15.mm.jjjj |
 | Einschreibung wegen | Chronischer | Chronischer |
 | Geschlecht | Männlich | Männlich |
-| Allgemeine Anamnese- und Befunddaten | | |
+| **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 1,75 m | 1,75 m |
 | Körpergewicht | 064 kg | 062 kg |
 | Blutdruck | 123 / 72 mmHg | 124 / 76 mmHg |
@@ -663,23 +663,23 @@ Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider Einschreibu
 |  |  | COPD |
 | Nein |  |  |
 | Schulung schon vor der Einschreibung in |  |  |
-| 06.07.2024  15.mm.jjjj | Anamnese- und Befunddaten | Erstdokumentation |
-| Medikamente |  |  |
-| Behandlungsplanung | | |
+| 06.07.2024  15.mm.jjjj | **Anamnese- und Befunddaten** | **Erstdokumentation** |
+| **Medikamente** |  |  |
+| **Behandlungsplanung** | | |
 | Vom Patienten gewünschte | Ernährungsberatung | Körperliches Training |
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung | 06.04.2024  15.mm.jjjj | 06.07.2024  15.mm.jjjj |
 
-| INDIKATIONS | | | |
+| **INDIKATIONS** | | | |
 |---|---|---|---|
-| Anamnese- und Befunddaten | Erstdokumentation | Verlaufsdokumentation | |
+| **Anamnese- und Befunddaten** | **Erstdokumentation** | **Verlaufsdokumentation** | |
 | COPD | Aktueller FEV1-Wert (alle sechs bis zwölf | 060,0 Prozent des | 092,0 Prozent des Soll |
 | COPD | Klinische Einschätzung des | Nein | Nein |
-| Relevante Ereignisse | | | |
+| **Relevante Ereignisse** | | | |
 | COPD | Häufigkeit von Exazerbationen seit der |  | 2 |
 | COPD | Ungeplante, auch notfallmäßige |  | 1 |
 | CR | Ungeplante ambulante oder stationäre |  | 6 |
-| Medikamente | | | |
+| **Medikamente** | | | |
 | COPD | Kurz wirksame Beta-2-Sympathomimetika | Kontraindikation | Dauermedikation |
 | COPD | Lang wirksame Beta-2-Sympathomimetika | Dauermedikation | Kontraindikation |
 | COPD | Lang wirksame Anticholinergika | Keine, Kontraindikation | Keine |
@@ -687,7 +687,7 @@ Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider Einschreibu
 | COPD | Sonstige diagnosespezifische Medikation | Andere | Inhalative |
 | CR | Aktuelle kreuzschmerzbedingte | Ja, länger als 12 Wochen | Ja, weniger als 12 |
 | CR | Aktuelle kreuzschmerzbedingte | Dauerhaft | Bei Bedarf |
-| Schulung | | | |
+| **Schulung** | | | |
 | COPD | COPD-Schulung empfohlen (bei aktueller | Nein | Ja |
 | COPD | Schulung schon vor der Einschreibung in | Nein |  |
 |  |  |  |  |
@@ -720,7 +720,7 @@ Informationsangebote der Krankenkasse INDIKATIONS Relevante Ereignisse PEZIFISCH
 |  |  | CPG Item 5: Kreuzschmerzbedingte | 5 |
 |  | | | |
 |  | CR |  | Beendigung der DMP-Teilnahme |
-|  | Behandlungsplanung / Sonstige Behandlung |  |  |
+|  | **Behandlungsplanung / Sonstige Behandlung** |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -733,7 +733,7 @@ Informationsangebote der Krankenkasse INDIKATIONS Relevante Ereignisse PEZIFISCH
 | CR | Bereits vor Einschreibung in das DMP an | Nein |  |
 | CR | Kreuzschmerz-spezifische Schulung | Nein | Ja |
 | CR | Kreuzschmerz-spezifische Schulung |  | Bei letzter |
-| Behandlungsplanung / Sonstige Behandlung | | | |
+| **Behandlungsplanung / Sonstige Behandlung** | | | |
 | COPD | Empfehlung zum Tabakverzicht | Ja |  |
 | COPD | Empfehlung zur Teilnahme an | Ja |  |
 | COPD | An einem Tabakentwöhnungsprogram |  | Ja |
@@ -756,11 +756,11 @@ einer multimodalen Schulung teilgenommen empfohlen (bei aktueller Dokumentation)
 
 |  |  |
 |---|---|
-| Prüffall-ID | 3514 |
-| Testziel | › |
-| Voraussetzung | › |
-| Prüfunterlagen | ›   › |
-| Hinweis | › |
+| **Prüffall-ID** | 3514 |
+| **Testziel** | › |
+| **Voraussetzung** | › |
+| **Prüfunterlagen** | ›   › |
+| **Hinweis** | › |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -770,22 +770,22 @@ Die Personalien zu dem Testfall sind frei wählbar.
 
 - **2.** **Anlegen einer Erstdokumentation:**
 
-| INDIKATIONSÜBERGREIFENDE | | |
+| **INDIKATIONSÜBERGREIFENDE** | | |
 |---|---|---|
-| Administrative Daten | Erstdokumentation | Aktion |
+| **Administrative Daten** | **Erstdokumentation** | **Aktion** |
 | DMP-Fallnummer | 3514 |  |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum | 06.04.2024  15.mm.jjjj |  |
 | Einschreibung wegen | Rückenschmerz |  |
 | Geschlecht | Je nach Auswahl des |  |
-| Allgemeine Anamnese- und Befunddaten | | |
+| **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 1,80 m |  |
 | Körpergewicht | 819 kg |  |
 | Blutdruck | 85 / 120 mmHg |  |
 | Raucher |  |  |
 | Begleiterkrankungen |  | Nr. 1 |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Vom Patienten gewünschte Informationsangebote der | Körperliches Training |  |
 | Dokumentationsintervall | Monatsweise | Nr. 2 |
 
@@ -793,18 +793,18 @@ Kontrolle der softwareseitigen Erkennung von Fehleingaben Patient oder Patientin
 
 ---
 
-| INDIKATIONS | | |
+| **INDIKATIONS** | | |
 |---|---|---|
-| Relevante Ereignisse | | |
+| **Relevante Ereignisse** | | |
 | Ungeplante ambulante oder stationäre | 10 | Nr.3 |
-| Medikamente | | |
+| **Medikamente** | | |
 | Aktuelle kreuzschmerzbedingte Schmerzmedikation: | Ja | Nr. 4 |
 | Aktuelle kreuzschmerzbedingte Schmerzmedikation: | Bei Bedarf, Nein | Nr. 5 |
-| Schulung | | |
+| **Schulung** | | |
 | Bereits vor Einschreibung in das DMP an einer | Nein |  |
 | Kreuzschmerz-spezifische Schulung empfohlen (bei | Ja |  |
 | Kreuzschmerz-spezifische Schulung wahrgenommen | Ja | Nr. 6 |
-| Sonstige Behandlung | Erstdokumentation | Aktion |
+| **Sonstige Behandlung** | **Erstdokumentation** | **Aktion** |
 | Regelmäßig körperlich aktiv | Ja |  |
 | CPG Item 3: Durchschnittliche Stärke der Kreuzschmerzen | 11 | Nr. 7 |
 | CPG Item 5: Kreuzschmerzbedingte Beeinträchtigung der | 1,5 | Nr. 8 |
@@ -819,32 +819,32 @@ SPEZIFISCHE DATEN kreuzschmerzbedingte Akutbehandlung seit der letzten Dokumenta
 
 - **4.** **Anlegen einer Verlaufsdokumentation**
 
-| INDIKATIONSÜBERGREIFENDE | | |
+| **INDIKATIONSÜBERGREIFENDE** | | |
 |---|---|---|
-| Administrative Daten | Verlaufsdokumentation | Aktion |
+| **Administrative Daten** | **Verlaufsdokumentation** | **Aktion** |
 | DMP-Fallnummer | 3514 |  |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum | 06.07.2024  15.mm.jjjj |  |
 | Einschreibung wegen | Chronischer |  |
 | Geschlecht | Je nach Auswahl des |  |
-| Allgemeine Anamnese- und Befunddaten | | |
+| **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 1,88 m |  |
 | Körpergewicht | 082 kg |  |
 | Blutdruck | 126 / 83 mmHg |  |
 | Raucher | Nein |  |
 | Begleiterkrankungen | Keine der genannten |  |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Vom Patienten gewünschte Informationsangebote der | Nicht möglich | Nr. 11 |
 | Dokumentationsintervall | Quartalsweise |  |
 | Datum der Erstellung | 06.07.2024  15.mm.jjjj |  |
 
-| INDIKATIONS | | |
+| **INDIKATIONS** | | |
 |---|---|---|
-|  | Verlaufsdokumentation | Aktion |
-| Relevante Ereignisse | | |
+|  | **Verlaufsdokumentation** | **Aktion** |
+| **Relevante Ereignisse** | | |
 | Ungeplante ambulante oder stationäre |  | Nr. 12 |
-| Medikamente | | |
+| **Medikamente** | | |
 | Aktuelle kreuzschmerzbedingte Schmerzmedikation: | Ja | Nr. 13 |
 | Aktuelle kreuzschmerzbedingte Schmerzmedikation: | Bei Bedarf |  |
 |  | | |
@@ -870,11 +870,11 @@ DATEN Krankenkasse Rückenschmerz Erkrankungen SPEZIFISCHE DATEN kreuzschmerzbed
 |  | | |
 |  |  |  |
 |  |  |  |
-| Schulung | | |
+| **Schulung** | | |
 | Bereits vor Einschreibung in das DMP an einer | Nein | Nr. 14 |
 | Kreuzschmerz-spezifische Schulung empfohlen (bei | Nein |  |
 | Kreuzschmerz-spezifische Schulung wahrgenommen | Ja |  |
-| Sonstige Behandlung | | |
+| **Sonstige Behandlung** | | |
 | Regelmäßig körperlich aktiv | Ja |  |
 | CPG Item 3: Durchschnittliche Stärke der Kreuzschmerzen | 3 |  |
 | CPG Item 5: Kreuzschmerzbedingte Beeinträchtigung der | 2 |  |
@@ -891,41 +891,41 @@ multimodalen Schulung teilgenommen aktueller Dokumentation) in den letzten drei 
 
 |  |  |
 |---|---|
-| Prüffall-ID | 3530 |
-| Testziel | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
-| Voraussetzung |  |
-| Prüfunterlagen | Dokumentieren Sie durch Videos die Eingaben einschließlich der Ergebnisse nach  einer möglichen Hinweissteuerung. |
-| Hinweis | Dieser Testfall ist unterteilt in vier Szenarien |
+| **Prüffall-ID** | 3530 |
+| **Testziel** | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | Dokumentieren Sie durch Videos die Eingaben einschließlich der Ergebnisse nach  einer möglichen Hinweissteuerung. |
+| **Hinweis** | Dieser Testfall ist unterteilt in vier Szenarien |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-| SZENARIEN |
-|---|
-| Szenario 1 |
-| › Fragebogens einer  KBV_ITA_VGEX_Anforderungskatalog_eDMP). |
-| Szenario 2 |
-| › › • Erstdokumentation • Akz. 1) • • Einschreibung in das eDMP chronischer Rückenschmerz fortgefahren werden soll (siehe  KBV_ITA_VGEX_Anforderungskatalog_eDMP). |
-| Szenario 3 |
-| › › • • jeweils die nähere Erläuterung gemäß Anforderung KP1-46 anzeigt wird  (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP). |
-|  |
-|  |
-| ) |
+\| **SZENARIEN** |
+\|---|
+\| **Szenario 1** |
+\| › Fragebogens einer  KBV_ITA_VGEX_Anforderungskatalog_eDMP). |
+\| **Szenario 2** |
+\| › › •**Erstdokumentation** •**Akz. 1)** • • Einschreibung in das eDMP chronischer Rückenschmerz fortgefahren werden soll (siehe  KBV_ITA_VGEX_Anforderungskatalog_eDMP). |
+\| **Szenario 3** |
+\| › › • • jeweils die nähere Erläuterung gemäß Anforderung KP1-46 anzeigt wird  (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP). |
+\|  |
+\|  |
+\| ) |
 
 Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP Zeigen Sie, dass das System dem Anwender den vollständigen Ausdruck des Chronic Pain Grade (CPG) -  ermöglicht gemäß Anforderung KP1-75 Erfassen Sie die Antworten des CPG-Fragebogens des Prüffalls 3511. Zeigen Sie, dass das System die Eingaben des CPG-Fragebogens auf Plausibilität vor der Erstellung einer  überprüft,  aus dem Schmerz-Score und den Disability-Punkten den Schweregrad nach von Korff ( KP1-76,  ermittelt, dem Anwender den Schweregrad nach von Korff gemäß Anforderung KP1-76 , Punkt 4 anzeigt, den Anwender mit dem vorgegebenen Hinweistext auffordert, zu entscheiden, ob mit der Dieses Szenario ist im Rahmen einer Verlaufsdokumentation durchzuführen. Zeigen Sie, dass das System bei der Auswahl der beiden Parameter  „Aktuelle kreuzschmerzbedingte Schmerzmedikation: Nicht -Opioidanalgetika“   „Beendigung der DMP-Teilnahme vereinbart“
 
 ---
 
-|  |
-|---|
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| SZENARIEN |
-| Szenario 4 |
-| › › • • ). |
+\|  |
+\|---|
+\|  |
+\|  |
+\|  |
+\|  |
+\|  |
+\|  |
+\| **SZENARIEN** |
+\| **Szenario 4** |
+\| › › • • ). |
 
 Dieses Szenario ist mit den Daten der Verlaufsdokumentation von Prüffall 3511  durchzuführen. Zeigen Sie, dass das System nach den aufgeführten Fragen des Akzeptanzkriteriums 1 der Anforderung KP1 -76 das freiwillige Ausfüllen des CPG-Fragebogens möglich ist (KP1-77, Akz. 1),  dem Anwender der Schweregrad nach von Korff gemäß Anforderung KP1 -77, Akz. 2 anzeigt wird (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP
 
@@ -935,11 +935,11 @@ Dieses Szenario ist mit den Daten der Verlaufsdokumentation von Prüffall 3511  
 
 |  | |
 |---|---|
-| Prüffall-ID | 3540 |
-| Testziel | › ) |
-| Voraussetzung | › |
-| Prüfunterlagen | › |
-| Hinweis | › |
+| **Prüffall-ID** | 3540 |
+| **Testziel** | › ) |
+| **Voraussetzung** | › |
+| **Prüfunterlagen** | › |
+| **Hinweis** | › |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -953,7 +953,7 @@ Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 
 |  |  |
 |---|---|
-| Administrative Daten |  |
+| **Administrative Daten** |  |
 | DMP | chronischer Rückenschmerz |
 | DMP-Fallnummer | 1010 |
 | Datum | 05.04.2023  15.10.2026 |
@@ -999,17 +999,17 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 |  |  |
 |---|---|
-| Prüffall-ID | TDV 3518 |
-| Testziel | › |
-| Voraussetzung | › |
-| Prüfunterlagen | › |
-| Hinweis | › |
+| **Prüffall-ID** | TDV 3518 |
+| **Testziel** | › |
+| **Voraussetzung** | › |
+| **Prüfunterlagen** | › |
+| **Hinweis** | › |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
 - **1.**
 
-| CPG-FRAGEBOGEN |  | |
+| **CPG-FRAGEBOGEN** |  | |
 |---|---|---|
 | Fragen | Erstdokumentation | Verlaufsdokumentation |
 | Frage 1: Wie würden Sie Ihre | 7 | 4 |
@@ -1029,38 +1029,38 @@ Anlage einer Erstdokumentation mit der Schnittstellenversion 1 01 CR-Dokumentati
 
 |  | Dauerhaft | |
 |---|---|---|
-|  | CPG-FRAGEBOGEN |  |
+|  | **CPG-FRAGEBOGEN** |  |
 |  |  |  |
 |  |  |  |
 |  |  | Dokumentationsintervall |
 |  | Datum der Erstellung |  |
 |  |  |  |
-| CPG-FRAGEBOGEN |  | |
+| **CPG-FRAGEBOGEN** |  | |
 | Frage 6: In welchem Maße haben Rückenschmerzen in | 6 | 6 |
 | Frage 7: In welchem Maße haben Rückenschmerzen in | 5 | 2 |
 
 - **3.**
 
-| INDIKATIONSÜBERGREIFENDE DATEN | |
+| **INDIKATIONSÜBERGREIFENDE DATEN** | |
 |---|---|
-| Administrative Daten | Erstdokumentation |
+| **Administrative Daten** | **Erstdokumentation** |
 | DMP-Fallnummer | TDV3518 |
 | Krankenhaus-IK |  |
 | Dokumentation in Vertretung erstellt |  |
 | Datum | 05.04.2022 |
 | Einschreibung wegen | Depression |
 | Geschlecht | Weiblich |
-| Allgemeine Anamnese- und Befunddaten | |
+| **Allgemeine Anamnese- und Befunddaten** | |
 | Körpergröße | 1,60 m |
 | Körpergewicht | 60 kg |
 | Blutdruck | 120 / 80 mmHg |
 | Raucher | Nein |
 | Begleiterkrankungen | Keine der genannten |
-| Behandlungsplanung | |
+| **Behandlungsplanung** | |
 | Vom Patienten gewünschte Informationsangebote der Krankenkasse |  |
 | Dokumentationsintervall | Quartalsweise |
 | Datum der Erstellung | 05.04.2022 |
-| Medikamente | |
+| **Medikamente** | |
 | Aktuelle kreuzschmerzbedingte | Ja, länger als 12 Wochen |
 | Aktuelle kreuzschmerzbedingte Schmerzmedikation: Nicht | Dauerhaft |
 |  |  |
@@ -1102,13 +1102,13 @@ den letzten 3 Monaten Ihre Freizeitaktivitäten  oder Unternehmungen im Familien
 |  |  |
 |  |  |
 | Dauer der aktuellen depressiven Episode | Mehr als zwei Jahre |
-| Nicht-medikamentöse und medikamentöse Behandlung | |
+| **Nicht-medikamentöse und medikamentöse Behandlung** | |
 | Aktuelle Psychotherapie | Ja |
 | Aktuelle medikamentöse Therapie mit Antidepressiva | Aktuell andauernd, seit |
-| Schulung | |
+| **Schulung** | |
 | Bereits vor Einschreibung in das DMP an einer multimodalen Schulung | Nein |
 | Kreuzschmerz-spezifische Schulung empfohlen (bei aktueller | Ja |
-| Sonstige Behandlung | |
+| **Sonstige Behandlung** | |
 | Regelmäßig körperlich aktiv | Nicht möglich |
 | CPG Item 3: Durchschnittliche Stärke der Kreuzschmerzen in den letzten | Automatische Übernahme aus |
 | CPG Item 5: Kreuzschmerzbedingte Beeinträchtigung der alltäglichen | Automatische Übernahme aus |
@@ -1125,28 +1125,28 @@ teilgenommen Dokumentation) drei Monaten Aktivitäten (Ankleiden, Waschen, Essen
 
 ## PRÜFFALL 10 – ERSATZVERFAHREN
 
-| PERSONALIEN | | |
+| **PERSONALIEN** | | |
 |---|---|---|
-| 3100 | Namenszusatz |  |
-| 3120 | Vorsatzwort | von und zu |
-| 3101 | Name | Oldenburg |
-| 3102 | Vorname | Kai |
-| 3103 | Geburtsdatum | 31.03.2001 |
-| 3104 | Titel |  |
-| 3119 | Versicherten_ID | X114761483 |
-| 3107 | Straße | Hauptstraße |
-| 3109 | Hausnummer | 300 |
-| 3112 | PLZ | 50870 |
-| 3114 | Wohnsitzländercode |  |
-| 3113 | Ort | Köln |
-| 3116 | WOP | 38 |
-| 3108 | Versichertenart | 1 |
-| 3110 | Geschlecht | M |
-| 4133 | Versicherungsschutz Beginn |  |
-| 4110 | Versicherungsschutz Ende |  |
-| 4111 | Kostentraegerkennung | 104212505 |
-| 4131 | BesonderePersonengruppe | 00 |
-| 4132 | DMP_Kennzeichnung | 04 |
+| **3100** | **Namenszusatz** |  |
+| **3120** | **Vorsatzwort** | von und zu |
+| **3101** | **Name** | Oldenburg |
+| **3102** | **Vorname** | Kai |
+| **3103** | **Geburtsdatum** | 31.03.2001 |
+| **3104** | **Titel** |  |
+| **3119** | **Versicherten_ID** | X114761483 |
+| **3107** | **Straße** | Hauptstraße |
+| **3109** | **Hausnummer** | 300 |
+| **3112** | **PLZ** | 50870 |
+| **3114** | **Wohnsitzländercode** |  |
+| **3113** | **Ort** | Köln |
+| **3116** | **WOP** | 38 |
+| **3108** | **Versichertenart** | 1 |
+| **3110** | **Geschlecht** | M |
+| **4133** | **Versicherungsschutz Beginn** |  |
+| **4110** | **Versicherungsschutz Ende** |  |
+| **4111** | **Kostentraegerkennung** | 104212505 |
+| **4131** | **BesonderePersonengruppe** | 00 |
+| **4132** | **DMP_Kennzeichnung** | 04 |
 
 / Version: 1.03 / 31. März 2026
 
@@ -1157,7 +1157,7 @@ teilgenommen Dokumentation) drei Monaten Aktivitäten (Ankleiden, Waschen, Essen
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 | KBV_ITA_VGEX_Anforderungskatalog_eDMP | Anforderungskatalog eDMP |
 | EXT_ITA_VGEX_Plausi_eDMP_Ruecken | Plausibilität eDMP chronischer Rückenschmerz |
 | KBV_ITA_VHEX_CPG | CPG-Fragebogen zur Bestimmung des |
@@ -1188,10 +1188,14 @@ Testschlüssel Schweregrades nach Korff Dokumentationsdaten des indikationsüber
 
 ---
 
-**Ansprechpartner:**
+| **Ansprechpartner:** |  |
+|---|---|
+| Dezernat | Digitalisierung und IT |
+| IT in der | Arztpraxis |
+| Tel.: 030 | 4005-2077, pruefstelle@kbv.de |
+| Kassenärztliche | Bundesvereinigung |
+| Herbert-Lewin-Platz | 2, 10623 Berlin |
+| pruefstelle@kbv.de, | www.kbv.de |
+| Seite 31 von 31 | / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz / Version: 1.03 / 31. März 2026 |
 
-Dezernat Digitalisierung und IT
-
-IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
-
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, pruefstelle@kbv.de Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin

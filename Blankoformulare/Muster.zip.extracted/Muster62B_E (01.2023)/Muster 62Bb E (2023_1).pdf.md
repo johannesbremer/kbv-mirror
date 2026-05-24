@@ -4,10 +4,7 @@
 
 **II. Erforderlicher Leistungsumfang der AKI**
 
-## Verordnung
-
-## außerklinischer Intensivpflege
-
+## Verordnung außerklinischer Intensivpflege
 Verordnungsrelevante Diagnose(n) ***(ICD-10-Code)***
 
 Erst-

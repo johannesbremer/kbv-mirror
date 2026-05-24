@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 9. SEPTEMBER 2025   VERSION: 1.62   DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 9. SEPTEMBER 2025   VERSION: 1.62   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # PRÜFPAKET ELEKTRONISCHE  ARBEITSUNFÄHIGKEITSBESCHEINIGUNG
@@ -69,7 +69,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.62 | 09.09.2025 | KBV | Korrektur des XML-Verweises für |  | 8 |
 | 1.61 | 03.09.2025 | KBV | Klarstellung der Anweisung von |  | 15 |
@@ -84,7 +84,7 @@ Ernesto Müller Prüffall 08 eAU-FHIR-Version 1.2.0  Praxisstammdaten des Testzi
 
 ---
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 |  |  |  |  | Aufnahme Testdatenvalidierung | 16 |
 | 1.00 | 01.07.2020 | KBV | Erstellung des Prüfpaketes |  | Alle |
@@ -249,13 +249,13 @@ Verzeichnis die folgenden XML-Dateien mit Versichertenstammdaten:
 
 Prüffälle als XML-Dateien
 
-| NAME | VERZEICHNISNAME |
+| **NAME** | **VERZEICHNISNAME** |
 |---|---|
-| Karl-Friederich Schaumberg | XML_01 |
-| Brigitte Althaus | XML_05 |
-| Viktor Müller | XML_09 |
-| Ingrid Schimmelpfennig-Hammerschmidt | XML_37 |
-| Ernesto Müller | XML_51  XML_50 |
+| **Karl-Friederich Schaumberg** | XML_01 |
+| **Brigitte Althaus** | XML_05 |
+| **Viktor Müller** | XML_09 |
+| **Ingrid Schimmelpfennig-Hammerschmidt** | XML_37 |
+| **Ernesto Müller** | XML_51  XML_50 |
 
 **Anmerkung:**
 
@@ -263,67 +263,67 @@ Die Verwendung einer Import-Schnittstelle für die XML-Dateien ist nur für Prü
 
 **1.6.4** **Praxisdaten/ Arztstempel**
 
-| ARZT 1 |  |
+| **ARZT 1** |  |
 |---|---|
-| Bezeichnung | Inhalt/ Bedingung zum Inhalt |
-| Typ | Arzt |
-| Lebenslange Arztnummer (LANR) | 838382201 |
-| ASV-Teamnummer | 001234566 |
-| Nachname | <kann beliebig gewählt werden> |
-| Vorname | <kann beliebig gewählt werden> |
-| Titel | Dr. |
+| **Bezeichnung** | **Inhalt/ Bedingung zum Inhalt** |
+| **Typ** | Arzt |
+| **Lebenslange Arztnummer (LANR)** | 838382201 |
+| **ASV-Teamnummer** | 001234566 |
+| **Nachname** | <kann beliebig gewählt werden> |
+| **Vorname** | <kann beliebig gewählt werden> |
+| **Titel** | Dr. |
 
 Federmannssohn
 
 ---
 
-| ARZT 1 |  |
+| **ARZT 1** |  |
 |---|---|
-| Namenzusatz | <optionale Angabe, kann beliebig gewählt werden> |
-| Vorsatzwort | <optionale Angabe, kann beliebig gewählt werden> |
-| Berufsbezeichnung | Chefärztin |
-| Betriebsstättennummer (BSNR) | 241234601 |
-| Name der Betriebsstätte | Praxis Annie More |
-| Straße und Hausnummer | <kann beliebig gewählt werden> |
-| Adresszusatz | <optionale Angabe, kann beliebig gewählt werden> |
-| PLZ/Ort | <kann beliebig gewählt werden> |
-| Wohnsitzländercode | D |
-| Telefon | <kann beliebig gewählt werden> |
-| Telefax | <kann beliebig gewählt werden> |
-| E-Mail-Adresse | AM@Testpraxis.de |
+| **Namenzusatz** | <optionale Angabe, kann beliebig gewählt werden> |
+| **Vorsatzwort** | <optionale Angabe, kann beliebig gewählt werden> |
+| **Berufsbezeichnung** | Chefärztin |
+| **Betriebsstättennummer (BSNR)** | 241234601 |
+| **Name der Betriebsstätte** | Praxis Annie More |
+| **Straße und Hausnummer** | <kann beliebig gewählt werden> |
+| **Adresszusatz** | <optionale Angabe, kann beliebig gewählt werden> |
+| **PLZ/Ort** | <kann beliebig gewählt werden> |
+| **Wohnsitzländercode** | D |
+| **Telefon** | <kann beliebig gewählt werden> |
+| **Telefax** | <kann beliebig gewählt werden> |
+| **E-Mail-Adresse** | AM@Testpraxis.de |
 
-| ARZT 2 (IN WEITERBILDUNG) |  |
+| **ARZT 2 (IN WEITERBILDUNG)** |  |
 |---|---|
-| Bezeichnung | Inhalt/ Bedingung zum Inhalt |
-| Typ | Arzt in Weiterbildung |
-| Lebenslange Arztnummer (LANR) | 728382503 |
-| Nachname | <kann beliebig gewählt werden> |
-| Vorname | <kann beliebig gewählt werden> |
-| Titel | Dr. |
-| Namenzusatz | <kann beliebig gewählt werden> |
-| Vorsatzwort | <kann beliebig gewählt werden> |
-| Berufsbezeichnung | Arzt |
-| Betriebsstättennummer (BSNR) | 241234601 |
-| Name der Betriebsstätte | Praxis Annie More |
-| Straße und Hausnummer | <kann beliebig gewählt werden> |
-| Adresszusatz | <optionale Angabe, kann beliebig gewählt werden> |
-| PLZ/Ort | <kann beliebig gewählt werden> |
-| Wohnsitzländercode | D |
-| Telefon | <kann beliebig gewählt werden> |
-| Telefax | <kann beliebig gewählt werden> |
-| E-Mail-Adresse | AM@Testpraxis.de |
+| **Bezeichnung** | **Inhalt/ Bedingung zum Inhalt** |
+| **Typ** | Arzt in Weiterbildung |
+| **Lebenslange Arztnummer (LANR)** | 728382503 |
+| **Nachname** | <kann beliebig gewählt werden> |
+| **Vorname** | <kann beliebig gewählt werden> |
+| **Titel** | Dr. |
+| **Namenzusatz** | <kann beliebig gewählt werden> |
+| **Vorsatzwort** | <kann beliebig gewählt werden> |
+| **Berufsbezeichnung** | Arzt |
+| **Betriebsstättennummer (BSNR)** | 241234601 |
+| **Name der Betriebsstätte** | Praxis Annie More |
+| **Straße und Hausnummer** | <kann beliebig gewählt werden> |
+| **Adresszusatz** | <optionale Angabe, kann beliebig gewählt werden> |
+| **PLZ/Ort** | <kann beliebig gewählt werden> |
+| **Wohnsitzländercode** | D |
+| **Telefon** | <kann beliebig gewählt werden> |
+| **Telefax** | <kann beliebig gewählt werden> |
+| **E-Mail-Adresse** | AM@Testpraxis.de |
 
 
 ---
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF01 |
-| Testziel | Erstellung einer eAU (Erstbescheinigung) für den Patienten |
-| Voraussetzung | ›  › Patient „Karl |
-| Aktion |  |
-| Einzureichende |  |
-| Hinweis | Für die Zertifizierung sind die einzureichenden XML |
+| **Prüffall-ID** | PF01 |
+| **Testziel** | Erstellung einer eAU (Erstbescheinigung) für den Patienten |
+| **Voraussetzung** | ›  › Patient „Karl |
+| **Aktion** |  |
+| **Einzureichende** |  |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML |
 
 # 2 PRÜFFÄLLE
 
@@ -348,22 +348,22 @@ Es muss die Möglichkeit bestehen, von den Ein- und Ausgabemasken des zu prüfen
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF02 |
-| Testziel | Erstellung einer eAU (Folge |
-| Voraussetzung | ›  ›  › Patient „Karl |
-| Aktion |  |
-| Einzureichende |  |
-| Hinweis | Für die Zertifizierung sind die einzureichenden XML |
+| **Prüffall-ID** | PF02 |
+| **Testziel** | Erstellung einer eAU (Folge |
+| **Voraussetzung** | ›  ›  › Patient „Karl |
+| **Aktion** |  |
+| **Einzureichende** |  |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML |
 
 **Tabelle 2: Prüffalltabelle**
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF03 |
-| Testziel | Stornierung der eAU aus PF02 |
-| Voraussetzung | ›  › |
-| Aktion |  |
-| Einzureichende |  |
+| **Prüffall-ID** | PF03 |
+| **Testziel** | Stornierung der eAU aus PF02 |
+| **Voraussetzung** | ›  › |
+| **Aktion** |  |
+| **Einzureichende** |  |
 
 **Folgebescheinigung für Patient „Karl-Friederich Schaumberg**
 
@@ -377,18 +377,18 @@ Prüfunterlagen bescheinigung) für den Patienten „ Karl-Friederich Schaumberg
 |  |  |
 |---|---|
 |  |  |
-| Hinweis | Für die Zertifizierung sind die einzureichenden XML |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML |
 
 **Tabelle 3: Prüffalltabelle**
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF04 |
-| Testziel | Erstellung einer eAU (Folgebescheinigung) für den Patienten „ |
-| Voraussetzung | › ›  › Patient „Karl |
-| Aktion |  |
-| Einzureichende |  |
-| Hinweis | Für die Zertifizierung sind die einzureichenden XML |
+| **Prüffall-ID** | PF04 |
+| **Testziel** | Erstellung einer eAU (Folgebescheinigung) für den Patienten „ |
+| **Voraussetzung** | › ›  › Patient „Karl |
+| **Aktion** |  |
+| **Einzureichende** |  |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML |
 
 **Tabelle 4: Prüffalltabelle**
 
@@ -403,12 +403,12 @@ Prüfunterlagen bescheinigung) für den Patienten „ Karl-Friederich Schaumberg
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF05 |
-| Testziel | Erstellung einer eAU (Folgebescheinigung) für d |
-| Voraussetzung | ›  › Patientin „Brigitte Althaus“ ist im System ausgewählt |
-| Aktion |  |
-| Einzureichende |  |
-| Hinweis | Für die Zertifizierung sind die einzureichenden XML |
+| **Prüffall-ID** | PF05 |
+| **Testziel** | Erstellung einer eAU (Folgebescheinigung) für d |
+| **Voraussetzung** | ›  › Patientin „Brigitte Althaus“ ist im System ausgewählt |
+| **Aktion** |  |
+| **Einzureichende** |  |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML |
 
 **Tabelle 5: Prüffalltabelle**
 
@@ -419,12 +419,12 @@ Prüfunterlagen ie Patientin Arzt 1 ist als ausstellender Arzt im System ausgew�
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF06 |
-| Testziel | Erstellung einer eAU (Folgebescheinigung |
-| Voraussetzung | ›  › Patient „Viktor Müller“ ist im System ausgewählt |
-| Aktion | Der Anwender visualisiert die erzeugte eAU mit dem |
-| Einzureichende |  |
-| Hinweis | Für die Zertifizierung sind die einzureichenden XML |
+| **Prüffall-ID** | PF06 |
+| **Testziel** | Erstellung einer eAU (Folgebescheinigung |
+| **Voraussetzung** | ›  › Patient „Viktor Müller“ ist im System ausgewählt |
+| **Aktion** | Der Anwender visualisiert die erzeugte eAU mit dem |
+| **Einzureichende** |  |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML |
 
 **Tabelle 6: Prüffalltabelle**
 
@@ -435,23 +435,23 @@ Prüfunterlagen ) für den Patienten „ Arzt 1 als ausstellender Arzt ist im Sy
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF07 |
-| Testziel | Erhalt und Darstellung einer Fehlernachricht der Krankenkasse zu PF06 |
-| Voraussetzung | PF06 ist im System angelegt und als versendet markiert. |
-| Datei | Die zu verwendende Fehlernachricht ist EEAU0_eAUFehler |
-| Aktion |  |
-| Einzureichende | 1. Screenshot der Fehlermeldung im Kontext des Importes der Fehlernachricht. |
+| **Prüffall-ID** | PF07 |
+| **Testziel** | Erhalt und Darstellung einer Fehlernachricht der Krankenkasse zu PF06 |
+| **Voraussetzung** | PF06 ist im System angelegt und als versendet markiert. |
+| **Datei** | Die zu verwendende Fehlernachricht ist EEAU0_eAUFehler |
+| **Aktion** |  |
+| **Einzureichende** | 1. Screenshot der Fehlermeldung im Kontext des Importes der Fehlernachricht. |
 
 **Tabelle 7: Prüffalltabelle**
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF08 |
-| Testziel | Erstellung einer eAU (Folgebescheinigung) für den Patienten |
-| Voraussetzung | ›  ›  › Patient „Enesto Müller“ ist |
-| Aktion |  |
-| Einzureichende |  |
-| Hinweis | Wenn ein Arzt in Weiterbildung eine AU ausstellt, dann muss ebenfalls der |
+| **Prüffall-ID** | PF08 |
+| **Testziel** | Erstellung einer eAU (Folgebescheinigung) für den Patienten |
+| **Voraussetzung** | ›  ›  › Patient „Enesto Müller“ ist |
+| **Aktion** |  |
+| **Einzureichende** |  |
+| **Hinweis** | Wenn ein Arzt in Weiterbildung eine AU ausstellt, dann muss ebenfalls der |
 
 Prüfunterlagen -Kasse-Arzt_96d6a790- afc2-4556-ab73-301e51a7bf30.xml [Testdaten_eAU] Bitte fügen Sie den Bundle-Identifier aus PF06 in das Feld extension(https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance _Practitioner_Bundle_Identifier).value der zur Verfügung gestellten Fehlernachricht ein.  2. Der Anwender liest die Fehlernachricht der Krankenkasse ein und bekommt die entsprechenden Informationen angezeigt. Prüfunterlagen Ernesto Müller Arzt 2 ist als ausstellender Arzt im System ausgewählt Arzt 1 ist als verantwortlicher Arzt für Arzt 2 im System ausgewählt im System ausgewählt 1. Der Anwender erstellt eine Arbeitsunfähigkeitsbescheinigung mit den folgenden Daten: a) Ausstellungsdatum: <kann beliebig gewählt werden> b) Voraussichtlich-AU-bis: <muss größer als das Ausstellungsdatum sein> c) Festgestellt-am: <muss dem Ausstellungsdatum entsprechen> d) Endbescheinigung: Ja e) ICD-10-GM-Kode = S02.4 G L f) 7. AU-Woche: Ja Folgebescheinigung: Ja 2. Der Anwender signiert die eAU. 3. Der Anwender versendet die eAU. 1. XML-Datei der eAU verantwortlich zeichnende Arzt in der eAU enthalten sein (siehe P310-09). **Einlesen einer Fehlernachricht**
 
@@ -468,11 +468,11 @@ Prüfunterlagen -Kasse-Arzt_96d6a790- afc2-4556-ab73-301e51a7bf30.xml [Testdaten
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF09 |
-| Testziel | KIM Bestätigungsschreiben der gematik |
-| Voraussetzung | Bestehen des Bestätigungsverfahren der gematik |
-| Einzureichende |  |
-| Hinweis | Sollten Sie bereits das Bestätigungsschreiben für ein anderes Verfahren bei der KBV |
+| **Prüffall-ID** | PF09 |
+| **Testziel** | KIM Bestätigungsschreiben der gematik |
+| **Voraussetzung** | Bestehen des Bestätigungsverfahren der gematik |
+| **Einzureichende** |  |
+| **Hinweis** | Sollten Sie bereits das Bestätigungsschreiben für ein anderes Verfahren bei der KBV |
 
 **Tabelle 9: Prüffalltabelle**
 
@@ -480,10 +480,10 @@ Prüfunterlagen -Kasse-Arzt_96d6a790- afc2-4556-ab73-301e51a7bf30.xml [Testdaten
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF10 |
-| Testziel | Anzeige der erzeugten/versendeten Daten |
-| Voraussetzung | Prüffälle PF01 bis PF 08 wurden durchgeführt |
-| Einzureichende |  |
+| **Prüffall-ID** | PF10 |
+| **Testziel** | Anzeige der erzeugten/versendeten Daten |
+| **Voraussetzung** | Prüffälle PF01 bis PF 08 wurden durchgeführt |
+| **Einzureichende** |  |
 
 **Tabelle 10: Prüffalltabelle**
 
@@ -491,11 +491,11 @@ Prüfunterlagen -Kasse-Arzt_96d6a790- afc2-4556-ab73-301e51a7bf30.xml [Testdaten
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF11 |
-| Testziel | Anzeige des Verhaltens der Software beim Import von fehlerhafter |
-| Voraussetzung | Prüffall PF05 wurde durchgeführt |
-| Datei | Die zu verwendende Fehlernachricht ist EEAU0_eAUFehler |
-| Aktion |  |
+| **Prüffall-ID** | PF11 |
+| **Testziel** | Anzeige des Verhaltens der Software beim Import von fehlerhafter |
+| **Voraussetzung** | Prüffall PF05 wurde durchgeführt |
+| **Datei** | Die zu verwendende Fehlernachricht ist EEAU0_eAUFehler |
+| **Aktion** |  |
 
 **AU eines Arztes in Weiterbildung**
 
@@ -514,7 +514,7 @@ Profile in der Version 1.2.0 zu erstellen.   -Dateien auf Basis der eAU FHIR Pr�
 
 |  |  |
 |---|---|
-| Einzureichende |  |
+| **Einzureichende** |  |
 
 **Tabelle 11: Prüffalltabelle**
 
@@ -522,11 +522,11 @@ Profile in der Version 1.2.0 zu erstellen.   -Dateien auf Basis der eAU FHIR Pr�
 
 |  |  |
 |---|---|
-| Prüffall-ID | PF12 |
-| Testziel | Erzeugung einer Papierausfertigung Krankenkasse mit PDF417-Barcode zur |
-| Voraussetzung | Prüffall PF04 wurde durchgeführt und es ist eine Störung des Versandes aufgetreten. |
-| Aktion |  |
-| Einzureichende |  |
+| **Prüffall-ID** | PF12 |
+| **Testziel** | Erzeugung einer Papierausfertigung Krankenkasse mit PDF417-Barcode zur |
+| **Voraussetzung** | Prüffall PF04 wurde durchgeführt und es ist eine Störung des Versandes aufgetreten. |
+| **Aktion** |  |
+| **Einzureichende** |  |
 
 **Tabelle 12: Prüffalltabelle**
 
@@ -585,7 +585,7 @@ Bitte beachten Sie die folgende Verzeichnisstruktur des zip-Archivs.
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 | KBV_ITA_RLEX_Zert | Zertifizierungsrichtlinie der KBV   https://update.kbv.de/ita- |
 | KBV_ITA_VGEX_Technische_Anlage_eAU | Technische Anlage zur eAU    https://update.kbv.de/ita- |
 | KBV_ITA_VGEX_Technisches_Handbuch_DiMus | Technisches Handbuch Digitale Vordrucke   https://update.kbv.de/ita- |

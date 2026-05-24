@@ -38,169 +38,169 @@
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 5.13 | 13.05.2026 | KBV | Frage zu P3-730 im    Frage zur Anzeige von |  | 32      11 |
-| 5.12 | 02.09.2025 | KBV | Fragestellung zu P3-625 | Klarstellung des | 20 |
-| 5.11 | 15.05.2025 | KBV | Fragestellung zu P3-360 |  | 24 |
-| 5.10 | 05.03.2025 | KBV | Bereitstellungszeitpunkt    Fragestellung zu P3-320    Fragestellung zu P3-141 | Sachverhalt in der | 7        33 |
-| 5.9 | 27.02.2025 | KBV | Klarstellung des |  | 6 |
-| 5.8 | 15.05.2024 | KBV | Klarstellung zu P3-625 |  | 23, 31 |
+| 5.13 | 13.05.2026 | KBV | Frage zu P3-730 im    Frage zur Anzeige von |  | **32 **    **11** |
+| 5.12 | 02.09.2025 | KBV | Fragestellung zu P3-625 | Klarstellung des | **20** |
+| 5.11 | 15.05.2025 | KBV | Fragestellung zu P3-360 |  | **24** |
+| 5.10 | 05.03.2025 | KBV | Bereitstellungszeitpunkt    Fragestellung zu P3-320    Fragestellung zu P3-141 | Sachverhalt in der | **7 **      **33** |
+| 5.9 | 27.02.2025 | KBV | Klarstellung des |  | **6** |
+| 5.8 | 15.05.2024 | KBV | Klarstellung zu P3-625 |  | **23, 31** |
 
 Zusammenhang mit Hilfsmitteln Preisen bei Verbandmittel aufgenommen Akzeptanzkriterium 1.3 aktualisiert der Referenzdatenbank des BfArMs gestrichen aktualisiert Sachverhaltes zur Verordnung von sonstigen Produkten zur Wundbehandlung und P3-730 aufgenommen Sachverhaltes im Zusammenhang mit BTM Verordnung Anforderung geregelt
 
 ---
 
-| BEZUG [1] | FRAGE | ANTWORT |
-| 1 BEZUG [1 | ] | FRAGE |
-| 1 BEZUG [1 | ] | FRAGE |
-| 1 BEZUG [1 | ] | FRAGE |
-| 1 BEZUG [1 | ] | FRAGE |
-| 1 BEZUG [1 | ] | FRAGE |
-| 1 BEZUG [1 | ] | FRAGE |
-| 1 BEZUG [1 | ] | FRAGE |
-| 1 BEZUG [1 | ] | FRAGE |
-| 1 BEZUG [1 | ] | FRAGE |
-| 1 BEZUG [1 | ] | FRAGE |
-| 1 BEZUG [1 | ] | FRAGE |
-| 1 BEZUG [1 | ] | FRAGE |
-| 1 BEZUG [1 | ] | FRAGE |
-| 1 BEZUG [1 | ] | FRAGE |
-| 1 BEZUG [1 | ] | FRAGE |
-| 1 BEZUG [1 | ] | FRAGE |
-| 1 BEZUG [1 | ] | FRAGE |
-| 1 BEZUG [1 | ] | FRAGE |
-| 1 BEZUG [1 | ] | FRAGE |
-| 1 BEZUG [1 | ] | FRAGE |
-| 1 BEZUG [1 | ] | FRAGE |
-| 1 BEZUG [1 | ] | FRAGE |
-| 1 BEZUG [1 | ] | FRAGE |
-| 1 BEZUG [1 | ] | FRAGE |
-| 1 BEZUG [1 | ] | FRAGE |
-| 1 BEZUG [1 | ] | FRAGE |
-| 1 BEZUG [1 | ] | FRAGE |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| 1**BEZUG [**1 | **]** | **FRAGE** |
+\| 1**BEZUG [**1 | **]** | **FRAGE** |
+\| 1**BEZUG [**1 | **]** | **FRAGE** |
+\| 1**BEZUG [**1 | **]** | **FRAGE** |
+\| 1**BEZUG [**1 | **]** | **FRAGE** |
+\| 1**BEZUG [**1 | **]** | **FRAGE** |
+\| 1**BEZUG [**1 | **]** | **FRAGE** |
+\| 1**BEZUG [**1 | **]** | **FRAGE** |
+\| 1**BEZUG [**1 | **]** | **FRAGE** |
+\| 1**BEZUG [**1 | **]** | **FRAGE** |
+\| 1**BEZUG [**1 | **]** | **FRAGE** |
+\| 1**BEZUG [**1 | **]** | **FRAGE** |
+\| 1**BEZUG [**1 | **]** | **FRAGE** |
+\| 1**BEZUG [**1 | **]** | **FRAGE** |
+\| 1**BEZUG [**1 | **]** | **FRAGE** |
+\| 1**BEZUG [**1 | **]** | **FRAGE** |
+\| 1**BEZUG [**1 | **]** | **FRAGE** |
+\| 1**BEZUG [**1 | **]** | **FRAGE** |
+\| 1**BEZUG [**1 | **]** | **FRAGE** |
+\| 1**BEZUG [**1 | **]** | **FRAGE** |
+\| 1**BEZUG [**1 | **]** | **FRAGE** |
+\| 1**BEZUG [**1 | **]** | **FRAGE** |
+\| 1**BEZUG [**1 | **]** | **FRAGE** |
+\| 1**BEZUG [**1 | **]** | **FRAGE** |
+\| 1**BEZUG [**1 | **]** | **FRAGE** |
+\| 1**BEZUG [**1 | **]** | **FRAGE** |
+| 1**BEZUG [**1 | **]** | **FRAGE** |
 |---|---|---|
 | Allgemein | Müssen Vertragsärztinnen und | Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere  Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für  Zusammenfassend sind daher pauschale Aussagen nicht möglich |
-| ANTWORT | Allgemein | Müssen Vertragsärztinnen und |
+| **ANTWORT** | Allgemein | Müssen Vertragsärztinnen und |
 | Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere | Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für  Zusammenfassend sind daher pauschale Aussagen nicht möglich |  |
 |  |  |  |
 |  |  |  |
-| 1 | BEZUG [1 | ]  FRAGE  ANTWORT  Allgemein  Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere  Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für  Zusammenfassend sind daher pauschale Aussagen nicht möglich |
-| ANTWORT | Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten |
+| 1 | **BEZUG [**1 | **]  FRAGE  ANTWORT ** Allgemein  Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere  Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für  Zusammenfassend sind daher pauschale Aussagen nicht möglich |
+| **ANTWORT** | Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten |
 | Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere  Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für | Zusammenfassend sind daher pauschale Aussagen nicht möglich | Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für  Zusammenfassend sind daher pauschale Aussagen nicht möglich |
-| ANTWORT | Allgemein | Müssen Vertragsärztinnen und |
+| **ANTWORT** | Allgemein | Müssen Vertragsärztinnen und |
 | Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere | Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für  Zusammenfassend sind daher pauschale Aussagen nicht möglich |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
-| ANTWORT | Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten |
+| **ANTWORT** | Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten |
 | Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere  Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für | Zusammenfassend sind daher pauschale Aussagen nicht möglich |  |
 |  |  |  |
-| ANTWORT | Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere  Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für  Zusammenfassend sind daher pauschale Aussagen nicht möglich |
+| **ANTWORT** | Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere  Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für  Zusammenfassend sind daher pauschale Aussagen nicht möglich |
 |  |  |  |
-| ANTWORT  Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere  Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für | Zusammenfassend sind daher pauschale Aussagen nicht möglich |
-| ANTWORT | Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere |
+| **ANTWORT ** Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere  Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für | Zusammenfassend sind daher pauschale Aussagen nicht möglich |
+| **ANTWORT** | Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere |
 | Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für  Zusammenfassend sind daher pauschale Aussagen nicht möglich |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
-| ANTWORT  Allgemein  Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten | Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere  Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für | Zusammenfassend sind daher pauschale Aussagen nicht möglich |
+| **ANTWORT ** Allgemein  Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten | Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere  Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für | Zusammenfassend sind daher pauschale Aussagen nicht möglich |
 |  |  |  |
 |  |  |  |
-| ANTWORT | Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere |
+| **ANTWORT** | Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere |
 | Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für  Zusammenfassend sind daher pauschale Aussagen nicht möglich |  |  |
-| ANTWORT | Allgemein | Müssen Vertragsärztinnen und |
+| **ANTWORT** | Allgemein | Müssen Vertragsärztinnen und |
 | Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere | Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für  Zusammenfassend sind daher pauschale Aussagen nicht möglich |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
-| ANTWORT | Allgemein | Müssen Vertragsärztinnen und |
+| **ANTWORT** | Allgemein | Müssen Vertragsärztinnen und |
 | Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere | Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für  Zusammenfassend sind daher pauschale Aussagen nicht möglich |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
-| ANTWORT | Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten |
+| **ANTWORT** | Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten |
 | Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere  Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für | Zusammenfassend sind daher pauschale Aussagen nicht möglich |  |
 |  |  |  |
-| ANTWORT | Allgemein | Müssen Vertragsärztinnen und |
+| **ANTWORT** | Allgemein | Müssen Vertragsärztinnen und |
 | Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere | Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für  Zusammenfassend sind daher pauschale Aussagen nicht möglich |  |
 |  |  |  |
-| ANTWORT | Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere  Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für  Zusammenfassend sind daher pauschale Aussagen nicht möglich |
-| ANTWORT | Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere  Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für  Zusammenfassend sind daher pauschale Aussagen nicht möglich |
-| ANTWORT | Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere |
-| ANTWORT | Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere  Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für  Zusammenfassend sind daher pauschale Aussagen nicht möglich Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere  Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für  Zusammenfassend sind daher pauschale Aussagen nicht möglich |
+| **ANTWORT** | Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere  Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für  Zusammenfassend sind daher pauschale Aussagen nicht möglich |
+| **ANTWORT** | Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere  Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für  Zusammenfassend sind daher pauschale Aussagen nicht möglich |
+| **ANTWORT** | Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere |
+| **ANTWORT** | Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere  Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für  Zusammenfassend sind daher pauschale Aussagen nicht möglich Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere  Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für  Zusammenfassend sind daher pauschale Aussagen nicht möglich |
 |  |  |  |
 |  |  |  |
-| ANTWORT | Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten |
+| **ANTWORT** | Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten |
 | Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere  Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für | Zusammenfassend sind daher pauschale Aussagen nicht möglich |  |
 |  |  |  |
-| 1 | BEZUG [1 | ]  FRAGE  ANTWORT  Allgemein  Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere  Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für |
-|  |  | ANTWORT |
+| 1 | **BEZUG [**1 | **]  FRAGE  ANTWORT ** Allgemein  Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere  Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für |
+|  |  | **ANTWORT** |
 | Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten | Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere |
-| ANTWORT  Allgemein  Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten | Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere  Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für | Zusammenfassend sind daher pauschale Aussagen nicht möglich |
+| **ANTWORT ** Allgemein  Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten | Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere  Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für | Zusammenfassend sind daher pauschale Aussagen nicht möglich |
 |  |  |  |
 |  |  |  |
-| ANTWORT | Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere |
+| **ANTWORT** | Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere |
 | Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für  Zusammenfassend sind daher pauschale Aussagen nicht möglich |  |  |
-| ANTWORT | Allgemein | Müssen Vertragsärztinnen und |
+| **ANTWORT** | Allgemein | Müssen Vertragsärztinnen und |
 |  |  |  |
 |  |  |  |
-| ANTWORT | Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere |
+| **ANTWORT** | Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere |
 | Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für  Zusammenfassend sind daher pauschale Aussagen nicht möglich |  |  |
 |  |  |  |
-| ANTWORT | Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten |
+| **ANTWORT** | Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten |
 | Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere  Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für | Zusammenfassend sind daher pauschale Aussagen nicht möglich |  |
 |  |  |  |
 |  |  |  |
-| ANTWORT | Allgemein | Müssen Vertragsärztinnen und |
+| **ANTWORT** | Allgemein | Müssen Vertragsärztinnen und |
 | Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere | Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für  Zusammenfassend sind daher pauschale Aussagen nicht möglich |  |
 |  |  |  |
-| ANTWORT | Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere  Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für  Zusammenfassend sind daher pauschale Aussagen nicht möglich |
+| **ANTWORT** | Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere  Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für  Zusammenfassend sind daher pauschale Aussagen nicht möglich |
 |  |  |  |
 |  |  |  |
 |  |  |  |
-| ANTWORT | Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten |
+| **ANTWORT** | Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten |
 
 FRAGEN UND ANTWORTEN ZUM ANFORDERUNGSKATALOG NACH § 73 SGB V FÜR VERORDNUNGSSOFTWARE Vertragsärzte für die Verordnung von Arzneimitteln zertifizierte Software verwenden? Verordnungssoftware für alle an der vertragsärztlichen Versorgung teilnehmende Ärztinnen und Ärzte sowie Einrichtungen, die Arzneimittel zu Lasten der GKV verordnen, obligatorisch. Eine „manuelle“ Befüllung einer Arzneimittelverordnung mit der „Schreibfunktion“ des Computers ist grundsätzlich nicht mehr möglich. Die Ziffer 4 -16A der Anlage 2b der Bundesmantelverträge -Ärzte (BMV-Ä), welche die elektronische Arzneimittelverordnung vorsieht, ist insoweit verbindlich. rechtliche Prüfung hat ergeben, dass der Gesetzgeber allerdings davon ausgegangen ist, dass alle an der vertragsärztlichen Versorgung teilnehmende Ärzte und Einrich tungen, die Arzneimittel zu Lasten der GKV verordnen, im Sinne der Wirtschaftlichkeit einen Preisvergleich durchführen müssen. Vor diesem Hintergrund spricht der Sinn und Zweck des § 73 Abs. 9 SGB V im Zusammenhang mit der Normenhistorie dafür, dass auch d ie von ermächtigten Ärztinnen und Ärzten sowie Einrichtungen eingesetzte Software, die im Ergebnis zur Abgabe eines Arzneimittels zu Lasten der GKV führen kann, zertifizierungspflichtig ist.  elektronische Verordnungen ausschließlich eine KBV -zertifizierte Verordnungssoftware zu nutzen. Ausnahmen sieht der § 73 Abs. 9 SGB V nicht vor. , ob eine Zertifizierungspflicht besteht, da diese wiederum abhängig ist von der jeweiligen Versorgungsform der Einrichtung vor Ort (Handelt es sich um vertragsärztliche Versorgung ja oder nein?), welche die Software für Verordnungen nutzt.
 
 ---
 
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
 | Allgemein | Müssen  Psychologischen Psychotherapeutinnen und Psychotherapeuten ist es nach den | Allgemein  Warum richtet sich der |
 | Allgemein | Müssen | Psychologischen Psychotherapeutinnen und Psychotherapeuten ist es nach den |
 | Allgemein | Warum richtet sich der | Der Anforderungskatalog beschreibt die Anforderungen an die elektronischen Programme,  Auch die bisherige Unterscheidung im Rahmen der Softwarezertifizierung entfällt, da die |
 | Allgemein | Ist eine | Nein, eine Zertifizierung für das „eRezept“ ist nur möglich, sofern das  Das separate Verfahren wurde eingeführt, um eine |
 | Allgemein | Kann für die Umsetzung der | Ja, dies ist grundsätzlich zulässig. |
-| BEZUG [ | 1] | FRAGE  ANTWORT  Allgemein  Müssen  Psychologischen Psychotherapeutinnen und Psychotherapeuten ist es nach den  Allgemein  Warum richtet sich der  Der Anforderungskatalog beschreibt die Anforderungen an die elektronischen Programme,  Auch die bisherige Unterscheidung im Rahmen der Softwarezertifizierung entfällt, da die |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** Allgemein  Müssen  Psychologischen Psychotherapeutinnen und Psychotherapeuten ist es nach den  Allgemein  Warum richtet sich der  Der Anforderungskatalog beschreibt die Anforderungen an die elektronischen Programme,  Auch die bisherige Unterscheidung im Rahmen der Softwarezertifizierung entfällt, da die |
 | Allgemein | Müssen | Psychologischen Psychotherapeutinnen und Psychotherapeuten ist es nach den |
 | Allgemein | Warum richtet sich der  Der Anforderungskatalog beschreibt die Anforderungen an die elektronischen Programme,  Auch die bisherige Unterscheidung im Rahmen der Softwarezertifizierung entfällt, da die  Allgemein | Ist eine  Nein, eine Zertifizierung für das „eRezept“ ist nur möglich, sofern das  Das separate Verfahren wurde eingeführt, um eine  Allgemein  Kann für die Umsetzung der  Ja, dies ist grundsätzlich zulässig. Warum richtet sich der  Allgemein  Ist eine  Nein, eine Zertifizierung für das „eRezept“ ist nur möglich, sofern das |
 | Allgemein | Müssen | Psychologischen Psychotherapeutinnen und Psychotherapeuten ist es nach den |
@@ -250,7 +250,7 @@ FRAGEN UND ANTWORTEN ZUM ANFORDERUNGSKATALOG NACH § 73 SGB V FÜR VERORDNUNGSSO
 | Allgemein | Müssen | Psychologischen Psychotherapeutinnen und Psychotherapeuten ist es nach den |
 | Allgemein | Warum richtet sich der  Der Anforderungskatalog beschreibt die Anforderungen an die elektronischen Programme, | Auch die bisherige Unterscheidung im Rahmen der Softwarezertifizierung entfällt, da die  Allgemein |
 | Ist eine | Nein, eine Zertifizierung für das „eRezept“ ist nur möglich, sofern das  Das separate Verfahren wurde eingeführt, um eine | Allgemein |
-| BEZUG [ | 1] | FRAGE  ANTWORT  Allgemein  Müssen  Psychologischen Psychotherapeutinnen und Psychotherapeuten ist es nach den  Allgemein |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** Allgemein  Müssen  Psychologischen Psychotherapeutinnen und Psychotherapeuten ist es nach den  Allgemein |
 |  |  | Allgemein |
 | Müssen | Psychologischen Psychotherapeutinnen und Psychotherapeuten ist es nach den | Allgemein |
 | Allgemein  Müssen  Psychologischen Psychotherapeutinnen und Psychotherapeuten ist es nach den | Allgemein | Warum richtet sich der  Der Anforderungskatalog beschreibt die Anforderungen an die elektronischen Programme,  Auch die bisherige Unterscheidung im Rahmen der Softwarezertifizierung entfällt, da die  Allgemein  Ist eine  Nein, eine Zertifizierung für das „eRezept“ ist nur möglich, sofern das  Das separate Verfahren wurde eingeführt, um eine |
@@ -277,37 +277,37 @@ FRAGEN UND ANTWORTEN ZUM ANFORDERUNGSKATALOG NACH § 73 SGB V FÜR VERORDNUNGSSO
 |  |  |  |
 | Allgemein | Müssen | Psychologischen Psychotherapeutinnen und Psychotherapeuten ist es nach den |
 
-psychologische  zertifizierte Verordnungssoftware verwenden? Anforderungskatalog nur noch an Verordnungssoftware und nicht mehr explizit an Arzneimittel- Datenbanken? alleinige Zertifizierung für das Zertifizierungsverfahren  unabhängig von der Zertifizierung „Verordnung von Arzneimittel“ möglich? eRezept-Funktionalität Modul von Dritten  verwendet werden? gesetzlichen Grundlagen nicht gestattet, Arzneimittelverordnungen vorzunehmen. Sie sind daher auch nicht verpflichtet , eine von der KBV zertifizierte Verordnungssoftware für Arzneimittel einzusetzen. die zur Verordnung genutzt werden  d. h. an die elektronischen Programme, die den gesamten Verordnungsprozess sowie den Medikationsplan abbilden. Dabei ist es für den Anforderungskatalog unerheblich, ob die Verordnungssoftware eine eigene interne Arzneimitteldatenbank oder auf dem Markt verfüg bare externe Arzneimitteldatenbank nutzt. Aus diesem Grund erfolgte die hier notwendige Klarstellung. KBV gemäß dem Anforderungskatalog nach § 73 SGB V zertifiziert und dieser die Anforderungen an Verordnungssoftware in Gänze beschreibt. zu zertifizierende System eine bestehende Zertifizierung für die Verordnung von Arzneimittel (AMV) besitzt oder eine solche anstrebt. Grundsätzlich handelt es sich bei dem eRezept um eine Pflichtfunktionalität des AMV-Anforderungskatalogs, welche durch jede Verordnungssoftware verbindlich umzusetzen ist. stichtagsbezogene Prüfung ausschließlich der eRezept-Funktionalitäten zu ermöglichen, ohne eine vollständige AMV Zertifizierung einzufordern.  Im Rahmen der AMV- bzw. eRezept-Zertifizierung ist es nur relevant, dass alle verpflichtenden Funktionalitäten des Anforderungskataloges und der referenzierten Dokumente umgesetzt sind. Welche ggfs. separaten Systeme hierfür eingesetzt werden, ist nicht maßgeblich. Das zertifizierte System trägt aber ggü. der KBV die Verantwortung, dass alle Funktionalität gemäß den Vorgaben umgesetzt werden.
+psychologische gesetzlichen Grundlagen nicht gestattet, Arzneimittelverordnungen vorzunehmen. Sie sind  zertifizierte daher auch nicht verpflichtet , eine von der KBV zertifizierte Verordnungssoftware für Verordnungssoftware Arzneimittel einzusetzen. verwenden? Anforderungskatalog nur noch an die zur Verordnung genutzt werden  d. h. an die elektronischen Programme, die den Verordnungssoftware und nicht gesamten Verordnungsprozess sowie den Medikationsplan abbilden. Dabei ist es für den mehr explizit an Arzneimittel- Anforderungskatalog unerheblich, ob die Verordnungssoftware eine eigene interne Datenbanken? Arzneimitteldatenbank oder auf dem Markt verfüg bare externe Arzneimitteldatenbank nutzt. Aus diesem Grund erfolgte die hier notwendige Klarstellung. KBV gemäß dem Anforderungskatalog nach § 73 SGB V zertifiziert und dieser die Anforderungen an Verordnungssoftware in Gänze beschreibt. alleinige Zertifizierung zu zertifizierende für das Zertifizierungsverfahren System eine bestehende Zertifizierung für die Verordnung von Arzneimittel (AMV) besitzt  unabhängig von der oder eine solche anstrebt. Grundsätzlich handelt es sich bei dem eRezept um eine Zertifizierung „Verordnung von Pflichtfunktionalität des AMV-Anforderungskatalogs, welche durch jede Arzneimittel“ möglich? Verordnungssoftware verbindlich umzusetzen ist. stichtagsbezogene Prüfung ausschließlich der eRezept-Funktionalitäten zu ermöglichen, ohne eine vollständige AMV Zertifizierung einzufordern.  Im Rahmen der AMV- bzw. eRezept-Zertifizierung ist es eRezept-Funktionalität nur relevant, dass alle verpflichtenden Funktionalitäten des Anforderungskataloges und der Modul von Dritten  verwendet referenzierten Dokumente umgesetzt sind. Welche ggfs. separaten Systeme hierfür werden? eingesetzt werden, ist nicht maßgeblich. Das zertifizierte System trägt aber ggü. der KBV die Verantwortung, dass alle Funktionalität gemäß den Vorgaben umgesetzt werden.
 
 ---
 
-| Allgemein /  Verordnung und Kennzeichnung  Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz | Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die  Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz | › |
-| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
-| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
-| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
-| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
-| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
-| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
-| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
-| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
-| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
-| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
-| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
-| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
-| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
-| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
-| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
-| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
-| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
-| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
-| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
-| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
-| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
-| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
-| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
-| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
-| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
-| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
+\| Allgemein /  Verordnung und Kennzeichnung  Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz | Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die  Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz | › |
+\| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
+\| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
+\| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
+\| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
+\| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
+\| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
+\| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
+\| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
+\| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
+\| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
+\| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
+\| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
+\| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
+\| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
+\| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
+\| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
+\| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
+\| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
+\| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
+\| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
+\| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
+\| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
+\| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
+\| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
+\| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
+\| Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
 | Allgemein /  Verordnung und Kennzeichnung | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  Zur Unterscheidung dieser betroffenen Produkte von denen, welche nicht unter die | Sonstige Produkte zur Wundbehandlung, die unter die Übergangsregelung des § 31 Absatz  › |
 |---|---|---|
 | › | gekennzeichnet und damit zulasten der gesetzlichen Krankenkassen auf Muster 16  Sonstige Produkte zur Wundbehandlung, die | Absatz 1a Satz 5 SGB V fallen (Markteinführung nach dem 1. Dezember 2020):  ›  › |
@@ -396,156 +396,156 @@ P2-110 von sonstigen Produkten zur Wundbehandlung im Rahmen der Übergangsregelu
 
 ---
 
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
-| Einleitung | produktbezogen im Workflow Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein | Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130 |
-| Einleitung | produktbezogen im Workflow | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein |
+| Einleitung | **produktbezogen im Workflow** Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein | Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130 |
+| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein |
 | Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne | P2-130 | Die Referenzdatenbank des |
 | Diese unterschiedlichen | Wie sollen Softwarehersteller mit  Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem | Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  › |
-| · | · |  |
-| BEZUG [ | 1] | FRAGE  ANTWORT  Einleitung  produktbezogen im Workflow Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130  Die Referenzdatenbank des  Diese unterschiedlichen |
-| Einleitung | produktbezogen im Workflow | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
-| P2-130 | Die Referenzdatenbank des  Diese unterschiedlichen  Wie sollen Softwarehersteller mit | Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  ›  ·  ·  Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates  ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können.  ›  ·  ·  P2-130  Diese unterschiedlichen  Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  Sofern Verordnungssoftware-Produkte von Ihren Arzneimitteldatenbank Hinweis:  Die KBV befindet sich aktuell in Abstimmung mit dem BfArM zum Thema Zeitpunkt der |
-| Einleitung | produktbezogen im Workflow | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein |
+| **·** | **·** |  |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** Einleitung **produktbezogen im Workflow** Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130  Die Referenzdatenbank des  Diese unterschiedlichen |
+| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
+| P2-130 | Die Referenzdatenbank des  Diese unterschiedlichen  Wie sollen Softwarehersteller mit | Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  › **·** **·**  Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates  ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können.  › **·** **·**  P2-130  Diese unterschiedlichen  Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  Sofern Verordnungssoftware-Produkte von Ihren Arzneimitteldatenbank Hinweis:  Die KBV befindet sich aktuell in Abstimmung mit dem BfArM zum Thema Zeitpunkt der |
+| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein |
 | Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne | P2-130 | Die Referenzdatenbank des |
 | Diese unterschiedlichen | Wie sollen Softwarehersteller mit | Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem |
-| Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  › | · |  |
-| · | Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates  ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können. | › |
-| Einleitung | produktbezogen im Workflow | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
+| Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  › | **·** |  |
+| **·** | Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates  ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können. | › |
+| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
 | P2-130 | Die Referenzdatenbank des |  |
 | Diese unterschiedlichen | Wie sollen Softwarehersteller mit  Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem | Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung: |
-| Einleitung | produktbezogen im Workflow | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130 |
+| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130 |
 | Die Referenzdatenbank des  Diese unterschiedlichen | Wie sollen Softwarehersteller mit  Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem | Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung: |
-| Einleitung  produktbezogen im Workflow | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130 | Die Referenzdatenbank des  Diese unterschiedlichen |
-| Einleitung | produktbezogen im Workflow | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
+| Einleitung **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130 | Die Referenzdatenbank des  Diese unterschiedlichen |
+| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
 | P2-130 | Die Referenzdatenbank des | Diese unterschiedlichen |
-| Wie sollen Softwarehersteller mit  Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung: | › | · |
-| · | Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates | ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können.  › |
-| · | · |  |
+| Wie sollen Softwarehersteller mit  Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung: | › | **·** |
+| **·** | Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates | ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können.  › |
+| **·** | **·** |  |
 | Sofern Verordnungssoftware-Produkte von Ihren Arzneimitteldatenbank Hinweis: | Die KBV befindet sich aktuell in Abstimmung mit dem BfArM zum Thema Zeitpunkt der |  |
-| Einleitung  produktbezogen im Workflow Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne | P2-130 |  |
+| Einleitung **produktbezogen im Workflow** Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne | P2-130 |  |
 | Die Referenzdatenbank des  Diese unterschiedlichen | Wie sollen Softwarehersteller mit  Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem | Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung: |
-| › | · | · |
-| Einleitung | produktbezogen im Workflow | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
+| › | **·** | **·** |
+| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
 | P2-130 | Die Referenzdatenbank des | Diese unterschiedlichen |
-| Einleitung | produktbezogen im Workflow | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein |
+| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein |
 | Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne | P2-130 | Die Referenzdatenbank des |
 | Diese unterschiedlichen | Wie sollen Softwarehersteller mit | Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  › |
-| · | · |  |
-| Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates  ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können. | › | · |
-| Einleitung | produktbezogen im Workflow | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein |
+| **·** | **·** |  |
+| Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates  ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können. | › | **·** |
+| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein |
 | Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne | P2-130 | Die Referenzdatenbank des |
 | Diese unterschiedlichen | Wie sollen Softwarehersteller mit | Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem |
-| Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  › | · |  |
-| · | Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates  ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können. | › |
-| Einleitung | produktbezogen im Workflow | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
+| Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  › | **·** |  |
+| **·** | Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates  ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können. | › |
+| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
 | P2-130 | Die Referenzdatenbank des | Diese unterschiedlichen |
 | Wie sollen Softwarehersteller mit | Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung: | › |
-| Einleitung | produktbezogen im Workflow | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein |
+| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein |
 | Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne | P2-130 | Die Referenzdatenbank des |
 | Diese unterschiedlichen | Wie sollen Softwarehersteller mit  Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem | Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  › |
-| Einleitung | produktbezogen im Workflow | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130  Die Referenzdatenbank des |
-| Einleitung | produktbezogen im Workflow | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130  Die Referenzdatenbank des |
-| Einleitung | produktbezogen im Workflow | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  Die Referenzdatenbank des  Wie sollen Softwarehersteller mit  ›  ·  ·  Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates  ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können. |
-| Einleitung | produktbezogen im Workflow | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130  Die Referenzdatenbank des  Diese unterschiedlichen  Wie sollen Softwarehersteller mit  Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  ›  ·  ·  Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates  ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können.  › Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130  Die Referenzdatenbank des  Diese unterschiedlichen  Wie sollen Softwarehersteller mit  Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  ›  · Sofern Verordnungssoftware-Produkte von Ihren Arzneimitteldatenbank Hinweis:  Die KBV befindet sich aktuell in Abstimmung mit dem BfArM zum Thema Zeitpunkt der |
-| · | · | Sofern Verordnungssoftware-Produkte von Ihren Arzneimitteldatenbank |
+| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130  Die Referenzdatenbank des |
+| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130  Die Referenzdatenbank des |
+| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  Die Referenzdatenbank des  Wie sollen Softwarehersteller mit  › **·** **·**  Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates  ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können. |
+| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130  Die Referenzdatenbank des  Diese unterschiedlichen  Wie sollen Softwarehersteller mit  Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  › **·** **·**  Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates  ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können.  › Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130  Die Referenzdatenbank des  Diese unterschiedlichen  Wie sollen Softwarehersteller mit  Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  › **·** Sofern Verordnungssoftware-Produkte von Ihren Arzneimitteldatenbank Hinweis:  Die KBV befindet sich aktuell in Abstimmung mit dem BfArM zum Thema Zeitpunkt der |
+| **·** | **·** | Sofern Verordnungssoftware-Produkte von Ihren Arzneimitteldatenbank |
 | Hinweis:  Die KBV befindet sich aktuell in Abstimmung mit dem BfArM zum Thema Zeitpunkt der |  |  |
-| Einleitung | produktbezogen im Workflow | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
+| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
 | P2-130 | Die Referenzdatenbank des | Diese unterschiedlichen |
-| Wie sollen Softwarehersteller mit  Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem | Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  › | · |
-| BEZUG [ | 1] | FRAGE  ANTWORT  Einleitung  produktbezogen im Workflow Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130 |
+| Wie sollen Softwarehersteller mit  Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem | Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  › | **·** |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** Einleitung **produktbezogen im Workflow** Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130 |
 |  |  | Einleitung |
-| produktbezogen im Workflow | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |  |
-| Einleitung  produktbezogen im Workflow Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne | P2-130 | Die Referenzdatenbank des  Diese unterschiedlichen  Wie sollen Softwarehersteller mit  Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  › |
-| ·  ·  Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates  ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können.  › | ·  · | Sofern Verordnungssoftware-Produkte von Ihren Arzneimitteldatenbank |
+| **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |  |
+| Einleitung **produktbezogen im Workflow** Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne | P2-130 | Die Referenzdatenbank des  Diese unterschiedlichen  Wie sollen Softwarehersteller mit  Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  › |
+| **·** **·**  Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates  ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können.  › | **·** **·** | Sofern Verordnungssoftware-Produkte von Ihren Arzneimitteldatenbank |
 | Hinweis:  Die KBV befindet sich aktuell in Abstimmung mit dem BfArM zum Thema Zeitpunkt der |  |  |
-| Einleitung | produktbezogen im Workflow | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
+| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
 | P2-130 | Die Referenzdatenbank des | Diese unterschiedlichen  Wie sollen Softwarehersteller mit |
-| Einleitung | produktbezogen im Workflow | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein |
-| · | Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates | ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können. |
-| › | · | ·  Sofern Verordnungssoftware-Produkte von Ihren Arzneimitteldatenbank |
-| Einleitung | produktbezogen im Workflow | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
+| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein |
+| **·** | Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates | ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können. |
+| › | **·** | **·**  Sofern Verordnungssoftware-Produkte von Ihren Arzneimitteldatenbank |
+| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
 | P2-130 | Die Referenzdatenbank des | Diese unterschiedlichen  Wie sollen Softwarehersteller mit |
-| Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung: | › | · |
-| Einleitung | produktbezogen im Workflow | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
+| Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung: | › | **·** |
+| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
 | P2-130 | Die Referenzdatenbank des | Diese unterschiedlichen  Wie sollen Softwarehersteller mit |
-| Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung: | › | · |
-| · | Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates  ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können. | › |
-| Einleitung | produktbezogen im Workflow | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein |
+| Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung: | › | **·** |
+| **·** | Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates  ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können. | › |
+| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein |
 | Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne | P2-130 | Die Referenzdatenbank des  Diese unterschiedlichen |
-| Wie sollen Softwarehersteller mit | Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  › | ·  · |
-| Einleitung | produktbezogen im Workflow | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130  Die Referenzdatenbank des |
+| Wie sollen Softwarehersteller mit | Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  › | **·** **·** |
+| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130  Die Referenzdatenbank des |
 | Diese unterschiedlichen  Wie sollen Softwarehersteller mit | Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung: | › |
-| · | · | Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates |
-| ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können.  › | ·  · |  |
-| Einleitung | produktbezogen im Workflow | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
+| **·** | **·** | Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates |
+| ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können.  › | **·** **·** |  |
+| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
 
 Wie ist die Aussage zu verstehen, dass Rabattvertragsangaben anzugeben sind? BfArM wird vom BfArM häufig erst am 01. oder 15. eines Monats zur Verfügung gestellt, die sonstigen Daten gemäß P2- 110 werden von Datenbankherstellern mit mehr Vorlauf zur Verfügung gestellt.  Bereitstellungszyklen erschweren die fristgerechte Bereitstellung der Daten gemäß der Anforderung P2-130.  dieser Situation umgehen?  Produkt rabattiert ist oder nicht. Angabe einer Packungsgröße angezeigt, ist das Produkt dann als Rabattarzneimittel zu kennzeichnen, wenn mindestens eine Packung einem Rabattvertrag der Kasse des Patienten unterliegt. konfrontiert wird, eine geeignete Updatestrategie zur Bereitstellung der kompletten Arzneimitteldaten gemäß P2-110 etablieren. Diese Strategie sollte sicherstellen, dass den Kunden in der Software, die stets aktuellen Arzneimitteldaten zur Verfügung stehen sowie dass unnötige Updates durch die Praxen vermieden werden. Es werden pro Datenzyklus zwei Updates bereitgestellt Im ersten Update werden die IFA basierten Daten fristgerecht bereitgestellt.  Im zweiten Update werden die Daten der Referenzdatenbank vom BfArM nachträglich bereitgestellt. Es wird pro Datenzyklus ein Update bereitgestellt. Die bereitgestellten Daten eines Datenzyklus setzen sich wie folgt zusammen: die IFA basierten Daten des aktuellen Datenzyklus sowie die Daten der Referenzdatenbank des BfArM aus dem vorherigen Datenzyklus. -Anbietern die kompletten Arzneimitteldaten gemäß P2 -110 bereitgestellt bekommen, werden die Daten entsprechend dem Aktualisierungszyklus gemäß P2 -130 bereitgestellt.  Bereitstellung der Daten der Referenzdatenbank
 
 ---
 
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
 | P1-040 | Wie ist das Wort " Alle geforderten Inhalte (zum Beispiel Daten aus regionalen | P2-100  Welcher |
 | P1-040 | Wie ist das Wort " | Alle geforderten Inhalte (zum Beispiel Daten aus regionalen |
 | P2-100 | Welcher | Die Arzneimittelstammdaten bestehen aus einem Preis |
 | P2-100 | Welche  Die Regelungen der Richtlinie nach § 92 Absatz 1 Satz 2 Nummer 6 SGB V | P2-110 |
 | Welche | Die Kennzeichnungspflicht bezieht sich auf Produkte, die in Arzneimittelvereinbarungen | P2-110 |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P1-040  Wie ist das Wort " Alle geforderten Inhalte (zum Beispiel Daten aus regionalen  P2-100  Welcher  Die Arzneimittelstammdaten bestehen aus einem Preis P2-100 |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P1-040  Wie ist das Wort " Alle geforderten Inhalte (zum Beispiel Daten aus regionalen  P2-100  Welcher  Die Arzneimittelstammdaten bestehen aus einem Preis P2-100 |
 | P1-040 | Wie ist das Wort " | Alle geforderten Inhalte (zum Beispiel Daten aus regionalen |
 | P2-100 | Welcher  Die Arzneimittelstammdaten bestehen aus einem Preis P2-100  Welche | Die Regelungen der Richtlinie nach § 92 Absatz 1 Satz 2 Nummer 6 SGB V  P2-110  Welche  Die Kennzeichnungspflicht bezieht sich auf Produkte, die in Arzneimittelvereinbarungen  P2-110  Ist es zulässig, wenn  AV- Die Listung nicht verkehrsfähiger Produkte muss nicht erfolgen. Sollten nicht  Welcher  P2-100  Die Regelungen der Richtlinie nach § 92 Absatz 1 Satz 2 Nummer 6 SGB V |
 | P1-040 | Wie ist das Wort " | Alle geforderten Inhalte (zum Beispiel Daten aus regionalen |
@@ -595,7 +595,7 @@ Wie ist die Aussage zu verstehen, dass Rabattvertragsangaben anzugeben sind? BfA
 | P1-040 | Wie ist das Wort " | Alle geforderten Inhalte (zum Beispiel Daten aus regionalen |
 | P2-100 | Welcher  Die Arzneimittelstammdaten bestehen aus einem Preis | P2-100 |
 | Welche  Die Regelungen der Richtlinie nach § 92 Absatz 1 Satz 2 Nummer 6 SGB V | P2-110 | Welche  Die Kennzeichnungspflicht bezieht sich auf Produkte, die in Arzneimittelvereinbarungen |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P1-040  Wie ist das Wort " Alle geforderten Inhalte (zum Beispiel Daten aus regionalen  P2-100 |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P1-040  Wie ist das Wort " Alle geforderten Inhalte (zum Beispiel Daten aus regionalen  P2-100 |
 |  |  | P1-040 |
 | Wie ist das Wort " | Alle geforderten Inhalte (zum Beispiel Daten aus regionalen | P2-100 |
 | P1-040  Wie ist das Wort " Alle geforderten Inhalte (zum Beispiel Daten aus regionalen | P2-100 | Welcher  Die Arzneimittelstammdaten bestehen aus einem Preis P2-100  Welche  Die Regelungen der Richtlinie nach § 92 Absatz 1 Satz 2 Nummer 6 SGB V  P2-110 |
@@ -626,41 +626,41 @@ unverzüglich im Kontext umfassender Freischaltung zu interpretieren? nach § 84
 
 ---
 
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
 | P2-110 | Müssen „reine Klinikwaren“ in  Die Arzneimittelstammdaten | Hingegen müssen in der Verordnungssoftware Arzneimittel mit dem Kennzeichen „keine  P2-110 |
 | P2-110 | Müssen „reine Klinikwaren“ in | Die Arzneimittelstammdaten |
 | Hingegen müssen in der Verordnungssoftware Arzneimittel mit dem Kennzeichen „keine | P2-110 | Welche Zulassungs-/  Das IFA- |
 | P2-110 | Warum wurden die | In den Rahmenvorgaben Arzneimittel 2021 nach § 84 SGB V empfehlen die |
 |  |  |  |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P2-110  Müssen „reine Klinikwaren“ in  Die Arzneimittelstammdaten Hingegen müssen in der Verordnungssoftware Arzneimittel mit dem Kennzeichen „keine  P2-110  Welche Zulassungs-/  Das IFA- |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P2-110  Müssen „reine Klinikwaren“ in  Die Arzneimittelstammdaten Hingegen müssen in der Verordnungssoftware Arzneimittel mit dem Kennzeichen „keine  P2-110  Welche Zulassungs-/  Das IFA- |
 | P2-110 | Müssen „reine Klinikwaren“ in | Die Arzneimittelstammdaten Hingegen müssen in der Verordnungssoftware Arzneimittel mit dem Kennzeichen „keine |
 | P2-110 | Welche Zulassungs-/  Das IFA- P2-110 | Warum wurden die  In den Rahmenvorgaben Arzneimittel 2021 nach § 84 SGB V empfehlen die  P2-110  P2-110  Warum wurden die  In den Rahmenvorgaben Arzneimittel 2021 nach § 84 SGB V empfehlen die |
 | P2-110 | Müssen „reine Klinikwaren“ in | Die Arzneimittelstammdaten |
@@ -710,7 +710,7 @@ unverzüglich im Kontext umfassender Freischaltung zu interpretieren? nach § 84
 | P2-110 | Müssen „reine Klinikwaren“ in | Die Arzneimittelstammdaten Hingegen müssen in der Verordnungssoftware Arzneimittel mit dem Kennzeichen „keine |
 | P2-110 | Welche Zulassungs-/ | Das IFA- P2-110 |
 | Warum wurden die | In den Rahmenvorgaben Arzneimittel 2021 nach § 84 SGB V empfehlen die |  |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P2-110  Müssen „reine Klinikwaren“ in  Die Arzneimittelstammdaten Hingegen müssen in der Verordnungssoftware Arzneimittel mit dem Kennzeichen „keine  P2-110 |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P2-110  Müssen „reine Klinikwaren“ in  Die Arzneimittelstammdaten Hingegen müssen in der Verordnungssoftware Arzneimittel mit dem Kennzeichen „keine  P2-110 |
 |  |  | P2-110 |
 | Müssen „reine Klinikwaren“ in | Die Arzneimittelstammdaten Hingegen müssen in der Verordnungssoftware Arzneimittel mit dem Kennzeichen „keine |  |
 | P2-110  Müssen „reine Klinikwaren“ in  Die Arzneimittelstammdaten Hingegen müssen in der Verordnungssoftware Arzneimittel mit dem Kennzeichen „keine | P2-110 | Welche Zulassungs-/  Das IFA- P2-110  Warum wurden die  In den Rahmenvorgaben Arzneimittel 2021 nach § 84 SGB V empfehlen die |
@@ -741,41 +741,41 @@ angezeigt werden? Registrierungsnummer ist mit Merkmal 022  gemeint? Merkmale 02
 
 ---
 
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
 | P2-110 | Woher können die Informationen  Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a | Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von  Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: |
 | P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a |
 | Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von | Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: | P2-110 |
 | P3-120 | Sind folgende Merkmale zur | Ja, diese relevanten Merkmale sind als Inhalte der Arzneimittelstammdaten obligat, da sie |
 |  |  |  |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P2-110  Woher können die Informationen  Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von  Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen:  P2-110 |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P2-110  Woher können die Informationen  Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von  Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen:  P2-110 |
 | P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von |
 |  | Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen:  P2-110  P3-120 | Sind folgende Merkmale zur  Ja, diese relevanten Merkmale sind als Inhalte der Arzneimittelstammdaten obligat, da sie  Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen:  P3-120  Sind folgende Merkmale zur  Ja, diese relevanten Merkmale sind als Inhalte der Arzneimittelstammdaten obligat, da sie |
 | P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a |
@@ -825,7 +825,7 @@ angezeigt werden? Registrierungsnummer ist mit Merkmal 022  gemeint? Merkmale 02
 | P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von |
 |  | Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: | P2-110  P3-120 |
 | Sind folgende Merkmale zur | Ja, diese relevanten Merkmale sind als Inhalte der Arzneimittelstammdaten obligat, da sie |  |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P2-110  Woher können die Informationen  Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P2-110  Woher können die Informationen  Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von |
 |  |  | P2-110 |
 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von |  |
 | P2-110  Woher können die Informationen  Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von |  | Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen:  P2-110  P3-120  Sind folgende Merkmale zur  Ja, diese relevanten Merkmale sind als Inhalte der Arzneimittelstammdaten obligat, da sie |
@@ -856,41 +856,41 @@ Merkmal 062 und 063 entnommen werden? SGB V vom G-BA entnehmen. Arzneimitteln f�
 
 ---
 
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
 | P2-110 | P3-120 | Laut den Vorgaben aus P2-110  Vor diesem Hintergrund stellt |
 | P2-110 | P3-120 |  |
 | Laut den Vorgaben aus P2-110 | Vor diesem Hintergrund stellt | Aus Sicht der KBV können Softwarehersteller Ihre Nutzerinnen und Nutzer dahingehend |
 | Eine Klarstellung im AMV-Anforderungskatalog ist für die kommende Anpassung |  |  |
 |  |  |  |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P2-110  P3-120  Laut den Vorgaben aus P2-110  Vor diesem Hintergrund stellt  Aus Sicht der KBV können Softwarehersteller Ihre Nutzerinnen und Nutzer dahingehend  Eine Klarstellung im AMV-Anforderungskatalog ist für die kommende Anpassung |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P2-110  P3-120  Laut den Vorgaben aus P2-110  Vor diesem Hintergrund stellt  Aus Sicht der KBV können Softwarehersteller Ihre Nutzerinnen und Nutzer dahingehend  Eine Klarstellung im AMV-Anforderungskatalog ist für die kommende Anpassung |
 | P2-110 | P3-120 | Laut den Vorgaben aus P2-110 |
 | Vor diesem Hintergrund stellt | Aus Sicht der KBV können Softwarehersteller Ihre Nutzerinnen und Nutzer dahingehend  Eine Klarstellung im AMV-Anforderungskatalog ist für die kommende Anpassung | Vor diesem Hintergrund stellt  Eine Klarstellung im AMV-Anforderungskatalog ist für die kommende Anpassung |
 | P2-110 | P3-120 |  |
@@ -940,7 +940,7 @@ Merkmal 062 und 063 entnommen werden? SGB V vom G-BA entnehmen. Arzneimitteln f�
 | P2-110 | P3-120 | Laut den Vorgaben aus P2-110 |
 | Vor diesem Hintergrund stellt | Aus Sicht der KBV können Softwarehersteller Ihre Nutzerinnen und Nutzer dahingehend | Eine Klarstellung im AMV-Anforderungskatalog ist für die kommende Anpassung |
 |  |  |  |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P2-110  P3-120  Laut den Vorgaben aus P2-110  Vor diesem Hintergrund stellt |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P2-110  P3-120  Laut den Vorgaben aus P2-110  Vor diesem Hintergrund stellt |
 |  |  | P2-110 |
 | P3-120 | Laut den Vorgaben aus P2-110 |  |
 | P2-110  P3-120  Laut den Vorgaben aus P2-110 | Vor diesem Hintergrund stellt | Aus Sicht der KBV können Softwarehersteller Ihre Nutzerinnen und Nutzer dahingehend  Eine Klarstellung im AMV-Anforderungskatalog ist für die kommende Anpassung |
@@ -971,41 +971,41 @@ und P3-120 sollen die Preise von Verbandmitteln sowie sonstigen Produkten zur Wu
 
 ---
 
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
 | P2-130 | Können von einzelnen  Die Verordnungssoftware muss stichtagsbezogen stets für sämtliche Arzneimittel die nach | Werden Änderungen an den Arzneimittelstammdaten vorgenommen, bestimmt der  Eine Aktualisierung des Datenbestandes ist demnach zulässig, muss aber den zum  P2-130 |
 | P2-130 | Können von einzelnen | Die Verordnungssoftware muss stichtagsbezogen stets für sämtliche Arzneimittel die nach |
 | Werden Änderungen an den Arzneimittelstammdaten vorgenommen, bestimmt der  Eine Aktualisierung des Datenbestandes ist demnach zulässig, muss aber den zum | P2-130 | Benötigt eine |
 | Nein, soweit eine Korrektur nachträglich festgestellter Fehler in einem Datenstand erfolgt, | P2-130 | P3-110 |
 | Sind  Die Eingabe von Freitexten z. B. für Rezepturen oder Wirkstoffen zur Wirkstoffverordnung | O2-145 |  |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P2-130  Können von einzelnen  Die Verordnungssoftware muss stichtagsbezogen stets für sämtliche Arzneimittel die nach  Werden Änderungen an den Arzneimittelstammdaten vorgenommen, bestimmt der  Eine Aktualisierung des Datenbestandes ist demnach zulässig, muss aber den zum  P2-130  Benötigt eine  Nein, soweit eine Korrektur nachträglich festgestellter Fehler in einem Datenstand erfolgt, |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P2-130  Können von einzelnen  Die Verordnungssoftware muss stichtagsbezogen stets für sämtliche Arzneimittel die nach  Werden Änderungen an den Arzneimittelstammdaten vorgenommen, bestimmt der  Eine Aktualisierung des Datenbestandes ist demnach zulässig, muss aber den zum  P2-130  Benötigt eine  Nein, soweit eine Korrektur nachträglich festgestellter Fehler in einem Datenstand erfolgt, |
 | P2-130 | Können von einzelnen | Die Verordnungssoftware muss stichtagsbezogen stets für sämtliche Arzneimittel die nach  Werden Änderungen an den Arzneimittelstammdaten vorgenommen, bestimmt der |
 | Eine Aktualisierung des Datenbestandes ist demnach zulässig, muss aber den zum | P2-130  Benötigt eine  Nein, soweit eine Korrektur nachträglich festgestellter Fehler in einem Datenstand erfolgt,  P2-130 | P3-110  Sind  Die Eingabe von Freitexten z. B. für Rezepturen oder Wirkstoffen zur Wirkstoffverordnung  O2-145  Wie ist in dieser Funktion die  Unter Hausapotheke sind praxisbezogene (Betriebsstättennummer/Nebenbetriebsstätten- Die Produktlisten werden in der Verordnungssoftware gespeichert. K2-160  Werden durch eine  Wenn Daten (z. B. Arzneimittelpreise) für statistische Zwecke gebraucht werden, müssen  P2-130  Nein, soweit eine Korrektur nachträglich festgestellter Fehler in einem Datenstand erfolgt,  P3-110  P3-100 |
 | P2-130 | Können von einzelnen | Die Verordnungssoftware muss stichtagsbezogen stets für sämtliche Arzneimittel die nach |
@@ -1055,7 +1055,7 @@ und P3-120 sollen die Preise von Verbandmitteln sowie sonstigen Produkten zur Wu
 | P2-130 | Können von einzelnen | Die Verordnungssoftware muss stichtagsbezogen stets für sämtliche Arzneimittel die nach  Werden Änderungen an den Arzneimittelstammdaten vorgenommen, bestimmt der |
 | Eine Aktualisierung des Datenbestandes ist demnach zulässig, muss aber den zum | P2-130 | Benötigt eine  Nein, soweit eine Korrektur nachträglich festgestellter Fehler in einem Datenstand erfolgt, |
 | P2-130 | P3-110 | Sind  Die Eingabe von Freitexten z. B. für Rezepturen oder Wirkstoffen zur Wirkstoffverordnung |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P2-130  Können von einzelnen  Die Verordnungssoftware muss stichtagsbezogen stets für sämtliche Arzneimittel die nach  Werden Änderungen an den Arzneimittelstammdaten vorgenommen, bestimmt der  Eine Aktualisierung des Datenbestandes ist demnach zulässig, muss aber den zum |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P2-130  Können von einzelnen  Die Verordnungssoftware muss stichtagsbezogen stets für sämtliche Arzneimittel die nach  Werden Änderungen an den Arzneimittelstammdaten vorgenommen, bestimmt der  Eine Aktualisierung des Datenbestandes ist demnach zulässig, muss aber den zum |
 |  |  | P2-130 |
 | Können von einzelnen | Die Verordnungssoftware muss stichtagsbezogen stets für sämtliche Arzneimittel die nach  Werden Änderungen an den Arzneimittelstammdaten vorgenommen, bestimmt der | Eine Aktualisierung des Datenbestandes ist demnach zulässig, muss aber den zum |
 | P2-130  Können von einzelnen  Die Verordnungssoftware muss stichtagsbezogen stets für sämtliche Arzneimittel die nach  Werden Änderungen an den Arzneimittelstammdaten vorgenommen, bestimmt der | Eine Aktualisierung des Datenbestandes ist demnach zulässig, muss aber den zum | P2-130  Benötigt eine  Nein, soweit eine Korrektur nachträglich festgestellter Fehler in einem Datenstand erfolgt,  P2-130  P3-110  Sind |
@@ -1086,41 +1086,41 @@ Pharmaunternehmen gemeldete, zwischen den Updates auf den Markt kommende Produkt
 
 ---
 
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
 | P3-120 | P3-121 | Müssen alle aufgeführten  Nein. In P3-120 sind alle Attribute aufgeführt, die im Rahmen einer Erst |
 | P3-120 | P3-121 |  |
 |  | Müssen alle aufgeführten  Nein. In P3-120 sind alle Attribute aufgeführt, die im Rahmen einer Erst | P3-120 |
 | P3-121 | Artikel ohne Rabattvertag mit der | Es ist nicht gefordert, dieses Attribut in allen Listen anzuzeigen. Es ist ausreichend, wenn |
 | P3-120 | Ist eine Verordnung über  Ja, die Verordnung über Makros ist zulässig. Die Anzeige der Pflichtattribute sollte den |  |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-120  P3-121    Müssen alle aufgeführten  Nein. In P3-120 sind alle Attribute aufgeführt, die im Rahmen einer Erst P3-120 |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-120  P3-121    Müssen alle aufgeführten  Nein. In P3-120 sind alle Attribute aufgeführt, die im Rahmen einer Erst P3-120 |
 | P3-120 | P3-121 |  |
 | Müssen alle aufgeführten | Nein. In P3-120 sind alle Attribute aufgeführt, die im Rahmen einer Erst P3-120  P3-121 | Artikel ohne Rabattvertag mit der  Es ist nicht gefordert, dieses Attribut in allen Listen anzuzeigen. Es ist ausreichend, wenn  P3-120  Ist eine Verordnung über  Ja, die Verordnung über Makros ist zulässig. Die Anzeige der Pflichtattribute sollte den  Müssen alle aufgeführten  Nein. In P3-120 sind alle Attribute aufgeführt, die im Rahmen einer Erst P3-121  Artikel ohne Rabattvertag mit der  Es ist nicht gefordert, dieses Attribut in allen Listen anzuzeigen. Es ist ausreichend, wenn |
 | P3-120 | P3-121 |  |
@@ -1170,7 +1170,7 @@ Pharmaunternehmen gemeldete, zwischen den Updates auf den Markt kommende Produkt
 | P3-120 | P3-121 |  |
 | Müssen alle aufgeführten | Nein. In P3-120 sind alle Attribute aufgeführt, die im Rahmen einer Erst | P3-120  P3-121 |
 | Artikel ohne Rabattvertag mit der | Es ist nicht gefordert, dieses Attribut in allen Listen anzuzeigen. Es ist ausreichend, wenn | P3-120  Ist eine Verordnung über |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-120  P3-121    Müssen alle aufgeführten |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-120  P3-121    Müssen alle aufgeführten |
 |  |  | P3-120 |
 | P3-121 |  |  |
 | P3-120  P3-121 | Müssen alle aufgeführten | Nein. In P3-120 sind alle Attribute aufgeführt, die im Rahmen einer Erst P3-120  P3-121  Artikel ohne Rabattvertag mit der  Es ist nicht gefordert, dieses Attribut in allen Listen anzuzeigen. Es ist ausreichend, wenn  P3-120 |
@@ -1201,113 +1201,113 @@ in jeder Verordnungsliste in Form einer Tabelle angezeigt werden? - oder Wiederh
 
 ---
 
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
 | P3-120 | Sollte das Rote-Hand-Logo und  Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher | Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen  Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen  P3-130 |
 | P3-120 | Sollte das Rote-Hand-Logo und | Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher |
-| Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen  Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen | P3-130 | „Alle Hinweise dürfen den |
+| Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen  Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen | P3-130 | **„Alle Hinweise dürfen den** |
 | Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |  |  |
 |  |  |  |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-120  Sollte das Rote-Hand-Logo und  Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher  Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen  Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen  P3-130  „Alle Hinweise dürfen den  Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-120  Sollte das Rote-Hand-Logo und  Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher  Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen  Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen  P3-130 **„Alle Hinweise dürfen den ** Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |
 | P3-120 | Sollte das Rote-Hand-Logo und | Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher  Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen |
-| Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen | P3-130  „Alle Hinweise dürfen den  Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der | P3-130  Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |
+| Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen | P3-130 **„Alle Hinweise dürfen den ** Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der | P3-130  Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |
 | P3-120 | Sollte das Rote-Hand-Logo und | Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher |
 | Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen  Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen | P3-130 |  |
-| „Alle Hinweise dürfen den  Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |  |  |
+| **„Alle Hinweise dürfen den ** Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |  |  |
 |  |  |  |
 |  |  |  |
 | P3-120 | Sollte das Rote-Hand-Logo und | Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher  Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen |
-| Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen | P3-130 | „Alle Hinweise dürfen den |
+| Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen | P3-130 | **„Alle Hinweise dürfen den** |
 | Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |  |  |
 | P3-120 | Sollte das Rote-Hand-Logo und | Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher  Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen  Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen  P3-130 |
-| „Alle Hinweise dürfen den  Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |  |  |
-| P3-120  Sollte das Rote-Hand-Logo und | Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher  Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen  Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen | P3-130  „Alle Hinweise dürfen den  Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |
+| **„Alle Hinweise dürfen den ** Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |  |  |
+| P3-120  Sollte das Rote-Hand-Logo und | Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher  Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen  Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen | P3-130 **„Alle Hinweise dürfen den ** Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |
 | P3-120 | Sollte das Rote-Hand-Logo und | Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher  Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen  Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen |
-| P3-130 | „Alle Hinweise dürfen den | Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |
+| P3-130 | **„Alle Hinweise dürfen den** | Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |
 |  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
 | P3-120  Sollte das Rote-Hand-Logo und  Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher  Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen | Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen | P3-130 |
-| „Alle Hinweise dürfen den  Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |  |  |
+| **„Alle Hinweise dürfen den ** Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |  |  |
 |  |  |  |
 | P3-120 | Sollte das Rote-Hand-Logo und | Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher  Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen  Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen |
-| P3-130 | „Alle Hinweise dürfen den | Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |
+| P3-130 | **„Alle Hinweise dürfen den** | Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |
 | P3-120 | Sollte das Rote-Hand-Logo und | Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher |
 | Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen  Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen | P3-130 |  |
-| „Alle Hinweise dürfen den  Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |  |  |
+| **„Alle Hinweise dürfen den ** Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |  |  |
 |  |  |  |
 |  |  |  |
 | P3-120 | Sollte das Rote-Hand-Logo und | Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher |
 | Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen  Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen | P3-130 |  |
-| „Alle Hinweise dürfen den  Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |  |  |
+| **„Alle Hinweise dürfen den ** Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |  |  |
 |  |  |  |
 |  |  |  |
 | P3-120 | Sollte das Rote-Hand-Logo und | Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher  Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen |
-| Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen | P3-130 | „Alle Hinweise dürfen den  Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |
+| Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen | P3-130 | **„Alle Hinweise dürfen den ** Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |
 |  |  |  |
 | P3-120 | Sollte das Rote-Hand-Logo und | Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher |
-| Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen  Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen | P3-130 | „Alle Hinweise dürfen den |
+| Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen  Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen | P3-130 | **„Alle Hinweise dürfen den** |
 | Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |  |  |
 | P3-120 | Sollte das Rote-Hand-Logo und | Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher  Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen  Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen  P3-130 |
-| P3-120 | Sollte das Rote-Hand-Logo und | Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher  Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen  Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen  P3-130  „Alle Hinweise dürfen den |
-| P3-120 | Sollte das Rote-Hand-Logo und | Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher  Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen  Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen  „Alle Hinweise dürfen den |
-| P3-120 | Sollte das Rote-Hand-Logo und | Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher  Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen  Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen  P3-130  „Alle Hinweise dürfen den  Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der  Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen  Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen  P3-130  „Alle Hinweise dürfen den  Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |
+| P3-120 | Sollte das Rote-Hand-Logo und | Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher  Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen  Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen  P3-130 **„Alle Hinweise dürfen den** |
+| P3-120 | Sollte das Rote-Hand-Logo und | Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher  Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen  Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen **„Alle Hinweise dürfen den** |
+| P3-120 | Sollte das Rote-Hand-Logo und | Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher  Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen  Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen  P3-130 **„Alle Hinweise dürfen den ** Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der  Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen  Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen  P3-130 **„Alle Hinweise dürfen den ** Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |
 |  |  |  |
 |  |  |  |
 | P3-120 | Sollte das Rote-Hand-Logo und | Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher  Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen |
-| Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen | P3-130 | „Alle Hinweise dürfen den  Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |
+| Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen | P3-130 | **„Alle Hinweise dürfen den ** Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |
 |  |  |  |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-120  Sollte das Rote-Hand-Logo und  Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher  Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen  Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-120  Sollte das Rote-Hand-Logo und  Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher  Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen  Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen |
 |  |  | P3-120 |
 | Sollte das Rote-Hand-Logo und | Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher  Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen | Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen |
-| P3-120  Sollte das Rote-Hand-Logo und  Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher  Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen | Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen | P3-130  „Alle Hinweise dürfen den  Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |
+| P3-120  Sollte das Rote-Hand-Logo und  Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher  Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen | Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen | P3-130 **„Alle Hinweise dürfen den ** Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |
 |  |  |  |
 |  |  |  |
 | P3-120 | Sollte das Rote-Hand-Logo und | Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher  Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen  Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen |
-| P3-130 | „Alle Hinweise dürfen den | Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |
+| P3-130 | **„Alle Hinweise dürfen den** | Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |
 | P3-120 | Sollte das Rote-Hand-Logo und | Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher |
 |  |  |  |
 |  |  |  |
 | P3-120 | Sollte das Rote-Hand-Logo und | Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher  Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen  Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen |
-| P3-130 | „Alle Hinweise dürfen den | Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |
+| P3-130 | **„Alle Hinweise dürfen den** | Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |
 |  |  |  |
 | P3-120 | Sollte das Rote-Hand-Logo und | Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher  Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen |
-| Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen | P3-130 | „Alle Hinweise dürfen den  Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |
+| Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen | P3-130 | **„Alle Hinweise dürfen den ** Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |
 |  |  |  |
 |  |  |  |
 | P3-120 | Sollte das Rote-Hand-Logo und | Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher |
-| Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen  Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen | P3-130 | „Alle Hinweise dürfen den  Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |
+| Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen  Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen | P3-130 | **„Alle Hinweise dürfen den ** Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |
 |  |  |  |
 | P3-120 | Sollte das Rote-Hand-Logo und | Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher  Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen  Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen  P3-130 |
-| „Alle Hinweise dürfen den  Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |  |  |
+| **„Alle Hinweise dürfen den ** Viele Ärztinnen und Ärzte haben sich über die Vielzahl der Dialogboxen bei der |  |  |
 |  |  |  |
 |  |  |  |
 | P3-120 | Sollte das Rote-Hand-Logo und | Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher  Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen |
@@ -1316,41 +1316,41 @@ das Blaue-Hand-Logo in der Software mit angezeigt werden? Sicht begrüßt und em
 
 ---
 
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
 | P3-130 | Wie sollen vollständige Texte  Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen | P3-200  Was ist mit „ |
 | P3-130 | Wie sollen vollständige Texte | Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen |
 | P3-200 | Was ist mit „ | Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. |
 | P3-300 | Warum wird eine  Nein, hier hat sich inhaltlich nichts geändert. | Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht |
 | P3-310 | Wofür braucht es eine | Da ein Wirkstoff häufig für mehrere Anwendungsgebiete zugelassen ist, ist die Suche nach |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-130  Wie sollen vollständige Texte  Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen  P3-200  Was ist mit „ Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. P3-300 |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-130  Wie sollen vollständige Texte  Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen  P3-200  Was ist mit „ Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. P3-300 |
 | P3-130 | Wie sollen vollständige Texte | Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen |
 | P3-200 | Was ist mit „ Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. P3-300  Warum wird eine | Nein, hier hat sich inhaltlich nichts geändert.    Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht P3-310  Wofür braucht es eine  Da ein Wirkstoff häufig für mehrere Anwendungsgebiete zugelassen ist, ist die Suche nach  P3-320  Können Ärztinnen und Ärzte  Eine aktiv getroffene Hervorhebung ist zulässig. Was ist mit „ P3-300  Nein, hier hat sich inhaltlich nichts geändert. |
 | P3-130 | Wie sollen vollständige Texte | Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen |
@@ -1400,7 +1400,7 @@ das Blaue-Hand-Logo in der Software mit angezeigt werden? Sicht begrüßt und em
 | P3-130 | Wie sollen vollständige Texte | Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen |
 | P3-200 | Was ist mit „ Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. | P3-300 |
 | Warum wird eine  Nein, hier hat sich inhaltlich nichts geändert. | Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht | P3-310 |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-130  Wie sollen vollständige Texte  Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen  P3-200 |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-130  Wie sollen vollständige Texte  Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen  P3-200 |
 |  |  | P3-130 |
 | Wie sollen vollständige Texte | Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen | P3-200 |
 | P3-130  Wie sollen vollständige Texte  Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen | P3-200 | Was ist mit „ Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. P3-300  Warum wird eine  Nein, hier hat sich inhaltlich nichts geändert.    Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht |
@@ -1431,41 +1431,41 @@ angezeigt werden, ohne den Workflow  zu unterbrechen? von Produktwerbung freie V
 
 ---
 
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
 | P3-325 | Nach welchen Kriterien kann eine  Da es bislang noch keine validen Vergleichskriterien für sonstige nach § 31 SGB V in die | K3-723  Darf ein |
 | P3-325 | Nach welchen Kriterien kann eine | Da es bislang noch keine validen Vergleichskriterien für sonstige nach § 31 SGB V in die |
 | K3-723 | Darf ein | Nein. Aus Abrechnungsgründen seitens der ausführenden Apotheke ist es wichtig, dass auf |
 | P3-400 | Die  Ja, tatsächlich ist vom ausgewählten Arzneimittel zu jeder der drei Listen nur | P3-430 |
 | Ist es erlaubt, für einzelne | Das aut-idem-Kreuz darf nur dann automatisch gesetzt werden, wenn es sich um eine | P3-515 |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-325  Nach welchen Kriterien kann eine  Da es bislang noch keine validen Vergleichskriterien für sonstige nach § 31 SGB V in die  K3-723  Darf ein  Nein. Aus Abrechnungsgründen seitens der ausführenden Apotheke ist es wichtig, dass auf  P3-400 |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-325  Nach welchen Kriterien kann eine  Da es bislang noch keine validen Vergleichskriterien für sonstige nach § 31 SGB V in die  K3-723  Darf ein  Nein. Aus Abrechnungsgründen seitens der ausführenden Apotheke ist es wichtig, dass auf  P3-400 |
 | P3-325 | Nach welchen Kriterien kann eine | Da es bislang noch keine validen Vergleichskriterien für sonstige nach § 31 SGB V in die |
 | K3-723 | Darf ein  Nein. Aus Abrechnungsgründen seitens der ausführenden Apotheke ist es wichtig, dass auf  P3-400  Die | Ja, tatsächlich ist vom ausgewählten Arzneimittel zu jeder der drei Listen nur  P3-430  Ist es erlaubt, für einzelne  Das aut-idem-Kreuz darf nur dann automatisch gesetzt werden, wenn es sich um eine  P3-515  Was bedeutet  Die Anzeige von Rabattvertragsinformationen muss ohne gesonderte Benutzeraktion  Darf ein  P3-400  Ja, tatsächlich ist vom ausgewählten Arzneimittel zu jeder der drei Listen nur |
 | P3-325 | Nach welchen Kriterien kann eine | Da es bislang noch keine validen Vergleichskriterien für sonstige nach § 31 SGB V in die |
@@ -1515,7 +1515,7 @@ angezeigt werden, ohne den Workflow  zu unterbrechen? von Produktwerbung freie V
 | P3-325 | Nach welchen Kriterien kann eine | Da es bislang noch keine validen Vergleichskriterien für sonstige nach § 31 SGB V in die |
 | K3-723 | Darf ein  Nein. Aus Abrechnungsgründen seitens der ausführenden Apotheke ist es wichtig, dass auf | P3-400 |
 | Die  Ja, tatsächlich ist vom ausgewählten Arzneimittel zu jeder der drei Listen nur | P3-430 | Ist es erlaubt, für einzelne  Das aut-idem-Kreuz darf nur dann automatisch gesetzt werden, wenn es sich um eine |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-325  Nach welchen Kriterien kann eine  Da es bislang noch keine validen Vergleichskriterien für sonstige nach § 31 SGB V in die  K3-723 |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-325  Nach welchen Kriterien kann eine  Da es bislang noch keine validen Vergleichskriterien für sonstige nach § 31 SGB V in die  K3-723 |
 |  |  | P3-325 |
 | Nach welchen Kriterien kann eine | Da es bislang noch keine validen Vergleichskriterien für sonstige nach § 31 SGB V in die | K3-723 |
 | P3-325  Nach welchen Kriterien kann eine  Da es bislang noch keine validen Vergleichskriterien für sonstige nach § 31 SGB V in die | K3-723 | Darf ein  Nein. Aus Abrechnungsgründen seitens der ausführenden Apotheke ist es wichtig, dass auf  P3-400  Die  Ja, tatsächlich ist vom ausgewählten Arzneimittel zu jeder der drei Listen nur  P3-430 |
@@ -1546,41 +1546,41 @@ Preisvergleichssuche für sonstige Arzneimittelversorgung einbezogene Produkte a
 
 ---
 
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
 | P3-621 | Welche Parameter werden in der  Bei der Verordnung von Arzneimitteln mit dem ATC | Geändert wird bei der Verordnung von Mitteln zur Behandlung der Opiatabhängigkeit  O3-623 |
 | P3-621 | Welche Parameter werden in der | Bei der Verordnung von Arzneimitteln mit dem ATC |
 | Geändert wird bei der Verordnung von Mitteln zur Behandlung der Opiatabhängigkeit | O3-623 | Ist es ratsam, die Funktionalität  Die Verordnungssoftware soll zukünftig auch strukturierte Rezepturverordnungen |
 | Mit einer strukturierten Rezepturverordnung können | P3-625 | Welche Arzneimittelrezepte  Auf Kassen- sowie Privatrezepten mit verschreibungspflichtigen Arzneimitteln müssen |
 | Die neue Vorschrift soll zu einer verbesserten Transparenz für alle Beteiligten beitragen, |  |  |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-621  Welche Parameter werden in der  Bei der Verordnung von Arzneimitteln mit dem ATC Geändert wird bei der Verordnung von Mitteln zur Behandlung der Opiatabhängigkeit  O3-623  Ist es ratsam, die Funktionalität  Die Verordnungssoftware soll zukünftig auch strukturierte Rezepturverordnungen  Mit einer strukturierten Rezepturverordnung können |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-621  Welche Parameter werden in der  Bei der Verordnung von Arzneimitteln mit dem ATC Geändert wird bei der Verordnung von Mitteln zur Behandlung der Opiatabhängigkeit  O3-623  Ist es ratsam, die Funktionalität  Die Verordnungssoftware soll zukünftig auch strukturierte Rezepturverordnungen  Mit einer strukturierten Rezepturverordnung können |
 | P3-621 | Welche Parameter werden in der | Bei der Verordnung von Arzneimitteln mit dem ATC Geändert wird bei der Verordnung von Mitteln zur Behandlung der Opiatabhängigkeit |
 | O3-623 | Ist es ratsam, die Funktionalität  Die Verordnungssoftware soll zukünftig auch strukturierte Rezepturverordnungen  Mit einer strukturierten Rezepturverordnung können P3-625 | Welche Arzneimittelrezepte  Auf Kassen- sowie Privatrezepten mit verschreibungspflichtigen Arzneimitteln müssen  Die neue Vorschrift soll zu einer verbesserten Transparenz für alle Beteiligten beitragen,  O3-623  Mit einer strukturierten Rezepturverordnung können Welche Arzneimittelrezepte |
 | P3-621 | Welche Parameter werden in der | Bei der Verordnung von Arzneimitteln mit dem ATC |
@@ -1630,7 +1630,7 @@ Preisvergleichssuche für sonstige Arzneimittelversorgung einbezogene Produkte a
 | P3-621 | Welche Parameter werden in der | Bei der Verordnung von Arzneimitteln mit dem ATC Geändert wird bei der Verordnung von Mitteln zur Behandlung der Opiatabhängigkeit |
 | O3-623 | Ist es ratsam, die Funktionalität | Die Verordnungssoftware soll zukünftig auch strukturierte Rezepturverordnungen  Mit einer strukturierten Rezepturverordnung können |
 | P3-625 | Welche Arzneimittelrezepte  Auf Kassen- sowie Privatrezepten mit verschreibungspflichtigen Arzneimitteln müssen | Die neue Vorschrift soll zu einer verbesserten Transparenz für alle Beteiligten beitragen, |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-621  Welche Parameter werden in der  Bei der Verordnung von Arzneimitteln mit dem ATC Geändert wird bei der Verordnung von Mitteln zur Behandlung der Opiatabhängigkeit  O3-623 |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-621  Welche Parameter werden in der  Bei der Verordnung von Arzneimitteln mit dem ATC Geändert wird bei der Verordnung von Mitteln zur Behandlung der Opiatabhängigkeit  O3-623 |
 |  |  | P3-621 |
 | Welche Parameter werden in der | Bei der Verordnung von Arzneimitteln mit dem ATC Geändert wird bei der Verordnung von Mitteln zur Behandlung der Opiatabhängigkeit |  |
 | P3-621  Welche Parameter werden in der  Bei der Verordnung von Arzneimitteln mit dem ATC Geändert wird bei der Verordnung von Mitteln zur Behandlung der Opiatabhängigkeit | O3-623 | Ist es ratsam, die Funktionalität  Die Verordnungssoftware soll zukünftig auch strukturierte Rezepturverordnungen  Mit einer strukturierten Rezepturverordnung können P3-625  Welche Arzneimittelrezepte  Auf Kassen- sowie Privatrezepten mit verschreibungspflichtigen Arzneimitteln müssen  Die neue Vorschrift soll zu einer verbesserten Transparenz für alle Beteiligten beitragen, |
@@ -1661,41 +1661,41 @@ Regel in der Praxis bei  verändert? -Code N07BC (Mittel zur Behandlung der Opia
 
 ---
 
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
 | P3-625 | Ist es auch bei Verordnungen von  Eine Dosierungsanweisung (Dosierung bzw. das Kennzeichen >>Dj<<) für nicht | P3-625  Wie sieht das von der Software |
 | P3-625 | Ist es auch bei Verordnungen von | Eine Dosierungsanweisung (Dosierung bzw. das Kennzeichen >>Dj<<) für nicht |
 | P3-625 | Wie sieht das von der Software | Die Kennzeichnung, dass ein Medikationsplan oder eine schriftliche Dosierungsanweisung |
 | P3-625 | Kann die Notwendigkeit einer | Ausgenommen von einer verpflichtenden Dosierungsangabe sind gemäß AMVV lediglich  Weitere Ausnahmen sind laut AMVV nicht vorgesehen. |
 |  |  |  |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-625  Ist es auch bei Verordnungen von  Eine Dosierungsanweisung (Dosierung bzw. das Kennzeichen >>Dj<<) für nicht P3-625  Wie sieht das von der Software  Die Kennzeichnung, dass ein Medikationsplan oder eine schriftliche Dosierungsanweisung |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-625  Ist es auch bei Verordnungen von  Eine Dosierungsanweisung (Dosierung bzw. das Kennzeichen >>Dj<<) für nicht P3-625  Wie sieht das von der Software  Die Kennzeichnung, dass ein Medikationsplan oder eine schriftliche Dosierungsanweisung |
 | P3-625 | Ist es auch bei Verordnungen von | Eine Dosierungsanweisung (Dosierung bzw. das Kennzeichen >>Dj<<) für nicht |
 | P3-625 | Wie sieht das von der Software  Die Kennzeichnung, dass ein Medikationsplan oder eine schriftliche Dosierungsanweisung    P3-625 | Kann die Notwendigkeit einer  Ausgenommen von einer verpflichtenden Dosierungsangabe sind gemäß AMVV lediglich  Weitere Ausnahmen sind laut AMVV nicht vorgesehen.  Wie sieht das von der Software  P3-625  Kann die Notwendigkeit einer  Ausgenommen von einer verpflichtenden Dosierungsangabe sind gemäß AMVV lediglich |
 | P3-625 | Ist es auch bei Verordnungen von | Eine Dosierungsanweisung (Dosierung bzw. das Kennzeichen >>Dj<<) für nicht |
@@ -1745,7 +1745,7 @@ Regel in der Praxis bei  verändert? -Code N07BC (Mittel zur Behandlung der Opia
 | P3-625 | Ist es auch bei Verordnungen von | Eine Dosierungsanweisung (Dosierung bzw. das Kennzeichen >>Dj<<) für nicht |
 | P3-625 | Wie sieht das von der Software  Die Kennzeichnung, dass ein Medikationsplan oder eine schriftliche Dosierungsanweisung | P3-625 |
 | Kann die Notwendigkeit einer | Ausgenommen von einer verpflichtenden Dosierungsangabe sind gemäß AMVV lediglich  Weitere Ausnahmen sind laut AMVV nicht vorgesehen. |  |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-625  Ist es auch bei Verordnungen von  Eine Dosierungsanweisung (Dosierung bzw. das Kennzeichen >>Dj<<) für nicht P3-625 |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-625  Ist es auch bei Verordnungen von  Eine Dosierungsanweisung (Dosierung bzw. das Kennzeichen >>Dj<<) für nicht P3-625 |
 |  |  | P3-625 |
 | Ist es auch bei Verordnungen von | Eine Dosierungsanweisung (Dosierung bzw. das Kennzeichen >>Dj<<) für nicht | P3-625 |
 | P3-625  Ist es auch bei Verordnungen von  Eine Dosierungsanweisung (Dosierung bzw. das Kennzeichen >>Dj<<) für nicht | P3-625 | Wie sieht das von der Software  Die Kennzeichnung, dass ein Medikationsplan oder eine schriftliche Dosierungsanweisung    P3-625  Kann die Notwendigkeit einer  Ausgenommen von einer verpflichtenden Dosierungsangabe sind gemäß AMVV lediglich  Weitere Ausnahmen sind laut AMVV nicht vorgesehen. |
@@ -1776,227 +1776,227 @@ nicht-verschreibungspflichtigen  Arzneimitteln und weiteren Produkten  erlaubt, 
 
 ---
 
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
-| P3-625 | Was gilt für  Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel | Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5 |
+| P3-625 | Was gilt für  Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel | *Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5* |
 | P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel |
-| Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine | § 9 Absatz 1 Nummer 5 | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |
+| *Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine* | *§ 9 Absatz 1 Nummer 5* | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |
 |  |  |  |
 |  |  |  |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-625  Was gilt für  Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5  Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |
-| P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel Auf dem Betäubungsmittelrezept sind anzugeben: „[…] |
-| 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5 | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, | § 9 Absatz 1 Nummer 5 |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-625  Was gilt für  Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel*Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5*  Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |
+| P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel*Auf dem Betäubungsmittelrezept sind anzugeben: „[…]* |
+| *5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5* | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, | *§ 9 Absatz 1 Nummer 5* |
 | P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel |
-| Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine | § 9 Absatz 1 Nummer 5 | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |
+| *Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine* | *§ 9 Absatz 1 Nummer 5* | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |
 |  |  |  |
 |  |  |  |
 |  |  |  |
-| P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel Auf dem Betäubungsmittelrezept sind anzugeben: „[…] |
-| 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5 | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |  |
+| P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel*Auf dem Betäubungsmittelrezept sind anzugeben: „[…]* |
+| *5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5* | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |  |
 |  |  |  |
-| P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5 |
+| P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel*Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5* |
 | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |  |  |
-| P3-625  Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5 | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |
-| P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine |
-| § 9 Absatz 1 Nummer 5 | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |  |
+| P3-625  Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel*Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5* | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |
+| P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel*Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine* |
+| *§ 9 Absatz 1 Nummer 5* | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
-| P3-625  Was gilt für  Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel Auf dem Betäubungsmittelrezept sind anzugeben: „[…] | 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5 |  |
+| P3-625  Was gilt für  Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel*Auf dem Betäubungsmittelrezept sind anzugeben: „[…]* | *5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5* |  |
 | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |  |  |
 |  |  |  |
-| P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine |
-| § 9 Absatz 1 Nummer 5 | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |  |
+| P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel*Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine* |
+| *§ 9 Absatz 1 Nummer 5* | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |  |
 | P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel |
-| Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine | § 9 Absatz 1 Nummer 5 | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |
+| *Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine* | *§ 9 Absatz 1 Nummer 5* | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |
 |  |  |  |
 |  |  |  |
-|  |  |  |
-| P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel |
-| Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine | § 9 Absatz 1 Nummer 5 | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-| P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel Auf dem Betäubungsmittelrezept sind anzugeben: „[…] |
-| 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5 | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |  |
 |  |  |  |
 | P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel |
-| Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine | § 9 Absatz 1 Nummer 5 | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |
-|  |  |  |
-| P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5  Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |
-| P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5  Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |
-| P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |
-| P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5  Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde,  Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5  Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |
+| *Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine* | *§ 9 Absatz 1 Nummer 5* | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |
 |  |  |  |
 |  |  |  |
-| P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel Auf dem Betäubungsmittelrezept sind anzugeben: „[…] |
-| 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5 | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |  |
 |  |  |  |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-625  Was gilt für  Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5 |
+| P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel*Auf dem Betäubungsmittelrezept sind anzugeben: „[…]* |
+| *5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5* | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |  |
+|  |  |  |
+| P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel |
+| *Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine* | *§ 9 Absatz 1 Nummer 5* | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |
+|  |  |  |
+| P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel*Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5*  Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |
+| P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel*Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5*  Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |
+| P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel*Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine * Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |
+| P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel*Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5*  Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, *Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5*  Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |
+|  |  |  |
+|  |  |  |
+| P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel*Auf dem Betäubungsmittelrezept sind anzugeben: „[…]* |
+| *5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5* | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |  |
+|  |  |  |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-625  Was gilt für  Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel*Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5* |
 |  |  | P3-625 |
-| Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel Auf dem Betäubungsmittelrezept sind anzugeben: „[…] | 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine |
-| P3-625  Was gilt für  Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel Auf dem Betäubungsmittelrezept sind anzugeben: „[…] | 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5 | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |
+| Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel*Auf dem Betäubungsmittelrezept sind anzugeben: „[…]* | *5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine* |
+| P3-625  Was gilt für  Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel*Auf dem Betäubungsmittelrezept sind anzugeben: „[…]* | *5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5* | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |
 |  |  |  |
 |  |  |  |
-| P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine |
-| § 9 Absatz 1 Nummer 5 | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |  |
+| P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel*Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine* |
+| *§ 9 Absatz 1 Nummer 5* | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |  |
 | P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel |
 |  |  |  |
 |  |  |  |
-| P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine |
-| § 9 Absatz 1 Nummer 5 | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |  |
+| P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel*Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine* |
+| *§ 9 Absatz 1 Nummer 5* | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |  |
 |  |  |  |
-| P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel Auf dem Betäubungsmittelrezept sind anzugeben: „[…] |
-| 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5 | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |  |
+| P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel*Auf dem Betäubungsmittelrezept sind anzugeben: „[…]* |
+| *5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5* | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |  |
 |  |  |  |
 |  |  |  |
 | P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel |
-| Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine | § 9 Absatz 1 Nummer 5 | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |
+| *Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine* | *§ 9 Absatz 1 Nummer 5* | Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |
 |  |  |  |
-| P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5  Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |
+| P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel*Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5*  Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, |
 |  |  |  |
 |  |  |  |
 |  |  |  |
-| P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel Auf dem Betäubungsmittelrezept sind anzugeben: „[…] |
+| P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel*Auf dem Betäubungsmittelrezept sind anzugeben: „[…]* |
 
 Betäubungsmittelrezepte bezüglich der Dosierungsangabe? Verschreibungsverordnung (BtMVV) weiterhin die Angabe einer Gebrauchsanweisung mit Einzel- und Tagesgabe verpflichtend notwendig. schriftliche Gebrauchsanweisung übergeben wurde, ein Hinweis auf diese schriftliche Gebrauchsanweisung; im Fall des § 5 Absatz 8 und 9 zusätzlich die Reichdauer des Substitutionsmittels in Tagen und im Fall des § 5 Absatz 9 Satz 8 Vorgaben zur Abgabe des Substitutionsmittels oder, im Fall, dass dem Patienten schriftliche Vorgaben zur Abgabe oder zum Überlassen zum unmittelbaren Verbrauch des Substitutionsmittels übergeben wurden, ein Hinweis auf diese schriftlichen Vorgaben, […]“ BtMVV erfolgt softwaregestützt der Hinweis gemäß schriftlicher Anweisung  anstatt des Kürzels Dj . Ein Dj  darf softwaregestützt nicht auf BtM-Rezepten aufgebracht werden.
 
 ---
 
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
-| P3-625 | Was gilt für  Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) | https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz  „Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die |
+| P3-625 | Was gilt für  Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) | https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz *„Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die* |
 | P3-625 | Was gilt für | Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) |
-| https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7. | Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz  „Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die | dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von  Grundsätzlich müssen Softwaresysteme |
+| https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7. | Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz *„Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die* | dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von  Grundsätzlich müssen Softwaresysteme |
 |  |  |  |
 |  |  |  |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-625  Was gilt für  Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz  „Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die  dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von  Grundsätzlich müssen Softwaresysteme |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-625  Was gilt für  Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz *„Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die * dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von  Grundsätzlich müssen Softwaresysteme |
 | P3-625 | Was gilt für | Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel |
-| Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz | „Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die  dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von  Grundsätzlich müssen Softwaresysteme | Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz  „Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die |
+| Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz | *„Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die * dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von  Grundsätzlich müssen Softwaresysteme | Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz *„Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die* |
 | P3-625 | Was gilt für | Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) |
-| https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7. | Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz  „Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die | dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von |
+| https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7. | Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz *„Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die* | dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von |
 | Grundsätzlich müssen Softwaresysteme |  |  |
 |  |  |  |
 |  |  |  |
 | P3-625 | Was gilt für | Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel |
-| Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz | „Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die  dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von | Grundsätzlich müssen Softwaresysteme |
+| Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz | *„Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die * dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von | Grundsätzlich müssen Softwaresysteme |
 |  |  |  |
-| P3-625 | Was gilt für | Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz  „Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die |
+| P3-625 | Was gilt für | Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz *„Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die* |
 | dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von  Grundsätzlich müssen Softwaresysteme |  |  |
-| P3-625  Was gilt für | Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz | „Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die  dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von  Grundsätzlich müssen Softwaresysteme |
+| P3-625  Was gilt für | Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz | *„Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die * dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von  Grundsätzlich müssen Softwaresysteme |
 | P3-625 | Was gilt für | Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7. |
-| Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz  „Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die | dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von  Grundsätzlich müssen Softwaresysteme |  |
+| Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz *„Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die* | dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von  Grundsätzlich müssen Softwaresysteme |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
-| P3-625  Was gilt für  Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel | Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz | „Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die |
+| P3-625  Was gilt für  Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel | Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz | *„Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die* |
 | dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von  Grundsätzlich müssen Softwaresysteme |  |  |
 |  |  |  |
 | P3-625 | Was gilt für | Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7. |
-| Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz  „Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die | dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von  Grundsätzlich müssen Softwaresysteme |  |
+| Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz *„Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die* | dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von  Grundsätzlich müssen Softwaresysteme |  |
 | P3-625 | Was gilt für | Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) |
-| https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7. | Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz  „Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die | dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von |
+| https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7. | Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz *„Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die* | dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von |
 | Grundsätzlich müssen Softwaresysteme |  |  |
 |  |  |  |
 |  |  |  |
 | P3-625 | Was gilt für | Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) |
-| https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7. | Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz  „Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die | dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von |
+| https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7. | Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz *„Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die* | dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von |
 | Grundsätzlich müssen Softwaresysteme |  |  |
 |  |  |  |
 |  |  |  |
 | P3-625 | Was gilt für | Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel |
-| Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz | „Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die  dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von | Grundsätzlich müssen Softwaresysteme |
+| Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz | *„Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die * dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von | Grundsätzlich müssen Softwaresysteme |
 |  |  |  |
 | P3-625 | Was gilt für | Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) |
-| https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7. | Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz  „Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die | dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von  Grundsätzlich müssen Softwaresysteme |
+| https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7. | Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz *„Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die* | dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von  Grundsätzlich müssen Softwaresysteme |
 |  |  |  |
-| P3-625 | Was gilt für | Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz  „Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die  dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von |
-| P3-625 | Was gilt für | Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz  „Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die  dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von  Grundsätzlich müssen Softwaresysteme |
+| P3-625 | Was gilt für | Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz *„Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die * dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von |
+| P3-625 | Was gilt für | Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz *„Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die * dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von  Grundsätzlich müssen Softwaresysteme |
 | P3-625 | Was gilt für | Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7.  dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von  Grundsätzlich müssen Softwaresysteme |
-| P3-625 | Was gilt für | Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz  „Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die  dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von  Grundsätzlich müssen Softwaresysteme  https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz  „Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die  dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von  Grundsätzlich müssen Softwaresysteme |
+| P3-625 | Was gilt für | Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz *„Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die * dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von  Grundsätzlich müssen Softwaresysteme  https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz *„Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die * dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von  Grundsätzlich müssen Softwaresysteme |
 |  |  |  |
 |  |  |  |
 | P3-625 | Was gilt für | Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel |
-| Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz | „Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die  dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von | Grundsätzlich müssen Softwaresysteme |
+| Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz | *„Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die * dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von | Grundsätzlich müssen Softwaresysteme |
 |  |  |  |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-625  Was gilt für  Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-625  Was gilt für  Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz |
 |  |  | P3-625 |
 | Was gilt für | Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel | Punkt 29.2 Abschnitt 7. |
-| P3-625  Was gilt für  Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel | Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz | „Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die  dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von  Grundsätzlich müssen Softwaresysteme |
+| P3-625  Was gilt für  Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel | Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz | *„Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die * dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von  Grundsätzlich müssen Softwaresysteme |
 |  |  |  |
 |  |  |  |
 | P3-625 | Was gilt für | Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7. |
-| Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz  „Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die | dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von  Grundsätzlich müssen Softwaresysteme |  |
+| Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz *„Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die* | dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von  Grundsätzlich müssen Softwaresysteme |  |
 | P3-625 | Was gilt für | Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) |
 |  |  |  |
 |  |  |  |
 | P3-625 | Was gilt für | Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7. |
-| Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz  „Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die | dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von  Grundsätzlich müssen Softwaresysteme |  |
+| Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz *„Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die* | dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von  Grundsätzlich müssen Softwaresysteme |  |
 |  |  |  |
 | P3-625 | Was gilt für | Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel |
-| Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz | „Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die  dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von | Grundsätzlich müssen Softwaresysteme |
+| Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz | *„Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die * dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von | Grundsätzlich müssen Softwaresysteme |
 |  |  |  |
 |  |  |  |
 | P3-625 | Was gilt für | Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) |
-| https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7. | Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz  „Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die | dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von  Grundsätzlich müssen Softwaresysteme |
+| https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7. | Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz *„Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die* | dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von  Grundsätzlich müssen Softwaresysteme |
 |  |  |  |
-| P3-625 | Was gilt für | Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz  „Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die  dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von |
+| P3-625 | Was gilt für | Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz *„Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die * dahingehend klarstellen, dass sich diese Vorgabe ausschließlich auf die Ausstellung von |
 | Grundsätzlich müssen Softwaresysteme |  |  |
 |  |  |  |
 |  |  |  |
@@ -2006,47 +2006,47 @@ Betäubungsmittelverordnungen bezüglich der Dosierungsangabe bei der Verordnung
 
 ---
 
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
 | P3-625 | Verordnungssoftware bezüglich  Pflichtanforderung: | Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  › |
 | P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung: |
 | Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für | › | ≫ ≫ |
-| › | ≫ › | Keine Angabe |
-| Optional:  Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine | › | › |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-625  Verordnungssoftware bezüglich  Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  ›  ≫ ≫ › |
+| › | ≫ › | *Keine Angabe* |
+| **Optional: ** Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine | › | › |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-625  Verordnungssoftware bezüglich  Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  ›  ≫ ≫ › |
 | P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem |
-| Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  › | ≫ ≫ ›  ≫ | ›  Keine Angabe  Optional:  Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine  ›  ›  Ausgeschriebene Tageszeiten z.B.  ›  ›  › |
+| Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  › | ≫ ≫ ›  ≫ | › *Keine Angabe ***Optional: ** Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine  ›  ›  Ausgeschriebene Tageszeiten z.B.  ›  ›  › |
 | P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung: |
 | Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für | › | ≫ |
 | ≫ › | ≫ | › |
-| Keine Angabe | Optional:  Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine | › |
+| *Keine Angabe* | **Optional: ** Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine | › |
 | › | Ausgeschriebene Tageszeiten z.B. |  |
 | P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem |
 | Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  › | ≫ | ≫ |
@@ -2056,44 +2056,44 @@ Betäubungsmittelverordnungen bezüglich der Dosierungsangabe bei der Verordnung
 | P3-625  Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  › | ≫ ≫ › |
 | P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für |
 | › | ≫ ≫ | › |
-| ≫ › | Keine Angabe  Optional: | Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine |
+| ≫ › | *Keine Angabe ***Optional:** | Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine |
 | › | › | Ausgeschriebene Tageszeiten z.B. |
 |  |  |  |
 |  |  |  |
 | P3-625  Verordnungssoftware bezüglich  Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem | Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  › |  |
 | ≫ ≫ › | ≫ › |  |
-| Keine Angabe  Optional: | Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine  › |  |
+| *Keine Angabe ***Optional:** | Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine  › |  |
 | P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für |
 | › | ≫ ≫ | › |
 | P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung: |
 | Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für | › | ≫ |
-| ≫ › | ≫ | ›  Keine Angabe |
-| Optional:  Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine | › | › |
+| ≫ › | ≫ | › *Keine Angabe* |
+| **Optional: ** Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine | › | › |
 | Ausgeschriebene Tageszeiten z.B. |  |  |
 | P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung: |
 | Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für | › | ≫ |
 | ≫ › | ≫ | › |
-| Keine Angabe | Optional:  Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine | › |
+| *Keine Angabe* | **Optional: ** Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine | › |
 | › | Ausgeschriebene Tageszeiten z.B. |  |
 | P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem |
 | Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  › | ≫ | ≫ › |
-| ≫ | › | Keine Angabe  Optional: |
+| ≫ | › | *Keine Angabe ***Optional:** |
 | P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung: |
 | Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für | › | ≫ ≫ |
-| › | ≫ › | Keine Angabe |
+| › | ≫ › | *Keine Angabe* |
 | P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  ›  ≫ |
 | P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  ›  ≫ ≫ |
-| P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  ≫ ≫ ≫ Keine Angabe  Optional:  Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine  ›  ›  Ausgeschriebene Tageszeiten z.B. |
-| P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  ›  ≫ ≫ ›  ≫ ›  Keine Angabe  Optional:  Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine  ›  ›  Ausgeschriebene Tageszeiten z.B.  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  ›  ≫ ≫ ›  ≫ ›  Keine Angabe  Optional:  Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine |
+| P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  ≫ ≫ ≫*Keine Angabe ***Optional: ** Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine  ›  ›  Ausgeschriebene Tageszeiten z.B. |
+| P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  ›  ≫ ≫ ›  ≫ › *Keine Angabe ***Optional: ** Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine  ›  ›  Ausgeschriebene Tageszeiten z.B.  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  ›  ≫ ≫ ›  ≫ › *Keine Angabe ***Optional: ** Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine |
 |  |  |  |
 |  |  |  |
 | P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem |
 | Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  › | ≫ | ≫ › |
-| ≫ › | Keine Angabe | Optional:  Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine  › |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-625  Verordnungssoftware bezüglich  Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  › |
+| ≫ › | *Keine Angabe* | **Optional: ** Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine  › |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-625  Verordnungssoftware bezüglich  Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  › |
 |  |  | P3-625 |
 | Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem | Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für |
-| P3-625  Verordnungssoftware bezüglich  Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem | Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  › | ≫ ≫ ›  ≫ ›  Keine Angabe  Optional: |
+| P3-625  Verordnungssoftware bezüglich  Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem | Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  › | ≫ ≫ ›  ≫ › *Keine Angabe ***Optional:** |
 | Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine  ›  ›  Ausgeschriebene Tageszeiten z.B. |  |  |
 |  |  |  |
 | P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für |
@@ -2103,17 +2103,17 @@ Betäubungsmittelverordnungen bezüglich der Dosierungsangabe bei der Verordnung
 |  |  |  |
 | P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für |
 | › | ≫ ≫ | ›  ≫ |
-| › | Keine Angabe  Optional: | Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine |
+| › | *Keine Angabe ***Optional:** | Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine |
 | P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem |
 | Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  › | ≫ | ≫ ›  ≫ |
-| › | Keine Angabe  Optional: | Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine  › |
+| › | *Keine Angabe ***Optional:** | Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine  › |
 | › | Ausgeschriebene Tageszeiten z.B. |  |
 | P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung: |
 | Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für | › | ≫ ≫ › |
-| ≫ | ›  Keine Angabe  Optional: | Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine  › |
+| ≫ | › *Keine Angabe ***Optional:** | Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine  › |
 | P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  ›  ≫ |
-| ≫ ›  ≫ | › | Keine Angabe |
-| Optional:  Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine | › | › |
+| ≫ ›  ≫ | › | *Keine Angabe* |
+| **Optional: ** Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine | › | › |
 | Ausgeschriebene Tageszeiten z.B. |  |  |
 | P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem |
 
@@ -2121,156 +2121,156 @@ Welche Möglichkeiten muss die der Dosierungsangabe verpflichtend  anbieten? Wel
 
 ---
 
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
-| P3-625 | missverständliche  Missverständlich Dosierungsanweisungen sind bspw.: | ›  › |
-| P3-625 | missverständliche | Missverständlich Dosierungsanweisungen sind bspw.: |
+| P3-625 | **missverständliche ** Missverständlich Dosierungsanweisungen sind bspw.: | ›  › |
+| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: |
 | › | › | › |
 | › | › | › |
 | › | › | › |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-625  missverständliche  Missverständlich Dosierungsanweisungen sind bspw.: ›  ›  ›  › |
-| P3-625 | missverständliche | Missverständlich Dosierungsanweisungen sind bspw.: › |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-625 **missverständliche ** Missverständlich Dosierungsanweisungen sind bspw.: ›  ›  ›  › |
+| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: › |
 | › | ›  ›  › | ›  ›  ›  ›  ›  P3-625  Rezept verwendet werden? Ja, die Software kann seinen Anwendern weiterhin die Möglichkeit von Kürzeln,  ›  ›    › Aus möglichen Kürzeln, Tastenkombinationen u. ä. muss die Software beispielsweise die  P3-625 |
-| P3-625 | missverständliche | Missverständlich Dosierungsanweisungen sind bspw.: |
+| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: |
 | › | › | › |
 | › | › |  |
 | › | › | › |
 | › | › |  |
-| P3-625 | missverständliche | Missverständlich Dosierungsanweisungen sind bspw.: › |
+| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: › |
 | › | › |  |
 | › | › | › |
-| P3-625 | missverständliche | Missverständlich Dosierungsanweisungen sind bspw.: ›  › |
+| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: ›  › |
 | ›  › | › | › |
-| P3-625  missverständliche | Missverständlich Dosierungsanweisungen sind bspw.: ›  › | ›  › |
-| P3-625 | missverständliche | Missverständlich Dosierungsanweisungen sind bspw.: › |
+| P3-625 **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: ›  › | ›  › |
+| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: › |
 | › | › | › |
 | ›  › | › |  |
 | › | › | › |
 | P3-625 | Rezept verwendet werden? | Ja, die Software kann seinen Anwendern weiterhin die Möglichkeit von Kürzeln, |
 | Aus möglichen Kürzeln, Tastenkombinationen u. ä. muss die Software beispielsweise die | P3-625 | Gibt es eine |
-| P3-625  missverständliche  Missverständlich Dosierungsanweisungen sind bspw.: › | › |  |
+| P3-625 **missverständliche ** Missverständlich Dosierungsanweisungen sind bspw.: › | › |  |
 | ›  › | › | › |
 | › | › |  |
-| P3-625 | missverständliche | Missverständlich Dosierungsanweisungen sind bspw.: › |
+| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: › |
 | › | › | › |
-| P3-625 | missverständliche | Missverständlich Dosierungsanweisungen sind bspw.: |
+| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: |
 | › | › | › |
 | › | › | › |
 | › | › | › |
 | › |  | P3-625 |
-| P3-625 | missverständliche | Missverständlich Dosierungsanweisungen sind bspw.: |
+| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: |
 | › | › | › |
 | › | › |  |
 | › | › | › |
 | › | › |  |
-| P3-625 | missverständliche | Missverständlich Dosierungsanweisungen sind bspw.: › |
+| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: › |
 | › | › | › |
 | › | › | › |
-| P3-625 | missverständliche | Missverständlich Dosierungsanweisungen sind bspw.: |
+| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: |
 | › | › | › |
 | › | › | › |
-| P3-625 | missverständliche | Missverständlich Dosierungsanweisungen sind bspw.: ›  ›  › |
-| P3-625 | missverständliche | Missverständlich Dosierungsanweisungen sind bspw.: ›  ›  › |
-| P3-625 | missverständliche | Missverständlich Dosierungsanweisungen sind bspw.: ›  ›  ›   ›  ›  ›  › |
-| P3-625 | missverständliche | Missverständlich Dosierungsanweisungen sind bspw.: ›  ›  ›  ›  ›  ›  ›  ›  ›  ›  ›  ›  ›  ›  ›  ›  ›  Aus möglichen Kürzeln, Tastenkombinationen u. ä. muss die Software beispielsweise die  P3-625  Gibt es eine  Es gibt |
+| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: ›  ›  › |
+| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: ›  ›  › |
+| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: ›  ›  ›   ›  ›  ›  › |
+| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: ›  ›  ›  ›  ›  ›  ›  ›  ›  ›  ›  ›  ›  ›  ›  ›  ›  Aus möglichen Kürzeln, Tastenkombinationen u. ä. muss die Software beispielsweise die  P3-625  Gibt es eine  Es gibt |
 | P3-625 | Rezept verwendet werden? | Ja, die Software kann seinen Anwendern weiterhin die Möglichkeit von Kürzeln,  Aus möglichen Kürzeln, Tastenkombinationen u. ä. muss die Software beispielsweise die |
 | P3-625 | Gibt es eine | Es gibt |
-| P3-625 | missverständliche | Missverständlich Dosierungsanweisungen sind bspw.: › |
+| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: › |
 | › | › | › |
 | › | › | ›  › |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-625  missverständliche  Missverständlich Dosierungsanweisungen sind bspw.: ›  › |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-625 **missverständliche ** Missverständlich Dosierungsanweisungen sind bspw.: ›  › |
 |  |  | P3-625 |
-| missverständliche | Missverständlich Dosierungsanweisungen sind bspw.: › |  |
-| P3-625  missverständliche  Missverständlich Dosierungsanweisungen sind bspw.: › | › | ›  ›  ›  ›  › |
+| **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: › |  |
+| P3-625 **missverständliche ** Missverständlich Dosierungsanweisungen sind bspw.: › | › | ›  ›  ›  ›  › |
 | ›  ›  › | P3-625  Rezept verwendet werden? Ja, die Software kann seinen Anwendern weiterhin die Möglichkeit von Kürzeln, | Aus möglichen Kürzeln, Tastenkombinationen u. ä. muss die Software beispielsweise die |
 | P3-625  Gibt es eine  Es gibt |  |  |
-| P3-625 | missverständliche | Missverständlich Dosierungsanweisungen sind bspw.: › |
+| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: › |
 | › | › | ›  › |
-| P3-625 | missverständliche | Missverständlich Dosierungsanweisungen sind bspw.: |
+| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: |
 | › | › | › |
 |  | P3-625 | Rezept verwendet werden? Ja, die Software kann seinen Anwendern weiterhin die Möglichkeit von Kürzeln,  Aus möglichen Kürzeln, Tastenkombinationen u. ä. muss die Software beispielsweise die |
-| P3-625 | missverständliche | Missverständlich Dosierungsanweisungen sind bspw.: › |
+| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: › |
 | › | › | ›  › |
 | › | › |  |
-| P3-625 | missverständliche | Missverständlich Dosierungsanweisungen sind bspw.: › |
+| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: › |
 | › | › | ›  › |
 | › | › | › |
 | › | › |  |
-| P3-625 | missverständliche | Missverständlich Dosierungsanweisungen sind bspw.: |
+| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: |
 | › | › | ›  › |
 | › | ›  › | › |
-| P3-625 | missverständliche | Missverständlich Dosierungsanweisungen sind bspw.: ›  ›  › |
+| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: ›  ›  › |
 | ›  › | › |  |
 | › | › | › |
 | › | P3-625  Rezept verwendet werden? | Ja, die Software kann seinen Anwendern weiterhin die Möglichkeit von Kürzeln, |
-| P3-625 | missverständliche | Missverständlich Dosierungsanweisungen sind bspw.: › |
+| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: › |
 
 Was sind Beispiele für Ein ausschließlicher Verweis auf die Packungsbeilage („siehe Packungsbeilage „Einnahme gemäß Packungsbeilage“ o.ä.) ist keine hinreichende Dosierungsangabe  im Sinne der AMVV.  >>Dj ½<<  (Korrekt: >>Dj<<, eine sinnvolle Kombination einer Ziffer mit Dj nicht möglich) >>-1-0-1<<  (Unvollständiges Viererschema? korrekt: z.B. >>0-1-0-1<<; >>1-0-1<<) >>1 --1-1<< (2. Dosierangabe (Dosierangabe für mittags) fehlt; korrekt: z.B. >>1-0-1-1<<; >>1-1-1<<)) >>--1-0-1<< (1. Dosierangabe (Dosierangabe für morgens) fehlt) >>1-1-1 --<< (4. Dosierangabe (Dosierangabe zur Nacht) fehlt) 1-0-0 („>>“ und „<<“ fehlt) >>1-0-0 („<<“ fehlt) 1-0-1 nicht korrekt, „>>“ und „<<“ fehlt) >>0 ½-0-0<< (½ anstatt 0 ½ korrekt) Dürfen in der Software weiterhin  zur Übernahme der Dosierungsanweisungen auf dem Tastenkombinationen u. ä. zur Übernahme von bzw. Generierung der Dosierungsanweisungen auf ein Rezept ermöglichen. oben beschriebenen eindeutigen Dosierungsschemata erzeugen (z.B. aus 111 wird >>1 -1- 1<<).  Feldbegrenzung  für die Dosierungsangabe? Was geschieht, wenn zwei Zeilen für die Verordnung inklusive Dosierungsangabe nicht ausreichen? keine Feldbegrenzung  für die Dosierungsangabe. Wenn zwei Zeilen für ein verordnetes Produkt nicht ausreichen, müssen mehr Zeilen verwendet werden, auch wenn das bedeutet, dass u.U. weniger als drei Produkte auf dem Rezept Platz finden. ÄrztInnen müssen  von der Software darauf hingewiesen werden, dass ggf. der Platz auf dem Rezept nicht ausreicht und ein zweites Rezept für den Druck erforderlich wird.
 
 ---
 
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
 | P3-625 | Wie sollte idealerweise mit der  Grundsätzlich ist zu begrüßen, dass der Gesetzgeber die Ausstellung eines | Es wird empfohlen, dass eine Verordnung aus dem BMP heraus automatisch d.h. durch  P3-625 |
 | P3-625 | Wie sollte idealerweise mit der | Grundsätzlich ist zu begrüßen, dass der Gesetzgeber die Ausstellung eines |
 | Es wird empfohlen, dass eine Verordnung aus dem BMP heraus automatisch d.h. durch | P3-625 | Inwiefern ist eine  Eine |
 | Patientennamen verordnet und an den Patienten ausgehändigt werden. Die Eingabe hat durch ÄrztInnen aktiv zu erfolgen. | P3-625 | Inwiefern ist eine |
 | Eine  Der Arzt muss nach Auswahl eines Arzneimittels immer aktiv eine Auswahl zwischen den | Der Wechsel zwischen den oben genannten Auswahlmöglichkeiten muss nach einer |  |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-625  Wie sollte idealerweise mit der  Grundsätzlich ist zu begrüßen, dass der Gesetzgeber die Ausstellung eines  Es wird empfohlen, dass eine Verordnung aus dem BMP heraus automatisch d.h. durch  P3-625  Inwiefern ist eine  Eine  Patientennamen verordnet und an den Patienten ausgehändigt werden. |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-625  Wie sollte idealerweise mit der  Grundsätzlich ist zu begrüßen, dass der Gesetzgeber die Ausstellung eines  Es wird empfohlen, dass eine Verordnung aus dem BMP heraus automatisch d.h. durch  P3-625  Inwiefern ist eine  Eine  Patientennamen verordnet und an den Patienten ausgehändigt werden. |
 | P3-625 | Wie sollte idealerweise mit der | Grundsätzlich ist zu begrüßen, dass der Gesetzgeber die Ausstellung eines  Es wird empfohlen, dass eine Verordnung aus dem BMP heraus automatisch d.h. durch |
 | P3-625 | Inwiefern ist eine  Eine  Patientennamen verordnet und an den Patienten ausgehändigt werden. Die Eingabe hat durch ÄrztInnen aktiv zu erfolgen. | P3-625  Inwiefern ist eine  Eine  Der Arzt muss nach Auswahl eines Arzneimittels immer aktiv eine Auswahl zwischen den  Der Wechsel zwischen den oben genannten Auswahlmöglichkeiten muss nach einer  P3-625  Patientennamen verordnet und an den Patienten ausgehändigt werden. Die Eingabe hat durch ÄrztInnen aktiv zu erfolgen.  P3-625 |
 | P3-625 | Wie sollte idealerweise mit der | Grundsätzlich ist zu begrüßen, dass der Gesetzgeber die Ausstellung eines |
@@ -2320,7 +2320,7 @@ Was sind Beispiele für Ein ausschließlicher Verweis auf die Packungsbeilage (�
 | P3-625 | Wie sollte idealerweise mit der | Grundsätzlich ist zu begrüßen, dass der Gesetzgeber die Ausstellung eines  Es wird empfohlen, dass eine Verordnung aus dem BMP heraus automatisch d.h. durch |
 | P3-625 | Inwiefern ist eine | Eine  Patientennamen verordnet und an den Patienten ausgehändigt werden. Die Eingabe hat durch ÄrztInnen aktiv zu erfolgen. |
 | P3-625 | Inwiefern ist eine | Eine  Der Arzt muss nach Auswahl eines Arzneimittels immer aktiv eine Auswahl zwischen den  Der Wechsel zwischen den oben genannten Auswahlmöglichkeiten muss nach einer |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-625  Wie sollte idealerweise mit der  Grundsätzlich ist zu begrüßen, dass der Gesetzgeber die Ausstellung eines  Es wird empfohlen, dass eine Verordnung aus dem BMP heraus automatisch d.h. durch  P3-625 |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-625  Wie sollte idealerweise mit der  Grundsätzlich ist zu begrüßen, dass der Gesetzgeber die Ausstellung eines  Es wird empfohlen, dass eine Verordnung aus dem BMP heraus automatisch d.h. durch  P3-625 |
 |  |  | P3-625 |
 | Wie sollte idealerweise mit der | Grundsätzlich ist zu begrüßen, dass der Gesetzgeber die Ausstellung eines  Es wird empfohlen, dass eine Verordnung aus dem BMP heraus automatisch d.h. durch |  |
 | P3-625  Wie sollte idealerweise mit der  Grundsätzlich ist zu begrüßen, dass der Gesetzgeber die Ausstellung eines  Es wird empfohlen, dass eine Verordnung aus dem BMP heraus automatisch d.h. durch | P3-625 | Inwiefern ist eine  Eine  Patientennamen verordnet und an den Patienten ausgehändigt werden. Die Eingabe hat durch ÄrztInnen aktiv zu erfolgen.  P3-625  Inwiefern ist eine  Eine |
@@ -2351,33 +2351,33 @@ Situation umgegangen werden, wenn dem Patienten bereits ein Medikationsplan bzw.
 
 ---
 
-| P3-630  Was ist unter dem neuen Begriff  Mit einer neuen gesetzlichen Regelung wurde die sogenannte | Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
+\| P3-630  Was ist unter dem neuen Begriff  Mit einer neuen gesetzlichen Regelung wurde die sogenannte | Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
 | P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
 |---|---|---|
 | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin | -Autoinjektors Emerade®: Patienten  sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. | Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf  Es wird empfohlen, den Aufdruck |
@@ -2466,41 +2466,41 @@ Ersatzverordnung “ zu verstehen? Ersatzverordnung eingeführt. Wenn aufgrund e
 
 ---
 
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
 |  | P3-630 | Sollte das Feld „ Es ist erlaubt und auch wünschenswert, dass das Feld „gebührenfrei“ automatisch gesetzt |
 |  | P3-630 |  |
 | Sollte das Feld „ Es ist erlaubt und auch wünschenswert, dass das Feld „gebührenfrei“ automatisch gesetzt |  |  |
 |  |  |  |
 |  |  |  |
-| BEZUG [ | 1] | FRAGE  ANTWORT    P3-630  Sollte das Feld „ Es ist erlaubt und auch wünschenswert, dass das Feld „gebührenfrei“ automatisch gesetzt |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT **   P3-630  Sollte das Feld „ Es ist erlaubt und auch wünschenswert, dass das Feld „gebührenfrei“ automatisch gesetzt |
 |  | P3-630 | Sollte das Feld „ |
 | Es ist erlaubt und auch wünschenswert, dass das Feld „gebührenfrei“ automatisch gesetzt |  |  |
 |  | P3-630 |  |
@@ -2550,7 +2550,7 @@ Ersatzverordnung “ zu verstehen? Ersatzverordnung eingeführt. Wenn aufgrund e
 |  | P3-630 | Sollte das Feld „ |
 | Es ist erlaubt und auch wünschenswert, dass das Feld „gebührenfrei“ automatisch gesetzt |  |  |
 |  |  |  |
-| BEZUG [ | 1] | FRAGE  ANTWORT    P3-630  Sollte das Feld „ Es ist erlaubt und auch wünschenswert, dass das Feld „gebührenfrei“ automatisch gesetzt |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT **   P3-630  Sollte das Feld „ Es ist erlaubt und auch wünschenswert, dass das Feld „gebührenfrei“ automatisch gesetzt |
 |  |  |  |
 | P3-630 | Sollte das Feld „ | Es ist erlaubt und auch wünschenswert, dass das Feld „gebührenfrei“ automatisch gesetzt |
 | P3-630  Sollte das Feld „ | Es ist erlaubt und auch wünschenswert, dass das Feld „gebührenfrei“ automatisch gesetzt |  |
@@ -2581,41 +2581,41 @@ Ersatzverordnung “ zu verstehen? Ersatzverordnung eingeführt. Wenn aufgrund e
 
 ---
 
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
 | P3-630 |  | P3-721  Wie ist der  Der Text „Ersatzverordnung |
 | P3-630 |  |  |
 | P3-721 | Wie ist der  Der Text „Ersatzverordnung | Alle weiteren Angaben, wie z.B. Dosierungsangaben, Hinweise und Freitexte folgen  Sollte eine Ersatzverordnung für ein T-Rezept notwendig sein, ist es aufgrund des nur |
 | Es darf auf einer Ersatzverordnung nur EIN Medikament stehen. Beispiel: | „Ersatzverordnung Medikament 1“ | Bei T-Rezepten wäre aufgrund des Platzmangels auch denkbar:  „Ersatzverordnung |
 | Fortsetzung des Medikamentennamens“. | P3-630 |  |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-630    P3-721  Wie ist der  Der Text „Ersatzverordnung  Alle weiteren Angaben, wie z.B. Dosierungsangaben, Hinweise und Freitexte folgen  Sollte eine Ersatzverordnung für ein T-Rezept notwendig sein, ist es aufgrund des nur  Es darf auf einer Ersatzverordnung nur EIN Medikament stehen. |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-630    P3-721  Wie ist der  Der Text „Ersatzverordnung  Alle weiteren Angaben, wie z.B. Dosierungsangaben, Hinweise und Freitexte folgen  Sollte eine Ersatzverordnung für ein T-Rezept notwendig sein, ist es aufgrund des nur  Es darf auf einer Ersatzverordnung nur EIN Medikament stehen. |
 | P3-630 |  | P3-721 |
 | Wie ist der | Der Text „Ersatzverordnung  Alle weiteren Angaben, wie z.B. Dosierungsangaben, Hinweise und Freitexte folgen  Sollte eine Ersatzverordnung für ein T-Rezept notwendig sein, ist es aufgrund des nur  Es darf auf einer Ersatzverordnung nur EIN Medikament stehen. Beispiel:  „Ersatzverordnung | Medikament 1“ Bei T-Rezepten wäre aufgrund des Platzmangels auch denkbar:  „Ersatzverordnung  Fortsetzung des Medikamentennamens“. P3-630    P3-721  P3-722  Muss bei einer  Können auch  Wie ist der  Der Text „Ersatzverordnung  Es darf auf einer Ersatzverordnung nur EIN Medikament stehen. Beispiel:  Medikament 1“ Bei T-Rezepten wäre aufgrund des Platzmangels auch denkbar:  Auf einer Ersatzverordnung muss nicht zwangsläufig ein Fertigarzneimittel mit PZN (z.B.  P3-640 |
 | P3-630 |  |  |
@@ -2665,7 +2665,7 @@ Ersatzverordnung “ zu verstehen? Ersatzverordnung eingeführt. Wenn aufgrund e
 | P3-630 |  | P3-721 |
 | Wie ist der | Der Text „Ersatzverordnung  Alle weiteren Angaben, wie z.B. Dosierungsangaben, Hinweise und Freitexte folgen | Sollte eine Ersatzverordnung für ein T-Rezept notwendig sein, ist es aufgrund des nur  Es darf auf einer Ersatzverordnung nur EIN Medikament stehen. Beispiel: |
 | „Ersatzverordnung Medikament 1“ | Bei T-Rezepten wäre aufgrund des Platzmangels auch denkbar:  „Ersatzverordnung | Fortsetzung des Medikamentennamens“. P3-630 |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-630    P3-721  Wie ist der |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-630    P3-721  Wie ist der |
 |  |  | P3-630 |
 |  | P3-721 |  |
 | P3-630    P3-721 | Wie ist der | Der Text „Ersatzverordnung  Alle weiteren Angaben, wie z.B. Dosierungsangaben, Hinweise und Freitexte folgen  Sollte eine Ersatzverordnung für ein T-Rezept notwendig sein, ist es aufgrund des nur  Es darf auf einer Ersatzverordnung nur EIN Medikament stehen. Beispiel:  „Ersatzverordnung Medikament 1“ Bei T-Rezepten wäre aufgrund des Platzmangels auch denkbar:  „Ersatzverordnung  Fortsetzung des Medikamentennamens“. |
@@ -2696,41 +2696,41 @@ K3-722 Aufdruck zur  vorzunehmen? zwingend ein PZN-Bezug Produkt vorliegen? Frei
 
 ---
 
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
 | P3-710 | Muss die  Ja, die Verordnungssoftware muss eine vollständige Unterstützung der eRezept | Grundlage hierfür ist der §73 Absatz 9 SGB V. Hieraus ergibt sich, dass Vertragsärzt An dieser Stelle sei darauf hingewiesen, dass die KBV keine Vorgaben hinsichtlich der  P3-710 |
 | P3-710 | Muss die | Ja, die Verordnungssoftware muss eine vollständige Unterstützung der eRezept |
 | Grundlage hierfür ist der §73 Absatz 9 SGB V. Hieraus ergibt sich, dass Vertragsärzt An dieser Stelle sei darauf hingewiesen, dass die KBV keine Vorgaben hinsichtlich der | P3-710 | Für welche |
 | Für Verordnungen von  Die elektronische Verordnung von verschreibungspflichtigen Arzneimitteln für GKV | Hinweis: Gemäß §86 Absatz 3 SGB V muss für die ärztliche Empfehlung („Grünes Rezept“) |  |
 |  |  |  |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-710  Muss die  Ja, die Verordnungssoftware muss eine vollständige Unterstützung der eRezept Grundlage hierfür ist der §73 Absatz 9 SGB V. Hieraus ergibt sich, dass Vertragsärzt An dieser Stelle sei darauf hingewiesen, dass die KBV keine Vorgaben hinsichtlich der  P3-710  Für welche  Für Verordnungen von |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-710  Muss die  Ja, die Verordnungssoftware muss eine vollständige Unterstützung der eRezept Grundlage hierfür ist der §73 Absatz 9 SGB V. Hieraus ergibt sich, dass Vertragsärzt An dieser Stelle sei darauf hingewiesen, dass die KBV keine Vorgaben hinsichtlich der  P3-710  Für welche  Für Verordnungen von |
 | P3-710 | Muss die | Ja, die Verordnungssoftware muss eine vollständige Unterstützung der eRezept Grundlage hierfür ist der §73 Absatz 9 SGB V. Hieraus ergibt sich, dass Vertragsärzt |
 | An dieser Stelle sei darauf hingewiesen, dass die KBV keine Vorgaben hinsichtlich der | P3-710  Für welche  Für Verordnungen von  Die elektronische Verordnung von verschreibungspflichtigen Arzneimitteln für GKV Hinweis: Gemäß §86 Absatz 3 SGB V muss für die ärztliche Empfehlung („Grünes Rezept“) | P3-710  Für Verordnungen von  Die elektronische Verordnung von verschreibungspflichtigen Arzneimitteln für GKV |
 | P3-710 | Muss die | Ja, die Verordnungssoftware muss eine vollständige Unterstützung der eRezept |
@@ -2780,7 +2780,7 @@ K3-722 Aufdruck zur  vorzunehmen? zwingend ein PZN-Bezug Produkt vorliegen? Frei
 | P3-710 | Muss die | Ja, die Verordnungssoftware muss eine vollständige Unterstützung der eRezept Grundlage hierfür ist der §73 Absatz 9 SGB V. Hieraus ergibt sich, dass Vertragsärzt |
 | An dieser Stelle sei darauf hingewiesen, dass die KBV keine Vorgaben hinsichtlich der | P3-710 | Für welche  Für Verordnungen von  Die elektronische Verordnung von verschreibungspflichtigen Arzneimitteln für GKV |
 | Hinweis: Gemäß §86 Absatz 3 SGB V muss für die ärztliche Empfehlung („Grünes Rezept“) |  |  |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-710  Muss die  Ja, die Verordnungssoftware muss eine vollständige Unterstützung der eRezept Grundlage hierfür ist der §73 Absatz 9 SGB V. Hieraus ergibt sich, dass Vertragsärzt An dieser Stelle sei darauf hingewiesen, dass die KBV keine Vorgaben hinsichtlich der |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-710  Muss die  Ja, die Verordnungssoftware muss eine vollständige Unterstützung der eRezept Grundlage hierfür ist der §73 Absatz 9 SGB V. Hieraus ergibt sich, dass Vertragsärzt An dieser Stelle sei darauf hingewiesen, dass die KBV keine Vorgaben hinsichtlich der |
 |  |  | P3-710 |
 | Muss die | Ja, die Verordnungssoftware muss eine vollständige Unterstützung der eRezept Grundlage hierfür ist der §73 Absatz 9 SGB V. Hieraus ergibt sich, dass Vertragsärzt | An dieser Stelle sei darauf hingewiesen, dass die KBV keine Vorgaben hinsichtlich der |
 | P3-710  Muss die  Ja, die Verordnungssoftware muss eine vollständige Unterstützung der eRezept Grundlage hierfür ist der §73 Absatz 9 SGB V. Hieraus ergibt sich, dass Vertragsärzt | An dieser Stelle sei darauf hingewiesen, dass die KBV keine Vorgaben hinsichtlich der | P3-710  Für welche  Für Verordnungen von  Die elektronische Verordnung von verschreibungspflichtigen Arzneimitteln für GKV Hinweis: Gemäß §86 Absatz 3 SGB V muss für die ärztliche Empfehlung („Grünes Rezept“) |
@@ -2811,156 +2811,156 @@ K3-722 Aufdruck zur  vorzunehmen? zwingend ein PZN-Bezug Produkt vorliegen? Frei
 
 ---
 
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
-| P3-710 | Verordnungssituationen Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: | ›  › |
-| P3-710 | Verordnungssituationen | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: |
+| P3-710 | **Verordnungssituationen** Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: | ›  › |
+| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: |
 | › | › | › |
 | › | › | › |
 | › | P3-710 |  |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-710  Verordnungssituationen Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  ›  ›  › |
-| P3-710 | Verordnungssituationen | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
-| › | ›  ›  › | ›  ›  P3-710  Warum dürfen für  Eine Verordnung von nichtapothekenpflichten Produkten aus dem Preis P3-710  Krankenkasse Die Arzneimittelverordnung Die technische Spezifikation insbesondere die FHIR ›  ›    › Ob die elektronische Verordnung möglich ist, regelt der PKV |
-| P3-710 | Verordnungssituationen | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-710 **Verordnungssituationen** Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  ›  ›  › |
+| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
+| › | ›  ›  › | ›  ›  P3-710  Warum dürfen für  Eine Verordnung von nichtapothekenpflichten Produkten aus dem Preis P3-710 **Krankenkasse** Die Arzneimittelverordnung Die technische Spezifikation insbesondere die FHIR ›  ›    › Ob die elektronische Verordnung möglich ist, regelt der PKV |
+| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: |
 | › | › | › |
 | › | › |  |
 | › | › |  |
 | P3-710 | Warum dürfen für  Eine Verordnung von nichtapothekenpflichten Produkten aus dem Preis | P3-710 |
-| P3-710 | Verordnungssituationen | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
+| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
 | › | › |  |
 | › | › | › |
-| P3-710 | Verordnungssituationen | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  › |
+| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  › |
 | ›  › | › | › |
-| P3-710  Verordnungssituationen | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  › | ›  › |
-| P3-710 | Verordnungssituationen | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
+| P3-710 **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  › | ›  › |
+| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
 | › | › | › |
 | ›  › | › |  |
 | P3-710 | Warum dürfen für | Eine Verordnung von nichtapothekenpflichten Produkten aus dem Preis |
-| P3-710 | Krankenkasse Die Arzneimittelverordnung | Die technische Spezifikation insbesondere die FHIR |
+| P3-710 | **Krankenkasse** Die Arzneimittelverordnung | Die technische Spezifikation insbesondere die FHIR |
 | Ob die elektronische Verordnung möglich ist, regelt der PKV |  |  |
-| P3-710  Verordnungssituationen Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › | › |  |
+| P3-710 **Verordnungssituationen** Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › | › |  |
 | ›  › | › | › |
 | › |  | P3-710 |
-| P3-710 | Verordnungssituationen | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
+| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
 | › | › | › |
-| P3-710 | Verordnungssituationen | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: |
+| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: |
 | › | › | › |
 | › | › | › |
 | › | P3-710 |  |
 | Warum dürfen für  Eine Verordnung von nichtapothekenpflichten Produkten aus dem Preis | P3-710 |  |
-| P3-710 | Verordnungssituationen | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: |
+| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: |
 | › | › | › |
 | › | › |  |
 | › | › |  |
 | P3-710 | Warum dürfen für  Eine Verordnung von nichtapothekenpflichten Produkten aus dem Preis |  |
-| P3-710 | Verordnungssituationen | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
+| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
 | › | › | › |
 | › | › | › |
-| P3-710 | Verordnungssituationen | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: |
+| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: |
 | › | › | › |
 | › | › | › |
-| P3-710 | Verordnungssituationen | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  ›  › |
-| P3-710 | Verordnungssituationen | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  ›  › |
-| P3-710 | Verordnungssituationen | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  ›  ›   ›  P3-710  Warum dürfen für  Eine Verordnung von nichtapothekenpflichten Produkten aus dem Preis |
-| P3-710 | Verordnungssituationen | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  ›  ›  ›  ›  ›  ›  P3-710  Warum dürfen für  Eine Verordnung von nichtapothekenpflichten Produkten aus dem Preis ›  ›  ›  ›  ›  ›  ›  Ob die elektronische Verordnung möglich ist, regelt der PKV |
-| P3-710 | Krankenkasse Die Arzneimittelverordnung | Die technische Spezifikation insbesondere die FHIR Ob die elektronische Verordnung möglich ist, regelt der PKV |
+| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  ›  › |
+| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  ›  › |
+| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  ›  ›   ›  P3-710  Warum dürfen für  Eine Verordnung von nichtapothekenpflichten Produkten aus dem Preis |
+| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  ›  ›  ›  ›  ›  ›  P3-710  Warum dürfen für  Eine Verordnung von nichtapothekenpflichten Produkten aus dem Preis ›  ›  ›  ›  ›  ›  ›  Ob die elektronische Verordnung möglich ist, regelt der PKV |
+| P3-710 | **Krankenkasse** Die Arzneimittelverordnung | Die technische Spezifikation insbesondere die FHIR Ob die elektronische Verordnung möglich ist, regelt der PKV |
 |  |  |  |
-| P3-710 | Verordnungssituationen | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
+| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
 | › | › | › |
 | › | › | › |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-710  Verordnungssituationen Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  › |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-710 **Verordnungssituationen** Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  › |
 |  |  | P3-710 |
-| Verordnungssituationen | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |  |
-| P3-710  Verordnungssituationen Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › | › | ›  ›  ›  ›  › |
-| P3-710  Warum dürfen für  Eine Verordnung von nichtapothekenpflichten Produkten aus dem Preis P3-710 | Krankenkasse Die Arzneimittelverordnung Die technische Spezifikation insbesondere die FHIR | Ob die elektronische Verordnung möglich ist, regelt der PKV |
+| **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |  |
+| P3-710 **Verordnungssituationen** Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › | › | ›  ›  ›  ›  › |
+| P3-710  Warum dürfen für  Eine Verordnung von nichtapothekenpflichten Produkten aus dem Preis P3-710 | **Krankenkasse** Die Arzneimittelverordnung Die technische Spezifikation insbesondere die FHIR | Ob die elektronische Verordnung möglich ist, regelt der PKV |
 |  |  |  |
-| P3-710 | Verordnungssituationen | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
+| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
 | › | › | ›  › |
-| P3-710 | Verordnungssituationen | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: |
+| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: |
 | P3-710 | Warum dürfen für | Eine Verordnung von nichtapothekenpflichten Produkten aus dem Preis |
-| P3-710 | Krankenkasse | Die Arzneimittelverordnung Die technische Spezifikation insbesondere die FHIR Ob die elektronische Verordnung möglich ist, regelt der PKV |
-| P3-710 | Verordnungssituationen | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
+| P3-710 | **Krankenkasse** | Die Arzneimittelverordnung Die technische Spezifikation insbesondere die FHIR Ob die elektronische Verordnung möglich ist, regelt der PKV |
+| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
 | › | › | ›  › |
 | › | › |  |
-| P3-710 | Verordnungssituationen | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
+| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
 | › | › | ›  › |
 | › | › |  |
 | P3-710 | Warum dürfen für  Eine Verordnung von nichtapothekenpflichten Produkten aus dem Preis |  |
-| P3-710 | Verordnungssituationen | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: |
+| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: |
 | › | › | ›  › |
 | › | ›  › | P3-710 |
-| P3-710 | Verordnungssituationen | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  ›  › |
+| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  ›  › |
 | ›  › | › |  |
 | › | P3-710 | Warum dürfen für |
-| Eine Verordnung von nichtapothekenpflichten Produkten aus dem Preis | P3-710  Krankenkasse Die Arzneimittelverordnung | Die technische Spezifikation insbesondere die FHIR |
-| P3-710 | Verordnungssituationen | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
+| Eine Verordnung von nichtapothekenpflichten Produkten aus dem Preis | P3-710 **Krankenkasse** Die Arzneimittelverordnung | Die technische Spezifikation insbesondere die FHIR |
+| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
 
 BTM-Rezepte T-Rezepte Verordnung von sonstigen nach § 31 SGB V einbezogene Produkte (bspw. Verbandmittel und Teststreifen) Verordnung von Hilfsmitteln Verordnung von Sprechstundenbedarf Verordnungen zu Lasten von Sonstige Kostenträger Verordnungen für GKV-Versicherte ohne Vorhandensein einer Versichertennummer (bei Erfassung der VSD im Ersatzverfahren)  ist die Für welche Verwendung einer dem 1. Januar 2021 ausgeschlossen? Medizinprodukte wie Teststreifen und Verbandmittel zunächst keine elektronischen Verordnungen verwendet werden?  - und Produktverzeichnis, wie bspw. Teststreifen und Verbandstoffen ist durch die Software zu unterbinden. Da diese nichtapothekenpflichten Produkte auch über andere Vertriebswege erhältlich sind wie bspw. Sanitätshäuser, die noch nicht an die TI angeschlossen sind, müssen Patientinnen und Patienten weiterhin die freie Wahl haben, woher sie diese Produkte beziehen möchten. Ist eine elektronische Verordnung zu Lasten einer privaten  möglich?  zu Lasten der privaten Krankenversicherer fällt nicht in die Regelungshoheit der Anlage 23 BMV -Ä. -Profile gemäß [KBV_ITA_VGEX_TECHNISCHE_ANLAGE_ERP] ermöglichen grundsätzlich die Abbildung einer solchen elektronischen Verordnung. -Verband.
 
 ---
 
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
 | P3-710 | Ist eine elektronische Verordnung  Die Arzneimittelverordnung | Die technischen Spezifikationen insbesondere die FHIR Ob die elektronische Verordnung möglich ist, regelt der Vertrag gemäß  P3-710 |
 | P3-710 | Ist eine elektronische Verordnung | Die Arzneimittelverordnung |
 | Die technischen Spezifikationen insbesondere die FHIR Ob die elektronische Verordnung möglich ist, regelt der Vertrag gemäß | P3-710 | Ist eine elektronische Verordnung |
 | Die Arzneimittelverordnung zu Lasten von Sonstigen Kostenträgern fällt nicht in die  Die technischen Spezifikationen insbesondere die FHIR | Ob die elektronische Verordnung möglich ist, wird in den Verträgen zwischen KBV und den | P3-710 |
 | Die  Perspektivisch wird die elektronische Verordnung auch auf weitere Produktgruppen wie |  |  |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-710  Ist eine elektronische Verordnung  Die Arzneimittelverordnung Die technischen Spezifikationen insbesondere die FHIR Ob die elektronische Verordnung möglich ist, regelt der Vertrag gemäß  P3-710  Ist eine elektronische Verordnung  Die Arzneimittelverordnung zu Lasten von Sonstigen Kostenträgern fällt nicht in die |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-710  Ist eine elektronische Verordnung  Die Arzneimittelverordnung Die technischen Spezifikationen insbesondere die FHIR Ob die elektronische Verordnung möglich ist, regelt der Vertrag gemäß  P3-710  Ist eine elektronische Verordnung  Die Arzneimittelverordnung zu Lasten von Sonstigen Kostenträgern fällt nicht in die |
 | P3-710 | Ist eine elektronische Verordnung | Die Arzneimittelverordnung Die technischen Spezifikationen insbesondere die FHIR |
 | Ob die elektronische Verordnung möglich ist, regelt der Vertrag gemäß | P3-710  Ist eine elektronische Verordnung  Die Arzneimittelverordnung zu Lasten von Sonstigen Kostenträgern fällt nicht in die  Die technischen Spezifikationen insbesondere die FHIR Ob die elektronische Verordnung möglich ist, wird in den Verträgen zwischen KBV und den | P3-710  Die  Perspektivisch wird die elektronische Verordnung auch auf weitere Produktgruppen wie  P3-710  Die Arzneimittelverordnung zu Lasten von Sonstigen Kostenträgern fällt nicht in die  Die technischen Spezifikationen insbesondere die FHIR P3-710 |
 | P3-710 | Ist eine elektronische Verordnung | Die Arzneimittelverordnung |
@@ -3010,7 +3010,7 @@ BTM-Rezepte T-Rezepte Verordnung von sonstigen nach § 31 SGB V einbezogene Prod
 | P3-710 | Ist eine elektronische Verordnung | Die Arzneimittelverordnung Die technischen Spezifikationen insbesondere die FHIR |
 | Ob die elektronische Verordnung möglich ist, regelt der Vertrag gemäß | P3-710 | Ist eine elektronische Verordnung  Die Arzneimittelverordnung zu Lasten von Sonstigen Kostenträgern fällt nicht in die  Die technischen Spezifikationen insbesondere die FHIR |
 | Ob die elektronische Verordnung möglich ist, wird in den Verträgen zwischen KBV und den | P3-710 | Die  Perspektivisch wird die elektronische Verordnung auch auf weitere Produktgruppen wie |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-710  Ist eine elektronische Verordnung  Die Arzneimittelverordnung Die technischen Spezifikationen insbesondere die FHIR Ob die elektronische Verordnung möglich ist, regelt der Vertrag gemäß |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-710  Ist eine elektronische Verordnung  Die Arzneimittelverordnung Die technischen Spezifikationen insbesondere die FHIR Ob die elektronische Verordnung möglich ist, regelt der Vertrag gemäß |
 |  |  | P3-710 |
 | Ist eine elektronische Verordnung | Die Arzneimittelverordnung Die technischen Spezifikationen insbesondere die FHIR | Ob die elektronische Verordnung möglich ist, regelt der Vertrag gemäß |
 | P3-710  Ist eine elektronische Verordnung  Die Arzneimittelverordnung Die technischen Spezifikationen insbesondere die FHIR | Ob die elektronische Verordnung möglich ist, regelt der Vertrag gemäß | P3-710  Ist eine elektronische Verordnung  Die Arzneimittelverordnung zu Lasten von Sonstigen Kostenträgern fällt nicht in die  Die technischen Spezifikationen insbesondere die FHIR Ob die elektronische Verordnung möglich ist, wird in den Verträgen zwischen KBV und den  P3-710  Die |
@@ -3041,113 +3041,113 @@ zu Lasten der Berufsgenossenschaften / Unfallkassen bspw. im Rahmen eines Arbeit
 
 ---
 
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
 | P3-720 | Darf auf dem Rezept der Zusatz  Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen. | Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die  P3-721 |
 | P3-720 | Darf auf dem Rezept der Zusatz | Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen. |
 | Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die | P3-721 | Ist der  Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die |
-| Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen  2 | ]. | P2-130 |
+| Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen **2** | ]. | P2-130 |
 | Darf eine Ärztin bzw. ein Arzt bei  Bei der Verordnung aus einer Verordnungssoftware ist eine Änderung der aus den | Sofern ein Anwender dennoch Änderungen an der aus der Verordnungssoftware | P3-720 |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-720  Darf auf dem Rezept der Zusatz  Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen.  Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die  P3-721  Ist der  Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die  Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-720  Darf auf dem Rezept der Zusatz  Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen.  Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die  P3-721  Ist der  Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die  Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen |
 | P3-720 | Darf auf dem Rezept der Zusatz | Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen.  Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die |
-| P3-721 | Ist der  Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die  Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen  2]. | P2-130  Darf eine Ärztin bzw. ein Arzt bei  Bei der Verordnung aus einer Verordnungssoftware ist eine Änderung der aus den  Sofern ein Anwender dennoch Änderungen an der aus der Verordnungssoftware  P3-720 Dürfen bei  Der Anforderungskatalog nach § 73 SGB V erstreckt sich nur auf die Verordnung von  P3-721  Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen  2 P2-130 |
+| P3-721 | Ist der  Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die  Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen **2**]. | P2-130  Darf eine Ärztin bzw. ein Arzt bei  Bei der Verordnung aus einer Verordnungssoftware ist eine Änderung der aus den  Sofern ein Anwender dennoch Änderungen an der aus der Verordnungssoftware  P3-720 Dürfen bei  Der Anforderungskatalog nach § 73 SGB V erstreckt sich nur auf die Verordnung von  P3-721  Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen **2** P2-130 |
 | P3-720 | Darf auf dem Rezept der Zusatz | Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen. |
 | Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die | P3-721 | Ist der |
-| Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die  Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen | 2]. |  |
+| Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die  Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen | **2**]. |  |
 | P2-130 | Darf eine Ärztin bzw. ein Arzt bei  Bei der Verordnung aus einer Verordnungssoftware ist eine Änderung der aus den | Sofern ein Anwender dennoch Änderungen an der aus der Verordnungssoftware |
 | P3-720 | Dürfen bei | Der Anforderungskatalog nach § 73 SGB V erstreckt sich nur auf die Verordnung von |
 | P3-720 | Darf auf dem Rezept der Zusatz | Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen.  Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die |
 | P3-721 | Ist der | Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die |
-| Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen  2 | ]. | P2-130 |
+| Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen **2** | ]. | P2-130 |
 | P3-720 | Darf auf dem Rezept der Zusatz | Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen.  Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die  P3-721 |
-| Ist der  Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die  Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen  2 | ]. | P2-130 |
+| Ist der  Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die  Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen **2** | ]. | P2-130 |
 | P3-720  Darf auf dem Rezept der Zusatz | Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen.  Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die  P3-721 | Ist der  Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die  Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen |
 | P3-720 | Darf auf dem Rezept der Zusatz | Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen.  Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die |
 | P3-721 | Ist der  Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die | Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen |
-| 2].  P2-130 | Darf eine Ärztin bzw. ein Arzt bei | Bei der Verordnung aus einer Verordnungssoftware ist eine Änderung der aus den |
+| **2**].  P2-130 | Darf eine Ärztin bzw. ein Arzt bei | Bei der Verordnung aus einer Verordnungssoftware ist eine Änderung der aus den |
 | Sofern ein Anwender dennoch Änderungen an der aus der Verordnungssoftware | P3-720 | Dürfen bei  Der Anforderungskatalog nach § 73 SGB V erstreckt sich nur auf die Verordnung von |
 |  |  |  |
 |  |  |  |
 | P3-720  Darf auf dem Rezept der Zusatz  Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen.  Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die | P3-721 |  |
-| Ist der  Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die  Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen  2 | ]. | P2-130 |
+| Ist der  Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die  Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen **2** | ]. | P2-130 |
 | Darf eine Ärztin bzw. ein Arzt bei | Bei der Verordnung aus einer Verordnungssoftware ist eine Änderung der aus den  Sofern ein Anwender dennoch Änderungen an der aus der Verordnungssoftware |  |
 | P3-720 | Darf auf dem Rezept der Zusatz | Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen.  Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die |
 | P3-721 | Ist der  Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die | Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen |
 | P3-720 | Darf auf dem Rezept der Zusatz | Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen. |
 | Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die | P3-721 | Ist der |
-| Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die  Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen | 2]. | P2-130 |
+| Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die  Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen | **2**]. | P2-130 |
 | Darf eine Ärztin bzw. ein Arzt bei  Bei der Verordnung aus einer Verordnungssoftware ist eine Änderung der aus den | Sofern ein Anwender dennoch Änderungen an der aus der Verordnungssoftware | P3-720 |
 | Dürfen bei | Der Anforderungskatalog nach § 73 SGB V erstreckt sich nur auf die Verordnung von |  |
 | P3-720 | Darf auf dem Rezept der Zusatz | Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen. |
 | Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die | P3-721 | Ist der |
-| Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die  Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen | 2]. |  |
+| Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die  Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen | **2**]. |  |
 | P2-130 | Darf eine Ärztin bzw. ein Arzt bei  Bei der Verordnung aus einer Verordnungssoftware ist eine Änderung der aus den | Sofern ein Anwender dennoch Änderungen an der aus der Verordnungssoftware |
 | P3-720 | Dürfen bei | Der Anforderungskatalog nach § 73 SGB V erstreckt sich nur auf die Verordnung von |
 | P3-720 | Darf auf dem Rezept der Zusatz | Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen.  Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die |
 | P3-721 | Ist der | Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die  Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen |
-| 2]. | P2-130 | Darf eine Ärztin bzw. ein Arzt bei |
+| **2**]. | P2-130 | Darf eine Ärztin bzw. ein Arzt bei |
 | P3-720 | Darf auf dem Rezept der Zusatz | Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen. |
 | Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die | P3-721 | Ist der  Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die |
-| Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen  2 | ]. | P2-130 |
+| Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen **2** | ]. | P2-130 |
 | P3-720 | Darf auf dem Rezept der Zusatz | Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen.  Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die  P3-721  Ist der |
 | P3-720 | Darf auf dem Rezept der Zusatz | Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen.  Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die  P3-721  Ist der  Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die |
 | P3-720 | Darf auf dem Rezept der Zusatz | Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen.  Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die  Ist der  Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die  ].  Darf eine Ärztin bzw. ein Arzt bei  Bei der Verordnung aus einer Verordnungssoftware ist eine Änderung der aus den  Sofern ein Anwender dennoch Änderungen an der aus der Verordnungssoftware  P3-720 Dürfen bei |
-| P3-720 | Darf auf dem Rezept der Zusatz | Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen.  Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die  P3-721  Ist der  Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die  Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen  2].  P2-130  Darf eine Ärztin bzw. ein Arzt bei  Bei der Verordnung aus einer Verordnungssoftware ist eine Änderung der aus den  Sofern ein Anwender dennoch Änderungen an der aus der Verordnungssoftware  P3-720 Dürfen bei  Der Anforderungskatalog nach § 73 SGB V erstreckt sich nur auf die Verordnung von  Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die  P3-721  Ist der  Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die  Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen  2].  P2-130  Darf eine Ärztin bzw. ein Arzt bei  Bei der Verordnung aus einer Verordnungssoftware ist eine Änderung der aus den |
+| P3-720 | Darf auf dem Rezept der Zusatz | Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen.  Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die  P3-721  Ist der  Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die  Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen **2**].  P2-130  Darf eine Ärztin bzw. ein Arzt bei  Bei der Verordnung aus einer Verordnungssoftware ist eine Änderung der aus den  Sofern ein Anwender dennoch Änderungen an der aus der Verordnungssoftware  P3-720 Dürfen bei  Der Anforderungskatalog nach § 73 SGB V erstreckt sich nur auf die Verordnung von  Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die  P3-721  Ist der  Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die  Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen **2**].  P2-130  Darf eine Ärztin bzw. ein Arzt bei  Bei der Verordnung aus einer Verordnungssoftware ist eine Änderung der aus den |
 |  |  |  |
 |  |  |  |
 | P3-720 | Darf auf dem Rezept der Zusatz | Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen.  Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die |
-| P3-721 | Ist der | Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die  Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen  2 |
+| P3-721 | Ist der | Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die  Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen **2** |
 | ]. | P2-130 | Darf eine Ärztin bzw. ein Arzt bei  Bei der Verordnung aus einer Verordnungssoftware ist eine Änderung der aus den  Sofern ein Anwender dennoch Änderungen an der aus der Verordnungssoftware |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-720  Darf auf dem Rezept der Zusatz  Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen.  Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die  P3-721 |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-720  Darf auf dem Rezept der Zusatz  Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen.  Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die  P3-721 |
 |  |  | P3-720 |
 | Darf auf dem Rezept der Zusatz | Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen.  Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die |  |
-| P3-720  Darf auf dem Rezept der Zusatz  Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen.  Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die | P3-721 | Ist der  Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die  Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen  2].  P2-130  Darf eine Ärztin bzw. ein Arzt bei |
+| P3-720  Darf auf dem Rezept der Zusatz  Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen.  Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die | P3-721 | Ist der  Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die  Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen **2**].  P2-130  Darf eine Ärztin bzw. ein Arzt bei |
 | Bei der Verordnung aus einer Verordnungssoftware ist eine Änderung der aus den  Sofern ein Anwender dennoch Änderungen an der aus der Verordnungssoftware  P3-720 Dürfen bei  Der Anforderungskatalog nach § 73 SGB V erstreckt sich nur auf die Verordnung von |  |  |
 |  |  |  |
 | P3-720 | Darf auf dem Rezept der Zusatz | Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen.  Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die |
-| P3-721 | Ist der  Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die | Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen  2]. |
+| P3-721 | Ist der  Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die | Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen **2**]. |
 | P3-720 | Darf auf dem Rezept der Zusatz | Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen. |
 | Sofern ein Anwender dennoch Änderungen an der aus der Verordnungssoftware | P3-720 | Dürfen bei |
 | Der Anforderungskatalog nach § 73 SGB V erstreckt sich nur auf die Verordnung von |  |  |
 | P3-720 | Darf auf dem Rezept der Zusatz | Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen.  Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die |
-| P3-721 | Ist der  Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die | Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen  2]. |
+| P3-721 | Ist der  Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die | Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen **2**]. |
 | P2-130 | Darf eine Ärztin bzw. ein Arzt bei | Bei der Verordnung aus einer Verordnungssoftware ist eine Änderung der aus den |
 | P3-720 | Darf auf dem Rezept der Zusatz | Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen.  Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die |
-| P3-721 | Ist der | Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die  Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen  2]. |
+| P3-721 | Ist der | Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die  Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen **2**]. |
 | P2-130 | Darf eine Ärztin bzw. ein Arzt bei | Bei der Verordnung aus einer Verordnungssoftware ist eine Änderung der aus den  Sofern ein Anwender dennoch Änderungen an der aus der Verordnungssoftware |
 | P3-720 | Dürfen bei | Der Anforderungskatalog nach § 73 SGB V erstreckt sich nur auf die Verordnung von |
 | P3-720 | Darf auf dem Rezept der Zusatz | Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen. |
 | Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die | P3-721 | Ist der  Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die  Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen |
-| 2]. | P2-130  Darf eine Ärztin bzw. ein Arzt bei | Bei der Verordnung aus einer Verordnungssoftware ist eine Änderung der aus den  Sofern ein Anwender dennoch Änderungen an der aus der Verordnungssoftware |
+| **2**]. | P2-130  Darf eine Ärztin bzw. ein Arzt bei | Bei der Verordnung aus einer Verordnungssoftware ist eine Änderung der aus den  Sofern ein Anwender dennoch Änderungen an der aus der Verordnungssoftware |
 | P3-720 | Darf auf dem Rezept der Zusatz | Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen.  Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die  P3-721  Ist der |
-| Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die  Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen  2]. | P2-130 |  |
+| Ja, der Rezeptdruck ist im Rahmen dieses Anforderungskatalogs umzusetzen. Die  Die weiteren Angaben auf dem Rezept haben gesetzlichen und rahmenvertraglichen **2**]. | P2-130 |  |
 | Darf eine Ärztin bzw. ein Arzt bei  Bei der Verordnung aus einer Verordnungssoftware ist eine Änderung der aus den | Sofern ein Anwender dennoch Änderungen an der aus der Verordnungssoftware | P3-720 |
 | Dürfen bei  Der Anforderungskatalog nach § 73 SGB V erstreckt sich nur auf die Verordnung von |  |  |
 | P3-720 | Darf auf dem Rezept der Zusatz | Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen.  Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die |
@@ -3156,41 +3156,41 @@ Verordnung nach § 27a SGB V (zur Erläuterung „Verordnung im Rahmen künstlic
 
 ---
 
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
 | K3-722 | Darf auf eine  Nein, Wirkstoffverordnungen sind vom PZN | P3-730  Wie ist im Rahmen der |
 | K3-722 | Darf auf eine | Nein, Wirkstoffverordnungen sind vom PZN |
 | P3-730 | Wie ist im Rahmen der | Die Arzneimittel müssen direkt auf dem entsprechenden  Bei OTX-Arzneimitteln (Merkmal 053) kann das Privat |
 | Die Anforderung ist so zu interpretieren, dass ein Rezeptwechsel möglich sein muss, ohne | P3-730 | Ist alternativ zum Privatrezept |
 | Wenn ja: In welchen Fällen?  Ja, die Implementierung einer ärztlichen Empfehlung von apothekenpflichtigen | Dies ist in folgenden Fällen möglich: Im Falle  Hinweis: Gemäß § 86 Absatz 3 SGB V muss für die elektronische ärztliche Empfehlung |  |
-| BEZUG [ | 1] | FRAGE  ANTWORT  K3-722  Darf auf eine  Nein, Wirkstoffverordnungen sind vom PZN P3-730  Wie ist im Rahmen der  Die Arzneimittel müssen direkt auf dem entsprechenden  Bei OTX-Arzneimitteln (Merkmal 053) kann das Privat Die Anforderung ist so zu interpretieren, dass ein Rezeptwechsel möglich sein muss, ohne |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** K3-722  Darf auf eine  Nein, Wirkstoffverordnungen sind vom PZN P3-730  Wie ist im Rahmen der  Die Arzneimittel müssen direkt auf dem entsprechenden  Bei OTX-Arzneimitteln (Merkmal 053) kann das Privat Die Anforderung ist so zu interpretieren, dass ein Rezeptwechsel möglich sein muss, ohne |
 | K3-722 | Darf auf eine | Nein, Wirkstoffverordnungen sind vom PZN |
 | P3-730 | Wie ist im Rahmen der  Die Arzneimittel müssen direkt auf dem entsprechenden  Bei OTX-Arzneimitteln (Merkmal 053) kann das Privat Die Anforderung ist so zu interpretieren, dass ein Rezeptwechsel möglich sein muss, ohne  P3-730 | Ist alternativ zum Privatrezept  Wenn ja: In welchen Fällen?  Ja, die Implementierung einer ärztlichen Empfehlung von apothekenpflichtigen  Dies ist in folgenden Fällen möglich: Im Falle  Hinweis: Gemäß § 86 Absatz 3 SGB V muss für die elektronische ärztliche Empfehlung  Wie ist im Rahmen der  Die Anforderung ist so zu interpretieren, dass ein Rezeptwechsel möglich sein muss, ohne  Ist alternativ zum Privatrezept |
 | K3-722 | Darf auf eine | Nein, Wirkstoffverordnungen sind vom PZN |
@@ -3240,7 +3240,7 @@ Verordnung nach § 27a SGB V (zur Erläuterung „Verordnung im Rahmen künstlic
 | K3-722 | Darf auf eine | Nein, Wirkstoffverordnungen sind vom PZN |
 | P3-730 | Wie ist im Rahmen der  Die Arzneimittel müssen direkt auf dem entsprechenden | Bei OTX-Arzneimitteln (Merkmal 053) kann das Privat Die Anforderung ist so zu interpretieren, dass ein Rezeptwechsel möglich sein muss, ohne |
 | P3-730 | Ist alternativ zum Privatrezept | Wenn ja: In welchen Fällen?  Ja, die Implementierung einer ärztlichen Empfehlung von apothekenpflichtigen  Dies ist in folgenden Fällen möglich: Im Falle |
-| BEZUG [ | 1] | FRAGE  ANTWORT  K3-722  Darf auf eine  Nein, Wirkstoffverordnungen sind vom PZN P3-730 |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** K3-722  Darf auf eine  Nein, Wirkstoffverordnungen sind vom PZN P3-730 |
 |  |  | K3-722 |
 | Darf auf eine | Nein, Wirkstoffverordnungen sind vom PZN | P3-730 |
 | K3-722  Darf auf eine  Nein, Wirkstoffverordnungen sind vom PZN | P3-730 | Wie ist im Rahmen der  Die Arzneimittel müssen direkt auf dem entsprechenden  Bei OTX-Arzneimitteln (Merkmal 053) kann das Privat Die Anforderung ist so zu interpretieren, dass ein Rezeptwechsel möglich sein muss, ohne  P3-730  Ist alternativ zum Privatrezept  Wenn ja: In welchen Fällen? |
@@ -3271,41 +3271,41 @@ gedruckt werden? Formularauswahl Verordnungsworkflow definiert bzw. ab wann lieg
 
 ---
 
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
 | P3-730 | Falls das AMV- | Sollte das AMV-Verordnungsmodul die Verordnung von Hilfsmitteln aus der AMV- Die Verordnung von in AMV-Datenbanken gelisteten Hilfsmitteln erfolgt bei GKV- |
 | P3-730 | Falls das AMV- |  |
 | Sollte das AMV-Verordnungsmodul die Verordnung von Hilfsmitteln aus der AMV- | Die Verordnung von in AMV-Datenbanken gelisteten Hilfsmitteln erfolgt bei GKV- | Die Verordnungssoftware muss auch für die Hilfsmittelverordnung die Vorgaben |
 | K4-150 | K4-200 | Unter welcher Bedingung sind die  In diesem Zusammenhang ist die konditionale Pflichtfunktion so zu interpretieren, dass |
 | P3-270 | Muss das PDF-Dokument in der | Mit der Einführung des AIS (Arztinformationssystem) müssen die PDF |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-730  Falls das AMV- Sollte das AMV-Verordnungsmodul die Verordnung von Hilfsmitteln aus der AMV- Die Verordnung von in AMV-Datenbanken gelisteten Hilfsmitteln erfolgt bei GKV- Die Verordnungssoftware muss auch für die Hilfsmittelverordnung die Vorgaben  K4-150 |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-730  Falls das AMV- Sollte das AMV-Verordnungsmodul die Verordnung von Hilfsmitteln aus der AMV- Die Verordnung von in AMV-Datenbanken gelisteten Hilfsmitteln erfolgt bei GKV- Die Verordnungssoftware muss auch für die Hilfsmittelverordnung die Vorgaben  K4-150 |
 | P3-730 | Falls das AMV- | Sollte das AMV-Verordnungsmodul die Verordnung von Hilfsmitteln aus der AMV- |
 | Die Verordnung von in AMV-Datenbanken gelisteten Hilfsmitteln erfolgt bei GKV- | Die Verordnungssoftware muss auch für die Hilfsmittelverordnung die Vorgaben  K4-150  K4-200 | Unter welcher Bedingung sind die  In diesem Zusammenhang ist die konditionale Pflichtfunktion so zu interpretieren, dass  P3-270  Muss das PDF-Dokument in der  Mit der Einführung des AIS (Arztinformationssystem) müssen die PDF   P3-721  Welche    Folgende Abgabehinweise müssen für den Patienten auf dem Rezept enthalten sein. Sie  Die Verordnung von in AMV-Datenbanken gelisteten Hilfsmitteln erfolgt bei GKV- K4-150  Unter welcher Bedingung sind die  ›  › |
 | P3-730 | Falls das AMV- |  |
@@ -3355,7 +3355,7 @@ gedruckt werden? Formularauswahl Verordnungsworkflow definiert bzw. ab wann lieg
 | P3-730 | Falls das AMV- | Sollte das AMV-Verordnungsmodul die Verordnung von Hilfsmitteln aus der AMV- |
 | Die Verordnung von in AMV-Datenbanken gelisteten Hilfsmitteln erfolgt bei GKV- | Die Verordnungssoftware muss auch für die Hilfsmittelverordnung die Vorgaben | K4-150 |
 | K4-200 | Unter welcher Bedingung sind die  In diesem Zusammenhang ist die konditionale Pflichtfunktion so zu interpretieren, dass | P3-270 |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-730  Falls das AMV- Sollte das AMV-Verordnungsmodul die Verordnung von Hilfsmitteln aus der AMV- Die Verordnung von in AMV-Datenbanken gelisteten Hilfsmitteln erfolgt bei GKV- |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-730  Falls das AMV- Sollte das AMV-Verordnungsmodul die Verordnung von Hilfsmitteln aus der AMV- Die Verordnung von in AMV-Datenbanken gelisteten Hilfsmitteln erfolgt bei GKV- |
 |  |  | P3-730 |
 | Falls das AMV- | Sollte das AMV-Verordnungsmodul die Verordnung von Hilfsmitteln aus der AMV- |  |
 | P3-730  Falls das AMV- Sollte das AMV-Verordnungsmodul die Verordnung von Hilfsmitteln aus der AMV- | Die Verordnung von in AMV-Datenbanken gelisteten Hilfsmitteln erfolgt bei GKV- | Die Verordnungssoftware muss auch für die Hilfsmittelverordnung die Vorgaben  K4-150  K4-200  Unter welcher Bedingung sind die  In diesem Zusammenhang ist die konditionale Pflichtfunktion so zu interpretieren, dass |
@@ -3386,41 +3386,41 @@ unterstützt: Was muss bei der den AMV-Datenbanken beachtet werden?  Statistik-F
 
 ---
 
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
-| BEZUG [1] | FRAGE | ANTWORT |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
 | P3-141 | Müssen ausnahmslos alle Rote- Es ist ausreichend, alle Rote-Hand-Briefe, die nach dem 01.04.2023 veröffentlicht wurden, | Die Anforderung (1) in P3- |
 | P3-141 | Müssen ausnahmslos alle Rote- | Es ist ausreichend, alle Rote-Hand-Briefe, die nach dem 01.04.2023 veröffentlicht wurden, |
 | Die Anforderung (1) in P3- |  |  |
 |  |  |  |
 |  |  |  |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-141  Müssen ausnahmslos alle Rote- Es ist ausreichend, alle Rote-Hand-Briefe, die nach dem 01.04.2023 veröffentlicht wurden,  Die Anforderung (1) in P3- |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-141  Müssen ausnahmslos alle Rote- Es ist ausreichend, alle Rote-Hand-Briefe, die nach dem 01.04.2023 veröffentlicht wurden,  Die Anforderung (1) in P3- |
 | P3-141 | Müssen ausnahmslos alle Rote- | Es ist ausreichend, alle Rote-Hand-Briefe, die nach dem 01.04.2023 veröffentlicht wurden,  Die Anforderung (1) in P3- |
 |  |  |  |
 | P3-141 | Müssen ausnahmslos alle Rote- | Es ist ausreichend, alle Rote-Hand-Briefe, die nach dem 01.04.2023 veröffentlicht wurden, |
@@ -3470,7 +3470,7 @@ unterstützt: Was muss bei der den AMV-Datenbanken beachtet werden?  Statistik-F
 | P3-141 | Müssen ausnahmslos alle Rote- | Es ist ausreichend, alle Rote-Hand-Briefe, die nach dem 01.04.2023 veröffentlicht wurden,  Die Anforderung (1) in P3- |
 |  |  |  |
 |  |  |  |
-| BEZUG [ | 1] | FRAGE  ANTWORT  P3-141  Müssen ausnahmslos alle Rote- Es ist ausreichend, alle Rote-Hand-Briefe, die nach dem 01.04.2023 veröffentlicht wurden,  Die Anforderung (1) in P3- |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-141  Müssen ausnahmslos alle Rote- Es ist ausreichend, alle Rote-Hand-Briefe, die nach dem 01.04.2023 veröffentlicht wurden,  Die Anforderung (1) in P3- |
 |  |  | P3-141 |
 | Müssen ausnahmslos alle Rote- | Es ist ausreichend, alle Rote-Hand-Briefe, die nach dem 01.04.2023 veröffentlicht wurden,  Die Anforderung (1) in P3- |  |
 | P3-141  Müssen ausnahmslos alle Rote- Es ist ausreichend, alle Rote-Hand-Briefe, die nach dem 01.04.2023 veröffentlicht wurden,  Die Anforderung (1) in P3- |  |  |
@@ -3536,7 +3536,7 @@ Die Abläufe sind **nicht** als feste Vorgabe zur Umsetzung zu verstehen.
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 | [1] | [KBV_ITA_VGEX_Anforderungskatalog_AVWG] Anforderungskatalog nach § 73 SGB V für |
 | [2] | [KBV_ITA_VGEX_Mapping_KVK.pdf]  Anwendung der eGK  Technische Anlage zu Anlage 4a (BMV-Ä) |
 

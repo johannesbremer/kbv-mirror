@@ -261,11 +261,17 @@ Anpassung des Informationsmodells der  Formularübergreifenden Daten
 
 Verweis auf die elektronische Verord-
 
-nung digitaler Gesundheitsanwendun- gen 15.02.2024 KBV
+nung digitaler Gesundheitsanwendun- gen 15.02.2024
 
-27.11.2023 KBV
+27.11.2023
 
-15.11.2023 KBV
+15.11.2023
+
+KBV
+
+KBV
+
+KBV
 
 Redaktionelle Korrekturen von Tabelle  52 (Block 50 und Feld 61a)
 
@@ -939,8 +945,6 @@ Formularversion
 
 Technische_Version
 
-**Tabelle 2: Unveränderbare Metadaten**
-
 Type
 
 | Punktgetrennte Gleitkomma- | Der Monat ab dem das Formular gilt. Ana- |
@@ -950,6 +954,8 @@ Type
 tellen
 
 Ganzzahlig, nummerisch
+
+**Tabelle 2: Unveränderbare Metadaten**
 
 **2.10** **FORMULARFELDER**
 
@@ -1466,9 +1472,7 @@ Dabei gelten für „1. /Straße/ (ggf. gekürzt)“ die Kürzungsregel entsprec
 
 Meta-Datum
 
-Vorschrift zum Setzen
-
-Anzahl_Zeichen_Hausnummer Es wird die Anzahl an Zeichen des Feldes /Hausnummer/ angegeben.  Die Anzahl  chen oder andere nicht alphanumerische Zeichen innerhalb von /Haus- nummer/ werden als Zeichen mitgezählt. Die Leerzeichen zum Tren- nen von /Strasse/ und /Hausnummer/ werden nicht mitgezählt.
+Anzahl_Zeichen_Hausnummer
 
 **Tabelle 6: Metadaten zum Feld P6: 0000_Straße_Hausnummer**
 
@@ -1478,33 +1482,45 @@ Die Beispiele in nachfolgender Tabelle zeigen die Befüllung der PDF-Inhalte.
 
 Meta-Datum
 
-Vorschrift zum Setzen
-
 /Straße/ = Herbert-Lewin-Platz  ohne Hausnummer  /Hausnummer/ ist nicht vorhanden
 
 /Straße/ = Herbert-Lewin-Platz  /Hausnummer/ ist nicht vorhanden
 
-/Straße/ = Herbert-Lewin-Platz  ohne Hausnummer  /Hausnummer/ = 12345
+/Straße/ = Herbert-Lewin-Platz  ohne Hausnummer
+
+/Hausnummer/ = 12345
 
 /Straße/ = Herbert-Lewin-Platz  /Hausnummer/ = 12345
 
-**Tabelle 7: Beispiele für die PDF -Inhalte zum Feld „ P6: 0000_Straße_Hausnummer**
+**Tabelle 7: Beispiele für die PDF -**
 
-Beim Auslesen des PDF-Formularfeldes kann anhand des Schlüsselwortes „Postfach“ identifiziert werden,
+Beim Auslesen des PDF- ob es sich um eine Postfachadresse handelt. Falls „ „Postfach“ enthält, handelt es sich um eine Postfachadresse. In diesem Fall entspricht alles nach dem  Schlüsselwort „Postfach“ dem Inhalt des Kartenfeldes /Postfach/.
 
-ob es sich um eine Postfachadresse handelt. Falls „ „Postfach“ enthält, handelt es sich um eine Postfachadresse. In diesem Fall entspricht alles nach dem  Schlüsselwort „Postfach“ dem Inhalt des Kartenfeldes /Postfach/.
+Falls das Schlüsselwort „Postfach“ nicht vorhanden ist, handelt es sich um eine Straßenadresse. In diesem  Fall weist „P6: 0000_Straße_Hausnummer
 
-Falls das Schlüsselwort „Postfach“ nicht vorhanden ist, handelt es sich um eine Straßenadresse. In diesem  Fall weist „P6: 0000_Straße_Hausnummer“ eine Kombination aus den Inhalten der Kartenfelder /Straße/
+und /Hausnummer/ auf. Um die /Straße/ bzw. /Hausnummer/ wieder auszulesen, ist das PDF-Formularfeld
 
-und /Hausnummer/ auf. Um die /Straße/ bzw. /Hausnummer/ wieder auszulesen, ist das PDF-Formularfeld  P6: 0000_Straße_Hausnummer“ unter Zuhilfenahme der Metadaten aus
-
-Kartenfeldinhalte wie folgt zu zerlegen:
+P6: 0000_Straße_Hausnummer Kartenfeldinhalte wie folgt zu zerlegen:
 
 Falls das PDF-Metadatum „Anzahl_Zeichen_Hausnummer“ gleich „0“ ist, entspricht der Inhalt des PDF
 
 Formularfeldes „P6: 0000_Straße_Hausnummer
 
 mer ist in diesem Fall nicht vorhanden.
+
+Vorschrift zum Setzen
+
+Es wird die Anzahl an Zeichen des Feldes /Hausnummer/ angegeben.  Die Anzahl  chen oder andere nicht alphanumerische Zeichen innerhalb von /Haus- nummer/ werden als Zeichen mitgezählt. Die Leerzeichen zum Tren- nen von /Strasse/ und /Hausnummer/ werden nicht mitgezählt.
+
+Vorschrift zum Setzen
+
+**Inhalte zum Feld „ P6: 0000_Straße_Hausnummer**
+
+Formularfeldes kann anhand des Schlüsselwortes „Postfach“ identifiziert werden,
+
+“ eine Kombination aus den Inhalten der Kartenfelder /Straße/
+
+“ unter Zuhilfenahme der Metadaten aus
 
 „0“ bedeutet, dass das Feld /Hausnummer/ leer ist. Leerzei-
 
@@ -2263,7 +2279,7 @@ M10_7 4 Siehe Kapitel 2.10.3
 
 **Formularfelder digitales Muster 10**
 
-“, Kapitel 2.10.6 Vertragsarztstempel
+“, Kapitel 2.10.6
 
 | **FORMULARFELDBEZEICH-NUNG** | **FORMULARFELDTYP4** | **ANGEZEIGTEANZAHL ANZEICHEN** | **ANZAHLERLAUB-TERZEICHEN** |
 |---|---|---|---|
@@ -2277,7 +2293,9 @@ M10_7 4 Siehe Kapitel 2.10.3
 
 PDF-Feldtypen
 
-und Kapitel 2.10.7 Prüfnummer“ getroffenen Aussagen.
+Vertragsarztstempel und Kapitel 2.10.7
+
+Prüfnummer“ getroffenen Aussagen.
 
 Perso-
 
@@ -2649,9 +2667,9 @@ Die Schriftgröße dieses Feldes kann beruhend auf den Regelungen in Kapitel 2.1
 
 54
 
-**das Feld „M10_22: 4207_Diagnose_Verdachtsdiagnose**
+*hhmm* anzugeben, wenn diese nach
 
-*hhmm*
+**das Feld „M10_22: 4207_Diagnose_Verdachtsdiagnose**
 
 Anzahl erlaubter Zeichen 108
 
@@ -2666,8 +2684,6 @@ Anzahl erlaubter Zeichen 108
 59
 
 54
-
-anzugeben, wenn diese nach
 
 Felder mit variablem
 
@@ -3004,15 +3020,17 @@ Stil: Kreuz
 
 Ankreuzfeld
 
-Stil: Kreuz
+Einzeiliges Textfeld
 
-Einzeiliges Textfeld 16
+Einzeiliges Textfeld
 
 Einzeiliges Textfeld
 
 Einzeiliges Textfeld
 
-Einzeiliges Textfeld 5
+Stil: Kreuz 16
+
+5
 
 1
 
@@ -3393,9 +3411,9 @@ Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe 
 
 3.3.2.13 M10A_67: 4205_Auftrag61
 
-Es gelten die Ausführungen aus Kapitel 3.3.2.12 M10A_12: 4205_Auftrag2
+Es gelten die Ausführungen aus Kapitel 3.3.2.12
 
-Wurde das Feld „M10A_67: 4205_Auftrag61“ angekreuzt, so ist im Feld „
+Wurde das Feld „M10A_67: 4205_Auftrag61
 
 tige_Auftraege“ der Auftrag zu spezifizieren.
 
@@ -3435,7 +3453,7 @@ Anzahl sichtbarer Zeichen 6
 
 12
 
-**Tabelle 22: Anzahl sichtbarer und erlaubter Zeichen für das Feld „ M10A_68: 4205_Auftrag61_sonstige_Auftraege**
+**Tabelle 22: Anzahl sichtbarer und erlaubter Zeichen für das Feld „**
 
 3.3.2.15 M10A_69: 0000_Schwangerschaftswoche
 
@@ -3445,7 +3463,11 @@ Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe 
 
 In diesem Abschnitt werden die musterspezifischen Inhalte für das digitale Muster 39 beschrieben. Wie in  diesem Dokument bereits beschrieben, lassen sich die Inhalte eines Musters in zwei Abschnitte zusammen- fassen: Metadaten und Daten.
 
-M10A_68: 4205_Auftrag61_sons-
+M10A_12: 4205_Auftrag2
+
+“ angekreuzt, so ist im Feld „M10A_68: 4205_Auftrag61_sons-
+
+M10A_67: 4205_Auftrag61
 
 Anzahl erlaubter Zeichen 72
 
@@ -3461,7 +3483,7 @@ Anzahl erlaubter Zeichen 72
 
 12
 
-M10A_67: 4205_Auftrag61
+**M10A_68: 4205_Auftrag61_sonstige_Auftraege**
 
 Felder mit variablem
 
@@ -3503,10 +3525,12 @@ Eine vom Einsender vergebene Identi- fikation für den Auftrag. Die Befüllung  
 
 ---
 
-**3.4.2** **Formularfelder digitales Muster 39**
+| **3.4.2** |  | **Formularfelder digitales** | **Muster** | **39** |
+|---|---|---|---|---|
+| **Abbildung** | **8: Formularfelder** | **des digitalen** | **Musters** | **39** |
+| SEITE | 49 VON 102 | / KBV / TECHNISCHES | HANDBUCH | DIGITALE VORDRUCKE / 18. DEZEMBER 2025 / VERSION: 2.25 |
 
-**Abbildung 8: Formularfelder des digitalen Musters 39**
-
+Formularfelder digitales Muster 39 Abbildung 8: Formularfelder des digitalen Musters 39
 
 ---
 
@@ -4751,9 +4775,7 @@ Telematik-ID der ausstel- lenden/ verschreibenden  Person
 
 Name der ausstellenden/  verschreibenden Person
 
-Vorname der ausstellen- den/ verschreibenden Per-
-
-son
+Vorname der ausstellen- den/ verschreibenden Per- son
 
 Nachname der ausstellen- den/ verschreibenden Per- son
 
@@ -4819,26 +4841,31 @@ Namenszusatz der ausstel-oder
 
 #### KBV_PR_FOR_PRACTITIONER
 
-Qualifikation der verant- wortlichen Person
+Qualifikation der verant- 148
 
-Typ der verantwortlichen  Person
+wortlichen Person
 
-|  | 58 | qualification:Berufsbezeichnung |  |
-|---|---|---|---|
-|  |  | .code.text |  |
-| ASV-Fachgruppennummer | 149 | qualification:ASV-Fachgruppenn |  |
-| der verantwortlichen Per- |  | ummer.code.coding.code |  |
-| son |  |  |  |
-
-| Identifikator der verant- | 52 | Identifier |  |  |
-|---|---|---|---|---|
-| wortlichen Person |  |  |  |  |
-
-148
-
-51
+Typ der verantwortlichen 51
 
 qualification:Typ.code
+
+Person
+
+Berufsbezeichnung der  verantwortlichen Person
+
+ASV-Fachgruppennummer  der verantwortlichen Per- son 58
+
+149
+
+qualification:Berufsbezeichnung .code.text
+
+qualification:ASV-Fachgruppenn ummer.code.coding.code
+
+Identifikator der verant- 52
+
+Identifier
+
+wortlichen Person
 
 Arztnummer der verant- 52a
 
@@ -4860,7 +4887,27 @@ DANN  kann dieser Block vorhanden  sein.
 
 ANSONSTEN  darf dieser Block nicht vorhanden  sein.
 
-Berufsbezeichnung der verantwortlichen Person WENN das Feld 51 gemäß Tabelle 52 gleich „00“ oder „04“  und das Feld 17 gemäß Tabelle 52 gleich „01“ oder „11“ ist und das Feld 52 ge- mäß Tabelle 52 nicht vorhanden ist, DANN darf dieses Feld vorhanden sein. ANSONSTEN darf dieses Feld nicht angegeben werden. WENN das Feld 7 gemäß Tabelle 52 gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ und das Feld 51 gemäß Tabelle 52 gleich „00“ oder „01“ oder „04“  ist und das Feld 149 Tabelle 52 nicht vorhanden ist,  DANN  ist dieses Feld Pflicht. ANSONSTEN WENN das Feld 149 gemäß Tabelle 52 vor- handen ist, DANN darf dieses Feld nicht angegeben werden. ANSONSTEN ist dieses Feld optional. WENN  der Block 52 gemäß Tabelle 52 vor- handen ist und das Feld 51 gemäß
+WENN  das Feld 51 gemäß Tabelle 52  gleich „00“ oder „04“ und das Feld
+
+17 gemäß Tabelle 52 gleich „01“
+
+oder „11“ ist und das Feld 52 ge- mäß Tabelle 52 nicht vorhanden  ist,  DANN  darf dieses Feld vorhanden sein.
+
+ANSONSTEN  darf dieses Feld nicht angegeben  werden.
+
+WENN  das Feld 7 gemäß Tabelle 52 gleich  "GKV" oder "BG" oder "SKT" oder  "UK" oder „PKV“ und das Feld 51
+
+gemäß Tabelle 52 gleich „00“ oder
+
+„01“ oder „04“ ist und das Feld 149
+
+Tabelle 52 nicht vorhanden ist,  DANN  ist dieses Feld Pflicht.
+
+ANSONSTEN WENN  das Feld 149 gemäß Tabelle 52 vor- handen ist,  DANN  darf dieses Feld nicht angegeben  werden.
+
+ANSONSTEN  ist dieses Feld optional.
+
+WENN  der Block 52 gemäß Tabelle 52 vor- handen ist und das Feld 51 gemäß
 
 
 ---
@@ -5448,9 +5495,7 @@ WENN der eine Versichertenkarte sich elektronisch ausgewiesen hat einge- lesen w
 
 Geburtsdatum des Versi- cherten
 
-| Straßenadresse des Versi- | 27 | address:Strassenanschrift |  |  |
-|---|---|---|---|---|
-| cherten |  |  |  |  |
+Straßenadresse des Versi- cherten
 
 Wohnsitzländercode der  Versichertenanschrift
 
@@ -5463,6 +5508,8 @@ Straßenname der Versi- chertenanschrift
 Hausnummer der Versi- chertenanschrift
 
 Anschriftenzusatz der Ver- sichertenanschrift 25
+
+27
 
 28
 
@@ -5477,6 +5524,8 @@ Anschriftenzusatz der Ver- sichertenanschrift 25
 33
 
 Wenn Wert vorhanden, gilt  Mapping  birthDate  Wenn Wert nicht vorhanden,  gilt Mapping  birthDate.extension:data-absen t-reason.value[x]:valueCode =  unknown
+
+address:Strassenanschrift
 
 address:Strassenanschrift.coun try
 
@@ -5494,6 +5543,12 @@ WENN  in diesem Feld ein Datum angege- ben wird,
 
 DANN  darf das Datum nicht nach dem  Ausstellungsdatum liegen.
 
+WENN  der Block "Postfachanschrift des  Versicherten" nicht angegeben ist,
+
+DANN  kann dieser Block angegeben  werden.
+
+ANSONSTEN  darf dieser Block nicht angegeben  werden.
+
 WENN  der Versicherte sich nicht elektro- nisch ausgewiesen hat und das Feld  7 gemäß Tabelle 52 gleich "GKV"  oder "BG" oder "SKT" oder "UK"  oder „PKV“ ist DANN  ist dieses Feld Pflicht.
 
 ANSONSTEN WENN  der Versicherte sich elektronisch  ausgewiesen hat und das Feld 28  gleich „D“ und das Feld 7 gemäß Ta-
@@ -5502,15 +5557,14 @@ belle 52 gleich "GKV" oder "BG"  oder "SKT" oder "UK" oder „PKV“  ist,  DANN
 
 ANSONSTEN  ist dieses Feld optional.
 
-WENN der Block "Postfachanschrift des Versicherten" nicht angegeben ist, DANN kann dieser Block angegeben werden. ANSONSTEN darf dieser Block nicht angegeben werden.
 
 ---
 
-**KBV_PR_FOR_PATIENT**
+#### KBV_PR_FOR_PATIENT
 
-| Postfachanschrift des Ver- | 34 | address:Postfach |  |  |
-|---|---|---|---|---|
-| sicherten |  |  |  |  |
+Postfachanschrift des Ver- 34
+
+sicherten
 
 Wohnsitzländercode der 35
 
@@ -5536,6 +5590,8 @@ a) Pflichtfelder sind zu befüllen  b) Optionale Felder müssen befüllt werden,
 
 address:Strassenanschrift.line[1 ].extension:Adresszusatz.value[ x]:valueString  Wenn Straßenname und  Hausnummer nicht vorhanden,  gilt Mapping  KBV_PR_FOR_Patient.address:S trassenanschrift.line[0].extensi on:Adresszusatz.value[x]:valueS tring
 
+address:Postfach
+
 address:Postfach.country
 
 address:Postfach.postalCode
@@ -5543,6 +5599,10 @@ address:Postfach.postalCode
 address:Postfach.city
 
 address:Postfach.line.extension :Postfach.value[x]:valueString
+
+WENN  der Block "Straßenadresse des Ver- sicherten" nicht angegeben ist,  DANN  kann dieser Block angegeben  werden.
+
+ANSONSTEN  darf dieser Block nicht angegeben  werden.
 
 WENN  der Versicherte sich nicht elektro- nisch ausgewiesen hat und das Feld  7 gemäß Tabelle 52 gleich "GKV"  oder "BG" oder "SKT" oder "UK"  oder „PKV“ ist DANN  ist dieses Feld Pflicht.
 
@@ -5554,7 +5614,6 @@ ist,  DANN  ist dieses Feld Pflicht.
 
 ANSONSTEN  ist dieses Feld optional.
 
-WENN der Block "Straßenadresse des Ver- sicherten" nicht angegeben ist, DANN kann dieser Block angegeben werden. ANSONSTEN darf dieser Block nicht angegeben werden.
 
 ---
 
@@ -7195,14 +7254,6 @@ KBV_ITA_VGEX_Technische_Anlage_eVDGA
 
 gemILF_PS
 
-**Kontakt:**
-
-Dezernat Digitalisierung und IT
-
-IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
-
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
-
 Technische Anlage zur eAU
 
 [https://update.kbv.de/ita-update/DigitaleMus-](https://update.kbv.de/ita-update/DigitaleMus-) ter/eAU/KBV_ITA_VGEX_Technische_An- lage_eAU.pdf
@@ -7218,3 +7269,11 @@ Technische Anlage zur elektronischen Verord- nung digitaler Gesundheitsanwendung
 Spezifikation Implementierungsleitfaden Pri- märsysteme  Telematikinfrastruktur (TI)
 
 [https://gemspec.gematik.de/docs/gemILF/ge-](https://gemspec.gematik.de/docs/gemILF/ge-) mILF_PS/
+
+**Kontakt:**
+
+Dezernat Digitalisierung und IT
+
+IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
+
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de

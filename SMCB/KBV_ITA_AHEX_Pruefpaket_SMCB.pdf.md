@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 15. SEPTEMBER 2025   VERSION: 2.0   DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 15. SEPTEMBER 2025   VERSION: 2.0   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # PRÜFPAKET SEKTORZULASSUNG SMC -B
@@ -20,12 +20,12 @@ BUNDESVEREINIGUNG   IN DER VERSORGUNG
 
 Die Änderungen treten zum1
 
-| VERSION | DATUM | AUTOR | ÄNDERUNG | BEGRÜNDUNG | SEITE |
+| **VERSION** | **DATUM** | **AUTOR** | **ÄNDERUNG** | **BEGRÜNDUNG** | **SEITE** |
 |---|---|---|---|---|---|
-| 2.0 | 15.09.2025 | KBV | Einarbeitung HSM-B |  | Alle |
+| 2.0 | 15.09.2025 | KBV | Einarbeitung HSM-B |  | **Alle** |
 | 1.2 | 13.09.2022 | KBV | Aktualisierung von |  |  |
-| 1.1 | 14.02.2020 | KBV | Anpassung an aktuelles |  | Alle |
-| 1.0 | 02.06.2017 | KBV | Neues Prüfpaket | Neues Zertifizierungsthema | Alle |
+| 1.1 | 14.02.2020 | KBV | Anpassung an aktuelles |  | **Alle** |
+| 1.0 | 02.06.2017 | KBV | Neues Prüfpaket | Neues Zertifizierungsthema | **Alle** |
 
 **5.09.2025**
 
@@ -150,9 +150,9 @@ Bestätigung aus abgeschlossenem gematik-Zulassungsverfahren
 
 **2.1** **BENUTZERHANDBUCH FÜR KVEN**
 
-| ANFORDERUNG |
-|---|
-| Einreichung des Benutzerhandbuchs für KVen sowohl für das Freigabeportal als auch für das |
+\| **ANFORDERUNG** |
+\|---|
+\| *Einreichung des Benutzerhandbuchs für KVen sowohl für das Freigabeportal als auch für das* |
 
 - *Umsetzung der Funktionen (jeweils bezogen auf Portale und  sofern für diese Funktion vorgesehen*
 
@@ -205,9 +205,9 @@ Antragsportal. Hier sind mindestens folgende Informationen aufzunehmen:
 
 **2.2** **UMSETZUNGSNACHWEIS DES ANTRAGPORTALS FÜR PRAXEN UND MVZ (SCREENSHOTS)**
 
-| ANFORDERUNG |
-|---|
-| Einreichung von Screenshots zur Darstellung der Umsetzung des Antragportals für Praxen und MVZ. |
+\| **ANFORDERUNG** |
+\|---|
+\| *Einreichung von Screenshots zur Darstellung der Umsetzung des Antragportals für Praxen und MVZ.* |
 
 - *Umsetzung der Funktionen*
 
@@ -231,9 +231,9 @@ Die Screenshots des Antragsportals sind eingebettet in eine Datei als PDF Zertif
 
 **2.3** **KOSTENAUFSTELLUNG/ANGEBOT DES ANBIETERS**
 
-| ANFORDERUNG |
-|---|
-| Einreichung einer Übersicht mit den für den Teilnehmer relevanten Kosten und Bedingungen |
+\| **ANFORDERUNG** |
+\|---|
+\| *Einreichung einer Übersicht mit den für den Teilnehmer relevanten Kosten und Bedingungen* |
 
 **Erläuterung**
 
@@ -245,9 +245,9 @@ Die Information zum Angebot des Anbieters muss formlos über das Zertifizierungs
 
 **2.4** **BESTÄTIGUNG AUS GEMATIK ZULASSUNGSVERFAHREN**
 
-| ANFORDERUNG |
-|---|
-| Einreichung der Bestätigung, dass das Zulassungsverfahren der gematik erfolgreich absolviert wurde |
+\| **ANFORDERUNG** |
+\|---|
+\| *Einreichung der Bestätigung, dass das Zulassungsverfahren der gematik erfolgreich absolviert wurde* |
 
 **Erläuterung**
 
@@ -282,7 +282,7 @@ zum Download unter [https://update.kbv.de/ita](https://update.kbv.de/ita)-update
 
 Dateien und Unterlagen in der jeweils aktuellen Version
 
-| REFERENZ | DOKUMENT |
+| **REFERENZ** | **DOKUMENT** |
 |---|---|
 | [KBV_ITA_RLEX_Zert] | Zertifizierungsrichtlinie der KBV |
 | [KBV_ITA_FMEX_EE_SMCB] | Antrag auf Zertifizierung |

@@ -1,11 +1,11 @@
-| XPM-LDK.praxis |
-|---|
-| Handbuch Prüfmodul |
-| [ _LDK_praxis |
-| Dezernat Digitalisierung und IT |
-| 10623 Berlin, Herbert |
-| Kassenärztliche Bundesvereinigung |
-| Version  Datum:  Klassifizierung:  Extern |
+\| ***XPM-LDK.praxis*** |
+\|---|
+\| *Handbuch Prüfmodul* |
+\| [*_LDK_praxis* |
+\| Dezernat Digitalisierung und IT |
+\| 10623 Berlin, Herbert |
+\| Kassenärztliche Bundesvereinigung |
+\| Version  Datum:  Klassifizierung:  Extern |
 
 KBV_ITA_AHEX_Handbuch_Pruefmodul -Lewin-Platz 2 Status: 1.0.4 28.01.2024 In Kraft © Kassenärztliche Bundesvereinigung, Berlin 2024
 
@@ -16,13 +16,13 @@ KBV_ITA_AHEX_Handbuch_Pruefmodul -Lewin-Platz 2 Status: 1.0.4 28.01.2024 In Kraf
 
 **D OKUM**
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version ** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 1.0.4 | 28.01.2024 | KBV | Zu verwendende minimale |  | 5 |
-| 1.0.3 | 01.03.2018 | KBV | Dateiname des Java-Archivs |  | 22 |
-| 1.0.2 | 03.08.2017 | KBV | Einfügen der Javaklasse  „XPMEinstieg“ |  | 22 |
-| 1.0.1 | 15.06.2017 | KBV | Anpassung der Beschrei-  Einfügung eines Hinweises |  | 23  24 |
-| 1.0.0 | 15.05.2017 | KBV | Initiale Erstellung |  | all |
+| 1.0.4 | 28.01.2024 | KBV | Zu verwendende minimale |  | **5** |
+| 1.0.3 | 01.03.2018 | KBV | Dateiname des Java-Archivs |  | **22** |
+| 1.0.2 | 03.08.2017 | KBV | Einfügen der Javaklasse  „XPMEinstieg“ |  | **22** |
+| 1.0.1 | 15.06.2017 | KBV | Anpassung der Beschrei-  Einfügung eines Hinweises |  | **23  24** |
+| 1.0.0 | 15.05.2017 | KBV | Initiale Erstellung |  | **all** |
 
 **E NT E NHI S T OR I E**
 
@@ -295,7 +295,7 @@ Das Ergebnis einer Prüfung (Fehlermeldungen, Informationsmeldungen) sowie evtl.
 
 Das Prüfmodul LDK wird, wie eingangs erwähnt, mit verschiedenen Übergabeparame-  tern und Startskripten ausgeliefert. Die folgende Tabelle soll Aufschluss darüber geben,  wie diese zusammenhängen. Die genaue Funktion der Übergabeparameter wird in Ka-  pitel 0 erläutert.
 
-| Prüfmodus | Übergabeparameter | Skriptname |
+| **Prüfmodus** | **Übergabeparameter** | **Skriptname** |
 |---|---|---|
 | LDT | -c, -f  Optional: -h, -m, -p,  -s, -v, -z, -e, | StartPruefung.bat und |
 | LDT Verzeichnisprü- | -c, -e, -s, -m,  Optional: -f, -h, -p,  -v, -z | VerzeichnisPruefung.bat und |
@@ -475,7 +475,7 @@ Beim Verarbeiten von Massendaten (Servermodus, zip-Archive) werden die Ausgabe- 
 
 Bei Fehlerprotokollen fügt das XPM noch ein Präfix hinzu, das den Errorlevel der Prü-  fung kennzeichnet. Es werden folgende Präfixe verwendet:
 
-| Errorlevel | Präfix |
+| **Errorlevel** | **Präfix** |
 |---|---|
 | 0 | Ok_ |
 | 1 | Warnung_ |
@@ -625,7 +625,7 @@ Das Prüfmodul kann als ein kommandozeilenorientiertes Programm gestartet werden
 
 # 3.4.1 Übergabeparameter
 
-| Übergabeparamet | Beschreibung |
+| **Übergabeparamet** | **Beschreibung** |
 |---|---|
 | -c | Das Prüfmodul braucht für die Prüfung die Pfadangabe einer  Hinter dieser Option muss die Pfadangabe stehen! |
 | -e | Das Prüfmodul wird im Einzellaufmodus gestartet. XPM_LDK |

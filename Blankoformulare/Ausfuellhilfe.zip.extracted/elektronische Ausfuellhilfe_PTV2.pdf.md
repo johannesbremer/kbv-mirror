@@ -1,8 +1,8 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
 ## AUSFÜLLHILFE: FORMBLATT PTV 2  ANGABEN THERAPEUTIN
 

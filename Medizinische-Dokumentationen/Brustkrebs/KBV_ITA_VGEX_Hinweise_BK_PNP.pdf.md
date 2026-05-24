@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | DEZERNAT DIGITALISIERUNG UND IT  VERSION: 1.0  1. OKTOBER 2018  KENNZEICHNUNG: ÖFFENTLICH  STATUS: IN KRAFT |
+|  | **DEZERNAT DIGITALISIERUNG UND IT  VERSION: 1.0  1. OKTOBER 2018  KENNZEICHNUNG: ÖFFENTLICH  STATUS: IN KRAFT** |
 |---|---|
 
 # HINWEISE ZUR „POSTOP ERATIVEN
@@ -22,7 +22,7 @@
 
 **DOKUMENTENSTATUS**
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.0 | 01.10.2018 | KBV | Neues Dokument |  | Alle |
 

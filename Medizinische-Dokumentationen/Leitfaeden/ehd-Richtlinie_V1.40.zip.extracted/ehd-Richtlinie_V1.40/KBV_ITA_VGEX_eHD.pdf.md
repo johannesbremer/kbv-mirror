@@ -1,8 +1,8 @@
-|  | IT in der Arztpraxis |
+|  | ***IT in der Arztpraxis*** |
 |---|---|
-|  | Richtlinie ehd - eHealthData |
+|  | *Richtlinie ehd - eHealthData* |
 |  | [KBV_ITA_VGEX_eHD |
-|  |  |
+|  | ** |
 |  | Dezernat 6 |
 |  |  |
 |  | 10623 Berlin, Herbert |
@@ -18,7 +18,7 @@ Informationstechnik, Telematik und Telemedizin -Lewin-Platz 2 1.41 Datum: 20.07.
 
 ### DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.41 | 20.07.12 | KBV | Dokument an Standard |  |  |
 
@@ -480,11 +480,11 @@ Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, dere
 
 Es existieren verschiedene Kardinalitäten:
 
-| Kardinalität | Symbol | Beschreibung |
+| **Kardinalität** | **Symbol** | **Beschreibung** |
 |---|---|---|
-| 0..1 |  | Optionale Elemente  Ein optionales Element wird als Rechteck mit gestri- |
-| 1 |  | Obligatorische Elemente  Elemente, welche als Rechteck mit durchgezogener |
-| n...m |  | Mehrfache Elemente  Bei Elementen, welche mehrfach vorkommen kön- |
+| 0..1 |  | **Optionale Elemente ** Ein optionales Element wird als Rechteck mit gestri- |
+| 1 |  | **Obligatorische Elemente ** Elemente, welche als Rechteck mit durchgezogener |
+| n...m |  | **Mehrfache Elemente ** Bei Elementen, welche mehrfach vorkommen kön- |
 
 **Tabelle 1 Beschreibung der Kardinalitäten eines XML-Elements**
 
@@ -492,7 +492,7 @@ Es existieren verschiedene Kardinalitäten:
 
 Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mitei- nander verknüpft. In diesem Dokument werden zwei Strukturelemente verwendet:  und ***<xs:sequence>***
 
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |---|---|
 |  | Das Strukturelement |
 |  | Das Strukturelement |
@@ -510,12 +510,12 @@ chelter Linie dargestellt. Es kann keinmal oder einmal vorkommen. Linie dargeste
 
 Es werden außerdem folgende Diagramm-Symbole verwendet:
 
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |---|---|
-|  | Element mit Kindelementen  Ein Element mit einem oder mehreren Kindelementen wird durch ein |
-|  | Referenzelement  Der Pfeil links unten im Element zeigt an, dass das Element an ande- |
-|  | Datentyp  Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen |
-|  | Gruppenelement  Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement |
+|  | **Element mit Kindelementen ** Ein Element mit einem oder mehreren Kindelementen wird durch ein |
+|  | **Referenzelement ** Der Pfeil links unten im Element zeigt an, dass das Element an ande- |
+|  | **Datentyp ** Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen |
+|  | **Gruppenelement ** Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement |
 
 **Tabelle 3 Beschreibung sonstiger Symbole**
 
@@ -543,7 +543,7 @@ Das ***<ehd>*** - Element hat folgende Elemente/Attribute:
 
 | Kardinalität | 1..1 |
 |---|---|
-| children | header (1..1)  body (1..1)  keytabs (0..1) |
+| children | **header (1..1)  body (1..1)  keytabs (0..1)** |
 | attributs | Name    Type    Use    Default    Fixed    Annotation  ehd_version    xs:string   required |
 
 **XML-Code 1: ehd Element**
@@ -872,7 +872,7 @@ Das Element hat folgende Attribute:
 
 | Kardinaldiät | 0..n |
 |---|---|
-| children | document_relationship.type_cd (1..1)  related_document (1..1)  local_header (0..n) |
+| children | **document_relationship.type_cd (1..1)  related_document (1..1)  local_header (0..n)** |
 | attributs | Name    Type    Use    Default    Fixed    Annotation |
 
 ***<document_relationship.type_cd*** Der Beziehungstyp wird in diesem Kode-Element festgelegt.
@@ -959,7 +959,7 @@ Das Element hat folgende Attribute:
 
 | Kardinalität | 1..1 |
 |---|---|
-| children | id (1..1)  set_id (0..1)  version_nbr (0..1)  local_header(0..n) |
+| children | **id (1..1)  set_id (0..1)  version_nbr (0..1)  local_header(0..n)** |
 | attributs | Name    Type    Use    Default    Fixed    Annotation |
 
 ### Die Identifikation des Verweisdokuments erfolgt über die Dokument-Identifikatoren:
@@ -1003,7 +1003,7 @@ Das Element hat folgende Attribute:
 
 | Kardinalität 0..n |  |
 |---|---|
-| children | intended_recipient.type_cd (0..1)  function_cd (0..1)  person (0..n)  organization (0..n) local_header(0..n) |
+| children | **intended_recipient.type_cd (0..1)  function_cd (0..1)  person (0..n)  organization (0..n) local_header(0..n)** |
 | attributs | Name    Type    Use    Default    Fixed    Annotation |
 
 („Eigner“, „Empfänger“) zugeordnet werden. Der Typ wird in die-
@@ -1073,9 +1073,9 @@ werden können. Der Datentyp ist **v_s_string_typ**, in dem Attribute und Elemen
 
 | Kardinalität | 0..n |
 |---|---|
-| children | id (0..1) |
-| <intended_recipient.type_cd XML-Code 14 /ehd/header/intended_recipient/intended_recipient.type_cd   4.8.2 Die genauere Rolle/Funktion des Empfängers („Dateneingang“) wird in diesem Kode-Element | |
-| Bei diesem Element handelt es sich um ein Kode-Element, mit dem Kodewerte angegeben | <function_cd V="DtE" S="1.2.276.0.76.2.2.105 XML-Code 15 /ehd/header/intended_recipient/function_cd   4.8.3 Generell können Persondaten in diesem Element untergebracht werden. Dieses Element wird |
+| children | **id (0..1)** |
+| <intended_recipient.type_cd**XML-Code 14 /ehd/header/intended_recipient/intended_recipient.type_cd**  **4.8.2** Die genauere Rolle/Funktion des Empfängers („Dateneingang“) wird in diesem Kode-Element | |
+| Bei diesem Element handelt es sich um ein Kode-Element, mit dem Kodewerte angegeben | <function_cd V="DtE" S="1.2.276.0.76.2.2.105**XML-Code 15 /ehd/header/intended_recipient/function_cd**  **4.8.3** Generell können Persondaten in diesem Element untergebracht werden. Dieses Element wird |
 
 * Version 1.41
 
@@ -1085,8 +1085,8 @@ V="RECEIVER" S="1.2.276.0.76.2.2.102 function_cd (Rolle/Funktion der Empfänger)
 
 | hier hinterlegt. Damit ist der direkter Bezug der Person zu der Organi- | terlegt. |
 |---|---|
-| unter den die Person erreichbar ist, wird hier hinterlegt. | <local_header> |
-| person_name (0..1)  organization.nm (0..n) addr (0..n)  telecom (0..n)  local_header(0..n) | |
+| unter den die Person erreichbar ist, wird hier hinterlegt. | ***<local_header>*** |
+| **person_name (0..1)  organization.nm (0..n) addr (0..n)  telecom (0..n)  local_header(0..n)** | |
 | attributs | Name    Type    Use    Default    Fixed    Annotation |
 
 <person>
@@ -1161,7 +1161,7 @@ Das Element hat folgende Attribute:
 
 | Kardinalität 0..1 |  |
 |---|---|
-| children | nm (1..1) |
+| children | **nm (1..1)** |
 | attributs | Name    Type    Use    Default    Fixed    Annotation |
 
 * Version 1.41
@@ -1208,7 +1208,7 @@ V: hier wird der Wert eingetragen
 
 QUAL: Ein kodierter Wert kann angegeben werden, um die Daten näher zu beschrei- ben. So zum Element ***<PFX>*** kann es zusätzliche Werte „AC“ und „NB“ geben:
 
-| Code | Definition | Ausprägung |
+| **Code** | **Definition** | **Ausprägung** |
 |---|---|---|
 | AC | academic | Akademischer Grad, Zusatz beim Element PFX (mehrere Titel |
 | NB | nobility | Namenszusätze sind durch Leerzeichen getrennt) |
@@ -1344,7 +1344,7 @@ V: hier wird der Wert eingetragen
 
 Die Erläuterung für die verschiedenen Werte sind in der Tabelle 5 aufgeführt.
 
-| Code | Definition | Beispiel |
+| **Code** | **Definition** | **Beispiel** |
 |---|---|---|
 | tel | Telefon/Mobiltelefon | <telecom V="tel:(0221)4449 |
 | fax | Faxnummer | "/> |
@@ -1368,7 +1368,7 @@ Das Element hat folgende Attribute:
 
 | Kardinalität | 0..n |
 |---|---|
-| children | id (0..1)  organization.nm (0..n) addr (0..n)  telecom (0..n)  local_header(0..n) |
+| children | **id (0..1)  organization.nm (0..n) addr (0..n)  telecom (0..n)  local_header(0..n)** |
 | attributs | Name    Type    Use    Default    Fixed    Annotation |
 
 * Version 1.41
@@ -1462,7 +1462,7 @@ Das Element hat folgende Attribute:
 
 | Kardinalität 0..n |  |
 |---|---|
-| children | originator.type_cd (0..1)  function_cd (0..1)  participation_tmr (0..1)  person (0..n)  organization (0..n) local_header(0..n) |
+| children | **originator.type_cd (0..1)  function_cd (0..1)  participation_tmr (0..1)  person (0..n)  organization (0..n) local_header(0..n)** |
 | attributs | Name    Type    Use    Default    Fixed    Annotation |
 
 ***<originator.type_cd>***
@@ -1594,7 +1594,7 @@ Das Element hat folgende Attribute:
 
 | Kardinalität 1..n |  |
 |---|---|
-| children | provider.type_cd (0..1)  function_cd (0..1)  participation_tmr (0..1)  person (0..n)  organization (0..n)  local_header(0..n) |
+| children | **provider.type_cd (0..1)  function_cd (0..1)  participation_tmr (0..1)  person (0..n)  organization (0..n)  local_header(0..n)** |
 | attributs | Name    Type    Use    Default    Fixed    Annotation |
 
 * Version 1.41
@@ -1728,7 +1728,7 @@ Das Element hat folgende Attribute:
 
 | Kardinalität 0..n |  |
 |---|---|
-| children | id (1..n)  scope.type_cd (1..1)  scope.nm (0..n)  local_header (0..n) |
+| children | **id (1..n)  scope.type_cd (1..1)  scope.nm (0..n)  local_header (0..n)** |
 | attributs | Name    Type    Use    Default    Fixed    Annotation |
 
 ***<id>***  Die Identifikation des Geltungsbereiches.
@@ -1805,17 +1805,17 @@ V: hier wird der Wert eingetragen
 
 | Kardinalität 1..1 |  |
 |---|---|
-| 4.12 | Das optionale Element  Bei diesem Element handelt es sich um ein Kode-Element, mit dem Kodewerte angegeben  Die Werte für das V-Attribut sind je nach konkreter Schnittstelle frei wählbar. Im S-Attribut |
-| <state V="E01002" S="1.2.276.0.76.2.2.108 | XML-Code 35 /ehd/header/state   4.13  Die Daten der XML-Datei entsprechen einer Schnittstellenbeschreibung, welche normaler-     Abbildung 13 /ehd/header/interface |
+| **4.12** | Das optionale Element  Bei diesem Element handelt es sich um ein Kode-Element, mit dem Kodewerte angegeben  Die Werte für das V-Attribut sind je nach konkreter Schnittstelle frei wählbar. Im S-Attribut |
+| <state V="E01002" S="1.2.276.0.76.2.2.108 | **XML-Code 35 /ehd/header/state**  **4.13 ** Die Daten der XML-Datei entsprechen einer Schnittstellenbeschreibung, welche normaler-    **Abbildung 13 /ehd/header/interface** |
 
 state (Bearbeitungszustand) <state>  beschreibt in seinem V-Attribut den Bearbeitungszustand. Es wird damit ermöglicht, die XML-Dateien zu kennzeichnen, die einen Bearbeitungsschritt durchlaufen haben (z.B. Prüfung, Filterung).  werden können. Der Datentyp ist v_s_string_typ sind, die für Kode-Elemente üblich sind. steht die OID der jeweiligen Schlüsseltabelle.  , in dem Attribute und Elemente definiert " DN="EingangspruefungOK "/> interface (Beschreibung der Schnittstelle) weise aus Strukturinformation und ggf. Kontextregeln besteht. Im Element <interface>  wird auf die Beschreibung der zu den Daten gehörenden Schnittstelle verwiesen. Das Element hat folgende Attribute: * Version 1.41
 
 
 ---
 
-| <id> | <interface.nm> |
+| ***<id>*** | ***<interface.nm>*** |
 |---|---|
-| children | id (1..1)  interface.nm(1..1)  version (1..1)  originator (0..n)  description (0..1)  local_header (0..n) |
+| children | **id (1..1)  interface.nm(1..1)  version (1..1)  originator (0..n)  description (0..1)  local_header (0..n)** |
 | attributs | Name    Type    Use    Default    Fixed    Annotation |
 
 ***<version>***
@@ -2004,10 +2004,7 @@ Die Grundstruktur des
 
 beliebige Element verwendet werden. Dazu wird der Basistyp: local_header-cont.model mit  ***<xs:restriction>***  eingeschränkt und die schnittstellenspezifische Elemente hinzugefügt.
 
-### Ein Beispiel für die Verwendung des <local_header -Elements mit zwei erfundenen Elementen,
-
-### die Kurzbeschreibung (descriptor) kennzeichnet, dass die Elemete von „KBV“ stammen.
-
+### Ein Beispiel für die Verwendung des <local_header -Elements mit zwei erfundenen Elementen, die Kurzbeschreibung (descriptor) kennzeichnet, dass die Elemete von „KBV“ stammen.
 <local_header ignore="markup" descriptor="KBV">
 
 <my_element_A>ein Test</my_element_A>
@@ -2121,7 +2118,7 @@ Das Element hat folgende Attribute:
 
 | Kardinalität | 1..n |
 |---|---|
-| children | key (1..n) |
+| children | **key (1..n)** |
 | attributs | Name    Type    Use    Default    Fixed    Annotation  S    xs:string    required              SN    xs:string    required               SV    xs:string    required |
 
 S: OID der Schlüsseltabelle, in der kodierte Werte verwaltet werden
@@ -2326,12 +2323,8 @@ Annotation
 
 ---
 
-| **IT in der** | **Arztpraxis** |  |  |
-|---|---|---|---|
-| Richtlinie | ehd - | eHealthData |  |
-|  | KBV_ITA_VGEX_eHD | * Version | 1.41 |
-
 * Version 1.41
+
 
 ---
 
@@ -3118,18 +3111,18 @@ URL:[http://www.w3.org/TR/xmlschema](http://www.w3.org/TR/xmlschema)-2/
 
 |  |  |  |  |  |
 |---|---|---|---|---|
-| Grundstruktur eines OID-Baumes |  |  | | |
+| **Grundstruktur eines OID-Baumes** |  |  | | |
 |  |  |  |  |  |
-| Gesundheitswesen Deutschland: 1.2.276.0.76 |  | | | |
+| **Gesundheitswesen Deutschland: 1.2.276.0.76** |  | | | |
 |  |  |  |  |  |
-| Experimental: 1.2.276.0.76.0 |  |  | | |
+| **Experimental: 1.2.276.0.76.0** |  |  | | |
 |  |  |  |  |  |
-| Organisationen:1.2.276.0.76.1 |  |  | | |
+| **Organisationen:1.2.276.0.76.1** |  |  | | |
 |  |  |  |  |  |
-| Dienste: 1.2.276.0.76.2 |  |  |  | |
+| **Dienste: 1.2.276.0.76.2** |  |  |  | |
 |  |  |  |  |  |
 |  |  |  |  |  |
-| OID |  | Tabelle | Element |  |
+| **OID** |  | **Tabelle** | **Element** |  |
 |  |  |  |  |  |
 | 1.2.276.0.76.5.100 | Dokumenttyp | document_type_cd |  | |
 | 1.2.276.0.76.5.101 | Dokumentbeziehungstyp | document_relationship.type_cd | | |

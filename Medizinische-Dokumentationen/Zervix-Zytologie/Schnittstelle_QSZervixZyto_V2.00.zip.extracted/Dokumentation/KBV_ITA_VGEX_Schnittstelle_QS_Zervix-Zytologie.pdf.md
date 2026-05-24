@@ -1,8 +1,8 @@
-|  | IT in der Arztpraxis |
+|  | ***IT in der Arztpraxis*** |
 |---|---|
 |  | Schnittstelle Qualitätssicherung |
 |  | [KBV_ITA_VGEX_Schnittstelle_ |
-|  |  |
+|  | ** |
 |  | Dezernat Digitalisierung und IT |
 |  |  |
 |  | 10623 Berlin, Herbert |
@@ -20,9 +20,9 @@ Zervix-Zytologie QS_Zervix- Zytologie] -Lewin-Platz 2 Version  2 .00 Datum: Kenn
 
 ### Die Änderungen vom 13.10.2014 treten zum 1.Januar 2015 in Kraft.
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 2.00 | 13.10.2014 | KBV | Die Änderungen im    Überarbeitung der | Einführung der Münchner Nome | 16 ff            20 ff |
+| 2.00 | 13.10.2014 | KBV | Die Änderungen im    Überarbeitung der | Einführung der Münchner Nome | **16 ff **          **20 ff ** |
 | 1.06 | 09.08.2012 | KBV | Red. Änderungen |  |  |
 
 -Zytologie
@@ -273,10 +273,7 @@ Die zu übermittelnden Datenfelder sind in Anlage 2 abgebildet.
 
 ---
 
-| **IT in** | **der Arztpraxis** |  |  |  |
-|---|---|---|---|---|
-| Schnittstelle | | Qualitätssicherung | Zervix-Zytologie |  |
-|  |  | KBV_ITA_VGEX_Schnittstelle_QS_Zervix-Zytologie | * Version | 2.00 |
+-Zytologie
 
 
 ---
@@ -308,7 +305,7 @@ Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, dere
 
 Es existieren verschiedene Kardinalitäten:
 
-| Kardinalität | Symbol | Beschreibung |
+| **Kardinalität** | **Symbol** | **Beschreibung** |
 |---|---|---|
 | 0..1 |  | Optionales Element: Element wird als Rechteck mit |
 | 1 |  | Musselement:  Rechteck mit durchgezogner Linie. Das |
@@ -320,7 +317,7 @@ Es existieren verschiedene Kardinalitäten:
 
 Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinander lo- gisch verknüpft. In diesem Dokument werden zwei Strukturelement-Arten verwendet: Choice
 
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |---|---|
 |  | Das Strukturelement Choice zeigt an, dass zwischen verschiedenen Kin- |
 |  | Das Strukturelement Sequence beschreibt, dass verschiedene Kindelemente |
@@ -329,7 +326,7 @@ Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinand
 
 **3.3 Sonstige Symbole**
 
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |---|---|
 |  | Ein Element mit mehreren Kindelementen wird durch ein |
 |  | Referenzelement: Der Pfeil links unten im Element zeigt |
@@ -386,11 +383,11 @@ Der header ist eine Untermenge vom header der EHD-Spezifikation. Die genaue Besc
 
 - o document_type_cd im V-Attribut ist der Wert: „QSZERVIXZYTO“ fest vorg schrieben.
 
+**Abbildung 2 Element document_type_cd**
+
 -  Im Interface-Element werden die Schnittstellendaten eingegeben:
 
 - o id-Element im EX-Attribut ist der Wert „QSZERVIXZYTO“ fest vorgeschrieben.  RT-Attribut enthält den Wert: „1.2.276.0.76.5.109“.
-
-**Abbildung 2 Element document_type_cd**
 
 -Zytologie
 
@@ -428,8 +425,8 @@ XML-Beispiel -Zytologie
 
 ---
 
-| <local_header ignore="all" descriptor="sciphox |
-|---|
+\| <local_header ignore="all" descriptor="sciphox |
+\|---|
 
 **XML-Code 2 – ehd-header**
 
@@ -536,7 +533,7 @@ zwischen PVS (Arztpraxissoftware), XSD (XML-Schnittstelle) und XPM (XML-Prüfmod
 
 **XML-Code 7 – SoftwareTyp**
 
-| Code | Display Name | Definition |
+| **Code** | **Display Name** | **Definition** |
 |---|---|---|
 | PVS | Arztpraxissoftware | Arztpraxissoftware |
 | XSD | XML-Schnittstelle |  |
@@ -564,8 +561,8 @@ XML-Daten wurden gemäß dieser XML Schnittstelle erzeugt.
 
 Die Coderahmen für dieses Element sieht wie folgt aus:
 
-| <sciphox:Kontakt>         <sciphox:Kontakttyp V="SOFTV" S="1.2.276.0.76.3.1.1.5.2.3" DN="Softwareverantwortlicher "/>          <cda:person_name>           . . .        <cda:person_name>                      </sciphox:Kontakt> |
-|---|
+\| <sciphox:Kontakt>         <sciphox:Kontakttyp V="SOFTV" S="1.2.276.0.76.3.1.1.5.2.3" DN="Softwareverantwortlicher "/>          <cda:person_name>           . . .        <cda:person_name>                      </sciphox:Kontakt> |
+\|---|
 
 **XML-Code 8 – Kontakt**
 
@@ -633,7 +630,7 @@ Der Coderahmen für dieses Element sieht wie folgt aus:
 
 *4.1.1.5.3.1* *Namensbestandteile (nm)*
 
-| Element | Werte | Datentyp | Kard. |
+| **Element** | **Werte** | **Datentyp** | **Kard.** |
 |---|---|---|---|
 | GIV | durch Bindestriche oder Leerzeichen getrennt) | max. 45 Zeichen |  |
 | FAM | Familiennamen der Person | String mit |  |
@@ -645,7 +642,7 @@ Zu dem Element *PFX* kann es zusätzlich zum *V*-Attribut das *QUAL*-Attribut mi
 
 Ausprägungen geben:
 
-| Code | Definition | Ausprägung |
+| **Code** | **Definition** | **Ausprägung** |
 |---|---|---|
 | AC | academic | sind durch Leerzeichen getrennt) |
 | VV | voorvoegsel | Vorsatzwort, z.B. „von“ vgl. Anlage 6 DEÜV |
@@ -659,7 +656,7 @@ Das Element nm  kann folgende Elemente enthalten: Vornamen der Person (mehrere V
 
 ---
 
-| Versichertenkarte | XML-Element |
+| **Versichertenkarte** | **XML-Element** |
 |---|---|
 | Titel | <PFX V="..." QUAL="AC"/> |
 | Vorname | <GIV V="..."/> |
@@ -726,7 +723,7 @@ In der Tabelle 8 sind die Kindelemente des Elements  angegeben.
 
 -Zytologie
 
-| Element | Wert | Datentyp | Kard. |
+| **Element** | **Wert** | **Datentyp** | **Kard.** |
 |---|---|---|---|
 | ADL | Name des Krankenhauses und  Name der Abteilung, wo die Behand- Bei eGK entspricht es dem Element | String mit max. 40 Zeichen | 0..2 |
 | STR | Straße der Anschrift | String mit max. 46 Zeichen | 0..1 |
@@ -738,7 +735,7 @@ In der Tabelle 8 sind die Kindelemente des Elements  angegeben.
 
 **Tabelle 8 Erläuterungen addr**
 
-| Code | Definition | Ausprägung |
+| **Code** | **Definition** | **Ausprägung** |
 |---|---|---|
 | PHYS | visit address (Wohn- / Aufenthaltsort) | Hausanschrift (default) |
 | PST | postal address (Postanschrift, Post- | Postfachanschrift |
@@ -781,7 +778,7 @@ lung stattgefunden hat Anschriftenzusatz. fach)
 
 Die Erläuterung für die verschiedenen Werte sind in der Tabelle 10 aufgeführt.
 
-| Code | Definition | Beispiel |
+| **Code** | **Definition** | **Beispiel** |
 |---|---|---|
 | tel | Telefon/Mobiltelefon |  |
 | fax | Faxnummer | <telecom V="fax:(0221)4449-400" USE="WP"/> |
@@ -829,8 +826,8 @@ Das Element qszervixzyto_bericht enthält den Zervix-Zyto Bericht.
 
 -Zytologie
 
-|  |
-|---|
+\|  |
+\|---|
 
 **XML-Code 14 – QSZervixZyto Bericht**
 
@@ -843,7 +840,7 @@ strichpräparate der Zervix uteri für den Zeitraum vom 01.01. -31.12. des Beric
 | diagram |  |
 |---|---|
 | namespace urn:ehd/qszervixzyto/001 |  |
-| attributes | Name    Type    Use    Default    Fixed    V    xs:integer  required |
+| attributes | Name    Type    Use    Default    Fixed    V   **xs:integer ** required |
 
 **Tabelle 12 Element anzahl_praeparate**
 
@@ -860,7 +857,7 @@ Das Element anzahl_nv_praeparate enthält die Anzahl der nicht verwertbaren zyto
 | diagram |  |
 |---|---|
 | namespace urn:ehd/qszervixzyto/001 |  |
-| attributes | Name    Type    Use    Default    Fixed    V    xs:integer  required |
+| attributes | Name    Type    Use    Default    Fixed    V   **xs:integer ** required |
 
 **Tabelle 13 Element anzahl_nv_praeparate**
 
@@ -871,7 +868,7 @@ Das Element anzahl_frauen enthält die Gesamtanzahl der zytologisch untersuchten
 | diagram |  |
 |---|---|
 | namespace urn:ehd/qszervixzyto/001 |  |
-| attributes | Name    Type    Use    Default    Fixed    V    xs:integer  required |
+| attributes | Name    Type    Use    Default    Fixed    V   **xs:integer ** required |
 
 **Tabelle 14 Element anzahl_frauen**
 
@@ -891,8 +888,8 @@ Das Element anzahl_frauen enthält die Gesamtanzahl der zytologisch untersuchten
 
 ---
 
-|  |
-|---|
+\|  |
+\|---|
 
 -Zytologie
 
@@ -934,7 +931,7 @@ Das Element anzahl_frauen enthält die Anzahl der untersuchten Frauen mit dem Au
 | diagram |  |
 |---|---|
 | namespace urn:ehd/qszervixzyto/001 |  |
-| attributes | Name    Type    Use    Default    Fixed    V    xs:integer  required |
+| attributes | Name    Type    Use    Default    Fixed    V   **xs:integer ** required |
 
 #### 4.3.4.2 Element anzahl_khca
 
@@ -943,7 +940,7 @@ Das Element anzahl_frauen enthält die Anzahl der untersuchten Frauen mit dem Au
 | diagram |  |
 |---|---|
 | namespace urn:ehd/qszervixzyto/001 |  |
-| attributes | Name    Type    Use    Default    Fixed    V    xs:integer  required |
+| attributes | Name    Type    Use    Default    Fixed    V   **xs:integer ** required |
 
 #### 4.3.4.3 Element anzahl_cin1
 
@@ -952,7 +949,7 @@ Das Element anzahl_cin1 enthält die Anzahl der untersuchten Frauen mit histolog
 | diagram |  |
 |---|---|
 | namespace urn:ehd/qszervixzyto/001 |  |
-| attributes | Name    Type    Use    Default    Fixed    V    xs:integer  required |
+| attributes | Name    Type    Use    Default    Fixed    V   **xs:integer ** required |
 
 -Zytologie
 
@@ -974,7 +971,7 @@ Das Element anzahl_cin1 enthält die Anzahl der untersuchten Frauen mit histolog
 | diagram |  |
 |---|---|
 | namespace urn:ehd/qszervixzyto/001 |  |
-| attributes | Name    Type    Use    Default    Fixed    V    xs:integer  required |
+| attributes | Name    Type    Use    Default    Fixed    V   **xs:integer ** required |
 
 #### 4.3.4.5 Element anzahl_cin3ca
 
@@ -985,7 +982,7 @@ Abklärungsuntersuchungen mit CIN III inkl. plattenepithales Ca in situ.
 | diagram |  |
 |---|---|
 | namespace urn:ehd/qszervixzyto/001 |  |
-| attributes | Name    Type    Use    Default    Fixed    V    xs:integer  required |
+| attributes | Name    Type    Use    Default    Fixed    V   **xs:integer ** required |
 
 #### 4.3.4.6 Element anzahl_
 
@@ -994,7 +991,7 @@ Abklärungsuntersuchungen mit CIN III inkl. plattenepithales Ca in situ.
 | diagram |  |
 |---|---|
 | namespace urn:ehd/qszervixzyto/001 |  |
-| attributes | Name    Type    Use    Default    Fixed    V    xs:integer  required |
+| attributes | Name    Type    Use    Default    Fixed    V   **xs:integer ** required |
 
 **Tabelle 19 Element anzahl_cin2**
 
@@ -1016,7 +1013,7 @@ Abklärungsuntersuchungen mit CIN III inkl. plattenepithales Ca in situ.
 | diagram |  |
 |---|---|
 | namespace urn:ehd/qszervixzyto/001 |  |
-| attributes | Name    Type    Use    Default    Fixed    V    xs:integer  required |
+| attributes | Name    Type    Use    Default    Fixed    V   **xs:integer ** required |
 
 #### 4.3.4.8 Element anzahl_
 
@@ -1025,7 +1022,7 @@ Abklärungsuntersuchungen mit CIN III inkl. plattenepithales Ca in situ.
 | diagram |  |
 |---|---|
 | namespace urn:ehd/qszervixzyto/001 |  |
-| attributes | Name    Type    Use    Default    Fixed    V    xs:integer  required |
+| attributes | Name    Type    Use    Default    Fixed    V   **xs:integer ** required |
 
 #### 4.3.4.9 Element anzahl_
 
@@ -1034,7 +1031,7 @@ Das Element anzahl_ccamal enthält die Anzahl der untersuchten Frauen mit histol
 | diagram |  |
 |---|---|
 | namespace urn:ehd/qszervixzyto/001 |  |
-| attributes | Name    Type    Use    Default    Fixed    V    xs:integer  required |
+| attributes | Name    Type    Use    Default    Fixed    V   **xs:integer ** required |
 
 **Tabelle 22 Element anzahl_**
 
@@ -1064,7 +1061,7 @@ derheiten ist optional.
 | diagram |  |
 |---|---|
 | namespace urn:ehd/qszervixzyto/001 |  |
-| attributes | Name    Type    Use    Default    Fixed    V    xs:string  required |
+| attributes | Name    Type    Use    Default    Fixed    V   **xs:string ** required |
 
 **Tabelle 25 Element praxisbesonderheit**
 
@@ -1075,7 +1072,7 @@ n-
 
 # 5 Referenzierte Dokumente
 
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 |---|---|
 | [KBV_ITA_VGEX_Schnittstelle_eHeader] EHD- | Spezifikation |
 

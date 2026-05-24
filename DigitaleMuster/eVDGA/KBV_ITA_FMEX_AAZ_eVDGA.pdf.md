@@ -1,15 +1,15 @@
-|  | KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT  1 VERSION: 1.0  DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT  1 VERSION: 1.0  DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # ANTRAG AUF ZERTIFIZIERUNG  ELEKTRONISCHE VERORDNUN G VON  DIGA
 
 BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS 8 DEZEMBER 2024## [KBV_ITA_FMEX_AAZ_EVDGA]
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
 
 ---
@@ -28,19 +28,19 @@ Antragsteller ist die juristische oder natürliche Person, die für die Einhaltu
 
 |  |  | | |
 |---|---|---|---|
-| Name des Antragstellers  [bei juristischen Personen ist die |  | | |
-| Geschäftsbereich [falls vorhanden] |  | | |
-| Straße und Hausnummer |  | | |
-| PLZ, Ort |  | | |
-| Telefonnummer |  | | |
-| E-Mail-Adresse |  | | |
-| Webseite |  | | |
-| Der Antragsteller ist | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
-| Systempfleger  [nur anzugeben, wenn der |  | | |
-| Straße und Hausnummer |  | | |
-| PLZ, Ort |  | | |
-| Telefonnummer |  | | |
-| E-Mail-Adresse |  | | |
+| **Name des Antragstellers  [bei juristischen Personen ist die** |  | | |
+| **Geschäftsbereich [falls vorhanden]** |  | | |
+| **Straße und Hausnummer** |  | | |
+| **PLZ, Ort** |  | | |
+| **Telefonnummer** |  | | |
+| **E-Mail-Adresse** |  | | |
+| **Webseite** |  | | |
+| **Der Antragsteller ist** | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
+| **Systempfleger  [nur anzugeben, wenn der** |  | | |
+| **Straße und Hausnummer** |  | | |
+| **PLZ, Ort** |  | | |
+| **Telefonnummer** |  | | |
+| **E-Mail-Adresse** |  | | |
 
 Rechtsform anzugeben] Systempfleger vom Antragsteller abweicht] [ ] [ ] [ ]8. Dezember 2024
 
@@ -53,10 +53,10 @@ Nur anzugeben, wenn abweichend von Abschnitt 1.1.
 
 |  |  |
 |---|---|
-| Bestell- bzw. Auftragsnummer des |  |
-| Name |  |
-| Straße und Hausnummer |  |
-| PLZ, Ort |  |
+| **Bestell- bzw. Auftragsnummer des** |  |
+| **Name** |  |
+| **Straße und Hausnummer** |  |
+| **PLZ, Ort** |  |
 
 ## 1.3 ZERTIFIZIERUNGSGEGENSTAND
 
@@ -64,8 +64,8 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizie
 
 |  |  |
 |---|---|
-| Bezeichnung |  |
-| Identnummer [die letzten drei |  |
+| **Bezeichnung** |  |
+| **Identnummer [die letzten drei** |  |
 
 ## 1.4 BETRIEBSSYSTEME
 
@@ -93,10 +93,10 @@ Antragstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]8. D
 
 Folgende optionale Funktionen wurden umgesetzt:
 
-| IDENT- | BEZEICHNUNG | UMGESETZTE FUNKTIONEN |
+| **IDENT-** | **BEZEICHNUNG** | **UMGESETZTE FUNKTIONEN** |
 |---|---|---|
-| O35-35 | Festlegung der ausstellenden Person zum Signaturzeitpunkt | ☐ |
-| O62-04 | Zwei Patientenausdrucke einer Person auf einem DIN-A4-Blatt | ☐ |
+| **O35-35** | Festlegung der ausstellenden Person zum Signaturzeitpunkt | ☐ |
+| **O62-04** | Zwei Patientenausdrucke einer Person auf einem DIN-A4-Blatt | ☐ |
 
 8. Dezember 2024
 
@@ -111,20 +111,20 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 
 „Geschäftsführung“ zu benennen.
 
-|  | |
+\|  | |
 | Ansprechpartner(in) für das vorliegende Zertifizierungsthema | |
 |---|---|
-| Name* |  |
-| Telefonnummer* |  |
-| E-Mail-Adresse* |  |
+| **Name*** |  |
+| **Telefonnummer*** |  |
+| **E-Mail-Adresse*** |  |
 | Ansprechpartner(in): Geschäftsführung | |
-| Name* |  |
-| Telefonnummer |  |
-| E-Mail-Adresse* |  |
+| **Name*** |  |
+| **Telefonnummer** |  |
+| **E-Mail-Adresse*** |  |
 | Ansprechpartner(in): Produktmanagement | |
-| Name |  |
-| Telefonnummer |  |
-| E-Mail-Adresse |  |
+| **Name** |  |
+| **Telefonnummer** |  |
+| **E-Mail-Adresse** |  |
 
 Diese Information ist verpflichtend anzugeben
 
@@ -145,7 +145,7 @@ ________________
 
 - (4) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
 
-| THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART | KOSTEN IN € |
+| **THEMA** | **ZERTIFIZIERUNGSART** | **PRÜFUNGSART** | **KOSTEN IN €** |
 |---|---|---|---|
 | e VDGA | Neu- oder | Ergebnisprüfung | 275,24 |
 

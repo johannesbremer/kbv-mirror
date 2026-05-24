@@ -1,8 +1,8 @@
-|  | IT in der Arztpraxis |
+|  | ***IT in der Arztpraxis*** |
 |---|---|
-|  | Schnittstellenbeschreibung |
+|  | ***Schnittstellenbeschreibung*** |
 |  | [KBV_ITA_VGEX_Schnittstel |
-|  |  |
+|  | ** |
 |  | Dezernat Digitalisierung und IT |
 |  |  |
 |  | 10623 Berlin, Herbert |
@@ -18,19 +18,19 @@ Header für eDMP/a-Datensatz le_eHeader] -Lewin-Platz 2 2.39 Datum: 15.11.2017 K
 
 ### DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 2.39 | 15.11.2017 | KBV | Erweiterung von „Besonde | Anpassung der techni- | 30 |
-| 2.38 | 17.09.2015 | KBV | Erweiterung des Wertebe- | Anpassung an das Per- | 26 |
-| 2.37 | 07.05.2015 | KBV | Korrektur des Beispiels für | Wert des Attributs DN | 17 |
-| 2.36 | 24.09.2014 | KBV | Ersatzwert für Versicherten- | Teilnahme von Versiche | 29 |
-| 2.35 | 13.08.2014 | KBV | Redaktionelle Anpassung |  | 29 |
-| 2.34 | 19.06.2014 | KBV | Aktualisierung von Abbildung | Anpassung an Sche- | 24 |
-| 2.33 | 28.05.2014 | KBV | Korrektur der Kardinalität im    Beispiel für  Attribut DN im |  | 21        15 |
-| 2.32 | 30.04.2014 | KBV | Dokument redaktionell bzgl.  Erläuterung zu nm (Patient) |  | 25 |
-| 2.31 | 20.02.2014 | KBV | Korrektur der Versionsang   Hinweis auf Inhalt im Feld |  | 28      29 |
+| 2.39 | 15.11.2017 | KBV | Erweiterung von „Besonde | Anpassung der techni- | **30** |
+| 2.38 | 17.09.2015 | KBV | Erweiterung des Wertebe- | Anpassung an das Per- | **26** |
+| 2.37 | 07.05.2015 | KBV | Korrektur des Beispiels für | Wert des Attributs DN | **17** |
+| 2.36 | 24.09.2014 | KBV | Ersatzwert für Versicherten- | Teilnahme von Versiche | **29** |
+| 2.35 | 13.08.2014 | KBV | Redaktionelle Anpassung |  | **29** |
+| 2.34 | 19.06.2014 | KBV | Aktualisierung von Abbildung | Anpassung an Sche- | **24** |
+| 2.33 | 28.05.2014 | KBV | Korrektur der Kardinalität im    Beispiel für  Attribut DN im |  | **21 **      **15** |
+| 2.32 | 30.04.2014 | KBV | Dokument redaktionell bzgl.  Erläuterung zu nm (Patient) |  | **25** |
+| 2.31 | 20.02.2014 | KBV | Korrektur der Versionsang   Hinweis auf Inhalt im Feld |  | **28 **    **29** |
 | 2.30 | 26.11.2013 | KBV | Adressen Feldlängen an    Patient und Provider Vorna- |  |  |
-| 2.20 | 02.09.2013 | KBV | Erläuterung zum Kopfdatum     Umstellung auf eGK-VSD | Umstellung auf eGK | 15  9  21  ab 26 |
+| 2.20 | 02.09.2013 | KBV | Erläuterung zum Kopfdatum     Umstellung auf eGK-VSD | Umstellung auf eGK | **15  9  21  ab 26** |
 | 2.10 | 01.08.2012 | KBV | Red. Änderungen |  |  |
 
 a-Datensatz
@@ -371,26 +371,26 @@ Unterschiede im Header des a-Datensatzes zum Volldatensatz
 
 **Überblick-Unterschiede**
 
-| Volldatensatz | a-Datensatz |
+| **Volldatensatz** | **a-Datensatz** |
 |---|---|
-| document_type_cd V-Attribut : EDMP_ASTHMA_EE  EDMP_ASTHMA_EV | document_type_cd V-Attribut:  EDMP_ASTHMA_EE_A  EDMP_ASTHMA_EV_A |
-| document_type_cd DN-Attribut: Erstmalige Dokumentation Asthma bronchiale  Erstmalige Dokumentation Asthma  bzw. Verlaufsdokumentation Asthma bronchi- | document_type_cd DN-Attribut: bronchiale a-Datensatz bzw. Verlaufs- |
-| patient->person_name | fehlt |
-| patient->addr | fehlt |
-| provider ->person_name | fehlt |
-| provider->addr | fehlt |
-| provider ->telecom | fehlt |
-| insurance_ssu->...->Versichertennummer | pseudonymisierte Versichertennummer |
-| insurance_ssu->...- | fehlt |
-| insurance_ssu->...->WOP | fehlt |
-| insurance_ssu->...->AbrechnungsVKNR | fehlt |
-| insurance_ssu->...->SKTZusatzangabe | fehlt |
-| insurance_ssu->...->BesonderePersonengruppe | fehlt |
-| insurance_ssu->...->Versichertenart | fehlt |
-| insurance_ssu->...->DMP_Kennzeichnung | fehlt |
-| insurance_ssu->...->VersicherungsschutzBeginn | fehlt |
-| insurance_ssu->...->VersicherungsschutzEnde | fehlt |
-| insurance_ssu->...->Einlesedatum | fehlt |
+| *document_type_cd V-Attribut :****EDMP_ASTHMA_EE  EDMP_ASTHMA_EV*** | *document_type_cd V-Attribut: ****EDMP_ASTHMA_EE_A  EDMP_ASTHMA_EV_A*** |
+| *document_type_cd DN-Attribut:****Erstmalige Dokumentation Asthma bronchiale  Erstmalige Dokumentation Asthma  bzw. Verlaufsdokumentation Asthma bronchi-*** | *document_type_cd DN-Attribut:****bronchiale a-Datensatz bzw. Verlaufs-*** |
+| *patient->person_name* | fehlt |
+| *patient->addr* | fehlt |
+| *provider ->person_name* | fehlt |
+| *provider->addr* | fehlt |
+| *provider ->telecom* | fehlt |
+| *insurance_ssu->...->Versichertennummer* | pseudonymisierte Versichertennummer |
+| *insurance_ssu->...-* | fehlt |
+| *insurance_ssu->...->WOP* | fehlt |
+| *insurance_ssu->...->AbrechnungsVKNR* | fehlt |
+| *insurance_ssu->...->SKTZusatzangabe* | fehlt |
+| *insurance_ssu->...->BesonderePersonengruppe* | fehlt |
+| *insurance_ssu->...->Versichertenart* | fehlt |
+| *insurance_ssu->...->DMP_Kennzeichnung* | fehlt |
+| *insurance_ssu->...->VersicherungsschutzBeginn* | fehlt |
+| *insurance_ssu->...->VersicherungsschutzEnde* | fehlt |
+| *insurance_ssu->...->Einlesedatum* | fehlt |
 
 **Tabelle 1 Unterschiede Volldatensatz und a-Datensatz**
 
@@ -408,7 +408,7 @@ Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, dere
 
 **4.1 Kardinalität**
 
-| Kardinalität | Symbol | Beschreibung |
+| **Kardinalität** | **Symbol** | **Beschreibung** |
 |---|---|---|
 | 0..1 |  | Optionales Element: Element wird als Rechteck mit |
 | 1 |  | Musselement:  Rechteck mit durchgezogener Linie. |
@@ -422,7 +422,7 @@ Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, dere
 
 Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinander lo- gisch verknüpft. In diesem Dokument werden zwei Strukturelement-Arten verwendet: Choice  und Sequence.
 
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |---|---|
 |  | Das Strukturelement Choice zeigt an, dass zwischen verschiedenen Kin- |
 |  | Das Strukturelement, Sequence beschreibt, dass verschiedene Kindelemente |
@@ -433,7 +433,7 @@ Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinand
 
 **4.3 Sonstige Symbole**
 
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |---|---|
 |  | Ein Element mit mehreren Kindelementen wird durch ein |
 |  | Referenzelement: Der Pfeil links unten im Element zeigt |
@@ -452,7 +452,7 @@ a-Datensatz
 
 Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen,  die in diesem Dokument beschrieben werden, ist es wichtig die Groß-/Kleinschreibung zu be- achten. Sonderzeichen (wie &, <, >, ’ , “) werden durch ein „Entity“ ersetzt. Dazu wird das Zei- chen & mit einer bestimmten Zeichenfolge kombiniert. Die folgende Liste gibt den Überblick  wie die Sonderzeichen in XML ersetzt werden:
 
-| Sonderzeichen | Ersetzen durch | |
+| **Sonderzeichen** | **Ersetzen durch** | |
 |---|---|---|
 | & | &amp; | |
 | < | &lt; | |
@@ -972,7 +972,7 @@ Der Coderahmen für dieses Element sieht wie folgt aus:
 
 Das Element *nm* kann folgende Elemente enthalten:
 
-| Element | Werte | Datentyp | Kard. |
+| **Element** | **Werte** | **Datentyp** | **Kard.** |
 |---|---|---|---|
 | GIV | durch Bindestriche oder Leerzeichen getrennt) | max. 45 Zeichen |  |
 | FAM | Familiennamen der Person | max. 45 Zeichen |  |
@@ -984,7 +984,7 @@ Zu dem Element *PFX* kann es zusätzlich zum *V*-Attribut das *QUAL*-Attribut mi
 
 Ausprägungen geben:
 
-| Code | Definition | Ausprägung |
+| **Code** | **Definition** | **Ausprägung** |
 |---|---|---|
 | AC | academic | sind durch Leerzeichen getrennt) |
 | VV | voorvoegsel | Vorsatzwort, z.B. „von“ vgl. Anlage 6 DEÜV |
@@ -994,7 +994,7 @@ Ausprägungen geben:
 
 Die Speicherung der Namen entspricht der Spezifikation der Versichertenkarte (eGK). Die  folgende Tabelle zeigt die Abbildung der Angaben der Versichertenkarte auf die entsprechen- den XML-Elemente:
 
-| Versichertenkarte | XML-Element |
+| **Versichertenkarte** | **XML-Element** |
 |---|---|
 | Titel | <PFX V="..." QUAL="AC"/> |
 | Vorname | <GIV V="..."/> |
@@ -1048,7 +1048,7 @@ Wenn das Dokument nicht in einer Arztpraxis, sondern in einem Krankenhaus erstel
 
 Krankenhaus"/>). Zusätzlich wird im zweiten  das Dokument erstellt wurde, mit angegeben (z.B. <ADL V="Endoskopie"/>). Wenn das Do- kument in einer Arztpraxis erstellt wird, dann kann das
 
-| Element | Wert | Datentyp | Kard. |
+| **Element** | **Wert** | **Datentyp** | **Kard.** |
 |---|---|---|---|
 | ADL | Name des Krankenhauses und  Name der Abteilung, wo die Behand- Bei eGK entspricht es dem Element | String mit max. 40 Zeichen | 0..2 |
 | STR | Straße der Anschrift | String mit max. 46 Zeichen | 0..1 |
@@ -1077,7 +1077,7 @@ Element die Krankenhausabteilung, in dem
 
 ---
 
-| Code | Definition | Ausprägung |
+| **Code** | **Definition** | **Ausprägung** |
 |---|---|---|
 | PHYS | visit address (Wohn- / Aufenthaltsort) | Hausanschrift (default) |
 | PST | postal address (Postanschrift, Post- | Postfachanschrift |
@@ -1134,7 +1134,7 @@ mit dem Wert „tel“, „fax“ „mailto“, „http“ oder „ftp“ beginn
 
 Die Erläuterung für die verschiedenen Werte sind in der Tabelle 11 aufgeführt.
 
-| Code | Definition | Beispiel |
+| **Code** | **Definition** | **Beispiel** |
 |---|---|---|
 | tel | Telefon/Mobiltelefon | <telecom V="tel:(0221)4449-0" USE="WP"/> |
 | fax | Faxnummer | <telecom V="fax:(0221)4449-400" USE="WP"/> |
@@ -1294,7 +1294,7 @@ Der Coderahmen für dieses Element sieht wie folgt aus:
 
 6.9.2.2.1 Namensbestandteile des Patienten (nm)
 
-| Element | Werte | Datentyp | Kard. |
+| **Element** | **Werte** | **Datentyp** | **Kard.** |
 |---|---|---|---|
 | GIV | durch Bindestriche oder Leerzeichen getrennt) | max.  45 Zeichen |  |
 | FAM | Familiennamen der Person | max.  45 Zeichen |  |
@@ -1798,9 +1798,9 @@ bilden. Die Grundstruktur ist in Abbildung 13 dargestellt.
 
 Die Coderahmen für dieses Element sieht wie folgt aus:
 
-*sciphox:Kontakttyp* , die zusammen alle die Gruppe
+*sciphox:Kontakttyp cda:organization.nm*
 
-*cda:organization.nm*
+, die zusammen alle die Gruppe
 
 , evtl.
 
@@ -1809,8 +1809,8 @@ Schnittstelle erzeugt. *kontakt_gruppe*
 
 ---
 
-| <sciphox:Kontakt>         <sciphox:Kontakttyp V="SOFTV" S="1.2.276.0.76.3.1.1.5.2.3" DN="Softwareverantwortlicher "/>          <person_name>           . . .        <person_name>                  </sciphox:Kontakt> |
-|---|
+\| <sciphox:Kontakt>         <sciphox:Kontakttyp V="SOFTV" S="1.2.276.0.76.3.1.1.5.2.3" DN="Softwareverantwortlicher "/>          <person_name>           . . .        <person_name>                  </sciphox:Kontakt> |
+\|---|
 
 a-Datensatz
 
@@ -1897,9 +1897,7 @@ Grundstruktur ist in Abbildung 14 dargestellt.
 
 a-Datensatz
 
-*SoftwareTyp* und dem optionalen Element
-
-*Software.* Die
+*SoftwareTyp* und dem optionalen Element *Software.* Die
 
 Ein Beispiel für dieses Element mit Informationen zur Schnittstelle und dem Prüfmodul sieht  dann wie folgt aus:
 
@@ -1951,9 +1949,7 @@ lässige Werte für die Bezeichnung der Schnittstelle stehen in der Tabelle mit 
 
 #### -Schnittstelle (SoftwareName)
 
-*SoftwareName*
-
-zur XML-
+*SoftwareName* zur XML-
 
 
 ---
@@ -2044,7 +2040,7 @@ a-Datensatz
 
 **7 Glossar**
 
-| Kürzel | Beschreibung |
+| **Kürzel** | **Beschreibung** |
 |---|---|
 | CDA | Clinical Document Architecture |
 | DMP | Disease Management Programm |
@@ -2071,7 +2067,7 @@ of Communication between Information Systems in Physician Offices and Hospitals 
 
 **8 Referenzierte Dokumente**
 
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 |---|---|
 | [KBV_ITA_VGEX_XML-Schnittstellen] | Austausch von XML-Daten in der vertragsärztlichen |
 | [KBV_ITA_VGEX_Datensatzbeschreibung_KVDT ] austausch zwischen Arztpraxis und Kassenärztlicher | KVDT Datensatzbeschreibung, Einheitlicher Daten- |

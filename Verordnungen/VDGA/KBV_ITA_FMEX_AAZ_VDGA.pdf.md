@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT  21. FEBRUAR 2024  VERSION: 1.2   DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT  21. FEBRUAR 2024  VERSION: 1.2   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # ANTRAG AUF ZERTIFIZIERUNG  VERORDNUN G VON DIGA
@@ -32,19 +32,19 @@ Antragsteller ist die juristische oder natürliche Person, die für die Einhaltu
 
 |  |  | | |
 |---|---|---|---|
-| Name des Antragstellers  [bei juristischen Personen ist die |  | | |
-| Geschäftsbereich [falls vorhanden] |  | | |
-| Straße und Hausnummer |  | | |
-| PLZ, Ort |  | | |
-| Telefonnummer |  | | |
-| E-Mail-Adresse |  | | |
-| Webseite |  | | |
-| Der Antragsteller ist | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
-| Systempfleger  [nur anzugeben, wenn der |  | | |
-| Straße und Hausnummer |  | | |
-| PLZ, Ort |  | | |
-| Telefonnummer |  | | |
-| E-Mail-Adresse |  | | |
+| **Name des Antragstellers  [bei juristischen Personen ist die** |  | | |
+| **Geschäftsbereich [falls vorhanden]** |  | | |
+| **Straße und Hausnummer** |  | | |
+| **PLZ, Ort** |  | | |
+| **Telefonnummer** |  | | |
+| **E-Mail-Adresse** |  | | |
+| **Webseite** |  | | |
+| **Der Antragsteller ist** | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
+| **Systempfleger  [nur anzugeben, wenn der** |  | | |
+| **Straße und Hausnummer** |  | | |
+| **PLZ, Ort** |  | | |
+| **Telefonnummer** |  | | |
+| **E-Mail-Adresse** |  | | |
 
 / Version: 1.2 / 21. Februar 2024
 
@@ -58,10 +58,10 @@ Nur anzugeben, wenn abweichend von Abschnitt 1.1.
 
 |  |  |
 |---|---|
-| Bestell- bzw. Auftragsnummer des |  |
-| Name |  |
-| Straße und Hausnummer |  |
-| PLZ, Ort |  |
+| **Bestell- bzw. Auftragsnummer des** |  |
+| **Name** |  |
+| **Straße und Hausnummer** |  |
+| **PLZ, Ort** |  |
 
 ## 1.3 ZERTIFIZIERUNGSGEGENSTAND
 
@@ -69,8 +69,8 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizie
 
 |  |  |
 |---|---|
-| Bezeichnung |  |
-| Identnummer [die letzten drei |  |
+| **Bezeichnung** |  |
+| **Identnummer [die letzten drei** |  |
 
 ## 1.4  BETRIEBSSYSTEME
 
@@ -100,21 +100,21 @@ Antragstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
 
 Folgende konditionalen Pflichtfunktionen
 
-| IDENT- | BEZEICHNUNG | UMGESETZTE FUNKTIONEN |
+| **IDENT-** | **BEZEICHNUNG** | **UMGESETZTE FUNKTIONEN** |
 |---|---|---|
-| KP3-020  KP3-030 | Eine Version der Verordnungssoftware  Verhalten der Software bei der Anzeige von Werbung Ausschalten von Werbung | ☐ |
-| KP4-312 | Angaben bei erster und wiederholter Verordnung | ☐ |
-| KP4-322 | Freitext-Verordnung | ☐ |
+| **KP3-020  KP3-030** | Eine Version der Verordnungssoftware  Verhalten der Software bei der Anzeige von Werbung Ausschalten von Werbung | ☐ |
+| **KP4-312** | Angaben bei erster und wiederholter Verordnung | ☐ |
+| **KP4-322** | Freitext-Verordnung | ☐ |
 
 ## 2.3 OPTIONALE FUNKTIONEN
 
 Folgende optionale Funktionen wurden umgesetzt:
 
-| IDENT- | BEZEICHNUNG | UMGESETZTE FUNKTIONEN |
+| **IDENT-** | **BEZEICHNUNG** | **UMGESETZTE FUNKTIONEN** |
 |---|---|---|
-| O2-030 | Weitere Inhalte der Daten des Produktverzeichnisses | ☐ |
-| O3-040 | Eine von Produktwerbung freie Version der  Werbefreie Verordnungssoftware | ☐ |
-| O4-221 | Anzeige nicht verordnungsfähiger DiGA-Verordnungseinheiten | ☐ |
+| **O2-030** | Weitere Inhalte der Daten des Produktverzeichnisses | ☐ |
+| **O3-040** | Eine von Produktwerbung freie Version der  Werbefreie Verordnungssoftware | ☐ |
+| **O4-221** | Anzeige nicht verordnungsfähiger DiGA-Verordnungseinheiten | ☐ |
 
 wurden umgesetzt:
 
@@ -130,20 +130,20 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 
 „Geschäftsführung“ zu benennen.
 
-|  | |
+\|  | |
 | Ansprechpartner(in) für das vorliegende Zertifizierungsthema | |
 |---|---|
-| Name* |  |
-| Telefonnummer* |  |
-| E-Mail-Adresse* |  |
+| **Name*** |  |
+| **Telefonnummer*** |  |
+| **E-Mail-Adresse*** |  |
 | Ansprechpartner(in): Geschäftsführung | |
-| Name* |  |
-| Telefonnummer |  |
-| E-Mail-Adresse* |  |
+| **Name*** |  |
+| **Telefonnummer** |  |
+| **E-Mail-Adresse*** |  |
 | Ansprechpartner(in): Produktmanagement | |
-| Name |  |
-| Telefonnummer |  |
-| E-Mail-Adresse |  |
+| **Name** |  |
+| **Telefonnummer** |  |
+| **E-Mail-Adresse** |  |
 
 Diese Information ist verpflichtend anzugeben
 
@@ -164,7 +164,7 @@ Diese Information ist verpflichtend anzugeben
 
 - (4) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
 
-| THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART | KOSTEN IN € |
+| **THEMA** | **ZERTIFIZIERUNGSART** | **PRÜFUNGSART** | **KOSTEN IN €** |
 |---|---|---|---|
 | VDGA | Neu- oder | Ergebnisprüfung | 275,24 |
 

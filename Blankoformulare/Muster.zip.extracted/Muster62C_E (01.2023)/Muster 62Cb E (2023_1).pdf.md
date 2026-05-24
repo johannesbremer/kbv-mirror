@@ -108,19 +108,13 @@ Medikament/
 
 Substanz
 
-Flow l/min
-
-Häufigkeit
-
-tgl. wtl. mtl.
-
 Dauer
 
-h/tgl.
+Flow l/min h/tgl.
 
-Dauer
+Häufigkeit Dauer
 
-vom
+tgl. wtl. mtl. vom
 
 ärztliche Unterschrift
 

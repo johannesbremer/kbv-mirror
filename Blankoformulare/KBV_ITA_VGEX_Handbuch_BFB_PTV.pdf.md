@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  18. FEBRUAR 2021   VERSION: 1.36   DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  18. FEBRUAR 2021   VERSION: 1.36   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # HANDBUCH BLANKOFORMU- LARBEDRUCKUNG FÜR DIE PSYCHO- THERAPIE (PTV)
@@ -163,7 +163,7 @@ Abbildung 11: PTV 12b, Original: DIN A4 hoch 20
 
 Die Änderung der Version 1.36 tritt zum 1. Juli 2021 in Kraft.
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.36 | 18.02.2021 | KBV | Klarstellung der Bedruckung |  | 6  8 |
 | 1.35 | 25.03.2020 | KBV | geändertes Layout  Aktualisierung der Vorlagen  Klarstellung der Anforderung | Verbesserung der Ver- | Alle  10ff      8 |
@@ -254,25 +254,25 @@ gen entsprechend realisiert werden.
 
 Die Realisierung aller Pflichtfunktionen sowie der implementierten optionalen Funktionen ist im Rahmen  des Begutachtungsverfahrens nachzuweisen.
 
-| PFLICHTFUNKTION BFB | |
+| **PFLICHTFUNKTION BFB** | |
 |---|---|
-| P3-10 | Funktionsbezeichnung |
+| **P3-10** | **Funktionsbezeichnung** |
 
 Ident-Nummer einer Pflichtfunktion
 
 Konditionale Pflichtfunktionen sind wie folgt gekennzeichnet:
 
-| OPTIONALE FUNKTION BFB | |
+| **OPTIONALE FUNKTION BFB** | |
 |---|---|
-| K3-30 | Funktionsbezeichnung |
+| **K3-30** | **Funktionsbezeichnung** |
 
 Ident-Nummer einer optionalen Funktion
 
 **2.8** **ZULÄSSIGE BFB-FORMULARE**
 
-| PFLICHTFUNKTION BFB | |
+| **PFLICHTFUNKTION BFB** | |
 |---|---|
-| P 2.8-10 | Verwendung zulässiger BFB-Formulare |
+| **P 2.8-10** | **Verwendung zulässiger BFB-Formulare** |
 
 Im Rahmen der Blankoformularbedruckung für Psychotherapie dürfen nur die in Anlage 1 des BMV -Ä (Psy- chotherapie-Vereinbarung) §18 Absatz 12 Satz 3 bestimmten Formblätter verwendet werden.
 
@@ -284,9 +284,9 @@ Die KBV stellt die in der Blankoformularbedruckung aufgenommenen PT -Formulare a
 
 **2.10** **ÄNDERUNGSDIENST / LOGISTIK**
 
-| PFLICHTFUNKTION BFB | |
+| **PFLICHTFUNKTION BFB** | |
 |---|---|
-| P2.10-10 | Änderungsdienst |
+| **P2.10-10** | **Änderungsdienst** |
 
 Änderungen an PT-Formularen im Rahmen der BFB werden seitens der KBV spätestens zur Mitte des zwei- ten Monats im Quartal in elektronischer Form veröffentlicht.
 
@@ -299,17 +299,17 @@ Mit einem Update zu den PT-Formularen muss der Softwareverantwortliche sicherste
 
 Die Bedruckungsvorgaben beziehen sich auf die psychotherapeutischen BFB -Formulare. Die im Rahmen der  Blankoformularbedruckung aufzudruckenden Daten der Versichertenkarte unterliegen Verarbeitungsrest- riktionen gemäß Vorgaben der Bundesmantelverträge (siehe § 19 Bundesmantelvertrag-Ärzte (BMV-Ä)  bzw. §§23, 24 BMV-Ä unter [Bundesmantelvertrag]), sowie der Technischen Anlage zu Anlage 4a  [KBV_ITA_VGEX_Mapping_KVK] und des KVDT [KBV_ITA_VGEX_Anforderungskatalog_KVDT].
 
-| PFLICHTFUNKTION BFB | |
+| **PFLICHTFUNKTION BFB** | |
 |---|---|
-| P2.11-10 | Geltungsbereich |
+| **P2.11-10** | **Geltungsbereich** |
 
 Die Anwendungssoftware darf den Ausdruck von psychotherapeutischen BFB -Formularen nur unterstützen  bei Versicherten der
 
 - Gesetzlichen Krankenversicherung (GKV)
 
-| PFLICHTFUNKTION BFB | |
+| **PFLICHTFUNKTION BFB** | |
 |---|---|
-| P2.10-11 | Vorgaben aus dem Anforderungskatalog Formularbedruckung |
+| **P2.10-11** | **Vorgaben aus dem Anforderungskatalog Formularbedruckung** |
 
 Die Software muss für den Blankoformulardruck der unterstützten Muster die Vorgaben aus dem Anforde- rungskatalog Formularbedruckung einhalten.
 
@@ -323,9 +323,9 @@ tung der im Anforderungskatalog Formularbedruckung [KBV_ITA_VGEX_Anforderungskat
 
 druckung] für die unterstützten Muster definierten Anforderungen.
 
-| PFLICHTFUNKTION BFB | |
+| **PFLICHTFUNKTION BFB** | |
 |---|---|
-| P2.11-20 | Ausdruck eines Blankoformulars mit Bewegungsdaten |
+| **P2.11-20** | **Ausdruck eines Blankoformulars mit Bewegungsdaten** |
 
 Die Anwendungssoftware muss den Ausdruck eines BFB-Formulars in den drei unterschiedlichen Varianten  unterstützen:
 
@@ -366,9 +366,9 @@ Der Ausdruck eines Blankoformulars darf in gewissem Rahmen bezüglich der aufzud
 
 - a) In diesem Fall ist nur die Prüfnummer aufzudrucken.
 
-| PFLICHTFUNKTION BFB | |
+| **PFLICHTFUNKTION BFB** | |
 |---|---|
-| P2.11-40 | Ausdruck der Prüfnummer |
+| **P2.11-40** | **Ausdruck der Prüfnummer** |
 
 Bei erfolgreicher Prüfung wird vom Referat Zertifizierung eine Prüfnummer vergeben. Sie wird auf der  "Konformitätsbescheinigung" vermerkt. Bei erfolgreicher Prüfung weiterer BFB-Formulare werden diese in  die Liste der zertifizierten Formulare der PVS hinzugefügt. Die Prüfnummer bleibt bestehen und ist identifi- zierendes Merkmal bzgl. der erfolgreich geprüften BFB-Formulare und hat verbindlichen Charakter.
 
@@ -376,9 +376,9 @@ Für den Ausdruck der Prüfnummer gilt:
 
 Die zugeteilte Prüfnummer muss an der definierten Position (vgl. Vordruck -Vereinbarung Blankoformular- bedruckung) in ARIAL, Schriftgröße 5 ausgedruckt werden.
 
-| PFLICHTFUNKTION BFB | |
+| **PFLICHTFUNKTION BFB** | |
 |---|---|
-| P2.11-41 | Bedruckung von Datumsangaben auf Blankoformularvorlagen |
+| **P2.11-41** | **Bedruckung von Datumsangaben auf Blankoformularvorlagen** |
 
 Das System muss auf Mustern der Blankoformularbedruckung die Datumsangaben im Format „TT.MM.JJ“  eintragen.
 
@@ -417,13 +417,10 @@ Abbildung 2: PTV 1b, Original: DIN A4 hoch
 
 ---
 
-| **3.1.3** | **PTV** | **1c .1** | **(7.2020)** |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-| Abbildung | 3: PTV | 1c.1, Original: | DIN A4 hoch |  |  |  |  |
-| Seite | 12 von 21 | / KBV / | Handbuch Blankoformularbedruckung | für die | Psychotherapie (PTV) | / Version: | 1.36 / 18. Februar |
-| 2021 |  |  |  |  |  |  |  |
+### 3.1.3 PTV 1c .1 (7.2020)
 
-PTV 1c .1 (7.2020) Abbildung 3: PTV 1c.1, Original: DIN A4 hoch
+Abbildung 3: PTV 1c.1, Original: DIN A4 hoch
+
 
 ---
 
@@ -443,13 +440,10 @@ Abbildung 5: PTV 2a, Original: DIN A4 hoch
 
 ---
 
-| **3.2.2** | **PTV** | **2b** | **(7.2020)** |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-| Abbildung | 6: PTV | 2b, Original: | DIN A4 hoch |  |  |  |  |
-| Seite | 15 von 21 | / KBV / | Handbuch Blankoformularbedruckung | für die | Psychotherapie (PTV) | / Version: | 1.36 / 18. Februar |
-| 2021 |  |  |  |  |  |  |  |
+### 3.2.2 PTV 2b (7.2020)
 
-PTV 2b (7.2020) Abbildung 6: PTV 2b, Original: DIN A4 hoch
+Abbildung 6: PTV 2b, Original: DIN A4 hoch
+
 
 ---
 
@@ -496,7 +490,7 @@ Abbildung 11: PTV 12b, Original: DIN A4 hoch
 
 |  |  |
 |---|---|
-| Datensatz- und Schnittstellenbeschreibung |  |
+| **Datensatz- und Schnittstellenbeschreibung** |  |
 | [KBV_ITA_RLEX_Zert] | Zertifizierungsrichtlinie der KBV |
 | [KBV_ITA_FMEX_AAZ_BFB] | Antrag auf Zertifizierung Blankofor- |
 | [KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung] | Anforderungskatalog zur Formularbe- |

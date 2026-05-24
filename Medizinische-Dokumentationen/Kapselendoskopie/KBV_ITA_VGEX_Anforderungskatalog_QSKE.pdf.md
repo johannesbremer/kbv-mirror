@@ -1,6 +1,6 @@
-|  | IT in der Arztpraxis |
+|  | ***IT in der Arztpraxis*** |
 |---|---|
-|  | Anforderungskatalog QS Kap- |
+|  | *Anforderungskatalog QS Kap-* |
 |  | [KBV_ITA_VGEX_Anforderungskatalog_QS |
 |  |  |
 |  | Dezernat Digitalisierung und IT |
@@ -20,7 +20,7 @@ Dokumentenhistorie
 
 Die Änderungen vom 14.11.2025 treten zum 01.01.2026 in Kraft.
 
-| Version Datum |  | Autor | Änderung | Begründung | Seite |
+| **Version Datum** |  | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.03 | 14.11.2025 | KBV | Streichung P1-265,   Überarbeitung P1-266      Umwandlung K 2-264 in konditiona- | Abschaltung KV-Connect | 9 |
 | 1.02 | 14.02.2025 | KBV | • | weg | 9 |
@@ -33,12 +33,7 @@ le  Pflichtfunktion KP2-264 P1-266: Neu aufgenommen KIM als Übertragungs- P1-26
 
 INHALTSVERZEICHNIS
 
-### DOKUMENTENHISTORIE
-
-### INHALTSVERZEICHNIS
-
-### ABBILDUNGSVERZEICHNIS
-
+### DOKUMENTENHISTORIE INHALTSVERZEICHNIS ABBILDUNGSVERZEICHNIS
 **1** **QUALITÄTSSICHERUNGSVEREINBARUNG KAPSELENDOSKOPIE 5**
 
 **1.1** **Zielbestimmung ............................................................................................................................. 5**
@@ -127,17 +122,17 @@ Erläuterung der Funktionsdarstellung
 |---|---|
 | Die in diesem Dokument beschriebenen Funktionen werden durchnummeriert. Dabei folgt die |  |
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P4-10 | Funktionsbezeichnung |
+| **P4-10** | **Funktionsbezeichnung** |
 
 Ident-Nummer einer Pflichtfunktion Ident-Nummer einer älteren Version
 
 Optionale Funktionen sind wie folgt gekennzeichnet:
 
-| Optionale FUNKTION | |
+| **Optionale FUNKTION** | |
 |---|---|
-| K8-30 | Funktionsbezeichnung                                                                            (2-80) |
+| **K8-30** | **Funktionsbezeichnung                                                                            (2-80)** |
 
 Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Version
 
@@ -151,9 +146,9 @@ Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Version
 
 ### 2.1.1 Vollständigkeit der Eingaben aller Bewegungsdaten
 
-| PFLICHTFUNKTION QS Kapselendoskopie | |
+| **PFLICHTFUNKTION QS Kapselendoskopie** | |
 |---|---|
-| P1-10 | Vollständigkeit der Eingaben aller Bewegungsdaten |
+| **P1-10** | **Vollständigkeit der Eingaben aller Bewegungsdaten** |
 
 Die Bedieneroberfläche der Software muss eine lückenlose und korrekte Eingabe aller rele- vanten Bewegungsdaten bzgl. der Kapselendoskopie Jahresstatistik ermöglichen.
 
@@ -163,9 +158,9 @@ Die in der Schnittstellenbeschreibung QS
 
 fassbar sein.
 
-| PFLICHTFUNKTION QS Kapselendoskopie | |
+| **PFLICHTFUNKTION QS Kapselendoskopie** | |
 |---|---|
-| P1-20 | Berichtszeiträume |
+| **P1-20** | **Berichtszeiträume** |
 
 Die Behandlungsfälle werden erstmals drei Quartal nach Inkrafttreten der QS-Vereinbarung  erfasst, danach jährlich vom 01.01.-31.12. des Untersuchungsjahres.
 
@@ -198,9 +193,9 @@ Kapselendoskopie - 30.06
 
 ---
 
-| PFLICHTFUNKTION QS Kapselendoskopie | |
+| **PFLICHTFUNKTION QS Kapselendoskopie** | |
 |---|---|
-| P1-30 | Arztbezug |
+| **P1-30** | **Arztbezug** |
 
 Die QSKE-Jahresstatistik umfasst alle Leistungen im Rahmen von QSKE eines Arztes. D.h.  jeder berechtigte Arzt in einer Gemeinschaftspraxis muss seine QSKE-Jahresstatistik erstel-
 
@@ -208,9 +203,9 @@ len.
 
 Die Betriebsstättennummer (BSNR) und die lebenslange Arztnummer (LANR) des Anwen- ders sind in der QSKE-Dokumentation zu erfassen.
 
-| PFLICHTFUNKTION QS Kapselendoskopie | |
+| **PFLICHTFUNKTION QS Kapselendoskopie** | |
 |---|---|
-| P1-35 | Patienten der QSKE Dokumentation |
+| **P1-35** | **Patienten der QSKE Dokumentation** |
 
 Für die Dokumentation der QS Kapselendoskopie werden nur Patienten Krankenversicherung berücksichtigt.
 
@@ -218,17 +213,17 @@ der gesetzlichen
 
 ### 2.1.2 Plausibilitäten
 
-| PFLICHTFUNKTION QS Kapselendoskopie | |
+| **PFLICHTFUNKTION QS Kapselendoskopie** | |
 |---|---|
-| P1-200 | Plausibilitäten |
+| **P1-200** | **Plausibilitäten** |
 
 Die erstellte Jahresstatistik muss den vorgegebenen Plausibilitäten
 
 [KBV_ITA_VGEX_Plausi_QSKE] entsprechen.
 
-| PFLICHTFUNKTION QS Kapselendoskopie | |
+| **PFLICHTFUNKTION QS Kapselendoskopie** | |
 |---|---|
-| P1-210 | Fehlerbehandlung bei Plausibilitäten |
+| **P1-210** | **Fehlerbehandlung bei Plausibilitäten** |
 
 Die Jahresstatistik wird gegen die Plausibilitäten [KBV_ITA_VGEX_Plausi_QSKE] geprüft  und Warnungen und ggf. Fehlermeldungen werden dem Anwender angezeigt.
 
@@ -236,34 +231,34 @@ Die Jahresstatistik wird gegen die Plausibilitäten [KBV_ITA_VGEX_Plausi_QSKE] g
 
 ### 2.1.3 Darstellung
 
-| PFLICHTFUNKTION QS Kapselendoskopie | |
+| **PFLICHTFUNKTION QS Kapselendoskopie** | |
 |---|---|
-| P 1-300 | Anzeige der Jahresstatistik |
+| **P 1-300** | **Anzeige der Jahresstatistik** |
 
 Der Anwender muss die Möglichkeit haben die generierte Jahresstatistik anzuschauen.
 
 
 ---
 
-| PFLICHTFUNKTION QS Kapselendoskopie | |
+| **PFLICHTFUNKTION QS Kapselendoskopie** | |
 |---|---|
-| P1-310 | Drucken der Jahresstatistik |
+| **P1-310** | **Drucken der Jahresstatistik** |
 
 Der Anwender muss die Möglichkeit haben die generierte Jahresstatistik auszudrucken.
 
 ### 2.1.4 Speichern
 
-| PFLICHTFUNKTION QS Kapselendoskopie | |
+| **PFLICHTFUNKTION QS Kapselendoskopie** | |
 |---|---|
-| P1-400 | Speichern der Jahresstatistik |
+| **P1-400** | **Speichern der Jahresstatistik** |
 
 Das System muss sicherstellen, dass der Anwender auch unvollständige oder fehlerhafte  Daten zur Jahresstatistik speichern kann. Ein späterer Abruf dieser Daten zur nachträglichen  Bearbeitung muss dem Anwender bis Ende des Prüfquartals ermöglicht werden.
 
 ### 2.1.5 Ändern
 
-| PFLICHTFUNKTION QS Kapselendoskopie | |
+| **PFLICHTFUNKTION QS Kapselendoskopie** | |
 |---|---|
-| P1-500 | Ändern der Jahresstatistik |
+| **P1-500** | **Ändern der Jahresstatistik** |
 
 Das System muss sicherstellen, dass der Anwender alle Daten zur Jahresstatistik bis Ende  des Prüfquartals ändern kann.
 
@@ -274,23 +269,23 @@ Das System muss sicherstellen, dass der Anwender alle Daten zur Jahresstatistik 
 
 ### 2.2.1 Übermittlung
 
-| PFLICHTFUNKTION QS Kapselendoskopie | |
+| **PFLICHTFUNKTION QS Kapselendoskopie** | |
 |---|---|
-| P 2-10 | Übermittlung an die Datenannahmestelle |
+| **P 2-10** | **Übermittlung an die Datenannahmestelle** |
 
 Die Jahresstatistik ist im Meldequartal an die Datenannahmestelle zu übermitteln. Die Statis- tik muss dabei bis zum 31.03. (Ende des Meldequartals) bei der Datenannahmestelle vorlie- gen. Der Anwender kann anschließend bis zum 30.06. (Ende des Prüfquartals) auf Aufforde- rung der KV veränderte und überarbeitete Daten an die Datenannahmestelle senden.
 
-| PFLICHTFUNKTION QS Kapselendoskopie | |
+| **PFLICHTFUNKTION QS Kapselendoskopie** | |
 |---|---|
-| P2-15 | Korrekturlieferung |
+| **P2-15** | **Korrekturlieferung** |
 
 Erfolgt eine Korrektur eines bereits versendeten Datensatzes durch den Arzt muss dies in der  elektronischen Dokumentation gemäß der Schnittstellenbeschreibung
 
 [KBV_ITA_VGEX_Schnittstelle_QSKE] kenntlich gemacht werden.
 
-| PFLICHTFUNKTION QS Kapselendoskopie | |
+| **PFLICHTFUNKTION QS Kapselendoskopie** | |
 |---|---|
-| P1-265 | QSKE auf Basis von KV-Connect |
+| **P1-265** | **QSKE auf Basis von KV-Connect** |
 
 Die Software muss dem Anwender eine Funktion für die Übertragung der QSKE- Dokumentationen auf Basis von KV-Connect bereitstellen.
 
@@ -306,9 +301,9 @@ Zum 01.10.2018 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstü
 
 -  „KV-Connect Anbindung an KV-Connect“ in der stets aktuellen Version - [Anbindung_KV_Connect]
 
-| PFLICHTFUNKTION QS Kapselendoskopie | |
+| **PFLICHTFUNKTION QS Kapselendoskopie** | |
 |---|---|
-| P1-266 | QSKE auf Basis von KIM |
+| **P1-266** | **QSKE auf Basis von KIM** |
 
 Die Software muss dem Anwender eine Funktion für die Übertragung der QSKE- Dokumentationen auf Basis von KIM bereitstellen.
 
@@ -339,15 +334,15 @@ Wenn eine KV für das Verfahren QSKE das KIM
 
 [Spezifikation_eDoku_KIM] unterstützt, dann enthält die SDKVCA einen entsprechenden Ein- trag.
 
-| Optionale FUNKTION KONDITIONALE PFLICHTFUNKTION QS Kapselendoskopie | |
+| **Optionale FUNKTION KONDITIONALE PFLICHTFUNKTION QS Kapselendoskopie** | |
 |---|---|
-| K KP2-264 | E-Mail Rückmeldung Importstatus von der Datenannahmestelle |
+| **K KP2-264** | **E-Mail Rückmeldung Importstatus von der Datenannahmestelle** |
 
 Die Rückmeldung zum Import-Status von der Datenannahmestelle erfolgt über den Versand  einer KIM-Nachricht gemäß der Anforderung eDoku0920 der [Spezifikation_eDoku_KIM] an  den Absender der Dokumentationsdaten. E-Mail-Versand.  Beim Importieren wird die Verordnungs-Datei geprüft und eine E-Mail KIM-Nachricht mit dem  Import-Status und ggf. Fehlermeldungen wird erstellt.
 
 Es sind folgende Import-Status möglich:
 
-| Status | Beschreibung |
+| **Status** | **Beschreibung** |
 |---|---|
 | OK | Die Datei wurde erfolgreich importiert. |
 | Datei existiert bereits | cher Zuordnung (ID, BSNR, LANR) vorhanden ist. |
@@ -374,9 +369,9 @@ Die Datei wurde nicht importiert, da bereits ein Datensatz mit glei- Beim Import
 
 ### 2.2.2 Export der Daten
 
-| PFLICHTFUNKTION QS Kapselendoskopie | |
+| **PFLICHTFUNKTION QS Kapselendoskopie** | |
 |---|---|
-| P2-60 | Korrekter Datenexport |
+| **P2-60** | **Korrekter Datenexport** |
 
 Das System muss
 
@@ -392,9 +387,9 @@ Das System muss
 
 ### 2.2.3 Verschlüsseln der Daten
 
-| PFLICHTFUNKTION QS Kapselendoskopie | |
+| **PFLICHTFUNKTION QS Kapselendoskopie** | |
 |---|---|
-| P2-70 | Einsatz Kryptomodul (XKM) |
+| **P2-70** | **Einsatz Kryptomodul (XKM)** |
 
 Vor Fertigstellung des vom Anwender einzureichenden Datenträgers ist das Dokumentati- onsarchiv in der Gesamtheit mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen  Schlüssels zur QSKE-Datenverschlüsselung (Oeffentlich_QSKE_Vxy.key) zu verschlüsseln.
 
@@ -405,7 +400,7 @@ Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM ni
 
 # 3 Referenzierte Dokumente
 
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 |---|---|
 | [KBV_ITA_VGEX_XML-Schnittstellen] | Austausch von XML-Daten in der vertragsärztlichen |
 | [KBV_ITA_VGEX_Schnittstelle_ QSKE] | Schnittstellenbeschreibung QS Kapselendoskopie |

@@ -1,8 +1,8 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
 ## MUSTER 61  VERORDNUNG VON MEDIZINISCHER REHABILITATION
 

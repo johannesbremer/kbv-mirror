@@ -8,9 +8,9 @@
 
 **Version anzuwenden ab:**
 
-- Anlage
+- Anlage 18* -
 
-# Plausibilitätsrichtlinie 18* -
+# Plausibilitätsrichtlinie
 
 # Depression
 
@@ -29,10 +29,10 @@
 
 **Anlage 18* Depression**
 
-| Laufende | Dokumentationsparameter | Ausprägung | Plausibilitäten |
-| Ist in den indikationsübergreifenden Dokumentationsparametern gemäß | | | |
+\| **Laufende** | **Dokumentationsparameter** | **Ausprägung** | **Plausibilitäten** |
+| **Ist in den indikationsübergreifenden Dokumentationsparametern gemäß** | | | |
 |---|---|---|---|
-| Anamnese- und Befunddaten |  | | |
+| **Anamnese- und Befunddaten** |  | | |
 | 1 | Summenwert | – | Pflichtfeld Nummerische Angabe Die Angabe erfolgt ohne Nachkommastelle. Die Angabe muss gleich oder größer „0“ |
 | 2 | aktuellen depressiven Episode | Leicht / Mittelgradig / Schwer | Bedingtes  Genau eine Angabe ist zulässig Eine Angabe ist erforderlich, wenn die  Eine Angabe |
 | 3 | aktuellen depressiven Episode | Aktuell keine depressive Episode / Leicht / Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig |
@@ -42,7 +42,7 @@ sind die nachstehenden Felder der Anlage 18* entsprechend den Festlegungen der P
 
 ---
 
-| Laufende | Dokumentationsparameter | Ausprägung | Plausibilitäten |
+| **Laufende** | **Dokumentationsparameter** | **Ausprägung** | **Plausibilitäten** |
 |---|---|---|---|
 |  |  |  | Eine Angabe ist erforderlich,  Eine Angabe |
 | 4 | Episode | Mehr als zwei Jahre persistierend / Weniger | Bedingtes Pflichtfeld Genau eine Angabe ist zulässig Eine Angabe ist immer erforderlich,  Eine Angabe ist erforderlich, wenn die  Eine Angabe |
@@ -52,7 +52,7 @@ Nummer Anlage 18* Rahmen einer Folgedokumentation auszufüllen ist. Rahmen einer
 
 ---
 
-| Laufende | Dokumentationsparameter | Ausprägung | Plausibilitäten |
+| **Laufende** | **Dokumentationsparameter** | **Ausprägung** | **Plausibilitäten** |
 |---|---|---|---|
 | Nicht-medikamentöse und medikamentöse Behandlung |  | | |
 | 6 | Aktuelle Psychotherapie | Ja / Nein / Geplant / Nicht gewünscht | Pflichtfeld |
@@ -65,7 +65,7 @@ Nummer medikamentöse Therapie mit Antidepressiva vor Einschreibung in das DMP d
 
 ---
 
-| Laufende | Dokumentationsparameter | Ausprägung | Plausibilitäten |
+| **Laufende** | **Dokumentationsparameter** | **Ausprägung** | **Plausibilitäten** |
 |---|---|---|---|
 |  |  |  |  |
 | 10 | Depressionsspezifische | Digitales | Eine Angabe ist erforderlich, wenn die  Eine Angabe im Rahmen einer |

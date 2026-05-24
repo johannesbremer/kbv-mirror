@@ -29,9 +29,9 @@
 
 ---
 
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
 |---|---|---|---|
-|  | Ist in der Anlage 2 | | |
+|  | **Ist in der Anlage 2** | | |
 |  | Anamnese- und Befunddaten |  | |
 | 1 | Aktueller FEV1-Wert  (alle  sechs | X Prozent des Soll-Wertes / Nicht | Pflichtfeld;  Genau eine Angabe ist zulässig  Erfolgt eine Angabe zu „X Wertebereich 001,0 |
 | 1a | Klinische Einschätzung des | Ja / Nein | Pflichtfeld;   genau eine Angabe ist zulässig |
@@ -43,7 +43,7 @@ Nr. in Feld 10 mindestens die Angabe „COPD“ erfolgt Festlegungen der Plausib
 
 ---
 
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
 |---|---|---|---|
 |  |  |  | Eine Angabe im Rahmen einer Erstdokumentation ist nicht    Angabe muss gleich oder größe |
 |  | Medikamente |  | |
@@ -55,7 +55,7 @@ Nr. Sympathomimetika und/oder Sympathomimetika  Kontraindikation  Kontraindikati
 
 ---
 
-| Nr. | Parameter | Ausprägung | Plausibilitäten |
+| **Nr.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
 |---|---|---|---|
 |  |  |  | Die Angaben |
 | 7 | Inhalationstechnik überprüft | Ja / Nein | Pflichtfeld;  Genau eine Angabe ist zulässig |
@@ -70,7 +70,7 @@ Lfd. Medikation  aktueller Dokumentation)  Einschreibung in DMP bereits wahrgeno
 
 ---
 
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
 |---|---|---|---|
 | 11 | (weggefallen) | (weggefallen) |  |
 | 12 | Empfehlung zum Tabakverzicht | Ja / Nein | Bedingtes Pflichtfeld;  Eine Angabe ist erforderlich, wenn in Feld 16 der Anlage 2 die  Genaue eine Angabe ist zulässig |

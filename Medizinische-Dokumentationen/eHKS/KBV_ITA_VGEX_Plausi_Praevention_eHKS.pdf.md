@@ -1,7 +1,7 @@
-|  | IT in der Arztpraxis  Plausibilitätenkatalog Prävent [KBV_ITA_VGEX_Plausi_Praevention_eHKS] |
+|  | ***IT in der Arztpraxis ****Plausibilitätenkatalog Prävent [KBV_ITA_VGEX_Plausi_Praevention_eHKS]* |
 |---|---|
 |  | Dezernat Digitalisierung und IT |
-|  |  |
+|  | ** |
 |  | 10623 Berlin, Herbert |
 |  | Kassenärztliche Bundesvereinigung |
 |  | 1.04 |
@@ -14,10 +14,10 @@ i- on (eHKS) -Lewin-Platz 2 Version  Datum: 129 .08.201 Kennzeichnung: Öffentli
 
 ### DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 1.04 | 12.08.2019 KBV |  | Erweiterung des Wertebereichs |  | 5 |
-| 1.03 | 02.08.2012 KBV |  | Red. Änderungen | entfällt | alle |
+| 1.04 | 12.08.2019 KBV |  | Erweiterung des Wertebereichs |  | **5** |
+| 1.03 | 02.08.2012 KBV |  | Red. Änderungen | entfällt | **alle** |
 
 für den Parameter „Geschlecht der/des Versicherten“
 
@@ -71,19 +71,19 @@ Wenn ein Wert zu einer Warnung führt, soll der Anwender auf diesen Umstand hing
 
 | Feld- | Dokumentationsparameter | Ausprägung/Datenformat | Plausibilitätenregel |
 |---|---|---|---|
-| 1.1 | Administrative Daten | | |
+| **1.1** | **Administrative Daten** | | |
 | 1.1.1 | Lebenslange Arztnummer | Nummerisch 9-stellig | Pflichtfeld (voraussichtlich geltend ab 01.07.2008) |
 | 1.1.2 | Betriebsstättennummer | Nummerisch 9-stellig | Pflichtfeld (voraussichtlich geltend ab 01.07.2008) |
-| 1.2 | Personenstammdaten | | |
-| 1.2.1 | Geburtsdatum der/des Versi- Alternativ zum Geburtsdatum | TT.MM.JJJJ | Pflichtfeld  Geburtsdatum (1.2.1) muss kleiner gleich dem Un- |
+| **1.2** | **Personenstammdaten** | | |
+| 1.2.1 | Geburtsdatum der/des Versi-*Alternativ zum Geburtsdatum* | TT.MM.JJJJ | Pflichtfeld  Geburtsdatum (1.2.1) muss kleiner gleich dem Un- |
 | 1.2.2 | Geschlecht der/des Versicher- | Weiblich/Männlich/Unbestimmt/Divers | Pflichtfeld  Es ist genau eine Angabe erforderlich. |
 | 1.2.3 | Name des Kostenträgers |  | Pflichtfeld  Der Name des Kostenträgers muss der Kostenträ- |
 | 1.2.4 | Institutionskennzeichen des | Nummerisch 7-stellig | Pflichtfeld  Stammdateiprüfung |
-| 1.3 | Untersuchungsdatum | | |
+| **1.3** | **Untersuchungsdatum** | | |
 |  | Untersuchungsdatum | TT.MM.JJJJ | Pflichtfeld   Das Untersuchungsdatum (1.3) muss kleiner gleich |
-| 1.4 | Art der Präventionsmaßnahme, für die dieser allgemeine Datensatz konzipiert wurde | | |
+| **1.4** | **Art der Präventionsmaßnahme, für die dieser allgemeine Datensatz konzipiert wurde** | | |
 | 1.4.1 | Hautkrebs-Screening |  | Ergibt die Differenz aus der Datumsangabe in Feld |
-| 3 Plausibilitätsprüfungen | | | |
+| **3 Plausibilitätsprüfungen** | | | |
 
 Nr. (LANR) (BSNR) cherten  der/des Versicherten kann auch das Alter der/des Versi- cherten angegeben werden Allgemeiner Datensatz tersuchungsdatum (1.2.4) sein. gerstammdatei entnommen werden.  dem Systemdatum sein. 1.2.1 minus der Datumsangabe in Feld 1.3 ein Le- bensalter von < 35 Jahren, ist die Angabe der Prä-
 

@@ -1,23 +1,23 @@
-|  | Plausibilitäten Dokumentationsbogen QS Hörgeräteversorgung | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **Plausibilitäten Dokumentationsbogen QS Hörgeräteversorgung** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Nr. | Item | Ausprägung / Datenformat | Vollständigkeit | Antwortmöglichkeiten | Wertebereich | optionale Plausibiilitäten |  |  |  |  |  |  | ja |  |  |  |  |  |  | ja |  |  |  |  |  |  | ja |  |  |  |  |  |  | ja |  |  |  |  |  |  | ja |
-| Pflichtfeld |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| Patientenangaben | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 1. | Patienten-ID | alphanumerisch | ja | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 2. | Geburtsjahr | Jahr (JJJJ) | ja | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 3. | Geschlecht | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **Nr.** | **Item** | **Ausprägung / Datenformat** | **Vollständigkeit** | **Antwortmöglichkeiten** | **Wertebereich** | **optionale Plausibiilitäten** |  |  |  |  |  |  | ja |  |  |  |  |  |  | ja |  |  |  |  |  |  | ja |  |  |  |  |  |  | ja |  |  |  |  |  |  | ja |
+| **Pflichtfeld** |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **Patientenangaben** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **1.** | **Patienten-ID** | alphanumerisch | ja | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **2.** | **Geburtsjahr** | Jahr (JJJJ) | ja | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **3.** | **Geschlecht** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | männlich | true / false | ja | höchstens eine Antwort möglich | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | weiblich | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | unbestimmt | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | divers | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| Vor Verordnung |  | mindestens (Vor | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 4. | Untersuchungsdatum (Vor Verordnung / | Datum (TT-MM-JJJJ), | ja | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 5. | Hörgeräteerstversorgung | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **Vor Verordnung** |  | mindestens (Vor | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **4.** | **Untersuchungsdatum (Vor Verordnung /** | Datum (TT-MM-JJJJ), | ja | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **5.** | **Hörgeräteerstversorgung** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | ja | true / false | ja | höchstens eine Antwort möglich | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | nicht bekannt | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | nein | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 6. | Wenn Vorversorgung, wann | Jahr (JJJJ) | nein | Feld nur ausfüllbar, wenn bei 5. "nein" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 7. | Bauform | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **6.** | **Wenn Vorversorgung, wann** | Jahr (JJJJ) | nein | Feld nur ausfüllbar, wenn bei 5. "nein" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **7.** | **Bauform** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | IO | true / false | nein | Feld nur ausfüllbar, wenn bei 5. "nein" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | HdO | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | andere | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -40,22 +40,22 @@
 |  |  | HdO | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | ja |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | Wenn Vorversorgung, wann |  | ja | Geschlecht |  | männlich | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **Wenn Vorversorgung, wann** |  | ja | **Geschlecht** |  | männlich | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | Vor Verordnung |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **Vor Verordnung** |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | ja | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | unbestimmt |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | weiblich |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | ja | nicht bekannt | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | nein | 5. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | nein | **5.** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | true / false | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| true / false | Hörgeräteerstversorgung |  |  | Ausprägung / Datenformat | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | Nr. | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | Antwortmöglichkeiten | 6. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| true / false | **Hörgeräteerstversorgung** |  |  | **Ausprägung / Datenformat** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **Nr.** | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **Antwortmöglichkeiten** | **6.** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | HdO |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | andere |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | Plausibilitäten Dokumentationsbogen QS Hörgeräteversorgung |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | Untersuchungsdatum (Vor Verordnung / |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **Plausibilitäten Dokumentationsbogen QS Hörgeräteversorgung** |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **Untersuchungsdatum (Vor Verordnung /** |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | Jahr (JJJJ) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -69,14 +69,14 @@
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  | 6. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  |  | **6.** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | true / false |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | Vor Verordnung |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  | **Vor Verordnung** |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | Hörgeräteerstversorgung | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  | **Hörgeräteerstversorgung** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -110,7 +110,7 @@
 |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | true / false |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| Vor Verordnung |  |  |  |  | Untersuchungsdatum (Vor Verordnung / | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **Vor Verordnung** |  |  |  |  | **Untersuchungsdatum (Vor Verordnung /** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | nicht bekannt | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -121,10 +121,10 @@ Datum 12.08.2019 Version 1.03 (10 Zeichen) Verordnung und Verordnung) ODER (Nach
 
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  |  |  | Vollständigkeit | Nr. | Ausprägung / Datenformat | Antwortmöglichkeiten | optionale Plausibiilitäten | Wertebereich | Item | Vollständigkeit | Nr. | Ausprägung / Datenformat | Antwortmöglichkeiten | optionale Plausibiilitäten | Wertebereich | Item | Vollständigkeit | Nr. | Ausprägung / Datenformat | Antwortmöglichkeiten | optionale Plausibiilitäten | Wertebereich | Item | Vollständigkeit | Nr. | Ausprägung / Datenformat | Antwortmöglichkeiten | optionale Plausibiilitäten | Wertebereich | Item | Vollständigkeit | Nr. | Ausprägung / Datenformat | Antwortmöglichkeiten | optionale Plausibiilitäten | Wertebereich | Item |
-|  | Pflichtfeld | Pflichtfeld | Pflichtfeld | Pflichtfeld | Pflichtfeld | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  |  |  |  |  |  | **Vollständigkeit** | **Nr.** | **Ausprägung / Datenformat** | **Antwortmöglichkeiten** | **optionale Plausibiilitäten** | **Wertebereich** | **Item** | **Vollständigkeit** | **Nr.** | **Ausprägung / Datenformat** | **Antwortmöglichkeiten** | **optionale Plausibiilitäten** | **Wertebereich** | **Item** | **Vollständigkeit** | **Nr.** | **Ausprägung / Datenformat** | **Antwortmöglichkeiten** | **optionale Plausibiilitäten** | **Wertebereich** | **Item** | **Vollständigkeit** | **Nr.** | **Ausprägung / Datenformat** | **Antwortmöglichkeiten** | **optionale Plausibiilitäten** | **Wertebereich** | **Item** | **Vollständigkeit** | **Nr.** | **Ausprägung / Datenformat** | **Antwortmöglichkeiten** | **optionale Plausibiilitäten** | **Wertebereich** | **Item** |
+|  | **Pflichtfeld** | **Pflichtfeld** | **Pflichtfeld** | **Pflichtfeld** | **Pflichtfeld** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  | Item | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  |  | **Item** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -132,7 +132,7 @@ Datum 12.08.2019 Version 1.03 (10 Zeichen) Verordnung und Verordnung) ODER (Nach
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  | 9b. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  |  | **9b.** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -142,32 +142,32 @@ Datum 12.08.2019 Version 1.03 (10 Zeichen) Verordnung und Verordnung) ODER (Nach
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | true / false |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 7b. | andere | Freitext | nein | Feld nur ausfüllbar, wenn bei 7. "andere" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 8. | Zentrale Hörstörung ausgeschlossen | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **7b.** | **andere** | Freitext | nein | Feld nur ausfüllbar, wenn bei 7. "andere" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **8.** | **Zentrale Hörstörung ausgeschlossen** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | ja | true / false | nein | höchstens eine Antwort möglich | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | nein | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 9a. | Sprachtest möglich | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | ja | true / false | ja | höchstens eine Antwort möglich | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | nein | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 9. | Sprachverstehen: mit Kopfhörer am | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 9b. | von _____ dB | numerisch (3 Ziffern und | ja; | Feld nur ausfüllbar, wenn bei 9a. "ja" | 0-120 dB | Es muss ausgefüllt werden: | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 9c. | von _____ % (E/Z) | numerisch (3 Ziffern und | 0 - 100% | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 9d. | von _____ dB (SVS) | numerisch (3 Ziffern und | 0-100 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 10. | Sprachtestmaterial | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **9a.** | **Sprachtest möglich** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **ja** | true / false | ja | höchstens eine Antwort möglich | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **nein** | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **9.** | **Sprachverstehen: mit Kopfhörer am** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **9b.** | **von _____ dB** | numerisch (3 Ziffern und | ja; | Feld nur ausfüllbar, wenn bei 9a. "ja" | 0-120 dB | Es muss ausgefüllt werden: | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **9c.** | **von _____ % (E/Z)** | numerisch (3 Ziffern und | 0 - 100% | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **9d.** | **von _____ dB (SVS)** | numerisch (3 Ziffern und | 0-100 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **10.** | **Sprachtestmaterial** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | Freiburger Einsilber | true / false | ja; | Feld nur  ausfüllbar, wenn bei 9a. "ja" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | Freiburger Zahlen | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | OLSA | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | GÖSA | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | anderes | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 7b. |  | Freitext | nein | Feld nur ausfüllbar, wenn bei 7. "andere" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| true / false | 8. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **7b.** |  | Freitext | nein | Feld nur ausfüllbar, wenn bei 7. "andere" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| true / false | **8.** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | true / false |  |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | 9a. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  | **9a.** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | true / false |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | 9. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 9b. |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  | **9.** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **9b.** |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -177,7 +177,7 @@ Datum 12.08.2019 Version 1.03 (10 Zeichen) Verordnung und Verordnung) ODER (Nach
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 7b. |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **7b.** |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -192,24 +192,24 @@ Datum 12.08.2019 Version 1.03 (10 Zeichen) Verordnung und Verordnung) ODER (Nach
 |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | 0 - 100% |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | numerisch (3 Ziffern und | 0-100 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 10. |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **10.** |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | Zentrale Hörstörung ausgeschlossen | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  | **Zentrale Hörstörung ausgeschlossen** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| von _____ dB (SVS) |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | 7b. |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **von _____ dB (SVS)** |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  | **7b.** |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 9. |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **9.** |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | 0-120 dB |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | 9c. |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  | **9c.** |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -218,22 +218,22 @@ Datum 12.08.2019 Version 1.03 (10 Zeichen) Verordnung und Verordnung) ODER (Nach
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | anderes | 7b. | Feld nur ausfüllbar, wenn bei 9a. "ja" |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | Sprachtest möglich |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | nein | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | ja |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | anderes | **7b.** | Feld nur ausfüllbar, wenn bei 9a. "ja" |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **Sprachtest möglich** |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **nein** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **ja** |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | ja |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | ja; |  |  | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | true / false |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | nein |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | andere | numerisch (3 Ziffern und | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | 9c. |  |  | numerisch (3 Ziffern und | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | Sprachverstehen: mit Kopfhörer am | 9d. | numerisch (3 Ziffern und | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | nein | 10. |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **andere** | numerisch (3 Ziffern und | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  | **9c.** |  |  | numerisch (3 Ziffern und | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **Sprachverstehen: mit Kopfhörer am** | **9d.** | numerisch (3 Ziffern und | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | nein | **10.** |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | ja; |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | OLSA |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | ja | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | Freiburger Zahlen | von _____ % (E/Z) | höchstens eine Antwort möglich | GÖSA | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | Freiburger Zahlen | **von _____ % (E/Z)** | höchstens eine Antwort möglich | GÖSA | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | Feld nur  ausfüllbar, wenn bei 9a. "ja" |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 
 dBopt keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) aber nur wenn bei 9a. "ja" angekreuzt wurde; mindestens eine Antwort aber nur,wenn bei 9a. "ja". angekreuzt wurde angekreuzt wurde angekreuzt wurde, mehrere Antworten möglich angekreuzt wurde, mehrere Antworten möglich (Nummern 9b. und 9c.) oder (Nummer 9d.) Man beachte, dass es sich um ein nicht- ausschließendes 'Oder' handelt, bspw. ist auch die Kombination (9b und 9d) ohne Warnung erlaubt.
@@ -242,63 +242,63 @@ dBopt keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) ab
 
 |  | Hörreste | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| normalhörig |  | höchstens eine Antwort möglich |  | geringgradig schwerhörig |  |  | Vollständigkeit | Nr. | Ausprägung / Datenformat | Antwortmöglichkeiten | optionale Plausibiilitäten | Wertebereich | Item | Vollständigkeit | Nr. | Ausprägung / Datenformat | Antwortmöglichkeiten | optionale Plausibiilitäten | Wertebereich | Item | Vollständigkeit | Nr. | Ausprägung / Datenformat | Antwortmöglichkeiten | optionale Plausibiilitäten | Wertebereich | Item | Vollständigkeit | Nr. | Ausprägung / Datenformat | Antwortmöglichkeiten | optionale Plausibiilitäten | Wertebereich | Item | Vollständigkeit | Nr. | Ausprägung / Datenformat | Antwortmöglichkeiten | optionale Plausibiilitäten | Wertebereich | Item |
-|  | Pflichtfeld | Pflichtfeld | Pflichtfeld | Pflichtfeld | Pflichtfeld | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| normalhörig |  | höchstens eine Antwort möglich |  | geringgradig schwerhörig |  |  | **Vollständigkeit** | **Nr.** | **Ausprägung / Datenformat** | **Antwortmöglichkeiten** | **optionale Plausibiilitäten** | **Wertebereich** | **Item** | **Vollständigkeit** | **Nr.** | **Ausprägung / Datenformat** | **Antwortmöglichkeiten** | **optionale Plausibiilitäten** | **Wertebereich** | **Item** | **Vollständigkeit** | **Nr.** | **Ausprägung / Datenformat** | **Antwortmöglichkeiten** | **optionale Plausibiilitäten** | **Wertebereich** | **Item** | **Vollständigkeit** | **Nr.** | **Ausprägung / Datenformat** | **Antwortmöglichkeiten** | **optionale Plausibiilitäten** | **Wertebereich** | **Item** | **Vollständigkeit** | **Nr.** | **Ausprägung / Datenformat** | **Antwortmöglichkeiten** | **optionale Plausibiilitäten** | **Wertebereich** | **Item** |
+|  | **Pflichtfeld** | **Pflichtfeld** | **Pflichtfeld** | **Pflichtfeld** | **Pflichtfeld** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  | Item | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  |  | **Item** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | mindestens eine Antwort; | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | Für die Nummern 11. bis 13 gilt: |  | anderes |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | Für die Nummern 11. bis 13 gilt: |  | **anderes** |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | links |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | rechts |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | links |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | Taubheit |  | 13. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| true / false | Schweregrad der Hörstörung | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | Schallleitungsschwerhörigkeit | true / false | ja |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | Kombinierte Schwerhörigkeit | 14a. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | Taubheit |  | **13.** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| true / false | **Schweregrad der Hörstörung** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **Schallleitungsschwerhörigkeit** | true / false | ja |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **Kombinierte Schwerhörigkeit** | **14a.** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | rechts | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| true / false | Schallempfindungsschwerhörigkeit |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| true / false | **Schallempfindungsschwerhörigkeit** |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | mittelgradig schwerhörig | links | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | hochgradig schwerhörig |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 10b. |  | Freitext | nein | Feld nur  ausfüllbar, wenn bei 10. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **10b.** |  | Freitext | nein | Feld nur  ausfüllbar, wenn bei 10. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | mindestens (Vor |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | 11. |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  | **11.** |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | true / false |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | 12. |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  | **12.** |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | true / false |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 13. |  |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **13.** |  |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | true / false |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | Verordnung | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  | **Verordnung** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | mittelgradig schwerhörig | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 10b. | anderes | Freitext | nein | Feld nur  ausfüllbar, wenn bei 10. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| Verordnung | mindestens (Vor | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 11. | Schallempfindungsschwerhörigkeit |  | ja | mindestens eine Antwort; |  | Für die Nummern 11. bis 13 gilt: | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **10b.** | **anderes** | Freitext | nein | Feld nur  ausfüllbar, wenn bei 10. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **Verordnung** | mindestens (Vor | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **11.** | **Schallempfindungsschwerhörigkeit** |  | ja | mindestens eine Antwort; |  | Für die Nummern 11. bis 13 gilt: | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | rechts | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | links | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 12. | Schallleitungsschwerhörigkeit | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **12.** | **Schallleitungsschwerhörigkeit** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | rechts | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | links | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 13. | Kombinierte Schwerhörigkeit | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **13.** | **Kombinierte Schwerhörigkeit** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | rechts | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | links | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 14a. | Schweregrad der Hörstörung |  | nein | höchstens eine Antwort möglich | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **14a.** | **Schweregrad der Hörstörung** |  | nein | höchstens eine Antwort möglich | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | normalhörig | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | geringgradig schwerhörig | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | mittelgradig schwerhörig | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | hochgradig schwerhörig | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | Hörreste | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | Taubheit | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 10b. |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **10b.** |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -318,15 +318,15 @@ dBopt keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) ab
 |  |  | links |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | Schweregrad der Hörstörung | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  | **Schweregrad der Hörstörung** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | 10b. |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  | **10b.** |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  | 12. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  |  |  | **12.** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | true / false |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -339,12 +339,12 @@ dBopt keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) ab
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | 10b. |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  | **10b.** |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  | 12. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  |  |  | **12.** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | true / false |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -355,7 +355,7 @@ dBopt keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) ab
 | links |  |  |  |  | Taubheit | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | Kombinierte Schwerhörigkeit | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  | **Kombinierte Schwerhörigkeit** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 
 (WHO 2001): rechts Verordnung und Verordnung) ODER (Nach Verordnung) müssen ausgefüllt sein "anderes" angekreuzt wurde. mehrere Antworten sind möglich In den drei Nummern zusammen dürfen maximal einmal "rechts" und maximal einmal "links" angekreuzt werden.
 
@@ -363,10 +363,10 @@ dBopt keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) ab
 
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  |  |  | Vollständigkeit | Nr. | Ausprägung / Datenformat | Antwortmöglichkeiten | optionale Plausibiilitäten | Wertebereich | Item | Vollständigkeit | Nr. | Ausprägung / Datenformat | Antwortmöglichkeiten | optionale Plausibiilitäten | Wertebereich | Item | Vollständigkeit | Nr. | Ausprägung / Datenformat | Antwortmöglichkeiten | optionale Plausibiilitäten | Wertebereich | Item | Vollständigkeit | Nr. | Ausprägung / Datenformat | Antwortmöglichkeiten | optionale Plausibiilitäten | Wertebereich | Item | Vollständigkeit | Nr. | Ausprägung / Datenformat | Antwortmöglichkeiten | optionale Plausibiilitäten | Wertebereich | Item |
-|  | Pflichtfeld | Pflichtfeld | Pflichtfeld | Pflichtfeld | Pflichtfeld | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  |  |  |  |  |  | **Vollständigkeit** | **Nr.** | **Ausprägung / Datenformat** | **Antwortmöglichkeiten** | **optionale Plausibiilitäten** | **Wertebereich** | **Item** | **Vollständigkeit** | **Nr.** | **Ausprägung / Datenformat** | **Antwortmöglichkeiten** | **optionale Plausibiilitäten** | **Wertebereich** | **Item** | **Vollständigkeit** | **Nr.** | **Ausprägung / Datenformat** | **Antwortmöglichkeiten** | **optionale Plausibiilitäten** | **Wertebereich** | **Item** | **Vollständigkeit** | **Nr.** | **Ausprägung / Datenformat** | **Antwortmöglichkeiten** | **optionale Plausibiilitäten** | **Wertebereich** | **Item** | **Vollständigkeit** | **Nr.** | **Ausprägung / Datenformat** | **Antwortmöglichkeiten** | **optionale Plausibiilitäten** | **Wertebereich** | **Item** |
+|  | **Pflichtfeld** | **Pflichtfeld** | **Pflichtfeld** | **Pflichtfeld** | **Pflichtfeld** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  | Item | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  |  | **Item** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | true / false |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -384,7 +384,7 @@ dBopt keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) ab
 |  |  | nein |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 14b. |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **14b.** |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -394,14 +394,14 @@ dBopt keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) ab
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | 18. | true / false | nein | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 16b. |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **18.** | true / false | nein | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **16b.** |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 14b. |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **14b.** |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -419,30 +419,30 @@ dBopt keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) ab
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 14b. | Schweregrad der Hörstörung |  | nein | höchstens eine Antwort möglich | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **14b.** | **Schweregrad der Hörstörung** |  | nein | höchstens eine Antwort möglich | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | normalhörig | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | geringgradig schwerhörig | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | mittelgradig schwerhörig | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | hochgradig schwerhörig | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | Hörreste | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | Taubheit | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 15. | Hörstörung | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **15.** | **Hörstörung** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | rechts | true / false | nein | mehrere Antworten möglich | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | links | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 16. | Sonstige versorgungsrelevante | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **16.** | **Sonstige versorgungsrelevante** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | Tinnitus | true / false | nein | mehrere Antworten möglich | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | Otitis externa | true / false | nein | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | Radikalhöhle | true / false | nein | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | andere | true / false | nein | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 16b. | andere | Freitext | nein | Feld nur ausfüllbar, wenn bei 16. "andere" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 17. | HNO-ärztlicher Vorschlag zur | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **16b.** | **andere** | Freitext | nein | Feld nur ausfüllbar, wenn bei 16. "andere" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **17.** | **HNO-ärztlicher Vorschlag zur** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | HdO | true / false | nein | mehrere Antworten möglich | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | IO | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | offene Versorgung | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | geschlossene Versorgung | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | Ex Hörer | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 18. | HNO-ärztlicher Vorschlag zur | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | HNO-ärztlicher Vorschlag zur | 14b. | true / false |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **18.** | **HNO-ärztlicher Vorschlag zur** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **HNO-ärztlicher Vorschlag zur** | **14b.** | true / false |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | true / false |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | true / false |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -451,16 +451,16 @@ dBopt keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) ab
 | geringgradig schwerhörig |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | normalhörig |  | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | hochgradig schwerhörig |  | Schweregrad der Hörstörung | Hörreste | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | hochgradig schwerhörig |  | **Schweregrad der Hörstörung** | Hörreste | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | nein |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | mehrere Antworten möglich | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | offene Versorgung |  | nein | Ex Hörer | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | andere |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **andere** |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | rechts |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | Hörstörung | Freitext | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **Hörstörung** | Freitext | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | 14b. |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  | **14b.** |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | true / false |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | true / false |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -471,8 +471,8 @@ dBopt keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) ab
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | 16b. |  |  | Freitext | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  | 17. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  | **16b.** |  |  | Freitext | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  |  | **17.** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | true / false |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -484,10 +484,10 @@ dBopt keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) ab
 
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  |  |  | Vollständigkeit | Nr. | Ausprägung / Datenformat | Antwortmöglichkeiten | optionale Plausibiilitäten | Wertebereich | Item | Vollständigkeit | Nr. | Ausprägung / Datenformat | Antwortmöglichkeiten | optionale Plausibiilitäten | Wertebereich | Item | Vollständigkeit | Nr. | Ausprägung / Datenformat | Antwortmöglichkeiten | optionale Plausibiilitäten | Wertebereich | Item | Vollständigkeit | Nr. | Ausprägung / Datenformat | Antwortmöglichkeiten | optionale Plausibiilitäten | Wertebereich | Item | Vollständigkeit | Nr. | Ausprägung / Datenformat | Antwortmöglichkeiten | optionale Plausibiilitäten | Wertebereich | Item |
-|  | Pflichtfeld | Pflichtfeld | Pflichtfeld | Pflichtfeld | Pflichtfeld | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  |  |  |  |  |  | **Vollständigkeit** | **Nr.** | **Ausprägung / Datenformat** | **Antwortmöglichkeiten** | **optionale Plausibiilitäten** | **Wertebereich** | **Item** | **Vollständigkeit** | **Nr.** | **Ausprägung / Datenformat** | **Antwortmöglichkeiten** | **optionale Plausibiilitäten** | **Wertebereich** | **Item** | **Vollständigkeit** | **Nr.** | **Ausprägung / Datenformat** | **Antwortmöglichkeiten** | **optionale Plausibiilitäten** | **Wertebereich** | **Item** | **Vollständigkeit** | **Nr.** | **Ausprägung / Datenformat** | **Antwortmöglichkeiten** | **optionale Plausibiilitäten** | **Wertebereich** | **Item** | **Vollständigkeit** | **Nr.** | **Ausprägung / Datenformat** | **Antwortmöglichkeiten** | **optionale Plausibiilitäten** | **Wertebereich** | **Item** |
+|  | **Pflichtfeld** | **Pflichtfeld** | **Pflichtfeld** | **Pflichtfeld** | **Pflichtfeld** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  | Item | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  |  | **Item** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | true / false |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -504,7 +504,7 @@ dBopt keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) ab
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | HNO-ärztlicher Vorschlag zur | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  | **HNO-ärztlicher Vorschlag zur** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | true / false |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -512,8 +512,8 @@ dBopt keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) ab
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | Feld nur ausfüllbar, wenn bei 19. "andere" |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | mindestens (Vor | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 20. |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | 21. |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **20.** |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  |  |  |  | **21.** |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | true / false |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -529,7 +529,7 @@ dBopt keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) ab
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | Feld nur ausfüllbar, wenn bei 19. "andere" |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | mindestens (Vor | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | 20. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  | **20.** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -541,11 +541,11 @@ dBopt keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) ab
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | true / false | nein |  | nein |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | Untersuchungsdatum (Nachsorge) | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | Nach Verordnung | 19. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | andere | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **Untersuchungsdatum (Nachsorge)** | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **Nach Verordnung** | **19.** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **andere** | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | ja | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | höchstens eine Antwort möglich | 19b. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | höchstens eine Antwort möglich | **19b.** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | geschlossene Versorgung | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | offene Versorgung |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -557,36 +557,36 @@ dBopt keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) ab
 |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | IO | true / false |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  | nein | Abweichung in Luftleitung | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  |  | nein | **Abweichung in Luftleitung** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | nein | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | HdO |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | Feld nur ausfüllbar, wenn bei 21. "nein" | Abweichung in Knochenleitung | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | Feld nur ausfüllbar, wenn bei 21. "nein" | **Abweichung in Knochenleitung** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | Knochenleitungsbügel | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | Knochenleitungsbügel | true / false | nein | mehrere Antworten möglich | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | teilimplantiertes Knochenleitungsgerät | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 19. | HNO-ärztlicher Vorschlag zur | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **19.** | **HNO-ärztlicher Vorschlag zur** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | CROS / BiCROS | true / false | nein | mehrere Antworten möglich | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | andere | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 19b. | andere | Freitext | nein | Feld nur ausfüllbar, wenn bei 19. "andere" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| Nach Verordnung | mindestens (Vor | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 20. | Untersuchungsdatum (Nachsorge) | Datum (TT-MM-JJJJ), | ja | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 21. | Die Hörgeräteversorgung entspricht dem | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **19b.** | **andere** | Freitext | nein | Feld nur ausfüllbar, wenn bei 19. "andere" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **Nach Verordnung** | mindestens (Vor | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **20.** | **Untersuchungsdatum (Nachsorge)** | Datum (TT-MM-JJJJ), | ja | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **21.** | **Die Hörgeräteversorgung entspricht dem** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | ja | true / false | nein | höchstens eine Antwort möglich | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | nein | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 22. | Abweichung in Luftleitung | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **22.** | **Abweichung in Luftleitung** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | HdO | true / false | nein | Feld nur ausfüllbar, wenn bei 21. "nein" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | IO | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | offene Versorgung | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | geschlossene Versorgung | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | Ex Hörer | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 23. | Abweichung in Knochenleitung | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **23.** | **Abweichung in Knochenleitung** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | true / false |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 19. |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **19.** |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | true / false |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 19b. |  | Freitext | nein | Feld nur ausfüllbar, wenn bei 19. "andere" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **19b.** |  | Freitext | nein | Feld nur ausfüllbar, wenn bei 19. "andere" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | mindestens (Vor |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | Datum (TT-MM-JJJJ), |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -605,17 +605,17 @@ Gerätetechnik: Sonderversorgung HNO-ärztlichen Vorschlag zur Ge- rätetechnik 
 
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  |  |  | Vollständigkeit | Nr. | Ausprägung / Datenformat | Antwortmöglichkeiten | optionale Plausibiilitäten | Wertebereich | Item | Vollständigkeit | Nr. | Ausprägung / Datenformat | Antwortmöglichkeiten | optionale Plausibiilitäten | Wertebereich | Item | Vollständigkeit | Nr. | Ausprägung / Datenformat | Antwortmöglichkeiten | optionale Plausibiilitäten | Wertebereich | Item | Vollständigkeit | Nr. | Ausprägung / Datenformat | Antwortmöglichkeiten | optionale Plausibiilitäten | Wertebereich | Item | Vollständigkeit | Nr. | Ausprägung / Datenformat | Antwortmöglichkeiten | optionale Plausibiilitäten | Wertebereich | Item |
-|  | Pflichtfeld | Pflichtfeld | Pflichtfeld | Pflichtfeld | Pflichtfeld | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  |  |  |  |  |  | **Vollständigkeit** | **Nr.** | **Ausprägung / Datenformat** | **Antwortmöglichkeiten** | **optionale Plausibiilitäten** | **Wertebereich** | **Item** | **Vollständigkeit** | **Nr.** | **Ausprägung / Datenformat** | **Antwortmöglichkeiten** | **optionale Plausibiilitäten** | **Wertebereich** | **Item** | **Vollständigkeit** | **Nr.** | **Ausprägung / Datenformat** | **Antwortmöglichkeiten** | **optionale Plausibiilitäten** | **Wertebereich** | **Item** | **Vollständigkeit** | **Nr.** | **Ausprägung / Datenformat** | **Antwortmöglichkeiten** | **optionale Plausibiilitäten** | **Wertebereich** | **Item** | **Vollständigkeit** | **Nr.** | **Ausprägung / Datenformat** | **Antwortmöglichkeiten** | **optionale Plausibiilitäten** | **Wertebereich** | **Item** |
+|  | **Pflichtfeld** | **Pflichtfeld** | **Pflichtfeld** | **Pflichtfeld** | **Pflichtfeld** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  | Item | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  |  | **Item** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | true / false |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | Freitext | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 30. |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **30.** |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | -9800 bis 100 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -626,30 +626,30 @@ Gerätetechnik: Sonderversorgung HNO-ärztlichen Vorschlag zur Ge- rätetechnik 
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | numerisch (2 Ziffern und | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| true / false | nein |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| true / false | **nein** |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | Versorgung erfolgte zum Festbetrag |  | ja |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | keine FF-Untersuchung möglich: |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **Versorgung erfolgte zum Festbetrag** |  | **ja** |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **keine FF-Untersuchung möglich:** |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | teilimplantiertes Knochenleitungsgerät | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | CROS / BiCROS | Feld nur ausfüllbar, wenn bei 24. "andere" | andere | nein | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | Abweichung in Sonderversorgung | 25. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | Erzieltes Sprachverstehen im Freifeld | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | true / false | andere | nein |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **Abweichung in Sonderversorgung** | **25.** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **Erzieltes Sprachverstehen im Freifeld** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  | true / false | **andere** | nein |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | numerisch (3 Ziffern und | true / false | 0-100% |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | numerisch (3 Ziffern und |  | 0-100 |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | numerisch (2 Ziffern und |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  | keine FF-Untersuchung möglich: | nein | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  |  | **keine FF-Untersuchung möglich:** | nein | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | ja |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | Nutzen (Verbesserung der Hörfähigkeit) |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **Nutzen (Verbesserung der Hörfähigkeit)** |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | höchstens eine Antwort möglich |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | Knochenleitungsbügel |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | true / false |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | 30. |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **30.** |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | Feld nur ausfüllbar, wenn bei 24. "andere" |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | 25. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  | **25.** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -658,15 +658,15 @@ Gerätetechnik: Sonderversorgung HNO-ärztlichen Vorschlag zur Ge- rätetechnik 
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | 0-100 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | 28. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  | **28.** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | -9800 bis 100 |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | true / false |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | 24. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  | **24.** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | 24b. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  | **24b.** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -678,19 +678,19 @@ Gerätetechnik: Sonderversorgung HNO-ärztlichen Vorschlag zur Ge- rätetechnik 
 |  |  | 0-100 |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | numerisch (2 Ziffern und |  | 0-10 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | 0-10 |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | 30. |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  | **30.** |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | true / false |  | nein | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | 31. | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 24. |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **31.** | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **24.** |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | true / false |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 24b. |  | Freitext | nein | Feld nur ausfüllbar, wenn bei 24. "andere" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | 25. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **24b.** |  | Freitext | nein | Feld nur ausfüllbar, wenn bei 24. "andere" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **25.** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | true / false |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | numerisch (3 Ziffern und |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -700,23 +700,23 @@ Gerätetechnik: Sonderversorgung HNO-ärztlichen Vorschlag zur Ge- rätetechnik 
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | 0-10 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | 29. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  | **29.** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | Knochenleitungsbügel | true / false | nein | Feld nur ausfüllbar, wenn bei 21. "nein" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | teilimplantiertes Knochenleitungsgerät | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 24. | Abweichung in Sonderversorgung | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **24.** | **Abweichung in Sonderversorgung** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | CROS / BiCROS | true / false | nein | Feld nur  ausfüllbar, wenn bei 21. "nein" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | andere | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 24b. | andere | Freitext | nein | Feld nur ausfüllbar, wenn bei 24. "andere" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 25. | Sprachtest möglich | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | ja | true / false | ja | höchstens eine Antwort möglich | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | nein | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 26. | Erzieltes Sprachverstehen im Freifeld | numerisch (3 Ziffern und | ja; | Feld nur ausfüllbar, wenn bei 25. "ja" | 0-100% | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 27. | Erzieltes Sprachverstehen im Freifeld | numerisch (3 Ziffern und | 0-100 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 28. | keine FF-Untersuchung möglich: | numerisch (2 Ziffern und | nein | Feld nur ausfüllbar, wenn bei 25. "nein" | 0-10 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 29. | keine FF-Untersuchung möglich: | numerisch (2 Ziffern und | 0-10 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 30. | Nutzen (Verbesserung der Hörfähigkeit) | numerisch (4 Ziffern und | nein |  | -9800 bis 100 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 31. | Versorgung erfolgte zum Festbetrag | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **24b.** | **andere** | Freitext | nein | Feld nur ausfüllbar, wenn bei 24. "andere" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **25.** | **Sprachtest möglich** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **ja** | true / false | ja | höchstens eine Antwort möglich | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **nein** | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **26.** | **Erzieltes Sprachverstehen im Freifeld** | numerisch (3 Ziffern und | ja; | Feld nur ausfüllbar, wenn bei 25. "ja" | 0-100% | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **27.** | **Erzieltes Sprachverstehen im Freifeld** | numerisch (3 Ziffern und | 0-100 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **28.** | **keine FF-Untersuchung möglich:** | numerisch (2 Ziffern und | nein | Feld nur ausfüllbar, wenn bei 25. "nein" | 0-10 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **29.** | **keine FF-Untersuchung möglich:** | numerisch (2 Ziffern und | 0-10 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **30.** | **Nutzen (Verbesserung der Hörfähigkeit)** | numerisch (4 Ziffern und | nein |  | -9800 bis 100 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **31.** | **Versorgung erfolgte zum Festbetrag** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | ja | true / false | nein | höchstens eine Antwort möglich | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | nein | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 

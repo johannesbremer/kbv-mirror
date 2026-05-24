@@ -1,8 +1,8 @@
-|  | XPM-LDK.KV |
+|  | ***XPM-LDK.KV*** |
 |---|---|
-|  | Handbuch Prüfmodul |
+|  | *Handbuch Prüfmodul* |
 |  | [ |
-|  |  |
+|  | ** |
 |  | Dezernat Digitalisierung und IT |
 |  |  |
 |  | 10623 Berlin, Herbert |
@@ -20,12 +20,12 @@ KBV_ITA_AHEX_Handbuch_Pruefmodul _LDK_KV -Lewin-Platz 2 1.0.3 Datum: 01.03.2018 
 
 **XPM-LDK.KV**
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 1.0.3 | 01.03.2018 | KBV | Einfügen einer Beschrei- |  | 17 |
-| 1.0.2 | 15.11.2017 | KBV | Prüfung der Signatur für |  | 21 |
-| 1.0.1 | 15.06.2017 | KBV | Einfügung eines Hinweises  Anpassung der Prüfung des |  | 18    20 |
-| 1.0.0 | 15.05.2017 | KBV | Initiale Erstellung |  | Alle |
+| 1.0.3 | 01.03.2018 | KBV | Einfügen einer Beschrei- |  | **17** |
+| 1.0.2 | 15.11.2017 | KBV | Prüfung der Signatur für |  | **21** |
+| 1.0.1 | 15.06.2017 | KBV | Einfügung eines Hinweises  Anpassung der Prüfung des |  | **18 **  **20** |
+| 1.0.0 | 15.05.2017 | KBV | Initiale Erstellung |  | **Alle** |
 
 [KV
 
@@ -268,7 +268,7 @@ Zur Prüfung von digitalen Mustern prüft das Prüfmodul die Eingangsdaten gegen
 
 Das Prüfmodul LDK wird, wie eingangs erwähnt, mit verschiedenen Übergabeparame- tern und Startskripten ausgeliefert. Die folgende Tabelle soll Aufschluss darüber geben,  wie diese zusammenhängen. Die genaue Funktion der Übergabeparameter wird in Ka- pitel 3.4.1 erläutert.
 
-| Prüfmodus | Übergabeparameter | Skriptname |
+| **Prüfmodus** | **Übergabeparameter** | **Skriptname** |
 |---|---|---|
 | Digitales Muster | -c, -i, -f  Optional: -e, -s, -m, - | StartPruefung PDF_Inhalt.bat und   StartPruefung PDF_Inhalt.sh |
 | Digitales Muster mit | -s, -i, -e, -m, -c  Optional: -h, -v, -p | VerzeichnisPruefung PDF_Inhalt.bat  VerzeichnisPruefung PDF_Inhalt.sh |
@@ -409,11 +409,11 @@ festgelegt.
 
 ---
 
-| Errorlevel | Präfix |
+| **Errorlevel** | **Präfix** |
 |---|---|
 | 0 | Ok_ |
 | 1 | Warnung_ |
-| 3.3.3 | Im Abschnitt Ausgabedateien werden die Pfade für die Ausgabelisten und Protokolle |
+| **3.3.3** | Im Abschnitt Ausgabedateien werden die Pfade für die Ausgabelisten und Protokolle |
 | Über das Attribut Format wird das Ausgabeformat festgelegt: |  |
 
 |  | chen’  lässt sich das Trennzeichen zwischen den Spal- |
@@ -508,7 +508,7 @@ verwendet wird,
 
 **XPM-LDK.KV**
 
-| Übergabeparameter Beschreibung |  |
+| **Übergabeparameter Beschreibung** |  |
 |---|---|
 | -c | Das Prüfmodul braucht für die Prüfung die Pfadangabe einer  Hinter dieser Option muss die Pfadangabe stehen! |
 | -e | Das Prüfmodul wird im Einzellaufmodus gestartet. XPM_LDK |
@@ -517,9 +517,9 @@ verwendet wird,
 |  | Die zwei Umgebungsvariablen INSTALLATION und UMGEBUNG müssen entweder in |
 | set INSTALLATION=C:\Projekte\JavaPruefmodul\Test | set UMGEBUNG=LDK.Praxis  oder in der aufrufenden Applikation entsprechend gesetzt werden.  Jetzt muss  nur noch dafür gesorgt werden, dass die Umgebungsvariablen der JavaVM |
 | Über den folgenden Aufruf werden die Umgebungsvariablen unter gleichem Namen | java -DINSTALLATION=%INSTALLATION% -DUMGEBUNG=%UMGEBUNG% ... |
-|  | 3.4 |
+|  | **3.4** |
 | Das Prüfmodul kann als ein kommandozeilenorientiertes Programm gestartet werden. |  |
-| 3.4.1 | Übergabeparameter Beschreibung |
+| **3.4.1** | **Übergabeparameter Beschreibung** |
 
 [KV
 
@@ -534,7 +534,7 @@ verwendet wird,
 
 | Der Parameter –i aktiviert die inhaltliche Prüfung der PDF- | Bsp: -i –f ./DigitaleMuster/xyz.pdf |
 |---|---|
-| Tabelle 3: | 3.4.2 |
+| **Tabelle 3:** | **3.4.2** |
 | Nun folgen |  |
 |  |  |
 |  |  |

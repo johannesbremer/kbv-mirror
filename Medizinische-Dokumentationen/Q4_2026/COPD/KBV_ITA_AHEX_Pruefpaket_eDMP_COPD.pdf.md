@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | BUNDESVEREINIGUNG  DEZERNAT DIGITALISIERUNG UND IT  31. MÄRZ 2026   VERSION: 1.27   DOKUMENTENSTATUS: IN KRAFT |
+|  | **BUNDESVEREINIGUNG  DEZERNAT DIGITALISIERUNG UND IT  31. MÄRZ 2026   VERSION: 1.27   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # PRUEFPAKET EDMP-COPD
@@ -153,7 +153,7 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 27
 
 ---
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.27 | 31.03.2026 | KBV | Anpassung der Prüffälle    Anpassung Prüffall 8540 | Schnittstellenversion    Änderung der | 11            26 |
 | 1.26 | 12.02.2024 | KBV | Anpassung der Prüffälle    Änderungen der | Schnittstellenversion | 11          21 |
@@ -161,8 +161,8 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 27
 | 1.24 | 08.02.2023 | KBV | Korrektur des Datums  der Erstellung der |  | 21, 23 |
 | 1.23 | 08.11.2022 | KBV | Datumsanpassungen der              Neuer Prüffall 8540 zur | Datumsanpassungen  Schnittstellenversion    Anpassung an | 11ff                  26 |
 | 1.22 | 12.08.2021 | KBV | Überarbeitung des | Überführung ins neue | Alle |
-| DOKUMENTENHISTORIE | Version |  |  | Datum | Autor |
-| Änderung |  | Begründung |  |  |  |
+| DOKUMENTENHISTORIE | **Version** |  |  | **Datum** | **Autor** |
+| **Änderung** |  | **Begründung** |  |  |  |
 |  |  | KBV | Anpassung der Prüffälle |  | Schnittstellenversion |
 |  |  |  |  |  | 26 |
 |  |  | 12.02.2024 | KBV | Anpassung der Prüffälle | Änderungen der  Schnittstellenversion |
@@ -431,16 +431,16 @@ Dateien sind folgendermaßen aufgebaut:
 
 Folgende Angaben sind für die Zertifizierung zu verwenden:
 
-| BEZEICHNUNG | INHALT |
+| **BEZEICHNUNG** | **INHALT** |
 |---|---|
-| Betriebsstättennummer (BSNR) | 391234511 |
-| Lebenslange Arztnummer (LANR) | 838382202 |
-| Arztname | Dr. med. Hans Topp-Glücklich |
-| Straße | Musterstr. |
-| Hausnummer | 1 |
-| PLZ/Ort | 64283 Darmstadt |
-| Telefon | 06151 / 1111111 |
-| Telefax | 06151 / 2222222 |
+| **Betriebsstättennummer (BSNR)** | 391234511 |
+| **Lebenslange Arztnummer (LANR)** | 838382202 |
+| **Arztname** | Dr. med. Hans Topp-Glücklich |
+| **Straße** | Musterstr. |
+| **Hausnummer** | 1 |
+| **PLZ/Ort** | 64283 Darmstadt |
+| **Telefon** | 06151 / 1111111 |
+| **Telefax** | 06151 / 2222222 |
 
 ### 1.6.6 Krankenhausdaten
 
@@ -448,14 +448,14 @@ Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der B
 
 Vertragsarztnummer spielt hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind  demzufolge zwei Absender (Krankenhaus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete  und zwei Begleitdateien einzureichen.
 
-| BEZEICHNUNG | INHALT |
+| **BEZEICHNUNG** | **INHALT** |
 |---|---|
-| Krankenhaus-IK | 856215715 |
-| Name des Krankenhauses | Test-Krankenhaus, Pneumologie |
-| Straße | Am Wehr |
-| Hausnummer | 20 |
-| Postleitzahl und Ort | 10437 Berlin |
-| Telefon | 06151 / 3333333 |
+| **Krankenhaus-IK** | 856215715 |
+| **Name des Krankenhauses** | Test-Krankenhaus, Pneumologie |
+| **Straße** | Am Wehr |
+| **Hausnummer** | 20 |
+| **Postleitzahl und Ort** | 10437 Berlin |
+| **Telefon** | 06151 / 3333333 |
 
 
 ---
@@ -476,15 +476,15 @@ Der Empfänger der elektronischen Dokumentationen muss, soweit möglich, automat
 
 Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
-| PRÜFFALL-ID | NAME | VERZEICHNISNAME |
+| **PRÜFFALL-ID** | **NAME** | **VERZEICHNISNAME** |
 |---|---|---|
-| 8511 | Viktor Müller | XML_09 |
-| 8512 | Monika Kleinjung | XML_08 |
-| 8540 | Lija Malta | XML_36 |
-| TDV8518 | Brigitte Althaus | XML_05 |
-| Ersatzverfahren | | |
-| 6520 | Johannes Frônkenstein | Ersatzverfahren (s. Versichertendaten 1) |
-| 8515 | Martin Gruber | Ersatzverfahren (s. Versichertendaten 2) |
+| **8511** | Viktor Müller | XML_09 |
+| **8512** | Monika Kleinjung | XML_08 |
+| **8540** | Lija Malta | XML_36 |
+| **TDV8518** | Brigitte Althaus | XML_05 |
+| **Ersatzverfahren** | | |
+| **6520** | Johannes Frônkenstein | Ersatzverfahren (s. Versichertendaten 1) |
+| **8515** | Martin Gruber | Ersatzverfahren (s. Versichertendaten 2) |
 
 # PRÜFFÄLLE
 
@@ -494,9 +494,9 @@ Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
 |  |  |
 |---|---|
-| Prüffall-ID | 8511 |
-| Testziel | Anlage einer Erst- und einer Verlaufsdokumentation |
-| Voraussetzung |  |
+| **Prüffall-ID** | 8511 |
+| **Testziel** | Anlage einer Erst- und einer Verlaufsdokumentation |
+| **Voraussetzung** |  |
 
 **Prüfunterlagen** COPD-Dokumentationsunterlagen
 
@@ -715,19 +715,15 @@ Die Versichertendaten von Monika Kleinjung (XML_08) einlesen und speichern.
 
 **Prüffall-ID**
 
-8512
-
 **Testziel**
-
-Anlage einer Erst- und einer Verlaufsdokumentation
 
 **Voraussetzung**
 
-**Prüfunterlagen** COPD-Dokumentationsunterlagen
+**Prüfunterlagen**
 
 **Hinweis**
 
-**INDIKATIONSÜBERGREIFENDE DATEN**
+**INDIKATIONSÜBERGREIFENDE**
 
 **Administrative Daten**
 
@@ -761,7 +757,13 @@ Vom Patienten gewünschte Informationsangebote  der Krankenkasse
 
 Dokumentationsintervall
 
-Datum der Erstellung
+Datum der Erstellung 8512
+
+Anlage einer Erst- und einer Verlaufsdokumentation
+
+COPD-Dokumentationsunterlagen
+
+**DATEN**
 
 **Erstdokumentation**
 
@@ -812,7 +814,7 @@ Quartalsweise 06.07.2024 15.mm.jjjj
 
 **Anamnese- und Befunddaten**
 
-Aktueller FEV1-Wert (alle sechs bis zwölf Monate)
+Aktueller FEV1-Wert (alle sechs bis zwölf
 
 Klinische Einschätzung des Osteoporoserisikos  durchgeführt
 
@@ -851,6 +853,8 @@ Empfehlung zur Teilnahme an  Tabakentwöhnungsprogramm ausgesprochen
 An einem Tabakentwöhnungsprogram seit der  letzten Empfehlung teilgenommen
 
 Empfehlung zum körperlichen Training  ausgesprochen
+
+Monate)
 
 **Erstdokumentation**
 
@@ -1517,7 +1521,7 @@ Datum der Erstellung
 
 **Anamnese- und Befunddaten**
 
-Aktueller FEV1-Wert (alle sechs bis zwölf Monate)
+Aktueller FEV1-Wert (alle sechs bis zwölf
 
 Klinische Einschätzung des Osteoporoserisikos durchgeführt
 
@@ -1557,7 +1561,9 @@ Empfehlung zur Teilnahme an Tabakentwöhnungsprogramm  ausgesprochen
 
 An einem Tabakentwöhnungsprogram seit der letzten  Empfehlung teilgenommen
 
-Empfehlung zum körperlichen Training ausgesprochen 06.04.2024 15.mm.jjjj
+Empfehlung zum körperlichen Training ausgesprochen
+
+Monate) 06.04.2024 15.mm.jjjj
 
 **Erstdokumentation**
 
@@ -1911,9 +1917,9 @@ TDV 8518
 
 Anlage einer Erstdokumentation mit der Schnittstellenversion
 
-| INDIKATIONS | |
+| **INDIKATIONS** | |
 |---|---|
-| Anamnese- und Befunddaten | Erstdokumentation |
+| **Anamnese- und Befunddaten** | **Erstdokumentation** |
 | Aktueller FEV1-Wert (alle 6 bis 12 Monate) | 095,3 Prozent des Soll |
 | Klinische Einschätzung des Osteoporoserisikos durchgeführt | Nein |
 |  | |
@@ -1948,21 +1954,21 @@ Voraussetzung Prüfunterlagen COPD-Dokumentationsunterlagen Hinweis Aktionen, di
 |  |  |
 |  |  |
 |  |  |
-| INDIKATIONS | |
-| Relevante Ereignisse | |
+| **INDIKATIONS** | |
+| **Relevante Ereignisse** | |
 | Häufigkeit von Exazerbationen seit der letzten Dokumentation |  |
 | Stationäre notfallmäßige Behandlung wegen COPD seit der |  |
-| Medikamente | |
+| **Medikamente** | |
 | Kurz wirksame Beta-2-Sympathomimetika und/oder | Keine |
 | Lang wirksame Beta-2-Sympathomimetika | Keine |
 | Lang wirksame Anticholinergika | Bei Bedarf |
 | Inhalationstechnik überprüft | Ja |
 | Sonstige diagnosespezifische Medikation | Nein |
-| Schulung | |
+| **Schulung** | |
 | COPD-Schulung empfohlen (bei aktueller Dokumentation) | Nein |
 | Schulung schon vor der Einschreibung in ein DMP bereits | Ja |
 | Empfohlene Schulung wahrgenommen |  |
-| Behandlungsplanung | |
+| **Behandlungsplanung** | |
 | COPD-bezogene Über- bzw. Einweisung veranlasst | Nein |
 | Empfehlung zum Tabakverzicht ausgesprochen |  |
 | Empfehlung zur Teilnahme an Tabakentwöhnungsprogramm |  |
@@ -1977,56 +1983,56 @@ PEZIFISCHE DATEN Empfehlung teilgenommen
 
 ## 4.1 VERSICHERTENDATEN 1 – ERSATZVERFAHREN
 
-| PERSONALIEN | | |
+| **PERSONALIEN** | | |
 |---|---|---|
-| 3100 | Namenszusatz |  |
-| 3120 | Vorsatzwort |  |
-| 3101 | Name | Frônkenstein |
-| 3102 | Vorname | Johannes |
-| 3103 | Geburtsdatum | 10.03.1962 |
-| 3104 | Titel |  |
-| 3119 | Versicherten_ID | F100362125 |
-| 3107 | Straße | Poststr. |
-| 3109 | Hausnummer | 10 |
-| 3112 | PLZ | 50870 |
-| 3114 | Wohnsitzländercode |  |
-| 3113 | Ort | Köln |
-| 3116 | WOP | 38 |
-| 3108 | Versichertenart | 5 |
-| 3110 | Geschlecht | M |
-| 4133 | Versicherungsschutz Beginn |  |
-| 4110 | Versicherungsschutz Ende |  |
-| 4111 | Kostentraegerkennung | 104212505 |
-| 4131 | BesonderePersonengruppe | 00 |
-| 4132 | DMP_Kennzeichnung | 04 |
+| **3100** | **Namenszusatz** |  |
+| **3120** | **Vorsatzwort** |  |
+| **3101** | **Name** | Frônkenstein |
+| **3102** | **Vorname** | Johannes |
+| **3103** | **Geburtsdatum** | 10.03.1962 |
+| **3104** | **Titel** |  |
+| **3119** | **Versicherten_ID** | F100362125 |
+| **3107** | **Straße** | Poststr. |
+| **3109** | **Hausnummer** | 10 |
+| **3112** | **PLZ** | 50870 |
+| **3114** | **Wohnsitzländercode** |  |
+| **3113** | **Ort** | Köln |
+| **3116** | **WOP** | 38 |
+| **3108** | **Versichertenart** | 5 |
+| **3110** | **Geschlecht** | M |
+| **4133** | **Versicherungsschutz Beginn** |  |
+| **4110** | **Versicherungsschutz Ende** |  |
+| **4111** | **Kostentraegerkennung** | 104212505 |
+| **4131** | **BesonderePersonengruppe** | 00 |
+| **4132** | **DMP_Kennzeichnung** | 04 |
 
 
 ---
 
 ## 4.2 VERSICHERTENDATEN 2 – ERSATZVERFAHREN
 
-| PERSONALIEN | | |
+| **PERSONALIEN** | | |
 |---|---|---|
-| 3100 | Namenszusatz |  |
-| 3120 | Vorsatzwort |  |
-| 3101 | Name | Gruber |
-| 3102 | Vorname | Martin |
-| 3103 | Geburtsdatum | 23.10.2020 |
-| 3104 | Titel |  |
-| 3119 | Versicherten_ID | G231082448 |
-| 3107 | Straße | Anneliese- |
-| 3109 | Hausnummer | 100 B |
-| 3112 | PLZ | 10117 |
-| 3114 | Wohnsitzländercode | D |
-| 3113 | Ort | Berlin |
-| 3116 | WOP | 72 |
-| 3108 | Versichertenart | 1 |
-| 3110 | Geschlecht | M |
-| 4133 | Versicherungsschutz Beginn |  |
-| 4110 | Versicherungsschutz Ende |  |
-| 4111 | Kostentraegerkennung | 104826164 |
-| 4131 | BesonderePersonengruppe | 00 |
-| 4132 | DMP_Kennzeichnung | 06 |
+| **3100** | **Namenszusatz** |  |
+| **3120** | **Vorsatzwort** |  |
+| **3101** | **Name** | Gruber |
+| **3102** | **Vorname** | Martin |
+| **3103** | **Geburtsdatum** | 23.10.2020 |
+| **3104** | **Titel** |  |
+| **3119** | **Versicherten_ID** | G231082448 |
+| **3107** | **Straße** | Anneliese- |
+| **3109** | **Hausnummer** | 100 B |
+| **3112** | **PLZ** | 10117 |
+| **3114** | **Wohnsitzländercode** | D |
+| **3113** | **Ort** | Berlin |
+| **3116** | **WOP** | 72 |
+| **3108** | **Versichertenart** | 1 |
+| **3110** | **Geschlecht** | M |
+| **4133** | **Versicherungsschutz Beginn** |  |
+| **4110** | **Versicherungsschutz Ende** |  |
+| **4111** | **Kostentraegerkennung** | 104826164 |
+| **4131** | **BesonderePersonengruppe** | 00 |
+| **4132** | **DMP_Kennzeichnung** | 06 |
 
 und Georg-von-Groscurth-Plaetzchen
 
@@ -2036,7 +2042,7 @@ und Georg-von-Groscurth-Plaetzchen
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 | Austausch_von_XML-Daten_V(n.nn).ZIP | KBV_ITA_VGEX_XML |
 | EXT_ITA_AHEX_Anleitung_eDMP_COPD | Ausfüllanleitung zum indikationsspezifischen |
 | EXT_ITA_AHEX_Teilnahme_eDMP_COPD | Erklärung COPD zur Teilnahme an einem |
@@ -2062,10 +2068,14 @@ und Georg-von-Groscurth-Plaetzchen
 
 ---
 
-**Ansprechpartner:**
+| **Ansprechpartner:** |  |
+|---|---|
+| Dezernat | Digitalisierung und IT |
+| IT in der | Arztpraxis |
+| Tel.: 030 | 4005-2077, pruefstelle@kbv.de |
+| Kassenärztliche | Bundesvereinigung |
+| Herbert-Lewin-Platz | 2, 10623 Berlin |
+| pruefstelle@kbv.de, | www.kbv.de |
+| Seite 33 von 33 | / KBV / Pruefpaket eDMP-COPD / Version: 1.27 / 31. März 2026 |
 
-Dezernat Digitalisierung und IT
-
-IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
-
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, pruefstelle@kbv.de Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin

@@ -1,7 +1,12 @@
-|  |  | **PRÜFPAKET** | |  | **HEILMITTEL** | |
-|---|---|---|---|---|---|---|
-|  |  |  |  | [KBV_ITA_AHEX_PRUEFPAKET_HEILMITTEL] | | |
-| Seite 1 | von 25 / | KBV / | Prüfpaket Heilmittel | / Version: | 2.4 / 13. | Januar 2023 |
+# PRÜFPAKET
+
+## [KBV_ITA_AHEX_PRUEFPAKET_HEILMITTEL]
+
+**HEILMITTEL**
+
+Seite 1 von 25
+
+KBV  Prüfpaket Heilmittel  Version: 2.4  13. Januar 2023
 
 |  |  | **KASSENÄRZTLICHE** | |
 |---|---|---|---|
@@ -17,37 +22,25 @@
 
 ## INHALT
 
-**1**
+**1** **ALLGEMEINES**
 
-1.1  1.2  1.3  1.4  1.5  1.6
+1.1 Rechtsgrundlage
 
-**2**
+1.2 Zertifizierungsablauf
 
-2.1  2.2  2.3  2.4
+1.3 Zertifizierungsportal
 
-2.5
+1.4 Zertifizierungsdokumente
 
-**3**
+1.5 Prüfunterlagen
 
-Seite 2
+1.6 Prüfvorgaben
 
-**ALLGEMEINES**
-
-Rechtsgrundlage
-
-Zertifizierungsablauf
-
-Zertifizierungsportal
-
-Zertifizierungsdokumente
-
-Prüfunterlagen
-
-Prüfvorgaben 1.6.1 Prüfstammdaten
+1.6.1 Prüfstammdaten
 
 1.6.2 Versichertendaten
 
-1.6.3 Patientendaten für Prüffälle 01, 06 und 07 [XML_22]
+1.6.3 Patientendaten für Prüffälle 01, 06 und
 
 1.6.4 Patientendaten für Prüffälle 02 bis 05 [XML_05]
 
@@ -57,21 +50,21 @@ Prüfvorgaben 1.6.1 Prüfstammdaten
 
 1.6.7 Falldarstellung
 
-**PRÜFFÄLLE**
+**2** **PRÜFFÄLLE**
 
-Maßnahmen der Physiotherapie
+2.1 Maßnahmen der Physiotherapie
 
-Maßnahmen der Podologischen therapie
+2.2 Maßnahmen der Podologischen therapie
 
-Maßnahmen der Stimm Sprech Sprach und Schlucktherapie
+2.3 Maßnahmen der Stimm Sprech Sprach und Schlucktherapie
 
-Maßnahmen der Ergotherapie
+2.4 Maßnahmen der Ergotherapie
 
-Maßnahmen der Ernährungstherapie
+2.5 Maßnahmen der Ernährungstherapie
 
-**REFERENZIERTE** **DOKUMENTE**
+**3** **REFERENZIERTE** **DOKUMENTE**
 
-von 25  KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023
+07 [XML_22]
 
 **4**
 
@@ -79,9 +72,15 @@ von 25  KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023
 
 **11**
 
-11  15  17  18  23
+11  15
+
+17  18  23
 
 **25**
+
+Seite 2 von 25
+
+KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023
 
 
 ---
@@ -1121,11 +1120,13 @@ P3 24 Standardisierte Heilmittelkombination
 
 Seite 13 von 25  KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023 3). Ändern Sie
 
+durch ein
+
 möglich ist.
 
 6
 
-durch ein 3). Ändern Sie
+3). Ändern Sie
 
 möglich ist.
 
@@ -1840,7 +1841,7 @@ Z98.8
 
 **Diagnosegruppe**
 
-**Leitsymptomatik** **gemäß** **Heilmittelkatalog**
+**Leitsymptomatik** **gemäß**
 
 **(buchstabencodiert)**
 
@@ -1852,7 +1853,7 @@ Eingriffen; Vorhandensein einer
 
 EX
 
-a)
+**Heilmittelkatalog** a)
 
 **patientenindividuelle** **Leitsymptomatik**
 
@@ -2373,7 +2374,7 @@ Seite 24 von 25  KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023
 
 ---
 
-3 REFERENZIERTE DOKUMENTE
+3 REFERENZIERTE
 
 **Referenz**
 
@@ -2407,27 +2408,40 @@ Tel.: 030 4005 2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung
 
-Herbert Lewin Platz 2, 10623 Berlin
+Herbert Lewin Platz 2, 10623
 
 [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
 
+DOKUMENTE
+
+**Dokument**
+
+Zertifizierungsrichtlinie der KBV
+
+Antrag auf Zertifizierung
+
+Patientendaten für Prüffälle
+
+Technische Anlage zu Anlage 4a (BM
+
+Anforderungskatalog Heilmittelvero
+
+Datensatzbeschreibung Heilmittelk
+
+Datensatzbeschreibung Heilmittel A
+
+Datensatzbeschreibung ICD 10 GM
+
+Datensatzbeschreibung Heilmittel
+
+Blankoverordnung
+
+Teststammdateien für die Zertifizie
+
+Verfahrens
+
+Berlin
+
 Seite 25 von 25
 
-KBV  Prüfpaket Heilmittel  Version:   13.
-
-| **Dokument** |  |  |  |
-|---|---|---|---|
-|  | Zertifizierungsrichtlinie | der | KBV |
-| Antrag | auf | Zertifizierung |  |
-|  | Patientendaten | für Prüffälle |  |
-| Technische | Anlage | zu Anlage | 4a (BM |
-|  | Anforderungskatalog |  | Heilmittelvero |
-|  | Datensatzbeschreibung | | Heilmittelk |
-|  | Datensatzbeschreibung | | Heilmittel A |
-|  | Datensatzbeschreibung | | ICD‐10‐GM |
-|  | Datensatzbeschreibung | | Heilmittel |
-|  | Blankoverordnung |  |  |
-|  | Teststammdateien | für die | Zertifizie |
-| Verfahrens |  |  |  |
-
-Januar 2023
+KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023

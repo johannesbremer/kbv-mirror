@@ -1,8 +1,8 @@
-|  | IT in der Arztpraxis |
+|  | ***IT in der Arztpraxis***** |
 |---|---|
-|  | Handbuch KBV-Kryptomodul |
+|  | *Handbuch KBV-Kryptomodul* |
 |  | [KBV_ITA_AHEX_Handbuch_Kryptomodul |
-|  |  |
+|  | ** |
 |  | Dezernat Digitalisierung und IT |
 |  |  |
 |  | 10623 Berlin, Herbert-Lewin-Platz 2 |
@@ -19,21 +19,21 @@ XKM Version  1.42 Datum: Kennzeichnung Öffentlich Status: In Kraft
 
 **D** **O** **K**
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 1.42 | 1.02.2026 | KBV | Aktualisierung aller Schlüssel    Aktualisierung des Kapitels 8 |  | 13, 27,  29    32 |
-| 1.41 | 15.08.2025 | KBV | Schlüssel für |  | 13 |
-| 1.40 | 14.02.2025 | KBV | Schlüssel für    Streichung | Softwareher- | 13 |
-| 1.39 | 15.11.2024 | KBV | Angaben zu Schlüsselversionen |  | 13 |
-| 1.38 | 15.11.2024 | KBV | Neue Arbeitsmodi HDRG |  | 13 |
-| 1.37 | 15.02.2024 | KBV | Schlüssel für | Schlüsselpaar ausgetauscht | 13 |
-| 1.36 | 15.08.2023 | KBV | Schlüssel für QSMG, QSHGV    Java Version |  | 13      8 |
-| 1.35 | 14.02.2023 | KBV | Schlüssel für |  | 13 |
-| 1.34 | 14.02.2022 | KBV | Schlüssel für KV, EHKS, DA, | Schlüsselpaar ausgetauscht | 13 |
-| 1.33 | 13.11.2020 | KBV | Java Version |  | 8 |
-| 1.32 | 06.03.2019 | KBV | Überarbeitung Systemvoraus-   Aktualisierung des Aufrufs von    textuelle Anpassungen | Es wird mindestens Java 8 | 8      24        alle |
-| 1.31 | 09.08.2018 | KBV | Anpassung bzgl. |  | 13 |
-| 1.30 | 15.05.2018 | KBV | Anpassung der Indexe |  | 13 |
+| 1.42 | 1.02.2026 | KBV | Aktualisierung aller Schlüssel    Aktualisierung des Kapitels 8 |  | **13, 27,  29 **  **32** |
+| 1.41 | 15.08.2025 | KBV | Schlüssel für |  | **13** |
+| 1.40 | 14.02.2025 | KBV | Schlüssel für    Streichung | Softwareher- | **13 ** |
+| 1.39 | 15.11.2024 | KBV | Angaben zu Schlüsselversionen |  | **13** |
+| 1.38 | 15.11.2024 | KBV | Neue Arbeitsmodi HDRG |  | **13** |
+| 1.37 | 15.02.2024 | KBV | Schlüssel für | Schlüsselpaar ausgetauscht | **13 ** |
+| 1.36 | 15.08.2023 | KBV | Schlüssel für QSMG, QSHGV    Java Version |  | **13 **    **8** |
+| 1.35 | 14.02.2023 | KBV | Schlüssel für |  | **13** |
+| 1.34 | 14.02.2022 | KBV | Schlüssel für KV, EHKS, DA, | Schlüsselpaar ausgetauscht | **13** |
+| 1.33 | 13.11.2020 | KBV | Java Version |  | **8** |
+| 1.32 | 06.03.2019 | KBV | Überarbeitung Systemvoraus-   Aktualisierung des Aufrufs von    textuelle Anpassungen | Es wird mindestens Java 8 | **8 **    **24 **      **alle** |
+| 1.31 | 09.08.2018 | KBV | Anpassung bzgl. |  | **13** |
+| 1.30 | 15.05.2018 | KBV | Anpassung der Indexe |  | **13** |
 
 **U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O**  **R** **I** **E**
 
@@ -41,20 +41,20 @@ QSHGV, QSHGVK und QSMG aktuali- siert QSKE und Schlüsselpaar ausgetauscht  QSHL
 
 ---
 
-| 1.29 | 29.01.2018 | KBV | Aktualisierung der Schlüssel für    Streichung der          Streichung der Disketten Unter- | Vorgesehener zweijähriger | 13        8   13  27    10  15  16  18  22 |
+| 1.29 | 29.01.2018 | KBV | Aktualisierung der Schlüssel für    Streichung der          Streichung der Disketten Unter- | Vorgesehener zweijähriger | **13 **      **8   13  27 **  **10  15  16  18  22** |
 |---|---|---|---|---|---|
-| 1.28 | 02.05.2017 | KBV | Versionsnummer der Schlüssel | Schlüsselpaar ausgetauscht | 13 |
-| 1.27 | 08.08.2016 | KBV | Versionsnummern der QSKE - Neuen Arbeitsmodus  Abschnit 7.1 (Netzwerkinstalla- | Schlüsselpaar QSKE ausge- neuer Schlüssel QSHLT    XKM ist | 13        30 |
-| 1.26 | 09.02.2016 | KBV | Aktualisierung von | Austausch der Schlüsselpaa- | 13 |
-| 1.25 | 05.05.2015 | KBV | Aktualisierung eines Schlüssel- | Austausch des | 13 |
-| 1.24 | 10.02.2015 | KBV | Aktualisierung der | Austausch der Schlüsselpaa- | 12 |
-| 1.23 | 12.11.2014 | KBV | Schlüssel QSKE hinzugefügt | Neue QS | 12 |
+| 1.28 | 02.05.2017 | KBV | Versionsnummer der Schlüssel | Schlüsselpaar ausgetauscht | **13** |
+| 1.27 | 08.08.2016 | KBV | Versionsnummern der QSKE - Neuen Arbeitsmodus  Abschnit 7.1 (Netzwerkinstalla- | Schlüsselpaar QSKE ausge- neuer Schlüssel QSHLT    XKM ist | **13 **      **30** |
+| 1.26 | 09.02.2016 | KBV | Aktualisierung von | Austausch der Schlüsselpaa- | **13** |
+| 1.25 | 05.05.2015 | KBV | Aktualisierung eines Schlüssel- | Austausch des | **13** |
+| 1.24 | 10.02.2015 | KBV | Aktualisierung der | Austausch der Schlüsselpaa- | **12** |
+| 1.23 | 12.11.2014 | KBV | Schlüssel QSKE hinzugefügt | Neue QS | **12** |
 | 1.22 | 14.05.2014 | KBV | Dokument |  |  |
-| 1.21 | 03.02.2014 | KBV | Aktualisierung der | Austausch der Schlüsselpaa- | 11 |
-| 1.20 | 11.02.2013 | KBV | Verweise auf  Neue Arbeitsmodi | Ablösung der Register  -Registerstruktur | 11  27 |
+| 1.21 | 03.02.2014 | KBV | Aktualisierung der | Austausch der Schlüsselpaa- | **11** |
+| 1.20 | 11.02.2013 | KBV | Verweise auf  Neue Arbeitsmodi | Ablösung der Register  -Registerstruktur | **11  27** |
 | 1.19 | 20.07.2012 | KBV | Redaktionelle Anpassungen |  |  |
-| 1.18 | 23.01.2012 | KBV | Beschreibung Returnwerte und |  | 10 |
-| 1.17 | 19.01.2012 | KBV | Neue Kapitel | Zusammenführung mit Do- | 25  28  30 |
+| 1.18 | 23.01.2012 | KBV | Beschreibung Returnwerte und |  | **10** |
+| 1.17 | 19.01.2012 | KBV | Neue Kapitel | Zusammenführung mit Do- | **25  28  30** |
 
 DA, ADMP, KVKol, KV, Dialyse, ZervixZyto, EHKS LDT Unterstützung stützung QSMG, QSHGV und QSHGVK aktualisiert Schlüssel erhöht  tion) überarbeitet namen namens namen redaktionell bzgl. veralteter Links überarbeitet namen entfernt. Lösungsmöglichkeiten Schlüssel, Schlüsselverwaltung, Konfigu- rations- und Handhabungsemp- fehlungen Schlüsseltausch nicht fähig QSHGVK re QSHGV und QSMG -Dokumentation Kapselendoskopie kument XKM Anwenderhinweise multi -user- Schlüssels
 
@@ -177,15 +177,15 @@ DA, ADMP, KVKol, KV, Dialyse, ZervixZyto, EHKS LDT Unterstützung stützung QSMG
 
 ---
 
-| **IT in** | **der Arztpraxis** |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|
-| Handbuch |  | KBV-Kryptomodul XKM |  |  |  |  |  |  |
-| **A B** | **B I L D** | **U N G** | **S V E** | **R Z** | **E I C H** | **N I S** |  |  |
-| Abbildung | 1: Der |  |  |  |  | Standarddialog..........................................................................................20 | | |
-| Abbildung | 2: XKM | Kryptomodul | im |  | Konfigurations-Dialog |  | ....................................................21 | |
-| Abbildung | 3: | Protokoll |  | Test-Ver-/Entschlüsselung |  | ................................................................29 | | |
-| Abbildung | 4: | Konsole | Test-Ver-/Entschlüsselung | |  | .................................................................29 | | |
-|  | KBV_ITA_AHEX_Handbuch_Kryptomodul | | * | Version 1.42 |  |  | Seite 6 | von 33 |
+| **IT in** | **der Arztpraxis** |  |
+|---|---|---|
+| Handbuch |  | KBV-Kryptomodul XKM |
+| **A B** | **B I L D** | **U N G S V E R Z E I C H N I S** |
+| Abbildung | 1: Der | Standarddialog..........................................................................................20 |
+| Abbildung | 2: XKM | Kryptomodul im Konfigurations-Dialog ....................................................21 |
+| Abbildung | 3: | Protokoll Test-Ver-/Entschlüsselung ................................................................29 |
+| Abbildung | 4: | Konsole Test-Ver-/Entschlüsselung .................................................................29 |
+|  | KBV_ITA_AHEX_Handbuch_Kryptomodul | * Version 1.42 Seite 6 von 33 |
 
 Abbildung 1: Der Standarddialog Abbildung 2: XKM Kryptomodul im Konfigurations Abbildung 3: Protokoll Test-Ver-/Entschlüsselung Abbildung 4: Konsole Test-Ver-/Entschlüsselung
 
@@ -250,7 +250,7 @@ Im Installationsverzeichnis befinden sich Batchdateien bzw. Shellskripte, die da
 
 Die Verzeichnisstruktur des KBV-Kryptomoduls hat den folgenden Aufbau:
 
-| Ordner | Funktion des Ordners |
+| **Ordner** | **Funktion des Ordners** |
 |---|---|
 | 'Ausschuss' | Dieser Ordner dient als Ablage für alle Dateien, die nicht entschlüsselt werden |
 | 'Bearbeitet' | Dieser Ordner wird nur im Bedarfsfall vom XKM erstellt. Hier werden Dateien |
@@ -276,7 +276,7 @@ konnten. abgelegt, die im Serverbetrieb ohne Löschmodus (-l) verarbeitet wurden
 
 Der Aufruf des XKM-Hauptprogramms erfolgt über die im Installationsverzeichnis mitgeliefer- ten Batch- bzw. Skriptdateien:
 
-| Dateiname | Funktion |
+| **Dateiname** | **Funktion** |
 |---|---|
 | StartKryptomodul.bat  StartKryptomodul.sh | Aufruf des XKM im Konsolenbetrieb . Die Steuerung des Krypto- |
 | StartGUIKryptomodul.bat  StartGUIKryptomodul.sh | Aufruf des XKM im Betrieb mit grafischer Oberfläche . Die Steue- |
@@ -287,7 +287,7 @@ Zu jedem Ver - bzw. Entschlüsselungsvorgang wird im  erzeugt, die einen kurzen 
 
 Weiterhin wird der Status des Verarbeitungsvorgangs über den Returnwert der Java - Applikation an den Aufrufer zurückgegeben. Nachfolgend eine Liste der möglichen Returnwer- te:
 
-| Returnwert | Lösungsmöglichkeit |
+| **Returnwert** | **Lösungsmöglichkeit** |
 |---|---|
 | 0: |  |
 | 1: | Zu einer ungesplitteten Datenlieferung wurden unerwartete |
@@ -306,7 +306,7 @@ moduls erfolgt mittels Konfigurationsdatei und Übergabeparame- ter. rung des Kr
 
 ---
 
-| Returnwert | Lösungsmöglichkeit |
+| **Returnwert** | **Lösungsmöglichkeit** |
 |---|---|
 | 9: | Zusammenfassung gesplitteter Dateien ist nicht möglich, |
 | 10: | Die Protokoll -Datei kann nicht erstellt werden . Eine na- |
@@ -333,8 +333,8 @@ kein Folgepaket gefunden weil eine oder mehrere Dateien fehlen . Stellen Sie sic
 
 ---
 
-| Name des  Arbeitsmodus | Dateifilter | Schlüsseldatei | Index Besonderheit |  | |
-|  |  |  |  | Eingang | Ausgang |
+\| **Name des  Arbeitsmodus** | **Dateifilter** | **Schlüsseldatei** | **Index Besonderheit** |  | |
+|  |  |  |  | **Eingang** | **Ausgang** |
 |---|---|---|---|---|---|
 | Verschluesselung | * | *.XKM | Je nach Benutzerkennung |  | - |
 | Entschluesselung | *.XKM | * | Je nach Benutzerkennung |  | - |
@@ -368,8 +368,8 @@ lich_Testschluessel_V01.pub lich_Testschluessel_V02.pub unterstützt unterstütz
 
 ---
 
-| Name des  Arbeitsmodus | Dateifilter | Schlüsseldatei | Index Besonderheit |  | |
-|  |  |  |  | Eingang | Ausgang |
+\| **Name des  Arbeitsmodus** | **Dateifilter** | **Schlüsseldatei** | **Index Besonderheit** |  | |
+|  |  |  |  | **Eingang** | **Ausgang** |
 |---|---|---|---|---|---|
 | QSKE_Entschluesselung | *.zip.XKM | *.zip | Privat_QSKE_V06.pfx  Privat_QSKE_V07.pfx | 32 | - |
 | QSHLT_Verschluesselung | *.zip | * | Oeffentlich_QSHLT_V05.pub  Oeffentlich_QSHLT_V06.pub | 33 | - |
@@ -508,7 +508,7 @@ angepasst werden. Die Konfigurationsdateien im Lieferumfang sind so voreingestel
 
 **3.3.1** **Konfigurationsschalter**
 
-| Schalter | Zulässige Werte | Funktion |
+| **Schalter** | **Zulässige Werte** | **Funktion** |
 |---|---|---|
 | Quelle | Pfadangabe | Dateneingangsverzeichnis bei |
 | Verschluesselt | Pfadangabe | In diesem |
@@ -526,7 +526,7 @@ DMP_Entschluesselung Abrechnungs_Entschluesselung ADMP_Entschluesselung TEST_Ent
 
 ---
 
-| Schalter | Zulässige Werte | Funktion |
+| **Schalter** | **Zulässige Werte** | **Funktion** |
 |---|---|---|
 | Paketgroesse | Numerischer Wert, mit einem Mi- Daneben sind folgende Konstanten  - CD   (= 650.000.000 Bytes)  - Unbegrenzt | Legt die Maximalgröße der zu erstel- Voreingestellt ist |
 | KonfigDialog | Ja / Nein | Hierüber wird festgelegt, ob im Betrieb  Voreingestellt ist |
@@ -549,30 +549,30 @@ mierung selt selt nimum von 1000. vordefiniert: ‚TEMP’ lenden  Dateien fest.
 
 **3.4.1** **Kommandozeilenparameter**
 
-| Übergabepa- | Beschreibung |
+| **Übergabepa-** | **Beschreibung** |
 |---|---|
-| -c | Name der XKM- |
-| -f | Datei- oder Pfadangabe, welche vom XKM abgearbeitet werden soll. Überschreibt |
-| -m | Festlegung des Arbeitsmodus. |
-| -v | Pfadangabe für das Verschlüsselungsverzeichnis. Überschreibt XML - |
-| -t | Pfadangabe für das Entschlüsselungsverzeichnis. Überschreibt XML - |
-| -a | Pfadangabe für das Ausschuss-Verzeichnis. Überschreibt XML- |
-| -s | Das XKM wird hierdurch im s.g. Servermodus gestartet. Es verarbeitet im 30 Sekun- |
-| -e | Das XKM verarbeitet alle Dateien eines Eingangsverzeichnisses und beendet sich |
-| -l | Die Eingangsdateien werden nach der Ver- bzw. Entschlüsselung gelöscht. |
-| -p | Name der zu erstellenden Protokolldatei. Überschreibt XML- |
-| -h | Das XKM gibt einen Hilfetext aus und beendet sich anschließend. |
-| -z | Mittels dieser Option kann dem XKM ein alternatives Arbeitsverzeichnis zugewiesen |
-| -k | Name der Datei für die Definition zusätzlicher Arbeitsmodi. Überschreibt XML-Schalter |
-| -u | Verzeichnis für die Ablage von benutzerspezifischen Schlüsseln. Überschreibt XML - |
-| -i | Dateiangabe zum Kommunikationssatz. Überschreibt XML- |
-| -g | Festlegen der Maximalgröße eines Pakets. Überschreibt XML- |
-| -o | Möglichkeit zum Konfigurationsdialog ein - bzw. ausschalten. Überschreibt XML - |
-| -r | Festlegen des Protokollformats (PDF, XLS, …). Überschreibt XML |
-| -q | Ein- |
-| -j | Alternatives Verzeichnis für temporäre Daten. |
-| -x | Name des Pfads |
-| -y | Name des Pfads |
+| ***-c*** | Name der XKM- |
+| ***-f*** | Datei- oder Pfadangabe, welche vom XKM abgearbeitet werden soll. Überschreibt |
+| ***-m*** | Festlegung des Arbeitsmodus. |
+| ***-v*** | Pfadangabe für das Verschlüsselungsverzeichnis. Überschreibt XML - |
+| ***-t*** | Pfadangabe für das Entschlüsselungsverzeichnis. Überschreibt XML - |
+| ***-a*** | Pfadangabe für das Ausschuss-Verzeichnis. Überschreibt XML- |
+| ***-s*** | Das XKM wird hierdurch im s.g. Servermodus gestartet. Es verarbeitet im 30 Sekun- |
+| ***-e*** | Das XKM verarbeitet alle Dateien eines Eingangsverzeichnisses und beendet sich |
+| ***-l*** | Die Eingangsdateien werden nach der Ver- bzw. Entschlüsselung gelöscht. |
+| ***-p*** | Name der zu erstellenden Protokolldatei. Überschreibt XML- |
+| ***-h*** | Das XKM gibt einen Hilfetext aus und beendet sich anschließend. |
+| ***-z*** | Mittels dieser Option kann dem XKM ein alternatives Arbeitsverzeichnis zugewiesen |
+| ***-k*** | Name der Datei für die Definition zusätzlicher Arbeitsmodi. Überschreibt XML-Schalter |
+| ***-u*** | Verzeichnis für die Ablage von benutzerspezifischen Schlüsseln. Überschreibt XML - |
+| ***-i*** | Dateiangabe zum Kommunikationssatz. Überschreibt XML- |
+| ***-g*** | Festlegen der Maximalgröße eines Pakets. Überschreibt XML- |
+| ***-o*** | Möglichkeit zum Konfigurationsdialog ein - bzw. ausschalten. Überschreibt XML - |
+| ***-r*** | Festlegen des Protokollformats (PDF, XLS, …). Überschreibt XML |
+| ***-q*** | Ein- |
+| ***-j*** | Alternatives Verzeichnis für temporäre Daten. |
+| ***-x*** | Name des Pfads |
+| ***-y*** | Name des Pfads |
 
 **Tabelle 6: Kommandozeilenparameter**
 
@@ -665,20 +665,11 @@ den Aufruf dieses Dialogs unterbinden.
 
 ---
 
-**3.7 Arbeiten mit Wechselmedien (CD, ...)**
+## 3.7 Arbeiten mit Wechselmedien (CD, ...)
 
-|  | **(CD,** | **...)** |
-|---|---|---|
-| von | Wechselmedien | |
-| den |  | Arbeitsablauf |
-|  | sowie | *Quelle* bzw. |
-|  |  | *Konfigurationsschalter)* |
+Das XKM unterstützt den Einsatz von Wechselmedien beispielsweise CD´s. Zudem kann aber  auch jedes andere Wechselmedium in den Arbeitsablauf integriert werden. Hierzu müssen die  Konfigurationsschalter *Paketgroesse* sowie *Quelle* bzw. *Verschluesselt* geeignet belegt wer-
 
-Das XKM unterstützt den Einsatz von Wechselmedien beispielsweise CD´s. Zudem kann aber  auch jedes andere Wechselmedium in den Arbeitsablauf integriert werden. Hierzu müssen die  Konfigurationsschalter *Paketgroesse*
-
-geeignet belegt wer-
-
-den. (Siehe hierzu auch das Kapitel
+den. (Siehe hierzu auch das Kapitel *Konfigurationsschalter*
 
 ### 3.7.1 Notwendige Schritte zur Integration eines Wechselmediums
 
@@ -704,7 +695,6 @@ Der Schalter Quelle/*Verschluesselt* gibt das Verzeichnis an, wo das XKM die ver
 
 Daten laden und sichern kann.
 
-Verschluesselt
 
 ---
 
@@ -714,7 +704,7 @@ Zusätzlich zum XKM-Hauptprogramm gibt es eine Reihe von Hilfsprogrammen, die di
 
 **3.8.1** **Erzeugen benutzerspezifischer Schlüsselpaare**
 
-| Dateiname | Funktion |
+| **Dateiname** | **Funktion** |
 |---|---|
 | ErzeugeBenutzerschluessel.bat  ErzeugeBenutzerschluessel.sh | Generierung eines benutzerspezifischen Schlüsselpaars |
 | ErzeugeGUIBenutzerschluessel.bat  ErzeugeGUIBenutzerschluessel.sh | Generierung eines benutzerspezifischen Schlüsselpaars |
@@ -743,7 +733,7 @@ Private Key: system/keys/<benutzerkennung>_privater_Schluessel.NICHT_weitergeben
 
 Hinweis: Nicht Bestandteil der Auslieferung, nur für den internen Gebrauch bestimmt.
 
-| Dateiname | Funktion |
+| **Dateiname** | **Funktion** |
 |---|---|
 | ErzeugeSchluesselpaar.bat  ErzeugeSchluesselpaar.sh | Generierung eines Schlüsselpaars mit einem öffentlichen |
 
@@ -1098,7 +1088,7 @@ Einige Merkmale des hybriden Verschlüsselungsverfahrens:
 
 Es folgt eine Strukturbeschreibung des 256-Byte grossen XKM-Header, der jedem verschlüs- selten Paket vorangestellt wird:
 
-| Pos | Feld | Länge | Offset | Bedeutung |
+| **Pos** | **Feld** | **Länge** | **Offset** | **Bedeutung** |
 |---|---|---|---|---|
 | 1 | Arztnummer bzw. Be- | 40 | 0 | Text ‚Arztnummer |
 | 2 | Zeilenvorschub | 2 | 40 | CarriageReturn+LineFeed |

@@ -169,18 +169,7 @@ Gesetzliche Spezifikationsaufträge  der IOP-Governance Verordnung
 
 ## Ansatz
 
-### Prüfung,
-
-### Autorisierung &
-
-### Transparenz
-
-### aktueller IOP-
-
-### Standards
-
-### Industrie
-
+### Prüfung, Autorisierung & Transparenz aktueller IOP- Standards Industrie
 Erhöhung der Produktqualität
 
 durch Sicherung aktueller IOP-
@@ -311,10 +300,7 @@ gaben 67% der Befragten an
 
 - Operativer Prozess bleibt bestehen: Bereitstellung der **Testsuite**
 
-### über GitHub Einreichung der Testberichte und Nachweise
-
-### über Titus 12
-
+### über GitHub Einreichung der Testberichte und Nachweise über Titus 12
 
 ---
 
@@ -343,10 +329,7 @@ vorbeiheute Abend!joinforces
 
 ---
 
-### Hier geht es zur Umfrage
-
-### an den Expertenkreis
-
+### Hier geht es zur Umfrage an den Expertenkreis
 ## Interoperabilitäts Roadmap
 
 credits:istock.com/CoreDesignKEY
@@ -354,12 +337,12 @@ credits:istock.com/CoreDesignKEY
 
 ---
 
-|  | **Zukunft** | | **der gematik** |
-|---|---|---|---|
-| **Dr.** | **Florian** |  | **Fuhrmann** |
-|  | Vorsitzender |  | Geschäftsführung |
+# Zukunft der gematik
 
-Zukunft der gematik Dr. Florian Fuhrmann Vorsitzender Ge
+**Dr. Florian Fuhrmann**
+
+## Vorsitzender Geschäftsführung
+
 
 ---
 
@@ -380,12 +363,7 @@ Zukunft der gematik Dr. Florian Fuhrmann Vorsitzender Ge
 |  | **dem** |  | **Land** |
 |  |  | **Bürokratie** | |
 
-## Demographie
-
-## Personalmangel
-
-## Komplexität
-
+## Demographie Komplexität Personalmangel
 Versorgung auf dem Land## Kostendruck
 
 
@@ -398,10 +376,7 @@ Versorgung auf dem Land## Kostendruck
 
 ---
 
-## organisationszentriert
-
-## patientenzentriert
-
+## organisationszentriert patientenzentriert
 
 ---
 
@@ -425,27 +400,14 @@ Versorgung auf dem Land## Kostendruck
 
 #### Unzureichende  Patient:innen- sicherheit
 
-#### Daten- austausch
-
-#### Individuelle
-
-#### Zeit für
-
-#### Medizin
-
-#### Patient:innen
-
-#### Attraktivität
-
-#### medizinischer Berufe
-
+#### Daten- austausch Attraktivität Individuelle Zeit für medizinischer Berufe Medizin Patient:innen
 
 ---
 
-| **Was** |  |  | **haben** | | **wir** |
-|---|---|---|---|---|---|
-|  | **bereits** | |  |  | **erreicht?** |
-|  | gematik | \| KBV | Anbietermeeting 18.09.2025 | \| öffentlich |  |
+| **Was** |  | **haben wir** |
+|---|---|---|
+|  | **bereits** | **erreicht?** |
+|  | gematik \| KBV | Anbietermeeting 18.09.2025 \| öffentlich |
 
 Was haben wir bereits erreicht?
 
@@ -489,10 +451,7 @@ Das haben wir geschafft. Digitalisierung gewinnt an Schwung
 
 **400 Mio.**
 
-## mit KIM versendete
-
-## elektronische  Arbeitsunfähigkeits- bescheinigungen  (eAU) an  Krankenkassen
-
+## mit KIM versendete elektronische  Arbeitsunfähigkeits- bescheinigungen  (eAU) an  Krankenkassen
 
 ---
 
@@ -502,10 +461,7 @@ Das haben wir geschafft. Digitalisierung gewinnt an Schwung
 
 **70 Mio.**
 
-## Elektronische  Patientenakten  angelegt
-
-## über
-
+## Elektronische  Patientenakten  angelegt über
 **1,7 Mio.**
 
 ## Dokumenten- uploads
@@ -519,10 +475,7 @@ Das haben wir geschafft. Digitalisierung gewinnt an Schwung
 
 **11 Mio.**
 
-## geöffnete  elektronische Medikationslisten pro Woche
-
-## fast
-
+## geöffnete  elektronische Medikationslisten pro Woche fast
 **1 Mrd.**
 
 ## ausgestellte  E-Rezepte
@@ -530,12 +483,8 @@ Das haben wir geschafft. Digitalisierung gewinnt an Schwung
 
 ---
 
-|  |  |  |  |  | **Nutzungsverpflichtung** | |
-|---|---|---|---|---|---|---|
-| **der** |  |  | **ePA** |  | **zum** | **1.10.** |
-|  |  | gematik | \| KBV | Anbietermeeting 18.09.2025 | \| öffentlich |  |
+# Nutzungsverpflichtung  der ePA zum 1.10.
 
-der ePA zum 1.10.
 
 ---
 
@@ -560,15 +509,15 @@ der ePA zum 1.10.
 
 ## Letzten Wochen (Ø)
 
-**81 Tausend**
-
-## Telematik IDs Zugriff =  Nutzung der ePA
-
 ## Spitzenwert
 
-**1,7 Mio.**
+**81 Tausend 1,7 Mio.**
+
+## Telematik IDs Zugriff =
 
 ## Hochgeladene
+
+## Nutzung der ePA
 
 ## Dokumente pro Woche
 
@@ -587,23 +536,15 @@ der ePA zum 1.10.
 
 ### gemäß Sozialgesetzbuch (SGB) Fünftes Buch (V)
 
-## Das Gesetz unterscheidet zwischen
-
-## operativer Betriebsleistung
-
+## Das Gesetz unterscheidet zwischen operativer Betriebsleistung
 ### Beauftragte Dienstleister oder zugelassene
 
-### Anbieter haben den störungsfreien Betrieb
-
-### der TI-Produkte zu gewährleisten.
-
-## und
-
-### der Betriebsverantwortung vor allem eine
-
-## Betriebsverantwortung.
+### Anbieter haben den störungsfreien Betrieb der TI-Produkte zu gewährleisten.
+## und Betriebsverantwortung.
 
 ### Die gematik nimmt zur Wahrnehmung
+
+### der Betriebsverantwortung vor allem eine
 
 ### Governance-Rolle ein
 
@@ -645,12 +586,7 @@ Veränderung seit Jan 2022
 
 # Digitalisierung als Schlüssel  Reformen nachhaltig zum Erfolg bringen
 
-## Krankenhausreform
-
-## Notfallreform
-
-## Primärarztversorgung
-
+## Krankenhausreform Notfallreform Primärarztversorgung
 
 ---
 
@@ -658,12 +594,7 @@ Veränderung seit Jan 2022
 
 ## Gemeinsame Daten und digitale Prozesse  als Katalysator für diese wichtigen  Vorhaben
 
-## Krankenhausreform
-
-## Notfallreform
-
-## Primärarztversorgung
-
+## Krankenhausreform Notfallreform Primärarztversorgung
 
 ---
 

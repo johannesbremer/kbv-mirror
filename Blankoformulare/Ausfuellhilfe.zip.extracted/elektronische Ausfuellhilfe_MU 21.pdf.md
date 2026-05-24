@@ -1,4 +1,4 @@
-|  | DEZERNAT ÄRZTLICHE UND  ABTEILUNG VERANLASSTE LEISTUNGEN 1. |
+|  | **DEZERNAT ÄRZTLICHE UND  ABTEILUNG VERANLASSTE LEISTUNGEN 1.** |
 |---|---|
 
 # MUSTER 21  ÄRZTLICHE
@@ -11,11 +11,11 @@
 
 JULI 2024 Ärztliche Bescheinigung für den Bezug von Krankengeld bei Erkrankung eines Kindes
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
 
 ---

@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 5. MÄRZ 2025   VERSION: 3.7   DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 5. MÄRZ 2025   VERSION: 3.7   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # PRUEFPAKET KVDT
@@ -67,7 +67,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 3.7 | 05.03.2025 |  | • | Prüfung von | 9ff. |
 | 3.6 | 14.01.2025 | KBV | • | Auslauf und Neuanlauf | 8 |
@@ -85,11 +85,11 @@ Ergänzungen der Vorgaben unter 2.2 Anpassungen der von Vorgaben zu Kodierregeln
 
 1 ALLGEMEINES
 
-| Dieses Dokument | Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet den | Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung |  | 1.1 | Die Rechtliche Grundlage bildet § 295 SGB V. |
+| Dieses Dokument | Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet den | Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung |  | **1.1** | Die Rechtliche Grundlage bildet § 295 SGB V. |
 |---|---|---|---|---|---|
-|  | 1.2 | Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer Sichtprüfung. | Dabei ist folgendes Vorgehen einzuhalten: | 1. | Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den Antrag  2. |
+|  | **1.2** | Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer Sichtprüfung. | Dabei ist folgendes Vorgehen einzuhalten: | 1. | Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den Antrag  2. |
 | 3. | 4. | 5. | 6. | 7. | a) |
-| b) | Ausnahme: Antragsteller für Zertifizierungsgegenstände ohne Arzt-Patienten-Kontakt (APK) müssen |  |  |  |  |
+| b) | **Ausnahme: Antragsteller für Zertifizierungsgegenstände ohne Arzt-Patienten-Kontakt (APK) müssen** |  |  |  |  |
 |  |  |  | 1. 2. 3. 4. 5. 6. 7. a) b) |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
@@ -146,14 +146,14 @@ Folgende Komponenten gehören zur Ausstattung des Rechners, auf dem das zu zerti
 
 installiert ist:
 
-| AUSSTATTUNG | BESCHREIBUNG |
+| **AUSSTATTUNG** | **BESCHREIBUNG** |
 |---|---|
-| Feste IP-Adresse | ein Zugriff auf die  Ausnahme: Antragsteller für Zertifizierungsgegenstände ohne Arzt |
-| Rechnerarchitektur | Für eine reibungslose Prüfung eignet sich am besten ein Stand |
-| Internetverbindung | Es wird eine stabile und schnelle Internetverbindung benötigt mit der empfohlenen |
-| Firewall- | Weboberfläche für KoPS 3.1:  http://192.168.200.84:8080/Ko PS/web/#/  -Patienten- |
-| Ton, Mikrofon und | › › |
-| Konferenzsystem | Die Nutzung des Konferenzsystems Zoom ist per Browser möglich. Empfohlene    › |
+| **Feste IP-Adresse** | ein Zugriff auf die **Ausnahme: Antragsteller für Zertifizierungsgegenstände ohne Arzt** |
+| **Rechnerarchitektur** | Für eine reibungslose Prüfung eignet sich am besten ein Stand |
+| **Internetverbindung** | Es wird eine stabile und schnelle Internetverbindung benötigt mit der empfohlenen |
+| **Firewall-** | Weboberfläche für KoPS 3.1:  http://192.168.200.84:8080/Ko PS/web/#/ **-Patienten-** |
+| **Ton, Mikrofon und** | › › |
+| **Konferenzsystem** | Die Nutzung des Konferenzsystems Zoom ist per Browser möglich. Empfohlene    › |
 
 ## 2.2 VORBEREITUNG DES ZU PRÜFENDEN PVS
 
@@ -163,45 +163,45 @@ Für die Sichtprüfung stellen Sie ein vorinstalliertes System bereit, das die a
 
 Folgende Praxisdaten müssen grundsätzlich verwendet werden und sollten bereits angelegt sein:
 
-| PRAXISDATEN |  |
+| **PRAXISDATEN** |  |
 |---|---|
-| Betriebsstättennummer (BSNR) | 198212400 |
-| BSNR-Bezeichnung | Praxis Dr. med. Heribert Topp-Glücklich |
-| Lebenslange Arztnummer (LANR) | 776299002 |
-| ASV Teamnummer | 001234566 |
+| **Betriebsstättennummer (BSNR)** | 198212400 |
+| **BSNR-Bezeichnung** | Praxis Dr. med. Heribert Topp-Glücklich |
+| **Lebenslange Arztnummer (LANR)** | 776299002 |
+| **ASV Teamnummer** | 001234566 |
 
 Der Hersteller muss über eine feste IP -Adresse verfügen und diese zu Beginn der Prüfung dem Zertifizierer mitteilen, damit KoPS-Instanz hergestellt werden kann. Eine feste IP -Adresse ist notwendig, damit die KBV die KoPS-Instanz vor unbefugten Zugriff während der Sichtprüfung schützten kann. Kontakt (APK) -Alone System. Bandbreite 1.5 Mbps/1.5 Mbps (Download/Upload). Freischaltung Kontakt (APK) Lautsprecher und Mikrofon (integriert oder Headset) Kamera (HD) Webcam (integriert oder extern) (optional) Browser sind: Google Chrome in der neuesten Version Zoom App für Chrome
 
 ---
 
-| PRAXISDATEN |  |
+| **PRAXISDATEN** |  |
 |---|---|
-| Arztname | Dr. med. Topp-Glücklich |
-| Vorname | Heribert |
-| Strasse | Musterstr. 1 |
-| PLZ/Ort | 48143 Münster |
-| Telefon | 0251 / 1111111 |
-| Telefax | 0251 / 2222222 |
-| E-Mail-Adresse | Dr.Heribert.Topp-Gluecklich@KBV-Testpraxis.de |
-| Fachgebiet | beliebiger Eintrag |
-| KV-Voreinstellung | › › 1. a) b) c) d) Heribert  Strasse  Musterstr. 1  PLZ/Ort |
+| **Arztname** | Dr. med. Topp-Glücklich |
+| **Vorname** | Heribert |
+| **Strasse** | Musterstr. 1 |
+| **PLZ/Ort** | 48143 Münster |
+| **Telefon** | 0251 / 1111111 |
+| **Telefax** | 0251 / 2222222 |
+| **E-Mail-Adresse** | Dr.Heribert.Topp-Gluecklich@KBV-Testpraxis.de |
+| **Fachgebiet** | beliebiger Eintrag |
+| **KV-Voreinstellung** | › › 1. a) b) c) d) Heribert **Strasse ** Musterstr. 1 **PLZ/Ort** |
 
-STANDARDEINSENDER (ÜBERWEISENDER ARZT) Betriebsstättennummer (BSNR) Lebenslange Arztnummer (LANR) Name DATENSATZ RVSA (RINGVERSUCHSZERTIFIKATE) pnSD/uu-Analysen Gerätetyp Hersteller Analyt-ID RV-Zertifikat 2.2.1 Vorbereitungen für die Prüffälle zur Kodierunterstützung In Systemen mit APK  muss folgendes für die Sichtprüfung vorbereitet werden: Bitte nehmen Sie folgende Vorkonfiguration der Kodierregeln vor: Für den Einsatz der behandlungsfallbezogenen Kodierregeln „bei Kodierung“ und „zur Abrechnung“ Die behandlungsfallbezogene Kodierregel ID Für den Einsatz der quartalsübergreifenden Kodierregel ID „wählbar“ und „zur Abrechnung“ Die Kodierregeln 03-02-173  und werden. KV: 20 (KV Westfalen-Lippe)                Bezirksstelle: 19 (Münster) 198209700 004110101 House Gregory Herbert-Lewin-Platz 2 48155 Münster 2 = ja - teilweise Gerät A 5673 Firma 004 (Werte gemäß Schlüsseltabelle) 1 = ja  gesetzt werden. 01-02-010  soll auf inaktiv gesetzt werden. gesetzt werden 03-02-044 sollen auf den Prüfzeitpunkt „zur Abrechnung“ gesetzt ID 01-01-017  soll der Prüfzeitpunkt auf 03-02-038  soll der Prüfzeitpunkt auf | STANDARDEINSENDER (ÜBERWEISENDER ARZT) | |
+STANDARDEINSENDER (ÜBERWEISENDER ARZT) Betriebsstättennummer (BSNR) Lebenslange Arztnummer (LANR) Name DATENSATZ RVSA (RINGVERSUCHSZERTIFIKATE) pnSD/uu-Analysen Gerätetyp Hersteller Analyt-ID RV-Zertifikat 2.2.1 Vorbereitungen für die Prüffälle zur Kodierunterstützung In Systemen mit APK  muss folgendes für die Sichtprüfung vorbereitet werden: Bitte nehmen Sie folgende Vorkonfiguration der Kodierregeln vor: Für den Einsatz der behandlungsfallbezogenen Kodierregeln „bei Kodierung“ und „zur Abrechnung“ Die behandlungsfallbezogene Kodierregel ID Für den Einsatz der quartalsübergreifenden Kodierregel ID „wählbar“ und „zur Abrechnung“ Die Kodierregeln 03-02-173  und werden. KV: 20 (KV Westfalen-Lippe)                Bezirksstelle: 19 (Münster) 198209700 004110101 House Gregory Herbert-Lewin-Platz 2 48155 Münster 2 = ja - teilweise Gerät A 5673 Firma 004 (Werte gemäß Schlüsseltabelle) 1 = ja  gesetzt werden. 01-02-010  soll auf inaktiv gesetzt werden. gesetzt werden 03-02-044 sollen auf den Prüfzeitpunkt „zur Abrechnung“ gesetzt ID 01-01-017  soll der Prüfzeitpunkt auf 03-02-038  soll der Prüfzeitpunkt auf | **STANDARDEINSENDER (ÜBERWEISENDER ARZT)** | |
 |---|---|
-| Betriebsstättennummer (BSNR) | 198209700 |
-| Lebenslange Arztnummer (LANR) | 004110101 |
-| Name | House |
-| Vorname | Gregory |
-| Strasse | Herbert-Lewin-Platz 2 |
-| PLZ/Ort | 48155 Münster |
+| **Betriebsstättennummer (BSNR)** | 198209700 |
+| **Lebenslange Arztnummer (LANR)** | 004110101 |
+| **Name** | House |
+| **Vorname** | Gregory |
+| **Strasse** | Herbert-Lewin-Platz 2 |
+| **PLZ/Ort** | 48155 Münster |
 
-| DATENSATZ RVSA (RINGVERSUCHSZERTIFIKATE) | |
+| **DATENSATZ RVSA (RINGVERSUCHSZERTIFIKATE)** | |
 |---|---|
-| pnSD/uu-Analysen | 2 = ja - teilweise |
-| Gerätetyp | Gerät A 5673 |
-| Hersteller | Firma |
-| Analyt-ID | 004 (Werte gemäß Schlüsseltabelle) |
-| RV-Zertifikat | 1 = ja |
+| **pnSD/uu-Analysen** | 2 = ja - teilweise |
+| **Gerätetyp** | Gerät A 5673 |
+| **Hersteller** | Firma |
+| **Analyt-ID** | 004 (Werte gemäß Schlüsseltabelle) |
+| **RV-Zertifikat** | 1 = ja |
 
 
 ---
@@ -212,67 +212,67 @@ STANDARDEINSENDER (ÜBERWEISENDER ARZT) Betriebsstättennummer (BSNR) Lebenslang
 | Machen Sie bitte nach jeder Filterung Screenshots von der Gesamtübersicht und bringen Sie diese zur  Achten Sie bitte darauf, dass in allen Screenshots | 4. |
 | a) b) | Die Screenshots werden dem Prüfer am Ende der Sichtprüfung ebenfalls übergeben. |
 | 5. |  |
-| FELDER | INHALT |
-| Name | Groß |
-| Vorname | Lena Tina |
-| Geburtsdatum | 13.05.1976 |
-| Versicherten_ID | X110319454  2. 3. 4. a) b) 5. Die Screenshots werden dem Prüfer am Ende der Sichtprüfung ebenfalls übergeben. 5. |
+| **FELDER** | **INHALT** |
+| **Name** | Groß |
+| **Vorname** | Lena Tina |
+| **Geburtsdatum** | 13.05.1976 |
+| **Versicherten_ID** | X110319454  2. 3. 4. a) b) 5. Die Screenshots werden dem Prüfer am Ende der Sichtprüfung ebenfalls übergeben. 5. |
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Name | Groß |
-| Vorname | Lena Tina |
-| Geburtsdatum | 13.05.1976 |
-| Versicherten_ID | X110319454 |
+| **Name** | Groß |
+| **Vorname** | Lena Tina |
+| **Geburtsdatum** | 13.05.1976 |
+| **Versicherten_ID** | X110319454 |
 | Straße | Süderquerweg |
-| Hausnummer | 633 |
-| PLZ | 21037 |
-| Ort | Hamburg |
-| Wohnsitzländercode | D |
-| WOP | 02 |
-| Versichertenart | 1 |
-| Geschlecht | X = unbestimmt |
-| Kostenträgerkennung | 101308719 |
+| **Hausnummer** | 633 |
+| **PLZ** | 21037 |
+| **Ort** | Hamburg |
+| **Wohnsitzländercode** | D |
+| **WOP** | 02 |
+| **Versichertenart** | 1 |
+| **Geschlecht** | X = unbestimmt |
+| **Kostenträgerkennung** | 101308719 |
 
-Falls Ihr System die Sortierung der Kodierregeln unterstützt: Sortieren Sie die Kodierregeln nach der Kurzform der Regelbeschreibung dem Prüfzeitpunkt Sichtprüfung mit.  Falls Ihr System die Filterung der Kodierregeln unterstützt: Filtern Sie die Kodierregeln nach "Vollständige Kodierung des Diabetes" im Feld "Kurzform der Regelbeschreibung" (behandlungsfallbezogene Regeln) "wählbar" im Feld "Prüfzeitpunkt" (quartalsübergreifende Regeln) Sichtprüfung mit.  die komplette Liste „Kurzform der Regelbeschreibung“) sichtbar sind. Die Screenshots werden den Prüfer am Ende der Sichtprüfung zur Verfügung gestellt. Erstellen Sie bitte Screenshots von den Detailinformationen behandlungsfallbezogenen Kodierregel ID 01-01-017 quartalsübergreifenden Kodierregel ID 03-02-038 Erfassen Sie bitte im Ersatzverfahren die Daten des folgenden Patienten und in den letzten 4 (vier) Quartalen die in der folgenden Tabelle aufgeführt kennzeichnen Sie diese bitte als Dauerdiagnosen. Zusätzlich erfassen Sie bitte die unten aufgeführten Anamnestischen Diagnosen.  bzw. alle Inhalte (z.B. der Text unter en ICD-10-GM-Kodes als Behandlungsdiagnosen und
+Falls Ihr System die Sortierung der Kodierregeln unterstützt: Sortieren Sie die Kodierregeln nach der Kurzform der Regelbeschreibung dem Prüfzeitpunkt Sichtprüfung mit.  Falls Ihr System die Filterung der Kodierregeln unterstützt: Filtern Sie die Kodierregeln nach "Vollständige Kodierung des Diabetes" im Feld "Kurzform der Regelbeschreibung" (behandlungsfallbezogene Regeln) "wählbar" im Feld "Prüfzeitpunkt" (quartalsübergreifende Regeln) Sichtprüfung mit.  „Kurzform der Regelbeschreibung“) sichtbar sind. Die Screenshots werden den Prüfer am Ende der Sichtprüfung zur Verfügung gestellt. Erstellen Sie bitte behandlungsfallbezogenen Kodierregel quartalsübergreifenden Kodierregel Erfassen Sie bitte im Ersatzverfahren die Daten des folgenden Patienten und in den letzten 4 (vier) Quartalen die in der folgenden Tabelle aufgeführt kennzeichnen Sie diese bitte als Dauerdiagnosen. Zusätzlich erfassen Sie bitte die unten aufgeführten Anamnestischen Diagnosen. die komplette Liste  bzw. alle Inhalte (z.B. der Text unter Screenshots von den Detailinformationen ID 01-01-017 ID 03-02-038 en ICD-10-GM-Kodes als Behandlungsdiagnosen und
 
 ---
 
 |  |  |
 |---|---|
-| DAUERDIAGNOSEN |  |
+| **DAUERDIAGNOSEN** |  |
 |  |  |
-|  | Quartal -4 |
-| Quartal -3  Quartal -2 | Quartal -1 |
-| ICD-10- DS | ICD-10- |
-| DS  ICD-10- | DS |
-| ICD-10- DS | I63.9 |
+|  | **Quartal -4** |
+| **Quartal -3  Quartal -2** | **Quartal -1** |
+| **ICD-10- DS** | **ICD-10-** |
+| **DS  ICD-10-** | **DS** |
+| **ICD-10- DS** | I63.9 |
 | G  I63.9 | G |
-| I63.9 | G  I63.9  DS  L23.9  G  T78.4  G        Quartal -3  1. Quartal -4  Quartal -3  Quartal -2 |
+| I63.9 | G  I63.9 **DS ** L23.9  G  T78.4  G       **Quartal -3 ** 1.**Quartal -4  Quartal -3  Quartal -2** |
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Nachname | Gonzales |
-| Vorname | Rodrigo |
-| Geburtsdatum | 03.11.1963 |
-| Versicherten_ID | G123456744 |
-| Postfach | 80639 |
-| Postfach-PLZ | 81828 |
+| **Nachname** | Gonzales |
+| **Vorname** | Rodrigo |
+| **Geburtsdatum** | 03.11.1963 |
+| **Versicherten_ID** | G123456744 |
+| **Postfach** | 80639 |
+| **Postfach-PLZ** | 81828 |
 
-Patientenanlage: GM-Kode GM-Kode GM-Kode GM-Kode I21.2 I21.2 I21.2 I60.5 I60.5 I60.5 I60.5 E13.21 E13.21 L23.5 L23.5 ANAMNESTISCHE DIAGNOSEN ICD-10-GM-Kode K58.8 2.2.2 Vorbereitungen für den Prüffall zur Psychotherapie In Systemen mit APK  muss folgendes für die Sichtprüfung vorbereitet werden:| DAUERDIAGNOSEN |  |  |  | | | | |
+Patientenanlage: GM-Kode GM-Kode GM-Kode GM-Kode I21.2 I21.2 I21.2 I60.5 I60.5 I60.5 I60.5 E13.21 E13.21 L23.5 L23.5 ANAMNESTISCHE DIAGNOSEN ICD-10-GM-Kode K58.8 2.2.2 Vorbereitungen für den Prüffall zur Psychotherapie In Systemen mit APK  muss folgendes für die Sichtprüfung vorbereitet werden:| **DAUERDIAGNOSEN** |  |  |  | | | | |
 |---|---|---|---|---|---|---|---|
-| Quartal -4 | Quartal -3 | Quartal -2 | Quartal -1 | | | | |
-| ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS |
+| **Quartal -4** | **Quartal -3** | **Quartal -2** | **Quartal -1** | | | | |
+| **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** |
 | I63.9 | G | I63.9 | G | I63.9 | G | I63.9 | G |
 | I21.2 | G | I21.2 | G | I21.2 | G | I60.5 | G |
 | I60.5 | G | I60.5 | G | I60.5 | G | E13.21 | G |
 |  |  |  |  | E13.21 | G | L23.5 | G |
 |  |  |  |  | L23.5 | G |  |  |
 
-| ANAMNESTISCHE DIAGNOSEN | |
-| Quartal -1 | |
+\| **ANAMNESTISCHE DIAGNOSEN** | |
+| **Quartal -1** | |
 |---|---|
-| ICD-10-GM-Kode | DS |
+| **ICD-10-GM-Kode** | **DS** |
 | L23.9 | G |
 | T78.4 | G |
 | K58.8 | G |
@@ -280,16 +280,16 @@ Patientenanlage: GM-Kode GM-Kode GM-Kode GM-Kode I21.2 I21.2 I21.2 I60.5 I60.5 I
 
 ---
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Postfach-Wohnsitzländercode | D |
-| Postfach-Ort | München |
-| WOP | 71 |
-| Versichertenart | 1 |
-| Geschlecht | D |
-| Versicherungsschutz Beginn | 01.01.2012 |
-| Versicherungsschutz Ende | 31.12.2040 |
-| Kostentraegerkennung | 104424874 |
+| **Postfach-Wohnsitzländercode** | D |
+| **Postfach-Ort** | München |
+| **WOP** | 71 |
+| **Versichertenart** | 1 |
+| **Geschlecht** | D |
+| **Versicherungsschutz Beginn** | 01.01.2012 |
+| **Versicherungsschutz Ende** | 31.12.2040 |
+| **Kostentraegerkennung** | 104424874 |
 
 Hinweis:  Die zu erfassenden Versichertendaten der Patientin finden Sie in den bereitgestellten  Versichertenstammdaten auf dem Update-Server der KBV. Bitte verwenden Sie den Datensatz XML_44.
 
@@ -297,21 +297,21 @@ Erfassen Sie bitte für den Patientendatensatz gemäß Punkt 1 die folgenden Beh
 
 *Findet die Sichtprüfung bspw. im zweiten Quartal 2025 statt, dann muss die Erfassung der Daten und die*  *letzte Abrechnung im dritten Quartal 2024 liegen*
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Anerkannte Psychotherapie FK 4234 | Ja |
-| Datum des Anerkennungsbescheides FK | Datum der Sichtprüfung Minus 3 Quartale und 1 Tag |
-| Antragsdatum des | Datum der Sichtprüfung Minus 3 Quartale und 2 Tage |
-| Kombinationsbehandlung aus Einzel | 1 |
-| Durchführungsart der Einzeltherapie FK | 1 (Alleinige Durchführung mit überwiegend Einzeltherapie) |
-| Anzahl bewilligter Therapieeinheiten FK | 20 |
-| Bewilligte GOP für den Versicherten FK | 35425 |
-| Anzahl abgerechneter GOP FK 4254 | 15 |
-| Leistungstag FK 5000 | Datum der Sichtprüfung Minus 3 Quartale |
-| GNR FK 5001 | 35425 |
-| ICD-Code (FK 6001) | F81.0 |
-| Diagnosensicherheit (FK 6003) | G |
-| Die psychotherapeutische Behandlung soll ohne Rezidivprophylaxe erfolgen. | |
+| **Anerkannte Psychotherapie FK 4234** | Ja |
+| **Datum des Anerkennungsbescheides FK** | Datum der Sichtprüfung Minus 3 Quartale und 1 Tag |
+| **Antragsdatum des** | Datum der Sichtprüfung Minus 3 Quartale und 2 Tage |
+| **Kombinationsbehandlung aus Einzel** | 1 |
+| **Durchführungsart der Einzeltherapie FK** | 1 (Alleinige Durchführung mit überwiegend Einzeltherapie) |
+| **Anzahl bewilligter Therapieeinheiten FK** | 20 |
+| **Bewilligte GOP für den Versicherten FK** | 35425 |
+| **Anzahl abgerechneter GOP FK 4254** | 15 |
+| **Leistungstag FK 5000** | Datum der Sichtprüfung Minus 3 Quartale |
+| **GNR FK 5001** | 35425 |
+| **ICD-Code (FK 6001)** | F81.0 |
+| **Diagnosensicherheit (FK 6003)** | G |
+| **Die psychotherapeutische Behandlung soll ohne Rezidivprophylaxe erfolgen.** | |
 
 Mit den vorbereiteten Daten und Einträgen werden die KVDT Sichtprüfung geprüft.
 
@@ -322,17 +322,17 @@ ung
 
 ---
 
-| 2.2.3 Das PVS muss bis auf die o.g. Daten leer sein und weder Patienten | Bei  Stammdatei) muss ebenfalls angezeigt werden können |
+| **2.2.3** Das PVS muss bis auf die o.g. Daten leer sein und weder Patienten | Bei  Stammdatei) muss ebenfalls angezeigt werden können |
 |---|---|
-| .  2.3 | Im Rahmen der Sichtprüfung sind die |
-| https://update.kbv.de/ita-update/Stammdateien/. | 2.4 |
+| . **2.3** | Im Rahmen der Sichtprüfung sind die |
+| https://update.kbv.de/ita-update/Stammdateien/. | **2.4** |
 | Im Rahmen der Sichtprüfung werden am Zertifizierungsgegenstand Versichertenkarten (KVK und eGK)  Bei Systemen mit APK wird die Sichtprüfung mit dem Konnektorsimulator (KoPS | › |
 | › › | Die Dateinamen der |
-| Ausnahme: Antragsteller für Zertifizierungsgegenstände ohne Arzt 2.5 | Der Antragsteller muss während der Sichtprüfung auch ein mobiles Kartenlesegerät bereitstellen und |
-| Die KVKs werden vor der Prüfung von der KBV  Ausnahme: Antragsteller für Zertifizierungsgegenstände ohne Arzt | 2.6 |
-| Der Antragsteller muss die Erstellun g von Screenshots sowie von PDF -Dokumenten für den Ausdruck des  2.7 | Das Abrechnungsquartal ist das aktuelle Quartal, in dem die Sichtprüfung stattfindet. |
-| Ausnahme: Antragsteller für Zertifizierungsgegenstände ohne Arzt Der Antragsteller hat das entsprechende XPM-Prüfmodul vor der Sichtprüfung einzubinden und im Rahmen |  |
-| zu verschlüsseln. | 2.2.3 .  2.4 Im Rahmen der Sichtprüfung werden am Zertifizierungsgegenstand Versichertenkarten (KVK und eGK)  Bei Systemen mit APK wird die Sichtprüfung mit dem Konnektorsimulator (KoPS  › › › › |
+| **Ausnahme: Antragsteller für Zertifizierungsgegenstände ohne Arzt 2.5** | Der Antragsteller muss während der Sichtprüfung auch ein mobiles Kartenlesegerät bereitstellen und |
+| Die KVKs werden vor der Prüfung von der KBV **Ausnahme: Antragsteller für Zertifizierungsgegenstände ohne Arzt** | **2.6** |
+| Der Antragsteller muss die Erstellun g von Screenshots sowie von PDF -Dokumenten für den Ausdruck des **2.7** | Das Abrechnungsquartal ist das aktuelle Quartal, in dem die Sichtprüfung stattfindet. |
+| **Ausnahme: Antragsteller für Zertifizierungsgegenstände ohne Arzt** Der Antragsteller hat das entsprechende XPM-Prüfmodul vor der Sichtprüfung einzubinden und im Rahmen |  |
+| zu verschlüsseln. | **2.2.3** . **2.4** Im Rahmen der Sichtprüfung werden am Zertifizierungsgegenstand Versichertenkarten (KVK und eGK)  Bei Systemen mit APK wird die Sichtprüfung mit dem Konnektorsimulator (KoPS  › › › › |
 
 Sonstige Vorbereitungen - noch Abrechnungsdaten enthalten. Systemen ohne APK  muss die Möglichkeit der Erfassung von prüfungsfallspezifischen EBM-Ziffern und ICD-10-GM-Kodes in der Sichtprüfung bestehen. Die Verschlüsselungsanleitung (Verschlüsselungsanleitung- STAMMDATEIEN regulären  KBV-Stammdateien zu verwenden. Die sind zu finden unter VERSICHERTENDATEN eingelesen.  3.1) durchgeführt: KoPS 3.1 wird über eine WEB-Schnittstelle bereitgestellt. Die erforderliche URL, welche im PVS eingebunden wird, wird dem Antragsteller im Einladungsschreiben mitgeteilt. Der verwendete KoPS 3.1-Aufrufkontext ist Standard Arbeitsplatz 1 mit Mandant1 ClientID1 Workplace1 Dateistruktur der Versichertenkarten für die Zertifizierung bei der KBV (XML - Versichertendaten) können u.U. von den Vorgaben der gematik Spezifikation abweichen. -Patienten-Kontakt (APK) MOBILE KARTENTERMINALS anschließen können für Prüffälle, die physischen K rankenversichertenkarten (KVK) benötigen.  an den PVS-Hersteller postalisch versendet. -Patienten-Kontakt. SCREENSHOTS Personalienfeldes von vertragsärztlichen Formularen im Rahmen der Sichtprü fung ermöglichen. ABRECHNUNGSDATEI Es muss möglich sein, das Systemdatum zu ändern.  Zudem werden auch Vorquart alsfälle abgerechnet.  -Patienten-Kontakt. der Prüfung die XDT-Datei mit dem XKM-Testschlüssel
 
@@ -342,10 +342,10 @@ Sonstige Vorbereitungen - noch Abrechnungsdaten enthalten. Systemen ohne APK  mu
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
-| Allgemeine Informationen   https://update.kbv.de/ita-update/Allgemein/ | |
+| **Referenz** | **Dokument** |
+| **Allgemeine Informationen  ** https://update.kbv.de/ita-update/Allgemein/ | |
 | [KBV_ITA_RLEX_Zert] | Zertifizierungsrichtlinie der KBV |
-| Stammdaten, Datensatz- und Schnittstellenbeschreibung https://update.kbv.de/ita-update/Stammdateien/ | |
+| **Stammdaten, Datensatz- und Schnittstellenbeschreibung** https://update.kbv.de/ita-update/Stammdateien/ | |
 | KBV_ITA_VGEX_Datensatz_SDEBM | Datensatzbeschreibung EBM-Stammdatei |
 | KBV_ITA_VGEX_Datensatzbeschreibung_KVDT | Datensatzbeschreibung KVDT |
 | KBV_ITA_VGEX_Datensatzbeschreibung_SDAV | Datensatzbeschreibung Arztverzeichnis |
@@ -355,7 +355,7 @@ Sonstige Vorbereitungen - noch Abrechnungsdaten enthalten. Systemen ohne APK  mu
 | KBV_ITA_VGEX_Schnittstelle_SDKT | Datensatzbeschreibung Kostenträger- |
 | KBV_ITA_VGEX_Schnittstelle_SDKRW | Schnittstellenbeschreibung SDKRW |
 | KBV_ITA_VGEX_Schnittstelle_SDVA | Schnittstellenbeschreibung SDVA |
-| KVDT  https://update.kbv.de/ita-update/Abrechnung/ | |
+| **KVDT ** https://update.kbv.de/ita-update/Abrechnung/ | |
 | KBV_ITA_FMEX_AAZ_KVDT_ADT | Antrag auf Zertifizierung ADT |
 | KBV_ITA_FMEX_AAZ_KVDT_KADT | Antrag auf Zertifizierung KADT |
 | KBV_ITA_FMEX_AAZ_KVDT_SADT | Antrag auf Zertifizierung SADT |
@@ -364,7 +364,7 @@ Sonstige Vorbereitungen - noch Abrechnungsdaten enthalten. Systemen ohne APK  mu
 | KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung | Anforderungskatalog Formularbedruckung |
 | KBV_ITA_VGEX_Datensatzbeschreibung | Datensatzbeschreibung KVDT |
 | KBV_ITA_VGEX_Mapping_KVK.pdf | Technische Anlage zu Anlage 4a (BMV- |
-| Kryptomodul  https://update.kbv.de/ita-update/KBV-Software/Kryptomodul/ | |
+| **Kryptomodul ** https://update.kbv.de/ita-update/KBV-Software/Kryptomodul/ | |
 
 (Kodierregelwerk- Stammdatei) (Verschlüsselungsanleitung-Stammdatei) ICD-10-GM Ä/EKV)
 
@@ -375,7 +375,7 @@ Sonstige Vorbereitungen - noch Abrechnungsdaten enthalten. Systemen ohne APK  mu
 | 1 | KVDT Kryptomodul |
 | KBV_ITA_AHEX_Handbuch_Kryptomodul | KVDT Kryptomodul Handbuch |
 | Testschluessel.zip | Testschlüssel  zur Datenverschlüsselung der |
-| 1-Click Abrechnung  https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/ | |
+| **1-Click Abrechnung ** https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/ | |
 | Spezifikation KV-Connect Anwendungsdienst 1-Click- | Spezifikation KV-Connect |
 | Begleitdatei_1ClickAbrechnung.zip | Dokumentation und Schema zur |
 | Sammelerklaerung.zip | Dokumentation und Schema zur |

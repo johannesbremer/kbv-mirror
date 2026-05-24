@@ -98,17 +98,16 @@ Seite 2 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 20
 
 ---
 
-|  |  | ABBILDUNGSVERZEICHNIS | | |  |  |
-|---|---|---|---|---|---|---|
-| Abbildung | 1: | Exemplarische |  | Verzeichnisstruktur | für die | Zertifizierung |
-| Abbildung | 2: | Exemplarische | Struktur | der | **Archivdatei** | mit den Prüfunterlagen |
-| Abbildung | 3: |  | Testdatenvalidierung |  |  |  |
-| Abbildung | 4: | Exemplarische |  | Verzeichnisstruktur | für die | Testdatenvalidierung |
-| Seite 3 | von 44 / KBV | / Pruefpaket | DMP-Brustkrebs | / Version: | 4.28 / 14. | August 2024 |
+## ABBILDUNGSVERZEICHNIS
 
-8  8  38  39
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung 2: Exemplarische Struktur der  Abbildung 3: Testdatenvalidierung
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung 2: Exemplarische Struktur der Abbildung 3: Testdatenvalidierung Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
+Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
+
+**Archivdatei** mit den Prüfunterlagen 8  8  38
+
+39
+
 
 ---
 
@@ -451,23 +450,30 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 
 ntwickelten Prüfstammdateien verwendet
 
-| **INHALT** |  |  |
-|---|---|---|
-| 391234511 |  |  |
-| 8383822nn | (nn ist | variabel) |
-| Dr. med. | Hans | Topp-Glücklich |
-| Musterstr. |  |  |
-| 1 |  |  |
-| 64283 | Darmstadt |  |
-| 06151 / | 1111111 |  |
-| 06151 / | 2222222 |  |
-| siehe | Prüffälle | (Datum der Erstellung) |
+**INHALT**
+
+391234511
+
+8383822nn (nn ist variabel)
+
+Dr. med. Hans Topp-Glücklich
+
+Musterstr.
+
+1
+
+64283 Darmstadt
+
+06151 / 1111111
+
+06151 / 2222222
+
+siehe Prüffälle (Datum der Erstellung)
 
 Verwendung des  -Kryptomodul (XKM)
 
 eingesetzt
 
-8383822nn (nn ist variabel) Dr. med. Hans Topp-Glücklich 64283 Darmstadt 06151 / 1111111 06151 / 2222222 siehe Prüffälle (Datum der Erstellung)
 
 ---
 

@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  31. MÄRZ 2026   VERSION: 1.00   DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  31. MÄRZ 2026   VERSION: 1.00   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # PRÜFPAKET EDMP- ADIPOSITAS -
@@ -148,7 +148,7 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.00 | 31.03.2026 | KBV | Dokumenterstellung | Initiale Erstellung | Alle |
 
@@ -405,31 +405,31 @@ Dateien sind folgendermaßen aufgebaut:
 
 Folgende Angaben sind für die Zertifizierung zu verwenden:
 
-| BEZEICHNUNG | INHALT |
+| **BEZEICHNUNG** | **INHALT** |
 |---|---|
-| Betriebsstättennummer (BSNR) | 391234511 |
-| BSNR-Bezeichnung | Praxis Dr. med. Heribert Topp |
-| Lebenslange Arztnummer (LANR) | 838382202 |
-| Arztname | Dr. med. Hans Topp-Glücklich |
-| Straße | Musterstr. |
-| Hausnummer | 1 |
-| PLZ/Ort | 64283 Darmstadt |
-| Telefon | 06151 / 1111111 |
-| Telefax | 06151 / 2222222 |
+| **Betriebsstättennummer (BSNR)** | 391234511 |
+| **BSNR-Bezeichnung** | Praxis Dr. med. Heribert Topp |
+| **Lebenslange Arztnummer (LANR)** | 838382202 |
+| **Arztname** | Dr. med. Hans Topp-Glücklich |
+| **Straße** | Musterstr. |
+| **Hausnummer** | 1 |
+| **PLZ/Ort** | 64283 Darmstadt |
+| **Telefon** | 06151 / 1111111 |
+| **Telefax** | 06151 / 2222222 |
 
 ### 1.6.6 Krankenhausdaten
 
 Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der Begleitdatei als Absender bzw.  dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. Für die Angabe des dokumen - tierenden Arztes, der auch hier genannt werden muss, ist der oben genannte Arztname zu verwenden. Herr  Topp-Glücklich ist also für die „Krankenhausfälle“ Angestellter des Krankenhauses und betreut den  Patienten im DMP. Es soll hier seine Telefonnummer angegeben werden. Die Vertragsarztnummer spielt  hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind demzufolge zwei Absender (Kranken - haus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete und zwei Begleitdateien einzu - reichen.
 
-| BEZEICHNUNG | INHALT |
+| **BEZEICHNUNG** | **INHALT** |
 |---|---|
-| Krankenhaus-IK | 856215715 |
-| Name des Krankenhauses | Test-Krankenhaus, Pneumologie |
-| Straße | Am Wehr |
-| Hausnummer | 20 |
-| Postleitzahl und Ort | 10437 Berlin |
-| Telefon | 06151 / 1111111 |
-| Telefax | 06151 / 2222222 |
+| **Krankenhaus-IK** | 856215715 |
+| **Name des Krankenhauses** | Test-Krankenhaus, Pneumologie |
+| **Straße** | Am Wehr |
+| **Hausnummer** | 20 |
+| **Postleitzahl und Ort** | 10437 Berlin |
+| **Telefon** | 06151 / 1111111 |
+| **Telefax** | 06151 / 2222222 |
 
 ### 1.6.7 Prüfnummer
 
@@ -446,11 +446,11 @@ Der Empfänger der elektronischen Dokumentationen muss, soweit möglich, automat
 
 Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
-| PRÜFFALL-ID | NAME | VERZEICHNISNAME |
+| **PRÜFFALL-ID** | **NAME** | **VERZEICHNISNAME** |
 |---|---|---|
-| 2211 | Gertrud Zimmerpflanze | Ersatzverfahren |
-| 2212 | John Bayer | Ersatzverfahren |
-| 2240 | Lija Malta | Ersatzverfahren |
+| **2211** | Gertrud Zimmerpflanze | Ersatzverfahren |
+| **2212** | John Bayer | Ersatzverfahren |
+| **2240** | Lija Malta | Ersatzverfahren |
 
 beliebiger Empfänger
 
@@ -460,34 +460,34 @@ beliebiger Empfänger
 
 2 PRÜFFÄLLE
 
-| INDIKATIONSÜBERGREIFENDE DATEN | | |
+| **INDIKATIONSÜBERGREIFENDE DATEN** | | |
 |---|---|---|
-|  | Erstdokumentation | Folgedokumentation |
-| Administrative Daten | | |
+|  | **Erstdokumentation** | **Folgedokumentation** |
+| **Administrative Daten** | | |
 | DMP-Fallnummer | 2211 | 2211 |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum der Erstellung (siehe Kap. 1.6.2) | 15.mm.jjjj | 15.mm.jjjj |
 | Einschreibung wegen | Adipositas - Kinder und | Adipositas - Kinder und |
 | Geschlecht | Weiblich | Weiblich |
-| Allgemeine Anamnese- und Befunddaten | | |
+| **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 1,23 m | 1,23 m |
 | Körpergewicht | 30 kg | 35 kg |
 | Blutdruck (systolisch / diastolisch) | 50 / 30 mmHg | 120 / 90 mmHg |
 | Raucher | Nein | Ja |
 | Begleiterkrankungen | Diabetes mellitus | Diabetes mellitus |
-| Behandlungsplanung | | |
-| 2.1 |  |  |
+| **Behandlungsplanung** | | |
+| **2.1** |  |  |
 |  |  |  |
 |  |  |  |
 
 |  |  |
 |---|---|
-| Prüffall-ID | 2211 |
-| Testziel | › |
-| Voraussetzung | › |
-| Einzureichende  Prüfunterlagen | › |
-| Hinweis | › |
+| **Prüffall-ID** | 2211 |
+| **Testziel** | › |
+| **Voraussetzung** | › |
+| **Einzureichende  Prüfunterlagen** | › |
+| **Hinweis** | › |
 
 Anlage einer Erst- und einer Folgedokumentation Patientin ist zum Datum der Erstdokumentation 6 Jahre alt (Geburtsdatum liegt 6 Jahre vor Datum der Erstdokumentation) e DMP Adipositas - Kinder und Jugendliche Dokumentationsunterlagen PRÜFFÄLLE DOKUMENTATION 2.1.1 Prüffall 2211 Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten Die Versichertendaten von Gertrud Zimmerpflanze ( Ersatzverfahren – Anhang 4.1  sind im Ersatzverfahren zu erfassen. Jugendliche Jugendliche
 
@@ -518,10 +518,10 @@ gewünschte Informationsangebote der Krankenkasse
 
 ---
 
-| INDIKATIONSPEZIFISCHE | | |
+| **INDIKATIONSPEZIFISCHE** | | |
 |---|---|---|
-|  | Erstdokumentation | Folgedokumentation |
-| Therapeutische Maßnahmen | | |
+|  | **Erstdokumentation** | **Folgedokumentation** |
+| **Therapeutische Maßnahmen** | | |
 | BMI-SDS | 1,92 | 2,65 |
 | Ziele zur regelmäßigen Bewegung im Alltag | Ziele vereinbart |  |
 | Ziele zur regelmäßigen Bewegung im Alltag |  | Keine Ziele vereinbart |
@@ -529,11 +529,11 @@ gewünschte Informationsangebote der Krankenkasse
 | Ziele zur Ernährungsumstellung oder zur | Ziele vereinbart |  |
 | Ziele zur Ernährungsumstellung oder zur |  | Keine Ziele vereinbart |
 | Adäquat geändertes Ernährungsverhalten | Ja | Nein |
-| Schulung | | |
+| **Schulung** | | |
 | Bereits vor Einschreibung in das DMP an einer | Ja |  |
 | Adipositas-Schulung für Kinder und | Ja | Nein |
 | Adipositas-Schulung für Kinder und |  | Ja |
-| Relevante Ereignisse seit der letzten Dokumentation | | |
+| **Relevante Ereignisse seit der letzten Dokumentation** | | |
 | Beendigung der DMP |  | Nein |
 
 DATEN Aufrechterhaltung der Ernährungsänderung Aufrechterhaltung der Ernährungsänderung multimodalen Adipositas-Schulung für Kinder und Jugendliche teilgenommen Jugendliche empfohlen (bei aktueller Dokumentation) Jugendliche wahrgenommen -Teilnahme oder überprüft oder überprüft
@@ -544,11 +544,11 @@ DATEN Aufrechterhaltung der Ernährungsänderung Aufrechterhaltung der Ernährun
 
 |  |  |
 |---|---|
-| Prüffall-ID | 2212 |
-| Testziel | › |
-| Voraussetzung | › |
-| Prüfunterlagen | › |
-| Hinweis | › |
+| **Prüffall-ID** | 2212 |
+| **Testziel** | › |
+| **Voraussetzung** | › |
+| **Prüfunterlagen** | › |
+| **Hinweis** | › |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -558,23 +558,23 @@ Die Versichertendaten von **John Bayers** (Ersatzverfahren - Anhang 4.2) sind im
 
 zu erfassen.
 
-| INDIKATIONSÜBERGREIFENDE DATEN | | |
+| **INDIKATIONSÜBERGREIFENDE DATEN** | | |
 |---|---|---|
-|  | Erstdokumentation | Folgedokumentation |
-| Administrative Daten | | |
+|  | **Erstdokumentation** | **Folgedokumentation** |
+| **Administrative Daten** | | |
 | DMP-Fallnummer | 2212 | 2212 |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum der Erstellung (siehe Kap. 1.6.2) | 15.mm.jjjj | 15.mm.jjjj |
 | Einschreibung wegen | Adipositas - Kinder und | Adipositas - Kinder und |
 | Geschlecht | Männlich | Männlich |
-| Allgemeine Anamnese- und Befunddaten | | |
+| **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 1,73 m | 1,73 m |
 | Körpergewicht | 146 kg | 156 kg |
 | Blutdruck (systolisch / diastolisch) | 50 / 30 mmHg | 120 / 90 mmHg |
 | Raucher | Nein | Ja |
 | Begleiterkrankungen | Diabetes mellitus | Diabetes mellitus |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Vom Patienten gewünschte | Ernährungsberatung | Tabakverzicht |
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung (Behandlungsdatum) | 15.mm.jjjj | 15.mm.jjjj |
@@ -583,10 +583,10 @@ Anlage einer Erst- und einer Folgedokumentation Patient ist zum Datum der Erstdo
 
 ---
 
-| INDIKATIONSPEZIFISCHE DATEN | | |
+| **INDIKATIONSPEZIFISCHE DATEN** | | |
 |---|---|---|
-|  | Erstdokumentation | Folgedokumentation |
-| Therapeutische Maßnahmen | | |
+|  | **Erstdokumentation** | **Folgedokumentation** |
+| **Therapeutische Maßnahmen** | | |
 | BMI-SDS | 3,62 | 3,78 |
 | Ziele zur regelmäßigen Bewegung im Alltag | Keine Ziele vereinbart |  |
 | Ziele zur regelmäßigen Bewegung im Alltag |  | Ziele vereinbart oder |
@@ -594,11 +594,11 @@ Anlage einer Erst- und einer Folgedokumentation Patient ist zum Datum der Erstdo
 | Ziele zur Ernährungsumstellung oder zur | Keine Ziele vereinbart |  |
 | Ziele zur Ernährungsumstellung oder zur |  | Ziele vereinbart oder |
 | Adäquat geändertes Ernährungsverhalten | Ja | Nein |
-| Schulung | | |
+| **Schulung** | | |
 | Bereits vor Einschreibung in das DMP an einer | Ja |  |
 | Adipositas-Schulung für Kinder und | Ja | Nein |
 | Adipositas-Schulung für Kinder und |  | War aktuell nicht |
-| Relevante Ereignisse seit der letzten Dokumentation | | |
+| **Relevante Ereignisse seit der letzten Dokumentation** | | |
 | Beendigung der DMP |  | Nein |
 
 Aufrechterhaltung der Ernährungsänderung Aufrechterhaltung der Ernährungsänderung multimodalen Adipositas-Schulung für Kinder und Jugendliche teilgenommen Jugendliche empfohlen (bei aktueller Dokumentation) Jugendliche wahrgenommen -Teilnahme überprüft überprüft möglich
@@ -611,11 +611,11 @@ Aufrechterhaltung der Ernährungsänderung Aufrechterhaltung der Ernährungsänd
 
 |  |  |
 |---|---|
-| Prüffall-ID | 2214 |
-| Testziel | › |
-| Voraussetzung | › |
-| Prüfunterlagen | ›   › |
-| Hinweis | › |
+| **Prüffall-ID** | 2214 |
+| **Testziel** | › |
+| **Voraussetzung** | › |
+| **Prüfunterlagen** | ›   › |
+| **Hinweis** | › |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -625,17 +625,17 @@ Die Personalien zu dem Testfall sind frei wählbar.
 
 - **2.** **Anlegen einer Erstdokumentation**
 
-| INDIKATIONSÜBERGREIFENDE DATEN | | |
+| **INDIKATIONSÜBERGREIFENDE DATEN** | | |
 |---|---|---|
-|  | Erstdokumentation | Aktion |
-| Administrative Daten | | |
+|  | **Erstdokumentation** | **Aktion** |
+| **Administrative Daten** | | |
 | DMP-Fallnummer | 2214 |  |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum der Erstellung (siehe Kap. 1.6. | 15.mm.jjjj |  |
 | Einschreibung wegen | Adipositas - Kinder und |  |
 | Geschlecht | Männlich |  |
-| Allgemeine Anamnese- und Befunddaten | | |
+| **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 1,50 m |  |
 | Körpergewicht | 200 kg | Nr. 1 |
 | Blutdruck | 120 / 90 mmHg |  |
@@ -658,34 +658,34 @@ Kontrolle der softwareseitigen Erkennung von Fehleingaben Patient ist zum Datum 
 |  |  |  |
 | Nein |  |  |
 | Ja |  |  |
-| 3. |  |  |
-|  | Aktion | Therapeutische Maßnahmen |
+| **3.** |  |  |
+|  | **Aktion** | **Therapeutische Maßnahmen** |
 |  | | |
 |  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Vom Patienten gewünschte Informationsangebote |  |  |
 | Dokumentationsintervall | Quartalsweise |  |
 | Datum der Erstellung (siehe Kap. 1.6. | 15.mm.jjjj |  |
 
-der Krankenkasse 2) INDIKATIONSSPEZIFISCHE DATEN BMI-SDS Ziele zur regelmäßigen Bewegung im Alltag Ziele zur regelmäßigen Bewegung im Alltag seit der letzten Dokumentation Regelmäßige Bewegung im Alltag Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung Adäquat geändertes Ernährungsverhalten Schulung Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung für Kinder und Jugendliche teilgenommen Adipositas-Schulung für Kinder und Jugendliche empfohlen (bei aktueller Dokumentation) Adipositas-Schulung für Kinder und Jugendliche wahrgenommen Relevante Ereignisse seit der letzten Dokumentation Manifester Diabetes mellitus Typ 2 Beendigung der DMP -Teilnahme Korrektur der Daten der Erstdokumentation mit beliebigen Werten, Erstdokumentation abgeschlossen werden kann. Erstdokumentation 4,13 Ziele vereinbart Keine Ziele vereinbart oder überprüft ketogene Ernährung damit die Nr. 2 Nr. 3 Nr. 4 Nr. 5 Nr. 6 Nr. 7 Nr. 8 Nr. 9 Nr. 10 | INDIKATIONSSPEZIFISCHE DATEN | | |
+der Krankenkasse 2) INDIKATIONSSPEZIFISCHE DATEN BMI-SDS Ziele zur regelmäßigen Bewegung im Alltag Ziele zur regelmäßigen Bewegung im Alltag seit der letzten Dokumentation Regelmäßige Bewegung im Alltag Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung Adäquat geändertes Ernährungsverhalten Schulung Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung für Kinder und Jugendliche teilgenommen Adipositas-Schulung für Kinder und Jugendliche empfohlen (bei aktueller Dokumentation) Adipositas-Schulung für Kinder und Jugendliche wahrgenommen Relevante Ereignisse seit der letzten Dokumentation Manifester Diabetes mellitus Typ 2 Beendigung der DMP -Teilnahme Korrektur der Daten der Erstdokumentation mit beliebigen Werten, Erstdokumentation abgeschlossen werden kann. Erstdokumentation 4,13 Ziele vereinbart Keine Ziele vereinbart oder überprüft ketogene Ernährung damit die Nr. 2 Nr. 3 Nr. 4 Nr. 5 Nr. 6 Nr. 7 Nr. 8 Nr. 9 Nr. 10 | **INDIKATIONSSPEZIFISCHE DATEN** | | |
 |---|---|---|
-|  | Erstdokumentation | Aktion |
-| Therapeutische Maßnahmen | | |
+|  | **Erstdokumentation** | **Aktion** |
+| **Therapeutische Maßnahmen** | | |
 | BMI-SDS | 4,13 | Nr. 2 |
 | Ziele zur regelmäßigen Bewegung im Alltag | Ziele vereinbart | Nr. 3 |
 | Ziele zur regelmäßigen Bewegung im Alltag seit der | Keine Ziele vereinbart | Nr. 4 |
 | Regelmäßige Bewegung im Alltag | Ja |  |
 | Ziele zur Ernährungsumstellung oder zur | Nein | Nr. 5 |
 | Adäquat geändertes Ernährungsverhalten | ketogene Ernährung | Nr. 6 |
-| Schulung | | |
+| **Schulung** | | |
 | Bereits vor Einschreibung in das DMP an einer | Unbekannt | Nr. 7 |
 | Adipositas-Schulung für Kinder und Jugendliche | Ja |  |
 | Adipositas-Schulung für Kinder und | Unbekannt | Nr. 8 |
-| Relevante Ereignisse seit der letzten Dokumentation | | |
+| **Relevante Ereignisse seit der letzten Dokumentation** | | |
 | Manifester Diabetes mellitus Typ 2 | Nein | Nr. 9 |
 | Beendigung der DMP | Ja | Nr. 10 |
 
@@ -694,33 +694,33 @@ der Krankenkasse 2) INDIKATIONSSPEZIFISCHE DATEN BMI-SDS Ziele zur regelmäßige
 
 - **4.** **Anlegen einer Folgedokumentation**
 
-| INDIKATIONSÜBERGREIFENDE DATEN | | |
+| **INDIKATIONSÜBERGREIFENDE DATEN** | | |
 |---|---|---|
-|  | Folgedokumentation | Aktion |
-| Administrative Daten | | |
+|  | **Folgedokumentation** | **Aktion** |
+| **Administrative Daten** | | |
 | DMP-Fallnummer | 2214 |  |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung |  |  |
 | Datum der Erstellung (siehe Kap. 1.6. | 15.mm.jjjj |  |
 | Einschreibung wegen | Adipositas - Kinder und |  |
 | Geschlecht | Männlich |  |
-| Allgemeine Anamnese- und Befunddaten | | |
+| **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 2,00 m |  |
 | Körpergewicht | 160 kg | Nr. 11 |
 | Blutdruck | 124 / 79 mmHg |  |
 | Raucher | Nein |  |
 | Begleiterkrankungen | Chronische |  |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Vom Patienten gewünschte Informationsangebote | Tabakverzicht,  Körperliches Training |  |
 | Dokumentationsintervall | Quartalsweise |  |
 | Datum der Erstellung (siehe Kap. 1.6. | 15.mm.jjjj |  |
 
 -
 
-| INDIKATIONSSPEZIFISCHE DATEN | | |
+| **INDIKATIONSSPEZIFISCHE DATEN** | | |
 |---|---|---|
-|  | Verlaufsdokumentation | Aktion |
-| Therapeutische Maßnahmen | | |
+|  | **Verlaufsdokumentation** | **Aktion** |
+| **Therapeutische Maßnahmen** | | |
 | BMI-SDS | 3.13 | Nr. 12 |
 | Ziele zur regelmäßigen Bewegung im Alltag | Ziele vereinbart | Nr. 13 |
 | Ziele zur regelmäßigen Bewegung im Alltag seit der |  | Nr. 14 |
@@ -750,11 +750,11 @@ erstellt 2) der Krankenkasse 2) Jugendliche Herzinsuffizienz, Asthma bronchiale 
 | Ziele zur Ernährungsumstellung oder zur | Ziele vereinbart | Nr. 15 |
 | Ziele zur Ernährungsumstellung oder zur | Keine Ziele vereinbart |  |
 | Adäquat geändertes Ernährungsverhalten | Nein |  |
-| Schulung | | |
+| **Schulung** | | |
 | Bereits vor Einschreibung in das DMP an einer | Ja | Nr. 16 |
 | Adipositas-Schulung für Kinder und Jugendliche | Ja |  |
 | Adipositas-Schulung für Kinder und Jugendliche |  | Nr. 17 |
-| Relevante Ereignisse seit der letzten Dokumentation | | |
+| **Relevante Ereignisse seit der letzten Dokumentation** | | |
 | Beendigung der DMP | Ja | Nr. 18 |
 
 Aufrechterhaltung der Ernährungsänderung Aufrechterhaltung der Ernährungsänderung seit der multimodalen Adipositas-Schulung für Kinder und Jugendliche teilgenommen empfohlen (bei aktueller Dokumentation) wahrgenommen -Teilnahme
@@ -767,39 +767,39 @@ Aufrechterhaltung der Ernährungsänderung Aufrechterhaltung der Ernährungsänd
 
 |  |  |
 |---|---|
-| Prüffall-ID | 2230 |
-| Testziel | eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
-| Voraussetzung | › |
-| Prüfunterlagen | nach einer möglichen Hinweissteuerung. |
-| Hinweis | › |
+| **Prüffall-ID** | 2230 |
+| **Testziel** | eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
+| **Voraussetzung** | › |
+| **Prüfunterlagen** | nach einer möglichen Hinweissteuerung. |
+| **Hinweis** | › |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-| SZENARIEN |
-|---|
-| Szenario 1 |
-| Es wird eine Folgedokumentation |
-| Szenario 2 |
-| Es wird eine Folgedokumentation angelegt. In der vorherigen Folgedokumentation wurde bei  Zeigen Sie die Systemreaktion.   Mit diesem Szenario soll die korrekte Umsetzung der |
-| Szenario 3 |
-| Bitte öffnen Sie die  Ändern Sie das Körpergewicht nacheinander zu den folgenden Werten Zeigen Sie jeweils den berechneten BMI   1. 2. 3. 4. 5. |
-|  |
-|  |
+\| **SZENARIEN** |
+\|---|
+\| **Szenario 1** |
+\| Es wird eine Folgedokumentation |
+\| **Szenario 2** |
+\| Es wird eine Folgedokumentation angelegt. In der vorherigen Folgedokumentation wurde bei  Zeigen Sie die Systemreaktion.   Mit diesem Szenario soll die korrekte Umsetzung der |
+\| **Szenario 3** |
+\| Bitte öffnen Sie die  Ändern Sie das Körpergewicht nacheinander zu den folgenden Werten Zeigen Sie jeweils den berechneten BMI   1. 2. 3. 4. 5. |
+\|  |
+\|  |
 
 Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges Dokumentieren Sie durch Video s die Eingaben einschließlich der Ergebnisse Dieser Testfall ist unterteilt in 5 Szenarien  angelegt. Zeigen Sie, wie das System die Datenübernahme aus einer vorherigen Dokumentation, gemäß Anforderung P1 -50  (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP), vornimmt.  dem Parameter „Beendigung der DMP-Teilnahme“ die Angabe „Ja“ gemacht. Anforderung KP1-26  (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP ) überprüft werden. bestehende Verlaufsdokumentation des Prüffalles 2214.  -SDS Wert und die zugehörigen Hinweismeldungen gemäß Anforderung KP2 -610  (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP Bei dem Parameter „Körpergewicht“ wird die Angabe „ 115“ gemacht. Zeigen Sie die Bei dem Parameter „Körpergewicht“ wird die Angabe „ 300“ gemacht. Zeigen Sie die Bei dem Parameter „Körpergewicht“ wird die Angabe „ 240“ gemacht. Zeigen Sie die Bei dem Parameter „Körpergewicht“ wird die Angabe „ 480“ gemacht. Zeigen Sie die Bei dem Parameter „Körpergewicht“ wird die Angabe „ 65“ gemacht. Zeigen Sie die
 
 ---
 
-|  |
-|---|
-|  |
-| Bei dem Parameter „Einschreibung wegen |
-|  |
-| 3. |
-|  |
-| Szenario 4 |
-| SZENARIEN |
-| 6. 7. |
+\|  |
+\|---|
+\|  |
+\| Bei dem Parameter „Einschreibung wegen |
+\|  |
+\| 3. |
+\|  |
+\| **Szenario 4** |
+\| **SZENARIEN** |
+\| 6. 7. |
 
 Mit diesem Szenario soll die korrekte Umsetzung der **Anforderung KP2-610 AK4 sowie der**
 
@@ -807,11 +807,11 @@ Mit diesem Szenario soll die korrekte Umsetzung der **Anforderung KP2-610 AK4 so
 
 werden.
 
-Bei dem Parameter „Körpergewicht“ wird die Angabe „ 85“ gemacht. Zeigen Sie die Systemreaktion.  Bei dem Parameter „Körpergewicht“ wird die Angabe „ 105“ gemacht. Zeigen Sie die Systemreaktion.  1. Bitte legen Sie eine neue Erstdokumentation „Adipositas - Kinder und Jugendliche“ für einen Patienten an, welcher 19 Jahre alt ist. Zeigen Sie das Systemverhalten. 2. Bitte legen Sie eine neue Erstdokumentation „Adipositas - Kinder und Jugendliche“ für einen Patienten an, welcher 3 Jahre alt ist. Zeigen Sie das Systemverhalten. Mit diesem Szenario soll die korrekte Umsetzung der übergreifenden Plausibilitäten überprüft werden.  Szenario 5 1. Bitte legen Sie für einen beliebigen Patienten eine Erstdokumentation an, in welcher der Patient 17,5 Jahre alt ist. Legen Sie anschließend für den gleichen Patienten Folgedokumentation en an, bis der Patient der aktuellen Folgedokumentation 19 Jahre alt ist.  Zeigen Sie das Systemverhalten. 2. Legen Sie anschließend für den gleichen Patienten eine weitere Folgedokumentationen an, in welcher der Patient 20 Jahre alt ist.  “ muss die Angabe „Adipositas - Kinder und Jugendliche“ sowie „Adipositas - Erwachsene“ gemacht werden. Zeigen Sie das Systemverhalten. Legen Sie anschließend für den gleichen Patienten weitere Folgedokumentationen an, bis der Patient über 21 Jahre alt ist. Zeigen Sie das Systemverhalten. | Szenario 4 |
-|---|
+Bei dem Parameter „Körpergewicht“ wird die Angabe „ 85“ gemacht. Zeigen Sie die Systemreaktion.  Bei dem Parameter „Körpergewicht“ wird die Angabe „ 105“ gemacht. Zeigen Sie die Systemreaktion.  1. Bitte legen Sie eine neue Erstdokumentation „Adipositas - Kinder und Jugendliche“ für einen Patienten an, welcher 19 Jahre alt ist. Zeigen Sie das Systemverhalten. 2. Bitte legen Sie eine neue Erstdokumentation „Adipositas - Kinder und Jugendliche“ für einen Patienten an, welcher 3 Jahre alt ist. Zeigen Sie das Systemverhalten. Mit diesem Szenario soll die korrekte Umsetzung der übergreifenden Plausibilitäten überprüft werden.  Szenario 5 1. Bitte legen Sie für einen beliebigen Patienten eine Erstdokumentation an, in welcher der Patient 17,5 Jahre alt ist. Legen Sie anschließend für den gleichen Patienten Folgedokumentation en an, bis der Patient der aktuellen Folgedokumentation 19 Jahre alt ist.  Zeigen Sie das Systemverhalten. 2. Legen Sie anschließend für den gleichen Patienten eine weitere Folgedokumentationen an, in welcher der Patient 20 Jahre alt ist.  “ muss die Angabe „Adipositas - Kinder und Jugendliche“ sowie „Adipositas - Erwachsene“ gemacht werden. Zeigen Sie das Systemverhalten. Legen Sie anschließend für den gleichen Patienten weitere Folgedokumentationen an, bis der Patient über 21 Jahre alt ist. Zeigen Sie das Systemverhalten. | **Szenario 4** |
+\|---|
 
-| Szenario 5 |
-|---|
+\| **Szenario 5** |
+\|---|
 
 
 ---
@@ -820,11 +820,11 @@ Bei dem Parameter „Körpergewicht“ wird die Angabe „ 85“ gemacht. Zeigen
 
 |  | |
 |---|---|
-| Prüffall-ID | 2240 |
-| Testziel | eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
-| Voraussetzung |  |
-| Prüfunterlagen | PDF-Datei „TE_EWE_ADKJ.pdf“ der indikationsübergreifenden Teilnahme- |
-| Hinweis | Falls Ihr System die optionale Anforderung O |
+| **Prüffall-ID** | 2240 |
+| **Testziel** | eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | PDF-Datei „TE_EWE_ADKJ.pdf“ der indikationsübergreifenden Teilnahme- |
+| **Hinweis** | Falls Ihr System die optionale Anforderung O |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -840,7 +840,7 @@ zu erfassen.
 
 |  |  |
 |---|---|
-| Administrative Daten |  |
+| **Administrative Daten** |  |
 | DMP | Adipositas - Kinder und Jugendliche |
 | DMP-Fallnummer | 2240 |
 | Datum | 15.10.2026 |
@@ -898,28 +898,28 @@ XKM-Datei
 
 **4.1** **PRÜFFALL 2211 – ERSATZVERFAHREN**
 
-| PERSONALIEN | | |
+| **PERSONALIEN** | | |
 |---|---|---|
-| 3100 | Namenszusatz |  |
-| 3120 | Vorsatzwort |  |
-| 3101 | Name | Zimmerpflanze |
-| 3102 | Vorname | Gertrud |
-| 3103 | Geburtsdatum | [6 Jahre vor Datum der Erstdokumentation] (Bsp.: |
-| 3104 | Titel |  |
-| 3119 | Versicherten_ID | A 123456789 |
-| 3107 | Straße | Meisterstraße |
-| 3109 | Hausnummer | 42 |
-| 3112 | PLZ | 23774 |
-| 3114 | Wohnsitzländercode |  |
-| 3113 | Ort | Heiligenhafen |
-| 3116 | WOP | 17 |
-| 3108 | Versichertenart | 1 |
-| 3110 | Geschlecht | W |
-| 4133 | Versicherungsschutz Beginn |  |
-| 4110 | Versicherungsschutz Ende |  |
-| 4111 | Kostentraegerkennung | 101577500 |
-| 4131 | BesonderePersonengruppe | 00 |
-| 4132 | DMP_Kennzeichnung | 13 |
+| **3100** | **Namenszusatz** |  |
+| **3120** | **Vorsatzwort** |  |
+| **3101** | **Name** | Zimmerpflanze |
+| **3102** | **Vorname** | Gertrud |
+| **3103** | **Geburtsdatum** | [6 Jahre vor Datum der Erstdokumentation] (Bsp.: |
+| **3104** | **Titel** |  |
+| **3119** | **Versicherten_ID** | A 123456789 |
+| **3107** | **Straße** | Meisterstraße |
+| **3109** | **Hausnummer** | 42 |
+| **3112** | **PLZ** | 23774 |
+| **3114** | **Wohnsitzländercode** |  |
+| **3113** | **Ort** | Heiligenhafen |
+| **3116** | **WOP** | 17 |
+| **3108** | **Versichertenart** | 1 |
+| **3110** | **Geschlecht** | W |
+| **4133** | **Versicherungsschutz Beginn** |  |
+| **4110** | **Versicherungsschutz Ende** |  |
+| **4111** | **Kostentraegerkennung** | 101577500 |
+| **4131** | **BesonderePersonengruppe** | 00 |
+| **4132** | **DMP_Kennzeichnung** | 13 |
 
 Erstdokumentation am 15.10.2026, Geburtsdatum 15.10.2020)
 
@@ -927,28 +927,28 @@ Erstdokumentation am 15.10.2026, Geburtsdatum 15.10.2020)
 
 **4.2** **PRÜFFALL 2212 – ERSATZVERFAHREN**
 
-| PERSONALIEN | | |
+| **PERSONALIEN** | | |
 |---|---|---|
-| 3100 | Namenszusatz |  |
-| 3120 | Vorsatzwort |  |
-| 3101 | Name | John |
-| 3102 | Vorname | Bayers |
-| 3103 | Geburtsdatum | [15,5 Jahre vor Datum der Erstdokumentation] |
-| 3104 | Titel |  |
-| 3119 | Versicherten_ID | A876556789 |
-| 3107 | Straße | Hauptstraße |
-| 3109 | Hausnummer | 13 |
-| 3112 | PLZ | 22885 |
-| 3114 | Wohnsitzländercode |  |
-| 3113 | Ort | Hamburg |
-| 3116 | WOP | 17 |
-| 3108 | Versichertenart | 1 |
-| 3110 | Geschlecht | M |
-| 4133 | Versicherungsschutz Beginn |  |
-| 4110 | Versicherungsschutz Ende |  |
-| 4111 | Kostentraegerkennung | 101577500 |
-| 4131 | BesonderePersonengruppe | 00 |
-| 4132 | DMP_Kennzeichnung | 00 |
+| **3100** | **Namenszusatz** |  |
+| **3120** | **Vorsatzwort** |  |
+| **3101** | **Name** | John |
+| **3102** | **Vorname** | Bayers |
+| **3103** | **Geburtsdatum** | [15,5 Jahre vor Datum der Erstdokumentation] |
+| **3104** | **Titel** |  |
+| **3119** | **Versicherten_ID** | A876556789 |
+| **3107** | **Straße** | Hauptstraße |
+| **3109** | **Hausnummer** | 13 |
+| **3112** | **PLZ** | 22885 |
+| **3114** | **Wohnsitzländercode** |  |
+| **3113** | **Ort** | Hamburg |
+| **3116** | **WOP** | 17 |
+| **3108** | **Versichertenart** | 1 |
+| **3110** | **Geschlecht** | M |
+| **4133** | **Versicherungsschutz Beginn** |  |
+| **4110** | **Versicherungsschutz Ende** |  |
+| **4111** | **Kostentraegerkennung** | 101577500 |
+| **4131** | **BesonderePersonengruppe** | 00 |
+| **4132** | **DMP_Kennzeichnung** | 00 |
 
 (Bsp.: Erstdokumentation am Geburtsdatum 15.04.2011) 15.10.2026,
 
@@ -956,29 +956,29 @@ Erstdokumentation am 15.10.2026, Geburtsdatum 15.10.2020)
 
 **4.3** **PRÜFFALL 2240 – ERSATZVERFAHREN**
 
-| PERSONALIEN | | |
+| **PERSONALIEN** | | |
 |---|---|---|
-| 3100 | Namenszusatz |  |
-| 3120 | Vorsatzwort |  |
-| 3101 | Name | Malta |
-| 3102 | Vorname | Lija |
-| 3103 | Geburtsdatum | 15.10.2016 |
-| 3104 | Titel | Prof. Dr. Dr. med |
-| 3119 | Versicherten_ID | M000119009 |
-| 3107 | Straße | Malta-Lija-Straße |
-| 3109 | Hausnummer | 123 |
-| 3112 | PLZ | LJA1234590 |
-| 3114 | Wohnsitzländercode | M |
-| 3113 | Ort | Malta-Lija-Hausen |
-| 3115 | Anschriftenzusatz | LJA |
-| 3116 | WOP | 38 |
-| 3108 | Versichertenart | 5 |
-| 3110 | Geschlecht | W |
-| 4133 | Versicherungsschutz Beginn |  |
-| 4110 | Versicherungsschutz Ende |  |
-| 4111 | Kostentraegerkennung | 109780003 |
-| 4131 | BesonderePersonengruppe | 00 |
-| 4132 | DMP_Kennzeichnung | 00 |
+| **3100** | **Namenszusatz** |  |
+| **3120** | **Vorsatzwort** |  |
+| **3101** | **Name** | Malta |
+| **3102** | **Vorname** | Lija |
+| **3103** | **Geburtsdatum** | 15.10.2016 |
+| **3104** | **Titel** | Prof. Dr. Dr. med |
+| **3119** | **Versicherten_ID** | M000119009 |
+| **3107** | **Straße** | Malta-Lija-Straße |
+| **3109** | **Hausnummer** | 123 |
+| **3112** | **PLZ** | LJA1234590 |
+| **3114** | **Wohnsitzländercode** | M |
+| **3113** | **Ort** | Malta-Lija-Hausen |
+| **3115** | **Anschriftenzusatz** | LJA |
+| **3116** | **WOP** | 38 |
+| **3108** | **Versichertenart** | 5 |
+| **3110** | **Geschlecht** | W |
+| **4133** | **Versicherungsschutz Beginn** |  |
+| **4110** | **Versicherungsschutz Ende** |  |
+| **4111** | **Kostentraegerkennung** | 109780003 |
+| **4131** | **BesonderePersonengruppe** | 00 |
+| **4132** | **DMP_Kennzeichnung** | 00 |
 
 
 ---
@@ -987,7 +987,7 @@ Erstdokumentation am 15.10.2026, Geburtsdatum 15.10.2020)
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 | KBV_ITA_VGEX_Anforderungskatalog_eDMP | Anforderungskatalog eDMP |
 | EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend | Plausibilitätsrichtlinie zur Prüfung der |
 | EXT_ITA_VGEX_Plausi_eDMP_ | Plausibilitätsrichtlinie zur Prüfung der |
@@ -1020,6 +1020,12 @@ Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes Adipo
 
 ---
 
-IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
+| IT in der | Arztpraxis |
+|---|---|
+| Tel.: 030 | 4005-2077, pruefstelle@kbv.de |
+| Kassenärztliche | Bundesvereinigung |
+| Herbert-Lewin-Platz | 2, 10623 Berlin |
+| pruefstelle@kbv.de, | www.kbv.de |
+| Seite 27 von | 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Version: 1.00 / 31. März 2026 |
 
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+IT in der Arztpraxis Tel.: 030 4005-2077, pruefstelle@kbv.de Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin

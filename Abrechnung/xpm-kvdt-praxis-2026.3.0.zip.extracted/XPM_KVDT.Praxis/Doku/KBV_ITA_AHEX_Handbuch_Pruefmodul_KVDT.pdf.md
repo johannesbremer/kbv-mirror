@@ -17,7 +17,7 @@ Datum: 06.08.2024 Kennzeichnung: Öffentlich  Status: In Kraft
 
 Dokumentenhistorie
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.18 | 06.08.2024 | KBV | Schalter datenpakete hinzu- | Der Prüflauf kann auf | 17 |
 | 1.17 | 12.01.2024 | KBV | Schalter epa_anzeige ent- | Die Ausgabe der Informa- |  |
@@ -45,14 +45,7 @@ gefügt fernt ePa-Anzeige und VSDM- Anzeige hinzugefügt len.* in SetVersion.* d
 
 inhaltsverzeichnis
 
-#### DOKUMENTENHISTORIE
-
-#### INHALTSVERZEICHNIS
-
-#### ABBILDUNGSVERZEICHNIS
-
-#### TABELLENVERZEICHNIS
-
+#### DOKUMENTENHISTORIE INHALTSVERZEICHNIS ABBILDUNGSVERZEICHNIS TABELLENVERZEICHNIS
 **1** **EINLEITUNG**
 
 **2** **VERZEICHNISSTRUKTUR**
@@ -123,17 +116,17 @@ Abbildungsverzeichnis
 
 ---
 
-| **IT in** | **der Arztpraxis** |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-| Handbuch |  | KBV-Prüfmodul | KVDT XPM |  |  |  |  |
-|  | Tabellenverzeichnis |  |  |  |  |  |  |
-| Tabelle | 1: | JVM-Aufruf | Parameter |  | ...........................................................................................9 | | |
-| Tabelle | 2: Felder | KOMU-Satz |  |  | ..............................................................................................14 | | |
-| Tabelle | 3: Felder |  |  |  | Protokollsatz.............................................................................................15 | | |
-| Tabelle | 4: | Felder PDT-Datei |  | Header Satz |  | ............................................................................15 | |
-| Tabelle | 5: | Felder PDT-Datei |  | Abschluss-Satz | | ........................................................................16 | |
-| Tabelle | 6: Prüfstatus |  |  |  | ............................................................................................................18 | | |
-|  |  | KBV_ITA_AHEX_Handbuch_Pruefmodul_KVDT | | * | Version 1.18 | Seite 6 | von 19 |
+| **IT in** | **der Arztpraxis** |  |
+|---|---|---|
+| Handbuch |  | KBV-Prüfmodul KVDT XPM |
+|  | Tabellenverzeichnis |  |
+| Tabelle | 1: | JVM-Aufruf Parameter ...........................................................................................9 |
+| Tabelle | 2: Felder | KOMU-Satz ..............................................................................................14 |
+| Tabelle | 3: Felder | Protokollsatz.............................................................................................15 |
+| Tabelle | 4: | Felder PDT-Datei Header Satz ............................................................................15 |
+| Tabelle | 5: | Felder PDT-Datei Abschluss-Satz ........................................................................16 |
+| Tabelle | 6: Prüfstatus | ............................................................................................................18 |
+|  |  | KBV_ITA_AHEX_Handbuch_Pruefmodul_KVDT * Version 1.18 Seite 6 von 19 |
 
 Tabelle 1: JVM-Aufruf Parameter Tabelle 2: Felder KOMU-Satz .............................................................................................. Tabelle 3: Felder Protokollsatz Tabelle 4: Felder PDT-Datei Header Satz Tabelle 5: Felder PDT-Datei Abschluss-Satz Tabelle 6: Prüfstatus ............................................................................................................
 
@@ -289,7 +282,7 @@ Die Java-Laufzeitumgebung wird mit dem Eintrag java gestartet. Zusätzlich werde
 |  | zur Verfügung gestellten Arbeitsspeichers in MB |
 |---|---|
 | -Dfile.encoding=8859_15 | Verwendeter Zeichensatz (ISO 8859_15) |
-| - | Übergibt der Laufzeitumgebung die Variable |
+| *-* | Übergibt der Laufzeitumgebung die Variable |
 | -D | Übergibt der Laufzeitumgebung die Variable |
 | - | Pfadangaben zu allen benötigten Jar-Dateien (lie- |
 | de.kbv.pruefmodul.GUI.KVDT | Startklasse |

@@ -167,8 +167,9 @@ o
 
 ---
 
-___________________________________  **Ärztin / Arzt** (Stempel, Unterschrift, Datum)
+|  | ___________________________________ | _______________________________________________________________ |
+|---|---|---|
+| **Ärztin / Arzt** (Stempel, | Unterschrift, Datum) | **Interdisziplinäre Frühförderstelle / SIFS*** (Stempel, Unterschrift, Datum) |
+| * SIFS = sinnesbehinderungsspezifische, | überregionale | interdisziplinäre Frühförderstellen |
 
 * SIFS = sinnesbehinderungsspezifische, überregionale interdisziplinäre Frühförderstellen
-
-_______________________________________________________________ **Interdisziplinäre Frühförderstelle / SIFS*** (Stempel, Unterschrift, Datum)

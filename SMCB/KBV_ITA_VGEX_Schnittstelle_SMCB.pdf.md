@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  18. JULI 2023   VERSION: 1.7   DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  18. JULI 2023   VERSION: 1.7   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # SCHNITTSTELLE LEO-TSP IM KV-SYSTEM
@@ -15,7 +15,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 ---
 
-| VERSION | DATUM | AUTOR | ÄNDERUNG | BEGRÜNDUNG | KAPITEL |
+| **VERSION** | **DATUM** | **AUTOR** | **ÄNDERUNG** | **BEGRÜNDUNG** | **KAPITEL** |
 |---|---|---|---|---|---|
 | 1.7 | 18.07.2023 | KBV | Streichung der Bemerkung, dass das    setAntraegeInBearbeitung ergänzt.    Veralteten Link korrigiert | Attribut wird von einzelnen KVen        Einzelne KVen planen Nutzung | 2.2.2          2.7    Anhang |
 | 1.6 | 14.09.2022 | KBV | Aktualisierung der    Redaktionelle Korrekturen |  | Anhang |
@@ -23,8 +23,8 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 | 1.4 | 14.02.2020 | KBV | Anpassung an aktuelles KBV    Neuer „Ablehnungsgrund“ für die | ........................................ | Alle              2.4.1 |
 | 1.3 | 15.08.2018 | KBV | Interpretation der Vorgangsnummer      Neuer „Ablehnungsgrund“ für die    Fehlercodes | Vereinheitlichung zur      ........................................ | Diverse    2.4.1      Anhang |
 | 1.2 | 20.12.2017 | KVWL | Änderungen der LEO-TSP-   setAntraegeInBearbeitung eingefügt   Änderung der Nutzungsvorgaben bei | Neue Funktion – wird im KV- | 2.6 |
-| DOKUMENTENHISTORIE  Die Änderungen treten zum | VERSION | DATUM | AUTOR | ÄNDERUNG | BEGRÜNDUNG |
-| KAPITEL  18.07.2023  setAntraegeInBearbeitung ergänzt.    2.2.2    1.6  Aktualisierung der | Redaktionelle Korrekturen    Anhang  1.5  06.04.2022  KBV  Ergänzung „Vornamen“ als        Anpassung der Ablehnungsgründe im    Ergänzung Hinweis zu Sonder   2.2.2,    2.4.1 | 3.2.15  1.4  14.02.2020  KBV  Anpassung an aktuelles KBV    Neuer „Ablehnungsgrund“ für die                ........................................    Alle | | | |
+| DOKUMENTENHISTORIE  Die Änderungen treten zum | **VERSION** | **DATUM** | **AUTOR** | **ÄNDERUNG** | **BEGRÜNDUNG** |
+| **KAPITEL ** 18.07.2023  setAntraegeInBearbeitung ergänzt.    2.2.2    1.6  Aktualisierung der | Redaktionelle Korrekturen    Anhang  1.5  06.04.2022  KBV  Ergänzung „Vornamen“ als        Anpassung der Ablehnungsgründe im    Ergänzung Hinweis zu Sonder   2.2.2,    2.4.1 | 3.2.15  1.4  14.02.2020  KBV  Anpassung an aktuelles KBV    Neuer „Ablehnungsgrund“ für die                ........................................    Alle | | | |
 |  |  |  | 2.4.1    1.3  15.08.2018  KBV  Interpretation der Vorgangsnummer      Neuer „Ablehnungsgrund“ für die    Fehlercodes   Vereinheitlichung zur | ........................................      Diverse    2.4.1      Anhang  1.2    20.12.2017    KVWL    Änderungen der LEO-TSP- | setAntraegeInBearbeitung eingefügt   Änderung der Nutzungsvorgaben bei        Neue Funktion – wird im KV-         2.6 |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
@@ -41,7 +41,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 |  |  |  |  |  | Anhang  1.1  15.08.2017  KVWL  Rückgabewerte geändert |
 | SubjectDN konkretisiert |  | TelematikID konkretisiert | Filterung mit Teilstrings gefordert    InstNameAnschrift konkretisiert    Doppelte Tabelle | „AntraegeExportRequestType“    Anhang „Fehlermeldungen“  Allgemeine, notwendige    ........................................ | ........................................    ........................................    ........................................ |
 | ........................................ |  | ........................................ | alle | 2.3.1    2.3.1 | 2.4.1    2.5.1    3.2 |
-| VERSION | DATUM | AUTOR | ÄNDERUNG | BEGRÜNDUNG | KAPITEL |
+| **VERSION** | **DATUM** | **AUTOR** | **ÄNDERUNG** | **BEGRÜNDUNG** | **KAPITEL** |
 | folgenden Daten:   • • • • • •   Rückgabewerte geändert | Felder wurden nun optional und                                  Rückgabewerte sind jetzt | Diverse                                    Anhang | | | |
 | 1.1 | 15.08.2017 | KVWL | Rückgabewerte geändert           SubjectDN konkretisiert    TelematikID konkretisiert    Filterung mit Teilstrings gefordert    InstNameAnschrift konkretisiert    Doppelte Tabelle   „AntraegeExportRequestType“    Anhang „Fehlermeldungen“ | Allgemeine, notwendige    ........................................    ........................................    ........................................    ........................................    ........................................        ........................................ | alle          2.3.1    2.3.1    2.4.1    2.5.1    3.2        Anh. B |
 | 1.0 | 01.06.2017 | KBV | Aufnahme der Rückmeldun |  | alle |
@@ -323,7 +323,7 @@ Für die nachfolgenden Beschreibungen in tabellarischer Form wird die folgende N
 
 **Tabelle 1: Erläuterungen zu den Tabellen-Spalten**
 
-| SPALTE | ERLÄUTERUNG |
+| **SPALTE** | **ERLÄUTERUNG** |
 |---|---|
 | Datenfeld | inhaltliche Bedeutung des Datenfeldes |
 | Element/Attribut | Name des Datenfeldes im XML-Schema |
@@ -339,7 +339,7 @@ Für die Definition der Datentypen werden die Datentypen aus Standardnamensräum
 
 **Tabelle 2: Präfixe der Namensräume**
 
-| PRÄFIX | NAMENSRAUM |
+| **PRÄFIX** | **NAMENSRAUM** |
 |---|---|
 | ds  lat | http://www.w3.org/2000/09/xmldsig#, XML-Schema für Signatur   http://xoev.de/latinchars/1_1/datatypes, der durch die Koordinierungsstelle für IT- |
 | gematik    xs | http://ws.gematik.de/cm/pers/HBA_SMC , der durch die gematik definierte |
@@ -411,7 +411,7 @@ GeneralResponseType-->ReturnCodeType >Description „ERROR;< Number>;“
 
 ---
 
-| DATENFELD | BESTANDTEIL | ELEMENT/ | P/ | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES |
+| **DATENFELD** | **BESTANDTEIL** | **ELEMENT/** | **P/** | **FELDTYP** | **BEMERKUNG / KONKRETISIERUNG DES** |
 |---|---|---|---|---|---|
 | Vorgangs- |  | VorgangsNr | O | xs:string | Der TSP MUSS mit dem Erhalt der  Die Vorgangsnummer wird NICHT von |
 | Antragsteller | Name des | Namensdaten | P | HNameType | Name und Meldeanschrift der  HNameType->Nachname MUSS gefüllt  HNameType->Vornamen MUSS gefüllt |
@@ -424,12 +424,12 @@ GeneralResponseType-->ReturnCodeType >Description „ERROR;< Number>;“
 | Abteilung | Abteilung | O | String64Type | Name der Organisationseinheit | |
 | Adresse der | Anschrift | P | StrassenAdress- | Anschrift der Institution –   MUSS von der AttrBS gefüllt werden | |
 | Kommunikationsdaten | InstKommunika- | O | KommType | Telefon-, Faxnummern, E-Mail- | |
-| an der entsprechenden Stelle zurückgeliefert werden.  2.2.1 Tabelle 3: SmcbVorbefuellungen |  |  |  |  |  |
+| an der entsprechenden Stelle zurückgeliefert werden. **2.2.1 Tabelle 3: SmcbVorbefuellungen** |  |  |  |  |  |
 |  | SmcbVorbefuellungen |  | SmcbVorbefuellung [ ] | P    Vorbefüllungsdaten eines Antrags, | |
-| Kardinalität: unbounded | 2.2.2 | Tabelle 4: Vorbefüllungsdaten für einen SMC-B-Antrag (SmcbVorbefuellung) |  | DATENFELD | |
-|  |  |  | BESTANDTEIL |  | |
-| ELEMENT/ |  |  | P/ |  | |
-| FELDTYP |  |  | BEMERKUNG / KONKRETISIERUNG DES | Vorgangs- | |
+| Kardinalität: unbounded | **2.2.2** | **Tabelle 4: Vorbefüllungsdaten für einen SMC-B-Antrag (SmcbVorbefuellung)** |  | **DATENFELD** | |
+|  |  |  | **BESTANDTEIL** |  | |
+| **ELEMENT/** |  |  | **P/** |  | |
+| **FELDTYP** |  |  | **BEMERKUNG / KONKRETISIERUNG DES** | Vorgangs- | |
 | VorgangsNr | O | xs:string | Der TSP MUSS mit dem Erhalt der | Die Vorgangsnummer wird NICHT von  Antragsteller | |
 |  |  | Name des | Namensdaten | P  HNameType  Name und Meldeanschrift der | |
 | HNameType->Nachname MUSS gefüllt | HNameType->Vornamen MUSS gefüllt | Staatsangehörigkeit | Staat | O | LandType |
@@ -437,7 +437,7 @@ GeneralResponseType-->ReturnCodeType >Description „ERROR;< Number>;“
 | Geburtsdaten | Geburtsdaten | P | GeburtsdatenType | Geburtsname, -datum, -ort, -staat des | GeburtsdatenType-> Geburtsdatum  Anschrift des |
 | Anschrift | O | StrassenAdress- | Meldeanschrift des Antragstellers | Kommunikationsdaten | Kommunikations- O  KommType  Telefon, Fax, MobilNr, E-Mail des  Institution |
 
-| DATENFELD | BESTANDTEILE | ELEMENT/ATTRIBUT | P/O | FELDTYP | BEMERKUNG |
+| **DATENFELD** | **BESTANDTEILE** | **ELEMENT/ATTRIBUT** | **P/O** | **FELDTYP** | **BEMERKUNG** |
 |---|---|---|---|---|---|
 | SmcbVorbefuellungen |  | SmcbVorbefuellung [ ] | P |  | Vorbefüllungsdaten eines Antrags,   Kardinalität: unbounded |
 
@@ -448,59 +448,59 @@ Mehrere Vorbefüllungen Einzelne Vorbefüllung ATTRIBUT KV-SYSTEMS Daten für di
 | VPersonType  Name und Anschrift des/der  Wird von der AttrBS NICHT gefüllt und | P  String20Type | MUSS mit der 9 stelligen  Telematik-ID | O  TelematikIDType | Der TSP MUSS die TelematikID mit dem  Art der Institution, | O  OrgFormKey |
 |---|---|---|---|---|---|
 | z.B. EP, BAG, ÜBAG, MVZ | Wird von der AttrBS NICHT gefüllt und | Gesellschafter [ ] | Gesellschafter | O | HNameType  Name(n) des/der Gesellschafter(s) |
-| Wird von der AttrBS NICHT gefüllt und  KV-Bereich  KVBereich | P | KVBereichKey | MUSS von der AttrBS gefüllt werden; | Tabelle 23: | SubjectAltName |
+| Wird von der AttrBS NICHT gefüllt und  KV-Bereich  KVBereich | P | KVBereichKey | MUSS von der AttrBS gefüllt werden; | **Tabelle 23:** | SubjectAltName |
 |  | O | lat:String.Latin | alternativer Institutionsname – Wird | EmpfaengerInfo | |
 | EmpfaengerInfo | O | VPersonType | Name und Anschrift des berechtigten | WENN VPersonType von der AttrBS | |
 | Anzahl Karten |  | AnzahlKarten | O | xs:int  Anzahl der zu produzierenden Karten | |
 |  | Attributbe- |  | AttrBestStelle | P | |
-| AttrBSType | Für die Ausgabe der jeweiligen Karte | Für AttrBS_Ident in AttrBSType sind die | Tabelle 15: AttrBSType |  | |
+| AttrBSType | Für die Ausgabe der jeweiligen Karte | Für AttrBS_Ident in AttrBSType sind die | **Tabelle 15: AttrBSType** |  | |
 | AttrBSType->AttrBS_Data wird NICHT |  |  |  |  |  |
 |  |  |  |  |  | |
 |  |  |  |  |  | |
 |  |  |  |  |  | |
-| DATENFELD | BESTANDTEIL | ELEMENT/ | P/ | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES |
+| **DATENFELD** | **BESTANDTEIL** | **ELEMENT/** | **P/** | **FELDTYP** | **BEMERKUNG / KONKRETISIERUNG DES** |
 | Berufsgruppe der | InstProfes- | P | InstProfessionItem | ProfessionItem der Institution –   MUSS von der AttrBS gefüllt werden;   Der Wert MUSS entweder | |
 | Verantwortliche/r der | VerantwPerson[] | O | VPersonType | Name und Anschrift des/der  Wird von der AttrBS NICHT gefüllt und | |
 | Kennnummer der | InstID | P | String20Type | identifizierendes Merkmal für die  MUSS mit der 9 stelligen | |
 | Telematik-ID | TelematikID | O | TelematikIDType | Wird NICHT von der AttrBS gefüllt und  Der TSP MUSS die TelematikID mit dem | |
 | Art der Institution, | Praxisform | O | OrgFormKey | Art der Institution, Dienststellenart,  z.B. EP, BAG, ÜBAG, MVZ Wird von der AttrBS NICHT gefüllt und | |
 | Gesellschafter [ ] | Gesellschafter | O | HNameType | Name(n) des/der Gesellschafter(s)  Wird von der AttrBS NICHT gefüllt und | |
-| KV-Bereich | KVBereich | P | KVBereichKey | MUSS von der AttrBS gefüllt werden;  Tabelle 23: | |
+| KV-Bereich | KVBereich | P | KVBereichKey | MUSS von der AttrBS gefüllt werden; **Tabelle 23: ** | |
 | SubjectAltName |  |  | O | lat:String.Latin | alternativer Institutionsname – Wird |
 | EmpfaengerInfo |  | EmpfaengerInfo | O | VPersonType | Name und Anschrift des berechtigten  WENN VPersonType von der AttrBS |
 | Anzahl Karten |  | AnzahlKarten | O | xs:int | Anzahl der zu produzierenden Karten |
-| Attributbe- |  | AttrBestStelle | P | AttrBSType | Für die Ausgabe der jeweiligen Karte  Für AttrBS_Ident in AttrBSType sind die  Tabelle 15: AttrBSType  AttrBSType->AttrBS_Data wird NICHT |
+| Attributbe- |  | AttrBestStelle | P | AttrBSType | Für die Ausgabe der jeweiligen Karte  Für AttrBS_Ident in AttrBSType sind die **Tabelle 15: AttrBSType**  AttrBSType->AttrBS_Data wird NICHT |
 
 stätigende (optional, ggf. mehrfach) ATTRIBUT KV-SYSTEMS "Betriebsstätte Arzt" oder "Betriebsstätte Psychotherapeut enthalten Verantwortlichen der Organisation (es können mehrere sein) –  NICHT gesendet Institution: Institutskennzeichen, Betriebsstättennummer –  Betriebsstättennummer von der AttrBS NICHT gesendet;  Erhalt der Vorbefüllung nach der vorgegebenen Bildungsvorschrift erzeugen Praxisform, Einrichtung o.ä. NICHT gesendet NICHT gesendet Zulässige Werte sind siehe von der AttrBS NICHT gefüllt und NICHT gesendet Empfängers, falls bekannt und vom Antragsteller abweichend –  gefüllt wird,  MUSS PersName aus VPersonType gefüllt sein;  verantwortliche Stelle – MUSS von der Werte in zulässig. gefüllt und NICHT gesendet
 
 ---
 
-| DATENFELD |  | ELEMENT/ATTRIBUT | P/O | FELDTYP | KV-SYSTEMS |
+| **DATENFELD** |  | **ELEMENT/ATTRIBUT** | **P/O** | **FELDTYP** | **KV-SYSTEMS** |
 |---|---|---|---|---|---|
 | Vorgangs- | CHOICE | VorgangsNr | O | xs:string | Eindeutige Kennung für einen Antrag,  Wird von der AttrBS NICHT gesendet, da |
 | AntragsID | AntragsID | P | xs:string | Vom TSP vergebene Kennung des | |
-| Attributbestätigende Stelle | AttrBestStelle | P | AttrBSType | Attributbestätigende Stelle, die die  Für AttrBSType->AttrBS_Ident sind die  Tabelle 15: AttrBSType | |
-| 2.3 Die Datenstrukturen SmcbNachbefuellung und SmcbNachbefuellungen werden im KV -System z. Zt. NICHT | Freigabe und Ablehnung schließen sich aus. Es MÜSSEN entweder Freigabedaten oder Ablehnungsdaten  Message: | Message:  Out: | GeneralResponseType-- GeneralResponseType-- | TABELLE 30:  gesetzt werden. | GeneralResponseType-- GeneralResponseType >ReturnCodeType >Description je ein Tupel „<Number>;<AntragsID>;“ |
-| 2.4.1 Die Datenstruktur SmcbFreigaben dient der Übertragung eines oder mehrerer Freigabe- / | | | | | |
-| TABELLE 5: |  |  | Tabelle 5: SmcbFreigaben | DATENFELD | |
-|  |  | BESTANDTEILE |  |  | ELEMENT/ATTRIBUT |
-| P/O |  |  | FELDTYP | | |
-| SYSTEMS |  | SmcbFreigaben |  | | |
-| SmcbFreigabe [ ] | P |  | Freigabedaten eines oder mehrere Anträge, siehe  Tabelle 6: SmcbFreigabe | | |
-| Kardinalität: unbounded |  | Tabelle 6: SmcbFreigabe | DATENFELD | | |
-|  |  |  | ELEMENT/ATTRIBUT | | |
-|  |  | P/O |  | | |
-| FELDTYP |  |  | KV-SYSTEMS | | |
+| Attributbestätigende Stelle | AttrBestStelle | P | AttrBSType | Attributbestätigende Stelle, die die  Für AttrBSType->AttrBS_Ident sind die **Tabelle 15: AttrBSType** | |
+| **2.3** Die Datenstrukturen SmcbNachbefuellung und SmcbNachbefuellungen werden im KV -System z. Zt. NICHT | Freigabe und Ablehnung schließen sich aus. Es MÜSSEN entweder Freigabedaten oder Ablehnungsdaten  Message: | Message:  Out: | GeneralResponseType-- GeneralResponseType-- | **TABELLE 30:**  gesetzt werden. | GeneralResponseType-- GeneralResponseType >ReturnCodeType >Description je ein Tupel „<Number>;<AntragsID>;“ |
+| **2.4.1** Die Datenstruktur SmcbFreigaben dient der Übertragung eines oder mehrerer Freigabe- / | | | | | |
+| **TABELLE 5:** |  |  | **Tabelle 5: SmcbFreigaben** | **DATENFELD** | |
+|  |  | **BESTANDTEILE** |  |  | **ELEMENT/ATTRIBUT** |
+| **P/O** |  |  | **FELDTYP** | | |
+| **SYSTEMS** |  | SmcbFreigaben |  | | |
+| SmcbFreigabe [ ] | P |  | Freigabedaten eines oder mehrere Anträge, siehe **Tabelle 6: SmcbFreigabe** | | |
+| Kardinalität: unbounded |  | **Tabelle 6: SmcbFreigabe** | **DATENFELD** | | |
+|  |  |  | **ELEMENT/ATTRIBUT** | | |
+|  |  | **P/O** |  | | |
+| **FELDTYP** |  |  | **KV-SYSTEMS** | | |
 | Vorgangs- | CHOICE | VorgangsNr | O  xs:string | | |
 | Eindeutige Kennung für einen Antrag, | Wird von der AttrBS NICHT gesendet, da | AntragsID | AntragsID | P  xs:string | |
-| 2.3 Die Datenstrukturen SmcbNachbefuellung und SmcbNachbefuellungen werden im KV -System z. Zt. NICHT | Freigabe und Ablehnung schließen sich aus. Es MÜSSEN entweder Freigabedaten oder Ablehnungsdaten  Message: | Message:  Out: | GeneralResponseType-- GeneralResponseType-- | TABELLE 30:  gesetzt werden. | GeneralResponseType-- GeneralResponseType >ReturnCodeType >Description je ein Tupel „<Number>;<AntragsID>;“ |
-| 2.4.1   DATENFELD  FELDTYP  P | | | | | |
-|  |  |  |  | ELEMENT/ATTRIBUT | P/O |
-|  |  | FELDTYP |  | KV-SYSTEMS | |
+| **2.3** Die Datenstrukturen SmcbNachbefuellung und SmcbNachbefuellungen werden im KV -System z. Zt. NICHT | Freigabe und Ablehnung schließen sich aus. Es MÜSSEN entweder Freigabedaten oder Ablehnungsdaten  Message: | Message:  Out: | GeneralResponseType-- GeneralResponseType-- | **TABELLE 30:**  gesetzt werden. | GeneralResponseType-- GeneralResponseType >ReturnCodeType >Description je ein Tupel „<Number>;<AntragsID>;“ |
+| **2.4.1**  **DATENFELD  FELDTYP ** P | | | | | |
+|  |  |  |  | **ELEMENT/ATTRIBUT** | **P/O** |
+|  |  | **FELDTYP** |  | **KV-SYSTEMS** | |
 
-| DATENFELD | BESTANDTEILE | ELEMENT/ATTRIBUT | P/O | FELDTYP | SYSTEMS |
+| **DATENFELD** | **BESTANDTEILE** | **ELEMENT/ATTRIBUT** | **P/O** | **FELDTYP** | **SYSTEMS** |
 |---|---|---|---|---|---|
-| SmcbFreigaben |  | SmcbFreigabe [ ] | P |  | Freigabedaten eines oder mehrere Anträge, siehe  Tabelle 6: SmcbFreigabe  Kardinalität: unbounded |
+| SmcbFreigaben |  | SmcbFreigabe [ ] | P |  | Freigabedaten eines oder mehrere Anträge, siehe **Tabelle 6: SmcbFreigabe ** Kardinalität: unbounded |
 
 BEMERKUNG / KONKRETISIERUNG DES KV- NACHBEFÜLLUNG verwendet. FREIGABEN/ABLEHNUNG gesendet werden. addSmcbFreigabenRequest In:  addSmcbFreigabenResponse >ReturnCodeType >Code und >ReturnCodeType >Number  FEHLERMELDUNGEN "F MÜSSEN gemäß  Schlägt mindestens eine von mehreren  Freigaben / Ablehnungen fehl, MUSS in  >ReturnCodeType >Number mit „2450“ gefüllt werden und  für jede fehlgeschlagene Freigabe / Ablehnung enthalten. Ablehnungsdatensätze. Für die Übertragung der Datensätze MUSS der TSP die in beschriebene Datenstruktur verwenden. nummer REIGABEN BLEHNUNG SMCBF REIGABEN BEMERKUNG / KONKRETISIERUNG DES die vom TSP vergeben wurde –  die AntragsID zur Antragsidentifizierung verwendet wird. Freigabe erteilt –  Werte in
 
@@ -511,7 +511,7 @@ BEMERKUNG / KONKRETISIERUNG DES KV- NACHBEFÜLLUNG verwendet. FREIGABEN/ABLEHNUN
 | AnzahlKarten | O | xs:int | Anzahl der zu produzierenden Karten | Wird NICHT gefüllt und NICHT gesendet | Ablehnung  Ablehnungsgrund |
 | P | xs:string | Kennzeichnung als Ablehnung (alternativ | - WENN eine Ablehnung des Antrags |  | |
 |  |  |  |  |  | |
-| DATENFELD |  | ELEMENT/ATTRIBUT | P/O | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES |
+| **DATENFELD** |  | **ELEMENT/ATTRIBUT** | **P/O** | **FELDTYP** | **BEMERKUNG / KONKRETISIERUNG DES** |
 | zulässig.  AttrBSType->AttrBS_Data wird NICHT | | | | | |
 | Name des Mitarbeiters | Mitarbeiter | O | HNameType | Name des Mitarbeiters bei der AttrBS,  Die Angabe des Mitarbeiters ist im KV- | |
 | Freigabedaten | Freigabedaten | AntragstellerName | P | HNameType | Name des Antragstellers –   HNameType->Nachname MUSS gefüllt  HNameType->Vornamen MUSS gefüllt |
@@ -524,7 +524,7 @@ BEMERKUNG / KONKRETISIERUNG DES KV- NACHBEFÜLLUNG verwendet. FREIGABEN/ABLEHNUN
 | TelematikID | O | String128Type | TelematikID –   Die Telematik-ID MUSS vom TSP nach | | |
 | AnzahlKarten | O | xs:int | Anzahl der zu produzierenden Karten  Wird NICHT gefüllt und NICHT gesendet | | |
 | Ablehnung | Ablehnungsgrund | P | xs:string | Kennzeichnung als Ablehnung (alternativ  - WENN eine Ablehnung des Antrags | |
-| DATENFELD |  | ELEMENT/ATTRIBUT | P/O | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES |
+| **DATENFELD** |  | **ELEMENT/ATTRIBUT** | **P/O** | **FELDTYP** | **BEMERKUNG / KONKRETISIERUNG DES** |
 | zulässig.  Mitarbeiter   Die Angabe des Mitarbeiters ist im KV- P  HNameType->Vornamen MUSS gefüllt  Meldeanschrift des Antragstellers  P  O  Wurde entweder mit der Vorbefüllung  Wird von der AttrBS NICHT gefüllt und | | | | | |
 | der SMC-B Zertifikate MÜSSEN nach der | SubjectAltName | O | lat:String.Latin | alternativer Institutionsname | InstProfessionItem  P  InstProfessionItemKey |
 | Bestätigte Berufsgruppe – | Der Wert MUSS entweder | TelematikID | O | String128Type  TelematikID –   Die Telematik-ID MUSS vom TSP nach | |
@@ -535,10 +535,10 @@ oder (schließen einander aus) KV-SYSTEMS der die Freigabe autorisiert –  Syst
 
 | • | FreigabePDF  FreigabePDF | O  FileTransferType | Freigabedaten oder Ablehnung als PDF –   Wird NICHT gefüllt und NICHT gesendet | Signatur  O | Optional:  Signatur der Freigabe oder Ablehnung |
 |---|---|---|---|---|---|
-| 2.5 | Message: | In: |  | Message: | Out: |
+| **2.5** | Message: | In: |  | Message: | Out: |
 | GetSmcbAntraegeExportResponseType-- | GeneralResponseType-- | GeneralResponseType->ReturnCodeType->Number | GeneralResponseType-- | MÜSSEN gemäß | |
-| TABELLE 31: | gesetzt werden. | 2.5.1 | Die Datenstruktur AntraegeExportRequestType dient der Recherche oder Monitoring-Unterstützung der | Tabelle 7: Export-Filterkriterien  DATENFELD | |
-| DATENFELD |  | ELEMENT/ATTRIBUT | P/O | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES |
+| **TABELLE 31:** | gesetzt werden. | **2.5.1** | Die Datenstruktur AntraegeExportRequestType dient der Recherche oder Monitoring-Unterstützung der | **Tabelle 7: Export-Filterkriterien  DATENFELD** | |
+| **DATENFELD** |  | **ELEMENT/ATTRIBUT** | **P/O** | **FELDTYP** | **BEMERKUNG / KONKRETISIERUNG DES** |
 | Ablehnungsgründe der AttrBS sind: | | | | | |
 |  | • |  |  | • | |
 |  |  |  | • |  | • |
@@ -549,14 +549,14 @@ oder (schließen einander aus) KV-SYSTEMS der die Freigabe autorisiert –  Syst
 | FreigabePDF |  | O | FileTransferType | | |
 | Optional: | Freigabedaten oder Ablehnung als PDF – | Wird NICHT gefüllt und NICHT gesendet | Signatur  Signatur | | |
 | O | ds:Signature | Optional: | Signatur der Freigabe oder Ablehnung  Wird NICHT gefüllt und NICHT gesendet | | |
-| 2.5 | Message: | In: | Message: | | |
+| **2.5** | Message: | In: | Message: | | |
 | Out: |  | GetSmcbAntraegeExportResponseType-- | GeneralResponseType-- | GeneralResponseType->ReturnCodeType->Number   GeneralResponseType-- | |
-| DATENFELD |  | ELEMENT/ATTRIBUT | P/O | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES |
+| **DATENFELD** |  | **ELEMENT/ATTRIBUT** | **P/O** | **FELDTYP** | **BEMERKUNG / KONKRETISIERUNG DES** |
 | Ablehnungsgründe der AttrBS sind:  • • • • • • • • • | | | | | |
 | FreigabePDF | FreigabePDF |  | O | FileTransferType | Optional:  Freigabedaten oder Ablehnung als PDF –   Wird NICHT gefüllt und NICHT gesendet |
 | Signatur | Signatur | O | ds:Signature | Optional:  Signatur der Freigabe oder Ablehnung  Wird NICHT gefüllt und NICHT gesendet | |
 
-| DATENFELD | ELEMENT/ATTRIBUT | P/O | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS |
+| **DATENFELD** | **ELEMENT/ATTRIBUT** | **P/O** | **FELDTYP** | **BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS** |
 |---|---|---|---|---|
 | Filterkriterien | AntraegeExportRequestType | P |  | Filterkriterien für den Export  Kardinalität: unbounded |
 
@@ -564,12 +564,12 @@ oder Signatur (optional 0..1) ANTRAGEXPORT / MONITORING getSmcbAntraegeExportReq
 
 ---
 
-| DATENFELD | ELEMENT/ATTRIBUT | P/ | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES KV- |
+| **DATENFELD** | **ELEMENT/ATTRIBUT** | **P/** | **FELDTYP** | **BEMERKUNG / KONKRETISIERUNG DES KV-** |
 |---|---|---|---|---|
 | Vorgangsnummer | VorgangsNr | O | xs:string |  |
 | AntragsID | AntragsID | O | xs:string | Vom TSP vergebene Kennung des Antrags |
 | Karten Antrags-ID | KartenAntragsID | O | xs:string | TSP spezifische ID des zu einer spezifischen  Wird von der AttrBS NICHT gefüllt und NICHT |
-| Antragsstatus | Antragsstatus | O | AntragStatusKey | Wenn das Element gesendet wird, dann  Tabelle 14: AntragStatusKey |
+| Antragsstatus | Antragsstatus | O | AntragStatusKey | Wenn das Element gesendet wird, dann **Tabelle 14: AntragStatusKey** |
 | Nachname Antragsteller | NachnameAntragsteller | O | lat:String.Latin | Nachname des Antragstellers |
 | Vorname Antragsteller | VornameAntragsteller | O | lat:String.Latin | Vorname des Antragsteller |
 | Institutionsname | Institutionsname | O | xs:String64Type | Name der Betriebsstätte |
@@ -583,13 +583,13 @@ oder Signatur (optional 0..1) ANTRAGEXPORT / MONITORING getSmcbAntraegeExportReq
 | InstitutionsID | InstitutionsID | O | xs:String20Type | 9-stellige, numerische |
 | Heilberufler ID | HeilberuflerID | O | xs:String45Type | 9-stellige, numerische lebenslange |
 | EFN | EFN | O | EFN_Type | Elektronische Fortbildungsnummer – |
-| Nach allen Elementen aus TABELLE 8: | Bei den „String-Typen-Elementen“ MUSS das Filterergebnis unabhängig von Groß- und Kleinschreibung sein  Bei den „String-Typen-Elementen“ MUSS der übermittelte Wert auf „enthalten in“ gefiltert werden. | DATENFELD | ELEMENT/ATTRIBUT | P/ |
+| Nach allen Elementen aus **TABELLE 8:** | Bei den „String-Typen-Elementen“ MUSS das Filterergebnis unabhängig von Groß- und Kleinschreibung sein  Bei den „String-Typen-Elementen“ MUSS der übermittelte Wert auf „enthalten in“ gefiltert werden. | **DATENFELD** | **ELEMENT/ATTRIBUT** | **P/** |
 |  | | | | |
-| FELDTYP |  |  | BEMERKUNG / KONKRETISIERUNG DES KV- | Vorgangsnummer  VorgangsNr |
+| **FELDTYP** |  |  | **BEMERKUNG / KONKRETISIERUNG DES KV-** | Vorgangsnummer  VorgangsNr |
 | O | xs:string |  | AntragsID | AntragsID |
 | O | xs:string | Vom TSP vergebene Kennung des Antrags | Karten Antrags-ID | KartenAntragsID |
 | O | xs:string | TSP spezifische ID des zu einer spezifischen | Wird von der AttrBS NICHT gefüllt und NICHT | Antragsstatus |
-| Antragsstatus | O | AntragStatusKey | Wenn das Element gesendet wird, dann | Tabelle 14: AntragStatusKey |
+| Antragsstatus | O | AntragStatusKey | Wenn das Element gesendet wird, dann | **Tabelle 14: AntragStatusKey** |
 |  | Nachname Antragsteller | NachnameAntragsteller | O | lat:String.Latin |
 | Nachname des Antragstellers | Vorname Antragsteller | VornameAntragsteller | O | lat:String.Latin  Vorname des Antragsteller  Institutionsname  Institutionsname  O  xs:String64Type  Name der Betriebsstätte  Geburtsdatum  GeburtsdatumAntragsteller  O |
 
@@ -597,28 +597,28 @@ werden können (Filterkriterien). Werden mehrere Elemente gefüllt an den TSP ü
 
 ---
 
-| P/ | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES KV- | Wird im KV-System NICHT gefüllt und NICHT  Kartenstatus | O  KartenStatusKey |
+| **P/** | **FELDTYP** | **BEMERKUNG / KONKRETISIERUNG DES KV-** | Wird im KV-System NICHT gefüllt und NICHT  Kartenstatus | O  KartenStatusKey |
 |---|---|---|---|---|
-| Tabelle 22: |  | Karte ICCSN | KarteICCSN | O |
+| **Tabelle 22:** |  | Karte ICCSN | KarteICCSN | O |
 | ICCSNType | Seriennummer der SMC-B | Karte | KarteProduktionszeitpunktV | O |
 | xs:dateTime | Beginn des Intervalls, in dem nach | Karte | KarteProduktionszeitpunktB | O  xs:dateTime |
 | Ende des Intervalls, in dem nach | Karte Ablaufdatum Von | KarteAblaufdatumVon | O | xs:date  Beginn des Intervalls, in dem nach  Karte Ablaufdatum Bis |
 | KarteAblaufdatumBis | O | xs:date | Ende des Intervalls, in dem nach | Überblicksanfrage |
 | Ueberblicksanfrage | O | xs:boolean | WENN Ueberblicksanfrage:=true, dann – | Alle Elemente mit 'base64Binary'-Inhalten |
 | dazu zählen | AntragPDF, | Passfoto, | FreigabePDF, | Signaturen. |
-| ProdResultType ohne Zertifikate. | 'HbaSperrAuftrag' bzw. | können für einen Export ebenfalls nicht |  | Tabelle 9: Export-Filterergebnis – GetSmcbAntraegeExportResponseType |
-|  | DATENFELD |  |  | ELEMENT/ATTRIBUT |
-|  |  | P/O |  |  |
-| FELDTYP |  |  | BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS | Rückgabewert |
+| ProdResultType ohne Zertifikate. | 'HbaSperrAuftrag' bzw. | können für einen Export ebenfalls nicht |  | **Tabelle 9: Export-Filterergebnis – GetSmcbAntraegeExportResponseType** |
+|  | **DATENFELD** |  |  | **ELEMENT/ATTRIBUT** |
+|  |  | **P/O** |  |  |
+| **FELDTYP** |  |  | **BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS** | Rückgabewert |
 | GeneralResponseType | P |  | Belegung siehe Abschnitt 3.2.31 |  |
 |  | SmcbAntraegeExport | SmcbAntraegeExport [ ] | O |  |
-| Filterergebnis mit Antragsdaten und der dazugehörigen | Kardinalität: unbounded | 2.5.2 | Tabelle 10: Felder von SmcbAntraegeExport |  |
-| DATENFELD |  |  |  |  |
-| ELEMENT/ATTRIBUT |  |  | P/O |  |
-|  | FELDTYP |  |  | BEMERKUNG / KONKRETISIERUNG DES |
-| DATENFELD | ELEMENT/ATTRIBUT | P/ | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES KV- |
+| Filterergebnis mit Antragsdaten und der dazugehörigen | Kardinalität: unbounded | **2.5.2** | **Tabelle 10: Felder von SmcbAntraegeExport** |  |
+| **DATENFELD** |  |  |  |  |
+| **ELEMENT/ATTRIBUT** |  |  | **P/O** |  |
+|  | **FELDTYP** |  |  | **BEMERKUNG / KONKRETISIERUNG DES** |
+| **DATENFELD** | **ELEMENT/ATTRIBUT** | **P/** | **FELDTYP** | **BEMERKUNG / KONKRETISIERUNG DES KV-** |
 | Wird im KV-System NICHT gefüllt und NICHT | | | | |
-| Kartenstatus | KarteStatus | O | KartenStatusKey | Wenn das Datenelement verwendet  Tabelle 22: |
+| Kartenstatus | KarteStatus | O | KartenStatusKey | Wenn das Datenelement verwendet **Tabelle 22: ** |
 | Karte ICCSN | KarteICCSN | O | ICCSNType | Seriennummer der SMC-B |
 | Karte | KarteProduktionszeitpunktV | O | xs:dateTime | Beginn des Intervalls, in dem nach |
 | Karte | KarteProduktionszeitpunktB | O | xs:dateTime | Ende des Intervalls, in dem nach |
@@ -626,27 +626,27 @@ werden können (Filterkriterien). Werden mehrere Elemente gefüllt an den TSP ü
 | Karte Ablaufdatum Bis | KarteAblaufdatumBis | O | xs:date | Ende des Intervalls, in dem nach |
 | Überblicksanfrage | Ueberblicksanfrage | O | xs:boolean | WENN Ueberblicksanfrage:=true, dann –   Alle Elemente mit 'base64Binary'-Inhalten  dazu zählen   AntragPDF,   Passfoto,   FreigabePDF,   Signaturen.   ProdResultType ohne Zertifikate.   'HbaSperrAuftrag' bzw.  können für einen Export ebenfalls nicht |
 
-| DATENFELD | ELEMENT/ATTRIBUT | P/O | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES | |
+| **DATENFELD** | **ELEMENT/ATTRIBUT** | **P/O** | **FELDTYP** | **BEMERKUNG / KONKRETISIERUNG DES** | |
 |---|---|---|---|---|---|
 | ID des TSP | TSPID | P | String02Type | Kennung gemäß der mit den Sektoren | |
 | Vorgangsnummer | VorgangsNr | P | xs:string |  | |
 | AntragsID | AntragsID | P | xs:string | TSP vergebene Kennung des Hauptantrags | |
 | Antragsteller | Antragsteller | P | AntragstellerType | Persönliche Daten des Antragstellers  In AntragstellerType MÜSSEN | |
-| DATENFELD |  |  |  | Wird im KV-System NICHT gefüllt und NICHT | |
+| **DATENFELD** |  |  |  | Wird im KV-System NICHT gefüllt und NICHT | |
 | KarteStatus  O  KartenStatusKey | | | | | |
-| Wenn das Datenelement verwendet | Tabelle 22: |  | Karte ICCSN | KarteICCSN  O  Karte  Beginn des Intervalls, in dem nach  xs:dateTime  O  KarteAblaufdatumBis  Ende des Intervalls, in dem nach | |
+| Wenn das Datenelement verwendet | **Tabelle 22:** |  | Karte ICCSN | KarteICCSN  O  Karte  Beginn des Intervalls, in dem nach  xs:dateTime  O  KarteAblaufdatumBis  Ende des Intervalls, in dem nach | |
 | Überblicksanfrage | Ueberblicksanfrage | O | xs:boolean | WENN Ueberblicksanfrage:=true, dann –   Alle Elemente mit 'base64Binary'-Inhalten  dazu zählen   AntragPDF,   Passfoto,   FreigabePDF, | |
 | Signaturen. | ProdResultType ohne Zertifikate. | 'HbaSperrAuftrag' bzw. | können für einen Export ebenfalls nicht |  | |
-| Tabelle 9: Export-Filterergebnis – GetSmcbAntraegeExportResponseType |  | DATENFELD |  | ELEMENT/ATTRIBUT  P/O | |
-|  |  | FELDTYP |  |  | |
-| BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS |  | Rückgabewert | GeneralResponseType | P | |
+| **Tabelle 9: Export-Filterergebnis – GetSmcbAntraegeExportResponseType** |  | **DATENFELD** |  | **ELEMENT/ATTRIBUT  P/O** | |
+|  |  | **FELDTYP** |  |  | |
+| **BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS** |  | Rückgabewert | GeneralResponseType | P | |
 | Belegung siehe Abschnitt 3.2.31 |  |  | SmcbAntraegeExport | SmcbAntraegeExport [ ] | |
-| O |  | Filterergebnis mit Antragsdaten und der dazugehörigen | Kardinalität: unbounded | 2.5.2 | |
-| Tabelle 10: Felder von SmcbAntraegeExport |  | DATENFELD |  | | |
-| DATENFELD |  |  |  | Wird im KV-System NICHT gefüllt und NICHT | |
+| O |  | Filterergebnis mit Antragsdaten und der dazugehörigen | Kardinalität: unbounded | **2.5.2** | |
+| **Tabelle 10: Felder von SmcbAntraegeExport** |  | **DATENFELD** |  | | |
+| **DATENFELD** |  |  |  | Wird im KV-System NICHT gefüllt und NICHT | |
 | KarteStatus | | | | | |
 | O  KartenStatusKey | | | | | |
-| Wenn das Datenelement verwendet | Tabelle 22: |  | Karte ICCSN | KarteICCSN | O |
+| Wenn das Datenelement verwendet | **Tabelle 22:** |  | Karte ICCSN | KarteICCSN | O |
 | ICCSNType | Seriennummer der SMC-B | Karte | KarteProduktionszeitpunktV | | |
 | O | xs:dateTime | Beginn des Intervalls, in dem nach | Karte  KarteProduktionszeitpunktB | | |
 | O | xs:dateTime | Ende des Intervalls, in dem nach | Karte Ablaufdatum Von  KarteAblaufdatumVon | | |
@@ -655,9 +655,9 @@ werden können (Filterkriterien). Werden mehrere Elemente gefüllt an den TSP ü
 | Alle Elemente mit 'base64Binary'-Inhalten | dazu zählen | AntragPDF, | Passfoto, | | |
 | FreigabePDF, | | | | | |
 | Signaturen. | ProdResultType ohne Zertifikate. | 'HbaSperrAuftrag' bzw. | können für einen Export ebenfalls nicht |  | |
-| Tabelle 9: Export-Filterergebnis – GetSmcbAntraegeExportResponseType |  | DATENFELD |  |  | |
+| **Tabelle 9: Export-Filterergebnis – GetSmcbAntraegeExportResponseType** |  | **DATENFELD** |  |  | |
 
-Produktionszeitpunkt Von Produktionszeitpunkt Bis Kartendaten gesendet wird, dann MUSS einer der folgenden Werte enthalten sein siehe produzierten Karten gesucht wird produzierten Karten gesucht wird ablaufenden/abgelaufenen Karten gesucht wird ablaufenden/abgelaufenen Karten gesucht wird DÜRFEN NICHT geliefert werden;  'SmcbSperrAuftragType'  übertragen werden verabredeten, zweistelligen  TSP -ID | DATENFELD | ELEMENT/ATTRIBUT | P/O | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS |
+Produktionszeitpunkt Von Produktionszeitpunkt Bis Kartendaten gesendet wird, dann MUSS einer der folgenden Werte enthalten sein siehe produzierten Karten gesucht wird produzierten Karten gesucht wird ablaufenden/abgelaufenen Karten gesucht wird ablaufenden/abgelaufenen Karten gesucht wird DÜRFEN NICHT geliefert werden;  'SmcbSperrAuftragType'  übertragen werden verabredeten, zweistelligen  TSP -ID | **DATENFELD** | **ELEMENT/ATTRIBUT** | **P/O** | **FELDTYP** | **BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS** |
 |---|---|---|---|---|
 | Rückgabewert | GeneralResponseType | P |  | Belegung siehe Abschnitt 3.2.31 |
 | SmcbAntraegeExport | SmcbAntraegeExport [ ] | O |  | Filterergebnis mit Antragsdaten und der dazugehörigen  Kardinalität: unbounded |
@@ -671,18 +671,18 @@ Produktionszeitpunkt Von Produktionszeitpunkt Bis Kartendaten gesendet wird, dan
 |  |  |  |  |  | |
 |  |  |  |  |  | |
 |  |  |  |  |  | |
-| DATENFELD | ELEMENT/ATTRIBUT | P/O | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES | |
+| **DATENFELD** | **ELEMENT/ATTRIBUT** | **P/O** | **FELDTYP** | **BEMERKUNG / KONKRETISIERUNG DES** | |
 | HNameType->Nachname,   HNameType->Vornamen,  gefüllt sein | | | | | |
 | Institution | Institution | P | InstitutionType | Name, Anschrift, ID, verantwortliche  In InstitutionsType MÜSSEN   • • • • • gefüllt sein. | |
 | EmpfängerInfo | EmpfängerInfo | O | VPersonType | Name und Anschrift des berechtigten  WENN ein alternativer Empfänger  VPersonType-> PersName und  VPersonType->Anschrift  gefüllt sein;   WENN VPersonType->Anschrift vom | |
 | AnzahlKarten | AnzahlKarten | P | xs:int | Anzahl der zu produzierenden Karten | |
-| Attributbestätigende | AttrBestStelle | P | AttrBSType | Für die Ausgabe der jeweiligen Karte  Für AttrBSType->AttrBS_Ident sind die  Tabelle 15: AttrBSType zulässig.  AttrBSType->AttrBS_Data wird NICHT | |
+| Attributbestätigende | AttrBestStelle | P | AttrBSType | Für die Ausgabe der jeweiligen Karte  Für AttrBSType->AttrBS_Ident sind die **Tabelle 15: AttrBSType** zulässig.  AttrBSType->AttrBS_Data wird NICHT | |
 | Art des Antrags | Antragstyp | O | AntragsArt | Angabe, ob Erst- oder Folgeantrag oder | |
 | Änderungen | Aenderungen | O | ChangesType | Liste der Änderungen gegenüber der  Wird NICHT gefüllt und NICHT gesendet, | |
 | Antragsstatus | AntragsStatus | P | AntragStatusKey | Aktueller Status des Antrags | |
 | AntragsStatusHistorie | AntragsStatusHistorie | P | AntragsStatusHistoryType | Historie der Antrags-Statusänderungen vor | |
 | ErklaerungAntragsteller | O | ErklaerungType | Erklärungen des Antragstellers –   Die Übermittlung von „Erklärungen“ ist  Wird z. Zt. NICHT gefüllt und NICHT | | |
-| DATENFELD | ELEMENT/ATTRIBUT | P/O | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES | |
+| **DATENFELD** | **ELEMENT/ATTRIBUT** | **P/O** | **FELDTYP** | **BEMERKUNG / KONKRETISIERUNG DES** | |
 | HNameType->Nachname, | | | | | |
 | HNameType->Vornamen,  gefüllt sein | | | | | |
 | Institution | Institution | P | InstitutionType | Name, Anschrift, ID, verantwortliche | In InstitutionsType MÜSSEN |
@@ -707,18 +707,18 @@ Produktionszeitpunkt Von Produktionszeitpunkt Bis Kartendaten gesendet wird, dan
 |  |  |  |  |  | |
 |  |  |  |  |  | |
 |  |  |  |  |  | |
-| DATENFELD | ELEMENT/ATTRIBUT | P/O | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES | |
+| **DATENFELD** | **ELEMENT/ATTRIBUT** | **P/O** | **FELDTYP** | **BEMERKUNG / KONKRETISIERUNG DES** | |
 | gesendet.  Freigabedaten oder Ablehnungsgrund (beide optional, einander ausschließend)  MÜSSEN gesendet werden, WENN eine Freigabe bzw. Ablehnung des Antrags erfolgt ist, sonst dürfen sie NICHT gesendet werden | | | | | |
 |  | Freigabe | SubjectDN | P | SubjectDNType  Enthält u.a. commonName entsprechend  lat:String.Latin   InstProfessionItemKey  O  Ablehnung  Kennzeichnung als Ablehnung und Text mit  (optional) | |
 | Wird NICHT gefüllt und | FreigabePDF | P | FileTransferType | Freigabedaten oder Ablehnung als PDF  Signatur  P  ds:Signature  Freigabe oder Ablehnung mit Aufführung  Kartendaten sind genau dann vorhanden, wenn die ICCSNs bereits zugeteilt wurden. Je Karte ist ein ProdResult | |
 | Kartendaten (0.. | ProdResult [ ] | O | ProdResultType | Kartendaten (ab Beginn der | |
-| Angaben zur Sperrung | SperrAuftrag | O | SmcbSperrAuftragType[] | Sperraufträge für die mit diesem Antrag  2.6 Message:  In:   Message: | |
+| Angaben zur Sperrung | SperrAuftrag | O | SmcbSperrAuftragType[] | Sperraufträge für die mit diesem Antrag **2.6** Message:  In:   Message: | |
 | Out: | Die Sperrung durch die AttrBS wird notwendig, wenn die Betriebstättennummer (InstID) ungültig geworden | GeneralResponseType--> | GeneralResponseType-- | GeneralResponseType-- | |
-| GeneralResponseType-- | MÜSSEN gem. | TABELLE 32: | gesetzt werden. |  | |
+| GeneralResponseType-- | MÜSSEN gem. | **TABELLE 32:** | gesetzt werden. |  | |
 |  |  |  |  |  | |
 |  |  |  |  |  | |
 |  |  |  |  | | |
-| DATENFELD | ELEMENT/ATTRIBUT | P/O | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES | |
+| **DATENFELD** | **ELEMENT/ATTRIBUT** | **P/O** | **FELDTYP** | **BEMERKUNG / KONKRETISIERUNG DES** | |
 | gesendet. | | | | | |
 | Freigabedaten oder Ablehnungsgrund (beide optional, einander ausschließend)  MÜSSEN gesendet werden, WENN eine Freigabe bzw. Ablehnung des Antrags erfolgt ist, sonst dürfen sie NICHT gesendet werden | | | | | |
 |  | Freigabe | SubjectDN | P | SubjectDNType | Enthält u.a. commonName entsprechend |
@@ -736,25 +736,25 @@ KV-SYSTEMS Freigabe oder Ablehnung (Auswahl, optional) den Freigabedaten der Att
 
 ---
 
-|  | DATENFELD | BESTANDTEILE | ELEMENT / ATTRIBUT | P/O | FELDTYP | BEMERKUNG / KONKRETISIERUNG |
+|  | **DATENFELD** | **BESTANDTEILE** | **ELEMENT / ATTRIBUT** | **P/O** | **FELDTYP** | **BEMERKUNG / KONKRETISIERUNG** |
 |---|---|---|---|---|---|---|
-|  | Sperrung | Attributbestäti- | AttrBestStelle | P | AttrBSType | attributbestätigende Stelle, die den  Für AttrBSType->AttrBS_Ident sind die  Tabelle 15: AttrBSType  AttrBSType->AttrBS_Data wird NICHT |
+|  | Sperrung | Attributbestäti- | AttrBestStelle | P | AttrBSType | attributbestätigende Stelle, die den  Für AttrBSType->AttrBS_Ident sind die **Tabelle 15: AttrBSType**  AttrBSType->AttrBS_Data wird NICHT |
 | Name des | Mitarbeiter | O | HNameType | Name des Mitarbeiters bei der AttrBS,  Wird NICHT gefüllt und NICHT | | |
 | Institutsname | InstNameAnschrift | O | InstAnschriftTy | Name und Anschrift der Institution,  Wird NICHT gefüllt und NICHT | | |
 | ID der | InstID | P | String20Type | Identifikationsnummer der Institution  MUSS von der AttrBS gefüllt und  Ist InstID leer oder ungültig, MUSS der | | |
-| Schlägt mindestens  GeneralResponseType-- | Schlägt mindestens  GeneralResponseType-- | Schlägt mindestens  GeneralResponseType-- | Schlägt mindestens  GeneralResponseType-- | 2.6.1 Die Datenstruktur „SmcbSperrAuftraege“ dient der Übermittlung von einem oder mehrerer Sperraufträgen. | DATENFELD | BESTANDTEILE |
-|  | ELEMENT/ATTRIBUT |  |  | P/O | FELDTYP | |
-|  |  | BEMERKUNG |  | Smcb SperrAuftraege    Smcb SperrAuftrag [] | | |
+| Schlägt mindestens  GeneralResponseType-- | Schlägt mindestens  GeneralResponseType-- | Schlägt mindestens  GeneralResponseType-- | Schlägt mindestens  GeneralResponseType-- | **2.6.1** Die Datenstruktur „SmcbSperrAuftraege“ dient der Übermittlung von einem oder mehrerer Sperraufträgen. | **DATENFELD** | **BESTANDTEILE** |
+|  | **ELEMENT/ATTRIBUT** |  |  | **P/O** | **FELDTYP** | |
+|  |  | **BEMERKUNG** |  | Smcb SperrAuftraege    Smcb SperrAuftrag [] | | |
 |  |  | Sperrauftrag, siehe | | | | |
-| Tabelle 12: |  | Kardinalität: unbounded |  | Tabelle 12: SmcbSperrAuftrag von der AttrBS an den TSP | | |
-|  |  |  | DATENFELD |  | | |
-| BESTANDTEILE |  |  | ELEMENT / ATTRIBUT | P/O | | |
-|  | FELDTYP |  |  | BEMERKUNG / KONKRETISIERUNG | Sperrung | |
-| Attributbestäti- | AttrBestStelle | P | AttrBSType | attributbestätigende Stelle, die den  Für AttrBSType->AttrBS_Ident sind die  Tabelle 15: AttrBSType | | |
+| **Tabelle 12:** | ** | Kardinalität: unbounded |  | **Tabelle 12: SmcbSperrAuftrag von der AttrBS an den TSP** | | |
+|  |  |  | **DATENFELD** |  | | |
+| **BESTANDTEILE** |  |  | **ELEMENT / ATTRIBUT** | **P/O** | | |
+|  | **FELDTYP** |  |  | **BEMERKUNG / KONKRETISIERUNG** | Sperrung | |
+| Attributbestäti- | AttrBestStelle | P | AttrBSType | attributbestätigende Stelle, die den  Für AttrBSType->AttrBS_Ident sind die **Tabelle 15: AttrBSType** | | |
 
-| DATENFELD | BESTANDTEILE | ELEMENT/ATTRIBUT | P/O | FELDTYP | BEMERKUNG |
+| **DATENFELD** | **BESTANDTEILE** | **ELEMENT/ATTRIBUT** | **P/O** | **FELDTYP** | **BEMERKUNG** |
 |---|---|---|---|---|---|
-| Smcb SperrAuftraege |  | Smcb SperrAuftrag [] |  |  | Sperrauftrag, siehe Tabelle 12:    Kardinalität: unbounded |
+| Smcb SperrAuftraege |  | Smcb SperrAuftrag [] |  |  | Sperrauftrag, siehe **Tabelle 12: **** Kardinalität: unbounded |
 
 SmcbSperrAuftrag von der AttrBS an den TSP mehreren  fehl, MUSS bei „Variante 1“  >ReturnCodeType >Number mit „4430“ gefüllt werden und >ReturnCodeType >Description je ein Tupel „<Number>;<ICCSN>;“ für jede fehlgeschlagene Sperrung enthalten. mehreren  fehl, MUSS bei „Variante 2“ >ReturnCodeType >Number mit „4430“ gefüllt werden und >ReturnCodeType >Description je ein Tupel „<Number>;<SerialNumber>;<Issuer>“ für jede fehlgeschlagene Sperrung enthalten. mehreren  fehl, MUSS bei „Variante 3“ >ReturnCodeType >Number mit „4430“ gefüllt werden und >ReturnCodeType >Description je ein Tupel „<Number>;<InstID>;“ für jede fehlgeschlagene Sperrung enthalten. mehreren  fehl, MUSS bei „Variante 4“ >ReturnCodeType >Number mit „4430“ gefüllt werden und >ReturnCodeType >Description je ein Tupel „<Number>;<KartenAntragsID>;“ für jede fehlgeschlagene Sperrung enthalten. Tabelle 11: SmcbSperrAuftraege von der AttrBS an den TSP DES KV-SYSTEMS SmcbSperrAuftragType Sperrauftrag erteilt –  Werte aus zulässig. gefüllt und NICHT gesendet. der den Sperrauftrag autorisiert –  gesendet (-> Maschinen-Account) und -anschrift deren Karte/n zu sperren ist/sind –  gesendet (Betriebsstättennummer), deren Karte/n zu sperren ist/sind –  gesendet werden. TSP den Sperrauftrag ablehnen.
 
@@ -763,10 +763,10 @@ SmcbSperrAuftrag von der AttrBS an den TSP mehreren  fehl, MUSS bei „Variante 
 | MUSS von der AttrBS gefüllt und  Var. 4 | P  xs:string | Variante 4 wird im KV-System NICHT  Grund der | P  xs:string | Als Sperrgrund MUSS  eingetragen und übermittelt werden | (Optional  Sperrauftrag | O |
 |---|---|---|---|---|---|---|
 | Sperrauftrag als PDF – | Wird NICHT gefüllt und NICHT | Signatur des | Signature | O | ds:Signature | Optional:  Signatur durch den autorisierten  Die Signatur wird über alle  Wird NICHT gefüllt und NICHT |
-| 2.7 | Message: | In: | Message: | Out:    Die Methode setAntraegeInBearbeitung ermöglicht das Zurücksetzen eines oder mehrerer Anträge vom | | |
+| **2.7** | Message: | In: | Message: | Out:    Die Methode setAntraegeInBearbeitung ermöglicht das Zurücksetzen eines oder mehrerer Anträge vom | | |
 |  |  |  |  |  | | |
 |  |  |  |  |  | | |
-|  | DATENFELD | BESTANDTEILE | ELEMENT / ATTRIBUT | P/O | FELDTYP | BEMERKUNG / KONKRETISIERUNG |
+|  | **DATENFELD** | **BESTANDTEILE** | **ELEMENT / ATTRIBUT** | **P/O** | **FELDTYP** | **BEMERKUNG / KONKRETISIERUNG** |
 | Varianten zur | Var. 1 | ICCSN | P | ICCSNType | Variante 1: Selektive Sperrung einer  Alle Zertifikate dieser Karte sind zu  Variante 1 wird im KV-System NICHT | |
 | Var. 2 | SerialNumber | P | xs:string | Variante 2: Selektive Sperrung einer  Alle Zertifikate der Karte, auf der  Variante 2 wird im KV-System NICHT | | |
 | Issuer | P | xs:string | | | | |
@@ -815,7 +815,7 @@ setAntraegeInBearbeitung wird im KV-System z. Zt. NICHT verwendet.
 
 **Tabelle 13: AntragstellerType**
 
-| ELEMENT/ATTRIBUT | P/O | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS |
+| **ELEMENT/ATTRIBUT** | **P/O** | **FELDTYP** | **BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS** |
 |---|---|---|---|
 | Namensdaten | P | HNameType | Name, Vorname, akademische Grade –   HNameType->Nachname MUSS gefüllt sein  HNameType->Vornamen MUSS gefüllt sein |
 | Staat | O | LandType | Staatsangehörigkeit |
@@ -832,7 +832,7 @@ setAntraegeInBearbeitung wird im KV-System z. Zt. NICHT verwendet.
 
 **Tabelle 14: AntragStatusKey**
 
-| ELEMENT/ATTRIBUT | P/O | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS |
+| **ELEMENT/ATTRIBUT** | **P/O** | **FELDTYP** | **BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS** |
 |---|---|---|---|
 | AntragStatusKey | O | String | Einer der folgenden Werte MUSS enthalten sein:  "Antrag vorbefüllt"  "Antrag in Bearbeitung / zwischengespeichert"  "Antrag verworfen (Antragsteller)"  "Antrag verworfen (TSP)"  "Bearbeitung beendet"  "Eingang Antragsunterlagen"  "Freigabe abgelehnt (TSP)"  "Freigabe abgelehnt (Kartenherausgeber)"  "Freigegeben (Kartenherausgeber)" "Rückfrage beim Antragsteller (TSP)"  "Zur Freigabe (Kartenherausgeber)" |
 
@@ -844,7 +844,7 @@ stelligen LANR gefüllt werden
 
 **Tabelle 15: AttrBSType**
 
-| DATENFELD | ELEMENT/ATTRIBUT | P/O | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS |
+| **DATENFELD** | **ELEMENT/ATTRIBUT** | **P/O** | **FELDTYP** | **BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS** |
 |---|---|---|---|---|
 | Name der | AttrBS_Ident | P | xs:string | Kennzahl für die attributbestätigende Stelle –  Für AttrBSType->AttrBS_Ident  sind die folgenden Werte zulässig:  "KV Baden-Württemberg" |
 | Anschrift der | AttrBS_Data (optional) | O | InstAnschriftType | wird NICHT gefüllt und NICHT gesendet |
@@ -889,7 +889,7 @@ Die Übermittlung von „Erklärungen“ ist z. Zt. NICHT vorgesehen. Falls spä
 
 **Tabelle 16: InstAnschriftType**
 
-| ELEMENT/ATTRIBUT | P/O | FELDTYP | BEMERKUNG |
+| **ELEMENT/ATTRIBUT** | **P/O** | **FELDTYP** | **BEMERKUNG** |
 |---|---|---|---|
 | InstName | P | String64Type | Name der Institution / Einrichtung / Praxis |
 | Abteilung | O | lat:String.Latin |  |
@@ -900,7 +900,7 @@ Die Übermittlung von „Erklärungen“ ist z. Zt. NICHT vorgesehen. Falls spä
 
 **Tabelle 17: InstitutionType**
 
-| ELEMENT/ATTRIBUT | P/O | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS |
+| **ELEMENT/ATTRIBUT** | **P/O** | **FELDTYP** | **BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS** |
 |---|---|---|---|
 | InstName | P | String64Type | Name der Institution / Einrichtung / Praxis |
 | Abteilung | O | lat:String.Latin |  |
@@ -928,7 +928,7 @@ Die Übermittlung von „Erklärungen“ ist z. Zt. NICHT vorgesehen. Falls spä
 
 **Tabelle 18:** **Aufbau der Betriebstättennummer (BSNR) in „InstID“**
 
-| KV-NUMMER | LAUFENDE NUMMER |
+| **KV-NUMMER** | **LAUFENDE NUMMER** |
 |---|---|
 | 2-stellig numerisch | 7-stellig numerisch |
 
@@ -944,7 +944,7 @@ Kommunikationsdaten der Institution: Telefon, Fax, Mobilnummer, E Mail gesetzlic
 
 **Tabelle 19:** **Zuordnung KV-Nummer zu KV-Bereich**
 
-| KV-NUMMER (ZUGEORDNETE ERSTEN | KV-BEREICH |
+| **KV-NUMMER (ZUGEORDNETE ERSTEN** | **KV-BEREICH** |
 |---|---|
 | 01 | Schleswig-Holstein |
 | 02 | Hamburg |
@@ -966,11 +966,11 @@ Kommunikationsdaten der Institution: Telefon, Fax, Mobilnummer, E Mail gesetzlic
 
 | Mecklenburg-Vorpommern  79, 80, 81, 83 | 85, 86, 87, 88  Sachsen-Anhalt | Thüringen  94, 95, 96, 98 | Anhand der über das TSP-Antragsportal eingegebenen bzw. über die Vorbefüllung übermittelten |
 |---|---|---|---|
-| Gem. | TABELLE 19: | MUSS der TSP den „KVBereichKey“, siehe | TABELLE 23: |
-| , belegen. | „AttrBSType->AttrBS_Ident“ MUSS gem. | TABELLE 15: | gesetzt werden. |
-| 3.2.16 | Tabelle 20: InstProfessionItemKey |  | ELEMENT/ATTRIBUT  Der Wert MUSS einen der folgenden Werte enthalten: "Betriebsstätte Arzt",  "Betriebsstätte Psychotherapeut |
-|  |  | P/O |  |
-|  | FELDTYP |  |  |
+| Gem. | **TABELLE 19:** | MUSS der TSP den „KVBereichKey“, siehe | **TABELLE 23:** |
+| , belegen. | „AttrBSType->AttrBS_Ident“ MUSS gem. | **TABELLE 15:** | gesetzt werden. |
+| **3.2.16** | **Tabelle 20: InstProfessionItemKey** |  | **ELEMENT/ATTRIBUT ** Der Wert MUSS einen der folgenden Werte enthalten: "Betriebsstätte Arzt",  "Betriebsstätte Psychotherapeut |
+|  |  | **P/O** |  |
+|  | **FELDTYP** |  |  |
 | InstProfessionItemKey | O | String | Der Wert MUSS einen der folgenden Werte enthalten: |
 | "Betriebsstätte Arzt", | "Betriebsstätte Psychotherapeut |  |  |
 |  |  |  |  |
@@ -978,7 +978,7 @@ Kommunikationsdaten der Institution: Telefon, Fax, Mobilnummer, E Mail gesetzlic
 |  |  |  |  |
 |  |  |  |  |
 
-78 89, 90, 91, 93 Betriebsstättennummer (BSNR) MUSS der TSP den Mandanten (zuständige KV) ermitteln.  Bei Eingabe der BSNR über das TSP-Antragsportal MUSS der TSP „InstID“ mit der BSNR füllen.  ZUORDNUNG KV-N UMMER ZU EREICHKEY BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS Brandenburg KV-B EREICH ATTRBST YPE BEIDEN ZIFFERN DER BSNR) | ELEMENT/ATTRIBUT | P/O | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS |
+78 89, 90, 91, 93 Betriebsstättennummer (BSNR) MUSS der TSP den Mandanten (zuständige KV) ermitteln.  Bei Eingabe der BSNR über das TSP-Antragsportal MUSS der TSP „InstID“ mit der BSNR füllen.  ZUORDNUNG KV-N UMMER ZU EREICHKEY BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS Brandenburg KV-B EREICH ATTRBST YPE BEIDEN ZIFFERN DER BSNR) | **ELEMENT/ATTRIBUT** | **P/O** | **FELDTYP** | **BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS** |
 |---|---|---|---|
 | InstProfessionItemKey | O | String | |
 
@@ -989,17 +989,17 @@ Kommunikationsdaten der Institution: Telefon, Fax, Mobilnummer, E Mail gesetzlic
 
 **Tabelle 21: KartenStatusHistoryType**
 
-| ELEMENT/ATTRIBUT | BESTANDTEIL | P/O | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES KV- |
+| **ELEMENT/ATTRIBUT** | **BESTANDTEIL** | **P/O** | **FELDTYP** | **BEMERKUNG / KONKRETISIERUNG DES KV-** |
 |---|---|---|---|---|
 | KartenStatusHistoryType   (Kartenstatus- | KDatum | P | xs:date | Datum der (Karten-)Statusänderung |
-|  | KStatus | P | KartenStatusKey | Neuer Status der Kartenbearbeitung –   zulässige Werte siehe Tabelle 22: KartenStatusKey |
+|  | KStatus | P | KartenStatusKey | Neuer Status der Kartenbearbeitung –   zulässige Werte siehe**Tabelle 22: KartenStatusKey** |
 |  | Bearbeiter | O | lat:String.Latin | Name des Bearbeiters, der die Status- |
 
 ### 3.2.18 KartenStatusKey
 
 **Tabelle 22: KartenStatusKey**
 
-| ELEMENT/ATTRIBUT | P/O | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS |
+| **ELEMENT/ATTRIBUT** | **P/O** | **FELDTYP** | **BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS** |
 |---|---|---|---|
 | KartenStatusKey | O | String | MUSS einen der folgenden Werte enthalten:  "Auslieferung"  "Fristüberschreitung Empfangsbestätigung"  "Karte ausgeliefert"  "Karte unzustellbar zurück"  "Sperrung beantragt"  "Zertifikate abgelaufen"  "Zertifikate endgültig nicht freigeschaltet"  "Zertifikate freigeschaltet"  "Zertifikate gesperrt"  KV-Bereich  Der Schlüssel MUSS einen der folgenden Werte enthalten:  "Baden-Württemberg"  "Bayerns"  "Niedersachsen"  "Nordrhein"  "Saarland"  "Thüringen" |
 
@@ -1011,7 +1011,7 @@ Kommunikationsdaten der Institution: Telefon, Fax, Mobilnummer, E Mail gesetzlic
 
 ### Tabelle 23: KVBereichKey
 
-Änderungen) SYSTEMS Änderung bewirkt hat. KommType KVBereichKey KVBereichKey "Berlin" "Brandenburg" "Bremen" "Hamburg" "Hessen" "Mecklenburg-Vorpommern" "Rheinland-Pfalz" "Sachsen" "Sachsen-Anhalt" "Schleswig-Holstein" "Westfalen-Lippe" | ELEMENT/ATTRIBUT | P/O | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS |
+Änderungen) SYSTEMS Änderung bewirkt hat. KommType KVBereichKey KVBereichKey "Berlin" "Brandenburg" "Bremen" "Hamburg" "Hessen" "Mecklenburg-Vorpommern" "Rheinland-Pfalz" "Sachsen" "Sachsen-Anhalt" "Schleswig-Holstein" "Westfalen-Lippe" | **ELEMENT/ATTRIBUT** | **P/O** | **FELDTYP** | **BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS** |
 |---|---|---|---|
 | KVBereichKey | O | String | |
 
@@ -1022,7 +1022,7 @@ Kommunikationsdaten der Institution: Telefon, Fax, Mobilnummer, E Mail gesetzlic
 
 **Tabelle 24: OrgFormKey**
 
-| ELEMENT/ATTRIBUT | P/O | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS |
+| **ELEMENT/ATTRIBUT** | **P/O** | **FELDTYP** | **BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS** |
 |---|---|---|---|
 | OrgFormKey | O | String | Organisationsform einer Einrichtung des Gesundheitswesens Der Schlüssel MUSS einen der folgenden Werte enthalten:  "EP"  "BAG"  "ÜBAG"  "KÜBAG"  "MVZ"  "Krankenhaus"  Wird NICHT gefüllt und NICHT gesendet. |
 
@@ -1030,7 +1030,7 @@ Kommunikationsdaten der Institution: Telefon, Fax, Mobilnummer, E Mail gesetzlic
 
 **Tabelle 25: PostfachAdressType**
 
-| ELEMENT/ATTRIBUT | P/O | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS |
+| **ELEMENT/ATTRIBUT** | **P/O** | **FELDTYP** | **BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS** |
 |---|---|---|---|
 | Postfach | P | String08Type |  |
 | LandPostfach | P  P | LandType | Land MUSS |
@@ -1040,12 +1040,12 @@ Kommunikationsdaten der Institution: Telefon, Fax, Mobilnummer, E Mail gesetzlic
 
 **Tabelle 26: ProdResultType**
 
-| ELEMENT/ATTRIBUT | P/O | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS |
+| **ELEMENT/ATTRIBUT** | **P/O** | **FELDTYP** | **BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS** |
 |---|---|---|---|
 | KartenAntragsID (0.. | P | xs:string | |
 | ICCSN | P | ICCSNType |  |
 | SerialNumInSubject | O | String64Type |  |
-| KartenStatus | P | KartenStatusKey | Alle aktuell zutreffenden Bearbeitungsstatus – zulässige Werte siehe  Tabelle 22: KartenStatusKey |
+| KartenStatus | P | KartenStatusKey | Alle aktuell zutreffenden Bearbeitungsstatus – zulässige Werte siehe **Tabelle 22: KartenStatusKey** |
 | KartenStatusHistorie | P | KartenStatusHistory | Datum-Status-Paare zur Nachverfolgung der Statusänderungen |
 | Zertifikate | O | ExtCertType [] | Falls bereits erzeugt: alle X.509-Zertifikate der Karte |
 
@@ -1077,7 +1077,7 @@ Wird Teil der Zertifikate. MUSS vom TSP belegt werden, siehe
 
 **Tabelle 27: SubjectDNType**
 
-| ELEMENT/ATTRIBUT | P/O | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS |
+| **ELEMENT/ATTRIBUT** | **P/O** | **FELDTYP** | **BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS** |
 |---|---|---|---|
 | commonName | P | String64Type | Erste zwei Zeilen des Anschriftenfeldes  1. 2. |
 | title | O | String64Type | Titel des Verantwortlichen/Inhabers – wird NICHT verwendet |
@@ -1096,7 +1096,7 @@ Wird Teil der Zertifikate. MUSS vom TSP belegt werden, siehe
 
 **Tabelle 28: TelematikIDType**
 
-| ELEMENT/ATTRIBUT | P/O | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS |
+| **ELEMENT/ATTRIBUT** | **P/O** | **FELDTYP** | **BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS** |
 |---|---|---|---|
 | TelematikID | O | String128Type | Telematik-ID oder Online-Kennung. |
 | newTID | O | boolean | (Attribut von TelematikID). Gibt an, ob der Nutzer für eine Folgekarte  false: vorhandene TID behalten  true: neue TID  newTID MUSS false sein. |
@@ -1189,7 +1189,7 @@ der Betriebsstätte – MUSS aus den folgenden Daten gebildet werden: Name der B
 
 **ANHANG A.2 REFERENZIERTE DOKUMENTE**
 
-| REFERENZ | DOKUMENT |
+| **REFERENZ** | **DOKUMENT** |
 |---|---|
 | [gemSpec_Pers_SMC-B] | Übergabeschnittstelle für die Produktion von SMC Quelle: LEO-TSP-AG |
 | [KBV_ITA_VGEX_Anforderungskatalog_SMCB] | Anforderungskatalog an TSP im KV-System, in  https://update.kbv.de/ita-update/SMCB/  ftp://ftp.kbv.de/ita-update/SMCB |
@@ -1262,94 +1262,94 @@ Bs der Generation 2 welchem Ausgabe- und Sperrprozesse definiert sind.
 
 ---
 
-| CODE | NUMBER | DESCRIPTION | BEMERKUNG |
+| **CODE** | **NUMBER** | **DESCRIPTION** | ***BEMERKUNG*** |
 |---|---|---|---|
-| OK | 1200 | „<Vorgangsnummer>;<URL>;“ | Es ist kein Fehler aufgetreten; |
-| ERROR_LOGISCH | 1400 | Daten unvollständig - | Der TSP MUSS prüfen, ob alle |
-| ERROR_LOGISCH | 1403 | Verbotener Aufruf | Der TSP MUSS prüfen, ob der |
-| ERROR_LOGISCH | 1410 | Datentyp passt nicht / | Der TSP MUSS prüfen, ob die |
-| ERROR_LOGISCH | 1420 | Vorgangsnummer konnte |  |
-| ERROR_LOGISCH | 1430 | Beispiel für zwei    „ERROR;<Number>;  <VorgangsNr>;<URL>;“ | Mindestens eine Vorbefüllung |
-| ANHANG B    ANHANG B.1 |  |  | • |
+| OK | 1200 | „<Vorgangsnummer>;<URL>;“ | *Es ist kein Fehler aufgetreten;* |
+| ERROR_LOGISCH | 1400 | Daten unvollständig - | *Der TSP MUSS prüfen, ob alle* |
+| ERROR_LOGISCH | 1403 | Verbotener Aufruf | *Der TSP MUSS prüfen, ob der* |
+| ERROR_LOGISCH | 1410 | Datentyp passt nicht / | *Der TSP MUSS prüfen, ob die* |
+| ERROR_LOGISCH | 1420 | Vorgangsnummer konnte | ** |
+| ERROR_LOGISCH | 1430 | Beispiel für zwei    „ERROR;<Number>;  <VorgangsNr>;<URL>;“ | *Mindestens eine Vorbefüllung* |
+| ANHANG B   **ANHANG B.1** |  |  | • |
 |  | • |  |  |
 
 RÜCKMELDUNGEN ALLGEMEINE FESTLEGUNGEN ReturnCodeType Code : OK / ERROR_TECHNISCH / ERROR_LOGISCH : ganzzahlige Werte Description : Freitext „Code“, „Number“ und „Description“ MÜSSEN gem. den festgelegten Rückmeldungen gesendet werden. Der TSP KANN die Description ergänzen, um den Fehler genauer zu spezifizieren z. B. KÖNNEN bei fehlenden Pflichtfeldern, die Felder benannt werden. Als Pflichtfelder gekennzeichnete Felder MÜSSEN vorhanden und gefüllt sein. Falls ein Pflichtfeld leer ist oder nicht übertragen wurde, MUSS der TSP einen Fehler melden. ANHANG B.2 FESTGELEGTE RÜCKMELDUNGEN Tabelle 29: Rückmeldungen "Vorbefüllung" Pflichtfelder fehlen Validierung fehlgeschlagen nicht erzeugt werden Vorbefüllungen, von der eine fehlgeschlagen ist:  alle Vorbefüllungen waren möglich.  Pflichtfelder vorhanden sind. Aufruf der SOAP-Operation sowie alle übermittelten Feldwerte erlaubt sind. übergebenen Daten dem vorgegebenen Datentyp entsprechen, z. B. ob ein String zu lang ist oder ob bei Inst_ID etwas anderes als eine 9- stellige BSNR eingegeben wurde. Die vorgegebene „Description“ KANN um den Fehlertext des XML-Parsers ergänzt werden. von mehreren war nicht möglich. In diesem Fall ist für jede Vorbefüllung, die nicht durchgeführt werden konnte, der konkrete Fehler in <Number> anzugeben.
 
 ---
 
-| NUMBER | DESCRIPTION | BEMERKUNG | OK  2200 |
+| **NUMBER** | **DESCRIPTION** | ***BEMERKUNG*** | OK  2200 |
 |---|---|---|---|
-| Es ist kein Fehler aufgetreten. | ERROR_LOGISCH | 2400 | Daten unvollständig-Pflichtfelder |
-| Der TSP MUSS prüfen, ob alle | ERROR_LOGISCH | 2403 | Verbotener Aufruf |
-| Der TSP MUSS prüfen, ob der | ERROR_LOGISCH | 2410 | Datentyp passt nicht / |
-| Der TSP MUSS prüfen, ob die | ERROR_LOGISCH | 2420 | AntragsID nicht vorhanden |
-|  | ERROR_LOGISCH | 2430 | Antrag schon freigegeben |
-|  | ERROR_LOGISCH | 2440  Antrag schon abgelehnt    ERROR_LOGISCH | 2450 |
-| CODE | NUMBER | DESCRIPTION | BEMERKUNG |
-| ERROR_TECHNISCH | 1500 | TSP-Allgemeiner technischer |  |
+| *Es ist kein Fehler aufgetreten.* | ERROR_LOGISCH | 2400 | Daten unvollständig-Pflichtfelder |
+| *Der TSP MUSS prüfen, ob alle* | ERROR_LOGISCH | 2403 | Verbotener Aufruf |
+| *Der TSP MUSS prüfen, ob der* | ERROR_LOGISCH | 2410 | Datentyp passt nicht / |
+| *Der TSP MUSS prüfen, ob die* | ERROR_LOGISCH | 2420 | AntragsID nicht vorhanden |
+| ** | ERROR_LOGISCH | 2430 | Antrag schon freigegeben |
+| ** | ERROR_LOGISCH | 2440  Antrag schon abgelehnt ** ERROR_LOGISCH | 2450 |
+| **CODE** | **NUMBER** | **DESCRIPTION** | ***BEMERKUNG*** |
+| ERROR_TECHNISCH | 1500 | TSP-Allgemeiner technischer | ** |
 
 **Tabelle 30: Rückmeldungen**
 
-| CODE | NUMBER | DESCRIPTION | BEMERKUNG |
+| **CODE** | **NUMBER** | **DESCRIPTION** | ***BEMERKUNG*** |
 |---|---|---|---|
-| OK | 2200 | OK | Es ist kein Fehler aufgetreten. |
-| ERROR_LOGISCH | 2400 | Daten unvollständig-Pflichtfelder | Der TSP MUSS prüfen, ob alle |
-| ERROR_LOGISCH | 2403 | Verbotener Aufruf | Der TSP MUSS prüfen, ob der |
-| ERROR_LOGISCH | 2410 | Datentyp passt nicht / | Der TSP MUSS prüfen, ob die |
-| ERROR_LOGISCH | 2420 | AntragsID nicht vorhanden |  |
-| ERROR_LOGISCH | 2430 | Antrag schon freigegeben |  |
-| ERROR_LOGISCH | 2440 | Antrag schon abgelehnt |  |
-| ERROR_LOGISCH | 2450 | Beispiel für mehrere Freigaben /    „<Number>;<AntragsID >;“ | Ablehnung von mehreren war  nicht möglich. In diesem Fall  ist für jede Freigabe /  Ablehnung, die nicht  durchgeführt werden konnte,  der konkrete Fehler in  <Number> anzugeben. |
-| ERROR_LOGISCH | 2460 | Antrag steht nicht zur Freigabe |  |
-| ERROR_TECHNISCH | 2500 | TSP-Allgemeiner technischer |  |
+| OK | 2200 | OK | *Es ist kein Fehler aufgetreten.* |
+| ERROR_LOGISCH | 2400 | Daten unvollständig-Pflichtfelder | *Der TSP MUSS prüfen, ob alle* |
+| ERROR_LOGISCH | 2403 | Verbotener Aufruf | *Der TSP MUSS prüfen, ob der* |
+| ERROR_LOGISCH | 2410 | Datentyp passt nicht / | *Der TSP MUSS prüfen, ob die* |
+| ERROR_LOGISCH | 2420 | AntragsID nicht vorhanden | ** |
+| ERROR_LOGISCH | 2430 | Antrag schon freigegeben | ** |
+| ERROR_LOGISCH | 2440 | Antrag schon abgelehnt | ** |
+| ERROR_LOGISCH | 2450 | Beispiel für mehrere Freigaben /    „<Number>;<AntragsID >;“ | *Ablehnung von mehreren war  nicht möglich. In diesem Fall  ist für jede Freigabe /  Ablehnung, die nicht  durchgeführt werden konnte,  der konkrete Fehler in  <Number> anzugeben.* |
+| ERROR_LOGISCH | 2460 | Antrag steht nicht zur Freigabe | ** |
+| ERROR_TECHNISCH | 2500 | TSP-Allgemeiner technischer | ** |
 
 "Freigaben/Ablehnung" fehlen Validierung fehlgeschlagen Beispiel für mehrere Freigaben / Pflichtfelder vorhanden sind. Aufruf der SOAP-Operation sowie alle übermittelten Feldwerte erlaubt sind. übergebenen Daten dem vorgegebenen Datentyp entsprechen, z. B. ob ein String zu lang ist oder ob bei Inst_ID etwas anderes als eine 9- stellige BSNR eingegeben wurde. Die vorgegebene „Description“ KANN um den Fehlertext des XML-Parsers ergänzt werden. Mindestens eine Freigabe / Ablehnungen, von der eine nicht erfolgreich war:  bereit
 
 ---
 
-| CODE | NUMBER | DESCRIPTION | BEMERKUNG |
+| **CODE** | **NUMBER** | **DESCRIPTION** | ***BEMERKUNG*** |
 |---|---|---|---|
-| ERROR_LOGISCH | 4400 | Daten unvollständig- | Der TSP MUSS prüfen, ob alle Pflichtfelder |
-| ERROR_LOGISCH | 4403 | Verbotener Aufruf | Der TSP MUSS prüfen, ob der Aufruf der |
-| ERROR_LOGISCH | 4410 | Datentyp passt nicht / | Der TSP MUSS prüfen, ob die überge- |
-| ERROR_LOGISCH | 4430 | Keine SMC-B im | Der TSP MUSS prüfen, ob überhaupt |
-| Tabelle 31: Rückmeldungen "Antragexport / Monitoring" |  |  |  |
-|  | OK | 3200  <Anzahl Anträge (0..n)> | Es ist kein Fehler aufgetreten. |
-| ERROR_LOGISCH | 3400 | Daten unvollständig- | Der TSP MUSS prüfen, ob alle |
+| ERROR_LOGISCH | 4400 | Daten unvollständig- | *Der TSP MUSS prüfen, ob alle Pflichtfelder* |
+| ERROR_LOGISCH | 4403 | Verbotener Aufruf | *Der TSP MUSS prüfen, ob der Aufruf der* |
+| ERROR_LOGISCH | 4410 | Datentyp passt nicht / | *Der TSP MUSS prüfen, ob die überge-* |
+| ERROR_LOGISCH | 4430 | Keine SMC-B im | *Der TSP MUSS prüfen, ob überhaupt* |
+| **Tabelle 31: Rückmeldungen "Antragexport / Monitoring"** |  |  |  |
+|  | OK | 3200  <Anzahl Anträge (0..n)> | *Es ist kein Fehler aufgetreten.* |
+| ERROR_LOGISCH | 3400 | Daten unvollständig- | *Der TSP MUSS prüfen, ob alle* |
 
-| CODE | NUMBER | DESCRIPTION | BEMERKUNG |
+| **CODE** | **NUMBER** | **DESCRIPTION** | ***BEMERKUNG*** |
 |---|---|---|---|
-| OK | 3200 | <Anzahl Anträge (0..n)> | Es ist kein Fehler aufgetreten. |
-| ERROR_LOGISCH | 3400 | Daten unvollständig- | Der TSP MUSS prüfen, ob alle |
-| ERROR_LOGISCH | 3403 | Verbotener Aufruf | Der TSP MUSS prüfen, ob der |
-| ERROR_LOGISCH | 3410 | Datentyp passt nicht  / | Der TSP MUSS prüfen, ob die |
-| ERROR_TECHNISCH | 3500 | TSP-Allgemeiner technischer | Es ist kein Fehler aufgetreten. |
+| OK | 3200 | <Anzahl Anträge (0..n)> | *Es ist kein Fehler aufgetreten.* |
+| ERROR_LOGISCH | 3400 | Daten unvollständig- | *Der TSP MUSS prüfen, ob alle* |
+| ERROR_LOGISCH | 3403 | Verbotener Aufruf | *Der TSP MUSS prüfen, ob der* |
+| ERROR_LOGISCH | 3410 | Datentyp passt nicht  / | *Der TSP MUSS prüfen, ob die* |
+| ERROR_TECHNISCH | 3500 | TSP-Allgemeiner technischer | *Es ist kein Fehler aufgetreten.* |
 
 4200 Pflichtfelder fehlen Validierung fehlgeschlagen Pflichtfelder vorhanden sind. Aufruf der SOAP-Operation sowie alle übermittelten Feldwerte erlaubt sind. übergebenen Daten dem vorgegebenen Datentyp entsprechen, z. B. ob ein String zu lang ist oder ob bei Inst_ID etwas anderes als eine 9- stellige BSNR eingegeben wurde. Die vorgegebene „Description“ KANN um den Fehlertext des XML-Parsers ergänzt werden. Tabelle 32: Rückmeldungen "Sperrauftrag" Pflichtfelder fehlen Validierung fehlgeschlagen sperrbaren Zustand vorhanden vorhanden sind. SOAP-Operation sowie alle übermittelten Feldwerte erlaubt sind. benen Daten dem vorgegebenen Datentyp entsprechen, z. B. ob ein String zu lang ist oder ob bei Inst_ID etwas anderes als eine 9-stellige BSNR eingegeben wurde. Die vorgegebene „Description“ KANN um den Fehlertext des XML-Parsers ergänzt werden. Karten mit der übergebenen Betriebsstättennummer vorhanden sind und – falls ja – ob Zertifikate auf den ausgegebenen SMC-Bs vorhanden sind, die gesperrt werden können.
 
 ---
 
-| OK  6200 | Es ist kein Fehler aufgetreten.  ERROR_LOGISCH | Daten unvollständig- Der TSP MUSS prüfen, ob alle | 6403  Verbotener Aufruf |
+| OK  6200 | *Es ist kein Fehler aufgetreten. * ERROR_LOGISCH | Daten unvollständig-*Der TSP MUSS prüfen, ob alle* | 6403  Verbotener Aufruf |
 |---|---|---|---|
-| zu lang ist oder ein Attribut einen | Fehlertext des XML-Parsers ergänzt | ERROR_LOGISCH | 6420 |
-| AntragsID nicht vorhanden |  | ERROR_LOGISCH | 6450 |
-| Beispiel für mehrere | Rücksetzungen, von der | „<Number>;<AntragsID >;“ | Mindestens eine |
-| Rücksetzung von mehreren | war nicht möglich. In diesem | Fall ist für jede Rücksetzung, | die nicht durchgeführt werden |
-| CODE | NUMBER | DESCRIPTION | BEMERKUNG |
-| ERROR_LOGISCH | 4440 | Beispiel für mehrere  war: | Mindestens einer von mehreren |
-| ERROR_TECHNISCH | 4500 | TSP-Allgemeiner |  |
+| *zu lang ist oder ein Attribut einen* | *Fehlertext des XML-Parsers ergänzt* | ERROR_LOGISCH | 6420 |
+| AntragsID nicht vorhanden | ** | ERROR_LOGISCH | 6450 |
+| Beispiel für mehrere | Rücksetzungen, von der | „<Number>;<AntragsID >;“ | *Mindestens eine* |
+| *Rücksetzung von mehreren* | *war nicht möglich. In diesem* | *Fall ist für jede Rücksetzung,* | *die nicht durchgeführt werden* |
+| **CODE** | **NUMBER** | **DESCRIPTION** | ***BEMERKUNG*** |
+| ERROR_LOGISCH | 4440 | Beispiel für mehrere  war: | *Mindestens einer von mehreren* |
+| ERROR_TECHNISCH | 4500 | TSP-Allgemeiner | ** |
 
 **Tabelle 33: Rückmeldungen "Anträge in Bearbeitung setzen"**
 
-| CODE | NUMBER | DESCRIPTION | BEMERKUNG |
+| **CODE** | **NUMBER** | **DESCRIPTION** | ***BEMERKUNG*** |
 |---|---|---|---|
-| OK | 6200 | OK | Es ist kein Fehler aufgetreten. |
-| ERROR_LOGISCH | 6400 | Daten unvollständig- | Der TSP MUSS prüfen, ob alle |
-| ERROR_LOGISCH | 6403 | Verbotener Aufruf | Der TSP MUSS prüfen, ob der Aufruf der |
-| ERROR_LOGISCH | 6410 | Datentyp passt nicht / | Der TSP MUSS prüfen, ob die  zu lang ist oder ein Attribut einen  Fehlertext des XML-Parsers ergänzt |
-| ERROR_LOGISCH | 6420 | AntragsID nicht vorhanden  Beispiel für mehrere  Rücksetzungen, von der  „<Number>;<AntragsID >;“ |  |
-| ERROR_LOGISCH | 6460 | Antrag kann nicht | Antrag hat einen Status, aus dem eine |
-| ERROR_TECHNISCH | 6500 | TSP-Allgemeiner |  |
+| OK | 6200 | OK | *Es ist kein Fehler aufgetreten.* |
+| ERROR_LOGISCH | 6400 | Daten unvollständig- | *Der TSP MUSS prüfen, ob alle* |
+| ERROR_LOGISCH | 6403 | Verbotener Aufruf | *Der TSP MUSS prüfen, ob der Aufruf der* |
+| ERROR_LOGISCH | 6410 | Datentyp passt nicht / | *Der TSP MUSS prüfen, ob die  zu lang ist oder ein Attribut einen  Fehlertext des XML-Parsers ergänzt* |
+| ERROR_LOGISCH | 6420 | AntragsID nicht vorhanden  Beispiel für mehrere  Rücksetzungen, von der  „<Number>;<AntragsID >;“ | ** |
+| ERROR_LOGISCH | 6460 | Antrag kann nicht | *Antrag hat einen Status, aus dem eine* |
+| ERROR_TECHNISCH | 6500 | TSP-Allgemeiner | ** |
 
 6400 6410 Sperraufträge (Variante 3), von der eine nicht erfolgreich „<Number>;<InstID>;“ technischer Fehler Pflichtfelder fehlen Datentyp passt nicht / Validierung fehlgeschlagen eine nicht erfolgreich war: Sperraufträgen konnte nicht durchgeführt werden. In diesem Fall ist für jede Inst_ID (Betriebsstättennummer), für die keine Sperrung durchgeführt werden konnte, der konkrete Fehler in <Number> anzugeben.  Pflichtfelder vorhanden sind. Der TSP MUSS prüfen, ob der Aufruf der SOAP-Operation sowie alle übermittelten Feldwerte erlaubt sind. Der TSP MUSS prüfen, ob die übergebenen Daten dem vorgegebenen Datentyp entsprechen, ob z. B. ein String unzulässigen Wert enthält. Die vorgegebene „Description“ KANN um werden. zurückgesetzt werden technischer Fehler konnte, der konkrete Fehler in <Number> anzugeben. Rücksetzung nicht zulässig ist.
 

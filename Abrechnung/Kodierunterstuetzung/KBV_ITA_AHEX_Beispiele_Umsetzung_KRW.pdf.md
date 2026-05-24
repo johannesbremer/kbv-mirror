@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | BUNDESVEREINIGUNG     DEZERNAT DIGITALISIERUNG UND IT  15. APRIL 2023   VERSION: 1.02 |
+|  | **BUNDESVEREINIGUNG     DEZERNAT DIGITALISIERUNG UND IT  15. APRIL 2023   VERSION: 1.02  ** |
 |---|---|
 
 # BEISPIELE FÜR DIE UMSETZUNG
@@ -110,7 +110,7 @@ KASSENÄRZTLICHE IT IN DER ARZTPRAXIS
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.02 | 15.04.2023 | KBV | Ergänzung der UseCases 6,8,9    Ergänzung der Korrekturwerte    Einfügung Kapitel 4 Beispiele | Ergänzung            Ergänzung      Zusammenführung | 10, 13, 17            11      30 |
 | 1.01 | 23.11.2021 | KBV | Korrektur UseCase 13 |  | 26 |
@@ -124,9 +124,9 @@ um den Fall, dass die Kodierregeln direkt nach der Erfassung der einzelnen Diagn
 
 **1.1** **KONFIGURATION DER KODIERREGELN I**
 
-| REGELKONFIGURATION | | |
+| **REGELKONFIGURATION** | | |
 |---|---|---|
-| Regel-ID | Prüfzeitpunkt | Aktivitätsstatus |
+| **Regel-ID** | **Prüfzeitpunkt** | **Aktivitätsstatus** |
 | 01-01-001 | „bei Kodierung“ | „aktiv“ |
 | 01-01-002 | „bei Kodierung“ | „aktiv“ |
 | 01-02-010 | „bei Kodierung“ | „aktiv“ |
@@ -164,30 +164,30 @@ Regelkonfiguration gesperrt sein. im Rahmen der
 
 Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle  „EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER“ angegebenen ICD-10-GM-Kodes für den  Versicherten kodiert werden.
 
-| EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER | |
+| **EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER** | |
 |---|---|
-| ICD-10-GM-Kode | Diagnosesicherheit |
+| **ICD-10-GM-Kode** | **Diagnosesicherheit** |
 | J06.9 | G |
 | I21.2 | Z |
 | J44.19 | G |
 | R52.2 | G |
 
-| ERWARTETE REAKTION DER SOFTWARE |
-|---|
-| Nach der Beendigung des Kodiervorgangs wird die Kodierregel mit der ID „01-01-001“ ausgelöst |
-| Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat:  I21.2 Z |
-| Anzeige des folgenden Hinweistextes:  Für die Abbildung eines Zustandes nach akutem Myokardinfarkt sieht die ICD-10 einen spezifischen Kode |
-| Anzeige des folgenden Vorschlagstextes:  Sofern zutreffend, ersetzen Sie bitte den Kode durch einen der folgenden Kodes mit dem  I25.20 (Alter Myokardinfarkt, 29 Tage bis unter 4 Monate zurückliegend) G  I25.21 (Alter Myokardinfarkt, 4 Monate bis unter 1 Jahr zurückliegend) G  I25.22 (Alter Myokardinfarkt, 1 Jahr und länger zurückliegend) G  I25.29 (Alter Myokardinfarkt, nicht näher bezeichnet) G |
+\| **ERWARTETE REAKTION DER SOFTWARE** |
+\|---|
+\| **Nach der Beendigung des Kodiervorgangs wird die Kodierregel mit der ID „01-01-001“ ausgelöst** |
+\| Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat:  I21.2 Z |
+\| Anzeige des folgenden Hinweistextes: *Für die Abbildung eines Zustandes nach akutem Myokardinfarkt sieht die ICD-10 einen spezifischen Kode* |
+\| Anzeige des folgenden Vorschlagstextes: *Sofern zutreffend, ersetzen Sie bitte den Kode durch einen der folgenden Kodes mit dem  I25.20 (Alter Myokardinfarkt, 29 Tage bis unter 4 Monate zurückliegend) G  I25.21 (Alter Myokardinfarkt, 4 Monate bis unter 1 Jahr zurückliegend) G  I25.22 (Alter Myokardinfarkt, 1 Jahr und länger zurückliegend) G  I25.29 (Alter Myokardinfarkt, nicht näher bezeichnet) G* |
 
 Der Anwender wählt den ICD-10-GM- Kode I25.22 G aus der Vorschlagsliste aus und bestätigt die Auswahl.
 
-| ERWARTETE REAKTION DER SOFTWARE |
-|---|
-| Der ICD-10-GM-Kode I21.2 mit der Diagnosesicherheit Z wird durch den ICD -10-GM-Kode I25.22 mit der |
+\| **ERWARTETE REAKTION DER SOFTWARE** |
+\|---|
+\| Der ICD-10-GM-Kode I21.2 mit der Diagnosesicherheit Z wird durch den ICD -10-GM-Kode I25.22 mit der |
 
-| ERWARTETE ERGEBNISDATEN | |
+| **ERWARTETE ERGEBNISDATEN** | |
 |---|---|
-| ICD-10-GM-Kode | Zusatzkennzeichen für die Diagnosensicherheit |
+| **ICD-10-GM-Kode** | **Zusatzkennzeichen für die Diagnosensicherheit** |
 | J06.9 | G |
 | I25.22 | G |
 | J44.19 | G |
@@ -201,21 +201,21 @@ vor. Zusatzkennzeichen "G": Diagnosensicherheit G ersetzt.
 
 Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle  „EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER“ angegebenen ICD-10-GM-Kodes für den  Versicherten kodiert werden.
 
-| EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER | |
+| **EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER** | |
 |---|---|
-| ICD-10-GM-Kode | Diagnosesicherheit |
+| **ICD-10-GM-Kode** | **Diagnosesicherheit** |
 | J06.9 | G |
 | I21.0 | G |
 | J44.19 | G |
 | R52.2 | G |
 
-| ERWARTETE REAKTION DER SOFTWARE |
-|---|
-| Nach der Beendigung des Kodiervorgangs wird keine Kodierregel ausgelöst |
+\| **ERWARTETE REAKTION DER SOFTWARE** |
+\|---|
+\| **Nach der Beendigung des Kodiervorgangs wird keine Kodierregel ausgelöst** |
 
-| ERWARTETE ERGEBNISDATEN | |
+| **ERWARTETE ERGEBNISDATEN** | |
 |---|---|
-| ICD-10-GM-Kode | Zusatzkennzeichen für die Diagnosensicherheit |
+| **ICD-10-GM-Kode** | **Zusatzkennzeichen für die Diagnosensicherheit** |
 | J06.9 | G |
 | I21.0 | G |
 | J44.19 | G |
@@ -228,22 +228,22 @@ Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wir
 
 Nach Eingabe der Diagnosen aus UseCase 2 ändert der Anwender bei dem ICD-10-GM-Kode I21.0 das  Zusatzkennzeichen „G“ für die Diagnosensicherheit auf „Z“.
 
-| ERWARTETE REAKTION DER SOFTWARE |
-|---|
-| Nach der Änderung des Zusatzkennzeichens für die Diagnosensicherheit wird die Kodierregel mit der |
-| Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat:  I21.0 Z |
-| Anzeige des folgenden Hinweistextes:  Für die Abbildung eines Zustandes nach akutem Myokardinfarkt sieht die ICD-10 einen spezifischen Kode |
-| Anzeige des folgenden Vorschlagstextes:  Sofern zutreffend, ersetzen Sie bitte den Kode durch einen der folgenden Kodes mit dem  I25.20 (Alter Myokardinfarkt, 29 Tage bis unter 4 Monate zurückliegend) G  I25.21 (Alter Myokardinfarkt, 4 Monate bis unter 1 Jahr zurückliegend) G  I25.22 (Alter Myokardinfarkt, 1 Jahr und länger zurückliegend) G  I25.29 (Alter Myokardinfarkt, nicht näher bezeichnet) G |
+\| **ERWARTETE REAKTION DER SOFTWARE** |
+\|---|
+\| **Nach der Änderung des Zusatzkennzeichens für die Diagnosensicherheit wird die Kodierregel mit der** |
+\| Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat:  I21.0 Z |
+\| Anzeige des folgenden Hinweistextes: *Für die Abbildung eines Zustandes nach akutem Myokardinfarkt sieht die ICD-10 einen spezifischen Kode* |
+\| Anzeige des folgenden Vorschlagstextes: *Sofern zutreffend, ersetzen Sie bitte den Kode durch einen der folgenden Kodes mit dem  I25.20 (Alter Myokardinfarkt, 29 Tage bis unter 4 Monate zurückliegend) G  I25.21 (Alter Myokardinfarkt, 4 Monate bis unter 1 Jahr zurückliegend) G  I25.22 (Alter Myokardinfarkt, 1 Jahr und länger zurückliegend) G  I25.29 (Alter Myokardinfarkt, nicht näher bezeichnet) G* |
 
 Der Anwender wählt den ICD-10-GM- Kode I25.29 G aus der Vorschlagsliste aus und bestätigt die Auswahl.
 
-| ERWARTETE REAKTION DER SOFTWARE |
-|---|
-| Der ICD-10-GM-Kode I21.0 mit der Diagnosesicherheit Z wird durch den ICD -10-GM-Kode I25.29 mit der |
+\| **ERWARTETE REAKTION DER SOFTWARE** |
+\|---|
+\| Der ICD-10-GM-Kode I21.0 mit der Diagnosesicherheit Z wird durch den ICD -10-GM-Kode I25.29 mit der |
 
-| ERWARTETE ERGEBNISDATEN | |
+| **ERWARTETE ERGEBNISDATEN** | |
 |---|---|
-| ICD-10-GM-Kode | Zusatzkennzeichen für die Diagnosensicherheit |
+| **ICD-10-GM-Kode** | **Zusatzkennzeichen für die Diagnosensicherheit** |
 | J06.9 | G |
 | I25.29 | G |
 | J44.19 | G |
@@ -257,30 +257,30 @@ ID „01-01-001“ ausgelöst vor. Zusatzkennzeichen "G": Diagnosensicherheit G 
 
 Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle  „EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER“ angegebenen ICD-10-GM-Kodes für den  Versicherten kodiert werden.
 
-| EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER | |
+| **EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER** | |
 |---|---|
-| ICD-10-GM-Kode | Diagnosesicherheit |
+| **ICD-10-GM-Kode** | **Diagnosesicherheit** |
 | M54.2 | G |
 | E04.9 | G |
 | E11.30 | G |
 
-| ERWARTETE REAKTION DER SOFTWARE |
-|---|
-| Nach der Beendigung des Kodiervorgangs wird die Kodierregel mit der ID „01-02-011“ ausgelöst |
-| Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat:  E11.30 G |
-| Anzeige des folgenden Hinweistextes:  Für die Abbildung von diabetischen Augenkomplikationen sieht die ICD-10 spezifische Kodes vor. |
-| Anzeige des folgenden Vorschlagstextes:  Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes:  H28.0 (Diabetische Katarakt)  H36.0 (Retinopathia diabetica) |
-| Aufforderung an den Anwender, das zutreffende Zusatzkennzeichen für die Diagnosensicherheit zu |
+\| **ERWARTETE REAKTION DER SOFTWARE** |
+\|---|
+\| **Nach der Beendigung des Kodiervorgangs wird die Kodierregel mit der ID „01-02-011“ ausgelöst** |
+\| Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat:  E11.30 G |
+\| Anzeige des folgenden Hinweistextes: *Für die Abbildung von diabetischen Augenkomplikationen sieht die ICD-10 spezifische Kodes vor.* |
+\| Anzeige des folgenden Vorschlagstextes: *Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes:  H28.0 (Diabetische Katarakt)  H36.0 (Retinopathia diabetica)* |
+\| Aufforderung an den Anwender, das zutreffende Zusatzkennzeichen für die Diagnosensicherheit zu |
 
 Der Anwender wählt den Kode H28.0 mit dem Kennzeichen „G“ aus.
 
-| ERWARTETE REAKTION DER SOFTWARE |
-|---|
-| Der ICD-10-GM-Kode H28.0 mit der Diagnosesicherheit G wird ergänzt. |
+\| **ERWARTETE REAKTION DER SOFTWARE** |
+\|---|
+\| Der ICD-10-GM-Kode H28.0 mit der Diagnosesicherheit G wird ergänzt. |
 
-| ERWARTETE ERGEBNISDATEN | |
+| **ERWARTETE ERGEBNISDATEN** | |
 |---|---|
-| ICD-10-GM-Kode | Zusatzkennzeichen für die Diagnosensicherheit |
+| **ICD-10-GM-Kode** | **Zusatzkennzeichen für die Diagnosensicherheit** |
 | M54.2 | G |
 | E04.9 | G |
 | E11.30 | G |
@@ -293,21 +293,21 @@ Der Anwender wählt den Kode H28.0 mit dem Kennzeichen „G“ aus.
 
 Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle  „EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER“ angegebenen ICD-10-GM-Kodes für den  Versicherten kodiert werden.
 
-| EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER | |
+| **EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER** | |
 |---|---|
-| ICD-10-GM-Kode | Diagnosesicherheit |
+| **ICD-10-GM-Kode** | **Diagnosesicherheit** |
 | M17.9 | G |
 | R52.2 | G |
 | E11.30 | V |
 | E79.0 | G |
 
-| ERWARTETE REAKTION DER SOFTWARE |
-|---|
-| Nach der Beendigung des Kodiervorgangs wird keine Kodierregel ausgelöst |
+\| **ERWARTETE REAKTION DER SOFTWARE** |
+\|---|
+\| **Nach der Beendigung des Kodiervorgangs wird keine Kodierregel ausgelöst** |
 
-| ERWARTETE ERGEBNISDATEN | |
+| **ERWARTETE ERGEBNISDATEN** | |
 |---|---|
-| ICD-10-GM-Kode | Zusatzkennzeichen für die Diagnosensicherheit |
+| **ICD-10-GM-Kode** | **Zusatzkennzeichen für die Diagnosensicherheit** |
 | M17.9 | G |
 | R52.2 | G |
 | E11.30 | V |
@@ -316,35 +316,35 @@ Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wir
 
 ---
 
-| ERWARTETE ERGEBNISDATEN | |
+| **ERWARTETE ERGEBNISDATEN** | |
 |---|---|
-| ICD-10-GM-Kode | Zusatzkennzeichen für die Diagnosensicherheit |
+| **ICD-10-GM-Kode** | **Zusatzkennzeichen für die Diagnosensicherheit** |
 | M17.9 | G |
 | R52.2 | G |
 | E11.30 | G |
 | H36.0 | G |
-| 1.1.6 Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle | |
-|  | EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER |
+| **1.1.6** Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle | |
+|  | **EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER** |
 
-| EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER | |
+| **EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER** | |
 |---|---|
-| ICD-10-GM-Kode | Diagnosesicherheit |
+| **ICD-10-GM-Kode** | **Diagnosesicherheit** |
 | M17.9 | G |
 | R52.2 | G |
 | E11.30 | G |
 | H36.0 | G |
 | E11.31 | G |
 
-| ERWARTETE REAKTION DER SOFTWARE |
-|---|
-| Falls die Prüfung gegen das Kodierregelwerk nach Eingabe aller Kodes erfolgt: |
-| Nach der Beendigung des Kodiervorgangs wird keine Kodierregel ausgelöst |
-| Falls die Prüfung gegen das Kodierregelwerk direkt nach der Eingabe eines Kodes erfolgt, können die |
-| Eingabe der Diagnosen E11.30 G und / oder E11.31 G vor der Diagnose H36.0 G: Auslösen der |
-| Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat:  E11.30 G bzw. E11.31 G |
-| Anzeige des folgenden Hinweistextes:  Für die Abbildung von diabetischen Augenkomplikationen sieht die ICD-10 spezifische Kodes vor. |
-| Anzeige des folgenden Vorschlagstextes:  Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes:  H28.0 (Diabetische Katarakt)  H36.0 (Retinopathia diabetica) |
-| Aufforderung an den Anwender, das zutreffende Zusatzkennzeichen für die Diagnosensicherheit zu  Hinweis für die Prüfung der Umsetzung:  Bitte wählen Sie das Zusatzkennzeichen „G“. |
+\| **ERWARTETE REAKTION DER SOFTWARE** |
+\|---|
+\| **Falls die Prüfung gegen das Kodierregelwerk nach Eingabe aller Kodes erfolgt:** |
+\| **Nach der Beendigung des Kodiervorgangs wird keine Kodierregel ausgelöst** |
+\| **Falls die Prüfung gegen das Kodierregelwerk direkt nach der Eingabe eines Kodes erfolgt, können die** |
+\| **Eingabe der Diagnosen E11.30 G und / oder E11.31 G vor der Diagnose H36.0 G: Auslösen der** |
+\| Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat:  E11.30 G bzw. E11.31 G |
+\| Anzeige des folgenden Hinweistextes: *Für die Abbildung von diabetischen Augenkomplikationen sieht die ICD-10 spezifische Kodes vor.* |
+\| Anzeige des folgenden Vorschlagstextes: *Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes:  H28.0 (Diabetische Katarakt)  H36.0 (Retinopathia diabetica)* |
+\| Aufforderung an den Anwender, das zutreffende Zusatzkennzeichen für die Diagnosensicherheit zu  Hinweis für die Prüfung der Umsetzung:  Bitte wählen Sie das Zusatzkennzeichen „G“. |
 
 folgenden Regeln in Abhängigkeit von der Eingabereihenfolge ausgelöst werden Kodierregel mit der ID 01-02-011 ergänzen. UseCase 6 „EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER“ angegebenen ICD-10-GM-Kodes für den Versicherten kodiert werden.
 
@@ -352,40 +352,40 @@ folgenden Regeln in Abhängigkeit von der Eingabereihenfolge ausgelöst werden K
 
 | Der Anwender quittiert den Hinweis ohne eine der vorgeschlagenen Änderungen anzunehmen. | |
 |---|---|
-| ERWARTETE REAKTION DER SOFTWARE |  |
+| **ERWARTETE REAKTION DER SOFTWARE** |  |
 | Es werden keine Änderungen an den eingegebenen Kodes durchgeführt. |  |
-|  | ERWARTETE ERGEBNISDATEN |
-|  | ICD-10-GM-Kode |
-| Zusatzkennzeichen für die Diagnosensicherheit | G43.9 |
-| ERWARTETE ERGEBNISDATEN | |
+|  | **ERWARTETE ERGEBNISDATEN** |
+|  | **ICD-10-GM-Kode** |
+| **Zusatzkennzeichen für die Diagnosensicherheit** | G43.9 |
+| **ERWARTETE ERGEBNISDATEN** | |
 | E11.31 | G |
 
-1.1.7 UseCase 7 Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle „EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER“ angegebenen ICD-10-GM-Kodes für den Versicherten kodiert werden. EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER I10.90 E11.40 Nach der Beendigung des Kodiervorgangs wird die Kodierregel mit der ID „01-02-012“ ausgelöst Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: E11.40 G Anzeige des folgenden Hinweistextes: Für die Abbildung von neurologischen Komplikationen bei Diabetes mellitus sieht die ICD-10 spezifische Kodes vor. Anzeige des folgenden Vorschlagstextes: Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes: G59.0 (Diabetische Mononeuropathie) G63.2 (Diabetische Polyneuropathie) G73.0 (Myastheniesyndrome bei endokrinen Krankheiten) G99.00 (Gastroparese bei autonomer Neuropathie bei endokrinen und Stoffwechselkrankheiten) G99.08 (Sonstige autonome Neuropathie bei endokrinen und Stoffwechselkrankheiten) Aufforderung an den Anwender, das zutreffende Zusatzkennzeichen für die Diagnosensicherheit zu ergänzen Diagnosesicherheit | EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER | |
+1.1.7 UseCase 7 Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle „EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER“ angegebenen ICD-10-GM-Kodes für den Versicherten kodiert werden. EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER I10.90 E11.40 Nach der Beendigung des Kodiervorgangs wird die Kodierregel mit der ID „01-02-012“ ausgelöst Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: E11.40 G Anzeige des folgenden Hinweistextes: Für die Abbildung von neurologischen Komplikationen bei Diabetes mellitus sieht die ICD-10 spezifische Kodes vor. Anzeige des folgenden Vorschlagstextes: Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes: G59.0 (Diabetische Mononeuropathie) G63.2 (Diabetische Polyneuropathie) G73.0 (Myastheniesyndrome bei endokrinen Krankheiten) G99.00 (Gastroparese bei autonomer Neuropathie bei endokrinen und Stoffwechselkrankheiten) G99.08 (Sonstige autonome Neuropathie bei endokrinen und Stoffwechselkrankheiten) Aufforderung an den Anwender, das zutreffende Zusatzkennzeichen für die Diagnosensicherheit zu ergänzen Diagnosesicherheit | **EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER** | |
 |---|---|
-| ICD-10-GM-Kode | Diagnosesicherheit |
+| **ICD-10-GM-Kode** | **Diagnosesicherheit** |
 | G43.9 | G |
 | I10.90 | G |
 | E11.40 | G |
 
-| ERWARTETE REAKTION DER SOFTWARE |
-|---|
-| Nach der Beendigung des Kodiervorgangs wird die Kodierregel mit der ID „01-02-012“ ausgelöst |
-| Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat:  E11.40 G |
-| Anzeige des folgenden Hinweistextes:  Für die Abbildung von neurologischen Komplikationen bei Diabetes mellitus sieht die ICD-10 spezifische |
-| Anzeige des folgenden Vorschlagstextes:  Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes:  G59.0 (Diabetische Mononeuropathie)  G63.2 (Diabetische Polyneuropathie)  G73.0 (Myastheniesyndrome bei endokrinen Krankheiten)  G99.00 (Gastroparese bei autonomer Neuropathie bei endokrinen und Stoffwechselkrankheiten)  G99.08 (Sonstige autonome Neuropathie bei endokrinen und Stoffwechselkrankheiten) |
-| Aufforderung an den Anwender, das zutreffende Zusatzkennzeichen für die Diagnosensicherheit zu |
+\| **ERWARTETE REAKTION DER SOFTWARE** |
+\|---|
+\| **Nach der Beendigung des Kodiervorgangs wird die Kodierregel mit der ID „01-02-012“ ausgelöst** |
+\| Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat:  E11.40 G |
+\| Anzeige des folgenden Hinweistextes: *Für die Abbildung von neurologischen Komplikationen bei Diabetes mellitus sieht die ICD-10 spezifische* |
+\| Anzeige des folgenden Vorschlagstextes: *Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes:  G59.0 (Diabetische Mononeuropathie)  G63.2 (Diabetische Polyneuropathie)  G73.0 (Myastheniesyndrome bei endokrinen Krankheiten)  G99.00 (Gastroparese bei autonomer Neuropathie bei endokrinen und Stoffwechselkrankheiten)  G99.08 (Sonstige autonome Neuropathie bei endokrinen und Stoffwechselkrankheiten)* |
+\| Aufforderung an den Anwender, das zutreffende Zusatzkennzeichen für die Diagnosensicherheit zu |
 
-| ERWARTETE REAKTION DER SOFTWARE |
-|---|
-| Es werden keine Änderungen an den eingegebenen Kodes durchgeführt. |
+\| **ERWARTETE REAKTION DER SOFTWARE** |
+\|---|
+\| Es werden keine Änderungen an den eingegebenen Kodes durchgeführt. |
 
-| ERWARTETE ERGEBNISDATEN | |
+| **ERWARTETE ERGEBNISDATEN** | |
 |---|---|
-| ICD-10-GM-Kode | Zusatzkennzeichen für die Diagnosensicherheit |
+| **ICD-10-GM-Kode** | **Zusatzkennzeichen für die Diagnosensicherheit** |
 | G43.9 | G |
-| ERWARTETE ERGEBNISDATEN | |
+| **ERWARTETE ERGEBNISDATEN** | |
 | E11.31 | G |
-| 1.1.7 | Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle |
+| **1.1.7** | Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle |
 
 
 ---
@@ -394,42 +394,42 @@ folgenden Regeln in Abhängigkeit von der Eingabereihenfolge ausgelöst werden K
 |---|---|
 |  |  |
 |  |  |
-| ERWARTETE ERGEBNISDATEN | |
+| **ERWARTETE ERGEBNISDATEN** | |
 | I10.90 | G |
 | E11.40 | G |
 
 
 ---
 
-| ERWARTETE REAKTION DER SOFTWARE | |
+| **ERWARTETE REAKTION DER SOFTWARE** | |
 |---|---|
-| Falls die Diagnosen direkt nach der Eingabe der Einzeldiagnosen geprüft werden und eine der | |
+| **Falls die Diagnosen direkt nach der Eingabe der Einzeldiagnosen geprüft werden und eine der** | |
 | Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat:  E11.20 G bzw. E10.20 G | |
-| Anzeige des folgenden Hinweistextes:  Für die Abbildung von diabetischen Nierenkomplikationen sieht die ICD-10 einen spezifischen Kode vor.. | |
-| Anzeige des folgenden Vorschlagstextes:  Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes:  N08.3 (Glomeruläre Krankheiten bei Diabetes mellitus  (E10-E14+, vierte Stelle .2)) | |
+| Anzeige des folgenden Hinweistextes: *Für die Abbildung von diabetischen Nierenkomplikationen sieht die ICD-10 einen spezifischen Kode vor..* | |
+| Anzeige des folgenden Vorschlagstextes: *Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes:  N08.3 (Glomeruläre Krankheiten bei Diabetes mellitus  (E10-E14+, vierte Stelle .2))* | |
 | Aufforderung an den Anwender, das zutreffende Zusatzkennzeichen für die Diagnosensicherheit zu | |
-| Falls die Diagnosen direkt nach der Eingabe der Einzeldiagnosen geprüft werden und die Diagnose | |
+| **Falls die Diagnosen direkt nach der Eingabe der Einzeldiagnosen geprüft werden und die Diagnose** | |
 | Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat:  N08.3 G | |
-| Anzeige des folgenden Hinweistextes:  Der Kode für diabetische Nierenkomplikationen ist laut ICD-10 nur in Verbindung mit einem Kode für den | |
-| Anzeige des folgenden Vorschlagstextes:  Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes:  E10.20 (Diabetes mellitus vom Typ 1 mit Nierenkomplikationen [N08.3*], nicht als entgleist  E10.21 (Diabetes mellitus vom Typ 1 mit Nierenkomplikationen, als entgleist bezeichnet [N08.3*])  E11.20 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit Nierenkomplikationen, | |
-| 1.1.8 Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle | |
-| EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER  ICD-10-GM-Kode  Diagnosesicherheit  J30.1  G  E11.20  G  N08.3  G  M54.5  G  E10.20  G    ERWARTETE REAKTION DER SOFTWARE  Falls die Diagnosen direkt nach der Eingabe der Einzeldiagnosen geprüft werden und eine der  Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat:  E11.20 G bzw. E10.20 G  Anzeige des folgenden Hinweistextes:  Für die Abbildung von diabetischen Nierenkomplikationen sieht die ICD-10 einen spezifischen Kode vor.. Anzeige des folgenden Vorschlagstextes:  Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes:  N08.3 (Glomeruläre Krankheiten bei Diabetes mellitus  (E10-E14+, vierte Stelle .2)) | |
-| 1.1.8 Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle | |
-| EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER | |
+| Anzeige des folgenden Hinweistextes: *Der Kode für diabetische Nierenkomplikationen ist laut ICD-10 nur in Verbindung mit einem Kode für den* | |
+| Anzeige des folgenden Vorschlagstextes: *Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes:  E10.20 (Diabetes mellitus vom Typ 1 mit Nierenkomplikationen [N08.3*], nicht als entgleist  E10.21 (Diabetes mellitus vom Typ 1 mit Nierenkomplikationen, als entgleist bezeichnet [N08.3*])  E11.20 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit Nierenkomplikationen,* | |
+| **1.1.8** Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle | |
+| **EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER  ICD-10-GM-Kode  Diagnosesicherheit ** J30.1  G  E11.20  G  N08.3  G  M54.5  G  E10.20  G   **ERWARTETE REAKTION DER SOFTWARE  Falls die Diagnosen direkt nach der Eingabe der Einzeldiagnosen geprüft werden und eine der ** Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat:  E11.20 G bzw. E10.20 G  Anzeige des folgenden Hinweistextes: *Für die Abbildung von diabetischen Nierenkomplikationen sieht die ICD-10 einen spezifischen Kode vor..* Anzeige des folgenden Vorschlagstextes: *Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes:  N08.3 (Glomeruläre Krankheiten bei Diabetes mellitus  (E10-E14+, vierte Stelle .2))* | |
+| **1.1.8** Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle | |
+| **EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER** | |
 |  | |
-| ICD-10-GM-Kode | |
-| Diagnosesicherheit | J30.1 |
+| **ICD-10-GM-Kode** | |
+| **Diagnosesicherheit** | J30.1 |
 | G | E11.20 |
 | G | |
 | N08.3 | G |
 | M54.5 | G |
 | E10.20 | |
 | G |  |
-| ERWARTETE REAKTION DER SOFTWARE | Falls die Diagnosen direkt nach der Eingabe der Einzeldiagnosen geprüft werden und eine der  Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat:  E11.20 G bzw. E10.20 G |
+| **ERWARTETE REAKTION DER SOFTWARE** | **Falls die Diagnosen direkt nach der Eingabe der Einzeldiagnosen geprüft werden und eine der ** Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat:  E11.20 G bzw. E10.20 G |
 
-| EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER | |
+| **EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER** | |
 |---|---|
-| ICD-10-GM-Kode | Diagnosesicherheit |
+| **ICD-10-GM-Kode** | **Diagnosesicherheit** |
 | J30.1 | G |
 | E11.20 | G |
 | N08.3 | G |
@@ -440,74 +440,74 @@ UseCase 8 „EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER“ angegebenen ICD-1
 
 ---
 
-| E12.73 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit sonstigen multiplen  E12.74 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit diabetischem | |
+| *E12.73 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit sonstigen multiplen  E12.74 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit diabetischem* | |
 |---|---|
-| E13.72 (Sonstiger näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, nicht | |
-| E13.73 (Sonstiger näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, als  E13.74 (Sonstiger näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, nicht als | |
-| E13.75 (Sonstiger näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, als entgleist  E14.72 (Nicht näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, nicht als | |
-| E14.73 (Nicht näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, als  E14.74 (Nicht näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, nicht als entgleist  E14.75 (Nicht näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, als entgleist | |
+| *E13.72 (Sonstiger näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, nicht* | |
+| *E13.73 (Sonstiger näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, als  E13.74 (Sonstiger näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, nicht als* | |
+| *E13.75 (Sonstiger näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, als entgleist  E14.72 (Nicht näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, nicht als* | |
+| *E14.73 (Nicht näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, als  E14.74 (Nicht näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, nicht als entgleist  E14.75 (Nicht näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, als entgleist* | |
 |  | |
 |  | |
 |  | |
 |  | |
 |  | |
-| ERWARTETE REAKTION DER SOFTWARE | |
-| E11.21 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit Nierenkomplikationen,  E12.20 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung [Malnutrition] mit  E12.21 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung [Malnutrition] mit  E13.20 (Sonstiger näher bezeichneter Diabetes mellitus mit Nierenkomplikationen, nicht als entgleist  E13.21 (Sonstiger näher bezeichneter Diabetes mellitus mit Nierenkomplikationen, als entgleist  E14.20 (Nicht näher bezeichneter Diabetes mellitus mit Nierenkomplikationen, nicht als entgleist  E14.21 (Nicht näher bezeichneter Diabetes mellitus mit Nierenkomplikationen, als entgleist bezeichnet  E10.72 (Diabetes mellitus vom Typ 1 mit sonstigen multiplen Komplikationen, nicht als entgleist  E10.73 (Diabetes mellitus vom Typ 1 mit sonstigen multiplen Komplikationen, als entgleist bezeichnet)  E10.74 (Diabetes mellitus vom Typ 1 mit diabetischem Fußsyndrom, nicht als entgleist bezeichnet)  E10.75 (Diabetes mellitus vom Typ 1 mit diabetischem Fußsyndrom, als entgleist bezeichnet)  E11.72 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit sonstigen multiplen  E11.73 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit sonstigen multiplen  E11.74 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit diabetischem  E11.75 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit diabetischem  E12.72 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit sonstigen multiplen  E12.73 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit sonstigen multiplen  E12.74 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit diabetischem  E12.75 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit diabetischem  E13.72 (Sonstiger näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, nicht  E13.73 (Sonstiger näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, als  E13.74 (Sonstiger näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, nicht als  E13.75 (Sonstiger näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, als entgleist  E14.72 (Nicht näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, nicht als  E14.73 (Nicht näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, als  E14.74 (Nicht näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, nicht als entgleist  E14.75 (Nicht näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, als entgleist | |
-| ERWARTETE REAKTION DER SOFTWARE | |
-| E11.21 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit Nierenkomplikationen,  E12.20 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung [Malnutrition] mit | |
-| E12.21 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung [Malnutrition] mit | |
-| E13.20 (Sonstiger näher bezeichneter Diabetes mellitus mit Nierenkomplikationen, nicht als entgleist | |
-| E13.21 (Sonstiger näher bezeichneter Diabetes mellitus mit Nierenkomplikationen, als entgleist | E14.20 (Nicht näher bezeichneter Diabetes mellitus mit Nierenkomplikationen, nicht als entgleist |
-| E14.21 (Nicht näher bezeichneter Diabetes mellitus mit Nierenkomplikationen, als entgleist bezeichnet | E10.72 (Diabetes mellitus vom Typ 1 mit sonstigen multiplen Komplikationen, nicht als entgleist |
-| E10.73 (Diabetes mellitus vom Typ 1 mit sonstigen multiplen Komplikationen, als entgleist bezeichnet) | |
-| E10.74 (Diabetes mellitus vom Typ 1 mit diabetischem Fußsyndrom, nicht als entgleist bezeichnet) | E10.75 (Diabetes mellitus vom Typ 1 mit diabetischem Fußsyndrom, als entgleist bezeichnet) |
-| E11.72 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit sonstigen multiplen | E11.73 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit sonstigen multiplen |
-| E11.74 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit diabetischem | |
-| E11.75 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit diabetischem | E12.72 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit sonstigen multiplen |
-| E12.73 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit sonstigen multiplen  E12.74 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit diabetischem  E12.75 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit diabetischem | E13.72 (Sonstiger näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, nicht  E13.73 (Sonstiger näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, als  E13.74 (Sonstiger näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, nicht als |
+| **ERWARTETE REAKTION DER SOFTWARE** | |
+| *E11.21 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit Nierenkomplikationen,  E12.20 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung [Malnutrition] mit  E12.21 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung [Malnutrition] mit  E13.20 (Sonstiger näher bezeichneter Diabetes mellitus mit Nierenkomplikationen, nicht als entgleist  E13.21 (Sonstiger näher bezeichneter Diabetes mellitus mit Nierenkomplikationen, als entgleist  E14.20 (Nicht näher bezeichneter Diabetes mellitus mit Nierenkomplikationen, nicht als entgleist  E14.21 (Nicht näher bezeichneter Diabetes mellitus mit Nierenkomplikationen, als entgleist bezeichnet  E10.72 (Diabetes mellitus vom Typ 1 mit sonstigen multiplen Komplikationen, nicht als entgleist  E10.73 (Diabetes mellitus vom Typ 1 mit sonstigen multiplen Komplikationen, als entgleist bezeichnet)  E10.74 (Diabetes mellitus vom Typ 1 mit diabetischem Fußsyndrom, nicht als entgleist bezeichnet)  E10.75 (Diabetes mellitus vom Typ 1 mit diabetischem Fußsyndrom, als entgleist bezeichnet)  E11.72 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit sonstigen multiplen  E11.73 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit sonstigen multiplen  E11.74 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit diabetischem  E11.75 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit diabetischem  E12.72 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit sonstigen multiplen  E12.73 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit sonstigen multiplen  E12.74 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit diabetischem  E12.75 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit diabetischem  E13.72 (Sonstiger näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, nicht  E13.73 (Sonstiger näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, als  E13.74 (Sonstiger näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, nicht als  E13.75 (Sonstiger näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, als entgleist  E14.72 (Nicht näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, nicht als  E14.73 (Nicht näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, als  E14.74 (Nicht näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, nicht als entgleist  E14.75 (Nicht näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, als entgleist* | |
+| **ERWARTETE REAKTION DER SOFTWARE** | |
+| *E11.21 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit Nierenkomplikationen,  E12.20 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung [Malnutrition] mit* | |
+| *E12.21 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung [Malnutrition] mit* | |
+| *E13.20 (Sonstiger näher bezeichneter Diabetes mellitus mit Nierenkomplikationen, nicht als entgleist* | |
+| *E13.21 (Sonstiger näher bezeichneter Diabetes mellitus mit Nierenkomplikationen, als entgleist* | *E14.20 (Nicht näher bezeichneter Diabetes mellitus mit Nierenkomplikationen, nicht als entgleist* |
+| *E14.21 (Nicht näher bezeichneter Diabetes mellitus mit Nierenkomplikationen, als entgleist bezeichnet* | *E10.72 (Diabetes mellitus vom Typ 1 mit sonstigen multiplen Komplikationen, nicht als entgleist* |
+| *E10.73 (Diabetes mellitus vom Typ 1 mit sonstigen multiplen Komplikationen, als entgleist bezeichnet)* | |
+| *E10.74 (Diabetes mellitus vom Typ 1 mit diabetischem Fußsyndrom, nicht als entgleist bezeichnet)* | *E10.75 (Diabetes mellitus vom Typ 1 mit diabetischem Fußsyndrom, als entgleist bezeichnet)* |
+| *E11.72 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit sonstigen multiplen* | *E11.73 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit sonstigen multiplen* |
+| *E11.74 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit diabetischem* | |
+| *E11.75 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit diabetischem* | *E12.72 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit sonstigen multiplen* |
+| *E12.73 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit sonstigen multiplen  E12.74 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit diabetischem  E12.75 (Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung: Mit diabetischem* | *E13.72 (Sonstiger näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, nicht  E13.73 (Sonstiger näher bezeichneter Diabetes mellitus: Mit sonstigen multiplen Komplikationen, als  E13.74 (Sonstiger näher bezeichneter Diabetes mellitus: Mit diabetischem Fußsyndrom, nicht als* |
 
 als entgleist bezeichnet [N08.3*]) Nierenkomplikationen, nicht als entgleist bezeichnet [N08.3*]) Nierenkomplikationen, als entgleist bezeichnet [N08.3*]) bezeichnet [N08.3*]) bezeichnet [N08.3*]) bezeichnet [N08.3*]) [N08.3*]) Komplikationen, nicht als entgleist bezeichnet) Komplikationen, nicht als entgleist bezeichnet)
 
 ---
 
-| Entfernen Sie bitte nicht zutreffende Kodes.  E10.20 (Diabetes mellitus vom Typ 1 mit | |
+| *Entfernen Sie bitte nicht zutreffende Kodes.  E10.20 (Diabetes mellitus vom Typ 1 mit* | |
 |---|---|
-| Entfernen Sie bitte nicht zutreffende Kodes. | |
-| E10.20 (Diabetes mellitus vom Typ 1 mit  E11.20 (Nicht primär insulinabhängiger | |
+| *Entfernen Sie bitte nicht zutreffende Kodes.* | |
+| *E10.20 (Diabetes mellitus vom Typ 1 mit  E11.20 (Nicht primär insulinabhängiger* | |
 | Der Anwender wählt aus, dass der ICD-10-GM- | |
-| ERWARTETE REAKTION DER SOFTWARE | |
+| **ERWARTETE REAKTION DER SOFTWARE** | |
 |  | |
 | Der ICD-10-GM-Kode E10.20 G wird aus den eingegebenen Behandlungsdiagnosen entfernt. | |
 | Anmerkung: Gemäß KP-710, Akzeptanzkriterium 6, werden gegen gelöschte Behandlungsdiagnosen | |
-| ERWARTETE ERGEBNISDATEN | |
-| ICD-10-GM-Kode  Zusatzkennzeichen für die Diagnosensicherheit  J30.1  G | |
-| ERWARTETE REAKTION DER SOFTWARE | |
-| Aufforderung an den Anwender, das zutreffende Zusatzkennzeichen für die Diagnosensicherheit zu  Hinweis für die Prüfung der Umsetzung: Übernehmen Sie die Diagnosen E10.20 und E11.10, jeweils mit  Nach der Beendigung des Kodiervorgangs wird (bei sequenzieller Abarbeitung) zuerst die Kodierregel  Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat:  ID „01-01-025“  ID „01-01-026“  E10.20 G  E11.20 G  Anzeige des folgenden Hinweistextes:  ID „01-01-025“  ID „01-01-026“  Unterschiedliche Typen des Diabetes mellitus  Unterschiedliche Typen des Diabetes mellitus  Anzeige des folgenden Vorschlagstextes:  ID „01-01-025“  ID „01-01-026“  Entfernen Sie bitte nicht zutreffende Kodes.  E10.20 (Diabetes mellitus vom Typ 1 mit  E11.20 (Nicht primär insulinabhängiger  Entfernen Sie bitte nicht zutreffende Kodes.  E10.20 (Diabetes mellitus vom Typ 1 mit  E11.20 (Nicht primär insulinabhängiger    Der Anwender wählt aus, dass der ICD-10-GM-    ERWARTETE REAKTION DER SOFTWARE | |
-| ERWARTETE REAKTION DER SOFTWARE | |
+| **ERWARTETE ERGEBNISDATEN** | |
+| **ICD-10-GM-Kode  Zusatzkennzeichen für die Diagnosensicherheit ** J30.1  G | |
+| **ERWARTETE REAKTION DER SOFTWARE** | |
+| Aufforderung an den Anwender, das zutreffende Zusatzkennzeichen für die Diagnosensicherheit zu  Hinweis für die Prüfung der Umsetzung: Übernehmen Sie die Diagnosen E10.20 und E11.10, jeweils mit **Nach der Beendigung des Kodiervorgangs wird (bei sequenzieller Abarbeitung) zuerst die Kodierregel ** Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: **ID „01-01-025“  ID „01-01-026“ ** E10.20 G  E11.20 G  Anzeige des folgenden Hinweistextes: **ID „01-01-025“  ID „01-01-026“ ***Unterschiedliche Typen des Diabetes mellitus  Unterschiedliche Typen des Diabetes mellitus * Anzeige des folgenden Vorschlagstextes: **ID „01-01-025“  ID „01-01-026“ ***Entfernen Sie bitte nicht zutreffende Kodes.  E10.20 (Diabetes mellitus vom Typ 1 mit  E11.20 (Nicht primär insulinabhängiger  Entfernen Sie bitte nicht zutreffende Kodes.  E10.20 (Diabetes mellitus vom Typ 1 mit  E11.20 (Nicht primär insulinabhängiger *   Der Anwender wählt aus, dass der ICD-10-GM-   **ERWARTETE REAKTION DER SOFTWARE** | |
+| **ERWARTETE REAKTION DER SOFTWARE** | |
 | Aufforderung an den Anwender, das zutreffende Zusatzkennzeichen für die Diagnosensicherheit zu  Hinweis für die Prüfung der Umsetzung: Übernehmen Sie die Diagnosen E10.20 und E11.10, jeweils mit | |
-| Nach der Beendigung des Kodiervorgangs wird (bei sequenzieller Abarbeitung) zuerst die Kodierregel | |
+| **Nach der Beendigung des Kodiervorgangs wird (bei sequenzieller Abarbeitung) zuerst die Kodierregel** | |
 | Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: | |
-| ID „01-01-025“ | ID „01-01-026“ |
+| **ID „01-01-025“** | **ID „01-01-026“** |
 | E10.20 G | E11.20 G |
 | Anzeige des folgenden Hinweistextes: | |
-| ID „01-01-025“ | ID „01-01-026“ |
-| Unterschiedliche Typen des Diabetes mellitus | Unterschiedliche Typen des Diabetes mellitus |
+| **ID „01-01-025“** | **ID „01-01-026“** |
+| *Unterschiedliche Typen des Diabetes mellitus* | *Unterschiedliche Typen des Diabetes mellitus* |
 | Anzeige des folgenden Vorschlagstextes: | |
-| ID „01-01-025“ | ID „01-01-026“ |
-| Entfernen Sie bitte nicht zutreffende Kodes.  E10.20 (Diabetes mellitus vom Typ 1 mit  E11.20 (Nicht primär insulinabhängiger | Entfernen Sie bitte nicht zutreffende Kodes.  E10.20 (Diabetes mellitus vom Typ 1 mit  E11.20 (Nicht primär insulinabhängiger |
+| **ID „01-01-025“** | **ID „01-01-026“** |
+| *Entfernen Sie bitte nicht zutreffende Kodes.  E10.20 (Diabetes mellitus vom Typ 1 mit  E11.20 (Nicht primär insulinabhängiger* | *Entfernen Sie bitte nicht zutreffende Kodes.  E10.20 (Diabetes mellitus vom Typ 1 mit  E11.20 (Nicht primär insulinabhängiger* |
 
-| ERWARTETE ERGEBNISDATEN | |
+| **ERWARTETE ERGEBNISDATEN** | |
 |---|---|
-| ICD-10-GM-Kode | Zusatzkennzeichen für die Diagnosensicherheit |
+| **ICD-10-GM-Kode** | **Zusatzkennzeichen für die Diagnosensicherheit** |
 | J30.1 | G |
 | E11.20 | G |
-| ERWARTETE REAKTION DER SOFTWARE | |
+| **ERWARTETE REAKTION DER SOFTWARE** | |
 | Aufforderung an den Anwender, das zutreffende Zusatzkennzeichen für die Diagnosensicherheit zu | Hinweis für die Prüfung der Umsetzung: Übernehmen Sie die Diagnosen E10.20 und E11.10, jeweils mit |
-| Nach der Beendigung des Kodiervorgangs wird (bei sequenzieller Abarbeitung) zuerst die Kodierregel | Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: |
+| **Nach der Beendigung des Kodiervorgangs wird (bei sequenzieller Abarbeitung) zuerst die Kodierregel** | Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: |
 
-ergänzen. dem Zusatzkennzeichen „G“. mit der ID „01-01-025“ oder zuerst die Kodierregel mit der ID „01-01-026“ausgelöst schließen sich üblicherweise aus. Nierenkomplikationen [N08.3*], nicht als entgleist bezeichnet) Diabetes mellitus [Typ-2-Diabetes] mit Nierenkomplikationen, nicht als entgleist bezeichnet [N08.3*]) Kode E10.20 G gelöscht aus der Abrechnung entfernt werden soll. keine weiteren Kodierregeln ausgeführt. Da E10.20 G gelöscht wurde , ist dieser Kode kein Bestandteil der Wertemengen des Bedingungsblockes der Regel  mehr. Nach Verarbeitung der zuerst angeschlagenen Regel sollte die jeweils andere Regel daher nicht (mehr) anschlagen. schließen sich üblicherweise aus. Nierenkomplikationen [N08.3*], nicht als entgleist bezeichnet) Diabetes mellitus [Typ-2-Diabetes] mit Nierenkomplikationen, nicht als entgleist bezeichnet [N08.3*])  bzw. des Prüfungsblockes der Regel | ERWARTETE REAKTION DER SOFTWARE |
-|---|
-| Der ICD-10-GM-Kode E10.20 G wird aus den eingegebenen Behandlungsdiagnosen entfernt.  Anmerkung: Gemäß KP-710, Akzeptanzkriterium 6, werden gegen gelöschte Behandlungsdiagnosen |
+ergänzen. dem Zusatzkennzeichen „G“. mit der ID „01-01-025“ oder zuerst die Kodierregel mit der ID „01-01-026“ausgelöst schließen sich üblicherweise aus. Nierenkomplikationen [N08.3*], nicht als entgleist bezeichnet) Diabetes mellitus [Typ-2-Diabetes] mit Nierenkomplikationen, nicht als entgleist bezeichnet [N08.3*]) Kode E10.20 G gelöscht aus der Abrechnung entfernt werden soll. keine weiteren Kodierregeln ausgeführt. Da E10.20 G gelöscht wurde , ist dieser Kode kein Bestandteil der Wertemengen des Bedingungsblockes der Regel  mehr. Nach Verarbeitung der zuerst angeschlagenen Regel sollte die jeweils andere Regel daher nicht (mehr) anschlagen. schließen sich üblicherweise aus. Nierenkomplikationen [N08.3*], nicht als entgleist bezeichnet) Diabetes mellitus [Typ-2-Diabetes] mit Nierenkomplikationen, nicht als entgleist bezeichnet [N08.3*])  bzw. des Prüfungsblockes der Regel | **ERWARTETE REAKTION DER SOFTWARE** |
+\|---|
+\| Der ICD-10-GM-Kode E10.20 G wird aus den eingegebenen Behandlungsdiagnosen entfernt.  Anmerkung: Gemäß KP-710, Akzeptanzkriterium 6, werden gegen gelöschte Behandlungsdiagnosen |
 
 
 ---
@@ -517,7 +517,7 @@ ergänzen. dem Zusatzkennzeichen „G“. mit der ID „01-01-025“ oder zuerst
 |  |  |
 |  |  |
 |  |  |
-| ERWARTETE ERGEBNISDATEN | |
+| **ERWARTETE ERGEBNISDATEN** | |
 | N08.3 | G |
 | M54.5 | G |
 
@@ -528,25 +528,25 @@ ergänzen. dem Zusatzkennzeichen „G“. mit der ID „01-01-025“ oder zuerst
 
 Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle  „EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER“ angegebenen ICD-10-GM-Kodes für den  Versicherten kodiert werden. Bei der Fallanlage wurden bereits die in der Tabelle „ÜBERNOMMENE ICD-10- GM-KODES AUS DEM VORQUARTAL“ aufgelisteten Diagnosen in das aktuelle Quartal übernommen.
 
-| EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER | |
+| **EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER** | |
 |---|---|
-| ICD-10-GM-Kode | Diagnosesicherheit |
+| **ICD-10-GM-Kode** | **Diagnosesicherheit** |
 | G43.9 | G |
 | E11.21 | G |
 | J06.9 | G |
 
-| ÜBERNOMMENE ICD-10-GM-KODES AUS DEM VORQUARTAL | |
+| **ÜBERNOMMENE ICD-10-GM-KODES AUS DEM VORQUARTAL** | |
 |---|---|
-| ICD-10-GM-Kode | Diagnosesicherheit |
+| **ICD-10-GM-Kode** | **Diagnosesicherheit** |
 | I10.90 | G |
 | E11.20 | G |
 | N08.3 | G |
 
-| ERWARTETE REAKTION DER SOFTWARE |
-|---|
-| Nach der Beendigung des Kodiervorgangs wird keine Kodierregel ausgelöst. |
-| Anmerkung: Die Kodierregel „01-02-010“ sollte nicht anschlagen, da die Übernahme von Diagnosen aus |
-| Falls die Diagnosen direkt nachdem sie eingegeben werden gegen die Kodierregeln geprüft werden,  01-01-017  01-02-010   ausgelöst werden, siehe auch UseCase 8. |
+\| **ERWARTETE REAKTION DER SOFTWARE** |
+\|---|
+\| **Nach der Beendigung des Kodiervorgangs wird keine Kodierregel ausgelöst.** |
+\| Anmerkung: Die Kodierregel „01-02-010“ sollte nicht anschlagen, da die Übernahme von Diagnosen aus |
+\| **Falls die Diagnosen direkt nachdem sie eingegeben werden gegen die Kodierregeln geprüft werden,  01-01-017  01-02-010   ausgelöst werden, siehe auch UseCase 8.** |
 
 einem Vorquartal wie ein Kodiervorgang gewertet wird bzw. die übernommenen Diagnosen für die Verarbeitung der Kodierregeln berücksichtigt werden sollen. können die Regeln mit den IDs
 
@@ -554,9 +554,9 @@ einem Vorquartal wie ein Kodiervorgang gewertet wird bzw. die übernommenen Diag
 
 **1.2** **KONFIGURATION DER KODIERREGELN II**
 
-| REGELKONFIGURATION | | |
+| **REGELKONFIGURATION** | | |
 |---|---|---|
-| Regel-ID | Prüfzeitpunkt | Aktivitätsstatus |
+| **Regel-ID** | **Prüfzeitpunkt** | **Aktivitätsstatus** |
 | 01-01-001 | „zur Abrechnung“ | „aktiv“ |
 | 01-01-002 | „zur Abrechnung“ | „aktiv“ |
 | 01-02-010 | „bei Kodierung“ | „inaktiv“ |
@@ -592,18 +592,18 @@ Regelkonfiguration gesperrt sein. im Rahmen der
 
 Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle  „EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER“ angegebenen ICD-10-GM-Kodes für den  Versicherten kodiert werden.
 
-| EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER | |
+| **EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER** | |
 |---|---|
-| ICD-10-GM-Kode | Diagnosesicherheit |
+| **ICD-10-GM-Kode** | **Diagnosesicherheit** |
 | J06.9 | G |
 | I21.2 | Z |
 | J44.19 | G |
 | R52.2 | G |
 
-| ERWARTETE REAKTION DER SOFTWARE |
-|---|
-| Nach der Beendigung des Kodiervorgangs wird keine Kodierregel ausgelöst |
-| Anmerkung: Bei der Regel „01-01-001“ wurde der Prüfzeitpunkt auf das Ereignis „zur Abrechnung“ |
+\| **ERWARTETE REAKTION DER SOFTWARE** |
+\|---|
+\| **Nach der Beendigung des Kodiervorgangs wird keine Kodierregel ausgelöst** |
+\| Anmerkung: Bei der Regel „01-01-001“ wurde der Prüfzeitpunkt auf das Ereignis „zur Abrechnung“ |
 
 konfiguriert. Diese Regel sollte daher nicht anschlagen.
 
@@ -613,17 +613,17 @@ konfiguriert. Diese Regel sollte daher nicht anschlagen.
 
 Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle  „EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER“ angegebenen ICD-10-GM-Kodes für den  Versicherten kodiert werden.
 
-| EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER | |
+| **EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER** | |
 |---|---|
-| ICD-10-GM-Kode | Diagnosesicherheit |
+| **ICD-10-GM-Kode** | **Diagnosesicherheit** |
 | G43.9 | G |
 | E11.21 | G |
 | J06.9 | G |
 
-| ERWARTETE REAKTION DER SOFTWARE |
-|---|
-| Nach der Beendigung des Kodiervorgangs wird keine Kodierregel ausgelöst |
-| Anmerkung: Bei der fakultativen Regel „01-02-010“ wurde der Aktivitätsstatus mit „inaktiv“ konfiguriert. |
+\| **ERWARTETE REAKTION DER SOFTWARE** |
+\|---|
+\| **Nach der Beendigung des Kodiervorgangs wird keine Kodierregel ausgelöst** |
+\| Anmerkung: Bei der fakultativen Regel „01-02-010“ wurde der Aktivitätsstatus mit „inaktiv“ konfiguriert. |
 
 Diese Regel sollte daher nicht anschlagen.
 
@@ -633,9 +633,9 @@ Diese Regel sollte daher nicht anschlagen.
 
 **2.1** **KONFIGURATION DER KODIERREGELN**
 
-| REGELKONFIGURATION | | |
+| **REGELKONFIGURATION** | | |
 |---|---|---|
-| Regel-ID | Prüfzeitpunkt | Aktivitätsstatus |
+| **Regel-ID** | **Prüfzeitpunkt** | **Aktivitätsstatus** |
 | 01-01-001 | „zur Abrechnung“ | „aktiv“ |
 | 01-01-002 | „zur Abrechnung“ | „aktiv“ |
 | 01-02-010 | „zur Abrechnung“ | „aktiv“ |
@@ -669,61 +669,61 @@ Regelkonfiguration gesperrt sein. im Rahmen der
 
 ---
 
-| TESTDATEN | |
+| **TESTDATEN** | |
 |---|---|
-| Patient 1 | |
-| ICD-10-GM-Kode | Zusatzkennzeichen für die Diagnosensicherheit |
+| **Patient 1** | |
+| **ICD-10-GM-Kode** | **Zusatzkennzeichen für die Diagnosensicherheit** |
 | J06.9 | G |
 | E78.0 | G |
 | I83.9 | G |
 | E11.20 | V |
 | K76.0 | G |
-| Patient 2 | |
-| ICD-10-GM-Kode | Zusatzkennzeichen für die Diagnosensicherheit |
+| **Patient 2** | |
+| **ICD-10-GM-Kode** | **Zusatzkennzeichen für die Diagnosensicherheit** |
 | G43.9 | G |
 | I21.3 | Z |
 | N08.3 | G |
 | E11.74 | G |
 | I12.0- | G |
-| Patient 3 | |
-| ICD-10-GM-Kode | Zusatzkennzeichen für die Diagnosensicherheit |
+| **Patient 3** | |
+| **ICD-10-GM-Kode** | **Zusatzkennzeichen für die Diagnosensicherheit** |
 | H28.0 | G |
 | A09.9 | V |
 | G59.0 | G |
 | I79.2 | G |
-| Patient 4 | |
-| ICD-10-GM-Kode | Zusatzkennzeichen für die Diagnosensicherheit |
+| **Patient 4** | |
+| **ICD-10-GM-Kode** | **Zusatzkennzeichen für die Diagnosensicherheit** |
 | E03.9 | Z |
 | M17.9 | V |
 | M14.29 | G |
 | E11.60 | G |
 | E13.72 | G |
-| Patient 5 | |
-| ICD-10-GM-Kode | Zusatzkennzeichen für die Diagnosensicherheit |
-| 2.1.1 Im Rahmen eines Abrechnungstestlaufes lässt der Anwender die in der Tabelle „TESTDATEN“ aufgelisteten | |
-|  | TESTDATEN |
-|  | Patient 1 |
-| ICD-10-GM-Kode | Zusatzkennzeichen für die Diagnosensicherheit |
+| **Patient 5** | |
+| **ICD-10-GM-Kode** | **Zusatzkennzeichen für die Diagnosensicherheit** |
+| **2.1.1** Im Rahmen eines Abrechnungstestlaufes lässt der Anwender die in der Tabelle „TESTDATEN“ aufgelisteten | |
+|  | **TESTDATEN** |
+|  | **Patient 1** |
+| **ICD-10-GM-Kode** | **Zusatzkennzeichen für die Diagnosensicherheit** |
 | J06.9 | G |
 | E78.0 | G |
 | I83.9 | |
 | G | E11.20 |
 | V | K76.0 |
-| G | Patient 2 |
-| ICD-10-GM-Kode | Zusatzkennzeichen für die Diagnosensicherheit |
+| G | **Patient 2** |
+| **ICD-10-GM-Kode** | **Zusatzkennzeichen für die Diagnosensicherheit** |
 | G43.9 | G |
 | I21.3 | Z |
 | N08.3 | |
 | G | E11.74 |
 | G | I12.0- |
-| G | Patient 3 |
-| ICD-10-GM-Kode | Zusatzkennzeichen für die Diagnosensicherheit |
+| G | **Patient 3** |
+| **ICD-10-GM-Kode** | **Zusatzkennzeichen für die Diagnosensicherheit** |
 | H28.0 | G |
 | A09.9 | |
 | V | G59.0 |
 | G | I79.2 |
-| G | Patient 4 |
-| ICD-10-GM-Kode | Zusatzkennzeichen für die Diagnosensicherheit |
+| G | **Patient 4** |
+| **ICD-10-GM-Kode** | **Zusatzkennzeichen für die Diagnosensicherheit** |
 | E03.9 | Z |
 | M17.9 | V |
 
@@ -737,79 +737,79 @@ UseCase 12 Daten gegen die behandlungsfallbezogenen Kodierregeln prüfen.
 | I83.9 | G |
 | E11.20 | V |
 | K76.0 | G |
-| Patient 6 | ICD-10-GM-Kode |
-| Zusatzkennzeichen für die Diagnosensicherheit | M54.5 |
+| **Patient 6** | **ICD-10-GM-Kode** |
+| **Zusatzkennzeichen für die Diagnosensicherheit** | M54.5 |
 | G | E79.0 |
 | G | |
 | I66.0 | G |
 | G46.0 | G |
 | E14.5- | G |
-| Patient 7 | ICD-10-GM-Kode |
-| Zusatzkennzeichen für die Diagnosensicherheit | M51.2 |
+| **Patient 7** | **ICD-10-GM-Kode** |
+| **Zusatzkennzeichen für die Diagnosensicherheit** | M51.2 |
 | G | R52.2 |
 | G | |
 | I13.20 | G |
 | I50.9 | G |
-| Patient 8 | ICD-10-GM-Kode |
-| Zusatzkennzeichen für die Diagnosensicherheit | I25.9 |
+| **Patient 8** | **ICD-10-GM-Kode** |
+| **Zusatzkennzeichen für die Diagnosensicherheit** | I25.9 |
 | G | I22.0 |
 | Z | |
 | I13.20 | G |
 | N18.9 | G |
 | H36.0 | G |
 |  |  |
-| ERWARTETE REGELANSCHLÄGE |  |
-| Patient | Regel-ID |
-| Auslösender | |
-| Regelkonflikt | 1 |
-| TESTDATEN | |
+| **ERWARTETE REGELANSCHLÄGE** |  |
+| **Patient** | **Regel-ID** |
+| **Auslösender** | |
+| **Regelkonflikt** | 1 |
+| **TESTDATEN** | |
 | J06.9 | G |
 | E78.0 | G |
 | I83.9 | G |
 | E11.20 | V |
 | K76.0 | G |
-| Patient 6 | |
-| ICD-10-GM-Kode | Zusatzkennzeichen für die Diagnosensicherheit |
+| **Patient 6** | |
+| **ICD-10-GM-Kode** | **Zusatzkennzeichen für die Diagnosensicherheit** |
 | M54.5 | G |
 | E79.0 | G |
 | I66.0 | G |
 | G46.0 | G |
 | E14.5- | G |
-| Patient 7 | |
-| ICD-10-GM-Kode | Zusatzkennzeichen für die Diagnosensicherheit |
+| **Patient 7** | |
+| **ICD-10-GM-Kode** | **Zusatzkennzeichen für die Diagnosensicherheit** |
 | M51.2 | G |
 | R52.2 | G |
 | I13.20 | G |
 | I50.9 | G |
-| Patient 8 | |
-| ICD-10-GM-Kode | Zusatzkennzeichen für die Diagnosensicherheit |
+| **Patient 8** | |
+| **ICD-10-GM-Kode** | **Zusatzkennzeichen für die Diagnosensicherheit** |
 | I25.9 | G |
 | I22.0 | Z |
 | I13.20 | G |
 | N18.9 | G |
 | H36.0 | G |
 
-| ERWARTETE REGELANSCHLÄGE | | | |
+| **ERWARTETE REGELANSCHLÄGE** | | | |
 |---|---|---|---|
-| Patient | Regel-ID | Auslösender | Regelkonflikt |
+| **Patient** | **Regel-ID** | **Auslösender** | **Regelkonflikt** |
 | 1 | Keine Regelanschläge | | |
 | 2 | 01-01-001 | I21.3 Z | Zusatzkennzeichen Z für die Diagnosensicherheit |
 | 2 | 01-02-016 | E11.74 G | Kein Kode aus |
-| TESTDATEN | | | |
+| **TESTDATEN** | | | |
 | J06.9 | | | |
 | G | E78.0 | G | I83.9 |
 | G | E11.20 | V | K76.0 |
-| G | Patient 6 | ICD-10-GM-Kode | Zusatzkennzeichen für die Diagnosensicherheit |
+| G | **Patient 6** | **ICD-10-GM-Kode** | **Zusatzkennzeichen für die Diagnosensicherheit** |
 | M54.5 | G | E79.0 | G |
 | I66.0 | G | G46.0 | G |
-| E14.5- | G | Patient 7 | ICD-10-GM-Kode |
-| Zusatzkennzeichen für die Diagnosensicherheit | M51.2 | | |
+| E14.5- | G | **Patient 7** | **ICD-10-GM-Kode** |
+| **Zusatzkennzeichen für die Diagnosensicherheit** | M51.2 | | |
 | G | R52.2 | G | I13.20 |
-| G | I50.9 | G | Patient 8 |
-| ICD-10-GM-Kode | Zusatzkennzeichen für die Diagnosensicherheit | I25.9 | G |
+| G | I50.9 | G | **Patient 8** |
+| **ICD-10-GM-Kode** | **Zusatzkennzeichen für die Diagnosensicherheit** | I25.9 | G |
 | I22.0 | Z | I13.20 | G |
 | N18.9 | G | H36.0 | G |
-| TESTDATEN | | | |
+| **TESTDATEN** | | | |
 | J06.9 | | | |
 
 Keine Regelanschläge (G63.2;G99.0;I70.20;I70.21;I70.22;I70.23;I70.24;I70.25;I70.29;I7
@@ -822,7 +822,7 @@ Keine Regelanschläge (G63.2;G99.0;I70.20;I70.21;I70.22;I70.23;I70.24;I70.25;I70
 |  |  | | |
 |  |  |  |  |
 |  |  |  |  |
-| ERWARTETE REGELANSCHLÄGE | | | |
+| **ERWARTETE REGELANSCHLÄGE** | | | |
 | 9.2;L02.4;L03.02;L03.11;L89.07;L89.08;L89.17;L89.18;L89.27;L89 | | | |
 | 2 | 01-02-030 | I12.0- G | Kein Kode aus (N18.1;N18.2;N18.3;N18.4;N18.5;N18.8- |
 | 3 | 01-01-018 | H28.0 G | Kein Kode aus (E10.3-;E10.30;E10.31;E11.3- |
@@ -836,7 +836,7 @@ Keine Regelanschläge (G63.2;G99.0;I70.20;I70.21;I70.22;I70.23;I70.24;I70.25;I70
 | 8 | 01-01-002 | I22.0 Z | Zusatzkennzeichen Z für die Diagnosensicherheit |
 | 8 | 01-02-048 | I13.20 G | Kein Kode aus (I50.0- |
 | 8 | 01-01-018 | H36.0 G | Kein Kode aus (E10.3-;E10.30;E10.31;E11.3- |
-| ERWARTETE REGELANSCHLÄGE | | | |
+| **ERWARTETE REGELANSCHLÄGE** | | | |
 | 9.2;L02.4;L03.02;L03.11;L89.07;L89.08;L89.17;L89.18;L89.27;L89 | | | |
 
 24 von 32 / KBV / Beispiele für die Umsetzung / Version: 1.02 / 15. April 2023
@@ -851,10 +851,10 @@ Keine Regelanschläge (G63.2;G99.0;I70.20;I70.21;I70.22;I70.23;I70.24;I70.25;I70
 |  |  | | |
 |  |  |  |  |
 |  |  |  |  |
-| ERWARTETE REGELANSCHLÄGE | | | |
+| **ERWARTETE REGELANSCHLÄGE** | | | |
 | ;E12.72;E12.73;E12.74;E12.75;E13.7- | | | |
-|  |  | ERWARTETE REAKTION DER SOFTWARE |  |
-| Bei Durchlaufen der Testabrechnung werden Kodierregeln ausgelöst wie in der Tabelle „Erwartete | Die Software generiert eine Übersicht zu den Regelanschlägen | Die Software ermöglicht eine Abarbeitung der einzelnen Regelanschläge auf Patienten-/Fallebene |  |
+|  |  | **ERWARTETE REAKTION DER SOFTWARE** |  |
+| **Bei Durchlaufen der Testabrechnung werden Kodierregeln ausgelöst wie in der Tabelle „Erwartete** | Die Software generiert eine Übersicht zu den Regelanschlägen | Die Software ermöglicht eine Abarbeitung der einzelnen Regelanschläge auf Patienten-/Fallebene |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -865,49 +865,49 @@ Keine Regelanschläge (G63.2;G99.0;I70.20;I70.21;I70.22;I70.23;I70.24;I70.25;I70
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
-| ERWARTETE REGELANSCHLÄGE | | | |
+| **ERWARTETE REGELANSCHLÄGE** | | | |
 | ;E12.72;E12.73;E12.74;E12.75;E13.7- | | | |
 
-;E13.72;E13.73;E13.74;E13.75;E14.7- ;E14.72;E14.73;E14.74;E14.75) vorhanden. Regelanschläge“ zusammengefasst | ERWARTETE REAKTION DER SOFTWARE |
-|---|
-| Bei Durchlaufen der Testabrechnung werden Kodierregeln ausgelöst wie in der Tabelle „Erwartete |
-| Die Software generiert eine Übersicht zu den Regelanschlägen |
-| Die Software ermöglicht eine Abarbeitung der einzelnen Regelanschläge auf Patienten-/Fallebene |
+;E13.72;E13.73;E13.74;E13.75;E14.7- ;E14.72;E14.73;E14.74;E14.75) vorhanden. Regelanschläge“ zusammengefasst | **ERWARTETE REAKTION DER SOFTWARE** |
+\|---|
+\| **Bei Durchlaufen der Testabrechnung werden Kodierregeln ausgelöst wie in der Tabelle „Erwartete** |
+\| Die Software generiert eine Übersicht zu den Regelanschlägen |
+\| Die Software ermöglicht eine Abarbeitung der einzelnen Regelanschläge auf Patienten-/Fallebene |
 
 
 ---
 
-| TESTDATEN | | | | | | | | | |
+| **TESTDATEN** | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|
-| Patient 1 | | | | | | | | | |
-| Quartal -4 | Quartal -3 | Quartal -2 | Quartal -1 | Aktuelles Quartal | | | | | |
-| ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS |
+| **Patient 1** | | | | | | | | | |
+| **Quartal -4** | **Quartal -3** | **Quartal -2** | **Quartal -1** | **Aktuelles Quartal** | | | | | |
+| **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** |
 | I63.9 | G | I25.12 | G | I10.90 | G | E11.90 | G | J44.9- | G |
 | I10.90 | G | I63.9 | G | I63.9 | G | I25.12 | G | I10.90 | G |
 |  |  | I10.90 | G | J44.9- | G | I63.9 | G | E11.90 | G |
 |  |  | E11.90 | G | I21.0 | G | I21.0 | G | I63.9 | G |
 |  |  |  |  |  |  |  |  | I21.0 | G |
-| Patient 2 | | | | | | | | | |
-| Quartal -4 | Quartal -3 | Quartal -2 | Quartal -1 | Aktuelles Quartal | | | | | |
-| ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS |
+| **Patient 2** | | | | | | | | | |
+| **Quartal -4** | **Quartal -3** | **Quartal -2** | **Quartal -1** | **Aktuelles Quartal** | | | | | |
+| **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** |
 | I63.9 | G | I25.12 | G | I10.90 | G | E11.90 | G | J44.9- | G |
 | I10.90 | G | I63.9 | G | I63.0 | G | I25.12 | G | I10.90 | G |
-| 3 3.1 | | | | | | | | | |
-|  | REGELKONFIGURATION |  | Regel-ID | Prüfzeitpunkt | Aktivitätsstatus | 03-02-036 | „wählbar“ | „aktiv“ | 03-02-038 |
+| 3**3.1** | | | | | | | | | |
+|  | **REGELKONFIGURATION** |  | **Regel-ID** | **Prüfzeitpunkt** | **Aktivitätsstatus** | 03-02-036 | „wählbar“ | „aktiv“ | 03-02-038 |
 | „wählbar“ | „aktiv“ | 03-02-040 | „wählbar“ | „aktiv“ | 03-02-042 | „wählbar“ | „aktiv“ | 03-02-044 | „wählbar“ |
-| „aktiv“ | 03-02-046 | „wählbar“ | „aktiv“ |  | 3.1.1 | Zu einem frei wählbaren Zeitpunkt lässt der Anwender die in der Tabelle „TESTDATEN“ aufgelisteten Daten |  |  | TESTDATEN |
+| „aktiv“ | 03-02-046 | „wählbar“ | „aktiv“ |  | **3.1.1** | Zu einem frei wählbaren Zeitpunkt lässt der Anwender die in der Tabelle „TESTDATEN“ aufgelisteten Daten |  |  | **TESTDATEN** |
 |  | | | | | | | | | |
-| Patient 1 | Quartal -4 | Quartal -3 | Quartal -2 | Quartal -1 | | | | | |
-| Aktuelles Quartal | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- |
-| DS | I63.9 | G | I25.12 | G | I10.90 | G | E11.90 | G | J44.9- |
+| **Patient 1** | **Quartal -4** | **Quartal -3** | **Quartal -2** | **Quartal -1** | | | | | |
+| **Aktuelles Quartal** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** |
+| **DS** | I63.9 | G | I25.12 | G | I10.90 | G | E11.90 | G | J44.9- |
 | G | I10.90 | G | I63.9 | G | I63.9 | G | I25.12 | G | I10.90 |
 | G |  |  | I10.90 | G | J44.9- | G | I63.9 | G | E11.90 |
 | G |  |  | E11.90 | G | I21.0 | G | I21.0 | G | I63.9 |
 | G |  |  |  |  |  |  |  |  | I21.0 |
 | G | | | | | | | | | |
-| Patient 2 | Quartal -4 | Quartal -3 | Quartal -2 | Quartal -1 | | | | | |
-| Aktuelles Quartal | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- |
-| DS | I63.9 | G | I25.12 | G | I10.90 | G | E11.90 | G | J44.9- |
+| **Patient 2** | **Quartal -4** | **Quartal -3** | **Quartal -2** | **Quartal -1** | | | | | |
+| **Aktuelles Quartal** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** |
+| **DS** | I63.9 | G | I25.12 | G | I10.90 | G | E11.90 | G | J44.9- |
 | G | I10.90 | G | I63.9 | G | I63.0 | G | I25.12 | G | I10.90 |
 | G |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |
@@ -922,20 +922,20 @@ Keine Regelanschläge (G63.2;G99.0;I70.20;I70.21;I70.22;I70.23;I70.24;I70.25;I70
 |  |  |  |  |  |  |  |  |  |  |
 |  | | | | | | | | | |
 |  |  |  |  |  | | | | | |
-| 3 3.1 | | | | | | | | | |
-|  | REGELKONFIGURATION |  | Regel-ID | Prüfzeitpunkt | Aktivitätsstatus | 03-02-036 | „wählbar“ | „aktiv“ | 03-02-038 |
+| 3**3.1** | | | | | | | | | |
+|  | **REGELKONFIGURATION** |  | **Regel-ID** | **Prüfzeitpunkt** | **Aktivitätsstatus** | 03-02-036 | „wählbar“ | „aktiv“ | 03-02-038 |
 | „wählbar“ | „aktiv“ | 03-02-040 | „wählbar“ | „aktiv“ | 03-02-042 | „wählbar“ | „aktiv“ | 03-02-044 | „wählbar“ |
-| „aktiv“ | 03-02-046 | „wählbar“ | „aktiv“ |  | 3.1.1 | Zu einem frei wählbaren Zeitpunkt lässt der Anwender die in der Tabelle „TESTDATEN“ aufgelisteten Daten |  |  | TESTDATEN |
-|  | Patient 1 | Quartal -4 | Quartal -3 | Quartal -2 | Quartal -1 | Aktuelles Quartal | ICD-10- | DS | ICD-10- |
-| DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | I63.9 | G | I25.12 |
+| „aktiv“ | 03-02-046 | „wählbar“ | „aktiv“ |  | **3.1.1** | Zu einem frei wählbaren Zeitpunkt lässt der Anwender die in der Tabelle „TESTDATEN“ aufgelisteten Daten |  |  | **TESTDATEN** |
+|  | **Patient 1** | **Quartal -4** | **Quartal -3** | **Quartal -2** | **Quartal -1** | **Aktuelles Quartal** | **ICD-10-** | **DS** | **ICD-10-** |
+| **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | I63.9 | G | I25.12 |
 | G | I10.90 | G | E11.90 | G | J44.9- | G | I10.90 | G | I63.9 |
 | G | | | | | | | | | |
 | I63.9 | G | I25.12 | G | I10.90 | | | | | |
 | G |  |  | I10.90 | G | J44.9- | G | I63.9 | G | E11.90 |
 | G |  |  | E11.90 | G | I21.0 | G | I21.0 | G | I63.9 |
 | G |  |  |  |  |  |  |  |  | I21.0 |
-| G | Patient 2 | Quartal -4 | Quartal -3 | Quartal -2 | Quartal -1 | Aktuelles Quartal | ICD-10- | DS | ICD-10- |
-| DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | I63.9 | G | I25.12 |
+| G | **Patient 2** | **Quartal -4** | **Quartal -3** | **Quartal -2** | **Quartal -1** | **Aktuelles Quartal** | **ICD-10-** | **DS** | **ICD-10-** |
+| **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | I63.9 | G | I25.12 |
 | G | I10.90 | G | E11.90 | G | J44.9- | G | I10.90 | G | I63.9 |
 | G | | | | | | | | | |
 | I63.0 | G | I25.12 | G | I10.90 | | | | | |
@@ -946,9 +946,9 @@ Keine Regelanschläge (G63.2;G99.0;I70.20;I70.21;I70.22;I70.23;I70.24;I70.25;I70
 |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |
 
-| REGELKONFIGURATION | | |
+| **REGELKONFIGURATION** | | |
 |---|---|---|
-| Regel-ID | Prüfzeitpunkt | Aktivitätsstatus |
+| **Regel-ID** | **Prüfzeitpunkt** | **Aktivitätsstatus** |
 | 03-02-036 | „wählbar“ | „aktiv“ |
 | 03-02-038 | „wählbar“ | „aktiv“ |
 | 03-02-040 | „wählbar“ | „aktiv“ |
@@ -962,71 +962,71 @@ QUARTALSÜBERGREIFENDE REGELN KONFIGURATION DER KODIERREGELN UseCase 13 gegen di
 
 | I21.0  G | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|
-| Quartal -4 | | | | | | | | | |
-| Quartal -3 | Quartal -2 | Quartal -1 | Aktuelles Quartal | ICD-10- | | | | | |
-| DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | I63.9 |
+| **Quartal -4** | | | | | | | | | |
+| **Quartal -3** | **Quartal -2** | **Quartal -1** | **Aktuelles Quartal** | **ICD-10-** | | | | | |
+| **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | I63.9 |
 | G | I25.12 | G | I10.90 | G | E11.90 | G | J44.9- | G | I10.90 |
 | G | I63.9 | G | I63.9 | G | I25.12 | G | I10.90 | G | I21.0 |
 | G | I10.90 | G | J44.9- | G | I63.9 | G | E11.90 | G |  |
 |  | E11.90 | G |  |  |  |  | I63.9 | G |  |
-|  | I21.0 | G |  |  |  |  | I21.0 | G | Patient 4 |
-| Quartal -4 | | | | | | | | | |
-| Quartal -3 | Quartal -2 | Quartal -1 | Aktuelles Quartal | ICD-10- | | | | | |
-| DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | I64 |
+|  | I21.0 | G |  |  |  |  | I21.0 | G | **Patient 4** |
+| **Quartal -4** | | | | | | | | | |
+| **Quartal -3** | **Quartal -2** | **Quartal -1** | **Aktuelles Quartal** | **ICD-10-** | | | | | |
+| **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | I64 |
 | G | I25.12 | G | I10.90 | G | E11.90 | G | J44.9- | G | I10.90 |
 | G | I64 | Z | I64 | Z | I25.12 | G | I10.90 | G |  |
-| TESTDATEN | | | | | | | | | |
+| **TESTDATEN** | | | | | | | | | |
 |  |  | I10.90 | G | J44.9- | G | I63.9 | G | E11.90 | G |
 |  |  | E11.90 | G |  |  |  |  | I63.9 | G |
 |  |  |  |  |  |  |  |  | I21.0 | G |
-| Patient 3 | | | | | | | | | |
-| Quartal -4 | Quartal -3 | Quartal -2 | Quartal -1 | Aktuelles Quartal | | | | | |
-| ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS |
+| **Patient 3** | | | | | | | | | |
+| **Quartal -4** | **Quartal -3** | **Quartal -2** | **Quartal -1** | **Aktuelles Quartal** | | | | | |
+| **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** |
 | I63.9 | G | I25.12 | G | I10.90 | G | E11.90 | G | J44.9- | G |
 | I10.90 | G | I63.9 | G | I63.9 | G | I25.12 | G | I10.90 | G |
 | I21.0 | G | I10.90 | G | J44.9- | G | I63.9 | G | E11.90 | G |
 |  |  | E11.90 | G |  |  |  |  | I63.9 | G |
 |  |  | I21.0 | G |  |  |  |  | I21.0 | G |
-| Patient 4 | | | | | | | | | |
-| Quartal -4 | Quartal -3 | Quartal -2 | Quartal -1 | Aktuelles Quartal | | | | | |
-| ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS |
+| **Patient 4** | | | | | | | | | |
+| **Quartal -4** | **Quartal -3** | **Quartal -2** | **Quartal -1** | **Aktuelles Quartal** | | | | | |
+| **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** |
 | I64 | G | I25.12 | G | I10.90 | G | E11.90 | G | J44.9- | G |
 | I10.90 | G | I64 | Z | I64 | Z | I25.12 | G | I10.90 | G |
 |  |  | I10.90 | G | J44.9- | G | I64 | Z | E11.90 | G |
 |  |  | E11.90 | G |  |  |  |  | I64 | G |
 |  |  |  |  |  |  |  |  | I21.0 | G |
-| Patient 5 | | | | | | | | | |
-| Quartal -4 | Quartal -3 | Quartal -2 | Quartal -1 | Aktuelles Quartal | | | | | |
-| ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS |
+| **Patient 5** | | | | | | | | | |
+| **Quartal -4** | **Quartal -3** | **Quartal -2** | **Quartal -1** | **Aktuelles Quartal** | | | | | |
+| **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** |
 | I62.02 | G | I25.12 | G | I10.90 | G | E11.90 | G | J44.9- | G |
 | I10.90 | G | I62.02 | G | I62.02 | G | I25.12 | G | I10.90 | G |
 |  |  | I10.90 | G | J44.9- | G | I62.02 | G | E11.90 | G |
 |  |  | E11.90 | G | I21.0 | G | I21.0 | G | I62.02 | G |
 |  |  |  |  |  |  |  |  | I21.0 | G |
-| Patient 6 | | | | | | | | | |
-| Quartal -4 | Quartal -3 | Quartal -2 | Quartal -1 | Aktuelles Quartal | | | | | |
-| TESTDATEN | | | | | | | | | |
+| **Patient 6** | | | | | | | | | |
+| **Quartal -4** | **Quartal -3** | **Quartal -2** | **Quartal -1** | **Aktuelles Quartal** | | | | | |
+| **TESTDATEN** | | | | | | | | | |
 |  |  | I10.90 | G | J44.9- | G | I63.9 | G | E11.90 | G |
 |  |  | E11.90 | G |  |  |  |  | I63.9 | G |
 |  |  |  |  |  |  |  |  | I21.0 | G |
-| Patient 3 | Quartal -4 | Quartal -3 | Quartal -2 | Quartal -1 | Aktuelles Quartal | ICD-10- | DS | ICD-10- | DS |
-| ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | I63.9 | G | I25.12 | G |
+| **Patient 3** | **Quartal -4** | **Quartal -3** | **Quartal -2** | **Quartal -1** | **Aktuelles Quartal** | **ICD-10-** | **DS** | **ICD-10-** | **DS** |
+| **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | I63.9 | G | I25.12 | G |
 | I10.90 | G | E11.90 | G | J44.9- | G | I10.90 | G | I63.9 | G |
 | I63.9 | | | | | | | | | |
 | G | I25.12 | G | I10.90 | G | | | | | |
 | I21.0 | G | I10.90 | G | J44.9- | G | I63.9 | G | E11.90 | G |
 |  |  | E11.90 | G |  |  |  |  | I63.9 | G |
 |  |  | I21.0 | G |  |  |  |  | I21.0 | G |
-| Patient 4 | Quartal -4 | Quartal -3 | Quartal -2 | Quartal -1 | Aktuelles Quartal | ICD-10- | DS | ICD-10- | DS |
-| ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | I64 | G | I25.12 | G |
+| **Patient 4** | **Quartal -4** | **Quartal -3** | **Quartal -2** | **Quartal -1** | **Aktuelles Quartal** | **ICD-10-** | **DS** | **ICD-10-** | **DS** |
+| **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | I64 | G | I25.12 | G |
 | I10.90 | G | E11.90 | G | J44.9- | G | I10.90 | G | I64 | Z |
 | I64 | | | | | | | | | |
 | Z | I25.12 | G | I10.90 | G | | | | | |
 |  |  | I10.90 | G | J44.9- | G | I64 | Z | E11.90 | G |
 |  |  | E11.90 | G |  |  |  |  | I64 | G |
 |  |  |  |  |  |  |  |  | I21.0 | G |
-| Patient 5 | Quartal -4 | Quartal -3 | Quartal -2 | Quartal -1 | Aktuelles Quartal | ICD-10- | DS | ICD-10- | DS |
-| ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | I62.02 | G | I25.12 | G |
+| **Patient 5** | **Quartal -4** | **Quartal -3** | **Quartal -2** | **Quartal -1** | **Aktuelles Quartal** | **ICD-10-** | **DS** | **ICD-10-** | **DS** |
+| **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | I62.02 | G | I25.12 | G |
 | I10.90 | G | E11.90 | G | J44.9- | G | I10.90 | G | I62.02 | G |
 
 / Version: 1.02 /
@@ -1042,77 +1042,77 @@ GM- Kode GM- Kode GM- Kode GM- Kode GM- Kode GM- Kode GM- Kode GM- Kode GM- Kode
 | I10.90 | G | J44.9- | G | I63.9 | | | | | |
 | G | E11.90 | G |  |  | E11.90 | G |  |  |  |
 |  | I63.9 | G |  |  |  |  | I21.0 | G | I21.0 |
-| G | I21.0 | Z | Patient 7 | Quartal -4 | Quartal -3 | Quartal -2 | Quartal -1 | Aktuelles Quartal | ICD-10- |
-| DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | I61.9 |
+| G | I21.0 | Z | **Patient 7** | **Quartal -4** | **Quartal -3** | **Quartal -2** | **Quartal -1** | **Aktuelles Quartal** | **ICD-10-** |
+| **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | I61.9 |
 | G | I25.12 | G | I10.90 | G | E11.90 | G | J44.9- | G | I10.90 |
 | G | I61.9 | G | I61.9 | G | I25.12 | G | I10.90 | G |  |
 |  | | | | | | | | | |
 | I10.90 | G | J44.9- | G | I61.9 | | | | | |
 | G | E11.90 | G |  |  | E11.90 | G | I21.0 | G |  |
 |  | I61.9 | G |  |  | I21.0 | G |  |  |  |
-|  | I21.0 | G | Patient 8 | Quartal -4 | Quartal -3 | Quartal -2 | Quartal -1 | Aktuelles Quartal | ICD-10- |
-| TESTDATEN | | | | | | | | | |
-| ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS |
+|  | I21.0 | G | **Patient 8** | **Quartal -4** | **Quartal -3** | **Quartal -2** | **Quartal -1** | **Aktuelles Quartal** | **ICD-10-** |
+| **TESTDATEN** | | | | | | | | | |
+| **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** |
 | I63.9 | G | I25.12 | G | I10.90 | G | E11.90 | G | J44.9- | G |
 | I10.90 | G | I63.9 | G | I63.9 | G | I25.12 | G | I10.90 | G |
 |  | | | | | | | | | |
 |  | I10.90 | G | J44.9- | G | | | | | |
 | I63.9 | G | E11.90 | G |  |  | E11.90 | G |  |  |
 |  |  | I63.9 | G |  |  |  |  | I21.0 | G |
-| I21.0 | G | I21.0 | Z | Patient 7 | Quartal -4 | Quartal -3 | Quartal -2 | Quartal -1 | Aktuelles Quartal |
-| ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS |
+| I21.0 | G | I21.0 | Z | **Patient 7** | **Quartal -4** | **Quartal -3** | **Quartal -2** | **Quartal -1** | **Aktuelles Quartal** |
+| **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** |
 | I61.9 | G | I25.12 | G | I10.90 | G | E11.90 | G | J44.9- | G |
 | I10.90 | G | I61.9 | G | I61.9 | G | I25.12 | G | I10.90 | G |
 |  | | | | | | | | | |
 |  | I10.90 | G | J44.9- | G | | | | | |
 | I61.9 | G | E11.90 | G |  |  | E11.90 | G | I21.0 | G |
 |  |  | I61.9 | G |  |  | I21.0 | G |  |  |
-|  |  | I21.0 | G | Patient 8 | Quartal -4 | Quartal -3 | Quartal -2 | Quartal -1 | Aktuelles Quartal |
-| ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS |
+|  |  | I21.0 | G | **Patient 8** | **Quartal -4** | **Quartal -3** | **Quartal -2** | **Quartal -1** | **Aktuelles Quartal** |
+| **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** |
 | I64 | G | I25.12 | G | I10.90 | G | E11.90 | G | J44.9- | G |
 | I10.90 | G | I64 | G | I64 | G | I25.12 | G | I10.90 | G |
 |  | | | | | | | | | |
 |  | I10.90 | G | J44.9- | G | | | | | |
 | I64 | G | E11.90 | G |  |  | E11.90 | G |  |  |
 |  |  | I64 | G |  |  |  |  | I21.0 | G |
-| I21.0 | Z | I21.0 | G |  |  |  | ERWARTETE REGELANSCHLÄGE |  | Patient |
-| Regel-ID | Auslösender | Regelkonflikt | 1 | 03-02-036 | I21.0 G | Vorhandensein des Kodes I21.0 G im aktuellen und |  |  |  |
+| I21.0 | Z | I21.0 | G |  |  |  | **ERWARTETE REGELANSCHLÄGE** |  | **Patient** |
+| **Regel-ID** | **Auslösender** | **Regelkonflikt** | 1 | 03-02-036 | I21.0 G | Vorhandensein des Kodes I21.0 G im aktuellen und |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |
 |  | | | | | | | | | |
 |  |  |  |  |  | | | | | |
-| TESTDATEN | | | | | | | | | |
-| ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS |
+| **TESTDATEN** | | | | | | | | | |
+| **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** |
 | I63.9 | G | I25.12 | G | I10.90 | G | E11.90 | G | J44.9- | G |
 | I10.90 | G | I63.9 | G | I63.9 | G | I25.12 | G | I10.90 | G |
 |  |  | I10.90 | G | J44.9- | G | I63.9 | G | E11.90 | G |
 |  |  | E11.90 | G |  |  |  |  | I63.9 | G |
 |  |  |  |  | I21.0 | G | I21.0 | G | I21.0 | Z |
-| Patient 7 | | | | | | | | | |
-| Quartal -4 | Quartal -3 | Quartal -2 | Quartal -1 | Aktuelles Quartal | | | | | |
-| ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS |
+| **Patient 7** | | | | | | | | | |
+| **Quartal -4** | **Quartal -3** | **Quartal -2** | **Quartal -1** | **Aktuelles Quartal** | | | | | |
+| **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** |
 | I61.9 | G | I25.12 | G | I10.90 | G | E11.90 | G | J44.9- | G |
 | I10.90 | G | I61.9 | G | I61.9 | G | I25.12 | G | I10.90 | G |
 |  |  | I10.90 | G | J44.9- | G | I61.9 | G | E11.90 | G |
 |  |  | E11.90 | G | I21.0 | G |  |  | I61.9 | G |
 |  |  | I21.0 | G |  |  |  |  | I21.0 | G |
-| Patient 8 | | | | | | | | | |
-| Quartal -4 | Quartal -3 | Quartal -2 | Quartal -1 | Aktuelles Quartal | | | | | |
-| ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS |
+| **Patient 8** | | | | | | | | | |
+| **Quartal -4** | **Quartal -3** | **Quartal -2** | **Quartal -1** | **Aktuelles Quartal** | | | | | |
+| **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** |
 | I64 | G | I25.12 | G | I10.90 | G | E11.90 | G | J44.9- | G |
 | I10.90 | G | I64 | G | I64 | G | I25.12 | G | I10.90 | G |
 |  |  | I10.90 | G | J44.9- | G | I64 | G | E11.90 | G |
 |  |  | E11.90 | G |  |  |  |  | I64 | G |
 |  |  |  |  | I21.0 | G | I21.0 | Z | I21.0 | G |
 
-GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- ICD-10-GM- zwei aufeinanderfolgenden zurückliegenden Quartalen.| ERWARTETE REGELANSCHLÄGE | | | |
+GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- ICD-10-GM- zwei aufeinanderfolgenden zurückliegenden Quartalen.| **ERWARTETE REGELANSCHLÄGE** | | | |
 |---|---|---|---|
-| Patient | Regel-ID | Auslösender | Regelkonflikt |
+| **Patient** | **Regel-ID** | **Auslösender** | **Regelkonflikt** |
 | 1 | 03-02-036 | I21.0 G | Vorhandensein des Kodes I21.0 G im aktuellen und |
-| TESTDATEN | | | |
-| ICD-10- | DS | ICD-10- | DS |
-| ICD-10- | DS | | |
-| ICD-10- | DS | ICD-10- | DS |
+| **TESTDATEN** | | | |
+| **ICD-10-** | **DS** | **ICD-10-** | **DS** |
+| **ICD-10-** | **DS** | | |
+| **ICD-10-** | **DS** | **ICD-10-** | **DS** |
 | I63.9 | G | | |
 | I25.12 | G | I10.90 | G |
 | E11.90 | G | J44.9- | G |
@@ -1126,7 +1126,7 @@ GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- ICD-10-GM- zwei aufe
 |---|---|---|---|
 |  |  |  |  |
 |  |  |  |  |
-| ERWARTETE REGELANSCHLÄGE | | | |
+| **ERWARTETE REGELANSCHLÄGE** | | | |
 | 1 | 03-02-044 | I63.9 G | Vorhandensein des Kodes I63.9 G im aktuellen und vier |
 | 2 | Keine Regelanschläge | | |
 | 3 | 03-02-044 | I63.9 G | Vorhandensein des Kodes I63.9 G im aktuellen und vier |
@@ -1136,11 +1136,11 @@ GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- ICD-10-GM- zwei aufe
 | 7 | 03-02-040 | I61.9 G | Vorhandensein des Kodes I61.9 G im aktuellen und vier |
 | 8 | 03-02-046 | I64 G | Vorhandensein des Kodes I64 G im aktuellen und vier |
 
-| ERWARTETE REAKTION DER SOFTWARE |
-|---|
-| Bei Durchlaufen der Behandlungsfälle werden Kodierregeln ausgelöst wie in der Tabelle „Erwartete |
-| Die Software generiert eine Übersicht zu den Regelanschlägen |
-| Die Software ermöglicht eine Abarbeitung der einzelnen Regelanschläge auf Patienten-/Fallebene |
+\| **ERWARTETE REAKTION DER SOFTWARE** |
+\|---|
+\| **Bei Durchlaufen der Behandlungsfälle werden Kodierregeln ausgelöst wie in der Tabelle „Erwartete** |
+\| Die Software generiert eine Übersicht zu den Regelanschlägen |
+\| Die Software ermöglicht eine Abarbeitung der einzelnen Regelanschläge auf Patienten-/Fallebene |
 
 aufeinanderfolgenden zurückliegenden Quartalen. aufeinanderfolgenden zurückliegenden Quartalen. aufeinanderfolgenden zurückliegenden Quartalen. aufeinanderfolgenden zurückliegenden Quartalen. aufeinanderfolgenden zurückliegenden Quartalen. aufeinanderfolgenden zurückliegenden Quartalen. Regelanschläge“ zusammengefasst
 
@@ -1160,7 +1160,7 @@ Beim ersten Praxisbesuch des Patienten im 1. Quartal 2023 hat sich der Schweregr
 
 Beim ersten Praxisbesuch des Patienten im 2. Quartal 2023 werden dem Anwender beide Dauerdiagnosen
 
-| DAUERDIAGNOSE |  | |
+| **DAUERDIAGNOSE** |  | |
 |---|---|---|
 | ICD-10- | Diagnosenklartext |  |
 | E66.01 G | Adipositas durch übermäßige Kalorienzufuhr Grad II (WHO) bei Patienten von 18 Jahren |  |
@@ -1170,7 +1170,7 @@ zur Übernahme in die Abrechnung angeboten und beide Diagnosen sind zur Übernah
 
 Der Anwender entscheidet sich, die Diagnose "E66.00 G" als Dauerdiagnose in die Abrechnung zu  übernehmen und die Diagnose "E66.01 G" aus der Liste der Dauerdiagnosen zu entfernen. Die medizinische  Patientendokumentation der Vorquartale (Scheine) wird nicht geändert:
 
-| BEHANDLUNGS- | DAUERDIAGNOSE | |
+| **BEHANDLUNGS-** | **DAUERDIAGNOSE** | |
 |---|---|---|
 | ICD-10-GM-Kode | Diagnosenklartext | |
 | Q3/2022 | E66.01 G | Adipositas durch übermäßige Kalorienzufuhr Grad II (WHO) bei |

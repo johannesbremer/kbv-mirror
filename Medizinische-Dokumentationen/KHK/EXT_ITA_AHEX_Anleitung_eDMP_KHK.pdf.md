@@ -174,7 +174,7 @@ Kategorien.
 
 Tabelle: Übersicht Statindosierungen (aus: Tragende Gründe 18. Änd. DMP-A-RL)
 
-| Intensität | Statin und Dosierung |
+| **Intensität** | **Statin und Dosierung** |
 |---|---|
 | Niedrig  (relative LDL-Reduktion < 30%) | Lovastatin 20 mg |
 |  | Pravastatin 10-20 mg |
@@ -211,13 +211,11 @@ Bitte geben Sie den Grund für eine moderate oder niedrige Statin Patientin oder
 
 Patientinnen und Patienten mit KHK eine feste
 
-**-Dosis**
-
-, wenn im Feld „Aktuelle Statin
-
 “Keine Strategie vereinbart“
 
--Dosis an. Befindet sich Ihre
+**-Dosis**
+
+, wenn im Feld „Aktuelle Statin -Dosis an. Befindet sich Ihre
 
 t eine Kontraindikation gegen eine
 

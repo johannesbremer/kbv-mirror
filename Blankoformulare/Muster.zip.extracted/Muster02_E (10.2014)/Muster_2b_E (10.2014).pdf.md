@@ -1,27 +1,46 @@
-|  | **Krankenkasse bzw.** | **Kostenträger** |  |  |  |
-|---|---|---|---|---|---|
-| **Name,** | **Vorname** | **des Versicherten** |  |  |  |
-|  |  |  |  |  | **geb. am** |
-|  | **Kostenträgerkennung** |  | **Versicherten-Nr.** |  | **Status** |
-|  | **Betriebsstätten-Nr.** |  | **Arzt-Nr.** |  | **Datum** |
-|  | **Diagnose** |  |  |  |  |
-| ***Bitte*** | ***dem Patienten*** | ***gesondert*** | ***mitgeben!*** |  |  |
-|  | **Untersuchungsergebnisse** | |  |  |  |
-| **Bisherige** | **Maßnahmen** | **(z. B.** | **Medikation)** |  |  |
-|  | **Fragestellung/Hinweise** | **(z. B.** | **Allergie)** |  |  |
-|  | **Mitgegebene Befunde** |  |  |  |  |
-| **Der Barcode** | **enthält keine** | **auf dem Formular** | **nicht lesbaren** | **Daten.** |  |
-|  | **Ausfertigung** | **für den** | **Krankenhausarzt** | **!** | **Vertraulich!** |
+**Krankenkasse bzw. Kostenträger**
+
+**Name, Vorname des Versicherten**
+
+**Kostenträgerkennung**
+
+**Betriebsstätten-Nr.**
+
+**Diagnose**
+
+**Versicherten-Nr.**
+
+**Arzt-Nr.**
+
+**Datum**
+
+***Bitte dem Patienten gesondert mitgeben!***
+
+**Untersuchungsergebnisse**
+
+**Bisherige Maßnahmen (z. B. Medikation)**
+
+**Fragestellung/Hinweise (z. B. Allergie)**
+
+**Mitgegebene Befunde**
+
+**Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.** **Ausfertigung für den Krankenhausarzt ! Vertraulich!**
 
 **Verordnung von**  **Krankenhausbehandlung**
 
 ***(Nur bei medizinischer Notwendigkeit zulässig)***
 
+**geb. am**
+
 **Belegarzt-**
 
 **behandlung**
 
-**Unfall,**  **Unfallfolgen** **Nächsterreichbare, geeignete Krankenhäuser**
+**Unfall,**  **Unfallfolgen**
+
+**Status**
+
+**Nächsterreichbare, geeignete Krankenhäuser**
 
 **Vertragsarztstempel / Unterschrift des Arztes**
 
@@ -31,4 +50,4 @@
 
 **Notfall**
 
-Krankenkasse bzw. Kostenträger Name, Vorname des Versicherten Bitte dem Patienten gesondert mitgeben! Bisherige Maßnahmen (z. B. Medikation) Fragestellung/Hinweise (z. B. Allergie) Der Barcode enthält keine auf dem Formular nicht lesbaren Daten. Ausfertigung für den Krankenhausarzt ! Vertraulich!**Versorgungs-** **leiden (BVG)**
+**Versorgungs-** **leiden (BVG)**

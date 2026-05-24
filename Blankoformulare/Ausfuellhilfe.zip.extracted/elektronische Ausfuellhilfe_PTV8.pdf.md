@@ -1,8 +1,8 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
 ## AUSFÜLLHILFE: FORMBLATT PTV 8  BRIEFUMSCHLAG
 

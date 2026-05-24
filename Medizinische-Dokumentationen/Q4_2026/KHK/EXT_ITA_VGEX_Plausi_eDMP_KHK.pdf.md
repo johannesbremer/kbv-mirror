@@ -29,38 +29,38 @@
 
 ---
 
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
 |---|---|---|---|
-| Anlage 6*: |  |  |  |
-| Anlage 6*: |  |  |  |
-| Anlage 6*: |  |  |  |
-| Anlage 6*: |  |  |  |
-|  | Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* | | |
+| **Anlage 6*:** |  |  |  |
+| **Anlage 6*:** |  |  |  |
+| **Anlage 6*:** |  |  |  |
+| **Anlage 6*:** |  |  |  |
+|  | **Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2*** | | |
 |  | Anamnese- und Befunddaten | | |
 | 1 | Angina pectoris | Nein / Wenn ja:  CCS I / CCS II / CCS III / CCS IV | Pflichtfeld;   Genau eine Angabe ist zulässig |
 | 2 | (weggefallen) |  |  |
 | 2a | LDL-Cholesterin | mg/dl / mmol/l / Nicht bestimmt | Pflichtfeld;   Genau eine Angabe ist zulässig    Wenn ein Wert bei „mmol/l“   Wenn ein Wert bei |
 |  | Relevante Ereignisse |  | |
 | 3 | Relevante Ereignisse | Herzinfarkt / Instabile Angina pectoris / | Pflichtfeld;   Mindestens eine Angabe ist erforderlich  Mehrfachnennungen sind möglich    Erfolgt die Angabe „Nein“ ist keine weitere Angabe zulässig   Die Angaben „Herzinfarkt“ |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* |  |  |  |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten ** |
+| **Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2*** |  |  |  |
 | Anamnese- und Befunddaten | 1 | Angina pectoris | Nein / Wenn ja:  CCS I / CCS II / CCS III / CCS IV   Pflichtfeld;   Genau eine Angabe ist zulässig     2   (weggefallen) |
 |  | 2a  LDL-Cholesterin | mg/dl / mmol/l / Nicht bestimmt  Pflichtfeld; | |
 | Genau eine Angabe ist zulässig |  | Wenn ein Wert bei „mmol/l“ | Wenn ein Wert bei      Relevante Ereignisse     3   Relevante Ereignisse |
 | Herzinfarkt / Instabile Angina pectoris / | Pflichtfeld; | Mindestens eine Angabe ist erforderlich | Mehrfachnennungen sind möglich    Erfolgt die Angabe „Nein“ ist keine weitere Angabe zulässig |
-|  |  |  | Lfd.  Parameter  Ausprägung |
-| Plausibilitäten |  | Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* | Anamnese- und Befunddaten   1   Angina pectoris   Nein / Wenn ja:  CCS I / CCS II / CCS III / CCS IV   Pflichtfeld;   Genau eine Angabe ist zulässig |
+|  |  |  | **Lfd.  Parameter  Ausprägung** |
+| **Plausibilitäten** |  | **Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2*** | Anamnese- und Befunddaten   1   Angina pectoris   Nein / Wenn ja:  CCS I / CCS II / CCS III / CCS IV   Pflichtfeld;   Genau eine Angabe ist zulässig |
 | 2 | (weggefallen) |  |  |
 | 2a | LDL-Cholesterin | mg/dl / mmol/l / Nicht bestimmt | Pflichtfeld;   Genau eine Angabe ist zulässig    Wenn ein Wert bei „mmol/l“   Wenn ein Wert bei      Relevante Ereignisse |
 |  | 3 | Relevante Ereignisse | Herzinfarkt / Instabile Angina pectoris /  Pflichtfeld;   Mindestens eine Angabe ist erforderlich |
-|  |  |  | Lfd.  Parameter  Ausprägung |
-| Plausibilitäten |  | Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* | Anamnese- und Befunddaten   1   Angina pectoris   Nein / Wenn ja: |
+|  |  |  | **Lfd.  Parameter  Ausprägung** |
+| **Plausibilitäten** |  | **Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2*** | Anamnese- und Befunddaten   1   Angina pectoris   Nein / Wenn ja: |
 | CCS I / CCS II / CCS III / CCS IV | Pflichtfeld; | Genau eine Angabe ist zulässig |  |
 | 2   (weggefallen) |  | 2a  LDL-Cholesterin | |
 | mg/dl / mmol/l / Nicht bestimmt | Pflichtfeld; | Genau eine Angabe ist zulässig | Wenn ein Wert bei „mmol/l“   Wenn ein Wert bei |
 |  |  | Relevante Ereignisse | 3 |
 | Relevante Ereignisse | Herzinfarkt / Instabile Angina pectoris / | Pflichtfeld;   Mindestens eine Angabe ist erforderlich | Mehrfachnennungen sind möglich    Erfolgt die Angabe „Nein“ ist keine weitere Angabe zulässig |
-| Lfd.  Parameter | Ausprägung  Plausibilitäten | Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* | |
+| **Lfd.  Parameter** | **Ausprägung  Plausibilitäten** | **Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2*** | |
 |  |  |  | Anamnese- und Befunddaten |
 | 1 | Angina pectoris | Nein / Wenn ja: | CCS I / CCS II / CCS III / CCS IV |
 | Pflichtfeld; | Genau eine Angabe ist zulässig |  | 2 |
@@ -72,10 +72,10 @@ Datensatz für die indikationsspezifische Dokumentation: Nr. sind die nachstehen
 
 | 3a | Herzinfarkt innerhalb der letzten 12 | Ja / Nein | Pflichtfeld |
 |---|---|---|---|
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
 | Genau eine Angabe ist zulässig | 4 | | |
 | (weggefallen) | 5 | | |
 | Ungeplante stationäre Behandlung | Anzahl | Bedingtes Pflichtfeld;  Nummerische Angabe | Die Angabe erfolgt ohne Nachkommastelle  Die  Eine Angabe ist erforderlich, wenn die Anlage 6* im Rahmen |
@@ -113,10 +113,10 @@ Nr. Monate wegen KHK seit der letzten Dokumentation  Angabe muss gleich oder gr�
 
 | Erfolgt die Angabe „Ja“ ist keine weitere Angabe zulässig |  | Die Angabe „ | 8 |
 |---|---|---|---|
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
 | ACE-Hemmer | Ja / Nein / Kontraindikation / ARB | | |
 | Pflichtfeld;   Mindestens eine Angabe ist erforderlich | Mehrfachnennungen sind möglich | | |
 | Die Angabe „ | Die Angabe „ | Die Angabe „Kontraindikation“ kann auch alleine oder | Die Angabe „ |
@@ -154,10 +154,10 @@ Nr. Kontraindikation gegen Statin moderat) / Zielwert-Strategie / Keine Strategi
 
 | Eine Angabe ist erforderlich, wenn in Feld 9a die Angabe |  | Eine Angabe ist nicht zulässig, wenn in Feld 9a die Angabe | 9c |
 |---|---|---|---|
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
 | Grund für niedrige Statin-Dosis | Aufdosierungsphase / LDL-Zielwert | | |
 | Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig. | Eine Angabe ist erforderlich, wenn in Feld 9a die Angabe | | |
 |  | Eine Angabe ist nicht zulässig, wenn in Feld 9a die Angabe | 10 | (weggefallen) |
@@ -195,10 +195,10 @@ Nr. in DMP wahrgenommen Dokumentation)  wahrgenommen erreicht / Kontraindikation
 
 |  |  |  | Behandlungsplanung |
 |---|---|---|---|
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
 |  |  | | |
 | 13  (weggefallen) |  | | |
 | 13a | (weggefallen) |  | 14   (weggefallen) |

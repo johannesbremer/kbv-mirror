@@ -1,7 +1,7 @@
 | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|
-| Katalog der codierten Zusatznummern zum EBM mit Bezug auf Rezidivprophylaxe |  |  |  |  |  | | | | |
-| 3. Quartal 2020 (Stand: 25.06.2020) |  |  |  |  |  | | | | |
+| **Katalog der codierten Zusatznummern zum EBM mit Bezug auf Rezidivprophylaxe** |  |  |  |  |  | | | | |
+| **3. Quartal 2020 (Stand: 25.06.2020)** |  |  |  |  |  | | | | |
 | | | | | | | | | | |
 | Code | Bezeichnung |  |  |  |  |  |  |  |  |
 | 35405R | Tiefenpsychologische Psychotherapie (LZT, Einzelbehandlung) | | | | | | | | |
@@ -124,8 +124,8 @@
 
 | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|
-|  |  | Katalog der codierten Zusatznummern zum EBM mit Bezug auf Rezidivprophylaxe | Katalog der codierten Zusatznummern zum EBM mit Bezug auf Rezidivprophylaxe | Katalog der codierten Zusatznummern zum EBM mit Bezug auf Rezidivprophylaxe | Katalog der codierten Zusatznummern zum EBM mit Bezug auf Rezidivprophylaxe | | | | |
-|  |  | 3. Quartal 2020 (Stand: 25.06.2020) | 3. Quartal 2020 (Stand: 25.06.2020) | 3. Quartal 2020 (Stand: 25.06.2020) | 3. Quartal 2020 (Stand: 25.06.2020) | | | | |
+|  |  | **Katalog der codierten Zusatznummern zum EBM mit Bezug auf Rezidivprophylaxe** | **Katalog der codierten Zusatznummern zum EBM mit Bezug auf Rezidivprophylaxe** | **Katalog der codierten Zusatznummern zum EBM mit Bezug auf Rezidivprophylaxe** | **Katalog der codierten Zusatznummern zum EBM mit Bezug auf Rezidivprophylaxe** | | | | |
+|  |  | **3. Quartal 2020 (Stand: 25.06.2020)** | **3. Quartal 2020 (Stand: 25.06.2020)** | **3. Quartal 2020 (Stand: 25.06.2020)** | **3. Quartal 2020 (Stand: 25.06.2020)** | | | | |
 | | | | | | | | | | |
 | 35515U | Tiefenpsychologische Psychotherapie (LZT), 5 TN | Code | Bezeichnung | Code | Bezeichnung | Code | Bezeichnung | Code | Bezeichnung |
 | 35515X | Tiefenpsychologische Psychotherapie (LZT), 5 TN | | | | | | | | |
@@ -248,8 +248,8 @@
 
 | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|
-|  |  | Katalog der codierten Zusatznummern zum EBM mit Bezug auf Rezidivprophylaxe | Katalog der codierten Zusatznummern zum EBM mit Bezug auf Rezidivprophylaxe | Katalog der codierten Zusatznummern zum EBM mit Bezug auf Rezidivprophylaxe | Katalog der codierten Zusatznummern zum EBM mit Bezug auf Rezidivprophylaxe | | | | |
-|  |  | 3. Quartal 2020 (Stand: 25.06.2020) | 3. Quartal 2020 (Stand: 25.06.2020) | 3. Quartal 2020 (Stand: 25.06.2020) | 3. Quartal 2020 (Stand: 25.06.2020) | | | | |
+|  |  | **Katalog der codierten Zusatznummern zum EBM mit Bezug auf Rezidivprophylaxe** | **Katalog der codierten Zusatznummern zum EBM mit Bezug auf Rezidivprophylaxe** | **Katalog der codierten Zusatznummern zum EBM mit Bezug auf Rezidivprophylaxe** | **Katalog der codierten Zusatznummern zum EBM mit Bezug auf Rezidivprophylaxe** | | | | |
+|  |  | **3. Quartal 2020 (Stand: 25.06.2020)** | **3. Quartal 2020 (Stand: 25.06.2020)** | **3. Quartal 2020 (Stand: 25.06.2020)** | **3. Quartal 2020 (Stand: 25.06.2020)** | | | | |
 | | | | | | | | | | |
 | 35536R | Analytische Psychotherapie (LZT), 6 TN | Code | Bezeichnung | Code | Bezeichnung | Code | Bezeichnung | Code | Bezeichnung |
 | 35536U | Analytische Psychotherapie (LZT), 6 TN | | | | | | | | |
@@ -372,8 +372,8 @@
 
 | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|
-|  |  | Katalog der codierten Zusatznummern zum EBM mit Bezug auf Rezidivprophylaxe | Katalog der codierten Zusatznummern zum EBM mit Bezug auf Rezidivprophylaxe | Katalog der codierten Zusatznummern zum EBM mit Bezug auf Rezidivprophylaxe | Katalog der codierten Zusatznummern zum EBM mit Bezug auf Rezidivprophylaxe | | | | |
-|  |  | 3. Quartal 2020 (Stand: 25.06.2020) | 3. Quartal 2020 (Stand: 25.06.2020) | 3. Quartal 2020 (Stand: 25.06.2020) | 3. Quartal 2020 (Stand: 25.06.2020) | | | | |
+|  |  | **Katalog der codierten Zusatznummern zum EBM mit Bezug auf Rezidivprophylaxe** | **Katalog der codierten Zusatznummern zum EBM mit Bezug auf Rezidivprophylaxe** | **Katalog der codierten Zusatznummern zum EBM mit Bezug auf Rezidivprophylaxe** | **Katalog der codierten Zusatznummern zum EBM mit Bezug auf Rezidivprophylaxe** | | | | |
+|  |  | **3. Quartal 2020 (Stand: 25.06.2020)** | **3. Quartal 2020 (Stand: 25.06.2020)** | **3. Quartal 2020 (Stand: 25.06.2020)** | **3. Quartal 2020 (Stand: 25.06.2020)** | | | | |
 | | | | | | | | | | |
 | 35557U | Verhaltenstherapie (LZT), 7 TN | Code | Bezeichnung | Code | Bezeichnung | Code | Bezeichnung | Code | Bezeichnung |
 | 35557X | Verhaltenstherapie (LZT), 7 TN | | | | | | | | |
@@ -496,8 +496,8 @@
 
 | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|
-|  |  | Katalog der codierten Zusatznummern zum EBM mit Bezug auf Rezidivprophylaxe | Katalog der codierten Zusatznummern zum EBM mit Bezug auf Rezidivprophylaxe | Katalog der codierten Zusatznummern zum EBM mit Bezug auf Rezidivprophylaxe | Katalog der codierten Zusatznummern zum EBM mit Bezug auf Rezidivprophylaxe | | | | |
-|  |  | 3. Quartal 2020 (Stand: 25.06.2020) | 3. Quartal 2020 (Stand: 25.06.2020) | 3. Quartal 2020 (Stand: 25.06.2020) | 3. Quartal 2020 (Stand: 25.06.2020) | | | | |
+|  |  | **Katalog der codierten Zusatznummern zum EBM mit Bezug auf Rezidivprophylaxe** | **Katalog der codierten Zusatznummern zum EBM mit Bezug auf Rezidivprophylaxe** | **Katalog der codierten Zusatznummern zum EBM mit Bezug auf Rezidivprophylaxe** | **Katalog der codierten Zusatznummern zum EBM mit Bezug auf Rezidivprophylaxe** | | | | |
+|  |  | **3. Quartal 2020 (Stand: 25.06.2020)** | **3. Quartal 2020 (Stand: 25.06.2020)** | **3. Quartal 2020 (Stand: 25.06.2020)** | **3. Quartal 2020 (Stand: 25.06.2020)** | | | | |
 | | | | | | | | | | |
 | 35716X | Systemische Therapie (LZT), 6 TN | Code | Bezeichnung | Code | Bezeichnung | Code | Bezeichnung | Code | Bezeichnung |
 | 35716Y | Systemische Therapie (LZT), 6 TN | | | | | | | | |

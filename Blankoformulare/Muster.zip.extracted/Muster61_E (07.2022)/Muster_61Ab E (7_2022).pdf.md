@@ -62,10 +62,7 @@ Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.
 
 ## Beratung zu medizinischer
 
-## Rehabilitation / Prüfung des
-
-## zuständigen Rehabilitationsträgers
-
+## Rehabilitation / Prüfung des zuständigen Rehabilitationsträgers
 ***Hinweis an den Arzt zur Zuständigkeit der Krankenkasse***
 
 Ist eine medizinische Rehabilitation erforderlich, weil krankheits-/behinderungsbedingt nicht  nur vorübergehende Beeinträchtigungen der Teilhabe am Leben in der Gesellschaft bestehen oder drohen, kann die Zuständigkeit der Krankenkasse bestehen (z. B. bei Altersrentnern,

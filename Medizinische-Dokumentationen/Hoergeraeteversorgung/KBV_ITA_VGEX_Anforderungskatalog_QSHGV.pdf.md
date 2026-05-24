@@ -1,8 +1,8 @@
-|  | IT in der Arztpraxis |
+|  | ***IT in der Arztpraxis***** |
 |---|---|
-|  | Anforderungskatalog QS Hör- |
+|  | *Anforderungskatalog QS Hör-* |
 |  | [KBV_ITA_VGEX_Anforderungskatalog_QSHGV |
-|  |  |
+|  | ** |
 |  | Dezernat Digitalisierung und IT |
 |  |  |
 |  | 10623 Berlin, Herbert-Lewin-Platz 2 |
@@ -19,16 +19,16 @@ geräteversorgung 1.13 Datum: 13.02.2026 Kennzeichnung: Öffentlich  Status: In 
 
 ### Die Änderungen vom 13.02.2026 treten zum 01.04.2026 in Kraft
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 1.13 | 13.02.2026 | KBV | Aktualisierung des | Aktualisierung des Schlüs- | 15 |
-| 1.12 | 14.11.2025 | KBV | Streichung P1-265,   Überarbeitung P1-266      Umwandlung K1-264 in eine Konditio- | Abschaltung KV-Connect | 13 |
-| 1.11 | 15.08.2025 | KBV | Aktualisierung des | Aktualisierung des | 15 |
-| 1.10 | 14.02.2025 | KBV | P1-266: neu aufgenommen | Aufnahme von KIM als | 13 |
-| 1.09 | 14.08.2023 | KBV | Aktualisierung des | Aktualisierung des | 15 |
-| 1.08 | 13.08.2021 | KBV | Aktualisierung des | Aktualisierung des | 15 |
-| 1.07 | 14.05.2019 | KBV | -  P1-261, P1 -262 und P1 -263 ge- -  P1-265: neu aufgenommen | Aktualisierung der KV- | 13 |
-| 1.06 | 03.05.2019 | KBV | Aufnahme der Funktion P1-300 | Erweiterung des Wer- | 13 |
+| 1.13 | 13.02.2026 | KBV | Aktualisierung des | Aktualisierung des Schlüs- | **15** |
+| 1.12 | 14.11.2025 | KBV | Streichung P1-265,   Überarbeitung P1-266      Umwandlung K1-264 in eine Konditio- | Abschaltung KV-Connect | **13** |
+| 1.11 | 15.08.2025 | KBV | Aktualisierung des | Aktualisierung des | **15** |
+| 1.10 | 14.02.2025 | KBV | P1-266: neu aufgenommen | Aufnahme von KIM als | **13** |
+| 1.09 | 14.08.2023 | KBV | Aktualisierung des | Aktualisierung des | **15** |
+| 1.08 | 13.08.2021 | KBV | Aktualisierung des | Aktualisierung des | **15** |
+| 1.07 | 14.05.2019 | KBV | -  P1-261, P1 -262 und P1 -263 ge- -  P1-265: neu aufgenommen | Aktualisierung der KV- | **13** |
+| 1.06 | 03.05.2019 | KBV | Aufnahme der Funktion P1-300 | Erweiterung des Wer- | **13** |
 
 **U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O**
 
@@ -136,17 +136,17 @@ Die in diesem Dokument beschriebenen Funktionen werden durchnummeriert. Dabei fo
 
 Pflichtfunktionen sind wie folgt gekennzeichnet:
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P4-10 | Funktionsbezeichnung |
+| **P4-10** | **Funktionsbezeichnung** |
 
 Ident-Nummer einer Pflichtfunktion Ident-Nummer einer älteren Version
 
 Optionale Funktionen sind wie folgt gekennzeichnet:
 
-| Optionale FUNKTION | |
+| **Optionale FUNKTION** | |
 |---|---|
-| K8-30 | Funktionsbezeichnung                                                                            (2 |
+| **K8-30** | **Funktionsbezeichnung                                                                            (2** |
 
 Ident-Nummer einer optionalen Funktion Ident -Nummer einer älteren Version
 
@@ -162,9 +162,9 @@ Hörgeräteversorgung -
 
 **2.1.1 Vollständigkeit der Eingaben aller Bewegungsdaten**
 
-| PFLICHTFUNKTION QS Hörgeräteversorgung | |
+| **PFLICHTFUNKTION QS Hörgeräteversorgung** | |
 |---|---|
-| P1-10 | Vollständigkeit der Eingaben aller Bewegungsdaten |
+| **P1-10 ** | **Vollständigkeit der Eingaben aller Bewegungsdaten** |
 
 Die Bedieneroberfläche der Software muss eine lückenlose und korrekte Eingabe aller relevan- ten Bewegungsdaten bzgl. der Dokumentation der Hörgeräteversorgung ermöglichen.
 
@@ -172,9 +172,9 @@ Die in der Schnittstellenbeschreibung QS Hörgeräteversorgung [ KBV_ITA_VGEX_Sc
 
 stelle_QSHGV] festgelegten Datenelemente müssen vollständig erfassbar sein.
 
-| Optionale Funktion QS Hörgeräteversorgung | |
+| **Optionale Funktion QS Hörgeräteversorgung** | |
 |---|---|
-| K1-15 | Vorbelegung von Datenfeldern |
+| **K1-15** | **Vorbelegung von Datenfeldern** |
 
 Eine Vorbelegung von Feldern aus Drittsystemen, z.B. anderen PVS ist zulässig, soweit sicher-
 
@@ -182,9 +182,9 @@ gestellt ist, dass die Daten korrekt übernommen werden.
 
 Im Falle einer Datenübernahme muss dem Anwender die Änderung übernommener Daten  möglich sein.
 
-| PFLICHTFUNKTION QS Hörgeräteversorgung | |
+| **PFLICHTFUNKTION QS Hörgeräteversorgung** | |
 |---|---|
-| P1-20 | Berichtszeiträume |
+| **P1-20 ** | **Berichtszeiträume** |
 
 Die (Vor) Verordnungen/ Nach Verordnungen werden ab 01.04.2013 quartalsweise erfasst.
 
@@ -200,8 +200,8 @@ Auswertungsquartal: Dem Melde- und Prüfquartal folgt das Auswertungsquartal. In
 
 **Abbildung 1 Berichtszeiträume**
 
-| PFLICHTFUNKTION QS Hörgeräteversorgung |
-|---|
+\| **PFLICHTFUNKTION QS Hörgeräteversorgung** |
+\|---|
 
 In ihm fin-
 
@@ -210,7 +210,7 @@ In ihm fin-
 
 ---
 
-| P1-30 | Arztbezug |
+| **P1-30 ** | **Arztbezug** |
 |---|---|
 
 Die QSHGV-Dokumentation umfasst eine Verordnung eines Arztes. D.h. jeder berechtigte  Arzt in einer Gemeinschaftspraxis muss seine QSHGV-Dokumentation erstellen.
@@ -219,9 +219,9 @@ Die Betriebsstättennummer (BSNR) und die lebenslange Arztnummer (LANR) des Anwe
 
 **2.1.2 Anlegen von Dokumentationen**
 
-| PFLICHTFUNKTION QS Hörgeräteversorgung | |
+| **PFLICHTFUNKTION QS Hörgeräteversorgung** | |
 |---|---|
-| P1-40 | Neuanlage einer QSH |
+| **P1-40 ** | **Neuanlage einer QSH** |
 
 Bei der Neuanlage einer QSHGV Dokumentation muss der Anwender eine bisher nicht für einen
 
@@ -229,39 +229,39 @@ anderen Patienten vergebene, eindeutige max. 10-stellige alphanummerische Patien
 
 *Hinweis: Beachten Sie diesbezüglich auch Kapitel 2.1.10.*
 
-| PFLICHTFUNKTION QS Hörgeräteversorgung | |
+| **PFLICHTFUNKTION QS Hörgeräteversorgung** | |
 |---|---|
-| P1-50 | Patienten der QSH |
+| **P1-50 ** | **Patienten der QSH** |
 
 Für die Dokumentation der QS Hörgeräteversorgung werden nur Patienten der gesetzlichen
 
 Krankenversicherung berücksichtigt.
 
-| PFLICHTFUNKTION QS Hörgeräteversorgung | |
+| **PFLICHTFUNKTION QS Hörgeräteversorgung** | |
 |---|---|
-| P1-60 | Neuanlage einer QSH |
+| **P1-60 ** | **Neuanlage einer QSH** |
 
 Die Software muss sicherstellen, dass der Anwender eine QSHGV Vor Verordnung mit Verord-
 
 nung anlegen kann vgl. Ausfüllhinweise [KBV_ITA_AHEX_Ausfuellhinweise_QSHGV].
 
-| PFLICHTFUNKTION QS Hörgeräteversorgung | |
+| **PFLICHTFUNKTION QS Hörgeräteversorgung** | |
 |---|---|
-| P1-70 | Neuanlage einer QSH |
+| **P1-70 ** | **Neuanlage einer QSH** |
 
 Die Software muss sicherstellen, dass der Anwender eine QSH GV Nach Verordnung anlegen  kann vgl. Ausfüllhinweise [KBV_ITA_AHEX_Ausfuellhinweise_QSHGV].
 
-| PFLICHTFUNKTION QS Hörgeräteversorgung | |
+| **PFLICHTFUNKTION QS Hörgeräteversorgung** | |
 |---|---|
-| P1-80 | Umgang mit dem Untersuchungsdatum |
+| **P1-80 ** | **Umgang mit dem Untersuchungsdatum** |
 
 Die Angabe des Untersuchungsdatums (service_tmr) darf nach Ersterfassung durch den An- wender nicht mehr geändert werden. Sind Korrekturen im Nachgang nötig, wird das Datum nicht
 
 geändert.
 
-| Optionale FUNKTION QS Hörgeräteversorgung | |
+| **Optionale FUNKTION QS Hörgeräteversorgung** | |
 |---|---|
-| K 1-95 | APHAB Dokumentation |
+| **K 1-95** | **APHAB Dokumentation** |
 
 Die Parameter des APHAB -Bogens [EXT_ITA_AHEX_Bewertung_APHAB_vor_QSHGV] und
 
@@ -274,9 +274,9 @@ Benutzeroberfläche abgebildet. Die Angaben zu der Versichertenkarte
 
 auf dem APHAB-Bogen optional.
 
-| Optionale FUNKTION QS Hörgeräteversorgung | |
+| **Optionale FUNKTION QS Hörgeräteversorgung** | |
 |---|---|
-| K 1-96 | Nutzenberechnung anhand der APHAB Dokumentation |
+| **K 1-96** | **Nutzenberechnung anhand der APHAB Dokumentation** |
 
 Der Nutzen (Verbesserung der Hörfähigkeit) wird anhand der APHAB [EXT_ITA_AHEX_Berechnung_APHAB_QSHGV]
 
@@ -286,23 +286,23 @@ und deren
 
 **2.1.3 Dateneingabe**
 
-| PFLICHTFUNKTION QS Hörgeräteversorgung | |
+| **PFLICHTFUNKTION QS Hörgeräteversorgung** | |
 |---|---|
-| P1-90 | Inhalte der Dokumentationen |
+| **P1-90 ** | **Inhalte der Dokumentationen** |
 
 Die Dokumentationsparameter (kurz: Parameter) der
 
 [KBV_ITA_VGEX_PLAUSI_QSHGV] müssen auf der Benutzeroberfläche abgebildet werden.
 
-| PFLICHTFUNKTION QS Hörgeräteversorgung | |
+| **PFLICHTFUNKTION QS Hörgeräteversorgung** | |
 |---|---|
-| P1-100 | Position der Dokumentation |
+| **P1-100 ** | **Position der Dokumentation** |
 
 Das System muss über die aktuelle Position der Dokumentationseingabe Auskunft geben.
 
-| PFLICHTFUNKTION QS Hörgeräteversorgung | |
+| **PFLICHTFUNKTION QS Hörgeräteversorgung** | |
 |---|---|
-| P1-110 | Anzeige von aktuellen Dokumentationen |
+| **P1-110 ** | **Anzeige von aktuellen Dokumentationen** |
 
 Das System muss sicherstellen, dass zweifelsfrei erkennbar ist, welche Dokumentation (Vor Verordnung oder Nach Verordnung) aktuell dokumentiert wird.
 
@@ -317,15 +317,15 @@ Plausibilitäten
 
 **2.1.4 Parameter**
 
-| PFLICHTFUNKTION QS Hörgeräteversorgung | |
+| **PFLICHTFUNKTION QS Hörgeräteversorgung** | |
 |---|---|
-| P1-120 | Ausfüllanleitung |
+| **P1-120 ** | **Ausfüllanleitung** |
 
 Die zu den Parametern angegebenen Ausfüllanleitungen müssen für den Anwender zur Ein- sicht hinterlegt werden. Dabei muss es für den Anwender möglich sein, die jeweils zum Para- meter gehörenden Abschnitte der Ausfüllanleitung ohne Verlassen der eigentlichen Benutzer- oberfläche abzurufen.
 
-| Optionale FUNKTION QS Hörgeräteversorgung | |
+| **Optionale FUNKTION QS Hörgeräteversorgung** | |
 |---|---|
-| K1-135 | Kennzeichnung Pflichtfeld / Kein Pflichtfeld |
+| **K1-135** | **Kennzeichnung Pflichtfeld / Kein Pflichtfeld ** |
 
 Das System muss die Parameter als: - a) Pflichtfeld bzw.
 
@@ -333,30 +333,30 @@ Das System muss die Parameter als: - a) Pflichtfeld bzw.
 
 unterschiedlich kennzeichnen.
 
-| Optionale FUNKTION QS Hörgeräteversorgung | |
+| **Optionale FUNKTION QS Hörgeräteversorgung** | |
 |---|---|
-| K1-136 | Datenübernahme aus dem PVS 1 1 |
+| **K1-136** | **Datenübernahme aus dem PVS 1** 1 |
 
 Plausibilität
 
-Eine automatisierte Übernahme von Parametern aus dem PVS ist zulässig, wenn diese durch eine Quittierung des Anwenders in d ie QS Hörgeräteversorgung übernommen werden. Dies gilt für alle Formen der Dateneingabe (z. B. Beleglesung, Digitalisierbrett, Tastatur, Scanner). Hierbei ist darauf zu achten, dass stets der aktuellste verfügbare Wert zur Übernahme heran- gezogen wird. Eine Quittierung hat immer zu erfolgen, auch wenn es sich um tagesaktuelle Werte handelt  2.1.5 Plausibilitäten PFLICHTFUNKTION QS Hörgeräteversorgung P1-130 Überprüfung der Eingaben auf Plausibilität Die Eingaben des Nutzers müssen systemseitig auf [KBV_ITA_VGEX_PLAUSI_QSHGV ] geprüft werden. Diese Überprüfung sollte direkt nach der Eingabe erfolgen. Eine nicht plausible Eingabe muss dem Nutzer deutlich aufgezeigt werden und mit Hinweis auf das fehlerhafte Datenfeld erfolgen. Das Dokument Plausibilitäten [ KBV_ITA_VGEX_PLAUSI_QSHGV ] enthält die Spalten: "Pflicht- feld", "Antwortmöglichkeiten" und "Wertebereich", diese Vorgaben sind verpflichtend.  Über die Spalte "optional Plausibilitäten" kann sich der Arzt jedoch hinwegsetzen.   Praxisverwaltungssystem| PFLICHTFUNKTION QS Hörgeräteversorgung | |
+Eine automatisierte Übernahme von Parametern aus dem PVS ist zulässig, wenn diese durch eine Quittierung des Anwenders in d ie QS Hörgeräteversorgung übernommen werden. Dies gilt für alle Formen der Dateneingabe (z. B. Beleglesung, Digitalisierbrett, Tastatur, Scanner). Hierbei ist darauf zu achten, dass stets der aktuellste verfügbare Wert zur Übernahme heran- gezogen wird. Eine Quittierung hat immer zu erfolgen, auch wenn es sich um tagesaktuelle Werte handelt  2.1.5 Plausibilitäten PFLICHTFUNKTION QS Hörgeräteversorgung P1-130 Überprüfung der Eingaben auf Plausibilität Die Eingaben des Nutzers müssen systemseitig auf [KBV_ITA_VGEX_PLAUSI_QSHGV ] geprüft werden. Diese Überprüfung sollte direkt nach der Eingabe erfolgen. Eine nicht plausible Eingabe muss dem Nutzer deutlich aufgezeigt werden und mit Hinweis auf das fehlerhafte Datenfeld erfolgen. Das Dokument Plausibilitäten [ KBV_ITA_VGEX_PLAUSI_QSHGV ] enthält die Spalten: "Pflicht- feld", "Antwortmöglichkeiten" und "Wertebereich", diese Vorgaben sind verpflichtend.  Über die Spalte "optional Plausibilitäten" kann sich der Arzt jedoch hinwegsetzen.   Praxisverwaltungssystem| **PFLICHTFUNKTION QS Hörgeräteversorgung** | |
 |---|---|
-| P1-130 | Überprüfung der Eingaben auf Plausibilität |
+| **P1-130 ** | **Überprüfung der Eingaben auf Plausibilität** |
 
 
 ---
 
-| Optionale FUNKTION QS Hörgeräteversorgung | |
+| **Optionale FUNKTION QS Hörgeräteversorgung** | |
 |---|---|
-| K1-141 | Verweis auf fehlerhaftes Datenfeld |
+| **K1-141** | **Verweis auf fehlerhaftes Datenfeld** |
 
 Zu dem fehlerhaften Datenfeld wird ein Verweis gelegt, sodass der Nutzer zu diesem direkt
 
 gelangen kann.
 
-| PFLICHTFUNKTION QS Hörgeräteversorgung | |
+| **PFLICHTFUNKTION QS Hörgeräteversorgung** | |
 |---|---|
-| P1-140 | Gesamtprüfung auf Plausibilität |
+| **P1-140 ** | **Gesamtprüfung auf Plausibilität** |
 
 Das System muss auf Anforderung des Nutzers eine Plausibilitätenprüfung
 
@@ -378,34 +378,34 @@ sibilitäten“ vor, kann der Arzt sich über diese hinwegsetzen.
 
 **2.1.6 Beenden der Dokumentation**
 
-| PFLICHTFUNKTION QS Hörgeräteversorgung | |
+| **PFLICHTFUNKTION QS Hörgeräteversorgung** | |
 |---|---|
-| P1-150 | Beenden der Dokumentation |
+| **P1-150 ** | **Beenden der Dokumentation** |
 
 Die Dokumentation muss zu jeder Zeit beendbar sein. Wobei der Nutzer über den Erhalt der  bereits eingegebenen Daten entscheiden muss.
 
 **2.1.7 Darstellung**
 
-| PFLICHTFUNKTION QS Hörgeräteversorgung | |
+| **PFLICHTFUNKTION QS Hörgeräteversorgung** | |
 |---|---|
-| P1-160 | Drucken der Dokumentation(en) |
+| **P1-160 ** | **Drucken der Dokumentation(en)** |
 
 Der Anwender muss die Möglichkeit haben die Dokumentation(en) auszudrucken.
 
 **2.1.8 Speichern von Dokumentationsdaten**
 
-| PFLICHTFUNKTION QS Hörgeräteversorgung | |
+| **PFLICHTFUNKTION QS Hörgeräteversorgung** | |
 |---|---|
-| P1-170 | Sichern der Dokumentationsdaten |
+| **P1-170 ** | **Sichern der Dokumentationsdaten** |
 
 Das System muss sicherstellen, dass alle Dokumentationsdaten unverändert gespeichert wer- den und jederzeit einsehbar sind.
 
 
 ---
 
-| PFLICHTFUNKTION QS Hörgeräteversorgung | |
+| **PFLICHTFUNKTION QS Hörgeräteversorgung** | |
 |---|---|
-| P1-180 | Zwischenspeichern der |
+| **P1-180 ** | **Zwischenspeichern der** |
 
 Das System muss sicherstellen, dass nicht vollständige und/oder fehlerhafte Dokumentationen  unverändert zwischengespeichert werden können, so dass diese erhalten bleiben und erwei- terbar sind. Für den Nutzer muss ersichtlich sein, dass es sich um eine unvollständige und/oder
 
@@ -413,25 +413,25 @@ fehlerhafte Dokumentation handelt.
 
 **2.1.9 Archivieren von Dokumentationsdaten**
 
-| PFLICHTFUNKTION QS Hörgeräteversorgung | |
+| **PFLICHTFUNKTION QS Hörgeräteversorgung** | |
 |---|---|
-| P1-190 | Archivieren von Dokumentationsdaten |
+| **P1-190 ** | **Archivieren von Dokumentationsdaten** |
 
 Das System muss die Möglichkeit bieten die Dokumentationsdaten gemäß der Schnittstellen- beschreibung [KBV_ITA_VGEX_Schnittstelle_QSHGV] nach dem Versand zu einer Datenan-
 
 nahmestelle zu archivieren.
 
-| Optionale FUNKTION QS Hörgeräteversorgung | |
+| **Optionale FUNKTION QS Hörgeräteversorgung** | |
 |---|---|
-| K1-191 | Archivieren von Dokumentationsdaten (portabler Datenspeicher) |
+| **K1-191** | **Archivieren von Dokumentationsdaten (portabler Datenspeicher)** |
 
 Das System muss die Möglichkeit bieten, Dokumentationsdaten eines bestimmten Zeitraumes  auf einem portablen Datenspeicher zu archivieren.
 
 **2.1.10 Eindeutigkeit von elektronischen Dokumentationen**
 
-| PFLICHTFUNKTION QS Hörgeräteversorgung | |
+| **PFLICHTFUNKTION QS Hörgeräteversorgung** | |
 |---|---|
-| P1-200 | Umgang mit der Patienten |
+| **P1-200 ** | **Umgang mit der Patienten** |
 
 - 1. Die PatientenID muss patientenbezogen vergeben werden und darf innerhalb des Sys- tems nicht geändert werden. Wechselt ein Patient den Kostenträger, den Wohnort, än- dert sich sein Versicherungsstatus oder sein Name, so ist die PatientenID trotzdem bei-
 
@@ -445,9 +445,9 @@ Das System muss die Möglichkeit bieten, Dokumentationsdaten eines bestimmten Ze
 
 - tienten existiert, so darf diese Nummer nicht übernommen werden und das System  muss mit einem entsprechenden Fehlerhinweis den Anwender auffordern eine nicht  existierende PatientenID einzugeben.
 
-| PFLICHTFUNKTION QS Hörgeräteversorgung | |
+| **PFLICHTFUNKTION QS Hörgeräteversorgung** | |
 |---|---|
-| P1-210 | Eindeutigkeit jedes Dokumentationsdatensatzes |
+| **P1-210 ** | **Eindeutigkeit jedes Dokumentationsdatensatzes** |
 
 Jede elektronische Dokumentation muss eindeutig innerhalb eines Systems identifizierbar sein.  Dazu ist im Attribut „EX“ des Elements <id> innerhalb des < clinical_document_headers> eine
 
@@ -467,9 +467,9 @@ Dokumentationsdaten ID
 
 **2.1.11 Darstellung Übersicht der Dokumentationen**
 
-| PFLICHTFUNKTION QS Hörgeräteversorgung | |
+| **PFLICHTFUNKTION QS Hörgeräteversorgung** | |
 |---|---|
-| P1-220 | Übersicht der Dokumentationen |
+| **P1-220 ** | **Übersicht der Dokumentationen** |
 
 Dem Anwender muss zu jeder Zeit eine Übersicht bereitstehen, welche mindestens folgende  Informationen liefert:
 
@@ -485,17 +485,17 @@ Innerhalb dieser Übersicht müssen weitere Angaben erfolgen:
 
 - c) bereits an die Datenannahmestelle verschickte Dokumentationen mit Versendungsda- tum
 
-| PFLICHTFUNKTION QS Hörgeräteversorgung | |
+| **PFLICHTFUNKTION QS Hörgeräteversorgung** | |
 |---|---|
-| P1-230 | Öffnen von Dokumentationen anhand der Übersicht |
+| **P1-230 ** | **Öffnen von Dokumentationen anhand der Übersicht** |
 
 Anhand der Übersicht ist es möglich, eine ausgewählte Dokumentation zu öffnen und zu bear- beiten.
 
 **2.1.12 Korrekturlieferung**
 
-| PFLICHTFUNKTION QS Hörgeräteversorgung | |
+| **PFLICHTFUNKTION QS Hörgeräteversorgung** | |
 |---|---|
-| P1-240 | Korrekturlieferung |
+| **P1-240 ** | **Korrekturlieferung** |
 
 Erfolgt eine Korrektur eines bereits versendeten Datensatzes durch den Arzt, muss dies in der  elektronischen Dokumentation gemäß der
 
@@ -516,9 +516,9 @@ Schnittstellenbeschreibung
 
 **2.2.1 Administratives Geschlecht des Patienten**
 
-| PFLICHTFUNKTION QS Hörgeräteversorgung | |
+| **PFLICHTFUNKTION QS Hörgeräteversorgung** | |
 |---|---|
-| P1-300 | Administratives Geschlecht des Patienten |
+| **P1-300** | **Administratives Geschlecht des Patienten** |
 
 Das administrative Geschlecht des Patienten ist zu übermitteln.
 
@@ -536,7 +536,7 @@ Das Geschlecht des Patienten muss bei jeder Dokumentation zum Patienten übermit
 
 Die Abbildung der Geschlechtsausprägung ist von der Softwareversion der XML - Schnittstelle (siehe Kapitel 6.10.6.2 KBV_ITA_VGEX_Schnittstelle_eHeader) abhängig.
 
-| Geschlechtsausprägung | Schlüsseltabellenwert (2.16.840.1.113883.5.1) | |
+| **Geschlechtsausprägung** | **Schlüsseltabellenwert (2.16.840.1.113883.5.1)** | |
 |---|---|---|
 | männlich | M | |
 | weiblich | F | |
@@ -552,17 +552,17 @@ Abbildung der Geschlechtsausprägung auf Schlüsseltabellenwert (2.16.840.1.1138
 
 ### 2.3.1 Übermittlung
 
-| PFLICHTFUNKTION QS Hörgeräteversorgung | |
+| **PFLICHTFUNKTION QS Hörgeräteversorgung** | |
 |---|---|
-| P1-250 | Übermittlung an die Datenannahmestelle |
+| **P1-250 ** | **Übermittlung an die Datenannahmestelle** |
 
 Die Dokumentationen sind im Verordnungsquartal bzw. Meldequartal an die Datenannahme- stelle zu übermitteln. Die Dokumentationen müssen dabei bis Ende des Meldequartals bei der  Datenannahmestelle vorliegen. Der Anwender kann anschließend bis Ende des Meldequartals
 
 auf Aufforderung der KV veränderte und überarbeitete Daten an die Datenannahmestelle sen- den.
 
-| PFLICHTFUNKTION QS Hörgeräteversorgung | |
+| **PFLICHTFUNKTION QS Hörgeräteversorgung** | |
 |---|---|
-| P1-266 | QSHGV auf Basis von KIM |
+| **P1-266** | **QSHGV auf Basis von KIM** |
 
 Die Software muss dem Anwender eine Funktion für die Übertragung der QSHGV-Dokumenta-
 
@@ -589,7 +589,7 @@ unterstützt, dann enthält die SDKVCA einen entsprechenden Eintrag.
 
 |  | |
 |---|---|
-| KP1-264 | Importstatus von der Datenannahmestelle |
+| **KP1-264** | **Importstatus von der Datenannahmestelle** |
 
 Die Rückmeldung zum Import-Status von der Datenannahmestelle erfolgt über den Versand
 
@@ -603,7 +603,7 @@ Status und ggf. Fehlermeldungen wird erstellt.
 
 Es sind folgende Import-Status möglich:
 
-| Status | Beschreibung |
+| **Status** | **Beschreibung** |
 |---|---|
 | OK | Die Datei wurde erfolgreich importiert. |
 | OK (implausibel) | es sind Fehler in der Datei, die jedoch nicht zum Abbruch des Im- |
@@ -624,9 +624,9 @@ Das PVS muss dem Anwender den Importstatus in geeigneter Weise anzeigen.
 
 **2.3.2 Export der Daten**
 
-| PFLICHTFUNKTION QS Hörgeräteversorgung | |
+| **PFLICHTFUNKTION QS Hörgeräteversorgung** | |
 |---|---|
-| P1-260 | Korrekter Datenexport |
+| **P1-260 ** | **Korrekter Datenexport** |
 
 Das System muss
 
@@ -649,9 +649,9 @@ KONDITIONALE PFLICHTFUNKTION QS Hörgeräteversorgung Die Datei wurde erfolgreic
 
 **2.3.3 Verschlüsseln der Daten**
 
-| PFLICHTFUNKTION QS Hörgeräteversorgung | |
+| **PFLICHTFUNKTION QS Hörgeräteversorgung** | |
 |---|---|
-| P1-270 | Einsatz Kryptomodul (XKM) |
+| **P1-270 ** | **Einsatz Kryptomodul (XKM)** |
 
 Vor Fertigstellung des vom Anwender einzureichenden Datenträgers ist das Dokumentations- archiv in der Gesamtheit mit dem KBV -Kryptomodul (XKM) unter Nutzung des öffentlichen  Schlüssels zur QSH GV-Datenverschlüsselung (Oeffentlich_QSHGV_V08.pub) zu verschlüs- seln.
 
@@ -668,7 +668,7 @@ Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM ni
 
 # 3 Referenzierte Dokumente
 
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 |---|---|
 | [KBV_ITA_VGEX_Schnittstelle_QSHGV] | Schnittstellenbeschreibung QS Hörgeräte- |
 | [KBV_ITA_VGEX_Schnittstelle_eHeader] | Schnittstellenbeschreibung eDokumenta- |

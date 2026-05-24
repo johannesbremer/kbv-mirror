@@ -194,10 +194,7 @@ Multimodale Adipositas-Schulungen stellen eine zentrale Maßnahme in diesem DMP 
 
 jeweils eine Angabe zu den folgenden drei Dokumentationsfeldern zu Schulungen:
 
-#### Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas -Schulung
-
-#### teilgenommen
-
+#### Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas -Schulung teilgenommen
 Eine Angabe in diesem Feld ist nur im Rahmen der **Erstdokumentation** möglich und hier verpflichtend.
 
 **Genau eine Angabe** ist erforderlich und zulässig. Bei der Folgedokumentation ist hier keine Angabe möglich.

@@ -130,11 +130,9 @@ die jeweils notwendigen Unterschriften von Ihnen und der Patientin bzw.
 
 Patientenakte.
 
-Sollten die von Ihnen vorgenommenen Angaben in der Dokumentation unvollständig oder  unplausibel sein, wird die Dokumentation in Kopie an Sie zur Korrektur zurückgeschickt.  Wenngleich durch die Programmierung Ihrer PVS solche Fälle in der Regel vermieden we lassen sich gelegentliche Fehler im übermittelten Datensatz erfahrungsgemäß doch nicht  sicher ausschließen. Die vollständige und plausible
+Sollten die von Ihnen vorgenommenen Angaben in der Dokumentation unvollständig oder  unplausibel sein, wird die Dokumentation in Kopie an Sie zur Korrektur zurückgeschickt.  Wenngleich durch die Programmierung Ihrer PVS solche Fälle in der Regel vermieden we lassen sich gelegentliche Fehler im übermittelten Datensatz erfahrungsgemäß doch nicht  sicher ausschließen. Die vollständige und plausible (z.
 
-der Vorgaben der (z.
-
-Risikostruktur-
+der Vorgaben der Risikostruktur-
 
 bei der Feststellung der
 
@@ -148,19 +146,15 @@ dem Patienten tragen
 
 Dokumentation
 
-**zusätzlich zur**
-
-**Datenstelle**
-
-muss
-
 **Ihrer**
 
-**oder**
+**zusätzlich zur**
+
+**Datenstelle oder**
 
 rden,
 
-inklusive
+muss inklusive
 
 
 ---
@@ -289,13 +283,11 @@ automatisch befüllt und Sie erhalten zusätzliche Angaben zur
 
 , ist die Angabe optional.
 
-So können
-
-(m) mit zwei Stellen hinter dem Komma an.
-
-Sie z. B. gleichzeitig eine
+So können Sie z. B. gleichzeitig eine
 
 Patienten ist
+
+(m) mit zwei Stellen hinter dem Komma an.
 
 **Adipositas bei Kindern und**
 
@@ -360,9 +352,7 @@ Patient Informationen
 
 **der Krankenkasse**
 
-zum
-
-Tabakverzicht,
+zum Tabakverzicht,
 
 teilnehmen, ist die
 

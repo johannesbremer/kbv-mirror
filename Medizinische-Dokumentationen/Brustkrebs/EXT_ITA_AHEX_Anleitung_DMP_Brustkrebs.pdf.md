@@ -1,7 +1,4 @@
-# Ausfüllanleitung
-
-# zur Erst- und Folgedokumentation im  strukturierten Behandlungsprogramm
-
+# Ausfüllanleitung zur Erst- und Folgedokumentation im  strukturierten Behandlungsprogramm
 Stand der letzten Bearbeitung:
 
 Anzuwenden ab
@@ -493,11 +490,6 @@ stattfindenden . In diesem Fall ist **keine**
 
 zu Ziffer 4.2 (Nebenwirkungen
 
-| **und** | **hierzu die** | **Angaben** |
-|---|---|---|
-| **sind** | **sowie in** | **Abhängigkeit** |
-|  | **(Dokumentationsfeld** | **19).** |
-
 
 ---
 
@@ -631,9 +623,9 @@ Nein“ an.
 
 ## m Training abgegeben
 
-an.
-
 in zur An-
+
+an.
 
 # (Dokumentationsfeld 30 )
 

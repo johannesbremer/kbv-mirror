@@ -1,8 +1,8 @@
-|  | IT in der Arztpraxis |
+|  | ***IT in der Arztpraxis*** |
 |---|---|
-|  | Schnittstellenbeschreibung QS |
+|  | *Schnittstellenbeschreibung QS* |
 |  | [KBV_ITA_VGEX_Schnittstelle_QS |
-|  |  |
+|  | ** |
 |  | Dezernat |
 |  |  |
 |  | 10623 Berlin, Herbert |
@@ -21,7 +21,7 @@ Kapselendoskopie
 
 ### DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.00 | 31.07.2014 | KBV | neues Dokument |  |  |
 
@@ -138,28 +138,22 @@ Kapselendoskopie
 
 ---
 
-#### ABBILDUNGSVERZEICHNIS
+| **IT in** | **der Arztpraxis** | |  |  |
+|---|---|---|---|---|
+|  | Schnittstellenbeschreibung | | QS Kapselendoskopie |  |
+|  |  |  | **ABBILDUNGSVERZEICHNIS** |  |
+|  | **Abbildung 1** | **- Element** | **ehd** | **................................................................................................. 12** |
+| **Abbildung** | **2 -** | **Element id** | **....................................................................................................** | **13** |
+| **Abbildung** | **3 -** | **Element** | **document_type_cd** | **....................................................................... 13** |
+|  | **Abbildung 4** | **- Element** | **document_relationship** | **................................................................. 13** |
+| **Abbildung** | **5 -** | **Element provider** | **.........................................................................................** | **14** |
+| **Abbildung** | **6** | **- Element** | **interface** | **......................................................................................... 14** |
+|  | **Abbildung 7** | **- Element** | **sciphox:Software** | **.......................................................................... 15** |
+|  | **Abbildung 8** | **- Element** | **body** | **............................................................................................... 17** |
+|  | **Abbildung 9** | **- Element** | **qske_dokumentation** | **.................................................................... 18** |
+|  |  | KBV_ITA_VGEX_Schnittstelle_QSKE | * Version 1.00 | Seite 5 von 22 |
 
-**Abbildung 1 - Element ehd ................................................................................................. 12**
-
-**Abbildung 2 - Element id .................................................................................................... 13**
-
-**Abbildung 3 - Element document_type_cd ....................................................................... 13**
-
-**Abbildung 4 - Element document_relationship ................................................................. 13**
-
-**Abbildung 5 - Element provider ......................................................................................... 14**
-
-**Abbildung 6 - Element interface ......................................................................................... 14**
-
-**Abbildung 7 - Element sciphox:Software .......................................................................... 15**
-
-**Abbildung 8 - Element body ............................................................................................... 17**
-
-**Abbildung 9 - Element qske_dokumentation .................................................................... 18**
-
-Kapselendoskopie
-
+Abbildung 1 - Element ehd Abbildung 2 - Element id .................................................................................................... Abbildung 3 - Element document_type_cd ....................................................................... Abbildung 4 - Element document_relationship Abbildung 5 - Element provider ......................................................................................... Abbildung 6 - Element interface Abbildung 7 - Element sciphox:Software Abbildung 8 - Element body Abbildung 9 - Element qske_dokumentation
 
 ---
 
@@ -251,7 +245,7 @@ Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, dere
 
 Es existieren verschiedene Kardinalitäten:
 
-| Kardinalität | Symbol | Beschreibung |
+| **Kardinalität** | **Symbol** | **Beschreibung** |
 |---|---|---|
 | 0..1 |  | Optionales Element: Element wird als Rechteck mit |
 | 1 |  | Musselement: Rechteck mit durchgezogener Linie. |
@@ -263,7 +257,7 @@ Es existieren verschiedene Kardinalitäten:
 
 Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinander lo- gisch verknüpft. In diesem Dokument werden zwei Strukturelement-Arten verwendet: Choice  und Sequence.
 
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |---|---|
 |  | Das Strukturelement Choice zeigt an, dass zwischen verschiedenen Kind- |
 |  | Das Strukturelement Sequence beschreibt, dass verschiedene Kindelemente |
@@ -282,7 +276,7 @@ Kapselendoskopie
 
 Es werden außerdem folgende Diagramm-Symbole verwendet:
 
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |---|---|
 |  | Ein Element mit mehreren Kindelementen wird durch ein Plus- |
 |  | Referenzelement: Der Pfeil links unten im Element zeigt an, dass |
@@ -379,8 +373,8 @@ Kapselendoskopie
 
 ---
 
-| <ehd:document_relationship>  <ehd:document_relationship.type_cd V="RPLC"/>  <ehd:related_document>  <ehd:id EX="ag111105-2d51-4016-831e-cbd9e1a318h9" RT="555333222"/>  </ehd:related_document>  </ehd:document_relationship> |
-|---|
+\| <ehd:document_relationship>  <ehd:document_relationship.type_cd V="RPLC"/>  <ehd:related_document>  <ehd:id EX="ag111105-2d51-4016-831e-cbd9e1a318h9" RT="555333222"/>  </ehd:related_document>  </ehd:document_relationship> |
+\|---|
 
 **XML-Code 2 - document_relationship**
 
@@ -415,8 +409,8 @@ Kapselendoskopie
 
 XML-Beispiel
 
-| </ehd:person>        </ehd:organization>                    <ehd:local_header>                  </ehd:header> |
-|---|
+\| </ehd:person>        </ehd:organization>                    <ehd:local_header>                  </ehd:header> |
+\|---|
 
 **XML-Code 3 - ehd-header**
 
@@ -498,9 +492,9 @@ enthält die QS Kapselendoskopie Jahresstatistik.
 
 ---
 
-| <qske:qske_dokumentation>  <anzahl_erstuntersuchungen V="10"/> |
-|---|
-| Abbildung 9 - Element qske_dokumentation    XML-Beispiel (ohne Anspruch auf Vollständigkeit)  <qske:qske_dokumentation>  <anzahl_erstuntersuchungen V="10"/> |
+\| <qske:qske_dokumentation>  <anzahl_erstuntersuchungen V="10"/> |
+\|---|
+\| **Abbildung 9 - Element qske_dokumentation **   XML-Beispiel (ohne Anspruch auf Vollständigkeit)  <qske:qske_dokumentation>  <anzahl_erstuntersuchungen V="10"/> |
 
 Kapselendoskopie
 
@@ -510,9 +504,9 @@ Kapselendoskopie
 
 Kapselendoskopie
 
-| </qske:qske_dokumentation> |
-|---|
-| </qske:qske_dokumentation> |
+\| </qske:qske_dokumentation> |
+\|---|
+\| </qske:qske_dokumentation> |
 
 **XML-Code 6 - qske dokumentation**
 
@@ -624,7 +618,7 @@ Kapselendoskopie
 
 # 5. Referenzierte Dokumente
 
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 |---|---|
 | [KBV_ITA_VGEX_eHD] | Richtlinie ehd - eHealthData |
 | [KBV_ITA_VGEX_Plausi_QSKE] | Plausibilitäten der Qualitätssicherungsvereinbarung Kapselen- |

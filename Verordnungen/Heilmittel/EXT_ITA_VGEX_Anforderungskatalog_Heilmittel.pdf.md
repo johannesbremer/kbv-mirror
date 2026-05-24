@@ -23,9 +23,9 @@ schließen als Anlage 29 zum Bundesmantelvertrag-Ärzte (BMV-Ä) den nachstehend
 
 Die Version 2.7 ist zum 01.10.2024 umzusetzen.
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 1.0 | 22.03.2016 KBV/GKV-SV |  | neues Dokument | Einführung des | alle |
+| 1.0 | 22.03.2016 KBV/GKV-SV |  | neues Dokument | Einführung des | **alle** |
 | 1.1 | 01.04.2016 KBV/GKV-SV |  |  |  |  |
 | 1.2 | 26.07.2016 KBV/GKV-SV |  |  |  |  |
 | 1.3 | 01.09.2016 KBV/GKV-SV |  |  |  |  |
@@ -124,17 +124,17 @@ Bei den **optionalen Funktionen** handelt es sich um Anforderungen, die umgesetz
 
 Entscheidung hierzu liegt im Ermessen des jeweiligen Softwareherstellers.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P4-10 | Funktionsbezeichnung |
+| **P4-10** | **Funktionsbezeichnung** |
 
-| Konditionale PFLICHTFUNKTION | |
+| **Konditionale PFLICHTFUNKTION** | |
 |---|---|
-| KP4-15 | Funktionsbezeichnung |
+| **KP4-15** | **Funktionsbezeichnung** |
 
-| Optionale Funktion | |
+| **Optionale Funktion** | |
 |---|---|
-| O4-20 | Funktionsbezeichnung |
+| **O4-20** | **Funktionsbezeichnung** |
 
 m Anforderungskatalog unberührt.
 
@@ -153,9 +153,9 @@ ng der Anforderung beschrieben.
 
 **1.3** **Allgemeine Anforderungen an die Software**
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P1-03 | Nutzereinstellungen für Verordnungen |
+| **P1-03** | **Nutzereinstellungen für Verordnungen** |
 
 Dem Anwender muss die Möglichkeit gegeben werden, i n den Nutzereinstellungen der Software eine  Vorbelegung für einzelne Verordnungsdaten (Felder auf dem Verordnungsvordruck)
 
@@ -183,9 +183,9 @@ der Anwender die Möglichkeit -  Therapiebericht
 
 - (5) Im Rahmen der Verordnung kann der Anwender die Vorbelegung für die Felder übersteuern
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P1-04 | Sicherung von Nutzereinstellungen |
+| **P1-04** | **Sicherung von Nutzereinstellungen** |
 
 Die Einstellungen des Anwenders, welche innerhalb der Software vorgenommen wurden, müssen nach  Aktualisierung der Software erhalten bleiben.
 
@@ -199,9 +199,9 @@ Der zeitliche und bürokratische Aufwand für den Anwender im Zusammenhang mit d
 
 - , nach der Anforderung P1-03, bleibt auch nach der
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P1-05 | Anzeige von Werbung |
+| **P1-05** | **Anzeige von Werbung** |
 
 Es muss sichergestellt sein, dass der Anwender die Funktionalitäten der Software zur Verordnung von
 
@@ -237,9 +237,9 @@ Die Heilmittel-Stammdatei ist in der jeweils gültigen Version zu verwenden. Die
 
 und ist durch die KBV in die Heilmittel-Stammdatei einzupflegen. Die Heilmittel-Stammdatei wird nach  Benehmens-Herstellung mit dem Spitzenverband Bund der Krankenkassen ( GKV-SV) durch die KBV den  Software-Herstellern zur Verfügung gestellt. Im Rahmen der Herstellung des Benehmens wird die  Richtigkeit und Vollständigkeit der Heilmittel-Stammdatei vom GKV-SV geprüft.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P2-01 | Einsatzpflicht und Unveränderbarkeit der |
+| **P2-01** | **Einsatzpflicht und Unveränderbarkeit der** |
 
 In der Software müssen die Daten der gültigen Heilmittel-Stammdatei zur Verwendung hinterlegt sein .  Die Datensätze der Heilmittel-Stammdatei dürfen inhaltlich nicht verändert werden.
 
@@ -268,9 +268,9 @@ Heilmittel-Stammdatei
 
 ---
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P2-03 | Zugriff auf die Heilmittel-Richtlinie |
+| **P2-03** | **Zugriff auf die Heilmittel-Richtlinie** |
 
 Dem Anwender muss die Möglichkeit gegeben werden , sich in der Software die aktuelle Version der  Heilmittel-Richtlinie des G-BA (inklusive Anlagen) [HeilM-RL] als PDF-Datei anzeigen zu lassen.
 
@@ -291,9 +291,9 @@ Dem Anwender muss die Möglichkeit gegeben werden, jederzeit auf alle Informatio
 
 Die ICD-10-GM-Stammdatei der KBV auf Basis der Schnittstellenbeschreibung SDICD wird über das Regel Update der KBV zur Verfügung gestellt. Für den Einsatz in der Software kann die ICD-10-GM-Stammdatei  unter Berücksichtigung der Unveränderbarkeit der Inhalt e entsprechend angepasst werden (z. B.  Überführung in ein Datenbankformat).
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P2-04 | Einsatzpflicht und Unveränderbarkeit der ICD |
+| **P2-04** | **Einsatzpflicht und Unveränderbarkeit der ICD** |
 
 In der Software müssen die Daten der gültigen ICD -10-GM-Stammdatei zur Verwendung hinterlegt sein.  Die Datensätze der ICD-10-GM-Stammdatei dürfen inhaltlich nicht verändert werden.
 
@@ -352,9 +352,9 @@ Darüber hinaus können regionale besondere Verordnungsbedarfe, deren Struktur i
 
 Herstellung erfolgt nicht.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P2-06 | Einsatzpflicht und Unveränderbarkeit der BVB-/LHM-Stammdatei |
+| **P2-06** | **Einsatzpflicht und Unveränderbarkeit der BVB-/LHM-Stammdatei** |
 
 Es besteht die Pflicht zur Verwendung der gültigen BVB-/LHM-Stammdatei. Die Datensätze der BVB-/LHM-
 
@@ -385,9 +385,9 @@ Die Anzeige zum Stand der eingebundenen Stammdatei kann darüber realisiert werd
 
 Diese Anforderung definiert nicht, dass Softwaresysteme zwingend mit der Struktur der bereitgestellten  Datei arbeiten müssen. Die Daten der Datei können in ein anderes Format überführt werden z. von Datenbanken.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P2-08 | Einbinden der besonderen Verordnungsbedarfe als Anlage |
+| **P2-08** | **Einbinden der besonderen Verordnungsbedarfe als Anlage** |
 
 Dem Anwender muss die Möglichkeit gegeben werden, sich in der Software die jeweils aktuelle Version  des Anhang 1
 
@@ -434,9 +434,9 @@ Indikationen eine Verordnung nach § 13a der HeilM-RL ausgestellt werden kann. D
 
 Stammdatei ist in der jeweils gültigen Version zu verwenden. Die Aktualisierung und Pflege dieser Daten  erfolgt durch den GKV-SV.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P2-02 | Einsatzpflicht der Blanko-Verordnungs-Stammdatei |
+| **P2-02** | **Einsatzpflicht der Blanko-Verordnungs-Stammdatei** |
 
 Es besteht die Pflicht zur Verwendung der gültigen Blanko-Verordnungs-Stammdatei. Die Datensätze der
 
@@ -481,9 +481,9 @@ den PVS-Hersteller frühestens am 15. November 2020 abzurufen:
 
 **3.1** **Dokumentation im Rahmen der Heilmittelverordnung**
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-01 | Patientenspezifische Genehmigung des langfristigen Heilmittelbedarfs |
+| **P3-01** | **Patientenspezifische Genehmigung des langfristigen Heilmittelbedarfs** |
 
 Das Softwaresystem ermöglicht dem Anwender individuelle Genehmigungen eines langfristigen
 
@@ -564,9 +564,9 @@ krankenkassenspezifisch. Das bedeutet im Rahmen einer Krankenkassenfusion bleibe
 
 Es empfiehlt sich eine Möglichkeit anzubieten, mit der die erforderlichen Informationen mittels einer  Aktion aus einer bereits dokumentierten Genehmigung für den betreffenden Patienten übernommen  werden kann.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-02 | Verordnungsdokumentation |
+| **P3-02** | **Verordnungsdokumentation** |
 
 Das Softwaresystem dokumentiert alle durch den Anwender getätigten Heilmittelverordnungen.
 
@@ -635,9 +635,9 @@ In der Dokumentation muss unterscheidbar sein, ob ein Heilmittel als vorrangiges
 
 ../diagnosegruppe/heilmittelverordnung/standardisierte_heilmittel_kombination/name/@V).
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-03 | Stornierung von Verordnungen |
+| **P3-03** | **Stornierung von Verordnungen** |
 
 Dem Anwender muss die Möglichkeit gegeben werden, dokumentierte bzw. gespeicherte Verordnungen
 
@@ -700,9 +700,9 @@ pro Patient gültig. Für das Ausstellen weiterer Verordnungen ist die Pflichtfu
 
 ---
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-10 | Auswahl Heilmittelbereich |
+| **P3-10** | **Auswahl Heilmittelbereich** |
 
 Der Anwender muss im Rahmen der Verordnung den Heilmittelbereich auswählen.
 
@@ -738,9 +738,9 @@ Aus dem Heilmittelbereich ergeben sich die zur Auswahl stehenden Diagnosegruppen
 
 entsprechenden verordnungsfähigen Heilmittel. Alternativ kann der Heilmittelbereich automatisch aus  der gewählten Diagnosegruppe abgeleitet werden
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-04 | Zugriff auf zurückliegende Verordnungen |
+| **P3-04** | **Zugriff auf zurückliegende Verordnungen** |
 
 Dem Anwender muss die Möglichkeit gegeben werden, eine Verordnung auf Basis von zurückliegenden  Verordnungen auszustellen.
 
@@ -775,9 +775,9 @@ Zur Vereinfachung des Verordnungsvorgangs muss es möglich sein, auf zurücklieg
 
 Auf Grund der Neufassung der Heilmittel -Richtlinie gültig zum 1. Oktober 2020 haben sich die zu  dokumentierenden Informationen wesentlich verändert. Aus diesem Grund ist es nicht verpflichtend ,  Informationen von Verordnungen, die auf Basis des Anforderungskatalogs vor der Version 2.0 erstellt  wurden, zu übernehmen. Es ist dennoch möglich, Informationen aus zurückliegenden Verordnungen mit  Hilfe intelligenter Algorithmen zu übernehmen.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-06 | ICD-10-Code |
+| **P3-06** | **ICD-10-Code** |
 
 Dem Anwender muss die Möglichkeit gegeben werden, im Feld „ICD-10-Code“einen gültigen ICD-10-GM-
 
@@ -854,9 +854,9 @@ Die Reihenfolge der im Formular eingetragenen ICD-10-GM-Codes muss nicht der Rei
 
 SDHMA entsprechen.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-12 | Behandlungsrelevante Diagnose(n) |
+| **P3-12** | **Behandlungsrelevante Diagnose(n)** |
 
 Dem Anwender muss die Möglichkeit gegeben werden , im Feld „Behandlungsrelevante Diagnose (n)
 
@@ -895,9 +895,9 @@ behandlungsrelevanten Diagnose(n) und ggf. weiterer Befundergebnisse angeboten w
 
 ---
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-07 | Diagnosegruppe |
+| **P3-07** | **Diagnosegruppe** |
 
 Dem Anwender muss die Möglichkeit gegeben werden, im Feld Diagnosegruppe“ eine Diagnosegruppe
 
@@ -933,9 +933,9 @@ anzugeben.
 
 Bei der Auswahl der Diagnosegruppe ist zusätzlich die Kennzeichnung als besonderer Verordnungsbedarf  bzw. langfristiger Heilmittelbedarf gemäß P3-18 (1) bis (4) zu beachten.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-08 | Leitsymptomatik |
+| **P3-08** | **Leitsymptomatik** |
 
 Dem Anwender muss die Möglichkeit gegeben werden eine oder mehrere verordnungsbegründende  Leitsymptomatiken anzugeben.
 
@@ -994,9 +994,9 @@ Heilmittelerbringer sichergestellt.
 
 - Stammdatei (SDHM XML -Element ../diagnosegruppe/leitsymptomatik_liste/leitsymptomatik/@V noch eine patientenindividuelle Leitsymptomatik aus, ist der Anwender auf die fehlenden Angaben  hinzuweisen.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-09 | Zuordnung der Verordnung zu einem Verordnungsfall |
+| **P3-09** | **Zuordnung der Verordnung zu einem Verordnungsfall** |
 
 Die Software ermöglicht eine Steuerung zum Status der Verordnung, ob die Verordnung einem neuen  oder einem bestehenden Verordnungsfall zugeordnet werden muss.
 
@@ -1044,9 +1044,9 @@ zugeordnet werden kann, falls je eine Vorverordnung mit einer der beiden behandl
 
 Bei Vorliegen einer Verordnung, bei der zwei ICD -10-GM-Codes als behandlungsrelevante Diagnose  angegeben werden, ist es möglich, dass diese Verordnung zwei unterschiedlichen Verordnungsfällen  zugeordnet werden kann, falls je eine Folgeverordnung mit nur einer der beiden behandlungsrelevanten  Diagnosen ausgestellt wird.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-16 | Blankoverordnung |
+| **P3-16** | **Blankoverordnung** |
 
 Auf Grundlage der Blanko -Verordnungs-Stammdatei muss die Software erkennen, in welchem Fall eine  Blankoverordnung möglich ist. Wenn eine Blankoverordnung möglich ist, dann muss der Anwender  explizit aufgefordert werden, zu entscheiden, ob auf eine Blankoverordnung verzichtet werden soll.
 
@@ -1143,9 +1143,9 @@ Falls der Anwender nach (1) entschieden hat, dass eine Blankoverordnung ausgeste
 
 - ausgestellt wurde aber die Kriterien einer Blankoverordnung erfüllt, muss eine Abfrage nach (1)  erfolgen (unter Beachtung von Punkt (3)).
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-19 | Heilmittel nach Maßgabe des Kataloges |
+| **P3-19** | **Heilmittel nach Maßgabe des Kataloges** |
 
 Dem Anwender muss die Möglichkeit gegeben werden, für die Belegung des Feldes „Heilmittel nach  Maßgabe des Kataloges“ gemäß Heilmittelstammdaten auszuwählen.
 
@@ -1184,9 +1184,9 @@ Heilmittelbereich der Podologie sind die genannten Heilmittel nur bei Vorliegen 
 
 Leitsymptomatiken verordnungsfähig. Im Bereich der Physiotherapie ist die Verordnungsfähigkeit der  Heilmittel „KG ZNS“ und „KG-ZNS-Kinder“ von bestimmten Altersbedingungen abhängig.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-21 | Verordnung von „vorrangigen Heilmitteln“ |
+| **P3-21** | **Verordnung von „vorrangigen Heilmitteln“** |
 
 Dem Anwender muss die Möglichkeit gegeben werden, die Felder „Heilmittel nach Maßgabe des  Kataloges“ mit ein bis drei vorrangigen Heilmitteln zu befüllen.
 
@@ -1285,9 +1285,9 @@ der überschüssige Text in dieses Feld automatisch übernommen werden.
 
 möglich.“
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-22 | Zusätzliche Verordnung eines „ergänzenden Heilmittels“ |
+| **P3-22** | **Zusätzliche Verordnung eines „ergänzenden Heilmittels“** |
 
 Dem Anwender muss die Möglichkeit gegeben werden, f ür Verordnungen im Rahmen der
 
@@ -1326,9 +1326,9 @@ ein im Heilmittelkatalog genanntes ergänzendes Heilmittel verordnet werden.
 
 - (3) Es darf maximal ein ergänzendes Heilmittel verordnet werden.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-23 | Eigenständige Verordnung eines „ergänzenden Heilmittels“ |
+| **P3-23** | **Eigenständige Verordnung eines „ergänzenden Heilmittels“** |
 
 Dem Anwender muss die Möglichkeit gegeben werden, f ür Verordnungen im Rahmen des
 
@@ -1372,9 +1372,9 @@ Gemäß § 12 Abs. 3 der HeilM-RL können Elektrotherapie oder Elektrostimulatio
 
 - (3) Es darf in diesem Fall kein weiteres Heilmittel verordnet werden.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-24 | Standardisierte Heilmittelkombination |
+| **P3-24** | **Standardisierte Heilmittelkombination** |
 
 Dem Anwender muss die Möglichkeit gegeben werden, f ür Verordnungen im Rahmen des
 
@@ -1437,16 +1437,16 @@ einzelnen Heilmitteln kann durch den Arzt erfolgen, soweit dies aus medizinische
 
 Die untenstehende Tabelle (Tabelle 1) zeigt ein Beispiel für die Verordnung einer standardisierten  Heilmittelkombination mit der Benennung mehrerer Heilmittel.
 
-| Heilmittel nach Maßgabe des Katalogs  Heilmittel | Behandlungseinheiten |
+| **Heilmittel nach Maßgabe des Katalogs ** Heilmittel | Behandlungseinheiten |
 |---|---|
 | Standardisierte Heilmittelkombination (KG;MT;KMT;Wärmetherapie) | 6 |
 |  |  |
 
 **Tabelle 1:** Beispiel Verordnung einer standardisierten Heilmittelkombination
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-25 | Sortierte Auswahlliste der Heilmittel |
+| **P3-25** | **Sortierte Auswahlliste der Heilmittel** |
 
 Die verordnungsfähigen Heilmittel werden in einer sortierten Auswahlliste angezeigt.
 
@@ -1475,9 +1475,9 @@ die Heilmittel oben angezeigt bekommen, die vorrangig auszuwählen sind.
 
 - ergänzenden Heilmitteln in der Auswahlliste voranzustellen.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-37 | Patientenspezifische Genehmigung des langfristigen Heilmittelbedarfs |
+| **P3-37** | **Patientenspezifische Genehmigung des langfristigen Heilmittelbedarfs** |
 
 Dem Anwender muss die Möglichkeit gegeben werden, während der Ausstellung der Verordnung jedoch
 
@@ -1507,9 +1507,9 @@ Heilmittel je Verordnung für eine Behandlungsdauer von bis zu 12 Wochen verordn
 
 - (4) Eine so angelegte patientenspezifische Genehmigung eines langfristigen Heilmittelbedarfs kann im  Nachgang gemäß P3-01 bearbeitet werden.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-11 | Höchstmenge je Verordnung, orientierende Behandlungsmenge |
+| **P3-11** | **Höchstmenge je Verordnung, orientierende Behandlungsmenge** |
 
 Dem Anwender muss die Möglichkeit gegeben werden, im Rahmen der Verordnung im Feld
 
@@ -1937,9 +1937,9 @@ Frequenzempfehlungstypen sind nicht notwendig.
 
 Im Rahmen einer standardisierten Heilmittelkombination verordnete Massagetechniken werden im  Zusammenhang mit Akzeptanzkriterium (4) nicht mitgezählt.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-13 | Therapiefrequenz |
+| **P3-13** | **Therapiefrequenz** |
 
 Dem Anwender muss die Möglichkeit gegeben werden, im Feld
 
@@ -1967,9 +1967,9 @@ Der Ergebniswert der Therapiefrequenz ist entsprechend den Daten aus der  Freque
 
 2) auf dem Ausdruck zu formatieren.
 
-| Formatierungsanweisung | Frequenzempfehlungstyp | |
+| **Formatierungsanweisung** | **Frequenzempfehlungstyp** | |
 |---|---|---|
-|  | Einzelwert | Wertspanne |
+|  | **Einzelwert** | **Wertspanne** |
 | „%dx tägl.“, | „%d <maximale Anzahl> | Einheiten pro Tag |
 | „%dx wöch.“, | „%d <maximale Anzahl> | Einheiten pro Woche |
 | „alle %d Wochen“,  <minimale Anzahl> | „alle %d | Wochen zwischen zwei |
@@ -2009,7 +2009,7 @@ Wochen zwischen zwei
 
 Die untenstehende Tabelle 3 zeigt einige Beispiel für die Bedruckung der Verordnung von Heilmitteln  mit den sechs möglichen Angaben der Therapiefrequenz.
 
-| Heilmittel nach Maßgabe des Katalogs  Heilmittel |  | Therapiefrequenz für die Heilmittelbehandlung |
+| **Heilmittel nach Maßgabe des Katalogs ** Heilmittel |  | Therapiefrequenz für die Heilmittelbehandlung |
 |---|---|---|
 | Standardisierte Heilmittelkombination(KG;MT;KMT;Wärmetherapie) |  | 1-2x wöch. |
 | Übungsbehandlung im Bewegungsbad Gruppe |  | 1x wöch. |
@@ -2020,9 +2020,9 @@ Die untenstehende Tabelle 3 zeigt einige Beispiel für die Bedruckung der Verord
 
 **Tabelle 3:** Beispiel für die Bedruckung
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-14 | Hausbesuch |
+| **P3-14** | **Hausbesuch** |
 
 Dem Anwender muss die Möglichkeit gegeben werden, im Rahmen der Verordnung unter Hausbesuch  zwischen den Feldern „Ja“ oder „Nein“
 
@@ -2075,9 +2075,9 @@ sein, da davon  -Leistungserbringer
 
 - (4) Der Anwender muss die Vorbelegung während der Verordnung übersteuern können.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-15 | Therapiebericht |
+| **P3-15** | **Therapiebericht** |
 
 Dem Anwender muss die Möglichkeit gegeben werden, im Rahmen der Verordnung das Feld
 
@@ -2103,9 +2103,9 @@ durch ein entsprechendes Kreuz einen Therapiebericht des
 
 - (3) Der Anwender muss die Vorbelegung während der Verordnung übersteuern können.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-17 | dringlicher Behandlungsbedarf |
+| **P3-17** | **dringlicher Behandlungsbedarf** |
 
 Dem Anwender muss die Möglichkeit gegeben werden, im Rahmen der Verordnung das Feld „dringlicher
 
@@ -2126,9 +2126,9 @@ innerhalb von 14 Tagengemacht werden.
 
 ---
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-18 | Kriterien für Verordnungen aufgrund eines besonderen Verordnungsbedarfs/eines |
+| **P3-18** | **Kriterien für Verordnungen aufgrund eines besonderen Verordnungsbedarfs/eines** |
 
 Die Software bietet die Möglichkeit , Kriterien eines besonderen Verordnungsbedarfs und eines  langfristigen Heilmittelbedarfs zu verarbeiten und den Anwender entsprechend zu informieren bzw. eine
 
@@ -2325,9 +2325,9 @@ Für besondere Verordnungsbedarfe mit der Spezifikation "längstens (...) nach A
 
 zugeordneten ICD -10-GM-Code-Kombination für die Berücksichtigung un d die Fristberechnung im  Rahmen der Wirtschaftlichkeitsprüfung nach § 106b Abs. 1 SGB V maßgeblich. Eine Vorbelegung mit dem  Datum der ersten Verordnung dieses Verordnungsfalls (nach P3-09) wird empfohlen.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-20 | ggf. Therapieziele / weitere med. Befunde und Hinweise |
+| **P3-20** | **ggf. Therapieziele / weitere med. Befunde und Hinweise** |
 
 Dem Anwender muss die Möglichkeit gegeben werden, im Feld „ggf. Therapieziele / weitere med.
 
@@ -2350,9 +2350,9 @@ obligater Bestandteil einer gültigen Verordnung und daher nicht zwingend zu fü
 
 ---
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-05 | Grundsatz der Vollständigkeit |
+| **P3-05** | **Grundsatz der Vollständigkeit** |
 
 Die Software prüft ob die Verordnung nach Maßgabe des vorliegenden Anforderungskatalogs ausgefüllt  wurde und gibt Hinweise auf nicht ordnungsgemäß befüllte Felder.
 
@@ -2390,9 +2390,9 @@ richtig ausgefüllt ist. Der Anwender muss die Möglichkei t haben, auch unvolls
 
 -  Therapiefrequenz (nach P3-13) -  Hausbesuch (nach P3-14)
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-38 | Anforderungskatalog Formularbedruckung |
+| **P3-38** | **Anforderungskatalog Formularbedruckung** |
 
 Der „Anforderungskatalog
 
@@ -2422,9 +2422,9 @@ Bedruckung des Musters 13 um.
 
 **4.** **Statistik- und Controlling-Funktionen**
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P 3-35 | Einbindung von Heilmittelpreisen durch den Software-Hersteller |
+| **P 3-35** | **Einbindung von Heilmittelpreisen durch den Software-Hersteller** |
 
 Die Software bindet die vom GKV -SV vereinbarten Heilmittelpreise nach § 125 SGB V für alle  verordnungsfähigen Heilmittel laut Heilmittel-Stammdatei ein.
 
@@ -2460,9 +2460,9 @@ Verordnungsverhalten dienen und von der Arztpraxis zur Steuerung der Heilmittelv
 
 - (8) Im Fall der Angabe von mehr als einer Positionsnummer in den Stammdaten, sind die Preise zu  addieren.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-34 | Verordnungsstatistik |
+| **P3-34** | **Verordnungsstatistik** |
 
 Die Software hält eine Funktion bereit, wonach der Anwender eine Verordnungsstatistik seiner gesamten  getätigten Verordnungen und pro Patient erhält.
 
@@ -2588,9 +2588,9 @@ Darüber hinaus können im Rahmen der Verordnungsstatistik weitere Auswertungen 
 
 eigenständig vom Hersteller festgelegt werden.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-36 | Export von Verordnungsdaten |
+| **P3-36** | **Export von Verordnungsdaten** |
 
 Die Software  Tabellenkalkulationsprogramme vorsehen.
 
@@ -2614,7 +2614,7 @@ Um eigene Auswertungen zu ermöglichen und im Falle von Wirtschaftlichkeitsprüf
 
 **5.** **Glossar**
 
-| Begriff | Bedeutung |
+| **Begriff** | **Bedeutung** |
 |---|---|
 | Besonderer | Besondere Verordnungsbedarfe entsprechen den bis 31.12.2016 in § 84 Abs. |
 | BVB (regional) | Nach § 106b Abs. 2 Satz 5 SGB V können die Landesve rbände der |
@@ -2631,7 +2631,7 @@ Um eigene Auswertungen zu ermöglichen und im Falle von Wirtschaftlichkeitsprüf
 
 ---
 
-| Begriff | Bedeutung |
+| **Begriff** | **Bedeutung** |
 |---|---|
 | (LHM) | Ein langfristiger Heilmittelbedarf gem. § 32 Abs. 1a SGB V liegt bis zum |
 | Massagetechniken | KMT (Klassische Massagetherapie), BGM (Bindegewebsmassage), SM |
@@ -2651,7 +2651,7 @@ Um eigene Auswertungen zu ermöglichen und im Falle von Wirtschaftlichkeitsprüf
 
 Es werden zum Teil übergeordnete Verweise verwendet. Damit soll vermieden werden das auf Grund von  Änderungen der Hyperlinks zu jeweiligen Dokumenten eine Anpassung dieses Vertragsdokuments zur  Folge haben.
 
-| Referenz | Titel des Dokumentes/Hyperlink |
+| **Referenz** | **Titel des Dokumentes/Hyperlink** |
 |---|---|
 | [EXT_ITA_VGEX_Anforderungskatalog_AVWG] | Anforderungskatalog nach § 73 für  https://update.kbv.de/ita- |
 | [KBV_ITA_VGEX_Anforderungskatalog_KVDT] | Anforderungskatalog KVDT (Kassenärztliche  https://update.kbv.de/ita- |
@@ -2666,7 +2666,7 @@ ng] Verordnungssoftware update/Verordnungen/Arzneimittel/ Vereinigung DatenTrans
 
 ---
 
-| Referenz | Titel des Dokumentes/Hyperlink |
+| **Referenz** | **Titel des Dokumentes/Hyperlink** |
 |---|---|
 | [HeilM-Katalog] | Zweiter Teil der Heilmittel-Richtlinie - Zuordnung der  https://www.g-ba.de/informationen/richtlinien/12/ |
 | [Heilmittel_Anhang_1] | Anhang 1 zur Anlage 2 der Rahmenvorgaben nach §  http://www.kbv.de/html/2756.php |

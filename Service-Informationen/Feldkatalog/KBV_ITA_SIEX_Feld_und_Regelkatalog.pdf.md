@@ -1,17 +1,24 @@
-| ***IT in*** | ***der*** | ***Arztpraxis*** |  |
-|---|---|---|---|
-| *Feld-* | *und* | *Regelkatalog* | |
-|  | [KBV_ITA_SIEX_Feld_Regelkatalog] | | |
-| Dezernat | Digitalisierung | und IT |  |
-| 10623 | Berlin, | Herbert-Lewin-Platz | 2 |
-|  | Kassenärztliche | Bundesvereinigung | |
-| Version | 1.35 |  |  |
-| Datum: | 14.02.2025 |  |  |
-| Kennzeichnung: | Öffentlich |  |  |
-| Status: | In Kraft |  |  |
-| © | Kassenärztliche | Bundesvereinigung, Berlin | 202 5 |
+## IT in der Arztpraxis
 
-IT in der Arztpraxis Feld- und Regelkatalog Dezernat Digitalisierung und IT 10623 Berlin, Herbert-Lewin-Platz 2 Kassenärztliche Bundesvereinigung
+## Feld- und Regelkatalog
+
+### [KBV_ITA_SIEX_Feld_Regelkatalog
+
+### Dezernat Digitalisierung und IT
+
+10623 Berlin, Herbert-Lewin-Platz 2
+
+### Kassenärztliche Bundesvereinigung
+
+Version 1.35
+
+Datum: 14.02.2025
+
+Kennzeichnung: Öffentlich
+
+Status:
+
+In Kraft
 
 
 ---
@@ -1353,65 +1360,32 @@ Tag der durch den Hausarzt festge- stellten Behandlungsnotwendigkeit zu  übermi
 
 4132 DMP-Kennzeichnung
 
-| **Länge** | **Typ Wertebereich** | **Erläuterung** |  |  |  |
-|---|---|---|---|---|---|
-|  |  | 04 = BSHG |  | (Bundessozialhilfegesetz) | |
-|  |  | § 264 | SGB V |  |  |
-|  |  | 06 = BVG | (Gesetz | über die | Versor- |
-|  |  | gung | der Opfer | des Krieges) |  |
-|  |  | 07 = | SVA-Kennzeichnung | für | zwi- |
-|  |  |  | schenstaatliches | Krankenversi- | |
-|  |  |  | cherungsrecht: | - Personen | mit |
-|  |  |  | Wohnsitz im | Inland, | Abrechnung |
-|  |  | nach | Aufwand |  |  |
-|  |  | 08 = | SVA-Kennzeichnung, |  | pauschal |
-|  |  | 09 = | Empfänger von | Gesundheitsleis- | |
-|  |  | tungen | nach den | §§ 4 und | 6 des |
-|  |  |  |  | Asylbewerberleistungsgesetzes | |
-|  |  |  | (AsylbLG) |  |  |
-| 2 | a [00,01,02,03,04,05,06,0 | 00 = kein |  | DMP-Kennzeichnen |  |
-|  | 7,08,09,10,11,12,30,31, |  | (Defaultwert) |  |  |
-|  | 32,33,34,35,36,37,38,39 |  |  |  |  |
-|  |  | 01 = | Diabetes mellitus | Typ 2 |  |
-|  | ,40,41,42,43,44,45,46,4 |  |  |  |  |
-|  |  | 02 = | Brustkrebs |  |  |
-|  | 7,48,49,50,51,52,53,54, |  |  |  |  |
-|  | 55,56,57,58] | 03 = | Koronare | Herzkrankheit |  |
-|  |  | 04 = | Diabetes mellitus | Typ 1 |  |
-|  |  | 05 = Asthma | bronchiale |  |  |
-|  |  | 06 = COPD | (chronic | obstructive | pul- |
-|  |  | monary | disease) |  |  |
-|  |  | 07 = | Chronische | Herzinsuffizienz |  |
-|  |  | 08 = | Depression |  |  |
-|  |  | 09 = | Rückenschmerz |  |  |
-|  |  | 10 = | Rheuma |  |  |
-|  |  | 11 = | Osteoporose |  |  |
-|  |  | 12 = | Adipositas |  |  |
-|  |  | 30 = | Diabetes Typ | 2 und KHK |  |
-|  |  | 31 = Asthma | und | Diabetes Typ | 2 |
-|  |  | 32 = COPD | und | Diabetes Typ | 2 |
-|  |  | 33 = COPD | und KHK |  |  |
-|  |  | 34 = COPD, | Diabetes | Typ 2 | und KHK |
-|  |  | 35 = | Asthma und | KHK |  |
-|  |  | 36 = | Asthma, Diabetes | Typ 2 | und |
-|  |  | KHK |  |  |  |
-|  |  | 37 = | Brustkrebs und | Diabetes | Typ 2 |
-|  |  | 38 = | Diabetes Typ | 1 und KHK |  |
-|  |  | 39 = Asthma | und | Diabetes Typ | 1 |
-|  |  | 40 = Asthma | und | Brustkrebs |  |
-|  |  | 41 = | Brustkrebs und | KHK |  |
-|  |  | 42 = | Brustkrebs und | COPD |  |
-|  |  | 43 = COPD | und | Diabetes Typ | 1 |
-|  |  | 44 = | Brustkrebs, | Diabetes Typ | 2 und |
-|  |  | KHK |  |  |  |
-|  |  | 45 = | Asthma, Brustkrebs | und | Diabe- |
-|  |  | tes | Typ 2 |  |  |
-|  |  | 46 = | Brustkrebs und | Diabetes | Typ 1 |
-|  |  | 47 = COPD, | Diabetes | Typ 1 | und KHK |
-|  |  | 48 = | Brustkrebs, | COPD und | Diabetes |
-|  |  | Typ | 2 |  |  |
+**Länge Typ Wertebereich**
 
-04 = BSHG (Bundessozialhilfegesetz) § 264 SGB V 06 = BVG (Gesetz über die Versor- gung der Opfer des Krieges) 07 = SVA-Kennzeichnung für zwi- schenstaatliches Krankenversi- cherungsrecht: - Personen mit Wohnsitz im Inland, Abrechnung nach Aufwand 08 = SVA-Kennzeichnung, pauschal 09 = Empfänger von Gesundheitsleis- tungen nach den §§ 4 und 6 des 00 = kein DMP-Kennzeichnen 01 = Diabetes mellitus Typ 2 02 = Brustkrebs 03 = Koronare Herzkrankheit 04 = Diabetes mellitus Typ 1 05 = Asthma bronchiale  06 = COPD (chronic obstructive pul- monary disease) 07 = Chronische Herzinsuffizienz 08 = Depression 09 = Rückenschmerz 10 = Rheuma  11 = Osteoporose  12 = Adipositas 30 = Diabetes Typ 2 und KHK 31 = Asthma und Diabetes Typ 2 32 = COPD und Diabetes Typ 2 33 = COPD und KHK 34 = COPD, Diabetes Typ 2 und KHK 35 = Asthma und KHK 36 = Asthma, Diabetes Typ 2 und 37 = Brustkrebs und Diabetes Typ 2 38 = Diabetes Typ 1 und KHK 39 = Asthma und Diabetes Typ 1 40 = Asthma und Brustkrebs 41 = Brustkrebs und KHK 42 = Brustkrebs und COPD 43 = COPD und Diabetes Typ 1 44 = Brustkrebs, Diabetes Typ 2 und 45 = Asthma, Brustkrebs und Diabe- tes Typ 2 46 = Brustkrebs und Diabetes Typ 1 47 = COPD, Diabetes Typ 1 und KHK 48 = Brustkrebs, COPD und Diabetes
+2 a [00,01,02,03,04,05,06,0 7,08,09,10,11,12,30,31, 32,33,34,35,36,37,38,39 ,40,41,42,43,44,45,46,4 7,48,49,50,51,52,53,54, 55,56,57,58]
+
+**Erläuterung**
+
+04 = BSHG (Bundessozialhilfegesetz)  § 264 SGB V
+
+06 = BVG (Gesetz über die Versor- gung der Opfer des Krieges)
+
+07 = SVA-Kennzeichnung für zwi- schenstaatliches Krankenversi- cherungsrecht: - Personen mit  Wohnsitz im Inland, Abrechnung  nach Aufwand
+
+08 = SVA-Kennzeichnung, pauschal  09 = Empfänger von Gesundheitsleis- tungen nach den §§ 4 und 6 des  Asylbewerberleistungsgesetzes  (AsylbLG)
+
+00 = kein DMP-Kennzeichnen  (Defaultwert)
+
+01 = Diabetes mellitus Typ 2  02 = Brustkrebs  03 = Koronare Herzkrankheit  04 = Diabetes mellitus Typ 1  05 = Asthma bronchiale  06 = COPD (chronic obstructive pul- monary disease)
+
+07 = Chronische Herzinsuffizienz  08 = Depression  09 = Rückenschmerz  10 = Rheuma  11 = Osteoporose  12 = Adipositas  30 = Diabetes Typ 2 und KHK  31 = Asthma und Diabetes Typ 2  32 = COPD und Diabetes Typ 2  33 = COPD und KHK  34 = COPD, Diabetes Typ 2 und KHK  35 = Asthma und KHK  36 = Asthma, Diabetes Typ 2 und  KHK
+
+37 = Brustkrebs und Diabetes Typ 2  38 = Diabetes Typ 1 und KHK  39 = Asthma und Diabetes Typ 1  40 = Asthma und Brustkrebs  41 = Brustkrebs und KHK  42 = Brustkrebs und COPD  43 = COPD und Diabetes Typ 1  44 = Brustkrebs, Diabetes Typ 2 und  KHK
+
+45 = Asthma, Brustkrebs und Diabe- tes Typ 2
+
+46 = Brustkrebs und Diabetes Typ 1  47 = COPD, Diabetes Typ 1 und KHK  48 = Brustkrebs, COPD und Diabetes  Typ 2
+
 
 ---
 
@@ -4385,25 +4359,25 @@ Identifiziert eine Nachforderung, die  auf die Auftrags ID oder Teilauftrags  ID
 
 ---
 
-| **FK** |  | **Feldbezeichnung** |  |
-|---|---|---|---|
-| 8321 | Straße | der | Laboradresse |
-| 8322 | PLZ der | Laboradresse | |
-| 8323 | Ort der | Laboradresse | |
-| 8324 |  | Telefonnummer | des Labors |
-| 8324 | ID des | Laborstandortes | |
-| 8325 |  | Telefaxnummer | des Labors |
-| 8401 | Status | (Befund/Bericht) | |
-| 8403 |  | Gebührenordnung |  |
-| 8405 |  | Patienteninformation | |
-| 8406 | Kosten | in (€) Cent |  |
-| 8410 | Test-Ident |  |  |
-| 8411 |  | Testbezeichnung |  |
-| 8413 |  | QMS-Test-Ident |  |
-| 8414 |  | QMS-Testbezeichnung | |
-| 8415 | nicht | anforderbar |  |
-| 8417 | Anlass | der | Untersuchung |
-| 8418 | Ergebnisstatus | |  |
+| **FK** | **Feldbezeichnung** |
+|---|---|
+| 8321 | Straße der Laboradresse |
+| 8322 | PLZ der Laboradresse |
+| 8323 | Ort der Laboradresse |
+| 8324 | Telefonnummer des Labors |
+| 8324 | ID des Laborstandortes |
+| 8325 | Telefaxnummer des Labors |
+| 8401 | Status (Befund/Bericht) |
+| 8403 | Gebührenordnung |
+| 8405 | Patienteninformation |
+| 8406 | Kosten in (€) Cent |
+| 8410 | Test-Ident |
+| 8411 | Testbezeichnung |
+| 8413 | QMS-Test-Ident |
+| 8414 | QMS-Testbezeichnung |
+| 8415 | nicht anforderbar |
+| 8417 | Anlass der Untersuchung |
+| 8418 | Ergebnisstatus |
 
 **Länge Typ**
 
@@ -4455,7 +4429,7 @@ Langbezeichnung des Analyts
 
 02 = Verlaufskontrolle  03 = Zustand vor  04 = Zustand nach  05 = Ausschluss  06 = Bestätigung  07 = gezielte Suche  08 = ungezielte Suche  09 = Erfolgskontrolle  10 = Abschlusskontrolle  11 = Immunität/Impferfolg
 
-Straße der Laboradresse PLZ der Laboradresse Ort der Laboradresse Telefonnummer des Labors ID des Laborstandortes Telefaxnummer des Labors Status (Befund/Bericht) Kosten in (€) Cent nicht anforderbar Anlass der Untersuchung [A, B, F, K, M, P, S, V A = Analytik abgeschlossen  B = bereits berichtet  F = Wert fehlt  K = korrigierter Wert  M = Material fehlt oder nicht verwend- bar  P = weiterer Wert für Funktionsprofil  folgt  S = Untersuchungsanforderung wurde  storniert  V = Wert vorläufig
+[A, B, F, K, M, P, S, V A = Analytik abgeschlossen  B = bereits berichtet  F = Wert fehlt  K = korrigierter Wert  M = Material fehlt oder nicht verwend- bar  P = weiterer Wert für Funktionsprofil  folgt  S = Untersuchungsanforderung wurde  storniert  V = Wert vorläufig
 
 
 ---
@@ -7132,6 +7106,12 @@ Wenn Feld 5100 vorhanden ist, dann gilt: Der Wert in FK 5100 muss mit einem der 
 |  |  | handen sein. |  |  |
 | 811 | Kontext | Wenn Feldinhalt von 8000 = 8218 und der In- | F | KVK ab 01.01.2015 nur zulässig bei |
 
+halt des Feldes 8609 = K, dann gilt:
+
+Falls 4109 vorhanden ist und der Feldinhalt  >= „01.01.2015“ und der Inhalt der Stellen 3 -
+
+5 der FK 4104 >= 800, dann müssen die Fel- der 3105 und 4110 vorhanden sein.
+
 812
 
 813
@@ -7163,12 +7143,6 @@ Kontext
 Kontext
 
 Kontext
-
-halt des Feldes 8609 = K, dann gilt:
-
-Falls 4109 vorhanden ist und der Feldinhalt  >= „01.01.2015“ und der Inhalt der Stellen 3 -
-
-5 der FK 4104 >= 800, dann müssen die Fel- der 3105 und 4110 vorhanden sein.
 
 Wenn Feldinhalt von 8000 = 8218 und der In- halt des Feldes 8609 = K, dann gilt:
 
@@ -7436,10 +7410,6 @@ W 1-23: Versionsnummer
 
 853
 
-6  = Senkrechter Strich,
-
-Tastenkombination „Alt Gr“
-
 Kontext
 
 Kontext
@@ -7482,9 +7452,9 @@ Wenn das Feld 4255 befüllt ist, muss auch  das Feld 4252 befüllt sein.
 
 Im Feld 4253 dürfen GNR nicht mehrfach  übertragen werden.  Im Feld 4256 dürfen GNR nicht mehrfach  übertragen werden.
 
-im Programmiererjargon „Pipe” genannt. Auf PCs mit dem Betriebssystem
+6  = Senkrechter Strich, im Programmiererjargon „Pipe” genannt. Auf PCs mit dem Betriebssystem
 
-und „<“ erzeugt.
+Tastenkombination „Alt Gr“ und „<“ erzeugt.
 
 6
 
@@ -7555,9 +7525,13 @@ Kontext
 
 Wenn Feldinhalt des Feldes 5001 = 32915[G- alpha],32916[G-alpha], 32917[G-alpha] oder  32918[G-alpha], dann muss mindestens ein  Feld 6001 mit einem Inhalt ungleich „Z01.7“  vorhanden sein und die Felder 5070 und  5071 dürfen nicht übertragen werden.
 
-Wenn der Feldinhalt von FK 6001 =“Z01.7“,  dann muss der Feldinhalt von FK 6003 = „G“  sein.
+Wenn der Feldinhalt von FK 6001 =“Z01.7“,  dann muss der Feldinhalt von FK 6003 = „G“
 
-Entweder das Feld 0201 oder das Feld 0213  muss mindestens einmal (im Satz) vorhanden  sein.  Es können auch beide Feldkennungen vor- kommen.
+sein.
+
+Entweder das Feld 0201 oder das Feld 0213  muss mindestens einmal (im Satz) vorhanden  sein.  Es können auch beide Feldkennungen vor-
+
+kommen.
 
 Im Feld 0225 (TI-Fachanwendung / TI-Kom- ponente) muss jeder erlaubte Wert der Feld- kennung 0225 gemäß der Regel  **weisquelle konnte nicht gefunden werden.** außer den Werten „0“ (ePA Stufe 1) und „2“  (ePA Stufe 2) und „11“ (ePA Stufe 3) genau
 
@@ -7565,19 +7539,23 @@ einmal zu jeder (N)BSNR (FK 0201) bzw.  Krankenhaus-IK (FK 0213) vorkommen.
 
 Wenn der Inhalt des Feldes 8000 = 0101,  0102 oder 0104, dann gilt:  Es muss entweder das Feld FK 5098 oder  das Feld FK 5102 vorhanden sein.
 
-Wenn der Feldinhalt von FK 3673 = „Z01.7“  ist, dann muss der Feldinhalt von FK 3674 =  „G“ sein.
+Wenn der Feldinhalt von FK 3673 = „Z01.7“  ist, dann muss der Feldinhalt von FK 3674 =
+
+„G“ sein.
 
 Im Feld 0225 (TI-Fachanwendung / TI-Kom- ponente) darf jeder Wert der Feldkennung  0225 gemäß der Regel 177 maximal einmal  zu jeder (N)BSNR (FK 0201) bzw. Kranken- haus-IK (FK 0213)vorkommen.
 
-Im Feld 0225 (TI-Fachanwendung Fachan- wendung / TI-Komponente) muss  der Wert „0“ (ePA  **oder** „2“ (ePA Stufe 2)
+Im Feld 0225 (TI-Fachanwendung Fachan- wendung / TI-Komponente) muss  der Wert „0“ (ePA Stufe 1)
+
+**oder** „2“ (ePA Stufe 2) **oder**
 
 3) der Feldkennung 0225 genau einmal zu je- der (N)BSNR (FK 0201) bzw. Krankenhaus- IK (FK 0213) vorkommen.
-
-Stufe 1)  **oder** „11“ (ePA Stufe
 
 **Fehler! Ver-**
 
 **entweder**
+
+„11“ (ePA Stufe
 
 Übertragung der Ziffer 35401 in  der FK 4256 ist zulässig.  - Die Übertragung der Ziffer 35401  in der FK 4253 und 35401B in der  FK 4256 ist zulässig.  - Die Übertragung der Ziffer 35401  in der FK 4253 und die erneute  Übertragung der Ziffer 35401 in  der FK 4253 ist nicht zulässig.  Die Übertragung der Ziffer 35401 in  der FK 4256 und die Übertragung  der Ziffer 35401B in der FK 4256 ist
 
@@ -8564,8 +8542,6 @@ E071 Basis E072 Basis E073 Basis E074 Basis E075 Basis E076 Basis E077 Basis E07
 | E118 | Basis | Softwareverantwortlicher | F | Inhalt des Objektattributes |
 | E119 | Basis | Timestamp_Erstellung_Untersuchungs-anfor- | F | Inhalt des Objektattributes |
 
-derung
-
 | E120 | Basis | Timestamp_Auftragserteilung | F | Inhalt des Objektattributes |
 |---|---|---|---|---|
 | E121 | Basis | Timestamp_Auftragseingang | F | Inhalt des Objektattributes |
@@ -8590,7 +8566,8 @@ derung
 | E141 | Basis | Person_zum_Timestamp | F | Inhalt des Objektattributes |
 | E142 | Basis | Testbezogene_Hinweise | F | Inhalt des Objektattributes |
 
-E104 Basis E105 Basis E106 Basis E107 Basis E108 Basis E109 Basis E110 Basis E111 Basis E112 Basis E113 Basis E114 Basis E115 Basis E116 Basis E118 Basis E119 Basis E120 Basis E121 Basis E122 Basis E123 Basis E124 Basis E125 Basis E126 Basis E127 Basis E128 Basis E129 Basis E130 Basis E131 Basis E132 Basis E133 Basis E134 Basis E135 Basis E136 Basis E137 Basis E138 Basis E139 Basis E141 Basis E142 Basis
+E104 Basis E105 Basis E106 Basis E107 Basis E108 Basis E109 Basis E110 Basis E111 Basis E112 Basis E113 Basis E114 Basis E115 Basis E116 Basis E118 Basis E119 Basis E120 Basis E121 Basis E122 Basis E123 Basis E124 Basis E125 Basis E126 Basis E127 Basis E128 Basis E129 Basis E130 Basis E131 Basis E132 Basis E133 Basis E134 Basis E135 Basis E136 Basis E137 Basis E138 Basis E139 Basis E141 Basis E142 Basis derung
+
 
 ---
 
@@ -8667,8 +8644,6 @@ E169 Basis
 |---|---|---|---|---|
 | E172 | Basis | 1, 3, 4 | F | 1 = Test nach § 2 TestV Kontaktper- |
 
-E173 Basis
-
 UTC−9, UTC−8, UTC−7, UTC−6, UTC−5,  UTC−4, UTC−3:30, UTC−3, UTC−2, UTC−1,  UTC, UTC+1, UTC+2, UTC+3, UTC+3:30,  UTC+4, UTC+4:30, UTC+5, UTC+5:30,  UTC+5:45, UTC+6, UTC+6:30, UTC+7,  UTC+8, UTC+8:30, UTC+9, UTC+9:30,  UTC+10, UTC+10:30, UTC+11, UTC+12,  UTC+12:45, UTC+13, UTC+13:45, UTC+14 0, 1, 2, 3
 
 0, 1, 2, 3
@@ -8677,7 +8652,7 @@ UTC−9, UTC−8, UTC−7, UTC−6, UTC−5,  UTC−4, UTC−3:30, UTC−3, UTC�
 
 1, 2, 3
 
-1, 2, 3, 4
+E173 Basis 1, 2, 3, 4
 
 ist die heute gültige Weltzeit. Einge- führt wurde sie 1972. Aus einer  Zeitangabe in UTC ergibt sich die  ent-sprechende, in Deutschland,  Österreich und anderen mit- teleuropäischen Staaten geltende  Mitteleuropäische Zeit (MEZ), indem
 
@@ -9018,10 +8993,6 @@ K088 KBV
 
 K090 KBV
 
-K091 KBV
-
-K092 KBV
-
 09 oder 11 oder 12 ist, dann muss FK 8225  mindestens einmal vorkommen.
 
 Wenn FK 3412, FK 3413, FK 3414, FK 3415,  FK 3416, FK 3417, FK 3418 oder FK 3419  vorhanden sind, dann muss FK 8225 mindes- tens einmal im Obj_0055 vorkommen.
@@ -9045,6 +9016,10 @@ Falls die FK 4109 vorhanden ist und der Fel- dinhalt >= „01.01.2015“ sowie d
 Stellen 3  5 der FK 4104 >= 800, dann
 
 muss entweder die FK 3105 oder FK 3119  sowie die FK 4110 vorhanden sein.
+
+K091 KBV
+
+K092 KBV
 
 Falls die FK 4109 vorhanden ist und der Fel- dinhalt >= „01.01.2015“ sowie der Inhalt der  Stellen 3 - 5 der FK 4104 < 800, dann müs- sen die FK 3119 und FK 4133 vorhanden  sein.
 

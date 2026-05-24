@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 15. AUGUST 2025   VERSION: 1.14   DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 15. AUGUST 2025   VERSION: 1.14   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # ANFORDERUNGSKATALOG HAUTKREBS SCREENING (EHKS)
@@ -85,7 +85,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 Die Vorgaben der Version 1.14 sind zum 1. Oktober 2025 umzusetzen.
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.14 | 15.08.2025 | KBV | Aktualisierung der Anforderung | Anpassung an eHKS | 8 |
 | 1.13 | 14.08.2019 | KBV | Korrektur der Versionnummer |  | 7 |
@@ -134,15 +134,15 @@ Die in diesem Dokument beschriebenen Funktionen werden durchnummeriert. Dabei fo
 
 Pflichtfunktionen sind wie folgt gekennzeichnet:
 
-| PFLICHTFUNKTION EHKS |  |
+| **PFLICHTFUNKTION EHKS** |  |
 |---|---|
-| P4-10 | Funktionsbezeichnung |
+| **P4-10** | Funktionsbezeichnung |
 
 Optionale Funktionen sind wie folgt gekennzeichnet:
 
-| OPTIONALE FUNKTION EHKS |  |
+| **OPTIONALE FUNKTION EHKS** |  |
 |---|---|
-| K8-30 | Funktionsbezeichnung |
+| **K8-30** | Funktionsbezeichnung |
 
 
 ---
@@ -153,9 +153,9 @@ Optionale Funktionen sind wie folgt gekennzeichnet:
 
 **2.1.1** **Vollständigkeit der Eingaben aller Stamm- und Bewegungsdaten**
 
-| PFLICHTFUNKTION EHKS |  |
+| **PFLICHTFUNKTION EHKS** |  |
 |---|---|
-| P1-10 | Vollständigkeit der Eingaben aller |
+| **P1-10** | Vollständigkeit der Eingaben aller |
 
 - 1. Die Bedieneroberfläche der Hautkrebs-Screening-Software muss eine lückenlose und korrekte Eingabe  aller relevanten Bewegungsdaten bzgl. der eDokumentation Hautkrebs-Screening ermöglichen. Die in
 
@@ -165,9 +165,9 @@ Optionale Funktionen sind wie folgt gekennzeichnet:
 
 - 2. Bezüglich der Ermittlung, Erfassung und Speicherung der Versicherteninformationen gelten alle  Vorgaben der Kapitel „Allgemeine Vorgaben“ (2.1), „Patientenstammdaten erfassen und verarbeiten“  (2.2) sowie „Kostenträger Stammdatei der KBV“ (6.1) in [KBV_ITA_VGEX_Anforderungskatalog_KVDT
 
-| PFLICHTFUNKTION EHKS |  |
+| **PFLICHTFUNKTION EHKS** |  |
 |---|---|
-| P1-11 | Anzeige des Dokumentat |
+| **P1-11** | Anzeige des Dokumentat |
 
 Die Software muss in der Bedienoberfläche den in der Plausibilitätsrichtlinie als „VerdachtsdiagnoseND“
 
@@ -183,9 +183,9 @@ Es besteht aufgrund der Abkürzung „ND“ eine Verwechselungsgefahr mit dem Be
 
 **2.1.2** **Vorbelegung von Feldern**
 
-| OPTIONALE FUNKTION EHKS |  |
+| **OPTIONALE FUNKTION EHKS** |  |
 |---|---|
-| K1-20 | Vorbelegung von Feldern |
+| **K1-20** | Vorbelegung von Feldern |
 
 Eine Vorbelegung von Feldern aus Drittsystemen, z. B. anderen PVS ist zulässig, soweit sichergestellt ist,
 
@@ -197,9 +197,9 @@ Alter (des Versicherten): Das Alter des Versicherten kann systemseitig berechnet
 
 **2.1.3** **Unterstützung von ergänzenden Verträgen der KVen**
 
-| OPTIONALE FUNKTION EHKS |  |
+| **OPTIONALE FUNKTION EHKS** |  |
 |---|---|
-| K1-25 | Unterstützung von ergänzenden Verträgen der KVen |
+| **K1-25** | Unterstützung von ergänzenden Verträgen der KVen |
 
 Stamm- und Bewegungsdaten ionsparameters „Verdachtsdiagno seND“
 
@@ -211,25 +211,25 @@ unter 35 Jahren genutzt werden. Erstellte Dokumentationsbögen für Patienten im
 
 **2.1.4** **Plausibilitätenprüfung**
 
-| PFLICHTFUNKTION EHKS |  |
+| **PFLICHTFUNKTION EHKS** |  |
 |---|---|
-| P1-30 | Plausibilitätenprüfung |
+| **P1-30** | Plausibilitätenprüfung |
 
 Die Software muss nach Eingabe durch den Anwender die entsprechenden Plausibilitäten prüfen (vgl.  [KBV_ITA_VGEX_Plausi_eHKS]).
 
 **2.1.5** **Speichern und Archivieren von Dokumentationsdaten**
 
-| PFLICHTFUNKTION EHKS |  |
+| **PFLICHTFUNKTION EHKS** |  |
 |---|---|
-| P1-40 | Speichern und Archivieren von Dokumentationsdaten |
+| **P1-40** | Speichern und Archivieren von Dokumentationsdaten |
 
 Das System muss sicherstellen, dass der Anwender die Dokumentation speichern kann. Ein späterer Abruf  dieser Dokumentationen zur nachträglichen Bearbeitung muss dem Anwender möglich sein.
 
 **2.1.6** **Anlage einer eDokumentation**
 
-| PFLICHTFUNKTION EHKS |  |
+| **PFLICHTFUNKTION EHKS** |  |
 |---|---|
-| P1-50 | Speichern und Archivieren von Dokumentationsdaten |
+| **P1-50** | Speichern und Archivieren von Dokumentationsdaten |
 
 Bei der Neuanlage einer eDokumentation Hautkrebs-Screening hat das System sicherzustellen, dass in die
 
@@ -254,9 +254,9 @@ Die Software muss sicherstellen, dass
 
 **2.2.1** **Administratives Geschlecht des Patienten**
 
-| PFLICHTFUNKTION EHKS |  |
+| **PFLICHTFUNKTION EHKS** |  |
 |---|---|
-| P1-60 | Administratives Geschlecht des Patienten |
+| **P1-60** | Administratives Geschlecht des Patienten |
 
 Das administrative Geschlecht des Patienten ist zu übermitteln.
 
@@ -272,9 +272,9 @@ Die Abbildung der Geschlechtsausprägung ist von der Softwareversion der XML-Sch
 
 Kapitel 6.10.6.2 [KBV_ITA_VGEX_Schnittstelle_eHeader]) abhängig.
 
-| ABBILDUNG DER GESCHLECHTSAUSPRÄGUNG AUF SCHLÜSSELTABELLENWERT (2.16.840.1.113883.5.1) | | |
+| **ABBILDUNG DER GESCHLECHTSAUSPRÄGUNG AUF SCHLÜSSELTABELLENWERT (2.16.840.1.113883.5.1)** | | |
 |---|---|---|
-| Geschlechtsausprägung | Schlüsseltabellenwert (2.16.840.1.113883.5.1) | |
+| **Geschlechtsausprägung** | Schlüsseltabellenwert (2.16.840.1.113883.5.1) | |
 | männlich | M | |
 | weiblich | F | |
 |  | SoftwareVersion < 2.33 | SoftwareVersion > 2.33 |
@@ -285,17 +285,17 @@ Kapitel 6.10.6.2 [KBV_ITA_VGEX_Schnittstelle_eHeader]) abhängig.
 
 **2.3.1** **Anwendung Prüfmodul (XPM)**
 
-| PFLICHTFUNKTION EHKS |  |
+| **PFLICHTFUNKTION EHKS** |  |
 |---|---|
-| P2-10 | Einsatz XPM |
+| **P2-10** | Einsatz XPM |
 
 Das System muss das jeweils gültige XPM einsetzen. Für nähere Erläuterungen bezüglich Funktion und  Anwendung des XPM ist in [KBV_ITA_AHEX_Handbuch_Pruefmodul] nachzulesen.
 
 **2.3.2** **Export der Daten**
 
-| PFLICHTFUNKTION EHKS |  |
+| **PFLICHTFUNKTION EHKS** |  |
 |---|---|
-| P2-20 | Korrekter Datenexport |
+| **P2-20** | Korrekter Datenexport |
 
 Das System muss,
 
@@ -310,9 +310,9 @@ Das System muss,
 
 **2.3.3** **Verschlüsseln der Daten**
 
-| PFLICHTFUNKTION EHKS |  |
+| **PFLICHTFUNKTION EHKS** |  |
 |---|---|
-| P2-30 | Einsatz XKM |
+| **P2-30** | Einsatz XKM |
 
 Vor Fertigstellung des vom Anwender einzureichenden Datenträgers sind die Dokumentationsarchive in
 
@@ -346,17 +346,17 @@ Bis zur Anpassung des Schemas der Begleitdatei sind im Rahmen der Übermittlung 
 
 **2.3.4** **Datenträgerbeschriftung und Transportbegleitzettel**
 
-| PFLICHTFUNKTION EHKS |  |
+| **PFLICHTFUNKTION EHKS** |  |
 |---|---|
-| P2-40 | Beschriftung der eingesetzten Datenträger |
+| **P2-40** | Beschriftung der eingesetzten Datenträger |
 
 Das System muss den Anwender darauf hinweisen, dass die eingesetzten Datenträger gemäß den  Beschreibungen im Kapitel „Beschriftung der Datenträger“ in [KBV_ITA_VGEX_XML-Schnittstellen]
 
 beschriftet werden müssen. Eine Funktion zur Bedruckung entsprechender Aufkleber (oder der direkten  Labelbeschriftung) kann angeboten werden.
 
-| PFLICHTFUNKTION EHKS |  |
+| **PFLICHTFUNKTION EHKS** |  |
 |---|---|
-| P2-60 | Erstellung Transportbegleitzettel |
+| **P2-60** | Erstellung Transportbegleitzettel |
 
 
 ---
@@ -365,7 +365,7 @@ beschriftet werden müssen. Eine Funktion zur Bedruckung entsprechender Aufklebe
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | Dokument |
 | [KBV_ITA_VGEX_XML-Schnittstellen] | Austausch von XML Daten in der |
 | [KBV_ITA_VGEX_Schnittstelle_eHeader | Schnittstellenbeschreibung Header für |
 | [KBV_ITA_VGEX_Schnittstelle_eHKS] | Krebsfrüherkennungsrichtlinie |

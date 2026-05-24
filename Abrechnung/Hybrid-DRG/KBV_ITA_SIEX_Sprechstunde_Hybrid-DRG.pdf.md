@@ -1,15 +1,15 @@
-|  |
-|---|
+\|  |
+\|---|
 
 # SPRECHSTUNDE HYBRID-DRG
 
 ## [KBV_ITA_SIEX_SPRECHSTUNDE
 
-|  | KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT  18. AUGUST 2025  VERSION 1.08  DOKUMENTENSTATUS: IN |
+|  | **KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT  18. AUGUST 2025  VERSION 1.08  DOKUMENTENSTATUS: IN** |
 |---|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
 BUNDESVEREINIGUNG  IT IN DER ARZTPRAXIS  KRAFT
 
@@ -17,7 +17,7 @@ BUNDESVEREINIGUNG  IT IN DER ARZTPRAXIS  KRAFT
 
 **AUFFÜHRUNG DOKUMENTENSTATUS**
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.08 | 18.08.2025 | KBV | Erfassung der Fragen aus der |  | 21 |
 | 1.07 | 01.07.2025 | KBV | Erfassung der Fragen aus der |  | 16 |
@@ -29,7 +29,7 @@ BUNDESVEREINIGUNG  IT IN DER ARZTPRAXIS  KRAFT
 | 1.01 | 25.10.2024 | KBV | Erfassung der Fragen aus der |  | 7 |
 | 1.00 | 22.10.2024 | KBV | Erstellung des Dokuments |  | alle |
 
-Sprechstunde am 1.07.2025 Sprechstunde am 27.05.2025 Sprechstunde vom 01.04.2025 und 06.05.2025 Sprechstunde vom 25.02.2025 Sprechstunde vom 14.01.2025 erweitert Sprechstunde am 12.11.2024 Sprechstunde am 22.10.2024  und Aufnahme der Fragen vom 02.10.2024 Information zur KV Sachsen-Anhalt
+Sprechstunde am 1.07.2025 Sprechstunde am 27.05.2025 Sprechstunde vom 01.04.2025 und 06.05.2025 Sprechstunde vom 25.02.2025 Sprechstunde vom 14.01.2025 erweitert Sprechstunde am 12.11.2024 Sprechstunde am 22.10.2024 Aufnahme der Fragen vom 02.10.2024 Information zur KV Sachsen-Anhalt  und
 
 ---
 
@@ -1038,66 +1038,62 @@ Temporäre Datensätze sollten möglichst schlank gehalten werden. Eine Prüfung
 
 # 10 ÜBERSICHT DER DATENANNAHME DURCH KVEN
 
-| KV | FORM DER DATENANNAHME |
+| **KV** | **FORM DER DATENANNAHME** |
 |---|---|
-| Schleswig-Holstein | › › · · |
+| Schleswig-Holstein | › ›**· ·** |
 | Hamburg | Noch in Klärung |
-| Bremen | › · · |
-| Niedersachsen | › › · |
-| Westfalen-Lippe | › › · |
-| Nordrhein | › · · |
-| Hessen | › › · · |
+| Bremen | ›**· ·** |
+| Niedersachsen | › ›**·** |
+| Westfalen-Lippe | › ›**·** |
+| Nordrhein | ›**· ·** |
+| Hessen | › ›**· ·** |
 | Rheinland-Pfalz | › |
-| Bayerns | › › · |
+| Bayerns | › ›**·** |
 |  |  |
 |  | |
 |  | Noch in Klärung |
-|  | · · |
+|  | **· ·** |
 |  |  |
 |  |  |
 |  | › |
 |  |  |
 |  |  |
-|  | · KV |
+|  | **· KV** |
 
 Bereitstellung einer Webanwendung zur Abrechnung von Hybrid-DRG Abrechnungen Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal 1Click-Hybrid-DRG (Starttermin wird über SDKVCA bekanntgegeben) Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal 1Click-Hybrid-DRG (Starttermin wird über SDKVCA bekanntgegeben) Bereitstellung einer Webanwendung zur Abrechnung von Hybrid-DRG Abrechnungen Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal Bereitstellung einer Webanwendung zur Abrechnung von Hybrid-DRG Abrechnungen Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal (spätestens zum 01.07.2025 möglich) Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal 1Click-Hybrid-DRG (Starttermin wird über SDKVCA bekanntgegeben) Bereitstellung einer Webanwendung zur Abrechnung von Hybrid-DRG Abrechnungen Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal 1Click-Hybrid-DRG (Starttermin wird über SDKVCA bekanntgegeben) Bereitstellung einer Webanwendung zur Abrechnung von Hybrid-DRG Abrechnungen Bereitstellung einer Webanwendung zur Abrechnung von Hybrid-DRG Abrechnungen Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal
 
 ---
 
-| · |  |
+| **·** |  |
 |---|---|
 |  |  |
-|  | · |
+|  | **·** |
 |  | › › |
 |  |  |
 |  |  |
-|  | · |
+|  | **·** |
 |  |  |
 |  |  |
 |  | › |
-| KV | FORM DER DATENANNAHME |
-| · | |
-| Baden-Württemberg | › › · · |
-| Berlin | › › · · |
-| Saarland | › · · |
+| **KV** | **FORM DER DATENANNAHME** |
+| **·** | |
+| Baden-Württemberg | › ›**· ·** |
+| Berlin | › ›**· ·** |
+| Saarland | ›**· ·** |
 | Mecklenburg-Vorpommern | Noch in Klärung |
-| Brandenburg | › › · · |
-| Sachsen | › › · |
-| Sachsen-Anhalt | › › · · |
-| Thüringen | › · · |
+| Brandenburg | › ›**· ·** |
+| Sachsen | › ›**·** |
+| Sachsen-Anhalt | › ›**· ·** |
+| Thüringen | ›**· ·** |
 
 1Click-Hybrid-DRG (Starttermin wird über SDKVCA bekanntgegeben) Bereitstellung einer Webanwendung zur Abrechnung von Hybrid-DRG Abrechnungen Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal 1Click-Hybrid-DRG (Starttermin wird über SDKVCA bekanntgegeben) Bereitstellung einer Webanwendung zur Abrechnung von Hybrid-DRG Abrechnungen Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal 1Click-Hybrid-DRG (Starttermin wird über SDKVCA bekanntgegeben) Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal 1Click-Hybrid-DRG (Starttermin wird über SDKVCA bekanntgegeben) Bereitstellung einer Webanwendung zur Abrechnung von Hybrid-DRG Abrechnungen Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal 1Click-Hybrid-DRG (Starttermin wird über SDKVCA bekanntgegeben) Bereitstellung einer Webanwendung zur Abrechnung von Hybrid-DRG Abrechnungen Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal Bereitstellung einer Webanwendung zur Abrechnung von Hybrid-DRG Abrechnungen Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal  1Click-Hybrid-DRG (Starttermin wird über SDKVCA bekanntgegeben) Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal 1Click-Hybrid-DRG (Starttermin wird über SDKVCA bekanntgegeben)
 
 ---
 
-| Kontakt: | |  |  |  |  |  |
-|---|---|---|---|---|---|---|
-| Dezernat |  | Digitalisierung | | und IT |  |  |
-| IT in | der | Arztpraxis |  |  |  |  |
-| Tel.: | 030 | 4005-2077, |  | ita@kbv.de |  |  |
-|  | Kassenärztliche |  | Bundesvereinigung | |  |  |
-|  | Herbert-Lewin-Platz | | 2, | 10623 Berlin |  |  |
-|  | ita@kbv.de, |  | www.kbv.de |  |  |  |
-| Seite | 26 von | 26 / KBV | / | Sprechstunde Hybrid-DRG | / 18. | August 2025 |
+Kontakt:
 
-Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, ita@kbv.de  Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin ita@kbv.de, www.kbv.de
+Dezernat Digitalisierung und IT  IT in der Arztpraxis
+
+Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
+
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de

@@ -56,13 +56,13 @@
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.43 | 17.04.2026 | KBV | Fragen und Antworten zum |  | 14 |
 | 1.42 | 26.03.2025 | KBV | Aufnahme der Frage „17. |  | 13 |
 | 1.41 | 05.03.2025 | KBV | Streichung der Frage „   Aufnahme der Frage „ |  | 13 |
 
-Thema „ wöchentliche Dosierung “ ergänzt Angabe der Darreichungsform im Barcode“ 16. Aktualisierung der BMP- Spezifikation in der Version 2.7 16. Verwendung der Daten aus der Referenzdatenbank des BfArM
+Thema „ wöchentliche Dosierung “ ergänzt Angabe der Darreichungsform im Barcode“ Aktualisierung der BMP- Spezifikation in der Version 2.7 Verwendung der Daten aus der Referenzdatenbank des BfArM 16. 16.
 
 
 ---
@@ -610,7 +610,7 @@ Es gilt zu beachten, dass unter einer freitextlichen Zwischenüberschrift keine 
 
 |  |  |
 |---|---|
-| Begriff | Bedeutung |
+| **Begriff** | **Bedeutung** |
 | AMTS | Arzneimitteltherapiesicherheit |
 | BMP | bundeseinheitlicher Medikationsplan |
 | eGK | Elektronische Gesundheitskarte |
@@ -623,7 +623,7 @@ Es gilt zu beachten, dass unter einer freitextlichen Zwischenüberschrift keine 
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 | EXT_ITA_VGEX_BMP_Anlage3 | Medikationsplans Anlage 3 inkl. Schema |
 | KBV_ITA_RLEX_Zert | Zertifizierungsrichtlinie der KBV |
 | EXT_ITA_VGEX_Anforderungskatalog_AVWG | Anforderungskatalog nach § 73 SGB V für |

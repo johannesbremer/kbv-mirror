@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | DEZERNAT    1. DEZEMBER 2020 |
+|  | **DEZERNAT **  **1. DEZEMBER 2020 ** |
 |---|---|
 
 # PT-BERATER – DOSIERUNGSANGABE  AUF REZEPT – FAQS

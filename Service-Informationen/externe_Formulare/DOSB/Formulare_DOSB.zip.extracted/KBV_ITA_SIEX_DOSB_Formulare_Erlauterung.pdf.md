@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT 13. FEBRUAR 2026  VERSION 1.00  DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT 13. FEBRUAR 2026  VERSION 1.00  DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # ERLÄUTERUNG DER DOSB -FORMULARE
@@ -18,17 +18,18 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **AUFFÜHRUNG DOKUMENTENSTATUS**
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.00 | 13.02.2026 | KBV | Bereitstellung |  |  |
 
 
 ---
 
-|  | INHALT |  |  |  |  |  |
-|---|---|---|---|---|---|---|
-| **1** |  | **ALLGEMEIN** |  |  |  | **4** |
-| Seite | 3 von 5 / | KBV / Erläuterung | der DOSB-Formulare | / 13. | Februar 2026 |  |
+## INHALT
+
+**1** **ALLGEMEIN**
+
+**4**
 
 
 ---

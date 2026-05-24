@@ -27,10 +27,10 @@ gültig ab 01.10.2023 19.04.2024
 
 ---
 
-| Brustkrebs | | | |
+| **Brustkrebs** | | | |
 |---|---|---|---|
 | Feld- | Dokumentations- | Ausprägung | Plausibilitätsregeln |
-| Administrative Daten | | | |
+| **Administrative Daten** | | | |
 | 1 | DMP-Fallnummer | Nummer | Pflichtfeld;  bis zu 7 Stellen; alphanumerische Angabe |
 | 2 | Name der/des | Nachname, Vorname | Pflichtfeld |
 | 3 | Geburtsdatum der/des | TT.MM.JJJJ | Pflichtfeld; Das Datum muss kleiner dem Erstelldatum in Feld 26 sein. |
@@ -46,7 +46,7 @@ Folgedokumentation Nr. parameter Krankenkasse  alphanumerisch)   Gemeint ist die
 
 | 9 | 2 | TT.MM.JJJJ | Pflichtfeld;  Das Datum muss gleich oder kleiner zum Erfassungsdatum bei der entgegennehmenden Stelle (z.B. |
 |---|---|---|---|
-| 10 | Einschreibung erfolgte | Primärtumors / | Pflichtfeld  Es ist nur eine Angabe zulässig |
+| 10 | Einschreibung erfolgte ** | Primärtumors / | Pflichtfeld  Es ist nur eine Angabe zulässig |
 
 
 ---
@@ -57,8 +57,8 @@ Folgedokumentation Nr. parameter Krankenkasse  alphanumerisch)   Gemeint ist die
 | 12 | Nebenwirkungen der | Nein / nicht belastend / | Bedingtes Pflichtfeld;   Nur eine Antwort ist zulässig  -  Eine Angabe ist erforderlich, wenn in Feld 11  -  Eine Angabe ist nicht zulässig, wenn in Feld 11 |
 |---|---|---|---|
 
-| Behandlungsstatus nach operativer Therapie des Primärtumors / kontralateralen Brustkrebses (adjuvante Therapie) |
-|---|
+\| **Behandlungsstatus nach operativer Therapie des Primärtumors / kontralateralen Brustkrebses (adjuvante Therapie)** |
+\|---|
 
 endokrine Therapie  Tamoxifen / Andere / Keine / Endokrine Therapie geplant Brustkrebses“ erfolgt ist , wenn in Feld 10 die Angabe „Lokoregionären Rezidivs“ oder „Fernmetastase“ erfolgt ist. “ angegeben ist, ist genau eine Angabe in Feld 14 erforderlich „Tamoxifen“ und/oder „Keine“ und/oder „Endokrine Therapie geplant“ nicht zulässig. „Aromataseinhibitoren“ und/oder „Keine“ und/oder „Endokrine Therapie geplant“ nicht zulässig. „Endokrine Therapie geplant“ nicht zulässig. die Angabe „Primärtumor“ oder „ zusätzlich ausschließlich Kontralateralen Angabe von „Keine“ und/oder „Endokrine Therapie geplant“ aktuellen adjuvanten endokrinen Therapie  mäßig belastend / stark belastend / nicht erfragt und/oder „Andere“ angegeben ist. geplant“ angegeben ist  oder zu Feld 11 keine Angabe erfolgt ist. „Aromataseinhibitoren“ oder „Tamoxifen“ „Keine“ und/oder „Endokrine Therapie
 
@@ -67,7 +67,7 @@ endokrine Therapie  Tamoxifen / Andere / Keine / Endokrine Therapie geplant Brus
 | 13 | Fortführung der | Vor dem abgeschlossenen | Bedingtes Pflichtfeld;   Nur eine Antwort ist zulässig    Eine Angabe ist erforderlich, wenn in Feld 10 die Angabe „Primärtumor“ oder „   Eine Angabe ist nicht zulässig |
 |---|---|---|---|
 | 14 | Bei Patientinnen unter Auffällig / Unauffällig / | Unbekannt | Bedingtes Pflichtfeld;   Nur eine Antwort ist zulässig    - |
-| Seit der letzten Dokumentation neu aufgetretene Ereignisse | | | |
+| **Seit der letzten Dokumentation neu aufgetretene Ereignisse** | | | |
 | 15 | Lokoregionäres  (Datum der | TT.MM.JJJJ / Nein | Pflichtfeld;   Nur eine Angabe ist zulässig  - |
 | 16 | Kontralateraler  (Datum der | TT.MM.JJJJ / Nein | Pflichtfeld;   Nur eine Angabe ist zulässig  - |
 | 17 | Lokalisation von  (Datum der | TT.MM.JJJJ / Knochen / | Pflichtfeld   Mehrfachnennungen sind möglich  -      - |
@@ -80,12 +80,12 @@ adjuvanten endokrinen Therapie seit der letzten 5. Jahr abgebrochen / Regulär n
 |---|---|---|---|
 | 18 | Bioptische Sicherung | Ja / Nein / geplant | Bedingtes Pflichtfeld  Es ist nur eine Angabe zulässig  -  -  - |
 | 19 | Symptomatisches | keine | Pflichtfeld;   Nur eine Antwort ist zulässig |
-| Sonstige Befunde | | | |
+| **Sonstige Befunde** | | | |
 | 20 | Empfehlung zu | Ja/ Nein | Pflichtfeld;   Nur eine Antwort ist zulässig |
 | 21 | Z. n. besonders | Anthrazykline | Pflichtfeld  Mehrfachnennungen sind möglich    -  -  - |
 | 22 | Körpergröße | m | Pflichtfeld  Numerische Angabe mit zwei Stellen hinter dem |
 | 23 | Köpergewicht | kg | Pflichtfeld  Numerische Angabe ohne Komma; Wertebereich 000 - 300 |
-| Behandlung bei fortgeschrittener Erkrankung (lokoregionäres Rezidiv / Fernmetastasen) | | | |
+| **Behandlung bei fortgeschrittener Erkrankung (lokoregionäres Rezidiv / Fernmetastasen)** | | | |
 | 24 | Therapie bei | a)    b) | Bedingtes Pflichtfeld;   Mehrfachnennungen sind möglich   - |
 
 Die Angaben zu „TT.MM.JJJJ“ und „Knochen“ und/oder „ viszeral “ und/oder „ZNS“ und/oder „A ndere  können gleichzeitig angegeben werden Wenn „Nein“ ange geben wird, darf keine weitere Ausprägung angegeben werden der viszeralen Metastasen Eine Angabe ist nur dann erforderlich und zulässig, wenn in Feld17 mindestens die Angabe „viszeral“ erfolgt ist Eine Angabe ist nicht zulässig, wenn in Feld 17 nicht mindestens die Angabe „viszeral“ erfolgt ist Wenn in Feld 17 „Nein“ angegeben ist, ist keine Angabe zulässig Lymphödem Ja, Kompressionsarmstrumpft herapie erforderlich / Ja, Kompressionsarmstrumpft herapie erforderlich / Nein regelmäßigem körperlichen Training abgegeben kardiotoxischer Tumortherapie  (Doxorubicin, Epirubicin) / Anti-HER2-Substanzen linksthorakale Bestrahlung / Unbekannt / Nein „Anthrazykline  (Doxorubicin, Epirubicin) und/oder Anti-HER2-Substanzen “ und/oder „linksthorakale Bestrahlung“ können jeweils auch gemeinsam oder alleine angegeben werden Wenn „ Unbekannt“ ange geben wird, darf keine weitere Ausprägung angegeben werden wenn „Nein“ ange geben wird, darf keine weitere Ausprägung angegeben werden Komma; Wertebereich 0,00  2,50 Knochenmetastasen Bisphosphonate: Ja / Nein / Kontraindikation Denosumab:     Ja / Nein / Kontraindikation Mindestens jeweils eine Angabe zu a) UND b) ist erforderlich, wenn in Feld 17 mindestens die Angabe „Knochen“ ange geben ist
@@ -94,7 +94,7 @@ Die Angaben zu „TT.MM.JJJJ“ und „Knochen“ und/oder „ viszeral “ und/
 
 |  |  |  | -  -  -      Zu a) und b) gilt jeweils  -  -  -  -  -  -  - |
 |---|---|---|---|
-| Behandlungsplanung | | | |
+| **Behandlungsplanung** | | | |
 | 25 | Dokumentationsinterv | Halbjährlich oder häufiger / | Pflichtfeld;   Nur eine Antwort ist zulässig |
 | 26 | Datum der Erstellung | TT.MM.JJJJ | Pflichtfeld  Das Datum muss gleich oder kleiner dem Erfassungsdatum in der entgegennehmenden Stelle (z.B. |
 

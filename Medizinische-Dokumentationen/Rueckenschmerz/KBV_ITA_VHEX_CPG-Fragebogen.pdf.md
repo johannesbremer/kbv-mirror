@@ -1,16 +1,10 @@
 ### CPG-Fragebogen
 
-1 Wie würden Sie Ihre **momentanen**
+1 Wie würden Sie Ihre **momentanen** Rückenschmerzen, d.h.
 
-Skala einschätzen, wenn
+Skala einschätzen, wenn *0 = kein Schmerz* und *10 = stärkster vorstellbarer Schmerz*
 
-[0] [1] [2]
-
-Rückenschmerzen, d.h.
-
-*0 = kein Schmerz* und *10 = stärkster vorstellbarer Schmerz*
-
-[3] [4] [5]
+[0] [1] [2] [3] [4] [5]
 
 Kein
 

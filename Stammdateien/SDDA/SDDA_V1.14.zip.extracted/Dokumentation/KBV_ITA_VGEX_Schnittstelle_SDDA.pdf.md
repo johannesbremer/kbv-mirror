@@ -1,8 +1,8 @@
-|  | IT in der Arztpraxis |
+|  | ***IT in der Arztpraxis***** |
 |---|---|
 |  | Schnittstelle Datenannahme- |
 |  | [KBV_ITA_VGEX_Schnittstelle_SDDA] |
-|  |  |
+|  | ** |
 |  | Dezernat Digitalisierung und IT |
 |  |  |
 |  | 10623 Berlin, Herbert-Lewin-Platz 2 |
@@ -17,12 +17,12 @@ stellen-Stammdatei (SDDA) 1.14 Datum: 22.11.2024 Kennzeichnung: Öffentlich Stat
 
 **D** **O**
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 1.14 | 22.11.2024 | KBV | Element  Streichung des Elemen- Anpassung der Version  Redaktionelle Anpassung | Datenannahmestellen      Verbesserung der Zuord- | 29, 31    29, 30    23 |
+| 1.14 | 22.11.2024 | KBV | Element  Streichung des Elemen- Anpassung der Version  Redaktionelle Anpassung | Datenannahmestellen      Verbesserung der Zuord- | **29, 31 **  **29, 30 **  **23** |
 | 1.13 | 11.12.2017 | KBV | Dokumentenversion und |  |  |
-| 1.10 | 04.11.2015 | KBV | Korrektur des Beispiels | Attribut | 19 |
-| 1.09 | 24.04.2015 | KBV | Element  Entfernung der Diagram- Entfernung des Ab- Anpassung der Version | können auch über KV- Das Element  Verbesserung der Konsis- | 31    32    23 |
+| 1.10 | 04.11.2015 | KBV | Korrektur des Beispiels | Attribut | **19** |
+| 1.09 | 24.04.2015 | KBV | Element  Entfernung der Diagram- Entfernung des Ab- Anpassung der Version | können auch über KV- Das Element  Verbesserung der Konsis- | **31 **  **32 **  **23** |
 | 1.08 | 09.08.2012 | KBV | Red. Änderungen |  |  |
 
 **K** **U** **M** **E** **N** **T** **E** **N**
@@ -168,12 +168,15 @@ Abbildung 7 <interface> ........................................................
 
 ---
 
-Tabelle 1  Erläuterungen PFX ................................................................................................ 17
+| **IT in** | **der Arztpraxis** |  |
+|---|---|---|
+|  | Schnittstelle | Datenannahmestellen-Stammdatei (SDDA) |
+| **T A** | **B E L L** | **E N V E R Z E I C H N I S** |
+| Tabelle | 1 – | Erläuterungen PFX ................................................................................................17 |
+| Tabelle | 2 – Erläuterung | zu Kommunikationsmöglichkeiten ......................................................19 |
+|  | KBV_ITA_VGEX_Schnittstelle_SDDA | * Version 1.14 Seite 6 von 33 |
 
-Tabelle 2  Erläuterung zu Kommunikationsmöglichkeiten ...................................................... 19
-
-**T** **A** **B** **E** **L** **L** **E** **N** **V** **E** **R** **Z** **E** **I** **C** **H**  **N** **I** **S**
-
+Tabelle 1 Tabelle 2  Erläuterung zu Kommunikationsmöglichkeiten
 
 ---
 
@@ -291,7 +294,7 @@ Das Element hat folgenden Aufbau:
 
 | diagram |  |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  EX    xs:string  optional               RT    xs:string  required               RTV    xs:string  optional |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  EX   **xs:string ** optional               RT   **xs:string ** required               RTV   **xs:string ** optional |
 | example | <ehd:id EX="1100" RT="1.2.276.0.76.3.1.1"/> |
 
 EX: („extension“=“Erweiterung“ zu dem RT EX-Attribut einen Identifikator, der die betreffende XML -Datei eindeutig identifiziert. Je-
@@ -337,7 +340,7 @@ Das Element <document_type_cd> hat folgenden Aufbau:
 
 | diagram |  |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  DN    xs:string  optional               SN    xs:string  optional               SV    xs:string  optional               S    xs:string  optional        1.2.276.0.76.5.100       V      required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  DN   **xs:string ** optional               SN   **xs:string ** optional               SV   **xs:string ** optional               S   **xs:string ** optional        1.2.276.0.76.5.100       V      required |
 | example <ehd:document_type_cd V="SDDA" S="1.2.276.0.76.5.100" DN="Stammdatei-Datenannahmestellen"/> |  |
 
 dieses Attribut enthält eine OID/Nummer der Organisation oder der
@@ -383,7 +386,7 @@ Das Element hat folgenden Aufbau:
 
 | diagram |  |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  V    zeitraum_typ  required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V   **zeitraum_typ ** required |
 | example | <ehd:service_tmr V="2005-04-21.."/> |
 
 V: hier wird der Gültigkeitszeitraum z.B. im Format „ geben. Das erste Datum steht dabei für den Anfang, das zweite Datum für das Ende  des Gültigkeitszeitraums. Die beiden Angaben werden durch zwei Punkte voneinander
@@ -408,7 +411,7 @@ Das Element hat folgenden Aufbau:
 
 | diagram |  |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:date  required |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V   **xs:date ** required |
 | example | <ehd:origination_dttm V="2005-04-21"/> |
 
 ***<origination_dttm>*** beschreibt das Erstellungsdatum der Stammdatei.
@@ -674,7 +677,7 @@ ben. So zum Element ***<PFX>*** kann es zusätzliche Werte „AC“ und „NB“
 
 QUAL: Ein kodierter Wert kann angegeben werden, um die Daten näher zu beschrei-
 
-| Code | Definition | Ausprägung |
+| **Code** | **Definition** | **Ausprägung** |
 |---|---|---|
 | AC | academic | sind durch Leerzeichen getrennt) |
 | NB | nobility | Adelszusatz zum Element PFX, z.B. „Gräfin“ und „von“ (mehrere |
@@ -805,7 +808,7 @@ Die Erläuterung für die verschiedenen Werte sind in Tabelle 2  Erläuterung zu
 
 onsmöglichkeiten aufgeführt.
 
-| Code | Definition | Beispiel |
+| **Code** | **Definition** | **Beispiel** |
 |---|---|---|
 | tel | Telefon/Mobiltelefon | <telecom V="tel:(0221)4449-0" USE="WP"/> |
 | fax | Faxnummer | <telecom V="fax:(0221)4449-400" USE="WP"/> |
@@ -1010,13 +1013,13 @@ Wenn als Identifikation ein Kodewert aus einer Schlüsseltabelle verwendet werde
 
 Das Element hat folgende Attribute:
 
-| attributes | Name    Type    Use    Default    Fixed    Annotation  EX    xs:string  required               RTV    xs:string  optional |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  EX   **xs:string ** required               RTV   **xs:string ** optional |
 |---|---|
 
 
 ---
 
-|  | RT    xs:string  required        1.2.276.0.76.5.109 |
+|  | RT   **xs:string ** required        1.2.276.0.76.5.109 |
 |---|---|
 
 ***<id EX="19441" RT="1.2.276.0.76.5.109"/>***
@@ -1068,10 +1071,7 @@ V: hier wird der Wert eingetragen
 
 ---
 
-| **IT in** | **der Arztpraxis** |  |  |  |
-|---|---|---|---|---|
-|  | Schnittstelle | Datenannahmestellen-Stammdatei | | (SDDA) |
-|  | KBV_ITA_VGEX_Schnittstelle_SDDA | * Version | 1.14 |  |
+
 
 
 ---
@@ -1114,7 +1114,7 @@ Das Element <intended_recipient> enthält jeweils einen Datenannahmestellen -Sta
 
 | diagram |  |
 |---|---|
-| XML- | <intended_recipient>      <person>               </person>      <organization>               </organization>      <local_header>               </local_header>  </intended_recipient> |
+| XML- | <intended_recipient>      <person>               </person>      <organization>               </organization>      <local_header>               </local_header> ***</intended_recipient>*** |
 
 <person>  Ansprechpartner der Datenannahmestelle
 
@@ -1200,7 +1200,7 @@ verwendet.
 
 | diagram |  |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  EX    xs:string  optional               RT    xs:string  required               RTV    xs:string  optional |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  EX   **xs:string ** optional               RT   **xs:string ** required               RTV   **xs:string ** optional |
 | example | <id RT="109989162"/> |
 
 #### 6.1.2.2 organization.nm
@@ -1214,7 +1214,7 @@ Rahmen **element** datenannahmestellen_liste/intended_recipient/organization/org
 
 | diagram |  |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  optional |
+| attributes | Name    Type    Use    Default    Fixed    Annotation  V   **xs:string ** optional |
 | example <organization.nm V="T-Systems International GmbH"/> |  |
 
 #### 6.1.2.3 addr
@@ -1370,7 +1370,7 @@ Sofern eine Datenstelle die Annahme über KIM anbietet, wird erwartet, dass die 
 
 | diagram |  |
 |---|---|
-| example | <kim_email V="daten@annahmestelle.de">          ...  </kim_email> |
+| example | <kim_email V="daten@annahmestelle.de">          ...  </kim_email>** |
 
 Das Element <kim_email> hat als optionales Kindelement <service_tmr> (gemäß Kapitel 5.3).
 
@@ -1394,7 +1394,7 @@ die Verwendung dieses Ele-
 
 # 7 Referenzierte Dokumente
 
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 |---|---|
 | [KBV_ITA_VGEX_Schnittstelle_eHeader] | Header für elektronische Dokumentation Volldatensatz / a |
 | [eDMP 1.0] | Spezifikation eDMP über KIM der kv.digital    https://partnerportal.kv- |

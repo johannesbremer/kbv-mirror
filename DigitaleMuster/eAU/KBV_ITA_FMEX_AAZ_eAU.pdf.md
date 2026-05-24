@@ -59,11 +59,11 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 **Telefonnummer**
 
+Arzt/Ärztin [ ]
+
 **E-Mail-Adresse**
 
 Seite 2 von 8 / KBV / Antrag auf Zertifizierung eAU / Version: 1.2 / 15. Mai 2024
-
-Arzt/Ärztin [ ]
 
 Softwarehaus [ ]
 

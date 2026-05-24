@@ -1,8 +1,8 @@
-|  | IT in der Arztpraxis |
+|  | ***IT in der Arztpraxis***** |
 |---|---|
-|  | Schnittstellenbeschreibung |
+|  | *Schnittstellenbeschreibung* |
 |  | [KBV_ITA_VGEX_Schnittstelle_ARV |
-|  |  |
+|  | ** |
 |  | Dezernat |
 |  |  |
 |  | 10623 Berlin, Herbert |
@@ -16,13 +16,13 @@ Arzneimittelvereinbarungen (ARV) Digitalisierung und IT -Lewin-Platz 2 4.02 Datu
 
 ---
 
-| Version Datum |  | Autor Änderung |  | Begründung | Seite |
+| **Version Datum** |  | **Autor Änderung** |  | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 4.02 | 12.08.2019 KBV |  | • | Anpassung an das Pers | 103 |
-| 4.02 | 12.12.2018 KBV |  | • weis_dokument> wird aus dem | Das <verweis_dokument> | 128,  129,  130 |
-| 4.02 | 13.11.2018 KBV |  | •   • -  -  -  entfallen    • -    • -    •   • -  -  -    • |  | -    36ff            96ff          108ff    112    119            36,  128 |
-| Diese Schnittstellenbeschreibung 4.02 (Stand 12.08.2019) bezieht sich auf die Schemaversi- | Version Datum |  | Autor Änderung |  | Begründung |
-|  | Seite |  | 4.02  12.08.2019 KBV  • | Anpassung an das Pers 103  4.02  12.12.2018 KBV | • Das <verweis_dokument> 128,  129,  130 |
+| 4.02 | 12.08.2019 KBV |  | • | Anpassung an das Pers | **103** |
+| 4.02 | 12.12.2018 KBV |  | • weis_dokument> wird aus dem | Das <verweis_dokument> | **128,  129,  130** |
+| 4.02 | 13.11.2018 KBV |  | •   • -  -  -  entfallen    • -    • -    •   • -  -  -    • |  | **- **  **36ff **          **96ff **        **108ff **  **112 **  **119 **          **36,  128** |
+| Diese Schnittstellenbeschreibung 4.02 (Stand 12.08.2019) bezieht sich auf die Schemaversi- | **Version Datum** |  | **Autor Änderung** |  | **Begründung** |
+|  | **Seite** |  | 4.02  12.08.2019 KBV  • | Anpassung an das Pers**103 ** 4.02  12.12.2018 KBV | • Das <verweis_dokument>**128,  129,  130** |
 |  | 4.02 | 13.11.2018 KBV |  |  | • |
 |  |  | • |  |  | - |
 |  |  | - |  |  | - |
@@ -36,19 +36,19 @@ DOKUMENTENHISTORIE on 4.02. Die Versionierung der Schnittstellenbeschreibung ist
 
 ---
 
-|  | Autor Änderung |  | Begründung | Seite | 4.01  08.11.2016 KBV |
+|  | **Autor Änderung** |  | **Begründung** | **Seite** | 4.01  08.11.2016 KBV |
 |---|---|---|---|---|---|
 | Aktualisierung der Version der referenzie |  | Fehlerkorrektur beim Beispiel des XML |  |  |  |
-|  |  |  | 133 |  | 112    4.00 |
-| 20.07.2016 KBV |  | Integration der indikationsgerechten wir | 35,   133  133  14.08.2015 KBV  18.03.2015 KBV  das Element service_tmr  24.06.2013 KBV  Abschnitt 8.4 mit Verweis auf die Schlü belle für Darreichungsfo 55 |  |  |
-| Version Datum |  | Autor Änderung |  | Begründung | Seite |
-| 4.01 | 08.11.2016 KBV |  | Aktualisierung der Version der referenzie   Fehlerkorrektur beim Beispiel des XML   Fehlerkorrektur bei der Beschreibung des | Das nicht vorhandene | 133      111    112      114 |
-| 4.00 | 20.07.2016 KBV |  | Integration der indikationsgerechten wir |  | 35,   108ff |
-| 3.16 | 25.04.2016 KBV |  | Aktualisierung der Version der referenzie |  | 133 |
-| 3.15 | 11.11.2015 KBV |  | Aktualisierung der Version der referenzie |  | 133 |
-| 3.14 | 14.08.2015 KBV |  |  |  | 133 |
-| 3.13 | 18.03.2015 KBV |  | Im Abschnitt 3 wurde der Hinweis auf die Die Gültigkeit wird über | das Element service_tmr  bestimmt, nicht über den | 15 |
-| 3.12 | 24.06.2013 KBV |  | Im Abschnitt 8.2 wurde der Verweis auf Aktualisierte Schlüsselta- die Schlüsseltabelle der Darreichungfo   Abschnitt 8.4 mit Verweis auf die Schlüs- | belle für Darreichungsfo | 133      55  133 |
+|  |  |  | **133** |  | **112 **   4.00 |
+| 20.07.2016 KBV |  | Integration der indikationsgerechten wir | **35,   133  133 ** 14.08.2015 KBV  18.03.2015 KBV  das Element service_tmr  24.06.2013 KBV  Abschnitt 8.4 mit Verweis auf die Schlü belle für Darreichungsfo**55** |  |  |
+| **Version Datum** |  | **Autor Änderung** |  | **Begründung** | **Seite** |
+| 4.01 | 08.11.2016 KBV |  | Aktualisierung der Version der referenzie   Fehlerkorrektur beim Beispiel des XML   Fehlerkorrektur bei der Beschreibung des | Das nicht vorhandene | **133 **    **111 **  **112 **    **114** |
+| 4.00 | 20.07.2016 KBV |  | Integration der indikationsgerechten wir |  | **35,   108ff** |
+| 3.16 | 25.04.2016 KBV |  | Aktualisierung der Version der referenzie |  | **133** |
+| 3.15 | 11.11.2015 KBV |  | Aktualisierung der Version der referenzie |  | **133** |
+| 3.14 | 14.08.2015 KBV |  |  |  | **133** |
+| 3.13 | 18.03.2015 KBV |  | Im Abschnitt 3 wurde der Hinweis auf die Die Gültigkeit wird über | das Element service_tmr  bestimmt, nicht über den | **15** |
+| 3.12 | 24.06.2013 KBV |  | Im Abschnitt 8.2 wurde der Verweis auf Aktualisierte Schlüsselta- die Schlüsseltabelle der Darreichungfo   Abschnitt 8.4 mit Verweis auf die Schlüs- | belle für Darreichungsfo | **133 **    **55  133** |
 
 (ARV)
 
@@ -70,11 +70,11 @@ r- ten Schlüsseltabellen Darreichungsform Elementes <fachgruppennummer_liste XM
 
 **2.1**
 
-| **Zeichensatz** | **..................................................................................................................................** | **14** |
-|---|---|---|
-|  | **Namespace...................................................................................................................................** | **14** |
-| **Root-Schema** |  | **............................................................................................................................... 14** |
-|  | **DATEINAMENSKONVENTION** | **15** |
+| **Zeichensatz** | **.................................................................................................................................. 14** |
+|---|---|
+| **Namespace...................................................................................................................................** | **14** |
+| **Root-Schema** | **............................................................................................................................... 14** |
+| **DATEINAMENSKONVENTION** | **15** |
 
 **2.2**
 
@@ -126,7 +126,7 @@ r- ten Schlüsseltabellen Darreichungsform Elementes <fachgruppennummer_liste XM
 
 **20**
 
-.................................................................................................................................. 14 Namespace................................................................................................................................... 14
+Namespace................................................................................................................................... 14
 
 ---
 
@@ -741,7 +741,7 @@ Falls eine ARV-Stammdatei vor dem Ablauf der angegebenen Gültigkeitsdauer von d
 
 Es existieren verschiedene Kardinalitäten:
 
-| Kardinalität | Symbol | Beschreibung |
+| **Kardinalität** | **Symbol** | **Beschreibung** |
 |---|---|---|
 | 0..1 |  | Optionales Element: Element wird als Rechteck mit |
 | 1 |  | Musselement:  Rechteck mit durchgezogener Linie. |
@@ -753,7 +753,7 @@ Es existieren verschiedene Kardinalitäten:
 
 Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinander lo- gisch verknüpft. In diesem Dokument werden zwei Strukturelement-Arten verwendet: Choice  und Sequence.
 
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |---|---|
 |  | Das Strukturelement Choice zeigt an, dass zwischen verschiedenen Un- |
 |  | Das Strukturelement, Sequence beschreibt, dass verschiedene Unterelemen- |
@@ -764,7 +764,7 @@ Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinand
 
 Es werden außerdem folgende Diagramm-Symbole verwendet:
 
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |---|---|
 |  | Ein Element mit mehreren Unterelementen wird durch ein |
 |  | Referenzelement: Der Pfeil links unten im Element zeigt |
@@ -789,10 +789,10 @@ Für die XML-Dateien ist der Zeichensatz ISO-8859-1 vorgeschrieben. Bei allen El
 
 Das Element hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  ehd_version    xs:string required |
-| example | <ehd:ehd xmlns:ehd=”urn:ehd/001” xmlns=”urn:ehd/arv/001”                            ehd_version=”1.40”>      <ehd:header>          …      </ehd:header>      <ehd:body>          …      </ehd:body>  </ehd:ehd> |
+| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  ehd_version    xs:string required   ***** |
+| ***example*** | ***<ehd:ehd xmlns:ehd=”urn:ehd/001” xmlns=”urn:ehd/arv/001”        ********ehd_version=”1.40”>      <ehd:header>          …      </ehd:header>      <ehd:body>          …      </ehd:body>  </ehd:ehd>*** |
 
 „header“-Element stehen die spezi-
 
@@ -812,8 +812,9 @@ Hier liegen die eigentlichen Inhalte der Datenlieferung. In diesem Bereich kann 
 
 Der Namensraum für die ehd-Schnittstelle ist zwingend vorgeschrieben:„
 
-xmlns:xsi=”http://www.w3.org/2001/XMLSchema-instance”  ***urn:ehd/001***
+***urn:ehd/001***
 
+xmlns:xsi=”http://www.w3.org/2001/XMLSchema-instance”
 
 ---
 
@@ -821,9 +822,9 @@ xmlns:xsi=”http://www.w3.org/2001/XMLSchema-instance”  ***urn:ehd/001***
 
 Der „header“ enthält die Metadaten zu den im „body“ liegenden eigentlichen Inhaltsdaten und  hat folgende Struktur:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <ehd:header>      <ehd:id EX=”ARV_0002” RT=”1.2.276.0.76.3.1.36”/>     <ehd:version_nbr V="1"/>      <ehd:document_type_cd V=”ARV” S=”1.2.276.0.76.5.100” DN=”Arzneimittelvereinbarungen der Landesebe-     <ehd:service_tmr V=” 2009-01-01..2009-12-31”/>      <ehd:origination_dttm     <ehd:provider>          ...      </ehd:provider>      <ehd:state V="TEST" S="1.2.276.0.76.5.108" DN="Testdaten nur für Testverfahren"      <ehd:interface>          …      </ehd:interface>  </ehd:header> |
+| ***example*** | ***<ehd:header>      <ehd:id EX=”ARV_0002” RT=”1.2.276.0.76.3.1.36”/>     <ehd:version_nbr V="1"/>      <ehd:document_type_cd V=”ARV” S=”1.2.276.0.76.5.100” DN=”Arzneimittelvereinbarungen der Landesebe-     <ehd:service_tmr V=” 2009-01-01..2009-12-31”/>      <ehd:origination_dttm     <ehd:provider>          ...      </ehd:provider>      <ehd:state V="TEST" S="1.2.276.0.76.5.108" DN="Testdaten nur für Testverfahren"      <ehd:interface>          …      </ehd:interface>  </ehd:header>*** |
 
 #### Tabelle 5 – Erläuterung „header“
 
@@ -843,10 +844,10 @@ ne”/>  V=” 2009-10-31”/> SN="S_KBV_BEARBEITUNGSZUSTAND"/>
 
 (ARV)
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  EX    xs:string  required               RT    xs:string  required               RTV    xs:string  optional |
-| example | <ehd:id EX=“ARV_0002“ RT=“1.2.276.0.76.3.1.36“/> |
+| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  EX    xs:string  required   ********RT    xs:string  required   ********RTV    xs:string  optional   ***** |
+| ***example*** | ***<ehd:id EX=“ARV_0002“ RT=“1.2.276.0.76.3.1.36“/>*** |
 
 **Tabelle 6 – Erläuterung „header/id“**
 
@@ -867,10 +868,10 @@ Das Element <version_nbr> enthält die Versionsnummer der Datenlieferung bezogen
 
 Das Element „version_nbr“ hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:nonNegative required |
-| example <ehd:version_nbr V=“1“/> |  |
+| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V    xs:nonNegative required   ***** |
+| ***example <ehd:version_nbr V=“1“/>*** |  |
 
 **Tabelle 7 – Erläuterung „header/version_nbr“**
 
@@ -886,10 +887,10 @@ Bei dieser Schnittstelle steht im „V“-Attribut der Wert „ARV“.
 
 Das Element „document_type_cd“ hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  DN    xs:string  optional               SN    xs:string  optional               SV    xs:string  optional               S    xs:string  optional        1.2.276.0.76.5.100       V    xs:string required |
-| example <ehd:document_type_cd V=“ARV“ S=“1.2.276.0.76.5.100“ DN=“Arzneimittelvereinbarungen der Landesebene“/> |  |
+| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  DN    xs:string  optional   ********SN    xs:string  optional   ********SV    xs:string  optional   ********S    xs:string  optional   ********1.2.276.0.76.5.100   ********V    xs:string required   ***** |
+| ***example <ehd:document_type_cd V=“ARV“ S=“1.2.276.0.76.5.100“ DN=“Arzneimittelvereinbarungen der Landesebene“/>*** |  |
 
 (ARV)
 
@@ -919,10 +920,10 @@ Das Element „service_tmr“ beschreibt den Gültigkeitszeitraum der XML-Datei.
 
 Das Element hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  V    zeitraum_typ  required |
-| example | <ehd:service_tmr V=”2009-01-01..2009-12-31”/> |
+| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****zeitraum_typ ****required   ***** |
+| ***example*** | ***<ehd:service_tmr V=”2009-01-01..2009-12-31”/>*** |
 
 **Tabelle 9 – Erläuterung „header/service_tmr“**
 
@@ -943,10 +944,7 @@ Es sind folgende Zeitraumangaben durch den „zeitraum_typ“ möglich:
 
 ---
 
-### Stammdateien vom Typ ARV sollten für ein Kalenderjahr gültig sein, also bis zum Dezember
-
-### des aktuellen Jahres.
-
+### Stammdateien vom Typ ARV sollten für ein Kalenderjahr gültig sein, also bis zum Dezember des aktuellen Jahres.
 (ARV)
 
 
@@ -960,10 +958,10 @@ Das Element „origination_dttm“ beschreibt das Erstellungsdatum der Datei.
 
 Das Element hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:date  required |
-| example | <ehd:origination_dttm |
+| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****xs:date ****required   ***** |
+| ***example*** | ***<ehd:origination_dttm*** |
 
 **Tabelle 10 – Erläuterung „header/origination_dttm“**
 
@@ -975,9 +973,9 @@ Das optionale Element <originator> enthält Informationen zum Urheber der Daten,
 
 Das Element hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| XML- | <ehd:originator>      <ehd:organization>          …      </ehd:organization>  </ehd:originator> |
+| ***XML-*** | ***<ehd:originator>      <ehd:organization>          …      </ehd:organization>  </ehd:originator>*** |
 
 **Tabelle 11 – Erläuterung „header/originator“**
 
@@ -997,9 +995,9 @@ V=”2009-10-31”/> Rahmen
 
 (ARV)
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| XML- | <ehd:provider>      <ehd:organization>          …      </ehd:organization>  </ehd:provider> |
+| ***XML-*** | ***<ehd:provider>      <ehd:organization>          …      </ehd:organization>  </ehd:provider>*** |
 
 **Tabelle 12 – Erläuterung „header/provider“**
 
@@ -1015,9 +1013,9 @@ Die Unterelemente „id“, „organization.nm“, „addr“ und „telecom“ 
 
 Das Element hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <ehd:organization>      <ehd:organization.nm V="KV Nordrhein"/>                </ehd:addr>        </ehd:organization> |
+| ***example*** | ***<ehd:organization> ********<ehd:organization.nm V="KV Nordrhein"/> ********</ehd:addr> ********</ehd:organization>*** |
 
 Rahmen <ehd:id EX="38" RT="1.2.276.0.76.5.233"/> <ehd:addr> <ehd:CNT V="Deutschland"/> <ehd:CTY V="Düsseldorf"/> <ehd:HNR V="9"/> <ehd:ZIP V="40474"/> <ehd:STR V="Tersteegenstraße"/> <ehd:telecom V="0123/456789"/> <ehd:telecom V="mailto:service@kvno.de" /> <ehd:telecom V="mailto:Helga.Stammdatei-Hacker@kvno.de" /
 
@@ -1026,17 +1024,17 @@ Rahmen <ehd:id EX="38" RT="1.2.276.0.76.5.233"/> <ehd:addr> <ehd:CNT V="Deutschl
 
 (ARV)
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required |
-| Tabelle 13 – Erläuterung „header/provider/organization“ | „id“: |
+| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required   ***** |
+| **Tabelle 13 – Erläuterung „header/provider/organization“** | „id“: |
 
 e-
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  EX  xs:string  required        RT    xs:string  required             RTV  xs:string  optional |
-| example | <ehd:id EX=”38” RT=”1.2.276.0.76.5.233“/> |
+| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  EX  xs:string  required ********RT    xs:string  required ********RTV  xs:string  optional ***** |
+| ***example*** | ***<ehd:id EX=”38” RT=”1.2.276.0.76.5.233“/>*** |
 
 Die Identifikation einer Organisation.  „organization.nm“: Organisationsnamen „addr“: Die Adresse der Organisation (s. 0). „telecom“: Die Telekommunikationskontakte (E-mail, Fax, Telefon usw.), unter d nen die Organisation erreichbar ist (s. 6.7.1.4 6.7.1.1 id (Organisationsidentifikation) Das „id“-Element bezeichnet die Organisation, welche die Datei zur Verfügung stellt. Wenn als Identifikation ein Kodewert aus einer Schlüsseltabelle verwendet werden soll, so wird im „EX“- Attribut der Kodewert und im „RT“-Attribut die OID der Schlüsseltabelle eingetragen.  Für die ARV-Schnittstelle wird der Wert des „EX“-Attributes mit dem entsprechenden Wert für die liefernde KV aus der von der KBV veröffentlichten Schlüsseltabelle S_KBV_KV belegt. Der Wert des „RT“-Attributs wird auf „1.2.276.0.76.5.233“ festgesetzt, dies ist die OID der Schlüs- seltabelle S_KBV_KV. Das Element hat folgenden Aufbau: Tabelle 14 – Erläuterung „header/provider/organization/id“ 6.7.1.2 organization.nm (Name der Organisation) Hier wird der Name der Organisation angegeben. Das Element hat folgenden Aufbau:
 
@@ -1045,7 +1043,7 @@ Die Identifikation einer Organisation.  „organization.nm“: Organisationsname
 |  |  |
 |---|---|
 |  |  |
-| example | <ehd:organization.nm V=”KV Nordrhein”/> |
+| ***example*** | ***<ehd:organization.nm V=”KV Nordrhein”/>*** |
 
 #### Tabelle 15 – Erläuterung „header/provider/organization/organization.nm (ARV)
 
@@ -1054,13 +1052,13 @@ Die Identifikation einer Organisation.  „organization.nm“: Organisationsname
 
 (ARV)
 
-| Kardinaliät | 0..n |
+| ***Kardinaliät*** | 0..n |
 |---|---|
-| 6.7.1.3 addr (Adresse) | Die Adresse der Organisation wird in diesem Element erfasst.  Das Element hat folgenden Aufbau:  diagram    example  <ehd:addr>            </ehd:addr> Tabelle 16 – Erläuterung „header/provider/organization/addr“ |
+| **6.7.1.3 addr (Adresse)** | Die Adresse der Organisation wird in diesem Element erfasst.  Das Element hat folgenden Aufbau: ***diagram ********example  <ehd:addr> ********</ehd:addr>*****Tabelle 16 – Erläuterung „header/provider/organization/addr“** |
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <ehd:addr>            </ehd:addr> |
+| ***example*** | ***<ehd:addr> ********</ehd:addr>*** |
 
 -Element hat
 
@@ -1068,9 +1066,9 @@ Die Identifikation einer Organisation.  „organization.nm“: Organisationsname
 
 ---
 
-| Default | Fixed |
+| ***Default*** | ***Fixed*** |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string    required |
+| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V    xs:string    required   ***** |
 
 „V“: hier wird der Wert eingetragen
 
@@ -1082,22 +1080,22 @@ Die Landesebene sollte hier mindestens die Telefonnummer und die E-Mail-Adresse 
 
 Das Element hat folgenden Aufbau: (ARV)
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required |
-| example | <ehd:telecom V="tel: 0333/4569-0" />  <ehd:telecom V="tel: 0333/4569-234" />  <ehd:telecom V="mailto:service@kvbb.de" />  <ehd:telecom V="mailto:Hanna.Stammdatei-Hacker@kvbb.de" / |
+| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required   ***** |
+| ***example*** | ***<ehd:telecom V="tel: 0333/4569-0" />  <ehd:telecom V="tel: 0333/4569-234" />  <ehd:telecom V="mailto:service@kvbb.de" />  <ehd:telecom V="mailto:Hanna.Stammdatei-Hacker@kvbb.de" /*** |
 
 **Tabelle 17 – Erläuterung „header/provider/organization/telecom“**
 
 Die Erläuterung für die verschiedenen Werte sind in Tabelle 18 aufgeführt.
 
-| Code | Definition | Beispiel |
+| **Code** | **Definition** | **Beispiel** |
 |---|---|---|
-| tel | Telefon/Mobiltelefon | <telecom V=”tel: (0221)4449-0”/> |
-| fax | Faxnummer | <telecom V=”fax: (0221)4449-400”/> |
-| mailto | E-Mail-Adresse | <telecom V=”mailto:info@kvbb.de”/> |
-| http | Homepage | <telecom V=”http://www.kbv.de |
-| ftp | FTP-Server | <telecom V=”ftp://ftp.kbv.de”/> |
+| tel | Telefon/Mobiltelefon | ***<telecom V=”tel: (0221)4449-0”/>*** |
+| fax | Faxnummer | ***<telecom V=”fax: (0221)4449-400”/>*** |
+| mailto | E-Mail-Adresse | ***<telecom V=”mailto:info@kvbb.de”/>*** |
+| http | Homepage | ***<telecom V=”http://www.kbv.de*** |
+| ftp | FTP-Server | ***<telecom V=”ftp://ftp.kbv.de”/>*** |
 
 **Tabelle 18 – Erläuterung zu Kommunikationsmöglichkeiten**
 
@@ -1109,10 +1107,7 @@ diagram
 
 ---
 
-### Schlüsseltabelle S_KBV_BEARBEITUNGSZUSTAND mit der OID 1.2.276.0.76.5.108 festge-
-
-### legt.
-
+### Schlüsseltabelle S_KBV_BEARBEITUNGSZUSTAND mit der OID 1.2.276.0.76.5.108 festge- legt.
 (ARV)
 
 
@@ -1120,10 +1115,10 @@ diagram
 
 Das Element hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attributes | Name    Type    Use    Default   Fixed    Annotation  V    xs:string  required               DN  xs:string  optional        S  xs:string  required    1.2.276.0.76.5.108   SN  xs:string  optional    S_KBV_BEARBEITUNGSZUSTAND    SV  xs:string  optional |
-| example | <ehd:state V="TEST" S="1.2.276.0.76.5.108" DN="Testdaten - nur für Testverfahren" |
+| ***attributes*** | ***Name    Type    Use    Default   Fixed    Annotation  V    xs:string  required   ********DN  xs:string  optional ********S  xs:string  required ****1.2.276.0.76.5.108  ****SN  xs:string  optional ********S_KBV_BEARBEITUNGSZUSTAND ********SV  xs:string  optional ***** |
+| ***example*** | ***<ehd:state V="TEST" S="1.2.276.0.76.5.108" DN="Testdaten - nur für Testverfahren"*** |
 
 **Tabelle 19 - Erläuterung „header/state“**
 
@@ -1133,9 +1128,9 @@ Die Daten der XML-Datei entsprechen einer Schnittstellenbeschreibung, welche nor
 
 Das Element hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <ehd:interface>      <ehd:interface.nm V="ARV"/>    </ehd:interface> |
+| ***example*** | ***<ehd:interface> ********<ehd:interface.nm V="ARV"/> ********</ehd:interface>*** |
 
 **Tabelle 20 – Erläuterung „header/interface“**
 
@@ -1159,10 +1154,10 @@ Im „EX“-Attribut wird der Kodewert und im „RT“-Attribut die OID der Schl
 
 Das Element hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  EX    xs:string  required             RTV  xs:string  optional        RT  xs:string  required |
-| example <ehd:id EX=”ARV” RTV=”1.03“ RT=”1.2.2.276.0.76.5.109”/> |  |
+| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  EX    xs:string  required ********RTV  xs:string  optional ********RT  xs:string  required ***** |
+| ***example <ehd:id EX=”ARV” RTV=”1.03“ RT=”1.2.2.276.0.76.5.109”/>*** |  |
 
 **Tabelle 21 – Erläuterung „header/interface/id“**
 
@@ -1174,10 +1169,10 @@ Das Element „interface.nm“ enthält die Bezeichnung der Schnittstelle als Te
 
 Das Element hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required |
-| example <ehd:interface.nm V=“ARV“/> |  |
+| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required   ***** |
+| ***example <ehd:interface.nm V=“ARV“/>*** |  |
 
 **Tabelle 22 – Erläuterung „header/interface/interface.nm**
 
@@ -1194,10 +1189,10 @@ Das Element hat folgenden Aufbau:
 
 (ARV)
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs: nonNegativeInteger    required |
-| example <ehd:version V=“3.04“/> |  |
+| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V    xs: nonNegativeInteger    required   ***** |
+| ***example <ehd:version V=“3.04“/>*** |  |
 
 #### Tabelle 23 – Erläuterung „header/interface/version“
 
@@ -1216,9 +1211,9 @@ Als Unterelemente des „geltungsbereich_kv“ gibt es das Element „arzneimitt
 
 **Das Element hat folgenden Aufbau:**
 
-| Diagram |  |
+| ***Diagram*** | ** |
 |---|---|
-| XML- | <geltungsbereich_kv V=“38“ S=“1.2.276.0.76.5.233“>      <arzneimittelvereinbarungen>          ...      </arzneimittelvereinbarungen>     <iww_indikationsbaum        ...     </iww_indikationsbaum>     <iww_kategorien>       ...     </iww_ kategorien>     <iww_metadaten …  />  </geltungsbereich_kv> |
+| ***XML-*** | ***<geltungsbereich_kv V=“38“ S=“1.2.276.0.76.5.233“>      <arzneimittelvereinbarungen>          ...      </arzneimittelvereinbarungen>     <iww_indikationsbaum        ...     </iww_indikationsbaum>     <iww_kategorien>       ...     </iww_ kategorien>     <iww_metadaten …  />  </geltungsbereich_kv>*** |
 
 **Tabelle 24 – Erläuterung „geltungsbereich_kv“**
 
@@ -1281,9 +1276,9 @@ Das Element hat folgenden Aufbau: (ARV)
 
 ---
 
-| Diagram |  |
+| ***Diagram*** | ** |
 |---|---|
-| Example | <arzneimittelvereinbarungen>                                                                             </arzneimittelvereinbarungen> |
+| ***Example*** | ***<arzneimittelvereinbarungen> ********</arzneimittelvereinbarungen>*** |
 
 #### Tabelle 25 – Erläuterung „arzneimittelvereinbarung“
 
@@ -1326,9 +1321,9 @@ Bei kombinierten Verordnungszielen können unterschiedliche Aspekte für die Bew
 
 Das Element „leitsubstanzquotenr_liste“ hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <leitsubstanzquotenr_liste prioritaet="3">                                                                  </leitsubstanzquotenr_liste> |
+| ***example*** | ***<leitsubstanzquotenr_liste prioritaet="3"> ********</leitsubstanzquotenr_liste>*** |
 
 **Tabelle 26 – Erläuterung „leitsubstanzquotenr_liste“**
 
@@ -1340,12 +1335,12 @@ Das optionale Element „leitsubstanzquotenr_liste“ enthält mindestens ein El
 
 ---
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| general | <leitsubstanzquotenregelung                         </leitsubstanzquotenregelung |
-| 1. specific | <leitsubstanzquotenregelung |
-| Das Element „leitsubstanzquotenregelung“ hat folgenden Aufbau:  diagram    general  <leitsubstanzquotenregelung                         </leitsubstanzquotenregelung 1. specific | <leitsubstanzquotenregelung |
-| Das Element „leitsubstanzquotenregelung“ hat folgenden Aufbau:  diagram    general  <leitsubstanzquotenregelung | |
+| ***general*** | ***<leitsubstanzquotenregelung********</leitsubstanzquotenregelung*** |
+| ***1. specific ***** | ***<leitsubstanzquotenregelung***** |
+| Das Element „leitsubstanzquotenregelung“ hat folgenden Aufbau: ***diagram ********general  <leitsubstanzquotenregelung********</leitsubstanzquotenregelung 1. specific ***** | ***<leitsubstanzquotenregelung***** |
+| Das Element „leitsubstanzquotenregelung“ hat folgenden Aufbau: ***diagram ********general  <leitsubstanzquotenregelung***** | |
 
 (ARV)
 
@@ -1355,24 +1350,24 @@ example <pzn einschluss="true" V="String"> <ddd_je_packung V="0.0"/> </pzn> <lei
 
 (ARV)
 
-|  |  |
+| ** | ** |
 |---|---|
-| example |  |
-| </leitsubstanzquotenregelung         3. specific | </leitsubstanzquotenregelung   <leitsubstanzquotenregelung |
-| example                                         </leitsubstanzquotenregelung         3. specific | </leitsubstanzquotenregelung   <leitsubstanzquotenregelung                     <leitsubstanz>              </leitsubstanz>              >  <leitsubstanzquotenregelung <standardaggregat V="Fosavance *"/>    <atc5 V="M05BA01"/>      <atc5 V="M05BA06">    <darreichungsform V="IFA" S="1.2.276.0.76.3.1.1.5.2.15" einschluss="false"/>  <darreichungsform V="IFF" S="1.2.276.0.76.3.1.1.5.2.15" einschluss="false"/>              </atc5>        <standardaggregat V="Zometa *" einschluss="false"/>          <fachgruppenintervall intervall_start="23" intervall_stop="33"/>    <quote_leitsubstanz_ddd V="81.3"/> |
-| example | |
+| ***example*** | ** |
+| *****</leitsubstanzquotenregelung********3. specific*** | *****</leitsubstanzquotenregelung********<leitsubstanzquotenregelung***** |
+| *****example ********</leitsubstanzquotenregelung********3. specific*** | *****</leitsubstanzquotenregelung********<leitsubstanzquotenregelung********<leitsubstanz> ********</leitsubstanz> ********>  <leitsubstanzquotenregelung <standardaggregat V="Fosavance *"/> ********<atc5 V="M05BA01"/> ********<atc5 V="M05BA06"> ********<darreichungsform V="IFA" S="1.2.276.0.76.3.1.1.5.2.15" einschluss="false"/>  <darreichungsform V="IFF" S="1.2.276.0.76.3.1.1.5.2.15" einschluss="false"/> ********</atc5> ********<standardaggregat V="Zometa *" einschluss="false"/> ********<fachgruppenintervall intervall_start="23" intervall_stop="33"/> ********<quote_leitsubstanz_ddd V="81.3"/> ***** |
+| *****example ***** | |
 
 </fachgruppenquote 2. specific <wirkstoff V="Metformin"/> <wirkstoff V="Glibenclamid"/> <wirkstoff V="Glimepirid <wirkstoff V="Rosiglitazon"/> <wirkstoff V="Pioglitazon"/> <wirkstoff V="Sitagliptin <wirkstoff V="Vildagliptin"/> <wirkstoff V="Repaglinid"/> <wirkstoff V="Nateglinid"/> <wirkstoff  ... <wirkstoff V="Metformin"/> <wirkstoff V="Glibenclamid"/> <fachgruppenquote> <quote_leitsubstanz_bruttoumsatz <warnhinweis_ersetzung V="Sie haben ein orales Antidiabetikum ausgewählt. Hierzu existiert auf der Landesebene eine Leitsubstanzquotenregelung. Leitsubstanzen sind Metformin,  V="60.0"/> </fachgruppenquote Glibenclamid und Glimepirid. <wirkstoff V="Glimepirid <fachgruppenquote> <quote_leitsubstanz_bruttoumsatz  V="35.0"/> </fachgruppenquote <atc5 V="M05BA04"/> <darreichungsform V="ILO" S="1.2.276.0.76.3.1.1.5.2.15" einschluss="false"/> <darreichungsform V="IFK" S="1.2.276.0.76.3.1.1.5.2.15" einschluss="false"/> <darreichungsform V="INF" S="1.2.276.0.76.3.1.1.5.2.15" einschluss="false"/> <darreichungsform V="IFL" S="1.2.276.0.76.3.1.1.5.2.15" einschluss="false"/> <darreichungsform V="INI" S="1.2.276.0.76.3.1.1.5.2.15 <darreichungsform V="DFL" S="1.2.276.0.76.3.1.1.5.2.15" einschluss="false"/> <atc5 V="M05BA07"/> <atc5 V="M05BA08"/> <atc5 V="M05BA04"/> <fachgruppenquote> <warnhinweis_ersetzung V="Sie haben ein Bisphosphonat gewählt. Hierzu existiert auf Landesebene eine Leitsubstanzquotenregelung. Leitsubstanz ist Alendronsäure."/> </fachgruppenquote <fachgruppenquote> <fachgruppenintervall intervall_start="1" intervall_stop="3"/> <quote_leitsubstanz_ddd V="83.0"/> <warnhinweis_ersetzung V="Sie haben ein Bisphosphonat gewählt. Hierzu existiert auf Landesebene eine Leitsubstanzquotenregelung. Leitsubstanz ist Alendronsäure."/> </fachgruppenquote <fachgruppenquote>
 
 
 ---
 
-|  |  |
+| ** | ** |
 |---|---|
-|  | </leitsubstanzquotenregelung Tabelle 27 – Erläuterung „leitsubstanzquotenregelung Beliebig viele Gruppen mit Leitsubstanzquotenregelungen können mit der vorliegenden  Die Gruppe der betroffenen Arzneimittelpräparate, für die eine Leitsubstanzquotenregelung  Das Ziel der Regelung besteht darin, dass aus der Gruppe der betroffenen Präparate mög- Dies ist durch die Angabe der jeweiligen Wirkstoffe (Lansoprazol, Esomeprazol, Rabeprazol,  Die Elemente „pzn“, „handelsname“, „standardaggregat“, „wirkstoff“, „atc5“, „wirkstoffgruppe“,    Attribut „einschluss“  Mit dem Attribut „einschluss“ können eingeschlossene („einschluss“ = „true“) und nicht- Auch besteht die Möglichkeit, nur bestimmte PZN („einschluss“ = „true“) einzuschließen, für |
+| ** | *****</leitsubstanzquotenregelung*****Tabelle 27 – Erläuterung „leitsubstanzquotenregelung** Beliebig viele Gruppen mit Leitsubstanzquotenregelungen können mit der vorliegenden  Die Gruppe der betroffenen Arzneimittelpräparate, für die eine Leitsubstanzquotenregelung  Das Ziel der Regelung besteht darin, dass aus der Gruppe der betroffenen Präparate mög- Dies ist durch die Angabe der jeweiligen Wirkstoffe (Lansoprazol, Esomeprazol, Rabeprazol,  Die Elemente „pzn“, „handelsname“, „standardaggregat“, „wirkstoff“, „atc5“, „wirkstoffgruppe“,   **Attribut „einschluss“ ** Mit dem Attribut „einschluss“ können eingeschlossene („einschluss“ = „true“) und nicht- Auch besteht die Möglichkeit, nur bestimmte PZN („einschluss“ = „true“) einzuschließen, für |
 |  |  |
-| </leitsubstanzquotenregelung Tabelle 27 – Erläuterung „leitsubstanzquotenregelung Beliebig viele Gruppen mit Leitsubstanzquotenregelungen können mit der vorliegenden  Die Gruppe der betroffenen Arzneimittelpräparate, für die eine Leitsubstanzquotenregelung  Das Ziel der Regelung besteht darin, dass aus der Gruppe der betroffenen Präparate mög- Dies ist durch die Angabe der jeweiligen Wirkstoffe (Lansoprazol, Esomeprazol, Rabeprazol,  Die Elemente „pzn“, „handelsname“, „standardaggregat“, „wirkstoff“, „atc5“, „wirkstoffgruppe“,    Attribut „einschluss“  Mit dem Attribut „einschluss“ können eingeschlossene („einschluss“ = „true“) und nicht- Auch besteht die Möglichkeit, nur bestimmte PZN („einschluss“ = „true“) einzuschließen, für |  |
-| </leitsubstanzquotenregelung | |
+| *****</leitsubstanzquotenregelung*****Tabelle 27 – Erläuterung „leitsubstanzquotenregelung** Beliebig viele Gruppen mit Leitsubstanzquotenregelungen können mit der vorliegenden  Die Gruppe der betroffenen Arzneimittelpräparate, für die eine Leitsubstanzquotenregelung  Das Ziel der Regelung besteht darin, dass aus der Gruppe der betroffenen Präparate mög- Dies ist durch die Angabe der jeweiligen Wirkstoffe (Lansoprazol, Esomeprazol, Rabeprazol,  Die Elemente „pzn“, „handelsname“, „standardaggregat“, „wirkstoff“, „atc5“, „wirkstoffgruppe“,   **Attribut „einschluss“ ** Mit dem Attribut „einschluss“ können eingeschlossene („einschluss“ = „true“) und nicht- Auch besteht die Möglichkeit, nur bestimmte PZN („einschluss“ = „true“) einzuschließen, für |  |
+| *****</leitsubstanzquotenregelung*** | |
 
 (ARV)
 
@@ -1438,11 +1433,11 @@ Das Element hat folgenden Aufbau:
 
 (ARV)
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  V    pzn_string_typ  required            8 Ziffern  einschluss  xs:Boolean  optional  true |
-| ddd_je_packung | Name    Type    Use    Default    Fixed    Annotation  V    xs:decimal   required |
-| example | <pzn einschluss="true" V="12345678">    </pzn> |
+| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V    pzn_string_typ  required   ********8 Ziffern  einschluss  xs:Boolean  optional  true ***** |
+| ***ddd_je_packung*** | ***Name    Type    Use    Default    Fixed    Annotation  V    xs:decimal   required   ***** |
+| ***example*** | ***<pzn einschluss="true" V="12345678"> ********</pzn>*** |
 
 **Tabelle 28 – Erläuterung „leitsubstanzquotenregelung/pzn**
 
@@ -1472,10 +1467,10 @@ Es ist durch die Landesebene sicherzustellen, dass bei dieser Suchdefinition kei
 
 Das Element hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs: string   required               einschluss  xs:boolean  optional  True |
-| example | <handelsname einschluss="true" V="String">    </handelsname> |
+| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V    xs: string   required   ********einschluss  xs:boolean  optional  True ***** |
+| ***example*** | ***<handelsname einschluss="true" V="String"> ***  ***</handelsname> ***** |
 
 **Tabelle 29 – Erläuterung „leitsubstanzquotenregelung/handelsname**
 
@@ -1537,10 +1532,10 @@ Mit der Kennzeichnung <Name Leerzeichen Sternchen> wird ein bestimmtes Standarda
 
 Das Element hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs: string   required               einschluss  xs:boolean  optional  true |
-| example | <standardaggregat V="String"/>                                                                    </standardaggregat> |
+| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V    xs: string   required   ********einschluss  xs:boolean  optional  true ***** |
+| ***example*** | ***<standardaggregat V="String"/> ********</standardaggregat>*** |
 
 **Tabelle 30 – Erläuterung „leitsubstanzquotenregelung/standardaggregat“**
 
@@ -1561,10 +1556,10 @@ Dieses Element ermöglicht die Angabe des Wirkstoffs entsprechend des Verzeichni
 
 Das Element hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs: string   required               einschluss  xs:boolean  optional  true |
-| example <wirkstoff einschluss="true" V="String"/> |  |
+| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V    xs: string   required   ********einschluss  xs:boolean  optional  true ***** |
+| ***example <wirkstoff einschluss="true" V="String"/>*** |  |
 
 **Tabelle 31 – Erläuterung „leitsubstanzquotenregelung/wirkstoff**
 
@@ -1585,10 +1580,10 @@ Das Element hat folgenden Aufbau:
 
 (ARV)
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs: string   required               einschluss  xs:boolean  optional  true |
-| example | <atc5 V="String"/>                                                                    </atc5> |
+| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V    xs: string   required   ********einschluss  xs:boolean  optional  true ***** |
+| ***example*** | ***<atc5 V="String"/> ********</atc5>*** |
 
 **Tabelle 32 – Erläuterung „leitsubstanzquotenregelung/atc5**
 
@@ -1598,10 +1593,10 @@ siehe Erläuterung in Abschnitt 7.3.2.1
 
 **7.3.6**
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| diagram | attributes  Name    Type    Use    Default    Fixed    Annotation  V    xs: string              einschluss  xs:boolean  optional  true |
-| example | <atc5 V="String"/> |
+| ***diagram*** | *****attributes  Name    Type    Use    Default    Fixed    Annotation  V    xs: string  ********einschluss  xs:boolean  optional  true ***** |
+| ***example*** | ***<atc5 V="String"/>*** |
 
 Enthält die Wirkstoffgruppe als Namen (wie in ATC4 definiert).  über den ATC-Code (ATC-4 oder ATC-5 Code) definieren.
 
@@ -1613,8 +1608,8 @@ Das Element hat folgenden Aufbau:
 
 |  |  |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs: string   required               einschluss  xs:boolean  optional  true |
-| example | <wirkstoffgruppe einschluss="true" V="String"/> |
+| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V    xs: string   required   ********einschluss  xs:boolean  optional  true ***** |
+| ***example*** | ***<wirkstoffgruppe einschluss="true" V="String"/>*** |
 
 **Tabelle 33 – Erläuterung „leitsubstanzquotenregelung/wirkstoffgruppe**
 
@@ -1635,10 +1630,10 @@ Die Definition von Wirkstoffkombinationen ist ausschließlich durch Angabe eines
 
 Das Element hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs: string   required               einschluss  xs:boolean  optional  true |
-| example | <atc4 " V="String">                        </atc4> |
+| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V    xs: string   required   ********einschluss  xs:boolean  optional  true ***** |
+| ***example*** | ***<atc4 " V="String"> ********</atc4>*** |
 
 **Tabelle 34 – Erläuterung „leitsubstanzquotenregelung/atc4**
 
@@ -1672,9 +1667,9 @@ Es können verschiedenen Leitsubstanzen einer „leitsubstanzquotenregelung“ u
 
 In folgender Tabelle wird das Element „leitsubstanz“ graphisch dargestellt:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <leitsubstanz>             V="String"/>  >  </leitsubstanz> |
+| ***example*** | ***<leitsubstanz> ********V="String"/>  >  </leitsubstanz>*** |
 
 **Tabelle 35 – Erläuterung „leitsubstanzquotenregelung/leitsubstanz“**
 
@@ -1698,9 +1693,9 @@ Im Unterelement „hinweis_verordnung_identisch“ kann ein Text von der Landese
 
 Das Element hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <fachgruppenquote>                        V="String"/>  </fachgruppenquote |
+| ***example*** | ***<fachgruppenquote> ********V="String"/>  </fachgruppenquote*** |
 
 **Tabelle 36 – Erläuterung „leitsubstanzquotenregelung/leitsubstanz**
 
@@ -1723,10 +1718,10 @@ Ist beispielsweise „intervall_start“=12 und „intervall_stop“=22, so gilt
 
 Das Element hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  intervall_start  xs:positiveInteger  optional             intervall_stop  xs:positiveInteger  optional |
-| example <fachgruppenintervall intervall_start="2" intervall_stop="8"/> |  |
+| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  intervall_start  xs:positiveInteger  optional ********intervall_stop  xs:positiveInteger  optional ***** |
+| ***example <fachgruppenintervall intervall_start="2" intervall_stop="8"/>*** |  |
 
 **Tabelle 37 – Erläuterung „leitsubstanzquotenreg** **lung/leitsubstanz/fachgruppenquote/fachgruppenintervall“**
 
@@ -1736,10 +1731,10 @@ Das Element „fachgruppennummer“ steht innerhalb einer „choice“-Definitio
 
 Das Element hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:positiveInteger  required |
-| example | <fachgruppennummer <fachgruppennummer |
+| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V    xs:positiveInteger  required ***** |
+| ***example*** | ***<fachgruppennummer <fachgruppennummer*** |
 
 **Tabelle 38 – Erläuterung „leitsubstanzquotenreg** **lung/leitsubstanz/fachgruppenquote/**
 
@@ -1763,10 +1758,10 @@ Das Element „quote_leitsubstanz_ddd“ steht innerhalb einer „choice“-Defi
 
 Das Element hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required |
-| example <quote_leitsubstanz_ddd V="75.0"/> |  |
+| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required   ***** |
+| ***example <quote_leitsubstanz_ddd V="75.0"/>*** |  |
 
 **Tabelle 39 Erläuterung „leitsubstanzquotenregelung/leitsubstanz/fachgruppenquote/quote_leit** **substanz_ddd“**
 
@@ -1776,10 +1771,10 @@ Das Element „quote_leitsubstanz_verordnungen“ steht innerhalb einer „choic
 
 Das Element hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required |
-| example | <quote_leitsubstanz_verordnung |
+| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required   ***** |
+| ***example*** | ***<quote_leitsubstanz_verordnung*** |
 
 **Tabelle 40 – Erläuterung „leitsubstanzquotenregelung/leitsubstanz/fachgruppenquote/quo** **te_leitsubstanz_verordnungen“**
 
@@ -1801,10 +1796,10 @@ substanz festgelegt wurde.
 
 Das Element hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required |
-| example <quote_leitsubstanz_bruttoumsatz | V="78.0"/> |
+| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required   ***** |
+| ***example <quote_leitsubstanz_bruttoumsatz*** | ***V="78.0"/>*** |
 
 **Tabelle 41 – Erläuterung „leitsubstanzquotenregelung/leitsubstanz/fachgruppen** **quote/quote_leitsubstanz_bruttoumsatz“**
 
@@ -1816,10 +1811,10 @@ Damit die Software-Anbieter den Warnhinweis in die Verordnungssoftware integrier
 
 Das Element hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs: string   required |
-| example <warnhinweis_ersetzung V="String"/> |  |
+| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V    xs: string   required   ***** |
+| ***example <warnhinweis_ersetzung V="String"/>*** |  |
 
 **Tabelle 42 – Erläuterung „leitsubstanzquotenreg** **lung/leitsubstanz/fachgruppenquote//warnhinweis_ersetzung“**
 
@@ -1838,15 +1833,12 @@ Das Element hat folgenden Aufbau:
 
 (ARV)
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs: string   required |
-| example <hinweis_verordnung_identisch | V="String"/> |
+| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V    xs: string   required   ***** |
+| ***example <hinweis_verordnung_identisch*** | ***V="String"/>*** |
 
-#### Tabelle 43 – Erläuterung „leitsubstanzquotenreg lung/leitsubstanz/fachgruppenquote/
-
-#### hinweis_verordnung_identisch
-
+#### Tabelle 43 – Erläuterung „leitsubstanzquotenreg lung/leitsubstanz/fachgruppenquote/ hinweis_verordnung_identisch
 **e-**
 
 
@@ -1883,11 +1875,11 @@ Das Element „zielpreisregelung“ hat folgenden Aufbau: (ARV)
 
 ---
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| general | <zielpreisregelung>                  </zielpreisregelung> |
-| example | <zielpreisregelung> |
-| diagram | |
+| ***general*** | ***<zielpreisregelung> ********</zielpreisregelung>*** |
+| ***example*** | ***<zielpreisregelung> ***** |
+| ***diagram*** | |
 
 (ARV)
 
@@ -1897,16 +1889,16 @@ Das Element „zielpreisregelung“ hat folgenden Aufbau: (ARV)
 
 (ARV)
 
-| </zielpreisregelung> | Tabelle 45 – Erläuterung „zielpreisregelung“ |
+| ***</zielpreisregelung>*** | **Tabelle 45 – Erläuterung „zielpreisregelung“** |
 |---|---|
-| Beliebig viele solcher Zielpreise können hier abgebildet werden, für jeden einzelnen wird ein | Im Element „kategorie_zielpreisregelung“ kann ein Startwert oder Intervalle für eine entspre- Wenn Zielpreis-Intervalle von der Landesebene vorgegeben sind, sollen diese grundsätzlich    7.4.1 Für die Erstellung einer Zielpreisregel muss mindestens ein Element „pzn“ angelegt werden.  einbezogen werden, wird das optionale Attribut „einschluss“ nicht benötigt. Das optionale Un-   7.4.2 Die Landesebene legt einen Zielpreis für eine Gruppe von PZN fest. Dieser Wert wird in Euro |
-| Das Element hat folgenden Aufbau: | diagram    attributes  Name    Type    Use    Default    Fixed    Annotation  V    xs:decimal |
-| </zielpreisregelung> | |
+| Beliebig viele solcher Zielpreise können hier abgebildet werden, für jeden einzelnen wird ein | Im Element „kategorie_zielpreisregelung“ kann ein Startwert oder Intervalle für eine entspre- Wenn Zielpreis-Intervalle von der Landesebene vorgegeben sind, sollen diese grundsätzlich   **7.4.1** Für die Erstellung einer Zielpreisregel muss mindestens ein Element „pzn“ angelegt werden.  einbezogen werden, wird das optionale Attribut „einschluss“ nicht benötigt. Das optionale Un-  **7.4.2** Die Landesebene legt einen Zielpreis für eine Gruppe von PZN fest. Dieser Wert wird in Euro |
+| Das Element hat folgenden Aufbau: | ***diagram ********attributes  Name    Type    Use    Default    Fixed    Annotation  V    xs:decimal*** |
+| ***</zielpreisregelung>*** | |
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:decimal   required |
-| example <zielpreis V="0.00"/> |  |
+| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V    xs:decimal   required   ***** |
+| ***example <zielpreis V="0.00"/>*** |  |
 
 **Tabelle 46 – Erläuterung „zielpreisregelung/zielpreis“**
 
@@ -1920,22 +1912,22 @@ Element „zielpreisregelung“ angelegt. Hierbei sind die zu einer Zielpreisgru
 
 (ARV)
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  hinweis    xs:string   optional         V  xs:decimal  optional |
-| Im Element „intervall_start“ kann ein Startwert definiert werden, ab welchem prozentualen  Der Hinweistext kann beliebig lang von der Landesebene gefüllt werden. Sollen verschiedene  Ist beispielsweise „intervall_start“=105,0 und „intervall_stop“=110,0, so gilt für alle entspre- Das Element hat folgenden Aufbau:  diagram    attributes | |
-| Name | Type    Use    Default    Fixed |
+| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  hinweis    xs:string   optional ********V  xs:decimal  optional ***** |
+| Im Element „intervall_start“ kann ein Startwert definiert werden, ab welchem prozentualen  Der Hinweistext kann beliebig lang von der Landesebene gefüllt werden. Sollen verschiedene  Ist beispielsweise „intervall_start“=105,0 und „intervall_stop“=110,0, so gilt für alle entspre- Das Element hat folgenden Aufbau: ***diagram ********attributes*** | |
+| ***Name*** | ***Type    Use    Default    Fixed*** |
 
 Wert des verordneten Apothekenverkaufspreises zum Zielpreis eine Kennzeichnung in der Verordnungssoftware und/oder das Anzeigen eines Hinweistextes für den verordneten Arzt erfolgen soll. Das Element „intervall_start“ hat das Attribut V für die Definition des Prozentwer- tes und das Attribut „inklusion_intervallgrenze“, welches entscheidend dafür ist, ob ein „grö- ßer“ oder ein „größer gleich“ gemeint ist. Wird „inklusion_intervallgrenze“ auf true gesetzt, so gehört der unter „V“ angegebene Wert zum Intervall dazu. Im Element „intervall_stop“ kann der entsprechende Endwert definiert werden. Die Attribute „V“ und „inklusion_intervallgrenze“ sind entsprechend zu füllen. Dabei entspricht der Wert 100 hundert Prozent des Zielpreises. Hinweistexte bei unterschiedlichen Stufen der Überschreitung integriert werden, so sind Inter- valle mit den entsprechenden Hinweistexten anzugeben (siehe specific example ). Wenn ein Hinweistext angezeigt werden soll, so muss nicht nur das entsprechende Attribut „hinweis“ gefüllt werden, es muss auch mindestens eines der beiden Elemente „intervall_start“ oder „intervall_stop“ angegeben sein. Wenn die untere bzw. obere Intervallgrenze fehlt, so ist das Intervall nach unten oder oben offen, für das der Hinweistext bzw. die Kennzeichnung gilt. Wenn beide Elemente vorkommen, muss das Element „intervall_start“ kleiner als das Element „intervall_stop“ sein. chenden Medikamente, deren Preis zwischen 105,0 % und 110,0 % zum Zielpreis liegt, als leicht über dem Zielpreis und es wird darauf hingewiesen, dass es günstigere Alternativen existieren. Die Intervallgrenzen werden in die Gültigkeit nur dann mit eingeschlossen, wenn das Attribut „inklusive_intervallgrenze“ auf true gesetzt ist. Die Elemente sind optional, da es möglich ist, nur eine Intervallgrenze anzugeben. Ist beispielsweise das Element „inter- vall_start“=110“ mit „inklusive_intervallgrenze= false“ und das Element „intervall_stop“ fehlt, so gilt dieses Intervall für alle Medikamente, die mehr als 10 % über den Zielpreis liegen. Umge- kehrt gilt die Regelung bei Angabe von „intervall_stop“=100“ und Attribut “inklusi- ve_intervallgrenze = false“ für alle Medikamente, die unter dem Zielpreis liegen. Das Attribut „V“ wurde als Datentyp „decimal“ realisiert.
 
 
 ---
 
-|  |  |
+| ** | ** |
 |---|---|
-|  | example  <kategorie_zielpreisregelung hinweis="String">      </kategorie_zielpreisregelung>  Tabelle 47 – Erläuterung „zielpreisregelung/kategorie_zielpreisregelung “ |
-| inklusion_intervallgrenze xs:boolean  optional | |
-| example | <kategorie_zielpreisregelung hinweis="String">      </kategorie_zielpreisregelung> |
+| ** | ***example  <kategorie_zielpreisregelung hinweis="String"> ********</kategorie_zielpreisregelung> *****Tabelle 47 – Erläuterung „zielpreisregelung/kategorie_zielpreisregelung “ **** |
+| ***inklusion_intervallgrenze xs:boolean  optional ***** | |
+| ***example*** | ***<kategorie_zielpreisregelung hinweis="String"> ********</kategorie_zielpreisregelung>*** |
 
 (ARV)
 
@@ -1949,9 +1941,9 @@ Auf der Landesebene können Regelungen zu DDD-Kosten oder wahlweise auch zu PDD-
 
 Das Element „kostenvergleich_ddd_liste“ hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <kostenvergleich_ddd_liste prioritaet="4">                                                                  </kostenvergleich_ddd_liste> |
+| ***example*** | ***<kostenvergleich_ddd_liste prioritaet="4"> ********</kostenvergleich_ddd_liste>*** |
 
 **Tabelle 48 – Erläuterung „kostenvergleich_ddd_liste“**
 
@@ -1963,11 +1955,11 @@ Das Element „kostenvergleich_ddd“ hat folgenden Aufbau: (ARV)
 
 ---
 
-| Diagram |  |
+| ***Diagram*** | ** |
 |---|---|
-| example | <kostenvergleich_ddd>                      </kostenvergleich_ddd> |
-| example | <kostenvergleich_ddd> |
-| Diagram    example  <kostenvergleich_ddd> | |
+| ***example*** | ***<kostenvergleich_ddd> ********</kostenvergleich_ddd>*** |
+| ***example*** | ***<kostenvergleich_ddd> ***** |
+| ***Diagram ********example  <kostenvergleich_ddd> ***** | |
 
 (ARV)
 
@@ -1975,11 +1967,11 @@ Das Element „kostenvergleich_ddd“ hat folgenden Aufbau: (ARV)
 
 ---
 
-|  |  |
+| ** | ** |
 |---|---|
-|  | </kostenvergleich_ddd>  Tabelle 49 – Erläuterung „kostenvergleich_ddd“ Beliebig viele Kostenvergleichsregelungen |
-| Beliebig viele solcher Gruppen können gebildet werden. Zur Berechnung der Kosten je DDD | Falls sich die Kostenvergleichsregelung auf PDD pro Packung beziehen soll, dann muss zur  Die Gruppe der von der Regelung betroffenen Präparate kann über Wirkstoffgruppe, ATC 4,  Sind die DDD nicht in der Verordnungssoftware hinterlegt, oder soll die Kostenberechnung auf  Zudem sind die „zielkosten_je_ddd“ anzugeben. Der Wert für DDD bzw PDD ist abhängig von  Anzeigen von Preiskategorien und Hinweistexten für den Arzt |
-| </kostenvergleich_ddd> | |
+| ** | *****</kostenvergleich_ddd> *****Tabelle 49 – Erläuterung „kostenvergleich_ddd“** Beliebig viele Kostenvergleichsregelungen |
+| Beliebig viele solcher Gruppen können gebildet werden. Zur Berechnung der Kosten je DDD | Falls sich die Kostenvergleichsregelung auf PDD pro Packung beziehen soll, dann muss zur  Die Gruppe der von der Regelung betroffenen Präparate kann über Wirkstoffgruppe, ATC 4,  Sind die DDD nicht in der Verordnungssoftware hinterlegt, oder soll die Kostenberechnung auf  Zudem sind die „zielkosten_je_ddd“ anzugeben. Der Wert für DDD bzw PDD ist abhängig von **Anzeigen von Preiskategorien und Hinweistexten für den Arzt** |
+| *****</kostenvergleich_ddd>*** | |
 
 (ARV)
 
@@ -2050,10 +2042,10 @@ Die Landesebene legt einen Zielpreis pro DDD bzw. PDD fest. Dieser Wert wird in 
 
 Das Element hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs: decimal   required |
-| example <zielkosten_je_ddd V="0.89"/> |  |
+| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V    xs: decimal   required   ***** |
+| ***example <zielkosten_je_ddd V="0.89"/>*** |  |
 
 **Tabelle 50 – Erläuterung „kostenvergleich_ddd/zielkosten_je_ddd “**
 
@@ -2066,9 +2058,9 @@ Siehe Erläuterungen in Abschnitt 7.3.8.1 (ARV)
 
 ---
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| Specific | <fachgruppenquote>                    </fachgruppenquote |
+| ***Specific*** | ***<fachgruppenquote> ********</fachgruppenquote*** |
 
 #### Tabelle 51 – Erläuterung „kostenvergleich_ddd/fachgruppenquote
 
@@ -2094,10 +2086,10 @@ nicht oberhalb des Zielpreises liegen, für die Gruppe der von der Regelung betr
 
 Das Element hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required |
-| example <quote_kostenvergleich_ddd  V="0.0"> |  |
+| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required   ***** |
+| ***example <quote_kostenvergleich_ddd  V="0.0">*** |  |
 
 **Tabelle 52 – Erläuterung**  **„kostenvergleich_ddd/fachgruppenquote/quote_kostenvergleich_ddd**
 
@@ -2128,10 +2120,10 @@ ve_intervallgrenze = false“ für alle Medikamente, die unter dem Zielpreis lie
 
 Das Element hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attributes | Name    Type    Use    Default    Fixed    Annotation  hinweis    xs:string   optional             V  xs:decimal  optional        inklusion_intervallgrenze xs:boolean  optional |
-| example | <kategorie_ddd_kosten_vergleich hinweis="String">      </kategorie_ddd_kosten_vergleich> |
+| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  hinweis    xs:string   optional ********V  xs:decimal  optional ********inklusion_intervallgrenze xs:boolean  optional ***** |
+| ***example*** | ***<kategorie_ddd_kosten_vergleich hinweis="String"> ********</kategorie_ddd_kosten_vergleich>*** |
 
 #### Tabelle 53 – Erläuterung „kostenvergleich_ddd/kategorie_ddd_kosten_vergleich “
 
@@ -2148,9 +2140,9 @@ pe (z.B. Antibiotika) beziehen.
 
 Das Element „generikaquotenr_liste“ hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <generikaquotenr_liste prioritaet="1">                                                                  </generikaquotenr_liste> |
+| ***example*** | ***<generikaquotenr_liste prioritaet="1"> ********</generikaquotenr_liste>*** |
 
 #### Tabelle 54 – Erläuterung „generikaquotenr_liste“
 
@@ -2164,11 +2156,11 @@ tenregelung“. Zum Attribut „prioritaet“ siehe Abschnitt 7.3.
 
 ---
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <generikaquotenregelung                                   > |
-| example | >      <standardaggregat_original |
-| diagram    example  <generikaquotenregelung | |
+| ***example*** | ***<generikaquotenregelung********>*** |
+| ***example*** | ***> ********<standardaggregat_original***** |
+| ***diagram ********example  <generikaquotenregelung***** | |
 
 (ARV)
 
@@ -2176,11 +2168,11 @@ tenregelung“. Zum Attribut „prioritaet“ siehe Abschnitt 7.3.
 
 ---
 
-|  |  |
+| ** | ** |
 |---|---|
-|  | <fachgruppenquote>      <quote_generika_bruttoumsatz V="95.0">          </fachgruppenquote </generikaquotenregelung>  Tabelle 55 – Erläuterung „generikaquotenregelung“ Beliebig viele Generikaquotenregelungen können mit der vorliegenden Schnittstelle abgebil- Die durch die vorstehenden Elemente bezeichneten Präparate definieren die Gruppe der be- Die Elemente „pzn_original“, „handelsname_original“ und „standardaggregat_original“, können  Sofern von der Landesebene gewünscht, können die Verordnungsalternative(n) („generi- Anzeige eines Hinweistextes für den Arzt  Im Unterelement  Anzeigen des Hinweistextes und Controllingfunktion fachgruppenspezifisch möglich |
+| ** | ***<fachgruppenquote> ********<quote_generika_bruttoumsatz V="95.0"> ********</fachgruppenquote </generikaquotenregelung> *****Tabelle 55 – Erläuterung „generikaquotenregelung“** Beliebig viele Generikaquotenregelungen können mit der vorliegenden Schnittstelle abgebil- Die durch die vorstehenden Elemente bezeichneten Präparate definieren die Gruppe der be- Die Elemente „pzn_original“, „handelsname_original“ und „standardaggregat_original“, können  Sofern von der Landesebene gewünscht, können die Verordnungsalternative(n) („generi-**Anzeige eines Hinweistextes für den Arzt ** Im Unterelement **Anzeigen des Hinweistextes und Controllingfunktion fachgruppenspezifisch möglich** |
 | Es besteht die Möglichkeit, den Hinweistext und/oder die Quote(n) auf alle Ärzte, oder nur auf |  |
-| <fachgruppenquote>      <quote_generika_bruttoumsatz V="95.0">          </fachgruppenquote </generikaquotenregelung> | |
+| *****<fachgruppenquote> ********<quote_generika_bruttoumsatz V="95.0"> ********</fachgruppenquote </generikaquotenregelung>*** | |
 
 (ARV)
 
@@ -2232,9 +2224,9 @@ Das Element hat folgenden Aufbau:
 
 (ARV)
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <generischer_wirkstoff_alternative>      </generischer_wirkstoff_alternative> |
+| ***example*** | ***<generischer_wirkstoff_alternative> ********</generischer_wirkstoff_alternative>*** |
 
 #### Tabelle 56 – Erläuterung „generikaquotenregelung/generischer_wirkstoff_alternative
 
@@ -2249,9 +2241,9 @@ Das Element hat folgenden Aufbau:
 
 ---
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <fachgruppenquote>                </fachgruppenquote |
+| ***example*** | ***<fachgruppenquote> ********</fachgruppenquote*** |
 
 #### Tabelle 57 – Erläuterung „generikaquotenregelung/fachgruppenquote“
 
@@ -2279,12 +2271,12 @@ Bitte beachten Sie, dass alle PZN und die dazugehörigen DDD von der Landesebene
 
 Das Element hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attribute | Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required |
-| pzn_generika | Name    Type    Use    Default    Fixed    Annotation  V  xs:string  required |
-| attribute | Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required |
-| example | <quote_generika_ddd V="0.0">        </quote_generika_ddd> |
+| ***attribute*** | ***Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required  ***** |
+| ***pzn_generika*** | ***Name    Type    Use    Default    Fixed    Annotation  V  xs:string  required   ***** |
+| ***attribute*** | ***Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required ***** |
+| ***example*** | ***<quote_generika_ddd V="0.0"> ********</quote_generika_ddd>*** |
 
 **Tabelle 58 – Erläuterung „generikaquotenregelung**
 
@@ -2305,10 +2297,10 @@ Soll sich das Controlling auf Basis Verordnungen auf eine definierte Arzneimitte
 
 Das Element hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attribute | Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required |
-| example | <quote_generika_verordnungen V="0.0">        > |
+| ***attribute*** | ***Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required ***** |
+| ***example*** | ***<quote_generika_verordnungen V="0.0"> ********>*** |
 
 **Tabelle 59 – Erläuterung „generikaquotenregelung/fachgruppenquote/quote_generika_verord-**
 
@@ -2328,10 +2320,10 @@ Soll sich das Controlling auf Basis Bruttoumsatz auf eine definierte Arzneimitte
 
 Das Element hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attribute | Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required |
-| example | <quote_generika_bruttoumsatz V="0.0">        </quote_generika_bruttoumsatz> |
+| ***attribute*** | ***Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required ***** |
+| ***example*** | ***<quote_generika_bruttoumsatz V="0.0"> ********</quote_generika_bruttoumsatz>*** |
 
 #### Tabelle 60 – Erläuterung „generikaquotenregelung/fachgruppenquote/quote_generika_verord-
 
@@ -2353,9 +2345,9 @@ Auf der Landesebene können unterschiedliche Regelungen zu Höchstquoten existie
 
 Das Element „hoechstquotenr_liste“ hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <hoechstquotenr_liste prioritaet="1">                                                                  </hoechstquotenr_liste> |
+| ***example*** | ***<hoechstquotenr_liste prioritaet="1"> ********</hoechstquotenr_liste>*** |
 
 **Tabelle 61 – Erläuterung „hoechstquotenr_liste“**
 
@@ -2367,11 +2359,11 @@ Das Element „hoechstquotenregelung“ hat folgenden Aufbau: (ARV)
 
 ---
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <hoechstquotenregelung                                   </hoechstquotenregelung |
-| example | <hoechstquotenregelung                   <atc5 V="C10AX09"/> |
-| diagram    <hoechstquotenregelung | |
+| ***example*** | ***<hoechstquotenregelung********</hoechstquotenregelung*** |
+| ***example*** | ***<hoechstquotenregelung********<atc5 V="C10AX09"/> ***** |
+| ***diagram ********<hoechstquotenregelung***** | |
 
 (ARV)
 
@@ -2379,11 +2371,11 @@ Das Element „hoechstquotenregelung“ hat folgenden Aufbau: (ARV)
 
 ---
 
-|  | </hoechstquote_verordnungen |
+| ** | ***</hoechstquote_verordnungen*** |
 |---|---|
-|  | und sollten nach Möglichkeit durch    </hoechstquotenregelung Tabelle 62 – Erläuterung „hoechstquotenregelung“ Beliebig viele Höchstquotenregelungen können mit der vorliegenden Schnittstelle abgebildet  Sofern von der Landesebene gewünscht, können die Verordnungsalternative(n) als Wirk-   Anzeige eines Hinweistextes für den Arzt  In dem Unterelement    Anzeigen des Hinweistextes und Controllingfunktion fachgruppenspezifisch möglich  Es besteht die Möglichkeit, den Hinweistext und/oder die Quote(n) auf alle Ärzte, oder nur auf   und 7.3.8.3).   Anhand der von der Landesebene definierten Fachgruppennummer(n) und/oder der Fach- Wenn für bestimmte Fachgruppen eine Controllingfunktion (Definition der Quote) und ein Hin- Werden keine Angaben zum „fachgruppenintervall“ oder der „fachgruppennummer“ gemacht |
+|  | ***und sollten nach Möglichkeit durch ********</hoechstquotenregelung*****Tabelle 62 – Erläuterung „hoechstquotenregelung“** Beliebig viele Höchstquotenregelungen können mit der vorliegenden Schnittstelle abgebildet  Sofern von der Landesebene gewünscht, können die Verordnungsalternative(n) als Wirk-  **Anzeige eines Hinweistextes für den Arzt ** In dem Unterelement   **Anzeigen des Hinweistextes und Controllingfunktion fachgruppenspezifisch möglich ** Es besteht die Möglichkeit, den Hinweistext und/oder die Quote(n) auf alle Ärzte, oder nur auf   und 7.3.8.3).   Anhand der von der Landesebene definierten Fachgruppennummer(n) und/oder der Fach- Wenn für bestimmte Fachgruppen eine Controllingfunktion (Definition der Quote) und ein Hin- Werden keine Angaben zum „fachgruppenintervall“ oder der „fachgruppennummer“ gemacht |
 |  |  |
-| </hoechstquote_verordnungen und sollten nach Möglichkeit durch    </hoechstquotenregelung | |
+| *****</hoechstquote_verordnungen und sollten nach Möglichkeit durch ********</hoechstquotenregelung*** | |
 
 (ARV)
 
@@ -2391,9 +2383,9 @@ Das Element „hoechstquotenregelung“ hat folgenden Aufbau: (ARV)
 
 ---
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <verordnungsalternative> |
+| ***example*** | ***<verordnungsalternative> ***** |
 | Bei Berechnung der individuellen Verordnungsquote (Controlling) ist der Quotient aus der | |
 
 (ARV)
@@ -2407,7 +2399,7 @@ Summe aller verordneten betroffenen Präparate (Höchstquotenpräparate) im Zäh
 |  |  |
 |---|---|
 |  |  |
-| </verordnungsalternative> | |
+| ***</verordnungsalternative>*** | |
 
 **Tabelle 63 – Erläuterung „hoechstquotenregelung /verordnungsalternative“**
 
@@ -2419,9 +2411,9 @@ niert werden.
 
 Das Element hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <fachgruppenquote>                </fachgruppenquote |
+| ***example*** | ***<fachgruppenquote> ********</fachgruppenquote*** |
 
 <fachgruppenintervall intervall_start="2" intervall_stop="2" /> <hoechstquote_ddd V ="0.0"> <pzn V="String"> <ddd_je_packung V="0.0"/> </pzn> </hoechstquote_ddd> <warnhinweis_ersetzung V="String"/> zu verordnenden Präparate defi-
 
@@ -2446,12 +2438,12 @@ Bitte beachten Sie, dass alle PZN und die dazugehörigen DDD von der Landesebene
 
 Das Element hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attribute | Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required |
-| pzn | Name    Type    Use    Default    Fixed    Annotation  V  xs:string  required |
-| ddd_je_packung | Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required |
-| example | <hoechstquote_ddd V="0.0">        </hoechstquote_ddd> |
+| ***attribute*** | ***Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required ***** |
+| ***pzn*** | ***Name    Type    Use    Default    Fixed    Annotation  V  xs:string  required   ***** |
+| ***ddd_je_packung*** | ***Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required ***** |
+| ***example*** | ***<hoechstquote_ddd V="0.0"> ********</hoechstquote_ddd>*** |
 
 **Tabelle 65 – Erläuterung „hoechstquotenregelung/fachgruppenquote/hoechstquote_ddd“**
 
@@ -2471,10 +2463,10 @@ Soll sich das Controlling auf Basis Verordnungen auf eine definierte Arzneimitte
 
 Das Element hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attribute | Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required |
-| example | < hoechstquote_verordnungen <pzn einschluss="true" V="String"></pzn>  </hoechstquote_verordnungen |
+| ***attribute*** | ***Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required   ***** |
+| ***example*** | ***< hoechstquote_verordnungen <pzn einschluss="true" V="String"></pzn>  </hoechstquote_verordnungen*** |
 
 **Tabelle 66 – Erläuterung „hoechstquotenregelung/fachgruppenquote/ hoechstqu** **te_verordnungen“**
 
@@ -2493,10 +2485,10 @@ Soll sich das Controlling auf Basis Bruttoumsatz auf eine definierte Arzneimitte
 
 Das Element hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attribute | Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required |
-| example | < hoechstquote_bruttoumsatz <pzn V="String"></pzn>  </hoechstquote_bruttoumsatz |
+| ***attribute*** | ***Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required ***** |
+| ***example*** | ***< hoechstquote_bruttoumsatz <pzn V="String"></pzn>  </hoechstquote_bruttoumsatz*** |
 
 **Tabelle 67 – Erläuterung „hoechstquotenregelung/fachgruppenquote/hoechstquote_verordnun**
 
@@ -2512,22 +2504,22 @@ V="0.0">
 
 (ARV)
 
-| example | <biosimilarquotenregelung |  | </biosimilarquotenr_liste Tabelle 68 – Erläuterung „biosimilarquotenr_liste“  Das optionale Element „biosimilarquotenr_liste Das Element „biosimilarquotenregelung“ hat folgenden Aufbau:  diagram    example  <biosimilarquotenregelung |
+| ***example*** | ***<biosimilarquotenregelung***** | ** | *****</biosimilarquotenr_liste*****Tabelle 68 – Erläuterung „biosimilarquotenr_liste“ ** Das optionale Element „biosimilarquotenr_liste Das Element „biosimilarquotenregelung“ hat folgenden Aufbau: ***diagram ********example  <biosimilarquotenregelung***** |
 |---|---|---|---|
-| 7.8 biosimilarquotenr_liste  Das Element „biosimilarquotenr_liste“ hat folgenden Aufbau:  diagram     example  <biosimilarquotenr_liste prioritaet="1"> | | | |
+| **7.8 biosimilarquotenr_liste ** Das Element „biosimilarquotenr_liste“ hat folgenden Aufbau: ***diagram ********example  <biosimilarquotenr_liste prioritaet="1"> ***** | | | |
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <biosimilarquotenr_liste prioritaet="1">                                                                  </biosimilarquotenr_liste |
+| ***example*** | ***<biosimilarquotenr_liste prioritaet="1"> ********</biosimilarquotenr_liste***** |
 
 <biosimilarquotenregelung </biosimilarquotenregelung <biosimilarquotenregelung </biosimilarquotenregelung “ enthält mindestens ein Element „biosimilar- quotenregelung“. Zum Attribut „prioritaet“ siehe Abschnitt 7.3. <pzn einschluss="true" V="String"> <ddd_je_packung V="0.0"/> </pzn> <biosimilar>
 
 
 ---
 
-|  | <fachgruppenquote> | specific | <biosimilarquotenregelung     <biosimilar>                <fachgruppenquote>            </biosimilarquotenregelung |
+| ** | *****<fachgruppenquote> ***** | ***specific*** | ***<biosimilarquotenregelung********<biosimilar> ********<fachgruppenquote> ********</biosimilarquotenregelung*** |
 |---|---|---|---|
-| </biosimilarquotenregelung | | | |
+| *****</biosimilarquotenregelung*** | | | |
 
 **Tabelle 69 – Erläuterung „biosimilarquotenregelung“**
 
@@ -2604,9 +2596,9 @@ Zum anderen findet sich hier noch das optionale Element „fachgruppenquote“ (
 
 Das Element „biosimilar“ hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <biosimilar>                >  </biosimilar> |
+| ***example*** | ***<biosimilar> ********>  </biosimilar>*** |
 
 **Tabelle 70 – Erläuterung „biosimilarquotenregelung/biosimilar**
 
@@ -2632,9 +2624,9 @@ Siehe 7.3.3.
 
 Das Element hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <fachgruppenquote>        > |
+| ***example*** | ***<fachgruppenquote> ********>*** |
 
 **Tabelle 71 – Erläuterung „biosimilarquotenregelung/biosimilar**
 
@@ -2652,10 +2644,10 @@ Das Element „quote_biosimilar_ddd“ steht innerhalb einer „choice“-Defini
 
 Das Element hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attribute | Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required |
-| example <quote_biosimilar_ddd | V="0.0"/> |
+| ***attribute*** | ***Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required ***** |
+| ***example <quote_biosimilar_ddd*** | ***V="0.0"/>*** |
 
 **Tabelle 72 – Erläuterung „biosimilarquotenreg** **milar_ddd“**
 
@@ -2676,10 +2668,10 @@ Das Element „quote_biosimilar_verordnungen“ steht innerhalb einer „choice�
 
 Das Element hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attribute | Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required |
-| example <quote_biosimilar_verordnungen | V="0.0"/> |
+| ***attribute*** | ***Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required ***** |
+| ***example <quote_biosimilar_verordnungen*** | ***V="0.0"/>*** |
 
 **Tabelle 73 – Erläuterung „biosimilarquotenregelung/biosimilar/fachgruppenquote/quote_bio** **similar_verordnungen“**
 
@@ -2689,10 +2681,10 @@ Das Element „quote_biosimilar_verordnungen“ steht innerhalb einer „choice�
 
 Das Element hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attribute | Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required |
-| example <quote_biosimilar_bruttoumsatz | V="0.0"/> |
+| ***attribute*** | ***Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required ***** |
+| ***example <quote_biosimilar_bruttoumsatz*** | ***V="0.0"/>*** |
 
 **Tabelle 74 – Erläuterung „biosimilarquotenregelung/biosimilar/fachgruppenquote/quote_bio** **similar_bruttoumsatz“**
 
@@ -2723,9 +2715,9 @@ Somit bekommt der Arzt nur die für ihn relevante Informationen.
 
 Das Element „infomassnahmen_liste“ hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <infomassnahmen_liste prioritaet="1">                                                                  </infomassnahmen_liste> |
+| ***example*** | ***<infomassnahmen_liste prioritaet="1"> ********</infomassnahmen_liste>*** |
 
 **Tabelle 75 – Erläuterung „infomassnahmen_liste“**
 
@@ -2739,22 +2731,22 @@ Das optionale Element „infomassnahmen_liste“ enthält mindestens ein Element
 
 (ARV)
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <infomassnahmenregelung>                                      </infomassnahmenregelung> |
-| specific | <infomassnahmenregelung>  <handelsname einschluss="true" V="="Indomet- |
-| Das Element „infomassnahmenregelung“ hat folgenden Aufbau:  diagram    example  <infomassnahmenregelung> | |
+| ***example*** | ***<infomassnahmenregelung> *****    **  *****</infomassnahmenregelung>*** |
+| ***specific*** | ***<infomassnahmenregelung>  <handelsname einschluss="true" V="="Indomet-*** |
+| Das Element „infomassnahmenregelung“ hat folgenden Aufbau: ***diagram ********example  <infomassnahmenregelung>*** | |
 
 <pzn einschluss="true" V="String"> <ddd_je_packung V="0.0"/> </pzn> <warnhinweis_pvs V="String"/> <verweis_dokument V="String"/> <bedingungs_liste> <bedingung einschluss="true"> <altersgrenze <von V="6"/> <bis V="18"/> <unit V="J"/> </altersgrenze> <geschlecht V=“1“ S=“1.2.276.0.76.5.232“/> <fachgruppen_liste <fachgruppennummer V="2"/> </fachgruppen_liste> </bedingung> </bedingungs_liste> ratiopharm 25 mg Hartkapseln"/>
 
 
 ---
 
-|  |  |
+| ** | ** |
 |---|---|
-|  | </infomassnahmenregelung>  Tabelle 76 – Erläuterung „infomassnahmenregelung“  Es können beliebig viele Infomaßnahmenregelungen existieren, für jede wird ein Element an- Es können ein oder mehrere Unterelemente „verweis_dokument“ vorhanden sein. Dieses  Falls eine Information abhängig von Alter und/oder Geschlecht des Patienten und/oder der  Falls die Information unabhängig von Alter und Geschlecht des Patienten oder der Fachgrup- 7.9.1 Siehe 7.3.1.  7.9.2 Siehe 7.3.2.  7.9.3 Siehe 7.3.3.  7.9.4 Siehe 7.3.4. |
-|  | 7.9.5 |
-| aufgeführt."/>                </infomassnahmenregelung> | |
+| ** | ***</infomassnahmenregelung> *****Tabelle 76 – Erläuterung „infomassnahmenregelung“ ** Es können beliebig viele Infomaßnahmenregelungen existieren, für jede wird ein Element an- Es können ein oder mehrere Unterelemente „verweis_dokument“ vorhanden sein. Dieses  Falls eine Information abhängig von Alter und/oder Geschlecht des Patienten und/oder der  Falls die Information unabhängig von Alter und Geschlecht des Patienten oder der Fachgrup-**7.9.1** Siehe 7.3.1. **7.9.2** Siehe 7.3.2. **7.9.3** Siehe 7.3.3. **7.9.4** Siehe 7.3.4. |
+|  | **7.9.5** |
+| ***aufgeführt."/> ********</infomassnahmenregelung>*** | |
 
 Siehe 7.3.5.
 
@@ -2794,9 +2786,9 @@ Das Unterverzeichnis, welches die Dokumente enthält, wird zusammen mit der ARV-
 
 **7.9.10** **bedingungs_liste**
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <bedingungs_liste>                    </bedingungs_liste> |
+| ***example*** | ***<bedingungs_liste> *****  *****</bedingungs_liste>*** |
 
 **Tabelle 77: Erläuterung „infomassnahmenregelung/bedingungs_liste“**
 
@@ -2806,10 +2798,10 @@ Das Unterverzeichnis, welches die Dokumente enthält, wird zusammen mit der ARV-
 
 ---
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <bedingung einschluss="true">    <von V="65"/> |
-| Das Element „bedingungs_liste“ ist optional. Wenn keine Bedingungsliste angegeben ist,    7.9.10.1  diagram | |
+| ***example*** | ***<bedingung einschluss="true"> ********<von V="65"/>*** |
+| Das Element „bedingungs_liste“ ist optional. Wenn keine Bedingungsliste angegeben ist,   **7.9.10.1 *****diagram*** | |
 
 (ARV)
 
@@ -2817,10 +2809,10 @@ dann werden Warnhinweise bzw. die verlinkten Dokumente immer beim Verordnen der 
 
 ---
 
-| </bedingung> | Das Element „bedingung“ kann optional ein Element bezüglich der Altersgrenze und/oder ein |
+| ***</bedingung>*** | Das Element „bedingung“ kann optional ein Element bezüglich der Altersgrenze und/oder ein |
 |---|---|
 | Das Element „altersgrenze“ ist aufgebaut wie folgt: |  |
-| </bedingung> | |
+| *****</bedingung>*** | |
 
 (ARV)
 
@@ -2830,9 +2822,9 @@ dann werden Warnhinweise bzw. die verlinkten Dokumente immer beim Verordnen der 
 
 (ARV)
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <altersgrenze>        </altersgrenze> |
+| ***example*** | ***<altersgrenze> ********</altersgrenze>*** |
 
 **Tabelle 79 – Erläuterung „infomassnahmenregelung/bedingungs_liste/bedingung/altersgrenze“**
 
@@ -2848,10 +2840,10 @@ o-
 
 ---
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attribute | Name    Type    Use    Default    Fixed    V  nonNegativeInteger_typ  required |
-| example <von V="65"/> |  |
+| ***attribute*** | ***Name    Type    Use    Default    Fixed    V  nonNegativeInteger_typ  required ***** |
+| ***example <von V="65"/>*** |  |
 
 **Tabelle 80 - Erläuterung**  **„infomassnahmenregelung/bedingungs_liste/bedingung/altersgrenze/von“**
 
@@ -2863,10 +2855,10 @@ Das Element „bis“ ist äquivalent aufgebaut wie das Element „von“.
 
 Die Angabe des Elements „unit“ ist im Element „altersgrenze“ verpflichtend. Es muss genau  einmal innerhalb des Elements „altersgrenze“ vorkommen und muss im Attribut V einen der  Werte T (Tag), W (Woche), M (Monat), J (Jahr)
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| attribute | Name    Type    Use    Default    Fixed    V  zeit_einheit_value  T, W, M, J  required |
-| example <unit V="J"/> |  |
+| ***attribute*** | ***Name    Type    Use    Default    Fixed    V  zeit_einheit_value  T, W, M, J  required ***** |
+| ***example <unit V="J"/>*** |  |
 
 ##### bis
 
@@ -2891,9 +2883,9 @@ haben.
 
 **Das Element hat folgenden Aufbau:**
 
-| Diagram |  |
+| ***Diagram*** | ** |
 |---|---|
-| Example <geschlecht V="1" S="1.2.276.0.76.5.232"/> |  |
+| ***Example <geschlecht V="1" S="1.2.276.0.76.5.232"/>*** |  |
 
 **Tabelle 82 – Erläuterung „infomassnahmenregelung/bedingungs_liste/bedingung/geschlecht“**
 
@@ -2901,9 +2893,9 @@ haben.
 
 Das Element „fachgruppen_liste“ ist wie folgt aufgebaut:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <fachgruppen_liste   </fachgruppen_liste> |
+| ***example*** | ***<fachgruppen_liste***  ***</fachgruppen_liste> ***** |
 
 **Tabelle 83 – Erläuterung „infomassnahmenreg** **lung/bedingungs_liste/bedingung/fachgruppen_liste“**
 
@@ -2930,9 +2922,9 @@ Es ist möglich, das Anzeigen der Hinweise zu Behandlungsalternativen an Bedingu
 
 Das Element „behandlungsalternativen_liste“ hat folgenden Aufbau:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <behandlungsalternativen_                                                                 </ behandlungsalternativen |
+| ***example*** | ***<behandlungsalternativen_********</ behandlungsalternativen*** |
 
 **Tabelle 84 – Erläuterung „behandlungsalternativen_liste“**
 
@@ -2946,10 +2938,10 @@ liste prioritaet="1"> < behandlungsalternativen regelung> < behandlungsalternati
 
 (ARV)
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <behandlungsalternativenregelung           </behandlungsalternativenregelung |
-| specific | <behandlungsalternativenregelung         </behandlungsalternativenregelung |
+| ***example*** | ***<behandlungsalternativenregelung********</behandlungsalternativenregelung*** |
+| ***specific*** | ***<behandlungsalternativenregelung********</behandlungsalternativenregelung*** |
 
 **Tabelle 85 – Erläuterung „behandlungsalternativenregelung**
 
@@ -2971,31 +2963,49 @@ Siehe 7.3.2.
 
 (ARV)
 
-|  | **7.10.3** | **standardaggregat** |
-|---|---|---|
-| Siehe | 7.3.3. |  |
-|  | **7.10.4** | **wirkstoff** |
-| Siehe | 7.3.4. |  |
-|  | **7.10.5** | **atc5** |
-| Siehe | 7.3.5. |  |
-|  | **7.10.6** | **wirkstoffgruppe** |
-| Siehe | 7.3.6. |  |
-|  | **7.10.7** | **atc4** |
-| Siehe | 7.3.7. |  |
-|  | **7.10.8** | **warnhinweis_pvs** |
-| Siehe | 7.3.8.7. |  |
-|  | **7.10.9** | **verweis_dokument** |
-| Siehe | 7.10.9. |  |
-|  | **7.10.10** | **bedingungs_liste** |
-| Siehe | 7.10.10. |  |
-|  | **7.10.10.1** | **bedingung** |
-| Siehe |  | 7.10.10.1. |
-|  | **7.10.10.2** | **altersgrenze** |
-| Siehe |  | 7.10.10.2. |
-|  | **7.10.10.3** | **geschlecht** |
-| Siehe |  | 7.10.10.3. |
+### 7.10.3 standardaggregat
 
-Siehe 7.3.3. Siehe 7.3.4. Siehe 7.3.5. Siehe 7.3.6. Siehe 7.3.7. Siehe 7.3.8.7. Siehe 7.10.9. Siehe 7.10.10. Siehe 7.10.10.1. Siehe 7.10.10.2. Siehe 7.10.10.3.
+Siehe 7.3.3.
+
+### 7.10.4 wirkstoff
+
+Siehe 7.3.4.
+
+### 7.10.5 atc5
+
+Siehe 7.3.5.
+
+### 7.10.6 wirkstoffgruppe
+
+Siehe 7.3.6.
+
+### 7.10.7 atc4
+
+Siehe 7.3.7.
+
+### 7.10.8 warnhinweis_pvs
+
+Siehe 7.3.8.7.
+
+### 7.10.9 verweis_dokument
+
+Siehe 7.10.9.
+
+### 7.10.10 bedingungs_liste
+
+Siehe 7.10.10.
+
+#### 7.10.10.1 bedingung
+
+Siehe 7.10.10.1.
+
+#### 7.10.10.2 altersgrenze
+
+Siehe 7.10.10.2.
+
+#### 7.10.10.3 geschlecht
+
+Siehe 7.10.10.3.
 
 
 ---
@@ -3006,9 +3016,9 @@ Das Element <iww_liste> beinhaltet eine Liste von IWW-Listen. Die enthaltenen In
 
 Das XML-Element kann das Attribut „prioritaet“ besitzen. Ebenso muss das Element mindes- tens ein Kindelement <iww.liste> besitzen Dieses Kindelement kann n-fach vorhanden sein.
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <iww_liste prioritaet=“….“>                                  </iww_liste> |
+| ***example*** | ***<iww_liste prioritaet=“….“> ********</iww_liste>*** |
 
 ### 7.11.1 iwwliste
 
@@ -3028,9 +3038,9 @@ Das Element muss mindestens ein Kindelement <verordnungen> besitzen. Dieses Kind
 
 ---
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <iwwliste iww_klassifikation=“….“>          <verordnungen>              </iwwliste> |
+| ***example*** | ***<iwwliste iww_klassifikation=“….“> ********<verordnungen> ********</iwwliste>*** |
 
 #### 7.11.1.1 service_tmr
 
@@ -3052,9 +3062,9 @@ Das Element <bedingungs_liste> kann eine Reihe von Bedingungen enthalten.
 
 (ARV)
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <bedingungs_liste>                                                 </bedingungs_liste> |
+| ***example*** | ***<bedingungs_liste> ********</bedingungs_liste>*** |
 
 ##### 7.11.1.3.1
 
@@ -3064,9 +3074,9 @@ Das Element <bedingung> kann das optionale Attribut „einschluss“ enthalten.
 
 Das XML-Element kann die folgenden optionalen Kindelemente enthalten:
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <bedingung einschluss=“true“>                         </bedingung> |
+| ***example*** | ***<bedingung einschluss=“true“>********</bedingung>*** |
 
 ##### bedingung - <altersgrenze>
 
@@ -3080,17 +3090,17 @@ Das XML-Element kann die folgenden optionalen Kindelemente enthalten:
 
 ---
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
 |  |  |
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <iww_indikationen>        </iww> |
+| ***example*** | ***<iww_indikationen> ********</iww>***** |
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <indikation   </indikation |
+| ***example*** | ***<indikation********</indikation*** |
 
 (ARV)
 
@@ -3098,9 +3108,9 @@ Das XML-Element kann die folgenden optionalen Kindelemente enthalten:
 
 ---
 
-| . | 7.11.1.4 |
+| . | **7.11.1.4** |
 |---|---|
-| example | <fachgruppen_liste>            <fachgruppennummer  </fachgruppen_liste> |
+| ***example*** | ***<fachgruppen_liste>            <fachgruppennummer  </fachgruppen_liste>*** |
 
 Das XML-Element <verordnungen> bildet die betroffenen Präparate der IWW-Regelung ab.
 
@@ -3132,9 +3142,9 @@ V=“14“ /> 7.11.1.3.1.2.1 fachgruppenintervall Das Element <fachgruppeninterv
 
 ---
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <verordnungen verschreibungspflicht       <pzn>                  </pzn>        <handelsname>                  </handelsname>        <standardaggregat>                  </standardaggregat>        <wirkstoff>                  </wirkstoff>        <atc5>                  </atc5>        <wirkstoffgruppe>           …        </wirkstoffgruppe>        <atc4>                  </atc4>        <verordnungsalternative>                  </verordnungsalternative>        <verweis_dokument V="…"/>  </verordnungen> |
+| ***example*** | ***<verordnungen verschreibungspflicht       <pzn> ********</pzn>        <handelsname> ********</handelsname>        <standardaggregat> ********</standardaggregat>        <wirkstoff> ********</wirkstoff>        <atc5> ********</atc5>        <wirkstoffgruppe>           …        </wirkstoffgruppe>        <atc4> ********</atc4>        <verordnungsalternative> ********</verordnungsalternative>        <verweis_dokument V="…"/>  </verordnungen>*** |
 
 (ARV)
 
@@ -3193,9 +3203,9 @@ Ebenso kann das XML-Element die optionalen Kindelemente <darreichungsform> und  
 
 ---
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <atc5 V=“… " einschluss=“… " bezeichnung=“… " iww_kategorie=“… " >        <darreichungsform>                  </darreichungsform>        <iww_anmerkung>                  </iww_anmerkung>  </atc5> |
+| ***example*** | ***<atc5 V=“… " einschluss=“… " bezeichnung=“… " iww_kategorie=“… " >        <darreichungsform> ********</darreichungsform>        <iww_anmerkung> ********</iww_anmerkung>  </atc5>*** |
 
 ###### 7.11.1.4.7.1 darreichungsform
 
@@ -3210,9 +3220,9 @@ Mit dem Element <darreichungsform> kann eine Einschränkung auf bestimmte Darrei
 
 ---
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <darreichnungsform V="PFL" S="1.2.276.0.76.3.1.1.5.2.15" einschluss=“false" /> |
+| ***example*** | ***<darreichnungsform V="PFL" S="1.2.276.0.76.3.1.1.5.2.15" einschluss=“false" />*** |
 
 ###### 7.11.1.4.7.2 iww_anmerkung
 
@@ -3220,9 +3230,9 @@ Das XML-Element <iww_anmerkung> enthält für den ATC5-Code einen Hinweistext un
 
 Das Attribut „V“ enthält dabei den Hinweistext. Mit dem optionalen Kindelement <link> werden  die im „V“ aufgeführten Alternativen abgebildet.
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <iww_anmerkung V="Metformin und Glibenclamid: Reserve bei Diabetes mellitus Typ 2. Standard: =>Metformin       <link>            …..        </link>       <link>                </link>       …..  </iww_anmerkung> |
+| ***example*** | ***<iww_anmerkung V="Metformin und Glibenclamid: Reserve bei Diabetes mellitus Typ 2. Standard: =>Metformin       <link>            ….. ********</link>       <link> ********</link>       …..  </iww_anmerkung>*** |
 
 - ***7.11.1.4.7.2.1 link***
 
@@ -3242,9 +3252,9 @@ und/oder =>Insulin.">
 
 ---
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <link atc="A10AB01" beschreibung="Insulin" iww_kategorie="…">       <darreichungsform>            …..       </darreichungsform>       …..  </link> |
+| ***example*** | ***<link atc="A10AB01" beschreibung="Insulin" iww_kategorie="…">       <darreichungsform>            …..       </darreichungsform>       …..  </link>*** |
 
 - **7.11.1.4.7.2.1.1 darreichungsform**
 
@@ -3271,9 +3281,9 @@ Ebenso muss es mindestens eines der folgenden Kindelemente enthalten: - <pzn> un
 
 ---
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <verordnungsalternative>        <pzn>                  </pzn>        <handelsname>                  </handelsname>        <standardaggregat>                  </standardaggregat>        <wirkstoff>                  </wirkstoff>        <atc5>                  </atc5>  </verordnungsalternative> |
+| ***example*** | ***<verordnungsalternative>        <pzn> ********</pzn>        <handelsname> ********</handelsname>        <standardaggregat> ********</standardaggregat>        <wirkstoff> ********</wirkstoff>        <atc5> ********</atc5>  </verordnungsalternative>*** |
 
 ###### 7.11.1.4.8.1 pzn
 
@@ -3310,9 +3320,9 @@ Das Element <iwwder_indikationsbaum> beinhaltet die hierarchische Struktur  Indi
 
 Eine einzelne Indikation beinhaltet Angaben zu bevorzugten Wirkstoffen im Kontext der jewei- ligen Indikation.
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <iww_indikationsbaum>                                  </iww_indikationsbaum |
+| ***example*** | ***<iww_indikationsbaum> ********</iww_indikationsbaum*** |
 
 ### 7.12.1 kapitel
 
@@ -3332,15 +3342,15 @@ Das Element <kapitel> enthält immer das Kindelement <text>.
 
 ---
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <kapitel>                                                                                                                                  </kapitel> |
+| ***example*** | ***<kapitel> ********</kapitel> ***** |
 
 #### 7.12.1.1
 
 Das Element <text> enthält immer den Namen der Indikation.
 
-| example | <text>  neuropsychiatrische Störungen  </text> |
+| ***example*** | ***<text>  neuropsychiatrische Störungen  </text>*** |
 |---|---|
 
 #### 7.12.1.2 anmerkung
@@ -3354,14 +3364,14 @@ Das optionale Element <anmerkung> kann Anmerkungen zu einer Indikation enthalten
 
 (ARV)
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <anmerkung>  Nähere Erläuterung zu neuropsychiatrische </anmerkung> |
+| ***example*** | ***<anmerkung>  Nähere Erläuterung zu neuropsychiatrische </anmerkung>*** |
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <wirkstoff bezeichnung="Metformin und Glibenclamid      <iww_anmerkung> |
-| diagram     example  <anmerkung>  Nähere Erläuterung zu neuropsychiatrische </anmerkung>    7.12.1.3  Das Element <wirkstoff> beschreibt die Wirkstoffe, die bei einer Indikation angewendet wer- | |
+| ***example*** | ***<wirkstoff bezeichnung="Metformin und Glibenclamid      <iww_anmerkung>*** |
+| ***diagram ********example  <anmerkung>  Nähere Erläuterung zu neuropsychiatrische </anmerkung> ***  **7.12.1.3 ** Das Element <wirkstoff> beschreibt die Wirkstoffe, die bei einer Indikation angewendet wer- | |
 
 n Störungen den sollen. Es besitzt die verpflichtenden Attribute „bezeichnung“ und „iww_kategorie“ sowie das optionale Attribut „iww_anmerkung“. Die Attribute haben die folgende Bedeutung:  „bezeichnung“, Bezeichnung des Wirkstoffes „iww_kategorie“, IWW-Kategorie des entsprechenden Wirkstoffes  Das Element <wirkstoff> kann die folgenden optionalen Kindelemente besitzen: <iww_anmerkung>, Auftreten bis n-fach <darreichungsform>, Auftreten bis n-fach <atc>, Auftreten bis n-fach <verweis_dokument>, Auftreten bis n-fach " iww_kategorie=“2“ >
 
@@ -3371,7 +3381,7 @@ n Störungen den sollen. Es besitzt die verpflichtenden Attribute „bezeichnung
 | - |  |
 |---|---|
 |  | - |
-| </iww_anmerkung >       <darreichnungsform>            ….       </darreichnungsform      <atc>            ….       </atc>       <verweis_dokument V="..." />  </wirkstoff> | |
+| *****</iww_anmerkung >       <darreichnungsform>            ….       </darreichnungsform      <atc>            ….       </atc>       <verweis_dokument V="..." />  </wirkstoff>*** | |
 
 ##### 7.12.1.3.1
 
@@ -3387,16 +3397,16 @@ Das Element kann das Kindelement <darreichungsform> 0 bis n-fach enthalten.
 
 (ARV)
 
-abgebildet.  diagram  example <iww_anmerkung V="Metformin und Glibenclamid: Reserve bei Diabetes mellitus Typ 2. Standard: =>Metformin und/oder =>Insulin.">      <link>           …..     </link>      <link> …..     </link>      ….. </iww_anmerkung> link „atc“, ATC-Code des alternativen Wirkstoffes „beschreibung“, Beschreibung des alternativen Wirkstoffes „iww_kategorie“ (optional), gibt die IWW-Kategorie des alternativen Wirkstoffes an | diagram |  |
+abgebildet.  diagram  example <iww_anmerkung V="Metformin und Glibenclamid: Reserve bei Diabetes mellitus Typ 2. Standard: =>Metformin und/oder =>Insulin.">      <link>           …..     </link>      <link> …..     </link>      ….. </iww_anmerkung> link „atc“, ATC-Code des alternativen Wirkstoffes „beschreibung“, Beschreibung des alternativen Wirkstoffes „iww_kategorie“ (optional), gibt die IWW-Kategorie des alternativen Wirkstoffes an | ***diagram*** | ** |
 |---|---|
-| example | <iww_anmerkung V="Metformin und Glibenclamid: Reserve bei Diabetes mellitus Typ 2. Standard: =>Metformin       <link>            …..        </link>       <link>                </link>       …..  </iww_anmerkung> |
+| ***example*** | ***<iww_anmerkung V="Metformin und Glibenclamid: Reserve bei Diabetes mellitus Typ 2. Standard: =>Metformin       <link>            ….. ********</link>       <link> ********</link>       …..  </iww_anmerkung>*** |
 
 
 ---
 
 (ARV)
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
 
 ***<link atc="A10AB01" beschreibung="Insulin" iww_kategorie="…">***
@@ -3451,9 +3461,9 @@ Kategorien.
 
 Es besitzt das Kindelement <kategorie>.
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <iww_kategorien>      <kategorie>                </kategorie>  </iww_kategorien> |
+| ***example*** | ***<iww_kategorien>      <kategorie> ********</kategorie>  </iww_kategorien>*** |
 
 ### 7.13.1 kategorie
 
@@ -3467,9 +3477,9 @@ Es besitzt die folgenden Attribute:
 
 - „color“, die farbliche Kodierung der IWW-Kategorie
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <kategorie V=“1“ beschreibung=“oberste Hierachie“ color=“red“ /> |
+| ***example*** | ***<kategorie V=“1“ beschreibung=“oberste Hierachie“ color=“red“ />*** |
 
 …..
 
@@ -3509,9 +3519,9 @@ Es besitzt die folgenden Attribute:
 
 ---
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | anmerkungen_bezeichnung |
+| ***example*** | ***anmerkungen_bezeichnung*** |
 
 (ARV)
 
@@ -3521,14 +3531,14 @@ Es besitzt die folgenden Attribute:
 
 (ARV)
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <kombi_verordnungsziel V=“….“ DN=“….“ > |
-| 7.15  Mithilfe des XML-Elementes <kombi_verordnungsziel_liste> können sogenannte Ziele im  Dieses Element enthält mindestens ein Kindelement <kombi_verordnungsziel>.  diagram     example  <kombi_verordnungsziel_liste prioritaet=“….“> | |
+| ***example*** | ***<kombi_verordnungsziel V=“….“ DN=“….“ > ***** |
+| **7.15 ** Mithilfe des XML-Elementes <kombi_verordnungsziel_liste> können sogenannte Ziele im  Dieses Element enthält mindestens ein Kindelement <kombi_verordnungsziel>. ***diagram ********example  <kombi_verordnungsziel_liste prioritaet=“….“>*** | |
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <kombi_verordnungsziel_liste prioritaet=“….“>                                  </kombi_verordnungsziel_liste> |
+| ***example*** | ***<kombi_verordnungsziel_liste prioritaet=“….“> ********</kombi_verordnungsziel_liste>*** |
 
 <kombi_verordnungsziel > Rahmen der Arzneimittelverordnung abgebildet werden.   7.15.1 Das XML-Element <kombi_verordnungsziel> repräsentiert eine Zielvereinbarung.  In dem Attribute „V“ steht die Nummer der Zielvereinbarung und im optionalen Attribute „DN“ kann die Bezeichnung der Zielvereinbarung stehen. Das Element besitzt immer die Kindelemente <ziel_art>, <pzn_liste> sowie <warnhin- weis_pvs> und es kann die optionale Kindelemente <bedingung> und <verweis_dokument> enthalten. <ziel_art V=“….“ DN=“….“/> <pzn_liste>
 
@@ -3536,14 +3546,14 @@ Es besitzt die folgenden Attribute:
 
 (ARV)
 
-| Es besitzt mindestens ein Kindelement <pzn>. | diagram |
+| Es besitzt mindestens ein Kindelement <pzn>. | ***diagram*** |
 |---|---|
-|  | example  <pzn_liste>        <pzn> |
-| </ kombi_verordnungsziel> | |
+| ** | ***example  <pzn_liste>        <pzn>*** |
+| *****</ kombi_verordnungsziel>*** | |
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <pzn_liste>        <pzn>             ….        </pzn>     </pzn_liste> |
+| ***example*** | ***<pzn_liste>        <pzn>             ….        </pzn>     </pzn_liste>*** |
 
 ##### 7.15.1.2.1 pzn
 
@@ -3553,16 +3563,16 @@ Das Element besitzt immer die Kindelemente <erwuenscht> sowie <rabatt_gueltig>.
 
 </pzn_liste> <bedingung > </bedingung> <warnhinweis_pvs V=“….“ /> <verweis_dokument V=“….“ /> 7.15.1.1 ziel_art Mit dem XML-Element <ziel_art> wird beschrieben um, welche Art des Zieles es sich handelt. In dem Attribute „V“ steht immer das Kürzel der Zielart und im optionalen Attribute „DN“ kann die Bezeichnung der Zielart stehen.  <ziel_art V=“G“ DN=“Generika-Ziel“ /> 7.15.1.2 Das XML-Element <pzn_liste> umschließt immer die von einer Zielvereinbarung betroffenen PZNs.
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <ziel_art V=“G“ DN=“Generika-Ziel“ /> |
+| ***example*** | ***<ziel_art V=“G“ DN=“Generika-Ziel“ />*** |
 
 
 ---
 
-| diagram |  |
+| ***diagram*** | ** |
 |---|---|
-| example | <pzn V=“…“ >        <erwuenscht V=“…“ />           <rabatt_gueltig V=“…“ />     </pzn > |
+| ***example*** | ***<pzn V=“…“ >        <erwuenscht V=“…“ />           <rabatt_gueltig V=“…“ />     </pzn > ***** |
 
 ##### 7.15.1.2.2
 
@@ -3570,7 +3580,7 @@ Das XML-Element <erwuenscht> definiert, ob die PZN im Rahmen der Verordnung, unt
 
 Das „V“ Attribut kann die Werte „false“ und „true“ besitzen.
 
-| example | <erwuenscht V=“…“ /> |
+| ***example*** | ***<erwuenscht V=“…“ />*** |
 |---|---|
 
 ##### 7.15.1.2.3 rabatt_gueltig
@@ -3705,7 +3715,7 @@ Diese Schlüsseltabelle enthält die zweistellige Fachgruppencodierung für die 
 
 # 9 Referenzierte Dokumente
 
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 |---|---|
 | [EXT_ITA_VGEX_Anfor | Anforderungskatalog nach § 73 SGB V für Verordnungssoftware |
 | [KBV_ITA_VGEX_eHD] | ehd – eHealthData Richtlinie: Grundstrukturen, Regeln und Namensgebung |

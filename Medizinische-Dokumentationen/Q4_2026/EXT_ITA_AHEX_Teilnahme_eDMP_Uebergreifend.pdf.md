@@ -278,10 +278,7 @@ geb. am
 
 Status
 
-### ten
-
-### tien
-
+### ten tien
 **a**
 
 Betriebsstätten-Nr Arzt-Nr

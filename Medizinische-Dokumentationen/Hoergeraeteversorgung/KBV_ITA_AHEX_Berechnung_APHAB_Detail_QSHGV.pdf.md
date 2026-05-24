@@ -11,13 +11,13 @@ A 1 2 3
 | | | | | | | | | |
 | | | | | | | | | |
 | | | | | | | | | |
-|  | APHAB Berechnungsvorschrift Detail | | | | | | | |
-|  | Fragebogen zur Bestimmung der individuellen Hörbehinderung mit Beispielantworten und errechneten Werten | | | | | | | |
+|  | **APHAB Berechnungsvorschrift Detail** | | | | | | | |
+|  | **Fragebogen zur Bestimmung der individuellen Hörbehinderung mit Beispielantworten und errechneten Werten** | | | | | | | |
 | | | | | | | | | |
-|  | Frage | VOR Hörgeräteversorgung | NACH Hörgeräteversorgung | Nutzen | | | | |
-|  | Ausfülldatum: |  | Ausfülldatum: | | | | | |
-|  | (A-G) | Beschreibung | Prozent | (A-G) | Beschreibung | Prozent | | |
-|  | 1 | a | immer | 1% | e | gelegentlich | 75% | 74% |
+|  | **Frage** | **VOR Hörgeräteversorgung** | **NACH Hörgeräteversorgung** | **Nutzen** | | | | |
+|  | **Ausfülldatum:** |  | **Ausfülldatum:** | | | | | |
+|  | **(A-G)** | **Beschreibung** | **Prozent** | **(A-G)** | **Beschreibung** | **Prozent** | | |
+|  | ***1*** | a | immer | 1% | e | gelegentlich | 75% | 74% |
 |  | 2 | c | häufig | 75% | b | fast immer | 87% | 12% |
 |  | 3 | a | immer | 99% | a | immer | 99% | 0% |
 |  | 4 | d | zur Hälfte | 50% | e | gelegentlich | 25% | -25% |
@@ -25,35 +25,35 @@ A 1 2 3
 |  | 6 | e | gelegentlich | 25% | f | selten | 12% | -13% |
 |  | 7 | b | fast immer | 87% | d | zur Hälfte | 50% | -37% |
 |  | 8 | c | häufig | 75% | b | fast immer | 87% | 12% |
-|  | 9 | e | gelegentlich | 75% | e | gelegentlich | 75% | 0% |
+|  | ***9*** | e | gelegentlich | 75% | e | gelegentlich | 75% | 0% |
 |  | 10 | c | häufig | 75% | d | zur Hälfte | 50% | -25% |
-|  | 11 | d | zur Hälfte | 50% | c | häufig | 25% | -25% |
+|  | ***11*** | d | zur Hälfte | 50% | c | häufig | 25% | -25% |
 |  | 12 | b | fast immer | 87% | e | gelegentlich | 25% | -62% |
 |  | 13 | c | häufig | 75% | c | häufig | 75% | 0% |
 |  | 14 | b | fast immer | 87% | c | häufig | 75% | -12% |
 |  | 15 | b | fast immer | 87% | c | häufig | 75% | -12% |
-|  | 16 | f | selten | 87% | d | zur Hälfte | 50% | -37% |
+|  | ***16*** | f | selten | 87% | d | zur Hälfte | 50% | -37% |
 |  | 17 | b | fast immer | 87% | b | fast immer | 87% | 0% |
 |  | 18 | c | häufig | 75% | f | selten | 12% | -63% |
-|  | 19 | f | selten | 87% | e | gelegentlich | 75% | -12% |
+|  | ***19*** | f | selten | 87% | e | gelegentlich | 75% | -12% |
 |  | 20 | a | immer | 99% | a | immer | 99% | 0% |
-|  | 21 | f | selten | 87% | c | häufig | 25% | -62% |
+|  | ***21*** | f | selten | 87% | c | häufig | 25% | -62% |
 |  | 22 | b | fast immer | 87% | a | immer | 99% | 12% |
 |  | 23 | c | häufig | 75% | b | fast immer | 87% | 12% |
 |  | 24 | g | nie | 1% | f | selten | 12% | 11% |
 | | | | | | | | | |
 | | | | | | | | | |
-|  | Gesamtbewertung und Nutzen/Verbesserung durch das Hörgerät | | | | | | | |
-|  | Dimension | VOR | NACH | Nutzen der | | | | |
-|  | Hörgeräteversorgung | | | | | | | |
+|  | **Gesamtbewertung und Nutzen/Verbesserung durch das Hörgerät** | | | | | | | |
+|  | **Dimension** | **VOR** | **NACH** | **Nutzen der** | | | | |
+|  | **Hörgeräteversorgung** | | | | | | | |
 |  |  | Hören in ruhiger Umgebung (EC) |  |  | 77% | 56% | 21% | |
 |  |  | Hören mit Hintergrunggeräuschen (BN) |  |  | 48% | 46% | 2% | |
 |  |  | Hören in hallender Umgebung (RV) |  |  | 73% | 42% | 31% | |
 |  |  | Hören von lauten Geräuschen (AV) |  |  | 87% | 91% | -4% | |
-|  |  | Gesamtbewertung (EC, BN, RV) |  |  | 66% | 48% | 18% | |
+|  |  | **Gesamtbewertung (EC, BN, RV)** |  |  | **66%** | **48%** | **18%** | |
 | | | | | | | | | |
 | | | | | | | | | |
-|  |  | Verbesserung der Hörfähigkeit |  |  |  | 27% | | |
+|  |  | **Verbesserung der Hörfähigkeit** |  |  |  | 27% | | |
 
 7
 

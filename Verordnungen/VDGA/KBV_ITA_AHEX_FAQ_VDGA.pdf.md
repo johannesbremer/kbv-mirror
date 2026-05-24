@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 4. AUGUST 2025  VERSION: 1.11   DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 4. AUGUST 2025  VERSION: 1.11   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # FRAGEN UND ANTWORTEN ZUM  ANFORDERUNGSKATALOG NACH § 73  ABS. 9 SGB V FÜR VERORDNUNG VON  DIGA
@@ -33,7 +33,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.11 | 04.08.2025 | KBV | Aufnahme der Abbildung des  Aufnahme der Abbildung der  Klarstellung zur Abbildung von | Erweiterung des DiGA-API durch  Anpassung des | 8    8    14 |
 | 1.10 | 11.10.2024 | KBV | Aufnahme der Abbildung der  Klarstellung der Umsetzung |  | 13    14 |
@@ -48,7 +48,7 @@ Kommentars zur Bezeichnung einer Altersgruppe der Ziel- /Patientengruppen  Nutzu
 
 ---
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.02 | 26.10.2023 | KBV | Klarstellung der Anforderung | Geplante Anpassung des |  |
 | 1.01 | 16.10.2023 | KBV | Ankündigung von Regeln zur | Geplante Anpassung des |  |
@@ -62,7 +62,7 @@ P4-210 Akzeptanzkriterium 2 Abkürzung der Namen der DiGA-Verordnungseinheiten i
 
 VERORDNUNG VON DIGA
 
-| BEZUG [1] | FRAGE | ANTWORT |
+| **BEZUG [1]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
 | Allgemein | Müssen Vertragsärztinnen und | Ja, spätestens ab dem 1. Oktober 2024 ist bei der Verordnung mittels elektronischer Programme (§ 72  Es liegt in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für  Zusammenfassend sind daher pauschale Aussagen nicht möglich |
 | Allgemein | Müssen | Psychologischen Psychotherapeutinnen und Psychotherapeuten ist es nach den gesetzlichen |
@@ -72,7 +72,7 @@ Vertragsärzte für die Verordnung von digitalen Gesundheitsanwendungen zertifiz
 
 ---
 
-| BEZUG [1] | FRAGE | ANTWORT |
+| **BEZUG [1]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
 | Allgemein | Kann für die Umsetzung der | Ja, dies ist grundsätzlich zulässig. |
 | Allgemein | Ab wann kann eine zertifizierte | Zertifizierte Verordnungssoftware kann sofort eingesetzt werden. |
@@ -81,7 +81,7 @@ Zertifizierung Anforderungen ein Modul von Dritten  verwendet werden?  Im Rahmen
 
 ---
 
-| P2-020 | Wie werden die zur Verfügung zu | Die einzelnen Informationen einer Digitalen Gesundheitsanwendung (DiGA)  INFORMATIONSMERKMAL  ELEMENT-ID  PZN  HealthAppPrescriptionUnit.code.coding.code  Hinweis:   Entgegen der im FHIR-Profil definierten Kardinalität ist  Name der DiGA-Verordnungseinheit   HealthAppPrescriptionUnit.title  Hinweis:  Entgegen der im FHIR-Profil definierten Kardinalität ist  DiGA-Modul-Name  HealthAppModule.deviceName:model-name.name  DiGA-Name  HealthApp.deviceName:user-friendly-name.name  Indikationen  ICD-10-GM-Kodes:  HealthAppPrescriptionUnit.extension:indikation.extension: ICD-10-GM-Diagnoseklartexte:  HealthAppPrescriptionUnit.extension:indikation.extension: Redaktioneller Steckbrief  HealthApp.extension:summaries.extension:steckbrief.valu Kontraindikationen  Ausschlusskriterien:  HealthAppPrescriptionUnit.extension:kontraindikation.ext ICD-10-GM-Kodes: |
+| P2-020 | Wie werden die zur Verfügung zu | Die einzelnen Informationen einer Digitalen Gesundheitsanwendung (DiGA) **INFORMATIONSMERKMAL  ELEMENT-ID ** PZN  HealthAppPrescriptionUnit.code.coding.code  Hinweis:   Entgegen der im FHIR-Profil definierten Kardinalität ist  Name der DiGA-Verordnungseinheit   HealthAppPrescriptionUnit.title  Hinweis:  Entgegen der im FHIR-Profil definierten Kardinalität ist  DiGA-Modul-Name  HealthAppModule.deviceName:model-name.name  DiGA-Name  HealthApp.deviceName:user-friendly-name.name  Indikationen  ICD-10-GM-Kodes:  HealthAppPrescriptionUnit.extension:indikation.extension: ICD-10-GM-Diagnoseklartexte:  HealthAppPrescriptionUnit.extension:indikation.extension: Redaktioneller Steckbrief  HealthApp.extension:summaries.extension:steckbrief.valu Kontraindikationen  Ausschlusskriterien:  HealthAppPrescriptionUnit.extension:kontraindikation.ext ICD-10-GM-Kodes: |
 |---|---|---|
 
 stellenden Informationen für Digitale Gesundheits- anwendungen im DiGA- Verzeichnis abgebildet? setzen sich aus verschiedenen Objekten zusammen, die durch das  logische Datenmodell des DiGA-API dargestellt werden. In der folgenden Tabelle werden zu jedem der zur Verfügung zu stellendem Informationsmerkmale die entsprechenden Element-IDs bezogen auf den spezifischen Namen der FHIR-Ressource für die Version 2.0 des logischen Datenmodells des DiGA-API angegeben. (https://simplifier.net/bfarm) dieses Informationsmerkmal immer vorhanden. dieses Informationsmerkmal immer vorhanden. diagnose.value[x]:valueCoding.code diagnose.value[x]:valueCoding.display e[x].valueString ension:ausschlusskriterien.value[x]:valueString
@@ -123,18 +123,18 @@ verwendet: value[x].valueString value[x].valueCoding.code value[x].valueCoding.d
 
 ---
 
-| BEZUG [1] | FRAGE | ANTWORT |
+| **BEZUG [1]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
 |  |  | Informationen zum positiven  Fragen:  HealthAppQuestionnaire.item.item.item.text  Selektion der Fragen zu den „ HealthAppQuestionnaire.item.linkId == "19"  HealthAppQuestionnaire.item.item.linkId == "59"  Antworten:  Siehe Informationen zu Datenschutz und Datensicherheit Gültigkeitsdauer  ChargeItemDefinition.effectivePeriod Hinweis: Gemäß der in den FHIR-Profilen definierten Kardinalitäten können die |
 | P2-020 | Wie erhält man Zugriff auf das | Die Informationen hierzu stellt das BfArM unter diesem Link bereit: https://antrag- |
 | P4-130 | Können die historisierten | Die historisierten Einträge des DiGA-Verzeichnisses können generell nicht zur Dokumentation der |
 | KP4-312 | Kann die Anzeige der | In Abstimmung mit dem GKV- Differenzen zwischen den Daten auf der Webseite und des DiGA |
 
-DiGA-Verzeichnis des BfArM? Verordnung benutzt werden? „Informationen zu Datenschutz und Datensicherheit" und der "Informationen zum positiven Versorgungseffekt" über eine Darstellung der entsprechenden Informationswebseite des BfArM- erfolgen? Versorgungseffekt Informationsmerkmale nicht oder mehrfach vorhanden sein. api.bfarm.de/de/nutzerkonto-anlegen Verordnung benutzt werden. Das BfArM hat darüber informiert, dass die Daten im Verzeichnis sich rückwirkend ändern können. SV wurde festgestellt, dass die Anzeige der „Informationen zu Datenschutz und Datensicherheit" und der Anforderung KP4 312 auch durch eine Darstellung der entsprechenden BfArM kann, solange diese Informationen auf der Webseite zusammen auf eine Ebene dargestellt werden. toleriert, selbst wenn sie die laut Prüfpaket sollten.  Versorgungseffekt  "Informationen zum positiven Versorgungseffekt" in der Anzeige nachzuweisenden Angaben zum positiven entsprechenden gemäß -Webseite erfolgen -Verzeichnisses werden in der Prüfung  Informationen betreffen
+DiGA-Verzeichnis des BfArM? Verordnung benutzt werden? „Informationen zu Datenschutz und Datensicherheit" und der "Informationen zum positiven Versorgungseffekt" über eine Darstellung der entsprechenden Informationswebseite des BfArM- erfolgen? Versorgungseffekt Informationsmerkmale nicht oder mehrfach vorhanden sein. api.bfarm.de/de/nutzerkonto-anlegen Verordnung benutzt werden. Das BfArM hat darüber informiert, dass die Daten im Verzeichnis sich rückwirkend ändern können. Datenschutz und Datensicherheit" und der Anforderung KP4 312 auch durch eine Darstellung der entsprechenden BfArM kann, solange diese Informationen auf der Webseite zusammen auf eine Ebene dargestellt werden. toleriert, selbst wenn sie die laut Prüfpaket sollten.  Versorgungseffekt SV wurde festgestellt, dass die Anzeige der „Informationen zu  "Informationen zum positiven Versorgungseffekt" in der Anzeige nachzuweisenden Angaben zum positiven entsprechenden gemäß -Webseite erfolgen -Verzeichnisses werden in der Prüfung  Informationen betreffen
 
 ---
 
-| BEZUG [1] | FRAGE | ANTWORT |
+| **BEZUG [1]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
 | P4-342 | Die PZN muss auf Muster 16 in | In Abstimmung mit dem GKV-SV wurde festgestellt, dass die PZN in der Form 01234567 oder  Aufgrund der deutlich geringeren Informationsmenge gegenüber einer Arzneimittel |
 | P4-342 | Auf Muster 16 müssen in drei | Die Trennstriche sollen aus Sicherheitsgründen verhindern, dass nach dem Ausdruck weitere |
@@ -148,7 +148,7 @@ die dritte Zeile gedruckt werden. Im Unterschied zur Arzneimittel- verordnung mu
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 | [1] | [KBV_ITA_VGEX_Anforderungskatalog_VDGA]  Anforderungskatalog nach § 73 Abs. 9 SGB V für |
 
 **Ansprechpartner:**

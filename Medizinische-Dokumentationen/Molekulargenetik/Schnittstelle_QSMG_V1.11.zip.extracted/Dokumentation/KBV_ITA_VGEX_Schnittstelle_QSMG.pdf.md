@@ -1,8 +1,8 @@
-|  | IT in der Arztpraxis |
+|  | ***IT in der Arztpraxis*** |
 |---|---|
-|  | Schnittstellenbeschreibung QS |
+|  | *Schnittstellenbeschreibung QS* |
 |  | [KBV_ITA_VGEX_Schnittstelle_QSMG |
-|  |  |
+|  | ** |
 |  | Dezernat Digitalisierung und IT |
 |  |  |
 |  | 10623 Berlin, Herbert |
@@ -18,10 +18,10 @@ Molekulargenetik -Lewin-Platz 2 1.12 Datum: 11.04.2014 Kennzeichnung: Öffentlic
 
 ### DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.12 | 11.04.2014 | KBV |  |  |  |
-| 1.11 | 14.02.2013 | KBV | redaktionelle Überarbeitung | Korrekturen am Beispielcode | 15, 16 |
+| 1.11 | 14.02.2013 | KBV | redaktionelle Überarbeitung | Korrekturen am Beispielcode | **15, 16** |
 | 1.10 | 09.08.2012 | KBV | redaktionelle Überarbeitung | Anpassung an neues Layout |  |
 | 1.00 | 21.05.2012 | KBV | neues Dokument |  |  |
 
@@ -252,7 +252,7 @@ Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, dere
 
 Es existieren verschiedene Kardinalitäten:
 
-| Kardinalität | Symbol | Beschreibung |
+| **Kardinalität** | **Symbol** | **Beschreibung** |
 |---|---|---|
 | 0..1 |  | Optionales Element: Element wird als Rechteck mit |
 | 1 |  | Musselement: Rechteck mit durchgezogener Linie. |
@@ -264,7 +264,7 @@ Es existieren verschiedene Kardinalitäten:
 
 Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinander lo- gisch verknüpft. In diesem Dokument werden zwei Strukturelement -Arten verwendet: Choice  und Sequence.
 
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |---|---|
 |  | Das Strukturelement Choice zeigt an, dass zwischen verschiedenen Kind- |
 |  | Das Strukturelement Sequence beschreibt, dass verschiedene Kindelemente |
@@ -281,7 +281,7 @@ gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen.  Existier
 
 Es werden außerdem folgende Diagramm-Symbole verwendet:
 
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |---|---|
 |  | Ein Element mit mehreren Kindelementen wird durch ein Plus- |
 |  | Referenzelement: Der Pfeil links unten im Element zeigt an, dass |
@@ -380,8 +380,8 @@ Molekulargenetik
 
 ---
 
-| <ehd:document_relationship>  <ehd:document_relationship.type_cd V="RPLC"/>  <ehd:related_document>  < </ehd:related_document>  </ehd:document_relationship> |
-|---|
+\| <ehd:document_relationship>  <ehd:document_relationship.type_cd V="RPLC"/>  <ehd:related_document> **<** </ehd:related_document>  </ehd:document_relationship> |
+\|---|
 
 **XML-Code 2 - document_relationship**
 
@@ -415,8 +415,8 @@ id EX=" ag111105-2d51-4016-831e-cbd9e1a318h9 " RT="278012312"/>
 
 XML-Beispiel
 
-| </ehd:person>        </ehd:organization>                    <ehd:local_header>                  </ehd:header> |
-|---|
+\| </ehd:person>        </ehd:organization>                    <ehd:local_header>                  </ehd:header> |
+\|---|
 
 **XML-Code 3 - ehd-header**
 
@@ -496,9 +496,9 @@ Molekulargenetik
 
 ---
 
-| <qsmg:qsmg_dokumentation |
-|---|
-| Die Jahresstatistik enthält weitere Elemente die nachfolgend beschrieben werden.    XML-Beispiel (ohne Anspruch auf Vollständigkeit)  <qsmg:qsmg_dokumentation |
+\| <qsmg:qsmg_dokumentation |
+\|---|
+\| Die Jahresstatistik enthält weitere Elemente die nachfolgend beschrieben werden.    XML-Beispiel (ohne Anspruch auf Vollständigkeit)  <qsmg:qsmg_dokumentation |
 
 Molekulargenetik
 
@@ -508,9 +508,9 @@ xmlns:qsmg ="urn:ehd/qsmg/001 <behandlungsfall_anzahl  V="1500 "/> <diagnostisch
 
 Molekulargenetik
 
-| </qsmg:qsmg_dokumentation XML-Code 6 - qsmg dokumentation   4.3.1 b Die Anzahl (nonNegativeInteger ) aller Behandlungsfälle wird hier im V-Attribut angegeben.    4.3.2  Behandlungsfälle mit diagnostischer Fragestellung werden hier dokumentiert. Das Element  1 1 |
-|---|
-| </qsmg:qsmg_dokumentation |
+\| </qsmg:qsmg_dokumentation**XML-Code 6 - qsmg dokumentation**  **4.3.1 b** Die Anzahl (nonNegativeInteger ) aller Behandlungsfälle wird hier im V-Attribut angegeben.   **4.3.2 ** Behandlungsfälle mit diagnostischer Fragestellung werden hier dokumentiert. Das Element  1 1 |
+\|---|
+\| </qsmg:qsmg_dokumentation |
 
 <quotient V="1.16"/> </quotient_pathologisch <quotient_unauffaellig <gop_anzahl V="500 "/> <befund_anzahl V="500"/> <quotient V="1"/> </quotient_unauffaellig <quotient_nichtbeurteilbar <gop_anzahl V="500"/> <befund_anzahl V="400"/> <quotient V="1.25"/> </quotient_nichtbeurteilbar <unterauftrag_anzahl  V="300"/> <einsender_lanr_anzahl  V="120"/> <einsender_bsnr_anzahl  V="90"/> <fachgruppe_einsender_liste <fachgruppe_einsender <fachgruppe_nummer V="02"/> <einsendungen_anzahl  V="300"/> </fachgruppe_einsender <fachgruppe_einsender <fachgruppe_nummer V="03"/> <einsendungen_anzahl  V="500"/> </fachgruppe_einsender <fachgruppe_einsender <fachgruppe_nummer V="05"/> <einsendungen_anzahl  V="300"/> </fachgruppe_einsender </fachgruppe_einsender_liste <produkt1_teilnahmehaufigkeit  V="3"/> <produkt2_ringversuchszertifikat  V="2"/> ehandlungsfall_anzahl diagnostische_fragestellung enthält die folgenden Unterelemente: behandlungsfall_anzahl, pathologischer_befund_anzahl, unauffaelliger_befund_anzahl  und nichtbeurteilbarer_befund_anzahl  Gemäß der W3C Spezifikation [2] nur ganze Zahlen im positiven Bereich inklusive „0“.
 
@@ -737,7 +737,7 @@ Molekulargenetik
 
 # 5. Referenzierte Dokumente
 
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 |---|---|
 | [KBV_ITA_VGEX_eHD] | Richtlinie ehd - eHealthData |
 | [1] | Qualitätssicherungsvereinbarung Molekulargenetik  http://www.kbv.de/html/themen_2846.php |

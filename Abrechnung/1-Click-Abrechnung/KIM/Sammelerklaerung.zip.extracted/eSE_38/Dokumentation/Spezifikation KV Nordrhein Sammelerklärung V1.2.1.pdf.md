@@ -101,7 +101,7 @@ ANLAGE A
 
 **1 Änderungsdokumentation**
 
-| Datum | Version | Kommentar |
+| **Datum** | **Version** | **Kommentar** |
 |---|---|---|
 | 12.05.2014 | 1.0 | Erstellung des Dokuments |
 | 13.07.2016 | 1.1 | - Expliziter Hinweis, dass das PDF/A-1b Format erzeugt werden muss. |
@@ -154,12 +154,7 @@ Das vorliegende Dokument führt die Strukturelemente auf, die von der KV Nordrhe
 
 1 Kommunikation im Medizinwesen
 
-|  | Kommunikation | im | Medizinwesen |
-|---|---|---|---|
-| PDF/A | ist ein | Standard | für die |
-|  |  | http://de.wikipedia.org/wiki/PDF/A. | |
-
-2 PDF/A ist ein Standard für die Langzeitarchivierung des Portable Document Formats (PDF). Siehe auch
+2 PDF/A ist ein Standard für die Langzeitarchivierung des Portable Document Formats (PDF). Siehe auch  [http://de.wikipedia.org/wiki/PDF/A](http://de.wikipedia.org/wiki/PDF/A)
 
 3 [https://update.kbv.de/ita](https://update.kbv.de/ita)-update/Abrechnung/1-Click-Abrechnung/KIM/Sammelerklaerung.zip
 
@@ -247,7 +242,7 @@ definiert sind. Für die Anforderungen der KV Nordrhein sind folgende Elemente z
 
 ### 3.2.1 Fallstatistik
 
-Mit dem Element fall_statistik ist anzugeben, wie viele Behandlungsfälle die Praxis ins-
+Mit dem Element fall_statistik
 
 gesamt abrechnet. Das Element ist wie folgt zu verwenden:
 
@@ -255,17 +250,17 @@ gesamt abrechnet. Das Element ist wie folgt zu verwenden:
 
 Mit dem Element vertretungszeit_liste
 
-die Personen genannt, die in der eigenen Praxis eine Vertretung übernommen haben.  Haben keine Vertretungen stattgefunden, kann dies auf zwei Arten angezeigt werden. Zum  einen kann das Element vertretungszeit_liste
+die Personen genannt, die in der eigenen Praxis eine Vertretung übernommen haben.  Haben keine Vertretungen stattgefunden, kann dies auf zwei Arten angezeigt werden. Zum  einen kann das Element  gende Struktur verwendet werden:
 
-gende Struktur verwendet werden:
+Haben Vertretungen stattgefunden, muss der Zeitraum der Vertretung angegeben werden  und die Person, die die Vertretung durchgeführt hat. Es können beliebig viele Zeiträume mit  den dazugehörigen Vertretern angegeben werden; pro Vertretungszeitraum ist ein  Element als Kindelement zum Element
 
-Haben Vertretungen stattgefunden, muss der Zeitraum der Vertretung angegeben werden  und die Person, die die Vertretung durchgeführt hat. Es können beliebig viele Zeiträume mit  den dazugehörigen Vertretern angegeben werden; pro Vertretungszeitraum ist ein  Element als Kindelement zum Element true
+ist anzugeben, wie viele Behandlungsfälle die Praxis ins-
 
 werden sowohl die Vertretungszeiten als auch
 
-komplett fehlen, zum anderen kann fol-
+vertretungszeit_liste komplett fehlen, zum anderen kann fol-
 
-anzulegen.
+true anzulegen.
 
 komplex
 

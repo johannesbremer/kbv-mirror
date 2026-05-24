@@ -1,17 +1,21 @@
-|  |
-|---|
+# PRUE FPAKET EDMP -CHRONISCHER  RUECKENSCHMERZ
 
-# PRUEFPAKET EDMP-CHRONISCHER  RUECKENSCHMERZ
+## [KBV_ITA_AHEX_PRUEFPAKET_EDMP_RUECKENSCHMERZ]
 
-## [KBV_ITA_AHEX_PRUEFPAKET_EDMP_RUECKENSCHMERZ
+Seite 1 von 30 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz / Version: 1.02 / 12. Februar 2024
 
-|  | BUNDESVEREINIGUNG  DEZERNAT DIGITALISIERUNG UND IT  31. MÄRZ 2026   VERSION: 1.03   DOKUMENTENSTATUS: IN |
-|---|---|
+**KASSENÄRZTLICHE**  **BUNDESVEREINIGUNG**
 
-|  |
-|---|
+**DEZERNAT DIGITALISIERUNG UND IT**
 
-KASSENÄRZTLICHE IT IN DER ARZTPRAXIS KRAFT
+**IT IN DER ARZTPRAXIS**
+
+**12. FEBRUAR 2024**
+
+**VERSION: 1.02**
+
+**DOKUMENTENSTATUS: IN KRAFT**
+
 
 ---
 
@@ -19,199 +23,195 @@ KASSENÄRZTLICHE IT IN DER ARZTPRAXIS KRAFT
 
 **1** **ALLGEMEINES**
 
-**4**
-
 1.1 Rechtsgrundlage
-
-4
 
 1.2 Zertifizierungsablauf
 
-4
-
 1.3 Zertifizierungsportal
-
-5
 
 1.4 Zertifizierungsdokumente
 
-5
-
 1.5 Prüfunterlagen
 
-5
+1.6 Prüfvorgaben  1.6.1 Prüfstammdaten 1.6.2 Versichertendaten
 
-1.6 Prüfvorgaben
+1.6.3 Praxisdaten/ Arztstempel
 
-7
+1.6.4 Krankenhausdaten
 
-1.6.1 Schnittstellenversionen
+1.6.5 Prüfnummer
 
-7
+1.6.6 Stammdatei der Datenannahmestellen (SDDA)
 
-1.6.2 Datumseingaben
-
-7
-
-1.6.3 Prüfstammdaten
-
-7
-
-1.6.4 Versichertendaten
-
-8
-
-1.6.5 Praxisdaten/ Arztstempel
-
-8
-
-1.6.6 Krankenhausdaten
-
-9
-
-1.6.7 Prüfnummer
-
-9
-
-1.6.8 Stammdatei der Datenannahmestellen (SDDA) 9
-
-1.6.9 Auflistung der Prüffälle 9
+1.6.7 Auflistung der Prüffälle
 
 **2** **PRÜFFÄLLE**
 
-**10**
-
-2.1 Prüffälle Dokumentation
-
-10
-
-2.1.1 Prüffall 3511
-
-10
-
-2.1.2 Prüffall 3512
-
-13
+2.1 Prüffälle Dokumentation  2.1.1 Prüffall 3511 2.1.2 Prüffall 3512
 
 2.1.3 Prüffall 3520
 
-15
+2.2 Prüffall Systemreaktion  2.2.1 Prüffall 3514
 
-2.2 Prüffall Systemreaktion
-
-18
-
-2.2.1 Prüffall 3514
-
-18
-
-2.3 Weitere Prüffälle zum Anforderungskatalog 22
-
-2.3.1 Prüffall 3530
-
-22
+2.3 Weitere Prüffälle zum Anforderungskatalog 2.3.1 Prüffall 3530
 
 2.3.2 Prüffall 3540
 
-24
-
 **3** **TESTDATENVALIDIERUNG**
 
-**25**
-
-3.1 Prüffall Testdatenvalidierung 26
-
-3.1.1 Prüffall TDV3518
-
-26
+3.1 Prüffall Testdatenvalidierung  3.1.1 Prüffall TDV3518
 
 **4** **ANHANG**
 
-**29**
-
-4.1 Prüffall 10 – Ersatzverfahren 29
+4.1 Prüffall 10  Ersatzverfahren
 
 **5** **REFERENZIERTE DOKUMENTE**
 
-**30**
+Version: 1.02 / 12. Februar 2024
 
-3 / 31. März 2026
+**4**
+
+4  4  5  5  5  7  7  7  7  8  8  8  8
+
+**9**
+
+9  9  12  14  17  17  21  21  23
+
+**24**
+
+25  25
+
+**28**
+
+28
+
+**29**
 
 
 ---
 
-# ABBILDUNGSVERZEICHNIS
+## ABBILDUNGSVERZEICHNIS
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung
-
-Abbildung 2: Exemplarische Struktur der
-
-Abbildung 3: Testdatenvalidierung
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung 2: Exemplarische Struktur der  Abbildung 3: Testdatenvalidierung
 
 Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
-DOKUMENTENHISTORIE
+## DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
-|---|---|---|---|---|---|
-| 1.03 | 31.03.2026 | KBV | Anpassung der Prüffälle an    Redaktionelle Bearbeitung von    Anpassung Prüffall 3540 | Schnittstellenversion        Änderung der | 7, 10      22      24 |
-| 1.02 | 12.02.2024 | KBV | Anpassung der übergreifenden | COPD- | 9ff |
-| 1.01 | 08.11.2022 | KBV | Datumsanpassungen der    Ergänzung eines Testfalls für |  | Alle      24 |
-| 1.00 | 15.02.2021 | KBV | Datumsanpassungen der    Aufnahme eines Testfalls für    Neuer Prüffall 3540 zur    Redaktionelle Bearbeitung von | Datumsanpassungen  Schnittstellenversion      Anpassung an | Alle                  24          22 |
-| 1.00 | 15.02.2021 | KBV | Dokumenterstellung | Initiale Erstellung | alle |
+**Version**
 
-**Archivdatei** mit den Prüfunterlagen 6
+1.02
 
-6
+1.01
 
-25
+1.00
 
-25
+| **Datum** | **Autor** | **Änderung** | **Begründung** |
+|---|---|---|---|
+| 12.02.2024 | KBV | Anpassung der | COPD- |
+|  |  | übergreifenden Prüffälle | Schnittstellenversion |
+|  |  | an COPD- | 4.06 ist ab 01.04.2023 |
+|  |  | Schnittstellenversion | zu verwenden |
+|  |  | 4.06 |  |
+| 08.11.2022 | KBV | Datumsanpassungen der |  |
+|  |  | Prüffälle. |  |
+|  |  | Ergänzung eines Testfalls |  |
+|  |  | für die |  |
+|  |  | Teilnahmeerklärung |  |
+| 15.02.2021 | KBV | Datumsanpassungen der | Datumsanpassungen |
+|  |  | Prüffälle. | wegen der |
+|  |  |  | übergreifenden |
+|  |  | Aufnahme eines Testfalls | Prüffälle. |
+|  |  | für die | Schnittstellenversion |
+|  |  | Testdatenvalidierung zur | 1.01 ist ab 01.04.2023 |
+|  |  | Schnittstellenversion | zu verwenden. |
+|  |  | 1.00 |  |
+|  |  | Neuer Prüffall 3540 zur | Anpassung an |
+|  |  | Umsetzung der | Änderungen im |
+|  |  | übergreifenden | Anforderungskatalog. |
+|  |  | Teilnahmeerklärung. |  |
+|  |  | Redaktionelle |  |
+|  |  | Bearbeitung von Prüffall |  |
+|  |  | 3530 |  |
+| 15.02.2021 | KBV | Dokumenterstellung | Initiale Erstellung |
 
-Schnittstellenversionen Prüffall 3530 Prüffälle an COPD- 4.06 Prüffälle. die Teilnahmeerklärung Prüffälle. die Testdatenvalidierung zur Schnittstellenversion 1.00 Umsetzung der übergreifenden Teilnahmeerklärung. Prüffall 3530 1.02 ist ab 01.10.2026 zu verwenden Barcodeversion (03) ab 1.10.2026 4.06 ist ab 01.04.2023 zu verwenden wegen der Prüffälle. 1.01 ist ab 01.04.2023 zu verwenden. Änderungen im Anforderungskatalog.
+1.00
+
+**Archivdatei** mit den Prüfunterlagen
+
+/ Version: 1.02 / 12. Februar 2024
+
+**Seite**
+
+Prüffälle
+
+Alle    23
+
+Alle 23
+
+21
+
+alle 6  6  24  24
+
 
 ---
 
-# 1 ALLGEMEINES
+1 ALLGEMEINES
 
-Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich des elektronischen Disease-Management-Programms Chronischer  Rückenschmerz „CR“.
+Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich des elektronischen Disease-Management-Programms Chronischer
+
+Rückenschmerz „CR“.
 
 Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet den  Rahmen der Zertifizierung und ist zu beachten.
 
-Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
+Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung
+
+weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
 
 Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
 
-## 1.1 RECHTSGRUNDLAGE
+**1.1** **RECHTSGRUNDLAGE**
 
 Die Regelungen zur Zertifizierung werden auf Landesebene zwischen den Kassenärztlichen Vereinigungen  und Krankenkassen getroffen.
 
-## 1.2 ZERTIFIZIERUNGSABLAUF
+**1.2** **ZERTIFIZIERUNGSABLAUF**
 
-Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten :
+Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten
 
-- 1. Der Antragssteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.
+1. Der Antragssteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV
 
-Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per Mail (**[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)**) einreichen. Erst nach Erhalt der
+bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht
 
-Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und den vorab via E-Mail  eingereichten Antrag auf Zertifizierung dort hochgeladen werden.
+werden.  Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per Mail (**[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)**) einreichen. Erst nach Erhalt der
 
-- 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch Mitarbeitende der KBV.
+Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und den vorab via E-Mail
 
-- 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragssteller
+eingereichten Antrag auf Zertifizierung dort hochgeladen werden.
 
-- mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen.
+2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als
 
-- 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
+fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch Mitarbeitende der KBV.
 
-Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
+3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragssteller
+
+mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen.
+
+4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen
+
+werden.
 
 **HINWEIS**
+
+Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des
+
+Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
+
+/ Version: 1.02 / 12. Februar 2024
 
 
 ---
 
-## 1.3 ZERTIFIZIERUNGSPORTAL
+**1.3** **ZERTIFIZIERUNGSPORTAL**
 
 Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
 
@@ -223,756 +223,1527 @@ System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angef
 
 Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf
 
-Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragssteller in Form von Aufgaben (Menüpunkt:  „Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
+Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragssteller in Form von Aufgaben (Menüpunkt:
 
-Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im  Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur zusammen mit den erstellten  Prüfunterlagen in Form einer ZIP-Datei archiviert werden.
+„Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten der
 
-Die in das Portal integrierte Prüfautomatisierung führt neben einer inhaltlichen Prüfung auch eine Prüfung  auf Vollständigkeit der eingereichten Prüfunterlagen durch.
+Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
 
-Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, wird der  Antragssteller vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehler  zu beheben bzw. die Lieferung zu vervollständigen.
+Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im  Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur zusammen mit den erstellten
 
-Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im HTML- oder XML-Format) erzeugt und  dem Antragssteller zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte  Lieferungen geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung als fehlerfrei  erkannt wurden, erfolgt die Prüfung. Wird hierbei festgestellt, dass Dateien fehlerhaft sind, werden die  Antragssteller aufgefordert, eine Korrekturlieferung hochzuladen.
+Prüfunterlagen in Form einer ZIP-Datei archiviert werden.
+
+Die in das Portal integrierte Prüfautomatisierung führt neben einer inhaltlichen Prüfung auch eine Prüfung
+
+auf Vollständigkeit der eingereichten Prüfunterlagen durch.
+
+Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, wird der
+
+Antragssteller vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehler  zu beheben bzw. die Lieferung zu vervollständigen.
+
+Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im HTML- oder XML-Format) erzeugt und
+
+dem Antragssteller zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte  Lieferungen geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung als fehlerfrei  erkannt wurden, erfolgt die Prüfung. Wird hierbei festgestellt, dass Dateien fehlerhaft sind, werden die  Antragssteller aufgefordert, eine Korrekturlieferung hochzuladen.
 
 Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des Zertifizierungsportals  genutzt werden. Bitte beachten Sie, dass hierfür eine anschließende Prüfung nicht stattfindet. Des  Weiteren müssen für die Testdatenvalidierung die Hinweise in Kapitel 3 berücksichtigt werden.
 
-## 1.4 ZERTIFIZIERUNGSDOKUMENTE
+**1.4** **ZERTIFIZIERUNGSDOKUMENTE**
 
-Alle erforderlichen Unterlagen stehen im Internet zum Download unter ita-update bereit. In diesem  Zusammenhang berücksichtigen Sie bitte das Kapitel Rerenzierte Dokumente.
+Alle erforderlichen Unterlagen stehen im Internet zum Download unter ita-update bereit. In diesem
 
-## 1.5 PRÜFUNTERLAGEN
+Zusammenhang berücksichtigen Sie bitte das Kapitel Rerenzierte Dokumente.
+
+**1.5** **PRÜFUNTERLAGEN**
 
 Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:
 
-- **CR-Unterlagen bestehend aus XML-Dokumenten:**
+**CR-Unterlagen bestehend aus XML-Dokumenten:**  Je Betriebsstättennummer wird eine Begleitdatei und eine Archivdatei (*.zip.XKM), welche die einzelnen  XML-Dateien im entsprechenden Verzeichnis enthält, erwartet. Diese müssen fehlerfrei gegen das  jeweils aktuelle, von der KBV vorgegebene, Prüfschema validierbar sein. Entsprechende Vorgaben für
 
-Je Betriebsstättennummer wird eine Begleitdatei und eine Archivdatei (*.zip.XKM), welche die einzelnen  XML-Dateien im entsprechenden Verzeichnis enthält, erwartet. Diese müssen fehlerfrei gegen das  jeweils aktuelle, von der KBV vorgegebene, Prüfschema validierbar sein. Entsprechende Vorgaben für  die Bildung der Dateinamen, die Verzeichnisstruktur und die weiteren Angaben entnehmen Sie bitte  dem Dokument Austausch_von_XML-Daten_V(n.nn).ZIP.
+die Bildung der Dateinamen, die Verzeichnisstruktur und die weiteren Angaben entnehmen Sie bitte  dem Dokument Austausch_von_XML-Daten_V(n.nn).ZIP.
+
+/ Version: 1.02 / 12. Februar 2024
 
 
 ---
 
-[Konditional] Multimorbider Fall: Sofern Ihr System eine Zulassung für eine oder mehrere in dem Prüffall  3520 genannten Indikationen verfügt, müssen die entsprechenden Daten ebenfalls dokumentiert  werden. Dabei müssen die Dateien entsprechend den Vorgaben als eine Archivdatei verschlüsselt  (*.zip.XKM) direkt in dem Hauptverzeichnis des zip-Archives abgelegt werden.
+[Konditional] Multimorbider Fall: Sofern Ihr System eine Zulassung für eine oder mehrere in dem Prüffall  3520 genannten Indikationen verfügt, müssen die entsprechenden Daten ebenfalls dokumentiert  werden. Dabei müssen die Dateien entsprechend den Vorga (*.zip.XKM) direkt in dem Hauptverzeichnis des zip-Archives abgelegt werden.
 
-- **Videodateien, Screenshots ausgewählter Anforderungen und Teilnahmeerklärung:**
+**Videodateien, Screenshots ausgewählter Anforderungen** Die geforderten Videomitschnitte, Screenshots und die Teilnahmeerklärung (Prüffall 3540)  einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet. 1 2 3
 
-Die geforderten Videomitschnitte, Screenshots und die Teilnahmeerklärung (Prüffall 3540) müssen in
+[PrüffallNr.] _[lfdNr.] .*  Teilnahmeerklärung (Prüffall 3540): TE_EWE_CR.pdf   Alle Prüfunterlagen (CR-Unterlagen und der Ordner „Dokumentation“) sind in einem ZIP
 
-einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.
+übermitteln. Die CR-Unterlagen werden direkt in dem Hauptverzeichnis übertragen und nicht gesondert  in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. . Der Ordner
 
-- 1
+„Dokumentation“ enthält Videoaufzeichnungen, ggf. Screenshots sowie die Teilnahmeerklärung
 
-- 2 3
-
--  [PrüffallNr.] _[lfdNr.] .*
-
-- Teilnahmeerklärung (Prüffall 3540): TE_EWE_CR.pdf
-
-- Alle Prüfunterlagen (CR-Unterlagen und der Ordner „Dokumentation“) sind in einem ZIP -Archiv zu  übermitteln. Die CR-Unterlagen werden direkt in dem Hauptverzeichnis übertragen und nicht gesondert  in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. . Der Ordner
-
-- „Dokumentation“ enthält Videoaufzeichnungen, ggf. Screenshots sowie die Teilnahmeerklärung und
-
-- wird ebenfalls direkt in dem Hauptverzeichnis übertragen. Das ZIP- Archiv muss wie folgt benannt  werden: - Zert_107_SystemID.zip
+wird ebenfalls direkt in dem Hauptverzeichnis übertragen. Das ZIP werden:  Zert_107_SystemID.zip
 
 Die SystemID ergibt sich aus den letzten drei Stellen der Prüfnummer.
 
-Das ZIP-Archiv kann je nach Komponentenzulassung (CR und/oder COPD) unterschiedliche Strukturen  aufweisen. Im Folgenden wird beispielhaft die Verzeichnisstruktur ohne zusätzliche Zulassungen (die  alleinige Umsetzung von Chronischer Rückenschmerz) dargestellt.
+Das ZIP-Archiv kann je nach Komponentenzulassung (CR und/oder COPD) unterschiedliche Strukturen
 
-Name             Typ
-
-Dokumentation       Dateiordner
+aufweisen. Im Folgenden wird beispielhaft die Verzeichnisstruktur ohne alleinige Umsetzung von Chronischer Rückenschmerz) dargestellt.
 
 Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung
 
-Name             Typ
+391234511_20231030001010_1_CR_101.zip.XKM XKM-Datei  Chronischer_Rueckenschmerz  Dokumentation
 
-391234511_20261031001010_1_CR_102.zip.XKM XKM-Datei
+Abbildung 2: Exemplarische Struktur der
 
-Chronischer_Rueckenschmerz     Dateiordner
+________________  **1 Nummer des Prüffalls**  **2 Laufende Nummer**  **3 Gängiges Bild- bzw. Videoformat**
 
-Dokumentation        Dateiordner
+Dateiordner
 
-Abbildung 2: Exemplarische Struktur der **Archivdatei** mit den Prüfunterlagen
+Dateiordner
 
-**1 Nummer des Prüffalls**
+**Archivdatei** mit den Prüfunterlagen
 
-**2 Laufende Nummer**
+/ Version: 1.02 / 12. Februar 2024
 
-**3 Gängiges Bild- bzw. Videoformat**
+ben als eine Archivdatei verschlüsselt
 
+**und Teilnahmeerklärung:**  müssen in -Archiv zu
 
----
+und
 
-## 1.6 PRÜFVORGABEN
+- Archiv muss wie folgt benannt
 
-Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung des  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV -Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
-
-Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22, „service_tmr“) eingesetzt  werden, welches bei der Dokumentation angegeben ist. Das gleiche Datum sollte auch als Kopfdatum (Feld  9, „origination_dttm“) benutzt werden.
-
-### 1.6.1 Schnittstellenversionen
-
-- Indikation **Chronischer_Rueckenschmerz :**
-
-- Ab dem **01.04.2023** muss die Schnittstellenversion** 1.01** verwendet werden.
-
-Ab dem **01.10.2026** muss die Schnittstellenversion **1 02** verwendet werden.
-
-- Indikation **COPD:**
-
-- Ab dem **01.04.2024** muss die Schnittstellenversion **4.06** verwendet werden.
-
-Ab dem **01.10.2026** muss die Schnittstellenversion **4.07** verwendet werden.
-
-### 1.6.2 Datumseingaben
-
-- **Gültigkeitsdatum:** Das „letzte Datum“, **ab** dem alle in diesem Prüfpaket verwendeten Schnittstellen
-
-- (siehe oben Kapitel 1.6.1) gelten bzw. zu verwenden sind (hier wäre es der **01.04.2024 01.10.2026**
-
--
-
-- **Erstdokumentationsdatum**: Das Datum der Erstellung der Erstdokumentation ist jeweils der 15. des
-
-- Monats, der sechs Monate vor dem aktuellen Monat liegt.
-
-- Zum Beispiel: **Aktuelle Monat** ist **April 2025** **==>** **Erstdokumentationsdatum** ist der **15.10.2024**
-
-- **Ausnahme**
-
-- Wenn das Gültigkeitsdatum nach dem Erstdokumentationsdatum liegen würde, dann ist das  Erstdokumentationsdatum (**auch in der Zukunft**) der 15. des jeweiligen Gültigkeitsmonats.
-
--
-
-- **Folgedokumentationsdatum:** Das Datum der Erstellung der Folgedokumentation ist der 15. des Monats
-
-- sechs Monate nach dem Erstdokumentationsdatum
-
-- **Einlesedatum:** Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22,
-
-- „service_tmr“) eingesetzt werden, welches bei der Dokumentation der Prüffälle angegeben ist. Das  gleiche Datum sollte auch als Kopfdatum (Feld 9, „origination_dttm“) benutzt werden.
-
-- **Bei Nachlieferungen bzw. Korrekturlieferungen bleiben die Datumseingaben unverändert (so wie bei**  **Erstlieferung**
-
-### 1.6.3 Prüfstammdaten
-
-Im Rahmen der Prüfung sind die regulären Stammdateien zu verwenden.
+zusätzliche Zulassungen (die
 
 
 ---
 
-### 1.6.4 Versichertendaten
+**1.6** **PRÜFVORGABEN**
 
-Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall  und werden als XML-Dateien in der Archivdatei „VSD_Testfaelle_DMP_Vn.n.zip Dateien sind folgendermaßen aufgebaut:
+Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung des  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
 
-- EF.VD = allgemeine Versicherungsdaten
+Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22, „service_tmr“) eingesetzt
 
-- EF.PD = persönliche Versichertendaten
+werden, welches bei der Dokumentation angegeben ist. Das gleiche Datum sollte auch als Kopfdatum (Feld  9, „origination_dttm“) benutzt werden.
 
-- EF.GVD = geschützte Versichertendaten
+**1.6.1** **Prüfstammdaten**
 
-### 1.6.5 Praxisdaten/ Arztstempel
+Für die Zertifizierung müssen die für die Prüfung speziell entwickelten  werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung
+
+bzw. der Dateiname mit „PRF” gekennzeichnet.
+
+**1.6.2** **Versichertendaten**
+
+Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei
+
+(VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für jeden Prüffall i folgenden XML-Dateien mit Versichertenstammdaten
+
+EF.VD = allgemeine Versicherungsdaten
+
+EF.PD = persönliche Versichertendaten
+
+EF.GVD = geschützte Versichertendaten
+
+**1.6.3** **Praxisdaten/ Arztstempel**
 
 Folgende Angaben sind für die Zertifizierung zu verwenden:
 
-| BEZEICHNUNG | INHALT |
-|---|---|
-| Betriebsstättennummer (BSNR) | 391234511 |
-| BSNR-Bezeichnung | Praxis Dr. med. Heribert Topp-Glücklich |
-| Lebenslange Arztnummer (LANR) | 838382202 |
-| Arztname | Dr. med. Hans Topp-Glücklich |
-| Straße | Musterstr. |
-| Hausnummer | 1 |
-| PLZ/Ort | 64283 Darmstadt |
-| Telefon | 06151 / 1111111 |
-| Telefax | 06151 / 2222222 |
+**BEZEICHNUNG**
 
--
+**Betriebsstättennummer (BSNR)**
 
--
+**BSNR-Bezeichnung**
 
-erforderlichen Angaben  “ bereitgestellt. Die XML-
+**Lebenslange Arztnummer (LANR)**
+
+**Arztname**
+
+**Straße**
+
+**Hausnummer**
+
+**PLZ/Ort**
+
+**Telefon**
+
+**Telefax**
+
+Prüfstammdateien verwendet
+
+n einem jeweils separaten Verzeichnis die
+
+**INHALT**
+
+391234511
+
+Praxis Dr. med. Heribert Topp-Glücklich 838382202
+
+Dr. med. Hans Topp-Glücklich
+
+Musterstr.
+
+1
+
+64283 Darmstadt
+
+06151 / 1111111
+
+06151 / 2222222
+
+/ Version: 1.02 / 12. Februar 2024 -Kryptomodul (XKM)
 
 
 ---
 
-### 1.6.6 Krankenhausdaten
+**1.6.4** **Krankenhausdaten**
 
-Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der Begleitdatei als Absender bzw.  dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. Für die Angabe des  dokumentierenden Arztes, der auch hier genannt werden muss, ist der oben genannte Arztname zu  verwenden. Herr Topp-Glücklich ist also für die „Krankenhausfälle“ Angestellter des Krankenhauses und  betreut den Patienten im DMP. Es soll hier seine Telefonnummer angegeben werden. Die  Vertragsarztnummer spielt hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind  demzufolge zwei Absender (Krankenhaus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete  und zwei Begleitdateien einzureichen.
+Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der Begleitdatei als Absender bzw.  dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. Für die Angabe des  dokumentierenden Arztes, der auch hier genannt werden muss,  verwenden. Herr Topp-Glücklich ist also für die „Krankenhausfälle“ Angestellter des Krankenhauses und
 
-| BEZEICHNUNG | INHALT |
-|---|---|
-| Krankenhaus-IK | 856215715 |
-| Name des Krankenhauses | Test-Krankenhaus, Pneumologie |
-| Straße | Am Wehr |
-| Hausnummer | 20 |
-| Postleitzahl und Ort | 10437 Berlin |
-| Telefon | 06151 / 1111111 |
-| Telefax | 06151 / 2222222 |
+betreut den Patienten im DMP. Es soll hier seine Telefonnummer angegeben werden. Die  Vertragsarztnummer spielt hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind
 
-### 1.6.7 Prüfnummer
+demzufolge zwei Absender (Krankenhaus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete  und zwei Begleitdateien einzureichen.
 
-Folgende Default-Prüfnummern sind bei der Zertifizierung zu verwenden: - CR = X/107/2202/36/000
+**BEZEICHNUNG**
 
-- COPD = X/105/2202/36/000
+**Krankenhaus-IK**
 
-### 1.6.8 Stammdatei der Datenannahmestellen (SDDA)
+**Name des Krankenhauses**
 
-Der Empfänger der elektronischen Dokumentationen muss, soweit möglich, automatisiert mit Hilfe der  Daten der SDDA ermittelt werden. Ist dies nicht möglich (nötige Angaben in der SDDA fehlen), kann ein  beliebiger Empfänger gewählt werden. Für die Bearbeitung des Krankenhausfalls kann ein beliebiger  Empfänger gewählt werden.
+**Straße**
 
-### 1.6.9 Auflistung der Prüffälle
+**Hausnummer**
+
+**Postleitzahl und Ort**
+
+**Telefon**
+
+**Telefax**
+
+**1.6.5** **Prüfnummer**
+
+Folgende Default-Prüfnummern sind bei der Zertifizierung zu
+
+CR = X/107/2202/36/000  COPD = X/105/2202/36/000
+
+**1.6.6** **Stammdatei der Datenannahmestellen (SDDA)**
+
+Der Empfänger der elektronischen Dokumentationen muss, soweit möglich, automatisiert mit Hilfe der  Daten der SDDA ermittelt werden. Ist dies nicht  beliebiger Empfänger gewählt werden. Für die Bearbeitung des Krankenhausfalls kann ein beliebiger  Empfänger gewählt werden.
+
+**1.6.7** **Auflistung der Prüffälle**
 
 Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
-| PRÜFFALL-ID | NAME | VERZEICHNISNAME |
-|---|---|---|
-| 3511 | Viktor Müller | XML_09 |
-| 3512 | Monika Kleinjung | XML_08 |
-| 3518 | Brigitte Althaus | XML_05 |
-| 3520 | Kai von und zu Oldenburg | Ersatzverfahren (s Anhang 4.1) |
-| 3540 | Lija Malta | XML_36 |
+**PRÜFFALL-ID**
+
+**NAME**
+
+**3511**
+
+Viktor Müller
+
+**3512**
+
+Monika Kleinjung
+
+**3518**
+
+Brigitte Althaus
+
+**3520**
+
+Kai von und zu Oldenburg
+
+**3540**
+
+Lija Malta
+
+ist der oben genannte Arztname zu
+
+**INHALT**
+
+856215715
+
+Test-Krankenhaus, Pneumologie
+
+Am Wehr 20
+
+10437 Berlin
+
+06151 / 1111111
+
+06151 / 2222222
+
+verwenden:
+
+möglich (nötige Angaben in der SDDA fehlen), kann ein
+
+**VERZEICHNISNAME**
+
+XML_09
+
+XML_08
+
+XML_05
+
+Ersatzverfahren (s Anhang 4.1)
+
+XML_36
+
+/ Version: 1.02 / 12. Februar 2024
 
 
 ---
 
-# 2 PRÜFFÄLLE
+2 PRÜFFÄLLE
 
-## 2.1 PRÜFFÄLLE DOKUMENTATION
+**2.1** **PRÜFFÄLLE DOKUMENTATION**
 
 **2.1.1** **Prüffall 3511**
 
-|  |  |
-|---|---|
-| Prüffall-ID | 3511 |
-| Testziel | › |
-| Voraussetzung | › |
-| Prüfunterlagen | › |
-| Hinweis | › |
+**Prüffall-ID**
 
-**Aktionen, die durch den Antragsteller durchgeführt werden:**
+3511
 
-- **1.** **Versichertendaten:**
+**Testziel**
+
+Anlage einer Erst- und einer Verlaufsdokumentation
+
+**Voraussetzung**
+
+**Prüfunterlagen** 1. CR-Dokumentationsunterlagen
+
+**Hinweis**
+
+Bei der Erfassung des Prüffalls soll Prüffall 3530, Szenario vier erfasst werden.
+
+**Aktionen, die durch den Antragsteller durchgeführt werden:**  **1.** **Versichertendaten:**
 
 Die Versichertendaten von Viktor Müller (XML_09) einlesen und speichern.
 
-- **2.** **Bestimmung des Schweregrads nach von Korff:**
-
-Jeweils für die Erst- und Folgedokumentation die Antworten auf die Fragen des CPG-Fragebogens
+**2.** **Bestimmung des Schweregrads nach von Korff:**  Jeweils für die Erst- und Folgedokumentation die Antworten auf die Fragen des CPG Fragebogens
 
 erfassen und den Schweregrad berechnen.
 
-| CPG-FRAGEBOGEN |  | |
-|---|---|---|
-| Fragen | Erstdokumentation | Verlaufsdokumentation |
-| Frage 1: Wie würden Sie Ihre | 7 | 4 |
-| Frage 2: Wie würden Sie Ihre | 5 | 6 |
-| Frage 3: Wie stark waren Ihre Rückenschmerzen | 6 | 5 |
-| Frage 4: | 10 | 5 |
-| Frage 5: In welchem Maße haben Rückenschmerzen in | 4 | 4 |
-|  |  | |
-|  |  |  |
-|  |  |  |
+**CPG-FRAGEBOGEN**
 
-Anlage einer Erst- und einer Verlaufsdokumentation CR-Dokumentationsunterlagen Bei der Erfassung des Prüffalls soll Prüffall 3530, Szenario vier erfasst werden. momentanen Rückenschmerzen, d.h. jetzt im Augenblick , auf einer Skala einschätzen, wenn 0 = kein Schmerz und 10 = stärkster vorstellbarer Schmerz  bedeuten? stärksten Rückenschmerzen in den letzten 3 Monaten einschätzen, wenn 0 = kein Schmerz und 10 = stärkster vorstellbarer Schmerz bedeuten? in den letzten 3 Monaten im Durchschnitt , wenn 0 = kein Schmerz und 10 = stärkster vorstellbarer Schmerz bedeuten? An wie vielen Tagen  konnten Sie in den letzten 3 Monaten aufgrund von Rückenschmerzen nicht Ihren üblichen Aktivitäten nachgehen (z. B. Arbeit, Schule, Haushalt)? den letzten 3 Monaten Ihre alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) beeinträchtigt, wenn 0 = keine Beeinträchtigung und  10 = keine Aktivitäten  mehr möglich bedeuten?
+Fragen
+
+Erstdokumentation Verlaufsdokumentation 7
+
+4
+
+Frage 1: Wie würden Sie Ihre **momentanen**
+
+Rückenschmerzen, d.h. **jetzt im Augenblick**, auf einer
+
+Skala einschätzen, wenn *0 = kein Schmerz und 10 =*
+
+*stärkster vorstellbarer Schmerz* bedeuten?
+
+5
+
+6
+
+Frage 2: Wie würden Sie Ihre **stärksten Rückenschmerzen**
+
+in den letzten 3 Monaten einschätzen, wenn *0 = kein*
+
+*Schmerz und 10 = stärkster vorstellbarer Schmerz*
+
+bedeuten?
+
+6
+
+5
+
+Frage 3: Wie stark waren Ihre Rückenschmerzen **in den**
+
+**letzten 3 Monaten im Durchschnitt**, wenn *0 = kein*
+
+*Schmerz und 10 = stärkster vorstellbarer Schmerz*
+
+bedeuten?
+
+10
+
+5
+
+Frage 4: **An wie vielen Tagen** konnten Sie in den letzten 3
+
+Monaten aufgrund von Rückenschmerzen nicht Ihren  üblichen Aktivitäten nachgehen (z. B. Arbeit, Schule,  Haushalt)?
+
+4
+
+4
+
+Frage 5: In welchem Maße haben Rückenschmerzen in  den letzten 3 Monaten Ihre alltäglichen Aktivitäten  (Ankleiden, Waschen, Essen, Einkaufen etc.)  beeinträchtigt, wenn *0 = keine Beeinträchtigung und*
+
+*10 = keine Aktivitäten* mehr möglich bedeuten?
+
+/ Version: 1.02 / 12. Februar 2024
+
 
 ---
 
-| Datum der Erstellung |  | |
-|---|---|---|
-|  |  |  |
-|  | 135 / 85 mmHg |  |
-|  | Nein |  |
-|  | Erkrankungen |  |
-|  |  |  |
-|  | Körperliches Training | Körperliches Training |
-| CPG-FRAGEBOGEN |  | |
-| Frage 6: In welchem Maße haben Rückenschmerzen in | 6 | 6 |
-| Frage 7: In welchem Maße haben Rückenschmerzen in | 5 | 2 |
+**CPG-FRAGEBOGEN**
 
-- **3.**
+Frage 6: In welchem Maße haben Rückenschmerzen in  den letzten 3 Monaten Ihre  Unternehmungen im **Familien- und Freundeskreis**
 
-den letzten 3 Monaten Ihre Freizeitaktivitäten Unternehmungen im Familien- und Freundeskreis beeinträchtigt, wenn 0 = keine Beeinträchtigung und  10 = keine Aktivitäten mehr möglich  bedeuten? den letzten 3 Monaten Ihre Arbeitsfähigkeit (einschließlich Hausarbeit) beeinträchtigt, wenn Beeinträchtigung und 10 = keine Aktivitäten mehr möglich bedeuten? Anlegen einer Erst- und einer Verlaufsdokumentation INDIKATIONSÜBERGREIFENDE  DATEN Administrative Daten DMP-Fallnummer Krankenhaus-IK Dokumentation in Vertretung erstellt Einschreibung wegen Geschlecht Allgemeine Anamnese- und Befunddaten Körpergröße Körpergewicht Blutdruck (systolisch / diastolisch) Raucher Begleiterkrankungen Behandlungsplanung Vom Patienten gewünschte Informationsangebote der Krankenkasse Dokumentationsintervall  oder 0 = keine Erstdokumentation 3511 06.04.2024  15.mm.jjjj chronischer Männlich 2,01 m 106 kg 145 / 90 mmHg Ja Arterielle Hypertonie Tabakverzicht, Ernährungsberatung,  Quartalsweise 06.04.2024  15.mm.jjjj Verlaufsdokumentation 3511 06.07.2024  15.mm.jjjj chronischer Männlich 2,01 m 96 kg Keine der genannten Jedes zweite Quartal 06.07.2024  15.mm.jjjj
+beeinträchtigt, wenn *0 = keine Beeinträchtigung und*
 
-| INDIKATIONSÜBERGREIFENDE | | |
-|---|---|---|
-| Administrative Daten | Erstdokumentation | Verlaufsdokumentation |
-| DMP-Fallnummer | 3511 | 3511 |
-| Krankenhaus-IK |  |  |
-| Dokumentation in Vertretung erstellt |  |  |
-| Datum | 06.04.2024  15.mm.jjjj | 06.07.2024  15.mm.jjjj |
-| Einschreibung wegen | chronischer | Rückenschmerz |
-| Geschlecht | Männlich | Männlich |
-| Allgemeine Anamnese- und Befunddaten | | |
-| Körpergröße | 2,01 m | 2,01 m |
-| Körpergewicht | 106 kg | 96 kg |
-| Blutdruck (systolisch / diastolisch) | 145 / 90 mmHg | 135 / 85 mmHg |
-| Raucher | Ja | Nein |
-| Begleiterkrankungen | Arterielle Hypertonie | Erkrankungen |
-| Behandlungsplanung | | |
-| Vom Patienten gewünschte | Tabakverzicht,  Körperliches Training | Körperliches Training |
-| Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
-| Datum der Erstellung | 06.04.2024  15.mm.jjjj | 06.07.2024  15.mm.jjjj |
+*10 = keine Aktivitäten mehr möglich*
+
+Frage 7: In welchem Maße haben Rückenschmerzen in  den letzten 3 Monaten Ihre  (einschließlich Hausarbeit) beeinträchtigt, wenn  *Beeinträchtigung und 10 = keine Aktivitäten mehr möglich* bedeuten?
+
+**3.** **Anlegen einer Erst- und einer Verlaufsdokumentation**  **INDIKATIONSÜBERGREIFENDE DATEN**
+
+**Administrative Daten**
+
+DMP-Fallnummer
+
+Krankenhaus-IK
+
+Dokumentation in Vertretung erstellt
+
+Datum
+
+Einschreibung wegen
+
+Geschlecht
+
+**Allgemeine Anamnese- und Befunddaten**
+
+Körpergröße
+
+Körpergewicht
+
+Blutdruck (systolisch / diastolisch)
+
+Raucher
+
+Begleiterkrankungen
+
+**Behandlungsplanung**
+
+Vom Patienten gewünschte  Informationsangebote der Krankenkasse
+
+Dokumentationsintervall
+
+Datum der Erstellung
+
+**Freizeitaktivitäten**
+
+bedeuten?
+
+**Arbeitsfähigkeit**
+
+6
+
+oder 5
+
+*0 = keine*
+
+**Erstdokumentation**
+
+3511
+
+05.04.2023 06.04.2024
+
+chronischer  Rückenschmerz
+
+Männlich 2,01 m
+
+106 kg
+
+145 / 90 mmHg
+
+Ja
+
+Arterielle Hypertonie
+
+Tabakverzicht,  Ernährungsberatung,  Körperliches Training
+
+Quartalsweise 05.04.2023 06.04.2024
+
+/ Version: 1.02 / 12. Februar 2024 6
+
+2
+
+**Verlaufsdokumentation**
+
+3511
+
+05.10.2023 06.07.2024
+
+chronischer  Rückenschmerz
+
+Männlich 2,01 m
+
+96 kg
+
+135 / 85 mmHg
+
+Nein
+
+Keine der genannten  Erkrankungen
+
+Körperliches Training
+
+Jedes zweite Quartal 05.10.2023 06.07.2024
 
 
 ---
 
-| INDIKATIONS | | |
-|---|---|---|
-|  | Erstdokumentation | Verlaufsdokumentation |
-| Relevante Ereignisse | | |
-| Ungeplante ambulante oder stationäre |  | 5 |
-| Medikamente | | |
-| Aktuelle kreuzschmerzbedingte | Ja, länger als 12 Wochen | Ja, weniger als 12 |
-| Aktuelle kreuzschmerzbedingte | Dauerhaft | Bei Bedarf |
-| Schulung | | |
-| Bereits vor Einschreibung in das DMP an einer | Nein |  |
-| Kreuzschmerz-spezifische Schulung empfohlen | Ja | Ja |
-| Kreuzschmerz-spezifische Schulung |  | Ja |
-| Sonstige Behandlung | | |
-| Regelmäßig körperlich aktiv | Nicht möglich | Ja |
-| CPG Item 3: Durchschnittliche Stärke der | Automatische | Automatische |
-| CPG Item 5: Kreuzschmerzbedingte | Automatische | Automatische |
-| Erreichung mindestens eines der individuell |  | Mindestens ein Ziel |
-| Beendigung der DMP-Teilnahme vereinbart |  | Nein |
+**INDIKATIONSPEZIFISCHE DATEN**
 
-/ Version: 1.03 / 31. März 2026
+**Relevante Ereignisse**
 
-PEZIFISCHE DATEN kreuzschmerzbedingte Akutbehandlung seit der letzten Dokumentation Schmerzmedikation: Opioidanalgetika Schmerzmedikation: Nicht-Opioidanalgetika multimodalen Schulung teilgenommen (bei aktueller Dokumentation) wahrgenommen Kreuzschmerzen in den letzten drei Monaten Beeinträchtigung der alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei Monaten vereinbarten Ziele seit der letzten Dokumentation Übernahme aus dem CPG-Fragebogen Übernahme aus dem CPG-Fragebogen Übernahme aus dem CPG-Fragebogen Übernahme aus dem CPG-Fragebogen erreicht
+Ungeplante ambulante oder stationäre  kreuzschmerzbedingte Akutbehandlung seit der  letzten Dokumentation
+
+**Medikamente**
+
+Aktuelle kreuzschmerzbedingte  Schmerzmedikation: Opioidanalgetika
+
+Aktuelle kreuzschmerzbedingte  Schmerzmedikation: Nicht-Opioidanalgetika
+
+**Schulung**
+
+Bereits vor Einschreibung in das DMP an einer  multimodalen Schulung teilgenommen
+
+Kreuzschmerz-spezifische Schulung empfohlen  (bei aktueller Dokumentation)
+
+Kreuzschmerz-spezifische Schulung  wahrgenommen
+
+**Sonstige Behandlung**
+
+Regelmäßig körperlich aktiv
+
+CPG Item 3: Durchschnittliche Stärke der  Kreuzschmerzen in den letzten drei Monaten
+
+CPG Item 5: Kreuzschmerzbedingte  Beeinträchtigung der alltäglichen Aktivitäten  (Ankleiden, Waschen, Essen, Einkaufen etc.)  den letzten drei Monaten
+
+Erreichung mindestens eines der individuell  vereinbarten Ziele seit der letzten Dokumentation
+
+Beendigung der DMP-Teilnahme vereinbart
+
+**Erstdokumentation**
+
+Ja, länger als 12 Wochen
+
+Dauerhaft
+
+Nein
+
+Ja
+
+Nicht möglich
+
+Automatische
+
+Übernahme aus dem  CPG-Fragebogen
+
+Automatische  Übernahme aus dem
+
+in CPG-Fragebogen
+
+/ Version: 1.02 / 12. Februar 2024
+
+**Verlaufsdokumentation**
+
+5
+
+Ja, weniger als 12
+
+Bei Bedarf
+
+Ja
+
+Ja
+
+Ja
+
+Automatische  Übernahme aus dem  CPG-Fragebogen
+
+Automatische  Übernahme aus dem  CPG-Fragebogen
+
+Mindestens ein Ziel  erreicht
+
+Nein
 
 
 ---
 
 **2.1.2** **Prüffall 3512**
 
-|  |  |
-|---|---|
-| Prüffall-ID | 3512 |
-| Testziel | › |
-| Voraussetzung | › |
-| Prüfunterlagen | › |
-| Hinweis | › |
+**Prüffall-ID**
 
-**Aktionen, die durch den Antragsteller durchgeführt werden:**
+3512
 
-- **1.** **Versichertendaten:**
+**Testziel**
 
-Die Versichertendaten von
+Anlage einer Erst- und einer Verlaufsdokumentation
 
-- **2.** **Anlegen einer Erst- und einer Verlaufsdokumentation**
+**Voraussetzung**
 
-| INDIKATIONSÜBERGREIFENDE | | |
-|---|---|---|
-| Administrative Daten | Erstdokumentation | Verlaufsdokumentation |
-| DMP-Fallnummer | 3512 | 3512 |
-| Krankenhaus-IK |  |  |
-| Dokumentation in Vertretung erstellt |  | Ja |
-| Datum | 06.04.2024  15.mm.jjjj | 06.07.2024  15.mm.jjjj |
-| Einschreibung wegen | Chronischer | Chronischer |
-| Geschlecht | Weiblich | Weiblich |
-| Allgemeine Anamnese- und Befunddaten | | |
-| Körpergröße | 1,50 m | 1,50 m |
-| Körpergewicht | 050 kg | 050 kg |
-| Blutdruck | 100 / 50 mmHg | 105 / 55 mmHg |
-| Raucher | Nein | Nein |
-| Begleiterkrankungen | Erkrankungen | COPD |
-| Behandlungsplanung | | |
-| Vom Patienten gewünschte | Ernährungsberatung,   Körperliches Training | Körperliches Training |
-| Dokumentationsintervall | Quartalsweise | Quartalsweise |
-| Datum der Erstellung | 06.04.2024  15.mm.jjjj | 06.07.2024  15.mm.jjjj |
+**Prüfunterlagen** 1. CR-Dokumentationsunterlagen
 
-Monika Kleinjung (XML_08) einlesen und speichern.
+**Hinweis**
 
-Anlage einer Erst- und einer Verlaufsdokumentation CR-Dokumentationsunterlagen  DATEN Informationsangebote der Krankenkasse Rückenschmerz Keine der genannten Rückenschmerz
+**Aktionen, die durch den Antragsteller durchgeführt werden:** **1.** **Versichertendaten:**
+
+Die Versichertendaten von Monika Kleinjung (XML_08) einlesen und speichern.   **2.** **Anlegen einer Erst- und einer Verlaufsdokumentation** **INDIKATIONSÜBERGREIFENDE DATEN**
+
+**Administrative Daten**
+
+DMP-Fallnummer
+
+Krankenhaus-IK
+
+Dokumentation in Vertretung erstellt
+
+Datum
+
+Einschreibung wegen
+
+Geschlecht
+
+**Allgemeine Anamnese- und Befunddaten**
+
+Körpergröße
+
+Körpergewicht
+
+Blutdruck
+
+Raucher
+
+Begleiterkrankungen
+
+**Behandlungsplanung**
+
+Vom Patienten gewünschte  Informationsangebote der Krankenkasse
+
+Dokumentationsintervall
+
+Datum der Erstellung
+
+**Erstdokumentation**
+
+3512
+
+05.04.2023 06.04.2024
+
+Chronischer  Rückenschmerz
+
+Weiblich 1,50 m
+
+050 kg
+
+100 / 50 mmHg
+
+Nein
+
+Keine der genannten  Erkrankungen
+
+Ernährungsberatung,
+
+Körperliches Training
+
+Quartalsweise 05.04.2023 06.04.2024
+
+/ Version: 1.02 / 12. Februar 2024
+
+**Verlaufsdokumentation**
+
+3512
+
+Ja 05.10.2023 06.07.2024
+
+Chronischer  Rückenschmerz
+
+Weiblich 1,50 m
+
+050 kg
+
+105 / 55 mmHg
+
+Nein
+
+COPD
+
+Körperliches Training
+
+Quartalsweise 05.10.2023 06.07.2024
+
 
 ---
 
-| INDIKATIONS | | |
-|---|---|---|
-|  | Erstdokumentation | Verlaufsdokumentation |
-| Relevante Ereignisse | | |
-| Ungeplante ambulante oder stationäre |  | 6 |
-| Medikamente | | |
-| Aktuelle kreuzschmerzbedingte | Ja, länger als 12 Wochen | Ja, länger als 12 Wochen |
-| Aktuelle kreuzschmerzbedingte | Bei Bedarf | Nein |
-| Schulung | | |
-| Bereits vor Einschreibung in das DMP an einer | Ja |  |
-| Kreuzschmerz-spezifische Schulung empfohlen | Ja | Ja |
-| Kreuzschmerz-spezifische Schulung |  | War aktuell nicht möglich |
-| Sonstige Behandlung | | |
-| Regelmäßig körperlich aktiv | Nicht möglich | Ja |
-| CPG Item 3: Durchschnittliche Stärke der | 5 | 4 |
-| CPG Item 5: Kreuzschmerzbedingte | 6 | 4 |
-| Erreichung mindestens eines der individuell |  | Kein Ziel vereinbart |
-| Beendigung der DMP-Teilnahme vereinbart |  | Nein |
+**INDIKATIONSPEZIFISCHE DATEN**
 
-PEZIFISCHE DATEN kreuzschmerzbedingte Akutbehandlung seit der letzten Dokumentation Schmerzmedikation: Opioidanalgetika Schmerzmedikation: Nicht-Opioidanalgetika multimodalen Schulung teilgenommen (bei aktueller Dokumentation) wahrgenommen Kreuzschmerzen in den letzten drei Monaten Beeinträchtigung der alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei Monaten vereinbarten Ziele seit der letzten Dokumentation
+**Erstdokumentation Verlaufsdokumentation**
+
+**Relevante Ereignisse**
+
+Ungeplante ambulante oder stationäre 6
+
+kreuzschmerzbedingte Akutbehandlung seit der  letzten Dokumentation
+
+**Medikamente**
+
+Aktuelle kreuzschmerzbedingte
+
+Ja, länger als 12 Wochen Ja, länger als 12 Wochen
+
+Schmerzmedikation: Opioidanalgetika
+
+Aktuelle kreuzschmerzbedingte
+
+Bei Bedarf
+
+Nein
+
+Schmerzmedikation: Nicht-Opioidanalgetika
+
+**Schulung**
+
+Bereits vor Einschreibung in das DMP an einer Ja
+
+multimodalen Schulung teilgenommen
+
+Kreuzschmerz-spezifische Schulung empfohlen Ja
+
+Ja (bei aktueller Dokumentation)
+
+Kreuzschmerz-spezifische Schulung
+
+War aktuell nicht möglich
+
+wahrgenommen
+
+**Sonstige Behandlung**
+
+Regelmäßig körperlich aktiv
+
+Nicht möglich
+
+Ja
+
+CPG Item 3: Durchschnittliche Stärke der 5
+
+4
+
+Kreuzschmerzen in den letzten drei Monaten
+
+CPG Item 5: Kreuzschmerzbedingte 6
+
+4
+
+Beeinträchtigung der alltäglichen Aktivitäten  (Ankleiden, Waschen, Essen, Einkaufen etc.) in
+
+den letzten drei Monaten
+
+Erreichung mindestens eines der individuell
+
+Kein Ziel vereinbart
+
+vereinbarten Ziele seit der letzten Dokumentation
+
+Beendigung der DMP-Teilnahme vereinbart
+
+Nein
+
+/ Version: 1.02 / 12. Februar 2024
+
 
 ---
 
 **2.1.3** **Prüffall 3520**
 
-|  |  |
-|---|---|
-| Prüffall-ID | 3520 |
-| Testziel | › |
-| Voraussetzung | › |
-| Prüfunterlagen | › › |
-| Hinweis | › |
+**Prüffall-ID**
 
-**Aktionen, die durch den Antragsteller durchgeführt werden:**
+3520
 
-- **1.** **Versichertendaten:**
+**Testziel**
 
-Die Versichertendaten von Kai von und zu Oldenburg (Siehe Anhang 4.1) im Ersatzverfahren erfassen.
+Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider  Einschreibung
 
-- **2.** **Anlegen einer Erst- und einer Verlaufsdokumentation**
+**Voraussetzung**
 
-| INDIKATIONSÜBERGREIFENDE | | |
-|---|---|---|
-| Administrative Daten | Erstdokumentation | Verlaufsdokumentation |
-| DMP-Fallnummer | 3520 | 3520 |
-| Krankenhaus-IK | 856215715 | 856215715 |
-| Dokumentation in Vertretung erstellt |  |  |
-| Datum | 06.04.2024  15.mm.jjjj | 06.07.2024  15.mm.jjjj |
-| Einschreibung wegen | Chronischer | Chronischer |
-| Geschlecht | Männlich | Männlich |
-| Allgemeine Anamnese- und Befunddaten | | |
-| Körpergröße | 1,75 m | 1,75 m |
-| Körpergewicht | 064 kg | 062 kg |
-| Blutdruck | 123 / 72 mmHg | 124 / 76 mmHg |
-| Raucher | Ja | Nein |
-| Begleiterkrankungen | Nach Funktion P1-47 des | Nach Funktion P1-47 des |
-|  | | |
-|  |  |  |
-|  |  |  |
-|  |  | Raucher |
+**Prüfunterlagen** 1. CR-Dokumentationsunterlagen
+2. zusätzlich COPD-Dokumentationsunterlagen
 
--
+**Hinweis**
 
-Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider Einschreibung CR-Dokumentationsunterlagen zusätzlich COPD-Dokumentationsunterlagen Sofern das System eine Zulassung für die Indikation COPD verfügt, müssen die entsprechenden Daten ebenfalls dokumentiert werden. Sollte das System keine COPD-Zulassung besitzen, dann sind nur die CR-Daten zu übermitteln  DATEN Rückenschmerz, COPD Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die CR- Dokumentation ist dies COPD Rückenschmerz, COPD Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die CR- Dokumentation ist dies COPD
+Sofern das System eine Zulassung für die Indikation COPD verfügt, müssen die  entsprechenden Daten ebenfalls dokumentiert werden. Sollte d COPD-Zulassung besitzen, dann sind nur die CR-Daten zu übermitteln.
 
----
+**Aktionen, die durch den Antragsteller durchgeführt werden:** **1.** **Versichertendaten:**
 
-|  | | |
-|---|---|---|
-|  |  |  |
-| Dauermedikation |  |  |
-| Lang wirksame Anticholinergika | Keine |  |
-|  | Nein | Ja |
-| COPD |  |  |
-|  |  | Aktuelle kreuzschmerzbedingte |
-|  | CR |  |
-|  | | |
-|  |  | COPD |
-| Nein |  |  |
-| Schulung schon vor der Einschreibung in |  |  |
-| 06.07.2024  15.mm.jjjj | Anamnese- und Befunddaten | Erstdokumentation |
-| Medikamente |  |  |
-| Behandlungsplanung | | |
-| Vom Patienten gewünschte | Ernährungsberatung | Körperliches Training |
-| Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
-| Datum der Erstellung | 06.04.2024  15.mm.jjjj | 06.07.2024  15.mm.jjjj |
+Die Versichertendaten von Kai von und zu Oldenburg **Verweisquelle konnte nicht gefunden werden.**  **2.** **Anlegen einer Erst- und einer Verlaufsdokumentation** **INDIKATIONSÜBERGREIFENDE DATEN**
 
-| INDIKATIONS | | | |
-|---|---|---|---|
-| Anamnese- und Befunddaten | Erstdokumentation | Verlaufsdokumentation | |
-| COPD | Aktueller FEV1-Wert (alle sechs bis zwölf | 060,0 Prozent des | 092,0 Prozent des Soll |
-| COPD | Klinische Einschätzung des | Nein | Nein |
-| Relevante Ereignisse | | | |
-| COPD | Häufigkeit von Exazerbationen seit der |  | 2 |
-| COPD | Ungeplante, auch notfallmäßige |  | 1 |
-| CR | Ungeplante ambulante oder stationäre |  | 6 |
-| Medikamente | | | |
-| COPD | Kurz wirksame Beta-2-Sympathomimetika | Kontraindikation | Dauermedikation |
-| COPD | Lang wirksame Beta-2-Sympathomimetika | Dauermedikation | Kontraindikation |
-| COPD | Lang wirksame Anticholinergika | Keine, Kontraindikation | Keine |
-| COPD | Inhalationstechnik überprüft | Nein | Ja |
-| COPD | Sonstige diagnosespezifische Medikation | Andere | Inhalative |
-| CR | Aktuelle kreuzschmerzbedingte | Ja, länger als 12 Wochen | Ja, weniger als 12 |
-| CR | Aktuelle kreuzschmerzbedingte | Dauerhaft | Bei Bedarf |
-| Schulung | | | |
-| COPD | COPD-Schulung empfohlen (bei aktueller | Nein | Ja |
-| COPD | Schulung schon vor der Einschreibung in | Nein |  |
-|  |  |  |  |
-|  | Körperliches Training |  |  |
-| Quartalsweise |  |  | Datum der Erstellung |
-|  |  |  |  |
-| Lang wirksame Beta-2-Sympathomimetika | | | |
-|  |  |  |  |
-| COPD | Aktueller FEV1-Wert (alle sechs bis zwölf | 060,0 Prozent des | 092,0 Prozent des Soll |
-| COPD | Klinische Einschätzung des | Nein | Nein |
-|  |  |  |  |
-|  |  | 2 |  |
-|  |  | 1 |  |
-|  |  | 6 |  |
-|  |  |  |  |
-| Kurz wirksame Beta-2-Sympathomimetika | Dauermedikation |  |  |
+**Administrative Daten**
 
-Informationsangebote der Krankenkasse INDIKATIONS Relevante Ereignisse PEZIFISCHE DATEN Aktueller FEV1-Wert (alle sechs bis zwölf Monate) Klinische Einschätzung des Osteoporoserisikos durchgeführt Häufigkeit von Exazerbationen seit der letzten Dokumentation Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen COPD seit der letzten Ungeplante ambulante oder stationäre kreuzschmerzbedingte Akutbehandlung seit der letzten Dokumentation Kurz wirksame Beta-2-Sympathomimetika und/oder Anticholinergika Lang wirksame Beta-2-Sympathomimetika Inhalationstechnik überprüft Sonstige diagnosespezifische Medikation Schmerzmedikation: Opioidanalgetika Schmerzmedikation: Nicht- Opioidanalgetika COPD-Schulung empfohlen (bei aktueller Dokumentation) DMP bereits wahrgenommen 060,0 Prozent des Wertes Kontraindikation Keine, Kontraindikation Andere Ja, länger als 12 Wochen Dauerhaft Verlaufsdokumentation Soll- 092,0 Prozent des Soll Wertes Kontraindikation Inhalative Glukokortikosteroide Ja, weniger als 12 Wochen Bei Bedarf
+DMP-Fallnummer
 
----
+Krankenhaus-IK
 
-|  | | | |
-|---|---|---|---|
-|  |  |  | |
-| COPD | Empfehlung zur Teilnahme an | Ja |  |
-| COPD | An einem Tabakentwöhnungsprogram |  | Ja |
-|  | | | |
-|  |  | Regelmäßig körperlich aktiv | Nicht möglich |
-|  |  | CPG Item 3: Durchschnittliche Stärke der | 8 |
-|  |  | CPG Item 5: Kreuzschmerzbedingte | 5 |
-|  | | | |
-|  | CR |  | Beendigung der DMP-Teilnahme |
-|  | Behandlungsplanung / Sonstige Behandlung |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  | | | |
-|  |  |  |  |
-|  |  |  |  |
-| COPD | Empfohlene Schulung wahrgenommen |  | Bei letzter |
-| CR | Bereits vor Einschreibung in das DMP an | Nein |  |
-| CR | Kreuzschmerz-spezifische Schulung | Nein | Ja |
-| CR | Kreuzschmerz-spezifische Schulung |  | Bei letzter |
-| Behandlungsplanung / Sonstige Behandlung | | | |
-| COPD | Empfehlung zum Tabakverzicht | Ja |  |
-| COPD | Empfehlung zur Teilnahme an | Ja |  |
-| COPD | An einem Tabakentwöhnungsprogram |  | Ja |
-| COPD | Empfehlung zum körperlichen Training | Nein | Ja |
-| CR | Regelmäßig körperlich aktiv | Nicht möglich | Ja |
-| CR | CPG Item 3: Durchschnittliche Stärke der | 8 | 4 |
-| CR | CPG Item 5: Kreuzschmerzbedingte | 5 | 3 |
-| CR | Erreichung mindestens eines der |  | Mindestens ein Ziel |
-| CR | Beendigung der DMP-Teilnahme |  | Nein |
+Dokumentation in Vertretung erstellt
 
-einer multimodalen Schulung teilgenommen empfohlen (bei aktueller Dokumentation) ausgesprochen Tabakentwöhnungsprogramm ausgesprochen seit der letzten Empfehlung teilgenommen ausgesprochen Kreuzschmerzen in den letzten drei Monaten Beeinträchtigung der alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei Monaten individuell vereinbarten Ziele seit der letzten Dokumentation vereinbart Dokumentation keine Schulung empfohlen Dokumentation keine Schulung empfohlen erreicht
+Datum
+
+Einschreibung wegen
+
+Geschlecht
+
+**Allgemeine Anamnese- und Befunddaten**
+
+Körpergröße
+
+Körpergewicht
+
+Blutdruck
+
+Raucher
+
+Begleiterkrankungen
+
+(Siehe Prüffall 10  Ersatzverfahren
+
+) im Ersatzverfahren erfassen.
+
+**Erstdokumentation**
+
+3520
+
+856215715
+
+05.04.2023 06.04.2024
+
+Chronischer  Rückenschmerz, COPD
+
+Männlich 1,75 m
+
+064 kg
+
+123 / 72 mmHg
+
+Ja
+
+Nach Funktion P1-47 des  Anforderungskatalogs  müssen die anderen  eingeschriebenen  Indikationen automatisch  übernommen werden.  Für die CR- Dokumentation ist dies  COPD
+
+/ Version: 1.02 / 12. Februar 2024
+
+as System keine
+
+**Fehler!**
+
+**Verlaufsdokumentation**
+
+3520
+
+856215715
+
+05.10.2023 06.07.2024
+
+Chronischer  Rückenschmerz, COPD
+
+Männlich 1,75 m
+
+062 kg
+
+124 / 76 mmHg
+
+Nein
+
+Nach Funktion P1-47 des  Anforderungskatalogs  müssen die anderen  eingeschriebenen  Indikationen automatisch  übernommen werden.  Für die CR- Dokumentation ist dies  COPD
+
 
 ---
 
-## 2.2 PRÜFFALL SYSTEMREAKTION
+**Behandlungsplanung**
 
-### 2.2.1
+Vom Patienten gewünschte  Informationsangebote der Krankenkasse
 
-**Prüffall 3514**
+Dokumentationsintervall
 
-|  |  |
-|---|---|
-| Prüffall-ID | 3514 |
-| Testziel | › |
-| Voraussetzung | › |
-| Prüfunterlagen | ›   › |
-| Hinweis | › |
+Datum der Erstellung
 
-**Aktionen, die durch den Antragsteller durchgeführt werden:**
+**INDIKATIONSPEZIFISCHE DATEN**
 
-- **1.** **Versichertendaten:**
+**Anamnese- und Befunddaten**
 
-Die Personalien zu dem Testfall sind frei wählbar.
+COPD
 
-- **2.** **Anlegen einer Erstdokumentation:**
-
-| INDIKATIONSÜBERGREIFENDE | | |
+| Aktueller FEV1-Wert (alle 6 sechs bis 12 | 060,0 Prozent des Soll- |  |
 |---|---|---|
-| Administrative Daten | Erstdokumentation | Aktion |
-| DMP-Fallnummer | 3514 |  |
-| Krankenhaus-IK |  |  |
-| Dokumentation in Vertretung erstellt |  |  |
-| Datum | 06.04.2024  15.mm.jjjj |  |
-| Einschreibung wegen | Rückenschmerz |  |
-| Geschlecht | Je nach Auswahl des |  |
-| Allgemeine Anamnese- und Befunddaten | | |
-| Körpergröße | 1,80 m |  |
-| Körpergewicht | 819 kg |  |
-| Blutdruck | 85 / 120 mmHg |  |
-| Raucher |  |  |
-| Begleiterkrankungen |  | Nr. 1 |
-| Behandlungsplanung | | |
-| Vom Patienten gewünschte Informationsangebote der | Körperliches Training |  |
-| Dokumentationsintervall | Monatsweise | Nr. 2 |
+| zwölf Monate) | Wertes |  |
 
-Kontrolle der softwareseitigen Erkennung von Fehleingaben Patient oder Patientin ist mindestens 18 Jahre alt Dokumentieren Sie durch Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert. Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben sind. Video(s) die Eingaben nach einer möglichen  DATEN Krankenkasse Chronischer
+COPD Klinische Einschätzung des  Osteoporoserisikos durchgeführt
+
+**Relevante Ereignisse**
+
+COPD Häufigkeit von Exazerbationen seit der  letzten Dokumentation
+
+COPD Ungeplante, auch notfallmäßige  (ambulant und stationär) ärztliche  Behandlung wegen COPD seit der letzten  Dokumentation   Stationäre notfallmäßige Behandlung  wegen COPD seit der letzten  Dokumentation
+
+CR Ungeplante ambulante oder stationäre  kreuzschmerzbedingte Akutbehandlung  seit der letzten Dokumentation
+
+**Medikamente**
+
+COPD Kurz wirksame Beta-2-Sympathomimetika  und/oder Anticholinergika
+
+COPD Lang wirksame Beta-2-Sympathomimetika
+
+COPD Lang wirksame Anticholinergika
+
+COPD Inhalationstechnik überprüft
+
+COPD Sonstige diagnosespezifische Medikation
+
+CR Aktuelle kreuzschmerzbedingte  Schmerzmedikation: Opioidanalgetika
+
+CR Aktuelle kreuzschmerzbedingte  Schmerzmedikation: Nicht- Opioidanalgetika
+
+**Schulung**
+
+Ernährungsberatung
+
+Quartalsweise 05.04.2023 06.04.2024
+
+**Erstdokumentation**
+
+Nein
+
+Kontraindikation
+
+Dauermedikation
+
+Keine, Kontraindikation
+
+Nein
+
+Theophyllin, Andere
+
+Ja, länger als 12 Wochen
+
+Dauerhaft
+
+/ Version: 1.02 / 12. Februar 2024
+
+Körperliches Training
+
+Jedes zweite Quartal 05.10.2023 06.07.2024
+
+**Verlaufsdokumentation**
+
+Nein 2
+
+1
+
+6
+
+Dauermedikation
+
+Kontraindikation
+
+Keine
+
+Ja
+
+Inhalative  Glukokortikosteroide
+
+Ja, weniger als 12  Wochen
+
+Bei Bedarf 092,0 Prozent des Soll-
 
 ---
 
-| INDIKATIONS | | |
-|---|---|---|
-| Relevante Ereignisse | | |
-| Ungeplante ambulante oder stationäre | 10 | Nr.3 |
-| Medikamente | | |
-| Aktuelle kreuzschmerzbedingte Schmerzmedikation: | Ja | Nr. 4 |
-| Aktuelle kreuzschmerzbedingte Schmerzmedikation: | Bei Bedarf, Nein | Nr. 5 |
-| Schulung | | |
-| Bereits vor Einschreibung in das DMP an einer | Nein |  |
-| Kreuzschmerz-spezifische Schulung empfohlen (bei | Ja |  |
-| Kreuzschmerz-spezifische Schulung wahrgenommen | Ja | Nr. 6 |
-| Sonstige Behandlung | Erstdokumentation | Aktion |
-| Regelmäßig körperlich aktiv | Ja |  |
-| CPG Item 3: Durchschnittliche Stärke der Kreuzschmerzen | 11 | Nr. 7 |
-| CPG Item 5: Kreuzschmerzbedingte Beeinträchtigung der | 1,5 | Nr. 8 |
-| Erreichung mindestens eines der individuell vereinbarten | Mindestens ein Ziel | Nr. 9 |
-| Beendigung der DMP-Teilnahme vereinbart | Nein | Nr. 10 |
+COPD
 
-- **3.** **Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation**  **abgeschlossen werden kann.**
+COPD
 
-SPEZIFISCHE DATEN kreuzschmerzbedingte Akutbehandlung seit der letzten Dokumentation Opioidanalgetika Nicht-Opioidanalgetika multimodalen Schulung teilgenommen aktueller Dokumentation) in den letzten drei Monaten alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei Monaten Ziele seit der letzten Dokumentation erreicht
+COPD
+
+CR
+
+CR
+
+CR
+
+**Behandlungsplanung / Sonstige Behandlung**
+
+COPD
+
+COPD
+
+COPD
+
+COPD
+
+COPD
+
+CR
+
+CR
+
+CR
+
+CR
+
+CR
+
+COPD-Schulung empfohlen (bei aktueller  Dokumentation)
+
+Schulung schon vor der Einschreibung in  ein DMP bereits wahrgenommen
+
+Empfohlene Schulung wahrgenommen
+
+Bereits vor Einschreibung in das DMP an  einer multimodalen Schulung  teilgenommen
+
+Kreuzschmerz-spezifische Schulung  empfohlen (bei aktueller Dokumentation)
+
+Kreuzschmerz-spezifische Schulung  wahrgenommen
+
+COPD-bezogene Über- bzw. Einweisung  veranlasst
+
+Empfehlung zum Tabakverzicht  ausgesprochen
+
+Empfehlung zur Teilnahme an  Tabakentwöhnungsprogramm  ausgesprochen
+
+An einem Tabakentwöhnungsprogram  seit der letzten Empfehlung  teilgenommen
+
+Empfehlung zum körperlichen Training  ausgesprochen
+
+Regelmäßig körperlich aktiv
+
+CPG Item 3: Durchschnittliche Stärke der  Kreuzschmerzen in den letzten drei  Monaten
+
+CPG Item 5: Kreuzschmerzbedingte  Beeinträchtigung der alltäglichen  Aktivitäten (Ankleiden, Waschen, Essen,  Einkaufen etc.) in den letzten drei  Monaten
+
+Erreichung mindestens eines der  individuell vereinbarten Ziele seit der  letzten Dokumentation
+
+Beendigung der DMP-Teilnahme  vereinbart
+
+Nein
+
+Nein
+
+Nein
+
+Nein
+
+Nein
+
+Ja
+
+Ja
+
+Nein
+
+Nicht möglich 8
+
+5
+
+/ Version:
+
+Ja
+
+Bei letzter  Dokumentation keine  Schulung empfohlen
+
+Ja
+
+Bei letzter  Dokumentation keine  Schulung empfohlen
+
+Nein
+
+Ja
+
+Ja
+
+Ja 4
+
+3
+
+Mindestens ein Ziel  erreicht
+
+Nein 1 02 / 12. Februar 2024
+
 
 ---
 
-- **4.** **Anlegen einer Verlaufsdokumentation**
+**2.2** **PRÜFFALL SYSTEMREAKTION**
 
-| INDIKATIONSÜBERGREIFENDE | | |
-|---|---|---|
-| Administrative Daten | Verlaufsdokumentation | Aktion |
-| DMP-Fallnummer | 3514 |  |
-| Krankenhaus-IK |  |  |
-| Dokumentation in Vertretung erstellt |  |  |
-| Datum | 06.07.2024  15.mm.jjjj |  |
-| Einschreibung wegen | Chronischer |  |
-| Geschlecht | Je nach Auswahl des |  |
-| Allgemeine Anamnese- und Befunddaten | | |
-| Körpergröße | 1,88 m |  |
-| Körpergewicht | 082 kg |  |
-| Blutdruck | 126 / 83 mmHg |  |
-| Raucher | Nein |  |
-| Begleiterkrankungen | Keine der genannten |  |
-| Behandlungsplanung | | |
-| Vom Patienten gewünschte Informationsangebote der | Nicht möglich | Nr. 11 |
-| Dokumentationsintervall | Quartalsweise |  |
-| Datum der Erstellung | 06.07.2024  15.mm.jjjj |  |
+**2.2.1** **Prüffall 3514**
 
-| INDIKATIONS | | |
-|---|---|---|
-|  | Verlaufsdokumentation | Aktion |
-| Relevante Ereignisse | | |
-| Ungeplante ambulante oder stationäre |  | Nr. 12 |
-| Medikamente | | |
-| Aktuelle kreuzschmerzbedingte Schmerzmedikation: | Ja | Nr. 13 |
-| Aktuelle kreuzschmerzbedingte Schmerzmedikation: | Bei Bedarf |  |
-|  | | |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  | | |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+**Prüffall-ID**
 
-DATEN Krankenkasse Rückenschmerz Erkrankungen SPEZIFISCHE DATEN kreuzschmerzbedingte Akutbehandlung seit der letzten Dokumentation Opioidanalgetika Nicht-Opioidanalgetika
+3514
+
+**Testziel**
+
+Kontrolle der softwareseitigen Erkennung von Fehleingaben
+
+**Voraussetzung**
+
+Patient oder Patientin ist mindestens 18 Jahre alt
+
+**Prüfunterlagen** Dokumentieren Sie durch Video(s) die Eingaben nach einer möglichen  Hinweissteuerung und wie das Softwaresystem die E  Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten  Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch  Einblenden der entsprechenden Ziffer erfolgen.
+
+**Hinweis**
+
+Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben  sind.
+
+**Aktionen, die durch den Antragsteller durchgeführt werden:** **1.** **Versichertendaten:**
+
+Die Personalien zu dem Testfall sind frei wählbar.  **2.** **Anlegen einer Erstdokumentation:**  **INDIKATIONSÜBERGREIFENDE DATEN**
+
+**Administrative Daten**
+
+DMP-Fallnummer
+
+Krankenhaus-IK
+
+Dokumentation in Vertretung erstellt
+
+Datum
+
+Einschreibung wegen
+
+Geschlecht
+
+**Allgemeine Anamnese- und Befunddaten**
+
+Körpergröße
+
+Körpergewicht
+
+Blutdruck
+
+Raucher
+
+Begleiterkrankungen
+
+**Behandlungsplanung**
+
+Vom Patienten gewünschte Informationsangebote der
+
+Krankenkasse
+
+Dokumentationsintervall
+
+ingabefehler verhindert.
+
+**Erstdokumentation**
+
+3514
+
+05.04.2023 06.04.2024
+
+Chronischer  Rückenschmerz
+
+Je nach Auswahl des  Patienten 2,59 m
+
+309 kg
+
+45 / 20 mmHg
+
+Nicht möglich
+
+Monatsweise
+
+/ Version: 1.02 / 12. Februar 2024
+
+**Aktion**
+
+Nr. 1
+
+Nr. 2
+
+Nr. 3
+
+Nr. 4
+
+Nr. 5
+
+Nr. 6
+
+Nr. 7
+
 
 ---
 
-|  | | |
-|---|---|---|
-|  |  |  |
-|  | | |
-|  |  |  |
-|  | | |
-|  |  |  |
-|  |  |  |
-| Schulung | | |
-| Bereits vor Einschreibung in das DMP an einer | Nein | Nr. 14 |
-| Kreuzschmerz-spezifische Schulung empfohlen (bei | Nein |  |
-| Kreuzschmerz-spezifische Schulung wahrgenommen | Ja |  |
-| Sonstige Behandlung | | |
-| Regelmäßig körperlich aktiv | Ja |  |
-| CPG Item 3: Durchschnittliche Stärke der Kreuzschmerzen | 3 |  |
-| CPG Item 5: Kreuzschmerzbedingte Beeinträchtigung der | 2 |  |
-| Erreichung mindestens eines der individuell vereinbarten |  | Nr. 15 |
-| Beendigung der DMP-Teilnahme vereinbart | Ja |  |
+**INDIKATIONSSPEZIFISCHE DATEN**
 
-multimodalen Schulung teilgenommen aktueller Dokumentation) in den letzten drei Monaten alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei Monaten Ziele seit der letzten Dokumentation
+**Relevante Ereignisse**
+
+Ungeplante ambulante oder stationäre  kreuzschmerzbedingte Akutbehandlung seit der letzten  Dokumentation
+
+**Medikamente**
+
+Aktuelle kreuzschmerzbedingte Schmerzmedikation:  Opioidanalgetika
+
+Aktuelle kreuzschmerzbedingte Schmerzmedikation:  Nicht-Opioidanalgetika
+
+**Schulung**
+
+Bereits vor Einschreibung in das DMP an einer  multimodalen Schulung teilgenommen
+
+Kreuzschmerz-spezifische Schulung empfohlen (bei  aktueller Dokumentation)
+
+Kreuzschmerz-spezifische Schulung wahrgenommen
+
+**Sonstige Behandlung**
+
+Regelmäßig körperlich aktiv
+
+CPG Item 3: Durchschnittliche Stärke der Kreuzschmer in den letzten drei Monaten
+
+CPG Item 5: Kreuzschmerzbedingte Beeinträchtigung der  alltäglichen Aktivitäten (Ankleiden, Waschen, Essen,  Einkaufen etc.) in den letzten drei Monaten
+
+Erreichung mindestens eines der individuell vereinbarten  Ziele seit der letzten Dokumentation
+
+Beendigung der DMP-Teilnahme vereinbart
+
+**3.** **Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation**  **abgeschlossen werden kann .**
+
+/ Version: 1.02 / 12. Februar 2024 10
+
+Ja
+
+Bei Bedarf, Nein
+
+Nein
+
+Ja
+
+Ja
+
+**Erstdokumentation**
+
+Ja, nicht möglich
+
+zen 11 1,5
+
+Mindestens ein Ziel  erreicht
+
+Nein
+
+Nr.8
+
+Nr. 9
+
+Nr. 10
+
+Nr. 11
+
+**Screenshot**
+
+Nr. 12
+
+Nr. 13
+
+Nr. 14
+
+Nr. 15
+
+Nr. 16
+
 
 ---
 
-## 2.3 WEITERE PRÜFFÄLLE ZUM ANFORDERUNGSKATALOG
+**4.** **Anlegen einer Verlaufsdokumentation**
+
+**INDIKATIONSÜBERGREIFENDE DATEN**
+
+**Administrative Daten**
+
+DMP-Fallnummer
+
+Krankenhaus-IK
+
+Dokumentation in Vertretung erstellt
+
+Datum
+
+Einschreibung wegen
+
+Geschlecht
+
+**Allgemeine Anamnese- und Befunddaten**
+
+Körpergröße
+
+Körpergewicht
+
+Blutdruck
+
+Raucher
+
+Begleiterkrankungen
+
+**Behandlungsplanung**
+
+Vom Patienten gewünschte Informationsangebote der
+
+Krankenkasse
+
+Dokumentationsintervall
+
+Datum der Erstellung
+
+**INDIKATIONSSPEZIFISCHE DATEN**
+
+**Relevante Ereignisse**
+
+Ungeplante ambulante oder stationäre  kreuzschmerzbedingte Akutbehandlung seit der letzten  Dokumentation
+
+**Medikamente**
+
+Aktuelle kreuzschmerzbedingte Schmerzmedikation:  Opioidanalgetika
+
+Aktuelle kreuzschmerzbedingte Schmerzmedikation:  Nicht-Opioidanalgetika
+
+**Verlaufsdokumentation**
+
+3514
+
+05.10.2023 06.07.2024
+
+Chronischer
+
+| Rückenschmerz |  |  |
+|---|---|---|
+| Je nach | Auswahl | des |
+
+Patienten 1,88 m
+
+082 kg
+
+126 / 83 mmHg
+
+Nein
+
+Keine der genannten  Erkrankungen
+
+Nicht möglich
+
+Quartalsweise 05.10.2023 06.07.2024
+
+**Verlaufsdokumentation**
+
+Ja
+
+Bei Bedarf
+
+Version: 1.02 / 12. Februar 2024
+
+**Aktion**
+
+Nr. 17
+
+**Screenshot**
+
+Nr. 18
+
+Nr. 19
+
+Je nach Auswahl des
+
+---
+
+**Schulung**
+
+Bereits vor Einschreibung in das DMP an einer  multimodalen Schulung teilgenommen
+
+Kreuzschmerz-spezifische Schulung empfohlen (bei  aktueller Dokumentation)
+
+Kreuzschmerz-spezifische Schulung wahrgenommen
+
+**Sonstige Behandlung**
+
+Regelmäßig körperlich aktiv
+
+CPG Item 3: Durchschnittliche Stärke der Kreuzschmerzen
+
+in den letzten drei Monaten
+
+CPG Item 5: Kreuzschmerzbedingte Beeinträchtigung der  alltäglichen Aktivitäten (Ankleiden, Waschen, Essen,  Einkaufen etc.) in den letzten drei Monaten
+
+Erreichung mindestens eines der individuell vereinbarten  Ziele seit der letzten Dokumentation
+
+Beendigung der DMP-Teilnahme vereinbart
+
+/ Version: 1.02 /
+
+Nein
+
+Nein
+
+Ja
+
+Ja 3
+
+2
+
+Ja 12. Februar 2024
+
+Nr. 20
+
+Nr. 21
+
+
+---
+
+**2.3** **WEITERE PRÜFFÄLLE ZUM ANFORDERUNGSKATALOG**
 
 **2.3.1** **Prüffall 3530**
 
-|  |  |
-|---|---|
-| Prüffall-ID | 3530 |
-| Testziel | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
-| Voraussetzung |  |
-| Prüfunterlagen | Dokumentieren Sie durch Videos die Eingaben einschließlich der Ergebnisse nach  einer möglichen Hinweissteuerung. |
-| Hinweis | Dieser Testfall ist unterteilt in vier Szenarien |
+**Prüffall-ID**
 
-**Aktionen, die durch den Antragsteller durchgeführt werden:**
+3530
 
-| SZENARIEN |
-|---|
-| Szenario 1 |
-| › Fragebogens einer  KBV_ITA_VGEX_Anforderungskatalog_eDMP). |
-| Szenario 2 |
-| › › • Erstdokumentation • Akz. 1) • • Einschreibung in das eDMP chronischer Rückenschmerz fortgefahren werden soll (siehe  KBV_ITA_VGEX_Anforderungskatalog_eDMP). |
-| Szenario 3 |
-| › › • • jeweils die nähere Erläuterung gemäß Anforderung KP1-46 anzeigt wird  (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP). |
-|  |
-|  |
-| ) |
+**Testziel**
 
-Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP Zeigen Sie, dass das System dem Anwender den vollständigen Ausdruck des Chronic Pain Grade (CPG) -  ermöglicht gemäß Anforderung KP1-75 Erfassen Sie die Antworten des CPG-Fragebogens des Prüffalls 3511. Zeigen Sie, dass das System die Eingaben des CPG-Fragebogens auf Plausibilität vor der Erstellung einer  überprüft,  aus dem Schmerz-Score und den Disability-Punkten den Schweregrad nach von Korff ( KP1-76,  ermittelt, dem Anwender den Schweregrad nach von Korff gemäß Anforderung KP1-76 , Punkt 4 anzeigt, den Anwender mit dem vorgegebenen Hinweistext auffordert, zu entscheiden, ob mit der Dieses Szenario ist im Rahmen einer Verlaufsdokumentation durchzuführen. Zeigen Sie, dass das System bei der Auswahl der beiden Parameter  „Aktuelle kreuzschmerzbedingte Schmerzmedikation: Nicht -Opioidanalgetika“   „Beendigung der DMP-Teilnahme vereinbart“
+Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP  (KBV_ITA_VGEX_Anforderungskatalog_eDMP
+
+**Voraussetzung**
+
+Szenario 3: Ihr System unterstützt die Datenübermittlung mit Datenträgern. Wenn  dies nicht der Fall ist, schreiben Sie dieses bitte.
+
+**Prüfunterlagen** Screenshots / Videodateien / PDFs zum Nachweis der korrekten
+
+Systemfunktionalität.  **Für Szenario vier ist ein Video einzureichen**
+
+**Hinweis**
+
+Dieser Testfall ist unterteilt in vier Szenarien
+
+**Aktionen, die durch den Antragsteller durchgeführt werden:**  **SZENARIEN**
+
+**Szenario 1**
+
+Es wird eine Erstdokumentation für einen noch nicht im System existierenden Patienten angelegt. Bei  Angabe der DMP-Fallnummer ist eine bereits existierende Nummer (z.B. 3511) einzugeben. Das System
+
+darf entsprechend der Anforderung P1-10 (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP), die
+
+bereits vergebene DMP-Fallnummer nicht akzeptieren
+
+**Szenario 2**
+
+Der Patient wechselt den Arzt, z.B. aufgrund einer Vertretungsregelung. Nach Kenntnisnahme einer  entsprechenden Warnung gemäß Anforderung P1-12 (siehe
+
+KBV_ITA_VGEX_Anforderungskatalog_eDMP), dass zu diesem Patienten keine Erstdokumentation
+
+vorliegt, wird eine Verlaufsdokumentation angelegt.
+
+**Szenario 3**
+
+Die Daten werden vom Anwender für den Versand vorbereitet. Das System erzeugt eine Hinweismeldung  (Bildschirmkopie beilegen) bezüglich der Datenträgerbeschriftung und druckt einen  Transportbegleitzettel aus. Hier soll die Umsetzung der Anforderungen KP4-40 und KP4-41 (siehe
+
+KBV_ITA_VGEX_Anforderungskatalog_eDMP) nachgewiesen werden.
+
+**Szenario 4**
+
+Dieses Szenario ist bei der Erfassung von Prüffall **3511** durchzuführen und besteht aus mehreren
+
+Schritten.  **1.** **Anlage einer Erstdokumentation**
+
+Zeigen Sie, dass das System dem Anwender den Ausdruck des Chronic Pain Grade (CPG)-Fragebogens
+
+ermöglicht gemäß Anforderung KP1-75 (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP Das System überprüft die Eingaben des CPG-Fragebogens auf Plausibilität im Rahmen der
+
+Erstdokumentation und ermittelt aus dem Schmerz-Score und den Disability-Punkten den
+
+Schweregrad nach von Korff.  Erfassen Sie die Antworten des CPG-Fragebogens. Zeigen Sie, dass das System dem Anwender den  Schweregrad nach von Korff gemäß Anforderung KP1-76, Punkt 4 anzeigt und den Anwender mit dem
+
+vorgegebenen Hinweistext auffordert, zu entscheiden, ob mit der Einschreibung in das eDMP  chronischer Rückenschmerz fortgefahren werden soll (siehe
+
+/ Version: 1.02 / 12. Februar 2024
+
 
 ---
 
-|  |
-|---|
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| SZENARIEN |
-| Szenario 4 |
-| › › • • ). |
+**SZENARIEN**
 
-Dieses Szenario ist mit den Daten der Verlaufsdokumentation von Prüffall 3511  durchzuführen. Zeigen Sie, dass das System nach den aufgeführten Fragen des Akzeptanzkriteriums 1 der Anforderung KP1 -76 das freiwillige Ausfüllen des CPG-Fragebogens möglich ist (KP1-77, Akz. 1),  dem Anwender der Schweregrad nach von Korff gemäß Anforderung KP1 -77, Akz. 2 anzeigt wird (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP
+KBV_ITA_VGEX_Anforderungskatalog_eDMP
+
+**2.** **Anlage einer Verlaufsdokumentation**
+
+Zeigen Sie, dass das System bei der Auswahl der Parameter „Aktuelle kreuzschmerzbedingte
+
+Schmerzmedikation: Nicht-Opioidanalgetika“ und „Beendigung der DMP Teilnahme vereinbart“ die
+
+nähere Erläuterung gemäß Anforderung KP1-46 jeweils anzeigt wird (siehe  KBV_ITA_VGEX_Anforderungskatalog_eDMP Zeigen Sie, dass das freiwillige Ausfüllen des CPG-Fragebogens möglich ist, nach den aufgeführten
+
+Fragen des Akzeptanzkriteriums 1 der Anforderung KP1-77. Zeigen Sie, dass das System dem
+
+Anwender den Schweregrad nach von Korff gemäß Anforderung KP1-77, Punkt 2 anzeigt (siehe
+
+KBV_ITA_VGEX_Anforderungskatalog_eDMP
+
+/ Version: 1.02 / 12. Februar 2024
+
 
 ---
 
 **2.3.2** **Prüffall 3540**
 
-|  | |
-|---|---|
-| Prüffall-ID | 3540 |
-| Testziel | › ) |
-| Voraussetzung | › |
-| Prüfunterlagen | › |
-| Hinweis | › |
+**Prüffall-ID**
+
+3540
+
+**Testziel**
+
+Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP  (KBV_ITA_VGEX_Anforderungskatalog_eDMP
+
+**Voraussetzung**
+
+**Prüfunterlagen** PDF-Datei „TE_EWE_CR.pdf“ der indikationsübergreifenden Teilnahme- und
+
+Einwilligungserklärung
+
+**Hinweis**
+
+Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der
+
+indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein  Barcode aufzudrucken.
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-- **1.** **Versichertendaten**
+**1.** **Versichertendaten**
 
 Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 
-- **2.** **Erstellen der Teilnahmeerklärung (Exemplar für die Datenstelle)** gemäß Kapitel 3 des
+**2.** **Erstellen der Teilnahmeerklärung (Exemplar für die Datenstelle)** gemäß Kapitel 3 des
 
-- Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) mit den folgenden Daten:
+Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) mit den folgenden Daten:
 
-|  |  |
-|---|---|
-| Administrative Daten |  |
-| DMP | chronischer Rückenschmerz |
-| DMP-Fallnummer | 1010 |
-| Datum | 05.04.2023  15.10.2026 |
+**Administrative Daten**
 
-Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP PDF-Datei „TE_EWE_CR.pdf“ der indikationsübergreifenden Teilnahme- und Einwilligungserklärung  Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
+DMP
+
+chronischer Rückenschmerz
+
+DMP-Fallnummer 1010
+
+Datum 05.04.2023
+
+/ Version: 1.02 / 12. Februar 2024
+
 
 ---
 
-# 3 TESTDATENVALIDIERUNG
+3 TESTDATENVALIDIERUNG
 
-Alle in Kapitel 2.1 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können  auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden. Eine Ausnahme bildet der  multimorbide Fall „Prüffall 3520“.
+Alle in Kapitel 2.1 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können
 
-Zusätzlich kann optional auch der Prüffall TDV3518 in der Testdatenvalidierung genutzt werden. Dieser  validiert gegen die vorherige Schnittstellenversion 1.01.
+auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden. Eine Ausnahme bildet der
+
+multimorbide Fall „Prüffall 3520“.
+
+Zusätzlich kann optional auch der Prüffall TDV3518 in der Testdatenvalidierung genutzt werden. Dieser  validiert gegen die vorherige Schnittstellenversion 1.00.
 
 Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV findet nicht statt,
 
 demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der
 
-Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das zip -Archiv mit den Prüfunterlagen  hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
+Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das zip-Archiv mit den Prüfunterlagen
+
+hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
 
 Abbildung 3: Testdatenvalidierung
 
@@ -980,210 +1751,450 @@ Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives. Beachten S
 
 des Archivs mit „**Test**_107“ beginnen muss, sonst schlägt die Validierung fehl.
 
-Test_107_SystemID.zip
-
-Dokumentation           Dateiordner
-
-……..391234511_20251031101010_1_CR_101.idx  IDX-Datei
-
-……..391234511_20251031101010_1_CR_101.zip.XKM XKM-Datei
-
 Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
+
+/ Version: 1.02 / 12. Februar 2024
 
 
 ---
 
-## 3.1 PRÜFFALL TESTDATENVALIDIERUNG
+**3.1** **PRÜFFALL TESTDATENVALIDIERUNG**
 
 **3.1.1** ** Prüffall TDV3518**
 
-|  |  |
-|---|---|
-| Prüffall-ID | TDV 3518 |
-| Testziel | › |
-| Voraussetzung | › |
-| Prüfunterlagen | › |
-| Hinweis | › |
+**Prüffall-ID**
+
+TDV 3518
+
+**Testziel**
+
+Anlage einer Erstdokumentation mit der Schnittstellenversion **1.00**
+
+**Voraussetzung**
+
+**Prüfunterlagen** CR-Dokumentationsunterlagen
+
+**Hinweis**
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-- **1.**
+**1.** **Versichertendaten**
 
-| CPG-FRAGEBOGEN |  | |
-|---|---|---|
-| Fragen | Erstdokumentation | Verlaufsdokumentation |
-| Frage 1: Wie würden Sie Ihre | 7 | 4 |
-| Frage 2: Wie würden Sie Ihre | 5 | 6 |
-| Frage 3: Wie stark waren Ihre Rückenschmerzen | 6 | 5 |
-| Frage 4: | 10 | 5 |
-| Frage 5: In welchem Maße haben Rückenschmerzen in | 4 | 4 |
-| Erstdokumentation | Verlaufsdokumentation | |
-|  |  |  |
-| TDV 3518 |  |  |
+Die Versichertendaten von Brigitte Althaus (XML_05) einlesen und speichern.
 
-- **2.**
+**2.** **Bestimmung des Schweregrads nach von Korff:**
 
-Anlage einer Erstdokumentation mit der Schnittstellenversion 1 01 CR-Dokumentationsunterlagen Versichertendaten Die Versichertendaten von Brigitte Althaus (XML_05) einlesen und speichern. Bestimmung des Schweregrads nach von Korff: Jeweils für die Erst- und Folgedokumentation die Antworten auf die Fragen des CPG-Fragebogens erfassen und den Schweregrad berechnen. momentanen Rückenschmerzen, d.h. jetzt im Augenblick , auf einer Skala einschätzen, wenn 0 = kein Schmerz und 10 = stärkster vorstellbarer Schmerz  bedeuten? stärksten Rückenschmerzen in den letzten 3 Monaten einschätzen, wenn 0 = kein Schmerz und 10 = stärkster vorstellbarer Schmerz bedeuten? in den letzten 3 Monaten im Durchschnitt , wenn 0 = kein Schmerz und 10 = stärkster vorstellbarer Schmerz bedeuten? An wie vielen Tagen  konnten Sie in den letzten 3 Monaten aufgrund von Rückenschmerzen nicht Ihren üblichen Aktivitäten nachgehen (z. B. Arbeit, Schule, Haushalt)? den letzten 3 Monaten Ihre alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) beeinträchtigt, wenn 0 = keine Beeinträchtigung und  10 = keine Aktivitäten  mehr möglich bedeuten?
+Jeweils für die Erst- und Folgedokumentation die Antworten auf die Fragen des CPG-Fragebogens
 
----
+erfassen und den Schweregrad berechnen.
 
-|  | Dauerhaft | |
-|---|---|---|
-|  | CPG-FRAGEBOGEN |  |
-|  |  |  |
-|  |  |  |
-|  |  | Dokumentationsintervall |
-|  | Datum der Erstellung |  |
-|  |  |  |
-| CPG-FRAGEBOGEN |  | |
-| Frage 6: In welchem Maße haben Rückenschmerzen in | 6 | 6 |
-| Frage 7: In welchem Maße haben Rückenschmerzen in | 5 | 2 |
+**CPG-FRAGEBOGEN**
 
-- **3.**
+Fragen
 
-| INDIKATIONSÜBERGREIFENDE DATEN | |
-|---|---|
-| Administrative Daten | Erstdokumentation |
-| DMP-Fallnummer | TDV3518 |
-| Krankenhaus-IK |  |
-| Dokumentation in Vertretung erstellt |  |
-| Datum | 05.04.2022 |
-| Einschreibung wegen | Depression |
-| Geschlecht | Weiblich |
-| Allgemeine Anamnese- und Befunddaten | |
-| Körpergröße | 1,60 m |
-| Körpergewicht | 60 kg |
-| Blutdruck | 120 / 80 mmHg |
-| Raucher | Nein |
-| Begleiterkrankungen | Keine der genannten |
-| Behandlungsplanung | |
-| Vom Patienten gewünschte Informationsangebote der Krankenkasse |  |
-| Dokumentationsintervall | Quartalsweise |
-| Datum der Erstellung | 05.04.2022 |
-| Medikamente | |
-| Aktuelle kreuzschmerzbedingte | Ja, länger als 12 Wochen |
-| Aktuelle kreuzschmerzbedingte Schmerzmedikation: Nicht | Dauerhaft |
-|  |  |
-|  | |
-| Frage 6: In welchem Maße haben Rückenschmerzen in | 6 |
-|  |  |
-|  | |
-|  |  |
-|  |  |
-|  | |
-|  |  |
-|  |  |
-|  |  |
+Erstdokumentation Verlaufsdokumentation 7
 
-den letzten 3 Monaten Ihre Freizeitaktivitäten  oder Unternehmungen im Familien- und Freundeskreis beeinträchtigt, wenn 0 = keine Beeinträchtigung und  10 = keine Aktivitäten mehr möglich  bedeuten? den letzten 3 Monaten Ihre Arbeitsfähigkeit (einschließlich Hausarbeit) beeinträchtigt, wenn 0 = keine Beeinträchtigung und 10 = keine Aktivitäten mehr möglich bedeuten? Anlegen einer Erstdokumentation INDIKATIONSÜBERGREIFENDE DATEN Administrative Daten DMP-Fallnummer Krankenhaus-IK Dokumentation in Vertretung erstellt Einschreibung wegen Geschlecht Allgemeine Anamnese- und Befunddaten Körpergröße Körpergewicht Blutdruck Raucher Begleiterkrankungen Behandlungsplanung Vom Patienten gewünschte Informationsangebote der Krankenkasse Medikamente Aktuelle kreuzschmerzbedingte Schmerzmedikation: Opioidanalgetika Aktuelle kreuzschmerzbedingte Schmerzmedikation: Nicht Erstdokumentation TDV3518 05.04.2022   05.04.2025 Depression Weiblich 1,60 m 60 kg 120 / 80 mmHg Nein Keine der genannten Erkrankungen Quartalsweise 05.04.2022   05.04.2025 Ja, länger als 12 Wochen Opioidanalgetika
+4
 
----
+Frage 1: Wie würden Sie Ihre **momentanen**
 
-|  | |
-|---|---|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  | |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  | |
-|  |  |
-|  |  |
-|  |  |
-|  | |
-|  |  |
-|  |  |
-| Dauer der aktuellen depressiven Episode | Mehr als zwei Jahre |
-| Nicht-medikamentöse und medikamentöse Behandlung | |
-| Aktuelle Psychotherapie | Ja |
-| Aktuelle medikamentöse Therapie mit Antidepressiva | Aktuell andauernd, seit |
-| Schulung | |
-| Bereits vor Einschreibung in das DMP an einer multimodalen Schulung | Nein |
-| Kreuzschmerz-spezifische Schulung empfohlen (bei aktueller | Ja |
-| Sonstige Behandlung | |
-| Regelmäßig körperlich aktiv | Nicht möglich |
-| CPG Item 3: Durchschnittliche Stärke der Kreuzschmerzen in den letzten | Automatische Übernahme aus |
-| CPG Item 5: Kreuzschmerzbedingte Beeinträchtigung der alltäglichen | Automatische Übernahme aus |
+Rückenschmerzen, d.h. **jetzt im Augenblick**, auf einer
 
-teilgenommen Dokumentation) drei Monaten Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei Monaten persistierend weniger als 9 Monaten dem CPG-Fragebogen dem CPG-Fragebogen
+Skala einschätzen, wenn *0 = kein Schmerz und 10 =*
+
+*stärkster vorstellbarer Schmerz* bedeuten?
+
+5
+
+6
+
+Frage 2: Wie würden Sie Ihre **stärksten Rückenschmerzen**
+
+in den letzten 3 Monaten einschätzen, wenn *0 = kein*
+
+*Schmerz und 10 = stärkster vorstellbarer Schmerz*
+
+bedeuten?
+
+6
+
+5
+
+Frage 3: Wie stark waren Ihre Rückenschmerzen **in den**
+
+**letzten 3 Monaten im Durchschnitt**, wenn *0 = kein*
+
+*Schmerz und 10 = stärkster vorstellbarer Schmerz*
+
+bedeuten?
+
+10
+
+5
+
+Frage 4: **An wie vielen Tagen** konnten Sie in den letzten 3
+
+Monaten aufgrund von Rückenschmerzen nicht Ihren  üblichen Aktivitäten nachgehen (z. B. Arbeit, Schule,  Haushalt)?
+
+4
+
+4
+
+Frage 5: In welchem Maße haben Rückenschmerzen in  den letzten 3 Monaten Ihre alltäglichen Aktivitäten  (Ankleiden, Waschen, Essen, Einkaufen etc.)  beeinträchtigt, wenn *0 = keine Beeinträchtigung und*
+
+*10 = keine Aktivitäten* mehr möglich bedeuten?
+
+/ Version: 1.02 / 12. Februar 2024
+
 
 ---
 
-# 4
+**CPG-FRAGEBOGEN**
 
-## 4.1
+Frage 6: In welchem Maße haben Rückenschmerzen in  den letzten 3 Monaten Ihre  Unternehmungen im **Familien- und Freundeskreis**
 
-# ANHANG
+beeinträchtigt, wenn *0 = keine Beeinträchtigung und*
 
-## PRÜFFALL 10 – ERSATZVERFAHREN
+*10 = keine Aktivitäten mehr möglich*
 
-| PERSONALIEN | | |
-|---|---|---|
-| 3100 | Namenszusatz |  |
-| 3120 | Vorsatzwort | von und zu |
-| 3101 | Name | Oldenburg |
-| 3102 | Vorname | Kai |
-| 3103 | Geburtsdatum | 31.03.2001 |
-| 3104 | Titel |  |
-| 3119 | Versicherten_ID | X114761483 |
-| 3107 | Straße | Hauptstraße |
-| 3109 | Hausnummer | 300 |
-| 3112 | PLZ | 50870 |
-| 3114 | Wohnsitzländercode |  |
-| 3113 | Ort | Köln |
-| 3116 | WOP | 38 |
-| 3108 | Versichertenart | 1 |
-| 3110 | Geschlecht | M |
-| 4133 | Versicherungsschutz Beginn |  |
-| 4110 | Versicherungsschutz Ende |  |
-| 4111 | Kostentraegerkennung | 104212505 |
-| 4131 | BesonderePersonengruppe | 00 |
-| 4132 | DMP_Kennzeichnung | 04 |
+Frage 7: In welchem Maße haben Rückenschmerzen in  den letzten 3 Monaten Ihre  (einschließlich Hausarbeit) beeinträchtigt, wenn  *Beeinträchtigung und 10 = keine Aktivitäten mehr möglich* bedeuten?
 
-/ Version: 1.03 / 31. März 2026
+**3.** **Anlegen einer Erstdokumentation**
+
+**INDIKATIONSÜBERGREIFENDE DATEN**
+
+**Administrative Daten**
+
+DMP-Fallnummer
+
+Krankenhaus-IK
+
+Dokumentation in Vertretung erstellt
+
+Datum
+
+Einschreibung wegen
+
+Geschlecht
+
+**Allgemeine Anamnese- und Befunddaten**
+
+Körpergröße
+
+Körpergewicht
+
+Blutdruck
+
+Raucher
+
+Begleiterkrankungen
+
+**Behandlungsplanung**
+
+Vom Patienten gewünschte Informationsangebote der Krankenkasse
+
+Dokumentationsintervall
+
+Datum der Erstellung
+
+**Medikamente**
+
+Aktuelle kreuzschmerzbedingte Schmerzmedikation: Opioidanalgetika
+
+Aktuelle kreuzschmerzbedingte Schmerzmedikation: Nicht Opioidanalgetika
+
+**Freizeitaktivitäten** oder
+
+bedeuten?
+
+**Arbeitsfähigkeit**
+
+*0 = keine*
+
+/ Version: 1.02 / 12. Februar 2024 6
+
+6
+
+5
+
+2
+
+**Erstdokumentation**
+
+TDV3518 05.04.2022
+
+Depression
+
+Weiblich 1,60 m
+
+60 kg
+
+120 / 80 mmHg
+
+Nein
+
+Keine der genannten  Erkrankungen
+
+Quartalsweise 05.04.2022
+
+Ja, länger als 12 Wochen
+
+Dauerhaft
+
+
+---
+
+Dauer der aktuellen depressiven Episode
+
+**Nicht-medikamentöse und medikamentöse Behandlung**
+
+Aktuelle Psychotherapie
+
+Aktuelle medikamentöse Therapie mit Antidepressiva
+
+**Schulung**
+
+Bereits vor Einschreibung in das DMP an einer
+
+teilgenommen
+
+Kreuzschmerz-spezifische Schulung empfohlen (bei aktueller
+
+Dokumentation)
+
+**Sonstige Behandlung**
+
+Regelmäßig körperlich aktiv
+
+CPG Item 3: Durchschnittliche Stärke der Kreuzschmerzen in den
+
+drei Monaten
+
+CPG Item 5: Kreuzschmerzbedingte Beeinträchtigung der alltäglichen  Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten  drei Monaten
+
+multimodalen Schulung
+
+/ Version: 1.02 / 12. Februar 2024
+
+Mehr als zwei Jahre  persistierend
+
+Ja
+
+Aktuell andauernd, seit  weniger als 9 Monaten
+
+Nein
+
+Ja
+
+Nicht möglich
+
+letzten Automatische Übernahme aus  dem CPG-Fragebogen
+
+Automatische Übernahme aus  dem CPG-Fragebogen
+
+
+---
+
+4 ANHANG
+
+**4.1** **PRÜFFALL 10**
+
+**PERSONALIEN**
+
+**3100**
+
+**3120**
+
+**3101**
+
+**3102**
+
+**3103**
+
+**3104**
+
+**3119**
+
+**3107**
+
+**3109**
+
+**3112**
+
+**3114**
+
+**3113**
+
+**3116**
+
+**3108**
+
+**3110**
+
+**4133**
+
+**4110**
+
+**4111**
+
+**4131**
+
+**4132**
+
+**ERSATZVERFAHREN**
+
+**Namenszusatz**
+
+**Vorsatzwort**
+
+**Name**
+
+**Vorname**
+
+**Geburtsdatum**
+
+**Titel**
+
+**Versicherten_ID**
+
+**Straße**
+
+**Hausnummer**
+
+**PLZ**
+
+**Wohnsitzländercode**
+
+**Ort**
+
+**WOP**
+
+**Versichertenart**
+
+**Geschlecht**
+
+**Versicherungsschutz Beginn**
+
+**Versicherungsschutz Ende**
+
+**Kostentraegerkennung**
+
+**BesonderePersonengruppe**
+
+**DMP_Kennzeichnung**
+
+von und zu
+
+Oldenburg
+
+Kai 31.03.2001
+
+X114761483
+
+Hauptstraße 300
+
+50870
+
+Köln 38
+
+1
+
+M 104212505
+
+00
+
+04
+
+/ Version: 1.02 / 12. Februar 2024
 
 
 ---
 
 5 REFERENZIERTE DOKUMENTE
 
-|  |  |
-|---|---|
-| Referenz | Dokument |
-| KBV_ITA_VGEX_Anforderungskatalog_eDMP | Anforderungskatalog eDMP |
-| EXT_ITA_VGEX_Plausi_eDMP_Ruecken | Plausibilität eDMP chronischer Rückenschmerz |
-| KBV_ITA_VHEX_CPG | CPG-Fragebogen zur Bestimmung des |
-| EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend | Plausibilitätsrichtlinie zur Prüfung der |
-| EXT_ITA_VGEX_Plausi_eDMP_COPD | Plausibilitätsrichtlinie zur Prüfung der |
-| KBV_ITA_VGEX_Schnittstelle_eDMP_CR | Dokumentation CR Schnittstellenbeschreibung |
-| KBV_ITA_VGEX_Schnittstelle_ | Dokumentation COPD Schnittstellenbeschreibung |
-| KBV_ITA_VGEX_Schnittstelle_eHeader | Dokumentation eHeader |
-| XPM-Paket_CR | Prüfmodul CR |
-| XPM-Paket_COPD | Prüfmodul COPD |
-| Austausch_von_XML-Daten_Vn.nn.ZIP 4 | Austausch von XML Daten in der Vertragsärztlichen |
-| KBV_ITA_RLEX_Zert | Zertifizierungsrichtlinie der KBV |
-| KBV_ITA_FMEX_AAZ_eDMP_CR | Antrag auf Zertifizierung CR |
-| Stammdateien | Im Rahmen der Prüfung sind die regulären KBV- |
-| KBV-Kryptomodul (XKM) und öffentlicher | KBV-Kryptomodul |
-| VSD_Testfaelle_DMP_Vn.n.zip 5 | eGK Daten (im XML-Format) |
-| KBV_ITA_VGEX_Schnittstelle_SDDA | Datensatzbeschreibung SDDA |
-| KBV_ITA_VGEX_Schnittstelle_SDKT | Datensatzbeschreibung SDKT |
+**Referenz**
+
+KBV_ITA_VGEX_Anforderungskatalog_eDMP
+
+EXT_ITA_VGEX_Plausi_eDMP_Ruecken
+
+KBV_ITA_VHEX_CPG-Fragebogen
+
+EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend
+
+EXT_ITA_VGEX_Plausi_eDMP_COPD
+
+KBV_ITA_VGEX_Schnittstelle_eDMP_CR
+
+KBV_ITA_VGEX_Schnittstelle_eDMP_COPD
+
+KBV_ITA_VGEX_Schnittstelle_eHeader
+
+XPM-Paket_CR
+
+XPM-Paket_COPD 4
+
+Austausch_von_XML-Daten_Vn.nn.ZIP
+
+KBV_ITA_RLEX_Zert
+
+KBV_ITA_FMEX_AAZ_eDMP_CR
+
+Prüfstammdateien
+
+KBV-Kryptomodul (XKM) und öffentlicher  Testschlüssel 5
+
+VSD_5.2.0_Testfaelle_Vn.n.zip
+
+KBV_ITA_VGEX_Schnittstelle_SDDA
+
+KBV_ITA_VGEX_Schnittstelle_SDKT
+
+________________
 
 4 n.nn steht für die aktuelle Versionsnummer, zum Beispiel 1.50
 
-5 n.n steht für die aktuelle Versionsnummer, zum Beispiel 1.0
+5 n.n steht für die aktuelle Versionsnummer, zum Beispiel 2.3
 
-/ Version: 1.03 / 31. März 2026
+**Dokument**
 
-Testschlüssel Schweregrades nach Korff Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes Dokumentationsdaten des strukturierten Behandlungsprogramms COPD -Schnittstellenbeschreibung Versorgung Stammdateien zu verwenden. (Datenannahmestellen Stammdatei)
+Anforderungskatalog eDMP
+
+Plausibilität eDMP chronischer Rückenschmerz
+
+CPG-Fragebogen zur Bestimmung des  Schweregrades nach Korff
+
+Plausibilitätsrichtlinie zur Prüfung der  Dokumentationsdaten des  indikationsübergreifenden allgemeinen Datensatzes
+
+Plausibilitätsrichtlinie zur Prüfung der  Dokumentationsdaten des strukturierten  Behandlungsprogramms COPD
+
+Dokumentation CR Schnittstellenbeschreibung
+
+Dokumentation COPD Schnittstellenbeschreibung
+
+Dokumentation eHeader-Schnittstellenbeschreibung
+
+Prüfmodul CR
+
+Prüfmodul COPD
+
+Austausch von XML Daten in der Vertragsärztlichen  Versorgung
+
+Zertifizierungsrichtlinie der KBV
+
+Antrag auf Zertifizierung CR
+
+KBV-Stammdateien mit der  Dateinamenserweiterung „PRF”, welche  **ausschließlich** zur Zertifizierung eingesetzt werden
+
+KBV-Kryptomodul
+
+eGK Daten (im XML-Format),  Versichtertenstammdaten
+
+Datensatzbeschreibung SDDA  (Datenannahmestellen Stammdatei)
+
+Datensatzbeschreibung SDKT
+
+/ Version: 1.02 / 12. Februar 2024
 
 
 ---
@@ -1194,4 +2205,10 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+Kassenärztliche Bundesvereinigung
+
+Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+
+Seite 30 von 30 / KBV / Pruefpaket eDMP-
+
+Chronischer Rueckenschmerz / Version: 1.02 / 12. Februar 2024

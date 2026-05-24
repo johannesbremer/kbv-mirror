@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  12. AUGUST 2021   VERSION: 3.01   DOKUMENTENSTATUS: IN |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  12. AUGUST 2021   VERSION: 3.01   DOKUMENTENSTATUS: IN** |
 |---|---|
 
 # PRUEFPAKET QS  HÖRGERÄTEVERSORGUNG
@@ -17,15 +17,15 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS  KRAFT
 
 INHALT
 
-| **1** | **ALLGEMEINES** |  | **5** |
-|---|---|---|---|
-| 1.1 |  | Rechtsgrundlage | 5 |
-| 1.2 |  | Zertifizierungsablauf | 5 |
-| 1.3 |  | Zertifizierungsportal | 6 |
-| 1.4 |  | Zertifizierungsdokumente | 6 |
-| 1.5 |  | Prüfunterlagen | 6 |
-| 1.6 | Prüfvorgaben |  | 7 |
-| 1.7 | Praxisdaten/ | Arztstempel | 7 |
+| **1** | **ALLGEMEINES** | **5** |
+|---|---|---|
+| 1.1 | Rechtsgrundlage | 5 |
+| 1.2 | Zertifizierungsablauf | 5 |
+| 1.3 | Zertifizierungsportal | 6 |
+| 1.4 | Zertifizierungsdokumente | 6 |
+| 1.5 | Prüfunterlagen | 6 |
+| 1.6 | Prüfvorgaben | 7 |
+| 1.7 | Praxisdaten/ Arztstempel | 7 |
 
 | **2** |  | **PRÜFFÄLLE** | **8** |
 |---|---|---|---|
@@ -49,7 +49,7 @@ INHALT
 
 / Version: 3.01 / 12. August 2021
 
-Praxisdaten/ Arztstempel Prüffall 5601 Prüffall 5602 Prüffall 5603 Prüffall 5604 Prüffall 5605 Prüffall 5606 Prüffall 5608 Prüffall 5609 (optional) Prüffall 5610 (Konditional)
+Prüffall 5601 Prüffall 5602 Prüffall 5603 Prüffall 5604 Prüffall 5605 Prüffall 5606 Prüffall 5608 Prüffall 5609 (optional) Prüffall 5610 (Konditional)
 
 
 ---
@@ -67,7 +67,7 @@ Abbildung 3: Struktur des ZIP-Archives für die Testdatenvalidierung anhand von 
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 3.01 | 12.08.2021 | KBV | Überarbeitung der Links | Austausch des FTP- https://update.kbv.de | Alle |
 | 3.00 | 15.08.2019 | KBV | Aktualisierung der    Überarbeitung des | Schnittstellenversion    Überführung ins neue | 8ff |
@@ -179,13 +179,13 @@ Die Prüffalle 5609 und 5610 sind nur dann verpflichtend zu bearbeiten und einzu
 
 Folgende Angaben sind für die Zertifizierung zu verwenden:
 
-| BEZEICHNUNNG | INHALT |
+| **BEZEICHNUNNG** | **INHALT** |
 |---|---|
-| Betriebsstättennummer (BSNR): | 391234511 |
-| BSNR-Bezeichnung: | Praxis Dr. med. Heribert Topp-Glücklich |
-| Lebenslange Arztnummer (LANR): | 838382202 |
-| Dokumentationsdatum (Kopfdatum): | 28.06.2020 |
-| Zu verwendende Prüfnummer: | Y/56/1301/36/000 |
+| **Betriebsstättennummer (BSNR):** | 391234511 |
+| **BSNR-Bezeichnung:** | Praxis Dr. med. Heribert Topp-Glücklich |
+| **Lebenslange Arztnummer (LANR):** | 838382202 |
+| **Dokumentationsdatum (Kopfdatum):** | 28.06.2020 |
+| **Zu verwendende Prüfnummer:** | Y/56/1301/36/000 |
 
 - PDF-Datei mit folgender Namenskonvention: . Beispielsweise lautet
 
@@ -194,11 +194,11 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 
 |  |  |
 |---|---|
-| Patientenangaben | |
+| **Patientenangaben** | |
 | Patienten-ID | 5601 |
 | Geburtsjahr | 1961 |
 | Geschlecht | männlich |
-| Vor Verordnung | |
+| **Vor Verordnung** | |
 | Untersuchungsdatum (Vor Verordnung / Verordnung) | 07-01-2020 |
 | Hörgeräteerstversorgung | nicht bekannt |
 | Wenn Vorversorgung, wann |  |
@@ -211,27 +211,27 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ dB (SVS) |  |
 | Sprachtestmaterial |  |
 |  |  |
-| Verordnung | |
+| **Verordnung** | |
 | Schallempfindungsschwerhörigkeit |  |
 | Schallleitungsschwerhörigkeit | rechts |
 | Kombinierte Schwerhörigkeit |  |
 | Schweregrad der Hörstörung (WHO 2001): rechts |  |
 | Schweregrad der Hörstörung (WHO 2001): links |  |
-| 2 | 2.1 |
+| 2 | **2.1** |
 |  |  |
 |  |  |
 |  |  |
-| Prüffall-ID | 5601 |
-| Testziel | Anlage einer Vor Verordnung, einer Verordnung und einer Nach Verordnung |
-| Voraussetzung |  |
+| **Prüffall-ID** | 5601 |
+| **Testziel** | Anlage einer Vor Verordnung, einer Verordnung und einer Nach Verordnung |
+| **Voraussetzung** |  |
 
 |  |  |
 |---|---|
-| Prüffall-ID | 5601 |
-| Testziel | Anlage einer Vor Verordnung, einer Verordnung und einer Nach Verordnung |
-| Voraussetzung |  |
-| Prüfunterlagen | QSHGV-Dokumentationsunterlagen |
-| Hinweis |  |
+| **Prüffall-ID** | 5601 |
+| **Testziel** | Anlage einer Vor Verordnung, einer Verordnung und einer Nach Verordnung |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | QSHGV-Dokumentationsunterlagen |
+| **Hinweis** |  |
 
 PRÜFFÄLLE PRÜFFALL 5601 1. Anlegen einer Vor Verordnung und einer Verordnung: andere anderes
 
@@ -241,7 +241,7 @@ PRÜFFÄLLE PRÜFFALL 5601 1. Anlegen einer Vor Verordnung und einer Verordnung:
 |---|---|
 | 1961 | |
 | Geschlecht | männlich |
-| Nach Verordnung | Untersuchungsdatum (Nachsorge) |
+| **Nach Verordnung** | Untersuchungsdatum (Nachsorge) |
 | 20-03-2020 | Die Hörgeräteversorgung entspricht |
 | dem HNO-ärztlichen Vorschlag zur Gerätetechnik | |
 | nicht bekannt | Abweichung in Luftleitung |
@@ -272,11 +272,11 @@ PRÜFFÄLLE PRÜFFALL 5601 1. Anlegen einer Vor Verordnung und einer Verordnung:
 
 Mittelwert bei 0,5 / 1 / 2 / 4 kHz  andere andere 2. Anlegen einer Nach Verordnung: Patientenangaben Patienten-ID andere Fragebogen(vor / nach HG-Versorgung): ____ %  |  |  |
 |---|---|
-| Patientenangaben | |
+| **Patientenangaben** | |
 | Patienten-ID | 5601 |
 | Geburtsjahr | 1961 |
 | Geschlecht | männlich |
-| Nach Verordnung | |
+| **Nach Verordnung** | |
 | Untersuchungsdatum (Nachsorge) | 20-03-2020 |
 | Die Hörgeräteversorgung entspricht  dem HNO-ärztlichen Vorschlag zur Gerätetechnik | nicht bekannt |
 | Abweichung in Luftleitung |  |
@@ -296,11 +296,11 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  andere andere 2. Anlegen einer Nach Verordnu
 
 |  |  |
 |---|---|
-| Patientenangaben | |
+| **Patientenangaben** | |
 | Patienten-ID | 5602 |
 | Geburtsjahr | 1938 |
 | Geschlecht | männlich |
-| Vor Verordnung | |
+| **Vor Verordnung** | |
 | Untersuchungsdatum (Vor Verordnung / Verordnung) | 07-01-2020 |
 | Hörgeräteerstversorgung | ja |
 | Wenn Vorversorgung, wann |  |
@@ -313,27 +313,27 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  andere andere 2. Anlegen einer Nach Verordnu
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ dB (SVS) | 39 dB (SVS) |
 | Sprachtestmaterial | Freiburger Zahlen |
 |  |  |
-| Verordnung | |
+| **Verordnung** | |
 | Schallempfindungsschwerhörigkeit | links |
 | Schallleitungsschwerhörigkeit |  |
 | Kombinierte Schwerhörigkeit |  |
 | Schweregrad der Hörstörung (WHO 2001): rechts | normalhörig |
 | Schweregrad der Hörstörung (WHO 2001): links | geringgradig schwerhörig |
-| 2.2 |  |
+| **2.2** |  |
 |  |  |
 |  |  |
-|  | Prüffall-ID |
-| 5602 | Testziel |
-| Anlage einer Vor Verordnung, einer Verordnung und einer Nach Verordnung | Voraussetzung |
-|  | Prüfunterlagen |
+|  | **Prüffall-ID** |
+| 5602 | **Testziel** |
+| Anlage einer Vor Verordnung, einer Verordnung und einer Nach Verordnung | **Voraussetzung** |
+|  | **Prüfunterlagen** |
 
 |  |  |
 |---|---|
-| Prüffall-ID | 5602 |
-| Testziel | Anlage einer Vor Verordnung, einer Verordnung und einer Nach Verordnung |
-| Voraussetzung |  |
-| Prüfunterlagen | QSHGV-Dokumentationsunterlagen |
-| Hinweis |  |
+| **Prüffall-ID** | 5602 |
+| **Testziel** | Anlage einer Vor Verordnung, einer Verordnung und einer Nach Verordnung |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | QSHGV-Dokumentationsunterlagen |
+| **Hinweis** |  |
 
 PRÜFFALL 5602 1. Anlegen einer Vor Verordnung und einer Verordnung: andere anderes
 
@@ -343,7 +343,7 @@ PRÜFFALL 5602 1. Anlegen einer Vor Verordnung und einer Verordnung: andere ande
 |---|---|
 | Geburtsjahr | |
 | 1938 | Geschlecht |
-| männlich | Nach Verordnung |
+| männlich | **Nach Verordnung** |
 | Untersuchungsdatum (Nachsorge) | 31-03-2020 |
 | Die Hörgeräteversorgung entspricht | |
 | dem HNO-ärztlichen Vorschlag zur Gerätetechnik | ja |
@@ -374,11 +374,11 @@ PRÜFFALL 5602 1. Anlegen einer Vor Verordnung und einer Verordnung: andere ande
 
 Mittelwert bei 0,5 / 1 / 2 / 4 kHz  2. Anlegen einer Nach Verordnung: Patientenangaben Fragebogen(vor / nach HG -Versorgung): ____ %  |  |  |
 |---|---|
-| Patientenangaben | |
+| **Patientenangaben** | |
 | Patienten-ID | 5602 |
 | Geburtsjahr | 1938 |
 | Geschlecht | männlich |
-| Nach Verordnung | |
+| **Nach Verordnung** | |
 | Untersuchungsdatum (Nachsorge) | 31-03-2020 |
 | Die Hörgeräteversorgung entspricht  dem HNO-ärztlichen Vorschlag zur Gerätetechnik | ja |
 | Abweichung in Luftleitung |  |
@@ -398,44 +398,44 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  2. Anlegen einer Nach Verordnung: Patientena
 
 |  |  |
 |---|---|
-| Patientenangaben | |
+| **Patientenangaben** | |
 | Patienten-ID | Ac13762434 |
 | Geburtsjahr | 1911 |
 | Geschlecht | weiblich |
-| Vor Verordnung | |
+| **Vor Verordnung** | |
 | Untersuchungsdatum (Vor Verordnung / Verordnung) | 14-03-2020 |
 | Hörgeräteerstversorgung | nein |
 | Wenn Vorversorgung, wann | 2011 |
 | Bauform | IO; HdO; andere |
-|  | Andere Bauform |
+|  | *Andere Bauform* |
 | Zentrale Hörstörung ausgeschlossen | nein |
 | Sprachverstehen: mit Kopfhörer am dBopt: Sprachtest möglich | ja |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ dB | 38 dB |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ % (E/Z) | 37 % (E/Z) |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ dB (SVS) | 39 dB (SVS) |
 | Sprachtestmaterial | Freiburger Einsilber; Freiburger Zahlen; |
-|  | Anderes Material |
-| Verordnung | |
+|  | *Anderes Material* |
+| **Verordnung** | |
 | Schallempfindungsschwerhörigkeit |  |
 | Schallleitungsschwerhörigkeit |  |
 | Kombinierte Schwerhörigkeit | rechts; links |
 | Schweregrad der Hörstörung (WHO 2001): rechts | Taubheit |
 | Schweregrad der Hörstörung (WHO 2001): links | hochgradig schwerhörig |
-| 2.3 |  |
-|  | Prüffall-ID |
-| 5603 | Testziel |
-| Anlage einer Vor Verordnung, einer Verordnung und einer Nach Verordnung | Voraussetzung |
-|  | Prüfunterlagen |
-| QSHGV-Dokumentationsunterlagen | Hinweis |
+| **2.3** |  |
+|  | **Prüffall-ID** |
+| 5603 | **Testziel** |
+| Anlage einer Vor Verordnung, einer Verordnung und einer Nach Verordnung | **Voraussetzung** |
+|  | **Prüfunterlagen** |
+| QSHGV-Dokumentationsunterlagen | **Hinweis** |
 |  |  |
 
 |  |  |
 |---|---|
-| Prüffall-ID | 5603 |
-| Testziel | Anlage einer Vor Verordnung, einer Verordnung und einer Nach Verordnung |
-| Voraussetzung |  |
-| Prüfunterlagen | QSHGV-Dokumentationsunterlagen |
-| Hinweis |  |
+| **Prüffall-ID** | 5603 |
+| **Testziel** | Anlage einer Vor Verordnung, einer Verordnung und einer Nach Verordnung |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | QSHGV-Dokumentationsunterlagen |
+| **Hinweis** |  |
 
 PRÜFFALL 5603 1. Anlegen einer Vor Verordnung und einer Verordnung: anderes OLSA; GÖSA; anderes
 
@@ -444,17 +444,17 @@ PRÜFFALL 5603 1. Anlegen einer Vor Verordnung und einer Verordnung: anderes OLS
 |  |  |
 |---|---|
 |  | |
-| Patientenangaben | Patienten-ID |
+| **Patientenangaben** | Patienten-ID |
 | Ac13762434 | Geburtsjahr |
 | 1911 | Geschlecht |
 | weiblich | |
-| Nach Verordnung | Untersuchungsdatum (Nachsorge) |
+| **Nach Verordnung** | Untersuchungsdatum (Nachsorge) |
 | 25-03-2020 | Die Hörgeräteversorgung entspricht |
 | dem HNO-ärztlichen Vorschlag zur Gerätetechnik | nein |
 | Abweichung in Luftleitung | HdO; IO; offene Versorgung; geschlossene |
 | Abweichung in Knochenleitung | Knochenleitungsbügel; teilimplantiertes |
 | Abweichung in Sonderversorgung | CROS / BiCROS; andere |
-|  | Andere Sonderversorgung |
+|  | *Andere Sonderversorgung* |
 | Sprachtest möglich | nein |
 | Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ |  |
 | Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ |  |
@@ -468,7 +468,7 @@ PRÜFFALL 5603 1. Anlegen einer Vor Verordnung und einer Verordnung: anderes OLS
 |  |  |
 | Hörstörung > 80dB nach WHO 2001 tonaudiometrischer | rechts; links |
 | Sonstige versorgungsrelevante Diagnosen | Tinnitus; Otitis externa; Radikalhöhle; |
-|  | Andere Diagnose |
+|  | *Andere Diagnose* |
 | HNO-ärztlicher Vorschlag zur Gerätetechnik: Luftleitung | HdO; IO; offene Versorgung; |
 | HNO-ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung | Knochenleitungsbügel; |
 | HNO-ärztlicher Vorschlag zur Gerätetechnik: Sonderversorgung | CROS / BiCROS; andere |
@@ -478,17 +478,17 @@ PRÜFFALL 5603 1. Anlegen einer Vor Verordnung und einer Verordnung: anderes OLS
 
 Mittelwert bei 0,5 / 1 / 2 / 4 kHz  Anlegen einer Nach Verordnung: % (E/Z) dB (SVS) Fragebogen(vor / nach HG -Versorgung): ____ %  geschlossene Versorgung; Ex Hörer teilimplantiertes Knochenleitungsgerät Versorgung; Ex Hörer Knochenleitungsgerät |  |  |
 |---|---|
-| Patientenangaben | |
+| **Patientenangaben** | |
 | Patienten-ID | Ac13762434 |
 | Geburtsjahr | 1911 |
 | Geschlecht | weiblich |
-| Nach Verordnung | |
+| **Nach Verordnung** | |
 | Untersuchungsdatum (Nachsorge) | 25-03-2020 |
 | Die Hörgeräteversorgung entspricht  dem HNO-ärztlichen Vorschlag zur Gerätetechnik | nein |
 | Abweichung in Luftleitung | HdO; IO; offene Versorgung; geschlossene |
 | Abweichung in Knochenleitung | Knochenleitungsbügel; teilimplantiertes |
 | Abweichung in Sonderversorgung | CROS / BiCROS; andere |
-|  | Andere Sonderversorgung |
+|  | *Andere Sonderversorgung* |
 | Sprachtest möglich | nein |
 | Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ |  |
 | Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ |  |
@@ -526,44 +526,44 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  Anlegen einer Nach Verordnung: % (E/Z) dB (S
 
 |  |  |
 |---|---|
-| Patientenangaben | |
+| **Patientenangaben** | |
 | Patienten-ID | 5604 |
 | Geburtsjahr | 1960 |
 | Geschlecht | weiblich |
-| Vor Verordnung | |
+| **Vor Verordnung** | |
 | Untersuchungsdatum (Vor Verordnung / Verordnung) | 15-01-2020 |
 | Hörgeräteerstversorgung | nein |
 | Wenn Vorversorgung, wann | 2012 |
 | Bauform | HdO |
-|  |  |
+|  | ** |
 | Zentrale Hörstörung ausgeschlossen |  |
 | Sprachverstehen: mit Kopfhörer am dBopt: Sprachtest möglich | ja |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ dB | 55 dB |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ % (E/Z) | 1 % (E/Z) |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ dB (SVS) |  |
 | Sprachtestmaterial | OLSA; GÖSA |
-|  |  |
-| Verordnung | |
+|  | ** |
+| **Verordnung** | |
 | Schallempfindungsschwerhörigkeit | links |
 | Schallleitungsschwerhörigkeit |  |
 | Kombinierte Schwerhörigkeit | rechts |
 | Schweregrad der Hörstörung (WHO 2001): rechts | Hörreste |
 | Schweregrad der Hörstörung (WHO 2001): links | mittelgradig schwerhörig |
-| 2.4 |  |
+| **2.4** |  |
 |  |  |
 |  |  |
-|  | Prüffall-ID |
-| 5604 | Testziel |
-| Anlage einer Vor Verordnung, einer Verordnung und | Voraussetzung |
-|  | Prüfunterlagen |
+|  | **Prüffall-ID** |
+| 5604 | **Testziel** |
+| Anlage einer Vor Verordnung, einer Verordnung und | **Voraussetzung** |
+|  | **Prüfunterlagen** |
 
 |  |  |
 |---|---|
-| Prüffall-ID | 5604 |
-| Testziel | Anlage einer Vor Verordnung, einer Verordnung und |
-| Voraussetzung |  |
-| Prüfunterlagen | QSHGV-Dokumentationsunterlagen |
-| Hinweis |  |
+| **Prüffall-ID** | 5604 |
+| **Testziel** | Anlage einer Vor Verordnung, einer Verordnung und |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | QSHGV-Dokumentationsunterlagen |
+| **Hinweis** |  |
 
 einer Nach Verordnung PRÜFFALL 5604 1. Anlegen einer Vor Verordnung und einer Verordnung: andere anderes
 
@@ -573,14 +573,14 @@ einer Nach Verordnung PRÜFFALL 5604 1. Anlegen einer Vor Verordnung und einer V
 |---|---|
 | Geburtsjahr | |
 | 1960 | Geschlecht |
-| weiblich | Nach Verordnung |
+| weiblich | **Nach Verordnung** |
 | Untersuchungsdatum (Nachsorge) | 26-03-2020 |
 | Die Hörgeräteversorgung entspricht | |
 | dem HNO-ärztlichen Vorschlag zur Gerätetechnik | nein |
 | Abweichung in Luftleitung | offene Versorgung |
 | Abweichung in Knochenleitung | Knochenleitungsbügel |
 | Abweichung in Sonderversorgung | andere |
-|  |  |
+|  | ** |
 | Sprachtest möglich | ja |
 | Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ % | 7 % (E/Z) |
 | Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ dB | 0 dB (SVS) |
@@ -596,7 +596,7 @@ einer Nach Verordnung PRÜFFALL 5604 1. Anlegen einer Vor Verordnung und einer V
 |  |  |
 | Hörstörung > 80dB nach WHO 2001 tonaudiometrischer | rechts |
 | Sonstige versorgungsrelevante Diagnosen | Otitis externa; andere |
-|  | Andere Diagnose |
+|  | *Andere Diagnose* |
 | HNO-ärztlicher Vorschlag zur Gerätetechnik: Luftleitung | Ex Hörer |
 | HNO-ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung | Knochenleitungsbügel |
 | HNO-ärztlicher Vorschlag zur Gerätetechnik: Sonderversorgung |  |
@@ -604,17 +604,17 @@ einer Nach Verordnung PRÜFFALL 5604 1. Anlegen einer Vor Verordnung und einer V
 
 Mittelwert bei 0,5 / 1 / 2 / 4 kHz  2. Anlegen einer Nach Verordnung: Patientenangaben Fragebogen(vor / nach HG -Versorgung): ____ %  |  |  |
 |---|---|
-| Patientenangaben | |
+| **Patientenangaben** | |
 | Patienten-ID | 5604 |
 | Geburtsjahr | 1960 |
 | Geschlecht | weiblich |
-| Nach Verordnung | |
+| **Nach Verordnung** | |
 | Untersuchungsdatum (Nachsorge) | 26-03-2020 |
 | Die Hörgeräteversorgung entspricht  dem HNO-ärztlichen Vorschlag zur Gerätetechnik | nein |
 | Abweichung in Luftleitung | offene Versorgung |
 | Abweichung in Knochenleitung | Knochenleitungsbügel |
 | Abweichung in Sonderversorgung | andere |
-|  |  |
+|  | ** |
 | Sprachtest möglich | ja |
 | Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ % | 7 % (E/Z) |
 | Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ dB | 0 dB (SVS) |
@@ -630,24 +630,24 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  2. Anlegen einer Nach Verordnung: Patientena
 
 |  |  |
 |---|---|
-| Prüffall-ID | 5605 |
-| Testziel | Kontrolle der softwareseitigen Erkennung von Fehleingaben |
-| Voraussetzung |  |
-| Prüfunterlagen | verhindert |
-| Hinweis | Konkrete Dokumentationsdaten sind frei wählbar, sofern |
+| **Prüffall-ID** | 5605 |
+| **Testziel** | Kontrolle der softwareseitigen Erkennung von Fehleingaben |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | verhindert |
+| **Hinweis** | Konkrete Dokumentationsdaten sind frei wählbar, sofern |
 
 - 1. Anlegen einer Vor Verordnung und einer Verordnung:
 
 |  | | |
 |---|---|---|
-| Datenfeld | Wert | Screenshot |
+| **Datenfeld** | **Wert** | **Screenshot** |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ dB / | 121 dB / 101 % (E/Z) | Screenshot1 |
 
 - 2. Anlegen einer Nach Verordnung:
 
 |  | | |
 |---|---|---|
-| Datenfeld | Wert | Screenshot |
+| **Datenfeld** | **Wert** | **Screenshot** |
 | Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ dB (SVS) | 101 dB (SVS) | Screenshot2 |
 | Keine FF-Untersuchung möglich: Hörweite (m) ohne HG / | 0 m / 11 m | Screenshot3 |
 | Nutzen (Verbesserung der Hörfähigkeit) mittels APHAB | -9801 % | Screenshot4 |
@@ -656,53 +656,53 @@ Screenshots oder Erläuterungen, wie das Softwaresystem die Eingabefehler diese 
 
 ---
 
-| KONSTELLATION |  |
+| **KONSTELLATION** |  |
 |---|---|
-| Vor Verordnung | |
+| **Vor Verordnung** | |
 | Untersuchungsdatum (Vor Verordnung / Verordnung) | 15-01-2020 |
 | Hörgeräteerstversorgung | nein, nicht bekannt |
 | Wenn Vorversorgung, wann | 2011 |
 | Bauform | HdO |
-|  |  |
+|  | ** |
 | Zentrale Hörstörung ausgeschlossen | nein |
 | Sprachverstehen: mit Kopfhörer am dBopt: Sprachtest möglich | ja |
-| 2.6 |  |
-|  | Prüffall-ID |
-| 5606 | Testziel |
-| Kontrolle der softwareseitigen Erkennung von Fehleingaben | Voraussetzung |
-|  | Prüfunterlagen |
+| **2.6** |  |
+|  | **Prüffall-ID** |
+| 5606 | **Testziel** |
+| Kontrolle der softwareseitigen Erkennung von Fehleingaben | **Voraussetzung** |
+|  | **Prüfunterlagen** |
 
 |  |  |
 |---|---|
-| Prüffall-ID | 5606 |
-| Testziel | Kontrolle der softwareseitigen Erkennung von Fehleingaben |
-| Voraussetzung |  |
-| Prüfunterlagen | Screenshots oder Erläuterungen, wie das Softwaresystem die |
-| Hinweis | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben |
+| **Prüffall-ID** | 5606 |
+| **Testziel** | Kontrolle der softwareseitigen Erkennung von Fehleingaben |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | Screenshots oder Erläuterungen, wie das Softwaresystem die |
+| **Hinweis** | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben |
 
-| KONSTELLATION 5606 |  |
+| **KONSTELLATION 5606** |  |
 |---|---|
-| Patientenangaben | |
+| **Patientenangaben** | |
 | Patienten-ID |  |
 | Geburtsjahr | 1945 |
 | Geschlecht | männlich |
-| Vor Verordnung | |
+| **Vor Verordnung** | |
 | Untersuchungsdatum (Vor Verordnung / Verordnung) | 15-01-2020 |
 
-| KONSTELLATION |  |
+| **KONSTELLATION** |  |
 |---|---|
-| Vor Verordnung | |
+| **Vor Verordnung** | |
 | Untersuchungsdatum (Vor Verordnung / Verordnung) | 15-01-2020 |
 | Hörgeräteerstversorgung | ja |
 | Wenn Vorversorgung, wann | 2011 |
 | Bauform | HdO |
-|  |  |
+|  | ** |
 
 verhindert Eingabefehler -1  5606-2 andere PRÜFFALL 5606  5606-3 andere
 
 ---
 
-| Vor Verordnung | Untersuchungsdatum (Vor Verordnung / Verordnung) |
+| **Vor Verordnung** | Untersuchungsdatum (Vor Verordnung / Verordnung) |
 |---|---|
 | 15-01-2020 | |
 | Sprachverstehen: mit Kopfhörer am dBopt: Sprachtest möglich | ja |
@@ -710,69 +710,69 @@ verhindert Eingabefehler -1  5606-2 andere PRÜFFALL 5606  5606-3 andere
 | Sprachverstehen: mit Kopfhörer am d Bopt: von ___ % (E/Z) |  |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ dB (SVS) |  |
 | Sprachtestmaterial |  |
-|  | Anderes Material |
+|  | *Anderes Material* |
 |  |  |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ dB |  |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ % (E/Z) |  |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ dB (SVS) | 46 dB (SVS) |
 | Sprachtestmaterial |  |
-|  |  |
+|  | ** |
 
-| KONSTELLATION |  |
+| **KONSTELLATION** |  |
 |---|---|
-| Vor Verordnung | |
+| **Vor Verordnung** | |
 | Untersuchungsdatum (Vor Verordnung / Verordnung) | 15-01-2020 |
 | Hörgeräteerstversorgung | ja |
 | Wenn Vorversorgung, wann |  |
 | Bauform |  |
-|  |  |
+|  | ** |
 | Zentrale Hörstörung ausgeschlossen | ja |
 | Sprachverstehen: mit Kopfhörer am dBopt: Sprachtest möglich | nein |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ dB |  |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ % (E/Z) |  |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ dB (SVS) | 47 dB (SVS) |
 | Sprachtestmaterial | Freiburger Einsilber |
-|  |  |
+|  | ** |
 
-anderes KONSTELLATION  5606-4 Hörgeräteerstversorgung Wenn Vorversorgung, wann Bauform andere Zentrale Hörstörung ausgeschlossen anderes KONSTELLATION  5606-5 anderes nein 47 dB (SVS) Freiburger Einsilber| KONSTELLATION |  |
+anderes KONSTELLATION  5606-4 Hörgeräteerstversorgung Wenn Vorversorgung, wann Bauform andere Zentrale Hörstörung ausgeschlossen anderes KONSTELLATION  5606-5 anderes nein 47 dB (SVS) Freiburger Einsilber| **KONSTELLATION** |  |
 |---|---|
-| Vor Verordnung | |
+| **Vor Verordnung** | |
 | Untersuchungsdatum (Vor Verordnung / Verordnung) | 15-01-2020 |
 | Sprachverstehen: mit Kopfhörer am dBopt: Sprachtest möglich | ja |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ dB |  |
 | Sprachverstehen: mit Kopfhörer am d Bopt: von ___ % (E/Z) |  |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ dB (SVS) |  |
 | Sprachtestmaterial |  |
-|  | Anderes Material |
+|  | *Anderes Material* |
 
 
 ---
 
-| KONSTELLATION |  |
+| **KONSTELLATION** |  |
 |---|---|
-| Verordnung | |
+| **Verordnung** | |
 | Schallempfindungsschwerhörigkeit |  |
 | Schallleitungsschwerhörigkeit |  |
 | Kombinierte Schwerhörigkeit |  |
 
-| KONSTELLATION |  |
+| **KONSTELLATION** |  |
 |---|---|
-| Verordnung | |
+| **Verordnung** | |
 | Schallempfindungsschwerhörigkeit | rechts |
 | Schallleitungsschwerhörigkeit |  |
 | Kombinierte Schwerhörigkeit |  |
 | Schweregrad der Hörstörung (WHO 2001): rechts | hochgradig schwerhörig; Hörreste |
 | Schweregrad der Hörstörung (WHO 2001): links |  |
 
-| KONSTELLATION |  |
+| **KONSTELLATION** |  |
 |---|---|
-| Nach Verordnung | |
+| **Nach Verordnung** | |
 | Untersuchungsdatum (Nachsorge) | 17-06-2020 |
 | Die Hörgeräteversorgung entspricht  dem HNO-ärztlichen Vorschlag zur Gerätetechnik | ja |
 | Abweichung in Luftleitung | HdO |
 | Abweichung in Knochenleitung |  |
 | Abweichung in Sonderversorgung | andere |
-|  | Andere Sonderversorgung |
+|  | *Andere Sonderversorgung* |
 | Sprachtest möglich | ja |
 | Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ % |  |
 | Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ dB |  |
@@ -783,30 +783,30 @@ anderes KONSTELLATION  5606-4 Hörgeräteerstversorgung Wenn Vorversorgung, wann
 
 ---
 
-| KONSTELLATION |  |
+| **KONSTELLATION** |  |
 |---|---|
-| Nach Verordnung | |
+| **Nach Verordnung** | |
 | Untersuchungsdatum (Nachsorge) | 17-06-2020 |
 | Die Hörgeräteversorgung entspricht  dem HNO-ärztlichen Vorschlag zur Gerätetechnik | nein |
 | Abweichung in Luftleitung |  |
 | Abweichung in Knochenleitung |  |
 | Abweichung in Sonderversorgung |  |
-|  |  |
+|  | ** |
 | Sprachtest möglich | nein |
 | Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ % | 78 % (E/Z) |
 | Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ dB |  |
 | Keine FF-Untersuchung möglich: Hörweite (m) ohne HG |  |
 | Keine FF-Untersuchung möglich: Hörweite (m) mit HG |  |
 
-| KONSTELLATION |  |
+| **KONSTELLATION** |  |
 |---|---|
-| Nach Verordnung | |
+| **Nach Verordnung** | |
 | Untersuchungsdatum (Nachsorge) | 17-06-2020 |
 | Die Hörgeräteversorgung entspricht  dem HNO-ärztlichen Vorschlag zur Gerätetechnik | nein |
 | Abweichung in Luftleitung |  |
 | Abweichung in Knochenleitung |  |
 | Abweichung in Sonderversorgung |  |
-|  | Andere Abweichung |
+|  | *Andere Abweichung* |
 | Sprachtest möglich | ja |
 | Erzieltes Sprachverstehen im |  |
 | Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ dB |  |
@@ -821,22 +821,22 @@ anderes KONSTELLATION  5606-4 Hörgeräteerstversorgung Wenn Vorversorgung, wann
 
 |  |  |
 |---|---|
-| Prüffall-ID | 5608 |
-| Testziel | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges QS  ) |
-| Voraussetzung |  |
-| Prüfunterlagen | Screenshots / PDFs zum Nachweis der korrekten Systemfunktionalität |
-| Hinweis | Dieser Testfall ist unterteilt in vier Szenarien |
+| **Prüffall-ID** | 5608 |
+| **Testziel** | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges QS  ) |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | Screenshots / PDFs zum Nachweis der korrekten Systemfunktionalität |
+| **Hinweis** | Dieser Testfall ist unterteilt in vier Szenarien |
 
-| SZENARIEN |
-|---|
-| Szenario 1 |
-| Es wird eine „(Vor) Verordnung“ für einen noch nicht im System existierenden Patienten angelegt. Bei |
-| Szenario 2 |
-| Weisen Sie die korrekte Systemfunktionalität laut |
-| Szenario 3 |
-| Für eine der Dokumentationen der Prüffälle 5601 bis 5604 ist per Screenshot oder als |
-| Szenario 4 |
-| Zeigen Sie mittels Screenshots, dass eine Korrektur |
+\| **SZENARIEN** |
+\|---|
+\| **Szenario 1** |
+\| Es wird eine „(Vor) Verordnung“ für einen noch nicht im System existierenden Patienten angelegt. Bei |
+\| **Szenario 2** |
+\| Weisen Sie die korrekte Systemfunktionalität laut |
+\| **Szenario 3** |
+\| Für eine der Dokumentationen der Prüffälle 5601 bis 5604 ist per Screenshot oder als |
+\| **Szenario 4** |
+\| Zeigen Sie mittels Screenshots, dass eine Korrektur |
 
 Hörgeräteversorgung (siehe KBV_ITA_VGEX_Anforderungskatalog_QSHGV Angabe der Patienten darf entsprechend den Anforderungen P1-40 und P1-200 die bereits vergebene Patienten akzeptieren. Für den Nachweis der korrekten Systemfunktionalität werden ein oder mehrere Screenshots erwartet. Speichern und Archivieren von Dokumentationsdaten erwartet. Insbesondere soll der Nachweis erbracht werden, dass es möglich ist, eine nicht vollständige und/oder fehlerhafte Dokumentation zwischenzuspeichern, sodass diese erhalten bleibt und erweiterbar ist. Ein Screenshot soll den erneuten Aufruf dieser Dokumentation zur nachträglichen Bearbeitung belegen (möglichst an einem anderen Datum). nachzuweisen, dass der Bogen der „(Vor) Verordnung“ und „Nach Verordnung“ ausgedruckt werden kann (Anforderung: P1-160).  Dokumentation am 01.07. -ID ist eine bereits existierende Nummer (z.B. Ac13762434) einzugeben. Das System 2020 (nach Ende des Melde-/ Prüfquartals) nicht mehr möglich ist (P1-20). P1-170 bis P1 -190 nach. Es werden Screenshots vom  oder Änderung der im Prüffall 5603 erstellten -ID nicht PDF-Dokument
 
@@ -844,44 +844,44 @@ Hörgeräteversorgung (siehe KBV_ITA_VGEX_Anforderungskatalog_QSHGV Angabe der P
 
 |  |  |
 |---|---|
-| Patientenangaben | |
+| **Patientenangaben** | |
 | Patienten-ID | 5609 |
 | Geburtsjahr | 1945 |
 | Geschlecht | unbestimmt |
-| Vor Verordnung | |
+| **Vor Verordnung** | |
 | Untersuchungsdatum (Vor Verordnung / Verordnung) | 15-01-2020 |
 | Hörgeräteerstversorgung | ja |
 | Wenn Vorversorgung, wann |  |
 | Bauform |  |
-|  |  |
+|  | ** |
 | Zentrale Hörstörung ausgeschlossen | ja |
 | Sprachverstehen: mit Kopfhörer am dBopt: Sprachtest möglich | ja |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ dB |  |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ % (E/Z) | 47 % (E/Z) |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ dB (SVS) |  |
 | Sprachtestmaterial | Freiburger Einsilber |
-|  |  |
-| Verordnung | |
+|  | ** |
+| **Verordnung** | |
 | Schallempfindungsschwerhörigkeit | rechts |
 | Schallleitungsschwerhörigkeit | links |
 | Kombinierte Schwerhörigkeit | rechts |
 | Schweregrad der Hörstörung (WHO 2001): rechts | hochgradig schwerhörig |
 | Schweregrad der Hörstörung (WHO 2001): links | normalhörig |
-| 2.8 |  |
-|  | Prüffall-ID |
-| 5609 | Testziel |
+| **2.8** |  |
+|  | **Prüffall-ID** |
+| 5609 | **Testziel** |
 | Kontrolle der korrekten |  |
-| ) | Voraussetzung |
-|  | Prüfunterlagen |
+| ) | **Voraussetzung** |
+|  | **Prüfunterlagen** |
 |  |  |
 
 |  |  |
 |---|---|
-| Prüffall-ID | 5609 |
-| Testziel | Kontrolle der korrekten  ) |
-| Voraussetzung |  |
-| Prüfunterlagen | › › |
-| Hinweis |  |
+| **Prüffall-ID** | 5609 |
+| **Testziel** | Kontrolle der korrekten  ) |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | › › |
+| **Hinweis** |  |
 
 Erkennung von Verletzungen gegen optionale Plausibilitäten (siehe KBV_ITA_VGEX_Plausi_QSHGV Screenshots von den Warnmeldungen  Eine im Anschluss erzeugte XML-Datei PRÜFFALL 5609 (OPTIONAL) 1. Anlegen einer Vor Verordnung und einer Verordnung: andere anderes
 
@@ -914,7 +914,7 @@ Erkennung von Verletzungen gegen optionale Plausibilitäten (siehe KBV_ITA_VGEX_
 |  |  |
 | Hörstörung > 80dB nach WHO 2001 tonaudiometrischer | links |
 | Sonstige versorgungsrelevante Diagnosen | Tinnitus, Radikalhöhle |
-|  |  |
+|  | ** |
 | HNO-ärztlicher Vorschlag zur Gerätetechnik: Luftleitung | IO; offene Versorgung |
 | HNO-ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung | teilimplantiertes Knochenleitungsgerät |
 | HNO-ärztlicher Vorschlag zur Gerätetechnik: Sonderversorgung | CROS / BiCROS |
@@ -924,9 +924,9 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  andere andere
 
 ---
 
-| APHAB-BOGEN |  |  |
+| **APHAB-BOGEN** |  |  |
 |---|---|---|
-| Frage | Verordnung | Nach |
+| **Frage** | Verordnung | Nach |
 | Frage 1: Wenn ich in einem belebten Lebensmittelgeschäft mit der | A | G |
 | Frage 2: Es entgeht mir viel Information, wenn ich einen Vortrag anhöre. | A | D |
 | Frage 3: Unerwartete Geräusche, wie einen Rauchmelder oder eine | B | F |
@@ -939,26 +939,26 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  andere andere
 | Frage 10: Wenn ich in einem kleinen Büroraum Fragen stelle oder | G | A |
 | Frage 11: Wenn ich im Kino oder Theater bin und die Leute um mich | A | G |
 | Frage 12: Wenn ich mich mit einem Freund in einer ruhigen Umgebung | G | A |
-| 2.9 |  |  |
-| Prüffall-ID | 5610 | Testziel |
+| **2.9** |  |  |
+| **Prüffall-ID** | 5610 | Testziel |
 | Kontrolle der optionalen Funktionen K1 | KBV_ITA_VGEX_Anforderungskatalog_QSHGV | ) |
-| Voraussetzung | Nur zu bearbeiten, wenn in der Software die Parameter | Prüfunterlagen |
+| **Voraussetzung** | Nur zu bearbeiten, wenn in der Software die Parameter | **Prüfunterlagen** |
 | der Hörfähigkeit) automatisch anhand der APHAB-Berechnungsvorschrift |  | ) ermittelt wird |
-| Hinweis |  |  |
+| **Hinweis** |  |  |
 |  |  |  |
 |  |  |  |
 |  |  | 1. |
 |  |  |  |
 |  |  |  |
-|  |  | APHAB-BOGEN |
+|  |  | **APHAB-BOGEN** |
 
 |  |  |
 |---|---|
-| Prüffall-ID | 5610 |
+| **Prüffall-ID** | 5610 |
 | Testziel | Kontrolle der optionalen Funktionen K1 KBV_ITA_VGEX_Anforderungskatalog_QSHGV) |
-| Voraussetzung | Nur zu bearbeiten, wenn in der Software die Parameter |
-| Prüfunterlagen | der Hörfähigkeit) automatisch anhand der APHAB-Berechnungsvorschrift  ) ermittelt wird |
-| Hinweis |  |
+| **Voraussetzung** | Nur zu bearbeiten, wenn in der Software die Parameter |
+| **Prüfunterlagen** | der Hörfähigkeit) automatisch anhand der APHAB-Berechnungsvorschrift  ) ermittelt wird |
+| **Hinweis** |  |
 
 -95 und K1-96 (siehe und Berechnungen im Rahmen der APHAB-Dokumentation implementiert sind Screenshots für den Prüffall 5602 zum Nachweis, dass der Nutzen (Verbesserung (EXT_ITA_AHEX_Berechnung_APHAB_QSHGV PRÜFFALL 5610 (KONDITIONAL Anlegen einer Vor Verordnung und einer Verordnung: Kassiererin spreche, kann ich dem Gespräch folgen. Alarmanlage, empfinde ich als unangenehm laut. Familienangehörigen zu folgen. verstehen. Familienmitglieder dabei unterhalten habe ich Mühe, die Nachrichten zu verstehen. mit einer Person unterhalten möchte, ist es für mich schwierig, zu verstehen. großen leeren Raumes befindet, verstehe ich seine Worte. beantworte, habe ich Schwierigkeiten, dem Gespräch zu folgen. herum flüstern und mit Papier rascheln, kann ich dem Dialog immer noch folgen. unterhalte, habe ich Schwierigkeiten, zu verstehen. (Vor)
 
@@ -1021,7 +1021,7 @@ ZIP-Archives.
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 | EXT_ITA_AHEX_Berechnung_APHAB_QSHGV | Berechnung des APHAB-Nutzens |
 | EXT_ITA_AHEX_Bewertung_APHAB_nach_QSHGV | APHAB-Fragebogen der „Nach Verordnung“ |
 | EXT_ITA_AHEX_Bewertung_APHAB_vor_QSHGV | APHAB-Fragebogen der „(Vor) Verordnung“ |

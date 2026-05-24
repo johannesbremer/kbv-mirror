@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 22. AUGUST 2024   VERSION: 1.1   DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 22. AUGUST 2024   VERSION: 1.1   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # ZUSTANDSBEDINGUNGEN  ASTHMAKONTROLLE
@@ -49,7 +49,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 Die Änderungen vom 22.08.2024 treten zum 01.10.2024 in Kraft
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.1 | 22.08.2024 | KBV | Anpassung an die | Beschluss des G-BA | alle |
 | 1.0 | 13.02.2018 | KBV | Ersterfassung |  |  |
@@ -188,7 +188,7 @@ Es müssen drei oder vier der folgenden 4 Kriterien zutreffen:
 
 - B. Feld 1a (In den letzten 4 Wochen: Häufigkeit des Einsatzes der Bedarfsmedikation) = „Häufiger als 2 - mal wöchentlich“
 
-- C. Feld 2a (In den letzten 4 Wochen: Einschränkung von Aktivitäten im Alltag wegen Asthma - bronchiale) = „Ja“
+- C. Feld 2a (In den letzten 4 Wochen: Einschränkung von Aktivitäten im Alltag wegen Asthma  bronchiale) = „Ja“
 
 - D. Feld 2b (In den letzten 4 Wochen: Asthmabedingte Störung des Nachtschlafes) = „Ja“
 
@@ -242,7 +242,7 @@ Es müssen drei oder vier der folgenden 4 Kriterien zutreffen: - **bis < 18 6 Ja
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 | [DMP-A-RL] | Richtlinie    zur Zusammenführung der Anforderungen an strukturierte Behandlungsprogramme nach § 137f Absatz 2 SGB V  DMP-Anforderungen-Richtlinie |
 
 **Ansprechpartner:**

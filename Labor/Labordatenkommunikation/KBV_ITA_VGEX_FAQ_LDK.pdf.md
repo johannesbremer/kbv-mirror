@@ -1,4 +1,4 @@
-|  | IT in der Arztpraxis    FAQ für Softwarehersteller zur   [       Dezernat Digitalisierung und IT       10623 Berlin, Herbert-Lewin-Platz 2            Kassenärztliche Bundesvereinigung   Version |
+|  | ***IT in der Arztpraxis*****  *FAQ für Softwarehersteller zur *  [  **   Dezernat Digitalisierung und IT       10623 Berlin, Herbert-Lewin-Platz 2            Kassenärztliche Bundesvereinigung   Version  ** |
 |---|---|
 
 Labordatenkommunikation KBV_ITA_VGEX_FAQ_LDK 1.04 Datum: 15.11.2023 Kennzeichnung: Öffentlich Status: In Kraft
@@ -8,13 +8,13 @@ Labordatenkommunikation KBV_ITA_VGEX_FAQ_LDK 1.04 Datum: 15.11.2023 Kennzeichnun
 
 **D** **O**
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 1.04 | 15.11.2023 KBV |  | Streichung der FAQ-Einträge zum | Aktualisierung der | 8 ff |
-| 1.03 | 13.02.2018 KBV |  | Konkretisierungen bzgl. der |  | 8 |
-| 1.02 | 27.06.2017 KBV |  | Weitere Fragen und Antworten ergänzt |  | 7, 10,  10 |
-| 1.01 | 29.05.2017 KBV |  | Fehlerkorrektur bei typischen |  | 6 |
-| 1.00 | 15.05.2017 KBV |  | Initiale Erstellung |  | alle |
+| 1.04 | 15.11.2023 KBV |  | Streichung der FAQ-Einträge zum | Aktualisierung der | **8 ff** |
+| 1.03 | 13.02.2018 KBV |  | Konkretisierungen bzgl. der |  | **8** |
+| 1.02 | 27.06.2017 KBV |  | Weitere Fragen und Antworten ergänzt |  | **7, 10,  10** |
+| 1.01 | 29.05.2017 KBV |  | Fehlerkorrektur bei typischen |  | **6** |
+| 1.00 | 15.05.2017 KBV |  | Initiale Erstellung |  | **alle** |
 
 **K** **U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O**  **R** **I** **E**
 
@@ -130,12 +130,12 @@ Die FAQ dienen ausschließlich zur Orientierung im Themengebiet Labordatenkommun
 
 *folgende mögliche*
 
-| Systemtyp | Typische Zertifizierungsbereiche |
+| ***Systemtyp*** | ***Typische Zertifizierungsbereiche*** |
 |---|---|
-| Praxisverwaltungssysteme (PVS) | • • • • |
-| Laborinformationssysteme (LIS) | • • • • • • • • |
-| Order-Entry-Systeme (OE-System) | • • • |
-| Scan-Systeme | • • • • |
+| *Praxisverwaltungssysteme (PVS)* | • • • • |
+| *Laborinformationssysteme (LIS)* | • • • • • • • • |
+| *Order-Entry-Systeme (OE-System)* | • • • |
+| *Scan-Systeme* | • • • • |
 
 **Fragestellung: Wann startet die LDK-Zertifizierung?**
 
@@ -255,15 +255,11 @@ Digitales Muster 10  Export Digitales Muster 10A  Export LDT-Auftrag  Export LDT
 
 *Ein „Übertragungsweg“ nach Anlage 2b des BMV* *Übertragung von Dateien, insbesondere mit personenbezogenen Daten, von System A zu*  *System B zu stattfindet. Nach deutschem Bundesdatenschutzgesetz (BDSG) hat diese*  *Übertragung hinreichend verschlüsselt zu erfolgen, um diese Daten adäquat zu schützen.*  *Beispielsweise ein von beiden Systemen gemeinsam genutzter Datenträger fällt bereits*  *unter die Definition eines Übertragungsweges.*
 
-*kein gültiges*
-
-*ein Barcode*
-
 *machen.*
 
-*Muster*  *zur Überwindung*
+*kein gültiges Muster im Sinne*
 
-*im Sinne*
+*ein Barcode zur Überwindung*
 
 **rlaubt?**
 
@@ -399,12 +395,11 @@ Digitales Muster 10  Export Digitales Muster 10A  Export LDT-Auftrag  Export LDT
 
 **Auftrag haben vorerst Auswirkungen auf die KVDT**
 
-| *Die* | *Abrechnung* | *erfolgt* |
-|---|---|---|
-|  | *Abrechnungsbegründend* | |
-| *Auftrages* | *mittels* | *BFB-Verfahren* |
+*Stellungnahme der KBV:*
 
-*mit einem*
+*Die Abrechnung erfolgt mit einem*
+
+*Abrechnungsbegründend sind der konventionelle Ausdruck des Auftrages, der Ausdruck des*  *Auftrages mittels BFB-Verfahren oder der digitale Auftrag.*
 
 **Zertifizierung**
 
@@ -418,14 +413,14 @@ Digitales Muster 10  Export Digitales Muster 10A  Export LDT-Auftrag  Export LDT
 
 **3.0 Auftrag**
 
-ür den LDT 3.0 Auftrag gibt es keinen verbindlichen Starttermin, eine Zertifizierung ist jedoch bereits zum jetzigen Zeitpunkt möglich“? Stellungnahme der KBV: Stellungnahme der KBV: Die Abrechnung Abrechnungsbegründend sind der konventionelle Ausdruck des Auftrages, der Ausdruck des Auftrages mittels BFB-Verfahren oder der digitale Auftrag.*zertifiziert ist.*
+ür den LDT 3.0 Auftrag gibt es keinen verbindlichen Starttermin, eine Zertifizierung ist jedoch bereits zum jetzigen Zeitpunkt möglich“? Stellungnahme der KBV: *zertifiziert ist.*
 
 
 ---
 
 **3 Referenzierte Dokumente**
 
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 |---|---|
 | [KBV_ITA_VGEX_Technisches_Handbuch_DiMus] | Technisches Handbuch Digitale Vordrucke im |
 | [KBV_ITA_FMEX_Labor_UW] | Vorlage „Bestätigung eines Übertragungsweges“ |

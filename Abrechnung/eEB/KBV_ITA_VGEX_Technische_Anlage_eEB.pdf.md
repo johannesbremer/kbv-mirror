@@ -44,7 +44,7 @@
 
 Die Version 1.02 tritt zum 01.07.2026 in Kraft.
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.02 | 13.05.2026 | KBV | Aufnahme der optionalen    Anpassung der P2-02 |  | 7      5 |
 | 1.01 | 15.05.2025 | KBV | Hinweis ergänzt    Anforderung konkretisiert    Referenzen aktualisiert |  | 5    5    9 |
@@ -85,9 +85,9 @@ In diesem Dokument werden die für Softwarehersteller relevanten Daten und Proze
 
 Dieses Kapitel beschreibt die Vorgaben, welche Softwarehersteller umsetzen müssen.
 
-| PFLICHTFUNKTION ELEKTRONISCHE ERSATZBESCHEINIGUNG |  |
+| **PFLICHTFUNKTION ELEKTRONISCHE ERSATZBESCHEINIGUNG** |  |
 |---|---|
-| P 2-01 | Erzeugung des QR-Codes für die Praxis |
+| **P 2-01** | Erzeugung des QR-Codes für die Praxis |
 
 Die Software muss dem Anwender die Möglichkeit bieten, einen QR [eEB_Implementierungsleitfadens] zu erzeugen.
 
@@ -123,9 +123,9 @@ Ausreichend wäre bspw. auch, wenn der Anwender mit Unterstützung der Software 
 
 benötigten Informationen wie bspw. die KIM-Adresse mindestens angezeigt bekommt.
 
-| PFLICHTFUNKTION ELEKTRONISCHE ERSATZBESCHEINIGUNG |  |
+| **PFLICHTFUNKTION ELEKTRONISCHE ERSATZBESCHEINIGUNG** |  |
 |---|---|
-| P2-02 | Empfang einer eEB-Bescheinigung |
+| **P2-02** | Empfang einer eEB-Bescheinigung |
 
 Die Software muss sicherstellen, dass die eEB-Bescheinigungen der gesetzlichen Krankenkassen via KIM
 
@@ -237,9 +237,9 @@ festgelegt werden.
 
 - Anfrage im PVS zu dokumentieren.
 
-| OPTIONALE FUNKTION ELEKTRONISCHE ERSATZBESCHEINIGUNG |  |
+| **OPTIONALE FUNKTION ELEKTRONISCHE ERSATZBESCHEINIGUNG** |  |
 |---|---|
-| O2-02 | Versand einer eEB-Anfrage |
+| **O2-02** | Versand einer eEB-Anfrage |
 
 Die Software kann dem Anwender die Möglichkeiten zur Verfügung stellen, eine Anfrage zur eEB-
 
@@ -258,9 +258,9 @@ Gemäß der BMV-Ä Anlage 4a Anhang 1 Punkt 2.9 kann eine Praxis in Ausnahmefäl
 
 Dieses Kapitel beschreibt die Vorgaben, die von den Krankenkassen umgesetzt werden müssen.
 
-| PFLICHTFUNKTION ELEKTRONISCHE ERSATZBESCHEINIGUNG |  |
+| **PFLICHTFUNKTION ELEKTRONISCHE ERSATZBESCHEINIGUNG** |  |
 |---|---|
-| P 4-01 | Bereitstellung von Funktionen der Versicherten |
+| **P 4-01** | Bereitstellung von Funktionen der Versicherten |
 
 Die Krankenkassen müssen ihren Versicherten Funktionen zur Verfügung stellen, um einen eEB gemäß dem
 
@@ -293,7 +293,7 @@ Gemäß des § 19 BMV-Ä sollen Versicherte die Möglichkeit erhalten, einer Ver
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | Dokument |
 | eEB_Implementierungsleitfaden | https://simplifier.net/guide/implementierungsl |
 | BMV-Ä | https://www.kbv.de/media/sp/BMV-Aerzte.pdf |
 | Anlage 4a und Anlage 4b | Anlage 4a:   https://www.kbv.de/media/sp/04a_elektr._Ges   Anlage 4b:  https://www.kbv.de/media/sp/Anlage_4b_Aut |

@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**16. MAI 2026**
+**23. MAI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -23,41 +23,35 @@ Die nachstehende Matrix stellt Ihnen eine Übersicht zur Verfügung, aus der her
 
 **ACETOmed**
 
-**Abrechnung (Link) elektronische Disease-**
-
-x
-
-x
-
 ACETO Softwareentwicklung GmbH
 
 **Clinixx(R) Krankenhausinformationssystem** AMC Holding GmbH
 
 **amelis** amedes Medizinische Dienstleistungen GmbH
 
-**MAP Software für Laborärzte**
+**MAP Software für Laborärzte** Andaco Consulting & Trading GmbH
 
-x
+**APRIS** APRIS Praxiscomputer GmbH
 
-Andaco Consulting & Trading GmbH
-
-**APRIS**
-
-x
-
-APRIS Praxiscomputer GmbH
-
-**Arztpraxis Wiegand** APW-Wiegand - Med. Software Entwicklung und
-
-x
-
-Vertrieb GmbH
+**Arztpraxis Wiegand** APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH
 
 **ODSeasy**
 
 asthenis GmbH
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 16. Mai 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 23. Mai 2026
+
+**Abrechnung (Link) elektronische Disease-**
+
+x
+
+x
+
+x
+
+x
+
+x
 
 **Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
 
@@ -351,32 +345,32 @@ Name der Software und Anbieter CGM CHANNEL CGM LAB International GmbH CGM LAB In
 
 ---
 
-| **Name** | **der Software** | **und** | **Anbieter** |
-|---|---|---|---|
-| **ALBIS** |  |  |  |
-| CompuGroup | | Medical Deutschland | AG |
-| **DATA** | **VITAL** |  |  |
-| CompuGroup | | Medical Deutschland | AG |
-| **CGM** | **M1 PRO** |  |  |
-| CompuGroup | | Medical Deutschland | AG |
-| **CGM** | **DMP-ASSIST** |  |  |
-| CompuGroup | | Medical Deutschland | AG |
-| **CGM** | **Praxis** |  |  |
-| CompuGroup | | Medical Deutschland | AG |
-| **CGM** | **MEDISTAR** | **BLACK PRO** |  |
-| CompuGroup | | Medical Deutschland | AG |
-| **INFINITYQ** | **HEALTH** |  |  |
-| CROSSSOFT. | GmbH |  |  |
-| **DS-WIN-PLUS** | | **(DS-WIN-MED)** |  |
-| DAMPSOFT | GmbH |  |  |
-| **Data-AL** |  |  |  |
-| Data-AL | GmbH |  |  |
-| **DMP** | **Form** |  |  |
-| Data | Experts GmbH |  |  |
-| **InterMediNet** | **KVDT** |  |  |
-| DBI | Informatik, | Dirk Blume |  |
-| **ORBIS®** |  |  |  |
-| Dedalus | HealthCare | GmbH |  |
+| **Name** | **der Software und Anbieter** |
+|---|---|
+| **ALBIS** |  |
+| CompuGroup | Medical Deutschland AG |
+| **DATA** | **VITAL** |
+| CompuGroup | Medical Deutschland AG |
+| **CGM** | **M1 PRO** |
+| CompuGroup | Medical Deutschland AG |
+| **CGM** | **DMP-ASSIST** |
+| CompuGroup | Medical Deutschland AG |
+| **CGM** | **Praxis** |
+| CompuGroup | Medical Deutschland AG |
+| **CGM** | **MEDISTAR BLACK PRO** |
+| CompuGroup | Medical Deutschland AG |
+| **INFINITYQ** | **HEALTH** |
+| CROSSSOFT. | GmbH |
+| **DS-WIN-PLUS** | **(DS-WIN-MED)** |
+| DAMPSOFT | GmbH |
+| **Data-AL** |  |
+| Data-AL | GmbH |
+| **DMP** | **Form** |
+| Data | Experts GmbH |
+| **InterMediNet** | **KVDT** |
+| DBI | Informatik, Dirk Blume |
+| **ORBIS®** |  |
+| Dedalus | HealthCare GmbH |
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
 
@@ -817,36 +811,44 @@ x
 
 x
 
+x
+
 Name der Software und Anbieter Duria eG Xplore RIS EDL Software Deutschland GmbH EI Systems, Andreas Eicker Elea.ai GmbH Epikur Software GmbH & Co. KG ergosoft GmbH ET Software Developments GmbH EVIDENT GmbH Examion GmbH FIDUS Software Entwicklungs-GmbH Florian Kaiser Fresenius Medical Care Deutschland GmbHx
 
 
 ---
 
-| **Name** | **der Software** | **und Anbieter** |  |
-|---|---|---|---|
-| **QUINCY** | **WIN** |  |  |
-| Frey | ADV GmbH |  |  |
-| **Doctorly** |  |  |  |
-| Frey | ADV GmbH |  |  |
-| **garrioPRO** |  |  |  |
-| garrio | GmbH |  |  |
-| **Centricity** | **RIS-i** |  |  |
-| GE | Healthcare | Information Technologies | GmbH & |
-| Co. KG |  |  |  |
-| **Torin** |  |  |  |
-| Getinge | IT Solutions | GmbH |  |
-| **eReha** |  |  |  |
-| GITG | AG |  |  |
-| **MedForm** |  |  |  |
-| GMC | Systems GmbH |  |  |
-| **GMC** | **PaDok** |  |  |
-| GMC | Systems GmbH |  |  |
-| **J-MED** |  |  |  |
-| Haase, | Dipl.-Ing. | Silvia GbR |  |
-| **Elefant** |  |  |  |
-| HASOMED | GmbH |  |  |
-| **Helmsauer** | **Care** | **Manager** |  |
-| Helmsauer | IT-Solutions | GmbH |  |
+**Name der Software und Anbieter**
+
+**QUINCY WIN**
+
+Frey ADV GmbH
+
+**Doctorly** Frey ADV GmbH
+
+**garrioPRO**
+
+garrio GmbH
+
+**Centricity RIS-i** GE Healthcare Information Technologies GmbH & Co. KG
+
+**Torin** Getinge IT Solutions GmbH
+
+**eReha**
+
+GITG AG
+
+**MedForm** GMC Systems GmbH
+
+**GMC PaDok** GMC Systems GmbH
+
+**J-MED** Haase, Dipl.-Ing. Silvia GbR
+
+**Elefant**
+
+HASOMED GmbH
+
+**Helmsauer Care Manager** Helmsauer IT-Solutions GmbH
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
 
@@ -942,7 +944,7 @@ x
 
 x
 
-Name der Software und Anbieter QUINCY WIN Frey ADV GmbH Frey ADV GmbH garrio GmbH Centricity RIS-i GE Healthcare Information Technologies GmbH & Getinge IT Solutions GmbH GITG AG GMC Systems GmbH GMC PaDok GMC Systems GmbH Haase, Dipl.-Ing. Silvia GbR HASOMED GmbH Helmsauer Care Manager Helmsauer IT-Solutions GmbHx
+x
 
 
 ---
@@ -1052,31 +1054,27 @@ Name der Software und Anbieter henova GmbH ID Information und Dokumentation im G
 
 ---
 
-| **Name** | **der Software** | **und** | **Anbieter** |
-|---|---|---|---|
-| **aurelio/lab** |  |  |  |
-| Intellitec | Healthcare | IT Solutions | GmbH |
-| **InterARZT** |  |  |  |
-| InterData |  | Praxiscomputer | GmbH |
-| **MIQ-EHKS** |  |  |  |
-| IOMTech | GmbH |  |  |
-|  | **esQlab.online** |  |  |
-| IQVIA | Commercial | GmbH & | Co OHG |
-| **EMILdmp** |  |  |  |
-| ITC Dipl. | Ing. M. | Schumann |  |
-| **ILAB** |  |  |  |
-| itech | Laborlösungen | GmbH |  |
-| **DISweb** |  |  |  |
-| KfH - | Kuratorium | für Dialyse | und |
-|  | Nierentransplantation | e.V. |  |
-| **CLASSY** | **RT** |  |  |
-| KHP | Kelm & Homberg |  | Produktionsgesellschaft |
-| GmbH | & Co.KG |  |  |
-| **LINA** |  |  |  |
-| LAB4.0 | GmbH |  |  |
-| **smartLIS** |  | **Laborinformationssystem** | |
-|  | **Abrechnungsmodul** |  |  |
-| labdock | GmbH |  |  |
+**Name der Software und Anbieter**
+
+**aurelio/lab** Intellitec Healthcare IT Solutions GmbH
+
+**InterARZT** InterData Praxiscomputer GmbH
+
+**MIQ-EHKS** IOMTech GmbH
+
+**esQlab.online** IQVIA Commercial GmbH & Co OHG
+
+**EMILdmp** ITC Dipl. Ing. M. Schumann
+
+**ILAB** itech Laborlösungen GmbH
+
+**DISweb** KfH - Kuratorium für Dialyse und Nierentransplantation e.V.
+
+**CLASSY RT** KHP Kelm & Homberg Produktionsgesellschaft GmbH & Co.KG
+
+**LINA** LAB4.0 GmbH
+
+**smartLIS Laborinformationssystem** **Abrechnungsmodul** labdock GmbH
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
 
@@ -1152,7 +1150,7 @@ x
 
 x
 
-Name der Software und Anbieter Intellitec Healthcare IT Solutions GmbH InterData Praxiscomputer GmbH IOMTech GmbH IQVIA Commercial GmbH & Co OHG ITC Dipl. Ing. M. Schumann itech Laborlösungen GmbH KfH - Kuratorium für Dialyse und Nierentransplantation e.V. CLASSY RT KHP Kelm & Homberg Produktionsgesellschaft GmbH & Co.KG LAB4.0 GmbH smartLIS Laborinformationssystem labdock GmbHx
+x
 
 
 ---
@@ -1272,7 +1270,7 @@ x
 
 **Ashvins xIS** MedicalCommunications GmbH
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 16. Mai 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 23. Mai 2026
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
 
@@ -1567,31 +1565,29 @@ Name der Software und Anbieter Medical-Software Frank Savini medicalvalues Order
 
 ---
 
-| **Name** | **der** | **Software und** | **Anbieter** |
-|---|---|---|---|
-|  | **ClinicCentre** | **Billing (OPD)** |  |
-| Mesalvo | Mannheim | GmbH |  |
-|  | **LabCentre** |  |  |
-| Mesalvo | Mannheim | GmbH |  |
-| **Miranext** | |  |  |
-| MiraNext | GmbH |  |  |
-|  | **Med4WinPlus** |  |  |
-| Müritz | COMP | Greifswald | Computersystemhaus |
-| GmbH |  |  |  |
-| **Calo** |  | **(Computer-Aided-Laboratory-Order)** | |
-| MVZ | Labor Dr. | Quade und | Kollegen GmbH |
-|  | **Pro_Medico** |  |  |
-| Neutz | GmbH | Systemhaus |  |
-| **SMARTY** |  |  |  |
-| New | Media | Company GmbH | & Co. KG |
-| **MEDOS** |  |  |  |
-| NEXUS | / CHILI | GmbH |  |
-| **NEXUS** | **RIS** |  |  |
-| NEXUS | / CHILI | GmbH |  |
-| **NEXUS** | **/ PATHOLOGIE** | **und** | **NEXUS / ZYTOLOGIE** |
-| NEXUS | / DIGITAL | PATHOLOGY | GmbH |
-|  | **dc-pathos/dc-ross** |  |  |
-| NEXUS | / DIGITAL | PATHOLOGY | GmbH |
+**Name der Software und Anbieter**
+
+**ClinicCentre Billing (OPD)** Mesalvo Mannheim GmbH
+
+**LabCentre** Mesalvo Mannheim GmbH
+
+**Miranext** MiraNext GmbH
+
+**Med4WinPlus** Müritz COMP Greifswald Computersystemhaus GmbH
+
+**Calo (Computer-Aided-Laboratory-Order)** MVZ Labor Dr. Quade und Kollegen GmbH
+
+**Pro_Medico** Neutz GmbH Systemhaus
+
+**SMARTY** New Media Company GmbH & Co. KG
+
+**MEDOS** NEXUS / CHILI GmbH
+
+**NEXUS RIS** NEXUS / CHILI GmbH
+
+**NEXUS / PATHOLOGIE und NEXUS / ZYTOLOGIE** NEXUS / DIGITAL PATHOLOGY GmbH
+
+**dc-pathos/dc-ross** NEXUS / DIGITAL PATHOLOGY GmbH
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
 
@@ -1695,7 +1691,7 @@ x
 
 x
 
-Name der Software und Anbieter ClinicCentre Billing (OPD) Mesalvo Mannheim GmbH Mesalvo Mannheim GmbH MiraNext GmbH Müritz COMP Greifswald Computersystemhaus Calo (Computer-Aided-Laboratory-Order) MVZ Labor Dr. Quade und Kollegen GmbH Neutz GmbH Systemhaus New Media Company GmbH & Co. KG NEXUS / CHILI GmbH NEXUS RIS NEXUS / CHILI GmbH NEXUS / PATHOLOGIE und NEXUS / ZYTOLOGIE NEXUS / DIGITAL PATHOLOGY GmbH NEXUS / DIGITAL PATHOLOGY GmbHx
+x
 
 
 ---
@@ -1840,9 +1836,9 @@ x
 | **RescuePro** |  |  |  |
 | RescuePro | Production | GmbH & | Co. KG |
 | **RpDoc** | **Klinik** |  |  |
-| RpDoc | Solutions GmbH |  |  |
+| RpDoc | Solutions | GmbH |  |
 | **RpDoc** | **eMMa** |  |  |
-| RpDoc | Solutions GmbH |  |  |
+| RpDoc | Solutions | GmbH |  |
 | **S3-Win** |  |  |  |
 | S3 | Praxiscomputer | GmbH / | Maximilian Flender |
 | **SAP** | **Ambulatory Care** | **Management** |  |
@@ -1853,9 +1849,9 @@ x
 | Schwerdtner |  | Medizin-Software | GmbH |
 | **principa** |  |  |  |
 | SIEGELE | Software | GmbH |  |
-| **Meine** | **SBK** |  |  |
-|  | Siemens-Betriebskrankenkasse | | (SBK) |
 | **star.net®** | **Labor** |  |  |
+| Sonic | Healthcare | Germany GmbH | & Co. KG |
+| **Patho.Net** |  |  |  |
 | Sonic | Healthcare | Germany GmbH | & Co. KG |
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
@@ -1990,37 +1986,42 @@ x
 
 x
 
-Name der Software und Anbieter RED medical classic RED Medical Systems GmbH RED Medical RED Medical Systems GmbH RescuePro Production GmbH & Co. KG RpDoc Klinik RpDoc Solutions GmbH RpDoc eMMa RpDoc Solutions GmbH S3 Praxiscomputer GmbH / Maximilian Flender SAP Ambulatory Care Management ARZT 2000 Schmidt Computersysteme Schwerdtner Medizin-Software GmbH SIEGELE Software GmbH Meine SBK Siemens-Betriebskrankenkasse (SBK) star.net® Labor Sonic Healthcare Germany GmbH & Co. KGx
+x
+
+Name der Software und Anbieter RED medical classic RED Medical Systems GmbH RED Medical RED Medical Systems GmbH RescuePro Production GmbH & Co. KG RpDoc Klinik RpDoc Solutions GmbH RpDoc eMMa RpDoc Solutions GmbH S3 Praxiscomputer GmbH / Maximilian Flender SAP Ambulatory Care Management ARZT 2000 Schmidt Computersysteme Schwerdtner Medizin-Software GmbH SIEGELE Software GmbH star.net® Labor Sonic Healthcare Germany GmbH & Co. KG Sonic Healthcare Germany GmbH & Co. KGx
 
 
 ---
 
-| **Name** | **der Software** | **und Anbieter** |  |
-|---|---|---|---|
-| **Patho.Net** |  |  |  |
-| Sonic | Healthcare Germany | GmbH & | Co. KG |
-| **DOCNET** |  |  |  |
-| Sonic | Healthcare Germany | GmbH & | Co. KG |
-| **PalliDoc** |  |  |  |
-| Statconsult | GmbH |  |  |
-| **IOX-LS** |  |  |  |
-| STIWA | AMS GmbH |  |  |
-| **MEDI_LINE** |  |  |  |
-| Strzata, | Dr. med. Norbert |  |  |
-| **SYNconnect** |  |  |  |
-| SYNLAB | Holding Deutschland | GmbH |  |
-| **proLAB** |  |  |  |
-| SysTek | GmbH |  |  |
-| **T2med** |  |  |  |
-| T2med | GmbH & Co. KG |  |  |
-| **TeleClinic** | **eAU** |  |  |
-| TeleClinic | GmbH |  |  |
-| **Medi10** |  |  |  |
-| UfP | Systemhaus GmbH |  |  |
-|  | **UNISOLO®-POESY** |  |  |
-| UNISOLO® | GmbH |  |  |
-| **PDV-FR** |  |  |  |
-|  | Universitätsklinikum | Freiburg AdöR |  |
+**Name der Software und Anbieter**
+
+**DOCNET** Sonic Healthcare Germany GmbH & Co. KG
+
+**PalliDoc** Statconsult GmbH
+
+**IOX-LS** STIWA AMS GmbH
+
+**MEDI_LINE** Strzata, Dr. med. Norbert
+
+**SYNconnect** SYNLAB Holding Deutschland GmbH
+
+**proLAB** SysTek GmbH
+
+**T2med** T2med GmbH & Co. KG
+
+**TeleClinic eAU**
+
+TeleClinic GmbH
+
+**Medi10** UfP Systemhaus GmbH
+
+**UNISOLO®-POESY**
+
+UNISOLO® GmbH
+
+**PDV-FR** Universitätsklinikum Freiburg AdöR
+
+**AiDKlinik** Universitätsklinikum Heidelberg
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
 
@@ -2098,14 +2099,12 @@ x
 
 x
 
-Name der Software und Anbieter Sonic Healthcare Germany GmbH & Co. KG Sonic Healthcare Germany GmbH & Co. KG Statconsult GmbH STIWA AMS GmbH Strzata, Dr. med. Norbert SYNLAB Holding Deutschland GmbH SysTek GmbH T2med GmbH & Co. KG TeleClinic eAU TeleClinic GmbH UfP Systemhaus GmbH UNISOLO® GmbH Universitätsklinikum Freiburg AdöRx
+x
 
 
 ---
 
 **Name der Software und Anbieter**
-
-**AiDKlinik** Universitätsklinikum Heidelberg
 
 **data4doc** Vidal MMI Germany GmbH
 
@@ -2115,11 +2114,9 @@ Name der Software und Anbieter Sonic Healthcare Germany GmbH & Co. KG Sonic Heal
 
 **tomedo.air** Zollsoft GmbH
 
-Seite 18 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 16. Mai 2026
+Seite 18 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 23. Mai 2026
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
-
-x
 
 x
 

@@ -1,17 +1,17 @@
-|  |
-|---|
+\|  |
+\|---|
 
 # FESTLEGUNG DER SCHNI § 371 ABSATZ 1 NUMME
 
 ### [KBV_ITA_VGEX_SST_FESTLEGUNG_VOS]
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT ** |
 |---|---|
 
 **TTSTELLEN NACH**  **R 2 SGB V**
 
-|  |
-|---|
+\|  |
+\|---|
 
 DOKUMENTENSTATUS: IN KRAFT  BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   01. FEBRUAR 2023 VERSION: 2.1.0
 
@@ -93,11 +93,17 @@ Inhalt
 
 **18**
 
-18  18  18  19  19  19  20  20  20  20  21  22  23  23  24  24  24  25  27
+18  18  18
+
+19  19  19  20  20  20  20  21  22  23 23  24  24  24  25  27
 
 **28**
 
-29  29  29  30  30  30  30  31  31  31
+29  29  29
+
+30
+
+30  30  30  31  31  31
 
 **31**
 
@@ -115,22 +121,22 @@ Inhalt
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 2.1.0 | 16.12.2022 | KBV | Anpassung der Nutzung des Kürzels      Neues ValueSet | Umbenennung des    Ergebnis der zweiten | Alle    17 |
 | 2.1.0 | 25.11.2022 | KBV | KBV_PR_VoS_MedicationStatement_MP Definition überarbeitet    KBV_EX_VoS_Medication_Amount_ FreeText entfernt    KBV_EX_VoS_Condition_Permanent umbenannt    KBV_EX_VoS_Medication_isOverThe Counter aufgenommen    Tabelle 44 Fehlerkorrektur    Umsetzungsfrist aktualisiert | Ergebnisse der | 12    14    14    15    16    32 |
 | 2.1.0 | 19.09.2022 | KBV | Anpassung an R4 und eRezept | Neue Version | Alle |
 | 1.20.0 | 08.07.2021 | KBV | Neue Version | E-Rezept  Umsetzungsfrist | 4, 10  28 |
 | 1.10.010 | 05.06.2020 | KBV | Neue Version   Neue Kapitel 6 und 7 eingefügt Kapitel 4.1.7.5 Transaction angepasst Kapitel 4.1.8 Paging erweitert Aufnahme: Valueset  74_VS_VoS_Identifiertyp | Profile,   organisatorische  Paging wird erlaubt | ALLE  28  31  23  24  16 |
-| 1.10 | 18.03.2019 | KBV | 1. › › › › › › › › | Fortschreibung der | 7-11 |
+| 1.10 | 18.03.2019 | KBV | **1.** › › › › › › › › | Fortschreibung der | 7-11 |
 
 “AVWG” KBV_VS_VoS_AgentRoles Aufnahme: Profile 74_PR_VoS_Anwender 74_PR_VoS_Bundle_VoS_PVS 74_PR_VOS_Diagnose 74_PR_VoS_OBS_Stillend 74_PR_VoS_OBS_Schwanger 74_PR_VoS_OBS_Kreatinwert 74_PR_VoS_OBS_Gewicht 74_PR_VoS_OBS_Koerpergroesse Zertifizierungs- verfahrens Kommentierung Kommentierung Stabilisierung KBV- Festlegungen eingefügt, Schnittstelle um weitere Patienten- informationen sowie Datenübergabe von VoS an PVS zur Sicherstellung des Aufrufkontextes
 
 ---
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-|  |  |  |  | 2. › › › › › 3. › › › 4. › 5. › 6. › › 7. 8. 9. | 11-12              12-14                        22  Alle    Alle |
+|  |  |  |  | **2.** › › › › ›**3.** › › ›**4.** ›**5.** ›**6.** › ›**7. 8. 9.** | 11-12              12-14                        22  Alle    Alle |
 | 1.00 | 20.03.2018 | KBV | Neues Dokument | § 291d Absatz 1a | Alle |
 
 Aufnahme: Extensions 74_EX_VOS_Anwender_Sytem 74_EX_VoS_Diagnose_ istDauerdiagnose 74_EX_VoS_PruefNummer 74_EX_VoS_Rezept_ASV Aufnahme: Code-Systemen 74_CS_VoS_AuthorTyp 74_CS_VoS_DokumentTyp 74_CS_VoS_Koerperkenngroessen Aufnahme: Value-Set 74_VS_VoS_DokumentTyp Aufnahme: Naming-System 74_NS_VoS_KBV-Pruefnummer Entfernt: FHIR-Profile 74_EX_VM_Normgroesse 74_PR_VM_Adresse Kapitel 4.1.7.5 aufgenommen Anpassung der FHIR®-Ressourcen- Namen und -URIs Redaktionelle Änderungen Satz 1 Nr.1 SGB V
@@ -215,9 +221,7 @@ festgelegt. Aus dem vierten Kapitel
 
 -Service zwischen dem Praxisverwaltungssystem  5 ist der Einsatz der Schnittstellen durch
 
-sich aus 3 als FHIR® -Elemente
-
-dem
+sich aus dem 3 als FHIR® -Elemente
 
 
 ---
@@ -275,7 +279,7 @@ Die KBV -Profile geben Auskunft darüber, wie die Elemente und mit welchen Erwei
 
 kanonischen URL.
 
-| KBV_PR_VOS_ALLERGYINTOLERANCE |  |
+| **KBV_PR_VOS_ALLERGYINTOLERANCE** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_AllergyIntolerance |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/allergyintolerance.html |
@@ -283,7 +287,7 @@ kanonischen URL.
 
 Tabelle 1: KBV_PR_VoS_AllergyIntolerance
 
-| KBV_PR_VOS_USER |  |
+| **KBV_PR_VOS_USER** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_User |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/practitioner.html |
@@ -291,7 +295,7 @@ Tabelle 1: KBV_PR_VoS_AllergyIntolerance
 
 Tabelle 2: KBV_PR_VoS_User
 
-| KBV_PR_VOS_PRACTITIONER |  |
+| **KBV_PR_VOS_PRACTITIONER** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_Practitioner |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/practitioner.html |
@@ -300,7 +304,7 @@ Tabelle 2: KBV_PR_VoS_User
 
 Tabelle 3: KBV_PR_VoS_Practitioner
 
-| KBV_PR_VOS_PRACTITIONERROLE |  |
+| **KBV_PR_VOS_PRACTITIONERROLE** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_PractitionerRole |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/practitionerrole.html |
@@ -318,7 +322,7 @@ Eine Person aus dem Praxisteam, welche die Bearbeitung des Rezeptes/BMP Die ASV-
 
 ---
 
-| KBV_PR_VOS_ORGANIZATION |  |
+| **KBV_PR_VOS_ORGANIZATION** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_Organization |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/organization.html |
@@ -327,7 +331,7 @@ Eine Person aus dem Praxisteam, welche die Bearbeitung des Rezeptes/BMP Die ASV-
 
 Tabelle 5: KBV_PR_VoS_Organization
 
-| KBV_PR_VOS_BUNDLE_PVS_VOS |  |
+| **KBV_PR_VOS_BUNDLE_PVS_VOS** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_Bundle_PVS_VoS |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/bundle.html |
@@ -336,7 +340,7 @@ Tabelle 5: KBV_PR_VoS_Organization
 
 Tabelle 6: KBV_PR_VoS_Bundle_PVS_VoS
 
-| KBV_PR_VOS_BUNDLE_VOS_PVS |  |
+| **KBV_PR_VOS_BUNDLE_VOS_PVS** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_Bundle_VoS_PVS |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/bundle.html |
@@ -344,7 +348,7 @@ Tabelle 6: KBV_PR_VoS_Bundle_PVS_VoS
 
 Tabelle 7: KBV_PR_VoS_Bundle_VoS_PVS
 
-| KBV_PR_VOS_COMPOSITION |  |
+| **KBV_PR_VOS_COMPOSITION** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_Composition |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/composition.html |
@@ -353,7 +357,7 @@ Tabelle 7: KBV_PR_VoS_Bundle_VoS_PVS
 
 Tabelle 8: KBV_PR_VoS_Composition
 
-| KBV_PR_VOS_CONDITION |  |
+| **KBV_PR_VOS_CONDITION** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_Condition |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/condition.html |
@@ -365,7 +369,7 @@ Allerdings wird die BSNR nur dann zur Bedruckung verwendet, wenn die ASV Teamnum
 
 ---
 
-| KBV_PR_VOS_DOCUMENTREFERENCE |  |
+| **KBV_PR_VOS_DOCUMENTREFERENCE** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_DocumentReference |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/documentreference.html |
@@ -373,7 +377,7 @@ Allerdings wird die BSNR nur dann zur Bedruckung verwendet, wenn die ASV Teamnum
 
 Tabelle 10: KBV_PR_VoS_DocumentReference
 
-| KBV_PR_VOS_COVERAGE |  |
+| **KBV_PR_VOS_COVERAGE** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_Coverage |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/coverage.html |
@@ -381,7 +385,7 @@ Tabelle 10: KBV_PR_VoS_DocumentReference
 
 Tabelle 11: KBV_PR_VoS_Coverage
 
-| KBV_PR_VOS_MEDICATION_COMPOUNDING |  |
+| **KBV_PR_VOS_MEDICATION_COMPOUNDING** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/medication.html |
@@ -389,7 +393,7 @@ Tabelle 11: KBV_PR_VoS_Coverage
 
 Tabelle 12: KBV_PR_VoS_Medication_Compounding
 
-| KBV_PR_VOS_MEDICATION_FREETEXT |  |
+| **KBV_PR_VOS_MEDICATION_FREETEXT** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_Medication_FreeText |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/medication.html |
@@ -397,7 +401,7 @@ Tabelle 12: KBV_PR_VoS_Medication_Compounding
 
 Tabelle 13: KBV_PR_VoS_Medication_FreeText
 
-| KBV_PR_VOS_MEDICATION_INGREDIENT |  |
+| **KBV_PR_VOS_MEDICATION_INGREDIENT** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_Medication_Ingredient |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/medication.html |
@@ -405,7 +409,7 @@ Tabelle 13: KBV_PR_VoS_Medication_FreeText
 
 Tabelle 14: KBV_PR_VoS_Medication_Ingredient
 
-| KBV_PR_VOS_MEDICATION_PZN |  |
+| **KBV_PR_VOS_MEDICATION_PZN** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_Medication_PZN |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/medication.html |
@@ -418,7 +422,7 @@ beispielsweise  PDF Dokumenten sowie strukturierten Repräsentationen des Medika
 
 ---
 
-| KBV_PR_VOS_MEDICATIONSTATEMENT_MP |  |
+| **KBV_PR_VOS_MEDICATIONSTATEMENT_MP** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_MedicationStatement_MP |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/medicationstatement.html |
@@ -426,7 +430,7 @@ beispielsweise  PDF Dokumenten sowie strukturierten Repräsentationen des Medika
 
 Tabelle 16: KBV_PR_VoS_MedicationStatement_MP
 
-| KBV_PR_VOS_OBSERVATION_BODY_WEIGHT |  |
+| **KBV_PR_VOS_OBSERVATION_BODY_WEIGHT** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_Observation_Body_Weight |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/observation.html |
@@ -434,7 +438,7 @@ Tabelle 16: KBV_PR_VoS_MedicationStatement_MP
 
 Tabelle 17: KBV_PR_VoS_Observation_Body_Weight
 
-| KBV_PR_VOS_OBSERVATION_BODY_HEIGHT |  |
+| **KBV_PR_VOS_OBSERVATION_BODY_HEIGHT** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_Observation_Body_Height |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/observation.html |
@@ -442,7 +446,7 @@ Tabelle 17: KBV_PR_VoS_Observation_Body_Weight
 
 Tabelle 18: KBV_PR_VoS_Observation_Body_Height
 
-| KBV_PR_VOS_OBSERVATION_CREATININE_LEVEL |  |
+| **KBV_PR_VOS_OBSERVATION_CREATININE_LEVEL** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_Observation_Creatinine_Level |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/observation.html |
@@ -450,7 +454,7 @@ Tabelle 18: KBV_PR_VoS_Observation_Body_Height
 
 Tabelle 19: KBV_PR_VoS_Observation_Creatinine_Level
 
-| KBV_PR_VOS_OBSERVATION_PREGNANCY_STATUS |  |
+| **KBV_PR_VOS_OBSERVATION_PREGNANCY_STATUS** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_Observation_Pregnancy_Status |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/observation.html |
@@ -458,7 +462,7 @@ Tabelle 19: KBV_PR_VoS_Observation_Creatinine_Level
 
 Tabelle 20: KBV_PR_VoS_Observation_Pregnancy_Status
 
-| KBV_PR_VOS_OBSERVATION_BREASTFEEDING_STATUS |  |
+| **KBV_PR_VOS_OBSERVATION_BREASTFEEDING_STATUS** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_Observation_Breastfeeding_St |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/observation.html |
@@ -471,7 +475,7 @@ Grund, Kennzeichnung als Dauermedikation) für ein Medikament auf einem Medikati
 
 ---
 
-| KBV_PR_VOS_PATIENT |  |
+| **KBV_PR_VOS_PATIENT** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_Patient |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/patient.html |
@@ -480,7 +484,7 @@ Grund, Kennzeichnung als Dauermedikation) für ein Medikament auf einem Medikati
 
 Tabelle 22: KBV_PR_VoS_Patient
 
-| KBV_PR_VOS_PRESCRIPTION |  |
+| **KBV_PR_VOS_PRESCRIPTION** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_ |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/medicationrequest.html |
@@ -489,7 +493,7 @@ Tabelle 22: KBV_PR_VoS_Patient
 
 Tabelle 23 KBV_PR_VoS_Prescription
 
-| KBV_PR_VOS_DEVICE_PVS |  |
+| **KBV_PR_VOS_DEVICE_PVS** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_Device_PVS |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/device.html |
@@ -498,7 +502,7 @@ Tabelle 23 KBV_PR_VoS_Prescription
 
 Tabelle 24: KBV_PR_VoS_Device_PVS
 
-| KBV_PR_VOS_PROVENANCE_ALLERGYINTOLERANCE |  |
+| **KBV_PR_VOS_PROVENANCE_ALLERGYINTOLERANCE** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_Provenance_AllergyIntoleranc |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/provenance.html |
@@ -506,7 +510,7 @@ Tabelle 24: KBV_PR_VoS_Device_PVS
 
 Tabelle 25: KBV_PR_VoS_Provenance_AllergyIntolerance
 
-| KBV_PR_VOS_PROVENANCE_EPRESCRIPTION |  |
+| **KBV_PR_VOS_PROVENANCE_EPRESCRIPTION** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_Provenance_ePrescription |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/provenance.html |
@@ -521,49 +525,49 @@ Zur Vermeidung der Fehlleitung von Rezepten und Verordnungen beim Versand sowie 
 
 Mit den folgenden Extensions wurden notwendige Erweiterungen in den FHIR®-Ressourcen vorgenommen.
 
-| KBV_EX_VOS_ USER_DEVICE |  |
+| **KBV_EX_VOS_ USER_DEVICE** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_VoS_User_Device |
 | Definition | Anwender und System im Bundle |
 
 Tabelle 27: KBV_EX_VoS_User_Device
 
-| KBV_EX_VOS_STARTUP_CONTEXT |  |
+| **KBV_EX_VOS_STARTUP_CONTEXT** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_VoS_StartUp_Context |
 | Definition | Aufrufkontext entspricht der vom Anwender gewünschten Funktionalität in der |
 
 Tabelle 28: KBV_EX_VoS_StartUp_Context
 
-| KBV_EX_VOS_EPRESCRIPTION_ACCESS |  |
+| **KBV_EX_VOS_EPRESCRIPTION_ACCESS** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_VoS_ePrescription_Access |
 | Definition | Enthält den AccessCode und die Task-ID für den erneuten Zugriff auf das E |
 
 Tabelle 29: KBV_EX_VoS_ePrescription_Access
 
-| KBV_EX_VOS_BTM_PRESCRIPTION_MARKS |  |
+| **KBV_EX_VOS_BTM_PRESCRIPTION_MARKS** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_VoS_BTM_Prescription_Marks |
 | Definition | Spiegelt die Kennzeichen für die Sonderregelungen auf einem BtM |
 
 Tabelle 30: KBV_EX_VoS_BTM_Prescription_Marks
 
-| KBV_EX_VOS _ISPERMANENT |  |
+| **KBV_EX_VOS _ISPERMANENT** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_VoS_ isPermanent |
 | Definition | oder eine Medikation eine Dauermedikation ist. |
 
 Tabelle 31: KBV_EX_VoS_ isPermanent
 
-| KBV_EX_VOS_SKT |  |
+| **KBV_EX_VOS_SKT** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_VoS_SKT |
 | Definition | Angabe der SKT-Zusatzangabe |
 
 Tabelle 32: KBV_EX_VoS_SKT
 
-| KBV_EX_VOS_T_PRESCRIPTION_MARKS |  |
+| **KBV_EX_VOS_T_PRESCRIPTION_MARKS** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_VoS_T_Prescription_Marks |
 | Definition | Spiegelt die Ankreuzfelder auf einem T-Rezept wider. |
@@ -575,21 +579,21 @@ Der Aufrufkontext mit dem die Verordnungssoftware auf gerufen wurde. Der Verordn
 
 ---
 
-| KBV_EX_VOS_MEDICATION_CATEGORY |  |
+| **KBV_EX_VOS_MEDICATION_CATEGORY** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_VoS_Medication_Category |
 | Definition | Extension zur Kennzeichnung der Kategorie einer Verordnung |
 
 Tabelle 34: KBV_EX_VoS_Medication_Category
 
-| KBV_EX_VOS_MEDICATION_ISOVERTHECOUNTER |  |
+| **KBV_EX_VOS_MEDICATION_ISOVERTHECOUNTER** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_VoS_Medication_isOverTheCounter |
 | Definition | (overTheCounter-Abgabe möglich). |
 
 Tabelle 35: KBV_EX_VoS_Medication_isOverTheCounter
 
-| KBV_EX_VOS_PRESCRIPTIONTYPE |  |
+| **KBV_EX_VOS_PRESCRIPTIONTYPE** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_VoS_PrescriptionType |
 | Definition | sind |
@@ -600,28 +604,28 @@ Tabelle 36: KBV_EX_VoS_PrescriptionType
 
 Die CodeSystems definieren, welche Codes festgelegt wurden und was diese bedeuten. ValueSets hingegen  beinhalten einen Satz von Codes aus einem (mehreren) CodeSystem(s), um anzugeben, welche Codes in  einem bestimmten Kontext verwendet werden können. NamingSystems definieren den entsprechenden  Namensraum.
 
-| KBV_VS_VOS_PRESCRIPTIONTYPE |  |
+| **KBV_VS_VOS_PRESCRIPTIONTYPE** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/ValueSet/KBV_VS_VoS_PrescriptionType |
 | Definition | Bildet die Rezepttypen ab |
 
 Tabelle 37: KBV_VS_VoS_PrescriptionType
 
-| KBV_CS_VOS_PRESCRIPTIONTYPE |  |
+| **KBV_CS_VOS_PRESCRIPTIONTYPE** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/CodeSystem/KBV_CS_VoS_PrescriptionType |
 | Definition | Beinhaltet die Rezepttypen |
 
 Tabelle 38: KBV_CS_VoS_PrescriptionType
 
-| KBV_VS_VOS_SECTIONTYPE |  |
+| **KBV_VS_VOS_SECTIONTYPE** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/ValueSet/KBV_VS_VoS_SectionType |
 | Definition | Alle Abschnitte, die in der Composition enthalten sein können. |
 
 Tabelle 39: KBV_VS_VoS_SectionType
 
-| KBV_CS_VOS_SECTIONTYPE |  |
+| **KBV_CS_VOS_SECTIONTYPE** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/CodeSystem/KBV_CS_VoS_SectionType |
 | Definition | Alle Abschnitte, die in der Composition enthalten sein können. |
@@ -631,56 +635,56 @@ Angabe, ob eine Medikament nicht der Verschreibungspflicht unterliegt Alle Rezep
 
 ---
 
-| KBV_VS_VOS_BTM_PRESCRIPTION_MARKS |  |
+| **KBV_VS_VOS_BTM_PRESCRIPTION_MARKS** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/ValueSet/KBV_VS_VoS_BTM_Prescription_Marks |
 | Definition | Betäubungsmitteln. |
 
 Tabelle 41: KBV_VS_VoS_BTM_Prescription_Marks
 
-| KBV_CS_VOS_BTM_PRESCRIPTION_MARKS |  |
+| **KBV_CS_VOS_BTM_PRESCRIPTION_MARKS** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/ValueSet/KBV_CS_VoS_BTM_Prescription_Marks |
 | Definition | Kennzeichen für die Darstellung der Sonderregelungen bei der Verordnung von |
 
 Tabelle 42: KBV_CS_VoS_BTM_Prescription_Marks
 
-| KBV_VS_VOS_STARTUP_CONTEXT |  |
+| **KBV_VS_VOS_STARTUP_CONTEXT** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/ValueSet/KBV_VS_VoS_StartUp_Context |
 | Definition | Beinhaltet die Aufrufkontexte der Verordnungssoftware |
 
 Tabelle 43: KBV_VS_VoS_ StartUp_Context
 
-| KBV_CS_VOS_STARTUP_CONTEXT |  |
+| **KBV_CS_VOS_STARTUP_CONTEXT** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/CodeSystem/KBV_CS_VoS_StartUp_Context |
 | Definition | Beinhaltet die Aufrufkontexte der Verordnungssoftware |
 
 Tabelle 44: KBV_CS_VoS_StartUp_Context
 
-| KBV_VS_VOS_DOCUMENTTYPE |  |
+| **KBV_VS_VOS_DOCUMENTTYPE** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/ValueSet/KBV_VS_VoS_DocumentType |
 | Definition | Im Verordnungsmanagement verwendete Dokumenttypen. |
 
 Tabelle 45 KBV_VS_VoS_DocumentType
 
-| KBV_CS_VOS_DOCUMENTTYPE |  |
+| **KBV_CS_VOS_DOCUMENTTYPE** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/CodeSystem/KBV_CS_VoS_DocumentType |
 | Definition | Beinhaltet die Dokumenttypen |
 
 Tabelle 46: KBV_CS_VoS_DocumentType
 
-| KBV_CS_VOS_VITALSIGNS |  |
+| **KBV_CS_VOS_VITALSIGNS** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/CodeSystem |
 | Definition | Beinhaltet Codesets für die Körperkenngrößen wie Gewicht, Körpergröße, etc. |
 
 Tabelle 47: KBV_CS_VoS_VitalSigns
 
-| KBV_VS_VOS_CONTENTTYPES |  |
+| **KBV_VS_VOS_CONTENTTYPES** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/ValueSet/KBV_VS_VoS_ContentTypes |
 | Definition | DocumentReference-Instanzen verwendet werden dürfen |
@@ -690,21 +694,21 @@ Kennzeichen für die Darstellung der Sonderregelungen bei der Verordnung von Bet
 
 ---
 
-| KBV_VS_VOS_MEDICATION_CATEGORY |  |
+| **KBV_VS_VOS_MEDICATION_CATEGORY** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/ValueSet/KBV_VS_VoS_Medication_Category |
 | Definition | Produkt |
 
 Tabelle 49: KBV_VS_VoS_Medication_Category
 
-| KBV_VS_VOS_AGENTROLES |  |
+| **KBV_VS_VOS_AGENTROLES** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/ValueSet/KBV_VS_VoS_AgentRoles |
 | Definition | verwendet werden. |
 
 Tabelle 50: KBV_VS_VoS_AgentRoles
 
-| KBV_NS_VOS_BUNDLEID |  |
+| **KBV_NS_VOS_BUNDLEID** |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/NamingSystem/KBV_NS_VoS_BundleID |
 | Definition | Bundle-Identifier im VoS-SST-Kontext |
@@ -717,7 +721,7 @@ Die nachfolgenden Ressourcen werden durch die vorliegende Schnittstelle genutzt.
 
 [FHIR®] beschrieben. Die Inhalte dieser Ressourcen ergeben sich aus den Festlegungen des vorliegenden  Dokumentes.
 
-| BEZEICHNUNG | RESSOURCE |  |
+| **BEZEICHNUNG** | **RESSOURCE** |  |
 |---|---|---|
 | CapabilityStatement 2 | http://www.hl7.org/fhir/R4/capabilitystatement.html | |
 | OperationOutcome | http://www.hl7.org/fhir/R4/operationoutcome.html | |
@@ -894,7 +898,7 @@ GET [base]/[type]/[id]
 
 Das Praxisverwaltungssystem beantwortet die Anfrage wie im Folgenden dargestellt.
 
-| ERGEBNIS DER ANFRAGE | STATUSCODE | BESONDERHEITEN IN DER ANTWORT |
+| **ERGEBNIS DER ANFRAGE** | **STATUSCODE** | **BESONDERHEITEN IN DER ANTWORT** |
 |---|---|---|
 | Die Ressource ist vorhanden. | 200 | Repräsentanz der Ressource vom Type |
 | Die angefragte Ressource wurde | 410 | - |
@@ -931,7 +935,7 @@ Im http-Body wird die durch die [id]  angegebene [type] zurückgegeben. gelösch
 
 Das PVS beantwortet die Anfrage mit folgenden Statuscodes und Ergeb
 
-| ERGEBNIS DER ANFRAGE | STATUSCODE | BESONDERHEITEN IN DER ANTWORT |
+| **ERGEBNIS DER ANFRAGE** | **STATUSCODE** | **BESONDERHEITEN IN DER ANTWORT** |
 |---|---|---|
 | Die Ressource wurde erfolgreich | 201 | Es wird die |
 | Das Erstellen der Ressource war | 400 | Eine Ressource vom Typ OperationOutcome „FHIR®-Ressourcen“) wird im http |
@@ -984,7 +988,7 @@ erstellt. fehlerhaft, da das Format der übergebenen Ressource nicht zu der vorg
 
 ---
 
-| ERGEBNIS DER ANFRAGE | STATUSCODE | BESONDERHEITEN IN DER ANTWORT |
+| **ERGEBNIS DER ANFRAGE** | **STATUSCODE** | **BESONDERHEITEN IN DER ANTWORT** |
 |---|---|---|
 | Die Suche war erfolgreich. Eine | 200 | Im http-Body wird eine FHIR®-Ressource vom Typ |
 | Die Suche konnte nicht | 400 | Eine Ressource vom Typ  „FHIR®-Ressourcen“)  wird im http |
@@ -1016,7 +1020,7 @@ Suche gilt auch dann als erfolgreich, wenn für die übergebenen Suchparameter e
 
 Das PVS beantwortet die Anfrage mit folgenden Statuscodes und Ergebnissen:
 
-| ERGEBNIS DER ANFRAGE | STATUSCODE | BESONDERHEITEN IN DER ANTWORT |
+| **ERGEBNIS DER ANFRAGE** | **STATUSCODE** | **BESONDERHEITEN IN DER ANTWORT** |
 |---|---|---|
 | Die Ressource wurde erfolgreich | 204 | Die Antwort enthält keinerlei weitere Nutzdaten. |
 | Die Ressource wurde nicht | 405 | - |
@@ -1100,7 +1104,7 @@ GET [base]/metadata
 
 Das PVS beantwortet die Anfrage mit folgenden Statuscodes und Ergebnissen:
 
-| ERGEBNIS DER ANFRAGE | STATUSCODE | BESONDERHEITEN IN DER ANTWORT |
+| **ERGEBNIS DER ANFRAGE** | **STATUSCODE** | **BESONDERHEITEN IN DER ANTWORT** |
 |---|---|---|
 | Das | 200 | Der http-Body enthält das |
 | In allen anderen Fällen | 404 | - |
@@ -1141,13 +1145,11 @@ Der REST-Service des Praxisverwaltungssystems verarbeitet nur solche FHIR®-Ress
 
 Ressourcen bereitgestellt bzw. zur Verarbeitung angenommen, die den definierten Profilen entsprechen.
 
-ei ne http -Methode
-
-CapabilityStatement
-
 zur Verfügung, welche
 
-GET wie folgt vom
+ei ne http -Methode GET wie folgt vom
+
+CapabilityStatement
 
 Paging
 
@@ -1163,7 +1165,7 @@ CapabilityStatement liegt vor und wird übergeben. CapabilityStatement
 
 Das Praxisverwaltungssystem stellte die in der folgenden Tabelle beschriebenen Interaktionen auf den  FHIR®-Ressourcen über den REST-Service zur Verfügung. Die Interaktionen sind im Kapitel  Interaktionen auf den Ressourcen“ beschrieben.
 
-| RESSOURCENTYP (PROFIL) | LESEN | SCHREIBEN | SUCHEN | LÖSCHEN | TRANSAKTI ON |
+| **RESSOURCENTYP (PROFIL)** | **LESEN** | **SCHREIBEN** | **SUCHEN** | **LÖSCHEN** | **TRANSAKTI ON** |
 |---|---|---|---|---|---|
 | Patient  (KBV_PR_VoS_Patient) | Ja | Nein | Ja | Nein | - |
 | Coverage  (KBV_PR_VoS_Coverage) | Ja | Nein | Ja | Nein | - |
@@ -1180,7 +1182,7 @@ ding _MP) „Transaktion“ „Transaktion“4.1.7
 
 ---
 
-| RESSOURCENTYP (PROFIL) | LESEN | SCHREIBEN | SUCHEN | LÖSCHEN | TRANSAKTI ON |
+| **RESSOURCENTYP (PROFIL)** | **LESEN** | **SCHREIBEN** | **SUCHEN** | **LÖSCHEN** | **TRANSAKTI ON** |
 |---|---|---|---|---|---|
 | MedicationRequest  (KBV_PR_VoS_Prescription) | Ja | Nur als Teil von | Ja | Nein | Schreiben |
 | DocumentReference  (KBV_PR_VoS_DocumentReference) | Ja | Nur als Teil von | Ja | Nein | Schreiben |
@@ -1408,7 +1410,7 @@ Die Integration der Schnittstelle muss spätestens zum 01.08.2023 erfolgt sein.
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 | FHIR®_RESTful-API | Spezifikation der FHIR®-Restful-API gemäß  FHIR®] http://hl7.org/fhir/r4/http.html |
 | FHIR® | FHIR-Spezifikation Release 4     http://hl7.org/fhir/r4 |
 | EXT_ITA_VGEX_Anforderungskatalog_AV | „Anforderungskatalog für Verordnungssoftware“  https://update.kbv.de/ |

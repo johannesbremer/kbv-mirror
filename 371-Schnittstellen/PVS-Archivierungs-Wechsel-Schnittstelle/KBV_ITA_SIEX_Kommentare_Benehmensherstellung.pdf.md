@@ -1,35 +1,35 @@
-| [AWS-142] Profile Report Import und Report Export | | | |
+| **[AWS-142] Profile Report Import und Report Export** | | | |
 |---|---|---|---|
-| Status: | Bearbeitung abgeschlossen | | |
-| Projekt: | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
-| Komponente(n): | Keine | | |
-| Lösung: | Vollständig angenommen |  |  |
-| Stichwörter: | Schnittstellenfestlegung | | |
-| Organisation: | Gematik GmbH | | |
-| Veroeffentlichung: | zugestimmt | | |
-| Kommentierungsergebnis: | Vielen Dank für den Hinweis. Dies wird korrigiert. | | |
+| **Status:** | Bearbeitung abgeschlossen | | |
+| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Komponente(n):** | Keine | | |
+| **Lösung:** | Vollständig angenommen |  |  |
+| **Stichwörter:** | Schnittstellenfestlegung | | |
+| **Organisation:** | Gematik GmbH | | |
+| **Veroeffentlichung:** | zugestimmt | | |
+| **Kommentierungsergebnis:** | Vielen Dank für den Hinweis. Dies wird korrigiert. | | |
 
 |  |  |
 |---|---|
 
-| In den Profilen Report Import und Report Export soll das Narrativ erlaubt sein. Das ist im |
-|---|
+\| In den Profilen Report Import und Report Export soll das Narrativ erlaubt sein. Das ist im |
+\|---|
 
 §291d Absatz 1 Beschreibung Moment nicht der Fall und sollte angepasst werden.
 
 
 ---
 
-| [AWS-141] Unterstützung aller xDT-Formate | | | |
+| **[AWS-141] Unterstützung aller xDT-Formate** | | | |
 |---|---|---|---|
-| Status: | Bearbeitung abgeschlossen | | |
-| Projekt: | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
-| Komponente(n): | Keine | | |
-| Lösung: | Vollständig angenommen |  |  |
-| Stichwörter: | Schnittstellenfestlegung | | |
-| Organisation: | Gematik GmbH | | |
-| Veroeffentlichung: | zugestimmt | | |
-| Kommentierungsergebnis: |  | | |
+| **Status:** | Bearbeitung abgeschlossen | | |
+| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Komponente(n):** | Keine | | |
+| **Lösung:** | Vollständig angenommen |  |  |
+| **Stichwörter:** | Schnittstellenfestlegung | | |
+| **Organisation:** | Gematik GmbH | | |
+| **Veroeffentlichung:** | zugestimmt | | |
+| **Kommentierungsergebnis:** |  | | |
 
 |  |  |
 |---|---|
@@ -40,15 +40,15 @@
 
 ---
 
-| [AWS- | | | |
+| **[AWS-** | | | |
 |---|---|---|---|
-| Status: | Bearbeitung abgeschlossen | | |
-| Projekt: | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
-| Komponente(n): | Keine | | |
-| Lösung: | Später umsetzen |  |  |
-| Organisation: | Gematik GmbH | | |
-| Veroeffentlichung: | zugestimmt | | |
-| Kommentierungsergebnis: | für die AWS bilden. In der jetzigen Form soll dieses | | |
+| **Status:** | Bearbeitung abgeschlossen | | |
+| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Komponente(n):** | Keine | | |
+| **Lösung:** | Später umsetzen |  |  |
+| **Organisation:** | Gematik GmbH | | |
+| **Veroeffentlichung:** | zugestimmt | | |
+| **Kommentierungsergebnis:** | für die AWS bilden. In der jetzigen Form soll dieses | | |
 
 |  |  |
 |---|---|
@@ -59,15 +59,15 @@
 
 ---
 
-| [AWS-139] KBV_PR_AW_Verordnung_Arzneimittel | | | |
+| **[AWS-139] KBV_PR_AW_Verordnung_Arzneimittel** | | | |
 |---|---|---|---|
-| Status: | Bearbeitung abgeschlossen | | |
-| Projekt: | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
-| Komponente(n): | Keine | | |
-| Lösung: | Teilweise angenommen |  |  |
-| Organisation: | Gematik GmbH | | |
-| Veroeffentlichung: | zugestimmt | | |
-| Kommentierungsergebnis: | Das eRezept soll, sobald dieses absolut fertig ist, die Grundlage | | |
+| **Status:** | Bearbeitung abgeschlossen | | |
+| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Komponente(n):** | Keine | | |
+| **Lösung:** | Teilweise angenommen |  |  |
+| **Organisation:** | Gematik GmbH | | |
+| **Veroeffentlichung:** | zugestimmt | | |
+| **Kommentierungsergebnis:** | Das eRezept soll, sobald dieses absolut fertig ist, die Grundlage | | |
 
 |  |  |
 |---|---|
@@ -78,15 +78,15 @@
 
 ---
 
-| [AWS-138] Metadaten zu Anlagendokumenten | | | |
+| **[AWS-138] Metadaten zu Anlagendokumenten** | | | |
 |---|---|---|---|
-| Status: | Bearbeitung abgeschlossen | | |
-| Projekt: | Festlegung der PVS-Archivierungs- und Wechsel-Schnittstelle gemäß | | |
-| Komponente(n): | Keine | | |
-| Lösung: | Teilweise angenommen |  |  |
-| Organisation: | Gematik GmbH | | |
-| Veroeffentlichung: | zugestimmt | | |
-| Kommentierungsergebnis: | Ein Dokument in der EPA kann nach der | | |
+| **Status:** | Bearbeitung abgeschlossen | | |
+| **Projekt:** | Festlegung der PVS-Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Komponente(n):** | Keine | | |
+| **Lösung:** | Teilweise angenommen |  |  |
+| **Organisation:** | Gematik GmbH | | |
+| **Veroeffentlichung:** | zugestimmt | | |
+| **Kommentierungsergebnis:** | Ein Dokument in der EPA kann nach der | | |
 
 |  |  |
 |---|---|
@@ -97,15 +97,15 @@
 
 ---
 
-| [AWS-Zusatz1] Alle Profile 1 | | | |
+| **[AWS-Zusatz1] Alle Profile 1** | | | |
 |---|---|---|---|
-| Status: | Bearbeitung abgeschlossen | | |
-| Projekt: | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
-| Komponente(n): | Keine | | |
-| Lösung: | Nicht angenommen |  |  |
-| Organisation: | Gematik GmbH | | |
-| Veroeffentlichung: | zugestimmt | | |
-| Kommentierungsergebnis: | Die AWS steht am Ende der Ableitungshierarchie, daher sollen | | |
+| **Status:** | Bearbeitung abgeschlossen | | |
+| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Komponente(n):** | Keine | | |
+| **Lösung:** | Nicht angenommen |  |  |
+| **Organisation:** | Gematik GmbH | | |
+| **Veroeffentlichung:** | zugestimmt | | |
+| **Kommentierungsergebnis:** | Die AWS steht am Ende der Ableitungshierarchie, daher sollen | | |
 
 |  |  |
 |---|---|
@@ -116,15 +116,15 @@
 
 ---
 
-| [AWS-Zusatz2] Alle Profile 2 | | | |
+| **[AWS-Zusatz2] Alle Profile 2** | | | |
 |---|---|---|---|
-| Status: | Bearbeitung abgeschlossen | | |
-| Projekt: | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
-| Komponente(n): | Keine | | |
-| Lösung: | Nicht angenommen |  |  |
-| Organisation: | Gematik GmbH | | |
-| Veroeffentlichung: | zugestimmt | | |
-| Kommentierungsergebnis: | Die AWS steht am Ende der Ableitungshierarchie und sollte | | |
+| **Status:** | Bearbeitung abgeschlossen | | |
+| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Komponente(n):** | Keine | | |
+| **Lösung:** | Nicht angenommen |  |  |
+| **Organisation:** | Gematik GmbH | | |
+| **Veroeffentlichung:** | zugestimmt | | |
+| **Kommentierungsergebnis:** | Die AWS steht am Ende der Ableitungshierarchie und sollte | | |
 
 |  |  |
 |---|---|
@@ -135,15 +135,15 @@
 
 ---
 
-| [AWS-Zusatz3] KBV_PR_AW_Diagnose 1 | | | |
+| **[AWS-Zusatz3] KBV_PR_AW_Diagnose 1** | | | |
 |---|---|---|---|
-| Status: | Bearbeitung abgeschlossen | | |
-| Projekt: | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
-| Komponente(n): | Keine | | |
-| Lösung: | Nicht angenommen |  |  |
-| Organisation: | Gematik GmbH | | |
-| Veroeffentlichung: | zugestimmt | | |
-| Kommentierungsergebnis: | In der Umsetzung sind die Kurzbeschreibungen für code.text | | |
+| **Status:** | Bearbeitung abgeschlossen | | |
+| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Komponente(n):** | Keine | | |
+| **Lösung:** | Nicht angenommen |  |  |
+| **Organisation:** | Gematik GmbH | | |
+| **Veroeffentlichung:** | zugestimmt | | |
+| **Kommentierungsergebnis:** | In der Umsetzung sind die Kurzbeschreibungen für code.text | | |
 
 |  |  |
 |---|---|
@@ -154,15 +154,15 @@
 
 ---
 
-| [AWS-Zusatz4] KBV_PR_AW_Diagnose 2 | | | |
+| **[AWS-Zusatz4] KBV_PR_AW_Diagnose 2** | | | |
 |---|---|---|---|
-| Status: | Bearbeitung abgeschlossen | | |
-| Projekt: | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
-| Komponente(n): | Keine | | |
-| Lösung: | Nicht angenommen |  |  |
-| Organisation: | Gematik GmbH | | |
-| Veroeffentlichung: | zugestimmt | | |
-| Kommentierungsergebnis: | Im AFK P7-01 der AWS ist definiert: "Ist eine Ressource oder | | |
+| **Status:** | Bearbeitung abgeschlossen | | |
+| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Komponente(n):** | Keine | | |
+| **Lösung:** | Nicht angenommen |  |  |
+| **Organisation:** | Gematik GmbH | | |
+| **Veroeffentlichung:** | zugestimmt | | |
+| **Kommentierungsergebnis:** | Im AFK P7-01 der AWS ist definiert: "Ist eine Ressource oder | | |
 
 |  |  |
 |---|---|
@@ -173,15 +173,15 @@
 
 ---
 
-| [AWS-Zusatz5] KBV_PR_AW_Patient | | | |
+| **[AWS-Zusatz5] KBV_PR_AW_Patient** | | | |
 |---|---|---|---|
-| Status: | Bearbeitung abgeschlossen | | |
-| Projekt: | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
-| Komponente(n): | Keine | | |
-| Lösung: | Später umsetzen |  |  |
-| Organisation: | Gematik GmbH | | |
-| Veroeffentlichung: | zugestimmt | | |
-| Kommentierungsergebnis: | In der Tat sollte und könnte hier eine Harmonisierung | | |
+| **Status:** | Bearbeitung abgeschlossen | | |
+| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Komponente(n):** | Keine | | |
+| **Lösung:** | Später umsetzen |  |  |
+| **Organisation:** | Gematik GmbH | | |
+| **Veroeffentlichung:** | zugestimmt | | |
+| **Kommentierungsergebnis:** | In der Tat sollte und könnte hier eine Harmonisierung | | |
 
 |  |  |
 |---|---|
@@ -192,15 +192,15 @@
 
 ---
 
-| [AWS-Zusatz6] KBV_PR_AW_Patient 2 | | | |
+| **[AWS-Zusatz6] KBV_PR_AW_Patient 2** | | | |
 |---|---|---|---|
-| Status: | Bearbeitung abgeschlossen | | |
-| Projekt: | Festlegung der PVS -Archivierungs- und Wechsel- | | |
-| Komponente(n): | Keine | | |
-| Lösung: | Angenommen |  |  |
-| Organisation: | Gematik GmbH | | |
-| Veroeffentlichung: | zugestimmt | | |
-| Kommentierungsergebnis: | Ja das ist korrekt und kann integriert werden. | | |
+| **Status:** | Bearbeitung abgeschlossen | | |
+| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel- | | |
+| **Komponente(n):** | Keine | | |
+| **Lösung:** | Angenommen |  |  |
+| **Organisation:** | Gematik GmbH | | |
+| **Veroeffentlichung:** | zugestimmt | | |
+| **Kommentierungsergebnis:** | Ja das ist korrekt und kann integriert werden. | | |
 
 |  |  |
 |---|---|
@@ -211,15 +211,15 @@ Schnittstelle gemäß §291d Absatz 1 verwenden Beschreibung  für LANR
 
 ---
 
-| [AWS-Zusatz7] KBV_PR_AW_Patient 3 | | | |
+| **[AWS-Zusatz7] KBV_PR_AW_Patient 3** | | | |
 |---|---|---|---|
-| Status: | Bearbeitung abgeschlossen | | |
-| Projekt: | Festlegung der PVS-Archivierungs- und Wechsel-Schnittstelle gemäß | | |
-| Komponente(n): | Keine | | |
-| Lösung: | Später umsetzen |  |  |
-| Organisation: | Gematik GmbH | | |
-| Veroeffentlichung: | zugestimmt | | |
-| Kommentierungsergebnis: | In der AWS werden Selbstzahler ohne | | |
+| **Status:** | Bearbeitung abgeschlossen | | |
+| **Projekt:** | Festlegung der PVS-Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Komponente(n):** | Keine | | |
+| **Lösung:** | Später umsetzen |  |  |
+| **Organisation:** | Gematik GmbH | | |
+| **Veroeffentlichung:** | zugestimmt | | |
+| **Kommentierungsergebnis:** | In der AWS werden Selbstzahler ohne | | |
 
 |  |  |
 |---|---|
@@ -230,15 +230,15 @@ Schnittstelle gemäß §291d Absatz 1 verwenden Beschreibung  für LANR
 
 ---
 
-| [AWS-Zusatz8] KBV_PR_AW_Patient 4 | | | |
+| **[AWS-Zusatz8] KBV_PR_AW_Patient 4** | | | |
 |---|---|---|---|
-| Status: | Bearbeitung abgeschlossen | | |
-| Projekt: | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
-| Komponente(n): | Keine | | |
-| Lösung: | Nicht angenommen |  |  |
-| Organisation: | Gematik GmbH | | |
-| Veroeffentlichung: | zugestimmt | | |
-| Kommentierungsergebnis: | Es schadet aber auch nicht dort ein korrektes administratives | | |
+| **Status:** | Bearbeitung abgeschlossen | | |
+| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Komponente(n):** | Keine | | |
+| **Lösung:** | Nicht angenommen |  |  |
+| **Organisation:** | Gematik GmbH | | |
+| **Veroeffentlichung:** | zugestimmt | | |
+| **Kommentierungsergebnis:** | Es schadet aber auch nicht dort ein korrektes administratives | | |
 
 |  |  |
 |---|---|
@@ -249,15 +249,15 @@ Schnittstelle gemäß §291d Absatz 1 verwenden Beschreibung  für LANR
 
 ---
 
-| [AWS-Zusatz9] KBV_PR_AW_Patient 5 | | | |
+| **[AWS-Zusatz9] KBV_PR_AW_Patient 5** | | | |
 |---|---|---|---|
-| Status: | Bearbeitung abgeschlossen | | |
-| Projekt: | Festlegung der PVS -Archivierungs- und Wechsel- | | |
-| Komponente(n): | Keine | | |
-| Lösung: | Angenommen |  |  |
-| Organisation: | Gematik GmbH | | |
-| Veroeffentlichung: | zugestimmt | | |
-| Kommentierungsergebnis: | Angenommen | | |
+| **Status:** | Bearbeitung abgeschlossen | | |
+| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel- | | |
+| **Komponente(n):** | Keine | | |
+| **Lösung:** | Angenommen |  |  |
+| **Organisation:** | Gematik GmbH | | |
+| **Veroeffentlichung:** | zugestimmt | | |
+| **Kommentierungsergebnis:** | Angenommen | | |
 
 |  |  |
 |---|---|
@@ -268,15 +268,15 @@ Schnittstelle gemäß §291d Absatz 1 Beschreibung
 
 ---
 
-| [AWS-Zusatz10] KBV_EX_AW_Patient_Vsdm_Zusatzinformationen | | | |
+| **[AWS-Zusatz10] KBV_EX_AW_Patient_Vsdm_Zusatzinformationen** | | | |
 |---|---|---|---|
-| Status: | Bearbeitung abgeschlossen | | |
-| Projekt: | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
-| Komponente(n): | Keine | | |
-| Lösung: | Angenommen |  |  |
-| Organisation: | Gematik GmbH | | |
-| Veroeffentlichung: | zugestimmt | | |
-| Kommentierungsergebnis: | Angenommen | | |
+| **Status:** | Bearbeitung abgeschlossen | | |
+| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Komponente(n):** | Keine | | |
+| **Lösung:** | Angenommen |  |  |
+| **Organisation:** | Gematik GmbH | | |
+| **Veroeffentlichung:** | zugestimmt | | |
+| **Kommentierungsergebnis:** | Angenommen | | |
 
 |  |  |
 |---|---|
@@ -287,15 +287,15 @@ Schnittstelle gemäß §291d Absatz 1 Beschreibung
 
 ---
 
-| [AWS-Zusatz11] KBV_EX_AW_Patient_Zusatzinformationen | | | |
+| **[AWS-Zusatz11] KBV_EX_AW_Patient_Zusatzinformationen** | | | |
 |---|---|---|---|
-| Status: | Bearbeitung abgeschlossen | | |
-| Projekt: | Festlegung der PVS-Archivierungs- und Wechsel-Schnittstelle gemäß | | |
-| Komponente(n): | Keine | | |
-| Lösung: | Teilweise angenommen |  |  |
-| Organisation: | Gematik GmbH | | |
-| Veroeffentlichung: | zugestimmt | | |
-| Kommentierungsergebnis: | Die Extension ist als Vorbereitung für weitere Informationen | | |
+| **Status:** | Bearbeitung abgeschlossen | | |
+| **Projekt:** | Festlegung der PVS-Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Komponente(n):** | Keine | | |
+| **Lösung:** | Teilweise angenommen |  |  |
+| **Organisation:** | Gematik GmbH | | |
+| **Veroeffentlichung:** | zugestimmt | | |
+| **Kommentierungsergebnis:** | Die Extension ist als Vorbereitung für weitere Informationen | | |
 
 |  |  |
 |---|---|
@@ -306,15 +306,15 @@ Schnittstelle gemäß §291d Absatz 1 Beschreibung
 
 ---
 
-| [AWS-Zusatz12] KBV_EX_AW_Patient_Aktuelle_Taetigkeit | | | |
+| **[AWS-Zusatz12] KBV_EX_AW_Patient_Aktuelle_Taetigkeit** | | | |
 |---|---|---|---|
-| Status: | Bearbeitung abgeschlossen | | |
-| Projekt: | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
-| Komponente(n): | Keine | | |
-| Lösung: | Angenommen |  |  |
-| Organisation: | Gematik GmbH | | |
-| Veroeffentlichung: | zugestimmt | | |
-| Kommentierungsergebnis: | Angenommen. | | |
+| **Status:** | Bearbeitung abgeschlossen | | |
+| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Komponente(n):** | Keine | | |
+| **Lösung:** | Angenommen |  |  |
+| **Organisation:** | Gematik GmbH | | |
+| **Veroeffentlichung:** | zugestimmt | | |
+| **Kommentierungsergebnis:** | Angenommen. | | |
 
 |  |  |
 |---|---|
@@ -325,15 +325,15 @@ Schnittstelle gemäß §291d Absatz 1 Beschreibung
 
 ---
 
-| [AWS-Zusatz13] KBV_PR_AW_Krankenversicherungsverhaeltnis | | | |
+| **[AWS-Zusatz13] KBV_PR_AW_Krankenversicherungsverhaeltnis** | | | |
 |---|---|---|---|
-| Status: | Bearbeitung abgeschlossen | | |
-| Projekt: | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
-| Komponente(n): | Keine | | |
-| Lösung: | Angenommen |  |  |
-| Organisation: | Gematik GmbH | | |
-| Veroeffentlichung: | zugestimmt | | |
-| Kommentierungsergebnis: | Angenommen. | | |
+| **Status:** | Bearbeitung abgeschlossen | | |
+| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Komponente(n):** | Keine | | |
+| **Lösung:** | Angenommen |  |  |
+| **Organisation:** | Gematik GmbH | | |
+| **Veroeffentlichung:** | zugestimmt | | |
+| **Kommentierungsergebnis:** | Angenommen. | | |
 
 |  |  |
 |---|---|
@@ -344,15 +344,15 @@ Schnittstelle gemäß §291d Absatz 1 Beschreibung
 
 ---
 
-| [AWS-Zusatz14] KBV_EX_Base_Terminology_German | | | |
+| **[AWS-Zusatz14] KBV_EX_Base_Terminology_German** | | | |
 |---|---|---|---|
-| Status: | Bearbeitung abgeschlossen | | |
-| Projekt: | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
-| Komponente(n): | Keine | | |
-| Lösung: | Nicht angenommen |  |  |
-| Organisation: | Gematik GmbH | | |
-| Veroeffentlichung: | zugestimmt | | |
-| Kommentierungsergebnis: | Die Translate-Extension erscheint der KBV als zu sehr an eine | | |
+| **Status:** | Bearbeitung abgeschlossen | | |
+| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Komponente(n):** | Keine | | |
+| **Lösung:** | Nicht angenommen |  |  |
+| **Organisation:** | Gematik GmbH | | |
+| **Veroeffentlichung:** | zugestimmt | | |
+| **Kommentierungsergebnis:** | Die Translate-Extension erscheint der KBV als zu sehr an eine | | |
 
 |  |  |
 |---|---|
@@ -363,15 +363,15 @@ Schnittstelle gemäß §291d Absatz 1 Beschreibung
 
 ---
 
-| [AWS-Zusatz15] KBV_PR_AW_Ambulante_Operation | | | |
+| **[AWS-Zusatz15] KBV_PR_AW_Ambulante_Operation** | | | |
 |---|---|---|---|
-| Status: | Bearbeitung abgeschlossen | | |
-| Projekt: | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
-| Komponente(n): | Keine | | |
-| Lösung: | Angenommen |  |  |
-| Organisation: | Gematik GmbH | | |
-| Veroeffentlichung: | zugestimmt | | |
-| Kommentierungsergebnis: | Angenommen | | |
+| **Status:** | Bearbeitung abgeschlossen | | |
+| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Komponente(n):** | Keine | | |
+| **Lösung:** | Angenommen |  |  |
+| **Organisation:** | Gematik GmbH | | |
+| **Veroeffentlichung:** | zugestimmt | | |
+| **Kommentierungsergebnis:** | Angenommen | | |
 
 |  |  |
 |---|---|
@@ -382,15 +382,15 @@ Schnittstelle gemäß §291d Absatz 1 Beschreibung
 
 ---
 
-| [AWS-Zusatz16] KBV_PR_AW_Behandelnder | | | |
+| **[AWS-Zusatz16] KBV_PR_AW_Behandelnder** | | | |
 |---|---|---|---|
-| Status: | Bearbeitung abgeschlossen | | |
-| Projekt: | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
-| Komponente(n): | Keine | | |
-| Lösung: | Angenommen |  |  |
-| Organisation: | Gematik GmbH | | |
-| Veroeffentlichung: | zugestimmt | | |
-| Kommentierungsergebnis: | Angenommen | | |
+| **Status:** | Bearbeitung abgeschlossen | | |
+| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Komponente(n):** | Keine | | |
+| **Lösung:** | Angenommen |  |  |
+| **Organisation:** | Gematik GmbH | | |
+| **Veroeffentlichung:** | zugestimmt | | |
+| **Kommentierungsergebnis:** | Angenommen | | |
 
 |  |  |
 |---|---|
@@ -401,15 +401,15 @@ Schnittstelle gemäß §291d Absatz 1 Beschreibung
 
 ---
 
-| [AWS-Zusatz17] KBV_PR_AW_Observation_Blutdruck | | | |
+| **[AWS-Zusatz17] KBV_PR_AW_Observation_Blutdruck** | | | |
 |---|---|---|---|
-| Status: | Bearbeitung abgeschlossen | | |
-| Projekt: | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
-| Komponente(n): | Keine | | |
-| Lösung: | Später umsetzen |  |  |
-| Organisation: | Gematik GmbH | | |
-| Veroeffentlichung: | zugestimmt | | |
-| Kommentierungsergebnis: | Die Vitalzeichen werden gerade sektorübergreifend erarbeitet | | |
+| **Status:** | Bearbeitung abgeschlossen | | |
+| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Komponente(n):** | Keine | | |
+| **Lösung:** | Später umsetzen |  |  |
+| **Organisation:** | Gematik GmbH | | |
+| **Veroeffentlichung:** | zugestimmt | | |
+| **Kommentierungsergebnis:** | Die Vitalzeichen werden gerade sektorübergreifend erarbeitet | | |
 
 |  |  |
 |---|---|
@@ -420,15 +420,15 @@ Schnittstelle gemäß §291d Absatz 1 Beschreibung
 
 ---
 
-| [AWS-Zusatz18] KBV_PR_AW_Observation_Bauchumfang | | | |
+| **[AWS-Zusatz18] KBV_PR_AW_Observation_Bauchumfang** | | | |
 |---|---|---|---|
-| Status: | Bearbeitung abgeschlossen | | |
-| Projekt: | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
-| Komponente(n): | Keine | | |
-| Lösung: | Später umsetzen |  |  |
-| Organisation: | Gematik GmbH | | |
-| Veroeffentlichung: | zugestimmt | | |
-| Kommentierungsergebnis: | Die Vitalzeichen werden gerade sektorübergreifend erarbeitet | | |
+| **Status:** | Bearbeitung abgeschlossen | | |
+| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Komponente(n):** | Keine | | |
+| **Lösung:** | Später umsetzen |  |  |
+| **Organisation:** | Gematik GmbH | | |
+| **Veroeffentlichung:** | zugestimmt | | |
+| **Kommentierungsergebnis:** | Die Vitalzeichen werden gerade sektorübergreifend erarbeitet | | |
 
 |  |  |
 |---|---|
@@ -439,15 +439,15 @@ Schnittstelle gemäß §291d Absatz 1 Beschreibung
 
 ---
 
-| [AWS-Zusatz19] KBV_PR_AW_Observation_Raucherstatus | | | |
+| **[AWS-Zusatz19] KBV_PR_AW_Observation_Raucherstatus** | | | |
 |---|---|---|---|
-| Status: | Bearbeitung abgeschlossen | | |
-| Projekt: | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
-| Komponente(n): | Keine | | |
-| Lösung: | Später umsetzen |  |  |
-| Organisation: | Gematik GmbH | | |
-| Veroeffentlichung: | zugestimmt | | |
-| Kommentierungsergebnis: | Die Vitalzeichen werden gerade sektorübergreifend erarbeitet | | |
+| **Status:** | Bearbeitung abgeschlossen | | |
+| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Komponente(n):** | Keine | | |
+| **Lösung:** | Später umsetzen |  |  |
+| **Organisation:** | Gematik GmbH | | |
+| **Veroeffentlichung:** | zugestimmt | | |
+| **Kommentierungsergebnis:** | Die Vitalzeichen werden gerade sektorübergreifend erarbeitet | | |
 
 |  |  |
 |---|---|

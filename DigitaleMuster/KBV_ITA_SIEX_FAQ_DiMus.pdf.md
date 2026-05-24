@@ -19,7 +19,7 @@
 
 **AUFFÜHRUNG DOKUMENTENSTATUS**
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 2.4 | 13.05.2026 | KBV | Ergänzung der Antwort zu    Ergänzung der Antwort zu PZN-   Klarstellung der Fragestellung |  | 10          12        11 |
 | 2.3 | 16.04.2026 | KBV | Ergänzung der Fragestellung zur    Vereinheitlichung der Antwort    Aktualisierung der Information |  | 11      11      9 |
@@ -113,7 +113,7 @@ Info-Meldungen können derzeit nicht beim Aufruf unterdrückt werden. Hier stell
 
 ignorierenden Meldungen bereit. Zahlen von Array-Angaben bspw. entry[0] können abweichen:
 
-| Nr. | Zu ignorierende Meldungen bei der eAU |
+| **Nr.** | **Zu ignorierende Meldungen bei der eAU** |
 |---|---|
 | 1) | Information @ Bundle.entry[0].resource.ofType( https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_KBV_FORMULAR_ART# |
 | 2) | Information @ Bundle.entry[4].resource.ofType |
@@ -125,7 +125,7 @@ Composition).type (line 28, col11): Keiner der angegebenen Codes ist im Valueset
 
 ---
 
-| Nr. | Zu ignorierende Meldungen bei dem eRezept |
+| **Nr.** | **Zu ignorierende Meldungen bei dem eRezept** |
 |---|---|
 | 1) | Information @ Bundle.entry[0].resource.ofType(Composition).type (line |
 | 2) | Information @ Bundle.entry[4].resource.ofType(Practitioner).qualification[0].code (line 266, |
@@ -186,25 +186,25 @@ HL7-Validator.
 
 Aufgrund des eingestellten Supports für die HL7-Basis Version 0.9.13 veröffentlicht die KBV eine von HL7
 
-korrigierte Version der Extension [http://fhir.de/StructureDefinition/seitenlokalisation](http://fhir.de/StructureDefinition/seitenlokalisation) Format unter [https://update.kbv.de/ita-update/DigitaleMuster/Korrektur_HL7_Basis_V0_9_13](https://update.kbv.de/ita-update/DigitaleMuster/Korrektur_HL7_Basis_V0_9_13) korrigierte Extension ist bei Bedarf zusätzlich einzubinden.
+korrigierte Version der Extension [http://fhir.de/StructureDefinition/seitenlokalisation](http://fhir.de/StructureDefinition/seitenlokalisation) im JSON und XML-
+
+Format unter [https://update.kbv.de/ita-update/DigitaleMuster/Korrektur_HL7_Basis_V0_9_13](https://update.kbv.de/ita-update/DigitaleMuster/Korrektur_HL7_Basis_V0_9_13). Diese
+
+korrigierte Extension ist bei Bedarf zusätzlich einzubinden.
 
 Die aktualisierte Extension wurde auch in den Validierungs-ZIPs für die eAU Version 1.0.2 und das eRezept
 
-Version 1.0.2 unter [https://update.kbv.de/ita-update/DigitaleMuster/eAU/](https://update.kbv.de/ita-update/DigitaleMuster/eAU/) update/DigitaleMuster/ERP/ bereitgestellt.
+Version 1.0.2 unter [https://update.kbv.de/ita-update/DigitaleMuster/eAU/](https://update.kbv.de/ita-update/DigitaleMuster/eAU/) und [https://update.kbv.de/ita-](https://update.kbv.de/ita-)
 
-## Frage: Welche Vorgaben gelten bei der Vergabe einer Ressourcen
+update/DigitaleMuster/ERP/ bereitgestellt.
+
+## Frage: Welche Vorgaben gelten bei der Vergabe einer Ressourcen-ID?
 
 ### Antwort der KBV:
 
-Die FHIR-Vorgaben ([https://www.hl7.org/fhir/datatypes.html#id](https://www.hl7.org/fhir/datatypes.html#id) (resource.id) sind bei der Vergabe zu berücksichtigen. Dieser Aufbau wird von neueren Validatoren explizit  geprüft.
+Die FHIR-Vorgaben ([https://www.hl7.org/fhir/datatypes.html#id](https://www.hl7.org/fhir/datatypes.html#id)) bezüglich des Aufbaus der Ressourcen-ID
 
-und [https://update.kbv.de/ita-](https://update.kbv.de/ita-)
-
-## -ID?
-
-) bezüglich des Aufbaus der Ressourcen
-
-im JSON und XML- . Diese -ID
+(resource.id) sind bei der Vergabe zu berücksichtigen. Dieser Aufbau wird von neueren Validatoren explizit  geprüft.
 
 
 ---

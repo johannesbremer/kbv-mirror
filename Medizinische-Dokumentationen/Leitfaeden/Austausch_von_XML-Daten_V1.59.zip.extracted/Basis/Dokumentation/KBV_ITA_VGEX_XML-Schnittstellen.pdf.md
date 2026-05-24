@@ -1,8 +1,8 @@
-|  | IT in der Arztpraxis |
+|  | ***IT in der Arztpraxis***** |
 |---|---|
-|  | Austausch von XML-Daten in der |
+|  | *Austausch von XML-Daten in der* |
 |  | [ |
-|  |  |
+|  | ** |
 |  | Dezernat Digitalisierung und IT |
 |  |  |
 |  | 10623 Berlin, Herbert-Lewin-Platz 2 |
@@ -19,23 +19,23 @@ vertragsärztlichen Versorgung KBV_ITA_VGEX_XML-Schnittstellen 1.59 Datum: 15.08
 
 Die Änderungen treten zum 1. Oktober 2025 in Kraft
 
-| Version Datum |  | Autor Änderung |  | Begründung | Seite |
+| **Version Datum** |  | **Autor Änderung** |  | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 1.59 | 15.08.2025 | KBV | Anpassung des Elementes verschlu- |  | 18, 23 |
-| 1.58 | 14.11.2024 | KBV | Anpassung der Archivendung Herzin- |  | 14 |
-| 1.57 | 14.08.2024 | KBV | Anpassung der Archivendung Brust- |  | 14 |
-| 1.56 | 15.11.2023 | KBV | Anpassung der Archivendung COPD |  | 14 |
-| 1.55 | 05.04.2023 | KBV | Anpassung der Archivendungen der |  | 14 |
-| 1.54 | 12.08.2022 | KBV | Neue Schnittstelle: rheumatoide Arth- Anpassung der Archivendungen |  | 12, 16, 26    16 |
-| 1.53 | 15.01.2021 | KBV | Neue Schnittstelle: Osteoporose   Anpassung der Archivendungen |  | 12, 16, 26  16 |
-| 1.52 | 15.01.2021 | KBV | Anpassung der Archivendung De- | Aufgrund einer Fehlerkorrek- | 16 |
-| 1.51 | 09.11.2020 | KBV | Neue Schnittstelle: chronischer Rü- Anpassung der Archivendungen   Streichung von FEK, BERST und DIA |  | 12, 16, 26    16  12, 14, 16,  26 |
-| 1.50 | 30.04.2019 | KBV | Neue Schnittstelle: Herzinsuffizienz  Erweiterung des Formats der Version |  | 11, 14, 26  24 |
-| 1.49 | 21.01.2019 | KBV | Anpassung der Archivdateinamen im  Aktualisierung des Transportbegleit- |  | 14    30 |
-| 1.48 | 28.06.2018 | KBV | Aufnahme des Archivdateinamens mit Aufgrund einer Fehlerkorrek- | aktualisiert | 14 |
-| 1.47 | 25.05.2018 | KBV | Aufnahme des Archivdateinamens mit Aktualisierung des DMP  Streichung der Diskette als Datenträ- | Brustkrebs | 14     29, 29, 30 |
-| 1.46 | 08.01.2018 | KBV | Anpassung der Archivdateinamen für |  | 14 |
-| 1.45 | 04.12.2017 | KBV | Anpassung der Archivdateinamens | Streichung des Modules | 14 |
+| 1.59 | 15.08.2025 | KBV | Anpassung des Elementes verschlu- |  | **18, 23** |
+| 1.58 | 14.11.2024 | KBV | Anpassung der Archivendung Herzin- |  | **14** |
+| 1.57 | 14.08.2024 | KBV | Anpassung der Archivendung Brust- |  | **14** |
+| 1.56 | 15.11.2023 | KBV | Anpassung der Archivendung COPD |  | **14** |
+| 1.55 | 05.04.2023 | KBV | Anpassung der Archivendungen der |  | **14** |
+| 1.54 | 12.08.2022 | KBV | Neue Schnittstelle: rheumatoide Arth- Anpassung der Archivendungen |  | **12, 16, 26 **  **16** |
+| 1.53 | 15.01.2021 | KBV | Neue Schnittstelle: Osteoporose   Anpassung der Archivendungen |  | **12, 16, 26  16** |
+| 1.52 | 15.01.2021 | KBV | Anpassung der Archivendung De- | Aufgrund einer Fehlerkorrek- | **16** |
+| 1.51 | 09.11.2020 | KBV | Neue Schnittstelle: chronischer Rü- Anpassung der Archivendungen   Streichung von FEK, BERST und DIA |  | **12, 16, 26 **  **16  12, 14, 16,  26** |
+| 1.50 | 30.04.2019 | KBV | Neue Schnittstelle: Herzinsuffizienz  Erweiterung des Formats der Version |  | **11, 14, 26  24** |
+| 1.49 | 21.01.2019 | KBV | Anpassung der Archivdateinamen im  Aktualisierung des Transportbegleit- |  | **14 **  **30** |
+| 1.48 | 28.06.2018 | KBV | Aufnahme des Archivdateinamens mit Aufgrund einer Fehlerkorrek- | aktualisiert | **14** |
+| 1.47 | 25.05.2018 | KBV | Aufnahme des Archivdateinamens mit Aktualisierung des DMP  Streichung der Diskette als Datenträ- | Brustkrebs | **14 **  **29, 29, 30** |
+| 1.46 | 08.01.2018 | KBV | Anpassung der Archivdateinamen für |  | **14 ** |
+| 1.45 | 04.12.2017 | KBV | Anpassung der Archivdateinamens | Streichung des Modules | **14 ** |
 
 **K** **U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O**  **R** **I** **E**
 
@@ -178,20 +178,20 @@ Abbildung 12  Transportbegleitzettel ...........................................
 
 ---
 
-| **IT in** | **der Arztpraxis** |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|
-| Austausch | von | XML-Daten in | der | vertragsärztlichen | Versorgung | |  |  |  |
-| **T A** | **B E L** | **L E N** | **V E** | **R Z E** | **I C H** | **N I S** |  |  |  |
-| Tabelle | 1 – | Beschreibung | der | Kardinalitäten | |  | ........................................................................... | | 9 |
-| Tabelle | 2 – | Beschreibung | der | Strukturelement | | -Symbole | ......................................................... | | 9 |
-| Tabelle | 3 – | Beschreibung | sonstiger | | Symbole |  | ........................................................................ | | 10 |
-| Tabelle | 4 - | Zulässige | relative | Pfade |  |  | ...................................................................................... | | 12 |
-| Tabelle | 5 – | Kürzel der |  | Dokumentationsarten | |  | ......................................................................... | | 16 |
-| Tabelle | 6 – | Sonderzeichen | in | XML |  |  | ........................................................................................ | | 17 |
-| Tabelle | 7 - | Zulässige | relative | Pfade für | Element | Verzeichnispfad |  | ......................................... | 26 |
-|  | KBV_ITA_VGEX_XML-Schnittstellen | | * Version | 1.59 |  |  |  | Seite 6 | von 31 |
+| **IT in** | **der Arztpraxis** |  |  |  |
+|---|---|---|---|---|
+| Austausch | von XML-Daten | in der vertragsärztlichen | Versorgung |  |
+| **T A** | **B E L L** | **E N V E R Z** | **E I C H N I S** |  |
+| Tabelle | 1 – Beschreibung | der | Kardinalitäten | ........................................................................... 9 |
+| Tabelle | 2 – Beschreibung | der | Strukturelement-Symbole | ......................................................... 9 |
+| Tabelle | 3 – | Beschreibung sonstiger | Symbole | ........................................................................ 10 |
+| Tabelle | 4 - Zulässige | relative Pfade | ...................................................................................... | 12 |
+| Tabelle | 5 – Kürzel | der Dokumentationsarten | ......................................................................... | 16 |
+| Tabelle | 6 – | Sonderzeichen in XML | ........................................................................................ | 17 |
+| Tabelle | 7 - Zulässige | relative Pfade | für Element Verzeichnispfad | ......................................... 26 |
+|  | KBV_ITA_VGEX_XML-Schnittstellen | * Version | 1.59 | Seite 6 von 31 |
 
-Tabelle 1  Beschreibung der Kardinalitäten Tabelle 2  Beschreibung der Strukturelement Tabelle 3  Beschreibung sonstiger Symbole Tabelle 4 - Zulässige relative Pfade  ...................................................................................... 12 Tabelle 5  Kürzel der Dokumentationsarten Tabelle 6  Sonderzeichen in XML ........................................................................................ 17 Tabelle 7 - Zulässige relative Pfade für Element Verzeichnispfad ........................................................................... 9 ......................................................... 9 ........................................................................ 10 ......................................................................... 16  ......................................... 26
+Tabelle 1  Beschreibung der Kardinalitäten Tabelle 2  Beschreibung der Strukturelement Tabelle 3  Beschreibung sonstiger Symbole Tabelle 4 - Zulässige relative Pfade  ...................................................................................... 12 Tabelle 5  Kürzel der Dokumentationsarten Tabelle 6 ........................................................................................ 17 Tabelle 7 - Zulässige relative Pfade für Element Verzeichnispfad ......................................................................... 16
 
 ---
 
@@ -279,7 +279,7 @@ Zur Visualisierung der verwendeten XML -Schemata werden Diagramme verwendet, der
 
 Es existieren verschiedene Kardinalitäten:
 
-| Kardinalität | Symbol | Beschreibung |
+| **Kardinalität** | **Symbol** | **Beschreibung** |
 |---|---|---|
 | 0..1 |  | Linie dargestellt. Es kann kein oder einmal vorkommen |
 | 1 |  | Musselement:  Rechteck mit durchgezogner |
@@ -293,7 +293,7 @@ Die Elemente eines Schema -Diagramms werden über sogenannte Strukturelemente mi
 
 **Beschreibung der Kardinalitäten**
 
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |---|---|
 |  | Das Strukturelement Choice zeigt an, dass zwischen |
 |  | Das Strukturelement Sequence beschreibt, dass verschiedene Kindelemente in fest- |
@@ -304,7 +304,7 @@ Die Elemente eines Schema -Diagramms werden über sogenannte Strukturelemente mi
 
 Es werden außerdem folgende Diagramm
 
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |---|---|
 |  |  |
 |  | Referenzelement: Der Pfeil links unten im Element zeigt an, dass das |
@@ -372,7 +372,7 @@ Dialyse  Öffentliche Schlüssel
 
 ---
 
-| Dokumentationsart | relativer Pfad |
+| **Dokumentationsart** | **relativer Pfad** |
 |---|---|
 | Brustkrebs | Brustkrebs/Dokumentation |
 | Diabetes Mellitus Typ 2 | Diabetes_Mellitus_Typ_2/Dokumentation |
@@ -492,7 +492,7 @@ Beispiel:
 
 -  987654321_20030310100200_1_BK.zip.XKM  schlüsseln mit dem KBV-Kryptomodul (XKM)
 
-| Kürzel | Dokumentationsart |
+| **Kürzel** | **Dokumentationsart** |
 |---|---|
 | DM1 | Diabetes mellitus Typ 1 |
 | DM1_503 | Diabetes mellitus Typ 1 (Anpassung der übergreifenden Plausibilitäten) |
@@ -567,11 +567,9 @@ Begleitdateiname für das im Abschnitt
 
 3.4.2 angegebene Beispiel:
 
-- Begleitdatei zum
+- Begleitdatei zum Datenarchiv
 
 -
-
-- Datenarchiv
 
 
 ---
@@ -582,7 +580,7 @@ Für die Erstellung der Begleitdatei wird der Zeichensatz nach ISO 8859 -15 verw
 
 Einige Sonderzeichen des Zeichensatzes führen zu Problemen bei der Verarbeitung von  XML-Daten, sofern übliche XML -Tools verwendet werden. Diese müssen, auch wenn sie in- nerhalb eines Strings verwendet werden, durch die entsprechenden Maskierungen ersetzt  werden. Eine Übersicht der zu ersetzenden Zeichen ist in
 
-| Sonderzeichen | Ersetzen durch | |
+| **Sonderzeichen** | **Ersetzen durch** | |
 |---|---|---|
 | & | &amp; | |
 | < | &lt; | |
@@ -751,13 +749,9 @@ Eine Angabe des
 
 [KBV_ITA_VGEX_Schnittstelle_SDDA
 
-**XML-Code 4**
+**XML-Code 4  empfaenger (datenstelle)**
 
-zulässigen
-
-**empfaenger (datenstelle)**
-
-Institutskennzeichens  ] enthalten.
+zulässigen Institutskennzeichens  ] enthalten.
 
 ## 4.3 Datei-Absender (absender)
 
@@ -1021,11 +1015,9 @@ Als Beispiel sei hier der folgende Code angegeben:
 
 **<bgl:software-version V="1.00"/>**
 
-**XML-Code 15**
-
 ### 4.5.3 Hersteller der Software (software-hersteller)
 
-Das Element *software-hersteller* enthält als Wert den Hersteller der verwendeten Software. Es
+Das Element *software-hersteller*
 
 handelt sich dabei um einen String.
 
@@ -1033,19 +1025,23 @@ Da die Kassenärztliche Bundesvereinigung für das XKM zuständig ist, ist der f
 
 **<bgl:software-hersteller V="KBV"/>**
 
-**XML-Code 16**
-
 ## 4.6 Dateiarchive (archive)
 
 Das Element archive enthält mindestens ein Kindelement archiv. Dieses enthält die Informati- onen zum Dateinamen des Archivs und dem Verzeichnis des Archivs. Es besteht aus den  Kindelementen name und verzeichnis.
 
-Die Grundstruktur für dieses Element ist in Abbildung 8 dargestellt.
-
-**Abbildung 8**
+Die Grundstruktur für dieses Element ist in
 
 Der Coderahmen für dieses Element sieht wie folgt aus:
 
-**Grundstruktur archive**
+**XML-Code 15**
+
+enthält als Wert den Hersteller der verwendeten Software. Es
+
+**XML-Code 16**
+
+Abbildung 8 dargestellt.
+
+**Abbildung 8  Grundstruktur archive**
 
 **software-name**
 
@@ -1141,7 +1137,7 @@ Abbildung 9 dargestellt.
 
 Die zulässigen relativen Pfade sind in der folgenden Tabelle angegeben.
 
-| Dokumentationsart | relativer Pfad |
+| **Dokumentationsart** | **relativer Pfad** |
 |---|---|
 | Brustkrebs | Brustkrebs/Dokumentation |
 | Diabetes Mellitus Typ 2 | Diabetes_Mellitus_Typ_2/Dokumentation |
@@ -1342,7 +1338,7 @@ Erstellt am 15.07.2019
 
 **6 Referenzierte Dokumente**
 
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 |---|---|
 | [KBV_ITA_VGEX_Schnittstelle_SDDA] | aktuell gültige |
 | [1] | KBV-Schlüsseltabellen  http://applications.kbv.de/keytabs/ita/schluesseltabell |

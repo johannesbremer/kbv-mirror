@@ -252,17 +252,19 @@ Bundesparteitag CDU
 
 **Q3 2025**
 
-### Jul
-
-### Sep
-
-### Aug
-
 **Q4 2025**
 
 ### Dez
 
-### Okt Nov
+### Okt
+
+### Jul
+
+### Nov
+
+### Sep
+
+### Aug
 
 **Q1 2026**
 

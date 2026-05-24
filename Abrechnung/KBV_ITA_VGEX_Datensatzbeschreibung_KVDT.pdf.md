@@ -81,9 +81,9 @@ Zielsetzung  Übersicht  Anordnung  ADT-Satztabellen  3.4.1 Satzart: ADT-Datenpa
 
 3.4.5 Satzart: Belegärztliche Behandlung 0103
 
-3.4.6 Satzart: Notfalldienst/Vertretung/Notfall 0104
+3.4.6 Satzart: Notfalldienst/Vertretung/Notfall
 
-Anforderungen an die Datenqualität
+Anforderungen an die Datenqualität 0104
 
 **5**
 
@@ -148,13 +148,13 @@ Besondere Hinweise  3.6.1 Auftrag zur in-vitro-Diagnostik an Facharzt
 
 3.6.5.1 Abrechnung von ASV-Leistungen, die nicht Bestandteil des EBM sind
 
-3.6.5.2 Angabe Tumorstadium (s. g. TNM-Status ) und / oder Progression
+3.6.5.2 Angabe Tumorstadium (s. g. TNM-Status
 
 **KADT-DATENPAKET**
 
 Zielsetzung  Übersicht  Anordnung  KADT-Satztabellen  4.4.1 Satzart: KADT-Datenpaket-Header kad0
 
-4.4.2 Satzart: KADT-Datenpaket-Abschluss kad9
+4.4.2 Satzart: KADT-Datenpaket-Abschluss
 
 4.4.3 Satzart: Kurärztliche Behandlung 0109
 
@@ -170,13 +170,13 @@ Vordruckmuster Kurarztschein
 
 Zielsetzung
 
-Übersicht  Anordnung  SADT-Satztabellen  5.4.1 Satzart: SADT-Datenpaket-Header
+Übersicht  Anordnung  SADT-Satztabellen  5.4.1 Satzart: SADT-Datenpaket-Header sad0
 
 5.4.2 Satzart: SADT-Datenpaket-Abschluss
 
 5.4.3 Satzart: SADT-ambulante Behandlung
 
-5.4.4 Satzart: SADT-Überweisung
+5.4.4 Satzart: SADT-Überweisung sad2
 
 5.4.5 Satzart: SADT-belegärztliche Behandlung
 
@@ -190,23 +190,21 @@ Zielsetzung  Einsatzzwecke des Datenpaketes
 
 Übersicht  Anordnung
 
-sad0
+) und / oder Progression
+
+kad9
 
 sad9
 
 sad1
 
-sad2
-
 sad3
 
-70  89  118  118  119  120  120  120 121
-
-122
+70  89  118  118  119  120  120  120  121 122
 
 **124**
 
-124  124  124  124  125  126  126  130 130  130  130  130  139  149
+124  124  124  124  125  126  126  130  130  130  130  130  139  149
 
 **151**
 
@@ -474,23 +472,21 @@ von einer Arztpraxis zur jeweils zuständigen Kassenärztlichen Vereinigung. Die
 
 **1.2**  **STRUKTUR DER SPEICHERUNG**
 
-Eine **Datei** besteht aus **Datenpaketen** und aus
+Eine **Datei** besteht aus
 
 ADT  Abrechnungs-Datenpaket
 
-KADT  Kurärztliches Abrechnungs-Datenpaket
+KADT  Kurärztliches Abrechnungs
 
 SADT  Schwangerschaftsabbruch-Datenpaket
 
-Ein **Datenpaket** ist in **Sätze** unterteilt. Folgende
+Ein **Datenpaket** ist in
 
-**Container-Sätze**  Container-Header
+**Container-Sätze**  Container-Header  Container-Abschluss  Betriebsstättendaten  Ringversuchszertifikate
 
-Container-Abschluss
+**Datenpaketen** und aus -Datenpaket
 
-Betriebsstättendaten
-
-Ringversuchszertifikate
+**Sätze** unterteilt. Folgende
 
 **ADT-Datenpaket**  ADT-Datenpaket-Header
 
@@ -650,37 +646,37 @@ zusammen:
 
 **KVDT-Grobschema ADT-, KADT- und**  **SADT-Abrechnung**
 
-|  | Container-Header | ”con0” |
-|---|---|---|
-|  | Betriebsstättendaten | ”besa” |
-|  | Ringversuchszertifikate | “rvsa” |
-| Datenpaket | 1 |  |
-| … |  |  |
-| Datenpaket | m |  |
-|  | Container-Abschluss | ”con9” |
-|  | **KVDT-Grobschema** | **HDRG-Abrechnung** |
-|  | Container-Header ”con0” | ”con0” |
-| Datenpaket | HDRG |  |
-|  | Container-Abschluss | ”con9” |
-| **Beispielhaftes** | | **KVDT-Feinschema** |
-|  | **Satzbeschreibung ADT-,** | **Satzart** |
-| **KADT-** | **und SADT-Abrechnung** |  |
-|  | Container-Header | ”con0” |
-|  | Betriebsstättendaten | ”besa” |
-|  | Ringversuchszertifikate | “rvsa” |
-|  | ADT-Datenpaket-Header | „adt0“ |
-| Fall a |  | „010r“ |
-| … |  |  |
-| Fall z |  | „010r“ |
-|  | ADT-Datenpaket-Abschluss | ”adt9” |
-|  | KADT-Datenpaket-Header | „kad0“ |
-| Satz 1 |  | „0109“ |
-| … |  |  |
-| Satz n |  | „0109“ |
-|  | KADT-Datenpaket-Abschluss | „kad9“ |
-|  | SADT-Datenpaket-Header | „sad0“ |
+| Container-Header | ”con0” |
+|---|---|
+| Betriebsstättendaten | ”besa” |
+| Ringversuchszertifikate | “rvsa” |
+| Datenpaket 1 |  |
+| … |  |
+| Datenpaket m |  |
+| Container-Abschluss | ”con9” |
+| **KVDT-Grobschema** | **HDRG-Abrechnung** |
+| Container-Header | ”con0” ”con0” |
+| Datenpaket HDRG |  |
+| Container-Abschluss | ”con9” |
+| **Beispielhaftes** | **KVDT-Feinschema** |
+| **Satzbeschreibung** | **ADT-, Satzart** |
+| **KADT- und** | **SADT-Abrechnung** |
+| Container-Header | ”con0” |
+| Betriebsstättendaten | ”besa” |
+| Ringversuchszertifikate | “rvsa” |
+| ADT-Datenpaket-Header | „adt0“ |
+| Fall a | „010r“ |
+| … |  |
+| Fall z | „010r“ |
+| ADT-Datenpaket-Abschluss | ”adt9” |
+| KADT-Datenpaket-Header | „kad0“ |
+| Satz 1 | „0109“ |
+| … |  |
+| Satz n | „0109“ |
+| KADT-Datenpaket-Abschluss | „kad9“ |
+| SADT-Datenpaket-Header | „sad0“ |
 
-Datenpaket 1 Datenpaket m KVDT-Grobschema HDRG-Abrechnung Datenpaket HDRG Beispielhaftes KVDT-Feinschema KADT- und SADT-Abrechnung
+KVDT-Grobschema HDRG-Abrechnung Header ”con0” Beispielhaftes KVDT-Feinschema Satzbeschreibung ADT-, KADT- und SADT-Abrechnung
 
 ---
 
@@ -979,13 +975,13 @@ dessen Zulassung angestrebt wird.
 
 Die eigentlichen Informationseinheiten sind die Felder. Jedes Feld hat die gleiche Struktur. Alle Informatio- nen sind als ASCII-Zeichen dargestellt. Gemäß der Feldkennung wird der zugehörige Eintrag der Feldtabelle  herangezogen.
 
-| **STRUKTUR** | **EINES** | **DATENFELDES** |  |
-|---|---|---|---|
-| **Feldteil** |  |  | Länge |
-| Länge |  |  | 3 Bytes |
-| Kennung |  |  | 4 Bytes |
-| Inhalt |  |  | Variabel |
-| Ende |  |  | 2 Bytes |
+| **STRUKTUR EINES** | **DATENFELDES** |
+|---|---|
+| **Feldteil** | Länge |
+| Länge | 3 Bytes |
+| Kennung | 4 Bytes |
+| Inhalt | Variabel |
+| Ende | 2 Bytes |
 
 Bedeutung
 
@@ -1113,6 +1109,14 @@ Prüfstatus
 
 Erläuterung
 
+**1.8** **ZEICHENSATZ**
+
+Der angegebene Standard nach ISO 8859 keine Zeichensatzkonvertierungen notwendig sind.
+
+Von den in der Norm enthaltenen Zeichen sind nur die explizit in der Zeichensatztabelle aufgeführten Zei- chen als Feldinhalt erlaubt mit folgender Einschränkung:
+
+Die Zeichen ”CR” und ”LF” (”Wagenrücklauf” = ASCII 13, ”Zeilenvorschub” = ASCII 10) dienen bei der Daten- übertragung als Feldende-Kennzeichnung. Sie dürfen auf keinen Fall als Feldinhalt übertragen werden.
+
 mit den folgenden Angaben vorhanden.
 
 Bedeutung
@@ -1129,15 +1133,7 @@ weis
 
 Erläuterung
 
-**1.8** **ZEICHENSATZ**
-
-Der angegebene Standard nach ISO 8859-15 entspricht dem Standard der eGK, sodass nach deren Einlesen
-
-keine Zeichensatzkonvertierungen notwendig sind.
-
-Von den in der Norm enthaltenen Zeichen sind nur die explizit in der Zeichensatztabelle aufgeführten Zei- chen als Feldinhalt erlaubt mit folgender Einschränkung:
-
-Die Zeichen ”CR” und ”LF” (”Wagenrücklauf” = ASCII 13, ”Zeilenvorschub” = ASCII 10) dienen bei der Daten- übertragung als Feldende-Kennzeichnung. Sie dürfen auf keinen Fall als Feldinhalt übertragen werden.
+-15 entspricht dem Standard der eGK, sodass nach deren Einlesen
 
 Beispiel 106
 
@@ -8041,10 +8037,13 @@ HH = Stunde, MM = Minute  Wertebereich: 0000-2359 Q = Quartal, JJJJ = Jahr nn = 
 
 ---
 
-|  | **ADT-REGELTABELLE** | |  |  |  |  |
-|---|---|---|---|---|---|---|
-| **R-Nr** | Kategorie |  | Prüfung |  |  | Prüfstatus |
-| Seite | 91 von 207 | / KBV / | Datensatzbeschreibung | KVDT / Version | 6.02 / | 13. Mai 2026 |
+**ADT-REGELTABELLE**
+
+**R-Nr** Kategorie
+
+Prüfung
+
+Prüfstatus
 
 | Erläuterung | |  |  |
 |---|---|---|---|
@@ -8483,11 +8482,9 @@ Wenn FK 4109 und FK  3119 vorhanden sind und  Inhalt von FK 4239  21,
 
 Feldinhalt von FK 3006 <=  5.2.0
 
-Prüfstatus
+Prüfstatus Erläuterung
 
 I
-
-Erläuterung
 
 Krankenkassennummer (IK) vor- handen und 9-stellig
 
@@ -8528,17 +8525,26 @@ Diese Regel gilt sowohl für das  Einlesen einer eGK als auch für  den erfolgre
 
 **ADT-REGELTABELLE**
 
-**R-Nr**
+| **R-Nr** | Kategorie |
+|---|---|
+| 309 | Kontext |
+| 310 | Kontext |
+| 313 | Kontext |
+| 315 | Kontext |
+| 319 | Kontext |
+| 320 | Kontext |
+| 324 | Kontext |
+| 328 | Kontext |
 
-|  | Prüfung | Prüfstatus |
-|---|---|---|
-| Kontext | Wenn Feldinhalt von FK | W |
+Prüfung
 
-309
+Prüfstatus
+
+Wenn Feldinhalt von FK
+
+W
 
 3006 = 5.2.0 und FK 3012  vorhanden ist, dann darf  FK 3012 nicht den Wert  99999 haben.
-
-310 Kontext
 
 Wenn Feldinhalt von FK
 
@@ -8546,37 +8552,35 @@ W 3006  5.2.0 und FK 3012
 
 vorhanden ist, dann muss  FK 3012 den Wert 99999  haben.
 
-313 Kontext
-
 F
 
 Geburtsdatum  Leis-
 
-tungsdatum 315 Kontext
+tungsdatum
 
 Falls FK 4110 vorhanden
 
 W
 
-ist, dann gilt:  Leistungsdatum (FK 5000)  Versicherungsschutz  Ende (FK 4110) 319 Kontext
+ist, dann gilt:  Leistungsdatum (FK 5000)  Versicherungsschutz  Ende (FK 4110)
 
 Inhalt Feld 4218 darf nicht
 
 F
 
-identisch sein mit Inhalt  Feld 4217 320 Kontext
+identisch sein mit Inhalt  Feld 4217
 
 Wenn Feldinhalt von FK
 
 F
 
-8000 = 0102, dann gilt: FK  4220 muss nur dann vor- handen sein, wenn Feldin- halt von FK 4239  27, 28 324 Kontext
+8000 = 0102, dann gilt: FK  4220 muss nur dann vor- handen sein, wenn Feldin- halt von FK 4239  27, 28
 
 Der Inhalt des Feldes 5000
 
 F
 
-muss in dem umschriebe- nen Zeitraum liegen, wel- cher durch die Angabe des  Quartals (4101) definiert  ist 328 Kontext
+muss in dem umschriebe- nen Zeitraum liegen, wel- cher durch die Angabe des  Quartals (4101) definiert  ist
 
 Wenn Feldinhalt von 8000
 
@@ -8592,7 +8596,6 @@ Vermeidung von Fehleingaben
 
 Vermeidung von Fehleingaben  Erläuterung vgl. Kapitel 3.6.1  Laborauftrag an Facharzt-La- bor
 
-Kategorie
 
 ---
 
@@ -9066,17 +9069,21 @@ W
 
 28: Der Wert in FK 5098  muss mit einem der  Werte aus FK 0201 (SA  „besa“) übereinstimmen,  sofern kein Vorquartalsfall  vorliegt (Inhalt von FK  4101 = FK 9204 (adt0)).
 
-Erläuterung
+|  | Erläuterung |  |
+|---|---|---|
+|  | Prüfung gegen | Besa-Satz bei ak- |
+| tuellen | Quartalsfällen | (analog |
+| Regel | 716) |  |
+|  | Prüfung gegen | Besa-Satz bei ak- |
+| tuellen | Quartalsfällen |  |
+|  | Bundesmantelvertragliche | Re- |
+|  | gelung: Einweisender | Arzt ist |
+| auch | „durchführender“ | Arzt |
+|  | Bundesmantelvertragliche | Re- |
+|  | gelung: Einweisender | Arzt ist |
+| auch | „durchführender“ | Arzt |
 
-Prüfung gegen Besa-Satz bei ak- tuellen Quartalsfällen (analog  Regel 716)
-
-Prüfung gegen Besa-Satz bei ak- tuellen Quartalsfällen
-
-Bundesmantelvertragliche Re- gelung: Einweisender Arzt ist  auch „durchführender“ Arzt
-
-Bundesmantelvertragliche Re- gelung: Einweisender Arzt ist  auch „durchführender“ Arzt
-
-Kategorie
+Kategorie Prüfung gegen Besa-Satz bei ak- tuellen Quartalsfällen (analog Regel 716) Prüfung gegen Besa-Satz bei ak- tuellen Quartalsfällen Bundesmantelvertragliche Re- gelung: Einweisender Arzt ist auch „durchführender“ Arzt Bundesmantelvertragliche Re- gelung: Einweisender Arzt ist auch „durchführender“ Arzt
 
 ---
 
@@ -9683,37 +9690,32 @@ Kategorie [ ] - optional  Dokumentationspflicht besteht  auch bei der genannten 
 
 **ADT-REGELTABELLE**
 
-**R-Nr**
+| **R-Nr** | Kategorie |
+|---|---|
+| 850 | Kontext |
+| 851 | Kontext |
+| 852 | Kontext |
+| 853 | Kontext |
+| 854 | Kontext |
+| 856 | Kontext |
 
-|  | Prüfung | Prüfstatus |
-|---|---|---|
-| Kontext | Die Felder 4252 und 4253 | F |
+Prüfung
 
-850
+Prüfstatus
 
-dürfen nur gemeinsam  übertragen werden.
-
-851 Kontext
+Die Felder 4252 und 4253  dürfen nur gemeinsam  übertragen werden.
 
 Die Felder 4255 und 4256  dürfen nur gemeinsam  übertragen werden.
 
-852 Kontext
-
 Wenn das Feld 4255 be- füllt ist, muss auch das  Feld 4252 befüllt sein.
 
-853 Kontext
-
 Im Feld 4253 dürfen GNR  nicht mehrfach übertra- gen werden.  Im Feld 4256 dürfen GNR  nicht mehrfach übertra- gen werden.
-
-854 Kontext
 
 Wenn Feldinhalt des Fel-
 
 W
 
 des 5001 = 32915[G-al- pha],32916[G-alpha],  32917[G-alpha] oder  32918[G-alpha], dann  muss mindestens ein Feld  6001 mit einem Inhalt un- gleich „Z01.7“ vorhanden  sein und die Felder 5077  und 5079 dürfen nicht  übertragen werden.
-
-856 Kontext
 
 Wenn der Feldinhalt von
 
@@ -9729,13 +9731,14 @@ F
 
 F
 
+F
+
 Beispiele:  Die Übertragung der Ziffer  35401 in der FK 4253 und die  erneute Übertragung der Zif- fer 35401 in der FK 4256 ist  zulässig.  Die Übertragung der Ziffer  35401 in der FK 4253 und  35401B in der FK 4256 ist zu- lässig.  Die Übertragung der Ziffer  35401 in der FK 4253 und die  erneute Übertragung der Zif- fer 35401 in der FK 4253 ist  nicht zulässig.  Die Übertragung der Ziffer  35401 in der FK 4256 und die  Übertragung der Ziffer  35401B in der FK 4256 ist zu- lässig.
 
 G-alpha ::= A B ... Z
 
 [ ] - optional  Dokumentationspflicht besteht  auch bei der genannten GOP  mit Buchstabensuffix
 
-Kategorie
 
 ---
 
@@ -10279,14 +10282,8 @@ kurz UICC.
 
 ---
 
-|  | Beispiele: |  |  |  |  |  |
-|---|---|---|---|---|---|---|
-| Angabe | TNM-Status |  | ohne Progression: |  | rT1N2M1G2R1 |  |
-| Angabe | TNM-Status | mit | Progression: |  | rT1N2M1G2R1+1 |  |
-| Angabe | Progression | | ohne TNM-Status: | 1 |  |  |
-| Seite | 123 von 207 | / KBV / | Datensatzbeschreibung | KVDT / Version | 6.02 / | 13. Mai 2026 |
+Beispiele:  Angabe TNM-Status ohne Progression: rT1N2M1G2R1  Angabe TNM-Status mit Progression: rT1N2M1G2R1+1  Angabe Progression ohne TNM-Status: 1
 
-Angabe TNM-Status ohne Progression: rT1N2M1G2R1 Angabe TNM-Status mit Progression:  rT1N2M1G2R1+1 Angabe Progression ohne TNM-Status: 1
 
 ---
 
@@ -15065,10 +15062,11 @@ Feldbezeichnung Kategorie nn = KV-Kennung  mmm = Seriennummer  Wertebereich nn: 
 
 ---
 
-|  | **HDRG-REGELTABELLE** | |  |  |  |  |
-|---|---|---|---|---|---|---|
-| **R-Nr** | Kategorie |  | Prüfung |  |  |  |
-| Seite | 178 von 207 | / KBV / | Datensatzbeschreibung | KVDT / Version | 6.02 / | 13. Mai 2026 |
+**HDRG-REGELTABELLE**
+
+**R-Nr** Kategorie
+
+Prüfung
 
 | Prüf- | Erläuterung | |  |
 |---|---|---|---|
@@ -15122,11 +15120,11 @@ Feldbezeichnung Kategorie nn = KV-Kennung  mmm = Seriennummer  Wertebereich nn: 
 
 **HDRG-REGELTABELLE**
 
-**R-Nr**
+**R-Nr** Kategorie
 
-021
+Prüfung 021 Format
 
-023
+JJJJMMTT 023
 
 024
 
@@ -15137,10 +15135,6 @@ Feldbezeichnung Kategorie nn = KV-Kennung  mmm = Seriennummer  Wertebereich nn: 
 052
 
 053
-
-Kategorie
-
-Format
 
 Format
 
@@ -15153,10 +15147,6 @@ Format
 | Format | a/n[n][n]/JJMM/nn/aaaa | F |
 |---|---|---|
 | Format | nnnnnn[n][n][n][n][n][n] | F |
-
-Prüfung
-
-JJJJMMTT
 
 JJJJMMTT
 
@@ -15229,6 +15219,24 @@ Format
 
 Format
 
+Format
+
+erlaubter Inhalt
+
+erlaubter Inhalt
+
+| erlaubter Inhalt | 1 | F |
+|---|---|---|
+| erlaubter Inhalt | 01-03, 06-21, 24, 25, 27, 28, 31, 37-73, | F |
+
+erlaubter Inhalt
+
+erlaubter Inhalt
+
+| Existenzprüfung | Kassendatei |  |
+|---|---|---|
+| Existenzprüfung | Kassendatei | I |
+
 Prüfung
 
 annnnnnnnP
@@ -15241,27 +15249,15 @@ JJJJMMTTJJJJMMTT
 
 JJJJMMTThhmmss
 
-Format
-
 anna
 
-erlaubter Inhalt R, L, B
-
-erlaubter Inhalt 1, 3, 5
-
-| erlaubter Inhalt | 1 | F |
-|---|---|---|
-| erlaubter Inhalt | 01-03, 06-21, 24, 25, 27, 28, 31, 37-73, | F |
+R, L, B 1, 3, 5
 
 78-81, 83, 85-88, 93-96, 98, 99
 
-erlaubter Inhalt 00, 01, 02, 03, 04, 05, 06, 07, 08, 09
+00, 01, 02, 03, 04, 05, 06, 07, 08, 09
 
-erlaubter Inhalt R, L
-
-| Existenzprüfung | Kassendatei |  |
-|---|---|---|
-| Existenzprüfung | Kassendatei | I |
+R, L
 
 Prüf- status
 
@@ -15798,25 +15794,25 @@ Feldbezeichnung Regionaler Systembetreuer  ist die juristische oder natür- lich
 
 ---
 
-| 0127 | Straße | des SB |  |  60 |
-|---|---|---|---|---|
-| 0128 | PLZ des | SB |  |  7 |
-| 0129 | Ort des | SB |  |  60 |
-| 0130 |  | Telefonnummer | des SB |  60 |
-| 0131 |  | Telefaxnummer | des SB |  60 |
-| 0132 |  | Release-Stand | der Soft- |  60 |
-|  | ware |  |  |  |
-| 0201 | Betriebs- | (BSNR) | oder Ne- | 9 |
-|  |  | benbetriebsstättennum- | |  |
-|  | mer | (NBSNR) |  |  |
-| 0203 |  | (N)BSNR-/Krankenhaus- | |  60 |
-|  |  | Bezeichnung |  |  |
-| 0205 | Straße | der | (N)BSNR- |  60 |
-|  |  | /Krankenhaus-Adresse | |  |
-| 0208 |  | Telefonnummer |  |  60 |
-| 0209 |  | Telefaxnummer |  |  60 |
-| 0211 | Arztname | oder | Erläute- |  60 |
-|  | rung |  |  |  |
+| 0127 | Straße des SB |  60 |
+|---|---|---|
+| 0128 | PLZ des SB |  7 |
+| 0129 | Ort des SB |  60 |
+| 0130 | Telefonnummer | des SB  60 |
+| 0131 | Telefaxnummer | des SB  60 |
+| 0132 | Release-Stand | der Soft-  60 |
+|  | ware |  |
+| 0201 | Betriebs- (BSNR) | oder Ne- 9 |
+|  | benbetriebsstättennum- |  |
+|  | mer (NBSNR) |  |
+| 0203 | (N)BSNR-/Krankenhaus- |  60 |
+|  | Bezeichnung |  |
+| 0205 | Straße der | (N)BSNR-  60 |
+|  | /Krankenhaus-Adresse |  |
+| 0208 | Telefonnummer |  60 |
+| 0209 | Telefaxnummer |  60 |
+| 0211 | Arztname oder | Erläute-  60 |
+|  | rung |  |
 
 13 „|“ = Senkrechter Strich, im Programmiererjargon „Pipe” genannt. Auf PCs mit dem Betriebssystem Windows wird er über die Tast
 
@@ -15854,7 +15850,7 @@ Dieses Feld dient grundsätz- lich zur Übertragung des Re- lease-Stands der Sof
 
 25-60: sonstige Informatio- nen
 
-Straße des SB PLZ des SB Ort des SB Telefonnummer des SB Telefaxnummer des SB Release-Stand der Soft- Betriebs- (BSNR) oder Ne- mer (NBSNR) Straße der (N)BSNR- Arztname oder Erläute-enkombination
+Telefonnummer des SB Telefaxnummer des SB Release-Stand der Soft- Betriebs- (BSNR) oder Ne- Straße der (N)BSNR- Arztname oder Erläute-enkombination
 
 
 ---
@@ -16221,8 +16217,6 @@ Versichertennummer 6-12 n
 
 3119
 
-15 Verordnung über die Erfassung und Übermittlung von Daten für die Träger der Sozialversicherung (Datenerfassungs nung - DEÜV)
-
 Aufnahmegewicht
 
 |  |  |  | 0109, hdrg1 |
@@ -16244,6 +16238,10 @@ Versicherten_ID
 2
 
 10
+
+15 Verordnung über die Erfassung und Übermittlung von Daten für die Träger der Sozialversicherung (Datenerfassungs
+
+nung - DEÜV)
 
 n hdrg1 0101, 0102, 0103, 0104,
 

@@ -155,7 +155,7 @@ ABKÜRZUNGSVERZEICHNIS
 
 |  |  |
 |---|---|
-| Abkürzung | Langform |
+| **Abkürzung** | **Langform** |
 | BSNR | Betriebsstättennummer |
 | eGK | elektronische Gesundheitskarte |
 | FK | Feldkennung |
@@ -182,16 +182,16 @@ Kombination von Abrechnungs-VKNR und Kostenträger
 
 Die Vorgaben der Version 1.19 treten zum 01.07.2026 zur Abrechnung des 3. Quartals 2026 u.ff. in Kraft
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.19 | 13.05.2026 | KBV | ›  › |  | alle |
 | 1.18 | 15.05.2024 | KBV | › |  | 19,  22 |
 | 1.17 | 17.04.2024 | KBV | › |  | 29 |
 | 1.16 | 15.02.2024 | KBV | › |  | 20,  25 |
-| 1.15 | 19.02.2021 | KBV | ›  ·  ·    ›    › |  | 19,  22        27,  29        25 |
+| 1.15 | 19.02.2021 | KBV | › **·** **·**    ›    › |  | 19,  22        27,  29        25 |
 | 1.14 | 30.03.2019 | KBV | › |  | 29 |
 | 1.13 | 12.06.2019 | KBV | ›    › | Änderungen im    Aufkündigung | 19,  24 |
-| 1.12 | 17.04.2018 | KBV | ›  ·  ·  ·  › |  | 19,  22 |
+| 1.12 | 17.04.2018 | KBV | › **·** **·** **·**  › |  | 19,  22 |
 
 Aktualisierung des Layouts Aufnahme von Regelung zu VSDM 2.0 Mapping Erweiterung des DMP-Kennzeichens an das VSDM Erweiterung des Kennzeichens Rechtsgrundlage zur Bedruckung des Personalienfeldes Anpassung der Bezeichnung der Besonderen Personengruppe 06 Einführung neuer DMP-Kennzeichen für das VSD-Schema 5.2.0: 10: Rheuma 11: Osteoporose Aufnahme von Regelung zur Bedruckung des verkürzten Personalienfeldes Fehlerkorrektur Anpassung der Bedruckung der Stellen 29 und 30 des Personalienfeldes Einfügen des Wertes D für das PStG §22 Abs. 3 „diverse“ Geschlecht Streichung der VSD-Version 5.1.0 durch die gematik Einführung neuer DMP-Kennzeichen für das VSD-Schema 5.2.0: 7: Chronische Herzinsuffizienz 8: Depression  9: Rückenschmerz Diese neuen DMP-Kennzeichen werden nicht auf KVK´s und eGKs mit VSD-Schema 5.1.0 verwendet, die Aufnahme für ein Mapping entfällt somit.
 
@@ -275,17 +275,17 @@ Im Folgenden werden für die jeweiligen USE-CASES die relevanten Mapping-Tabelle
 
 ---
 
-| VSDM 2.0 |  | KVDT | | | | | | | | | |
-| 2.2.1 | VSDM 2.0 |  | | | | | | | | | |
-| 2.2.1 | VSDM 2.0 |  | | | | | | | | | |
-| Versichertendaten |  |  | | | | | | | | | |
-| Element | K | L | T | Ausprägung | Transformati | FK | Name | K | L | T | Ausprägung |
-| KVDT |  | Element | K | L | T | Ausprägung | Transformati | FK | Name | K | L |
-| KVDT |  | Element | K | L | T | Ausprägung | Transformati | FK | Name | K | L |
+\| **VSDM 2.0** |  | **KVDT** | | | | | | | | | |
+\| **2.2.1** | **VSDM 2.0** |  | | | | | | | | | |
+\| **2.2.1** | **VSDM 2.0** |  | | | | | | | | | |
+\| **Versichertendaten ** |  |  | | | | | | | | | |
+\| **Element** | **K** | **L** | **T** | **Ausprägung** | **Transformati** | **FK** | **Name** | **K** | **L** | **T** | **Ausprägung** |
+\| **KVDT** |  | **Element** | **K** | **L** | **T** | **Ausprägung** | **Transformati** | **FK** | **Name** | **K** | **L** |
+\| **KVDT** |  | **Element** | **K** | **L** | **T** | **Ausprägung** | **Transformati** | **FK** | **Name** | **K** | **L** |
 |  | VSDMPatient |  |  |  |  |  |  |  | Patient | 1..1 |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | Profilversion der VSDM-Instanz   (Element Bundle.meta.profile) |  | Substring(Zeic | 3006 | CDM | 0..1 | 1 | n |  | | | |
-| Versichertendaten |  |  |  |  |  |  |  | | | | |
+| **Versichertendaten** |  |  |  |  |  |  |  | | | | |
 | VSDMPatient |  |  |  |  |  |  |  | | | | |
 | Patient | 1..1 |  |  |  |  |  |  |  |  |  |  |
 | Patient.identifier:KVNR | 1..1 | 10 | identifier |  | → | 3119 | Versicherten_ID | 0..1 | 10 | a |  |
@@ -302,8 +302,8 @@ Im Folgenden werden für die jeweiligen USE-CASES die relevanten Mapping-Tabelle
 | Patient.address:PostfachAdre | 0..1 | 0..40 | string |  | → | 3122 | PostfachOrt | 0..1 | ≤ 40 | a |  |
 | Patient.address:PostfachAdre | 0..1 | 0..8 | string |  | → | 3123 | Postfach | 0..1 | ≤ 8 | a |  |
 | Patient.address:PostfachAdre | 0..1 |  |  |  |  |  |  |  |  |  |  |
-| T | Ausprägung | Profilversion der VSDM-Instanz | (Element Bundle.meta.profile) |  | Substring(Zeic | 3006 | CDM | 0..1 | 1 | n |  |
-| Versichertendaten |  |  |  |  |  |  |  | VSDMPatient |  |  |  |
+| **T** | **Ausprägung** | Profilversion der VSDM-Instanz | (Element Bundle.meta.profile) |  | Substring(Zeic | 3006 | CDM | 0..1 | 1 | n |  |
+| **Versichertendaten** |  |  |  |  |  |  |  | VSDMPatient |  |  |  |
 |  |  |  | Patient | 1..1 |  |  |  |  |  |  |  |
 |  |  | Patient.identifier:KVNR | 1..1 | 10 | identifier |  | → | 3119 | Versicherten_ID | 0..1 | 10 |
 | a | Patient.birthDate | 1..1 | 4..10 | date | YYYY-MM-DD, | YYYY | Codierung | 2 |  | 3103 | Geburtsdatum |
@@ -321,8 +321,8 @@ Im Folgenden werden für die jeweiligen USE-CASES die relevanten Mapping-Tabelle
 | PostfachOrt | 0..1 | ≤ 40 | a |  | Patient.address:PostfachAdre |  | 0..1 | 0..8 | string |  | → |
 | 3123  Postfach | 0..1 | ≤ 8 | a |  | Patient.address:PostfachAdre |  | 0..1 |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | T |
-| Ausprägung  Profilversion der VSDM-Instanz | (Element Bundle.meta.profile) |  | Substring(Zeic | 3006 | CDM | 0..1 | 1 | n |  | Versichertendaten |  |
+|  |  |  |  |  |  |  |  |  |  |  | **T** |
+| **Ausprägung ** Profilversion der VSDM-Instanz | (Element Bundle.meta.profile) |  | Substring(Zeic | 3006 | CDM | 0..1 | 1 | n |  | **Versichertendaten** |  |
 |  |  |  |  |  | VSDMPatient |  |  |  |  |  |  |
 | Patient | 1..1 |  |  |  |  |  |  |  |  |  |  |
 | Patient.identifier:KVNR  1..1 | 10 | identifier |  | → | 3119 | Versicherten_ID | 0..1 | 10 | a |  | Patient.birthDate |
@@ -350,13 +350,13 @@ VSDM 2.0 Fachdienstabruf in KVDT-Referenz-Design mappen ension:nachname ension:v
 
 ---
 
-|  | KVDT | Element | | | | | | | | | |
-| VSDM 2.0 |  | KVDT | | | | | | | | | |
-| VSDM 2.0 |  | KVDT | | | | | | | | | |
-| Patient.address:StrassenAdre 0..1 |  |  | | | | | | | | | |
-| K  L | T | Ausprägung | Transformati | FK | Name | K | L | T | Ausprägung | Patient.address:PostfachAdre | 1..1 |
-| Element | K | L | T | Ausprägung | Transformati | FK | Name | K | L | T | Ausprägung |
-| Element | K | L | T | Ausprägung | Transformati | FK | Name | K | L | T | Ausprägung |
+\|  | **KVDT** | **Element** | | | | | | | | | |
+\| **VSDM 2.0** |  | **KVDT** | | | | | | | | | |
+\| **VSDM 2.0** |  | **KVDT** | | | | | | | | | |
+\| Patient.address:StrassenAdre 0..1 |  |  | | | | | | | | | |
+\| **K  L** | **T** | **Ausprägung** | **Transformati** | **FK** | **Name** | **K** | **L** | **T** | **Ausprägung** | Patient.address:PostfachAdre | 1..1 |
+\| **Element** | **K** | **L** | **T** | **Ausprägung** | **Transformati** | **FK** | **Name** | **K** | **L** | **T** | **Ausprägung** |
+\| **Element** | **K** | **L** | **T** | **Ausprägung** | **Transformati** | **FK** | **Name** | **K** | **L** | **T** | **Ausprägung** |
 |  |  |  |  |  | Patient.address:StrassenAdre |  | 0..1 | 1..10 | string |  | → |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 0..3  code |  | → | 3124 | PostfachWohnsitzlaendercode | 0..1 | ≤ 3 | a |  | | | |
@@ -368,7 +368,7 @@ VSDM 2.0 Fachdienstabruf in KVDT-Referenz-Design mappen ension:nachname ension:v
 | a | → | 3109 | Hausnummer | 0..1 | ≤ 9 | a |  | Patient.address:StrassenAdre |  | 0..1 | 0..40 |
 | a | → | 3115 | Anschriftenzusatz | 0..1 | ≤ 40 | a |  | Patient.address:StrassenAdre |  | 1..1 |  |
 |  |  |  |  |  |  |  |  | Patient.address:StrassenAdre | 1..1 | 0..3 | code |
-| → | 3114 | Wohnsitzlaendercode | 0..1 | ≤ 3 | a | Anl. 8, DEÜV | Versicherungsdaten |  |  |  |  |
+| → | 3114 | Wohnsitzlaendercode | 0..1 | ≤ 3 | a | Anl. 8, DEÜV | **Versicherungsdaten** |  |  |  |  |
 |  |  | VSDMCoverageGKV |  |  |  |  |  |  |  | Coverage.extension:besondere | 0..1 |
 | 2  code | 00, 04, 06, 07, 08, | Codierung | 4 |  | 4131 | BesonderePersonengruppe | 1..1 | 2 | a | 00, 04, 06, 07, 08, 09 | Coverage.extension:dmp |
 | 0..*  2 | code | 01, 02, 03, 04, 05, | Codierung | 5 | 4132  DMP_Kennzeichnung | 1..1 | 2 | a | 00, 01, 02, 03, 04, 05, 06, 07, | Extension.extension:digitale | 1..1 |
@@ -386,7 +386,7 @@ VSDM 2.0 Fachdienstabruf in KVDT-Referenz-Design mappen ension:nachname ension:v
 | Patient.address:StrassenAdre | 0..1 | 0..40 | a |  | → | 3115 | Anschriftenzusatz | 0..1 | ≤ 40 | a |  |
 | Patient.address:StrassenAdre | 1..1 |  |  |  |  |  |  |  |  |  |  |
 | Patient.address:StrassenAdre | 1..1 | 0..3 | code |  | → | 3114 | Wohnsitzlaendercode | 0..1 | ≤ 3 | a | Anl. 8, DEÜV |
-| Versicherungsdaten |  |  |  |  |  |  |  | | | | |
+| **Versicherungsdaten** |  |  |  |  |  |  |  | | | | |
 | VSDMCoverageGKV |  |  |  |  |  |  |  | | | | |
 | Coverage.extension:besondere | 0..1 | 2 | code | 00, 04, 06, 07, 08, | Codierung  4 | 4131 | BesonderePersonengruppe | 1..1 | 2 | a | 00, 04, 06, 07, 08, 09 |
 | Coverage.extension:dmp | 0..* | 2 | code | 01, 02, 03, 04, 05, | Codierung  5 | 4132 | DMP_Kennzeichnung | 1..1 | 2 | a | 00, 01, 02, 03, 04, 05, 06, 07, |
@@ -405,7 +405,7 @@ VSDM 2.0 Fachdienstabruf in KVDT-Referenz-Design mappen ension:nachname ension:v
 | 0..9 | a |  | → | 3109 | Hausnummer | 0..1 | ≤ 9 | a |  | Patient.address:StrassenAdre |  |
 | 0..1  0..40 | a |  | → | 3115 | Anschriftenzusatz | 0..1 | ≤ 40 | a |  | Patient.address:StrassenAdre |  |
 | 1..1 |  |  |  |  |  |  |  |  |  | Patient.address:StrassenAdre | 1..1 |
-| 0..3  code |  | → | 3114 | Wohnsitzlaendercode | 0..1 | ≤ 3 | a | Anl. 8, DEÜV | Versicherungsdaten |  |  |
+| 0..3  code |  | → | 3114 | Wohnsitzlaendercode | 0..1 | ≤ 3 | a | Anl. 8, DEÜV | **Versicherungsdaten** |  |  |
 |  |  |  |  | VSDMCoverageGKV |  |  |  |  |  |  |  |
 | Coverage.extension:besondere | 0..1 | 2 | code | 00, 04, 06, 07, 08, | Codierung | 4 |  | 4131 | BesonderePersonengruppe | 1..1 | 2 |
 | a | 00, 04, 06, 07, 08, 09 | Coverage.extension:dmp | 0..* | 2 | code | 01, 02, 03, 04, 05, | Codierung | 5 |  | 4132 | DMP_Kennzeichnung |
@@ -425,13 +425,13 @@ sse.country.extension:anlage 8.value[x].code sse.postalCode sse.city sse.line.ex
 
 ---
 
-|  | KVDT | Element | | | | | | | | | |
-| VSDM 2.0 |  | KVDT | | | | | | | | | |
-| VSDM 2.0 |  | KVDT | | | | | | | | | |
-|  | Coverage.extension:ruhenderL | 0..1  10 | | | | | | | | | |
-| K  L | T | Ausprägung | Transformati | FK | Name | K | L | T | Ausprägung |  | Coverage.extension:ruhenderL |
-| Element | K | L | T | Ausprägung | Transformati | FK | Name | K | L | T | Ausprägung |
-| Element | K | L | T | Ausprägung | Transformati | FK | Name | K | L | T | Ausprägung |
+\|  | **KVDT** | **Element** | | | | | | | | | |
+\| **VSDM 2.0** |  | **KVDT** | | | | | | | | | |
+\| **VSDM 2.0** |  | **KVDT** | | | | | | | | | |
+\|  | Coverage.extension:ruhenderL | 0..1  10 | | | | | | | | | |
+\| **K  L** | **T** | **Ausprägung** | **Transformati** | **FK** | **Name** | **K** | **L** | **T** | **Ausprägung** |  | Coverage.extension:ruhenderL |
+\| **Element** | **K** | **L** | **T** | **Ausprägung** | **Transformati** | **FK** | **Name** | **K** | **L** | **T** | **Ausprägung** |
+\| **Element** | **K** | **L** | **T** | **Ausprägung** | **Transformati** | **FK** | **Name** | **K** | **L** | **T** | **Ausprägung** |
 | dateTime  YYYY-MM-DD | n/a |  |  |  |  |  |  | Coverage.extension:ruhenderL |  | 1..1 | 1 |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 1..1 | 10 | dateTime | YYYY-MM-DD | n/a |  |  |  |  | | | |
@@ -449,7 +449,7 @@ sse.country.extension:anlage 8.value[x].code sse.postalCode sse.city sse.line.ex
 | code  00, 01, 02, 03, 17, | → | 3116 | WOP | 0..1 | 2  a  00, 01, 02, 03, 17, 20, 38, 46, | Coverage.period | 0..1 |  |  |  |  |
 |  |  |  |  |  | Coverage.period.start | 1..1 | 0..10 | dateTime | YYYY-MM-DD | → | 4133 |
 | Versicherungsschutz Beginn 0..1 | 8 | n | YYYYMMDD | Coverage.period.end | 0..1 | 0..10 | dateTime | YYYY-MM-DD | → | 4110 | Versicherungsschutz Ende |
-| 0..1  8 | n | YYYYMMDD | Kostenträger |  |  |  |  |  |  |  | VSDMPayorOrganization |
+| 0..1  8 | n | YYYYMMDD | **Kostenträger** |  |  |  |  |  |  |  | VSDMPayorOrganization |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | Coverage.extension:ruhenderL |  | 1..1 | 10 | dateTime | YYYY-MM-DD | n/a |  |  |  |  |
@@ -467,7 +467,7 @@ sse.country.extension:anlage 8.value[x].code sse.postalCode sse.city sse.line.ex
 | 2 | code | 00, 01, 02, 03, 17, | → | 3116 | WOP  0..1  2 | a | 00, 01, 02, 03, 17, 20, 38, 46, | Coverage.period | 0..1 |  |  |
 |  |  |  |  |  |  |  |  | Coverage.period.start | 1..1 | 0..10 | dateTime |
 | YYYY-MM-DD | → | 4133 | Versicherungsschutz Beginn | 0..1 | 8 | n | YYYYMMDD | Coverage.period.end | 0..1 | 0..10 | dateTime |
-| YYYY-MM-DD | → | 4110 | Versicherungsschutz Ende | 0..1 | 8 | n | YYYYMMDD | Kostenträger |  |  |  |
+| YYYY-MM-DD | → | 4110 | Versicherungsschutz Ende | 0..1 | 8 | n | YYYYMMDD | **Kostenträger** |  |  |  |
 |  |  |  |  | VSDMPayorOrganization |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -487,7 +487,7 @@ sse.country.extension:anlage 8.value[x].code sse.postalCode sse.city sse.line.ex
 | Coverage.period | 0..1 |  |  |  |  |  |  |  |  |  |  |
 | Coverage.period.start | 1..1 | 0..10 | dateTime | YYYY-MM-DD | → | 4133 | Versicherungsschutz Beginn | 0..1 | 8 | n | YYYYMMDD |
 | Coverage.period.end | 0..1 | 0..10 | dateTime | YYYY-MM-DD | → | 4110 | Versicherungsschutz Ende | 0..1 | 8 | n | YYYYMMDD |
-| Kostenträger |  |  |  |  |  |  |  | | | | |
+| **Kostenträger** |  |  |  |  |  |  |  | | | | |
 | VSDMPayorOrganization |  |  |  |  |  |  |  | | | | |
 | code | | | | | | | | | | | |
 | 1,2 | n/a |  |  |  |  |  |  | Coverage.extension:zuzahlung |  | 0..1 |  |
@@ -500,21 +500,21 @@ eistungsanspruch.extension:d auer.value[x].start eistungsanspruch.extension:d au
 
 ---
 
-| GEBURTSDATUM VSDM2.0 | CODIERUNG GEMÄß KVDT | ERLÄUTERUNG | | | | | | | | | |
-| Tabelle 1: Mapping VSDM2.0 in KVDTVSD520 | GEBURTSDATUM VSDM2.0 | CODIERUNG GEMÄß KVDT | | | | | | | | | |
-| Tabelle 1: Mapping VSDM2.0 in KVDTVSD520 | GEBURTSDATUM VSDM2.0 | CODIERUNG GEMÄß KVDT | | | | | | | | | |
-| VSDM 2.0 |  | KVDT | | | | | | | | | |
-| YYYY-MM-DD  YYYYMMDD |  | YYYY-MM | YYYYMM00 | ersetzt. | YYYY | YYYY0000 | Die fehlende Angabe des Monats und des Tages | Tabelle 2: Transformation Geburtsdatum VSDM2.0_KVDT |  |  | GESCHLECHT VSDM2.0 |
-| ERLÄUTERUNG | YYYY-MM-DD | YYYYMMDD |  | YYYY-MM | YYYYMM00 | ersetzt. | YYYY | YYYY0000 | Die fehlende Angabe des Monats und des Tages | Tabelle 2: Transformation Geburtsdatum VSDM2.0_KVDT |  |
-| ERLÄUTERUNG | YYYY-MM-DD | YYYYMMDD |  | YYYY-MM | YYYYMM00 | ersetzt. | YYYY | YYYY0000 | Die fehlende Angabe des Monats und des Tages | Tabelle 2: Transformation Geburtsdatum VSDM2.0_KVDT |  |
-| Element | K | L | T | Ausprägung | Transformati | FK | Name | K | L | T | Ausprägung |
+\| **GEBURTSDATUM VSDM2.0** | **CODIERUNG GEMÄß KVDT** | **ERLÄUTERUNG** | | | | | | | | | |
+\| Tabelle 1: Mapping VSDM2.0 in KVDTVSD520 | **GEBURTSDATUM VSDM2.0** | **CODIERUNG GEMÄß KVDT** | | | | | | | | | |
+\| Tabelle 1: Mapping VSDM2.0 in KVDTVSD520 | **GEBURTSDATUM VSDM2.0** | **CODIERUNG GEMÄß KVDT** | | | | | | | | | |
+\| **VSDM 2.0** |  | **KVDT** | | | | | | | | | |
+\| YYYY-MM-DD  YYYYMMDD |  | YYYY-MM | YYYYMM00 | ersetzt. | YYYY | YYYY0000 | Die fehlende Angabe des Monats und des Tages | Tabelle 2: Transformation Geburtsdatum VSDM2.0_KVDT |  |  | **GESCHLECHT VSDM2.0** |
+\| **ERLÄUTERUNG** | YYYY-MM-DD | YYYYMMDD |  | YYYY-MM | YYYYMM00 | ersetzt. | YYYY | YYYY0000 | Die fehlende Angabe des Monats und des Tages | Tabelle 2: Transformation Geburtsdatum VSDM2.0_KVDT |  |
+\| **ERLÄUTERUNG** | YYYY-MM-DD | YYYYMMDD |  | YYYY-MM | YYYYMM00 | ersetzt. | YYYY | YYYY0000 | Die fehlende Angabe des Monats und des Tages | Tabelle 2: Transformation Geburtsdatum VSDM2.0_KVDT |  |
+| **Element** | **K** | **L** | **T** | **Ausprägung** | **Transformati** | **FK** | **Name** | **K** | **L** | **T** | **Ausprägung** |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| GESCHLECHT GEMÄß KVDT |  | ERLÄUTERUNG | gender = „male“ | M |  | gender = „female“ | W |  | | | |
-|  | VSDM 2.0 |  |  |  | KVDT |  | Element | | | | |
-| K | L | T | Ausprägung | Transformati | FK | Name | K | | | | |
-| L | T | Ausprägung | Priorität 2: | Coverage.payor[0].identifier | 1..1 | 9 | string |  | → | 4111 | Kostentraegerkennung |
+| **GESCHLECHT GEMÄß KVDT** |  | **ERLÄUTERUNG** | gender = „male“ | M |  | gender = „female“ | W |  | | | |
+|  | **VSDM 2.0** |  |  |  | **KVDT** |  | **Element** | | | | |
+| **K** | **L** | **T** | **Ausprägung** | **Transformati** | **FK** | **Name** | **K** | | | | |
+| **L** | **T** | **Ausprägung** | **Priorität 2:** | Coverage.payor[0].identifier | 1..1 | 9 | string |  | → | 4111 | Kostentraegerkennung |
 | 1..1 | 9 | N |  | Coverage.payor[0]. |  | 1..1 | 45 | string |  | → | 4134 |
-| KostentraegerName | 1..1 | ≤ 45 | A | Priorität 1: | Coverage.payor[1].identifier 1..1  9 | string |  | → |  | 4111 | Kostentraegerkennung |
+| KostentraegerName | 1..1 | ≤ 45 | A | **Priorität 1:** | Coverage.payor[1].identifier 1..1  9 | string |  | → |  | 4111 | Kostentraegerkennung |
 | 1..1 9 | n |  | Coverage.payor[1]. |  |  | 1..1 | 45 | string |  | → | 4134 |
 | KostentraegerName  1..1 | ≤ 45 | a |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -527,11 +527,11 @@ eistungsanspruch.extension:d auer.value[x].start eistungsanspruch.extension:d au
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | GESCHLECHT VSDM2.0 |  | GESCHLECHT GEMÄß KVDT |  | ERLÄUTERUNG | gender = „male“ | M |  | gender = „female“ | W |  |
-|  | VSDM 2.0 |  |  |  | KVDT |  | Element | K | L | T | Ausprägung |
-| Transformati FK | Name | K | L | T | Ausprägung | Priorität 2: | Coverage.payor[0].identifier | 1..1 | 9 | string |  |
+|  | **GESCHLECHT VSDM2.0** |  | **GESCHLECHT GEMÄß KVDT** |  | **ERLÄUTERUNG** | gender = „male“ | M |  | gender = „female“ | W |  |
+|  | **VSDM 2.0** |  |  |  | **KVDT** |  | **Element** | **K** | **L** | **T** | **Ausprägung** |
+| **Transformati FK** | **Name** | **K** | **L** | **T** | **Ausprägung** | **Priorität 2:** | Coverage.payor[0].identifier | 1..1 | 9 | string |  |
 | → 4111 | Kostentraegerkennung | 1..1 | 9 | N |  | Coverage.payor[0]. |  | 1..1 | 45 | string |  |
-| → 4134 | KostentraegerName | 1..1 | ≤ 45 | A |  | Priorität 1: | Coverage.payor[1].identifier | 1..1 | 9 | string |  |
+| → 4134 | KostentraegerName | 1..1 | ≤ 45 | A |  | **Priorität 1:** | Coverage.payor[1].identifier | 1..1 | 9 | string |  |
 | → | 4111 | Kostentraegerkennung | 1..1 | 9 | n |  | Coverage.payor[1]. |  |  | 1..1 | 45 |
 | string | → | 4134 | KostentraegerName | 1..1 | ≤ 45 | a |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -547,11 +547,11 @@ eistungsanspruch.extension:d auer.value[x].start eistungsanspruch.extension:d au
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-| GESCHLECHT VSDM2.0 | GESCHLECHT GEMÄß KVDT |  | ERLÄUTERUNG | gender = „male“ | M |  | gender = „female“ | W |  |  | VSDM 2.0 |
-|  |  | KVDT |  | Element | K | L | T | Ausprägung | Transformati | FK | Name |
-| K  L | T | Ausprägung | Priorität 2: | Coverage.payor[0].identifier | 1..1 | 9 | string |  | → | 4111 | Kostentraegerkennung |
+| **GESCHLECHT VSDM2.0** | **GESCHLECHT GEMÄß KVDT** |  | **ERLÄUTERUNG** | gender = „male“ | M |  | gender = „female“ | W |  |  | **VSDM 2.0** |
+|  |  | **KVDT** |  | **Element** | **K** | **L** | **T** | **Ausprägung** | **Transformati** | **FK** | **Name** |
+| **K  L** | **T** | **Ausprägung** | **Priorität 2:** | Coverage.payor[0].identifier | 1..1 | 9 | string |  | → | 4111 | Kostentraegerkennung |
 | 1..1 9 | N |  | Coverage.payor[0]. |  | 1..1 | 45 | string |  | → | 4134 | KostentraegerName |
-| 1..1  ≤ 45 | A |  | Priorität 1: | Coverage.payor[1].identifier | 1..1 | 9 | string |  | → |  | 4111 |
+| 1..1  ≤ 45 | A |  | **Priorität 1:** | Coverage.payor[1].identifier | 1..1 | 9 | string |  | → |  | 4111 |
 | Kostentraegerkennung | 1..1 | 9 | n |  | Coverage.payor[1]. |  |  | 1..1 | 45 | string |  |
 | → 4134 | KostentraegerName | 1..1 | ≤ 45 | a |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -564,39 +564,39 @@ eistungsanspruch.extension:d auer.value[x].start eistungsanspruch.extension:d au
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  | | | | |
 |  |  |  |  |  |  |  |  | | | | |
-| Priorität 2: | | | | | | | | | | | |
+| **Priorität 2:** | | | | | | | | | | | |
 | Coverage.payor[0].identifier | 1..1 | 9 | string |  | → | 4111 | Kostentraegerkennung | 1..1 | 9 | N |  |
 | Coverage.payor[0]. | 1..1 | 45 | string |  | → | 4134 | KostentraegerName | 1..1 | ≤ 45 | A |  |
-| Priorität 1: | | | | | | | | | | | |
+| **Priorität 1:** | | | | | | | | | | | |
 | Coverage.payor[1].identifier | 1..1 | 9 | string |  | → | 4111 | Kostentraegerkennung | 1..1 | 9 | n |  |
 | Coverage.payor[1]. | 1..1 | 45 | string |  | → | 4134 | KostentraegerName | 1..1 | ≤ 45 | a |  |
 
-Kostenträger [bundesweit] Informationen muss vorrangig zum Zwecke der Abrechnung/ Dokuerstellung und Formularausstellung verwendet werden, wenn der abrechnende Kostenträger nicht vorhanden ist. :IKNR display  Kostenträger [abrechnender Kostenträger] Informationen muss vorrangig zum Zwecke der Abrechnung/ Dokuerstellung und Formularausstellung verwendet werden. :IKNR display Die fehlende Angabe des Tages wird durch 00 wird durch 00 ersetzt. | GEBURTSDATUM VSDM2.0 | CODIERUNG GEMÄß KVDT | ERLÄUTERUNG |
+Kostenträger [bundesweit] Informationen muss vorrangig zum Zwecke der Abrechnung/ Dokuerstellung und Formularausstellung verwendet werden, wenn der abrechnende Kostenträger nicht vorhanden ist. :IKNR display  Kostenträger [abrechnender Kostenträger] Informationen muss vorrangig zum Zwecke der Abrechnung/ Dokuerstellung und Formularausstellung verwendet werden. :IKNR display Die fehlende Angabe des Tages wird durch 00 wird durch 00 ersetzt. | **GEBURTSDATUM VSDM2.0** | **CODIERUNG GEMÄß KVDT** | **ERLÄUTERUNG** |
 |---|---|---|
 | YYYY-MM-DD | YYYYMMDD |  |
 | YYYY-MM | YYYYMM00 | ersetzt. |
 | YYYY | YYYY0000 | Die fehlende Angabe des Monats und des Tages |
 
-| GESCHLECHT VSDM2.0 | GESCHLECHT GEMÄß KVDT | ERLÄUTERUNG |
-| Tabelle 1: Mapping VSDM2.0 in KVDTVSD520 | GEBURTSDATUM VSDM2.0 | CODIERUNG GEMÄß KVDT |
+\| **GESCHLECHT VSDM2.0** | **GESCHLECHT GEMÄß KVDT** | **ERLÄUTERUNG** |
+| Tabelle 1: Mapping VSDM2.0 in KVDTVSD520 | **GEBURTSDATUM VSDM2.0** | **CODIERUNG GEMÄß KVDT** |
 |---|---|---|
 | gender = „male“ | M |  |
 | gender = „female“ | W |  |
-| ERLÄUTERUNG  YYYY-MM-DD  YYYYMMDD | YYYY-MM | YYYYMM00 |
+| **ERLÄUTERUNG ** YYYY-MM-DD  YYYYMMDD | YYYY-MM | YYYYMM00 |
 | ersetzt.   YYYY  YYYY0000  Die fehlende Angabe des Monats und des Tages  Tabelle 2: Transformation Geburtsdatum VSDM2.0_KVDT |  |  |
 
 
 ---
 
-| Tabelle 3: Transformation Geschlecht VSDM2.0_KVDT |  | BESONDERE_PERSONENGRUPPE VSDM2.0 |
-| GESCHLECHT VSDM2.0 | GESCHLECHT GEMÄß KVDT | ERLÄUTERUNG |
+\| Tabelle 3: Transformation Geschlecht VSDM2.0_KVDT |  | **BESONDERE_PERSONENGRUPPE VSDM2.0** |
+| **GESCHLECHT VSDM2.0** | **GESCHLECHT GEMÄß KVDT** | **ERLÄUTERUNG** |
 |---|---|---|
-| CODIERUNG GEMÄß KVDT |  | BEDEUTUNG |
+| **CODIERUNG GEMÄß KVDT** |  | **BEDEUTUNG** |
 | [Element nicht vorhanden] | 00 | nicht vorhanden |
 | gender = „other“ und   gender.extension:other-amtlich  D“ | D |  |
 | gender = „other“ und   gender.extension:other-amtlich  X“ | X |  |
 
-| BESONDERE_PERSONENGRUPPE VSDM2.0 | CODIERUNG GEMÄß KVDT | BEDEUTUNG |
+| **BESONDERE_PERSONENGRUPPE VSDM2.0** | **CODIERUNG GEMÄß KVDT** | **BEDEUTUNG** |
 |---|---|---|
 | [Element nicht vorhanden] | 00 | nicht vorhanden |
 | 04 | 04 | BSHG (Bundessozialhilfegesetz) § 264 SGB V |
@@ -611,9 +611,9 @@ Krankenversicherungsrecht: - Personen mit Wohnsitz im Inland, Abrechnung nach Au
 
 ---
 
-| DMP-KENNZEICHEN VSDM2.0 | CODIERUNG GEMÄß KVDT | BEDEUTUNG |
-| DMP-KENNZEICHEN VSDM2.0 | CODIERUNG GEMÄß KVDT | BEDEUTUNG |
-| DMP-KENNZEICHEN VSDM2.0 | CODIERUNG GEMÄß KVDT | BEDEUTUNG |
+\| **DMP-KENNZEICHEN VSDM2.0** | **CODIERUNG GEMÄß KVDT** | **BEDEUTUNG** |
+\| **DMP-KENNZEICHEN VSDM2.0** | **CODIERUNG GEMÄß KVDT** | **BEDEUTUNG** |
+| **DMP-KENNZEICHEN VSDM2.0** | **CODIERUNG GEMÄß KVDT** | **BEDEUTUNG** |
 |---|---|---|
 | [Element nicht vorhanden] | 00 | nicht vorhanden oder   wenn bei mehrfacher Übertragung von DMP- |
 | 01 | 01 | Diabetes mellitus Typ 2 |
@@ -666,9 +666,9 @@ Krankenversicherungsrecht: - Personen mit Wohnsitz im Inland, Abrechnung nach Au
 
 ---
 
-| DMP-KENNZEICHEN VSDM2.0 | CODIERUNG GEMÄß KVDT | BEDEUTUNG |
-| DMP-KENNZEICHEN VSDM2.0 | CODIERUNG GEMÄß KVDT | BEDEUTUNG |
-| DMP-KENNZEICHEN VSDM2.0 | CODIERUNG GEMÄß KVDT | BEDEUTUNG |
+\| **DMP-KENNZEICHEN VSDM2.0** | **CODIERUNG GEMÄß KVDT** | **BEDEUTUNG** |
+\| **DMP-KENNZEICHEN VSDM2.0** | **CODIERUNG GEMÄß KVDT** | **BEDEUTUNG** |
+| **DMP-KENNZEICHEN VSDM2.0** | **CODIERUNG GEMÄß KVDT** | **BEDEUTUNG** |
 |---|---|---|
 | 05 und 03 | 35 | Asthma und KHK  02 und 01 |
 | 37 | Brustkrebs und Diabetes Typ 2 | 04 und 03 |
@@ -721,22 +721,22 @@ Krankenversicherungsrecht: - Personen mit Wohnsitz im Inland, Abrechnung nach Au
 
 ---
 
-| DMP-KENNZEICHEN VSDM2.0 | CODIERUNG GEMÄß KVDT | BEDEUTUNG |
-| DMP-KENNZEICHEN VSDM2.0 | CODIERUNG GEMÄß KVDT | BEDEUTUNG |
-| DMP-KENNZEICHEN VSDM2.0 | CODIERUNG GEMÄß KVDT | BEDEUTUNG |
+\| **DMP-KENNZEICHEN VSDM2.0** | **CODIERUNG GEMÄß KVDT** | **BEDEUTUNG** |
+\| **DMP-KENNZEICHEN VSDM2.0** | **CODIERUNG GEMÄß KVDT** | **BEDEUTUNG** |
+| **DMP-KENNZEICHEN VSDM2.0** | **CODIERUNG GEMÄß KVDT** | **BEDEUTUNG** |
 |---|---|---|
 | Transformationsvorschrift, wenn das DMP-Kennzeichen im VSDM2.0 4-mal vorkommt. | 02, 06, 01 und 03 | 52  Brustkrebs, COPD, Diabetes Typ 2 und KHK |
 | 05, 02, 01 und 03 | 53 | Asthma, Brustkrebs, Diabetes Typ 2 und KHK |
 | 05, 02, 04 und 03 | 56 | Asthma, Brustkrebs, Diabetes Typ 1 und KHK |
 | 02, 06, 04 und 03 | 58 | Brustkrebs, COPD, Diabetes Typ 1 und KHK |
-| Tabelle 5: Transformation DMP -Kennzeichen VSD M2.0 - KVDT |  | 2.2.2 |
-| 2.2.2.1 |  | VSD520 |
+| Tabelle 5: Transformation DMP -Kennzeichen VSD M2.0 - KVDT |  | **2.2.2** |
+| 2.2.2.1 |  | **VSD520** |
 |  |  |  |
-| KVDT |  | Feld |
-| K | L | T |
-| Ausprägung | Transformati | FK |
-| Name | K | L |
-| T | Ausprägung | Persönliche Versichertendaten (EF.PD) |
+| **KVDT** |  | **Feld** |
+| **K** | **L** | **T** |
+| **Ausprägung** | **Transformati** | **FK** |
+| **Name** | **K** | **L** |
+| **T** | **Ausprägung** | **Persönliche Versichertendaten (EF.PD)** |
 |  |  |  |
 |  |  |  |
 |  | | |
@@ -749,14 +749,14 @@ Krankenversicherungsrecht: - Personen mit Wohnsitz im Inland, Abrechnung nach Au
 | Asthma, Brustkrebs, Diabetes Typ 2 und KHK | 05, 02, 04 und 03 | 56 |
 | Asthma, Brustkrebs, Diabetes Typ 1 und KHK | 02, 06, 04 und 03 | 58 |
 | Brustkrebs, COPD, Diabetes Typ 1 und KHK | Tabelle 5: Transformation DMP -Kennzeichen VSD M2.0 - KVDT |  |
-| 2.2.2 | 2.2.2.1 |  |
-| VSD520 |  |  |
-|  | KVDT |  |
-| Feld | K | L |
-| T | | |
-| Ausprägung | Transformati | FK |
-| Name | K | L |
-| T | Ausprägung | Persönliche Versichertendaten (EF.PD) |
+| **2.2.2** | 2.2.2.1 |  |
+| **VSD520** |  |  |
+|  | **KVDT** |  |
+| **Feld** | **K** | **L** |
+| **T** | | |
+| **Ausprägung** | **Transformati** | **FK** |
+| **Name** | **K** | **L** |
+| **T** | **Ausprägung** | **Persönliche Versichertendaten (EF.PD)** |
 |  |  |  |
 |  |  |  |
 |  | UC_PersoenlicheVersichertendatenXML |  |
@@ -772,14 +772,14 @@ Krankenversicherungsrecht: - Personen mit Wohnsitz im Inland, Abrechnung nach Au
 | 05, 02, 04 und 03 | 56 | Asthma, Brustkrebs, Diabetes Typ 1 und KHK |
 | 02, 06, 04 und 03 | 58 | Brustkrebs, COPD, Diabetes Typ 1 und KHK |
 
-| VSD520 |  | KVDT | | | | | | | | | |
-| DMP-KENNZEICHEN VSDM2.0 | CODIERUNG GEMÄß KVDT | BEDEUTUNG | | | | | | | | | |
-| CODIERUNG GEMÄß KVDT | BEDEUTUNG | Transformationsvorschrift, wenn das DMP-Kennzeichen im VSDM2.0 4-mal vorkommt.  02, 06, 01 und 03 | | | | | | | | | |
-| Feld | K | L | T | Ausprägung | Transformati | FK | Name | K | L | T | Ausprägung |
-| Transformationsvorschrift, wenn das DMP-Kennzeichen im VSDM2.0 4-mal vorkommt.  02, 06, 01 und 03 | 52 | Brustkrebs, COPD, Diabetes Typ 2 und KHK | 05, 02, 01 und 03 | 53 | Asthma, Brustkrebs, Diabetes Typ 2 und KHK | 05, 02, 04 und 03 | 56 | Asthma, Brustkrebs, Diabetes Typ 1 und KHK | 02, 06, 04 und 03 | 58 | Brustkrebs, COPD, Diabetes Typ 1 und KHK |
+\| **VSD520** |  | **KVDT** | | | | | | | | | |
+\| **DMP-KENNZEICHEN VSDM2.0** | **CODIERUNG GEMÄß KVDT** | **BEDEUTUNG** | | | | | | | | | |
+\| **CODIERUNG GEMÄß KVDT** | **BEDEUTUNG** | Transformationsvorschrift, wenn das DMP-Kennzeichen im VSDM2.0 4-mal vorkommt.  02, 06, 01 und 03 | | | | | | | | | |
+\| **Feld** | **K** | **L** | **T** | **Ausprägung** | **Transformati** | **FK** | **Name** | **K** | **L** | **T** | **Ausprägung** |
+\| Transformationsvorschrift, wenn das DMP-Kennzeichen im VSDM2.0 4-mal vorkommt.  02, 06, 01 und 03 | 52 | Brustkrebs, COPD, Diabetes Typ 2 und KHK | 05, 02, 01 und 03 | 53 | Asthma, Brustkrebs, Diabetes Typ 2 und KHK | 05, 02, 04 und 03 | 56 | Asthma, Brustkrebs, Diabetes Typ 1 und KHK | 02, 06, 04 und 03 | 58 | Brustkrebs, COPD, Diabetes Typ 1 und KHK |
 | 52  Brustkrebs, COPD, Diabetes Typ 2 und KHK | 05, 02, 01 und 03 | 53 | Asthma, Brustkrebs, Diabetes Typ 2 und KHK | 05, 02, 04 und 03 | 56 | Asthma, Brustkrebs, Diabetes Typ 1 und KHK | 02, 06, 04 und 03 | 58 | Brustkrebs, COPD, Diabetes Typ 1 und KHK | Tabelle 5: Transformation DMP -Kennzeichen VSD M2.0 - KVDT |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| Persönliche Versichertendaten (EF.PD) |  |  |  |  |  |  |  | | | | |
+| **Persönliche Versichertendaten (EF.PD)** |  |  |  |  |  |  |  | | | | |
 | UC_PersoenlicheVersichertendatenXML |  |  |  |  |  |  |  | | | | |
 | CDMVersion | „5.2.0“ | → | 3006 | CDMVersion | 0..1 | 5..11 | a |  | | | |
 | /Versicherter | 1..1 |  |  |  |  |  |  |  |  |  |  |
@@ -795,8 +795,8 @@ Krankenversicherungsrecht: - Personen mit Wohnsitz im Inland, Abrechnung nach Au
 | //Titel | 0..1 | 0..20 | a |  | → | 3104 | Titel | 0..1 | ≤ 20 | a |  |
 | //PostfachAdresse | 0..1 |  |  |  |  |  |  |  |  |  |  |
 | ///Postleitzahl | 0..1 | 1..10 | a |  | → | 3121 | PostfachPLZ | 0..1 | ≤ 10 | a |  |
-| Tabelle 5: Transformation DMP -Kennzeichen VSD M2.0 - KVDT |  | 2.2.2 | 2.2.2.1 |  | VSD520 |  |  |  | KVDT |  | Feld |
-| K | L | T | Ausprägung | Transformati | FK | Name | K | L | T | Ausprägung | Persönliche Versichertendaten (EF.PD) |
+| Tabelle 5: Transformation DMP -Kennzeichen VSD M2.0 - KVDT |  | **2.2.2** | 2.2.2.1 |  | **VSD520** |  |  |  | **KVDT** |  | **Feld** |
+| **K** | **L** | **T** | **Ausprägung** | **Transformati** | **FK** | **Name** | **K** | **L** | **T** | **Ausprägung** | **Persönliche Versichertendaten (EF.PD)** |
 |  |  |  |  |  |  |  | UC_PersoenlicheVersichertendatenXML |  |  |  |  |
 |  |  |  | CDMVersion | „5.2.0“ | → | 3006 | CDMVersion | 0..1 | 5..11 | a |  |
 | /Versicherter | 1..1 |  |  |  |  |  |  |  |  |  |  |
@@ -822,9 +822,9 @@ Krankenversicherungsrecht: - Personen mit Wohnsitz im Inland, Abrechnung nach Au
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-| 2.2.2 | 2.2.2.1 |  | VSD520 |  |  |  | KVDT |  | Feld | K | L |
-| T | Ausprägung | Transformati | FK | Name | K | L | T | | | | |
-| Ausprägung | Persönliche Versichertendaten (EF.PD) |  |  |  |  |  |  | | | | |
+| **2.2.2** | 2.2.2.1 |  | **VSD520** |  |  |  | **KVDT** |  | **Feld** | **K** | **L** |
+| **T** | **Ausprägung** | **Transformati** | **FK** | **Name** | **K** | **L** | **T** | | | | |
+| **Ausprägung** | **Persönliche Versichertendaten (EF.PD)** |  |  |  |  |  |  | | | | |
 |  | UC_PersoenlicheVersichertendatenXML |  |  |  |  |  |  |  | | | |
 | CDMVersion | „5.2.0“ | → | 3006 | CDMVersion | 0..1 | 5..11 | a |  | /Versicherter | 1..1 |  |
 |  |  |  |  |  |  |  |  |  | /Versicherten_ID | 1..1 | 0..10 |
@@ -852,12 +852,12 @@ Einlesen der eGK VSD-Version 5.2.0 in KVDT-Referenz-Design mappen
 
 ---
 
-| → | 3122  PostfachOrt | 0..1  ≤ 40 | | | | | | | | | |
-| VSD520 |  | KVDT | | | | | | | | | |
-|  | KVDT | Feld | | | | | | | | | |
-| a | ///Postfach | 1..1 | 0..8 | a |  | → | 3123 | Postfach | 0..1 | ≤ 8 | a |
-| Feld | K | L | T | Ausprägung | Transformati | FK | Name | K | L | T | Ausprägung |
-| K  L | T | Ausprägung | Transformati | FK | Name | K | L | T | Ausprägung | ///Ort | 1..1 |
+\| → | 3122  PostfachOrt | 0..1  ≤ 40 | | | | | | | | | |
+\| **VSD520** |  | **KVDT** | | | | | | | | | |
+\|  | **KVDT** | **Feld** | | | | | | | | | |
+\| a | ///Postfach | 1..1 | 0..8 | a |  | → | 3123 | Postfach | 0..1 | ≤ 8 | a |
+\| **Feld** | **K** | **L** | **T** | **Ausprägung** | **Transformati** | **FK** | **Name** | **K** | **L** | **T** | **Ausprägung** |
+| **K  L** | **T** | **Ausprägung** | **Transformati** | **FK** | **Name** | **K** | **L** | **T** | **Ausprägung** | ///Ort | 1..1 |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | ///Land | 1..1 |  |  |  |  |  | | | | |
 |  |  |  |  |  | ////Wohnsitzlaendercode | 1..1 | 0..3 | | | | |
@@ -870,7 +870,7 @@ Einlesen der eGK VSD-Version 5.2.0 in KVDT-Referenz-Design mappen
 | Hausnummer | 0..1 | ≤ 9 | a |  | ///Anschriftenzusatz | 0..1 | 0..40 | a |  | → | 3115 |
 | Anschriftenzusatz | 0..1 | ≤ 40 | a |  | ///Land | 1..1 |  |  |  |  |  |
 |  |  |  |  |  | ////Wohnsitzlaendercode | 1..1 | 0..3 | a | Anl. 8, DEÜV | → | 3114 |
-| Wohnsitzlaendercode | 0..1 | ≤ 3 | a | Anl. 8, DEÜV | Geschützte Versichertendaten (EF.GVD) |  |  |  |  |  |  |
+| Wohnsitzlaendercode | 0..1 | ≤ 3 | a | Anl. 8, DEÜV | **Geschützte Versichertendaten (EF.GVD)** |  |  |  |  |  |  |
 |  | UC_GeschuetzteVersichertendatenXML |  |  |  |  |  |  |  | CDMVersion | „5.2.0“ | n/a |
 |  |  |  |  |  |  | /BesonderePersonengruppe | 0..1 | 2 | n | 4,6,7,8,9 | Codierung |
 |  |  | 4131 | BesonderePersonengruppe | 1..1 | 2 | a | 00, 04, 06, 07, 08, 09 | /DMP_Kennzeichnung | 0..1 | 1..2 | n |
@@ -887,7 +887,7 @@ Einlesen der eGK VSD-Version 5.2.0 in KVDT-Referenz-Design mappen
 | ///Anschriftenzusatz | 0..1 | 0..40 | a |  | → | 3115 | Anschriftenzusatz | 0..1 | ≤ 40 | a |  |
 | ///Land | 1..1 |  |  |  |  |  |  |  |  |  |  |
 | ////Wohnsitzlaendercode | 1..1 | 0..3 | a | Anl. 8, DEÜV | → | 3114 | Wohnsitzlaendercode | 0..1 | ≤ 3 | a | Anl. 8, DEÜV |
-| Geschützte Versichertendaten (EF.GVD) |  |  |  |  |  |  |  | | | | |
+| **Geschützte Versichertendaten (EF.GVD)** |  |  |  |  |  |  |  | | | | |
 | UC_GeschuetzteVersichertendatenXML |  |  |  |  |  |  |  | | | | |
 | CDMVersion | „5.2.0“ | n/a |  |  |  |  |  |  | | | |
 | /BesonderePersonengruppe | 0..1 | 2 | n | 4,6,7,8,9 | Codierung | 4131 | BesonderePersonengruppe | 1..1 | 2 | a | 00, 04, 06, 07, 08, 09 |
@@ -914,7 +914,7 @@ Einlesen der eGK VSD-Version 5.2.0 in KVDT-Referenz-Design mappen
 |  | → | 3109 | Hausnummer | 0..1 | ≤ 9 | a |  | ///Anschriftenzusatz | 0..1 | 0..40 | a |
 |  | → | 3115 | Anschriftenzusatz | 0..1 | ≤ 40 | a |  | ///Land | 1..1 |  |  |
 |  |  |  |  |  |  |  |  | ////Wohnsitzlaendercode | 1..1 | 0..3 | a |
-| Anl. 8, DEÜV | → | 3114 | Wohnsitzlaendercode | 0..1 | ≤ 3 | a | Anl. 8, DEÜV | Geschützte Versichertendaten (EF.GVD) |  |  |  |
+| Anl. 8, DEÜV | → | 3114 | Wohnsitzlaendercode | 0..1 | ≤ 3 | a | Anl. 8, DEÜV | **Geschützte Versichertendaten (EF.GVD)** |  |  |  |
 |  |  |  |  | UC_GeschuetzteVersichertendatenXML |  |  |  |  |  |  |  |
 | CDMVersion | „5.2.0“ | n/a |  |  |  |  |  |  | /BesonderePersonengruppe | 0..1 | 2 |
 | n | 4,6,7,8,9 | Codierung |  |  | 4131 | BesonderePersonengruppe | 1..1 | 2 | a | 00, 04, 06, 07, 08, 09 | /DMP_Kennzeichnung |
@@ -932,12 +932,12 @@ Einlesen der eGK VSD-Version 5.2.0 in KVDT-Referenz-Design mappen
 
 ---
 
-| 4  a | [0-1]{4}  n/a |  | | | | | | | | | |
-| Tabelle 6: Mapping VSD520 in KVDTVSD520 | VSD520 |  | | | | | | | | | |
-| VSD520 |  | KVDT | | | | | | | | | |
-|  |  |  | Allgemeine Versichertendaten (EF.VD) |  |  |  |  |  |  |  | UC_AllgemeineVersicherungsdatenXML |
-| KVDT |  | Feld | K | L | T | Ausprägung | Transformati | FK | Name | K | L |
-| Feld | K | L | T | Ausprägung | Transformati | FK | Name | K | L | T | Ausprägung |
+\| 4  a | [0-1]{4}  n/a |  | | | | | | | | | |
+\| Tabelle 6: Mapping VSD520 in KVDTVSD520 | **VSD520** |  | | | | | | | | | |
+\| **VSD520** |  | **KVDT** | | | | | | | | | |
+\|  |  |  | **Allgemeine Versichertendaten (EF.VD)** |  |  |  |  |  |  |  | UC_AllgemeineVersicherungsdatenXML |
+\| **KVDT** |  | **Feld** | **K** | **L** | **T** | **Ausprägung** | **Transformati** | **FK** | **Name** | **K** | **L** |
+| **Feld** | **K** | **L** | **T** | **Ausprägung** | **Transformati** | **FK** | **Name** | **K** | **L** | **T** | **Ausprägung** |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  |  |  |  |  |  |  | CDMVersion | | | | |
 | „5.2.0“ | n/a |  |  |  |  |  |  | | | | |
@@ -955,8 +955,8 @@ Einlesen der eGK VSD-Version 5.2.0 in KVDT-Referenz-Design mappen
 | n | 0,1 | n/a |  |  |  |  |  |  | //Versicherungsschutz | 1..1 |  |
 |  |  |  |  |  |  |  |  |  | ///Beginn | 1..1 | 8 |
 | n | YYYYMMDD | → | 4133 | Versicherungsschutz Beginn | 0..1 | 8 | n | YYYYMMDD | ///Ende | 0..1 | 8 |
-| T | Ausprägung | //Art | 0..1 | 4 | a | [0-1]{4} | n/a |  |  |  |  |
-|  |  | Allgemeine Versichertendaten (EF.VD) |  |  |  |  |  |  |  | UC_AllgemeineVersicherungsdatenXML |  |
+| **T** | **Ausprägung** | //Art | 0..1 | 4 | a | [0-1]{4} | n/a |  |  |  |  |
+|  |  | **Allgemeine Versichertendaten (EF.VD)** |  |  |  |  |  |  |  | UC_AllgemeineVersicherungsdatenXML |  |
 |  |  |  |  |  |  | CDMVersion | „5.2.0“ | n/a |  |  |  |
 |  |  |  | /Versicherter | 1..1 |  |  |  |  |  |  |  |
 |  |  |  | //Zusatzinfos | 1..1 |  |  |  |  |  |  |  |
@@ -983,7 +983,7 @@ Einlesen der eGK VSD-Version 5.2.0 in KVDT-Referenz-Design mappen
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | //Art | 0..1 | 4 | a | [0-1]{4} | n/a |  |  |  |  |  |  |
-| Allgemeine Versichertendaten (EF.VD) |  |  |  |  |  |  |  | | | | |
+| **Allgemeine Versichertendaten (EF.VD)** |  |  |  |  |  |  |  | | | | |
 | UC_AllgemeineVersicherungsdatenXML |  |  |  |  |  |  |  | | | | |
 | CDMVersion | „5.2.0“ | n/a |  |  |  |  |  |  | | | |
 | /Versicherter | 1..1 |  |  |  |  |  |  |  |  |  |  |
@@ -1012,7 +1012,7 @@ Einlesen der eGK VSD-Version 5.2.0 in KVDT-Referenz-Design mappen
 
 ---
 
-| BESONDERE_PERSONENGRUPPE VSD | CODIERUNG GEMÄß KVDT | BEDEUTUNG |
+| **BESONDERE_PERSONENGRUPPE VSD** | **CODIERUNG GEMÄß KVDT** | **BEDEUTUNG** |
 |---|---|---|
 | [Element nicht vorhanden] | 00 | nicht vorhanden |
 | 4 | 04 | BSHG (Bundessozialhilfegesetz) § 264 SGB V |
@@ -1021,9 +1021,9 @@ Einlesen der eGK VSD-Version 5.2.0 in KVDT-Referenz-Design mappen
 | 8 | 08 | SVA-Kennzeichnung, pauschal |
 | 9 | 09 | Empfänger von Gesundheitsleistungen nach den §§ 4 und 6 des |
 
-| DMP-KENNZEICHEN VSD | CODIERUNG GEMÄß KVDT | BEDEUTUNG |
-| BESONDERE_PERSONENGRUPPE VSD | CODIERUNG GEMÄß KVDT | BEDEUTUNG |
-| BESONDERE_PERSONENGRUPPE VSD | CODIERUNG GEMÄß KVDT | BEDEUTUNG |
+\| **DMP-KENNZEICHEN VSD** | **CODIERUNG GEMÄß KVDT** | **BEDEUTUNG** |
+\| **BESONDERE_PERSONENGRUPPE VSD** | **CODIERUNG GEMÄß KVDT** | **BEDEUTUNG** |
+| **BESONDERE_PERSONENGRUPPE VSD** | **CODIERUNG GEMÄß KVDT** | **BEDEUTUNG** |
 |---|---|---|
 | [Element nicht vorhanden] | 00 | nicht vorhanden |
 | 1 | 01 | Diabetes mellitus Typ 2 |
@@ -1044,8 +1044,8 @@ Einlesen der eGK VSD-Version 5.2.0 in KVDT-Referenz-Design mappen
 | 8 | 08 | SVA-Kennzeichnung, pauschal |
 | 9 | 09 | Empfänger von Gesundheitsleistungen nach den §§ 4 und 6 des |
 | Tabelle 7: Transformation BesonderePersonengruppe VSD |  |  |
-| DMP-KENNZEICHEN VSD |  | CODIERUNG GEMÄß KVDT |
-|  | BEDEUTUNG | [Element nicht vorhanden] |
+| **DMP-KENNZEICHEN VSD** |  | **CODIERUNG GEMÄß KVDT** |
+|  | **BEDEUTUNG** | [Element nicht vorhanden] |
 | 00 | nicht vorhanden | 1 |
 | 01 | Diabetes mellitus Typ 2 | 2 |
 | 02 | Brustkrebs | 3 |
@@ -1066,16 +1066,16 @@ Einlesen der eGK VSD-Version 5.2.0 in KVDT-Referenz-Design mappen
 | 8 | 08 | SVA-Kennzeichnung, pauschal |
 | 9 | 09 | Empfänger von Gesundheitsleistungen nach den §§ 4 und 6 des |
 | Tabelle 7: Transformation BesonderePersonengruppe VSD |  |  |
-| DMP-KENNZEICHEN VSD |  | CODIERUNG GEMÄß KVDT |
-|  | BEDEUTUNG | [Element nicht vorhanden] |
+| **DMP-KENNZEICHEN VSD** |  | **CODIERUNG GEMÄß KVDT** |
+|  | **BEDEUTUNG** | [Element nicht vorhanden] |
 
 520 VSD520 Krankenversicherungsrecht: - Personen mit Wohnsitz im Inland, Abrechnung nach Aufwand Asylbewerberleistungsgesetzes (AsylbLG) 520 520 VSD520
 
 ---
 
-| COPD, Diabetes Typ 2 und KHK 35 | 35  Asthma und KHK | 36  36 |
-| DMP-KENNZEICHEN VSD | CODIERUNG GEMÄß KVDT | BEDEUTUNG |
-| DMP-KENNZEICHEN VSD | CODIERUNG GEMÄß KVDT | BEDEUTUNG |
+\| COPD, Diabetes Typ 2 und KHK 35 | 35  Asthma und KHK | 36  36 |
+\| **DMP-KENNZEICHEN VSD** | **CODIERUNG GEMÄß KVDT** | **BEDEUTUNG** |
+| **DMP-KENNZEICHEN VSD** | **CODIERUNG GEMÄß KVDT** | **BEDEUTUNG** |
 |---|---|---|
 | Asthma, Diabetes Typ 2 und KHK | 37 | 37 |
 | Brustkrebs und Diabetes Typ 2 | 38 | 38 |
@@ -1125,15 +1125,15 @@ Einlesen der eGK VSD-Version 5.2.0 in KVDT-Referenz-Design mappen
 
 ---
 
-| Asthma, Brustkrebs, Diabetes Typ 1 und KHK 57 | 57  Brustkrebs, COPD und Diabetes Typ 1 | 58  58 |
-| DMP-KENNZEICHEN VSD | CODIERUNG GEMÄß KVDT | BEDEUTUNG |
-| DMP-KENNZEICHEN VSD | CODIERUNG GEMÄß KVDT | BEDEUTUNG |
+\| Asthma, Brustkrebs, Diabetes Typ 1 und KHK 57 | 57  Brustkrebs, COPD und Diabetes Typ 1 | 58  58 |
+\| **DMP-KENNZEICHEN VSD** | **CODIERUNG GEMÄß KVDT** | **BEDEUTUNG** |
+| **DMP-KENNZEICHEN VSD** | **CODIERUNG GEMÄß KVDT** | **BEDEUTUNG** |
 |---|---|---|
 | Brustkrebs, COPD, Diabetes Typ 1 und KHK | Tabelle 8: Transformation DMP-Kennzeichen VSD |  |
-| 2.2.3 | Seitdem 01.01.2015 hat die KVK ihre Gültigkeit als Nachweis des Leistungsanspruchs in der GKV verloren und darf somit nur noch im Ber | 2.2.3.1 |
-|  | VDT, KVK-VERSION 2.08 |  |
-|  |  | KVDT |
-|  | Feld | K |
+| **2.2.3** | Seitdem 01.01.2015 hat die KVK ihre Gültigkeit als Nachweis des Leistungsanspruchs in der GKV verloren und darf somit nur noch im Ber | 2.2.3.1 |
+|  | **VDT, KVK-VERSION 2.08** |  |
+|  |  | **KVDT** |
+|  | **Feld** | K |
 | L | T | Ausprägung |
 | Transformation | FK | Name |
 | K | L | T |
@@ -1150,11 +1150,11 @@ Einlesen der eGK VSD-Version 5.2.0 in KVDT-Referenz-Design mappen
 | 56 | 56 | Asthma, Brustkrebs, Diabetes Typ 1 und KHK |
 | 57 | 57 | Brustkrebs, COPD und Diabetes Typ 1 |
 | 58 | 58 | Brustkrebs, COPD, Diabetes Typ 1 und KHK |
-| Tabelle 8: Transformation DMP-Kennzeichen VSD |  | 2.2.3 |
+| Tabelle 8: Transformation DMP-Kennzeichen VSD |  | **2.2.3** |
 | Seitdem 01.01.2015 hat die KVK ihre Gültigkeit als Nachweis des Leistungsanspruchs in der GKV verloren und darf somit nur noch im Ber | 2.2.3.1 |  |
-| VDT, KVK-VERSION 2.08 |  |  |
-|  | KVDT |  |
-| Feld | K | L |
+| **VDT, KVK-VERSION 2.08** |  |  |
+|  | **KVDT** |  |
+| **Feld** | K | L |
 | T | Ausprägung | Transformation |
 | FK | Name | K |
 | L | T | Ausprägung |
@@ -1173,11 +1173,11 @@ Einlesen der eGK VSD-Version 5.2.0 in KVDT-Referenz-Design mappen
 | 57 | 57 | Brustkrebs, COPD und Diabetes Typ 1 |
 | 58 | 58 | Brustkrebs, COPD, Diabetes Typ 1 und KHK |
 
-| VDT, KVK-VERSION 2.08 |  | KVDT | | | | | | | | | |
-| DMP-KENNZEICHEN VSD | CODIERUNG GEMÄß KVDT | BEDEUTUNG | | | | | | | | | |
-| DMP-KENNZEICHEN VSD | CODIERUNG GEMÄß KVDT | BEDEUTUNG | | | | | | | | | |
+\| **VDT, KVK-VERSION 2.08** |  | **KVDT** | | | | | | | | | |
+\| **DMP-KENNZEICHEN VSD** | **CODIERUNG GEMÄß KVDT** | **BEDEUTUNG** | | | | | | | | | |
+| **DMP-KENNZEICHEN VSD** | **CODIERUNG GEMÄß KVDT** | **BEDEUTUNG** | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| Feld | K | L | T | Ausprägung | Transformation | FK | Name | K | L | T | Ausprägung |
+| **Feld** | K | L | T | Ausprägung | Transformation | FK | Name | K | L | T | Ausprägung |
 |  |  |  |  |  | n/a | 3006 | CDMVersion | 0..1 | 5..11 | a |  |
 | Versichertennummer | 1..1 | 6..12 | n |  | → | 3105 | Versichertennummer | 0..1 | 6..12 | n |  |
 |  |  |  |  |  | n/a | 3119 | Versicherten_ID | 0..1 | 10 | a |  |
@@ -1188,8 +1188,8 @@ Einlesen der eGK VSD-Version 5.2.0 in KVDT-Referenz-Design mappen
 |  |  |  |  |  | n/a | 3120 | Vorsatzwort | 0..1 | ≤ 20 | a | Anl. 6, DEÜV |
 | 50  50 | Asthma, Brustkrebs und KHK | 51 | 51 | Brustkrebs, COPD und KHK | 52 | 52 | Brustkrebs, COPD, Diabetes Typ 2 und KHK | 53 | 53 | Asthma, Brustkrebs, Diabetes Typ 2 und KHK | 54 |
 | 54 | Brustkrebs, Diabetes Typ 1 und KHK | 55 | 55 | Asthma, Brustkrebs und Diabetes Typ 1 | 56 | 56 | Asthma, Brustkrebs, Diabetes Typ 1 und KHK | 57 | 57 | Brustkrebs, COPD und Diabetes Typ 1 | 58 |
-| 58 | Brustkrebs, COPD, Diabetes Typ 1 und KHK | Tabelle 8: Transformation DMP-Kennzeichen VSD |  | 2.2.3 | Seitdem 01.01.2015 hat die KVK ihre Gültigkeit als Nachweis des Leistungsanspruchs in der GKV verloren und darf somit nur noch im Ber | 2.2.3.1 |  | VDT, KVK-VERSION 2.08 |  |  |  |
-| KVDT |  | Feld | K | L | T | Ausprägung | Transformation | FK | Name | K | L |
+| 58 | Brustkrebs, COPD, Diabetes Typ 1 und KHK | Tabelle 8: Transformation DMP-Kennzeichen VSD |  | **2.2.3** | Seitdem 01.01.2015 hat die KVK ihre Gültigkeit als Nachweis des Leistungsanspruchs in der GKV verloren und darf somit nur noch im Ber | 2.2.3.1 |  | **VDT, KVK-VERSION 2.08** |  |  |  |
+| **KVDT** |  | **Feld** | K | L | T | Ausprägung | Transformation | FK | Name | K | L |
 | T | Ausprägung |  |  |  |  |  | n/a | 3006 | CDMVersion | 0..1 | 5..11 |
 | a |  | Versichertennummer | 1..1 | 6..12 | n |  | → | 3105 | Versichertennummer | 0..1 | 6..12 |
 | n |  |  |  |  |  |  | n/a | 3119 | Versicherten_ID | 0..1 | 10 |
@@ -1207,15 +1207,15 @@ Einlesen der eGK VSD-Version 5.2.0 in KVDT-Referenz-Design mappen
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 50 | 50 | Asthma, Brustkrebs und KHK | 51 | 51 | Brustkrebs, COPD und KHK | 52 | 52 | Brustkrebs, COPD, Diabetes Typ 2 und KHK | 53 | 53 | Asthma, Brustkrebs, Diabetes Typ 2 und KHK |
 | 54 | 54 | Brustkrebs, Diabetes Typ 1 und KHK | 55 | 55 | Asthma, Brustkrebs und Diabetes Typ 1 | 56 | 56 | Asthma, Brustkrebs, Diabetes Typ 1 und KHK | 57 | 57 | Brustkrebs, COPD und Diabetes Typ 1 |
-| 58 | 58 | Brustkrebs, COPD, Diabetes Typ 1 und KHK | Tabelle 8: Transformation DMP-Kennzeichen VSD |  | 2.2.3 | Seitdem 01.01.2015 hat die KVK ihre Gültigkeit als Nachweis des Leistungsanspruchs in der GKV verloren und darf somit nur noch im Ber | 2.2.3.1 |  | VDT, KVK-VERSION 2.08 |  |  |
+| 58 | 58 | Brustkrebs, COPD, Diabetes Typ 1 und KHK | Tabelle 8: Transformation DMP-Kennzeichen VSD |  | **2.2.3** | Seitdem 01.01.2015 hat die KVK ihre Gültigkeit als Nachweis des Leistungsanspruchs in der GKV verloren und darf somit nur noch im Ber | 2.2.3.1 |  | **VDT, KVK-VERSION 2.08** |  |  |
 
 520 VSD520 520 Einlesen der KVK eich der Sonstigen Kostenträger verarbeitet werden. KVK in KVDT-Referenz-Design mappen VSD520 3105
 
 ---
 
-|  |  | Postleitzahl | | | | | | | | | |
-| VDT, KVK-VERSION 2.08 |  | KVDT | | | | | | | | | |
-| VDT, KVK-VERSION 2.08 |  | KVDT | | | | | | | | | |
+\|  |  | Postleitzahl | | | | | | | | | |
+\| **VDT, KVK-VERSION 2.08** |  | **KVDT** | | | | | | | | | |
+| **VDT, KVK-VERSION 2.08** |  | **KVDT** | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 1..1  4..7 | a |  | → | 3121 | PostfachPLZ | 0..1 | ≤ 10 | a |  | Ortsname | 1..1 |
 | 2..22 | a |  | → | 3122 | PostfachOrt | 0..1 | ≤ 40 | a |  | Straßenname & Hausnummer | 0..1 |
@@ -1253,13 +1253,13 @@ VSD520 & Hausnummer, ‚Postfach‘) Länge(erstes Leerzeichen v. re)  liefert g
 
 ---
 
-| 1..1  ≤ 45 | a | Tabelle 9: Mapping KVK in KVDT | | | | | | | | | |
-| VDT, KVK-VERSION 2.08 |  | KVDT | | | | | | | | | |
-| VDT, KVK-VERSION 2.08 |  | KVDT | | | | | | | | | |
+\| 1..1  ≤ 45 | a | Tabelle 9: Mapping KVK in KVDT | | | | | | | | | |
+\| **VDT, KVK-VERSION 2.08** |  | **KVDT** | | | | | | | | | |
+| **VDT, KVK-VERSION 2.08** |  | **KVDT** | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| KVK-CODIERUNG |  | CODIERUNG GEMÄß KVDT | [kein Wert vorhanden] | 00 | M - Diabetes mellitus Typ 2 ( | 01 | A - Brustkrebs ( | 02 | K - Koronare Herzkrankheit ( | 03 | E - Diabetes mellitus Typ 1 ( |
+| **KVK-CODIERUNG** |  | **CODIERUNG GEMÄß KVDT** | [kein Wert vorhanden] | 00 | M - Diabetes mellitus Typ 2 ( | 01 | A - Brustkrebs ( | 02 | K - Koronare Herzkrankheit ( | 03 | E - Diabetes mellitus Typ 1 ( |
 | 04 | D - Asthma bronchiale ( | 05 | S - COPD ( | 06 | X - Diabetes mellitus Typ 2 ( | 01 | C - Brustkrebs ( | 02 | L - Koronare Herzkrankheit ( | 03 | N - Diabetes mellitus Typ 1 ( |
-| 04 | F - Asthma bronchiale ( | 05 | P - COPD ( | 06 | Tabelle 10: Transformation DMP -Kennzeichen |  |  | KVK-CODIERUNG |  | CODIERUNG GEMÄß KVDT | [kein Wert vorhanden] |
+| 04 | F - Asthma bronchiale ( | 05 | P - COPD ( | 06 | Tabelle 10: Transformation DMP -Kennzeichen |  |  | **KVK-CODIERUNG** |  | **CODIERUNG GEMÄß KVDT** | [kein Wert vorhanden] |
 | 00 |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -1269,10 +1269,10 @@ VSD520 & Hausnummer, ‚Postfach‘) Länge(erstes Leerzeichen v. re)  liefert g
 | Gültigkeitsdatum  1..1 | 4 | n | MMJJ | JJJJMMTT (Monatsende) | 4110 | Versicherungsschutz Ende | 0..1 | 8 | n | JJJJMMTT | Krankenkassennummer |
 | 1..1 | 7 | n |  | concat(‚10‘, Krankenkassen | 4111 | Kostentraegerkennung | 1..1 | 9 | n |  | Krankenkassenname |
 | 1..1 | 2..28 | a |  | → | 4134 | KostentraegerName | 1..1 | ≤ 45 | a |  | Tabelle 9: Mapping KVK in KVDT |
-|  |  | KVK-CODIERUNG |  | CODIERUNG GEMÄß KVDT | [kein Wert vorhanden] | 00 | M - Diabetes mellitus Typ 2 ( | 01 | A - Brustkrebs ( | 02 | K - Koronare Herzkrankheit ( |
+|  |  | **KVK-CODIERUNG** |  | **CODIERUNG GEMÄß KVDT** | [kein Wert vorhanden] | 00 | M - Diabetes mellitus Typ 2 ( | 01 | A - Brustkrebs ( | 02 | K - Koronare Herzkrankheit ( |
 | 03 | E - Diabetes mellitus Typ 1 ( | 04 | D - Asthma bronchiale ( | 05 | S - COPD ( | 06 | X - Diabetes mellitus Typ 2 ( | 01 | C - Brustkrebs ( | 02 | L - Koronare Herzkrankheit ( |
-| 03 | N - Diabetes mellitus Typ 1 ( | 04 | F - Asthma bronchiale ( | 05 | P - COPD ( | 06 | Tabelle 10: Transformation DMP -Kennzeichen |  |  | KVK-CODIERUNG |  |
-| CODIERUNG GEMÄß KVDT | [kein Wert vorhanden] | 00 |  |  |  |  |  |  |  |  |  |
+| 03 | N - Diabetes mellitus Typ 1 ( | 04 | F - Asthma bronchiale ( | 05 | P - COPD ( | 06 | Tabelle 10: Transformation DMP -Kennzeichen |  |  | **KVK-CODIERUNG** |  |
+| **CODIERUNG GEMÄß KVDT** | [kein Wert vorhanden] | 00 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -1289,7 +1289,7 @@ VSD520 & Hausnummer, ‚Postfach‘) Länge(erstes Leerzeichen v. re)  liefert g
 | Krankenkassennummer | 1..1 | 7 | n |  | concat(‚10‘, Krankenkassen | 4111 | Kostentraegerkennung | 1..1 | 9 | n |  |
 | Krankenkassenname | 1..1 | 2..28 | a |  | → | 4134 | KostentraegerName | 1..1 | ≤ 45 | a |  |
 
-RK 1)  RK 1)  RK 9)  RK 9) VSD520  RK 1)  RK 9)  RK 1)  RK 1)  RK 1)  RK 9)  RK 9)  RK 9) nummer) VSD520 VSD520 VSD520| KVK-CODIERUNG | CODIERUNG GEMÄß KVDT |
+RK 1)  RK 1)  RK 9)  RK 9) VSD520  RK 1)  RK 9)  RK 1)  RK 1)  RK 1)  RK 9)  RK 9)  RK 9) nummer) VSD520 VSD520 VSD520| **KVK-CODIERUNG** | **CODIERUNG GEMÄß KVDT** |
 |---|---|
 | [kein Wert vorhanden] | 00 |
 | M - Diabetes mellitus Typ 2 ( | 01 |
@@ -1305,11 +1305,11 @@ RK 1)  RK 1)  RK 9)  RK 9) VSD520  RK 1)  RK 9)  RK 1)  RK 1)  RK 1)  RK 9)  RK 
 | F - Asthma bronchiale ( | 05 |
 | P - COPD ( | 06 |
 
-| KVK-CODIERUNG | CODIERUNG GEMÄß KVDT |
-| VDT, KVK-VERSION 2.08 |  |
+\| **KVK-CODIERUNG** | **CODIERUNG GEMÄß KVDT** |
+| **VDT, KVK-VERSION 2.08** |  |
 |---|---|
 | [kein Wert vorhanden] | 00 |
-|  | KVDT Gültigkeitsdatum  1..1 |
+|  | **KVDT** Gültigkeitsdatum  1..1 |
 | 4 | n |
 | MMJJ | JJJJMMTT (Monatsende) |
 | 4110 | Versicherungsschutz Ende |
@@ -1319,8 +1319,8 @@ RK 1)  RK 1)  RK 9)  RK 9) VSD520  RK 1)  RK 9)  RK 1)  RK 1)  RK 1)  RK 9)  RK 
 
 ---
 
-| 4108 | Zulassungsnummer |
-| KVK-CODIERUNG | CODIERUNG GEMÄß KVDT |
+\| 4108 | Zulassungsnummer |
+| **KVK-CODIERUNG** | **CODIERUNG GEMÄß KVDT** |
 |---|---|
 | ≤ 40 | a |
 | 1 | [keine Übernahme] 00 |
@@ -1348,10 +1348,10 @@ Entsprechend den Anforderungen des § 291 SGB V sind die Vordrucke im Sinne der 
 
 .h. beleglesefähig, zu
 
-| MOBILES KARTENTERMINAL |  | KVDT | | | | | | | | | |
+| **MOBILES KARTENTERMINAL** |  | **KVDT** | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| Feld | K | L | T | Ausprägung | Transformation | FK | Name | K | L | T | Ausprägung |
-| EF.StatusVD   (im Zwischenspeicher mobKT) |  |  | | | | | | | | | |
+| **Feld** | K | L | T | Ausprägung | Transformation | FK | Name | K | L | T | Ausprägung |
+| **EF.StatusVD   (im Zwischenspeicher mobKT)** |  |  | | | | | | | | | |
 | tag ‚91‘ |  | 8 | n | TTMMJJJJ | ➔ | 4109 | Einlesedatum |  | 8 | n | JJJJMMTT |
 | tag ‚92‘ |  | 27 | a | 123xyzX.Y.Z | ➔ | 4108 | Zulassungsnummer |  | ≤ 40 | a | 123xyzX.Y.Z |
 
@@ -1422,9 +1422,9 @@ Zeichendichte: 10 Zeichen/Zoll
 
 ---
 
-| DRUCKZEILE | FELD | POSITION | DRUCKVORSCHRIFT |
-| Zeile 6: Kostentraegerkennung, Versicherten_ID, Versichertenart, BesonderePersonengruppe, DMP_Kennzeichnung, Kennzeichen Rech Zeile 7: Betriebsstättennummer/ASV | 2.3.3 |  |  |
-| Zeile 6: Kostentraegerkennung, Versicherten_ID, Versichertenart, BesonderePersonengruppe, DMP_Kennzeichnung, Kennzeichen Rech Zeile 7: Betriebsstättennummer/ASV | 2.3.3 |  |  |
+\| **DRUCKZEILE** | **FELD** | **POSITION** | **DRUCKVORSCHRIFT** |
+\| Zeile 6: Kostentraegerkennung, Versicherten_ID, Versichertenart, BesonderePersonengruppe, DMP_Kennzeichnung, Kennzeichen Rech Zeile 7: Betriebsstättennummer/ASV | **2.3.3** |  |  |
+| Zeile 6: Kostentraegerkennung, Versicherten_ID, Versichertenart, BesonderePersonengruppe, DMP_Kennzeichnung, Kennzeichen Rech Zeile 7: Betriebsstättennummer/ASV | **2.3.3** |  |  |
 |---|---|---|---|
 | 1 | KostentraegerName | 1-24 | ab 24 kürzen 4 4 |
 |  | WOP | 29-30 | rechtsbündig, 2-stellig |
@@ -1432,8 +1432,8 @@ Zeichendichte: 10 Zeichen/Zoll
 | 3 | Titel Vorname Namenszusatz Vorsatzwort | 1-21 | ab 21 kürzen |
 |  |  |  |  |
 | Name,  Vorname des Versicherten |  | Kostenträgerkennung |  |
-| Versicherten-Nr. | Abbildung 3: eGK-konforme Bedruckung des verkürzten Personalienfelds  ERLÄUTERUNGEN:  Spalte 1: Nachname, Vorname  Spalte 2: Kostentraegerkennung  Spalte 3: Versicherten_ID | 2.3.4 | 2.3.4.1 Die im Folgenden dargestellten Druckvorschriften gelten unter der Annahme, dass die zu druckenden Datenobjekte unabhängig von 2.3.4.2 DRUCKZEILE |
-|  | FELD  POSITION  DRUCKVORSCHRIFT | 1 | KostentraegerName  1-24  ab 24 kürzen 4 |
+| Versicherten-Nr. | Abbildung 3: eGK-konforme Bedruckung des verkürzten Personalienfelds **ERLÄUTERUNGEN: ** Spalte 1: Nachname, Vorname  Spalte 2: Kostentraegerkennung  Spalte 3: Versicherten_ID | **2.3.4** | 2.3.4.1 Die im Folgenden dargestellten Druckvorschriften gelten unter der Annahme, dass die zu druckenden Datenobjekte unabhängig von 2.3.4.2**DRUCKZEILE** |
+|  | **FELD  POSITION  DRUCKVORSCHRIFT** | 1 | KostentraegerName  1-24  ab 24 kürzen 4 |
 |  | WOP | 29-30 | rechtsbündig, 2-stellig |
 | 2 | Nachname | 1-30 | ab 30 kürzen |
 | 3 | Titel Vorname Namenszusatz Vorsatzwort | 1-21 | ab 21 kürzen |
@@ -1441,10 +1441,10 @@ Zeichendichte: 10 Zeichen/Zoll
 | 10 Zeichen/Zoll |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
-|  |  |  | Name,  Vorname des Versicherten    Kostenträgerkennung    Versicherten-Nr.    Abbildung 3: eGK-konforme Bedruckung des verkürzten Personalienfelds  ERLÄUTERUNGEN:  Spalte 1: Nachname, Vorname  Spalte 2: Kostentraegerkennung  Spalte 3: Versicherten_ID  2.3.4 2.3.4.1 |
-| Die im Folgenden dargestellten Druckvorschriften gelten unter der Annahme, dass die zu druckenden Datenobjekte unabhängig von | 2.3.4.2 |  | DRUCKZEILE |
-|  | FELD |  | POSITION |
-|  | DRUCKVORSCHRIFT | 1 | KostentraegerName |
+|  |  |  | Name,  Vorname des Versicherten    Kostenträgerkennung    Versicherten-Nr.    Abbildung 3: eGK-konforme Bedruckung des verkürzten Personalienfelds **ERLÄUTERUNGEN: ** Spalte 1: Nachname, Vorname  Spalte 2: Kostentraegerkennung  Spalte 3: Versicherten_ID **2.3.4** 2.3.4.1 |
+| Die im Folgenden dargestellten Druckvorschriften gelten unter der Annahme, dass die zu druckenden Datenobjekte unabhängig von | 2.3.4.2 |  | **DRUCKZEILE** |
+|  | **FELD** |  | **POSITION** |
+|  | **DRUCKVORSCHRIFT** | 1 | KostentraegerName |
 
 |  |  |  |  |
 |---|---|---|---|
@@ -1456,9 +1456,9 @@ Zeichendichte: 10 Zeichen/Zoll
 
 ---
 
-| Falls Hausnummer nicht vorhanden: Länge | 5  Wohnsitzlaendercode Postleitzahl Ort | (durch Leerzeichen getrennt), alternativ: | 6 |
-| DRUCKZEILE | FELD | POSITION | DRUCKVORSCHRIFT |
-| DRUCKZEILE | FELD | POSITION | DRUCKVORSCHRIFT |
+\| Falls Hausnummer nicht vorhanden: Länge | 5  Wohnsitzlaendercode Postleitzahl Ort | (durch Leerzeichen getrennt),**alternativ:** | 6 |
+\| **DRUCKZEILE** | **FELD** | **POSITION** | **DRUCKVORSCHRIFT** |
+| **DRUCKZEILE** | **FELD** | **POSITION** | **DRUCKVORSCHRIFT** |
 |---|---|---|---|
 | 1-24 | Mit Wohnsitzlaendercode: | Länge | Ohne Wohnsitzlaendercode:    Länge |
 |  | Versicherungsschutz Ende | 26-30 | Format MM/JJ |
@@ -1466,8 +1466,8 @@ Zeichendichte: 10 Zeichen/Zoll
 |  | Versicherten_ID | 11-22 | linksbündig, alphanumerisch |
 |  |  |  | (durch Leerzeichen getrennt) |
 |  | Geburtsdatum | 23-30 | Format TT.MM.JJ |
-| 4 | Straßenname Hausnummer  (durch Leerzeichen getrennt), alternativ 5 5   (durch Leerzeichen getrennt) | 1-30 | Falls Hausnummer vorhanden:  Länge    Falls Hausnummer nicht vorhanden: Länge |
-| 5 | Wohnsitzlaendercode Postleitzahl Ort (durch Leerzeichen getrennt), alternativ: 6 6 | 1-24 | Mit Wohnsitzlaendercode:  Länge    Ohne Wohnsitzlaendercode:  Länge |
+| 4 | Straßenname Hausnummer  (durch Leerzeichen getrennt),**alternativ** 5 5   (durch Leerzeichen getrennt) | 1-30 | Falls Hausnummer vorhanden:  Länge    Falls Hausnummer nicht vorhanden: Länge |
+| 5 | Wohnsitzlaendercode Postleitzahl Ort (durch Leerzeichen getrennt),**alternativ:** 6 6 | 1-24 | Mit Wohnsitzlaendercode:  Länge    Ohne Wohnsitzlaendercode:  Länge |
 |  | Versicherungsschutz Ende | 26-30 | Format MM/JJ |
 | 6 | Kostentraegerkennung | 1-9 | Wenn Länge(Kostentraegerkennung) < 9 |
 |  | Versicherten_ID | 11-22 | linksbündig, alphanumerisch |
@@ -1475,29 +1475,29 @@ Zeichendichte: 10 Zeichen/Zoll
 |  | BesonderePersonengruppe | 25-26 | Alphanumerisch |
 | 6 | DMP_Kennzeichnung | 27-28 | Alphanumerisch |
 |  | Kennzeichen Rechtsgrundlage | 29-30 | Folgende Ausprägungen sind möglich:  ›  ›  7 7 „11“ |
-|  |  |  | (durch Leerzeichen getrennt)    Geburtsdatum  23-30  Format TT.MM.JJ  4  Straßenname Hausnummer  (durch Leerzeichen getrennt), alternativ 5  (durch Leerzeichen getrennt)  1-30  Falls Hausnummer vorhanden: |
+|  |  |  | (durch Leerzeichen getrennt)    Geburtsdatum  23-30  Format TT.MM.JJ  4  Straßenname Hausnummer  (durch Leerzeichen getrennt),**alternativ** 5  (durch Leerzeichen getrennt)  1-30  Falls Hausnummer vorhanden: |
 | Länge |  | Falls Hausnummer nicht vorhanden: | Länge |
-| 5 | Wohnsitzlaendercode Postleitzahl Ort | (durch Leerzeichen getrennt), | alternativ: |
+| 5 | Wohnsitzlaendercode Postleitzahl Ort | (durch Leerzeichen getrennt), | **alternativ:** |
 | 6 |  | 1-24 | Mit Wohnsitzlaendercode: |
 
 : „Postfach“ Postfachnummer  Items der Postfachadresse  nur zulässig, wenn keine Straßenadresse vorhanden  nur zulässig, wenn keine Straßenadresse vorhanden  Kennzeichen für Ersatzverordnungen gemäß § 29 Abs. 9 BMV -Ä  (Straßenname) = 30 - Länge(Hausnummer) Max  (Straßenname) = 30 Max  (Ort) = 24  Länge(Wohnsitzlaendercode) Max Länge(Postleitzahl)  (Ort) = 24  Länge(Postleitzahl) Max Stringverkettung(‚10‘, Kostentraegerkennung) ASV- Kennzeichen „01“ ASV-Kennzeichen mit Ersatzverordnungskennzeichen
 
 ---
 
-| 1-9  linksbündig, numerisch | Lebenslange Arztnummer | 11-19  linksbündig, numerisch | Tagesdatum |
-| DRUCKZEILE | FELD | POSITION | DRUCKVORSCHRIFT |
-| DRUCKZEILE | FELD | POSITION | DRUCKVORSCHRIFT |
+\| 1-9  linksbündig, numerisch | Lebenslange Arztnummer | 11-19  linksbündig, numerisch | Tagesdatum |
+\| **DRUCKZEILE** | **FELD** | **POSITION** | **DRUCKVORSCHRIFT** |
+| **DRUCKZEILE** | **FELD** | **POSITION** | **DRUCKVORSCHRIFT** |
 |---|---|---|---|
 | 22-29 | Format TT.MM.JJ | Tabelle 13: Druckpositionen im Personalienfeld | Kostentraegerkennung |
-| DRUCKZEILE |  | FELD |  |
-| POSITION |  | DRUCKVORSCHRIFT | 1 |
+| **DRUCKZEILE** |  | **FELD** |  |
+| **POSITION** |  | **DRUCKVORSCHRIFT** | 1 |
 | Nachname Vorname (durch Komma und | 1-n | linksbündig, ab Position n kürzen (n ist musterspezifisch) | 2 |
 |  |  |  | › |
 |  | › |  | › |
 |  | ›  ›  › | › | 7  Betriebsstättennummer  1-9  linksbündig, numerisch |
 |  | Lebenslange Arztnummer  11-19  linksbündig, numerisch    Tagesdatum | 22-29 | Format TT.MM.JJ  Tabelle 13: Druckpositionen im Personalienfeld |
-| DRUCKZEILE |  | FELD |  |
-| POSITION |  | DRUCKVORSCHRIFT | 1 |
+| **DRUCKZEILE** |  | **FELD** |  |
+| **POSITION** |  | **DRUCKVORSCHRIFT** | 1 |
 | Nachname Vorname (durch Komma und | 1-n | linksbündig, ab Position n kürzen (n ist musterspezifisch) | 2 |
 | Kostentraegerkennung | 1-9 | linksbündig, wenn Länge(Kostentraegerkennung) < 9 | 3 |
 | Versicherten_ID | 1-12 | linksbündig, alphanumerisch | Tabelle 14: Druckpositionen im verkürzten Personalienfeld |
@@ -1508,7 +1508,7 @@ Zeichendichte: 10 Zeichen/Zoll
 |  | Lebenslange Arztnummer | 11-19 | linksbündig, numerisch |
 |  | Tagesdatum | 22-29 | Format TT.MM.JJ |
 
-2.3.4.3 Leerzeichen getrennt) TSS- Kennzeichen „07“ TSS-Kennzeichen mit Ersatzverordnungskennzeichen „17“ Entlassmanagement- Kennzeichen „04“ Entlassmanagement-Kennzeichen mit Ersatzverordnungskennzeichen „14“ Kennzeichen tagesstationäre Behandlung „06“ nur Ersatzverordnungskennzeichen „10“ ohne Ersatzverordnungskennzeichen „00“ Stringverkettung(‚10‘, Kostentraegerkennung)| DRUCKZEILE | FELD | POSITION | DRUCKVORSCHRIFT |
+2.3.4.3 Leerzeichen getrennt) TSS- Kennzeichen „07“ TSS-Kennzeichen mit Ersatzverordnungskennzeichen „17“ Entlassmanagement- Kennzeichen „04“ Entlassmanagement-Kennzeichen mit Ersatzverordnungskennzeichen „14“ Kennzeichen tagesstationäre Behandlung „06“ nur Ersatzverordnungskennzeichen „10“ ohne Ersatzverordnungskennzeichen „00“ Stringverkettung(‚10‘, Kostentraegerkennung)| **DRUCKZEILE** | **FELD** | **POSITION** | **DRUCKVORSCHRIFT** |
 |---|---|---|---|
 | 1 | Nachname Vorname (durch Komma und | 1-n | linksbündig, ab Position n kürzen (n ist musterspezifisch) |
 | 2 | Kostentraegerkennung | 1-9 | linksbündig, wenn Länge(Kostentraegerkennung) < 9 |
@@ -1521,9 +1521,9 @@ Zeichendichte: 10 Zeichen/Zoll
 
 **2.4.1** **Prüfungsnachweis VSDM 2.0 in KVDT-Referenz-Design mappen**
 
-| FACHDIENSTABRUF |  | KVDT | | | | | | | | | |
+| **FACHDIENSTABRUF** |  | **KVDT** | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| Element | K | L | T | Ausprägung | Transformation | FK | Name | K | L | T | Ausprägung |
+| **Element** | K | L | T | Ausprägung | Transformation | FK | Name | K | L | T | Ausprägung |
 | Profilversion der  (Element |  |  |  |  | Substring(Zeichen | 3006 | CDM Version | 0..1 | 5-11 | a |  |
 | HTTP-Date-Header der |  |  |  |  |  | 3010 | Datum und Uhrzeit der | 0..1 | 14 | n |  |
 |  |  |  |  |  |  | 3011 | Ergebnis der Onlineprüfung und - | 0..1 | 1 | n | ›  ›  ›  ›  › |
@@ -1538,10 +1538,10 @@ VSDM2.0 VSDM-Instanz  Bundle.meta.profile) nach „|“, Ende des Values) FHIR-R
 
 **2.4.2** **Prüfungsnachweis zum VSD**
 
-| EGK |  | KVDT | | | | | | | | | |
+| **EGK** |  | **KVDT** | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| Feld | K | L | T | Ausprägung | Transformation | FK | Name | K | L | T | Ausprägung |
-| Prüfungsnachweis (EF.Prüfungsnachweis) |  |  | | | | | | | | | |
+| **Feld** | K | L | T | Ausprägung | Transformation | FK | Name | K | L | T | Ausprägung |
+| **Prüfungsnachweis (EF.Prüfungsnachweis)** |  |  | | | | | | | | | |
 | CDMVersion | 1..1 | 5..11 | a | X.Y.Z | → | 3006 | CDM Version | 0..1 | 5-11 | a | n[n][n].n[n][n].n[n][n] |
 | Timestamp | 1..1 | 14 | n | YYYYMMDDhhmmss | → | 3010 | Datum und Uhrzeit der Onlineprüfung | 0..1 | 14 | n | JJJJMMTThhmmss |
 | Ergebnis | 1..1 | 1 | n | 1,2,3,4,5,6 | → | 3011 | Ergebnis der Onlineprüfung und - | 0..1 | 1 | n | 1, 2, 3, 4, 5, 6 |
@@ -1557,10 +1557,10 @@ VSDM2.0 aktualisierung (Timestamp) aktualisierung
 
 3 REFERENZIERTE DOKUMENTE
 
-|  |  |
+\|  |  |
 | )  [3] | Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung, in  - |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 | [1] | Vereinbarung zum Inhalt und  zur Anwendung der elektronischen Gesundheitskarte (https://www.kbv.de/documents/infothek/rechtsquellen/bundesmantelvertrag/anlage-  ) |
 | [2] | Vereinbarung über Vordrucke für die vertragsärztliche Versorgung  (https://www.kbv.de/documents/infothek/rechtsquellen/bundesmantelvertrag/anlage-  ) |
 | [3] | Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung, in  -  ) |
@@ -1578,11 +1578,11 @@ VSDM2.0 aktualisierung (Timestamp) aktualisierung
 
 ---
 
-|  |  |
+\|  |  |
 |  |  |
 |---|---|
 |  |  |
-|  | Ansprechpartner:  Dezernat Digitalisierung und IT  IT in der Arztpraxis |
+|  | **Ansprechpartner: ** Dezernat Digitalisierung und IT  IT in der Arztpraxis |
 | Tel.: 030 4005-2077, ita@kbv.de | Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin  ita@kbv.de, www.kbv.de |
 |  |  |
 | GKV-SV, KBV, KZBV. (06. März 2003). Technische Spezifikation der Arztausstattung - Lesegeräte -; entwickelt aus der Anlage 4 der Vereinbarung zur Gestaltung und bundesweiten Einführung der Krankenversichertenkarte, Version 2.00. |  |

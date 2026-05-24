@@ -218,33 +218,29 @@ Sonstige:: **Vorsorgevollmacht (Consent)**
 
 # Patient
 
-Sonstige:: **Patient(Patient)**
-
 Sonstige:: **Dauermedikation (MedicationStatement )**
 
 -Medikament
 
 Sonstige:: **Selektivvertrag (Contract)**
 
-Begegnung :: **Krebsfrueherkennung _Frauen_Auftrag(ServiceRequest )**
+Sonstige:: **Patient(Patient)**
 
--Patient -Begegnung
+Begegnung :: -Patient
+
+-Begegnung
 
 Begegnung :: **Krebsfrueherkennung _Frauen_Gynaekologische _Operation(**
 
 -Patient
 
-Begegnung :: **Krebsfrueherkennung _Frauen_Anamese_Diverse(**
-
--Patient
+Begegnung :: -Patient
 
 Begegnung :: **Krebsfrueherkennung _Frauen_Anamese_Hormonanwendung (**
 
 -Patient
 
-Begegnung :: **Krebsfrueherkennung _Frauen_Befund_Diverse(**
-
--Patient
+Begegnung :: -Patient
 
 Begegnung :: **Krebsfrueherkennung _Frauen_Befund_Diverse_Ab30(**
 
@@ -254,13 +250,15 @@ Begegnung :: **Krebsfrueherkennung _Frauen_Gynaekologische _Diagnose(**
 
 -Patient
 
+**Krebsfrueherkennung _Frauen_Auftrag(ServiceRequest )**
+
 **Procedure )**
 
-**Observation )**
+**Krebsfrueherkennung _Frauen_Anamese_Diverse(** **Observation )**
 
 **Observation )**
 
-**Observation )**
+**Krebsfrueherkennung _Frauen_Befund_Diverse(** **Observation )**
 
 **Observation )**
 
@@ -356,11 +354,13 @@ Begegnung :: **Krebsfrueherkennung _Frauen_Auftrag_2020 (ServiceRequest )**
 
 -Ringversuchszertifikat
 
+-Medikament
+
 Sonstige:: **Behandelnder (Practitioner )** Sonstige:: **BehandeldnerFunktion (PractitionerRole )**
 
-# Behandelnder -Medikament
-
 # Betriebsstätte
+
+# Behandelnder
 
 Begegnung :: **Krebsfrueherkennung _Frauen_Zytologischer _Befund_Gruppe(** **Observation )**
 

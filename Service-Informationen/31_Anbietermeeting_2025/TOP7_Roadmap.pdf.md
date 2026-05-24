@@ -78,7 +78,7 @@
 
 **Roadmap ohne ePA (Auszug)**
 
-| Thema | Stand der Spezifikation | Auswirkung für die Praxen |
+| **Thema** | **Stand der Spezifikation** | **Auswirkung für die Praxen** |
 |---|---|---|
 | DMP Adipositas Erwachsene und | In Erarbeitung | Adipositas: offen |
 | Implantateregister | Bereitgestellt | 1. Januar 2026 |

@@ -249,7 +249,7 @@ quartale geprüft werden.
 
 |  |  |
 |---|---|
-| Abbildung 1: Link zum download des Prüfassistenten auf der KBV-Homepage | Auf der Download Seite stehen zwei Installationspakete |
+| **Abbildung 1: Link zum download des Prüfassistenten auf der KBV-Homepage** | Auf der Download Seite stehen zwei Installationspakete |
 
 KBV-Prüfassistent Handbuch
 
@@ -283,9 +283,9 @@ onstyp aus, „Vollständig“  oder „Benutzerdefiniert“ „Vollständig“ 
 
 ---
 
-| Das Programm ist nun vollständig installiert und Sie haben zwei Möglichkeiten, das Programm zu starten. Mit ei- |
-|---|
-| Oder unter  „Start“  „Start“ |
+\| Das Programm ist nun vollständig installiert und Sie haben zwei Möglichkeiten, das Programm zu starten. Mit ei- |
+\|---|
+\| Oder unter  „Start“  „Start“ |
 
 **2.3 Update des KBV – Prüfassistenten**
 
@@ -308,7 +308,7 @@ KBV-Prüfassistent Handbuch
 |---|---|
 | Nach kurzer Zeit sehen Sie den  Drücken Sie auf    Nach kurzer Zeit ist der Vorgang | Drücken Sie auf |
 
-Installationsassistent der Sie durch den Updatevorgang begleitet. um den Vorgang fortzusetzen. abgeschlossen.  um den Installationsassistenten beenden. 3 Installation auf Nicht-Windows- 3.1 Vorbereitung der Installation Starten Sie die Installation durch folgenden Aufruf im Befehlsfenster: java -- jar KBV Pruefassistent_V202a.b.c.jar Systemen
+Installationsassistent der Sie durch den Updatevorgang begleitet. den Vorgang fortzusetzen. abgeschlossen.  um den Installationsassistenten beenden. um 3 Installation auf Nicht-Windows- 3.1 Vorbereitung der Installation Starten Sie die Installation durch folgenden Aufruf im Befehlsfenster: java -- jar KBV Pruefassistent_V202a.b.c.jar Systemen
 
 ---
 
@@ -448,8 +448,8 @@ ist, wird der Prüfstatus angezeigt noch durchgeführt werden, um die Richtigkei
 
 Im Anzeigeprogramm können Sie die sich die Prüfmodulprotokolle betrachten. Zum Ausdrucken wählen Sie den  Menüpunkt ***„Drucken“*** aus dem ***„Datei-Menü“***
 
-| Nachdem Sie die Protokolle ausgedruckt oder durchgesehen haben, beenden Sie das Anzeigeprogramm mit dem |
-|---|
+\| Nachdem Sie die Protokolle ausgedruckt oder durchgesehen haben, beenden Sie das Anzeigeprogramm mit dem |
+\|---|
 
 KBV-Prüfassistent Handbuch
 
@@ -468,9 +468,9 @@ KBV-Prüfassistent Handbuch
 
 | Als Standardzielverzeichnis ist  Bitte gehen Sie zu |  |  |
 |---|---|---|
-|  |  |  |
-|  | UHinweisU Auch das Aufteilen großer Abrechnungsdateien auf mehrere Disketten übernimmt der Prüfassistent |  |
-|  |  |  |
+|  |  | ** |
+|  | UHinweisU Auch das Aufteilen großer Abrechnungsdateien auf mehrere Disketten übernimmt der Prüfassistent | ** |
+|  |  | ** |
 
 kolle gesichtet und gegebenenfalls ausgedruckt haben, können Sie die Verschlüsselung der Abrech- nungsdatei mit einem Klick auf „A:\“ für das Diskettenlaufwerk vorbelegt. Wenn Sie die verschlüsselte Datei auf Diskette schreiben wollen, sind hier keine Änderungen notwendig. Kapitel 4.3.6 weiter automatisch. Halten Sie hierzu lediglich eine oder  mehrere leere Diskette(n) bereit.
 
@@ -481,7 +481,7 @@ KBV-Prüfassistent Handbuch
 | Natürlich können Sie auch jedes  Hierzu drücken Sie bitte  , |  |  |
 |---|---|---|
 | Hier können Sie dann den Spei- Mit einem Druck auf   übernehmen |  |  |
-|  | UHinweis  (näheres hierzu in Kapitel 5) |  |
+|  | UHinweis**(näheres hierzu in Kapitel 5)** | ** |
 
 andere beliebige Zielverzeichnis auf Ihrer Festplatte auswählen, um die verschlüsselten Abrechnungsdateien evtl. später gesammelt der KV zu übergeben.  um in den „Öffnen-Dialog“  zu ge- langen. cherort Ihrer Verschlüsselten Datei angeben bzw. auswählen. Sie den Speicherort für Ihre ver- schlüsselte Abrechnungsdatei Zusätzlich werden Sicherheitskopien Ihrer verschlüsselten Abrechnungsdateien im Ordner erzeugt; diese bleiben auch nach einer Deinstallation erhalten. „Codiert“
 
@@ -534,7 +534,7 @@ KBV-Prüfassistent Handbuch
 | Wenn die Verschlüsselung erfolg- Bestätigen Sie dies mit einem |  |
 |---|---|
 | Drücken Sie den Schalter     um das Programm zu beenden. Bitte entfernen Sie |  |
-|  | Sie haben jetzt erfolgreich eine Abrechnungsdatei geprüft, verschlüsselt und gespeichert. Bitte beschrif- |
+| ** | Sie haben jetzt erfolgreich eine Abrechnungsdatei geprüft, verschlüsselt und gespeichert. Bitte beschrif- |
 
 auf Diskette geschrieben wurde, erfolgt eine Prüfung der gespei- cherten Daten. Diskette erneut ein bevor die Prü- fung mit  gestartet wird werden und der Prüf- und Verschlüsselungsvorgang ist zu wiederholen. nicht  weitergegeben reich war, erhalten Sie die neben- stehende Endanzeige. Druck auf die Disketten aus dem Laufwerk. ten Sie die Diskette(n) (sofern erstellt) mit den Daten Ihrer Praxis und geben Sie die Diskette(n) bei Ihrer KV ab.
 
@@ -629,11 +629,11 @@ Dieser Ordner beinhaltet die Verzeichnisse Disk, Keys und works.
 
 **6 Fehlerbehebung**
 
-| UProblem: |  |
+| ***UProblem:*** |  |
 |---|---|
 | mögliche Ursache: Fehler beim Speichern der verschlüsselten Datei können dadurch entstehen, dass die Diskette zu früh aus dem  Bitte warten Sie mit dem Entfernen der Diskette aus dem Laufwerk, bis die Kontrolllampe des Diskettenlaufwerks | |
 
-| UProblem: | Erscheint nicht |
+| ***UProblem:*** | Erscheint nicht |
 |---|---|
 | ULösung: • | 1. Schritt |
 | • | 2. Schritt |
@@ -666,8 +666,8 @@ KBV-Prüfassistent Handbuch
 | eingabedateien | Dieser Schalter enthält die Pfade zu Steuertabellen und Stammdaten |
 | ausgabedateien | Alle Ausgabelisten des Prüfmoduls. Nähere Angaben finden Sie in der |
 | adt_interne_patientennummer | Wird diesem Konfigurationsschalter der Wert ’ja zugewiesen, so werden in |
-| 7 Anhang | |
-| 7.1 Konfigurationsdateien | Die Steuerung des KBV-Prüfassistenten erfolgt mit Hilfe zweier Konfigurationsdateien. Eine  Die Pfadangaben in der Konfigurationsdatei müssen eventuell dem jeweiligen Betriebssystem |
+| **7 Anhang ** | |
+| **7.1 Konfigurationsdateien** | Die Steuerung des KBV-Prüfassistenten erfolgt mit Hilfe zweier Konfigurationsdateien. Eine  Die Pfadangaben in der Konfigurationsdatei müssen eventuell dem jeweiligen Betriebssystem |
 
 Konfigurationsdatei zur Steuerung des Prüfmoduls und eine Konfigurationsdatei zur Steue- rung des Kryptomoduls. angepasst werden. Die Konfigurationsdateien im Lieferumfang sind so voreingestellt, dass keinerlei Anpassungen nötig sind. Die Konfigurationsdateien unter dem Betriebssystem Windows befinden sich im Benutzer- Verzeichnis. Beispielsweise: c:\Benutzer\%BENUTZER_NAME%\KBV\.  Bei dem Betriebssystem Windows gilt folgendes: Die Konfigurationsdateien im Installationsverzeichnis (c:\Programme nur beim ersten Start des KBV-Prüfassistenten eingelesen und unter dem Benutzerverzeich- nis abgelegt. Nur die Änderungen an diesen Konfigurationsdateien im Benutzerverzeichnis haben Auswirkungen auf den Programmablauf. 7.2 XPM Konfigurationsdatei Die Konfigurationsdatei für das Prüfmodul folgende Konfigurationsschalter: mit dem Namen ’konfigPruefmodul.xml’ bzw. ’konfigXPM.xml’ gegebenen maximalen Wert begrenzen. Dokumentation ‚E015_XPM -KVDT_Ergaenzungshandbuch.pdf’, die im KVDT-Prüfpaket enthalten ist. den Dokumenten Schein Abgabeliste und Doku Abgabeliste statt des Patientennamens und Vornamens die systeminterne Patientennummer \KBV\Assistent) werden
 

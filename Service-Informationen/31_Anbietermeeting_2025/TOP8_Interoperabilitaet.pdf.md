@@ -150,17 +150,25 @@ AM 18. SEPTEMBER 2025
 
 Ankündigung
 
-Kommentierungszeitraum  Heute
+Kommentierung 20.10.2025-
 
-Kommentierung 20.10.2025- 01.11.2025 inkl.
+Einvernehmen KIG,
+
+Benehmensherstellung
+
+Umsetzung Mitte März 2026 -
+
+Kommentierungszeitraum 01.11.2025 inkl.
+
+Vorstandsbeschluss Januar -
+
+Dezember - Januar 01.10.2026
+
+Heute
 
 Kommentierungsworkshops
 
-Benehmensherstellung  Dezember - Januar
-
-Einvernehmen KIG,  Vorstandsbeschluss Januar -  März
-
-Umsetzung Mitte März 2026 -  01.10.2026
+März
 
 
 ---
@@ -493,18 +501,18 @@ Umsetzung Mitte März 2026 -  01.10.2026
 
 ---
 
-|  |  |  |  | ↗ **ÜBERBLICK EUROPA EHDS** |
-|---|---|---|---|---|
-|  | **Überblick** | | **Europa** | **EHDS** |
-| WP | 5.1 - | **Sicherheits-** | | **und Protokollierungsanforderungen-** Beispiele für verpflichtende |
-|  |  | Anforderungen(Übersetzt) | |  |
-|  |  |  |  | ›DasEHR-SystemmusspotenziellunterschiedlicheGesetzeoder Vorschriften in mehreren |
-|  |  | Mitgliedstaaten |  | berücksichtigen – insbesondere für primäre Kategorien personenbezogener |
-|  |  | elektronischer |  | Gesundheitsdaten. |
-|  | **INTEROPERABILITÄT** |  |  | SEITE 26 |
-| 31. | ANBIETERMEETING | DER KBV | AM 18. | SEPTEMBER 2025 |
+## Überblick Europa EHDS
 
-Überblick Europa EHDS WP 5.1 - Sicherheits- und Protokollierungsanforderungen- Das EHR-System muss potenziell unterschiedliche Gesetze oder Vorschriften in mehreren Mitgliedstaaten berücksichtigen elektronischer Gesundheitsdaten.
+## WP 5.1 - Sicherheits- und Protokollierungsanforderungen- Beispiele für verpflichtende
+
+## Anforderungen(Übersetzt)
+
+## - Das EHR-System muss potenziell unterschiedliche Gesetze oder Vorschriften in mehreren  Mitgliedstaaten berücksichtigen – insbesondere für primäre Kategorien personenbezogener
+
+## - elektronischer Gesundheitsdaten.
+
+- **ÜBERBLICK EUROPA EHDS**
+
 
 ---
 

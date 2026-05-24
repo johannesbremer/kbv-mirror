@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT  15. MAI 2024  VERSION: 4.3   DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT  15. MAI 2024  VERSION: 4.3   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # ANTRAG AUF ZERTIFIZIERUNG  ABRECHNUNG VON  SCHWANGERSCHAFTSABBRÜCHEN
@@ -31,19 +31,19 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 |  |  | | |
 |---|---|---|---|
-| Name des Antragsstellers  [bei juristischen Personen ist die |  | | |
-| Geschäftsbereich [falls vorhanden] |  | | |
-| Straße und Hausnummer |  | | |
-| PLZ, Ort |  | | |
-| Telefonnummer |  | | |
-| E-Mail-Adresse |  | | |
-| Webseite |  | | |
-| Der Antragssteller ist | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
-| Systempfleger  [nur anzugeben, wenn der |  | | |
-| Straße und Hausnummer |  | | |
-| PLZ, Ort |  | | |
-| Telefonnummer |  | | |
-| E-Mail-Adresse |  | | |
+| **Name des Antragsstellers  [bei juristischen Personen ist die** |  | | |
+| **Geschäftsbereich [falls vorhanden]** |  | | |
+| **Straße und Hausnummer** |  | | |
+| **PLZ, Ort** |  | | |
+| **Telefonnummer** |  | | |
+| **E-Mail-Adresse** |  | | |
+| **Webseite** |  | | |
+| **Der Antragssteller ist** | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
+| **Systempfleger  [nur anzugeben, wenn der** |  | | |
+| **Straße und Hausnummer** |  | | |
+| **PLZ, Ort** |  | | |
+| **Telefonnummer** |  | | |
+| **E-Mail-Adresse** |  | | |
 
 antwortlich zeichnet.
 
@@ -61,10 +61,10 @@ Nur anzugeben, wenn abweichend von Abschnitt 1.1.
 
 |  |  |
 |---|---|
-| Bestell- bzw. Auftragsnummer des |  |
-| Name |  |
-| Straße und Hausnummer |  |
-| PLZ, Ort |  |
+| **Bestell- bzw. Auftragsnummer des** |  |
+| **Name** |  |
+| **Straße und Hausnummer** |  |
+| **PLZ, Ort** |  |
 
 ## 1.3 ZERTIFIZIERUNGSGEGENSTAND
 
@@ -72,8 +72,8 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizie
 
 |  |  |
 |---|---|
-| Bezeichnung |  |
-| Identnummer [die letzten drei |  |
+| **Bezeichnung** |  |
+| **Identnummer [die letzten drei** |  |
 
 ## 1.4  BETRIEBSSYSTEME
 
@@ -114,7 +114,7 @@ Folgende optionale SADT Funktionen sind gem. Anforderungskatalog KVDT realisiert
 |---|---|---|---|---|---|
 | ☐ | KEINE | ☐ | ALLE | ☐ | Laut nachfolgender Liste |
 
-| IDENT-NUMMER | BEZEICHNUNG DER OPTIONALEN FUNKTION SADT LT. ANFORDERUNGSKATALOG |
+| **IDENT-NUMMER** | **BEZEICHNUNG DER OPTIONALEN FUNKTION SADT LT. ANFORDERUNGSKATALOG** |
 |---|---|
 |  |  |
 |  |  |
@@ -135,20 +135,20 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 
 „Geschäftsführung“ zu benennen.
 
-|  | |
+\|  | |
 | Ansprechpartner(in) für das vorliegende Zertifizierungsthema | |
 |---|---|
-| Name* |  |
-| Telefonnummer* |  |
-| E-Mail-Adresse* |  |
+| **Name*** |  |
+| **Telefonnummer*** |  |
+| **E-Mail-Adresse*** |  |
 | Ansprechpartner(in): Geschäftsführung | |
-| Name* |  |
-| Telefonnummer |  |
-| E-Mail-Adresse* |  |
+| **Name*** |  |
+| **Telefonnummer** |  |
+| **E-Mail-Adresse*** |  |
 | Ansprechpartner(in): Produktmanagement | |
-| Name |  |
-| Telefonnummer |  |
-| E-Mail-Adresse |  |
+| **Name** |  |
+| **Telefonnummer** |  |
+| **E-Mail-Adresse** |  |
 
 Diese Information ist verpflichtend anzugeben
 
@@ -169,7 +169,7 @@ Diese Information ist verpflichtend anzugeben
 
 - (4) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
 
-| THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART | KOSTEN IN € |
+| **THEMA** | **ZERTIFIZIERUNGSART** | **PRÜFUNGSART** | **KOSTEN IN €** |
 |---|---|---|---|
 | SADT | Rezertifizierung | Ergebnisprüfung | 137,62 [pro Termin] |
 |  | zertifizierung einer | Ergebnisprüfung | 103,22 [pro Satzart] |

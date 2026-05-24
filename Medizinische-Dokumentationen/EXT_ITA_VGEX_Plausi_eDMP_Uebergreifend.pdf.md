@@ -33,7 +33,7 @@
 
 ---
 
-| Lfd. | Parameter | Ausprägung | Plausibilitätsregeln |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitätsregeln** |
 |---|---|---|---|
 |  | Administrative Daten | | |
 | 1 | DMP-Fallnummer | Nummer | Pflichtfeld;  bis zu 7 Stellen; alphanumerische Angabe |
@@ -82,7 +82,7 @@ festgelegten Plausibilitätsregeln erfolgen. 22 minus der Datumsangabe in Feld 3
 | 14 | Körpergewicht | kg | Pflichtfeld;  Numerische Angabe ohne Komma, Wertebereich 000 - |
 | 15 |  | mm Hg | Bedingtes Pflichtfeld;   Numerische Angabe,    Wenn in Feld 10 mindestens eine Angabe zu    Enthält Feld 10 die alleinige Angabe „Asthma bronchiale“ |
 
-" nicht möglich. rheumatoide Arthritis , müssen zusätzlich die Angaben der Anlage 22* entsprechend den 3, 10 dort festgelegten Plausibilitätsregeln erfolgen. 22 minus der Datumsangabe in Feld 3 ein Lebensalter von < 18 Jahren, ist die Angabe „rheumatoide Arthritis" nicht möglich. Blutdruck Wertebereich 0,00 - 2,50 300 Diabetes mellitus Typ 2 Herzinsuffizienz oder „c Depression “ oder „Osteoporose“ Arthritis“  erfolgt ist, muss hier eine Angabe erfolgen. und ergibt gleichzeitig die Differenz aus der Datumsangabe in Feld 22 minus der Datumsangabe in Feld 3 ein Lebensalter von > =18 Jahren, muss eine  oder COPD hronischer Rückenschmerz oder „rheumatoide  oder KHK  oder chronische  oder
+" nicht möglich. rheumatoide Arthritis , müssen zusätzlich die Angaben der Anlage 22* entsprechend den 3, 10 dort festgelegten Plausibilitätsregeln erfolgen. 22 minus der Datumsangabe in Feld 3 ein Lebensalter von < 18 Jahren, ist die Angabe „rheumatoide Arthritis" nicht möglich. Blutdruck Wertebereich 0,00 - 2,50 300 Diabetes mellitus Typ 2 Herzinsuffizienz oder „c Depression “ oder „Osteoporose“ Arthritis“  erfolgt ist, muss hier eine Angabe erfolgen. und ergibt gleichzeitig die Differenz aus der Datumsangabe in Feld 22 minus der Datumsangabe in Feld 3 ein Lebensalter von > =18 Jahren, muss eine  oder COPD hronischer Rückenschmerz oder „rheumatoide KHK  oder  oder chronische  oder
 
 ---
 

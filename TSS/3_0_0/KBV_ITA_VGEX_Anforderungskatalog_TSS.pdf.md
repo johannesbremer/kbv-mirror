@@ -1,17 +1,17 @@
-|  |
-|---|
+\|  |
+\|---|
 
 # ANFORDERUNGSKATALOG  TERMINSERVICE
 
 ## [KBV_ITA_VGEX_ANFORDERUNGSKATALOG_
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 19. DEZEMBER 2024   VERSION: 3.0.0   DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 19. DEZEMBER 2024   VERSION: 3.0.0   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 TSS]
 
-|  |
-|---|
+\|  |
+\|---|
 
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
@@ -58,7 +58,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 # DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 3.0.0 | 19.12.2024 | KBV | Anpassung der Anforderungen:  P2-01  P3-05  P3-06  P4-01  P4-02  P4-04  P4-06  Streichung der Anforderung   P2-02  O3-07 | Neue Spezifikationen der | 6  7  8  9  9  11  13    6  7 |
 | 2.0.7 | 15.05.2023 | KBV | Anpassung der Anforderung  P4-04 |  | 11 |
@@ -75,7 +75,7 @@ Vermittlungscode bei Muster 6 und PTV 11 03 PTV 11 Vorgaben P4-04 und P4-05 4107
 
 ---
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 |  |  |  |  |  | Bedruckung bei P3-05 und P3- |
 
@@ -110,30 +110,30 @@ Entscheidung hierzu liegt im Ermessen des jeweiligen Softwareherstellers.
 
 Pflichtfunktionen sind wie folgt gekennzeichnet:
 
-| PFLICHTFUNKTION |  |
+| **PFLICHTFUNKTION** |  |
 |---|---|
-| P4-10 | Funktionsbezeichnung |
+| **P4-10** | Funktionsbezeichnung |
 
 Konditionale Pflichtfunktionen sind wie folgt gekennzeichnet:
 
-| KONDITIONALE PFLICHTFUNKTION |  |
+| **KONDITIONALE PFLICHTFUNKTION** |  |
 |---|---|
-| KP4-15 | Funktionsbezeichnung |
+| **KP4-15** | Funktionsbezeichnung |
 
 Optionale Funktionen sind wie folgt gekennzeichnet:
 
-| OPTIONALE FUNKTION |  |
+| **OPTIONALE FUNKTION** |  |
 |---|---|
-| O4-20 | Funktionsbezeichnung |
+| **O4-20** | Funktionsbezeichnung |
 
 
 ---
 
 2 UMSETZUNG DER SPEZIFIKATION - 116117 TERMINSERVICE  VERMITTLUNGSCODE
 
-| PFLICHTFUNKTION |  |
+| **PFLICHTFUNKTION** |  |
 |---|---|
-| P2-01 | Basis von KV-Connect |
+| **P2-01** | Basis von KV-Connect |
 
 Die Software muss dem Anwender die Funktionen des eTerminservices auf Basis von KV-Connect
 
@@ -151,9 +151,9 @@ Die Software stellt dem Anwender die Funktionen gemäß den folgenden Anforderun
 
 **HINWEIS**
 
-| DER NACHWEIS DER UMSETZUNG ERFOLGT IM RAHMEN EINES |  |
+| **DER NACHWEIS DER UMSETZUNG ERFOLGT IM RAHMEN EINES** |  |
 |---|---|
-| P2-02 | Lesbarkeit des Vermittlungscode |
+| **P2-02** | Lesbarkeit des Vermittlungscode |
 
 Die Software muss dem Anwender den übermittelten Code gut lesbar
 
@@ -169,9 +169,9 @@ Um die Lesbarkeit des übermittelten Vermittlungscode zu erhöhen, muss der Verm
 
 3 UMSETZUNG DER BEDRUCKUNG
 
-| PFLICHTFUNKTION |  |
+| **PFLICHTFUNKTION** |  |
 |---|---|
-| P3-04 | Verwendung des Vermittlungscodes auf Muster 6 |
+| **P3-04** | Verwendung des Vermittlungscodes auf Muster 6 |
 
 Die Software muss auf Wunsch des Anwenders den Vermittlungscode auf Musters 6 aufbringen.
 
@@ -197,9 +197,9 @@ Wenn der Anwender die Überweisung (Muster 6) als "dringend" einstuft, muss die 
 
 Vermittlungscode verwenden und diesen auf Muster 6 drucken.
 
-| PFLICHTFUNKTION |  |
+| **PFLICHTFUNKTION** |  |
 |---|---|
-| P3-05 | Bedruckung des Vermittlungscodes auf Muster 6 |
+| **P3-05** | Bedruckung des Vermittlungscodes auf Muster 6 |
 
 Die Software muss den Vermittlungscode in das Auftragsfeld des Musters 6 druck
 
@@ -229,9 +229,9 @@ en.
 
 Für den Fall, das aufgrund eines Fehlers z.B. fehlerhafte Internetverbindung, kein Vermittlungscode  abgerufen werden konnte, entfällt nur der Vermittlungscode
 
-| OPTIONALE FUNKTION |  |
+| **OPTIONALE FUNKTION** |  |
 |---|---|
-| O3-07 | Bedruckung des Vermittlungscodes auf Muster 6 |
+| **O3-07** | Bedruckung des Vermittlungscodes auf Muster 6 |
 
 Die Software kann weitere Informationen zur Qualifikation in das Auftragsfeld des Musters 6 drucken.
 
@@ -243,9 +243,9 @@ Um dem Patienten weitere Informationen mitzuteilen, kann die zusätzliche Qualif
 
 Das System kann die im FHIR-Bundle "Vermittlungscode-Anforderung-Muster06" angegebene weitere  zusätzliche Qualifikationals zusätzliche Information für den Patienten oder der Terminservicestelle in das  Feld "Auftrag" drucken.
 
-| PFLICHTFUNKTION |  |
+| **PFLICHTFUNKTION** |  |
 |---|---|
-| P 3-08 | Verwendung des Vermittlungscodes auf dem Muster PTV 11 |
+| **P 3-08** | Verwendung des Vermittlungscodes auf dem Muster PTV 11 |
 
 und die URL bei der Bedruckung.
 
@@ -264,9 +264,9 @@ Wenn der Anwender eine akute und/ oder probatorisch ambulante Psychotherapie bei
 
 und diesen auf PTV11 drucken.
 
-| PFLICHTFUNKTION |  |
+| **PFLICHTFUNKTION** |  |
 |---|---|
-| P3-06 | Bedruckung des Vermittlungscodes auf PTV 11 |
+| **P3-06** | Bedruckung des Vermittlungscodes auf PTV 11 |
 
 Die Software muss den Vermittlungscode auf Musters PTV 11
 
@@ -303,9 +303,9 @@ scode verwenden - und URL des
 
 ABRECHNUNGSINFORMATION
 
-| PFLICHTFUNKTION |  |
+| **PFLICHTFUNKTION** |  |
 |---|---|
-| P4-01 | Umsetzung der eTerminservicestellen-Schnittstelle zur Anforderung von |
+| **P4-01** | Umsetzung der eTerminservicestellen-Schnittstelle zur Anforderung von |
 
 Die Software muss dem Anwender die Schnittstellen-Funktionen des eTerminservices  TSS-
 
@@ -331,9 +331,9 @@ Der Nachweis der Umsetzung erfolgt im Rahmen eines Audits der kv.digital GmbH.
 
 **4.1** **SUCHFUNKTIONEN FÜR TSS-ABRECHNUNGSINFORMATIONEN**
 
-| PFLICHTFUNKTION |  |
+| **PFLICHTFUNKTION** |  |
 |---|---|
-| P4-02 | Abfrage von gebuchten Terminen bei der Terminservicestelle |
+| **P4-02** | Abfrage von gebuchten Terminen bei der Terminservicestelle |
 
 Der Anwender muss die Möglichkeit haben, sich die von der Terminservicestelle gebuchten Termine für
 
@@ -366,9 +366,9 @@ TSS- Abrechnungsinformationen auf Basis von KV-Connect  - a) Dem Anwender wird d
 
 - 4) Die Software stellt die Ergebnisse der Abfrage nach der Anforderung P4-03 dar.
 
-| PFLICHTFUNKTION |  |
+| **PFLICHTFUNKTION** |  |
 |---|---|
-| P4-03 | Darstellung der Abfrageergebnisse |
+| **P4-03** | Darstellung der Abfrageergebnisse |
 
 Die Software stellt dem Anwender die Ergebnisse der Abfrage in einer übersichtlichen Form dar.
 
@@ -443,9 +443,9 @@ Software anzuzeigen.
 
 - c) Für das vorherige Quartal
 
-| PFLICHTFUNKTION |  |
+| **PFLICHTFUNKTION** |  |
 |---|---|
-| P4-04 | Übernahme der Termindaten bei Zuordnung eines Termins zu einem Schein eines Patienten |
+| **P4-04** | Übernahme der Termindaten bei Zuordnung eines Termins zu einem Schein eines Patienten |
 
 Die Software übernimmt bei der Zuordnung eines Termins zu einem Schein des Patienten, die für die  Abrechnung relevanten Daten des Termins.
 
@@ -463,7 +463,7 @@ Terminservicestelle automatisch nach einer Bestätigung des Anwenders in die Abr
 
 - Ressource) gemappt in die KVDT-Feldkennung 4103. Hierbei gilt das folgende Mapping
 
-| FHIR-Code | FHIR-Displaywert | Ausprägung FK 4103 |
+| **FHIR-Code** | **FHIR-Displaywert** | **Ausprägung FK 4103** |
 |---|---|---|
 | 709122007 | As soon as possible | 2 |
 | 103391001 | Urgent | 1 |
@@ -591,9 +591,9 @@ Die Ermittlung der Vorschläge der zeitgestaffelten Zuschläge erfolgt gemäß d
 
 Akzeptanzkriterium (1) und (2) und (4).
 
-| PFLICHTFUNKTION |  |
+| **PFLICHTFUNKTION** |  |
 |---|---|
-| P4-06 | Automatische Zuordnung eines Termins zu einem |
+| **P4-06** | Automatische Zuordnung eines Termins zu einem |
 
 Die Software prüft bei der Erfassung eines Patienten, ob für diesen ein Termin der Terminservicestelle
 
@@ -659,7 +659,7 @@ Parametern Nachname und Vorname kann eine Phonetische Suche verwendet und alle p
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 | [Anbindung_KV_Connect] | Anforderungskatalog „Anbindung an KV    Dieses Dokument wird in dem Verzeichnis  https://update.kbv.de/ita-update/KV- |
 | [Spec_eTerminservice] | Spezifikation „Spezifikation KV    Dieses Dokument wird in dem Verzeichnis  https://update.kbv.de/ita-update/TSS  bereitgestellt. |
 | [Spec_eTerminservice_Abr] | Spezifikation „Spezifikation KV    Dieses Dokument wird in dem Verzeichnis  https://update.kbv.de/ita-update/TSS/    bereitgestellt. |

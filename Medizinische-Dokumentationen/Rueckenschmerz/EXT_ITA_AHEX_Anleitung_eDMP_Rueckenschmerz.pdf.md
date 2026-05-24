@@ -2,10 +2,7 @@
 
 ## zum indikationsspezifischen Datensatz
 
-## für das strukturierte Behandlungsprogramm
-
-## chronischer Rückenschmerz
-
+## für das strukturierte Behandlungsprogramm chronischer Rückenschmerz
 Stand der letzten Bearbeitung: 09.07.2020
 
 Version 1.0
@@ -15,10 +12,7 @@ Version 1.0
 
 ## Relevante Ereignisse
 
-#### Ungeplante ambulante oder stationäre kreuzschmerzbedingte Akutbehandlung seit der
-
-#### letzten Dokumentation
-
+#### Ungeplante ambulante oder stationäre kreuzschmerzbedingte Akutbehandlung seit der letzten Dokumentation
 Eine Angabe in diesem Feld ist nur im Rahmen einer **Folgedokumentation** möglich und hier verpflichtend
 
 **Eine numerische Angabe ohne Nachkommastelle ist erforderlich**
@@ -280,10 +274,7 @@ Geben Sie die Angabe als ganze Zahl in diesem Feld ein. Eine Angabe kleiner als 
 
 nicht möglich.
 
-#### CPG Item 5: Kreuzschmerzbedingte Beeinträchtigung der alltäglichen Aktivitäten (Ankleiden,
-
-#### Waschen, Essen, Einkaufen etc.) in den letzten drei
-
+#### CPG Item 5: Kreuzschmerzbedingte Beeinträchtigung der alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei
 In diesem Feld ist eine** numerische Angabe**
 
 Zur regelmäßigen Verlaufsuntersuchung in

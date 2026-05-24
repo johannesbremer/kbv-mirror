@@ -2,10 +2,7 @@
 
 ## Ausfüllanleitung
 
-## zum indikationsspezifischen Datensatz
-
-## für das strukturierte Behandlungsprogramm
-
+## zum indikationsspezifischen Datensatz für das strukturierte Behandlungsprogramm
 Stand der letzten Bearbeitung:  12.02.2021
 
 Version 1.0
@@ -47,7 +44,7 @@ Summenwertes.
 
 Tabelle 1: Interpretation des PHQ-9-Summenwerts
 
-| PHQ-9  Summenwert | Schweregrad der Depression |
+| **PHQ-9  Summenwert** | **Schweregrad der Depression** |
 |---|---|
 | 0 | Fehlen einer depressiven Schweregradausprägung |
 | 5 | Leichte Ausprägung |
@@ -82,7 +79,7 @@ Liegt der Differenzwert **zwischen -5 und -27 Punkten,** spricht dies für eine 
 
 Tabelle 2: Interpretation der PHQ-9-Differenzwerte
 
-| PHQ-9-Differenzwert | Interpretation |
+| **PHQ-9-Differenzwert** | **Interpretation** |
 |---|---|
 | 5 bis 27 | Relevante Verbesserung im Vergleich zur letzten Dokumentation |
 | > -5 bis < 5 | Keine bedeutsame Veränderung im Vergleich zur letzten Dokumentation |

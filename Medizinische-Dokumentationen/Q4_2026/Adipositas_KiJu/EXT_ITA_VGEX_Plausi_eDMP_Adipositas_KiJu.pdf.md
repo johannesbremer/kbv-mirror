@@ -29,25 +29,25 @@
 
 |  |  | | |
 |---|---|---|---|
-| Lfd. Nr. | Parameter | Ausprägung | Plausibilitätsregeln |
+| Lfd. Nr. | **Parameter** | **Ausprägung** | **Plausibilitätsregeln** |
 | Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* in Feld 10 mindestens die Angabe „ | | | |
 | Therapeutische Maßnahmen |  | | |
 | 1 | BMI-SDS | Zahl (-3,00 bis 6,00; Angabe mit zwei | Pflichtfeld;  Nummerische Angabe, die Angabe erfolgt  Die Angabe muss innerhalb des |
 | 2a | Ziele zur regelmäßigen Bewegung | Ziele vereinbart / | Bedingtes Pflichtfeld;  Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn die |
 |  |  |  |  |
-|  |  |  | Lfd. Nr.  Parameter  Ausprägung  Plausibilitätsregeln |
+|  |  |  | Lfd. Nr. **Parameter  Ausprägung  Plausibilitätsregeln** |
 |  | Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* in Feld 10 mindestens die Angabe „ |  | Therapeutische Maßnahmen |
 |  | 1 | BMI-SDS | Zahl (-3,00 bis 6,00; Angabe mit zwei   Pflichtfeld;  Nummerische Angabe, die Angabe erfolgt  Die Angabe muss innerhalb des |
 | 2a | Ziele zur regelmäßigen Bewegung | Ziele vereinbart / | Bedingtes Pflichtfeld;  Genau eine Angabe ist zulässig. |
 |  |  |  |  |
-|  |  | Lfd. Nr. | Parameter  Ausprägung |
-| Plausibilitätsregeln | Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* in Feld 10 mindestens die Angabe „ | | |
+|  |  | Lfd. Nr. | **Parameter  Ausprägung** |
+| **Plausibilitätsregeln** | Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* in Feld 10 mindestens die Angabe „ | | |
 | Therapeutische Maßnahmen |  |  | 1  BMI-SDS  Zahl (-3,00 bis 6,00; Angabe mit zwei   Pflichtfeld; |
 | Nummerische Angabe, die Angabe erfolgt | Die Angabe muss innerhalb des | 2a | Ziele zur regelmäßigen Bewegung  Ziele vereinbart / |
 | Bedingtes Pflichtfeld; | Genau eine Angabe ist zulässig. | Eine Angabe ist erforderlich, wenn die |  |
 |  |  |  |  |
 |  |  | | |
-| Lfd. Nr. | Parameter  Ausprägung | Plausibilitätsregeln | Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* in Feld 10 mindestens die Angabe „ Therapeutische Maßnahmen |
+| Lfd. Nr. | **Parameter  Ausprägung** | **Plausibilitätsregeln** | Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* in Feld 10 mindestens die Angabe „ Therapeutische Maßnahmen |
 
 Kinder und Jugendliche“ erfolgt, sind die nachstehenden Felder der Anlage Plausibilitätsregeln auszufüllen. im Alltag 26* entsprechend den Festlegungen der  Nachkommastellen) Keine Ziele vereinbart Adipositas - mit zwei Nachkommastellen. Positive Werte werden ohne Vorzeichen angegeben. Negative Werte werden mit einem Minus direkt vor dem Wert angegeben. Wertebereichs von gleich oder größer bis kleiner oder gleich liegen. Anlage 26* im Rahmen einer Erstdokumentation auszufüllen ist.
 

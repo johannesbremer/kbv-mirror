@@ -144,15 +144,9 @@ Geben Sie bitte an, ob eine Bedarfs - und/oder Dauertherapie mit langwirksamen B
 
 - und Anticholinergikum
 
-maximal - *Formoterol, Salmeterol*
+maximal 14 -tägige) Gabe von systemischen - oder
 
-14 -tägige) Gabe
-
-- oder
-
--
-
-von systemischen
+- *Formoterol, Salmeterol*
 
 holinergikums -2-Sympathomimetikums besteht.
 

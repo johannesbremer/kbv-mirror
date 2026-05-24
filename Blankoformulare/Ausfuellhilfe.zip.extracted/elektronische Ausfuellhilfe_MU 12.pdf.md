@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | DEZERNAT  ABTEILUNG VERANLASSTE LEISTUNGEN 1. JULI 2024 |
+|  | **DEZERNAT  ABTEILUNG VERANLASSTE LEISTUNGEN 1. JULI 2024 ** |
 |---|---|
 
 # MUSTER 12  VERORDNUNG

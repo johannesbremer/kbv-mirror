@@ -1,7 +1,4 @@
-## Ihre individuelle Information
-
-## zur Psychotherapeutischen  Sprechstunde
-
+## Ihre individuelle Information zur Psychotherapeutischen  Sprechstunde
 Nähere Angaben zu den Empfehlungen
 
 Diagnose(n)/Verdachtsdiagnose(n)*** (im Klartext)***, weitere Hinweise zum Krankheitsbild und ggf. zu durchgeführten Maßnahmen

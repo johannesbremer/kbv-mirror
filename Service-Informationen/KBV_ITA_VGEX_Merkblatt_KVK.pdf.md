@@ -1,19 +1,20 @@
-| ***IT in*** | ***der*** | ***Arztpraxis*** | |
-|---|---|---|---|
-|  | *Merkblatt* |  |  |
-|  |  | *Krankenversichertenkarte* | |
-|  |  | [KBV_ITA_VGEX_Merkblatt_KVK] | |
-| Dezernat | 6 |  |  |
-|  | Informationstechnik, | Telematik | und Telemedizin |
-| 10623 | Berlin, | Herbert-Lewin-Platz | 2 |
-|  | Kassenärztliche | Bundesvereinigung | |
-| Version | 2.05 |  |  |
-| Datum: |  | 20.07.2012 |  |
-| Klassifizierung: | Extern |  |  |
-| Status: | In | Kraft |  |
-| © | Kassenärztliche | Bundesvereinigung, | Berlin 2012 |
+## IT in der Arztpraxis
 
-IT in der Arztpraxis Dezernat 6 Informationstechnik, Telematik und Telemedizin 10623 Berlin, Herbert-Lewin-Platz 2 Kassenärztliche Bundesvereinigung Version  2.05 Datum: 20.07.2012 Klassifizierung: Extern  Status: In Kraft © Kassenärztliche Bundesvereinigung, Berlin 2012
+## Merkblatt  Krankenversichertenkarte
+
+### [KBV_ITA_VGEX_Merkblatt_KVK]
+
+### Dezernat 6  Informationstechnik, Telematik und Telemedizin
+
+10623 Berlin, Herbert-Lewin-Platz 2
+
+### Kassenärztliche Bundesvereinigung
+
+Version 2.05
+
+Datum: 20.07.2012  Klassifizierung: Extern  Status: In Kraft
+
+© Kassenärztliche Bundesvereinigung, Berlin 2012
 
 
 ---
@@ -38,9 +39,9 @@ Datenstruktur  Versichertendaten
 
 #### Begründung
 
-Redaktionelle Änderung
-
 #### Seite
+
+Redaktionelle Änderung
 
 
 ---
@@ -666,18 +667,15 @@ Tritt ein Fehler zum zweiten Mal hintereinander auf, ist vom Host her eine Resyn
 
 **Card-**  **Terminal**
 
-|  | **Fehlerhafter** |  |  |
-|---|---|---|---|
-| **I-Block** | | **Host/CT:** |  |
-| **1.** | **CT sendet** |  | **R-Block** |
-| **2.** | **Host** | **wiederholt** | **I-Block** |
-| **3.** | **CT sendet** |  | **I-Block** |
-|  | **Fehlerhafter** |  |  |
-| **I-Block** |  | **CT/Host:** |  |
-| **1.** | **Host** | **sendet** | **R-Block** |
-| **2. CT** | **sendet** | **I-Block** | |
+**Fehlerhafter**  **I-Block Host/CT:**
 
-I-Block Host/CT: 1. CT sendet R-Block 2. Host wiederholt I-Block 3. CT sendet I-Block I-Block CT/Host: 1. Host sendet R-Block 2. CT sendet I-Block
+**1. CT sendet R-Block**
+**2. Host wiederholt I-Block**
+**3. CT sendet I-Block** **Fehlerhafter**  **I-Block CT/Host:**
+
+**1. Host sendet R-Block**
+**2. CT sendet I-Block**
+
 
 ---
 
@@ -732,18 +730,7 @@ Im Informationsfeld wird das Kommando bzw. die Antwort auf das Kommando übertra
 
 **e) Das EDC-Feld**   Im EDC-Feld wird die XOR-Prüfsumme (1 Byte) übertragen.
 
-#### RESYNCH
-
-#### S-Block indication
-
-#### RESYNCH
-
-#### S-Block indication
-
-**request**
-
-#### response
-
+#### RESYNCH request S-Block indication RESYNCH response S-Block indication
 
 ---
 
@@ -924,11 +911,9 @@ Response:
 
 SW1 SW2
 
-L
+L Lc
 
-'00' Lc
-
-Lc  Application Id. (AID)
+'00' Lc Application Id. (AID)
 
 AID der Krankenversicherten-
 

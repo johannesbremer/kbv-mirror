@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  31. MÄRZ 2026   VERSION: 1.05   DOKUMENTENSTATUS: IN KRAF |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  31. MÄRZ 2026   VERSION: 1.05   DOKUMENTENSTATUS: IN KRAF** |
 |---|---|
 
 # PRUEFPAKET EDMP HERZINSUFFIZIENZ
@@ -151,7 +151,7 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 24
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.05 | 31.03.2026 | KBV | Anpassung der    Anpassung Prüffall | Schnittstellenversion    Änderung der | 11          23 |
 | 1.04 | 09.12.2024 | KBV | Anpassung der    Überarbeitung des | Schnittstellenversion | 11          22 |
@@ -384,30 +384,30 @@ Dateien sind folgendermaßen aufgebaut:
 
 Folgende Angaben sind für die Zertifizierung zu verwenden:
 
-| BEZEICHNUNG | INHALT |
+| **BEZEICHNUNG** | **INHALT** |
 |---|---|
-| Betriebsstättennummer (BSNR) | 391234511 |
-| BSNR-Bezeichnung | Praxis Dr. med. Heribert Topp-Glücklich |
-| Lebenslange Arztnummer (LANR | 838382202 |
-| Arztname | Dr. med. Heribert Topp-Glücklich |
-| Straße | Musterstr. |
-| Hausnummer | 1 |
-| PLZ/Ort | 64297 Darmstadt |
-| Telefon | 06151 / 1111111 |
-| Telefax | 06151 / 2222222 |
+| **Betriebsstättennummer (BSNR)** | 391234511 |
+| **BSNR-Bezeichnung** | Praxis Dr. med. Heribert Topp-Glücklich |
+| **Lebenslange Arztnummer (LANR** | 838382202 |
+| **Arztname** | Dr. med. Heribert Topp-Glücklich |
+| **Straße** | Musterstr. |
+| **Hausnummer** | 1 |
+| **PLZ/Ort** | 64297 Darmstadt |
+| **Telefon** | 06151 / 1111111 |
+| **Telefax** | 06151 / 2222222 |
 
 ### 1.6.6 Krankenhausdaten
 
 Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der Begleitdatei als Absender bzw.  dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. Für die Angabe des  dokumentierenden Arztes, der auch hier genannt werden muss, ist der oben genannte Arztname zu  verwenden. Herr Topp-Glücklich ist also für die „Krankenhausfälle“ Angestellter des Krankenhauses und  betreut den Patienten im DMP. Es soll hier seine Telefonnummer angegeben werden. Die  Vertragsarztnummer spielt hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind  demzufolge zwei Absender (Krankenhaus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete  und zwei Begleitdateien einzureichen.
 
-| BEZEICHNUNG | INHALT |
+| **BEZEICHNUNG** | **INHALT** |
 |---|---|
-| Krankenhaus-IK | 856215715 |
-| Name des Krankenhauses | Test-Krankenhaus, Pneumologie |
-| Straße | Am Wehr |
-| Hausnummer | 20 |
-| Postleitzahl und Ort | 10437 Berlin |
-| Telefonnummer | 06151/3333333 |
+| **Krankenhaus-IK** | 856215715 |
+| **Name des Krankenhauses** | Test-Krankenhaus, Pneumologie |
+| **Straße** | Am Wehr |
+| **Hausnummer** | 20 |
+| **Postleitzahl und Ort** | 10437 Berlin |
+| **Telefonnummer** | 06151/3333333 |
 
 ### 1.6.7 Prüfnummer
 
@@ -428,13 +428,13 @@ Vertrag für den KV-Bereich Hessen existiert), kann ein beliebiger Empfänger ge
 
 Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
-| PRÜFFALL-ID | NAME | VERZEICHNISNAME |
+| **PRÜFFALL-ID** | **NAME** | **VERZEICHNISNAME** |
 |---|---|---|
-| 4511 | Viktor Müller | XML_09 |
-| 4512 | Monika Kleinjung | XML_08 |
-| TDV 4518 | Brigitte Althaus | XML_05 |
-| 4540 | Lija Malta | XML_36 |
-| 4520 | Kai von und zu Oldenburg | Ersatzverfahren (s. Anhang 4.1) |
+| **4511** | Viktor Müller | XML_09 |
+| **4512** | Monika Kleinjung | XML_08 |
+| **TDV 4518** | Brigitte Althaus | XML_05 |
+| **4540** | Lija Malta | XML_36 |
+| **4520** | Kai von und zu Oldenburg | Ersatzverfahren (s. Anhang 4.1) |
 
 
 ---
@@ -447,11 +447,11 @@ Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
 |  |  |
 |---|---|
-| Prüffall-ID | 4511 |
-| Testziel | Anlage einer Erst- und einer Verlaufsdokumentation |
-| Voraussetzung |  |
-| Prüfunterlagen | 1. HI-Dokumentationsunterlagen |
-| Hinweis |  |
+| **Prüffall-ID** | 4511 |
+| **Testziel** | Anlage einer Erst- und einer Verlaufsdokumentation |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | 1. HI-Dokumentationsunterlagen |
+| **Hinweis** |  |
 
 ### Prüffall 4511
 
@@ -463,22 +463,22 @@ Die Versichertendaten von
 
 - **2.** **Anlegen einer Erst- und einer Verlaufsdokumentation**
 
-| INDIKATIONSÜBERGREIFENDE | | |
+| **INDIKATIONSÜBERGREIFENDE** | | |
 |---|---|---|
-| Administrative Daten | Erstdokumentation | Verlaufsdokumentation |
+| **Administrative Daten** | **Erstdokumentation** | **Verlaufsdokumentation** |
 | DMP-Fallnummer | 4511 | 4511 |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum | 07.01.2025 | 10.06.2025 |
 | Einschreibung wegen | Herzinsuffizienz | Herzinsuffizienz |
 | Geschlecht | Männlich | Männlich |
-| Allgemeine Anamnese- und Befunddaten | | |
+| **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 2,01 m | 2,01 m |
 | Körpergewicht | 126 kg | 120 kg |
 | Blutdruck | 300 / 180 mmHg | 250 / 90 mmHg |
 | Raucher | Ja | Nein |
 | Begleiterkrankungen | COPD | COPD |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Vom Patienten gewünschte | Tabakverzicht,  Körperliches Training |  |
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung | 07.01.2025 | 10.06.2025 |
@@ -491,14 +491,14 @@ DATEN Informationsangebote der Krankenkasse  15.mm.jjjj Chronische Arterielle Hy
 
 ---
 
-| INDIKATIONS | | |
+| **INDIKATIONS** | | |
 |---|---|---|
-| Anamnese- und Befunddaten | Erstdokumentation | Verlaufsdokumentation |
+| **Anamnese- und Befunddaten** | **Erstdokumentation** | **Verlaufsdokumentation** |
 | Serum-Elektrolyte und eGFR in den letzten sechs | Ja | Nein |
 | Symptomatik | NYHA III | NYHA II |
-| Relevante Ereignisse | | |
+| **Relevante Ereignisse** | | |
 | Ungeplante stationäre Behandlung, wegen |  | 10 |
-| Medikamente | | |
+| **Medikamente** | | |
 | ACE-Hemmer | Ja | Kontraindikation |
 | Evidenzbasierte Zieldosis ACE-Hemmer oder ARB | Nicht erreicht, |  |
 | Betablocker | Ja | Nein, Kontraindikation |
@@ -506,11 +506,11 @@ DATEN Informationsangebote der Krankenkasse  15.mm.jjjj Chronische Arterielle Hy
 | Mineralokortikoid-Rezeptor-Antagonist (MRA) | Kontraindikation | Ja |
 | Evidenzbasierte Zieldosis MRA |  | Max. tolerierte Dosis |
 | SGLT2 – Inhibitor | Ja | Nein |
-| Schulung | | |
+| **Schulung** | | |
 | Herzinsuffizienz-spezifische Schulung empfohlen | Ja | Nein |
 | Bereits vor Einschreibung in das DMP an einer | Nein |  |
 | Empfohlene Herzinsuffizienz-spezifische Schulung |  | War aktuell nicht möglich |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Regelmäßiges körperliches Training | Nicht möglich | Ja |
 | Führen eines Gewichtsprotokolls | Ja | Nicht erforderlich |
 
@@ -522,15 +522,15 @@ PEZIFISCHE DATEN Monaten Herzinsuffizienz, seit der letzten Dokumentation (bei a
 
 |  |  |
 |---|---|
-| Prüffall-ID | 4512 |
-| Testziel | Anlage einer Erst- und einer Verlaufsdokumentation |
-| Voraussetzung |  |
-| Prüfunterlagen | 1. HI-Dokumentationsunterlagen |
-| Hinweis |  |
+| **Prüffall-ID** | 4512 |
+| **Testziel** | Anlage einer Erst- und einer Verlaufsdokumentation |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | 1. HI-Dokumentationsunterlagen |
+| **Hinweis** |  |
 
-| INDIKATIONS | | |
+| **INDIKATIONS** | | |
 |---|---|---|
-| Anamnese- und Befunddaten | Erstdokumentation | Verlaufsdokumentation |
+| **Anamnese- und Befunddaten** | **Erstdokumentation** | **Verlaufsdokumentation** |
 | Serum-Elektrolyte und eGFR in den letzten sechs | Ja | Nein |
 |  | | |
 |  |  |  |
@@ -541,7 +541,7 @@ PEZIFISCHE DATEN Monaten Herzinsuffizienz, seit der letzten Dokumentation (bei a
 |  |  |  |
 |  |  |  |
 |  |  |  |
-|  | 2. |  |
+|  | **2.** |  |
 |  |  |  |
 |  |  |  |
 |  | | |
@@ -552,22 +552,22 @@ PEZIFISCHE DATEN Monaten Herzinsuffizienz, seit der letzten Dokumentation (bei a
 | Chronische |  |  |
 | Weiblich |  |  |
 
-| INDIKATIONSÜBERGREIFENDE | | |
+| **INDIKATIONSÜBERGREIFENDE** | | |
 |---|---|---|
-| Administrative Daten | Erstdokumentation | Verlaufsdokumentation |
+| **Administrative Daten** | **Erstdokumentation** | **Verlaufsdokumentation** |
 | DMP-Fallnummer | 4512 | 4512 |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  | Ja |
 | Datum | 07.01.2025 | 10.06.2025 |
 | Einschreibung wegen | Chronische | Chronische |
 | Geschlecht | Weiblich | Weiblich |
-| Allgemeine Anamnese- und Befunddaten | | |
+| **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 1,50 m | 1,51 m |
 | Körpergewicht | 050 kg | 050 kg |
 | Blutdruck | 100 / 50 mmHg | 100 / 50 mmHg |
 | Raucher | Ja | Nein |
 | Begleiterkrankungen | Erkrankungen | COPD |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Vom Patienten gewünschte | Ernährungsberatung |  |
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung | 07.01.2025 | 10.06.2025 |
@@ -580,11 +580,11 @@ DATEN Informationsangebote der Krankenkasse  15.mm.jjjj Herzinsuffizienz Keine d
 |---|---|---|
 |  |  |  |
 |  |  |  |
-| INDIKATIONS | | |
+| **INDIKATIONS** | | |
 | Symptomatik | NYHA II | NYHA IV |
-| Relevante Ereignisse | | |
+| **Relevante Ereignisse** | | |
 | Ungeplante stationäre Behandlung, wegen |  | 5 |
-| Medikamente | | |
+| **Medikamente** | | |
 | ACE-Hemmer | Ja | ARB, Kontraindikation |
 | Evidenzbasierte Zieldosis ACE-Hemmer oder ARB | Nicht erreicht, Max. | Titrationsphase |
 | Betablocker | Ja | Kontraindikation |
@@ -592,11 +592,11 @@ DATEN Informationsangebote der Krankenkasse  15.mm.jjjj Herzinsuffizienz Keine d
 | Mineralokortikoid-Rezeptor-Antagonist (MRA) | Ja | Ja |
 | Evidenzbasierte Zieldosis MRA | Nicht erreicht | Erreicht |
 | SGLT2 – Inhibitor | Nein | Ja |
-| Schulung | | |
+| **Schulung** | | |
 | Herzinsuffizienz-spezifische Schulung empfohlen | Ja | Nein |
 | Bereits vor Einschreibung in das DMP an einer | Ja |  |
 | Empfohlene Herzinsuffizienz-spezifische Schulung |  | Ja |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Regelmäßiges körperliches Training | Ja |  |
 | Führen eines Gewichtsprotokolls | Ja | Nicht erforderlich |
 
@@ -608,11 +608,11 @@ PEZIFISCHE DATEN Herzinsuffizienz, seit der letzten Dokumentation (bei aktueller
 
 |  |  |
 |---|---|
-| Prüffall-ID | 4520 |
-| Testziel | Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider |
-| Voraussetzung |  |
-| Prüfunterlagen | 1. HI-Dokumentationsunterlagen 2. zusätzlich COPD-Dokumentationsunterlagen |
-| Hinweis | Sofern das System eine Zulassung für die Indikation COPD verfügt, müssen die |
+| **Prüffall-ID** | 4520 |
+| **Testziel** | Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | 1. HI-Dokumentationsunterlagen 2. zusätzlich COPD-Dokumentationsunterlagen |
+| **Hinweis** | Sofern das System eine Zulassung für die Indikation COPD verfügt, müssen die |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -622,16 +622,16 @@ Die Versichertendaten von Kai von und zu Oldenburg (Anhang 4.1) im Ersatzverfahr
 
 - **2.** **Anlegen einer Erst- und einer Verlaufsdokumentation**
 
-| INDIKATIONSÜBERGREIFENDE | | |
+| **INDIKATIONSÜBERGREIFENDE** | | |
 |---|---|---|
-| Administrative Daten | Erstdokumentation | Verlaufsdokumentation |
+| **Administrative Daten** | **Erstdokumentation** | **Verlaufsdokumentation** |
 | DMP-Fallnummer | 4520 | 4520 |
 | Krankenhaus-IK | 856215715 | 856215715 |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum | 07.01.2025 | 10.06.2025 |
 | Einschreibung wegen | Chronische | Chronische |
 | Geschlecht | Männlich | Männlich |
-| Allgemeine Anamnese- und Befunddaten | | |
+| **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 1,75 m | 1,75 m |
 | Körpergewicht | 064 kg | 062 kg |
 | Blutdruck | 120 / 70 mmHg | 124 / 76 mmHg |
@@ -664,24 +664,24 @@ Einschreibung entsprechenden Daten ebenfalls dokumentiert werden. Sollte das Sys
 |  | COPD |  |
 | Inhalative |  | HI |
 | Ja |  |  |
-| INDIKATIONSÜBERGREIFENDE | | |
-| Behandlungsplanung | | |
+| **INDIKATIONSÜBERGREIFENDE** | | |
+| **Behandlungsplanung** | | |
 | Vom Patienten gewünschte | Ernährungsberatung |  |
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung | 07.01.2025 | 10.06.2025 |
 
-| INDIKATIONS | | | |
+| **INDIKATIONS** | | | |
 |---|---|---|---|
-| Anamnese- und Befunddaten | Erstdokumentation | Verlaufsdokumentation | |
+| **Anamnese- und Befunddaten** | **Erstdokumentation** | **Verlaufsdokumentation** | |
 | COPD | Aktueller FEV1-Wert (alle 6 bis 12 | 060,0 Prozent des Soll | 092,0 Prozent des |
 | COPD | Klinische Einschätzung des | Nein | Nein |
 | HI |  | Ja | Nein |
 | HI | Symptomatik | NYHA IV | NYHA III |
-| Relevante Ereignisse | | | |
+| **Relevante Ereignisse** | | | |
 | COPD |  |  | 2 |
 | COPD | Stationäre notfallmäßige Behandlung |  | 1 |
 | HI | Ungeplante stationäre Behandlung, |  | 8 |
-| Medikamente | | | |
+| **Medikamente** | | | |
 | COPD | Kurz wirksame Beta-2-Sympathomimetika | Kontraindikation | Dauermedikation |
 | COPD | Lang wirksame Beta-2-Sympathomimetika | Dauermedikation | Kontraindikation |
 | COPD | Lang wirksame Anticholinergika | Keine, Kontraindikation | Keine |
@@ -732,24 +732,24 @@ DATEN Informationsangebote der Krankenkasse PEZIFISCHE DATEN Anamnese- und Befun
 | Ja |  | COPD |  |
 | Ja |  | HI |  |
 | Nein |  | HI |  |
-| Nicht erforderlich |  | INDIKATIONS | Schulung |
+| Nicht erforderlich |  | **INDIKATIONS** | **Schulung** |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
-| INDIKATIONS | | | |
+| **INDIKATIONS** | | | |
 | HI | Mineralokortikoid-Rezeptor-Antagonist | Kontraindikation | Ja |
 | HI | Evidenzbasierte Zieldosis MRA |  | Max. tolerierte Dosis |
 | HI | SGLT2 – Inhibitor | Ja | Nein |
 |  |  |  |  |
-| Schulung | | | |
+| **Schulung** | | | |
 | COPD | COPD-Schulung empfohlen (bei aktueller | Nein | Ja |
 | COPD | Schulung schon vor der Einschreibung in | Nein |  |
 | COPD | Empfohlene Schulung wahrgenommen |  | Bei letzter |
 | HI | Herzinsuffizienz-spezifische Schulung | Ja | Nein |
 | HI | Bereits vor Einschreibung in das DMP an | Ja |  |
 | HI | Empfohlene Herzinsuffizienz-spezifische |  | Ja |
-| Behandlungsplanung | | | |
+| **Behandlungsplanung** | | | |
 | COPD | COPD-bezogene Über- bzw. Einweisung | Nein | Nein |
 | COPD | Empfehlung zum Tabakverzicht | Ja |  |
 | COPD | Empfehlung zur Teilnahme an | Ja |  |
@@ -768,11 +768,11 @@ PEZIFISCHE DATEN (MRA) Dokumentation) ein DMP bereits wahrgenommen  empfohlen (b
 
 |  |  |
 |---|---|
-| Prüffall-ID | 4514 |
-| Testziel | Kontrolle der softwareseitigen Erkennung von Fehleingaben |
-| Voraussetzung | Patient oder Patientin ist mindestens 18 Jahre alt |
-| Prüfunterlagen | Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert.   Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
-| Hinweis | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben sind. |
+| **Prüffall-ID** | 4514 |
+| **Testziel** | Kontrolle der softwareseitigen Erkennung von Fehleingaben |
+| **Voraussetzung** | Patient oder Patientin ist mindestens 18 Jahre alt |
+| **Prüfunterlagen** | Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert.   Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
+| **Hinweis** | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben sind. |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -782,16 +782,16 @@ Die Personalien zu dem Testfall sind frei wählbar.
 
 - **2.** **Anlegen einer Erstdokumentation:**
 
-| INDIKATIONSÜBERGREIFENDE | | |
+| **INDIKATIONSÜBERGREIFENDE** | | |
 |---|---|---|
-| Administrative Daten | Erstdokumentation | Aktion |
+| **Administrative Daten** | **Erstdokumentation** | **Aktion** |
 | DMP-Fallnummer | 4514 |  |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum | 07.01.2025 |  |
 | Einschreibung wegen | Herzinsuffizienz |  |
 | Geschlecht | Je nach Auswahl des |  |
-| Allgemeine Anamnese- und Befunddaten | | |
+| **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 1,51 m |  |
 | Körpergewicht | 71 kg |  |
 | Blutdruck | 125 / 89 mmHg |  |
@@ -802,20 +802,20 @@ Dokumentieren Sie durch Video(s) die Eingaben nach einer möglichen Aktionen in 
 
 ---
 
-| BEHANDLUNGSPLANUNG | | |
+| **BEHANDLUNGSPLANUNG** | | |
 |---|---|---|
 | Vom Patienten gewünschte Informationsangebote der |  |  |
 | Dokumentationsintervall | Quartalsweise |  |
 | Datum der Erstellung | 07.01.2025 |  |
 
-| INDIKATIONS | | |
+| **INDIKATIONS** | | |
 |---|---|---|
-| Administrative Daten | Erstdokumentation | Aktion |
+| **Administrative Daten** | **Erstdokumentation** | **Aktion** |
 | Serum-Elektrolyte und eGFR in den letzten sechs Monaten | Ja |  |
 | Symptomatik | NYHA II |  |
-| Relevante Ereignisse | | |
+| **Relevante Ereignisse** | | |
 | Ungeplante stationäre Behandlung, wegen | 10 | Nr. 3 |
-| Medikamente | | |
+| **Medikamente** | | |
 | ACE-Hemmer | Kontraindikation |  |
 | Evidenzbasierte Zieldosis ACE-Hemmer oder ARB | Nicht erreicht | Nr. 4 |
 | Betablocker | Nein, Kontraindikation |  |
@@ -823,11 +823,11 @@ Dokumentieren Sie durch Video(s) die Eingaben nach einer möglichen Aktionen in 
 | Mineralokortikoid-Rezeptor-Antagonist (MRA) | Ja |  |
 | Evidenzbasierte Zieldosis MRA | Max. tolerierte Dosis |  |
 | SGLT2 – Inhibitor |  | Nr. 6 |
-| Schulung | | |
+| **Schulung** | | |
 | Herzinsuffizienz-spezifische Schulung empfohlen (bei | Ja |  |
 | Bereits vor Einschreibung in das DMP an einer |  | Nr. 7 |
 | Empfohlene Herzinsuffizienz-spezifische Schulung | War aktuell nicht möglich | Nr. 8 |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Regelmäßiges körperliches Training |  | Nr. 9 |
 | Führen eines Gewichtsprotokolls | Ja, Nicht erforderlich | Nr. 10 |
 
@@ -843,14 +843,14 @@ Krankenkasse  15.mm.jjjj SPEZIFISCHE DATEN Herzinsuffizienz, seit der letzten Do
 
 ---
 
-| INDIKATIONS | | |
+| **INDIKATIONS** | | |
 |---|---|---|
-| Anamnese- und Befunddaten | Verlaufsdokumentation | Aktion |
+| **Anamnese- und Befunddaten** | **Verlaufsdokumentation** | **Aktion** |
 | Serum-Elektrolyte und eGFR in den letzten sechs Monaten | Ja |  |
 | Symptomatik | NYHA II |  |
-| Relevante Ereignisse | | |
+| **Relevante Ereignisse** | | |
 | Ungeplante stationäre Behandlung, wegen | 100 | Nr. 11 |
-| Medikamente | | |
+| **Medikamente** | | |
 | ACE-Hemmer | Nein |  |
 | Evidenzbasierte Zieldosis ACE-Hemmer oder ARB | Nicht erreicht | Nr. 12 |
 | Betablocker | Ja |  |
@@ -858,11 +858,11 @@ Krankenkasse  15.mm.jjjj SPEZIFISCHE DATEN Herzinsuffizienz, seit der letzten Do
 | Mineralokortikoid-Rezeptor-Antagonist (MRA) | Nein |  |
 | Evidenzbasierte Zieldosis MRA | Kontraindikation | Nr. 14 |
 | SGLT2 – Inhibitor | Ja |  |
-| Schulung | | |
+| **Schulung** | | |
 | Herzinsuffizienz-spezifische Schulung empfohlen (bei | Ja |  |
 | Bereits vor Einschreibung in das DMP an einer |  | Nr. 15 |
 | Empfohlene Herzinsuffizienz-spezifische Schulung |  | Nr. 16 |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Regelmäßiges körperliches Training | Nicht möglich |  |
 | Führen eines Gewichtsprotokolls | Nein |  |
 
@@ -874,11 +874,11 @@ SPEZIFISCHE DATEN Herzinsuffizienz, seit der letzten Dokumentation aktueller Dok
 
 |  |  |
 |---|---|
-| Prüffall-ID | 4515 |
-| Testziel | Kontrolle einer Erstdokumentation mit fehlerhafter Einschreibung |
-| Voraussetzung | Software ist in der Lage, sowohl HI als auch KHK zu dokumentieren |
-| Prüfunterlagen | Screenshots / Videodateien und ggf. Erläuterung, wie das Softwaresystem den |
-| Hinweis | Nur umzusetzen, wenn Dokumentation von HI und KHK möglich ist |
+| **Prüffall-ID** | 4515 |
+| **Testziel** | Kontrolle einer Erstdokumentation mit fehlerhafter Einschreibung |
+| **Voraussetzung** | Software ist in der Lage, sowohl HI als auch KHK zu dokumentieren |
+| **Prüfunterlagen** | Screenshots / Videodateien und ggf. Erläuterung, wie das Softwaresystem den |
+| **Hinweis** | Nur umzusetzen, wenn Dokumentation von HI und KHK möglich ist |
 
 - **1.** **Versichertendaten:**
 
@@ -886,16 +886,16 @@ Die Personalien zu dem Testfall sind frei wählbar.
 
 - **2.** **Anlegen einer Erst- und einer Verlaufsdokumentation:**
 
-| INDIKATIONSÜBERGREIFENDE | | |
+| **INDIKATIONSÜBERGREIFENDE** | | |
 |---|---|---|
-| Administrative Daten | Erstdokumentation | Aktion |
+| **Administrative Daten** | **Erstdokumentation** | **Aktion** |
 | DMP-Fallnummer | 4515 |  |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum | 07.01.2025 |  |
 | Einschreibung wegen | Chronische | Nr. 17 |
 | Geschlecht | Je nach Auswahl des |  |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Vom Patienten gewünschte |  |  |
 | Dokumentationsintervall | Quartalsweise |  |
 | Datum der Erstellung | 07.01.2025 |  |
@@ -910,24 +910,24 @@ Eingabefehler verhindert  DATEN Informationsangebote der Krankenkasse  15.mm.jjj
 
 |  |  |
 |---|---|
-| Prüffall-ID | 4530 |
-| Testziel | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
-| Voraussetzung |  |
-| Prüfunterlagen | Dokumentieren Sie durch Videos die Eingaben einschließlich der Ergebnisse nach |
-| Hinweis | Dieser Testfall ist unterteilt in vier Szenarien |
+| **Prüffall-ID** | 4530 |
+| **Testziel** | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | Dokumentieren Sie durch Videos die Eingaben einschließlich der Ergebnisse nach |
+| **Hinweis** | Dieser Testfall ist unterteilt in vier Szenarien |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-| SZENARIEN |
-|---|
-| Szenario 1 |
-| Zeigen Sie, dass das System dem Anwender bei der Auswahl des Parameters „ ). |
-| Szenario 2 |
-| Zeigen Sie, dass das System dem Anwender bei der Auswahl des Parameters „ ). |
-| Szenario 3 |
-| Zeigen Sie, dass das System dem Anwender bei der Auswahl des Parameters „ ). |
-| Szenario 4 |
-| Zeigen Sie, dass das System dem Anwender bei der Auswahl des Parameters „ ). |
+\| **SZENARIEN** |
+\|---|
+\| **Szenario 1** |
+\| Zeigen Sie, dass das System dem Anwender bei der Auswahl des Parameters „ ). |
+\| **Szenario 2** |
+\| Zeigen Sie, dass das System dem Anwender bei der Auswahl des Parameters „ ). |
+\| **Szenario 3** |
+\| Zeigen Sie, dass das System dem Anwender bei der Auswahl des Parameters „ ). |
+\| **Szenario 4** |
+\| Zeigen Sie, dass das System dem Anwender bei der Auswahl des Parameters „ ). |
 
 Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP einer möglichen Hinweissteuerung.  sich die entsprechende Ausfüllanleitung gemäß Anforderung KP1 -48, Akzeptanzkriterium 1 anzeigen zu lassen (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP ACE-Hemmer oder ARB Akzeptanzkriterium 2 anzeigen zu lassen (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP Betablocker “ ermöglicht, sich die entsprechende Ausfüllanleitung gemäß Anforderung KP1 -48, Akzeptanzkriterium 3 anzeigen zu lassen (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP MRA “ ermöglicht, sich die entsprechende Ausfüllanleitung gemäß Anforderung KP1 -48, Akzeptanzkriterium 4 anzeigen zu lassen (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP “ ermöglicht, sich die entsprechende Ausfüllanleitung gemäß Anforderung KP1 -48, Symptomatik “ ermöglicht, Evidenzbasierte Zieldosis Evidenzbasierte Zieldosis Evidenzbasierte Zieldosis
 
@@ -937,11 +937,11 @@ Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP eine
 
 |  | |
 |---|---|
-| Prüffall-ID | 4540 |
-| Testziel | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
-| Voraussetzung |  |
-| Prüfunterlagen | PDF-Datei „TE_EWE_HI.pdf“ |
-| Hinweis | Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der |
+| **Prüffall-ID** | 4540 |
+| **Testziel** | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | PDF-Datei „TE_EWE_HI.pdf“ |
+| **Hinweis** | Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -955,7 +955,7 @@ Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 
 |  |  |
 |---|---|
-| Administrative Daten |  |
+| **Administrative Daten** |  |
 | DMP | Herzinsuffizienz |
 | DMP-Fallnummer | 1010 |
 | Datum | 15.08.2025 |
@@ -989,15 +989,15 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 |  |  |
 |---|---|
-| Prüffall-ID | TDV4518 |
-| Testziel | Anlage einer Erstdokumentation mit der Schnittstellenversion |
-| Voraussetzung |  |
-| Prüfunterlagen | HI Dokumentationsunterlagen |
-| Hinweis | Dieser Prüffall darf nicht in den Prüfunterlagen enthalten sein! |
+| **Prüffall-ID** | TDV4518 |
+| **Testziel** | Anlage einer Erstdokumentation mit der Schnittstellenversion |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | HI Dokumentationsunterlagen |
+| **Hinweis** | **Dieser Prüffall darf nicht in den Prüfunterlagen enthalten sein!** |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-| INDIKATIONSPEZIFISCHE | |
+| **INDIKATIONSPEZIFISCHE** | |
 |---|---|
 | Körpergröße | |
 |  | 1,60 m |
@@ -1007,7 +1007,7 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 |  | |
 |  |  |
 | Körpergewicht | |
-|  | 1. |
+|  | **1.** |
 | Die Versichertendaten von |  |
 |  |  |
 |  |  |
@@ -1020,22 +1020,22 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 |  |  |
 |  |  |
 
-| INDIKATIONSÜBERGREIFENDE DATEN | |
+| **INDIKATIONSÜBERGREIFENDE DATEN** | |
 |---|---|
-| Administrative Daten | Erstdokumentation |
+| **Administrative Daten** | **Erstdokumentation** |
 | DMP-Fallnummer | TDV 4518 |
 | Krankenhaus-IK |  |
 | Dokumentation in Vertretung erstellt |  |
 | Datum | 05.04.2023 |
 | Einschreibung wegen | Chronische Herzinsuffizienz |
 | Geschlecht | Weiblich |
-| Allgemeine Anamnese- und Befunddaten | |
+| **Allgemeine Anamnese- und Befunddaten** | |
 | Körpergröße | 1,60 m |
 | Körpergewicht | 060 kg |
 | Blutdruck | 120 / 80 mmHg |
 | Raucher | Nein |
 | Begleiterkrankungen | Keine der genannten |
-| Behandlungsplanung | |
+| **Behandlungsplanung** | |
 | Vom Patienten gewünschte | Tabakverzicht, |
 | Dokumentationsintervall | Quartalsweise |
 | Datum der Erstellung | 05.04.2023 |
@@ -1046,24 +1046,24 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 |  | |
 |---|---|
-| INDIKATIONSPEZIFISCHE | |
-|  | Erstdokumentation |
-| Anamnese- und Befunddaten | |
+| **INDIKATIONSPEZIFISCHE** | |
+|  | **Erstdokumentation** |
+| **Anamnese- und Befunddaten** | |
 | Serum-Elektrolyte und eGFR in den letzten sechs Monaten | Ja |
 | Symptomatik | NYHA III |
-| Relevante Ereignisse | |
+| **Relevante Ereignisse** | |
 | Ungeplante stationäre Behandlung, wegen Herzinsuffizienz, seit der |  |
-| Medikamente | |
+| **Medikamente** | |
 | ACE-Hemmer | Ja |
 | ACE-Hemmer: Evidenzbasierte Zieldosis | Nicht erreicht, Titrationsphase |
 | Betablocker | Ja |
 | Betablocker: Evidenzbasierte Zieldosis | Nicht erreicht |
 | Mineralokortikoid-Rezeptor-Antagonist (MRA) | Kontraindikation |
 | SGLT2-Inhibitor | Ja |
-| Schulung | |
+| ***Schulung*** | |
 | Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller | Ja |
 | Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz spezifischen Schulung teilgenommen | Nein |
-| Behandlungsplanung | |
+| **Behandlungsplanung** | |
 | Regelmäßiges körperliches Training | Nicht möglich |
 | Führen eines Gewichtsprotokolls | Ja |
 
@@ -1075,7 +1075,7 @@ DATEN letzten Dokumentation Dokumentation)
 
 ## 4.1 PRÜFFALL 10 – ERSATZVERFAHREN
 
-| Personalien | | |
+| **Personalien** | | |
 |---|---|---|
 | 3100 | Namenszusatz |  |
 | 3120 | Vorsatzwort | von und zu |
@@ -1105,7 +1105,7 @@ DATEN letzten Dokumentation Dokumentation)
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 | KBV_ITA_VGEX_Anforderungskatalog_eDMP | Anforderungskatalog eDMP |
 | EXT_ITA_AHEX_Anleitung_eDMP_HI | Ausfüllanleitung zum indikationsspezifischen |
 | EXT_ITA_VGEX_Plausi_eDMP_HI | Plausibilitätsrichtlinie zur Prüfung der |

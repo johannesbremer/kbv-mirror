@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 21. NOVEMBER 2024   VERSION: 1.5   DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 21. NOVEMBER 2024   VERSION: 1.5   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # PRÜFPAKET KVDT TI -PAUSCHA LE
@@ -65,7 +65,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.0 | 18.08.2023 | KBV | Neues Dokument | Initiale Erstellung | Alle |
 | 1.1 | 20.09.2023 | KBV | Kapitel 3.4 | Änderung der | 7 |
@@ -142,37 +142,37 @@ Die Erfassung der Patientendaten  sogenannten Import-Schnittstelle) der XML-Date
 
 ### 3.2.1 Patientendaten für die Prüffälle 3.2.1.1 [XML_45]
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Nachname | Müller |
-| Vorname | Marion |
-| Geburtsdatum | 01.01.1954 |
-| Versicherten_ID | K653789740 |
-| Straße | Schloßallee |
-| Hausnummer | 125 |
-| PLZ | 80639 |
-| Wohnsitzländercode | D |
-| Ort | München |
-| WOP | 71 |
-| Versichertenart | 5 |
-| Geschlecht | W |
-| Versicherungsschutz Beginn | 01.01.2012 |
-| Versicherungsschutz Ende | 31.12.2025 |
-| Kostentraegerkennung | 108939385 |
+| **Nachname** | Müller |
+| **Vorname** | Marion |
+| **Geburtsdatum** | 01.01.1954 |
+| **Versicherten_ID** | K653789740 |
+| **Straße** | Schloßallee |
+| **Hausnummer** | 125 |
+| **PLZ** | 80639 |
+| **Wohnsitzländercode** | D |
+| **Ort** | München |
+| **WOP** | 71 |
+| **Versichertenart** | 5 |
+| **Geschlecht** | W |
+| **Versicherungsschutz Beginn** | 01.01.2012 |
+| **Versicherungsschutz Ende** | 31.12.2025 |
+| **Kostentraegerkennung** | 108939385 |
 
 3.2.1.2 [XML_46]
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Nachname | Müller |
-| Vorname | Sophia |
-| Geburtsdatum | 01.01.1954 |
-| Versicherten_ID | H674984678 |
-| Straße | Schloßallee |
-| Hausnummer | 125 |
-| PLZ | 80639 |
-| Wohnsitzländercode | D |
-| Ort | München |
+| **Nachname** | Müller |
+| **Vorname** | Sophia |
+| **Geburtsdatum** | 01.01.1954 |
+| **Versicherten_ID** | H674984678 |
+| **Straße** | Schloßallee |
+| **Hausnummer** | 125 |
+| **PLZ** | 80639 |
+| **Wohnsitzländercode** | D |
+| **Ort** | München |
 
 -
 
@@ -183,77 +183,77 @@ oder die Daten können im
 
 ---
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| WOP | 71 |
-| Versichertenart | 5 |
-| Geschlecht | W |
-| Versicherungsschutz Beginn | 01.01.2012 |
-| Versicherungsschutz Ende | 31.12.2025 |
-| Kostentraegerkennung | 108939385 |
+| **WOP** | 71 |
+| **Versichertenart** | 5 |
+| **Geschlecht** | W |
+| **Versicherungsschutz Beginn** | 01.01.2012 |
+| **Versicherungsschutz Ende** | 31.12.2025 |
+| **Kostentraegerkennung** | 108939385 |
 
 3.2.1.3 [XML_47]
 
-| FELDER | INHALT |
+| **FELDER** | **INHALT** |
 |---|---|
-| Nachname | Müller |
-| Vorname | Emilia |
-| Geburtsdatum | 01.01.1954 |
-| Versicherten_ID | S764578377 |
-| Straße | Schloßallee |
-| Hausnummer | 125 |
-| PLZ | 80639 |
-| Wohnsitzländercode | D |
-| Ort | München |
-| WOP | 71 |
-| Versichertenart | 5 |
-| Geschlecht | W |
-| Versicherungsschutz Beginn | 01.01.2012 |
-| Versicherungsschutz Ende | 31.12.2025 |
-| Kostentraegerkennung | 108939385 |
+| **Nachname** | Müller |
+| **Vorname** | Emilia |
+| **Geburtsdatum** | 01.01.1954 |
+| **Versicherten_ID** | S764578377 |
+| **Straße** | Schloßallee |
+| **Hausnummer** | 125 |
+| **PLZ** | 80639 |
+| **Wohnsitzländercode** | D |
+| **Ort** | München |
+| **WOP** | 71 |
+| **Versichertenart** | 5 |
+| **Geschlecht** | W |
+| **Versicherungsschutz Beginn** | 01.01.2012 |
+| **Versicherungsschutz Ende** | 31.12.2025 |
+| **Kostentraegerkennung** | 108939385 |
 
 ## 3.3 PRAXISDATEN
 
 Sofern zur Bearbeitung der Prüffälle Praxisdaten benötigt werden, können die folgenden Praxisdaten  verwendet werden. Für Prüffall 3 wird eine Nebenbetriebsstätte benötigt.  abgebildeten Daten ist möglich.
 
-| PRAXISDATEN (HAUPTSITZ - ABRECHNENDER ARZT) | |
+| **PRAXISDATEN (HAUPTSITZ - ABRECHNENDER ARZT)** | |
 |---|---|
-| Betriebsstättennummer (BSNR) | 198212400 |
-| BSNR-Bezeichnung | Praxis Dr. med. Heribert Topp-Glücklich |
-| Lebenslange Arztnummer (LANR) | 776299002 |
-| ASV Teamnummer | 001234566 |
+| **Betriebsstättennummer (BSNR)** | 198212400 |
+| **BSNR-Bezeichnung** | Praxis Dr. med. Heribert Topp-Glücklich |
+| **Lebenslange Arztnummer (LANR)** | 776299002 |
+| **ASV Teamnummer** | 001234566 |
 
 Eine Abweichung von den hier
 
 
 ---
 
-| PRAXISDATEN (HAUPTSITZ - ABRECHNENDER ARZT) | |
+| **PRAXISDATEN (HAUPTSITZ - ABRECHNENDER ARZT)** | |
 |---|---|
-| Arztname | Dr. med. Topp-Glücklich |
-| Vorname | Heribert |
-| Strasse | Musterstr. 1 |
-| PLZ/Ort | 48143 Münster |
-| Telefon | 0251 / 1111111 |
-| Telefax | 0251 / 2222222 |
-| E-Mail-Adresse | Dr.Heribert.Topp-Gluecklich@KBV- |
-| KV-Voreinstellungen | KV: 20 (KV WL) |
+| **Arztname** | Dr. med. Topp-Glücklich |
+| **Vorname** | Heribert |
+| **Strasse** | Musterstr. 1 |
+| **PLZ/Ort** | 48143 Münster |
+| **Telefon** | 0251 / 1111111 |
+| **Telefax** | 0251 / 2222222 |
+| **E-Mail-Adresse** | Dr.Heribert.Topp-Gluecklich@KBV- |
+| **KV-Voreinstellungen** | KV: 20 (KV WL) |
 |  | Bezirkstelle: 19 (Münster) |
 
-| PRAXISDATEN (NEBENSITZ - ABRECHNENDER ARZT; FÜR PRÜFFALL 3) | |
+| **PRAXISDATEN (NEBENSITZ - ABRECHNENDER ARZT; FÜR PRÜFFALL 3)** | |
 |---|---|
-| Betriebsstättennummer (BSNR) | 198212401 |
-| BSNR-Bezeichnung | Praxis Dr. med. Heribert Topp-Glücklich |
-| Lebenslange Arztnummer (LANR) | 776299002 |
-| ASV Teamnummer | 001234566 |
-| Arztname | Dr. med. Topp-Glücklich |
-| Vorname | Heribert |
-| Strasse | Musterallee 1 |
-| PLZ/Ort | 48143 Münster |
-| Telefon | 0251 / 3333333 |
-| Telefax | 0251 / 4444444 |
-| E-Mail-Adresse | Dr.Heribert.Topp-Gluecklich@KBV- |
-| KV-Voreinstellungen | KV: 20 (KV WL) |
+| **Betriebsstättennummer (BSNR)** | 198212401 |
+| **BSNR-Bezeichnung** | Praxis Dr. med. Heribert Topp-Glücklich |
+| **Lebenslange Arztnummer (LANR)** | 776299002 |
+| **ASV Teamnummer** | 001234566 |
+| **Arztname** | Dr. med. Topp-Glücklich |
+| **Vorname** | Heribert |
+| **Strasse** | Musterallee 1 |
+| **PLZ/Ort** | 48143 Münster |
+| **Telefon** | 0251 / 3333333 |
+| **Telefax** | 0251 / 4444444 |
+| **E-Mail-Adresse** | Dr.Heribert.Topp-Gluecklich@KBV- |
+| **KV-Voreinstellungen** | KV: 20 (KV WL) |
 |  | Bezirkstelle: 19 (Münster) |
 
 ## 3.4 XPM-PRÜFMODUL UND VERSCHLÜSSELUNG
@@ -275,17 +275,17 @@ In der Kopfzeile der Tabelle wird auf die zu verwendende XML die konkreten Werte
 
 |  |  |
 |---|---|
-| Prüffall-ID (FK 3000) | Prüffall 1 |
-| Versichertendaten | [XML_45] Marion Müller |
-| Vorgaben | ePA Stufe 2  eRezept  NFDM  eMP  KIM  eAU  eArztbrief  Kartenterminal - ja  SMC-B  eHBA |
-| Einzureichende | .XKM-Abrechnungsdatei mit Testschlüssel verschlüsselt |
+| **Prüffall-ID (FK 3000)** | **Prüffall 1** |
+| **Versichertendaten** | [XML_45] Marion Müller |
+| **Vorgaben** | ePA Stufe 2  eRezept  NFDM  eMP  KIM  eAU  eArztbrief  Kartenterminal - ja  SMC-B  eHBA |
+| **Einzureichende** | .XKM-Abrechnungsdatei mit Testschlüssel verschlüsselt |
 
 |  |  |
 |---|---|
-| Prüffall-ID (FK 3000) | Prüffall 2 |
-| Versichertendaten | [XML_46] Sophia Müller |
-| Vorgaben | ePA Stufe 1  eRezept  NFDM  eMP  KIM  eAU  eArztbrief  Kartenterminal - ja  SMC-B  eHBA |
-| Einzureichende | .XKM-Abrechnungsdatei mit Testschlüssel verschlüsselt |
+| **Prüffall-ID (FK 3000)** | **Prüffall 2** |
+| **Versichertendaten** | [XML_46] Sophia Müller |
+| **Vorgaben** | ePA Stufe 1  eRezept  NFDM  eMP  KIM  eAU  eArztbrief  Kartenterminal - ja  SMC-B  eHBA |
+| **Einzureichende** | .XKM-Abrechnungsdatei mit Testschlüssel verschlüsselt |
 
 Datei referenziert. Unter „Vorgaben“ sind  Die
 
@@ -295,10 +295,10 @@ Prüfunterlagen Prüfunterlagen  nein (keine Unterstützung)  nein  nein  nein
 
 |  |  | |
 |---|---|---|
-| Prüffall-ID (FK 3000) | Prüffall 3 | |
-| Versichertendaten | [XML_47] Emilia Müller | |
-| Hinweis | Bitte erfassen Sie auch eine Nebenbetriebsstätte. | |
-| Vorgaben | Hauptsitz:   ePA Stufe 1  eRezept  NFDM  eMP  KIM  eAU  eArztbrief  Kartenterminal - ja  SMC-B  eHBA | Nebensitz:   ePA Stufe 3  eRezept  NFDM  eMP  KIM  eAU  eArztbrief  Kartenterminal - ja  SMC-B  eHBA |
-| Einzureichende | .XKM-Abrechnungsdatei mit Testschlüssel verschlüsselt | |
+| **Prüffall-ID (FK 3000)** | **Prüffall 3** | |
+| **Versichertendaten** | [XML_47] Emilia Müller | |
+| **Hinweis** | Bitte erfassen Sie auch eine Nebenbetriebsstätte. | |
+| **Vorgaben** | Hauptsitz:   ePA Stufe 1  eRezept  NFDM  eMP  KIM  eAU  eArztbrief  Kartenterminal - ja  SMC-B  eHBA | Nebensitz:   ePA Stufe 3  eRezept  NFDM  eMP  KIM  eAU  eArztbrief  Kartenterminal - ja  SMC-B  eHBA |
+| **Einzureichende** | .XKM-Abrechnungsdatei mit Testschlüssel verschlüsselt | |
 
 Prüfunterlagen  nein  nein  nein

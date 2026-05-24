@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | DEZERNAT DIGITALISI REF. INTEROPERABILIT 13. MAI 2022  1.3 |
+|  | **DEZERNAT DIGITALISI REF. INTEROPERABILIT 13. MAI 2022  1.3** |
 |---|---|
 
 # FAQS ZUR ARCHIVIERUNGS- UND  WECHSELSCHNITTSTELLE
@@ -161,20 +161,16 @@ System ohne Benutzerverwaltung.
 
 ---
 
-| **7** | **BEKANNTE** |  | **FEHLER** |  |  |  |
-|---|---|---|---|---|---|---|
-| 7.1 | KBV_Profil |  | KBV_PR_AW_Report_Import | |  |  |
-| Seite | 3 von 17 | / KBV / | FAQS ZUR ARCHIVIERUNGS | - UND WECHSELSCHNITTSTELLE | / 13. | Mai 2022 |
+**7** **BEKANNTE FEHLER**
 
 **17**
 
-17
+7.1 KBV_Profil KBV_PR_AW_Report_Import 17
 
-BEKANNTE FEHLER KBV_Profil KBV_PR_AW_Report_Import
 
 ---
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.10.001 | 01.08.2019 | KBV | Initiale Erstellung | Neues Dokument | alle |
 | 1.10.002 | 01.11.2019 | KBV | Div. Ergänzungen |  | alle |

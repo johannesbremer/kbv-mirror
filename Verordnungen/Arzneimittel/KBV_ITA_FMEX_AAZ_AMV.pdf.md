@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT  17. MAI 2024  VERSION: 5.6   DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT  17. MAI 2024  VERSION: 5.6   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # ANTRAG AUF ZERTIFIZIERUNG  VERORDNUNG VON ARZNEIMITTELN
@@ -32,19 +32,19 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 |  |  | | |
 |---|---|---|---|
-| Name des Antragstellers  [bei juristischen Personen ist die |  | | |
-| Geschäftsbereich [falls |  | | |
-| Straße und Hausnummer |  | | |
-| PLZ, Ort |  | | |
-| Telefonnummer |  | | |
-| E-Mail-Adresse |  | | |
-| Webseite |  | | |
-| Der Antragsteller ist | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
-| Systempfleger  [nur anzugeben, wenn der |  | | |
-| Straße und Hausnummer |  | | |
-| PLZ, Ort |  | | |
-| Telefonnummer |  | | |
-| E-Mail-Adresse |  | | |
+| **Name des Antragstellers  [bei juristischen Personen ist die** |  | | |
+| **Geschäftsbereich [falls** |  | | |
+| **Straße und Hausnummer** |  | | |
+| **PLZ, Ort** |  | | |
+| **Telefonnummer** |  | | |
+| **E-Mail-Adresse** |  | | |
+| **Webseite** |  | | |
+| **Der Antragsteller ist** | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
+| **Systempfleger  [nur anzugeben, wenn der** |  | | |
+| **Straße und Hausnummer** |  | | |
+| **PLZ, Ort** |  | | |
+| **Telefonnummer** |  | | |
+| **E-Mail-Adresse** |  | | |
 
 / Version: 5.6 / 17. Mai 2024
 
@@ -58,10 +58,10 @@ Nur anzugeben, wenn abweichend von Abschnitt
 
 |  |  |
 |---|---|
-| Bestell- bzw. Auftragsnummer des |  |
-| Name |  |
-| Straße und Hausnummer |  |
-| PLZ, Ort |  |
+| **Bestell- bzw. Auftragsnummer des** |  |
+| **Name** |  |
+| **Straße und Hausnummer** |  |
+| **PLZ, Ort** |  |
 
 ## 1.3 ZERTIFIZIERUNGSGEGENSTAND
 
@@ -69,8 +69,8 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls
 
 |  |  |
 |---|---|
-| Bezeichnung |  |
-| Identnummer [die letzten drei |  |
+| **Bezeichnung** |  |
+| **Identnummer [die letzten drei** |  |
 
 ## 1.4  BETRIEBSSYSTEME
 
@@ -138,20 +138,20 @@ Bitte kreuzen Sie zutreffendes an (Mehrfachnennungen sind möglich):
 
 Folgende optionale Funktionen wurden umgesetzt:
 
-| IDENT- | BEZEICHNUNG | UMGESETZTE FUNKTIONEN |
+| **IDENT-** | **BEZEICHNUNG** | **UMGESETZTE FUNKTIONEN** |
 |---|---|---|
-| O2-145 | Hausapotheke | ☐ |
-| O3-145 | Weitere optionale Informationen | ☐ |
-| O3-310 | Weitere mögliche Such-/bzw. Filteroptionen | ☐ |
-| O3-540 | Preishistorie | ☐ |
-| O3-622 | Wirkstoffverordnung | ☐ |
-| O3-623 | Rezepturverordnung | ☐ |
-| O36-40 | Festlegung der ausstellenden Person zum Signaturzeitpunkt [siehe Technischen Anlage eRezept] | ☐ |
-| O6-231 | Zwei Patientenausdrucke einer Person auf einem DIN [siehe Technischen Anlage eRezept] | ☐ |
-| O4-100 | Richtgrößen | ☐ |
-| O4-110 | Controlling: Richtgrößenausschöpfung | ☐ |
-| O4-130 | Weitere Controllingprogramme | ☐ |
-| O4-140 | Preiszuordnung bei Wirkstoffverordnung | ☐ |
+| **O2-145** | Hausapotheke | ☐ |
+| **O3-145** | Weitere optionale Informationen | ☐ |
+| **O3-310** | Weitere mögliche Such-/bzw. Filteroptionen | ☐ |
+| **O3-540** | Preishistorie | ☐ |
+| **O3-622** | Wirkstoffverordnung | ☐ |
+| **O3-623** | Rezepturverordnung | ☐ |
+| **O36-40** | Festlegung der ausstellenden Person zum Signaturzeitpunkt [siehe Technischen Anlage eRezept] | ☐ |
+| **O6-231** | Zwei Patientenausdrucke einer Person auf einem DIN [siehe Technischen Anlage eRezept] | ☐ |
+| **O4-100** | Richtgrößen | ☐ |
+| **O4-110** | Controlling: Richtgrößenausschöpfung | ☐ |
+| **O4-130** | Weitere Controllingprogramme | ☐ |
+| **O4-140** | Preiszuordnung bei Wirkstoffverordnung | ☐ |
 
 NUMMER -A4- Blatt BITTE ANKREUZEN [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]/ Version: 5.6 / 17. Mai 2024
 
@@ -162,20 +162,20 @@ NUMMER -A4- Blatt BITTE ANKREUZEN [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ 
 
 Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizierungsthema“ sowie die  „Geschäftsführung“ zu benennen.
 
-|  | |
+\|  | |
 | Ansprechpartner(in) für das vorliegende Zertifizierungsthema | |
 |---|---|
-| Name* |  |
-| Telefonnummer* |  |
-| E-Mail-Adresse* |  |
+| **Name*** |  |
+| **Telefonnummer*** |  |
+| **E-Mail-Adresse*** |  |
 | Ansprechpartner(in): Geschäftsführung | |
-| Name* |  |
-| Telefonnummer |  |
-| E-Mail-Adresse* |  |
+| **Name*** |  |
+| **Telefonnummer** |  |
+| **E-Mail-Adresse*** |  |
 | Ansprechpartner(in): Produktmanagement | |
-| Name |  |
-| Telefonnummer |  |
-| E-Mail-Adresse |  |
+| **Name** |  |
+| **Telefonnummer** |  |
+| **E-Mail-Adresse** |  |
 
 Diese Information ist verpflichtend anzugeben
 
@@ -198,7 +198,7 @@ Diese Information ist verpflichtend anzugeben
 
 - (4) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
 
-| THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART | KOSTEN IN € |
+| **THEMA** | **ZERTIFIZIERUNGSART** | **PRÜFUNGSART** | **KOSTEN IN €** |
 |---|---|---|---|
 | Verordnung von Arznei- | Neu-, Re- oder Er- | (Prüfvorgang AMV | 1.651,44  [pro Sichtprüfung] |
 

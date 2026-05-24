@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  14. NOVEMBER 2025   VERSION: 4.07   DOKUMENTENSTATUS: IN |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  14. NOVEMBER 2025   VERSION: 4.07   DOKUMENTENSTATUS: IN** |
 |---|---|
 
 # SCHNITTSTELLENBESCHREIBUNG  CHRONIC OBSTRUSIVE PULMONARY  DISEASE (COPD)
@@ -374,16 +374,16 @@ WEGEN COPD SEIT DER LETZTEN DOKUMENTATION ......................................
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 4.07 | 14.11.2025 | KBV | Anpassung an die | Beschluss des G-BA | 19 |
 | 4.06 | 13.03.2024 | KBV | Redaktionelle Korrektur in |  | 37 |
-| 4.06 | 10.11.2023 | KBV | Anpassung an die | Beschluss des G-BA | 23,  27,  28,  Fehle 3319 |
+| 4.06 | 10.11.2023 | KBV | Anpassung an die | Beschluss des G-BA | 23,  27,  28, **Fehle** 3319 |
 | 4.05 | 12.08.2022 | KBV | Anpassung an die | Beschluss des G-BA | 19 |
 | 4.04 | 14.05.2021 | KBV | Redaktionelle Anpassungen |  | 23 |
 | 4.04 | 20.05.2020 | KBV | Anpassung an die  Überführung in neues Design  Vereinheitlichung des  Fehlerkorrektur in Kapiteln 6.1,  Hochziehen des Kapitels | Beschluss des G-BA        Bedingt durch neues Layout | 19    Alle  Alle  15f    17ff |
-| Version | Datum | Autor  Änderung  Begründung | | | |
-| Seite |  |  | 4.07  14.11.2025 | KBV  Anpassung an die | 19  4.06  KBV  Redaktionelle Korrektur in |
+| **Version** | **Datum** | **Autor  Änderung  Begründung** | | | |
+| **Seite** |  |  | 4.07  14.11.2025 | KBV  Anpassung an die | 19  4.06  KBV  Redaktionelle Korrektur in |
 
 aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen) Kapitel 7.1.3.2 aktualisierten Plausibilitäten der Anlage 2 aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen) aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen) Wordings der DMP- Schnittstellen (bpsw. body wird zu <body>) 6.1.1, Austausch Abbildung 3 6.1.2.1 in der Hierarchisierung zu 6.1.3. Dadurch Änderung der Nummerierung aller Folgekapitel in Abschnitt 6.1 und Änderung von Kapitelverweisen. r! Text mark nicht defini ert.
 
@@ -470,7 +470,7 @@ Es existieren verschiedene Kardinalitäten:
 
 |  |  |  |
 |---|---|---|
-| Kardinalität | Symbol | Beschreibung |
+| **Kardinalität** | **Symbol** | **Beschreibung** |
 | 0..1 |  | Optionales Element: Element wird als Rechteck mit |
 | 1 |  | Musselement: Rechteck mit durchgezogener Linie. Das |
 | n...m |  | Multielement enthält mindestens n aber maximal m |
@@ -479,7 +479,7 @@ Es existieren verschiedene Kardinalitäten:
 
 |  |  |
 |---|---|
-| Symbol | Beschreibung  Das Strukturelement <xs:choice |
+| **Symbol** | **Beschreibung ** Das Strukturelement <xs:choice |
 | Multielement enthält mindestens n aber maximal m | Das Strukturelement <xs:sequence> beschreibt, dass die Kindelemente in |
 
 ## 3.2
@@ -501,17 +501,17 @@ gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element mus
 
 Es werden außerdem folgende Diagramm-Symbole verwendet:
 
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |---|---|
-|  | Element mit Kindelementen Ein Element mit einem oder mehreren Kindelementen wird durch ein |
-|  | Referenzelement  Der Pfeil links unten im Element zeigt an, dass das Element an anderer Stelle |
-|  | Datentyp Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen Datentyp. |
-|  | Gruppenelement Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement dar, |
+|  | *Element mit Kindelementen* Ein Element mit einem oder mehreren Kindelementen wird durch ein |
+|  | *Referenzelement * Der Pfeil links unten im Element zeigt an, dass das Element an anderer Stelle |
+|  | *Datentyp* Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen Datentyp. |
+|  | *Gruppenelement* Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement dar, |
 
 **Tabelle 3:** Beschreibung sonstiger Symbole
 
 Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches mehrere Elemente zusammenfasst.|  |
-|---|
+\|---|
 
 
 ---
@@ -532,8 +532,8 @@ Alle Schemata, die in dieser Schnittstellenbeschreibung beschrieben werden, sind
 
 Folgender Code ist für diese Elemente zwingend vorgeschrieben
 
-| <?xml version="1.0" encoding="ISO-8859-15"?>  <levelone xmlns="urn::hl7-org/cda"                 </levelone> |
-|---|
+\| <?xml version="1.0" encoding="ISO-8859-15"?>  <levelone xmlns="urn::hl7-org/cda"        **  **   </levelone> |
+\|---|
 
 **XML-Code 1:** levelone
 
@@ -567,8 +567,8 @@ Der Aufbau des Elements <body> ist in Abbildung 2 dargestellt.
 
 Der Coderahmen für das <body>-Element sieht wie folgt aus:
 
-| <body>       </body> |
-|---|
+\| <body>  **   </body> |
+\|---|
 
 **XML-Code 2**: body
 
@@ -599,8 +599,8 @@ Wenn in allen Abschnitten Daten enthalten sind, sieht der Coderahmen für das El
 
 aus (siehe XML-Code 3). Die Werte der einzelnen  Abschnittsüberschriften aus dem Datensatz.
 
-| <section>                                                                                 </paragraph>      <caption>     </caption>         </section> |
-|---|
+\| <section>                                                                                 </paragraph>      <caption>     </caption>         </section> |
+\|---|
 
 Attribut des  „Anamnese-
 
@@ -634,8 +634,8 @@ gekennzeichnet, dass die Sciphox-SSU *observation* in Version v1 verwendet wird.
 
 Element <content> mit Sciphox-SSU *observation* sieht demnach folgendermaßen aus:
 
-| <content>     <sciphox:sciphox-ssu type="observation" country="de" version="v1">        </content> |
-|---|
+\| <content>     <sciphox:sciphox-ssu type="observation" country="de" version="v1"> **     </content> |
+\|---|
 
 **XML-Code 4:** content mit sciphox-SSU (observation)
 
@@ -657,8 +657,8 @@ Der XML-Code zum Element <sciphox-ssu> sieht folgendermaßen aus:
 
 ---
 
-| <sciphox:sciphox-ssu type="observation" country="de" version="v1">   <sciphox:Beobachtungen>               </sciphox:sciphox-ssu> |
-|---|
+\| <sciphox:sciphox-ssu type="observation" country="de" version="v1">   <sciphox:Beobachtungen>               </sciphox:sciphox-ssu>** |
+\|---|
 
 **XML-Code 5:** Beobachtungen
 
@@ -672,8 +672,8 @@ Das Element <Parameter> enthält nur das *DN*-Attribut. Als Wert werden die Para
 
 Der XML-Code zum Element <Parameter> sieht folgendermaßen aus:
 
-| <sciphox:Beobachtung>      </sciphox:Beobachtung> |
-|---|
+\| <sciphox:Beobachtung>      </sciphox:Beobachtung> |
+\|---|
 
 **XML-Code 6:** Parameter
 
@@ -685,8 +685,8 @@ hinterlegt sind (z.B. „Ja“ und „Nein“), werden in diesem Element, im *V-
 
 zum Element <Ergebnistext> sieht folgendermaßen aus:
 
-| <sciphox:Beobachtung>       </sciphox:Beobachtung> |
-|---|
+\| <sciphox:Beobachtung>       </sciphox:Beobachtung> |
+\|---|
 
 **XML-Code 7:** Ergebnistext
 
@@ -698,8 +698,8 @@ Datensatz eingegeben werden (z.B. „1.80“), werden in diesem Element, im *V-*
 
 Dezimaltrennzeichen wird der Dezimalpunkt verwendet. Im U-Attribut (UNIT) wird die Einheit (z.B. „m“)  eingetragen. Der XML-Code zum Element <Ergebniswert> sieht folgendermaßen aus:
 
-| <sciphox:Beobachtung>       </sciphox:Beobachtung> |
-|---|
+\| <sciphox:Beobachtung>       </sciphox:Beobachtung> |
+\|---|
 
 **XML-Code 8:** Ergebniswert
 
@@ -721,8 +721,8 @@ mindestens ein Kindelement <sciphox:Ergebnistext
 
 Der Coderahmen sieht wie folgt aus:
 
-| <content>         <sciphox:Beobachtungen>                 </content> |
-|---|
+\| <content>  **     <sciphox:Beobachtungen>                 </content> |
+\|---|
 
 **XML-Code 9:** content (Administrative Daten)
 
@@ -734,8 +734,8 @@ gemäß Tabelle 4. Wenn bei diesem Parameter mehrere Felder ausgewählt wurden, 
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
-|---|
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
+\|---|
 
 **XML-Code 10:** Einschreibung wegen
 
@@ -743,19 +743,19 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ---
 
-| Wert bei Ergebnistext ( |
-|---|
-| Asthma bronchiale |
-| KHK |
-| Diabetes mellitus Typ 1 |
-| Diabetes mellitus Typ 2 |
-| COPD |
-| Chronische Herzinsuffizienz |
-| Depression |
-| chronischer Rückenschmerz |
-| Osteoporose |
-| rheumatoide Arthritis |
-| Adipositas - Erwachsene  Adipositas - Kinder und Jugendliche |
+\| Wert bei Ergebnistext ( |
+\|---|
+\| Asthma bronchiale |
+\| KHK |
+\| Diabetes mellitus Typ 1 |
+\| Diabetes mellitus Typ 2 |
+\| COPD |
+\| Chronische Herzinsuffizienz |
+\| Depression |
+\| chronischer Rückenschmerz |
+\| Osteoporose |
+\| rheumatoide Arthritis |
+\| Adipositas - Erwachsene  Adipositas - Kinder und Jugendliche |
 
 **Tabelle 4:** Werte bei Ergebnistext (Einschreibung wegen)
 
@@ -779,8 +779,8 @@ V="...")
 
 ---
 
-| <content>       <sciphox:Beobachtungen>                                                                       </content> |
-|---|
+\| <content>       <sciphox:Beobachtungen>                                                                       </content> |
+\|---|
 
 **XML-Code 11:** content (Anamnese- und Befunddaten)
 
@@ -792,8 +792,8 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>      </sciphox:Beobachtung> |
-|---|
+\| <sciphox:Beobachtung>      </sciphox:Beobachtung> |
+\|---|
 
 **XML-Code 12:** Körpergröße
 
@@ -809,8 +809,8 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ---
 
-| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
-|---|
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
+\|---|
 
 **XML-Code 13:** Körpergewicht
 
@@ -822,15 +822,15 @@ gemäß Tabelle 5.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
-|---|
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
+\|---|
 
 **XML-Code 14:** Raucher
 
-| Wert bei Ergebnistext ( |
-|---|
-| Ja |
-| Nein |
+\| Wert bei Ergebnistext ( |
+\|---|
+\| Ja |
+\| Nein |
 
 **Tabelle 5:** Werte bei Ergebnistext (Raucher)
 
@@ -842,8 +842,8 @@ und im *U*-Attribut den fest vorgeschriebenen Wert „mmHg“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
-|---|
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
+\|---|
 
 **XML-Code 15:** Blutdruck systolisch
 
@@ -855,8 +855,8 @@ und im *U*-Attribut den fest vorgeschriebenen Wert „mmHg“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
-|---|
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
+\|---|
 
 **XML-Code 16:** Blutdruck diastolisch
 
@@ -872,21 +872,21 @@ gemäß Tabelle 6. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, k
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>       </sciphox:Beobachtung> |
-|---|
+\| <sciphox:Beobachtung>       </sciphox:Beobachtung> |
+\|---|
 
 **XML-Code 17:** Begleiterkrankungen
 
-| Wert bei Ergebnistext |
-|---|
-| Keine der genannten Erkrankungen |
-| AVK |
-| Fettstoffwechselstörung |
-| Arterielle Hypertonie |
-| Diabetes mellitus |
-| KHK |
-| Asthma bronchiale |
-| Chronische Herzinsuffizienz |
+\| Wert bei Ergebnistext |
+\|---|
+\| Keine der genannten Erkrankungen |
+\| AVK |
+\| Fettstoffwechselstörung |
+\| Arterielle Hypertonie |
+\| Diabetes mellitus |
+\| KHK |
+\| Asthma bronchiale |
+\| Chronische Herzinsuffizienz |
 
 **Tabelle 6:** Werte bei Ergebnistext (Begleiterkrankungen)
 
@@ -902,8 +902,8 @@ Element <sciphox:Ergebnistext> mit dem vorgeschriebenen V-Attributwert „Nicht 
 
 Als Beispiel bei durchgeführter Messung sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
-|---|
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
+\|---|
 
 **XML-Code 18:** Aktueller FEV -Wert (alle sechs bis zwölf Monate) 1
 
@@ -913,8 +913,8 @@ Als Beispiel bei nicht durchgeführter Messung sei hier folgender Code angegeben
 
 ---
 
-| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
-|---|
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
+\|---|
 
 **XML-Code 19:** Aktueller FEV -Wert (alle sechs bis zwölf Monate) 1
 
@@ -926,8 +926,8 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>      </sciphox:Beobachtung> |
-|---|
+\| <sciphox:Beobachtung>      </sciphox:Beobachtung> |
+\|---|
 
 **XML-Code 20**: Klinische Einschätzung des Osteoporoserisikos durchgeführt
 
@@ -955,8 +955,8 @@ Der Coderahmen sieht wie folgt aus:
 
 ---
 
-| <content>        <sciphox:Beobachtungen>                                                </local_markup>  </content> |
-|---|
+\| <content>        <sciphox:Beobachtungen>   **    **      **                           </local_markup>  </content> |
+\|---|
 
 **XML-Code 21:** content (Medikamente)
 
@@ -970,17 +970,17 @@ Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
-|---|
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
+\|---|
 
 **XML-Code 22:** Kurz wirksame Beta-2-Sympathomimetika und/oder Anticholinergika
 
-| Wert bei Ergebnistext |
-|---|
-| Bei Bedarf |
-| Dauermedikation |
-| Keine |
-| Kontraindikation |
+\| Wert bei Ergebnistext |
+\|---|
+\| Bei Bedarf |
+\| Dauermedikation |
+\| Keine |
+\| Kontraindikation |
 
 **Tabelle 7:** Werte bei Ergebnistext (Kurz wirksame Beta-2-Sympathomimetika und/oder
 
@@ -1000,17 +1000,17 @@ Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
-|---|
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
+\|---|
 
 **XML-Code 23:** Lang wirksame Beta-2-Sympathomimetika
 
-| Wert bei Ergebnistext ( |
-|---|
-| Bei Bedarf |
-| Dauermedikation |
-| Keine |
-| Kontraindikation |
+\| Wert bei Ergebnistext ( |
+\|---|
+\| Bei Bedarf |
+\| Dauermedikation |
+\| Keine |
+\| Kontraindikation |
 
 **Tabelle 8:** Werte bei Ergebnistext (Lang wirksame Beta-2-Sympathomimetika
 
@@ -1022,17 +1022,17 @@ gemäß Tabelle 9. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, k
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
-|---|
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
+\|---|
 
 **XML-Code 24:** Lang wirksame Anticholinergika
 
-| Wert bei Ergebnistext ( |
-|---|
-| Bei Bedarf |
-| Dauermedikation |
-| Keine |
-| Kontraindikation |
+\| Wert bei Ergebnistext ( |
+\|---|
+\| Bei Bedarf |
+\| Dauermedikation |
+\| Keine |
+\| Kontraindikation |
 
 **Tabelle 9:** Werte bei Ergebnistext (Lang wirksame Anticholinergika
 
@@ -1046,15 +1046,15 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
-|---|
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
+\|---|
 
 **XML-Code 25:** Inhalationstechnik überprüft
 
-| Wert bei Ergebnistext ( |
-|---|
-| Ja |
-| Nein |
+\| Wert bei Ergebnistext ( |
+\|---|
+\| Ja |
+\| Nein |
 
 **Tabelle 10**: Werte bei Ergebnistext (Inhalationstechnik überprüft)
 
@@ -1066,17 +1066,17 @@ gemäß Tabelle 11. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, 
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
-|---|
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
+\|---|
 
 **XML-Code 26:** Sonstige diagnosespezifische Medikation
 
-| Wert bei Ergebnistext |
-|---|
-| Nein |
-| Inhalative Glukokortikosteroide |
-| Systemische Glukokortikosteroide |
-| Andere |
+\| Wert bei Ergebnistext |
+\|---|
+\| Nein |
+\| Inhalative Glukokortikosteroide |
+\| Systemische Glukokortikosteroide |
+\| Andere |
 
 **Tabelle 11:** Werte bei Ergebnistext (Sonstige diagnosespezifische Medikation
 
@@ -1100,8 +1100,8 @@ mindestens ein Kindelement <sciphox:Ergebnistext>
 
 Der Coderahmen sieht wie folgt aus:
 
-| <content>       <sciphox:Beobachtungen>                       </local_markup> </content> |
-|---|
+\| <content>       <sciphox:Beobachtungen>                       </local_markup> </content> |
+\|---|
 
 **XML-Code 27:** content (Schulung)
 
@@ -1111,17 +1111,17 @@ Bei diesem Parameter enthält das Element gemäß Tabelle 12.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
-|---|
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
+\|---|
 
 <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 
 **XML-Code 28:** COPD-Schulung empfohlen (bei aktueller Dokumentation)
 
-| Wert bei Ergebnistext ( |
-|---|
-| Ja |
-| Nein |
+\| Wert bei Ergebnistext ( |
+\|---|
+\| Ja |
+\| Nein |
 
 **Tabelle 12:** Werte bei Ergebnistext (COPD -Schulung empfohlen (bei aktueller Dokumentation))
 
@@ -1137,15 +1137,15 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ---
 
-| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
-|---|
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
+\|---|
 
 **XML-Code 29**: Schulung schon vor der Einschreibung in DMP bereits wahrgenommen
 
-| Wert bei Ergebnistext ( |
-|---|
-| Ja |
-| Nein |
+\| Wert bei Ergebnistext ( |
+\|---|
+\| Ja |
+\| Nein |
 
 **Tabelle 13:** Werte bei Ergebnistext (Schulung schon vor der Einschreibung in DMP bereits
 
@@ -1163,8 +1163,8 @@ Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau di
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
 
-| <content>       <sciphox:Beobachtungen>                                               </content> |
-|---|
+\| <content>       <sciphox:Beobachtungen>                                               </content> |
+\|---|
 
 **XML-Code 30:** content (Behandlungsplanung)
 
@@ -1180,16 +1180,16 @@ gemäß Tabelle 14. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, 
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
-|---|
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
+\|---|
 
 **XML-Code 31:** Vom Patienten gewünschte Informationsangebote
 
-| Wert bei Ergebnistext |
-|---|
-| Tabakverzicht |
-| Ernährungsberatung |
-| Körperliches Training |
+\| Wert bei Ergebnistext |
+\|---|
+\| Tabakverzicht |
+\| Ernährungsberatung |
+\| Körperliches Training |
 
 *V*-Attribut die Feldbezeichnung
 
@@ -1205,15 +1205,15 @@ Bei diesem Parameter enthält das Element < gemäß Tabelle 15.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
-|---|
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
+\|---|
 
 **XML-Code 32:** Dokumentationsintervall
 
-| Wert bei Ergebnistext ( |
-|---|
-| Quartalsweise |
-| Jedes zweite Quartal |
+\| Wert bei Ergebnistext ( |
+\|---|
+\| Quartalsweise |
+\| Jedes zweite Quartal |
 
 **Tabelle 15:** Werte bei Ergebnistext (Dokumentationsintervall
 
@@ -1233,20 +1233,20 @@ sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 
 ---
 
-| <sciphox:Beobachtung>      </sciphox:Beobachtung> |
-|---|
+\| <sciphox:Beobachtung>      </sciphox:Beobachtung> |
+\|---|
 
 **XML-Code 33:**
 
-| Wert bei Ergebnistext ( |
-|---|
-| Ja |
-|  |
+\| Wert bei Ergebnistext ( |
+\|---|
+\| Ja |
+\|  |
 
-| Wert bei Ergebnistext ( |
-|---|
-| Ja |
-| Nein |
+\| Wert bei Ergebnistext ( |
+\|---|
+\| Ja |
+\| Nein |
 
 **Tabelle 16:**
 
@@ -1258,15 +1258,15 @@ gemäß Tabelle 18.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>      </sciphox:Beobachtung> |
-|---|
+\| <sciphox:Beobachtung>      </sciphox:Beobachtung> |
+\|---|
 
 **XML-Code 34:**
 
-| Wert bei Ergebnistext ( |
-|---|
-| Ja |
-| Nein |
+\| Wert bei Ergebnistext ( |
+\|---|
+\| Ja |
+\| Nein |
 
 **Tabelle 17:** ausgesprochen)
 
@@ -1278,8 +1278,8 @@ gemäß Tabelle 19.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>      </sciphox:Beobachtung> |
-|---|
+\| <sciphox:Beobachtung>      </sciphox:Beobachtung> |
+\|---|
 
 **XML-Code 35:**
 
@@ -1287,10 +1287,10 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ---
 
-|  |
-|---|
-|  |
-| Nein |
+\|  |
+\|---|
+\|  |
+\| Nein |
 
 **Tabelle 18:** Werte bei Ergebnistext ( Empfehlung zum körperlichen Training ausgesprochen)
 
@@ -1323,8 +1323,8 @@ genau ein Kindelement <sciphox:Ergebniswert>.
 
 Der Coderahmen sieht wie folgt aus:
 
-| <content>       <sciphox:Beobachtungen>                       </local_markup> </content> |
-|---|
+\| <content>       <sciphox:Beobachtungen>                       </local_markup> </content> |
+\|---|
 
 **XML-Code 36:** content (Relevante Ereignisse)
 
@@ -1338,8 +1338,8 @@ Exazerbationen seit der letzten Dokumentation“ und im *U*-Attribut den fest vo
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
-|---|
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
+\|---|
 
 **XML-Code 37**: Häufigkeit von Exazerbationen seit der letzten Dokumentation
 
@@ -1355,8 +1355,8 @@ notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen COPD seit 
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>      </sciphox:Beobachtung> |
-|---|
+\| <sciphox:Beobachtung>      </sciphox:Beobachtung> |
+\|---|
 
 **XML-Code 38**: Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen
 
@@ -1382,8 +1382,8 @@ Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus
 
 ---
 
-| <content>       <sciphox:Beobachtungen>                                                       </content> |
-|---|
+\| <content>       <sciphox:Beobachtungen>                                                       </content> |
+\|---|
 
 **XML-Code 39:** content (Behandlungsplanung)
 
@@ -1415,16 +1415,16 @@ gemäß Tabelle 20.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>      </sciphox:Beobachtung> |
-|---|
+\| <sciphox:Beobachtung>      </sciphox:Beobachtung> |
+\|---|
 
 **XML-Code 40:** An einem Tabakentwöhnungsprogramm seit der letzten Empfehlung teilgenommen
 
-| Wert bei Ergebnistext ( |
-|---|
-| Ja |
-| Nein |
-| War aktuell nicht möglich |
+\| Wert bei Ergebnistext ( |
+\|---|
+\| Ja |
+\| Nein |
+\| War aktuell nicht möglich |
 
 **Tabelle 19:** Werte bei Ergebnistext (An einem Tabakentwöhnungsprogramm seit der letzten
 
@@ -1454,8 +1454,8 @@ genau ein Kindelement <sciphox:Ergebnistext>.
 
 Der Coderahmen sieht wie folgt aus:
 
-| <content>       <sciphox:Beobachtungen>                        </local_markup> </content> |
-|---|
+\| <content>       <sciphox:Beobachtungen>                        </local_markup> </content> |
+\|---|
 
 **XML-Code 41:** content (Schulung)
 
@@ -1471,8 +1471,8 @@ gemäß Tabelle 21.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
-|---|
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
+\|---|
 
 **XML-Code 42:** Empfohlene Schulung wahrgenommen
 
@@ -1480,12 +1480,12 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ---
 
-| Wert bei Ergebnistext |
-|---|
-| Ja |
-| Nein |
-| War aktuell nicht möglich |
-| Bei letzter Dokumentation keine Schulung |
+\| Wert bei Ergebnistext |
+\|---|
+\| Ja |
+\| Nein |
+\| War aktuell nicht möglich |
+\| Bei letzter Dokumentation keine Schulung |
 
 **Tabelle 20:** Werte bei Ergebnistext (Empfohlene Schulung wahrgenommen (V="...") empfohlen
 
@@ -1495,7 +1495,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 |  |  |
 |---|---|
-| Kürzel | Beschreibung |
+| **Kürzel** | **Beschreibung** |
 | AVK | Arterielle Verschlusskrankheit |
 | CDA | Clinical Document Architecture |
 | COPD | Chronic Obstructive Pulmonary Disease |
@@ -1526,7 +1526,7 @@ Information Systems in Physician Offices and Hospitals using XML
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 | [KBV_ITA_VGEX_XML-Schnittstellen] | Austausch von XML Daten in der Vertragsärztlichen |
 | [EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend] | Plausibilitätsrichtlinie zur Prüfung der |
 | [EXT_ITA_VGEX_Plausi_eDMP_COPD] | Plausibilitätsrichtlinie zur Prüfung der |

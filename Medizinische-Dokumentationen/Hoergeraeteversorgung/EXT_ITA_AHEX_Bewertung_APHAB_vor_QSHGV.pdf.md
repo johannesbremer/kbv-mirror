@@ -1,8 +1,6 @@
-| Krankenkasse | bzw. Kostenträger |  |
-|---|---|---|
-| Name, | Vorname des Versicherten |  |
-| Kassen-Nr. |  | Versicherten-Nr. |
-| Vertragsarzt-Nr. |  | VK gültig bis |
+Krankenkasse bzw. Kostenträger
+
+Name, Vorname des Versicherten
 
 ## Fragebogen
 
@@ -10,9 +8,17 @@ geb. am
 
 ## der Hörbehinderung
 
+Kassen-Nr.
+
+Versicherten-Nr.
+
 Status.
 
 Bearbeiter
+
+Vertragsarzt-Nr.
+
+VK gültig bis
 
 Datum
 
@@ -88,24 +94,7 @@ immer
 
 HäufigFastImmer 99% 87% 75% 50% 25% 12% 1%
 
-### B CDA
-
-### B CDA
-
-### B CDA
-
-### B CDA
-
-### B CDA
-
-### B CDA
-
-### B CDA
-
-### B CDA
-
-### B CDA
-
+### B CDA B CDA B CDA B CDA B CDA B CDA B CDA B CDA B CDA
 **Bestimmung** **(APHAB)**
 
 Immer (99%) Fast immer (87%) Häufig (75%) In der Hälfte der Fälle (50%)
@@ -122,39 +111,19 @@ Hälf
 
 der  In Gelegentlich
 
-### EF
-
-### EF
-
-### EFG
-
-### EFG
-
-### EFG
-
-### EFG
-
-### EFG
-
-### EFG
-
-### EF
-
+### EF EF EFG EFG EFG EFG EFG EFG EF
 NieSelten
 
 G
 
 G
 
-Krankenkasse bzw. Kostenträger Name, Vorname des VersichertenG
+G
 
 
 ---
 
-#### Wenn ich in einem kleinen Büroraum Fragen stelle
-
-#### oder beantworte, habe ich Schwierigkeiten,
-
+#### Wenn ich in einem kleinen Büroraum Fragen stelle oder beantworte, habe ich Schwierigkeiten,
 10
 
 #### dem Gespräch zu folgen.
@@ -265,22 +234,10 @@ Datum
 
 ## B CDA 99% 87% 75% 50% 25% 12% 1%
 
-## EFG
-
-## EFG
-
-## EFG
-
-## EFG
-
+## EFG EFG EFG EFG
 G
 
-## EF
-
-## EFG
-
-## EFG
-
+## EF EFG EFG
 G
 
 ## EF
@@ -289,18 +246,7 @@ G
 
 G
 
-## EF
-
-## EFG
-
-## EFG
-
-## EFG
-
-## EFG
-
-## EFG
-
+## EF EFG EFG EFG EFG EFG
 Fälle
 
 der  te

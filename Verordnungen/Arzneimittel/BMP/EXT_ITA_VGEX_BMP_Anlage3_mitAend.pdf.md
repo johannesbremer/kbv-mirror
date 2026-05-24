@@ -4,10 +4,7 @@
 
 # Medikationsplan
 
-## (BMP)
-
-## gemäß § 31a SGB V
-
+## (BMP) gemäß § 31a SGB V
 Anlage 3 zur Vereinbarung gemäß § 31a Abs. 4 Satz 1 SGB V über Inhalt, Struktur und
 
 Vorgaben zur Erstellung und Aktualisierung eines Medikationsplans sowie über ein
@@ -977,7 +974,7 @@ Anzahl und Reihenfolge der Spalten der
 
 Tabelle 1: Inhalt, Anzahl und Reihenfolge der Spalten.
 
-| Feld | Spalten- | Name | Erläuterung |
+| **Feld** | **Spalten-** | **Name** | **Erläuterung** |
 |---|---|---|---|
 | 4.1 | 1 | Wirkstoffname | Enthält die Bezeichnung des Wirkstoffs oder der Wirkstoff - |
 | 4.2 | 2 | Arzneimittelname | Optionales Feld. |
@@ -991,7 +988,7 @@ Code  position kombination als von den Anwendenden erfassten Freitext oder entsp
 
 ---
 
-| Feld- | Spalten- | Name | Erläuterung |
+| **Feld-** | **Spalten-** | **Name** | **Erläuterung** |
 |---|---|---|---|
 | 4.8 | 8 | Behandlungsgrund | Die Eingabe erfolgt in der Regel als Freitext durch |
 
@@ -1153,7 +1150,7 @@ In der folgenden Tabelle werden die Felder für den Ausdruck beschrieben:
 
 Tabelle 2: Beschreibung der Felder für den Ausdruck.
 
-| Feld- | Bezeichnung | Syntax | Feldlänge für den Ausdruck | Instanz kommt aus der |
+| **Feld-** | **Bezeichnung** | **Syntax** | **Feldlänge für den Ausdruck** | **Instanz kommt aus der** |
 |---|---|---|---|---|
 | 1.1 | Identifikations- | Text | Fix | Anhang 2.3, |
 | 1.2 | Seitenzahl | X | Länge: 1 Zahl | Software |
@@ -1178,7 +1175,7 @@ code Feld kennung Patient*in) Patient*in) Patient*in) Patient*in) Patient*in) Pa
 
 ---
 
-| Feld- | Bezeichnung | Syntax | Feldlänge für den Ausdruck | Instanz kommt aus der |
+| **Feld-** | **Bezeichnung** | **Syntax** | **Feldlänge für den Ausdruck** | **Instanz kommt aus der** |
 |---|---|---|---|---|
 | 3.1 | Ruhezone | Nicht zu | Minimal 0,3 cm um den 2D- | Von der Software zu |
 | 3.2 | 2D-Barcode | Grafik der | Anforderungen an das  und Anhang 8 | Die Software transformiert |
@@ -1194,7 +1191,7 @@ code Feld bedruckende Fläche Datamatrix und zulässige Werte Carriersegment, si
 
 ---
 
-| Feld- | Bezeichnung | Syntax | Feldlänge für den Ausdruck | Instanz kommt aus der |
+| **Feld-** | **Bezeichnung** | **Syntax** | **Feldlänge für den Ausdruck** | **Instanz kommt aus der** |
 |---|---|---|---|---|
 |  |  | Text | Länge: je 0   bis zu 3 Wirkstärken:  1 oder 2 Wirkstärken: mit  3 Wirkstärken: mit 2 | Einzelne Wirkstärken |
 |  |  | Freitext | Länge: je 0   bis zu 3 Wirkstärken  1 oder 2 Wirkstärken: mit  3 Wirkstärken: mit 2 | Anwendende geben Wert |
@@ -1209,7 +1206,7 @@ code Feld Darreichungs-  X Y Auswahl des Wochentages Form „W X Y Z“ und zul�
 
 ---
 
-| Feld- | Bezeichnung | Syntax | Feldlänge für den Ausdruck | Instanz kommt aus der |
+| **Feld-** | **Bezeichnung** | **Syntax** | **Feldlänge für den Ausdruck** | **Instanz kommt aus der** |
 |---|---|---|---|---|
 |  |  | Freitext | Länge: 0 | Anwendende geben den |
 | 4.7 | Hinweise | Freitext | Länge: 0 | Anwendende geben Wert  Druck maximal 2-zeilig  bzw. maximal 4-zeilig bei |
@@ -1224,7 +1221,7 @@ code Feld grund Zusatzzeile zusätzliche Zeile bzgl. der Dosierung schrift  Anga
 
 ---
 
-| Feld- | Bezeichnung | Syntax | Feldlänge für den Ausdruck | Instanz kommt aus der |
+| **Feld-** | **Bezeichnung** | **Syntax** | **Feldlänge für den Ausdruck** | **Instanz kommt aus der** |
 |---|---|---|---|---|
 | 5.3 | Rezeptur | Freitext | Länge: 0 | Anwendende geben den  Druck maximal 2-zeilig.  Der gesamte Text muss |
 | 6.1 | Versions- | Format „xx.y“ | Länge: 3 | Ist in der Software |
@@ -1622,7 +1619,7 @@ Barcode (3.2) aufzunehmen. Folgende Kennwerte sind dabei zu beachten:
 
 Es wird kein Emblem verwendet, dieses ist durch den Identifikationsnamen abgedeckt.
 
-Ausführlichere Hinweise finden
+Ausführlichere Hinweise
 
 Anhang 5: Referenzen.
 
@@ -1648,7 +1645,7 @@ Anhang A4.2.3
 
 mindestens von Grad 1,5 gemäß ISO/IEC 15415
 
-sich z. B: in der Spezifikation 2D-
+finden sich z. B: in der Spezifikation 2D-
 
 PPN -Code, siehe
 
@@ -2499,17 +2496,9 @@ vergrößert dargestellt, so dass man
 
 Wurzelelement
 
-026 v=“028“> …) und enthält
+z. B. <MP
 
-z. B.
-
-1.0 encoding=
-
-<MP
-
-keinen
-
-ISO-
+026 v=“028“> …) und enthält keinen 1.0 encoding= ISO-
 
 
 ---
@@ -2551,7 +2540,7 @@ In der folgenden Tabelle sind die Datenfelder für die Verwendung im 2D-Barcode 
 
 Tabelle 3: Beschreibung, wie die Datenfelder im Carriersegment zu befüllen sind. Datenfelder, die im  Carriersegment nicht verwendet werden, sind nicht gelistet.
 
-| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
 |---|---|---|---|---|
 | 1.0 | Instanz-ID | MP.U | Die Instanz-ID ist eine GUID | Keine Entsprechung |
 | 1.2 | Seitenzahl | MP.a | Aktuelle Seite, mit 1 startend; | Entsprechend |
@@ -2567,7 +2556,7 @@ code Patient*in) Patienten) Attribut (Global Unique Identifier), die bei jeder E
 
 ---
 
-| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
 |---|---|---|---|---|
 | 2.4 | Geburtsdatum | MP.P.b | Geburtsdatum des/der | Inhalt identisch, |
 | 2.21 | Geschlecht | MP.P.s | Geschlecht des/der  -  M oder  -  W oder  -  D oder  -  X | Entsprechend  Im Druck mit    -  „Geschl.: m“ -  „Geschl.: w“  -  „Geschl.: divers“  -  „Geschl.:    (Kap. A.2.3) |
@@ -2583,7 +2572,7 @@ code (des/der Patient*in) (des/der Patient*in) Medikationsplans Arztnummer Insti
 
 ---
 
-| Feld- | Datenfeld | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+| **Feld-** | **Datenfeld** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
 |---|---|---|---|---|
 | 2.9 | Telefonnummer | MP.A.p | Telefonnummer der aktuell | Absolut identisch mit |
 | 2.10 | E-Mail | MP.A.e | E-Mail-Adresse der aktuell | Entsprechend  Ggf. im Ausdruck |
@@ -2597,7 +2586,7 @@ code Bezeichnung Parameterblock Patient*in) Patient*in) Patient*in) Attribut aus
 
 ---
 
-| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
 |---|---|---|---|---|
 | 2.16 | Allergien & | MP.O.ai | Allergie(n) & | Inhalt identisch,  Im Druck „Allerg./Unv.:  Mehrere Allergien oder |
 | 2.18 | Stillend | MP.O.b | Information darüber, ob die | Inhalt identisch,  Im Druck, falls |
@@ -2608,7 +2597,7 @@ code Unverträglich- keiten (des/der Patient*in) Attribut Unverträglichkeiten d
 
 ---
 
-| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
 |---|---|---|---|---|
 | 4.0 | Modifizierte PZN | MP.S.M.p | Pharmazentralnummer einer  PZNs werden als Ganzzahl | Keine Entsprechung  Über die PZN werden |
 | 4.1 | Wirkstoff | MP.S.M.W.w | Bezeichnung eines oder  7.3.7 sind anzuwenden. | Inhalt identisch, |
@@ -2619,7 +2608,7 @@ code Attribut Fertigarzneimittelpackung. (Bereich 1.. 99999999) ohne führende N
 
 ---
 
-| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
 |---|---|---|---|---|
 | 4.4 | Darreichungsform | MP.S.M.f | Bezeichnung einer  Die Darreichungsform kann  Darf nicht gleichzeitig mit | Absolut identisch zum  (Anhang 3) |
 | 4.4 | Darreichungsform | MP.S.M.fd | Bezeichnung einer  Die Darreichungsform kann  Darf nicht gleichzeitig mit | Absolut identisch zum |
@@ -2630,7 +2619,7 @@ code Darreichungsform gemäß der Referenzdatenbank nach § 31b SGB V in Form de
 
 ---
 
-| code | Datenfeld | Attribut | Beschreibung | Identität zu Ausdruck |
+| **code** | **Datenfeld** | **Attribut** | **Beschreibung** | **Identität zu Ausdruck** |
 |---|---|---|---|---|
 | 4.5 | Morgens | MP.S.M.m | Stellt die Einnahmedosis  Wenn Attribut fehlt,  Darf nicht gleichzeitig mit | Inhalt identisch, |
 | 4.5 | Mittags | MP.S.M.d | Stellt die Einnahmedosis  Wenn Attribut fehlt,  Darf nicht gleichzeitig mit | Inhalt identisch, |
@@ -2641,7 +2630,7 @@ Feld- Bezeichnung Datenfeld. des/der Patient*in am Format angepasst. Morgen dar.
 
 ---
 
-| Feld- | Datenfeld | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+| **Feld-** | **Datenfeld** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
 |---|---|---|---|---|
 | 4.5 | Freitextdosierung | MP.S.M.t | Stellt die Freitextdosierung  Darf nicht gleichzeitig mit | Absolut identisch mit |
 | 4.6 | Dosiereinheit | MP.S.M.du | Bezeichnung einer  Darf nicht gleichzeitig mit | Inhalt identisch,  (Kodierung gemäß |
@@ -2653,7 +2642,7 @@ code Freitextdosier- grund Attribut des/der Patient*in dar. MP.S.M.m (= morgens)
 
 ---
 
-| Feld- | Bezeichnung | Attribut | Beschreibung | Identität zu Ausdruck |
+| **Feld-** | **Bezeichnung** | **Attribut** | **Beschreibung** | **Identität zu Ausdruck** |
 |---|---|---|---|---|
 | 4.9 | Gebundene | MP.S.M.x | Allgemeine Hinweise, die  Darf maximal 1 Umbruch    Das Attribut MP.S.M.x darf | Absolut identisch mit |
 | 5.1 | Zwischenüber- | MP.S.c | Standardzwischenüberschrift  Vgl. Anhang 2,   Tabelle 6: Schlüsselworte für       Darf nicht gleichzeitig mit | aus Anhang 2,   Tabelle  ) |
@@ -2664,7 +2653,7 @@ Datenfeld. code Datenfeld Zusatzzeile sich auf den vorhergehenden (Medikations- 
 
 ---
 
-| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
 |---|---|---|---|---|
 | 5.3 | Rezeptur | MP.S.R.t | Eintrag zu einer Rezeptur als  Darf maximal 1 Umbruch  Zeilenumbrüche) | Absolut identisch mit |
 | 5.4 | Gebundene | MP.S.R.x | Allgemeine Hinweise, die  Darf maximal 1 Umbruch | Absolut identisch mit |
@@ -2741,9 +2730,9 @@ Bevorzugt ist der Ausdruck des gesamten Plans auf einer einzigen Seite.
 
 i. d. R. nicht im XML
 
-ge ist somit den Anwendenden
-
 Codes
+
+ge ist somit den Anwendenden
 
 
 ---
@@ -2988,9 +2977,9 @@ Stelle im Code identifiziert die einzelnen Bezeichnungen der (Daten-) Felder.
 
 Tabelle 4: Bezeichnung und Bedeutung der konkreten Felder des Medikationsplans mit ihrer  Verwendung im Ausdruck und Carriersegment.
 
-| Code | Bezeichnung | Bedeutung | Verwendung im | |
+| **Code** | **Bezeichnung** | **Bedeutung** | **Verwendung im** | |
 |---|---|---|---|---|
-|  |  |  | Ausdruck | 2D-Barcode |
+|  |  |  | **Ausdruck** | **2D-Barcode** |
 | 1.0 | Instanz-ID | Die Instanz-ID ist eine GUID | nein | ja |
 | 1.1 | Identifikationsname | Bezeichnung, die den | ja | ja |
 | 1.2 | Seitenzahl | aktuelle Seitenzahl | ja | ja |
@@ -3018,9 +3007,9 @@ Datenfeld kennung Medikationsplans des Ausdruckes  - Text1 - Text2 - Text3 Patie
 
 ---
 
-| Code | Bezeichnung | Bedeutung | Verwendung im | |
+| **Code** | **Bezeichnung** | **Bedeutung** | **Verwendung im** | |
 |---|---|---|---|---|
-|  |  |  | Ausdruck | 2D-Barcode |
+|  |  |  | **Ausdruck** | **2D-Barcode** |
 | 2.15 | Kreatininwert | Kreatininwert des/der Patient*in | ja, als Teil | ja |
 | 2.16 | Allergien & | Allergie(n) & Unverträglichkeiten | ja, als Teil | ja |
 | 2.18 | Stillend | Information darüber, ob die | ja, als Teil | ja |
@@ -3044,9 +3033,9 @@ Datenfeld (des/der Patient*in) (des/der Patient*in) Patienten) Zusatzzeile in mg
 
 ---
 
-| Code | Bezeichnung | Bedeutung | Verwendung im | |
+| **Code** | **Bezeichnung** | **Bedeutung** | **Verwendung im** | |
 |---|---|---|---|---|
-|  |  |  | Ausdruck | 2D-Barcode |
+|  |  |  | **Ausdruck** | **2D-Barcode** |
 | 4.10 | zusätzliche Zeile | Enthält die Angaben zur | ja | nein |
 | 5.1 | Zwischenüberschrift  Hervorgehobene Überschrift | zwischen den Zeilen mit den | ja | ja |
 | 5.2 | Freitextzeile | Allgemeine Hinweise, die nicht | ja | ja |
@@ -3097,7 +3086,7 @@ der Benennungen.
 
 Tabelle 5: Schlüsselworte für den Medikationsplan
 
-| Code | Bedeutung | Benennung |  |
+| **Code** | **Bedeutung** | **Benennung** |  |
 |---|---|---|---|
 | 111 Identifikationsname |  | Medikationsplan | M |
 | 121 Seitenbezeichnung |  | Seite | M |
@@ -3108,7 +3097,7 @@ Tabelle 5: Schlüsselworte für den Medikationsplan
 | 232 Telefonzuordnung |  | Tel.: | M |
 | 233 Mailzuordnung |  | E-Mail: | M |
 | 241 Ausdrucksdatumzuordnung ausgedruckt: |  |  | M |
-|  | Parametertexte: |  |  |
+|  | **Parametertexte:** |  |  |
 | 261 Gewicht |  | Gew.: {} kg | O |
 | 262 | Kreatinin | Krea.: {} mg/dl | O |
 | 263 | Geschlecht | Geschl.: {m \| w \| divers \| | O |
@@ -3129,7 +3118,7 @@ Geschl.: {m | w | divers | unbestimmt} /optional mandatory Interpunktionen sind 
 
 ---
 
-| Code | Bedeutung | Benennung |  |
+| **Code** | **Bedeutung** | **Benennung** |  |
 |---|---|---|---|
 | 311 Tabellenüberschrift, Spalte | Wirkstoffname | Wirkstoff | M |
 | 322 Tabellenüberschrift, Spalte | Handelsname | Handelsname | M |
@@ -3144,7 +3133,7 @@ Geschl.: {m | w | divers | unbestimmt} /optional mandatory Interpunktionen sind 
 
 Tabelle 6: Schlüsselworte für Zwischenüberschriften
 
-| Code | Bedeutung | Benennung |  |
+| **Code** | **Bedeutung** | **Benennung** |  |
 |---|---|---|---|
 | 411 Zwischenüberschrift |  | Bedarfsmedikation | O |
 |  | 412 | Dauermedikation | O |
@@ -3203,7 +3192,7 @@ Bruchschreibweise ist zulässig ( z. B. ½ wird zu 1/2 oder umgekehrt ). **Bruch
 
 Tabelle 7: Liste der zugelassenen Brüche und deren Darstellung.
 
-| Nr. | Bezeich- | Bedeutung Zeichen ISO |  | 8859-1 | Alternative | weise (Ersetzung |
+| **Nr.** | **Bezeich-** | **Bedeutung Zeichen ISO** |  | **8859-1** | **Alternative** | **weise (Ersetzung** |
 |---|---|---|---|---|---|---|
 | 1 | ½ | ein Halb | ½ | 189 | „1/2“ | „0,5“ |
 | 2 | 1/3 | ein Drittel | ⅓ |  | „1/3“ | „0,33“ |
@@ -3720,11 +3709,11 @@ Abbildung 12: XML-Schema MP - Teil 6: Attribute eines Medikationseintrages
 
 ---
 
-| Abbildung | 13: XML-Schema | MP - Teil | 7: Wirkstoff |  |
-|---|---|---|---|---|
-| Abbildung | 14: | XML-Schema MP - Teil | 8: Freitextzeile |  |
-| Abbildung | 15: | XML-Schema MP - | Teil 9: Rezeptur |  |
-| Anlage | 3 – Spezifikation | BMP Version | 2.8 vom 01.10.2025 | 84 |
+| Abbildung | 13: XML-Schema | MP - Teil | 7: Wirkstoff |
+|---|---|---|---|
+| Abbildung | 14: | XML-Schema MP - Teil | 8: Freitextzeile |
+| Abbildung | 15: | XML-Schema MP - | Teil 9: Rezeptur |
+| Anlage | 3 – Spezifikation | BMP Version | 2.8 vom 01.10.2025 84 |
 
 Abbildung 13: XML-Schema MP - Teil 7: Wirkstoff Abbildung 14: XML-Schema MP - Teil 8: Freitextzeile Abbildung 15: XML-Schema MP - Teil 9: Rezeptur
 
@@ -3738,7 +3727,7 @@ und in den Annotationen des XML-Schemas aus Anhang 8 benannt sind:
 
 Tabelle 10: Liste an Regeln, die ergänzend zum XML-Schema auf den Daten/Inhalten anzuwenden  sind.
 
-| Nr. | XML-Datenfeld(er) | Regeltext | anwendbar |
+| **Nr.** | **XML-Datenfeld(er)** | **Regeltext** | **anwendbar** |
 |---|---|---|---|
 | 1 | Instanz-ID | Der Daten-Typ ist GUID (Global | MUSS |
 | 2 | Seitenzahl | Die erste Seite eines | MUSS |
@@ -3762,7 +3751,7 @@ Vorname, Name, Titel, Vorsatzwort, Namenszusatz, Geburtsdatum Unique Identifier)
 
 ---
 
-| Nr. | XML-Datenfeld(er) | Regeltext | anwendbar |
+| **Nr.** | **XML-Datenfeld(er)** | **Regeltext** | **anwendbar** |
 |---|---|---|---|
 | 15 | Instanz-ID / | Bei jeder Aktualisierung des | MUSS |
 | 16 | Parameterfreitext | Der Text darf nicht mehr als 2 | MUSS |
@@ -3783,7 +3772,7 @@ Ausdruckdatum codiert oder Freitext als Code strukturiert oder Freitext Zusatzze
 
 ---
 
-| Nr. | XML-Datenfeld(er) | Regeltext | anwendbar |
+| **Nr.** | **XML-Datenfeld(er)** | **Regeltext** | **anwendbar** |
 |---|---|---|---|
 |  |  |  | Freitag (Wert 5 im XML),  Samstag (Wert 6 im XML) oder Sonntag (Wert 7 im XML) |
 | 29 | Freitextzeile | Der Text darf nicht mehr als 1 | MUSS |

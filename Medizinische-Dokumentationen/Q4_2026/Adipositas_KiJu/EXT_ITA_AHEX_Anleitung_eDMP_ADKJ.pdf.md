@@ -74,7 +74,7 @@ Dokumentation bei 1,90 und bei der Erstdokumentation bei 2,00, wird Ihnen automa
 
 Tabelle 1: Kategoriale Einordnung des BMI-SDS
 
-| BMI-SDS-Wert | Kategorie |
+| **BMI-SDS-Wert** | **Kategorie** |
 |---|---|
 | < -1,28 | Untergewicht |
 | -1,28 bis 1,28 | Normalgewicht |
@@ -86,7 +86,7 @@ Tabelle 1: Kategoriale Einordnung des BMI-SDS
 
 Tabelle 2: Klinische Einordnung der Veränderung des individuellen BMI
 
-| Veränderung des BMI-SDS | Einordnung |
+| **Veränderung des BMI-SDS** | **Einordnung** |
 |---|---|
 | > 0 | Gewichtszunahme |
 | 0 bis > -0,20 | Gewichtsstabilisierung |
@@ -264,10 +264,7 @@ Kinder und Jugendliche erhalten. Bitte machen Sie jeweils eine Angabe zu den fol
 
 Dokumentationsfeldern zu Schulungen:
 
-#### Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung für Kinder
-
-#### und Jugendliche teilgenommen
-
+#### Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung für Kinder und Jugendliche teilgenommen
 Eine Angabe in diesem Feld ist nur im Rahmen der **Erstdokumentation** möglich und hier verpflichtend.
 
 **Genau eine Angabe** ist erforderlich und zulässig. Bei der Folgedokumentation ist hier keine Angabe möglich.

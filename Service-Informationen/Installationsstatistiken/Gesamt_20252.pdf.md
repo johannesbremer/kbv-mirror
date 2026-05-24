@@ -421,7 +421,7 @@ EVIDENT GmbH
 
 **Id Praxissoftware**
 
-643 **smartLIS Laborinformationssystem Abrechnungsmodul**
+643 **smartLIS Laborinformationssyste**
 
 716 **Melos-Labor-System**
 
@@ -461,7 +461,7 @@ EVIDENT GmbH
 
 730 **SYLAB**
 
-347 **Opus::L Labormanagementsystem**
+347 **Opus::L Labormanagementsyste**
 
 752 **INFINITYQ HEALTH**
 
@@ -491,7 +491,7 @@ EVIDENT GmbH
 
 **Anbieter**
 
-labdock GmbH
+**m Abrechnungsmodul** labdock GmbH
 
 LABLIONS software & solutions GmbH
 
@@ -530,6 +530,8 @@ Strzata, Dr. med. Norbert
 EDL Software Deutschland GmbH
 
 Labor Dr. von Froreich GmbH
+
+**m**
 
 Dedalus Labor GmbH
 

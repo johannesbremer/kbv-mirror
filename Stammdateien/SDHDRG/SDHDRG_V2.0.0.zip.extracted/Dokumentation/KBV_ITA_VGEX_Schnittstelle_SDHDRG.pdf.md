@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT  14. NOVEMBER 2025   VERSION: 2.0.0 |
+|  | **KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT  14. NOVEMBER 2025   VERSION: 2.0.0** |
 |---|---|
 
 # SCHNITTSTELLENBESCHREIBUNG  SDHDRG (HYBRID -DRG)
@@ -164,7 +164,7 @@ Elements -Symbole
 
 DOKUMENTENSTATUS
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 2.0.0 | 14.11.2025 | KBV | Streichung des OPS-Zweiges    Aufnahme des OPS-Zweiges |  | 9,10,13 |
 | 1.0.0 | 08.01.2025 | KBV | neues Dokument |  | alle |
@@ -263,11 +263,11 @@ folgenden Kapiteln kurz erläutert werden.
 
 Es existieren verschiedene Kardinalitäten:
 
-| Kardinalität | Symbol | Beschreibung |
+| **Kardinalität** | **Symbol** | **Beschreibung** |
 |---|---|---|
-| 0..1 |  | Optionale Elemente  Ein optionales Element wird als Rechteck mit gestrichelter |
-| 1 |  | Obligatorische Elemente  Elemente, welche als Rechteck mit durchgezogener Linie |
-| n...m |  | Mehrfache Elemente  Bei Elementen, welche mehrfach vorkommen können, |
+| 0..1 |  | **Optionale Elemente ** Ein optionales Element wird als Rechteck mit gestrichelter |
+| 1 |  | **Obligatorische Elemente ** Elemente, welche als Rechteck mit durchgezogener Linie |
+| n...m |  | **Mehrfache Elemente ** Bei Elementen, welche mehrfach vorkommen können, |
 
 Tabelle 1: Beschreibung der Kardinalitäten eines XML -Elements
 
@@ -280,7 +280,7 @@ Linie dargestellt. Es kann keinmal oder einmal vorkommen. dargestellt sind, müs
 
 ---
 
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |---|---|
 |  | Das Strukturelement |
 |  | Das Strukturelement |
@@ -291,12 +291,12 @@ Tabelle 2: Beschreibung der Strukturelement -Symbole
 
 Es werden außerdem folgende Diagramm-Symbole verwendet:
 
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |---|---|
-|  | Element mit Kindelementen  Ein Element mit einem oder mehreren Kindelementen wird durch ein |
-|  | Referenzelement  Der Pfeil links unten im Element zeigt an, dass das |
-|  | Datentyp  Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen Datentyp. |
-|  | Gruppenelement  Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement dar, |
+|  | **Element mit Kindelementen ** Ein Element mit einem oder mehreren Kindelementen wird durch ein |
+|  | **Referenzelement ** Der Pfeil links unten im Element zeigt an, dass das |
+|  | **Datentyp ** Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen Datentyp. |
+|  | **Gruppenelement ** Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement dar, |
 
 Tabelle 3: Beschreibung sonstiger Symbole
 
@@ -414,13 +414,11 @@ Hybrid-DRG-Vergütungsvereinbarung. Daher besitzt dieses Element mindestens ein 
 
 -Elemente wird auf die jeweils
 
-KBV_ITA_VGEX_eHD
-
-und ***<ops_liste>***
-
-] verwiesen.
+KBV_ITA_VGEX_eHD ] verwiesen.
 
 -DRG. Als verpflichtendes
+
+und ***<ops_liste>***
 
 gemäß der Anlage 1 und 2 der
 
@@ -716,9 +714,9 @@ XML-Code 13: hinweis
 
 6 REFERENZIERTE DOKUMENTE
 
-| REFERENZIERTE DOKUMENTE |  |
+| **REFERENZIERTE DOKUMENTE** |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | Dokument |
 | KBV_ITA_VGEX_eHD | ehd  https://update.kbv.de/ita-update/Medizinische- |
 
 **Ansprechpartner:**

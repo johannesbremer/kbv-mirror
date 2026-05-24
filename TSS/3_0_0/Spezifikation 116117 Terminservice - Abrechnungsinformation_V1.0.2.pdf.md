@@ -133,10 +133,10 @@ Seite 5 von 10 / KBV / Spezifikation 116117 Terminservice - Abrechnungsinformati
 
 ---
 
-| 3 | VORAUSSETZUNGEN | |  |  |  |
-|---|---|---|---|---|---|
-| Für die | Nutzung die | Schnittstelle wird | die Authentisierung | gemäß | [TSS_Auth] vorausgesetzt. |
-| Seite 6 von | 10 / KBV / Spezifikation | 116117 | Terminservice - | Abrechnungsinformation |  |
+| 3 | VORAUSSETZUNGEN | |  |
+|---|---|---|---|
+| Für die | Nutzung die | Schnittstelle wird | die Authentisierung gemäß [TSS_Auth] vorausgesetzt. |
+| Seite 6 von | 10 / KBV / Spezifikation | 116117 | Terminservice - Abrechnungsinformation |
 
 3 VORAUSSETZUNGEN Für die Nutzung die Schnittstelle wird die Authentisierung gemäß [TSS_Auth] vorausgesetzt.  / KBV / Spezifikation 116117 Terminservice - Abrechnungsinformation
 

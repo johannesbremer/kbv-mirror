@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  12. AUGUST 2021   VERSION: 1.07   DOKUMENTENSTATUS: IN |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  12. AUGUST 2021   VERSION: 1.07   DOKUMENTENSTATUS: IN** |
 |---|---|
 
 # PRUEFPAKET QS-HOLMIUM-LASER- THERAPIE
@@ -84,7 +84,7 @@ Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 19
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.07 | 12.08.2021 | KBV | Überarbeitung des | Überführung ins neue | Alle |
 | 1.06 | 12.03.2018 | KBV | Einreichung des Antrags | Anpassung des | 5ff |
@@ -225,17 +225,17 @@ verwendet
 
 Folgende Angaben sind für die Zertifizierung zu verwenden:
 
-| BEZEICHNUNG | INHALT |
+| **BEZEICHNUNG** | **INHALT** |
 |---|---|
-| Betriebsstättennummer (BSNR) | 381234511 |
-| (N)BSNR-Bezeichnung: | Praxis Dr. med. Topp-Glücklich |
-| Lebenslange Arztnummer (LANR) | 555333967 |
-| Arztname | Dr. med. Hans Topp-Glücklich, Urologe |
-| Straße | Musterstr. |
-| Hausnummer | 1 |
-| PLZ/Ort | 64283 Darmstadt |
-| Telefon | 06151 / 1111111 |
-| Zu verwendende Prüfnummer: | Y/59/1407/36/000 |
+| **Betriebsstättennummer (BSNR)** | 381234511 |
+| **(N)BSNR-Bezeichnung:** | Praxis Dr. med. Topp-Glücklich |
+| **Lebenslange Arztnummer (LANR)** | 555333967 |
+| **Arztname** | Dr. med. Hans Topp-Glücklich, Urologe |
+| **Straße** | Musterstr. |
+| **Hausnummer** | 1 |
+| **PLZ/Ort** | 64283 Darmstadt |
+| **Telefon** | 06151 / 1111111 |
+| **Zu verwendende Prüfnummer:** | Y/59/1407/36/000 |
 
 **Hinweis**: Zu den einzelnen Prüffällen ist ein Dokumentationsdatum angegeben. Bitte verste
 
@@ -248,54 +248,54 @@ hen Sie dieses
 
 ---
 
-| TABELLE 1 - JAHRESSTATISTIK 2014 | |
+| **TABELLE 1 - JAHRESSTATISTIK 2014** | |
 |---|---|
-| Anzahl Eingriffe | |
+| **Anzahl Eingriffe** | |
 | Anzahl Ersteingriffe | 15 |
 | Anzahl Folgeeingriffe | 6 |
-| OP-Indikationen | |
+| **OP-Indikationen** | |
 | Anzahl Eingriffe mit absoluter OP-Indikation | 19 |
 | Anzahl Eingriffe mit relativer OP-Indikation | 2 |
-| Prostatavolumen | |
+| **Prostatavolumen** | |
 | weniger als 25 ml | 7 |
 | 25 – 49 ml | 3 |
 | 50 – 69 ml | 6 |
 | 70 und mehr ml | 5 |
-| Harnstrahlmessungen | |
+| **Harnstrahlmessungen** | |
 | 0 ml/s (Harnverhalt) | 1 |
 | >0 – 9,9 ml/s | 11 |
 | 10 – 15 ml/s | 0 |
 | Mehr als 15 ml/s | 9 |
-| intraoperativ aufgetretene Komplikationen gemäß § 6 Abs. 1 Nr. 2 | |
+| **intraoperativ aufgetretene Komplikationen gemäß § 6 Abs. 1 Nr. 2** | |
 | Blasenverletzung | 1 |
 | Verletzung der Harnleiterostien | 2 |
 | Einschwemmung | 0 |
 | andere | 1 |
-| Interventionspflichtige Frühkomplikationen gemäß § 6 Abs. 1 Nr. 3b | |
-| 2 2.1 | |
+| **Interventionspflichtige Frühkomplikationen gemäß § 6 Abs. 1 Nr. 3b** | |
+| 2**2.1** | |
 |  |  |
 |  |  |
-|  | Prüffall-ID |
+|  | **Prüffall-ID** |
 | 1 | |
-| Testziel | Erstellen Sie eine Jahresstatistik |
-| Voraussetzung | Das Dokumentationsdatum ist der 3 |
-| Prüfunterlagen | Jahresstatistik |
-| Hinweis | |
+| **Testziel** | Erstellen Sie eine Jahresstatistik |
+| **Voraussetzung** | Das Dokumentationsdatum ist der 3 |
+| **Prüfunterlagen** | Jahresstatistik |
+| **Hinweis** | |
 |  |  |
 |  |  |
-| TABELLE 1 - JAHRESSTATISTIK 2014 |  |
-| Anzahl Eingriffe | Anzahl Ersteingriffe |
+| **TABELLE 1 - JAHRESSTATISTIK 2014** |  |
+| **Anzahl Eingriffe** | Anzahl Ersteingriffe |
 | 15 | Anzahl Folgeeingriffe |
 | 6 | |
-| OP-Indikationen | Anzahl Eingriffe mit absoluter OP-Indikation |
+| **OP-Indikationen** | Anzahl Eingriffe mit absoluter OP-Indikation |
 
 |  |  |
 |---|---|
-| Prüffall-ID | 1 |
-| Testziel | Erstellen Sie eine Jahresstatistik |
-| Voraussetzung | Das Dokumentationsdatum ist der 3 |
-| Prüfunterlagen | Jahresstatistik |
-| Hinweis |  |
+| **Prüffall-ID** | 1 |
+| **Testziel** | Erstellen Sie eine Jahresstatistik |
+| **Voraussetzung** | Das Dokumentationsdatum ist der 3 |
+| **Prüfunterlagen** | Jahresstatistik |
+| **Hinweis** |  |
 
 (zur Übermit gemäß Tabelle 1 tlung an die Datenannahmestelle) 0.03.2017  PRÜFFÄLLE PRÜFFALL 1
 
@@ -305,7 +305,7 @@ hen Sie dieses
 |---|---|
 | 20 – 39,9 g | |
 | 8 | 40 g und mehr |
-| 2 | Spontanmiktion |
+| 2 | **Spontanmiktion** |
 | Anzahl Entlassungen mit Spontanmiktion | |
 | 4 |  |
 |  |  |
@@ -325,174 +325,174 @@ hen Sie dieses
 |  |  |
 |  |  |
 |  | |
-| TABELLE 1 - JAHRESSTATISTIK 2014 | |
+| **TABELLE 1 - JAHRESSTATISTIK 2014** | |
 | Anzahl interventionspflichtige Nachblutungen ohne Transfusion | 3 |
 | Anzahl interventionspflichtige Nachblutungen mit Transfusion | 1 |
 | andere | 5 |
-| Operationszeit | |
+| **Operationszeit** | |
 | 0 - 59 Minuten | 16 |
 | 60 – 89 Minuten | 4 |
 | 90 und mehr Minuten | 1 |
-| Resektionsgewicht | |
+| **Resektionsgewicht** | |
 | 0 g (Abbruch) | 0 |
 | >0 – 9,9 g | 4 |
 | 10 – 19,9 g | 7 |
 | 20 – 39,9 g | 8 |
 | 40 g und mehr | 2 |
-| Spontanmiktion | |
+| **Spontanmiktion** | |
 | Anzahl Entlassungen mit Spontanmiktion | 4 |
 
 
 ---
 
-| KONSTELLATION 1 | |
+| **KONSTELLATION 1** | |
 |---|---|
-| Anzahl Eingriffe | |
+| **Anzahl Eingriffe** | |
 | Anzahl Ersteingriffe | 0 |
 | Anzahl Folgeeingriffe | 0 |
-| OP-Indikationen | |
+| **OP-Indikationen** | |
 | Anzahl Eingriffe mit absoluter OP-Indikation | 0 |
 | Anzahl Eingriffe mit relativer OP-Indikation | 0 |
-| Prostatavolumen | |
+| **Prostatavolumen** | |
 | weniger als 25 ml | 0 |
 | 25 – 49 ml | 0 |
 | 50 – 69 ml | 0 |
 | 70 und mehr ml | 0 |
-| Harnstrahlmessungen | |
+| **Harnstrahlmessungen** | |
 | 0 ml/s (Harnverhalt) | 0 |
 | >0 – 9,9 ml/s | 0 |
 | 10 – 15 ml/s | 0 |
 | Mehr als 15 ml/s | 0 |
-| intraoperativ aufgetretene Komplikationen gemäß § 6 Abs. 1 Nr. 2 | |
+| **intraoperativ aufgetretene Komplikationen gemäß § 6 Abs. 1 Nr. 2** | |
 | Blasenverletzung | 0 |
 | Verletzung der Harnleiterostien | 0 |
-| 2.2 | |
+| **2.2** | |
 |  |  |
 |  |  |
 |  | |
-| Prüffall-ID | 2 |
-| Testziel | Die folgenden Konstellationen stellen Plausibilitätsverstöße dar, die durch die |
+| **Prüffall-ID** | 2 |
+| **Testziel** | Die folgenden Konstellationen stellen Plausibilitätsverstöße dar, die durch die |
 | KBV_ITA_VGEX_Plausi_QSHLT | ) erkannt werden müssen |
-| Voraussetzung | |
-| Die weiteren, nicht vorgegebenen Angaben der einzelnen Konstellationen sind | Prüfunterlagen |
-| Werden Plausibilitätsverstöße softwareseitig erkannt, so sind entsprechende | Hinweis |
+| **Voraussetzung** | |
+| Die weiteren, nicht vorgegebenen Angaben der einzelnen Konstellationen sind | **Prüfunterlagen** |
+| Werden Plausibilitätsverstöße softwareseitig erkannt, so sind entsprechende | **Hinweis** |
 |  |  |
 |  | |
-| KONSTELLATION 1 |  |
-| Anzahl Eingriffe | Anzahl Ersteingriffe |
+| **KONSTELLATION 1** |  |
+| **Anzahl Eingriffe** | Anzahl Ersteingriffe |
 | 0 | Anzahl Folgeeingriffe |
-| 0 | OP-Indikationen |
+| 0 | **OP-Indikationen** |
 | Anzahl Eingriffe mit absoluter OP-Indikation | 0 |
 | Anzahl Eingriffe mit relativer OP-Indikation | |
-| 0 | Prostatavolumen |
+| 0 | **Prostatavolumen** |
 
 |  |  |
 |---|---|
-| Prüffall-ID | 2 |
-| Testziel | Die folgenden Konstellationen stellen Plausibilitätsverstöße dar, die durch die  KBV_ITA_VGEX_Plausi_QSHLT) erkannt werden müssen |
-| Voraussetzung | Die weiteren, nicht vorgegebenen Angaben der einzelnen Konstellationen sind |
-| Prüfunterlagen | Werden Plausibilitätsverstöße softwareseitig erkannt, so sind entsprechende |
-| Hinweis |  |
+| **Prüffall-ID** | 2 |
+| **Testziel** | Die folgenden Konstellationen stellen Plausibilitätsverstöße dar, die durch die  KBV_ITA_VGEX_Plausi_QSHLT) erkannt werden müssen |
+| **Voraussetzung** | Die weiteren, nicht vorgegebenen Angaben der einzelnen Konstellationen sind |
+| **Prüfunterlagen** | Werden Plausibilitätsverstöße softwareseitig erkannt, so sind entsprechende |
+| **Hinweis** |  |
 
 Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzunehmen. Um die Plausibilitätsverstöße entsprechend darstellen zu können, sollten Sie die jeweils ausgewiesenen Wertkorrekturen an den Ursprungsdaten (Prüffall 1) zwischen den Konstellationen durchführen. Screenshots von allen Fehler - oder Warnhinweisen der Konstellationen einzureichen. PRÜFFALL 2
 
 ---
 
-| Resektionsgewicht  0 g (Abbruch) | |
+| **Resektionsgewicht ** 0 g (Abbruch) | |
 |---|---|
 | >0 – 9,9 g | |
 | 0 | 10 – 19,9 g |
 | 0 | 20 – 39,9 g |
 | 0 | |
 | 40 g und mehr | 0 |
-| Spontanmiktion | Anzahl Entlassungen mit Spontanmiktion |
+| **Spontanmiktion** | Anzahl Entlassungen mit Spontanmiktion |
 | 0 | |
 |  |  |
-| WERTKORREKTUR |  |
-| Anzahl Eingriffe | Anzahl Ersteingriffe |
+| **WERTKORREKTUR** |  |
+| **Anzahl Eingriffe** | Anzahl Ersteingriffe |
 | 3 | Anzahl Folgeeingriffe |
 | 5 | |
 |  |  |
-| KONSTELLATION 2 |  |
-| OP-Indikationen | Anzahl Eingriffe mit absoluter OP-Indikation |
+| **KONSTELLATION 2** |  |
+| **OP-Indikationen** | Anzahl Eingriffe mit absoluter OP-Indikation |
 | 6 | Anzahl Eingriffe mit relativer OP-Indikation |
 | 5 | |
 |  |  |
-| KONSTELLATION 3 |  |
-| KONSTELLATION 1 | |
+| **KONSTELLATION 3** |  |
+| **KONSTELLATION 1** | |
 | Einschwemmung | 0 |
 | andere | 0 |
-| Interventionspflichtige Frühkomplikationen gemäß § 6 Abs. 1 Nr. 3b | |
+| **Interventionspflichtige Frühkomplikationen gemäß § 6 Abs. 1 Nr. 3b** | |
 | Anzahl interventionspflichtige Nachblutungen ohne Transfusion | 0 |
 | Anzahl interventionspflichtige Nachblutungen mit Transfusion | 0 |
 | andere | 0 |
-| Operationszeit | |
+| **Operationszeit** | |
 | 0 - 59 Minuten | 0 |
 | 60 – 89 Minuten | 0 |
 | 90 und mehr Minuten | 0 |
-| Resektionsgewicht | |
+| **Resektionsgewicht** | |
 | 0 g (Abbruch) | 0 |
 | >0 – 9,9 g | 0 |
 | 10 – 19,9 g | 0 |
 | 20 – 39,9 g | 0 |
 | 40 g und mehr | 0 |
-| Spontanmiktion | |
+| **Spontanmiktion** | |
 | Anzahl Entlassungen mit Spontanmiktion | 0 |
 
-| KONSTELLATION 3 | |
+| **KONSTELLATION 3** | |
 |---|---|
-| OP-Indikationen | |
+| **OP-Indikationen** | |
 | Anzahl Eingriffe mit absoluter OP-Indikation | 1 |
 | Anzahl Eingriffe mit relativer OP-Indikation | 4 |
 
-| WERTKORREKTUR | |
+| **WERTKORREKTUR** | |
 |---|---|
-| Anzahl Eingriffe | |
+| **Anzahl Eingriffe** | |
 | Anzahl Ersteingriffe | 3 |
 | Anzahl Folgeeingriffe | 5 |
 
-| KONSTELLATION 2 | |
+| **KONSTELLATION 2** | |
 |---|---|
-| OP-Indikationen | |
+| **OP-Indikationen** | |
 | Anzahl Eingriffe mit absoluter OP-Indikation | 6 |
 | Anzahl Eingriffe mit relativer OP-Indikation | 5 |
 
 
 ---
 
-| WERTKORREKTUR | |
+| **WERTKORREKTUR** | |
 |---|---|
-| OP-Indikationen | |
+| **OP-Indikationen** | |
 | Anzahl Eingriffe mit absoluter OP-Indikation | 5 |
 | Anzahl Eingriffe mit relativer OP-Indikation | 3 |
 
-| KONSTELLATION 4 | |
+| **KONSTELLATION 4** | |
 |---|---|
-| Prostatavolumen | |
+| **Prostatavolumen** | |
 | weniger als 25 ml | 5 |
 | 25 – 49 ml | 3 |
 | 50 – 69 ml | 2 |
 | 70 und mehr ml | 3 |
 
-| KONSTELLATION 5 | |
+| **KONSTELLATION 5** | |
 |---|---|
-| Prostatavolumen | |
+| **Prostatavolumen** | |
 | weniger als 25 ml | 1 |
 | 25 – 49 ml | 2 |
 | 50 – 69 ml | 2 |
 | 70 und mehr ml | 1 |
 
-| WERTKORREKTUR | |
+| **WERTKORREKTUR** | |
 |---|---|
-| Prostatavolumen | |
+| **Prostatavolumen** | |
 | weniger als 25 ml | 1 |
 | 25 – 49 ml | 3 |
 | 50 – 69 ml | 4 |
 | 70 und mehr ml | 0 |
 
-| KONSTELLATION 6 | |
+| **KONSTELLATION 6** | |
 |---|---|
-| Harnstrahlmessungen | |
+| **Harnstrahlmessungen** | |
 | 0 ml/s (Harnverhalt) | 1 |
 | >0 – 9,9 ml/s | 11 |
 | 10 – 15 ml/s | 1 |
@@ -501,88 +501,88 @@ Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzu
 
 ---
 
-| KONSTELLATION | |
+| **KONSTELLATION** | |
 |---|---|
-| Harnstrahlmessungen | |
+| **Harnstrahlmessungen** | |
 | 0 ml/s (Harnverhalt) | 1 |
 | >0 – 9,9 ml/s | 2 |
 | 10 – 15 ml/s | 0 |
 | Mehr als 15 ml/s | 3 |
 
-| WERTKORREKTUR | |
+| **WERTKORREKTUR** | |
 |---|---|
-| Harnstrahlmessungen | |
+| **Harnstrahlmessungen** | |
 | 0 ml/s (Harnverhalt) | 1 |
 | >0 – 9,9 ml/s | 2 |
 | 10 – 15 ml/s | 2 |
 | Mehr als 15 ml/s | 3 |
 
-| KONSTELLATION | |
+| **KONSTELLATION** | |
 |---|---|
-| intraoperativ aufgetretene Komplikationen gemäß § 6 Abs. 1 Nr. 2 | |
+| **intraoperativ aufgetretene Komplikationen gemäß § 6 Abs. 1 Nr. 2** | |
 | Blasenverletzung | 12 |
 
-| WERTKORREKTUR | |
+| **WERTKORREKTUR** | |
 |---|---|
-| intraoperativ aufgetretene Komplikationen gemäß § 6 Abs. 1 Nr. 2 | |
+| **intraoperativ aufgetretene Komplikationen gemäß § 6 Abs. 1 Nr. 2** | |
 | Blasenverletzung | 1 |
 
-| KONSTELLATION 9 | |
+| **KONSTELLATION 9** | |
 |---|---|
-| intraoperativ aufgetretene Komplikationen gemäß § 6 Abs. 1 Nr. 2 | |
+| **intraoperativ aufgetretene Komplikationen gemäß § 6 Abs. 1 Nr. 2** | |
 | Verletzung der Harnleiterostien | 10 |
 
-| WERTKORREKTUR | |
+| **WERTKORREKTUR** | |
 |---|---|
-| intraoperativ aufgetretene Komplikationen gemäß § 6 Abs. 1 Nr. 2 | |
+| **intraoperativ aufgetretene Komplikationen gemäß § 6 Abs. 1 Nr. 2** | |
 | Verletzung der Harnleiterostien | 3 |
 
-| KONSTELLATION 10 | |
+| **KONSTELLATION 10** | |
 |---|---|
-| intraoperativ aufgetretene Komplikationen gemäß § 6 Abs. 1 Nr. 2 | |
+| **intraoperativ aufgetretene Komplikationen gemäß § 6 Abs. 1 Nr. 2** | |
 | Einschwemmung | 9 |
 
 7 8
 
 ---
 
-| WERTKORREKTUR | |
+| **WERTKORREKTUR** | |
 |---|---|
-| intraoperativ aufgetretene Komplikationen gemäß § 6 Abs. 1 Nr. 2 | |
+| **intraoperativ aufgetretene Komplikationen gemäß § 6 Abs. 1 Nr. 2** | |
 | Einschwemmung | 1 |
 
-| KONSTELLATION 11 | |
+| **KONSTELLATION 11** | |
 |---|---|
-| intraoperativ aufgetretene Komplikationen gemäß § 6 Abs. 1 Nr. 2 | |
+| **intraoperativ aufgetretene Komplikationen gemäß § 6 Abs. 1 Nr. 2** | |
 | Andere | 14 |
 
-| WERTKORREKTUR | |
+| **WERTKORREKTUR** | |
 |---|---|
-| intraoperativ aufgetretene Komplikationen gemäß § 6 Abs. 1 Nr. 2 | |
+| **intraoperativ aufgetretene Komplikationen gemäß § 6 Abs. 1 Nr. 2** | |
 | Einschwemmung | 0 |
 
-| KONSTELLATION 12 | |
+| **KONSTELLATION 12** | |
 |---|---|
-| Umstiege | |
+| **Umstiege** | |
 | Anzahl der Umstiege auf TURP-Verfahren | 5 |
 | Anzahl Umstiege auf konventionelle OP | 8 |
 
-| WERTKORREKTUR | |
+| **WERTKORREKTUR** | |
 |---|---|
-| Umstiege | |
+| **Umstiege** | |
 | Anzahl der Umstiege auf TURP-Verfahren | 3 |
 | Anzahl Umstiege auf konventionelle OP | 0 |
 
-| KONSTELLATION 13 | |
+| **KONSTELLATION 13** | |
 |---|---|
-| Interventionspflichtige Frühkomplikationen gemäß § 6 Abs. 1 Nr. 3b | |
+| **Interventionspflichtige Frühkomplikationen gemäß § 6 Abs. 1 Nr. 3b** | |
 | Anzahl interventionspflichtige Nachblutungen ohne Transfusion | 5 |
 | Anzahl interventionspflichtige Nachblutungen mit Transfusion | 4 |
 | Andere | 3 |
 
-| WERTKORREKTUR | |
+| **WERTKORREKTUR** | |
 |---|---|
-| Interventionspflichtige Frühkomplikationen gemäß § 6 Abs. 1 Nr. 3b | |
+| **Interventionspflichtige Frühkomplikationen gemäß § 6 Abs. 1 Nr. 3b** | |
 | Anzahl interventionspflichtige Nachblutungen ohne Transfusion | 1 |
 | Anzahl interventionspflichtige Nachblutungen mit Transfusion | 0 |
 | Andere | 2 |
@@ -590,39 +590,39 @@ Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzu
 
 ---
 
-| KONSTELLATION 14 | |
+| **KONSTELLATION 14** | |
 |---|---|
-| Operationszeit | |
+| **Operationszeit** | |
 | 0 - 59 Minuten | 16 |
 | 60 – 89 Minuten | 4 |
 | 90 und mehr Minuten | 0 |
 
-| KONSTELLATION 15 | |
+| **KONSTELLATION 15** | |
 |---|---|
-| Operationszeit | |
+| **Operationszeit** | |
 | 0 - 59 Minuten | 2 |
 | 60 – 89 Minuten | 4 |
 | 90 und mehr Minuten | 0 |
 
-| WERTKORREKTUR | |
+| **WERTKORREKTUR** | |
 |---|---|
-| Operationszeit | |
+| **Operationszeit** | |
 | 0 - 59 Minuten | 2 |
 | 60 – 89 Minuten | 4 |
 | 90 und mehr Minuten | 2 |
 
-| KONSTELLATION 16 | |
+| **KONSTELLATION 16** | |
 |---|---|
-| Resektionsgewicht | |
+| **Resektionsgewicht** | |
 | 0 g (Abbruch) | 1 |
 | >0 – 9,9 g | 4 |
 | 10 – 19,9 g | 7 |
 | 20 – 39,9 g | 8 |
 | 40 g und mehr | 2 |
 
-| KONSTELLATION 17 | |
+| **KONSTELLATION 17** | |
 |---|---|
-| Resektionsgewicht | |
+| **Resektionsgewicht** | |
 | 0 g (Abbruch) | 1 |
 | >0 – 9,9 g | 1 |
 | 10 – 19,9 g | 2 |
@@ -632,18 +632,18 @@ Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzu
 
 ---
 
-| WERTKORREKTUR | |
+| **WERTKORREKTUR** | |
 |---|---|
-| Resektionsgewicht | |
+| **Resektionsgewicht** | |
 | 0 g (Abbruch) | 1 |
 | >0 – 9,9 g | 1 |
 | 10 – 19,9 g | 2 |
 | 20 – 39,9 g | 1 |
 | 40 g und mehr | 3 |
 
-| KONSTELLATION 18 | |
+| **KONSTELLATION 18** | |
 |---|---|
-| Spontanmiktion | |
+| **Spontanmiktion** | |
 | Anzahl Entlassungen mit Spontanmiktion | 22 |
 
 
@@ -653,15 +653,15 @@ Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzu
 
 |  |  |
 |---|---|
-| Prüffall-ID | 3 |
-| Testziel | Nach Eingabe aller zu Prüffall 2 gehörenden Daten erstellen Sie bitte wiederum eine |
-| Voraussetzung | Das Dokumentationsdatum ist der 3 |
-| Prüfunterlagen | › › |
-| Hinweis |  |
+| **Prüffall-ID** | 3 |
+| **Testziel** | Nach Eingabe aller zu Prüffall 2 gehörenden Daten erstellen Sie bitte wiederum eine |
+| **Voraussetzung** | Das Dokumentationsdatum ist der 3 |
+| **Prüfunterlagen** | › › |
+| **Hinweis** |  |
 
-| KONSTELLATION 4 | |
+| **KONSTELLATION 4** | |
 |---|---|
-| Prostatavolumen | |
+| **Prostatavolumen** | |
 | weniger als 25 ml | 7 |
 | 25 – 49 ml | 4 |
 | 50 – 69 ml | 5 |
@@ -683,9 +683,9 @@ Abbildung 2: Testdatenvalidierung
 
 Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP
 
-Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung -Archives.
+Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
-d der
+d der -Archives.
 
 
 ---
@@ -694,7 +694,7 @@ d der
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 | KBV_ITA_FMEX_AAZ_QSHLT | Antrag auf Zertifizierung QSHLT |
 | [KBV_ITA_RLEX_Zert] | Zertifizierungsrichtlinie der KBV |
 | [Austausch_von_XML-Daten_V(n.nn ).ZIP] | KBV_ITA_VGEX_XML |

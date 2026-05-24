@@ -32,23 +32,23 @@ Dezernat Digitalisierung und IT  10623 Berlin, Herbert-Lewin-Platz 2
 
 ---
 
-|  | **Inhaltsverzeichnis** | |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|
-| **1.** | **USE CASE** | **1 –** | **LABORAUFTRAG** |  | **KAPITEL** | **32.2/32.3** | |  |
-| **2.** | **USE CASE** | **2 –** | **LABORAUFTRAG** |  | **KAPITEL** | **32.2/32.3** | | **UND IGEL** |
-| **3.** | **USE CASE** | **3 –** | **LABORAUFTRAG** | **FÜR** |  | **PRIVATPATIENT** | |  |
-| **4.** | **USE CASE** | **4 –** | **LABORAUFTRAG** | **IM** | **RAHMEN** | **DER** | **ASV** |  |
-| **5.** | **USE CASE** | **5 – BEFUND** | **ZU** | **USE** | **CASE 1** |  |  |  |
-| **6.** | **USE CASE** | **6 – BEFUND** | **MIT** |  | **ANTIBIOGRAMM** | |  |  |
-| **7.** | **USE CASE** | **7 –** | **ÜBERGABE** |  | **“STAMMDATEN”** | |  |  |
-| **8.** | **USE CASE** | **8 – BEFUND** | **ZU** |  | **LABORAUFTRAG** | **KAPITEL** | | **32.2/32.3/IGEL** |
-| **9.** | **USE CASE** | **9 – BEFUND** | **ZU** |  | **LABORAUFTRAG** | **FÜR** |  | **PRIVATPATIENT** |
-| **10.** | **USE CASE** | **12 –** | **STORNIERUNG** | |  |  | **UNTERSUCHUNGSANFORDERUNGEN** | |
-| **11.** | **USE CASE** | **13 –** | **LABORAUFTRAG** | | **MIT** | **ÜBERMITTLUNG** | | **VORBEFUND** |
-| **12.** | **USE CASE** | **14 –** | **BEFUND** |  | **MOLEKULARGENETIK** | |  |  |
-| **13.** | **USE CASE** | **15 –** | **BEFUND** |  | **(KONVENTIONELLE** | **UND** |  | **SI-EINHEITEN)** |
-| **14.** | **USE CASE** | **16 –** | **DARSTELLUNG** | **DES** |  | **INHALTES** | **OBJ_0068** | |
-| **15.** | **USE CASE** | **17 –** | **BEFUND** |  | **KREBSFRÜHERKENNUNG** | |  | **ZERVIX-KARZINOM** |
+|  | **Inhaltsverzeichnis** | |
+|---|---|---|
+| **1.** | **USE CASE** | **1 – LABORAUFTRAG KAPITEL 32.2/32.3** |
+| **2.** | **USE CASE** | **2 – LABORAUFTRAG KAPITEL 32.2/32.3 UND IGEL** |
+| **3.** | **USE CASE** | **3 – LABORAUFTRAG FÜR PRIVATPATIENT** |
+| **4.** | **USE CASE** | **4 – LABORAUFTRAG IM RAHMEN DER ASV** |
+| **5.** | **USE CASE** | **5 – BEFUND ZU USE CASE 1** |
+| **6.** | **USE CASE** | **6 – BEFUND MIT ANTIBIOGRAMM** |
+| **7.** | **USE CASE** | **7 – ÜBERGABE “STAMMDATEN”** |
+| **8.** | **USE CASE** | **8 – BEFUND ZU LABORAUFTRAG KAPITEL 32.2/32.3/IGEL** |
+| **9.** | **USE CASE** | **9 – BEFUND ZU LABORAUFTRAG FÜR PRIVATPATIENT** |
+| **10.** | **USE CASE** | **12 – STORNIERUNG UNTERSUCHUNGSANFORDERUNGEN** |
+| **11.** | **USE CASE** | **13 – LABORAUFTRAG MIT ÜBERMITTLUNG VORBEFUND** |
+| **12.** | **USE CASE** | **14 – BEFUND MOLEKULARGENETIK** |
+| **13.** | **USE CASE** | **15 – BEFUND (KONVENTIONELLE UND SI-EINHEITEN)** |
+| **14.** | **USE CASE** | **16 – DARSTELLUNG DES INHALTES OBJ_0068** |
+| **15.** | **USE CASE** | **17 – BEFUND KREBSFRÜHERKENNUNG ZERVIX-KARZINOM** |
 
 **4**
 
@@ -78,7 +78,7 @@ Dezernat Digitalisierung und IT  10623 Berlin, Herbert-Lewin-Platz 2
 
 **63**
 
-USE CASE 1 USE CASE 2 USE CASE 3 USE CASE 4 USE CASE 5 USE CASE 6 USE CASE 7 USE CASE 8 USE CASE 9 USE CASE 12 USE CASE 13 USE CASE 14 USE CASE 15 USE CASE 16 USE CASE 17  LABORAUFTRAG KAPITEL 32.2/32.3  LABORAUFTRAG KAPITEL 32.2/32.3 UND IGEL  LABORAUFTRAG FÜR PRIVATPATIENT  LABORAUFTRAG IM RAHMEN DER ASV  BEFUND ZU USE CASE 1  BEFUND MIT ANTIBIOGRAMM ÜBERGABE “STAMMDATEN”  BEFUND ZU LABORAUFTRAG KAPITEL 32.2/32.3/IGEL  BEFUND ZU LABORAUFTRAG FÜR PRIVATPATIENT  STORNIERUNG UNTERSUCHUNGSANFORDERUNGEN  LABORAUFTRAG MIT ÜBERMITTLUNG VORBEFUND  BEFUND MOLEKULARGENETIK  BEFUND (KONVENTIONELLE UND SI-EINHEITEN)  DARSTELLUNG DES INHALTES OBJ_0068  BEFUND KREBSFRÜHERKENNUNG ZERVIX-KARZINOM 65
+USE CASE 2 USE CASE 3 USE CASE 4 USE CASE 5 USE CASE 6 USE CASE 7 USE CASE 8 USE CASE 9 USE CASE 12 USE CASE 13 USE CASE 14 USE CASE 15 USE CASE 16 USE CASE 17  BEFUND KREBSFRÜHERKENNUNG ZERVIX-KARZINOM 65
 
 ---
 
@@ -176,10 +176,10 @@ Z01_UseCase01_Auftrag_UseCase1_FA_LG.ldt
 
 ---
 
-| **IT in** | **der** | **Arztpraxis** |  |  |  |
-|---|---|---|---|---|---|
-| LDT 3 |  |  |  |  |  |
-| LDT 3 | Use Cases, | Version | 3.2.19 | Seite 6 | von 66 |
+| **IT in** | **der Arztpraxis** |
+|---|---|
+| LDT 3 |  |
+| LDT 3 | Use Cases, Version 3.2.19 Seite 6 von 66 |
 
 
 ---
@@ -263,10 +263,7 @@ Muster 10A) C00.2 V
 
 ### Laborfacharzt
 
-### Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) durch Laborgemein-
-
-### schaft
-
+### Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) durch Laborgemein- schaft
 ### Untersuchung PSA aus Serum (Probengefäß 1234567802) als IGeL mit Rechnungsle- gung des Labors an den Patienten
 
 ### ABRECHNUNGSINFORMATION:
@@ -437,60 +434,81 @@ ObjektIdent  Telefonnummer  Mobiltelefonnummer  Faxnummer  E-Mailadresse  Webadr
 
 ---
 
-| 016 | 8145 | Patient |  |
-|---|---|---|---|
-| 017 | 8002 | Obj_0045 |  |
-| 015 | 8147 | Person |  |
-| 017 | 8002 | Obj_0047 |  |
-| 011 | 7420 | 12 |  |
-| 013 | 3100 | Graf |  |
-| 012 | 3120 | von |  |
-| 022 | 3101 |  | Musterpatient |
-| 013 | 3102 | Karl |  |
-| 017 | 3103 | 19600512 |  |
-| 017 | 3104 | Dr. | med. |
-| 010 | 3110 | M |  |
-| 022 | 8228 |  | Wohnanschrift |
-| 017 | 8002 | Obj_0007 |  |
-| 014 | 3112 | 23456 |  |
-| 018 | 3113 | Musterort |  |
-| 026 | 3107 | Siegburger | Straße |
-| 014 | 3109 | 425 b |  |
-| 022 | 3115 | 3. | Hinterhaus |
-| 010 | 3114 | D |  |
-| 017 | 8003 | Obj_0007 |  |
-| 017 | 8003 | Obj_0047 |  |
-| 019 | 3119 |  | S040464113 |
-| 023 | 3000 |  | KAMUPA47112015 |
-| 017 | 8003 | Obj_0045 |  |
-| 028 | 8169 |  | Koerperkenngroessen |
-| 017 | 8002 | Obj_0069 |  |
-| 012 | 3622 | 185 |  |
-| 011 | 8421 | cm |  |
-| 026 | 8225 |  | Timestamp_Messung |
-| 017 | 8002 | Obj_0054 |  |
-| 017 | 7278 | JJJJMMTT |  |
-| 018 | 7279 |  | HHmmss(ms) |
-| 014 | 7273 | UTC+1 |  |
-| 017 | 8003 | Obj_0054 |  |
-| 013 | 3623 | 98.6 |  |
-| 011 | 8421 | kg |  |
-| 026 | 8225 |  | Timestamp_Messung |
-| 017 | 8002 | Obj_0054 |  |
-| 017 | 7278 | JJJJMMTT |  |
-| 018 | 7279 |  | HHmmss(ms) |
-| 014 | 7273 | UTC+1 |  |
-| 017 | 8003 | Obj_0054 |  |
-| 017 | 8003 | Obj_0069 |  |
-| 028 | 8113 |  | Auftragsinformation |
-| 017 | 8002 | Obj_0013 |  |
-| 020 | 8310 |  | 47112345678 |
-| 020 | 8311 |  | 47112345678 |
-| 010 | 8611 | 2 |  |
-| 015 | 8147 | Person |  |
-| 017 | 8002 | Obj_0047 |  |
-| 011 | 7420 | 10 |  |
-| 019 | 3101 | Zusatzarzt |  |
+016  017  015  017  011  013  012  022  013  017  017  010  022  017  014  018  026  014  022  010  017  017  019  023  017  028  017 012
+
+011
+
+026
+
+017
+
+017
+
+018
+
+014
+
+017
+
+013
+
+011
+
+026  017  017  018
+
+014  017  017  028  017  020  020 010  015  017  011
+
+019
+
+8145  8002  8147  8002  7420  3100  3120  3101  3102  3103  3104  3110  8228  8002  3112  3113  3107  3109  3115  3114  8003  8003  3119  3000  8003  8169  8002 3622
+
+8421
+
+8225
+
+8002
+
+7278
+
+7279
+
+7273
+
+8003
+
+3623
+
+8421
+
+8225  8002  7278  7279  7273  8003  8003  8113  8002  8310  8311  8611  8147  8002  7420  3101
+
+Patient  Obj_0045  Person  Obj_0047  12
+
+Graf  von  Musterpatient  Karl  19600512  Dr. med.  M  Wohnanschrift  Obj_0007  23456  Musterort  Siegburger Straße  425 b
+
+3. Hinterhaus  D  Obj_0007  Obj_0047  S040464113  KAMUPA47112015  Obj_0045  Koerperkenngroessen  Obj_0069 185
+
+cm
+
+Timestamp_Messung
+
+Obj_0054
+
+JJJJMMTT
+
+HHmmss(ms)
+
+UTC+1
+
+Obj_0054 98.6
+
+kg
+
+Timestamp_Messung  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  Obj_0069  Auftragsinformation
+
+Obj_0013  47112345678  47112345678 2  Person  Obj_0047
+
+10  Zusatzarzt
 
 Objektattribut  ObjektIdent  Objektattribut  ObjektIdent  Status Person  Namenszusatz  Vorsatzwort  Nachname  Vorname  Geburtsdatum  Titel  Geschlecht  Objektattribut  ObjektIdent  PLZ  Ort  Straße  Hausnummer  Anschriftenzusatz  Wohnsitzländercode  Objektende  Objektende  Versicherten-ID  Patientennummer  Objektende
 
@@ -516,7 +534,7 @@ Gewicht der Person
 
 Einheit des Meßwertes
 
-Dr. med. Siegburger Straße 3. Hinterhaus Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Objektende  Objektattribut  ObjektIdent  Auftragsnummer des Einsenders  ID Auftragsnummer des Labors  zusätzlicher Befundweg  Objektattribut  ObjektIdent  Status Person  Nachname
+Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Objektende  Objektattribut  ObjektIdent  Auftragsnummer des Einsenders  ID Auftragsnummer des Labors  zusätzlicher Befundweg  Objektattribut  ObjektIdent  Status Person  Nachname
 
 
 ---
@@ -1878,60 +1896,79 @@ ObjektIdent  Telefonnummer  Mobiltelefonnummer  Faxnummer  E-Mailadresse  Webadr
 
 ---
 
-| 016 | 8145 | Patient |  |
-|---|---|---|---|
-| 017 | 8002 | Obj_0045 |  |
-| 015 | 8147 | Person |  |
-| 017 | 8002 | Obj_0047 |  |
-| 011 | 7420 | 12 |  |
-| 013 | 3100 | Graf |  |
-| 012 | 3120 | von |  |
-| 022 | 3101 |  | Musterpatient |
-| 013 | 3102 | Karl |  |
-| 017 | 3103 | 19600512 |  |
-| 017 | 3104 | Dr. | med. |
-| 010 | 3110 | M |  |
-| 022 | 8228 |  | Wohnanschrift |
-| 017 | 8002 | Obj_0007 |  |
-| 014 | 3112 | 23456 |  |
-| 018 | 3113 | Musterort |  |
-| 026 | 3107 | Siegburger | Straße |
-| 014 | 3109 | 425 b |  |
-| 022 | 3115 | 3. | Hinterhaus |
-| 010 | 3114 | D |  |
-| 017 | 8003 | Obj_0007 |  |
-| 017 | 8003 | Obj_0047 |  |
-| 019 | 3119 |  | S040464113 |
-| 023 | 3000 |  | KAMUPA47112015 |
-| 017 | 8003 | Obj_0045 |  |
-| 028 | 8169 |  | Koerperkenngroessen |
-| 017 | 8002 | Obj_0069 |  |
-| 012 | 3622 | 185 |  |
-| 011 | 8421 | cm |  |
-| 026 | 8225 |  | Timestamp_Messung |
-| 017 | 8002 | Obj_0054 |  |
-| 017 | 7278 | JJJJMMTT |  |
-| 018 | 7279 |  | HHmmss(ms) |
-| 014 | 7273 | UTC+1 |  |
-| 017 | 8003 | Obj_0054 |  |
-| 013 | 3623 | 98.6 |  |
-| 011 | 8421 | kg |  |
-| 026 | 8225 |  | Timestamp_Messung |
-| 017 | 8002 | Obj_0054 |  |
-| 017 | 7278 | JJJJMMTT |  |
-| 018 | 7279 |  | HHmmss(ms) |
-| 014 | 7273 | UTC+1 |  |
-| 017 | 8003 | Obj_0054 |  |
-| 017 | 8003 | Obj_0069 |  |
-| 028 | 8113 |  | Auftragsinformation |
-| 017 | 8002 | Obj_0013 |  |
-| 020 | 8310 |  | 47112345678 |
-| 020 | 8311 |  | 47112345678 |
-| 010 | 8611 | 3 |  |
-| 015 | 8147 | Person |  |
-| 017 | 8002 | Obj_0047 |  |
-| 011 | 7420 | 10 |  |
-| 019 | 3101 | Zusatzarzt |  |
+016  017  015  017  011  013  012  022  013  017  017  010  022  017  014  018  026  014  022  010  017  017  019  023  017  028  017 012
+
+011
+
+026
+
+017
+
+017
+
+018
+
+014
+
+017
+
+013
+
+011
+
+026  017  017  018
+
+014  017  017  028  017  020  020 010  015  017  011
+
+019
+
+8145  8002  8147  8002  7420  3100  3120  3101  3102  3103  3104  3110  8228  8002  3112  3113  3107  3109  3115  3114  8003  8003  3119  3000  8003  8169  8002 3622
+
+8421
+
+8225
+
+8002
+
+7278
+
+7279
+
+7273
+
+8003
+
+3623
+
+8421
+
+8225  8002  7278  7279  7273  8003  8003  8113  8002  8310  8311  8611  8147  8002  7420  3101
+
+Patient  Obj_0045  Person  Obj_0047  12  Graf  von  Musterpatient  Karl  19600512  Dr. med.  M  Wohnanschrift  Obj_0007  23456  Musterort  Siegburger Straße  425 b
+
+3. Hinterhaus  D  Obj_0007  Obj_0047  S040464113  KAMUPA47112015  Obj_0045  Koerperkenngroessen
+
+Obj_0069 185
+
+cm
+
+Timestamp_Messung
+
+Obj_0054
+
+JJJJMMTT
+
+HHmmss(ms)
+
+UTC+1
+
+Obj_0054 98.6
+
+kg
+
+Timestamp_Messung  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  Obj_0069  Auftragsinformation
+
+Obj_0013  47112345678  47112345678  3  Person  Obj_0047  10  Zusatzarzt
 
 Objektattribut  ObjektIdent  Objektattribut  ObjektIdent  Status Person  Namenszusatz  Vorsatzwort  Nachname  Vorname  Geburtsdatum  Titel  Geschlecht  Objektattribut  ObjektIdent  PLZ
 
@@ -1957,7 +1994,7 @@ Gewicht der Person
 
 Einheit des Meßwertes
 
-Dr. med. Siegburger Straße 3. Hinterhaus Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Objektende  Objektattribut  ObjektIdent  Auftragsnummer des Einsenders  ID Auftragsnummer des Labors  zusätzlicher Befundweg  Objektattribut  ObjektIdent  Status Person  Nachname
+Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Objektende  Objektattribut  ObjektIdent  Auftragsnummer des Einsenders  ID Auftragsnummer des Labors  zusätzlicher Befundweg  Objektattribut  ObjektIdent  Status Person  Nachname
 
 
 ---
@@ -3119,59 +3156,103 @@ PLZ
 
 ---
 
-| 021 | 3113 |  | Musterhausen |
-|---|---|---|---|
-| 025 | 3107 |  | Musterarztstraße |
-| 011 | 3109 | 26 |  |
-| 025 | 3115 | Vorderhaus | links |
-| 010 | 3114 | D |  |
-| 017 | 8003 | Obj_0007 |  |
-| 028 | 8131 |  | Kommunikationsdaten |
-| 017 | 8002 | Obj_0031 |  |
-| 030 | 7330 |  | +LK_Vorwahl_Rufnummer |
-| 030 | 7331 |  | +LK_Vorwahl_Rufnummer |
-| 030 | 7333 |  | +LK_Vorwahl_Rufnummer |
-| 030 | 7335 |  | dr.musterarzt@mail.de |
-| 026 | 7334 |  | www.musterarzt.de |
-| 017 | 8003 | Obj_0031 |  |
-| 017 | 8003 | Obj_0043 |  |
-| 017 | 8003 | Obj_0019 |  |
-| 017 | 8003 | Obj_0022 |  |
-| 013 | 8001 | 8230 |  |
-| 013 | 8000 | 8215 |  |
-| 016 | 8145 | Patient |  |
-| 017 | 8002 | Obj_0045 |  |
-| 015 | 8147 | Person |  |
-| 017 | 8002 | Obj_0047 |  |
-| 011 | 7420 | 12 |  |
-| 022 | 3101 |  | Musterpatientin |
-| 013 | 3102 | Karla |  |
-| 017 | 3103 | 19600512 |  |
-| 010 | 3110 | W |  |
-| 022 | 8228 |  | Wohnanschrift |
-| 017 | 8002 | Obj_0007 |  |
-| 014 | 3112 | 23456 |  |
-| 018 | 3113 | Musterort |  |
-| 026 | 3107 | Siegburger | Straße |
-| 014 | 3109 | 425 b |  |
-| 022 | 3115 | 3. | Hinterhaus |
-| 010 | 3114 | D |  |
-| 017 | 8003 | Obj_0007 |  |
-| 017 | 8003 | Obj_0047 |  |
-| 019 | 3119 |  | S040464113 |
-| 021 | 3000 |  | PMUFR2312345 |
-| 017 | 8003 | Obj_0045 |  |
-| 017 | 8150 |  | Schwangerschaft |
-| 017 | 8002 | Obj_0050 |  |
-| 012 | 8511 | 235 |  |
-| 017 | 8512 | 20151015 |  |
-| 017 | 8003 | Obj_0050 |  |
-| 017 | 8140 |  | Mutterschaft |
-| 017 | 8002 | Obj_0040 |  |
-| 011 | 3668 | 03 |  |
-| 011 | 3664 | 02 |  |
-| 011 | 3666 | 02 |  |
-| 017 | 8003 | Obj_0040 |  |
+021
+
+025
+
+011
+
+025
+
+010
+
+017
+
+028
+
+017  030  030  030  030  026  017  017  017  017  013  013  016  017  015  017  011  022  013
+
+017  010  022  017  014  018  026  014  022  010  017  017  019  021  017 017  017
+
+012
+
+017
+
+017
+
+017
+
+017
+
+011
+
+011
+
+011
+
+017
+
+3113
+
+3107
+
+3109
+
+3115
+
+3114
+
+8003
+
+8131
+
+8002  7330  7331  7333  7335  7334  8003  8003  8003  8003  8001  8000  8145  8002  8147  8002  7420  3101  3102  3103  3110  8228  8002  3112  3113  3107  3109  3115  3114  8003  8003  3119  3000  8003  8150  8002 8511
+
+8512
+
+8003
+
+8140
+
+8002
+
+3668
+
+3664
+
+3666
+
+8003
+
+Musterhausen
+
+Musterarztstraße 26
+
+Vorderhaus links
+
+D
+
+Obj_0007
+
+Kommunikationsdaten
+
+Obj_0031  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  [dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de)  www.musterarzt.de  Obj_0031  Obj_0043  Obj_0019  Obj_0022  8230  8215  Patient  Obj_0045  Person  Obj_0047  12  Musterpatientin  Karla  19600512  W  Wohnanschrift  Obj_0007  23456  Musterort  Siegburger Straße  425 b
+
+3. Hinterhaus  D  Obj_0007  Obj_0047  S040464113  PMUFR2312345  Obj_0045  Schwangerschaft  Obj_0050 235
+
+20151015
+
+Obj_0050
+
+Mutterschaft
+
+Obj_0040 03
+
+02
+
+02
+
+Obj_0040
 
 Ort
 
@@ -3205,7 +3286,7 @@ Anzahl Geburten
 
 Anzahl Kinder
 
-Vorderhaus links Siegburger Straße 3. Hinterhaus Objektende
+Objektende
 
 
 ---
@@ -4608,16 +4689,10 @@ Probengefäß mit Nummer 1234567803 enthält Citrat-Blut
 
 ### UNTERSUCHUNGSERGEBNISSE:
 
-### Untersuchung Hepatitis-B-Antigen aus Serum (Probengefäß 1234567802) wurde nach  Testmethode „CLIA“ durchgeführt und hat ein semiquantitatives Ergebnis in Textform
-
-### mit Wert „negativ“ ergeben. Der Normalwert wird beschrieben. Das Untersuchungser-
-
+### Untersuchung Hepatitis-B-Antigen aus Serum (Probengefäß 1234567802) wurde nach  Testmethode „CLIA“ durchgeführt und hat ein semiquantitatives Ergebnis in Textform mit Wert „negativ“ ergeben. Der Normalwert wird beschrieben. Das Untersuchungser-
 gebnis wurde durch ein Auftragslaboratorium erstellt. Die GOP und die Kosten werden  mitgeteilt. Die Analytik ist abgeschlossen.
 
-### Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) wurde nach Testme- thode „COAG“ durchgeführt und hat ein Ergebnis mit Wert
-
-### wertindikator ist „ “. Der Normalwert wird beschrieben.
-
+### Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) wurde nach Testme- thode „COAG“ durchgeführt und hat ein Ergebnis mit Wert wertindikator ist „ “. Der Normalwert wird beschrieben.
 mitgeteilt. Die Analytik ist abgeschlossen.
 
 ### Mittels des Nachweisverfahrens „Mikroskopie“ (Testmethode: Mikroskopie Gramfär- bung) wurden in dem Probenmaterial aus dem Probengefäß 1234567804 folgende  Keime identifiziert:
@@ -4846,59 +4921,101 @@ ObjektIdent  Telefonnummer  Mobiltelefonnummer  Faxnummer  E-Mailadresse  Webadr
 
 ---
 
-| 024 | 8119 |  | Betriebsstaette |
-|---|---|---|---|
-| 017 | 8002 | Obj_0019 |  |
-| 010 | 0204 | 1 |  |
-| 010 | 0204 | 5 |  |
-| 030 | 0203 | Praxis | Dr. Musterarzt |
-| 018 | 0201 | 123456789 |  |
-| 021 | 8143 |  | Organisation |
-| 017 | 8002 | Obj_0043 |  |
-| 030 | 1250 | Praxis | Dr. Musterarzt |
-| 032 | 8229 |  | Anschrift_Arbeitsstelle |
-| 017 | 8002 | Obj_0007 |  |
-| 014 | 3112 | 12345 |  |
-| 021 | 3113 |  | Musterhausen |
-| 025 | 3107 |  | Musterarztstraße |
-| 011 | 3109 | 26 |  |
-| 025 | 3115 | Vorderhaus | links |
-| 010 | 3114 | D |  |
-| 017 | 8003 | Obj_0007 |  |
-| 028 | 8131 |  | Kommunikationsdaten |
-| 017 | 8002 | Obj_0031 |  |
-| 030 | 7330 |  | +LK_Vorwahl_Rufnummer |
-| 030 | 7331 |  | +LK_Vorwahl_Rufnummer |
-| 030 | 7333 |  | +LK_Vorwahl_Rufnummer |
-| 030 | 7335 |  | dr.musterarzt@mail.de |
-| 026 | 7334 |  | www.musterarzt.de |
-| 017 | 8003 | Obj_0031 |  |
-| 017 | 8003 | Obj_0043 |  |
-| 017 | 8003 | Obj_0019 |  |
-| 017 | 8003 | Obj_0022 |  |
-| 013 | 8001 | 8230 |  |
-| 013 | 8000 | 8215 |  |
-| 016 | 8145 | Patient |  |
-| 017 | 8002 | Obj_0045 |  |
-| 015 | 8147 | Person |  |
-| 017 | 8002 | Obj_0047 |  |
-| 011 | 7420 | 12 |  |
-| 013 | 3100 | Graf |  |
-| 012 | 3120 | von |  |
-| 022 | 3101 |  | Musterpatient |
-| 013 | 3102 | Karl |  |
-| 017 | 3103 | 19600512 |  |
-| 017 | 3104 | Dr. | med. |
-| 010 | 3110 | M |  |
-| 022 | 8228 |  | Wohnanschrift |
-| 017 | 8002 | Obj_0007 |  |
-| 014 | 3112 | 23456 |  |
-| 018 | 3113 | Musterort |  |
-| 026 | 3107 | Siegburger | Straße |
-| 014 | 3109 | 425 b |  |
-| 022 | 3115 | 3. | Hinterhaus |
-| 010 | 3114 | D |  |
-| 017 | 8003 | Obj_0007 |  |
+024  017  010  010  030
+
+018
+
+021  017  030
+
+032
+
+017
+
+014
+
+021
+
+025
+
+011
+
+025
+
+010
+
+017
+
+028
+
+017  030  030  030  030
+
+026  017  017  017  017  013  013  016  017  015  017  011  013  012  022
+
+013  017  017  010  022  017  014 018  026  014  022
+
+010  017
+
+8119  8002  0204  0204  0203
+
+0201
+
+8143  8002  1250
+
+8229
+
+8002
+
+3112
+
+3113
+
+3107
+
+3109
+
+3115
+
+3114
+
+8003
+
+8131
+
+8002  7330  7331  7333  7335  7334  8003  8003  8003  8003  8001  8000  8145  8002  8147  8002  7420  3100  3120  3101  3102  3103  3104  3110  8228  8002  3112  3113  3107  3109  3115  3114  8003
+
+Betriebsstaette  Obj_0019  1 5  Praxis Dr. Musterarzt
+
+123456789
+
+Organisation  Obj_0043  Praxis Dr. Musterarzt
+
+Anschrift_Arbeitsstelle
+
+Obj_0007 12345
+
+Musterhausen
+
+Musterarztstraße 26
+
+Vorderhaus links
+
+D
+
+Obj_0007
+
+Kommunikationsdaten
+
+Obj_0031  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  [dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de)  www.musterarzt.de  Obj_0031  Obj_0043  Obj_0019  Obj_0022  8230
+
+8215  Patient  Obj_0045  Person  Obj_0047  12
+
+Graf
+
+von  Musterpatient  Karl  19600512  Dr. med.
+
+M  Wohnanschrift  Obj_0007  23456  Musterort  Siegburger Straße  425 b 3. Hinterhaus
+
+D  Obj_0007
 
 Objektattribut
 
@@ -4928,7 +5045,7 @@ Objektattribut
 
 ObjektIdent  Telefonnummer  Mobiltelefonnummer  Faxnummer  E-Mailadresse  Webadresse  Objektende  Objektende  Objektende
 
-Praxis Dr. Musterarzt Praxis Dr. Musterarzt Vorderhaus links Dr. med. Siegburger Straße 3. Hinterhaus Objektende  Satzende  Satzart  Objektattribut  ObjektIdent  Objektattribut  ObjektIdent  Status Person  Namenszusatz  Vorsatzwort  Nachname  Vorname  Geburtsdatum  Titel  Geschlecht  Objektattribut  ObjektIdent  PLZ  Ort  Straße  Hausnummer  Anschriftenzusatz  Wohnsitzländercode  Objektende
+Objektende  Satzende  Satzart  Objektattribut  ObjektIdent  Objektattribut  ObjektIdent  Status Person  Namenszusatz  Vorsatzwort  Nachname  Vorname  Geburtsdatum  Titel  Geschlecht  Objektattribut  ObjektIdent  PLZ  Ort  Straße  Hausnummer  Anschriftenzusatz  Wohnsitzländercode  Objektende
 
 
 ---
@@ -5416,62 +5533,29 @@ Objektende  Objektattribut  ObjektIdent  Objektattribut  ObjektIdent  Status Per
 
 ---
 
-| 013 | 3102 | Karl |  |
-|---|---|---|---|
-| 017 | 3103 | 19600512 |  |
-| 017 | 3104 | Dr. | med. |
-| 010 | 3110 | M |  |
-| 022 | 8228 |  | Wohnanschrift |
-| 017 | 8002 | Obj_0007 |  |
-| 014 | 3112 | 23456 |  |
-| 018 | 3113 | Musterort |  |
-| 026 | 3107 | Siegburger | Straße |
-| 014 | 3109 | 425 b |  |
-| 022 | 3115 | 3. | Hinterhaus |
-| 010 | 3114 | D |  |
-| 017 | 8003 | Obj_0007 |  |
-| 017 | 8003 | Obj_0047 |  |
-| 019 | 3119 |  | S040464113 |
-| 023 | 3000 |  | KAMUPA47112015 |
-| 017 | 8003 | Obj_0045 |  |
-| 029 | 8169 |  | Koerperkenngroessen |
-| 017 | 8002 | Obj_0069 |  |
-| 012 | 3622 | 185 |  |
-| 011 | 8421 | cm |  |
-| 027 | 8225 |  | Timestamp_Messung |
-| 017 | 8002 | Obj_0054 |  |
-| 017 | 7278 | JJJJMMTT |  |
-| 019 | 7279 |  | HHmmss(ms) |
-| 014 | 7273 | UTC+1 |  |
-| 017 | 8003 | Obj_0054 |  |
-| 013 | 3623 | 98.6 |  |
-| 011 | 8421 | kg |  |
-| 027 | 8225 |  | Timestamp_Messung |
-| 017 | 8002 | Obj_0054 |  |
-| 017 | 7278 | JJJJMMTT |  |
-| 019 | 7279 |  | HHmmss(ms) |
-| 014 | 7273 | UTC+1 |  |
-| 017 | 8003 | Obj_0054 |  |
-| 017 | 8003 | Obj_0069 |  |
-| 028 | 8117 |  | Befundinformationen |
-| 017 | 8002 | Obj_0017 |  |
-| 020 | 8310 |  | 47112345678 |
-| 036 | 8214 |  | Timestamp_Auftragserteilung |
-| 017 | 8002 | Obj_0054 |  |
-| 017 | 7278 | JJJJMMTT |  |
-| 019 | 7279 |  | HHmmss(ms) |
-| 014 | 7273 | UTC+1 |  |
-| 017 | 8003 | Obj_0054 |  |
-| 020 | 8311 |  | 47112345678 |
-| 023 | 7305 |  | 47112345678001 |
-| 010 | 8401 | 2 |  |
-| 035 | 8216 |  | Timestamp_Befunderstellung |
-| 017 | 8002 | Obj_0054 |  |
-| 017 | 7278 | JJJJMMTT |  |
+013  017  017  010  022  017  014  018  026  014  022  010  017  017  019  023  017  029  017  012  011  027  017  017  019  014
+
+017  013  011  027  017  017  019  014  017  017  028  017  020  036
+
+017  017  019  014  017  020  023 010  035  017
+
+017
+
+3102  3103  3104  3110  8228  8002  3112  3113  3107  3109  3115  3114  8003  8003  3119  3000  8003  8169  8002  3622  8421  8225  8002  7278  7279  7273  8003  3623  8421  8225  8002  7278  7279  7273  8003  8003  8117  8002  8310  8214  8002  7278  7279  7273  8003  8311  7305  8401  8216  8002  7278
+
+Karl  19600512  Dr. med.  M  Wohnanschrift  Obj_0007  23456  Musterort  Siegburger Straße  425 b
+
+3. Hinterhaus  D  Obj_0007  Obj_0047  S040464113  KAMUPA47112015  Obj_0045  Koerperkenngroessen
+
+Obj_0069  185  cm  Timestamp_Messung  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  98.6  kg  Timestamp_Messung  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  Obj_0069  Befundinformationen  Obj_0017  47112345678  Timestamp_Auftragserteilung Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  47112345678  47112345678001  2  Timestamp_Befunderstellung Obj_0054  JJJJMMTT
 
 Vorname  Geburtsdatum  Titel  Geschlecht  Objektattribut  ObjektIdent  PLZ
 
-Dr. med. Siegburger Straße 3. Hinterhaus Ort  Straße  Hausnummer  Anschriftenzusatz  Wohnsitzländercode  Objektende  Objektende  Versicherten-ID  Patientennummer  Objektende  Objektattribut  ObjektIdent  Größe der Person  Einheit des Meßwertes  Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Gewicht der Person  Einheit des Meßwertes  Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Objektende  Objektattribut  ObjektIdent  Auftragsnummer des Einsenders  Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  ID Auftragsnummer des Labors  Befund-ID  Status (Befund/Bericht)  Objektattribut  ObjektIdent  Datum des Timestamp
+Ort  Straße  Hausnummer  Anschriftenzusatz  Wohnsitzländercode  Objektende  Objektende  Versicherten-ID  Patientennummer  Objektende  Objektattribut  ObjektIdent  Größe der Person  Einheit des Meßwertes  Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Gewicht der Person  Einheit des Meßwertes  Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Objektende  Objektattribut  ObjektIdent  Auftragsnummer des Einsenders
+
+Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  ID Auftragsnummer des Labors  Befund-ID  Status (Befund/Bericht)
+
+Objektattribut  ObjektIdent  Datum des Timestamp
 
 
 ---
@@ -6029,10 +6113,10 @@ Das Verfahren zur Stornierung von Untersuchungsanforderungen ist zwischen dem La
 
 ---
 
-| **IT in** | **der** | **Arztpraxis** |  |  |  |
-|---|---|---|---|---|---|
-| LDT 3 |  |  |  |  |  |
-| LDT 3 | Use Cases, | Version | 3.2.19 | Seite | 56 von 66 |
+| **IT in** | **der Arztpraxis** |
+|---|---|
+| LDT 3 |  |
+| LDT 3 | Use Cases, Version 3.2.19 Seite 56 von 66 |
 
 
 ---
@@ -6204,18 +6288,18 @@ Ergebnis: Ergebnistext ErgebnistextErgebnistext
 
 ---
 
-| **IT in der** | **Arztpraxis** |  |  |  |  |  |
-|---|---|---|---|---|---|---|
-| LDT 3 |  |  |  |  |  |  |
-| Zusätzliche |  | Informationen: | Text Text | Text |  |  |
-| Die GOP | und die | Kosten werden | mitgeteilt. | Die | Analytik | ist abgeschlossen. |
-|  | **ZUSATZINFORMATIONEN:** | |  |  |  |  |
-| Der | Befund im | Format PDF wird | als | base64-kodierte | Anlage | mit übermittelt |
-|  | **BEISPIELDATEI:** |  |  |  |  |  |
-|  |  | Z01_UseCase14_Befund_Obj_0073_mit_PDF.ldt | | |  |  |
-| LDT 3 Use | Cases, Version | 3.2.19 |  | Seite 60 von 66 |  |  |
+Zusätzliche Informationen: Text Text Text
 
-Zusätzliche Informationen: Text Text Text Die GOP und die Kosten werden mitgeteilt. Die Analytik ist abgeschlossen. Der Befund im Format PDF wird als base64-kodierte Anlage mit übermittelt
+Die GOP und die Kosten werden mitgeteilt. Die Analytik ist abgeschlossen.
+
+**ZUSATZINFORMATIONEN:**
+
+Der Befund im Format PDF wird als base64-kodierte Anlage mit übermittelt
+
+**BEISPIELDATEI:**
+
+Z01_UseCase14_Befund_Obj_0073_mit_PDF.ldt
+
 
 ---
 

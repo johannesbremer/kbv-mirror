@@ -1,5 +1,5 @@
-|  |
-|---|
+\|  |
+\|---|
 
 # ZERTIFIZIERUNGSRICHTLINIE DER KBV
 
@@ -8,8 +8,8 @@
 |  | 6. Mai 2024 |
 |---|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
 
 ---
@@ -161,10 +161,10 @@ Einzelfall über Art, Umfang und Durchführung der Kontrollprüfung.
 
 Die Gebühren und Auslagen auf Grundlage dieser Richtlinie bestimmen sich nach dem folgenden  Gebühren- und Auslagenverzeichnis:
 
-| Position | Verwaltungshandlung | Kostenhöhe |
+| **Position** | **Verwaltungshandlung** | **Kostenhöhe** |
 |---|---|---|
-| 1. | Ergebnisprüfung | 68,00 |
-| 2. | Sichtprüfung | 68,00 |
+| 1. | **Ergebnisprüfung** | 68,00 |
+| 2. | **Sichtprüfung** | 68,00 |
 | 3. | Beendigung der Zertifizierung ohne Zulassung | themenspezifischen Kosten des |
 | 4. | Entzug der Zulassung | 68,00 |
 | 5. | Herstellung von Abschriften und Ausdrucken 5.1 - je DIN A4-Kopie-SW  5.2 - je DIN A3-Kopie-SW  5.3 - je DIN A4-Farbkopie  5.4 - je DIN A3-Farbkopie | 0,10  0,15  0,50  0,75 € |

@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  12. AUGUST 2021   VERSION: 1.08   DOKUMENTENSTATUS: IN |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  12. AUGUST 2021   VERSION: 1.08   DOKUMENTENSTATUS: IN** |
 |---|---|
 
 # PRUEFPAKET QS- KAPSELENDOSKOPIE
@@ -67,20 +67,16 @@ Prüffall 1 Prüffall 2 Prüffall 3
 
 ---
 
-|  |  | ABBILDUNGSVERZEICHNIS | |  |  |  |
-|---|---|---|---|---|---|---|
-| Abbildung | 1: | Exemplarische | Verzeichnisstruktur | für | die | Zertifizierung |
-| Seite 3 | von 15 / KBV | / Pruefpaket | QS- Kapselendoskopie | / Version: | 1.08 / | 12. August 2021 |
+# ABBILDUNGSVERZEICHNIS
 
-7
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung 7
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung
 
 ---
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.08 | 12.08.2021 | KBV | Überarbeitung des | Überführung ins neue | Alle |
 | 1.07 | 12.03.2018 | KBV | Einreichung des Antrags | Anpassung des | 5ff |
@@ -207,60 +203,60 @@ verwendet
 
 Folgende Angaben sind für die Zertifizierung zu verwenden:
 
-| BEZEICHNUNG | INHALT |
+| **BEZEICHNUNG** | **INHALT** |
 |---|---|
-| Betriebsstättennummer (BSNR) | 381234511 |
-| (N)BSNR-Bezeichnung: | Praxis Dr. med. Topp-Glücklich |
-| Lebenslange Arztnummer (LANR) | 555333967 |
-| Arztname | Dr. med. Hans Topp-Glücklich, |
-| Straße | Musterstr. |
-| Hausnummer | 1 |
-| PLZ/Ort | 64283 Darmstadt |
-| Telefon | 06151 / 1111111 |
-| Zu verwendende Prüfnummer: | Y/60/1407/36/000 |
+| **Betriebsstättennummer (BSNR)** | 381234511 |
+| **(N)BSNR-Bezeichnung:** | Praxis Dr. med. Topp-Glücklich |
+| **Lebenslange Arztnummer (LANR)** | 555333967 |
+| **Arztname** | Dr. med. Hans Topp-Glücklich, |
+| **Straße** | Musterstr. |
+| **Hausnummer** | 1 |
+| **PLZ/Ort** | 64283 Darmstadt |
+| **Telefon** | 06151 / 1111111 |
+| **Zu verwendende Prüfnummer:** | Y/60/1407/36/000 |
 
 Urologe
 
 ---
 
-| TABELLE 1 - JAHRESSTATISTIK 2014 | |
+| **TABELLE 1 - JAHRESSTATISTIK 2014** | |
 |---|---|
-| 1 Anzahl Kapselendoskopien | |
+| **1 Anzahl Kapselendoskopien** | |
 | Anzahl Erstuntersuchungen | 16 |
 | Anzahl Wiederholungsuntersuchungen | 5 |
-| 2 Auslassungsmöglichkeit blutungsfördernder Medikation | |
+| **2 Auslassungsmöglichkeit blutungsfördernder Medikation** | |
 | Nicht zutreffend | 7 |
 | Kapselendoskopien mit Auslassung | 11 |
 | Kapselendoskopien ohne Auslassung | 3 |
-| 3 Auswertung der Kapselendoskopie | |
+| **3 Auswertung der Kapselendoskopie** | |
 | Selbst ausgewertete | 18 |
 | Auswertung durch anderen Arzt | 3 |
-| 4 | |
+| **4** | |
 | Untersuchungen mit Nachweis einer Blutungsquelle | 6 |
 | Untersuchungen ohne Nachweis einer Blutungsquelle | 15 |
-| 5 | |
+| **5** | |
 | Kapselendoskopien mit nicht eingeschränkter Beurteilbarkeit | 17 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen technischer Probleme | 1 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen eingeschränkter Sicht | 3 |
-| 6 | |
+| **6** | |
 | Anzahl vollständiger Untersuchungen | 15 |
 | Anzahl unvollständiger Untersuchungen aufgrund von Retention im Magen bis zu 1 Stunde | 1 |
 | Anzahl unvollständiger Untersuchungen aufgrund von Retention im Magen 1 bis 2 Stunden | 0 |
 | Anzahl unvollständiger Untersuchungen aufgrund von Retention im Magen mehr als 2 Stunden | 2 |
-| 2 2.1 | |
+| 2**2.1** | |
 |  |  |
 |  |  |
-|  | Prüffall-ID |
+|  | **Prüffall-ID** |
 | 1 | |
-| Testziel | Erstellen Sie eine Jahresstatistik |
+| **Testziel** | Erstellen Sie eine Jahresstatistik |
 
 |  |  |
 |---|---|
-| Prüffall-ID | 1 |
-| Testziel | Erstellen Sie eine Jahresstatistik |
-| Voraussetzung | Das Dokumentationsdatum ist der 3 |
-| Prüfunterlagen | Jahresstatistik 2014 |
-| Hinweis |  |
+| **Prüffall-ID** | 1 |
+| **Testziel** | Erstellen Sie eine Jahresstatistik |
+| **Voraussetzung** | Das Dokumentationsdatum ist der 3 |
+| **Prüfunterlagen** | Jahresstatistik 2014 |
+| **Hinweis** |  |
 
 (zur Übermittlung an die Datenannahmestelle gemäß Tabelle 1 0.03.2015  PRÜFFÄLLE PRÜFFALL 1 Befundklassifikation Beurteilbarkeit des Bildmaterials Status Vollständigkeit der Untersuchung (Zökum erreicht)
 
@@ -290,55 +286,55 @@ Urologe
 |  |  |
 |  |  |
 |  |  |
-| TABELLE 1 - JAHRESSTATISTIK 2014 | |
+| **TABELLE 1 - JAHRESSTATISTIK 2014** | |
 | Anzahl unvollständiger Untersuchungen aufgrund von Stenosen | 2 |
 | Anzahl unvollständiger Untersuchungen aufgrund von Divertikeln | 1 |
 | Anzahl unvollständiger Untersuchungen aufgrund anderer Ursachen | 0 |
-| 7 | |
+| **7** | |
 | Wiederholungsuntersuchung empfohlen aufgrund von Einschränkungen gemäß den Nummern 5 | 10 |
 
 Empfehlungen zur Wiederholungsuntersuchung und 6
 
 ---
 
-| KONSTELLATION | |
+| **KONSTELLATION** | |
 |---|---|
-| 1 Anzahl Kapselendoskopien | |
+| **1 Anzahl Kapselendoskopien** | |
 | Anzahl Erstuntersuchungen | 0 |
 | Anzahl Wiederholungsuntersuchungen | 0 |
-| 2 Auslassungsmöglichkeit blutungsfördernder Medikation | |
+| **2 Auslassungsmöglichkeit blutungsfördernder Medikation** | |
 | Nicht zutreffend | 0 |
 | Kapselendoskopien mit Auslassung | 0 |
 | Kapselendoskopien ohne Auslassung | 0 |
-| 3 Auswertung der Kapselendoskopie | |
+| **3 Auswertung der Kapselendoskopie** | |
 | Selbst ausgewertete Kapselendoskopie | 0 |
 | Auswertung durch anderen Arzt | 0 |
-| 4 | |
+| **4** | |
 | Untersuchungen mit Nachweis einer Blutungsquelle | 0 |
 | Untersuchungen ohne Nachweis einer Blutungsquelle | 0 |
-| 5 | |
+| **5** | |
 | Kapselendoskopien mit nicht eingeschränkter Beurteilbarkeit | 0 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen technischer Probleme | 0 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen eingeschränkter Sicht | 0 |
-| 6 | |
+| **6** | |
 | Anzahl vollständiger Untersuchungen | 0 |
 | Anzahl unvollständiger Untersuchungen aufgrund von Retention im Magen bis zu 1 Stunde | 0 |
-| 2.2 | |
+| **2.2** | |
 |  |  |
 |  |  |
-|  | Prüffall-ID |
-| 2 | Testziel |
+|  | **Prüffall-ID** |
+| 2 | **Testziel** |
 | Die folgenden Konstellationen stellen Plausibilitätsverstöße dar, die durch die | KBV_ITA_VGEX_Plausi_QSKE |
 | ) erkannt werden müssen. | |
-| Voraussetzung | Die weiteren, nicht vorgegebenen Angaben der einzelnen Kons |
+| **Voraussetzung** | Die weiteren, nicht vorgegebenen Angaben der einzelnen Kons |
 
 |  |  |
 |---|---|
-| Prüffall-ID | 2 |
-| Testziel | Die folgenden Konstellationen stellen Plausibilitätsverstöße dar, die durch die  KBV_ITA_VGEX_Plausi_QSKE) erkannt werden müssen. |
-| Voraussetzung | Die weiteren, nicht vorgegebenen Angaben der einzelnen Kons |
-| Prüfunterlagen | Werden Plausibilitätsverstöße softwareseitig erkannt, so sind entsprechende |
-| Hinweis |  |
+| **Prüffall-ID** | 2 |
+| **Testziel** | Die folgenden Konstellationen stellen Plausibilitätsverstöße dar, die durch die  KBV_ITA_VGEX_Plausi_QSKE) erkannt werden müssen. |
+| **Voraussetzung** | Die weiteren, nicht vorgegebenen Angaben der einzelnen Kons |
+| **Prüfunterlagen** | Werden Plausibilitätsverstöße softwareseitig erkannt, so sind entsprechende |
+| **Hinweis** |  |
 
 Software anhand der vorgegebenen Plausibilitäten (siehe tellationen sind gemäß Tabelle 1 vorzunehmen. Screenshots von allen Fehler - oder Warnhinweisen der Konstellationen einzureichen. PRÜFFALL 2 Befundklassifikation Beurteilbarkeit des Bildmaterials Status Vollständigkeit der Untersuchung (Zökum erreicht)
 
@@ -348,55 +344,55 @@ Software anhand der vorgegebenen Plausibilitäten (siehe tellationen sind gemä�
 |---|---|
 | Kapselendoskopien ohne Auslassung | |
 | 4 |  |
-|  | KONSTELLATION 3 |
+|  | **KONSTELLATION 3** |
 |  | |
-| 3 Auswertung der Kapselendoskopie | Selbst ausgewertete Kapselendoskopie |
+| **3 Auswertung der Kapselendoskopie** | Selbst ausgewertete Kapselendoskopie |
 | 18 | Auswertung durch anderen Arzt |
 | 2 |  |
 |  | |
-| KONSTELLATION 4 |  |
-| 4 Befundklassifikation | Untersuchungen mit Nachweis einer Blutungsquelle |
+| **KONSTELLATION 4** |  |
+| **4 Befundklassifikation** | Untersuchungen mit Nachweis einer Blutungsquelle |
 | 7 | |
 | Untersuchungen ohne Nachweis einer Blutungsquelle | 15 |
 |  |  |
-| KONSTELLATION 5 | |
-|  | 5 |
+| **KONSTELLATION 5** | |
+|  | **5** |
 | Kapselendoskopien mit nicht eingeschränkter Beurteilbarkeit | 17 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen technischer Probleme | 2 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen eingeschränkter Sicht | |
 | 3 |  |
 |  |  |
-| KONSTELLATION | |
+| **KONSTELLATION** | |
 | Anzahl unvollständiger Untersuchungen aufgrund von Retention im Magen 1 bis 2 Stunden | 0 |
 | Anzahl unvollständiger Untersuchungen aufgrund von Retention im Magen mehr als 2 Stunden | 0 |
 | Anzahl unvollständiger Untersuchungen aufgrund von Stenosen | 0 |
 | Anzahl unvollständiger Untersuchungen aufgrund von Divertikeln | 0 |
 | Anzahl unvollständiger Untersuchungen aufgrund anderer Ursachen | 0 |
-| 7 | |
+| **7** | |
 | Wiederholungsuntersuchung empfohlen aufgrund von Einschränkungen gemäß den Nummern 5 | 0 |
 
-Empfehlungen zur Wiederholungsuntersuchung und 6 KONSTELLATION 2 2 Auslassungsmöglichkeit blutungsfördernder Medikation Nicht zutreffend Beurteilbarkeit des Bildmaterials 11 | KONSTELLATION 2 | |
+Empfehlungen zur Wiederholungsuntersuchung und 6 KONSTELLATION 2 2 Auslassungsmöglichkeit blutungsfördernder Medikation Nicht zutreffend Beurteilbarkeit des Bildmaterials 11 | **KONSTELLATION 2** | |
 |---|---|
-| 2 Auslassungsmöglichkeit blutungsfördernder Medikation | |
+| **2 Auslassungsmöglichkeit blutungsfördernder Medikation** | |
 | Nicht zutreffend | 7 |
 | Kapselendoskopien mit Auslassung | 11 |
 | Kapselendoskopien ohne Auslassung | 4 |
 
-| KONSTELLATION 3 | |
+| **KONSTELLATION 3** | |
 |---|---|
-| 3 Auswertung der Kapselendoskopie | |
+| **3 Auswertung der Kapselendoskopie** | |
 | Selbst ausgewertete Kapselendoskopie | 18 |
 | Auswertung durch anderen Arzt | 2 |
 
-| KONSTELLATION 4 | |
+| **KONSTELLATION 4** | |
 |---|---|
-| 4 Befundklassifikation | |
+| **4 Befundklassifikation** | |
 | Untersuchungen mit Nachweis einer Blutungsquelle | 7 |
 | Untersuchungen ohne Nachweis einer Blutungsquelle | 15 |
 
-| KONSTELLATION 5 | |
+| **KONSTELLATION 5** | |
 |---|---|
-| 5 | |
+| **5** | |
 | Kapselendoskopien mit nicht eingeschränkter Beurteilbarkeit | 17 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen technischer Probleme | 2 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen eingeschränkter Sicht | 3 |
@@ -404,16 +400,16 @@ Empfehlungen zur Wiederholungsuntersuchung und 6 KONSTELLATION 2 2 Auslassungsm�
 
 ---
 
-| KONSTELLATION 6 | |
+| **KONSTELLATION 6** | |
 |---|---|
-| 5 | |
+| **5** | |
 | Kapselendoskopien mit nicht eingeschränkter Beurteilbarkeit | 17 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen technischer Probleme | 0 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen eingeschränkter Sicht | 3 |
 
-| KONSTELLATION | |
+| **KONSTELLATION** | |
 |---|---|
-| 6 | |
+| **6** | |
 | Anzahl vollständiger Untersuchungen | 15 |
 | Anzahl unvollständiger Untersuchungen aufgrund von Retention im Magen bis zu 1 Stunde | 1 |
 | Anzahl unvollständiger Untersuchungen aufgrund von Retention im Magen 1 bis 2 Stunden | 0 |
@@ -422,21 +418,21 @@ Empfehlungen zur Wiederholungsuntersuchung und 6 KONSTELLATION 2 2 Auslassungsm�
 | Anzahl unvollständiger Untersuchungen aufgrund von Divertikeln | 1 |
 | Anzahl unvollständiger Untersuchungen aufgrund anderer Ursachen | 1 |
 
-| KONSTELLATION | |
+| **KONSTELLATION** | |
 |---|---|
-| 7 Empfehlungen zur Wiederholungsuntersuchung | |
+| **7 Empfehlungen zur Wiederholungsuntersuchung** | |
 | Wiederholungsuntersuchung empfohlen aufgrund von Einschränkungen gemäß den Nummern 5 | 11 |
 
-| KONSTELLATION 9 | |
+| **KONSTELLATION 9** | |
 |---|---|
-| 5 | |
+| **5** | |
 | Kapselendoskopien | 22 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen technischer Probleme | 0 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen eingeschränkter Sicht | 0 |
 
-| KONSTELLATION 10 | |
+| **KONSTELLATION 10** | |
 |---|---|
-| 5 | |
+| **5** | |
 | Kapselendoskopien mit nicht eingeschränkter Beurteilbarkeit | 17 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen technischer Probleme | 5 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen eingeschränkter Sicht | 0 |
@@ -445,27 +441,27 @@ Beurteilbarkeit des Bildmaterials 7 Status Vollständigkeit der Untersuchung (Z�
 
 ---
 
-| KONSTELLATION 11 | |
+| **KONSTELLATION 11** | |
 |---|---|
-| 5 | |
+| **5** | |
 | Kapselendoskopien mit nicht eingeschränkter Beurteilbarkeit | 17 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen technischer Probleme | 0 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen eingeschränkter Sicht | 5 |
 
-| 7 EMPFEHLUNGEN ZUR W | |
+| **7 EMPFEHLUNGEN ZUR W** | |
 |---|---|
-| 7 Empfehlungen zur Wiederholungsuntersuchung | |
+| **7 Empfehlungen zur Wiederholungsuntersuchung** | |
 | Wiederholungsuntersuchung empfohlen aufgrund von Einschränkungen gemäß den Nummern 5 | 22 |
 
 **2.3** **PRÜFFALL 3**
 
 |  |  |
 |---|---|
-| Prüffall-ID | 3 |
-| Testziel | Nach Eingabe aller zu Prüffall 2 gehörenden Daten erstellen Sie bitte wiederum eine |
-| Voraussetzung | Das Dokumentationsdatum ist der 3 |
-| Prüfunterlagen | › › |
-| Hinweis |  |
+| **Prüffall-ID** | 3 |
+| **Testziel** | Nach Eingabe aller zu Prüffall 2 gehörenden Daten erstellen Sie bitte wiederum eine |
+| **Voraussetzung** | Das Dokumentationsdatum ist der 3 |
+| **Prüfunterlagen** | › › |
+| **Hinweis** |  |
 
 Beurteilbarkeit des Bildmaterials und 6 IEDERHOLUNGSUNTERSUCHUNG Jahresstatistik (zur Übermittlung an die Datenannahmestelle) mit den Änderungen der Konstellation 8 als Korrekturlieferung zur Jahresstatistik aus Prüffall 1. Jahresstatistik Es soll dabei auch erkennbar sein, dass dem Anwender der bereits exportierte Datensatz von der Software kenntlich gemacht wird (Screenshot) 0.06.2015
 
@@ -475,7 +471,7 @@ Beurteilbarkeit des Bildmaterials und 6 IEDERHOLUNGSUNTERSUCHUNG Jahresstatistik
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 | KBV_ITA_FMEX_AAZ_QSKE | Antrag auf Zertifizierung QSKE |
 | [KBV_ITA_RLEX_Zert] | Zertifizierungsrichtlinie der KBV |
 | [Austausch_von_XML-Daten_V(n.nn ).ZIP] | KBV_ITA_VGEX_XM |

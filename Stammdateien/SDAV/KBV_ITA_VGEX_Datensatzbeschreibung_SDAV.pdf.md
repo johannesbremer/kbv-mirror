@@ -1,8 +1,8 @@
-|  | IT in der Arztpraxis |
+|  | ***IT in der Arztpraxis*** |
 |---|---|
-|  | Datensatzbeschreibung |
+|  | *Datensatzbeschreibung* |
 |  | [KBV_ITA_VGEX_Datensatzbeschreibung_SDAV |
-|  |  |
+|  | ** |
 |  | Dezernat Digitalisierung und IT |
 |  |  |
 |  | 10623 Berlin, Herbert |
@@ -19,9 +19,9 @@ Arztverzeichnis-Stammdatei -Lewin-Platz 2 Datum: Kennzeichnung: Status: 1.08 01.
 
 ### DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 1.08 | 01.02.2016 | KBV | AV-Stammsatz  • | Anpassung gemäß Anlage | 8  10  10  11 |
+| 1.08 | 01.02.2016 | KBV | **AV-Stammsatz ** • | Anpassung gemäß Anlage | **8  10  10  11** |
 
 1.08
 
@@ -139,46 +139,46 @@ führende Nullen besitzen können. Durch diese Sortierweise ist gewährleistet, 
 
 ---
 
-| **1.3** |  | **Dateiname** | **der** |  | **AV-Stammdatei** | |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Es | gilt folgende | Struktur | für | die | Dateinamensbildung: | |  |  |  |  |
-| n n | n n a a _ v | . q j j |  |  |  |  |  |  |  |  |
-| wobei | die Zeichen | als | Platzhalter | fungieren: |  |  |  |  |  |  |
-| nnnn: | Name | der Datei, | SDAV für |  | Stammdatei-Arztverzeichnis | |  |  |  |  |
-| aa: |  | Absender, 74 für | KBV |  |  |  |  |  |  |  |
-| v: | Version | der | Datenlieferung | innerhalb | eines | Quartals |  |  |  |  |
-| q: | Quartal |  |  |  |  |  |  |  |  |  |
-| jj: |  | 2-stellige | Jahresangabe |  |  |  |  |  |  |  |
-| Für | die erste | Lieferung | des | Quartals | 3/04 | ergibt sich | also | z.B.: |  |  |
-|  | **SDAV74_1.304** |  |  |  |  |  |  |  |  |  |
-| **1.4** |  | **Zeichensatztabelle** | | **ISO** | **8859** | **Latin** | **1** |  |  |  |
-|  |  |  |  |  | +-----+--------------------------+--------------------------+-----+ | | | | | |
-| \| | \| | 0 1 2 | 3 4 | 5 6 | 7 \| | 8 9 | A B | C D | E F | \| |
-|  |  |  |  |  | +-----+--------------------------+--------------------------+-----+ | | | | | |
-| \| | 0 \| |  | 0 @ | P ` | p \| |  | ° | À Ð | à ð | \| |
-| \| | 1 \| | ! | 1 A | Q a | q \| |  | ¡ ± | Á Ñ | á ñ | \| |
-| \| | 2 \| | " | 2 B | R b | r \| |  | ¢ ² | Â Ò | â ò | \| |
-| \| | 3 \| | # | 3 C | S c | s \| |  | £ ³ | Ã Ó | ã ó | \| |
-| \| | 4 \| | $ | 4 D | T d | t \| |  | ¤ ´ | Ä Ô | ä ô | \| |
-| \| | 5 \| | % | 5 E | U e | u \| |  | ¥ µ | Å Õ | å õ | \| |
-| \| | 6 \| | & | 6 F | V f | v \| |  | ¦ ¶ | Æ Ö | æ ö | \| |
-| \| | 7 \| | ' | 7 G | W g | w \| |  | § · | Ç × | ç ÷ | \| |
-| \| | 8 \| | ( | 8 H | X h | x \| |  | ¨ ¸ | È Ø | è ø | \| |
-| \| | 9 \| | ) | 9 I | Y i | y \| |  | © ¹ | É Ù | é ù | \| |
-| \| | A \| | * | : J | Z j | z \| |  | ª º | Ê Ú | ê ú | \| |
-| \| | B \| | + | ; K | [ k | { \| |  | « » | Ë Û | ë û | \| |
-| \| | C \| | , | < L | \ l | \| \| |  | ¬ ¼ | Ì Ü | ì ü | \| |
-| \| | D \| | - | = M | ] m | } \| |  | ½ | Í Ý | í ý | \| |
-| \| | E \| | . | > N | ^ n | ~ \| |  | ® ¾ | Î Þ | î þ | \| |
-| \| | F \| | / | ? O | _ o | \| |  | ¯ ¿ | Ï ß | ï ÿ | \| |
-|  |  |  |  |  | +-----+--------------------------+--------------------------+-----+ | | | | | |
-| \| | \| | 0 1 2 | 3 4 | 5 6 | 7 \| | 8 9 | A B | C D | E F | \| |
-|  |  |  |  |  | +-----+--------------------------+--------------------------+-----+ | | | | | |
-|  | Quelle: |  |  |  |  |  |  |  |  |  |
-|  |  |  | http://www.uni-muenster.de/inform/syziso | | | |  |  |  |  |
-| Die | Spalten | 0, 1, | 8 und | 9 sowie |  | Position | 7F | enthalten |  | Steuerzeichen, |
-|  | Position |  |  |  |  |  |  |  |  |  |
-| A0 | das | feste | Leerzeichen | und | AD den |  | Silbentrennstrich. | |  |  |
+| **1.3** |  | **Dateiname** | **der** | **AV-Stammdatei** |
+|---|---|---|---|---|
+| Es | gilt folgende | Struktur | für | die Dateinamensbildung: |
+| n n | n n a a _ v | . q j j |  |  |
+| wobei | die Zeichen | als | Platzhalter | fungieren: |
+| nnnn: | Name | der Datei, | SDAV für | Stammdatei-Arztverzeichnis |
+| aa: |  | Absender, 74 für | KBV |  |
+| v: | Version | der | Datenlieferung | innerhalb eines Quartals |
+| q: | Quartal |  |  |  |
+| jj: |  | 2-stellige | Jahresangabe |  |
+| Für | die erste | Lieferung | des | Quartals 3/04 ergibt sich also z.B.: |
+|  | **SDAV74_1.304** |  |  |  |
+| **1.4** |  | **Zeichensatztabelle** | | **ISO 8859 Latin 1** |
+|  |  |  |  | +-----+--------------------------+--------------------------+-----+ |
+| \| | \| | 0 1 2 | 3 4 | 5 6 7 \| 8 9 A B C D E F \| |
+|  |  |  |  | +-----+--------------------------+--------------------------+-----+ |
+| \| | 0 \| |  | 0 @ | P ` p \| ° À Ð à ð \| |
+| \| | 1 \| | ! | 1 A | Q a q \| ¡ ± Á Ñ á ñ \| |
+| \| | 2 \| | " | 2 B | R b r \| ¢ ² Â Ò â ò \| |
+| \| | 3 \| | # | 3 C | S c s \| £ ³ Ã Ó ã ó \| |
+| \| | 4 \| | $ | 4 D | T d t \| ¤ ´ Ä Ô ä ô \| |
+| \| | 5 \| | % | 5 E | U e u \| ¥ µ Å Õ å õ \| |
+| \| | 6 \| | & | 6 F | V f v \| ¦ ¶ Æ Ö æ ö \| |
+| \| | 7 \| | ' | 7 G | W g w \| § · Ç × ç ÷ \| |
+| \| | 8 \| | ( | 8 H | X h x \| ¨ ¸ È Ø è ø \| |
+| \| | 9 \| | ) | 9 I | Y i y \| © ¹ É Ù é ù \| |
+| \| | A \| | * | : J | Z j z \| ª º Ê Ú ê ú \| |
+| \| | B \| | + | ; K | [ k { \| « » Ë Û ë û \| |
+| \| | C \| | , | < L | \ l \| \| ¬ ¼ Ì Ü ì ü \| |
+| \| | D \| | - | = M | ] m } \| ½ Í Ý í ý \| |
+| \| | E \| | . | > N | ^ n ~ \| ® ¾ Î Þ î þ \| |
+| \| | F \| | / | ? O | _ o \| ¯ ¿ Ï ß ï ÿ \| |
+|  |  |  |  | +-----+--------------------------+--------------------------+-----+ |
+| \| | \| | 0 1 2 | 3 4 | 5 6 7 \| 8 9 A B C D E F \| |
+|  |  |  |  | +-----+--------------------------+--------------------------+-----+ |
+|  | Quelle: |  |  |  |
+|  |  |  | http://www.uni-muenster.de/inform/syziso | |
+| Die | Spalten | 0, 1, | 8 und | 9 sowie Position 7F enthalten Steuerzeichen, |
+|  | Position |  |  |  |
+| A0 | das | feste | Leerzeichen | und AD den Silbentrennstrich. |
 
 1.08
 
@@ -263,7 +263,7 @@ Bedingungen geknüpft ist. Sollte jedoch die entsprechende Information vorliegen
 
 **2.1 Definition der Satzart: AV**
 
-| FK | Vorkommen  1    2    3    4 | Feldbezeichnung | Feldart | Bedingung | Erläuterung |
+| **FK** | **Vorkommen  1    2    3    4** | **Feldbezeichnung** | **Feldart** | **Bedingung** | **Erläuterung** |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzart | M |  | AVS0 = AV- |
 | 9103 | 1 | Erstellungsdatum | M |  | Datum, wann die |
@@ -274,7 +274,7 @@ Bedingungen geknüpft ist. Sollte jedoch die entsprechende Information vorliegen
 
 **2.2 Definition der Satzart: AV**
 
-| FK | Vorkommen  3 | Feldbezeichnung | Feldart | Bedingung | Erläuterung |
+| **FK** | **Vorkommen  3** | **Feldbezeichnung** | **Feldart** | **Bedingung** | **Erläuterung** |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzart | M |  | 1450=AV- |
 | 0201 | 1 | BSNR | M |  | 9-stellige |
@@ -284,7 +284,7 @@ Bedingungen geknüpft ist. Sollte jedoch die entsprechende Information vorliegen
 
 **2.3 Definition der Satzart: AV**
 
-| FK | Vorkommen  1    2    3    4 | Feldbezeichnung | Feldart | Bedingung | Erläuterung |
+| **FK** | **Vorkommen  1    2    3    4** | **Feldbezeichnung** | **Feldart** | **Bedingung** | **Erläuterung** |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzart | M |  | AVS9 = AV- |
 | 9208 | 1 | Gesamtzahl | M |  | Zahl für KV |
@@ -352,7 +352,7 @@ aufgeführt. Die einzelnen Beispiel-Inhalte stehen untereinander in keinem direk
 
 **3.1 Feldtabelle: AV-Stammdatei**
 
-| Feld | Feldbezeichnung | Läng | Typ | Regel erlaubte Inhalte und Beschreibung |  | Beispiel |
+| **Feld** | **Feldbezeichnung** | **Läng** | **Typ** | **Regel erlaubte Inhalte und Beschreibung** |  | **Beispiel** |
 |---|---|---|---|---|---|---|
 | 0201 | BSNR | 9 | num | 049  061  826 |  | 010123400 |
 | 0200 | NBSNR | 9 | num | 049  061  826 |  | 010123401 |
@@ -407,17 +407,13 @@ Sonderprüfungen
 
 Feld im Datensatz
 
-FK
-
 Länge Feldkennung Inhalt
 
-Bez. Länge Typ
-
-Feldtabelle
-
-Regelnr.
+FK Bez. Länge Typ Regelnr.
 
 Regelnummer Regelinhalt
+
+Feldtabelle
 
 Regeltabelle 1.08
 
@@ -426,7 +422,7 @@ Regeltabelle 1.08
 
 **4.1 Regeltabelle: AV-Stammdatei**
 
-| Regel- | Kategorie | Prüfung | Erläuterung |
+| **Regel-** | **Kategorie** | **Prüfung** | **Erläuterung** |
 |---|---|---|---|
 | 008 | Format | TTMMJJJJ | TT=Tag;MM=Monat; |
 | 016 | Format | QJJJJ | Q=Quartal;JJJJ=Jahr |
@@ -450,38 +446,38 @@ Hinweise BAR-Schlüsselverzeichnisses „999999900“ Rahmen von § 75 Absatz 1a
 
 ## 5.1 Aufbau der lebenslangen Vertragsarztnummer (LANR)
 
-| 1-6 | 7 | 8-9 |  | Lebenslange Arztnummer (LANR) |
+| 1-6 | 7 | 8-9 |  | **Lebenslange Arztnummer (LANR)** |
 |---|---|---|---|---|
 | nnnnnn | m | ff |  |  |
-|  |  |  |  | ID |
+|  |  |  |  | **ID** |
 |  |  |  |  |  |
-|  |  |  |  | Prüfziffer |
+|  |  |  |  | **Prüfziffer** |
 |  |  |  |  |  |
-|  |  |  |  | Fachgruppe gemäß Anlage 35 |
+|  |  |  |  | **Fachgruppe gemäß Anlage 35** |
 |  |  |  |  |  |
 
 ## 5.2 Aufbau der (Neben-)Betriebsstättennummer
 
-| 1-2 | 3-7 | 8-9 |  | Betriebsstättennummer ((N)BSNR) |
+| 1-2 | 3-7 | 8-9 |  | **Betriebsstättennummer ((N)BSNR)** |
 |---|---|---|---|---|
 | kk | nnnnn | mm |  |  |
-|  |  |  |  | UKV bzw. OKV bei nicht untergliederten KVen |
+|  |  |  |  | **UKV bzw. OKV bei nicht untergliederten KVen** |
 |  |  |  |  |  |
-|  |  |  |  | Seriennummer |
+|  |  |  |  | **Seriennummer** |
 |  |  |  |  |  |
-|  |  |  |  | beliebig |
+|  |  |  |  | **beliebig** |
 |  |  |  |  |  |
 
 ## 5.3 Aufbau der (Neben-)Betriebsstättennummer Terminservicestelle  (Anlage 28 BMV-Ä)
 
-| 1-2 | 3-4 | 5-9 |  | Betriebsstättennummer ((N)BSNR) |
+| 1-2 | 3-4 | 5-9 |  | **Betriebsstättennummer ((N)BSNR)** |
 |---|---|---|---|---|
 | 35 | kk | nnnnn |  |  |
-|  |  |  |  | Krankenhäuser, die Leistungen im Rahmen |
+|  |  |  |  | **Krankenhäuser, die Leistungen im Rahmen** |
 |  |  |  |  |  |
-|  |  |  |  | UKV bzw. OKV bei nicht untergliederten KVen |
+|  |  |  |  | **UKV bzw. OKV bei nicht untergliederten KVen** |
 |  |  |  |  |  |
-|  |  |  |  | Seriennummer |
+|  |  |  |  | **Seriennummer** |
 |  |  |  |  |  |
 
 ## 5.4 Besondere Hinweise

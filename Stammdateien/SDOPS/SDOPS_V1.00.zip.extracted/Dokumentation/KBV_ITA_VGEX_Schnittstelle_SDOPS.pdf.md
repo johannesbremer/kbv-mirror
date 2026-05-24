@@ -293,14 +293,13 @@ Richtlinie bzw. des verwendeten ehd-Schemas angeben. Der Wertebereich
 
 ---
 
-## HEADER (METADATEN) IN SDOPS
+| 4. | HEADER | (METADATEN) IN SDOPS |
+|---|---|---|
+| Für die | Beschreibung der Inhalte | und deren Ausprägungen der header-Elemente wird auf die jeweils aktuelle |
+| Version | der ehd-Schnittstellenbeschreibung | [1] verwiesen. |
+| Seite 8 von | 12 / KBV / Stammdateien der | KBV - SDOPS (Operationen- und Prozedurenschlüsselstammdatei) / Version 1.00 |
 
-Für die Beschreibung der Inhalte und deren Ausprägungen der header-Elemente wird auf die jeweils aktuelle
-
-Version der ehd-Schnittstellenbeschreibung [1] verwiesen.
-
-Seite 8 von 12 / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozedurenschlüsselstammdatei) / Version 1.00
-
+HEADER (METADATEN) IN SDOPS Für die Beschreibung der Inhalte und deren Ausprägungen der header-Elemente wird auf die jeweils aktuelle Version der ehd-Schnittstellenbeschreibung [1] verwiesen.   / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozedurenschlüsselstammdatei) / Version 1.00
 
 ---
 
@@ -425,10 +424,10 @@ Seite 11 von 12 / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozedure
 
 ---
 
-| 6. | REFERENZIERTE | |  | DOKUMENTE | IN SDOPS |  |  |
-|---|---|---|---|---|---|---|---|
-| Referenz |  |  | Dokument |  |  |  |  |
-|  | KBV_ITA_VGEX_eHD | ehd | - eHealthData, | Richtlinie |  |  |  |
-| Seite 12 von | 12 / KBV / | Stammdateien | der KBV - | SDOPS (Operationen- | und Prozedurenschlüsselstammdatei) | / | Version 1.00 |
+| 6. | REFERENZIERTE DOKUMENTE IN SDOPS |
+|---|---|
+| Referenz | Dokument |
+| KBV_ITA_VGEX_eHD | ehd - eHealthData, Richtlinie |
+| Seite 12 von 12 / KBV / | Stammdateien der KBV - SDOPS (Operationen- und Prozedurenschlüsselstammdatei) / Version 1.00 |
 
-REFERENZIERTE DOKUMENTE IN SDOPS  / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozedurenschlüsselstammdatei) / Version 1.00 ehd - eHealthData, Richtlinie
+/ KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozedurenschlüsselstammdatei) / Version 1.00

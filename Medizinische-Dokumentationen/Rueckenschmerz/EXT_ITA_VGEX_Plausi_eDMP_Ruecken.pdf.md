@@ -29,23 +29,23 @@
 
 **Anlage 16 Dokumentation Chronischer Rückenschmerz**
 
-| Laufende Dokumentationsparameter |  | Ausprägung | Plausibilitäten |
+| **Laufende Dokumentationsparameter** |  | **Ausprägung** | **Plausibilitäten** |
 |---|---|---|---|
-|  | Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* in Feld 10 mindestens die Anga | | |
+|  | **Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* in Feld 10 mindestens die Anga** | | |
 | Relevante Ereignisse |  | | |
 | 1 | Ungeplante ambulante oder stationäre Anzahl |  | Bedingtes Pflichtfeld Nummerische Angabe Die Angabe erfolgt ohne Nachkommastelle.   Die Angabe muss gleich oder größer „0“    Eine Angabe ist erforderlich, wenn die Anlage    Eine Angabe |
-| Medikamente |  | | |
+| **Medikamente** |  | | |
 | 2 | Aktuelle kreuzschmerzbedingte  Opioidanalgetika | Ja, länger als 12 Wochen | Pflichtfeld Genau eine Angabe ist zulässig |
 |  |  |  |  |
 
-Rückenschmerz  erfolgt, sind die nachstehenden Felder der Anlage 16* entsprechend den Festlegungen der Plausibilitätsregeln auszufüllen Akutbehandlun seit letzten Schmerzmedikation: Wochen/ Nein be „ Chronischer kleiner oder gleich 99 sein. 16* im Rahmen einer Folgedokumentation auszufüllen ist. im Erstdokumentation ist nicht zulässig Rahmen und einer /Ja, weniger als 12
+Rückenschmerz  erfolgt, sind die nachstehenden Felder der Anlage 16* entsprechend den Festlegungen der Plausibilitätsregeln auszufüllen Akutbehandlun seit letzten Schmerzmedikation: Wochen/ Nein be „ Chronischer kleiner oder gleich 99 sein. 16* im Rahmen einer Folgedokumentation auszufüllen ist. im Erstdokumentation ist nicht zulässig und Rahmen einer /Ja, weniger als 12
 
 ---
 
-| Laufende Dokumentationsparameter |  | Ausprägung | Plausibilitäten |
+| **Laufende Dokumentationsparameter** |  | **Ausprägung** | **Plausibilitäten** |
 |---|---|---|---|
 | 3 | Aktuelle kreuzschmerzbedingte  Nicht-Opioidanalgetika | Dauerhaft / Bei Bedarf / Nein | Pflichtfeld Genau eine Angabe ist zulässig |
-| Schulung |  | | |
+| **Schulung** |  | | |
 | 4 | Bereits vor Einschreibung in das DMP Ja / Nein |  | Bedingtes Pflichtfeld Genau eine Angabe ist  Eine Angabe ist erforderlich, wenn die Anlage  Eine Angabe im Rahmen einer |
 | 5 |  | Ja / Nein | Pflichtfeld Genau eine Angabe ist zulässig |
 | 6 | Kreuzschmerz | Ja / Nein / War | Bedingtes Pflichtfeld Eine Angabe ist erforderlich, wenn die Anlage  Eine Angabe im Rahmen einer |
@@ -54,9 +54,9 @@ Nummer Schmerzmedikation: 2 an einer multimodalen Schulung teilgenommen -spezifi
 
 ---
 
-| Laufende Dokumentationsparameter |  | Ausprägung | Plausibilitäten |
+| **Laufende Dokumentationsparameter** |  | **Ausprägung** | **Plausibilitäten** |
 |---|---|---|---|
-| Sonstige Behandlung |  | | |
+| **Sonstige Behandlung** |  | | |
 | 7 | Regelmäßig körperlich aktiv | Ja / Nein / Nicht möglich | Pflichtfeld Mindestens eine Angabe ist erforderlich  Mehrfachnennungen sind möglich Erfolgt die Angabe „ Die Angabe „Nein“ und „Nicht möglich“ können |
 | 8 | letzten Dokumentation | Mindestens ein Ziel erreicht / N | Bedingtes Pflichtfeld Eine Angabe ist  Eine Angabe im Rahmen einer |
 | 9 | der Kreuzschmerzen in den letzten  (0 = | – | Pflichtfeld Nummerische Angabe   Die Angabe erfolgt ohne Nachkommastelle.   Die Angabe muss gleich oder größer „0“ und |
@@ -65,7 +65,7 @@ Erreichung mindestens eines individuell vereinbarten Ziele seit der 1 CPG Item 3
 
 ---
 
-| Laufende Dokumentationsparameter |  | Ausprägung | Plausibilitäten |
+| **Laufende Dokumentationsparameter** |  | **Ausprägung** | **Plausibilitäten** |
 |---|---|---|---|
 | 10 | CPG Item (0 = „Keine“ bis 10 = „Ma | Zahl (0 | Pflichtfeld Nummerische Angabe   Die Angabe erfolgt ohne Nachkommastelle. Die Angabe muss gleich oder größer „0“ und |
 | 11 | Beendigung der DMP | Ja/Nein | Bedingtes Pflichtfeld Eine Angabe ist erforderlich, wenn die Anlage  Eine Angabe im Rahmen einer |

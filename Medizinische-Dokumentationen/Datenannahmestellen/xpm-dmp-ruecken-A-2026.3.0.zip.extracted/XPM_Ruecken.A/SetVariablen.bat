@@ -1,0 +1,13 @@
+@echo off
+
+set XPM_JAVA_VERSION_CHECK_CP=Bin/xpmJavaVersionCheck-1.0.2.jar
+set XPM_DATEN_DIR=Daten/
+set XPM_PROTOKOLL_DIR=Listen/
+set XPM_CLASS_PATH=Bin/jasperreports-fonts-6.12.2.jar;Bin/xpm-core-4.2.40.jar;Bin/xpm-dmp-ruecken-2026.3.0.jar
+
+PATH %PATH%;%JAVA_HOME%\bin\
+set XPM_JAVA_CALL=java -Xmx300m -Dfile.encoding=8859_15 -DXPM_DATEN_DIR=%XPM_DATEN_DIR% -DXPM_PROTOKOLL_DIR=%XPM_PROTOKOLL_DIR% -cp "%XPM_CLASS_PATH%"
+
+
+
+

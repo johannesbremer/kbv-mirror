@@ -1,8 +1,8 @@
-|  | IT in der Arztpraxis |
+|  | ***IT in der Arztpraxis*** |
 |---|---|
-|  | Schnittstellenbeschreibung |
+|  | *Schnittstellenbeschreibung* |
 |  | [KBV_ITA_VGEX_Schnittstelle_SDKH] |
-|  |  |
+|  | ** |
 |  | Dezernat Digitalisierung und IT |
 |  |  |
 |  | 10623 Berlin, Herbert |
@@ -18,7 +18,7 @@ SDKH (Kodierhilfe-Stammdatei) -Lewin-Platz 2 1.01 Datum: 30.07.2012 Kennzeichnun
 
 ### DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.01 | 30.07.2012 | KBV | redaktionelle Überarbeitung |  |  |
 | 1.00 | 01.02.2011 | KBV | neues Dokument |  |  |
@@ -28,18 +28,7 @@ SDKH (Kodierhilfe-Stammdatei) -Lewin-Platz 2 1.01 Datum: 30.07.2012 Kennzeichnun
 
 ---
 
-#### INHALTSVERZEICHNIS
-
-#### DOKUMENTENHISTORIE
-
-#### INHALTSVERZEICHNIS
-
-#### ABBILDUNGSVERZEICHNIS
-
-#### TABELLENVERZEICHNIS
-
-#### XML-CODE-VERZEICHNIS
-
+#### INHALTSVERZEICHNIS DOKUMENTENHISTORIE INHALTSVERZEICHNIS ABBILDUNGSVERZEICHNIS TABELLENVERZEICHNIS XML-CODE-VERZEICHNIS
 **1** **EINLEITUNG**
 
 **2** **DATEINAMEN**
@@ -188,7 +177,7 @@ Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, dere
 
 Es existieren verschiedene Kardinalitäten:
 
-| Kardinalität | Symbol | Beschreibung |
+| **Kardinalität** | **Symbol** | **Beschreibung** |
 |---|---|---|
 | 0..1 |  | Optionales Element: Element wird als Rechteck mit |
 | 1 |  | Musselement:  Rechteck mit durchgezogner Linie. Das |
@@ -198,9 +187,8 @@ Es existieren verschiedene Kardinalitäten:
 
 * Version 1.01
 
-***<version>*** des Header-
+gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1.. aus, dass das Element mindestens einmal vorkommen muss aber auch beliebig oft auftreten kann.  drückt z.B. ***<version>*** des Header-
 
-gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1.. aus, dass das Element mindestens einmal vorkommen muss aber auch beliebig oft auftreten kann.  drückt z.B.
 
 ---
 
@@ -208,7 +196,7 @@ gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen. Element m
 
 Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinander lo- gisch verknüpft. In diesem Dokument werden zwei Strukturelement-Arten verwendet: Choice  und Sequence.
 
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |---|---|
 |  | Das Strukturelement Choice zeigt an, dass zwischen verschiedenen Kind- |
 |  | Das Strukturelement Sequence beschreibt, dass verschiedene Kindelemente |
@@ -219,7 +207,7 @@ Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinand
 
 Es werden außerdem folgende Diagramm-Symbole verwendet:
 
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |---|---|
 |  | Ein Element mit mehreren Kindelementen wird durch ein |
 |  | Referenzelement: Der Pfeil links unten im Element zeigt |
@@ -342,8 +330,8 @@ z.B. “2010-01-01..“
 
 XML-Beispiel
 
-| </organization>              </header> |
-|---|
+\| </organization>              </header> |
+\|---|
 
 **XML-Code 2 ehd-header**
 
@@ -377,9 +365,9 @@ rien.
 |---|---|
 | namespace urn:ehd/evl/001 |  |
 
-|  |
-|---|
-| diagram    namespace urn:ehd/evl/001    4.3.2 Das Element <icd_code> enthält einen ICD-10 Kode aus der ICD-Stammdatei. Diesem ICD- Im V-Attribut steht formatiert der ICD--Z]( Im S-Attribut steht die offizielle OID der verwendeten Ausgabe der ICD-10-Stammdatei.  Z.B.     4.3.3 Das Element <hinweis> enthält das Kindelement <text>, in dem der Hinweistext im V-Attribut  4.3.4 Das Element <kriterium> enthält die Kindelemente <id>, <notwendig> und <text> und definiert  4.3.4.1 id  Das Element <id> enthält die Kriteriennummer. Im EX-n- 4.3.4.2 notwendig  Im Element <notwendig> steht, ob das Kriterium notwendig ist. Der Wert im V-Attribut ist vom  4.3.4.3 text  Im Element <text>, im V- |
+\|  |
+\|---|
+\| diagram    namespace urn:ehd/evl/001   **4.3.2** Das Element <icd_code> enthält einen ICD-10 Kode aus der ICD-Stammdatei. Diesem ICD- Im V-Attribut steht formatiert der ICD--Z]( Im S-Attribut steht die offizielle OID der verwendeten Ausgabe der ICD-10-Stammdatei.  Z.B.    **4.3.3** Das Element <hinweis> enthält das Kindelement <text>, in dem der Hinweistext im V-Attribut **4.3.4** Das Element <kriterium> enthält die Kindelemente <id>, <notwendig> und <text> und definiert **4.3.4.1 id ** Das Element <id> enthält die Kriteriennummer. Im EX-n-**4.3.4.2 notwendig ** Im Element <notwendig> steht, ob das Kriterium notwendig ist. Der Wert im V-Attribut ist vom **4.3.4.3 text ** Im Element <text>, im V- |
 
 * Version 1.01
 
@@ -387,9 +375,9 @@ rien.
 
 ---
 
-|  |
-|---|
-|  |
+\|  |
+\|---|
+\|  |
 
 #### XML-Code 3 ehd-body
 
@@ -401,7 +389,7 @@ rien.
 
 # 5 Referenzierte Dokumente
 
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 |---|---|
 | [KBV_ITA_VGEX_EHD] | ehd – eHealthData Richtlinie: Grundstrukturen, Regeln und |
 

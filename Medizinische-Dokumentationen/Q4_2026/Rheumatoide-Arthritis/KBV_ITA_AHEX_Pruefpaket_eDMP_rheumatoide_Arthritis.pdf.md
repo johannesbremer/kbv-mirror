@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  31. MÄRZ 2026   VERSION: 1.04   DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  31. MÄRZ 2026   VERSION: 1.04   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # PRÜFPAKET EDMP-RHEUMATOIDE
@@ -146,7 +146,7 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.04 | 31.03.2026 | KBV | Anpassung der Prüffälle an    Anpassung Prüffall 7240 | Schnittstellenversion | 7, 10ff        26 |
 | 1.03 | 15.08.2025 | KBV | Datumsanpassung im | Änderung der | 26 |
@@ -430,17 +430,17 @@ XML-
 
 Folgende Angaben sind für die Zertifizierung zu verwenden:
 
-| BEZEICHNUNG | INHALT |
+| **BEZEICHNUNG** | **INHALT** |
 |---|---|
-| Betriebsstättennummer (BSNR) | 391234511 |
-| BSNR-Bezeichnung | Praxis Dr. med. Heribert Topp-Glücklich |
-| Lebenslange Arztnummer (LANR) | 838382202 |
-| Arztname | Dr. med. Hans Topp-Glücklich |
-| Straße | Musterstr. |
-| Hausnummer | 1 |
-| PLZ/Ort | 64283 Darmstadt |
-| Telefon | 06151 / 1111111 |
-| Telefax | 06151 / 2222222 |
+| **Betriebsstättennummer (BSNR)** | 391234511 |
+| **BSNR-Bezeichnung** | Praxis Dr. med. Heribert Topp-Glücklich |
+| **Lebenslange Arztnummer (LANR)** | 838382202 |
+| **Arztname** | Dr. med. Hans Topp-Glücklich |
+| **Straße** | Musterstr. |
+| **Hausnummer** | 1 |
+| **PLZ/Ort** | 64283 Darmstadt |
+| **Telefon** | 06151 / 1111111 |
+| **Telefax** | 06151 / 2222222 |
 
 ### 1.6.6 Krankenhausdaten
 
@@ -448,15 +448,15 @@ Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der B
 
 bsender (Kranken
 
-| BEZEICHNUNG | INHALT |
+| **BEZEICHNUNG** | **INHALT** |
 |---|---|
-| Krankenhaus-IK | 856215715 |
-| Name des Krankenhauses | Test-Krankenhaus, Pneumologie |
-| Straße | Am Wehr |
-| Hausnummer | 20 |
-| Postleitzahl und Ort | 10437 Berlin |
-| Telefon | 06151 / 1111111 |
-| Telefax | 06151 / 2222222 |
+| **Krankenhaus-IK** | 856215715 |
+| **Name des Krankenhauses** | Test-Krankenhaus, Pneumologie |
+| **Straße** | Am Wehr |
+| **Hausnummer** | 20 |
+| **Postleitzahl und Ort** | 10437 Berlin |
+| **Telefon** | 06151 / 1111111 |
+| **Telefax** | 06151 / 2222222 |
 
 ### 1.6.7 Prüfnummer
 
@@ -475,12 +475,12 @@ Der Empfänger der elektronischen Dokumentationen muss, soweit möglich, automat
 
 Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
-| PRÜFFALL-ID | NAME | VERZEICHNISNAME |
+| **PRÜFFALL-ID** | **NAME** | **VERZEICHNISNAME** |
 |---|---|---|
-| 7211 | Katarina Maier | XML_12 |
-| 7212 | Peter Pan | XML_13 |
-| 7220 | Helga Aufgelöst | Ersatzverfahren (s. Anhang 4.1) |
-| 7240 | Lija Malta | XML_36 |
+| **7211** | Katarina Maier | XML_12 |
+| **7212** | Peter Pan | XML_13 |
+| **7220** | Helga Aufgelöst | Ersatzverfahren (s. Anhang 4.1) |
+| **7240** | Lija Malta | XML_36 |
 
 
 ---
@@ -493,11 +493,11 @@ Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
 |  |  |
 |---|---|
-| Prüffall-ID | 7211 |
-| Testziel | Anlage einer Erst- und einer Folgedokumentation |
-| Voraussetzung |  |
-| Einzureichende  Prüfunterlagen | 1. eDMP rheumatoide Arthritis |
-| Hinweis | Bei der Erfassung der Daten für den Prüffall kann Prüffall 7230 Szenario |
+| **Prüffall-ID** | 7211 |
+| **Testziel** | Anlage einer Erst- und einer Folgedokumentation |
+| **Voraussetzung** |  |
+| **Einzureichende  Prüfunterlagen** | 1. eDMP rheumatoide Arthritis |
+| **Hinweis** | Bei der Erfassung der Daten für den Prüffall kann Prüffall 7230 Szenario |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -511,13 +511,13 @@ Erfassen Sie vor der Erst- und Folgedokumentation die Antworten auf die Fragen d
 
 Erfassen Sie jeweils eine Erst- und Folgedokumentation (s.u., “Indikationsübergreifende Daten“ und  „Indikationsspezifische Daten“).
 
-| DAS-28-Wert Fragebogen |  | |
+| **DAS-28-Wert Fragebogen** |  | |
 |---|---|---|
-|  | Erstdokumentation | Folgedokumentation |
-| 1. Anzahl geschwollener Gelenke (sw28) | 10 | 3 |
-| 2. Anzahl druckschmerzhafter Gelenke (t28) | 12 | 2 |
-| 3. Subjektive Krankheitsaktivität (VAS) | 80 | 5 |
-| 4. Blutsenkungsgeschwindigkeit (BSG) (mm/h) | 70 | 9 |
+|  | **Erstdokumentation** | **Folgedokumentation** |
+| **1. Anzahl geschwollener Gelenke (sw28)** | 10 | 3 |
+| **2. Anzahl druckschmerzhafter Gelenke (t28)** | 12 | 2 |
+| **3. Subjektive Krankheitsaktivität (VAS)** | 80 | 5 |
+| **4. Blutsenkungsgeschwindigkeit (BSG) (mm/h) ** | 70 | 9 |
 
 einlesen und speichern.
 
@@ -525,23 +525,23 @@ aufgezeichnet werden. Dokumentationsunterlagen (Wertebereich: 0 – 28) (Wertebe
 
 ---
 
-| INDIKATIONSÜBERGREIFENDE | | |
+| **INDIKATIONSÜBERGREIFENDE** | | |
 |---|---|---|
-|  | Erstdokumentation | Folgedokumentation |
-| Administrative Daten | | |
+|  | **Erstdokumentation** | **Folgedokumentation** |
+| **Administrative Daten** | | |
 | DMP-Fallnummer | 7211 | 7211 |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum der Erstellung (siehe Kap. 1.6.2) | 15.mm.jjjj | 15.mm.jjjj |
 | Einschreibung wegen | rheumatoide Arthritis | rheumatoide Arthritis |
 | Geschlecht | Weiblich | Weiblich |
-| Allgemeine Anamnese- und Befunddaten | | |
+| **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 1,53 m | 1,53 m |
 | Körpergewicht | 46 kg | 56 kg |
 | Blutdruck (systolisch / diastolisch) | 50 / 30 mmHg | 120 / 90 mmHg |
 | Raucher | Nein | Ja |
 | Begleiterkrankungen | Diabetes mellitus | Diabetes mellitus |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Vom Patienten gewünschte | Ernährungsberatung | Tabakverzicht |
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung (Behandlungsdatum) | 15.mm.jjjj | 15.mm.jjjj |
@@ -553,18 +553,18 @@ DATEN Informationsangebote der Krankenkasse
 
 ---
 
-| INDIKATIONS | | |
+| **INDIKATIONS** | | |
 |---|---|---|
-|  | Erstdokumentation | Folgedokumentation |
-| Anamnese- und Befunddaten | | |
+|  | **Erstdokumentation** | **Folgedokumentation** |
+| **Anamnese- und Befunddaten** | | |
 | Aktuelle Krankheitsaktivität - DAS-28-Wert    Das System muss den Wert des berechneten DAS - | Automatische  DAS-28-Fragebogen | Automatische  DAS-28-Fragebogen |
 | Erkrankungsdauer der rheumatoiden Arthritis | Weniger als zwei Jahre | Zwei Jahre oder mehr |
 | Klinische Einschätzung des Osteoporoserisikos | Nein | Ja |
-| Medikamentöse und sonstige Maßnahmen | | |
+| **Medikamentöse und sonstige Maßnahmen** | | |
 | Aktuelle | Ja, bis zu 6 Monate lang | Ja, länger als 6 Monate |
 | Aktuelle DMARD | Ja | Therapiepause vereinbart |
 | Regelmäßige körperliche Aktivität | Nein | Ja |
-| Schulung | | |
+| **Schulung** | | |
 | Bereits vor Einschreibung in das DMP an einer | Ja |  |
 | Rheuma-Schulung empfohlen (bei aktueller | Ja | Nein |
 | Rheuma-Schulung wahrgenommen |  | War aktuell nicht möglich |
@@ -577,11 +577,11 @@ PEZIFISCHE DATEN 28-Scores übernehmen (zum Zeitpunkt der aktuellen Dokumentatio
 
 |  |  |
 |---|---|
-| Prüffall-ID | 7212 |
-| Testziel | Anlage einer Erst- und einer Folgedokumentation |
-| Voraussetzung |  |
-| Prüfunterlagen | 1. eDMP rheumatoide Arthritis |
-| Hinweis |  |
+| **Prüffall-ID** | 7212 |
+| **Testziel** | Anlage einer Erst- und einer Folgedokumentation |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | 1. eDMP rheumatoide Arthritis |
+| **Hinweis** |  |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -595,13 +595,13 @@ Erfassen Sie vor der Erst- und Folgedokumentation die Antworten auf die Fragen d
 
 Erfassen Sie jeweils eine Erst- und Folgedokumentation (s.u., “Indikationsübergreifende Daten“ und  „Indikationsspezifische Daten“).
 
-| DAS-28-Wert Fragebogen |  | |
+| **DAS-28-Wert Fragebogen** |  | |
 |---|---|---|
-|  | Erstdokumentation | Folgedokumentation |
-| 1. Anzahl geschwollener Gelenke (sw28) | 20 | 1 |
-| 2. Anzahl druckschmerzhafter Gelenke (t28) | 20 | 2 |
-| 3. Subjektive Krankheitsaktivität (VAS) | 90 | 5 |
-| 4. Blutsenkungsgeschwindigkeit (BSG) (mm/h) | 900 | 3 |
+|  | **Erstdokumentation** | **Folgedokumentation** |
+| **1. Anzahl geschwollener Gelenke (sw28)** | 20 | 1 |
+| **2. Anzahl druckschmerzhafter Gelenke (t28)** | 20 | 2 |
+| **3. Subjektive Krankheitsaktivität (VAS)** | 90 | 5 |
+| **4. Blutsenkungsgeschwindigkeit (BSG) (mm/h) ** | 900 | 3 |
 
 einlesen und speichern.
 
@@ -609,24 +609,24 @@ Dokumentationsunterlagen (Wertebereich: 0 – 28) (Wertebereich 0 - 28) (Wertebe
 
 ---
 
-| INDIKATIONSÜBERGREIFENDE | | |
+| **INDIKATIONSÜBERGREIFENDE** | | |
 |---|---|---|
-|  | Erstdokumentation | Folgedokumentation |
-| Administrative Daten | | |
+|  | **Erstdokumentation** | **Folgedokumentation** |
+| **Administrative Daten** | | |
 | DMP-Fallnummer | 7212 | 7212 |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  | Ja |
 | Datum der Erstellung (siehe Kap. 1.6.2) | 15.mm.jjjj | 15.mm.jjjj |
 | Einschreibung wegen | rheumatoide Arthritis | rheumatoide Arthritis |
 | Geschlecht | Männlich | Männlich |
-| Allgemeine Anamnese- und Befunddaten | | |
+| **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 2,13 m | 2,13 m |
 | Körpergewicht | 110 kg | 105 kg |
 | Blutdruck | 180 / 101 mmHg | 150 / 90 mmHg |
 | Raucher | Nein | Nein |
 | Begleiterkrankungen | Diabetes mellitus | Diabetes mellitus |
 |  |  |  |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Vom Patienten gewünschte | Ernährungsberatung | Körperliches Training |
 | Dokumentationsintervall | Quartalsweise | Quartalsweise |
 | Datum der Erstellung (siehe Kap. 1.6.2) | 15.mm.jjjj | 15.mm.jjjj |
@@ -638,18 +638,18 @@ DATEN Informationsangebote der Krankenkasse
 
 ---
 
-| INDIKATIONS | | |
+| **INDIKATIONS** | | |
 |---|---|---|
-|  | Erstdokumentation | Folgedokumentation |
-| Anamnese- und Befunddaten | | |
+|  | **Erstdokumentation** | **Folgedokumentation** |
+| **Anamnese- und Befunddaten** | | |
 | Aktuelle | Übernahme aus dem  DAS-28-Fragebogen | Automatische  DAS-28-Fragebogen |
 | Erkrankungsdauer der rheumatoiden Arthritis | Zwei Jahre oder mehr | Zwei Jahre oder mehr |
 | Klinische Einschätzung des Osteoporoserisikos | Nein | Nein |
-| Medikamentöse und sonstige Maßnahmen | | |
+| **Medikamentöse und sonstige Maßnahmen** | | |
 | Aktuelle Glukokortikoidtherapie wegen | Ja, bis zu 6 Monate lang | Ja, länger als 6 Monate |
 | Aktuelle | Kontraindikation | Nein |
 | Regelmäßige körperliche Aktivität | Nein | Nein |
-| Schulung | | |
+| **Schulung** | | |
 | Bereits vor Einschreibung in das DMP an einer | Nein |  |
 | Rheuma-Schulung empfohlen (bei aktueller | Ja | Nein |
 | Rheuma-Schulung wahrgenommen |  | Bei letzter |
@@ -665,11 +665,11 @@ PEZIFISCHE DATEN Krankheitsaktivität - DAS-28-Wert (zum Zeitpunkt der aktuellen
 
 |  |  |
 |---|---|
-| Prüffall-ID | 7220 |
-| Testziel | Anlage einer Erst- und einer Folgedokumentation |
-| Voraussetzung |  |
-| Prüfunterlagen | 1. eDMP rheumatoide Arthritis Dokumentationsunterlagen 2. zusätzlich DMP Diabetes mellitus Typ 2 Dokumentationsunterlagen |
-| Hinweis | Sofern das System eine Zulassung für die Indikation Diabetes mellitus Typ 2 |
+| **Prüffall-ID** | 7220 |
+| **Testziel** | Anlage einer Erst- und einer Folgedokumentation |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | 1. eDMP rheumatoide Arthritis Dokumentationsunterlagen 2. zusätzlich DMP Diabetes mellitus Typ 2 Dokumentationsunterlagen |
+| **Hinweis** | Sofern das System eine Zulassung für die Indikation Diabetes mellitus Typ 2 |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -683,13 +683,13 @@ Erfassen Sie vor der Erst- und Folgedokumentation die Antworten auf die Fragen d
 
 Erfassen Sie jeweils eine Erst- und Folgedokumentation (s.u., “Indikationsübergreifende Daten“ und  „Indikationsspezifische Daten“).
 
-| DAS-28-Wert Fragebogen |  | |
+| **DAS-28-Wert Fragebogen** |  | |
 |---|---|---|
-|  | Erstdokumentation | Folgedokumentation |
-| 1. Anzahl geschwollener Gelenke (sw28) | 5 | 4 |
-| 2. Anzahl druckschmerzhafter Gelenke (t28) | 6 | 5 |
-| 3. Subjektive Krankheitsaktivität (VAS) | 11 | 10 |
-| 4. Blutsenkungsgeschwindigkeit (BSG) (mm/h) | 13 | 12 |
+|  | **Erstdokumentation** | **Folgedokumentation** |
+| **1. Anzahl geschwollener Gelenke (sw28)** | 5 | 4 |
+| **2. Anzahl druckschmerzhafter Gelenke (t28)** | 6 | 5 |
+| **3. Subjektive Krankheitsaktivität (VAS)** | 11 | 10 |
+| **4. Blutsenkungsgeschwindigkeit (BSG) (mm/h)** | 13 | 12 |
 
 -28, lassen Sie
 
@@ -697,23 +697,23 @@ verfügt, müssen die entsprechenden Daten ebenfalls dokumentiert werden. Sollte
 
 ---
 
-| INDIKATIONSÜBERGREIFENDE | | |
+| **INDIKATIONSÜBERGREIFENDE** | | |
 |---|---|---|
-|  | Erstdokumentation | Folgedokumentation |
-| Administrative Daten | | |
+|  | **Erstdokumentation** | **Folgedokumentation** |
+| **Administrative Daten** | | |
 | DMP-Fallnummer | 7220 | 7220 |
 | Krankenhaus-IK | 856215715 | 856215715 |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum der Erstellung (siehe Kap. 1.6.2) | 15.mm.jjjj | 15.mm.jjjj |
 | Einschreibung wegen | rheumatoide Arthritis, | rheumatoide Arthritis, |
 | Geschlecht | Weiblich | Weiblich |
-| Allgemeine Anamnese- und Befunddaten | | |
+| **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 1,72 m | 1,72 m |
 | Körpergewicht | 63 kg | 61 kg |
 | Blutdruck | 120 / 70 mmHg | 119 / 65 mmHg |
 | Raucher | Ja | Ja |
 | Begleiterkrankungen | Nach Funktion P1-47 des Anforderungskatalogs | |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Vom Patienten gewünschte | Ernährungsberatung | Tabakverzicht |
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung (siehe Kap. 1.6.2) | 15.mm.jjjj | 15.mm.jjjj |
@@ -725,10 +725,10 @@ DATEN Informationsangebote der Krankenkasse Diabetes mellitus Typ 2 müssen die 
 
 ---
 
-| INDIKATIONS | | | |
+| **INDIKATIONS** | | | |
 |---|---|---|---|
-|  | Erstdokumentation | Folgedokumentation | |
-| Anamnese- und Befunddaten | | | |
+|  | **Erstdokumentation** | **Folgedokumentation** | |
+| **Anamnese- und Befunddaten** | | | |
 | RA | Aktuelle Krankheitsaktivität - DAS-28-Wert | Automatische  DAS-28-Fragebogen | Automatische  DAS-28-Fragebogen |
 | RA | Erkrankungsdauer der rheumatoiden | Weniger als zwei Jahre | Zwei Jahre oder mehr |
 | RA | Klinische Einschätzung des | Nein | Nein |
@@ -742,11 +742,11 @@ DATEN Informationsangebote der Krankenkasse Diabetes mellitus Typ 2 müssen die 
 | DM2 | Injektionsstellen |  | Unauffällig |
 | DM2 | Intervall für künftige Fußinspektionen (bei | alle 3 drei Monate oder  häufiger | Jährlich |
 | DM2 | Spätfolgen | Diabetische Neuropathie | Diabetische Retinopathie, |
-| Relevante Ereignisse | | | |
+| **Relevante Ereignisse** | | | |
 | DM2 | Relevante Ereignisse | Nierenersatztherapie | Keine der genannten |
 | DM2 | Schwere Hypoglykämien seit der letzten |  | 5 |
 | DM2 | Stationäre notfallmäßige Behandlung |  | 2 |
-| Medikamentöse und sonstige Maßnahmen (Nicht-medikamentöse) | | | |
+| **Medikamentöse und sonstige Maßnahmen (Nicht-medikamentöse)** | | | |
 | RA | Aktuelle Glukokortikoidtherapie wegen | Ja, länger als 6 Monate | Ja, länger als 6 Monate |
 | RA | Aktuelle DMARD | Nein | Ja |
 | RA | Regelmäßige körperliche Aktivität | Ja | Ja |
@@ -795,19 +795,19 @@ PEZIFISCHE DATEN Arthritis (zum Zeitpunkt der aktuellen Dokumentation) Osteoporo
 |  | | | |
 |  |  | Behandlung/Mitbehandlung in einer für | Nein |
 |  |  |  |  |
-|  | Medikamente | Schulung | Behandlungsplanung |
+|  | **Medikamente** | **Schulung** | **Behandlungsplanung** |
 |  | | | |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
-| Medikamente | | | |
+| **Medikamente** | | | |
 | DM2 | Insulin oder Insulin-Analoga | Nein | Ja |
 | DM2 | Metformin | Ja | Ja |
 | DM2 | Sonstige antidiabetische Medikation | Nein | Nein |
 | DM2 | SGLT2-Inhibitor | Nein | Ja |
 | DM2 | GLP-1-Rezeptoragonist | Kontraindikation | Nein |
 | DM2 | Thrombozytenaggregationshemmer | Ja, | Nein |
-| Schulung | | | |
+| **Schulung** | | | |
 | RA | Bereits vor Einschreibung in das DMP an | Ja |  |
 | RA | Rheuma-Schulung empfohlen (bei | Ja | Nein |
 | RA | Rheuma-Schulung wahrgenommen |  | Nein |
@@ -815,7 +815,7 @@ PEZIFISCHE DATEN Arthritis (zum Zeitpunkt der aktuellen Dokumentation) Osteoporo
 | DM2 | Schulung schon vor Einschreibung ins | Hypertonie-Schulung |  |
 | DM2 | Empfohlene Diabetes-Schulung |  | Ja |
 | DM2 | Empfohlene Hypertonie-Schulung |  | Bei der letzten |
-| Behandlungsplanung | | | |
+| **Behandlungsplanung** | | | |
 | DM2 | HbA1c-Zielwert | Zielwert erreicht | Zielwert noch nicht |
 | DM2 | Ophthalmologische |  | Durchgeführt |
 | DM2 | Behandlung/Mitbehandlung in einer für | Nein | Ja, Veranlasst |
@@ -827,34 +827,34 @@ orale Antikoagulation einer Rheuma-Schulung teilgenommen aktueller Dokumentation
 
 **2.2** **PRÜFFALL SYSTEMREAKTION**
 
-| INDIKATIONSÜBERGREIFENDE | | |
+| **INDIKATIONSÜBERGREIFENDE** | | |
 |---|---|---|
-|  | Erstdokumentation | Aktion |
-| Administrative Daten | | |
+|  | **Erstdokumentation** | **Aktion** |
+| **Administrative Daten** | | |
 | DMP-Fallnummer | 7214 |  |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum der Erstellung (siehe Kap. 1.6.2) | 15.mm.jjjj |  |
 | Einschreibung wegen | rheumatoide Arthritis |  |
 | Geschlecht | Patienten |  |
-| Allgemeine Anamnese- und Befunddaten | | |
+| **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 1,68 m |  |
 | Körpergewicht | 79 kg |  |
 | Blutdruck | 120 / 90 mmHg |  |
 | Raucher |  | Nr. 1 |
 | Begleiterkrankungen | Erkrankungen |  |
-| Behandlungsplanung | | |
-| 2.2.1 |  |  |
+| **Behandlungsplanung** | | |
+| **2.2.1** |  |  |
 |  |  |  |
 |  |  |  |
 
 |  |  |
 |---|---|
-| Prüffall-ID | 7214 |
-| Testziel | Kontrolle der softwareseitigen Erkennung von Fehleingaben |
-| Voraussetzung |  |
-| Prüfunterlagen | Fehlermeldungen.     Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
-| Hinweis | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben |
+| **Prüffall-ID** | 7214 |
+| **Testziel** | Kontrolle der softwareseitigen Erkennung von Fehleingaben |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | Fehlermeldungen.     Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
+| **Hinweis** | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben |
 
 Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis - bzw. Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. sind. Prüffall 7214 Aktionen, die durch den Antragsteller durchgeführt werden: Versichertendaten Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation  DATEN Je nach Auswahl des Keine der genannten
 
@@ -869,7 +869,7 @@ Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis - bzw. 
 |  | Rheuma-Schulung empfohlen (bei aktueller |  |
 |  | Rheuma-Schulung wahrgenommen |  |
 |  |  |  |
-|  | INDIKATIONS |  |
+|  | **INDIKATIONS** |  |
 |  | | |
 |  |  |  |
 |  |  |  |
@@ -883,18 +883,18 @@ Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis - bzw. 
 
 - **3.** **Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation**  **abgeschlossen werden kann.**
 
-| INDIKATIONS | | |
+| **INDIKATIONS** | | |
 |---|---|---|
-|  | Erstdokumentation | Aktion |
-| Anamnese- und Befunddaten | | |
+|  | **Erstdokumentation** | **Aktion** |
+| **Anamnese- und Befunddaten** | | |
 | Aktuelle Krankheitsaktivität - DAS-28-Wert  Pflichtfeld | 10,1 | Nr. 2 |
 | Erkrankungsdauer der rheumatoiden Arthritis (zum | Zwei Jahre | Nr. 3 |
 | Klinische Einschätzung des Osteoporoserisikos |  | Nr. 4 |
-| Medikamentöse und sonstige Maßnahmen | | |
+| **Medikamentöse und sonstige Maßnahmen** | | |
 | Aktuelle Glukokortikoidtherapie wegen rheumatoider |  | Nr. 5 |
 | Aktuelle DMARD-Therapie | Therapiepause |  |
 | Regelmäßige körperliche Aktivität | Nicht möglich |  |
-| Schulung | | |
+| **Schulung** | | |
 | Bereits vor Einschreibung in das DMP an einer Rheuma - |  | Nr. 6 |
 | Rheuma-Schulung empfohlen (bei aktueller | Ja |  |
 | Rheuma-Schulung wahrgenommen | Ja | Nr. 7 |
@@ -905,31 +905,31 @@ Krankenkasse SPEZIFISCHE DATEN Anamnese- und Befunddaten Aktuelle Krankheitsakti
 
 - **4.** **Anlegen einer Folgedokumentation**
 
-| INDIKATIONSÜBERGREIFENDE | | |
+| **INDIKATIONSÜBERGREIFENDE** | | |
 |---|---|---|
-|  | Folgedokumentation | Aktion |
-| Administrative Daten | | |
+|  | **Folgedokumentation** | **Aktion** |
+| **Administrative Daten** | | |
 | DMP-Fallnummer | 7214 |  |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum der Erstellung (siehe Kap. 1.6.2) | 15.mm.jjjj |  |
 | Einschreibung wegen | rheumatoide Arthritis |  |
 | Geschlecht | Je nach Auswahl des |  |
-| Allgemeine Anamnese- und Befunddaten | | |
+| **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 1,68 m |  |
 | Körpergewicht | 79 kg |  |
 | Blutdruck | 124 / 79 mmHg |  |
 | Raucher | Nein |  |
 | Begleiterkrankungen | Chronische |  |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Vom Patienten gewünschte Informationsangebote der | Tabakverzicht,  Körperliches Training |  |
 | Dokumentationsintervall | Quartalsweise |  |
 | Datum der Erstellung (siehe Kap. 1.6.2) | 15.mm.jjjj |  |
 
-| INDIKATIONS | | |
+| **INDIKATIONS** | | |
 |---|---|---|
-|  | Folgedokumentation | Aktion |
-| Anamnese- und Befunddaten | | |
+|  | **Folgedokumentation** | **Aktion** |
+| **Anamnese- und Befunddaten** | | |
 | Aktuelle | 0,9 |  |
 | Erkrankungsdauer der rheumatoiden Arthritis (zum | Zwei Jahre oder mehr |  |
 | Klinische Einschätzung des Osteoporoserisikos | Ja |  |
@@ -940,11 +940,11 @@ DATEN Krankenkasse Herzinsuffizienz, Asthma bronchiale Ernährungsberatung,  SPE
 
 |  | | |
 |---|---|---|
-| Medikamentöse und sonstige Maßnahmen | | |
+| **Medikamentöse und sonstige Maßnahmen** | | |
 | Aktuelle Glukokortikoidtherapie wegen rheumatoider | Nein |  |
 | Aktuelle DMARD-Therapie | Ja |  |
 | Regelmäßige körperliche Aktivität | Nein |  |
-| Schulung | | |
+| **Schulung** | | |
 | Bereits vor Einschreibung in das DMP an einer Rheuma- | Ja | Nr. 8 |
 | Rheuma-Schulung empfohlen (bei aktueller |  | Nr. 9 |
 | Rheuma-Schulung wahrgenommen | Bei letzter Dokumentation |  |
@@ -961,37 +961,37 @@ Arthritis Schulung teilgenommen Dokumentation) keine Schulung empfohlen
 
 |  |  |
 |---|---|
-| Prüffall-ID | 7230 |
-| Testziel | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
-| Voraussetzung |  |
-| Prüfunterlagen | Dokumentieren Sie durch Video |
-| Hinweis | Dieser Testfall ist unterteilt in drei Szenarien |
+| **Prüffall-ID** | 7230 |
+| **Testziel** | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | Dokumentieren Sie durch Video |
+| **Hinweis** | Dieser Testfall ist unterteilt in drei Szenarien |
 
-| SZENARIEN |
-|---|
-| Szenario 1 |
-| Es wird eine Folgedokumentation |
-| Szenario 2 |
-| Bitte verwenden Sie für dieses Szenario die Daten aus Prüffall 7211.    1. a) b) c) , Anforderung  2. a) b) c) |
-|  |
-| 7230  (KBV_ITA_VGEX_Anforderungskatalog_eDMP |
-|  |
-| Aktionen, die durch den Antragsteller durchgeführt werden: |
+\| **SZENARIEN** |
+\|---|
+\| **Szenario 1** |
+\| Es wird eine Folgedokumentation |
+\| **Szenario 2** |
+\| Bitte verwenden Sie für dieses Szenario die Daten aus Prüffall 7211.    1. a) b) c) , Anforderung  2. a) b) c) |
+\|  |
+\| 7230  (KBV_ITA_VGEX_Anforderungskatalog_eDMP |
+\|  |
+\| **Aktionen, die durch den Antragsteller durchgeführt werden:** |
 
 Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP s die Eingaben einschließlich der Ergebnisse nach einer möglichen Hinweissteuerung.  angelegt. Zeigen Sie, wie das System die Datenübernahme „Aktuelle DMARD-Therapie“ mit weiteren Anamnese - und Befunddaten aus einer vorherigen Dokumentation, gemäß Anforderung P1-50  (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP vornimmt. Es wird eine Erstdokumentation angelegt. Zeigen Sie, dass der Anwender  vor der Erstellung einer Erstdokumentation für das eDMP rheumatoide Arthritis die Bestimmung des Disease Activity Scores 28 (DAS Anforderung KP2-20  genannten Parameter durchgeführt haben muss. Dokumentieren Sie auch die Fehler- und Hinweismeldungen des Systems. Zeigen Sie auch, dass das System aus diesen Parameterwerten den DAS berechnet, anzeigt sowie in die Dokumentation übernimmt (siehe auch Zeigen Sie, dass das System dem Anwender einen Hinweistext nach der Erfassung des Parameters „Aktuelle Krankheitsaktivität – DAS-28-Wert“ anzeigt. Dies muss erfolgen, ohne dass der Workflow unterbrochen wird (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP Akzeptanzkriterium 1 Es wird eine Folgedokumentation angelegt. Zeigen Sie, dass der Anwender vor der Erstellung einer Folgedokumentation für das eDMP rheumatoide Arthritis die Bestimmung des Disease Activity Scores 28 (DAS Anforderung KP2-20  genannten Parameter durchgeführt haben muss. Dokumentieren Sie auch die Fehler- und Hinweismeldungen des Systems. Zeigen Sie auch, dass das System aus diesen Parameterwerten den DAS berechnet, anzeigt sowie in die Dokumentation übernimmt (siehe auch Zeigen Sie, dass das System dem Anwender nach der Erfassung des Parameters „Aktuelle Krankheitsaktivität – DAS-28-Wert“ -28) mittels aller vier in -28-Score automatisch Anforderung KP2-30 KP2-01, -28) mittels aller vier in -28-Score automatisch Anforderung KP2-30
 
 ---
 
-|  |
-|---|
-|  |
-|  |
-|  |
-|  |
-| SZENARIEN |
-| KBV_ITA_VGEX_Anforderungskatalog_eDMP, Anforderung    KBV_ITA_VGEX_Anforderungskatalog_eDMP, Anforderung |
-| Szenario 3 |
-| Zeigen Sie, dass das System dem Anwender den Ausdruck des Disease Activity Score (DAS gemäß  KBV_ITA_VGEX_Anforderungskatalog_eDMP).  Zeigen Sie auch, dass der Anwender die vier Parameter mit den Daten aus dem Prüffall |
+\|  |
+\|---|
+\|  |
+\|  |
+\|  |
+\|  |
+\| **SZENARIEN** |
+\| KBV_ITA_VGEX_Anforderungskatalog_eDMP, Anforderung    KBV_ITA_VGEX_Anforderungskatalog_eDMP, Anforderung |
+\| **Szenario 3** |
+\| Zeigen Sie, dass das System dem Anwender den Ausdruck des Disease Activity Score (DAS gemäß  KBV_ITA_VGEX_Anforderungskatalog_eDMP).  Zeigen Sie auch, dass der Anwender die vier Parameter mit den Daten aus dem Prüffall |
 
 die Differenz zum Wert dieses Parameters aus der vorhergehenden verfügbaren anzeigt. Dies muss erfolgen, ohne dass der Workflow unterbrochen wird (siehe einen Hinweistext anzeigt. Dies muss erfolgen, ohne dass der Workflow unterbrochen wird (siehe KP2-10  ermöglicht (siehe Berechnung des DAS-28-Scores eintragen kann. KP2-01, Akzeptanzkriterium 2 KP2-01, Akzeptanzkriterium 3 -28)  7212  zur
 
@@ -1001,11 +1001,11 @@ die Differenz zum Wert dieses Parameters aus der vorhergehenden verfügbaren anz
 
 |  | |
 |---|---|
-| Prüffall-ID | 7240 |
-| Testziel | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
-| Voraussetzung |  |
-| Prüfunterlagen | PDF-Datei „TE_EWE_RA.pdf“ der indikationsübergreifenden Teilnahme- und |
-| Hinweis | Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der |
+| **Prüffall-ID** | 7240 |
+| **Testziel** | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | PDF-Datei „TE_EWE_RA.pdf“ der indikationsübergreifenden Teilnahme- und |
+| **Hinweis** | Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -1019,7 +1019,7 @@ Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 
 |  |  |
 |---|---|
-| Administrative Daten |  |
+| **Administrative Daten** |  |
 | DMP | Rheumatoide Arthritis |
 | DMP-Fallnummer | 1010 |
 | Datum | 15.08.2025  15.10.2026 |
@@ -1053,28 +1053,28 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 **4.1** **PRÜFFALL 10 – ERSATZVERFAHREN**
 
-| PERSONALIEN | | |
+| **PERSONALIEN** | | |
 |---|---|---|
-| 3100 | Namenszusatz |  |
-| 3120 | Vorsatzwort |  |
-| 3101 | Name | Aufgelöst |
-| 3102 | Vorname | Helga |
-| 3103 | Geburtsdatum | 29.05.1982 |
-| 3104 | Titel |  |
-| 3119 | Versicherten_ID | A290582778 |
-| 3107 | Straße | Marktstraße |
-| 3109 | Hausnummer | 45 |
-| 3112 | PLZ | 30159 |
-| 3114 | Wohnsitzländercode |  |
-| 3113 | Ort | Hannover |
-| 3116 | WOP | 17 |
-| 3108 | Versichertenart | 1 |
-| 3110 | Geschlecht | W |
-| 4133 | Versicherungsschutz Beginn |  |
-| 4110 | Versicherungsschutz Ende |  |
-| 4111 | Kostentraegerkennung | 109719018 |
-| 4131 | BesonderePersonengruppe | 00 |
-| 4132 | DMP_Kennzeichnung | 08 |
+| **3100** | **Namenszusatz** |  |
+| **3120** | **Vorsatzwort** |  |
+| **3101** | **Name** | Aufgelöst |
+| **3102** | **Vorname** | Helga |
+| **3103** | **Geburtsdatum** | 29.05.1982 |
+| **3104** | **Titel** |  |
+| **3119** | **Versicherten_ID** | A290582778 |
+| **3107** | **Straße** | Marktstraße |
+| **3109** | **Hausnummer** | 45 |
+| **3112** | **PLZ** | 30159 |
+| **3114** | **Wohnsitzländercode** |  |
+| **3113** | **Ort** | Hannover |
+| **3116** | **WOP** | 17 |
+| **3108** | **Versichertenart** | 1 |
+| **3110** | **Geschlecht** | W |
+| **4133** | **Versicherungsschutz Beginn** |  |
+| **4110** | **Versicherungsschutz Ende** |  |
+| **4111** | **Kostentraegerkennung** | 109719018 |
+| **4131** | **BesonderePersonengruppe** | 00 |
+| **4132** | **DMP_Kennzeichnung** | 08 |
 
 
 ---
@@ -1083,7 +1083,7 @@ REFERENZIERTE DOKUMENTE
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 | KBV_ITA_VGEX_Anforderungskatalog_eDMP | Anforderungskatalog eDMP |
 | KBV_ITA_VHEX_DAS-Wert-Fragebogen | DAS-28-Wert Fragebogen |
 | EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend | Plausibilitätsrichtlinie zur Prüfung der |
@@ -1111,12 +1111,14 @@ Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes daten
 
 ---
 
-**Ansprechpartner:**
+| **Ansprechpartner:** |  |
+|---|---|
+| Dezernat | Digitalisierung und IT |
+| IT in der | Arztpraxis |
+| Tel.: 030 | 4005-2077, pruefstelle@kbv.de |
+| Kassenärztliche | Bundesvereinigung |
+| Herbert-Lewin-Platz | 2, 10623 Berlin |
+| pruefstelle@kbv.de, | www.kbv.de |
+| Seite 30 von | 30 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.04 / 31. März 2026 |
 
-Dezernat Digitalisierung und IT
-
-IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
-
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
-
-/ Version: 1.04 / 31. März 2026
+Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, pruefstelle@kbv.de Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin   /  Version: 1.04  /  31. März 2026

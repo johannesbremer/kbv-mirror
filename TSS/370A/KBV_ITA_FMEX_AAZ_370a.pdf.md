@@ -35,19 +35,19 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 |  |  | | |
 |---|---|---|---|
-| Name des Antragsstellers  [bei juristischen Personen ist die |  | | |
-| Geschäftsbereich [falls vorhanden] |  | | |
-| Straße und Hausnummer |  | | |
-| PLZ, Ort |  | | |
-| Telefonnummer |  | | |
-| E-Mail-Adresse |  | | |
-| Webseite |  | | |
-| Der Antragssteller ist | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
-| Systempfleger  [nur anzugeben, wenn der |  | | |
-| Straße und Hausnummer |  | | |
-| PLZ, Ort |  | | |
-| Telefonnummer |  | | |
-| E-Mail-Adresse |  | | |
+| **Name des Antragsstellers  [bei juristischen Personen ist die** |  | | |
+| **Geschäftsbereich [falls vorhanden]** |  | | |
+| **Straße und Hausnummer** |  | | |
+| **PLZ, Ort** |  | | |
+| **Telefonnummer** |  | | |
+| **E-Mail-Adresse** |  | | |
+| **Webseite** |  | | |
+| **Der Antragssteller ist** | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
+| **Systempfleger  [nur anzugeben, wenn der** |  | | |
+| **Straße und Hausnummer** |  | | |
+| **PLZ, Ort** |  | | |
+| **Telefonnummer** |  | | |
+| **E-Mail-Adresse** |  | | |
 
 / Version: 1.3 / 15. April 2026
 
@@ -63,10 +63,10 @@ Nur anzugeben, wenn abweichend von Abschnitt 1.1.
 
 |  |  |
 |---|---|
-| Bestell- bzw. Auftragsnummer des |  |
-| Name |  |
-| Straße und Hausnummer |  |
-| PLZ, Ort |  |
+| **Bestell- bzw. Auftragsnummer des** |  |
+| **Name** |  |
+| **Straße und Hausnummer** |  |
+| **PLZ, Ort** |  |
 
 ## 1.3 ZERTIFIZIERUNGSGEGENSTAND
 
@@ -74,8 +74,8 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizie
 
 |  |  |
 |---|---|
-| Bezeichnung (Name der Software) |  |
-| Identnummer [die letzten drei |  |
+| **Bezeichnung (Name der Software)** |  |
+| **Identnummer [die letzten drei** |  |
 
 / Version: 1.3 / 15. April 2026
 
@@ -84,8 +84,8 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden]
 
 ---
 
-|  | BEZEICHNUNG DER OPTIONALEN ERWEITERUNG |
-| 2 2.1 |  |
+\|  | **BEZEICHNUNG DER OPTIONALEN ERWEITERUNG** |
+| 2**2.1** |  |
 |---|---|
 | ☐ | Videosprechstundenterminslots abrufen (Video Consultation Slot Search) - Suchparameter |
 | ☐ | Videosprechstundenterminslots abrufen (Video Consultation Slot Search) - Suchparameter |
@@ -114,8 +114,8 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden]
 
 ---
 
-|  |  |
-|  | BEZEICHNUNG DER OPTIONALEN ERWEITERUNG |
+\|  |  |
+|  | **BEZEICHNUNG DER OPTIONALEN ERWEITERUNG** |
 |---|---|
 |  |  |
 |  |  |
@@ -135,7 +135,7 @@ Folgende optionale Erweiterungen wurden zur Funktion
 
 [ ]
 
-|  | BEZEICHNUNG DER OPTIONALEN ERWEITERUNG |
+|  | **BEZEICHNUNG DER OPTIONALEN ERWEITERUNG** |
 |---|---|
 | ☐ | Präsenztermine abrufen (Attendance Appointment Slot Search |
 | ☐ | Präsenztermine abrufen (Attendance Appointment Slot Search |
@@ -208,7 +208,7 @@ Ansprechpartner(in): Produktmanagement
 
 - (5) Weitere Gebühren und Auslagen insbesondere im Zusammenhang mit der produktiven Nutzung  der Schnittstelle ergeben sich ebenfalls aus der o.g. Gebührenverordnung Antragssteller zu begleichen.
 
-| THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART | KOSTEN IN € |
+| **THEMA** | **ZERTIFIZIERUNGSART** | **PRÜFUNGSART** | **KOSTEN IN €** |
 |---|---|---|---|
 | SST 370A ABS2 | zum Zertifizierungsportal |  | 34,00 |
 |  | Neu-, Re- und  einschließlich der  automatischen | Ergebnisprüfung | 1.222,10 |

@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  13. MAI 2026   VERSION: 1.5   DOKUMENTENSTATUS: |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  13. MAI 2026   VERSION: 1.5   DOKUMENTENSTATUS:** |
 |---|---|
 
 # PRÜFPAKET SCHNITTSTELLE FÜR DRITTE  GEMÄß § 370A ABS. 2 SGB V
@@ -22,11 +22,11 @@ BUNDESVEREINIGUNG  IT IN DER ARZTPRAXIS IN KRAFT
 
 **4**
 
-| **2** |  | **PRÜFVORGABEN** | **5** |
-|---|---|---|---|
-| 2.1 |  | Prüfunterlagen | 5 |
-| 2.2 |  | Zertifizierungsablauf | 5 |
-|  | 2.2.1 | Zertifizierungsportal | 5 |
+| **2** | **PRÜFVORGABEN** | **5** |
+|---|---|---|
+| 2.1 | Prüfunterlagen | 5 |
+| 2.2 | Zertifizierungsablauf | 5 |
+|  | 2.2.1 Zertifizierungsportal | 5 |
 
 **3** **PRÜFFÄLLE**
 
@@ -49,7 +49,7 @@ BUNDESVEREINIGUNG  IT IN DER ARZTPRAXIS IN KRAFT
 
 DOKUMENTENHISTORIE
 
-| VERSION | DATUM | AUTOR | ÄNDERUNG | BEGRÜNDUNG | SEITE |
+| **VERSION** | **DATUM** | **AUTOR** | **ÄNDERUNG** | **BEGRÜNDUNG** | **SEITE** |
 |---|---|---|---|---|---|
 | 1.5 | 13.05.2026 | KBV | Anpassung des |  | 7 |
 | 1.4 | 15 | KBV | Ergänzung Prüffall 03  Anpassung des |  | 7      7 |

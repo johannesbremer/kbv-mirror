@@ -1,8 +1,8 @@
-|  | IT in der Arztpraxis |
+|  | ***IT in der Arztpraxis*** |
 |---|---|
 |  | Anforderungskatalog zur Quali- |
 |  | [KBV_ITA_VGEX_Anforderung_ QS_Zervix- |
-|  |  |
+|  | ** |
 |  | Dezernat |
 |  |  |
 |  | 10623 Berlin, Herbert |
@@ -20,7 +20,7 @@ tätssicherung Zervix-Zytologie Zytologie] Digitalisierung und IT -Lewin-Platz 2
 
 ### Die Änderungen vom 09.08.2012 treten zum 01.10.2012 in Kraft.
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.03 | 09.08.2012 | KBV | Red. Änderungen |  |  |
 
@@ -104,17 +104,17 @@ Die in diesem Dokument beschriebenen Funktionen werden durchnummeriert. Dabei fo
 
 Pflichtfunktionen sind wie folgt gekennzeichnet:
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P4-10 | Funktionsbezeichnung |
+| **P4-10** | **Funktionsbezeichnung** |
 
 Ident-Nummer einer Pflichtfunktion Ident-Nummer einer älteren Versi- on
 
 Optionale Funktionen sind wie folgt gekennzeichnet:
 
-| Optionale FUNKTION | |
+| **Optionale FUNKTION** | |
 |---|---|
-| K8-30 | Funktionsbezeichnung                                                                            (2-80) |
+| **K8-30** | **Funktionsbezeichnung                                                                            (2-80)** |
 
 Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Versi- on
 
@@ -130,9 +130,9 @@ itätssicherung Zervix-Zytologie
 
 **2.1.1 Vollständigkeit der Eingaben aller Bewegungsdaten**
 
-| PFLICHTFUNKTION QS Zervix-Zyto | |
+| **PFLICHTFUNKTION QS Zervix-Zyto** | |
 |---|---|
-| P1-10 | Vollständigkeit der Eingaben aller Bewegungsdaten |
+| **P1-10** | **Vollständigkeit der Eingaben aller Bewegungsdaten** |
 
 Die Bedieneroberfläche der Software muss eine lückenlose und korrekte Eingabe aller rele- vanten Bewegungsdaten bzgl. der zervix-zytologischen Jahresstatistik ermöglichen.
 
@@ -140,9 +140,9 @@ Die in der Schnittstellenbeschreibung QS Zervix-Zytologie  [KBV_ITA_VGEX_Schnitt
 
 vollständig erfassbar sein.
 
-| PFLICHTFUNKTION QS Zervix-Zyto | |
+| **PFLICHTFUNKTION QS Zervix-Zyto** | |
 |---|---|
-| P1-20 | Berichtszeiträume |
+| **P1-20** | **Berichtszeiträume** |
 
 - 1. Die Ausgangsbefunde werden vom 01.01-31.12 des Berichtsjahres erfasst.
 
@@ -150,23 +150,23 @@ vollständig erfassbar sein.
 
 **2.1.2 Ausgangsbefunde**
 
-| PFLICHTFUNKTION QS Zervix-Zyto | |
+| **PFLICHTFUNKTION QS Zervix-Zyto** | |
 |---|---|
-| P1-30 | Ausgangsbefunde |
+| **P1-30** | **Ausgangsbefunde** |
 
 Liegen mehrere Ausgangsbefunde (mit verschiedenen Befundgruppen) einer Frau für den  Zeitraum (01.01-31.12) vor, entscheidet der zytologisch verantwortliche Arzt, welcher Befund  aus diesem Zeitraum als maßgeblich anzusehen und einzutragen ist.
 
-| PFLICHTFUNKTION QS Zervix-Zyto | |
+| **PFLICHTFUNKTION QS Zervix-Zyto** | |
 |---|---|
-| P1-40 | Gesamtanzahl der untersuchten Frauen = Anzahl der Ausgangsbefunde |
+| **P1-40** | **Gesamtanzahl der untersuchten Frauen = Anzahl der Ausgangsbefunde** |
 
 Die Gesamtanzahl der untersuchten Frauen ist gleich der Anzahl der Ausgangsbefunde.
 
 **2.1.3 Präparate**
 
-| PFLICHTFUNKTION QS Zervix-Zyto | |
+| **PFLICHTFUNKTION QS Zervix-Zyto** | |
 |---|---|
-| P1-45 | Gesamtanzahl der untersuchten Präparate |
+| **P1-45** | **Gesamtanzahl der untersuchten Präparate** |
 
 Die Gesamtzahl der untersuchten Präparate ist größer als die Summe der Anzahl der nicht  verwertbaren Präparate und der Anzahl der untersuchten Frauen. Unabhängig von den nicht  verwertbaren Präparaten kann pro Frau mehr als ein untersuchtes Präparat existieren (zum  Beispiel bei einer verkürzten Nachbeobachtungszeit eines auffälligen Befundes).
 
@@ -177,17 +177,17 @@ itätssicherung Zervix-Zytologie
 
 **2.1.4 Praxisbesonderheiten**
 
-| PFLICHTFUNKTION QS Zervix-Zyto | |
+| **PFLICHTFUNKTION QS Zervix-Zyto** | |
 |---|---|
-| P1-50 | Praxisbesonderheit |
+| **P1-50** | **Praxisbesonderheit** |
 
 Wenn Praxisbesonderheiten vorliegen, welche die Befundgruppenverteilung beeinflussen  können, sind diese zu nennen, ansonsten ist kein Eintrag erforderlich.
 
 **2.1.5 Speichern und Archivieren von Dokumentationsdaten**
 
-| PFLICHTFUNKTION QS Zervix-Zyto | |
+| **PFLICHTFUNKTION QS Zervix-Zyto** | |
 |---|---|
-| P1-60 | Speichern der Jahresstatistik |
+| **P1-60** | **Speichern der Jahresstatistik** |
 
 Das System muss sicherstellen, dass der Anwender die Jahresstatistik speichern kann. Ein  späterer Abruf dieser Jahresstatistik zur nachträglichen Bearbeitung muss dem Anwender  ermöglicht werden.
 
@@ -195,17 +195,17 @@ Das System muss sicherstellen, dass der Anwender die Jahresstatistik speichern k
 
 ### 2.2.1 Übermittelung
 
-| PFLICHTFUNKTION QS Zervix-Zyto | |
+| **PFLICHTFUNKTION QS Zervix-Zyto** | |
 |---|---|
-| P2-10 | Übermittlung an KV |
+| **P2-10** | **Übermittlung an KV** |
 
 Die Jahresstatistik ist ab 01.07 des Folgejahres an die Kassenärztliche Vereinigung (KV) zu  übermitteln.
 
 **2.2.2 Export der Daten**
 
-| PFLICHTFUNKTION QS Zervix-Zyto | |
+| **PFLICHTFUNKTION QS Zervix-Zyto** | |
 |---|---|
-| P2-15 | Korrekter Datenexport |
+| **P2-15** | **Korrekter Datenexport** |
 
 Das System muss,
 
@@ -217,9 +217,9 @@ Das System muss,
 
 **2.2.3 Verschlüsseln der Daten**
 
-| PFLICHTFUNKTION QS Zervix-Zyto | |
+| **PFLICHTFUNKTION QS Zervix-Zyto** | |
 |---|---|
-| P2-20 | Einsatz Kryptomodul (XKM) |
+| **P2-20** | **Einsatz Kryptomodul (XKM)** |
 
 Vor Fertigstellung des vom Anwender einzureichenden Datenträgers ist das Dokumentations- archiv in Ihrer Gesamtheit mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen  Schlüssels zur QS-Zyto-Zervix-Datenverschlüsselung (Oeffentlich_QSZZ_Vxy.key) zu ver- schlüsseln. Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM  nicht relevant. Es muss bei allen Datenübertragungen eingesetzt werden. Für nähere Erläute- rungen zur Funktion und Anwendung des XKM ist in [KBV_ITA_AHEX_Handbuch_XKM]  nachzulesen.
 
@@ -232,15 +232,15 @@ itätssicherung Zervix-Zytologie
 
 Werden Datenträger zur Datenübermittlung der Dokumentationsdaten eingesetzt, so sind die  Anforderungen P2-25 und P2-26 einzuhalten.
 
-| PFLICHTFUNKTION QS Zervix-Zyto | |
+| **PFLICHTFUNKTION QS Zervix-Zyto** | |
 |---|---|
-| P2-25 | Beschriftung der eingesetzten Datenträger |
+| **P2-25** | **Beschriftung der eingesetzten Datenträger** |
 
 Das System muss den Anwender darauf hinweisen, dass die eingesetzten Datenträger ge- mäß den Beschreibungen im Kapitel „Beschriftung der Datenträger“ in  [KBV_ITA_VGEX_XML-Schnittstellen] beschriftet werden müssen. Eine Funktion zur Be- druckung entsprechender Aufkleber (oder der direkten Labelbeschriftung) kann angeboten  werden.
 
-| PFLICHTFUNKTION QS Zervix-Zyto | |
+| **PFLICHTFUNKTION QS Zervix-Zyto** | |
 |---|---|
-| P2-30 | Erstellung Transportbegleitzettel |
+| **P2-30** | **Erstellung Transportbegleitzettel** |
 
 - 1. Das System muss nach Export der Daten und Aufbereitung für den Versand (Beschreiben  von Disketten oder CDs) einen Transportbegleitzettel nach den Beschreibungen im Kapitel  „Transportbegleitzettel“ in [KBV_ITA_VGEX_XML-Schnittstellen] erstellen.
 
@@ -249,16 +249,14 @@ Das System muss den Anwender darauf hinweisen, dass die eingesetzten Datenträge
 
 ---
 
-itätssicherung Zervix
-
 # 3 Referenzierte Dokumente
 
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 |---|---|
 | [KBV_ITA_VGEX_XML-Schnittstellen] | Austausch von XML-Daten in der vertragsärztlichen |
 | [KBV_ITA_VGEX_Schnittstelle_ QS_Zervix- | Schnittstellenbeschreibung Qualitätssicherung Zer- |
 | [KBV_ITA_AHEX_Handbuch_XKM] | XKM Anwenderhandbuch |
 
--Zytologie
+itätssicherung Zervix-Zytologie
 
 Zytologie] Versorgung vix-Zytologie

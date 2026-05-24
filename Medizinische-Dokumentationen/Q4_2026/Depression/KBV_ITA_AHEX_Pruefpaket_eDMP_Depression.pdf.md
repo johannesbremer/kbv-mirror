@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  31. MÄRZ 2026   VERSION: 1.04   DOKUMENTENSTATUS: IN |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  31. MÄRZ 2026   VERSION: 1.04   DOKUMENTENSTATUS: IN** |
 |---|---|
 
 # PRÜFPAKET EDMP-DEPRESSION
@@ -140,13 +140,13 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS KRAFT
 
 ---
 
-|  |  | ABBILDUNGSVERZEICHNIS | | |  |  |
-|---|---|---|---|---|---|---|
-| Abbildung | 1: | Exemplarische | | Verzeichnisstruktur | für die | Zertifizierung |
-| Abbildung | 2: | Exemplarische | Struktur | der | **Archivdatei** | mit den Prüfunterlagen |
-| Abbildung | 3: |  | Testdatenvalidierung |  |  |  |
-| Abbildung | 4: | Exemplarische |  | Verzeichnisstruktur | für die | Testdatenvalidierung |
-| Seite 3 | von 34 / KBV | / Prüfpaket | eDMP-Depression | / Version: | 1.04 / 31. | März 2026 |
+|  |  | ABBILDUNGSVERZEICHNIS |  |
+|---|---|---|---|
+| Abbildung | 1: | Exemplarische Verzeichnisstruktur | für die Zertifizierung |
+| Abbildung | 2: | Exemplarische Struktur der | **Archivdatei** mit den Prüfunterlagen |
+| Abbildung | 3: | Testdatenvalidierung |  |
+| Abbildung | 4: | Exemplarische Verzeichnisstruktur | für die Testdatenvalidierung |
+| Seite 3 | von 34 / KBV / | Prüfpaket eDMP-Depression / | Version: 1.04 / 31. März 2026 |
 
 7
 
@@ -162,7 +162,7 @@ Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.04 | 31.03.2026 | KBV | Anpassung der Prüffälle    Anpassung Prüffall 6240 | Schnittstellenversion    Änderung der | 8 , 12          27 |
 | 1.03 | 15.08.2023 | KBV | Datumsanpassungen der  Anpassung der | Datumsanpassungen | 12 |
@@ -381,28 +381,28 @@ Dateien sind folgendermaßen aufgebaut:
 
 - EF.PD = persönliche Versichertendaten
 
-| BEZEICHNUNG | INHALT |
+| **BEZEICHNUNG** | **INHALT** |
 |---|---|
-| Krankenhaus-IK | 856215715 |
-| Name des Krankenhauses | Test-Krankenhaus, Pneumologie |
-| Straße | Am Wehr |
-| Hausnummer | 20 |
-| Postleitzahl und Ort | 10437 Berlin |
-| Telefon | 06151 / 1111111 |
+| **Krankenhaus-IK** | 856215715 |
+| **Name des Krankenhauses** | Test-Krankenhaus, Pneumologie |
+| **Straße** | Am Wehr |
+| **Hausnummer** | 20 |
+| **Postleitzahl und Ort** | 10437 Berlin |
+| **Telefon** | 06151 / 1111111 |
 | Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der Begleitdatei als Absender bzw. |  |
 |  | › |
 
-| BEZEICHNUNG | INHALT |
+| **BEZEICHNUNG** | **INHALT** |
 |---|---|
-| Betriebsstättennummer (BSNR) | 391234511 |
-| BSNR-Bezeichnung | Praxis Dr. med. Heribert Topp-Glücklich |
-| Lebenslange Arztnummer (LANR) | 838382202 |
-| Arztname | Dr. med. Hans Topp-Glücklich |
-| Straße | Musterstr. |
-| Hausnummer | 1 |
-| PLZ/Ort | 64283 Darmstadt |
-| Telefon | 06151 / 1111111 |
-| Telefax | 06151 / 2222222 |
+| **Betriebsstättennummer (BSNR)** | 391234511 |
+| **BSNR-Bezeichnung** | Praxis Dr. med. Heribert Topp-Glücklich |
+| **Lebenslange Arztnummer (LANR)** | 838382202 |
+| **Arztname** | Dr. med. Hans Topp-Glücklich |
+| **Straße** | Musterstr. |
+| **Hausnummer** | 1 |
+| **PLZ/Ort** | 64283 Darmstadt |
+| **Telefon** | 06151 / 1111111 |
+| **Telefax** | 06151 / 2222222 |
 
 EF.GVD =  geschützte Versichertendaten 1.6.5 Praxisdaten/ Arztstempel Folgende Angaben sind für die Zertifizierung zu verwenden: 1.6.6 Krankenhausdaten dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. Für die Angabe des dokumen - tierenden Arztes, der auch hier genannt werden muss, ist der oben genannte Arztname zu verwenden. Herr Topp-Glücklich ist also für die „Krankenhausfälle“ Angestellter des Krankenhauses und betreut den Patienten im DMP. Es soll hier seine Telefonnummer angegeben werden. Die Vertragsarztnummer spielt hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind demzufolge zwei Absender (Kranken - haus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete und zwei Begleitdateien einzu - reichen.
 
@@ -416,8 +416,8 @@ EF.GVD =  geschützte Versichertendaten 1.6.5 Praxisdaten/ Arztstempel Folgende 
 |  |  |
 |  |  |
 |  |  |
-| BEZEICHNUNG | INHALT |
-| Telefax | 06151 / 2222222 |
+| **BEZEICHNUNG** | **INHALT** |
+| **Telefax** | 06151 / 2222222 |
 
 ### 1.6.7 Prüfnummer
 
@@ -433,13 +433,13 @@ Der Empfänger der elektronischen Dokumentationen muss, soweit möglich, automat
 
 Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
-| PRÜFFALL-ID | NAME | VERZEICHNISNAME |
+| **PRÜFFALL-ID** | **NAME** | **VERZEICHNISNAME** |
 |---|---|---|
-| 6211 | Katarina Maier | XML_12 |
-| 6212 | Peter Pan | XML_13 |
-| 6240 | Lija Malta | XML_36 |
-| TDV6218 | Brigitte Althaus | XML_05 |
-| 6220 | Helga Aufgelöst | Ersatzverfahren (s. Anhang 4.1) |
+| **6211** | Katarina Maier | XML_12 |
+| **6212** | Peter Pan | XML_13 |
+| **6240** | Lija Malta | XML_36 |
+| **TDV6218** | Brigitte Althaus | XML_05 |
+| **6220** | Helga Aufgelöst | Ersatzverfahren (s. Anhang 4.1) |
 
 
 ---
@@ -452,20 +452,20 @@ Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
 |  |  |
 |---|---|
-| Prüffall-ID | 6211 |
-| Testziel | Anlage einer Erst- und einer Verlaufsdokumentation |
-| Voraussetzung |  |
-| Prüfunterlagen | 1. DMP Depression Dokumentationsunterlagen |
-| Hinweis |  |
+| **Prüffall-ID** | 6211 |
+| **Testziel** | Anlage einer Erst- und einer Verlaufsdokumentation |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | 1. DMP Depression Dokumentationsunterlagen |
+| **Hinweis** |  |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
 - **1.**
 
-| PHQ-9-Fragebogen |  | |
+| **PHQ-9-Fragebogen** |  | |
 |---|---|---|
-|  | Erstdokumentation | Verlaufsdokumentation |
-| Wie oft fühlten Sie sich im Verlauf der  letzten 2 Wochen durch die folgenden  Beschwerden beeinträchtigt? |  |  |
+|  | **Erstdokumentation** | **Verlaufsdokumentation** |
+| **Wie oft fühlten Sie sich im Verlauf der  letzten 2 Wochen durch die folgenden  Beschwerden beeinträchtigt?** |  |  |
 | a. | Beinahe jeden Tag | Beinahe jeden Tag |
 | b. Niedergeschlagenheit, Schwermut oder | Beinahe jeden Tag | An mehr als der Hälfte der |
 | c. | An mehr als der Hälfte der | Beinahe jeden Tag |
@@ -496,36 +496,36 @@ Versichertendaten Die Versichertendaten von Katarina Maier (XML_12) einlesen und
 |  |  |  |
 | Ernährungsberatung |  |  |
 | Quartalsweise |  |  |
-| PHQ-9-Fragebogen |  | |
+| **PHQ-9-Fragebogen** |  | |
 | anderen auffallen würde? Oder waren | | |
 | i. Gedanken, dass Sie lieber tot wären | Beinahe jeden Tag | An mehr als der Hälfte der |
 
 - **3.**
 
-| INDIKATIONSÜBERGREIFENDE | | |
+| **INDIKATIONSÜBERGREIFENDE** | | |
 |---|---|---|
-|  | Erstdokumentation | Verlaufsdokumentation |
-| Administrative Daten | | |
+|  | **Erstdokumentation** | **Verlaufsdokumentation** |
+| **Administrative Daten** | | |
 | DMP-Fallnummer | 6211 | 6211 |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum | 06.10.2023  15.mm.jjjj | 06.12.2023  15.mm.jjjj |
 | Einschreibung wegen | Depression | Depression |
 | Geschlecht | Weiblich | Weiblich |
-| Allgemeine Anamnese- und Befunddaten | | |
+| **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 1,53 m | 1,53 m |
 | Körpergewicht | 46 kg | 56 kg |
 | Blutdruck (systolisch / diastolisch) | 50 / 30 mmHg | 120 / 90 mmHg |
 | Raucher | Nein | Ja |
 | Begleiterkrankungen | Diabetes mellitus | Diabetes mellitus |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Vom Patienten gewünschte | Ernährungsberatung | Tabakverzicht |
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung | 06.10.2023 | 06.12.2023 |
 
-| INDIKATIONSPEZIFISCHE | | |
+| **INDIKATIONSPEZIFISCHE** | | |
 |---|---|---|
-| Anamnese- und Befunddaten | Erstdokumentation | Verlaufsdokumentation |
+| **Anamnese- und Befunddaten** | **Erstdokumentation** | **Verlaufsdokumentation** |
 | Aktuelle Symptomatik – PHQ-9 Summenwert | Ergebnis von Punkt 2 | Ergebnis von Punkt 2 |
 | Schweregrad zu Beginn der aktuellen depressiven | Schwer | Schwer |
 |  |  |  |
@@ -549,11 +549,11 @@ Sie im Gegenteil „zappelig“ oder ruhelos und hatten dadurch einen stärkeren
 |  |  |  |
 | Dauer der aktuellen depressiven Episode | Mehr als zwei Jahre | Mehr als zwei Jahre |
 | Suizidalität eingeschätzt | Ja | Ja |
-| Nicht-medikamentöse und medikamentöse Behandlung | | |
+| **Nicht-medikamentöse und medikamentöse Behandlung** | | |
 | Aktuelle Psychotherapie | Ja | Ja |
 | Aktuelle medikamentöse Therapie mit | Aktuell andauernd, seit | Aktuell andauernd, |
-| Schulung | | |
-| Bereits vor Einschreibung in das DMP an einer | Nein |  |
+| **Schulung** | | |
+| Bereits vor Einschreibung in das DMP an einer | Nein | ** |
 | Depressionsspezifische Schulung empfohlen (bei | Ja | Ja |
 | Depressionsspezifische Schulung wahrgenommen |  | War aktuell nicht möglich |
 
@@ -565,11 +565,11 @@ Antidepressiva  depressionsspezifischen Schulung teilgenommen aktueller Dokument
 
 |  |  |
 |---|---|
-| Prüffall-ID | 6212 |
-| Testziel | Anlage einer Erst- und einer Verlaufsdokumentation |
-| Voraussetzung |  |
-| Prüfunterlagen | 1. DMP Depression Dokumentationsunterlagen |
-| Hinweis | Bei der Erfassung des Prüffalls soll Prüffall 6230, Szenario 1 erfasst werden. |
+| **Prüffall-ID** | 6212 |
+| **Testziel** | Anlage einer Erst- und einer Verlaufsdokumentation |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | 1. DMP Depression Dokumentationsunterlagen |
+| **Hinweis** | Bei der Erfassung des Prüffalls soll Prüffall 6230, Szenario 1 erfasst werden. |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -581,10 +581,10 @@ Die Versichertendaten von Peter Pan (XML_13) einlesen und speichern.
 
 Jeweils für die Erst- und Folgedokumentation die Antworten auf die Fragen des PHQ-9 erfassen und  den Summenscore berechnen.
 
-| PHQ-9-Fragebogen |  | |
+| **PHQ-9-Fragebogen** |  | |
 |---|---|---|
-|  | Erstdokumentation | Verlaufsdokumentation |
-| Wie oft fühlten Sie sich im Verlauf der letzten 2  Wochen durch die folgenden Beschwerden  beeinträchtigt? |  |  |
+|  | **Erstdokumentation** | **Verlaufsdokumentation** |
+| **Wie oft fühlten Sie sich im Verlauf der letzten 2  Wochen durch die folgenden Beschwerden  beeinträchtigt?** |  |  |
 | a. | An mehr als der Hälfte | An einzelnen Tagen (1) |
 | b. Niedergeschlagenheit, Schwermut oder | An mehr als der Hälfte | An einzelnen Tagen (1) |
 | c. | An mehr als der Hälfte | An einzelnen Tagen (1) |
@@ -614,20 +614,20 @@ Wenig Interesse oder Freude an Ihren Tätigkeiten Hoffnungslosigkeit. Schwierigk
 | Vom Patienten gewünschte | Ernährungsberatung | Ernährungsberatung |
 | Dokumentationsintervall | Quartalsweise | Quartalsweise |
 | Datum der Erstellung |  |  |
-| PHQ-9-Fragebogen |  | |
+| **PHQ-9-Fragebogen** |  | |
 | Leid zufügen möchten | | |
 
 - **3.**
 
-| INDIKATIONS | | |
+| **INDIKATIONS** | | |
 |---|---|---|
-|  | Erstdokumentation | Verlaufsdokumentation |
-| Anamnese- und Befunddaten | | |
+|  | **Erstdokumentation** | **Verlaufsdokumentation** |
+| **Anamnese- und Befunddaten** | | |
 | Aktuelle Symptomatik – PHQ-9 Summenwert | Ergebnis von Punkt 2 | Ergebnis von Punkt 2 |
 | Schweregrad zu Beginn der aktuellen depressiven | Schwer | Leicht |
 | Dauer der aktuellen depressiven Episode | Weniger als zwei Jahre | Weniger als zwei Jahre |
 | Suizidalität eingeschätzt | Nein | Nein |
-| Nicht-medikamentöse und medikamentöse Behandlung | | |
+| **Nicht-medikamentöse und medikamentöse Behandlung** | | |
 |  |  |  |
 |  |  |  |
 |  | | |
@@ -635,24 +635,24 @@ Wenig Interesse oder Freude an Ihren Tätigkeiten Hoffnungslosigkeit. Schwierigk
 |  |  |  |
 |  |  |  |
 
-Anlegen einer Erst- und einer Verlaufsdokumentation INDIKATIONSÜBERGREIFENDE Administrative Daten DMP-Fallnummer Krankenhaus-IK Dokumentation in Vertretung erstellt Einschreibung wegen Geschlecht Allgemeine Anamnese- und Befunddaten Körpergröße  DATEN Behandlungsplanung Informationsangebote der Krankenkasse Erstdokumentation 6212 06.10.2023   15.mm.jjjj Depression Männlich 1,96 m 06.10.2023   15.mm.jjjj Verlaufsdokumentation 6212 Ja 06.12.2023   15.mm.jjjj Depression Männlich 1,96 m 06.12.2023   15.mm.jjjj PEZIFISCHE DATEN persistierend persistierend | INDIKATIONSÜBERGREIFENDE | | |
+Anlegen einer Erst- und einer Verlaufsdokumentation INDIKATIONSÜBERGREIFENDE Administrative Daten DMP-Fallnummer Krankenhaus-IK Dokumentation in Vertretung erstellt Einschreibung wegen Geschlecht Allgemeine Anamnese- und Befunddaten Körpergröße  DATEN Behandlungsplanung Informationsangebote der Krankenkasse Erstdokumentation 6212 06.10.2023   15.mm.jjjj Depression Männlich 1,96 m 06.10.2023   15.mm.jjjj Verlaufsdokumentation 6212 Ja 06.12.2023   15.mm.jjjj Depression Männlich 1,96 m 06.12.2023   15.mm.jjjj PEZIFISCHE DATEN persistierend persistierend | **INDIKATIONSÜBERGREIFENDE** | | |
 |---|---|---|
-|  | Erstdokumentation | Verlaufsdokumentation |
-| Administrative Daten | | |
+|  | **Erstdokumentation** | **Verlaufsdokumentation** |
+| **Administrative Daten** | | |
 | DMP-Fallnummer | 6212 | 6212 |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  | Ja |
 | Datum | 06.10.2023 | 06.12.2023 |
 | Einschreibung wegen | Depression | Depression |
 | Geschlecht | Männlich | Männlich |
-| Allgemeine Anamnese- und Befunddaten | | |
+| **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 1,96 m | 1,96 m |
 | Körpergewicht | 130 kg | 127 kg |
 | Blutdruck | 193 / 124 mmHg | 187 / 116 mmHg |
 | Raucher | Nein | Nein |
 | Begleiterkrankungen | Arterielle Hypertonie | Arterielle Hypertonie |
 |  |  |  |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Vom Patienten gewünschte | Ernährungsberatung | Ernährungsberatung |
 | Dokumentationsintervall | Quartalsweise | Quartalsweise |
 | Datum der Erstellung | 06.10.2023 | 06.12.2023 |
@@ -671,7 +671,7 @@ Anlegen einer Erst- und einer Verlaufsdokumentation INDIKATIONSÜBERGREIFENDE Ad
 |  | | |
 | Aktuelle | Geplant | Ja |
 | Aktuelle medikamentöse Therapie mit | Nein | Aktuell andauernd, seit |
-| Schulung | | |
+| **Schulung** | | |
 | Bereits vor Einschreibung in das DMP an einer | Nein |  |
 | Depressionsspezifische Schulung empfohlen (bei | Ja | Nein |
 | Depressionsspezifische Schulung wahrgenommen |  | Präsenzgruppenschulung |
@@ -684,11 +684,11 @@ Psychotherapie Antidepressiva  depressionsspezifischen Schulung teilgenommen akt
 
 |  |  |
 |---|---|
-| Prüffall-ID | 6220 |
-| Testziel | Einschreibung |
-| Voraussetzung |  |
-| Prüfunterlagen | 1. DMP Depression Dokumentationsunterlagen 2. zusätzlich DMP Diabetes mellitus Typ 2 Dokumentationsunterlagen |
-| Hinweis | Sofern das System eine Zulassung für die Indikation Diabetes mellitus Typ 2 verfügt, |
+| **Prüffall-ID** | 6220 |
+| **Testziel** | Einschreibung |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | 1. DMP Depression Dokumentationsunterlagen 2. zusätzlich DMP Diabetes mellitus Typ 2 Dokumentationsunterlagen |
+| **Hinweis** | Sofern das System eine Zulassung für die Indikation Diabetes mellitus Typ 2 verfügt, |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -700,10 +700,10 @@ Die Versichertendaten von Helga Aufgelöst (Anhang 4.1) im Ersatzverfahren erfas
 
 Jeweils für die Erst- und Folgedokumentation die Antworten auf die Fragen des PHQ-9 erfassen und  den Summenscore berechnen.
 
-| PHQ-9-Fragebogen |  | |
+| **PHQ-9-Fragebogen** |  | |
 |---|---|---|
-|  | Erstdokumentation | Verlaufsdokumentation |
-| Wie oft fühlten Sie sich im Verlauf der  letzten 2 Wochen durch die folgenden  Beschwerden beeinträchtigt? |  |  |
+|  | **Erstdokumentation** | **Verlaufsdokumentation** |
+| **Wie oft fühlten Sie sich im Verlauf der  letzten 2 Wochen durch die folgenden  Beschwerden beeinträchtigt?** |  |  |
 | a. | An mehr als der Hälfte der | An einzelnen Tagen (1) |
 | b. Niedergeschlagenheit, Schwermut oder | An mehr als der Hälfte der | An einzelnen Tagen (1) |
 | c. | An mehr als der Hälfte der | An mehr als der Hälfte der |
@@ -720,10 +720,10 @@ Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider müssen die
 
 ---
 
-|  | PHQ-9-Fragebogen | |
+|  | **PHQ-9-Fragebogen** | |
 |---|---|---|
-|  | INDIKATIONSÜBERGREIFENDE |  |
-| Erstdokumentation  Verlaufsdokumentation  Administrative Daten | 06.10.2023 | 06.12.2023 |
+|  | **INDIKATIONSÜBERGREIFENDE** |  |
+| **Erstdokumentation  Verlaufsdokumentation  Administrative Daten** | 06.10.2023 | 06.12.2023 |
 | 1,72 m |  | Körpergewicht |
 | 61 kg |  | Blutdruck |
 | 124 / 76 mmHg |  | Raucher |
@@ -732,27 +732,27 @@ Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider müssen die
 |  | Vom Patienten gewünschte |  |
 |  | Dokumentationsintervall |  |
 |  | Datum der Erstellung |  |
-| PHQ-9-Fragebogen |  | |
+| **PHQ-9-Fragebogen** |  | |
 | Sprache so verlangsamt, dass es auch | | |
 | i. Gedanken, dass Sie lieber tot wären | An einzelnen Tagen (1) | Überhaupt nicht (0) |
 
-anderen auffallen würde? Oder waren Sie im Gegenteil „zappelig“ oder ruhelos und hatten dadurch einen stärkeren Bewegungsdrang als sonst? oder sich Leid zufügen möchten 3. Anlegen einer Erst- und einer Verlaufsdokumentation DMP-Fallnummer Krankenhaus-IK Dokumentation in Vertretung erstellt Einschreibung wegen Geschlecht Allgemeine Anamnese- und Befunddaten Körpergröße  DATEN Behandlungsplanung Informationsangebote der Krankenkasse 6220 856215715   15.mm.jjjj Depression, Diabetes mellitus Typ 2 Weiblich 63 kg 120 / 70 mmHg Nach Funktion P1-47 des Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die Depression-Dokumentation ist dies Diabetes mellitus. Tabakverzicht Quartalsweise   15.mm.jjjj 6220 856215715   15.mm.jjjj Depression, Diabetes mellitus Typ 2 Weiblich Tabakverzicht Quartalsweise   15.mm.jjjj | INDIKATIONSÜBERGREIFENDE | | |
+anderen auffallen würde? Oder waren Sie im Gegenteil „zappelig“ oder ruhelos und hatten dadurch einen stärkeren Bewegungsdrang als sonst? oder sich Leid zufügen möchten 3. Anlegen einer Erst- und einer Verlaufsdokumentation DMP-Fallnummer Krankenhaus-IK Dokumentation in Vertretung erstellt Einschreibung wegen Geschlecht Allgemeine Anamnese- und Befunddaten Körpergröße  DATEN Behandlungsplanung Informationsangebote der Krankenkasse 6220 856215715   15.mm.jjjj Depression, Diabetes mellitus Typ 2 Weiblich 63 kg 120 / 70 mmHg Nach Funktion P1-47 des Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die Depression-Dokumentation ist dies Diabetes mellitus. Tabakverzicht Quartalsweise   15.mm.jjjj 6220 856215715   15.mm.jjjj Depression, Diabetes mellitus Typ 2 Weiblich Tabakverzicht Quartalsweise   15.mm.jjjj | **INDIKATIONSÜBERGREIFENDE** | | |
 |---|---|---|
-|  | Erstdokumentation | Verlaufsdokumentation |
-| Administrative Daten | | |
+|  | **Erstdokumentation** | **Verlaufsdokumentation** |
+| **Administrative Daten** | | |
 | DMP-Fallnummer | 6220 | 6220 |
 | Krankenhaus-IK | 856215715 | 856215715 |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum | 06.10.2023 | 06.12.2023 |
 | Einschreibung wegen | mellitus Typ 2 | Depression, Diabetes |
 | Geschlecht | Weiblich | Weiblich |
-| Allgemeine Anamnese- und Befunddaten | | |
+| **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 1,72 m | 1,72 m |
 | Körpergewicht | 63 kg | 61 kg |
 | Blutdruck | 120 / 70 mmHg | 124 / 76 mmHg |
 | Raucher | Ja | Ja |
 | Begleiterkrankungen | müssen die anderen eingeschriebenen Indikationen | |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Vom Patienten gewünschte | Tabakverzicht | Tabakverzicht |
 | Dokumentationsintervall | Quartalsweise | Quartalsweise |
 | Datum der Erstellung | 06.10.2023 | 06.12.2023 |
@@ -760,10 +760,10 @@ anderen auffallen würde? Oder waren Sie im Gegenteil „zappelig“ oder ruhelo
 
 ---
 
-| INDIKATIONS | | | |
+| **INDIKATIONS** | | | |
 |---|---|---|---|
-|  | Erstdokumentation | Verlaufsdokumentation | |
-| Anamnese- und Befunddaten | | | |
+|  | **Erstdokumentation** | **Verlaufsdokumentation** | |
+| **Anamnese- und Befunddaten** | | | |
 | DEP | Aktuelle Symptomatik – PHQ-9 | Ergebnis von Punkt 2 | Ergebnis von Punkt 2 |
 | DEP | Schweregrad zu Beginn der aktuellen | Schwer | Mittelgradig |
 | DEP | Dauer der aktuellen depressiven Episode | Weniger als zwei Jahre | Mehr als zwei Jahre |
@@ -778,11 +778,11 @@ anderen auffallen würde? Oder waren Sie im Gegenteil „zappelig“ oder ruhelo
 | DM2 | Injektionsstellen |  | Unauffällig |
 | DM2 | Intervall für künftige Fußinspektionen (bei | alle 3 drei Monate oder  häufiger | Jährlich |
 | DM2 | Spätfolgen | Diabetische Neuropathie | Diabetische Retinopathie, |
-| Relevante Ereignisse | | | |
+| **Relevante Ereignisse** | | | |
 | DM2 | Relevante Ereignisse | Nierenersatztherapie | Keine der genannten |
 | DM2 | Schwere Hypoglykämien seit der letzten |  | 5 |
 | DM2 | Stationäre notfallmäßige Behandlung |  | 2 |
-| Nicht-medikamentöse und medikamentöse Behandlung | | | |
+| **Nicht-medikamentöse und medikamentöse Behandlung** | | | |
 | DEP | Aktuelle Psychotherapie | Nein | Ja |
 | DEP | Aktuelle medikamentöse Therapie mit | Vor Ablauf von neun | Nicht gewünscht |
 | DM2 | | | |
@@ -830,19 +830,19 @@ PEZIFISCHE DATEN Summenwert  (bei Insulintherapie) Patientinnen und Patienten ab
 | DM2 | Ophthalmologische    Durchgeführt |  |  |
 |  | | | |
 |  |  |  |  |
-| Medikamente | Behandlungsplanung  DM2 | Diabetesbezogene stationäre Einweisung | Nein |
+| **Medikamente** | **Behandlungsplanung ** DM2 | Diabetesbezogene stationäre Einweisung | Nein |
 |  |  |  |  |
 |  | | | |
 |  |  |  |  |
 |  |  |  |  |
-| Medikamente | | | |
+| **Medikamente** | | | |
 | DM2 | Insulin oder Insulin-Analoga | Nein | Ja |
 | DM2 | Metformin | Ja | Ja |
 | DM2 | Sonstige antidiabetische Medikation | Nein | Nein |
 | DM2 | SGLT2-Inhibitor | Nein | Ja |
 | DM2 | GLP-1-Rezeptoragonist | Ja | Nein |
 | DM2 | Thrombozytenaggregationshemmer | Ja, | Nein |
-| Schulung | | | |
+| **Schulung** | | | |
 | DEP | Bereits vor Einschreibung in das DMP an | Nein |  |
 | DEP | Depressionsspezifische Schulung | Ja | Ja |
 | DEP | Depressionsspezifische Schulung |  | Nein |
@@ -850,7 +850,7 @@ PEZIFISCHE DATEN Summenwert  (bei Insulintherapie) Patientinnen und Patienten ab
 | DM2 | Schulung schon vor Einschreibung ins | Hypertonie-Schulung |  |
 | DM2 | Empfohlene Diabetes-Schulung |  | Ja |
 | DM2 | Empfohlene Hypertonie-Schulung |  | Bei der letzten |
-| Behandlungsplanung | | | |
+| **Behandlungsplanung** | | | |
 | DM2 | HbA1c-Zielwert | Zielwert erreicht | Zielwert noch nicht |
 | DM2 | Ophthalmologische |  | Durchgeführt |
 | DM2 | Behandlung/Mitbehandlung in einer für | Nein | Ja, Veranlasst |
@@ -862,34 +862,34 @@ orale Antikoagulation einer depressionsspezifischen Schulung teilgenommen empfoh
 
 **2.2** **PRÜFFALL SYSTEMREAKTION**
 
-| INDIKATIONSÜBERGREIFENDE | | |
+| **INDIKATIONSÜBERGREIFENDE** | | |
 |---|---|---|
-|  | Erstdokumentation | Aktion |
-| Administrative Daten | | |
+|  | **Erstdokumentation** | **Aktion** |
+| **Administrative Daten** | | |
 | DMP-Fallnummer | 6214 |  |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum | 06.10.2023 |  |
 | Einschreibung wegen | Depression |  |
 | Geschlecht | Je nach Auswahl des |  |
-| Allgemeine Anamnese- und Befunddaten | | |
+| **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 2,58 m | Nr. 1 |
 | Körpergewicht | 305 kg | Nr. 2 |
 | Blutdruck | 46 / 28 mmHg | Nr. 3 |
 | Raucher |  | Nr. 4 |
 | Begleiterkrankungen |  | Nr. 5 |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Vom Patienten gewünschte Informationsangebote der | Nicht möglich | Nr. 6 |
-| 2.2.1 |  |  |
+| **2.2.1** |  |  |
 |  | Einschreibung wegen |  |
 
 |  |  |
 |---|---|
-| Prüffall-ID | 6214 |
-| Testziel | Kontrolle der softwareseitigen Erkennung von Fehleingaben |
-| Voraussetzung |  |
-| Prüfunterlagen | Fehlermeldungen.    Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
-| Hinweis | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben |
+| **Prüffall-ID** | 6214 |
+| **Testziel** | Kontrolle der softwareseitigen Erkennung von Fehleingaben |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | Fehlermeldungen.    Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
+| **Hinweis** | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben |
 
 Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis - bzw. Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. sind. Prüffall 6214 Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation  DATEN Krankenkasse   15.mm.jjjj
 
@@ -903,8 +903,8 @@ Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis - bzw. 
 | Depressionsspezifische Schulung empfohlen (bei aktueller | Ja |  |
 | Depressionsspezifische Schulung wahrgenommen | aktuell nicht möglich | Nr. 13 |
 |  |  |  |
-| 06.10.2023 |  | Erstdokumentation |
-| Nicht-medikamentöse und medikamentöse Behandlung |  |  |
+| 06.10.2023 |  | **Erstdokumentation** |
+| **Nicht-medikamentöse und medikamentöse Behandlung** |  |  |
 |  | | |
 |  |  |  |
 |  |  |  |
@@ -918,18 +918,18 @@ Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis - bzw. 
 
 - **3.** Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation  abgeschlossen werden kann.
 
-INDIKATIONS SPEZIFISCHE DATEN Anamnese- und Befunddaten Aktuelle Symptomatik – PHQ-9 Summenwert  Schweregrad zu Beginn der aktuellen depressiven Episode Dauer der aktuellen depressiven Episode Suizidalität eingeschätzt Aktuelle Psychotherapie Aktuelle medikamentöse Therapie mit Antidepressiva depressionsspezifischen Schulung teilgenommen Dokumentation)   15.mm.jjjj 14 Aktuell keine depressive Episode Nicht gewünscht Kontraindikation Geplant Aktion Nr. 8 Nr. 9 Nr. 10 Nr. 11 Nr. 12 | INDIKATIONS | | |
+INDIKATIONS SPEZIFISCHE DATEN Anamnese- und Befunddaten Aktuelle Symptomatik – PHQ-9 Summenwert  Schweregrad zu Beginn der aktuellen depressiven Episode Dauer der aktuellen depressiven Episode Suizidalität eingeschätzt Aktuelle Psychotherapie Aktuelle medikamentöse Therapie mit Antidepressiva depressionsspezifischen Schulung teilgenommen Dokumentation)   15.mm.jjjj 14 Aktuell keine depressive Episode Nicht gewünscht Kontraindikation Geplant Aktion Nr. 8 Nr. 9 Nr. 10 Nr. 11 Nr. 12 | **INDIKATIONS** | | |
 |---|---|---|
-|  | Erstdokumentation | Aktion |
-| Anamnese- und Befunddaten | | |
+|  | **Erstdokumentation** | **Aktion** |
+| **Anamnese- und Befunddaten** | | |
 | Aktuelle Symptomatik – PHQ-9 Summenwert | 14 |  |
 | Schweregrad zu Beginn der aktuellen depressiven Episode | Aktuell keine depressive | Nr. 8 |
 | Dauer der aktuellen depressiven Episode |  | Nr. 9 |
 | Suizidalität eingeschätzt | Nicht gewünscht | Nr. 10 |
-| Nicht-medikamentöse und medikamentöse Behandlung | | |
+| **Nicht-medikamentöse und medikamentöse Behandlung** | | |
 | Aktuelle Psychotherapie | Kontraindikation | Nr. 11 |
 | Aktuelle medikamentöse Therapie mit Antidepressiva | Geplant | Nr. 12 |
-| Schulung | | |
+| **Schulung** | | |
 | Bereits vor Einschreibung in das DMP an einer | Nein |  |
 | Depressionsspezifische Schulung empfohlen (bei aktueller | Ja |  |
 | Depressionsspezifische Schulung wahrgenommen | aktuell nicht möglich | Nr. 13 |
@@ -939,36 +939,36 @@ INDIKATIONS SPEZIFISCHE DATEN Anamnese- und Befunddaten Aktuelle Symptomatik –
 
 - **4.** **Anlegen einer Verlaufsdokumentation**
 
-| INDIKATIONSÜBERGREIFENDE | | |
+| **INDIKATIONSÜBERGREIFENDE** | | |
 |---|---|---|
-|  | Verlaufsdokumentation | Aktion |
-| Administrative Daten | | |
+|  | **Verlaufsdokumentation** | **Aktion** |
+| **Administrative Daten** | | |
 | DMP-Fallnummer | 6214 |  |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum | 06.12.2023 |  |
 | Einschreibung wegen | Depression |  |
 | Geschlecht | Je nach Auswahl des |  |
-| Allgemeine Anamnese- und Befunddaten | | |
+| **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 1,76 m |  |
 | Körpergewicht | 073 kg |  |
 | Blutdruck | 124 / 79 mmHg |  |
 | Raucher | Nein |  |
 | Begleiterkrankungen | Chronische |  |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Vom Patienten gewünschte Informationsangebote der | Tabakverzicht,  Körperliches Training |  |
 | Dokumentationsintervall | Quartalsweise |  |
 | Datum der Erstellung | 06.12.2023 |  |
 
-| INDIKATIONS | | |
+| **INDIKATIONS** | | |
 |---|---|---|
-|  | Verlaufsdokumentation | Aktion |
-| Anamnese- und Befunddaten | | |
+|  | **Verlaufsdokumentation** | **Aktion** |
+| **Anamnese- und Befunddaten** | | |
 | Aktuelle Symptomatik – PHQ-9 Summenwert | 14 |  |
 | Schweregrad zu Beginn der aktuellen depressiven Episode | Aktuell keine depressive |  |
 | Dauer der aktuellen depressiven Episode | Weniger als zwei Jahre | Nr. 14 |
 | Suizidalität eingeschätzt | Nein |  |
-| Nicht-medikamentöse und medikamentöse Behandlung | | |
+| **Nicht-medikamentöse und medikamentöse Behandlung** | | |
 | Aktuelle Psychotherapie | Geplant |  |
 |  |  |  |
 |  | | |
@@ -991,7 +991,7 @@ DATEN Krankenkasse   15.mm.jjjj Herzinsuffizienz, Asthma bronchiale Ernährungsb
 |  | | |
 |  |  |  |
 | Aktuelle medikamentöse Therapie mit Antidepressiva | Aktuell andauernd, seit |  |
-| Schulung | | |
+| **Schulung** | | |
 | Bereits vor Einschreibung in das DMP an einer | Nein | Nr. 15 |
 | Depressionsspezifische Schulung empfohlen (bei aktueller | aktuell nicht möglich | Nr. 16 |
 | Depressionsspezifische Schulung wahrgenommen | Ja | Nr. 17 |
@@ -1008,39 +1008,39 @@ depressionsspezifischen Schulung teilgenommen Dokumentation) weniger als 9 Monat
 
 |  |  |
 |---|---|
-| Prüffall-ID | 6230 |
-| Testziel | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
-| Voraussetzung | Szenario 3: Ihr System unterstützt die Datenübermittlung mit Datenträgern. Wenn |
-| Prüfunterlagen | Video (Szenario 1) bzw. Screenshots / PDFs |
-| Hinweis | Dieser Testfall ist unterteilt in drei Szenarien |
+| **Prüffall-ID** | 6230 |
+| **Testziel** | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
+| **Voraussetzung** | Szenario 3: Ihr System unterstützt die Datenübermittlung mit Datenträgern. Wenn |
+| **Prüfunterlagen** | Video (Szenario 1) bzw. Screenshots / PDFs |
+| **Hinweis** | Dieser Testfall ist unterteilt in drei Szenarien |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-| SZENARIEN |
-|---|
-| Szenario 1 |
-| Dieses Szenario ist bei der Erfassung von Prüffall 6212 durchzuführen. Das Szenario besteht aus mehreren  1. Es wird eine Erstdokumentation für einen noch nicht im System existierenden Patienten angelegt. Bei  ).) die  Korrigieren Sie die DMP-Fallnummer auf den Wert 6212. Zeigen Sie die folgenden Punkte beim Anlegen  › ).).  › KBV_ITA_VGEX_Anforderungskatalog_eDMP).).  › ).    2. Zeigen Sie die folgenden Punkte beim Anlegen der Verlaufsdokumentation: › › Symptomatik – PHQ-9 Summenwert“ der aktuellen Dokumentation gemäß Anforderung KP1 KBV_ITA_VGEX_Anforderungskatalog_eDMP).).  › |
-| Video (Szenario 1) bzw. Screenshots / PDFs |
-|  |
-|  |
-| (KBV_ITA_VGEX_Anforderungskatalog_eDMP |
-|  |
-|  |
+\| **SZENARIEN** |
+\|---|
+\| **Szenario 1** |
+\| Dieses Szenario ist bei der Erfassung von Prüffall 6212 durchzuführen. Das Szenario besteht aus mehreren **1.** Es wird eine Erstdokumentation für einen noch nicht im System existierenden Patienten angelegt. Bei  ).) die  Korrigieren Sie die DMP-Fallnummer auf den Wert 6212. Zeigen Sie die folgenden Punkte beim Anlegen  › ).).  › KBV_ITA_VGEX_Anforderungskatalog_eDMP).).  › ).   **2.** Zeigen Sie die folgenden Punkte beim Anlegen der Verlaufsdokumentation: › › Symptomatik – PHQ-9 Summenwert“ der aktuellen Dokumentation gemäß Anforderung KP1 KBV_ITA_VGEX_Anforderungskatalog_eDMP).).  › |
+\| Video (Szenario 1) bzw. Screenshots / PDFs |
+\|  |
+\|  |
+\| (KBV_ITA_VGEX_Anforderungskatalog_eDMP |
+\|  |
+\|  |
 
 Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP dies nicht der Fall ist, schreiben Sie dieses bitte.  (Szenario 2 und Szenario 3) zum Nachweis der korrekten Systemfunktionalität Schritten. Anlage einer Erstdokumentation Angabe der DMP-Fallnummer ist eine bereits existierende Nummer (z.B. 6211) einzugeben. Das System darf entsprechend der Anforderung P1-10 (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP bereits vergebene DMP-Fallnummer nicht akzeptieren. der Erstdokumentation: Das System ermöglicht dem Anwender den Ausdruck des Patient Health Questionnaire 9 (PHQ -9) Fragebogens gemäß Anforderung KP1-79 (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP Der Patient hat den PHQ-9-Fragebogen im Rahmen der Erstdokumentation ausgefüllt. Zeigen Sie, dass der Anwender die Antworten im System gemäß Anforderung KP1-80 erfassen kann und das System die Übernahme des ermittelten Summenscore in den Parameter „Aktuelle Symptomatik Summenwert“ in die aktuelle Dokumentation gemäß Anforderung KP1 Das System zeigt dem Anwender bei der Erfassung des Parameters „Aktuelle Symptomatik Summenwert“ die näheren Erläuterungen zu diesem Parameter gemäß Anforderung KP1 -53 Punkt 1 an (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP Anlage einer Verlaufsdokumentation Der Patient hat den PHQ-9-Fragebogen im Rahmen der Verlaufsdokumentation ausgefüllt. Der Anwender kann die Antworten im System gemäß Anforderung KP1-80 erfassen. Das System ermöglicht die Übernahme des ermittelten Summenscore in den Parameter „Aktuelle Das System zeigt bei der Erfassung des Parameters „Aktuelle Symptomatik -81 ermöglicht (siehe -81 (siehe – PHQ-9 Summenwert“ die
 
 ---
 
-|  |
-|---|
-|  |
-|  |
-| SZENARIEN |
-| näheren Erläuterungen zu diesem Parameter gemäß Anforderung KP1 -53 Punkt 2 und 3 an (siehe  KBV_ITA_VGEX_Anforderungskatalog_eDMP).). |
-| Szenario 2 |
-| Der Patient wechselt den Arzt, z.B. aufgrund einer Vertretungsregelung. Nach Kenntnisnahme einer  KBV_ITA_VGEX_Anforderungskatalog_eDMP), dass zu diesem Patienten keine Erstdokumentation |
-| Szenario 3 |
-| Die Daten werden vom Anwender für den Versand vorbereitet. Das System erzeugt eine Hinweismeldung  KBV_ITA_VGEX_Anforderungskatalog_eDMP) nachgewiesen werden. |
+\|  |
+\|---|
+\|  |
+\|  |
+\| **SZENARIEN** |
+\| näheren Erläuterungen zu diesem Parameter gemäß Anforderung KP1 -53 Punkt 2 und 3 an (siehe  KBV_ITA_VGEX_Anforderungskatalog_eDMP).). |
+\| **Szenario 2** |
+\| Der Patient wechselt den Arzt, z.B. aufgrund einer Vertretungsregelung. Nach Kenntnisnahme einer  KBV_ITA_VGEX_Anforderungskatalog_eDMP), dass zu diesem Patienten keine Erstdokumentation |
+\| **Szenario 3** |
+\| Die Daten werden vom Anwender für den Versand vorbereitet. Das System erzeugt eine Hinweismeldung  KBV_ITA_VGEX_Anforderungskatalog_eDMP) nachgewiesen werden. |
 
 entsprechenden Warnung gemäß Anforderung P1-12 (siehe vorliegt, wird eine Verlaufsdokumentation angelegt. (Bildschirmkopie beilegen) bezüglich der Datenträgerbeschriftung und druckt einen Transportbegleitzettel aus. Hier soll die Umsetzung der Anforderungen KP4 -40 und KP4-41 (siehe
 
@@ -1050,11 +1050,11 @@ entsprechenden Warnung gemäß Anforderung P1-12 (siehe vorliegt, wird eine Verl
 
 |  | |
 |---|---|
-| Prüffall-ID | 6240 |
-| Testziel | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
-| Voraussetzung |  |
-| Prüfunterlagen | Einwilligungserklärung |
-| Hinweis | Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der |
+| **Prüffall-ID** | 6240 |
+| **Testziel** | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | Einwilligungserklärung |
+| **Hinweis** | Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -1068,7 +1068,7 @@ Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 
 |  |  |
 |---|---|
-| Administrative Daten |  |
+| **Administrative Daten** |  |
 | DMP | Depression |
 | DMP-Fallnummer | 1010 |
 | Datum | 15.08.2025 |
@@ -1106,11 +1106,11 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 |  |  |
 |---|---|
-| Prüffall-ID | TDV6218 |
-| Testziel | Anlage einer Erstdokumentation mit der Schnittstellenversion |
-| Voraussetzung |  |
-| Prüfunterlagen | DMP Depression Dokumentationsunterlagen |
-| Hinweis |  |
+| **Prüffall-ID** | TDV6218 |
+| **Testziel** | Anlage einer Erstdokumentation mit der Schnittstellenversion |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | DMP Depression Dokumentationsunterlagen |
+| **Hinweis** |  |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -1122,10 +1122,10 @@ Die Versichertendaten von Brigitte Althaus (XML_05) einlesen und speichern.
 
 Jeweils für die Erst- und Folgedokumentation die Antworten auf die Fragen des PHQ-9 erfassen und  den Summenscore berechnen.
 
-| PHQ-9-FRAGEBOGEN | |
+| **PHQ-9-FRAGEBOGEN** | |
 |---|---|
-|  | Erstdokumentation |
-| Wie oft fühlten Sie sich im Verlauf der letzten 2 Wochen durch die  folgenden Beschwerden beeinträchtigt? |  |
+|  | **Erstdokumentation** |
+| **Wie oft fühlten Sie sich im Verlauf der letzten 2 Wochen durch die  folgenden Beschwerden beeinträchtigt?** |  |
 | a. | Beinahe jeden Tag (3) |
 | b. Niedergeschlagenheit, Schwermut oder Hoffnungslosigkeit. | Beinahe jeden Tag (3) |
 | c. | An mehr als der Hälfte |
@@ -1142,40 +1142,40 @@ Jeweils für die Erst- und Folgedokumentation die Antworten auf die Fragen des P
 
 - **3.** **Anlegen einer Erstdokumentation**
 
-| INDIKATIONSÜBERGREIFENDE DATEN | |
+| **INDIKATIONSÜBERGREIFENDE DATEN** | |
 |---|---|
-| Administrative Daten | Erstdokumentation |
+| **Administrative Daten** | **Erstdokumentation** |
 | DMP-Fallnummer | TDV6218 |
 | Krankenhaus-IK |  |
 | Dokumentation in Vertretung |  |
 | Datum | 05.04.2022 |
 | Einschreibung wegen | Depression |
 | Geschlecht | Weiblich |
-| Allgemeine Anamnese- und Befunddaten | |
+| **Allgemeine Anamnese- und Befunddaten** | |
 | Körpergröße | 1,60 m |
 | Körpergewicht | 60 kg |
 | Blutdruck | 120 / 80 mmHg |
 | Raucher | Nein |
 | Begleiterkrankungen | Keine der genannten |
-| Behandlungsplanung | |
+| **Behandlungsplanung** | |
 | Vom Patienten gewünschte Informationsangebote der Krankenkasse | Ernährungsberatung |
 | Dokumentationsintervall | Quartalsweise |
 | Datum der Erstellung | 05.04.2022 |
 
 -
 
-| INDIKATIONSPEZIFISCHE DATEN | |
+| **INDIKATIONSPEZIFISCHE DATEN** | |
 |---|---|
-|  | Erstdokumentation |
-| Anamnese- und Befunddaten | |
+|  | **Erstdokumentation** |
+| **Anamnese- und Befunddaten** | |
 | Aktuelle Symptomatik – PHQ-9 Summenwert | Ergebnis von Punkt 2 |
 | Schweregrad zu Beginn der aktuellen depressiven Episode | Schwer |
 | Dauer der aktuellen depressiven Episode | Mehr als zwei Jahre |
 | Suizidalität eingeschätzt | Ja |
-| Nicht-medikamentöse und medikamentöse Behandlung | |
+| **Nicht-medikamentöse und medikamentöse Behandlung** | |
 | Aktuelle Psychotherapie | Ja |
 | Aktuelle medikamentöse Therapie mit Antidepressiva | Aktuell andauernd, seit |
-| Schulung | |
+| **Schulung** | |
 |  |  |
 |  |  |
 |  |  |
@@ -1209,28 +1209,28 @@ Schulung teilgenommen Dokumentation)
 
 **4.1** **ERSATZVERFAHREN**
 
-| PERSONALIEN | | |
+| **PERSONALIEN** | | |
 |---|---|---|
-| 3100 | Namenszusatz |  |
-| 3120 | Vorsatzwort |  |
-| 3101 | Name | Aufgelöst |
-| 3102 | Vorname | Helga |
-| 3103 | Geburtsdatum | 29.05.1982 |
-| 3104 | Titel |  |
-| 3119 | Versicherten_ID | A290582778 |
-| 3107 | Straße | Marktstraße |
-| 3109 | Hausnummer | 45 |
-| 3112 | PLZ | 30159 |
-| 3114 | Wohnsitzländercode |  |
-| 3113 | Ort | Hannover |
-| 3116 | WOP | 17 |
-| 3108 | Versichertenart | 1 |
-| 3110 | Geschlecht | W |
-| 4133 | Versicherungsschutz Beginn |  |
-| 4110 | Versicherungsschutz Ende |  |
-| 4111 | Kostentraegerkennung | 109719018 |
-| 4131 | BesonderePersonengruppe | 00 |
-| 4132 | DMP_Kennzeichnung | 08 |
+| **3100** | **Namenszusatz** |  |
+| **3120** | **Vorsatzwort** |  |
+| **3101** | **Name** | Aufgelöst |
+| **3102** | **Vorname** | Helga |
+| **3103** | **Geburtsdatum** | 29.05.1982 |
+| **3104** | **Titel** |  |
+| **3119** | **Versicherten_ID** | A290582778 |
+| **3107** | **Straße** | Marktstraße |
+| **3109** | **Hausnummer** | 45 |
+| **3112** | **PLZ** | 30159 |
+| **3114** | **Wohnsitzländercode** |  |
+| **3113** | **Ort** | Hannover |
+| **3116** | **WOP** | 17 |
+| **3108** | **Versichertenart** | 1 |
+| **3110** | **Geschlecht** | W |
+| **4133** | **Versicherungsschutz Beginn** |  |
+| **4110** | **Versicherungsschutz Ende** |  |
+| **4111** | **Kostentraegerkennung** | 109719018 |
+| **4131** | **BesonderePersonengruppe** | 00 |
+| **4132** | **DMP_Kennzeichnung** | 08 |
 
 
 ---
@@ -1239,7 +1239,7 @@ REFERENZIERTE DOKUMENTE
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 | KBV_ITA_VGEX_Anforderungskatalog_eDMP | Anforderungskatalog eDMP |
 | KBV_ITA_VHEX_PHQ-9-Fragebogen | PHQ9-Fragebogen zur Bestimmung des Schweregrades |
 | EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend | Plausibilitätsrichtlinie zur Prüfung der Dokumentations- |

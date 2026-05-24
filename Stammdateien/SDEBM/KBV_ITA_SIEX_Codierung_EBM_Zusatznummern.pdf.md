@@ -2,7 +2,7 @@
 
 zu den Versichertenpauschalen in Kapitel 3 und Kapitel 4 (ohne Bewertung) gibt es  Zusatznummern (mit Bewertung), die in Abhängigkeit vom Patientenalter umzuset- zen sind. Ferner gibt es bundeseinheitliche Gebührenordnungspositionen mit ange- hängtem Buchstaben für abweichende Vergütung (Aufschlag/Abschlag) bei unter- schiedlichen Sachverhalten, die im Einheitlichen Bewertungsmaßstab (EBM) geregelt  sind. Die Information über die regionale Verwendung obliegt den Kassenärztlichen  Vereinigungen.
 
-| Buchstabe | Steht für den Sachverhalt |
+| **Buchstabe** | **Steht für den Sachverhalt** |
 |---|---|
 | H | Gebührenordnungspositionen, die gemäß der Allgemeinen Bestimmung 2.1.6 mit |
 | F | Gebührenordnungspositionen, die gemäß Präambel 4.1 Nr. 4 mit einem Aufschlag  [Punktzahl der Basis-GOP x Faktor 1,60] |

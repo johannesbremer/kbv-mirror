@@ -143,13 +143,11 @@ Erfüllung der Vertragspflichten hinausgehen.
 
 wissenhaftigkeit und Sorgfalt Programmfehler nicht mit
 
-im Rahmen des durch die KBV z -psychotherapeuten
-
 i-
 
-ertifizier-
+im Rahmen des durch die KBV zertifizier-
 
-weiterzugegeben.
+-psychotherapeuten weiterzugegeben.
 
 zieren. Eine
 

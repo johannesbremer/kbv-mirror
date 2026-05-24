@@ -72,9 +72,11 @@
 
 **Prisma**
 
-**Versicherten-Nr.**  **Arzt-Nr.**
+**Versicherten-Nr.**
 
 **Änderung um mindestens0,5 Dioptrien**
+
+**Arzt-Nr.**
 
 **Betriebsstätten-Nr.**
 

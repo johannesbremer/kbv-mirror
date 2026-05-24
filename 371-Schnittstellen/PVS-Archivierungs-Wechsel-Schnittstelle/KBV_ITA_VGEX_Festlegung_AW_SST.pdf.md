@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT  8. DEZEMBER 2020   VERSION: 1.2.0  STATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT  8. DEZEMBER 2020   VERSION: 1.2.0  STATUS: IN KRAFT** |
 |---|---|
 
 # FESTLEGUNG DER ARCHIV- UND  WECHSELSCHNITTSTELLE NACH § 371  ABS. 1 SGB V
@@ -200,7 +200,7 @@ Seite 3 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 3
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.2.0 | 08.12.2020 |  | 1. 2. 3. 4. 5. 6. 7. | Harmonisierun | 5      8    40    40    12-28                19 &  28 |
 
@@ -456,8 +456,8 @@ Die Dateinamen für die Elemente der FHIR®-Spezifikationsdateien setzen sich wi
 
 - Bezeichnung - Bezeichnung der entsprechenden Fachlichkeit
 
-| Beispiel:  Dateiname: KBV_PR_AW_System |
-|---|
+\| **Beispiel: ** Dateiname: KBV_PR_AW_System |
+\|---|
 
 
 ---
@@ -971,7 +971,7 @@ Begegnung :: Koerpergewicht(KBV-Basis ), Koerpergroesse (KBV-Basis ), Koerpertem
 |  | KBV_PR_AW_Abrechnung_vorl | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Abr |
 |  | KBV_PR_AW_Allergie | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Aller |
 
-Einschränkungen diese zu verwenden sind. Die Identifikation der KBV -Profile erfolgt durch die Angabe einer kanonischen URI.  _BesondereVersorgung_ Selekti at ragsaerztlich aeufig ation ation_General echstundenbedarf ktion Auftrag_Ueberweisung tein_Definition tein_Diagnose tein_Leistungsziffern echnung_HzV_BesondereVersorgung_Selektiv echnung_privat echnung_vertragsaerztlich echnung_vorlaeufig ulante_Operation ulante_Operation_General rderung_Sprechstundenbedarf andelnderFunktion andlung_im_Auftrag_Ueberweisung andlungsbaustein_Definition andlungsbaustein_Diagnose andlungsbaustein_Leistungsziffern geplant zur nächsten Version
+Einschränkungen diese zu verwenden sind. Die Identifikation der KBV -Profile erfolgt durch die Angabe einer kanonischen URI.  _BesondereVersorgung_ Selekti at ragsaerztlich aeufig ation ation_General echstundenbedarf ktion Auftrag_Ueberweisung tein_Definition tein_Diagnose tein_Leistungsziffern echnung_HzV_BesondereVersorgung_Selektiv echnung_privat echnung_vertragsaerztlich geplant zur echnung_vorlaeufig ulante_Operation ulante_Operation_General rderung_Sprechstundenbedarf andelnderFunktion andlung_im_Auftrag_Ueberweisung andlungsbaustein_Definition andlungsbaustein_Diagnose andlungsbaustein_Leistungsziffern nächsten Version
 
 ---
 
@@ -1936,7 +1936,7 @@ Dauertherapie pie_Dauertherapie -Einweisung_AU- bis weisung_KH-Einweisung_AU-bis
 | Kostentraeger- | https://fhir.kbv.de/CodeSystem/ |
 | Krankenbefoederung_Befoerd | https://fhir.kbv.de/CodeSystem/ |
 | Krankenbefoerderung_Befoer | https://fhir.kbv.de/CodeSystem/ |
-| 3.7 | Name Code System |
+| **3.7** | Name Code System |
 |  | Abrechnung_Art |
 |  | Auslagenart |
 |  | Identifiertyp |
@@ -1956,7 +1956,7 @@ Dauertherapie pie_Dauertherapie -Einweisung_AU- bis weisung_KH-Einweisung_AU-bis
 |  | Entschaedigungsart |
 |  | Gebuehrenordnung |
 |  | Gesundheitspass_Typ |
-| 3.7 | Name Code System |
+| **3.7** | Name Code System |
 |  | Abrechnung_Art |
 |  | Auslagenart |
 |  | Identifiertyp |
@@ -2137,7 +2137,7 @@ UU Zertifikat Einweisung_Kategorien Einweisung_Typ eit_AU-Art dnungsart rie_4201
 | Krebsfrueherkennung_Maenner_Befund | https://fhir.kbv.de/ValueSet/ |
 | Leistungsart | https://fhir.kbv.de/ValueSet/KBV_VS_AW_Leistungsart |
 | Psychotherapie Behandlungsarten | https://fhir.kbv.de/ValueSet/ |
-| 3.8 | Name ValueSet |
+| **3.8** | Name ValueSet |
 |  | Kostentraeger_Abrechnungsbereich |
 |  | Befoerderung_von_nach |
 |  | Befoerderungsmitteltyp |
@@ -2161,7 +2161,7 @@ UU Zertifikat Einweisung_Kategorien Einweisung_Typ eit_AU-Art dnungsart rie_4201
 |  |  |
 |  |  |
 |  |  |
-| 3.8 | Name ValueSet |
+| **3.8** | Name ValueSet |
 |  | Kostentraeger_Abrechnungsbereich |
 |  | Befoerderung_von_nach |
 |  | Befoerderungsmitteltyp |
@@ -2344,8 +2344,8 @@ Jede FHIR®-Instanz enthält einen maschinenlesbaren und einen menschenlesbaren 
 
 Jede Instanz einer FHIR®-Ressource enthält ein Element <id> deren Attribut „value“ mit einer eindeutigen ID  gefüllt werden muss. Diese ID muss für jeden Export über alle FHIR®-Instanzen eindeutig vergeben werden.
 
-| Beispiel  …  <fullUrl value="http://hl7.org/FHIR/Patient/1"/>   <resource>  <Patient>   <id value="1"/>   <meta>  … |
-|---|
+\| **Beispiel ** …  <fullUrl value="http://hl7.org/FHIR/Patient/1"/>   <resource>  <Patient>   <id value="1"/>   <meta>  … |
+\|---|
 
 Die KBV empfiehlt das Element <Ressourcentyp.id> mit einem Universally Unique Identifier (UUID) zu  belegen.
 
@@ -2374,8 +2374,8 @@ Die Elemente in der Bezeichnung haben folgende Bedeutung:
 
 - Schnittstelle - AW (steht für Archiv- und Wechselschnittstelle und ist ein fester Wert)
 
-| Beispiel     Vollständiger Export der Archiv und Wechselschnittstelle am 01.08.2018 um 12:00:59 |
-|---|
+\| **Beispiel **    Vollständiger Export der Archiv und Wechselschnittstelle am 01.08.2018 um 12:00:59 |
+\|---|
 
 Ordnerstruktur gemäß den
 

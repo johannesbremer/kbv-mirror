@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 7. AUGUST 2024   VERSION: 2.4   DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 7. AUGUST 2024   VERSION: 2.4   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # PRÜFPAKET 1 CLICKABRECHNUNG
@@ -34,7 +34,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **3** **PRÜFFÄLLE**
 
-3.1 PF 01 - Anforderungen [1Click0001] bis [1Click0003], [1Click0110] bis [1Click0135],  [1Click0142], [1Click0810] bis [1Click0815], [1Click0818]  Versand 1ClickAbrechnung
+3.1 PF 01 - Anforderungen [1Click0001] bis [1Click0003], [1Click0110] bis [1Click0135],  [1Click0142], [1Click0810] bis [1Click0815], [1Click0818]
 
 als Testabrechnung | Empfang Rückmeldungen
 
@@ -46,23 +46,17 @@ als Testabrechnung | Empfang Rückmeldungen
 
 3.3 PF-03 Anforderungen [1Click0001] bis [1Click0003], [1Click0110] bis [1Click0135], [1Click0142],  [1Click0810] bis [1Click0815], [1Click0818]  Versand 1ClickAbrechnung als Echt- und
 
-Korrekturabrechnung | Empfang Rückmeldungen
-
-3.3.1 Einzureichende Prüfunterlagen
+Korrekturabrechnung | Empfang Rückmeldungen 3.3.1 Einzureichende Prüfunterlagen
 
 3.4 PF-04 Anforderung [1Click0816]  kein Bezug 1ClickAbrechnung-Lieferung und Rückmeldung
 
 3.4.1 Einzureichende Prüfunterlagen
 
-3.5 PF-05 Anforderung [1Click0817]  Ausbleibende Rückmeldungen
+3.5 PF-05 Anforderung [1Click0817]  Ausbleibende Rückmeldunge
 
 3.5.1 Einzureichende Prüfunterlagen
 
-3.6 PF-06 Anforderungen [1Click0001] bis [1Click0003], [1Click0110] bis [1Click0134], [1Click0136]  bis [1Click0143], [1Click0810] bis [1Click0815], [1Click0818]  Versand 1ClickAbrechnung:
-
-Sammelerklärung als Testpaket | Empfang Rückmeldungen
-
-3.6.1 Einzureichende Prüfunterlagen
+3.6 PF-06 Anforderungen [1Click0001] bis [1Click0003], [1Click0110] bis [1Click0134], [1Click0136]  bis [1Click0143], [1Click0810] bis [1Click0815], [1Click0818]  Sammelerklärung als Testpaket | Empfang Rückmeldungen 3.6.1 Einzureichende Prüfunterlagen
 
 3.7 PF-07 Anforderungen [1Click0130]  Versand 1ClickAbrechnung inkl. Sammelerklärung als
 
@@ -72,35 +66,31 @@ Echtpaket  3.7.1 Einzureichende Prüfunterlagen
 
 Echtpaket  3.8.1 Einzureichende Prüfunterlagen
 
-3.9 PF-09 Anforderungen [1Click0001] bis [1Click0003], [1Click0110] bis [1Click0134], [1Click0136]  bis [1Click0143], [1Click0810] bis [1Click0815], [1Click0818]  Versand 1ClickAbrechnung inkl.
+3.9 PF-09 Anforderungen [1Click0001] bis [1Click0003], [1Click0110] bis [1Click0134], [1Click0136]  bis [1Click0143], [1Click0810] bis [1Click0815], [1Click0818]  Sammelerklärung als Echtabrechnung | Empfang Rückmeldungen 3.9.1 Einzureichende Prüfunterlagen
 
-Sammelerklärung als Echtabrechnung | Empfang Rückmeldungen
+3.10 PF-10 Anforderungen [1Click0001] bis [1Click0003], [1Click0110] bis [1Click0134], [1Click0136]  bis [1Click0143], [1Click0810] bis [1Click0815], [1Click0818]  Sammelerklärung als Echt- und Korrekturabrechnung | Empfang Rückmeldungen  3.10.1 Einzureichende Prüfunterlagen
 
-3.9.1 Einzureichende Prüfunterlagen
+3.11 PF-11 Nachweis des Bestätigungsverfahrens der gematik 3.11.1 Einzureichende Prüfunterlagen
 
-3.10 PF-10 Anforderungen [1Click0001] bis [1Click0003], [1Click0110] bis [1Click0134], [1Click0136]  bis [1Click0143], [1Click0810] bis [1Click0815], [1Click0818]  Versand 1ClickAbrechnung inkl.
+Versand 1ClickAbrechnung-Lieferung
 
-Sammelerklärung als Echt- und Korrekturabrechnung | Empfang Rückmeldungen  3.10.1 Einzureichende Prüfunterlagen
+n
 
-3.11 PF-11 Nachweis des Bestätigungsverfahrens der gematik
+Versand 1ClickAbrechnung:
 
-3.11.1 Einzureichende Prüfunterlagen
+Versand 1ClickAbrechnung inkl.
+
+Versand 1ClickAbrechnung inkl.
 
 **5**
 
 **6**
 
-6  6  6  6
-
-6  7  7  7
+6  6  6  6  6  7  7  7
 
 **9**
 
--Lieferung  9
-
-9
-
-10  10
+9  9  10  10
 
 10  10  11  11  11  11
 
@@ -138,7 +128,7 @@ Sammelerklärung als Echt- und Korrekturabrechnung | Empfang Rückmeldungen  3.1
 
 DOKUMENTENHISTORIE
 
-| VERSION | DATUM | AUTOR | ÄNDERUNG | BEGRÜNDUNG | SEITE |
+| **VERSION** | **DATUM** | **AUTOR** | **ÄNDERUNG** | **BEGRÜNDUNG** | **SEITE** |
 |---|---|---|---|---|---|
 | 2.4 | 07.08.2024 | KBV | Anpassungen beim | Bessere | 11 |
 | 2.3 | 23.01.2024 | KBV | Ergänzung im Kapitel  Aufnahme eines neuen  Voraussetzungen für | Fehlende | 20      15    7 |
@@ -728,7 +718,7 @@ Die Nachrichten werden vom Prüfclient in regelmäßigen Zeitabstä
 
 In der nachfolgenden Tabelle werden die Prüfungen erläutert, die das Backend durchführt und deren Ergebnisse im Prüfprotokoll vermer
 
-| PRÜFNUMMER | PRÜFUMFANG | ERGEBNIS | HINWEIS |
+| **PRÜFNUMMER** | **PRÜFUMFANG** | **ERGEBNIS** | **HINWEIS** |
 |---|---|---|---|
 | AAA0010 | Ist das Element „ | Ja / Nein |  |
 | 1Click0110 | Ist das Element |  | 1Click0110 entfällt, wenn Ergebn |
@@ -744,13 +734,13 @@ Backend gesendet? Lieferung" enthielt Lieferung" enthielt keine fehlerfrei oder 
 
 ---
 
-| PRÜFNUMMER | PRÜFUMFANG | ERGEBNIS | HINWEIS |
+| **PRÜFNUMMER** | **PRÜFUMFANG** | **ERGEBNIS** | **HINWEIS** |
 |---|---|---|---|
-| AAA0030 | Subject | Ja / Nein |  |
+| AAA0030 | *Subject* | Ja / Nein |  |
 | 1Click0111 | Ist das Element | Ja / Nein | 1Click0111 entfällt, wenn Ergebnis AAA0030 = Nein |
 | 1Click0002 | Enthält der | Ja / Nein |  |
 | 1Click0003 | Enthält der Nachrichten-Header kein Element | Ja / Nein |  |
-| Die nachfolgenden Prüfungen entfallen, wenn eine der oben aufgeführten Prüfungen zum Nachrichten | | | |
+| **Die nachfolgenden Prüfungen entfallen, wenn eine der oben aufgeführten Prüfungen zum Nachrichten** | | | |
 | 1Click0131 | Nachricht " | Ja / Nein |  |
 | 1Click0142/a | Die Metainformationen im MIME -Segment der Begleitdatei sind | Ja / Nein | 1Click0142/a entfällt, wenn 1Click0131 = Nein |
 | 1Click0142/b | Die Metainformationen im MIME -Segment der Begleitdatei sind | Ja / Nein | 1Click0142/b entfällt, wenn 1Click0142/a = Nein |
@@ -762,7 +752,7 @@ Ist das Element „ “ im Nachrichten-Header eingerichtet?  mit dem vorgegebene
 
 ---
 
-| PRÜFNUMMER | PRÜFUMFANG | ERGEBNIS | HINWEIS |
+| **PRÜFNUMMER** | **PRÜFUMFANG** | **ERGEBNIS** | **HINWEIS** |
 |---|---|---|---|
 |  |  |  | Begleitdatei keine Abrechnungsdatei enthalten sein |
 | 1Click0142/c | Die Metainformationen im MIME -Segment der Abrechnungsdatei | Ja / Nein | entfällt, wenn 1Click0134/a = Nein |
@@ -778,7 +768,7 @@ sind angelegt? entsprechend der Vorgaben befüllt? 1ClickAbrechnung-Lieferung MI
 
 ---
 
-| PRÜFNUMMER | PRÜFUMFANG | ERGEBNIS | HINWEIS |
+| **PRÜFNUMMER** | **PRÜFUMFANG** | **ERGEBNIS** | **HINWEIS** |
 |---|---|---|---|
 | 1Click0136/d | Ist die | Ja / Nein | entfällt, wenn: |
 | 1Click0134/c | Enthält die Nachricht " | Ja / Nein | 1Click0134/c entfällt, wenn:  1Click0134/c sowie die nachfolgenden Prüfungen |
@@ -800,7 +790,7 @@ XML -Format in aktuellen Schnittstellenversion V=“1.21“ erstellt worden? 1Cl
 
 ---
 
-| PRÜFNUMMER | PRÜFUMFANG | ERGEBNIS | HINWEIS |
+| **PRÜFNUMMER** | **PRÜFUMFANG** | **ERGEBNIS** | **HINWEIS** |
 |---|---|---|---|
 | 1Click0141/b | Ist die Dateinamenserweiterung der Sammelerklärung im PDF - | Ja / Nein | 1Click0141/b entfällt, wenn: |
 
@@ -814,7 +804,7 @@ In der nachfolgenden Tabelle sind die Prüfungen aufgelistet, die das Backend du
 
 Die Fachliche Rückmeldung, die durch das Backend erstellt wird, hat beispielhaften Charakter. Je nach KV können auch andere ( werden.
 
-| DATENPAKET | PRÜFUMFANG | HINWEIS |
+| **DATENPAKET** | **PRÜFUMFANG** | **HINWEIS** |
 |---|---|---|
 | Abrechnungsdatei |  |  |
 |  | Plausibilitätsprüfung (XPM) |  |
@@ -836,7 +826,7 @@ Format " .sig.pdf Prüfung der Verschlüsselung (XKM) Test-Entschlüsselung Erge
 
 ---
 
-| DATENPAKET | PRÜFUMFANG | HINWEIS |
+| **DATENPAKET** | **PRÜFUMFANG** | **HINWEIS** |
 |---|---|---|
 |  |  |  |
 | Sammelerklärung (PDF) | Prüfung der Signatur, ob: |  |

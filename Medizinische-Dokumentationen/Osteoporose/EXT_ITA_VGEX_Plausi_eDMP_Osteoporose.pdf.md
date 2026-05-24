@@ -27,8 +27,8 @@
 
 ---
 
-| Nr. | Dokumentationsparameter | Ausprägung | Plausibilitäten |
-| „Osteoporose“ | | | |
+\| Nr. | Dokumentationsparameter | Ausprägung | Plausibilitäten |
+\| „Osteoporose“ | | | |
 | Anamnese und Befunddaten | | | |
 |---|---|---|---|
 | 1 | Osteoporosebedingte Fraktur in den | Ja / Nein | Bedingtes Pflichtfeld    Eine Angabe ist erforderlich, wenn die Anlage 20* im  Eine Angabe im Rahmen einer Folgedokumentation ist |

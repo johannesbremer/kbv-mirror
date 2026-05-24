@@ -1,15 +1,15 @@
-| Elektronische Sammelerklä rung (eSE) |
-|---|
-| Schnittstellenbeschreibung |
-| © kv.digital GmbH |
-| Berlin 2020 |
-| Version 1.21 |
-| Datum 10.02.2020 |
+\| ***Elektronische Sammelerklä rung (eSE)*** |
+\|---|
+\| *Schnittstellenbeschreibung* |
+\| © kv.digital GmbH |
+\| Berlin 2020 |
+\| Version 1.21 |
+\| Datum 10.02.2020 |
 
 
 ---
 
-| Version | Datum | Autor | Änderung | Begründung  GmbH  Umfirmung KV Telematik GmbH | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung ** GmbH  Umfirmung KV Telematik GmbH | **Seite** |
 |---|---|---|---|---|---|
 | 1.21L | 10.02.2020 kv.digital | GmbH | Umfirmung KV Telematik GmbH   Anpassung URL |  | Alle    68 |
 | 1.21L | 30.01.2019 KV | Telematik | Lizenzbestimmungen |  | 3 |
@@ -234,23 +234,23 @@ des öffentlichen Rechts oder öffentlich rechtlichen Sondervermögen ist. Jede 
 
 ---
 
-| **I N** | **H A L T** | **S V E R** | **Z E I C** | **H N I** | **S** |
-|---|---|---|---|---|---|
-| **6** | **QUELLENVERWEISE** | |  |  |  |
-|  | Schnittstellenbeschreibung | | Elektronische | Sammelerklärung | (eSE) |
+| **I N H A** | **L T S V E R** | **Z E I C H N I S** |
+|---|---|---|
+| **6** | **QUELLENVERWEISE** |  |
+| Schnittstellenbeschreibung | | Elektronische Sammelerklärung (eSE) |
 
 - **65**
 
 
 ---
 
-| Abbildung 1: |
-|---|
-| Abbildung 2: |
-| Abbildung 3:  Abbildung 4:  Abbildung 5:  Abbildung 6: |
-| Abbildung 7: |
-| Abbildung 8:  Abbildung 9:  Abbildung 10:  Abbildung 11:  Abbildung 12: |
-| Abbildung 13:  A B B I L D U N G S V E R Z E I C H N I S |
+\| Abbildung 1: |
+\|---|
+\| Abbildung 2: |
+\| Abbildung 3:  Abbildung 4:  Abbildung 5:  Abbildung 6: |
+\| Abbildung 7: |
+\| Abbildung 8:  Abbildung 9:  Abbildung 10:  Abbildung 11:  Abbildung 12: |
+\| Abbildung 13: **A B B I L D U N G S V E R Z E I C H N I S** |
 
 Abbildung 14: organization.nm ........................................................................................ 20
 
@@ -342,9 +342,9 @@ Abbildung 55: xslt_hash ........................................................
 
 ---
 
-| Tabelle 1:  .............................. 12 | Tabelle 2:  ............................................. 12 | Tabelle 3:  .............................................................. 13 | Tabelle 4  ..................................................................... 22 | Tabelle 5:  ...................................................................... 39  T A B E L L E N V E R Z E I C H N I S | Tabelle 6:  ............................................................. 41 |
+| Tabelle 1:  .............................. 12 | Tabelle 2:  ............................................. 12 | Tabelle 3:  .............................................................. 13 | Tabelle 4  ..................................................................... 22 | Tabelle 5:  ...................................................................... 39 **T A B E L L E N V E R Z E I C H N I S** | Tabelle 6:  ............................................................. 41 |
 |---|---|---|---|---|---|
-|  |  | T A B E L L E N V E R Z E I C H N I S |  |  |  |
+|  |  | **T A B E L L E N V E R Z E I C H N I S** |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
@@ -357,7 +357,7 @@ Beschreibung der Kardinalitäten eines XML-Elements Beschreibung der Strukturele
 
 | ........................................................................................................... 13  XML-Code 2: | ............................................................................................................... 15  XML-Code 3: | ............................................................................................... 15  XML-Code 4: | ............................................................................................... 16  XML-Code 5: | ............................................................................................... 16  XML-Code 6:  18 | 17  XML-Code 7: |
 |---|---|---|---|---|---|
-| 17  XML-Code 8: | .............................................................................................. | 18 | X M L - C O D E - V E R Z E I C H N I S  XML-Code 9: |  | 18  XML-Code 10: |
+| 17  XML-Code 8: | .............................................................................................. | 18 | **X M L - C O D E - V E R Z E I C H N I S ** XML-Code 9: |  | 18  XML-Code 10: |
 | 19  XML-Code 11: | .............................................................................................. | 19 |  | XML-Code 12: | ............................................................................................................... |
 | XML-Code 13: | 20 |  | XML-Code 14: |  | 21 |
 | XML-Code 15:  ..................................................................................................... 22 |  | XML-Code 16: | ..................................................................................................... | 23 |  |
@@ -595,17 +595,17 @@ Symbole in den folgenden Kapiteln kurz erläutert werden.
 
 Es existieren verschiedene Kardinalitäten:
 
-| Kardinalität | Symbol | Beschreibung |
+| **Kardinalität** | **Symbol** | **Beschreibung** |
 |---|---|---|
-| 0..1 |  | Optionale Elemente  Ein optionales Element wird als Rechteck mit gestri - |
+| 0..1 |  | **Optionale Elemente ** Ein optionales Element wird als Rechteck mit gestri - |
 
 chelter Linie dargestellt. Es kann keinmal oder einmal vorkommen.
 
 ---
 
-| 1 |  | Obligatorische Elemente  Elemente, welche als Rechteck mit durchgezogener |
+| 1 |  | **Obligatorische Elemente ** Elemente, welche als Rechteck mit durchgezogener |
 |---|---|---|
-| n...m |  | Mehrfache Elemente  - |
+| n...m |  | **Mehrfache Elemente ** - |
 
 **Tabelle 1:**
 
@@ -617,7 +617,7 @@ Die Elemente eines Schema -Diagramms werden über sogenannte Strukturelemente mi
 
 und ***<xs:sequence>***
 
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |---|---|
 |  | zeigt an, dass zwischen verschiedenen Kin |
 |  | beschreibt, dass die Kindelemen |
@@ -630,19 +630,19 @@ Beschreibung der Strukturelement-Symbole
 
 Es werden außerdem folgende Diagramm-Symbole verwendet:
 
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |---|---|
-|  | Element mit Kindelementen  Ein Element mit einem oder mehreren Kindelementen wird durch ein |
-|  | Referenzelement  Der Pfeil links unten im Element zeigt an, dass das Element an ande |
-|  | Datentyp  Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen |
+|  | **Element mit Kindelementen ** Ein Element mit einem oder mehreren Kindelementen wird durch ein |
+|  | **Referenzelement ** Der Pfeil links unten im Element zeigt an, dass das Element an ande |
+|  | **Datentyp ** Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen |
 
 Linie dargestellt sind, müssen genau einmal vorkom men. Bei Elementen, welche mehrfach vorkommen kön - nen, wird die erlaubte Anzahl rechts unter dem Sym bol dargestellt. Die Werte können von 0 bis (un- bounded) reichen. Das Strukturelement <xs:choice> delementen genau eins ausgewählt werden muss. Das Strukturelement <xs:sequence> te in fest- gelegter Reihenfolge aufgeführt werden müssen. Pluszeichen am Rechteckrand symbolisiert. rer Stelle im Schema definiert wurde. Datentyp.
 
 ---
 
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |---|---|
-|  | Gruppenelement  Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement |
+|  | **Gruppenelement ** Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement |
 
 **Tabelle 3:**
 
@@ -1059,9 +1059,9 @@ V Name der Organisationseinheit (Name der
 
 **organization.nm**
 
-organization.nm
+organization.nm 1
 
-KV) 1
+KV)
 
 
 ---
@@ -1129,7 +1129,7 @@ V Kommunikationstyp mit Nummer/Adresse
 
 Die Präfixe sind gemäß folgender Tabelle definiert:
 
-| Code | Erläuterung | Beispiel |
+| **Code** | **Erläuterung** | **Beispiel** |
 |---|---|---|
 | tel | Telefon/Mobiltelefon | <telecom V="tel:(0221)4449-0" /> |
 | fax | Faxnummer | <telecom V="fax:(0221)4449-400"/> |
@@ -1974,14 +1974,14 @@ Zeitraum
 
 Für das V-Attribut sind folgende Ausprägungen erlaubt:
 
-| Krankheit |
-|---|
-| Urlaub |
-| Fortbildung |
-| Schwangerschaft |
-| Entbindung |
-| Elternzeit |
-| Wehrübung |
+\| Krankheit |
+\|---|
+\| Urlaub |
+\| Fortbildung |
+\| Schwangerschaft |
+\| Entbindung |
+\| Elternzeit |
+\| Wehrübung |
 
 **Tabelle 5:**
 
@@ -2407,13 +2407,13 @@ Der XML-Code für das Element <angesteller_arzt_liste> könnte folgendermaßen a
 
 **<person>**
 
+werden. Für nähere 5.2.1 ff. verwiesen.
+
 **<id EX="123456789" RT="1.2.276.0.76.4.16"/>**
 
 **<person_name>**
 
 **<nm>**
-
-werden. Für nähere 5.2.1 ff. verwiesen.
 
 **<PFX V="Prof."/>**
 

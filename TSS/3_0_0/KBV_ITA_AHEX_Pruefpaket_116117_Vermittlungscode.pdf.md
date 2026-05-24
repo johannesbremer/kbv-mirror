@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 9. MAI 2025   VERSION: 1.01   DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 9. MAI 2025   VERSION: 1.01   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # PRUEFPAKET 116117 TERMINSERVICE  VERMITTLUNGSCODE
@@ -91,7 +91,7 @@ Psychotherapeutischen Sprechstunde 11
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.01 | 09.05.2025 | KBV | Korrektur einer |  | 11 |
 
@@ -262,39 +262,39 @@ Prüffälle als XML-Dateien
 
 ---
 
-| PRÜFFALL-ID | NAME | VERZEICHNISNAME |
+| **PRÜFFALL-ID** | **NAME** | **VERZEICHNISNAME** |
 |---|---|---|
-| 02  03  04 | Schaumbërg-von-und-zu- | Testpatient_XML |
+| **02  03  04** | Schaumbërg-von-und-zu- | Testpatient_XML |
 
 **Prüffall-ID „02, 03 und 04“ (XML_40)**
 
 |  |  |  |
 |---|---|---|
-| 3100 | Namenszusatz | Grossherzog |
-| 3120 | Vorsatzwort | von und zu der |
-| 3101 | Name | Schaumbërg-von-und-zu-Schaumburg-und-Radëberg |
-| 3102 | Vorname | Friëdrich-Wilhelm-Karl-Gustav-Justus-Gotfried |
-| 3103 | Geburtsdatum | 12.07.1951 |
-| 3104 | Titel | Prof. habil. Dr. med |
-| 3119 | Versicherten_ID | H030170228 |
-| 3107 | Straße | Pfaffenschlag bei Waidhofen an der Thaya Allee |
-| 3109 | Hausnummer | 155155133 |
-| 3115 | Anschriftenzusatz | 33. Obergeschoss - Hinterhof, halbrechts |
-| 3112 | PLZ | 53639 |
-| 3114 | Wohnsitzländercode | D |
-| 3113 | Ort | Königswinter |
-| 3121 | PostfachPLZ | 12489 |
-| 3122 | PostfachOrt | Berlin |
-| 3123 | Postfach | 124589 |
-| 3124 | PostfachWohnsitzländercode | D |
-| 3116 | WOP | 38 |
-| 3108 | Versichertenart | 1 |
-| 3110 | Geschlecht | M |
-| 4133 | Versicherungsschutz Beginn | 01.01.2011 |
-| 4110 | Versicherungsschutz Ende | 31.12.2045 |
-| 4111 | Kostentraegerkennung | 104424874 |
-| 4134 | Kostentraegername | Thyssen Industrie |
-| 4132 | DMP_Kennzeichnung | 09 |
+| **3100** | **Namenszusatz** | Grossherzog |
+| **3120** | **Vorsatzwort** | von und zu der |
+| **3101** | **Name** | Schaumbërg-von-und-zu-Schaumburg-und-Radëberg |
+| **3102** | **Vorname** | Friëdrich-Wilhelm-Karl-Gustav-Justus-Gotfried |
+| **3103** | **Geburtsdatum** | 12.07.1951 |
+| **3104** | **Titel** | Prof. habil. Dr. med |
+| **3119** | **Versicherten_ID** | H030170228 |
+| **3107** | **Straße** | Pfaffenschlag bei Waidhofen an der Thaya Allee |
+| **3109** | **Hausnummer** | 155155133 |
+| **3115** | **Anschriftenzusatz** | 33. Obergeschoss - Hinterhof, halbrechts |
+| **3112** | **PLZ** | 53639 |
+| **3114** | **Wohnsitzländercode** | D |
+| **3113** | **Ort** | Königswinter |
+| **3121** | **PostfachPLZ** | 12489 |
+| **3122** | **PostfachOrt** | Berlin |
+| **3123** | **Postfach** | 124589 |
+| **3124** | **PostfachWohnsitzländercode** | D |
+| **3116** | **WOP** | 38 |
+| **3108** | **Versichertenart** | 1 |
+| **3110** | **Geschlecht** | M |
+| **4133** | **Versicherungsschutz Beginn** | 01.01.2011 |
+| **4110** | **Versicherungsschutz Ende** | 31.12.2045 |
+| **4111** | **Kostentraegerkennung** | 104424874 |
+| **4134** | **Kostentraegername** | Thyssen Industrie |
+| **4132** | **DMP_Kennzeichnung** | 09 |
 
 Schaumburg-und-Radëberg |  |  |
 |---|---|
@@ -306,17 +306,17 @@ Schaumburg-und-Radëberg |  |  |
 
 Sofern zur Bearbeitung der Prüffälle Praxisdaten benötigt werden, können die folgenden Praxisdaten  verwendet werden.
 
-| PRAXISDATEN |  |
+| **PRAXISDATEN** |  |
 |---|---|
-| Betriebsstättennummer (BSNR): | 198212400 |
-| BSNR-Bezeichnung: | Praxis Dr. med. Heribert Topp-Glücklich |
-| Lebenslange Arztnummer (LANR): | 776299002 |
-| Arztname: | Dr. med. Topp-Glücklich |
-| Vorname: | Heribert |
-| Strasse: | Musterstr. 1 |
-| PLZ/Ort: | 48143 Münster |
-| Telefon: | 02151 / 1111111 |
-| Telefax: | 02151 / 2222222 |
+| **Betriebsstättennummer (BSNR):** | 198212400 |
+| **BSNR-Bezeichnung:** | Praxis Dr. med. Heribert Topp-Glücklich |
+| **Lebenslange Arztnummer (LANR):** | 776299002 |
+| **Arztname:** | Dr. med. Topp-Glücklich |
+| **Vorname:** | Heribert |
+| **Strasse:** | Musterstr. 1 |
+| **PLZ/Ort:** | 48143 Münster |
+| **Telefon:** | 02151 / 1111111 |
+| **Telefax:** | 02151 / 2222222 |
 
 / Version: 1.01 / 9. Mai 2025
 
@@ -332,9 +332,9 @@ Sofern zur Bearbeitung der Prüffälle Praxisdaten benötigt werden, können die
 
 |  |  |
 |---|---|
-| Prüffall-ID | 01 |
-| Testziel | „ |
-| Einzureichende | Eine Audit-Bescheinigung der kv.digital GmbH |
+| **Prüffall-ID** | 01 |
+| **Testziel** | „ |
+| **Einzureichende** | Eine Audit-Bescheinigung der kv.digital GmbH |
 
 Zur Initiierung des Audits setzt sich der Hersteller per E-Mail an [audit@kv.digital](mailto:audit@kv.digital) mit der kv.digital GmbH in
 
@@ -354,9 +354,9 @@ Der Nachweis über das von der kv.digital GmbH erfolgreich durchgeführte Audit 
 
 |  |  |
 |---|---|
-| Prüffall-ID | 02 |
-| Testziel | Der Arzt möchte im Rahmen einer Überweisung einen gültigen |
-| Einzureichende | Ein Ausdruck des Musters 6 als „PDF“ |
+| **Prüffall-ID** | 02 |
+| **Testziel** | Der Arzt möchte im Rahmen einer Überweisung einen gültigen |
+| **Einzureichende** | Ein Ausdruck des Musters 6 als „PDF“ |
 
 **Personalien**
 
@@ -366,19 +366,19 @@ XML-Name: Testpatient_XML
 
 |  |  |
 |---|---|
-| Kurativ | Ja |
-| Präventiv | Nein |
-| Behandlung gem. §116b SGB V | Nein |
-| Belegärztliche Behandlung | Nein |
-| Überweisung an | Innere Medizin |
-| Unfall | Nein |
-| Ausführung von Auftragsleistungen | Nein |
-| Konsiliaruntersuchung | Nein |
-| Mit-/ Weiterbehandlung | Ja |
-| Eingeschränkter Leistungsanspruch gem. § 16 Abs. | nein |
-| Diagnose | K51.9 V : Colitis ulcerosa, nicht näher bezeichnet |
-| Befund | blutig-schleimige Diarrhoe, Tenesmen, |
-| Auftrag | <An dieser Stelle steht der Vermittlungscode inkl. |
+| **Kurativ** | Ja |
+| **Präventiv** | Nein |
+| **Behandlung gem. §116b SGB V** | Nein |
+| **Belegärztliche Behandlung** | Nein |
+| **Überweisung an** | Innere Medizin |
+| **Unfall** | Nein |
+| **Ausführung von Auftragsleistungen** | Nein |
+| **Konsiliaruntersuchung** | Nein |
+| **Mit-/ Weiterbehandlung** | Ja |
+| **Eingeschränkter Leistungsanspruch gem. § 16 Abs.** | nein |
+| **Diagnose** | K51.9 V : Colitis ulcerosa, nicht näher bezeichnet |
+| **Befund** | blutig-schleimige Diarrhoe, Tenesmen, |
+| **Auftrag** | *<An dieser Stelle steht der Vermittlungscode inkl.* |
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
@@ -398,9 +398,9 @@ der Terminservicestelle nach den aktuellen Vorgaben auf das Muster 6 zur Weiterg
 
 |  |  |
 |---|---|
-| Prüffall-ID | 03 |
-| Testziel | Der überweisende Arzt möchte im Rahmen einer Überweisung einen gültigen |
-| Einzureichende | Ein Ausdruck des Musters PTV11  als „PDF“ |
+| **Prüffall-ID** | 03 |
+| **Testziel** | Der überweisende Arzt möchte im Rahmen einer Überweisung einen gültigen |
+| **Einzureichende** | Ein Ausdruck des Musters PTV11  als „PDF“ |
 
 **Personalien**
 
@@ -410,15 +410,15 @@ XML-Name: Testpatient_XML
 
 |  |  |
 |---|---|
-| Ergebnis der Psychotherapeutischen Sprechstunde | Bei Ihnen wurde(n) folgende |
-| ICD-10 - GM endstellig | F60.9 G, F20.9 V, F28 A |
-| Diagnose(n)/Verdachtsdiagnosen (im Klartext …) | Persönlichkeitsstörung, nicht näher bezeichnet; |
-| Empfehlungen zum weiteren Vorgehen | Ambulante psychotherapeutische Akutbehandlung |
-| Freitextfeld im Bereich    Nähere Angaben zu den Empfehlungen | <An dieser Stelle steht der Vermittlungscode inkl. |
-| Name des Arztes | Facharzt für Psychiatrie und Psychotherapie |
-| Straße | Facharztstraße |
-| PLZ | 10623 |
-| Ort | Berlin |
+| **Ergebnis der Psychotherapeutischen Sprechstunde** | Bei Ihnen wurde(n) folgende |
+| **ICD-10 - GM endstellig** | F60.9 G, F20.9 V, F28 A |
+| **Diagnose(n)/Verdachtsdiagnosen (im Klartext …)** | Persönlichkeitsstörung, nicht näher bezeichnet; |
+| **Empfehlungen zum weiteren Vorgehen** | Ambulante psychotherapeutische Akutbehandlung |
+| **Freitextfeld im Bereich **   Nähere Angaben zu den Empfehlungen | *<An dieser Stelle steht der Vermittlungscode inkl.* |
+| **Name des Arztes** | Facharzt für Psychiatrie und Psychotherapie |
+| **Straße** | Facharztstraße |
+| **PLZ** | 10623 |
+| **Ort** | Berlin |
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
@@ -436,8 +436,8 @@ Vermittlungscode der Terminservicestelle nach den aktuellen Vorgaben auf das Mus
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
-| [Spec_ | „ |
+| **Referenz** | **Dokument** |
+| [Spec**_** | „ |
 | [Technische_Anlage_116117_Terminservice_Vcode] | „Technische Anlage zur Spezifikation „ |
 | [KBV_ITA_VGEX_Anforderungskatalog_TSS] | „ |
 | [KBV_ITA_RLEX_Zert] | Zertifizierungsrichtlinie der KBV |

@@ -1,15 +1,15 @@
-|  |
-|---|
+\|  |
+\|---|
 
 # ANFORDERUNGSKATALOG  VERORDNUNGSSOFTWARE SCHNITTSTELLE NACH § 371 ABSATZ 1  NUMMER 2 SGB V
 
 ## [KBV_ITA_VGEX_ANFORDERUNGSKATALOG_SST -VOS]
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT** |
 |---|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
 DOKUMENTENSTATUS:  IN KRAFT  BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   15. SEPTEMBER 2023 VERSION: 2.1.2
 
@@ -165,7 +165,7 @@ Tabelle 4 Mindestumfang der Daten an der B1 -Schnittstelle
 
 ABKÜRZUNGSVERZEICHNIS
 
-| Abkürzung | Erläuterung |
+| **Abkürzung** | **Erläuterung** |
 |---|---|
 | ASV | Ambulante spezialfachärztliche Versorgung |
 | Aufruf-Bundle | Bundle, welches beim Aufruf der VoS aus dem PVS vom PVS an die |
@@ -197,7 +197,7 @@ VoS übergeben wird. Siehe u.a. Anforderung P4 -10 erzeugten patientenbezogenen 
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 2.1.2 | 15.09.2023 | KBV | Anpassung P4-00 | Konkretisierung | 23 |
 | 2.1.1 | 21.02.2023 | KBV | V 2.1.0 umbenannt in V2.1.1     KP4-120: Aufruf Storno-eRezept  KP4-121: Aufruf Storno-eRezept | Redaktionelle Änderung    Redaktionelle Änderung | 8    33 |
@@ -212,7 +212,7 @@ Kürzels “AVWG” Referenz Grundlage für Medikationspläne entfernt Zertifizi
 
 ---
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 |  |  |  |  | P3-60, -71, -80, -100, -110,   -130, -190  P4-00, KP4-30, -40, P4-150,   -180, KP4-190  P5-10  Tabelle 18, P4-170    Verschobene Anfo‘s: P3-10 zu P4-999 und P5-999  P3-20 zu P5-999 | Konkretisierung der  Anforderungen    Redaktionelle Anpassung |
 | 1.10.001 | 27.05.2019 | KBV | Aktualisierung |  | Alle |
@@ -284,21 +284,21 @@ Entscheidung hierzu liegt im Ermessen des jeweiligen Softwareherstellers.
 
 Pflichtfunktionen sind wie folgt gekennzeichnet:
 
-| PFLICHTFUNKTION VOS |  |
+| **PFLICHTFUNKTION VOS** |  |
 |---|---|
-| P4-10 | Funktionsbezeichnung |
+| **P4-10** | Funktionsbezeichnung |
 
 Konditionale Pflichtfunktionen sind wie folgt gekennzeichnet:
 
-| KONDITIONALE PFLICHTFUNKTION VOS |  |
+| **KONDITIONALE PFLICHTFUNKTION VOS** |  |
 |---|---|
-| KP4-15 | Funktionsbezeichnung |
+| **KP4-15** | Funktionsbezeichnung |
 
 Optionale Funktionen sind wie folgt gekennzeichnet:
 
-| OPTIONALE FUNKTION VOS |  |
+| **OPTIONALE FUNKTION VOS** |  |
 |---|---|
-| O4-20 | Funktionsbezeichnung |
+| **O4-20** | Funktionsbezeichnung |
 
 ## 1.4 GÜLTIGKEIT DER VERSION DES ANFORDERUNGSKATALOGS
 
@@ -530,9 +530,9 @@ SST bzw. B2-SST sind.
 
 **3.1** **VERBINDLICHE DOKUMENTE**
 
-| PFLICHTFUNKTION VOS |  |
+| **PFLICHTFUNKTION VOS** |  |
 |---|---|
-| P3-00 | Schnittstellenfestlegung Verordnungssoftware |
+| **P3-00** | Schnittstellenfestlegung Verordnungssoftware |
 
 Das Dokument [KBV_ITA_VGEX_SST_Festlegung_VOS] ist für beide Systeme verbindlich.
 
@@ -548,9 +548,9 @@ Das PVS und die VoS müssen den Anforderungen der Spezifikation [KBV_ITA_VGEX_SS
 
 entsprechen.
 
-| PFLICHTFUNKTION VOS |  |
+| **PFLICHTFUNKTION VOS** |  |
 |---|---|
-| P3-30 | KBV-Profile [KBV_FHIR_VoS.zip] |
+| **P3-30** | KBV-Profile [KBV_FHIR_VoS.zip] |
 
 Die KBV-Profile müssen ohne jegliche Modifikation eingesetzt werden.
 
@@ -570,7 +570,7 @@ Ressourcen zu verwenden sind.
 
 **Akzeptanzkriterium:**
 
-| RESSOURCENTYP (PROFIL) |  |  |
+| **RESSOURCENTYP (PROFIL)** |  |  |
 |---|---|---|
 | Allergie | KBV_PR_VoS_AllergyIntolerance | AllergyIntolerance |
 | Anwender | KBV_PR_VoS_User | Practitioner |
@@ -581,7 +581,7 @@ Ressourcen zu verwenden sind.
 
 ---
 
-| RESSOURCENTYP (PROFIL) |  |  |
+| **RESSOURCENTYP (PROFIL)** |  |  |
 |---|---|---|
 | Aufruf-Bundle | KBV_PR_VoS_Bundle_PVS_VoS | Bundle |
 | Speicher-Bundle | KBV_PR_VoS_Bundle_VoS_PVS | Bundle |
@@ -630,9 +630,9 @@ Abbildung 5: Zuordnung der KBV -Profile
 
 **3.2** **ÜBERGREIFENDE ANFORDERUNGEN**
 
-| PFLICHTFUNKTION VOS |  |
+| **PFLICHTFUNKTION VOS** |  |
 |---|---|
-| P3-190 | Fehlermeldungen |
+| **P3-190** | Fehlermeldungen |
 
 Tritt im Rahmen der VoS-Schnittstelle ein Fehler auf, so muss dem Arzt eine aussagekräftige  angezeigt werden.
 
@@ -671,9 +671,9 @@ Fehlermeldung - twas
 
 Inhalte, Aufbau etc. der Fehlermeldung können von den Systemen eigenständig gestaltet werden.
 
-| PFLICHTFUNKTION VOS |  |
+| **PFLICHTFUNKTION VOS** |  |
 |---|---|
-| P3-200 | Definition der Aufrufkontexte |
+| **P3-200** | Definition der Aufrufkontexte |
 
 Durch die VoS-Schnittstelle sind die unten dargestellten Aufrufkontexte zu unterstützen.
 
@@ -687,7 +687,7 @@ In der Verordnungssoftware sind folgende Aufrufkontext definiert. Welcher Aufruf
 
 |  |  |  |
 |---|---|---|
-| ID | Bezeichnung | Erläuterung |
+| **ID** | **Bezeichnung** | **Erläuterung** |
 | 1 | Ohne Aufrufkontext | Kein konkreter Aufrufkontext wurde an |
 | 2 | Erstverordnung | Der Arzt möchte eine Erstverordnung für |
 | 3 | Wiederverordnung | Der Arzt möchte eine Wiederverordnung |
@@ -713,9 +713,9 @@ Basis des Barcodes auf dem BMP aktualisieren (eMP) auf Basis eines bestehenden s
 
 Tabelle 2 Aufrufkontext der VoS -Schnittstelle
 
-| PFLICHTFUNKTION VOS |  |
+| **PFLICHTFUNKTION VOS** |  |
 |---|---|
-| P3-210 | Eigenschaft „must support“ |
+| **P3-210** | Eigenschaft „must support“ |
 
 FHIR®-Elemente mit der Eigenschaft "mustSupport" müssen immer implementiert werden.
 
@@ -735,9 +735,9 @@ Eine wichtige Eigenschaft der KBV-Profile bildet "mustSupport". Hierbei handelt 
 
 Konkrete Ausnahmen zu Akzeptanzkriterium 1 werden durch entsprechende Anforderungen definiert.
 
-| PFLICHTFUNKTION VOS |  |
+| **PFLICHTFUNKTION VOS** |  |
 |---|---|
-| P3-220 | Inhalt im Element meta.profil |
+| **P3-220** | Inhalt im Element meta.profil |
 
 Das Element meta.profil in Instanzen der FHIR®-Ressourcen ist mit der Canonical-URL des verwendeten  FHIR®-Profiles unter Angabe der Versionsnummer zu versehen.
 
@@ -772,17 +772,17 @@ e - FHIR®-Elemente
 
 ---
 
-| Beispiel  Definition des Patienten in KBV_VoS_Patient:  <StructureDefinition xmlns="http://hl7.org/fhir"> <url value="https://fhir.kbv.de/StructureDefinition/  <version value="2.1.0" />  ...  </StructureDefinition>    Instanzen des Patienten  <Patient xmlns="http://hl7.org/fhir">  <meta>  <profile value="https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_Patient\|2.1.0" />   </meta>  ...  </Patient> |
-|---|
+\| **Beispiel ** Definition des Patienten in KBV_VoS_Patient:  <StructureDefinition xmlns="http://hl7.org/fhir"> <url value="https://fhir.kbv.de/StructureDefinition/  <version value="2.1.0" />  ...  </StructureDefinition>    Instanzen des Patienten  <Patient xmlns="http://hl7.org/fhir">  <meta>  <profile value="https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_Patient\|2.1.0" />   </meta>  ...  </Patient> |
+\|---|
 
 KBV_PR_VoS_Patient" />
 
 
 ---
 
-| PFLICHTFUNKTION VOS |  |
+| **PFLICHTFUNKTION VOS** |  |
 |---|---|
-| P3-230 | Einschränkung der Parameter der FHIR-Search-API für VoS |
+| **P3-230** | Einschränkung der Parameter der FHIR-Search-API für VoS |
 
 Für die Unterstützung der definierten VoS-Anwendungsfälle können die Parameter [Parameters]
 
@@ -810,9 +810,9 @@ Für die Typen der Ressourcen [type] gibt es keine Such Schnittstelle definierte
 
 -Einschränkungen. Es müssen alle für die
 
-| PFLICHTFUNKTION VOS |  |
+| **PFLICHTFUNKTION VOS** |  |
 |---|---|
-| P3-240 | Zeitverhalten |
+| **P3-240** | Zeitverhalten |
 
 Grundsätzlich soll es in der Kommunikation beider Komponenten zu keiner Verzögerung kommen.
 
@@ -824,9 +824,9 @@ Festlegung für die Schnittstelle.
 
 Die Kommunikation muss mit einem angemessenen Zeitverhalten erfolgen, d.h. Antworten, Rück Fehlermeldungen erfolgen in der für die jeweils aufrufende Software üblichen Reaktionszeit.
 
-| PFLICHTFUNKTION VOS |  |
+| **PFLICHTFUNKTION VOS** |  |
 |---|---|
-| P3-250 | Installationspaket |
+| **P3-250** | Installationspaket |
 
 Die Installation der Software soll für den Anwender einfach gestaltet werden.
 
@@ -851,9 +851,9 @@ ation nach Aufruf selbstständig
 
 ---
 
-| PFLICHTFUNKTION VOS |  |
+| **PFLICHTFUNKTION VOS** |  |
 |---|---|
-| P3-260 | Einstellungen |
+| **P3-260** | Einstellungen |
 
 Der Praxis müssen alle erforderlichen Informationen vorliegen, um die Einrichtung der Schnittstelle  vornehmen zu können.
 
@@ -873,9 +873,9 @@ Die Abhängigkeit von Support-Dienstleistern nach Kauf einer Lizenz soll beim Ei
 
 - komplizierte Schrittfolge erreichbar sein (z. B. kein Schutz durch ein nur dem Hersteller/Support  bekanntes Passwort).
 
-| KONDITIONALE PFLICHTFUNKTION VOS |  | |
+| **KONDITIONALE PFLICHTFUNKTION VOS** |  | |
 |---|---|---|
-| KP3-270 | Befüllen von Instanzen mit sektorübergreifenden Informationen | |
+| **KP3-270** | Befüllen von Instanzen mit sektorübergreifenden Informationen | |
 |  |  |  |
 
 Es müssen nur KV-Bereich-relevante Informationen beim Schreiben der Instanzen unterstützt werden.
@@ -900,9 +900,9 @@ Folgende Elemente müssen in diesem Zusammenhang nicht zwangsläufig befüllt we
 
 Diese Anforderung gilt nur für den KV-Bereich.
 
-| KONDITIONALE PFLICHTFUNKTION VOS |  | |
+| **KONDITIONALE PFLICHTFUNKTION VOS** |  | |
 |---|---|---|
-| KP3-280 | Sicherheit | |
+| **KP3-280** | Sicherheit | |
 |  |  |  |
 
 Der Datenaustausch über die REST-Schnittstelle sollte abgesichert werden können.
@@ -939,9 +939,9 @@ In diesem Kapitel werden alle Anforderungen an das PVS definiert, die für die U
 
 **4.1** **VOS AUFRUFEN**
 
-| PFLICHTFUNKTION VOS |  |
+| **PFLICHTFUNKTION VOS** |  |
 |---|---|
-| P4-00 | Aufruf der VoS (Systemaufruf) |
+| **P4-00** | Aufruf der VoS (Systemaufruf) |
 
 Der Arzt muss die VoS jederzeit aus dem PVS aufrufen können.
 
@@ -963,8 +963,8 @@ Dem Arzt muss der Aufruf der VoS aus dem PVS ohne Umwege ermöglicht werden.
 
 - 4. Tritt beim Aufrufen der VoS ein Fehler auf, so muss dem Arzt unter Beac eine aussagekräftige Fehlermeldung angezeigt werden.
 
-| Beispiel:   Aufruf: VOSProgramm.exe -kID 12345 |
-|---|
+\| **Beispiel:  ** Aufruf: VOSProgramm.exe -kID 12345 |
+\|---|
 
 **HINWEIS**
 
@@ -1007,7 +1007,7 @@ versehen. Diese ergeben sich aus Tabelle 3.
 
 ---
 
-| FHIR-Profil | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| **FHIR-Profil** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  | Ohne Aufruf- | Erst- | Wiederver- | Administra Arzneimittel- | recherche | Arzneimittel- | BMP für | BMP auf | BMP/eMP auf Statistiken Hausapo- | ausführen | theke | Storno |
 | KBV_PR_VoS_Pract | x | x | x | x | x | x | x | x | x | x | x | x |
@@ -1070,9 +1070,9 @@ le e_PVS Tabelle 3 Ressourcen pro Aufrufkontext
 
 - Aufruf-Bundle übergeben werden.
 
-| PFLICHTFUNKTION VOS |  |
+| **PFLICHTFUNKTION VOS** |  |
 |---|---|
-| P4-10 | Aufruf-Bundle und Praxisdaten |
+| **P4-10** | Aufruf-Bundle und Praxisdaten |
 
 Bei jedem Aufruf müssen die Praxisdaten (Behandelnder, BehandelnderRolle, Betriebsstätte, System sowie
 
@@ -1104,9 +1104,9 @@ Prüfnummer des PVS und nur im Rahmen einer ASV-Behandlung die ASV-Teamnummer ü
 
 werden.
 
-| PFLICHTFUNKTION VOS |  |
+| **PFLICHTFUNKTION VOS** |  |
 |---|---|
-| P4-20 | Aufruf ohne Aufrufkontext |
+| **P4-20** | Aufruf ohne Aufrufkontext |
 
 Der Arzt muss die VoS mit dem Aufrufkontext = 1 (ohne Aufrufkontext) jederzeit aus dem PVS aufrufen  können.
 
@@ -1116,9 +1116,9 @@ Mit diesem Aufrufkontext wird der Arzt in die Lage versetzt, die VoS ohne Überg
 
 **Akzeptanzkriterium:**
 
-| KONDITIONALE PFLICHTFUNKTION VOS |  |
+| **KONDITIONALE PFLICHTFUNKTION VOS** |  |
 |---|---|
-| KP4-30 | Aufruf Erstverordnung |
+| **KP4-30** | Aufruf Erstverordnung |
 
 Der Arzt kann die VoS mit dem Aufrufkontext = 2 aus dem PVS aufrufen.
 
@@ -1155,9 +1155,9 @@ dazugehörigen Daten.
 
 Diese Anforderung muss nur dann umgesetzt werden, wenn das PVS die entsprechende  Verordnungsfunktionalität unterstützt.
 
-| KONDITIONALE PFLICHTFUNKTION VOS |  |
+| **KONDITIONALE PFLICHTFUNKTION VOS** |  |
 |---|---|
-| KP4-40 | Aufruf Wiederverordnung |
+| **KP4-40** | Aufruf Wiederverordnung |
 
 Der Arzt kann die VoS mit dem Aufrufkontext = 3 aus dem PVS aufrufen.
 
@@ -1187,9 +1187,9 @@ Diese Anforderung ermöglicht den direkten Aufruf der Verordnungsfunktion „Wie
 
 Diese Anforderung muss nur dann umgesetzt werden, wenn das PVS die entsprechende  Verordnungsfunktionalität unterstützt.
 
-| KONDITIONALE PFLICHTFUNKTION VOS |  |
+| **KONDITIONALE PFLICHTFUNKTION VOS** |  |
 |---|---|
-| KP4-50 | Aufruf Administration |
+| **KP4-50** | Aufruf Administration |
 
 Der Arzt kann die VoS mit dem Aufrufkontext = 4 aus dem PVS aufrufen.
 
@@ -1220,12 +1220,12 @@ Diese Anforderung ermöglicht den direkten Aufruf der Verordnungsfunktion „Adm
 
 Diese Anforderung muss nur dann umgesetzt werden, wenn das PVS die entsprechende  Verordnungsfunktionalität unterstützt.
 
-| Beispiel:   Das manuelle Einspielen von Updates. |
-|---|
+\| **Beispiel:  ** Das manuelle Einspielen von Updates. |
+\|---|
 
-| KONDITIONALE PFLICHTFUNKTION VOS |  |
+| **KONDITIONALE PFLICHTFUNKTION VOS** |  |
 |---|---|
-| KP4-60 | Aufruf Arzneimittelrecherche ohne Patientenkontext |
+| **KP4-60** | Aufruf Arzneimittelrecherche ohne Patientenkontext |
 
 Der Arzt kann die VoS mit dem Aufrufkontext = 5 aus dem PVS aufrufen.
 
@@ -1284,12 +1284,12 @@ Verordnungsfunktionalität unterstützt.
 
 - P4-10 der VoS übergeben wird.
 
-| Beispiel:   Der Arzt möchte Informationen zu einem Medikament nachschlagen. |
-|---|
+\| **Beispiel:  ** Der Arzt möchte Informationen zu einem Medikament nachschlagen. |
+\|---|
 
-| KONDITIONALE PFLICHTFUNKTION VOS |  |
+| **KONDITIONALE PFLICHTFUNKTION VOS** |  |
 |---|---|
-| KP4-70 | Aufruf Arzneimittelrecherche mit Patientenkontext |
+| **KP4-70** | Aufruf Arzneimittelrecherche mit Patientenkontext |
 
 Der Arzt kann die VoS mit dem Aufrufkontext = 6 aus dem PVS aufrufen.
 
@@ -1303,12 +1303,12 @@ Diese Anforderung ermöglicht den direkten Aufruf der Verordnungsfunktion „Arz
 
 Diese Anforderung muss nur dann umgesetzt werden, wenn das PVS die entsprechende  Verordnungsfunktionalität unterstützt.
 
-| Beispiel:   Der Arzt möchte Informationen zu einem Medikament einsehen, welches einem bestimmten |
-|---|
+\| **Beispiel:  ** Der Arzt möchte Informationen zu einem Medikament einsehen, welches einem bestimmten |
+\|---|
 
-| KONDITIONALE PFLICHTFUNKTION VOS |  |
+| **KONDITIONALE PFLICHTFUNKTION VOS** |  |
 |---|---|
-| KP4-80 | Aufruf  BMP für Patienten neu erstellen |
+| **KP4-80** | Aufruf  BMP für Patienten neu erstellen |
 
 Der Arzt kann die VoS mit dem Aufrufkontext = 7 aus dem PVS aufrufen.
 
@@ -1333,9 +1333,9 @@ Patienten verordnet wurde. Der Arzt möchte sich über Medikament(e) für einen 
 
 Diese Anforderung muss nur dann umgesetzt werden, wenn das PVS die entsprechende  Verordnungsfunktionalität unterstützt.
 
-| KONDITIONALE PFLICHTFUNKTION VOS |  |
+| **KONDITIONALE PFLICHTFUNKTION VOS** |  |
 |---|---|
-| KP4-90 | Aufruf BMP auf Basis des Barcodes auf dem BMP aktualisieren |
+| **KP4-90** | Aufruf BMP auf Basis des Barcodes auf dem BMP aktualisieren |
 
 Der Arzt kann die VoS mit dem Aufrufkontext = 8 aus dem PVS aufrufen.
 
@@ -1367,9 +1367,9 @@ Diese Anforderung muss nur dann umgesetzt werden, wenn das PVS die entsprechende
 
 Diese Funktion ermöglicht direkt beim Öffnen der VoS in die Funktion „Barcode von MP einlesen“ zu  springen.
 
-| KONDITIONALE PFLICHTFUNKTION VOS |  |
+| **KONDITIONALE PFLICHTFUNKTION VOS** |  |
 |---|---|
-| KP4-100 | Aufruf BMP/eMP auf Basis eines bestehenden strukturierten |
+| **KP4-100** | Aufruf BMP/eMP auf Basis eines bestehenden strukturierten |
 
 Der Arzt kann die VoS mit dem Aufrufkontext = 9 aus dem PVS aufrufen.
 
@@ -1399,9 +1399,9 @@ Diese Anforderung muss nur dann umgesetzt werden, wenn das PVS die entsprechende
 
 Sofern ein Barcode des BMP im PVS in der Patientendokumentation vorliegt, kann dieser als Grundlage für  die Bearbeitung des Medikationsplans in der VoS verwendet werden.
 
-| KONDITIONALE PFLICHTFUNKTION VOS |  |
+| **KONDITIONALE PFLICHTFUNKTION VOS** |  |
 |---|---|
-| KP4-110 | Aufruf Statistiken |
+| **KP4-110** | Aufruf Statistiken |
 
 Der Arzt kann die VoS mit dem Aufrufkontext = 10 aus dem PVS aufrufen.
 
@@ -1429,9 +1429,9 @@ Diese Anforderung ermöglicht den direkten Aufruf der Verordnungsfunktion „Sta
 
 Diese Anforderung muss nur dann umgesetzt werden, wenn das PVS die entsprechende  Verordnungsfunktionalität unterstützt.
 
-| KONDITIONALE PFLICHTFUNKTION VOS |  |
+| **KONDITIONALE PFLICHTFUNKTION VOS** |  |
 |---|---|
-| KP4-120 | Aufruf Hausapotheke |
+| **KP4-120** | Aufruf Hausapotheke |
 
 Der Arzt kann die VoS mit dem Aufrufkontext = 11 aus dem PVS aufrufen.
 
@@ -1472,9 +1472,9 @@ Diese Anforderung ermöglicht den direkten Aufruf der Verordnungsfunktion „Hau
 
 Diese Anforderung muss nur dann umgesetzt werden, wenn das PVS die entsprechende  Verordnungsfunktionalität unterstützt.
 
-| KONDITIONALE PFLICHTFUNKTION VOS |  |
+| **KONDITIONALE PFLICHTFUNKTION VOS** |  |
 |---|---|
-| KP4-121 | Aufruf Storno-eRezept |
+| **KP4-121** | Aufruf Storno-eRezept |
 
 Der Arzt kann die VoS mit dem Aufrufkontext = 12 aus dem PVS aufrufen.
 
@@ -1500,9 +1500,9 @@ Diese Anforderung muss nur dann umgesetzt werden, wenn das PVS die entsprechende
 
 **4.3** **DATEN PRÜFEN**
 
-| KONDITIONALE PFLICHTFUNKTION VOS |  |
+| **KONDITIONALE PFLICHTFUNKTION VOS** |  |
 |---|---|
-| P4-130 | Korrektheit und Vollständigkeit der Daten |
+| **P4-130** | Korrektheit und Vollständigkeit der Daten |
 
 - -Bundle unter Berücksichtigung der Pflichtfunktion
 
@@ -1527,12 +1527,12 @@ Das PVS muss die zu übermittelnden Daten unter Berücksichtigung der KBV Anford
 
 - 2. Das PVS muss der VoS immer die vollständigen Grundlage nehmen, d. h., die Daten für die Bedruckung dürfen nicht bereits im PVS gekürzt werden.
 
-| Beispiel: |
-|---|
+\| **Beispiel:** |
+\|---|
 
-| KONDITITIONALE PFLICHTFUNKTION VOS |  |
+| **KONDITITIONALE PFLICHTFUNKTION VOS** |  |
 |---|---|
-| KP4-140 | Statusfeld |
+| **KP4-140** | Statusfeld |
 
 Die Daten zum Statusfeld müssen der VoS immer übergeben werden
 
@@ -1575,12 +1575,12 @@ gten Informationen zu den Inhalten
 
 ---
 
-| Beispiel:   Für einen Patienten mit der Versichertenart = 1 (Mitglied) und keine |
-|---|
+\| **Beispiel:  ** Für einen Patienten mit der Versichertenart = 1 (Mitglied) und keine |
+\|---|
 
-| PFLICHTFUNKTION VOS |  |
+| **PFLICHTFUNKTION VOS** |  |
 |---|---|
-| P4-150 | Datenabfrage durch die VoS |
+| **P4-150** | Datenabfrage durch die VoS |
 
 Das PVS muss der VoS über den REST-Services alle Praxis-, Patienten- und Verordnungsdaten zur Verfügung  stellen.
 
@@ -1594,7 +1594,7 @@ Das PVS muss jederzeit über die read- und search-Interaktion des REST-Services 
 
 |  |  |  |
 |---|---|---|
-| Information | FHIR-Profil | Mind. zur Verfügung zu stellendende |
+| **Information** | **FHIR-Profil** | **Mind. zur Verfügung zu stellendende** |
 | Behandelnder | KBV_PR_VoS_Practitioner  KBV_PR_VoS_PractitionerRole | Alle Behandelnde (Ärzte), die im PVS |
 | Betriebsstätte | KBV_PR_VoS_Organization | Alle Betriebsstätten, die im PVS |
 | System | KBV_PR_VoS_Device_PVS | Eine Instanz für das PVS mit der KBV- Pro VoS die an das PVS angeschlossen |
@@ -1651,9 +1651,9 @@ Herkunftsinformation _MP eight eight ne_Level cy_Status eding_Status Arzneimitte
 
 **4.4** **DATEN SPEICHERN**
 
-| PFLICHTFUNKTION VOS |  |
+| **PFLICHTFUNKTION VOS** |  |
 |---|---|
-| P4-160 | Speichern von Daten |
+| **P4-160** | Speichern von Daten |
 
 Das PVS übernimmt die Speicherung der patientenbezogenen Daten/Dokumente.
 
@@ -1697,9 +1697,9 @@ Die VoS übergibt die patientenbezogenen Daten/Dokumente zum Speichern immer an 
 
 **4.5** **ALLGEMEINE ANFORDERUNGEN**
 
-| PFLICHTFUNKTION VOS |  |
+| **PFLICHTFUNKTION VOS** |  |
 |---|---|
-| P4-170 | FHIR®-Rest-Server |
+| **P4-170** | FHIR®-Rest-Server |
 
 Der FHIR®-Rest-Server muss vom PVS zur Verfügung gestellt werden.
 
@@ -1750,9 +1750,9 @@ Das PVS fungiert als REST-Service.
 
 Das für die Server-Authentifizierung genutzte Zertifikat kann ein self-signed-Zertifikat sein.
 
-| PFLICHTFUNKTION VOS |  |
+| **PFLICHTFUNKTION VOS** |  |
 |---|---|
-| P4-180 | Konfigurationseinstellungen im PVS |
+| **P4-180** | Konfigurationseinstellungen im PVS |
 
 Der Arzt muss die Möglichkeit der Konfiguration im PVS haben, in der Form, dass der Arzt die für die
 
@@ -1772,9 +1772,9 @@ Der Arzt muss festlegen können, welche VoS zur Verordnung genutzt werden soll.
 
 - 4. Der Arzt kann jederzeit die verbundene VoS ändern.
 
-| KONDITIONALE PFLICHTFUNKTION VOS |  |
+| **KONDITIONALE PFLICHTFUNKTION VOS** |  |
 |---|---|
-| KP4-190 | Einsatz von mehreren VoS |
+| **KP4-190** | Einsatz von mehreren VoS |
 
 Der Arzt entscheidet, welche VoS eingebunden werden muss, sobald mehrere vorliegen.
 
@@ -1805,9 +1805,9 @@ Wenn mehrere VoS vorliegen, muss der Arzt festlegen können, welche der vorliege
 
 Das PVS muss diese Anforderungen unterstützen, wenn dem Arzt die Möglichkeit gegeben wird mehr als  eine VoS aufzurufen.
 
-| KONDITIONALE PFLICHTFUNKTION VOS |  |
+| **KONDITIONALE PFLICHTFUNKTION VOS** |  |
 |---|---|
-| P4-200 | Diskriminierungsfreie Anbindung |
+| **P4-200** | Diskriminierungsfreie Anbindung |
 
 Das PVS muss eine diskriminierungsfreie Anbindung der VoS gewährleisten.
 
@@ -1821,9 +1821,9 @@ Die Anforderungen zu der VoS-SST sehen keine Unterscheidung vor.
 
 - 2. Das PVS muss sicherstellen, dass die Anbindung zu einer VoS jederzeit auch durch eine andere ersetzt  werden kann.
 
-| PFLICHTFUNKTION VOS |  |
+| **PFLICHTFUNKTION VOS** |  |
 |---|---|
-| P4-210 | Löschen Bundle mit KID |
+| **P4-210** | Löschen Bundle mit KID |
 
 Erfolgt innerhalb einer festgelegten Dauer kein Zugriff auf den FHIR Aufruf gestartet hat und dieser noch nicht beendet wurde, wird das Bund entsprechenden KID gelöscht.
 
@@ -1849,18 +1849,18 @@ Rücksetzen bei Programmabstürzen notwendig, da keine Interaktion mehr möglich
 
 -
 
--Rest-Server obwohl das PVS einen  le vom PVS mit der - GET [base]/Bundle/KID
+-Rest-Server obwohl das PVS einen  le vom PVS mit der - , muss das Bundle mit
 
-- , muss das Bundle mit
+- GET [base]/Bundle/KID
 
 
 ---
 
 **4.6** **ANFORDERUNG ZUR ERFASSUNG UND SPEICHERUNG DER**  **BETRIEBSSTÄTTENDATEN**
 
-| PFLICHTFUNKTION VOS |  |
+| **PFLICHTFUNKTION VOS** |  |
 |---|---|
-| P4-999 | Erfassung und Speicherung der Versicherten-, Arzt- und Betriebsstättendaten |
+| **P4-999** | Erfassung und Speicherung der Versicherten-, Arzt- und Betriebsstättendaten |
 
 Die grundlegenden Anforderungen bezüglich der Erfassung und Speicherung der  Betriebsstättendaten müssen in Abhängigkeit der Funktionalität der Arzneimittelverordnung berücksichtigt  werden.
 
@@ -1876,11 +1876,11 @@ Die Erfassung und Speicherung der Versicherten-, Arzt- und Betriebsstättendaten
 
 ## VERSICHERTEN-, ARZT- UND
 
-Versicherten-, Arzt- und - nutzbar machen.
+Versicherten-, Arzt- und - -Ä)
+
+- nutzbar machen.
 
 - KBV_ITA_VGEX_Anforderungskatalog_KVDT]
-
-- -Ä)
 
 
 ---
@@ -1901,9 +1901,9 @@ notwendig sind.
 
 **5.1** **AUFRUF DER VOS**
 
-| PFLICHTFUNKTION VOS |  |
+| **PFLICHTFUNKTION VOS** |  |
 |---|---|
-| P5-00 | Aufruf der VoS ermöglichen |
+| **P5-00** | Aufruf der VoS ermöglichen |
 
 Die VoS muss dem PVS alle Angaben, die für den Aufruf notwendig sind, zur Verfügung stellen.
 
@@ -1929,9 +1929,9 @@ Sowohl in PVS als auch VOS müssen Daten eingegeben werden, die im jeweils ander
 
 **5.2** **FHIR®-REST-SERVER**
 
-| PFLICHTFUNKTION VOS |  |
+| **PFLICHTFUNKTION VOS** |  |
 |---|---|
-| P5-01 | Zugriff auf den FHIR®-Rest-Server |
+| **P5-01** | Zugriff auf den FHIR®-Rest-Server |
 
 An der VoS müssen alle notwendigen Informationen für den Zugriff auf den FHIR®-Rest-Server statisch
 
@@ -1970,9 +1970,9 @@ Die VoS muss vor dem Start alle notwendigen Parameter für den Zugriff auf FHIR�
 
 **5.3** **DATEN ABFRAGEN**
 
-| PFLICHTFUNKTION VOS |  |
+| **PFLICHTFUNKTION VOS** |  |
 |---|---|
-| P5-10 | Datenabfrage beim PVS |
+| **P5-10** | Datenabfrage beim PVS |
 
 Führt der Arzt eine entsprechende Funktion in der VoS aus, so fragt die VoS über die read- und search-
 
@@ -1988,9 +1988,9 @@ sofern diese für die Weiterverarbeitung notwendig sind.
 
 **5.4** **DATEN PRÜFEN**
 
-| PFLICHTFUNKTION VOS |  |
+| **PFLICHTFUNKTION VOS** |  |
 |---|---|
-| P5-20 | Korrektheit und Vollständigkeit der angenommenen Daten |
+| **P5-20** | Korrektheit und Vollständigkeit der angenommenen Daten |
 
 Die VoS muss prüfen, ob die Daten vollständig und korrekt ausgeliefert wurden.
 
@@ -2003,16 +2003,16 @@ Alle Daten müssen insbesondere für die Bedruckungen von Rezepten und Medikatio
 
 ---
 
-| Beispiel: |
-|---|
+\| **Beispiel:** |
+\|---|
 
 - 4. Der Patient kann mindestens mit drei unterschiedlichen Adresstypen im PVS gespeichert sein.  Das PVS muss bei der Übermittlung der KBV-Profile sicherstellen, dass nur die auf dem Rezept zu  bedruckende Adresse übertragen wird.
 
 - 5. Die Daten sind immer aus dem Kontext heraus zu übertragen, z. B. die ASV nur dann übermittelt, wenn die Verordnung im Rahmen einer ASV ASV-Teamnummer statt der BSNR auf dem Rezept aufgedruckt werden muss. Zusätzlich muss  Status-Kennzeichen = 01 ASV ohne Ersatzverordnung oder 11 ASV mit Ersatzverordnung übermittelt werden.
 
-| PFLICHTFUNKTION VOS |  |
+| **PFLICHTFUNKTION VOS** |  |
 |---|---|
-| P5-30 | Praxisdaten |
+| **P5-30** | Praxisdaten |
 
 Bei jedem Aufruf müssen der Kategorie Praxisdaten zugeordnete KBV werden.
 
@@ -2032,9 +2032,9 @@ Welche KBV-Profile der Kategorie Praxisdaten zugeordnet sind, entnehmen Sie bitt
 
 **5.5** **DATEN WEITERVERARBEITEN**
 
-| PFLICHTFUNKTION VOS |  |
+| **PFLICHTFUNKTION VOS** |  |
 |---|---|
-| P5-40 | Umgang mit Aufrufen und Bundles |
+| **P5-40** | Umgang mit Aufrufen und Bundles |
 
 Die VoS muss sicherstellen, dass alle vom PVS bereitgestellten Informationen in der VoS verarbeitet werden  können.
 
@@ -2083,9 +2083,9 @@ Abbildung 5: - -Profile mit den
 
 **5.6** **DATEN ÜBERGEBEN**
 
-| PFLICHTFUNKTION VOS |  |
+| **PFLICHTFUNKTION VOS** |  |
 |---|---|
-| P5-50 | Übergabe der Verordnungs- und Medikationsplandaten |
+| **P5-50** | Übergabe der Verordnungs- und Medikationsplandaten |
 
 Werden während der Ausführung der VoS patientenbezogene Daten, beispielsweise ein Medikationsplan
 
@@ -2105,9 +2105,9 @@ den REST-Service dem PVS zur Verfügung. Das Speicher-Bundle wird mit der Intera
 
 gemäß [KBV_ITA_VGEX_SST_Festlegung_VOS] von der VoS an das PVS übergeben.
 
-| PFLICHTFUNKTION VOS |  |
+| **PFLICHTFUNKTION VOS** |  |
 |---|---|
-| P5-55 | Übertragung des eRezeptes als PKCS#7-Datei |
+| **P5-55** | Übertragung des eRezeptes als PKCS#7-Datei |
 
 Eine Instanz des eRezeptes soll mindestens als signierte Datei gespeichert werden.
 
@@ -2128,9 +2128,9 @@ Zusätzlich kann das unsignierte FHIR ERP-Bundle übertragen werden.
 
 **5.7** **VOS BEENDEN**
 
-| PFLICHTFUNKTION VOS |  |
+| **PFLICHTFUNKTION VOS** |  |
 |---|---|
-| P5-60 | Beendigung der VoS |
+| **P5-60** | Beendigung der VoS |
 
 Der Arzt muss die Möglichkeit erhalten, jederzeit den Verordnungsvorgang zu beenden.
 
@@ -2146,9 +2146,9 @@ Interaktion delete das Aufruf-Bundle, welches mit dem Parameter kID beim Start d
 
 **5.8** **VERORDNUNG VON ARZNEIMITTELN UND SONSTIGEN NACH § 31 SGB V IN DIE**  **ARZNEIMITTELVERSORGUNG EINBEZOGENEN PRODUKTEN**
 
-| PFLICHTFUNKTION VOS |  |
+| **PFLICHTFUNKTION VOS** |  |
 |---|---|
-| P5-999 | Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die Arzneimittelversorgung |
+| **P5-999** | Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die Arzneimittelversorgung |
 
 Die Anforderungen des Anforderungskatalogs für Verordnungssoftware  [EXT_ITA_VGEX_Anforderungskatalog_AVWG] müssen berücksichtigt werden.
 
@@ -2175,7 +2175,7 @@ einbezogenen Produkten ] erfüllen.
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 | FHIR®_RESTful-API | Spezifikation der FHIR®-Restful-API gemäß  FHIR®] http://hl7.org/fhir/r4/http.html |
 | FHIR® | FHIR-Spezifikation Release 4  http://hl7.org/fhir/r4 |
 | Deutschen Basis-Profilen | https://simplifier.net/basisprofil-de-r4 |

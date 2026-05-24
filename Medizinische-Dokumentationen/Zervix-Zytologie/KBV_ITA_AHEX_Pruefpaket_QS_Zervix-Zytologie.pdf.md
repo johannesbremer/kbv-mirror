@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  12. AUGUST 2021   VERSION: 2.10   DOKUMENTENSTATUS: IN |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  12. AUGUST 2021   VERSION: 2.10   DOKUMENTENSTATUS: IN** |
 |---|---|
 
 # PRUEFPAKET QS-ZERVIX-ZYTOLOGIE
@@ -84,7 +84,7 @@ Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 14
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 2.10 | 12.08.2021 | KBV | Überarbeitung des | Überführung ins neue | Alle |
 | 2.09 | 13.03.2018 | KBV | Einreichung des Antrags | Anpassung des | 4ff |
@@ -219,19 +219,19 @@ verwendet 1 Nummer des Prüffalls
 
 Folgende Angaben sind für die Zertifizierung zu verwenden:
 
-| BEZEICHNUNG | INHALT |
+| **BEZEICHNUNG** | **INHALT** |
 |---|---|
-| Betriebsstättennummer (BSNR) | 391234511 |
-| Lebenslange Arztnummer (LANR) | 8383822nn (nn ist variabel) |
-| Arztname | Dr. med. Hans Topp-Glücklich |
-| Lebenslange Arztnummer (LANR): | 112354648 |
-| Straße | Musterstr. |
-| Hausnummer | 1 |
-| PLZ/Ort | 64283 Darmstadt |
-| Telefon | 06151 / 1111111 |
-| Telefaxnummer | 06151/2222222 |
-| Dokumentationsdatum (Kopfdatum): | 27.02.2016 |
-| Zu verwendende Prüfnummer: | Y/52/9712/36/000 |
+| **Betriebsstättennummer (BSNR)** | 391234511 |
+| **Lebenslange Arztnummer (LANR)** | 8383822nn (nn ist variabel) |
+| **Arztname** | Dr. med. Hans Topp-Glücklich |
+| **Lebenslange Arztnummer (LANR):** | 112354648 |
+| **Straße** | Musterstr. |
+| **Hausnummer** | 1 |
+| **PLZ/Ort** | 64283 Darmstadt |
+| **Telefon** | 06151 / 1111111 |
+| **Telefaxnummer** | 06151/2222222 |
+| **Dokumentationsdatum (Kopfdatum):** | 27.02.2016 |
+| **Zu verwendende Prüfnummer:** | Y/52/9712/36/000 |
 
 **Hinweis:** Zu den einzelnen Prüffällen ist ein Dokumentationsdatum angegeben. Bitte verstehen Sie dieses
 
@@ -240,18 +240,18 @@ Dokumentationsdatum auch als (Datei-) Erstellungs- und Einreichungsdatum und ber
 
 ---
 
-| ANLAGE 2 QS-VEREINBA | | | | | | | | | | | | | | | | | | | |
+| **ANLAGE 2 QS-VEREINBA** | | | | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | | | | | | | | | | | | | | | | | | | |
+| **1** | | | | | | | | | | | | | | | | | | | |
 | Gesamtzahl der untersuchten | 942 | Davon Gruppe 0 | 36 | | | | | | | | | | | | | | | | |
-| 2 | | | | | | | | | | | | | | | | | | | |
+| **2** | | | | | | | | | | | | | | | | | | | |
 | dabei untersuchte Frauen | 852 | | | | | | | | | | | | | | | | | | |
-| Befundgruppen der Münchner Nomenklatur III (ein Ausgangsbefund pro Frau aus dem Zeitraum 01.01 – 31.12 des Berichtjahres)  Histologische Abklärung zu diesem Ausgangsbefund bis 30.06 des Folgejahres | | | | | | | | | | | | | | | | | | | |
-| 3 Ausgangsbefunde | Gruppe 0 (Negativ) | Gruppe II | Gruppe III | Gruppe IIID | Gruppe IV | Gruppe V | | | | | | | | | | | | | |
+| **Befundgruppen der Münchner Nomenklatur III (ein Ausgangsbefund pro Frau aus dem Zeitraum 01.01 – 31.12 des Berichtjahres)  Histologische Abklärung zu diesem Ausgangsbefund bis 30.06 des Folgejahres** | | | | | | | | | | | | | | | | | | | |
+| **3 Ausgangsbefunde** | Gruppe 0 (Negativ) | Gruppe II | Gruppe III | Gruppe IIID | Gruppe IV | Gruppe V | | | | | | | | | | | | | |
 |  | Gruppe I | Gruppe II-a | II-p | II-g | II-e | III-p | III-g | III-e | III-x | IIID1 | IIID2 | IVa-p | IVa-g | IVb-p | IVb-g | V-p | V-g | V-e | V-x |
-| 2 2.1 | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | Prüffall-ID | 1 | Testziel | Dieser Prüffall dient zur Kontrolle der korrekten Umsetzung der Pflichtfunktion | Zytologie. |  | Voraussetzung | Das Dokumentationsdatum ist der 31.03.2018 | Prüfunterlagen | Systemverhalten aufzeigt. | Hinweis |  |  | Jahresstatistik Zervixzytologie für das Berichtsjahr 2015 | Zytologische Befunde (Cervix Uteri) und histologische Abklärungsdiagnostik |
-| Zeitraum 01.01.2015 – 31.12.2015 des |  | ANLAGE 2 QS-VEREINBA |  | 1 | Gesamtzahl der untersuchten | 942 | Davon Gruppe 0 | 36 | 2 | dabei untersuchte Frauen | 852 | Befundgruppen der Münchner Nomenklatur III (ein Ausgangsbefund pro Frau aus dem Zeitraum 01.01 – 31.12 des Berichtjahres) | Histologische Abklärung zu diesem Ausgangsbefund bis 30.06 des Folgejahres | 3 Ausgangsbefunde | Gruppe 0 (Negativ) | Gruppe II | Gruppe III | Gruppe IIID | Gruppe IV |
+| 2**2.1** | | | | | | | | | | | | | | | | | | | |
+|  |  |  |  |  | **Prüffall-ID** | 1 | **Testziel** | Dieser Prüffall dient zur Kontrolle der korrekten Umsetzung der Pflichtfunktion | Zytologie. |  | **Voraussetzung** | Das Dokumentationsdatum ist der 31.03.2018 | **Prüfunterlagen** | Systemverhalten aufzeigt. | **Hinweis** |  |  | **Jahresstatistik Zervixzytologie für das Berichtsjahr 2015** | Zytologische Befunde (Cervix Uteri) und histologische Abklärungsdiagnostik |
+| Zeitraum 01.01.2015 – 31.12.2015 des |  | **ANLAGE 2 QS-VEREINBA** |  | **1** | Gesamtzahl der untersuchten | 942 | Davon Gruppe 0 | 36 | **2** | dabei untersuchte Frauen | 852 | **Befundgruppen der Münchner Nomenklatur III (ein Ausgangsbefund pro Frau aus dem Zeitraum 01.01 – 31.12 des Berichtjahres)** | **Histologische Abklärung zu diesem Ausgangsbefund bis 30.06 des Folgejahres** | **3 Ausgangsbefunde** | Gruppe 0 (Negativ) | Gruppe II | Gruppe III | Gruppe IIID | Gruppe IV |
 | Gruppe V | | | | | | | | | | | | | | | | | | | |
 |  | Gruppe I | Gruppe II-a | II-p | II-g | II-e | III-p | III-g | III-e | III-x | IIID1 | IIID2 | IVa-p | IVa-g | IVb-p | IVb-g | V-p | V-g | V-e | V-x |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -267,11 +267,11 @@ Dokumentationsdatum auch als (Datei-) Erstellungs- und Einreichungsdatum und ber
 
 |  |  |
 |---|---|
-| Prüffall-ID | 1 |
-| Testziel | Dieser Prüffall dient zur Kontrolle der korrekten Umsetzung der Pflichtfunktion  Zytologie. |
-| Voraussetzung | Das Dokumentationsdatum ist der 31.03.2018 |
-| Prüfunterlagen | Systemverhalten aufzeigt. |
-| Hinweis |  |
+| **Prüffall-ID** | 1 |
+| **Testziel** | Dieser Prüffall dient zur Kontrolle der korrekten Umsetzung der Pflichtfunktion  Zytologie. |
+| **Voraussetzung** | Das Dokumentationsdatum ist der 31.03.2018 |
+| **Prüfunterlagen** | Systemverhalten aufzeigt. |
+| **Hinweis** |  |
 
 P1-40  des Anforderungskataloges QS Zervix- Nachweis ist für die nachstehend beschriebene Jahresstatistik ein Screenshot einzureichen, welcher das geforderte PRÜFFÄLLE PRÜFFALL 1 Berichtjahres: RUNG ZERVIX -ZYTOLOGIE Präparate:
 
@@ -284,12 +284,12 @@ P1-40  des Anforderungskataloges QS Zervix- Nachweis ist für die nachstehend be
 |  | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | |
 |  | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  |  | 4 Davon bis 30.06 des Folgejahres histologisch geklärt: | | | | | | | | | | | | | |
+|  |  |  |  |  |  | **4 Davon bis 30.06 des Folgejahres histologisch geklärt:** | | | | | | | | | | | | | |
 | Kein Hinweis auf CA-Vorstufe oder CA | 21 | 33 | 5 | 2 | 11 | 2 | 27 | 17 | 24 | 2 | 16 | 9 | 1 | 23 | 3 | 0 | 2 | 4 | 2 |
-| ANLAGE 2 QS-VEREINBA | | | | | | | | | | | | | | | | | | | |
+| **ANLAGE 2 QS-VEREINBA** | | | | | | | | | | | | | | | | | | | |
 | Anzahl der Frauen | 35 | 163 | 44 | 22 | 34 | 55 | 89 | 66 | 78 | 10 | 45 | 56 | 4 | 88 | 15 | 4 | 5 | 8 | 12 |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 4 Davon bis 30.06 des Folgejahres histologisch geklärt: | | | | | | | | | | | | | | | | | | | |
+| **4 Davon bis 30.06 des Folgejahres histologisch geklärt:** | | | | | | | | | | | | | | | | | | | |
 | Kein Hinweis auf CA-Vorstufe oder CA | 21 | 33 | 5 | 2 | 11 | 2 | 27 | 17 | 24 | 2 | 16 | 9 | 1 | 23 | 3 | 0 | 2 | 4 | 2 |
 | CIN I | 2 | 18 | 6 | 5 | 3 | 14 | 16 | 6 | 12 | 0 | 0 | 14 | 0 | 14 | 0 | 0 | 0 | 0 | 0 |
 | CIN II | 3 | 6 | 3 | 0 | 2 | 8 | 6 | 0 | 5 | 1 | 8 | 6 | 1 | 3 | 2 | 2 | 0 | 0 | 6 |
@@ -298,7 +298,7 @@ P1-40  des Anforderungskataloges QS Zervix- Nachweis ist für die nachstehend be
 | Plattenepithalkarzinom der Cervix uteri | 3 | 0 | 11 | 6 | 0 | 12 | 16 | 14 | 9 | 3 | 11 | 13 | 2 | 20 | 1 | 0 | 1 | 0 | 0 |
 | Adenokarzinom der  Cervix uteri | 4 | 9 | 12 | 4 | 6 | 5 | 8 | 18 | 0 | 2 | 0 | 2 | 0 | 0 | 3 | 1 | 1 | 0 | 3 |
 | Endometriumkarzinom und andere Malignome | 2 | 38 | 3 | 3 | 5 | 3 | 5 | 0 | 8 | 0 | 0 | 4 | 0 | 11 | 0 | 0 | 0 | 1 | 0 |
-| 5 Praxisbesonderheit (z. B. hoher Anteil kurativer Abstriche): | | | | | | | | | | | | | | | | | | | |
+| **5 Praxisbesonderheit (z. B. hoher Anteil kurativer Abstriche):** | | | | | | | | | | | | | | | | | | | |
 |  | | | | | | | | | | | | | | | | | | | |
 | Zeile 1 und 2: die Anzahl der vom 01.01. bis 31.12. des Berichtsjahres zytologisch untersuchten Abstrichpräparate der Cervix  Zeile 3: für jede im Zeitraum vom 01.01. bis 31.12. untersuchte Frau ist ein Befund anzugeben. Liegen mehrere Befunde einer Frau aus diesem Zeitra Zeile 4 ff: Die Ergebnisse der histologischen Abklärung zu den Ausgangsbefunden aus Zeile 3, die bis zum 30.06 des Folgejahres erhoben wurden (Frauen, die  Zeile 5: Wenn Praxisbesonderheiten vorliegen, die die Befundgruppenverteilung beeinflussen können, sind diese hier zu nennen, ansonsten ist kein Eintrag | | | | | | | | | | | | | | | | | | | |
 
@@ -306,24 +306,24 @@ RUNG ZERVIX -ZYTOLOGIE uteri und die Anzahl der dabei untersuchten Frauen um vor
 
 ---
 
-| ANLAGE 2 QS-VEREINBA | | | | | | | | | | | | | | | | | | | |
+| **ANLAGE 2 QS-VEREINBA** | | | | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | | | | | | | | | | | | | | | | | | | |
+| **1** | | | | | | | | | | | | | | | | | | | |
 | Gesamtzahl der untersuchten | 1952 | Davon Gruppe 0 | 71 | | | | | | | | | | | | | | | | |
-| 2 | | | | | | | | | | | | | | | | | | | |
+| **2** | | | | | | | | | | | | | | | | | | | |
 | dabei untersuchte Frauen | 1750 | | | | | | | | | | | | | | | | | | |
-| Befundgruppen der Münchner Nomenklatur III (ein Ausgangsbefund pro Frau aus dem Zeitraum 01.01 – 31.12 des Berichtjahres)  Histologische Abklärung zu diesem Ausgangsbefund bis 30.06 des Folgejahres | | | | | | | | | | | | | | | | | | | |
-| 3 Ausgangsbefunde | Gruppe 0 (Negativ) | Gruppe II | Gruppe III | Gruppe IIID | Gruppe IV | Gruppe V | | | | | | | | | | | | | |
+| **Befundgruppen der Münchner Nomenklatur III (ein Ausgangsbefund pro Frau aus dem Zeitraum 01.01 – 31.12 des Berichtjahres)  Histologische Abklärung zu diesem Ausgangsbefund bis 30.06 des Folgejahres** | | | | | | | | | | | | | | | | | | | |
+| **3 Ausgangsbefunde** | Gruppe 0 (Negativ) | Gruppe II | Gruppe III | Gruppe IIID | Gruppe IV | Gruppe V | | | | | | | | | | | | | |
 |  | Gruppe I | Gruppe II-a | II-p | II-g | II-e | III-p | III-g | III-e | III-x | IIID1 | IIID2 | IVa-p | IVa-g | IVb-p | IVb-g | V-p | V-g | V-e | V-x |
 | Anzahl der Frauen | 75 | 112 | 137 | 107 | 98 | 196 | 120 | 239 | 78 | 50 | 116 | 56 | 66 | 92 | 45 | 21 | 52 | 32 | 58 |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 4 Davon bis 30.06 des Folgejahres histologisch geklärt: | | | | | | | | | | | | | | | | | | | |
+| **4 Davon bis 30.06 des Folgejahres histologisch geklärt:** | | | | | | | | | | | | | | | | | | | |
 | Kein Hinweis auf CA-Vorstufe oder CA | 15 | 25 | 36 | 19 | 17 | 13 | 38 | 112 | 24 | 12 | 22 | 9 | 15 | 31 | 5 | 5 | 0 | 5 | 19 |
-| 2.2 | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  | Prüffall-ID | 2 | Testziel | Dieser Prüffall dient zur Kontrolle der korrekten Umsetzung der | QS Zervix-Zytologie. |  | Voraussetzung |  | Prüfunterlagen | Für den korrekten Nachweis ist eine XML | Hinweis |  |  | Jahresstatistik Zervixzytologie für das Berichtsjahr 2015 | Zeitraum 01.01.2015 – 31.12.2015 des Berichtjahres: |  |
-| ANLAGE 2 QS-VEREINBA |  | 1 | Gesamtzahl der untersuchten | 1952 | Davon Gruppe 0 | 71 | 2 | dabei untersuchte Frauen | 1750 | Befundgruppen der Münchner Nomenklatur III (ein Ausgangsbefund pro Frau aus dem Zeitraum 01.01 – 31.12 des Berichtjahres) | Histologische Abklärung zu diesem Ausgangsbefund bis 30.06 des Folgejahres | 3 Ausgangsbefunde | Gruppe 0 (Negativ) | Gruppe II | Gruppe III | Gruppe IIID | Gruppe IV | Gruppe V |  |
+| **2.2** | | | | | | | | | | | | | | | | | | | |
+|  |  |  |  | **Prüffall-ID** | 2 | **Testziel** | Dieser Prüffall dient zur Kontrolle der korrekten Umsetzung der | QS Zervix-Zytologie. |  | **Voraussetzung** |  | **Prüfunterlagen** | Für den korrekten Nachweis ist eine XML | **Hinweis** |  |  | **Jahresstatistik Zervixzytologie für das Berichtsjahr 2015** | Zeitraum 01.01.2015 – 31.12.2015 des Berichtjahres: |  |
+| **ANLAGE 2 QS-VEREINBA** |  | **1** | Gesamtzahl der untersuchten | 1952 | Davon Gruppe 0 | 71 | **2** | dabei untersuchte Frauen | 1750 | **Befundgruppen der Münchner Nomenklatur III (ein Ausgangsbefund pro Frau aus dem Zeitraum 01.01 – 31.12 des Berichtjahres)** | **Histologische Abklärung zu diesem Ausgangsbefund bis 30.06 des Folgejahres** | **3 Ausgangsbefunde** | Gruppe 0 (Negativ) | Gruppe II | Gruppe III | Gruppe IIID | Gruppe IV | Gruppe V |  |
 | Gruppe I | Gruppe II-a  II-p | II-e  III-p | III-e  III-x | IIID2  IVa-p | IVb-p  IVb-g | V-g  V-e | Anzahl der Frauen 75 | 137 107 | 196 120 | 78 50 | 56 66 | 45 21 | 32 58 |  |  |  |  |  |  |
-|  | 4 Davon bis 30.06 des Folgejahres histologisch geklärt:  Kein Hinweis auf CA-Vorstufe oder CA | 25 36 | 17 13 | 112 24 | 22 9 | 31 5 | 0 5 |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | **4 Davon bis 30.06 des Folgejahres histologisch geklärt: ** Kein Hinweis auf CA-Vorstufe oder CA | 25 36 | 17 13 | 112 24 | 22 9 | 31 5 | 0 5 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -333,11 +333,11 @@ RUNG ZERVIX -ZYTOLOGIE uteri und die Anzahl der dabei untersuchten Frauen um vor
 
 |  |  |
 |---|---|
-| Prüffall-ID | 2 |
-| Testziel | Dieser Prüffall dient zur Kontrolle der korrekten Umsetzung der  QS Zervix-Zytologie. |
-| Voraussetzung |  |
-| Prüfunterlagen | Für den korrekten Nachweis ist eine XML |
-| Hinweis |  |
+| **Prüffall-ID** | 2 |
+| **Testziel** | Dieser Prüffall dient zur Kontrolle der korrekten Umsetzung der  QS Zervix-Zytologie. |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | Für den korrekten Nachweis ist eine XML |
+| **Hinweis** |  |
 
 Anforderungen P1-10  und P1-20  des Anforderungskataloges -Datei einzureichen. Es sind keine Screenshots notwendig. PRÜFFALL 2 RUNG ZERVIX -ZYTOLOGIE Präparate:
 
@@ -356,7 +356,7 @@ Anforderungen P1-10  und P1-20  des Anforderungskataloges -Datei einzureichen. E
 |  | 9 |  |  | 9 |  |  | 6 |  |  | 11 |  |  | 4 |  |  | 14 |  |  | Adenocarcinoma in situ |
 | 4 | | | | | | | | | | | | | | | | | | | |
 |  |  | 2 |  |  | 25 |  |  | 24 |  |  | 2 |  |  | 0 |  |  | 2 |  |  |
-| ANLAGE 2 QS-VEREINBA | | | | | | | | | | | | | | | | | | | |
+| **ANLAGE 2 QS-VEREINBA** | | | | | | | | | | | | | | | | | | | |
 | CIN I | 21 | 12 | 14 | 12 | 35 | 21 | 29 | 41 | 12 | 23 | 11 | 14 | 11 | 24 | 1 | 0 | 2 | 3 | 16 |
 | CIN II | 12 | 9 | 33 | 33 | 16 | 34 | 6 | 38 | 5 | 4 | 7 | 6 | 9 | 4 | 3 | 1 | 7 | 8 | 2 |
 | CIN III, plattenepithales Ca in situ | 3 | 56 | 7 | 0 | 9 | 87 | 19 | 5 | 5 | 8 | 58 | 8 | 17 | 9 | 9 | 6 | 11 | 4 | 14 |
@@ -364,7 +364,7 @@ Anforderungen P1-10  und P1-20  des Anforderungskataloges -Datei einzureichen. E
 | Plattenepithalkarzinom der Cervix uteri | 9 | 6 | 12 | 16 | 7 | 27 | 19 | 13 | 9 | 0 | 0 | 13 | 4 | 7 | 13 | 1 | 17 | 6 | 0 |
 | Adenokarzinom der  Cervix uteri | 11 | 0 | 8 | 0 | 12 | 12 | 6 | 11 | 0 | 0 | 6 | 2 | 1 | 6 | 2 | 4 | 3 | 2 | 5 |
 | Endometriumkarzinom und andere Malignome | 0 | 2 | 2 | 3 | 0 | 2 | 1 | 5 | 8 | 2 | 9 | 4 | 1 | 0 | 2 | 1 | 6 | 0 | 2 |
-| 5 Praxisbesonderheit (z. B. hoher Anteil kurativer Abstriche): | | | | | | | | | | | | | | | | | | | |
+| **5 Praxisbesonderheit (z. B. hoher Anteil kurativer Abstriche):** | | | | | | | | | | | | | | | | | | | |
 | Hoher Anteil kurativer Fälle | | | | | | | | | | | | | | | | | | | |
 | Zeile 1 und 2: die Anzahl der vom 01.01. bis 31.12. des Berichtsjahres zytologisch untersuchten Abstrichpräparate der Cervix uteri und die Anzahl  Zeile 3: für jede im Zeitraum vom 01.01. bis 31.12. untersuchte Frau ist ein Befund anzugeben. Liegen mehrere Befunde einer F rau aus diesem Zeitraum vor,  Zeile 4 ff: Die Ergebnisse der histologischen Abklärung zu den Ausgangsbefunden aus Zeile 3, die bis zum 30.06 des Folgejahres erhoben wurden (Frauen, die  Zeile 5: Wenn Praxisbesonderheiten vorliegen, die die Befundgruppenverteilung beeinflussen können, sind diese hier zu nennen, ansonsten ist kein Eintrag | | | | | | | | | | | | | | | | | | | |
 
@@ -376,24 +376,24 @@ RUNG ZERVIX -ZYTOLOGIE der dabei untersuchten Frauen entscheidet der zytol ogisc
 
 |  |  |
 |---|---|
-| Prüffall-ID | 3 |
-| Testziel | des Anforderungskataloges QS Zervix-Zytologie. |
-| Voraussetzung |  |
-| Prüfunterlagen | Für den korrekten Nachweis sind für die beschriebenen vier Szenarien Screenshots, |
-| Hinweis |  |
+| **Prüffall-ID** | 3 |
+| **Testziel** | des Anforderungskataloges QS Zervix-Zytologie. |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | Für den korrekten Nachweis sind für die beschriebenen vier Szenarien Screenshots, |
+| **Hinweis** |  |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-| SZENARIEN |
-|---|
-| Szenario 1 |
-| Es liegt ein Ausgangsbefund des Jahres 2015 einer beliebigen Patientin vor. Das Berichtsjahr erstreckt sich  Zytologie). |
-| Szenario 2 |
-| Es liegt ein Ausgangsbefund des Jahres 2014 einer beliebigen Patientin vor. Das Berichtsjahr erstreckt sich  KBV_ITA_VGEX_Anforderungskatalog_QS_Zervix-Zytologie). |
-| Szenario 3 |
-| Es liegen mehrere Ausgangsbefunde (mit verschiedenen Befundgruppen) einer Patientin vor. Zeigen Sie  - |
-| Szenario 4 |
-| Die Daten werden vom Anwender für den Versand vorbereitet. Das System erzeugt eine Hinweismeldung  - |
+\| **SZENARIEN** |
+\|---|
+\| **Szenario 1** |
+\| Es liegt ein Ausgangsbefund des Jahres 2015 einer beliebigen Patientin vor. Das Berichtsjahr erstreckt sich  Zytologie). |
+\| **Szenario 2** |
+\| Es liegt ein Ausgangsbefund des Jahres 2014 einer beliebigen Patientin vor. Das Berichtsjahr erstreckt sich  KBV_ITA_VGEX_Anforderungskatalog_QS_Zervix-Zytologie). |
+\| **Szenario 3** |
+\| Es liegen mehrere Ausgangsbefunde (mit verschiedenen Befundgruppen) einer Patientin vor. Zeigen Sie  - |
+\| **Szenario 4** |
+\| Die Daten werden vom Anwender für den Versand vorbereitet. Das System erzeugt eine Hinweismeldung  - |
 
 Die folgenden Prüffälle dienen zur Kontrolle der korrekten Umsetzu ng von Teilen die das geforderte Systemverhalten aufzeigen, einzureichen. auf den Zeitraum 01.01.2015 - 31.12.2015. Es erfolgt eine histologische Abklärung bis zum 31.05.2016. Zeigen Sie mittels Hardcopies auf, dass eine Übernahme des Ausgangsbefundes für das Berichtsjahr möglich ist. Dieser Prüffall dient zur Kontrolle der korrekten Umsetzung der Anforderung P1-20 Anforderungskataloges QS Zervix- Zytologie (siehe KBV_ITA_VGEX_Anforderungskatalog_QS_Zervix- auf den Zeitraum 01.01.2015 - 31.12.2015. Zeigen Sie mittels Hardcopies auf, dass eine Aus wahl des Ausgangsbefundes für das Berichtsjahr nicht möglich ist. Dieser Prüffall dient zur Kontrolle der korrekten Umsetzung der Anforderung P1-20  des Anforderungskataloges QS Zervix-Zytologie (siehe mittels Hardcopies auf, dass eine Auswahl eines Befundes durch den zytologisch verantwortlichen Arzt getroffen werden kann. Dieser Prüffall dient zur Kontrolle der korrekten Umsetzung der Anforderung P1-30 des Anforderungskataloges QS Zervix-Zytologie (siehe KBV_ITA_VGEX_Anforderungskatalog_QS_Zervix bezüglich der Datenträgerbeschriftung und druckt einen Transport -begleitzettel aus. Hier soll die Umsetzung der Anforderungen P2-25 P 2-26  (siehe KBV_ITA_VGEX_Anforderungskatalog_QS_Zervix Zytologie) nachgewiesen werden.
 
@@ -422,7 +422,7 @@ Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 | KBV_ITA_FMEX_AAZ_QSZZ | Antrag auf Zertifizierung QSZZ |
 | [KBV_ITA_RLEX_Zert] | Zertifizierungsrichtlinie der KBV |
 | [KBV_ITA_VGEX_Schnittstelle_QSZervixZyto] | Schnittstellenbeschreibung QS Zervix-Zytologie |

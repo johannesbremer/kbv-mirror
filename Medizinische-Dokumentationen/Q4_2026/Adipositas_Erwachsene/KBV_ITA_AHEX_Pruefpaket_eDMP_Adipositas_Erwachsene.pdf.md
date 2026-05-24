@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  31. MÄRZ 2026   VERSION: 1.00   DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  31. MÄRZ 2026   VERSION: 1.00   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # PRÜFPAKET EDMP- ADIPOSITAS -
@@ -144,7 +144,7 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.00 | 31.03.2026 | KBV | Dokumenterstellung | Initiale Erstellung | Alle |
 
@@ -385,31 +385,31 @@ Dateien sind folgendermaßen aufgebaut:
 
 Folgende Angaben sind für die Zertifizierung zu verwenden:
 
-| BEZEICHNUNG | INHALT |
+| **BEZEICHNUNG** | **INHALT** |
 |---|---|
-| Betriebsstättennummer (BSNR) | 391234511 |
-| BSNR-Bezeichnung | Praxis Dr. med. Heribert Topp-Glücklich |
-| Lebenslange Arztnummer (LANR) | 838382202 |
-| Arztname | Dr. med. Hans Topp-Glücklich |
-| Straße | Musterstr. |
-| Hausnummer | 1 |
-| PLZ/Ort | 64283 Darmstadt |
-| Telefon | 06151 / 1111111 |
-| Telefax | 06151 / 2222222 |
+| **Betriebsstättennummer (BSNR)** | 391234511 |
+| **BSNR-Bezeichnung** | Praxis Dr. med. Heribert Topp-Glücklich |
+| **Lebenslange Arztnummer (LANR)** | 838382202 |
+| **Arztname** | Dr. med. Hans Topp-Glücklich |
+| **Straße** | Musterstr. |
+| **Hausnummer** | 1 |
+| **PLZ/Ort** | 64283 Darmstadt |
+| **Telefon** | 06151 / 1111111 |
+| **Telefax** | 06151 / 2222222 |
 
 ### 1.6.6 Krankenhausdaten
 
 Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der Begleitdatei als Absender bzw.  dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. Für die Angabe des dokumen - tierenden Arztes, der auch hier genannt werden muss, ist der oben genannte Arztname zu verwenden. Herr  Topp-Glücklich ist also für die „Krankenhausfälle“ Angestellter des Krankenhauses und betreut den  Patienten im DMP. Es soll hier seine Telefonnummer angegeben werden. Die Vertragsarztnummer spielt  hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind demzufolge zwei Absender (Kranken - haus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete und zwei Begleitdateien einzu - reichen.
 
-| BEZEICHNUNG | INHALT |
+| **BEZEICHNUNG** | **INHALT** |
 |---|---|
-| Krankenhaus-IK | 856215715 |
-| Name des Krankenhauses | Test-Krankenhaus, Pneumologie |
-| Straße | Am Wehr |
-| Hausnummer | 20 |
-| Postleitzahl und Ort | 10437 Berlin |
-| Telefon | 06151 / 1111111 |
-| Telefax | 06151 / 2222222 |
+| **Krankenhaus-IK** | 856215715 |
+| **Name des Krankenhauses** | Test-Krankenhaus, Pneumologie |
+| **Straße** | Am Wehr |
+| **Hausnummer** | 20 |
+| **Postleitzahl und Ort** | 10437 Berlin |
+| **Telefon** | 06151 / 1111111 |
+| **Telefax** | 06151 / 2222222 |
 
 ### 1.6.7 Prüfnummer
 
@@ -426,45 +426,45 @@ Der Empfänger der elektronischen Dokumentationen muss, soweit möglich, automat
 
 Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
-| PRÜFFALL-ID | NAME | VERZEICHNISNAME |
+| **PRÜFFALL-ID** | **NAME** | **VERZEICHNISNAME** |
 |---|---|---|
-| 1111 | Katarina Maier | XML_12 |
-| 1112 | Peter Pan | XML_13 |
-| 1140 | Lija Malta | XML_36 |
+| **1111** | Katarina Maier | XML_12 |
+| **1112** | Peter Pan | XML_13 |
+| **1140** | Lija Malta | XML_36 |
 
 
 ---
 
 PRÜFFÄLLE
 
-| INDIKATIONSÜBERGREIFENDE DATEN | | |
+| **INDIKATIONSÜBERGREIFENDE DATEN** | | |
 |---|---|---|
-|  | Erstdokumentation | Folgedokumentation |
-| Administrative Daten | | |
+|  | **Erstdokumentation** | **Folgedokumentation** |
+| **Administrative Daten** | | |
 | DMP-Fallnummer | 1111 | 1111 |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum der Erstellung (siehe Kap. 1.6.2) | 15.mm.jjjj | 15.mm.jjjj |
 | Einschreibung wegen | Adipositas - | Adipositas - |
 | Geschlecht | Weiblich | Weiblich |
-| Allgemeine Anamnese- und Befunddaten | | |
+| **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 1,53 m | 1,53 m |
 | Körpergewicht | 146 kg | 156 kg |
 | Blutdruck (systolisch / diastolisch) | 50 / 30 mmHg | 120 / 90 mmHg |
 | Raucher | Nein | Ja |
 | Begleiterkrankungen | Diabetes mellitus | Diabetes mellitus |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Vom Patienten gewünschte | Ernährungsberatung | Tabakverzicht |
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
-| 2.1 |  |  |
+| **2.1** |  |  |
 
 |  |  |
 |---|---|
-| Prüffall-ID | 1111 |
-| Testziel | › |
-| Voraussetzung | › |
-| Einzureichende  Prüfunterlagen | › |
-| Hinweis | › |
+| **Prüffall-ID** | 1111 |
+| **Testziel** | › |
+| **Voraussetzung** | › |
+| **Einzureichende  Prüfunterlagen** | › |
+| **Hinweis** | › |
 
 Anlage einer Erst- und einer Folgedokumentation e DMP Adipositas - Erwachsene Dokumentationsunterlagen PRÜFFÄLLE DOKUMENTATION 2.1.1 Prüffall 1111 Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten Die Versichertendaten von Katarina Maier (XML_12) Informationsangebote der Krankenkasse  einlesen und speichern. Erwachsene Erwachsene
 
@@ -479,7 +479,7 @@ Anlage einer Erst- und einer Folgedokumentation e DMP Adipositas - Erwachsene Do
 |  |  |  |
 |  | Manifester Diabetes mellitus Typ 2 |  |
 |  | Beendigung der DMP |  |
-|  |  | INDIKATIONSPEZIFISCHE |
+|  |  | **INDIKATIONSPEZIFISCHE** |
 |  | | |
 |  |  |  |
 |  |  |  |
@@ -491,10 +491,10 @@ Anlage einer Erst- und einer Folgedokumentation e DMP Adipositas - Erwachsene Do
 |  |  |  |
 | Datum der Erstellung (Behandlungsdatum) | 15.mm.jjjj | 15.mm.jjjj |
 
-| INDIKATIONSPEZIFISCHE | | |
+| **INDIKATIONSPEZIFISCHE** | | |
 |---|---|---|
-|  | Erstdokumentation | Folgedokumentation |
-| Therapeutische Maßnahmen | | |
+|  | **Erstdokumentation** | **Folgedokumentation** |
+| **Therapeutische Maßnahmen** | | |
 | Ziele zur regelmäßigen körperlichen | Ziele vereinbart |  |
 | Ziele zur regelmäßigen körperlichen |  | Keine Ziele vereinbart   oder überprüft |
 | Regelmäßige körperliche Alltagsaktivität | Ja | Nein |
@@ -503,11 +503,11 @@ Anlage einer Erst- und einer Folgedokumentation e DMP Adipositas - Erwachsene Do
 | Ziele zur Ernährungsumstellung oder zur |  | Keine Ziele vereinbart |
 | Adäquat geändertes Ernährungsverhalten | Ja | Nein |
 | Prädiabetes bei Einschreibung | Nein | Nein |
-| Schulung | | |
+| **Schulung** | | |
 | Bereits vor Einschreibung in das DMP an einer | Ja |  |
 | Adipositas-Schulung empfohlen (bei aktueller | Ja | Nein |
 | Adipositas-Schulung wahrgenommen |  | Ja |
-| Relevante Ereignisse seit der letzten Dokumentation | | |
+| **Relevante Ereignisse seit der letzten Dokumentation** | | |
 | Manifester Diabetes mellitus Typ 2 |  |  |
 | Beendigung der DMP |  | Nein |
 
@@ -520,11 +520,11 @@ DATEN Therapeutische Maßnahmen Ziele zur regelmäßigen körperlichen Alltagsak
 
 |  |  |
 |---|---|
-| Prüffall-ID | 1112 |
-| Testziel | › |
-| Voraussetzung | › |
-| Prüfunterlagen | › |
-| Hinweis | › |
+| **Prüffall-ID** | 1112 |
+| **Testziel** | › |
+| **Voraussetzung** | › |
+| **Prüfunterlagen** | › |
+| **Hinweis** | › |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -534,23 +534,23 @@ Die Versichertendaten von **Peter Pan (XML_13)** einlesen und speichern.
 
 Daten“).
 
-| INDIKATIONSÜBERGREIFENDE DATEN | | |
+| **INDIKATIONSÜBERGREIFENDE DATEN** | | |
 |---|---|---|
-|  | Erstdokumentation | Folgedokumentation |
-| Administrative Daten | | |
+|  | **Erstdokumentation** | **Folgedokumentation** |
+| **Administrative Daten** | | |
 | DMP-Fallnummer | 1112 | 1112 |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum der Erstellung (siehe Kap. 1.6.2) | 15.mm.jjjj | 15.mm.jjjj |
 | Einschreibung wegen | Adipositas - | Adipositas - |
 | Geschlecht | Männlich | Männlich |
-| Allgemeine Anamnese- und Befunddaten | | |
+| **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 1,83 m | 1,83 m |
 | Körpergewicht | 116 kg | 126 kg |
 | Blutdruck (systolisch / diastolisch) | 80 / 50 mmHg | 120 / 90 mmHg |
 | Raucher | Nein | Ja |
 | Begleiterkrankungen | Diabetes mellitus | Diabetes mellitus |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Vom Patienten gewünschte | Ernährungsberatung | Tabakverzicht |
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung (Behandlungsdatum) | 15.mm.jjjj | 15.mm.jjjj |
@@ -559,10 +559,10 @@ Anlage einer Erst- und einer Folgedokumentation eDMP Adipositas - Erwachsene Dok
 
 ---
 
-| INDIKATIONSPEZIFISCHE DATEN | | |
+| **INDIKATIONSPEZIFISCHE DATEN** | | |
 |---|---|---|
-|  | Erstdokumentation | Folgedokumentation |
-| Therapeutische Maßnahmen | | |
+|  | **Erstdokumentation** | **Folgedokumentation** |
+| **Therapeutische Maßnahmen** | | |
 | Ziele zur regelmäßigen körperlichen | Keine Ziele vereinbart |  |
 | Ziele zur regelmäßigen körperlichen |  | Ziele vereinbart oder |
 | Regelmäßige körperliche Alltagsaktivität | Ja | Nein |
@@ -571,11 +571,11 @@ Anlage einer Erst- und einer Folgedokumentation eDMP Adipositas - Erwachsene Dok
 | Ziele zur Ernährungsumstellung oder zur |  | Ziele vereinbart oder |
 | Adäquat geändertes Ernährungsverhalten | Ja | Nein |
 | Prädiabetes bei Einschreibung | Ja | Ja |
-| Schulung | | |
+| **Schulung** | | |
 | Bereits vor Einschreibung in das DMP an einer Ja |  |  |
 | Adipositas-Schulung empfohlen (bei aktueller | Ja | Nein |
 | Adipositas-Schulung wahrgenommen |  | Ja |
-| Relevante Ereignisse seit der letzten Dokumentation | | |
+| **Relevante Ereignisse seit der letzten Dokumentation** | | |
 | Manifester Diabetes mellitus Typ 2 |  | Ja |
 | Beendigung der DMP |  | Nein |
 
@@ -585,34 +585,34 @@ Alltagsaktivität und körperlichem Training Alltagsaktivität und körperlichem
 
 **2.2** **PRÜFFALL SYSTEMREAKTION**
 
-| INDIKATIONSÜBERGREIFENDE DATEN | | |
+| **INDIKATIONSÜBERGREIFENDE DATEN** | | |
 |---|---|---|
-|  | Erstdokumentation | Aktion |
-| Administrative Daten | | |
+|  | **Erstdokumentation** | **Aktion** |
+| **Administrative Daten** | | |
 | DMP-Fallnummer | 1114 |  |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum der Erstellung (siehe Kap. 1.6. | 15.mm.jjjj |  |
 | Einschreibung wegen | Adipositas - Erwachsene |  |
 | Geschlecht | Je nach Auswahl des |  |
-| Allgemeine Anamnese- und Befunddaten | | |
+| **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 1,88 m |  |
 | Körpergewicht | 200 kg | Nr. 1 |
 | Blutdruck | 120 / 90 mmHg |  |
 | Raucher | Ja |  |
 | Begleiterkrankungen | Keine der genannten |  |
-| Behandlungsplanung | | |
-| 2.2.1 |  |  |
+| **Behandlungsplanung** | | |
+| **2.2.1** |  |  |
 |  |  |  |
 |  |  |  |
 
 |  |  |
 |---|---|
-| Prüffall-ID | 1114 |
-| Testziel | › |
-| Voraussetzung | › |
-| Prüfunterlagen | ›   › |
-| Hinweis | › |
+| **Prüffall-ID** | 1114 |
+| **Testziel** | › |
+| **Voraussetzung** | › |
+| **Prüfunterlagen** | ›   › |
+| **Hinweis** | › |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -630,8 +630,8 @@ Kontrolle der softwareseitigen Erkennung von Fehleingaben Dokumentieren Sie durc
 |  | | |
 | Nein |  |  |
 | Ja |  |  |
-| 3. |  |  |
-| Erstdokumentation | Therapeutische Maßnahmen | Schulung |
+| **3.** |  |  |
+| **Erstdokumentation** | **Therapeutische Maßnahmen** | **Schulung** |
 |  |  |  |
 |  |  |  |
 |  | | |
@@ -645,20 +645,20 @@ Kontrolle der softwareseitigen Erkennung von Fehleingaben Dokumentieren Sie durc
 | Dokumentationsintervall | Quartalsweise |  |
 | Datum der Erstellung (siehe Kap. 1.6. | 15.mm.jjjj |  |
 
-| INDIKATIONSSPEZIFISCHE DATEN | | |
+| **INDIKATIONSSPEZIFISCHE DATEN** | | |
 |---|---|---|
-|  | Erstdokumentation | Aktion |
-| Therapeutische Maßnahmen | | |
+|  | **Erstdokumentation** | **Aktion** |
+| **Therapeutische Maßnahmen** | | |
 | Ziele zur regelmäßigen körperlichen Alltagsaktivität | Ziele vereinbart |  |
 | Regelmäßige körperliche Alltagsaktivität | Ziele vereinbart | Nr. 2 |
 | Regelmäßiges körperliches Training | Ja |  |
 | Ziele zur Ernährungsumstellung oder zur | Nein | Nr. 3 |
 | Adäquat geändertes Ernährungsverhalten | Keto | Nr. 4 |
 | Prädiabetes bei Einschreibung | Ja |  |
-| Schulung | | |
+| **Schulung** | | |
 | Bereits vor Einschreibung in das DMP an einer | Unbekannt | Nr. 5 |
 | Adipositas-Schulung empfohlen (bei aktueller | Ja |  |
-| Relevante Ereignisse seit der letzten Dokumentation | | |
+| **Relevante Ereignisse seit der letzten Dokumentation** | | |
 | Manifester Diabetes mellitus Typ 2 | Nein | Nr. 6 |
 | Beendigung der DMP | Ja | Nr. 7 |
 
@@ -668,31 +668,31 @@ der Krankenkasse 2) INDIKATIONSSPEZIFISCHE DATEN Ziele zur regelmäßigen körpe
 
 - **4.** **Anlegen einer Folgedokumentation**
 
-| INDIKATIONSÜBERGREIFENDE DATEN | | |
+| **INDIKATIONSÜBERGREIFENDE DATEN** | | |
 |---|---|---|
-|  | Folgedokumentation | Aktion |
-| Administrative Daten | | |
+|  | **Folgedokumentation** | **Aktion** |
+| **Administrative Daten** | | |
 | DMP-Fallnummer | 1114 |  |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum der Erstellung (siehe Kap. 1.6. | 15.mm.jjjj |  |
 | Einschreibung wegen | Adipositas - Erwachsene |  |
 | Geschlecht | Je nach Auswahl des |  |
-| Allgemeine Anamnese- und Befunddaten | | |
+| **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 1,88 m |  |
 | Körpergewicht | 210 kg |  |
 | Blutdruck | 124 / 79 mmHg |  |
 | Raucher | Nein |  |
 | Begleiterkrankungen | Chronische Herzinsuffizienz, |  |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Vom Patienten gewünschte Informationsangebote | Tabakverzicht,  Körperliches Training |  |
 | Dokumentationsintervall | Quartalsweise |  |
 | Datum der Erstellung (siehe Kap. 1.6. | 15.mm.jjjj |  |
 
-| INDIKATIONSSPEZIFISCHE DATEN | | |
+| **INDIKATIONSSPEZIFISCHE DATEN** | | |
 |---|---|---|
-|  | Verlaufsdokumentation | Aktion |
-| Therapeutische Maßnahmen | | |
+|  | **Verlaufsdokumentation** | **Aktion** |
+| **Therapeutische Maßnahmen** | | |
 | Ziele zur regelmäßigen körperlichen Alltagsaktivität | Ziele vereinbart | Nr. 9 |
 | Ziele zur regelmäßigen körperlichen Alltagsaktivität |  | Nr. 10 |
 | Regelmäßige körperliche Alltagsaktivität | Ja |  |
@@ -723,10 +723,10 @@ der Krankenkasse 2) INDIKATIONSSPEZIFISCHE DATEN Ziele zur regelmäßigen körpe
 | Ziele zur Ernährungsumstellung oder zur | Ziele vereinbart oder |  |
 | Adäquat geändertes Ernährungsverhalten | Ja |  |
 | Prädiabetes bei Einschreibung | Nein | Nr. 11 |
-| Schulung | | |
+| **Schulung** | | |
 | Bereits vor Einschreibung in das DMP an einer | Ja | Nr. 12 |
 | Adipositas-Schulung empfohlen (bei aktueller | Nein |  |
-| Relevante Ereignisse seit der letzten Dokumentation | | |
+| **Relevante Ereignisse seit der letzten Dokumentation** | | |
 | Manifester Diabetes mellitus Typ 2 |  | Nr. 13 |
 | Beendigung der DMP | Nein |  |
 |  |  |  |
@@ -741,22 +741,22 @@ Aufrechterhaltung der Ernährungsänderung seit der multimodalen Adipositas-Schu
 
 |  |  |
 |---|---|
-| Prüffall-ID | 1130 |
-| Testziel | eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
-| Voraussetzung | › |
-| Prüfunterlagen | nach einer möglichen Hinweissteuerung. |
-| Hinweis | › |
+| **Prüffall-ID** | 1130 |
+| **Testziel** | eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
+| **Voraussetzung** | › |
+| **Prüfunterlagen** | nach einer möglichen Hinweissteuerung. |
+| **Hinweis** | › |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-| SZENARIEN |
-|---|
-| Szenario 1 |
-| Es wird eine Folgedokumentation |
-| Szenario 2 |
-| Es wird eine Folgedokumentation angelegt. In der vorherigen Folgedokumentation wurde bei  Zeigen Sie die Systemreaktion.   Mit diesem Szenario soll die korrekte Umsetzung der |
-| Szenario 3 |
-| Es wird eine weitere Folgedokumentation für den Patienten aus Prüffall 1114 angelegt, welche  1. 2. 3. 4. Mit diesem Szenario soll die korrekte Umsetzung der |
+\| **SZENARIEN** |
+\|---|
+\| **Szenario 1** |
+\| Es wird eine Folgedokumentation |
+\| **Szenario 2** |
+\| Es wird eine Folgedokumentation angelegt. In der vorherigen Folgedokumentation wurde bei  Zeigen Sie die Systemreaktion.   Mit diesem Szenario soll die korrekte Umsetzung der |
+\| **Szenario 3** |
+\| Es wird eine weitere Folgedokumentation für den Patienten aus Prüffall 1114 angelegt, welche **1. 2. 3. 4.** Mit diesem Szenario soll die korrekte Umsetzung der |
 
 Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges Dokumentieren Sie durch Video Dieser Testfall ist unterteilt in  drei Szenarien s die Eingaben einschließlich der Ergebnisse  angelegt. Zeigen Sie, wie das System die Datenübernahme aus einer vorherigen Dokumentation, gemäß Anforderung P1 KBV_ITA_VGEX_Anforderungskatalog_eDMP), vornimmt.  dem Parameter „Beendigung der DMP-Teilnahme“ die Angabe „Ja“ gemacht. KBV_ITA_VGEX_Anforderungskatalog_eDMP ) überprüft werden. zeitlich nach den bestehenden Dokumentationen liegt. Bei dem Parameter „Körpergewicht“ wird die Angabe „210“ gemacht. Zeigen Sie die Ändern Sie das Körpergewicht auf den Wert „220“ und zeigen Sie die Systemreaktion. Ändern Sie das Körpergewicht auf den Wert „190“ und zeigen Sie die Systemreaktion. Ändern Sie das Körpergewicht auf den Wert „200“ und zeigen Sie die Systemreaktion. KBV_ITA_VGEX_Anforderungskatalog_eDMP) überprüft werden. -50  (siehe Anforderung KP1 -24  (siehe Anforderung KP2 -510  (siehe
 
@@ -766,11 +766,11 @@ Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges Dokumenti
 
 |  | |
 |---|---|
-| Prüffall-ID | 1140 |
-| Testziel | eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
-| Voraussetzung |  |
-| Prüfunterlagen | PDF-Datei „TE_EWE_ADERW.pdf“ der indikationsübergreifenden |
-| Hinweis | Falls Ihr System die optionale Anforderung O |
+| **Prüffall-ID** | 1140 |
+| **Testziel** | eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | PDF-Datei „TE_EWE_ADERW.pdf“ der indikationsübergreifenden |
+| **Hinweis** | Falls Ihr System die optionale Anforderung O |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -784,7 +784,7 @@ Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 
 |  |  |
 |---|---|
-| Administrative Daten |  |
+| **Administrative Daten** |  |
 | DMP | Adipositas - Erwachsene |
 | DMP-Fallnummer | 1112 |
 | Datum | 15.10.2026 |
@@ -838,28 +838,28 @@ IDX-Datei
 
 **4.1** **PRÜFFALL 10 – ERSATZVERFAHREN**
 
-| PERSONALIEN | | |
+| **PERSONALIEN** | | |
 |---|---|---|
-| 3100 | Namenszusatz |  |
-| 3120 | Vorsatzwort |  |
-| 3101 | Name | Aufgelöst |
-| 3102 | Vorname | Helga |
-| 3103 | Geburtsdatum | 29.05.1982 |
-| 3104 | Titel |  |
-| 3119 | Versicherten_ID | A290582778 |
-| 3107 | Straße | Marktstraße |
-| 3109 | Hausnummer | 45 |
-| 3112 | PLZ | 30159 |
-| 3114 | Wohnsitzländercode |  |
-| 3113 | Ort | Hannover |
-| 3116 | WOP | 17 |
-| 3108 | Versichertenart | 1 |
-| 3110 | Geschlecht | W |
-| 4133 | Versicherungsschutz Beginn |  |
-| 4110 | Versicherungsschutz Ende |  |
-| 4111 | Kostentraegerkennung | 109719018 |
-| 4131 | BesonderePersonengruppe | 00 |
-| 4132 | DMP_Kennzeichnung | 12 |
+| **3100** | **Namenszusatz** |  |
+| **3120** | **Vorsatzwort** |  |
+| **3101** | **Name** | Aufgelöst |
+| **3102** | **Vorname** | Helga |
+| **3103** | **Geburtsdatum** | 29.05.1982 |
+| **3104** | **Titel** |  |
+| **3119** | **Versicherten_ID** | A290582778 |
+| **3107** | **Straße** | Marktstraße |
+| **3109** | **Hausnummer** | 45 |
+| **3112** | **PLZ** | 30159 |
+| **3114** | **Wohnsitzländercode** |  |
+| **3113** | **Ort** | Hannover |
+| **3116** | **WOP** | 17 |
+| **3108** | **Versichertenart** | 1 |
+| **3110** | **Geschlecht** | W |
+| **4133** | **Versicherungsschutz Beginn** |  |
+| **4110** | **Versicherungsschutz Ende** |  |
+| **4111** | **Kostentraegerkennung** | 109719018 |
+| **4131** | **BesonderePersonengruppe** | 00 |
+| **4132** | **DMP_Kennzeichnung** | 12 |
 
 
 ---
@@ -868,7 +868,7 @@ REFERENZIERTE DOKUMENTE
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 | KBV_ITA_VGEX_Anforderungskatalog_eDMP | Anforderungskatalog eDMP |
 | EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend | Plausibilitätsrichtlinie zur Prüfung der |
 | EXT_ITA_VGEX_Plausi_eDMP_Adipositas_Erwachsene | Plausibilitätsrichtlinie zur Prüfung der |
@@ -901,6 +901,12 @@ Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes Dokum
 
 ---
 
-IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
+| IT in der | Arztpraxis |
+|---|---|
+| Tel.: 030 | 4005-2077, pruefstelle@kbv.de |
+| Kassenärztliche | Bundesvereinigung |
+| Herbert-Lewin-Platz | 2, 10623 Berlin |
+| pruefstelle@kbv.de, | www.kbv.de |
+| Seite 23 von | 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene / Version: 1.00 / 31. März 2026 |
 
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+IT in der Arztpraxis Tel.: 030 4005-2077, pruefstelle@kbv.de Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin

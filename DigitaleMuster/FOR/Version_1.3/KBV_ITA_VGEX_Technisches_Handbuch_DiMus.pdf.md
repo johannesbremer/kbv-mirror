@@ -1097,8 +1097,6 @@ Formularversion
 
 Technische_Version
 
-**Tabelle 2: Unveränderbare Metadaten**
-
 Type
 
 | Punktgetrennte Gleitkomma- | Der Monat ab dem das Formular gilt. Ana- |
@@ -1108,6 +1106,8 @@ Type
 tellen
 
 Ganzzahlig, nummerisch
+
+**Tabelle 2: Unveränderbare Metadaten**
 
 **2.10** **FORMULARFELDER**
 
@@ -2977,9 +2977,9 @@ Die Schriftgröße dieses Feldes kann beruhend auf den Regelungen in Kapitel  In
 
 54
 
-**das Feld „M10_22: 4207_Diagnose_Verdachtsdiagnose**
+Vordruckerläuterungen],
 
-*hhmm* anzugeben, wenn diese nach
+*hhmm* anzugeben, wenn diese nach 2.10.4.2
 
 Anzahl erlaubter Zeichen 108
 
@@ -2989,35 +2989,27 @@ Anzahl erlaubter Zeichen 108
 
 72
 
-65
+Vordruckerläuterungen],
+
+Vordruckerläuterungen],
+
+Vordruckerläuterungen],
+
+Vordruckerläuterungen],
+
+Vordruckerläuterungen],
+
+Felder mit variablem 65
 
 59
 
 54
 
-2.10.4.2
-
-2.10.4.2
+**das Feld „M10_22: 4207_Diagnose_Verdachtsdiagnose “ auf digitalem Muster 10**
 
 Vordruckerläuterungen],
 
-Vordruckerläuterungen],
-
-Vordruckerläuterungen],
-
-Vordruckerläuterungen],
-
-Vordruckerläuterungen],
-
-Vordruckerläuterungen],
-
-Felder mit variablem
-
-**“ auf digitalem Muster 10**
-
-Vordruckerläuterungen],
-
-Felder mit variablem
+2.10.4.2 Felder mit variablem
 
 
 ---
@@ -3637,9 +3629,9 @@ Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe 
 
 3.3.2.13 M10A_67: 4205_Auftrag61
 
-Es gelten die Ausführungen aus Kapitel 3.3.2.12 M10A_12: 4205_Auftrag2
+Es gelten die Ausführungen aus Kapitel
 
-Wurde das Feld „M10A_67: 4205_Auftrag61“ angekreuzt, so ist im Feld „
+Wurde das Feld „M10A_67: 4205_Auftrag61
 
 tige_Auftraege“ der Auftrag zu spezifizieren.
 
@@ -3689,9 +3681,9 @@ Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe 
 
 In diesem Abschnitt werden die musterspezifischen Inhalte für das digitale Muster 39 beschrieben. Wie in  diesem Dokument bereits beschrieben, lassen sich die Inhalte eines Musters in zwei Abschnitte zusammen- fassen: Metadaten und Daten.
 
-**M10A_68: 4205_Auftrag61_sonstige_Auftraege**
+3.3.2.12 M10A_12: 4205_Auftrag2
 
-M10A_68: 4205_Auftrag61_sons-
+“ angekreuzt, so ist im Feld „M10A_68: 4205_Auftrag61_sons-
 
 Anzahl erlaubter Zeichen 72
 
@@ -3706,6 +3698,8 @@ Anzahl erlaubter Zeichen 72
 13
 
 12
+
+**M10A_68: 4205_Auftrag61_sonstige_Auftraege**
 
 Vordruckerläuterungen],
 
@@ -3753,10 +3747,12 @@ Eine vom Einsender vergebene Identi- fikation für den Auftrag. Die Befüllung  
 
 ---
 
-**3.4.2** **Formularfelder digitales Muster 39**
+| **3.4.2** |  | **Formularfelder** | **digitales Muster** | **39** |
+|---|---|---|---|---|
+| **Abbildung** | **8: Formularfelder** | **des digitalen** | **Musters** | **39** |
+| SEITE | 49 VON 102 | / KBV / | TECHNISCHES HANDBUCH | DIGITALE VORDRUCKE / 9. FEBRUAR 2026 / VERSION: 2.31 |
 
-**Abbildung 8: Formularfelder des digitalen Musters 39**
-
+Formularfelder digitales Muster 39 Abbildung 8: Formularfelder des digitalen Musters 39
 
 ---
 
@@ -4960,31 +4956,31 @@ Namenszusatz der ausstel-oder
 
 #### KBV_PR_FOR_PRACTITIONER
 
-Qualifikation der verant- wortlichen Person
+Qualifikation der verant- 148
 
-Typ der verantwortlichen  Person
+wortlichen Person
+
+Typ der verantwortlichen 51
+
+qualification:Typ.code
+
+Person
 
 Berufsbezeichnung der  verantwortlichen Person
 
-ASV-Fachgruppennummer  der verantwortlichen Per- son
-
-Identifikator der verant- wortlichen Person 148
-
-51
-
-58
+ASV-Fachgruppennummer  der verantwortlichen Per- son 58
 
 149
-
-52
-
-qualification:Typ.code
 
 qualification:Berufsbezeichnung .code.text
 
 qualification:ASV-Fachgruppenn ummer.code.coding.code
 
+Identifikator der verant- 52
+
 Identifier
+
+wortlichen Person
 
 Arztnummer der verant- 52a
 
@@ -5200,7 +5196,9 @@ ANSONSTEN  darf dieses Feld nicht angegeben  werden.
 
 **Daten**
 
-Identifikator der Einrich- tung
+| Identifikator der Einrich- | 61 | identifier |  |  |
+|---|---|---|---|---|
+| tung |  |  |  |  |
 
 BSNR
 
@@ -5211,8 +5209,6 @@ KZV-Abrechnungsnum- mer
 Standortnummer
 
 **ID gemäß**  **Tabelle 52**
-
-61
 
 61a
 
@@ -5225,14 +5221,6 @@ Standortnummer
 **FHIR®-Element**
 
 **Bedingung**
-
-identifier
-
-WENN  das Feld 7 gemäß Tabelle 52 gleich  "GKV" oder "BG" oder "SKT" oder  "UK" oder “PKV“ ist und das Feld 41
-
-gemäß Tabelle 52 gleich "00" oder  "01" oder "03" oder "04" ist,  DANN  ist dieses Feld Pflicht.
-
-ANSONSTEN  ist dieses Feld optional.
 
 identifier:Betriebsstaettennum WENN
 
@@ -5262,7 +5250,7 @@ gemäß Tabelle 52 nicht vorhanden  sind,  DANN  ist dieses Feld Pflicht.
 
 ANSONSTEN  darf dieses Feld nicht angegeben  werden.
 
-identifier:Standortnummer WENN  der Block 61 gemäß Tabelle 52 vor- handen ist und die Felder 61a gemäß  Tabelle 52 und 61b gemäß Tabelle  52 und 61c gemäß Tabelle 52 nicht  vorhanden sind,  DANN  ist dieses Feld Pflicht.
+WENN das Feld 7 gemäß Tabelle 52 gleich "GKV" oder "BG" oder "SKT" oder "UK" oder “PKV“ ist und das Feld 41 gemäß Tabelle 52 gleich "00" oder "01" oder "03" oder "04" ist, DANN ist dieses Feld Pflicht. ANSONSTEN  ist dieses Feld optional. identifier:Standortnummer WENN  der Block 61 gemäß Tabelle 52 vor- handen ist und die Felder 61a gemäß  Tabelle 52 und 61b gemäß Tabelle  52 und 61c gemäß Tabelle 52 nicht  vorhanden sind,  DANN  ist dieses Feld Pflicht.
 
 
 ---
@@ -5661,7 +5649,9 @@ WENN der Versicherte sich elektronisch ausgewiesen hat und das Feld 7 ge- mäß 
 
 Geburtsdatum des Versi- cherten
 
-Straßenadresse des Versi- cherten
+| Straßenadresse des Versi- | 27 | address:Strassenanschrift |  |  |
+|---|---|---|---|---|
+| cherten |  |  |  |  |
 
 Wohnsitzländercode der  Versichertenanschrift
 
@@ -5674,8 +5664,6 @@ Straßenname der Versi- chertenanschrift
 Hausnummer der Versi- chertenanschrift
 
 Anschriftenzusatz der Ver- sichertenanschrift 25
-
-27
 
 28
 
@@ -5709,12 +5697,6 @@ birthDate.extension:data-absen Ausstellungsdatum liegen.
 
 t-reason.value[x]:valueCode =  unknown
 
-address:Strassenanschrift
-
-WENN  der Block "Postfachanschrift des  Versicherten" nicht angegeben ist,  DANN  kann dieser Block angegeben  werden.
-
-ANSONSTEN  darf dieser Block nicht angegeben  werden.
-
 address:Strassenanschrift.coun
 
 try
@@ -5745,16 +5727,16 @@ address:Strassenanschrift.line[0
 
 Wenn Straßenname und/oder
 
-Hausnummer vorhanden, gilt  Mapping
+WENN der Block "Postfachanschrift des Versicherten" nicht angegeben ist, DANN kann dieser Block angegeben werden. ANSONSTEN darf dieser Block nicht angegeben werden. Hausnummer vorhanden, gilt  Mapping
 
 
 ---
 
-#### KBV_PR_FOR_PATIENT
+**KBV_PR_FOR_PATIENT**
 
-Postfachanschrift des Ver- 34
-
-sicherten
+| Postfachanschrift des Ver- | 34 | address:Postfach |  |  |
+|---|---|---|---|---|
+| sicherten |  |  |  |  |
 
 Wohnsitzländercode der 35
 
@@ -5782,12 +5764,6 @@ a) Pflichtfelder sind zu befüllen  b) Optionale Felder müssen befüllt werden,
 
 address:Strassenanschrift.line[1 ].extension:Adresszusatz.value[ x]:valueString  Wenn Straßenname und  Hausnummer nicht vorhanden,  gilt Mapping  KBV_PR_FOR_Patient.address:S trassenanschrift.line[0].extensi on:Adresszusatz.value[x]:valueS tring
 
-address:Postfach
-
-WENN  der Block "Straßenadresse des Ver- sicherten" nicht angegeben ist,  DANN  kann dieser Block angegeben  werden.
-
-ANSONSTEN  darf dieser Block nicht angegeben  werden.
-
 address:Postfach.country
 
 address:Postfach.postalCode WENN  der Versicherte sich nicht elektro- nisch ausgewiesen hat und das Feld  7 gemäß Tabelle 52 gleich "GKV"  oder "BG" oder "SKT" oder "UK"  oder „PKV“ ist DANN  ist dieses Feld Pflicht.
@@ -5804,6 +5780,7 @@ address:Postfach.line.extension
 
 :Postfach.value[x]:valueString
 
+WENN der Block "Straßenadresse des Ver- sicherten" nicht angegeben ist, DANN kann dieser Block angegeben werden. ANSONSTEN darf dieser Block nicht angegeben werden.
 
 ---
 
@@ -6938,7 +6915,9 @@ x   Zahnarztnummer der 9
 
 verantwortlichen Per- son
 
-x   Telematik-ID der ver- antwortlichen Person 1..128
+x   Telematik-ID der ver- 1..128
+
+antwortlichen Person
 
 **WIEDERH.**
 
@@ -7335,15 +7314,13 @@ Nach Anlage 2b des BMV-Ä ist die Nutzung digitaler Muster nur mit einem zertifi
 
 Musterbezeichnung
 
-Muster 6: Überweisungsschein (in der Arzt-zu-
-
-Arzt-Kommunikation ohne Arzt-Patienten-Kon- takt)
+Muster 6: Überweisungsschein (in der Arzt Arzt-Kommunikation ohne Arzt-Patienten-Kon- takt)
 
 Muster 10: Überweisungsschein für Laboratorium- suntersuchungen als Auftragsleistung
 
 Muster 10A: Anforderungsschein für Laboratori- umsuntersuchungen bei Laborgemeinschaften
 
-Muster 39: Krebsfrüherkennung Zervix-Karzinom
+Muster 39: Krebsfrüherkennung Zervix
 
 Arbeitsunfähigkeitsbescheinigung (e01)
 
@@ -7355,15 +7332,23 @@ Verordnung digitaler Gesundheitsanwendungen  (Vordruck e16D)
 
 Zertifizierungsverfahren
 
-Softwarezertifizierung der Komponente KVDT
+-zu- Softwarezertifizierung der Komponente KVDT
 
-Softwarezertifizierung der Komponente „Laborda- tenkommunikation“
+Softwarezertifizierung der Komponente „Laborda-
 
-Softwarezertifizierung der Komponente „Laborda- tenkommunikation“
+tenkommunikation“
 
-Softwarezertifizierung der Komponente „Laborda- tenkommunikation“
+Softwarezertifizierung der Komponente „Laborda-
 
-Softwarezertifizierung der Komponente „Digitale  Muster“
+tenkommunikation“
+
+Softwarezertifizierung der Komponente „Laborda-
+
+-Karzinom  tenkommunikation“
+
+Softwarezertifizierung der Komponente „Digitale
+
+Muster“
 
 Softwarezertifizierung der Komponente Verordnung  von Arzneimittel
 
@@ -7498,9 +7483,7 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
-Kassenärztliche Bundesvereinigung
-
-Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
+Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
 
 Technische Anlage zur eAU
 

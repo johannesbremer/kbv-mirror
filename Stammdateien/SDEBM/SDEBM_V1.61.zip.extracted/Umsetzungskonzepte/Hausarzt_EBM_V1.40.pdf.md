@@ -1,7 +1,7 @@
-|  | Umsetzungskonzept |
+|  | **Umsetzungskonzept ** |
 |---|---|
-|  | Abbildung des HA-EBM auf die |
-|  |  |
+|  | *Abbildung des HA-EBM auf die* |
+|  | ** |
 |  | Dezernat 3, 6 |
 |  | 10623 Berlin, Herbert-Lewin-Platz 2 |
 |  |  |
@@ -18,7 +18,7 @@ EBM- Schnittstelle (GOS)   extern
 
 **Ä** **N**
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.40 | 08.08.2013 | KBV | Umwandlung der Versicherten- | Bestätigung der Regelungen |  |
 | 1.30 | 26.07.2013 | KBV | Abrechnung der Versicherten- PFG-Ausschluss  Erläuterung der PFG  Zusammenfassung | Verwendung der altersklas- Filterkriterium für Leistungen  Zuschlag zur VP, Abbildung  wahrscheinliche Szenarien |  |

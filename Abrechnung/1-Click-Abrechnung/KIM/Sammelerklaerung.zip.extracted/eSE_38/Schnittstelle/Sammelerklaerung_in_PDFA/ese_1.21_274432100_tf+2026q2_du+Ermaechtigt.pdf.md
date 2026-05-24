@@ -1,9 +1,9 @@
-| Sammelerklärung 2. Quartal 2026 \| Ermächtigte Ärzte | |
+| **Sammelerklärung 2. Quartal 2026 \| Ermächtigte Ärzte** | |
 |---|---|
-| Klinik für Orthopädie und Orthopädische Chirurgie mit  Sportmedizin Städtisches Krankenhaus Dr. med.  Hans  Schloedermann Facharzt für Orthopädie und Unfallchirurgie Hahnenweg  4 51371  Leverkusen | BSNR: 274432100 Fallzahl: 1302 |
+| **Klinik für Orthopädie und Orthopädische Chirurgie mit  Sportmedizin Städtisches Krankenhaus Dr. med.  Hans  Schloedermann Facharzt für Orthopädie und Unfallchirurgie Hahnenweg  4 51371  Leverkusen** | BSNR: 274432100 Fallzahl: 1302 |
 
-| Ich versichere: |
-|---|
+\| **Ich versichere:** |
+\|---|
 
 | 1. | Die Abrechnung ist vollständig; die maßgeblichen Regelungen und Bestimmungen, besonders die des  Sozialgesetzbuchs V, des Bundesmantelvertrages (BMV-Ä), des Einheitlichen Bewertungsmaßstabs und des  Honorarverteilungsmaßstabs, der IT-Richtlinien der KV Nordrhein sowie der Richtlinien des Gemeinsamen  Bundesausschusses in der jeweils geltenden Fassung wurden beachtet. |
 |---|---|
@@ -14,8 +14,8 @@
 | 3. | Ich erfülle alle Abrechnungsvoraussetzungen. |
 |---|---|
 
-| Ferner bestätige ich: |
-|---|
+\| **Ferner bestätige ich:** |
+\|---|
 
 | 4. | Für alle qualitätsgebundenen Leistungen liegen die erforderlichen Genehmigungen bzw. Nachweise im Rahmen  der erfolgreichen Teilnahme an den Ringversuchen vor. Es wurden nur die Materialien (Serum und/oder Urin  und/oder Liquor) abgerechnet, für die ein gültiger Nachweis einer erfolgreichen Ringversuchsteilnahme vorliegt. |
 |---|---|
@@ -32,8 +32,8 @@
 | 8. | Die eingesetzte Software ist zertifiziert. |
 |---|---|
 
-| 1\|2 Bundesausschusses in der jeweils geltenden Fassung wurden beachtet. 2. Die in Rechnung gestellten Leistungen habe ich selbst (persönlich) oder durch nichtärztliche Hilfskräfte unter |
-|---|
+\| **1\|2** Bundesausschusses in der jeweils geltenden Fassung wurden beachtet. 2. Die in Rechnung gestellten Leistungen habe ich selbst (persönlich) oder durch nichtärztliche Hilfskräfte unter |
+\|---|
 
 Sammelerklärung 2. Quartal 2026 | Ermächtigte Ärzte 1|2
 
@@ -46,12 +46,12 @@ Formularversion 22.04.2026
 |  | wenn die Abrechnung nicht den genannten Bestimmungen entspricht und/oder |
 |  | wenn durch die Beschäftigung eines nicht genehmigten Assistenten/Vertreters Leistungen abgerechnet wurden. |
 
-| Eine Veränderung des Erklärungstextes führt zur Unwirksamkeit der Erklärung mit der Folge, dass die KV Nordrhein  die Abrechnung ablehnen kann. |
-|---|
+\| Eine Veränderung des Erklärungstextes führt zur Unwirksamkeit der Erklärung mit der Folge, dass die KV Nordrhein  die Abrechnung ablehnen kann. |
+\|---|
 
 | 30.06.2026 |  |  |
 |---|---|---|
 | Datum |  | Unterschrift des ermächtigten Arztes (bei Berufsausübungsgemeinschaften ggf. eines Partners - ansonsten auf  gesondertem Blatt - bzw. für ein Medizinisches Versorgungszentrum der  ärztliche Leiter bzw. für Notfallpraxen der jeweils verantwortliche Arzt) |
 
-| 2\|2 |
-|---|
+\| **2\|2** |
+\|---|

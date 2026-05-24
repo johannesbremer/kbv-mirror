@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT 5. MÄRZ 2025  VERSION 1.23  DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT 5. MÄRZ 2025  VERSION 1.23  DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # SPRECHSTUNDE VDGA
@@ -18,7 +18,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.23 | 05.03.2025 | KBV | Notizen zur Sprechstunde vom |  | 31 |
 | 1.22 | 07.10.2024 | KBV | Notizen zur Sprechstunde vom |  | 30 |
@@ -40,7 +40,7 @@ DOKUMENTENHISTORIE
 
 ---
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.08 | 20.02.2024 | KBV | Notizen zur Sprechstunde am |  | 19 |
 | 1.07 | 30.01.2024 | KBV | Notizen zur Sprechstunde am |  | 17 |
@@ -536,9 +536,9 @@ Ja, beim GKV-SV unter:
 
 [https://www.gkv-spitzenverband.de/media/dokumente/krankenversicherung_1/telematik/digitales/2022_](https://www.gkv-spitzenverband.de/media/dokumente/krankenversicherung_1/telematik/digitales/2022_) DiGA_Bericht_BMG.pdf
 
-**Erste Ebene) angezeigt werden?**
-
 **310 („Angaben bei erster und**
+
+**Erste Ebene) angezeigt werden?**
 
 den Begriffen „Preis“, „Zusätzliche Mehrkosten“ und
 

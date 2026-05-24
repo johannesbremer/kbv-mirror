@@ -20,11 +20,11 @@ grundsätzlich quartalsübergreifend gültig. Auch wenn die Behandlung erst im F
 
 Wenn die Behandlung als Folge eines Unfalls erforderlich wird, kann die Krankenkasse ggf.  Schadensersatzansprüche geltend machen.
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
 
 ---

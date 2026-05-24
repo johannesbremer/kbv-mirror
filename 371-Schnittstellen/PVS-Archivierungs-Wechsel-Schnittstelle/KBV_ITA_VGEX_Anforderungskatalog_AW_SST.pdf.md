@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIE 15. NOVEMBER 2021   VERSION: 1.2.1 DOKUMENTENSTATUS: |
+|  | **KASSENÄRZTLICHE DEZERNAT DIGITALISIE 15. NOVEMBER 2021   VERSION: 1.2.1 DOKUMENTENSTATUS:** |
 |---|---|
 
 # ANFORDERUNGSKATALOG DER ARCHIV-
@@ -85,7 +85,7 @@ BUNDESVEREINIGUNG   RUNG UND IT IT IN DER ARZTPRAXIS IN KRAFT
 
 # ABKÜRZUNGSVERZEICHNI S
 
-| Abkürzung | Erläuterung |
+| **Abkürzung** | **Erläuterung** |
 |---|---|
 | AW | Archiv- und Wechselschnittstelle |
 | SYSTEM | Praxisverwaltungssystem |
@@ -98,7 +98,7 @@ BUNDESVEREINIGUNG   RUNG UND IT IT IN DER ARZTPRAXIS IN KRAFT
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.00 | 11.09.2018 KBV |  | Initiale Erstellung | § 291d Absatz | alle |
 | 1.10.001 | 27.05.2019 KBV |  | 1. 2. und P6-19 aufgenommen.  3. und P7-06 aufgenommen.  4. P6-12  und P7-04  5. 6. 7. |  | 20    43      49- 38      51/3 7 |
@@ -120,7 +120,7 @@ Neue Anforderung P5-02 aufgenommen. Neue Export -Anforderungen P6-17, KP6-18 Neu
 |  | 16. |  | 15.11.2021 KBV  1. 3. 4. 5. 6. 7. 8. 9. |  | 12. 13. 15. 16. 17. |
 |  | 18. |  | Versch. Punkte Anpassung ä => ae  15  24 |  | 32  33 |
 | 36 |  |  |  |  |  |
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 | 16. | | | | | |
 | 1.2.1 | 15.11.2021 KBV |  | 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18.   Versch. Punkte Anpassung ä => ae | P3-20 ist ein | 7  8  12  15  19  20  24  27  28  29  32  33  36  42  48  51  52  53 |
 
@@ -164,21 +164,21 @@ Entscheidung hierzu liegt im Ermessen des jeweiligen Softwareherstellers.
 
 Pflichtfunktionen sind wie folgt gekennzeichnet:
 
-| PFLICHTFUNKTION AW-SST |  |
+| **PFLICHTFUNKTION AW-SST** |  |
 |---|---|
-| P4-10 | Funktionsbezeichnung |
+| **P4-10** | Funktionsbezeichnung |
 
 Konditionale Pflichtfunktionen sind wie folgt gekennzeichnet:
 
-| KONDITIONALE |  |
+| **KONDITIONALE** |  |
 |---|---|
-| KP4-15 | Funktionsbezeichnung |
+| **KP4-15** | Funktionsbezeichnung |
 
 Optionale Funktionen sind wie folgt gekennzeichnet:
 
-| OPTIONALE FUNKTION AW-SST |  |
+| **OPTIONALE FUNKTION AW-SST** |  |
 |---|---|
-| O4-20 | Funktionsbezeichnung |
+| **O4-20** | Funktionsbezeichnung |
 
 / Version: 1.2.1
 
@@ -208,9 +208,9 @@ Dieses Kapitel enthält die verbindlichen Anforderungen der AW
 
 **2.1** **VERBINDLICHE DOKUMENTE**
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P1-00 | Schnittstellenfestlegung AW |
+| **P1-00** | Schnittstellenfestlegung AW |
 
 Das Dokument [ Festlegung_SST_AW] legt die Schnittstellen
 
@@ -224,9 +224,9 @@ Das Dokument ist Grundlage für diesen Anforderungskatalog.
 
 Das System muss die definierten Anforderungen des  widerspruchsfrei umzusetzen.
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P1-01 | KBV-Definitionsdateien |
+| **P1-01** | KBV-Definitionsdateien |
 
 Die KBV-Definitionsdateien müssen ohne jegliche Modifikation
 
@@ -275,9 +275,9 @@ Einschränkungen - -CodeSystems und
 
 **2.2** **DATEIKONVENTION**
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P2-00 | Dateiformat |
+| **P2-00** | Dateiformat |
 
 Das Dateiformat ist im XML -Format auf FHIR® -Basis definiert.
 
@@ -289,9 +289,9 @@ Festlegung für die Schnittstelle um interoperabel zu sein.
 
 Die Daten werden dateibasiert im XML -Format auf FHIR® -Basis transportiert.
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P2-01 | Dateiinhalt -BUNDLE |
+| **P2-01** | Dateiinhalt -BUNDLE |
 
 Die einzelnen FHIR®-Instanzen werden fachlich in entsprechende
 
@@ -303,9 +303,9 @@ Die Verwendung von BUNDLES steigert die Performance beim Export/Im Durchsuchen e
 
 Die einzelnen FHIR®-Instanzen werden fachlich in entsprechende BUNDLE BUNDLE-Dateien werden nach den Vorgaben im Kapitel 2.5
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P2-02 | Validieren der BUNDLE -Datei |
+| **P2-02** | Validieren der BUNDLE -Datei |
 
 Es dürfen nur valide BUNDLE -Dateien verarbeitet werden. Sowohl die exportierten BUNDLE-Dateien
 
@@ -329,13 +329,13 @@ erzeugt
 
 port und erleichtert das manuelle  Daten entsprechend -Dateien zusammengefasst. Die
 
+als
+
+D.h. es muss gegen
+
 gehalten werden.
 
 - -Instanzen, müssen validiert werden.
-
-als
-
-D.h. es muss gegen -
 
 / Version: 1.2.1
 
@@ -346,9 +346,9 @@ D.h. es muss gegen -
 
 Ein Großteil der FHIR® -Instanzen enthält einen maschinenlesbaren und einen menschenlesbaren Teil. Im  menschenlesbaren Teil werden die Inhalte aus dem maschinenlesbaren Teil formatiert a Beziehungen auf andere Ressourcen werden ebenso dargestellt.
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P 3-00 | Logische Identifier (FHIR®) |
+| **P 3-00** | Logische Identifier (FHIR®) |
 
 Jede FHIR®-Instanz (BUNDLES und Ressourcen) enthält ein Element <Ressourcentyp.id> deren Attribut  „value“ mit einer eindeutigen ID gefüllt werden muss.
 
@@ -360,8 +360,8 @@ Mit dem Identifier wird eine eindeutige Referenz von
 
 Die vergebene ID muss für jeden Export über alle FHIR®
 
-| Beispiel:   …  <fullUrl value="http://beispielpraxis.de/FHIR/Patient/1"/> <Patient>  <id value="1"/>  <meta>  … |
-|---|
+\| **Beispiel:  ** … *<fullUrl value="http://beispielpraxis.de/FHIR/Patient/1"/> <Patient>  <id value="1"/>  <meta> * … |
+\|---|
 
 BUNDLES und Instanzen sichergestellt.
 
@@ -371,9 +371,9 @@ BUNDLES und Instanzen sichergestellt.
 
 Die KBV empfiehlt das Element <Ressourcentyp.id> mit einem Universally Unique Identifier (UUID) zu  belegen.
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P3-01 | Maschinenlesbare Elemente |
+| **P3-01** | Maschinenlesbare Elemente |
 
 Die maschinenlesbaren Elemente werden ausschließlich in den KBV -Profilen definiert. In diesen Elementen
 
@@ -396,9 +396,9 @@ ngezeigt. Die -Profilen ist ausnahmslos (in
 
 ---
 
-| PFLICHTFUNKTI ON AW-SST |  |
+| **PFLICHTFUNKTI ON AW-SST** |  |
 |---|---|
-| P3-02 | Menschenlesbare Elemente |
+| **P3-02** | Menschenlesbare Elemente |
 
 Die FHIR -Instanzen müssen mit einem menschenlesbaren Teil erstellt werden, der jeweils alle fachlichen  Inhalte aus dem maschinenlesbaren Teil enthält.
 
@@ -424,9 +424,9 @@ Patientenakte zu ermöglichen.
 
 - KBV_PR_AW_Report_Export_Export
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P3-03 | Formatierung menschenlesbarer |
+| **P3-03** | Formatierung menschenlesbarer |
 
 Der menschenlesbare Teil muss leicht lesbar ausgegeben werden.
 
@@ -455,9 +455,9 @@ Teil
 
 ---
 
-| PFLICHTFU NKTION AW-SST |  |
+| **PFLICHTFU NKTION AW-SST** |  |
 |---|---|
-| P3-04 | Eigenschaft „mustSupport“ |
+| **P3-04** | Eigenschaft „mustSupport“ |
 
 Elemente mit der Eigenschaft "mustSupport" müssen immer implementiert werden.
 
@@ -483,9 +483,9 @@ Die Anforderungen der Punkte 1 und 2 gelten in dieser Version nur für die verpf
 
 Definition der Punkte 1 und 2 ausnahmslos.
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P3-05 | Definition des Inhalts der BUNDLE |
+| **P3-05** | Definition des Inhalts der BUNDLE |
 
 In den BUNDLE -Dateien müssen alle für das jeweilige BUNDLE definierten Ressourcen aufgenommen  werden. Dabei sind die Definiti onen für die unterschiedlichen Ressourcentypen zu beachten.
 
@@ -508,9 +508,9 @@ Festlegung für die Schnittstelle.
 
 ---
 
-| PFLICHTFUNK TION AW -SST |  |
+| **PFLICHTFUNK TION AW -SST** |  |
 |---|---|
-| P3-06 | Verwendung der abhängigen Ressourcen in den BUNDLE |
+| **P3-06** | Verwendung der abhängigen Ressourcen in den BUNDLE |
 
 In den BUNDLE -Dateien müssen alle abhängigen Ressourcen der hier definierten Ressourcen aufgenommen  werden.
 
@@ -528,9 +528,9 @@ Festlegung für die Schnittstelle.
 
 - jeweiligen identischen Ressource pro BUNDLE aufgenommen und referenziert.
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P3-07 | Patientenbezug in den KBV -Profilen |
+| **P3-07** | Patientenbezug in den KBV -Profilen |
 
 Einige Ressourcen haben eine direkte Referenz zur Patienten-Ressource, obwohl der fachliche Bezug zum
 
@@ -542,9 +542,9 @@ in den KBV -Profilen definierten Referenzen in den jeweiligen Instanzen vorhande
 
 Herstellen der FHIR-Spezifikationskonformität (selfcontained information)
 
-| KONDITIONALE PFLICHTFUNKTION AW -SST |  |
+| **KONDITIONALE PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| KP3-08 | Eigene Instanz bei Änderung in Informationsobjekten |
+| **KP3-08** | Eigene Instanz bei Änderung in Informationsobjekten |
 
 Für die Übertragung der Änderungen an Informationsobjekten zu unterschiedlichen Zeitpunkten muss jede  Änderung in einer separaten Instanz des jeweils zugeordneten KBV -Profils erfolgen. Eine
 
@@ -579,17 +579,17 @@ auf den Patienten mit der Ressourcen-ID=1 und der meta.versionID=2 verwiesen wer
 
 ---
 
-| KONDITIONALE PFLICHTFUNKTION AW -SST |  |
+| **KONDITIONALE PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| KP3-09 | Definition der Versionsnummer (meta.versionId) |
+| **KP3-09** | Definition der Versionsnummer (meta.versionId) |
 
-| Beispiel  Definition des Patienten in  <StructureDefiniti on xmlns="http://hl7.org/fhir"> <url value="https://fhir.kbv.de/StructureD  <version value="1.2.0" />  ...  </StructureDefinition> |
-|---|
-| KONDITIONALE PFLICHTFUNKTION AW -SST    KP3-09  Definition der Versionsnummer (meta.versionId) Ist das System mit einer Möglichkeit zur historisierten Speicherung von Informationen ausgestattet, so sind |
+\| **Beispiel ** Definition des Patienten in  <StructureDefiniti on xmlns="http://hl7.org/fhir"> <url value="https://fhir.kbv.de/StructureD  <version value="1.2.0" />  ...  </StructureDefinition> |
+\|---|
+\| **KONDITIONALE PFLICHTFUNKTION AW -SST **  **KP3-09 ** Definition der Versionsnummer (meta.versionId) Ist das System mit einer Möglichkeit zur historisierten Speicherung von Informationen ausgestattet, so sind |
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P3-10 | Schnittstellenversion im Element meta.profile |
+| **P3-10** | Schnittstellenversion im Element meta.profile |
 
 / Version: 1.2.1
 
@@ -597,13 +597,13 @@ diese Strukturen mit einer Historie -Version auch in dieser SST abzubilden. Zum 
 
 ---
 
-| PFLICHTFUNKTION AW -SST |
-|---|
-| Instanzen des Patienten  <Patient xmlns="http://hl7.org/fhir">  <meta>  <profile value="https://fhir.kbv.de/StructureDefin "   </meta>  …  </Patient> |
+\| **PFLICHTFUNKTION AW -SST** |
+\|---|
+\| Instanzen des Patienten  <Patient xmlns="http://hl7.org/fhir">  <meta>  <profile value="https://fhir.kbv.de/StructureDefin "   </meta>  …  </Patient> |
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P3-20 | Defaultwerte |
+| **P3-20** | Defaultwerte |
 
 Für die Umsetzung von Pflichtelemente für die keine Werte vorhanden sind, können Defaultwerte  verwendet werden.
 
@@ -635,18 +635,18 @@ Erstellung valider Ressourcen mit KBV-Profilen.
 
 / Version: 1.2.1
 
-P3-11 Belegung der Elemente text.status Die Belegung der Elemente text.status soll mit dem Wert „extensions“ erfolgen. Begründung: Klarstellung zur de rzeit noch uneinheitlichen Definition in den KBV -Profilen. Akzeptanzkriterium: 1. Das E lement text.status muss in allen Instanzen der KBV -Profile mit dem Wert „extensions“ gefüllt werden. 2.4 DEFAULTWERTE in den KBV -Profilen ition/KBV_PR_AW_Patient|1.2.0| PFLICHTFUNKTION AW -SST |  |
+P3-11 Belegung der Elemente text.status Die Belegung der Elemente text.status soll mit dem Wert „extensions“ erfolgen. Begründung: Klarstellung zur de rzeit noch uneinheitlichen Definition in den KBV -Profilen. Akzeptanzkriterium: 1. Das E lement text.status muss in allen Instanzen der KBV -Profile mit dem Wert „extensions“ gefüllt werden. 2.4 DEFAULTWERTE ition/KBV_PR_AW_Patient|1.2.0 in den KBV -Profilen | **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P3-11 | Belegung der Elemente text.status |
+| **P3-11** | Belegung der Elemente text.status |
 
 
 ---
 
 **2.5** **DATENBEREICHE DER SCHNITTSTELLE**
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P4-00 | Vollständig |
+| **P4-00** | Vollständig |
 
 Das System muss es ermöglichen, alle im System vorhanden Daten vollständig zu exportieren. Der  Anwender muss dabei die Möglichkeit haben den Export einzugrenzen.
 
@@ -664,9 +664,9 @@ Festlegung für die Schnittstelle.
 
 - definierten Parametern einzugrenzen .
 
-| KONDITIONALE PFLICHTFUNKTION AW -SST |  |
+| **KONDITIONALE PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| KP4-01 | Termin |
+| **KP4-01** | Termin |
 
 Das System muss alle gespeicherten Termine, mit den entsprechenden Beziehungen zu anderen  Informationen exportieren können.
 
@@ -707,9 +707,9 @@ Festlegung für die Schnittstelle.
 
 ---
 
-| KONDITIONALE PFLICHTFUNKTION AW -SST |  |
+| **KONDITIONALE PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| KP4-02 | Adressbuch |
+| **KP4-02** | Adressbuch |
 
 Das System muss alle gespeicherten Adressen mit den entsprechenden Beziehungen zu anderen  Informationen exportieren können.
 
@@ -727,9 +727,9 @@ Festlegung für die Schnittstelle.
 
 - 1. Im System sind Adressen für den Export vorhanden und der gewählte Datenbereich schließt die  Adressen ein.
 
-| KONDITIONALE PFLICHTFUNKTION AW -SST |  |
+| **KONDITIONALE PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| KP4-03 | Behandlungsbaustein |
+| **KP4-03** | Behandlungsbaustein |
 
 Das System muss alle gespeicherten Behandlungsbausteine mit den entsprechenden Beziehungen zu  anderen Informationen exportieren können.
 
@@ -764,9 +764,9 @@ Festlegung für die Schnittstelle.
 
 ---
 
-| KOND ITIONALE |  |
+| **KOND ITIONALE** |  |
 |---|---|
-| KP4-04 | Patientenakte mit/ohne Termin |
+| **KP4-04** | Patientenakte mit/ohne Termin |
 
 Das System muss alle gespeicherten Patientenakten mit den entsprechenden Beziehungen zu anderen  Informationen exportieren können. Der Sprechstundenbedarf ist, sofern vorhanden, zu expo rtieren.
 
@@ -827,9 +827,9 @@ PFLICHTFUNKTION AW -SST
 
 **2.6** **VERZEICHNISSTRUKTUR**
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P5-00 | Verzeichnisstruktur |
+| **P5-00** | Verzeichnisstruktur |
 
 ## UND DATEINAMEN
 
@@ -855,9 +855,9 @@ Hiermit wird ein besseres Auffinden der exportierten Dateien ermöglicht.
 
 - 3. Der Speicherort auf dem die Verzeichnisstruktur angelegt wird, muss von Anwender frei wählbar sein.
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P5-01 | Verzeichnisstr uktur - Root-Element |
+| **P5-01** | Verzeichnisstr uktur - Root-Element |
 
 Die Benennung des Root -Elementes der Verzeichnisstruktur muss das vorgegebene Format einhalten.
 
@@ -886,9 +886,9 @@ Bedeutung der einzelnen Parameter:
 
 ---
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P5-02 | Verzeichnisstruktur und Inhalt |
+| **P5-02** | Verzeichnisstruktur und Inhalt |
 
 Der Ordner _System muss in der Hierarchie direkt unter dem Root angelegt werden. Im Ordner _System sollen zusätzliche FHIR -Code- und Namingsysteme sowie die Report Dateien abgelegt werden.
 
@@ -920,9 +920,9 @@ Hiermit wird ein besseres Auffinden der Dateien ermöglicht.
 
 ---
 
-| KONDITIONALE |  |
+| **KONDITIONALE** |  |
 |---|---|
-| KP | Verzeichnisstruktur und Inhalt |
+| **KP** | Verzeichnisstruktur und Inhalt |
 
 Der Ordner Adresse muss in der H ierarchie direkt unter dem Root -Element der Verzeichnisstruktur angelegt
 
@@ -967,9 +967,9 @@ PFLICHTFUNKTION AW-SST 5-03 - Ordner Adressen
 
 ---
 
-| KONDITIONALE |  |
+| **KONDITIONALE** |  |
 |---|---|
-| KP5-04 | Verzeichnisstruktur und Inhalt |
+| **KP5-04** | Verzeichnisstruktur und Inhalt |
 
 Der Ordner Behandlungsbaustein muss in der Hierarchie direkt unter dem Root -Element der
 
@@ -1016,9 +1016,9 @@ PFLICHTFUNKTION AW-SST - Ordner Behandlungsbausteine
 
 ---
 
-| KONDITIONALE |  |
+| **KONDITIONALE** |  |
 |---|---|
-| KP5-05 | Verzeichnisstruktur und Inhalt |
+| **KP5-05** | Verzeichnisstruktur und Inhalt |
 
 Der Ordner Patientenakten muss in der Hierarchie direkt unter dem Root -Element der Verzeichnisstruktur
 
@@ -1071,9 +1071,9 @@ PFLICHTFUNKTION AW-SST - Ordner Patientenakten
 
 - 2. Es wird mindestens eine BUNDLE -Datei mit Daten nach KP4-04 erzeugt.
 
-| KONDITIONALE |  |
+| **KONDITIONALE** |  |
 |---|---|
-| KP5-06 | Verzeichnisstruktur und Inhalt |
+| **KP5-06** | Verzeichnisstruktur und Inhalt |
 
 Der Ordner Sprechstundenbedarf muss in der Hierarchie direkt unter dem Root -Element der
 
@@ -1120,9 +1120,9 @@ PFLICHTFUNKTION AW-SST - Ordner Sprechstundenbedarf
 
 ---
 
-| KONDITIONALE |  |
+| **KONDITIONALE** |  |
 |---|---|
-| KP5-07 | Verzeichnisstruktur und Inhalt |
+| **KP5-07** | Verzeichnisstruktur und Inhalt |
 
 Der Ordner Termine muss in der Hierarchie direkt unter dem Root angelegt werden. Im Ordner Termine soll genau eine BUNDLE -Datei mit allen exportierten Terminen  erzeugt werden.
 
@@ -1178,9 +1178,9 @@ PFLICHTFUNKTION AW-SST - Ordner Termine
 
 **2.6.1** **Anlagen**
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P5-50 | Referenz auf Anlagen |
+| **P5-50** | Referenz auf Anlagen |
 
 Die in der Ressourcen KBV_PR_AW_Anlage angegebene Referenz  referenzieren.
 
@@ -1204,9 +1204,9 @@ Festlegung für die Schnittstelle
 
 - 3. Die Url ist bei den Anlagen, die nicht in der Hoheit des Systems liegen [P5 Pfad auszudrücken.
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P5-51 | Dateiname der Anlagen |
+| **P5-51** | Dateiname der Anlagen |
 
 Es werden keine spezifischen Dateinamen für die transportierten physischen
 
@@ -1233,9 +1233,9 @@ Anlagen vorgegeben.
 
 ---
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P5-52 | Anlagen des Systems |
+| **P5-52** | Anlagen des Systems |
 
 Die Anlagen, die in der Hoheit des Systems liegen, müssen exportiert werden.
 
@@ -1282,9 +1282,9 @@ einer Abfrage mitzuteilen.
 
 ---
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P5-53 | Anlagen außerhalb des Systems |
+| **P5-53** | Anlagen außerhalb des Systems |
 
 Die Anlagen, die nicht in der Hoheit des Systems liegen, müssen nicht exportiert werden. Das System kann  dem Anwender nach ausdrücklicher Bestätigung die Mitnahme externer Anlagen ermöglichen.
 
@@ -1302,9 +1302,9 @@ Die Mitnahme der Anlagen erhöht bspw. bei der Archivierung die Konsistenz des D
 
 -
 
-| KONDITIONALE PFLICHTFUNKTION AW -SST |  |
+| **KONDITIONALE PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| KP5-54 | Anlagen der Abrechnung |
+| **KP5-54** | Anlagen der Abrechnung |
 
 Die Speicherung aller Anlagen für die Abrechnung erfolgt gebündelt, in einem hierfür definierten fachlichen  Ordner.
 
@@ -1355,9 +1355,9 @@ referenzieren, in Unterordnern mit der Bezeichnung  gespeichert werden.
 
 ---
 
-| KONDITIONALE PFLICHTFUNKTION AW -SST |  |
+| **KONDITIONALE PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| KP5-55 | Anlagen der Begegnung |
+| **KP5-55** | Anlagen der Begegnung |
 
 Die Speicherung aller Anlagen für die Begegnung erfolgt gebündelt in einem hierfür definierten fachlichen  Ordner.
 
@@ -1388,9 +1388,9 @@ Hiermit wird ein besseres Auffinden der exportierten Dateien ermöglicht.
 
 ---
 
-| KONDITIONALE PFLICHTFUNKTION AW -SST |  |
+| **KONDITIONALE PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| KP5-56 | Anlagen Behandlungsbaustein |
+| **KP5-56** | Anlagen Behandlungsbaustein |
 
 Die Speicherung aller Anlagen für die Behandlungsbausteine erfolgt gebündelt, in einem hierfür definierten  fachlichen Ordner.
 
@@ -1419,9 +1419,9 @@ Hiermit wird ein besseres Auffinden der exportierten Dateien ermöglicht.
 
 ---
 
-| KONDITIONALE PFLICHTFUNKTION AW -SST |  |
+| **KONDITIONALE PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| KP5-57 | Anlagen an der Betriebsstätte |
+| **KP5-57** | Anlagen an der Betriebsstätte |
 
 Die Speicherung aller Anlagen für die Betriebsstätte erfolgt gebündelt, in einem hierfür definierten  fachlichen Ordner.
 
@@ -1447,9 +1447,9 @@ Hiermit wird ein besseres Auffinden der expor tierten Dateien ermöglicht.
 
 - 1. Im System sind Anlagen der Betriebsstätte
 
-| KONDITIONALE |  |
+| **KONDITIONALE** |  |
 |---|---|
-| KP5-58 | Anlagen am Patient |
+| **KP5-58** | Anlagen am Patient |
 
 Die Speicherung aller Anlagen für die Patienten erfolgt gebündelt, in einem hierfür definierten fachlichen  Ordner.
 
@@ -1490,9 +1490,9 @@ PFLICHTFUNKTION AW -SST
 
 - 1. Im System sind Anlagen der Patienten für den Export vorhanden.
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P5-59 | Bezeichnung Verzeichnis - und Dateinamen |
+| **P5-59** | Bezeichnung Verzeichnis - und Dateinamen |
 
 Die Bezeichnungen (Schreibweise und Zeichensatz) von Verzeichnis - und Dateinamen ist  plattformunabhängig.
 
@@ -1541,9 +1541,9 @@ Plattformunabhängige Festlegung.
 
 **2.7** **EXPORT DER DATEN**
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P6-00 | Exportfunktion |
+| **P6-00** | Exportfunktion |
 
 Alle Systeme müssen den Export für den Wechsel und/oder die Archivierung u alle vorhandenen Inhalte, die in seiner Hoheit liegen, inklusive  verwendeter System-Module (z. B. eDMP) exportieren.
 
@@ -1563,9 +1563,9 @@ die Information in einer Anlage mit Hilfe des Profils KBV_PR_AW_Anlage (im PDF -
 
 Ressource sein. Bei der Implementierung weiterer optionaler Ressourcen, g ausnahmslos.
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P6-01 | Strukturierte Daten |
+| **P6-01** | Strukturierte Daten |
 
 Grundsätzlich soll di e Übernahme der Daten des exportierenden Systems in die strukturierten Elemente der  KBV-Profile erfolgen. Als strukturierte Elemente werden hier ausdrücklich nicht die Freitext verstanden.
 
@@ -1592,9 +1592,9 @@ muss -Elemente (text)
 
 ---
 
-| KONDITIONALE |  |
+| **KONDITIONALE** |  |
 |---|---|
-| P6-02 | Unstrukturierte Daten |
+| **P6-02** | Unstrukturierte Daten |
 
 Alle Informationen des exportierenden Systems, die nicht in den strukturierten Elementen der spezifischen  KBV-Profile abgebildet werden können, sind in den Freitextfeldern von profilierten Ressourcen oder in  einer Anlage (PDF) zu exportieren.
 
@@ -1616,9 +1616,9 @@ Festlegung für die Schnittstelle.
 
 - 2 sind alle eventuell vorhandenen Beziehungen zu erhalten, sofern sich diese in den KBV -Profilen - abbilden lassen.
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P6-03 | Labordatenkommunikation |
+| **P6-03** | Labordatenkommunikation |
 
 Für die Labordatenkommunikation wurden in der SST keine spezifischen FHIR -Ressourcen zur Verfügung
 
@@ -1655,9 +1655,9 @@ PFLICH TFUNKTION  AW-SST
 
 ---
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P6-04 | Medizinische Dokumentation |
+| **P6-04** | Medizinische Dokumentation |
 
 Für die Abbildung der Schnittstellen der Medizinischen Dokumentationen wurden in dieser SST keine  spezifischen FHIR -Ressourcen zur Verfügung gestellt. Vielmehr sollen diese in den Schnittstellen der  jeweiligen Medizinischen Dokumentationen übertragen werden.
 
@@ -1706,9 +1706,9 @@ KBV_PR_AW_Anlage das Profil KBV_PR_AW_ Betriebsst aette zu referenzieren.
 
 ---
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P6-05 | KBV-Muster |
+| **P6-05** | KBV-Muster |
 
 Für die Abbildung von häufig verwendete n KBV-Mustern wurden in der AW -SST spezifische KBV -Profile zur  Verfügung gestellt. Diese Profile bilden inhaltlich nicht die Muster 1:1 ab. Es wurden die grundlegenden
 
@@ -1779,9 +1779,9 @@ Festlegung für die Schnittstelle.
 
 ---
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P6-06 | Auswahl der Datenbereiche |
+| **P6-06** | Auswahl der Datenbereiche |
 
 Dem Anwender muss eine Auswahlmöglichkeit für die defin ierten Datenbereiche (siehe Kapitel
 
@@ -1807,9 +1807,9 @@ Festlegung für die Schnittstelle
 
 - 4. Entsprechend der Auswahl ist der Datenbestand inklusive der Anlagen (siehe Kapitel 2.5.1) zu - exportieren.
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P6-07 | Markierung Abrechnungsstatus |
+| **P6-07** | Markierung Abrechnungsstatus |
 
 Die FHIR -Ressourcen der Abrechnung müssen vor dem Export mit einem Status „vorbereitet“ oder  „abgerechnet“ markiert werden.
 
@@ -1829,8 +1829,8 @@ Es sollen im Zielsystem alle für eine noch nicht erfolgte Abrechnung relevanten
 
 - KBV_PR_AW_Abrechnung_Vertragsaerztlich
 
-| Beispiel (für Status abgerechnet):  …  <status value="active"/>  … |
-|---|
+\| **Beispiel (für Status abgerechnet): ** … *<status value="active"/> * … |
+\|---|
 
 **HINWEIS**
 
@@ -1843,9 +1843,9 @@ Die Markierung ob eine GOP abrechnungsfähig ist, erfolgt im KBV KBV_PR_AW_Abrec
 
 ---
 
-| PFLICHT FUNKTION AW-SST |  |
+| **PFLICHT FUNKTION AW-SST** |  |
 |---|---|
-| P6-08 | Einschränkung der KBV -Profile für die Abrechnung |
+| **P6-08** | Einschränkung der KBV -Profile für die Abrechnung |
 
 Technisch referenzieren die vier KBV-Profile der Abrechnung, das KBV -Profil
 
@@ -1886,9 +1886,9 @@ auftreten und dieselbe Instanz des KBV -Profils KBV_PR_AW_Abrechnung_vorlaeufig 
 
 ---
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P6-09 | Priorisierung der Verwendung von Freitext und/oder strukturierten Informationen |
+| **P6-09** | Priorisierung der Verwendung von Freitext und/oder strukturierten Informationen |
 
 In einigen KBV -Profilen gibt es sowohl die Möglichkeit die vorliegenden Informationen durch Erstellen und  Referenzieren von separaten Ressourcen als auch durch Füllen von Freitextfeldern innerhalb einer
 
@@ -1959,9 +1959,9 @@ Verwendung von Einzelinformationen vorzuziehen.
 
 ---
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P6-10 | Beziehungen des KBV -Profils KBV_PR_AW_Anlage |
+| **P6-10** | Beziehungen des KBV -Profils KBV_PR_AW_Anlage |
 
 Im KBV -Profil KBV_PR_AW_Anlage werden die physischen Anlagen (intern und extern) referenziert sowie  deren Beziehungen zu den zugeordneten Resso
 
@@ -1993,9 +1993,9 @@ Ausnahme hiervon sind die Beziehungen zu den KBV KBV_PR_AW_Patientenverfuegung s
 
 - z. B. auf einen Befund typisiert werden.
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P6-11 | Anlagetypen im KBV -Profil KBV_PR_AW_Anlage |
+| **P6-11** | Anlagetypen im KBV -Profil KBV_PR_AW_Anlage |
 
 Die Anlagen müssen einer bestimmten Schnittstelle inklusive
 
@@ -2036,9 +2036,9 @@ Referenz auf die
 
 ---
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P6-12 | Reportdatei |
+| **P6-12** | Reportdatei |
 
 Nach dem erfolgreichen Export muss ein PDF -Dokument als menschenlesbarer Report für den Anwender
 
@@ -2081,9 +2081,9 @@ Bedeutung:
 
 ---
 
-| KONDITIONALE PFLICHTFUNKTION AW -SST |  |
+| **KONDITIONALE PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P6-13 | Darstellen der exportierten Informationen in PDFs auf BUNDLE |
+| **P6-13** | Darstellen der exportierten Informationen in PDFs auf BUNDLE |
 
 Nach dem erfolgreichen Export muss für jede BUNDLE -Datei, jeweils ein PDF -Dokument mit den Inhalten
 
@@ -2123,9 +2123,9 @@ Das PDF enthält menschenlesbare Informationen zum BUNDLE und kann einfach mit e
 
 - 9. Die Erstellung der PDFs i n 1., zum Zwecke der Archivierung , muss immer erfolgen.
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P6-14 | Bereinigen nach Fehlerzustand |
+| **P6-14** | Bereinigen nach Fehlerzustand |
 
 Bei einem fehlerhaften Export sind alle Artefakte von unvollständigen/fehlerhaften Dateien bzw.  Verzeichnissen zu löschen .
 
@@ -2163,9 +2163,9 @@ ggf. zu einem späteren - sse zu löschen.
 
 ---
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P6-15 | Bedienbarkeit Export |
+| **P6-15** | Bedienbarkeit Export |
 
 Der Anwender muss den Export selbständig , ohne weitere Hilfestellung durch den Systemhersteller  durchführen können.
 
@@ -2183,9 +2183,9 @@ Der Anwender muss den Export - wenn er es wünscht - eigenständig durchführen 
 
 -
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P6-16 | Sicherheit der exportierten Daten |
+| **P6-16** | Sicherheit der exportierten Daten |
 
 Es wird keine Signatur und/od er Verschlüsselung der exportierten Daten gefordert. Ein minimaler Schutz  kann über ein zip -File angeboten werden. Die vorhandenen Datenschutzmaßnahmen der Praxis sollen die
 
@@ -2215,9 +2215,9 @@ Bedeutung:
 
 - Schnittstelle: AW = Fester Wert (Archiv- und Wechselschnittstelle)
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P6-17 | Ressourcen ohne fachlichen Inhalt |
+| **P6-17** | Ressourcen ohne fachlichen Inhalt |
 
 Leere Ressourcen ohne fachlichen Inhalt dürfen nicht exportiert werden
 
@@ -2236,9 +2236,9 @@ Leere Ressourcen können beim Import zu Fehlinterpretationen führen
 
 ---
 
-| KONDITIONALE |  |
+| **KONDITIONALE** |  |
 |---|---|
-| KP6-18 | Übertragung zusätzlicher Tarife/Scheinuntergruppen im KBV |
+| **KP6-18** | Übertragung zusätzlicher Tarife/Scheinuntergruppen im KBV |
 
 Im KBV -Profil KBV_PR_AW_Abrechnung_Privat erfolgt die Zuordnung zu einem bekannten Abrechnungstyp
 
@@ -2258,9 +2258,9 @@ Scheinuntergruppen .
 
 - 3. Das unter 2. angegebene CodeSystem ist nach [P5 -02] (Akzeptanzkriterium 2) bereitzustellen.
 
-| PFLICHTFUNKTION AW -SST |  |  |
+| **PFLICHTFUNKTION AW -SST** |  |  |
 |---|---|---|
-| P6-19 | Nutzung der Ressource Provenienz |  |
+| **P6-19** | Nutzung der Ressource Provenienz |  |
 
 Im Element target der Ressource KBV_PR_AW_Provenienz sind nur Profile, die in dieser SST definiert  worden sind, erlaubt.
 
@@ -2288,9 +2288,9 @@ PFLICHTFUNKTION AW-SST KBV_PR_AW_Abrechnung_Privat -Profil
 
 ---
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P6-20 | Auswahl der Schnittstellenversion für den Export |
+| **P6-20** | Auswahl der Schnittstellenversion für den Export |
 
 Der Nutzer muss die Schnittstellenversion für den Export auswählen können. Dazu sind dem Nutzer alle
 
@@ -2316,9 +2316,9 @@ Importsystem selb stständig herstellen können.
 
 Die Abwärtskompatibilität bei der reinen Archivieru ng ist über den menschenlesbaren Teil (PDF)  gewährleistet.
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P6-21 | Multiplikator einer GOP |
+| **P6-21** | Multiplikator einer GOP |
 
 Abbilden des Multiplikators einer GOP
 
@@ -2343,9 +2343,9 @@ Festlegung für die Schnittstelle.
 
 ---
 
-| KONDITIONALE |  |
+| **KONDITIONALE** |  |
 |---|---|
-| KP6-22 | Abbilden von GOPn aus sonstigen Codesystemen |
+| **KP6-22** | Abbilden von GOPn aus sonstigen Codesystemen |
 
 GOPn (Rechnungspositionen) aus in dieser SST nicht spezifizierten Gebührenordnungen können im KBV- Profil KBV_PR_AW_Abrechnung_Vorlaeufig unter Angabe eines eigenen Codesystems übertragen werden
 
@@ -2363,9 +2363,9 @@ Flexiblen Möglichkeit zum Übertragen von GOPn aus sonstigen Codesystemen
 
 - 3. Das unter Punkt 1 angegebene Code system ist nach [P5 -02] (Akzeptanzkriterium 2) bereitzustellen.
 
-| KONDITIONALE |  |
+| **KONDITIONALE** |  |
 |---|---|
-| KP6-23 | Abbilden von Teilaufträgen |
+| **KP6-23** | Abbilden von Teilaufträgen |
 
 Soll ein Auftrag z.B. mit einem Muster 6 oder 10 von unterschiedlichen Behandelnden bearbeitet und  abgerechnet werden, muss der Auftrag in Teilaufträge getrennt und mit jeweils separaten Begegnungen
 
@@ -2385,9 +2385,9 @@ Möglichkeit zum Übertragen von Teilaufträgen .
 
 - 3.  Die Verknüpfung unter Punkt 1 von Begegnungen darf nur für den gleichen Auftrag erfolgen.
 
-| OPTIONALE FUNKT ION AW -SST |  |
+| **OPTIONALE FUNKT ION AW -SST** |  |
 |---|---|
-| O6-24 | Erzeugen einer Dummy -Begegnung |
+| **O6-24** | Erzeugen einer Dummy -Begegnung |
 
 Bei Informationen die absolut keiner Begegnung zuzuordnen sind, kann eine Dummy -Begegnung erzeugt
 
@@ -2416,9 +2416,9 @@ PFLICHTFUNKTION AW-SST PFLICHTFU NKTION AW-SST
 
 **2.8** **IMPORT DER DATEN**
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P7-00 | Importfunktion |
+| **P7-00** | Importfunktion |
 
 Das System muss die Importfunktion für den Wechsel und die Archivierung unterstützen und grundsätzlich  alle in der Schnittstelle exportierten Daten entsprechend der Funkt übernehmen.
 
@@ -2451,9 +2451,9 @@ ehe
 
 ---
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P7-01 | Import der Daten |
+| **P7-01** | Import der Daten |
 
 Grundsätzlich soll die Übernahme der Daten , aus den Elementen der KBV -Profile in die entsprechenden
 
@@ -2514,9 +2514,9 @@ Für die Abbildung der Provenienz -Ressourcen gilt die Anforderung KP7 -09.
 
 ---
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P7-02 | Reihenfolge des Imports bei Ressourcen mit gleicher ID |
+| **P7-02** | Reihenfolge des Imports bei Ressourcen mit gleicher ID |
 
 Die Historie/Reihenfolge der Ressourcen mit gleicher ID muss
 
@@ -2530,9 +2530,9 @@ Die Historie/Reihenfolge, die durch die meta.versionId festgelegt ist, muss auch
 
 u. s. w.
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P7-03 | Bedienbarkeit Import |
+| **P7-03** | Bedienbarkeit Import |
 
 Der Anwender muss den Import selbständig, ohne weitere Hilfestellung durch den Systemhersteller in ein  Zielsystem ohne vorhandene Patienteninformationen durchführen können.
 
@@ -2573,9 +2573,9 @@ n der Lage sein,
 
 ---
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P7-04 | Reportdatei |
+| **P7-04** | Reportdatei |
 
 Nach dem erfolgreichen Import muss eine Instanz des Profils KBV_PR_AW_Report_Import und ein PDF- Dokument als menschenlesbarer Report erzeugt und in einem vom Anwender auswählbaren Ordner  abgelegt werden.
 
@@ -2616,9 +2616,9 @@ Bedeutung:
 
 ---
 
-| KONDITIONALE PFLICHTFUNKTION AW -SST |  |
+| **KONDITIONALE PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| KP7-05 | Spezifische Inhalte |
+| **KP7-05** | Spezifische Inhalte |
 
 Können nicht alle Information en vollständig oder struktu riert beim Import übernommen werden, so sind  die jeweiligen Ressourcen, Gründe und Anpassungen in der Instanz vom KBV -Profil  KBV_PR_AW_Report_Import mit einer separate Kategorie zu schreiben und dem Anwender zur Verfügung
 
@@ -2656,9 +2656,9 @@ Hinweis: Die Zahlen ([0] bis [3]) der Unterpunkte b) bis e) geben die Reihenfolg
 
 der Instanz vor .
 
-| OPTIONALE FUNKTION A W-SST |  |
+| **OPTIONALE FUNKTION A W-SST** |  |
 |---|---|
-| O7-06 | Import eines Bundles mittels FHIR -Server |
+| **O7-06** | Import eines Bundles mittels FHIR -Server |
 
 Der Import der KBV-Bundles auf einen FHIR -Server wird nicht durch vorhandene Importroutinen der FHIR -
 
@@ -2693,9 +2693,9 @@ der Reportdatei
 
 ---
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P7-07 | Anzeige eines Hinweis zur Archivierung des |
+| **P7-07** | Anzeige eines Hinweis zur Archivierung des |
 
 Das System soll dem Nutzer nach erfolgreichem Import einen Hinweis mit einer Empfehlung z ur
 
@@ -2717,9 +2717,9 @@ importierenden Systems. Da hier die Aufbewahrungsfristen der Nutzer bspw. zur  B
 
 - 2. Für die Ablage des Export -Archivs aus 1. gibt es keine Vorgaben , der Ablageort muss frei wählbar sein.
 
-| PFLICHTFUNKTION AW -SST |  |
+| **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| P7-08 | Prüfung der Schnittstellenversion |
+| **P7-08** | Prüfung der Schnittstellenversion |
 
 Der Import muss mit der glei chen Schnittstellenversion des Exports durchgeführt werden. Dazu ist die  Version im Element meta.profil e der Instanzen der FHIR® -Ressourcen zu prüfen.
 
@@ -2746,9 +2746,9 @@ Exportverzeich nis
 
 ---
 
-| KO |  |
+| **KO** |  |
 |---|---|
-| KP7-09 | Provenienzen (Änderungsinformation ) als Anlagen |
+| **KP7-09** | Provenienzen (Änderungsinformation ) als Anlagen |
 
 Sofern das System nicht über die notwendige Funktionalität verfügt die Änderungsinformation strukturiert  zu speichern, sind die Inhalte aller Ressourcen oder mindes tens aller behandlungsrelevanten Ressourcen
 
@@ -2795,7 +2795,7 @@ NDITIONALE PFLICHTFUNKTION AW -SST
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 | FHIR® | FHIR ®-Spezifikation:  http://hl7.org/fhir/R4/ |
 | Deutschen Basis -Profilen | https://simplifier.net/BasisprofilDE/ |
 | KBV-Basisprofile | https://simplifier.net/Base1x0 |

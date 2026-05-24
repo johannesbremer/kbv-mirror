@@ -1,9 +1,9 @@
-|  | IT in der Arztpraxis  Plausibilitätenkatalog Haut- [KBV_ITA_VGEX_Plausi |
+|  | ***IT in der Arztpraxis ****Plausibilitätenkatalog Haut- [KBV_ITA_VGEX_Plausi* |
 |---|---|
 |  | Dezernat Digitalisierung und IT |
 |  |  |
 |  | 10623 Berlin, Herbert-Lewin-Platz 2 |
-|  |  |
+|  | ** |
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 |  |  |
@@ -15,11 +15,11 @@ krebs-Screening (eHKS) _eHKS] 1.04 Datum: 29.01.2019 Kennzeichnung: Öffentlich 
 
 **D** **O** **K** **U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O**  **R** **I** **E**
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 1.04 | 29.01.2019 KBV |  | Korrektur |  | 8  9 |
-| 1.03 | 26.06.2018 KBV |  | Aufnahme von neuen Feldern | Beschluss GBA | alle |
-| 1.02 | 02.08.2012 KBV |  | Red. Änderungen | entfällt | alle |
+| 1.04 | 29.01.2019 KBV |  | Korrektur |  | **8  9** |
+| 1.03 | 26.06.2018 KBV |  | Aufnahme von neuen Feldern | Beschluss GBA | **alle** |
+| 1.02 | 02.08.2012 KBV |  | Red. Änderungen | entfällt | **alle** |
 
 
 ---
@@ -98,9 +98,9 @@ Hautkrebs-
 
 **Durch den Nicht-Dermatologen auszufüllen** Internisten und Fachärzte für Allgemeinmedizin):
 
-| Feld-Nr. | Dokumentationsparameter | Ausprägung | Plausibilitätenregel |
+| Feld-Nr. | *Dokumentationsparameter* | *Ausprägung* | *Plausibilitätenregel* |
 |---|---|---|---|
-| 1.1 | Verdachtsdiagnose (Mehrfachangaben möglich) | | |
+| **1.1 ** | **Verdachtsdiagnose (Mehrfachangaben möglich)** | | |
 | 1.1.1 | Verdachtsdiagnose ND | Ja/Nein | Pflichtfeld,  nur eine Angabe ist möglich. |
 | 1.1.2 | Malignes Melanom | Ja/Nein | Bedingtes Pflichtfeld,   Bei Angabe „Ja“ in 1.1 nur eine Angabe ist möglich. |
 | 1.1.3 | Basalzellkarzinom | Ja/Nein | Bedingtes Pflichtfeld,   Bei Angabe „Ja“ in 1.1 nur eine Angabe ist möglich. |
@@ -118,7 +118,7 @@ abklärungsbedürftiger Befund /Datenformat .1, muss hier eine Angabe erfolgen. 
 |  |  |  | eine Angabe erfolgen.,  nur eine Angabe ist möglich. |
 |---|---|---|---|
 | 1.1.7 | Screening-Teilnehmer wird an einen Dermatologen | Ja/Nein | Pflichtfeld,  nur eine Angabe ist möglich. |
-| 1.2. | Gesundheitsuntersuchung | | |
+| **1.2.** | **Gesundheitsuntersuchung** | | |
 | 1.2.1 | Gleichzeitig Gesundheitsuntersuchung | Ja/Nein | Pflichtfeld,   nur eine Angabe ist möglich. |
 
 ## 3.2 Dermatologen
@@ -127,12 +127,12 @@ abklärungsbedürftiger Befund /Datenformat .1, muss hier eine Angabe erfolgen. 
 
 Alle Felder sind Pflichtfelder, falls nichts anderes angegeben ist.
 
-|  | Dokumentationsparameter | Ausprägung | Plausibilitätenregel |
+|  | *Dokumentationsparameter* | *Ausprägung* | *Plausibilitätenregel* |
 |---|---|---|---|
-| 2.1. | Überweisung im Rahmen des Hautkrebs-Screenings | | |
+| **2.1.** | **Überweisung im Rahmen des Hautkrebs-Screenings** | | |
 | 2.1.1 | Patient kommt auf Überweisung im Rahmen | Ja/Nein | Pflichtfeld,  nur eine Angabe ist möglich. |
 | 2.1.2 | Überweisender Arzt hat HKS durchgeführt | Ja/Nein | Pflichtfeld,  nur eine Angabe ist möglich. |
-| 2.2. | Angabe der Verdachtsdiagnose des überweisenden Arztes (Mehrfachangaben möglich) | | |
+| **2.2.** | **Angabe der Verdachtsdiagnose des überweisenden Arztes** **(Mehrfachangaben möglich)** | | |
 | 2.2.1 | Angabe über die Verdachtsdiagnose liegt vor | Ja/Nein | Bedingtes Pflichtfeld    Bei Angabe    Nur eine Angabe ist möglich. |
 | 2.2.2 | Malignes Melanom | Ja/Nein | Bedingtes Pflichtfeld    Bei Angabe „   Nur eine Angabe ist möglich. |
 
@@ -144,7 +144,7 @@ Alle Felder sind Pflichtfelder, falls nichts anderes angegeben ist.
 |---|---|---|---|
 | 2.2.4 | Spinozelluläres Karzinom | Ja/Nein | Bedingtes Pflichtfeld    Bei Angabe „   Nur eine Angabe ist möglich. |
 | 2.2.5 | anderer Hautkrebs | Ja/Nein | Bedingtes Pflichtfeld    Bei Angabe „   Nur eine Angabe ist möglich. |
-| 2.3. |  | | |
+| **2.3.** |  | | |
 | 2.3.1 | Verdachtsdiagnose | Ja/Nein | Pflichtfeld,  nur eine Angabe ist möglich. |
 | 2.3.2 | Malignes Melanom | Ja/Nein | Bedingtes Pflichtfeld,   Bei Angabe „Ja“ in 2.3   nur eine Angabe ist möglich. |
 | 2.3.3 | Basalzellkarzinom | Ja/Nein | Bedingtes Pflichtfeld,   Bei Angabe „Ja“ in 2.3   nur eine Angabe ist möglich. |
@@ -158,7 +158,7 @@ Verdachtsdiagnose des Dermatologen (Mehrfachangaben möglich) Ja“ in 2.2.1, mu
 |---|---|---|---|
 | 2.3.5 | anderer Hautkrebs | Ja/Nein | Bedingtes Pflichtfeld,  Bei Angabe „Ja“ in 2.3   nur eine Angabe ist möglich. |
 | 2.3.6 | sonstiger mit Biopsie abklärungsbedürftiger | Ja/Nein | Bedingtes Pflichtfeld,  Bei Angabe „Ja“ in 2.3 nur eine Angabe ist möglich. |
-| 2.4. | Biopsie/Exzision | | |
+| **2.4.** | **Biopsie/Exzision** | | |
 | 2.4.1 | Biopsie zu Verdachtsdiagnose gemäß 2.3 ent- | Ja/Nein | Pflichtfeld,  nur eine Angabe ist möglich.    Bei Angabe „   Bei Angabe „ |
 | 2.4.2 | Anzahl der entnommenen Biopsien | Anzahl | Bedingtes Pflichtfeld,  eine Angabe ist erforderlich wenn in    eine Angabe ist nicht zulässig wenn in    Wertebereich: 0-99 |
 | 2.4.3 | anderweitige Therapie oder Diagnostik vorge- | Ja/Nein | Bedingtes Pflichtfeld, |
@@ -170,7 +170,7 @@ Befund nommen oder Exzision durchgeführt nommen bzw. eingeleitet .1, muss hier 
 |  |  |  | wurde in Feld 2.4.4 „ |
 |---|---|---|---|
 | 2.4.4 | derzeit keine weitere Therapie/Diagnostik | Ja/Nein | Bedingtes Pflichtfeld,    wurde in Feld 2.4.3 „ |
-| 2.5. | Histopathologie (ist nur vorgesehen für die Verdachtsdiagnosen nach 2.3., Mehrfachangaben möglich) | | |
+| **2.5.** | **Histopathologie (ist nur vorgesehen für die Verdachtsdiagnosen nach 2.3., Mehrfachangaben möglich)** | | |
 | 2.5.1 | 1 | Ja/Nein | Bedingtes Pflichtfeld    Bei Angabe „   Nur eine Angabe ist möglich. |
 | 2.5.1.1 | 1 | o   o | Bedingtes Pflichtfeld    Bei Angabe „   Nur eine Angabe ist möglich. |
 | 2.5.1.2 | 1 | o o o o | Optionales Feld    Bei Angabe „   Nur eine Angabe ist möglich. |

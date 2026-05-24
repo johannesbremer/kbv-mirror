@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT  15. MAI 2024  VERSION: 2.6   DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT  15. MAI 2024  VERSION: 2.6   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # ANTRAG AUF ZERTIFIZIERUNG  LABORDATENKOMMUNIKATION
@@ -32,19 +32,19 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 |  |  | | |
 |---|---|---|---|
-| Name des Antragstellers  [bei juristischen Personen ist die |  | | |
-| Geschäftsbereich [falls |  | | |
-| Straße und Hausnummer |  | | |
-| PLZ, Ort |  | | |
-| Telefonnummer |  | | |
-| E-Mail-Adresse |  | | |
-| Webseite |  | | |
-| Der Antragsteller ist | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
-| Systempfleger  [nur anzugeben, wenn der |  | | |
-| Straße und Hausnummer |  | | |
-| PLZ, Ort |  | | |
-| Telefonnummer |  | | |
-| E-Mail-Adresse |  | | |
+| **Name des Antragstellers  [bei juristischen Personen ist die** |  | | |
+| **Geschäftsbereich [falls** |  | | |
+| **Straße und Hausnummer** |  | | |
+| **PLZ, Ort** |  | | |
+| **Telefonnummer** |  | | |
+| **E-Mail-Adresse** |  | | |
+| **Webseite** |  | | |
+| **Der Antragsteller ist** | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
+| **Systempfleger  [nur anzugeben, wenn der** |  | | |
+| **Straße und Hausnummer** |  | | |
+| **PLZ, Ort** |  | | |
+| **Telefonnummer** |  | | |
+| **E-Mail-Adresse** |  | | |
 
 / Version: 2.6 / 15. Mai 2024
 
@@ -58,10 +58,10 @@ Nur anzugeben, wenn abweichend von Abschnitt
 
 |  |  |
 |---|---|
-| Bestell- bzw. Auftragsnummer des |  |
-| Name |  |
-| Straße und Hausnummer |  |
-| PLZ, Ort |  |
+| **Bestell- bzw. Auftragsnummer des** |  |
+| **Name** |  |
+| **Straße und Hausnummer** |  |
+| **PLZ, Ort** |  |
 
 ## 1.3 ZERTIFIZIERUNGSGEGENSTAND
 
@@ -69,8 +69,8 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls
 
 |  |  |
 |---|---|
-| Bezeichnung |  |
-| Identnummer [die letzten drei |  |
+| **Bezeichnung** |  |
+| **Identnummer [die letzten drei** |  |
 
 ## 1.4  BETRIEBSSYSTEME
 
@@ -97,15 +97,15 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
 
 **2.1** **ZERTIFIZIERUNGSGEGENSTAND**
 
-| THEMA | EXPORT | IMPORT |
+| **THEMA** | **EXPORT** | **IMPORT** |
 |---|---|---|
-| Digitales Muster 6 | ☐ | ☐ |
-| Digitales Muster 10 | ☐ | ☐ |
-| Digitales Muster 10A | ☐ | ☐ |
-| Digitales Muster 39 | ☐ | ☐ |
-| LDT-Auftrag | ☐ | ☐ |
-| LDT-Befund | ☐ | ☐ |
-| LDT-Befund- Zervix-Zytologie | ☐ |  |
+| **Digitales Muster 6** | ☐ | ☐ |
+| **Digitales Muster 10** | ☐ | ☐ |
+| **Digitales Muster 10A** | ☐ | ☐ |
+| **Digitales Muster 39** | ☐ | ☐ |
+| **LDT-Auftrag** | ☐ | ☐ |
+| **LDT-Befund** | ☐ | ☐ |
+| **LDT-Befund- Zervix-Zytologie** | ☐ |  |
 
 / Version: 2.6 / 15. Mai 2024
 
@@ -118,20 +118,20 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
 
 Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizierungsthema“ sowie die  „Geschäftsführung“ zu benennen.
 
-|  | |
+\|  | |
 | Ansprechpartner(in) für das vorliegende Zertifizierungsthema | |
 |---|---|
-| Name* |  |
-| Telefonnummer* |  |
-| E-Mail-Adresse* |  |
+| **Name*** |  |
+| **Telefonnummer*** |  |
+| **E-Mail-Adresse*** |  |
 | Ansprechpartner(in): Geschäftsführung | |
-| Name* |  |
-| Telefonnummer |  |
-| E-Mail-Adresse* |  |
+| **Name*** |  |
+| **Telefonnummer** |  |
+| **E-Mail-Adresse*** |  |
 | Ansprechpartner(in): Produktmanagement | |
-| Name |  |
-| Telefonnummer |  |
-| E-Mail-Adresse |  |
+| **Name** |  |
+| **Telefonnummer** |  |
+| **E-Mail-Adresse** |  |
 
 Diese Information ist verpflichtend anzugeben
 
@@ -154,7 +154,7 @@ Diese Information ist verpflichtend anzugeben
 
 - (5) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
 
-| THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART | KOSTEN IN € |
+| **THEMA** | **ZERTIFIZIERUNGSART** | **PRÜFUNGSART** | **KOSTEN IN €** |
 |---|---|---|---|
 | Digitales Muster 6 | Neu-, Re- oder | Ergebnisprüfung | 137,62 |
 | Digitales Muster 6 - | Neu-, Re- oder | Ergebnisprüfung | 137,62 |

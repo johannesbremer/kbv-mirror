@@ -1,8 +1,8 @@
-|  | IT in der Arztpraxis |
+|  | ***IT in der Arztpraxis*** |
 |---|---|
-|  | Datensatzbeschreibung SDPLZ |
+|  | *Datensatzbeschreibung SDPLZ* |
 |  | [KBV_ITA_VGEX_Datensatzbeschreibung_SDPLZ |
-|  |  |
+|  | ** |
 |  | Dezernat Digitalisierung und IT |
 |  |  |
 |  | 10623 Berlin, Herbert |
@@ -18,22 +18,17 @@
 
 ### DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 1.06 | 10.08.2016 | KBV | Aktualisierung des |  | 10 |
-| 1.05 | 25.04.2016 | KBV | Entfall |  | 7, 8, 11 |
-| 1.04 | 16.07.2012 | KBV | redaktionelle | - | Alle |
+| 1.06 | 10.08.2016 | KBV | Aktualisierung des |  | **10** |
+| 1.05 | 25.04.2016 | KBV | Entfall |  | **7, 8, 11** |
+| 1.04 | 16.07.2012 | KBV | redaktionelle | - | **Alle** |
 
 erlaubten Wertes FK 9212 des Feldes Bezirksstelle Überarbeitung
 
 ---
 
-#### INHALTSVERZEICHNIS
-
-#### DOKUMENTENHISTORIE
-
-#### INHALTSVERZEICHNIS
-
+#### INHALTSVERZEICHNIS DOKUMENTENHISTORIE INHALTSVERZEICHNIS
 **1** **GRUNDSÄTZLICHE FESTLEGUNGEN**
 
 **1.1** **Zielsetzung ..................................................................................................................................... 4**
@@ -132,10 +127,10 @@ Kennzeichnung für PLZ-Stammdatei = PLZ
 
 ### Der Dateiname der PLZ-Stammdatei setzt sich gemäß dem folgenden Schema zusammen:
 
-| 1 | 2 | 3 |  | 4 | 5 |  | 6 | 7 | . | 1 | 2 | 3 |
+| **1** | **2** | **3** |  | **4** | **5** |  | **6** | **7** | **.** | **1** | **2** | **3** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 
-| PLZ74_1.202 | mit Beginn des 2. Quartals 2002 eingesetzt werden muss.  Diese Datei muss solange eingesetzt werden, bis eine neue PLZ -Stammdatei geliefert |
+| **PLZ74_1.202** | mit Beginn des 2. Quartals 2002 eingesetzt werden muss.  Diese Datei muss solange eingesetzt werden, bis eine neue PLZ -Stammdatei geliefert |
 |---|---|
 
 ist der Name der bundeseinheitlichen PLZ-Stammdatei der KBV in der ersten Version, die wird.
@@ -200,7 +195,7 @@ Satz vorhanden sein, wenn entweder in der Spalte  erfüllt ist oder das auf der 
 
 **2.1 Definition der Satzart: PLZ-Headersatz “plz0”**
 
-| Feldkennung | Vorkommen | Feldbezeichnung | Feldart | Bedingung | Erläuterung |
+| **Feldkennung** | **Vorkommen** | **Feldbezeichnung** | **Feldart** | **Bedingung** | **Erläuterung** |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzart | M |  | Satzart PLZ-Headersatz |
 | 9103 | 1 | Erstellungsdatum | M |  | Datum, wann die Datei erstellt wurde |
@@ -210,7 +205,7 @@ Satz vorhanden sein, wenn entweder in der Spalte  erfüllt ist oder das auf der 
 
 **2.2 Definition der Satzart: PLZ-Stammsatz “2150”**
 
-| Feldkennung | Vorkommen | Feldbezeichnung | Feldart | Bedingung | Erläuterung |
+| **Feldkennung** | **Vorkommen** | **Feldbezeichnung** | **Feldart** | **Bedingung** | **Erläuterung** |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzart | M |  | Satzart PLZ-Stammsatz |
 | 0150 | 1 | Postleitzahl | M |  |  |
@@ -219,7 +214,7 @@ Satz vorhanden sein, wenn entweder in der Spalte  erfüllt ist oder das auf der 
 
 **2.3 Definition der Satzart: PLZ-Endesatz “plz9”**
 
-| Feldkennung | Vorkommen | Feldbezeichnung | Feldart | Bedingung | Erläuterung |
+| **Feldkennung** | **Vorkommen** | **Feldbezeichnung** | **Feldart** | **Bedingung** | **Erläuterung** |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzart | M |  | Satzart = PLZ-Endesatz |
 
@@ -262,7 +257,7 @@ Feldinhalt bestehen darf. Dabei gibt ein Zahlenwert eine feste Länge an, wobei 
 
 **Feldtabelle: PLZ- Stammdatei**
 
-| FK | Feldbezeichnung | Länge | Typ | Regel | erlaubte Inhalte und deren | Beispiele |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **erlaubte Inhalte und deren** | **Beispiele** |
 |---|---|---|---|---|---|---|
 | 0150 | Postleitzahl | 5 | n |  |  | 50171 |
 | 3116 | KV-Bereich | 2 | n | 207 | 01 = Schleswig-Holstein | 17 |
@@ -284,7 +279,7 @@ Feldinhalt bestehen darf. Dabei gibt ein Zahlenwert eine feste Länge an, wobei 
 | 8000 | Satzart | 4 | a | 505 | plz0 = | 2150 |
 | 9103 | Erstellungsdatum | 8 | d |  |  | 15022002 |
 | 9106 | Verwendeter Zeichensatz | 1 | n | 117 | 3 = ISO 8859-1 | 3 |
-| FK | Feldbezeichnung | Länge | Typ | Regel | erlaubte Inhalte und deren | Beispiele |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **erlaubte Inhalte und deren** | **Beispiele** |
 | 68 = Oberpfalz | | | | | | |
 | 8000 | Satzart | 4 | a | 505 | plz0 = | 2150 |
 | 9103 | Erstellungsdatum | 8 | d |  |  | 15022002 |
@@ -312,7 +307,7 @@ Folgende Regelklassen lassen sich klassifizieren: 000 – 099 Formatprüfungen
 
 900 – 999 Sonderprüfungen
 
-| Regel- | Kategorie | Prüfung | Erläuterung |
+| **Regel-** | **Kategorie** | **Prüfung** | **Erläuterung** |
 |---|---|---|---|
 | 016 | Format | QJJJJ | Q = Quartal, JJJJ = Jahr |
 | 031 | Format | [a]aaaMMJJ.nn | MM = Monat, JJ = Jahr |

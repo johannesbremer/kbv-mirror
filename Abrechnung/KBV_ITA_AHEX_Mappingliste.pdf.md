@@ -1,33 +1,33 @@
 Kassenärztliche Bundesvereinigung Dezernat 3 -Vergütung, Gebührenordnung und Morbiditätsorientierung
 
-| Neustrukturierung Abschnitt | Neustrukturierung Abschnitt | Neustrukturierung Abschnitt | | | |
+| **Neustrukturierung Abschnitt** | **Neustrukturierung Abschnitt** | **Neustrukturierung Abschnitt** | | | |
 |---|---|---|---|---|---|
-| alt (2. Quartal) | neu (ab dem 3. | alt (2. Quartal) | neu (ab dem 3. | alt (2. Quartal) | neu (ab dem 3. |
-| Tiefenpsychologisch fundierte PT | Tiefenpsychologisch fundierte PT | | | | |
-| KZT | KZT | | | | |
+| **alt (2. Quartal)** | **neu (ab dem 3.** | **alt (2. Quartal)** | **neu (ab dem 3.** | **alt (2. Quartal)** | **neu (ab dem 3.** |
+| **Tiefenpsychologisch fundierte PT** | **Tiefenpsychologisch fundierte PT** | | | | |
+| **KZT** | **KZT** | | | | |
 | KZT 1: 35401 | 35202 | 35505 | 35300 | 35600 | 35200 |
 | KZT 2: 35402 | 35205 | 35503 | | | |
-| LZT | LZT | | | | |
+| **LZT** | **LZT** | | | | |
 | 35201 | 35405 | 35203 | 35515 | | |
 | 35208 | 35513 | | | | |
 |  |  | | | | |
-| Analytische Psychotherapie | Analytische Psychotherapie | | | | |
-| KZT | KZT | | | | |
+| **Analytische Psychotherapie** | **Analytische Psychotherapie** | | | | |
+| **KZT** | **KZT** | | | | |
 | KZT 1: 35411 | 35211 | 35525 | 35210 | | |
 | KZT 2: 35412 | 35212 | 35523 | | | |
-| LZT | LZT | | | | |
+| **LZT** | **LZT** | | | | |
 | 35210 | 35415 | 35211 | 35535 | | |
 | 35212 | 35533 | | | | |
 |  |  | | | | |
-| Verhaltenstherapie | Verhaltenstherapie | | | | |
-| KZT | KZT | | | | |
+| **Verhaltenstherapie** | **Verhaltenstherapie** | | | | |
+| **KZT** | **KZT** | | | | |
 | KZT 1: 35421 | 35222 | 35543 | 35220 | | |
 | KZT 2: 35422 | 35224 | 35545 | | | |
-| LZT | LZT | | | | |
+| **LZT** | **LZT** | | | | |
 | 35221 | 35425 | 35223 | 35553 | | |
 | 35225 | 35555 | | | | |
 | | | | | | |
-| Pseudoziffern | | | | | |
+| **Pseudoziffern** | | | | | |
 | **35222 KZT | 80542 | | | | |
 | **35223 LZT | 80552 | | | | |
 | **    Besonderheit bei Gruppen | | | | | |

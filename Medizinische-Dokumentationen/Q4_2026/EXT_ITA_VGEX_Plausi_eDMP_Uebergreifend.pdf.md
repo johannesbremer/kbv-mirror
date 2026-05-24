@@ -31,7 +31,7 @@
 
 ---
 
-| Lfd. | Parameter | Ausprägung | Plausibilitätsregeln |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitätsregeln** |
 |---|---|---|---|
 |  | Administrative Daten | | |
 | 1 | DMP-Fallnummer | Nummer | Pflichtfeld;  bis zu 7 Stellen; alphanumerische Angabe |

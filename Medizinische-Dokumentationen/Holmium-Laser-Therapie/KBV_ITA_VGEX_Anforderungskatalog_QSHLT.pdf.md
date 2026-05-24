@@ -1,6 +1,6 @@
-|  | IT in der Arztpraxis |
+|  | ***IT in der Arztpraxis*** |
 |---|---|
-|  | Anforderungskatalog QS |
+|  | *Anforderungskatalog QS* |
 |  | [KBV_ITA_VGEX_Anforderungskatalog_QS |
 |  |  |
 |  | Dezernat Digitalisierung und IT |
@@ -21,7 +21,7 @@ Hol- mium-Laser-Therapie HLT] Datum: 14.11.2025 Kennzeichnung: Öffentlich  Stat
 
 Die Änderungen vom 14.11.2025 treten zum 01.01.2026 in Kraft.
 
-| Version Datum |  | Autor Änderung |  | Begründung | Seite |
+| **Version Datum** |  | **Autor Änderung** |  | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.04 | 14.11.2025 KBV |  | Streichung P1-265,   Überarbeitung P1-266      Umwandlung K2-264 in konditio- | Abschaltung KV | 9 |
 | 1.03 | 14.02.2025 KBV |  | -  P1-266: Neu aufgenommen | KIM als | 9 |
@@ -125,17 +125,17 @@ Die in diesem Dokument beschriebenen Funktionen werden durchnummeriert. Dabei fo
 
 Pflichtfunktionen sind wie folgt gekennzeichnet:
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P4-10 | Funktionsbezeichnung |
+| **P4-10** | **Funktionsbezeichnung** |
 
 Ident-Nummer einer Pflichtfunktion Ident-Nummer einer älteren Version
 
 Optionale Funktionen sind wie folgt gekennzeichnet:
 
-| Optionale FUNKTION | |
+| **Optionale FUNKTION** | |
 |---|---|
-| K8-30 | Funktionsbezeichnung                                                                            (2-80) |
+| **K8-30** | **Funktionsbezeichnung                                                                            (2-80)** |
 
 Ident-Nummer einer optionalen Funktion Ident -Nummer einer älteren Version
 
@@ -149,9 +149,9 @@ Ident-Nummer einer optionalen Funktion Ident -Nummer einer älteren Version
 
 ### 2.1.1 Vollständigkeit der Eingaben aller Bewegungsdaten
 
-| PFLICHTFUNKTION QS Holmium-Laser-Therapie | |
+| **PFLICHTFUNKTION QS Holmium-Laser-Therapie** | |
 |---|---|
-| P1-10 | Vollständigkeit der Eingaben aller Bewegungsdaten |
+| **P1-10** | **Vollständigkeit der Eingaben aller Bewegungsdaten** |
 
 Die Bedieneroberfläche der Software muss eine lückenlose und korrekte Eingabe aller rele- vanten Bewegungsdaten bzgl. der Holmium-Laser-Therapie Jahresstatistik ermöglichen.
 
@@ -161,9 +161,9 @@ Die in der
 
 Schnittstellenbeschreibung
 
-| PFLICHTFUNKTION QS Holmium-Laser-Therapie | |
+| **PFLICHTFUNKTION QS Holmium-Laser-Therapie** | |
 |---|---|
-| P1-20 | Berichtszeiträume |
+| **P1-20** | **Berichtszeiträume** |
 
 Die Behandlungsfälle werden erstmals zwei Quartal nach Inkrafttreten der QS-Vereinbarung  erfasst, danach jährlich vom 01.01.-31.12. des Untersuchungsjahres.
 
@@ -196,17 +196,17 @@ vollständig 30.06
 
 ---
 
-| PFLICHTFUNKTION QS Holmium-Laser-Therapie | |
+| **PFLICHTFUNKTION QS Holmium-Laser-Therapie** | |
 |---|---|
-| P1-30 | Arztbezug |
+| **P1-30** | **Arztbezug** |
 
 Die QSHLT-Jahresstatistik umfasst alle Leistungen im Rahmen von QSHLT eines Arztes.  D.h. jeder berechtigte Arzt in einer Gemeinschaftspraxis muss seine QSHLT-Jahresstatistik  erstellen.
 
 Die Betriebsstättennummer (BSNR) und die lebenslange Arztnummer (LANR) des Anwen- ders sind in der QSHLT-Dokumentation zu erfassen
 
-| PFLICHTFUNKTION QS Holmium-Laser-Therapie | |
+| **PFLICHTFUNKTION QS Holmium-Laser-Therapie** | |
 |---|---|
-| P1-35 | Patienten der QSHLT Dokumentation |
+| **P1-35** | **Patienten der QSHLT Dokumentation** |
 
 Für die Dokumentation der QS Holmium-Laser-Therapie werden nur Patienten
 
@@ -214,60 +214,58 @@ chen Krankenversicherung berücksichtigt.
 
 ### 2.1.2 Plausibilitäten
 
-| PFLICHTFUNKTION QS Holmium-Laser-Therapie | |
+| **PFLICHTFUNKTION QS Holmium-Laser-Therapie** | |
 |---|---|
-| P1-200 | Plausibilitäten |
+| **P1-200** | **Plausibilitäten** |
 
 Die erstellte Jahresstatistik muss den
 
 [KBV_ITA_VGEX_Plausi_QSHLT] entsprechen.
 
-| PFLICHTFUNKTION QS Holmium-Laser-Therapie | |
+| **PFLICHTFUNKTION QS Holmium-Laser-Therapie** | |
 |---|---|
-| P1-210 | Fehlerbehandlung bei Plausibilitäten |
+| **P1-210** | **Fehlerbehandlung bei Plausibilitäten** |
 
 Die Jahresstatistik wird gegen die Plausibilitäten [KBV_ITA_VGEX_Plausi_QSHLT] geprüft  und Warnungen und ggf. Fehlermeldungen werden dem
 
 Über die Plausibilitäten in den Pflichtfeldern darf der Anwender sich nicht hinwegsetzen, die  nicht valide Dokumentation darf nicht an die Datenannahmestelle weitergereicht werden.
 
-vorgegebenen
-
-Anwender angezeigt.
-
 der gesetzli-
 
-Plausibilitäten
+vorgegebenen Plausibilitäten
+
+Anwender angezeigt.
 
 
 ---
 
 ### 2.1.3 Darstellung
 
-| PFLICHTFUNKTION QS Holmium-Laser-Therapie | |
+| **PFLICHTFUNKTION QS Holmium-Laser-Therapie** | |
 |---|---|
-| P 1-300 | Anzeige der Jahresstatistik |
+| **P 1-300** | **Anzeige der Jahresstatistik** |
 
 Der Anwender muss die Möglichkeit haben die generierte Jahresstatistik anzuschauen.
 
-| PFLICHTFUNKTION QS Holmium-Laser-Therapie | |
+| **PFLICHTFUNKTION QS Holmium-Laser-Therapie** | |
 |---|---|
-| P1-310 | Drucken der Jahresstatistik |
+| **P1-310** | **Drucken der Jahresstatistik** |
 
 Der Anwender muss die Möglichkeit haben die generierte
 
 ### 2.1.4 Speichern
 
-| PFLICHTFUNKTION QS Holmium-Laser-Therapie | |
+| **PFLICHTFUNKTION QS Holmium-Laser-Therapie** | |
 |---|---|
-| P1-400 | Speichern der Jahresstatistik |
+| **P1-400** | **Speichern der Jahresstatistik** |
 
 Das System muss sicherstellen, dass der Anwender auch unvollständige oder fehlerhafte  Daten zur Jahresstatistik speichern kann. Ein späterer Abruf dieser Daten zur nachträglichen  Bearbeitung muss dem Anwender bis Ende des Prüfquartals ermöglicht werden.
 
 ### 2.1.5 Ändern
 
-| PFLICHTFUNKTION QS Holmium-Laser-Therapie | |
+| **PFLICHTFUNKTION QS Holmium-Laser-Therapie** | |
 |---|---|
-| P1-500 | Ändern der Jahresstatistik |
+| **P1-500** | **Ändern der Jahresstatistik** |
 
 Das System muss sicherstellen, dass der Anwender  des Prüfquartals ändern kann.
 
@@ -282,15 +280,15 @@ alle Daten zur Jahresstatistik bis Ende
 
 ### 2.2.1 Übermittlung
 
-| PFLICHTFUNKTION QS Holmium-Laser-Therapie | |
+| **PFLICHTFUNKTION QS Holmium-Laser-Therapie** | |
 |---|---|
-| P 2-10 | Übermittlung an die Datenannahmestelle |
+| **P 2-10** | **Übermittlung an die Datenannahmestelle** |
 
 Die Jahresstatistik ist im Meldequartal an die Datenannahmestelle zu übermitteln. Die Statis- tik muss dabei bis zum 31.03. (Ende des Meldequartals) bei der Datenannahmestelle vorlie- gen. Der Anwender kann anschließend bis zum 30.06. (Ende des Prüfquartals) auf Aufforde- rung der KV veränderte und überarbeitete Daten an die Datenannahmestelle senden.
 
-| PFLICHTFUNKTION QS Holmium-Laser-Therapie | |
+| **PFLICHTFUNKTION QS Holmium-Laser-Therapie** | |
 |---|---|
-| P1-265 | QSHLT auf Basis von KV-Connect |
+| **P1-265** | **QSHLT auf Basis von KV-Connect** |
 
 Die Software muss dem Anwender eine Funktion für die  Dokumentationen auf Basis von KV-Connect bereitstellen.
 
@@ -310,9 +308,9 @@ Zum 01.10.2018 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstü
 
 - **Verweisquelle konnte nicht gefunden werden.**
 
-| PFLICHTFUNKTION QS Holmium-Laser-Therapie | |
+| **PFLICHTFUNKTION QS Holmium-Laser-Therapie** | |
 |---|---|
-| P1-266 | QSHLT auf Basis von KIM |
+| **P1-266** | **QSHLT auf Basis von KIM** |
 
 Die Software muss dem Anwender eine Funktion für die Übertragung der  Dokumentationen auf Basis von KIM bereitstellen.
 
@@ -353,15 +351,15 @@ Wenn eine KV
 
 für das Verfahren
 
-| Optionale FUNKTION KONDITIONALE PFLICHTFUNKTION QS Holmium-Laser-Therapie | |
+| **Optionale FUNKTION KONDITIONALE PFLICHTFUNKTION QS Holmium-Laser-Therapie** | |
 |---|---|
-| K KP2-264 | E-Mail Rückmeldung Importstatus  von der Datenannahmestelle |
+| **K KP2-264** | **E-Mail Rückmeldung Importstatus  von der Datenannahmestelle** |
 
 Die Rückmeldung zum Import-Status von der Datenannahmestelle erfolgt über den  einer KIM-Nachricht gemäß der Anforderung eDoku0920 der [ den Absender der Dokumentationsdaten. Beim Importieren wird die Verordnungs Import-Status und ggf. Fehlermeldungen wird erstellt.
 
 Es sind folgende Import-Status möglich:
 
-| Status | Beschreibung |
+| **Status** | **Beschreibung** |
 |---|---|
 | OK | Die Datei wurde erfolgreich importiert. |
 | Datei existiert bereits | cher Zuordnung (ID, BSNR, LANR) vorhanden ist. |
@@ -381,9 +379,9 @@ Das PVS kann muss dem Anwender den Importstatus diese Rückmeldungs-E-Mail in ge
 
 ### 2.2.2 Export der Daten
 
-| PFLICHTFUNKTION QS Holmium-Laser-Therapie | |
+| **PFLICHTFUNKTION QS Holmium-Laser-Therapie** | |
 |---|---|
-| P2-60 | Korrekter Datenexport |
+| **P2-60** | **Korrekter Datenexport** |
 
 Das System muss
 
@@ -425,9 +423,9 @@ Die Datei wurde nicht importiert, da bereits ein Datensatz mit glei- gespeichert
 
 ### 2.2.3 Verschlüsseln der Daten
 
-| PFLICHTFUNKTION QS Holmium-Laser-Therapie | |
+| **PFLICHTFUNKTION QS Holmium-Laser-Therapie** | |
 |---|---|
-| P2-70 | Einsatz Kryptomodul (XKM) |
+| **P2-70** | **Einsatz Kryptomodul (XKM)** |
 
 Vor Fertigstellung des vom Anwender einzureichenden Datenträgers ist das Dokumentati- onsarchiv in der Gesamtheit mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen  Schlüssels zur QS-HLT-Datenverschlüsselung (Oeffentlich_QSHLT_Vxy.key) zu verschlüs- seln.
 
@@ -440,7 +438,7 @@ sen.
 
 # 3 Referenzierte Dokumente
 
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 |---|---|
 | [KBV_ITA_VGEX_XML-Schnittstellen] | Austausch von XML-Daten in der vertragsärzt- |
 | [KBV_ITA_VGEX_Schnittstelle_QSHLT] | Schnittstellenbeschreibung QS |

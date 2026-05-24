@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT 15. AUGUST 2023  VERSION 1.0  DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT 15. AUGUST 2023  VERSION 1.0  DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # FAQ FÜR SOFTWAREHERSTELLER ZU  DEN EDMP ANFORDERUNGEN
@@ -16,7 +16,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 ---
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.0 | 15.08.2023 | KBV | Erstellung des FAQ-Dokumentes | Konkretisierung der  Beantwortung | alle |
 

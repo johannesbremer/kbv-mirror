@@ -30,13 +30,10 @@ Inhalt
 
 geb. am 1. Anamnese und Befund
 2. Diagnosen, Schädigungen
-
-| 4. interkurrente | Erkrankungen |
-|---|---|
-| 5. | Abschlussbefund, Ergebnis |
-| 6. Empfehlungen | für Maßnahmen |
-
-am Wohnort
+3. Maßnahmen und Verlauf
+4. interkurrente Erkrankungen
+5. Abschlussbefund, Ergebnis
+6. Empfehlungen für Maßnahmen am Wohnort
 
 Bitte innerhalb von 4 Tagen an weiterbehandelnden Arzt und Krankenkasse senden G
 
@@ -44,9 +41,7 @@ Bitte innerhalb von 4 Tagen an weiterbehandelnden Arzt und Krankenkasse senden G
 
 Stempel und Unterschrift des Kurarztes
 
-Datum
-
-3. Maßnahmen und Verlauf 4. interkurrente Erkrankungen 5. Abschlussbefund, Ergebnis 6. Empfehlungen für Maßnahmen(1.2015)
+Datum (1.2015)
 
 
 ---
@@ -64,14 +59,11 @@ Inhalt
 geb. am 1. Anamnese und Befund
 2. Diagnosen, Schädigungen
 
-Kostenträgerkennung Versicherten-Nr. Status
+Kostenträgerkennung Versicherten-Nr. Status 3. Maßnahmen und Verlauf
+4. interkurrente Erkrankungen
 
-|  | 4. interkurrenteErkrankungenBetriebsstätten-Nr.Arzt-Nr.Datum | |
-|---|---|---|
-|  | 5. | Abschlussbefund, Ergebnis |
-|  | 6. Empfehlungen | für Maßnahmen |
-
-am Wohnort
+Betriebsstätten-Nr. Arzt-Nr. Datum 5. Abschlussbefund, Ergebnis
+6. Empfehlungen für Maßnahmen am Wohnort
 
 Bitte innerhalb von 4 Tagen an weiterbehandelnden Arzt und Krankenkasse senden G
 
@@ -4289,7 +4281,7 @@ Anschrift des behandelnden Arztes
 
 **Teil 2 für die Krankenkasse**
 
-3. Maßnahmen und Verlauf 4. interkurrente Erkrankungen 5. Abschlussbefund, Ergebnis 6. Empfehlungen für Maßnahmen(1.2015)
+(1.2015)
 
 
 ---
@@ -4326,13 +4318,10 @@ Inhalt
 
 geb. am 1. Anamnese und Befund
 2. Diagnosen, Schädigungen
-
-| 4. interkurrente | Erkrankungen |
-|---|---|
-| 5. | Abschlussbefund, Ergebnis |
-| 6. Empfehlungen | für Maßnahmen |
-
-am Wohnort
+3. Maßnahmen und Verlauf
+4. interkurrente Erkrankungen
+5. Abschlussbefund, Ergebnis
+6. Empfehlungen für Maßnahmen am Wohnort
 
 Bitte innerhalb von 4 Tagen an weiterbehandelnden Arzt und Krankenkasse senden G
 
@@ -4340,6 +4329,4 @@ Bitte innerhalb von 4 Tagen an weiterbehandelnden Arzt und Krankenkasse senden G
 
 Stempel und Unterschrift des Kurarztes
 
-Datum
-
-3. Maßnahmen und Verlauf 4. interkurrente Erkrankungen 5. Abschlussbefund, Ergebnis 6. Empfehlungen für Maßnahmen(1.2015)
+Datum (1.2015)

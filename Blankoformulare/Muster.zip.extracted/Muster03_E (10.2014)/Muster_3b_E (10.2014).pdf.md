@@ -1,5 +1,5 @@
-| **Krankenkasse bzw. Kostenträger** | | |
-| **Name, Vorname des Versicherten** | | |
+\| **Krankenkasse bzw. Kostenträger** | | |
+\| **Name, Vorname des Versicherten** | | |
 | **Kostenträgerkennung** | **Versicherten-Nr.** | |
 |---|---|---|
 | **Betriebsstätten-Nr.** | **Arzt-Nr.** | |

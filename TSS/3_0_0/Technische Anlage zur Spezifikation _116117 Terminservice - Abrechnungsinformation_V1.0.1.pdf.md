@@ -152,25 +152,27 @@ Entwurf
 
 ---
 
-1 EINLEITUNG & HINTERGRUND
+| 1 | EINLEITUNG | & | HINTERGRUND |  |
+|---|---|---|---|---|
+| Mit der | Schnittstelle | „116117 Terminservice | - | Abrechnungsinformation“ ist es möglich, |
+|  | abrechnungsrelevante | Informationen zu | Terminen, welche | über den 116117 Terminservice vermittelt wurden, |
+| automatisiert | dem | Abrechnungsfall | eines Patienten | zuzuordnen und die Auswahl der zutreffenden |
+|  | Gebührenordnungsposition | zu unterstützen. | |  |
+| Seite 5 von | 12 / KBV / Technische | Anlage zur | Spezifikation "116117 | Terminservice - Abrechnungsinformation" |
 
-Mit der Schnittstelle „116117 Terminservice - Abrechnungsinformation“ ist es möglich,  abrechnungsrelevante Informationen zu Terminen, welche über den 116117 Terminservice vermittelt wurden,  automatisiert dem Abrechnungsfall eines Patienten zuzuordnen und die Auswahl der zutreffenden  Gebührenordnungsposition zu unterstützen.
-
-Seite 5 von 12 / KBV / Technische Anlage zur Spezifikation "116117 Terminservice - Abrechnungsinformation"
-
+1 EINLEITUNG & HINTERGRUND Mit der Schnittstelle „116117 Terminservice - Abrechnungsinformation“ ist es möglich, abrechnungsrelevante Informationen zu Terminen, welche über den 116117 Terminservice vermittelt wurden, automatisiert dem Abrechnungsfall eines Patienten zuzuordnen und die Auswahl der zutreffenden Gebührenordnungsposition zu unterstützen.  / KBV / Technische Anlage zur Spezifikation "116117 Terminservice - Abrechnungsinformation"
 
 ---
 
-2 AUTHENTIFIZIERUNG, AUTHENTIFIZIERUNGSVERFAHREN
+| 2 | AUTHENTIFIZIERUNG, |  | AUTHENTIFIZIERUNGSVERFAHREN |
+|---|---|---|---|
+| UND | AUTORISIERUNG |  |  |
+| Die Authentifizierung | und | Authentifizierungsverfahren | erfolgt gemäß [TSS_Auth]. |
+| Anwender der | Schnittstelle können auf | Daten der Praxen | zugreifen, für die sie sich im |
+| Authentifizierungsverfahren | mittels | SMC-B authentisieren | konnten. |
+| Seite 6 von 12 / | KBV / Technische Anlage zur | Spezifikation | "116117 Terminservice - Abrechnungsinformation" |
 
-# UND AUTORISIERUNG
-
-Die Authentifizierung und Authentifizierungsverfahren erfolgt gemäß [TSS_Auth].
-
-Anwender der Schnittstelle können auf Daten der Praxen zugreifen, für die sie sich im  Authentifizierungsverfahren mittels SMC-B authentisieren konnten.
-
-Seite 6 von 12 / KBV / Technische Anlage zur Spezifikation "116117 Terminservice - Abrechnungsinformation"
-
+2 AUTHENTIFIZIERUNG, AUTHENTIFIZIERUNGSVERFAHREN UND AUTORISIERUNG Die Authentifizierung und Authentifizierungsverfahren erfolgt gemäß [TSS_Auth]. Anwender der Schnittstelle können auf Daten der Praxen zugreifen, für die sie sich im Authentifizierungsverfahren mittels SMC-B authentisieren konnten.  / KBV / Technische Anlage zur Spezifikation "116117 Terminservice - Abrechnungsinformation"
 
 ---
 

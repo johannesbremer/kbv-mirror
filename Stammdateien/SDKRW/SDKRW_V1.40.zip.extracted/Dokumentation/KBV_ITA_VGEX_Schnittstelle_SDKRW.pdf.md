@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  15. NOVEMBER 2021   VERSION: 1.40   DOKUMENTENSTATUS: IN KRAFT |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  15. NOVEMBER 2021   VERSION: 1.40   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # SCHNITTSTELLENBESCHREIBUNG  SDKRW (KODIERREGELWERK-
@@ -398,7 +398,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 # DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.40 | 15.11.2021 | KBV | Textuelle Klarstellung der    Textuelle Klarstellung des    Hinweis zum Element |  | 28,  30      26        22 |
 | 1.40 | 23.09.2021 | KBV | Klarstellung der Elemente |  | 28,  30 |
@@ -472,11 +472,11 @@ Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, dere
 
 Es existieren verschiedene Kardinalitäten:
 
-| Kardinalität | Symbol | Beschreibung |
+| **Kardinalität** | **Symbol** | **Beschreibung** |
 |---|---|---|
-| 0..1 |  | Optionale Elemente  Ein optionales Element wird als Rechteck mit gestrichelter |
-| 1 |  | Obligatorische Elemente  Elemente, welche als Rechteck mit durchgezogener Linie |
-| n...m |  | Mehrfache Elemente  Bei Elementen, welche mehrfach vorkommen können, wird |
+| 0..1 |  | **Optionale Elemente ** Ein optionales Element wird als Rechteck mit gestrichelter |
+| 1 |  | **Obligatorische Elemente ** Elemente, welche als Rechteck mit durchgezogener Linie |
+| n...m |  | **Mehrfache Elemente ** Bei Elementen, welche mehrfach vorkommen können, wird |
 
 **Tabelle 1:**
 
@@ -484,7 +484,7 @@ Es existieren verschiedene Kardinalitäten:
 
 Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente miteinander verknüpft.  In diesem Dokument werden zwei Strukturelemente verwendet:
 
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |---|---|
 |  | Das Strukturelement |
 |  | Das Strukturelement |
@@ -507,12 +507,12 @@ Linie dargestellt. Es kann keinmal oder einmal vorkommen. dargestellt sind, müs
 
 Es werden außerdem folgende Diagramm-Symbole verwendet:
 
-| Symbol | Beschreibung |
+| **Symbol** | **Beschreibung** |
 |---|---|
-|  | Element mit Kindelementen  Ein Element mit einem oder mehreren Kindelementen wird durch ein |
-|  | Referenzelement  Der Pfeil links unten im Element zeigt an, dass das Element an anderer Stelle |
-|  | Datentyp  Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen Datentyp. |
-|  | Gruppenelement  Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement dar, |
+|  | **Element mit Kindelementen ** Ein Element mit einem oder mehreren Kindelementen wird durch ein |
+|  | **Referenzelement ** Der Pfeil links unten im Element zeigt an, dass das Element an anderer Stelle |
+|  | **Datentyp ** Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen Datentyp. |
+|  | **Gruppenelement ** Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement dar, |
 
 **Tabelle 3:** Beschreibung sonstiger Symbole
 
@@ -657,12 +657,8 @@ Das Element <kodierregel> repräsentiert stets eine fachliche Kodierregel, dabei
 
 ---
 
-| **Abbildung** | **4:** | kodierregel |  |  |  |  |
-|---|---|---|---|---|---|---|
-| Seite 14 | von 35 / KBV | / Schnittstellenbeschreibung | SDKRW (Kodierregelwerk-Stammdatei) | / Version: | 1.40 / | 15. November |
-| 2021 |  |  |  |  |  |  |
+**Abbildung 4:** kodierregel
 
-Abbildung 4:
 
 ---
 
@@ -792,7 +788,7 @@ Der XML-Code für das Element <regelkategorie> hat folgenden Aufbau:
 
 **XML-Code 7:** regelkategorie
 
-| Wert (V="...") | Bezeichner ( DN="...") | (S="" |
+| **Wert (V="...")** | **Bezeichner ( DN="...")** | **(S=""** |
 |---|---|---|
 | 1 | Behandlungsfall-bezogen, ICD | wird durch einen ICD-Kode ausgelöst |
 | 3 | quartalsübergreifend, ICD getriggert | bezieht sich auf einen zurückliegenden |
@@ -841,7 +837,7 @@ Der XML-<Code für das Element regelquelle> hat folgenden Aufbau:
 
 **XML-Code 9:** regelquelle
 
-| Wert (V="...") | Bezeichner ( DN="...") | (S="" |
+| **Wert (V="...")** | **Bezeichner ( DN="...")** | **(S=""** |
 |---|---|---|
 | 1 | Kodiervorgaben nach § 295 SGB V | Grundlage für die Regel ist der Beschluss der |
 | 2 | ICD-10-GM | Kodieranweisungen der ICD-10-GM |
@@ -876,38 +872,38 @@ Fachliche Bedeutung; OID  1.2.276.0.76.3.1.1.5.2.51 ) Vertreterversammlung (§ 2
 
 ---
 
-| Wert (V="...") | Bezeichner ( DN="...") | Fachliche Bedeutung; OID |
+| **Wert (V="...")** | **Bezeichner ( DN="...")** | **Fachliche Bedeutung; OID** |
 |---|---|---|
-| 5.10 | Abbildung 12: | <regelthema V="28" DN="" |
+| **5.10** | **Abbildung 12:** | **<regelthema V="28" DN=""** |
 |  | zu entnehmen sind. | DN: |
-| S: |  | 5.11 |
+| S: |  | **5.11** |
 
 REGELTHEMA Das Element <regelthema> enthält das Kapitel aus Regelquelle, welches den fachlichen Hintergrund der Kodierregel beschreibt.  Der XML-Code für das Element <regelthema> hat folgenden Aufbau: IX: Krankheiten des Kreislaufsystems S="" 1.2.276.0.76.3.1.1.5.2.55 /> XML-Code 11: V: Das V-Attribut beinhaltet die Zahlenwerte, die der Schlüsseltabelle (S="1.2.276.0.76.3.1.1.5.2.55“) Das DN-Attribut enthält den Bezeichner. Mit dem optionalen S-Attribut wird auf die OID der jeweiligen Schlüsseltabelle referenziert, auf die sich die Werte aus V beziehen.  REGELANWENDUNG Das Element <regelanwendung> legt fest, ob eine Kodierregel verpflichtend vom Softwaresystem bzw. vom Anwender anzuwenden ist oder ob sie bei Bedarf vom Anwender deaktiviert werden kann. Abbildung 13:  regelanwendung Der XML-Code für das Element <regelanwendung> hat folgenden Aufbau: <regelanwendung V="1" DN="Obligate Regel" S="" 1.2.276.0.76.3.1.1.5.2.52 /> XML-Code 12:  regelanwendung (S="" 1.2.276.0.76.3.1.1.5.2.52 )
 
 ---
 
-|  | XML-Code 13: | Wert (V"...") |
+|  | **XML-Code 13:** | **Wert (V"...")** |
 |---|---|---|
-| Wert (V="...") | Bezeichner ( DN="...") | (S="" |
+| **Wert (V="...")** | **Bezeichner ( DN="...")** | **(S=""** |
 | 1 | Obligate Regel | Bedingung, dass die Kodierregel |
 | 2 | Fakultative Regel | Bedingung, dass die Kodierregel freiwillig |
 
-| Wert (V"...") | Bezeichner ( DN="...") | 1.2.276.0.76.3.1.1.5.2.18 ) |
+| **Wert (V"...")** | **Bezeichner ( DN="...")** | **1.2.276.0.76.3.1.1.5.2.18 )** |
 |---|---|---|
 | 7 | Behandlungsfall | (Kode analog EBM, Definition laut §21 BMV-Ä) |
 | 21 | Quartal | nur für quartalsübergreifende Prüfung, die Anzahl |
-| Wert (V="...") | Bezeichner ( DN="...") | (S="" |
+| **Wert (V="...")** | **Bezeichner ( DN="...")** | **(S=""** |
 | 1 | | |
 
 Tabelle 6:  Zulässige Werte für das Element regelanwendung 5.12 BEZUGSRAUM Das Element <bezugsraum> definiert den zeitlichen Bezug der Kodierregel.  Abbildung 14:  bezugsraum Hinweis: Sofern der gesamte Behandlungsfall aus technischen Gründen nicht für Prüfzwecke zur Verfügung steht, kann die Prüfung synonym auf Basis des jeweiligen Abrechnungsdatensatzes (Schein) erfolgen. Der XML-Code für das Element <bezugsraum> hat folgenden Aufbau: <bezugsraum V="7" DN="" Behandlungsfall  bezugsraum S=""/> 1.2.276.0.76.3.1.1.5.2.18 Fachliche Bedeutung; OID 1.2.276.0.76.3.1.1.5.2.52 ) verpflichtend einzusetzen ist eingesetzt werden kann Fachliche Bedeutung; OID (
 
 ---
 
-|  | </> |  |
+|  | **</>** |  |
 |---|---|---|
 |  |  |  |
 |  |  |  |
-| Wert (V"...") | Bezeichner ( DN="...") | S="" |
+| **Wert (V"...")** | **Bezeichner ( DN="...")** | **S=""** |
 | der retrospektiv zu prüfenden Quartale wird mit | | |
 
 **XML-Code 15:** echtzeitpruefung_liste
@@ -928,11 +924,11 @@ Der XML-Code für das Element <echtzeitpruefung> hat folgenden Aufbau:
 
 **XML-Code 16:** echtzeitpruefung
 
-| Wert (V="...") | Bezeichner ( DN="...") | Fachliche Bedeutung; OID |
+| **Wert (V="...")** | **Bezeichner ( DN="...")** | **Fachliche Bedeutung; OID** |
 |---|---|---|
 | 1 | bei Kodierung | im Rahmen der Kodierung |
 | 2 | zur Abrechnung | im Rahmen der Übertragung in die |
-| 3 | wählbar | zu einem vom Anwender frei wählbaren  Hinweis: |
+| 3 | wählbar | zu einem vom Anwender frei wählbaren **Hinweis:** |
 
 **Tabelle 8:** Zulässige Werte für das Element echtzeitpruefung
 
@@ -970,7 +966,7 @@ Der XML-Code für das Element <pruefgrundlage> hat folgenden Aufbau:
 
 **XML-Code 18:** pruefgrundlage
 
-| Wert (V="...") | Bezeichner ( DN="...") | Fachliche Bedeutung; OID |
+| **Wert (V="...")** | **Bezeichner ( DN="...")** | **Fachliche Bedeutung; OID** |
 |---|---|---|
 | 1 | Einzelfall | Prüfung, bei einem einzelnen Patienten |
 | 2 | Patientenstamm | Prüfung, aller Patienten derselben Arztpraxis    |
@@ -1031,7 +1027,7 @@ Der XML-Code für das Element <parameter> hat folgenden Aufbau:
 
 **XML-Code 20:** parameter
 
-| Wert (V="...") | Bezeichner (optional DN="...") | OID (S="" Fachliche Bezug: Feldkennung(en) |
+| **Wert (V="...")** | **Bezeichner (optional DN="...")** | **OID (S="" Fachliche Bezug: Feldkennung(en)** |
 |---|---|---|
 | ICD | ICD-Diagnose | 3673, 6001 |
 | DS | Diagnosesicherheit | 3674, 6003 |
@@ -1055,7 +1051,7 @@ Der XML- Code für das optionale Element <operator> hat folgenden Aufbau:
 
 ---
 
-| Wert ( | Bedeutung |
+| **Wert (** | **Bedeutung** |
 |---|---|
 | AND | der Elemente in der Value-Liste |
 | OR | der Elemente in der Value-Liste |
@@ -1078,7 +1074,7 @@ Der XML-Code für das Element <existenz> hat folgenden Aufbau:
 
 **XML-Code 22:** existenz
 
-| Wert ( | Bedeutung |
+| **Wert (** | **Bedeutung** |
 |---|---|
 | TRUE | Value-Elemente |
 | FALSE | Value-Elemente |
@@ -1252,7 +1248,7 @@ Der XML-Code für das Element <pruefung_existenz> hat folgenden Aufbau:
 
 ---
 
-| Wert ( | Bedeutung |
+| **Wert (** | **Bedeutung** |
 |---|---|
 | TRUE | Elemente |
 | FALSE | Elemente |
@@ -1363,11 +1359,11 @@ Der XML-Code für die Struktur <korrektur> hat folgenden Aufbau:
 
 ---
 
-| Wert ( | Bedeutung |
+| **Wert (** | **Bedeutung** |
 |---|---|
 | ADD | Unter der value-Liste aufgeführte Parameter sollten in der |
 | DELETE | Der Anwender muss entscheiden, ob ein entsprechender |
-| <parameter V="ICD" S="1.2.276.0.76.3.1.1.5.2.16"/> |  |
+| **<parameter V="ICD" S="1.2.276.0.76.3.1.1.5.2.16"/>** |  |
 |  |  |
 
 values (siehe Kapitel
@@ -1380,7 +1376,7 @@ values (siehe Kapitel
 |---|---|
 |  |  |
 |  |  |
-| Wert ( | Bedeutung |
+| **Wert (** | **Bedeutung** |
 | REPLACE | Die unter value-Liste aufgeführten Werte können zum |
 
 **Tabelle 14:** Erlaubte Inhalte bei Element <regel>
@@ -1405,7 +1401,7 @@ V="" ... Ersetzen einer identifizierten Diagnose verwendet werden.
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 | [KBV_ITA_VGEX_EHD] | Namensgebung beim Entwurf von XML-Schnittstellen |
 | [2] | Schlüsseltabellen der KBV  https://applications.kbv.de/overview.xhtml |
 

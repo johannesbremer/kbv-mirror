@@ -126,13 +126,7 @@ Tabelle 18: KBV_EX_ERP_Medication_Category
 
 Tabelle 19: KBV_EX_ERP_Medication_Packaging
 
-Tabelle 20: KBV_EX_ERP_Medication_CompoundingInstruction
-
-Tabelle 21: KBV_EX_ERP_Medication_Ingredient_Form
-
-Tabelle 22: KBV_EX_ERP_Medication_Ingredient_Amount
-
-Tabelle 23: KBV_EX_ERP_Medication_PackagingSize
+Tabelle 20: KBV_EX_ERP_Medication_CompoundingInstruction Tabelle 21: KBV_EX_ERP_Medication_Ingredient_Form Tabelle 22: KBV_EX_ERP_Medication_Ingredient_Amount Tabelle 23: KBV_EX_ERP_Medication_PackagingSize
 
 Tabelle 24: KBV_EX_ERP_Multiple_Prescription
 
@@ -166,33 +160,21 @@ Tabelle 38: KBV_CS_ERP_Dosage_Category
 
 Tabelle 39: KBV_VS_ERP_Dosage_Category
 
-Tabelle 40: KBV_VS_ERP_DosageInstrcution_UnitsOfTime_German
+Tabelle 40: KBV_VS_ERP_DosageInstrcution_UnitsOfTime_German Tabelle 41: Mapping KBV_PR_ERP_Medication_PZN
 
-Tabelle 41: Mapping KBV_PR_ERP_Medication_PZN
+Tabelle 42: Mapping KBV_PR_ERP_Medication_Ingredient Tabelle 43: Mapping KBV_PR_ERP_Medication_Compounding Tabelle 44: Mapping KBV_PR_ERP_Medication_FreeText Tabelle 45: Mapping KBV_PR_ERP_Prescription
 
-Tabelle 42: Mapping KBV_PR_ERP_Medication_Ingredient
+Tabelle 46: Referenzierte Instanzen KBV_PR_ERP_Prescription Tabelle 47: Mapping KBV_PR_ERP_PracticeSupply
 
-Tabelle 43: Mapping KBV_PR_ERP_Medication_Compounding
+Tabelle 48: Referenzierte Instanzen KBV_PR_ERP_PracticeSupply Tabelle 49: Mapping KBV_PR_ERP_Composition  Tabelle 50: Referenzierte Instanzen KBV_PR_ERP_Composition  Tabelle 51: Mapping KBV_PR_ERP_Bundle
 
-Tabelle 44: Mapping KBV_PR_ERP_Medication_FreeText
+10  10  11  11  11  11  11  12  12  12  12  12  13  13  13  13  14  14  14 14
 
-Tabelle 45: Mapping KBV_PR_ERP_Prescription
+15
 
-Tabelle 46: Referenzierte Instanzen KBV_PR_ERP_Prescription
+15  15  15  15  16
 
-Tabelle 47: Mapping KBV_PR_ERP_PracticeSupply
-
-Tabelle 48: Referenzierte Instanzen KBV_PR_ERP_PracticeSupply
-
-Tabelle 49: Mapping KBV_PR_ERP_Composition  Tabelle 50: Referenzierte Instanzen KBV_PR_ERP_Composition  Tabelle 51: Mapping KBV_PR_ERP_Bundle
-
-10  10  11  11  11  11  11  12  12  12  12  12  13  13  13  13  14  14  14  14  15  15  15  15  15  16
-
-16  16  16  17  17  17  17  17  17  18  18  18  18 18  24  26  28  29  35  36
-
-38  39  40
-
-41  42
+16  16  16  17  17  17  17  17  17  18  18  18  18  18  24  26  28  29  35  36  38  39  40  41  42
 
 
 ---
@@ -1323,11 +1305,10 @@ Verordnungen für Sonstige Kostenträger (z.B. Bundespolizei) können erst ab de
 
 ausgestellt werden.
 
-**PFLICHTFUNKTION ERP**
-
-**P36-04** Verwendung der Profile und des Algorithmus zur Textgenerierung von HL7® Deutschland zur
-
-Angabe einer Dosieranweisung
+|  | **PFLICHTFUNKTION** | **ERP** |
+|---|---|---|
+| **P36-04** | Verwendung | der Profile und des Algorithmus zur Textgenerierung von HL7® Deutschland zur |
+|  | Angabe | einer Dosieranweisung |
 
 Die Profile von HL7® Deutschland zur Abbildung einer Dosieranweisung müssen entsprechend des FHIR®  Implementation Guide für medikationsbezogene Anwendungsfälle im deutschen Gesundheitswesen
 
@@ -1349,7 +1330,7 @@ Text, der sich aus einer strukturierten Dosieranweisung ableitet, entlang des di
 
 1. Für die Umsetzung der Dosieranweisung im E-Rezept müssen die folgenden FHIR®-Ressourcen (inkl.  Extensions, ValueSets, CodeSystems) der HL7® Deutschland in der Version 1.0.0 gemäß dem
 
-Implementation Guide [Medication IG DE] genutzt werden:  Profil DosageDgMP
+PFLICHTFUNKTION ERP Verwendung der Profile und des Algorithmus zur Textgenerierung Angabe einer Dosieranweisung Implementation Guide [Medication IG DE] genutzt werden:  Profil DosageDgMP
 
 
 ---
@@ -1974,54 +1955,69 @@ Bestandteile einer
 
 **KBV_PR_ERP_PRESCRIPTION**
 
-| **Daten** |  | **ID** | **gemäß** |
-|---|---|---|---|
-|  |  | **Tabelle** | **58** |
-|  | Ausstellungsdatum | 80 |  |
-| Noctu |  | 82 |  |
-| SER |  | 85 |  |
-|  | Zuzahlungsstatus | 77 |  |
-| Aut | idem | 102 |  |
-|  | Abgabehinweis | 105 |  |
-| Anzahl | der verordneten | 113 |  |
-| Packungen |  |  |  |
-|  | eMP-Identifier | 188 |  |
+**Daten**
+
+Ausstellungsdatum
+
+Noctu
+
+SER
+
+Zuzahlungsstatus
+
+Aut idem
+
+Abgabehinweis
+
+Anzahl der verordneten  Packungen
+
+eMP-Identifier
+
+**ID gemäß**  **Tabelle 58**
+
+80
+
+82
+
+85
+
+77
+
+102
+
+105
+
+113
+
+188
 
 **FHIR®-Mapping**
 
-**Bedingung**  **(Feldnr. = IDs gemäß Tabelle 58)**
-
 MedicationRequest.authoredOn
 
-MedicationRequest.extension:N
+MedicationRequest.extension:N otdienstgebuehr.value[x]:valueB oolean
 
-otdienstgebuehr.value[x]:valueB oolean
+MedicationRequest.extension:S ER.value[x]:valueBoolean
 
-MedicationRequest.extension:S
-
-ER.value[x]:valueBoolean
-
-MedicationRequest.extension:Z WENN
-
-uzahlungsstatus.value[x]:valueC das Feld 7 gleich "GKV" oder
-
-oding
-
-"BG" oder "SKT" oder "UK" ist,  DANN  ist dieses Feld Pflicht.
-
-ANSONSTEN  ist dieses Feld optional.
+MedicationRequest.extension:Z uzahlungsstatus.value[x]:valueC oding
 
 MedicationRequest.substitution .allowed[x]:allowedBoolean
 
 MedicationRequest.note.text
 
-MedicationRequest.dispenseRe
+MedicationRequest.dispenseRe quest.quantity.value
 
-quest.quantity.value
+MedicationRequest.basedOn
 
-MedicationRequest.basedOn WENN  KEIN "Sprechstundenbedarf/  Praxisbedarf“ " verordnet wird,
+**Bedingung**  **(Feldnr. = IDs gemäß Tabelle 58)**
 
-Aut idem Anzahl der verordneten ID gemäß Tabelle 58DANN  kann dieses Feld angegeben  werden.  ANSONSTEN  darf es nicht gesetzt werden.
+WENN  das Feld 7 gleich "GKV" oder  "BG" oder "SKT" oder "UK" ist,  DANN  ist dieses Feld Pflicht.
+
+ANSONSTEN  ist dieses Feld optional.
+
+WENN  KEIN "Sprechstundenbedarf/  Praxisbedarf“ " verordnet wird,
+
+DANN  kann dieses Feld angegeben  werden.  ANSONSTEN  darf es nicht gesetzt werden.
 
 
 ---
@@ -2171,17 +2167,17 @@ ANSONSTEN  darf es nicht gesetzt werden.
 
 **KBV_PR_ERP_PRESCRIPTION**
 
-| Nenner |  | 89 |
-|---|---|---|
-|  | Mehrfachverordnung |  |
-| Beginn | Einlösefrist der | 90 |
-| Verordnung |  |  |
-| Ende | Einlösefrist der | 91 |
-| Verordnung |  |  |
-| Verschreiber-ID |  | 155 |
-| Patienten-ID |  | 189 |
-| BtM-Angaben |  | 160 |
-|  | BtM-Sonderkennzeichen | 161 |
+| Nenner | 89 |
+|---|---|
+| Mehrfachverordnung |  |
+| Beginn Einlösefrist | der 90 |
+| Verordnung |  |
+| Ende Einlösefrist | der 91 |
+| Verordnung |  |
+| Verschreiber-ID | 155 |
+| Patienten-ID | 189 |
+| BtM-Angaben | 160 |
+| BtM-Sonderkennzeichen | 161 |
 
 Verschreiber-ID
 
@@ -2269,27 +2265,25 @@ WENN  das Feld "Reichdauer des  Substitutionsmittels " angegeben  ist  DANN  mus
 
 Ergänzende Angaben
 
-|  | Ergänzende | Angaben 165 |
-|---|---|---|
-| zum | Substitutionsmittel |  |
-|  | T-Rezept-Angaben | 166 |
-| Off-Label |  | 167 |
-| Gebärfähige | Frau | 168 |
-| Wert | der Reichdauer | des T- 169 |
-|  | Arzneimittels |  |
-| Einheit | der Reichdauer | des 170 |
-|  | T-Arzneimittels |  |
-| Einhaltung |  | 171 |
-|  | Sicherheitsmaßnahmen |  |
-|  | Aushändigung | 172 |
-|  | Informationsmaterialien |  |
-| Erklärung | Sachkenntnis | 173 |
+| Ergänzende | Angaben 165 |
+|---|---|
+| zum Substitutionsmittel |  |
+| T-Rezept-Angaben | 166 |
+| Off-Label | 167 |
+| Gebärfähige | Frau 168 |
+| Wert der | Reichdauer des T- 169 |
+| Arzneimittels |  |
+| Einheit der | Reichdauer des 170 |
+| T-Arzneimittels |  |
+| Einhaltung | 171 |
+| Sicherheitsmaßnahmen |  |
+| Aushändigung | 172 |
+| Informationsmaterialien |  |
+| Erklärung | Sachkenntnis 173 |
 
 **Tabelle 45: Mapping KBV_PR_ERP_Prescription**
 
-2. Die Software muss es ermöglichen
-
-befüllen.  a) Pflichtfelder sind unter Berücksichtigung der Vorgaben  [EXT_ITA_VGEX_Anforderungskatalog_AVWG] zu befüllen.
+2. Die Software muss es ermöglichen befüllen.  a) Pflichtfelder sind unter Berücksichtigung der Vorgaben  [EXT_ITA_VGEX_Anforderungskatalog_AVWG] zu befüllen.
 
 MedicationRequest.extension:
 
@@ -2339,7 +2333,7 @@ Rezept.extension:ErklaerungSac hkenntnis.value[x]:valueBoolean .value
 
 , alle unter Akzeptanzkriterium (1) aufgeführten Datenfelder zu
 
-zum Substitutionsmittel Gebärfähige Frau Wert der Reichdauer des T- Einheit der Reichdauer des Erklärung Sachkenntnis gemäß
+Gebärfähige Frau Wert der Reichdauer des T- Einheit der Reichdauer des Erklärung Sachkenntnis gemäß
 
 
 ---
@@ -4291,9 +4285,11 @@ Sachkenntnis (ID 173)
 | PZN | rzneimittelkategorie.val |
 | KBV_PR_ERP_Medication_ | ue[x]:valueCoding.code |
 
-Ingredient  KBV_PR_ERP_Medication_ Compounding  KBV_PR_ERP_Medication_ FreeText
+Ingredient  KBV_PR_ERP_Medication_ Compounding  KBV_PR_ERP_Medication_
 
-KBV_PR_ERP_Prescription
+FreeText
+
+KBV_PR_ERP_Prescription MedicationRequest.ext ension:Notdienstgebue hr.value[x]:valueBoolea
 
 KBV_PR_ERP_Medication_ PZN  KBV_PR_ERP_Medication_  Ingredient  KBV_PR_ERP_Medication_ Compounding  KBV_PR_ERP_Medication_ FreeText
 
@@ -4311,7 +4307,7 @@ KBV_PR_ERP_Prescription
 
 KBV_PR_ERP_Prescription
 
-MedicationRequest.ext ension:Notdienstgebue hr.value[x]:valueBoolea n
+n
 
 Medication.extension:I mpfstoff.value[x]:value Boolean
 
@@ -4705,9 +4701,10 @@ gemäß
 
 Sofern auf dem Ausdruck Verordnungen mit verschiedenen Ausstellungsdaten vorhanden sind, so ist  immer das aktuellste Datum aufzudrucken. Das Datum auf dem Ausdruck hat einen rein informativen  Charakter und führt zu keinen Änderungen der Informationen in de Dies kann bspw. bei einem erneuten Ausdruck einer Verordnung aufgrund des Verlustes des  vorangegangenen Papierausdrucks erfolgen.
 
-**PFLICHTFUNKTION ERP**
-
-**P6-27** Aufzudruckende Verordnungsinformationen für eine Verordnung aus den Preis Produktverzeichnissen nach § 131 SGB V (PZN-bezogene Verordnung)
+|  | **PFLICHTFUNKTION ERP** |  |  |
+|---|---|---|---|
+| **P6-27** | Aufzudruckende | Verordnungsinformationen für | eine Verordnung aus den Preis- und |
+|  | Produktverzeichnissen | nach § 131 SGB V | (PZN-bezogene Verordnung) |
 
 Auf dem Ausdruck müssen die notwendigen Zugriffsinformationen eines oder mehrerer ERPs enthalten  sein. Je nach Verordnungssituation sind dabei verschiedene Informationen aufzudrucken.
 
@@ -4755,11 +4752,9 @@ BtM-Rezept handelt (ID 81 gleich „0 (ID 88)
 
 (ID 113)
 
-Tabelle 58) in der Form - und
+Tabelle 58) in der Form 1“):
 
-1“):
-
-(ID 81 gleich „02“)
+Aufzudruckende Verordnungsinformationen für eine Verordnung aus den Preis Produktverzeichnissen nach § 131 SGB V (PZN(ID 81 gleich „02“)
 
 
 ---
@@ -5494,13 +5489,13 @@ ANSONSTEN  darf das Feld nicht übertragen werden.
 
 ---
 
-| **ID 1** | **2 3 4 5** | **6** | **FELDNAME** |
-|---|---|---|---|
-|  |  | **(GRAU** | **= FELDGRUPPE)** |
-| 12 | x | WOP |  |
-| **72** | **x** |  | **Unfallinformationen** |
-| 73 | x |  | Unfallkennzeichen |
-| 74 | x |  | Unfalltag |
+| **ID 1** | **2 3 4 5** | **6 FELDNAME** |
+|---|---|---|
+|  |  | **(GRAU = FELDGRUPPE)** |
+| 12 | x | WOP |
+| **72** | **x** | **Unfallinformationen** |
+| 73 | x | Unfallkennzeichen |
+| 74 | x | Unfalltag |
 
 **LÄNGE**
 
@@ -5548,7 +5543,7 @@ WENN  das Feld "Unfallkennzeichen" gleich "1" oder "2"  ist,  DANN  ist dieses F
 
 ANSONSTEN  darf dieses Feld nicht übertragen werden.
 
-(GRAU = FELDGRUPPE) WENN in diesem Feld ein Datum angegeben wird,  DANN  darf das Datum nicht nach dem Ausstellungs- datum liegen.
+WENN in diesem Feld ein Datum angegeben wird,  DANN  darf das Datum nicht nach dem Ausstellungs- datum liegen.
 
 
 ---
@@ -5638,19 +5633,39 @@ werden.
 
 ---
 
-| **ID** | **1 2 3 4** | **5 6** | **FELDNAME** |
-|---|---|---|---|
-|  |  | **(GRAU** | **= FELDGRUPPE)** |
-| **13** | **x** |  | **Versichertenstatus** |
-| 14 | x |  | Versichertenart |
-| 15 | x |  | Besondere |
-|  |  |  | Personengruppe |
-| 16 | x |  | DMP-Kennzeichen |
-| 17 | x |  | Kennzeichen |
-|  |  |  | Rechtsgrundlage |
-| 26 | x |  | Versicherungsschutz |
-|  |  | Ende |  |
-| **18** | **x** |  | **Versicherter** |
+**ID 1 2 3**
+
+**13**  **x**
+
+14
+
+x 15
+
+x 16
+
+x 17
+
+x 26
+
+x
+
+**18 x**
+
+**4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
+
+**Versichertenstatus**
+
+Versichertenart
+
+Besondere  Personengruppe
+
+DMP-Kennzeichen
+
+Kennzeichen  Rechtsgrundlage
+
+Versicherungsschutz  Ende
+
+**Versicherter**
 
 **LÄNGE**
 
@@ -5704,7 +5719,7 @@ Dieses Feld enthält das Datum des Endes  des Versicherungsschutzes, wenn die  D
 
 **WENN**  **KEIN "Sprechstundenbedarf" verordnet wird,**
 
-(GRAU = FELDGRUPPE) **DANN**  **ist dieser Block Pflicht.**
+**DANN**  **ist dieser Block Pflicht.**
 
 
 ---
@@ -7743,17 +7758,35 @@ ANSONSTEN  darf es nicht angegeben werden.
 
 ---
 
-| **ID 1** | **2 3 4 5** | **6 FELDNAME** |  | **LÄNGE** |
-|---|---|---|---|---|
-|  |  | **(GRAU** | **= FELDGRUPPE)** |  |
-| 187 | x | Metadaten | zum |  |
-|  |  |  | Algorithmus der |  |
-|  |  |  | Textgenerierung |  |
-| **109** | **x** |  | **Packungsgröße** |  |
-| 110 | x |  | Packungsgröße nach | N- Kodiert |
-|  |  |  | Bezeichnung |  |
-| 111 | x |  | Packungsgröße nach | 1..7 |
-|  |  | abgeteilter | Menge |  |
+**ID 1 2 3**
+
+187
+
+**109**
+
+**x**
+
+110
+
+111
+
+**4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
+
+x   Metadaten zum  Algorithmus der  Textgenerierung
+
+**Packungsgröße**
+
+x
+
+Packungsgröße nach N- Bezeichnung
+
+x
+
+Packungsgröße nach  abgeteilter Menge
+
+**LÄNGE**
+
+Kodiert 1..7
 
 **WIE-** **DERH.**
 
@@ -7797,7 +7830,7 @@ ODER das Feld "Packungsgröße nach N-Bezeichnung"  nicht angegeben ist, ODER da
 
 oder „N2“ oder „N3“ ist, ODER das Feld "Einheit"
 
-(GRAU = FELDGRUPPE) Metadaten zum Packungsgröße nach N- abgeteilter Menge angegeben ist,  DANN  ist dieses Feld Pflicht.  ANSONSTEN  ist dieses Feld optional.
+angegeben ist,  DANN  ist dieses Feld Pflicht.  ANSONSTEN  ist dieses Feld optional.
 
 
 ---

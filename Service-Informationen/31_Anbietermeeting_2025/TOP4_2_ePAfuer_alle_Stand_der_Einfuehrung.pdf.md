@@ -52,10 +52,10 @@ DR. PHILIPP STACHWITZ, STABSBEREICHSLEITER DIGITALISIERUNG
 
 ---
 
-|  | **Daten** | **der** |  | **gematik** | **–** | **Aktuelle Nutzungszahlen** |
-|---|---|---|---|---|---|---|
-| **EPA** | **FÜR ALLE** | **- STAND** | **DER** | **EINFÜHRUNG** |  |  |
-|  | KBV-ANBIETERMEETING, | | 18. | SEPTEMBER 2025 |  |  |
+| **Daten** | **der** | **gematik – Aktuelle Nutzungszahlen** |
+|---|---|---|
+| **EPA FÜR** | **ALLE - STAND** | **DER EINFÜHRUNG** |
+|  | KBV-ANBIETERMEETING, | 18. SEPTEMBER 2025 |
 
 Daten der gematik – - **DATEN GEMATIK**
 
@@ -193,9 +193,11 @@ Daten der gematik – - **DATEN GEMATIK**
 
 ## GOP 01647/01648 zusetzen12.
 
+- **BLICK IN DIE ARZTPRAXIS**
+
 ## BMP suchen
 
-## BMP in ePA einstellen - **BLICK IN DIE ARZTPRAXIS**
+## BMP in ePA einstellen
 
 
 ---
@@ -252,7 +254,7 @@ QUELLE: KBV-ANBIETERMEETING, 11.09.2024 -
 
 -
 
--
+## Unmittelbar mit einem Klick -
 
 -
 
@@ -260,8 +262,6 @@ QUELLE: KBV-ANBIETERMEETING, 11.09.2024 -
 - Einwilligung oder
 
 - Des Widerspruchs des(der) Patient(in)
-
-## Unmittelbar mit einem Klick
 
 
 ---

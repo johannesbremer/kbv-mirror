@@ -301,10 +301,7 @@ Wenn der Termin mit dem Status **„Absage durch**
 
 # Sozialgesetzbuch (SGB V) ist die Kassenärztliche  Bundesvereinigung verpflichtet, die Nutzung der in
 
-# ihrem elektronischen System bereitgestellten  Informationen durch Dritte zu ermöglichen Hierzu muss sie eine Schnittstelle auf Basis
-
-# international anerkannter Standards  veröffentlichen.
-
+# ihrem elektronischen System bereitgestellten  Informationen durch Dritte zu ermöglichen Hierzu muss sie eine Schnittstelle auf Basis international anerkannter Standards  veröffentlichen.
 4
 
 
@@ -349,10 +346,7 @@ Wenn der Termin mit dem Status **„Absage durch**
 
 ---
 
-# Spezifikationen für Anwendungen
-
-# der sicheren digitalen Kommunikation
-
+# Spezifikationen für Anwendungen der sicheren digitalen Kommunikation
 Befund
 
 Auftrag
@@ -366,10 +360,7 @@ Veröffentlichungen unter: [https://partnerportal.kv-telematik.de/display/KDK/KI
 
 ---
 
-# Testmöglichkeiten
-
-# in der Referenzumgebung der Telematikinfrastruktur
-
+# Testmöglichkeiten in der Referenzumgebung der Telematikinfrastruktur
 Befund
 
 Auftrag
@@ -381,10 +372,7 @@ Veröffentlichung der Adressen unter: [https://partnerportal.kv-telematik.de/spa
 
 ---
 
-# Auditangebote
-
-# der kv.digital für die SoftwareHersteller
-
+# Auditangebote der kv.digital für die SoftwareHersteller
 Befund
 
 Auftrag
@@ -396,10 +384,7 @@ weitere Informationen unter:  [https://partnerportal.kv-telematik.de/display/KDK
 
 ---
 
-# Interoperabilitätsworkshops
-
-# für e Arztbriefund eNachricht
-
+# Interoperabilitätsworkshops für e Arztbriefund eNachricht
 
 ---
 

@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | BUNDESVEREINIGUNG  DEZERNAT DIGITALISIERUNG UND IT  31. MÄRZ 2026   VERSION: 1.21   DOKUMENTENSTATUS: IN |
+|  | **BUNDESVEREINIGUNG  DEZERNAT DIGITALISIERUNG UND IT  31. MÄRZ 2026   VERSION: 1.21   DOKUMENTENSTATUS: IN** |
 |---|---|
 
 # PRUEFPAKET EDMP-KHK
@@ -151,7 +151,7 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung ohn
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.21 | 31.03.2026 | KBV | Anpassung der Prüffälle an    Anpassung Prüffall 7540 | Schnittstellenversion    Änderung der | 9, 13        26 |
 | 1.20 | 15.08.2023 | KBV | Datumsanpassungen der  Anpassung der | Datumsanpassungen | 13 |
@@ -181,7 +181,7 @@ DOKUMENTENHISTORIE
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 | 1.12 | 13.02.2018 | KBV | Anpassung der Prüffälle an  Aufnahme eines Testfalls | Schnittstellenversion  Schnittstellenversion | 13ff      27ff |
 | 1.11 | 23.05.2017 | KBV | Komplettüberarbeitung des | Aktualisierung der | Alle |
 
@@ -401,17 +401,17 @@ erforderlichen Angaben  “ bereitgestellt. Die XML-
 
 Folgende Angaben sind für die Zertifizierung zu verwenden:
 
-| BEZEICHNUNG | INHALT |
+| **BEZEICHNUNG** | **INHALT** |
 |---|---|
-| Betriebsstättennummer (BSNR) | 391234511 |
-| BSNR-Bezeichnung | Praxis Dr. med. Heribert Topp |
-| Lebenslange Arztnummer (LANR) | 838382202 |
-| Arztname | Dr. med. Hans Topp-Glücklich |
-| Straße | Musterstr. |
-| Hausnummer | 1 |
-| PLZ/Ort | 64283 Darmstadt |
-| Telefon | 06151 / 1111111 |
-| Telefax | 06151 / 2222222 |
+| **Betriebsstättennummer (BSNR)** | 391234511 |
+| **BSNR-Bezeichnung** | Praxis Dr. med. Heribert Topp |
+| **Lebenslange Arztnummer (LANR)** | 838382202 |
+| **Arztname** | Dr. med. Hans Topp-Glücklich |
+| **Straße** | Musterstr. |
+| **Hausnummer** | 1 |
+| **PLZ/Ort** | 64283 Darmstadt |
+| **Telefon** | 06151 / 1111111 |
+| **Telefax** | 06151 / 2222222 |
 
 **Tabelle 1: Praxisangaben**
 
@@ -424,14 +424,14 @@ Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der B
 
 und zwei Begleitdateien einzureichen.
 
-| BEZEICHNUNG | INHALT |
+| **BEZEICHNUNG** | **INHALT** |
 |---|---|
-| Krankenhaus-IK | 856215715 |
-| Name des Krankenhauses | Test-Krankenhaus, Pneumologie |
-| Straße | Am Wehr |
-| Hausnummer | 20 |
-| Postleitzahl und Ort | 10437 Berlin |
-| Telefon | 06151 / 3333333 |
+| **Krankenhaus-IK** | 856215715 |
+| **Name des Krankenhauses** | Test-Krankenhaus, Pneumologie |
+| **Straße** | Am Wehr |
+| **Hausnummer** | 20 |
+| **Postleitzahl und Ort** | 10437 Berlin |
+| **Telefon** | 06151 / 3333333 |
 
 **Tabelle 2: Krankenhausangaben**
 
@@ -456,14 +456,14 @@ Der Empfänger der elektronischen Dokumentationen muss, soweit möglich, automat
 
 Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
-| PRÜFFALL-ID | NAME | VERZEICHNISNAME |
+| **PRÜFFALL-ID** | **NAME** | **VERZEICHNISNAME** |
 |---|---|---|
-| 7511 | Maria Eichendorf | XML_16 |
-| 7512 | Regina Unbehandelt | XML_17 |
-| 7540 | Lija Malta | XML_36 |
-| TDV7518 | Brigitte Althaus | XML_05 |
-| Ersatzverfahren | | |
-| 6513 | Ingrid Schimmelpfennig- | Ersatzverfahren (s. 4.1) |
+| **7511** | Maria Eichendorf | XML_16 |
+| **7512** | Regina Unbehandelt | XML_17 |
+| **7540** | Lija Malta | XML_36 |
+| **TDV7518** | Brigitte Althaus | XML_05 |
+| **Ersatzverfahren** | | |
+| **6513** | Ingrid Schimmelpfennig- | Ersatzverfahren (s. 4.1) |
 
 **Tabelle 3: Auflistung der Prüffälle**
 
@@ -479,11 +479,11 @@ Hammerschmidt Federmannssohn
 
 |  |  |
 |---|---|
-| Prüffall-ID | 7511 |
-| Testziel | Anlage einer Erst- und einer Verlaufsdokumentation |
-| Voraussetzung |  |
-| Prüfunterlagen | KHK-Dokumentationsunterlagen |
-| Hinweis |  |
+| **Prüffall-ID** | 7511 |
+| **Testziel** | Anlage einer Erst- und einer Verlaufsdokumentation |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | KHK-Dokumentationsunterlagen |
+| **Hinweis** |  |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -493,22 +493,22 @@ Die Versichertendaten von Maria Eichendorf (XML_16) einlesen und speichern.
 
 - **2.** **Anlegen einer Erst- und einer Verlaufsdokumentation**
 
-| INDIKATIONSÜBERGREIFENDE | | |
+| **INDIKATIONSÜBERGREIFENDE** | | |
 |---|---|---|
-| Administrative Daten | Erstdokumentation | Verlaufsdokumentation |
+| **Administrative Daten** | **Erstdokumentation** | **Verlaufsdokumentation** |
 | DMP-Fallnummer | 7511 | 7511 |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum | 06.10.2023  15.mm.jjjj | 06.12.2023  15.mm.jjjj |
 | Einschreibung wegen | KHK | KHK |
 | Geschlecht | Weiblich | Weiblich |
-| Allgemeine Anamnese- und Befunddaten | | |
+| **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 2,01 m | 2,01 m |
 | Körpergewicht | 126 kg | 120 kg |
 | Blutdruck (systolisch / diastolisch) | 300 / 180 mmHg | 250 / 90 mmHg |
 | Raucher | Ja | Nein |
 | Begleiterkrankungen | Fettstoffwechselstörung, | Fettstoffwechselstörung |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Vom Patienten gewünschte | Tabakverzicht, |  |
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung | 06.10.2023 | 06.12.2023  15.mm.jjjj |
@@ -517,27 +517,27 @@ DATEN Informationsangebote der Krankenkasse Arterielle Hypertonie, AVK, Chronisc
 
 ---
 
-| INDIKATIONS | | |
+| **INDIKATIONS** | | |
 |---|---|---|
-| Anamnese- und Befunddaten | Erstdokumentation | Verlaufsdokumentation |
+| **Anamnese- und Befunddaten** | **Erstdokumentation** | **Verlaufsdokumentation** |
 | Angina pectoris | CCS I | CCS III |
 | LDL-Cholesterin | Nicht bestimmt | 180 mg/dl |
-| Relevante Ereignisse | | |
+| **Relevante Ereignisse** | | |
 | Relevante Ereignisse | Instabile Angina pectoris | Nein |
 | Herzinfarkt innerhalb der letzten 12 Monate | Ja | Ja |
 | Ungeplante stationäre Behandlung wegen KHK |  | 99 |
-| Medikamente | | |
+| **Medikamente** | | |
 | Thrombozytenaggregationshemmer | Ja | Orale Antikoagulation |
 | Betablocker | Ja | Nein, Kontraindikation |
 | ACE-Hemmer | ARB | Kontraindikation |
 | Aktuelle Statin-Dosis | Hoch | Moderat |
 | Aktuelle Therapiestrategie Statin | Feste Hochdosis- Strategie      Strategie der festen Dosis  (hoch oder moderat) | Zielwert-Strategie |
 | Grund für niedrige Statin-Dosis |  | Aufdosierungsphase |
-| Schulung | | |
+| **Schulung** | | |
 | Schulung bereits vor Einschreibung in DMP | Ja |  |
 | Schulung empfohlen (bei aktueller | Ja | Nein |
 | Empfohlene Schulung(en) wahrgenommen |  | Nein |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Regelmäßiges sportliches Training | Nein | Ja |
 
 / 31. März 2026
@@ -551,11 +551,11 @@ PEZIFISCHE DATEN seit der letzten Dokumentation Dokumentation)
 
 |  |  |
 |---|---|
-| Prüffall-ID | 7512 |
-| Testziel | Anlage einer Erst- und einer Verlaufsdokumentation |
-| Voraussetzung |  |
-| Prüfunterlagen | KHK-Dokumentationsunterlagen |
-| Hinweis |  |
+| **Prüffall-ID** | 7512 |
+| **Testziel** | Anlage einer Erst- und einer Verlaufsdokumentation |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | KHK-Dokumentationsunterlagen |
+| **Hinweis** |  |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -565,22 +565,22 @@ Die Versichertendaten von Regina Unbehandelt (XML_17) einlesen und speichern
 
 - **2.** **Anlegen einer Erst- und einer Verlaufsdokumentation**
 
-| INDIKATIONSÜBERGREIFENDE | | |
+| **INDIKATIONSÜBERGREIFENDE** | | |
 |---|---|---|
-| Administrative Daten | Erstdokumentation | Verlaufsdokumentation |
+| **Administrative Daten** | **Erstdokumentation** | **Verlaufsdokumentation** |
 | DMP-Fallnummer | 7512 | 7512 |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  | Ja |
 | Datum | 06.10.2023 | 06.12.2023  15.mm.jjjj |
 | Einschreibung wegen | KHK | KHK |
 | Geschlecht | Weiblich | Weiblich |
-| Allgemeine Anamnese- und Befunddaten | | |
+| **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 1,71 m | 1,70 m |
 | Körpergewicht | 068 kg | 071 kg |
 | Blutdruck | 140 / 92 mmHg | 155 / 100 mmHg |
 | Raucher | Nein | Nein |
 | Begleiterkrankungen | Keine der genannten | Keine der genannten |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Vom Patienten gewünschte | Ernährungsberatung |  |
 | Dokumentationsintervall | Quartalsweise | Quartalsweise |
 | Datum der Erstellung | 06.10.2023 | 06.12.2023  15.mm.jjjj |
@@ -589,27 +589,27 @@ DATEN Informationsangebote der Krankenkasse Erkrankungen Erkrankungen
 
 ---
 
-| INDIKATIONS | | |
+| **INDIKATIONS** | | |
 |---|---|---|
-| Anamnese- und Befunddaten | Erstdokumentation | Verlaufs |
+| **Anamnese- und Befunddaten** | **Erstdokumentation** | **Verlaufs** |
 | Angina pectoris | Nein | CCS II |
 | LDL-Cholesterin | Nicht bestimmt | 18,3 mmol/l |
-| Relevante Ereignisse | | |
+| **Relevante Ereignisse** | | |
 | Relevante Ereignisse | Instabile Angina pectoris | Nein |
 | Herzinfarkt innerhalb der letzten 12 Monate | Nein | Nein |
 | Ungeplante stationäre |  | 99 |
-| Medikamente | | |
+| **Medikamente** | | |
 | Thrombozytenaggregationshemmer | Orale Antikoagulation | Nein |
 | Betablocker | Nein | Nein, |
 | ACE-Hemmer | Nein, ARB | Nein |
 | Aktuelle Statin-Dosis | Niedrig | Kein Statin |
 | Aktuelle Therapiestrategie Statin | Keine Strategie |  |
 | Grund für niedrige Statin-Dosis | Kontraindikation gegen  hohe oder moderate  Dosis |  |
-| Schulung | | |
+| **Schulung** | | |
 | Schulung bereits vor Einschreibung in DMP | Nein |  |
 | Schulung empfohlen (bei aktueller | Nein | Nein |
 | Empfohlene Schulung(en) wahrgenommen |  | Nein |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Regelmäßiges sportliches Training | Nicht möglich | Nein |
 
 / 31. März 2026
@@ -623,11 +623,11 @@ PEZIFISCHE DATEN Behandlung wegen KHK seit der letzten Dokumentation Dokumentati
 
 |  |  |
 |---|---|
-| Prüffall-ID | 6513 |
-| Testziel | Einschreibung |
-| Voraussetzung |  |
-| Prüfunterlagen | 1. KHK-Dokumentationsunterlagen 2. zusätzlich DM2- und/oder Asthma bronchiale-Dokumentationsunterlagen |
-| Hinweis | Sofern das System eine Zulassung für die Indikationen DM2 und/oder Asthma |
+| **Prüffall-ID** | 6513 |
+| **Testziel** | Einschreibung |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | 1. KHK-Dokumentationsunterlagen 2. zusätzlich DM2- und/oder Asthma bronchiale-Dokumentationsunterlagen |
+| **Hinweis** | Sofern das System eine Zulassung für die Indikationen DM2 und/oder Asthma |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -639,16 +639,16 @@ Die Versichertendaten von Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn
 
 - **2.** **Anlegen einer Erst- und einer Verlaufsdokumentation**
 
-| INDIKATIONSÜBERGREIFENDE | | |
+| **INDIKATIONSÜBERGREIFENDE** | | |
 |---|---|---|
-| Administrative Daten | Erstdokumentation | Verlaufsdokumentation |
+| **Administrative Daten** | **Erstdokumentation** | **Verlaufsdokumentation** |
 | DMP-Fallnummer | 6513 | 6513 |
 | Krankenhaus-IK | 856215715 | 856215715 |
 | Dokumentation in Vertretung erstellt |  | Ja |
 | Datum | 06.10.2023 | 06.12.2023  15.mm.jjjj |
 | Einschreibung wegen | Diabetes mellitus Typ 2, | Diabetes mellitus Typ 2, |
 | Geschlecht | Weiblich | Weiblich |
-| Allgemeine Anamnese- und Befunddaten | | |
+| **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 1,75 m | 1,75 m |
 | Körpergewicht | 064 kg | 062 kg |
 | Blutdruck | 120 / 70 mmHg | 124 / 76 mmHg |
@@ -678,16 +678,16 @@ Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider bronchiale 
 | Ulkus | oberflächlich |  |
 |  | nein | nicht untersucht |
 | DM2 | Injektionsstellen | Unauffällig |
-| Behandlungsplanung | 06.12.2023  15.mm.jjjj | INDIKATIONS |
+| **Behandlungsplanung** | 06.12.2023  15.mm.jjjj | **INDIKATIONS** |
 | Begleiterkrankungen | Nach Funktion P1-47 des | Nach Funktion P1-47 des |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Vom Patienten gewünschte | Tabakverzicht |  |
 | Dokumentationsintervall | Quartalsweise | Quartalsweise |
 | Datum der Erstellung | 06.10.2023 | 06.12.2023  15.mm.jjjj |
 
-| INDIKATIONS | | | |
+| **INDIKATIONS** | | | |
 |---|---|---|---|
-| Anamnese- und Befunddaten | Erstdokumentation | Verlaufsdokumentation | |
+| **Anamnese- und Befunddaten** | **Erstdokumentation** | **Verlaufsdokumentation** | |
 | Asthma | In den letzten 4 Wochen: Häufigkeit | Keine | Häufiger als 2 mal |
 | Asthma | In den letzten 4 Wochen: | Häufiger als 2 mal | < 1 mal wöchentlich |
 | Asthma | In den letzten 4 Wochen: | Ja | Nein |
@@ -721,7 +721,7 @@ Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider bronchiale 
 |  |  | Ulkus | nein |
 |  |  | (Wund)Infektion | nein |
 |  |  | Injektionsstellen | Unauffällig |
-| Behandlungsplanung | 06.12.2023  15.mm.jjjj | INDIKATIONS | Anamnese- und Befunddaten |
+| **Behandlungsplanung** | 06.12.2023  15.mm.jjjj | **INDIKATIONS** | **Anamnese- und Befunddaten** |
 | Weiteres Risiko für Ulkus |  |  |  |
 |  |  |  |  |
 | Begleiterkrankungen | Nach Funktion P1-47 des | Nach Funktion P1-47 des |  |
@@ -744,7 +744,7 @@ Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider bronchiale 
 | DM2 | Ulkus | nein | oberflächlich |
 | DM2 | (Wund)Infektion | nein | nicht untersucht |
 |  | | | |
-| Behandlungsplanung | 06.12.2023  15.mm.jjjj | INDIKATIONS | Anamnese- und Befunddaten |
+| **Behandlungsplanung** | 06.12.2023  15.mm.jjjj | **INDIKATIONS** | **Anamnese- und Befunddaten** |
 | Weiteres Risiko für Ulkus |  |  |  |
 |  |  |  |  |
 | Begleiterkrankungen | Nach Funktion P1-47 des | Nach Funktion P1-47 des |  |
@@ -776,7 +776,7 @@ Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatis
 | DM2 | Spätfolgen | Diabetische | Diabetische |
 | KHK | Angina pectoris | CCS IV | CCS III |
 | KHK | LDL-Cholesterin | Nicht bestimmt | 20,2 mmol/l |
-| Relevante Ereignisse | | | |
+| **Relevante Ereignisse** | | | |
 | Asthma | Ungeplante, auch notfallmäßige |  | 1 |
 | DM2 | Relevante Ereignisse | Keine der genannten | Herzinfarkt |
 | DM2 | Schwere Hypoglykämien seit der |  | 2 |
@@ -784,7 +784,7 @@ Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatis
 | KHK | Relevante Ereignisse | Nein | Herzinfarkt, |
 | KHK | Herzinfarkt innerhalb der letzten 12 | Ja | Ja |
 | KHK | Ungeplante stationäre Behandlung |  | 3 |
-| Medikamente | | | |
+| **Medikamente** | | | |
 | Asthma | Inhalative Glukokortikosteroide | Keine | Bei Bedarf |
 | Asthma | Inhalative lang wirksame Beta-2- | Keine | Kontraindikation |
 | Asthma | Kurz wirksame inhalative Beta-2- | Dauermedikation | Bei Bedarf |
@@ -814,7 +814,7 @@ Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatis
 |  | Kontraindikation | Keine |  |
 |  | Nein | Nein |  |
 |  | Ja | Nein |  |
-| Relevante Ereignisse | | | |
+| **Relevante Ereignisse** | | | |
 | DM2 | Metformin | Ja | Kontraindikation |
 | DM2 | Sonstige antidiabetische Medikation | Ja | Nein |
 | DM2 | SGLT2-Inhibitor | Nein | Kontraindikation |
@@ -843,11 +843,11 @@ Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatis
 | KHK | Schulung empfohlen (bei aktueller | Ja | Nein |
 | KHK | Empfohlene Schulung(en) |  | Bei letzter |
 |  |  |  |  |
-| DM2 | GLP-1-Rezeptoragonist | Schulung | Kontraindikation, Nein |
+| DM2 | GLP-1-Rezeptoragonist | **Schulung** | Kontraindikation, Nein |
 | DM2 | Thrombozytenaggregationshemmer | Nein | Kontraindikation, Nein |
 | KHK | Thrombozytenaggregationshemmer | Nein | Kontraindikation, Nein |
 | KHK | Betablocker | Ja | Kontraindikation |
-| Behandlungsplanung | | | |
+| **Behandlungsplanung** | | | |
 |  |  | Aktuelle Statin-Dosis | Niedrig |
 |  |  | Aktuelle Therapiestrategie Statin | Keine Strategie |
 |  |  | Grund für niedrige Statin-Dosis | Ablehnung durch |
@@ -874,7 +874,7 @@ Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatis
 | KHK | Aktuelle Statin-Dosis | Niedrig | Kein Statin |
 | KHK | Aktuelle Therapiestrategie Statin | Keine Strategie |  |
 | KHK | Grund für niedrige Statin-Dosis | Ablehnung durch |  |
-| Schulung | | | |
+| **Schulung** | | | |
 | Asthma | Asthma-Schulung empfohlen (bei | Ja | Nein |
 | Asthma | Asthma-Schulung schon vor | Ja |  |
 | Asthma | Empfohlene Schulung wahrgenommen |  | Ja |
@@ -885,7 +885,7 @@ Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatis
 | KHK | Schulung bereits vor Einschreibung in | Ja |  |
 | KHK | Schulung empfohlen (bei aktueller | Ja | Nein |
 | KHK | Empfohlene Schulung(en) |  | Bei letzter |
-| Behandlungsplanung | | | |
+| **Behandlungsplanung** | | | |
 | Asthma | Schriftlicher Selbstmanagementplan | Nein | Ja |
 | Asthma | Therapieanpassung | Keine | Steigerung der |
 | DM2 | HbA1c-Zielwert | Zielwert erreicht | Zielwert erreicht |
@@ -971,33 +971,33 @@ Netzhautuntersuchung seit der letzten Dokumentation für das Diabetische Fußsyn
 
 **2.2** **PRÜFFALL SYSTEMREAKTION**
 
-| INDIKATIONSÜBERGREIFENDE | | |
+| **INDIKATIONSÜBERGREIFENDE** | | |
 |---|---|---|
-| Administrative Daten | Erstdokumentation | Aktion |
+| **Administrative Daten** | **Erstdokumentation** | **Aktion** |
 | DMP-Fallnummer | 7514 |  |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum | 06.10.2023 |  |
 | Einschreibung wegen | KHK |  |
 | Geschlecht | Je nach Auswahl des |  |
-| Allgemeine Anamnese- und Befunddaten | | |
+| **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 2,51 m | Nr. 1 |
 | Körpergewicht | 301 kg | Nr. 2 |
 | Blutdruck | 47 / 29 mmHg | Nr. 3 |
 | Raucher | Ja |  |
 | Begleiterkrankungen |  | Nr. 4 |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Vom Patienten gewünschte Informationsangebote der |  |  |
-| 2.2.1 |  |  |
+| **2.2.1** |  |  |
 |  |  |  |
 
 |  |  |
 |---|---|
-| Prüffall-ID | 7514 |
-| Testziel | manche Fehleingaben nicht möglich sind. |
-| Voraussetzung | Patient oder Patientin ist mindestens 18 Jahre alt |
-| Prüfunterlagen | Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis - bzw.    Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
-| Hinweis | sind. |
+| **Prüffall-ID** | 7514 |
+| **Testziel** | manche Fehleingaben nicht möglich sind. |
+| **Voraussetzung** | Patient oder Patientin ist mindestens 18 Jahre alt |
+| **Prüfunterlagen** | Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis - bzw.    Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
+| **Hinweis** | sind. |
 
 Kontrolle der softwareseitigen Erkennung von Fehleingaben Fehlermeldungen.  Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben  bzw. Prüfung, dass Prüffall 7514 Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten: Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation:  DATEN Krankenkasse   15.mm.jjjj
 
@@ -1019,32 +1019,32 @@ Kontrolle der softwareseitigen Erkennung von Fehleingaben Fehlermeldungen.  Akti
 |  |  |  |
 |  |  | Ja, Nicht möglich |
 |  | | |
-| Aktion | Medikamente | Schulung |
+| **Aktion** | **Medikamente** | **Schulung** |
 | Dokumentationsintervall | Quartalsweise |  |
 | Datum der Erstellung | 06.10.2023 |  |
 
-INDIKATIONSSPEZIFISCHE DATEN Anamnese- und Befunddaten Angina pectoris Serum-Elektrolyte LDL-Cholesterin Relevante Ereignisse Relevante Ereignisse Herzinfarkt innerhalb der letzten 12 Monate Ungeplante stationäre notfallmäßige Behandlung wegen KHK seit der letzten Dokumentation Thrombozytenaggregationshemmer Betablocker ACE-Hemmer Aktuelle Statin-Dosis Aktuelle Therapiestrategie Statin Grund für niedrige Statin-Dosis Schulung bereits vor Einschreibung in DMP wahrgenommen Schulung empfohlen (bei aktueller Dokumentation) Empfohlene Schulung(en) wahrgenommen Behandlungsplanung Regelmäßiges sportliches Training   15.mm.jjjj Erstdokumentation Nein, CCS II Bestimmt 27,0 mmol/l Andere Form des akuten Koronarsyndroms Statin Nr. 5 Nr. 6 Nr. 7 Nr. 8 Nr. 9 Nr. 10 Nr. 11 Nr. 12 Nr. 13 Nr. 14 | INDIKATIONSSPEZIFISCHE DATEN | | |
+INDIKATIONSSPEZIFISCHE DATEN Anamnese- und Befunddaten Angina pectoris Serum-Elektrolyte LDL-Cholesterin Relevante Ereignisse Relevante Ereignisse Herzinfarkt innerhalb der letzten 12 Monate Ungeplante stationäre notfallmäßige Behandlung wegen KHK seit der letzten Dokumentation Thrombozytenaggregationshemmer Betablocker ACE-Hemmer Aktuelle Statin-Dosis Aktuelle Therapiestrategie Statin Grund für niedrige Statin-Dosis Schulung bereits vor Einschreibung in DMP wahrgenommen Schulung empfohlen (bei aktueller Dokumentation) Empfohlene Schulung(en) wahrgenommen Behandlungsplanung Regelmäßiges sportliches Training   15.mm.jjjj Erstdokumentation Nein, CCS II Bestimmt 27,0 mmol/l Andere Form des akuten Koronarsyndroms Statin Nr. 5 Nr. 6 Nr. 7 Nr. 8 Nr. 9 Nr. 10 Nr. 11 Nr. 12 Nr. 13 Nr. 14 | **INDIKATIONSSPEZIFISCHE DATEN** | | |
 |---|---|---|
-| Anamnese- und Befunddaten | Erstdokumentation | Aktion |
+| **Anamnese- und Befunddaten** | **Erstdokumentation** | **Aktion** |
 | Angina pectoris | Nein, CCS II | Nr. 5 |
 | Serum-Elektrolyte | Bestimmt | Nr. 6 |
 | LDL-Cholesterin | 27,0 mmol/l | Nr. 7 |
-| Relevante Ereignisse | | |
+| **Relevante Ereignisse** | | |
 | Relevante Ereignisse | Andere Form des akuten | Nr. 8 |
 | Herzinfarkt innerhalb der letzten 12 Monate | Keine | Nr. 9 |
 | Ungeplante stationäre notfallmäßige Behandlung wegen | 2 | Nr. 10 |
-| Medikamente | | |
+| **Medikamente** | | |
 | Thrombozytenaggregationshemmer | Ja |  |
 | Betablocker | Nein |  |
 | ACE-Hemmer | Nein |  |
 | Aktuelle Statin-Dosis | Kontraindikation gegen |  |
 | Aktuelle Therapiestrategie Statin |  | Nr. 11 |
 | Grund für niedrige Statin-Dosis | Keine Begründung | Nr. 12 |
-| Schulung | | |
+| **Schulung** | | |
 | Schulung bereits vor Einschreibung in DMP |  | Nr. 13 |
 | Schulung empfohlen (bei aktueller Dokumentation) | Ja |  |
 | Empfohlene Schulung(en) wahrgenommen |  |  |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Regelmäßiges sportliches Training | Ja, Nicht möglich | Nr. 14 |
 
 
@@ -1054,26 +1054,26 @@ INDIKATIONSSPEZIFISCHE DATEN Anamnese- und Befunddaten Angina pectoris Serum-Ele
 
 - **4.** **Anlegen einer Verlaufsdokumentation am** 06.12.2023 15.mm.jjjj
 
-| INDIKATIONSSPEZIFISCHE DATEN | | |
+| **INDIKATIONSSPEZIFISCHE DATEN** | | |
 |---|---|---|
-| Anamnese- und Befunddaten | Verlaufsdokumentation | Aktion |
+| **Anamnese- und Befunddaten** | **Verlaufsdokumentation** | **Aktion** |
 | Angina pectoris | CCS I |  |
 | LDL-Cholesterin | 220 mg/dl |  |
-| Relevante Ereignisse | | |
+| **Relevante Ereignisse** | | |
 | Relevante Ereignisse | instabile Angina pectoris, |  |
 | Herzinfarkt innerhalb der letzten 12 Monate | Ja |  |
 | Ungeplante stationäre Behandlung wegen KHK seit der | 1 |  |
-| Medikamente | | |
+| **Medikamente** | | |
 | Thrombozytenaggregationshemmer | Ja, Nein | Nr. 15 |
 | Betablocker | Ja, Kontraindikation | Nr. 16 |
 | ACE-Hemmer | Ja |  |
 | Aktuelle Statin-Dosis | Kein Statin |  |
 | Aktuelle Therapiestrategie Statin | Strategie der festen Dosis | Nr. 17 |
 | Grund für niedrige Statin-Dosis | Ablehnung durch | Nr. 18 |
-| Schulung | | |
+| **Schulung** | | |
 | Schulung empfohlen (bei aktueller Dokumentation) | Ja |  |
 | Empfohlene Schulung(en) wahrgenommen | Nein |  |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Regelmäßiges sportliches Training | Nicht möglich, Nein |  |
 
 -
@@ -1088,26 +1088,26 @@ letzten Dokumentation (hoch oder moderat) Patienten
 
 |  |  |
 |---|---|
-| Prüffall-ID | 7530 |
-| Testziel | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
-| Voraussetzung | Szenario 3: Ihr System unterstützt die Datenübermittlung mit Datenträgern. Wenn  dies nicht der Fall ist, schreiben Sie dieses bitte. |
-| Prüfunterlagen | Dokumentieren Sie durch Videos die Eingaben einschließlich der Ergebnisse nach  einer möglichen Hinweissteuerung.    Screenshots / PDFs und ggf. Erläuterungen zum Nachweis der korrekten  Systemfunktionalität |
-| Hinweis | Dieser Testfall ist unterteilt in vier fünf Szenarien |
+| **Prüffall-ID** | 7530 |
+| **Testziel** | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
+| **Voraussetzung** | Szenario 3: Ihr System unterstützt die Datenübermittlung mit Datenträgern. Wenn  dies nicht der Fall ist, schreiben Sie dieses bitte. |
+| **Prüfunterlagen** | Dokumentieren Sie durch Videos die Eingaben einschließlich der Ergebnisse nach  einer möglichen Hinweissteuerung.    Screenshots / PDFs und ggf. Erläuterungen zum Nachweis der korrekten  Systemfunktionalität |
+| **Hinweis** | Dieser Testfall ist unterteilt in vier fünf Szenarien |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-| SZENARIEN |
-|---|
-| Szenario 1 |
-| Es wird eine Erstdokumentation für einen noch nicht im System existierenden Patienten angelegt. Bei  ) die bereits |
-| Szenario 2 |
-| Der Patient wechselt den Arzt, z.B. aufgrund einer Vertretungsregelung. Nach Kenntnisnahme einer  KBV_ITA_VGEX_Anforderungskatalog_eDMP), dass zu diesem Patienten keine Erstdokumentation |
-| Szenario 3 |
-| Die Daten werden vom Anwender für den Versand vorbereitet. Das System erzeugt eine Hinweismeldung  (Bildschirmkopie beilegen) bezüglich der Datenträgerbeschriftung und druckt einen  Transportbegleitzettel aus. Hier soll die Umsetzung der Anforderungen KP4 -40 und KP4-41 (siehe   KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
-| Szenario 3 |
-| Das System ermöglicht dem Anwender, sich als erläuternde Übersicht bei der Indikation KHK die Tabelle  ) |
-| Szenario 4 |
-| Zeigen Sie, dass das System bei der Auswahl die näheren Erläuterungen zum Parameter „Aktuelle Statin KBV_ITA_VGEX_Anforderungskatalog_eDMP). |
+\| **SZENARIEN** |
+\|---|
+\| **Szenario 1** |
+\| Es wird eine Erstdokumentation für einen noch nicht im System existierenden Patienten angelegt. Bei  ) die bereits |
+\| **Szenario 2** |
+\| Der Patient wechselt den Arzt, z.B. aufgrund einer Vertretungsregelung. Nach Kenntnisnahme einer  KBV_ITA_VGEX_Anforderungskatalog_eDMP), dass zu diesem Patienten keine Erstdokumentation |
+\| **Szenario 3** |
+\| Die Daten werden vom Anwender für den Versand vorbereitet. Das System erzeugt eine Hinweismeldung  (Bildschirmkopie beilegen) bezüglich der Datenträgerbeschriftung und druckt einen  Transportbegleitzettel aus. Hier soll die Umsetzung der Anforderungen KP4 -40 und KP4-41 (siehe   KBV_ITA_VGEX_Anforderungskatalog_eDMP**)** |
+\| **Szenario 3** |
+\| Das System ermöglicht dem Anwender, sich als erläuternde Übersicht bei der Indikation KHK die Tabelle  ) |
+\| **Szenario 4** |
+\| Zeigen Sie, dass das System bei der Auswahl die näheren Erläuterungen zum Parameter „Aktuelle Statin KBV_ITA_VGEX_Anforderungskatalog_eDMP). |
 
 Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP Angabe der DMP-Fallnummer ist eine bereits existierende Nummer (z.B. 4511) einzugeben. Das System darf entsprechend der Anforderung P1-10 (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP vergebene DMP-Fallnummer nicht akzeptieren entsprechenden Warnung gemäß Anforderung P1-12 (siehe vorliegt, wird eine Verlaufsdokumentation angelegt. nachgewiesen werden. der CCS-Schweregradeinteilungen (siehe Tabelle 2 in KBV_ITA_VGEX_Anforderungskatalog_eDMP anzeigen zu lassen. Dosis“ die Dosierung gemäß Anforderung P1-42 (2.) anzeigt (siehe
 
@@ -1117,11 +1117,11 @@ Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP Anga
 
 |  | |
 |---|---|
-| Prüffall-ID | 7540 |
-| Testziel | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
-| Voraussetzung |  |
-| Prüfunterlagen | Einwilligungserklärung |
-| Hinweis | Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der |
+| **Prüffall-ID** | 7540 |
+| **Testziel** | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | Einwilligungserklärung |
+| **Hinweis** | Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -1135,7 +1135,7 @@ Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 
 |  |  |
 |---|---|
-| Administrative Daten |  |
+| **Administrative Daten** |  |
 | DMP | KHK |
 | DMP-Fallnummer | 1010 |
 | Datum | 05.04.2023  15.10.2026 |
@@ -1173,11 +1173,11 @@ findet nicht statt,
 
 |  |  |
 |---|---|
-| Prüffall-ID | TDV7518 |
-| Testziel | Anlage einer Erstdokumentation mit der Schnittstellenversion |
-| Voraussetzung |  |
-| Prüfunterlagen | KHK-Dokumentationsunterlagen |
-| Hinweis |  |
+| **Prüffall-ID** | TDV7518 |
+| **Testziel** | Anlage einer Erstdokumentation mit der Schnittstellenversion |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | KHK-Dokumentationsunterlagen |
+| **Hinweis** |  |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -1187,22 +1187,22 @@ Die Versichertendaten von Brigitte Althaus (XML_05) einlesen und speichern.
 
 - **2.** **Anlegen einer Erstdokumentation**
 
-| INDIKATIONSÜBERGREIFENDE | | |
+| **INDIKATIONSÜBERGREIFENDE** | | |
 |---|---|---|
-| Administrative Daten | Erstdokumentation |  |
+| **Administrative Daten** | **Erstdokumentation** |  |
 | DMP-Fallnummer | TDV7518 |  |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum | 05.04.2022  15.10.2025 |  |
 | Einschreibung wegen | KHK |  |
 | Geschlecht | Weiblich |  |
-| Allgemeine Anamnese- und Befunddaten | | |
+| **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 1,60 m |  |
 | Körpergewicht | 060 kg |  |
 | Blutdruck | 120 / 80 mmHg |  |
 | Raucher | Nein |  |
 | Begleiterkrankungen | Keine der genannten |  |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Vom Patienten gewünschte |  |  |
 | Dokumentationsintervall | Quartalsweise |  |
 | Datum der Erstellung | 05.04.2022  15.10.2025 |  |
@@ -1213,25 +1213,25 @@ Die Versichertendaten von Brigitte Althaus (XML_05) einlesen und speichern.
 
 ---
 
-| INDIKATIONS | | |
+| **INDIKATIONS** | | |
 |---|---|---|
-| Anamnese- und Befunddaten | Erstdokumentation |  |
+| **Anamnese- und Befunddaten** | **Erstdokumentation** |  |
 | Angina pectoris | Nein |  |
 | LDL-Cholesterin | Nicht bestimmt |  |
-| Relevante Ereignisse | | |
+| **Relevante Ereignisse** | | |
 | Relevante Ereignisse | Nein |  |
 | Herzinfarkt innerhalb der letzten 12 Monate | Nein |  |
-| Medikamente | | |
+| **Medikamente** | | |
 | Thrombozytenaggregationshemmer | Nein |  |
 | Betablocker | Nein |  |
 | ACE-Hemmer | Ja |  |
 | Aktuelle Statin-Dosis | Niedrig |  |
 | Aktuelle Therapiestrategie Statin | Zielwert-Strategie |  |
 | Grund für moderate oder niedrige Statin-Dosis | LDL-Zielwert erreicht |  |
-| Schulung | | |
+| **Schulung** | | |
 | Schulung bereits vor Einschreibung in DMP | Ja |  |
 | Schulung empfohlen (bei aktueller Dokumentation) | Nein |  |
-| Behandlungsplanung | | |
+| **Behandlungsplanung** | | |
 | Regelmäßiges sportliches Training | Nein, Nicht möglich |  |
 
 SPEZIFISCHE DATEN wahrgenommen
@@ -1242,28 +1242,28 @@ SPEZIFISCHE DATEN wahrgenommen
 
 **4.1** **VERSICHERTENDATEN – ERSATZVERFAHREN**
 
-| PERSONALIEN | | |
+| **PERSONALIEN** | | |
 |---|---|---|
-| 3100 | Namenszusatz | Erbprinzessin Przin |
-| 3120 | Vorsatzwort | von und zu der |
-| 3101 | Name | Schimmelpfennig-Hammerschmidt |
-| 3102 | Vorname | Ingrid |
-| 3103 | Geburtsdatum | 31.01.1940 |
-| 3104 | Titel | Dr. |
-| 3119 | Versicherten_ID | M310119802 |
-| 3107 | Straße | Anneliese- und Georg-von-Groscurth- |
-| 3109 | Hausnummer | 149-C |
-| 3112 | PLZ | 10117 |
-| 3114 | Wohnsitzländercode | D |
-| 3113 | Ort | Berlin |
-| 3116 | WOP | 72 |
-| 3108 | Versichertenart | 5 |
-| 3110 | Geschlecht | W |
-| 4133 | Versicherungsschutz Beginn |  |
-| 4110 | Versicherungsschutz Ende |  |
-| 4111 | Kostentraegerkennung | 108416214 |
-| 4131 | BesonderePersonengruppe | 00 |
-| 4132 | DMP_Kennzeichnung | 06 |
+| **3100** | **Namenszusatz** | Erbprinzessin Przin |
+| **3120** | **Vorsatzwort** | von und zu der |
+| **3101** | **Name** | Schimmelpfennig-Hammerschmidt |
+| **3102** | **Vorname** | Ingrid |
+| **3103** | **Geburtsdatum** | 31.01.1940 |
+| **3104** | **Titel** | Dr. |
+| **3119** | **Versicherten_ID** | M310119802 |
+| **3107** | **Straße** | Anneliese- und Georg-von-Groscurth- |
+| **3109** | **Hausnummer** | 149-C |
+| **3112** | **PLZ** | 10117 |
+| **3114** | **Wohnsitzländercode** | D |
+| **3113** | **Ort** | Berlin |
+| **3116** | **WOP** | 72 |
+| **3108** | **Versichertenart** | 5 |
+| **3110** | **Geschlecht** | W |
+| **4133** | **Versicherungsschutz Beginn** |  |
+| **4110** | **Versicherungsschutz Ende** |  |
+| **4111** | **Kostentraegerkennung** | 108416214 |
+| **4131** | **BesonderePersonengruppe** | 00 |
+| **4132** | **DMP_Kennzeichnung** | 06 |
 
 Federmannssohn Plaetzchen
 
@@ -1273,7 +1273,7 @@ Federmannssohn Plaetzchen
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 | Austausch_von_XML-Daten_Vn.nn.ZIP 4 | KBV_ITA_VGEX_XML-Schnittstellen - |
 | EXT_ITA_AHEX_Anleitung_eDMP_KHK | Ausfüllanleitung zum indikationsspezifischen |
 | EXT_ITA_AHEX_Teilnahme_eDMP_KHK | Erklärung Koronare Herzkrankheit zur Teilnahme an |
@@ -1302,7 +1302,7 @@ schlüssel KBV_ITA_VGEX_Schnittstelle_SDDA von XML Daten in der Vertragsärztlic
 |  |  |
 |---|---|
 |  |  |
-|  | Ansprechpartner: |
+|  | **Ansprechpartner:** |
 | www.kbv.de | 5 |
 |  |  |
 |  |  |

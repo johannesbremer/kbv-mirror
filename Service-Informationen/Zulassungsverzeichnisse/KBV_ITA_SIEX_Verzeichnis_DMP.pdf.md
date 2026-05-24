@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**16. MAI 2026**
+**23. MAI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -35,7 +35,7 @@
 
 Saturnstrasse 14 85609 Aschheim Internet: www.asthenis.de
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 16. Mai 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 23. Mai 2026
 
 **Prüfnummer(n)**
 
@@ -106,25 +106,21 @@ Windows
 
 ---
 
-|  | **Kontaktdaten** |  |  |
-|---|---|---|---|
-| **D-Doc** |  |  |  |
-|  | **axaris-software** | **& systeme** | **GmbH** |
-|  | Max-Eyth-Weg 2 |  |  |
-| 89160 | Dornstadt |  |  |
-| Internet: |  | www.d-doc.de |  |
-| **Praxis4More** | |  |  |
-| **CoKom** | **One GmbH** |  |  |
-|  | John-F.-Kennedy-Straße | 10 |  |
-| 97877 | Wertheim |  |  |
-| Internet: |  | www.cokom-one.de |  |
-| **TURBOMED** | |  |  |
-|  | **CompuGroup** | **Medical Deutschland** | **AG** |
-| Maria | Trost 23 |  |  |
-| 56070 | Koblenz |  |  |
-| Internet: |  | www.turbomed.de |  |
+**Kontaktdaten**
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 16. Mai 2026
+**D-Doc**
+
+**axaris-software & systeme GmbH** Max-Eyth-Weg 2 89160 Dornstadt Internet: www.d-doc.de
+
+**Praxis4More**
+
+**CoKom One GmbH** John-F.-Kennedy-Straße 10 97877 Wertheim Internet: www.cokom-one.de
+
+**TURBOMED**
+
+**CompuGroup Medical Deutschland AG** Maria Trost 23 56070 Koblenz Internet: www.turbomed.de
+
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 23. Mai 2026
 
 **Prüfnummer(n)**
 
@@ -156,7 +152,7 @@ Windows
 
 Windows
 
-axaris-software & systeme GmbH 89160 Dornstadt Internet: www.d-doc.de CoKom One GmbH John-F.-Kennedy-Straße 10 97877 Wertheim Internet: www.cokom-one.de CompuGroup Medical Deutschland AG Maria Trost 23 56070 Koblenz Internet: www.turbomed.deWindows
+Windows
 
 
 ---
@@ -177,7 +173,7 @@ Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK
 
 **Data-AL GmbH** Edisonallee 25 89231 Neu-Ulm Internet: www.data-al.de
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 16. Mai 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 23. Mai 2026
 
 **Prüfnummer(n)**
 
@@ -235,7 +231,7 @@ Windows
 
 **Duria eG** Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 16. Mai 2026
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 23. Mai 2026
 
 X/101/2401/36/386 31.12.2026 DMP Brustkrebs
 
@@ -298,30 +294,25 @@ Windows
 
 ---
 
-|  | **Kontaktdaten** |  |  |
-|---|---|---|---|
-| **Epikur** |  |  |  |
-| **Epikur** | **Software** | **GmbH** | **& Co. KG** |
-|  | Franklinstraße | 26 a |  |
-| 10587 | Berlin |  |  |
-| Internet: |  | www.epikur.de |  |
-| **INDICATION** | |  |  |
-| **ET** | **Software** | **Developments** | **GmbH** |
-|  | Hebelstraße 7 |  |  |
-| 69214 | Eppelheim |  |  |
-| Internet: |  | www.indication.com | |
-| **medibit** |  |  |  |
-| **Examion** | **GmbH** |  |  |
-|  | Erich-Herion-Straße | 37 |  |
-| 70736 | Fellbach |  |  |
-|  | Internet: | www.examion.com | |
-| **QUINCY** | **WIN** |  |  |
-| **Frey** | **ADV GmbH** |  |  |
-|  | Chausseestraße | 189 |  |
-| 15712 | Königs | Wusterhausen | |
-| Internet: |  | www.frey.de |  |
+**Kontaktdaten**
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 16. Mai 2026
+**Epikur**
+
+**Epikur Software GmbH & Co. KG** Franklinstraße 26 a 10587 Berlin Internet: www.epikur.de
+
+**INDICATION**
+
+**ET Software Developments GmbH** Hebelstraße 7 69214 Eppelheim Internet: www.indication.com
+
+**medibit**
+
+**Examion GmbH** Erich-Herion-Straße 37 70736 Fellbach Internet: www.examion.com
+
+**QUINCY WIN**
+
+**Frey ADV GmbH** Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de
+
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 23. Mai 2026
 
 **Prüfnummer(n)**
 
@@ -361,35 +352,30 @@ Windows
 
 Windows
 
-Epikur Software GmbH & Co. KG Franklinstraße 26 a 10587 Berlin Internet: www.epikur.de ET Software Developments GmbH 69214 Eppelheim Internet: www.indication.com Examion GmbH Erich-Herion-Straße 37 70736 Fellbach Internet: www.examion.com QUINCY WIN Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.deWindows
+Windows
 
 
 ---
 
-| **Kontaktdaten** |  |  |
-|---|---|---|
-| **Doctorly** |  |  |
-| **Frey ADV** | **GmbH** |  |
-|  | Chausseestraße 189 |  |
-| 15712 | Königs | Wusterhausen |
-| Internet: | www.frey.de |  |
-| **garrioPRO** |  |  |
-| **garrio** | **GmbH** |  |
-|  | Liebknechtstraße | 29 |
-| 70565 | Stuttgart |  |
-| Internet: | www.garrio.de | |
-| **GMC PaDok** |  |  |
-| **GMC** | **Systems GmbH** |  |
-|  | Albert-Einstein-Str. | 3 |
-| 98693 | Ilmenau |  |
-| Internet: |  | www.gmc-systems.de |
-| **J-MED** |  |  |
-| **Haase,** | **Dipl.-Ing.** | **Silvia GbR** |
-| Lindenstr. | 21 |  |
-| 21465 | Reinbek |  |
-| Internet: | www.j-med.de | |
+**Kontaktdaten**
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 16. Mai 2026
+**Doctorly**
+
+**Frey ADV GmbH** Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de
+
+**garrioPRO**
+
+**garrio GmbH** Liebknechtstraße 29 70565 Stuttgart Internet: www.garrio.de
+
+**GMC PaDok**
+
+**GMC Systems GmbH** Albert-Einstein-Str. 3 98693 Ilmenau Internet: www.gmc-systems.de
+
+**J-MED**
+
+**Haase, Dipl.-Ing. Silvia GbR** Lindenstr. 21 21465 Reinbek Internet: www.j-med.de
+
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 23. Mai 2026
 
 **Prüfnummer(n)**
 
@@ -449,7 +435,7 @@ Linux Mac OS Windows
 
 Windows
 
-Frey ADV GmbH 15712 Königs Wusterhausen Internet: www.frey.de garrio GmbH Liebknechtstraße 29 70565 Stuttgart Internet: www.garrio.de GMC Systems GmbH Albert-Einstein-Str. 3 98693 Ilmenau Internet: www.gmc-systems.de Haase, Dipl.-Ing. Silvia GbR Lindenstr. 21 21465 Reinbek Internet: www.j-med.deWindows
+Windows
 
 
 ---
@@ -536,7 +522,7 @@ Internet: [http://www.itc-ms.de/](http://www.itc-ms.de/)
 
 X/110/2604/24/748 31.03.2028 eDMP Rheumatoide Arthritis
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 16. Mai 2026
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 23. Mai 2026
 
 
 ---
@@ -561,7 +547,7 @@ X/110/2604/24/748 31.03.2028 eDMP Rheumatoide Arthritis
 | 65343 | Eltville |  |
 | Internet: |  | www.medatixx.de |
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 16. Mai 2026
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 23. Mai 2026
 
 **Prüfnummer(n)**
 
@@ -598,25 +584,21 @@ EL - Elaphe Longissima medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Inte
 
 ---
 
-|  | **Kontaktdaten** |  |
-|---|---|---|
-|  | **Praxis-Programm** |  |
-|  | **medisoftware** | **GmbH & Co. KG** |
-|  | Steinstraße 1 |  |
-| 24118 | Kiel |  |
-| Internet: |  | www.medisoftware.de |
-|  | **MEDICUSplus** |  |
-| **MEDNET** | **Service** | **für Ärzte AG** |
-|  | Prälat-van-Acken-Straße | 14 |
-| 50935 | Köln |  |
-|  | Internet: | www.mednet.de |
-| **MEDYS** |  |  |
-| **MEDYS** | **GmbH** |  |
-|  | Wilhelmstraße 96 |  |
-| 42489 | Wülfrath |  |
-|  | Internet: | www.medys.de |
+**Kontaktdaten**
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 16. Mai 2026
+**Praxis-Programm**
+
+**medisoftware GmbH & Co. KG** Steinstraße 1 24118 Kiel Internet: www.medisoftware.de
+
+**MEDICUSplus**
+
+**MEDNET Service für Ärzte AG** Prälat-van-Acken-Straße 14 50935 Köln Internet: www.mednet.de
+
+**MEDYS**
+
+**MEDYS GmbH** Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de
+
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 23. Mai 2026
 
 **Prüfnummer(n)**
 
@@ -648,7 +630,7 @@ Windows
 
 Windows
 
-medisoftware GmbH & Co. KG 24118 Kiel Internet: www.medisoftware.de MEDNET Service für Ärzte AG Prälat-van-Acken-Straße 14 50935 Köln Internet: www.mednet.de MEDYS GmbH 42489 Wülfrath Internet: www.medys.deMac OS Windows
+Mac OS Windows
 
 
 ---
@@ -667,7 +649,7 @@ medisoftware GmbH & Co. KG 24118 Kiel Internet: www.medisoftware.de MEDNET Servi
 
 **PRO MEDISOFT AG** Besselstraße 25 68219 Mannheim Internet: www.pro-medisoft.de
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 16. Mai 2026
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 23. Mai 2026
 
 **Prüfnummer(n)**
 
@@ -704,26 +686,21 @@ Windows
 
 ---
 
-|  | **Kontaktdaten** |  |
-|---|---|---|
-| **RED** | **medical classic** |  |
-| **RED** | **Medical** | **Systems GmbH** |
-| Lutzstraße | 2 |  |
-| 80687 | München |  |
-| Internet: | | www.REDMEDICAL.DE |
-| **S3-Win** |  |  |
-| **S3** | **Praxiscomputer** | **GmbH / Maximilian** |
-| **Flender** |  |  |
-| Lorscher | Straße 2 |  |
-| 69469 | Weinheim |  |
-| Internet: |  | http://www.praxiscomputer.de |
-| **ARZT** | **2000** |  |
-| **Schmidt** |  | **Computersysteme** |
-|  | Chrysanthemenweg | 4 |
-| 02827 | Görlitz |  |
-| Internet: |  | www.arzt2000.de |
+**Kontaktdaten**
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 16. Mai 2026
+**RED medical classic**
+
+**RED Medical Systems GmbH** Lutzstraße 2 80687 München Internet: www.REDMEDICAL.DE
+
+**S3-Win**
+
+**S3 Praxiscomputer GmbH / Maximilian** **Flender** Lorscher Straße 2 69469 Weinheim Internet: [http://www.praxiscomputer.de](http://www.praxiscomputer.de)
+
+**ARZT 2000**
+
+**Schmidt Computersysteme** Chrysanthemenweg 4 02827 Görlitz Internet: www.arzt2000.de
+
+Seite 12 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 23. Mai 2026
 
 **Prüfnummer(n)**
 
@@ -793,29 +770,26 @@ iOS/Android Linux Mac OS Sonstige Windows
 
 Sonstige Windows
 
-RED medical classic RED Medical Systems GmbH Lutzstraße 2 80687 München Internet: www.REDMEDICAL.DE S3 Praxiscomputer GmbH / Maximilian Lorscher Straße 2 69469 Weinheim Internet: http://www.praxiscomputer.de ARZT 2000 Schmidt Computersysteme Chrysanthemenweg 4 02827 Görlitz Internet: www.arzt2000.deWindows
+Windows
 
 
 ---
 
-|  | **Kontaktdaten** |  |  |
-|---|---|---|---|
-|  | **QMED.PRAXIS** |  |  |
-|  | **Schwerdtner** | **Medizin-Software** | **GmbH** |
-|  | Loebensteinstraße | 26 |  |
-| 30175 | Hannover |  |  |
-|  | Internet: | www.q-med.de |  |
-| **principa** |  |  |  |
-| **SIEGELE** | **Software** | **GmbH** |  |
-|  | Wehrgasse | 28/3+4 |  |
-| A-1050 | Wien |  |  |
-| **T2med** |  |  |  |
-| **T2med** | **GmbH** | **& Co. KG** |  |
-|  | Bismarckallee | 15 |  |
-| 24105 | Kiel |  |  |
-|  | Internet: | www.t2med.de |  |
+**Kontaktdaten**
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 16. Mai 2026
+**QMED.PRAXIS**
+
+**Schwerdtner Medizin-Software GmbH** Loebensteinstraße 26 30175 Hannover Internet: www.q-med.de
+
+**principa**
+
+**SIEGELE Software GmbH** Wehrgasse 28/3+4 A-1050 Wien
+
+**T2med**
+
+**T2med GmbH & Co. KG** Bismarckallee 15 24105 Kiel Internet: www.t2med.de
+
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 23. Mai 2026
 
 **Prüfnummer(n)**
 
@@ -847,7 +821,7 @@ Windows
 
 Linux Windows
 
-Schwerdtner Medizin-Software GmbH Loebensteinstraße 26 30175 Hannover Internet: www.q-med.de SIEGELE Software GmbH Wehrgasse 28/3+4 A-1050 Wien T2med GmbH & Co. KG Bismarckallee 15 24105 Kiel Internet: www.t2med.deiOS/Android Linux Mac OS Windows
+iOS/Android Linux Mac OS Windows
 
 
 ---
@@ -865,7 +839,7 @@ Schwerdtner Medizin-Software GmbH Loebensteinstraße 26 30175 Hannover Internet:
 | 07745 | Jena |  |
 |  | Internet: | www.zollsoft.de |
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 16. Mai 2026
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 23. Mai 2026
 
 **Prüfnummer(n)**
 

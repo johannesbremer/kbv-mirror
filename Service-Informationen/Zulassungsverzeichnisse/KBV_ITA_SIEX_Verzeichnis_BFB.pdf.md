@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**16. MAI 2026**
+**23. MAI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -25,7 +25,7 @@
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 2 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 16. Mai 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 2 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 23. Mai 2026
 
 
 ---
@@ -160,15 +160,17 @@ Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Mu
 
 **Prüfnummer**
 
-Y/9/2504/36/525
+**unterstützte**
 
-**Prüfnummer** **gültig bis**
+**Prüfnummer**
 
-31.03.2028
+**gültig bis**
 
-**unterstützte** **Betriebssysteme**
+**Betriebssysteme**
 
-Mac OS Windows
+Mac OS
+
+Y/9/2504/36/525 31.03.2028 Windows
 
 
 ---
@@ -371,27 +373,24 @@ PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
 ---
 
-|  | **Kontaktdaten** |  |  |
-|---|---|---|---|
-| **CGM** | **M1 PRO** |  |  |
-|  | **CompuGroup** | **Medical** | **Deutschland AG** |
-| Maria | Trost 25 |  |  |
-| 56070 | Koblenz |  |  |
-| Internet: | | www.cgm.com/de |  |
-|  | Softwarevariante(n): | |  |
-| - CGM | M1 PRO | NEXT |  |
+**Kontaktdaten**
+
+**CGM M1 PRO**
+
+**CompuGroup Medical Deutschland AG** Maria Trost 25 56070 Koblenz Internet: www.cgm.com/de
+
+Softwarevariante(n): - CGM M1 PRO NEXT
 
 **zugelassen für folgende Muster**
 
 Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V
 
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Prüfnummer** |  |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-| Y/9/2307/36/252 |  | 30.06.2026 | Windows |
+| **Prüfnummer** | **unterstützte** |
+|---|---|
+| **Prüfnummer** |  |
+| **gültig bis** | **Betriebssysteme** |
+| Y/9/2307/36/252 30.06.2026 | Windows |
 
-CGM M1 PRO CompuGroup Medical Deutschland AG Maria Trost 25 56070 Koblenz Internet: www.cgm.com/de - CGM M1 PRO NEXT
 
 ---
 
@@ -418,10 +417,10 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Y/9/2307/36/280
 
-|  | **Prüfnummer** | **unterstützte** |
-|---|---|---|
-|  | **gültig bis** | **Betriebssysteme** |
-|  | 30.06.2026 | Windows |
+| **Prüfnummer** | **unterstützte** |
+|---|---|
+| **gültig bis** | **Betriebssysteme** |
+| 30.06.2026 | Windows |
 
 
 ---
@@ -555,15 +554,17 @@ Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diag
 
 **Prüfnummer**
 
-Y/9/2601/36/374
+**unterstützte**
 
-**Prüfnummer** **gültig bis**
+**Prüfnummer**
 
-31.12.2028
+**gültig bis**
 
-**unterstützte** **Betriebssysteme**
+**Betriebssysteme**
 
-Linux Windows
+Linux
+
+Y/9/2601/36/374 31.12.2028 Windows
 
 
 ---
@@ -1131,15 +1132,17 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 **Prüfnummer**
 
-Y/9/2601/36/136
+**unterstützte**
 
-**Prüfnummer** **gültig bis**
+**Prüfnummer**
 
-31.12.2028
+**gültig bis**
 
-**unterstützte** **Betriebssysteme**
+**Betriebssysteme**
 
-Mac OS Windows
+Mac OS
+
+Y/9/2601/36/136 31.12.2028 Windows
 
 
 ---
@@ -1250,15 +1253,19 @@ Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diag
 
 **Prüfnummer**
 
+**unterstützte**
+
+**Prüfnummer**
+
+**gültig bis**
+
+**Betriebssysteme**
+
+Linux
+
 Y/9/2401/36/703
 
-**Prüfnummer** **gültig bis**
-
-31.12.2026
-
-**unterstützte** **Betriebssysteme**
-
-LabKom Biochemische Dienstleistungen GmbH August-Wessels-Str. 5 86154 Augsburg Internet: www.labkom.deLinux Windows
+LabKom Biochemische Dienstleistungen GmbH August-Wessels-Str. 5 86154 Augsburg Internet: www.labkom.de31.12.2026 Windows
 
 
 ---
@@ -1339,26 +1346,28 @@ Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diag
 
 **Prüfnummer**
 
-Y/9/2307/36/716
+**unterstützte**
 
-**Prüfnummer** **gültig bis**
+**Prüfnummer**
 
-30.06.2026
+**gültig bis**
 
-**unterstützte** **Betriebssysteme**
+**Betriebssysteme**
 
-Linux Windows
+Linux
+
+Y/9/2307/36/716 30.06.2026 Windows
 
 
 ---
 
-|  | **Kontaktdaten** |  |  |
-|---|---|---|---|
-| **ELLA** |  |  |  |
-| **Labor** | **Dr. Heidrich** | **& Kollegen** | **MVZ GmbH** |
-|  | Klinikweg 23 |  |  |
-| 22081 | Hamburg |  |  |
-|  | Internet: | www.labor-heidrich.de |  |
+**Kontaktdaten**
+
+**ELLA**
+
+**Labor Dr. Heidrich & Kollegen MVZ GmbH** Klinikweg 23
+
+22081 Hamburg Internet: www.labor-heidrich.de
 
 **zugelassen für folgende Muster**
 
@@ -1366,26 +1375,26 @@ Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Mu
 
 **Prüfnummer**
 
-Y/9/2507/36/604
+**unterstützte**
 
-**Prüfnummer** **gültig bis**
+**Prüfnummer**
 
-30.06.2028
+**gültig bis**
 
-**unterstützte** **Betriebssysteme**
+**Betriebssysteme**
 
-Labor Dr. Heidrich & Kollegen MVZ GmbH 22081 Hamburg Internet: www.labor-heidrich.deMac OS Windows
+Mac OS
+
+Y/9/2507/36/604 30.06.2028 Windows
 
 
 ---
 
-|  | **Kontaktdaten** |  |  |
-|---|---|---|---|
-|  | **Onlineauftrag** |  |  |
-| **LABUNIQ** |  | **Servicegesellschaft** | **GmbH** |
-|  | Schlossstraße 19 |  |  |
-| 82031 | Grünwald | bei | München |
-| Internet: |  | www.labuniq.com |  |
+**Kontaktdaten**
+
+**Onlineauftrag**
+
+**LABUNIQ Servicegesellschaft GmbH** Schlossstraße 19 82031 Grünwald bei München Internet: www.labuniq.com
 
 **zugelassen für folgende Muster**
 
@@ -1401,7 +1410,7 @@ X/9/2307/36/492
 
 **unterstützte** **Betriebssysteme**
 
-LABUNIQ Servicegesellschaft GmbH 82031 Grünwald bei München Internet: www.labuniq.comiOS/Android Linux Mac OS Windows
+iOS/Android Linux Mac OS Windows
 
 
 ---
@@ -1510,11 +1519,11 @@ Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 5
 
 Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V
 
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Prüfnummer** |  |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-| Y/9/2401/36/216 |  | 31.12.2026 | Windows |
+| **Prüfnummer** | **unterstützte** |
+|---|---|
+| **Prüfnummer** |  |
+| **gültig bis** | **Betriebssysteme** |
+| Y/9/2401/36/216 31.12.2026 | Windows |
 
 medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
 
@@ -1609,11 +1618,11 @@ Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztlich
 
 Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V
 
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Prüfnummer** |  |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-| Y/9/2401/36/462 |  | 31.12.2026 | Windows |
+| **Prüfnummer** | **unterstützte** |
+|---|---|
+| **Prüfnummer** |  |
+| **gültig bis** | **Betriebssysteme** |
+| Y/9/2401/36/462 31.12.2026 | Windows |
 
 medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
 
@@ -1753,10 +1762,10 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Y/9/2401/36/251
 
-|  | **Prüfnummer** | **unterstützte** |
-|---|---|---|
-|  | **gültig bis** | **Betriebssysteme** |
-|  | 31.12.2026 | Windows |
+| **Prüfnummer** | **unterstützte** |
+|---|---|
+| **gültig bis** | **Betriebssysteme** |
+| 31.12.2026 | Windows |
 
 
 ---
@@ -1782,15 +1791,17 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 **Prüfnummer**
 
-Y/9/2401/36/015
+**unterstützte**
 
-**Prüfnummer** **gültig bis**
+**Prüfnummer**
 
-31.12.2026
+**gültig bis**
 
-**unterstützte** **Betriebssysteme**
+**Betriebssysteme**
 
-Mac OS Windows
+Mac OS
+
+Y/9/2401/36/015 31.12.2026 Windows
 
 
 ---
@@ -2182,15 +2193,17 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 **Prüfnummer**
 
-Y/9/2401/36/261
+**unterstützte**
 
-**Prüfnummer** **gültig bis**
+**Prüfnummer**
 
-31.12.2026
+**gültig bis**
 
-**unterstützte** **Betriebssysteme**
+**Betriebssysteme**
 
-Sonstige Windows
+Sonstige
+
+Y/9/2401/36/261 31.12.2026 Windows
 
 
 ---
@@ -2218,15 +2231,19 @@ Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diag
 
 **Prüfnummer**
 
+**unterstützte**
+
+**Prüfnummer**
+
+**gültig bis**
+
+**Betriebssysteme**
+
+Sonstige
+
 Y/9/2601/36/343
 
-**Prüfnummer** **gültig bis**
-
-31.12.2028
-
-**unterstützte** **Betriebssysteme**
-
-SAP Ambulatory Care Management Dietmar-Hopp-Allee 16 69190 Walldorf Internet: www.sap.com/industries/healthcareSonstige Windows
+SAP Ambulatory Care Management Dietmar-Hopp-Allee 16 69190 Walldorf Internet: www.sap.com/industries/healthcare31.12.2028 Windows
 
 
 ---
@@ -2339,13 +2356,13 @@ Muster 06: Überweisungsschein Muster 12: Verordnung häuslicher Krankenpflege M
 
 ---
 
-|  | **Kontaktdaten** |  |  |
-|---|---|---|---|
-|  | **SYNconnect** |  |  |
-| **SYNLAB** | **Holding** | **Deutschland** | **GmbH** |
-|  | Gubener Strasse | 39 |  |
-| 86156 | Augsburg |  |  |
-|  | Internet: | http://www.synlab.com | |
+**Kontaktdaten**
+
+**SYNconnect**
+
+**SYNLAB Holding Deutschland GmbH** Gubener Strasse 39
+
+86156 Augsburg Internet: [http://www.synlab.com](http://www.synlab.com)
 
 **zugelassen für folgende Muster**
 
@@ -2353,15 +2370,17 @@ Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Mu
 
 **Prüfnummer**
 
-Y/9/2312/37/755
+**unterstützte**
 
-**Prüfnummer** **gültig bis**
+**Prüfnummer**
 
-31.12.2026
+**gültig bis**
 
-**unterstützte** **Betriebssysteme**
+**Betriebssysteme**
 
-SYNLAB Holding Deutschland GmbH Gubener Strasse 39 86156 Augsburg Internet: http://www.synlab.comMac OS Windows
+Mac OS
+
+Y/9/2312/37/755 31.12.2026 Windows
 
 
 ---
@@ -2436,15 +2455,17 @@ Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diag
 
 **Prüfnummer**
 
-X/9/2507/36/529
+**unterstützte**
 
-**Prüfnummer** **gültig bis**
+**Prüfnummer**
 
-30.06.2028
+**gültig bis**
 
-**unterstützte** **Betriebssysteme**
+**Betriebssysteme**
 
-Mac OS Windows
+Mac OS
+
+X/9/2507/36/529 30.06.2028 Windows
 
 
 ---
@@ -2487,15 +2508,19 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Kran
 
 **Prüfnummer**
 
+**unterstützte**
+
+**Prüfnummer**
+
+**gültig bis**
+
+**Betriebssysteme**
+
+Mac OS
+
 Y/9/2510/36/768
 
-**Prüfnummer** **gültig bis**
-
-30.09.2028
-
-**unterstützte** **Betriebssysteme**
-
-Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.deMac OS Windows
+Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de30.09.2028 Windows
 
 
 ---

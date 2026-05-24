@@ -26,10 +26,7 @@ Betriebsstätten-Nr.
 
 ## Beratung zu medizinischer
 
-## Rehabilitation / Prüfung des
-
-## zuständigen Rehabilitationsträgers
-
+## Rehabilitation / Prüfung des zuständigen Rehabilitationsträgers
 geb. am
 
 Status
@@ -114,11 +111,11 @@ bedingt eine Minderung der Erwerbsfähigkeit besteht oder droht.  **Prüfung des
 
 , weil z. B. die versiche-
 
-**Es wird die**
-
 ***Erkrankung***
 
 *** (z. B. IfSG)***
+
+**Es wird die**
 
 **III. Im Original zurück an die Vertragsärztin / den Vertragsarzt**
 

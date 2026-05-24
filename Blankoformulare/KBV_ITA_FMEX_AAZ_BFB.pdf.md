@@ -47,8 +47,6 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 **Der Antragsteller ist**
 
-Arzt/Ärztin [ ]
-
 **Systempfleger**
 
 **[nur anzugeben, wenn der**  **Systempfleger vom Antragsteller**  **abweicht]**
@@ -62,6 +60,8 @@ Arzt/Ärztin [ ]
 **E-Mail-Adresse**
 
 Seite 2 von 11 / KBV / Antrag auf Zertifizierung Blankoformularbedruckung / Version: 4.8 / 15. Mai 2024
+
+Arzt/Ärztin [ ]
 
 Softwarehaus [ ]
 
@@ -532,16 +532,19 @@ Antragssteller:
 
 **THEMA**
 
-**ZERTIFIZIERUNGSART**
+**ZERTIFIZIERUNGSART PRÜFUNGSART**
 
-| **PRÜFUNGSART** | **KOSTEN** | **IN €** |
-|---|---|---|
-| Ergebnisprüfung | 68,81 |  |
-|  | [pro | Muster] |
+**KOSTEN IN €**
 
 BFB
 
-Neu- oder  Rezertifizierung
+Neu- oder
+
+Ergebnisprüfung 68,81
+
+Rezertifizierung
+
+[pro Muster]
 
 **II.** **Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**
 
@@ -579,7 +582,6 @@ veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
 
 Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung].
 
-KOSTEN IN € [pro Muster]
 
 ---
 

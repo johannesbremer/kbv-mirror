@@ -2,13 +2,10 @@
 
 ## SGB V für Verordnungssoftware
 
-## Anforderungen an die Software zur  Verordnung von Arzneimitteln
-
-## sonstigen nach § 31 SGB V in die
-
+## Anforderungen an die Software zur  Verordnung von Arzneimitteln sonstigen nach § 31 SGB V in die
 *Arzneimittelversorgung einbezogenen*  *Produkten*
 
-|  | Anlage 23 zu § 29 Bundesmantelvertrag  [EXT_ITA_VGEX_Anforderungskatalog_AVWG] |
+|  | **Anlage 23 zu § 29 Bundesmantelvertrag ** [EXT_ITA_VGEX_Anforderungskatalog_AVWG] |
 |---|---|
 |  | Version |
 |  |  |
@@ -29,13 +26,13 @@ Der Anforderungskatalog in der Version 5. 8 tritt am 01.10.2025 in Kraft.
 
 ---
 
-| Änderungsverzeichnis | | | | |
+| **Änderungsverzeichnis** | | | | |
 |---|---|---|---|---|
-| Version |  | Änderung | Begründung | Seite |
+| **Version** |  | **Änderung** | **Begründung** | **Seite** |
 | 5.8 | 01.10.2025 | Inkrafttreten |  |  |
 |  |  | P2-110 | Aufnahme des neuen Merkmals 023, | 11, 30 |
 |  |  | P2-110 | Erweiterung der Kapitel „ | 18    19 |
-|  |  | K2-155, | Klarstellung zum Thema Hausapotheke | 21, 23 |
+|  |  | K2-155,  ** | Klarstellung zum Thema Hausapotheke | 21, 23 |
 |  |  | P3-141 | Klarstellung zum Thema Rote-Handbriefe | 32 |
 |  |  | P3-621,   O3-622,   P3-624,   P3-700,   P3-720 | Klarstellung der Anforderungen | 46, 47, 48,  55, 57 |
 |  |  | P3-625 | Klarstellung der Dosierungsangabe | 49 |
@@ -55,9 +52,9 @@ Datum K2-160 Erweiterung 009 Mindestangaben für Medizinprodukte nach § 31 Absa
 
 ---
 
-| Änderungsverzeichnis | | | | |
+| **Änderungsverzeichnis** | | | | |
 |---|---|---|---|---|
-| Version Datum |  | Änderung | Begründung | Seite |
+| **Version Datum** |  | **Änderung** | **Begründung** | **Seite** |
 |  |  | P3-141 | Neue Pflichtfunktion zur Anzeige und | 30 |
 |  |  | Redaktionelle | „Anwender“ durch „Vertragsärztin bzw. | Gesamt- |
 | 5.5 | 01.04.2023 | Inkrafttreten | Änderungsbedarf beim Inkrafttreten der | 2 |
@@ -67,48 +64,48 @@ Anpassung Archivierung der Rote-Hand-Briefe und zur Anzeige des Blaue-Hand- Schu
 
 ---
 
-| Inhaltsverzeichnis |
-|---|
+\| **Inhaltsverzeichnis ** |
+\|---|
 
-#### Inkrafttreten ......................................................................................................
+#### Inkrafttreten ...................................................................................................... 2
 
-#### Änderungsverzeichnis ....................................................................................
+#### Änderungsverzeichnis .................................................................................... 3
 
-#### Inhaltsverzeichnis ............................................................................................
+#### Inhaltsverzeichnis ............................................................................................ 5
 
-**1.** **Einleitung ...................................................................................................**
+**1.** **Einleitung ................................................................................................... 7**
 
 **1.1 Zielbestimmung ..................................................................................................... 7**
 
 **1.2 Pflichtfunktionen und optionale Funktionen der Software................................. 8**
 
-**1.3 Allgemeine Anforderungen an die Verordnungssoftware**
+**1.3 Allgemeine Anforderungen an die Verordnungssoftware** **.................................. 9**
 
-**2.** **Arzneimittelstammdaten .........................................................................**
+**2.** **Arzneimittelstammdaten ......................................................................... 10**
 
 **2.1 Vollständigkeit der Arzneimittelstammdaten** **.....................................................10**
 
-**2.2 Inhalte und Einsatz der Arzneimittelstammdaten, Aktualisierung, etc.**
+**2.2 Inhalte und Einsatz der Arzneimittelstammdaten, Aktualisierung, etc.** **............11**
 
-2.2.1 Mindestangaben von Fertigarzneimitteln entsprechend Preis
+2.2.1 Mindestangaben von Fertigarzneimitteln entsprechend Preis- und
 
-Produktverzeichnis bzw. den sonstigen genannten Quellen
+Produktverzeichnis bzw. den sonstigen genannten Quellen 11
 
 2.2.2 Mindestangaben für Medizinprodukte 18
 
 2.2.2.1 Mindestangaben für Medizinprodukte nach § 31 Absatz 1 Satz 2 SGB V 18
 
-2.2.2.2 Mindestangaben für sonstige Medizinprodukte
+2.2.2.2 Mindestangaben für sonstige Medizinprodukte 19
 
-2.2.3 Mindestangaben für Verbandmittel nach § 31 Absatz 1a SGB V
+2.2.3 Mindestangaben für Verbandmittel nach § 31 Absatz 1a SGB V 19
 
 2.2.4 Mindestangaben für Teststreifen 19
 
-2.2.5 Mindestangaben für bilanzierte Diäten zur enteralen Ernährung
+2.2.5 Mindestangaben für bilanzierte Diäten zur enteralen Ernährung 20
 
 **2.3 Hausapotheke .......................................................................................................21**
 
-**3.** **Produktsuche und -verordnung .............................................................**
+**3.** **Produktsuche und -verordnung ............................................................. 25**
 
 **3.1 Allgemeine Anforderungen .................................................................................25**
 
@@ -129,32 +126,6 @@ Produktverzeichnis bzw. den sonstigen genannten Quellen
 **3.7 Optimierung der effizienten Verordnung** **............................................................45**
 
 **3.8 Verordnungsinhalte .............................................................................................46**
-
-**.................................. 9**
-
-11
-
-19
-
-**............11**
-
-- und
-
-19
-
-20
-
-**2**
-
-**3**
-
-**5**
-
-**7**
-
-**10**
-
-**25**
 
 
 ---
@@ -235,15 +206,15 @@ Die Umsetzung aller Pflichtfunktionen, der implementierten optionalen Funktionen
 
 **Erläuterung der Funktionsdarstellung:**
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P4-100 | Funktionsbezeichnung |
+| **P4-100** | **Funktionsbezeichnung** |
 
 Ident-Nummer einer Pflichtfunktion   Ident-Nummer einer älteren Version
 
-| KONDITIONALE PFLICHTFUNKTION | |
+| **KONDITIONALE PFLICHTFUNKTION** | |
 |---|---|
-| K8-300 | Funktionsbezeichnung |
+| **K8-300** | **Funktionsbezeichnung** |
 
 Ident-Nummer einer konditionalen Pflichtfunktion, die an Bedingun
 
@@ -251,9 +222,9 @@ wenn alle jeweils genannten
 
 gen geknüpft ist
 
-| OPTIONALE FUNKTION | |
+| **OPTIONALE FUNKTION** | |
 |---|---|
-| O8-300 | Funktionsbezeichnung |
+| **O8-300** | **Funktionsbezeichnung** |
 
 Ident-Nummer einer optionalen Funktion (P2-070)
 
@@ -261,23 +232,23 @@ Ident-Nummer einer optionalen Funktion (P2-070)
 
 **1.3 Allgemeine Anforderungen an die Verordnungssoftware**
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P1-010 |  |
+| **P1-010** |  |
 
 Es muss eine ausreichende Dokumentation zur Verordnungssoftware in elektronischer Form  oder in Form eines Handbuchs zur Verfügung gestellt werden.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P1-030 | Sicherung von Nutzereinstellungen |
+| **P1-030** | **Sicherung von Nutzereinstellungen** |
 
 Einstellungen der Ärztin bzw. des Arztes müssen bei Aktualisierung der Verordnungssoftware
 
 übernommen werden.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P1-040 | nach § 31 SGB V in die Arzneimittelversorgung einbezogenen Produkten |
+| **P1-040** | **nach § 31 SGB V in die Arzneimittelversorgung einbezogenen Produkten** |
 
 Alle Inhalte von Pflicht- und konditionalen Pflichtfunktionen zu Informationen zu Arzneimitteln  und sonstigen nach § 31 SGB V in die Arzneimittelversorgung einbezogenen Produkten sowie
 
@@ -285,9 +256,9 @@ zu Verordnungsinformationen sind ohne Freischaltung bzw. Maßnahmen zur Aktivier
 
 unverzüglich bereitzustellen.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P1-050 | Einbindung der Schnittstelle für Arzneimittelvereinbarungen nach § 84 |
+| **P1-050** | **Einbindung der Schnittstelle für Arzneimittelvereinbarungen nach § 84** |
 
 Die Verordnungssoftware muss die über die im Nachfolgenden definierte Schnittstelle
 
@@ -326,9 +297,9 @@ Benutzerhandbuch Freischaltung einzelner Informationen zu Arzneimitteln und sons
 
 **2.1 Vollständigkeit der Arzneimittelstammdaten**
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P2-100 | Vollständigkeit und Aktualität der |
+| **P2-100** | **Vollständigkeit und Aktualität der** |
 
 Die Arzneimittelstammdaten bestehen aus Preis - und Produktinformationen  SGB V, die alle in die Arzneimittelversorgung der gesetzlichen Krankenversicherung
 
@@ -398,17 +369,13 @@ den jeweils aktuellen Stand der maschinenlesbaren Fassung ab - -ausschlüsse),
 
 -
 
-abzubilden. Dies gilt
+abzubilden. Dies gilt auch
 
-stets für sämtliche
+stets für sämtliche Produkte
 
 veröffentlichten Preis- und Produktangaben  erkennbar anzugeben.
 
 bilden.
-
-auch
-
-Produkte
 
 für
 
@@ -425,9 +392,9 @@ Arzneimittelstammdaten 31 SGB V in die
 
 **2.2 Inhalte und** **etc.**
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P2-110 | Inhalte der Arzneimittelstammdaten |
+| **P2-110** | **Inhalte der Arzneimittelstammdaten** |
 
 Die Mindestangaben  Arzneimittelversorgung einbezogene Produkte
 
@@ -493,15 +460,11 @@ Auf Ebene der PZN (entspricht der Packungsebene) stehen für Fertigarzneimittel 
 
 ## Einsatz der Arzneimittelstammdaten, Aktualisierung,
 
-für Fertigarzneimittel und sonstige nach § 31 SGB V
+für Fertigarzneimittel und sonstige nach § 31 SGB V in die
 
 müssen zur Verfügung gestellt werden.
 
-### Mindestangaben von Fertigarzneimitteln entsprechend Preis
-
-in die
-
-### und
+### Mindestangaben von Fertigarzneimitteln entsprechend Preis und
 
 PZN
 
@@ -624,10 +587,7 @@ N3 nach der Verordnung nach § 31 -
 
 - 080
 
-| 3 Nach | § 34 | Absatz 3 SGB | V: | Anlage 2 |
-|---|---|---|---|---|
-| (sog. | Negativliste) | gilt als |  |  |
-| Teil | der AM-RL. |  |  |  |
+3 Nach § 34 Absatz 3 SGB V: Anlage 2 Nr. 2 bis 6 der Verordnung über unwirtschaftliche Arzneimittel in der GKV  (sog. Negativliste) gilt als Verordnungsausschluss und wurde mit der gesetzlichen Neuregelung zum 01.01.2011  Teil der AM-RL.
 
 - Merkmal AVP liegt über, unter oder ist gleich dem Festbetrag (Berechnung durch  Software)
 
@@ -707,7 +667,7 @@ N3 nach der Verordnung nach § 31 -
 
 - § 35a Absatz 3b  § 35a
 
-Nach § 34 Absatz 3 SGB V: Anlage 2 Nr. 2 bis 6 der Verordnung über unwirtschaftliche Arzneimittel in der GKV (sog. Negativliste) gilt als Verordnungsausschluss und wurde mit der gesetzlichen Neuregelung zum 01.01.2011 Teil der AM-RL.  - des G-BA)
+- des G-BA)
 
 
 ---
@@ -1443,9 +1403,9 @@ Ernährung mindestens die folgenden Informationen zur Verfügung , sofern sie in
 
 - 611
 
-| KONDITIONALE PFLICHTFUNKTION | |
+| **KONDITIONALE PFLICHTFUNKTION** | |
 |---|---|
-| K2-120 | Weitere Inhalte der Arzneimittelstammdaten |
+| **K2-120** | **Weitere Inhalte der Arzneimittelstammdaten** |
 
 **Weitere Informationen, sofern sie zur Verfügung stehen**
 
@@ -1491,9 +1451,9 @@ Ernährung mindestens die folgenden Informationen zur Verfügung , sofern sie in
 
 - Anwendung in der Schwangerschaft und Stillzeit (im Wortlaut der Fachinformation)
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P2-130 | Aktualisierung und Änderbarkeit der Arzneimittelstammdaten |
+| **P2-130** | **Aktualisierung und Änderbarkeit der Arzneimittelstammdaten** |
 
 Für die Verordnungssoftware sind regelmäßig aktualisierte
 
@@ -1550,9 +1510,9 @@ r hinaus
 
 sind weitere Änderungen der Arzneimittelstammdaten unzulässig. Änderungen, die die  Produkte der Hausapotheke betreffen, sind
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P2-140 | Prüfregeln zur Aktualität der Arzneimittelstammdaten |
+| **P2-140** | **Prüfregeln zur Aktualität der Arzneimittelstammdaten** |
 
 In der Verordnungssoftware sind Prüfregeln zu implementieren, die bei Ablauf der Aktualität  der Arzneimittelstammdaten auf durchzuführende Aktualisierungen aufmerksam machen. Es  ist bei erstmaligem Aufruf der  des vorgesehenen Updates nach
 
@@ -1564,9 +1524,9 @@ Verordnungssoftware ein Hinweis zu geben, wenn der Zeitpunkt
 
 **2.3 Hausapotheke**
 
-| OPTIONALE FUNKTION | |
+| **OPTIONALE FUNKTION** | |
 |---|---|
-| O2-145 | Hausapotheke |
+| **O2-145** | **Hausapotheke** |
 
 Unter Ha usapotheke sind praxisbezogene BSNR/ NBSNR oder arztbezogene
 
@@ -1574,9 +1534,9 @@ Produktlisten zu verstehen, aus denen Verordnungen vorgenommen werden können . 
 
 sich bei den folgenden Anforderungen um konditionale Pflichtfunktionen. Die Produktlisten  werden in der Verordnungssoftware gespeichert. Sobald eine Verordnungssoftware eine  Hausapotheke hat, müssen die Funktionen **K 2-150** bis **K2-160**
 
-| KONDITIONALE PFLICHTFUNKTION | |
+| **KONDITIONALE PFLICHTFUNKTION** | |
 |---|---|
-| K 2-150 | Erstinstallation der Verordnungssoftware |
+| **K 2-150** | **Erstinstallation der Verordnungssoftware** |
 
 In der Verordnungssoftware darf die Hausapotheke bei der Erstinstallation keinen Eintrag  enthalten, also nicht vorbelegt sein. Dies gilt nicht bei Übertragung einer bestehenden  Hausapotheke im Rahmen des Wechsels der Verordnungssoftw
 
@@ -1584,9 +1544,9 @@ In der Verordnungssoftware darf die Hausapotheke bei der Erstinstallation keinen
 
 Umsetzung der Anforderung **O2-145**
 
-| KONDITIONALE PFLICHTFUNKTION | |
+| **KONDITIONALE PFLICHTFUNKTION** | |
 |---|---|
-| K2-155 | Einträge in der Hausapotheke |
+| **K2-155** | **Einträge in der Hausapotheke** |
 
 Die Einträge in der Hausapotheke müssen auf Packungs- und/oder Freitextebene gespeichert
 
@@ -1648,9 +1608,9 @@ n Arzneimittel zu -
 
 ---
 
-| KONDITIONALE PFLICHTFUNKTION | |
+| **KONDITIONALE PFLICHTFUNKTION** | |
 |---|---|
-| K2-160 | Aktualisierung der Hausapotheke |
+| **K2-160** | **Aktualisierung der Hausapotheke** |
 
 Es muss die Möglichkeit vorhanden sein, sich die Änderungen der Hausapotheke nach einer  automatischen Aktualisierung anzeigen zu lassen.
 
@@ -1743,9 +1703,7 @@ Arzneimittelstammdaten macht diese Änderungen auf einen Blick nachvollziehbar.
 
 - (6) Änderungen der Merkmale Preis ( 030), Merkmal AVP liegt über, unter oder ist gleich  dem Festbetrag ( 034) sowie Artikelstatus ( 009) müssen besonders hervorgehoben  werden.
 
-- (7) Die jeweils aktuelle
-
-- aufrufbar sein.
+- (7) Die jeweils aktuelle  aufrufbar sein.
 
 - (8) Die jeweiligen Felder gemäß Akzeptanzkriterium 4 sind nur anzuzeigen, sofern sich  Änderungen ergeben haben.
 
@@ -1797,11 +1755,13 @@ Preis, wie vom Hersteller/Anbieter angegeben (für  enteralen Ernährung)
 
 Absatz 1c SGB V (Vertraulicher
 
-Anlage III der AM-RL -RL
+Anlage III der AM-RL -ausschlüssen der
 
-§ 35a SGB V -ausschlüssen der
+-RL
 
 Therapiehinweis
+
+§ 35a SGB V
 
 bilanzierte Diäten zur - -130 nicht
 
@@ -1814,9 +1774,9 @@ bilanzierte Diäten zur - -130 nicht
 
 ## 3.1 Allgemeine Anforderungen
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-100 | Einheitliches Layout von Auswahllisten/Suchergebnissen |
+| **P3-100** | **Einheitliches Layout von Auswahllisten/Suchergebnissen** |
 
 Auswahllisten zur Verordnung von Fertigarzneimitteln und sonstigen nach § 31 SGB V in die  Arzneimittelversorgung einbezogenen Produkten besitzen ein einheitliches Layout ohne  Hervorhebungen.
 
@@ -1832,17 +1792,17 @@ zwischen Krankenkassen
 
 und Kassenärztlichen
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-110 | Auswahl aus einem vollständigen Verzeichnis |
+| **P3-110** | **Auswahl aus einem vollständigen Verzeichnis** |
 
 Die Übernahme eines Fertigarzneimittels oder eines sonstigen nach § 31 SGB V in die
 
 Arzneimittelversorgung einbezogenen Produktes auf ein Rezept oder in eine Hausapotheke  erfolgt aus einer Datenbank auf Grundlage eines vollständigen Verzeichnisses nach **P2-100**
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-113 | Ärztemuster gemäß AMG |
+| **P3-113** | **Ärztemuster gemäß AMG** |
 
 Ärztemuster nach § 47 Absatz 3 und 4 AMG (Merkmal 016 Artikeltyp: Ärztemuster gemäß  AMG) sind initial in der Verordnungssoftware nicht anzuzeigen.
 
@@ -1871,17 +1831,17 @@ Da Ärztemuster weder verordnet noch in der Apotheke erworben werden können, is
 
 ---
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-115 | Nachträgliche Bearbeitung von Stammdaten |
+| **P3-115** | **Nachträgliche Bearbeitung von Stammdaten** |
 
 Die nachträgliche Bearbeitung von Stammdaten gemäß  den Vertragsarzt ist unzulässig. Ihr bzw. ihm kann die Möglichkeit gegeben werden, für  Einträge der Hausapotheke zusätzliche Kurznamen, Bezeichnungen, Kommentare und  Tastenkürzel zu vergeben, die ihm die Suche in der Hausapotheke bzw. die Verordnung aus  der Hausapotheke erleichtern. Beim Bedrucken des Rezeptformulars sind jedoch die  Originaldaten der Arzneimitteldatenbank zu verwenden.
 
 **P2-100** durch die Vertragsärztin bzw.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-120 | Angaben bei erster und wiederholter Verordnung |
+| **P3-120** | **Angaben bei erster und wiederholter Verordnung** |
 
 Sowohl in den tabellarischen Auswahllisten nach **P3-315 P3-320**
 
@@ -1899,7 +1859,7 @@ Bei einem Verordnungsvorgang bzw. der Auswahl eine r Packung sollen die grundleg
 
 - Auswahl einer konkreten Packung angezeigt werden:
 
-| Merkmal | Inhalt gemäß  P2-110 |
+| **Merkmal** | **Inhalt gemäß  P2-110** |
 |---|---|
 | Handelsname | 002, 202, 402, 502, |
 | Darreichungsform | 003, 205, 405, 504, |
@@ -1919,7 +1879,7 @@ Erste Ebene Arzneimitteln; Herstellerangabe oder Vertragspreis bei Medizinproduk
 
 ---
 
-| Merkmal | Inhalt gemäß  P2-110 |
+| **Merkmal** | **Inhalt gemäß  P2-110** |
 |---|---|
 | Gesamtzuzahlung des Patienten als Summe von | Wenn Merkmal 038    039  Ansonsten      035 + 036 |
 | Kennzeichnung: AVP liegt über/unter/gleich Festbetrag | 034 |
@@ -1943,7 +1903,7 @@ Mehrkosten Arzneimittelvereinbarung betroffen ist SGB V für die Krankenkasse de
 
 ---
 
-| Merkmal | Inhalt gemäß  P2-110 |
+| **Merkmal** | **Inhalt gemäß  P2-110** |
 |---|---|
 | - | und nicht 053 |
 | - | 056 |
@@ -1965,9 +1925,9 @@ Bei Erwachsenen und Jugendlichen ab Vollendung des 12. 010 ja und 0 11 nein Lebe
 
 - (2) Die Software muss durch **maximal** eine Interaktion die weiteren geforderten Merkmale - nach **P3-121** anzeigen.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-121 | Angaben bei erster und wiederholter Verordnung |
+| **P3-121** | **Angaben bei erster und wiederholter Verordnung** |
 
 Bei Auswahl einer Packung sind durch die Software auf **zweiter Ebene** zusätzlich zu den
 
@@ -1985,7 +1945,7 @@ die für die Verordnung wichtig sind, sichtbar sein.
 
 - (1) In der Anzeige der weiteren packungsbezogenen Informationen müssen mindestens  folgende Merkmale nach **P2-110** ohne weitere Anwenderaktion (z.B. Scroll-Vorgänge) - angezeigt werden:
 
-| Merkmal | Inhalt gemäß  P2-110 |
+| **Merkmal** | **Inhalt gemäß  P2-110** |
 |---|---|
 | Zuzahlung | Wenn Merkmal 038    039  Ansonsten     035 |
 | Mehrkosten | 036 |
@@ -2001,7 +1961,7 @@ Zweite Ebene Pflichtfunktion zutrifft, dann  BtM oder T-Rezept-Arzneimittel 012 
 
 ---
 
-| Merkmal | Inhalt gemäß  P2-110 |
+| **Merkmal** | **Inhalt gemäß  P2-110** |
 |---|---|
 | Kennzeichnung, falls dieses Arzneimittel | 055 |
 | Kennzeichnung, falls dieses Arzneimittel | 056 |
@@ -2036,9 +1996,9 @@ Verordnungseinschränkungen der  AM-RL Anlage III unterliegt Verordnungsausschl�
 
 ---
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-130 | Anzeige von Hinweisen |
+| **P3-130** | **Anzeige von Hinweisen** |
 
 Sofern ein Produkt einer der folgenden Regelungen unterliegt, sind dem Arzt die vollständigen  Texte aus der AM -RL bzw. Hinweise aus Arzneimittelvereinbarungen vor oder während des  Verordnungsvorgangs anzuzeigen:
 
@@ -2092,9 +2052,9 @@ Zeilenumbruche Zeilenumbrüche und - **P2-110** Merkmal
 
 ---
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-141 | Anzeige der archivierten Rote-Hand-Briefe |
+| **P3-141** | **Anzeige der archivierten Rote-Hand-Briefe** |
 
 Die Vertragsärztin bzw. der Vertragsarzt muss die Möglichkeit haben sich in der
 
@@ -2149,9 +2109,9 @@ Für alle Rote-Hand-Briefe, die zum Zeitpunkt des 01.10.2023 älter als sechs Mo
 
 ---
 
-| OPTIONALE FUNKTION | |
+| **OPTIONALE FUNKTION** | |
 |---|---|
-| O3-145 | Weitere optionale Informationen |
+| **O3-145** | **Weitere optionale Informationen** |
 
 Die Implementierung weiterer nicht packungsbezogen zugeordneter Informationen in der  Verordnungssoftware ist gemäß folgender Akzeptanzkriterien möglich.
 
@@ -2200,9 +2160,9 @@ online.html
 
 Die Implementierung, Darstellung und Recherchierbarkeit der Inhalte der Beschlüsse des  G-BA nach § 35a SGB V erfolgt auf Basis der hierzu vom G -BA in regelmäßig aktualisierter  Form bereitgestellten maschinenlesbaren  SGB V auf den Internetseiten des G -BA und wird in folgenden Funktionen abschließend  beschrieben.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-250 | Implementierung der maschinenlesbaren Fassung zu Beschlüssen des |
+| **P3-250 ** | **Implementierung der maschinenlesbaren Fassung zu Beschlüssen des** |
 
 Die nachfolgend beschriebenen Inhalte der maschinenlesbaren Fassung zu Beschlüssen nach
 
@@ -2224,9 +2184,9 @@ Näheres zu den Inhalten, dem strukturellen Aufbau, Umfang und Datenformat ist i
 
 - Spezifikation der Datei für eine maschinenlesbare Fassung zu den Beschlüssen nach  § 35a SGB V des G-BA erfolgen.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-255 | Aufrufbarkeit der Inhalte der Beschlüsse |
+| **P3-255** | **Aufrufbarkeit der Inhalte der Beschlüsse** |
 
 Für ein Arzneimittel, für welches ein oder mehrere Beschlüsse des G-BA nach § 35a SGB V  vorliegen, sind die Inhalte aufrufbar.
 
@@ -2265,9 +2225,9 @@ G-BA nach § 35a SGB V - **P2-110** genannten
 
 - nach Auswahl des Arzneimittels mit einer Aktion zur Verfügung stellen.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-260 | Darstellung einer Beschluss-Übersicht |
+| **P3-260** | **Darstellung einer Beschluss-Übersicht** |
 
 Die Beschlüsse des G -BA nach § 35a SGB V für ein Arzneimittel sind in einer
 
@@ -2318,9 +2278,9 @@ ist notwendig, um die Informationen des jeweiligen Beschlusses einfach aufrufen 
 
 ---
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-265 | Darstellung der Inhalte der Beschlüsse |
+| **P3-265** | **Darstellung der Inhalte der Beschlüsse** |
 
 Die wesentlichen Inhalte eines Beschlusses müssen mindestens angezeigt werden.
 
@@ -2446,9 +2406,9 @@ beschriebenen Inhalte notwendig.
 
 ---
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-270 | Anzeige der |
+| **P3-270** | **Anzeige der** |
 
 Sofern ein Arzneimittel , für das ein Beschluss de s G -BA nach § 35a SGB V mit
 
@@ -2483,15 +2443,15 @@ Inhalte von Beschlüssen nach § 35a SGB  V mit Beschlussdatum nach 30.06.2020
 
 **3.3 Werbung**
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-200 | Werbefreie Verordnungssoftware |
+| **P3-200** | **Werbefreie Verordnungssoftware** |
 
 Die Anbieter von Verordnungssoftware müssen von Produktwerbung freie Versionen ihrer  Systeme anbieten. Ein Wechsel in die werbefreie Version muss ohne Datenverlust möglich  sein.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-210 | Anzeige von Werbung |
+| **P3-210** | **Anzeige von Werbung** |
 
 Werbung ist nur in Form von Werbefenstern zulässig. Diese müssen deutlich erkennbar durch
 
@@ -2515,9 +2475,9 @@ Werbung oder Hinweise, die ausdrücklich oder sinngemäß auf das Ankreuzen von 
 
 Die Einbindung von Aufrufen herstellerspezifischer Produktkataloge, aus denen direkt oder  indirekt eine Verordnung erfolgen kann, ist unzulässig. Animierte Werbung ist nicht gestattet.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-220 | Ausschalten von Werbung |
+| **P3-220** | **Ausschalten von Werbung** |
 
 Bei der Verordnung muss dem Arzt ermöglicht werden, Werbeeinblendungen oder
 
@@ -2530,9 +2490,9 @@ Werbefenster durch eine einzige Aktion auszublenden
 
 **3.4.1 Suchoptionen**
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-300 | Such-/ Rechercheoptionen nach Arzneimitteln und sonstigen nach § 31 |
+| **P3-300** | **Such-/ Rechercheoptionen nach Arzneimitteln und sonstigen nach § 31** |
 
 Arzneimittel und sonstige nach § 31 SGB V in die Arzneimittelversorgung einbezogene
 
@@ -2566,9 +2526,9 @@ des ATC -Codes kann entweder durch Eingabe des ATC -Codes (7 - oder 5 -stellig) 
 
 Der ICD -10-GM-Kode sowie die Bezeichnung des ICD -10-GM-Kodes müssen mi ttels  Freitextsuche gesucht werden können , weitere Möglichkeiten der Suche bezüglich ICD -10- GM-Kode sowie Bezeichnung des ICD-10-GM-Kodes sind möglich.
 
-| OPTIONALE FUNKTION | |
+| **OPTIONALE FUNKTION** | |
 |---|---|
-| O3-310 | Weitere mögliche Such-/bzw. Filteroptionen |
+| **O3-310** | **Weitere mögliche Such-/bzw. Filteroptionen** |
 
 Weitere Such und Filteroptionen sind zulässig, sofern die Vertragsärztin bzw. der Vertragsarzt
 
@@ -2597,9 +2557,9 @@ Eine kombinierte Abfrage ist möglich.
 
 **3.4.2 Darstellung von Suchergebnissen**
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-315 | Alphabetische Sortierung der Auswahlliste (Grundeinstellung) |
+| **P3-315** | **Alphabetische Sortierung der Auswahlliste (Grundeinstellung)** |
 
 Suchergebnisse nach Handelsnamen oder Hersteller /Anbieter werden als nach
 
@@ -2611,9 +2571,9 @@ Wird das Suchergebnis als Liste von Produkten angezeigt, so sind bei Auswahl ein
 
 Produktes alle zugehörigen Packungen mit den Merkmalen nach **P3-120** anzuzeigen.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-320 | Sortierung der Auswahlliste (Grundeinstellung) |
+| **P3-320** | **Sortierung der Auswahlliste (Grundeinstellung)** |
 
 Arzneimittel, die weder nach Handels - noch Herstellername gesucht wurden, sind für jeden  Wirkstoff (maßgeblich ist die ATC -Klassifikation nach BfArM) nach folgenden Kriterien
 
@@ -2652,9 +2612,9 @@ ist der gesamte Bereich hervorzuheben.
 
 ---
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-325 | Preisvergleichssuche und |
+| **P3-325** | **Preisvergleichssuche und** |
 
 Zu jedem Arzneimittel und sonstigem nach § 31 SGB V in die Arzneimittelversorgung
 
@@ -2682,9 +2642,9 @@ Anforderungskatalog geregelten Kennzeichnungen hinausgehen, sowie der Fokus oder
 
 zugrundeliegende Ursprungsarzneimittel darf optisch markiert werden. Die Auswahl muss  unbeeinflusst getroffen werden können.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-330 | Sortierung der Auswahlliste (Variationsmöglichkeiten) |
+| **P3-330** | **Sortierung der Auswahlliste (Variationsmöglichkeiten)** |
 
 Eine alternative Sortierung oder eine Filterung der Auswahlliste nach folgenden kombiniert) muss gewährleistet werden:
 
@@ -2696,9 +2656,9 @@ Eine alternative Sortierung oder eine Filterung der Auswahlliste nach folgenden 
 
 -  Produkte mit der Kennzeichnung Rabattvereinbarung (090)
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-340 | Anzeige von Detailinformationen |
+| **P3-340** | **Anzeige von Detailinformationen** |
 
 In jeder Programmstellung müssen zu jedem Produkt alle Angaben nach  mit maximal 2 Aktionen aufrufbar sein.
 
@@ -2723,9 +2683,9 @@ Sortierung der Preisvergleich (Grundeinstellung) Auswahlliste nach **P3-120** al
 
 **3.5 Substitution**
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-400 | Substitutionsvorschläge/Verordnungsvorschläge |
+| **P3-400** | **Substitutionsvorschläge/Verordnungsvorschläge** |
 
 Die nachfolgend aufgeführten Substitutionsvorschläge für ein ausgewähltes Arzneimittel sind  nach individueller Anforderung jeweils mit nur einer Aktion durch die Verordnungssoftware in  Form von Auswahllisten nach Maßgabe der Pflichtfunktion
 
@@ -2749,15 +2709,15 @@ Die nachfolgend aufgeführten Substitutionsvorschläge für ein ausgewähltes Ar
 
 Darstellungen von Substitutionsvorschlägen ohne vorhergehende individuelle Anforderung  oder andere als die aufgeführten Substitutionsvorschläge sind unzulässig.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-420 | Vollständige Auflistung aller Substitutionsvorschläge |
+| **P3-420** | **Vollständige Auflistung aller Substitutionsvorschläge** |
 
 Fordert d ie Ärztin bzw. d er Arzt Substitutionsvorschläge an, so sind alle verfügbaren  Arzneimittel zu berücksichtigen. Die Anforderungen von  berücksichtigen. Die endgültige Auswahl muss durch die Ärztin bzw. den Arzt erfolgen.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-430 | Keine automatische Belegung von „aut idem“ |
+| **P3-430** | **Keine automatische Belegung von „aut idem“** |
 
 Eine automatische Belegung des Rezeptfelds „aut idem“ ist unzulässig. Hersteller
 
@@ -2796,17 +2756,17 @@ darzustellen: - te Arzneimittel
 
 ---
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-440 | Diskriminierungsfreier Aufruf und Anzeige von Substitutionsvorschlägen |
+| **P3-440** | **Diskriminierungsfreier Aufruf und Anzeige von Substitutionsvorschlägen** |
 
 Der Aufruf von Preisvergleichssuchen nach  muss in vergleichbarer und leicht auffindbarer Weise erfolgen. Die Anzeige der verschiedenen  Ergebnislisten erfolgt in einheitlicher Form und an gleicher Stelle in der Programmoberfläche.  Die Art der Vergleichssuche/des Substitutionsvorschlages ist erkennbar anzugeben. Ggf.  gesetzte Filter und Sortierungen sind erkennbar anzuzeigen.
 
 **3.6 Sicherstellung von Verordnungsinformationen**
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-515 | Anzeige von Rabattarzneimitteln im Workflow |
+| **P3-515** | **Anzeige von Rabattarzneimitteln im Workflow** |
 
 In allen Auswahllisten sind in Abhängigkeit von der Krankenkasse des Patienten alle  rabattierten Produkte (**P2-110** Merkmal 090) ohne gesonderte Anwenderaktion einheitlich zu
 
@@ -2814,9 +2774,9 @@ kennzeichnen.
 
 **P3-325** und Substitutionsvorschläge nach
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-516 | Schnellauswahl von Rabattarzneimitteln |
+| **P3-516** | **Schnellauswahl von Rabattarzneimitteln** |
 
 Bei der Anzeige von Suchergebnissen oder Substitutionsvorschlägen  Fertigarzneimittelpackungen (PZN-Ebene) ist der Vertragsärztin bzw. dem Vertragsarzt  eine einfache Aktion die Möglichkeit zu geben, die angezeigten Ergebnisse auf die für den  jeweiligen Patienten rabattierte n Arzneimittel zu begrenzen. Liegen keine rabattierten  Arzneimittel im Suchergebnis vor, ist ein entsprechender Hinweis zu geben, das Suchergebnis  bleibt in diesem Fall unverändert.
 
@@ -2824,9 +2784,9 @@ In den Benutzereinstellungen der Verordnungssoftware
 
 vorzusehen, die es der Vertragsärztin bzw. dem Vertragsarzt erlaubt, die Begrenzung der  angezeigten Suchergebnisse auf rabattierte Arzneimittel zu setzen. Liegt zu den jeweiligen  Suchparametern kein rabattiertes Arzneimittel vor, so ist  Vertragsarzt ein entsprechender Hinweis zu geben und das Suchergebnis ohne die  Eingrenzung auf rabattierte Arzneimittel anzuzeigen.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-520 | Anzeige von preisgünstigeren Arzneimitteln |
+| **P3-520** | **Anzeige von preisgünstigeren Arzneimitteln** |
 
 Bei Arzneimittelverordnungen sind
 
@@ -2859,25 +2819,25 @@ und Preisvergleich  r Ärztin bzw. des
 
 ---
 
-| OPTIONALE FUNKTION | |
+| **OPTIONALE FUNKTION** | |
 |---|---|
-| O3-540 | Preishistorie |
+| **O3-540** | **Preishistorie** |
 
 Steht eine produktbezogene Preishistorie zur Verfügung, sind mindestens die Daten der  letzten 2 Jahre anzuzeigen.
 
 **3.7 Optimierung der effizienten Verordnung**
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-600 | Bereitstellung der AM-RL inkl. ihrer Anlagen |
+| **P3-600** | **Bereitstellung der AM-RL inkl. ihrer Anlagen** |
 
 Es muss ist die AM-RL nach § 92 Absatz 1 Satz 2 Nummer 6 SGB V inkl. ihrer Anlagen  entsprechend **P2-100** auch in Textform als PDF-Datei nach aktuellem Stand zur Verfügung
 
 gestellt werden. Änderungen der AM-RL und deren Anlagen sind mit dem Inkrafttreten im  Rahmen der nächsten Aktualisierung der Arzneimittelstammdaten zu übernehmen.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-610 | Inhalte aus Arzneimittelvereinbarungen nach |
+| **P3-610** | **Inhalte aus Arzneimittelvereinbarungen nach** |
 
 Maßnahmen zur Umsetzung von Versorgungs und Wirtschaftlichkeitszielen sowie
 
@@ -2908,9 +2868,9 @@ der Anlage 2b des BMV -Ä (im Folgenden Technische
 
 Arzneimittelverordnung genannt) beziehen sich auf den Verordnungsprozess  davon, ob die Verordnung papiergebunden oder elektronisch ausgestellt wird.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P 3-621 | Verordnung aus den Arzneimittelstammdaten |
+| **P 3-621** | **Verordnung aus den Arzneimittelstammdaten** |
 
 Die Verordnungssoftware  Arzneimittelstammdaten (P2-110) umsetzen.
 
@@ -2979,9 +2939,9 @@ auf Grundlage der - Vertragsarzt
 
 - (7) Für die Bedruckung einer papiergebundenen Verordnung ist **P 3-721** zu beachten.
 
-| OPTIONALE FUNKTION | |
+| **OPTIONALE FUNKTION** | |
 |---|---|
-| O 3-622 | Wirkstoffverordnung |
+| **O 3-622** | **Wirkstoffverordnung** |
 
 Die Verordnungssoftware kann eine strukturierte Wirkstoffverordnung anbieten. Dies gilt nicht
 
@@ -3036,13 +2996,15 @@ Ausstellen.
 
 ---
 
-- (Merkmal 012) sowie für T-Rezept Arzneimittel (Merkmal - werden.
+- (Merkmal 012) sowie für T-Rezept Arzneimittel (Merkmal 013), darf sie nicht umgesetzt - werden.
 
-| OPTIONALE FUNKTION | |
+| **OPTIONALE FUNKTION** | |
 |---|---|
-| O3-623 | Rezepturverordnung |
+| **O3-623** | **Rezepturverordnung** |
 
-Die Verordnungssoftware kann Verordnungen von Rezepturen (Arzneimittel,  Apotheke im Einzelfall auf Grund einer Verschreibung hergestellt werden) in strukturierter  Form anbieten.
+Die Verordnungssoftware kann Verordnungen von Rezepturen (Arzneimittel, die in der
+
+Apotheke im Einzelfall auf Grund einer Verschreibung hergestellt werden) in strukturierter  Form anbieten.
 
 **Begründung**
 
@@ -3050,15 +3012,21 @@ Die strukturierte Erfassung der notwendigen Informationen für eine Rezeptur sol
 
 **Akzeptanzkriterien**
 
-- (1) Die Verordnungssoftware muss eine Verordnung von in der Apotheke  herzustellenden Arzneimitteln (Rezepturverordnung) gemäß den Inhalten Technischen Anlage elektronische Arzneimittelverordnung
+- (1) Die Verordnungssoftware muss eine Verordnung von in der Apotheke  herzustellenden Arzneimitteln (Rezepturverordnung) gemäß den Inhalten der
 
-- (2) Das System ermöglicht für einen oder mehrere Bestandteile jeweils die Auswahl  eines Produktes aus den Arzneimittelstammdaten
+- Technischen Anlage elektronische Arzneimittelverordnung umsetzen.
 
-- o Bei Auswahl eines Produkts aus den Arzneimittelstammdaten  Handelsname, die Darreichungsform und die entsprechende PZN automatisch  befüllt werden und dürfen nicht mehr manuell geändert werden. Einheit können jedoch bedarfsgerecht angepa
+- (2) Das System ermöglicht für einen oder mehrere Bestandteile jeweils die Auswahl  eines Produktes aus den Arzneimittelstammdaten oder Freitext.
+
+- o Bei Auswahl eines Produkts aus den Arzneimittelstammdaten müssen der
+
+- Handelsname, die Darreichungsform und die entsprechende PZN automatisch  befüllt werden und dürfen nicht mehr manuell geändert werden. Menge und
+
+- Einheit können jedoch bedarfsgerecht angepasst werden.
 
 - o Bei Freitexteingabe muss das Feld „PZN des Bestandteils“ leer bleiben.
 
-- (3) Die Verordnungssoftware muss das patientenunabhängige Speichern
+- (3) Die Verordnungssoftware muss das patientenunabhängige Speichern von in
 
 - strukturierter Form erfasster Standardrezepturen ermöglichen
 
@@ -3066,58 +3034,36 @@ Die strukturierte Erfassung der notwendigen Informationen für eine Rezeptur sol
 
 - hinterlegen und der Vertragsärztin bzw. dem Vertragsarzt zur Auswahl bereitstellen.
 
-- (5) Für die Bedruckung einer papiergebundenen Verordnung ist
+- (5) Für die Bedruckung einer papiergebundenen Verordnung ist **K 3-723** zu beachten.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P 3-624 | Freitextverordnung |
+| **P 3-624** | **Freitextverordnung** |
 
 Die Verordnungssoftware muss eine Freitextverordnung ermöglichen
 
 **Begründung:**
 
-Nicht alle Verordnungen können über die strukturierten Verordnungsmöglichkeiten  werden (z.B. Produkte ohne PZN).
+Nicht alle Verordnungen können über die strukturierten Verordnungsmöglichkeiten abgebildet
+
+werden (z.B. Produkte ohne PZN).
 
 **Akzeptanzkriterien:**
 
-- (1) Die Verordnungssoftware muss eine Freitextverordnung gemäß den Inhalten  Technischen Anlage elektronische Arzneimittelverordnung umsetzen.
+- (1) Die Verordnungssoftware muss eine Freitextverordnung gemäß den Inhalten der
 
-- (2) Für die Bedruckung einer papiergebundenen Verordnung ist
+- Technischen Anlage elektronische Arzneimittelverordnung umsetzen.
 
-- 013), darf sie nicht umgesetzt
-
-die in der - umsetzen.
-
-- oder Freitext.
-
-- sst werden.
-
-- der
-
-- müssen der
-
-- Menge und
-
--
-
-- von in
-
--
-
-- **K 3-723** zu beachten.
-
-abgebildet - der
-
-- **P 3-724** zu beachten.
+- (2) Für die Bedruckung einer papiergebundenen Verordnung ist **P 3-724** zu beachten.
 
 
 ---
 
 - (3) Die Verordnungssoftware zeigt dem Anwender einen Hinweis an, dass eine  Freitextverordnung nur erfolgen darf, wenn das zu verordnende Produkt keine PZN  besitzt und unterstützt ihn bei der PZN-Verordnung.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P 3-625 | Dosierungsangabe |
+| **P 3-625** | **Dosierungsangabe** |
 
 Die Verordnungssoftware muss die Angabe einer Dosierung auf einem Rezept ermöglichen.
 
@@ -3261,9 +3207,9 @@ Dosierung immer eine **Gebrauchsanweisung**
 
 Dosierungsangabe nach** P3-625** ist daher bei Rezepturen nicht vorgesehen.
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P 3-630 | Ersatzverordnung |
+| **P 3-630** | **Ersatzverordnung** |
 
 Die Verordnungssoftware muss das Erstellen einer Ersatzverordnung  Satz 7 SGB V ermöglichen.
 
@@ -3328,9 +3274,9 @@ nach § 31 Absatz 3 - nach § 31 Absatz 3 Satz 7
 
 - Verwendbarkeit eines Arzneimittels erforderlich ist.“
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P 3-640 | Mehrfachverordnung |
+| **P 3-640** | **Mehrfachverordnung** |
 
 Die Verordnungssoftware muss die Erstellung einer Mehrfachverordnung (§ 31 Absatz 1b  SGB V i.V.m § 4 Absatz 3 AMVV) im Rahmen einer elektronischen Arzneimittelverordnung  (gemäß P3-710) ermöglichen.
 
@@ -3481,9 +3427,9 @@ Teilverordnung gleich des Ausstellungsdatums ist und bei jeder weiteren Teilvero
 
 **Verordnungen**
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-700 | Erstellung von Verordnungen |
+| **P3-700** | **Erstellung von Verordnungen** |
 
 Die Verordnungssoftware muss sowohl die Bedruckung von  als auch die Erstellung von elektronischen Verordnungen nach § 86 SGB V unterstützen.
 
@@ -3517,11 +3463,9 @@ Betäubungsmittel und T-Arzneimittel.
 
 papiergebundenen Verordnungen
 
-nach
+nach § 31 SGB
 
 Hiervon ausgenommen - Verordnungen (
-
-§ 31 SGB -
 
 - zur Verfügung gestellt
 
@@ -3536,9 +3480,9 @@ sind - **P 3-621 O 3-**
 
 ---
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P 3-710 | Allgemeine Vorgaben zu elektronischen |
+| **P 3-710** | **Allgemeine Vorgaben zu elektronischen** |
 
 Die Verordnungssoftware muss die elektronische Verordnung ermöglichen. Die
 
@@ -3591,9 +3535,9 @@ Verordnungen
 
 ---
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P 3-720 | Allgemeine Vorgaben für die Rezeptbedruckung |
+| **P 3-720** | **Allgemeine Vorgaben für die Rezeptbedruckung** |
 
 Die Verordnungssoftware muss eine gesetzeskonforme sowie eine dem BMV -Ä
 
@@ -3660,9 +3604,9 @@ Arzneimittelversorgung einbezogenen Produkten erfolgt gemäß den gesetzlichen V
 
 ---
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P 3-721 | Rezeptbedruckung von Verordnungen aus |
+| **P 3-721** | **Rezeptbedruckung von Verordnungen aus** |
 
 Die Verordnungssoftware muss gewährleisten, dass die notwendigen Informationen zu  Arzneimitteln und sonstigen nach § 31 SGB V in die Arzneimittelversorgung einbezogenen  Produkten aus den Arzneimittelstammdaten (Produkte mit PZN) auf
 
@@ -3700,20 +3644,20 @@ Die gleichzeitige Angabe von Packungsgröße und Normgröße ist  zulässig.
 
 - o Abgabehinweise
 
-nach § 31
+nach
 
 papiergebundenen
 
-SGB V -
+§ 31 SGB V in die
 
-den Arzneimittelstammdatenin die
+den Arzneimittelstammdaten-
 
 
 ---
 
-| KONDITIONALE PFLICHTFUNKTION | |
+| **KONDITIONALE PFLICHTFUNKTION** | |
 |---|---|
-| K 3-722 | Rezeptbedruckung von Wirkstoffverordnungen |
+| **K 3-722** | **Rezeptbedruckung von Wirkstoffverordnungen** |
 
 Das System muss sicherstellen, dass Wirkstoffverordnungen auf eine papiergebundene  Verordnung ausgedruckt werden können, wenn die Funktion angeboten wird
 
@@ -3754,9 +3698,9 @@ Umsetzung der Funktion **O 3-622** Wirkstoffverordnung
 
 ---
 
-| KONDITIONALE PFLICHTFUNKTION | |
+| **KONDITIONALE PFLICHTFUNKTION** | |
 |---|---|
-| K 3-723 | Rezeptbedruckung von Rezepturverordnungen |
+| **K 3-723** | **Rezeptbedruckung von Rezepturverordnungen** |
 
 Das System muss sicherstellen, dass eine Rezepturverordnung auf ein Rezeptformular  ausgedruckt werden kann, wenn die Funktion angeboten wird
 
@@ -3780,11 +3724,11 @@ Arzneimittelversorgung einbezogenen Produkten erfolgt gemäß den gesetzlichen V
 
 - o Gefäß/ Primärpackmittel, sofern angegeben - o Herstellungsanweisung
 
-sonstigen nach -
+sonstigen nach § 31 SGB V in die - Papierformular nur
 
 -
 
-§ 31 SGB V in die - Papierformular nur
+-
 
 - o Gebrauchsanweisung
 
@@ -3794,9 +3738,9 @@ Umsetzung der Funktion
 
 **O3-623** Rezepturverordnung
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P 3-724 | Rezeptbedruckung von Freitextverordnungen |
+| **P 3-724** | **Rezeptbedruckung von Freitextverordnungen** |
 
 Das System muss sicherstellen, dass Freitext verordnungen auf eine papiergebundene  Verordnung ausgedruckt werden können.
 
@@ -3843,9 +3787,9 @@ o Abgabehinweise -
 
 “ (Verordnung im Rahmen künstlicher
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-730 | Formularauswahl |
+| **P3-730** | **Formularauswahl** |
 
 Die Formularauswahl muss sowohl vor als auch nach der Auswahl der zu verordnenden  Arzneimittel und sonstigen nach § 31 SGB V in die Arzneimittelversorgung einbezogenen  Produkte erfolgen können.
 
@@ -3990,9 +3934,9 @@ Zusätzlich kann das System generell Konfigurationsmöglichkeiten abweichend von
 
 ---
 
-| PFLICHTFUNKTION | |
+| **PFLICHTFUNKTION** | |
 |---|---|
-| P3-731 | Abbildung der Formularauswahl bei einer elektronischen Verordnung |
+| **P3-731** | **Abbildung der Formularauswahl bei einer elektronischen Verordnung** |
 
 Bei einer elektronischen Verordnung ist die getroffene Formularauswahl über eine vorgegebene Kombination von FHIR-Elementen abzubilden.
 
@@ -4006,12 +3950,12 @@ Die Verordnungssoftware muss bei einer elektronischen Verordnung abhängig von d
 
 im FHIR-Datensatz hinterlegen:
 
-| PAPIERGEBUNDENE | ABBILDUNG IN DER ELEKTRONISCHEN |  | |
+| **PAPIERGEBUNDENE** | **ABBILDUNG IN DER ELEKTRONISCHEN** |  | |
 |---|---|---|---|
-| FHIR-Abbildung |  | | |
+| **FHIR-Abbildung** |  | | |
 | Profil | KBV_PR_FOR_Coverage | KBV_PR_ERP_Medication_PZ KBV_PR_ERP_Medication_Ingr KBV_PR_ERP_Medication_Fre |  |
 | Element | Coverage.type.coding.code | Medication.extension(https://fhir. |  |
-| Mapping der Formularauswahl auf die Codes der FHIR |  | | |
+| **Mapping der Formularauswahl auf die Codes der FHIR** |  | | |
 
 FORMULARAUSWAHL VERORDNUNG edient KBV_PR_ERP_Medication_Co mpounding eText kbv.de/StructureDefinition/KBV_ EX_ERP_Medication_Category) .valueCoding.code Elemente
 
@@ -4023,16 +3967,16 @@ FORMULARAUSWAHL VERORDNUNG edient KBV_PR_ERP_Medication_Co mpounding eText kbv.d
 
 *Hinweise:*
 
-(Muster 16) Versicherungsverhältnis / Verordnungssituation entweder GKV BG SKT UK       oder  oder  oder Versicherungsverhältnis entweder: SEL PKV oder Kostenerstattung gemäß § 25a Abs. 5 BMV-Ä verlangt, ist im Element payor.display im Profil KBV_PR_FOR_Coverage der Wert “Kostenerstattung” anzugeben. § 25a Abs. 4 BMV-Ä eine Arzneimittelverordnung erhält, ist im Element payor.display im Profil KBV_PR_FOR_Coverage Versicherungsnachweis” an der Wert “ohne zugeben.  ** In der Stufe 1 der elektronischen Verordnung werden BtM-Rezept und T-Rezept noch nicht unterstützt.*
+(Muster 16) Versicherungsverhältnis / Verordnungssituation entweder GKV BG SKT UK       oder  oder  oder Versicherungsverhältnis entweder: SEL oder PKV Kostenerstattung gemäß § 25a Abs. 5 BMV-Ä verlangt, ist im Element payor.display im Profil KBV_PR_FOR_Coverage der Wert “Kostenerstattung” anzugeben. § 25a Abs. 4 BMV-Ä eine Arzneimittelverordnung erhält, ist im Element payor.display im Profil KBV_PR_FOR_Coverage Versicherungsnachweis” an der Wert “ohne zugeben.  ** In der Stufe 1 der elektronischen Verordnung werden BtM-Rezept und T-Rezept noch nicht unterstützt.*
 
 
 ---
 
 **3.10 Medikationsplan**
 
-| PFLICHTUNKTION | |
+| **PFLICHTUNKTION** | |
 |---|---|
-| P 3-800 | Medikationsplan nach § 31a SGB V |
+| **P 3-800** | **Medikationsplan nach § 31a SGB V** |
 
 Die Verordnungssoftware muss die zur Erstellung und Aktualisierung des Medikationsplans  nach § 31a SGB V notwendigen Funktionen und Informationen enthalten.
 
@@ -4049,9 +3993,9 @@ der KBV).
 
 **4.1 Controlling-Funktionen**
 
-| OPTIONALE FUNKTION | |
+| **OPTIONALE FUNKTION** | |
 |---|---|
-| O4-100 | Richtgrößen |
+| **O4-100** | **Richtgrößen** |
 
 Die Richtgrößen sind in der Verordnungssoftware
 
@@ -4059,9 +4003,9 @@ Richtgrößenunterschiede von KV zu KV zu beachten und bei der neuen Softwareakt
 
 Die entsprechenden Informationen werden von den Vertragspartnern auf Landesebene  bereitgestellt. Der PVS-Anbieter hält eine Schnittstelle hi
 
-| OPTIONALE FUNKTION | |
+| **OPTIONALE FUNKTION** | |
 |---|---|
-| O4-110 | Controlling: Richtgrößenausschöpfung |
+| **O4-110** | **Controlling: Richtgrößenausschöpfung** |
 
 Die Verordnungssoftware kann eine Warnfunktion zur Ausschöpfung der Richtgröße  einblenden. Die Funktion richtet sich nach den rechtlichen Vorgaben in § 106 Absatz 5a  SGB V und wird entsprechend der KV-Richtgrößen aktualisiert.
 
@@ -4069,9 +4013,9 @@ Die entsprechenden Informationen werden von den Vertragspartnern auf Landesebene
 
 Hintergrund: Gesetzliche Grundlage des § 84 (Durchschnittskostenregelung).
 
-| OPTIONALE FUNKTION | |
+| **OPTIONALE FUNKTION** | |
 |---|---|
-| O4-130 | Weitere Controllingprogramme |
+| **O4-130** | **Weitere Controllingprogramme** |
 
 Weitere Controllingprogramme (hinsichtlich der Zielfelder von Zielvereinbarungen, seiner  verursachten Kosten etc.) werden angeboten. Hierbei
 
@@ -4083,9 +4027,9 @@ Die Schnittstelle und deren Inhalte sind ohne Freischaltung bzw. Maßnahmen zur 
 
 unverzüglich bereitzustellen.
 
-| OPTIONALE FUNKTION | |
+| **OPTIONALE FUNKTION** | |
 |---|---|
-| O4-140 | Preiszuordnung bei Wirkstoffverordnung |
+| **O4-140** | **Preiszuordnung bei Wirkstoffverordnung** |
 
 Um eine Verknüpfung mit der Verordnungskostenstatistik zu gewährleisten, wird bei einer  Wirkstoffverordnung der Preis des günstigsten austauschbaren Arzneimittels übernommen.
 
@@ -4114,9 +4058,9 @@ sind
 
 **4.2 Statistik-Funktion**
 
-| KONDITIONALE PFLICHTFUNKTION | |
+| **KONDITIONALE PFLICHTFUNKTION** | |
 |---|---|
-| K4-150 | Export von Verordnungsdaten |
+| **K4-150** | **Export von Verordnungsdaten** |
 
 Ein einfacher Export von in der ärztlichen Dokumentation gespeicherten Verordnungsdaten in  Tabellenkalkulationsprogramme ist zu ermöglichen, sofern die Verordnungssoftware keine  statistischen Dienstmöglichkeiten nach **K4-200** anbietet, die eine patientenbezogene und
 
@@ -4138,9 +4082,9 @@ Folgende Daten müssen mindestens je verordnetem Produkt exportiert werden könn
 
 -  bei Verordnung eines Vielfachen einer Packung ggf. die Anzahl
 
-| KONDITIONALE PFLICHTFUNKTION | |
+| **KONDITIONALE PFLICHTFUNKTION** | |
 |---|---|
-| K4-200 | Erstellung von Statistiken, graphische Darstellung |
+| **K4-200** | **Erstellung von Statistiken, graphische Darstellung** |
 
 Die Erstellung von Statistiken ist möglich. Dabei können verordnungsbezogene Kennzahlen  (z. B. Kosten, Anzahl Verordnungen, Anzahl DDD) fallzahlbezogen (bezogen auf die  Gesamtfallzahl), rezeptfallzahlbezogen (bezogen auf die Zahl von Fällen mit mindestens eine Verordnung) oder einzelfallbezogen (bezogen auf einen Fall) dargestellt werden.
 

@@ -1,8 +1,8 @@
-|  | IT in der Arztpraxis |
+|  | ***IT in der Arztpraxis***** |
 |---|---|
-|  | Handbuch KBV-Prüfmodul |
+|  | *Handbuch KBV-Prüfmodul* |
 |  | [KBV_ITA_AHEX_Handbuch_Pruefmodul |
-|  |  |
+|  | ** |
 |  | Dezernat Digitalisierung und IT |
 |  |  |
 |  | 10623 Berlin, Herbert |
@@ -18,9 +18,9 @@ XPM -Lewin-Platz 2 1.34 Datum: 15.08.2023 Kennzeichnung: Öffentlich  Status: In
 
 ### DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 1.34 | 15.08.2023 |  | Java-Version erhöht |  | 7 |
+| 1.34 | 15.08.2023 |  | Java-Version erhöht |  | **7** |
 
 1.33
 
@@ -601,7 +601,7 @@ Beim Verarbeiten von Massendaten (Servermodus, zip-Archive) werden die Ausgabeda
 
 Bei Fehlerprotokollen fügt das XPM noch ein Präfix, der den Errorlevel der Prüfung kenn- zeichnet. Es werden folgende Präfixe verwendet:
 
-| Errorlevel | Präfix |
+| **Errorlevel** | **Präfix** |
 |---|---|
 | 0 | Ok_ |
 | 1 | Warnung_ |
@@ -729,7 +729,7 @@ Das Prüfmodul kann als ein kommandozeilenorientiertes Programm gestartet werden
 
 **3.2.1**
 
-| Übergabeparameter Beschreibung |  |
+| **Übergabeparameter Beschreibung** |  |
 |---|---|
 | -c | Das Prüfmodul braucht für die Prüfung die Pfadangabe einer XML Hinter dieser Option muss die Pfadangabe stehen. |
 | -e | Das Prüfmodul wird im Einzellaufmodus gestartet. XPM verarbeitet alle Dateien |
@@ -820,12 +820,12 @@ Bitte drücken Sie den ‘Starten’-Knopf. Während der Prüfung zeigt der Fort
 
 ---
 
-| Übergabeparameter | Beschreibung |
+| **Übergabeparameter** | **Beschreibung** |
 |---|---|
 | -q <Dateiname> | Der Dateiname der zu konvertierenden Datei bzw. Verzeichnisname. |
 | -z <Dateiname> | Der Dateiname der umgewandelten Datei bzw. Verzeichnisname. |
 | -s <Zeichensatz> | Der Zeichensatz in den konvertiert werden soll. Mögliche Werte:  7Bit  IBM  ISO-8859-1  ISO-8859-15 |
-| 4 Zusatzprogramme  4.1 Zeichensatzkonverter | Hier ein Beispiel für einen Aufruf: java -Xmx300m |
+| **4 Zusatzprogramme  4.1 Zeichensatzkonverter** | Hier ein Beispiel für einen Aufruf: java -Xmx300m |
 |  | -classpath "Bin/xpm-core-4.2.15.jar" |
 |  |  |
 | de.kbv.xpm.core.converter.CharsetConverter |  |
@@ -841,7 +841,7 @@ Der Zeichensatz-Konverter wandelt komplette Abrechnungsdateien in einen gewünsc
 |  |  |
 |  |  |
 |  |  |
-| Übergabeparameter | Beschreibung |
+| **Übergabeparameter** | **Beschreibung** |
 | -b | Die konvertierte Datei wird unter dem Namen der Ursprungsdatei abgelegt. |
 | -h | Ausgabe eines Hilfetextes. |
 | -l | Die Ursprungsdatei wird nach der Verarbeitung gelöscht. Dieser Übergabepa- |

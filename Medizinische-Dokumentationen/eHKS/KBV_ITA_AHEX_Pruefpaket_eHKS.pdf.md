@@ -1,10 +1,10 @@
-|  |
-|---|
+\|  |
+\|---|
 
-|  |
-|---|
+\|  |
+\|---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  30. MAI 2025   VERSION: 3.03   DOKUMENTENSTATUS: IN |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  30. MAI 2025   VERSION: 3.03   DOKUMENTENSTATUS: IN** |
 |---|---|
 
 # PRUEFPAKET HAUTKREBS-SCREENING
@@ -124,7 +124,7 @@ Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 23
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 3.03 | 30.05.2025 | KBV | Korrektur der    Änderung des im Prüffall |  | 16 |
 | 3.02 | 12.08.2021 | KBV | Überarbeitung der Links            Komplettanpassung der    Änderung des im Prüffall | Austausch des FTP- https://update.kbv.de    Schnittstellenversion | Alle            16 |
@@ -275,21 +275,21 @@ folgenden XML-Dateien mit Versichertenstammdaten
 
 Folgende Angaben sind für die Zertifizierung zu verwenden:
 
-| BEZEICHNUNG | INHALT |
+| **BEZEICHNUNG** | **INHALT** |
 |---|---|
-| Betriebsstättennummer (BSNR) | 391111122 |
-| (N)BSNR-Bezeichnung: | Gemeinschaftspraxis Dr. med. Topp- |
-| Lebenslange Arztnummer (LANR) Dermatologe | 839123101 |
-| Arztname | Dr. med. Hans Topp-Glücklich, Facharzt für |
-| Lebenslange Arztnummer (LANR): | 839123121 |
-| Arztname: | Dr. med. Otto Müller, Facharzt für |
-| Straße | Musterstr. |
-| Hausnummer | 1 |
-| PLZ/Ort | 64297 Darmstadt |
-| Telefon | 06151 / 1111111 |
-| Telefax | 06151 / 2222222 |
-| Dokumentationsdatum (Kopfdatum): | 07.01.2020  07.01.2024 |
-| Zu verwendende Prüfnummer: | Y/53/0807/36/001 |
+| **Betriebsstättennummer (BSNR)** | 391111122 |
+| **(N)BSNR-Bezeichnung:** | Gemeinschaftspraxis Dr. med. Topp- |
+| **Lebenslange Arztnummer (LANR) Dermatologe** | 839123101 |
+| **Arztname** | Dr. med. Hans Topp-Glücklich, Facharzt für |
+| **Lebenslange Arztnummer (LANR):** | 839123121 |
+| **Arztname:** | Dr. med. Otto Müller, Facharzt für |
+| **Straße** | Musterstr. |
+| **Hausnummer** | 1 |
+| **PLZ/Ort** | 64297 Darmstadt |
+| **Telefon** | 06151 / 1111111 |
+| **Telefax** | 06151 / 2222222 |
+| **Dokumentationsdatum (Kopfdatum):** | 07.01.2020  07.01.2024 |
+| **Zu verwendende Prüfnummer:** | Y/53/0807/36/001 |
 
 -
 
@@ -303,15 +303,15 @@ Glücklich/Müller Dermatologie Allgemeinmedizin
 
 Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
-| PRÜFFALL-ID | NAME | VERZEICHNISNAME |
+| **PRÜFFALL-ID** | **NAME** | **VERZEICHNISNAME** |
 |---|---|---|
-| 8002 | Brigitte Neuhaus | XML_06 |
-| 8003 | Viktor Müller | XML_09 |
-| 8004 | Ludger Königsstein | XML_15 |
-| Ersatzverfahren | | |
-| 8001 | Prof Dr. Karl-Friedrich Graf | Ersatzverfahren (s. Anhang 4.1) |
-| 8005 | Guido Tils | Ersatzverfahren (s. Anhang 4.2) |
-| 8007 | Alexander Laas | Ersatzverfahren (s. Anhang 4.3) |
+| **8002** | Brigitte Neuhaus | XML_06 |
+| **8003** | Viktor Müller | XML_09 |
+| **8004** | Ludger Königsstein | XML_15 |
+| **Ersatzverfahren** | | |
+| **8001** | Prof Dr. Karl-Friedrich Graf | Ersatzverfahren (s. Anhang 4.1) |
+| **8005** | Guido Tils | Ersatzverfahren (s. Anhang 4.2) |
+| **8007** | Alexander Laas | Ersatzverfahren (s. Anhang 4.3) |
 
 ### Auflistung der Prüffälle
 
@@ -325,11 +325,11 @@ Freiherr von Schaumberg
 
 |  |  |
 |---|---|
-| Prüffall-ID | 8001 |
-| Testziel | Anlage einer Hautkrebs-Dokumentation durch einen Nicht-Dermatologen |
-| Voraussetzung |  |
-| Prüfunterlagen | eHKS-Dokumentationsunterlagen |
-| Hinweis |  |
+| **Prüffall-ID** | 8001 |
+| **Testziel** | Anlage einer Hautkrebs-Dokumentation durch einen Nicht-Dermatologen |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | eHKS-Dokumentationsunterlagen |
+| **Hinweis** |  |
 
 - 1. Versichertendaten:
 
@@ -341,15 +341,15 @@ Ersatzverfahren erfassen und speichern.
 
 |  | |
 |---|---|
-| Allgemeine Daten | |
+| **Allgemeine Daten** | |
 | Patientennummer | 8001 |
 | Geschlecht der/des Versich | Männlich |
-| Untersuchungsdatum | |
+| **Untersuchungsdatum** | |
 | Untersuchungsdatum | 01.01.2020  01.01.2024 |
 
-| NICHT-DERMATOLOGEN-DATEN | |
+| **NICHT-DERMATOLOGEN-DATEN** | |
 |---|---|
-| Verdachtsdiagnose | |
+| **Verdachtsdiagnose** | |
 | Verdachtsdiagnose Nicht-Dermatologe | Nein |
 | Malignes Melanom |  |
 | Basalzellkarzinom |  |
@@ -357,7 +357,7 @@ Ersatzverfahren erfassen und speichern.
 | anderer Hautkrebs |  |
 | sonstiger dermatologisch abklärungsbedürftiger Befund |  |
 | Screening-Teilnehmer wird an einen Dermatologen überwiesen | Nein |
-| Gesundheitsuntersuchung | |
+| **Gesundheitsuntersuchung** | |
 | Gleichzeitig Gesundheitsuntersuchung durchgeführt | Ja |
 
 erten
@@ -368,11 +368,11 @@ erten
 
 |  |  |
 |---|---|
-| Prüffall-ID | 8002 |
-| Testziel | Anlage einer Hautkrebs-Dokumentation durch einen Nicht-Dermatologen und |
-| Voraussetzung |  |
-| Prüfunterlagen | › › |
-| Hinweis | Ergänzen Sie die fehlenden Eingaben beliebig und reichen Sie den |
+| **Prüffall-ID** | 8002 |
+| **Testziel** | Anlage einer Hautkrebs-Dokumentation durch einen Nicht-Dermatologen und |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | › › |
+| **Hinweis** | Ergänzen Sie die fehlenden Eingaben beliebig und reichen Sie den |
 
 - 1. Versichertendaten:
 
@@ -382,15 +382,15 @@ Die Versichertendaten von Brigitte Neuhaus (XML_06) einlesen und speichern.
 
 |  | |
 |---|---|
-| Allgemeine Daten | |
+| **Allgemeine Daten** | |
 | Patientennummer | 8002 |
 | Geschlecht der/des Versich | Generiert aus XML-Datei |
-| Untersuchungsdatum | |
+| **Untersuchungsdatum** | |
 | Untersuchungsdatum | 02.01.2020  02.01.2024 |
 
-| NICHT-DERMATOLOGEN-DATEN | |
+| **NICHT-DERMATOLOGEN-DATEN** | |
 |---|---|
-| Verdachtsdiagnose | |
+| **Verdachtsdiagnose** | |
 | Verdachtsdiagnose Nicht-Dermatologe | Ja |
 | Malignes Melanom |  |
 | Basalzellkarzinom |  |
@@ -398,7 +398,7 @@ Die Versichertendaten von Brigitte Neuhaus (XML_06) einlesen und speichern.
 | anderer Hautkrebs |  |
 | sonstiger dermatologisch abklärungsbedürftiger Befund | Ja |
 | Screening-Teilnehmer wird an einen Dermatologen überwiesen |  |
-| Gesundheitsuntersuchung | |
+| **Gesundheitsuntersuchung** | |
 | Gleichzeitig Gesundheitsuntersuchung durchgeführt |  |
 
 Kontrolle der Erkennung von Fehleingaben eHKS-Dokumentationsunterlagen XPM-Protokolle zu den fehlerhaften Angaben oder Screenshots, wenn die Fehler softwareseitig erkannt werden Dokumentationsbogen ein erten
@@ -409,24 +409,24 @@ Kontrolle der Erkennung von Fehleingaben eHKS-Dokumentationsunterlagen XPM-Proto
 
 |  |  |
 |---|---|
-| Prüffall-ID | 8003 |
-| Testziel | Anlage einer Hautkrebs-Dokumentation durch einen Dermatologen |
-| Voraussetzung |  |
-| Prüfunterlagen | eHKS-Dokumentationsunterlagen |
-| Hinweis |  |
+| **Prüffall-ID** | 8003 |
+| **Testziel** | Anlage einer Hautkrebs-Dokumentation durch einen Dermatologen |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | eHKS-Dokumentationsunterlagen |
+| **Hinweis** |  |
 
-| DERMATOLOGEN-DATEN | |
+| **DERMATOLOGEN-DATEN** | |
 |---|---|
-| Überweisung im Rahmen des Hautkrebs-Screenings | |
+| **Überweisung im Rahmen des Hautkrebs-Screenings** | |
 | Patient kommt auf Überweisung im Rahmen des Hautkrebs-Screenings | Nein |
 | Überweisender Arzt hat HKS durchgeführt | Nein |
-| Angabe der Verdachtsdiagnose des überweisenden Arztes | |
+| **Angabe der Verdachtsdiagnose des überweisenden Arztes** | |
 | Angabe über die Verdachtsdiagnose liegt vor | Nein |
 | Malignes Melanom |  |
 | Basalzellkarzinom |  |
 | Spinozelluläres Karzinom |  |
 | anderer Hautkrebs |  |
-| Verdachtsdiagnose des Dermatologen | |
+| **Verdachtsdiagnose des Dermatologen** | |
 | Verdachtsdiagnose | Nein |
 | Malignes Melanom |  |
 | Basalzellkarzinom |  |
@@ -456,10 +456,10 @@ Kontrolle der Erkennung von Fehleingaben eHKS-Dokumentationsunterlagen XPM-Proto
 
 |  | |
 |---|---|
-| Allgemeine Daten | |
+| **Allgemeine Daten** | |
 | Patientennummer | 8003 |
 | Geschlecht der/des Versich | Generiert aus XML-Datei |
-| Untersuchungsdatum | |
+| **Untersuchungsdatum** | |
 | Untersuchungsdatum | 06.01.2020  06.01.2024 |
 
 erten Versichertendaten: Die Versichertendaten von Viktor Müller (XML_09) einlesen und speichern 2. Anlegen einer Hautkrebs-Dokumentation durch einen Dermatologen
@@ -484,12 +484,12 @@ erten Versichertendaten: Die Versichertendaten von Viktor Müller (XML_09) einle
 |  |  |
 |  |  |
 |  |  |
-| Biopsie/Exzision | |
+| **Biopsie/Exzision** | |
 | Biopsie zu Verdachtsdiagnose gemäß 2.3 entnommen oder Exzision | Nein |
 | Anzahl der entnommenen Biopsien |  |
 | anderweitige Therapie oder Diagnostik vorgenommen bzw. eingeleitet | Nein |
 | derzeit keine weitere Therapie/Diagnostik | Ja |
-| Histopathologie | |
+| **Histopathologie** | |
 | Malignes Melanom |  |
 |  |  |
 |  |  |
@@ -513,24 +513,24 @@ durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordick
 
 |  |  |
 |---|---|
-| Prüffall-ID | 8004 |
-| Testziel | Anlage einer Hautkrebs-Dokumentation durch einen Dermatologen |
-| Voraussetzung |  |
-| Prüfunterlagen | eHKS-Dokumentationsunterlagen |
-| Hinweis |  |
+| **Prüffall-ID** | 8004 |
+| **Testziel** | Anlage einer Hautkrebs-Dokumentation durch einen Dermatologen |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | eHKS-Dokumentationsunterlagen |
+| **Hinweis** |  |
 
-| DERMATOLOGEN-DATEN | |
+| **DERMATOLOGEN-DATEN** | |
 |---|---|
-| Überweisung im Rahmen des Hautkrebs-Screenings | |
+| **Überweisung im Rahmen des Hautkrebs-Screenings** | |
 | Patient kommt auf Überweisung im Rahmen des Hautkrebs-Screenings | Ja |
 | Überweisender Arzt hat HKS durchgeführt | Ja |
-| Angabe der Verdachtsdiagnose des überweisenden Arztes | |
+| **Angabe der Verdachtsdiagnose des überweisenden Arztes** | |
 | Angabe über die Verdachtsdiagnose liegt vor | Ja |
 | Malignes Melanom | Nein |
 | Basalzellkarzinom | Ja |
 | Spinozelluläres Karzinom | Ja |
 | anderer Hautkrebs | Ja |
-| Verdachtsdiagnose des Dermatologen | |
+| **Verdachtsdiagnose des Dermatologen** | |
 | Verdachtsdiagnose | Ja |
 | Malignes Melanom | Nein |
 | Basalzellkarzinom | Ja |
@@ -560,10 +560,10 @@ durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordick
 
 |  | |
 |---|---|
-| Allgemeine Daten | |
+| **Allgemeine Daten** | |
 | Patientennummer | 8004 |
 | Geschlecht der/des Versich | Generiert aus XML-Datei |
-| Untersuchungsdatum | |
+| **Untersuchungsdatum** | |
 | Untersuchungsdatum | 02.01.2020  02.01.2024 |
 
 erten Versichertendaten: Die Versichertendaten von Ludger Königsstein (XML_15) einlesen bzw. und speichern. 2. Anlegen einer Hautkrebs
@@ -588,12 +588,12 @@ erten Versichertendaten: Die Versichertendaten von Ludger Königsstein (XML_15) 
 |  |  |
 |  |  |
 |  |  |
-| Biopsie/Exzision | |
+| **Biopsie/Exzision** | |
 | Biopsie zu Verdachtsdiagnose gemäß 2.3 entnommen oder Exzision | Ja |
 | Anzahl der entnommenen Biopsien | 3 |
 | anderweitige Therapie oder Diagnostik vorgenommen bzw. eingeleitet | Ja |
 | derzeit keine weitere Therapie/Diagnostik | Nein |
-| Histopathologie | |
+| **Histopathologie** | |
 | Malignes Melanom | Ja |
 |  | Melanoma in situ |
 |  | > 4 mm |
@@ -617,11 +617,11 @@ durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordick
 
 |  |  |
 |---|---|
-| Prüffall-ID | 8005 |
-| Testziel | Kontrolle der Erkennung von Fehleingaben |
-| Voraussetzung | Die Dokumentation wird durch einen Dermatologen ausgefüllt .  Das Untersuchungsdatum ist der 02.01.2020  02.01.2024. |
-| Prüfunterlagen | XPM-Protokolle zu den fehlerhaften Angaben oder Screenshots, wenn die Fehler |
-| Hinweis | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht v |
+| **Prüffall-ID** | 8005 |
+| **Testziel** | Kontrolle der Erkennung von Fehleingaben |
+| **Voraussetzung** | Die Dokumentation wird durch einen Dermatologen ausgefüllt .  Das Untersuchungsdatum ist der 02.01.2020  02.01.2024. |
+| **Prüfunterlagen** | XPM-Protokolle zu den fehlerhaften Angaben oder Screenshots, wenn die Fehler |
+| **Hinweis** | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht v |
 
 - 1. Versichertendaten:
 
@@ -637,10 +637,10 @@ Die Versichertendaten von Dr. Guido Tils (Anhang 4.2) im Ersatzverfahren erfasse
 
 |  | |
 |---|---|
-| Allgemeine Daten | |
+| **Allgemeine Daten** | |
 | Patientennummer | 8005 |
 | Geschlecht der/des Versich | Männlich |
-| Untersuchungsdatum | |
+| **Untersuchungsdatum** | |
 | Untersuchungsdatum |  |
 
 **Konstellation 2:**
@@ -652,9 +652,9 @@ Die Versichertendaten von Dr. Guido Tils (Anhang 4.2) im Ersatzverfahren erfasse
 
 **Konstellation 3:**
 
-| DERMATOLOGEN-DATEN | |
+| **DERMATOLOGEN-DATEN** | |
 |---|---|
-| Überweisung im Rahmen des Hautkrebs-Screenings | |
+| **Überweisung im Rahmen des Hautkrebs-Screenings** | |
 | Patient kommt auf Überweisung im Rahmen des Hautkrebs-Screenings |  |
 | Überweisender Arzt hat HKS durchgeführt |  |
 
@@ -664,9 +664,9 @@ softwareseitig erkannt werden sind. orgegeben erten
 
 **Konstellation 4:**
 
-| DERMATOLOGEN-DATEN | |
+| **DERMATOLOGEN-DATEN** | |
 |---|---|
-| Biopsie/Exzision | |
+| **Biopsie/Exzision** | |
 | Biopsie zu Verdachtsdiagnose gemäß 2.3 entnommen oder Exzision | Ja |
 | Anzahl der entnommenen Biopsien | 100 |
 | anderweitige Therapie oder Diagnostik vorgenommen bzw. eingeleitet | Ja |
@@ -674,14 +674,14 @@ softwareseitig erkannt werden sind. orgegeben erten
 
 **Konstellation 5:**
 
-| DERMATOLOGEN-DATEN | |
+| **DERMATOLOGEN-DATEN** | |
 |---|---|
-| Biopsie/Exzision | |
+| **Biopsie/Exzision** | |
 | Biopsie zu Verdachtsdiagnose gemäß 2.3 entnommen oder Exzision | Ja |
 | Anzahl der entnommenen Biopsien | 50 |
 | anderweitige Therapie oder Diagnostik vorgenommen bzw. eingeleitet | Ja |
 | derzeit keine weitere Therapie/Diagnostik | Ja |
-| Histopathologie | |
+| **Histopathologie** | |
 | Malignes Melanom | Ja |
 |  |  |
 |  |  |
@@ -703,14 +703,14 @@ durchgeführt durchgeführt Malignes Melanom – Klassifikation Malignes Melanom
 
 **Konstellation** **6:**
 
-| DERMATOLOGEN-DATEN | |
+| **DERMATOLOGEN-DATEN** | |
 |---|---|
-| Biopsie/Exzision | |
+| **Biopsie/Exzision** | |
 | Biopsie zu Verdachtsdiagnose gemäß 2.3 | Ja |
 | Anzahl der entnommenen Biopsien |  |
 | anderweitige Therapie oder Diagnostik vorgenommen bzw. eingeleitet | Ja |
 | derzeit keine weitere Therapie/Diagnostik | Nein |
-| Histopathologie | |
+| **Histopathologie** | |
 | Malignes Melanom | Nein |
 |  |  |
 |  |  |
@@ -726,12 +726,12 @@ durchgeführt durchgeführt Malignes Melanom – Klassifikation Malignes Melanom
 | Aktinische Keratose | Ja |
 | Andere hier nicht relevante Hautveränderung | Ja |
 
-| DERMATOLOGEN-DATEN | |
+| **DERMATOLOGEN-DATEN** | |
 |---|---|
-| Überweisung im Rahmen des Hautkrebs-Screenings | |
+| **Überweisung im Rahmen des Hautkrebs-Screenings** | |
 | Patient kommt auf Überweisung im Rahmen des Hautkrebs-Screenings | Ja |
 | Überweisender Arzt hat HKS durchgeführt | Nein |
-| Angabe der Verdachtsdiagnose des überweisenden Arztes | |
+| **Angabe der Verdachtsdiagnose des überweisenden Arztes** | |
 | Angabe über die Verdachtsdiagnose liegt vor | Ja |
 | Malignes Melanom | Nein |
 | Basalzellkarzinom | Nein |
@@ -776,23 +776,23 @@ entnommen oder Exzision durchgeführt Malignes Melanom – Klassifikation Malign
 | junktionaler, compound, dermaler atypischer Nävuszellnävus | Ja |
 |  | |
 |  |  |
-| Verdachtsdiagnose des Dermatologen | Histopathologie |
+| **Verdachtsdiagnose des Dermatologen** | **Histopathologie** |
 |  |  |
 |  |  |
 | anderer Hautkrebs | Ja |
-| Verdachtsdiagnose des Dermatologen | |
+| **Verdachtsdiagnose des Dermatologen** | |
 | Verdachtsdiagnose | Ja |
 | Malignes Melanom | Ja |
 | Basalzellkarzinom | Nein |
 | Spinozelluläres Karzinom | Nein |
 | anderer Hautkrebs |  |
 | sonstiger mit Biopsie abklärungsbedürftiger Befund | Nein |
-| Biopsie/Exzision | |
+| **Biopsie/Exzision** | |
 | Biopsie zu Verdachtsdiagnose gemäß 2.3 | Nein |
 | Anzahl der entnommenen Biopsien | 50 |
 | anderweitige Therapie oder Diagnostik vorgenommen bzw. eingeleitet | Ja |
 | derzeit keine weitere Therapie/Diagnostik | Ja |
-| Histopathologie | |
+| **Histopathologie** | |
 | Malignes Melanom | Ja |
 |  | Melanoma in situ |
 |  | 1,01- |
@@ -816,18 +816,18 @@ entnommen oder Exzision durchgeführt Malignes Melanom – Klassifikation Malign
 
 |  |  |
 |---|---|
-| Prüffall-ID | 8006 |
-| Testziel | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eHKS  ) |
-| Voraussetzung |  |
-| Prüfunterlagen | Screenshots / PDFs zum Nachweis der korrekten Systemfunktionalität |
-| Hinweis | Dieser Testfall ist unterteilt in zwei Szenarien |
+| **Prüffall-ID** | 8006 |
+| **Testziel** | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eHKS  ) |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | Screenshots / PDFs zum Nachweis der korrekten Systemfunktionalität |
+| **Hinweis** | Dieser Testfall ist unterteilt in zwei Szenarien |
 
-| SZENARIEN |
-|---|
-| Szenario 1 |
-| Es wird eine bereits im System |
-| Szenario 2 |
-| Weisen Sie bitte die korrekte Systemfunktionalität nach Pflichtfunktion P1 |
+\| **SZENARIEN** |
+\|---|
+\| **Szenario 1** |
+\| Es wird eine bereits im System |
+\| **Szenario 2** |
+\| Weisen Sie bitte die korrekte Systemfunktionalität nach Pflichtfunktion P1 |
 
 (KBV_ITA_VGEX_Anforderungskatalog_eHKS vorhandene Patientennummer (EDV) eingegeben. Es wird eine Systemreaktion im Sinne der Pflichtfunktion P1 -50 erwartet. -40 nach. Es werden Screenshots vom Speichern und Archivieren der Dokumentationsdaten erwartet. Insbesondere soll der Nachweis erbracht werden, dass es möglich ist, eine nicht vollständige und/oder fehlerhafte Dokumentation zwischenzuspeichern, so dass diese erhalten bleibt und erweiterbar ist. Ein erneuter Aufruf dieser Dokumentation zur nachträglichen Bearbeitung ist nachzuweisen.
 
@@ -837,24 +837,24 @@ entnommen oder Exzision durchgeführt Malignes Melanom – Klassifikation Malign
 
 |  |  |
 |---|---|
-| Prüffall-ID | 8007 |
-| Testziel | Anlage einer Dokumentation im Rahmen von ergänzenden Verträgen durch einen |
-| Voraussetzung | Es wurde die optionale Funktion K1-25 (Unterstützung von ergänzenden Verträgen |
-| Prüfunterlagen | › › |
-| Hinweis | Dieser Prüffall ist nur zu bearbeiten, wenn in der Software die elektronische |
+| **Prüffall-ID** | 8007 |
+| **Testziel** | Anlage einer Dokumentation im Rahmen von ergänzenden Verträgen durch einen |
+| **Voraussetzung** | Es wurde die optionale Funktion K1-25 (Unterstützung von ergänzenden Verträgen |
+| **Prüfunterlagen** | › › |
+| **Hinweis** | Dieser Prüffall ist nur zu bearbeiten, wenn in der Software die elektronische |
 
-| DERMATOLOGEN-DATEN ERGÄNZENDE VERTRÄGE | |
+| **DERMATOLOGEN-DATEN ERGÄNZENDE VERTRÄGE** | |
 |---|---|
-| Überweisung im Rahmen des Hautkrebs-Screenings | |
+| **Überweisung im Rahmen des Hautkrebs-Screenings** | |
 | Patient kommt auf Überweisung im Rahmen des Hautkrebs-Screenings | Ja |
 | Überweisender Arzt hat HKS durchgeführt | Nein |
-| Angabe der Verdachtsdiagnose des überweisenden Arztes | |
+| **Angabe der Verdachtsdiagnose des überweisenden Arztes** | |
 | Angabe über die Verdachtsdiagnose liegt vor | Ja |
 | Malignes Melanom | Nein |
 | Basalzellkarzinom | Ja |
 | Spinozelluläres Karzinom | Ja |
 | anderer Hautkrebs | Nein |
-| Verdachtsdiagnose des Dermatologen | |
+| **Verdachtsdiagnose des Dermatologen** | |
 | Verdachtsdiagnose | Ja |
 | Malignes Melanom | Ja |
 |  |  |
@@ -884,10 +884,10 @@ entnommen oder Exzision durchgeführt Malignes Melanom – Klassifikation Malign
 
 |  | |
 |---|---|
-| Allgemeine Daten | |
+| **Allgemeine Daten** | |
 | Patientennummer | 8007 |
 | Geschlecht der/des Versicherten | Männlich |
-| Untersuchungsdatum | |
+| **Untersuchungsdatum** | |
 | Untersuchungsdatum | 01.01.2020 |
 
 Dermatogen. der KVen) umgesetzt. eHKS-Dokumentationsunterlagen Nachweis über die Auswahl des Dokumententyps durch Screenshots Dokumentation Hautkrebs -Screening im Rahmen von ergänzenden Verträgen (z.B. §73c SGBV) implementiert ist.   01.01.2024 Versichertendaten: Die Versichertendaten von Alexander Laas ( 2. Anlegen einer Hautkrebs -Dokumentation durch einen Dermatologen
@@ -912,12 +912,12 @@ Dermatogen. der KVen) umgesetzt. eHKS-Dokumentationsunterlagen Nachweis über di
 | Spinozelluläres Karzinom | Nein |
 | anderer Hautkrebs | Ja |
 | sonstiger mit Biopsie abklärungsbedürftiger Befund | Nein |
-| Biopsie/Exzision | |
+| **Biopsie/Exzision** | |
 | Biopsie zu Verdachtsdiagnose gemäß 2.3 entnommen oder Exzision | Ja |
 | Anzahl der entnommenen Biopsien | 2 |
 | anderweitige Therapie oder Diagnostik vorgenommen bzw. eingeleitet | Ja |
 | derzeit keine weitere Therapie/Diagnostik | Nein |
-| Histopathologie | |
+| **Histopathologie** | |
 | Malignes Melanom | Ja |
 |  | Melanoma in situ |
 |  | > 4 mm |
@@ -960,28 +960,28 @@ Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 ## 4.1 VERSICHERTENDATEN 1– ERSATZVERFAHREN
 
-| PERSONALIEN | | |
+| **PERSONALIEN** | | |
 |---|---|---|
-| 3100 | Namenszusatz | Graf Freiherr |
-| 3120 | Vorsatzwort | von |
-| 3101 | Name | Schaumberg |
-| 3102 | Vorname | Karl-Friedrich |
-| 3103 | Geburtsdatum | 04.04.1964 |
-| 3104 | Titel |  |
-| 3119 | Versicherten_ID | S040464113 |
-| 3107 | Straße | Poppelsdorfer Allee |
-| 3109 | Hausnummer | 155 |
-| 3112 | PLZ | 53115 |
-| 3114 | Wohnsitzländercode |  |
-| 3113 | Ort | Bonn |
-| 3116 | WOP | 38 |
-| 3108 | Versichertenart | 1 |
-| 3110 | Geschlecht | M |
-| 4133 | Versicherungsschutz Beginn |  |
-| 4110 | Versicherungsschutz Ende | 30.09.2022 |
-| 4111 | Kostentraegerkennung | 104212059 |
-| 4131 | BesonderePersonengruppe | 00 |
-| 4132 | DMP_Kennzeichnung | 00 |
+| **3100** | **Namenszusatz** | Graf Freiherr |
+| **3120** | **Vorsatzwort** | von |
+| **3101** | **Name** | Schaumberg |
+| **3102** | **Vorname** | Karl-Friedrich |
+| **3103** | **Geburtsdatum** | 04.04.1964 |
+| **3104** | **Titel** |  |
+| **3119** | **Versicherten_ID** | S040464113 |
+| **3107** | **Straße** | Poppelsdorfer Allee |
+| **3109** | **Hausnummer** | 155 |
+| **3112** | **PLZ** | 53115 |
+| **3114** | **Wohnsitzländercode** |  |
+| **3113** | **Ort** | Bonn |
+| **3116** | **WOP** | 38 |
+| **3108** | **Versichertenart** | 1 |
+| **3110** | **Geschlecht** | M |
+| **4133** | **Versicherungsschutz Beginn** |  |
+| **4110** | **Versicherungsschutz Ende** | 30.09.2022 |
+| **4111** | **Kostentraegerkennung** | 104212059 |
+| **4131** | **BesonderePersonengruppe** | 00 |
+| **4132** | **DMP_Kennzeichnung** | 00 |
 
 30.09.2059
 
@@ -989,28 +989,28 @@ Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 ## 4.2 VERSICHERTENDATEN 2 – ERSATZVERFAHREN
 
-| PERSONALIEN | | |
+| **PERSONALIEN** | | |
 |---|---|---|
-| 3100 | Namenszusatz |  |
-| 3120 | Vorsatzwort |  |
-| 3101 | Name | Tils |
-| 3102 | Vorname | Guido |
-| 3103 | Geburtsdatum | 24.10.1960 |
-| 3104 | Titel | Dr. |
-| 3119 | Versicherten_ID | G040460110 |
-| 3107 | Straße | Kölner Str. |
-| 3109 | Hausnummer | 21 |
-| 3112 | PLZ | 50171 |
-| 3114 | Wohnsitzländercode |  |
-| 3113 | Ort | Kerpen |
-| 3116 | WOP | 38 |
-| 3108 | Versichertenart | 1 |
-| 3110 | Geschlecht | M |
-| 4133 | Versicherungsschutz Beginn |  |
-| 4110 | Versicherungsschutz Ende | 31.12.2019 |
-| 4111 | Kostentraegerkennung | 103071002 |
-| 4131 | BesonderePersonengruppe | 00 |
-| 4132 | DMP_Kennzeichnung | 00 |
+| **3100** | **Namenszusatz** |  |
+| **3120** | **Vorsatzwort** |  |
+| **3101** | **Name** | Tils |
+| **3102** | **Vorname** | Guido |
+| **3103** | **Geburtsdatum** | 24.10.1960 |
+| **3104** | **Titel** | Dr. |
+| **3119** | **Versicherten_ID** | G040460110 |
+| **3107** | **Straße** | Kölner Str. |
+| **3109** | **Hausnummer** | 21 |
+| **3112** | **PLZ** | 50171 |
+| **3114** | **Wohnsitzländercode** |  |
+| **3113** | **Ort** | Kerpen |
+| **3116** | **WOP** | 38 |
+| **3108** | **Versichertenart** | 1 |
+| **3110** | **Geschlecht** | M |
+| **4133** | **Versicherungsschutz Beginn** |  |
+| **4110** | **Versicherungsschutz Ende** | 31.12.2019 |
+| **4111** | **Kostentraegerkennung** | 103071002 |
+| **4131** | **BesonderePersonengruppe** | 00 |
+| **4132** | **DMP_Kennzeichnung** | 00 |
 
 30.09.2059
 
@@ -1018,29 +1018,29 @@ Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 ## 4.3 VERSICHERTENDATEN 3 – ERSATZVERFAHREN
 
-| PERSONALIEN | | |
+| **PERSONALIEN** | | |
 |---|---|---|
-| 3100 | Namenszusatz |  |
-| 3120 | Vorsatzwort |  |
-| 3101 | Name | Laas |
-| 3102 | Vorname | Alexander |
-|  | Alter | 28 |
-| 3103 | Geburtsdatum | 03.03.1990 |
-| 3104 | Titel |  |
-| 3119 | Versicherten_ID | L030486113 |
-| 3107 | Straße | Puckelstr. |
-| 3109 | Hausnummer | 5 |
-| 3112 | PLZ | 10997 |
-| 3114 | Wohnsitzländercode |  |
-| 3113 | Ort | Berlin |
-| 3116 | WOP | 72 |
-| 3108 | Versichertenart | 1 |
-| 3110 | Geschlecht | M |
-| 4133 | Versicherungsschutz Beginn |  |
-| 4110 | Versicherungsschutz Ende | 31.12.2030 |
-| 4111 | Kostentraegerkennung | 103071002 |
-| 4131 | BesonderePersonengruppe | 00 |
-| 4132 | DMP_Kennzeichnung | 06 |
+| **3100** | **Namenszusatz** |  |
+| **3120** | **Vorsatzwort** |  |
+| **3101** | **Name** | Laas |
+| **3102** | **Vorname** | Alexander |
+|  | **Alter** | 28 |
+| **3103** | **Geburtsdatum** | 03.03.1990 |
+| **3104** | **Titel** |  |
+| **3119** | **Versicherten_ID** | L030486113 |
+| **3107** | **Straße** | Puckelstr. |
+| **3109** | **Hausnummer** | 5 |
+| **3112** | **PLZ** | 10997 |
+| **3114** | **Wohnsitzländercode** |  |
+| **3113** | **Ort** | Berlin |
+| **3116** | **WOP** | 72 |
+| **3108** | **Versichertenart** | 1 |
+| **3110** | **Geschlecht** | M |
+| **4133** | **Versicherungsschutz Beginn** |  |
+| **4110** | **Versicherungsschutz Ende** | 31.12.2030 |
+| **4111** | **Kostentraegerkennung** | 103071002 |
+| **4131** | **BesonderePersonengruppe** | 00 |
+| **4132** | **DMP_Kennzeichnung** | 06 |
 
 30.09.2059
 
@@ -1050,7 +1050,7 @@ Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 |  |  |
 |---|---|
-| Referenz | Dokument |
+| **Referenz** | **Dokument** |
 | KBV_ITA_FMEX_AAZ_eHKS | Antrag auf Zertifizierung eHKS |
 | KBV_ITA_RLEX_Zert | Zertifizierungsrichtlinie der KBV |
 | KBV_ITA_VGEX_Anforderungskatalog_eHKS | Anforderungskatalog Hautkrebs-Screening (eHKS) |
