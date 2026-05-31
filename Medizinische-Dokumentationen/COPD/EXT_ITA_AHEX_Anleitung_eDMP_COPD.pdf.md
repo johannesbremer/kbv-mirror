@@ -21,7 +21,7 @@ Anzuwenden ab:   01.04.2024
 
 Genau eine Angabe ist erforderlich.
 
-Geben Sie hier bitte den aktuell vor einer Spasmolyse gemessenen FEV Ihres Patienten als Prozent -Wert zum Sollwert mit drei Stellen vor und einer Stelle hinter dem  Komma (Wertebereich 005,0  299,9)
+Geben Sie hier bitte den aktuell vor einer Spasmolyse gemessenen FEV Ihres Patienten als Prozent-Wert zum Sollwert mit drei Stellen vor und einer Stelle hinter dem  Komma (Wertebereich 005,0  299,9)
 
 oder „Nicht durchgeführt“ an.
 
@@ -55,9 +55,7 @@ Geben Sie bitte die Anzahl (ohne Nachkommastelle) von Exazerbationen seit der le
 
 Eine Angabe ist nur im Rahmen einer **Folgedokumentation**
 
-Geben Sie bitte die Anzahl (ohne Nachkommastelle)
-
-Behandlungen (ambulant und stationär) an, die seit der letzten Dokumentation auf Grund notwendig wurden. Sollte seit der letzten Dokumentation keine solche Behandlung notwendig  gewesen sein, geben Sie bitte eine „0“ an.
+Geben Sie bitte die Anzahl (ohne Nachkommastelle) aller Ihnen bekannten ungeplanten  Behandlungen (ambulant und stationär) an, die seit der letzten Dokumentation auf Grund notwendig wurden. Sollte seit der letzten Dokumentation keine solche Behandlung notwendig  gewesen sein, geben Sie bitte eine „0“ an.
 
 # Medikamente
 
@@ -81,15 +79,13 @@ möglich und hier verpflichtend.
 
 möglich und hier verpflichtend.
 
-aller Ihnen bekannten ungeplanten
+der COPD
 
 -Verordnung auf eine Kontraindikation
 
 möglich.
 
 und der Patientenpräferenzen
-
-der COPD
 
 
 ---
@@ -104,19 +100,19 @@ für die **Bedarfstherapie**
 
 - Kurz wirksame Anticholinergika (z. B. *Ipratropiumbromid,*
 
-- Kombination von kurz wirksamen Beta-2-Sympathomimetikum
+- Kombination von kurz wirksamen Beta-2-Sympathomimetikum und Anticholinergikum
 
 - In begründeten Fällen: Bei Schleimretention können erwogen werden: Inhalation von  Kochsalzlösung, mukoaktive Substanzen.
 
-Bei akuten Exazerbationen ist primär eine Intensivierung der Therapie mit Bronchodilatatoren sowie ggf.  eine kurzfristige (in der Regel fünftägige bis
+Bei akuten Exazerbationen ist primär eine Intensivierung der Therapie mit Bronchodilatatoren sowie ggf.  eine kurzfristige (in der Regel fünftägige bis maximal 14-tägige) Gabe von systemischen
 
 Glukokortikosteroiden, erforderlich.
 
 Falls erforderlich zur **Dauertherapie**
 
-- Langwirksames Anticholinergikum* (z. B.Tiotropiumbromid)*
+- Langwirksames Anticholinergikum* (z. B.Tiotropiumbromid)* oder
 
-- Langwirksame Beta-2-Sympatomimetika (z. B.
+- Langwirksame Beta-2-Sympatomimetika (z. B. *Formoterol, Salmeterol*
 
 - Bei unzureichender Wirkung einer Monotherapie, Kombination von lang wirksamen Beta-2- Sympathomimetikum und Anticholinergikum.
 
@@ -134,21 +130,17 @@ Sollte Ihre Patientin bzw. Ihr Patient eine solche Kombinationstherapie erhalten
 
 Mindestens eine Angabe ist erforderlich.
 
-Geben Sie bitte an, ob eine Bedarfs - und/oder Dauertherapie mit kurzwirksamen Beta -2- Sympathomimetika und/oder Anticholinergika durchgeführt wird. Bitte geben Sie bei „Keine“  gegebenenfalls zusätzlich an, ob eine Kontraindikation gegen die Gabe eines Antic besteht. Diese Angabe ist für die Qualitätssicherung notwendig.
+Geben Sie bitte an, ob eine Bedarfs- und/oder Dauertherapie mit kurzwirksamen Beta-2- Sympathomimetika und/oder Anticholinergika durchgeführt wird. Bitte geben Sie bei „Keine“  gegebenenfalls zusätzlich an, ob eine Kontraindikation gegen die Gabe eines Antic holinergikums
+
+besteht. Diese Angabe ist für die Qualitätssicherung notwendig.
 
 #### Lang wirksame Beta-2-Sympathomimetika
 
 Mindestens eine Angabe ist erforderlich.
 
-Geben Sie bitte an, ob eine Bedarfs - und/oder Dauertherapie mit langwirksamen Beta -2- Sympathomimetika durchgeführt wird. Bitte geben Sie bei „Keine“ gegebenenfalls zusätzlich an, ob  eine Kontraindikation gegen die Gabe eines lang wirksamen Beta Diese Angabe ist für die Qualitätssicherung notwendig.
+Geben Sie bitte an, ob eine Bedarfs- und/oder Dauertherapie mit langwirksamen Beta-2- Sympathomimetika durchgeführt wird. Bitte geben Sie bei „Keine“ gegebenenfalls zusätzlich an, ob  eine Kontraindikation gegen die Gabe eines lang wirksamen Beta-2-Sympathomimetikums besteht.
 
-- und Anticholinergikum
-
-maximal 14 -tägige) Gabe von systemischen - oder
-
-- *Formoterol, Salmeterol*
-
-holinergikums -2-Sympathomimetikums besteht.
+Diese Angabe ist für die Qualitätssicherung notwendig.
 
 
 ---
@@ -165,7 +157,7 @@ Kontraindikation gegen die Gabe eines langwirksamen Anticholinergikums beste ht.
 
 Genau eine Angabe ist erforderlich.
 
-Nach einer initialen Einweisung in die Applikationstechnik soll die Inhalationstechnik in jedem  Dokumentationszeitraum mindestens einmal überprüft werden , da die Ausführungstechnik sich  häufig verschlechtert und die Medikamente somit nicht ihre volle Wirkung entfalten können.
+Nach einer initialen Einweisung in die Applikationstechnik soll die Inhalationstechnik in jedem  Dokumentationszeitraum mindestens einmal überprüft werden, da die Ausführungstechnik sich  häufig verschlechtert und die Medikamente somit nicht ihre volle Wirkung entfalten können.
 
 Dies kann bspw. mittels Simulation geschehen: Die Patientin bzw. der Patient zeigt Ihnen, wie sie  bzw. er das Device hält und simuliert das Auslösen eines Hubes. Dabei überprüfen Sie die  Inhalationstechnik (Ein-/Ausatemtechnik). Die Simulation kann in ähnlicher Weise auch ohne ein  Device durchgeführt werden.
 
@@ -224,7 +216,9 @@ Gemeint sind hierbei folgende Schulungsmaßnahmen:
 
 Sofern eine Teilnahme stattgefunden hat, geben Sie dies bitte hier mit „Ja“ an. Eine erneute  Teilnahme an einer Schulung ist dadurch NICHT ausgeschlossen!
 
-Wurde vor der Einschreibung in das DMP keine Schulung wahrgenommen,  bitte mit der Angabe „Nein“.
+Wurde vor der Einschreibung in das DMP keine Schulung wahrgenommen, dokumentieren Sie dies
+
+bitte mit der Angabe „Nein“.
 
 #### Empfohlene Schulung(en) wahrgenommen
 
@@ -236,15 +230,17 @@ Sie Ihrem Patienten bei dem letzten Dokumentationstermin empfohlen haben, und si
 
 Bei der Erstdokumentation ist hier keine Angabe möglich.
 
-Hat Ihre Patientin oder Ihr Patient im Dokumentationszeitraum an einer Schulung teilgenommen,  geben Sie bitte „Ja“ an. Sollte Ihr Patient eine empfohlene Schulung
+Hat Ihre Patientin oder Ihr Patient im Dokumentationszeitraum an einer Schulung teilgenommen,  geben Sie bitte „Ja“ an. Sollte Ihr Patient eine empfohlene Schulung ohne einen für Sie
 
-nachvollziehbaren Grund nicht wahrgenommen haben, kreuzen Sie bitte „Nein“ an.
+nachvollziehbaren Grund nicht wahrgenommen haben, kreuzen Sie bitte „Nein“ an. **Diese Angabe**
 
 **kann bei wiederholter Angabe zum Ausschluss des Versicherten aus dem Programm führen!**
 
-Die Angabe „War aktuell nicht möglich“ ist anzukreuzen, wenn die Schulung innerhalb des  Dokumentationsintervalls (jedes Quartal oder jedes zweite Quartal) wegen nachvollziehbarer  Gründe nicht wahrgenommen werden konnte. Solche Gründe können z.B. sein: Fehl ende  Schulungskapazität, Krankenhausaufenthalt des Patienten, private Gründe. Die Beurteilung, ob die  Gründe nachvollziehbar sind, obliegt alleine Ihnen und dem Patienten.
+Die Angabe „War aktuell nicht möglich“ ist anzukreuzen, wenn die Schulung innerhalb des  Dokumentationsintervalls (jedes Quartal oder jedes zweite Quartal) wegen nachvollziehbarer  Gründe nicht wahrgenommen werden konnte. Solche Gründe können z.B. sein: Fehlende  Schulungskapazität, Krankenhausaufenthalt des Patienten, private Gründe. Die Beurteilung, ob die  Gründe nachvollziehbar sind, obliegt alleine Ihnen und dem Patienten.
 
-Sollten Sie bei der letzten Dokumentation keine Schulung empfohlen haben, geben Sie dies bitte  an. Die Angaben „Ja“, „War aktuell nicht möglich“ und „Bei letzter Dokumentation keine  empfohlen“ führen nicht zum Ausschluss der Patientin oder des Patienten aus dem Programm.
+Sollten Sie bei der letzten Dokumentation keine Schulung empfohlen haben, geben Sie dies bitte  an. Die Angaben „Ja“, „War aktuell nicht möglich“ und „Bei letzter Dokumentation keine Schulung
+
+empfohlen“ führen nicht zum Ausschluss der Patientin oder des Patienten aus dem Programm.
 
 # Behandlungsplanung
 
@@ -252,7 +248,7 @@ Sollten Sie bei der letzten Dokumentation keine Schulung empfohlen haben, geben 
 
 Genau eine Angabe ist bei allen aktiven Rauchern erforderlich.
 
-Der Raucherstatus sollte bei jedem Patienten bei jeder
+Der Raucherstatus sollte bei jedem Patienten bei jeder Konsultation erfragt werden
 
 Ausstiegsbereiten Rauchern soll die Teilnahme an einem Tabakentwöhnungsprogramm empfohlen  werden.
 
@@ -266,14 +262,6 @@ Genau eine Angabe ist bei allen aktiven Rauchern erforderlich.
 
 Wenn Sie Ihrem Patienten aktuell (am Tage der Konsultation) die Teilnahme an einem  Tabakentwöhnungsprogramm empfohlen haben, geben Sie dies bitte hier mit „Ja“ an.
 
-dokumentieren Sie dies
-
-ohne einen für Sie  **Diese Angabe**
-
-Schulung
-
-Konsultation erfragt werden
-
 
 ---
 
@@ -281,7 +269,7 @@ Wenn Sie bereits zuvor eine Teilnahme an einem Tabakentwöhnungsprogramm empfohl
 
 Wurde keine Empfehlung ausgesprochen, geben Sie dies bitte mit „Nein“ an.
 
-Sofern Sie nicht selber ein zertifiziertes Tabakentwöhnungsprogramm anbieten, finden Sie  geeignete Tabakentwöhnungsprogramme z. B. im Internet unter www .zentrale-pruefstelle-
+Sofern Sie nicht selber ein zertifiziertes Tabakentwöhnungsprogramm anbieten, finden Sie  geeignete Tabakentwöhnungsprogramme z. B. im Internet unter www.zentrale-pruefstelle-
 
 praevention.de oder auch direkt über die Internetseiten der Krankenkassen.
 
@@ -301,9 +289,9 @@ Eine Angabe in diesen Feldern führt **nicht** zum Ausschluss des Patienten aus 
 
 Genau eine Angabe ist erforderlich.
 
-Körperliches Training führt in der Regel zu einer Verringerung der COPD -Symptomatik und der  Exazerbationsrate, zur Besserung der Belastbarkeit und kann zur Verbesserung der Lebensqualität  oder Verringerung der Morbidität beitragen.
+Körperliches Training führt in der Regel zu einer Verringerung der COPD-Symptomatik und der  Exazerbationsrate, zur Besserung der Belastbarkeit und kann zur Verbesserung der Lebensqualität  oder Verringerung der Morbidität beitragen.
 
-Daher soll die behandelnde Ärztin oder der behandelnde Arzt regelmäßig auf die Bedeutung von  körperlichen Aktivitäten hinweisen und zur Teilnahme an geeigneten Trainingsmaßnahmen  motivieren (z. B. im Rahmen ambulanter Rehabilitations - und Funktionssportgruppen, wie z. B.  „Lungensportgruppen“). Ein regelmäßiges, mindestens einmal wöchentliches Training soll
+Daher soll die behandelnde Ärztin oder der behandelnde Arzt regelmäßig auf die Bedeutung von  körperlichen Aktivitäten hinweisen und zur Teilnahme an geeigneten Trainingsmaßnahmen  motivieren (z. B. im Rahmen ambulanter Rehabilitations- und Funktionssportgruppen, wie z. B.  „Lungensportgruppen“). Ein regelmäßiges, mindestens einmal wöchentliches Training soll
 
 empfohlen werden.
 

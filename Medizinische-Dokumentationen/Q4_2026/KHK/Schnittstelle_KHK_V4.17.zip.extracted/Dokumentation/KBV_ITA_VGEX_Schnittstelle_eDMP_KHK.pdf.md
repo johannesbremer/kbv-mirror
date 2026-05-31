@@ -362,7 +362,7 @@ DOKUMENTENHISTORIE
 |  |  |  |  |  |  |
 |  | 4.17 |  | 14.11.2025 | KBV | Anpassung an die aktualisierten |
 
-Plausibilitäten der Anlage 2 (Einschreibung wegen) Plausibilitäten der Anlage 6 Plausibilitäten der Anlage 2 (Einschreibung wegen) Plausibilitäten der Anlage 2 (Einschreibung wegen) der DMP-Schnittstellen (bpsw. body  wird zu <body>) von 6.1.2.1 zu 6.1.3. bestehende Schnittstelle verwendeten Definition von <Zeitpunkt_dttm> möglicher Ergebnistexte als Tabellen in Kapitel 6 und 7 Plausibilitäten der Anlage 6 (Version 4.0) Korrekturen 6.1.7.7, 6.1.93, 6.1.9.4, 7.1.1.2 6.1.7.4 bis 6.1.7.6, 6.1.8.1, 6.1.9.3, 7.1.1.2 6.1.7, 6.1.7.1, 6.1.7.2, 6.1.7.3, 6.1.8, 6.1.8.2, 6.1.9, 7.1.1.3, 7.1.2.2
+Plausibilitäten der Anlage 2 (Einschreibung wegen) Plausibilitäten der Anlage 6 Plausibilitäten der Anlage 2 (Einschreibung wegen) Plausibilitäten der Anlage 2 (Einschreibung wegen) Korrekturen der DMP-Schnittstellen (bpsw. body  wird zu <body>) von 6.1.2.1 zu 6.1.3. bestehende Schnittstelle verwendeten Definition von <Zeitpunkt_dttm> möglicher Ergebnistexte als Tabellen in Kapitel 6 und 7 Plausibilitäten der Anlage 6 6.1.7.7, 6.1.93, 6.1.9.4, 7.1.1.2 (Version 4.0) 6.1.7.4 bis 6.1.7.6, 6.1.8.1, 6.1.9.3, 7.1.1.2 6.1.7, 6.1.7.1, 6.1.7.2, 6.1.7.3, 6.1.8, 6.1.8.2, 6.1.9, 7.1.1.3, 7.1.2.2
 
 ---
 
@@ -635,12 +635,12 @@ Der Aufbau dieser SSU ist nachfolgend beschrieben:
 
 Der XML-Code zum Element <sciphox-ssu> sieht folgendermaßen aus:
 
-\| <sciphox:sciphox-ssu type="observation" country="de" version="v1">**   <sciphox:Beobachtungen>                     </sciphox:sciphox-ssu>** |
+\| <sciphox:sciphox-ssu type="observation" country="de" version="v1">**   <sciphox:Beobachtungen>               </sciphox:sciphox-ssu>** |
 \|---|
 
 **XML-Code 5:** Beobachtungen
 
-sciphox:Beobachtung> </sciphox:Beobachtung> sciphox:Beobachtung>  <!-- eventuell mehrere Beobachtung-Elemente--> </sciphox:Beobachtung> </sciphox:Beobachtungen>
+<sciphox:Beobachtung> </sciphox:Beobachtung> <sciphox:Beobachtung>  <!-- eventuell mehrere Beobachtung-Elemente--> </sciphox:Beobachtung> </sciphox:Beobachtungen>
 
 ---
 
@@ -1032,7 +1032,7 @@ Der Coderahmen sieht wie folgt aus:
 
 ---
 
-\| <content>          <sciphox:Beobachtungen>    **      **         **                                                   </local_markup>  </content> |
+\| <content>        <sciphox:Beobachtungen>   **    **      **                                   </local_markup>  </content> |
 \|---|
 
 **XML-Code 24:** content (Medikamente
@@ -1045,7 +1045,7 @@ gemäß Tabelle 11. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, 
 
 Als Beispiel sei hier folgender Code angegeben:
 
-\| <sciphox:Beobachtung>    <  < </sciphox:Beobachtung> |
+\| <sciphox:Beobachtung>       </sciphox:Beobachtung> |
 \|---|
 
 **XML-Code 25:** Thrombozytenaggregationshemmer
@@ -1059,7 +1059,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 11:** Werte bei Ergebnistext (Thrombozytenaggregationshemmer
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> sciphox:Beobachtung> <sciphox:Parameter DN="Thrombozytenaggregationshemmer"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> sciphox:Beobachtung> <sciphox:Parameter DN="Betablocker"/> sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> sciphox:Beobachtung> <sciphox:Parameter DN="ACE-Hemmer"/> sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle Statin-Dosis"/> sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle Therapiestrategie Statin"/> sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> sciphox:Beobachtung> <sciphox:Parameter DN="Grund für moderate oder niedrige Statin-Dosis"/> sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Thrombozytenaggregationshemmer"/> sciphox:Ergebnistext V="Ja"/> sciphox:Ergebnistext V="O" rale Antikoagulation />  (V="...")
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Thrombozytenaggregationshemmer"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Betablocker"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="ACE-Hemmer"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle Statin-Dosis"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle Therapiestrategie Statin"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Grund für moderate oder niedrige Statin-Dosis"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Thrombozytenaggregationshemmer"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Ergebnistext V="O" rale Antikoagulation />  (V="...")
 
 ---
 
@@ -1118,7 +1118,7 @@ gemäß Tabelle 14. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, 
 
 Als Beispiel sei hier folgender Code angegeben:
 
-\| <sciphox:Beobachtung>    < </sciphox:Beobachtung> |
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
 **XML-Code 28:** Aktuelle Statin-Dosis
@@ -1141,7 +1141,7 @@ gemäß Tabelle 15.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-\| <sciphox:Beobachtung>    < </sciphox:Beobachtung> |
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
 **XML-Code 29:** Aktuelle Therapiestrategie Statin
@@ -1155,7 +1155,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 15:** Werte bei Ergebnistext (Aktuelle Therapiestrategie Statin
 
-<sciphox:Parameter DN="Aktuelle Statin-Dosis"/> sciphox:Ergebnistext V="Moderat"/> V="...") <sciphox:Parameter DN="Aktuelle Therapiestrategie Statin"/> sciphox:Ergebnistext V="Zielwert-Strategie"/> V="...")
+<sciphox:Parameter DN="Aktuelle Statin-Dosis"/> <sciphox:Ergebnistext V="Moderat"/> V="...") <sciphox:Parameter DN="Aktuelle Therapiestrategie Statin"/> <sciphox:Ergebnistext V="Zielwert-Strategie"/> V="...")
 
 ---
 
@@ -1167,7 +1167,7 @@ gemäß Tabelle 16.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-\| <sciphox:Beobachtung>    < </sciphox:Beobachtung> |
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
 **XML-Code 30:** Grund für moderate oder niedrige Statin-Dosis
@@ -1198,10 +1198,10 @@ genau ein Kindelement <sciphox:Ergebnistext>
 
 Der Coderahmen sieht wie folgt aus:
 
-\| <content>**         <sciphox:Beobachtungen>                                 </local_markup> </content> |
+\| <content>**       <sciphox:Beobachtungen>                       </local_markup> </content> |
 \|---|
 
-<sciphox:Parameter DN="Grund für moderate oder niedrige Statin-Dosis"/> sciphox:Ergebnistext V="LDL-Zielwert erreicht"/> V="...") Hochdosis hohe <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Schulung bereits vor Einschreibung in DMP wahrgenommen "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Schulung empfohlen (bei aktueller Dokumentation) "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu>
+<sciphox:Parameter DN="Grund für moderate oder niedrige Statin-Dosis"/> <sciphox:Ergebnistext V="LDL-Zielwert erreicht"/> V="...") Hochdosis hohe <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Schulung bereits vor Einschreibung in DMP wahrgenommen "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Schulung empfohlen (bei aktueller Dokumentation) "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu>
 
 ---
 

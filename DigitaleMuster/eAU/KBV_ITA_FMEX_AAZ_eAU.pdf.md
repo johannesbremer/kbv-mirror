@@ -2,21 +2,21 @@
 
 ## [KBV_ITA_FMEX_AAZ_EAU]
 
-**DEZERNAT DIGITALISIERUNG UND IT**
-
 Seite 1 von 8 / KBV / Antrag auf Zertifizierung eAU / 15. Mai 2024
 
 # EAU
 
 **KASSENÄRZTLICHE**  **BUNDESVEREINIGUNG**
 
-**IT IN DER ARZTPRAXIS**
+**DEZERNAT DIGITALISIERUNG UND IT**
 
-**DOKUMENTENSTATUS: IN KRAFT**
+**IT IN DER ARZTPRAXIS**
 
 **15. MAI 2024**
 
 **VERSION: 1.2**
+
+**DOKUMENTENSTATUS: IN KRAFT**
 
 
 ---
@@ -59,24 +59,28 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 **Telefonnummer**
 
-Arzt/Ärztin [ ]
-
 **E-Mail-Adresse**
 
 Seite 2 von 8 / KBV / Antrag auf Zertifizierung eAU / Version: 1.2 / 15. Mai 2024
 
-Softwarehaus [ ]
+Arzt/Ärztin
 
-Sonstiges [ ]
+Softwarehaus
+
+Sonstiges
 
 
 ---
+
+Antragssteller:
 
 **1.2** **OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE**
 
 Nur anzugeben, wenn abweichend von Abschnitt
 
-**Bestell- bzw. Auftragsnummer des**  **Antragsstellers**
+**Bestell- bzw. Auftragsnummer des**
+
+**Antragsstellers**
 
 **Name**
 
@@ -90,31 +94,23 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizie
 
 **Bezeichnung**
 
-**Identnummer [die letzten drei**  **Stellen der Prüfnummer, falls**  **vorhanden]**
+**Identnummer [die letzten drei**
+
+**Stellen der Prüfnummer, falls**  **vorhanden]**
 
 **1.4**  **BETRIEBSSYSTEME**
 
 Bitte geben Sie im Folgenden an, welche Client
 
-Windows  [ ]
+Windows
 
-iOS/Android  [ ]
-
-Antragssteller:
-
-[ ]
-
-[ ]
-
-1.1.
+iOS/Android 1.1.
 
 -Betriebssysteme unterstützt werden.
 
 Mac OS
 
 Sonstige
-
-[ ]
 
 Linux
 
@@ -125,7 +121,7 @@ Antragssteller:
 
 2 REALISIERUNG VON ANFORDERUNGEN
 
-Der Antragsteller versichert, dass alle Pflichtfunktionen der  [ ] [KBV_ITA_VGEX_Technische_Anlage_eAU] für die Übermittlung von elektronischen  Arbeitsbescheinigungen erfüllt sind.
+Der Antragsteller versichert, dass alle Pflichtfunktionen der   [KBV_ITA_VGEX_Technische_Anlage_eAU] für die Übermittlung von elektronischen  Arbeitsbescheinigungen erfüllt sind.
 
 **2.1** **REALISIERTE OPTIONALE FUNKTIONEN EAU**
 
@@ -135,17 +131,11 @@ KEINE
 
 ALLE
 
-[ ]
-
-[ ]
-
 **IDENT-NUMMER BEZEICHNUNG DER OPTIONALEN EAU FUNKTION LT. TECHNISCHER ANLAGE EAU**
 
 Technischen Anlage
 
 Laut nachfolgender Liste
-
-[ ]
 
 
 ---

@@ -25,29 +25,22 @@ In Kraft
 
 ---
 
-**D** **O** **K** **U**
+**D** **O** **K** **U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O** **R** **I** **E**
 
-Die Änderung der Version 2.25 sind zum
+Die Änderung der Version 2.25 sind zum **01.10.2026** umzusetzen.
 
 | **Version Datum** |  | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 2.25 | 13.05.2026 | KBV | Klarstellung der Anforderung P1-30        Aufnahme der Anforderung K4-42      Anpassung der möglichen   DMP-Kennzeichen (Abschnitt 3.3)        Neue Version der TE/EWE | Anpassung an Anforde-   Aufnahme von KIM als    Einführung Adipositas | **11 **    **20 **  **24 **  **24** |
+| 2.25 | 13.05.2026 | KBV | Klarstellung der Anforderung P1-30        Aufnahme der Anforderung K4-42      Anpassung der möglichen   DMP-Kennzeichen (Abschnitt 3.3)        Neue Version der TE/EWE | Anpassung an Anforde-   Aufnahme von KIM als    Einführung Adipositas - | **11 **    **20 **  **24 **  **24** |
 | 2.24 | 15.08.2024 | KBV | Neue Anforderung zu näheren Parame-   Ergänzung einer zu berücksichtigenden    Anpassung der möglichen   DMP-Kennzeichen (Abschnitt 3.3)    Aktualisierung bzgl. der zu übermitteln- |  | **10f **  **14 **  **24 **  **9 ** |
 | 2.23 | 25.04.2023 | KBV | Aktualisierung der relevanten KVDT       Redaktionelle Überarbeitung      Einführung eines Barcodes PDF417  auf der übergreifenden Teilnahmeerklä- | Angleichung an den aktu-         Angleichung an den An- | **12** **29 **  **22** |
 
-**M** **E** **N** **T** **E** **N** **H** **I** **S**
+P1-100 (Anforde- rungskatalog eDMP) Übertragungsweg Erwachsene sowie Adi- positas - Kinder und Ju- gendliche ter-Erläuterungen für Brustkrebs Anforderung aus KVDT (Abschnitt 2.2) den Archive -An- forderungen ellen Stand des KVDT- Anforderungskataloges  forderungskatalog eDMP
 
-**01.10.2026**
-
-**T** **O**  **R** **I** **E**
-
-umzusetzen.
-
-ter-Erläuterungen für Brustkrebs Anforderung aus KVDT (Abschnitt 2.2) den Archive forderungen -An- -100 (Anforde- rungskatalog eDMP) Übertragungsweg Erwachsene sowie Adi - positas - Kinder und Ju- gendliche ellen Stand des KVDT - Anforderungskataloges  forderungskatalog eDMP
 
 ---
 
-**I** **N** **H** **A** **L** **T** **S** **V** **E** **R** **Z** **E** **I** **C** **H**  **N** **I** **S**
+**I** **N** **H** **A** **L** **T** **S** **V** **E** **R** **Z** **E** **I** **C** **H** **N** **I** **S**
 
 **DOKUMENTENHISTORIE ___________________________________________________ 2**
 
@@ -163,31 +156,35 @@ ter-Erläuterungen für Brustkrebs Anforderung aus KVDT (Abschnitt 2.2) den Arch
 
 ---
 
-**T** **A** **B** **E** **L** **L** **E** **N** **V** **E** **R** **Z** **E** **I** **C** **H**  **N** **I** **S**
+**T** **A** **B** **E** **L** **L** **E** **N** **V** **E** **R** **Z** **E** **I** **C** **H** **N**
 
 Tabelle 1
 
-Übersicht der zu realisierenden
+Übersicht der zu
 
-[KBV_ITA_VGEX_Anforderungskatalog_KVDT] .................................................................... 13
+[KBV_ITA_VGEX_Anforderungskatalog_KVDT]
 
 Tabelle 2 Übersicht der zu erfassenden Daten im Ersatzverfahren
 
 Tabelle 3: Inhalt des Barcodes des Formulars der Teilnahmeerklärung
 
-**A** **B** **B** **I** **L** **D** **U** **N** **G** **S** **V** **E** **R** **Z** **E** **I** **C** **H** **N**
+**A** **B** **B** **I** **L** **D** **U** **N** **G** **S** **V** **E** **R** **Z** **E** **I** **C**
 
 Abbildung 1: Positionierung des PDF 417 Barcodes auf dem Formular Teilnahmeerklärung
 
-Pflichtfunktionen analog zu
+**I** **S**
+
+realisierenden Pflichtfunktionen
+
+.................................................................... 13
+
+**H** **N** **I** **S**
+
+analog zu
 
 ................................ 15
 
-................................ 25
-
-**I** **S**
-
-23
+................................ 25 23
 
 
 ---
@@ -508,9 +505,7 @@ nahmestelle zu archivieren.
 
 - Systems nicht geändert werden, wenn eine Teilnahmeerklärung oder eine elektronische
 
-- Dokumentation mit dieser patientenbezogenen Fallnummer versendet worden ist.
-
-- Wechselt ein Patient den Kostenträger, den Wohnort, ändert sich sein Versicherungs- status oder sein Name, so ist die DMP-Fallnummer trotzdem beizubehalten.
+- Dokumentation mit dieser patientenbezogenen Fallnummer versendet worden ist.  Wechselt ein Patient den Kostenträger, den Wohnort, ändert sich sein Versicherungs- status oder sein Name, so ist die DMP-Fallnummer trotzdem beizubehalten.
 
 - 2. Unterläuft dem Anwender bei der Erstanlage einer DMP-Fallnummer ein Fehler und sind
 
@@ -577,7 +572,7 @@ Originaldokument.
 
 - **weisquelle konnte nicht gefunden werden.** Kapitel 6.3).
 
-- 3. Die Software muss in der Korrektur zu einer Dokumentation im Dokumentenverweis  (Element related_document) die Dokument -ID (Element id) des Originaldokuments  übertragen (siehe **Fehler! Verweisquelle konnte nicht gefunden werden.** Kapitel 6.7).
+- 3. Die Software muss in der Korrektur zu einer Dokumentation im Dokumentenverweis  (Element related_document) die Dokument-ID (Element id) des Originaldokuments  übertragen (siehe **Fehler! Verweisquelle konnte nicht gefunden werden.** Kapitel 6.7).
 
 - 4. Die Software muss in der Korrektur zu einer Dokumentation in der Korrekturkennzeich- nung (Element document_relationship.type_cd) den Wert RPLC übertragen (siehe **Feh-**
 
@@ -604,7 +599,7 @@ Aus Kapitel 2.2 „Patientenstammdaten erfassen und verarbeiten“ in [KBV_ITA_V
 
 | KP2-100 | Einsatz zertifizierter Lesegeräte |
 |---|---|
-| KP2-101 | – |
+| KP2-101 | Krankenversichertenkarte als Berechtigungsnachweis zur Inanspruchnahme |
 | KP2-102 | Kartendaten der abgelehnten Krankenversichertenkarte werden in kopierbarer |
 | P2-105 | Konvertierung der KVK-Daten in eGK-/KVDT-konforme Strukturen |
 | P2-120 | Anzeigefunktion bei korrekten Versichertendatensätzen |
@@ -632,20 +627,20 @@ Tabelle 1
 
 ] zu entnehmen. Bei Kombinationssystemen
 
-Übersicht der zu realisierenden Pflichtfunktionen analog zu [KBV_ITA_VGEX_Anforderungs- katalog_KVDT]
-
 *230, gilt, dass „*
 
-*nicht möglich*
+Übersicht der zu realisierenden Pflichtfunktionen analog zu [KBV_ITA_VGEX_Anforderungs- katalog_KVDT]
 
-Krankenversichertenkarte als Berechtigungsnachweis zur Inanspruchnahme ärztlicher Leistungen ungültig Ausnahmeregelung für „originäre“ Sonstige Kostenträger (VKNR-Seriennummer 3.-5. Stelle >= 800) Form angezeigt -Kennzeichen im Rahmen des Ersatzverfahrens *Eine Weiterverarbeitung*  *sein“ durch „Eine Weiter-* *sein“ zu ersetzen*
+*Eine Weiterverarbeitung*  *sein“ durch „Eine Weiter-*
+
+ärztlicher Leistungen ungültig Ausnahmeregelung für „originäre“ Sonstige Kostenträger (VKNR-Seriennummer 3.-5. Stelle >= 800) Form angezeigt -Kennzeichen im Rahmen des Ersatzverfahrens *nicht möglich* *sein“ zu ersetzen*
 
 
 ---
 
 | **Bezeichnung** | **gleiche [** |
 |---|---|
-| **2.2.1** | Neben dem Einlesen einer |
+| **2.2.1** | Neben dem Einlesen einer Versichertenkarte existieren weitere Möglichkeiten, Patienten- |
 | Vorsatzwort | <person><person_name><nm><pfx> |
 | Namenszusatz | <person><person_name><nm><pfx> |
 | Name | <person><person_name><nm><fam> |
@@ -664,7 +659,7 @@ Krankenversichertenkarte als Berechtigungsnachweis zur Inanspruchnahme ärztlich
 | • |  |
 | • |  |
 | **2.2.1.1 Ersatzverfahren** | Das Ersatzverfahren ist eine besondere Form der "manuellen" Erfassung von |
-| 1 |  |
+| 1 | : |
 | **Ersatzverfahren** | • |
 | • | • |
 |  | • |
@@ -675,7 +670,7 @@ Krankenversichertenkarte als Berechtigungsnachweis zur Inanspruchnahme ärztlich
 |---|---|
 | **P 2-40** |  |
 
-„Ersatzverfahren“ anwenden Versichertendaten manuell erfassen Patientenstammdaten "manuell" erfassen  Versichertenkarte existieren weitere Möglichkeiten, Patienten- stammdaten zu erfassen, z.B.: Patientenstammdaten manuell über Tastatur eingeben, gedruckte Patientenstammdaten (z.B. Überweisungsschein im Labor) scannen und in- terpretieren. daten und wird wie folgt definiert :  liegt vor, wenn dem Arzt lediglich ein gültiger Überweisungsschein (z.B. Einsendepraxen), nicht aber die Krankenversichertenkarte zur Verfügung steht, der Versicherte darauf hinweist, dass sich die zuständige Krankenkasse oder der Versicher- tenstatus geändert hat, die Versichertenkarte dies aber noch nicht berücksichtigt, die Versichertenkarte defekt ist, das Lesegerät/der Drucker defekt ist, die Versichertenkarte nicht benutzt werden kann, weil für Hausbesuche kein entsprechendes Gerät zur Verfügung steht. Beim und in allen Fällen, in denen keine Versichertenkarte vorgelegt wird (z.B. Überweisungsschein) oder vorgelegt werden kann (z.B. Einsendepraxen fristete provisorische Ersatzbescheinigung nach § 19(2) BMV-Ä), muss das System die Erfas- sung sämtlicher Versichertendaten ermöglichen Behandlungsausweises von der Versichertenkarte umgedruckt wurden. Diese sind: Elemente gem. DMP-Header (Kindelemente von <local_header><sciphox-ssu><GesetzlicheKrankenversiche- Patientenstamm- , Einsendepraxen, be- , wie sie in das Personalienfeld des jeweiligen Fehler! Verweisquelle konnte nicht gefunden werden. cda:patient  ver-1 sinngemäß laut Anlage 6 der „Vereinbarung zur Gestaltung und bundesweiten Einführung der Krankenversichertenkarte“
+„Ersatzverfahren“ anwenden Versichertendaten manuell erfassen Patientenstammdaten "manuell" erfassen  stammdaten zu erfassen, z.B.: Patientenstammdaten manuell über Tastatur eingeben, gedruckte Patientenstammdaten (z.B. Überweisungsschein im Labor) scannen und in- terpretieren. daten und wird wie folgt definiert  liegt vor, wenn dem Arzt lediglich ein gültiger Überweisungsschein (z.B. Einsendepraxen), nicht aber die Krankenversichertenkarte zur Verfügung steht, der Versicherte darauf hinweist, dass sich die zuständige Krankenkasse oder der Versicher- tenstatus geändert hat, die Versichertenkarte dies aber noch nicht berücksichtigt, die Versichertenkarte defekt ist, das Lesegerät/der Drucker defekt ist, die nicht benutzt werden kann, weil für Hausbesuche kein entsprechendes Gerät zur Verfügung steht. Beim und in allen Fällen, in denen keine Versichertenkarte vorgelegt wird (z.B. Überweisungsschein) oder vorgelegt werden kann (z.B. Einsendepraxen fristete provisorische Ersatzbescheinigung nach § 19(2) BMV-Ä), muss das System die Erfas- sung sämtlicher Versichertendaten ermöglichen Behandlungsausweises von der Versichertenkarte umgedruckt wurden. Diese sind: Elemente gem. DMP-Header (Kindelemente von <local_header><sciphox-ssu><GesetzlicheKrankenversiche- Patientenstamm- , Einsendepraxen, be- , wie sie in das Personalienfeld des jeweiligen Fehler! Verweisquelle konnte nicht gefunden werden. cda:patient  ver-1 sinngemäß laut Anlage 6 der „Vereinbarung zur Gestaltung und bundesweiten Einführung der Krankenversichertenkarte“
 
 
 ---
@@ -690,7 +685,7 @@ Krankenversichertenkarte als Berechtigungsnachweis zur Inanspruchnahme ärztlich
 |  | 2. |
 | ten, so sind grundsätzlich folgende Angaben | **a.** |
 | Geburtstag: | **b.** |
-| **01** |  |
+| Geburtsmonat: |  |
 |  |  |
 |  |  |
 |  |  |
@@ -708,7 +703,7 @@ Krankenversichertenkarte als Berechtigungsnachweis zur Inanspruchnahme ärztlich
 | BesonderePersonengruppe | <local_header><sciphox-ssu>  <GesetzlicheKrankenversicherung>  <BesonderePersonengruppe> |
 | Versichertenart | <local_header><sciphox-ssu>  <GesetzlicheKrankenversicherung><Versichertenart> |
 
-Tabelle 2 Versicherte der Sonstigen Kostenträger haben in einigen Fällen weder eine Versichertenkarte noch eine Versichertennummer. Die Daten des Berechtigungsnachweises müssen daher über das Ersatzverfahren erfasst werden. Da die Versichertennummer für die DMP -Dokumentation ein Pflichtfeld ist, muss in diesem Fall der Ersatzwert „X999999999“ für das Feld Versicherten- nummer eingetragen werden. Für die Weiterverarbeitung der o.a. Daten gelten - mit Ausnahme der Restriktionen zur "Amt- lichkeit" - grundsätzlich die gleichen Vorgaben, wie sie auch bei einem Einlesevorgang über ein Lesegerät beachtet werden müssen. werden können.  birth_dttm (Geburtsdatum JJJJ-TT-MM, JJJJ-MM-00, JJJJ-00-00 mit den Spitzenverbänden der Krankenkassen folgendes Vorgehen vereinbart: Erscheint ein Patient ohne Angabe eines Geburtsjahres auf der der Versichertenkarte, Krankenkasse eine Sonderbescheinigung einzureichen, auf der das Geburtsdatum ver- merkt ist. Dieses, seitens der zuständigen Krankenkasse bekannt gegebene Geburts- datum, ist für Dokumentation und Bedruckung zu verwenden. Sind auf der der Versichertenkarte keine Angaben zum Geburtstag und wenden: Geburtsmonat: gleiche [ Fehler! Verweisquelle konnte nicht gefunden werden. Übersicht der zu erfassenden Daten im Ersatzverfahren Patienten) für Dokumentation und Bedruckung zu ver- im Deswegen wurde cda:patient  ver- -Header:  monat enthal-| **PFLICHTFUNKTION DMP** | |
+Tabelle 2 Versicherte der Sonstigen Kostenträger haben in einigen Fällen weder eine Versichertenkarte noch eine Versichertennummer. Die Daten des Berechtigungsnachweises müssen daher über das Ersatzverfahren erfasst werden. Da die Versichertennummer für die DMP -Dokumentation ein Pflichtfeld ist, muss in diesem Fall der Ersatzwert „X999999999“ für das Feld Versicherten- nummer eingetragen werden. Für die Weiterverarbeitung der o.a. Daten gelten - mit Ausnahme der Restriktionen zur "Amt- lichkeit" - grundsätzlich die gleichen Vorgaben, wie sie auch bei einem Einlesevorgang über ein Lesegerät beachtet werden müssen. werden können.  birth_dttm (Geburtsdatum JJJJ-TT-MM, JJJJ-MM-00, JJJJ-00-00 mit den Spitzenverbänden der Krankenkassen folgendes Vorgehen vereinbart: Erscheint ein Patient ohne Angabe eines Geburtsjahres auf der der Versichertenkarte, Krankenkasse eine Sonderbescheinigung einzureichen, auf der das Geburtsdatum ver- merkt ist. Dieses, seitens der zuständigen Krankenkasse bekannt gegebene Geburts- datum, ist für Dokumentation und Bedruckung zu verwenden. Sind auf der der Versichertenkarte keine Angaben zum Geburtstag und wenden: 01 01 gleiche [ Fehler! Verweisquelle konnte nicht gefunden werden. Übersicht der zu erfassenden Daten im Ersatzverfahren für Dokumentation und Bedruckung zu ver- Patienten) im Deswegen wurde cda:patient  ver- DMP-Header:  monat enthal-| **PFLICHTFUNKTION DMP** | |
 |---|---|
 | **P 2-50** | **Geburtsdatum mit besonderem Wertebereich** |
 
@@ -738,9 +733,11 @@ Die Geschlechtsangabe ist optional. Falls die Geschlechtsangabe vorliegt, dann m
 
 - 1. Die Software muss einen Ausdruck der Dokumentation ermöglichen.
 
-- 2. Die Software muss sicherstellen, dass auf dem erzeugten Ausdruck alle Daten nach den - 2
+- 2. Die Software muss sicherstellen, dass auf dem erzeugten Ausdruck alle Daten nach den
 
-- aktuell gültigen DMP-Richtlinien des G-BA ([GBA_DMP_RL], [GBA_DMP_A_RL]) aus- gedruckt werden.
+- aktuell gültigen DMP-Richtlinien des G-BA2 ([GBA_DMP_RL], [GBA_DMP_A_RL]) aus-
+
+- gedruckt werden.
 
 - 3. Die Software muss nach Bestätigung der vollständigen Plausibilisierung und endgültiger  Speicherung einen Hinweis bzw. eine Frage enthalten, ob jetzt ein Ausdruck zur Weiter- gabe an den Patienten erfolgen soll.
 
@@ -860,15 +857,15 @@ Das System muss,
 
 -  *BK_421*
 
-*Die Dokumentationen der Indikation Brustkrebs, welche mit einem Erstelldatum ab dem 1.*  *tober 2018 bis 30. September 2024 erstellt bzw. exportiert werden, erhalten das folgende Ar-* *chivkürzel:*
+*Die Dokumentationen der Indikation Brustkrebs, welche mit einem Erstelldatum ab dem 1. Ok-*
+
+*tober 2018 bis 30. September 2024 erstellt bzw. exportiert werden, erhalten das folgende Ar-* *chivkürzel:*
 
 -  *BK_423*
 
 *Die Dokumentationen der Indikation Brustkrebs, welche mit einem Erstelldatum ab dem 1. Ok-* *tober 2024 erstellt bzw. exportiert werden, erhalten das folgende Archivkürzel:*
 
 -  *BK_425*
-
-*Ok-*
 
 | **PFLICHTFUNKTION DMP** | |
 |---|---|
@@ -899,8 +896,6 @@ Vor Fertigstellung des vom Anwender einzureichenden Datenträgers sind die Dokum
 
 Die Anforderungen dieses Kapitels beruhen auf Vereinbarungen zwischen der KBV  Spitzenverbänden der Krankenkassen. Werden Datenträger zur Datenübermittlung der DMP - Dokumentationsdaten eingesetzt, so sind die Anforderungen P4
 
-und den -35 und P4-36 einzuhalten.
-
 | **PFLICHTFUNKTION DMP** | |
 |---|---|
 | **P4-35** | **Beschriftung der eingesetzten Datenträger** |
@@ -915,7 +910,7 @@ Das System muss den Anwender darauf hinweisen, dass die eingesetzten Datenträge
 |---|---|
 | **P4-36** | **Erstellung Transportbegleitzettel** |
 
-- 1. Das System muss nach Export der Daten und Aufbereitung für den Versand (Beschrei- ben von Disketten oder CDs) einen Transportbegleitzettel nach den Beschreibungen in  Kapitel 5.2 in [**Fehler! Verweisquelle konnte nicht gefunden werden.**] erstellen.
+- 1. Das System muss nach Export der Daten und Aufbereitung für den Versand (Beschrei- ben von Disketten oder CDs) einen Transportbegleitzettel nach den Beschreibungen in  Kapitel 5.2 in [**Fehler! Verweisquelle konnte nicht gefunden werden.**
 
 - 2. Das System darf das Unterschriftsdatum auf dem Transportbegleitzettel nicht aufdru- cken. Dieses Datum ist vom Anwender bei Unterzeichnung des Transportbegleitzettels  handschriftlich anzugeben.
 
@@ -932,6 +927,10 @@ Die Software kann dem Anwender eine Funktion zur Übertragung der DMP -Dokumenta
 Der Übertragungsweg KIM kann zur Übermittlung der  den, sofern die jeweilige Datenannahmestelle das KIM mittlung unterstützt. Den Starttermin zur Nutzung des Übertragungsweges KIM legen die regi- onalen DMP-Arbeitsgemeinschaften in Absprache mit der DMP
 
 **Akzeptanzkriterium:**
+
+und den -35 und P4-36 einzuhalten.
+
+- ] erstellen.
 
 DMP-Dokumentationen verwendet wer- -Verfahren zur Dokumentationsüber-
 
@@ -993,7 +992,7 @@ Die Bedruckungsvorgaben beziehen sich auf das Formular der indikationsübergreif
 
 | **Optionale FUNKTION DMP** | |
 |---|---|
-| **K7-10** | **Ausdruck des Barcodes auf der indikationsübergreifenden Teilnahme - und** |
+| **K7-10** | **Ausdruck des Barcodes auf der indikationsübergreifenden Teilnahme- und** |
 
 Die Software muss alle definierten Inhalte zum Barcode der indikationsübergreifenden Teil- nahme- und Einwilligungserklärung (TE/EWE) gemäß der Satztabelle (vgl. Kapitel 3.3) sowie  den entsprechenden Vorgaben (siehe Kapitel 5 des technischen Handbuchs BFB) e rzeugen
 
@@ -1030,7 +1029,7 @@ Der Barcode enthält die lesbaren Daten der TE/EWE und darüber hinaus noch die 
 
 onen in den Barcode ungekürzt erfasst/abgebildet.
 
-Der Großteil der Daten entspricht den Daten der Versichertenkarte und eines Teils der aufge- druckten Daten. Der Formularcode gibt die Formularkennzeichnung der TE/EWE an, wobei die  Formularcode-ergänzung die entsprechende Seite kennzeichnet. Die Versionsnummer be- zeichnet eine bestimmte Barcode -Version eines bestimmten Formulars; sie wird fortlaufend  hoch gezählt. Das Ausstellungsdatum ist das Datum des Drucks der TE/EWE.
+Der Großteil der Daten entspricht den Daten der Versichertenkarte und eines Teils der aufge- druckten Daten. Der Formularcode gibt die Formularkennzeichnung der TE/EWE an, wobei die  Formularcode-ergänzung die entsprechende Seite kennzeichnet. Die Versionsnummer be- zeichnet eine bestimmte Barcode-Version eines bestimmten Formulars; sie wird fortlaufend  hoch gezählt. Das Ausstellungsdatum ist das Datum des Drucks der TE/EWE.
 
 Um den Barcode platzsparend generieren zu können, wird für den Barcode das dynamische  Format verwendet. Die einzelnen Datenfelder werden dabei mit dem Feldtrenner TAB getrennt.
 
@@ -1049,53 +1048,53 @@ Behandlungsprogramm für“ und oberhalb des Feldes „KrankenhausIK“ - ein 2D
 
 ---
 
-| **Nr.** | **Feldbezeich-** | **Feld-** | **Typ** | **Erlaubte Inhalte** | **Format/ Bemer-** |
+| **Nr.** | **Feldbezeich-** | **Feld-** | **Typ** | **Erlaubte Inhalte** | **Format/** |
 |---|---|---|---|---|---|
 | 01 | Formularcode | 4 | a | 070F | Name des Formu- |
-| 02 | Formularcodeer- | 1 | a | a | Exemplar für |
+| 02 | Formularcodeer- | 1 | a | a | Exemplar |
 | 03 | Versionsnummer | 2 | n | 03 |  |
 | 04 | Nachname | <=45 | a |  |  |
 | 05 | Vorname | <=45 | a |  |  |
 | 06 | Geburtsdatum | 8 | n |  | Format: |
-| 07 | Versicherungs- | 8 | n |  | Format : |
+| 07 | Versicherungs- | 8 | n |  | Format |
 | 08 | Kostenträgerken- | 9 | n |  |  |
 | 09 | Versicherten-ID | <=12 | a |  |  |
 | 10 | Versichertenart | 1 | n | 1,3,5 |  |
-| 11 | Besondere Per- | 2 | n | 00, 04, 06, 07, 08, 09 |  |
+| 11 | Besondere | 2 | n | 00, 04, 06, 07, 08, 09 |  |
 | 12 | DMP-Kennzeich- | 2 | n | 00, 01, 02, 03, 04, 05, 06, 07, |  |
-| 13 | (Neben-) Be- | 9 | n |  |  |
+| 13 | (Neben-) | 9 | n |  |  |
 | 14 | LANR | 9 | n |  |  |
-| 15 | Ausstellungsda- | 8 | n |  | Format : |
+| 15 | Ausstellungsda- | 8 | n |  | Format |
 | 16 | DMP-Fallnum- | <=7 |  |  | 16 |
 | 17 | Krankenhaus-IK | 9 | n |  |  |
 | 18 | Diabetes mellitus | 1 | n |  | 1 = Diabetes Typ  2 = Diabetes Typ 2 |
-| **3.3 Barcode Inhalt** | **Nr.** | **Feldbezeich-** | **Feld-** | **Typ** | **Erlaubte Inhalte  Format/ Bemer-** |
+| **3.3 Barcode Inhalt** | **Nr.** | **Feldbezeich-** | **Feld-** | **Typ** | **Erlaubte Inhalte  Format/** |
 | 01 | Formularcode | 4 | a |  | 070F  Name des Formu- |
-| 02 | Formularcodeer- | 1 | a | a | Exemplar für |
+| 02 | Formularcodeer- | 1 | a | a | Exemplar |
 | 03 | Versionsnummer | 2 | n |  | 03 |
 |  | 04 | Nachname | <=45 | a |  |
 |  | 05 | Vorname | <=45 | a |  |
 |  | 06 | Geburtsdatum | 8 | n |  |
-| Format:  07 | Versicherungs- 8 | n | Format :  08 | Kostenträgerken- | 9  n |
+| Format:  07 | Versicherungs- 8 | n | Format  08 | Kostenträgerken- | 9  n |
 | 09 | Versicherten-ID | <=12 | a |  |  |
 | 10 | Versichertenart | 1  n | 1,3,5 |  | |
 
-nung gänzung schutz Ende nung sonengruppe nung triebsstättennum- Typ 1 oder 2 länge 08, 09, 10, 11 , 12, 13, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58 kung lars Datenstelle JJJJMMTT zusätzlicher Wer- tebereich :  JJJJMM00, JJJJ0000, 00000000 JJJJMMTT die JJJJMMTT
+nung länge gänzung schutz Ende nung Per- sonengruppe nung Be- triebsstättennum- Typ 1 oder 2 08, 09, 10, 11 , 12, 13, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58 Bemer- kung lars für die Datenstelle JJJJMMTT zusätzlicher Wer- tebereich :  JJJJMM00, JJJJ0000, 00000000 JJJJMMTT JJJJMMTT
 
 ---
 
-| Koronare Herz- | 1 | n |  | 1 = Koronare | 2= Herzinsuffizienz |
+| Koronare | 1 | n |  | 1 = Koronare | 2= Herzinsuffizienz |
 |---|---|---|---|---|---|
-| 20 | Asthma oder | 1 | n | 1 = Asthma, | 2= COPD |
+| 20 | Asthma | 1 | n | 1 = Asthma, | 2= COPD |
 | 21 | Brustkrebs | 1 | n |  | 1 = angekreuzt |
 | 22 | Depression | 1 | n | 1 = angekreuzt | 23 |
 | Rheumatoide | 1 | n |  | 1 = angekreuzt | 24 |
 | Rückenschmerz | 1 | n |  | 1 = angekreuzt | 25 |
 | Osteoporose | 1 | n |  | 1 = angekreuzt |  |
 | 26 |  | Adipositas - Er- |  | 1 |  |
-| n |  |  | 1 = Adipositas |  | – |
+| n |  |  | 1 = Adipositas |  | 2 = Adipositas |
 |  |  |  |  |  |  |
-|  | **Maximale Ge-** |  | **189 + TABS** |  |  |
+|  | **Maximale** |  | **189 + TABS** |  |  |
 | **Tabelle 3: Inhalt des Barcodes des Formulars der Teilnahmeerklärung** |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
@@ -1104,18 +1103,18 @@ nung gänzung schutz Ende nung sonengruppe nung triebsstättennum- Typ 1 oder 2 
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
-| 19 | Koronare Herz- | 1 | n |  | 1 = Koronare  2= Herzinsuffizienz |
-| 20 | Asthma oder | 1 | n |  | 1 = Asthma,  2= COPD |
+| 19 | Koronare | 1 | n |  | 1 = Koronare  2= Herzinsuffizienz |
+| 20 | Asthma | 1 | n |  | 1 = Asthma,  2= COPD |
 | 21 | Brustkrebs | 1 | n |  | 1 = angekreuzt |
 | 22 | Depression | 1 | n |  | 1 = angekreuzt |
 | 23 | Rheumatoide | 1 | n |  | 1 = angekreuzt |
 | 24 | Rückenschmerz | 1 | n |  | 1 = angekreuzt |
 | 25 | Osteoporose | 1 | n |  | 1 = angekreuzt |
-| 26 | Adipositas - Er- | 1 | n |  | 1 = Adipositas  – |
+| 26 | Adipositas - Er- | 1 | n |  | 1 = Adipositas  2 = Adipositas |
 |  |  |  |  |  |  |
-|  | **Maximale Ge-** | **189 + TABS** |  |  | |
+|  | **Maximale** | **189 + TABS** |  |  | |
 
-krankheit oder Arthritis wachsene oder Adipositas - Kin- der und Jugendli- che samtlänge Herzkrankheit, Erwachsene  2 = Adipositas Kinder und gendliche Ju-
+Herz- krankheit oder oder Arthritis wachsene oder Adipositas - Kin- der und Jugendli- che samtlänge Ge- Herzkrankheit, Erwachsene  Kinder und Ju- gendliche
 
 ---
 
@@ -1192,19 +1191,15 @@ Beispiel:
 
 - g. /kostentraeger/ortssuchname_liste/ortssuchname/@V
 
-- h. /kostentraeger/gueltigkeit/@V - i.
+- h. /kostentraeger/gueltigkeit/@V
 
-- **14c**
-
-- /kostentraeger/ik_liste/ik/gueltigkeit /@V
+- i. /kostentraeger/ik_liste/ik/gueltigkeit**14c**/@V
 
 - j. kostentraeger/existenzbeendigung/aufnehmender_kostentrae- ger/@V
 
 - k. /kostentraeger/unz_kv_geltungsbereich_liste/unz_kv_gel- tungsbereich/@V
 
-- l. /kostentraeger/kt_abrechnungsbereich_liste/kt_abrechnungs- **14c**
-
-- bereich/gueltigkeit /@V
+- l. /kostentraeger/kt_abrechnungsbereich_liste/kt_abrechnungs- bereich/gueltigkeit**14c**/@V
 
 haben einen "amtlichen" Charakter, d. h. sie dürfen für den Anwender nicht veränder- bar sein (nur Anzeigefelder!).
 
@@ -1245,7 +1240,7 @@ katalog_KVDT] aufgeführten Vorgaben darf die KT-Stammdatei temporär erweitert 
 
 Die von der KBV gelieferte aktuelle KT-Stammdatei kann bereits mit einem Update an die An- wender seitens des Softwareverantwortlichen **temporär** erweitert werden. Es können sowohl
 
-neue Kostenträger -Stammsätze (SA 1250) als auch neue IK’s zu einem bestehenden KT
+neue Kostenträger-Stammsätze (SA 1250) als auch neue IK’s zu einem bestehenden KT
 
 Stammsatz hinzugefügt werden.
 
@@ -1353,7 +1348,7 @@ Die von der KBV gelieferte aktuelle SDDA kann bereits mit einem Update an die An
 | [GBA_DMP_A_RL] | Richtlinie des Gemeinsamen Bundesausschusses |
 | [KBV_ITA_VGEX_Technisches_Hand- buch_BFB] | Technisches Handbuch Blankoformularbedruckung |
 | [EXT_ITA_AHEX_Teilnahme_eDMP_Uebergrei- fend] | Vorlage der übergreifenden TE/EWE. |
-| [eDMP 1.0] | Spezifikation der Inhalte der Anwendung eDMP 1.0 |
+| [eDMP 1.0] | Spezifikation der Inhalte der |
 | [gematik Implementierungsleitfaden Primärsys- teme Telematikinfrastruktur] | Vorgaben der gematik für die Implementierung des |
 
-Versorgung 1.10.2014 zur Regelung von Anford erungen an die Ausgestal- tung von Strukturierten nach §137f Abs. 2 SGB V zur Zusammenführung der Anforderungen an struk- turierte Behandlungsprogramme nach § 137f Abs. 2 SGB V für die Übermittlung von Nachrichten durch den si- cheren Kommunikationsdienst KIM (Kommunikation im Medizinwesen) Versichertenstammdatenmanagements und der Ba- sisdienste QES, Signatur und Verschlüsselung in Pri- märsystemen Behandlungsprogrammen
+Versorgung 1.10.2014 zur Regelung von Anford erungen an die Ausgestal- tung von Strukturierten Behandlungsprogrammen nach §137f Abs. 2 SGB V zur Zusammenführung der Anforderungen an struk- turierte Behandlungsprogramme nach § 137f Abs. 2 SGB V für die Übermittlung von Nachrichten durch den si- cheren Kommunikationsdienst KIM (Kommunikation im Medizinwesen) Versichertenstammdatenmanagements und der Ba- sisdienste QES, Signatur und Verschlüsselung in Pri- märsystemen Anwendung eDMP 1.0

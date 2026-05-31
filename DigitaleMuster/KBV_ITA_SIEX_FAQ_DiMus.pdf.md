@@ -147,7 +147,9 @@ Composition).type (line 28, col11): Keiner der angegebenen Codes ist im Valueset
 
 Die KBV hat in den Technischen Anlagen eAU und eRezept keine gesonderten Vorgaben zur Referenzierung  innerhalb der FHIR-Dateien gemacht. Allerdings sollten die Vorgaben der FHIR umgesetzt werden, da es sonst bei einigen Validatoren zu Warn- oder Fehlermeldungen kommen kann.
 
-In der FHIR-Spezifikation ist die korrekte Referenzierung unter  Kapitel „2.36.4.1 Resolving references in Bundles“ zu finden. Einige Beispiele finden Sie hierzu auch unter  [https://www.hl7.org/fhir/bundle-references.xml.html](https://www.hl7.org/fhir/bundle-references.xml.html).
+In der FHIR-Spezifikation ist die korrekte Referenzierung unter [https://www.hl7.org/fhir/bundle.html](https://www.hl7.org/fhir/bundle.html)
+
+Kapitel „2.36.4.1 Resolving references in Bundles“ zu finden. Einige Beispiele finden Sie hierzu auch unter  [https://www.hl7.org/fhir/bundle-references.xml.html](https://www.hl7.org/fhir/bundle-references.xml.html).
 
 Aus Sicht der KBV könnten Sie bspw. eine der folgenden beiden Varianten zur Referenzierung in Ihren FHIR Dateien nutzen, wobei weitere FHIR-konforme Möglichkeiten möglich sind:
 
@@ -157,6 +159,10 @@ reference.value: „<Typ>/<id>“
 
 fullUrl.value: „<Typ>/<id>“  bzw. „<Pfad zum Server>/<Typ>/<id>“
 
+## -Dateien beachtet -Spezifikation beachtet und
+
+im
+
 ………..
 
 Variante 2:
@@ -164,12 +170,6 @@ Variante 2:
 reference.value: „urn:uuid:<id>“
 
 fullUrl.value: „urn:uuid:<id>“
-
-[https://www.hl7.org/fhir/bundle.html](https://www.hl7.org/fhir/bundle.html)
-
-## -Dateien beachtet -Spezifikation beachtet und
-
-im
 
 
 ---
@@ -349,9 +349,9 @@ standardmäßig gestattet sein soll.
 
 Wenn der Austausch ausgeschlossen ist, muss der Wert „false“ gesetzt sein. In der Visualisierung wird in  diesem Fall das Kreuz gesetzt.
 
-## 1
+## Frage: Wie werden die Teilverordnungen einer Mehrfachverordnung1 auf den Patientenausdruck
 
-## Frage: Wie werden die Teilverordnungen einer Mehrfachverordnung auf den Patientenausdruck  aufgebracht?
+## aufgebracht?
 
 ### Antwort der KBV:
 
@@ -541,8 +541,6 @@ Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv
 
 Versicherten erstellt werden. Die . Das heißt, die
 
-den Eco- oder vergleichbaren Sparmodus der  verzichtet werden. Bei geringerer
+den Eco- oder vergleichbaren Sparmodus der  verzichtet werden. Bei geringerer  Data-
 
 Versicherte führt.
-
-Data-

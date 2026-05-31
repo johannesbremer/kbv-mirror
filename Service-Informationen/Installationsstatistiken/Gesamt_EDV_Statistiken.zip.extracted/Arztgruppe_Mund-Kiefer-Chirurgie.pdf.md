@@ -82,124 +82,102 @@ INDAMED EDV-Entwicklung und Vertrieb GmbH
 
 Mesalvo Mannheim GmbH
 
-**Installationen 2.Q.2025**
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
 712
 
-89
-
-21
-
-12
-
-6
-
-6
-
-3
-
-3
-
-3
-
-2
-
-2
-
-1
-
-1
-
-**Installationen 1.Q.2025**
-
 710
+
+2
+
+89
 
 84
 
+5
+
 21
 
+21
+
+0
+
 12
+
+12
+
+0
+
+6
+
+6
+
+0
 
 6
 
 5
 
-4
-
-4
+1
 
 3
+
+4
+
+-1
+
+3
+
+4
+
+-1
+
+3
+
+3
+
+0
+
+2
+
+2
+
+0
 
 2
 
 3
 
+-1
+
 1
 
-**Differenz**
-
-2
-
-5
-
-0
-
-0
+1
 
 0
 
 1
-
--1
-
--1
-
-0
-
-0
-
--1
-
-0
 
 
 ---
 
-**Id**
+**Id Praxissoftware**
 
-015
+015 **MEDYS**
 
-252
+252 **CGM M1 PRO**
 
-086
+086 **DURIA**
 
-266
+266 **x.comfort**
 
-290
+290 **M-KIS**
 
-406
+406 **esQlab.online**
 
-298
+298 **Elefant**
 
-030
-
-**Praxissoftware**
-
-**MEDYS**
-
-**CGM M1 PRO**
-
-**DURIA**
-
-**x.comfort**
-
-**M-KIS**
-
-**esQlab.online**
-
-**Elefant**
-
-**Praxis-Programm**
+030 **Praxis-Programm**
 
 **Anbieter**
 
@@ -219,25 +197,7 @@ HASOMED GmbH
 
 MediSoftware Computersysteme für Ärzte 2
 
-**Installationen 2.Q.2025**
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-**Installationen 1.Q.2025**
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
 1
 
@@ -253,22 +213,36 @@ MediSoftware Computersysteme für Ärzte 2
 
 1
 
-1
-
-**Differenz**
-
-0
-
-0
-
-0
-
 0
 
 0
 
 1
 
+1
+
 0
+
+1
+
+1
+
+0
+
+1
+
+0
+
+1
+
+1
+
+1
+
+0
+
+1
+
+1
 
 0

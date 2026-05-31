@@ -62,93 +62,89 @@ KfH - Kuratorium für Dialyse und Nierentransplantation e.V.
 
 RescuePro Production GmbH & Co. KG 1
 
-**Installationen 2.Q.2025**
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
 690
 
-643
-
-483
-
-425
-
-264
-
-237
-
-175
-
-154
-
-151
-
-128
-
-117
-
-95
-
-93
-
-90
-
-**Installationen 1.Q.2025**
-
 664
-
-642
-
-481
-
-406
-
-263
-
-231
-
-169
-
-157
-
-151
-
-126
-
-119
-
-97
-
-94
-
-85
-
-**Differenz**
 
 26
 
+643
+
+642
+
 1
 
+483
+
+481
+
 2
+
+425
+
+406
 
 19
 
+264
+
+263
+
 1
 
-6
+237
+
+231
 
 6
+
+175
+
+169
+
+6
+
+154
+
+157
 
 -3
 
+151
+
+151
+
 0
+
+128
+
+126
 
 2
 
--2
+117
+
+119
 
 -2
+
+95
+
+97
+
+-2
+
+93
+
+94
 
 -1
+
+90
+
+85
 
 5
 
@@ -197,30 +193,28 @@ CompuGroup Medical Deutschland AG 2
 
 53
 
-**Installationen 1.Q.2025**
+**Installationen 1.Q.2025 Differenz**
 
 79
 
-66
-
-71
-
-64
-
-64
-
-52
-
-**Differenz**
-
 3
+
+66
 
 6
 
+71
+
 -2
+
+64
 
 -4
 
+64
+
 -5
+
+52
 
 1

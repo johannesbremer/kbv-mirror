@@ -2,9 +2,7 @@
 
 **Name,Vorname des Versicherten**
 
-**geb. am**
-
-**Kostenträgerkennung Versicherten-Nr.** **Status**
+**Kostenträgerkennung Versicherten-Nr.**
 
 **Arzt-Nr.**
 
@@ -12,45 +10,43 @@
 
 **Datum**
 
-**Es** **sollen** **ggf.** **Angaben** **zu** **folgenden**
+**Es** **sollen** **ggf.** **Angaben**
 
-**Aktuelle** **Beschwerden,** **Angaben** **zum** **psychischen**
+**Aktuelle** **Beschwerden,**
 
-**sondere unter Berücksichtigung des Entwicklungsstandes), relevante anamnestische Daten im Zusammenhang mit** **den** **aktuellen** **Beschwerden,** **medizinische**
+**sondere unter Berücksichtigung des Entwicklungsstandes), relevante anamnestische Daten im Zusammenhang mit** **den** **aktuellen** **Beschwerden,**
 
-**Parallelbehandlungen** **stat./amb.** **(z.B.** **laufende**
+**Parallelbehandlungen** **stat./amb.**
 
-**gleitbehandlung** **und/oder** **psychiatrische**
+**gleitbehandlung** **und/oder**
+
+**22**
 
 ## Konsiliarbericht
 
 **vor Aufnahme einer Psychotherapie durch Psychologische** **Psychotherapeuten und Kinder- und** **Jugendlichenpsychotherapeuten**
 
+**geb. am**
+
 **Auf Veranlassung von:**
 
 **Arztnummer**
+
+**Status**
 
 **Name des Therapeuten**
 
 **Betriebsstättennummer**
 
-**Inhalten** **gemacht** **werden**
+**zu** **folgenden** **Inhalten** **gemacht** **werden:**
 
-**und** **somatischen** **Befund** **(bei** **Kindern** **und** **Jugendlichen**
+**Angaben** **zum** **psychischen** **und** **somatischen** **Befund** **(bei** **Kindern** **und** **Jugendlichen** **insbe-**
 
-**Diagnosen,** **Differenzial-** **und** **Verdachtsdiagnosen,** **relevante**
+**medizinische** **Diagnosen,** **Differenzial-** **und** **Verdachtsdiagnosen,** **relevante** **Vor-** **und**
 
-**Medikation),** **ggf.** **Befunde,** **die** **eine** **ärztliche/ärztlich** **veranlasst**
+**(z.B.** **laufende** **Medikation),** **ggf.** **Befunde,** **die** **eine** **ärztliche/ärztlich** **veranlasste** **Be-**
 
-**bzw.** **kinder-** **undjugendpsychiatrische** **Untersuchung** **erforderlich**
-
-**22**
-
-**insbe-**
-
-**Vor-** **und** **e** **Be-**
-
-**machen:**
+**psychiatrische** **bzw.** **kinder-** **undjugendpsychiatrische** **Untersuchung** **erforderlich** **machen:**
 
 **Psychiatrische** **bzw.** **kinder-** **und**
 
@@ -58,29 +54,35 @@
 
 **erforderlich**
 
-**nicht erforderlich**
+**Sind** **ärztliche/ärztlich** **veranlasste** **Maßnahmen** **bzw.** **Untersuchungen**
 
-**Sind** **ärztliche/ärztlich** **veranlasste** **Maßnahmen** **bzw.** **Untersuchungen** **notwendig** **bzw.**
+**Aufgrund** **somatischer/psychiatrischer** **Befunde** **bestehen**
 
-**Aufgrund** **somatischer/psychiatrischer** **Befunde** **bestehen** **erzeitd** **Kontra-**
-
-**indikationen** **für** **eine** **psychotherapeutische** **Behandlung** **(Begründung** **s.** **o.)**
+**indikationen** **für** **eine** **psychotherapeutische** **Behandlung**
 
 **Ärztliche** **Mitbehandlung** **ist** **erforderlich**
 
 **Art der Maßnahme:**
 
-**Ausstellungsdatum**
+**nicht erforderlich**
 
-**Für** **diese** **Bescheinigung** **ist** **die** **Nr.** **01612** **EBM** **berechnungsfähig**
+**notwendig** **bzw.**
 
-**Ausfertigung für den Therapeuten**
+**derzeit** **Kontra-**
+
+**(Begründung** **s.** **o.)**
 
 **erfolgt**
 
 **veranlasst**
 
 **veranlasst** **und** **ggf.** **welche?**
+
+**Ausstellungsdatum**
+
+**Für** **diese** **Bescheinigung** **ist** **die** **Nr.** **01612** **EBM** **berechnungsfähig**
+
+**Ausfertigung für den Therapeuten**
 
 **Vertragsarztstempel / Unterschrift des Arztes**
 

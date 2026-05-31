@@ -28,12 +28,39 @@ SDKH (Kodierhilfe-Stammdatei) -Lewin-Platz 2 1.01 Datum: 30.07.2012 Kennzeichnun
 
 ---
 
-#### INHALTSVERZEICHNIS DOKUMENTENHISTORIE INHALTSVERZEICHNIS ABBILDUNGSVERZEICHNIS TABELLENVERZEICHNIS XML-CODE-VERZEICHNIS
+#### INHALTSVERZEICHNIS
+
+#### DOKUMENTENHISTORIE
+
+**2**
+
+#### INHALTSVERZEICHNIS
+
+**3**
+
+#### ABBILDUNGSVERZEICHNIS
+
+**4**
+
+#### TABELLENVERZEICHNIS
+
+**5**
+
+#### XML-CODE-VERZEICHNIS
+
+**6**
+
 **1** **EINLEITUNG**
+
+**7**
 
 **2** **DATEINAMEN**
 
+**7**
+
 **3** **SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE**
+
+**7**
 
 **3.1** **Kardinalität ..................................................................................................................................... 7**
 
@@ -42,6 +69,8 @@ SDKH (Kodierhilfe-Stammdatei) -Lewin-Platz 2 1.01 Datum: 30.07.2012 Kennzeichnun
 **3.3** **Sonstige Symbole ......................................................................................................................... 8**
 
 **4** **BESCHREIBUNG VON EHD**
+
+**9**
 
 **4.1** **Element header .............................................................................................................................. 9**
 
@@ -65,52 +94,26 @@ SDKH (Kodierhilfe-Stammdatei) -Lewin-Platz 2 1.01 Datum: 30.07.2012 Kennzeichnun
 
 **5** **REFERENZIERTE DOKUMENTE**
 
-* Version 1.01
-
-**2**
-
-**3**
-
-**4**
-
-**5**
-
-**6**
-
-**7**
-
-**7**
-
-**7**
-
-**9**
-
 **14**
+
+* Version 1.01
 
 
 ---
 
 #### ABBILDUNGSVERZEICHNIS
 
-Abbildung 1 Grundstruktur ehd ................................................................................................
+Abbildung 1 Grundstruktur ehd ................................................................................................ 9
 
-Abbildung 2 Element id ............................................................................................................
+Abbildung 2 Element id ............................................................................................................ 9
 
-Abbildung 3 Element document_type_cd ...............................................................................
+Abbildung 3 Element document_type_cd ............................................................................... 10
 
-Abbildung 4 Element provider ................................................................................................
+Abbildung 4 Element provider ................................................................................................ 10
 
-Abbildung 5 Element interface ...............................................................................................
+Abbildung 5 Element interface ............................................................................................... 11
 
-* Version 1.01 9
-
-9
-
-10
-
-10
-
-11
+* Version 1.01
 
 
 ---

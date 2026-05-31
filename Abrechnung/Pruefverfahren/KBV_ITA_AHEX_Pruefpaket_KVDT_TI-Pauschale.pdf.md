@@ -105,7 +105,7 @@ werden.
 
 # 3 PRÜFVORGABEN
 
-Werden in den Prüffällen keine Angaben zu den Feldkennungen (FK) der aktuell gültigen KVDT - Datensatzbeschreibung gemacht, so sind diese frei wählbar, z.B. die Leistungsangaben [Leistungstag, GNR  und Abrechn ungsdiagnose (ICD -Code)], die Satzarten und Scheinuntergruppen. Allerdings müssen die  Satzarten, Scheinuntergruppen und Abrechnungsgebiete bei allen Prüffällen identisch sein, damit pro  Testpatient nicht mehrere Datensätze in der Abrechnungsdatei angelegt werden. D.h. pro Testpatient ist ein
+Werden in den Prüffällen keine Angaben zu den Feldkennungen (FK) der aktuell gültigen KVDT- Datensatzbeschreibung gemacht, so sind diese frei wählbar, z.B. die Leistungsangaben [Leistungstag, GNR  und Abrechnungsdiagnose (ICD-Code)], die Satzarten und Scheinuntergruppen. Allerdings müssen die  Satzarten, Scheinuntergruppen und Abrechnungsgebiete bei allen Prüffällen identisch sein, damit pro  Testpatient nicht mehrere Datensätze in der Abrechnungsdatei angelegt werden. D.h. pro Testpatient ist ein
 
 Datensatz mit der gleichen Satzart, Scheinuntergruppe und dem gleichen Abrechnungsgebiet zu erzeugen.
 
@@ -123,9 +123,9 @@ Zur Realisierung der Prüffälle sind die regulären KBV-Stammdateien zu verwend
 
 Die Versichertendaten der Testpatienten enthalten alle für jeden Prüffall die nötigen Angaben zu den Daten
 
-des Versicherten und werden auch als XML -Dateien zur Verfügung gestellt. Die Archivdatei
+des Versicherten und werden auch als XML-Dateien zur Verfügung gestellt. Die Archivdatei
 
-(VSD_5.2.0_Testfaelle_Vn.n.zip) enthält fü r die Prüffälle die folgenden XML -Dateien mit
+(VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für die Prüffälle die folgenden XML-Dateien mit
 
 Versichertenstammdaten:
 
@@ -273,6 +273,8 @@ Testpraxis.de Testpraxis.de vorgenommen. Hierfür ist
 
 In der Kopfzeile der Tabelle wird auf die zu verwendende XML die konkreten Werte vorgegeben, die bei dem jeweiligen Prüffall verwendet werden müssen.  Versichertendaten sind in der XML-Datei bzw. in den Tabellen unter Kapitel 3.2.1 vorgegeben. Alle weiteren  Angaben sind frei wählbar.
 
+Datei referenziert. Unter „Vorgaben“ sind  Die
+
 |  |  |
 |---|---|
 | **Prüffall-ID (FK 3000)** | **Prüffall 1** |
@@ -287,9 +289,8 @@ In der Kopfzeile der Tabelle wird auf die zu verwendende XML die konkreten Werte
 | **Vorgaben** | ePA Stufe 1  eRezept  NFDM  eMP  KIM  eAU  eArztbrief  Kartenterminal - ja  SMC-B  eHBA |
 | **Einzureichende** | .XKM-Abrechnungsdatei mit Testschlüssel verschlüsselt |
 
-Datei referenziert. Unter „Vorgaben“ sind  Die
+Prüfunterlagen  nein (keine Unterstützung)  nein  nein  nein Prüfunterlagen
 
-Prüfunterlagen Prüfunterlagen  nein (keine Unterstützung)  nein  nein  nein
 
 ---
 

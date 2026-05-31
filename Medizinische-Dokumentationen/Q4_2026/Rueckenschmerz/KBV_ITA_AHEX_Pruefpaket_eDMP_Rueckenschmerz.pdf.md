@@ -1,15 +1,15 @@
 \|  |
 \|---|
 
+\|  |
+\|---|
+
 # PRUEFPAKET EDMP-CHRONISCHER  RUECKENSCHMERZ
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_EDMP_RUECKENSCHMERZ
 
 |  | **BUNDESVEREINIGUNG  DEZERNAT DIGITALISIERUNG UND IT  31. MÄRZ 2026   VERSION: 1.03   DOKUMENTENSTATUS: IN** |
 |---|---|
-
-\|  |
-\|---|
 
 KASSENÄRZTLICHE IT IN DER ARZTPRAXIS KRAFT
 
@@ -258,11 +258,7 @@ Die geforderten Videomitschnitte, Screenshots und die Teilnahmeerklärung (Prüf
 
 einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.
 
-- 1
-
-- 2 3
-
--  [PrüffallNr.] _[lfdNr.] .*
+- [PrüffallNr.]1_[lfdNr.]2 3
 
 - Teilnahmeerklärung (Prüffall 3540): TE_EWE_CR.pdf
 
@@ -384,11 +380,11 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | **Telefon** | 06151 / 1111111 |
 | **Telefax** | 06151 / 2222222 |
 
--
-
--
-
 erforderlichen Angaben  “ bereitgestellt. Die XML-
+
+-
+
+-
 
 
 ---
@@ -488,7 +484,7 @@ Anlage einer Erst- und einer Verlaufsdokumentation CR-Dokumentationsunterlagen B
 
 - **3.**
 
-den letzten 3 Monaten Ihre Freizeitaktivitäten Unternehmungen im Familien- und Freundeskreis beeinträchtigt, wenn 0 = keine Beeinträchtigung und  10 = keine Aktivitäten mehr möglich  bedeuten? den letzten 3 Monaten Ihre Arbeitsfähigkeit (einschließlich Hausarbeit) beeinträchtigt, wenn Beeinträchtigung und 10 = keine Aktivitäten mehr möglich bedeuten? Anlegen einer Erst- und einer Verlaufsdokumentation INDIKATIONSÜBERGREIFENDE  DATEN Administrative Daten DMP-Fallnummer Krankenhaus-IK Dokumentation in Vertretung erstellt Einschreibung wegen Geschlecht Allgemeine Anamnese- und Befunddaten Körpergröße Körpergewicht Blutdruck (systolisch / diastolisch) Raucher Begleiterkrankungen Behandlungsplanung Vom Patienten gewünschte Informationsangebote der Krankenkasse Dokumentationsintervall  oder 0 = keine Erstdokumentation 3511 06.04.2024  15.mm.jjjj chronischer Männlich 2,01 m 106 kg 145 / 90 mmHg Ja Arterielle Hypertonie Tabakverzicht, Ernährungsberatung,  Quartalsweise 06.04.2024  15.mm.jjjj Verlaufsdokumentation 3511 06.07.2024  15.mm.jjjj chronischer Männlich 2,01 m 96 kg Keine der genannten Jedes zweite Quartal 06.07.2024  15.mm.jjjj
+den letzten 3 Monaten Ihre Unternehmungen im Familien- und Freundeskreis beeinträchtigt, wenn 0 = keine Beeinträchtigung und  10 = keine Aktivitäten mehr möglich den letzten 3 Monaten Ihre (einschließlich Hausarbeit) beeinträchtigt, wenn Beeinträchtigung und 10 = keine Aktivitäten mehr möglich bedeuten? Anlegen einer Erst- und einer Verlaufsdokumentation INDIKATIONSÜBERGREIFENDE  DATEN Administrative Daten DMP-Fallnummer Krankenhaus-IK Dokumentation in Vertretung erstellt Einschreibung wegen Geschlecht Allgemeine Anamnese- und Befunddaten Körpergröße Körpergewicht Blutdruck (systolisch / diastolisch) Raucher Begleiterkrankungen Freizeitaktivitäten  bedeuten? Arbeitsfähigkeit Behandlungsplanung Vom Patienten gewünschte Informationsangebote der Krankenkasse Dokumentationsintervall  oder 0 = keine Erstdokumentation 3511 06.04.2024  15.mm.jjjj chronischer Männlich 2,01 m 106 kg 145 / 90 mmHg Ja Arterielle Hypertonie Tabakverzicht, Ernährungsberatung,  Quartalsweise 06.04.2024  15.mm.jjjj Verlaufsdokumentation 3511 06.07.2024  15.mm.jjjj chronischer Männlich 2,01 m 96 kg Keine der genannten Jedes zweite Quartal 06.07.2024  15.mm.jjjj
 
 | **INDIKATIONSÜBERGREIFENDE** | | |
 |---|---|---|
@@ -777,7 +773,7 @@ Die Personalien zu dem Testfall sind frei wählbar.
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum | 06.04.2024  15.mm.jjjj |  |
-| Einschreibung wegen | Rückenschmerz |  |
+| Einschreibung wegen | Chronischer |  |
 | Geschlecht | Je nach Auswahl des |  |
 | **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 1,80 m |  |
@@ -789,7 +785,7 @@ Die Personalien zu dem Testfall sind frei wählbar.
 | Vom Patienten gewünschte Informationsangebote der | Körperliches Training |  |
 | Dokumentationsintervall | Monatsweise | Nr. 2 |
 
-Kontrolle der softwareseitigen Erkennung von Fehleingaben Patient oder Patientin ist mindestens 18 Jahre alt Dokumentieren Sie durch Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert. Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben sind. Video(s) die Eingaben nach einer möglichen  DATEN Krankenkasse Chronischer
+Kontrolle der softwareseitigen Erkennung von Fehleingaben Patient oder Patientin ist mindestens 18 Jahre alt Dokumentieren Sie durch Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert. Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben sind. Video(s) die Eingaben nach einer möglichen  DATEN Krankenkasse Rückenschmerz
 
 ---
 
@@ -947,9 +943,7 @@ Dieses Szenario ist mit den Daten der Verlaufsdokumentation von Prüffall 3511  
 
 Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 
-- **2.** **Erstellen der Teilnahmeerklärung (Exemplar für die Datenstelle)** gemäß Kapitel 3 des
-
-- Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) mit den folgenden Daten:
+- **2.** **Erstellen der Teilnahmeerklärung (Exemplar für die Datenstelle)** Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP gemäß Kapitel 3 des  ) mit den folgenden Daten:
 
 |  |  |
 |---|---|
@@ -982,9 +976,9 @@ des Archivs mit „**Test**_107“ beginnen muss, sonst schlägt die Validierung
 
 Test_107_SystemID.zip
 
-Dokumentation           Dateiordner
+Dokumentation            Dateiordner
 
-……..391234511_20251031101010_1_CR_101.idx  IDX-Datei
+……..391234511_20251031101010_1_CR_101.idx   IDX-Datei
 
 ……..391234511_20251031101010_1_CR_101.zip.XKM XKM-Datei
 
@@ -1117,13 +1111,9 @@ teilgenommen Dokumentation) drei Monaten Aktivitäten (Ankleiden, Waschen, Essen
 
 ---
 
-# 4
+# 4 ANHANG
 
-## 4.1
-
-# ANHANG
-
-## PRÜFFALL 10 – ERSATZVERFAHREN
+## 4.1 PRÜFFALL 10 – ERSATZVERFAHREN
 
 | **PERSONALIEN** | | |
 |---|---|---|
@@ -1168,12 +1158,12 @@ teilgenommen Dokumentation) drei Monaten Aktivitäten (Ankleiden, Waschen, Essen
 | KBV_ITA_VGEX_Schnittstelle_eHeader | Dokumentation eHeader |
 | XPM-Paket_CR | Prüfmodul CR |
 | XPM-Paket_COPD | Prüfmodul COPD |
-| Austausch_von_XML-Daten_Vn.nn.ZIP 4 | Austausch von XML Daten in der Vertragsärztlichen |
+| Austausch_von_XML-Daten_Vn.nn.ZIP4 | Austausch von XML Daten in der Vertragsärztlichen |
 | KBV_ITA_RLEX_Zert | Zertifizierungsrichtlinie der KBV |
 | KBV_ITA_FMEX_AAZ_eDMP_CR | Antrag auf Zertifizierung CR |
 | Stammdateien | Im Rahmen der Prüfung sind die regulären KBV- |
 | KBV-Kryptomodul (XKM) und öffentlicher | KBV-Kryptomodul |
-| VSD_Testfaelle_DMP_Vn.n.zip 5 | eGK Daten (im XML-Format) |
+| VSD_Testfaelle_DMP_Vn.n.zip5 | eGK Daten (im XML-Format) |
 | KBV_ITA_VGEX_Schnittstelle_SDDA | Datensatzbeschreibung SDDA |
 | KBV_ITA_VGEX_Schnittstelle_SDKT | Datensatzbeschreibung SDKT |
 

@@ -13,11 +13,7 @@ Version 1.0
 
 Das Ziel der Therapie der Adipositas bei Kindern und Jugendlichen ist insbesondere eine langfristige Senkung
 
-des relativen Körpergewichts mit anschließender Stabilisierung oder d ie Vermeidung einer weiteren  Gewichtszunahme. Damit soll langfristig das Risiko für das Fortbestehen der Adipositas bis in das
-
-Erwachsenenalter vermindert werden. Ebenfalls soll eine Verbesserung der Lebensqualität sowie die
-
-Verringerung der Adipositas-bedingten Begleiterkrankungen sowie dessen Folgeschäden erreicht werden. Die
+des relativen Körpergewichts mit anschließender Stabilisierung oder die Vermeidung einer weiteren  Gewichtszunahme. Damit soll langfristig das Risiko für das Fortbestehen der Adipositas bis in das  Erwachsenenalter vermindert werden. Ebenfalls soll eine Verbesserung der Lebensqualität sowie die  Verringerung der Adipositas-bedingten Begleiterkrankungen sowie dessen Folgeschäden erreicht werden. Die
 
 Erreichung der Therapieziele sollen vorrangig durch eine langfristige Änderung des Lebensstils hinsichtlich des
 
@@ -29,7 +25,7 @@ des Körperfetts ab einem Body-Mass-Index (BMI) über dem 97. alters- und geschl
 
 Die Veränderung des relativen Körpergewichts wird in diesem DMP mittels des BMI Standard Deviation Score,
 
-kurz BMI -SDS, erfasst. Der BMI -SDS dient der Einordung des BMI -Wertes in Bezug auf das Alter und  Geschlecht des Kindes / Jugendlichen.
+kurz BMI-SDS, erfasst. Der BMI-SDS dient der Einordung des BMI-Wertes in Bezug auf das Alter und  Geschlecht des Kindes / Jugendlichen.
 
 ## Therapeutische Maßnahmen
 
@@ -43,13 +39,13 @@ Mit der kontinuierlichen und standardisierten Erhebung des BMI-SDS können Sie d
 
 verfolgen. So wird Ihnen bei jeder Folgedokumentation angezeigt, wie das aktuelle Gewicht einzuordnen ist  und ob eine relevante Veränderung zur vorhergehenden Dokumentation und zur Erstdokumentation vorliegt.  Dafür wird die Differenz zwischen dem aktuellen BMI-SDS und dem BMI-SDS der letzten Dokumentation  automatisch berechnet und die Interpretation der Veränderung in kurzer Textform angezeigt. Gleiches wird für  die Veränderung seit der Erstdokumentation berechnet. Hierdurch können Sie direkt sehen, ob und wie stark  sich das Gewicht bei Ihrer Patientin bzw. Ihrem Patienten im Vergleich zur letzten Dokumentation und im  Vergleich zur Erstdokumentation verändert hat.
 
-Mit der automatischen Befüllung des BMI -SDS bei der aktuellen Dokumentation werden Ihnen folgende  Informationen angezeigt:
+Mit der automatischen Befüllung des BMI-SDS bei der aktuellen Dokumentation werden Ihnen folgende  Informationen angezeigt:
 
-- 1. Die Einordnung des aktuellen BMI -SDS in die Kategorie n Untergewicht Normalgewicht
+- 1. Die Einordnung des aktuellen BMI-SDS in die Kategorien Untergewicht Normalgewicht
 
 - Übergewicht Adipositas“ oder Extreme Adipositas“ (vgl. Tabelle 1).
 
-- 2. Die Differenz zwischen dem aktuellen BMI -SDS und dem BMI -SDS in der letzten vorhandenen  Dokumentation sowie die Einordnung der Veränderung in die Kategorien Gewichtszunahme
+- 2. Die Differenz zwischen dem aktuellen BMI-SDS und dem BMI-SDS in der letzten vorhandenen  Dokumentation sowie die Einordnung der Veränderung in die Kategorien Gewichtszunahme
 
 - Gewichtsstabilisierung oder Klinisch relevante Gewichtsabnahme, guter Erfolg
 
@@ -59,7 +55,7 @@ Mit der automatischen Befüllung des BMI -SDS bei der aktuellen Dokumentation we
 
 - Klinisch relevante Gewichtsabnahme, guter bzw. sehr guter Erfolg“
 
-Ein guter Erfolg bedeutet, dass der BMI -SDS um mindesten 0,2 0 reduziert wurde, ein sehr guter Erfolg  (ausschließlich beim Vergleich zur Erstdokumentation relevant) bedeutet, dass der BMI -SDS um mind. 0,5 0  reduziert wurde (vgl. Tab. 2).
+Ein guter Erfolg bedeutet, dass der BMI-SDS um mindesten 0,20 reduziert wurde, ein sehr guter Erfolg  (ausschließlich beim Vergleich zur Erstdokumentation relevant) bedeutet, dass der BMI -SDS um mind. 0,5 0  reduziert wurde (vgl. Tab. 2).
 
 *Beispiel für die Ergebnisanzeige* Liegt der BMI-SDS in der aktuellen Dokumentation bei 1,80, in der letzten
 
@@ -68,9 +64,9 @@ Dokumentation bei 1,90 und bei der Erstdokumentation bei 2,00, wird Ihnen automa
 
 ---
 
-***„Aktueller BMI -SDS: 1,80***
+***„Aktueller BMI-SDS:***
 
-***(Gewichtsstabilisierung); -0,20 seit Einschreibung ( Klinisch r elevante Gewichtsabnahme, guter***  ***Erfolg)***
+***(Gewichtsstabilisierung); -0,20 seit Einschreibung (Klinisch relevante Gewichtsabnahme, guter***  ***Erfolg)***
 
 Tabelle 1: Kategoriale Einordnung des BMI-SDS
 
@@ -82,7 +78,7 @@ Tabelle 1: Kategoriale Einordnung des BMI-SDS
 | > 1,88 bis 2,58 | Adipositas |
 | > 2,58 | Extreme Adipositas |
 
-***(Übergewicht);***
+***1,80 (Übergewicht); -0,10 zur letzten verfügbaren Dokumentation***
 
 Tabelle 2: Klinische Einordnung der Veränderung des individuellen BMI
 
@@ -93,7 +89,7 @@ Tabelle 2: Klinische Einordnung der Veränderung des individuellen BMI
 | -0,20 bis >-0,50 | Klinisch relevante Gewichtsabnahme, guter Erfolg |
 | <= -0,50 | Klinisch relevante Gewichtsabnahme, sehr guter Erfolg |
 
-Sollte keine Erstdokumentation in Ihrem Praxisverwaltungssystem vorliegen (z.
+Sollte keine Erstdokumentation in
 
 Arztwechsels) wird für die Verlaufsdarstellung die älteste vorliegende Folgedokumentation herangezogen ersatzweise für die Differenzbildung zugrunde gelegt
 
@@ -103,29 +99,21 @@ Eine Angabe zu diesem Feld ist nur im Rahmen einer  **Genau eine Angabe** ist er
 
 Bei einer Folgedokumentation ist hier keine Angabe möglich.
 
-Gemeinsam mit Ihrer Patientin oder Ihrem Patienten sollen Sie  Situation Ziele zu regelmäßiger Bewegung im Alltag vereinbaren. Dies umfasst vorrangig die Steigerung der  körperlichen Aktivität im Alltag bei einer gleichzeitigen Verringerung von körperlich passiver beziehungsweise  sitzender Beschäftigung, beispielsweise am Computer und bei TV wenn möglich ein regelmäßiges körperliches Training.
+Gemeinsam mit Ihrer Patientin oder Ihrem Patienten sollen Sie unter Berücksichtigung der individuelle Situation Ziele zu regelmäßiger Bewegung im Alltag vereinbaren. Dies umfasst vorrangig die Steigerung der  körperlichen Aktivität im Alltag bei einer gleichzeitigen Verringerung von körperlich passiver beziehungsweise  sitzender Beschäftigung, beispielsweise am Computer und bei TV wenn möglich ein regelmäßiges körperliches Training.
 
 Die Steigerung der körperlichen Aktivität sollte an den Grad der Adipositas angepasst werden. In einem  Gruppensetting ist die Durchführung mit einer Stärkung der gegenseitigen Motivation verbunden. Die
 
-1 Entspricht Tabelle 6 der Tragenden Gründe zum Beschluss vom 22.11.2024
+1 Entspricht Tabelle 6 der Tragenden Gründe zum Beschluss vom 22.11.2024 -SDS1
 
-***-0,10 zur letzten verfügbaren***
-
-1
-
--SDS
+Ihrem Praxisverwaltungssystem vorliegen
 
 **Erstdokumentation** möglich und hier verpflichtend.
 
-unter Berücksichtigung der individuelle - beziehungsweise Medienkonsum
-
-***Dokumentation***
-
-B. aufgrund eines  und
+(z. B. aufgrund eines  und
 
 n
 
-aber auch
+- beziehungsweise Medienkonsum aber auch
 
 
 ---
@@ -144,11 +132,7 @@ Sollten Sie mit Ihrer Patientin oder Ihrem Patienten keine Ziele zur regelmäßi
 
 #### Ziele zur regelmäßigen Bewegung im Alltag seit der letzten Dokumentation
 
-Eine Angabe zu diesem Feld zur regelmäßigen Bewegung im Alltag bezieht sich hier ausschließlich
-
-rückblickend auf d en Zeitraum seit der letzten Dokumentation und ist daher nur im Rahmen einer
-
-**Folgedokumentation** möglich und hier verpflichtend.
+Eine Angabe zu diesem Feld zur regelmäßigen Bewegung im Alltag bezieht sich hier ausschließlich  rückblickend auf den Zeitraum seit der letzten Dokumentation und ist daher nur im Rahmen einer  **Folgedokumentation** möglich und hier verpflichtend.
 
 **Genau eine Angabe** ist erforderlich und zulässig.
 
@@ -158,7 +142,7 @@ Gemeinsam mit Ihrer Patientin oder Ihrem Patienten sollen Sie unter Berücksicht
 
 die Steigerung der körperlichen Aktivität im Alltag bei einer gleichzeitigen Verringerung von körperlich passiver
 
-beziehungsweise sitzender Beschäftigung, beispielsweise am Computer und bei TV - beziehungsweise  Medienkonsum aber auch wenn möglich ein regelmäßiges körperliches Training.
+beziehungsweise sitzender Beschäftigung, beispielsweise am Computer und bei TV- beziehungsweise  Medienkonsum aber auch wenn möglich ein regelmäßiges körperliches Training.
 
 Die Steigerung der körperlichen Aktivität sollte an den Grad der Adipositas angepasst werden. In einem  Gruppensetting ist die Durchführung mit einer Stärkung der gegenseitigen Motivation verbunden. Die  Unterstützung durch das soziale Umfeld wie Eltern oder andere Betreuungspersonen, Mitschülerinnen und  Mitschüler und Lehrerinnen und Lehrer zum Beispiel durch positives Feedback kann zu langanhaltenden  positiven Effekten der bewegungsbezogenen Maßnahmen beitragen. Generell wird ein Umfang von 90 Minuten
 
@@ -168,9 +152,7 @@ Einbezug attraktiver motivierender Bewegungs-, Spiel- und Übungsformen beinhalt
 
 Sollten Sie mit Ihrer Patientin oder Ihrem Patienten in einer der vorhergehenden Dokumentation Ziele zur  regelmäßigen Bewegung im Alltag vereinbart haben und diese im Rahmen dieser Dokumentation überprüfen  oder diese neu mit Ihrer Patientin oder Ihrem Patienten vereinbaren, geben Sie bitte „Ziele vereinbart oder  überprüft“ an.
 
-Sollten Sie mit Ihrer Patientin oder Ihrem Patienten bei der aktuellen Dokumentation keine Ziele zur
-
-regelmäßigen Bewegung im Alltag vereinbaren oder die bisher vereinbarten Ziele nicht überprüfen, geben Sie
+Sollten Sie mit Ihrer Patientin oder Ihrem Patienten bei der aktuellen Dokumentation keine Ziele zur  regelmäßigen Bewegung im Alltag vereinbaren oder die bisher vereinbarten Ziele nicht überprüfen, geben Sie
 
 bitte die Antwort „Keine Ziele vereinbart oder überprüft“ an.
 
@@ -203,13 +185,11 @@ ballaststoffreichen Kohlenhydraten und eine Reduktion der Aufnahme an fett und z
 
 werden empfohlen. Insbesondere sollte die Getränkeauswahl zugunsten von Wasser geändert werden. Starre  Diätpläne oder Kostformen mit extremen Nährstoffrelationen gehen mit medizinischen Risiken und fehlendem  Langzeiterfolg einher und sollten daher nicht angewandt werden.
 
-Bitte geben Sie „Ziel e vereinbart“ an, wenn Sie mit Ihrer Patientin oder Ihrem Patienten Ziel e zur
+Bitte geben Sie „Ziele vereinbart“ an, wenn Sie mit Ihrer Patientin oder Ihrem Patienten Ziele zur
 
 Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung vereinbaren.
 
-Sollten Sie mit Ihrer Patientin oder Ihrem Patienten kein e Ziele zur Ernährungsumstellung oder zur
-
-Aufrechterhaltung der Ernährungsänderung vereinbaren, geben Sie bitte die Antwort „Keine Ziele vereinbart“
+Sollten Sie mit Ihrer Patientin oder Ihrem Patienten keine Ziele zur Ernährungsumstellung oder zur  Aufrechterhaltung der Ernährungsänderung vereinbaren, geben Sie bitte die Antwort „Keine Ziele vereinbart“
 
 an.
 
@@ -229,15 +209,11 @@ Bei den Zielen kann es sich z. B. um eine Steigerung der Aufnahme von Gemüse, O
 
 Kohlenhydraten und/oder eine Reduktion der Aufnahme an fett - und zuckerhaltigen Lebensmitteln oder auch  um eine Änderung der Getränkeauswahl zugunsten von Wasser handeln. Starre Diätpläne oder Kostformen  mit extremen Nährstoffrelationen gehen mit medizinischen Risiken und fehlendem Langzeiterfolg einher und  sollten daher nicht angewandt werden.
 
-Sollten Sie mit Ihrer Patientin oder Ihrem Patienten in einer der vorhergehenden Dokumentation Ziele zur  Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung vereinbart haben und diese im
-
-Rahmen dieser Dokumentation überprüfen oder diese neu mit Ihrer Patientin oder Ihrem Patienten vereinbaren,
+Sollten Sie mit Ihrer Patientin oder Ihrem Patienten in einer der vorhergehenden Dokumentation Ziele zur  Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung vereinbart haben und diese im  Rahmen dieser Dokumentation überprüfen oder diese neu mit Ihrer Patientin oder Ihrem Patienten vereinbaren,
 
 geben Sie bitte „Ziele vereinbart oder überprüft“ an.
 
-Sollten Sie mit Ihrer Patientin oder Ihrem Patienten kein e Ziele zur Ernährungsumstellung oder zur
-
-Aufrechterhaltung der Ernährungsänderung vereinbaren oder die bisher vereinbarten Ziele nicht überprüfen,  geben Sie bitte die Antwort „Keine Ziele vereinbart oder überprüft“ an.
+Sollten Sie mit Ihrer Patientin oder Ihrem Patienten keine Ziele zur Ernährungsumstellung oder zur  Aufrechterhaltung der Ernährungsänderung vereinbaren oder die bisher vereinbarten Ziele nicht überprüfen,  geben Sie bitte die Antwort „Keine Ziele vereinbart oder überprüft“ an.
 
 
 ---
@@ -246,7 +222,7 @@ Aufrechterhaltung der Ernährungsänderung vereinbaren oder die bisher vereinbar
 
 **Genau eine Angabe** ist erforderlich und zulässig.
 
-Bitte geben Sie „Ja“ an, wenn Ihre Patientin oder Ihr Patient das Ernährungsverhalten individuellen Zielsetzung und Möglichkeiten geändert hat. Erfolgt die
+Bitte geben Sie „Ja“ an, wenn Ihre Patientin oder Ihr Patient das Ernährungsverhalten individuellen Zielsetzung und Möglichkeiten geändert hat. Erfolgt
 
 Erstdokumentation bezieht sie sich auf den Zeitraum vor der Einschreibung in das DMP, erfolgt die Angabe im  Rahmen einer Folgedokumentation bezieht sich Angabe rückblickend auf den Zeitraum bis zur letzten  Dokumentation.
 
@@ -254,7 +230,7 @@ Sollte Ihre Patientin oder Ihr Patient das Ernährungsverhalten nicht adäquat g
 
 adäquat im Sinne der
 
-Angabe im Rahmen einer
+die Angabe im Rahmen einer
 
 ## Schulung
 
@@ -271,7 +247,7 @@ Eine Angabe in diesem Feld ist nur im Rahmen der **Erstdokumentation** möglich 
 
 Bitte geben Sie an, ob Ihre Patientin oder Ihr Patient bereits vor Einschreibung in das DMP an einer  multimodalen Adipositas-Schulung für Kinder und Jugendliche teilgenommen hat.
 
-Bitte geben Sie „Ja“ an, wenn Ihre Patientin oder Ihre Patienten bereits an einer multimodalen Adipositas -
+Bitte geben Sie „Ja“ an, wenn Ihre Patientin oder Ihre Patienten bereits an einer multimodalen Adipositas-
 
 Schulung für Kinder und Jugendliche teilgenommen hat.
 
@@ -297,7 +273,7 @@ Die Angaben zur Schulung beziehen sich hier **ausschließlich rückblickend** au
 
 Patientin oder Ihrem Patienten **bei dem letzten Dokumentationstermin** empfohlen haben, und sind daher
 
-nur im Rahmen einer **Folgedokumentation** möglich u nd hier verpflichtend. Im Rahmen der
+nur im Rahmen einer **Folgedokumentation** möglich und hier verpflichtend. Im Rahmen der
 
 Folgedokumentation ist **genau eine Angabe erforderlich**
 
@@ -308,7 +284,7 @@ Bei der Erstdokumentation ist hier keine Angabe möglich.
 
 Hat Ihre Patientin oder Ihr Patient im Dokumentationszeitraum an einer Schulung teilgenommen, geben Sie  bitte **„Ja“** an. War die Teilnahme an einer Adipositas-Schulung für Kinder und Jugendliche innerhalb des
 
-Dokumentationszeitraums aus **nachvollziehbaren Gründen nicht möglich** , geben Sie hier bitte **„War**
+Dokumentationszeitraums aus **nachvollziehbaren Gründen nicht möglich**, geben Sie hier bitte **„War**
 
 **aktuell nicht möglich“** an. Diese Antwort ist anzugeben, wenn z. B. organisatorische oder andere
 
@@ -348,7 +324,7 @@ Patienten zu der Auffassung kommen, dass ihre oder seine weitere Teilnahme am DM
 
 und Jugendliche nicht mehr zielführend ist, können Sie das über dieses Feld dokumentieren .
 
-**Wenn Sie hier die Antwort „Ja“ angeben, erfolgt eine Beendigung der DMP -Teilnahme**
+**Wenn Sie hier die Antwort „Ja“ angeben, erfolgt eine Beendigung der DMP-Teilnahme**
 
 **(Ausschreibung!) durch die Krankenkasse mit dem Erstelldatum dieser Dokumentation.** **Bitte beachten**
 

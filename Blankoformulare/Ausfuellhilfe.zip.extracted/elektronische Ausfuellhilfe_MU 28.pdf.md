@@ -33,12 +33,14 @@ Hier geben Sie bitte Name und Adresse des Soziotherapeuten an.
 
 Themenseite Soziotherapie: [http://www.kbv.de/html/soziotherapie.php](http://www.kbv.de/html/soziotherapie.php)
 
-Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung www.kbv.de/media/sp/02_Erlaeuterungen.pdf -
+Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung www.kbv.de/media/sp/02_Erlaeuterungen.pdf
+
+r-
+
+-
 
 -
 
 (PDF, 550 KB):
-
-r-
 
 2

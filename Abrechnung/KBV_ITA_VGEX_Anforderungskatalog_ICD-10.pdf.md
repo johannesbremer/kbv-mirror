@@ -1,19 +1,15 @@
 \|  |
 \|---|
 
-# ANFORDERUNGSKATALOG ZUR  ANWENDUNG DER ICD
+\|  |
+\|---|
 
-## [KBV_ITA_VGEX_ANFORDERUNGSKATALOG_ICD
+# ANFORDERUNGSKATALOG ZUR  ANWENDUNG DER ICD -10-GM
+
+## [KBV_ITA_VGEX_ANFORDERUNGSKATALOG_ICD-10]
 
 |  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 15. AUGUST 2025   VERSION: 3.10   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
-
-**-10-GM**
-
--10]
-
-\|  |
-\|---|
 
 BUNDESVEREINIGUNG    IT IN DER ARZTPRAXIS
 
@@ -126,29 +122,37 @@ Bausteinen („Kürzel“) -10-GM
 
 ---
 
-5.1 Integration der Kodierhilfe-Stammdatei (SDKH)  5.1.1 Verbindlichkeit und Gültigkeit der Kodierhilfe
+5.1 Integration der Kodierhilfe-Stammdatei (SDKH) 57
 
-5.2 Funktionale Anforderungen / Anwendung der Kodierhilfe 5.2.1 Patientenunabhängige und patientenbezogene Recherche 5.2.2 Suchverfahren
+5.1.1 Verbindlichkeit und Gültigkeit der Kodierhilfe-Stammdatei (SDKH) 57
+
+5.2 Funktionale Anforderungen / Anwendung der Kodierhilfe-Stammdatei 59
+
+5.2.1 Patientenunabhängige und patientenbezogene Recherche 59
+
+5.2.2 Suchverfahren
+
+59
 
 5.2.3 Einschränkung des Suchergebnisses mittels „Filter“
 
-5.2.4 Anzeige der Kodierhinweise
+61
+
+5.2.4 Anzeige der Kodierhinweise 62
 
 **6** **EINSATZ DER VERSCHLÜSSELUNGSANLEITUNG-STAMMDATEI DER KBV**
 
-**7** **ABLAUFDIAGRAMME**
-
-**8** **HINWEISE ZUM UMGANG MIT DEN DIAGNOSEKATEGORIEN**
-
-**9** **REFERENZIERTE DOKUMENTE**
-
--Stammdatei (SDKH)  -Stammdatei 57  57  59  59  59  61  62
-
 **64**
+
+**7** **ABLAUFDIAGRAMME**
 
 **69**
 
+**8** **HINWEISE ZUM UMGANG MIT DEN DIAGNOSEKATEGORIEN**
+
 **72**
+
+**9** **REFERENZIERTE DOKUMENTE**
 
 **74**
 
@@ -1325,16 +1329,16 @@ wird immer gegen die Daten geprüft, welche im Rahmen der Abrechnung übertragen
 
 | **/diagnose/** | **/diagnose/** | **FK  (KVDT)** | **Von dem Softwaresystem zu erzeugender** |
 |---|---|---|---|
-| m | K | W | *überwiegend nur für männliche Patienten.“* |
+| m | K | W | *„Bitte Kodierung überprüfen: Kode gilt* |
 | m | M | W | *„Bitte Kodierung überprüfen: Kode gilt nur für* |
-| w | K | M | *überwiegend nur für weibliche Patienten.“* |
-| w | M | M | *weibliche Patienten.“* |
+| w | K | M | *„Bitte Kodierung überprüfen: Kode gilt* |
+| w | M | M | *„Bitte Kodierung überprüfen: Kode gilt nur für* |
 
 - 3. Bei einem Muss-Fehler (XML-Element */diagnose/geschlechtsbezug_fehlerart/@V=“m“*) ist Folgendes
 
-- zu beachten: Im Fehlerfall soll die Eingabe des ICD-10-Kodes dennoch unter der Voraussetzung - 1
+- zu beachten: Im Fehlerfall soll die Eingabe des ICD-10-Kodes dennoch unter der Voraussetzung
 
-- ermöglicht werden, dass ein Diagnosenausnahmetatbestand (FK 6008 bzw. FK 3677) angegeben wird.
+- ermöglicht werden, dass ein Diagnosenausnahmetatbestand1 (FK 6008 bzw. FK 3677) angegeben wird.
 
 **Hinweis:**
 
@@ -1342,7 +1346,7 @@ Die Software kann die Angabe eines Diagnosenausnahmetatbestands auch bei einem K
 
 ermöglichen.
 
-geschlechtsbezug/ geschlechtsbezug_fehlerart/ 3110 Hinweis @V=““ @V=““1 z. B. bei Zustand nach Geschlechtsumwandlung
+geschlechtsbezug/ geschlechtsbezug_fehlerart/ 3110 Hinweis @V=““ @V=““ überwiegend nur für männliche Patienten.“ männliche Patienten.“ überwiegend nur für weibliche Patienten.“ weibliche Patienten.“1 z. B. bei Zustand nach Geschlechtsumwandlung
 
 
 ---
@@ -1373,11 +1377,11 @@ Durch die Überprüfung des Altersgruppenbezugs können nicht plausible Werte au
 
 | **Fehlerart:** | **Von dem Softwaresystem zu erzeugender Hinweis** |
 |---|---|
-| */diagnos* | *nur für Patienten in der Altersgruppe zwischen* |
+| */diagnos* | *„Bitte Kodierung* |
 | */diagnose/altersbezug_fehlerart/@V=“m“* | *„Bitte Kodierung überprüfen: Kode gilt nur für* |
 | */diagnose/altersbezug_fehlerart/@V=“k“ und* | *„Bitte Kodierung überprüfen: Kode gilt überwiegend* |
 | */diagnose/altersbezug_fehlerart/@V=“m“ und* | *„Bitte Kodierung überprüfen: Kode gilt nur fü* |
-| */diagnose/untere_altersgrenze/@V=“0“@U=“Tag“* | *höchstalter].“* |
+| */diagnose/untere_altersgrenze/@V=“0“@U=“Tag“* | *„Bitte Kodierung überprüfen: Kode gilt überwiegend* |
 
 - 4. Die Übertragung der ICD-10-GM-Kodes in die Abrechnungsdatei muss unabhängig von der Fehlerart  ermöglicht werden.
 
@@ -1392,7 +1396,7 @@ Durch die Überprüfung des Altersgruppenbezugs können nicht plausible Werte au
 
 -  */diagnose/obere_altersgrenze/@V)*
 
-(Diagnosensicherheit (FK 6003 bzw. 3674) = Z und/oder /diagnose/obere_altersgrenze/@V=“124 @U=“Jahr“): (Diagnosensicherheit (FK 6003 bzw. 3674) = Z und/oder /diagnose/obere_altersgrenze/@V=“124 @U=“Jahr“): und obere_altersgrenze/@V=“0“ @U=“Tag“ [mindestalter] und [höchstalter].“ mindestalter] und [höchstalter].“ nur für Patienten ab einem Alter von [mindestalter].“ Patienten ab einem Alter von [mindestalter].“ nur für Patienten im Alter von [mindestalter = -
+(Diagnosensicherheit (FK 6003 bzw. 3674) = Z und/oder /diagnose/obere_altersgrenze/@V=“124 @U=“Jahr“): (Diagnosensicherheit (FK 6003 bzw. 3674) = Z und/oder /diagnose/obere_altersgrenze/@V=“124 @U=“Jahr“): und obere_altersgrenze/@V=“0“ @U=“Tag“ nur für Patienten in der Altersgruppe zwischen [mindestalter] und [höchstalter].“ Patienten in der Altersgruppe zwischen mindestalter] und [höchstalter].“ nur für Patienten ab einem Alter von [mindestalter].“ Patienten ab einem Alter von [mindestalter].“ nur für Patienten im Alter von [mindestalter = höchstalter].“-
 
 
 ---
@@ -3287,11 +3291,7 @@ bzw. die sachgerechte Kodierung zu überprüfen. Kriterien und Hinweise bilden S
 
 vorliegen müssen oder können, damit der zutreffende ICD-10-GM-Kode sachgerecht ermittelt, kontrolliert  und verwendet werden kann.
 
-2
-
-3
-
-Die Software sollte den Vertragsarzt sowohl im Rahmen des „Backward als auch im „Forward Coding“
+Die Software sollte den Vertragsarzt sowohl im Rahmen des „Backward 2 als auch im „Forward Coding“ 3
 
 unterstützen. Ziel und Zweck ist die Verbesserung der Kodierqualität in der Vertragsarztpraxis.
 

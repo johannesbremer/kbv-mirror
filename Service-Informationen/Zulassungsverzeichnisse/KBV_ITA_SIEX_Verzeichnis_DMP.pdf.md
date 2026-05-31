@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**23. MAI 2026**
+**30. MAI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -35,63 +35,35 @@
 
 Saturnstrasse 14 85609 Aschheim Internet: www.asthenis.de
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 23. Mai 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 30. Mai 2026
 
 **Prüfnummer(n)**
 
-**Prüfnummer(n)**
+Y/106/2411/24/062 Y/103/2407/36/062 Y/107/2404/36/062 Y/108/2404/36/062 Y/100/2401/36/062 Y/101/2401/36/062 Y/102/2401/36/062 Y/104/2401/36/062 Y/105/2401/36/062 Y/109/2304/39/062
+
+Y/100/2307/36/031 Y/102/2307/36/031 Y/103/2307/36/031 Y/104/2307/36/031 Y/105/2307/36/031
+
+Y/106/2410/24/081 Y/103/2407/36/081 Y/109/2404/36/081 Y/100/2401/36/081 Y/101/2401/36/081 Y/102/2401/36/081 Y/104/2401/36/081 Y/105/2401/36/081
+
+X/101/2401/36/934
+
+**Prüfnummer(n)** **gültig bis**
+
+31.10.2026 30.06.2027 31.03.2027 31.03.2027 31.12.2026 31.12.2026 31.12.2026 31.12.2026 31.12.2026 30.06.2026
+
+30.06.2026 30.06.2026 30.06.2026 30.06.2026 30.06.2026
+
+30.09.2026 30.06.2027 31.03.2027 31.12.2026 31.12.2026 31.12.2026 31.12.2026 31.12.2026 31.12.2026
 
 **zertifizierte Komponente(n)**
 
-**gültig bis**
+eDMP Herzinsuffizienz eDMP Asthma bronchiale eDMP Rückenschmerz eDMP Depression eDMP Diabetes melitus Typ 2 DMP Brustkrebs eDMP Koronare Herzkrankheit eDMP Diabetes melitus Typ 1 eDMP COPD eDMP Osteoporose
 
-Y/106/2411/24/062 31.10.2026 eDMP Herzinsuffizienz
+eDMP Diabetes melitus Typ 2 eDMP Koronare Herzkrankheit eDMP Asthma bronchiale eDMP Diabetes melitus Typ 1 eDMP COPD
 
-Y/103/2407/36/062 30.06.2027 eDMP Asthma bronchiale
+eDMP Herzinsuffizienz eDMP Asthma bronchiale eDMP Osteoporose eDMP Diabetes melitus Typ 2 DMP Brustkrebs eDMP Koronare Herzkrankheit eDMP Diabetes melitus Typ 1 eDMP COPD
 
-Y/107/2404/36/062 31.03.2027 eDMP Rückenschmerz
-
-Y/108/2404/36/062 31.03.2027 eDMP Depression
-
-Y/100/2401/36/062 31.12.2026 eDMP Diabetes melitus Typ 2
-
-Y/101/2401/36/062 31.12.2026 DMP Brustkrebs
-
-Y/102/2401/36/062 31.12.2026 eDMP Koronare Herzkrankheit
-
-Y/104/2401/36/062 31.12.2026 eDMP Diabetes melitus Typ 1
-
-Y/105/2401/36/062 31.12.2026 eDMP COPD
-
-Y/109/2304/39/062 30.06.2026 eDMP Osteoporose
-
-Y/100/2307/36/031 30.06.2026 eDMP Diabetes melitus Typ 2
-
-Y/102/2307/36/031 30.06.2026 eDMP Koronare Herzkrankheit
-
-Y/103/2307/36/031 30.06.2026 eDMP Asthma bronchiale
-
-Y/104/2307/36/031 30.06.2026 eDMP Diabetes melitus Typ 1
-
-Y/105/2307/36/031 30.06.2026 eDMP COPD
-
-Y/106/2410/24/081 30.09.2026 eDMP Herzinsuffizienz
-
-Y/103/2407/36/081 30.06.2027 eDMP Asthma bronchiale
-
-Y/109/2404/36/081 31.03.2027 eDMP Osteoporose
-
-Y/100/2401/36/081 31.12.2026 eDMP Diabetes melitus Typ 2
-
-Y/101/2401/36/081 31.12.2026 DMP Brustkrebs
-
-Y/102/2401/36/081 31.12.2026 eDMP Koronare Herzkrankheit
-
-Y/104/2401/36/081 31.12.2026 eDMP Diabetes melitus Typ 1
-
-Y/105/2401/36/081 31.12.2026 eDMP COPD
-
-X/101/2401/36/934 31.12.2026 DMP Brustkrebs
+DMP Brustkrebs
 
 **unterstützte** **Betriebssysteme**
 
@@ -120,7 +92,7 @@ Windows
 
 **CompuGroup Medical Deutschland AG** Maria Trost 23 56070 Koblenz Internet: www.turbomed.de
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 23. Mai 2026
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 30. Mai 2026
 
 **Prüfnummer(n)**
 
@@ -173,7 +145,7 @@ Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK
 
 **Data-AL GmbH** Edisonallee 25 89231 Neu-Ulm Internet: www.data-al.de
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 23. Mai 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 30. Mai 2026
 
 **Prüfnummer(n)**
 
@@ -231,57 +203,29 @@ Windows
 
 **Duria eG** Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 23. Mai 2026
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 30. Mai 2026
 
-X/101/2401/36/386 31.12.2026 DMP Brustkrebs
+X/101/2401/36/386
 
-Y/109/2603/37/488 31.03.2029 eDMP Osteoporose
+Y/109/2603/37/488 Y/100/2501/36/488 Y/102/2501/36/488 Y/103/2501/36/488 Y/104/2501/36/488 Y/105/2501/36/488 Y/101/2307/36/488
 
-Y/100/2501/36/488 31.12.2027 eDMP Diabetes melitus Typ 2
+Y/100/2601/24/602 Y/102/2601/24/602 Y/103/2601/24/602 Y/104/2601/24/602 Y/105/2601/24/602 Y/106/2410/24/602
 
-Y/102/2501/36/488 31.12.2027 eDMP Koronare Herzkrankheit
+Y/107/2507/36/086 Y/108/2507/36/086 Y/109/2507/36/086 Y/110/2507/36/086 Y/106/2501/24/086 Y/103/2407/36/086 Y/100/2401/36/086 Y/101/2401/36/086 Y/102/2401/36/086 Y/104/2401/36/086 Y/105/2401/36/086 31.12.2026
 
-Y/103/2501/36/488 31.12.2027 eDMP Asthma bronchiale
+31.03.2029 31.12.2027 31.12.2027 31.12.2027 31.12.2027 31.12.2027 30.06.2026
 
-Y/104/2501/36/488 31.12.2027 eDMP Diabetes melitus Typ 1
+31.12.2027 31.12.2027 31.12.2027 31.12.2027 31.12.2027 30.09.2026
 
-Y/105/2501/36/488 31.12.2027 eDMP COPD
+30.06.2028 30.06.2028 30.06.2028 30.06.2028 31.12.2026 30.06.2027 31.12.2026 31.12.2026 31.12.2026 31.12.2026 31.12.2026
 
-Y/101/2307/36/488 30.06.2026 DMP Brustkrebs
+DMP Brustkrebs
 
-Y/100/2601/24/602 31.12.2027 eDMP Diabetes melitus Typ 2
+eDMP Osteoporose eDMP Diabetes melitus Typ 2 eDMP Koronare Herzkrankheit eDMP Asthma bronchiale eDMP Diabetes melitus Typ 1 eDMP COPD DMP Brustkrebs
 
-Y/102/2601/24/602 31.12.2027 eDMP Koronare Herzkrankheit
+eDMP Diabetes melitus Typ 2 eDMP Koronare Herzkrankheit eDMP Asthma bronchiale eDMP Diabetes melitus Typ 1 eDMP COPD eDMP Herzinsuffizienz
 
-Y/103/2601/24/602 31.12.2027 eDMP Asthma bronchiale
-
-Y/104/2601/24/602 31.12.2027 eDMP Diabetes melitus Typ 1
-
-Y/105/2601/24/602 31.12.2027 eDMP COPD
-
-Y/106/2410/24/602 30.09.2026 eDMP Herzinsuffizienz
-
-Y/107/2507/36/086 30.06.2028 eDMP Rückenschmerz
-
-Y/108/2507/36/086 30.06.2028 eDMP Depression
-
-Y/109/2507/36/086 30.06.2028 eDMP Osteoporose
-
-Y/110/2507/36/086 30.06.2028 eDMP Rheumatoide Arthritis
-
-Y/106/2501/24/086 31.12.2026 eDMP Herzinsuffizienz
-
-Y/103/2407/36/086 30.06.2027 eDMP Asthma bronchiale
-
-Y/100/2401/36/086 31.12.2026 eDMP Diabetes melitus Typ 2
-
-Y/101/2401/36/086 31.12.2026 DMP Brustkrebs
-
-Y/102/2401/36/086 31.12.2026 eDMP Koronare Herzkrankheit
-
-Y/104/2401/36/086 31.12.2026 eDMP Diabetes melitus Typ 1
-
-Y/105/2401/36/086 31.12.2026 eDMP COPD
+eDMP Rückenschmerz eDMP Depression eDMP Osteoporose eDMP Rheumatoide Arthritis eDMP Herzinsuffizienz eDMP Asthma bronchiale eDMP Diabetes melitus Typ 2 DMP Brustkrebs eDMP Koronare Herzkrankheit eDMP Diabetes melitus Typ 1 eDMP COPD
 
 Windows
 
@@ -312,7 +256,7 @@ Windows
 
 **Frey ADV GmbH** Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 23. Mai 2026
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 30. Mai 2026
 
 **Prüfnummer(n)**
 
@@ -375,57 +319,35 @@ Windows
 
 **Haase, Dipl.-Ing. Silvia GbR** Lindenstr. 21 21465 Reinbek Internet: www.j-med.de
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 23. Mai 2026
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 30. Mai 2026
 
 **Prüfnummer(n)**
 
-**Prüfnummer(n)**
+Y/100/2504/36/616 Y/102/2504/36/616 Y/103/2504/36/616 Y/104/2504/36/616 Y/105/2504/36/616
+
+Y/100/2404/36/701 Y/104/2404/36/701 Y/106/2403/37/701 Y/101/2401/36/701 Y/102/2401/36/701 Y/103/2401/36/701 Y/105/2401/36/701 Y/108/2401/36/701
+
+X/106/2410/24/940 X/103/2407/36/940 X/100/2401/36/940 X/101/2401/36/940 X/102/2401/36/940 X/104/2401/36/940 X/105/2401/36/940
+
+Y/101/2404/36/195
+
+**Prüfnummer(n)** **gültig bis**
+
+31.03.2028 31.03.2028 31.03.2028 31.03.2028 31.03.2028
+
+31.03.2027 31.03.2027 31.03.2027 31.12.2026 31.12.2026 31.12.2026 31.12.2026 31.12.2026
+
+30.09.2026 30.06.2027 31.12.2026 31.12.2026 31.12.2026 31.12.2026 31.12.2026 31.03.2027
 
 **zertifizierte Komponente(n)**
 
-**gültig bis**
+eDMP Diabetes melitus Typ 2 eDMP Koronare Herzkrankheit eDMP Asthma bronchiale eDMP Diabetes melitus Typ 1 eDMP COPD
 
-Y/100/2504/36/616 31.03.2028 eDMP Diabetes melitus Typ 2
+eDMP Diabetes melitus Typ 2 eDMP Diabetes melitus Typ 1 eDMP Herzinsuffizienz DMP Brustkrebs eDMP Koronare Herzkrankheit eDMP Asthma bronchiale eDMP COPD eDMP Depression
 
-Y/102/2504/36/616 31.03.2028 eDMP Koronare Herzkrankheit
+eDMP Herzinsuffizienz eDMP Asthma bronchiale eDMP Diabetes melitus Typ 2 DMP Brustkrebs eDMP Koronare Herzkrankheit eDMP Diabetes melitus Typ 1 eDMP COPD
 
-Y/103/2504/36/616 31.03.2028 eDMP Asthma bronchiale
-
-Y/104/2504/36/616 31.03.2028 eDMP Diabetes melitus Typ 1
-
-Y/105/2504/36/616 31.03.2028 eDMP COPD
-
-Y/100/2404/36/701 31.03.2027 eDMP Diabetes melitus Typ 2
-
-Y/104/2404/36/701 31.03.2027 eDMP Diabetes melitus Typ 1
-
-Y/106/2403/37/701 31.03.2027 eDMP Herzinsuffizienz
-
-Y/101/2401/36/701 31.12.2026 DMP Brustkrebs
-
-Y/102/2401/36/701 31.12.2026 eDMP Koronare Herzkrankheit
-
-Y/103/2401/36/701 31.12.2026 eDMP Asthma bronchiale
-
-Y/105/2401/36/701 31.12.2026 eDMP COPD
-
-Y/108/2401/36/701 31.12.2026 eDMP Depression
-
-X/106/2410/24/940 30.09.2026 eDMP Herzinsuffizienz
-
-X/103/2407/36/940 30.06.2027 eDMP Asthma bronchiale
-
-X/100/2401/36/940 31.12.2026 eDMP Diabetes melitus Typ 2
-
-X/101/2401/36/940 31.12.2026 DMP Brustkrebs
-
-X/102/2401/36/940 31.12.2026 eDMP Koronare Herzkrankheit
-
-X/104/2401/36/940 31.12.2026 eDMP Diabetes melitus Typ 1
-
-X/105/2401/36/940 31.12.2026 eDMP COPD
-
-Y/101/2404/36/195 31.03.2027 DMP Brustkrebs
+DMP Brustkrebs
 
 **unterstützte** **Betriebssysteme**
 
@@ -440,89 +362,53 @@ Windows
 
 ---
 
-**Prüfnummer(n)**
-
-**unterstützte**
-
 **Kontaktdaten**
-
-**Prüfnummer(n)**
-
-**zertifizierte Komponente(n)**
-
-**gültig bis**
-
-**Betriebssysteme**
-
-Y/110/2506/37/210 30.06.2028 eDMP Rheumatoide Arthritis
-
-Y/109/2410/36/210 30.09.2027 eDMP Osteoporose
-
-Y/103/2407/36/210 30.06.2027 eDMP Asthma bronchiale
 
 **Medical Office**
 
-Y/106/2407/24/210 30.06.2026 eDMP Herzinsuffizienz
+**INDAMED EDV-Entwicklung und Vertrieb**
 
-**INDAMED EDV-Entwicklung und Vertrieb** Y/107/2407/36/210 30.06.2027 eDMP Rückenschmerz
-
-**GmbH**
-
-Y/108/2407/36/210 30.06.2027 eDMP Depression
-
-Windows
-
-Ziegeleiweg 1
-
-Y/100/2401/36/210 31.12.2026 eDMP Diabetes melitus Typ 2 19057 Schwerin
-
-Y/101/2401/36/210 31.12.2026 DMP Brustkrebs
-
-Internet: www.indamed.de
-
-Y/102/2401/36/210 31.12.2026 eDMP Koronare Herzkrankheit
-
-Y/104/2401/36/210 31.12.2026 eDMP Diabetes melitus Typ 1
-
-Y/105/2401/36/210 31.12.2026 eDMP COPD
+**GmbH** Ziegeleiweg 1 19057 Schwerin Internet: www.indamed.de
 
 **InterARZT**
 
-**InterData Praxiscomputer GmbH**
-
-Mac OS
-
-Alte Bahnhofstraße 50-52
-
-Y/101/2401/36/136 31.12.2026 DMP Brustkrebs
-
-Windows
-
-48268 Greven Internet: www.InterData.de
-
-X/100/2604/24/748 31.03.2028 eDMP Diabetes melitus Typ 2
+**InterData Praxiscomputer GmbH** Alte Bahnhofstraße 50-52 48268 Greven Internet: www.InterData.de
 
 **EMILdmp**
 
-X/102/2604/24/748 31.03.2028 eDMP Koronare Herzkrankheit
+**ITC Dipl. Ing. M. Schumann** Wilhelm-Raabe-Weg 3 a 35039 Marburg Internet: [http://www.itc-ms.de/](http://www.itc-ms.de/)
 
-**ITC Dipl. Ing. M. Schumann**
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 30. Mai 2026
 
-X/103/2604/24/748 31.03.2028 eDMP Asthma bronchiale
+**Prüfnummer(n)**
 
-Wilhelm-Raabe-Weg 3 a
+Y/110/2506/37/210 Y/109/2410/36/210 Y/103/2407/36/210 Y/106/2407/24/210 Y/107/2407/36/210 Y/108/2407/36/210 Y/100/2401/36/210 Y/101/2401/36/210 Y/102/2401/36/210 Y/104/2401/36/210 Y/105/2401/36/210
+
+Y/101/2401/36/136
+
+X/100/2604/24/748 X/102/2604/24/748 X/103/2604/24/748 X/104/2604/24/748 X/105/2604/24/748 X/110/2604/24/748
+
+**Prüfnummer(n)** **gültig bis**
+
+30.06.2028 30.09.2027 30.06.2027 30.06.2026 30.06.2027 30.06.2027 31.12.2026 31.12.2026 31.12.2026 31.12.2026 31.12.2026 31.12.2026
+
+31.03.2028 31.03.2028 31.03.2028 31.03.2028 31.03.2028 31.03.2028
+
+**zertifizierte Komponente(n)**
+
+eDMP Rheumatoide Arthritis eDMP Osteoporose eDMP Asthma bronchiale eDMP Herzinsuffizienz eDMP Rückenschmerz eDMP Depression eDMP Diabetes melitus Typ 2 DMP Brustkrebs eDMP Koronare Herzkrankheit eDMP Diabetes melitus Typ 1 eDMP COPD
+
+DMP Brustkrebs
+
+eDMP Diabetes melitus Typ 2 eDMP Koronare Herzkrankheit eDMP Asthma bronchiale eDMP Diabetes melitus Typ 1 eDMP COPD eDMP Rheumatoide Arthritis
+
+**unterstützte** **Betriebssysteme**
 
 Windows
 
-X/104/2604/24/748 31.03.2028 eDMP Diabetes melitus Typ 1 35039 Marburg
+Mac OS Windows
 
-X/105/2604/24/748 31.03.2028 eDMP COPD
-
-Internet: [http://www.itc-ms.de/](http://www.itc-ms.de/)
-
-X/110/2604/24/748 31.03.2028 eDMP Rheumatoide Arthritis
-
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 23. Mai 2026
+Windows
 
 
 ---
@@ -547,7 +433,7 @@ X/110/2604/24/748 31.03.2028 eDMP Rheumatoide Arthritis
 | 65343 | Eltville |  |
 | Internet: |  | www.medatixx.de |
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 23. Mai 2026
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 30. Mai 2026
 
 **Prüfnummer(n)**
 
@@ -598,7 +484,7 @@ EL - Elaphe Longissima medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Inte
 
 **MEDYS GmbH** Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 23. Mai 2026
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 30. Mai 2026
 
 **Prüfnummer(n)**
 
@@ -649,7 +535,7 @@ Mac OS Windows
 
 **PRO MEDISOFT AG** Besselstraße 25 68219 Mannheim Internet: www.pro-medisoft.de
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 23. Mai 2026
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 30. Mai 2026
 
 **Prüfnummer(n)**
 
@@ -700,69 +586,31 @@ Windows
 
 **Schmidt Computersysteme** Chrysanthemenweg 4 02827 Görlitz Internet: www.arzt2000.de
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 23. Mai 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 30. Mai 2026
 
 **Prüfnummer(n)**
 
-**Prüfnummer(n)**
+Y/109/2512/37/456 Y/100/2507/36/456 Y/102/2507/36/456 Y/103/2507/36/456 Y/104/2507/36/456 Y/105/2507/36/456 Y/106/2407/24/456 Y/107/2407/36/456 Y/108/2407/36/456 Y/110/2305/38/456
+
+Y/110/2508/38/261 Y/106/2410/24/261 Y/103/2407/36/261 Y/107/2404/36/261 Y/108/2404/36/261 Y/100/2401/36/261 Y/101/2401/36/261 Y/102/2401/36/261 Y/104/2401/36/261 Y/105/2401/36/261 Y/109/2310/36/261
+
+Y/109/2512/37/171 Y/103/2407/36/171 Y/100/2401/36/171 Y/102/2401/36/171 Y/104/2401/36/171 Y/105/2401/36/171
+
+**Prüfnummer(n)** **gültig bis**
+
+31.12.2028 30.06.2028 30.06.2028 30.06.2028 30.06.2028 30.06.2028 30.06.2026 30.06.2027 30.06.2027 30.06.2026
+
+30.09.2028 30.09.2026 30.06.2027 31.03.2027 31.03.2027 31.12.2026 31.12.2026 31.12.2026 31.12.2026 31.12.2026 30.09.2026
+
+31.12.2028 30.06.2027 31.12.2026 31.12.2026 31.12.2026 31.12.2026
 
 **zertifizierte Komponente(n)**
 
-**gültig bis**
+eDMP Osteoporose eDMP Diabetes melitus Typ 2 eDMP Koronare Herzkrankheit eDMP Asthma bronchiale eDMP Diabetes melitus Typ 1 eDMP COPD eDMP Herzinsuffizienz eDMP Rückenschmerz eDMP Depression eDMP Rheumatoide Arthritis
 
-Y/109/2512/37/456 31.12.2028 eDMP Osteoporose
+eDMP Rheumatoide Arthritis eDMP Herzinsuffizienz eDMP Asthma bronchiale eDMP Rückenschmerz eDMP Depression eDMP Diabetes melitus Typ 2 DMP Brustkrebs eDMP Koronare Herzkrankheit eDMP Diabetes melitus Typ 1 eDMP COPD eDMP Osteoporose
 
-Y/100/2507/36/456 30.06.2028 eDMP Diabetes melitus Typ 2
-
-Y/102/2507/36/456 30.06.2028 eDMP Koronare Herzkrankheit
-
-Y/103/2507/36/456 30.06.2028 eDMP Asthma bronchiale
-
-Y/104/2507/36/456 30.06.2028 eDMP Diabetes melitus Typ 1
-
-Y/105/2507/36/456 30.06.2028 eDMP COPD
-
-Y/106/2407/24/456 30.06.2026 eDMP Herzinsuffizienz
-
-Y/107/2407/36/456 30.06.2027 eDMP Rückenschmerz
-
-Y/108/2407/36/456 30.06.2027 eDMP Depression
-
-Y/110/2305/38/456 30.06.2026 eDMP Rheumatoide Arthritis
-
-Y/110/2508/38/261 30.09.2028 eDMP Rheumatoide Arthritis
-
-Y/106/2410/24/261 30.09.2026 eDMP Herzinsuffizienz
-
-Y/103/2407/36/261 30.06.2027 eDMP Asthma bronchiale
-
-Y/107/2404/36/261 31.03.2027 eDMP Rückenschmerz
-
-Y/108/2404/36/261 31.03.2027 eDMP Depression
-
-Y/100/2401/36/261 31.12.2026 eDMP Diabetes melitus Typ 2
-
-Y/101/2401/36/261 31.12.2026 DMP Brustkrebs
-
-Y/102/2401/36/261 31.12.2026 eDMP Koronare Herzkrankheit
-
-Y/104/2401/36/261 31.12.2026 eDMP Diabetes melitus Typ 1
-
-Y/105/2401/36/261 31.12.2026 eDMP COPD
-
-Y/109/2310/36/261 30.09.2026 eDMP Osteoporose
-
-Y/109/2512/37/171 31.12.2028 eDMP Osteoporose
-
-Y/103/2407/36/171 30.06.2027 eDMP Asthma bronchiale
-
-Y/100/2401/36/171 31.12.2026 eDMP Diabetes melitus Typ 2
-
-Y/102/2401/36/171 31.12.2026 eDMP Koronare Herzkrankheit
-
-Y/104/2401/36/171 31.12.2026 eDMP Diabetes melitus Typ 1
-
-Y/105/2401/36/171 31.12.2026 eDMP COPD
+eDMP Osteoporose eDMP Asthma bronchiale eDMP Diabetes melitus Typ 2 eDMP Koronare Herzkrankheit eDMP Diabetes melitus Typ 1 eDMP COPD
 
 **unterstützte** **Betriebssysteme**
 
@@ -789,7 +637,7 @@ Windows
 
 **T2med GmbH & Co. KG** Bismarckallee 15 24105 Kiel Internet: www.t2med.de
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 23. Mai 2026
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 30. Mai 2026
 
 **Prüfnummer(n)**
 
@@ -839,7 +687,7 @@ iOS/Android Linux Mac OS Windows
 | 07745 | Jena |  |
 |  | Internet: | www.zollsoft.de |
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 23. Mai 2026
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 30. Mai 2026
 
 **Prüfnummer(n)**
 

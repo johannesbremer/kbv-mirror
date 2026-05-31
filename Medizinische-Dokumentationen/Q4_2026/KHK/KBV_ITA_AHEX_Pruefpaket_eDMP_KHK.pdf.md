@@ -185,7 +185,7 @@ DOKUMENTENHISTORIE
 | 1.12 | 13.02.2018 | KBV | Anpassung der Prüffälle an  Aufnahme eines Testfalls | Schnittstellenversion  Schnittstellenversion | 13ff      27ff |
 | 1.11 | 23.05.2017 | KBV | Komplettüberarbeitung des | Aktualisierung der | Alle |
 
-Schnittstellenversionen 4.11 und 4.12 für die Testdatenvalidierung zur Schnittstellenversion 4.13 Prüfpaketes 4.12 ist ab 01.04.2018 zu verwenden 4.13 ist ab 01.07.2018 zu verwenden Zertifizierungsrichtlinie
+Schnittstellenversionen 4.12 ist ab 01.04.2018 4.11 und 4.12 zu verwenden für die 4.13 ist ab 01.07.2018 Testdatenvalidierung zur Schnittstellenversion 4.13 zu verwenden Prüfpaketes Zertifizierungsrichtlinie
 
 ---
 
@@ -279,11 +279,7 @@ Die geforderten Videomitschnitte, Screenshots sowie die Teilnahmeerklärung (Pr�
 
 einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.
 
-- 1
-
-- 2 3
-
--  [PrüffallNr.] _[lfdNr.] .*
+- [PrüffallNr.]1_[lfdNr.]2 3
 
 - Teilnahmeerklärung (Prüffall 7540): TE_EWE_KHK.pdf
 
@@ -352,15 +348,13 @@ Ab dem **01.10.2026** muss die Schnittstellenversion **4.47** verwendet werden.
 
 - **Gültigkeitsdatum:** Das „letzte Datum“, **ab** dem alle in diesem Prüfpaket verwendeten Schnittstellen
 
-- (siehe oben Kapitel 1.6.1) gelten bzw. zu verwenden sind (hier wäre es der **01.04.2024 01.10.2026**
-
--
+- (siehe oben Kapitel 1.6.1) gelten bzw. zu verwenden sind (hier wäre es der -
 
 - **Erstdokumentationsdatum**: Das Datum der Erstellung der Erstdokumentation ist jeweils der 15. des
 
 - Monats, der sechs Monate vor dem aktuellen Monat liegt.
 
-- Zum Beispiel: **Aktuelle Monat** ist **April 2025** **==>** **Erstdokumentationsdatum** ist der **15.10.2024**
+- Zum Beispiel: **Aktuelle Monat** ist **April 2025** **==>** **Erstdokumentationsdatum**
 
 - **Ausnahme**
 
@@ -384,7 +378,11 @@ Im Rahmen der Prüfung sind die regulären Stammdateien zu verwenden.
 
 ### 1.6.4 Versichertendaten
 
-Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall  und werden als XML-Dateien in der Archivdatei „VSD_Testfaelle_DMP_Vn.n.zip Dateien sind folgendermaßen aufgebaut:
+Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall  und werden als XML-Dateien in der Archivdatei „VSD_Testfaelle_DMP_Vn.n.zip Dateien sind folgendermaßen aufgebaut: - **01.04.2024 01.10.2026**
+
+- ist der **15.10.2024**
+
+-
 
 erforderlichen Angaben  “ bereitgestellt. Die XML-
 
@@ -624,7 +622,7 @@ PEZIFISCHE DATEN Behandlung wegen KHK seit der letzten Dokumentation Dokumentati
 |  |  |
 |---|---|
 | **Prüffall-ID** | 6513 |
-| **Testziel** | Einschreibung |
+| **Testziel** | Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider |
 | **Voraussetzung** |  |
 | **Prüfunterlagen** | 1. KHK-Dokumentationsunterlagen 2. zusätzlich DM2- und/oder Asthma bronchiale-Dokumentationsunterlagen |
 | **Hinweis** | Sofern das System eine Zulassung für die Indikationen DM2 und/oder Asthma |
@@ -661,7 +659,7 @@ Die Versichertendaten von Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn
 
 -
 
-Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider bronchiale verfügt, müssen die entsprechenden Daten ebenfalls dokumentiert werden. Sollte das System keine der beiden Zulassungen besitzen, dann sind nur die KHK-Daten zu übermitteln.  DATEN Asthma bronchiale, KHK Asthma bronchiale, KHK
+Einschreibung bronchiale verfügt, müssen die entsprechenden Daten ebenfalls dokumentiert werden. Sollte das System keine der beiden Zulassungen besitzen, dann sind nur die KHK-Daten zu übermitteln.  DATEN Asthma bronchiale, KHK Asthma bronchiale, KHK
 
 ---
 
@@ -994,12 +992,12 @@ Netzhautuntersuchung seit der letzten Dokumentation für das Diabetische Fußsyn
 |  |  |
 |---|---|
 | **Prüffall-ID** | 7514 |
-| **Testziel** | manche Fehleingaben nicht möglich sind. |
+| **Testziel** | Kontrolle der softwareseitigen Erkennung von Fehleingaben |
 | **Voraussetzung** | Patient oder Patientin ist mindestens 18 Jahre alt |
 | **Prüfunterlagen** | Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis - bzw.    Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
-| **Hinweis** | sind. |
+| **Hinweis** | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben |
 
-Kontrolle der softwareseitigen Erkennung von Fehleingaben Fehlermeldungen.  Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben  bzw. Prüfung, dass Prüffall 7514 Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten: Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation:  DATEN Krankenkasse   15.mm.jjjj
+manche Fehleingaben nicht möglich sind. Fehlermeldungen.  Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. sind.  bzw. Prüfung, dass Prüffall 7514 Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten: Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation:  DATEN Krankenkasse   15.mm.jjjj
 
 ---
 
@@ -1089,7 +1087,7 @@ letzten Dokumentation (hoch oder moderat) Patienten
 |  |  |
 |---|---|
 | **Prüffall-ID** | 7530 |
-| **Testziel** | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
+| **Testziel** | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP  ) |
 | **Voraussetzung** | Szenario 3: Ihr System unterstützt die Datenübermittlung mit Datenträgern. Wenn  dies nicht der Fall ist, schreiben Sie dieses bitte. |
 | **Prüfunterlagen** | Dokumentieren Sie durch Videos die Eingaben einschließlich der Ergebnisse nach  einer möglichen Hinweissteuerung.    Screenshots / PDFs und ggf. Erläuterungen zum Nachweis der korrekten  Systemfunktionalität |
 | **Hinweis** | Dieser Testfall ist unterteilt in vier fünf Szenarien |
@@ -1109,7 +1107,7 @@ letzten Dokumentation (hoch oder moderat) Patienten
 \| **Szenario 4** |
 \| Zeigen Sie, dass das System bei der Auswahl die näheren Erläuterungen zum Parameter „Aktuelle Statin KBV_ITA_VGEX_Anforderungskatalog_eDMP). |
 
-Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP Angabe der DMP-Fallnummer ist eine bereits existierende Nummer (z.B. 4511) einzugeben. Das System darf entsprechend der Anforderung P1-10 (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP vergebene DMP-Fallnummer nicht akzeptieren entsprechenden Warnung gemäß Anforderung P1-12 (siehe vorliegt, wird eine Verlaufsdokumentation angelegt. nachgewiesen werden. der CCS-Schweregradeinteilungen (siehe Tabelle 2 in KBV_ITA_VGEX_Anforderungskatalog_eDMP anzeigen zu lassen. Dosis“ die Dosierung gemäß Anforderung P1-42 (2.) anzeigt (siehe
+(KBV_ITA_VGEX_Anforderungskatalog_eDMP Angabe der DMP-Fallnummer ist eine bereits existierende Nummer (z.B. 4511) einzugeben. Das System darf entsprechend der Anforderung P1-10 (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP vergebene DMP-Fallnummer nicht akzeptieren entsprechenden Warnung gemäß Anforderung P1-12 (siehe vorliegt, wird eine Verlaufsdokumentation angelegt. nachgewiesen werden. der CCS-Schweregradeinteilungen (siehe Tabelle 2 in KBV_ITA_VGEX_Anforderungskatalog_eDMP anzeigen zu lassen. Dosis“ die Dosierung gemäß Anforderung P1-42 (2.) anzeigt (siehe
 
 ---
 
@@ -1118,9 +1116,9 @@ Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP Anga
 |  | |
 |---|---|
 | **Prüffall-ID** | 7540 |
-| **Testziel** | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
+| **Testziel** | Kontrolle der korrekten Umsetzung von Teilen des  ) |
 | **Voraussetzung** |  |
-| **Prüfunterlagen** | Einwilligungserklärung |
+| **Prüfunterlagen** | PDF-Datei „TE_EWE_KHK.pdf“ |
 | **Hinweis** | Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
@@ -1140,7 +1138,7 @@ Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 | DMP-Fallnummer | 1010 |
 | Datum | 05.04.2023  15.10.2026 |
 
-Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP PDF-Datei „TE_EWE_KHK.pdf“ der indikationsübergreifenden Teilnahme- und indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
+Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP der indikationsübergreifenden Teilnahme- und Einwilligungserklärung  indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
 
 ---
 
@@ -1207,8 +1205,6 @@ Die Versichertendaten von Brigitte Althaus (XML_05) einlesen und speichern.
 | Dokumentationsintervall | Quartalsweise |  |
 | Datum der Erstellung | 05.04.2022  15.10.2025 |  |
 
--
-
 4.16  DATEN Krankenkasse Informationsangebote der Erkrankungen
 
 ---
@@ -1274,7 +1270,7 @@ Federmannssohn Plaetzchen
 |  |  |
 |---|---|
 | **Referenz** | **Dokument** |
-| Austausch_von_XML-Daten_Vn.nn.ZIP 4 | KBV_ITA_VGEX_XML-Schnittstellen - |
+| Austausch_von_XML-Daten_Vn.nn.ZIP4 | KBV_ITA_VGEX_XML-Schnittstellen - |
 | EXT_ITA_AHEX_Anleitung_eDMP_KHK | Ausfüllanleitung zum indikationsspezifischen |
 | EXT_ITA_AHEX_Teilnahme_eDMP_KHK | Erklärung Koronare Herzkrankheit zur Teilnahme an |
 | EXT_ITA_VGEX_Plausi_eDMP_Asthma | Plausibilitätsrichtlinie zur Prüfung der |
@@ -1318,7 +1314,7 @@ schlüssel KBV_ITA_VGEX_Schnittstelle_SDDA von XML Daten in der Vertragsärztlic
 |  |  |
 |  |  |
 |  |  |
-| VSD_Testfaelle_DMP_Vn.n.zip 5 | eGK Daten |
+| VSD_Testfaelle_DMP_Vn.n.zip5 | eGK Daten |
 | XPM-Paket_KHK | Prüfmodul KHK |
 
 Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, pruefstelle@kbv.de Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin pruefstelle@kbv.de,  n.n steht für die aktuelle Versionsnummer, zum Beispiel 1.0

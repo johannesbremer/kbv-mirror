@@ -183,8 +183,7 @@ System ohne Benutzerverwaltung.
 
 - UND WECHSELSCHNITTSTELLE / 13. Mai 2022
 
-eingefügt aktualisiert. , 5.4, und 8. „Alternativwerte entfernt und 6.3 eingefügt   von STU3 auf R4 Anforderungs - katalog
-
+von STU3 auf R4 eingefügt aktualisiert. , 5.4, und 8. „Alternativwerte entfernt Anforderungs - katalog und 6.3 eingefügt
 
 ---
 
@@ -273,7 +272,7 @@ Funktionsumfang von PVS B: - Patientendaten
 
 - Müssen/Können nicht importiert werden
 
-- Eintrag in Instanz von Profil KBV -Profil 74_PR_AW_Report_Import
+- Eintrag in Instanz von Profil KBV-Profil 74_PR_AW_Report_Import
 
 - Nach ANF-AWS **P07-01 Satz 5**
 
@@ -285,7 +284,7 @@ Funktionsumfang von PVS B: - Patientendaten
 
 - Müssen nicht importiert werden
 
-- Eintrag in Instanz von Profil KBV -Profil 74_PR_AW_Report_Import
+- Eintrag in Instanz von Profil KBV-Profil 74_PR_AW_Report_Import
 
 - Nach ANF-AWS **P07-01 Satz 5**
 
@@ -325,7 +324,7 @@ fachlich zusammenhängenden Informationen bspw. in einer PDF
 
 , müssen erhalten
 
-zugeo rdnet in Freitextfeldern o.Ä. hinterlegt  zugeordnet angehängt werden. Für die AWS -01]. Ein Zusammenfassen von
+zugeordnet in Freitextfeldern o.Ä. hinterlegt  zugeordnet angehängt werden. Für die AWS -01]. Ein Zusammenfassen von
 
 -Anlage ist ebenfalls möglich.
 
@@ -541,9 +540,7 @@ Ressource KBV_PR_AW_Anlage unter zwingender Angabe eines gültigen mime typ im E
 
 Für die Labordatenkommunikation wurden in der AW-SST keine spezifischen FHIR -Ressourcen zur
 
-Verfügung gestellt. Vielmehr sollen diese in der zum Zeitpunkt des Exports aktuellsten Version des LDT
-
-Formats übertragen werden.
+Verfügung gestellt. Vielmehr sollen diese in der zum Zeitpunkt des Exports aktuellsten Version des LDT Formats übertragen werden.
 
 Die erzeugte LDT -Datei sollte für jede Begegnung separat erzeugt werden. Wenn stattdessen in einer LDT-
 
@@ -561,7 +558,7 @@ Zusätzlich können die originalen Dateien im ursprünglichen Format als Anlage 
 
 ## WERDEN?
 
-- 1. Alle Dokumente deren Ablageort und Ablagestruk tur das System bestimmt, müssen exportiert werden.
+- 1. Alle Dokumente deren Ablageort und Ablagestruktur das System bestimmt, müssen exportiert werden
 
 - 2. Alternativ können die Anlagen im Wechselszenario beim Export eindeutig als Anlage referenziert  werden, sofern das importierende System Zugriff auf diese Anlagen hat, um diese frei verwalten zu - UND WECHSELSCHNITTSTELLE /
 
@@ -610,7 +607,7 @@ importiertes Datum muss exportiert werden.
 
 Export in das Element DocumentReference.content.attachment.creation zu schreiben. Das Ele ment
 
-DocumentReference.date ist mit dem als Textelement oder PDF -Anlage importiertes D atum, sofern
+DocumentReference.date ist mit dem als Textelement oder PDF-Anlage importiertes D atum, sofern
 
 möglich, zu füllen. Alternativ kann das Element mit dem Dummy-Datum 01.01.0001 (0001-01-
 
@@ -797,7 +794,7 @@ sind.
 
 Hinweise:
 
-Die Art der Übernahme der Änderungsinformation muss im Report zum Import entsprechend dokumentier t
+Die Art der Übernahme der Änderungsinformation muss im Report zum Import entsprechend dokumentiert
 
 und dem Nutzer an gezeigt werden.
 
@@ -832,13 +829,13 @@ Hinweis: Ein vermischen von Änderungsinformation mit anderen Information bspw. 
 
 # 6 VALIDIERUNG
 
-## 6.1 WIE KANN MAN EINE VA LIDIERUNG MIT DEM HL7 VALIDATOR DURCHFÜH
+## 6.1 WIE KANN MAN EINE VALIDIERUNG MIT DEM HL7 VALIDATOR DURCHFÜH
 
-Die KBV stellt zur Vereinfachung des Prozesses einen Validationsservice zur Verfügung, der lokal
+Die KBV stellt zur Vereinfachung des Prozesses einen Validationsservice
 
 werden kann. Dieser ermöglicht bereits im Vorhinein eine (nicht bindende) Validierung, die mögliche  Fehlerquellen im Vorhinein aufzeigen und ggf. ausbessern kann.
 
-Derzeit ist der Service zur Validierun g zu finden unter:
+Derzeit ist der Service zur Validierung zu finden unter:
 
 [https://update.kbv.de/ita](https://update.kbv.de/ita) -update/371 -Schnittstellen/PVS -Archivierungs -Wechsel Schnittstelle/AWS_Service_zur_Validierung.zip
 
@@ -846,19 +843,19 @@ Ein beispielhafter Hl7 Validatoraufruf ist in der readme.txt im Zip enthalten.
 
 ## 6.2 WORAUF IST BEI DER NUTZUNG DES HL 7-VALIDATORS ZU ACHT
 
-Der Hl7 -Validator beinhaltet die Möglichkeit Codes (z.B. Snomed werden einzelne Codes an einen Terminologieserver, der derzeit in den USA angesiedelt ist, gesendet. Es  werden jedoch auch persone nbezogene Daten (IP -Adresse) übertragen und vorübergehend gespeichert. Im
+Der Hl7 -Validator beinhaltet die Möglichkeit Codes (z.B. Snomed werden einzelne Codes an einen Terminologieserver, der derzeit in den USA angesiedelt ist, gesendet. Es  werden jedoch auch persone nbezogene Daten (IP -Adresse) übertragen und
 
 Produktivbetrieb sollte daher ausschließlich eine lokale Terminologievalidierung durchgeführt werden,  damit keine personenbezogenen Daten des Arztes/der Praxis übertragen werden.
 
 ## 6.3 AUFBAU DER ID
 
-Bitte beachten Sie die FHIR -Vorgaben( [https://www.hl7.org/fhir/datatypes.html#id](https://www.hl7.org/fhir/datatypes.html#id) der Ressourcen-ID (resource.id). Der Aufbau wird erst von neueren Validatore
+Bitte beachten Sie die FHIR-Vorgaben( [https://www.hl7.org/fhir/datatypes.html#id](https://www.hl7.org/fhir/datatypes.html#id) der Ressourcen-ID (resource.id). Der Aufbau wird erst von neueren Validatore
 
 # 7 BEKANNTE FEHLER
 
 ## 7.1 KBV_PROFIL KBV_PR_AW_REPORT_IMPORT
 
-Die Beschreibung im recorded-Element „Zeitstempel des Exports“
+Die Beschreibung im recorded-Element „Zeitstempel des Exports
 
 „Zeitstempel des Imports“ heißen. Das Problem wird in der nächsten AWS
 
@@ -866,22 +863,22 @@ Die Beschreibung im recorded-Element „Zeitstempel des Exports“
 
 Dezernat Digitalisierung und IT
 
-IT in der Arztpraxis
-
-Tel.: 030 4005 -2077, [ita@kbv.de](mailto:ita@kbv.de)
+IT in der Arztpraxis  Tel.: 030 4005 -2077, [ita@kbv.de](mailto:ita@kbv.de)
 
 Kassenärztliche Bundesvereinigung
 
 Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de - UND WECHSELSCHNITTSTELLE /
 
+## REN?
+
+zur Verfügung, der lokal genutzt
+
 ## EN?
 
 -CT-Codes) online zu validieren. Dabei
 
-ist leider falsch. Korrekt müsste es  -Version bereinigt.
-
-## REN?
+vorübergehend gespeichert. Im
 
 ) bezüglich des Aufbaus  n explizit geprüft .
 
-genutzt
+ist leider falsch. Korrekt müsste es  -Version bereinigt.

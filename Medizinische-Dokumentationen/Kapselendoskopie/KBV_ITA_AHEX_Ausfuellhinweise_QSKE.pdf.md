@@ -9,10 +9,10 @@
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
-|  | 21.01.2015 |
+|  | Version |
 |  |  |
 
-Version  Datum: Kennzeichnung:  Öffentlich  Status:    In Kraft
+1.01 Datum:  21.01.2015 Kennzeichnung:  Öffentlich  Status:    In Kraft
 
 ---
 
@@ -100,6 +100,8 @@ Katalog Plausi_QSKE] vor, wenn die Untersuchung aufgrund mangelnder Beurteilbark
 
 ---
 
+**IT in der Arztpraxis**
+
 | 6.a  Zu den im Berichtsjahr durchgeführten Kapselendoskopien sind Angaben zur Vollständigkeit der Untersuchung vom jeweiligen Ausw Der Applizierer soll für alle Kapselendoskopien Angaben in Bezug auf die Vollständigkeit aus seinen eigenen Auswertungen, oder falls diese |  |
 |---|---|
 |  | 6.b.III  6.b.IV  7 |
@@ -123,11 +125,9 @@ Katalog Plausi_QSKE] vor, wenn die Untersuchung aufgrund mangelnder Beurteilbark
 | 6.b.IV | |
 | 7 | Zu den im Berichtsjahr durchgeführten Kapselendoskopien sind Angaben zur Notwendigkeit einer Wiederholungsuntersuchung vom je Der Applizierer soll für alle Kapselendoskopien Angaben in Bezug auf die Notwendigkeit einer Wiederholungsuntersuchung aus seinen  Die Notwendigkeit von Wiederholungsuntersuchungen kann sich ausschließlich aufgrund eingeschränkter Beurteilbarkeit (5.b) bzw |
 
-**IT in der Arztpraxis**
-
 1.01
 
-erter anzugeben.  beauftragt worden waren, durch Übernahme der Angaben des Auswerters, in der Jahresstatistik zu dokumentieren. Auswerter anzugeben. eigenen Auswertungen, oder falls diese beauftragt worden waren, durch Übernahme der Angaben des Auswerters, in der Jahresstat istik zu dokumentieren. Vollständigkeit (6.b) der Untersuchungen ergeben. Eine empfohlene Untersuchung im Rahmen einer Verlaufskontrolle ist keine Wiederholungsuntersuchung.
+anzugeben.  beauftragt worden waren, durch Übernahme der Angaben des Auswerters, in der Jahresstatistik zu dokumentieren. Auswerter anzugeben. eigenen Auswertungen, oder falls diese beauftragt worden waren, durch Übernahme der Angaben des Auswerters, in der Jahresstat dokumentieren. Vollständigkeit (6.b) der Untersuchungen ergeben. Eine empfohlene Untersuchung im Rahmen einer Verlaufskontrolle ist Wiederholungsuntersuchung. erter istik zu keine
 
 ---
 

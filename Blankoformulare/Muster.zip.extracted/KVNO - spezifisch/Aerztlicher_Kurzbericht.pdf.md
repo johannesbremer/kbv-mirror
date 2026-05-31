@@ -2,15 +2,11 @@ Krankenkasse bzw. Kostenträger
 
 Name, Vorname des Versicherten
 
-Kostenträgerkennung
+Kostenträgerkennung Versicherten-Nr
 
-Betriebsstätten-Nr
+Betriebsstätten-Nr Arzt-Nr
 
 **Adresse der weiterbehandelnden Praxis/Einrichtung:**
-
-Versicherten-Nr
-
-Arzt-Nr
 
 **Diagnosen mit ICD-10:**
 
@@ -20,8 +16,6 @@ Arzt-Nr
 
 **morgensmittags**
 
-**Befunde:**
-
 geb. am
 
 Status
@@ -30,11 +24,17 @@ Datum
 
 **abends nachts**
 
+**Befunde:**
+
 EKG
 
 Röntgen
 
 Sonstige:
+
+Labor
+
+Sono
 
 **Mitgegebene Unterlagen:**
 
@@ -42,19 +42,19 @@ Der Überleitungsbogen wurde der Patientin / dem Patienten mitgegeben. Patientin
 
 **Beantragte Leistungen:**
 
-Es wird bescheinigt, dass keine Anhaltspunkte für das Vorliegen einer ansteckungsfähigen Krankheit im Sinne des Infektionsschutz  (einschließlich ansteckungsfähiger Lungentuberkulose und MRE) vorliegen.
-
-Labor
+Vorberichte
 
 Labor
 
 Pflegestufe beantragt
 
-Sono
-
-Vorberichte
+Es wird bescheinigt, dass keine Anhaltspunkte für das Vorliegen einer ansteckungsfähigen Krankheit im Sinne des Infektionsschutz  (einschließlich ansteckungsfähiger Lungentuberkulose und MRE) vorliegen.
 
 Datum
+
+Name / Unterschrift der Ärztin / des Arztes
+
+Name / Unterschrift der Pflegefachkraft (wenn Daten aus Pflegedokumentation übernommen)
 
 **Patientenerklärung**
 
@@ -67,8 +67,6 @@ Pflegeeinrichtung zur Durchführung der erforderlichen Pflege
 MDK zum Zweck der Feststellung der Pflegebedürftigkeit
 
 Datum
-
-Name / Unterschrift der Ärztin / des Arztes
 
 Name / Unterschrift Patientin / Patient /  gesetzl. Vertreterin / gesetzl. Vertreter
 
@@ -92,9 +90,7 @@ Krankenhausaufenthalt von:
 
 Aufnahmegrund:
 
-**Medikation Entlassung nach Abgleich mit Aufnahmemedikation**
-
-**Medikamenten-**
+**Medikation Entlassung**  **Medikamenten-**
 
 **Änderung** **Veränderungen erfolgt**
 
@@ -104,27 +100,21 @@ Echo
 
 Doppler
 
-Bilder Arztbrief
-
 CT
+
+**nach Abgleich mit Aufnahmemedikation**
 
 MRT
 
-Sonstiges: (z.B. Anlage MRE)
+Bilder Arztbrief Sonstiges: (z.B. Anlage MRE)
 
 Reha beantragt / eingeleitet
 
-Krankenhaus
-
-Bezugsperson
-
-Name / Unterschrift der Pflegefachkraft (wenn Daten aus Pflegedokumentation übernommen)
-
 einverstanden
 
-behandelnden Arzt
+Krankenhaus behandelnden Arzt
 
-Sonstige:
+Bezugsperson Sonstige:
 
 **503 Anlage 7a**
 

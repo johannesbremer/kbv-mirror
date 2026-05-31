@@ -48,7 +48,8 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 / Version: 4.2 / 15. Mai 2024
 
-Rechtsform anzugeben] Systempfleger vom Antragssteller abweicht] [ ] [ ] [ ]
+Rechtsform anzugeben] Systempfleger vom Antragssteller abweicht]
+
 
 ---
 
@@ -83,8 +84,7 @@ Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werd
 
 / Version: 4.2 / 15. Mai 2024
 
-Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
-
+Antragsstellers Stellen der Prüfnummer, falls vorhanden]
 
 ---
 
@@ -134,7 +134,7 @@ Folgende optionale ADT Funktionen sind gem. Anforderungskatalog KVDT realisiert.
 
 / Version: 4.2 / 15. Mai 2024
 
-[ ] [ ] mit  allen Feldern allen Ausprägungen (erlaubte Inhalte) zu den Feldern allen Regeln nsatzbeschreibung KVDT ist das K ADT-Datenpaket realisiert [ ] [ ] [ ] [ ] ADT LT. ANFORDERUNGSKATALOG
+mit  allen Feldern allen Ausprägungen (erlaubte Inhalte) zu den Feldern allen Regeln nsatzbeschreibung KVDT ist das K ADT-Datenpaket realisiert ADT LT. ANFORDERUNGSKATALOG
 
 ---
 

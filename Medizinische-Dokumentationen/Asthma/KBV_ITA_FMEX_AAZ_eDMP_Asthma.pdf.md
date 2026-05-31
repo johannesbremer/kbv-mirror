@@ -61,13 +61,13 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 Seite 2 von 8 / KBV / Antrag auf Zertifizierung eDMP-Asthma / Version: 4.4 / 15. Mai 2024
 
-Arzt/Ärztin [ ]
+Arzt/Ärztin
 
 initiiert.
 
-Softwarehaus [ ]
+Softwarehaus
 
-Sonstiges [ ]
+Sonstiges
 
 
 ---
@@ -98,25 +98,17 @@ Bitte geben Sie im Folgenden an, welche Client
 
 Windows
 
-[ ]
+iOS/Android
 
-iOS/Android  [ ]
-
-Antragssteller:
-
-[ ]
-
-[ ]
-
-Mac OS
-
-Sonstige 1.1.
+Antragssteller: 1.1.
 
 vorhanden) des Zertifizierungsgegenstandes an.
 
 -Betriebssysteme unterstützt werden.
 
-[ ]
+Mac OS
+
+Sonstige
 
 Linux
 
@@ -127,11 +119,9 @@ Antragssteller:
 
 2 REALISIERUNG VON ANFORDERUNGEN
 
-Der Antragsteller versichert, dass die aktuelle Version der verbindlichen Kostenträger [ ] der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht.
+Der Antragsteller versichert, dass die aktuelle Version der verbindlichen Kostenträger  der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht.
 
-Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden
-
-[ ]  Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind.
+Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden   Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind.
 
 **2.1** **REALISIERTE OPTIONALE FUNKTIONEN EDMP ASTHMA**
 
@@ -141,15 +131,9 @@ KEINE
 
 ALLE
 
-[ ]
-
-[ ]
-
 **IDENT-NUMMER BEZEICHNUNG DER OPTIONALEN FUNKTION**  **ANFORDERUNGSKATALOG**
 
 Laut nachfolgender Liste
-
-[ ]
 
 **EDMP ASTHMA LT.**
 
@@ -277,9 +261,9 @@ zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffen
 
 ---
 
-Ort, Datum
-
 Antragssteller:
+
+Ort, Datum
 
 **Ansprechpartner:**
 

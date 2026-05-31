@@ -78,11 +78,11 @@ Unterschrift der Versicherten/des Versicherten bzw. des gesetzlichen Vertreters 
 
 Stempel Ärztin/Arzt
 
+### Exemplar für die Datenstelle
+
 teil-
 
 ent -
-
-### Exemplar für die Datenstelle
 
 Indikationsübergreifend 06.05.2020 TEEWE
 
@@ -168,13 +168,13 @@ Osteoporose
 Unterschrift der Versicherten/des Versicherten bzw. des gesetzlichen Vertreters zu 1. und 2.
 
 Stempel Ärztin/Arzt
-
-teil-
-
-ent -
 
 ### Exemplar für den Arzt
 
+teil-
+
+ent -
+
 Indikationsübergreifend 06.05.2020 TEEWE
 
 
@@ -260,11 +260,11 @@ Unterschrift der Versicherten/des Versicherten bzw. des gesetzlichen Vertreters 
 
 Stempel Ärztin/Arzt
 
+### Exemplar für den Patienten
+
 teil-
 
 ent -
-
-### Exemplar für den Patienten
 
 Indikationsübergreifend 06.05.2020 TEEWE
 

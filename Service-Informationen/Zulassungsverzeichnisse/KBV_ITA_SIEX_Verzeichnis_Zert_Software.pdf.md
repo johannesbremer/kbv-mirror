@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**23. MAI 2026**
+**30. MAI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -23,35 +23,41 @@ Die nachstehende Matrix stellt Ihnen eine Übersicht zur Verfügung, aus der her
 
 **ACETOmed**
 
-ACETO Softwareentwicklung GmbH
-
-**Clinixx(R) Krankenhausinformationssystem** AMC Holding GmbH
-
-**amelis** amedes Medizinische Dienstleistungen GmbH
-
-**MAP Software für Laborärzte** Andaco Consulting & Trading GmbH
-
-**APRIS** APRIS Praxiscomputer GmbH
-
-**Arztpraxis Wiegand** APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH
-
-**ODSeasy**
-
-asthenis GmbH
-
-Seite 2 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 23. Mai 2026
-
 **Abrechnung (Link) elektronische Disease-**
 
 x
 
 x
 
-x
+ACETO Softwareentwicklung GmbH
+
+**Clinixx(R) Krankenhausinformationssystem** AMC Holding GmbH
+
+**amelis** amedes Medizinische Dienstleistungen GmbH
+
+**MAP Software für Laborärzte**
 
 x
 
+Andaco Consulting & Trading GmbH
+
+**APRIS**
+
 x
+
+APRIS Praxiscomputer GmbH
+
+**Arztpraxis Wiegand** APW-Wiegand - Med. Software Entwicklung und
+
+x
+
+Vertrieb GmbH
+
+**ODSeasy**
+
+asthenis GmbH
+
+Seite 2 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 30. Mai 2026
 
 **Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
 
@@ -1270,7 +1276,7 @@ x
 
 **Ashvins xIS** MedicalCommunications GmbH
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 23. Mai 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 30. Mai 2026
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
 
@@ -2114,7 +2120,7 @@ x
 
 **tomedo.air** Zollsoft GmbH
 
-Seite 18 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 23. Mai 2026
+Seite 18 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 30. Mai 2026
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
 

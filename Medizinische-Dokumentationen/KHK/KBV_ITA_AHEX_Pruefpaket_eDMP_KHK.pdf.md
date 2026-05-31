@@ -294,11 +294,7 @@ Die geforderten Videomitschnitte, Screenshots sowie die Teilnahmeerklärung (Pr�
 
 einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.
 
-- 1
-
-- 2 3
-
--  [PrüffallNr.] _[lfdNr.] .*
+- [PrüffallNr.]1_[lfdNr.]2 3
 
 - Teilnahmeerklärung (Prüffall 7540): TE_EWE_KHK.pdf
 
@@ -606,7 +602,7 @@ seit der letzten Dokumentation Dokumentation) vereinbart Hochdosis Operation
 |  |  |
 |---|---|
 | **Prüffall-ID** | 6513 |
-| **Testziel** | Einschreibung |
+| **Testziel** | Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider |
 | **Voraussetzung** |  |
 | **Prüfunterlagen** | 1. KHK-Dokumentationsunterlagen 2. zusätzlich DM2- und/oder Asthma bronchiale-Dokumentationsunterlagen |
 | **Hinweis** | Sofern das System eine Zulassung für die Indikation |
@@ -636,7 +632,7 @@ Die Versichertendaten von Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn (V
 
 -
 
-Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider bronchiale verfügt, müssen die entsprechenden Daten ebenfalls werden. Sollte das System keine der beiden Zulassungen besitzen, dann sind nur die KHK-Daten zu übermitteln. en DM2 und/oder Asthma dokumentiert Asthma bronchiale, KHK Asthma bronchiale, KHK
+Einschreibung bronchiale verfügt, müssen die entsprechenden Daten ebenfalls werden. Sollte das System keine der beiden Zulassungen besitzen, dann sind nur die KHK-Daten zu übermitteln. en DM2 und/oder Asthma dokumentiert Asthma bronchiale, KHK Asthma bronchiale, KHK
 
 ---
 
@@ -750,7 +746,7 @@ wahrgenommen Netzhautuntersuchung seit der letzten Dokumentation für das Diabet
 |  |  |
 |---|---|
 | **Prüffall-ID** | 7514 |
-| **Testziel** | manche Fehleingaben nicht möglich sind |
+| **Testziel** | Kontrolle der softwareseitigen Erkennung von Fehleingaben |
 | **Voraussetzung** | Patient oder Patientin ist mindestens 18 Jahre alt |
 | **Prüfunterlagen** | Screenshots / Videodateien und ggf. Erläuterungen, wie das Softwaresystem die    Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis   Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
 | **Hinweis** | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben |
@@ -771,7 +767,7 @@ Die Personalien zu dem Testfall sind frei wählbar.
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum | 05.04.2023 06.10.2023 |  |
 | Einschreibung wegen | KHK |  |
-| Geschlecht | Patienten |  |
+| Geschlecht | Je nach Auswahl des |  |
 | **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 2,51 m | Nr. 1 |
 | Körpergewicht | 301 kg | Nr. 2 |
@@ -779,7 +775,7 @@ Die Personalien zu dem Testfall sind frei wählbar.
 | Raucher | Ja |  |
 | Begleiterkrankungen |  | Nr. 4 |
 
-Kontrolle der softwareseitigen Erkennung von Fehleingaben Eingabefehler verhindert Fehlermeldungen.  Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. sind.  bzw. Prüfung, dass - bzw. Je nach Auswahl des
+manche Fehleingaben nicht möglich sind Eingabefehler verhindert Fehlermeldungen.  Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. sind.  bzw. Prüfung, dass - bzw. Patienten
 
 ---
 
@@ -886,9 +882,9 @@ Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP dies
 |  | |
 |---|---|
 | **Prüffall-ID** | 7540 |
-| **Testziel** | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
+| **Testziel** | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP  ) |
 | **Voraussetzung** |  |
-| **Prüfunterlagen** | Einwilligungserklärung |
+| **Prüfunterlagen** | PDF-Datei |
 | **Hinweis** | Falls Ihr System die optionale Anforderung O7 |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
@@ -908,7 +904,7 @@ Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 | DMP-Fallnummer | 1010 |
 | Datum | 05.04.2023 |
 
-Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP PDF-Datei „TE_EWE_KHK.pdf“ der indikationsübergreifenden Teilnahme - und -10 (Ausdruck des Barcodes auf der indikationsübergreifenden Teilnahme - und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
+(KBV_ITA_VGEX_Anforderungskatalog_eDMP „TE_EWE_KHK.pdf“ der indikationsübergreifenden Teilnahme - und Einwilligungserklärung  -10 (Ausdruck des Barcodes auf der indikationsübergreifenden Teilnahme - und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
 
 ---
 
@@ -1046,7 +1042,7 @@ Federmannssohn Plaetzchen
 |  |  |
 |---|---|
 | **Referenz** | **Dokument** |
-| Austausch_von_XML-Daten_Vn.nn.ZIP 4 | KBV_ITA_VGEX_XML-Schnittstellen - |
+| Austausch_von_XML-Daten_Vn.nn.ZIP4 | KBV_ITA_VGEX_XML-Schnittstellen - |
 | EXT_ITA_AHEX_Anleitung_eDMP_KHK | Ausfüllanleitung zum indikationsspezifischen |
 | EXT_ITA_AHEX_Teilnahme_eDMP_KHK | Erklärung Koronare Herzkrankheit zur Teilnahme an |
 | EXT_ITA_VGEX_Plausi_eDMP_Asthma | Plausibilitätsrichtlinie zur Prüfung der |

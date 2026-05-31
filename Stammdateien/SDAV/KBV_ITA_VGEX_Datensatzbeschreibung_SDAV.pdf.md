@@ -13,7 +13,7 @@
 
 © Kassenärztliche Bundesvereinigung, Berlin 2018
 
-Arztverzeichnis-Stammdatei -Lewin-Platz 2 Datum: Kennzeichnung: Status: 1.08 01.02.2016 Öffentlich In Kraft
+Arztverzeichnis-Stammdatei -Lewin-Platz 2 1.08 Datum: 01.02.2016 Kennzeichnung: Öffentlich Status: In Kraft
 
 ---
 
@@ -248,20 +248,28 @@ Bedingungen geknüpft ist. Sollte jedoch die entsprechende Information vorliegen
 
 ### Vorkommen angegeben, wobei die Angabe n
 
-### Vorkommen
+### Vorkommen) gebunden. Ein bedingtes
 
 ### ) referenzierte Feld existiert.
 
 1.08
 
-) gebunden. Ein bedingtes
-
 
 ---
 
+### k = bedingtes Kannfeld
+
+### Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s.  Spalte Bedingungen) oder an das Auftreten eines referenzierten Feldes auf einer
+
+übergeordneten Hierarchiestufe (s. Spalte *Vorkommen*
+
+### Kannfeld darf in einem Satz vorhanden sein, wenn entweder in der Spalte  ein Eintrag vorhanden und erfüllt ist oder das auf der übergeordneten Hierarchiestufe
+
+(s. Spalte *Vorkommen*) referenzierte Feld existiert.
+
 ### Grundsätzlich ist die Berücksichtigung aller Felder unabhängig von der Feldart zu realisieren.
 
-**2.1 Definition der Satzart: AV**
+**2.1 Definition der Satzart: AV-Headersatz “AVS0”**
 
 | **FK** | **Vorkommen  1    2    3    4** | **Feldbezeichnung** | **Feldart** | **Bedingung** | **Erläuterung** |
 |---|---|---|---|---|---|
@@ -272,9 +280,9 @@ Bedingungen geknüpft ist. Sollte jedoch die entsprechende Information vorliegen
 | 9212 | 1 | Version der Satzbeschreibung M |  |  | Version der |
 | 9222 | 1 | ADT-Referenzversion | M |  | referenzierte ADT- |
 
-**2.2 Definition der Satzart: AV**
+**2.2 Definition der Satzart: AV-Stammsatz “1450”**
 
-| **FK** | **Vorkommen  3** | **Feldbezeichnung** | **Feldart** | **Bedingung** | **Erläuterung** |
+| **FK** | **Vorkommen  1** | **Feldbezeichnung** | **Feldart** | **Bedingung** | **Erläuterung** |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzart | M |  | 1450=AV- |
 | 0201 | 1 | BSNR | M |  | 9-stellige |
@@ -282,36 +290,18 @@ Bedingungen geknüpft ist. Sollte jedoch die entsprechende Information vorliegen
 | 0212 | n | Lebenslange Arztnummer | K |  |  |
 | 9901 | n | Systeminternes Feld | K |  | sollte beim Import |
 
-**2.3 Definition der Satzart: AV**
+**2.3 Definition der Satzart: AV-Endesatz “AVS9”**
 
 | **FK** | **Vorkommen  1    2    3    4** | **Feldbezeichnung** | **Feldart** | **Bedingung** | **Erläuterung** |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzart | M |  | AVS9 = AV- |
 | 9208 | 1 | Gesamtzahl | M |  | Zahl für KV |
 
-### k = bedingtes Kannfeld
-
-### Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s.  Spalte Bedingungen
-
-übergeordneten Hierarchiestufe (s. Spalte
-
-### Kannfeld darf in einem Satz vorhanden sein, wenn entweder in der Spalte  ein Eintrag vorhanden und erfüllt ist oder das auf der übergeordneten Hierarchiestufe (s. Spalte *Vorkommen*
-
-### ) oder an das Auftreten eines referenzierten Feldes auf einer
-
-### ) referenzierte Feld existiert.
-
-## -Headersatz “AVS0”
-
-## -Stammsatz “1450”
-
-## -Endesatz “AVS9”
-
 1.08
 
-### Vorkommen) gebunden. Ein bedingtes
+) gebunden. Ein bedingtes
 
-Headersatz Datei erstellt wurde Gültigkeit der AV- Stammdatei Datensatzbeschrei (LANR) Stammsatz Betriebsstättennu überlesen werden Betriebsstättendatensätze Endesatz /Bezirksstelle bzw. KBV ### Bedingung
+Headersatz Datei erstellt wurde Gültigkeit der AV- Stammdatei Datensatzbeschrei 3 (LANR) Stammsatz Betriebsstättennu überlesen werden Betriebsstättendatensätze Endesatz /Bezirksstelle bzw. KBV ### Bedingung
 
 
 ---
@@ -426,7 +416,7 @@ Regeltabelle 1.08
 |---|---|---|---|
 | 008 | Format | TTMMJJJJ | TT=Tag;MM=Monat; |
 | 016 | Format | QJJJJ | Q=Quartal;JJJJ=Jahr |
-| 031 | Format | [a]aaaMMJJ.nn | [a]aaa = Datenpaketkürzel  MM = Monat, JJ = Jahr  nn = Unterversionsnummer  ≤ |
+| 031 | Format | [a]aaaMMJJ.nn | [a]aaa = Datenpaketkürzel  MM = Monat, JJ = Jahr  nn = Unterversionsnummer  (01 |
 | 049 | Format | kknnnnnmm  mit  kk = erlaubter Inhalt gemäß Regel 162  mm = [undefiniert] |  |
 | 050 | Format | nnnnnnmff  mit  m = Prüfziffer  ff = erlaubter Inhalt gemäß Anlage 35 des    Ersatzwerte: |  |
 | 061 | Format | 35kknnnnn  mit  35 = Krankenhäuser, die Leistungen im  kk = erlaubter Inhalt gemäß Regel 162  nnnnn = Seriennummer | (N)BSNR Terminservicestelle |
@@ -438,7 +428,7 @@ Regeltabelle 1.08
 
 1.08
 
-Hinweise BAR-Schlüsselverzeichnisses „999999900“ Rahmen von § 75 Absatz 1a SGB V erbringen  81, 83, 85-91, 93-96, 98, 99 0200 bzw. des Feldes 0201  = 35, dann gilt für den Inhalt des Feldes 0200 bzw. des Feldes 0201 die Formatregel 061. 0200 bzw. des Feldes 0201 ≠ 35, dann gilt für den Inhalt des Feldes 0200 bzw. des Feldes 0201 die Formatregel 049. mehrfach vorkommen (01  12, 01 (Anlage 28 BMV-Ä) Kennzeichnungszwecke   88)
+Hinweise BAR-Schlüsselverzeichnisses „999999900“ Rahmen von § 75 Absatz 1a SGB V erbringen  81, 83, 85-91, 93-96, 98, 99 0200 bzw. des Feldes 0201  = 35, dann gilt für den Inhalt des Feldes 0200 bzw. des Feldes 0201 die Formatregel 061. 0200 bzw. des Feldes 0201 ≠ 35, dann gilt für den Inhalt des Feldes 0200 bzw. des Feldes 0201 die Formatregel 049. mehrfach vorkommen  12, 01 (Anlage 28 BMV-Ä) Kennzeichnungszwecke   88)
 
 ---
 

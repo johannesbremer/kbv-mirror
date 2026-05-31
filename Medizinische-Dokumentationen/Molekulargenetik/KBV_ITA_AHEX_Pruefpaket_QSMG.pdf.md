@@ -98,7 +98,7 @@ DOKUMENTENHISTORIE
 | 1.11 | 13.03.2018 | KBV | Einreichung des Antrags | Anpassung des | 5ff |
 | 1.10 | 23.05.2017 | KBV | Überarbeitung von    Überarbeitung der | Vereinheitlichung der    Aufgrund der | 5ff      9ff |
 
-Anpassung des Prüffalls Inhalt (Seite 15) Layouts auf Zertifizierung Kapitel 1 Prüffälle gelöscht Corporate Design Zertifizierungsportals Strukturen Aktualisierung der Plausibilität
+Inhalt (Seite 15) Anpassung des Prüffalls gelöscht Layouts Corporate Design auf Zertifizierung Zertifizierungsportals Kapitel 1 Strukturen Aktualisierung der Prüffälle Plausibilität
 
 ---
 
@@ -196,11 +196,9 @@ Die geforderten Videomitschnitte und Screenshots müssen in einem gesonderten Or
 
 durch den Prüfer begutachtet.
 
-1
+_[lfdNr.]2 3
 
-2 3
-
-*PrüffallNr*. _[lfdNr.] .*
+*PrüffallNr* 1
 
 - Alle Prüfunterlagen [Jahresstatistiken und der Ordner „Dokumentation“] sind in einem zip-Archiv zu  übermitteln. Die Dokumentationsunterlagen werden direkt in dem Hauptverzeichnis übertragen und  nicht gesondert in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Das zip Archiv muss wie folgt benannt werden:
 
@@ -475,9 +473,9 @@ NG GEMÄß § 5 NR. 2
 |  |  |
 |---|---|
 | **Prüffall-ID** | 2 |
-| **Testziel** | › |
+| **Testziel** | › › |
 | **Voraussetzung** | Das Dokumentationsdatum ist der 3 |
-| **Prüfunterlagen** | › › |
+| **Prüfunterlagen** | › › › |
 | **Hinweis** | Der Prüffall ist in 8 Fehlerkonstellationen aufgeteilt    Alle nicht vorgegebenen Angaben jeder einzelnen Konstellation sind immer aus der   Anhang 4.1 zu entnehmen |
 
 Aktionen, die durch den Antragsteller durchgeführt werden:

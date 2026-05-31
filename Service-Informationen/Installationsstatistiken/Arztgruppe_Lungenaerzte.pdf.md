@@ -82,106 +82,92 @@ medatixx GmbH & Co. KG
 
 INDAMED EDV-Entwicklung und Vertrieb GmbH 1
 
-**Installationen 2.Q.2025**
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
 7
 
-5
-
-4
-
-4
-
-3
-
-3
-
-2
-
-2
-
-2
-
-1
-
-1
-
-1
-
-**Installationen 1.Q.2025**
-
 7
 
+0
+
 5
 
-3
+5
+
+0
 
 4
 
 3
 
+1
+
+4
+
+4
+
+0
+
 3
 
+3
+
+0
+
+3
+
+3
+
+0
+
 2
 
 2
 
+0
+
 2
 
+2
+
+0
+
+2
+
+2
+
+0
+
 1
 
 1
 
+0
+
 1
-
-**Differenz**
-
-0
-
-0
 
 1
 
 0
 
-0
+1
 
-0
-
-0
-
-0
-
-0
-
-0
-
-0
+1
 
 0
 
 
 ---
 
-**Id**
+**Id Praxissoftware**
 
-266
+266 **x.comfort**
 
-030
+030 **Praxis-Programm**
 
-023
+023 **DATA VITAL**
 
-261
-
-**Praxissoftware**
-
-**x.comfort**
-
-**Praxis-Programm**
-
-**DATA VITAL**
-
-**S 3-Win**
+261 **S 3-Win**
 
 **Anbieter**
 
@@ -193,32 +179,28 @@ CompuGroup Medical Deutschland AG
 
 S 3 Praxiscomputer GmbH / Maximilian Flender 2
 
-**Installationen 2.Q.2025**
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
 1
 
 1
-
-1
-
-1
-
-**Installationen 1.Q.2025**
-
-1
-
-1
-
-1
-
-1
-
-**Differenz**
 
 0
 
-0
+1
+
+1
 
 0
+
+1
+
+1
+
+0
+
+1
+
+1
 
 0

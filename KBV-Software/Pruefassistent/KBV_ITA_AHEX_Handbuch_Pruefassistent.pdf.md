@@ -308,7 +308,7 @@ KBV-Prüfassistent Handbuch
 |---|---|
 | Nach kurzer Zeit sehen Sie den  Drücken Sie auf    Nach kurzer Zeit ist der Vorgang | Drücken Sie auf |
 
-Installationsassistent der Sie durch den Updatevorgang begleitet. den Vorgang fortzusetzen. abgeschlossen.  um den Installationsassistenten beenden. um 3 Installation auf Nicht-Windows- 3.1 Vorbereitung der Installation Starten Sie die Installation durch folgenden Aufruf im Befehlsfenster: java -- jar KBV Pruefassistent_V202a.b.c.jar Systemen
+Installationsassistent der Sie durch den Updatevorgang begleitet. um den Vorgang fortzusetzen. abgeschlossen.  um den Installationsassistenten beenden. 3 Installation auf Nicht-Windows- 3.1 Vorbereitung der Installation Starten Sie die Installation durch folgenden Aufruf im Befehlsfenster: java -- jar KBV Pruefassistent_V202a.b.c.jar Systemen
 
 ---
 
@@ -357,7 +357,7 @@ KBV-Prüfassistent Handbuch
 | Starten Sie das Programm, wie |  |
 |---|---|
 | 1) Informationsbereich | Hier sehen Sie den nächsten Arbeitsschritt |
-| 2) Eingabefeld |  |
+| 2) Eingabefeld | Hier finden Sie die Pfadangabe zu Ihrer Abrechnungsdatei und deren Name |
 | 3) Button zum Öffnen | Hiermit kommen Sie in den „Öffnen |
 | 4) KBV-Prüfnummer: | Hier erscheint die KBV |
 | Abrechnung von: | Das Datum der Abrechnung |
@@ -366,10 +366,10 @@ KBV-Prüfassistent Handbuch
 
 **4.2 Abrechnungsdatei bestimmen**
 
-|  | UHinweisU Sollten Sie keine genaue Kenntnis über den Speicherort Ihrer Abrechnungsdateien haben, schlagen |
+|  | Sollten Sie keine genaue Kenntnis über den Speicherort Ihrer Abrechnungsdateien haben, schlagen |
 |---|---|
 
-oben beschrieben. Nach kurzer Zeit  erscheint die graphische Oberfläche mit folgendem Aufbau  Pfad zur Ab- rechnungsdatei -Dialog Hier finden Sie die Pfadangabe zu Ihrer Abrechnungsdatei und deren Name -Dialog“ -Prüfnummer Ihrer Abrechnungsdatei Sie bitte im Anwenderhandbuch Ihres Praxisverwaltungssystems Softwarehaus. nach oder wenden Sie sich an Ihr
+oben beschrieben. Nach kurzer Zeit  erscheint die graphische Oberfläche mit folgendem Aufbau  Pfad zur Ab- -Dialog -Dialog“ -Prüfnummer Ihrer Abrechnungsdatei UHinweisU Sie bitte im Anwenderhandbuch Ihres Praxisverwaltungssystems Softwarehaus. nach oder wenden Sie sich an Ihr
 
 ---
 
@@ -507,12 +507,12 @@ Legen Sie dann eine weitere leere Diskette ein. Mit einem Klick auf
 
 Wenn Sie die Abrechnungsdatei auf Ihrer Festplatte speichern, entfällt dieser Dialog und die Verschlüsselung wird
 
+gestartet.
+
 direkt, mit einem Klick auf
 
 |  | UACHTUNGU BITTE BETÄTIGEN SIE WÄHREND DES VERSCHLÜSSELUNGSVORGANGS WEDER DIE MAUS |
 |---|---|
-
-gestartet.
 
 leere Diskette in das Diskettenlaufwerk. Drücken
 

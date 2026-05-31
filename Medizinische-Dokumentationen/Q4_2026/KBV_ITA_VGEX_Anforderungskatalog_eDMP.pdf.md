@@ -217,7 +217,8 @@ DOKUMENTENHISTORIE
 |  |  | 18 |  |  | 24 |
 |  | 40 |  |  | 50 | Die Änderungen vom 13.02.2026 (Version 2.49) treten zum |
 
-01.10.2026 Erwachsene und eDMP Adipositas Kinder und Jugendliche Änderungen KHK, DM1, DM2  210 und O1-46 durch Änderungen DM1 und DM2 Anforderungen: Anforderungen:  in Kraft. KHK, DM1, DM2 Übertragungsweg Plausibilitäten Herzinsuffizienz  Anpassungen für die Vereinheitlichung der
+01.10.2026  in Kraft. Erwachsene und eDMP Adipositas Kinder und Jugendliche Änderungen KHK, DM1, DM2  KHK, DM1, DM2 210 und O1-46 durch Änderungen DM1 und DM2 Übertragungsweg Plausibilitäten Anforderungen: Herzinsuffizienz  Anpassungen für die Vereinheitlichung der Anforderungen:
+
 
 ---
 
@@ -242,7 +243,7 @@ DOKUMENTENHISTORIE
 |  |  |  |  | 12, 13, | 14, 15, |
 | 16, 17, |  |  | 17, 15, |  |  |
 
-berücksichtigenden Anforderung aus KVDT (Abschnitt 2.2) Änderungen 210 und KP2-210 KP2-220 Korrektur der Verlinkung Anpassungen Parametererläuterung Asthma einzelne Anforderungen Parametererläuterung Parametererläuterung KHK
+Parametererläuterung Asthma berücksichtigenden Anforderung aus KVDT (Abschnitt 2.2) Änderungen einzelne Anforderungen 210 und KP2-210 KP2-220 Parametererläuterung Parametererläuterung KHK Korrektur der Verlinkung Anpassungen
 
 ---
 
@@ -268,6 +269,7 @@ berücksichtigenden Anforderung aus KVDT (Abschnitt 2.2) Änderungen 210 und KP2
 | 2.36 | 13.11.2020 | KBV | Fehlerkorrektur der |  | 71 |
 
 eindeutigen Ident- Nummern, Vereinheitlichung von 72 Arthritis auf der übergreifenden Teilnahmeerklärung 20 und K6-21 -76 Akzeptanzkriterium 2 und der Archivbezeichnungen des eDMP Depression Archivbezeichnungen
+
 
 ---
 
@@ -377,7 +379,7 @@ PHQ-9  26 28
 
 37
 
-Erfassung von 38
+38
 
 38
 
@@ -391,7 +393,7 @@ Erfassung von 38
 
 65
 
-68
+Erfassung von 68
 
 69
 
@@ -404,9 +406,9 @@ Erfassung von 38
 
 ## 1.1 ZIELBESTIMMUNG
 
-Dieser Anforderungskatalog gilt für Software, welche im Rahmen der indikationsübergreifenden  1
+Dieser Anforderungskatalog gilt für Software, welche im Rahmen der indikationsübergreifenden  (eDMP) eingesetzt wird.
 
-elektronischen Dokumentation (eDMP) eingesetzt wird.
+elektronischen Dokumentation1
 
 Die Anwender sollen durch das Softwareprodukt in die Lage versetzt werden,
 
@@ -1383,9 +1385,9 @@ Der Anwender soll bei der Umsetzung der Anforderungen der Richtlinie unterstütz
 
 | **Schweregrad** | Belastungstoleranz |
 |---|---|
-| CCS 4 | geringster körperlicher Belastung |
+| CCS 4 | Ruhebeschwerden oder Beschwerden bei |
 | CCS 3 | Angina pectoris bei leichter körperlicher Belastung |
-| CCS 2 | (schnelles Laufen, Bergaufgehen, Treppensteigen |
+| CCS 2 | Angina pectoris bei stärkerer Anstrengung |
 | CCS 1 | Keine Angina pectoris |
 
 Tabelle 3 : Schweregradeinteilung der stabilen Angina pectoris nach der Canadian Cardiovascular Soiciety (CCS)
@@ -1394,7 +1396,7 @@ Quelle: Bundesärztekammer (BÄK), Kassenärztliche Bundesvereinigung (KBV), Arb
 
 - Anwender die folgende Tabelle
 
-Ruhebeschwerden oder Beschwerden bei (normales Gehen, Ankleiden) Angina pectoris bei stärkerer Anstrengung nach dem Essen, bei Kälte, Wind oder psychischer Belastung)  bei Alltagsbelastung (Laufen, Treppensteigen), jedoch bei plötzlicher oder längerer physischer Belastung
+geringster körperlicher Belastung (normales Gehen, Ankleiden) (schnelles Laufen, Bergaufgehen, Treppensteigen nach dem Essen, bei Kälte, Wind oder psychischer Belastung)  bei Alltagsbelastung (Laufen, Treppensteigen), jedoch bei plötzlicher oder längerer physischer Belastung
 
 ---
 
@@ -1464,10 +1466,10 @@ Der Anwender soll bei der richtlinienkonformen Befüllung der Dokumentation unte
 | **Aktueller Wert im  Symptomatik – PHQ-9 Summenwert“** | Anzuzeigender Text |
 |---|---|
 | 0 – 4 | „Aktueller PHQ-9-Wert: Keine Symptomatik“ |
-| 5 – 9 | Symptomausprägung“ |
-| 10 – 14 | Symptomausprägung“ |
-| 15 – 19 | Symptomausprägung“ |
-| 20 – 27 | Symptomausprägung“ |
+| 5 – 9 | „Aktueller PHQ-9-Wert: Leichte |
+| 10 – 14 | „Aktueller PHQ-9-Wert: Mittelgradige |
+| 15 – 19 | „Aktueller PHQ-9-Wert: Schwere |
+| 20 – 27 | „Aktueller PHQ-9-Wert: Schwerste |
 
 Tabelle 5: Nähere Parameter-Erläuterungen Erstdokumentation Depression (Aktuelle Symptomatik – PHQ-9 Summenwert)
 
@@ -1475,7 +1477,7 @@ Tabelle 5: Nähere Parameter-Erläuterungen Erstdokumentation Depression (Aktuel
 
 - vorhergehenden verfügbaren Dokumentation berechnen.
 
-ܑ۲܎܎܍ܚ܍ܖܢ
+⁦ܑ⁩۲܎܎܍⁦ܚ܍ܖܢ⁩
 
 - 3. Falls eine Folgedokumentation erstellt wird, muss dem Anwender nach der Erfassung des Parameters  „Aktuelle Symptomatik – PHQ-9 Summenwert“ in Abhängigkeit vom aktuellen Wert und vom
 
@@ -1483,15 +1485,15 @@ Tabelle 5: Nähere Parameter-Erläuterungen Erstdokumentation Depression (Aktuel
 
 ܅𝐖𝐖𝐖𝐖ܜ ܞܗ𝐯𝐯ܐ𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯܏𝐯𝐯ܐ𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯܌𝐯𝐯 ܅𝐖𝐖𝐖𝐖ܜ -
 
-ܞ𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯ü𝐠𝐠܊܉𝐠𝐠𝐠𝐠 ۲𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܑ𝐃𝐃ܖ
+⁦ܞ𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯ü𝐠𝐠܊܉𝐠𝐠𝐠𝐠 ⁩۲⁦𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܑ𝐃𝐃ܖ⁩
 
-𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 ܔܔ𝐚𝐚 ۲𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܑ𝐃𝐃ܖ
+𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 ܔܔ𝐚𝐚 ⁧۲⁩𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܑ𝐃𝐃ܖ
 
-Parameter „Aktuelle „Aktueller PHQ-9-Wert: Leichte „Aktueller PHQ-9-Wert: Mittelgradige „Aktueller PHQ-9-Wert: Schwere „Aktueller PHQ-9-Wert: Schwerste
+Parameter „Aktuelle Symptomausprägung“ Symptomausprägung“ Symptomausprägung“ Symptomausprägung“
 
 ---
 
-| **Wert der aktuellen  Dokumentation** | **Differenzwert (Wert der  vorhergehenden  Dokumentation minus Wert  der aktuellen ** | Anzuzeigender Text |
+| **Wert der aktuellen  Dokumentation** | **Differenzwert (Wert der  vorhergehenden  Dokumentation minus Wert  der aktuellen  Dokumentation)** | Anzuzeigender Text |
 |---|---|---|
 | 0 – 4 | >= 5 | „Aktueller PHQ-9-Wert: Keine Symptomatik. |
 | 0 – 4 | > -5 bis < 5 | „Aktueller PHQ-9-Wert: Keine Symptomatik. |
@@ -1510,15 +1512,15 @@ Parameter „Aktuelle „Aktueller PHQ-9-Wert: Leichte „Aktueller PHQ-9-Wert: 
 | 0 – 4 | > -5 bis < 5 | „Aktueller PHQ-9-Wert: Keine Symptomatik. |
 | 0 – 4 | <= -5 | „Aktueller PHQ-9-Wert: Keine Symptomatik. |
 
-Dokumentation) Relevante Verbesserung zur letzten Dokumentation“ Keine relevante Veränderung zur letzten Dokumentation“ Relevante Verschlechterung zur letzten Dokumentation“ Symptomausprägung. Relevante Verbesserung zur letzten Dokumentation“ Symptomausprägung. Keine relevante Veränderung zur letzten Dokumentation“ Symptomausprägung. Relevante Verschlechterung zur letzten Dokumentation“ Symptomausprägung. Relevante Verbesserung zur letzten Dokumentation“ Symptomausprägung. Keine relevante Veränderung zur letzten Dokumentation“ Symptomausprägung. Relevante Verschlechterung zur letzten Dokumentation“ Symptomausprägung. Relevante Verbesserung zur letzten Dokumentation“ Symptomausprägung. Keine relevante Veränderung zur letzten Dokumentation“ Symptomausprägung. Relevante Verschlechterung zur letzten Dokumentation“
+Relevante Verbesserung zur letzten Dokumentation“ Keine relevante Veränderung zur letzten Dokumentation“ Relevante Verschlechterung zur letzten Dokumentation“ Symptomausprägung. Relevante Verbesserung zur letzten Dokumentation“ Symptomausprägung. Keine relevante Veränderung zur letzten Dokumentation“ Symptomausprägung. Relevante Verschlechterung zur letzten Dokumentation“ Symptomausprägung. Relevante Verbesserung zur letzten Dokumentation“ Symptomausprägung. Keine relevante Veränderung zur letzten Dokumentation“ Symptomausprägung. Relevante Verschlechterung zur letzten Dokumentation“ Symptomausprägung. Relevante Verbesserung zur letzten Dokumentation“ Symptomausprägung. Keine relevante Veränderung zur letzten Dokumentation“ Symptomausprägung. Relevante Verschlechterung zur letzten Dokumentation“
 
 ---
 
 | >=2,6 bis < 3,2 | „Aktuell niedrige Krankheitsaktivität“ >=3,2 bis | Anzuzeigender Text |
 |---|---|---|
-| 20 – 27 | >= 5 | Symptomausprägung. Relevante |
-| 20 – 27 | > -5 bis < 5 | Symptomausprägung. Keine relevante |
-| 20 – 27 | <= -5 | Symptomausprägung. Relevante |
+| 20 – 27 | >= 5 | „Aktueller PHQ-9-Wert: Schwerste |
+| 20 – 27 | > -5 bis < 5 | „Aktueller PHQ-9-Wert: Schwerste |
+| 20 – 27 | <= -5 | „Aktueller PHQ-9-Wert: Schwerste |
 | **Bedingung** |  |  |
 |  |  |  |
 |  |  |  |
@@ -1529,9 +1531,9 @@ Dokumentation) Relevante Verbesserung zur letzten Dokumentation“ Keine relevan
 |  |  | **Anzuzeigender Text** |
 |  |  | „Aktuell in Remission” |
 | **Wert der aktuellen  Dokumentation** | **Differenzwert (Wert der  vorhergehenden  Dokumentation minus Wert  der aktuellen  Dokumentation)** | Anzuzeigender Text |
-| 20 – 27 | >= 5 | Symptomausprägung. Relevante |
-| 20 – 27 | > -5 bis < 5 | Symptomausprägung. Keine relevante |
-| 20 – 27 | <= -5 | Symptomausprägung. Relevante |
+| 20 – 27 | >= 5 | „Aktueller PHQ-9-Wert: Schwerste |
+| 20 – 27 | > -5 bis < 5 | „Aktueller PHQ-9-Wert: Schwerste |
+| 20 – 27 | <= -5 | „Aktueller PHQ-9-Wert: Schwerste |
 
 | **Aktueller Wert im Parameter „Aktuelle  Krankheitsaktivität - DAS-28-Wert“** | **Anzuzeigender Text** |
 |---|---|
@@ -1545,7 +1547,7 @@ Tabelle 7: Nähere Parameter-Erläuterungen Erstdokumentation Rheumatoide Arthri
 
 - vorhergehenden verfügbaren Dokumentation berechnen.
 
-„Aktueller PHQ-9-Wert: Schwerste Verbesserung zur letzten Dokumentation“ „Aktueller PHQ-9-Wert: Schwerste Veränderung zur letzten Dokumentation“ „Aktueller PHQ-9-Wert: Schwerste Verschlechterung zur letzten Dokumentation“ Tabelle 6: Nähere Parameter-Erläuterungen Folgedokumentation Depression (Aktuelle Symptomatik – PHQ-9 Summenwert) Die Anforderung muss von allen Systemen umgesetzt werden, welche das eDMP Depression unterstützen. KONDITIONALE PFLICHTFUNKTION EDMP KP2-01 Nähere Parameter-Erläuterungen bei dem eDMP Rheumatoide Arthritis  Parametern nähere Erläuterungen zur Verfügung gestellt werden. Begründung:  Der Anwender soll bei der richtlinienkonformen Befüllung der Dokumentation unterstützt werden. 1. Bei jeder Erstdokumentation muss das System dem Anwender nach der Erfassung des Parameters „Aktuelle Krankheitsaktivität – DAS-28-Wert“ einen Hinweistext anzeigen, ohne den Workflow zu unterbrechen. Der Inhalt des Hinweistexts hängt vom eingegebenen Parame terwert ab: Aktueller Wert im Parameter „Aktuelle Krankheitsaktivität - DAS-28-Wert“  < 2,6 <=5,1 „Aktuell moderate Krankheitsaktivität“ „Aktuell hohe Krankheitsaktivität“
+Symptomausprägung. Relevante Verbesserung zur letzten Dokumentation“ Symptomausprägung. Keine relevante Veränderung zur letzten Dokumentation“ Symptomausprägung. Relevante Verschlechterung zur letzten Dokumentation“ Tabelle 6: Nähere Parameter-Erläuterungen Folgedokumentation Depression (Aktuelle Symptomatik – PHQ-9 Summenwert) Die Anforderung muss von allen Systemen umgesetzt werden, welche das eDMP Depression unterstützen. KONDITIONALE PFLICHTFUNKTION EDMP KP2-01 Nähere Parameter-Erläuterungen bei dem eDMP Rheumatoide Arthritis  Parametern nähere Erläuterungen zur Verfügung gestellt werden. Begründung:  Der Anwender soll bei der richtlinienkonformen Befüllung der Dokumentation unterstützt werden. 1. Bei jeder Erstdokumentation muss das System dem Anwender nach der Erfassung des Parameters „Aktuelle Krankheitsaktivität – DAS-28-Wert“ einen Hinweistext anzeigen, ohne den Workflow zu unterbrechen. Der Inhalt des Hinweistexts hängt vom eingegebenen Parame terwert ab: Aktueller Wert im Parameter „Aktuelle Krankheitsaktivität - DAS-28-Wert“  < 2,6 <=5,1 „Aktuell moderate Krankheitsaktivität“ „Aktuell hohe Krankheitsaktivität“
 
 | **KONDITIONALE PFLICHTFUNKTION EDMP** |  |
 |---|---|
@@ -1554,7 +1556,7 @@ Tabelle 7: Nähere Parameter-Erläuterungen Erstdokumentation Rheumatoide Arthri
 
 ---
 
-ܢܖ܍ܚ܍܎܎ܑ۲
+⁦ܢܖ܍ܚ܍܎܎ܑ⁩۲
 
 - **3.** Falls eine Folgedokumentation erstellt wird, muss das System dem Anwender nach der Erfassung des  Parameters „Aktuelle Krankheitsaktivität – DAS-28-Wert“ einen Hinweistext anzeigen, ohne den  Workflow zu unterbrechen. Der Inhalt des Hinweistexts hängt vom aktuellen Parameterwert und vom  berechneten Differenzwert ab:
 
@@ -1607,9 +1609,9 @@ Das System muss sicherstellen, dass dem Anwender bei dem eDMP Herzinsuffizienz z
 
 <= 1,2
 
-ܞ𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯ü𝐠𝐠܊܉𝐠𝐠𝐠𝐠 ۲𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܑ𝐃𝐃ܖ
+⁦ܞ𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯ü𝐠𝐠܊܉𝐠𝐠𝐠𝐠 ⁩۲⁦𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܑ𝐃𝐃ܖ⁩
 
-۲𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܑ𝐃𝐃ܖ
+⁧۲⁩𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܑ𝐃𝐃ܖ
 
 „Aktuell in Remission“
 
@@ -1646,9 +1648,9 @@ Tabelle 9: NYHA-Klassifikation bei Herzinsuffizienz (nach Leistungsfähigkeit)
 
 Aus: Bundesärztekammer (BÄK), Kassenärztliche Bundesvereinigung (KBV), Arbeitsgemeinschaft der Wissenschaftlichen  Medizinischen Fachgesellschaften (AWMF). Nationale VersorgungsLeitlinie Chronische Herzinsuffizienz, Langfassung, Version  4, 2023
 
-- 2. Bei der Auswahl des Parameters „Evidenzbasierte Zieldosis“ muss dem Anwender ermöglicht werden,
+- 2. Bei der Auswahl des Parameters „Evidenzbasierte Zieldosis“  sich die entsprechende Ausfüllanleitung zu dem Parameter anzeigen zu lassen. Dabei soll bei dem  Parameter „ACE-Hemmer oder ARB“ die folgende Tabelle zur Anzeige gebracht werden, ohne den  Workflow zu unterbrechen:
 
-- sich die entsprechende Ausfüllanleitung zu dem Parameter anzeigen zu lassen. Dabei soll bei dem  Parameter „ACE-Hemmer oder ARB“ die folgende Tabelle zur Anzeige gebracht werden, ohne den  Workflow zu unterbrechen:
+- muss dem Anwender ermöglicht werden,
 
 NYHA I  (asymptomatisch)
 
@@ -1796,9 +1798,9 @@ Der Anwender soll bei der richtlinienkonformen Befüllung der Dokumentation unte
 
 -  Das System muss den folgenden Text als Hinweis zur Anzeige bringen, ohne den Workflow zu - unterbrechen:
 
-*„Aktueller BMI = [BMI] kg/m “*
+*„Aktueller BMI = [BMI] kg/m*
 
-ܢܖ܍ܚ܍܎܎ܑ۲𝐃𝐃܍ܚ𝐃𝐃
+⁦ܢܖ܍ܚ܍܎܎ܑ⁩۲⁦𝐃𝐃܍ܚ𝐃𝐃⁩
 
 - a) Das System muss einen Hinweistext zur Anzeige bringen, ohne den Workflow zu unterbrechen. Der  Inhalt des Hinweistexts hängt von dem berechneten Differenzwert ab:
 
@@ -1826,13 +1828,13 @@ Tabelle 13: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Erw
 
 - **Tabelle 22**) den Body-Mass-Index (BMI) berechnen.
 
-۹ö𝐫𝐫ܘ𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 ܟ𝐫𝐫܋𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 𝐤𝐤𝐤𝐤
+⁧۹⁩ö𝐫𝐫ܘ𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 ܟ𝐫𝐫܋𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 𝐤𝐤𝐤𝐤
 
-۹𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 ö𝐫𝐫ܘ𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 öß𝐞𝐞 𝐦𝐦)²
+⁧۹⁩𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 ö𝐫𝐫ܘ𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 öß𝐞𝐞 𝐦𝐦)²
 
-ܔܔ𝐚𝐚 ۲𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܑ𝐃𝐃ܖ
+⁦ܔܔ𝐚𝐚 ⁩۲⁦𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܑ𝐃𝐃ܖ⁩
 
-܏𝐯𝐯ܐ𝐯𝐯𝐯𝐯 ܌𝐯𝐯 ܞ𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯ü𝐠𝐠܊܉𝐠𝐠𝐠𝐠𝐠𝐠𝐠𝐠 ۲𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܑ𝐃𝐃ܖ
+⁦܏𝐯𝐯ܐ𝐯𝐯𝐯𝐯 ܌𝐯𝐯 ܞ𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯ü𝐠𝐠܊܉𝐠𝐠𝐠𝐠𝐠𝐠𝐠𝐠 ⁩۲⁦𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܑ𝐃𝐃ܖ⁩
 
 Anzuzeigender Text
 
@@ -1845,9 +1847,9 @@ Anzuzeigender Text
 
 ---
 
-ܢܖ܍ܚ܍܎܎ܑ۲𝐃𝐃܍ܚ𝐃𝐃
+⁦ܢܖ܍ܚ܍܎܎ܑ⁩۲⁦𝐃𝐃܍ܚ𝐃𝐃⁩
 
-ܢܖ܍ܚ܍܎܎ܑ۲𝐃𝐃܍ܚ𝐃𝐃
+⁦ܢܖ܍ܚ܍܎܎ܑ⁩۲⁦𝐃𝐃܍ܚ𝐃𝐃⁩
 
 - a) Das System muss einen Hinweistext zur Anzeige bringen, ohne den Workflow zu unterbrechen. Der
 
@@ -1883,11 +1885,11 @@ Tabelle 15: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Erw
 
 𝐢𝐢𝐢𝐢 % =
 
-𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 ܔܔ𝐚𝐚 ۲𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܑ𝐃𝐃ܖ ܅𝐖𝐖𝐖𝐖ܜ 𝐚𝐚𝐚𝐚𝐝𝐝𝐝𝐝𝐝𝐝 ܛ
+𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 ܔܔ𝐚𝐚 ⁧۲⁩𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܑ𝐃𝐃ܖ ܅𝐖𝐖𝐖𝐖ܜ 𝐚𝐚𝐚𝐚𝐝𝐝𝐝𝐝𝐝𝐝 ܛ
 
-𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 ܔܔ𝐚𝐚 ۲𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܑ𝐃𝐃ܖ − ܅𝐖𝐖𝐖𝐖ܜ 𝐚𝐚𝐚𝐚𝐝𝐝𝐝𝐝𝐝𝐝 ܛ
+𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 ܔܔ𝐚𝐚 ⁧۲⁩𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܑ𝐃𝐃ܖ − ܅𝐖𝐖𝐖𝐖ܜ 𝐚𝐚𝐚𝐚𝐝𝐝𝐝𝐝𝐝𝐝 ܛ
 
-܅𝐖𝐖𝐖𝐖ܜ 𝐚𝐚𝐚𝐚𝐝𝐝𝐝𝐝𝐝𝐝 ܛ 𝐝𝐝𝐝𝐝𝐝𝐝 ۳𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄
+⁦܅𝐖𝐖𝐖𝐖ܜ 𝐚𝐚𝐚𝐚𝐝𝐝𝐝𝐝𝐝𝐝 ܛ 𝐝𝐝𝐝𝐝𝐝𝐝 ⁩۳⁦𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄⁩
 
 Anzuzeigender Text
 
@@ -1897,9 +1899,9 @@ Anzuzeigender Text
 
 *„Differenz zwischen dem aktuellen Körpergewicht und dem*  *Körpergewicht der Erstdokumentation: [Differenzwert] kg*  *([Differenzwert in %] %) (Keine Gewichtszunahme)“*
 
-𝐝𝐝𝐝𝐝𝐝𝐝 ۳𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄
+𝐝𝐝𝐝𝐝𝐝𝐝 ⁧۳⁩𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄
 
-𝐝𝐝𝐝𝐝𝐝𝐝 ۳𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄
+𝐝𝐝𝐝𝐝𝐝𝐝 ⁧۳⁩𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄
 
 ∗૚૙૙
 
@@ -1926,7 +1928,7 @@ Der Anwender soll bei der richtlinienkonformen Befüllung der Dokumentation unte
 
 - 1. Das System muss in jeder Dokumentation nach Angabe der Parameter „Körpergewicht“ und  „Körpergröße“ den Standard Deviation Score (BMI-SDS) nach der folgenden Formel berechnen:
 
-۷ۻ۰ ܁𝐒𝐒܁
+۷ۻ۰ ܁⁦𝐒𝐒܁⁩
 
 - a) Das System muss den Wert des berechneten BMI-SDS in den Parameter „BMI-SDS“ der aktuellen  Dokumentation übernehmen.
 
@@ -1952,15 +1954,15 @@ Für die verwendeten Parameter gilt:
 
 - **Tabelle 17 (männlich)** oder **Tabelle 18 (weiblich oder divers),**
 
-ۺ 𝐭𝐭
+ۺ ⁦𝐭𝐭⁩
 
-۷ۻ۰ 𝐌𝐌 𝐭𝐭
+۷ۻ۰ ⁦𝐌𝐌 𝐭𝐭⁩
 
-ۺ 𝐭𝐭) × 𝐭𝐭 - Kinder und Jugendliche zu
+ۺ ⁦𝐭𝐭) × 𝐭𝐭 - Kinder und Jugendliche zu⁩
 
-۹ö𝐫𝐫ܘ𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 ܟ𝐫𝐫܋𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 𝐤𝐤𝐤𝐤
+⁧۹⁩ö𝐫𝐫ܘ𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 ܟ𝐫𝐫܋𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 𝐤𝐤𝐤𝐤
 
-۹ö𝐫𝐫ܘ𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 öß𝐞𝐞 𝐦𝐦
+⁧۹⁩ö𝐫𝐫ܘ𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 öß𝐞𝐞 𝐦𝐦
 
 - erden aus den geschlechtsspezifischen Tabellen -  entnommen. Dafür muss zunächst das
 
@@ -2176,7 +2178,7 @@ Tabelle 18: L-, S- und M-Werte von Mädchen und divers für den BMI-SDS-Wert in 
 
 - 2. Das System muss in jeder Folgedokumentation  Dokumentation zum Wert des BMI-SDS aus der vorhergehenden verfügbaren Dokumentation nach der - folgenden Formel berechnen
 
-ܢܖ܍ܚ܍܎܎ܑ۲𝐃𝐃܍ܚ𝐃𝐃
+⁦ܢܖ܍ܚ܍܎܎ܑ⁩۲⁦𝐃𝐃܍ܚ𝐃𝐃⁩
 
 - a) Das System muss einen Hinweistext zur Anzeige bringen, ohne den Workflow zu unterbrechen. Der  Inhalt des Hinweistexts hängt von dem berechneten Differenzwert ab:
 
@@ -2184,7 +2186,7 @@ Tabelle 18: L-, S- und M-Werte von Mädchen und divers für den BMI-SDS-Wert in 
 |---|---|
 | > 0 | *„Differenz zwischen dem aktuellen BMI-SDS und  dem BMI-SDS der letzten verfügbaren  Dokumentation: +[Differenzwert]  (Gewichtszunahme)“* |
 | > -0,20 bis <= 0 | *„Differenz zwischen dem aktuellen BMI-SDS und  dem BMI-SDS der letzten verfügbaren  Dokumentation: [Differenzwert]  (Gewichtsstabilisierung)“* |
-| <= -0,20 | *„Differenz zwischen dem aktuellen BMI-SDS und  dem BMI-SDS der letzten verfügbaren  Dokumentation: [Differenzwert] (Klinische* |
+| <= -0,20 | *„Differenz zwischen dem aktuellen BMI-SDS und  dem BMI-SDS der letzten verfügbaren  Dokumentation: [Differenzwert] (Klinische  relevante Gewichtsabnahme, guter* |
 
 Tabelle 19: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Kinder und Jugendliche (BMI-SDS im  Vergleich zur vorherigen Dokumentation)
 
@@ -2192,7 +2194,7 @@ Tabelle 19: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Kin
 
 - 3. Das System muss in jeder Folgedokumentation die Differenz des Wertes des BMI Dokumentation zum Wert des BMI berechnen, sofern die Erstdokumentation im System vorliegt.
 
-ܢܖ܍ܚ܍܎܎ܑ۲𝐃𝐃܍ܚ𝐃𝐃 𝐖𝐖𝐖𝐖 ܅𝐖𝐖𝐖𝐖ܜ 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚
+⁦ܢܖ܍ܚ܍܎܎ܑ⁩۲⁦𝐃𝐃܍ܚ𝐃𝐃 𝐖𝐖𝐖𝐖 ܅𝐖𝐖𝐖𝐖ܜ 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚⁩
 
 - a) Das System muss einen Hinweistext zur Anzeige bringen, ohne den Workflow zu unterbrechen. Der  Inhalt des Hinweistexts hängt von dem berechneten Differenzwert ab:
 
@@ -2208,21 +2210,21 @@ Tabelle 19: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Kin
 
 - -SDS aus der Erstdokumentation
 
-ܔܔ𝐚𝐚 ۲𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃
+⁦ܔܔ𝐚𝐚 ⁩۲⁦𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃⁩
 
 - die Differenz des Wertes BMI-SDS in der aktuellen
 
-𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 ܔܔ𝐚𝐚 ۲𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܑ𝐃𝐃ܖ
+𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 ܔܔ𝐚𝐚 ⁧۲⁩𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܑ𝐃𝐃ܖ
 
-ܞ𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯 ü𝐠𝐠܊܉𝐠𝐠𝐠𝐠𝐠𝐠𝐠𝐠 ۲𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܑ𝐃𝐃ܖ - -SDS aus der aktuellen
+⁦ܞ𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯𝐯 ü𝐠𝐠܊܉𝐠𝐠𝐠𝐠𝐠𝐠𝐠𝐠 ⁩۲⁦𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܑ𝐃𝐃ܖ - -SDS aus der aktuellen⁩
 
 - nach der folgenden Formel
 
 -
 
-ܑ𝐃𝐃ܖ ܅𝐖𝐖𝐖𝐖ܜ 𝐚𝐚𝐚𝐚𝐝𝐝𝐝𝐝𝐝𝐝 ܛ 𝐝𝐝𝐝𝐝𝐝𝐝 ۳𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄
+ܑ𝐃𝐃ܖ ܅𝐖𝐖𝐖𝐖ܜ 𝐚𝐚𝐚𝐚𝐝𝐝𝐝𝐝𝐝𝐝 ܛ 𝐝𝐝𝐝𝐝𝐝𝐝 ⁧۳⁩𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄
 
-relevante Gewichtsabnahme, guter Erfolg)“
+Erfolg)“
 
 ---
 
@@ -2480,7 +2482,7 @@ Sympathomimetika Sympathomimetika ausschließlich folgenden Parametern: Thromboz
 | 2 |  | › |
 |---|---|---|
 |  |  | COPD |
-| 2**Indikation  OPTIONALE FUNKTION EDMP**  **O 1-51** |  | Aktuelle DMARD-Therapie |
+| 2 **Indikation  OPTIONALE FUNKTION EDMP**  **O 1-51** |  | Aktuelle DMARD-Therapie |
 | Tabelle 22: relevante Parameter mit Art der Quittierung | Datenübernahme aus dem PVS |  |
 |  | Übernahmerelevanter Parameter | Quittierung |
 | Asthma  Sonstige asthmaspezifische  › › |  |  |
@@ -2510,7 +2512,7 @@ Sympathomimetika Sympathomimetika ausschließlich folgenden Parametern: Thromboz
 
 Die Software kann eine automatisierte Übernahme von Parametern aus dem PVS unterstützen, falls durch eine Dateneingabe (z. B. Beleglesung, Digitalisierbrett, Tastatur, Scanner).  Eine Quittierung hat immer zu erfolgen, auch wenn es sich um tagesaktuelle Werte handelt.  Praxisverwaltungssystem Medikation Sympathomimetika und/oder Sympathomimetika  des Anwenders in das eDMP übernommen werden. Dies gilt für alle Formen der ausschließlich folgenden Parametern:  Inhalative Glukokortikosteroide Inhalative lang wirksame Beta-2- Sympathomimetika Kurz wirksame inhalative Beta-2- Sympathomimetika Systemische Glukokortikosteroide mit den folgenden beiden Parametern: (Lang wirksame Beta Sympathomimetika, Lang wirksame Anticholinergika)  mit den folgenden beiden Parametern: (Kurz wirksame Beta-2- Sympathomimetika und/oder Anticholinergika, Lang wirksame Anticholinergika)  mit den folgenden beiden Parametern: (Kurz wirksame Beta-2- Sympathomimetika und/oder Anticholinergika, Lang wirksame Beta- 2-Sympathomimetika)  Anamnese- und Befunddaten Anamnese- und Befunddaten diese | **OPTIONALE FUNKTION EDMP** |  |
 |---|---|
-| **O 1-51** | Datenübernahme aus dem PVS 2 |
+| **O 1-51** | Datenübernahme aus dem PVS2 |
 
 
 ---
@@ -2690,8 +2692,7 @@ Erstdokumentation Das System muss dem Anwender die Möglichkeit bieten, den CPG-
 |  |  |  |
 |  | | |
 
-in den letzten 3 Monaten im Durchschnitt , wenn 0 = kein Schmerz und 10 = stärkster vorstellbarer Schmerz  bedeuten? An wie vielen Tagen  konnten Sie in den letzten 3 Monaten aufgrund von Rückenschmerzen nicht Ihren üblichen Aktivitäten nachgehen (z. B. Arbeit, Schule, Haushalt)? (Ankleiden, Waschen, Essen, Einkaufen etc.) beeinträchtigt, wenn 0 = keine Beeinträchtigung und 10 = keine Aktivitäten  mehr möglich bedeuten? Freizeitaktivitäten oder Unternehmungen im Familien- und Freundeskreis  beeinträchtigt, wenn 0 = keine Beeinträchtigung und 10 = keine Aktivitäten mehr möglich  bedeuten? Arbeitsfähigkeit (einschließlich Hausarbeit) beeinträchtigt, wenn 0 = keine Beeinträchtigung und 10 = keine Aktivitäten mehr möglich  bedeuten? Das System führt die folgenden Berechnungen durch:  Berechnung Bewertung Schmerzintensität (Ergebnis Frage 1 +  Ergebnis Frage 2 +  Ergebnis Frage 3) / 3 * 10 Schmerz-Score:              0 = 0 (kein)     1 - 49 = 1 (geringer) 50 - 100 = 2 (hoher) Beeinträchtigungsgrad  Disability -Score:        0 - 29 = 0  Disability -Punkte: Summe aus -Tagen -Tage:
-
+in den letzten 3 Monaten im Durchschnitt kein Schmerz und 10 = stärkster vorstellbarer Schmerz  bedeuten? An wie vielen Tagen  konnten Sie in den letzten 3 Monaten aufgrund von Rückenschmerzen nicht Ihren üblichen Aktivitäten nachgehen (z. B. Arbeit, Schule, Haushalt)? (Ankleiden, Waschen, Essen, Einkaufen etc.) beeinträchtigt, wenn 0 = keine Beeinträchtigung und 10 = keine Aktivitäten  mehr möglich bedeuten? oder Unternehmungen im Familien- und Freundeskreis  beeinträchtigt, wenn und 10 = keine Aktivitäten mehr möglich  bedeuten? (einschließlich Hausarbeit) beeinträchtigt, wenn 0 = keine Beeinträchtigung und 10 = keine Aktivitäten mehr möglich  bedeuten? Das System führt die folgenden Berechnungen durch:  Berechnung Bewertung Schmerz-Score: Schmerzintensität              0 = 0 (kein) (Ergebnis Frage 1 +      1 - 49 = 1 (geringer) Ergebnis Frage 2 +  50 - 100 = 2 (hoher) Ergebnis Frage 3) / 3 * 10 Beeinträchtigungsgrad  Disability -Score:        0 - 29 = 0  , wenn 0 = Freizeitaktivitäten 0 = keine Beeinträchtigung Arbeitsfähigkeit Disability -Punkte: Summe aus -Tage: -Tagen
 
 ---
 
@@ -2801,7 +2802,7 @@ Die verpflichtende regelmäßige Bestimmung der Symptomschwere mittels des PHQ s
 | **PHQ-9-Fragebogen** |  |
 |---|---|
 
-| **Wie oft fühlten Sie sich im Verlauf der** | **Überhaupt** | **An einzelnen** | **An mehr als** | **Beinahe** |
+| **Wie oft fühlten Sie sich im Verlauf der** | **nicht** | **Tagen** | **der Hälfte** | **jeden Tag** |
 |---|---|---|---|---|
 | a. Wenig Interesse oder Freude an Ihren | 0 | 1 | 2 | 3 |
 | b. Niedergeschlagenheit, Schwermut oder | 0 | 1 | 2 | 3 |
@@ -2815,7 +2816,7 @@ Die verpflichtende regelmäßige Bestimmung der Symptomschwere mittels des PHQ s
 
 |  |  |  |  |  | **PHQ-9-Fragebogen** |
 |---|---|---|---|---|---|
-|  |  | **An einzelnen** |  |  |  |
+|  |  | **Tagen** |  |  |  |
 |  |  | 0 |  | 1 |  |
 |  |  | 0 |  |  | 2 |
 |  |  |  | 1 |  | 2 |
@@ -2837,20 +2838,18 @@ Die verpflichtende regelmäßige Bestimmung der Symptomschwere mittels des PHQ s
 |  |  |  |  |  |  |
 |  |  | g. Schwierigkeiten, sich auf etwas zu |  |  | 0 |
 |  |  | | | | |
-|  | 1 |  | **Beinahe** |  |  |
+|  | 1 |  | **jeden Tag** |  |  |
 |  | 2 | 2 |  | 3 |  |
 |  | 3 | 2 |  | 3 |  |
 |  |  | 2 |  | 3 |  |
 | h. Waren Ihre Bewegungen oder Ihre |  | 2 |  | 3 |  |
 |  | 0    1 |  | 2 | 3 | 3 |
 
-- -9 im Rahmen der Erst- und Folgedokumentation durchläuft: - und
+- -9 im Rahmen der Erst- und Folgedokumentation durchläuft: - und  -9-
 
 -9-Fragebogens leitet
 
--9-
-
-letzten 2 Wochen durch die folgenden Beschwerden beeinträchtigt? Tätigkeiten Hoffnungslosigkeit oder vermehrter Schlaf haben Bedürfnis zu essen ein Versager zu sein oder die Familie enttäuscht zu haben konzentrieren, z. B. beim Zeitunglesen oder Fernsehen Sprache so verlangsamt, dass es auch anderen auffallen würde? Oder waren Sie im Gegenteil „zappelig“ oder ruhelos und hatten dadurch einen stärkeren Bewegungsdrang als sonst? sich Leid zufügen möchten nicht Tagen der Hälfte der Tage jeden Tag Das System führt die folgenden Berechnungen durch: Es wird die Summe aller Werte der Fragen a. bis i. gebildet. Der Summenscore muss zwischen 0 und 27 liegen.
+letzten 2 Wochen durch die folgenden Beschwerden beeinträchtigt? Tätigkeiten Hoffnungslosigkeit oder vermehrter Schlaf haben Bedürfnis zu essen ein Versager zu sein oder die Familie enttäuscht zu haben konzentrieren, z. B. beim Zeitunglesen oder Fernsehen Sprache so verlangsamt, dass es auch anderen auffallen würde? Oder waren Sie im Gegenteil „zappelig“ oder ruhelos und hatten dadurch einen stärkeren Bewegungsdrang als sonst? sich Leid zufügen möchten Überhaupt Beinahe An einzelnen An mehr als der Tage Das System führt die folgenden Berechnungen durch: Es wird die Summe aller Werte der Fragen a. bis i. gebildet. Der Summenscore muss zwischen 0 und 27 liegen.
 
 ---
 
@@ -3526,7 +3525,7 @@ Das Ersatzverfahren ist eine besondere Form der "manuellen" Erfassung von Patien
 
 3 sinngemäß laut Anlage 4a BMV-Ä (Vereinbarung zum Inhalt und zur Anwendung der elektronischen Gesundheitskarte), Anhang 1, 2.4 Anlage 4  BMV-Ä/EKV (Vereinbarung zur Gestaltung und zum Inhalt der Krankenversichertenkarte) und Anlage 6 BMV-Ä (Datenaustausch)
 
-wird wie folgt definiert :  liegt vor, wenn der Arzt noch nicht am VSDM nach Punkt 1.3 in [Anlage 4a BMV-Ä, Anhang 1] teilnimmt und der Versicherte darauf hinweist, dass sich die zuständige Krankenkasse, die Versichertenart oder die Besondere Personengruppe geändert hat, die Versichertenkarte dies aber noch nicht berücksichtigt, die Versichertenkarte defekt ist, eine für das Einlesen der Versichertenkarte erforderliche Komponente defekt ist, die Versichertenkarte nicht benutzt werden kann, weil für Haus - und Heimbesuche kein entsprechendes Gerät zur Verfügung steht und keine bereits in der Arztpraxis mit den Daten der elektronischen Gesundheitskarte vorgefertigten Formulare verwendet werden kö nnen oder die VSDs von der eGK falsch sind und nicht übernommen werden müssen (Punkt 1.5 in [Anlage 4a BMV- Ä, Anhang 1]). die im Rahmen des VSDM bereitgestellten Daten nicht den Felddefinitionen und Ausprägungen in Nummer 2.2.1 der Technischen Anlage zu Anlage 4a BMV-Ä [KBV_ITA_VGEX_Mapping_KVK.pdf Im Ersatzverfahren sind mindestens die gemäß den übergreifend definierten Plausibilitäten eDMP [EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend ] und der spezifischen Schnittstellenbeschreibungen festgelegten Pflichtangaben zu erfassen und im Rahmen der Dokumentation zu übertragen . Versichertendaten umfassend und unverändert in ein Dokumentationssystem zu übernehmen und im Rahmen der Dokumentation zu übertragen sind.  und in allen Fällen, in denen keine Versichertenkarte vorgelegt wird (z. B. befristete provisorische Ersatzbescheinigung nach § 19(2) BMV -Ä) die Erfassung, Speicherung und Übertragung sämtlicher vorhandener Versichertendaten ermöglichen Begründung: Die übergreifend definierten Plausibilitäten eDMP [EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend ] und / oder die spezifischen Schnittstellenbeschreibungen legen die Pflichtangaben fest, die im Ersatzverfahren mindestens zu erfassen und im Rahmen der Dokumentation zu übertragen sind. Rechtsgrundlagen für ein Ersatzverfahren sind Punkte 2.4 und 2.5 in [Anlage 4a BMV-Ä, Anhang 1],. Akzeptanzkriterium:  1. Die Software stellt dem Anwender alle entsprechenden Erfassungsfelder zur Verfügung. Diese sind: -Header (Kindelemente von cda:patient vergleiche [[KBV_ITA_VGEX_Schnittstelle_eHeader angabe
+wird wie folgt definiert  liegt vor, wenn der Arzt noch nicht am VSDM nach Punkt 1.3 in [Anlage 4a BMV-Ä, Anhang 1] teilnimmt und der Versicherte darauf hinweist, dass sich die zuständige Krankenkasse, die Versichertenart oder die Besondere Personengruppe geändert hat, die Versichertenkarte dies aber noch nicht berücksichtigt, die Versichertenkarte defekt ist, eine für das Einlesen der Versichertenkarte erforderliche Komponente defekt ist, die Versichertenkarte nicht benutzt werden kann, weil für Haus - und Heimbesuche kein entsprechendes Gerät zur Verfügung steht und keine bereits in der Arztpraxis mit den Daten der elektronischen Gesundheitskarte vorgefertigten Formulare verwendet werden kö nnen oder die VSDs von der eGK falsch sind und nicht übernommen werden müssen (Punkt 1.5 in [Anlage 4a BMV- Ä, Anhang 1]). die im Rahmen des VSDM bereitgestellten Daten nicht den Felddefinitionen und Ausprägungen in Nummer 2.2.1 der Technischen Anlage zu Anlage 4a BMV-Ä [KBV_ITA_VGEX_Mapping_KVK.pdf Im Ersatzverfahren sind mindestens die gemäß den übergreifend definierten Plausibilitäten eDMP [EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend ] und der spezifischen Schnittstellenbeschreibungen festgelegten Pflichtangaben zu erfassen und im Rahmen der Dokumentation zu übertragen . Versichertendaten umfassend und unverändert in ein Dokumentationssystem zu übernehmen und im Rahmen der Dokumentation zu übertragen sind.  und in allen Fällen, in denen keine Versichertenkarte vorgelegt wird (z. B. befristete provisorische Ersatzbescheinigung nach § 19(2) BMV -Ä) die Erfassung, Speicherung und Übertragung sämtlicher vorhandener Versichertendaten ermöglichen Begründung: Die übergreifend definierten Plausibilitäten eDMP [EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend ] und / oder die spezifischen Schnittstellenbeschreibungen legen die Pflichtangaben fest, die im Ersatzverfahren mindestens zu erfassen und im Rahmen der Dokumentation zu übertragen sind. Rechtsgrundlagen für ein Ersatzverfahren sind Punkte 2.4 und 2.5 in [Anlage 4a BMV-Ä, Anhang 1],. Akzeptanzkriterium:  1. Die Software stellt dem Anwender alle entsprechenden Erfassungsfelder zur Verfügung. Diese sind: -Header (Kindelemente von cda:patient vergleiche [[KBV_ITA_VGEX_Schnittstelle_eHeader angabe
 
 
 ---
@@ -3554,13 +3553,13 @@ wird wie folgt definiert :  liegt vor, wenn der Arzt noch nicht am VSDM nach Pun
 | Postfach | <person><addr><POB> |  |
 | Postfach | <person><addr><CNT> |  |
 | Kostentraegerkennung | <local_header><sciphox <GesetzlicheKrankenversicherung><Kostentraegerkennung> | X |
-| WOP-Kennzeichen (KV- | <local_header><sciphox |  |
+| WOP-Kennzeichen (KV- | <local_header><sciphox <GesetzlicheKrankenversicherung><KVBereich><WOP> |  |
 | DMP-Kennzeichnung | <local_header><sciphox <GesetzlicheKrankenversicherung><DMP_Kennzeichnung> | X   (vgl. KVDT   P2-402) |
 | BesonderePersonengruppe <local_header><sciphox | -ssu>  <GesetzlicheKrankenversicherung> <BesonderePersonengruppe> | X  (vgl. KVDT   P2-401) |
-| Versichertenart | <local_header><sciphox | X |
+| Versichertenart | <local_header><sciphox <GesetzlicheKrankenversicherung><Versichertenart> | X |
 | Geschlecht | <administrative_gender_cd> | X   (vgl. KP2- |
 
-Postfachadresse Bereich) -Header (Kindelemente von cda:patient vergleiche [[KBV_ITA_VGEX_Schnittstelle_eHeader <GesetzlicheKrankenversicherung><KVBereich><WOP> <GesetzlicheKrankenversicherung><Versichertenart> angabe 52)
+Postfachadresse Bereich) -Header (Kindelemente von cda:patient vergleiche [[KBV_ITA_VGEX_Schnittstelle_eHeader angabe 52)
 
 ---
 
@@ -4108,7 +4107,7 @@ Mit dem Update „Datenkommunikation in der Arztpraxis“ für das 1.Quartal 200
 
 **Beispiel:**
 
-**VERSAND KT-Stammdatei**     **Mitte 2. Quartal 20yx**
+**VERSAND KT-Stammdatei**      **Mitte 2. Quartal 20yx**
 
 **EINSATZ KT-Stammdatei in der Praxis**  **spätestens Beginn 3. Quartal 20yx**
 
@@ -4360,7 +4359,7 @@ Versorgung -Header, gültig ab dem 01.07.2018 allgemeinen Datensatz zur Zusammen
 |  |  |
 |  |  |
 |  |  |
-| [EXT_ITA_VGEX_Plausi_eDMP_Rheuma Arthritis] | Plausibilität eDMP Rheumatoide Arthritis |
+| [EXT_ITA_VGEX_Plausi_eDMP_Rheumatoide | Plausibilität eDMP Rheumatoide Arthritis |
 | [DAS-28 Print] | DAS-28 Print |
 | [Markierte_Gelenke | Darstellung der markierten druckschmerzhaften |
 | [Gelenke] | Darstellung der Gelenke ohne gesonderte |
@@ -4371,4 +4370,4 @@ Versorgung -Header, gültig ab dem 01.07.2018 allgemeinen Datensatz zur Zusammen
 | [eDMP 1.0] | Spezifikation der Inhalte der Anwendung eDMP 1.0 |
 | [gematik Implementierungsleitfaden  Primärsysteme Telematikinfrastruktur] | Vorgaben der gematik für die Implementierung des |
 
-Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, ita@kbv.de  Herbert-Lewin-Platz 2, 10623 Berlin ita@kbv.de, www.kbv.de bzw. geschwollenen Gelenke Markierung der druckschmerzhaften bzw. geschwollenen Gelenke Anwendung der elektronischen Gesundheitskarte für die Übermittlung von Nachrichten durch den sicheren Kommunikationsdienst KIM (Kommunikation im Medizinwesen) Versichertenstammdatenmanagements und der Basisdienste QES, Signatur und Verschlüsselung in Primärsystemen
+Arthritis] Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, ita@kbv.de  Herbert-Lewin-Platz 2, 10623 Berlin ita@kbv.de, www.kbv.de bzw. geschwollenen Gelenke Markierung der druckschmerzhaften bzw. geschwollenen Gelenke Anwendung der elektronischen Gesundheitskarte für die Übermittlung von Nachrichten durch den sicheren Kommunikationsdienst KIM (Kommunikation im Medizinwesen) Versichertenstammdatenmanagements und der Basisdienste QES, Signatur und Verschlüsselung in Primärsystemen

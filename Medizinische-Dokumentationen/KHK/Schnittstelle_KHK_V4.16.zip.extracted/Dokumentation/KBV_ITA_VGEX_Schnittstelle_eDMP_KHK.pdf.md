@@ -179,9 +179,9 @@ Schulung empfohlen (bei aktueller Dokumentation)  Empfohlene Schulung(en) wahrge
 
 **TABELLE 6:** WERTE BEI ERGEBNISTEXT (BEGLEITERKRANKUNGEN)
 
-**TABELLE 7:** WERTE BEI ERGEBNISTEXT (ANGINA PECTORIS)
+**TABELLE 7:** WERTE BEI ERGEBNISTEXT (ANGINA PECTORIS) ............................................................................................
 
-**TABELLE 8:** WERTE BEI ERGEBNISWERT (LDL-CHOLESTERIN)
+**TABELLE 8:** WERTE BEI ERGEBNISWERT (LDL-CHOLESTERIN) ...........................................................................................
 
 **TABELLE 9:** WERTE BEI ERGEBNISTEXT (RELEVANTE EREIGNISSE) ...................................................................................
 
@@ -189,9 +189,9 @@ Schulung empfohlen (bei aktueller Dokumentation)  Empfohlene Schulung(en) wahrge
 
 **TABELLE 11:** WERTE BEI ERGEBNISTEXT (THROMBOZYTENAGGREGATIONSHEMMER)
 
-**TABELLE 12:** WERTE BEI ERGEBNISTEXT (BETABLOCKER)
+**TABELLE 12:** WERTE BEI ERGEBNISTEXT (BETABLOCKER) .................................................................................................
 
-**TABELLE 13:** WERTE BEI ERGEBNISTEXT (ACE-HEMMER)
+**TABELLE 13:** WERTE BEI ERGEBNISTEXT (ACE-HEMMER) .................................................................................................
 
 **TABELLE 14:** WERTE BEI ERGEBNISTEXT (AKTUELLE STATIN-DOSIS)
 
@@ -211,23 +211,21 @@ KRANKENKASSE) ..................................................................
 
 **TABELLE 21:** WERTE BEI ERGEBNISTEXT (REGELMÄßIGES SPORTLICHES TRAINING)
 
-**TABELLE 22:** WERTE BEI ERGEBNISTEXT (EMPFOHLENE SCHULUNG(EN) WAHRGENOMMEN) 10  10  11
+**TABELLE 22:** WERTE BEI ERGEBNISTEXT (EMPFOHLENE SCHULUNG(EN) WAHRGENOMMEN) 10
+
+10
+
+11
 
 .................................................................................. 20  22
 
-................................................................................. 23
+................................................................................. 23  24 24
 
-............................................................................................ 24
-
-........................................................................................... 24  25
+25
 
 ................................... 26
 
-................................................... 27
-
-................................................................................................. 28
-
-................................................................................................. 28
+................................................... 27  28 28
 
 ................................................................................ 29
 
@@ -349,7 +347,7 @@ KRANKENKASSE) ..................................................................
 | 4.15 | 22.10.2020 | KBV | Anpassung an die aktualisierten  Überführung in neues Design  Vereinheitlichung des Wordings  Verschieben des Kapitels von  Textuelle Anpassungen an  Löschung der nicht  Vereinheitlichung der Angabe  Anpassung an die aktualisierten | Beschluss des G-BA      Redaktionelle Anpassungen und                          Streichung der Kapitel 6.1.6.2,    Hinzufügung der Kapitel 6.1.6.2,    Anpassung der Kapitel 6.1.6, | 19      Alle                      13ff            26, 29,  29, 30,  31, 33,  34  24, 26,  27, 28,  28, 30,  31, 31,  35, 35 |
 | 4.14 | 01.08.2019 | KBV | Redaktionelle Anpassung der | Der Wert „Chronische | 20 |
 
-Plausibilitäten der Anlage 2 (Einschreibung wegen) Plausibilitäten der Anlage 2 (Einschreibung wegen) der DMP-Schnittstellen (bpsw. body  wird zu <body>) 6.1.2.1 zu 6.1.3.  bestehende Schnittstelle verwendeten Definition von <Zeitpunkt_dttm> möglicher Ergebnistexte als Tabellen in Kapitel 6 und 7 Plausibilitäten der Anlage 6 (Version 4.0) Tabelle 4 Korrekturen 6.1.7.7, 6.1.93, 6.1.9.4, 7.1.1.2 6.1.7.4 bis 6.1.7.6, 6.1.8.1, 6.1.9.3, 7.1.1.2 6.1.7, 6.1.7.1, 6.1.7.2, 6.1.7.3, 6.1.8, 6.1.8.2, 6.1.9, 7.1.1.3, 7.1.2.2 Herzinsuffiz ienz“ hat in der Tabelle gefehlt
+Plausibilitäten der Anlage 2 (Einschreibung wegen) Plausibilitäten der Anlage 2 (Einschreibung wegen) Korrekturen der DMP-Schnittstellen (bpsw. body  wird zu <body>) 6.1.2.1 zu 6.1.3.  bestehende Schnittstelle verwendeten Definition von <Zeitpunkt_dttm> möglicher Ergebnistexte als Tabellen in Kapitel 6 und 7 Plausibilitäten der Anlage 6 6.1.7.7, 6.1.93, 6.1.9.4, 7.1.1.2 (Version 4.0) 6.1.7.4 bis 6.1.7.6, 6.1.8.1, 6.1.9.3, 7.1.1.2 6.1.7, 6.1.7.1, 6.1.7.2, 6.1.7.3, 6.1.8, 6.1.8.2, 6.1.9, 7.1.1.3, 7.1.2.2 Tabelle 4 Herzinsuffiz ienz“ hat in der Tabelle gefehlt
 
 |  |  |
 |---|---|
@@ -1287,7 +1285,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 *V*-Attribut die Feldbezeichnung
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> "/> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßiges sportliches Training"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> <sciphox:Ergebnistext V="Körperliches Training “/>*V*-Attribut die Feldbezeichnung
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßiges sportliches Training"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> <sciphox:Ergebnistext V="Körperliches Training “/>*V*-Attribut die Feldbezeichnung
 
 |  |  |
 |---|---|

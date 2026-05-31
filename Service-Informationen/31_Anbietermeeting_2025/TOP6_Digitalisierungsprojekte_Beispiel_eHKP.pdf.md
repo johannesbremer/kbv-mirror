@@ -94,6 +94,8 @@
 
 - **DIGITALISIERUNGSPROJEKT EHKP**
 
+**- BEISPIEL EHKP**
+
 ## › KBV: Vorbereitende Prozessanalyse
 
 ## › Abstimmung mit GKV-SV, Pflegeverbände,
@@ -103,8 +105,6 @@
 ## › Einigung über digitalen Soll-Prozess
 
 ## › Ergebnisse › Informationsmodell › Soll-Prozess › Datensätze
-
-**- BEISPIEL EHKP**
 
 
 ---

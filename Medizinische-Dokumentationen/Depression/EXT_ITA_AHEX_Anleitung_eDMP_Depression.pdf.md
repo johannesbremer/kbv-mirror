@@ -32,7 +32,9 @@ Zur Ermittlung der Symptomatik in den letzten zwei Wochen lassen Sie bitte Ihre 
 
 den PHQ-9-Fragebogen zum Zeitpunkt (oder zeitnah vor) der Dokumentation vollständig ausfüllen.
 
-Der PHQ-9-Fragebogen ist hierzu in Ihrer Praxisverwaltungs -Software (PVS) als PDF -Datei abrufbar und  ausdruckfähig integriert. Bei Verwendung des PHQ-9-Fragenbogens mittels der ausgedruckten PDF-Vorlage  müssen die Werte nach dem Ausfüllen in die Eingabemaske der PVS übertragen werden. Alternativ kann der  Fragebogen auch direkt über die Eingabemaske der PVS elektronisch ausgefüllt werden.
+Der PHQ-9-Fragebogen ist hierzu in Ihrer Praxisverwaltungs-Software (PVS) als PDF-Datei abrufbar und
+
+ausdruckfähig integriert. Bei Verwendung des PHQ-9-Fragenbogens mittels der ausgedruckten PDF-Vorlage  müssen die Werte nach dem Ausfüllen in die Eingabemaske der PVS übertragen werden. Alternativ kann der  Fragebogen auch direkt über die Eingabemaske der PVS elektronisch ausgefüllt werden.
 
 Bei der Eingabe der Antworten des PHQ-9-Fragenbogens in Ihre PVS wird der Summenwert (0 bis 27) zu den  neun Fragen automatisch berechnet und angezeigt sowie in die Dokumentation übernommen. Auch wird Ihnen
 
@@ -52,11 +54,7 @@ Tabelle 1: Interpretation des PHQ-9-Summenwerts
 | 15 | Schwere Ausprägung |
 | 20 | Schwerste Ausprägung |
 
-Mit der kontinuierlichen und standardisierten Erhebung des PHQ-9 können Sie die Änderungen der
-
-patientenseitig eingeschätzten Symptomatik verfolgen . So wird Ihnen bei jeder Verlaufsdokumentation
-
-angezeigt, ob eine **relevante Veränderung zum PHQ-9-Summenwert der vorhergehenden Dokumentation**
+Mit der kontinuierlichen und standardisierten Erhebung des PHQ-9 können Sie die Änderungen der  patientenseitig eingeschätzten Symptomatik verfolgen. So wird Ihnen bei jeder Verlaufsdokumentation  angezeigt, ob eine **relevante Veränderung zum PHQ-9-Summenwert der vorhergehenden Dokumentation**
 
 vorliegt. Dafür wird die Differenz zwischen dem Summenwert der letzten Dokumentation und dem aktuellen
 
@@ -87,7 +85,7 @@ Tabelle 2: Interpretation der PHQ-9-Differenzwerte
 
 *Beispiel für die Ergebnisanzeige:* Bei einem PHQ -9-Wert von 12 in der aktuellen Dokumentation und einem
 
-Wert von 19 in der letzten Dokumentation wird Ihnen automatisch folgendes angezeigt: „Aktueller PHQ -9-
+Wert von 19 in der letzten Dokumentation wird Ihnen automatisch folgendes angezeigt: „Aktueller PHQ-9-
 
 Wert: Mittelgradige Symptomausprägung Relevante Verbesserung zur letzten Dokumentation.“
 
@@ -103,13 +101,11 @@ Neben der Erfassung von Art und Dauer der Symptome erfolgt die Schweregradbestim
 
 mittelgradigen Depression spricht man bei zwei Hauptsymptomen und drei bis vier Zusatzsymptomen. Liegen  alle drei Hauptsymptome und mindestens vier Zusatzsymptome vor, sind die Kriterien für eine schwere  depressive Episode erfüllt.
 
-Die Einteilung des Schweregrads ist an der Anzahl der zutreffenden Haupt - und Zusatzsymptome zu
-
-differenzieren. Die Systematik der Schweregradbestimmung anhand der Haupt - und Zusatzsymptome ist in
+Die Einteilung des Schweregrads ist an der Anzahl der zutreffenden Haupt- und Zusatzsymptome zu  differenzieren. Die Systematik der Schweregradbestimmung anhand der Haupt - und Zusatzsymptome ist in
 
 Abbildung 1 dargestellt.
 
-Weicht die Schweregradeinschätzung basierend auf Ihrer klinischen Beurteilung der Symptome von den  Angaben im PHQ -9 ab, ist die klinische Schweregradeinschätzung vorzuziehen und anzugeben , da nur  anhand der klinischen Erfassung aller relevanten Haupt - und Zusatzsymptome sowie anhand der Dauer und  des Verlaufs der Symptome eine adäquate klinische Diagnosestellung möglich ist. (siehe hierzu Abbildung 1).
+Weicht die Schweregradeinschätzung basierend auf Ihrer klinischen Beurteilung der Symptome von den  Angaben im PHQ-9 ab, ist die klinische Schweregradeinschätzung vorzuziehen und anzugeben, da nur  anhand der klinischen Erfassung aller relevanten Haupt - und Zusatzsymptome sowie anhand der Dauer und  des Verlaufs der Symptome eine adäquate klinische Diagnosestellung möglich ist. (siehe hierzu Abbildung 1).
 
 
 ---
@@ -120,7 +116,7 @@ Zusatzsymptomen
 
 Abbildung 1: Schweregradbestimmung der unipolaren Depression nach ICD -10 Kriterien (modifiziert nach © ÄZQ, DGPPN, BÄK, KBV  und AWMF 2015 (Quelle: NVL 2015)
 
-#### Angabe zum Schwer egrad zu Beginn der aktuellen depressiven Episode in der
+#### Angabe zum Schweregrad zu Beginn der aktuellen depressiven Episode in der
 
 #### Erstdokumentation
 
@@ -138,12 +134,12 @@ oder Ihrem Patienten seit Beginn der Episode bereits eine Veränderung der Sympt
 
 können Sie hier zur Beurteilung des Schweregrades den PHQ-9-Summenwert hinzuziehen. (siehe Tabelle 1).
 
-Weicht die Schweregradeinschätzung basierend auf Ihrer klinischen Beurteilung der Symptome von den  Angaben im PHQ -9 ab, ist die klinische Schweregradeinschätzung vorzuziehen und anzugeben, da nur  anhand der klinischen Erfassung aller relevanten Haupt - und Zusatzsymptome sowie anhand der Dauer und  des Verlaufs der Symptome eine adäquate klinische Diagnosestellung möglich ist. (siehe hierzu Abbildung 1).
+Weicht die Schweregradeinschätzung basierend auf Ihrer klinischen Beurteilung der Symptome von den  Angaben im PHQ-9 ab, ist die klinische Schweregradeinschätzung vorzuziehen und anzugeben, da nur  anhand der klinischen Erfassung aller relevanten Haupt - und Zusatzsymptome sowie anhand der Dauer und  des Verlaufs der Symptome eine adäquate klinische Diagnosestellung möglich ist. (siehe hierzu Abbildung 1).
 
 
 ---
 
-#### Angabe zum Schwer egrad zu Beginn der
+#### Angabe zum Schweregrad zu
 
 #### Folgedokumentation
 
@@ -155,29 +151,17 @@ Bei der Erstdokumentation ist hier keine Angabe möglich.
 
 Geben Sie in diesem Feld bitte den **Schweregrad zu Beginn der aktuellen depressiven Episode**
 
-Sie an, ob die aktuelle Krankheitsepisode **„Leicht“, „Mittelgradig“**
-
-oder dem Patienten seit Beginn der Episode bereits eine Veränderung der Symptomatik eingetreten (z. B. du
+Sie an, ob die aktuelle Krankheitsepisode  oder dem Patienten seit Beginn der Episode bereits eine Veränderung der Symptomatik eingetreten (z. B. du
 
 eine Behandlung), geben Sie bitte an, welchen Schweregrad zu Beginn der Episode vorlag.
 
 Weist Ihre Patientin bzw. Ihr Patient aktuell keine oder
 
-die Diagnose einer aktuellen depressiven Episode nicht rechtfertigen,
+die Diagnose einer aktuellen depressiven Episode nicht rechtfertigen, geben Sie bitte  **depressive Episode“** an.
 
-**depressive Episode“** an.
-
-Zur Beurteilung des Schweregrades der Symptomatik können Sie den  hinzuziehen. Weicht die Schweregradeinschätzung basierend auf Ihrer klinischen Beurteilung der Symptome
+Zur Beurteilung des Schweregrades der Symptomatik können Sie den aktuellen PHQ-9-Summenwert  hinzuziehen. Weicht die Schweregradeinschätzung basierend auf Ihrer klinischen Beurteilung der Symptome
 
 von den Angaben im PHQ -9 ab, ist die klinische Schweregradeinschätzung vorzuziehen und anzugeben, da  nur anhand der klinischen Erfassung aller relevanten Haupt - und Zusatzsymptome sowie anhand der Dauer  und des Verlaufs der Symptome eine adäquate klinische Diagnosestellung möglich ist 1).
-
-#### aktuellen depressiven
-
-**Folgedokumentation**
-
-oder
-
-nur wenige bzw. gering ausgeprägte Symptome auf, die
 
 #### Dauer der aktuellen depressiven Episode
 
@@ -191,7 +175,7 @@ mit „Aktuell keine depressive Episode“ dokumentiert ist
 
 Neben dem Schweregrad der depressiven Episode ist insbesondere der Erkrankungsverlauf einschließlich der
 
-**Dauer der aktuellen Episode** ein entscheidendes Merkmal bei der Auswahl
+**Dauer der aktuellen Episode** ein entscheidendes Merkmal bei der Auswahl und der Anpassung der
 
 Behandlung. Bitte geben Sie hier an, ob die aktuelle depressive Episode bereits mehr oder weniger Jahre andauert.
 
@@ -199,7 +183,7 @@ Dauert die Symptomatik der aktuell bestehenden Episode genau zwei Jahre oder lä
 
 **„Mehr als zwei Jahre persistierend“** an. Ist die Dauer der Episode unter zwei Jahren, geben Sie bitte
 
-**„Weniger als zwei Jahre persistierend“** an.
+**„Weniger als zwei Jahre persistierend“**
 
 #### Suizidalität eingeschätzt
 
@@ -207,53 +191,49 @@ Dauert die Symptomatik der aktuell bestehenden Episode genau zwei Jahre oder lä
 
 Aufgrund des **erhöhten Suizidrisikos** bei Menschen mit depressiven Erkrankungen ist es besonders wichtig,
 
-Suizidalität im Rahmen der Diagnostik aktiv und empathisch zu
+Suizidalität im Rahmen der Diagnostik
 
-**Behandlungsverlauf**, in dem **Suizidalität neu auftreten** kann, ist eine regelmäßige Erfassung notwendig.
+**Behandlungsverlauf**, in dem **Suizidalität neu auftreten**
 
-diesem Grund soll die Suizidalität bei jeder DMP -Konsultation eingeschätzt werden.  Patientinnen und Patienten über suizidale Gedanken, Impulse und Pläne führt e Fehleinschätzung nicht dazu, dass diese erst dadurch auf die Idee gebracht werden. Die meisten Patientinnen  und Patienten sind erleichtert und fühlen sich entlastet, wenn das Thema angesprochen wird.
+diesem Grund soll die Suizidalität bei jeder DMP-Konsultation eingeschätzt werden. Das Befragen der  Patientinnen und Patienten über suizidale Gedanken, Impulse und Pläne führt e Fehleinschätzung nicht dazu, dass diese erst dadurch auf die Idee gebracht werden. Die meisten Patientinnen  und Patienten sind erleichtert und fühlen sich entlastet, wenn das Thema angesprochen wird.
 
-Die **Abschätzung des Suizidrisikos** sollte durch Erfragen von folgenden Risikomerkmalen
+Die **Abschätzung des Suizidrisikos** sollte durch Erfragen von folgenden Risikomerkmalen vorgenommen
 
 werden:
 
-#### Episode
+#### Beginn der aktuellen depressiven
+
+**Folgedokumentation**
+
+**„Leicht“, „Mittelgradig“** oder **„Schwer“**
+
+nur wenige bzw. gering ausgeprägte Symptome auf, die
+
+an.
+
+aktiv und empathisch zu explorieren.
+
+kann, ist eine regelmäßige Erfassung notwendig.
+
+#### Episode in der
 
 möglich und hier verpflichtend.
 
-**„Schwer“** ist. Ist bei der Patientin
-
-geben Sie bitte
-
-aktuellen PHQ-9-Summenwert . (siehe hierzu Abbildung
-
-llen depressiven Episode“
-
-und der
-
-explorieren. Auch
-
-Das Befragen der
-
-ntgegen einer weit verbreiteten
-
 an. Geben
+
+ist. Ist bei der Patientin  rch
 
 **„Aktuell keine**
 
-Anpassung der
+. (siehe hierzu Abbildung
 
-im
-
-vorgenommen
-
-***in der***
-
-rch
+llen depressiven Episode“
 
 als zwei
 
-**weiteren**  Aus
+Auch im **weiteren**  Aus
+
+ntgegen einer weit verbreiteten
 
 
 ---
@@ -297,9 +277,9 @@ haben oder
 
 Eine **Psychotherapie** stellt eine **zentrale therapeutische Maßnahme** bei depressiven Störungen dar. Es
 
-stehen gemäß Psychotherapie -Richtlinie für die vertragsärztliche Versorgung verschiedene
+stehen gemäß Psychotherapie-Richtlinie für die vertragsärztliche Versorgung verschiedene
 
-psychotherapeutische Verfahren zur Verfügung, die als Einzel -, oder Gruppentherapie oder als Kombination  aus Einzel- und Gruppentherapie im Umfang einer Akut -, Kurzzeit - oder Langzeittherapie Einsatz finden  können.
+psychotherapeutische Verfahren zur Verfügung, die als Einzel -, oder Gruppentherapie oder als Kombination  aus Einzel- und Gruppentherapie im Umfang einer Akut-, Kurzzeit- oder Langzeittherapie Einsatz finden  können.
 
 Geben Sie hier bitte an, ob Ihre Patientin oder Ihr Patient **aktuell eine Psychotherapie durchführt** . Ist dies
 
@@ -313,7 +293,7 @@ Vorfeld einer Psychotherapie durchgeführt werden. Sollten Sie bei der letzten D
 
 Gründen für die unveränderte Situation zu befragen und ggf. zu weiteren notwendigen Schritten zu motivieren.
 
-Geben Sie bitte **„Nicht gewünscht“** an, wenn Ihre Patientin oder I hr Patient eine psychotherapeutische
+Geben Sie bitte **„Nicht gewünscht“** an, wenn Ihre Patientin oder Ihr Patient eine psychotherapeutische
 
 Behandlung ablehnt.
 
@@ -354,9 +334,7 @@ Besteht eine Kontraindikation gegen Antidepressiva, geben Sie bitte
 
 Wird die medikamentöse Therapie mittels Antidepressiva von Ihrer Patientin oder Ihrem Patienten abgelehnt,  geben Sie bitte **„Nicht gewünscht“** an.
 
-Trifft keine der oben genannten Aussagen zu und w urde bzw. wird keine
-
-durchgeführt, geben Sie bitte **„Nein“** an.
+Trifft keine der oben genannten Aussagen zu und wurde bzw. wird keine Antidepressiva-Therapie  durchgeführt, geben Sie bitte **„Nein“** an.
 
 Sollte im Vorfeld bereits eine Antidepressiva-Therapie stattgefunden haben, die nach mehr als neun Monaten  abgeschlossen wurde, geben Sie bitte immer **„Nach mehr als neun Monaten abgeschlossen“**
 
@@ -380,7 +358,7 @@ Bitte geben Sie an, ob Ihre Patientin oder Ihr Patient bereits vor Einschreibung
 
 Gemeint sind hierbei folgende Schulungsmaßnahmen:
 
-a) akkreditierte und für das DMP zugelassene Schulungen bzw. digitale Selbstmanagement -Programme,  sowie
+a) akkreditierte und für das DMP zugelassene Schulungen bzw. digitale Selbstmanagement-Programme,  sowie
 
 b) Schulungsmaßnahmen, die der Befähigung Ihrer Patientin oder Ihres Patienten zur besseren Bewältigung  des Krankheitsverlaufs und zur selbstverantwortlichen Umsetzung wesentlicher Therapiemaßnahmen dienen.
 
@@ -426,8 +404,6 @@ erfolgt.
 
 an.
 
-Antidepressiva-Therapie
-
 an
 
 die Teilnahme an einer
@@ -445,15 +421,13 @@ Die Angaben zur Schulung beziehen sich hier **ausschließlich rückblickend** au
 
 Patientin oder Ihrem Patienten **bei dem letzten Dokumentationstermin** empfohlen haben, und sind daher
 
-nur im Rahmen einer **Folgedokumentation** möglich u nd hier verpflichtend. Im Rahmen der
+nur im Rahmen einer **Folgedokumentation** möglich und hier verpflichtend. Im Rahmen der
 
 Folgedokumentation ist **mindestens eine Angabe erforderlich**
 
 Bei der Erstdokumentation ist hier keine Angabe möglich.
 
-Hat Ihre Patientin oder Ihr Patient im Dokumentationszeitraum an einem digitalen Selbstmanagement-
-
-Programm teilgenommen, geben Sie bitte **Digitales Selbstmanagement-Programm** an.
+Hat Ihre Patientin oder Ihr Patient im Dokumentationszeitraum an einem digitalen Selbstmanagement- Programm teilgenommen, geben Sie bitte **Digitales Selbstmanagement-Programm** an.
 
 Hat Ihre Patientin oder Ihr Patient im Dokumentationszeitraum an einer Präsenzgruppenschulung
 
@@ -463,7 +437,7 @@ War die Teilnahme an einer depressionsspezifischen Schulung innerhalb des Dokume
 
 Antwort ist anzugeben, wenn z. B. organisatorische oder andere patientenseitige Voraussetzungen für die
 
-Anwendung digitaler Selbstmanagement -Programme oder die Teilnahme an Präsenzgruppenschulungen  nicht gegeben sind. Weitere Gründe können z.B. fehlende Schulungskapazität, Krankenhausaufenthalt der  Patientin oder des Patienten oder private Gründe sein. Die Beurteilung, ob die Gründe nachvollziehbar sind,  obliegt alleine Ihnen und Ihrer Patientin bzw. Ihrem Patienten.
+Anwendung digitaler Selbstmanagement-Programme oder die Teilnahme an Präsenzgruppenschulungen  nicht gegeben sind. Weitere Gründe können z.B. fehlende Schulungskapazität, Krankenhausaufenthalt der  Patientin oder des Patienten oder private Gründe sein. Die Beurteilung, ob die Gründe nachvollziehbar sind,  obliegt alleine Ihnen und Ihrer Patientin bzw. Ihrem Patienten.
 
 Sollten Sie Ihrer Patientin oder Ihrem Patienten bei der vorhergehenden Dokumentation eine Schulung  empfohlen haben, die Patientin bzw. der Patient die Schulung aber ohne einen für Sie nachvollziehbaren  Grund nicht wahrgenommen haben, geben Sie bitte **„Nein“** an.
 

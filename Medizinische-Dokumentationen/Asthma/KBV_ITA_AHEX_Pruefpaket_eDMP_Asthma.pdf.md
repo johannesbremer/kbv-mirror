@@ -161,7 +161,7 @@ DOKUMENTENHISTORIE
 | 1.15 | 07.05.2018 | KBV | Anpassung der Prüffälle | Schnittstellenversion | Prüffälle |
 | 1.14 | 12.03.2018 | KBV | Einreichung des Antrags | Anpassung des | Zertifizier |
 
-Prüffälle. Medikamente im Prüffall 6513 für DM2. Erstellung der Prüffälle. Umsetzung der übergreifenden Layouts Schnittstelle 4.45 Schnittstelle 4.44 an Schnittstellen 4.42 und 4.43 auf Zertifizierung wegen der übergreifenden Prüffälle (DM2- 6.07 ist ab 01.10.2023 zu verwenden). wegen der übergreifenden Prüffälle. 4.46 ist ab 01.04.2023 zu verwenden Corporate Design wegen der übergreifenden 4.45 ist ab 01.04.2021 zu verwenden 4.44 ist ab 01.04.2019 zu verwenden 4.43 ist ab 01.07.2018 zu verwenden Zertifizierungsportales  ungsablau
+Prüffälle. wegen der übergreifenden Medikamente im Prüffall Prüffälle (DM2- 6513 für DM2. 6.07 ist ab 01.10.2023 zu verwenden). Erstellung der Prüffälle. wegen der übergreifenden Umsetzung der Prüffälle. übergreifenden 4.46 ist ab 01.04.2023 zu verwenden Layouts Corporate Design wegen der übergreifenden Schnittstelle 4.45 Schnittstelle 4.44 an Schnittstellen 4.42 und 4.43 auf Zertifizierung 4.45 ist ab 01.04.2021 zu verwenden 4.44 ist ab 01.04.2019 zu verwenden 4.43 ist ab 01.07.2018 zu verwenden Zertifizierungsportales  ungsablau
 
 ---
 
@@ -171,7 +171,7 @@ Prüffälle. Medikamente im Prüffall 6513 für DM2. Erstellung der Prüffälle.
 | 1.12 | 13.02.2018 | KBV | Anpassung der Prüffälle  Aufnahme eines Testfalls | Schnittstellenversion    Schnittstellenversion | Prüffälle        Prüffall |
 | 1.11 | 23.05.2017 | KBV | Komplettüberarbeitung | Aktualisierung der | Alle |
 
-Nummerierung in Prüffall 9515 an Schnittstellenversionen 4.41 und 4.42 für die Testdatenvalidierung zur 4.43 des Prüfpaketes 4.42 ist ab 01.04.2018 zu verwenden 4.43 ist ab 01.07.2018 zu verwenden Zertifizierungsrichtlinie TDV 9518
+Nummerierung in Prüffall 9515 an 4.42 ist ab 01.04.2018 zu verwenden Schnittstellenversionen 4.41 und 4.42 für die 4.43 ist ab 01.07.2018 Testdatenvalidierung zur zu verwenden 4.43 TDV 9518 des Prüfpaketes Zertifizierungsrichtlinie
 
 
 ---
@@ -290,11 +290,7 @@ für die Bildung der Dateinamen, die Verzeichnisstruktur und die weiteren Angabe
 
 Die geforderten Videomitschnitte, Screenshots sowie die Teilnahmeerklärung (Prüffall 9540)  einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.
 
-- 1
-
-- 2 3
-
--  [PrüffallNr.] _[lfdNr.] .*
+- [PrüffallNr.]1_[lfdNr.]2 3
 
 - Teilnahmeerklärung (Prüffall 9540): TE_EWE_AB.pdf
 
@@ -626,7 +622,7 @@ Symptomen tagsüber der Bedarfsmedikation Aktivitäten im Alltag wegen Asthma br
 | Blutdruck | 120 / 70 mmHg | 124 / 76 mmHg |
 | Raucher | Ja | Nein |
 
-Prüffall 6513 Einschreibung müssen die entsprechenden Daten ebenfalls dokumentiert werden. System keine der beiden Zulassungen besitzen, dann sind nur die Asthma bronchiale-Daten zu übermitteln. Versichertendaten: Die Versichertendaten von Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn (Versichertendaten 1 Anlegen einer Erst- und einer Verlaufsdokumentation AB: - die Schnittstellenversion 4.46 DM2: - die Schnittstellenversion 6.07 KHK: - die Schnittstellenversion 4.16 Asthma bronchiale-Dokumentationsunterlagen zusätzlich DM2- und/oder KHK-Dokumentationsunterlagen  Ersatzverfahreneinlesen und speichern. Sollte das verfügt, Asthma bronchiale, KHK Asthma bronchiale, KHK
+Prüffall 6513 Einschreibung müssen die entsprechenden Daten ebenfalls dokumentiert werden. System keine der beiden Zulassungen besitzen, dann sind nur die Asthma bronchiale-Daten zu übermitteln. Versichertendaten: Die Versichertendaten von Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn (Versichertendaten 1 Anlegen einer Erst- und einer Verlaufsdokumentation AB: - die Schnittstellenversion 4.46 DM2: - die Schnittstellenversion 6.07 KHK: - die Schnittstellenversion 4.16 Asthma bronchiale-Dokumentationsunterlagen zusätzlich DM2- und/oder KHK-Dokumentationsunterlagen  Ersatzverfahreneinlesen und speichern. verfügt, Sollte das Asthma bronchiale, KHK Asthma bronchiale, KHK
 
 ---
 
@@ -745,7 +741,7 @@ Dokumentation) wahrgenommen Netzhautuntersuchung seit der letzten Dokumentation 
 |---|---|
 |  | **Prüffall-ID** |
 | 9514 | **Testziel** |
-| manche Fehleingaben nicht möglich sind | **Voraussetzung ** Patient oder Patientin ist mindestens 18 Jahre alt |
+| Kontrolle der softwareseitigen Erkennung von Fehleingaben | **Voraussetzung ** Patient oder Patientin ist mindestens 18 Jahre alt |
 | **Prüfunterlagen** | Screenshots / Videodateien und ggf. Erläuterungen, wie das Softwaresyst   Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten  1.1. 2.**Prüffall-ID  2.2 2.2.1** Dokumentieren Sie durch Video(s) die Eingaben   Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
 | Dokumentieren Sie durch Video(s) die Eingaben |  |
 
@@ -757,7 +753,7 @@ Dokumentation) wahrgenommen Netzhautuntersuchung seit der letzten Dokumentation 
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum | 06.07.2023 06.10.2023 |  |
 | Einschreibung wegen | Asthma bronchiale |  |
-| Geschlecht | Patienten |  |
+| Geschlecht | Je nach Auswahl des |  |
 | **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 2,51 m | Nr. 1 |
 | Körpergewicht | 301 kg | Nr. 2 |
@@ -765,10 +761,10 @@ Dokumentation) wahrgenommen Netzhautuntersuchung seit der letzten Dokumentation 
 | Raucher | Ja |  |
 | Begleiterkrankungen |  | Nr. 4 |
 
-PRÜFFÄLLE SYSTEMREAKTION Prüffall 9514 Kontrolle der softwareseitigen Erkennung von Fehleingaben Eingabefehler verhindert Fehlermeldungen.  Aktionen in der Aufzeichnung. Dies kann Einblenden der entsprechenden Ziffer erfolgen. Hinweis Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben sind. Aktionen, die durch den Antragssteller durchgeführt werden: Versichertendaten: Die Personalien zu dem Testfall sind frei wählbar Anlegen einer Erstdokumentation  bzw. Prüfung, dass  und die möglichen Hinweis- bzw. beispielsweise sprachlich oder durch em die Je nach Auswahl des |  |  |
+PRÜFFÄLLE SYSTEMREAKTION Prüffall 9514  bzw. Prüfung, dass manche Fehleingaben nicht möglich sind em die Eingabefehler verhindert  und die möglichen Hinweis- bzw. Fehlermeldungen.  Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. Hinweis Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben sind. Aktionen, die durch den Antragssteller durchgeführt werden: Versichertendaten: Die Personalien zu dem Testfall sind frei wählbar Anlegen einer Erstdokumentation Patienten |  |  |
 |---|---|
 | **Prüffall-ID** | 9514 |
-| **Testziel** | manche Fehleingaben nicht möglich sind |
+| **Testziel** | Kontrolle der softwareseitigen Erkennung von Fehleingaben |
 | **Voraussetzung** | Patient oder Patientin ist mindestens 18 Jahre alt |
 | **Prüfunterlagen** | Screenshots / Videodateien und ggf. Erläuterungen, wie das Softwaresyst   Dokumentieren Sie durch Video(s) die Eingaben   Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
 | **Hinweis** | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben |
@@ -858,7 +854,7 @@ Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstd
 | Schriftlicher Selbstmanagementplan | Ja |  |
 | Therapieanpassung | Keine |  |
 
-Anlegen einer Verlaufsdokumentation tagsüber  Bedarfsmedikation wegen Asthma bronchiale Nachtschlafes Relevante Ereignisse Behandlung wegen Asthma bronchiale seit der letzten Dokumentation am 06.10.2023 06.12 -Symptomen .2023: Alltag 009,9 Prozent des Sollwertes Nr. 17 möglich
+Anlegen einer Verlaufsdokumentation am 06.10.2023 06.12 -Symptomen tagsüber  Bedarfsmedikation wegen Asthma bronchiale Nachtschlafes Relevante Ereignisse Behandlung wegen Asthma bronchiale seit der letzten Dokumentation .2023: Alltag 009,9 Prozent des Nr. 17 Sollwertes möglich
 
 ---
 

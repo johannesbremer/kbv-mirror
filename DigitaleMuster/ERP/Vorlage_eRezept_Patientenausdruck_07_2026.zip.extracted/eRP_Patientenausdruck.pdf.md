@@ -6,6 +6,8 @@ Prof. Dr. Erika Anna Maria Elisa
 
 ### Johanna zu Windischgarshausen,  Freifrau von Mustermann
 
+A123456789
+
 **ausgestellt von ausgestellt am**
 
 Dr. Monika Freifrau von Mustermann
@@ -36,7 +38,7 @@ PZN: 04562798
 
 **Versichertennummer**
 
-A123456789 02.02.2026
+02.02.2026
 
 **Sammelcode zur Einlösung aller Verordnungen**
 

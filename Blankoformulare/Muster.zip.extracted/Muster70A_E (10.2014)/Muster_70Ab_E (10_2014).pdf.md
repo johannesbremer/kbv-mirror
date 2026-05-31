@@ -10,7 +10,9 @@
 
 **Status**
 
-**Betriebsstätten-Nr.** **Arzt-Nr.** **Datum**
+**Betriebsstätten-Nr.** **Arzt-Nr.**
+
+**Datum**
 
 **Krankenkasse bzw. Kostenträger**
 
@@ -18,7 +20,9 @@
 
 **geb. am**
 
-**Kostenträgerkennung** **Versicherten-Nr.** **Status**
+**Kostenträgerkennung** **Versicherten-Nr.**
+
+**Status**
 
 **Betriebsstätten-Nr.** **Arzt-Nr.**
 
@@ -28,17 +32,27 @@
 
 **Alle Angaben stehen unter dem Vorbehalt einer nacht** **Auflistung der Positionen ggf. auf separatem Beiblatt. Kostenschätzungen sind als durchschnittliche Kostenspanne in Euro anzugeben.**
 
-**a Kosten für einmalig im Reproduktionsfall** **anfallende Leistungen** **Reproduktionsfall anfallende L**
+**a Kosten für einmalig im Reproduktionsfall** **anfallende Leistungen**
 
-**Ärztliche Behandlung (EBM-Positionen)** **Ärztliche Behandlung**
+**Ärztliche Behandlung (EBM-Positionen)**
 
-**Summe Ärztliche** **Summe Ärztliche**
+**Summe Ärztliche**
 
 **Behandlung** **(Euro)**
 
-**Sachkosten und** **Sprechstunden-** **bedarf (Euro)**
+**(Euro)**
 
-**Gesamtsumme** **für einmalig im** **Reproduktionsfall** **anfallende** **Leistungen (Euro)** **Ort** **Datum**
+**Sachkosten und** **Sprechstunden-**
+
+**kosten**
+
+**bedarf (Euro)**
+
+**Gesamtsumme** **für einmalig im** **Reproduktionsfall** **anfallende** **Leistungen (Euro)** **Ort**
+
+**Datum**
+
+**pro Zyklusfall** **(Euro)**
 
 ### IV Genehmigung durch die Krankenkasse(n)
 
@@ -64,7 +78,7 @@
 
 **Eigenanteil** **des** **Patienten.** **Eine** **abschließende** **Berech-**
 
-**nung** **der** **Gesamtkosten** **kann**  **u.** **a.** **in** **Abhängigkeit**
+**nung** **der** **Gesamtkosten** **kann**  **u.** **a.** **in** **Abhängigkeit** **des**
 
 **vertraglich** **vereinbarten** **Punktwertes** **in** **Cent** **bzw.** **Euro**
 
@@ -78,7 +92,7 @@
 
 **Ausfertigung für die Kassenärztliche Vereinigung**
 
-**Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.** **PRF.NR.**
+**Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
 
 ## Folge-Behandlungsplan
 
@@ -104,25 +118,25 @@
 
 **räglichen Änderung der diagnostischen und therapeut**
 
-**b Kosten pro Zyklusfall (ohne einmalig im**
+**b Kosten pro Zyklusfall (ohne einmalig im** **Reproduktionsfall anfallende Leistungen)**
 
-**Behandlung** **(Euro)**
+**Ärztliche Behandlung (EBM-Positionen)**
+
+**Summe Ärztliche** **Behandlung**
 
 **Medikamenten-**
-
-**eistungen)**
-
-**(EBM-Positionen)**
 
 **70A**
 
 **ischen Einzelfallerfordernisse.**
 
-**kosten** **(Euro)**
+**(Euro)**
 
 **Sachkosten und** **Sprechstunden-** **bedarf (Euro)**
 
-**Gesamtsumme** **pro Zyklusfall** **(Euro)**
+**Gesamtsumme**
+
+**Vertragsarztstempel / Unterschrift des Arztes**
 
 **Der Behandlungs-/Kostenplan wird**
 
@@ -132,21 +146,29 @@
 
 **nicht genehmigt** **(separate Begründung** **anbei)**
 
-**Ort** **Datum**
+**Ort**
+
+**Datum**
 
 **b)**
 
-**für maximal** **des**
+**Zyklen/Zyklus**
 
-**Zyklen/Zyklusgenehmigt**
+**für maximal**
 
 **nicht genehmigt**
 
-**ist (separate Begründung** **anbei)**
+**ist**
 
-**Ort** **Datum**
+**(separate Begründung** **anbei)**
 
-**Vertragsarztstempel / Unterschrift des Arztes**
+**Ort**
+
+**PRF.NR.**
+
+**genehmigt**
+
+**Datum**
 
 **Stempel und Unterschrift der Krankenkasse,** **auf beiden Ausfertigungen**
 

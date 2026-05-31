@@ -27,15 +27,15 @@
 
 ---
 
-\| Nr. | Dokumentationsparameter | Ausprägung | Plausibilitäten |
-\| „Osteoporose“ | | | |
+\| Lfd. | Dokumentationsparameter | Ausprägung | Plausibilitäten |
+\| Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* in Feld 10 mindestens die Angabe | | | |
 | Anamnese und Befunddaten | | | |
 |---|---|---|---|
 | 1 | Osteoporosebedingte Fraktur in den | Ja / Nein | Bedingtes Pflichtfeld    Eine Angabe ist erforderlich, wenn die Anlage 20* im  Eine Angabe im Rahmen einer Folgedokumentation ist |
 | 2 | Neu aufgetretene osteoporosebedingte | Ja / Nein | Bedingtes Pflichtfeld   Eine Angabe ist erforderlich, wenn die Anlage 20* im  Eine Angabe im Rahmen einer Erstdokumentation ist |
 | 3 | Lokalisation der osteoporosebedingten | Proximale Femurfraktur / | Bedingtes Pflichtfeld Mindestens eine  Mehrfachangaben sind möglich   Eine Angabe ist erforderlich, wenn    Eine Angabe ist nicht zulässig, wenn die   Eine Angabe ist erforderlich, wenn die Anlage 20* im |
 
-Lfd. Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* in Feld 10 mindestens die Angabe nachstehenden Felder der Anlage 20* entsprechend den Festlegungen der Plausibilitätsregeln auszufüllen letzten 12 Monaten Fraktur seit der letzten Dokumentation Singuläre Wirbelkörperfraktur / Multiple Wirbelkörperfrakturen / Beckenfraktur / Humerusfraktur / Radiusfraktur / Andere Genau eine Angabe ist zulässig. Rahmen einer Erstdokumentation auszufüllen ist. nicht zulässig. Genau eine Angabe ist zulässig. Rahmen einer Folgedokumentation auszufüllen ist. nicht zulässig. Angabe ist erforderlich. Rahmen einer Erstdokumentation auszufüllen ist in Feld 1 die Angabe „Ja“ erfolgt ist. UND in Feld 1 die Angabe „Nein“ erfolgt ist erfolgt, sind die  UND ausgefüllt, ist
+Nr. nachstehenden Felder der Anlage 20* entsprechend den Festlegungen der Plausibilitätsregeln auszufüllen letzten 12 Monaten Fraktur seit der letzten Dokumentation Singuläre Wirbelkörperfraktur / Multiple Wirbelkörperfrakturen / Beckenfraktur / Humerusfraktur / Radiusfraktur / Andere „Osteoporose“ erfolgt, sind die Genau eine Angabe ist zulässig. Rahmen einer Erstdokumentation auszufüllen ist. nicht zulässig. Genau eine Angabe ist zulässig. Rahmen einer Folgedokumentation auszufüllen ist. nicht zulässig. Angabe ist erforderlich. Rahmen einer Erstdokumentation auszufüllen ist in Feld 1 die Angabe „Ja“ erfolgt ist. UND in Feld 1 die Angabe „Nein“ erfolgt ist  UND ausgefüllt, ist
 
 ---
 
@@ -67,7 +67,7 @@ Datumsangabe in Feld 3 der Plausibilitätsregeln zur Anlage 2 ein Lebensalter vo
 | Schulungen |  | | |
 | 11 | Schulung bereits vor | Ja / Nein | Bedingtes Pflichtfeld   Eine Angabe ist erforderlich, wenn die Anlage 20* im |
 
-Medikation Medikation das DMP wahrgenommen Einschreibung in Teriparatid / Keine Medikation / Patientin mit Hormonersatztherapie / Nach drei Jahren abgeschlossen / andauernd, seit weniger als drei Jahren / Aktuell andauernd, Fortführung über drei Jahre hinaus / Keine osteoporosespezifische Medikation durchgeführt Folgedokumentation auszufüllen ist UND in Feld 5 die Angabe „0“ erfolgt ist Folgedokumentation auszufüllen ist UND in Feld 6 die Angabe „Nein“ erfolgt ist einzeln oder gemeinsam erfolgen. erfolgt ist. Rahmen einer Rahmen einer
+Medikation Medikation Einschreibung in das DMP wahrgenommen Teriparatid / Keine Medikation / Patientin mit Hormonersatztherapie / Nach drei Jahren abgeschlossen / andauernd, seit weniger als drei Jahren / Aktuell andauernd, Fortführung über drei Jahre hinaus / Keine osteoporosespezifische Medikation durchgeführt Folgedokumentation auszufüllen ist UND in Feld 5 die Angabe „0“ erfolgt ist Folgedokumentation auszufüllen ist UND in Feld 6 die Angabe „Nein“ erfolgt ist einzeln oder gemeinsam erfolgen. erfolgt ist. Rahmen einer Rahmen einer
 
 ---
 

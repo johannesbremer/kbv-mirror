@@ -14,7 +14,11 @@ PRF.NR.
 
 Unterschrift der Patientin / des Patienten
 
-подпис на пациентката пациента
+пациента
+
+пациентката на
+
+подпис
 
 ## T T M M J J
 
@@ -2478,7 +2482,11 @@ Ich bestätige, dass ich nicht zum Zwecke der Behandlung nach Deutschland einger
 
 Straße, Hausnummer / *Calle, número*
 
-, eine
+, eine **Global Health Insurance Card (GHIC)**
+
+*o un* ***Certificado Provisional Sustitutorio (CPS)***
+
+## T T M M J J
 
 PLZ, Ort / *Código postal/Localidad*
 
@@ -2498,11 +2506,7 @@ Tel.-Nr./E-Mail / *No de tel./correo electrónico*
 
 Reisepass
 
-Personalausweis
-
 *Pasaporte*
-
-*Carnet de Identidad*
 
 **Ich bestätige die Richtigkeit meiner Angaben**
 
@@ -2512,15 +2516,9 @@ Personalausweis
 
 **Name der behandelnden Ärztin / des behandelnden Arztes**
 
-**Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
+Personalausweis
 
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***
-
-***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***
-
-***gewählte deutsche Krankenkasse senden.*** ***Kopie des Anspruchnachweises ist nicht erforderlich.***
-
-***Die Stempelung der***
+*Carnet de Identidad*
 
 Nr.
 
@@ -2528,13 +2526,17 @@ Nr.
 
 ***Ab hier von der Praxis auszufüllen.***
 
-**Global Health Insurance Card (GHIC)**
+**Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
 
-*o un*
+***Hinweis an die Praxis:***  ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***
 
-## T T M M J J
+***gewählte deutsche Krankenkasse senden.*** ***Kopie des Anspruchnachweises ist nicht erforderlich.***
 
-Datum /
+***Das Original dieser Erklärung sowie***
+
+***Die Stempelung der***
+
+Datum / *Fecha*
 
 ## T T M M J J
 
@@ -2546,19 +2548,11 @@ oder eine **Provisorische**
 
 ***Tarjeta Sanitaria***
 
-***Certificado Provisional Sustitutorio (CPS)***
-
 in Deutschland aufzuhalten.
 
 **Geburtsdatum**
 
 ***Fecha de nacimiento***
-
-oder
-
-*o*
-
-*Fecha*
 
 **Geschlecht /** ***sexo***
 
@@ -2578,7 +2572,11 @@ unbestimmt
 
 *indeterminado*
 
+oder
+
 **Durchreise**
+
+*o*
 
 ***Tránsito***
 

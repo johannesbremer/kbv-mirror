@@ -45,9 +45,9 @@
 | 1 | HbA1c-Wert | Wert in % / mmol/mol | Pflichtfeld  Nur eine Angabe ist möglich.  Numerische Angabe    Erfolgt die Angabe im Feld „Wert in %“:  Wertebereich 0,0 bis 21,0.    Erfolgt die Angabe in Feld „mmol/mol“: Anga Wertebereich 0 bis 210. |
 | 1a | Nur bei Diabetes mellitus    Pathologische Albumin-Kreatinin- | Ja / Nein / Nicht untersucht | Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig.    Eine Angabe ist erforderlich, wenn in Feld 10 der Anlage    Eine Angabe ist nicht zulässig, wenn in Feld 10 der |
 | 2 | (weggefallen) | (weggefallen) |  |
-| 2a | eGFR | 2 | Pflichtfeld  Genau eine Angabe ist zulässig. |
+| 2a | eGFR | ml/min/1,73m | Pflichtfeld  Genau eine Angabe ist zulässig. |
 |  |  |  | **Parameter  Ausprägung  Plausibilitäten** |
-|  | **Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2*** | Anamnese- und Befunddaten     1   HbA1c-Wert   Wert in % / mmol/mol  Pflichtfeld  Nur eine Angabe ist möglich.  Numerische Angabe    Erfolgt die Angabe im Feld „Wert in %“:  Wertebereich 0,0 bis 21,0.    Erfolgt die Angabe in Feld „mmol/mol“: Anga Wertebereich 0 bis 210.    1a  Nur bei Diabetes mellitus    Pathologische Albumin-Kreatinin- | Ja / Nein / Nicht untersucht  Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig.    Eine Angabe ist erforderlich, wenn in Feld 10 der Anlage    Eine Angabe ist nicht zulässig, wenn in Feld 10 der    2   (weggefallen)  (weggefallen)    2a  eGFR  2 Pflichtfeld  Genau eine Angabe ist zulässig. |
+|  | **Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2*** | Anamnese- und Befunddaten     1   HbA1c-Wert   Wert in % / mmol/mol  Pflichtfeld  Nur eine Angabe ist möglich.  Numerische Angabe    Erfolgt die Angabe im Feld „Wert in %“:  Wertebereich 0,0 bis 21,0.    Erfolgt die Angabe in Feld „mmol/mol“: Anga Wertebereich 0 bis 210.    1a  Nur bei Diabetes mellitus    Pathologische Albumin-Kreatinin- | Ja / Nein / Nicht untersucht  Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig.    Eine Angabe ist erforderlich, wenn in Feld 10 der Anlage    Eine Angabe ist nicht zulässig, wenn in Feld 10 der    2   (weggefallen)  (weggefallen)    2a  eGFR  ml/min/1,73m Pflichtfeld  Genau eine Angabe ist zulässig. |
 |  |  |  | **Parameter  Ausprägung  Plausibilitäten ** |
 | **Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2*** |  |  | Anamnese- und Befunddaten     1   HbA1c-Wert   Wert in % / mmol/mol  Pflichtfeld  Nur eine Angabe ist möglich.  Numerische Angabe    Erfolgt die Angabe im Feld „Wert in %“:  Wertebereich 0,0 bis 21,0. |
 |  | Erfolgt die Angabe in Feld „mmol/mol“: Anga | Wertebereich 0 bis 210. | 1a  Nur bei Diabetes mellitus    Pathologische Albumin-Kreatinin- |
@@ -56,7 +56,7 @@
 |  |  | Anamnese- und Befunddaten | 1   HbA1c-Wert   Wert in % / mmol/mol  Pflichtfeld |
 | Nur eine Angabe ist möglich. | Numerische Angabe |  | Erfolgt die Angabe im Feld „Wert in %“:  Wertebereich 0,0 bis 21,0.    Erfolgt die Angabe in Feld „mmol/mol“: Anga Wertebereich 0 bis 210.    1a  Nur bei Diabetes mellitus |
 | Pathologische Albumin-Kreatinin- | Ja / Nein / Nicht untersucht | Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig. |
-|  | Eine Angabe ist erforderlich, wenn in Feld 10 der Anlage |  | Eine Angabe ist nicht zulässig, wenn in Feld 10 der    2   (weggefallen)  (weggefallen)    2a  eGFR  2 |
+|  | Eine Angabe ist erforderlich, wenn in Feld 10 der Anlage |  | Eine Angabe ist nicht zulässig, wenn in Feld 10 der    2   (weggefallen)  (weggefallen)    2a  eGFR  ml/min/1,73m |
 | **Parameter  Ausprägung** | **Plausibilitäten ** | **Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2*** | |
 |  | Anamnese- und Befunddaten |  | 1   HbA1c-Wert   Wert in % / mmol/mol  Pflichtfeld  Nur eine Angabe ist möglich.  Numerische Angabe |
 |  | Erfolgt die Angabe im Feld „Wert in %“: | Wertebereich 0,0 bis 21,0. |  |
@@ -83,11 +83,11 @@
 |  |  |  | **Parameter  Ausprägung  Plausibilitäten** |
 |  | **Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2*** |  | Anamnese- und Befunddaten |
 
-Nr. Datensatz für die indikationsspezifische Dokumentation: Typ 1“ oder „Diabetes mellitus Typ 2“ Plausibilitätsregeln auszufüllen Typ 1: Ratio  erfolgt, sind die nachstehenden Felder der Anlage 8* entsprechend den Festlegungen der ml/min/1,73m KOF / Nicht bestimmt Diabetes mellitus Typ 1 und Diabetes mellitus Typ 2 in Feld 10 mindestens die Angabe „Diabetes mellitus einer Stelle hinter dem Komma; Nachkommastelle; 2* die Angabe „Diabetes mellitus Typ 1“ erfolgt ist die Angabe „Diabetes mellitus Typ 2“ erfolgt ist.  Angabe mit be ohne
+Nr. Datensatz für die indikationsspezifische Dokumentation: Typ 1“ oder „Diabetes mellitus Typ 2“ Plausibilitätsregeln auszufüllen Typ 1: Ratio  erfolgt, sind die nachstehenden Felder der Anlage 8* entsprechend den Festlegungen der Diabetes mellitus Typ 1 und Diabetes mellitus Typ 2 in Feld 10 mindestens die Angabe „Diabetes mellitus Angabe mit einer Stelle hinter dem Komma; be ohne Nachkommastelle; 2* die Angabe „Diabetes mellitus Typ 1“ erfolgt ist die Angabe „Diabetes mellitus Typ 2“ erfolgt ist.   KOF / Nicht bestimmt
 
 ---
 
-| **Plausibilitäten** | 2 | Wertebereich 0 bis 200 |  |
+| **Plausibilitäten** | Erfolgt die Angabe im Feld „ml/min/1,73m | Wertebereich 0 bis 200 |  |
 |---|---|---|---|
 | **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
 | **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
@@ -104,44 +104,44 @@ Nr. Datensatz für die indikationsspezifische Dokumentation: Typ 1“ oder „Di
 | (Wund)Infektion: | ja / nein / nicht untersucht | Bedingtes Pflichtfeld | Wenn die Differenz aus der Datumsangabe in Feld 22  -  genau eine Angabe zu „       UND  -  genau eine Angabe zu |
 | - | genau eine Angabe zu | UND | - |
 | genau eine Angabe zu „5. (Wund)Infektion“ | - | mindestens eine Angabe zu „3. | Zu 1. Pulsstatus: genau eine Angabe ist zulässig. |
-|  |  |  | 2 Wertebereich 0 bis 200 |
+|  |  |  | Erfolgt die Angabe im Feld „ml/min/1,73m Wertebereich 0 bis 200 |
 | 3 | Fußstatus | 1.  Pulsstatus:   Unauffällig / Auffällig / Nicht untersucht     2.  Sensibilitätsprüfung:   Unauffällig / Auffällig / Nicht untersucht     3.  Weiteres Risiko für Ulkus:  Fußdeformität / Hyperkeratose mit  ja / nein / nicht untersucht      4.  Ulkus:   oberflächlich / tief / nein / nicht untersucht    5.  (Wund)Infektion:  ja / nein / nicht untersucht | Bedingtes Pflichtfeld    Wenn die Differenz aus der Datumsangabe in Feld 22  -  genau eine Angabe zu „       UND  -  genau eine Angabe zu  -  genau eine Angabe zu        UND  -  genau eine Angabe zu „5. (Wund)Infektion“  -  mindestens eine Angabe zu „3.    Zu 1. Pulsstatus: genau eine Angabe ist zulässig.    Zu 2. Sensibilitätsprüfung: genau eine Angabe ist    Zu 3. Weiteres Risiko für Ulkus: mindestens eine    Wenn die Angabe „ Wenn die Angabe „ |
-|  |  |  | 2 Wertebereich 0 bis 200    3 |
+|  |  |  | Erfolgt die Angabe im Feld „ml/min/1,73m Wertebereich 0 bis 200    3 |
 | Fußstatus | 1. | Pulsstatus: | Unauffällig / Auffällig / Nicht untersucht     2.  Sensibilitätsprüfung:   Unauffällig / Auffällig / Nicht untersucht     3.  Weiteres Risiko für Ulkus:  Fußdeformität / Hyperkeratose mit  ja / nein / nicht untersucht      4. |
 | Ulkus: | oberflächlich / tief / nein / nicht untersucht |  | 5.  (Wund)Infektion:  ja / nein / nicht untersucht |
 | Bedingtes Pflichtfeld |  | Wenn die Differenz aus der Datumsangabe in Feld 22 | -  genau eine Angabe zu „       UND  - |
-| 2 Wertebereich 0 bis 200 | 3 | Fußstatus   1. | |
+| Erfolgt die Angabe im Feld „ml/min/1,73m Wertebereich 0 bis 200 | 3 | Fußstatus   1. | |
 | Pulsstatus: | Unauffällig / Auffällig / Nicht untersucht |  | 2.  Sensibilitätsprüfung:   Unauffällig / Auffällig / Nicht untersucht     3.  Weiteres Risiko für Ulkus: |
 | Fußdeformität / Hyperkeratose mit | ja / nein / nicht untersucht |  | 4.  Ulkus:   oberflächlich / tief / nein / nicht untersucht    5.  (Wund)Infektion:  ja / nein / nicht untersucht |
 |  | Bedingtes Pflichtfeld |  | Wenn die Differenz aus der Datumsangabe in Feld 22 |
 | - | genau eine Angabe zu „ | UND | -  genau eine Angabe zu  -  genau eine Angabe zu        UND  -  genau eine Angabe zu „5. (Wund)Infektion“  -  mindestens eine Angabe zu „3. |
-| 2 Wertebereich 0 bis 200 | 3 | Fußstatus   1. | |
+| Erfolgt die Angabe im Feld „ml/min/1,73m Wertebereich 0 bis 200 | 3 | Fußstatus   1. | |
 | Pulsstatus: | Unauffällig / Auffällig / Nicht untersucht | 2. | Sensibilitätsprüfung:   Unauffällig / Auffällig / Nicht untersucht     3.  Weiteres Risiko für Ulkus:  Fußdeformität / Hyperkeratose mit  ja / nein / nicht untersucht |
 |  |  | 4. | Ulkus: |
 | oberflächlich / tief / nein / nicht untersucht |  | 5. | (Wund)Infektion:  ja / nein / nicht untersucht       Bedingtes Pflichtfeld    Wenn die Differenz aus der Datumsangabe in Feld 22  -  genau eine Angabe zu „       UND  - |
 | genau eine Angabe zu | - | genau eine Angabe zu | UND  -  genau eine Angabe zu „5. (Wund)Infektion“  - |
-|  |  |  | 2 Wertebereich 0 bis 200    3 |
+|  |  |  | Erfolgt die Angabe im Feld „ml/min/1,73m Wertebereich 0 bis 200    3 |
 | Fußstatus | 1.  Pulsstatus:   Unauffällig / Auffällig / Nicht untersucht |  | 2.  Sensibilitätsprüfung:   Unauffällig / Auffällig / Nicht untersucht     3.  Weiteres Risiko für Ulkus:  Fußdeformität / Hyperkeratose mit  ja / nein / nicht untersucht      4. |
 | Ulkus: | oberflächlich / tief / nein / nicht untersucht | 5. | (Wund)Infektion:  ja / nein / nicht untersucht       Bedingtes Pflichtfeld    Wenn die Differenz aus der Datumsangabe in Feld 22  -  genau eine Angabe zu „ |
-|  |  |  | 2 Wertebereich 0 bis 200 |
+|  |  |  | Erfolgt die Angabe im Feld „ml/min/1,73m Wertebereich 0 bis 200 |
 |  | 3 | Fußstatus | 1.  Pulsstatus:   Unauffällig / Auffällig / Nicht untersucht     2.  Sensibilitätsprüfung:   Unauffällig / Auffällig / Nicht untersucht     3.  Weiteres Risiko für Ulkus:  Fußdeformität / Hyperkeratose mit  ja / nein / nicht untersucht |
 |  | 4.  Ulkus: | oberflächlich / tief / nein / nicht untersucht | 5. |
 | (Wund)Infektion: | ja / nein / nicht untersucht | Bedingtes Pflichtfeld |  |
 | Wenn die Differenz aus der Datumsangabe in Feld 22 | -  genau eine Angabe zu „ | UND  - | genau eine Angabe zu |
 | - | genau eine Angabe zu        UND | -  genau eine Angabe zu „5. (Wund)Infektion“ | - |
-| 2 Wertebereich 0 bis 200 | 3 | Fußstatus   1. | |
+| Erfolgt die Angabe im Feld „ml/min/1,73m Wertebereich 0 bis 200 | 3 | Fußstatus   1. | |
 | Pulsstatus: | Unauffällig / Auffällig / Nicht untersucht |  | 2.  Sensibilitätsprüfung:   Unauffällig / Auffällig / Nicht untersucht     3.  Weiteres Risiko für Ulkus:  Fußdeformität / Hyperkeratose mit  ja / nein / nicht untersucht |
 |  |  | 4. | Ulkus:   oberflächlich / tief / nein / nicht untersucht    5.  (Wund)Infektion:  ja / nein / nicht untersucht       Bedingtes Pflichtfeld |
 |  | Wenn die Differenz aus der Datumsangabe in Feld 22 | -  genau eine Angabe zu „       UND  -  genau eine Angabe zu  - | genau eine Angabe zu        UND  -  genau eine Angabe zu „5. (Wund)Infektion“  - |
-|  |  |  | 2 Wertebereich 0 bis 200    3   Fußstatus   1. |
+|  |  |  | Erfolgt die Angabe im Feld „ml/min/1,73m Wertebereich 0 bis 200    3   Fußstatus   1. |
 | Pulsstatus:   Unauffällig / Auffällig / Nicht untersucht | 2. | Sensibilitätsprüfung:   Unauffällig / Auffällig / Nicht untersucht | |
 |  | 3. | Weiteres Risiko für Ulkus: | Fußdeformität / Hyperkeratose mit  ja / nein / nicht untersucht |
 |  | 4. | Ulkus: | oberflächlich / tief / nein / nicht untersucht    5.  (Wund)Infektion:  ja / nein / nicht untersucht       Bedingtes Pflichtfeld    Wenn die Differenz aus der Datumsangabe in Feld 22  - |
 | genau eine Angabe zu „ | UND | -  genau eine Angabe zu | -  genau eine Angabe zu        UND |
-|  |  |  | 2 Wertebereich 0 bis 200 |
+|  |  |  | Erfolgt die Angabe im Feld „ml/min/1,73m Wertebereich 0 bis 200 |
 | 3 | Fußstatus   1. | Pulsstatus:   Unauffällig / Auffällig / Nicht untersucht |  |
 
-Nr. Erfolgt die Angabe im Feld „ml/min/1,73m KOF“: nummerischer Wert; Angabe ohne Nachkommastelle Einblutung / Z. n. Ulkus /Z. n. Amputation / der Plausibilitätsregeln zur Anlage 2* minus der Datumsangabe in Feld 3 der Plausibilitätsregeln zur Anlage 2* ein Lebensalter von >=18 Jahren ergeben, muss jeweils  Pulsstatus“ „4. Ulkus“ weiteres Risiko us“ erfolgen. Angabe ist erforderlich, Mehrfachnennungen sind möglich. “ erfolgt ist, ist keine weitere Angabe zulässig. “ erfolgt ist, ist keine weitere Angabe zulässig. Alle anderen Kombinationen sind zulässig.
+Nr. nummerischer Wert; Angabe ohne Nachkommastelle KOF“: Einblutung / Z. n. Ulkus /Z. n. Amputation / der Plausibilitätsregeln zur Anlage 2* minus der Datumsangabe in Feld 3 der Plausibilitätsregeln zur Anlage 2* ein Lebensalter von >=18 Jahren ergeben, muss jeweils  Pulsstatus“ „4. Ulkus“ us“ erfolgen. weiteres Risiko Angabe ist erforderlich, Mehrfachnennungen sind möglich. weitere Angabe zulässig. “ erfolgt ist, ist keine Angabe zulässig. Alle anderen Kombinationen sind zulässig. “ erfolgt ist, ist keine weitere
 
 ---
 

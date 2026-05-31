@@ -1,3 +1,5 @@
+**22**
+
 ## Konsiliarbericht
 
 **vor Aufnahme einer Psychotherapie durch Psychologische** **Psychotherapeuten und Kinder- und** **Jugendlichenpsychotherapeuten**
@@ -6,11 +8,9 @@
 
 **Aus Datenschutzgründen freibleibend**
 
-**Name des Therapeuten**
-
-**22**
-
 **Arztnummer**
+
+**Name des Therapeuten**
 
 **Betriebsstättennummer**
 
@@ -34,13 +34,11 @@
 
 **erforderlich**
 
-**nicht erforderlich**
+**Sind** **ärztliche/ärztlich** **veranlasste** **Maßnahmen** **bzw.** **Untersuchungen**
 
-**Sind** **ärztliche/ärztlich** **veranlasste** **Maßnahmen** **bzw.** **Untersuchungen** **notwendig** **bzw.**
+**Aufgrund** **somatischer/psychiatrischer** **Befunde** **bestehen**
 
-**Aufgrund** **somatischer/psychiatrischer** **Befunde** **bestehen** **erzeitd** **Kontra-**
-
-**indikationen** **für** **eine** **psychotherapeutische** **Behandlung** **(Begründung** **s.** **o.)**
+**indikationen** **für** **eine** **psychotherapeutische** **Behandlung**
 
 **Ärztliche Mitbehandlung ist erforderlich** **Art der Maßnahme:**
 
@@ -49,6 +47,14 @@
 **Für** **diese** **Bescheinigung** **ist** **die** **Nr.** **01612** **EBM** **berechnungsfähig**
 
 **Ausfertigung für den Gutachter**
+
+**nicht erforderlich**
+
+**notwendig** **bzw.**
+
+**derzeit** **Kontra-**
+
+**(Begründung** **s.** **o.)**
 
 **erfolgt**
 

@@ -31,15 +31,11 @@ Diese Angabe ist nur im Rahmen einer Dokumentation zu **Diabetes mellitus Typ 1*
 
 hier verpflichtend. Genau eine Angabe ist zulässig.
 
-Die Bestimmung der Albumin-Kreatinin-Ratio (AKR) muss jährlich erfolgen. Bei Kindern und
+Die Bestimmung der Albumin-Kreatinin-Ratio (AKR) muss jährlich erfolgen. Bei Kindern und  Jugendlichen mit Diabetes mellitus Typ 1 soll die Untersuchung nach fünf Jahren Diabetesdauer,  frühestens ab dem elften Lebensjahr erfolgen.
 
-Jugendlichen mit Diabetes mellitus Typ 1 soll die Untersuchung nach fünf Jahren Diabetesdauer,  frühestens ab dem elften Lebensjahr erfolgen.
+Als pathologische Albumin-Kreatinin-Ratio ist ein Wert größer 30 mg/g Albumin/Kreatinin zu  bewerten. Geben Sie in diesem Fall bitte „Ja“ an
 
-Als pathologische Albumin -Kreatinin-Ratio ist ein Wert größer 30 mg/g Albumin/Kreatinin zu  bewerten. Geben Sie in diesem Fall bitte „Ja“ an
-
-Grundsätzlich müssen erstmalig pathologische Befunde nach ca. 2 bis 4 Wochen wiederholt
-
-werden.
+Grundsätzlich müssen erstmalig pathologische Befunde nach ca. 2 bis 4 Wochen wiederholt  werden.
 
 Wurde dieser Wert nicht ermittelt, geben Sie bitte „Nicht untersucht“ an.
 
@@ -47,9 +43,9 @@ Wurde dieser Wert nicht ermittelt, geben Sie bitte „Nicht untersucht“ an.
 
 Genau eine Angabe ist erforderlich und zulässig.
 
-Sofern Sie die eGFR bestimmt haben, geben Sie den ganzzahligen Wert bitte ohne 2
+Sofern Sie die eGFR bestimmt haben, geben Sie den ganzzahligen Wert bitte ohne
 
-Nachkommastelle in „ml/min/1,73m KOF an. Sollten Sie die eGFR nicht bestimmt haben, ist hier
+Nachkommastelle in „ml/min/1,73m2 KOF an. Sollten Sie die eGFR nicht bestimmt haben, ist hier
 
 eine Angabe bei „Nicht bestimmt“ zu machen.
 
@@ -59,7 +55,7 @@ Bei Patientinnen und Patienten mit Diabetes mellitus Typ 1 soll spätestens nach
 
 Diabetesdauer, regelmäßig mindestens einmal jährlich eine Inspektion und Palpation beider Füße  hinsichtlich Hautstatus, Muskelatrophie, Deformitäten, und Temperatur sowie die Untersuchung des  Schuhwerks erfolgen. Es soll auch nach Hyperkeratosen, Mykosen und Fußdeformitäten gesucht  werden.
 
-Die jeweiligen Angaben zu den Fragekomplexen „Pulsstatus“, „ Sensibilitätsprüfung“, „Weiteres
+Die jeweiligen Angaben zu den Fragekomplexen „Pulsstatus“, „Sensibilitätsprüfung“, „Weiteres
 
 Risiko für Ulkus“, „Ulkus“ und „(Wund)Infektion“ sind nur dann **verpflichtend**, wenn Ihre Patientin
 
@@ -70,13 +66,11 @@ sind die Angaben **optional**
 
 ---
 
-Hat Ihre Patientin oder Ihr Patient das 18. Leben sjahr vollendet, muss jedoch zu jedem
-
-Fragekomplex eine Angabe erfolgen.
+Hat Ihre Patientin oder Ihr Patient das 18. Lebensjahr vollendet, muss jedoch zu jedem  Fragekomplex eine Angabe erfolgen.
 
 Sollte an **beiden Füßen** eine Schädigung vorliegen, muss
 
-dokumentiert werden . Es muss zu jedem Parameter, d.  „Weiteres Risiko für Ulkus“, „Ulkus“ und „(Wund)Infektion“
+dokumentiert werden. Es muss zu jedem Parameter, d.  „Weiteres Risiko für Ulkus“, „Ulkus“ und „(Wund)Infektion“
 
 **Pulsstatus**
 
@@ -92,9 +86,9 @@ Bitte geben Sie  bestehen.
 
 **auffällig** an, wenn an mindestens einem Fuß Auffälligkeiten des Pulsstatus
 
-Sofern unveränderliche auffällige Befunde bekannt sind, ist keine erneute Untersuchung an dem  betroffenen Fuß notwendig. Diese Befunde sind  rekonstruktiven Maßnahme n zur Wiederherstellung einer ungestörten Durchblutung in den  folgenden Dokumentationen weiterhin als auffällig zu dokumentieren.
+Sofern unveränderliche auffällige Befunde bekannt sind, ist keine erneute Untersuchung an dem  betroffenen Fuß notwendig. Diese Befunde sind bis zu einer Befundänderung z. B. nach  rekonstruktiven Maßnahmen zur Wiederherstellung einer ungestörten Durchblutung in den  folgenden Dokumentationen weiterhin als auffällig zu dokumentieren.
 
-Bitte geben Sie „ nicht untersucht“ nur dann an, wenn der Pulsstatus an beiden Füßen nicht
+Bitte geben Sie „nicht untersucht“ nur dann an, wenn der Pulsstatus an beiden Füßen nicht
 
 untersucht wurde.
 
@@ -118,12 +112,6 @@ Bitte geben Sie „nicht untersucht“ nur dann an, wenn eine Sensibilitätsprü
 
 nicht durchgeführt wurde.
 
-**Weiteres Risiko für Ulkus**
-
-Geben Sie bitte **bei allen Patientinnen und Patienten, die das 18. Lebensjahr vollendet haben**
-
-an, ob ein weiteres Risiko für die Entstehung eines Ulkus besteht. Hierzu zählen die Fußdeformität,
-
 **nur der schwerer betroffene Fuß**
 
 h. „Pulsstatus“, „Sensibilitätsprüfung“,  jeweils eine Angabe gemacht werden.
@@ -132,11 +120,15 @@ haben,
 
 **an beiden Füßen keine Auffälligkeit** besteht.
 
-bis zu einer Befundänderung z. B. nach
-
 haben,
 
 **beiden Füßen keine Auffälligkeit** besteht.
+
+**Weiteres Risiko für Ulkus**
+
+Geben Sie bitte **bei allen Patientinnen und Patienten, die das 18. Lebensjahr vollendet haben**
+
+an, ob ein weiteres Risiko für die Entstehung eines Ulkus besteht. Hierzu zählen die Fußdeformität,
 
 
 ---
@@ -167,9 +159,7 @@ Bei Vorliegen eines Ulkus ist genau eine Angabe zur Beschaffenheit des Ulkus - �
 
 „tief“- erforderlich. Bei Vorliegen mehrerer Ulzerationen ist der schwerste Befund zu dokumentieren.
 
-Sollte an beiden Füßen eine Schädigung vorliegen, ist nur der schwerer betroffene Fuß zu
-
-dokumentieren.
+Sollte an beiden Füßen eine Schädigung vorliegen, ist nur der schwerer betroffene Fuß zu  dokumentieren.
 
 Bitte geben Sie „nein“ an, wenn an beiden Füßen kein Ulkus besteht.
 
@@ -191,13 +181,13 @@ beiden Füßen nicht untersucht haben.
 
 #### Injektionsstellen (bei Insulintherapie)
 
-Zur Vermeidung von Gewebeveränderungen (z. B. Lipohypertrophie), die die Insulinresorption  nachhaltig beeinflussen, ist auf einen ausreichenden Wechsel der Insulin -Injektionsstellen zu  achten.
+Zur Vermeidung von Gewebeveränderungen (z. B. Lipohypertrophie), die die Insulinresorption  nachhaltig beeinflussen, ist auf einen ausreichenden Wechsel der Insulin-Injektionsstellen zu  achten.
 
 Die Angabe zu den Injektionsstellen ist nur im Rahmen einer Dokumentation zu **Diabetes mellitus**
 
 **Typ 1 sowie bei Patientinnen und Patienten mit einer Insulintherapie bei Diabetes mellitus**  **Typ 2** möglich und hier verpflichtend. Genau eine Angabe ist zulässig.
 
-Geben Sie bitte an, ob die Insulin -Injektionsstellen „Auffällig oder „Unauffällig sind. Zu den
+Geben Sie bitte an, ob die Insulin-Injektionsstellen „Auffällig oder „Unauffällig sind. Zu den
 
 Injektionsstellen zählen auch die Applikationsstellen bei einer Insulin-Pumpentherapie.
 
@@ -236,13 +226,13 @@ der aufgeführten Spätfolgen vorliegen.
 
 Zur Erläuterung der Erkrankungen:
 
-- **Diabetische Nephropathie:** Diabetes-bedingte Nierenschädigung
+- **Diabetische Nephropathie:** Diabetes-bedingte
 
-- Albuminausscheidung (> 30 mg/24 Stunden bzw. 20 mg/l Urin) oder  Albumin-Kreatinin-Ratio (> 30 mg Albumin/g Kreatinin) mit oder ohne glomerulären Filtrationsrate.
+- Albuminausscheidung (> 30 mg/24 Stunden bzw. 20 mg/l Urin) oder pathologischer  Albumin-Kreatinin-Ratio (> 30 mg Albumin/g Kreatinin) mit oder ohne Verminderung der  glomerulären Filtrationsrate.
 
-- **Diabetische Neuropathie:** Sensomotorische Polyneuropathie - diabetische Neuropathie.
+- **Diabetische Neuropathie:** Sensomotorische - diabetische Neuropathie.
 
-- **Diabetische Retinopathie:** Funduskopisch nachgewiesene
+- **Diabetische Retinopathie:** Funduskopisch
 
 - proliferative diabetische Retinopathie und/oder diabetische Makulopathie.
 
@@ -260,26 +250,24 @@ pektion „Jährlich“, „alle sechs Monate“
 
 Ihrem Patienten eine oder mehrere
 
-- mit pathologischer  pathologischer - Verminderung der
+- Nierenschädigung mit pathologischer
 
-- und/oder autonome
+- Polyneuropathie und/oder autonome
 
-Verschlusskrankheit und/oder Risiken wie Fußdeformitäten (ggf. infolge Osteoarthropathie), Hyperkeratose mit Einblutung, Z. n. Ulkus, Z. n. Amputation - nicht proliferative oder
+Verschlusskrankheit und/oder Risiken wie Fußdeformitäten (ggf. infolge Osteoarthropathie), Hyperkeratose mit Einblutung, Z. n. Ulkus, Z. n. Amputation - nachgewiesene nicht proliferative oder
 
 
 ---
 
-Handelt es sich um eine **Erstdokumentation,** sind hier **Ereignisse aus der Vergangenheit**
+Handelt es sich um eine **Erstdokumentation,**
 
 einzubeziehen.
 
-Erfolgt die Angabe im Rahmen einer **Folgedokumentation,** sind jeweils **nur neu eingetretene**
+Erfolgt die Angabe im Rahmen einer **Folgedokumentation,**
 
-**Ereignisse seit der letzten Dokumentation** zu berücksichtigen.
+**Ereignisse seit der letzten Dokumentation**
 
-Geben Sie bitte „Keine der genannten Ereignisse“ an, wenn zum Zeitpunkt der Erstdokumentation
-
-kein Ereignis bestanden hat oder  im Falle einer Folgedokumentation - im Zeitraum zwischen der
+Geben Sie bitte „Keine der genannten Ereignisse“ an, wenn kein Ereignis bestanden hat oder  im Falle einer Folgedokumentation - im Zeitraum zwischen der
 
 letzten Dokumentation (Erst- oder Folgedokumentation) bis zur aktuellen Folgedokumentation kein  neues Ereignis eingetreten ist.
 
@@ -289,13 +277,11 @@ Zur Erläuterung der Erkrankungen:
 
 - **Erblindung:** Hier ist die Erblindung im gesetzlichen Sinn mit einer verbleibenden Sehschärfe
 
-- von höchstens 0,02 (2 %) auf dem besseren Auge oder einer Störung des Sehvermögens,  die dieser Beeinträchtigung gleichkommt, gemeint. Diese muss Folge des Diabetes sein.
+- von höchstens 0,02 (2 %) auf dem besseren Auge oder einer Störung des Sehvermögens,  die dieser Beeinträchtigung gleichkommt,
 
-- **Amputation:** Eine Amputation soll dann angegeben werden, wenn diese aufgrund eines
+- **Amputation:** Eine Amputation soll dann angegeben
 
-- diabetischen Fußsyndroms notwendig wurde. Hierunter sind alle Arten der Amputation an
-
-- den unteren Extremitäten, also sowohl die Zehen -, die Vorfuß- als auch die Unter- oder  Oberschenkelamputation zu verstehen.
+- diabetischen Fußsyndroms notwendig wurde. Hierunter sind alle Arten der Amputation den unteren Extremitäten, also sowohl die Zehen-, die Vorfuß- als auch die Unter- oder  Oberschenkelamputation zu verstehen.
 
 - **Herzinfarkt:** Gemeint ist hier der durch EKG und/oder biochemische Marker nachgewiesene - Infarkt.
 
@@ -303,43 +289,47 @@ Zur Erläuterung der Erkrankungen:
 
 #### Schwere Hypoglykämien seit der letzten Dokumentation
 
-Eine Angabe zu diesem Feld ist nur im Rahmen einer **Folgedokumentation** möglich und hier
+Eine Angabe zu diesem Feld ist nur im Rahmen einer  verpflichtend.
 
-verpflichtend.
-
-Geben Sie bitte die Anzahl von Hypoglykämien seit der letzten Dokumentation an . Eine schwere
-
-Hypoglykämie ist bei Erwachsenen durch die Notwendigkeit der Fremdhilfe, z. B. durch intravenöse
-
-Gabe von Glukose oder eine parenterale Gabe von Glukagon definiert. Bei Kindern ist eine schwere
-
-Hypoglykämie durch Bewusstlosigkeit und/oder Krampfanfall bzw. der Notwendigkeit der
+Geben Sie bitte die Anzahl von Hypoglykämien seit der letzten Dokumentation an Hypoglykämie ist bei Erwachsenen durch die No Gabe von Glukose oder eine parenterale Gabe von Glukagon Hypoglykämie durch Bewusstlosigkeit und/oder
 
 Fremdhilfe, um dies zu vermeiden, definiert.
 
 Sollte seit der letzten Dokumentation kein solches Ereignis vorgekommen sein, geben Sie bitte die  Zahl „0“ an.
 
-#### Stationäre notfallmäßige
-
-#### wegen Diabetes
-
-#### seit der
-
-#### Behandlung
-
-#### mellitus
-
-#### letzten
+#### Stationäre notfallmäßige Behandlung wegen
 
 #### Dokumentation
 
-Eine Angabe zu diesem Feld ist nur im Rahmen einer **Folgedokumentation** möglich und ist hier
+Eine Angabe zu diesem Feld ist nur im Rahmen einer  verpflichtend.
 
-verpflichtend.
+Geben Sie bitte die Anzahl aller notfallmäßigen vollstationären Aufenthalte an, die seit der letzten  Dokumentation aufgrund eines Diabetes mellitus (Typ 1 oder Typ 2) notwendig wurden. Sollte seit  der letzten Dokumentation keine solche Behandlung notwendig gewesen sein, geben Sie bitte  Zahl „0“ an
 
-Geben Sie bitte die Anzahl aller notfallmäßigen vollstationären Aufenthalte an, die seit der letzten  Dokumentation aufgrund eines Diabetes mellitus (Typ 1 oder Typ 2) notwendig wurden. Sollte seit  der letzten Dokumentation keine solche Behandlung notwendig gewesen sein, geben Sie bitte die
+sind hier **Ereignisse aus der Vergangenheit**
 
-Zahl „0“ an
+sind jeweils **nur neu eingetretene**
+
+zu berücksichtigen.
+
+zum Zeitpunkt der Erstdokumentation -
+
+- gemeint. Diese muss Folge des Diabetes sein.
+
+- werden, wenn diese aufgrund eines  an
+
+**Folgedokumentation** möglich und hier . Eine schwere
+
+twendigkeit der Fremdhilfe, z. B. durch intravenöse
+
+definiert. Bei Kindern ist eine schwere
+
+Krampfanfall bzw. der Notwendigkeit der
+
+#### Diabetes mellitus seit der letzten
+
+**Folgedokumentation** möglich und ist hier
+
+die
 
 
 ---
@@ -348,21 +338,19 @@ Zahl „0“ an
 
 Bitte machen Sie zu jeder Wirkstoffgruppe eine Angabe. Bitte geben Sie bei einem „ Nein“ - wo
 
-möglich - zusätzlich an, ob die Nicht -Verordnung auf eine Kontraindikation gegen den Wirkstoff  zurückzuführen ist. Diese Angabe ist für die Qualitätssicherung notwendig. Bei Verwendung von
+möglich - zusätzlich an, ob die Nicht-Verordnung auf eine Kontraindikation gegen den Wirkstoff  zurückzuführen ist. Diese Angabe ist für die Qualitätssicherung notwendig. Bei Verwendung von
 
-Kombinationspräparaten oder Kombinationstherapien geben Sie bitte jeweils die einzelnen  Wirkstoffe an (z. B. „Metformin“ und zusätzlich eine Ang abe bei „ Sonstige antidiabetische
+Kombinationspräparaten oder Kombinationstherapien geben Sie bitte jeweils die einzelnen  Wirkstoffe an (z. B. „Metformin“ und zusätzlich eine Angabe bei „Sonstige antidiabetische
 
 Medikation“).
 
 Die Angaben können - je nach Praxissoftware - direkt aus der Vordokumentation übernommen  werden. Sie müssen dazu die Übernahme der vorherigen Angaben bestätigen.
 
-Eine Metformin -Monotherapie ist bei Diabetes mellitus Typ 2 Mittel der ersten Wahl bei den zu  verordnenden Antidiabetika.
+Eine Metformin-Monotherapie ist bei Diabetes mellitus Typ 2 Mittel der ersten Wahl bei den zu  verordnenden Antidiabetika.
 
-Patientinnen und Patienten mit unzureichender Kontrolle eines Diabetes mellitus Typ 2 und
+Patientinnen und Patienten mit unzureichender Kontrolle eines Diabetes mellitus Typ 2 und  Vorliegen einer manifesten kardiovaskulären Erkrankung, die bereits mit Medikamenten zur  Behandlung kardiovaskulärer Risikofaktoren behandelt werden, sollen darüber hinaus eine  Kombinationstherapie aus Metformin plus Liraglutid (GLP -1-Rezeptoragonist) oder Empagliflozin  (SGLT2-Inhibitor) erhalten, wenn Patientinnen und Patienten nach Abwägung der Wirkungen und  Nebenwirkungen dazu bereit sind.
 
-Vorliegen einer manifesten kardiovaskulären Erkrankung, die bereits mit Medikamenten zur  Behandlung kardiovaskulärer Risikofaktoren behandelt werden, soll en darüber hinaus eine  Kombinationstherapie aus Metformin plus Liraglutid (GLP -1-Rezeptoragonist) oder Empagliflozin  (SGLT2-Inhibitor) erhalten, wenn Patientinnen und Patienten nach Abwägung der Wirkungen und  Nebenwirkungen dazu bereit sind.
-
-Patientinnen und Patienten mit Herzinsuffizienz (Linksventrikuläre Ejektionsfraktion < 40 %) sollten  primär, d. h. unabhängig vom HbA1c -Wert und zusätzlich zur Standardtherapie, eine
+Patientinnen und Patienten mit Herzinsuffizienz (Linksventrikuläre Ejektionsfraktion < 40 %) sollten  primär, d. h. unabhängig vom HbA1c-Wert und zusätzlich zur Standardtherapie, eine
 
 Kombinationstherapie aus Metformin plus Dapagliflozin, nachrangig Metformin plus Empagliflozin ,  erhalten.
 
@@ -398,9 +386,7 @@ hier verpflichtend. Genau eine Angabe ist zulässig.
 
 Metformin als Monotherapie ist Mittel der ersten Wahl bei den zu verordnenden Antidiabetika. Sollte
 
-Ihre Patientin oder Ihr Patient wegen Nichterreichung des individuellen Therapiezieles unter
-
-Metformin-Monotherapie andere bzw. weitere Antidiabetika erhalten, ist dies hier zu dokumentieren.
+Ihre Patientin oder Ihr Patient wegen Nichterreichung des individuellen Therapiezieles unter  Metformin-Monotherapie andere bzw. weitere Antidiabetika erhalten, ist dies hier zu dokumentieren.
 
 Hierzu zählen z. B. Präparate aus der Gruppe der Sulfonylharnstoffe (Glibenclamid, Glitazone), der
 
@@ -433,9 +419,7 @@ Diese Angabe ist nur im Rahmen einer Dokumentation zu **Diabetes mellitus Typ 2*
 
 hier verpflichtend. Mindestens eine Angabe ist erforderlich, Mehrfachnennungen sind möglich.
 
-Geben Sie bitte an, ob eine Therapie mit einem GLP -1-Rezeptoragonist (z. B. Liraglutid)
-
-durchgeführt wird. Bitte geben Sie bei „Nein“ gegebenenfalls zusätzlich an, ob die Nicht-Verordnung
+Geben Sie bitte an, ob eine Therapie mit einem GLP-1-Rezeptoragonist (z. B. Liraglutid)  durchgeführt wird. Bitte geben Sie bei „Nein“ gegebenenfalls zusätzlich an, ob die Nicht-Verordnung
 
 auf eine Kontraindikation gegen die Gabe von GLP-1-Rezeptoragonisten zurückzuführen ist. Diese  Angabe ist für die Qualitätssicherung notwendig.
 
@@ -449,11 +433,9 @@ eine Angabe ist erforderlich, Mehrfachnennungen sind möglich.
 
 Geben Sie bitte an, ob eine Therapie mit Thrombozytenaggregationshemmern durchgeführt wird.  Hierbei ist die Gabe u. a. von ASS oder Clopidogrel gemeint. Sie können auch angeben, ob eine  orale Antikoagulations-Therapie erfolgt. Bitte geben Sie bei „Nein“ gegebenenfalls zusätzlich an, ob
 
-die Nicht -Verordnung auf
+die Nicht-Verordnung auf eine Kontraindikation gegen die Gabe eines
 
-eine Kontraindikation gegen die Gabe eines
-
-Thrombozytenaggregationshemmers zurückzuführen ist und/oder eine orale Antikoagulations - Therapie erfolgt. Diese Angabe ist für die Qualitätssicherung notwendig.
+Thrombozytenaggregationshemmers zurückzuführen ist und/oder eine orale Antikoagulations- Therapie erfolgt. Diese Angabe ist für die Qualitätssicherung notwendig.
 
 #### Schulung
 
@@ -476,9 +458,9 @@ Gemeint sind hierbei folgende Schulungsmaßnahmen:
 
 Sofern eine Teilnahme stattgefunden hat, geben Sie bitte an, für welche der beiden hier in Frage
 
-kommenden Indikation(en) die Schulung(en) durchgeführt wurde (n), wobei auch für beide  Schulungen gleichzeitig Angaben gemacht werden können . Eine erneute Teilnahme an einer  Schulung ist dadurch **NICHT** ausgeschlossen!
+kommenden Indikation(en) die Schulung(en) durchgeführt wurde(n), wobei auch für beide  Schulungen gleichzeitig Angaben gemacht werden können. Eine erneute Teilnahme an einer  Schulung ist dadurch **NICHT** ausgeschlossen!
 
-Wurde vor der Einschreibung in das DMP keine Diabetes- oder Hypertonie -Schulung
+Wurde vor der Einschreibung in das DMP keine Diabetes- oder Hypertonie-Schulung
 
 wahrgenommen, dokumentieren Sie dies bitte mit der Angabe „Keine“.
 
@@ -486,9 +468,7 @@ wahrgenommen, dokumentieren Sie dies bitte mit der Angabe „Keine“.
 
 Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.
 
-Wenn Sie Ihrer Patientin oder Ihrem Patienten aktuell (am Tage der Konsultation) die Teilnahme an  einem Schulungsprogramm empfohlen haben, geben Sie bitte hier an, für welche der beiden hier in  Frage kommenden Indikation(en) die Schulung(en) (Diabetes- und/oder Hypertonie -Schulung)
-
-durchgeführt werden soll(en).
+Wenn Sie Ihrer Patientin oder Ihrem Patienten aktuell (am Tage der Konsultation) die Teilnahme an  einem Schulungsprogramm empfohlen haben, geben Sie bitte hier an, für welche der beiden hier in  Frage kommenden Indikation(en) die Schulung(en) (Diabetes- und/oder Hypertonie-Schulung)  durchgeführt werden soll(en).
 
 Wenn Sie bereits zuvor eine Schulung empfohlen haben, diese aber aktuell noch nicht stattfinden  konnte, sprechen Sie die Empfehlung bitte erneut aus. In diesem Fall geben Sie bitte erneut an, für  welche der beiden hier in Frage kommenden Indikation(en) die Schulung(en) (Diabetes - und/oder
 
@@ -519,7 +499,7 @@ beachten Sie: Diese Angabe kann bei wiederholter Angabe zum Ausschluss des Versi
 
 ---
 
-Sollten Sie bei der letzten Dokumentation keine Schulung empfohlen haben, geben Sie bitte  letzter Dokumentation keine Schulung empfohlen“ an.
+Sollten Sie bei der letzten Dokumentation keine Schulung empfohlen haben, geben Sie bitte  letzter Dokumentation keine Schulung empfohlen“
 
 Die Angaben „Ja“, „War aktuell nicht möglich“ und „Bei letzter Dokumentation keine Schulung  empfohlen“ führen nicht zum Ausschluss Ihrer Patientin oder Ihres Patienten aus dem Programm.
 
@@ -531,23 +511,21 @@ Genau eine Angabe ist erforderlich.
 
 Unter Berücksichtigung der Gesamtsituation Ihrer Patientin oder Ihres Patienten (z. B. bestehende  Folge- und Begleiterkrankungen) ist zu dokumentieren, ob der aktuell gemessene HbA1c Rahmen der Zielvereinbarungen seit dem letzten Dokumentationstermin erreicht oder noch nicht  erreicht wurde.
 
-#### Ophthalmologische Netzhautuntersuchung seit der letzten Dokumentation
+#### Ophthalmologische Netzhautuntersuchung
 
 Mindestens eine Angabe ist verpflichtend. Mehrfachnennungen sind möglich.
 
-Die Angaben zur Netzhautuntersuchung beziehen sich ausschließlich  Zeitraum seit der letzten Dokumentation , und sind
+Die Angaben zur Netzhautuntersuchung beziehen sich ausschließlich rückblickend auf den  Zeitraum seit der letzten Dokumentation,
 
-**Folgedokumentation** möglich und verpflichtend . Eine Netzhautuntersuchung ist in Mydriasis in
+**Folgedokumentation** möglich und verpflichtend. Eine Netzhautuntersuchung ist in Mydriasis in
 
 Abhängigkeit vom Risikoprofil ein- oder zweijährlich durchzuführen.
 
 Bei Kindern und Jugendlichen mit Diabetes mellitus Typ 1 soll die Untersuchung nach fünf Jahren  Diabetesdauer, frühestens ab dem 11. Lebensjahr erfolgen.
 
-Geben Sie bitte an, ob die Untersuchung seit der letzten Dokumentation  durchgeführt“ oder von Ihnen „Veranlasst wurde.
+Geben Sie bitte an, ob die Untersuchung seit der letzten Dokumentation  durchgeführt“ oder von Ihnen „Veranlasst
 
-#### Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifizierten
-
-#### Einrichtung
+#### Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifizierten  Einrichtung
 
 Mindestens eine Angabe ist erforderlich, Mehrfachnennungen sind möglich.
 
@@ -555,27 +533,29 @@ Eine Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifiz
 
 ist mindestens erforderlich bei: Fuß-Läsionen mit oberflächlicher Wunde mit Ischämie und allen  tiefen Ulcera (mit oder ohne (Wund)Infektion, mit oder ohne Ischämie) sowie bei Verdacht auf  Charcot-Fuß.
 
-Die Angabe „Ja“ soll erfolgen, wenn eine Behandlung in einer für das Diabetische Fußsyndrom
-
-qualifizierte Einrichtung erfolgt oder , wenn Sie selbst zur Gruppe der für das Diabetische
-
-Fußsyndrom qualifizierten Ärztinnen oder Ärzte gehören und Ihre Patientin oder Ihren Patienten  daher nicht überweisen, sondern selber behandeln.
+Die Angabe „Ja“ soll erfolgen, wenn eine  qualifizierte Einrichtung erfolgt oder, wenn Sie selbst zur Gruppe der für das Diabetische  Fußsyndrom qualifizierten Ärztinnen oder Ärzte gehören und Ihre Patientin oder Ihren Patienten  daher nicht überweisen, sondern selber behandeln.
 
 Sollten Sie aufgrund des Vorliegens eines Diabetischen Fußsyndroms für Ihre Patientin oder Ihren  Patienten eine Behandlung bzw. Mitbehandlung in einer für das Diabetische Fußsyndrom  qualifizierten Einrichtung veranlasst haben, geben Sie dies bitte
 
-rückblickend auf den
+an.
 
-daher nur im Rahmen
+#### seit der letzten Dokumentation
 
-“Durchgeführt
+und sind daher
 
-mit „Veranlasst“ an.
+wurde.
+
+Behandlung in einer für das Diabetische Fußsyndrom
+
+mit „
 
 „Bei -Wert im
 
-einer
+nur im Rahmen einer
 
-“, „Nicht
+“Durchgeführt“, „Nicht
+
+Veranlasst“ an.
 
 
 ---

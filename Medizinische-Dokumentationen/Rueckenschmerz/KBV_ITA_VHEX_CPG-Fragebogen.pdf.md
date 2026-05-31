@@ -148,48 +148,26 @@ Keine Aktivität mehr möglich
 
 , auf einer  bedeuten?
 
-[9]
+[9] [10]
 
-vorstellbarer
+Stärkster
 
-[9]
+vorstellbarer  Schmerz
 
-vorstellbarer
+[9] [10]   Stärkster
+
+vorstellbarer  Schmerz
 
 , wenn
 
-[9]
+[9] [10]   Stärkster
 
-vorstellbarer
+vorstellbarer  Schmerz
 
-[9]
+[9] [10]
 
-[9]
+[9] [10]
 
 *10 = keine*
 
-[9]
-
-[10]
-
-Stärkster
-
-Schmerz
-
-[10]
-
-Stärkster
-
-Schmerz
-
-[10]
-
-Stärkster
-
-Schmerz
-
-[10]
-
-[10]
-
-[10]
+[9] [10]

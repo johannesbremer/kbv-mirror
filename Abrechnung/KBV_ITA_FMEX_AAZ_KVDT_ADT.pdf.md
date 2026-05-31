@@ -43,7 +43,7 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 | **Telefonnummer** |  | | |
 | **E-Mail-Adresse** |  | | |
 
-Rechtsform anzugeben] Systempfleger vom Antragssteller abweicht] [ ] [ ] [ ]
+Rechtsform anzugeben] Systempfleger vom Antragssteller abweicht]
 
 ---
 
@@ -77,23 +77,19 @@ Bitte geben Sie im Folgenden an, welche Client
 | ☐ | Windows | ☐ | Mac OS | ☐ | Linux |
 | ☐ | iOS/Android | ☐ | Sonstige | | |
 
-[ ]
-
 1.1.
-
-[ ]
 
 vorhanden) des Zertifizierungsgegenstandes an.
 
 -Betriebssysteme unterstützt werden.
 
-Antragsstellers Stellen der Prüfnummer, falls vorhanden] unterstützt das Einlesen von Versichertenkarten? [ ] Kontakt (APK) [ ] Patient-Kontakt (APK) [ ] [ ] [ ]
+Antragsstellers Stellen der Prüfnummer, falls vorhanden] unterstützt das Einlesen von Versichertenkarten? Kontakt (APK) Patient-Kontakt (APK)
 
 ---
 
-# 2
+# 2 REALISIERUNG VON ANFORDERUNGEN
 
-**2.1**
+**2.1** **SATZARTEN UND SCHEINUNTERGRUPPEN**
 
 |  |  | | | | | | |
 |---|---|---|---|---|---|---|---|
@@ -115,64 +111,19 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden] unterstützt das Einle
 | ☐ | 45 = Notarzt-/Rettungswagen (Rettungsdienst) | | | | | | |
 | ☐ | 46 = Zentraler Notfalldienst | | | | | | |
 
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-**2.2**
+**2.2** **BEDRUCKUNG DES PERSONALIENFELDES**
 
 |  |  |
 |---|---|
 | ☐ | Die Bedruckung des Personalienfeldes von vertragsärztlichen Formularen wird unterstützt. |
 | ☐ | Die Bedruckung des Personalienfeldes von vertragsärztlichen Formularen wird nicht unterstützt. |
 
-[ ]
+(Ambulante Behandlung) (Überweisung) (Belegärztliche Behandlung) (Notfalldienst) Grundsätzen / Version: 4.4 / 15. Mai 2024
 
-[ ]
-
-# REALISIERUNG VON ANFORDERUNGEN
-
-## SATZARTEN UND SCHEINUNTERGRUPPEN
-
-## BEDRUCKUNG DES PERSONALIENFELDES
-
-/ Version: 4.4 / 15. Mai 2024
-
-(Ambulante Behandlung) [ ] (Überweisung) [ ] (Belegärztliche Behandlung) Grundsätzen [ ] (Notfalldienst)
 
 ---
 
-**2.3**
+**2.3** **ABRECHNUNGSGEBIET**
 
 |  |  |
 |---|---|
@@ -192,50 +143,12 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden] unterstützt das Einle
 | ☐ | 14 = Ambulantes Operieren |
 | ☐ | 15 = AOP nach § 115b |
 
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-**2.4**
+**2.4** **ANFORDERUNGSDOKUMENTE**
 
 |  |  |
 |---|---|
 | ☐ | Auf Grundlage der aktuell gültigen Date |
 | ☐ | Alle Pflichtfunktionen ADT des Anforderungskataloges KVDT sind realisiert. |
-
-[ ]
-
-[ ]
-
-## ABRECHNUNGSGEBIET
-
-## ANFORDERUNGSDOKUMENTE
 
 nsatzbeschreibung KVDT ist das ADT-Datenpaket mit den oben genannten Satzarten realisiert mit  allen Feldern allen Ausprägungen (erlaubte Inhalte) zu den Feldern allen Regeln
 
@@ -247,15 +160,13 @@ nsatzbeschreibung KVDT ist das ADT-Datenpaket mit den oben genannten Satzarten r
 |---|---|
 | ☐ | Alle Funktionen zum Thema „Unterstützung im Rahmen der digitalen Übermittlung des |
 
-**2.6** **ÜBERTRAGUNG PRÜFNACHWEIS NACH VSDM**
+**2.6** **ÜBERTRAGUNG PRÜFNACHWEIS NACH VSDM-AKTUALISIERUNG**
 
 |  |  |
 |---|---|
 | ☐ | Die konditionale Pflichtfunktion KP2-185 wurde im ADT umgesetzt. |
 
-[ ]
-
-## 2.7 REALISIERTE OPTIONALE FUNKTIONEN
+## 2.7 REALISIERTE OPTIONALE FUNKTIONEN ADT
 
 Folgende optionale ADT Funktionen sind gemäß Anforderungskatalog KVDT realisiert.
 
@@ -272,11 +183,7 @@ Folgende optionale ADT Funktionen sind gemäß Anforderungskatalog KVDT realisie
 |  |  |
 |  |  |
 
-## -AKTUALISIERUNG
-
-## ADT
-
-[ ] Überweisungsscheins (Muster 6)“ des Anforderungskataloges KVDT sind realisiert. [ ] [ ] [ ] ADT LT. ANFORDERUNGSKATALOG
+Überweisungsscheins (Muster 6)“ des Anforderungskataloges KVDT sind realisiert. ADT LT. ANFORDERUNGSKATALOG
 
 ---
 
@@ -338,7 +245,7 @@ Diese Information ist verpflichtend anzugeben
 
 | **THEMA** | **ZERTIFIZIERUNGSART** | **PRÜFUNGSART** | **KOSTEN IN €** |
 |---|---|---|---|
-| ADT | Rezertifizierung | Sichtprüfung | 1.238,58 [pro Termin] |
+| ADT | Neu- oder | Sichtprüfung | 1.238,58 [pro Termin] |
 |  | Erweiterungs- | Sicht- oder | 344,05 [pro Satzart] |
 
 - **II.** **Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**
@@ -383,7 +290,7 @@ Diese Information ist verpflichtend anzugeben
 
 -
 
-Neu- oder zertifizierung einer neuen Satzart oder Scheinuntergruppe Ergebnisprüfung
+Rezertifizierung zertifizierung einer neuen Satzart oder Scheinuntergruppe Ergebnisprüfung
 
 ---
 

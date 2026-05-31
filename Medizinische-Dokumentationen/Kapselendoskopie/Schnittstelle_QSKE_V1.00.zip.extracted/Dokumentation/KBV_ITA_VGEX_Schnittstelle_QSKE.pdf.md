@@ -9,11 +9,11 @@
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
-|  | 08.08.2014 |
+|  | Version |
 
 8
 
-Kapselendoskopie KE] Digitalisierung und IT -Lewin-Platz 2 Version  1.00 Datum: Kennzeichnung: Öffentlich  In Kraft Status:
+Kapselendoskopie KE] Digitalisierung und IT -Lewin-Platz 2 1.00 Datum: 08.08.2014 Kennzeichnung: Öffentlich  In Kraft Status:
 
 ---
 
@@ -224,7 +224,7 @@ Der Dateiname basiert auf dem Dateinamenskonzept der EHD-Spezifikation 1.40
 
 **sender** ...... Absender der Lieferung, entspricht der LANR des Arztes.
 
-**du+**...... Zeitstempel ( Datum und Zeitpunkt) der Datei-Erstellung. Das Format ist:  JJJJMMTThhmmss
+**du+**...... Zeitstempel (Datum und Zeitpunkt) der Datei-Erstellung. Das Format ist:  JJJJMMTThhmmss
 
 T-Tag, M-Monat, J-Jahr, h-Stunden, m-Minuten, s-Sekunden
 
@@ -354,17 +354,19 @@ mente eingeschränkt:
 
 **Abbildung 3 - Element document_type_cd**
 
--  Das *document_relationship*-Element ist ein optionales Element und wird gefüllt, wenn
+-  Das  eine Korrekturlieferung erfolgt.  *document_relationship*-Element ist ein optionales Element und wird gefüllt, wenn
 
-- eine Korrekturlieferung erfolgt.
-
-- o Das Element *document_relationship/document_relationship.type_cd* enthält im
+- o Das Element *document_relationship/document_relationship.type_cd*
 
 - V-Attribut den Wert „RPLC“
 
-- o Das Element *document_relationship/related_document/id* enthält den Verweis
+- enthält im
+
+- o Das Element *document_relationship/related_document/id*
 
 - auf das *id*-Element des Ursprungsdokuments.
+
+- enthält den Verweis
 
 **Abbildung 4 - Element document_relationship**
 
@@ -409,7 +411,7 @@ Kapselendoskopie
 
 XML-Beispiel
 
-\| </ehd:person>        </ehd:organization>                    <ehd:local_header>                  </ehd:header> |
+\| </ehd:person>      </ehd:organization>              <ehd:local_header>              </ehd:header> |
 \|---|
 
 **XML-Code 3 - ehd-header**
@@ -428,7 +430,7 @@ Die Information über die Software und deren Verantwortliche wird mittels der Sc
 
 Kapselendoskopie
 
-<ehd:header> <ehd:id RT="555333222" EX="ag111105-2d51-4016-831e-cbd9e1a318h9"/> <ehd:document_type_cd V="QSKE"/> <ehd:origination_dttm V="2013-02-02"/> <ehd:provider> <ehd:person> <ehd:id EX="555333222" RT="1.2.276.0.76.4.16"/> <ehd:organization> <ehd:id EX="123456789" RT="1.2.276.0.76.4.17"/> </ehd:provider> <ehd:interface> <ehd:id EX="QSKE" RT="1.2.276.0.76.5.109"/> <ehd:interface.nm V="QS Kapselendoskopie"/> <ehd:version V="1.00"/> <ehd:/interface> <sciphox:sciphox-ssu type="software" country="de" version="v1"> <sciphox:Software> <sciphox:id  EX="..." RT="KBV-Prüfnummer"/>   </sciphox:Software> </sciphox:sciphox-ssu> </ehd:local_heaer>
+<ehd:header> <ehd:id RT="555333222" EX="ag111105-2d51-4016-831e-cbd9e1a318h9"/> <ehd:document_type_cd V="QSKE"/> <ehd:origination_dttm V="2013-02-02"/> <ehd:provider> <ehd:person> <ehd:id EX="555333222" RT="1.2.276.0.76.4.16"/> <ehd:organization> <ehd:id EX="123456789" RT="1.2.276.0.76.4.17"/> </ehd:provider> <ehd:interface> <ehd:id EX="QSKE" RT="1.2.276.0.76.5.109"/> <ehd:interface.nm V="QS Kapselendoskopie"/> <ehd:version V="1.00"/> <ehd:/interface> <sciphox:sciphox-ssu type="software" country="de" version="v1"> <sciphox:Software> <sciphox:id  EX="..." RT="KBV-Prüfnummer"/>  </sciphox:Software> </sciphox:sciphox-ssu> </ehd:local_heaer>
 
 ---
 
@@ -510,13 +512,15 @@ Kapselendoskopie
 
 **XML-Code 6 - qske dokumentation**
 
-### 4.3.1 a nzahl_erstuntersuchungen 1
+### 4.3.1 anzahl_erstuntersuchungen
 
-Die Anzahl (nonNegativeInteger ) der durchgeführten Erstuntersuchungen (entspricht Feld 1.a  der Plausibilitäten [ KBV_ITA_VGEX_Plausi_QSKE]) wird hier im V-Attribut angegeben. Der  Wert muss zwischen 0 und 99999 liegen.
+Die Anzahl (nonNegativeInteger1) der durchgeführten Erstuntersuchungen (entspricht Feld 1.a
+
+der Plausibilitäten [KBV_ITA_VGEX_Plausi_QSKE]) wird hier im V-Attribut angegeben. Der  Wert muss zwischen 0 und 99999 liegen.
 
 ### 4.3.2 anzahl_wiederholungsuntersuchen
 
-Die Anzahl (nonNegativeInteger) der durchgeführten Wiederholungsuntersuchungen (en t- spricht Feld 1.b der Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert muss zwi- schen 0 und 99999 liegen.
+Die Anzahl (nonNegativeInteger) der durchgeführten Wiederholungsuntersuchungen (ent- spricht Feld 1.b der Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert muss zwi- schen 0 und 99999 liegen.
 
 ### 4.3.3
 

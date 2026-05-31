@@ -27,10 +27,9 @@ Die Änderungen treten zum1
 | 1.1 | 14.02.2020 | KBV | Anpassung an aktuelles |  | **Alle** |
 | 1.0 | 02.06.2017 | KBV | Neues Prüfpaket | Neues Zertifizierungsthema | **Alle** |
 
-**5.09.2025**
+**5.09.2025** in Kraft
 
-veralteten Hyperlinks sowie redaktionelle Anpassungen KBV Corporate Design (Hinweis: Hierdurch bedingte Formatierungsänderungen sind nicht gelb markiert); redaktionelle Änderungen „Sektorzulassung SMC B“in Kraft
-
+veralteten Hyperlinks sowie redaktionelle Anpassungen KBV Corporate Design (Hinweis: Hierdurch bedingte Formatierungsänderungen sind nicht gelb markiert); redaktionelle Änderungen „Sektorzulassung SMC B“
 
 ---
 

@@ -23,7 +23,7 @@ Das DMP chronischer Rückenschmerz soll unter anderem dazu beitragen, außerplan
 
 stationäre ärztliche kreuzschmerzbedingte Akutbehandlungen nach Möglichkeit zu vermeiden
 
-Geben Sie in diesem Feld bitte d ie An zahl a ller **ungeplanten ambulanten oder stationären**
+Geben Sie in diesem Feld bitte die Anzahl aller **ungeplanten ambulanten oder stationären**
 
 **kreuzschmerzbedingten Akutbehandlungen** seit der letzten Dokumentation an. Dabei liegt es in Ihrem
 
@@ -35,9 +35,9 @@ als „0“ und größer als „99“ ist nicht möglich.
 
 ## Medikamente
 
-Die medikamentöse Therapie nicht -spezifischer Kreuzschmerzen erfolgt symptomorientiert. Sie **dient der**
+Die medikamentöse Therapie nicht-spezifischer Kreuzschmerzen erfolgt symptomorientiert. Sie **dient der**
 
-**Unterstützung der nicht -medikamentösen Maßnahmen** , damit die Patienten frühzeitig ihre üblichen
+**Unterstützung der nicht-medikamentösen Maßnahmen**, damit die Patienten frühzeitig ihre üblichen
 
 Aktivitäten wiederaufnehmen können. Eine medikamentöse Therapie kann erforderlich werden, um den Beginn  der aktivierenden Maßnahmen zu unterstützen. Sie kann außerdem erforderlich werden, wenn trotz  regelgerechter Durchführung der nicht-medikamentösen Maßnahmen eine für die Patientin oder den Patienten
 
@@ -63,7 +63,7 @@ Gesamtkonzepts **zeitlich begrenzt** indiziert sein, daher sollte die Indikation
 
 Opioidanalgetika sind als einzige Maßnahme aber im Regelfall nicht ausreichend und führen nur bei einem Teil
 
-der Patientinnen und Patienten zur erwünschten Schmerzlinderung und/ode r einer Verbesserung der  funktionellen Kapazität. Eine langfristige Behandlung ist entsprechend nur bei Patientinnen und Patienten mit  individuell gutem Ansprechen und guter Verträglichkeit sinnvoll. Aufgrund dieser eingeschränkten Wirksamkeit,  des relevan ten Nebenwirkungsprofils, der Suchtgefahr und der möglichen Einschränkung der
+der Patientinnen und Patienten zur erwünschten Schmerzlinderung und/oder einer Verbesserung der  funktionellen Kapazität. Eine langfristige Behandlung ist entsprechend nur bei Patientinnen und Patienten mit  individuell gutem Ansprechen und guter Verträglichkeit sinnvoll. Aufgrund dieser eingeschränkten Wirksamkeit,  des relevanten Nebenwirkungsprofils, der Suchtgefahr und der möglichen Einschränkung der
 
 Verkehrssicherheit, sollte eine **langfristige Anwendung von Opioiden** unter regelmäßiger kritischer Prüfung
 
@@ -88,9 +88,7 @@ an. Dauert die Behandlung aktuell exakt 12 Wochen an, geben Sie bitte „Ja, wen
 
 Das Dokumentationsfeld bezieht sich auf alle Nicht dies in der möglichst niedrigsten wirksamen Dosierung geschehen. COX -2-Hemmer können als Alternative  erwogen werden, wenn NSAR nicht vertragen werden. **wie möglich**, unter Berücksichtigung des gastrointestinalen und kardiovaskulären Risikoprofils sowie unter
 
-Beachtung der arzneimittelrechtlichen Zulassung eingesetzt werden. Metamizol kann bei Kontraindikationen  für NSAR erwogen werden. Auch hier gilt der Grundsatz:  Berücksichtigung der Warnhinweise. Paracetamol sollte nicht zur Behandlung von nicht -spezifischen
-
-Kreuzschmerzen eingesetzt werden.
+Beachtung der arzneimittelrechtlichen Zulassung eingesetzt werden. Metamizol kann bei Kontraindikationen  für NSAR erwogen werden. Auch hier gilt der Grundsatz:  Berücksichtigung der Warnhinweise. Paracetamol sollte nicht zur Behandlung von nicht-spezifischen  Kreuzschmerzen eingesetzt werden.
 
 Bitte geben Sie hier an, ob eine aktuelle
 
@@ -108,7 +106,7 @@ NSAR und COX-2-Hemmer sollen dabei **so kurzzeitig**
 
 **Niedrigste Dosis so kurzzeitig wie möglich** unter
 
-kreuzschmerzbedingte Schm erzmedikation mit Nicht
+kreuzschmerzbedingte Schmerzmedikation mit Nicht-
 
 oder **„Bei Bedarf** erfolgt. Bitte beachten Sie, dass
 
@@ -126,7 +124,7 @@ Eine Angabe in diesem Feld ist nur im Rahmen der **Erstdokumentation**
 
 Bei der Folgedokumentation ist hier keine Angabe möglich.
 
-Bitte geben Sie an , ob Ihre Patientin oder Ihr Patient bereits vor Einschreibung in das DMP an einer  multimodalen kreuzschmerz -bedingten Schulung teilgenommen h mindestens ein somatisches und ein psychisch orientiertes Modul , die aufeinander abgestimmt sind in der  Schulung enthalten sein sollte.
+Bitte geben Sie an, ob Ihre Patientin oder Ihr Patient bereits vor Einschreibung in das DMP an einer  multimodalen kreuzschmerz-bedingten Schulung teilgenommen h mindestens ein somatisches und ein psychisch orientiertes Modul , die aufeinander abgestimmt sind in der  Schulung enthalten sein sollte.
 
 Eine erneute Teilnahme an einer Schulung im Rahmen des DMP
 
@@ -146,7 +144,7 @@ kreuzschmerz-spezifischen Schulung erhalten.  entationsfeldern zu Schulungen:
 
 möglich und hier verpflichtend
 
-at. „Multimodal“ bedeutet hier , dass
+at. „Multimodal“ bedeutet hier, dass
 
 ist dadurch NICHT ausgeschlossen!
 
@@ -165,9 +163,7 @@ Bei der Erstdokumentation ist hier keine Angabe möglich.
 
 Hat Ihre Patientin oder Ihr Patient im Dokumentationszeitraum an einer Schulung teilgenommen, geben Sie  bitte „Ja“ an.
 
-War die Teilnahme an einer Schulung innerhalb des Dokumentationszeitraums aus nachvollziehbaren
-
-Gründen nicht möglich, geben Sie hier bitte „War aktuell nicht möglich“ an . Solche Gründe können z.B.
+War die Teilnahme an einer Schulung innerhalb des Dokumentationszeitraums aus nachvollziehbaren  Gründen nicht möglich, geben Sie hier bitte „War aktuell nicht möglich“ an. Solche Gründe können z.B.
 
 fehlende Schulungskapazität, Krankenhausaufenthalt der Patientin oder des Patienten oder private Gründe  sein. Die Beurteilung, ob die Gründe nachvollziehbar sind, obliegt alleine Ihnen und Ihrer Patientin bzw. Ihrem
 
@@ -175,9 +171,7 @@ Patienten.
 
 Sollten Sie Ihrer Patientin oder Ihrem Patienten bei einer der vorhergehenden Dokumentationen eine Schulung
 
-empfohlen haben, die Patientin bzw. der Patient die Schulung aber ohne einen für Sie nachvollziehbaren
-
-Grund nicht wahrgenommen haben, geben Sie bitte „Nein“ an.
+empfohlen haben, die Patientin bzw. der Patient die Schulung aber ohne einen für Sie nachvollziehbaren  Grund nicht wahrgenommen haben, geben Sie bitte „Nein“ an.
 
 **Bitte beachten Sie:** Diese Angabe kann bei wiederholter Angabe zum Ausschluss des Versicherten aus dem
 
@@ -232,7 +226,7 @@ Bei der Erstdokumentation ist hier keine Angabe möglich.
 
 Im Rahmen der Therapieplanung erstellen Sie gemeinsam mit Ihrer Patientin oder Ihrem Patienten einen  **Therapieplan mit individuellen Zielen** (z. B. zur Steigerung der körperlichen Aktivität oder zur regelmäßigen
 
-Übung von Entspannungsverfahren). Inwiefern das Ziel oder die **Ziele erreicht sind** , soll **bei jeder**
+Übung von Entspannungsverfahren). Inwiefern das Ziel oder die **Ziele erreicht sind**, soll **bei jeder**
 
 **Konsultation im Rahmen des DMP überprüft** werden. In Abhängigkeit der Zielerreichung sollen die Ziele
 
@@ -274,37 +268,25 @@ Geben Sie die Angabe als ganze Zahl in diesem Feld ein. Eine Angabe kleiner als 
 
 nicht möglich.
 
-#### CPG Item 5: Kreuzschmerzbedingte Beeinträchtigung der alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei
-In diesem Feld ist eine** numerische Angabe**
+#### CPG Item 5: Kreuzschmerzbedingte Beeinträchtigung der alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei Monaten
+In diesem Feld ist eine** numerische Angabe ohne Nachkommastelle** erforderlich.
 
-Zur regelmäßigen Verlaufsuntersuchung in
+Zur regelmäßigen Verlaufsuntersuchung in diesem DMP gehört die Beurteilung der **subjektiven**
 
 **Funktionsbeeinträchtigung** (Beeinträchtigungen im Alltag, bei der Arbeit und/oder in der Freizeit durch die
 
-Schmerzen) der Patientin bzw. des Patienten.  Patientin oder des Patienten erfasst. Dieses Feld entspricht der Frage (Item) 5 im CPG-Fragebogen,
+Schmerzen) der Patientin bzw. des Patienten. Diese wird hier über eine standardisierte Selbsteinschätzung der
+
+Patientin oder des Patienten erfasst. Dieses Feld entspricht der Frage (Item) 5 im CPG-Fragebogen, den Sie
 
 zur Einschreibung der Patienten eingesetzt haben.
-
-#### Monaten
-
-**ohne Nachkommastelle** erforderlich.
-
-diesem DMP
-
-Diese wird hier über eine standardisierte Selbsteinschätzung der
-
-gehört die Beurteilung der **subjektiven**
-
-den Sie
 
 
 ---
 
 Bitte lassen Sie Ihre Patientin oder Ihren P atienten auf einer **Skala von 0 bis 10** einschätzen, **in** **welchem**
 
-**Maße die Rückenschmerzen in den letzten den Monaten ihre bzw. seine alltäglichen Aktivitäten**
-
-**(Ankleiden, Waschen, Essen, Einkaufen etc.) beeinträchtigt haben**
+**Maße die Rückenschmerzen in den letzten den Monaten ihre bzw. seine alltäglichen Aktivitäten**  **(Ankleiden, Waschen, Essen, Einkaufen etc.) beeinträchtigt haben**
 
 Dabei steht die Zahl ***0*** für ***keine Beeinträchtigung*** und die Zahl ***10*** für ***Maximale Beeinträchtigung /***
 
@@ -324,13 +306,13 @@ Bei der Erstdokumentation ist hier keine Angabe möglich.
 
 Anders als bei anderen Erkrankungen, bei denen von einem lebenslangen chronischen Verlauf auszugehen  ist, sind beim chronischen Rückenschmerz bei manchen Patienten Besserungen in einem Ausmaß möglich,  die einen weiteren Verbleib im DMP nicht mehr zweckmäßig erscheinen lassen. Aus diesem Grund sollen Sie
 
-**regelmäßig überprüfen** , ob **die Patientin oder der Patient weiterhin von einer Teilnahme am DMP**
+**regelmäßig überprüfen**, ob **die Patientin oder der Patient weiterhin von einer Teilnahme am DMP**
 
 **profitieren kann**. Sollten Sie gemeinsam mit der Patientin oder der Patient zu der Auffassung kommen, dass
 
 ihre oder seine weitere Teilnahme am DMP nicht sinnvoll ist, können Sie das über dieses Feld dokumentieren.
 
-**Wenn Sie hier die Antwort „Ja“ angeben, erfolgt eine Beendigung der DMP -Teilnahme**
+**Wenn Sie hier die Antwort „Ja“ angeben, erfolgt eine Beendigung der DMP-Teilnahme**
 
 **(Ausschreibung!) durch die Krankenkasse** **mit dem Erstelldatum dieser Dokumentation.** **Bitte beachten**
 

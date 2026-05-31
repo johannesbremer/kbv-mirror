@@ -28,14 +28,14 @@
 
 | **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
 |---|---|---|---|
-|  | **erfolgt, sind die nachstehenden Felder der Anlage 8* entsprechend den Festlegungen der** | | |
+|  | **Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2*** | | |
 |  | Anamnese- und Befunddaten |  | |
 | 1 | HbA1c-Wert | Wert in % / mmol/mol | Pflichtfeld  Nur eine Angabe ist möglich.  Numerische Angabe    Erfolgt die Angabe  Wertebereich 0,0 bis 21,0.    Erfolg Wertebereich 0 bis 210. |
 | 1a | Nur bei Diabetes mellitus    Pathologische Albumin-Kreatinin- | Ja / Nein / Nicht untersucht | Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig.    Eine Angabe ist erforderlich, wenn in Feld 10 der Anlage    Eine Angabe ist nicht zulässig, wenn in Feld 10 der |
 | 2 | (weggefallen) | (weggefallen) |  |
-| 2a | eGFR | 2 | Pflichtfeld  Genau eine Angabe ist zulässig.    2 |
+| 2a | eGFR | ml/min/1,73m | Pflichtfeld  Genau eine Angabe ist zulässig.    Erfolgt die Angabe im Fel |
 
-Nr. Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* Typ 1“ oder „Diabetes mellitus Typ 2“ Plausibilitätsregeln auszufüllen Typ 1: Ratio ml/min/1,73m KOF/ Nicht bestimmt in Feld 10 mindestens die Angabe „Diabetes mellitus im Feld „Wert in %“: Stelle hinter dem Komma; t die Angabe in Feld „mmol/mol“: Nachkommastelle; 2* die Angabe „Diabetes mellitus Typ 1“ erfolgt ist Anlage 2* die Angabe „Diabetes mellitus Typ 2“ erfolgt ist.  Erfolgt die Angabe im Fel d „ml/min/1,73m Angabe mit einer  Angabe ohne KOF“:Datensatz für die indikationsspezifische Dokumentation: **Diabetes mellitus Typ 1 und Diabetes mellitus Typ 2**
+Nr. Typ 1“ oder „Diabetes mellitus Typ 2“ Plausibilitätsregeln auszufüllen Typ 1: Ratio  erfolgt, sind die nachstehenden Felder der Anlage 8* entsprechend den Festlegungen der  KOF/ Nicht bestimmt in Feld 10 mindestens die Angabe „Diabetes mellitus im Feld „Wert in %“: Stelle hinter dem Komma; t die Angabe in Feld „mmol/mol“: Nachkommastelle; 2* die Angabe „Diabetes mellitus Typ 1“ erfolgt ist die Angabe „Diabetes mellitus Typ 2“ erfolgt ist.  d „ml/min/1,73m Angabe mit einer  Angabe ohne KOF“:Datensatz für die indikationsspezifische Dokumentation: **Diabetes mellitus Typ 1 und Diabetes mellitus Typ 2**
 
 
 ---
@@ -45,7 +45,7 @@ Nr. Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlag
 |  |  |  | nummerischer Wert; Angabe ohne Nachkommastelle  Wertebereich 0 bis 200 |
 | 3 | Fußstatus | 1.  Unauffällig / Auffällig / Nicht untersucht     2.  Unauffällig / Auffällig / Nicht untersucht     3.  Fußdeformität / Hyperkeratose mit  ja / nein / nicht untersucht      4.  oberflächlich / tief/ nein / nicht untersucht    5.  ja / nein / nicht untersucht | Bedingtes Pflichtfeld    Wenn die Differenz aus der Datumsangabe in Feld 22 der  -        UND  -  -        UND  -  -    Zu 1. Pulsstatus: genau eine Angabe ist zulässig.    Zu 2. Sensibilitätsprüfung: genau eine Angabe ist    Zu 3. Weiteres Risiko für Ulcus: mindestens eine Angabe    Wenn die Angab Wenn die Angabe „   zu 4. Ulkus: genau eine Angabe ist zulässig.    Zu 5. (Wund)Infektion: genau eine Angabe ist zulässig. |
 
-Nr. Einblutung / Z. n. Ulkus /Z. n. Amputation / Plausibilitätsregeln zur Anlage 2* minus der Datumsangabe in Feld 3 der Plausibilitätsregeln zur Anlage 2* ein Lebensalter von >=18 Jahren ergeben, muss jeweils  genau eine Angabe zu „ Pulsstatus“ genau eine Angabe zu genau eine Angabe zu „4. Ulkus“ zu „5. (Wund)Infektion“ mindestens eine Angabe zu „3. weiteres Risiko für Ulcus“ erfolgen. ist erforderlich, Mehrfachnennungen sind möglich. “ erfolgt ist, ist keine weitere Angabe zulässig. “ e rfolgt ist, ist keine weitere Angabe zulässig. Alle anderen Kombinationen sind zulässig.
+Nr. Einblutung / Z. n. Ulkus /Z. n. Amputation / Plausibilitätsregeln zur Anlage 2* minus der Datumsangabe in Feld 3 der Plausibilitätsregeln zur Anlage 2* ein Lebensalter von >=18 Jahren ergeben, muss jeweils  genau eine Angabe zu „ Pulsstatus“ genau eine Angabe zu genau eine Angabe zu „4. Ulkus“ zu „5. (Wund)Infektion“ mindestens eine Angabe zu „3. für Ulcus“ erfolgen. weiteres Risiko ist erforderlich, Mehrfachnennungen sind möglich. weitere Angabe zulässig. “ erfolgt ist, ist keine “ e rfolgt ist, ist keine weitere Angabe zulässig. Alle anderen Kombinationen sind zulässig.
 
 ---
 
@@ -117,7 +117,7 @@ Nr. Dokumentation)   Keine  Nein“ kann alleine oder gleic  und/oder erfolgen. 
 |  | Behandlungsplanung |  | |
 | 20 | HbA1c-Zielwert | Zielwert erreicht / Zielwert noch nicht erreicht | Pflichtfeld  Genau eine Angabe ist zulässig. |
 
-Nr. ins DMP bereits wahrgenommen wahrgenommen  Keine Dokumentation keine Schulung empfohlen  Dokumentation keine Schulung empfohlen 8* im Rahmen einer Erstdokumentation auszufüllen ist. Eine Angabe im Rahmen einer Folgedokumentation ist nicht zulässig. „Keine“ erfolgt ist, kann nicht gleichze itig „Diabetes hulung“ und / Schulung“ ange kreuzt werden. Schulung“ kann gleichzeitig mit der Angabe „Hypertonie Schulung“ erfolgen Rahmen einer Folgedokumentation auszufüllen ist. nicht zulässig. Schulung" und für die "Hypertonie-Schulung" erforderlich. Schulung“ ist zulässig Schulung“ sind gleichzeitig erforderlich und voneinander unabhängig.  oder „Hypertonie
+Nr. ins DMP bereits wahrgenommen Keine wahrgenommen  Dokumentation keine Schulung empfohlen  Dokumentation keine Schulung empfohlen 8* im Rahmen einer Erstdokumentation auszufüllen ist. Eine Angabe im Rahmen einer Folgedokumentation ist nicht zulässig. „Keine“ erfolgt ist, kann nicht gleichze itig „Diabetes hulung“ und / Schulung“ ange kreuzt werden. Schulung“ kann gleichzeitig mit der Angabe „Hypertonie Schulung“ erfolgen Rahmen einer Folgedokumentation auszufüllen ist. nicht zulässig. Schulung" und für die "Hypertonie-Schulung" erforderlich. Schulung“ ist zulässig Schulung“ sind gleichzeitig erforderlich und voneinander unabhängig.  oder „Hypertonie
 
 ---
 

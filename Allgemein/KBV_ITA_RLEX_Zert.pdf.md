@@ -24,9 +24,7 @@
 
 - 2. Labordatenkommunikation,
 
-- 1
-
-- 3. Blankoformularbedruckung nach Anlage 2a BMV-Ä ,
+- 3. Blankoformularbedruckung nach Anlage 2a BMV-Ä1
 
 - 4. Digitale Muster nach Anlage 2b BMV-Ä,
 
@@ -36,9 +34,7 @@
 
 - 7. Disease-Management-Programme,
 
-- 2
-
-- 8. Medizinische Dokumentationen nach G-BA Richtlinien oder Qualitätssicherungsvereinbarungen,
+- 8. Medizinische Dokumentationen nach G-BA2 Richtlinien oder Qualitätssicherungsvereinbarungen,
 
 - 9. Sicheres Netz der KVen (SNK): KV-SafeNet, KV-FlexNet und KV-SafeNet (Netzkopplung),
 
@@ -165,14 +161,14 @@ Die Gebühren und Auslagen auf Grundlage dieser Richtlinie bestimmen sich nach d
 |---|---|---|
 | 1. | **Ergebnisprüfung** | 68,00 |
 | 2. | **Sichtprüfung** | 68,00 |
-| 3. | Beendigung der Zertifizierung ohne Zulassung | themenspezifischen Kosten des |
+| 3. | Beendigung der Zertifizierung ohne Zulassung | 34,00 |
 | 4. | Entzug der Zulassung | 68,00 |
 | 5. | Herstellung von Abschriften und Ausdrucken 5.1 - je DIN A4-Kopie-SW  5.2 - je DIN A3-Kopie-SW  5.3 - je DIN A4-Farbkopie  5.4 - je DIN A3-Farbkopie | 0,10  0,15  0,50  0,75 € |
 | 6. | Herstellung von Kopien auf sonstigen Datenträgern | In voller Höhe |
-| 7. | Vollständige oder teilweise Zurückweisung eines  Widerspruchs. | angefochtenen Verwaltungsakt |
+| 7. | Vollständige oder teilweise Zurückweisung eines  Widerspruchs. | Bis zur Höhe der für den |
 | 8. | Aufwand für besondere Verpackung und besondere  Beförderung | In voller Höhe |
 
-für Neu-, Re- und Erweiterungszertifizierung beinhaltet u. a. die anfallende automatische Rezertifizierung für Neu-, Re- und Erweiterungszertifizierung [pro Sichtprüfungstermin] beinhaltet u. a. die anfallende automatische Rezertifizierung € bis 4.000,00 € bis 4.000,00 34,00 € bis zu  25 % der Verfahrens € bis 4.000,00 Bis zur Höhe der für den festgesetzten Gebühr; mindestens €, höchstens 350,00 €
+für Neu-, Re- und Erweiterungszertifizierung beinhaltet u. a. die anfallende automatische Rezertifizierung für Neu-, Re- und Erweiterungszertifizierung [pro Sichtprüfungstermin] beinhaltet u. a. die anfallende automatische Rezertifizierung € bis 4.000,00 € bis 4.000,00 € bis zu  25 % der themenspezifischen Kosten des Verfahrens € bis 4.000,00 angefochtenen Verwaltungsakt festgesetzten Gebühr; mindestens €, höchstens 350,00 €
 
 
 ---

@@ -255,11 +255,11 @@ Diese Verordnungsfunktionen werden für die VoS vorausgesetzt und sind nicht Bes
 
 Ein elektronisches Programm, aus dem ein Arzt eine Funktion einer VoS aufruft, wird als PVS bezeichnet.
 
-Dieses übernimmt i. d. R. die Verwaltung und Speicherung der Patienten- und Praxisdaten. Im PVS ist die  1
+Dieses übernimmt i. d. R. die Verwaltung und Speicherung der Patienten- und Praxisdaten. Im PVS ist die
 
-Dokumentation der Behandlung des Patienten in der elektronischen Patientenakte gespeichert. Der Begriff 2
+Dokumentation der Behandlung des Patienten in der elektronischen Patientenakte1 gespeichert. Der Begriff
 
-PVS bezieht sich auf IT-Systeme , die in der vertragsärztlichen Versorgung eingesetzt werden.
+PVS bezieht sich auf IT-Systeme2, die in der vertragsärztlichen Versorgung eingesetzt werden.
 
 ## 1.3 FUNKTIONSARTEN
 
@@ -313,9 +313,9 @@ Zwischen dem PVS und der VoS findet bezüglich des Verordnungsprozesses ein Date
 
 ## 2.1 VERORDNUNGSSOFTWARE-SCHNITTSTELLE (VOS-SST)
 
-Die folgende Abbildung zeigt die Verbindung zwischen einem PVS und einer VoS, welche über eine  Standardschnittstelle „B“ hergestellt wird. Hierbei handelt es sich um eine Standardschnittstelle mit zwei 3
+Die folgende Abbildung zeigt die Verbindung zwischen einem PVS und einer VoS, welche über eine  Standardschnittstelle „B“ hergestellt wird. Hierbei handelt es sich um eine Standardschnittstelle mit zwei
 
-Endpunkten und jeweils mit Export- und Import-Funktionalitäten.
+Endpunkten3 und jeweils mit Export- und Import-Funktionalitäten.
 
 Während für das PVS die B1-SST verbindlich ist, muss die VoS die Anforderungen der B2-SST umsetzen.
 
@@ -953,9 +953,9 @@ Dem Arzt muss der Aufruf der VoS aus dem PVS ohne Umwege ermöglicht werden.
 
 - 1. Das PVS muss über ein Aufrufkommando, das als Systemaufruf ausgeführt wird, die VoS direkt und ohne  Umwege durch den Nutzer aufrufen lassen können.
 
-- 2. Im Aufrufkommando sind zwei Parameter anzugeben. Diese dieser Reihenfolge anzugeben: - 4
+- 2. Im Aufrufkommando sind zwei Parameter anzugeben. Diese dieser Reihenfolge anzugeben: - 1. Name: kID (Kontext-ID)4
 
-- 1. Name: kID (Kontext-ID)  Typ: eine beliebige Kombination aus Zahlen, Groß z0-9\-\.]{1,64}$) - Länge: max. 64 Zeichen.
+- Typ: eine beliebige Kombination aus Zahlen, Groß z0-9\-\.]{1,64}$) - Länge: max. 64 Zeichen.
 
 - 2. Name: FHIR-Basis-URL  Beim Aufruf der VoS wird die FHIR-Basis-URL des PVS mit übergeben - z.B.  [http://testpraxis.com/fhir-endpunkt](http://testpraxis.com/fhir-endpunkt)
 
@@ -1009,7 +1009,7 @@ versehen. Diese ergeben sich aus Tabelle 3.
 
 | **FHIR-Profil** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | Ohne Aufruf- | Erst- | Wiederver- | Administra Arzneimittel- | recherche | Arzneimittel- | BMP für | BMP auf | BMP/eMP auf Statistiken Hausapo- | ausführen | theke | Storno |
+|  | Ohne Aufruf- | Erst- | Wiederver- | Administra Arzneimittel- | recherche | Arzneimittel- | neu erstellen | BMP auf | BMP/eMP auf Statistiken Hausapo- | ausführen | theke | Storno |
 | KBV_PR_VoS_Pract | x | x | x | x | x | x | x | x | x | x | x | x |
 | KBV_PR_VoS_Pract | x | x | x | x | x | x | x | x | x | x | x | x |
 | KBV_PR_VoS_Orga | x | x | x | x | x | x | x | x | x | x | x | x |
@@ -1023,7 +1023,7 @@ versehen. Diese ergeben sich aus Tabelle 3.
 | KBV_PR_VoS_Obse | (x) | (x) | (x) | - | - | (x) | (x) | (x) | (x) | - | - | - |
 | KBV_PR_VoS_Obse | (x) | (x) | (x) | - | - | (x) | (x) | (x) | (x) | - | - | - |
 
-itioner itionerRole nization nt rage gyIntolerance ition rvation_Body_Weig ht rvation_Body_Heig ht rvation_Creatinine _Level kontext verordnung ordnung tion ohne  Patienten- kontext neu erstellen Patienten- kontext Patienten Basis des Barcodes vom BMP aktualisieren Basis eines bestehenden strukturierten aktualisieren eRezept
+itioner itionerRole nization nt rage gyIntolerance ition rvation_Body_Weig ht rvation_Body_Heig ht rvation_Creatinine _Level kontext verordnung ordnung tion ohne  Patienten- kontext Patienten- kontext BMP für Patienten Basis des Basis eines eRezept Barcodes bestehenden vom BMP strukturierten aktualisieren aktualisieren
 
 ---
 
@@ -1039,7 +1039,7 @@ itioner itionerRole nization nt rage gyIntolerance ition rvation_Body_Weig ht rv
 | KBV_PR_VoS_Medi | (x) | - | x | - | (x) | (x) | (x) | (x) | (x) | - | - | - |
 | KBV_PR_VoS_Medi | (x) | - | x | - | (x) | (x) | (x) | (x) | (x) | - | - | - |
 
-rvation_Pregnancy _Status rvation_Breastfeed ing_Status mentReference enance_ePrescripti on enance_AllergyInto lerance cationStatement_ MP cation_Ingredient cation_PZN cation_Compoundi ng cation_FreeText XML- Medikat ionsplan „Signiert es_eRez ept“ „Signiert es_eRez ept Signiert es_eRez ept „Signiert es_eRez ept XML- Medikatio nsplan „Signierte s_eRezep t“ „Signierte s_eRezep t“
+rvation_Pregnancy _Status rvation_Breastfeed ing_Status mentReference enance_ePrescripti on enance_AllergyInto lerance cationStatement_ MP cation_Ingredient cation_PZN cation_Compoundi ng cation_FreeText XML- Medikat ionsplan „Signiert es_eRez ept“ „Signiert es_eRez ept XML- Medikatio nsplan Signiert „Signiert es_eRez es_eRez ept ept „Signierte s_eRezep t“ „Signierte s_eRezep t“
 
 ---
 
@@ -1621,7 +1621,7 @@ Das PVS muss jederzeit über die read- und search-Interaktion des REST-Services 
 
 ausschließlich die benötigten  -Ressourcen
 
-muss folgendes übermittelt werden: n weiteren Statusfeld-Angaben nding nt Daten vorhanden sind, inklusive deren Rollen. vorhanden sind. Prüfnummer für das PVS. war/ ist je mind. eine Instanz.  außer der Inhalte des eRezeptes (diese werden in der ursprünglichen Form als DokuRef übertragen werden), die im PVS vorhanden ist und in einer VoS verwendet werden könnte. Dies gilt, für die Patienten, die über die B1- Schnittstelle abgerufen werden können. die VoS
+muss folgendes übermittelt werden: n weiteren Statusfeld-Angaben Daten nding nt vorhanden sind, inklusive deren Rollen. vorhanden sind. Prüfnummer für das PVS. war/ ist je mind. eine Instanz.  außer der Inhalte des eRezeptes (diese werden in der ursprünglichen Form als DokuRef übertragen werden), die im PVS vorhanden ist und in einer VoS verwendet werden könnte. Dies gilt, für die Patienten, die über die B1- Schnittstelle abgerufen werden können. die VoS
 
 
 ---

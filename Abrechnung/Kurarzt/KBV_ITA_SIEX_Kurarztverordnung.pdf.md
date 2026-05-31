@@ -1,3 +1,5 @@
+**Freigabe 05.11.2014**
+
 Krankenkasse bzw. Kostenträger
 
 Gebühr
@@ -14,10 +16,6 @@ BVG Kostenträgerkennung Versicherten-Nr.
 
 Betriebsstätten-Nr. Arzt-Nr.
 
-**Freigabe 05.11.2014**
-
-Datum
-
 Pos.-Nr.
 
 Pos.-Nr.
@@ -26,11 +24,19 @@ Pos.-Nr.
 
 **Ggf. Hinweise zur Therapie**
 
+geb. am
+
 Status
 
-Anzahl
+Datum
 
 Anzahl
+
+Pos.-Nr.
+
+Anzahl
+
+Pos.-Nr.
 
 Verordnungs- menge
 
@@ -48,12 +54,6 @@ Seminar Entspannungstechniken
 
 Seminar Bewegungstraining
 
-geb. am
-
-Pos.-Nr.
-
-Pos.-Nr.
-
 **Verordnung** **des Kurarztes** **Ambulante Vorsorgeleistung in anerkannten** **Kurorten nach § 23 Abs. 2 SGB V**
 
 Gesamt-Zuzahlung
@@ -66,32 +66,34 @@ Anzahl
 
 Anzahl
 
-**Verbindliches Muster**
-
-Kurarztstempel / Unterschrift des Kurarztes
-
 IK des Leistungserbringers
 
 Gesamt-Brutto
 
 Pos.-Nr.
 
-Pos.-Nr.
-
 Anzahl
+
+Pos.-Nr.
 
 Anzahl
 
 Anzahl pro Wo.
 
-(1.2015)
+**Verbindliches Muster**
+
+Kurarztstempel / Unterschrift des Kurarztes (1.2015)
 
 
 ---
 
-Bitte immer unmittelbar nach der Abgabe Ihrer Leistungen durch Unterschrift quittieren lassen!
+Bitte immer unmittelbar nach der Abgabe Ihrer Leistungen durch Unterschrift quittieren lassen! **Empfangsbestätigung durch den Versicherten**
 
 Ich bestätige, die im Folgenden aufgeführten Behandlungen erhalten zu haben.
+
+Datum
+
+Maßnahme(n)
 
 **1**
 
@@ -114,10 +116,6 @@ Ich bestätige, die im Folgenden aufgeführten Behandlungen erhalten zu haben.
 **10**
 
 **11**
-
-**Empfangsbestätigung durch den Versicherten**
-
-Datum Maßnahme(n)
 
 **12**
 

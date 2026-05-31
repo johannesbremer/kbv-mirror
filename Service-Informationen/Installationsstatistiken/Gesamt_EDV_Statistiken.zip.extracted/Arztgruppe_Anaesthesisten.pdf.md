@@ -88,59 +88,57 @@ CompuGroup Medical Deutschland AG 1
 
 50
 
-**Installationen 1.Q.2025**
+**Installationen 1.Q.2025 Differenz**
 
 222
 
-154
-
-109
-
-100
-
-92
-
-97
-
-91
-
-85
-
-73
-
-79
-
-70
-
-57
-
-53
-
-**Differenz**
-
 -1
+
+154
 
 -3
 
+109
+
 1
+
+100
 
 -5
 
+92
+
 0
+
+97
 
 -7
 
+91
+
 -2
 
+85
+
 1
+
+73
 
 4
 
+79
+
 -2
+
+70
 
 1
 
+57
+
 -1
+
+53
 
 -3
 
@@ -149,80 +147,58 @@ CompuGroup Medical Deutschland AG 1
 
 **Id Praxissoftware**
 
-252 **CGM M1 PRO**
-
-498 **T 2med**
-
-243 **x.concept**
-
-343 **SAP Ambulatory Care Management**
-
-314 **IMedOne**
-
-261 **S 3-Win**
-
-247 **PROFIMED**
-
 **Anbieter**
 
-CompuGroup Medical Deutschland AG
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-T 2med GmbH & Co. KG
+252 **CGM M1 PRO**
 
-medatixx GmbH & Co. KG
-
-SAP SE
-
-Deutsche Telekom Clinical Solutions GmbH
-
-S 3 Praxiscomputer GmbH / Maximilian Flender
-
-PRO MEDISOFT AG 2
-
-**Installationen 2.Q.2025**
-
-47
-
-45
+CompuGroup Medical Deutschland AG 47
 
 44
-
-35
-
-35
-
-34
-
-33
-
-**Installationen 1.Q.2025**
-
-44
-
-45
-
-42
-
-36
-
-34
-
-35
-
-36
-
-**Differenz**
 
 3
 
+498 **T 2med**
+
+T 2med GmbH & Co. KG 45
+
+45
+
 0
+
+243 **x.concept**
+
+medatixx GmbH & Co. KG 44
+
+42
 
 2
 
+343 **SAP Ambulatory Care Management** SAP SE 35
+
+36
+
 -1
+
+314 **IMedOne**
+
+Deutsche Telekom Clinical Solutions GmbH 35 34
 
 1
 
+261 **S 3-Win**
+
+S 3 Praxiscomputer GmbH / Maximilian Flender 34 35
+
 -1
 
+247 **PROFIMED**
+
+PRO MEDISOFT AG 33
+
+36
+
 -3
+
+2

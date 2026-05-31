@@ -72,56 +72,66 @@ Echtpaket  3.8.1 Einzureichende Prüfunterlagen
 
 3.11 PF-11 Nachweis des Bestätigungsverfahrens der gematik 3.11.1 Einzureichende Prüfunterlagen
 
-Versand 1ClickAbrechnung-Lieferung
-
-n
-
-Versand 1ClickAbrechnung:
-
-Versand 1ClickAbrechnung inkl.
-
-Versand 1ClickAbrechnung inkl.
-
 **5**
 
 **6**
 
-6  6  6  6  6  7  7  7
+6  6  6  6
+
+6  7  7  7
 
 **9**
 
-9  9  10  10
+Versand 1ClickAbrechnung-Lieferung  9  9 10  10
 
-10  10  11  11  11  11
+10  10  11
 
-12  12
+11
 
-13  13
+n 11
 
-13  13
+11
 
-13  13
+Versand 1ClickAbrechnung: 12  12
 
-14  14  14  14
+13
+
+13
+
+13
+
+13
+
+Versand 1ClickAbrechnung inkl.
+
+13
+
+13
+
+Versand 1ClickAbrechnung inkl.  14  14 14  14
 
 
 ---
 
 **4** **BESCHREIBUNG DES BACKENDS**
 
-4.1 Anbindung des Test- und Zertifizierung-Backends 4.2 Adresse des Backends
+**15**
+
+4.1 Anbindung des Test- und Zertifizierung-Backends 15
+
+4.2 Adresse des Backends
+
+15
 
 4.3 Verhalten des PrüfClients
 
-4.4 Prüfungen der 1ClickAbrechnung-Lieferungen
+16
 
-4.4.1 Prüfergebnisse im Prüfprotokoll
+4.4 Prüfungen der 1ClickAbrechnung-Lieferungen 16
 
-4.4.2 Prüfungen der Fachlichen Rückmeldung
+4.4.1 Prüfergebnisse im Prüfprotokoll 16
 
-**15**
-
-15  15  16  16  16  20
+4.4.2 Prüfungen der Fachlichen Rückmeldung 20
 
 
 ---
@@ -150,13 +160,13 @@ mit einer KVDT-Zulassung, den Anwendern die systemseitige Übertragung der Abrec
 
 ermöglichen.
 
-Die korrekte Umsetzung der 1ClickAbrechnung muss zuerst in einem zusätzlichen Verfahren und später im  Rahmen der anstehenden KVDT Re -/Zertifizierung nachgewiesen werden. Die KVDT-Zertifizierung besteht  folglich aus zwei Teilen. Einerseits werden die allgemeinen KVDT -Anforderungen und andererseits die  Datenübertragung mittels 1ClickAbrechnung geprüft.
+Die korrekte Umsetzung der 1ClickAbrechnung muss zuerst in einem zusätzlichen Verfahren und später im  Rahmen der anstehenden KVDT Re -/Zertifizierung nachgewiesen werden. Die KVDT-Zertifizierung besteht  folglich aus zwei Teilen. Einerseits werden die allgemeinen KVDT-Anforderungen und andererseits die  Datenübertragung mittels 1ClickAbrechnung geprüft.
 
-Im Folgenden wird die Prüfung der KIM -Anwendung 1ClickAbrechnung beschrieben. Der
+Im Folgenden wird die Prüfung der KIM-Anwendung 1ClickAbrechnung beschrieben. Der
 
-Zertifizierungsprozess für die KIM -Anwendung 1ClickAbrechnung wird nach der Spezifikationsversion 2.1  dargestellt.
+Zertifizierungsprozess für die KIM-Anwendung 1ClickAbrechnung wird nach der Spezifikationsversion 2.1  dargestellt.
 
-In der Spezifikation der Anwendung 1ClickAbrechnung sind die Anforderungen an die Software -Systeme  festgelegt. Bei der Zertifizierung erfolgt eine Überprüfung, ob die Anforderungen aus der Spezifikation vom  jeweiligen Softwarehersteller korrekt umgesetzt wurden.
+In der Spezifikation der Anwendung 1ClickAbrechnung sind die Anforderungen an die Software-Systeme  festgelegt. Bei der Zertifizierung erfolgt eine Überprüfung, ob die Anforderungen aus der Spezifikation vom  jeweiligen Softwarehersteller korrekt umgesetzt wurden.
 
 
 ---
@@ -165,7 +175,7 @@ In der Spezifikation der Anwendung 1ClickAbrechnung sind die Anforderungen an di
 
 ## 2.1 TEST- UND ZERTIFIZIERUNG-BACKEND
 
-Für die Zertifizierung wird von der kv.digital GmbH ein Test- und Zertifizierung -Backend (Backend) zur  Verfügung gestellt. Im Backend steht für die KIM -Anwendung 1ClickAbrechnung ein entsprechender  Prüfclient bereit, der die empfangenen 1ClickAbrechnung-Lieferungen auf die Einhaltung der Anforderungen
+Für die Zertifizierung wird von der kv.digital GmbH ein Test- und Zertifizierung-Backend (Backend) zur  Verfügung gestellt. Im Backend steht für die KIM-Anwendung 1ClickAbrechnung ein entsprechender  Prüfclient bereit, der die empfangenen 1ClickAbrechnung-Lieferungen auf die Einhaltung der Anforderungen
 
 gemäß der Spezifikation "1ClickAbrechnung V2.1" überprüft. Die Ergebnisse der Prüfung werden in  Prüfprotokollen dokumentiert und den Absender (Software-Systemen) zur Verfügung gestellt.
 
@@ -193,7 +203,7 @@ Im Partnerportal der kv.digital ( [https://partnerportal.kv-telematik.de/)](http
 
 ## 2.2 PRÜFSTAMMDATEI
 
-Für die Zertifizierung ist die Prüfstammdatei KVCA der KBV (74EXXXXX.sdkvca.prf.zip) zu verwenden.  Beachten Sie bitte, dass diese Prüfstammdatei im Produktivbetrieb nicht eingesetzt werden darf. Die  Prüfstammdatei KVCA finden Sie auf dem Update -Server der KBV: [https://update.kbv.de/ita-](https://update.kbv.de/ita-)
+Für die Zertifizierung ist die Prüfstammdatei KVCA der KBV (74EXXXXX.sdkvca.prf.zip) zu verwenden.  Beachten Sie bitte, dass diese Prüfstammdatei im Produktivbetrieb nicht eingesetzt werden darf. Die  Prüfstammdatei KVCA finden Sie auf dem Update-Server der KBV: [https://update.kbv.de/ita-](https://update.kbv.de/ita-)
 
 update/Abrechnung/Pruefverfahren/
 
@@ -205,26 +215,24 @@ verwenden.
 
 ## 2.4 ABRECHNUNGSDATEI UND SAMMELERKLÄRUNG
 
-Die eigentliche Erstellung der Abrechnungsdatei oder der Sammelerklärung sowie der Inhalt dieser sind nicht  Bestandteile des Nachweises für die 1ClickAbrechnung. Allerdings ist die fehlerfreie Erzeugung der Dateien  und die Testverschlüsselung (XKM) der Abrechnungsdatei die Voraussetzung für die vorliegenden Prüffälle.  Die hierfür erforderlichen Patienten - und Abrechnungsdaten sowie alle notwendigen Angaben, um eine  Abrechnungsdatei oder die Sammelerklärung zu erstellen, können beliebig eingegeben werden.
+Die eigentliche Erstellung der Abrechnungsdatei oder der Sammelerklärung sowie der Inhalt dieser sind nicht  Bestandteile des Nachweises für die 1ClickAbrechnung. Allerdings ist die fehlerfreie Erzeugung der Dateien  und die Testverschlüsselung (XKM) der Abrechnungsdatei die Voraussetzung für die vorliegenden Prüffälle.  Die hierfür erforderlichen Patienten- und Abrechnungsdaten sowie alle notwendigen Angaben, um eine  Abrechnungsdatei oder die Sammelerklärung zu erstellen, können beliebig eingegeben werden.
 
 ## 2.5 TESTVERSCHLÜSSELUNG
 
-Die zu verschlüsselnden Dateien müssen mit dem KBV -Kryptomodul (XKM) im Arbeitsmodus
+Die zu verschlüsselnden Dateien müssen mit dem KBV-Kryptomodul (XKM) im Arbeitsmodus
 
-TEST_Verschluesselung verschlüsselt werden. Hierzu verwenden Sie bitte de n dazu gehörenden
+TEST_Verschluesselung verschlüsselt werden. Hierzu verwenden Sie bitte den dazu gehörenden
 
 
 ---
 
-Testschlüssel, welcher auf dem Update -Server der KBV veröffentlich wird: [https://update.kbv.de/ita-](https://update.kbv.de/ita-)
-
-update/KBV-Software/Kryptomodul/Testschluessel.zip
+Testschlüssel, welcher auf dem Update-Server der KBV veröffentlich wird: [https://update.kbv.de/ita-](https://update.kbv.de/ita-) update/KBV-Software/Kryptomodul/Testschluessel.zip
 
 ## 2.6 PRÜFUNTERLAGEN
 
 Die Prüfunterlagen sind die zu erstellenden Screencasts oder Screenshots von Warn- bzw. Fehlermeldungen,
 
-zusätzliche Erläuterungen zu den Screencasts oder Screenshots, die IDs der Prüfberichte (Prüf -ID) des  Prüfclients, sowie die Angaben zum verwendeten KIM-Account für die Zertifizierung.
+zusätzliche Erläuterungen zu den Screencasts oder Screenshots, die IDs der Prüfberichte (Prüf-ID) des  Prüfclients, sowie die Angaben zum verwendeten KIM-Account für die Zertifizierung.
 
 Alle einzureichenden Prüfunterlagen (Screencasts, Screenshots und ggf. Prüf-ID) sind in einem ZIP-Archiv zu  übermitteln. Das ZIP-Archiv sollte wie folgt benannt werden:
 
@@ -246,19 +254,17 @@ fassen Sie in diesem alle Prüfunterlagen (Ihre einzelnen ZIP-Archive) zusammen.
 
 Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten.
 
-- **1.** Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach
-
-- Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung ADT mit den der  KBV bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausge füllt und  unterschrieben als PDF -Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.  Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den Antrag
+- **1.** Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung ADT mit den der  KBV bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.  Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den Antrag
 
 - auf Zertifizierung ADT eingescannt per Mail [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) einreichen und erst nach Erhalt der  Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den vorab via Mail  eingereichten Antrag auf Zertifizierung hochladen.
 
-- **2.** Eine Verzeic hnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderli chen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden
+- **2.** Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden
 
 - **3.** Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller
 
 - mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen.
 
-- **4.** Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten Unterlagen  durch Mitarbeitende der KBV mit ei n) der „1ClickAbrechnung“ sowie einer fehlerfreien Einreichung
+- **4.** Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten Unterlagen  durch Mitarbeitende der KBV mit ein) der „1ClickAbrechnung“ sowie einer fehlerfreien Einreichung
 
 - „KVDT ADT“ kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen werden.
 
@@ -275,7 +281,7 @@ Die vorliegende Ergebnisprüfung besteht ausschließlich aus einer manuellen Pr�
 
 ---
 
-Die Zugangsdaten können direkt über das Portal oder per E -Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) unter Angabe der  System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte  beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+Die Zugangsdaten können direkt über das Portal oder per E-Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) unter Angabe der  System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte  beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
 
 Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema und den Antrag auf Zertifizierung ADT
 
@@ -298,9 +304,9 @@ und fassen Sie in diesem alle Prüfunterlagen (Ihre einzelnen ZIP-Archive) zusam
 
 ## LIEFERUNG ALS TESTABRECHNUNG | EMPFANG RÜCKMELDUNGEN
 
-Zur Prüfung dieser Anforderungen sendet der Antragsteller über sein Software-System:
+Zur Prüfung dieser Anforderungen sendet der Antragsteller über sein Software
 
-- eine **fehlerfreie 1ClickAbrechnung als Testabrechnung** und
+- eine **fehlerfreie 1ClickAbrechnung als Testabrechnung**
 
 empfängt mit seinem Software-System die entsprechenden Rückmeldungen.
 
@@ -308,17 +314,15 @@ empfängt mit seinem Software-System die entsprechenden Rückmeldungen.
 
 ### Prüf-ID und verwendeter KIM-Account
 
-Die vom Software -System versendeten Nachrichten selbst sind nicht für die Zertifizierung einzureichen,  jedoch ist **die Prüf-ID der versendeten Nachricht aus dem empfangenen Prüfprotokoll den Prüfunterlagen**
+Die vom Software-System versendeten Nachrichten selbst sind nicht für die Zertifizierung einzureichen,  jedoch ist **die Prüf-ID der versendeten Nachricht aus dem empfangenen Prüfprotokoll den Prüfunterlagen**
 
 **hinzuzufügen**. Es sind nur diejenigen Prüf-IDs bzw. Nachrichten zu verwenden, die der Prüfclient als fehlerfrei
 
-beurteilt hat. Die Informationen zu Prüf -IDs und verwendetem KIM -Accounts sind in einem Dateiformat  einzureichen, das das Kopieren von Text ermöglicht.
+beurteilt hat. Die Informationen zu Prüf-IDs und verwendetem KIM-Accounts sind in einem Dateiformat  einzureichen, das das Kopieren von Text ermöglicht.
 
 ### Screencast und Beschreibung
 
-Zur Prüfung dieser Anforderungen muss der Antragsteller einen Screencast sowie eine schriftliche, formlose
-
-Beschreibung des gesamten Ablaufs mit weiteren Informationen einreichen. Zusätzlich können
+Zur Prüfung dieser Anforderungen muss der Antragsteller Beschreibung des gesamten Ablaufs mit weiteren
 
 Prozessdiagramme oder Screenshots zur Beschreibung beigefügt werden.
 
@@ -336,19 +340,29 @@ Der Screencast muss folgende Aktivitäten zeigen:
 
 - Hinweis für den Empfänger, das Nachrichten empfangen wurden
 
-- Öffnen und Anzeige der versendeten 1ClickAbrechnung-Lieferung und der empfangenen Rückmeldungen
-
-- inkl. Anhänge aus dem Postordner heraus
+- Öffnen und Anzeige der versendeten 1ClickAbrechnung inkl. Anhänge aus dem Postordner heraus
 
 Zusätzlich muss Folgendes erläutert werden:
 
 - Wie wird die empfangende KV und deren KIM-Adresse bestimmt?
 
-- Wie erkennt der Anwender, ob für die 1ClickAbrechnung -Lieferung Rückmeldungen (technisch und  fachlich) empfangen wurden?
+- Wie erkennt der Anwender, ob für die 1ClickAbrechnung-Lieferung Rückmeldungen (technisch und  fachlich) empfangen wurden?
 
-- Anhand welcher (Nachrichten -)Merkmale erfolgt die Zuordnung der Rückmeldungen zur versendeten  1ClickAbrechnung-Lieferung?
+- Anhand welcher (Nachrichten-)Merkmale erfolgt die Zuordnung der Rückmeldungen zur versendeten  1ClickAbrechnung-Lieferung?
 
 - Wie können Anhänge geöffnet werden?
+
+-System:
+
+- und
+
+einen Screencast sowie eine schriftliche, formlose  Informationen einreichen. Zusätzlich können -
+
+-
+
+-
+
+- -Lieferung und der empfangenen Rückmeldungen -
 
 
 ---
@@ -365,7 +379,7 @@ Zusätzlich muss Folgendes erläutert werden:
 
 - Hinweis für den Empfänger, das Nachrichten empfangen wurden
 
-- Öffnen und Anzeige der versendeten 1ClickAbrechnung -Lieferungen und der empfangenen
+- Öffnen und Anzeige der versendeten 1ClickAbrechnung-Lieferungen und der empfangenen
 
 - Rückmeldungen inkl. Anhänge aus dem Postordner heraus
 
@@ -395,15 +409,15 @@ empfängt mit seinem Software-System die entsprechenden Rückmeldungen.
 
 ### Prüf-IDs und verwendeter KIM-Account
 
-Die vom Software -System versendeten Nachrichten selbst sind nicht für die Zertifizierung einzureichen,  jedoch ist **die Prüf-ID der versendeten Nachricht aus dem empfangenen Prüfprotokoll den Prüfunterlagen**
+Die vom Software-System versendeten Nachrichten selbst sind nicht für die Zertifizierung einzureichen,  jedoch ist **die Prüf-ID der versendeten Nachricht aus dem empfangenen Prüfprotokoll den Prüfunterlagen**
 
 **hinzuzufügen**. Es sind nur diejenigen Prüf-IDs bzw. Nachrichten zu verwenden, die der Prüfclient als fehlerfrei
 
-beurteilt hat. Die Informationen zu Prüf -IDs und verwendetem KIM -Accounts sind in einem Dateiformat  einzureichen, das das Kopieren von Text ermöglicht.
+beurteilt hat. Die Informationen zu Prüf-IDs und verwendetem KIM-Accounts sind in einem Dateiformat  einzureichen, das das Kopieren von Text ermöglicht.
 
 ### Screencast und Beschreibung
 
-Zur Prüfung dieser Anforderungen muss der Antragsteller einen Screencast sowie eine schriftliche, formlose  Beschreibung des gesamten Ablaufs mit weiteren Informatione n einreichen. Zusätzlich können
+Zur Prüfung dieser Anforderungen muss der Antragsteller einen Screencast sowie eine schriftliche, formlose  Beschreibung des gesamten Ablaufs mit weiteren Informationen einreichen. Zusätzlich können
 
 Prozessdiagramme oder Screenshots zur Beschreibung beigefügt werden.
 
@@ -468,14 +482,14 @@ Zur Prüfung dieser Anforderung sendet der Antragsteller über sein Software-Sys
 
 Zur Prüfung dieser Anforderungen muss der Antragsteller einen Screencast sowie eine schriftliche, formlose  Beschreibung des gesamten Ablaufs mit weiteren Informationen einreichen.
 
-Der Screencast dokumentiert, wie das Software -System reagiert, wenn innerhalb eines angemessenen  Zeitraums nach Versand der 1ClickAbrechnung-Lieferung noch keine Rückmeldungen eingetroffen sind bzw.
+Der Screencast dokumentiert, wie das Software-System reagiert, wenn innerhalb eines angemessenen  Zeitraums nach Versand der 1ClickAbrechnung-Lieferung noch keine Rückmeldungen eingetroffen sind bzw.
 
 wie das Software-System den Anwender über ausbleibende 1ClickAbrechnung-Rückmeldungen informiert.
 
 
 ---
 
-Für den Screencast ist es nicht erforderlich, das Versenden der 1ClickAbrechnung -Lieferung zu erfassen. Es  reicht aus, im Screencast den Postordner mit der Information über den Zeitpunkt des Versands der Nachricht  und die Reaktion des Software -Systems innerhalb eines angemessenen Zeitraums nach Ausbleiben der  Rückmeldungen zu zeigen.
+Für den Screencast ist es nicht erforderlich, das Versenden der 1ClickAbrechnung -Lieferung zu erfassen. Es  reicht aus, im Screencast den Postordner mit der Information über den Zeitpunkt des Versands der Nachricht  und die Reaktion des Software-Systems innerhalb eines angemessenen Zeitraums nach Ausbleiben der  Rückmeldungen zu zeigen.
 
 Zusätzlich muss Folgendes erläutert werden:
 
@@ -483,15 +497,13 @@ Zusätzlich muss Folgendes erläutert werden:
 
 **HINWEIS**
 
-Die folgenden Prüffälle müssen nur von PVS-Herstellern durchgeführt werden, die die **elektronische**
-
-**Sammelerklärung** implementiert und auch beim Antrag auf Zertifizierung zur Prüfung angemeldet haben.
+Die folgenden Prüffälle müssen nur von PVS-Herstellern durchgeführt werden, die die  **Sammelerklärung** implementiert und auch beim Antrag auf Zertifizierung zur Prüfung angemeldet
 
 ## 3.6 PF-06 ANFORDERUNGEN [1CLICK0001] BIS [1CLICK0003], [1CLICK0110] BIS [1CLICK0134],  [1CLICK0136] BIS [1CLICK0143], [1CLICK0810] BIS [1CLICK0815], [1CLICK0818]  VERSAND
 
 ## 1CLICKABRECHNUNG: SAMMELERKLÄRUNG ALS TESTPAKET | EMPFANG RÜCKMELDUNGEN
 
-Zur Prüfung dieser Anforderung sendet der Antragsteller über sein Software-System:
+Zur Prüfung dieser Anforderung sendet der Antragstelle
 
 - **eine fehlerfreie Sammelerklärung als Testpaket**
 
@@ -501,21 +513,19 @@ und empfängt mit seinem Software-System die entsprechenden Rückmeldungen.
 
 ### Prüf-ID und verwendeter KIM-Account
 
-Die vom Software -System versendeten Nachrichten selbst sind nicht für die Zertifizierung einzureichen,  jedoch ist **die Prüf-ID der versendeten Nachricht aus dem empfangenen Prüfprotokoll den Prüfunterlagen**
+Die vom Software-System versendeten Nachrichten selbst sind nicht für die Zertifizierung einzureichen,  jedoch ist **die Prüf-ID der versendeten Nachricht aus dem empfangenen Prüfprotokoll den Prüfunterlagen**
 
-**hinzuzufügen**. Es sind nur diejenigen Prüf-IDs bzw. Nachrichten zu verwenden, die der Prüfclient als fehlerfrei
+**hinzuzufügen**. Es sind nur diejenigen Prüf-IDs bzw. Nachrichten zu verwenden, die der Prüf
 
-beurteilt hat. Die Informationen zu Prüf -IDs und verwendetem KIM -Accounts sind in einem Dateiformat  einzureichen, das das Kopieren von Text ermöglicht.
+beurteilt hat. Die Informationen zu Prüf-IDs und verwendetem KIM-Accounts sind in einem Dateiformat  einzureichen, das das Kopieren von Text ermöglicht.
 
 ### Screencast und Beschreibung
 
-Zur Prüfung dieser Anforderungen muss der Antragsteller einen Screencast sowie eine schriftliche, formlose
-
-Beschreibung des gesamten Ablaufs mit weiteren Informationen senden. Zusätzlich können  Prozessdiagramme oder Screenshots zur Beschreibung beigefügt werden.
+Zur Prüfung dieser Anforderungen muss der Antragstelle Beschreibung des gesamten Ablaufs mit weiteren Informationen senden. Zusätzlich können  Prozessdiagramme oder Screenshots zur Beschreibung beigefügt werden.
 
 Der Screencast muss folgende Aktivitäten zeigen:
 
-- Auswahlmöglichkeit des Anwenders, ob Versand als Test- oder Echtpaket
+- Auswahlmöglichkeit des Anwenders, ob Versand als Test
 
 - Auswahlmöglichkeit des Anwenders, ob Unterlagen „vollständig“ vorliegen
 
@@ -525,9 +535,23 @@ Der Screencast muss folgende Aktivitäten zeigen:
 
 - Abruf der Nachrichten (aktiv oder passiv) und Anzeige im Postordner
 
-- Öffnen und Anzeige der versendeten 1ClickAbrechnung-Lieferung und der empfangenen Rückmeldungen
+- Öffnen und Anzeige der versendeten 1ClickAbrechnung inkl. Anhänge aus dem Postordner heraus
 
-- inkl. Anhänge aus dem Postordner heraus
+r über sein Software-System:
+
+r einen Screencast sowie eine schriftliche, formlose - - oder Echtpaket
+
+-
+
+-
+
+- -Lieferung und der empfangenen Rückmeldungen
+
+**elektronische**
+
+haben.
+
+client als fehlerfrei
 
 
 ---
@@ -631,7 +655,7 @@ einem Dateiformat einzureichen, das das Kopieren von Text ermöglicht.
 
 Zur Prüfung dieser Anforderungen muss der Antragsteller einen Screencast sowie eine schriftliche, formlose
 
-Beschreibung des gesamten Ablaufs mit weiteren Informationen senden. Zus ätzlich können
+Beschreibung des gesamten Ablaufs mit weiteren Informationen senden. Zusätzlich können
 
 Prozessdiagramme oder Screenshots zur Beschreibung beigefügt werden.
 
@@ -645,7 +669,7 @@ Der Screencast muss folgende Aktivitäten zeigen:
 
 - Hinweis für den Empfänger, das Nachrichten empfangen wurden
 
-- Öffnen und Anzeige der versendeten 1ClickAbrechnung -Lieferungen und der empfangenen
+- Öffnen und Anzeige der versendeten 1ClickAbrechnung-Lieferungen und der empfangenen
 
 - Rückmeldungen inkl. Anhänge aus dem Postordner heraus
 
@@ -666,23 +690,21 @@ zur Konnektorschnittstelle: Funktionsumfang KIM“ - als .PDF-Datei Ihren Prüfu
 
 ## 4.1 ANBINDUNG DES TEST- UND ZERTIFIZIERUNG-BACKENDS
 
-Wie bereits in Kapitel 2.1 „Test- und Zertifizierung-Backend“ beschrieben wurde, wird das Backend von der
+Wie bereits in Kapitel 2.1 „Test- und Zertifizierung-Backend“ besc
 
-kv.digital GmbH in der **RU der TI** zur Verfügung gestellt und verfügt über einen P rüfclient, der die
+kv.digital GmbH in der **RU der TI** zur Verfügung gestellt und verfügt über einen Prüfclient, der die
 
 empfangenen 1ClickAbrechnung- Lieferungen auf die Einhaltung der Anforderungen gemäß der Spezifikation
 
 "1ClickAbrechnung V2.1" überprüft.
 
-Nach Prüfung der 1ClickAbrechnung -Lieferung versendet der Prüfclient im Backend , neben dem  Prüfprotokoll, eine technische und fachliche Rückmeldung. Der Ablauf ist in der Grafik "Anbindung des Test-
-
-und Zertifizierung-Backends" veranschaulicht.
+Nach Prüfung der 1ClickAbrechnung-Lieferung versendet der Prüfclient im Backend, neben dem  Prüfprotokoll, eine technische und fachliche Rückmeldung. Der  und Zertifizierung-Backends" veranschaulicht.
 
 **Abbildung 1: Anbindung des Backends**
 
 Der Ablauf des Nachrichtenversands für die Zertifizierung erfolgt in mehreren Schritten (in der Grafik durch  die roten Pfeile dargestellt):
 
-- 1. Software System versendet eine Nachricht 1ClickAbrechnung-Lieferung an das Backend der kv.digital
+- 1. Software System versendet eine Nachricht 1ClickAbrechnung
 
 - 2. Versand der technischen Rückmeldung (Eingangsbestätigung) durch das Backend
 
@@ -692,9 +714,13 @@ Der Ablauf des Nachrichtenversands für die Zertifizierung erfolgt in mehreren S
 
 ## 4.2 ADRESSE DES BACKENDS
 
-Die Adresse muss aus der SDKVCA bestimmt werden -
+Die Adresse muss aus der SDKVCA bestimmt werden
 
--
+hrieben wurde, wird das Backend von der
+
+Ablauf ist in der Grafik "Anbindung des Test-
+
+- -Lieferung an das Backend der kv.digital -
 
 - Backend
 
@@ -723,32 +749,32 @@ In der nachfolgenden Tabelle werden die Prüfungen erläutert, die das Backend d
 | AAA0010 | Ist das Element „ | Ja / Nein |  |
 | 1Click0110 | Ist das Element |  | 1Click0110 entfällt, wenn Ergebn |
 | AAA0020 | Ist das Element „ | Ja / Nein |  |
-| AAA0021 | Ist das | Ja / Nein | AAA0021 entfällt, wenn Ergebnis AAA0020 = Nein |
+| AAA0021 | Ist | Ja / Nein | AAA0021 entfällt, wenn Ergebnis AAA0020 = Nein |
 
 ## -LIEFERUNGEN
 
 nden abgerufen und verarbeitet.
 
-Backend gesendet? Lieferung" enthielt Lieferung" enthielt keine fehlerfrei oder nicht fehlerfrei zurück? Rückmeldung (MDN) Rückmeldung (MDN) eingerichtet? X-KIM-Dienstkennung befüllt? eingerichtet? vorgegebenen Syntax befüllt? X-KIM-Dienstkennung X-KIM-Sendersystem X-KIM-Sendersystem “ im Nachrichten-Header mit dem vorgegebenen Wert Ja / Nein “ im Nachrichten-Header “ entsprechend der is AAA0010 = Nein kt werden.
+Backend gesendet? Lieferung" enthielt Lieferung" enthielt keine fehlerfrei oder nicht fehlerfrei zurück? Rückmeldung (MDN) Rückmeldung (MDN) eingerichtet? X-KIM-Dienstkennung befüllt? eingerichtet? vorgegebenen Syntax befüllt? X-KIM-Dienstkennung X-KIM-Sendersystem X-KIM-Sendersystem “ im Nachrichten-Header mit dem vorgegebenen Wert Ja / Nein “ im Nachrichten-Header entsprechend der is AAA0010 = Nein kt werden.
 
 
 ---
 
 | **PRÜFNUMMER** | **PRÜFUMFANG** | **ERGEBNIS** | **HINWEIS** |
 |---|---|---|---|
-| AAA0030 | *Subject* | Ja / Nein |  |
+| AAA0030 | Ist das Element „ | Ja / Nein |  |
 | 1Click0111 | Ist das Element | Ja / Nein | 1Click0111 entfällt, wenn Ergebnis AAA0030 = Nein |
-| 1Click0002 | Enthält der | Ja / Nein |  |
+| 1Click0002 | Enthält | Ja / Nein |  |
 | 1Click0003 | Enthält der Nachrichten-Header kein Element | Ja / Nein |  |
 | **Die nachfolgenden Prüfungen entfallen, wenn eine der oben aufgeführten Prüfungen zum Nachrichten** | | | |
-| 1Click0131 | Nachricht " | Ja / Nein |  |
-| 1Click0142/a | Die Metainformationen im MIME -Segment der Begleitdatei sind | Ja / Nein | 1Click0142/a entfällt, wenn 1Click0131 = Nein |
-| 1Click0142/b | Die Metainformationen im MIME -Segment der Begleitdatei sind | Ja / Nein | 1Click0142/b entfällt, wenn 1Click0142/a = Nein |
-| BGD0101 | Ist die | Ja / Nein | BGD0101 entfällt, wenn: |
-| BGD0102 | -8 erstellt worden? | Ja / Nein | BGD0102 entfällt, wenn BGD0101 = Nein |
-| 1Click0134/a | Enthält die | Ja / Nein | 1Click0134/a entfällt, wenn:  1Click0134/a sowie die nachfolgenden Prüfungen |
+| 1Click0131 | Enthält die Nachricht " | Ja / Nein |  |
+| 1Click0142/a | Die Metainformationen im MIME-Segment der Begleitdatei sind | Ja / Nein | 1Click0142/a entfällt, wenn 1Click0131 = Nein |
+| 1Click0142/b | Die Metainformationen im MIME-Segment der Begleitdatei sind | Ja / Nein | 1Click0142/b entfällt, wenn 1Click0142/a = Nein |
+| BGD0101 | Ist | Ja / Nein | BGD0101 entfällt, wenn: |
+| BGD0102 | Ist die Begleitdatei mit dem Zeichensatz UTF | Ja / Nein | BGD0102 entfällt, wenn BGD0101 = Nein |
+| 1Click0134/a | Enthält die Nachricht " | Ja / Nein | 1Click0134/a entfällt, wenn:  1Click0134/a sowie die nachfolgenden Prüfungen |
 
-Ist das Element „ “ im Nachrichten-Header eingerichtet?  mit dem vorgegebenen Wert befüllt? Disposition- Notification-To Cc 1ClickAbrechnung-Lieferung genau MIME-Segment mit einer Begleitdatei im XML -Format? angelegt? entsprechend der Vorgaben befüllt? valide zur XSD -Schemadatei KVTA_Einlieferung-Abrechnung_2_0_0.xsd Ist die Begleitdatei mit dem Zeichensatz UTF 1ClickAbrechnung-Lieferung genau MIME-Segment mit der Abrechnungsdatei? -Header nicht erfolgreich war. 1Click0131= Nein 1Click0142/b = Nein 1Click0142/b = Nein aufgrund Angaben
+Subject “ im Nachrichten-Header eingerichtet? Subject  mit dem vorgegebenen Wert befüllt? Disposition- Notification-To Cc 1ClickAbrechnung-Lieferung MIME-Segment mit einer Begleitdatei im XML angelegt? entsprechend der Vorgaben befüllt? valide KVTA_Einlieferung-Abrechnung_2_0_0.xsd genau -Format? zur XSD-Schemadatei -8 erstellt worden? 1ClickAbrechnung-Lieferung genau MIME-Segment mit der Abrechnungsdatei? -Header nicht erfolgreich war. 1Click0131= Nein 1Click0142/b = Nein 1Click0142/b = Nein aufgrund Angaben
 
 ---
 
@@ -761,21 +787,21 @@ Ist das Element „ “ im Nachrichten-Header eingerichtet?  mit dem vorgegebene
 | 1Click0142/e | Die Metainformationen im MIME -Segment der Sammelerklärung | Ja / Nein | entfällt, wenn 1Click0134/b = Nein |
 | 1Click0142/f | Die Metainformationen im MIME-Segment Sammelerklärung im | Ja / Nein | entfällt, wenn 1Click0142/e = Nein |
 | 1Click0136/b | Wurde die Namenskonvention für die Sammelerklärung im XML - | Ja / Nein | 1Click0136/b entfällt, wenn: |
-| 1Click0136/c | Sammelerklärung | Ja / Nein | 1Click0136/c entfällt, wenn: |
+| 1Click0136/c | Ist | Ja / Nein | 1Click0136/c entfällt, wenn: |
 
-sind angelegt? entsprechend der Vorgaben befüllt? 1ClickAbrechnung-Lieferung MIME-Segment mit der Sammelerklärung im XML im XML-Format sind angelegt? XML-Format sind entsprechend der Vorgaben befüllt? Format eingehalten? Ist die -Format valide Schemadatei " ese_root.xsd " sowie verbundenen Dateien? genau -Format? zur XSD mit dieser Datei sollte 1Click0131 = Nein 1Click0142/a = Nein 1Click0142/b = Nein BGD0101 = Nein entfallen, wenn aufgrund Angaben Begleitdatei keine Sammelerklärung enthalten sein sollte 1Click0142/f = Nein - 1Click0142/f = Nein
+sind angelegt? entsprechend der Vorgaben befüllt? 1ClickAbrechnung-Lieferung MIME-Segment mit der Sammelerklärung im XML im XML-Format sind angelegt? XML-Format sind entsprechend der Vorgaben befüllt? Format eingehalten? XML-Format Schemadatei ese_root.xsd verbundenen Dateien? genau -Format? valide zur XSD- mit dieser Datei sollte 1Click0131 = Nein 1Click0142/a = Nein 1Click0142/b = Nein BGD0101 = Nein entfallen, aufgrund Angaben Begleitdatei keine Sammelerklärung enthalten sein sollte 1Click0142/f = Nein - 1Click0142/f = Nein
 
 
 ---
 
 | **PRÜFNUMMER** | **PRÜFUMFANG** | **ERGEBNIS** | **HINWEIS** |
 |---|---|---|---|
-| 1Click0136/d | Ist die | Ja / Nein | entfällt, wenn: |
+| 1Click0136/d | Ist | Ja / Nein | entfällt, wenn: |
 | 1Click0134/c | Enthält die Nachricht " | Ja / Nein | 1Click0134/c entfällt, wenn:  1Click0134/c sowie die nachfolgenden Prüfungen |
 | 1Click0142/g | Die Metainformationen im MIME -Segment der Sammelerklärung | Ja / Nein | 1Click0142/g entfällt, wenn 1Click0134 /c = Nein |
-| 1Click0142/h | Die Metainformationen im MIME -Segment Sammelerklärung im | Ja / Nein | 1Click0142/h entfällt, wenn 1Click0142/g = Nein |
+| 1Click0142/h | Die Metainformationen im MIME-Segment Sammelerklärung im | Ja / Nein | 1Click0142/h entfällt, wenn 1Click0142/g = Nein |
 | 1Click0137 | Ist die Sammelerklärung im PDF/A-Format erstellt worden? | Ja / Nein | 1Click0137 entfällt, wenn:  geprüft wird gegen den Standard PDF/A-1b |
-| 1Click0141/a | Wurde die Namenskonvention für die Sammelerklärung im PDF - | Ja / Nein | 1Click0141/a entfällt, wenn: |
+| 1Click0141/a | Wurde die Namenskonvention für die Sammelerklärung im PDF- | Ja / Nein | 1Click0141/a entfällt, wenn: |
 
 - 1Click0134/b = Nein
 
@@ -785,14 +811,14 @@ sind angelegt? entsprechend der Vorgaben befüllt? 1ClickAbrechnung-Lieferung MI
 
 - 1Click0142/h = Nein
 
-XML -Format in aktuellen Schnittstellenversion V=“1.21“ erstellt worden? 1ClickAbrechnung-Lieferung genau MIME-Segment mit der Sammelerklärung im PDF -Format? im PDF-Format sind angelegt? PDF-Format sind entsprechend der Vorgaben befüllt? Format eingehalten (ausschließlich der Dateinamenserweit erung)? [1Click0136] / c = Nein 1Click0131 = Nein 1Click0142/a = Nein 1Click0142/b = Nein BGD0101 = Nein entfallen, wenn aufgrund Angaben Begleitdatei keine Sammelerklärung enthalten sein sollte 1Click0134/c = Nein 1Click0142/h = Nein - 1Click0137 = Nein
+XML-Format Schnittstellenversion V=“1.21“ erstellt worden? 1ClickAbrechnung-Lieferung MIME-Segment mit der Sammelerklärung im PDF -Format? im PDF-Format sind angelegt? PDF-Format sind entsprechend der Vorgaben befüllt? Format eingehalten (ausschließlich der Dateinamenserweit aktuellen genau erung)? [1Click0136] / c = Nein 1Click0131 = Nein 1Click0142/a = Nein 1Click0142/b = Nein BGD0101 = Nein entfallen, aufgrund Angaben Begleitdatei keine Sammelerklärung enthalten sein sollte 1Click0134/c = Nein 1Click0142/h = Nein - 1Click0137 = Nein
 
 
 ---
 
 | **PRÜFNUMMER** | **PRÜFUMFANG** | **ERGEBNIS** | **HINWEIS** |
 |---|---|---|---|
-| 1Click0141/b | Ist die Dateinamenserweiterung der Sammelerklärung im PDF - | Ja / Nein | 1Click0141/b entfällt, wenn: |
+| 1Click0141/b | Ist die Dateinamenserweiterung der Sammelerklärung im PDF- | Ja / Nein | 1Click0141/b entfällt, wenn: |
 
 **Tabelle 2: Prüfungen der 1ClickAbrechnung-Lieferung | Prüfprotokoll**
 
@@ -806,7 +832,7 @@ Die Fachliche Rückmeldung, die durch das Backend erstellt wird, hat beispielhaf
 
 | **DATENPAKET** | **PRÜFUMFANG** | **HINWEIS** |
 |---|---|---|
-| Abrechnungsdatei |  |  |
+| Abrechnungsdatei | Prüfung der Verschlüsselung (XKM) |  |
 |  | Plausibilitätsprüfung (XPM) |  |
 
 - [1Click0134/c = Nein
@@ -821,7 +847,7 @@ Die Fachliche Rückmeldung, die durch das Backend erstellt wird, hat beispielhaf
 
 PDF)-Dokumente versendet - aktuelles XPM
 
-Format " .sig.pdf Prüfung der Verschlüsselung (XKM) Test-Entschlüsselung Ergebnis wird als Anhang (protokoll.pdf) zurückgesendet entfällt, wenn keine Abrechnungsdatei enthalten ist - Ergebnis wird als Anhang  (pruefprotokoll.pdf) zurückgesendet
+Format " .sig.pdf Test-Entschlüsselung Ergebnis wird als Anhang (protokoll.pdf) zurückgesendet entfällt, wenn keine Abrechnungsdatei enthalten ist - Ergebnis wird als Anhang  (pruefprotokoll.pdf) zurückgesendet
 
 
 ---
@@ -835,7 +861,7 @@ Format " .sig.pdf Prüfung der Verschlüsselung (XKM) Test-Entschlüsselung Erge
 
 - das Signaturformat den Vorgaben entspricht (PKCS#7 oder CAdES),
 
-- der Hashwert des signierten PDF -Segmentes mit dem dazugehörigen  Signaturblock übereinstimmt (Integritätsprüfung),
+- der Hashwert des signierten PDF-Segmentes mit dem dazugehörigen  Signaturblock übereinstimmt (Integritätsprüfung),
 
 - der in der Signatur angegebene Signaturzeitpunkt innerhalb des  Gültigkeitsintervalls des Zertifikats liegt,
 

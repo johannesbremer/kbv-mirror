@@ -842,16 +842,11 @@ Nummer
 
 *Beobachtung und Betreuung eines Kranken bis zu zwei Stunden, während der Aufwach-*  *und/oder Erholungszeit bis zum Eintritt der Transportfähigkeit nach ambulanten operativen*  *Leistungen bei Durchführung unter ambulanten Anästhesien. Die Leistung nach Nummer*  *448 ist je Behandlungstag nur einmal berechnungsfähig.*
 
-*Allgemeine HB*
+*Allgemeine HB Besondere HB*
 
-*Besondere HB*
+*Besondere Kosten Allg. Kosten Sachkosten*
 
-*Besondere Kosten*
-
-*Allg. Kosten*
-
-Nummer *Sachkosten*
-
+Nummer
 
 ---
 

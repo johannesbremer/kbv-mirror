@@ -9,9 +9,9 @@
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
-|  | 09.08.2012 |
+|  | Version |
 
-tätssicherung Zervix-Zytologie Zytologie] Digitalisierung und IT -Lewin-Platz 2 Version  1.03 Datum: Kennzeichnung: Öffentlich  Status: In Kraft
+tätssicherung Zervix-Zytologie Zytologie] Digitalisierung und IT -Lewin-Platz 2 1.03 Datum: 09.08.2012 Kennzeichnung: Öffentlich  Status: In Kraft
 
 
 ---
@@ -249,6 +249,8 @@ Das System muss den Anwender darauf hinweisen, dass die eingesetzten Datenträge
 
 ---
 
+itätssicherung Zervix
+
 # 3 Referenzierte Dokumente
 
 | **Referenz** | **Dokument** |
@@ -257,6 +259,6 @@ Das System muss den Anwender darauf hinweisen, dass die eingesetzten Datenträge
 | [KBV_ITA_VGEX_Schnittstelle_ QS_Zervix- | Schnittstellenbeschreibung Qualitätssicherung Zer- |
 | [KBV_ITA_AHEX_Handbuch_XKM] | XKM Anwenderhandbuch |
 
-itätssicherung Zervix-Zytologie
+-Zytologie
 
 Zytologie] Versorgung vix-Zytologie

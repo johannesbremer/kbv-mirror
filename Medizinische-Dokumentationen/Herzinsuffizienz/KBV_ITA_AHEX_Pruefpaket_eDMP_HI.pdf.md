@@ -25,71 +25,113 @@ Seite 1 von 28 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.04 / 9. Dez
 
 **1** **ALLGEMEINES**
 
+**5**
+
 1.1 Rechtsgrundlage
+
+5
 
 1.2 Zertifizierungsablauf
 
+5
+
 1.3 Zertifizierungsportal
+
+5
 
 1.4 Zertifizierungsdokumente
 
+6
+
 1.5 Prüfunterlagen
 
-1.6 Prüfvorgaben  1.6.1 Prüfstammdaten 1.6.2 Versichertendaten
+6
+
+1.6 Prüfvorgaben
+
+8
+
+1.6.1 Prüfstammdaten
+
+8
+
+1.6.2 Versichertendaten
+
+8
 
 1.6.3 Praxisdaten/ Arztstempel
 
+8
+
 1.6.4 Krankenhausdaten
+
+8
 
 1.6.5 Prüfnummer
 
-1.6.6 Stammdatei der Datenannahmestellen (SDDA)
+9
 
-1.6.7 Auflistung der Prüffälle
+1.6.6 Stammdatei der Datenannahmestellen (SDDA) 9
+
+1.6.7 Auflistung der Prüffälle 9
 
 **2** **PRÜFFÄLLE**
 
-2.1 Prüffälle Dokumentationen  2.1.1 Prüffall 4511 2.1.2 Prüffall 4512
+**10**
+
+2.1 Prüffälle Dokumentationen 10
+
+2.1.1 Prüffall 4511
+
+10
+
+2.1.2 Prüffall 4512
+
+12
 
 2.1.3 Prüffall 4520
 
-2.2 Prüffall Systemreaktion  2.2.1 Prüffall 4514
+14
 
-2.2.2 Konditionaler Prüffall 4515
+2.2 Prüffall Systemreaktion
 
-2.3 Weitere Prüffälle zum Anforderungskatalog 2.3.1 Prüffall 4530
+17
+
+2.2.1 Prüffall 4514
+
+17
+
+2.2.2 Konditionaler Prüffall 4515 20
+
+2.3 Weitere Prüffälle zum Anforderungskatalog 21
+
+2.3.1 Prüffall 4530
+
+21
 
 2.3.2 Prüffall 4540
 
+22
+
 **3** **TESTDATENVALIDIERUNG**
-
-3.1.1 Prüffall TDV4518
-
-**4** **ANHANG**
-
-4.1 Prüffall 10  Ersatzverfahren
-
-**5** **REFERENZIERTE DOKUMENTE**
-
-Seite 2 von 28 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.04 / 9. Dezember 2024
-
-**5**
-
-5  5  5  6  6  8  8  8  8  8  9  9  9
-
-**10**
-
-10  10  12  14  17  17  20  21  21  22
 
 **23**
 
+3.1.1 Prüffall TDV4518
+
 24
+
+**4** **ANHANG**
 
 **26**
 
-26
+4.1 Prüffall 10  Ersatzverfahren 26
+
+**5** **REFERENZIERTE DOKUMENTE**
 
 **27**
+
+Seite 2 von 28 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.04 / 9. Dezember 2024
 
 
 ---
@@ -166,9 +208,7 @@ Seite 4 von 28 / KBV / Pruefpaket eDMP-Herzinsuffizienz
 
 10
 
-10
-
-24
+10      24
 
 22
 
@@ -285,11 +325,7 @@ verschlüsselt (*.zip.XKM) mit der entsprechenden Begleitdatei direkt in dem Hau
 
 Die geforderten Videomitschnitte, Screenshots sowie die Teilnahmeerklärung (Prüffall 4540)  einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.
 
-1
-
-2 3
-
-[PrüffallNr.]0F0F _[lfd Nr.]1F1F 2F2F
+[PrüffallNr.]0F0F1_[lfd Nr.]1F1F2 2F2F3
 
 Teilnahmeerklärung (Prüffall 4540): TE_EWE_HI.pdf
 
@@ -918,7 +954,9 @@ Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider  Einschreib
 
 Sofern das System eine Zulassung für die Indikation COPD verfügt, müssen die  entsprechenden Daten ebenfalls dokumentiert werden. Sollte d COPD-Zulassung besitzen, dann sind nur die HI
 
-**Aktionen, die durch den Antragsteller durchgeführt werde** **1.** **Versichertendaten:**
+**Aktionen, die durch den Antragsteller durchgeführt werden:**
+
+**1.** **Versichertendaten:**
 
 Die Versichertendaten von Kai von und zu Oldenburg (Anhang 4.1) im Ersatzverfahren erfassen.  **2.** **Anlegen einer Erst- und einer Verlaufsdokumentation** **INDIKATIONSÜBERGREIFENDE DATEN**
 
@@ -947,8 +985,6 @@ Blutdruck
 Raucher
 
 Begleiterkrankungen -Daten zu übermitteln.
-
-**n:**
 
 **Erstdokumentation**
 
@@ -1564,9 +1600,7 @@ Nr. 17
 
 **2.3** **WEITERE PRÜFFÄLLE ZUM ANFORDERUNGSKATALOG**
 
-**2.3.1**
-
-**Prüffall 4530**
+**2.3.1** **Prüffall 4530**
 
 **Prüffall-ID**
 
@@ -2014,9 +2048,9 @@ KBV_ITA_VGEX_Schnittstelle_eHeader
 
 XPM-Paket_HI
 
-XPM-Paket_COPD 4
+XPM-Paket_COPD
 
-Austausch_von_XML-Daten_Vn.nn.ZIP
+Austausch_von_XML-Daten_Vn.nn.ZIP4
 
 KBV_ITA_RLEX_Zert
 
@@ -2024,9 +2058,9 @@ KBV_ITA_FMEX_AAZ_eDMP_HI
 
 Prüfstammdateien
 
-KBV-Kryptomodul (XKM) und öffentlicher  Testschlüssel 5
+KBV-Kryptomodul (XKM) und öffentlicher  Testschlüssel
 
-VSD_5.2.0_Testfaelle_Vn.n.zip
+VSD_5.2.0_Testfaelle_Vn.n.zip5
 
 KBV_ITA_VGEX_Schnittstelle_SDDA
 

@@ -398,7 +398,7 @@ DOKUMENTENHISTORIE
 |  |  |  |  |  |  |
 |  | 4.47  14.11.2025 KBV | | | | |
 
-aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen) aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen) Parameters Therapieanpassung aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen) Wordings der DMP- Schnittstellen (bpsw. body wird zu <body>) 6.1.2.1 in der Hierarchisierung zu 6.1.3. Dadurch Änderung der Nummerierung aller Folgekapitel in Abschnitt 6.1 und Änderung von Kapitelverweisen. bestehende Schnittstelle <Zeitpunkt_dttm> in vier einzelne Abschnitte möglicher Ergebnistexte als Tabellen in Kapitel 6 und 7 Wertebereichs für den nicht verwendet Übersichtlichkeit und Eindeutigkeit korrigiert Personenstandsgesetz (PstG)
+aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen) aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen) Parameters Therapieanpassung aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen) Wordings der DMP- Schnittstellen (bpsw. body wird zu <body>) 6.1.2.1 in der Hierarchisierung zu 6.1.3. Dadurch Änderung der Nummerierung aller Folgekapitel in Abschnitt 6.1 und Änderung von Kapitelverweisen. bestehende Schnittstelle <Zeitpunkt_dttm> nicht verwendet in vier einzelne Abschnitte Übersichtlichkeit und Eindeutigkeit korrigiert möglicher Ergebnistexte als Tabellen in Kapitel 6 und 7 Wertebereichs für den Personenstandsgesetz (PstG)
 
 ---
 
@@ -707,7 +707,7 @@ Dezimaltrennzeichen wird der Dezimalpunkt verwendet. Im U-Attribut (UNIT) wird d
 
 ---
 
-\| <sciphox:Beobachtung>       <   </sciphox:Beobachtung> |
+\| <sciphox:Beobachtung>         </sciphox:Beobachtung> |
 \|---|
 
 **XML-Code 8:**
@@ -728,7 +728,7 @@ mindestens ein Kindelement <sciphox:Ergebnistext
 
 Der Coderahmen sieht wie folgt aus:
 
-\| <content>  **       <sciphox:Beobachtungen>                        </content> |
+\| <content>  **     <sciphox:Beobachtungen>                 </content> |
 \|---|
 
 **XML-Code 9:** content (Administrative Daten)
@@ -741,12 +741,12 @@ gemäß Tabelle 4. Wenn bei diesem Parameter mehrere Felder ausgewählt wurden, 
 
 Als Beispiel sei hier folgender Code angegeben:
 
-\| <sciphox:Beobachtung>    < </sciphox:Beobachtung> |
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
 **XML-Code 10:** Einschreibung wegen
 
-sciphox:Ergebniswert V=". . ." U="..."/>  Ergebniswert Abschnitt „Administrative Daten“ „Administrative Daten“. observation  verwendet. Der Aufbau dieser SSU ist in Kapitel <content> <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtungen> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Asthma bronchiale"/> <sciphox:Ergebnistext V="KHK"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung wegen"/> sciphox:Ergebnistext V="Asthma bronchiale"/>
+<sciphox:Ergebniswert V=". . ." U="..."/>  Ergebniswert Abschnitt „Administrative Daten“ „Administrative Daten“. observation  verwendet. Der Aufbau dieser SSU ist in Kapitel <content> <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtungen> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Asthma bronchiale"/> <sciphox:Ergebnistext V="KHK"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Asthma bronchiale"/>
 
 ---
 
@@ -1220,7 +1220,7 @@ Der Coderahmen sieht wie folgt aus:
 
 ---
 
-\| <content>         <sciphox:Beobachtungen>                                 </local_markup> </content> |
+\| <content>       <sciphox:Beobachtungen>                       </local_markup> </content> |
 \|---|
 
 **XML-Code 31:** content (Schulung)
@@ -1233,7 +1233,7 @@ gemäß Tabelle 17.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-\| <sciphox:Beobachtung>    < </sciphox:Beobachtung> |
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
 **XML-Code 32:** Asthma-Schulung empfohlen (bei aktueller Dokumentation)
@@ -1253,12 +1253,12 @@ gemäß Tabelle 18.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-\| <sciphox:Beobachtung>    < </sciphox:Beobachtung> |
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
 **XML-Code 33**: Asthma-Schulung schon vor Einschreibung in DMP bereits wahrgenommen
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Asthma-Schulung empfohlen (bei aktueller Dokumentation) "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Asthma-Schulung schon vor Einschreibung in DMP bereits wahrgenommen "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Asthma-Schulung empfohlen (bei aktueller Dokumentation) "/> sciphox:Ergebnistext V="Ja"/> V="...") <sciphox:Parameter DN="Asthma-Schulung schon vor Einschreibung in DMP bereits wahrgenommen "/> sciphox:Ergebnistext V="Nein"/>
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Asthma-Schulung empfohlen (bei aktueller Dokumentation) "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Asthma-Schulung schon vor Einschreibung in DMP bereits wahrgenommen "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Asthma-Schulung empfohlen (bei aktueller Dokumentation) "/> <sciphox:Ergebnistext V="Ja"/> V="...") <sciphox:Parameter DN="Asthma-Schulung schon vor Einschreibung in DMP bereits wahrgenommen "/> <sciphox:Ergebnistext V="Nein"/>
 
 ---
 
@@ -1283,7 +1283,7 @@ Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau di
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
 
-\| <content>         <sciphox:Beobachtungen>                                                         </content> |
+\| <content>       <sciphox:Beobachtungen>                                       </content> |
 \|---|
 
 **XML-Code 34:** content (Behandlungsplanung)
@@ -1300,7 +1300,7 @@ V="...") <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu t
 
 ---
 
-\| <sciphox:Beobachtung>    < </sciphox:Beobachtung> |
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
 **XML-Code 35:** Vom Patienten gewünschte Informationsangebote der Krankenkasse
@@ -1321,7 +1321,7 @@ Bei diesem Parameter enthält das Element < gemäß Tabelle 20.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-\| <sciphox:Beobachtung>    < </sciphox:Beobachtung> |
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
 **XML-Code 36:** Dokumentationsintervall
@@ -1339,7 +1339,7 @@ Bei diesem Parameter enthält das Element < gemäß Tabelle 21.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-\| <sciphox:Beobachtung>    < </sciphox:Beobachtung> |
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
 **XML-Code 37:** Schriftlicher Selbstmanagementplan
@@ -1348,7 +1348,7 @@ sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 
 sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 
-<sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> sciphox:Ergebnistext V="Körperliches Training“/>  (V="...") <sciphox:Parameter DN="Dokumentationsintervall"/> sciphox:Ergebnistext V="Quartalsweise"/> V="...") <sciphox:Parameter DN="Schriftlicher Selbstmanagementplan"/> sciphox:Ergebnistext V="Ja"/>
+<sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> <sciphox:Ergebnistext V="Körperliches Training“/>  (V="...") <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V="Quartalsweise"/> V="...") <sciphox:Parameter DN="Schriftlicher Selbstmanagementplan"/> <sciphox:Ergebnistext V="Ja"/>
 
 ---
 
@@ -1409,7 +1409,7 @@ genau ein Kindelement <sciphox:Ergebniswert>.
 
 Der Coderahmen sieht wie folgt aus:
 
-\| <content>         <sciphox:Beobachtungen>                     </local_markup> </content> |
+\| <content>       <sciphox:Beobachtungen>               </local_markup> </content> |
 \|---|
 
 **XML-Code 39:** content (Relevante Ereignisse)

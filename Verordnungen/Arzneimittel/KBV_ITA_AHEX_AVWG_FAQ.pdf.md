@@ -425,89 +425,89 @@ P2-110 von sonstigen Produkten zur Wundbehandlung im Rahmen der Übergangsregelu
 \| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 | **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
-| Einleitung | **produktbezogen im Workflow** Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein | Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130 |
-| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein |
+| Einleitung | Wie ist die Aussage zu verstehen,  Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein | Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130 |
+| Einleitung | Wie ist die Aussage zu verstehen, | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein |
 | Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne | P2-130 | Die Referenzdatenbank des |
 | Diese unterschiedlichen | Wie sollen Softwarehersteller mit  Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem | Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  › |
 | **·** | **·** |  |
-| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** Einleitung **produktbezogen im Workflow** Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130  Die Referenzdatenbank des  Diese unterschiedlichen |
-| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** Einleitung  Wie ist die Aussage zu verstehen,  Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130  Die Referenzdatenbank des  Diese unterschiedlichen |
+| Einleitung | Wie ist die Aussage zu verstehen, | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
 | P2-130 | Die Referenzdatenbank des  Diese unterschiedlichen  Wie sollen Softwarehersteller mit | Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  › **·** **·**  Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates  ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können.  › **·** **·**  P2-130  Diese unterschiedlichen  Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  Sofern Verordnungssoftware-Produkte von Ihren Arzneimitteldatenbank Hinweis:  Die KBV befindet sich aktuell in Abstimmung mit dem BfArM zum Thema Zeitpunkt der |
-| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein |
+| Einleitung | Wie ist die Aussage zu verstehen, | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein |
 | Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne | P2-130 | Die Referenzdatenbank des |
 | Diese unterschiedlichen | Wie sollen Softwarehersteller mit | Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem |
 | Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  › | **·** |  |
 | **·** | Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates  ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können. | › |
-| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
+| Einleitung | Wie ist die Aussage zu verstehen, | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
 | P2-130 | Die Referenzdatenbank des |  |
 | Diese unterschiedlichen | Wie sollen Softwarehersteller mit  Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem | Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung: |
-| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130 |
+| Einleitung | Wie ist die Aussage zu verstehen, | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130 |
 | Die Referenzdatenbank des  Diese unterschiedlichen | Wie sollen Softwarehersteller mit  Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem | Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung: |
-| Einleitung **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130 | Die Referenzdatenbank des  Diese unterschiedlichen |
-| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
+| Einleitung  Wie ist die Aussage zu verstehen, | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130 | Die Referenzdatenbank des  Diese unterschiedlichen |
+| Einleitung | Wie ist die Aussage zu verstehen, | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
 | P2-130 | Die Referenzdatenbank des | Diese unterschiedlichen |
 | Wie sollen Softwarehersteller mit  Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung: | › | **·** |
 | **·** | Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates | ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können.  › |
 | **·** | **·** |  |
 | Sofern Verordnungssoftware-Produkte von Ihren Arzneimitteldatenbank Hinweis: | Die KBV befindet sich aktuell in Abstimmung mit dem BfArM zum Thema Zeitpunkt der |  |
-| Einleitung **produktbezogen im Workflow** Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne | P2-130 |  |
+| Einleitung  Wie ist die Aussage zu verstehen,  Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne | P2-130 |  |
 | Die Referenzdatenbank des  Diese unterschiedlichen | Wie sollen Softwarehersteller mit  Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem | Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung: |
 | › | **·** | **·** |
-| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
+| Einleitung | Wie ist die Aussage zu verstehen, | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
 | P2-130 | Die Referenzdatenbank des | Diese unterschiedlichen |
-| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein |
+| Einleitung | Wie ist die Aussage zu verstehen, | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein |
 | Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne | P2-130 | Die Referenzdatenbank des |
 | Diese unterschiedlichen | Wie sollen Softwarehersteller mit | Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  › |
 | **·** | **·** |  |
 | Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates  ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können. | › | **·** |
-| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein |
+| Einleitung | Wie ist die Aussage zu verstehen, | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein |
 | Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne | P2-130 | Die Referenzdatenbank des |
 | Diese unterschiedlichen | Wie sollen Softwarehersteller mit | Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem |
 | Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  › | **·** |  |
 | **·** | Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates  ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können. | › |
-| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
+| Einleitung | Wie ist die Aussage zu verstehen, | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
 | P2-130 | Die Referenzdatenbank des | Diese unterschiedlichen |
 | Wie sollen Softwarehersteller mit | Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung: | › |
-| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein |
+| Einleitung | Wie ist die Aussage zu verstehen, | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein |
 | Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne | P2-130 | Die Referenzdatenbank des |
 | Diese unterschiedlichen | Wie sollen Softwarehersteller mit  Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem | Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  › |
-| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130  Die Referenzdatenbank des |
-| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130  Die Referenzdatenbank des |
-| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  Die Referenzdatenbank des  Wie sollen Softwarehersteller mit  › **·** **·**  Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates  ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können. |
-| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130  Die Referenzdatenbank des  Diese unterschiedlichen  Wie sollen Softwarehersteller mit  Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  › **·** **·**  Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates  ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können.  › Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130  Die Referenzdatenbank des  Diese unterschiedlichen  Wie sollen Softwarehersteller mit  Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  › **·** Sofern Verordnungssoftware-Produkte von Ihren Arzneimitteldatenbank Hinweis:  Die KBV befindet sich aktuell in Abstimmung mit dem BfArM zum Thema Zeitpunkt der |
+| Einleitung | Wie ist die Aussage zu verstehen, | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130  Die Referenzdatenbank des |
+| Einleitung | Wie ist die Aussage zu verstehen, | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130  Die Referenzdatenbank des |
+| Einleitung | Wie ist die Aussage zu verstehen, | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  Die Referenzdatenbank des  Wie sollen Softwarehersteller mit  › **·** **·**  Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates  ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können. |
+| Einleitung | Wie ist die Aussage zu verstehen, | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130  Die Referenzdatenbank des  Diese unterschiedlichen  Wie sollen Softwarehersteller mit  Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  › **·** **·**  Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates  ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können.  › Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130  Die Referenzdatenbank des  Diese unterschiedlichen  Wie sollen Softwarehersteller mit  Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  › **·** Sofern Verordnungssoftware-Produkte von Ihren Arzneimitteldatenbank Hinweis:  Die KBV befindet sich aktuell in Abstimmung mit dem BfArM zum Thema Zeitpunkt der |
 | **·** | **·** | Sofern Verordnungssoftware-Produkte von Ihren Arzneimitteldatenbank |
 | Hinweis:  Die KBV befindet sich aktuell in Abstimmung mit dem BfArM zum Thema Zeitpunkt der |  |  |
-| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
+| Einleitung | Wie ist die Aussage zu verstehen, | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
 | P2-130 | Die Referenzdatenbank des | Diese unterschiedlichen |
 | Wie sollen Softwarehersteller mit  Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem | Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  › | **·** |
-| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** Einleitung **produktbezogen im Workflow** Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130 |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** Einleitung  Wie ist die Aussage zu verstehen,  Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130 |
 |  |  | Einleitung |
-| **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |  |
-| Einleitung **produktbezogen im Workflow** Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne | P2-130 | Die Referenzdatenbank des  Diese unterschiedlichen  Wie sollen Softwarehersteller mit  Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  › |
+| Wie ist die Aussage zu verstehen, | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |  |
+| Einleitung  Wie ist die Aussage zu verstehen,  Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne | P2-130 | Die Referenzdatenbank des  Diese unterschiedlichen  Wie sollen Softwarehersteller mit  Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  › |
 | **·** **·**  Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates  ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können.  › | **·** **·** | Sofern Verordnungssoftware-Produkte von Ihren Arzneimitteldatenbank |
 | Hinweis:  Die KBV befindet sich aktuell in Abstimmung mit dem BfArM zum Thema Zeitpunkt der |  |  |
-| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
+| Einleitung | Wie ist die Aussage zu verstehen, | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
 | P2-130 | Die Referenzdatenbank des | Diese unterschiedlichen  Wie sollen Softwarehersteller mit |
-| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein |
+| Einleitung | Wie ist die Aussage zu verstehen, | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein |
 | **·** | Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates | ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können. |
 | › | **·** | **·**  Sofern Verordnungssoftware-Produkte von Ihren Arzneimitteldatenbank |
-| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
+| Einleitung | Wie ist die Aussage zu verstehen, | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
 | P2-130 | Die Referenzdatenbank des | Diese unterschiedlichen  Wie sollen Softwarehersteller mit |
 | Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung: | › | **·** |
-| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
+| Einleitung | Wie ist die Aussage zu verstehen, | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
 | P2-130 | Die Referenzdatenbank des | Diese unterschiedlichen  Wie sollen Softwarehersteller mit |
 | Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung: | › | **·** |
 | **·** | Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates  ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können. | › |
-| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein |
+| Einleitung | Wie ist die Aussage zu verstehen, | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein |
 | Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne | P2-130 | Die Referenzdatenbank des  Diese unterschiedlichen |
 | Wie sollen Softwarehersteller mit | Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung:  › | **·** **·** |
-| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130  Die Referenzdatenbank des |
+| Einleitung | Wie ist die Aussage zu verstehen, | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130  Die Referenzdatenbank des |
 | Diese unterschiedlichen  Wie sollen Softwarehersteller mit | Aus Sicht der KBV muss jede Verordnungssoftware, welche mit diesem Problem  Nach Bewertung der KBV eignen sich die folgenden Strategien für die Datenbereitstellung: | › |
 | **·** | **·** | Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates |
 | ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können.  › | **·** **·** |  |
-| Einleitung | **produktbezogen im Workflow** | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
+| Einleitung | Wie ist die Aussage zu verstehen, | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
 
-Wie ist die Aussage zu verstehen, dass Rabattvertragsangaben anzugeben sind? BfArM wird vom BfArM häufig erst am 01. oder 15. eines Monats zur Verfügung gestellt, die sonstigen Daten gemäß P2- 110 werden von Datenbankherstellern mit mehr Vorlauf zur Verfügung gestellt.  Bereitstellungszyklen erschweren die fristgerechte Bereitstellung der Daten gemäß der Anforderung P2-130.  dieser Situation umgehen?  Produkt rabattiert ist oder nicht. Angabe einer Packungsgröße angezeigt, ist das Produkt dann als Rabattarzneimittel zu kennzeichnen, wenn mindestens eine Packung einem Rabattvertrag der Kasse des Patienten unterliegt. konfrontiert wird, eine geeignete Updatestrategie zur Bereitstellung der kompletten Arzneimitteldaten gemäß P2-110 etablieren. Diese Strategie sollte sicherstellen, dass den Kunden in der Software, die stets aktuellen Arzneimitteldaten zur Verfügung stehen sowie dass unnötige Updates durch die Praxen vermieden werden. Es werden pro Datenzyklus zwei Updates bereitgestellt Im ersten Update werden die IFA basierten Daten fristgerecht bereitgestellt.  Im zweiten Update werden die Daten der Referenzdatenbank vom BfArM nachträglich bereitgestellt. Es wird pro Datenzyklus ein Update bereitgestellt. Die bereitgestellten Daten eines Datenzyklus setzen sich wie folgt zusammen: die IFA basierten Daten des aktuellen Datenzyklus sowie die Daten der Referenzdatenbank des BfArM aus dem vorherigen Datenzyklus. -Anbietern die kompletten Arzneimitteldaten gemäß P2 -110 bereitgestellt bekommen, werden die Daten entsprechend dem Aktualisierungszyklus gemäß P2 -130 bereitgestellt.  Bereitstellung der Daten der Referenzdatenbank
+dass Rabattvertragsangaben produktbezogen im Workflow anzugeben sind? BfArM wird vom BfArM häufig erst am 01. oder 15. eines Monats zur Verfügung gestellt, die sonstigen Daten gemäß P2- 110 werden von Datenbankherstellern mit mehr Vorlauf zur Verfügung gestellt.  Bereitstellungszyklen erschweren die fristgerechte Bereitstellung der Daten gemäß der Anforderung P2-130.  dieser Situation umgehen?  Produkt rabattiert ist oder nicht. Angabe einer Packungsgröße angezeigt, ist das Produkt dann als Rabattarzneimittel zu kennzeichnen, wenn mindestens eine Packung einem Rabattvertrag der Kasse des Patienten unterliegt. konfrontiert wird, eine geeignete Updatestrategie zur Bereitstellung der kompletten Arzneimitteldaten gemäß P2-110 etablieren. Diese Strategie sollte sicherstellen, dass den Kunden in der Software, die stets aktuellen Arzneimitteldaten zur Verfügung stehen sowie dass unnötige Updates durch die Praxen vermieden werden. Es werden pro Datenzyklus zwei Updates bereitgestellt Im ersten Update werden die IFA basierten Daten fristgerecht bereitgestellt.  Im zweiten Update werden die Daten der Referenzdatenbank vom BfArM nachträglich bereitgestellt. Es wird pro Datenzyklus ein Update bereitgestellt. Die bereitgestellten Daten eines Datenzyklus setzen sich wie folgt zusammen: die IFA basierten Daten des aktuellen Datenzyklus sowie die Daten der Referenzdatenbank des BfArM aus dem vorherigen Datenzyklus. -Anbietern die kompletten Arzneimitteldaten gemäß P2 -110 bereitgestellt bekommen, werden die Daten entsprechend dem Aktualisierungszyklus gemäß P2 -130 bereitgestellt.  Bereitstellung der Daten der Referenzdatenbank
 
 ---
 
@@ -1197,7 +1197,7 @@ Pharmaunternehmen gemeldete, zwischen den Updates auf den Markt kommende Produkt
 |  |  |  |
 | P3-120 | P3-121 |  |
 
-in jeder Verordnungsliste in Form einer Tabelle angezeigt werden? - oder Wiederholungsverordnung für einen Patienten ohne eigene Aktion ersichtlich sein müssen. Nur die Attribute, welche in der ersten Tabelle der Pflichtfunktion P3 -120 gelistet sind, sind zwingend in Form einer tabellarischen Auswahlliste anzugeben. Die weiteren Attribute gemäß P3-121 können zum Beispiel in einem eigenen Anzeigebereich für den in der Liste aktuell angewählten Artikel angezeigt werden. Kasse des Patienten, zu denen es aber andere rabattierte, für eine Substitution geeignete Produkte für die Krankenkasse des jeweiligen Patienten gibt, sollen gekennzeichnet werden. Wie kann das ohne Performanceverlust realisiert werden? für die aktive Zeile einer Liste (Tabelle), also für eine PZN geprüft wird, ob ein geeignetes Rabattvertragsarzneimittel der Kasse des Patienten vorhanden ist, das  sich zur Substitution eignet. Arzneimittel, die den gleichen Wirkstoff, die gleiche Wirkstärke, die gleiche oder austauschbare Darreichungsformen sowie die gleiche Normgröße besitzen, sind für eine Substitution geeignet. weiterhin erlaubt? Workflow nicht unterbrechen und kann so gestaltet werden, dass d ie Ärztin bzw. der Arzt diese für jedes Makro abschalten kann.
+in jeder Verordnungsliste in Form einer Tabelle angezeigt werden? Kasse des Patienten, zu denen es aber andere rabattierte, für eine Substitution geeignete Produkte für die Krankenkasse des jeweiligen Patienten gibt, sollen gekennzeichnet werden. Wie kann das ohne Performanceverlust realisiert werden? weiterhin erlaubt? Wiederholungsverordnung für einen Patienten ohne eigene Aktion ersichtlich sein müssen. Nur die Attribute, welche in der ersten Tabelle der Pflichtfunktion P3 zwingend in Form einer tabellarischen Auswahlliste anzugeben. Die weiteren Attribute gemäß P3-121 können zum Beispiel in einem eigenen Anzeigebereich für den in der Liste aktuell angewählten Artikel angezeigt werden. für die aktive Zeile einer Liste (Tabelle), also für eine PZN geprüft wird, ob ein geeignetes Rabattvertragsarzneimittel der Kasse des Patienten vorhanden ist, das eignet. Arzneimittel, die den gleichen Wirkstoff, die gleiche Wirkstärke, die gleiche oder austauschbare Darreichungsformen sowie die gleiche Normgröße besitzen, sind für eine Substitution geeignet. Workflow nicht unterbrechen und kann so gestaltet werden, dass d diese für jedes Makro abschalten kann. - oder -120 gelistet sind, sind  sich zur Substitution ie Ärztin bzw. der Arzt
 
 ---
 
@@ -1348,62 +1348,62 @@ das Blaue-Hand-Logo in der Software mit angezeigt werden? Sicht begrüßt und em
 | P3-130 | Wie sollen vollständige Texte  Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen | P3-200  Was ist mit „ |
 | P3-130 | Wie sollen vollständige Texte | Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen |
 | P3-200 | Was ist mit „ | Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. |
-| P3-300 | Warum wird eine  Nein, hier hat sich inhaltlich nichts geändert. | Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht |
+| P3-300 | Warum wird eine  Nein, hier hat sich inhaltlich nichts geändert. | Lediglich Arzneimittel enthalten per definitionem „Wirkstoffe“. Produkte, die keine  Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht |
 | P3-310 | Wofür braucht es eine | Da ein Wirkstoff häufig für mehrere Anwendungsgebiete zugelassen ist, ist die Suche nach |
 | **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-130  Wie sollen vollständige Texte  Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen  P3-200  Was ist mit „ Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. P3-300 |
 | P3-130 | Wie sollen vollständige Texte | Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen |
-| P3-200 | Was ist mit „ Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. P3-300  Warum wird eine | Nein, hier hat sich inhaltlich nichts geändert.    Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht P3-310  Wofür braucht es eine  Da ein Wirkstoff häufig für mehrere Anwendungsgebiete zugelassen ist, ist die Suche nach  P3-320  Können Ärztinnen und Ärzte  Eine aktiv getroffene Hervorhebung ist zulässig. Was ist mit „ P3-300  Nein, hier hat sich inhaltlich nichts geändert. |
+| P3-200 | Was ist mit „ Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. P3-300  Warum wird eine | Nein, hier hat sich inhaltlich nichts geändert.  Lediglich Arzneimittel enthalten per definitionem „Wirkstoffe“. Produkte, die keine  Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht P3-310  Wofür braucht es eine  Da ein Wirkstoff häufig für mehrere Anwendungsgebiete zugelassen ist, ist die Suche nach  P3-320  Können Ärztinnen und Ärzte  Eine aktiv getroffene Hervorhebung ist zulässig. Was ist mit „ P3-300  Nein, hier hat sich inhaltlich nichts geändert.  Lediglich Arzneimittel enthalten per definitionem „Wirkstoffe“. Produkte, die keine |
 | P3-130 | Wie sollen vollständige Texte | Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen |
 | P3-200 | Was ist mit „ | Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. |
 | P3-300 | Warum wird eine | Nein, hier hat sich inhaltlich nichts geändert. |
-| Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht | P3-310 |  |
+| Lediglich Arzneimittel enthalten per definitionem „Wirkstoffe“. Produkte, die keine  Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht | P3-310 |  |
 | Wofür braucht es eine  Da ein Wirkstoff häufig für mehrere Anwendungsgebiete zugelassen ist, ist die Suche nach | P3-320 | Können Ärztinnen und Ärzte |
 | P3-130 | Wie sollen vollständige Texte | Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen |
 | P3-200 | Was ist mit „ Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. |  |
-| P3-300 | Warum wird eine  Nein, hier hat sich inhaltlich nichts geändert. |  |
+| P3-300 | Warum wird eine  Nein, hier hat sich inhaltlich nichts geändert. | Lediglich Arzneimittel enthalten per definitionem „Wirkstoffe“. Produkte, die keine |
 | P3-130 | Wie sollen vollständige Texte | Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen  P3-200  Was ist mit „ |
-| Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. P3-300 | Warum wird eine  Nein, hier hat sich inhaltlich nichts geändert. |  |
+| Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. P3-300 | Warum wird eine  Nein, hier hat sich inhaltlich nichts geändert. | Lediglich Arzneimittel enthalten per definitionem „Wirkstoffe“. Produkte, die keine |
 | P3-130  Wie sollen vollständige Texte | Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen  P3-200 | Was ist mit „ Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. P3-300 |
 | P3-130 | Wie sollen vollständige Texte | Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen  P3-200 |
 | Was ist mit „ | Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. | P3-300 |
-| Warum wird eine  Nein, hier hat sich inhaltlich nichts geändert. | Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht | P3-310 |
+| Warum wird eine  Nein, hier hat sich inhaltlich nichts geändert.  Lediglich Arzneimittel enthalten per definitionem „Wirkstoffe“. Produkte, die keine | Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht | P3-310 |
 | Wofür braucht es eine | Da ein Wirkstoff häufig für mehrere Anwendungsgebiete zugelassen ist, ist die Suche nach | P3-320 |
 | Können Ärztinnen und Ärzte  Eine aktiv getroffene Hervorhebung ist zulässig. |  |  |
 |  |  |  |
 | P3-130  Wie sollen vollständige Texte  Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen | P3-200 | Was ist mit „ |
-| Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. P3-300 | Warum wird eine  Nein, hier hat sich inhaltlich nichts geändert. |  |
+| Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. P3-300 | Warum wird eine  Nein, hier hat sich inhaltlich nichts geändert. | Lediglich Arzneimittel enthalten per definitionem „Wirkstoffe“. Produkte, die keine |
 | Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht | P3-310 | Wofür braucht es eine |
 | P3-130 | Wie sollen vollständige Texte | Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen  P3-200 |
 | Was ist mit „ | Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. | P3-300 |
 | P3-130 | Wie sollen vollständige Texte | Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen |
 | P3-200 | Was ist mit „ | Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. |
-| P3-300 | Warum wird eine | Nein, hier hat sich inhaltlich nichts geändert.    Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht |
+| P3-300 | Warum wird eine | Nein, hier hat sich inhaltlich nichts geändert.  Lediglich Arzneimittel enthalten per definitionem „Wirkstoffe“. Produkte, die keine  Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht |
 | P3-310 | Wofür braucht es eine | Da ein Wirkstoff häufig für mehrere Anwendungsgebiete zugelassen ist, ist die Suche nach |
 | P3-320 | Können Ärztinnen und Ärzte | Eine aktiv getroffene Hervorhebung ist zulässig. |
 | P3-130 | Wie sollen vollständige Texte | Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen |
 | P3-200 | Was ist mit „ | Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. |
 | P3-300 | Warum wird eine | Nein, hier hat sich inhaltlich nichts geändert. |
-| Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht | P3-310 |  |
+| Lediglich Arzneimittel enthalten per definitionem „Wirkstoffe“. Produkte, die keine  Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht | P3-310 |  |
 | Wofür braucht es eine  Da ein Wirkstoff häufig für mehrere Anwendungsgebiete zugelassen ist, ist die Suche nach | P3-320 |  |
 | P3-130 | Wie sollen vollständige Texte | Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen |
 | P3-200 | Was ist mit „ Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. | P3-300 |
-| Warum wird eine | Nein, hier hat sich inhaltlich nichts geändert. | Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht |
+| Warum wird eine | Nein, hier hat sich inhaltlich nichts geändert.  Lediglich Arzneimittel enthalten per definitionem „Wirkstoffe“. Produkte, die keine | Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht |
 | P3-130 | Wie sollen vollständige Texte | Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen |
 | P3-200 | Was ist mit „ | Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. |
-| P3-300 | Warum wird eine  Nein, hier hat sich inhaltlich nichts geändert. | Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht |
+| P3-300 | Warum wird eine  Nein, hier hat sich inhaltlich nichts geändert. | Lediglich Arzneimittel enthalten per definitionem „Wirkstoffe“. Produkte, die keine  Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht |
 | P3-130 | Wie sollen vollständige Texte | Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen  P3-200  Was ist mit „ Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. |
 | P3-130 | Wie sollen vollständige Texte | Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen  P3-200  Was ist mit „ Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. |
 | P3-130 | Wie sollen vollständige Texte | Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen  P3-200  Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. Warum wird eine  Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht P3-310  Wofür braucht es eine  Da ein Wirkstoff häufig für mehrere Anwendungsgebiete zugelassen ist, ist die Suche nach  P3-320 |
-| P3-130 | Wie sollen vollständige Texte | Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen  P3-200  Was ist mit „ Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. P3-300  Warum wird eine  Nein, hier hat sich inhaltlich nichts geändert.    Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht P3-310  Wofür braucht es eine  Da ein Wirkstoff häufig für mehrere Anwendungsgebiete zugelassen ist, ist die Suche nach  P3-320  P3-200  Was ist mit „ Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. P3-300  Warum wird eine  Nein, hier hat sich inhaltlich nichts geändert.    Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht P3-310 |
+| P3-130 | Wie sollen vollständige Texte | Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen  P3-200  Was ist mit „ Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. P3-300  Warum wird eine  Nein, hier hat sich inhaltlich nichts geändert.  Lediglich Arzneimittel enthalten per definitionem „Wirkstoffe“. Produkte, die keine  Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht P3-310  Wofür braucht es eine  Da ein Wirkstoff häufig für mehrere Anwendungsgebiete zugelassen ist, ist die Suche nach  P3-320  P3-200  Was ist mit „ Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. P3-300  Warum wird eine  Nein, hier hat sich inhaltlich nichts geändert.  Lediglich Arzneimittel enthalten per definitionem „Wirkstoffe“. Produkte, die keine  Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht P3-310 |
 | Können Ärztinnen und Ärzte  Eine aktiv getroffene Hervorhebung ist zulässig. |  |  |
 |  |  |  |
 | P3-130 | Wie sollen vollständige Texte | Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen |
 | P3-200 | Was ist mit „ Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. | P3-300 |
-| Warum wird eine  Nein, hier hat sich inhaltlich nichts geändert. | Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht | P3-310 |
+| Warum wird eine  Nein, hier hat sich inhaltlich nichts geändert. | Lediglich Arzneimittel enthalten per definitionem „Wirkstoffe“. Produkte, die keine  Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht | P3-310 |
 | **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-130  Wie sollen vollständige Texte  Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen  P3-200 |
 |  |  | P3-130 |
 | Wie sollen vollständige Texte | Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen | P3-200 |
-| P3-130  Wie sollen vollständige Texte  Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen | P3-200 | Was ist mit „ Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. P3-300  Warum wird eine  Nein, hier hat sich inhaltlich nichts geändert.    Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht |
+| P3-130  Wie sollen vollständige Texte  Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen | P3-200 | Was ist mit „ Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. P3-300  Warum wird eine  Nein, hier hat sich inhaltlich nichts geändert.  Lediglich Arzneimittel enthalten per definitionem „Wirkstoffe“. Produkte, die keine  Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht |
 | P3-310  Wofür braucht es eine  Da ein Wirkstoff häufig für mehrere Anwendungsgebiete zugelassen ist, ist die Suche nach  P3-320  Können Ärztinnen und Ärzte | Eine aktiv getroffene Hervorhebung ist zulässig. |  |
 |  |  |  |
 | P3-130 | Wie sollen vollständige Texte | Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen  P3-200 |
@@ -1413,21 +1413,21 @@ das Blaue-Hand-Logo in der Software mit angezeigt werden? Sicht begrüßt und em
 | Können Ärztinnen und Ärzte | Eine aktiv getroffene Hervorhebung ist zulässig. |  |
 | P3-130 | Wie sollen vollständige Texte | Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen  P3-200 |
 | Was ist mit „ | Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. | P3-300  Warum wird eine |
-| Nein, hier hat sich inhaltlich nichts geändert. | Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht | P3-310 |
+| Nein, hier hat sich inhaltlich nichts geändert.  Lediglich Arzneimittel enthalten per definitionem „Wirkstoffe“. Produkte, die keine | Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht | P3-310 |
 | P3-130 | Wie sollen vollständige Texte | Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen |
 | P3-200 | Was ist mit „ Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. | P3-300  Warum wird eine |
-| Nein, hier hat sich inhaltlich nichts geändert. | Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht | P3-310 |
+| Nein, hier hat sich inhaltlich nichts geändert.  Lediglich Arzneimittel enthalten per definitionem „Wirkstoffe“. Produkte, die keine | Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht | P3-310 |
 | Wofür braucht es eine  Da ein Wirkstoff häufig für mehrere Anwendungsgebiete zugelassen ist, ist die Suche nach | P3-320 |  |
 | P3-130 | Wie sollen vollständige Texte | Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen |
 | P3-200 | Was ist mit „ | Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. P3-300 |
-| Warum wird eine | Nein, hier hat sich inhaltlich nichts geändert.    Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht | P3-310  Wofür braucht es eine |
+| Warum wird eine | Nein, hier hat sich inhaltlich nichts geändert.  Lediglich Arzneimittel enthalten per definitionem „Wirkstoffe“. Produkte, die keine  Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht | P3-310  Wofür braucht es eine |
 | P3-130 | Wie sollen vollständige Texte | Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen  P3-200  Was ist mit „ Die Werbefreiheit bezieht sich auf den Regelungsbereich des Anforderungskatalogs. |
-| P3-300  Warum wird eine | Nein, hier hat sich inhaltlich nichts geändert. | Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht |
+| P3-300  Warum wird eine | Nein, hier hat sich inhaltlich nichts geändert.  Lediglich Arzneimittel enthalten per definitionem „Wirkstoffe“. Produkte, die keine | Weitere Suchoptionen für bspw. Nahrungsergänzungsmittel oder weitere Nicht |
 | P3-310 | Wofür braucht es eine | Da ein Wirkstoff häufig für mehrere Anwendungsgebiete zugelassen ist, ist die Suche nach |
 | P3-320 | Können Ärztinnen und Ärzte  Eine aktiv getroffene Hervorhebung ist zulässig. |  |
 | P3-130 | Wie sollen vollständige Texte | Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen |
 
-angezeigt werden, ohne den Workflow  zu unterbrechen? von Produktwerbung freie Versionen “ gemeint? Wirkstoffen bzw. Wirkstoffkombinationen nur auf Arzneimittel beschränkt? Hat sich hier inhaltlich etwas verändert? Suchmöglichkeit  nach dem Merkmal 171 „ Verkürztes “ für Arzneimittel mit Beschluss des G- BA nach § 35a SGB V (Merkmal 061)? eigene Hervorhebungen vornehmen. von Hinweistexten anzuzeigen sind. Sofern die Gesamtlänge aller vorliegenden Hinweistexte eine Länge von 250 Zeichen (einschließlich Leerzeichen) überschreitet, können diese anschließend eingekürzt werden. Die vollständigen Hinweistexte sind auf Anforderung durch eine einzige Anwenderinteraktion anzuzeigen. Es handelt sich lediglich um eine Klarstellung: Lediglich Arzneimittel enthalten per definitionem „Wirkstoffe“. Produkte, die keine Arzneimittel sind wie bspw. Nahrungsergänzungsmitteln und Medizinprodukte können keine „Wirkstoffe“ enthalten; es handelt sich hier um Inhaltsstoffe. Bei einer Wirkstoffsuche  dürfen daher nur Arzneimittel  in der Trefferliste erscheinen. Arzneimittel per Inhaltsstoff sind weiterhin erlaubt und empfehlenswert. dem konkreten Beschluss zu einem Anwendungsgebiet zum Teil erschwert. Dies zeigten die Erfahrungen der Anwender im Umgang mit der maschinenlesbaren Fassung. Deswegen wurde das neue Element „Verkürztes Anwendungsgebiet“ (Merkmal 171) zur erleichterten optional zu implementierenden Recherche eingefügt, welches das Anwendungsgebiet des Beschlusses, zusätzlich zum Anwendungsgebiet der Fachinformation, vereinfacht abbildet.
+angezeigt werden, ohne den Workflow  zu unterbrechen? von Produktwerbung freie Versionen “ gemeint? Wirkstoffen bzw. Wirkstoffkombinationen nur auf Arzneimittel beschränkt? Hat sich hier inhaltlich etwas verändert? Suchmöglichkeit  nach dem Merkmal 171 „ Verkürztes “ für Arzneimittel mit Beschluss des G- BA nach § 35a SGB V (Merkmal 061)? eigene Hervorhebungen vornehmen. von Hinweistexten anzuzeigen sind. Sofern die Gesamtlänge aller vorliegenden Hinweistexte eine Länge von 250 Zeichen (einschließlich Leerzeichen) überschreitet, können diese anschließend eingekürzt werden. Die vollständigen Hinweistexte sind auf Anforderung durch eine einzige Anwenderinteraktion anzuzeigen. Es handelt sich lediglich um eine Klarstellung: Arzneimittel sind wie bspw. Nahrungsergänzungsmitteln und Medizinprodukte können keine „Wirkstoffe“ enthalten; es handelt sich hier um Inhaltsstoffe. Bei einer Wirkstoffsuche  dürfen daher nur Arzneimittel  in der Trefferliste erscheinen. Arzneimittel per Inhaltsstoff sind weiterhin erlaubt und empfehlenswert. dem konkreten Beschluss zu einem Anwendungsgebiet zum Teil erschwert. Dies zeigten die Erfahrungen der Anwender im Umgang mit der maschinenlesbaren Fassung. Deswegen wurde das neue Element „Verkürztes Anwendungsgebiet“ (Merkmal 171) zur erleichterten optional zu implementierenden Recherche eingefügt, welches das Anwendungsgebiet des Beschlusses, zusätzlich zum Anwendungsgebiet der Fachinformation, vereinfacht abbildet.
 
 ---
 
@@ -2035,89 +2035,89 @@ Betäubungsmittelverordnungen bezüglich der Dosierungsangabe bei der Verordnung
 \| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 | **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
-| P3-625 | Verordnungssoftware bezüglich  Pflichtanforderung: | Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  › |
-| P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung: |
+| P3-625 | Welche Möglichkeiten muss die  Pflichtanforderung: | Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  › |
+| P3-625 | Welche Möglichkeiten muss die | Pflichtanforderung: |
 | Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für | › | ≫ ≫ |
 | › | ≫ › | *Keine Angabe* |
 | **Optional: ** Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine | › | › |
-| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-625  Verordnungssoftware bezüglich  Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  ›  ≫ ≫ › |
-| P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-625  Welche Möglichkeiten muss die  Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  ›  ≫ ≫ › |
+| P3-625 | Welche Möglichkeiten muss die | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem |
 | Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  › | ≫ ≫ ›  ≫ | › *Keine Angabe ***Optional: ** Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine  ›  ›  Ausgeschriebene Tageszeiten z.B.  ›  ›  › |
-| P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung: |
+| P3-625 | Welche Möglichkeiten muss die | Pflichtanforderung: |
 | Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für | › | ≫ |
 | ≫ › | ≫ | › |
 | *Keine Angabe* | **Optional: ** Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine | › |
 | › | Ausgeschriebene Tageszeiten z.B. |  |
-| P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem |
+| P3-625 | Welche Möglichkeiten muss die | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem |
 | Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  › | ≫ | ≫ |
 | › | ≫ › |  |
-| P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  › |
+| P3-625 | Welche Möglichkeiten muss die | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  › |
 | ≫ ≫ › | ≫ › |  |
-| P3-625  Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  › | ≫ ≫ › |
-| P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für |
+| P3-625  Welche Möglichkeiten muss die | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  › | ≫ ≫ › |
+| P3-625 | Welche Möglichkeiten muss die | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für |
 | › | ≫ ≫ | › |
 | ≫ › | *Keine Angabe ***Optional:** | Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine |
 | › | › | Ausgeschriebene Tageszeiten z.B. |
 |  |  |  |
 |  |  |  |
-| P3-625  Verordnungssoftware bezüglich  Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem | Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  › |  |
+| P3-625  Welche Möglichkeiten muss die  Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem | Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  › |  |
 | ≫ ≫ › | ≫ › |  |
 | *Keine Angabe ***Optional:** | Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine  › |  |
-| P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für |
+| P3-625 | Welche Möglichkeiten muss die | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für |
 | › | ≫ ≫ | › |
-| P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung: |
+| P3-625 | Welche Möglichkeiten muss die | Pflichtanforderung: |
 | Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für | › | ≫ |
 | ≫ › | ≫ | › *Keine Angabe* |
 | **Optional: ** Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine | › | › |
 | Ausgeschriebene Tageszeiten z.B. |  |  |
-| P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung: |
+| P3-625 | Welche Möglichkeiten muss die | Pflichtanforderung: |
 | Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für | › | ≫ |
 | ≫ › | ≫ | › |
 | *Keine Angabe* | **Optional: ** Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine | › |
 | › | Ausgeschriebene Tageszeiten z.B. |  |
-| P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem |
+| P3-625 | Welche Möglichkeiten muss die | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem |
 | Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  › | ≫ | ≫ › |
 | ≫ | › | *Keine Angabe ***Optional:** |
-| P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung: |
+| P3-625 | Welche Möglichkeiten muss die | Pflichtanforderung: |
 | Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für | › | ≫ ≫ |
 | › | ≫ › | *Keine Angabe* |
-| P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  ›  ≫ |
-| P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  ›  ≫ ≫ |
-| P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  ≫ ≫ ≫*Keine Angabe ***Optional: ** Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine  ›  ›  Ausgeschriebene Tageszeiten z.B. |
-| P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  ›  ≫ ≫ ›  ≫ › *Keine Angabe ***Optional: ** Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine  ›  ›  Ausgeschriebene Tageszeiten z.B.  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  ›  ≫ ≫ ›  ≫ › *Keine Angabe ***Optional: ** Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine |
+| P3-625 | Welche Möglichkeiten muss die | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  ›  ≫ |
+| P3-625 | Welche Möglichkeiten muss die | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  ›  ≫ ≫ |
+| P3-625 | Welche Möglichkeiten muss die | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  ≫ ≫ ≫*Keine Angabe ***Optional: ** Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine  ›  ›  Ausgeschriebene Tageszeiten z.B. |
+| P3-625 | Welche Möglichkeiten muss die | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  ›  ≫ ≫ ›  ≫ › *Keine Angabe ***Optional: ** Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine  ›  ›  Ausgeschriebene Tageszeiten z.B.  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  ›  ≫ ≫ ›  ≫ › *Keine Angabe ***Optional: ** Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine |
 |  |  |  |
 |  |  |  |
-| P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem |
+| P3-625 | Welche Möglichkeiten muss die | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem |
 | Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  › | ≫ | ≫ › |
 | ≫ › | *Keine Angabe* | **Optional: ** Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine  › |
-| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-625  Verordnungssoftware bezüglich  Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  › |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-625  Welche Möglichkeiten muss die  Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  › |
 |  |  | P3-625 |
-| Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem | Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für |
-| P3-625  Verordnungssoftware bezüglich  Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem | Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  › | ≫ ≫ ›  ≫ › *Keine Angabe ***Optional:** |
+| Welche Möglichkeiten muss die | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem | Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für |
+| P3-625  Welche Möglichkeiten muss die  Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem | Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  › | ≫ ≫ ›  ≫ › *Keine Angabe ***Optional:** |
 | Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine  ›  ›  Ausgeschriebene Tageszeiten z.B. |  |  |
 |  |  |  |
-| P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für |
+| P3-625 | Welche Möglichkeiten muss die | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für |
 | › | ≫ ≫ | ›  ≫ |
-| P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung: |
+| P3-625 | Welche Möglichkeiten muss die | Pflichtanforderung: |
 | › | › | Ausgeschriebene Tageszeiten z.B. |
 |  |  |  |
-| P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für |
+| P3-625 | Welche Möglichkeiten muss die | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für |
 | › | ≫ ≫ | ›  ≫ |
 | › | *Keine Angabe ***Optional:** | Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine |
-| P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem |
+| P3-625 | Welche Möglichkeiten muss die | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem |
 | Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  › | ≫ | ≫ ›  ≫ |
 | › | *Keine Angabe ***Optional:** | Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine  › |
 | › | Ausgeschriebene Tageszeiten z.B. |  |
-| P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung: |
+| P3-625 | Welche Möglichkeiten muss die | Pflichtanforderung: |
 | Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für | › | ≫ ≫ › |
 | ≫ | › *Keine Angabe ***Optional:** | Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine  › |
-| P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  ›  ≫ |
+| P3-625 | Welche Möglichkeiten muss die | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  ›  ≫ |
 | ≫ ›  ≫ | › | *Keine Angabe* |
 | **Optional: ** Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine | › | › |
 | Ausgeschriebene Tageszeiten z.B. |  |  |
-| P3-625 | Verordnungssoftware bezüglich | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem |
+| P3-625 | Welche Möglichkeiten muss die | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem |
 
-Welche Möglichkeiten muss die der Dosierungsangabe verpflichtend  anbieten? Welche Möglichkeiten sind lediglich optional  umzusetzen? verordneten Produkt am Ende der Verordnungszeile. Ein  ist hier als Eingabefeld für ÄrztInnen als Mindestvoraussetzung verpflichtend. verschreibungspflichtige Arzneimittel schaffen: Dosierungsangabe liegt vor (Medikationsplan oder schriftliche Dosierungsanweisung) Dj  für verschreibungspflichtige Arzneimittel; gemäß schriftlicher Anweisung  bei Betäubungsmitteln (BtM) Freitext-Eingabefeld für eine Dosierungsangabe auf dem Rezept  morgens und abends 1 Tablette, Packungsinhalt komplett aufbrauchen Keine Dosierungsangabe notwendig aufgrund von Abgabe an verschreibende Person (z. B. Sprechstundenbedarf)  Dosierungsangabe erfolgen:  Entsprechend des „Vierer Schemas“ des bundeseinheitlichen Medikationsplanes für morgens-mittags-abends-zur Nacht z.B. bei morgendlicher Gabe einer Tablette sowie Gabe von 1 ½ Tabletten zur Nacht: 1-0-0-1 ½ Entsprechend des „Dreier Schemas“ für morgens -mittags-abends z.B. bei morgendlicher und abendlicher Gabe jeweils einer halben Tablette ½-0-½ morgens, mittags und abends jeweils 1 Sprühstoß
+Verordnungssoftware bezüglich der Dosierungsangabe verpflichtend  anbieten? Welche Möglichkeiten sind lediglich optional  umzusetzen? verordneten Produkt am Ende der Verordnungszeile. Ein  ist hier als Eingabefeld für ÄrztInnen als Mindestvoraussetzung verpflichtend. verschreibungspflichtige Arzneimittel schaffen: Dosierungsangabe liegt vor (Medikationsplan oder schriftliche Dosierungsanweisung) Dj  für verschreibungspflichtige Arzneimittel; gemäß schriftlicher Anweisung  bei Betäubungsmitteln (BtM) Freitext-Eingabefeld für eine Dosierungsangabe auf dem Rezept  morgens und abends 1 Tablette, Packungsinhalt komplett aufbrauchen Keine Dosierungsangabe notwendig aufgrund von Abgabe an verschreibende Person (z. B. Sprechstundenbedarf)  Dosierungsangabe erfolgen:  Entsprechend des „Vierer Schemas“ des bundeseinheitlichen Medikationsplanes für morgens-mittags-abends-zur Nacht z.B. bei morgendlicher Gabe einer Tablette sowie Gabe von 1 ½ Tabletten zur Nacht: 1-0-0-1 ½ Entsprechend des „Dreier Schemas“ für morgens -mittags-abends z.B. bei morgendlicher und abendlicher Gabe jeweils einer halben Tablette ½-0-½ morgens, mittags und abends jeweils 1 Sprühstoß
 
 ---
 
@@ -2150,89 +2150,89 @@ Welche Möglichkeiten muss die der Dosierungsangabe verpflichtend  anbieten? Wel
 \| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 | **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
-| P3-625 | **missverständliche ** Missverständlich Dosierungsanweisungen sind bspw.: | ›  › |
-| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: |
+| P3-625 | Was sind Beispiele für  Missverständlich Dosierungsanweisungen sind bspw.: | ›  › |
+| P3-625 | Was sind Beispiele für | Missverständlich Dosierungsanweisungen sind bspw.: |
 | › | › | › |
 | › | › | › |
 | › | › | › |
-| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-625 **missverständliche ** Missverständlich Dosierungsanweisungen sind bspw.: ›  ›  ›  › |
-| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: › |
-| › | ›  ›  › | ›  ›  ›  ›  ›  P3-625  Rezept verwendet werden? Ja, die Software kann seinen Anwendern weiterhin die Möglichkeit von Kürzeln,  ›  ›    › Aus möglichen Kürzeln, Tastenkombinationen u. ä. muss die Software beispielsweise die  P3-625 |
-| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: |
-| › | › | › |
-| › | › |  |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-625  Was sind Beispiele für  Missverständlich Dosierungsanweisungen sind bspw.: ›  ›  ›  › |
+| P3-625 | Was sind Beispiele für | Missverständlich Dosierungsanweisungen sind bspw.: › |
+| › | ›  ›  › | ›  ›  ›  ›  ›  P3-625  Dürfen in der Software weiterhin  Ja, die Software kann seinen Anwendern weiterhin die Möglichkeit von Kürzeln,  ›  ›    › Aus möglichen Kürzeln, Tastenkombinationen u. ä. muss die Software beispielsweise die  P3-625 |
+| P3-625 | Was sind Beispiele für | Missverständlich Dosierungsanweisungen sind bspw.: |
 | › | › | › |
 | › | › |  |
-| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: › |
+| › | › | › |
+| › | › |  |
+| P3-625 | Was sind Beispiele für | Missverständlich Dosierungsanweisungen sind bspw.: › |
 | › | › |  |
 | › | › | › |
-| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: ›  › |
+| P3-625 | Was sind Beispiele für | Missverständlich Dosierungsanweisungen sind bspw.: ›  › |
 | ›  › | › | › |
-| P3-625 **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: ›  › | ›  › |
-| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: › |
+| P3-625  Was sind Beispiele für | Missverständlich Dosierungsanweisungen sind bspw.: ›  › | ›  › |
+| P3-625 | Was sind Beispiele für | Missverständlich Dosierungsanweisungen sind bspw.: › |
 | › | › | › |
 | ›  › | › |  |
 | › | › | › |
-| P3-625 | Rezept verwendet werden? | Ja, die Software kann seinen Anwendern weiterhin die Möglichkeit von Kürzeln, |
+| P3-625 | Dürfen in der Software weiterhin | Ja, die Software kann seinen Anwendern weiterhin die Möglichkeit von Kürzeln, |
 | Aus möglichen Kürzeln, Tastenkombinationen u. ä. muss die Software beispielsweise die | P3-625 | Gibt es eine |
-| P3-625 **missverständliche ** Missverständlich Dosierungsanweisungen sind bspw.: › | › |  |
+| P3-625  Was sind Beispiele für  Missverständlich Dosierungsanweisungen sind bspw.: › | › |  |
 | ›  › | › | › |
 | › | › |  |
-| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: › |
+| P3-625 | Was sind Beispiele für | Missverständlich Dosierungsanweisungen sind bspw.: › |
 | › | › | › |
-| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: |
+| P3-625 | Was sind Beispiele für | Missverständlich Dosierungsanweisungen sind bspw.: |
 | › | › | › |
 | › | › | › |
 | › | › | › |
 | › |  | P3-625 |
-| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: |
+| P3-625 | Was sind Beispiele für | Missverständlich Dosierungsanweisungen sind bspw.: |
 | › | › | › |
 | › | › |  |
 | › | › | › |
 | › | › |  |
-| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: › |
+| P3-625 | Was sind Beispiele für | Missverständlich Dosierungsanweisungen sind bspw.: › |
 | › | › | › |
 | › | › | › |
-| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: |
+| P3-625 | Was sind Beispiele für | Missverständlich Dosierungsanweisungen sind bspw.: |
 | › | › | › |
 | › | › | › |
-| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: ›  ›  › |
-| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: ›  ›  › |
-| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: ›  ›  ›   ›  ›  ›  › |
-| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: ›  ›  ›  ›  ›  ›  ›  ›  ›  ›  ›  ›  ›  ›  ›  ›  ›  Aus möglichen Kürzeln, Tastenkombinationen u. ä. muss die Software beispielsweise die  P3-625  Gibt es eine  Es gibt |
-| P3-625 | Rezept verwendet werden? | Ja, die Software kann seinen Anwendern weiterhin die Möglichkeit von Kürzeln,  Aus möglichen Kürzeln, Tastenkombinationen u. ä. muss die Software beispielsweise die |
+| P3-625 | Was sind Beispiele für | Missverständlich Dosierungsanweisungen sind bspw.: ›  ›  › |
+| P3-625 | Was sind Beispiele für | Missverständlich Dosierungsanweisungen sind bspw.: ›  ›  › |
+| P3-625 | Was sind Beispiele für | Missverständlich Dosierungsanweisungen sind bspw.: ›  ›  ›   ›  ›  ›  › |
+| P3-625 | Was sind Beispiele für | Missverständlich Dosierungsanweisungen sind bspw.: ›  ›  ›  ›  ›  ›  ›  ›  ›  ›  ›  ›  ›  ›  ›  ›  ›  Aus möglichen Kürzeln, Tastenkombinationen u. ä. muss die Software beispielsweise die  P3-625  Gibt es eine  Es gibt |
+| P3-625 | Dürfen in der Software weiterhin | Ja, die Software kann seinen Anwendern weiterhin die Möglichkeit von Kürzeln,  Aus möglichen Kürzeln, Tastenkombinationen u. ä. muss die Software beispielsweise die |
 | P3-625 | Gibt es eine | Es gibt |
-| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: › |
+| P3-625 | Was sind Beispiele für | Missverständlich Dosierungsanweisungen sind bspw.: › |
 | › | › | › |
 | › | › | ›  › |
-| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-625 **missverständliche ** Missverständlich Dosierungsanweisungen sind bspw.: ›  › |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-625  Was sind Beispiele für  Missverständlich Dosierungsanweisungen sind bspw.: ›  › |
 |  |  | P3-625 |
-| **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: › |  |
-| P3-625 **missverständliche ** Missverständlich Dosierungsanweisungen sind bspw.: › | › | ›  ›  ›  ›  › |
-| ›  ›  › | P3-625  Rezept verwendet werden? Ja, die Software kann seinen Anwendern weiterhin die Möglichkeit von Kürzeln, | Aus möglichen Kürzeln, Tastenkombinationen u. ä. muss die Software beispielsweise die |
+| Was sind Beispiele für | Missverständlich Dosierungsanweisungen sind bspw.: › |  |
+| P3-625  Was sind Beispiele für  Missverständlich Dosierungsanweisungen sind bspw.: › | › | ›  ›  ›  ›  › |
+| ›  ›  › | P3-625  Dürfen in der Software weiterhin  Ja, die Software kann seinen Anwendern weiterhin die Möglichkeit von Kürzeln, | Aus möglichen Kürzeln, Tastenkombinationen u. ä. muss die Software beispielsweise die |
 | P3-625  Gibt es eine  Es gibt |  |  |
-| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: › |
+| P3-625 | Was sind Beispiele für | Missverständlich Dosierungsanweisungen sind bspw.: › |
 | › | › | ›  › |
-| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: |
+| P3-625 | Was sind Beispiele für | Missverständlich Dosierungsanweisungen sind bspw.: |
 | › | › | › |
-|  | P3-625 | Rezept verwendet werden? Ja, die Software kann seinen Anwendern weiterhin die Möglichkeit von Kürzeln,  Aus möglichen Kürzeln, Tastenkombinationen u. ä. muss die Software beispielsweise die |
-| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: › |
+|  | P3-625 | Dürfen in der Software weiterhin  Ja, die Software kann seinen Anwendern weiterhin die Möglichkeit von Kürzeln,  Aus möglichen Kürzeln, Tastenkombinationen u. ä. muss die Software beispielsweise die |
+| P3-625 | Was sind Beispiele für | Missverständlich Dosierungsanweisungen sind bspw.: › |
 | › | › | ›  › |
 | › | › |  |
-| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: › |
+| P3-625 | Was sind Beispiele für | Missverständlich Dosierungsanweisungen sind bspw.: › |
 | › | › | ›  › |
 | › | › | › |
 | › | › |  |
-| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: |
+| P3-625 | Was sind Beispiele für | Missverständlich Dosierungsanweisungen sind bspw.: |
 | › | › | ›  › |
 | › | ›  › | › |
-| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: ›  ›  › |
+| P3-625 | Was sind Beispiele für | Missverständlich Dosierungsanweisungen sind bspw.: ›  ›  › |
 | ›  › | › |  |
 | › | › | › |
-| › | P3-625  Rezept verwendet werden? | Ja, die Software kann seinen Anwendern weiterhin die Möglichkeit von Kürzeln, |
-| P3-625 | **missverständliche** | Missverständlich Dosierungsanweisungen sind bspw.: › |
+| › | P3-625  Dürfen in der Software weiterhin | Ja, die Software kann seinen Anwendern weiterhin die Möglichkeit von Kürzeln, |
+| P3-625 | Was sind Beispiele für | Missverständlich Dosierungsanweisungen sind bspw.: › |
 
-Was sind Beispiele für Ein ausschließlicher Verweis auf die Packungsbeilage („siehe Packungsbeilage „Einnahme gemäß Packungsbeilage“ o.ä.) ist keine hinreichende Dosierungsangabe  im Sinne der AMVV.  >>Dj ½<<  (Korrekt: >>Dj<<, eine sinnvolle Kombination einer Ziffer mit Dj nicht möglich) >>-1-0-1<<  (Unvollständiges Viererschema? korrekt: z.B. >>0-1-0-1<<; >>1-0-1<<) >>1 --1-1<< (2. Dosierangabe (Dosierangabe für mittags) fehlt; korrekt: z.B. >>1-0-1-1<<; >>1-1-1<<)) >>--1-0-1<< (1. Dosierangabe (Dosierangabe für morgens) fehlt) >>1-1-1 --<< (4. Dosierangabe (Dosierangabe zur Nacht) fehlt) 1-0-0 („>>“ und „<<“ fehlt) >>1-0-0 („<<“ fehlt) 1-0-1 nicht korrekt, „>>“ und „<<“ fehlt) >>0 ½-0-0<< (½ anstatt 0 ½ korrekt) Dürfen in der Software weiterhin  zur Übernahme der Dosierungsanweisungen auf dem Tastenkombinationen u. ä. zur Übernahme von bzw. Generierung der Dosierungsanweisungen auf ein Rezept ermöglichen. oben beschriebenen eindeutigen Dosierungsschemata erzeugen (z.B. aus 111 wird >>1 -1- 1<<).  Feldbegrenzung  für die Dosierungsangabe? Was geschieht, wenn zwei Zeilen für die Verordnung inklusive Dosierungsangabe nicht ausreichen? keine Feldbegrenzung  für die Dosierungsangabe. Wenn zwei Zeilen für ein verordnetes Produkt nicht ausreichen, müssen mehr Zeilen verwendet werden, auch wenn das bedeutet, dass u.U. weniger als drei Produkte auf dem Rezept Platz finden. ÄrztInnen müssen  von der Software darauf hingewiesen werden, dass ggf. der Platz auf dem Rezept nicht ausreicht und ein zweites Rezept für den Druck erforderlich wird.
+missverständliche  zur Übernahme der Dosierungsanweisungen auf dem Rezept verwendet werden? Feldbegrenzung die Dosierungsangabe? Was geschieht, wenn zwei Zeilen für die Verordnung inklusive Dosierungsangabe nicht ausreichen? Ein ausschließlicher Verweis auf die Packungsbeilage („siehe Packungsbeilage „Einnahme gemäß Packungsbeilage“ o.ä.) ist keine hinreichende Dosierungsangabe  im Sinne der AMVV.  >>Dj ½<<  (Korrekt: >>Dj<<, eine sinnvolle Kombination einer Ziffer mit Dj nicht möglich) >>-1-0-1<<  (Unvollständiges Viererschema? korrekt: z.B. >>0-1-0-1<<; >>1-0-1<<) >>1 --1-1<< (2. Dosierangabe (Dosierangabe für mittags) fehlt; korrekt: z.B. >>1-0-1-1<<; >>1-1-1<<)) >>--1-0-1<< (1. Dosierangabe (Dosierangabe für morgens) fehlt) >>1-1-1 --<< (4. Dosierangabe (Dosierangabe zur Nacht) fehlt) 1-0-0 („>>“ und „<<“ fehlt) >>1-0-0 („<<“ fehlt) 1-0-1 nicht korrekt, „>>“ und „<<“ fehlt) >>0 ½-0-0<< (½ anstatt 0 ½ korrekt) Tastenkombinationen u. ä. zur Übernahme von bzw. Generierung der Dosierungsanweisungen auf ein Rezept ermöglichen. oben beschriebenen eindeutigen Dosierungsschemata erzeugen (z.B. aus 111 wird >>1 -1- 1<<).  keine Feldbegrenzung  für die Dosierungsangabe. Wenn zwei Zeilen für ein verordnetes Produkt nicht ausreichen, müssen mehr Zeilen verwendet werden, auch wenn das bedeutet, dass u.U. weniger als drei Produkte auf dem Rezept Platz finden. ÄrztInnen müssen  von der Software darauf hingewiesen werden, dass ggf. der Platz auf dem Rezept nicht ausreicht und ein zweites Rezept für den Druck erforderlich wird.
 
 ---
 
@@ -2807,7 +2807,7 @@ K3-722 Aufdruck zur  vorzunehmen? zwingend ein PZN-Bezug Produkt vorliegen? Frei
 |  |  |  |
 | P3-710 | Muss die | Ja, die Verordnungssoftware muss eine vollständige Unterstützung der eRezept Grundlage hierfür ist der §73 Absatz 9 SGB V. Hieraus ergibt sich, dass Vertragsärzt |
 
-Übermittlung des eRezepts Funktionalitäten sicherstellen. Hierzu zählt insbesondere auch die Übermittlung der in die TI  ermöglichen?  elektronischen Verordnung an den eRezept-Fachdienst der gematik in der TI. und Vertragsärzte für die elektronische Verordnung von Arzneimitteln KBV Software einsetzen müssen. Die elektronische Verordnung muss dabei den vollständigen Verordnungsprozess umfassen. Bisher war der Abschluss des Verordnungsvorganges in der Regel der Ausdruck des Muster 16. Mit der Einführung des elektronischen Rezeptes ersetzt die Übermittlung des eRezepts an den Fachdienst der TI in der Regel den Ausdruck als Abschluss des Verordnungsvorganges. Umsetzung der Anbindung an die TI vornimmt, sodass den Herstellern der größtmögliche Freiraum gegeben wird, die Anbindung zu realisieren. apothekenpflichtigen Arzneimitteln  zu Lasten der gesetzlichen Verordnungssituationen  ist die Krankenversicherungen muss eine elektronische Verordnung nach den Vorgaben der Verwendung einer Anlage 23 BMV-Ä in der Kombination mit der Technischen Anlage zur elektronischen elektronischen Arzneimittelverordnung [KBV_ITA_VGEX_TECHNISCHE_ANLAGE_ERP] vorgenom dem 1. Januar 2021 verpflichtend werden.  oder zulässig? Versicherte als Selbstzahler (Privatrezept) oder die elektronische Empfehlung von apothekenpflichtigen Arzneimitteln („Grünes Rezept“) können optional nach diesen Vorgaben vom Hersteller umgesetzt und von dem/der Vertragsärzt/in genutzt werden. perspektivisch explizit eine Verordnung über den Fachdienst der gematik ermöglicht werden. Hierzu wird eine Aktualisierung der technischen Vorgaben Hinblick auf den Umfang der zu übermittelten Informationen  erfolgen. innen -zertifizierte men  insbesondere im
+Übermittlung des eRezepts in die TI  ermöglichen?  Funktionalitäten sicherstellen. Hierzu zählt insbesondere auch die Übermittlung der elektronischen Verordnung an den eRezept-Fachdienst der gematik in der TI. und Vertragsärzte für die elektronische Verordnung von Arzneimitteln KBV Software einsetzen müssen. Die elektronische Verordnung muss dabei den vollständigen Verordnungsprozess umfassen. Bisher war der Abschluss des Verordnungsvorganges in der Regel der Ausdruck des Muster 16. Mit der Einführung des elektronischen Rezeptes ersetzt die Übermittlung des eRezepts an den Fachdienst der TI in der Regel den Ausdruck als Abschluss des Verordnungsvorganges. innen -zertifizierte Umsetzung der Anbindung an die TI vornimmt, sodass den Herstellern der größtmögliche Freiraum gegeben wird, die Anbindung zu realisieren. Verordnungssituationen  ist die Verwendung einer elektronischen dem 1. Januar 2021 verpflichtend oder zulässig? apothekenpflichtigen Arzneimitteln  zu Lasten der gesetzlichen Krankenversicherungen muss eine elektronische Verordnung nach den Vorgaben der Anlage 23 BMV-Ä in der Kombination mit der Technischen Anlage zur elektronischen Arzneimittelverordnung [KBV_ITA_VGEX_TECHNISCHE_ANLAGE_ERP] vorgenom werden.  men Versicherte als Selbstzahler (Privatrezept) oder die elektronische Empfehlung von apothekenpflichtigen Arzneimitteln („Grünes Rezept“) können optional nach diesen Vorgaben vom Hersteller umgesetzt und von dem/der Vertragsärzt/in genutzt werden. perspektivisch explizit eine Verordnung über den Fachdienst der gematik ermöglicht werden. Hierzu wird eine Aktualisierung der technischen Vorgaben Hinblick auf den Umfang der zu übermittelten Informationen  erfolgen.  insbesondere im
 
 ---
 
@@ -2840,89 +2840,89 @@ K3-722 Aufdruck zur  vorzunehmen? zwingend ein PZN-Bezug Produkt vorliegen? Frei
 \| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 | **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
 |---|---|---|
-| P3-710 | **Verordnungssituationen** Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: | ›  › |
-| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: |
+| P3-710 | Für welche  Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: | ›  › |
+| P3-710 | Für welche | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: |
 | › | › | › |
 | › | › | › |
 | › | P3-710 |  |
-| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-710 **Verordnungssituationen** Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  ›  ›  › |
-| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
-| › | ›  ›  › | ›  ›  P3-710  Warum dürfen für  Eine Verordnung von nichtapothekenpflichten Produkten aus dem Preis P3-710 **Krankenkasse** Die Arzneimittelverordnung Die technische Spezifikation insbesondere die FHIR ›  ›    › Ob die elektronische Verordnung möglich ist, regelt der PKV |
-| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-710  Für welche  Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  ›  ›  › |
+| P3-710 | Für welche | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
+| › | ›  ›  › | ›  ›  P3-710  Warum dürfen für  Eine Verordnung von nichtapothekenpflichten Produkten aus dem Preis P3-710  Ist eine elektronische Verordnung  Die Arzneimittelverordnung Die technische Spezifikation insbesondere die FHIR ›  ›    › Ob die elektronische Verordnung möglich ist, regelt der PKV |
+| P3-710 | Für welche | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: |
 | › | › | › |
 | › | › |  |
 | › | › |  |
 | P3-710 | Warum dürfen für  Eine Verordnung von nichtapothekenpflichten Produkten aus dem Preis | P3-710 |
-| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
+| P3-710 | Für welche | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
 | › | › |  |
 | › | › | › |
-| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  › |
+| P3-710 | Für welche | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  › |
 | ›  › | › | › |
-| P3-710 **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  › | ›  › |
-| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
+| P3-710  Für welche | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  › | ›  › |
+| P3-710 | Für welche | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
 | › | › | › |
 | ›  › | › |  |
 | P3-710 | Warum dürfen für | Eine Verordnung von nichtapothekenpflichten Produkten aus dem Preis |
-| P3-710 | **Krankenkasse** Die Arzneimittelverordnung | Die technische Spezifikation insbesondere die FHIR |
+| P3-710 | Ist eine elektronische Verordnung  Die Arzneimittelverordnung | Die technische Spezifikation insbesondere die FHIR |
 | Ob die elektronische Verordnung möglich ist, regelt der PKV |  |  |
-| P3-710 **Verordnungssituationen** Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › | › |  |
+| P3-710  Für welche  Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › | › |  |
 | ›  › | › | › |
 | › |  | P3-710 |
-| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
+| P3-710 | Für welche | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
 | › | › | › |
-| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: |
+| P3-710 | Für welche | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: |
 | › | › | › |
 | › | › | › |
 | › | P3-710 |  |
 | Warum dürfen für  Eine Verordnung von nichtapothekenpflichten Produkten aus dem Preis | P3-710 |  |
-| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: |
+| P3-710 | Für welche | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: |
 | › | › | › |
 | › | › |  |
 | › | › |  |
 | P3-710 | Warum dürfen für  Eine Verordnung von nichtapothekenpflichten Produkten aus dem Preis |  |
-| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
+| P3-710 | Für welche | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
 | › | › | › |
 | › | › | › |
-| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: |
+| P3-710 | Für welche | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: |
 | › | › | › |
 | › | › | › |
-| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  ›  › |
-| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  ›  › |
-| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  ›  ›   ›  P3-710  Warum dürfen für  Eine Verordnung von nichtapothekenpflichten Produkten aus dem Preis |
-| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  ›  ›  ›  ›  ›  ›  P3-710  Warum dürfen für  Eine Verordnung von nichtapothekenpflichten Produkten aus dem Preis ›  ›  ›  ›  ›  ›  ›  Ob die elektronische Verordnung möglich ist, regelt der PKV |
-| P3-710 | **Krankenkasse** Die Arzneimittelverordnung | Die technische Spezifikation insbesondere die FHIR Ob die elektronische Verordnung möglich ist, regelt der PKV |
+| P3-710 | Für welche | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  ›  › |
+| P3-710 | Für welche | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  ›  › |
+| P3-710 | Für welche | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  ›  ›   ›  P3-710  Warum dürfen für  Eine Verordnung von nichtapothekenpflichten Produkten aus dem Preis |
+| P3-710 | Für welche | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  ›  ›  ›  ›  ›  ›  P3-710  Warum dürfen für  Eine Verordnung von nichtapothekenpflichten Produkten aus dem Preis ›  ›  ›  ›  ›  ›  ›  Ob die elektronische Verordnung möglich ist, regelt der PKV |
+| P3-710 | Ist eine elektronische Verordnung  Die Arzneimittelverordnung | Die technische Spezifikation insbesondere die FHIR Ob die elektronische Verordnung möglich ist, regelt der PKV |
 |  |  |  |
-| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
+| P3-710 | Für welche | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
 | › | › | › |
 | › | › | › |
-| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-710 **Verordnungssituationen** Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  › |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P3-710  Für welche  Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  › |
 |  |  | P3-710 |
-| **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |  |
-| P3-710 **Verordnungssituationen** Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › | › | ›  ›  ›  ›  › |
-| P3-710  Warum dürfen für  Eine Verordnung von nichtapothekenpflichten Produkten aus dem Preis P3-710 | **Krankenkasse** Die Arzneimittelverordnung Die technische Spezifikation insbesondere die FHIR | Ob die elektronische Verordnung möglich ist, regelt der PKV |
+| Für welche | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |  |
+| P3-710  Für welche  Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › | › | ›  ›  ›  ›  › |
+| P3-710  Warum dürfen für  Eine Verordnung von nichtapothekenpflichten Produkten aus dem Preis P3-710 | Ist eine elektronische Verordnung  Die Arzneimittelverordnung Die technische Spezifikation insbesondere die FHIR | Ob die elektronische Verordnung möglich ist, regelt der PKV |
 |  |  |  |
-| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
+| P3-710 | Für welche | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
 | › | › | ›  › |
-| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: |
+| P3-710 | Für welche | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: |
 | P3-710 | Warum dürfen für | Eine Verordnung von nichtapothekenpflichten Produkten aus dem Preis |
-| P3-710 | **Krankenkasse** | Die Arzneimittelverordnung Die technische Spezifikation insbesondere die FHIR Ob die elektronische Verordnung möglich ist, regelt der PKV |
-| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
+| P3-710 | Ist eine elektronische Verordnung | Die Arzneimittelverordnung Die technische Spezifikation insbesondere die FHIR Ob die elektronische Verordnung möglich ist, regelt der PKV |
+| P3-710 | Für welche | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
 | › | › | ›  › |
 | › | › |  |
-| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
+| P3-710 | Für welche | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
 | › | › | ›  › |
 | › | › |  |
 | P3-710 | Warum dürfen für  Eine Verordnung von nichtapothekenpflichten Produkten aus dem Preis |  |
-| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: |
+| P3-710 | Für welche | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: |
 | › | › | ›  › |
 | › | ›  › | P3-710 |
-| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  ›  › |
+| P3-710 | Für welche | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: ›  ›  › |
 | ›  › | › |  |
 | › | P3-710 | Warum dürfen für |
-| Eine Verordnung von nichtapothekenpflichten Produkten aus dem Preis | P3-710 **Krankenkasse** Die Arzneimittelverordnung | Die technische Spezifikation insbesondere die FHIR |
-| P3-710 | **Verordnungssituationen** | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
+| Eine Verordnung von nichtapothekenpflichten Produkten aus dem Preis | P3-710  Ist eine elektronische Verordnung  Die Arzneimittelverordnung | Die technische Spezifikation insbesondere die FHIR |
+| P3-710 | Für welche | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: › |
 
-BTM-Rezepte T-Rezepte Verordnung von sonstigen nach § 31 SGB V einbezogene Produkte (bspw. Verbandmittel und Teststreifen) Verordnung von Hilfsmitteln Verordnung von Sprechstundenbedarf Verordnungen zu Lasten von Sonstige Kostenträger Verordnungen für GKV-Versicherte ohne Vorhandensein einer Versichertennummer (bei Erfassung der VSD im Ersatzverfahren)  ist die Für welche Verwendung einer dem 1. Januar 2021 ausgeschlossen? Medizinprodukte wie Teststreifen und Verbandmittel zunächst keine elektronischen Verordnungen verwendet werden?  - und Produktverzeichnis, wie bspw. Teststreifen und Verbandstoffen ist durch die Software zu unterbinden. Da diese nichtapothekenpflichten Produkte auch über andere Vertriebswege erhältlich sind wie bspw. Sanitätshäuser, die noch nicht an die TI angeschlossen sind, müssen Patientinnen und Patienten weiterhin die freie Wahl haben, woher sie diese Produkte beziehen möchten. Ist eine elektronische Verordnung zu Lasten einer privaten  möglich?  zu Lasten der privaten Krankenversicherer fällt nicht in die Regelungshoheit der Anlage 23 BMV -Ä. -Profile gemäß [KBV_ITA_VGEX_TECHNISCHE_ANLAGE_ERP] ermöglichen grundsätzlich die Abbildung einer solchen elektronischen Verordnung. -Verband.
+BTM-Rezepte T-Rezepte Verordnung von sonstigen nach § 31 SGB V einbezogene Produkte (bspw. Verbandmittel und Teststreifen) Verordnung von Hilfsmitteln Verordnung von Sprechstundenbedarf Verordnungen zu Lasten von Sonstige Kostenträger Verordnungen für GKV-Versicherte ohne Vorhandensein einer Versichertennummer (bei Erfassung der VSD im Ersatzverfahren) Verordnungssituationen  ist die Verwendung einer dem 1. Januar 2021 ausgeschlossen? Medizinprodukte wie Teststreifen und Verbandmittel zunächst keine elektronischen Verordnungen verwendet werden?  - und Produktverzeichnis, wie bspw. Teststreifen und Verbandstoffen ist durch die Software zu unterbinden. Da diese nichtapothekenpflichten Produkte auch über andere Vertriebswege erhältlich sind wie bspw. Sanitätshäuser, die noch nicht an die TI angeschlossen sind, müssen Patientinnen und Patienten weiterhin die freie Wahl haben, woher sie diese Produkte beziehen möchten. zu Lasten einer privaten Krankenkasse  möglich?  zu Lasten der privaten Krankenversicherer fällt nicht in die Regelungshoheit der Anlage 23 BMV -Ä. -Profile gemäß [KBV_ITA_VGEX_TECHNISCHE_ANLAGE_ERP] ermöglichen grundsätzlich die Abbildung einer solchen elektronischen Verordnung. -Verband.
 
 ---
 

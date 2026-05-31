@@ -56,6 +56,7 @@ Die Änderungen vom 22.08.2024 treten zum 01.10.2024 in Kraft
 
 aktualisierten G-BA Richtlinie
 
+
 ---
 
 # 1 EINLEITUNG
@@ -243,7 +244,7 @@ Es müssen drei oder vier der folgenden 4 Kriterien zutreffen: - **bis < 18 6 Ja
 |  |  |
 |---|---|
 | **Referenz** | **Dokument** |
-| [DMP-A-RL] | Richtlinie    zur Zusammenführung der Anforderungen an strukturierte Behandlungsprogramme nach § 137f Absatz 2 SGB V  DMP-Anforderungen-Richtlinie |
+| [DMP-A-RL] | Richtlinie  des Gemeinsamen Bundesausschusses zur Zusammenführung der Anforderungen an strukturierte Behandlungsprogramme nach § 137f Absatz 2 SGB V  DMP-Anforderungen-Richtlinie |
 
 **Ansprechpartner:**
 
@@ -253,4 +254,4 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
 Kassenärztliche Bundesvereinigung
 
-des Gemeinsamen BundesausschussesHerbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
+Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de

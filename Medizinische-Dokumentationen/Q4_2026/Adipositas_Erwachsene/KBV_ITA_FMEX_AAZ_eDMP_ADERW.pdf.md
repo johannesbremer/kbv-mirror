@@ -43,7 +43,6 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 | **Telefonnummer** |  | | |
 | **E-Mail-Adresse** |  | | |
 
-[ ] [ ] [ ]
 
 ---
 
@@ -76,28 +75,19 @@ Bitte geben Sie im Folgenden an, welche Client
 | ☐ | Windows | ☐ | Mac OS | ☐ | Linux |
 | ☐ | iOS/Android | ☐ | Sonstige | | |
 
-[ ]
-
-[ ]
-
 -Betriebssysteme unterstützt werden.
 
-[ ] [ ] [ ]
 
 ---
 
-2
+2 REALISIERUNG VON ANFORDERUNGEN
 
 |  |  |
 |---|---|
 | ☐ | Der Antragsteller versichert, dass die aktuelle Version der verbindlichen Kostenträger |
 | ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden |
 
-[ ]
-
-[ ]
-
-## 2.1
+## 2.1 REALISIERTE OPTIONALE FUNKTIONEN EDMP ADIPOSITAS
 
 Folgende optionale eDMP Adipositas-Erwachsene Funktionen sind gem. Anforderungskatalog eDMP  realisiert.
 
@@ -114,13 +104,9 @@ Folgende optionale eDMP Adipositas-Erwachsene Funktionen sind gem. Anforderungsk
 |  |  |
 |  |  |
 
-# REALISIERUNG VON ANFORDERUNGEN
-
-## REALISIERTE OPTIONALE FUNKTIONEN EDMP ADIPOSITAS
-
 ## -ERWACHSENE
 
-der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind. -Stammdatei [ ] [ ] [ ] EDMP ADIPOSITAS-ERWACHSENE
+der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind. -Stammdatei EDMP ADIPOSITAS-ERWACHSENE
 
 ---
 

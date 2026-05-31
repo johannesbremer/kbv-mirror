@@ -200,13 +200,13 @@
 | **Lösung:** | Angenommen |  |  |
 | **Organisation:** | Gematik GmbH | | |
 | **Veroeffentlichung:** | zugestimmt | | |
-| **Kommentierungsergebnis:** | Ja das ist korrekt und kann integriert werden. | | |
+| **Kommentierungsergebnis:** | a das ist korrekt und kann integriert werden. | | |
 
 |  |  |
 |---|---|
 | Patient.generalPractitioner.identifier könnte/sollte das DE_Basisprofil Keine Inkompatibilität, nur ein Modellierungshinweis... |  |
 
-Schnittstelle gemäß §291d Absatz 1 verwenden Beschreibung  für LANR
+§291d Absatz 1 J Schnittstelle gemäß verwenden Beschreibung  für LANR
 
 
 ---

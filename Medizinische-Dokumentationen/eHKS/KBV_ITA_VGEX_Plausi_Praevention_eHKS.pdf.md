@@ -4,10 +4,10 @@
 |  | ** |
 |  | 10623 Berlin, Herbert |
 |  | Kassenärztliche Bundesvereinigung |
-|  | 1.04 |
+|  | Version |
 |  |  |
 
-i- on (eHKS) -Lewin-Platz 2 Version  Datum: 129 .08.201 Kennzeichnung: Öffentlich Status: In Kraft
+i- on (eHKS) -Lewin-Platz 2 1.04 Datum: 129 .08.201 Kennzeichnung: Öffentlich Status: In Kraft
 
 
 ---

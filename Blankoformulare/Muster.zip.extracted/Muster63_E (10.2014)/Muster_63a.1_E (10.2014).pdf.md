@@ -8,17 +8,23 @@
 
 **Folge-**
 
-**Erst-** **verordnung** **verordnung**
+**Erst-** **verordnung**
 
 **Unfall**
 
-**Kostenträgerkennung** **Versicherten-Nr.** **Status**
+**Kostenträgerkennung** **Versicherten-Nr.**
+
+**Status**
 
 **Unfallfolgen**
 
-**Betriebsstätten-Nr.** **Arzt-Nr.** **Datum**
+**Betriebsstätten-Nr.** **Arzt-Nr.**
 
-**vom** **bis**
+**Datum**
+
+**vom**
+
+**bis**
 
 **Verordnungsrelevante Diagnose(n) (ICD-10; ggf. Organmanifestationen)**
 
@@ -34,9 +40,13 @@
 
 **Symptomatik**
 
+**Symptomatik**
+
 **ausgeprägte ulzerierende /**
 
 **ausgeprägte neurologische /** **psychiatrische / psychische Symptomatik**
+
+**Symptomgeschehen**
 
 **exulzerierende Wunden oder Tumore**
 
@@ -50,8 +60,6 @@
 
 **Beratung**
 
-**Koordination der Palliativversorgung**
-
 **a. des behandelnden Arztes**
 
 **b. der behandelnden Pflegefachkraft**
@@ -62,22 +70,28 @@
 
 **Vollständige**
 
-**Additiv unterstützende** **Teilversorgung** **Versorgung**
+**Additiv unterstützende** **Teilversorgung**
+
+**Versorgung**
 
 **Nähere Angaben zu den notwendigen Maßnahmen der SAPV**
 
 **Für die Erstverordnung ist die Kostenpauschale 01425, für die** **Folgeverordnung die Kostenpauschale 01426 berechnungsfähig.**
 
+**PRF.NR.** **Muster 63a.1/E (10.2014)**
+
 **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
 
 **63**
 
-**ausgeprägte gastrointestinale** **Symptomatik**
+**verordnung**
 
-**sonstiges komplexes** **Symptomgeschehen**
+**ausgeprägte gastrointestinale**
+
+**sonstiges komplexes**
+
+**Koordination der Palliativversorgung**
 
 **Vertragsarztstempel / Unterschrift des Arztes**
 
 **Ausfertigung für die Krankenkasse**
-
-**PRF.NR.** **Muster 63a.1/E (10.2014)**

@@ -148,17 +148,17 @@ DOKUMENTENHISTORIE
 
 **22 SPRECHSTUNDE 23. JULI 2024**
 
+**29**
+
 **23 SPRECHSTUNDE 3. SEPTEMBER 2024**
+
+**30**
 
 **24 SPRECHSTUNDE 1. OKTOBER 2024**
 
+**30**
+
 **25 SPRECHSTUNDE 25. FEBRUAR 2025**
-
-**29**
-
-**30**
-
-**30**
 
 **31**
 
@@ -291,7 +291,9 @@ einigen Fällen auch die enthaltene dreistellige Nummer.
 
 ### Antwort der KBV:
 
-Nein, wir werden die Kürzungsregeln des Namens der DiGA abstimmen.
+Nein, wir werden die Kürzungsregeln des Namens der DiGA-Verordnungseinheit mit dem GKV-SV
+
+abstimmen.
 
 # 3 SPRECHSTUNDE 5. SEPTEMBER 2023
 
@@ -299,15 +301,17 @@ Nein, wir werden die Kürzungsregeln des Namens der DiGA abstimmen.
 
 **Unter [https://update.kbv.de/ita-update/Verordnungen/VDGA/](https://update.kbv.de/ita-update/Verordnungen/VDGA/) stehen die Dokumente**
 
-**KBV_ITA_VGEX_Anforderungskatalog_VDGA.pdf**
+**KBV_ITA_VGEX_Anforderungskatalog_VDGA.pdf und**
 
 **KBV_ITA_VGEX_Anforderungskatalog_VDGA_Ãnderungen.pdf**
 
-**Beide verfügen über dasselbe Erstelldatum 2023**
+**Beide verfügen über dasselbe Erstelldatum 2023-08-29 16:04. Welches soll verwendet werden?**
 
 ### Antwort der KBV:
 
-Beide Dokumente sind inhaltlich identisch. Das zweite Dokument  KBV_ITA_VGEX_Anforderungskatalog_VDGA_ zur Version 0.12 des Dokuments vor der Kommentierung
+Beide Dokumente sind inhaltlich identisch. Das zweite Dokument  KBV_ITA_VGEX_Anforderungskatalog_VDGA_Änderungen zeigt zusätzlich die Änderungen im Vergleich
+
+zur Version 0.12 des Dokuments vor der Kommentierung an.
 
 ## Frage:
 
@@ -329,31 +333,21 @@ Voraussichtlich wird es analog zu AMV ein Rückfallverfahren auf Muster 16 geben
 
 ### Vermerk:
 
-Es wurde von mehreren Teilnehmern übereinstimmend der Wunsch geäußert, dass das Rückfallverfahren  nicht auf Muster 16 erfolgt, sondern stattdessen ein  mit möglichst einheitlichem Papierformat (nur A5 und A4, kein A6) und Layout für alle Verordnungen  benutzt wird, welches möglichst keine schwarzen Flächen enthält.
+Es wurde von mehreren Teilnehmern übereinstimmend der Wunsch geäußert, dass das Rückfallverfahren  nicht auf Muster 16 erfolgt, sondern stattdessen ein computergenerierter Ausdruck wie bspw. bei der eAU
+
+mit möglichst einheitlichem Papierformat (nur A5 und A4, kein A6) und Layout für alle Verordnungen  benutzt wird, welches möglichst keine schwarzen Flächen enthält.
 
 ## Frage:
 
-**Wird es zum Thema Datenhaltung einheitliche zentrale Vorgaben,**  **Hausnummer in der Adresse geben?**
+**Wird es zum Thema Datenhaltung einheitliche zentrale Vorgaben, wie z.B. Trennung von Straße und**
+
+**Hausnummer in der Adresse geben?**
 
 ### Antwort der KBV:
 
 Einheitliche zentrale Vorgaben für die Datenhaltung existieren nicht, da es keine übergreifenden
 
 Anforderungen zu den in einem PVS, KIS oder LIS verwendeten Datenmodellen gibt. Die notwendige  Granularität der Datenmodelle muss aus der Summe aller zu unterstützenden Datenschnittstellen  abgeleitet werden. Daran wird sich absehbar nichts ändern, da diese Schnittstellen von unterschiedlichen  Institutionen verantwortet werden, die unabhängig voneinander Festlegungen spezifizieren können.
-
--Verordnungseinheit mit dem GKV-SV
-
-**und**
-
-**-08-29 16:04. Welches soll verwendet werden?**
-
-Änderungen zeigt zusätzlich die Änderungen  an.
-
-im Vergleich
-
-computergenerierter Ausdruck wie bspw. bei der eAU
-
-**wie z.B. Trennung von Straße und**
 
 
 ---
@@ -793,9 +787,7 @@ Das grundlegende Prinzip mit Dokumenten-
 
 ## Frage:
 
-**Ist mit "Daten des Personalienfeldes gemäß Technischer Anlage zur Anlage 4a (BMV-Ä) tatsächlich der**
-
-**gesamte Inhalt des Personalienfeldes gemeint?**
+**Ist mit "Daten des Personalienfeldes gemäß Technischer Anlage zur Anlage 4a (BMV** **gesamte Inhalt des Personalienfeldes gemeint?**
 
 ### Antwort der KBV:
 
@@ -805,35 +797,27 @@ dokumentieren.
 
 ## Frage:
 
-**Sollen bei der Dokumentation der Verordnung nur die Daten zur DiGA und nicht die Informationen der**
-
-**DiGA selbst wie die Plattformverfügbarkeit zum Verordnungszeitpunkt gespeichert werden?**
+**Sollen bei der Dokumentation der Verordnung nur die Daten zur DiGA und nich** **DiGA selbst wie die Plattformverfügbarkeit zum Verordnungszeitpunkt gespeichert werden?**
 
 ### Antwort der KBV:
 
-Die Informationen der DiGA zum Verordnungszeitpunkt sollen wiederauffindbar dokumentiert werden. Ob  dazu alle Daten explizit gespeichert werden oder auch Referenzen auf historische Einträge des DiGA Verzeichnisses benutzt werden, bleibt der konkreten Implementierung überlassen.
+Die Informationen der DiGA zum Verordnungszeitpunkt sollen wiederauffindbar dokumentiert werden. Ob  dazu alle Daten explizit gespeichert werden oder auch Referenzen auf historische Einträge des DiGA Verzeichnisses benutzt werden, bleibt der konkreten Implement
 
 Die Plattformverfügbarkeit soll ausdrücklich nicht dokumentiert werden.
 
 Nachtrag vom 1. März 2024:
 
-Die historisierten Einträge des DiGA-Verzeichnisses können generell nicht zur Dokumentation der
-
-Verordnung benutzt werden. Das BfArM hat darüber informiert, dass die Daten im Verzeichnis sich  rückwirkend ändern können.
+Die historisierten Einträge des DiGA-Verzeichnisses können generell nicht zur  Verordnung benutzt werden. Das BfArM hat darüber informiert, dass die Daten im Verzeichnis sich  rückwirkend ändern können.
 
 ## Frage:
 
-**Soll der Medikamentendialog in Zukunft auch online abfragbar sein? (Die Separierung der Produktdaten**
-
-**für Arzneimittel und DiGA ist unglücklich.)**
+**Soll der Medikamentendialog in Zukunft auch online abfragbar sein** **für Arzneimittel und DiGA ist unglücklich.)**
 
 ### Antwort der KBV:
 
 Die Bereitstellung des DiGA-Verzeichnisses erfolgt auf gesetzlicher Grundlage online. Eine gesetzliche
 
-Pflicht zur Online-Bereitstellung für die Hersteller von Arzneimitteldatenbanken ist derzeit nicht absehbar.  Es steht dem bvitg e.V. frei, bei ausreichend vorhandenem Interesse seiner Mitgliedsunternehmen
-
-entsprechende Initiativen zu ergreifen.
+Pflicht zur Online-Bereitstellung für die Hersteller von Arzneimitteldatenbanken ist derzeit nicht absehbar.  Es steht dem bvitg e.V. frei, bei ausreichend vorhandenem Interesse seiner  entsprechende Initiativen zu ergreifen.
 
 ## Frage:
 
@@ -851,18 +835,28 @@ Die Online-Bereitstellung von Arzneimitteldatenbanken liegt außerhalb des Veran
 
 **Wettbewerbers unterscheiden lassen.)**
 
+**-Ä) tatsächlich der**
+
+**t die Informationen der**
+
+ierung überlassen.
+
+Dokumentation der
+
+**? (Die Separierung der Produktdaten**
+
+Mitgliedsunternehmen
+
 
 ---
 
 ### Antwort der KBV:
 
-Allen nutzenden Ärzten und Psychotherapeuten soll die Möglichkeit gegeben werden, eine Übersicht der  von ihnen veranlassten Verordnungen von digitalen
+Allen nutzenden Ärzten und Psychotherapeuten soll die Möglichkeit gegeben werden, eine Übersicht der  von ihnen veranlassten Verordnungen von digitalen Gesundheitsanwendungen zur orientierenden
 
 Information zu erhalten.
 
 # 11 SPRECHSTUNDE 23. JANUAR 2024
-
-Gesundheitsanwendungen zur orientierenden
 
 ## Frage:
 
@@ -971,9 +965,11 @@ Ja, diese sind bereits als verbindlich zu betrachten, da keine  werden.
 
 **Übersicht der vertragsärztlichen Leistungen für jede**  **-Schnittstelle auch die textliche Beschreibung für die**
 
+-SV das
+
 -Ziffern aus dem DiGA-Verzeichnis zu entfernen
 
-Gegenstimmen von den Vorständen erwartet -SV das
+Gegenstimmen von den Vorständen erwartet
 
 
 ---
@@ -1069,11 +1065,13 @@ einzureichen, sofern sie eine Umsetzung der Vorgaben planen.
 
 ## Frage:
 
-**KP4-312, reicht für "Informationen zu Datenschutz" und "Informationen zum positiven**  **Versorgungseffekt" ein Direktsprung auf die BfArM** **schon in Ebene 2 angezeigt?**
+**KP4-312, reicht für "Informationen zu Datenschutz" und "Informationen zum positiven**  **Versorgungseffekt" ein Direktsprung auf die BfArM-Seite? Alle anderen Informationen werden bei uns**
+
+**schon in Ebene 2 angezeigt?**
 
 ### Antwort der KBV:
 
-Diese Frage wird intern und ggf. mit Unterstützung des B
+Diese Frage wird intern und ggf. mit Unterstützung des BfArM geprüft.
 
 Nachtrag vom 12. März 2024:
 
@@ -1085,7 +1083,7 @@ Informationen auf der Webseite zusammen auf eine Ebene dargestellt werden Daten 
 
 ## Frage:
 
-**Muss ein PVS separat zertifiziert werden, wenn ein extern**
+**Muss ein PVS separat zertifiziert werden, wenn ein externes Verordnungsmodul benutzt wird**
 
 ### Antwort der KBV:
 
@@ -1095,23 +1093,15 @@ Falls das eingesetzte Verordnungsmodul alle Anforderungen ohne Mithilfe des PVS 
 
 **Muss ein System mit AVM-Zertifizierug die VDGA umsetzen?**
 
+der
+
 **01.04.2024 eingereicht werden und wo**
 
 -Abrechnung oder die
 
-**-Seite? Alle anderen Informationen werden bei uns**
-
-fArM geprüft.
-
-Informationen zu Datenschutz
-
-**es Verordnungsmodul benutzt wird**
-
-der
-
 zum 1. April 2024
 
-gemäß Anforderung . Differenzen zwischen den
+Informationen zu Datenschutz  gemäß Anforderung . Differenzen zwischen den
 
 
 ---
@@ -1374,9 +1364,7 @@ Die Daten der ersten Ebene sind zwingend anzuzeigen, sofern es sich nicht um ein
 
 ### Antwort der KBV:
 
-Eine gemeinsamen Verordnungshistorie für DiGA und Medikamente ist nicht verboten. Es wird jedoch nicht  empfohlen, da DiGA und Medikamente i.d.R. keinen Bezug zueinander haben. Es muss an dieser Stelle
-
-allerdings sichergestellt sein, dass der Anwender Zugriff auf die Funktionen gemäß
+Eine gemeinsamen Verordnungshistorie für DiGA und Medikamente ist nicht verboten. Es wird jedoch nicht  empfohlen, da DiGA und Medikamente i.d.R. keine allerdings sichergestellt sein, dass der Anwender Zugriff auf die Funktionen gemäß
 
 ## Frage:
 
@@ -1416,7 +1404,7 @@ Falls die angefragte Möglichkeit momentan nicht angeboten wird oder keine Infor
 
 **Die Antwort auf die Frage zur Preissortierung bzgl. dem Sachverhalt, dass nur ein Suchfeld zur Verfügung**  **steht, steht noch aus.**
 
-P5-010 und P4-130 hat.
+n Bezug zueinander haben. Es muss an dieser Stelle  P5-010 und P4-130 hat.
 
 -320 Akzeptanzkriterium 3
 
@@ -1439,7 +1427,9 @@ Da aktuell eine Anpassung der betroffenen Anforderungen, um eine einfache/einhei
 
 ### Antwort der KBV:
 
-Laut dem FAQ-Dokument müssen die Daten zu Plattformverfügbarkeit und Versionen nicht aus den  Fragen/Antworten-Katalogen entnommen werden, sonder entnommen werden. Die Informationselemente, aus denen die Antworten zu entnehmen sind, sind  ebenfalls im FAQ-Dokument gelistet.
+Laut dem FAQ-Dokument müssen die Daten zu Plattformverfügbarkeit und Versionen nicht aus den  Fragen/Antworten-Katalogen entnommen werden, sondern können den Informationen zum Modul
+
+entnommen werden. Die Informationselemente, aus denen die Antworten zu entnehmen sind, sind  ebenfalls im FAQ-Dokument gelistet.
 
 # 17 SPRECHSTUNDE 30. APRIL 2024
 
@@ -1472,8 +1462,6 @@ Im Rahmen der Zertifizierung sind die Prüfstammdateien gemäß Kapitel 1.6.1 zu
 ## Frage:
 
 **Werden zertifizierte Hersteller über Anpassungen der Anforderungen oder des FAQ** **per Mail informiert? Oder ist ein aktives Verfolgen des Newsletters oder FAQ** **Dokuments notwendig?**
-
-n können den Informationen zum Modul
 
 **ngen der FHIR-Schnittstelle des BfArMs ?**
 
@@ -1577,7 +1565,9 @@ Dies ist noch nicht entschieden, aber wahrscheinlich ja, da ein anderer Fokus vo
 
 **Im Anforderungskatalog steht immer mal wieder etwas von einer Live** **Datenbank.**
 
-**Ist eine solche Anbindung sinnvoll oder ist absehbar, dass das im Produktiv** **wird (Auslastung)?**
+**Ist eine solche Anbindung sinnvoll oder ist absehbar, dass das im Produktiv-Betrieb nicht funktionieren**
+
+**wird (Auslastung)?**
 
 ### Antwort der KBV:
 
@@ -1597,17 +1587,15 @@ Dies ergibt
 
 erfasst, da dies nicht Bestandteil der
 
+same
+
 war.
 
 **-Anbindung an die BfARM-**
 
-**-Betrieb nicht funktionieren**
-
 -Verzeichnisses
 
 **bzw. gibt es eine zentrale statische**
-
-same
 
 
 ---
@@ -1744,9 +1732,13 @@ für die
 
 ### Antwort der KBV:
 
-Es existiert noch kein verbindlicher Termin für die verpflichtende Nutzung der e von DiGA. Dieser wird in den anstehenden Verhandlungen zwischen der KBV und dem GKV der Anpassung des Bundesmantelvertrags (Ärzte) festgelegt werden. Auf Basis der aktuellen Planung der  gematik für die Termine „RU Dev Ready“ und „PU GoLive“ kann sicher davon ausgegangen werden, dass
+Es existiert noch kein verbindlicher Termin für die verpflichtende Nutzung der elektronischen Verordnung
 
-eine verpflichtende elektronische Verordnung nicht vor dem 1. Juli 2025 terminiert wi
+von DiGA. Dieser wird in den anstehenden Verhandlungen zwischen der KBV und dem GKV-SV im Rahmen
+
+der Anpassung des Bundesmantelvertrags (Ärzte) festgelegt werden. Auf Basis der aktuellen Planung der  gematik für die Termine „RU Dev Ready“ und „PU GoLive“ kann sicher davon ausgegangen werden, dass
+
+eine verpflichtende elektronische Verordnung nicht vor dem 1. Juli 2025 terminiert wird.
 
 # 25 SPRECHSTUNDE 25. FEBRUAR 2025
 
@@ -1788,13 +1780,9 @@ Die gematik wird speziell für die Verordnung von DiGA ein Bestätigungsverfahre
 
 ## Frage:
 
-**Wie erfolgt in Zukunft die Identifikation eines Versicherten eines Sonstigen**  **elektronische Verordnung ausgestellt werden kann**
+**Wie erfolgt in Zukunft die Identifikation eines Versicherten eines Sonstigen Kostenträgers, für den eine**
 
-lektronischen Verordnung  -SV im Rahmen
-
-rd.
-
-**Kostenträgers, für den eine**
+**elektronische Verordnung ausgestellt werden kann**
 
 
 ---

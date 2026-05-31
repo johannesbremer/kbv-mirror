@@ -9,9 +9,9 @@
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
-|  | 13.10.2014 |
+|  | Version |
 
-Zervix-Zytologie QS_Zervix- Zytologie] -Lewin-Platz 2 Version  2 .00 Datum: Kennzeichnung: Öffentlich  In Kraft Status:
+Zervix-Zytologie QS_Zervix- Zytologie] -Lewin-Platz 2 2.00 Datum: 13.10.2014 Kennzeichnung: Öffentlich  In Kraft Status:
 
 
 ---
@@ -27,7 +27,7 @@ Zervix-Zytologie QS_Zervix- Zytologie] -Lewin-Platz 2 Version  2 .00 Datum: Kenn
 
 -Zytologie
 
-header hinsichtlich der Elemente person_name und addr, welche bereits in der Schnittstelle um- gesetzt waren, wurden der Dokumentation noch angepasst. Schnittstelle klatur III und Überarbeitung der GBA-Richtlinie Krebsfrüherkennung n-
+header hinsichtlich der Elemente person_name und addr, welche bereits in der Schnittstelle um- gesetzt waren, wurden der Dokumentation noch angepasst. n- klatur III und Überarbeitung der Schnittstelle GBA-Richtlinie Krebsfrüherkennung
 
 ---
 
@@ -112,41 +112,23 @@ header hinsichtlich der Elemente person_name und addr, welche bereits in der Sch
 
 #### ABBILDUNGSVERZEICHNIS
 
-Abbildung 1 Grundstruktur ehd ..............................................................................................
+Abbildung 1 Grundstruktur ehd .............................................................................................. 10
 
-Abbildung 2 Element document_type_cd ..............................................................................
+Abbildung 2 Element document_type_cd .............................................................................. 10
 
-Abbildung 3 Element interface ...............................................................................................
+Abbildung 3 Element interface ............................................................................................... 11
 
-Abbildung 4 Element provider ...............................................................................................
+Abbildung 4 Element provider ............................................................................................... 11
 
-Abbildung 5 Grundstruktur sciphox:Software .........................................................................
+Abbildung 5 Grundstruktur sciphox:Software ......................................................................... 13
 
-Abbildung 6 Grundstruktur Kontakt ........................................................................................
+Abbildung 6 Grundstruktur Kontakt ........................................................................................ 15
 
-Abbildung 7 Grundstruktur person_name (Arzt) ....................................................................
+Abbildung 7 Grundstruktur person_name (Arzt) .................................................................... 16
 
-Abbildung 8 Grundstruktur addr (Arzt) ...................................................................................
+Abbildung 8 Grundstruktur addr (Arzt) ................................................................................... 17
 
-Abbildung 9 Element body .....................................................................................................
-
-10
-
-10
-
-11
-
-11
-
-13
-
-15
-
-16
-
-17
-
-20
+Abbildung 9 Element body ..................................................................................................... 20
 
 
 ---
@@ -297,7 +279,7 @@ Beispiel:
 
 ---
 
-# 3 Semantik der verwendeten Diagramm- Symbole
+# 3 Semantik der verwendeten Diagramm-Symbole
 
 Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, deren  Symbole in den folgenden Kapiteln kurz erläutert werden.
 
@@ -337,7 +319,7 @@ Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinand
 
 -Zytologie
 
-gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss aber auch beliebig oft auftreten kann. und Sequence. delementen genau eins ausgewählt werden kann. in festgelegter Reihenfolge aufgeführt werden müssen. Es werden außerdem folgende Diagramm-Symbole verwendet: Pluszeichen am Rechteckrand symbolisiert. an, dass das Element an anderer Stelle im Schema defi- niert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein. links symbolisiert einen Datentyp.  stellt ein Gruppenelement dar, welches verschiedene Elemente zusammenfasst.
+gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1.. aus, dass das Element mindestens einmal vorkommen muss aber auch beliebig oft auftreten kann.  drückt z.B. und Sequence. delementen genau eins ausgewählt werden kann. in festgelegter Reihenfolge aufgeführt werden müssen. Es werden außerdem folgende Diagramm-Symbole verwendet: Pluszeichen am Rechteckrand symbolisiert. an, dass das Element an anderer Stelle im Schema defi- niert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein. links symbolisiert einen Datentyp.  stellt ein Gruppenelement dar, welches verschiedene Elemente zusammenfasst.
 
 ---
 
@@ -440,7 +422,7 @@ Die Information über die Software und deren Verantwortliche wird mittels der Sc
 
 -Zytologie
 
-<header> <id RT="123456789" EX="10"/> <document_type_cd V="QSZERVIXZYTO"/> <service_tmr V="1967-01-01"/> <origination_dttm V="1967-08-13"/> <provider> <person> <id EX="278012389" RT="BSNR"/> <person_name> <nm> <GIV V="Anette"/> <FAM V="Müller"/> <PFX V="Dr. med." QUAL="AC"/> </nm> </person_name> <addr> <STR V="Ottostr."/> <HNR V="1"/> <ZIP V="50859"/> <CTY V="Köln"/> </addr> <telecom V="tel:(0221)4449 -0"/> </person> </provider> <interface> <id EX="QSZERVIXZYTO" RT="1.2.276.0.76.5.109"/> <interface.nm V="QSZervixZyto Bericht an KV"/> <version V="1.00"/> </interface> <sciphox:sciphox-ssu type="software" country="de" version="v1"> <sciphox:Software> <sciphox:id  EX="..." RT="KBV-Prüfnummer"/> <sciphox:SoftwareName V="..."/> <sciphox:SoftwareVersion V="..."/> sciphox:SoftwareTyp V="..."/> <sciphox:Kontakt> ... </sciphox:Kontakt > </sciphox:Software> </sciphox:sciphox-ssu> </local_heaer> </header>
+<header> <id RT="123456789" EX="10"/> <document_type_cd V="QSZERVIXZYTO"/> <service_tmr V="1967-01-01"/> <origination_dttm V="1967-08-13"/> <provider> <person> <id EX="278012389" RT="BSNR"/> <person_name> <nm> <GIV V="Anette"/> <FAM V="Müller"/> <PFX V="Dr. med." QUAL="AC"/> </nm> </person_name> <addr> <STR V="Ottostr."/> <HNR V="1"/> <ZIP V="50859"/> <CTY V="Köln"/> </addr> <telecom V="tel:(0221)4449 -0"/> </person> </provider> <interface> <id EX="QSZERVIXZYTO" RT="1.2.276.0.76.5.109"/> <interface.nm V="QSZervixZyto Bericht an KV"/> <version V="1.00"/> </interface> <sciphox:sciphox-ssu type="software" country="de" version="v1"> <sciphox:Software> <sciphox:id  EX="..." RT="KBV-Prüfnummer"/> <sciphox:SoftwareName V="..."/> <sciphox:SoftwareVersion V="..."/> <sciphox:SoftwareTyp V="..."/> <sciphox:Kontakt> ... </sciphox:Kontakt > </sciphox:Software> </sciphox:sciphox-ssu> </local_heaer> </header>
 
 ---
 
@@ -462,7 +444,7 @@ Der Coderahmen für diese Sciphox-SSU sieht dann wie folgt aus:
 
 <sciphox:SoftwareVersion V="..."/>
 
-sciphox:SoftwareTyp V="..."/>
+<sciphox:SoftwareTyp V="..."/>
 
 <sciphox:Kontakt>
 
@@ -480,7 +462,9 @@ sciphox:SoftwareTyp V="..."/>
 
 Das Element *sciphox:id* besteht aus den beiden Attributen
 
-als Wert die konkrete KBV-Prüfnummer für das Modul mit dem dieser Datensatz erzeugt wur- de. Ab 01.01.2008 gelten neue Prüfnummern im Format: „a/n[n][n]/JJMM/nn/ccc“. Wobei  a=Softwareklasse, n=Nummer, J=Jahr, M=Monat, c=alphanummerische Zeichen. Das  Attribut erhält als Wert den festen Wert „KBV-Prüfnummer“.
+als Wert die konkrete KBV-Prüfnummer für das Modul mit dem dieser Datensatz erzeugt wur- de. Ab 01.01.2008 gelten neue Prüfnummern im Format: „a/n[n][n]/JJMM/nn/ccc“. Wobei  a=Softwareklasse, n=Nummer, J=Jahr, M=Monat, c=alphanummerische Zeichen. Das *RT*
+
+Attribut erhält als Wert den festen Wert „KBV-Prüfnummer“.
 
 Als Beispiel sei hier der folgende Code mit fiktiver KBV-Prüfnummer angegeben:
 
@@ -488,7 +472,7 @@ Als Beispiel sei hier der folgende Code mit fiktiver KBV-Prüfnummer angegeben:
 
 **XML-Code 3 – local_header (Software)**
 
-*EX* und *RT*. Das
+*EX* und *RT*. Das *EX*-Attribut erhält
 
 **XML-Code 4 – id (Software)**
 
@@ -497,10 +481,6 @@ Als Beispiel sei hier der folgende Code mit fiktiver KBV-Prüfnummer angegeben:
 Das Element *sciphox:SoftwareName* erhält als Wert den konkreten Namen der Software. Es
 
 handelt sich dabei um einen String, der auf 60 Zeichen begrenzt wird.
-
-*EX*-Attribut erhält
-
-*RT*
 
 
 ---
@@ -561,7 +541,7 @@ XML-Daten wurden gemäß dieser XML Schnittstelle erzeugt.
 
 Die Coderahmen für dieses Element sieht wie folgt aus:
 
-\| <sciphox:Kontakt>         <sciphox:Kontakttyp V="SOFTV" S="1.2.276.0.76.3.1.1.5.2.3" DN="Softwareverantwortlicher "/>          <cda:person_name>           . . .        <cda:person_name>                      </sciphox:Kontakt> |
+\| <sciphox:Kontakt>         <sciphox:Kontakttyp V="SOFTV" S="1.2.276.0.76.3.1.1.5.2.3" DN="Softwareverantwortlicher "/>          <cda:person_name>           . . .        <cda:person_name>                  </sciphox:Kontakt> |
 \|---|
 
 **XML-Code 8 – Kontakt**
@@ -746,9 +726,9 @@ Als Beispiel für eine Anschrift sei hier folgender Code angegeben:
 
 <addr USE=“PHYS“>
 
-ADL V="Elisabeth Krankenhaus"/>
+<ADL V="Elisabeth Krankenhaus"/>
 
-ADL V="Endoskopie"/>
+<ADL V="Endoskopie"/>
 
 <STR V="Ottostr."/>
 
@@ -780,7 +760,7 @@ Die Erläuterung für die verschiedenen Werte sind in der Tabelle 10 aufgeführt
 
 | **Code** | **Definition** | **Beispiel** |
 |---|---|---|
-| tel | Telefon/Mobiltelefon |  |
+| tel | Telefon/Mobiltelefon | <telecom V="tel:(0221)4449-0" USE="WP"/> |
 | fax | Faxnummer | <telecom V="fax:(0221)4449-400" USE="WP"/> |
 | mailto | Emailadresse | <telecom V="mailto:info@kbv.de" USE="WP"/> |
 | http | Homepage | <telecom V="http://www.kbv.de |
@@ -792,7 +772,6 @@ Das *USE*-Attribut darf hier nur den Wert „WP“ für working place aufweisen.
 
 **Tabelle 10 Erläuterungen telecom**
 
-<telecom V="tel:(0221)4449-0" USE="WP"/>
 
 ---
 
@@ -891,11 +870,11 @@ Das Element anzahl_frauen enthält die Gesamtanzahl der zytologisch untersuchten
 \|  |
 \|---|
 
--Zytologie
-
 **XML-Code 15 – Befunde der Gruppe I**
 
 Alle Elemente vom Typ gruppe_typ haben den gleichen Aufbau und die gleichen Kindeleme te wie die Gruppe I. Aufgrund der Redundanz wird auf die Beschreibung der einzelnen Ele- mente verzichtet.
+
+n-
 
 | Gruppenbezeichnung nach Münchner Bezeichnung des Elementes |  |
 |---|---|
@@ -923,8 +902,9 @@ Alle Elemente vom Typ gruppe_typ haben den gleichen Aufbau und die gleichen Kind
 
 Das Element anzahl_frauen enthält die Anzahl der untersuchten Frauen mit dem Ausgangs- befund in dieser Befundgruppe für den Zeitraum vom 01.01-31.12 des Berichtsjahres.
 
-<zz:gr1> <zz:anzahl_frauen V="16"/> <zz:anzahl_khca V="2"/> <zz:anzahl_cin1 V="2"/> <zz:anzahl_cin2 V="2"/> <zz:anzahl_cin3ca V="2"/> <zz:anzahl_adenocais V="2"/> <zz:anzahl_plattenepithelca V="2"/> <zz:anzahl_adenocaceut V="2"/> <zz:anzahl_endometriumca V="2"/> </zz:gr1> Nomenklatur III n-
+-Zytologie
 
+<zz:gr1> <zz:anzahl_frauen V="16"/> <zz:anzahl_khca V="2"/> <zz:anzahl_cin1 V="2"/> <zz:anzahl_cin2 V="2"/> <zz:anzahl_cin3ca V="2"/> <zz:anzahl_adenocais V="2"/> <zz:anzahl_plattenepithelca V="2"/> <zz:anzahl_adenocaceut V="2"/> <zz:anzahl_endometriumca V="2"/> </zz:gr1> Nomenklatur III
 
 ---
 
@@ -942,6 +922,12 @@ Das Element anzahl_frauen enthält die Anzahl der untersuchten Frauen mit dem Au
 | namespace urn:ehd/qszervixzyto/001 |  |
 | attributes | Name    Type    Use    Default    Fixed    V   **xs:integer ** required |
 
+-Zytologie
+
+**Tabelle 16 Element anzahl_frauen**
+
+**Tabelle 17 Element anzahl_khca**
+
 #### 4.3.4.3 Element anzahl_cin1
 
 Das Element anzahl_cin1 enthält die Anzahl der untersuchten Frauen mit histologischen Ab- klärungsuntersuchungen mit CIN I.
@@ -950,12 +936,6 @@ Das Element anzahl_cin1 enthält die Anzahl der untersuchten Frauen mit histolog
 |---|---|
 | namespace urn:ehd/qszervixzyto/001 |  |
 | attributes | Name    Type    Use    Default    Fixed    V   **xs:integer ** required |
-
--Zytologie
-
-**Tabelle 16 Element anzahl_frauen**
-
-**Tabelle 17 Element anzahl_khca**
 
 **Tabelle 18 Element anzahl_cin1**
 
@@ -999,7 +979,9 @@ Abklärungsuntersuchungen mit CIN III inkl. plattenepithales Ca in situ.
 
 #### adenocais
 
-**Tabelle 21 Element anzahl_adenocais**
+**Tabelle 21 Element anzahl_**
+
+**adenocais**
 
 
 ---
@@ -1054,7 +1036,7 @@ Das Element anzahl_ccamal enthält die Anzahl der untersuchten Frauen mit histol
 
 ### Wenn Praxisbesonderheiten vorliegen, welche die Befundgruppenverteilung beeinflussen
 
-können, sind diese im Element praxisbesonderheit anzugeben. Die Angabe der Praxisbeso
+können, sind diese im Element praxisbesonderheit anzugeben. Die Angabe der Praxisbeson-
 
 derheiten ist optional.
 
@@ -1064,8 +1046,6 @@ derheiten ist optional.
 | attributes | Name    Type    Use    Default    Fixed    V   **xs:string ** required |
 
 **Tabelle 25 Element praxisbesonderheit**
-
-n-
 
 
 ---

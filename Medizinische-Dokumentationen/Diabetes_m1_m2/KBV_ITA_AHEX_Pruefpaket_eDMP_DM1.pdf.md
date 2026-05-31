@@ -159,21 +159,15 @@ DOKUMENTENHISTORIE
 |  |  | 30.06.2023 | KBV  Anpassung der Prüffälle an | Überarbeitung des Testfalls | Schnittstellenversion 5.0 Prüffallszenarien für die  11ff |
 | 28 |  |  | 1.20 | 22.11.2022 | KBV |
 
-1.19
+der Erstellung der
 
-1.18
+,27
 
-1.17
+Dokumentationen im Prüffall  5514 und 5515.
 
-08.11.2022
+1.19 08.11.2022 KBV Datumsanpassungen der Datumsanpassungen
 
-12.08.2021
-
-15.03.2021
-
-der Erstellung der  Dokumentationen im Prüffall  5514 und 5515.
-
-KBV Datumsanpassungen der Datumsanpassungen
+Alle
 
 Prüffälle.
 
@@ -191,7 +185,7 @@ Anpassung an
 
 Neuer Prüffall 5540 zur
 
-Änderungen im
+Änderungen im 31
 
 Umsetzung der
 
@@ -199,21 +193,19 @@ Anforderungskatalog.
 
 übergreifenden  Teilnahmeerklärung
 
-KBV Überarbeitung des Layouts Überführung ins neue  Corporate Design
-
-KBV Anpassung der Prüffälle an Schnittstellenversion 5.05
-
-Schnittstellenversionen 5.05 ist ab 01.07.2021 zu  verwenden
-
-,27
-
-Alle 31
+1.18 12.08.2021 KBV Überarbeitung des Layouts Überführung ins neue
 
 Alle
 
-Alle
+Corporate Design
 
-1.21 5530 übergreifenden Prüffälle an 4.06 COPD-Schnittstellenversion ist ab 01.04.2023 zu 4.06 verwenden 5530 7 Schnittstellenversionen 5.0 7 ist ab 01.10.2023 zu verwenden neuen Anforderungen 5530 KP1-210 und KP2-220 Korrektur des Datums 22 25
+1.17 15.03.2021 KBV Anpassung der Prüffälle an Schnittstellenversion 5.05 Alle
+
+Schnittstellenversionen 5.05 ist ab 01.07.2021 zu
+
+verwenden
+
+5530 übergreifenden Prüffälle an 4.06 COPD-Schnittstellenversion ist ab 01.04.2023 zu 4.06 verwenden 5530 1.21 7 Schnittstellenversionen 5.0 7 ist ab 01.10.2023 zu verwenden neuen Anforderungen 5530 KP1-210 und KP2-220 Korrektur des Datums 22 25
 
 ---
 
@@ -229,7 +221,7 @@ Alle
 | 1.12 | 15.02.2018 | KBV | Anpassung der Prüffälle an  Aufnahme eines Testfalls für | Schnittstellenversion 5.01 | Alle          Testfallv |
 | 1.11 | 23.05.2017 | KBV | Komplettüberarbeitung des | Aktualisierung der  Neue | Alle |
 
-Schnittstellenversionen 5.04 ist ab 01.04.2021 zu verwenden Schnittstellenversionen 5.03 ist ab 01.04.2019 zu Schnittstellenversionen 5.01 und 5.02 Zertifizierung Schnittstellenversionen 5.00 und 5.01 die Testdatenvalidierung zur verwenden ist ab 01.07.2018 zu verwenden Zertifizierungsportales  ist ab 01.04.2018 zu verwenden ist ab 01.07.2018 zu Prüfpaketes verwenden Zertifizierungsrichtlinie Schnittstellenversion ab 01.07.2017 alidierun
+Schnittstellenversionen 5.04 ist ab 01.04.2021 zu verwenden Schnittstellenversionen 5.03 ist ab 01.04.2019 zu verwenden Schnittstellenversionen 5.01 ist ab 01.07.2018 zu und 5.02 verwenden Zertifizierung Zertifizierungsportales  Schnittstellenversionen 5.00 ist ab 01.04.2018 zu und 5.01 verwenden die Testdatenvalidierung zur ist ab 01.07.2018 zu alidierun Prüfpaketes verwenden Zertifizierungsrichtlinie Schnittstellenversion ab 01.07.2017
 
 ---
 
@@ -329,7 +321,7 @@ Die geforderten Videomitschnitte, Screenshots sowie die Teilnahmeerklärung (Pr�
 
 einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.
 
-- [PrüffallNr.] _[lfdNr.] .*  1 - 2 3
+- [PrüffallNr.]1_[lfdNr.]2 3
 
 - Teilnahmeerklärung (Prüffall 5540): TE_EWE_DM1.pdf
 
@@ -351,9 +343,9 @@ Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung
 
 391234511_20231230101010_1_DM1_507.zip.XKM XKM-Datei
 
-Diabetes_Mellitus_Typ_1      Dateiordner
+Diabetes_Mellitus_Typ_1       Dateiordner
 
-Dokumentation        Dateiordner
+Dokumentation         Dateiordner
 
 cc
 
@@ -921,12 +913,12 @@ Netzhautuntersuchung seit der letzten Dokumentation das Diabetische Fußsyndrom 
 |  |  |
 |---|---|
 | **Prüffall-ID** | 5514 |
-| **Testziel** | manche Fehleingaben nicht möglich sind. |
+| **Testziel** | Kontrolle der softwareseitigen Erkennung von Fehleingaben |
 | **Voraussetzung** | Patient oder Patientin ist mindestens 18 Jahre alt |
 | **Prüfunterlagen** | Dokumentieren Sie durch Video(s) die Eingaben nach einer möglichen    Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
-| **Hinweis** | sind. |
+| **Hinweis** | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben |
 
-Kontrolle der softwareseitigen Erkennung von Fehleingaben Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert.  Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben  bzw. Prüfung, dass Prüffall 5514 Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten: Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation  DATEN Informationsangebote der Krankenkasse
+manche Fehleingaben nicht möglich sind. Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert.  Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. sind.  bzw. Prüfung, dass Prüffall 5514 Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten: Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation  DATEN Informationsangebote der Krankenkasse
 
 ---
 
@@ -950,7 +942,7 @@ Kontrolle der softwareseitigen Erkennung von Fehleingaben Hinweissteuerung und w
 | Dokumentationsintervall | Quartalsweise |  |
 | Datum der Erstellung | 06.04.2024 |  |
 
-INDIKATIONS PEZIFISCHE DATEN HbA1c-Wert Pathologische Albumin-Kreatinin-Ratio eGFR Pulsstatus Sensibilitätsprüfung Weiteres Risiko für Ulcus Ulkus (Wund)Infektion Injektionsstellen (bei Insulintherapie) Intervall für künftige Fußinspektionen (bei Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr) Spätfolgen Schwere Hypoglykämien seit der letzten Dokumentation Stationäre notfallmäßige Behandlung wegen Diabetes mellitus seit der letzten Dokumentation Medikamente Thrombozytenaggregationshemmer ACE-Hemmer Schulung Schulung empfohlen (bei aktueller Dokumentation) Schulung schon vor Einschreibung ins DMP bereits wahrgenommen Empfohlene Diabetes-Schulung wahrgenommen Empfohlene Hypertonie-Schulung wahrgenommen Erstdokumentation 215 mmol/mol Nein 210 ml/min/1,73m²KOF Auffällig Nicht untersucht Z. n. Ulcus oberflächlich ja Nicht untersucht alle 6 Monate Diabetische Nephropathie Nr. 3 Nr. 4 Nr. 5 Hypertonie-Schulung Nr. 6 Nr. 7
+INDIKATIONS PEZIFISCHE DATEN HbA1c-Wert Pathologische Albumin-Kreatinin-Ratio eGFR Pulsstatus Sensibilitätsprüfung Weiteres Risiko für Ulcus Ulkus (Wund)Infektion Injektionsstellen (bei Insulintherapie) Intervall für künftige Fußinspektionen (bei Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr) Spätfolgen Schwere Hypoglykämien seit der letzten Dokumentation Stationäre notfallmäßige Behandlung wegen Diabetes mellitus seit der letzten Dokumentation Medikamente Thrombozytenaggregationshemmer ACE-Hemmer Schulung Schulung empfohlen (bei aktueller Dokumentation) Schulung schon vor Einschreibung ins DMP bereits wahrgenommen Empfohlene Diabetes-Schulung wahrgenommen Empfohlene Hypertonie-Schulung wahrgenommen Erstdokumentation 215 mmol/mol Nr. 3 Nein 210 ml/min/1,73m²KOF Nr. 4 Auffällig Nicht untersucht Z. n. Ulcus oberflächlich ja Nicht untersucht alle 6 Monate Diabetische Nephropathie Nr. 5 Hypertonie-Schulung Nr. 6 Nr. 7
 
 | **INDIKATIONS** | | |
 |---|---|---|
@@ -1174,9 +1166,9 @@ Dokumentationsintervall“        = „Quartalsweise“ Bitte legen Sie für ein
 |  | |
 |---|---|
 | **Prüffall-ID** | 5540 |
-| **Testziel** | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
+| **Testziel** | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP  ) |
 | **Voraussetzung** |  |
-| **Prüfunterlagen** | Einwilligungserklärung |
+| **Prüfunterlagen** | PDF-Datei „TE_EWE_DM1.pdf“ |
 | **Hinweis** | Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
@@ -1196,7 +1188,7 @@ Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 | DMP-Fallnummer | 1010 |
 | Datum | 05.04.2023 |
 
-Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP PDF-Datei „TE_EWE_DM1.pdf“  der indikationsübergreifenden Teilnahme- und indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
+(KBV_ITA_VGEX_Anforderungskatalog_eDMP  der indikationsübergreifenden Teilnahme- und Einwilligungserklärung  indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
 
 ---
 

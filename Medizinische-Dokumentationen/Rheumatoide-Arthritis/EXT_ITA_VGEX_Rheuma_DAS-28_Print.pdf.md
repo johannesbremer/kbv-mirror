@@ -1,12 +1,12 @@
-Zur Ermittlung des **DAS-28-Wertes**
+Zur Ermittlung des **DAS-28-Wertes** müssen folgende vier Parameter erfasst werden:
 
 (1) **Anzahl der druckschmerzhaften Gelenke**
 
-Die 14 definierten Gelenke werden  beurteilt, sodass eine Anzahl von 28 zu beurteilenden Gelenken resultiert. Beurteilen Sie bitte für jedes
+Die 14 definierten Gelenke werden **sowohl auf der rechten als auch auf der linken Körperseite**
 
-der folgenden 14 Gelenke
+beurteilt, sodass eine Anzahl von 28 zu beurteilenden Gelenken resultiert. Beurteilen Sie bitte für jedes  der folgenden 14 Gelenke **jeweils rechts- und linksseitig**
 
-**Gelenk (druckschmerzhaft) R**
+**Gelenk (druckschmerzhaft)**
 
 1. Schultergelenk
 
@@ -38,9 +38,11 @@ der folgenden 14 Gelenke
 
 (2) **Anzahl der geschwollenen Gelenke**
 
-Die 14 definierten Gelenke werden  beurteilt, sodass eine Anzahl von 28 zu beurteilenden Gelenken resultiert. Beurteilen Sie bitte für jedes  der folgenden 14 Gelenke
+Die 14 definierten Gelenke werden **sowohl auf der rechten als auch auf der linken Körperseite**
 
-**Gelenk (geschwollen) R**
+beurteilt, sodass eine Anzahl von 28 zu beurteilenden Gelenken resultiert. Beurteilen Sie bitte für jedes  der folgenden 14 Gelenke **jeweils rechts- und linksseitig**
+
+**Gelenk (geschwollen)**
 
 1. Schultergelenk
 
@@ -54,33 +56,17 @@ Die 14 definierten Gelenke werden  beurteilt, sodass eine Anzahl von 28 zu beurt
 
 6. Fingergrundgelenk MCP 3
 
-7. Fingergrundgelenk MCP 4
+7.
 
-8. Fingergrundgelenk MCP 5
+8.
 
-9. Fingermittelgelenk PIP 1
+9.
 
-10. Fingermittelgelenk PIP 2
+10.
 
-müssen folgende vier Parameter erfasst werden:
+11.
 
-**sowohl auf der rechten als auch auf der linken Körperseite**
-
-**jeweils rechts- und linksseitig**
-
-**L**
-
-**sowohl auf der rechten als auch auf der linken Körperseite**
-
-**jeweils rechts- und linksseitig**
-
-**L**
-
-, ob es **druckschmerzhaft** ist oder nicht:
-
-, ob es **geschwollen** ist oder nicht: 11. Fingermittelgelenk PIP 3
-
-12. Fingermittelgelenk PIP 4
+12.
 
 | 13. | Fingermittelgelenk PIP 5 |  |  |
 |---|---|---|---|
@@ -88,9 +74,27 @@ müssen folgende vier Parameter erfasst werden:
 
 Ein von der RA betroffenes Gelenk kann entweder geschwollen und gleichzeitig nicht druckschmerzhaft,  druckschmerzhaft und gleichzeitig nicht geschwollen  sein. ***Daher sind die Gelenke separat hinsichtlich der Schwellung und der Schmerzen zu beurteilen.***
 
-oder gleichzeitig geschwollen und druckschmerzhaft
+Fingergrundgelenk MCP 4
 
-13. Fingermittelgelenk PIP 5 14. Kniegelenk  1
+Fingergrundgelenk MCP 5
+
+Fingermittelgelenk PIP 1
+
+Fingermittelgelenk PIP 2
+
+Fingermittelgelenk PIP 3
+
+Fingermittelgelenk PIP 4
+
+, ob es **druckschmerzhaft** ist oder nicht:
+
+**R L**
+
+, ob es **geschwollen** ist oder nicht:
+
+**R L**
+
+14. Kniegelenk oder gleichzeitig geschwollen und druckschmerzhaft
 
 
 ---
@@ -142,4 +146,4 @@ ________
 
 ________
 
-________ mm/h 2
+________ mm/h

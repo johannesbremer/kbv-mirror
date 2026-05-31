@@ -20,47 +20,73 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **1** **ALLGEMEINES**
 
+**5**
+
 1.1 Rechtsgrundlage
+
+5
 
 1.2 Zertifizierungsablauf
 
+5
+
 1.3 Zertifizierungsportal
+
+6
 
 1.4 Zertifizierungsdokumente
 
+6
+
 1.5 Prüfunterlagen
 
-1.6 Prüfvorgaben  1.6.1 Prüfstammdaten 1.6.2 Versichertendaten
+6
 
-1.6.3 Auflistung der Prüffälle 1.6.4 Praxisdaten/ Arztstempel
+1.6 Prüfvorgaben
+
+8
+
+1.6.1 Prüfstammdaten
+
+8
+
+1.6.2 Versichertendaten
+
+8
+
+1.6.3 Auflistung der Prüffälle 8
+
+1.6.4 Praxisdaten/ Arztstempel
+
+8
 
 **2** **PRÜFFÄLLE**
 
+**10**
+
 2.1 Voraussetzungen
+
+10
 
 2.2 Erstellung einer eAU
 
+10
+
 2.3 Verwendung von KIM
 
-2.4 Darstellung in der Software
+16
 
-2.5 Verhalten beim Empfang von fehlerhaften Daten
+2.4 Darstellung in der Software 16
 
-2.6 Fallback Szenario bei Störung des Versandes
+2.5 Verhalten beim Empfang von fehlerhaften Daten 16
+
+2.6 Fallback Szenario bei Störung des Versandes 17
 
 **3** **TESTDATENVALIDIERUNG**
 
-**4** **REFERENZIERTE DOKUMENTE**
-
-**5**
-
-5  5  6  6  6  8  8  8  8  8
-
-**10**
-
-10  10  16  16  16  17
-
 **18**
+
+**4** **REFERENZIERTE DOKUMENTE**
 
 **20**
 
@@ -80,7 +106,7 @@ DOKUMENTENHISTORIE
 | 1.20 | 24.02.2021 | KBV | Änderung der    Angabe „AU | Anpassung der | 6      10, |
 | 1.10 | 02.02.2021 | KBV | Überarbeitung des Prüfpaketes |  | Alle |
 
-Ernesto Müller Prüffall 08 eAU-FHIR-Version 1.2.0  Praxisstammdaten des Testziels, der Aktion sowie einzureichenden Unterlagen im PF12  Testdatenvalidierung bzgl. der Prüfung von Barcodes Voraussetzung in PF08 Testziels in PF10 den einzureichenden Screenshot in Prüffall PF01 Prüfunterlage „Screenshot der Betreffzeile“ in Prüffall PF05 Komponentennummer seit“ in Prüffällen mit Folgebescheinigungen gestrichen Kleinschreibung des Header-Elements „Reply To“ der KIM Nachricht wurde korrigiert. eAU-Nachricht wird bereits in Prüffall PF01 geprüft. Mit der Streichung wird das Zertifizierungsverfahren vereinfacht.   technischen Anlage eAU 11,
+Ernesto Müller Prüffall 08 eAU-FHIR-Version 1.2.0  Praxisstammdaten des Testziels, der Aktion sowie einzureichenden Unterlagen im PF12  Testdatenvalidierung bzgl. der Prüfung von Barcodes Voraussetzung in PF08 Testziels in PF10 den einzureichenden Screenshot in Prüffall PF01 Prüfunterlage „Screenshot der Betreffzeile“ in Prüffall PF05 Kleinschreibung des Header-Elements „Reply To“ der KIM Nachricht wurde korrigiert. eAU-Nachricht wird bereits in Prüffall PF01 geprüft. Mit der Streichung wird das Komponentennummer seit“ in Prüffällen mit Folgebescheinigungen gestrichen Zertifizierungsverfahren vereinfacht.   technischen Anlage eAU 11,
 
 ---
 
@@ -190,15 +216,17 @@ eine XML-Datei sowie bei ausgewählten Prüffällen eine signierte Datei eingere
 
 ---
 
-- <PrüffallNr.> .xml  1
+- <PrüffallNr.>1
 
 - 1 Nr. des Prüffalls
 
-- <PrüffallNr.> _[lfdNr.] .pdf  2 - 2 Laufende Nr.
+- <PrüffallNr.> _[lfdNr.]2
 
-- z.B. PF01_01.pdf
+- 2 Laufende Nr.
 
-- z.B. **PF01.xml**
+- .pdf  z.B. PF01_01.pdf
+
+- .xml  z.B. **PF01.xml**
 
 - <PrüffallNr.> .p7s  z.B. **PF01.p7s**
 
@@ -327,15 +355,13 @@ Federmannssohn
 
 # 2 PRÜFFÄLLE
 
-Zur Überprüfung von Softwarefunktionalitäten oder dem softwareseitigen Erkennen von Fehleingaben  können mit einzelnen Prüffällen besondere Anforderungen verknüpft sein. Diese werden dem jeweiligen  Prüffall vorangestellt bzw. der Prüffall selbst besteht nur aus diesen. Wie diese Prüffälle zu bearbeiten und
-
-welche Prüfunterlagen einzureichen sind, kann den einzelnen Prüffällen entnommen werden.
+Zur Überprüfung von Softwarefunktionalitäten oder dem softwareseitigen Erkennen von Fehleingaben  können mit einzelnen Prüffällen besondere Anforderungen verknüpft sein. Diese werden dem jeweiligen  Prüffall vorangestellt bzw. der Prüffall selbst besteht nur welche Prüfunterlagen einzureichen sind, kann den einzelnen Prüffällen entnommen werden. aus diesen. Wie diese Prüffälle zu bearbeiten und
 
 ## 2.1 VORAUSSETZUNGEN
 
-Folgende Voraussetzungen müssen im System geschaffen werden, um die in den Prüffällen gewünschten
+Folgende Voraussetzungen müssen im System geschaffen werden, um die in den Prüffällen gewünsc Szenarien prüfen zu können:
 
-Szenarien prüfen zu können:
+hten
 
 Es muss die Möglichkeit bestehen, von den Ein- und Ausgabemasken des zu prüfenden Systems  Screenshots zu erstellen.
 

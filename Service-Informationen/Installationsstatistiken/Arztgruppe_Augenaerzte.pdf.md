@@ -34,197 +34,145 @@
 
 **Anbieter**
 
-CompuGroup Medical Deutschland AG
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-FIDUS Software Entwicklungs-GmbH
-
-ifa systems AG
-
-Duria eG
-
-CompuGroup Medical Deutschland AG
-
-Zollsoft GmbH
-
-medatixx GmbH & Co. KG
-
-INDAMED EDV-Entwicklung und Vertrieb GmbH
-
-MediSoftware Computersysteme für Ärzte
-
-Dedalus HealthCare GmbH
-
-SAP SE
-
-medatixx GmbH & Co. KG
-
-CompuGroup Medical Deutschland AG 1
-
-**Installationen 2.Q.2025**
-
-525
-
-521
-
-398
-
-320
-
-246
-
-163
-
-99
-
-85
-
-68
-
-52
-
-45
-
-30
-
-26
-
-**Installationen 1.Q.2025**
+CompuGroup Medical Deutschland AG 525
 
 531
 
-512
-
-395
-
-321
-
-249
-
-156
-
-100
-
-84
-
-70
-
-53
-
-44
-
-27
-
-26
-
-**Differenz**
-
 -6
+
+FIDUS Software Entwicklungs-GmbH 521
+
+512
 
 9
 
+ifa systems AG 398
+
+395
+
 3
 
+Duria eG 320
+
+321
+
 -1
+
+CompuGroup Medical Deutschland AG 246
+
+249
 
 -3
 
+Zollsoft GmbH 163
+
+156
+
 7
+
+medatixx GmbH & Co. KG 99
+
+100
 
 -1
 
+INDAMED EDV-Entwicklung und Vertrieb GmbH 85 84
+
 1
+
+MediSoftware Computersysteme für Ärzte 68
+
+70
 
 -2
 
+Dedalus HealthCare GmbH 52
+
+53
+
 -1
+
+SAP SE 45
+
+44
 
 1
 
+medatixx GmbH & Co. KG 30
+
+27
+
 3
 
+CompuGroup Medical Deutschland AG 26
+
+26
+
 0
+
+1
 
 
 ---
 
 **Id Praxissoftware**
 
-226 **CGM MEDICO**
-
-314 **IMedOne**
-
-252 **CGM M1 PRO**
-
-451 **ifa|NX-NEXT Generation AI**
-
-015 **MEDYS**
-
-261 **S 3-Win**
-
-266 **x.comfort**
-
 **Anbieter**
 
-CGM Clinical Europe GmbH
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-Deutsche Telekom Clinical Solutions GmbH
+226 **CGM MEDICO**
 
-CompuGroup Medical Deutschland AG
-
-**S**
-
-ifa systems AG
-
-MEDYS GmbH
-
-S 3 Praxiscomputer GmbH / Maximilian Flender
-
-medatixx GmbH & Co. KG 2
-
-**Installationen 2.Q.2025**
-
-25
-
-23
-
-22
-
-16
-
-14
-
-13
-
-12
-
-**Installationen 1.Q.2025**
+CGM Clinical Europe GmbH 25
 
 26
 
-22
-
-25
-
-12
-
-14
-
-14
-
-12
-
-**Differenz**
-
 -1
+
+314 **IMedOne**
+
+Deutsche Telekom Clinical Solutions GmbH 23 22
 
 1
 
+252 **CGM M1 PRO**
+
+CompuGroup Medical Deutschland AG 22
+
+25
+
 -3
+
+451 **ifa|NX-NEXT Generation AIS**
+
+ifa systems AG 16
+
+12
 
 4
 
+015 **MEDYS**
+
+MEDYS GmbH 14
+
+14
+
 0
+
+261 **S 3-Win**
+
+S 3 Praxiscomputer GmbH / Maximilian Flender 13 14
 
 -1
 
+266 **x.comfort**
+
+medatixx GmbH & Co. KG 12
+
+12
+
 0
+
+2

@@ -109,7 +109,7 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden]
 
 / Version: 1.3 / 15. April 2026
 
-[ ] [ ] gemäß der Datenschutz-Grundverordnung (DSGVO) umgesetzt und dokumentiert wurden. Die TOMs laut [KBV_ITV_FMEX_TOM_370a] werden im Rahmen der Zertifizierung überprüft. Eine [VERFAHRENSORDNUNG NACH § 370A ABS. 3 SGB V Telemedizinische Leistungen Behandlungstermin  wurden umgesetzt. wurden umgesetzt. 2.2 Folgende optionale Funktionen sind gemäß der aktuell gültigen Technischen Anlage zur Spezifikation der Schnittstelle gemäß § 370A Abs.2 SGB V https://www.ina.gematik.de/detailansicht?rsmbasechild_knowledgebasesingle%5Bdocid%5D=STANDARD% 3A10443&cHash=1c7bdad095b176382087fee0dbe5a96c [ ] [ ] 2.2.1 Folgende optionale Erweiterungen wurden zur Funktion [ ] [ ] [ ] [ ] [ ] REALISIERUNG VON ANFORDERUNGEN ANFORDERUNGSDOKUMENTE REALISIERTE OPTIONALE FUNKTIONEN  (unter Telemedizinische Leistungen postleitzahl leistungsmerkmal [ ] ) realisiert. Telemedizinische Leistungen umgesetzt: [ ]  start  ende
+gemäß der Datenschutz-Grundverordnung (DSGVO) umgesetzt und dokumentiert wurden. Die TOMs laut [KBV_ITV_FMEX_TOM_370a] werden im Rahmen der Zertifizierung überprüft. Eine [VERFAHRENSORDNUNG NACH § 370A ABS. 3 SGB V Telemedizinische Leistungen Behandlungstermin wurden umgesetzt.  wurden umgesetzt. REALISIERUNG VON ANFORDERUNGEN ANFORDERUNGSDOKUMENTE 2.2 REALISIERTE OPTIONALE FUNKTIONEN Folgende optionale Funktionen sind gemäß der aktuell gültigen Technischen Anlage zur Spezifikation der Schnittstelle gemäß § 370A Abs.2 SGB V  (unter https://www.ina.gematik.de/detailansicht?rsmbasechild_knowledgebasesingle%5Bdocid%5D=STANDARD% 3A10443&cHash=1c7bdad095b176382087fee0dbe5a96c 2.2.1 Telemedizinische Leistungen Folgende optionale Erweiterungen wurden zur Funktion postleitzahl leistungsmerkmal ) realisiert. Telemedizinische Leistungen umgesetzt:  start  ende
 
 
 ---
@@ -123,9 +123,7 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden]
 |  |  |
 | ☐ | Videosprechstundenterminslots abrufen (Video Consultation Slot Search) |
 
-[ ]
-
-### 2.2.2
+### 2.2.2 Behandlungstermin
 
 Folgende optionale Erweiterungen wurden zur Funktion
 
@@ -133,24 +131,12 @@ Folgende optionale Erweiterungen wurden zur Funktion
 |---|---|---|---|---|---|
 | ☐ | KEINE | ☐ | ALLE | ☐ | Laut nachfolgender Liste |
 
-[ ]
-
 |  | **BEZEICHNUNG DER OPTIONALEN ERWEITERUNG** |
 |---|---|
 | ☐ | Präsenztermine abrufen (Attendance Appointment Slot Search |
 | ☐ | Präsenztermine abrufen (Attendance Appointment Slot Search |
 
-[ ]
-
-[ ]
-
-### Behandlungstermin
-
-[ ]
-
 Behandlungstermin umgesetzt:
-
-[ ]
 
 / Version: 1.3 / 15. April 2026
 
@@ -210,7 +196,7 @@ Ansprechpartner(in): Produktmanagement
 
 | **THEMA** | **ZERTIFIZIERUNGSART** | **PRÜFUNGSART** | **KOSTEN IN €** |
 |---|---|---|---|
-| SST 370A ABS2 | zum Zertifizierungsportal |  | 34,00 |
+| SST 370A ABS2 | Einrichtung des Zugangs |  | 34,00 |
 |  | Neu-, Re- und  einschließlich der  automatischen | Ergebnisprüfung | 1.222,10 |
 |  | Neu-, Re- und  einschließlich der | Sichtprüfung | 681,04 |
 
@@ -248,7 +234,7 @@ Ansprechpartner(in): Produktmanagement
 
 / Version: 1.3 / 15. April 2026
 
-Einrichtung des Zugangs falls nicht vorhanden Erweiterungszertifizierung  Rezertifizierung Erweiterungszertifizierung pro Sichtprüfungstermin Rezertifizierung
+zum Zertifizierungsportal falls nicht vorhanden Erweiterungszertifizierung  Rezertifizierung Erweiterungszertifizierung pro Sichtprüfungstermin Rezertifizierung
 
 
 ---
@@ -299,10 +285,12 @@ Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv
 
 -
 
+- - und
+
+-
+
 Unterschrift
 
 Name in Druckbuchstaben
 
-/ Version: 1.3 / 15. April 2026 -
-
-- - und
+/ Version: 1.3 / 15. April 2026

@@ -29,7 +29,7 @@ BUNDESVEREINIGUNG  IT IN DER ARZTPRAXIS  KRAFT
 | 1.01 | 25.10.2024 | KBV | Erfassung der Fragen aus der |  | 7 |
 | 1.00 | 22.10.2024 | KBV | Erstellung des Dokuments |  | alle |
 
-Sprechstunde am 1.07.2025 Sprechstunde am 27.05.2025 Sprechstunde vom 01.04.2025 und 06.05.2025 Sprechstunde vom 25.02.2025 Sprechstunde vom 14.01.2025 erweitert Sprechstunde am 12.11.2024 Sprechstunde am 22.10.2024 Aufnahme der Fragen vom 02.10.2024 Information zur KV Sachsen-Anhalt  und
+Sprechstunde am 1.07.2025 Sprechstunde am 27.05.2025 Sprechstunde vom 01.04.2025 und 06.05.2025 Sprechstunde vom 25.02.2025 Sprechstunde vom 14.01.2025 erweitert Information zur KV Sachsen-Anhalt Sprechstunde am 12.11.2024 Sprechstunde am 22.10.2024  und Aufnahme der Fragen vom 02.10.2024
 
 ---
 
@@ -420,9 +420,9 @@ Nein, der verpflichtende Einsatz der Hybrid-DRG-Stammdatei ist nicht vorgesehen.
 
 ### Antwort der KBV
 
-Die Teilnehmer der KBV können diese fachliche Frage  Fragenden, den Sachverhalt nochmals schriftlich an [ita@kbv.de](mailto:ita@kbv.de) mit einem Beispiel zu schildern.
+Die Teilnehmer der KBV können diese fachliche Frage im Moment nicht beantworten. Die KBV bittet den
 
-im Moment nicht beantworten. Die KBV bittet den
+Fragenden, den Sachverhalt nochmals schriftlich an [ita@kbv.de](mailto:ita@kbv.de) mit einem Beispiel zu schildern.
 
 
 ---

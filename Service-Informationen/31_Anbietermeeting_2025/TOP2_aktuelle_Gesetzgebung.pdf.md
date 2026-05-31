@@ -98,17 +98,15 @@
 
 ## - Refinanzierung der Gesundheitsversorgung von Bürgergeld
 
-## - Keine vollständige Erstattung der vorgestreckten Corona
+## - Keine vollständige Erstattung der vorgestreckten Corona-Kosten
 
 ## - ABER: Teilbeträge auf Darlehensbasis
 
-## - Wie im Koa-Vertrag angekündigt:
+## - Wie im Koa-Vertrag angekündigt: Einrichtung einer Kommission
 
 ## - Rückzahlung wann und mit was?
 
-## - Sozialstaatsreform - -Kosten
-
-## - Einrichtung einer Kommission - **HAUSHALT**
+## - Sozialstaatsreform - **HAUSHALT**
 
 - -Beziehenden durch den Bund
 
@@ -252,19 +250,19 @@ Bundesparteitag CDU
 
 **Q3 2025**
 
-**Q4 2025**
-
-### Dez
-
 ### Okt
 
 ### Jul
 
-### Nov
-
 ### Sep
 
 ### Aug
+
+**Q4 2025**
+
+### Dez
+
+### Nov
 
 **Q1 2026**
 
@@ -286,11 +284,9 @@ Bundesparteitag CDU
 
 **Q4 2026**
 
-### Nov
+### Nov Dez
 
-### Okt
-
-### Dez 17
+### Okt 17
 
 
 ---

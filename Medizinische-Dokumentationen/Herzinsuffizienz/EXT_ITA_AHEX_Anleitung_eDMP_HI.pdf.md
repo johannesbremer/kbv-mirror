@@ -24,22 +24,25 @@ Bitte geben Sie „Ja“ nur dann an, wenn Sie sowohl  eGFR bestimmt haben. Sofe
 
 stimmt haben, geben Sie bitte „Nein“
 
-#### Symptomatik sechs
+#### sechs
+
 an.
+
+#### Symptomatik
 
 Eine Angabe ist erforderlich.
 
-Bitte geben Sie hier die Symptomschwere der chronischen Herzinsuffizienz
-
-gemäß NYHA-Klassifikation an:
+Bitte geben Sie hier gemäß NYHA-Klassifikation an:
 
 **NYHA-Klassifikation bei Herzinsuffizienz (nach Leistungsfähigkeit)**
 
 | **NYHA I ** (asymptoma- | Herzerkrankung ohne körperliche Limitation.   Alltägliche körperliche Belastung verursacht keine inadäquate Erschöpfung, Rhythmusstörun- |
 |---|---|
 | **NYHA II ** (leicht) | Herzerkrankung mit leichter Einschränkung der körperlichen Leistungsfähigkeit.   Keine Beschwerden in Ruhe und bei geringer Anstrengung.   Stärkere körperliche Belastung verursacht Erschöpfung, Rhythmusstörungen, Luftnot oder An- |
-| **NYHA III ** (mittelschwer) | Herzerkrankung mit höhergradiger Einschränkung der körperlichen Leistungsfähigkeit bei ge- Keine Beschwerden in Ruhe.   Geringe körperliche Belastung verursacht Erschöpfung, Rhythmusstörungen, Luftnot oder An- |
+| **NYHA III ** (mittelschwer) | Herzerkrankung mit höhergradiger Einschränkung der körperlichen Leistungsfähigkeit bei ge- Keine Beschwerden in Ruhe.  Geringe körperliche Belastung verursacht Erschöpfung, Rhythmusstörungen, Luftnot oder An- |
 | **NYHA IV ** (schwer) | Herzerkrankung mit Beschwerden bei allen körperlichen Aktivitäten und in Ruhe, Bettlägerigkeit. |
+
+die Symptomschwere der chronischen Herzinsuffizienz
 
 Aus: Bundesärztekammer (BÄK), Kassenärztliche Bundesvereinigung (KBV), Arbeitsgemeinschaft der  schen Fachgesellschaften (AWMF). Nationale Versorgungs-Leitlinie Chronische Herzinsuffizienz, Langfassung, Version
 
@@ -263,7 +266,7 @@ Max. tolerierte Dosis erreicht“ kann nicht gleichzeitig mit der Angabe „Titr
 
 Mindestens eine Angabe ist erforderlich.
 
-Geben Sie bitte an, ob eine Therapie mit einem SGLT2-Inhibitor durchgeführt wird. Bitte geben Sie  bei Nein“ gegebenenfalls zusätzlich an, ob die Nicht -Verordnung auf eine Kontraindikation gegen die
+Geben Sie bitte an, ob eine Therapie mit einem SGLT2-Inhibitor durchgeführt wird. Bitte geben Sie  bei Nein“ gegebenenfalls zusätzlich an, ob die Nicht-Verordnung auf eine Kontraindikation gegen die
 
 Gabe eines SGLT2-Inhibitors zurückzuführen ist.
 
@@ -355,6 +358,6 @@ Sie hier bitte „Nicht möglich“ an.
 
 Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.
 
-Insbesondere bei symptomatischen Patientinnen bzw. Patienten mit einer Herzinsuffizienz sollte das Pro- tokollieren von täglichen Gewichtskontrollen vereinbart werden , um eine eventuelle Volumenbelastung  rechtzeitig zu erkennen.
+Insbesondere bei symptomatischen Patientinnen bzw. Patienten mit einer Herzinsuffizienz sollte das Pro- tokollieren von täglichen Gewichtskontrollen vereinbart werden, um eine eventuelle Volumenbelastung  rechtzeitig zu erkennen.
 
 Bitte geben Sie hier an, ob Sie das Führen eines Gewichtsprotokolls empfohlen haben oder nicht. Sollte  nach Ihrer Einschätzung das Führen eines Gewichtsprotokolls nicht notwendig sein, geben Sie dies bitte  mit „Nicht erforderlich“ an.

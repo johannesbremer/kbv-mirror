@@ -88,59 +88,57 @@ CompuGroup Medical Deutschland AG 1
 
 6
 
-**Installationen 1.Q.2025**
+**Installationen 1.Q.2025 Differenz**
 
 31
 
+-3
+
 17
+
+1
 
 15
 
-16
-
-13
-
-11
-
-8
-
-9
-
-8
-
-7
-
-8
-
-7
-
-8
-
-**Differenz**
-
--3
-
-1
-
 0
+
+16
 
 -2
 
+13
+
 1
 
+11
+
 0
+
+8
 
 2
 
+9
+
 0
+
+8
 
 1
 
+7
+
 1
 
-0
+8
 
 0
+
+7
+
+0
+
+8
 
 -2
 

@@ -15,15 +15,13 @@ Version 1.0
 
 Das Ziel der Therapie der rheumatoiden Arthritis (RA) ist insbesondere eine Remission oder niedrige
 
-Krankheitsaktivität zu erreichen und diese so lange wie möglich zu erhalten. Die moderne Therapiestrategie  der RA basiert auf einer regelmäßigen Erfassung und Dokumentation der Krankheitsaktivität und ihres
-
-Verlaufes in jedem Einzelfall. Diese Dokumentation ist entscheidend für die Beurteilung, den Vergleich und die
+Krankheitsaktivität zu erreichen und diese so lange wie möglich zu erhalten. Die moderne Therapiestrategie  der RA basiert auf einer regelmäßigen Erfassung und Dokumentation der Krankheitsaktivität und ihres  Verlaufes in jedem Einzelfall. Diese Dokumentation ist entscheidend für die Beurteilung, den Vergleich und die
 
 Qualitätssicherung der Therapie der RA. Hierfür soll die Krankheitsaktivität bei jeder Dokumentation gemessen
 
 und dokumentiert werden. Dieses Vorgehen ist in klinischen Studien belegt und wird in den Leitlinien empfohlen.
 
-Als Standardinstrument hat sich in der Praxis der Disease Activity Score (DAS -28) bewährt, in den vier  Parameter der Krankheitsaktivität eingehen. Als Laborwert wird in diesem DMP die
+Als Standardinstrument hat sich in der Praxis der Disease Activity Score (DAS-28) bewährt, in den vier  Parameter der Krankheitsaktivität eingehen. Als Laborwert wird in diesem DMP die
 
 Blutsenkungsgeschwindigkeit (BSG) in den DAS-28 einbezogen, da die Grenzwerte zur Interpretation des DAS
 
@@ -90,7 +88,9 @@ Beurteilen Sie bitte für jedes der folgenden 14 Gelenke **jeweils rechts- und l
 | 6. Fingergrundgelenk | 13. Fingermittelgelenk PIP 5 |
 | 7. Fingergrundgelenk MCP 4 | 14. Kniegelenk |
 
-Ein von der RA betroffenes Gelenk kann entweder geschwollen und gleichzeitig nicht  druckschmerzhaft, druckschmerzhaft und gleichzeitig nicht geschwollen oder gleichzeitig
+Ein von der RA betroffenes Gelenk kann entweder geschwollen und gleichzeitig nicht
+
+druckschmerzhaft, druckschmerzhaft und gleichzeitig nicht geschwollen oder gleichzeitig
 
 geschwollen und druckschmerzhaft sein. ***Daher sind die Gelenke separat hinsichtlich der***
 
@@ -104,7 +104,7 @@ Die Skala wird über eine 10 cm lange horizontale Linie mit den Begrenzungen 0 u
 
 Die VAS wird der Patientin oder dem Patienten mit folgender Instruktion vorgelegt:
 
-*„Bitte geben Sie auf dieser Skala an, wie aktiv Ihre rheumatoide Arthritis in den letzten 7 Tagen*  *gewesen ist.* *Null bedeutet dabei keine Krankheitsaktivität* *und 100 stärkst mögliche*
+*„Bitte geben Sie auf dieser Skala an, wie aktiv Ihre rheumatoide Arthritis in den letzten 7 Tagen*  *gewesen ist. Null bedeutet dabei keine Krankheitsaktivität* *und 100 stärkst mögliche*
 
 *Krankheitsaktivität*
 
@@ -146,7 +146,7 @@ Krankheitsaktivität verfolgen. So wird Ihnen bei jeder Verlaufsdokumentation an
 
 **Veränderung zum DAS-28-Wert der vorhergehenden Dokumentation** vorliegt. Dafür wird die Differenz
 
-zwischen dem aktuellen DAS -28-Wert und dem DAS-28-Wert der letzten Dokumentation automatisch
+zwischen dem aktuellen DAS-28-Wert und dem DAS-28-Wert der letzten Dokumentation automatisch
 
 berechnet und die Interpretation der Veränderung in kurzer Textform angezeigt. Hierdurch können Sie direkt  sehen, **ob und wie stark sich die Krankheitsaktivität bei Ihrer Patientin bzw. Ihrem Patienten im Vergleich**
 
@@ -174,17 +174,13 @@ die Erkrankungsdauer zum aktuellen Zeitpunkt „Weniger als zwei Jahre oder Zwei
 
 Die **klinische Einschätzung des Osteoporoserisiko** soll **mindestens einmal im Jahr** erfolgen. Geben Sie
 
-„Ja“ an, wenn Sie das Osteoporoserisiko eingeschätzt h aben. Geben Sie „Nein“ an, wenn Sie das
+„Ja“ an, wenn Sie das Osteoporoserisiko eingeschätzt haben. Geben Sie „Nein“ an, wenn Sie das
 
 Osteoporoserisiko nicht eingeschätzt haben. Es wird damit **nicht** abgefragt, ob Ihre Patientin bzw. Ihr Patient
 
 ein erhöhtes Risiko hat, lediglich, ob Sie das Risiko eingeschätzt haben.
 
-Eine RA ist bei Frauen und Männern ein unabhängiger Risikofaktor für Frakturen. Daneben erhöhen eine
-
-Glukokortikoidtherapie und andere klinischen Risikofaktoren das Auftreten einer Osteoporose. Die individuelle  Risikokonstellation bezüglich des Auftretens einer Osteoporose sollte daher einmal jährlich bei allen
-
-Wert = 0.56*√(t28) + 0.28*√(sw28) + 0.70*Ln(BSG) + 0.014*VAS   t28: Anzahl druckschmerzhafter Gelenke; sw28: Anzahl geschwollener Gelenke; Ln(BSG): natürlicher Logarithmus des Wertes der BSG; BSG: Blutsenkungsgeschwindigkeit; VAS: Visuelle Analogskala. Das Zeichen * ist das mathematische Multiplikationszeichen. Patientinnen und Patienten klinisch abgeschätzt werden. Die Durchführung einer Osteodensitometrie mittels  zentraler DXA zum Zweck der Optimierung der Therapieentscheidung ist zu prüfen, wenn aufgrund konkreter  anamnestischer und klinischer Befunde eine medikamentöse Therapie der Osteoporose beabsichtigt ist.  Generelle Empfehlungen zur Vorbeugung einer Osteoporose sind insbesondere körperliche Aktivität,
+Wert = 0.56*√(t28) + 0.28*√(sw28) + 0.70*Ln(BSG) + 0.014*VAS   t28: Anzahl druckschmerzhafter Gelenke; sw28: Anzahl geschwollener Gelenke; Ln(BSG): natürlicher Logarithmus des Wertes der BSG; BSG: Blutsenkungsgeschwindigkeit; VAS: Visuelle Analogskala. Das Zeichen * ist das mathematische Multiplikationszeichen. Eine RA ist bei Frauen und Männern ein unabhängiger Risikofaktor für Frakturen. Daneben erhöhen eine  Glukokortikoidtherapie und andere klinischen Risikofaktoren das Auftreten einer Osteoporose. Die individuelle  Risikokonstellation bezüglich des Auftretens einer Osteoporose sollte daher einmal jährlich bei allen  Patientinnen und Patienten klinisch abgeschätzt werden. Die Durchführung einer Osteodensitometrie mittels  zentraler DXA zum Zweck der Optimierung der Therapieentscheidung ist zu prüfen, wenn aufgrund konkreter  anamnestischer und klinischer Befunde eine medikamentöse Therapie der Osteoporose beabsichtigt ist.  Generelle Empfehlungen zur Vorbeugung einer Osteoporose sind insbesondere körperliche Aktivität,
 
 
 ---
@@ -209,19 +205,15 @@ bitte **„Ja, länger als 6 Monate“** an. Findet aktuell keine Glukokortikoid
 
 an.
 
-Glukokortikoide sollten zu Beginn der Therapie einer RA ergänzend zur konventionellen synthetischen
+Glukokortikoide sollten zu Beginn der Therapie einer RA ergänzend zur konventionellen synthetischen  krankheitsmodifizierenden Medikation (csDMARD) verabfolgt werden. Die tägliche Startdosis kann bis 30 mg  Prednisolonäquivalent betragen. Die **Glukokortikoidgabe** sollte wegen unerwünschter Arzneimittelwirkungen
 
-krankheitsmodifizierenden Medikation (csDMARD) verabfolgt werden. Die tägliche Startdosis kann bis 30 mg  Prednisolonäquivalent betragen. Die **Glukokortikoidgabe** sollte wegen unerwünschter Arzneimittelwirkungen
-
-**auf drei bis sechs Monate beschränkt werden** . Dabei wird e ine Reduzierung der Dosis auf ≤ 5 mg
+**auf drei bis sechs Monate beschränkt werden**. Dabei wird eine Reduzierung der Dosis auf ≤ 5 mg
 
 Prednisolonäquivalent pro Tag innerhalb von acht Wochen empfohlen** Eine Therapie mit Glukokortikoiden**
 
 **über sechs Monate hinaus sollte vermieden werden**
 
-Bei längerer Gabe der Glukokortikoide über sechs Monate hinaus ist die Indikation zur Reduktion bis zum  Absetzen regelmäßig zu überprüfen und umzusetzen. Patientinnen und Patienten können im Verlauf der RA  bei notwendigem DMARD -Wechsel wegen unerwünschter Arzneimittelwirkung oder erhöhter entzündlicher
-
-Aktivität kurzfristig erneut so niedrig dosiert wie möglich Glukokortikoide erhalten, diese sollten jedoch so schnell  wie klinisch durchführbar wieder reduziert werden. Die intraartikuläre Gabe von Glukokortikoden bei einzelnen
+Bei längerer Gabe der Glukokortikoide über sechs Monate hinaus ist die Indikation zur Reduktion bis zum  Absetzen regelmäßig zu überprüfen und umzusetzen. Patientinnen und Patienten können im Verlauf der RA  bei notwendigem DMARD-Wechsel wegen unerwünschter Arzneimittelwirkung oder erhöhter entzündlicher  Aktivität kurzfristig erneut so niedrig dosiert wie möglich Glukokortikoide erhalten, diese sollten jedoch so schnell  wie klinisch durchführbar wieder reduziert werden. Die intraartikuläre Gabe von Glukokortikoden bei einzelnen
 
 Gelenken mit hoher entzündlicher Aktivität als zusätzliche Maßnahme zur DMARD-Therapie kann sinnvoll sein.
 
@@ -229,19 +221,17 @@ Gelenken mit hoher entzündlicher Aktivität als zusätzliche Maßnahme zur DMAR
 
 **Genau eine Angabe** ist erforderlich und zulässig
 
-Unter DMARDs (Disease-modifying anti -rheumatic drugs) wird eine Gruppe von Medikamenten
+Unter DMARDs (Disease-modifying anti-rheumatic drugs) wird eine Gruppe von Medikamenten
 
 zusammengefasst, die über symptomatische Effekte hinaus krankheitsmodifizierende Eigenschaften besitzen.
 
-Zur Gruppe der DMARDs gehören konventionelle synthetische DMARDs (csDMARDs), zielgerichtete
+Zur Gruppe der DMARDs gehören konventionelle synthetische DMARDs (csDMARDs), zielgerichtete  synthetische DMARDs (tsDMARDs) und biologische DMARDs (bDMARDs).
 
-synthetische DMARDs (tsDMARDs) und biologische DMARDs (bDMARDs).
+Geben Sie bitte an, ob Ihre Patientin oder Ihr Patient aktuell eine krankheitsmodifizierende Medikation  (DMARD) erhält.
 
-Geben Sie bitte an, ob Ihre Patientin oder Ihr Patient aktuell eine krankheitsmodifizierende Medikation (DMARD) erhält.
+Geben Sie bitte **„Ja“** an, wenn aktuell ein oder mehrere DMARDs genommen werden (als Mono- oder
 
-Geben Sie bitte **„Ja“** an, wenn aktuell ein oder mehrere DMARDs genommen werden (als Mono - oder
-
-Kombinationsbehandlung mehrerer DMARDs) . Geben Sie bitte **„Nein“** an, wenn aktuell keine DMARD -
+Kombinationsbehandlung mehrerer DMARDs). Geben Sie bitte **„Nein“** an, wenn aktuell keine DMARD-
 
 Therapie erfolgt. Erfolgt keine DMARD-Therapie weil eine Kontraindikation gegen diese besteht, geben Sie  bitte **„Kontraindikation“** an. Erfolgt keine DMARD-Therapie weil Sie mit Ihrer Patientin oder Ihrem Patienten
 
@@ -249,7 +239,7 @@ eine Therapiepause der DMARD -Therapie vereinbart haben, geben Sie bitte **„Th
 
 an.
 
-Die krankheitsmodifizierende Therapie mittels DMARDs soll unmittelbar nach Diagnosestellung begonnen  werden, denn ein früher Behandlungsbeginn hat einen günstigen Effekt auf die radiologische Progression, den  Erhalt und die Wiederherstellung der Funktionalität, das Erreichen einer anhaltenden Remission und die  Reduktion der Mortalität . Bei der Therapieentscheidung sollen die Krankheitsaktivität, die bestehenden  strukturellen Schäden, Komorbiditäten und Sicherheitsaspekte berücksichtigt werden.
+Die krankheitsmodifizierende Therapie mittels DMARDs soll unmittelbar nach Diagnosestellung begonnen  werden, denn ein früher Behandlungsbeginn hat einen günstigen Effekt auf die radiologische Progression, den  Erhalt und die Wiederherstellung der Funktionalität, das Erreichen einer anhaltenden Remission und die  Reduktion der Mortalität. Bei der Therapieentscheidung sollen die Krankheitsaktivität, die bestehenden  strukturellen Schäden, Komorbiditäten und Sicherheitsaspekte berücksichtigt werden.
 
 Als Mittel der ersten Wahl (Starttherapie) wird das cs DMARD Methotrexat empfohlen, wenn keine
 
@@ -260,9 +250,7 @@ Kontraindikationen vorliegen (insbesondere Niereninsuffizienz, zeitnah geplante 
 
 Schwangerschaft, Knochenmarkserkrankung, schwere Leberfunktionsstörung). In der Regel werden als  Startdosis 15 mg einmal pro Woche empfohlen. Methotrexat kann, auch unter Berücksichtigung der  Patientenpräferenz, subkutan oder oral verabreicht werden. Bei oraler Gabe soll die individuell
 
-unterschiedliche Bioverfügbarkeit berücksichtigt werden. Bei einer Steigerung der Dosis über 15 mg pro
-
-Woche kann eine subkutane Gabe vorteilhaft sein. Mit einem Wirkeintritt von Methotrexat ist innerhalb von  vier bis sechs Wochen zu rechnen. Die Methotrexatdosis sollte in der Regel nicht 25 mg subkutan pro Woche
+unterschiedliche Bioverfügbarkeit berücksichtigt werden. Bei einer Steigerung der Dosis über 15 mg pro  Woche kann eine subkutane Gabe vorteilhaft sein. Mit einem Wirkeintritt von Methotrexat ist innerhalb von  vier bis sechs Wochen zu rechnen. Die Methotrexatdosis sollte in der Regel nicht 25 mg subkutan pro Woche
 
 überschreiten. Bei Methotrexat-Gabe soll standardmäßig eine Folsäure-Substitution (einmal 5 [bis 10] mg ca.
 
@@ -337,7 +325,7 @@ Die Angaben zur Schulung beziehen sich hier **ausschließlich rückblickend** au
 
 Patientin oder Ihrem Patienten **bei dem letzten Dokumentationstermin** empfohlen haben, und sind daher
 
-nur im Rahmen einer **Folgedokumentation** möglich u nd hier verpflichtend. Im Rahmen der
+nur im Rahmen einer **Folgedokumentation** möglich und hier verpflichtend Im Rahmen der
 
 Folgedokumentation ist **genau eine Angabe erforderlich**
 
@@ -349,9 +337,7 @@ Hat Ihre Patientin oder Ihr Patient im Dokumentationszeitraum an einer Schulung 
 
 Antwort ist anzugeben, wenn z. B. organisatorische oder andere patienten seitige Voraussetzungen für die
 
-Teilnahme an einer Rheuma -Schulung nicht gegeben sind. Weitere Gründe können z.B. fehlende
-
-Schulungskapazität, Krankenhausaufenthalt der Patientin oder des Patienten oder private Gründe sein. Die  Beurteilung, ob die Gründe nachvollziehbar sind, obliegt alleine Ihnen und Ihrer Patientin bzw. Ihrem Patienten.
+Teilnahme an einer Rheuma-Schulung nicht gegeben sind. Weitere Gründe können z.B. fehlende  Schulungskapazität, Krankenhausaufenthalt der Patientin oder des Patienten oder private Gründe sein. Die  Beurteilung, ob die Gründe nachvollziehbar sind, obliegt alleine Ihnen und Ihrer Patientin bzw. Ihrem Patienten.
 
 Sollten Sie Ihrer Patientin oder Ihrem Patienten bei der vorhergehenden Dokumentation eine Schulung  empfohlen haben, die Patientin bzw. der Patient die Schulung aber ohne einen für Sie nachvollziehbaren
 

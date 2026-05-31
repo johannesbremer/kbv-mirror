@@ -37,7 +37,7 @@ In Kraft
 
 Header für eDMP / a-Datensatz
 
-Wertebereichs für den Parameter Geschlecht des Patienten Wertebereichs für den Parameter Geschlecht des Patienten Änderungen Personenstandsgesetz (PstG) Personenstandsgesetz (PstG)
+Personenstandsgesetz Wertebereichs für den (PstG) Parameter Geschlecht des Patienten Personenstandsgesetz Wertebereichs für den (PstG) Parameter Geschlecht des Patienten Änderungen
 
 ---
 
@@ -651,7 +651,7 @@ Der Code für das Element *document_type_cd* ist fest vorgeschrieben und zwingen
 
 lich. Hier steht die Information, welcher Dokumentations-Typ beschrieben wird. Es wird zwi-  schen erstmaliger Dokumentation und Verlaufsdokumentation unterschieden. Im *V*-Attribut
 
-steht ein kodierter Wert z.B. EDMP_DIABETES1_EE, der aus einer Schlüsseltabelle 2
+steht ein kodierter Wert z.B. EDMP_DIABETES1_EE, der aus einer Schlüsseltabelle2
 
 2 [http://www.kbv.de/keytabs/ita/schluesseltabellen.asp](http://www.kbv.de/keytabs/ita/schluesseltabellen.asp)
 
@@ -1389,7 +1389,7 @@ S="2.16.840.1.113883.3.7.1.16"/>
 
 ### 6.9.5.1 Kostenträgerbezeichnung (Kostentraegerbezeichnung)
 
-### Das Element Kostentraegerbezeichnung enthält den Namen des Kostenträgers . Es ist vom 3
+### Das Element Kostentraegerbezeichnung enthält den Namen des Kostenträgers3. Es ist vom
 
 Datentyp String. Als Beispiel sei hier folgender Code für dieses Element angegeben:
 
@@ -1420,7 +1420,7 @@ Das Element  numerisch sein. Als Beispiel sei hier folgender Code für dieses El
 
 ### 6.9.5.3 Kostenträgerabrechnungsbereich (KostentraegerAbrechnungsbereich)
 
-In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element  *traegerAbrechnungsbereich* besteht aus den Attributen *V*
+In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element  *traegerAbrechnungsbereich* besteht aus den Attributen *V* und *S*. Im
 
 deutige OID der Schlüsseltabelle: „2.16.840.1.113883.3.7.1.16“. Der Standardwert für das  Attribut ist „00“. Eine andere Angabe aus der Schlüsseltabelle kann jedoch angegeben wer-  den. Als Beispiel sei hier folgender Code für dieses Element angegeben:
 
@@ -1439,8 +1439,6 @@ le: „2.16.840.1.113883.3.7.1.17“. Das Element gibt es nur, wenn es sich um e
 Element angegeben:
 
 <sciphox:KVBereich V="38" S="2.16.840.1.113883.3.7.1.17"/>
-
-und *S*. Im
 
 **XML-Code 32 KVBereich**
 
@@ -1618,21 +1616,13 @@ Header für eDMP / a-Datensatz
 
 ## 6.10 Software (local_header)
 
-Die Information über die Software und deren Verantwortliche wird mittels der Sciphox-SSU  *software v1* dargestellt. Das Element
+Die Information über die Software und deren Verantwortliche wird mittels der Sciphox-SSU  *software v1* dargestellt. Das Element *sciphox:Software* setzt sich aus den Kindelementen *sci-*
 
-*phox:id sciphox:SoftwareName*
+*phox:id sciphox:SoftwareName sciphox:SoftwareVersion sciphox:SoftwareTyp sci-*
 
-*phox:Kontakt* und *sciphox:Software*
+*phox:Kontakt* und *sciphox:Software* zusammen. Die Struktur für dieses Element ist in Abbil-
 
 dung 12 dargestellt.
-
-*sciphox:Software* setzt sich aus den Kindelementen
-
-*sciphox:SoftwareVersion sciphox:SoftwareTyp*
-
-zusammen. Die Struktur für dieses Element ist in Abbil-
-
-*sci-*  *sci-*
 
 **Abbildung 12 Grundstruktur sciphox:Software**
 
@@ -1873,9 +1863,11 @@ Die
 
 ---
 
-**Abbildung 14 Grundstruktur sciphox:Software**
+Header für eDMP / a-Datensatz
 
-Ein Beispiel für dieses Element mit Informationen zur Schnittstelle und dem Prüfmodul sieht  dann wie folgt aus:
+Ein Beispiel für dieses Element mit Informationen zur Schnittstelle und dem Prüfmodul sieht
+
+dann wie folgt aus:
 
 <local_header ignore="all" descriptor="sciphox">
 
@@ -1888,6 +1880,8 @@ Ein Beispiel für dieses Element mit Informationen zur Schnittstelle und dem Pr�
 . . .
 
 <sciphox:Software>
+
+**Abbildung 14 Grundstruktur sciphox:Software**
 
 <sciphox:SoftwareName V="XSD_EDM2"/>
 
@@ -1921,9 +1915,7 @@ Das Element *SoftwareName* wurde bereits ausführlich im Abschnitt 6.10.2 beschr
 
 lässige Werte für die Bezeichnung der Schnittstelle stehen in der Tabelle mit der OID:
 
-(1.2.276.0.76.3.1.1.5.2.5). Eine gültige Angabe des Elements *SoftwareName* zur XML-
-
-Schnittstelle ist verpflichtend.
+(1.2.276.0.76.3.1.1.5.2.5). Eine gültige Angabe des Elements  Schnittstelle ist verpflichtend.
 
 ### 6.10.6.2 Softwareversion der XML-Schnittstelle (SoftwareVersion)
 
@@ -1931,7 +1923,7 @@ Das Element *SoftwareVersion* wurde bereits ausführlich im Abschnitt 6.10.3 bes
 
 Version der Schnittstelle kann aus dem jeweiligen Schema zur software_ssu des DMP (z.B.  bei Diabetes mellitus Typ 1 -> DMP_DiabetesMellitus1_software_ssu.xsd) oder aus der Datei  ReleaseNotes.html im jeweilgen XPM-Prüfmodul entnommen werden. Eine gültige Versions-  angabe ist verpflichtend.
 
-Header für eDMP / a-Datensatz
+*SoftwareName* zur XML-
 
 
 ---

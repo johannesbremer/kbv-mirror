@@ -104,7 +104,15 @@ Schulung schon vor der Einschreibung in ein DMP bereits wahrgenommen
 
 **14**
 
-15  16  17  17  18  18  18  19  19  20  21  21  22  22  22  23  23  24  24  24  25  26  26  27  27  28  28  28  29  30  30
+15  16  17  17  18  18  18
+
+19  19  20  21  21  22  22  22  23  23 24  24  24
+
+25  26  26  27  27  28  28
+
+28  29
+
+30  30
 
 
 ---
@@ -592,9 +600,9 @@ Eine Sektion enthält kann die Abschnitte „Administrative Daten“, „Anamnes
 
 ### 6.1.1 caption
 
-Das Element <caption> besteht nur aus dem erfo Elements <caption_cd> werden die jeweiligen Abschnittsüberschriften  und Befunddaten“, „Relevante Ereignisse“, „Medikamente“, „Schulung“ und „Behandlungsplanung“
+Das Element <caption> besteht nur aus dem erforderlichen Kindelement <caption_cd>. Im DN
 
-angegeben.
+Elements <caption_cd> werden die jeweiligen Abschnittsüberschriften  und Befunddaten“, „Relevante Ereignisse“, „Medikamente“, „Schulung“ und „Behandlungsplanung“  angegeben.
 
 Wenn in allen Abschnitten Daten enthalten sind, sieht der Coderahmen für das Element <section>
 
@@ -603,7 +611,7 @@ aus (siehe XML-Code 3). Die Werte der einzelnen <caption_cd>-Elemente entspreche
 \| <section>                                                                                 </paragraph>      <caption>     </caption>         </section> |
 \|---|
 
-rderlichen Kindelement <caption_cd>. Im DN Attribut des
+Attribut des
 
 „Administrative Daten“, „Anamnese
 
@@ -1459,9 +1467,9 @@ Dieses Kapitel beschreibt den Abschnitt „Behandlungsplanung“
 
 Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel 6.1.3
 
-dargestellt. Diese SSU enthält genau ein Kindelement sciphox:Beobachtungen>. Das Element
+dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element
 
-<sciphox:Beobachtungen> enthält minimal drei bis maximal sieben Kindelemente < sciphox:Beobachtung>.  Ein Element sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement
+<sciphox:Beobachtungen> enthält minimal drei bis maximal sieben Kindelemente < sciphox:Beobachtung>.  Ein Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement
 
 <sciphox:Parameter> und mindestens ein Kindelemente <sciphox:Ergebnistext>.
 
@@ -1498,7 +1506,7 @@ Siehe Kapitel 6.1.9.4.
 
 Siehe Kapitel 6.1.9.5.
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="COPD-bezogene Über- bzw. Einweisung veranlasst"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Empfehlung zum Tabakverzicht ausgesprochen "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN=" Empfehlung zur Teilnahme an Tabakentwöhnungsprogramm ausgesprochen "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN=" An einem Tabakentwöhnungsprogramm seit der letzten Empfehlung teilgenommen "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Empfehlung zum körperlichen Training ausgesprochen <sciphox:Ergebnistext V=". . ."/> "/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>|  |  |
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="COPD-bezogene Über- bzw. Einweisung veranlasst"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Empfehlung zum Tabakverzicht ausgesprochen "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN=" Empfehlung zur Teilnahme an Tabakentwöhnungsprogramm ausgesprochen "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN=" An einem Tabakentwöhnungsprogramm seit der letzten Empfehlung teilgenommen "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Empfehlung zum körperlichen Training ausgesprochen "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>|  |  |
 |---|---|
 
 

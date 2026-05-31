@@ -182,11 +182,9 @@ Die geforderten Videomitschnitte und Screenshots müssen in einem gesonderten Or
 
 durch den Prüfer begutachtet.
 
-1
+_[lfdNr.]2 3
 
-2 3
-
-*PrüffallNr*. _[lfdNr.] .*
+*PrüffallNr* 1
 
 - Alle Prüfunterlagen [XML-Datei und der Ordner „Dokumentation“] sind in einem zip-Archiv zu  übermitteln. Die Dokumentationsunterlagen werden direkt in dem Hauptverzeichnis übertragen und  nicht gesondert in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Das zip Archiv muss wie folgt benannt werden:
 

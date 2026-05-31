@@ -1,5 +1,3 @@
-**8**
-
 **Stempel der Krankenkasse und Unterschrift**
 
 **Unterschrift des Versicherten**
@@ -24,11 +22,11 @@
 
 **Datum**
 
+**Ersatz**
+
 **Folge-**
 
 **versorgungleiden (BVG)** **Versorgungs-**
-
-**Ersatz**
 
 **Erst-** **Unfall,**
 
@@ -46,6 +44,36 @@
 
 **Sehhilfenverordnung**
 
+**geb. am**
+
+**Betriebsstätten-Nr.**
+
+**Krankenkasse bzw. KostenträgerKostenträgerkennung**
+
+**Name, Vorname des Versicherten**
+
+**nein**
+
+**Status**
+
+**Datum**
+
+**ja**
+
+**ja**
+
+**Arzt-Nr.**
+
+**Versicherten-Nr.**
+
+**Änderung um mindestens0,5 Dioptrien**
+
+**Diagnose/Begründung:**
+
+**Menge und Art der Verordnung:**
+
+**Befund: Wenn nein, wird eine Verbesserung der Seh-schärfe um mindestens 20% erzielt?**
+
 **Unterschrift des Empfängers (Vor- und Zuname)**
 
 **Bescheinigung des Leistungserbringers**
@@ -54,17 +82,11 @@
 
 **Betrag Euro**
 
-**Kostenrechnung des Leistungserbringers10-stellige** **Hilfsmittelpositionsnummer**
+**Kostenrechnung des Leistungserbringers**
 
-**geb. am** **Status**
+**Rechnungsbetrag**
 
-**nein**
-
-**Datum**
-
-**ja**
-
-**ja**
+**Hilfsmittelpositionsnummer10-stellige**
 
 **abstandScheitel-**
 
@@ -72,29 +94,11 @@
 
 **Prisma**
 
-**Versicherten-Nr.**
-
-**Änderung um mindestens0,5 Dioptrien**
-
-**Arzt-Nr.**
-
-**Betriebsstätten-Nr.**
-
-**Krankenkasse bzw. KostenträgerKostenträgerkennung**
-
-**Name, Vorname des Versicherten**
-
-**Diagnose/Begründung:**
-
-**Menge und Art der Verordnung:**
-
-**Befund: Wenn nein, wird eine Verbesserung der Seh-schärfe um mindestens 20% erzielt?**
-
 **Achse**
 
 **Zylinder**
 
-**Sphäre** **LR R** **F**
+**Sphäre** **LR** **F**
 
 **nicht gestattet.** **Muster 8/E (10.2014)PRF.NR.**
 
@@ -104,15 +108,11 @@
 
 **sbaren Daten.**
 
-**anstelle der verordneten Sehhilfen ist**
-
 **gegeben und**
 
 **igung ab**
 
 **passt.**
-
-**Lieferung anderer Ware**
 
 **e**
 
@@ -120,14 +120,18 @@
 
 **Empfangsbestätder Verordnung entspricht. Datum**
 
-**Zur Beachtung für den VersichertenDiese Verordnung ist kein Gutschein für einen bestiDie**  **Der Barcode enthält keine auf dem Formular nicht le**
-
-**Rechnungsbetrag**
+**Zur Beachtung für den VersichertenDiese Verordnung ist kein Gutschein für einen besti**
 
 **L**
 
-**Vertragsarztstempel / Unterschrift des Arztes**
-
 **R**
 
-**L** **N**
+**LR** **N**
+
+**anstelle der verordneten Sehhilfen ist**
+
+**Lieferung anderer Ware**
+
+**Die**  **Der Barcode enthält keine auf dem Formular nicht le**
+
+**Vertragsarztstempel / Unterschrift des Arztes**

@@ -199,30 +199,28 @@ S 3 Praxiscomputer GmbH / Maximilian Flender 2
 
 19
 
-**Installationen 1.Q.2025**
+**Installationen 1.Q.2025 Differenz**
 
 33
 
-23
-
-25
-
-23
-
-21
-
-19
-
-**Differenz**
-
 -2
+
+23
 
 2
 
+25
+
 -1
+
+23
 
 1
 
+21
+
 0
+
+19
 
 0

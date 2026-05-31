@@ -45,7 +45,6 @@ antwortlich zeichnet.
 
 Übergabe
 
-[ ] [ ] [ ]
 
 ---
 
@@ -78,29 +77,19 @@ Bitte geben Sie im Folgenden an, welche
 | ☐ | Windows | ☐ | Mac OS | ☐ | Linux |
 | ☐ | iOS/ Android | ☐ | Sonstige | | |
 
-[ ]
-
 ## BETRIEBSSYSTEME
 
-[ ]
+# 2 REALISIERUNG VON ANFORDERUNGEN
 
-# 2
-
-**2.1**
+**2.1** **ZERTIFIZIERUNGSGEGENSTAND**
 
 |  |  |
 |---|---|
 | ☐ | Der Antragssteller versichert, dass alle Pflichtfunktionen des Kapitels 4 „Umsetzung der  Der Antragsteller nimmt die Anforderungen K2-512, KP2-512, KP2-513 und P6-804 des |
 
-[ ]
-
-# REALISIERUNG VON ANFORDERUNGEN
-
-## ZERTIFIZIERUNGSGEGENSTAND
-
 Client-Betriebssysteme unterstützt werden.
 
-[ ] [ ] [ ] Spezifikation – 116117 Terminservice Abrechnungsinformation“ des Anforderungskataloges [KBV_ITA_VGEX_Anforderungskatalog_TS Anforderungskataloges KVDT [ S] umgesetzt sind. KBV_ITA_VGEX_Anforderungskatalog_KVDT ] zur Kenntnis.
+Spezifikation – 116117 Terminservice Abrechnungsinformation“ des Anforderungskataloges [KBV_ITA_VGEX_Anforderungskatalog_TS Anforderungskataloges KVDT [ S] umgesetzt sind. KBV_ITA_VGEX_Anforderungskatalog_KVDT ] zur Kenntnis.
 
 ---
 

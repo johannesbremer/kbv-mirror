@@ -570,7 +570,7 @@ Diese Prüffälle sind nur dann zu realisieren, wenn im Antrag auf Zertifizierun
 |  |  |
 |---|---|
 | **Testziel** | Export des signierten digitalen Musters |
-| **Voraussetzung** | Einsender und Erstveranlasser wurden bereits erfasst [Abschnitt 1.6.3  Versichertendaten: Eike Flüchtling [EV01] |
+| **Voraussetzung** | Einsender und Erstveranlasser wurden bereits erfasst [ Stammdaten]  Versichertendaten: Eike Flüchtling [EV01] |
 | **Einzureichende  Prüfunterlagen ** | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
@@ -579,7 +579,7 @@ Diese Prüffälle sind nur dann zu realisieren, wenn im Antrag auf Zertifizierun
 
 -Dateien zur Verfügung stehen. Welche XML-Dateien bzw.
 
-Stammdaten] Screenshots über den Exportvorgang sowie die Anzeige der erfassten Daten im Zertifizierungsgegenstand. 2. Digitales Muster 06 als PDF-Dokument für Eike Flüchtling [EV01] 06 mit Dokumentation. **Digitales Muster**
+Screenshots über den Exportvorgang sowie die Anzeige der erfassten Daten im Zertifizierungsgegenstand. 2. Digitales Muster 06 als PDF-Dokument für Eike Flüchtling [EV01] 06 mit Dokumentation. Abschnitt 1.6.3 **Digitales Muster**
 
 
 ---
@@ -605,7 +605,7 @@ Eike Flüchtling [EV01]
 
 -
 
-gemäß § 116b SGB V nach Abschnitt 31.2  ESS / bei 567890123456789012345678901234567890123456789012345678 901234567890123456789012345678901234567890123456789012 567890123456789012345678901234567890123456789012345678 901234567890123456789012345678901234567890123456789012 345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890 567890123456789012345678901234567890123456789012345678 345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890 567890123456789012345678901234567890123456789012345678 901234567890123456789012345678901234567890123456789012 345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890 567890123456789012345678901234567890123456789012345678 901234567890123456789012345678901234567890123456789012 345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890 901234567890123456789012345678901234567890123456789012 345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890- signieren und exportieren:
+gemäß § 116b SGB V  ESS / bei nach Abschnitt 31.2 567890123456789012345678901234567890123456789012345678 901234567890123456789012345678901234567890123456789012 567890123456789012345678901234567890123456789012345678 901234567890123456789012345678901234567890123456789012 345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890 567890123456789012345678901234567890123456789012345678 345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890 567890123456789012345678901234567890123456789012345678 901234567890123456789012345678901234567890123456789012 345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890 567890123456789012345678901234567890123456789012345678 901234567890123456789012345678901234567890123456789012 345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890 901234567890123456789012345678901234567890123456789012 345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890- signieren und exportieren:
 
 
 ---
@@ -750,11 +750,9 @@ Zertifizierungsgegenstand.  Dateinamenskonvention beachten [Abschnitt 1.5 Prüfu
 
 ---
 
-## 2.4 DIGITALES MUSTER 10
+## 2.4 DIGITALES MUSTER 10  IMPORT
 
 Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung der Bereich  **- Import** beantragt wurde.
-
-## IMPORT
 
 **Prüffallnummer: PF03**
 
@@ -763,7 +761,7 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 | **Testziel** | Import des signierten digitalen Musters 10 mit Dokumentation. |
 | **Voraussetzung** | 04.01.2021 |
 | **Einzureichende  Prüfunterlagen ** | Screenshots über den gesamten Ablauf. Es müssen der komplette Importvorgang  Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen]  Optional: Die importierten Daten müssen als Muster 10 |
-| **Hinweis** | Verfügung. |
+| **Hinweis** | Das zu importierende Muster steht im Zertifizierungsportal zum Download zur |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -800,7 +798,7 @@ Eike Flüchtling [EV01]
 
 **Digitales Muster**
 
-sowie die Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersichtlich sein.  werden, wenn der Antragsteller „Muster 10 hierfür bereits eine Zulassung hat. Das zu importierende Muster steht im Zertifizierungsportal zum Download zur - Befun d mit Export“ beantragt oder - Befund exportiert Zertifizierungsgegenstand. -
+sowie die Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersichtlich sein.  werden, wenn der Antragsteller „Muster 10 hierfür bereits eine Zulassung hat. Verfügung. - Befun d mit Export“ beantragt oder - Befund exportiert Zertifizierungsgegenstand. -
 
 
 ---
@@ -990,7 +988,7 @@ Zertifizierungsgegenstand.  verwendbar) -Testuntersuchung 1234567890123456- sign
 
 | **FELDER** | **INHALT** |
 |---|---|
-|  | 78901234567890123456789012345678901 23456789012345678901234567890123456 78901234567890123456 |
+|  | 23456789012345678901234567890123456 78901234567890123456789012345678901 23456789012345678901234567890123456 78901234567890123456 |
 | **zytologische Kontrolle** | ja |
 | **nach Entzündungsbehandlung** | nein |
 | **nach Östrogenbehandlung** | ja |
@@ -1006,15 +1004,13 @@ Zertifizierungsgegenstand.  verwendbar) -Testuntersuchung 1234567890123456- sign
 
 - 4. digitales Muster exportieren
 
-## 2.8 DIGITALES MUSTER 39
+## 2.8 DIGITALES MUSTER 39  IMPORT
 
 Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung der Bereich  **mit Import** beantragt wurde. Es muss abhängig vom Softwarehersteller der Prüffall 8_1 (PF08_1)
 
 der Prüffall 8_2 (PF08_2) eingereicht werden.
 
 **Prüffallnummer: PF08_1**
-
-**IMPORT**
 
 |  |  |
 |---|---|
@@ -1060,7 +1056,7 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag a **Export** beantr
 |  |  |
 |---|---|
 | **Testziel** | Export des LDT-Befundes. |
-| **Voraussetzung** | Sendendes Labor entspricht den Daten des Labors  Einsender bzw. Empfänger entspricht den Daten des Einsenders [Abschnitt 1.6.3  Versichertendatendaten: Eike Flüchtling [EV01] |
+| **Voraussetzung** | Sendendes Labor entspricht den Daten des Labors  Einsender bzw. Empfänger entspricht den Daten des Einsenders [ Stammdaten]  Versichertendatendaten: Eike Flüchtling [EV01] |
 | **Einzureichende  Prüfunterlagen** | Die exportierte LDT-Datei. |
 | **Hinweis** | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
 
@@ -1083,7 +1079,7 @@ Muster_39_Malta_3“ wird in den
 
 uf Zertifizierung der Bereich **LDT-Befund mit**
 
-Screenshots über den gesamten Ablauf. Es müssen der komplette Importvorgang sowie die Aufnahme bzw. Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersichtlich sein. Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen Verfügung. Stammdaten] [Abschnitt 1.6.3 Stammdaten] -
+Screenshots über den gesamten Ablauf. Es müssen der komplette Importvorgang sowie die Aufnahme bzw. Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersichtlich sein. Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen Verfügung. [Abschnitt 1.6.3 Stammdaten] Abschnitt 1.6.3 -
 
 
 ---
@@ -1178,6 +1174,8 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 | **Zytologische Kontrolle** | ja |
 | **Grund der Nachkontrolle** | nach Östrogenbehandlung |
 
+-
+
 ## EXPORT - Eike Flüchtling [EV01]
 
 Die exportierte LDT-Datei. **LDT-Befund-**
@@ -1198,9 +1196,9 @@ Die exportierte LDT-Datei. **LDT-Befund-**
 
 ## 2.11 LDT-BEFUND  IMPORT
 
-Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung der Bereich  **Import** beantragt wurde.
+Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung der Bereich **LDT-Befund mit**
 
-**LDT-Befund mit**
+**Import** beantragt wurde.
 
 **Prüffallnummer: PF09**
 
@@ -1240,17 +1238,26 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 | **Einzureichende  Prüfunterlagen ** |  |
 | **Hinweis** | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
 
-**Aktionen, die durch den Antragsteller durchgeführt werden.**
-
-- 1. Die, von der KBV bereitgestellte, LDT-
+- 1. Die, von der KBV bereitgestellte, LDT-Datei „z01PF09a.ldt“ wird importiert.
 
 - 2. Optional: Die importierten Daten müssen als LDT „LDT Befund mit Export“ beantragt oder hierfür bereits eine Zulassung hat. Dazu ist dem Befund ein
 
 - weiteres Untersuchungsergebnis der Zytologie Krebsvorsorge
 
-- Datei „z01PF09a.ldt“ wird importiert.
-
 - -Dateien exportiert werden, wenn der Antragsteller - hinzuzufügen.
+
+|  |  |
+|---|---|
+| **Testziel** | Export von LDT-Auftrag |
+| **Voraussetzung** | Einsender bzw. Sender des Auftrags entspricht den Daten des Einsenders  Versichertendatendaten: Eike Flüchtling [EV01] |
+| **Einzureichende  Prüfunterlagen** |  |
+| **Hinweis** | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
+
+- 1. Manuelle Erfassung der Versichertendaten von Eike Flüchtling [EV01]
+
+- 2. Erfassung der auftragsspezifischen Daten.
+
+**Aktionen, die durch den Antragsteller durchgeführt werden.**
 
 ## 2.12 LDT-AUFTRAG  EXPORT
 
@@ -1260,18 +1267,7 @@ Diese Prüffälle sind nur dann zu realisieren, wenn im Antrag auf Zertifizierun
 
 **Prüffallnummer: PF10**
 
-|  |  |
-|---|---|
-| **Testziel** | Export von LDT-Auftrag |
-| **Voraussetzung** | [Abschnitt 1.6.3 Stammdaten] |
-| **Einzureichende  Prüfunterlagen** |  |
-| **Hinweis** | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
-
 **Aktionen, die durch den Antragsteller durchgeführt werden.**
-
-- 1. Manuelle Erfassung der Versichertendaten von Eike Flüchtling [EV01]
-
-- 2. Erfassung der auftragsspezifischen Daten.
 
 | **FELDER** | **INHALT** |
 |---|---|
@@ -1283,8 +1279,7 @@ Diese Prüffälle sind nur dann zu realisieren, wenn im Antrag auf Zertifizierun
 | **Eingeschränkter Leistungsanspruch gemäß §16** | ja |
 | **Eintragung nur bei Weiterüberweisungbehandlung** | ja (Daten des Erstveranlassers) |
 
-Datei aufgenommen worden sein. Screenshots über den Ablauf.  Optional: Die importierten Daten müs sen als LDT-Befund exportiert werden, wenn der Antragsteller „LDT Befund mit Export“ beantragt oder hierfür bereits eine Zulassung hat. Einsender bzw. Sender des Auftrags entspricht den Daten des Einsenders Versichertendatendaten: Eike Flüchtling [EV01] Die exportierte LDT-Datei Behandlung Abs. 3a SGB V -
-
+Screenshots über den Ablauf.  Optional: Die importierten Daten müs sen als LDT-Befund exportiert werden, wenn der Antragsteller „LDT Befund mit Export“ beantragt oder hierfür bereits eine Zulassung hat. Datei aufgenommen worden sein. Die exportierte LDT-Datei [Abschnitt 1.6.3 Stammdaten] Behandlung Abs. 3a SGB V
 
 ---
 
@@ -1396,11 +1391,9 @@ Abbildung 4: Struktur des ZIP -Archives mit LDT-Befund-Export
 
 ---
 
-## 3.1 DIGITALES MUSTER 6
+## 3.1 DIGITALES MUSTER 6  EXPORT
 
 **Prüffallnummer: TE05**
-
-**EXPORT**
 
 |  |  |
 |---|---|
@@ -1492,11 +1485,9 @@ Digitales Muster 10 als PDF-Dokument für Malta Abschnitt 1.6.3 Prüfunterlagen 
 
 - 8. digitales Muster exportieren signieren
 
-## 3.3 DIGITALES MUSTER 10A
+## 3.3 DIGITALES MUSTER 10A  EXPORT
 
 **Prüffallnummer: TE02**
-
-**EXPORT**
 
 |  |  |
 |---|---|
@@ -1600,7 +1591,7 @@ Digitales Muster 39 als PDF-Dokument für Malta. Prüfunterlagen (vollständig/u
 |  |  |
 |---|---|
 | **Testziel** | Export des LDT-Befundes. |
-| **Voraussetzung** | Sendendes Labor entspricht den Daten des Labors [Abschnitt 1.6.3 Stammdaten]  Einsender bzw. Empfänger entspricht den Daten des Einsenders [Abschn Versichertendatendaten: Malta [XML_20] |
+| **Voraussetzung** | Sendendes Labor entspricht den Daten des Labors [Abschnitt 1.6.3 Stammdaten]  Einsender bzw. Empfänger entspricht den Daten des Einsenders [ Stammdaten]  Versichertendatendaten: Malta [XML_20] |
 | **Einzureichende** |  |
 | **Hinweis** | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
 
@@ -1711,13 +1702,13 @@ Wertes nach Norm Wertes  [Abschnitt 1.6.3 Stammdaten] Die exportierte LDT-Datei.
 | EXT_ITA_VGEX_LDT 3_0_X_Gesamtdokument | LDT 3.0 Satzbeschreibung |
 | DigitaleMuster.zip.XKM | PDF-Dateien der Digitalen Muster, |
 | LDK_LDT_Auftrag_Import_V01.zip  LDK_LDT_Befund_Import_V01.zip | LDT-Import Dateien |
-| 2 | eGK-XML Dateien XML_21 und |
+| VSD_5.2.0_Vn.n | eGK-XML Dateien XML_21 und |
 
 1 Der Schlüssel wird an Softwarehäuser ausgegeben, die ein vorliegendes die Zertifizierung Labordatenkommunikation).
 
 2 n.n= in der jeweils aktuellen Version
 
-VSD_5.2.0_Vn.n .zip (KV Hessen) Erklärung) Übertragungsweges verschlüsselt Optional XML_20 Zertifikat für eine Abrechnungskomponente haben (Voraussetzung für
+(KV Hessen) Erklärung) Übertragungsweges verschlüsselt Optional XML_20 Zertifikat für eine Abrechnungskomponente haben (Voraussetzung für
 
 
 ---

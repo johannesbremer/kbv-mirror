@@ -2,25 +2,25 @@ Name, Vorname der des Versicherten
 
 Ich empfehle Ihnen ein Training mit folgendem Schwerpunkt:
 
-Herz-Kreislaufsystem[ ]
+Herz-Kreislaufsystem
 
-Haltungs- und Bewegungssystem[ ]
+Haltungs- und Bewegungssystem
 
-Stressbewältigung und Entspannung[ ]
+Stressbewältigung und Entspannung
 
-Allgemeines Gesundheitstraining [ ]
+Allgemeines Gesundheitstraining
 
 Hinweise an die Übungsleitung:
-
-geb. am
-
-Datum
 
 # REZEPT FÜR
 
 # BEWEGUNG
 
+geb. am
+
 **Regelmäßige körperliche**  **Aktivität tut Ihnen und Ihrer**  **Gesundheit gut!**
+
+Datum
 
 Bewegung kann Krankheiten
 
@@ -67,13 +67,11 @@ Lange Sitzphasen vermeiden und Sitzen durch körperliche Aktivitäten unterbrech
 
 Mitteilung der Übungsleitung an den
 
-pro Woche
-
-Tage
-
 ZUSÄTZLICH
 
-Muskelkräftigende
+pro Woche Muskelkräftigende
+
+Tage
 
 B. funktions­
 
@@ -81,29 +79,27 @@ Aktivitäten, z.
 
 gymnastische Übungen  oder Bewegen von Lasten
 
-die Arzt Ärztin:
+die Arzt
 
 E-Mail: [gesundheit@dosb.de](mailto:gesundheit@dosb.de)
 
 Internet: gesundheit.dosb.de
 
-Ausdauerorientierte Bewegung,  die etwas anstrengend ist,
+Ausdauerorientierte Bewegung,
 
-z.. Nordic Walking, Tanzen,  B Skilanglauf
+die etwas anstrengend ist, z. B. Nordic Walking, Tanzen,  Skilanglauf
 
 ODER EINE KOMBINATION
 
-Ausdauerorientierte Bewegung,  gend ist,
+Ausdauerorientierte Bewegung,  strengend ist,
 
-die anstren . Laufen, schnelles Rad B
+die an B. Laufen, schnelles Rad ­fahren,
 
-fahren,
-
-z.
-
-schnelles Schwimmen
+z. schnelles Schwimmen
 
 **Koordination**
+
+Ärztin:
 
 pro Woche
 
@@ -111,16 +107,18 @@ Tage
 
 B. kleine Spaziergänge, Arbeiten im Stehen
 
-Ihr e Patient in hat an unserem  Bewegungsangebot teilgenommen.
-
-Stempel und Unterschrift des Vereins
-
 ZUSÄTZLICH
 
 Gleichge­wichts­übungen,
 
 für ältere Erwachsene
 
-ab 65 Jahren zur Sturz­ ntion­veprä
+ab 65 Jahren zur Sturz­ ­ventionprä
 
 Piktogramme: © DOSB/Sportdeutschland
+
+Ihr e Patient in hat an unserem
+
+Bewegungsangebot teilgenommen.
+
+Stempel und Unterschrift des Vereins

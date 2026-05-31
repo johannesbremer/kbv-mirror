@@ -132,61 +132,15 @@ Begegnung :: Unfall(Condition) -Patient
 
 Sonstige:: **Ringversuchszertifikat (Device)**
 
-Begegnung :: **Hausbesuch _Ort(Location)**
-
-Begegnung :: **Verordnung Arzneimittel (Medicationrequest )**
-
-Begegnung :: **Medikament (Medication )**
-
-# Ringversuchs-
-
--Patient
-
-# zertifikate
-
-Begegnung :: **Genetische Untersuchung (Procedure )**
-
--Patient -Vertragsaerztliche Abrechnung
-
-Begegnung :: **Verordnung Heilmittel (ServiceRequest )**
-
--Privatabrechnung
-
--Diagnose
-
--HzV_BesondereVersorgung _Selektiv -Patient
-
--BG-Abrechnung
-
-Begegnung :: **Ambulante _Operation_General(Procedure )**
-
--Patient
-
-Begegnung :: **Hilfsmittel(Device)**
-
-Begegnung :: **Verordnung Hilfsmittel (ServiceRequest )**
-
--Patient
-
-Sonstige:: **Krankenversicherungsverhaeltnis (Coverage)**
-
--Organisation
-
-Sonstige:: **Bezugsperson (RelatedPerson )**
-
-Begegnung :: **Ambulante _Operation(Procedure )**
-
-Begegnung :: **Verordnung Arbeitsunfähigkeit (ServiceRequest )**
-
--Patient
-
--Patient
-
 Begegnung :: **Kurgenehmigung , Kurverlaengerung (EligibilityResponse )**
 
 -Krankenversicherungsverhaeltnis
 
 Begegnung :: **Krankenbefoederung _Befoerderungsmittel _Lokation(** **Location)**
+
+Begegnung :: **Medikament (Medication )**
+
+Begegnung :: **Hilfsmittel(Device)**
 
 Begegnung :: **Kur_Antrag(EligibilityRequest )**
 
@@ -194,75 +148,95 @@ Begegnung :: **Kur_Antrag(EligibilityRequest )**
 
 Begegnung :: **Krankenbefoederung _Befoerderungsmittel (Device)**
 
-Begegnung:: **Kur(Procedure)**
+Begegnung :: **Verordnung Arzneimittel (Medicationrequest )**
+
+-Patient
+
+Begegnung :: -Diagnose -Patient
+
+Begegnung :: -Patient
+
+Begegnung :: **Verordnung Arbeitsunfähigkeit (ServiceRequest )**
 
 -Patient
 
 Begegnung :: **Krankenbefoerderung , Krankenbefoerderung -**
 
+**Verordnung Heilmittel (ServiceRequest )**
+
+**Verordnung Hilfsmittel (ServiceRequest )**
+
+Begegnung:: **Kur(Procedure)**
+
+-Patient
+
 **42019 (ServiceRequest )**
+
+Begegnung :: **Hausbesuch _Ort(Location)**
+
+Begegnung :: **Genetische Untersuchung (Procedure )**
+
+-Patient -Vertragsaerztliche Abrechnung -Privatabrechnung -HzV_BesondereVersorgung _Selektiv -BG-Abrechnung
+
+Begegnung :: **Ambulante _Operation_General(Procedure )**
+
+-Patient
+
+Begegnung :: **Ambulante _Operation(Procedure )**
+
+-Patient
+
+Begegnung :: **Impfung(Immunization )**
+
+# Ringversuchs- zertifikate
+
+Sonstige:: **Krankenversicherungsverhaeltnis (Coverage)**
+
+-Organisation
+
+Sonstige:: **Bezugsperson (RelatedPerson )**
+
+# Krankenversicherungsverhaeltnis
+
+Begegnung :: **Krebsfrueherkennung _Frauen_Zytologischer _Befund_Diverse(** **Observation )**
+
+Begegnung :: **Krebsfrueherkennung _Frauen_Zytologischer _Befund_Endozervikal** **e_Zellen(Observation )**
+
+Begegnung :: **Krebsfrueherkennung _Frauen_Auftrag(ServiceRequest )**
+
+-Patient -Begegnung
+
+Begegnung :: **Krebsfrueherkennung _Frauen_Gynaekologische _Operation(** **Procedure )**
+
+-Patient
+
+Begegnung :: **Krebsfrueherkennung _Frauen_Anamese_Diverse(** **Observation )**
+
+-Patient
+
+Begegnung :: **Krebsfrueherkennung _Frauen_Anamese_Hormonanwendung (** **Observation )**
+
+-Patient
+
+Begegnung :: **Krebsfrueherkennung _Frauen_Befund_Diverse(** **Observation )**
+
+-Patient
+
+Begegnung :: **Krebsfrueherkennung _Frauen_Befund_Diverse_Ab30(**
+
+**Observation )**
+
+-Patient
+
+Begegnung :: **Krebsfrueherkennung _Frauen_Gynaekologische _Diagnose(** **Observation )**
+
+-Patient
 
 -Patient
 
 Begegnung :: **Schwangerschaft (Observation )**
 
 -Patient
-
-Begegnung :: **Impfung(Immunization )**
-
-Sonstige:: **Vorsorgevollmacht (Consent)**
-
--Organisation -Bezugsperson
-
-# Krankenversicherungsverhaeltnis
-
-# Patient
-
-Sonstige:: **Dauermedikation (MedicationStatement )**
-
--Medikament
-
-Sonstige:: **Selektivvertrag (Contract)**
-
-Sonstige:: **Patient(Patient)**
-
-Begegnung :: -Patient
-
--Begegnung
-
-Begegnung :: **Krebsfrueherkennung _Frauen_Gynaekologische _Operation(**
-
--Patient
-
-Begegnung :: -Patient
-
-Begegnung :: **Krebsfrueherkennung _Frauen_Anamese_Hormonanwendung (**
-
--Patient
-
-Begegnung :: -Patient
-
-Begegnung :: **Krebsfrueherkennung _Frauen_Befund_Diverse_Ab30(**
-
--Patient
-
-Begegnung :: **Krebsfrueherkennung _Frauen_Gynaekologische _Diagnose(**
-
--Patient
-
-**Krebsfrueherkennung _Frauen_Auftrag(ServiceRequest )**
-
-**Procedure )**
-
-**Krebsfrueherkennung _Frauen_Anamese_Diverse(** **Observation )**
-
-**Observation )**
-
-**Krebsfrueherkennung _Frauen_Befund_Diverse(** **Observation )**
-
-**Observation )**
-
-**Observation )**
 
 Begegnung :: **Krebsfrüherkennung _Frauen(Composition )**
 
@@ -276,35 +250,39 @@ Begegnung :: **Krebsfrueherkennung _Maenner_Anamese_Diverse(**
 
 Begegnung :: **Krebsfrueherkennung _Maenner_Befund_Diverse(**
 
-Sonstige:: Anlage(DocumentReference ) -Patient -Begegnung
+**Behandlungsbaustein _Definition(PlanDefinition )**
 
--Betriebsstaette -Abrechnung _BG -Abrechnung _HzV_BesondereVersorgung _Selektiv -Abrechnung _privat
+**Observation )**
 
--Abrechnung _vertragsaerztlich -Behandlungsbaustein _Textvorlage -Observation _Anamnese -Observation_Bauchumfang
+**Observation )**
+
+Begegnung :: **Krebsfrueherkennung _Frauen_Auftrag_2020 (ServiceRequest )**
 
 Begegnung :: **Krebsfrüherkennung _Männer(Composition )**
 
--Patient
+-Patient -Behandelnder -Blutdruck
 
--Behandelnder -Blutdruck
+Sonstige:: Anlage(DocumentReference )
 
-**Observation )**
+-Patient -Begegnung -Betriebsstaette
 
--Observation _Befund -Observation _Blutdruck -Observation _Hueftumfang -Observation _Koerpergewicht
+-Abrechnung _BG -Abrechnung _HzV_BesondereVersorgung _Selektiv -Abrechnung _privat -Abrechnung _vertragsaerztlich -Behandlungsbaustein _Textvorlage
 
--Observation _Koerpergroesse -Observation _Koerpertemperatur -Observation _Puls
+-Observation _Anamnese -Observation_Bauchumfang -Observation _Befund -Observation _Blutdruck -Observation _Hueftumfang -Observation _Koerpergewicht -Observation _Koerpergroesse -Observation _Koerpertemperatur -Observation _Puls -Observation _Raucherstatus
 
-Sonstige::
+-Observation _Schwangerschaft -Diagnose
 
--Observation _Raucherstatus -Observation _Schwangerschaft -Diagnose -Allergie
+-Allergie -Behandlung _im_Auftrag_Ueberweisung -Unfall
 
--Behandlung _im_Auftrag_Ueberweisung -Unfall
+-Ueberweisung _KH-Einweisung -Notfall
 
-**Observation )**
+-Therapie -Untersuchung -Verordnung _Arbeitsunfaehigkeit
 
--Ueberweisung _KH-Einweisung -Notfall -Therapie
+-Verordnung _Arzneimittel -Verordnung _Heilmittel -Verordnung _Hilfsmittel -Kur -Krankenbefoerderung -Krebsfrueherkennung _Frauen -Krebsfrueherkennung _Maenner -Hausbesuch -Genetische _untersuchung -Ambulante _Operation_Genereal -Ringversuchszertifikat
 
--Untersuchung -Verordnung _Arbeitsunfaehigkeit -Verordnung _Arzneimittel -Verordnung _Heilmittel -Verordnung _Hilfsmittel -Kur -Krankenbefoerderung -Krebsfrueherkennung _Frauen -Krebsfrueherkennung _Maenner -Hausbesuch -Genetische _untersuchung -Ambulante _Operation_Genereal
+Sonstige:: **Vorsorgevollmacht (Consent)**
+
+-Organisation -Bezugsperson
 
 Sonstige:: **Notfallberechtigter (Consent)**
 
@@ -314,7 +292,11 @@ Sonstige:: **Patientenverfügung (Consent)**
 
 -Bezugsperson
 
-**Behandlungsbaustein _Definition(PlanDefinition )**
+Sonstige::
+
+# Patient
+
+Sonstige:: **Patient(Patient)**
 
 -Organisation -Behandelnder
 
@@ -326,11 +308,23 @@ Sonstige:: **Behandlungsbaustein _Baustein_Verordnung (ActivityDefinition )**
 
 Sonstige:: **Behandlungsbaustein _Baustein_Textvorlage (** **ActivityDefinition )**
 
-Sonstige:: -Person
+Sonstige::
+
+# Behandelnder
+
+Sonstige:: **Dauermedikation (MedicationStatement )**
+
+-Medikament
+
+Sonstige:: **Selektivvertrag (Contract)**
 
 -Organisation -Bezugsperson
 
-**Gesundheitspass (DocumentReference )**
+Sonstige:: **Gesundheitspass (DocumentReference )**
+
+-Person
+
+**Behandelnder (Practitioner )** Sonstige:: **BehandeldnerFunktion (PractitionerRole )**
 
 Sonstige:: **Termin(Appointment )**
 
@@ -344,23 +338,9 @@ Sonstige:: **Betriebsstaette (Organization )**
 
 Sonstige:: **Anforderung _Sprechstundenbedarf (SupplyRequest )**
 
--Behandelnder
-
-Begegnung :: **Krebsfrueherkennung _Frauen_Zytologischer _Befund_Diverse(** **Observation )**
-
-Begegnung :: **Krebsfrueherkennung _Frauen_Zytologischer _Befund_Endozervikal** **e_Zellen(Observation )**
-
-Begegnung :: **Krebsfrueherkennung _Frauen_Auftrag_2020 (ServiceRequest )**
-
--Ringversuchszertifikat
-
--Medikament
-
-Sonstige:: **Behandelnder (Practitioner )** Sonstige:: **BehandeldnerFunktion (PractitionerRole )**
+-Behandelnder -Medikament
 
 # Betriebsstätte
-
-# Behandelnder
 
 Begegnung :: **Krebsfrueherkennung _Frauen_Zytologischer _Befund_Gruppe(** **Observation )**
 
@@ -416,7 +396,7 @@ Begegnung :: **Krebsfrueherkennung _Frauen_HPV_Impfung_2020 (Observation )**
 
 -Patient
 
-Begegnung :: **Krebsfrueherkennung _Frauen_Anamese_Diverse(**
+Begegnung :: **Krebsfrueherkennung _Frauen_Anamese_Diverse(** **Observation )**
 
 -Patient
 
@@ -427,8 +407,6 @@ Begegnung :: **Krebsfrueherkennung _Frauen_Anamese_Hormonanwendung (**
 Begegnung :: **Krebsfrueherkennung _Frauen_Befund_Diverse(**
 
 -Patient
-
-**Observation )**
 
 **Observation )**
 

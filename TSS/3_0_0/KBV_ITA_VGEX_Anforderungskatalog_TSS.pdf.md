@@ -1,17 +1,15 @@
 \|  |
 \|---|
 
+\|  |
+\|---|
+
 # ANFORDERUNGSKATALOG  TERMINSERVICE
 
-## [KBV_ITA_VGEX_ANFORDERUNGSKATALOG_
+## [KBV_ITA_VGEX_ANFORDERUNGSKATALOG_TSS]
 
 |  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 19. DEZEMBER 2024   VERSION: 3.0.0   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
-
-TSS]
-
-\|  |
-\|---|
 
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
@@ -71,7 +69,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 | 2.0.1 | 10.01.2020 | KBV | Anpassung der Feldkennung | Vermeidung von | 11 |
 | 2.0.0 | 19.12.2019 | KBV | Aufnahme des Kapitels  Streichung der |  | 9ff.      7, 8 |
 
-Vermittlungscode bei Muster 6 und PTV 11 03 PTV 11 Vorgaben P4-04 und P4-05 4107 in 4114 und 4112 in 4115 Umsetzung der Spezifikation TSS-Abrechnungsinformation Übergangsregelung zur Terminservice- Schnittstellen konditionale Pflichtfunktion KP2- 513 in den KVDT- Anforderungskatalog Seiteneffekten beim Einsatz von alten Schnittstellen
+Terminservice- Schnittstellen Vermittlungscode bei Muster 6 und PTV 11 03 PTV 11 Vorgaben P4-04 und P4-05 4107 in 4114 und 4112 in 4115 Umsetzung der Spezifikation TSS-Abrechnungsinformation Übergangsregelung zur konditionale Pflichtfunktion KP2- 513 in den KVDT- Anforderungskatalog Seiteneffekten beim Einsatz von alten Schnittstellen
 
 ---
 
@@ -209,9 +207,7 @@ Um dem Patienten sowie dem empfangenden Arzt den Vermittlungscode mitzuteilen, m
 
 **Akzeptanzkriterium:**
 
-- 1. Die Software muss die zurückgegebenen Werte für den Vermittlungscode und URL des
-
-- Terminservices mit Angabe der Internetadresse des eTerminservice (www.116117.de) sowie die  bundesweit einheitlichen Rufnummer 116117 des Ärztlichen Notdiensts Bereitschaftsdienstes in die
+- 1. Die Software muss die zurückgegebenen Werte für den Vermittlungscode und URL des  Terminservices mit Angabe der Internetadresse des eTerminservice (www.116117.de) sowie die  bundesweit einheitlichen Rufnummer 116117 des Ärztlichen Notdiensts Bereitschaftsdienstes in die
 
 - erste Zeile des Feldes „Auftrag“ auf Muster 6 drucken.
 
@@ -666,7 +662,7 @@ Parametern Nachname und Vorname kann eine Phonetische Suche verwendet und alle p
 | [Spec_Vermittlungscode] | Spezifikation „Spezifikation 116117    „   Diese Dokumente werden in dem  update/TSS/3_0_0   bereitgestellt. |
 | [Spec_Abrechnungsinformation] | Spezifikation „Spezifikation 116117    „Technische Anlage zur Spezifikation    Diese Dokumente werden in dem  update/TSS/3_0_0   bereitgestellt. |
 
-Connect“ in der stets aktuellen Version  Connect/ bereitgestellt. -Connect Anwendungsdienst eTerminservice“ in der stets aktuellen Version   -Connect Anwendungsdienst eTerminservice Abrechnungsinformation“ in der stets aktuellen Version   Vermittlungscode“ in der stets aktuellen Version _116117 Terminservice “ in der stets aktuellen Version Verzeichnis https://update.kbv.de/ita- in der stets aktuellen Version _116117 Terminservice Abrechnungsinformation“ in der stets aktuellen Version Verzeichnis https://update.kbv.de/ita-  TSS-# NTE
+Connect“ in der stets aktuellen Version  Connect/ bereitgestellt. -Connect Anwendungsdienst eTerminservice“ in der stets aktuellen Version   -Connect Anwendungsdienst eTerminservice  TSS- Abrechnungsinformation“ in der stets aktuellen Version   Vermittlungscode“ in der stets aktuellen Version _116117 Terminservice “ in der stets aktuellen Version Verzeichnis https://update.kbv.de/ita- in der stets aktuellen Version _116117 Terminservice Abrechnungsinformation“ in der stets aktuellen Version Verzeichnis https://update.kbv.de/ita-# NTE
 
 
 ---

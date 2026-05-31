@@ -116,7 +116,9 @@ Tabelle 12: KBV_EX_KS_PsychotherapySetting Tabelle 13: KBV_EX_KS_PsychotherapyAg
 
 # DOKUMENTENHISTORIE
 
-Die Änderungen der Version 2.00 muss spätestens ab dem 01.07.2026 zum Einsatz kommen, kann aber  direkt eingesetzt werden.
+Die Änderungen der Version 2.00 muss spätestens ab dem 01.07.2026 zum Einsatz kommen, kann aber
+
+direkt eingesetzt werden.
 
 | **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
@@ -148,9 +150,9 @@ d. R. die Verwaltung und Speicherung der
 
 en
 
-dem Praxisverwaltungssystem heraus 1
+dem Praxisverwaltungssystem heraus
 
-Patienten-, Arzt - und -Systeme,
+Patienten-, Arzt1 - und -Systeme,
 
 uch die jeweilige
 
@@ -561,7 +563,7 @@ plz  wird nicht als Filter in der Suche verwendet. Mit der Postleitzahl wird die
 
 Tabelle 15: Suchparameter für PractitionerRole
 
-Das Kapitel „2.21.0.15.1 Variant Searches“ aus
+Das Kapitel „2.21.0.15.1 Variant Searches“ aus [FHIR®_RESTful-API] wird nicht durch den Webservice
 
 Kollegensuche unterstützt.
 
@@ -573,9 +575,7 @@ Der Webservice-Kollegensuche beantwortet die Anfrage mit folgenden Statuscodes u
 | Die Suche war erfolgreich. Eine Suche | 200 | Im http-Body wird eine FHIR®- |
 | Die Suche konnte nicht ausgeführt | 500 | Eine Ressource vom Typ |
 
-[FHIR®_RESTful-API] wird nicht durch den Webservice
-
-gesetzt werden. HREN.  GRUPPE.  G.  MIGUNGEN.  gilt auch dann als erfolgreich, wenn für die übergebenen Suchparameter eine leere Ergebnismenge vorliegt. werden oder die FHIR®- ANTWORT Ressource vom Typ Bundle erstellt mit Bundle.type = searchset. Die Suchergebnisse finden sich als entsprechende FHIR®-Ressourcen im Element Bundle.entry. Die Übersendung einer Ressource vom Typ OperationOutcome ist nicht umzusetzen. OperationOutcome (siehe 3.5
+gesetzt werden. HREN.  GRUPPE.  G.  MIGUNGEN.  ANTWORT gilt auch dann als erfolgreich, wenn für die übergebenen Suchparameter eine leere Ergebnismenge vorliegt. werden oder die FHIR®- Ressource vom Typ Bundle erstellt mit Bundle.type = searchset. Die Suchergebnisse finden sich als entsprechende FHIR®-Ressourcen im Element Bundle.entry. Die Übersendung einer Ressource vom Typ OperationOutcome ist nicht umzusetzen. OperationOutcome (siehe 3.5
 
 ---
 
@@ -668,7 +668,7 @@ Die folgenden Interaktionen der [FHIR®_RESTful-API] -Spezifikation sind vom PVS
 
 - history (Kapitel 2.21.0.18 aus [FHIR®_RESTful-API])
 
-- transaktion (Kapitel 2.21.0.17 „batch/transaction“ aus [FHIR®_RESTful-API])
+- transaktion (Kapitel 2.21.0.17 „batch/transaction“ aus
 
 - delete (Kapitel „2.21.0.13 delete“ aus [FHIR®_RESTful-API])
 
@@ -680,7 +680,8 @@ Der Webservice-Kollegensuche bietet kein Paging an. Die Vorgaben aus [FHIR®] Ka
 
 aus [FHIR®_RESTful-API] sind nicht umgesetzt.
 
-wird übergeben. wird übergeben. ANTWORT CapabilityStatement. CapabilityStatement.
+ANTWORT wird übergeben. wird übergeben. CapabilityStatement. CapabilityStatement. - [FHIR®_RESTful-API])
+
 
 ---
 

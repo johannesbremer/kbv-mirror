@@ -42,7 +42,7 @@ Antragsteller ist die juristische oder natürliche Person, die für die Einhaltu
 | **Telefonnummer** |  | | |
 | **E-Mail-Adresse** |  | | |
 
-Rechtsform anzugeben] Systempfleger vom Antragsteller abweicht] [ ] [ ] [ ]8. Dezember 2024
+Rechtsform anzugeben] Systempfleger vom Antragsteller abweicht] 8. Dezember 2024
 
 
 ---
@@ -76,7 +76,7 @@ Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werd
 | ☐ | Windows | ☐ | Mac OS | ☐ | Linux |
 | ☐ | iOS/Android | ☐ | Sonstige | | |
 
-Antragstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]8. Dezember 2024
+Antragstellers Stellen der Prüfnummer, falls vorhanden] 8. Dezember 2024
 
 
 ---
@@ -98,9 +98,7 @@ Folgende optionale Funktionen wurden umgesetzt:
 | **O35-35** | Festlegung der ausstellenden Person zum Signaturzeitpunkt | ☐ |
 | **O62-04** | Zwei Patientenausdrucke einer Person auf einem DIN-A4-Blatt | ☐ |
 
-8. Dezember 2024
-
-[ ] Verordnung digitaler Gesundheitsanwendungen nach § 33a SGB V erfüllt sind. NUMMER BITTE ANKREUZEN [ ][ ]
+Verordnung digitaler Gesundheitsanwendungen nach § 33a SGB V erfüllt sind. NUMMER BITTE ANKREUZEN 8. Dezember 2024
 
 
 ---

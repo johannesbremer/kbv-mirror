@@ -78,13 +78,11 @@ Notfallmanagement
 
 Inhalationsgerät
 
-ja
+ja nein
 
 nein
 
 ***(ggf. Beiblatt nutzen)***
-
-nein
 
 Logopädie
 
@@ -96,6 +94,8 @@ pro Tag
 
 Notfallversorgung
 
+**62C**
+
 Ergotherapie
 
 Physiotherapie
@@ -103,6 +103,8 @@ Physiotherapie
 Befeuchtung
 
 passiv
+
+aktiv
 
 Medikament/
 
@@ -114,16 +116,10 @@ Flow l/min h/tgl.
 
 Häufigkeit Dauer
 
-tgl. wtl. mtl. vom
+tgl. wtl. mtl. vom bis
 
 ärztliche Unterschrift
 
 PRF.NR.
 
-Muster 62Cc/E (1.2023)
-
-**62C**
-
-aktiv
-
-Flow             l/min Flow             l/min Mobilitätbis
+Flow             l/min Flow             l/min MobilitätMuster 62Cc/E (1.2023)

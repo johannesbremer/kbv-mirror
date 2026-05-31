@@ -1,6 +1,4 @@
-# PRÜFPAKET EDMP -RHEUMATOIDE
-
-# ARTHRITIS
+# PRÜFPAKET EDMP -RHEUMATOIDE  ARTHRITIS
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_EDMP_RHEUMATOIDE ARTHRITIS]
 
@@ -25,69 +23,117 @@ Seite 1 von 30 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.03 / 1
 
 **ALLGEMEINES**
 
+**4**
+
 1.1 Rechtsgrundlage
+
+4
 
 1.2 Zertifizierungsablauf
 
+4
+
 1.3 Zertifizierungsportal
+
+5
 
 1.4 Zertifizierungsdokumente
 
+5
+
 1.5 Prüfunterlagen
 
-1.6 Prüfvorgaben  1.6.1 Schnittstellenversionen 1.6.2 Datumseingaben
+5
+
+1.6 Prüfvorgaben
+
+7
+
+1.6.1 Schnittstellenversionen
+
+7
+
+1.6.2 Datumseingaben
+
+7
 
 1.6.3 Prüfstammdaten
 
+7
+
 1.6.4 Versichertendaten
+
+7
 
 1.6.5 Praxisdaten/ Arztstempel
 
+8
+
 1.6.6 Krankenhausdaten
+
+8
 
 1.6.7 Prüfnummer
 
-1.6.8 Stammdatei der Datenannahmestellen (SDDA)
+8
 
-1.6.9 Auflistung der Prüffälle
+1.6.8 Stammdatei der Datenannahmestellen (SDDA) 9
+
+1.6.9 Auflistung der Prüffälle 9
 
 **PRÜFFÄLLE**
 
-2.1 Prüffälle Dokumentation  2.1.1 Prüffall 7211 2.1.2 Prüffall 7212
+**10**
+
+2.1 Prüffälle Dokumentation
+
+10
+
+2.1.1 Prüffall 7211
+
+10
+
+2.1.2 Prüffall 7212
+
+13
 
 2.1.3 Prüffall 7220
 
-2.2 Prüffall Systemreaktion  2.2.1 Prüffall 7214
+16
 
-2.3 Weitere Prüffälle zum Anforderungskatalog 2.3.1 Prüffall 7230
+2.2 Prüffall Systemreaktion
+
+20
+
+2.2.1 Prüffall 7214
+
+20
+
+2.3 Weitere Prüffälle zum Anforderungskatalog 24
+
+2.3.1 Prüffall 7230
+
+24
 
 2.3.2 Prüffall 7240
 
+26
+
 **TESTDATENVALIDIERUNG**
-
-**ANHANG**
-
-4.1 Prüffall 10  Ersatzverfahren
-
-**REFERENZIERTE DOKUMENTE**
-
-Version: 1.03 / 15. August 2025
-
-**4**
-
-4  4  5  5  5  7  7  7  7  7  8  8  8  9  9
-
-**10**
-
-10  10  13  16  20  20  24  24  26
 
 **27**
 
+**ANHANG**
+
 **28**
 
-28
+4.1 Prüffall 10  Ersatzverfahren 28
+
+**REFERENZIERTE DOKUMENTE**
 
 **29**
+
+Version: 1.03 / 15. August 2025
 
 
 ---
@@ -130,23 +176,25 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 |  |  |  | zu verwenden). |
 | 08.11.2022 | KBV | Dokumenterstellung | Initiale Erstellung |
 
-Prüffall 7240
+6
 
-/ Version: 1.03 / 15. August 2025
+6  27
 
-Barcodeversion ab  1.1.2025
+27
 
 **Seite**
 
 26
 
-7  2.1   20
+Prüffall 7240
 
-24
+Barcodeversion ab  1.1.2025 7  2.1   20   24
 
 2.1
 
-Alle 6  6  27  27
+Alle
+
+/ Version: 1.03 / 15. August 2025
 
 
 ---
@@ -277,11 +325,9 @@ einem gesonderten Ordner „**Dokumentation**“ übermittelt werden und folgend
 
 entsprechen. Diese werden durch den Prüfer begutachtet.
 
-1
+PrüffallNr. 1_[lfdNr.]2 3
 
-2 3
-
-PrüffallNr. _[lfdNr.] .*  Teilnahmeerklärung (Prüffall 7240): TE_EWE_RA.pdf   Alle Prüfunterlagen (RA-Unterlagen und der Ordner „Dokumentation“) sind in einem ZIP-Archiv zu
+Teilnahmeerklärung (Prüffall 7240): TE_EWE_RA.pdf   Alle Prüfunterlagen (RA-Unterlagen und der Ordner „Dokumentation“) sind in einem ZIP-Archiv zu
 
 übermitteln. Die RA-Unterlagen werden direkt in dem Hauptverzeichnis übertragen und nicht gesondert  in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Der Ordner
 
@@ -1461,11 +1507,11 @@ Je nach Auswahl des  Patienten 1,68 m
 
 120 / 90 mmHg
 
-Keine der genannten  Erkrankungen
+Keine der genannten  Erkrankungen - bzw.
 
 **Aktion**
 
-Nr. 1 - bzw.
+Nr. 1
 
 
 ---
@@ -1962,9 +2008,9 @@ KBV_ITA_VGEX_Schnittstelle_eHeader
 
 XPM-Paket_RA
 
-XPM-Paket_DM2 4
+XPM-Paket_DM2
 
-Austausch_von_XML-Daten_Vn.nn.ZIP
+Austausch_von_XML-Daten_Vn.nn.ZIP4
 
 KBV_ITA_RLEX_Zert
 
@@ -1972,9 +2018,9 @@ KBV_ITA_FMEX_AAZ_eDMP_RA
 
 Stammdateien
 
-KBV-Kryptomodul (XKM) und öffentlicher Test schlüssel 5
+KBV-Kryptomodul (XKM) und öffentlicher Test schlüssel
 
-VSD_Testfaelle_DMP_Vn.n.zip
+VSD_Testfaelle_DMP_Vn.n.zip5
 
 KBV_ITA_VGEX_Schnittstelle_SDDA
 

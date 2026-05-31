@@ -1,4 +1,8 @@
+**Kostenträgerkennung**
+
 **Name, Vorname des Versicherten**
+
+**Versicherten-Nr.**
 
 **III. Krankenbehandlung und andere Maßnahmen**
 **A. Bisherige ärztliche/psychotherapeutische Interventionen einschließlich Arzneimittel-/Heilmitteltherapie**
@@ -13,7 +17,7 @@
 
 **V. Zuweisungsempfehlungen** **A. Empfohlene Leistungsform: Medizinische Vorsorge für Mütter oder Väter nach § 24 SGB V als**
 
-**Mütter-Leistung** **Väter-Leistung**
+**Mütter-Leistung**
 
 **B. Angaben zu Kindern, die mit aufgenommen werden sollen** **Name des Kindes**
 
@@ -37,51 +41,41 @@
 
 **C. Sonstiges***** (z. B. besondere Hinweise zur Reisefähigkeit, ggf.***
 
-***er Regie)***
-
-***en bei Behandlungsbedürftigkeit, chronischer Erkran*** ***nden Kinderarzt)***
-
-***richtung, Einrichtung nur für Frauen, Hinweise für***
-
-**Kostenträgerkennung**
-
-**Mutter-Kind-Leistung**
-
-**Geburtsdatum**
-
-***vorliegende Schwangerschaft)***
-
 **D. Rückruf erbeten unter Telefon-Nummer**
 
 **Für das Ausstellen der ärztlichen Verordnung** **ist die Nr. 01624 EBM berechnungsfähig**
 
 **Ausfertigung für den Arzt**
 
+**PRF.NR.** **Muster 64 Bb/E (10.2018)**
+
 **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
 
-**Versicherten-Nr.**
+***er Regie)***
 
-**64 Teil B**
+**Väter-Leistung**
+
+**Geburtsdatum**
+
+***en bei Behandlungsbedürftigkeit, chronischer Erkran*** ***nden Kinderarzt)***
+
+***richtung, Einrichtung nur für Frauen, Hinweise für***
+
+***vorliegende Schwangerschaft)***
 
 ***Funktionstraining, Wahrnehmung von Beratungs- und***
 
-**Vater**
+**Mutter-Kind-Leistung**
 
-**-Kind-Leistung**
-
-**s. Attest Kind** **Belastete**
+**s. Attest Kind**
 
 **insbes. bei** **Behandlungs-**
 
-**notwendigkeit***
-
-**Psychosoziale** **Gründe/**
-
-**Mutter-/**
-
 **Betreuung**
 
-**Vater-Kind-** **Beziehung** **notwendig**
+**Vater-Kind-** **Beziehung**
+
+**notwendigkeit***
 
 ***kung, Behinderung oder bei psychischen***
 
@@ -91,4 +85,12 @@
 
 **Vertragsarztstempel / Unterschrift des Arztes**
 
-**PRF.NR.** **Muster 64 Bb/E (10.2018)**
+**64 Teil B**
+
+**Vater-Kind-Leistung**
+
+**Belastete** **Psychosoziale** **Gründe/**
+
+**Mutter-/**
+
+**notwendig**

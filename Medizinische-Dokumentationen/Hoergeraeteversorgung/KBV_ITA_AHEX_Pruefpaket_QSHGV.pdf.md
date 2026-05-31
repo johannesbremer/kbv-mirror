@@ -144,9 +144,13 @@ Alle erforderlichen Unterlagen stehen im Internet zum Download unter ITA-Update 
 
 ## 1.5 PRÜFUNTERLAGEN
 
-Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet: - 1
+Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:
 
--  Eine Archivdatei (*.zip.XKM) , welche die einzelnen XML-Dateien im entsprechenden Verzeichnis  enthält. Die Vorgaben für die Bildung der Dateinamen, die Verzeichnisstruktur und die weiteren  Angaben entnehmen Sie bitte folgender Quelle: [KBV_ITA_VGEX_XML-Schnittstellen] (im Archiv
+- , welche die einzelnen XML-Dateien im entsprechenden Verzeichnis
+
+-  Eine Archivdatei (*.zip.XKM)1
+
+- enthält. Die Vorgaben für die Bildung der Dateinamen, die Verzeichnisstruktur und die weiteren  Angaben entnehmen Sie bitte folgender Quelle: [KBV_ITA_VGEX_XML-Schnittstellen] (im Archiv
 
 - „Austausch von XML-Daten“) Kapitel 3.4 „Dateinamen“. Die XML-Dateien müssen fehlerfrei gegen das  jeweils aktuelle, von der KBV vorgegebene, Prüfschema validierbar sein. Die Daten können nur über das  Zertifizierungsportal hochgeladen und geprüft werden.
 
@@ -926,7 +930,7 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  andere andere
 
 | **APHAB-BOGEN** |  |  |
 |---|---|---|
-| **Frage** | Verordnung | Nach |
+| **Frage** | (Vor) | Nach |
 | Frage 1: Wenn ich in einem belebten Lebensmittelgeschäft mit der | A | G |
 | Frage 2: Es entgeht mir viel Information, wenn ich einen Vortrag anhöre. | A | D |
 | Frage 3: Unerwartete Geräusche, wie einen Rauchmelder oder eine | B | F |
@@ -943,7 +947,7 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  andere andere
 | **Prüffall-ID** | 5610 | Testziel |
 | Kontrolle der optionalen Funktionen K1 | KBV_ITA_VGEX_Anforderungskatalog_QSHGV | ) |
 | **Voraussetzung** | Nur zu bearbeiten, wenn in der Software die Parameter | **Prüfunterlagen** |
-| der Hörfähigkeit) automatisch anhand der APHAB-Berechnungsvorschrift |  | ) ermittelt wird |
+| Screenshots für den Prüffall 5602 zum Nachweis, dass der Nutzen (Verbesserung |  | ) ermittelt wird |
 | **Hinweis** |  |  |
 |  |  |  |
 |  |  |  |
@@ -957,10 +961,10 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  andere andere
 | **Prüffall-ID** | 5610 |
 | Testziel | Kontrolle der optionalen Funktionen K1 KBV_ITA_VGEX_Anforderungskatalog_QSHGV) |
 | **Voraussetzung** | Nur zu bearbeiten, wenn in der Software die Parameter |
-| **Prüfunterlagen** | der Hörfähigkeit) automatisch anhand der APHAB-Berechnungsvorschrift  ) ermittelt wird |
+| **Prüfunterlagen** | Screenshots für den Prüffall 5602 zum Nachweis, dass der Nutzen (Verbesserung  ) ermittelt wird |
 | **Hinweis** |  |
 
--95 und K1-96 (siehe und Berechnungen im Rahmen der APHAB-Dokumentation implementiert sind Screenshots für den Prüffall 5602 zum Nachweis, dass der Nutzen (Verbesserung (EXT_ITA_AHEX_Berechnung_APHAB_QSHGV PRÜFFALL 5610 (KONDITIONAL Anlegen einer Vor Verordnung und einer Verordnung: Kassiererin spreche, kann ich dem Gespräch folgen. Alarmanlage, empfinde ich als unangenehm laut. Familienangehörigen zu folgen. verstehen. Familienmitglieder dabei unterhalten habe ich Mühe, die Nachrichten zu verstehen. mit einer Person unterhalten möchte, ist es für mich schwierig, zu verstehen. großen leeren Raumes befindet, verstehe ich seine Worte. beantworte, habe ich Schwierigkeiten, dem Gespräch zu folgen. herum flüstern und mit Papier rascheln, kann ich dem Dialog immer noch folgen. unterhalte, habe ich Schwierigkeiten, zu verstehen. (Vor)
+-95 und K1-96 (siehe und Berechnungen im Rahmen der APHAB-Dokumentation implementiert sind der Hörfähigkeit) automatisch anhand der APHAB-Berechnungsvorschrift (EXT_ITA_AHEX_Berechnung_APHAB_QSHGV PRÜFFALL 5610 (KONDITIONAL Anlegen einer Vor Verordnung und einer Verordnung: Kassiererin spreche, kann ich dem Gespräch folgen. Alarmanlage, empfinde ich als unangenehm laut. Familienangehörigen zu folgen. verstehen. Familienmitglieder dabei unterhalten habe ich Mühe, die Nachrichten zu verstehen. mit einer Person unterhalten möchte, ist es für mich schwierig, zu verstehen. großen leeren Raumes befindet, verstehe ich seine Worte. beantworte, habe ich Schwierigkeiten, dem Gespräch zu folgen. herum flüstern und mit Papier rascheln, kann ich dem Dialog immer noch folgen. unterhalte, habe ich Schwierigkeiten, zu verstehen. Verordnung Verordnung
 
 ---
 

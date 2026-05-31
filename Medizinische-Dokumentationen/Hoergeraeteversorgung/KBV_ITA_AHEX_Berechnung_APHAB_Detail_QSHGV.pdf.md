@@ -217,12 +217,8 @@ G
 
 E=75% ("gelegentlich"), F=87% ("selten"), G=99% ("nie")
 
-H - ("häufig")
+H
 
-- Feld H46)
+N O P Q R -
 
-N O -
-
-- , D=50%  ("zur Hälfte")
-
-P Q R
+- ("häufig"), D=50%  ("zur Hälfte") - Feld H46)

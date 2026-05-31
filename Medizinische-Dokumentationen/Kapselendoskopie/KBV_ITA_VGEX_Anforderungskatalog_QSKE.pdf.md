@@ -31,20 +31,33 @@ le  Pflichtfunktion KP2-264 P1-266: Neu aufgenommen KIM als Übertragungs- P1-26
 
 ---
 
-INHALTSVERZEICHNIS
+### DOKUMENTENHISTORIE
 
-### DOKUMENTENHISTORIE INHALTSVERZEICHNIS ABBILDUNGSVERZEICHNIS
-**1** **QUALITÄTSSICHERUNGSVEREINBARUNG KAPSELENDOSKOPIE 5**
+### FEHLER! TEXTMARKE NICHT DEFINIERT.
+
+### INHALTSVERZEICHNIS
+
+**3**
+
+### ABBILDUNGSVERZEICHNIS
+
+**4**
+
+**1** **QUALITÄTSSICHERUNGSVEREINBARUNG KAPSELENDOSKOPIE**
+
+**5**
 
 **1.1** **Zielbestimmung ............................................................................................................................. 5**
 
-**1.2** **Pflichtfunktionen und optionale Funktionen der Software**
+**1.2** **Pflichtfunktionen und optionale Funktionen der Software** **....................................................... 5**
 
 **2** **ÄRZTLICHES DOKUMENTIEREN**
 
+**6**
+
 **2.1** **Allgemeine Vorgaben .................................................................................................................... 6**
 
-2.1.1 Vollständigkeit der Eingaben aller Bewegungsdaten
+2.1.1 Vollständigkeit der Eingaben aller Bewegungsdaten ............................................................ 6
 
 2.1.2 Plausibilitäten ......................................................................................................................... 7
 
@@ -64,19 +77,9 @@ INHALTSVERZEICHNIS
 
 **3** **REFERENZIERTE DOKUMENTE**
 
-### FEHLER! TEXTMARKE NICHT DEFINIERT.
-
-**3**
-
-**4**
-
-**....................................................... 5**
-
-**6**
-
-............................................................ 6
-
 **12**
+
+INHALTSVERZEICHNIS
 
 
 ---
@@ -180,11 +183,13 @@ Korrekturen.
 
 - 31.03
 
+### Melde-
+
 ### Untersuchungsjahr
 
-Abbildung 1: Berichtszeiträume
+### quartal
 
-### Melde- quartal
+Abbildung 1: Berichtszeiträume
 
 Kapselendoskopie - 30.06
 
@@ -197,9 +202,7 @@ Kapselendoskopie - 30.06
 |---|---|
 | **P1-30** | **Arztbezug** |
 
-Die QSKE-Jahresstatistik umfasst alle Leistungen im Rahmen von QSKE eines Arztes. D.h.  jeder berechtigte Arzt in einer Gemeinschaftspraxis muss seine QSKE-Jahresstatistik erstel-
-
-len.
+Die QSKE-Jahresstatistik umfasst alle Leistungen im Rahmen von QSKE eines Arztes. D.h.  jeder berechtigte Arzt in einer Gemeinschaftspraxis muss seine QSKE-Jahresstatistik erstel- len.
 
 Die Betriebsstättennummer (BSNR) und die lebenslange Arztnummer (LANR) des Anwen- ders sind in der QSKE-Dokumentation zu erfassen.
 
@@ -345,8 +348,8 @@ Es sind folgende Import-Status möglich:
 | **Status** | **Beschreibung** |
 |---|---|
 | OK | Die Datei wurde erfolgreich importiert. |
-| Datei existiert bereits | cher Zuordnung (ID, BSNR, LANR) vorhanden ist. |
-| Fehlgeschlagen | gespeichert werden konnte. Es handelt sich entweder um Plausibi- |
+| Datei existiert bereits | Die Datei wurde nicht importiert, da bereits ein Datensatz mit glei- |
+| Fehlgeschlagen | Beim Import der Datei sind Fehler aufgetreten, weshalb diese nicht |
 
 Die E-Mail KIM-Nachricht mit der Rückmeldung wird an die Absender – Adresse geschickt,  von der aus der Anwender (Arzt) die exportierten Dateien über KV-Connect KIM übermittelt  hat.
 
@@ -362,7 +365,7 @@ Das PVS kann muss dem Anwender den Importstatus diese Rückmeldungs-E-Mail in ge
 
 -Verfahren gemäß der
 
-Die Datei wurde nicht importiert, da bereits ein Datensatz mit glei- Beim Import der Datei sind Fehler aufgetreten, weshalb diese nicht litätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. P1-20) übermittelt. -
+cher Zuordnung (ID, BSNR, LANR) vorhanden ist.  gespeichert werden konnte. Es handelt sich entweder um Plausibi- litätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. P1-20) übermittelt. -
 
 
 ---

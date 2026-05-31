@@ -10,15 +10,15 @@ lungs-
 
 pflicht
 
+geb. am
+
 Unfall- folgen
 
 Kostenträgerkennung Versicherten-Nr.
 
-BVG
-
-geb. am
-
 Status
+
+BVG
 
 Betriebsstätten-Nr. Arzt-Nr.
 
@@ -106,9 +106,9 @@ o psychologische/  heilpädagogische Leistungen  (incl. evtl. psychosozialer Lei
 
 __ BE o je Monat
 
-__ BE o je Monat (im Bewilligungszeitraum)
+__ BE o je Monat
 
-__ BE
+__ BE (im Bewilligungszeitraum)
 
 Für die Abrechnung IK-Kennzeichen Leistungserbringer
 

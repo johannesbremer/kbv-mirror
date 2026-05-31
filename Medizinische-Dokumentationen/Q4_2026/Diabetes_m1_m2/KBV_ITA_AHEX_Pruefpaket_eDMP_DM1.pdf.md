@@ -174,7 +174,7 @@ DOKUMENTENHISTORIE
 |  |  |  | 1.21 | 30.06.2023 | KBV  Anpassung der Prüffälle an    Überarbeitung des Testfalls  Schnittstellenversion 5.0 Prüffallszenarien für die |
 |  |  |  |  | 29 |  |
 
-Schnittstellenversionen 5.08 5530 übergreifenden Prüffälle an 4.06 5530 Schnittstellenversionen 5.0 7 5530 Dokumentationen im Prüffall 5514 und 5515. Prüffälle. Umsetzung der übergreifenden Teilnahmeerklärung ist ab 01.10.2026 zu verwenden Barcodeversion (03) ab 1.10.2026 4.06 ist ab 01.04.2023 zu verwenden 7 ist ab 01.10.2023 zu verwenden neuen Anforderungen KP1- 210 und KP2-220 der übergreifenden Prüffälle. ist ab 01.04.2023 zu verwenden. im Anforderungskatalog.
+Schnittstellenversionen 5.08 ist ab 01.10.2026 zu verwenden Barcodeversion (03) ab 1.10.2026 5530 übergreifenden Prüffälle an 4.06 ist ab 01.04.2023 zu verwenden 4.06 5530 7 Schnittstellenversionen 5.0 7 ist ab 01.10.2023 zu verwenden neuen Anforderungen KP1- 5530 210 und KP2-220 Dokumentationen im Prüffall 5514 und 5515. Prüffälle. der übergreifenden Prüffälle. ist ab 01.04.2023 zu verwenden. im Anforderungskatalog. Umsetzung der übergreifenden Teilnahmeerklärung
 
 ---
 
@@ -196,7 +196,7 @@ Schnittstellenversionen 5.08 5530 übergreifenden Prüffälle an 4.06 5530 Schni
 | 1.12 | 15.02.2018 | KBV | Anpassung der Prüffälle an  Aufnahme eines Testfalls für | Schnittstellenversion 5.01 | Alle          Testfallv |
 | 1.11 | 23.05.2017 | KBV | Komplettüberarbeitung des | Aktualisierung der  Neue Schnittstellenversion | Alle |
 
-Corporate Design Schnittstellenversionen 5.05 ist ab 01.07.2021 zu verwenden Schnittstellenversionen 5.04 ist ab 01.04.2021 zu verwenden Schnittstellenversionen 5.03 ist ab 01.04.2019 zu Schnittstellenversionen 5.01 und 5.02 Zertifizierung Schnittstellenversionen 5.00 und 5.01 die Testdatenvalidierung zur verwenden ist ab 01.07.2018 zu verwenden Zertifizierungsportales  ist ab 01.04.2018 zu verwenden ist ab 01.07.2018 zu Prüfpaketes verwenden Zertifizierungsrichtlinie ab 01.07.2017 alidierun
+Corporate Design Schnittstellenversionen 5.05 ist ab 01.07.2021 zu verwenden Schnittstellenversionen 5.04 ist ab 01.04.2021 zu verwenden Schnittstellenversionen 5.03 ist ab 01.04.2019 zu verwenden Schnittstellenversionen 5.01 ist ab 01.07.2018 zu und 5.02 verwenden Zertifizierung Zertifizierungsportales  Schnittstellenversionen 5.00 ist ab 01.04.2018 zu und 5.01 verwenden die Testdatenvalidierung zur ist ab 01.07.2018 zu alidierun verwenden Prüfpaketes Zertifizierungsrichtlinie ab 01.07.2017
 
 ---
 
@@ -294,11 +294,7 @@ Die geforderten Videomitschnitte, Screenshots sowie die Teilnahmeerklärung (Pr�
 
 einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.
 
-- 1
-
-- 2 3
-
--  [PrüffallNr.] _[lfdNr.] .*
+- [PrüffallNr.]1_[lfdNr.]2 3
 
 - Teilnahmeerklärung (Prüffall 5540): TE_EWE_DM1.pdf
 
@@ -988,12 +984,12 @@ das Diabetische Fußsyndrom qualifizierten Einrichtung
 |  |  |
 |---|---|
 | **Prüffall-ID** | 5514 |
-| **Testziel** | manche Fehleingaben nicht möglich sind. |
+| **Testziel** | Kontrolle der softwareseitigen Erkennung von Fehleingaben |
 | **Voraussetzung** | Patient oder Patientin ist mindestens 18 Jahre alt |
 | **Prüfunterlagen** | Dokumentieren Sie durch Video(s) die Eingaben nach einer möglichen    Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
-| **Hinweis** | sind. |
+| **Hinweis** | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben |
 
-Kontrolle der softwareseitigen Erkennung von Fehleingaben Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert. Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben  bzw. Prüfung, dass Prüffall 5514 Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten: Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation  DATEN Informationsangebote der Krankenkasse
+manche Fehleingaben nicht möglich sind. Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert. Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. sind.  bzw. Prüfung, dass Prüffall 5514 Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten: Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation  DATEN Informationsangebote der Krankenkasse
 
 ---
 
@@ -1219,9 +1215,9 @@ mellitus Typ 1 zu spezifischen Parametern die Möglichkeit, sich die erläuternd
 |  | |
 |---|---|
 | **Prüffall-ID** | 5540 |
-| **Testziel** | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
+| **Testziel** | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP  ) |
 | **Voraussetzung** |  |
-| **Prüfunterlagen** | Einwilligungserklärung |
+| **Prüfunterlagen** | PDF-Datei „TE_EWE_DM1.pdf“ |
 | **Hinweis** | Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
@@ -1241,7 +1237,7 @@ Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 | DMP-Fallnummer | 1010 |
 | Datum | 15.10.2026 |
 
-Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP PDF-Datei „TE_EWE_DM1.pdf“  der indikationsübergreifenden Teilnahme- und indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
+(KBV_ITA_VGEX_Anforderungskatalog_eDMP  der indikationsübergreifenden Teilnahme- und Einwilligungserklärung  indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
 
 ---
 
@@ -1439,7 +1435,7 @@ und Georg-von-Groscurth-Plaetzchen
 | KBV_ITA_VGEX_Schnittstelle_SDKT | Datensatzbeschreibung SDKT |
 | KBV-Kryptomodul (XKM) und öffentlicher | KBV-Kryptomodul |
 | Stammdateien | Im Rahmen der Prüfung sind die regulären KBV- |
-| VSD_Testfaelle_DMP_Vn.n.zip 4 | eGK Daten |
+| VSD_Testfaelle_DMP_Vn.n.zip4 | eGK Daten |
 | XPM-Paket_DM1 | Prüfmodul DM1 |
 
 4 n.n steht für die aktuelle Versionsnummer, zum Beispiel 1. 1 4 / 31. März 2026

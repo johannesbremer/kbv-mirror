@@ -152,21 +152,21 @@ Ankündigung
 
 Kommentierung 20.10.2025-
 
+Kommentierungszeitraum 01.11.2025 inkl.
+
+Heute
+
+Kommentierungsworkshops
+
 Einvernehmen KIG,
 
 Benehmensherstellung
 
 Umsetzung Mitte März 2026 -
 
-Kommentierungszeitraum 01.11.2025 inkl.
-
 Vorstandsbeschluss Januar -
 
 Dezember - Januar 01.10.2026
-
-Heute
-
-Kommentierungsworkshops
 
 März
 
@@ -359,9 +359,11 @@ März
 
 ## WP 5.1
 
-## - Allgemeine Anforderungen - betreffen die Leistung der Systeme, die Zugangs- und
+## - Allgemeine Anforderungen - betreffen die Leistung der Systeme, die Zugangs
 
 ## - Kontrollrechte natürlicher Personen, die Sicherheit, die Integrität und die Anweisungen für die  Bereitstellung, die Installation und die Betriebsverfahren.
+
+- - und
 
 ## - Beispiele für verpflichtende Anforderungen(Übersetzt)
 
@@ -371,9 +373,9 @@ März
 
 - Das System muss die Korrektur von Fehlern in aufgezeichneten oder gespeicherten
 
-## - elektronischen personenbezogenen Gesundheitsdaten im EHR-System ermöglichen. Eine
+## - elektronischen personenbezogenen Gesundheitsdaten im EHR solche Korrektur darf nur von einer ordnungsgemäß autorisierten Person vorgenommen  werden und muss protokolliert werden.
 
-## - solche Korrektur darf nur von einer ordnungsgemäß autorisierten Person vorgenommen  werden und muss protokolliert werden.
+- -System ermöglichen. Eine
 
 - **ÜBERBLICK EUROPA EHDS**
 
@@ -386,9 +388,7 @@ März
 
 - Das System muss die Korrektur von Fehlern in aufgezeichneten oder gespeicherten
 
-## - elektronischen personenbezogenen Gesundheitsdaten im EHR-System ermöglichen. Eine
-
-## - solche Korrektur darf nur von einer ordnungsgemäß autorisierten Person vorgenommen  werden und muss protokolliert werden.
+## - elektronischen personenbezogenen Gesundheitsdaten im EHR solche Korrektur darf nur von einer ordnungsgemäß autorisierten Person vorgenommen  werden und muss protokolliert werden.
 
 - Das System muss Risikowarnsysteme umfassen, die eine Priorisierung von Warnungen mit
 
@@ -403,6 +403,8 @@ März
 ## - noch ihre Leistungsfähigkeit einbüßen.
 
 - **ÜBERBLICK EUROPA EHDS**
+
+- -System ermöglichen. Eine
 
 
 ---

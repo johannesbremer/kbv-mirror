@@ -48,7 +48,8 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 / Version: 5.6 / 17. Mai 2024
 
-Rechtsform anzugeben] vorhanden] Systempfleger vom Antragsteller abweicht] [ ] [ ] [ ]
+Rechtsform anzugeben] vorhanden] Systempfleger vom Antragsteller abweicht]
+
 
 ---
 
@@ -89,13 +90,14 @@ vorhanden) des Zertifizierungsgegenstandes an.
 
 / Version: 5.6 / 17. Mai 2024
 
-Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
+Antragsstellers Stellen der Prüfnummer, falls vorhanden]
+
 
 ---
 
-# 2
+# 2 REALISIERUNG VON ANFORDERUNGEN
 
-## 2.1
+## 2.1 ANGABEN ZUM ZERTIFIZIERUNGSGEGENSTAND
 
 Bitte kreuzen Sie zutreffendes an (Mehrfachnennungen sind möglich):
 
@@ -114,7 +116,7 @@ Bitte kreuzen Sie zutreffendes an (Mehrfachnennungen sind möglich):
 |---|---|
 | ☐ | Eine werbehaltige Version des Zertifizierungsgegenstandes ist vorhanden. |
 
-**2.2**
+**2.2** **PFLICHTFUNKTIONEN UND KONDITIONALE PFLICHTFUNKTIONEN**
 
 |  |  |
 |---|---|
@@ -122,15 +124,9 @@ Bitte kreuzen Sie zutreffendes an (Mehrfachnennungen sind möglich):
 | ☐ | Der Softwareverantwortliche versichert, dass alle konditionalen Pflichtfunktionen des |
 | ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen der Technischen Anlage für die |
 
-# REALISIERUNG VON ANFORDERUNGEN
-
-## ANGABEN ZUM ZERTIFIZIERUNGSGEGENSTAND
-
-## PFLICHTFUNKTIONEN UND KONDITIONALE PFLICHTFUNKTIONEN
-
 / Version: 5.6 / 17. Mai 2024
 
-[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] nach § 73 SGB V für Verordnungssoftware/Arzneimitteldatenbanken erfüllt sind. Anforderungskatalogs nach § 73 SGB V für Verordn sind. Übermittlung von elektronischen Arzneimittelverordnungen erfüllt sind. ichtfunktionen des Anforderungs ungssoftware/Arzneimitteldaten katalogs banken erfüllt
+nach § 73 SGB V für Verordnungssoftware/Arzneimitteldatenbanken erfüllt sind. Anforderungskatalogs nach § 73 SGB V für Verordn sind. Übermittlung von elektronischen Arzneimittelverordnungen erfüllt sind. ichtfunktionen des Anforderungs ungssoftware/Arzneimitteldaten katalogs banken erfüllt
 
 ---
 
@@ -153,7 +149,7 @@ Folgende optionale Funktionen wurden umgesetzt:
 | **O4-130** | Weitere Controllingprogramme | ☐ |
 | **O4-140** | Preiszuordnung bei Wirkstoffverordnung | ☐ |
 
-NUMMER -A4- Blatt BITTE ANKREUZEN [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]/ Version: 5.6 / 17. Mai 2024
+NUMMER -A4- Blatt BITTE ANKREUZEN / Version: 5.6 / 17. Mai 2024
 
 
 ---

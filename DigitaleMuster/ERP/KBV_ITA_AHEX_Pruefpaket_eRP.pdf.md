@@ -110,7 +110,7 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
 | 3.0 | 26.05.2023 | KBV | Verwendung der neuen FHIR    Aufnahme des Prüffalls PF08 |  | 10-20      15 |
 | 2.0 | 17.12.2021 | KBV | Klarstellung der Verwendung    Klarstellung in PF07    Verwendung der neuen FHIR | Vereinheitlichung der      Ablauf der Gültigkeit der | alle      14    10-20 |
 
-einzureichenden Prüfunterlagen die Profilversion 1.3.2 Profile in der Version 1.1.0 dieses Prüfpakts Profile in der Version 1.0.2 Wertevorgaben zu Arztnamen Verfahren AMV und eRezept Profile Version 1.0.1
+einzureichenden Prüfunterlagen die Profilversion 1.3.2 Wertevorgaben zu Arztnamen Profile in der Version 1.1.0 dieses Prüfpakts Verfahren AMV und eRezept Profile in der Version 1.0.2 Profile Version 1.0.1
 
 
 ---
@@ -223,11 +223,11 @@ sowie bei ausgewählten Prüffällen eine signierte Datei eingereicht werden mus
 
 ---
 
-- <PrüffallNr.> .xml  1
+- <PrüffallNr.>1
 
 - 1 Nr. des Prüffalls
 
-- <PrüffallNr.>_[lfdNr.].pdf  z.B. PF01_01.pdf - z.B. PF01.xml
+- <PrüffallNr.>_[lfdNr.].pdf  z.B. PF01_01.pdf - .xml  z.B. PF01.xml
 
 - <PrüffallNr.>.p 7s  z.B. PF01.p7s
 

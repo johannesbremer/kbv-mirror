@@ -57,15 +57,15 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 **Telefonnummer**
 
+Arzt/Ärztin
+
 **E-Mail-Adresse**
 
 Seite 2 von 11 / KBV / Antrag auf Zertifizierung Blankoformularbedruckung / Version: 4.8 / 15. Mai 2024
 
-Arzt/Ärztin [ ]
+Softwarehaus
 
-Softwarehaus [ ]
-
-Sonstiges [ ]
+Sonstiges
 
 
 ---
@@ -94,15 +94,11 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls
 
 Bitte geben Sie im Folgenden an, welche Client
 
-Windows  [ ]
+Windows
 
-iOS/Android  [ ]
+iOS/Android
 
 Antragssteller:
-
-[ ]
-
-[ ]
 
 Mac OS
 
@@ -112,62 +108,16 @@ vorhanden) des Zertifizierungsgegenstandes an.
 
 -Betriebssysteme unterstützt werden.
 
-[ ]
-
 Linux
 
 
 ---
 
-2
+2 REALISIERUNG VON ANFORDERUNGEN
 
-**2.1**
+**2.1** **ANGABEN DER MUSTER**
 
 Bitte kreuzen Sie die Muster an, die zu zertifizieren sind:
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-## REALISIERUNG VON ANFORDERUNGEN
-
-**ANGABEN DER MUSTER**
 
 Muster 02
 
@@ -256,42 +206,6 @@ anerkannte
 
 ---
 
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
 Muster 26
 
 Muster 27
@@ -316,7 +230,9 @@ Muster 56
 
 Muster 61
 
-Muster 62A   Muster 62B  Muster 62C
+Muster 62A
+
+Muster 62B  Muster 62C
 
 Muster 63
 
@@ -379,35 +295,13 @@ Folge-Behandlungsplan für Maßnahmen zur künstlichen Befruchtung gemäß § 27
 
 Bitte kreuzen Sie die Psychotherapie-Muster an, die zu zertifizieren sind:
 
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
 Bitte kreuzen Sie die KV-spezifischen-Muster (jeweils ohne Barcode) an, die zu zertifizieren sind:
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
 
 **2.2**
 
 Unter Beachtung der Vorgaben zur jeweils gültigen Version “Vordruck Blanko Blankoformularbedruckung“ bzw. „Technisches Handbuch BFB (PTV)“ wird bestätigt:
 
-[ ]
-
 **2.3**
-
-[ ]
 
 PTV 1
 
@@ -470,13 +364,11 @@ Antragssteller:
 
 **2.4** **BARCODE**
 
-[ ]
-
-Der Barcode PDF 417 wird bei den vertragsärztlichen Formularen gemäß Vorgabe zu den jeweiligen  Mustern erzeugt (außer Formulare der Psychotherapie) und wird an definierter Stelle ausgedruckt.
+Der Barcode PDF 417 wird bei den vertragsärztlichen Formularen gemäß Vorgabe zu den jeweiligen   Mustern erzeugt (außer Formulare der Psychotherapie) und wird an definierter Stelle ausgedruckt.
 
 **2.5**  **SICHERHEITSPAPIER**
 
-Die Anwender werden darüber informiert, dass im Rahmen der BFB nur Sicherheitspapier  [ ] verwendet werden darf, sofern in der Vordruckvereinbarung nichts anderes festgelegt wird (außer
+Die Anwender werden darüber informiert, dass im Rahmen der BFB nur Sicherheitspapier   verwendet werden darf, sofern in der Vordruckvereinbarung nichts anderes festgelegt wird (außer
 
 bei PTV und diversen KV-spezifischen Formularen).
 

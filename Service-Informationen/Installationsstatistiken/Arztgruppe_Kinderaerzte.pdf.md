@@ -34,195 +34,145 @@
 
 **Anbieter**
 
-CompuGroup Medical Deutschland AG
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-INDAMED EDV-Entwicklung und Vertrieb GmbH
-
-CompuGroup Medical Deutschland AG
-
-medatixx GmbH & Co. KG
-
-medatixx GmbH & Co. KG
-
-Dedalus HealthCare GmbH
-
-medatixx GmbH & Co. KG
-
-T 2med GmbH & Co. KG
-
-Zollsoft GmbH
-
-CompuGroup Medical Deutschland AG
-
-SAP SE
-
-Frey ADV GmbH
-
-CompuGroup Medical Deutschland AG 1
-
-**Installationen 2.Q.2025**
-
-704
-
-628
-
-405
-
-354
-
-340
-
-326
-
-300
-
-252
-
-233
-
-197
-
-177
-
-135
-
-127
-
-**Installationen 1.Q.2025**
+CompuGroup Medical Deutschland AG 704
 
 721
 
-571
-
-427
-
-363
-
-319
-
-332
-
-300
-
-236
-
-221
-
-202
-
-179
-
-141
-
-127
-
-**Differenz**
-
 -17
+
+INDAMED EDV-Entwicklung und Vertrieb GmbH 628 571
 
 57
 
+CompuGroup Medical Deutschland AG 405
+
+427
+
 -22
+
+medatixx GmbH & Co. KG 354
+
+363
 
 -9
 
+medatixx GmbH & Co. KG 340
+
+319
+
 21
+
+Dedalus HealthCare GmbH 326
+
+332
 
 -6
 
+medatixx GmbH & Co. KG 300
+
+300
+
 0
+
+T 2med GmbH & Co. KG 252
+
+236
 
 16
 
+Zollsoft GmbH 233
+
+221
+
 12
+
+CompuGroup Medical Deutschland AG 197
+
+202
 
 -5
 
+SAP SE 177
+
+179
+
 -2
+
+Frey ADV GmbH 135
+
+141
 
 -6
 
+CompuGroup Medical Deutschland AG 127
+
+127
+
 0
+
+1
 
 
 ---
 
 **Id Praxissoftware**
 
-086 **DURIA**
-
-226 **CGM MEDICO**
-
-266 **x.comfort**
-
-135 **EL - Elaphe Longissima**
-
-314 **IMedOne**
-
-261 **S 3-Win**
-
-083 **PegaMed**
-
 **Anbieter**
 
-Duria eG
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-CGM Clinical Europe GmbH
+086 **DURIA**
 
-medatixx GmbH & Co. KG
-
-medatixx GmbH & Co. KG
-
-Deutsche Telekom Clinical Solutions GmbH
-
-S 3 Praxiscomputer GmbH / Maximilian Flender
-
-PEGA Elektronik GmbH 2
-
-**Installationen 2.Q.2025**
-
-106
-
-95
-
-80
-
-80
-
-77
-
-65
-
-57
-
-**Installationen 1.Q.2025**
+Duria eG 106
 
 107
 
-98
-
-81
-
-84
-
-72
-
-63
-
-57
-
-**Differenz**
-
 -1
+
+226 **CGM MEDICO**
+
+CGM Clinical Europe GmbH 95
+
+98
 
 -3
 
+266 **x.comfort**
+
+medatixx GmbH & Co. KG 80
+
+81
+
 -1
+
+135 **EL - Elaphe Longissima**
+
+medatixx GmbH & Co. KG 80
+
+84
 
 -4
 
+314 **IMedOne**
+
+Deutsche Telekom Clinical Solutions GmbH 77 72
+
 5
+
+261 **S 3-Win**
+
+S 3 Praxiscomputer GmbH / Maximilian Flender 65 63
 
 2
 
+083 **PegaMed**
+
+PEGA Elektronik GmbH 57
+
+57
+
 0
+
+2

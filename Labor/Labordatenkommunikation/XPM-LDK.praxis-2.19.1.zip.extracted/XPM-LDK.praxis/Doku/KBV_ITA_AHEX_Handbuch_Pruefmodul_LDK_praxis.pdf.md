@@ -7,14 +7,14 @@
 \| Kassenärztliche Bundesvereinigung |
 \| Version  Datum:  Klassifizierung:  Extern |
 
-KBV_ITA_AHEX_Handbuch_Pruefmodul -Lewin-Platz 2 Status: 1.0.4 28.01.2024 In Kraft © Kassenärztliche Bundesvereinigung, Berlin 2024
+KBV_ITA_AHEX_Handbuch_Pruefmodul -Lewin-Platz 2 1.0.4 28.01.2024 Status: In Kraft © Kassenärztliche Bundesvereinigung, Berlin 2024
 
 
 ---
 
 **XPM-LDK.praxis**
 
-**D OKUM**
+**D OKUM E NT E NHI S T OR I E**
 
 | **Version ** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
@@ -23,8 +23,6 @@ KBV_ITA_AHEX_Handbuch_Pruefmodul -Lewin-Platz 2 Status: 1.0.4 28.01.2024 In Kraf
 | 1.0.2 | 03.08.2017 | KBV | Einfügen der Javaklasse  „XPMEinstieg“ |  | **22** |
 | 1.0.1 | 15.06.2017 | KBV | Anpassung der Beschrei-  Einfügung eines Hinweises |  | **23  24** |
 | 1.0.0 | 15.05.2017 | KBV | Initiale Erstellung |  | **all** |
-
-**E NT E NHI S T OR I E**
 
 Java-Version aktualisiert im Abschnitt 4.2 aktualisiert bung der Datumsprüfung bei der Beschreibung der Prüfungen
 
@@ -306,7 +304,7 @@ StartPruefung .sh VerzeichnisPruefung.sh
 
 **XPM-LDK.praxis**
 
-| Digitales Muster | -c, -x, -f  v, -h | StartPruefungDigitaleMuster.bat und |
+| Digitales Muster | -c, -x, -f  Optional: -e, -s, -m, - | StartPruefungDigitaleMuster.bat und |
 |---|---|---|
 | Digitales Muster mit | -s, -x, -e, -m, -c | VerzeichnisPruefungDigitaleMuster.bat  VerzeichnisPruefungDigitaleMuster.sh |
 | Abgleich zwischen |  | StartPruefungDigitaleMusterVsLDT.bat  StartPruefungDigitaleMusterVsLDT.sh |
@@ -345,7 +343,7 @@ Bei eingeschalteter Option –m wird die geprüfte Datei mit Status ‘ok’ in 
 
 **pruefdaten**“ festgelegt.
 
-Optional: -e, -s, -m, - Verzeichnisprüfung Optional: -h, -v digitalem Muster und -c, -y, -f StartPruefung DigitaleMuster.sh **okdaten**
+v, -h Verzeichnisprüfung Optional: -h, -v digitalem Muster und -c, -y, -f StartPruefung DigitaleMuster.sh **okdaten**
 
 
 ---
@@ -769,9 +767,9 @@ de.kbv.pruefmodul.GUI. LDK
 
 Der Befehl ‘java’ startet die virtuelle Maschine von Java.
 
-Der Parameter ‘–Xmx300m’ erlaubt der Java Laufzeitumgebung einen Hauptspeicher
+‘–Xmx300m’ erlaubt der Java Laufzeitumgebung einen Hauptspeicher
 
-von bis zu 300 MB zu reservieren. Diese Option garantiert einen stabilen Programmlauf  bei Abrechnungsdateien in der Größenordnung bis ca. 300 MB.
+Der Parameter  von bis zu 300 MB zu reservieren. Diese Option garantiert einen stabilen Programmlauf  bei Abrechnungsdateien in der Größenordnung bis ca. 300 MB.
 
 Der Parameter ‘-Dfile.encoding=8859_15’ stellt den entsprechenden Zeichensatz
 

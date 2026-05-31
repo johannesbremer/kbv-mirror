@@ -43,7 +43,6 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 hnet.
 
-[ ] [ ] [ ]
 
 ---
 
@@ -58,7 +57,7 @@ Nur anzugeben, wenn abweichend von Abschnitt 1.1.
 | **Straße und Hausnummer** |  |
 | **PLZ, Ort** |  |
 
-## 1.3 ZERTIFIZIERUNGSGEGENSTAND
+## 1.3
 
 Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizierungsgegenstandes an.
 
@@ -66,6 +65,8 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizie
 |---|---|
 | **Bezeichnung** |  |
 | **Identnummer [die letzten drei  Stellen der Prüfnummer, falls  vorhanden]** |  |
+
+## ZERTIFIZIERUNGSGEGENSTAND
 
 ## 1.4
 
@@ -78,23 +79,15 @@ Bitte geben Sie im Folgenden an, welche Client
 
 ## BETRIEBSSYSTEME
 
-[ ]
-
-2
+2 REALISIERUNG VON ANFORDERUNGEN
 
 |  |  |
 |---|---|
 | ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen des Kapitels 2 „Umsetzung der Spezifikation  Der Antragsteller nimmt die Anforderung KP2-505 des Anforderungskataloges KVDT |
 
-[ ]
-
-# REALISIERUNG VON ANFORDERUNGEN
-
-[ ]
-
 -Betriebssysteme unterstützt werden.
 
-[ ] [ ] [ ] - 116117 Terminservice Vermittlungscode“ und des Kapitels 3 „Umsetzung der Bedruckung“ des Anforderungskataloges [KBV_ITA_VGEX_Anforderungskatalog_TSS] umgesetzt sind. [KBV_ITA_VGEX_Anforderungskatalo g_KVDT] zur Kenntnis.
+- 116117 Terminservice Vermittlungscode“ und des Kapitels 3 „Umsetzung der Bedruckung“ des Anforderungskataloges [KBV_ITA_VGEX_Anforderungskatalog_TSS] umgesetzt sind. [KBV_ITA_VGEX_Anforderungskatalo g_KVDT] zur Kenntnis.
 
 ---
 

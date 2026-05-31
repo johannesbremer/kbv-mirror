@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**23. MAI 2026**
+**30. MAI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -30,7 +30,7 @@
 |---|---|---|---|---|
 |  | Y/400/2409/37/754 | 30.09.2027 | Rohdaten MMI |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 23. Mai 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 30. Mai 2026
 
 Y/400/2504/36/062
 
@@ -80,17 +80,11 @@ Y/400/2602/35/346
 
 MMI PHARMINDEX 31.12.2028 ifap praxisCENTER
 
-30.09.2028
+30.09.2028 ifap praxisCENTER
 
-30.06.2026
+ifap praxisCENTER 30.06.2026 Rohdaten ID PHARMA
 
-31.12.2028
-
-ifap praxisCENTER
-
-ifap praxisCENTER Rohdaten ID PHARMA
-
-Rohdaten MMI
+31.12.2028 Rohdaten MMI
 
 Windows
 
@@ -488,13 +482,11 @@ Y/400/2601/36/422
 
 Y/400/2507/36/494 30.09.2028 Rohdaten ABDAMED
 
-30.06.2029
+Rohdaten MMI 30.06.2029 Rohdaten MMI
 
-31.12.2028
+Rohdaten ABDAMED 31.12.2028 MMI PHARMINDEX
 
-Rohdaten MMI Rohdaten MMI
-
-Rohdaten ABDAMED MMI PHARMINDEX 30.06.2028 MMI PHARMINDEX
+30.06.2028 MMI PHARMINDEX
 
 Windows
 
@@ -688,4 +680,4 @@ AiDKlinik Universitätsklinikum Heidelberg Im Neuenheimer Feld 410 69120 Heidelb
 |  | Y/400/2604/36/457 | 31.03.2029 | Rohdaten MMI |  |
 |  | Y/400/2510/36/768 | 30.09.2028 | Rohdaten MMI |  |
 
-tomedo Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de tomedo.air Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Mac OS Mac OS WindowsSeite 22 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 23. Mai 2026
+tomedo Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de tomedo.air Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Mac OS Mac OS WindowsSeite 22 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 30. Mai 2026

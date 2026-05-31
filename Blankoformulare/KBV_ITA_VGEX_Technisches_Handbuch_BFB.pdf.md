@@ -95,7 +95,11 @@
 
 15  15  16
 
-18  18  19  19  21  21  24  24  25  25  26  26  28  28  31  34  37  37  38  38  45  52  59  59
+18  18  19  19  21  21  24  24  25  25  26  26  28 28  31  34  37  37  38  38
+
+45  52  59
+
+59
 
 
 ---
@@ -245,13 +249,25 @@
 
 106  106  106  107  107  107
 
--Codewörter
-
 107  107  107
 
 **111**
 
-111  111  112  112  112  112  112  114  114  115  116  118  118  122  123  124  125  125  126  127  128  129
+111  111  112
+
+112  112  112  112
+
+114  114
+
+115
+
+116
+
+118
+
+-Codewörter
+
+118  122  123  124  125  125  126  127  128  129
 
 **142**
 
@@ -283,45 +299,47 @@ Tabelle 5: Barcode Inhalt 111  113  113
 
 Die Änderungen vom 15.08.2025 (Version 4.72) und 14.11.2025 (Version 4.73 grün markiert) treten zum  01.01.2026 in Kraft.
 
-**Version**
+**Version Datum**
+
+**Autor Änderung**
+
+**Begründung**
+
+**Seite**
 
 4.73
 
+14.11.2025 KBV Aktualisierung der Anforde-
+
+109
+
+rung P4.8-50
+
+Klarstellung Muster 2a und 15, 16
+
+2b
+
 4.72
 
-4.71
+15.08.2025 KBV Aktualisierung des Musters 9 26
+
+zu 9a 4.71
+
+16.08.2024 KBV Redaktionelle Korrektur der 38, 45, 52,
+
+Formularversion von Muster 66
+
+12 und 21 (grün markiert)
 
 4.70
 
-4.69
+15.05.2024 KBV Anpassung der möglichen 13ff
 
-4.68
+DMP-Kennzeichen 4.69
 
-4.67
+11.04.2024 KBV Redaktionelle Korrektur der 38, 45, 52
 
-4.66
-
-4.65
-
-4.64
-
-4.63
-
-4.62
-
-4.61
-
-**Datum**
-
-14.11.2025
-
-15.08.2025
-
-16.08.2024
-
-15.05.2024
-
-11.04.2024
+Bemerkung zu den Barcode- Feldern 58 und 59 auf Mus- ter 12 4.68
 
 | 15.02.2024 | KBV | Aktualisierung der Muster 12 |  |
 |---|---|---|---|
@@ -330,144 +348,104 @@ Die Änderungen vom 15.08.2025 (Version 4.72) und 14.11.2025 (Version 4.73 grün
 |  |  | und 10L |  |
 | 15.05.2023 | KBV | Streichung des Barcodes in | Muster 20c/E ist gemäß |
 
-14.11.2022
+38, 45, 52,  66
 
-22.09.2022
+4.67
 
-05.07.2022
+28, 31
+
+4.66
+
+Muster 20c/E
+
+Anlage 2a BMV-Ä nicht  mit einem Barcode ver- sehen.
+
+4.65
+
+14.11.2022 KBV Redaktionelle Korrektur von 106
+
+Kapitel 4.2
+
+Anpassung von P4.8-50 109, 38
+
+4.64
+
+22.09.2022 KBV
+
+91
+
+Aktualisierung des Musters 56
+
+Anpassung von P4.8-50 109
+
+4.63
+
+05.07.2022 KBV Einführung Muster 62 94
+
+4.62
 
 | 01.04.2022 | KBV | Aktualisierung des Musters |  |
 |---|---|---|---|
 |  |  | 61 |  |
-| 11.08.2021 | KBV | Streichung des Musters 1 | Einführung der eAU |
-
-**Autor**
-
-KBV
-
-KBV
-
-KBV
-
-KBV
-
-KBV
-
-KBV
-
-KBV
-
-KBV
-
-**Änderung**
-
-Aktualisierung der Anforde- rung P4.8-50   Klarstellung Muster 2a und  2b
-
-Aktualisierung des Musters 9  zu 9a
-
-Redaktionelle Korrektur der  Formularversion von Muster  12 und 21 (grün markiert)
-
-Anpassung der möglichen  DMP-Kennzeichen
-
-Redaktionelle Korrektur der  Bemerkung zu den Barcode- Feldern 58 und 59 auf Mus- ter 12
-
-Muster 20c/E
-
-Redaktionelle Korrektur von  Kapitel 4.2  Anpassung von P4.8-50
-
-Aktualisierung des Musters 56  Anpassung von P4.8-50
-
-Einführung Muster 62
-
-**Begründung**
-
-Anlage 2a BMV-Ä nicht  mit einem Barcode ver- sehen.
-
-**Seite**
-
-109
-
-15, 16
-
-26
-
-38, 45, 52,  66
-
-13ff
-
-38, 45, 52
-
-38, 45, 52,  66
-
-28, 31
-
-106   109, 38
-
-91   109
-
-94
+| 11.08.2021 | KBV | Streichung des Musters 1 | 45,EinführungdereAU |
 
 92, 93
 
-10, 38, 45,  52
+4.61
+
+Einführung der eAU 10, 38, 45,  52
 
 
 ---
 
 **Version**
 
+| **Datum** | **Autor** | **Änderung** | **Begründung** |
+|---|---|---|---|
+| 16.02.2021 | KBV | Erweiterung der DMP-Kenn- | Einführung der Disease- |
+
 4.60
 
 4.59
 
-4.58
-
-4.57
-
-4.56
-
-4.55
-
-4.54
-
-| **Datum** | **Autor** | **Änderung** | **Begründung** |
-|---|---|---|---|
-| 16.02.2021 | KBV | Erweiterung der DMP-Kenn- | Einführung der Disease - |
-
 09.12.2020
+
+4.58
 
 | 13.11.2020 | KBV | Aktualisierung des Musters |  |
 |---|---|---|---|
 |  |  | 39 |  |
 | 03.09.2020 | KBV | Wiedereinsetzung der Ände- | Verschiebung des In- |
 
+4.57
+
+4.56
+
 03.09.2020
 
+4.55
+
 12.08.2020
+
+4.54
 
 12.05.2020
 
 zeichnung und Anpassung  der Version von Muster 1, 2,  3, 4, 6, 8, 8A, 9, 10, 10L, 10A,  11, 12, 13, 15, 19, 20, 21, 25,  26, 27, 28, 36, 39, 50, 51, 52,  53, 55, 56, 61, 63, 64, 65, 70  und 70A
 
-KBV
+Klarstellung der Bedruckung  des verkürzten Personalien-
 
-KBV
+felds
 
-KBV
-
-KBV
-
-Klarstellung der Bedruckung  des verkürzten Personalien- felds
-
-Anpassung von Kapitel 1
+KBV Anpassung von Kapitel 1
 
 rungen vom 21.01.2020  (Version 4.53)
 
-Rücknahme der Änderungen  vom 21.01.2020 (Version  4.53)
+KBV Rücknahme der Änderungen  vom 21.01.2020 (Version  4.53)
 
-Anpassung der Abbildung  von Barcodefeld 38 des  Musters 10A auf KVDT/LDT  Feldkennung
+KBV Anpassung der Abbildung  von Barcodefeld 38 des  Musters 10A auf KVDT/LDT  Feldkennung
 
-Anpassung von Muster 10  Anpassung von Muster 10L
+KBV Anpassung von Muster 10  Anpassung von Muster 10L
 
 Management-Pro- gramme Rheuma
 
@@ -493,39 +471,29 @@ und  26, 28, 31,  34, 37, 38,  45, 52, 59,  61, 62, 63,  65, 66, 67,  68, 69, 70
 
 34
 
-28  31  34
+28  31
 
 
 ---
 
-**Version**
+| **Version** | **Datum** |
+|---|---|
+| 4.53 | 21.01.2020 |
+| 4.50 | 04.03.2020 |
 
-4.53
+| **Autor** | **Änderung** |  |  | **Begründung** |  | **Seite** |
+|---|---|---|---|---|---|---|
+|  | Anpassung | von | Muster 10A |  |  | 38 |
+|  | Anpassung | von | Muster 12 |  |  |  |
+| KBV | Anpassung | von | Muster 13 |  | 59ÄnderungderHeilmittel- | 12, |
+|  |  |  |  | Richtlinie | des G-BA mit |  |
+|  | Entfernung | von | Muster 14 |  |  |  |
+|  |  |  |  |  | Beschlussfassung vom |  |
+|  | und 18 |  |  |  |  |  |
+|  |  |  |  | 19.09.2019 |  |  |
+| KBV | Anpassung | von | Muster 4 |  |  | 12, 19 |
 
-4.50
-
-| **Datum** | **Autor** | **Änderung** | **Begründung** |
-|---|---|---|---|
-|  |  | Anpassung von Muster 10A |  |
-|  |  | Anpassung von Muster 12 |  |
-| 21.01.2020 | KBV | Anpassung von Muster 13 | Änderung der Heilmittel- |
-
-04.03.2020 KBV
-
-Entfernung von Muster 14  und 18
-
-Anpassung von Muster 4
-
-Richtlinie des G-BA mit  Beschlussfassung vom  19.09.2019
-
-**Seite**
-
-38
-
-12, 59
-
-12, 19
-
+Anpassung von Muster 10A Anpassung von Muster 12 Anpassung von Muster 13 Entfernung von Muster 14 Anpassung von Muster 4 12, 59 Änderung der Heilmittel- Richtlinie des G-BA mit
 
 ---
 
@@ -896,37 +864,21 @@ Format: JJJJMMTT
 
 ---
 
-**2.11.2**
+**2.11.2** **Standardbarcode Typ 2 (gekürzter Barcode)**
 
-**NR.**
+**NR. FELDBEZEICHNUNG**
 
-**01**
+**01 Formularcode**
 
-**02**
+**02 Formularcodeergänzung**
 
-**03**
+**03 Versionsnummer**
 
-**04**
+**04 Versicherungsschutz Ende**
 
-**05**
+**05 Kostenträgerkennung**
 
-**06**
-
-**Standardbarcode Typ 2 (gekürzter Barcode)**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
+**06 Versicherten-ID**
 
 **07 Versichertenart**
 
@@ -1280,6 +1232,74 @@ Wenn im Eingabefeld „Diagnose“ auf dem Formular mehr als 49 Zeichen einhalte
 
 **17**
 
+**Barcode Inhalt Muster 2b/E**
+
+**FELDBEZEICHNUNG**
+
+**FELD-** **LÄNGE**
+
+**Formularcode**
+
+2
+
+**Formularcodeergänzung** 1
+
+**Versionsnummer**
+
+2
+
+**Nachname**
+
+<=45
+
+**Vorname**
+
+<=45
+
+**Geburtsdatum**
+
+8
+
+**Versicherungsschutz Ende** 8
+
+**Kostenträgerkennung**
+
+9
+
+**Versicherten-ID**
+
+<=12
+
+**Versichertenart**
+
+1
+
+**Besondere Personengruppe** 2
+
+**DMP-Kennzeichnung**
+
+2
+
+**(Neben-)Betriebsstättennum-** 9
+
+**mer**
+
+**LANR**
+
+9
+
+**Ausstellungsdatum**
+
+8
+
+**Belegarztbehandlung**
+
+1
+
+**Notfall**
+
+1
+
 **18**
 
 **19**
@@ -1288,89 +1308,19 @@ Wenn im Eingabefeld „Diagnose“ auf dem Formular mehr als 49 Zeichen einhalte
 
 **21**
 
-**Barcode Inhalt Muster 2b/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**Belegarztbehandlung**
-
-**Notfall**
-
 **Unfall**
+
+1
 
 **BVG**
 
+1
+
 **Diagnoseart**
 
+1
+
 **Diagnose**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
-
-1
-
-1
-
-1
-
-1
-
-1
 
 <=49 49 Zeichen abgeschnitten.
 
@@ -1743,97 +1693,59 @@ Format : JJJJMMTT
 
 **Ambulante Behandlung bei**  **Merkzeichen „aG“, „BI“, ,,H“,**  **Pflegegrad 3 mit dauerhafter**  **Mobilitätsbeeinträchtigung,**
 
-**FELD-** **LÄNGE**
+**FELD- TYP**
+
+**LÄNGE**
 
 2
 
-1
+n 1
 
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-**TYP**
+a 2
 
 n
 
-a
+<=45 a
+
+<=45 a 8
+
+n 8
+
+n 9
 
 n
 
-a
+<=12 a 1
 
-a
+n 2
 
-n
+n 2
 
-n
+n 9
 
-n
+n 9
 
-a
+n 8
 
-n
+n 1
 
-n
+n 1
 
-n
+n 1
 
-n
+n 1
 
-n
+n 1
 
-n
+n 1
 
-n
-
-n
-
-n
-
-n
-
-n
-
-n
+n 1
 
 | n | 1 |  |
 |---|---|---|
 | n | 1 |  |
+
+1
 
 **ERLAUBTE IN-** **HALTE**
 
@@ -1974,25 +1886,21 @@ Format : JJJJMMTT 1 = angekreuzt
 
 **Andere Freitext**
 
-**FELD-** **LÄNGE**
+**378 + TABS**
+
+**FELD- TYP**
+
+**LÄNGE**
 
 1
 
-<= 43 1
-
-1
-
-1
-
-**TYP**
-
 n
 
-a
+<= 43 a 1
 
-n
+n 1
 
-n
+n 1
 
 n 1
 
@@ -2025,8 +1933,6 @@ n 1
 n
 
 <= 16 a
-
-**378 + TABS**
 
 **ERLAUBTE IN-**
 
@@ -2093,141 +1999,99 @@ Format: JJJJMMTT 1
 
 ---
 
-**3.4**
+**3.4** **MUSTER 6**
 
-**3.4.1**
+**3.4.1** **Barcode Inhalt Muster 6/E**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
-
-**16**
-
-**17**
-
-**18**
-
-**19**
-
-**20**
-
-**21**
-
-**MUSTER 6**
-
-**Barcode Inhalt Muster 6/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Anforderungs-Ident**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Kostenträgername**
-
-**WOP-Kennzeichen (KV-Be-** **reich)**
-
-**Versichertennummer oder**  **Versicherten_ID oder**  **SKT-Zusatz**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(N)BSNR Überweiser**
-
-**Überweiser LANR**
-
-**Ausstellungsdatum**
-
-**Geschlecht**
-
-**Titel**
-
-**Namenszusatz**
+**NR. FELDBEZEICHNUNG**
 
 **FELD-** **LÄNGE**
 
-2
-
-1
+**01 Formularcode**
 
 2
+
+**02 Formularcodeergänzung** 1
+
+**03 Versionsnummer**
+
+2
+
+**04 Anforderungs-Ident**
 
 <=13
 
+**05 Nachname**
+
 <=45
 
-<=45 8
+**06 Vorname**
+
+<=45
+
+**07 Geburtsdatum**
 
 8
 
-9
+**08 Versicherungsschutz Ende** 8
 
-<=24 2
-
-<=12 1
-
-2
-
-2
+**09 Kostenträgerkennung**
 
 9
 
-9
+**Kostenträgername**
 
-8
+<=24
+
+**10**
+
+**WOP-Kennzeichen (KV-Be-** 2
+
+**11**
+
+**reich)**
+
+**Versichertennummer oder** <=12
+
+**Versicherten_ID oder**  **SKT-Zusatz**
+
+**12**
+
+**13 Versichertenart**
 
 1
 
-<=20
+**Besondere Personengruppe** 2
 
-<=20
+**14**
 
-**TYP ERLAUBTE**  **INHALTE**
+**DMP-Kennzeichnung**
+
+2
+
+**15**
+
+**16 (N)BSNR Überweiser**
+
+9
+
+**17 Überweiser LANR**
+
+9
+
+**18 Ausstellungsdatum**
+
+8
+
+**Geschlecht**
+
+1
+
+**19**
+
+**TYP ERLAUBTE**
+
+**INHALTE**
 
 n 06
 
@@ -2253,71 +2117,73 @@ n
 
 a
 
-n 1,3,5
+**FORMAT/ BEMERKUNG** **KVDT-**
 
-n 00, 04, 06,  07, 08, 09
-
-n Siehe Stan- dardbarcode- Typ 1
-
-n
-
-n
-
-n
-
-a M, W, X, D
-
-a
-
-a
-
-**FORMAT/ BEMERKUNG**
+**FELD**
 
 Nr. des Musters
 
 optionale Ident-Nr.
 
-JJJJMMTT
-
-JJJJMMTT
-
-Entsprechend der Be- druckung im Personali- enfeld
-
-JJJJMMTT
-
-M=männlich  W=weiblich  X=unbestimmt  D=divers
-
-**KVDT-**  **FELD**
-
 3101
 
 3102
 
-3103
+JJJJMMTT 3103
 
-4110
+JJJJMMTT 4110
 
 4111
 
-3116
+Entsprechend der Be-
+
+druckung im Personali- enfeld 3116
 
 3105  oder  3119  oder  4124
 
-3108
+n 1,3,5 3108
+
+n 00, 04, 06,
 
 4131
 
+07, 08, 09
+
+n Siehe Stan-
+
 4132
 
-4218
+dardbarcode- Typ 1
 
-4242
+n 4218
 
-4102
+n 4242
 
-3110
+n
 
-3104
+JJJJMMTT 4102
+
+a M, W, X, D M=männlich 3110
+
+W=weiblich  X=unbestimmt
+
+**20**
+
+**21**
+
+**Titel**
+
+**Namenszusatz**
+
+<=20
+
+a
+
+<=20
+
+a
+
+D=divers 3104
 
 3100
 
@@ -2358,7 +2224,7 @@ M=männlich  W=weiblich  X=unbestimmt  D=divers
 
 **37**
 
-**38**
+**38 spruch gemäß § 16 Abs. 3a**  **SGB V**
 
 **39**
 
@@ -2402,79 +2268,71 @@ M=männlich  W=weiblich  X=unbestimmt  D=divers
 
 **Untersuchungsart**
 
-**Eingeschränkter Leistungsan-** **spruch gemäß § 16 Abs. 3a**
+**Eingeschränkter Leistungsan-**
 
-**SGB V**
-
-**Diagnose/Verdachtsdiag-**
-
-**nose**
+**Diagnose/Verdachtsdiag-** **nose**
 
 **Befund/Medikation**
 
 **Auftrag**
 
-**FELD-** **LÄNGE**
-
-<=20
-
-<=10
-
-<=40
-
-<=46
-
-<=9
-
-<=3
-
-<=10
-
-<=40
-
-<=8
-
-<=3 1
-
-1
-
-8
-
-<=60 8
-
-1
+**FELD-**
 
 **TYP**
 
-a
+**LÄNGE**
+
+<=20
 
 a
 
-a
+<=10
 
 a
 
-a
+<=40
 
 a
 
-a
+<=46
 
 a
 
-a
+<=9
 
 a
+
+<=3
+
+a
+
+<=10
+
+a
+
+<=40
+
+a
+
+<=8
+
+a
+
+<=3
+
+a 1
+
+n 1
+
+n 8
 
 n
 
-n
+<=60
 
-n
+a 8
 
-a
-
-n
+n 1
 
 n 1
 
@@ -2490,29 +2348,7 @@ n
 
 **ERLAUBTE**  **INHALTE**
 
-**FORMAT/ BEMERKUNG**
-
-Falls das Feld 23 leer ist
-
-Falls das Feld 24 leer ist
-
-Falls die Felder 25 und  26 leer sind
-
-Falls das Feld 27 leer ist
-
-1=kurativ  2=präventiv  4=bei belegärztl. Beh.
-
-1=ja
-
-JJJJMMTT
-
-JJJJMMTT
-
-1=Auftragsleistung  2=Konsiliaruntersuchung  3=Mit-/Weiterbehand- lung 1=ja
-
-**TYP 3**
-
-**KVDT-**  **FELD**
+**FORMAT/ BEMERKUNG KVDT-**  **FELD**
 
 3120
 
@@ -2526,19 +2362,25 @@ JJJJMMTT
 
 3114
 
-3121
+Falls das Feld 23 leer ist 3121
 
-3122
+Falls das Feld 24 leer ist 3122
 
-3123
+Falls die Felder 25 und 3123 26 leer sind
 
-3124
+Falls das Feld 27 leer ist 3124 4221
 
-4221
+1=kurativ  2=präventiv  4=bei belegärztl. Beh.
+
+1=ja
 
 4202
 
-4220
+JJJJMMTT 4220
+
+JJJJMMTT
+
+1=Auftragsleistung  2=Konsiliaruntersuchung  3=Mit-/Weiterbehand- lung 1=ja
 
 4204
 
@@ -2547,6 +2389,8 @@ JJJJMMTT
 4208
 
 4205
+
+**TYP 3**
 
 
 ---
@@ -2910,7 +2754,7 @@ Format : JJJJMMTT
 
 **21**  **17**
 
-**22**  **18**
+**22**  **18 es besteht jedoch ein wesentlich**  **erweiterter Pflegebedarf wegen**  **nicht voll ausgebildete Reifezei-** **chen oder verfrühter Beendi-** **gung der Schwangerschaft**
 
 **MUSTER 9**
 
@@ -2960,95 +2804,59 @@ Format : JJJJMMTT
 
 **Geburtsgewicht unter 2500**  **Gramm**
 
-**Geburtsgewicht ab 2500 Gramm**  **es besteht jedoch ein wesentlich**  **erweiterter Pflegebedarf wegen**  **nicht voll ausgebildete Reifezei-** **chen oder verfrühter Beendi-** **gung der Schwangerschaft**
+**Geburtsgewicht ab 2500 Gramm**
 
-**FELD-** **LÄNGE**
+**FELD- TYP**
 
-2
-
-1
+**LÄNGE**
 
 2
 
-<=45
+n 1
 
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
-
-8
-
-1
-
-1
-
-1
-
-8
-
-1
-
-1
-
-**TYP**
+a 2
 
 n
 
-a
+<=45 a
+
+<=45 a 8
+
+n 8
+
+n 9
 
 n
 
-a
+<=12 a 1
 
-a
+n 2
 
-n
+n 2
 
-n
+n 9
 
-n
+n 9
 
-a
+n 8
 
-n
+n 8
 
-n
+n 1
 
-n
+n 1
 
-n
+n 1
 
-n
+n 8
 
-n
-
-n
-
-n
-
-n
-
-n
-
-n
+n 1
 
 | n | 1 |  |
 |---|---|---|
 | n | 1 |  |
+
+1
 
 **ERLAUBTE INHALTE**
 
@@ -3105,11 +2913,11 @@ Format : JJJJMMTT 1 = angekreuzt
 
 **Bei dem Kind liegt eine Behinde-** **rung vor**
 
-**FELD-** **LÄNGE**
+**FELD- TYP ERLAUBTE INHALTE**
+
+**LÄNGE**
 
 1
-
-**TYP ERLAUBTE INHALTE**
 
 | n | 1 |  |
 |---|---|---|
@@ -3180,83 +2988,85 @@ Format : JJJJMMTT 1 = angekreuzt
 
 **FELDBEZEICHNUNG**
 
+**FELD-**
+
+**LÄNGE**
+
 **Formularcode**
 
-**Formularcodeergänzung**
+2
+
+**Formularcodeergänzung** 1
 
 **Versionsnummer**
 
+2
+
 **Anforderungs-Ident**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz**  **Ende**
-
-**Kostenträgerkennung**
-
-**Kostenträgername**
-
-**WOP-Kennzeichen (KV-** **Bereich)**
-
-**Versichertennummer**  **oder**  **Versicherten_ID oder**  **SKT-Zusatz**
-
-**Versichertenart**
-
-**Besondere Personen-** **gruppe**
-
-**DMP-Kennzeichnung**
-
-**Vertragsarzt-(N)BSNR/**  **/ASV-Teamnummer**  **des Erstveranlassers**
-
-**Erstveranlasser LANR**
-
-**(N)BSNR Überweiser**
-
-**Überweiser LANR**
-
-**Ausstellungsdatum**
-
-**Geschlecht**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
 
 <=13
 
+**Nachname**
+
 <=45
 
-<=45 8
+**Vorname**
+
+<=45
+
+**Geburtsdatum**
 
 8
 
+**Versicherungsschutz**  8
+
+**Ende**
+
+**Kostenträgerkennung** 9
+
+**Kostenträgername**
+
+<=24
+
+**WOP-Kennzeichen (KV-** 2
+
+**Bereich)**
+
+**Versichertennummer**
+
+**oder**
+
+<=12
+
+**Versicherten_ID oder**  **SKT-Zusatz**
+
+**Versichertenart**
+
+1
+
+**Besondere Personen-** 2
+
+**gruppe**
+
+**DMP-Kennzeichnung** 2
+
+**Vertragsarzt-(N)BSNR/**  9
+
+**/ASV-Teamnummer**  **des Erstveranlassers**
+
+**Erstveranlasser LANR** 9
+
+**(N)BSNR Überweiser** 9
+
+**Überweiser LANR**
+
 9
 
-<=24 2
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-9
-
-9
+**Ausstellungsdatum**
 
 8
+
+**Geschlecht**
 
 1
 
@@ -3448,87 +3258,53 @@ M, W, X, D 3110
 
 **Befundübermittlung eilt**  **(Dringlichkeitsstatus)**
 
-**FELD-** **LÄNGE**
+**FELD- TYP ERLAUBTE**
 
-<=20
+**LÄNGE**
 
-<=20
+**INHALTE**
 
-<=20
+<=20 a
 
-<=10
+<=20 a
 
-<=40
+<=20 a
 
-<=46
+<=10 a
 
-<=9
+<=40 a
 
-<=3
+<=46 a
 
-<=10
+<=9 a
 
-<=40
+<=3 a
 
-<=8
+<=10 a
 
-<=3 1
+<=40 a
 
-1
+<=8 a
 
-1
+<=3 a 1
 
-5
+n 1
 
-8
+n 1
 
-4
+n 5
 
-1
+n 8
 
-1
+n 4
 
-**TYP ERLAUBTE**  **INHALTE**
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-n
-
-n
-
-n
-
-n
-
-n
-
-n
+n 1
 
 | n |  |  | 1=ja | 4204 |
 |---|---|---|---|---|
 | n |  |  | 2=eilig |  |
+
+1
 
 **FORMAT/**  **BEMERKUNG**
 
@@ -3649,45 +3425,33 @@ Platzbedarf: Beachten Sie bei der Positionierung, dass der Barcode aufgrund des 
 
 **SER**
 
-**FELD-** **LÄNGE**
+**FELD- TYP ERLAUBTE**
+
+**LÄNGE**
+
+**INHALTE**
 
 1
 
+n 1
+
+n
+
+<=20 a 2
+
+n
+
+<=70 a
+
+<=140 a
+
+<=280 a 15 a
+
 1
 
-<=20 2
-
-<=70
-
-<=140
-
-<=280 15
-
-1
+n
 
 **1002 + TABS**
-
-**TYP**
-
-n
-
-n
-
-a
-
-n
-
-a
-
-a
-
-a
-
-a
-
-n
-
-**ERLAUBTE**  **INHALTE**
 
 **FORMAT/**  **BEMERKUNG**
 
@@ -3703,17 +3467,17 @@ Das Feld ist mit der BFB- Prüfnummer zu belegen.  Format:  A/9/JJMM/NN/NNN 1=ja
 
 3,7 cm ergeben.
 
-**KVDT** **-FELD**
+**KVDT LDT-**
 
-**LDT-** **FELD**
+**-FELD** **FELD**
 
-8611 =1
+8611
 
-8611 =2
+=1 8611
 
-7330  oder  7333
+=2 7330
 
-4207
+oder  7333 4207
 
 4208
 
@@ -3772,21 +3536,39 @@ Das Feld ist mit der BFB- Prüfnummer zu belegen.  Format:  A/9/JJMM/NN/NNN 1=ja
 
 **FELDBEZEICHNUNG**
 
+**FELD-**
+
+**LÄNGE**
+
 **Formularcode**
 
-**Formularcodeergänzung**
+2
+
+**Formularcodeergänzung** 1
 
 **Versionsnummer**
 
+2
+
 **Anforderungs-Ident**
+
+<=13
 
 **Nachname**
 
+<=45
+
 **Vorname**
+
+<=45
 
 **Geburtsdatum**
 
-**Versicherungsschutz**  **Ende**
+8
+
+**Versicherungsschutz**  8
+
+**Ende**
 
 **Kostenträgerkennung**
 
@@ -3800,36 +3582,6 @@ Das Feld ist mit der BFB- Prüfnummer zu belegen.  Format:  A/9/JJMM/NN/NNN 1=ja
 
 **Besondere Personen-** **gruppe**
 
-**DMP-Kennzeichnung**
-
-**Vertragsarzt-(N)BSNR/**  **/ASV-Teamnummer**  **des Erstveranlassers**
-
-**Erstveranlasser LANR**
-
-**(N)BSNR Überweiser**
-
-**Überweiser LANR**
-
-**Ausstellungsdatum**
-
-**Geschlecht**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=13
-
-<=45
-
-<=45 8
-
-8
-
 9
 
 <=24 2
@@ -3838,17 +3590,25 @@ Das Feld ist mit der BFB- Prüfnummer zu belegen.  Format:  A/9/JJMM/NN/NNN 1=ja
 
 2
 
-2
+**DMP-Kennzeichnung** 2
+
+**Vertragsarzt-(N)BSNR/**  9
+
+**/ASV-Teamnummer**  **des Erstveranlassers**
+
+**Erstveranlasser LANR** 9
+
+**(N)BSNR Überweiser** 9
+
+**Überweiser LANR**
 
 9
 
-9
-
-9
-
-9
+**Ausstellungsdatum**
 
 8
+
+**Geschlecht**
 
 1
 
@@ -4055,89 +3815,51 @@ X=unbestimmt
 
 **Telefon**
 
-**FELD-** **LÄNGE**
+**FELD- TYP ERLAUBTE**
 
-<=20
+**LÄNGE**
 
-<=20
+**INHALTE**
 
-<=20
+<=20 a
 
-<=10
+<=20 a
 
-<=40
+<=20 a
 
-<=46
+<=10 a
 
-<=9
+<=40 a
 
-<=3
+<=46 a
 
-<=10
+<=9 a
 
-<=40
+<=3 a
 
-<=8
+<=10 a
 
-<=3 1
+<=40 a
 
-1
+<=8 a
 
-1
+<=3 a 1
 
-5
+n 1
 
-8
+n 1
 
-4
+n 5
 
-1
+n 8
 
-1
+n 4
 
-1
+n 1
 
-**TYP ERLAUBTE**  **INHALTE**
+n 1
 
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-n
-
-n
-
-n
-
-n
-
-n
-
-n
-
-n
-
-n
+n 1
 
 n
 
@@ -4262,41 +3984,31 @@ Platzbedarf: Beachten Sie bei der Positionierung, dass der Barcode aufgrund des 
 
 **SER**
 
-**FELD-** **LÄNGE**
+**FELD- TYP ERLAUBTE**
+
+**LÄNGE**
+
+**INHALTE**
 
 1
 
-<=20 2
+n
 
-<=70
+<=20 a 2
 
-<=140
+n
 
-<=280 15
+<=70 a
+
+<=140 a
+
+<=280 a 15 a
 
 1
+
+n
 
 **1002 + TABS**
-
-**TYP**
-
-n
-
-a
-
-n
-
-a
-
-a
-
-a
-
-a
-
-n
-
-**ERLAUBTE**  **INHALTE**
 
 **FORMAT/ BEMERKUNG**
 
@@ -4306,23 +4018,23 @@ NN
 
 Das Feld ist mit der BFB- Prüfnummer zu belegen.  Format:  A/9/JJMM/NN/NNN 1=ja
 
-3,7 cm ergeben.
-
 **TYP 3**
 
-**KVDT** **-FELD**
+3,7 cm ergeben.
 
-4207
+**KVDT LDT-**
+
+**-FELD** **FELD**
+
+8611
+
+=2 7330
+
+oder  7333 4207
 
 4208
 
 4205
-
-**LDT-** **FELD**
-
-8611 =2
-
-7330  oder  7333
 
 
 ---
@@ -4409,22 +4121,6 @@ Das Feld ist mit der BFB- Prüfnummer zu belegen.  Format:  A/9/JJMM/NN/NNN 1=ja
 
 **Besondere Personen-** **gruppe**
 
-**DMP-Kennzeichnung**
-
-**(N)BSNR Überweiser**
-
-**Überweiser LANR**
-
-**Ausstellungsdatum**
-
-**Geschlecht**
-
-**SSW**
-
-**Titel**
-
-**Namenszusatz**
-
 **KARD.**
 
 1
@@ -4455,107 +4151,75 @@ Das Feld ist mit der BFB- Prüfnummer zu belegen.  Format:  A/9/JJMM/NN/NNN 1=ja
 
 1
 
-1
+**DMP-Kennzeichnung** 1
+
+**(N)BSNR Überweiser** 1
+
+**Überweiser LANR**
 
 1
 
-1
+**Ausstellungsdatum**
 
 1
 
+**Geschlecht**
+
 1
+
+**SSW**
 
 0..1
 
-0..1
+**Titel**
 
 0..1
 
-**FELD-** **LÄNGE**
+**Namenszusatz**
 
-2
+0..1
 
-1
+**FELD- TYP**
 
-2
+**LÄNGE**
 
-<=13
+2 n
 
-<=45
+1 a
 
-<=45 8
+2 n
 
-8
+<=13 a
 
-9
+<=45 a
 
-<=24 2
+<=45 a 8 n
 
-<=12 1
+8 n
 
-2
+9 n
 
-2
+<=24 a 2 n
 
-9
+<=12 a 1 n
 
-9
+2 n
 
-8
+2 n
 
-1
+9 n
 
-2
+9 n
 
-<=20
+8 n
 
-<=20
+1 a
 
-**TYP**
+2 n
 
-n
+<=20 a
 
-a
-
-n
-
-a
-
-a
-
-a
-
-n
-
-n
-
-n
-
-a
-
-n
-
-a
-
-n
-
-n
-
-n
-
-n
-
-n
-
-n
-
-a
-
-n
-
-a
-
-a
+<=20 a
 
 **ERLAUBTE**  **INHALTE**
 
@@ -4575,15 +4239,13 @@ M, W, X, D
 
 Nr. des Musters
 
-optionale Ident-
+optionale Ident-Nr.
 
 JJJJMMTT
 
 JJJJMMTT
 
 Entsprechend der  Bedruckung im Per- sonalienfeld
-
-Nr.
 
 JJJJMMTT
 
@@ -4762,81 +4424,43 @@ NN
 
 **702 + TABS**
 
-**FELD-** **LÄNGE**
+**FELD- TYP**
 
-<=20
+**LÄNGE**
 
-<=10
+<=20 a
 
-<=40
+<=10 a
 
-<=46
+<=40 a
 
-<=9
+<=46 a
 
-<=3
+<=9 a
 
-<=10
+<=3 a
 
-<=40
+<=10 a
 
-<=8
+<=40 a
 
-<=3 1
+<=8 a
 
-1
+<=3 a 1 n
 
-5
+1 n
 
-8
+5 n
 
-4
+8 n
 
-<=60
+4 n
 
-<=60 15
+<=60 a
 
-2
+<=60 a 15 a
 
-**TYP**
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-n
-
-n
-
-n
-
-n
-
-n
-
-a
-
-a
-
-a
-
-n
+2 n
 
 **ERLAUBTE**  **INHALTE**
 
@@ -5157,89 +4781,95 @@ Format : JJJJMMTT
 
 **FELDBEZEICHNUNG**
 
+**FELD-**
+
+**LÄNGE**
+
 **Formularcode**
+
+2
 
 **Formularcodeergänzung**
 
+1
+
 **Versionsnummer**
+
+2
 
 **Nachname**
 
+<=45
+
 **Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**Diagnose**
-
-**Erst-/Folgeverordnung**
-
-**Unfall**
-
-**SER**
-
-**Zeitraum von**
-
-**Zeitraum bis**
-
-**Herrichten der Medikamenten-** **box**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
 
 <=45
 
-<=45 8
+**Geburtsdatum**
 
 8
 
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
+**Versicherungsschutz Ende**
 
 8
 
-<=46 1
+**Kostenträgerkennung**
+
+9
+
+**Versicherten-ID**
+
+<=12
+
+**Versichertenart**
 
 1
 
+**Besondere Personengruppe** 2
+
+**DMP-Kennzeichnung**
+
+2
+
+**(Neben-)Betriebsstättennum-** 9
+
+**mer**
+
+**LANR**
+
+9
+
+**Ausstellungsdatum**
+
+8
+
+**Diagnose**
+
+<=46
+
+**Erst-/Folgeverordnung**
+
 1
+
+**Unfall**
+
+1
+
+**SER**
+
+1
+
+**Zeitraum von**
 
 6
 
+**Zeitraum bis**
+
 6
 
-1
+**Herrichten der Medikamenten-** 1
+
+**box**
 
 **TYP ERLAUBTE**
 
@@ -5354,79 +4984,77 @@ Format: JJMMTT 1 = angekreuzt
 
 **FELDBEZEICHNUNG**
 
-**Häufigkeit täglich (Medikamen-** **tenbox)**
+**FELD-**
 
-**Häufigkeit wöchentlich (Medi-** **kamentenbox)**
+**LÄNGE**
 
-**Häufigkeit monatlich (Medika-** **mentenbox)**
+**Häufigkeit täglich (Medikamen-** 2
 
-**Zeitraum von (Medikamenten-** **box)**
+**tenbox)**
 
-**Zeitraum bis (Medikamenten-** **box)**
+**Häufigkeit wöchentlich (Medi-** 2
+
+**kamentenbox)**
+
+**Häufigkeit monatlich (Medika-** 2
+
+**mentenbox)**
+
+**Zeitraum von (Medikamenten-** 4
+
+**box)**
+
+**Zeitraum bis (Medikamenten-** 4
+
+**box)**
 
 **Medikamentengabe**
 
-**Häufigkeit täglich (Medikamen-** **tengabe)**
+1
 
-**Häufigkeit wöchentlich (Medi-** **kamentengabe)**
+**Häufigkeit täglich (Medikamen-** 2
 
-**Häufigkeit monatlich (Medika-** **mentengabe)**
+**tengabe)**
 
-**Zeitraum von (Medikamenten-** **gabe)**
+**Häufigkeit wöchentlich (Medi-** 2
 
-**Zeitraum bis (Medikamenten-** **gabe)**
+**kamentengabe)**
+
+**Häufigkeit monatlich (Medika-** 2
+
+**mentengabe)**
+
+**Zeitraum von (Medikamenten-** 4
+
+**gabe)**
+
+**Zeitraum bis (Medikamenten-** 4
+
+**gabe)**
 
 **Injektionen**
 
+1
+
 **Injektionen herrichten**
 
-**Injektionen intramuskulär /**  **subkutan**
-
-**Häufigkeit täglich (Injektionen)**
-
-**Häufigkeit wöchentlich (Injekti-** **onen)**
-
-**Häufigkeit monatlich (Injektio-** **nen)**
-
-**Zeitraum von (Injektionen)**
-
-**FELD-** **LÄNGE**
-
-2
-
-2
-
-2
-
-4
-
-4
-
 1
 
-2
+**Injektionen intramuskulär /** 1
 
-2
+**subkutan**
 
-2
+**Häufigkeit täglich (Injektionen)** 2
 
-4
+**Häufigkeit wöchentlich (Injekti-** 2
 
-4
+**onen)**
 
-1
+**Häufigkeit monatlich (Injektio-** 2
 
-1
+**nen)**
 
-1
-
-2
-
-2
-
-2
-
-4
+**Zeitraum von (Injektionen)** 4
 
 **TYP ERLAUBTE FORMAT/ BEMERKUNG**
 
@@ -5567,67 +5195,41 @@ Format: MMTT
 
 **Häufigkeit monatlich (Kompres-** **sionsstrümpfe)**
 
-**FELD-** **LÄNGE**
-
-4
-
-1
-
-1
-
-2
-
-2
-
-2
-
-4
-
-4
-
-1
-
-1
-
-1
-
-1
-
-2
-
-2
-
-2
+**FELD-**
 
 **TYP**
 
-n
+**LÄNGE**
 
-n
+4
 
-n
+n 1
 
-n
+n 1
 
-n
+n 2
 
-n
+n 2
 
-n
+n 2
 
-n
+n 4
 
-a
+n 4
 
-n
+n 1
 
-n
+a 1
 
-n
+n 1
 
-n
+n 1
 
-n
+n 2
+
+n 2
+
+n 2
 
 n
 
@@ -5732,47 +5334,31 @@ Nur zu befüllen wenn Feld 50  und/oder 51 und nicht Feld 52  befüllt ist
 
 **Zeitraum bis (Kompressionsver-** **bände)**
 
-**FELD-** **LÄNGE**
-
-4
-
-4
-
-1
-
-1
-
-1
-
-2
-
-2
-
-2
-
-4
-
-4
+**FELD-**
 
 **TYP**
 
-n
+**LÄNGE**
 
-n
+4
 
-n
+n 4
 
-n
+n 1
 
-n
+n 1
 
-n
+n 1
 
-n
+n 2
 
-n
+n 2
 
-n
+n 2
+
+n 4
+
+n 4
 
 n
 
@@ -6054,13 +5640,15 @@ Die Zeichenfolge "xxxxx" steht  hier als Platzhalter. Hier sollen  die ersten 5 
 
 **FELDBEZEICHNUNG**
 
-**Anleitung zur Behandlungs-** **pflege**
-
-**FELD-** **LÄNGE**
-
-5
+**FELD-**
 
 **TYP**
+
+**Anleitung zur Behandlungs-** **pflege**
+
+**LÄNGE**
+
+5
 
 a
 
@@ -6142,21 +5730,23 @@ n
 
 **che Versorgung)**
 
-**ERLAUBTE FORMAT/ BEMERKUNG**
-
-**INHALTE**
+**ERLAUBTE**  **INHALTE**
 
 xxxxx
 
-Die Zeichenfolge "xxxxx" steht  hier als Platzhalter. Hier sollen  die ersten 5 Zeichen des Frei- textes eingetragen werden, so- fern hier eine Eintragung getä- tigt wurde.
-
-u, k
-
-u = Unterstützungspflege  k = Krankenhausvermeidungs- pflege 1
-
-1 = angekreuzt
+u, k 1
 
 1
+
+1
+
+1
+
+**FORMAT/ BEMERKUNG**
+
+Die Zeichenfolge "xxxxx" steht  hier als Platzhalter. Hier sollen  die ersten 5 Zeichen des Frei- textes eingetragen werden, so- fern hier eine Eintragung getä- tigt wurde.
+
+u = Unterstützungspflege  k = Krankenhausvermeidungs- pflege 1 = angekreuzt
 
 1 = angekreuzt  Nur zu befüllen wenn Feld 89  befüllt ist
 
@@ -6168,11 +5758,7 @@ Nur zu befüllen wenn Feld 89  und nicht Feld 90 befüllt ist
 
 Format: MMTT  Nur zu befüllen wenn Feld 89  und nicht Feld 90 befüllt ist
 
-Format: MMTT  Nur zu befüllen wenn Feld 89  und nicht Feld 90 befüllt ist 1
-
-1 =angekreuzt
-
-1
+Format: MMTT  Nur zu befüllen wenn Feld 89  und nicht Feld 90 befüllt ist 1 =angekreuzt
 
 1 = angekreuzt  Nur zu befüllen wenn Feld 96  befüllt ist
 
@@ -6256,89 +5842,95 @@ Zeitraum und Häufigkeit der Maßnahmen: „TTMM“ oder „TT.MM“ oder „TT 
 
 **FELDBEZEICHNUNG**
 
+**FELD-**
+
+**LÄNGE**
+
 **Formularcode**
+
+2
 
 **Formularcodeergänzung**
 
+1
+
 **Versionsnummer**
+
+2
 
 **Nachname**
 
+<=45
+
 **Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**Diagnose**
-
-**Erst-/Folgeverordnung**
-
-**Unfall**
-
-**SER**
-
-**Zeitraum von**
-
-**Zeitraum bis**
-
-**Herrichten der Medikamenten-** **box**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
 
 <=45
 
-<=45 8
+**Geburtsdatum**
 
 8
 
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
+**Versicherungsschutz Ende**
 
 8
 
-<=46 1
+**Kostenträgerkennung**
+
+9
+
+**Versicherten-ID**
+
+<=12
+
+**Versichertenart**
 
 1
 
+**Besondere Personengruppe** 2
+
+**DMP-Kennzeichnung**
+
+2
+
+**(Neben-)Betriebsstättennum-** 9
+
+**mer**
+
+**LANR**
+
+9
+
+**Ausstellungsdatum**
+
+8
+
+**Diagnose**
+
+<=46
+
+**Erst-/Folgeverordnung**
+
 1
+
+**Unfall**
+
+1
+
+**SER**
+
+1
+
+**Zeitraum von**
 
 6
 
+**Zeitraum bis**
+
 6
 
-1
+**Herrichten der Medikamenten-** 1
+
+**box**
 
 **TYP ERLAUBTE**
 
@@ -6453,79 +6045,77 @@ Format: JJMMTT 1 = angekreuzt
 
 **FELDBEZEICHNUNG**
 
-**Häufigkeit täglich (Medikamen-** **tenbox)**
+**FELD-**
 
-**Häufigkeit wöchentlich (Medi-** **kamentenbox)**
+**LÄNGE**
 
-**Häufigkeit monatlich (Medika-** **mentenbox)**
+**Häufigkeit täglich (Medikamen-** 2
 
-**Zeitraum von (Medikamenten-** **box)**
+**tenbox)**
 
-**Zeitraum bis (Medikamenten-** **box)**
+**Häufigkeit wöchentlich (Medi-** 2
+
+**kamentenbox)**
+
+**Häufigkeit monatlich (Medika-** 2
+
+**mentenbox)**
+
+**Zeitraum von (Medikamenten-** 4
+
+**box)**
+
+**Zeitraum bis (Medikamenten-** 4
+
+**box)**
 
 **Medikamentengabe**
 
-**Häufigkeit täglich (Medikamen-** **tengabe)**
+1
 
-**Häufigkeit wöchentlich (Medi-** **kamentengabe)**
+**Häufigkeit täglich (Medikamen-** 2
 
-**Häufigkeit monatlich (Medika-** **mentengabe)**
+**tengabe)**
 
-**Zeitraum von (Medikamenten-** **gabe)**
+**Häufigkeit wöchentlich (Medi-** 2
 
-**Zeitraum bis (Medikamenten-** **gabe)**
+**kamentengabe)**
+
+**Häufigkeit monatlich (Medika-** 2
+
+**mentengabe)**
+
+**Zeitraum von (Medikamenten-** 4
+
+**gabe)**
+
+**Zeitraum bis (Medikamenten-** 4
+
+**gabe)**
 
 **Injektionen**
 
+1
+
 **Injektionen herrichten**
 
-**Injektionen intramuskulär /**  **subkutan**
-
-**Häufigkeit täglich (Injektionen)**
-
-**Häufigkeit wöchentlich (Injekti-** **onen)**
-
-**Häufigkeit monatlich (Injektio-** **nen)**
-
-**Zeitraum von (Injektionen)**
-
-**FELD-** **LÄNGE**
-
-2
-
-2
-
-2
-
-4
-
-4
-
 1
 
-2
+**Injektionen intramuskulär /** 1
 
-2
+**subkutan**
 
-2
+**Häufigkeit täglich (Injektionen)** 2
 
-4
+**Häufigkeit wöchentlich (Injekti-** 2
 
-4
+**onen)**
 
-1
+**Häufigkeit monatlich (Injektio-** 2
 
-1
+**nen)**
 
-1
-
-2
-
-2
-
-2
-
-4
+**Zeitraum von (Injektionen)** 4
 
 **TYP ERLAUBTE FORMAT/ BEMERKUNG**
 
@@ -6666,67 +6256,41 @@ Format: MMTT
 
 **Häufigkeit monatlich (Kompres-** **sionsstrümpfe)**
 
-**FELD-** **LÄNGE**
-
-4
-
-1
-
-1
-
-2
-
-2
-
-2
-
-4
-
-4
-
-1
-
-1
-
-1
-
-1
-
-2
-
-2
-
-2
+**FELD-**
 
 **TYP**
 
-n
+**LÄNGE**
 
-n
+4
 
-n
+n 1
 
-n
+n 1
 
-n
+n 2
 
-n
+n 2
 
-n
+n 2
 
-n
+n 4
 
-a
+n 4
 
-n
+n 1
 
-n
+a 1
 
-n
+n 1
 
-n
+n 1
 
-n
+n 2
+
+n 2
+
+n 2
 
 n
 
@@ -6831,47 +6395,31 @@ Nur zu befüllen wenn Feld 50  und/oder 51 und nicht Feld 52  befüllt ist
 
 **Zeitraum bis (Kompressionsver-** **bände)**
 
-**FELD-** **LÄNGE**
-
-4
-
-4
-
-1
-
-1
-
-1
-
-2
-
-2
-
-2
-
-4
-
-4
+**FELD-**
 
 **TYP**
 
-n
+**LÄNGE**
 
-n
+4
 
-n
+n 4
 
-n
+n 1
 
-n
+n 1
 
-n
+n 1
 
-n
+n 2
 
-n
+n 2
 
-n
+n 2
+
+n 4
+
+n 4
 
 n
 
@@ -7153,13 +6701,15 @@ Die Zeichenfolge "xxxxx" steht  hier als Platzhalter. Hier sollen  die ersten 5 
 
 **FELDBEZEICHNUNG**
 
-**Anleitung zur Behandlungs-** **pflege**
-
-**FELD-** **LÄNGE**
-
-5
+**FELD-**
 
 **TYP**
+
+**Anleitung zur Behandlungs-** **pflege**
+
+**LÄNGE**
+
+5
 
 a
 
@@ -7241,21 +6791,23 @@ n
 
 **che Versorgung)**
 
-**ERLAUBTE FORMAT/ BEMERKUNG**
-
-**INHALTE**
+**ERLAUBTE**  **INHALTE**
 
 xxxxx
 
-Die Zeichenfolge "xxxxx" steht  hier als Platzhalter. Hier sollen  die ersten 5 Zeichen des Frei- textes eingetragen werden, so- fern hier eine Eintragung getä- tigt wurde.
-
-u, k
-
-u = Unterstützungspflege  k = Krankenhausvermeidungs- pflege 1
-
-1 = angekreuzt
+u, k 1
 
 1
+
+1
+
+1
+
+**FORMAT/ BEMERKUNG**
+
+Die Zeichenfolge "xxxxx" steht  hier als Platzhalter. Hier sollen  die ersten 5 Zeichen des Frei- textes eingetragen werden, so- fern hier eine Eintragung getä- tigt wurde.
+
+u = Unterstützungspflege  k = Krankenhausvermeidungs- pflege 1 = angekreuzt
 
 1 = angekreuzt  Nur zu befüllen wenn Feld 89  befüllt ist
 
@@ -7267,11 +6819,7 @@ Nur zu befüllen wenn Feld 89  und nicht Feld 90 befüllt ist
 
 Format: MMTT  Nur zu befüllen wenn Feld 89  und nicht Feld 90 befüllt ist
 
-Format: MMTT  Nur zu befüllen wenn Feld 89  und nicht Feld 90 befüllt ist 1
-
-1 =angekreuzt
-
-1
+Format: MMTT  Nur zu befüllen wenn Feld 89  und nicht Feld 90 befüllt ist 1 =angekreuzt
 
 1 = angekreuzt  Nur zu befüllen wenn Feld 96  befüllt ist
 
@@ -7355,89 +6903,95 @@ Zeitraum und Häufigkeit der Maßnahmen: „TTMM“ oder „TT.MM“ oder „TT 
 
 **FELDBEZEICHNUNG**
 
+**FELD-**
+
+**LÄNGE**
+
 **Formularcode**
+
+2
 
 **Formularcodeergänzung**
 
+1
+
 **Versionsnummer**
+
+2
 
 **Nachname**
 
+<=45
+
 **Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**Diagnose**
-
-**Erst-/Folgeverordnung**
-
-**Unfall**
-
-**SER**
-
-**Zeitraum von**
-
-**Zeitraum bis**
-
-**Herrichten der Medikamenten-** **box**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
 
 <=45
 
-<=45 8
+**Geburtsdatum**
 
 8
 
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
+**Versicherungsschutz Ende**
 
 8
 
-<=46 1
+**Kostenträgerkennung**
+
+9
+
+**Versicherten-ID**
+
+<=12
+
+**Versichertenart**
 
 1
 
+**Besondere Personengruppe** 2
+
+**DMP-Kennzeichnung**
+
+2
+
+**(Neben-)Betriebsstättennum-** 9
+
+**mer**
+
+**LANR**
+
+9
+
+**Ausstellungsdatum**
+
+8
+
+**Diagnose**
+
+<=46
+
+**Erst-/Folgeverordnung**
+
 1
+
+**Unfall**
+
+1
+
+**SER**
+
+1
+
+**Zeitraum von**
 
 6
 
+**Zeitraum bis**
+
 6
 
-1
+**Herrichten der Medikamenten-** 1
+
+**box**
 
 **TYP ERLAUBTE**
 
@@ -7552,79 +7106,77 @@ Format: JJMMTT 1 = angekreuzt
 
 **FELDBEZEICHNUNG**
 
-**Häufigkeit täglich (Medikamen-** **tenbox)**
+**FELD-**
 
-**Häufigkeit wöchentlich (Medi-** **kamentenbox)**
+**LÄNGE**
 
-**Häufigkeit monatlich (Medika-** **mentenbox)**
+**Häufigkeit täglich (Medikamen-** 2
 
-**Zeitraum von (Medikamenten-** **box)**
+**tenbox)**
 
-**Zeitraum bis (Medikamenten-** **box)**
+**Häufigkeit wöchentlich (Medi-** 2
+
+**kamentenbox)**
+
+**Häufigkeit monatlich (Medika-** 2
+
+**mentenbox)**
+
+**Zeitraum von (Medikamenten-** 4
+
+**box)**
+
+**Zeitraum bis (Medikamenten-** 4
+
+**box)**
 
 **Medikamentengabe**
 
-**Häufigkeit täglich (Medikamen-** **tengabe)**
+1
 
-**Häufigkeit wöchentlich (Medi-** **kamentengabe)**
+**Häufigkeit täglich (Medikamen-** 2
 
-**Häufigkeit monatlich (Medika-** **mentengabe)**
+**tengabe)**
 
-**Zeitraum von (Medikamenten-** **gabe)**
+**Häufigkeit wöchentlich (Medi-** 2
 
-**Zeitraum bis (Medikamenten-** **gabe)**
+**kamentengabe)**
+
+**Häufigkeit monatlich (Medika-** 2
+
+**mentengabe)**
+
+**Zeitraum von (Medikamenten-** 4
+
+**gabe)**
+
+**Zeitraum bis (Medikamenten-** 4
+
+**gabe)**
 
 **Injektionen**
 
+1
+
 **Injektionen herrichten**
 
-**Injektionen intramuskulär /**  **subkutan**
-
-**Häufigkeit täglich (Injektionen)**
-
-**Häufigkeit wöchentlich (Injekti-** **onen)**
-
-**Häufigkeit monatlich (Injektio-** **nen)**
-
-**Zeitraum von (Injektionen)**
-
-**FELD-** **LÄNGE**
-
-2
-
-2
-
-2
-
-4
-
-4
-
 1
 
-2
+**Injektionen intramuskulär /** 1
 
-2
+**subkutan**
 
-2
+**Häufigkeit täglich (Injektionen)** 2
 
-4
+**Häufigkeit wöchentlich (Injekti-** 2
 
-4
+**onen)**
 
-1
+**Häufigkeit monatlich (Injektio-** 2
 
-1
+**nen)**
 
-1
-
-2
-
-2
-
-2
-
-4
+**Zeitraum von (Injektionen)** 4
 
 **TYP ERLAUBTE FORMAT/ BEMERKUNG**
 
@@ -7765,67 +7317,41 @@ Format: MMTT
 
 **Häufigkeit monatlich (Kompres-** **sionsstrümpfe)**
 
-**FELD-** **LÄNGE**
-
-4
-
-1
-
-1
-
-2
-
-2
-
-2
-
-4
-
-4
-
-1
-
-1
-
-1
-
-1
-
-2
-
-2
-
-2
+**FELD-**
 
 **TYP**
 
-n
+**LÄNGE**
 
-n
+4
 
-n
+n 1
 
-n
+n 1
 
-n
+n 2
 
-n
+n 2
 
-n
+n 2
 
-n
+n 4
 
-a
+n 4
 
-n
+n 1
 
-n
+a 1
 
-n
+n 1
 
-n
+n 1
 
-n
+n 2
+
+n 2
+
+n 2
 
 n
 
@@ -7930,47 +7456,31 @@ Nur zu befüllen wenn Feld 50  und/oder 51 und nicht Feld 52  befüllt ist
 
 **Zeitraum bis (Kompressionsver-** **bände)**
 
-**FELD-** **LÄNGE**
-
-4
-
-4
-
-1
-
-1
-
-1
-
-2
-
-2
-
-2
-
-4
-
-4
+**FELD-**
 
 **TYP**
 
-n
+**LÄNGE**
 
-n
+4
 
-n
+n 4
 
-n
+n 1
 
-n
+n 1
 
-n
+n 1
 
-n
+n 2
 
-n
+n 2
 
-n
+n 2
+
+n 4
+
+n 4
 
 n
 
@@ -8252,13 +7762,15 @@ Die Zeichenfolge "xxxxx" steht  hier als Platzhalter. Hier sollen  die ersten 5 
 
 **FELDBEZEICHNUNG**
 
-**Anleitung zur Behandlungs-** **pflege**
-
-**FELD-** **LÄNGE**
-
-5
+**FELD-**
 
 **TYP**
+
+**Anleitung zur Behandlungs-** **pflege**
+
+**LÄNGE**
+
+5
 
 a
 
@@ -8340,21 +7852,23 @@ n
 
 **che Versorgung)**
 
-**ERLAUBTE FORMAT/ BEMERKUNG**
-
-**INHALTE**
+**ERLAUBTE**  **INHALTE**
 
 xxxxx
 
-Die Zeichenfolge "xxxxx" steht  hier als Platzhalter. Hier sollen  die ersten 5 Zeichen des Frei- textes eingetragen werden, so- fern hier eine Eintragung getä- tigt wurde.
-
-u, k
-
-u = Unterstützungspflege  k = Krankenhausvermeidungs- pflege 1
-
-1 = angekreuzt
+u, k 1
 
 1
+
+1
+
+1
+
+**FORMAT/ BEMERKUNG**
+
+Die Zeichenfolge "xxxxx" steht  hier als Platzhalter. Hier sollen  die ersten 5 Zeichen des Frei- textes eingetragen werden, so- fern hier eine Eintragung getä- tigt wurde.
+
+u = Unterstützungspflege  k = Krankenhausvermeidungs- pflege 1 = angekreuzt
 
 1 = angekreuzt  Nur zu befüllen wenn Feld 89  befüllt ist
 
@@ -8366,11 +7880,7 @@ Nur zu befüllen wenn Feld 89  und nicht Feld 90 befüllt ist
 
 Format: MMTT  Nur zu befüllen wenn Feld 89  und nicht Feld 90 befüllt ist
 
-Format: MMTT  Nur zu befüllen wenn Feld 89  und nicht Feld 90 befüllt ist 1
-
-1 =angekreuzt
-
-1
+Format: MMTT  Nur zu befüllen wenn Feld 89  und nicht Feld 90 befüllt ist 1 =angekreuzt
 
 1 = angekreuzt  Nur zu befüllen wenn Feld 96  befüllt ist
 
@@ -8406,135 +7916,85 @@ oder „TT.MM“ oder „TT MM“
 
 ---
 
-**3.11**
+**3.11** **MUSTER 13**
 
-**3.11.1**
+**3.11.1** **Barcode Inhalt Muster 13/E**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
-
-**16**
-
-**17**
-
-**18**
-
-**19**
-
-**20**
-
-**MUSTER 13**
-
-**Barcode Inhalt Muster 13/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**Heilmittelart**
-
-**ICD-10-GM-Code**
-
-**Zweiter ICD-10-GM-Code**
-
-**Diagnosegruppe**
-
-**Leitsymptomatik gemäß Heil-** **mittelkatalog**
+**NR. FELDBEZEICHNUNG**
 
 **FELD-** **LÄNGE**
 
-2
-
-1
+**01 Formularcode**
 
 2
+
+**02 Formularcodeergänzung** 1
+
+**03 Versionsnummer**
+
+2
+
+**04 Nachname**
 
 <=45
 
-<=45 8
+**05 Vorname**
+
+<=45
+
+**06 Geburtsdatum**
 
 8
 
-9
+**07 Versicherungsschutz Ende** 8
 
-<=12 1
-
-2
-
-2
+**08 Kostenträgerkennung**
 
 9
 
-9
+**09 Versicherten-ID**
 
-8
+<=12
+
+**10 Versichertenart**
 
 1
 
-<=10
+**11 Besondere Personengruppe** 2
+
+**12 DMP-Kennzeichnung**
+
+2
+
+**13 (Neben-)Betriebsstättennum-** 9
+
+**mer**
+
+**14 LANR**
+
+9
+
+**15 Ausstellungsdatum**
+
+8
+
+**16 Heilmittelart**
+
+1
+
+**17 ICD-10-GM-Code**
 
 <=10
 
-<=3
+**18 Zweiter ICD-10-GM-Code** <=10
+
+**19 Diagnosegruppe**
 
 <=3
+
+**20 Leitsymptomatik gemäß Heil-** <=3
+
+**mittelkatalog**
 
 **TYP ERLAUBTE INHALTE**
 
@@ -9583,87 +9043,63 @@ Format : JJJJMMTT
 
 **SER**
 
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
-
-8
-
-8
-
-1
-
-1
-
-1
-
-**182 + TABS**
+**FELD-**
 
 **TYP**
 
+**LÄNGE**
+
+2
+
+n 1
+
+a 2
+
 n
+
+<=45
 
 a
 
-n
+<=45
 
-a
+a 8
 
-a
+n 8
 
-n
-
-n
+n 9
 
 n
 
-a
+<=12
 
-n
+a 1
 
-n
+n 2
 
-n
+n 2
 
-n
+n 9
 
-n
+n 9
 
-n
+n 8
 
-n
+n 8
 
-n
+n 8
 
-n
+n 1
+
+n 1
 
 | n | 1 |  |
 |---|---|---|
 | n | 1 |  |
+
+1
+
+**182 + TABS**
 
 **ERLAUBTE INHALTE**
 
@@ -11533,95 +10969,57 @@ Format : JJJJMMTT
 
 **Ort**
 
-**FELD-** **LÄNGE**
+**FELD- TYP**
+
+**LÄNGE**
 
 2
 
-1
+n 1
 
-2
-
-<=13
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=24 2
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
-
-<=20
-
-<=20
-
-<=20
-
-<=10
-
-<=40
-
-**TYP**
+a 2
 
 n
 
-a
+<=13 a
+
+<=45 a
+
+<=45 a 8
+
+n 8
+
+n 9
 
 n
 
-a
-
-a
-
-a
+<=24 a 2
 
 n
 
-n
+<=12 a 1
+
+n 2
+
+n 2
+
+n 9
+
+n 9
+
+n 8
 
 n
 
-a
+<=20 a
 
-n
+<=20 a
 
-a
+<=20 a
 
-n
+<=10 a
 
-n
-
-n
-
-n
-
-n
-
-n
-
-a
-
-a
-
-a
-
-a
-
-a
+<=40 a
 
 **ERLAUBTE**  **INHALTE**
 
@@ -11754,101 +11152,73 @@ JJJJMMTT
 
 **Datum der letzten Unter-** **suchung**
 
-**FELD-** **LÄNGE**
+**FELD- TYP ERLAUBTE FORMAT/ BEMERKUNG** **KVDT- LDT-**
 
-<=46
+**LÄNGE**
 
-<=9
-
-<=3
-
-<=10
-
-<=40
-
-<=8
-
-<=3 1
-
-1
-
-<=6 1
-
-4
-
-**TYP ERLAUBTE**  **INHALTE**
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-n 1, 2, 3
-
-a P, A
-
-Zyto, HPV,
-
-a  KoTest
-
-n 0, 1
-
-n
-
-**FORMAT/ BEMERKUNG**
-
-Falls das Feld 23 leer ist
-
-Falls das Feld 24 leer ist
-
-Falls die Felder 25 und 26  leer sind
-
-Falls das Feld 27 leer ist
-
-1=20-29 Jahre  2=30-34 Jahre  3=ab 35 Jahre
-
-P = Primärscreening  A = Abklärungsdiagnostik
-
-Zyto = zytologische Unter- suchung  HPV = HPV-Test  KoTest = Ko-Test 0=nein
-
-1=ja
-
-JJMM  JJ (die letzten beiden Stel- len der Jahresangabe)  MM (die Angabe des Mo- nates)
-
-**KVDT- LDT-**
+**INHALTE**
 
 **FELD** **FELD**
 
-3107
+<=46 a 3107
 
-3109
+<=9 a 3109
 
-3114
+<=3 a 3114
 
-3121
+<=10 a
 
-3122
+Falls das Feld 23 leer ist 3121
 
-3123
+<=40 a
 
-3124
+Falls das Feld 24 leer ist 3122
 
-8630
+Falls die Felder 25 und 26
 
-8629
+<=8 a 3123
 
-7296
+leer sind
 
-7297
+<=3 a
+
+Falls das Feld 27 leer ist 3124
+
+1=20-29 Jahre
+
+1
+
+n 1, 2, 3 2=30-34 Jahre  3=ab 35 Jahre
+
+P = Primärscreening 1
+
+a P, A 8630
+
+A = Abklärungsdiagnostik
+
+Zyto = zytologische Unter- suchung
+
+Zyto, HPV,
+
+<=6 a 8629
+
+KoTest HPV = HPV-Test  KoTest = Ko-Test 0=nein
+
+1
+
+n 0, 1 7296
+
+1=ja
+
+JJMM  JJ (die letzten beiden Stel-
+
+4
+
+n
+
+len der Jahresangabe) 7297
+
+MM (die Angabe des Mo- nates)
 
 
 ---
@@ -11877,9 +11247,11 @@ JJMM  JJ (die letzten beiden Stel- len der Jahresangabe)  MM (die Angabe des Mo-
 
 **Gyn. OP, Strahlen oder**  **Chemotherapie des Geni-** **tales**
 
-**FELD-** **LÄNGE**
+**FELD- TYP ERLAUBTE**
 
-**TYP ERLAUBTE**  **INHALTE**
+**LÄNGE**
+
+**INHALTE**
 
 0, I, II, I/II, I- II, II-a, IIw,  IIk, II-p, II-g,  II-e, IIID,  IIID1, IIID2,  III, III-p, III-
 
@@ -11919,9 +11291,9 @@ I/II, II, I-II, IIw, IIk, IIID, III,  IVa, IVb, V
 
 1=positiv  2=negativ  3=nicht verwertbar 0=nein  1=ja
 
-**KVDT-** **FELD**
+**KVDT- LDT-**
 
-**LDT-** **FELD**
+**FELD** **FELD**
 
 7414
 
@@ -11960,39 +11332,41 @@ I/II, II, I-II, IIw, IIk, IIID, III,  IVa, IVb, V
 
 **FELDBEZEICHNUNG**
 
-**Gyn. OP, Strahlen oder**  **Chemotherapie des Geni-** **tales - Welche?**
+**FELD-** **LÄNGE**
 
-**Gyn. OP, Strahlen oder**  **Chemotherapie des Geni-** **tales - Wann?**
+**Gyn. OP, Strahlen oder**  **Chemotherapie des Geni-** <=16
+
+**tales - Welche?**
+
+**Gyn. OP, Strahlen oder**  **Chemotherapie des Geni-** 8
+
+**tales - Wann?**
 
 **Letzte Periode**
 
+8
+
 **Gravidität**
 
-**Ausfluss / pathologische**  **Blutung**
+1
+
+**Ausfluss / pathologische**  1
+
+**Blutung**
 
 **IUP**
 
-**Einnahme von Ovulati-** **onshemmer / sonstige**  **Hormonanwendung**
+1
+
+**Einnahme von Ovulati-** **onshemmer / sonstige** 1
+
+**Hormonanwendung**
 
 **Klinischer Befund**
 
+1
+
 **Erläuterungen**
-
-**FELD-** **LÄNGE**
-
-<=16 8
-
-8
-
-1
-
-1
-
-1
-
-1
-
-1
 
 <=240
 
@@ -12046,11 +11420,9 @@ Freitext
 
 **TYP 3**
 
-**KVDT-** **FELD**
+**KVDT- LDT-**
 
-4205
-
-**LDT-** **FELD**
+**FELD** **FELD**
 
 7337
 
@@ -12068,7 +11440,7 @@ Freitext
 
 7384
 
-7423
+4205 7423
 
 
 ---
@@ -12181,103 +11553,61 @@ Freitext
 
 **Hausnummer**
 
-**FELD-** **LÄNGE**
+**FELD- TYP**
+
+**LÄNGE**
 
 2
 
-1
+n 1
 
-2
-
-<=13
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=24 2
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
-
-<=20
-
-<=20
-
-<=20
-
-<=10
-
-<=40
-
-<=46
-
-<=9
-
-**TYP**
+a 2
 
 n
 
-a
+<=13 a
+
+<=45 a
+
+<=45 a 8
+
+n 8
+
+n 9
 
 n
 
-a
-
-a
-
-a
+<=24 a 2
 
 n
 
-n
+<=12 a 1
+
+n 2
+
+n 2
+
+n 9
+
+n 9
+
+n 8
 
 n
 
-a
+<=20 a
 
-n
+<=20 a
 
-a
+<=20 a
 
-n
+<=10 a
 
-n
+<=40 a
 
-n
+<=46 a
 
-n
-
-n
-
-n
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
+<=9 a
 
 **ERLAUBTE**  **INHALTE**
 
@@ -12410,107 +11740,99 @@ JJJJMMTT
 
 **Gruppe**
 
-**FELD-** **LÄNGE**
+**FELD- TYP ERLAUBTE FORMAT/ BEMERKUNG** **KVDT- LDT-**
 
-<=3
+**LÄNGE**
 
-<=10
+**INHALTE**
 
-<=40
+**FELD** **FELD**
 
-<=8
+<=3 a 3114
 
-<=3 1
+<=10 a
+
+Falls das Feld 23 leer ist 3121
+
+<=40 a
+
+Falls das Feld 24 leer ist 3122
+
+Falls die Felder 25 und 26
+
+<=8 a 3123
+
+leer sind
+
+<=3 a
+
+Falls das Feld 27 leer ist 3124
+
+1=20-29 Jahre
 
 1
 
-<=6 1
+n 1, 2, 3 2=30-34 Jahre  3=ab 35 Jahre
 
-4
+P = Primärscreening 1
 
-<=5
+a P, A 8630
 
-**TYP ERLAUBTE**  **INHALTE**
+A = Abklärungsdiagnostik
 
-a
-
-a
-
-a
-
-a
-
-a
-
-n 1, 2, 3
-
-a P, A
+Zyto = zytologische Unter- suchung
 
 Zyto, HPV,
 
-a  KoTest
+<=6 a 8629
 
-n 0, 1
+KoTest HPV = HPV-Test  KoTest = Ko-Test 0=nein
+
+1
+
+n 0, 1 7296
+
+1=ja
+
+JJMM  JJ (die letzten beiden Stel-
+
+4
 
 n
 
-0, I, II, I/II, I- II, II-a, IIw,  IIk, II-p, II-g,  II-e, IIID,  IIID1, IIID2,  III, III-p, III-
+len der Jahresangabe) 7297
 
-a g, III-e, III-x,  IVa, IVa-p,  IVa-g, IVb,  IVb-p, IVb- g, V, V-p, V- g, V-e, V-x
-
-**FORMAT/ BEMERKUNG**
-
-Falls das Feld 23 leer ist
-
-Falls das Feld 24 leer ist
-
-Falls die Felder 25 und 26  leer sind
-
-Falls das Feld 27 leer ist
-
-1=20-29 Jahre  2=30-34 Jahre  3=ab 35 Jahre
-
-P = Primärscreening  A = Abklärungsdiagnostik
-
-Zyto = zytologische Unter- suchung  HPV = HPV-Test  KoTest = Ko-Test 0=nein  1=ja
-
-JJMM  JJ (die letzten beiden Stel- len der Jahresangabe)  MM (die Angabe des Mo- nates)
+MM (die Angabe des Mo- nates)
 
 Erläuterung zur Münchner  Nomenklatur III 0 = unzureichendes Mate- rial,
 
-I = unauffällige und un- verdächtige Befunde
+0, I, II, I/II, I- II, II-a, IIw, I = unauffällige und un-
 
-II-a = Unauffällige Befunde  bei auffälliger Anamnese
+IIk, II-p, II-g, verdächtige Befunde
 
-II-p, II-g, II-e = Befunde  mit eingeschränkt protek- tivem Wert
+II-e, IIID,  II-a = Unauffällige Befunde
 
-III-p, III-g, III-e, III-x = Un- klare bzw. zweifelhafte  Befunde
+IIID1, IIID2,  bei auffälliger Anamnese
 
-IIID1, IIID2 = Dysplasiebe- funde mit größerer Re- gressionsneigung
+III, III-p, III-
 
-**KVDT-** **FELD**
-
-**LDT-** **FELD**
-
-3114
-
-3121
-
-3122
-
-3123
-
-3124
-
-8630
-
-8629
-
-7296
-
-7297
+<=5 a g, III-e, III-x,
 
 7414
+
+II-p, II-g, II-e = Befunde
+
+IVa, IVa-p, mit eingeschränkt protek-
+
+IVa-g, IVb, tivem Wert
+
+IVb-p, IVb- III-p, III-g, III-e, III-x = Un-
+
+g, V, V-p, V- klare bzw. zweifelhafte
+
+g, V-e, V-x  Befunde
+
+IIID1, IIID2 = Dysplasiebe- funde mit größerer Re- gressionsneigung
 
 
 ---
@@ -12537,41 +11859,41 @@ IIID1, IIID2 = Dysplasiebe- funde mit größerer Re- gressionsneigung
 
 **FELDBEZEICHNUNG**
 
+**FELD-** **LÄNGE**
+
 **HPV-Impfung**
 
-**Liegt ein HPV-HR-Tester-** **gebnis vor?**
+1
 
-**HPV-HR-Testergebnis**
+**Liegt ein HPV-HR-Tester-** 1
 
-**Gyn. OP, Strahlen oder**  **Chemotherapie des Geni-** **tales**
+**gebnis vor?**
 
-**Gyn. OP, Strahlen oder**  **Chemotherapie des Geni-** **tales - Welche?**
+**HPV-HR-Testergebnis** 1
 
-**Gyn. OP, Strahlen oder**  **Chemotherapie des Geni-** **tales - Wann?**
+**Gyn. OP, Strahlen oder**  **Chemotherapie des Geni-** 1
+
+**tales**
+
+**Gyn. OP, Strahlen oder**  **Chemotherapie des Geni-** <=16
+
+**tales - Welche?**
+
+**Gyn. OP, Strahlen oder**  **Chemotherapie des Geni-** 8
+
+**tales - Wann?**
 
 **Letzte Periode**
 
-**Gravidität**
-
-**Ausfluss / pathologische**  **Blutung**
-
-**FELD-** **LÄNGE**
-
-1
-
-1
-
-1
-
-1
-
-<=16 8
-
 8
 
-1
+**Gravidität**
 
 1
+
+**Ausfluss / pathologische**  1
+
+**Blutung**
 
 **TYP ERLAUBTE FORMAT/ BEMERKUNG** **KVDT- LDT-**
 
@@ -12662,27 +11984,21 @@ n 0, 1 7380
 
 **Erläuterungen**
 
-**FELD-** **LÄNGE**
+**FELD- TYP**
+
+**LÄNGE**
 
 1
 
-1
+n 1
 
-1
+n 1
 
-<=240
+n
+
+<=240 a
 
 **560 + TABS**
-
-**TYP**
-
-n
-
-n
-
-n
-
-a
 
 **ERLAUBTE**  **INHALTE**
 
@@ -12704,11 +12020,9 @@ Freitext
 
 **TYP 3**
 
-**KVDT-** **FELD**
+**KVDT- LDT-**
 
-4205
-
-**LDT-** **FELD**
+**FELD** **FELD**
 
 7382
 
@@ -12716,7 +12030,7 @@ Freitext
 
 7384
 
-7423
+4205 7423
 
 
 ---
@@ -15810,7 +15124,11 @@ sowie der implementierten op-
 
 **4.4** **FORMULARE ALS DRUCK-DATEIEN**
 
-Die KBV stellt alle neuen oder aktualisierten in der Vordruckvereinbarung bezeichneten BFB PDF-Dateien zur Verfügung. Diese Formulare gelten als Software im Sinne der Lizenzvereinbarung  für Softwarehersteller- [KBV_ITA_VGEX_Lizenzvereinbarung
+Die KBV stellt alle neuen oder aktualisierten in der Vordruckvereinbarung bezeichneten BFB-Formulare als
+
+PDF-Dateien zur Verfügung. Diese Formulare gelten als Software im Sinne der Lizenzvereinbarung -Software
+
+für Softwarehersteller- [KBV_ITA_VGEX_Lizenzvereinbarung
 
 **4.5** **BARCODE PDF 417**
 
@@ -15818,7 +15136,11 @@ Bei der Erzeugung zulässiger BFB-Formulare muss der „Barcode PDF 417“ einge
 
 Stelle (vgl. Vordruck-Vereinbarung Blankoformularbedruckung) gedruckt werden.
 
-Die technischen Details, Aufbau und Inhalt des zweidimensionalen Barcodes PDF 417 sind in diesem Hand- buch erläutert. Auf dieser Grundlage kann der/die Softwareverantwortliche die Software zur PDF417 code-Erzeugung selbst erstellen. Auf dem Markt existie stützt.
+Die technischen Details, Aufbau und Inhalt des zweidimensionalen Barcodes PDF 417 sind in diesem Hand- buch erläutert. Auf dieser Grundlage kann der/die Softwareverantwortliche die Software zur PDF417-Bar-
+
+code-Erzeugung selbst erstellen. Auf dem Markt existiert Software, die die Erzeugung des PDF 417 unter-
+
+stützt.
 
 **4.6** **BARCODE-LESEGERÄTE**
 
@@ -15826,7 +15148,9 @@ Für die Teilnehmer im Rahmen der Blankoformularbedruckung besteht keine Verpfli
 
 **4.7** **SICHERHEITSPAPIER**
 
-Im Rahmen der Blankoformularbedruckung darf in der Arztpraxis nur Sicherheitspapier verwendet werden.  Dieses Spezialpapier wird über das bislang bewährte Verfah des Entlassmanagements ist Sicherheitspapier mit dem Schriftzug „Entlassmanagement“ zu verwenden.  Das Softwarehaus ist für die korrekte Verwendung nicht verantwortlich, sollte den Anwender jedoch auf  diesen Sachverhalt ausdrücklich hinweisen.
+Im Rahmen der Blankoformularbedruckung darf in der Arztpraxis nur Sicherheitspapier verwendet werden.  Dieses Spezialpapier wird über das bislang bewährte Verfahren bezogen (Druckverlage, KVen). Im Rahmen
+
+des Entlassmanagements ist Sicherheitspapier mit dem Schriftzug „Entlassmanagement“ zu verwenden.  Das Softwarehaus ist für die korrekte Verwendung nicht verantwortlich, sollte den Anwender jedoch auf  diesen Sachverhalt ausdrücklich hinweisen.
 
 **4.8** **ÄNDERUNGSDIENST / LOGISTIK**
 
@@ -15834,37 +15158,25 @@ Im Rahmen der Blankoformularbedruckung darf in der Arztpraxis nur Sicherheitspap
 
 **P4.7-10 Änderungsdienst**
 
-Eventuelle Änderungen an vertragsärztlichen Formularen im Rahmen der BFB werden seitens der KBV zur  Mitte des zweiten Monats im Quartal von der KBV in
+Eventuelle Änderungen an vertragsärztlichen Formularen im Rahmen der BFB werden seitens der KBV zur  Mitte des zweiten Monats im Quartal von der KBV in elektronischer Form veröffentlicht.
 
 Mit einem Update zu den vertragsärztlichen Formularen muss der Softwareverantwortliche sicherstellen,  dass spätestens mit Beginn des Folgequartals betroffene Formulare entsprechend angepasst werden kön- nen.
 
 **4.9** **BEDRUCKUNGSVORGABEN**
 
-Die Bedruckungsvorgaben beziehen sich auf vertragsärztliche BFB formularbedruckung aufzudruckenden Daten der Versichertenkarte unterliegen Verarbeitungsrestriktionen  1
+Die Bedruckungsvorgaben beziehen sich auf vertragsärztliche BFB-Formulare. Die im Rahmen der Blanko-
 
-gemäß Vorgaben der Bundesmantelverträge .
+formularbedruckung aufzudruckenden Daten der Versichertenkarte unterliegen Verarbeitungsrestriktionen  gemäß Vorgaben der Bundesmantelverträge1
 
 **PFLICHTFUNKTION BFB**
 
 **P4.8-10 Geltungsbereich**
 
-Alle bisher konventionell bedruckten vertragsärztlichen Formulare dürfen auch als BFB werden, sofern sie als Blankoformular gemäß Vordruckvereinbarung vereinbart sind. Für das Entlassma- nagement werden nur die im [Rahmenvertrag Entlassmanagement] vereinbarten Formulare verwendet.
+Alle bisher konventionell bedruckten vertragsärztlichen Formulare dürfen auch als BFB-Formulare gedruckt
+
+werden, sofern sie als Blankoformular gemäß Vordruckvereinbarung vereinbart sind. Für das Entlassma- nagement werden nur die im [Rahmenvertrag Entlassmanagement] vereinbarten Formulare verwendet.
 
 1 .vgl. § 19 Bundesmantelvertrag-Ärzte
-
-rt Software, die die Erzeugung des PDF 417 unter-
-
-ren bezogen (Druckverlage, KVen
-
-elektronischer Form veröffentlicht.
-
--Formulare. Die im Rahmen der Blanko-
-
--Formulare als  -Software
-
--Bar-
-
-). Im Rahmen -Formulare gedruckt
 
 
 ---
@@ -16046,7 +15358,7 @@ Abbildung 1: Darstellung eines PDF417 -Symbols
 
 **5.1.1** **Cluster**
 
-Die Codewörter im PDF417 können 929 Werte annehmen, wobei die Werte 900 -928 reserviert sind. Die  Menge aller möglichen Codewörter ist in drei - sich gegenseitig ausschließende - Verschlüsselungsmengen,  sogenannte Cluster, aufgeteilt. Jedes Cluster enthält 929 verschiedene Muster. Zugelassene Cluster -Num- mern sind 0, 3 und 6. Pro Zeile wird jeweils nur ein Cluster verwendet, dass sich in jeder 3. Zeile wiederholt,  wobei die Cluster -Nummer  des verwendeten Clusters sich aus der Reihen -Nummer # berechnen lässt
+Die Codewörter im PDF417 können 929 Werte annehmen, wobei die Werte 900 -928 reserviert sind. Die  Menge aller möglichen Codewörter ist in drei - sich gegenseitig ausschließende - Verschlüsselungsmengen,  sogenannte Cluster, aufgeteilt. Jedes Cluster enthält 929 verschiedene Muster. Zugelassene Cluster -Num- mern sind 0, 3 und 6. Pro Zeile wird jeweils nur ein Cluster verwendet, dass sich in jeder 3. Zeile wiederholt,  wobei die Cluster-Nummer  des verwendeten Clusters sich aus der Reihen-Nummer # berechnen lässt
 
 =((#-1)mod3)*3).
 
@@ -16062,9 +15374,13 @@ Die Start- und Stop-Muster sind wie folgt definiert:
 | 8 | 1 | 1 | 1 | 1 | 1 | 1 | 3 |
 | 7 | 1 | 1 | 3 | 1 | 1 | 1 | 2 |
 
+**B**
+
 **Start**
 
 **Stop**
+
+1
 
 B = Modulbreite eines Striches (Bar) S = Modulbreite eines Zwischenraums (Space)
 
@@ -16092,7 +15408,9 @@ if =6 R =30*((#-1) div 3)+(s*3)+(r-1) mod 3
 
 **5.1.4** **Füll-Codewort**
 
-Da ein PDF417-Symbol immer rechteckig ist, muss im Fall cr>n+k ergänzt werden. Die Anzahl der Füll-Codewörter ist f=cr-n-k. Der Wert eines Füll-Codewort ist stets 900.
+Da ein PDF417-Symbol immer rechteckig ist, muss im Fall cr>n+k die Codewort-Matrix mit Füll-Codewörtern
+
+ergänzt werden. Die Anzahl der Füll-Codewörter ist f=cr-n-k. Der Wert eines Füll-Codewort ist stets 900.
 
 **5.1.5** **Symbollängendeskriptor**
 
@@ -16100,15 +15418,7 @@ Der Symbollängendeskriptor dn-1 ist das erste Daten-Codewort. Sein Wert entspri
 
 **5.1.6** **Codewort-Symbol**
 
-Prinzipiell ist die minimale Größe eines Moduls (und damit auch die minimale Größe des Barcodes) abhängig  von der einzusetzenden Druck - bzw. Scantechnologie.  PDF417-Symbols. Dabei wird der in Codewörtern umgewandelte Text in der Reihenfolge d
-
-**B**
-
-1
-
-die Codewort-Matrix mit Füll-Codewörtern
-
-Abbildung 2 veranschaulicht den Aufbau eines  - d abgelegt. 15 0
+Prinzipiell ist die minimale Größe eines Moduls (und damit auch die minimale Größe des Barcodes) abhängig  von der einzusetzenden Druck- bzw. Scantechnologie. Abbildung 2 veranschaulicht den Aufbau eines  PDF417-Symbols. Dabei wird der in Codewörtern umgewandelte Text in der Reihenfolge d - d abgelegt. 15 0
 
 
 ---
@@ -16125,77 +15435,103 @@ und  werden zur Fehlererkennung verwendet, während 0 1
 
 die Anzahl der Fehlerkorrekturwörter k von dem gewählten Fehlerkorrektur -Level abhängig ist (s. Kapitel  5.2.4).
 
-L 1
+L
 
-L 2
+d
 
-L 3
+d 1
 
-L 4
+15
 
-L 5
+14
 
-L 6
+L
 
-L 7
-
-L 8
-
-L 9
-
-L 10
-
-wobei d = Symbollängendeskriptor 15 d - d = Codierte Daten 14 0
-
-d 15
-
-d 13
-
-d 11
-
-d 9
-
-d 7
-
-d 3
-
-d 3
-
-d 1 3
-
-1
-
-Abbildung 2: Aufbau des PDF417
-
-d 14
-
-d 12
-
-d 10
-
-d 8
-
-d 6
-
-d 4
+d
 
 d 2
 
-d 0 2
+13
 
-0
+12
+
+L
+
+d
+
+d 3
+
+11
+
+10
+
+L
+
+d
+
+d 4
+
+9
+
+8
+
+L
+
+d
+
+d 5
+
+7
+
+6
+
+L
+
+d
+
+d 6
+
+3
+
+4
+
+L
+
+d
+
+d 7
+
+3
 
 2
 
-Abbildung 3: Codeword-Symbol
+L
 
-Die graphische Darstellung eines einzelnen Codeworts - sog. Codewort-Symbol (s. Abbildung 3) - besteht aus
+d
 
-17 Modulen, die zu 8 Elementen zusammengefasst sind, insgesamt 4 Striche (Bars) und 4 Leerräume (Spaces).  2
+d 8
 
-Elemente können maximal 6 Module breit sein1F . Jedes Codewort-Symbol kann als eine Folge von 8 Ziffern,
+1
 
-2 Ausnahme sind die Start- und Stop-Muster.
+0
+
+L 9
+
+3
+
+2
+
+L 10
+
+1
+
+0
+
+wobei d = Symbollängendeskriptor 15 d - d = Codierte Daten 14 0
+
+Abbildung 2: Aufbau des PDF417
+
+2 für Fehlerkorrektur genutzt werden, wobei k-1
 
 R 1
 
@@ -16213,8 +15549,6 @@ R 5
 
 R 6
 
-für Fehlerkorrektur genutzt werden, wobei k-1
-
 **O**
 
 R 7
@@ -16227,6 +15561,14 @@ R 9
 
 R 10
 
+Abbildung 3: Codeword-Symbol
+
+Die graphische Darstellung eines einzelnen Codeworts - sog. Codewort-Symbol (s. Abbildung 3) - besteht aus
+
+17 Modulen, die zu 8 Elementen zusammengefasst sind, insgesamt 4 Striche (Bars) und 4 Leerräume (Spaces).  Elemente können maximal 6 Module breit sein1F2. Jedes Codewort-Symbol kann als eine Folge von 8 Ziffern,
+
+2 Ausnahme sind die Start- und Stop-Muster.
+
 
 ---
 
@@ -16238,9 +15580,9 @@ Daten, die codiert werden sollen, werden nicht direkt in einem Codewort abgebild
 
 **AUSGANGSMODE**
 
-**TC**
-
 **ZIEL-MODE**
+
+**TC**
 
 **TC**
 
@@ -16280,15 +15622,11 @@ Nach Shift auf BC ist anschließend wieder der vorangegangene TC
 
 Der Byte Compaction (BC) Mode erlaubt die Verschlüsselung von 256 internationalen Zeichen, inkl. der  ASCII-Werte 0-127 (s. Anhang 5.6.3). Im BC-Mode werden 6 Zeichen in 5 PDF417 wendung des „Basis 256 zu Basis 900 Konvertierungs Algorithmus“ codiert, der auf folgender Gleichung ba-
 
-siert: 5
+siert:
+
+b *2565+b *2564+b *2563+b *2562+b *256 5
 
 4
-
-3
-
-2
-
-b *256 +b *256 +b *256 +b *256 +b *256 +b *256 5 4
 
 3
 
@@ -16296,15 +15634,9 @@ b *256 +b *256 +b *256 +b *256 +b *256 +b *256 5 4
 
 1
 
-5
+= d *9005+d *9004+d *9003+d *9002+d *900 5
 
 4
-
-3
-
-2
-
-= d *900 +d *900 +d *900 +d *900 +d *900 +d *9005 4
 
 3
 
@@ -16320,23 +15652,21 @@ Algorithmus:
 
 3 Ausnahme ist das Stop-Muster.
 
+-Sub-Mode gültig.
+
+1+b *2560
+
+0
+
+1+d *9000
+
 **NC**
 
 902
 
 902
 
--Sub-Mode gültig.
-
 -Codewörter unter Ver-
-
-1
-
-0
-
-0 1
-
-0
 
 0
 
@@ -16345,17 +15675,9 @@ Algorithmus:
 
 4. Weise die Dezimalwerte der BC-Zeichen b ...b zu. 5 0
 
-5. Sei t = temp. Variable; Berechne  5 4
+5. Sei t = temp. Variable; Berechne  t=b *2565+b *2564+b *2563+b *2562+b *2561+b *2560 5
 
-3
-
-2
-
-1
-
-0
-
-t=b *256 +b *256 +b *256 +b *256 +b *256 +b *256 5 4
+4
 
 3
 
@@ -16373,17 +15695,7 @@ Beispiel:
 
 Kodierung der BC-Zeichen b ...b {231,101,11,97,205,2} 5 0
 
-Berechnung der Summe t aus den dezimalen Werten der 6 Zeichen:  5 4
-
-3
-
-2
-
-1
-
-0
-
-t = 231*256 +101*256 +11*256 +97*256 +205*256 +2*256
+Berechnung der Summe t aus den dezimalen Werten der 6 Zeichen:  t = 231*2565+101*2564+11*2563+97*2562+205*2561+2*2560
 
 = 254421168672002  Berechnung des Codeworts 0  d = 254421168672002 mod 900 = 302
 
@@ -16409,9 +15721,9 @@ Im Numeric Compaction (NC) Mode werden längere Ziffernfolgen in Codewörter cod
 
 Algorithmus:
 
-1. Teile die Ziffernsequenz in Folgen mit 44 Ziffern. Wenn eine  Ziffernfolge länger ist als 44 Ziffern, behalte den NC-Mode  bei, auch wenn die letzte Gruppe weniger als 44 Ziffern ent- hält.  2. Sei t = temp. Variable; setze t = (zu codierende) Ziffern- 4
+1. Teile die Ziffernsequenz in Folgen mit 44 Ziffern. Wenn eine  Ziffernfolge länger ist als 44 Ziffern, behalte den NC-Mode  bei, auch wenn die letzte Gruppe weniger als 44 Ziffern ent- hält.  2. Sei t = temp. Variable; setze t = (zu codierende) Ziffern- folge3F4 mit einer führenden 1
 
-folge3F mit einer führenden 1  3. Berechne für jedes Codewort d = d ... d
+3. Berechne für jedes Codewort d = d ... d
 
 i 0
 
@@ -16592,7 +15904,7 @@ Auslöschungen, d.h. fehlende oder nicht-lesbare Codewörter (die Position des C
 
 Ersetzungsfehler, d.h. falsch gelesene Codewörter (die Position und der Wert des Codeworts sind unbekannt)
 
-Dabei wird ein Codewort benötigt, um Auslöschungen zu berichtigen, und zwei Codewörter, um Ersetzungs- fehler auszubessern. Demzufolge können bei einem bestimmten Sicherheitslevel maximal eine bestimmte  Anzahl Fehler gefunden und richtiggestellt werden:  s+1  2  2
+Dabei wird ein Codewort benötigt, um Auslöschungen zu berichtigen, und zwei Codewörter, um Ersetzungs- fehler auszubessern. Demzufolge können bei einem bestimmten Sicherheitslevel maximal eine bestimmte  Anzahl Fehler gefunden und richtiggestellt werden: 2s+1  2
 
 **SICHERHEITSLEVEL**
 
@@ -16635,74 +15947,46 @@ Tabelle 3: Sicherheits -Level des PDF417
 
 Das folgende Generator-Polynom wird verwendet, um die Koeffizienten für jeden Fehlerkorrektur bestimmen.
 
-2
+g (x) =(x-3)(x-32)(x-33) ... (x-3
 
-3
+k
 
-g (x) =(x-3)(x-3 )(x-3 ) ... (x-3 ) k 2
-
-x+ x + ... +
+x+ x2+ ... + xk
 
 k0 k1 k2
 
-s+1
+kk-1
 
-wobei k = 2
+wobei k = 2s+1
 
-k-1xkk-1
+Algorithmus: 1. Berechne k = 2s+1
 
-Algorithmus: 1. Berechne k = 2
+2. Berechne g (x)=(x-3)(x-3k
 
-2. Berechne g (x)=(x-3)(x-3 )(x-3 )...(x-3 ) 3. k0
+3.
 
-s+1
+x+ x2+...+
 
-k 2
-
-x+ x +...+
-
-k1 k2
+k0 k1 k2
 
 kk-1
 
-K
+K -1+xk
 
-k+x 2
+2)(x-3
 
-3
-
-k-1 k
-
-x +x
+xk-1+xk
 
 **-Codewörter**
 
-K
+-Level zu
 
-BENÖTIGTE ANZAHL AN CODEWÖRTERN-Level zu
+BENÖTIGTE ANZAHL AN CODEWÖRTERN3)...(x-3K
 
 
 ---
 
-Beispiel:
-
-Die Koeffizienten für den im Rahmen der Blankoformularbedruckung verwendeten Sicherheitslevel s=4 er- geben sich somit wie folgt:
-
-| **J 0** | **1 2** | **3 4** | **5 6** | **7 8** | **9 10** | **11 12** | **13 14** | **15** |
-|---|---|---|---|---|---|---|---|---|
-| **361j** | 575 922 | 525 176 | 586 640 | 321 536 | 742 677 | 742 687 | 284 | 193 517 |
-| **J 16** | **17 18** | **19 20** | **21 22** | **23 24** | **25 26** | **27 28** | **29 30** | **31** |
-| **273j** | 494 263 | 147 593 | 800 571 | 320 803 | 133 231 | 390 685 | 330 63 | 410 |
-
-Tabelle 4: Koeffzienten der Fehlerkorrektur -Codewörter für den Sicherheitslevel s=4
-
-**Berechnung der Fehlerkorrektur-Codewörter**
-
-Die Fehlerkorrektur-Codewörter werden auf der Basis aller Codewörter (inkl. Symbollängendeskriptor und  aller Füll-Codewörter berechnet). Eine Codewort-Sequenz wird über ein Polynom definiert als:
-
-d(x)=d
-
-Algorithmus: 4. Für
+4. Für
 
 ...
 
@@ -16716,17 +16000,15 @@ mod 929 j j
 
 END
 
-s= 1 (Fehlerkorrektur-Level)  s+1
+Beispiel:
 
-k= 2 = 4 (Anzahl der Fehlerkorrekturcodewörter)  2 3
+s= 1 (Fehlerkorrektur-Level)
 
-4
+k= 2s+1 = 4 (Anzahl der Fehlerkorrekturcodewörter)
 
-g (x) =(x-3)(x-3 )(x-3 )(x-3 ) 4 2
+g (x) =(x-3)(x-32)(x-33)(x-34 4
 
-3 4
-
-= 59049-29160x+3510x -120x +x
+= 59049-29160x+3510x2-120x3+x4
 
 = 59049 mod 929 = 522 0
 
@@ -16736,15 +16018,27 @@ g (x) =(x-3)(x-3 )(x-3 )(x-3 ) 4 2
 
 = -120 mod 929 = 809 3
 
-n-1
+Die Koeffizienten für den im Rahmen der Blankoformularbedruckung verwendeten Sicherheitslevel s=4 er- geben sich somit wie folgt:
 
-n-2
+| **J 0** | **1 2** | **3 4** | **5 6** | **7 8** | **9 10** | **11 12** | **13 14 15** |
+|---|---|---|---|---|---|---|---|
+| 361 | 575 922 | 525 176 | 586 640 | 321 536**517j** | 742 677 | 742 687 | 284 193 |
+| **J 16** | **17 18** | **19 20** | **21 22** | **23 24** | **25 26** | **27 28** | **29 30 31** |
+| 273 | 494 263 | 147 593 | 800 571 | 320 803**410j** | 133 231 | 390 685 | 330 63 |
 
-x +d x + ... +dx+d
+Tabelle 4: Koeffzienten der Fehlerkorrektur -Codewörter für den Sicherheitslevel s=4
+
+**Berechnung der Fehlerkorrektur-Codewörter**
+
+Die Fehlerkorrektur-Codewörter werden auf der Basis aller Codewörter (inkl. Symbollängendeskriptor und  aller Füll-Codewörter berechnet). Eine Codewort-Sequenz wird über ein Polynom definiert als:
+
+d(x)=d xn-1+d xn-2+ ... +dx+d
 
 n-1
 
 n-2 1 0
+
+Algorithmus:
 
 1. Setze die Datencodewortsequenz d ... d n-1
 
@@ -16817,9 +16111,9 @@ j
 
 j
 
-END 5
+END
 
-Beispiel :
+Beispiel5
 
 Die im PDF dargestellten Daten werden durch die Codewörter 5,453,178,121,239 repräsentiert, mit einem  vorangehenden Symbollängendeskriptor. Es gibt kein Füllcodewort.
 
@@ -16835,9 +16129,9 @@ d  = 121 1
 
 d  = 239 0
 
-Sei der Fehlerkorrekturlevel s = 1, dann ist  s+1
+Sei der Fehlerkorrekturlevel s = 1, dann ist
 
-k = 2 = 4
+k = 2s+1 = 4
 
 ,..., = 522,568,723,809 0
 

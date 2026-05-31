@@ -2,8 +2,6 @@
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_EDMP_RUECKENSCHMERZ]
 
-Seite 1 von 30 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz / Version: 1.02 / 12. Februar 2024
-
 **KASSENÄRZTLICHE**  **BUNDESVEREINIGUNG**
 
 **DEZERNAT DIGITALISIERUNG UND IT**
@@ -16,6 +14,8 @@ Seite 1 von 30 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz / Version: 1.0
 
 **DOKUMENTENSTATUS: IN KRAFT**
 
+Seite 1 von 30 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz / Version: 1.02 / 12. Februar 2024
+
 
 ---
 
@@ -23,69 +23,115 @@ Seite 1 von 30 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz / Version: 1.0
 
 **1** **ALLGEMEINES**
 
+**4**
+
 1.1 Rechtsgrundlage
+
+4
 
 1.2 Zertifizierungsablauf
 
+4
+
 1.3 Zertifizierungsportal
+
+5
 
 1.4 Zertifizierungsdokumente
 
+5
+
 1.5 Prüfunterlagen
 
-1.6 Prüfvorgaben  1.6.1 Prüfstammdaten 1.6.2 Versichertendaten
+5
+
+1.6 Prüfvorgaben
+
+7
+
+1.6.1 Prüfstammdaten
+
+7
+
+1.6.2 Versichertendaten
+
+7
 
 1.6.3 Praxisdaten/ Arztstempel
 
+7
+
 1.6.4 Krankenhausdaten
+
+8
 
 1.6.5 Prüfnummer
 
-1.6.6 Stammdatei der Datenannahmestellen (SDDA)
+8
 
-1.6.7 Auflistung der Prüffälle
+1.6.6 Stammdatei der Datenannahmestellen (SDDA) 8
+
+1.6.7 Auflistung der Prüffälle 8
 
 **2** **PRÜFFÄLLE**
 
-2.1 Prüffälle Dokumentation  2.1.1 Prüffall 3511 2.1.2 Prüffall 3512
+**9**
+
+2.1 Prüffälle Dokumentation
+
+9
+
+2.1.1 Prüffall 3511
+
+9
+
+2.1.2 Prüffall 3512
+
+12
 
 2.1.3 Prüffall 3520
 
-2.2 Prüffall Systemreaktion  2.2.1 Prüffall 3514
+14
 
-2.3 Weitere Prüffälle zum Anforderungskatalog 2.3.1 Prüffall 3530
+2.2 Prüffall Systemreaktion
+
+17
+
+2.2.1 Prüffall 3514
+
+17
+
+2.3 Weitere Prüffälle zum Anforderungskatalog 21
+
+2.3.1 Prüffall 3530
+
+21
 
 2.3.2 Prüffall 3540
 
+23
+
 **3** **TESTDATENVALIDIERUNG**
-
-3.1 Prüffall Testdatenvalidierung  3.1.1 Prüffall TDV3518
-
-**4** **ANHANG**
-
-4.1 Prüffall 10  Ersatzverfahren
-
-**5** **REFERENZIERTE DOKUMENTE**
-
-Version: 1.02 / 12. Februar 2024
-
-**4**
-
-4  4  5  5  5  7  7  7  7  8  8  8  8
-
-**9**
-
-9  9  12  14  17  17  21  21  23
 
 **24**
 
-25  25
+3.1 Prüffall Testdatenvalidierung 25
+
+3.1.1 Prüffall TDV3518
+
+25
+
+**4** **ANHANG**
 
 **28**
 
-28
+4.1 Prüffall 10  Ersatzverfahren 28
+
+**5** **REFERENZIERTE DOKUMENTE**
 
 **29**
+
+Version: 1.02 / 12. Februar 2024
 
 
 ---
@@ -139,19 +185,21 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 **Archivdatei** mit den Prüfunterlagen
 
-/ Version: 1.02 / 12. Februar 2024
+/ Version: 1.02 / 12. Februar 2024 6  6  24
+
+24
 
 **Seite**
 
 Prüffälle
 
-Alle    23
+Alle 23
 
 Alle 23
 
 21
 
-alle 6  6  24  24
+alle
 
 
 ---
@@ -268,9 +316,9 @@ die Bildung der Dateinamen, die Verzeichnisstruktur und die weiteren Angaben ent
 
 [Konditional] Multimorbider Fall: Sofern Ihr System eine Zulassung für eine oder mehrere in dem Prüffall  3520 genannten Indikationen verfügt, müssen die entsprechenden Daten ebenfalls dokumentiert  werden. Dabei müssen die Dateien entsprechend den Vorga (*.zip.XKM) direkt in dem Hauptverzeichnis des zip-Archives abgelegt werden.
 
-**Videodateien, Screenshots ausgewählter Anforderungen** Die geforderten Videomitschnitte, Screenshots und die Teilnahmeerklärung (Prüffall 3540)  einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet. 1 2 3
+**Videodateien, Screenshots ausgewählter Anforderungen** Die geforderten Videomitschnitte, Screenshots und die Teilnahmeerklärung (Prüffall 3540)  einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet. [PrüffallNr.]1_[lfdNr.]2 3
 
-[PrüffallNr.] _[lfdNr.] .*  Teilnahmeerklärung (Prüffall 3540): TE_EWE_CR.pdf   Alle Prüfunterlagen (CR-Unterlagen und der Ordner „Dokumentation“) sind in einem ZIP
+Teilnahmeerklärung (Prüffall 3540): TE_EWE_CR.pdf   Alle Prüfunterlagen (CR-Unterlagen und der Ordner „Dokumentation“) sind in einem ZIP
 
 übermitteln. Die CR-Unterlagen werden direkt in dem Hauptverzeichnis übertragen und nicht gesondert  in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. . Der Ordner
 
@@ -1238,7 +1286,7 @@ Nicht möglich 8
 
 5
 
-/ Version:
+/ Version: 1 02 / 12. Februar 2024
 
 Ja
 
@@ -1260,7 +1308,7 @@ Ja 4
 
 Mindestens ein Ziel  erreicht
 
-Nein 1 02 / 12. Februar 2024
+Nein
 
 
 ---
@@ -1400,6 +1448,8 @@ Beendigung der DMP-Teilnahme vereinbart
 
 **3.** **Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation**  **abgeschlossen werden kann .**
 
+zen
+
 / Version: 1.02 / 12. Februar 2024 10
 
 Ja
@@ -1414,9 +1464,9 @@ Ja
 
 **Erstdokumentation**
 
-Ja, nicht möglich
+Ja, nicht möglich 11
 
-zen 11 1,5
+1,5
 
 Mindestens ein Ziel  erreicht
 
@@ -1907,9 +1957,7 @@ Aktuelle kreuzschmerzbedingte Schmerzmedikation: Nicht Opioidanalgetika
 
 bedeuten?
 
-**Arbeitsfähigkeit**
-
-*0 = keine*
+**Arbeitsfähigkeit**  *0 = keine*
 
 / Version: 1.02 / 12. Februar 2024 6
 
@@ -2132,9 +2180,9 @@ KBV_ITA_VGEX_Schnittstelle_eHeader
 
 XPM-Paket_CR
 
-XPM-Paket_COPD 4
+XPM-Paket_COPD
 
-Austausch_von_XML-Daten_Vn.nn.ZIP
+Austausch_von_XML-Daten_Vn.nn.ZIP4
 
 KBV_ITA_RLEX_Zert
 
@@ -2142,17 +2190,15 @@ KBV_ITA_FMEX_AAZ_eDMP_CR
 
 Prüfstammdateien
 
-KBV-Kryptomodul (XKM) und öffentlicher  Testschlüssel 5
+KBV-Kryptomodul (XKM) und öffentlicher  Testschlüssel
 
-VSD_5.2.0_Testfaelle_Vn.n.zip
+VSD_5.2.0_Testfaelle_Vn.n.zip5
 
 KBV_ITA_VGEX_Schnittstelle_SDDA
 
 KBV_ITA_VGEX_Schnittstelle_SDKT
 
-________________
-
-4 n.nn steht für die aktuelle Versionsnummer, zum Beispiel 1.50
+________________  4 n.nn steht für die aktuelle Versionsnummer, zum Beispiel 1.50
 
 5 n.n steht für die aktuelle Versionsnummer, zum Beispiel 2.3
 

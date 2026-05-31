@@ -11,7 +11,7 @@ Ansprechpartner KV Nordrhein:
 | IT | Kontakt |
 |---|---|
 
--Hotline Erreichbarkeit Montag bis Donnerstag 8 bis 17 Uhr Freitag 8 bis 13 Uhr Telefon  +49 221 7763 4444  Fax  +49 221 5970 9500 E-Mail it-hotline@kvno.de
+-Hotline Erreichbarkeit Montag bis Donnerstag Freitag 8 bis 17 Uhr 8 bis 13 Uhr Telefon  +49 221 7763 4444  Fax  +49 221 5970 9500 E-Mail it-hotline@kvno.de
 
 ---
 
@@ -114,11 +114,11 @@ Anpassen des Dateinamens des XSL-Stylesheets. - Hinweis, dass bei Einsatz des Ap
 
 # 2 Vorbemerkungen
 
-Die Kassenärztliche Vereinigung Nordrhein bietet allen ihren Mitgliedern die Möglich- keit eine elektronische Sammelerklärung (eSammelerklärung) als Teil der Quar- 1
+Die Kassenärztliche Vereinigung Nordrhein bietet allen ihren Mitgliedern die Möglich- keit eine elektronische Sammelerklärung (eSammelerklärung) als Teil der Quar- talsabrechnung, die online über den E-Mail Dienst der Telematikinfrastruktur KIM1 an
 
-talsabrechnung, die online über den E-Mail Dienst der Telematikinfrastruktur KIM an  die KV Nordrhein gesendet wird, einzureichen. Die eSammelerklärung muss im  2
+die KV Nordrhein gesendet wird, einzureichen. Die eSammelerklärung muss im  PDF/A-1b2 Format erstellt sein und ist mit einer Signaturkarte qualifiziert zu signie-
 
-PDF/A-1b Format erstellt sein und ist mit einer Signaturkarte qualifiziert zu signie- ren.
+ren.
 
 Die Sammelerklärung ist im Honorarverteilungsmaßstab der Kassenärztlichen Verei- nigung Nordrhein (HVM) geregelt. Die Sammelerklärung stellt die rechtsverbindliche  Erklärung des Arztes dar, dass seine Abrechnung ordnungsgemäß und vollständig  erbracht wurde. Da die Sammelerklärung die Abbildung vertraglicher Bestimmungen  zwischen den Kassen und der KV Nordrhein ist, diese sich in unregelmäßigen Zeitin- tervallen ändern, ändert sich ggf. auch der Inhalt der Sammelerklärung.
 
@@ -146,9 +146,7 @@ gehensweise sinnvoll ist.
 
 Basis für den Aufbau der Sammelerklärung ist die Schnittstellenbeschreibung „elekt-
 
-3
-
-ronische Sammelerklärung (eSE)“ der kv.digital.
+ronische Sammelerklärung (eSE)“3 der kv.digital.
 
 Das vorliegende Dokument führt die Strukturelemente auf, die von der KV Nordrhein  gefordert werden und sich in der genannten Schnittstelle wiederfinden; die Vorgaben  der KV Nordrhein beziehen sich nur auf Teile der genannten Schnittstelle.
 
@@ -242,25 +240,19 @@ definiert sind. Für die Anforderungen der KV Nordrhein sind folgende Elemente z
 
 ### 3.2.1 Fallstatistik
 
-Mit dem Element fall_statistik
+Mit dem Element fall_statistik ist anzugeben, wie viele Behandlungsfälle die Praxis ins-
 
 gesamt abrechnet. Das Element ist wie folgt zu verwenden:
 
 ### 3.2.2 Vertretung
 
-Mit dem Element vertretungszeit_liste
+Mit dem Element vertretungszeit_liste werden sowohl die Vertretungszeiten als auch
 
-die Personen genannt, die in der eigenen Praxis eine Vertretung übernommen haben.  Haben keine Vertretungen stattgefunden, kann dies auf zwei Arten angezeigt werden. Zum  einen kann das Element  gende Struktur verwendet werden:
+die Personen genannt, die in der eigenen Praxis eine Vertretung übernommen haben.  Haben keine Vertretungen stattgefunden, kann dies auf zwei Arten angezeigt werden. Zum  einen kann das Element vertretungszeit_liste komplett fehlen, zum anderen kann fol-
 
-Haben Vertretungen stattgefunden, muss der Zeitraum der Vertretung angegeben werden  und die Person, die die Vertretung durchgeführt hat. Es können beliebig viele Zeiträume mit  den dazugehörigen Vertretern angegeben werden; pro Vertretungszeitraum ist ein  Element als Kindelement zum Element
+gende Struktur verwendet werden:
 
-ist anzugeben, wie viele Behandlungsfälle die Praxis ins-
-
-werden sowohl die Vertretungszeiten als auch
-
-vertretungszeit_liste komplett fehlen, zum anderen kann fol-
-
-true anzulegen.
+Haben Vertretungen stattgefunden, muss der Zeitraum der Vertretung angegeben werden  und die Person, die die Vertretung durchgeführt hat. Es können beliebig viele Zeiträume mit  den dazugehörigen Vertretern angegeben werden; pro Vertretungszeitraum ist ein  Element als Kindelement zum Element true anzulegen.
 
 komplex
 

@@ -34,115 +34,85 @@
 
 **Anbieter**
 
-CompuGroup Medical Deutschland AG
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-CompuGroup Medical Deutschland AG
-
-Dedalus HealthCare GmbH
-
-medatixx GmbH & Co. KG
-
-medatixx GmbH & Co. KG
-
-INDAMED EDV-Entwicklung und Vertrieb GmbH
-
-Zollsoft GmbH
-
-CompuGroup Medical Deutschland AG
-
-medatixx GmbH & Co. KG
-
-CompuGroup Medical Deutschland AG
-
-T 2med GmbH & Co. KG
-
-CGM Clinical Europe GmbH
-
-Frey ADV GmbH 1
-
-**Installationen 2.Q.2025**
-
-1 706
-
-770
-
-559
-
-482
-
-399
-
-363
-
-357
-
-315
-
-311
-
-287
-
-244
-
-186
-
-160
-
-**Installationen 1.Q.2025**
+CompuGroup Medical Deutschland AG 1 706
 
 1 740
 
-786
-
-559
-
-496
-
-381
-
-362
-
-345
-
-314
-
-319
-
-290
-
-236
-
-187
-
-162
-
-**Differenz**
-
 -34
+
+CompuGroup Medical Deutschland AG 770
+
+786
 
 -16
 
+Dedalus HealthCare GmbH 559
+
+559
+
 0
+
+medatixx GmbH & Co. KG 482
+
+496
 
 -14
 
+medatixx GmbH & Co. KG 399
+
+381
+
 18
 
+INDAMED EDV-Entwicklung und Vertrieb GmbH 363 362
+
 1
+
+Zollsoft GmbH 357
+
+345
 
 12
 
+CompuGroup Medical Deutschland AG 315
+
+314
+
 1
+
+medatixx GmbH & Co. KG 311
+
+319
 
 -8
 
+CompuGroup Medical Deutschland AG 287
+
+290
+
 -3
+
+T 2med GmbH & Co. KG 244
+
+236
 
 8
 
+CGM Clinical Europe GmbH 186
+
+187
+
 -1
 
+Frey ADV GmbH 160
+
+162
+
 -2
+
+1
 
 
 ---
@@ -179,50 +149,46 @@ PEGA Elektronik GmbH
 
 MEDYS GmbH 2
 
-**Installationen 2.Q.2025**
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
 148
 
-139
-
-133
-
-132
-
-130
-
-94
-
-85
-
-**Installationen 1.Q.2025**
-
 157
-
-136
-
-133
-
-132
-
-135
-
-96
-
-89
-
-**Differenz**
 
 -9
 
+139
+
+136
+
 3
 
-0
+133
+
+133
 
 0
+
+132
+
+132
+
+0
+
+130
+
+135
 
 -5
 
+94
+
+96
+
 -2
+
+85
+
+89
 
 -4

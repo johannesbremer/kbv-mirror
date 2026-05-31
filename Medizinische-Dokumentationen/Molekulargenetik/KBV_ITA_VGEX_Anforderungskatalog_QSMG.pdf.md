@@ -5,13 +5,13 @@
 |  | ** |
 |  | Dezernat |
 |  |  |
-|  | Herbert-Lewin-Platz 2 |
+|  | 10623 Berlin, |
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
-|  | 14.11.2025 |
+|  | Version |
 
-kulargenetik Digitalisierung und IT 10623 Berlin, Version  1.16 Datum: Kennzeichnung: Öffentlich  Status: In Kraft
+kulargenetik Digitalisierung und IT Herbert-Lewin-Platz 2 1.16 Datum: 14.11.2025 Kennzeichnung: Öffentlich  Status: In Kraft
 
 
 ---
@@ -199,9 +199,9 @@ dient den Korrekturen.
 
 30.06
 
-### Melde- quartal
+### Melde- Prüfquartal
 
-### Prüfquartal
+### quartal
 
 
 ---
@@ -595,8 +595,8 @@ Es sind folgende Import-Status möglich:
 | **Status** | **Beschreibung** |
 |---|---|
 | OK | Die Datei wurde erfolgreich importiert. |
-| OK (implausibel) | es sind Fehler in der Datei, die jedoch nicht zum Abbruch des Im- |
-| Datei existiert bereits | cher Zuordnung (ID, BSNR, LANR) vorhanden ist. |
+| OK (implausibel) | Die Datei wurde erfolgreich importiert, aber sie ist implausibel. D.h. |
+| Datei existiert bereits | Die Datei wurde nicht importiert, da bereits ein Datensatz mit glei- |
 | Fehlgeschlagen | Beim Import der Datei sind Fehler aufgetreten, weshalb diese nicht |
 
 Die E-Mail KIM-Nachricht mit der Rückmeldung wird an die Absender – Adresse geschickt,  von der aus der Anwender (Arzt) die exportierten Dateien über KV-Connect KIM übermittelt  hat.
@@ -609,7 +609,7 @@ Das PVS kann muss dem Anwender den Importstatus diese Rückmeldungs-E-Mail in ge
 
 - (2) Ab dem 1. April 2026 ist die Umsetzung dieser Anforderung für die Software verpflichtend.
 
-Die Datei wurde erfolgreich importiert, aber sie ist implausibel. D.h. ports führen. Die Datei wurde nicht importiert, da bereits ein Datensatz mit glei- gespeichert werden konnte. Es handelt sich entweder um Plausibi- litätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. P1-20) übermittelt.
+es sind Fehler in der Datei, die jedoch nicht zum Abbruch des Im- ports führen. cher Zuordnung (ID, BSNR, LANR) vorhanden ist.  gespeichert werden konnte. Es handelt sich entweder um Plausibi- litätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. P1-20) übermittelt.
 
 ---
 

@@ -26,84 +26,88 @@ Englische Version: Patient Health Questionnaire-9 (PHQ-9)
 
 Deutsche Version: © Prof. Dr. Bernd Löwe, 2015, Universitätsklinikum Hamburg-Eppendorf
 
-**Überhaupt**  **nicht**
+**An**
+
+**Überhaupt einzelnen**
+
+**nicht** **Tagen**
 
 0
 
-0
+1
 
 0
 
-0
+1
 
 0
 
-0
+1
 
 0
 
-0
+1
 
 0
+
+1
+
+0
+
+1
+
+0
+
+1
+
+0
+
+1
+
+0
+
+1
 
 der Spaltensummen
 
-**An**  **einzelnen**  **Tagen**
+**An mehr**
 
-1
+**als der**  **Beinahe**
 
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-**An mehr**  **als der**  **Hälfte der**  **Tage**
+**Hälfte der**  **Tage** **jeden Tag**
 
 2
-
-2
-
-2
-
-2
-
-2
-
-2
-
-2
-
-2
-
-2
-
-**Beinahe**  **jeden Tag**
 
 3
 
-3
+2
 
 3
 
-3
+2
 
 3
 
-3
+2
 
 3
 
+2
+
 3
+
+2
+
+3
+
+2
+
+3
+
+2
+
+3
+
+2
 
 3

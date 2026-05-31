@@ -176,7 +176,9 @@ Element <verweis_dokument> im Kapi- tel 15.2 Fachgruppen too Regelung“, „Qua
 
 **...................................................................................... 18**
 
-**Datenbank**
+**19**
+
+**Datenbank .... 19**
 
 **.................... 19**
 
@@ -186,17 +188,13 @@ Element <verweis_dokument> im Kapi- tel 15.2 Fachgruppen too Regelung“, „Qua
 
 **...................................................................................... 21**
 
-**.................................... 22**
-
-**.......................... 22**
-
-**19**
-
-**.... 19**
-
 **22**
 
 **.... 22**
+
+**.................................... 22**
+
+**.......................... 22**
 
 
 ---
@@ -362,7 +360,9 @@ tig sein soll, muss ihre Gültigkeitsdauer durch die Landesebene explizit verlä
 
 ## 2.5 Bei der Anzeige von Arzneimittelvereinbarungen wird die Priori- tät berücksichtigt
 
-Es kann vorkommen, dass einige Präparate von unterschiedlichen Regelungen in den Arz- neimittelvereinbarungen betroffen sind. Beispielsweise könnte das Präparat Nexium sowohl  von einer Leitsubstanzquotenregelung als auch von einer Me-Too Höchstquoten-Regelung  betroffen sein. Wenn die Landesebene im jeweiligen Listenelement im Attribut „prioritaet“ für  die AVS Software-Anbieter definiert hat, welche Regelung eine höhere Priorität besitzt, muss  vom AVS von der VoS die höher priorisierte Regel angezeigt werden. Das AVS Die VoS darf  nicht den Hinweistext anzeigen, welcher zur niedriger priorisierten Regel gehört. Bei gleicher  Priorität müssen beide Hinweistexte angezeigt werden.
+Es kann vorkommen, dass einige Präparate von unterschiedlichen Regelungen in den Arz- neimittelvereinbarungen betroffen sind. Beispielsweise könnte das Präparat Nexium sowohl
+
+von einer Leitsubstanzquotenregelung als auch von einer Me-Too Höchstquoten-Regelung  betroffen sein. Wenn die Landesebene im jeweiligen Listenelement im Attribut „prioritaet“ für  die AVS Software-Anbieter definiert hat, welche Regelung eine höhere Priorität besitzt, muss  vom AVS von der VoS die höher priorisierte Regel angezeigt werden. Das AVS Die VoS darf  nicht den Hinweistext anzeigen, welcher zur niedriger priorisierten Regel gehört. Bei gleicher  Priorität müssen beide Hinweistexte angezeigt werden.
 
 
 ---
@@ -392,9 +392,11 @@ Anforderungskatalog EXT_ITA_VGEX_Anforderungskatalog_AVWG). Die Implementierung 
 
 ## 3.1 Pflichtfunktion: Kennzeichnung in der Verordnungssoftware
 
-Mit dem Element „leitsubstanzquotenr_liste“ werden die Regelungen zu den Leitsubstanzquo- ten wie folgt abgebildet: - 1
+Mit dem Element „leitsubstanzquotenr_liste“ werden die Regelungen zu den Leitsubstanzquo- ten wie folgt abgebildet:
 
--  In der Arzneimitteldatenbank und in der Hausapotheke müssen vom AVS In der VoS  müssen die unter die Leitsubstanzquotenregelung fallenden Präparate entsprechend  für den Arzt erkennbar gekennzeichnet werden. Diese Anforderung gilt auch für die  Hausapotheken gemäß Anforderungskatalog nach § 73 SGB V für Verordnungssoft- ware (siehe Funktion O2 -. 145), sofern diese in der VoS enthalten sind
+-  In der Arzneimitteldatenbank und in der Hausapotheke1 müssen vom AVS In der VoS
+
+- müssen die unter die Leitsubstanzquotenregelung fallenden Präparate entsprechend  für den Arzt erkennbar gekennzeichnet werden. Diese Anforderung gilt auch für die  Hausapotheken gemäß Anforderungskatalog nach § 73 SGB V für Verordnungssoft- ware (siehe Funktion O2 -. 145), sofern diese in der VoS enthalten sind
 
 -  Die Leitsubstanz(en) müssen gesondert für den Arzt erkennbar gekennzeichnet wer- den.
 
@@ -419,7 +421,9 @@ reich zu markieren (siehe auch [EXT_ITA_VGEX_Anforderungskatalog_AVWG], P3- 420)
 
 ## 3.3 Konditionale Pflichtfunktion: Anzeigen eines Hinweistextes für  den Arzt
 
-Das Format bietet die Möglichkeit, Warnhinweise („warnhinweis_ersetzung“) zu implementie- ren, die den Arzt auf die Regelung im KV-Bereich (z.B. Regelung zu den Protonenpumpen- hemmer) hinweisen, wenn er ein Präparat (z.B. Pantozol ) verordnen möchte, das keine Leit- substanz (z.B. Omeprazol) darstellt. Auch kann der Arzt auf eine entsprechende Regelung  hingewiesen werden, wenn er bereits die Leitsubstanz verordnet („hin- weis_verordnung_identisch“).
+Das Format bietet die Möglichkeit, Warnhinweise („warnhinweis_ersetzung“) zu implementie- ren, die den Arzt auf die Regelung im KV-Bereich (z.B. Regelung zu den Protonenpumpen- hemmer) hinweisen, wenn er ein Präparat (z.B. Pantozol ) verordnen möchte, das keine Leit-
+
+substanz (z.B. Omeprazol) darstellt. Auch kann der Arzt auf eine entsprechende Regelung  hingewiesen werden, wenn er bereits die Leitsubstanz verordnet („hin- weis_verordnung_identisch“).
 
 Die entsprechenden Hinweistexte sind optional von der Landesebene zu definieren. Die Hin- weistexte können definiert werden im Element „leitsubstanz“ --> „fachgruppenquote“ > „warn-
 
@@ -442,15 +446,11 @@ Wenn die Landesebene ein arztindividuelles Controlling unterstützen möchte, is
 
 ---
 
-„quote_leitsubstanz_verordnungen“ oder „quote_leitsubstanz_bruttoumsatz“ eine entspre-
-
-chende Quote einzutragen.
+„quote_leitsubstanz_verordnungen“ oder „quote_leitsubstanz_bruttoumsatz“ eine entspre- chende Quote einzutragen.
 
 Die tatsächliche Quote kann sich je nach Vereinbarung auf verordnete DDD, auf verordnete  Packungen oder auf den Bruttoumsatz verordneter Packungen beziehen.
 
-Wird von der Landesebene gewünscht, dass die Leitsubstanzquotenregelung auf Basis der  DDD ausgewertet wird, so sind von der Landesebene alle PZN und die entsprechenden DDD  („ddd_je_packung“) für alle von der jeweiligen Regelung betroffenen Wirkstoffe bereit zu stel-
-
-len.
+Wird von der Landesebene gewünscht, dass die Leitsubstanzquotenregelung auf Basis der  DDD ausgewertet wird, so sind von der Landesebene alle PZN und die entsprechenden DDD  („ddd_je_packung“) für alle von der jeweiligen Regelung betroffenen Wirkstoffe bereit zu stel- len.
 
 Die Quote **auf** **Basis der verordneten DDD**
 
@@ -470,9 +470,15 @@ Wird ein arztindividuelles Controlling **auf Basis verordneter Packungen**
 
 Quote nach folgender Formel berechnet:
 
-*VerordnungenLeitsubstanz(en)*
+*en*
 
-*Quote (%)* *VerordnungenWirkstoffgruppe(n)*
+*Verordnung Leitsubstanz(en)*
+
+*Quote (%)*
+
+*en*
+
+*Verordnung Wirkstoffgruppe(n)*
 
 Dabei sind in der Wirkstoffgruppe bzw. den Wirkstoffgruppen des Nenners ebenfalls die Leit- substanzen enthalten.
 
@@ -480,9 +486,15 @@ Wird ein arztindividuelles Controlling** auf Basis Bruttoumsatz**
 
 nach folgender Formel berechnet:
 
-*BruttoumsatzLeitsubstanz(en)*
+*tz*
 
-*Quote (%)* *BruttoumsatzWirkstoffgruppe*
+*Bruttoumsa Leitsubstanz(en)*
+
+*Quote (%)*
+
+*tz*
+
+*Bruttoumsa Wirkstoffgruppe*
 
 Dabei sind in der Wirkstoffgruppe bzw. den Wirkstoffgruppen des Nenners ebenfalls die Leit- substanzen enthalten.
 
@@ -588,13 +600,17 @@ Wird ein arztindividuelles Controlling **auf Basis verordneter Packungen**
 
 Quote nach folgender Formel berechnet:
 
-*Verordnungen Me too Präparate*
+*en*
+
+*Verordnung Me too Präparate*
 
 *(%)*
 
 *Quote*
 
-*Verordnungen gesamte GKV - Arzneimittelverordnungen des Arztes*
+*en*
+
+*Verordnung gesamte GKV - Arzneimittelverordnungen des Arztes*
 
 Wird eine Controllingfunktion auf Basis der verordneten Packungen von der Landesebene  gewünscht, ist im optionalen Element „quote_me_too_verordnungen“ im Attribut „V“ die Quote  anzugeben. Das Controlling wird auf alle vom Arzt über die GKV getätigten Verordnungen von  Fertigarzneimitteln bezogen.
 
@@ -602,11 +618,17 @@ Wird ein arztindividuelles Controlling **auf Basis Bruttoumsatz**
 
 nach folgender Formel berechnet:
 
-*Bruttoumsatz too Präparate*
+*tz*
+
+*Bruttoumsa too Präparate*
 
 *Me*
 
-*Quote (%)* *Bruttoumsatz gesamte GKV - Arzneimittelverordnungen des Arztes*
+*Quote (%)*
+
+*tz gesamte GKV - Arzneimittelverordnungen des Arztes*
+
+*Bruttoumsa*
 
 Wird von der Landesebene ein arztindividuelles Controlling gewünscht, ist einem der optiona- len Elemente „quote_me_too_verordnungen“ oder „quote_me_too_bruttoumsatz“ eine ent- sprechende Quote einzutragen.
 
@@ -631,7 +653,7 @@ gewünscht, wird die Quote
 
 # 6 Umsetzung der DDD-Kostenregelung
 
-Mithilfe der im Element „kostenvergleich_ddd“ beschriebenen Datenfelder müssen vom AVS  von der VoS die in den Kapiteln 4.1 und 4.2 beschriebenen konditionalen Pflichtfunktionen  implementiert werden (siehe auch die Funktionen P3 -610 K3 -610, K3 --630
+Mithilfe der im Element „kostenvergleich_ddd“ beschriebenen Datenfelder müssen vom AVS  von der VoS die in den Kapiteln 4.1 und 4.2 beschriebenen konditionalen Pflichtfunktionen  implementiert werden (siehe auch die Funktionen P3 -610 K3 -610, K3 --630 620, K3 in
 
 EXT_ITA_VGEX_Anforderungskatalog_AVWGdem AVWG-Anforderungskatalog
 
@@ -647,11 +669,13 @@ Diese Anforderung gilt auch für die Hausapotheken gemäß Anforderungskatalog n
 
 Sofern von der Landesebene definiert, wird dem Arzt bei der Verordnung eines Präparates ein  Hinweis gegeben, wenn die tatsächlichen DDD- bzw. PDD-Kosten des Präparates die von der  Landesebene definierten DDD- bzw. PDD- Kosten („zielkosten_je_ddd“) überschreiten.
 
-Hierbei kann die Landesebene einen Startwert oder Toleranzgrenzen  rie_ddd_kostenvergleich“) vorgeben, wann ein Hinweis erscheinen soll.
+Hierbei kann die Landesebene einen Startwert oder Toleranzgrenzen („katego-
+
+rie_ddd_kostenvergleich“) vorgeben, wann ein Hinweis erscheinen soll.
 
 ## 6.3 Konditionale Pflichtfunktion:  Fachgruppenspezifisches Anzeigen eines Hinweistextes für den Arzt
 
-Das Format bietet die Möglichkeit, fachgruppenspezifische
+Das Format bietet die Möglichkeit, fachgruppenspezifische Warnhinweise („warnhin-
 
 weis_ersetzung“) zu implementieren, die den Arzt auf die Regelung im KV-Bereich hinweisen,  wenn er ein Original- Präparat verordnet und zur definierten Fachgruppe gehört. Die Fach-
 
@@ -660,12 +684,6 @@ gruppe und der entsprechende Hinweistext sind von der Landesebene zu definieren.
 Die für den KV-Bereich gültige Quote für eine Fachgruppe (z.B. Anteil der Generika in der  Gruppe der Antibiotika > 85% bei den Allgemeinmedizinern) kann – sofern gewünscht – in  den Hinweistext integriert werden. Die Quote im Hinweistext kann, da es sich hierbei um ein  Textfeld und kein numerisches Feld handelt, nicht für Controllingzwecke genutzt werden. Wird  von der Landesebene ein arztindividuelles Controlling gewünscht, ist in den optionalen Ele- menten „quote_generika_ddd“ oder „quote_generika_verordnungen“ oder „quo- te_generika_bruttoumsatz“ eine entsprechende Quote einzutragen.
 
 Siehe auch Kapitel 3.4.
-
-620, K3 in
-
-(„katego-
-
-Warnhinweise („warnhin-
 
 
 ---
@@ -678,17 +696,15 @@ Die tatsächliche Quote lässt sich **auf Basis der Anzahl verordneter DDD bzw. 
 
 AVS von der VoS ermitteln.
 
-*Anzahl DDD / PDD*
-
-*Zielpreis*
-
-*Wirkstoffgruppe*
+*Anzahl DDD / PDD Wirkstoffgruppe Zielpreis*
 
 *Quote (%)*
 
 ** 100*
 
-*AnzahlDDD / PDDWirkstoffgruppe*
+*Wirkstoffgruppe*
+
+*AnzahlDDD / PDD*
 
 Wird von der Landesebene gewünscht, dass die DDD-Kostenregelung auf Basis der DDD  ausgewertet wird, so sind von der Landesebene alle PZN und die entsprechenden DDD  („ddd_je_packung“) für alle von der jeweiligen Regelung betroffenen Präparate bereit zu stel- len.
 
@@ -758,13 +774,15 @@ Wird von der Landesebene gewünscht, dass die Generika-r Quotenregelung auf Basi
 
 DDD ausgewertet wird, so sind von der Landesebene alle PZN und die entsprechenden DDD  („ddd_je_packung“) für alle von der jeweiligen Regelung betroffenen Wirkstoffe bzw. für den  Gesamtmarkt bereit zu stellen. Die Vergleichsgruppe ist von der KV zu definieren und beinhal- tet auch die entsprechenden Original- Präparate.
 
-*DDDverordnete Generika*
+*DDDverordneteGenerika*
 
 *Quote (%)*
 
 *100
 
-*DDDVergleichsgruppe*
+*Vergleichsgruppe*
+
+*DDD*
 
 Je nach Vereinbarung kann sich eine definierte Generika-s-Quote auch auf den Verordnung
 
@@ -849,7 +867,9 @@ gesenkt werden soll (z.B. Ezetimib® oder Inegy®) Der entsprechende Hinweistext
 
 ## 8.4 Konditionale Pflichtfunktion: Fachgruppenspezifisches Anzei- gen eines Hinweistextes für den Arzt
 
-Das Format bietet die Möglichkeit,  weis_ersetzung“) zu implementieren, die den Arzt auf die Regelung im KV-Bereich hinweisen,  wenn er ein unter die Höchstquotenregelung fallendes Präparat verordnet und zur definierten  Fachgruppe gehört. Die Fachgruppe und der entsprechende Hinweistext sind von der Lan- desebene zu definieren.
+Das Format bietet die Möglichkeit, fachgruppenspezifische Warnhinweise („warnhin-
+
+weis_ersetzung“) zu implementieren, die den Arzt auf die Regelung im KV-Bereich hinweisen,  wenn er ein unter die Höchstquotenregelung fallendes Präparat verordnet und zur definierten  Fachgruppe gehört. Die Fachgruppe und der entsprechende Hinweistext sind von der Lan- desebene zu definieren.
 
 Die für den KV-Bereich gültige Quote für eine Fachgruppe kann – sofern gewünscht – in den  Hinweistext integriert werden. Die Quote im Hinweistext kann, da es sich hierbei um ein Text- feld und kein numerisches Feld handelt, nicht für Controllingzwecke genutzt werden. Wird von  der Landesebene ein arztindividuelles Controlling gewünscht, ist in den optionalen Elementen  „hoechstquote_ddd“ oder „hoechstquote_verordnungen“ oder „hoechstquote_bruttoumsatz“  eine entsprechende Quote einzutragen.
 
@@ -859,15 +879,15 @@ Anhand der von der Landesebene benannten Fachgruppennummer(n) und/oder der Fach-
 
 Controlling-Funktionen sind optional vom AVS von der VoS umzusetzen. Auf Landesebene  können unterschiedliche Quoten für verschiedene Fachgruppen vereinbart sein. Für das Con- trolling gleicht das AVS die VoS die tatsächliche Quote mit der auf der Landesebene verein- barten Zielquote ab.
 
-Die tatsächliche Quote lässt sich **auf Basis der Anzahl verordneter DDD**
+Die tatsächliche Quote lässt sich **auf Basis der Anzahl verordneter DDD auf Basis der**
 
-**verordneten Packungen** oder **auf Basis des Bruttoumsatzes**
+**verordneten Packungen** oder **auf Basis des Bruttoumsatzes** vom AVS von der VoS ermit-
 
 teln.
 
 Wird von der Landesebene gewünscht, dass die Höchstquotenregelung auf Basis der DDD  ausgewertet wird, so sind von der Landesebene alle PZN und die entsprechenden DDD  („ddd_je_packung“) für alle von der jeweiligen Regelung betroffenen Wirkstoffe bzw. für den  Gesamtmarkt bereit zu stellen. Die Vergleichsgruppe ist von der KV zu definieren und beinhal- tet auch die entsprechenden Präparate, welche von der Höchstquotenregelung betroffen sind.
 
-*DDD* *Höchstquotenpräparat e*
+*DDDHöchstquotenpräparat e* *100
 
 *Quote (%)*
 
@@ -875,36 +895,40 @@ Wird von der Landesebene gewünscht, dass die Höchstquotenregelung auf Basis de
 
 Je nach Vereinbarung kann sich eine definierte Höchstquote auch auf den Verordnungsanteil  beziehen. Dann gilt die Formel:
 
-fachgruppenspezifische Warnhinweise („warnhin-
-
-**auf Basis der**
-
-vom AVS von der VoS ermit-
-
-*100
-
 
 ---
 
-*Höchstquotenpräparat e*
+*e*
 
-*Verordnungen*
+*en Höchstquotenpräparat*
+
+*Verordnung*
+
+*100
 
 *(%)*
 
 *Quote*
 
-*VerordnungenVergleichsgruppe*
+*en*
+
+*Verordnung Vergleichsgruppe*
 
 Wird bei „hoechstquote_verordnungen“ zwar eine Quote angegeben, aber keine zusätzliche  Angabe zur Vergleichsgruppe gemacht, ist der Anteil im Verhältnis zu allen vom Arzt über die  GKV getätigten Verordnungen von Fertigarzneimitteln zu setzen.
 
 Wird ein arztindividuelles Controlling auf Basis Bruttoumsatz gewünscht, wird die Quote nach  folgender Formel berechnet:
 
-*BruttoumsatzHöchstquotenpräparat e*
+*tz*
+
+*Bruttoumsa Höchstquotenpräparat e*
 
 *Quote (%)*
 
-*BruttoumsatzVergleichsgruppe*
+*100
+
+*tz*
+
+*Bruttoumsa Vergleichsgruppe*
 
 Wird bei „hoechstquote_bruttoumsatz“ zwar eine Quote angegeben, aber keine zusätzliche  Angabenzur Vergleichsgruppe gemacht, ist der Anteil ins Verhältnis zum Bruttoumsatz aller  vom Arzt über die GKV getätigten Verordnungen von Fertigarzneimitteln zu setzen.
 
@@ -918,6 +942,8 @@ Wird eine Controllingfunktion **auf Basis des Bruttoumsatzes**
 
 wünscht, ist im optionalen Feld „quote_bhoechst
 
+ruttoumsatz“ im Attribut „V“ eine Quote anzu-
+
 geben. Soll sich das Controlling auf Basis Bruttoumsatz auf eine definierte Arzneimittelgruppe  (Vergleichsgruppe) beziehen, ist diese Vergleichsgruppe über Wirkstoffe, ATC 5-Code, Wirk- stoffgruppen, ATC 4-r-Code, Handelsnamen, Standardaggregate oder PZN zu definieren. We
 
 den keine Angaben zur Vergleichsgruppe gemacht, wird das Controlling auf den Bruttoumsatz  aller vom Arzt über die GKV getätigten Verordnungen von Fertigarzneimitteln aus dem Ge- samtmarkt bezogen.
@@ -925,12 +951,6 @@ den keine Angaben zur Vergleichsgruppe gemacht, wird das Controlling auf den Bru
 ## 8.6 Fachgruppenspezifisches Controlling
 
 Siehe Abschnitt Kapitel 3.6 .
-
-*100
-
-*100
-
-ruttoumsatz“ im Attribut „V“ eine Quote anzu-
 
 **zu den verordneten DDD**
 
@@ -963,7 +983,9 @@ stärken und Normgrößen zu berücksichtigen. Der Arzt hat die Möglichkeit, di
 
 ## den Arzt
 
-Das Format bietet die Möglichkeit, für alle Ärzte oder fachgruppenspezifisch Warnhinweise  („warnhinweis_ersetzung“) zu implementieren, die den Arzt auf die Regelung im KV-Bereich  (z.B. Regelung zu den Erythropoetinen) hinweist, wenn er ein Präparat (z.B. Aranesp ) ver- ordnet, das kein Biosimilar ist. Der entsprechende Hinweistext ist optional und wird von der  Landesebene definiert. Die für den KV-Bereich gültige Quote für eine Fachgruppe (z.B. Anteil  an Biosimilars bei den Eryhtropoetinen bei Internisten) kann – sofern gewünscht – in den  Hinweistext integriert werden. Die Quote im Hinweistext kann, da es sich hierbei um ein Text- feld und kein numerisches Feld handelt, nicht für Controllingzwecke genutzt werden. Wird von  der Landesebene ein arztindividuelles Controlling gewünscht, ist unter „biosimilar“  „fach-
+Das Format bietet die Möglichkeit, für alle Ärzte oder fachgruppenspezifisch Warnhinweise  („warnhinweis_ersetzung“) zu implementieren, die den Arzt auf die Regelung im KV-Bereich  ) ver-
+
+(z.B. Regelung zu den Erythropoetinen) hinweist, wenn er ein Präparat (z.B. Aranesp ordnet, das kein Biosimilar ist. Der entsprechende Hinweistext ist optional und wird von der  Landesebene definiert. Die für den KV-Bereich gültige Quote für eine Fachgruppe (z.B. Anteil  an Biosimilars bei den Eryhtropoetinen bei Internisten) kann – sofern gewünscht – in den  Hinweistext integriert werden. Die Quote im Hinweistext kann, da es sich hierbei um ein Text- feld und kein numerisches Feld handelt, nicht für Controllingzwecke genutzt werden. Wird von  der Landesebene ein arztindividuelles Controlling gewünscht, ist unter „biosimilar“  „fach-
 
 
 ---
@@ -972,9 +994,7 @@ gruppenquote“ in den optionalen Elementen „quote_biosimilar_ddd“, „quo- 
 
 ## 9.4 Optionale Funktion: Controlling Biosimilarquotenregelung
 
-Controlling-Funktionen sind optional vom AVS von der VoS umzusetzen. Auf Landesebene  können unterschiedliche Quoten für verschiedene Fachgruppen vereinbart sein. Für das Con- trolling gleicht das AVS die VoS die tatsächliche Quote mit der auf der Landesebene verein-
-
-barten Zielquote ab.
+Controlling-Funktionen sind optional vom AVS von der VoS umzusetzen. Auf Landesebene  können unterschiedliche Quoten für verschiedene Fachgruppen vereinbart sein. Für das Con- trolling gleicht das AVS die VoS die tatsächliche Quote mit der auf der Landesebene verein- barten Zielquote ab.
 
 Die tatsächliche Quote lässt sich  **verordneten Packungen**
 
@@ -986,7 +1006,7 @@ bereit zu stellen.
 
 Die Vergleichsgruppe ist von der KV zu definieren und beinhaltet auch die entsprechenden  Biosimilars. Die Vergleichsgruppe ist bei einer Biosimilarquotenregelung die Arzneimittelgrup- pe, die unterhalb des Elementes „biosimilarquotenregelung“ angegeben wird.
 
-*DDDverordnete Biosimilar*
+*DDDverordneteBiosimilar*
 
 *Quote (%)*
 
@@ -1000,23 +1020,31 @@ oder **auf Basis des Bruttoumsatzes** vom AVS von der VoS ermit-
 
 Je nach Vereinbarung kann sich eine definierte Biosimilar-Quote auch  **nungsanteil** beziehen. Dann gilt die Formel:
 
-*VerordnungenBiosimilar*
+*en*
+
+*Verordnung Biosimilar*
 
 *Quote (%)*
 
 Die Vergleichsgruppe ist von der KV zu definieren und beinhaltet auch die entsprechenden  Biosimilars.
 
-*VerordnungenVergleichsgruppe*
+*en*
+
+*Verordnung Vergleichsgruppe*
 
 Wird ein arztindividuelles Controlling **auf Basis Bruttoumsatz**
 
 nach folgender Formel berechnet:
 
-*BruttoumsatzBiosimilar*
+*tz*
+
+*Bruttoumsa Biosimilar*
 
 *Quote (%)*
 
-*BruttoumsatzVergleichsgruppe*
+*tz*
+
+*Bruttoumsa Vergleichsgruppe*
 
 Die Vergleichsgruppe ist von der KV zu definieren und beinhaltet auch die entsprechenden  Biosimilars.
 
@@ -1529,4 +1557,4 @@ Bei einem als unerwünscht gekennzeichnten Präparat muss dem Anwender angezeigt
 | [KBV_ITA_AHEX_Verfahrensbeschreibung_ARV] | Verfahrensbeschreibung zur Erstellung und Ve |
 | [1] | Veröffentlichung der ARV_Stammdateien durch |
 
-Verordnungssoftware / Arzneimitteldatenbanken arbeitung der XML-Stammdatei für die ARV Schnittstelle, aktuelle Version die KBV: http://www.kbv.de/ita i- r-
+i- Verordnungssoftware / Arzneimitteldatenbanken r- arbeitung der XML-Stammdatei für die ARV Schnittstelle, aktuelle Version die KBV: http://www.kbv.de/ita

@@ -109,13 +109,17 @@ insgesamt, noch gegen das Einstellen des betreffenden Dokuments. Weitere
 
 ## Der Abrechnungsausschluss nach § 372 Abs. 3 SGB V
 
-## solche IT-Systeme für die abrechnungsrelevante
+## solche IT-Systeme für die
 
-## verwenden, die ein Konformitätsbewertungsverfahren nach § 387 erfolgreich
+## verwenden, die ein Konformitätsbewertungsverfahren
+
+## erfolgreich
 
 ## Dokumentation  durchlaufen haben. Das Kompetenzzentrum veröffentlicht auf derselben Plattform eine Liste der
 
 ## bestätigten Systeme.“
+
+## abrechnungsrelevante  nach § 387
 
 -Zertifziertes System genutzt wird
 

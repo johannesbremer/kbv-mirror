@@ -90,7 +90,7 @@ DOKUMENTENHISTORIE
 | 1.20 | 14.12.2017 | KBV | Anpassung der einzureichenden | Anpassung der  redaktionelle | 9 |
 | 1.11 | 23.05.2017 | KBV | Komplettüberarbeitung des | Aktualisierung der | Alle |
 
-ZIP-Archiv Anpassung Prüffall 08 03, Fehlerkorrektur Prüffall 08 aufgenommen Prüfpakets Prüfpakets Zertifizierung Prüfunterlagen von PF02  Prüfpakets Audit, IOWS Workshop kv.digital Anforderung P43-03 Kommunikationsdienstes der gematik (KIM) Anforderungen P44-03, P44-04 und P44-05 Zertifizierungsportales  Anforderung P50-01 Änderungen Zertifizierungsrichtlinie 11,
+ZIP-Archiv Anpassung Prüffall 08 03, Fehlerkorrektur Prüffall 08 aufgenommen Prüfpakets Prüfpakets Zertifizierung Prüfunterlagen von PF02  Prüfpakets Audit, IOWS Workshop kv.digital 11, Anforderung P43-03 Kommunikationsdienstes der gematik (KIM) Anforderungen P44-03, P44-04 und P44-05 Zertifizierungsportales  Anforderung P50-01 Änderungen Zertifizierungsrichtlinie
 
 
 ---
@@ -184,9 +184,7 @@ Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwart
 
 Die Teile der eArztbrief-Lieferung sind im entsprechenden Dateiformat zu exportieren und unter folgender  Namenskonvention direkt in dem Hauptverzeichnis zu übertragen. Diese Dateien werden automatisiert  geprüft. Es ist zu beachten, dass pro Prüffall eine PDF- und eine XML-Datei versendet werden.
 
-- 1
-
--  <PrüffallNr.> .pdf  z.B. **PF01.pdf**
+- <PrüffallNr.>1 .pdf  z.B. **PF01.pdf**
 
 - <PrüffallNr.> .xml  z.B. **PF01.xml**
 
@@ -195,29 +193,27 @@ Die Teile der eArztbrief-Lieferung sind im entsprechenden Dateiformat zu exporti
 
 ---
 
-Die für den Versand sowie für den Empfang geforderten Videomitschnitte und Screenshots mü einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.
+- <PrüffallNr.> _[lfdNr.]2 3
 
-- 2 3
+Die für den Versand sowie für den Empfang geforderten Videomitschnitte und Screenshots müssen in
 
--  <PrüffallNr.> _[lfdNr.] .*
-
-Die gesammelten eArztbrief-Lieferungen und der Ordner „Dokumentation sind in einem zip
-
-übermitteln. Das zip- Archiv muss mit „Zert_063_<SystemID>“ benannt werden. Die SystemID ergibt sich
-
-aus den letzten drei Stellen der Prüfnummer.
-
-Die Struktur des zip- Archives sollte die folgende Form aufweisen.  **und Nummerierung der Dateien von der aktuellen Anzahl der einzureichenden Prüffälle gemäß dem**  **gültigen Prüfpaket abhängen.**
-
-**Abbildung 1: Beispiel Struktur des zip-Archives.**
+einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.
 
 2 Laufende Nr.
 
 3 Gängiges Bild- bzw. Videoformat
 
-ssen in -Archiv zu
+Die gesammelten eArztbrief-Lieferungen und der Ordner „Dokumentation sind in einem zip-Archiv zu
 
-**Dabei ist zu beachten, dass die Anzahl**
+übermitteln. Das zip- Archiv muss mit „Zert_063_<SystemID>“ benannt werden. Die SystemID ergibt sich
+
+aus den letzten drei Stellen der Prüfnummer.
+
+Die Struktur des zip- Archives sollte die folgende Form aufweisen. **Dabei ist zu beachten, dass die Anzahl**
+
+**und Nummerierung der Dateien von der aktuellen Anzahl der einzureichenden Prüffälle gemäß dem**  **gültigen Prüfpaket abhängen.**
+
+**Abbildung 1: Beispiel Struktur des zip-Archives.**
 
 
 ---
@@ -232,9 +228,9 @@ Die Verwendung dieser Import-Schnittstelle ist nur für Prüfzwecke erlaubt und 
 
 **HINWEIS**
 
-4
+Die Archivdatei (VSD_5.2.0_Testfaelle_Vn.n4.zip) enthält für sämtliche Prüffälle die benötigten
 
-Die Archivdatei (VSD_5.2.0_Testfaelle_Vn.n .zip) enthält für sämtliche Prüffälle die benötigten  Patientendaten als XML-Dateien:
+Patientendaten als XML-Dateien:
 
 - EF.VD = allgemeine Versicherungsdaten
 

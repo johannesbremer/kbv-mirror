@@ -2,71 +2,101 @@
 
 **Name, Vorname des Versicherten**
 
+**geb. am**
+
 **Versicherten-Nr.**
 
 **Kostenträgerkennung**
 
-**Betriebsstätten-Nr.** **Arzt-Nr.** **Datum**
+**Status**
+
+**Betriebsstätten-Nr.** **Arzt-Nr.**
+
+**Datum**
 
 **Krankenkasse bzw. Kostenträger**
 
 **Name, Vorname des Versicherten**
 
+**geb. am**
+
 **Kostenträgerkennung** **Versicherten-Nr.**
 
+**Status**
+
 **Betriebsstätten-Nr.** **Arzt-Nr.**
+
+**Datum**
 
 ### III Kostenschätzung
 
 **Alle Angaben stehen unter dem Vorbehalt einer nacht** **Auflistung der Positionen ggf. auf separatem Beiblatt. Kostenschätzungen sind als durchschnittliche Kostenspanne in Euro anzugeben.**
 
-**a Kosten für einmalig im Reproduktionsfall** **anfallende Leistungen** **Reproduktionsfall anfallende L**
+**a Kosten für einmalig im Reproduktionsfall** **anfallende Leistungen**
 
 **Ärztliche Behandlung (EBM-Positionen)**
 
-**Summe Ärztliche** **Summe Ärztliche**
+**Summe Ärztliche**
 
 **Behandlung** **(Euro)**
 
-**Sachkosten und** **Sprechstunden-** **bedarf (Euro)**
+**(Euro)**
 
-**Gesamtsumme** **für einmalig im** **Reproduktionsfall** **anfallende** **Leistungen (Euro)** **Ort** **Datum**
+**Sachkosten und** **Sprechstunden-**
 
-### IV Genehmigung durch die Krankenkasse(n)
+**kosten**
 
-**Die** **auf** **die** **jeweils** **zulässige** **Höchstzahl**
+**bedarf (Euro)**
 
-**Vorbehandlungen** **sind** **zu** **berücksichtigen**
-
-**die** **Anzahl** **der** **genehmigten** **Zyklen.**
-
-**Bei** **einer** **Genehmigung** **für** **3** **IVF-**
-
-**der** **3.** **IVF-** **oder** **ICSI-Zyklus** **unter**
-
-**einem** **von** **2** **Behandlungszyklen**
-
-**gefunden** **hat.** **Bei** **Inseminationen**
-
-**die** **Genehmigung** **für** **bis** **zu** **8**
-
-**erteilt werden.**
-
-**Status**
+**Gesamtsumme** **für einmalig im** **Reproduktionsfall** **anfallende** **Leistungen (Euro)** **Ort**
 
 **Datum**
 
-**anzurechnenden** **und**
+**pro Zyklusfall** **(Euro)**
 
-**oder** **ICSI-Zyklen**
+### IV Genehmigung durch die Krankenkasse(n)
 
-**dem** **Vorbehalt,**
+**Die** **auf** **die** **jeweils** **zulässige** **Höchstzahl** **anzurechnenden**
 
-**eine** **Befruchtung**
+**Vorbehandlungen** **sind** **zu** **berücksichtigen** **und** **verringern**
 
-**im** **Spontanzyklus**
+**die** **Anzahl** **der** **genehmigten** **Zyklen.**
 
-**in** **Folge** **geplante**
+**Bei** **einer** **Genehmigung** **für** **3** **IVF-** **oder** **ICSI-Zyklen** **steht**
+
+**der** **3.** **IVF-** **oder** **ICSI-Zyklus** **unter** **dem** **Vorbehalt,** **dass** **in**
+
+**einem** **von** **2** **Behandlungszyklen** **eine** **Befruchtung** **statt-**
+
+**gefunden** **hat.** **Bei** **Inseminationen** **im** **Spontanzyklus** **kann**
+
+**die** **Genehmigung** **für** **bis** **zu** **8** **in** **Folge** **geplante** **Zyklen**
+
+**auf beiden Ausfertigungen**
+
+**erteilt werden.**
+
+**Nach**  **27a** **SGB** **V** **sind** **50%** **der** **entstehenden** **Kosten**
+
+**(inklusive** **Medikamentenkosten,** **siehe** **Abschnitt** **III** **b)**
+
+**Eigenanteil** **des** **Patienten.** **Eine** **abschließende** **Berech-**
+
+**nung** **der** **Gesamtkosten** **kann**  **u.** **a.** **in** **Abhängigkeit** **des**
+
+**vertraglich** **vereinbarten** **Punktwertes** **in** **Cent** **bzw.** **Euro**
+
+**erst** **nach** **Beendigung** **der** **Behandlung** **erfolgen.**
+
+**Bei** **Änderungen** **der** **Behandlungsmethode** **(siehe** **Abschnitt**
+
+**II)** **sowie** **spätestens** **nach** **Ablauf** **eines** **Jahres** **seit** **der**
+
+**Genehmigung** **ist** **ein** **neuer** **Behandlungsplan** **vorzulegen.**
+
+**Ausfertigung nach Genehmigung zum Verbleib** **beim Vertragsarzt**
+
+**Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
 
 ## Behandlungsplan
 
@@ -74,19 +104,13 @@
 
 **für Maßnahmen zur künstlichen Befruchtung gemäß § 2 7a SGB V** **sowie der ,,Richtlinien über künstliche Befruchtung" des** **Gemeinsamen Bundesausschusses für die hier genannten Ehegatten**
 
-**geb. am**
-
 ### Indikation(en)I
 
 **gemäß Nummern 11.1-11.5 der Richtlinien über künstliche Befruchtung**
 
-**Status**
-
 ### II Geplante Behandlungsmaßnahme
 
 **Insemination im Spontanzyklus (gemäß Nr. 10.1)**
-
-**geb. am**
 
 **Insemination nach hormoneller Stimulation (gemäß Nr. 10.2)**
 
@@ -100,23 +124,21 @@
 
 **räglichen Änderung der diagnostischen und therapeutischen Einzelfallerfordernisse.**
 
-**b Kosten pro Zyklusfall (ohne einmalig im**
+**b Kosten pro Zyklusfall (ohne einmalig im** **Reproduktionsfall anfallende Leistungen)**
 
-**Ärztliche Behandlung**
+**Ärztliche Behandlung (EBM-Positionen)**
 
-**Behandlung** **(Euro)**
+**Summe Ärztliche** **Behandlung**
 
-**Medikamenten-** **kosten**
-
-**eistungen)**
-
-**(EBM-Positionen)**
+**Medikamenten-**
 
 **(Euro)**
 
 **Sachkosten und** **Sprechstunden-** **bedarf (Euro)**
 
-**Gesamtsumme** **pro Zyklusfall** **(Euro)**
+**Gesamtsumme**
+
+**Vertragsarztstempel / Unterschrift des Arztes**
 
 **Der Behandlungs-/Kostenplan wird**
 
@@ -124,54 +146,28 @@
 
 **für maximal**
 
-**verringern**
+**nicht genehmigt** **(separate Begründung** **anbei)**
 
-**steht** **dass** **in**
-
-**statt-** **kann Ort**
-
-**Zyklen**
-
-**nicht genehmigt** **(separate Begründung** **anbei)** **Datum**
-
-**Vertragsarztstempel / Unterschrift des Arztes**
-
-**Stempel und Unterschrift der Krankenkasse,** **auf beiden Ausfertigungen**
-
-**Nach**  **27a** **SGB** **V** **sind** **50%** **der** **entstehenden** **Kosten**
-
-**(inklusive** **Medikamentenkosten,** **siehe** **Abschnitt** **III** **b)**
-
-**Eigenanteil** **des** **Patienten.** **Eine** **abschließende** **Berech-**
-
-**Zyklen/Zyklusgenehmigt**
-
-**für maximal**
-
-**nung** **der** **Gesamtkosten** **kann**  **u.** **a.** **in** **Abhängigkeit** **des**
-
-**vertraglich** **vereinbarten** **Punktwertes** **in** **Cent** **bzw.** **Euro**
-
-**erst** **nach** **Beendigung** **der** **Behandlung** **erfolgen.**
-
-**nicht genehmigt**
-
-**Bei** **Änderungen** **der** **Behandlungsmethode** **(siehe** **Abschnitt**
-
-**II)** **sowie** **spätestens** **nach** **Ablauf** **eines** **Jahres** **seit** **der**
-
-**Genehmigung** **ist** **ein** **neuer** **Behandlungsplan** **vorzulegen.** **Ort**
-
-**Ausfertigung nach Genehmigung zum Verbleib** **beim Vertragsarzt**
-
-**(separate Begründung** **anbei)**
+**Ort**
 
 **Datum**
 
 **Stempel und Unterschrift der Krankenkasse,**
 
-**Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.** **PRF.NR.**
+**Zyklen/Zyklus**
 
-**auf beiden Ausfertigungen**
+**für maximal**
+
+**nicht genehmigt** **(separate Begründung** **anbei)**
+
+**Ort**
+
+**PRF.NR.**
+
+**genehmigt**
+
+**Datum**
+
+**Stempel und Unterschrift der Krankenkasse,** **auf beiden Ausfertigungen**
 
 **Muster 70a/E (10.2014)**

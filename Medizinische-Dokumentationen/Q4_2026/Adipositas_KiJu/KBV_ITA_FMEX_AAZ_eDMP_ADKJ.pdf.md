@@ -43,7 +43,6 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 | **Telefonnummer** |  | | |
 | **E-Mail-Adresse** |  | | |
 
-[ ] [ ] [ ]
 
 ---
 
@@ -76,13 +75,8 @@ Bitte geben Sie im Folgenden an, welche Client
 | ☐ | Windows | ☐ | Mac OS | ☐ | Linux |
 | ☐ | iOS/Android | ☐ | Sonstige | | |
 
-[ ]
-
-[ ]
-
 -Betriebssysteme unterstützt werden.
 
-[ ] [ ] [ ]
 
 ---
 
@@ -92,10 +86,6 @@ Bitte geben Sie im Folgenden an, welche Client
 |---|---|
 | ☐ | Der Antragsteller versichert, dass die aktuelle Version der verbindlichen Kostenträger |
 | ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden |
-
-[ ]
-
-[ ]
 
 ## 2.1 REALISIERTE OPTIONALE FUNKTIONEN EDMP ADIPOSITAS
 
@@ -116,7 +106,7 @@ Folgende optionale eDMP Adipositas-Kinder und Jugendliche Funktionen sind gem. A
 
 ## - KINDER UND JUGENDLICHE
 
-der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind. -Stammdatei [ ] [ ] [ ] EDMP ADIPOSITAS - KINDER UND
+der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind. -Stammdatei EDMP ADIPOSITAS - KINDER UND
 
 ---
 

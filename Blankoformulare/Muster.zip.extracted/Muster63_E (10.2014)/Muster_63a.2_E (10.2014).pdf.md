@@ -2,19 +2,31 @@
 
 **Kostenträgerkennung**
 
+**Versicherten-Nr.**
+
 ### Antrag des Versicherten
 
 **Die spezialisierte ambulante Palliativversorgung wird** **wie vom behandelnden Arzt verordnet beantragt.**
+
+**Datum**
 
 **Datenschutzhinweis (§ 67a Abs. 3 SGB X): Damit wir Ihren Antrag auf SAPV-Leistungen** **bearbeiten können, ist Ihr Mitwirken nach § 60 SGB I erforderlich. Ihre Daten sind im** **vorliegenden Falle aufgrund § 37b SGB V i. V. m. § 92 Abs. 1 SGB V zu erheben.**
 
 ### Angaben des Leistungserbringers für die SAPV
 
-**Die verordnete spezialisierte ambulante Palliativversorgung** **wird für den Zeitraum**
+**Die verordnete spezialisierte ambulante Palliativversorgung**
+
+**bis**
+
+**erbracht.**
+
+**wird für den Zeitraum**
+
+**vom**
 
 **Name des Leistungserbringers / ggf. Stempel**
 
-**Anschrift** **(Straße,** **Hausnummer,** **PLZ,** **Wohnort)**  **ggf.**
+**Anschrift** **(Straße,** **Hausnummer,** **PLZ,** **Wohnort)**  **ggf.** **Stempel**
 
 **Institutionskennzeichen des Leistungserbringers**
 
@@ -38,9 +50,7 @@
 
 **Sollte die SAPV über den letzten Bewilligungstag hinaus erforderlich sein, so ist**  **Zeitraums eine erneute Verordnung bei der Krankenkasse einzureichen.**
 
-***Auszufüllen, soweit von Seiten der Krankenkasse Bedarf besteht***
-
-**Name, Vorname des Versicherten**
+***Auszufüllen, soweit von Seiten der Krankenkasse Bed*** **Name, Vorname des Versicherten**
 
 **Straße, Hausnummer, PLZ, Wohnort**
 
@@ -48,23 +58,13 @@
 
 **Geburtsdatum**
 
-**Versicherten-Nr.**
-
 **Datum**
 
-**vom**
-
-**Stempel**
-
-**Datum**
+***arf besteht***
 
 **Datum**
 
 **Unterschrift des Versicherten / Vertretungsberechtigten**
-
-**bis**
-
-**erbracht.**
 
 **Stempel / Unterschrift des SAPV-Leistungserbringers**
 

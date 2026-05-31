@@ -25,9 +25,9 @@ Hier können weitere Informationen, z.B. zu Behinderungen und Entwicklungsverzö
 
 - **5. Bisherigen Krankenbehandlung und andere Maßnahmen**
 
-Hier sollen die bisher durchgeführten Leistungen der Krankenbehandlung wie ärztl i-
+Hier sollen die bisher durchgeführten Leistungen der Krankenbehandlung wie ärztli-
 
-che/psychotherapeutische Interventionen, Arzneimittel -/Heilmitteltherapie und andere Maßnahmen aufge- führt werden.
+che/psychotherapeutische Interventionen, Arzneimittel-/Heilmitteltherapie und andere Maßnahmen aufge- führt werden.
 
 - **6. Empfohlene Interventionen während der Maßnahme**
 
@@ -41,4 +41,4 @@ Geben Sie hier an, welche Anforder ungen an die Vorsorge - oder Rehabilitationse
 
 Themenseite Vorsorge/Kur: [http://www.kbv.de/320215](http://www.kbv.de/320215)
 
-Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 5 MB ):  [http://www.kbv.de/873744](http://www.kbv.de/873744)
+Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 5 MB):  [http://www.kbv.de/873744](http://www.kbv.de/873744)

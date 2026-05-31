@@ -26,79 +26,49 @@ www.kbv.de
 
 #### Änderungshistorie
 
-**VERSION**
+**VERSION DATUM**
 
-1.0.2
-
-1.0.1
-
-1.0
-
-0.1
-
-Seite 3 von 10
-
-**DATUM**
-
-13.08.2025
-
-06.06.2025
-
-06.12.2024
-
-19.07.2024
-
-/ KBV / Spezifikation 116117 Terminservice - Abrechnungsinformation
-
-**AUTOR**
-
-kv.digital
-
-kv.digital
-
-kv.digital
-
-kv.digital
-
-**KAPITEL**
-
-4
-
-4
-
-5
-
-alle
-
-alle
-
-alle
-
-**ÄNDERUNG**
-
-Klarstellung von [AIF0001], [AIF0002]:  Anzeige des letzten erfolgreichen Abrufs
-
-Klarstellung von [AIF0006]
-
-Korrektur Referenz [Implementation Guide]
-
-redaktionelle Änderungen
-
-Änderung Titel
-
-redaktionelle Änderungen
-
-Initiale Erstellung
+**AUTOR KAPITEL ÄNDERUNG**
 
 **STATUS**
 
+1.0.2
+
+13.08.2025 kv.digital 4
+
+Klarstellung von [AIF0001], [AIF0002]:
+
 in Kraft
 
-außer Kraft
+Anzeige des letzten erfolgreichen Abrufs 1.0.1
+
+06.06.2025 kv.digital 4
+
+Klarstellung von [AIF0006]
+
+außer Kraft 5
+
+Korrektur Referenz [Implementation Guide]
+
+alle
+
+redaktionelle Änderungen 1.0
+
+06.12.2024 kv.digital alle
+
+Änderung Titel
 
 außer Kraft
+
+redaktionelle Änderungen 0.1
+
+19.07.2024 kv.digital alle
+
+Initiale Erstellung
 
 Entwurf
+
+Seite 3 von 10 / KBV / Spezifikation 116117 Terminservice - Abrechnungsinformation
 
 
 ---

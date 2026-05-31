@@ -43,7 +43,7 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 | **Telefonnummer** |  | | |
 | **E-Mail-Adresse** |  | | |
 
-Rechtsform anzugeben] vorhanden] Systempfleger vom Antragsteller abweicht] [ ] [ ] [ ]ung der in diesem Antrag
+Rechtsform anzugeben] vorhanden] Systempfleger vom Antragsteller abweicht] ung der in diesem Antrag
 
 
 ---
@@ -83,7 +83,7 @@ vorhanden) des Zertifizierungsgegenstandes an.
 
 -Betriebssysteme unterstützt werden.
 
-Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
+Antragsstellers Stellen der Prüfnummer, falls vorhanden]
 
 ---
 
@@ -111,7 +111,7 @@ Folgende optionale eDMP RA Funktionen sind gem. Anforderungskatalog DMP realisie
 |  |  |
 |  |  |
 
-[ ] der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. [ ] Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind. -Stammdatei [ ] [ ] [ ] ANFORDERUNGSKATALOG EDMP RA LT.
+der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind. -Stammdatei ANFORDERUNGSKATALOG EDMP RA LT.
 
 ---
 

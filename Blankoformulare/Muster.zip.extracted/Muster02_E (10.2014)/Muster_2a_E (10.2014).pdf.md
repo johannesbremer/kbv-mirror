@@ -8,13 +8,15 @@
 
 **Diagnose**
 
-**Die** **Kostenverpflichtungserklärung** **der** **Krankenkasse** **vorbehalten;**
+**Die** **Kostenverpflichtungserklärung**
 
-**des** **Krankenhauses** **der**
+**der** **Krankenkasse** **vorbehalten;** **deshalb**
 
-**Geschieht** **das** **nicht,** **so** **kann**
+**des** **Krankenhauses** **der** **zuständigen**
 
-**abgelehnt** **werden;** **es** **sei**
+**Geschieht** **das** **nicht,** **so** **kann** **die**
+
+**abgelehnt** **werden;** **es** **sei** **denn,**
 
 **Leistungsanspruch** **besteht.**
 
@@ -24,46 +26,42 @@
 
 **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
 
-**geb. am**
-
-**Status**
-
-**Datum**
-
-**gegenüber** **deshalb** **bitte**
-
-**zuständigen**
-
-**die** **Kostenübernahme**
-
-**denn,** **es** **liegt**
-
-**Verordnung von**  **Krankenhausbehandlung** ***(Nur bei medizinischer Notwendigkeit zulässig)***
-
-**Belegarzt-**
-
-**behandlung**
-
-**Unfall,**  **Unfallfolgen** **Nächsterreichbare, geeignete Krankenhäuser**
+**PRF.NR.**
 
 **2**
 
-**Notfall**
+**Verordnung von**  **Krankenhausbehandlung** ***(Nur bei medizinischer Notwendigkeit zulässig)***
 
-**Versorgungs-** **leiden (BVG)**
+**geb. am**
+
+**Belegarzt-** **Notfall**
+
+**behandlung**
+
+**Unfall,**
+
+**Versorgungs-**
+
+**Unfallfolgen leiden (BVG)**
+
+**Status**
+
+**Nächsterreichbare, geeignete Krankenhäuser**
+
+**Datum**
 
 **Vertragsarztstempel / Unterschrift des Arztes**
 
-**dem** **Krankenhaus** **bleibt**
+**gegenüber** **dem** **Krankenhaus** **bleibt**
 
-**diese** **Verordnung** **vor** **Aufsuchen**
+**bitte** **diese** **Verordnung** **vor** **Aufsuchen**
 
 **Krankenkasse** **vorlegen.**
 
-**durch** **dierankenkasse** **K**
+**Kostenübernahme** **durch** **die** **Krankenkasse**
 
-**ein** **Notfall** **vor,** **undin** **e**
+**es** **liegt** **ein** **Notfall** **vor,** **und** **ein**
 
 **Stempel des Krankenhauses und Unterschrift**
 
-**Muster 2a/E (10.2014)** **PRF.NR.**
+**Muster 2a/E (10.2014)**

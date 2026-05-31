@@ -55,7 +55,7 @@ Nr. Sympathomimetika und/oder Sympathomimetika  Kontraindikation  Kontraindikati
 
 ---
 
-| **Nr.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
 |---|---|---|---|
 |  |  |  | Die Angaben |
 | 7 | Inhalationstechnik überprüft | Ja / Nein | Pflichtfeld;  Genau eine Angabe ist zulässig |
@@ -66,7 +66,7 @@ Nr. Sympathomimetika und/oder Sympathomimetika  Kontraindikation  Kontraindikati
 | 10 | Empfohlene Schulung | Ja / Nein / War aktuell nicht möglich / Bei | Bedingtes Pflichtfeld;   Genau eine Angabe ist erforderlich, wenn die Anlage 12 im  Genau eine Angabe ist zulässig  Eine Angabe im Rahmen einer Erstdokumentation ist nicht |
 |  | Behandlungsplanung |  | |
 
-Lfd. Medikation  aktueller Dokumentation)  Einschreibung in DMP bereits wahrgenommen wahrgenommen  Systemische Glukokortikosteroide / Andere letzter Dokumentation keine Schulung Ke ine“  und „Kontraindikation“  können einzeln oder gemeinsam angekreuzt werden gekreuzt ist, ist keine weitere Angabe möglich. kosteroide“  und / oder „Systemische Glukokortikosteroide“ und  / oder „Andere“ können einzeln oder gemeinsam angekreuzt werden. Rahmen einer Erstdokumentation auszufüllen ist.  zulässig. Rahmen einer Folgedokumentation auszufüllen ist zulässig.
+Nr. Medikation  aktueller Dokumentation)  Einschreibung in DMP bereits wahrgenommen wahrgenommen  Systemische Glukokortikosteroide / Andere letzter Dokumentation keine Schulung Ke ine“  und „Kontraindikation“  können einzeln oder gemeinsam angekreuzt werden gekreuzt ist, ist keine weitere Angabe möglich. kosteroide“  und / oder „Systemische Glukokortikosteroide“ und  / oder „Andere“ können einzeln oder gemeinsam angekreuzt werden. Rahmen einer Erstdokumentation auszufüllen ist.  zulässig. Rahmen einer Folgedokumentation auszufüllen ist zulässig.
 
 ---
 

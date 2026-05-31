@@ -341,9 +341,9 @@ z.B.:
 
 **okdaten**
 
-**log_datei**“ angegeben werden. Bei einem
-
 **fehler-**
+
+**log_datei**“ angegeben werden. Bei einem
 
 
 ---
@@ -416,7 +416,7 @@ festgelegt.
 | **3.3.3** | Im Abschnitt Ausgabedateien werden die Pfade für die Ausgabelisten und Protokolle |
 | Über das Attribut Format wird das Ausgabeformat festgelegt: |  |
 
-|  | chen’  lässt sich das Trennzeichen zwischen den Spal- |
+|  | Kommaseparierte Ausgabe, über das Attribut ’Trennzei- |
 |---|---|
 |  | HTML-Format |
 |  | Internes Ausgabeformat, kann vom Prüfmodul ange- |
@@ -424,7 +424,7 @@ festgelegt.
 |  | Direktausgabe auf den Drucker |
 |  | Direktausgabe auf den Drucker mit Einstellungsfenster |
 |  | Rich Text Format, formatiertes Textformat |
-|  | Seitenbreite in Zeichen festlegen. Standardmäßig ist |
+|  | ASCII Text, über das Attribut ‘Seitenbreite’ lässt sich die |
 |  | Microsoft Excel-Format |
 |  | XML-Format |
 
@@ -434,7 +434,7 @@ festgelegt.
 
 ] 1.0.3
 
-CSV Kommaseparierte Ausgabe, über das Attribut ’Trennzei- ten festlegen. Standardmäßig ist hier das Komma vor- eingestellt. JRPRINT zeigt und gedruckt werden PDF PRINTER PRINTER_DIALOG RTF TEXT ASCII Text, über das Attribut ‘Seitenbreite’ lässt sich die hier die Breite von 80 Zeichen voreingestellt. Ein an- sprechendes Layout erreicht man, in dem die Breite auf den Wert 120 gesetzt wird. XLS Abschnitt: Ausgabedateien festgelegt. Tabelle 1: Ausgabeformate z.B.: <FehlerListe Format="PDF">Listen/Protokoll.pdf</FehlerListe> PDF Dateien können angezeigt und gedruckt werden.  Alles, was dazu benötigt wird, ist der Adobe Reader®, der kostenlos unter https://get.adobe.com/de/reader/ heruntergeladen werden kann. XPM_LDK erzeugt PDF Dokumente, die vom Acrobat Reader® ab der Version 5.0 und höher angezeigt werden können.  Beim Verarbeiten von Massendaten (Servermodus, zip-Archive) werden die Ausgabe- dateien vom Prüfmodul eigenständig umbenannt. Der Name der Ausgabedatei setzt sich zusammen aus dem Namen der Prüfdatei und den vorgegebenen Dateinamen. Diese Vorgehensweise verhindert das Überschreiben bereits erzeugter Protokolle. Bei Fehlerprotokollen fügt das XPM noch ein Präfix hinzu, das den Errorlevel der Prü- fung kennzeichnet. Es werden folgende Präfixe verwendet:
+CSV chen’  lässt sich das Trennzeichen zwischen den Spal- ten festlegen. Standardmäßig ist hier das Komma vor- eingestellt. JRPRINT zeigt und gedruckt werden PDF PRINTER PRINTER_DIALOG RTF TEXT Seitenbreite in Zeichen festlegen. Standardmäßig ist hier die Breite von 80 Zeichen voreingestellt. Ein an- sprechendes Layout erreicht man, in dem die Breite auf den Wert 120 gesetzt wird. XLS Abschnitt: Ausgabedateien festgelegt. Tabelle 1: Ausgabeformate z.B.: <FehlerListe Format="PDF">Listen/Protokoll.pdf</FehlerListe> PDF Dateien können angezeigt und gedruckt werden.  Alles, was dazu benötigt wird, ist der Adobe Reader®, der kostenlos unter https://get.adobe.com/de/reader/ PDF Dokumente, die vom Acrobat Reader® ab der Version 5.0 und höher angezeigt werden können.  heruntergeladen werden kann. XPM_LDK erzeugt Beim Verarbeiten von Massendaten (Servermodus, zip-Archive) werden die Ausgabe- dateien vom Prüfmodul eigenständig umbenannt. Der Name der Ausgabedatei setzt sich zusammen aus dem Namen der Prüfdatei und den vorgegebenen Dateinamen. Diese Vorgehensweise verhindert das Überschreiben bereits erzeugter Protokolle. Bei Fehlerprotokollen fügt das XPM noch ein Präfix hinzu, das den Errorlevel der Prü- fung kennzeichnet. Es werden folgende Präfixe verwendet:
 
 ---
 
@@ -526,7 +526,6 @@ verwendet wird,
 ] 1.0.3
 
 <pruefpfad>%INSTALLATION%/%UMGEBUNG%/</pruefpfad> einer Batchdatei bzw. einem Shellskript: bekannt sind. dem XPM_LDK bekannt gegeben. Arbeiten im Kommandozeilenmodus Der Lauf des Prüfmoduls wird mithilfe von Übergabeparametern gesteuert. Es folgt eine Auflistung aller Übergabeparameter. XML-Konfigurationsdatei. verarbeitet alle Dateien eines Eingangsverzeichnisses und be- endet sich anschließend. Diese Option ist nur in Kombination mit Servermodus aufrufbar. Dieser Übergabeparameter ist opti- onal. hea- n, die vom Prüfmodul bearbeitet wird. Dieser Übergabep rameter ist optional. schließend.
-
 
 ---
 

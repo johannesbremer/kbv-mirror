@@ -496,25 +496,23 @@ Seite
 
 die in Tabelle 2 aufgelisteten Metainformationen (
 
-Content-Disposition
+Content-Disposition ) enthalten.
 
 **Content-Type**
 
-application/xml
-
-name="begleitdatei .xml"
-
-application/pdf;
-
-name="<dateiname>"
-
-) enthalten.
-
 **Content-Transfer-** **Encoding**
+
+application/xml
 
 base64
 
-base64 1ClickHybridDRG V1.0
+name="begleitdatei .xml"
+
+application/pdf; base64
+
+name="<dateiname>"
+
+1ClickHybridDRG V1.0
 
 Content-Type
 

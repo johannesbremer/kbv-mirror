@@ -37,17 +37,17 @@ INHALT
 
 **2** **PRÜFFÄLLE FÜR SELEKTIVVERTRAGLICHE SYSTEME, DIE DIE DAUERHAFTE BEHANDLUNG VON**  **ERKRANKTEN MIT CHRONISCHEN DIAGNOSEN UNTERSTÜTZEN**
 
-**3** **PRÜFFÄLLE FÜR REINE SELEKTIVVERTRAGLICHE SYSTEME**
-
-**4** **PRÜFFÄLLE FÜR §§ 115B, 116B UND 120 ABS. 3 SGB V**
-
-**5** **REFERENZIERTE DOKUMENTE**
-
 **12**
+
+**3** **PRÜFFÄLLE FÜR REINE SELEKTIVVERTRAGLICHE SYSTEME**
 
 **18**
 
+**4** **PRÜFFÄLLE FÜR §§ 115B, 116B UND 120 ABS. 3 SGB V**
+
 **20**
+
+**5** **REFERENZIERTE DOKUMENTE**
 
 **25**
 
@@ -67,7 +67,7 @@ DOKUMENTENHISTORIE
 | 1.01 | 13.09.2021 | KBV | Ergänzung der      Kleine Anpassungen der | Konkretisierung der zu | 11  17    Alle |
 | 1.0 | 28.06.2021 | KBV | Neues Dokument | Initiale Erstellung | Alle |
 
-Kodierregeln in den Prüfvorgaben welche nicht ausschließlich für die Abrechnung gemäß § 57a, Abs. 2 BMV-Ä oder für die Direktabrechnung gemäß §§ 115b, 116b und 120 Abs. 3 SGB V und  der Systeme welche für die Abrechnung gemäß § 57a, Abs. 2 BMV-Ä Ergänzungen der Prüffälle PF01, PF02, PF07, PF10, PF11 und PF17 Ergänzungen der Prüffälle PF 01, PF02, PF04, PF11, PF12 Anforderungskatalog und den Beispieldaten Prüffälle Kapitelbeschreibung Prüffälle Kodierregeln; Aufnahme neuer Kodierregeln in die Stammdatei wird im Prüfvorgang KVDT geprüft erwarteten Dokumentation ICD-10-GM-Kodes J44.90 Anforderungsänderung erwarteten Dokumentation bearbeitenden Prüffälle 2-4 18, 19,
+Kodierregeln; Aufnahme 2-4 Kodierregeln in den neuer Kodierregeln in Prüfvorgaben die Stammdatei wird im Prüfvorgang welche nicht KVDT geprüft ausschließlich für die Abrechnung gemäß § 57a, Abs. 2 BMV-Ä oder für die Direktabrechnung gemäß §§ 115b, 116b und 120 Abs. 3 SGB V und  der Systeme welche für die Abrechnung gemäß § 57a, Abs. 2 BMV-Ä Ergänzungen der Prüffälle PF01, erwarteten PF02, PF07, PF10, PF11 und Dokumentation PF17 18, 19, ICD-10-GM-Kodes J44.90 Ergänzungen der Prüffälle PF 01, Anforderungsänderung PF02, PF04, PF11, PF12 Anforderungskatalog und den Beispieldaten Prüffälle erwarteten Dokumentation Kapitelbeschreibung bearbeitenden Prüffälle Prüffälle
 
 ---
 
@@ -81,15 +81,11 @@ Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten u
 
 **HINWEIS**
 
-- 1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Die ser muss vollständig ausgefüllt und
+- 1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und
 
-- unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der K BV eingereicht  werden.
+- unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.
 
-- 2. Eine Verzeichnis - bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen
-
-- Prüfunterlagen muss als .ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als
-
-- fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch Mitarbeitende der KBV.
+- 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als .ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch Mitarbeitende der KBV.
 
 - 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.
 
@@ -107,9 +103,9 @@ V).
 
 ## 1.2 ZERTIFIZIERUNGSABLAUF
 
-Die Zertifizierung e rfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten.
+Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten.
 
-Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den Antrag  auf Zertifizierung eingescannt per Mail ( [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen und erst nach Erhalt der  Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den vorab via Mail  eingereichten Antrag auf Zertifizierung hochladen.
+Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den Antrag  auf Zertifizierung eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen und erst nach Erhalt der  Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den vorab via Mail  eingereichten Antrag auf Zertifizierung hochladen.
 
 
 ---
@@ -122,21 +118,17 @@ Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizieru
 
 Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
 
-Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran
-
-anschließenden manuellen Prüfung durch Mitarbeitende der KBV.
+Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran  anschließenden manuellen Prüfung durch Mitarbeitende der KBV.
 
 Die Zugangsdaten können direkt über das Portal oder über das Prüfstellen -Postfach ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de))
 
 unter Angabe der System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert  werden. Bitte beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
 
-Der Zertifizierungsprozes s beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung hochgeladen haben. Das Portal zeigt Ihnen in Form von Aufgaben (Menüpunkt: „Meine  Aufgaben“) die nächsten Arbeiten an, die von Ihnen durchzuführen sind. Immer wenn A ktivitäten der
+Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung hochgeladen haben. Das Portal zeigt Ihnen in Form von Aufgaben (Menüpunkt: „Meine  Aufgaben“) die nächsten Arbeiten an, die von Ihnen durchzuführen sind. Immer wenn Aktivitäten der
 
 Zertifizierungsstelle abgeschlossen wurden, wird für Sie eine neue Aufgabe generiert.
 
-Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jede m Upload im
-
-Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur mit den von Ihnen erstellten  Prüfunterlagen in Form einer ZIP-Datei archiviert werden.
+Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im  Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur mit den von Ihnen erstellten  Prüfunterlagen in Form einer ZIP-Datei archiviert werden.
 
 Die in das Portal integrierte Prüfautomatisierung führt neben einer inhaltlichen Prüfung auch eine Prüfung  auf Vollständigkeit der eingereichten Prüfunterlagen durch.
 
@@ -146,22 +138,20 @@ vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldet
 
 Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende
 
-Fehlermeldungsbenachrichtigungen (sogenannte Log -Dateien im . HTML oder . XML -Format) erzeugt und  Ihnen zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen durch  Mitarbeitende der KBV geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung als
+Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im .HTML oder .XML -Format) erzeugt und  Ihnen zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen durch  Mitarbeitende der KBV geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung als
 
 fehlerfrei erkannt wurden, erfolgt die Prüfung durch Mitarbeitende der KBV. Wird hierbei festgestellt, dass  Dateien fehlerhaft sind, werden Sie aufgefordert eine Korrekturlieferung hochzuladen.
 
 ## 1.4 ZERTIFIZIERUNGSDOKUMENTE
 
-Den A nforderungskatalog finden Sie unter [https://update.kbv.de/ita-update/Abrechnung/](https://update.kbv.de/ita-update/Abrechnung/). In diesem
-
-Zusammenhang berücksichtigen Sie bitte auch das dritte Kapitel - Referenzierte Dokumente hier sind die  Verzeichnisse der notwendigen Stammdateien angegeben
+Den Anforderungskatalog finden Sie unter [https://update.kbv.de/ita-update/Abrechnung/](https://update.kbv.de/ita-update/Abrechnung/). In diesem  Zusammenhang berücksichtigen Sie bitte auch das dritte Kapitel - Referenzierte Dokumente hier sind die  Verzeichnisse der notwendigen Stammdateien angegeben
 
 
 ---
 
 ## 1.5 PRÜFUNTERLAGEN
 
-Das Prüfpaket bildet die erforderlichen Prüffälle zum Nachweis der umgesetzten Anforderungen ab . Die  Prüffälle sind grundsätzlich in die folgenden drei Bereich unterteilt:
+Das Prüfpaket bildet die erforderlichen Prüffälle zum Nachweis der umgesetzten Anforderungen ab. Die  Prüffälle sind grundsätzlich in die folgenden drei Bereich unterteilt:
 
 - Prüffälle für Systeme, welche ausschließlich zur Erstellung von selektivvertraglichen Abrechnungen  verwendet werden, die die dauerhafte Behandlung von Erkra unterstützen (Kapitel 2)
 
@@ -175,25 +165,19 @@ Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwart
 
 - Videomitschnitte oder Screenshots (eine entsprechende Festlegung erfolgt
 
-Die geforderten Videomitschnitte müssen im Hauptverzeichnis übermittelt werden
+Die geforderten Videomitschnitte müssen im Hauptverzeichnis übermittelt werden und mit einem  Dateinamen, der nach folgender Namenskonvention aufgebaut ist:
 
-Dateinamen, der nach folgender Namenskonvention aufgebaut ist:
-
-**1 2**
-
-***PrüffallNr*****.> _[*****Aktion Nr.*****] .*  z.B. PF01_1.mp4**
+***PrüffallNr*****.> _[*****Aktion Nr.*** **1 2** ** z.B. PF01_1.mp4**
 
 Die geforderten Screenshots sind entsprechend der Reihenfolge der Anweisungen des Prüffalls in  zu hinterlegen. Die Screenshots sind im PDF-Format bereitzustellen. Es ist zu beachten, dass pro Prüffall eine
 
 PDF-Datei bereitzustellen ist. Die PDF-Dateien müssen folgende Namenskonvention erfüllen und ebenfalls  direkt in dem Hauptverzeichnis übertragen werden.
 
-**3**
+***PrüffallNr*** **3 .pdf  z.B. PF01.pdf**
 
-***PrüffallNr*****.> .pdf  z.B. PF01.pdf**
+Die gesammelten Dateien sind in einem .ZIP-Archiv
 
-Die gesammelten Dateien sind in einem .ZIP-Archiv zu
-
-„Zert_168_<*SystemID*>“ benannt werden. Die *SystemID*
+„Zert_168_<*SystemID*>“ benannt werden. Die *SystemID* ergibt sich aus den letzten drei Stellen der
 
 Prüfnummer.
 
@@ -213,13 +197,9 @@ Abbildung 1 zeigt die einzureichende Struktur und Inhalte des
 
 - je nach Prüffall).
 
-und mit einem
-
 einer Datei
 
-übermitteln. Das .ZIP-Archiv muss mit
-
-ergibt sich aus den letzten drei Stellen der
+zu übermitteln. Das .ZIP-Archiv muss mit
 
 .ZIP-Archives anhand der Prüffälle von Kapitel  aufzubauen.
 
@@ -240,7 +220,7 @@ Zur Realisierung der Prüffälle müssen die Beispieldaten der veröffentl und S
 
 ### 1.6.2 Versichertendaten
 
-Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden auch als XML -Dateien zur Verfügung gestellt. Die Archivdatei  (VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für jeden Prüffall (siehe Kapitel  Verzeichnis die folgenden XML-Dateien mit Versichertenstammdaten:
+Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden auch als XML-Dateien zur Verfügung gestellt. Die Archivdatei  (VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für jeden Prüffall (siehe Kapitel  Verzeichnis die folgenden XML-Dateien mit Versichertenstammdaten:
 
 - EF.VD = allgemeine Versicherungsdaten
 
@@ -393,7 +373,7 @@ Jeder Prüffall ist nach dem folgenden Schema aufgebaut.
 
 - **Aktion**
 
-- Es wird in diesem Bereich beschrieben, welche Tätigkeiten in dem entsprechenden Prüffall - durchgeführt werden sollen.
+- Es wird in diesem Bereich beschrieben, welche Tätigkeiten in dem entsprechenden Prüffall  durchgeführt werden sollen.
 
 - **Einzureichende Prüfunterlagen**
 
@@ -401,11 +381,9 @@ Jeder Prüffall ist nach dem folgenden Schema aufgebaut.
 
 **HINWEIS**
 
-Beim Aufbau der Dokumentation in Form der eingereichten Video Aktionsschritte eindeutig erkennbar sein. Sofern möglich und aus Ihrer Sicht nötig können Sie zur näheren  Erläuterung gerne zusätzliche schriftliche Kommentare u nd Hinweise ein fügen (z. B: in Form von
+Beim Aufbau der Dokumentation in Form der eingereichten Video Aktionsschritte eindeutig erkennbar sein. Sofern möglich und aus Ihrer Sicht nötig können Sie zur näheren  Erläuterung gerne zusätzliche schriftliche Kommentare und Hinweise einfügen (z. B: in Form von  Sprechblasen).
 
-Sprechblasen).
-
-Software-seitige Hinweis -, Fehlermeldungen und Eingabemasken müssen durch separate Screenshots  verdeutlich werden. Dabei ist zu beachten, dass auch das gesamte Applikationsfenster im Screenshot zu  sehen ist. Bitte verwenden Sie zwischen den einzelnen Anweisungen immer eine entsprechende  Kennzeichnung/Überschrift.
+Software-seitige Hinweis-, Fehlermeldungen und Eingabemasken müssen durch separate Screenshots  verdeutlich werden. Dabei ist zu beachten, dass auch das gesamte Applikationsfenster im Screenshot zu  sehen ist. Bitte verwenden Sie zwischen den einzelnen Anweisungen immer eine entsprechende  Kennzeichnung/Überschrift.
 
 - **Geprüfte Anforderungen**
 
@@ -436,10 +414,10 @@ In diesem Kapitel werden die Prüffälle für  Selektivverträgen verwendet werd
 | **Testziel** | Übersicht und Konfiguration der behandlungsfallbezogenen und |
 | **Voraussetzung** |  |
 | **Aktion** | sollen au sollen auf den Prüfzei  **Hinweis: Bitte achten Sie darauf, dass alle Texte (z.B. Diagnosenklartext,** |
-| **Einzureichende** | Dokumentieren Sie |
+| **Einzureichende** | Dokumentieren |
 | **Geprüfte** | Insbesondere folgende Pflichtfunktionen sind betroffen:  › › › |
 
-Prüfunterlagen Anforderungen quartalsübergreifenden Kodierregeln 1. Zur Konfiguration aller behandlungsfallbezogen Kodierregeln soll eine Gesamtübersicht angezeigt werden.  2. Für den Einsatz der behandlungsfallbezogenen Kodierregel ID 01-01-018 a) die Detailinformation der Kodierregel angezeigt werden b) r Prüfzeitpunkt auf „zur Abrechnung“ in de r Detailansicht geändert werden c) sofern möglich der Status auf „inaktiv“ in der Detailansicht geändert werden. 3. Die Kodierregeln:  a) 01-02-012 b) 01-01-001 01-01-125 c) 01-01-021 f den Prüfzeitpunkt „zur Abrechnung“ gesetzt werden. 4. Zur Konfiguration aller quartalsübergreifenden Kodierregeln soll eine Gesamtübersicht dieser angezeigt werden. 5. Für den Einsatz der quartalsübergreifenden Kodierregel ID 03-02-038 a) die Detailinformation zur Kodierregel angezeigt werden b) sofern möglich der Status auf „inaktiv“ geändert werden 6. Die Kodierregeln:  a) 03-02-036 03-02-173 b) 03-02-044 c) 03-02-046 tpunkt „zur Abrechnung“ gesetzt werden. Korrekturvorschlag etc.) vollständig angezeigt werden. durch ein Video die kompletten Konfigurationsschritte einschließlich der Ergebnisse nach einer möglichen Hinweissteuerung. KP10-610  - Einsatzpflicht KP10-650  - Konfiguration der behandlungsfallbe zogenen Kodierregeln KP10-660 - Konfiguration der quartalsübergreifenden KodierregelnSysteme definiert, welche zur Abrechnung im Rahmen von
+quartalsübergreifenden Kodierregeln 1. Zur Konfiguration aller behandlungsfallbezogen Kodierregeln soll eine Gesamtübersicht angezeigt werden.  2. Für den Einsatz der behandlungsfallbezogenen Kodierregel ID 01-01-018 a) die Detailinformation der Kodierregel angezeigt werden b) r Prüfzeitpunkt auf „zur Abrechnung“ in de r Detailansicht geändert werden c) sofern möglich der Status auf „inaktiv“ in der Detailansicht geändert werden. 3. Die Kodierregeln:  a) 01-02-012 b) 01-01-001 01-01-125 c) 01-01-021 f den Prüfzeitpunkt „zur Abrechnung“ gesetzt werden. 4. Zur Konfiguration aller quartalsübergreifenden Kodierregeln soll eine Gesamtübersicht dieser angezeigt werden. 5. Für den Einsatz der quartalsübergreifenden Kodierregel ID 03-02-038 a) die Detailinformation zur Kodierregel angezeigt werden b) sofern möglich der Status auf „inaktiv“ geändert werden 6. Die Kodierregeln:  a) 03-02-036 03-02-173 b) 03-02-044 c) 03-02-046 tpunkt „zur Abrechnung“ gesetzt werden. Korrekturvorschlag etc.) vollständig angezeigt werden. durch ein Video die kompletten Konfigurationsschritte Prüfunterlagen einschließlich der Ergebnisse nach einer möglichen Hinweissteuerung. Anforderungen KP10-610  - Einsatzpflicht KP10-650  - Konfiguration der behandlungsfallbe zogenen Kodierregeln KP10-660 - Konfiguration der quartalsübergreifenden KodierregelnSysteme definiert, welche zur Abrechnung im Rahmen von
 
 
 ---
@@ -453,7 +431,7 @@ Prüfunterlagen Anforderungen quartalsübergreifenden Kodierregeln 1. Zur Konfig
 | I63.5  G | I63.5 |
 | G | J44.9-  I10.90  G  1. a) b) 2. 3. a) b) 4. 5. |
 
-Die Patientin Marion Müller wird bei dem Arzt behandelt. Es sollen die existierenden Dauerdiagnosen mit den nachfolgenden Ausnahmen in das aktuelle Abrechnungsquartal übernommen werden J44.90 T88.7 Der ICD-10-GM-Kode T88.7 soll zukünftig keine Dauerdiagnose sein, sondern soll im aktuellen Abrechnungsquartal als Anamnestische Diagnose behandelt und in die Abrechnung übernommen werden.  Für die Patientin sollen die beiden ICD-10-GM-Kodes I11.00 G und G46.0 G als Behandlungsdiagnose erfasst werden. Nach der Erfassung als Behandlungsdiagnose soll  der ICD-10-GM-Kode I11.00 G als Dauerdiagnose gekennzeichnet werden. Nach der Erfassung als Behandlungsdiagnose soll  der ICD-10-GM-Kode G46.0 G als Anamnestische Diagnose gekennzeichnet und in die Abrechnung übernommen werden.  Es soll als zusätzliche Erläuterung der Text „Hypertonie ursächlich für Herzinsuffizienz“ zu der Behandlungsdiagnose I11.00 G für die Abrechnung erfasst werden.  Sofern Korrekturhinweise durch eine Kodierregel angezeigt werden, soll vom Anwender frei entschieden werden, welche Änderung vorgenommen wird. bezogenen Kodierregeln  folgenden Tabelle aufgeführten ICD-10-GM-Kodes als Behandlungsdiagnosen erfasst und als Dauerdiagnosen gekennzeichnet. Quartal -4 Quartal -3 Quartal -2 Quartal -1 Aktuelles Quartal GM- Kode DS GM- Kode DS GM- Kode DS GM- Kode DS GM- Kode I25.12 I25.12 I25.12 E11.90 E11.30 E11.30 E11.30 I63.9 I21.9 I21.9 I21.0 J44.90 J44.90 T88.7 T88.7 Aktion |  |  |
+Die Patientin Marion Müller wird bei dem Arzt behandelt. Es sollen die existierenden Dauerdiagnosen mit den nachfolgenden Ausnahmen in das aktuelle Abrechnungsquartal übernommen werden J44.90 T88.7 Der ICD-10-GM-Kode T88.7 soll zukünftig keine Dauerdiagnose sein, sondern soll im aktuellen Abrechnungsquartal als Anamnestische Diagnose behandelt und in die Abrechnung übernommen werden.  Für die Patientin sollen die beiden ICD-10-GM-Kodes I11.00 G und G46.0 G als Behandlungsdiagnose erfasst werden. Nach der Erfassung als Behandlungsdiagnose soll  der ICD-10-GM-Kode I11.00 G als Dauerdiagnose gekennzeichnet werden. Nach der Erfassung als Behandlungsdiagnose soll  der ICD-10-GM-Kode G46.0 G als Anamnestische Diagnose gekennzeichnet und in die Abrechnung übernommen werden.  Es soll als zusätzliche Erläuterung der Text „Hypertonie ursächlich für Herzinsuffizienz“ zu der Behandlungsdiagnose I11.00 G für die Abrechnung erfasst werden.  Sofern Korrekturhinweise durch eine Kodierregel angezeigt werden, soll vom Anwender frei entschieden werden, welche Änderung vorgenommen wird. Kodierregeln  bezogenen folgenden Tabelle aufgeführten ICD-10-GM-Kodes als Behandlungsdiagnosen erfasst und als Dauerdiagnosen gekennzeichnet. Quartal -4 Quartal -3 Quartal -2 Quartal -1 Aktuelles Quartal GM- Kode DS GM- Kode DS GM- Kode DS GM- Kode DS GM- Kode I25.12 I25.12 I25.12 E11.90 E11.30 E11.30 E11.30 I63.9 I21.9 I21.9 I21.0 J44.90 J44.90 T88.7 T88.7 Aktion |  |  |
 |---|---|
 | **Prüffall-ID** | **PF02** |
 | **Testziel** | Übernahme von Dauerdiagnosen und Anwendung von behandlungsfall |
@@ -474,10 +452,10 @@ Die Patientin Marion Müller wird bei dem Arzt behandelt. Es sollen die existier
 | **Testziel** | Prüfen und sicherstellen, dass ein vom |
 | **Voraussetzung** |  |
 | **Aktion** | Diagnosensicherheit: G  Diagnosensicherheit: G  Diagnosensicherheit: V  Diagnosensicherheit: V  Diagnosensicherheit: G  Diagnosensicherheit: G |
-| **Prüfunterlagen** | Dokumentieren Sie durch Screenshots die Meldung des Systems |
+| **Einzureichende** | Dokumentieren Sie durch Screenshots die Meldung des Systems |
 | **Geprüfte** | › › › › › |
 
-Prüfunterlagen Anforderungen Prüffall-ID Testziel Voraussetzung Aktion Schritte einschließlich der Ergebnisse nach einer möglichen Hinweissteuerung. KP10-200  - Kategorisierung von Diagnosen als Dauerdiagnosen oder Anamnestische Diagnosen KP10-231  - Diagnosensicherheit bei Dauerdiagnosen KP10-232  - Weitere Informationen zu Dauerdiagnosen KP10-240  - Übernahme von Dauerdiagnosen als Behandlungsdiagnosen in die Abrechnung KP10-700  - Ausführung der behandlungsfallbezogenen Kodierregeln KP10-710  - Validierung von Behandlungsdiagnosen gegen die behandlungsfallbezogenen Kodierregeln KP10-750  - Erzeugung eines Hinweises und Korrekturvorschlages Verarbeitung und Anzeige des Korrekturvorschlages gemäß KP10-760  oder KP10- 770  oder KP10-780 PF03 Prüfen und sicherstellen, dass ein vom Anwender eingegebener ICD-10-GM-Kode in der aktuellen ICD-10-GM-Stammdatei vorhanden ist. Der Anwender erfasst für Leonie Gonzales im Rahmen der Behandlung die folgenden ICD-10-GM-Kodes. Sofern ein ICD-10-GM-Kode nicht existiert, soll dieser wieder aus der Dokumentation entfernt werden ICD-10-GM-Kode: X17.4  Diagnosensicherheit: G ICD-10-GM-Kode: E66.00 Diagnosensicherheit: G ICD-10-GM-Kode: C61  Diagnosensicherheit: V ICD-10-GM-Kode: B05.4  Diagnosensicherheit: V ICD-10-GM-Kode: E42 Diagnosensicherheit: G ICD-10-GM-Kode: I63.3, der ICD-10-GM-Kode soll als zukünftige Dauerdiagnose gekennzeichnet werden Einzureichende Anforderungen P10-430  - Existenzprüfung P10-480  - Altersgruppenbezug von ICD -10-GM-Kodes P10-470  - Geschlechtsbezug von ICD-10-GM-Kodes P10-500  - IfSG-Meldung P10-490  - Seltene Diagnosen in Mitteleuropa
+Prüfunterlagen Anforderungen Prüffall-ID Testziel Voraussetzung Aktion Schritte einschließlich der Ergebnisse nach einer möglichen Hinweissteuerung. KP10-200  - Kategorisierung von Diagnosen als Dauerdiagnosen oder Anamnestische Diagnosen KP10-231  - Diagnosensicherheit bei Dauerdiagnosen KP10-232  - Weitere Informationen zu Dauerdiagnosen KP10-240  - Übernahme von Dauerdiagnosen als Behandlungsdiagnosen in die Abrechnung KP10-700  - Ausführung der behandlungsfallbezogenen Kodierregeln KP10-710  - Validierung von Behandlungsdiagnosen gegen die behandlungsfallbezogenen Kodierregeln KP10-750  - Erzeugung eines Hinweises und Korrekturvorschlages Verarbeitung und Anzeige des Korrekturvorschlages gemäß KP10-760  oder KP10- 770  oder KP10-780 PF03 Prüfen und sicherstellen, dass ein vom Anwender eingegebener ICD-10-GM-Kode in der aktuellen ICD-10-GM-Stammdatei vorhanden ist. Der Anwender erfasst für Leonie Gonzales im Rahmen der Behandlung die folgenden ICD-10-GM-Kodes. Sofern ein ICD-10-GM-Kode nicht existiert, soll dieser wieder aus der Dokumentation entfernt werden ICD-10-GM-Kode: X17.4  Diagnosensicherheit: G ICD-10-GM-Kode: E66.00 Diagnosensicherheit: G ICD-10-GM-Kode: C61  Diagnosensicherheit: V ICD-10-GM-Kode: B05.4  Diagnosensicherheit: V ICD-10-GM-Kode: E42 Diagnosensicherheit: G ICD-10-GM-Kode: I63.3, der ICD-10-GM-Kode soll als zukünftige Dauerdiagnose gekennzeichnet werden Prüfunterlagen Anforderungen P10-430  - Existenzprüfung P10-480  - Altersgruppenbezug von ICD -10-GM-Kodes P10-470  - Geschlechtsbezug von ICD-10-GM-Kodes P10-500  - IfSG-Meldung P10-490  - Seltene Diagnosen in Mitteleuropa
 
 ---
 
@@ -560,10 +538,10 @@ In diesem Kapitel werden die Prüffälle für Systeme definiert, welche  Selekti
 | **Testziel** | Prüfen und sicherstellen, dass ein vom Anwender eingegebene ICD-10-GM-Kodes in |
 | **Voraussetzung** |  |
 | **Aktion** | Diagnosensicherheit: G  Diagnosensicherheit: G  Diagnosensicherheit: V  Diagnosensicherheit: V  Diagnosensicherheit: G |
-| **Prüfunterlagen** | Dokumentieren Sie durch Screenshots die Meldung des Systems |
+| **Einzureichende** | Dokumentieren Sie durch Screenshots die Meldung des Systems |
 | **Geprüfte** | › › › › › ›  **Aktion** |
 
-| **Prüfunterlagen** | Dokumentieren Sie durch Screenshots die Meldung des Systems |
+| **Einzureichende** | Dokumentieren Sie durch Screenshots die Meldung des Systems |
 |---|---|
 | **Geprüfte ** › | › |
 | › › | › |
@@ -572,7 +550,7 @@ In diesem Kapitel werden die Prüffälle für Systeme definiert, welche  Selekti
 |  |  |
 |  | 1. a) b) c) d) e) |
 
-Aktion Einzureichende Anforderungen Der Anwender erfasst für Leonie Gonzales im Rahmen der Behandlung die folgenden ICD-10-GM-Kodes. Im Rahmen dieser Erfassung der ICD-10-GM-Kodes sollen mögliche Ersatzwerte der Diagnosen überschrieben werden. Sofern ein ICD-10-GM-Kode nicht existiert, soll dieser wieder aus der Dokumentation entfernt werden:  ICD-10-GM-Kode: X17.4  Diagnosensicherheit: G ICD-10-GM-Kode: E66.00 Diagnosensicherheit: G ICD-10-GM-Kode: C61  Diagnosensicherheit: V ICD-10-GM-Kode: B05.4  Diagnosensicherheit: V ICD-10-GM-Kode: E42 Diagnosensicherheit: G  P10-430  Existenzprüfung P10-480  - Altersgruppenbezug von ICD -10-GM-Kodes P10-470  - Geschlechtsbezug von ICD-10-GM-Kodes P10-500  - IfSG-Meldung P10-490  - Seltene Diagnosen in Mitteleuropa KP10-350  - Befreiung von der Verschlüsselungspflicht mit einem krankheitsspezifischen Diagnoseschlüssel nach ICD -10-GM der ICD-10-GM-Stammdatei vorhanden ist und die Plausibilitäten korrekt angewendet werden. zur Abrechnung im Rahmen von
+Aktion Prüfunterlagen Anforderungen Der Anwender erfasst für Leonie Gonzales im Rahmen der Behandlung die folgenden ICD-10-GM-Kodes. Im Rahmen dieser Erfassung der ICD-10-GM-Kodes sollen mögliche Ersatzwerte der Diagnosen überschrieben werden. Sofern ein ICD-10-GM-Kode nicht existiert, soll dieser wieder aus der Dokumentation entfernt werden:  ICD-10-GM-Kode: X17.4  Diagnosensicherheit: G ICD-10-GM-Kode: E66.00 Diagnosensicherheit: G ICD-10-GM-Kode: C61  Diagnosensicherheit: V ICD-10-GM-Kode: B05.4  Diagnosensicherheit: V ICD-10-GM-Kode: E42 Diagnosensicherheit: G  P10-430  Existenzprüfung P10-480  - Altersgruppenbezug von ICD -10-GM-Kodes P10-470  - Geschlechtsbezug von ICD-10-GM-Kodes P10-500  - IfSG-Meldung P10-490  - Seltene Diagnosen in Mitteleuropa KP10-350  - Befreiung von der Verschlüsselungspflicht mit einem krankheitsspezifischen Diagnoseschlüssel nach ICD -10-GM der ICD-10-GM-Stammdatei vorhanden ist und die Plausibilitäten korrekt angewendet werden. zur Abrechnung im Rahmen von
 
 
 ---
@@ -592,7 +570,7 @@ Aktion Einzureichende Anforderungen Der Anwender erfasst für Leonie Gonzales im
 | **Testziel** | Prüfen und sicherstellen, dass die Plausibilitäten der ICD-Stammdatei korrekt |
 | **Voraussetzung** |  |
 | **Aktion** |  |
-| **Prüfunterlagen** | Dokumentieren Sie durch Screenshots die Meldung des Systems |
+| **Einzureichende** | Dokumentieren Sie durch Screenshots die Meldung des Systems |
 | **Geprüfte** | › › › 1. |
 
 |  |  |
@@ -602,9 +580,9 @@ Aktion Einzureichende Anforderungen Der Anwender erfasst für Leonie Gonzales im
 | **Voraussetzung** |  |
 | **Aktion** |  |
 | **Einzureichende** | Dokumentieren Sie das Ergebnis der Anzeige in Screenshots, aus welchen ersichtlich  Beispielsweise kann dies durch die Darstellung nachgewiesen werden, wie ein Kapitel |
-| **Geprüfte** | › ›**Prüfunterlagen ** Dokumentieren Sie durch Screenshots die Meldung des Systems**Geprüfte ** › › › |
+| **Geprüfte** | › ›**Einzureichende ** Dokumentieren Sie durch Screenshots die Meldung des Systems**Geprüfte ** › › › |
 
-Einzureichende Prüfunterlagen Anforderungen angewendet werden, und Anzeige von ICD-10-GM-Kode-bezogenen Hinweisen aus der Verschlüsselungsanleitung des BfArM. Der Anwender erfasst für Rodrigo Gonzales den ICD-10-GM- Kode „ H28.0 “ mit der Diagnosen sicherheit „G“ für die Abrechnung und lässt sich vor der Auswahl des ICD-10-GM-Kodes die Verschlüsselungsanleitung des BfArM für den ICD-10-GM- Kode „H28.0“  anzeigen. Sofern ein Hinweis angezeigt wird, soll:  Der ICD-10-GM-Kode E10.31 mit der Diagnosen sicherheit „G“  kodiert werden. P11-740 - Anzeige von Verschlüsselungsanleitungen zu einem ICD -10-GM-Kode P11-700  Einsatzpflicht P10-460 Sekundärkode mit "*" (Stern) oder „!“ (Ausrufezeichen) Der Anwender lässt sich die gesamthaften Einträge der Verschlüsselungsanleitung des BfArMs anzeigen, ohne Bezug zu einem ICD-10-GM-Kode.  Anforderungen ist, dass die Verschlüsselungsanleitung in das System integriert ist. aus der Verschlüsselungsanleitung aus - /aufgeklappt wird. P11-700  Einsatzpflicht P11-750  Gesamthafte Anzeige der Verschlüsselungsanleitung des BfArM
+Einzureichende Prüfunterlagen Anforderungen angewendet werden, und Anzeige von ICD-10-GM-Kode-bezogenen Hinweisen aus der Verschlüsselungsanleitung des BfArM. Der Anwender erfasst für Rodrigo Gonzales den ICD-10-GM- Kode „ H28.0 “ mit der Diagnosen sicherheit „G“ für die Abrechnung und lässt sich vor der Auswahl des ICD-10-GM-Kodes die Verschlüsselungsanleitung des BfArM für den ICD-10-GM- Kode „H28.0“  anzeigen. Sofern ein Hinweis angezeigt wird, soll:  Der ICD-10-GM-Kode E10.31 mit der Diagnosen sicherheit „G“  kodiert werden. P11-740 - Anzeige von Verschlüsselungsanleitungen zu einem ICD -10-GM-Kode P11-700  Einsatzpflicht P10-460 Sekundärkode mit "*" (Stern) oder „!“ (Ausrufezeichen) Der Anwender lässt sich die gesamthaften Einträge der Verschlüsselungsanleitung des BfArMs anzeigen, ohne Bezug zu einem ICD-10-GM-Kode.  Prüfunterlagen Anforderungen ist, dass die Verschlüsselungsanleitung in das System integriert ist. aus der Verschlüsselungsanleitung aus - /aufgeklappt wird. P11-700  Einsatzpflicht P11-750  Gesamthafte Anzeige der Verschlüsselungsanleitung des BfArM
 
 
 ---
@@ -671,7 +649,7 @@ ICD-10-GM-Kode: I63.5  Diagnosensicherheit: G ICD-10-GM-Kode: I21.9 Diagnosensic
 
 |  |  |
 |---|---|
-|  | Diagnosensicherheit: V  Diagnosensicherheit: V  Diagnosensicherheit: G  **Prüfunterlagen ** › › |
+|  | Diagnosensicherheit: V  Diagnosensicherheit: V  Diagnosensicherheit: G  **Einzureichende ** › › |
 |  |  |
 |  | **Prüffall-ID  PF14  Einzureichende ** Dokumentieren Sie durch ein Video die Schritte einschließlich der Ergebnisse nach **Geprüfte ** c) d) e) |
 
@@ -684,10 +662,10 @@ ICD-10-GM-Kode: I63.5  Diagnosensicherheit: G ICD-10-GM-Kode: I21.9 Diagnosensic
 | **Einzureichende** | Dokumentieren Sie durch ein Video die Schritte einschließlich der Ergebnisse nach |
 | **Geprüfte** | › › › › › › › › › ›      **Prüffall-ID  PF14  Testziel ** Freitextsuche, Anzeige der Verschlüsselungsanleitung des BfArM und die Ausführung |
 
-Anforderungen Testziel Voraussetzung Aktion Anforderungen ICD-10-GM-Kode: C61  ICD-10-GM-Kode: B05.4  ICD-10-GM-Kode: E42 Dokumentieren Sie durch Screenshots die Meldung des Systems P10-430  Existenzprüfung P10-480  - Altersgruppenbezug von ICD P10-470  - Geschlechtsbezug von ICD-10-GM-Kodes P10-500  - IfSG-Meldung P10-490  - Seltene Diagnosen in Mitteleuropa -10-GM-Kodes Freitextsuche, Anzeige der Verschlüsselungsanleitung des BfArM und die Ausführung von behandlungsfallbezogenen Kodierregeln 1. Der Anwender sucht für den Patienten Rodrigo Gonzales mittels einer Freitext- Suche nach einem passenden ICD-10-GM- Kode mit dem Text „ Katarakt 2. Der Anwender erfasst den ICD-10-GM- Kode „ H28.0 “ mit der Diagnosen „G“ für die Abrechnung und lässt sich vor der Auswahl des ICD Verschlüsselungsanleitung des BfArM für den ICD -10-GM-Kode 3. Sofern Hinweise angezeigt werden, soll:  a) Der ICD-10-GM-Kode E10.31 mit der Diagnosen sicherheit „G“ 4. Der Anwender erfasst für Rodrigo Gonzales im Rahmen der Behandlung den weiteren ICD-10-GM-Kodes: a) ICD-10-GM-Kode:  E12.80 5. Sofern Korrekturhinweise aufgrund einer Kodierregel angezeigt werden, soll: a) der ICD-10-GM-Kode E12.80 mit der Diagnosen sicherheit „G“ einer möglichen Hinweissteuerung. P11-740 - Anzeige von Verschlüsselungsanleitungen zu einem ICD P11-700  Einsatzpflicht Diabetische -10-GM-Kodes die „H28.0“  anzeigen.   kodiert werden.  gelöscht werden -10-GM-Kode P10-460 Sekundärkode mit "*" (Stern) oder „!“ (Ausrufezeichen) KP10-700  - Ausführung der behandlungsfallbezogene KP10-750  - Erzeugung eines Hinweises und Korrekturvorschlages KP10-760  - Verarbeitung und Anzeige des Korrekturvorschlages vom Typ „DELETE“ n Kodierregeln |  |  |
+Prüfunterlagen Anforderungen Testziel Voraussetzung Aktion Prüfunterlagen Anforderungen ICD-10-GM-Kode: C61  ICD-10-GM-Kode: B05.4  ICD-10-GM-Kode: E42 Dokumentieren Sie durch Screenshots die Meldung des Systems P10-430  Existenzprüfung P10-480  - Altersgruppenbezug von ICD P10-470  - Geschlechtsbezug von ICD-10-GM-Kodes P10-500  - IfSG-Meldung P10-490  - Seltene Diagnosen in Mitteleuropa -10-GM-Kodes Freitextsuche, Anzeige der Verschlüsselungsanleitung des BfArM und die Ausführung von behandlungsfallbezogenen Kodierregeln 1. Der Anwender sucht für den Patienten Rodrigo Gonzales mittels einer Freitext- Suche nach einem passenden ICD-10-GM- Kode mit dem Text „ Katarakt 2. Der Anwender erfasst den ICD-10-GM- Kode „ H28.0 “ mit der Diagnosen „G“ für die Abrechnung und lässt sich vor der Auswahl des ICD Verschlüsselungsanleitung des BfArM für den ICD -10-GM-Kode 3. Sofern Hinweise angezeigt werden, soll:  a) Der ICD-10-GM-Kode E10.31 mit der Diagnosen sicherheit „G“ 4. Der Anwender erfasst für Rodrigo Gonzales im Rahmen der Behandlung den weiteren ICD-10-GM-Kodes: a) ICD-10-GM-Kode:  E12.80 5. Sofern Korrekturhinweise aufgrund einer Kodierregel angezeigt werden, soll: a) der ICD-10-GM-Kode E12.80 mit der Diagnosen sicherheit „G“ einer möglichen Hinweissteuerung. P11-740 - Anzeige von Verschlüsselungsanleitungen zu einem ICD P11-700  Einsatzpflicht Diabetische -10-GM-Kodes die „H28.0“  anzeigen.   kodiert werden.  gelöscht werden -10-GM-Kode P10-460 Sekundärkode mit "*" (Stern) oder „!“ (Ausrufezeichen) KP10-700  - Ausführung der behandlungsfallbezogene KP10-750  - Erzeugung eines Hinweises und Korrekturvorschlages KP10-760  - Verarbeitung und Anzeige des Korrekturvorschlages vom Typ „DELETE“ n Kodierregeln |  |  |
 |---|---|
 |  | Diagnosensicherheit: V  Diagnosensicherheit: V  Diagnosensicherheit: G |
-| **Prüfunterlagen** | Dokumentieren Sie durch Screenshots die Meldung des Systems |
+| **Einzureichende** | Dokumentieren Sie durch Screenshots die Meldung des Systems |
 | **Geprüfte** | › › › › › 1. 2. 3. a) 4. a) 5. a) |
 
 

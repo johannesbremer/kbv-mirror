@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**23. MAI 2026**
+**30. MAI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -30,10 +30,12 @@ erfolgreich abgeschlossen haben. Sämtliche Systeme die eine Zertifizerung für 
 |---|---|---|---|
 |  | Y/168/2309/36/756 | 31.08.2026 |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Kodierunterstützung / 23. Mai 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Kodierunterstützung / 30. Mai 2026
 
 Vertragsärztliche Abrechnung besitzen, erfüllen ebenfalls diese Anforderung.
 
-X/168/2504/36/690 31.03.2028
+X/168/2504/36/690
 
-DMRZ Deutsches Medizinrechenzentrum GmbH Werftstraße 16 40549 Düsseldorf Helmsauer Care Manager Helmsauer IT-Solutions GmbH Dürrenhofstraße 4 90402 Nürnberg Internet: www.helmsauer-gruppe.de Mac OS Windows Linux Mac OS WindowsiOS/Android Linux Mac OS Windows
+iOS/Android Linux
+
+DMRZ Deutsches Medizinrechenzentrum GmbH Werftstraße 16 40549 Düsseldorf Helmsauer Care Manager Helmsauer IT-Solutions GmbH Dürrenhofstraße 4 90402 Nürnberg Internet: www.helmsauer-gruppe.de Mac OS Windows Linux Mac OS Windows31.03.2028 Mac OS Windows

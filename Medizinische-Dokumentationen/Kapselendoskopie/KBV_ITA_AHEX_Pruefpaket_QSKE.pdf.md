@@ -463,7 +463,7 @@ Beurteilbarkeit des Bildmaterials 7 Status Vollständigkeit der Untersuchung (Z�
 | **Prüfunterlagen** | › › |
 | **Hinweis** |  |
 
-Beurteilbarkeit des Bildmaterials und 6 IEDERHOLUNGSUNTERSUCHUNG Jahresstatistik (zur Übermittlung an die Datenannahmestelle) mit den Änderungen der Konstellation 8 als Korrekturlieferung zur Jahresstatistik aus Prüffall 1. Jahresstatistik Es soll dabei auch erkennbar sein, dass dem Anwender der bereits exportierte Datensatz von der Software kenntlich gemacht wird (Screenshot) 0.06.2015
+Beurteilbarkeit des Bildmaterials und 6 IEDERHOLUNGSUNTERSUCHUNG Jahresstatistik (zur Übermittlung an die Datenannahmestelle) mit den Änderungen der Konstellation 8 als Korrekturlieferung zur Jahresstatistik aus Prüffall 1. 0.06.2015  Jahresstatistik Es soll dabei auch erkennbar sein, dass dem Anwender der bereits exportierte Datensatz von der Software kenntlich gemacht wird (Screenshot)
 
 ---
 

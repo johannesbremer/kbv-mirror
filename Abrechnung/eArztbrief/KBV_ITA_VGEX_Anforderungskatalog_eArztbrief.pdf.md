@@ -3,19 +3,16 @@
 
 # ANFORDERUNGSKATALOG
 
-## [KBV_ITA_VGEX_ANFORDERUNGSKATALOG_
+## [KBV_ITA_VGEX_ANFORDERUNGSKATALOG_EARZTBRIEF]
 
 |  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 13. FEBRUAR 2026   VERSION: 2.14   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
-# EARZTBRIEF
-
-EARZTBRIEF]
-
 \|  |
 \|---|
 
-BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
+BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   # EARZTBRIEF
+
 
 ---
 
@@ -296,14 +293,14 @@ e Arztbriefes durch das empfangende - Arztbrief auf Basis der HL7
 | **PARAMETER** | **BEISPIEL** | **HINWEISE** |
 |---|---|---|
 | Klasse | **<patientRole>** |  |
-| **Versicherten_ID** | <id extension="A154362754" | eGK-Spezifikation) muss der |
+| **Versicherten_ID** | <id extension="A154362754" | Für die Versicherten_ID (gemäß |
 | **Versicherten-** | <id extension="154362754" | Die OID 1 |
 | Adresse des | **<addr> **         <streetName>Dorfstraße</streetName>          <houseNumber>54</houseNumber> **<postalCode>51371</postalCode>**          <city>Leverkusen</city> **</addr> ** ODER **<addr>  <postalCode>51371</postalCode>**  <city>Leverkusen</city> **</addr>** |  |
 | Entität | **<patient>** |  |
 | **Nachnamen des  Vornamen des** | **<name>            <given>Paul</given>            <family>Pappel</family>  </name>** |  |
 | **Geburtsdatum** | **<birthTime value="19551217"/>** |  |
 
-nummer Patienten mindestens PLZ oder PostfachPLZ Patienten Patienten des Patienten root=" 1.2.276.0.76.4.8 root=" 1.2.276.0.76.4.1 Für die Versicherten_ID (gemäß Identifikator (OID) 1.2.276.0.76.4.8  verwendet werden. .2.276.0.76.4.1  ist für die Versichertennummer bei KV- Karten zu verwenden.  - und <participant> folgende Elemente enthalten und  -Leitfaden (Version 2006) befüllt sein
+nummer Patienten mindestens PLZ oder PostfachPLZ Patienten Patienten des Patienten root=" 1.2.276.0.76.4.8 root=" 1.2.276.0.76.4.1 eGK-Spezifikation) muss der Identifikator (OID) 1.2.276.0.76.4.8  verwendet werden. .2.276.0.76.4.1  ist für die Versichertennummer bei KV- Karten zu verwenden.  - und <participant> folgende Elemente enthalten und  -Leitfaden (Version 2006) befüllt sein
 
 
 ---
@@ -319,7 +316,7 @@ nummer Patienten mindestens PLZ oder PostfachPLZ Patienten Patienten des Patient
 \|---|
 \| Sofern medizinische Dokumentationen (Anamnese, Befunde, Diagnosen) im |
 
-kennung codeSystem="2.16.840.1.113883.5.111"> codeSystem="2.16.840.1.113883.3.7.1.1" Institutionskennzeichen müssen diese den Vorgaben des [Implementierungsleitfaden Arztbrief] entsprechen. PFLICHTFUNKTION P41-03 Zwingende Bestandteile einer eArztbrief-Lieferung Eine eArztbrief-Lieferung besteht mindestens aus zwei Dateien, dem signierten PDF/A XML-Datei.  Begründung:  Anhand dieser beiden Dateien wird sowohl die Übermittlung der medizinisch lesbarer Form für den Empfänger (PDF/A-Dokument) als auch eine (teil-)automatisierte Verarbeitung durch die Software (XML-Dokument) gewährleistet. Akzeptanzkriterium: Die Software übermittelt für eine eArztbrief -Lieferung immer mindestens die folgenden zwei Dateien: genau ein signiertes PDF/A-Dokument entsprechend P41-01 genau ein XML-Dokument entsprechend P41-02 Die Software kann neben den in Akzeptanzkriterium 1 genannten Date Arztbrief-Lieferung unterstützen.  XML-Body vorhanden sind,  relevanten Informationen in ien weitere Anhänge in einer e- -Dokument und der | **PFLICHTFUNKTION** |  |
+codeSystem="2.16.840.1.113883.5.111"> codeSystem="2.16.840.1.113883.3.7.1.1" kennung Institutionskennzeichen müssen diese den Vorgaben des [Implementierungsleitfaden Arztbrief] entsprechen. PFLICHTFUNKTION P41-03 Zwingende Bestandteile einer eArztbrief-Lieferung Eine eArztbrief-Lieferung besteht mindestens aus zwei Dateien, dem signierten PDF/A XML-Datei.  Begründung:  Anhand dieser beiden Dateien wird sowohl die Übermittlung der medizinisch lesbarer Form für den Empfänger (PDF/A-Dokument) als auch eine (teil-)automatisierte Verarbeitung durch die Software (XML-Dokument) gewährleistet. Akzeptanzkriterium: Die Software übermittelt für eine eArztbrief -Lieferung immer mindestens die folgenden zwei Dateien: genau ein signiertes PDF/A-Dokument entsprechend P41-01 genau ein XML-Dokument entsprechend P41-02 Die Software kann neben den in Akzeptanzkriterium 1 genannten Date Arztbrief-Lieferung unterstützen.  XML-Body vorhanden sind, -Dokument und der  relevanten Informationen in ien weitere Anhänge in einer e-| **PFLICHTFUNKTION** |  |
 |---|---|
 | **P41-03** | Zwingende Bestandteile einer eArztbrief-Lieferung |
 

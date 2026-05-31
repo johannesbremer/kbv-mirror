@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**23. MAI 2026**
+**30. MAI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -39,7 +39,7 @@
 
 Bahnhofstraße 11 c 67159 Friedelsheim Internet: www.ergosoft.info
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 23. Mai 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 30. Mai 2026
 
 **Prüfnummer**
 
@@ -47,23 +47,17 @@ Y/172/2509/36/636
 
 Y/172/2509/36/332
 
-Y/172/2511/36/086
-
-Y/172/2509/36/295
-
-Y/172/2507/36/253
-
 **Prüfnummer gültig bis**
 
 31.08.2028
 
 31.08.2028
 
-31.10.2028
+Y/172/2511/36/086 31.10.2028
 
-31.08.2028
+Y/172/2509/36/295 31.08.2028
 
-30.06.2028
+Y/172/2507/36/253 30.06.2028
 
 
 ---
@@ -88,7 +82,7 @@ Y/172/2507/36/253
 
 Softwarevariante(n): - x.vianova
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 23. Mai 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 30. Mai 2026
 
 **Prüfnummer**
 
@@ -119,9 +113,17 @@ Y/172/2510/36/216
 
 **medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
 
+**Prüfnummer**
+
+**Prüfnummer gültig bis**
+
+Y/172/2509/36/243 31.08.2028
+
 **x.comfort**
 
 **medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
+
+Y/172/2509/36/266 31.08.2028
 
 **medatixx**
 
@@ -129,31 +131,15 @@ Y/172/2510/36/216
 
 Softwarevariante(n): - psyx
 
+Y/172/2509/36/462 31.08.2028
+
 **medavis RIS**
 
 **medavis GmbH** Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.de
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 23. Mai 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 30. Mai 2026
 
-**Prüfnummer**
-
-Y/172/2509/36/243
-
-Y/172/2509/36/266
-
-Y/172/2509/36/462
-
-Y/172/2509/36/256
-
-**Prüfnummer gültig bis**
-
-31.08.2028
-
-31.08.2028
-
-31.08.2028
-
-31.08.2028
+Y/172/2509/36/256 31.08.2028
 
 
 ---
@@ -187,7 +173,7 @@ Y/172/2509/36/256
 | 69221 | Dossenheim |  |  |
 | Internet: |  | https://www.nexus-chili.com | |
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 23. Mai 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 30. Mai 2026
 
 **Prüfnummer**
 
@@ -230,7 +216,7 @@ medavis GmbH Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.de medisoftw
 
 **Schwerdtner Medizin-Software GmbH** Loebensteinstraße 26 30175 Hannover Internet: www.q-med.de
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 23. Mai 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 30. Mai 2026
 
 **Prüfnummer**
 
@@ -275,18 +261,12 @@ Y/172/2509/36/230
 
 **Prüfnummer**
 
-Y/172/2512/36/551
-
-Y/172/2507/36/457
-
-Y/172/2510/36/768
-
 **Prüfnummer gültig bis**
 
-30.11.2028
+Y/172/2512/36/551 30.11.2028
 
-30.06.2028
+Y/172/2507/36/457 30.06.2028
 
-30.09.2028
+Y/172/2510/36/768 30.09.2028
 
-Universitätsklinikum Freiburg AdöR Agnesenstraße 6-8 79106 Freiburg Internet: www.uniklink-freiburg.de Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.deSeite 7 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 23. Mai 2026
+Universitätsklinikum Freiburg AdöR Agnesenstraße 6-8 79106 Freiburg Internet: www.uniklink-freiburg.de Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.deSeite 7 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 30. Mai 2026

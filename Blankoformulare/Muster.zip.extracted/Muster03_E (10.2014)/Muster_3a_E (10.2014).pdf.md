@@ -1,8 +1,16 @@
-\| **Krankenkasse bzw. Kostenträger** | | |
-\| **Name, Vorname des Versicherten** | | |
-| **Kostenträgerkennung** | **Versicherten-Nr.** | |
-|---|---|---|
-| **Betriebsstätten-Nr.** | **Arzt-Nr.** | |
+**Krankenkasse bzw. Kostenträger**
+
+**Name, Vorname des Versicherten**
+
+**Status**
+
+**Kostenträgerkennung** **Versicherten-Nr.**
+
+**Betriebsstätten-Nr.**
+
+**Arzt-Nr.**
+
+**Datum**
 
 **Zum Nachweis gegenüber der Krankenkasse** **(Beantragung von Mutterschaftsgeld) bescheinige ich** **dass die oben bezeichnete Versicherte** **voraussichtlich entbinden wird am**
 
@@ -10,11 +18,11 @@
 
 **Ggf. besondere Feststellungen**
 
-**Datum**
-
 ***Vor der Weitergabe des Vordrucks an die Krankenkasse von der Versicherten auszufüllen.*** **Name, Vorname**
 
 **PLZ**
+
+**Wohnort**
 
 **Kontoinhaber**
 
@@ -26,6 +34,8 @@
 
 **beschäftigt, bei**
 
+**Anschrift des Arbeitgebers**
+
 **selbständig**
 
 **arbeitslos**
@@ -34,19 +44,9 @@
 
 **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
 
-**Wohnort**
-
-**Anschrift des Arbeitgebers**
-
 **Erklärung:** **Änderungen meiner Angaben teile ich der Krankenkasse umgehend mit.** **Sofern sich der mutmaßliche Entbindungstermin verschiebt, informiere ich** **meine Krankenkasse und meinen Arbeitgeber bzw. die**
 
 **Datum**
-
-**geb. am**
-
-**Status**
-
-**Straße, Haus-Nr.**
 
 **Zeugnis über den**
 
@@ -56,9 +56,13 @@
 
 **Ausfertigung für die Krankenkasse**
 
+**geb. am**
+
 **Vertragsarztstempel / Unterschrift des Arztes**
 
 **Geburtsdatum**
+
+**Straße, Haus-Nr.**
 
 **BIC**
 

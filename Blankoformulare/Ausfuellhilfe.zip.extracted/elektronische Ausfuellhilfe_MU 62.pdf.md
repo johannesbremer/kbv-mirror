@@ -2,8 +2,6 @@
 
 **- bzw. Dekanülierungspotenzials**
 
-1
-
 
 ---
 
@@ -43,8 +41,6 @@ Die potenzialerhebende Ärztin oder der potenzialerhebende Arzt kann hier weiter
 
 - **(8)** **Ergebnis der Erhebung festgestellt am**
 
-2
-
 
 ---
 
@@ -56,12 +52,10 @@ Hier ist anzugeben, wann die nächste Erhebung terminiert wurde. Dieses Datum be
 
 **- bzw. Dekanülierungspotenzials**
 
-3
-
 
 ---
 
-#### Muster 62B: Verordnung außerklinischer Intensivpflege 4
+#### Muster 62B: Verordnung außerklinischer Intensivpflege
 
 
 ---
@@ -96,8 +90,6 @@ Ergibt sich die Notwendigkeit der außerklinischen Intensivpflege infolge eines 
 
 Hier sind konkrete klinische Parameter und die lebensbedrohlichen Einschränkungen der  Vitalfunktionen zu benennen, welche im Zusammenhang mit der außerklinischen Intensivpflege  stehen. Auch sollen Mitwirkungsmöglichkeiten der oder des Versicherten aufgezeigt werden.
 
-5
-
 
 ---
 
@@ -131,8 +123,6 @@ Vertragsärztinnen und Vertragsärzte, die nicht auf die die AKI auslösende Erk
 
 - **13.)** **Sonstige Hinweise**
 
-6
-
 
 ---
 
@@ -140,14 +130,10 @@ Hier ist die Angabe weiterer relevanter Hinweise insbesondere im Hinblick auf di
 
 Kommunikation, Mitwirkungsfähigkeit oder Nahrungsaufnahme möglich.
 
-7
-
 
 ---
 
 **Muster 62C: Behandlungsplan**
-
-8
 
 
 ---
@@ -171,5 +157,3 @@ Unter „Sonstige eingeleitete Maßnahmen (einschließlich weiterer Maßnahmen d
 - **5.)** **Medizinische Behandlungspflege**
 
 Alle weiteren im zeitlichen Zusammenhang mit der AKI anfallenden erforderlichen Maßnahmen  der medizinischen Behandlungspflege sind Teil der AKI und können nicht separat im Rahmen der  Häuslichen Krankenpflege auf Muster 12 verordnet werden. Die erforderlichen Leistungen sowie  deren Häufigkeit und Dauer sind hier, ggf. unter Nutzung eines Beiblattes, anzugeben.
-
-9

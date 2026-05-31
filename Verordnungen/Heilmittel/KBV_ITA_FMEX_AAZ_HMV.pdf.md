@@ -43,7 +43,7 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 | **Telefonnummer** |  | | |
 | **E-Mail-Adresse** |  | | |
 
-Rechtsform anzugeben] Systempfleger vom Antragsteller abweicht] [ ] [ ] [ ]
+Rechtsform anzugeben] Systempfleger vom Antragsteller abweicht]
 
 ---
 
@@ -76,7 +76,7 @@ Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werd
 | ☐ | Windows | ☐ | Mac OS | ☐ | Linux |
 | ☐ | iOS/Android | ☐ | Sonstige | | |
 
-Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
+Antragsstellers Stellen der Prüfnummer, falls vorhanden]
 
 ---
 
@@ -109,7 +109,7 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 
 Diese Information ist verpflichtend anzugeben
 
-[ ] nach § 73 SGB V für die Verordnung von Heilmittel ) Pflichtfunktionen des Anforderungskatalogs  erfüllt sind.
+nach § 73 SGB V für die Verordnung von Heilmittel ) Pflichtfunktionen des Anforderungskatalogs  erfüllt sind.
 
 ---
 

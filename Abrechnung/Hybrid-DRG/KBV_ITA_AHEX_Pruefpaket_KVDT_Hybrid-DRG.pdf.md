@@ -93,21 +93,19 @@ Die Abrechnungsdatei muss als .ZIP-Archiv mit der Bezeichnung  hochgeladen werde
 
 Werden in den Prüffällen keine Angaben zu verpflichtenden Feldkennungen (FK) der aktuell
 
-DRG-Datensatzes gemacht, so sind die Werte frei wählbar, z.B. FK 5028 (Erfassung des Datums des Beginns  der Leistung). In den Prüffällen nicht genannte bzw. nicht für den Prüffall notwendige optionale
-
-Feldkennungen sind nicht zu übertragen.
+DRG-Datensatzes gemacht, so sind die Werte frei wählbar, z.B. FK 5028 (Erfassung des Datums des Beginns  der Leistung). In den Prüffällen nicht genannte bzw. nicht für den Prüffall notwendige optionale  Feldkennungen sind nicht zu übertragen.
 
 Als Patientennummer (**FK 3000**) muss die Prüffall-ID (siehe Tabellen in Kapitel 4) eingetragen werden
 
 ## 3.1 PRÜFSTAMMDATEIEN
 
-Zur Realisierung der Prüffälle sind die regulären KBV -Stammdateien zu verwenden. Diese sind zu finden  unter: [https://update.kbv.de/ita-update/Stammdateien/](https://update.kbv.de/ita-update/Stammdateien/) .
+Zur Realisierung der Prüffälle sind die regulären KBV-Stammdateien zu verwenden. Diese sind zu finden  unter: [https://update.kbv.de/ita-update/Stammdateien/](https://update.kbv.de/ita-update/Stammdateien/) .
 
 ## 3.2 VERSICHERTENDATEN
 
-Die Versichertendaten der Testpatienten enthalten alle für  des Versicherten und werden auch als XML -Dateien zur
+Die Versichertendaten der Testpatienten enthalten alle für  des Versicherten und werden auch als XML-Dateien
 
-(VSD_5.2.0_Testfaelle_Vn.n.zip) enthält fü r die Prüffälle
+(VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für die Prüffälle
 
 Versichertenstammdaten:
 
@@ -129,9 +127,9 @@ ert auf Vollständigkeit und  urch Mitarbeitende der KBV
 
 gültigen Hybrid-
 
-jeden Prüffall die nötigen Angaben zu den Daten  Verfügung gestellt. Die Archivdatei
+jeden Prüffall die nötigen Angaben zu den Daten  zur Verfügung gestellt. Die Archivdatei
 
-die folgenden XML -Dateien mit
+die folgenden XML-Dateien mit
 
 
 ---

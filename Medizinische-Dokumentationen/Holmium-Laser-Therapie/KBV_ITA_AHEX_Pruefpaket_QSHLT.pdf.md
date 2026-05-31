@@ -184,11 +184,9 @@ müssen fehlerfrei gegen das jeweils aktuelle, von der KBV vorgegebene, Prüfsch
 
 Die geforderten Videomitschnitte und Screenshots müssen in einem gesonderten Ordner  „Dokumentation“ übermittelt werden und folgender Namenskonvention entsprechen. Diese werden  durch den Prüfer begutachtet.
 
-1
+_[lfdNr.]2 3
 
-2 3
-
-[PrüffallNr.] _[lfdNr.] .*
+[PrüffallNr.]1
 
 - Alle Prüfunterlagen (Jahresstatistiken und der Ordner „Dokumentation übermitteln. Die Dokumentationsunterlagen werden direkt in dem Hauptverzeichnis übertragen und  nicht gesondert in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Das zip Archiv muss wie folgt benannt werden:
 

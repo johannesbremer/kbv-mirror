@@ -9,9 +9,9 @@
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
-|  | 2.02 |
+|  | Version |
 
-Erstellung und Verarbeitung von XML-Stammdateien für die ARV-Schnittstelle  Digitalisierung und IT -Lewin-Platz 2 Version  Datum: 14.08.2019 Kennzeichnung: Öffentlich Status: In Kraft
+Erstellung und Verarbeitung von XML-Stammdateien für die ARV-Schnittstelle  Digitalisierung und IT -Lewin-Platz 2 2.02 Datum: 14.08.2019 Kennzeichnung: Öffentlich Status: In Kraft
 
 
 ---
@@ -89,9 +89,11 @@ ches gilt für „Rasilez®“ und „Rasilez® plus“.
 
 ---
 
-Mit der Kennzeichnung “*Name Leerzeichen Sternchen*„ wird ein bestimmtes Stan-
+Mit der Kennzeichnung “*Name Leerzeichen Sternchen*
 
 dardaggregat definiert. Grundsätzlich ist diese Angabe auch in der Kategorie Handels- name denkbar, faktisch verwischt sich damit jedoch der Unterschied zwischen Han- delsname und Standardaggregat. Es ist denkbar, eine Kennzeichnung als “Omeprazol  *“ in der Kategorie Standardaggregat oder eine Kennzeichnung als “Omeprazol rati- opharm *“ in der Kategorie Handelsnamen zu machen. In der Kategorie Standardag- gregat muss das Sternchen zwingend angegeben werden, in der Kategorie Handels- name jedoch bei vollständiger Angabe des Handelsnamens nicht.
+
+„ wird ein bestimmtes Stan-
 
 - 5. Bei Angabe von Standardaggregaten und Handelsnamen sind die Sonderzeichen für  Trademark ™ oder für Registrierung  nicht mit anzugeben. Die Sonderzeichen sind
 

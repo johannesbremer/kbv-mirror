@@ -51,7 +51,7 @@ antwortlich zeichnet.
 
 Übergabe
 
-Rechtsform anzugeben] Systempfleger vom Antragssteller abweicht] [ ] [ ] [ ]
+Rechtsform anzugeben] Systempfleger vom Antragssteller abweicht]
 
 ---
 
@@ -86,7 +86,7 @@ Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werd
 
 / Version: 4.3 / 15. Mai 2024
 
-Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
+Antragsstellers Stellen der Prüfnummer, falls vorhanden]
 
 
 ---
@@ -125,7 +125,7 @@ Folgende optionale SADT Funktionen sind gem. Anforderungskatalog KVDT realisiert
 
 / Version: 4.3 / 15. Mai 2024
 
-[ ] mit [ ] allen Feldern allen Ausprägungen (erlaubte Inhalte) zu den Feldern allen Regeln g KVDT ist das SADT-Datenpaket realisiert [ ] [ ] [ ] [ ] [ ] [ ]
+mit allen Feldern allen Ausprägungen (erlaubte Inhalte) zu den Feldern allen Regeln g KVDT ist das SADT-Datenpaket realisiert
 
 ---
 
@@ -237,15 +237,17 @@ Neu- oder Erweiterungs- neuen Satzart Sicht- oder Sicht- oder
 
 -
 
+-
+
 - en Verwendung zur Verfügung zu - n und
 
 -
 
-/ Version: 4.3 / 15. Mai 2024 -
+- - und
 
 -
 
-- - und
+/ Version: 4.3 / 15. Mai 2024
 
 
 ---

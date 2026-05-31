@@ -44,7 +44,7 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 | **Telefonnummer** |  | | |
 | **E-Mail-Adresse** |  | | |
 
-Rechtsform anzugeben] Systempfleger vom Antragsteller abweicht] [ ] [ ] [ ]
+Rechtsform anzugeben] Systempfleger vom Antragsteller abweicht]
 
 ---
 
@@ -77,33 +77,26 @@ Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werd
 | ☐ | Windows | ☐ | Mac OS | ☐ | Linux |
 | ☐ | iOS/Android | ☐ | Sonstige | | |
 
-[ ]
-
-Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ][ ]
+Antragsstellers Stellen der Prüfnummer, falls vorhanden]
 
 
 ---
 
-2
+2 REALISIERUNG VON ANFORDERUNGEN
 
 |  |  |
 |---|---|
 | ☐ | Der Antragsteller versichert, dass die Vorgaben gemäß 1ClickAbrechnung Spezifikation |
 
-**2.1**
+**2.1** **REALISIERUNG DER SAMMELERKLÄRUNG**
 
 |  |  |
 |---|---|
 | ☐ | Alle Anforderungen zu der Sammelerklärung wurden umgesetzt. |
 | ☐ | Die Anforderungen zu der Sammelerklärung wurden nicht umgesetzt. |
 
-[ ]
+[1ClickAbrechnung_V2.1.8] für 1Click umgesetzt wurden.
 
-# REALISIERUNG VON ANFORDERUNGEN
-
-## REALISIERUNG DER SAMMELERKLÄRUNG
-
-[ ] [1ClickAbrechnung_V2.1.8] für 1Click umgesetzt wurden. [ ]
 
 ---
 

@@ -96,7 +96,7 @@ DOKUMENTENHISTORIE
 | 1.20.0 | 08.07.2021 | KBV | Neue Fragen | E-Rezept | 6 ff. |
 | 1.0 | 15.06.2020 | KBV | Dokumenterstellung |  | alle |
 
-entfernt  aufgenommen aufgenommen Überarbeitung Kompetenzzentrum für Interoperabilität im Gesundheits wesen (KIG)
+Kompetenzzentrum für entfernt  Interoperabilität im Gesundheits wesen (KIG) aufgenommen aufgenommen Überarbeitung
 
 
 ---
@@ -332,13 +332,15 @@ der VoS weiterverarbeitet
 
 Für die Instanz der DocumentReference werden folgende Inhalte und Werte vorgegeben, wenn es sich um  ein signiertes eRP handelt:
 
--  DocumentReference.type.coding:Dokumententyp CodeSystem KBV_CS_VoS_DocumentType
+-  DocumentReference.type.coding:Dokumententyp.code = „Signiertes_eRezept“ aus dem
 
--  DocumentReference.content.attachment.contentType = „application /pkcs7
+- CodeSystem KBV_CS_VoS_DocumentType
+
+-  DocumentReference.content.attachment.contentType = „application /pkcs7 mime“
 
 Für die Übertragung einer Stornierung eines E-Rezepts wird von der VoS eine Instanz des Profils
 
-KBV_PR_VoS_Provenance_ePrescription verwendet. Dieses beinhaltet die Aktivität „DELETE“ und Verweise  auf das signierte (und optional das unsignierte) E
+KBV_PR_VoS_Provenance_ePrescription verwendet. Dieses beinhaltet die Aktivität „DELETE“ und Verweise  auf das signierte (und optional das unsignierte) E-Rezept.
 
 **PVS: E-Rezept speichern und ggfs. als gelöscht markieren**
 
@@ -350,46 +352,48 @@ als gelöscht.
 
 ## SCHNITTSTELLE?
 
-Der Aufruf der VoS durch das PVS ist identisch. Beim Aufruf werden die zum Aufrufkontext notwendigen  und ggf. optionalen Daten an die VoS übergeben. und Kostenträgerdaten können in der VoS die entsprechenden Funktionen durchgeführt und (E erstellt werden.
+Der Aufruf der VoS durch das PVS ist identisch. Beim Aufruf werden die zum Aufrufkontext notwendigen  und ggf. optionalen Daten an die VoS übergeben. Mit den übergebenen Praxis-, Behandelnden-, Patienten-
+
+und Kostenträgerdaten können in der VoS die entsprechenden Funktionen durchgeführt und (E-)Rezepte
+
+erstellt werden.
 
 E-Rezepte:
 
-Die E-Rezepte werden entsprechend der Spezifikation des E Profilen erzeugt und als Bundle zusammengestellt und signiert an den Fachdienst gesendet. Eine  Übertragung des signierten Bundles an das PVS erfolgt über eine Instanz vom Typ  dem Profil KBV_PR_VoS_DocumentReference im Dateiformat PKCS#7 (content.attachment.contentType =  „application /pkcs7 mime“). Optional ist auch die Übergabe des unsignierte
+Die E-Rezepte werden entsprechend der Spezifikation des E-Rezepts mit den dort festgelegten FHIR
 
-Instanzen werden als Inhalt im Speicherbundle KBV
+Profilen erzeugt und als Bundle zusammengestellt und signiert an den Fachdienst gesendet. Eine  Übertragung des signierten Bundles an das PVS erfolgt über eine Instanz vom Typ DocumentReference mit
+
+dem Profil KBV_PR_VoS_DocumentReference im Dateiformat PKCS#7 (content.attachment.contentType =  „application /pkcs7 mime“). Optional ist auch die Übergabe des unsignierten e RP-Bundles möglich. Diese
+
+Instanzen werden als Inhalt im Speicherbundle KBV_PR_VoS_Bundle_VoS_PVS aufgenommen.
 
 Papiergebundene Rezepte:
 
-Die Verordnungsdaten der papiergebundenen Rezepte werden über die Profile  KBV_PR_VoS_Medication_Compounding, KBV_PR_VoS_Medication_FreeText,  KBV_PR_VoS_Medication_Ingredient, KBV_PR_VoS_Medication_PZN und KBV_PR_VoS_Prescription  VoS-SST als Inhalte des Speicherbundles KBV_PR_VoS_Bundle_VoS_PVS an das PVS übertragen. Die PDF-
+Die Verordnungsdaten der papiergebundenen Rezepte werden über die Profile  KBV_PR_VoS_Medication_Compounding, KBV_PR_VoS_Medication_FreeText,  KBV_PR_VoS_Medication_Ingredient, KBV_PR_VoS_Medication_PZN und KBV_PR_VoS_Prescription der
+
+VoS-SST als Inhalte des Speicherbundles KBV_PR_VoS_Bundle_VoS_PVS an das PVS übertragen. Die PDF-
 
 Ausdrucke der Rezepte werden als DocumentReferences im Speicherbundle aufgenommen.
-
-- .code = „Signiertes_eRezept“ aus dem -Rezept.
-
-- mime“
-
-Mit den übergebenen Praxis-, Behandelnden-, Patienten-  -)Rezepte
-
--Rezepts mit den dort festgelegten FHIR
-
-DocumentReference mit
-
-n e RP-Bundles möglich. Diese
-
-_PR_VoS_Bundle_VoS_PVS aufgenommen.
-
-der
 
 
 ---
 
-## 2.7 FRAGESTELLUNG - KÖNNEN PAPIERGEBUNDENE REZEPTE UND E SPEICHERBUNDLE ENTHALTEN SEIN?
+## 2.7 FRAGESTELLUNG - KÖNNEN PAPIERGEBUNDENE REZEPTE UND E-REZEPTE GLEICHZEITIG IN EINEM
 
-Es ist durchaus möglich, dass in einem Speicherbundle gleichzeitig signierte dazugehörigen unsignierten) E-Rezeptbundles und papiergebundene Rezepte enthalten sind.
+## SPEICHERBUNDLE ENTHALTEN SEIN?
 
-## 2.8 FRAGESTELLUNG - WORAUF IST BEI DER NUTZUNG DES HL7
+Es ist durchaus möglich, dass in einem Speicherbundle gleichzeitig signierte (plus optional die
 
-Der HL 7-Validator beinhaltet die Möglichkeit Codes (z.B. Snomed werden einzelne Codes an einen Terminologieserver, der derzeit in den USA angesiedelt ist, gesendet. Es  werden jedoch auch personenbezogene Daten (IP Produktivbetrieb sollte daher ausschließlich eine lokale Terminologievalidierung durchgeführt werden,  damit keine personenbezogenen Daten des Arztes/der Praxis übertragen werden.
+dazugehörigen unsignierten) E-Rezeptbundles und papiergebundene Rezepte enthalten sind.
+
+## 2.8 FRAGESTELLUNG - WORAUF IST BEI DER NUTZUNG DES HL7-VALIDATORS ZU ACHTEN?
+
+Der HL 7-Validator beinhaltet die Möglichkeit Codes (z.B. Snomed-CT-Codes) online zu validieren. Dabei
+
+werden einzelne Codes an einen Terminologieserver, der derzeit in den USA angesiedelt ist, gesendet. Es  werden jedoch auch personenbezogene Daten (IP-Adresse) übertragen und vorübergehend gespeichert. Im
+
+Produktivbetrieb sollte daher ausschließlich eine lokale Terminologievalidierung durchgeführt werden,  damit keine personenbezogenen Daten des Arztes/der Praxis übertragen werden.
 
 **Hinweis - Aufbau der Ressourcen-ID**
 
@@ -397,7 +401,9 @@ Bitte beachten Sie die FHIR-Vorgaben ([https://www.hl7.org/fhir/datatypes.html#i
 
 ## 2.9 FRAGESTELLUNG - WORAUF IST BEI DER VERWENDUNG VON VERFICATIONSTATUS BEI ALLERGIEN  ZU ACHTEN?
 
-Aktuell kann als VerificationStatus bei Allergien nur confirmed angegeben werden. Dieser Wert ist auch zu  verwenden, wenn die Angabe vom Patienten erfolgt, obwohl dies nicht gegeben sein muss. Aber durch die  Referenz der Provenance auf die Allergie kann der Status  Dies wird in der nächsten Version korrigiert. Hinweis: Diese Anfrage stammt aus der Zertifizierung und
+Aktuell kann als VerificationStatus bei Allergien nur confirmed angegeben werden. Dieser Wert ist auch zu  verwenden, wenn die Angabe vom Patienten erfolgt, obwohl dies nicht gegeben sein muss. Aber durch die  Referenz der Provenance auf die Allergie kann der Status des Profils als „unconfirmed“ erkannt werden.
+
+Dies wird in der nächsten Version korrigiert. Hinweis: Diese Anfrage stammt aus der Zertifizierung und
 
 betrifft den Prüffall P02.
 
@@ -405,29 +411,19 @@ betrifft den Prüffall P02.
 
 Bei den Aufrufkontexten ohne Patientendaten können in KBV_PR_VoS_Composition eigentlich keine
 
-sinnvollen Angaben zur extension "rechtsgrundlage" gemacht werden, diese hat aber Kardinalität 1..1. In diesen Fällen ist der Code "00" zu übertragen.  betrifft die Prüffälle P03 und P05.
+sinnvollen Angaben zur extension "rechtsgrundlage" gemacht werden, diese hat aber Kardinalität 1..1.
+
+In diesen Fällen ist der Code "00" zu übertragen. Hinweis: Diese Anfrage stammt aus der Zertifizierung und
+
+betrifft die Prüffälle P03 und P05.
 
 ## 2.11 FRAGESTELLUNG - WIE KANN ICH DIE DEUTSCHE BEZEICHNUNGEN FÜR EINE CODIERTE  INFORMATIONEN BEKOMMEN?
 
-Für alle englische Codes werden entsprechende deutsche Übersetzungen zur Verfügung gestellt. Diese sind  für jedes Konzept bzw. Ressource auf der Unterseite "Informationsmodell" bei den Elementen zu die ein entsprechendes Valueset innehaben.
+Für alle englische Codes werden entsprechende deutsche Übersetzungen zur Verfügung gestellt. Diese sind  für jedes Konzept bzw. Ressource auf der Unterseite "Informationsmodell" bei den Elementen zu finden,
+
+die ein entsprechendes Valueset innehaben.
 
 Nähere Informationen finden Sie unter: [https://mio.kbv.de/display/BASE1X0/FAQ](https://mio.kbv.de/display/BASE1X0/FAQ)
-
-## -REZEPTE GLEICHZEITIG IN EINEM
-
-## -VALIDATORS ZU ACHTEN?
-
--CT-Codes) online zu validieren. Dabei
-
--Adresse) übertragen und vorübergehend gespeichert. Im
-
-des Profils als „unconfirmed“ erkannt werden.
-
-Hinweis: Diese Anfrage stammt aus der Zertifizierung (plus optional die
-
-und
-
-finden,
 
 
 ---

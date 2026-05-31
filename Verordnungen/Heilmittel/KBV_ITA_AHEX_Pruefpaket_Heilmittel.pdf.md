@@ -78,9 +78,7 @@ KBV  Prüfpaket Heilmittel  Version: 2.4  13. Januar 2023
 
 **25**
 
-Seite 2 von 25
-
-KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023
+Seite 2 von 25  KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023
 
 
 ---
@@ -105,18 +103,14 @@ Seite 3 von
 |---|---|---|---|
 | 13.01.2023 | KBV | Anpassung Prüffall 01 | Erweiterung der |
 
-07.07.2020
+07.07.2020 KBV
 
-19.05.2020
+19.05.2020 KBV
 
 | 13.03.2020 | KBV | Konkretisierung des Prüfpakets |  |
 |---|---|---|---|
 | 15.01.2020 | KBV | Neufassung des Prüfpaketes | Änderung der |
 |  |  |  | Heilmittel‐Richtlinie |
-
-KBV
-
-KBV
 
 25  KBV  Prüfpaket Heilmittel  Version:
 
@@ -306,9 +300,7 @@ Reihenfolge der Anweisungen des Prüffalls in der Datei zu hinterlegen, wobei je
 
 der dokumentierten Verordnung anzuordnen sind.
 
-1
-
-<PrüffallNr.> .pdf  z.B. **PF01.pdf**
+<PrüffallNr.>1 .pdf  z.B. **PF01.pdf**
 
 ________________
 
@@ -323,7 +315,7 @@ Die geforderten Videomitschnitte müssen ebenfalls im Hauptverzeichnis übermitt
 
 folgender Namenskonvention entsprechen. Diese werden durch den Prüfer begutachtet.
 
-<PrüffallNr.> _[AnweisungsNr.] .*  z.B. **PF01_1.mp4**
+<PrüffallNr.> _[AnweisungsNr.]2 3  z.B. **PF01_1.mp4**
 
 Die dokumentierten Verordnungen und Screenshots und die Videomitschnitte sind in einem ZIP Archiv zu
 
@@ -371,9 +363,7 @@ ________________
 
 3 Gängiges Bild bzw. Videoformat
 
-Seite 6 von 25
-
-KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023
+Seite 6 von 25  KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023
 
 
 ---
@@ -434,7 +424,7 @@ unterbunden werden.
 
 **DMP_Kennzeichnung**
 
-**1.6.4** **Patientendaten**
+**1.6.4** **Patientendaten** **für**
 
 **FELDER**
 
@@ -442,11 +432,7 @@ unterbunden werden.
 
 **Vorname**
 
-**für**
-
-Seite 7 von 25
-
-KBV  Prüfpaket Heilmittel
+Seite 7 von 25  KBV  Prüfpaket Heilmittel
 
 Versicherungsdaten
 
@@ -537,15 +523,13 @@ von Groscurth Plaetzchen 2023
 
 A120778335
 
-Potsdamer 19
+Potsdamer Platz 19
 
 10117
 
 D
 
 Berlin
-
-Platz
 
 **WOP**
 
@@ -555,9 +539,7 @@ Platz
 
 **Kostentraegerkennung**
 
-**1.6.5** **Praxisdaten**
-
-**Arztstempel**
+**1.6.5** **Praxisdaten**  **Arztstempel**
 
 **Betriebsstättennummer**
 
@@ -607,9 +589,7 @@ Die Software verwendet im Rahmen des Zertifizierungsverfahren
 
 **KG ZNS**
 
-Seite 8 von 25
-
-KBV  Prüfpaket Heilmittel  Version: 391234511
+Seite 8 von 25  KBV  Prüfpaket Heilmittel  Version: 391234511
 
 Dr. med. Hans Topp Glücklich 838382202
 
@@ -726,41 +706,55 @@ Jeder Prüffall ist nach dem folgenden Schema aufgebaut.
 
 **Überschrift** **des** **Prüffalls**
 
-Die in der Überschrift (z.B. Prüffall 01) jeweils enthaltene Nummer (im Beispiel: 01) ist
+Die in der Überschrift (z.B. Prüffall 01) jeweils enthaltene Nummer (im Beispiel:
 
 der einzureichenden PDF bzw. Video Dateien (PDF Datei) zu verwenden.
 
 **Anweisungen**
 
-Überprüfung von Verordnungsvoraussetzungen oder dem softwareseitigen Erkennen
+Überprüfung von Verordnungsvoraussetzungen oder dem softwareseitigen
 
-Zur können mit einzelnen Prüffällen besondere Anforderungen verknüpft sein. Hierzu können
+Zur können mit einzelnen Prüffällen besondere Anforderungen verknüpft sein.
 
-eines Patienten oder die zu verwendenden Daten einer Heilmittelverordnung gehören.
+eines Patienten oder die zu verwendenden Daten einer Heilmittelverordnung
 
 können mehrere nacheinander auszuführende Anweisungen zugeordnet sein.
 
-Es wird beschrieben, wie die Prüffälle zu bearbeiten und welche Prüfunterlagen einzureichen
+Es wird beschrieben, wie die Prüffälle zu bearbeiten und welche Prüfunterlagen
 
-eine Heilmittelverordnung als Ausdruck dokumentiert werden soll, ist dies vermerkt.
+eine Heilmittelverordnung als Ausdruck dokumentiert werden soll, ist dies
 
 **HINWEIS**
 
-Für die Dokumentation muss ein separater Screenshot für jede Hinweismeldung, Fehlermeldung
+Für die Dokumentation muss ein separater Screenshot für jede Hinweismeldung,
 
-Eingabemaske erstellt werden. Es muss das gesamte Applikationsfenster im Screenshot
+Eingabemaske erstellt werden. Es muss das gesamte Applikationsfenster im
 
 Bitte verwenden Sie zwischen den einzelnen Anweisungen immer eine entsprechende
 
 Kennzeichnung/Überschrift.
 
-Verordnungen sollen nur gespeichert und gedruckt werden, wenn diese exakt mit den
+Verordnungen sollen nur gespeichert und gedruckt werden, wenn diese exakt
 
 können.
 
 erstellt werden
 
-Seite 9 von 25  KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023
+Seite 9 von 25  KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023 01) ist für
+
+Erkennen
+
+Hierzu können gehören. Einem
+
+einzureichen
+
+vermerkt.
+
+Fehlermeldung
+
+Screenshot abgebildet
+
+mit den vorgegebenen
 
 **PREIS** **IN**
 
@@ -792,21 +786,19 @@ Seite 9 von 25  KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023
 
 11,11
 
-für den Dateinamen
+den Dateinamen
 
 von Fehleingaben
 
 die Festlegung
 
-Einem Prüffall
+Prüffall
 
 sind. Falls
 
-und
+und  werden.
 
-abgebildet werden.
-
-vorgegebenen Daten
+Daten
 
 
 ---
@@ -817,9 +809,7 @@ Die Pflichtfunktionen, die insbesondere von den zugeordneten Anweisungen des Pr�
 
 werden mit Nummer und Titel gelistet (z.B.: P3 08 Leitsymptomatik, […]).
 
-Seite 10 von 25
-
-KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023
+Seite 10 von 25  KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023
 
 
 ---
@@ -894,9 +884,7 @@ ausgedruckte Verordnung, sofern dies nach den
 
 P3 06 ICD 10 Code
 
-Seite 11 von 25
-
-KBV  Prüfpaket Heilmittel  Version:
+Seite 11 von 25  KBV  Prüfpaket Heilmittel  Version:
 
 (siehe Tabelle dieser Anweisung). Das Heilmittel gemäß
 
@@ -1132,9 +1120,9 @@ möglich ist.
 
 6
 
-(Anweisung und die
+(Anweisung 5) mit
 
-5) mit
+und die
 
 
 ---
@@ -1324,9 +1312,9 @@ Sinnesfunktion;
 
 Schädigung/Störung der Muskelfunktion
 
-KG ZNS Kinder 1 3x wöch.
+KG ZNS Kinder 36
 
-36
+1 3x wöch.
 
 P3 06 ICD 10 Code
 
@@ -1348,9 +1336,7 @@ Erstellen Sie eine Verordnung mit folgenden Daten und speichern und drucken sie 
 
 möglich. Dokumentieren Sie den Erfassungsdialog zur Auswahl des Heilmittels einschließlich möglicher
 
-Seite 15 von 25
-
-KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023
+Seite 15 von 25  KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023
 
 
 ---
@@ -1425,19 +1411,15 @@ P3 13 Therapiefrequenz
 
 P3 21 Verordnung von „vorrangigen Heilmitteln“
 
-Seite 16 von 25
-
-KBV  Prüfpaket Heilmittel  Version:
+Seite 16 von 25  KBV  Prüfpaket Heilmittel  Version:
 
 Sie die ausgedruckte Verordnung, sofern dies nach
 
 **DATEN**
 
-XML Verzeichnisname:
+XML Verzeichnisname: XML_05
 
 Podologie
-
-XML_05
 
 E10.20
 
@@ -1621,45 +1603,71 @@ ST3
 
 Gültigkeitsdatum
 
-Bis 31.12.2025
-
 genehmigtes Heilmittel
 
 Freitext
 
-*Antrag* *vom* *1.1.2020*
+**Insbesondere** **folgende** **Pflichtfunktionen**
 
-**Insbesondere** **folgende** **Pflichtfunktionen** **sind** **betroffen:**
+P3 01 Patientenspezifische
 
-P3 01 Patientenspezifische Genehmigung des langfristigen Heilmittelbedarfs
+P3 37 Patientenspezifische
 
-P3 37 Patientenspezifische Genehmigung des langfristigen Heilmittelbedarfs  Eingabedialog
-
-P3 18 Kriterien für Verordnungen aufgrund eines besonderen Verordnungsbedarfs/eines langfristigen
+P3 18 Kriterien für Verordnungen
 
 Heilmittelbedarfs
 
 **Anweisung** **3:**
 
-Erstellen Sie **eine** weitere Verordnung durch Zugriff auf die zurückliegende Verordnung (Anweisung 2)
+Erstellen Sie **eine** weitere
 
-innerhalb des Gültigkeitsdatums der Genehmigung.
+innerhalb des Gültigkeitsdatums
 
-Dokumentieren Sie den Erfassungsdialog, aus dem ersichtlich wird, dass die Verordnung als langfristig
+Dokumentieren Sie den Erfassungsdialog,
 
-genehmigt im Erfassungsdialog sichtbar gekennzeichnet ist per Screenshots.
+genehmigt im Erfassungsdialog
 
-Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
+Dokumentieren Sie die ausgedruckte
 
-**Insbesondere** **folgende** **Pflichtfunktionen** **sind** **betroffen:**
+**Insbesondere** **folgende** **Pflichtfunktionen**
 
-P3 01 Patientenspezifische Genehmigung des langfristigen Heilmittelbedarfs
+P3 01 Patientenspezifische
 
-P3 18 Kriterien für Verordnungen aufgrund eines besonderen Verordnungsbedarfs/eines langfristigen
+P3 18 Kriterien für Verordnungen
 
 Heilmittelbedarfs
 
-**2.4** **MAßNAHMEN** **DER** **ERGOTHERAPIE**
+**2.4** **MAßNAHMEN** **DER**
+
+Bis 31.12.2025
+
+*Antrag* *vom* *1.1.2020*
+
+**sind** **betroffen:**
+
+Genehmigung des langfristigen Heilmittelbedarfs
+
+Genehmigung des langfristigen Heilmittelbedarfs  Eingabedialog
+
+aufgrund eines besonderen Verordnungsbedarfs/eines langfristigen
+
+Verordnung durch Zugriff auf die zurückliegende Verordnung (Anweisung 2)
+
+der Genehmigung.
+
+aus dem ersichtlich wird, dass die Verordnung als langfristig
+
+sichtbar gekennzeichnet ist per Screenshots.
+
+Verordnung, sofern dies nach den Vorgaben möglich ist.
+
+**sind** **betroffen:**
+
+Genehmigung des langfristigen Heilmittelbedarfs
+
+aufgrund eines besonderen Verordnungsbedarfs/eines langfristigen
+
+**ERGOTHERAPIE**
 
 #### PRÜFFALL 04
 
@@ -1677,9 +1685,7 @@ Diagnosegruppe einschließlich möglicher Hinweissteuerung per Screenshots. Doku
 
 ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
 
-Seite 18 von 25
-
-KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023
+Seite 18 von 25  KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023
 
 
 ---
@@ -1764,13 +1770,11 @@ Seite 19 von 25  KBV  Prüfpaket Heilmittel  Version:
 
 **DATEN**
 
-XML Verzeichnisname:
+XML Verzeichnisname: XML_05
 
 Ergotherapie
 
 M45.0
-
-XML_05
 
 Spondylitis ankylosans
 
@@ -1839,21 +1843,19 @@ Z98.8
 
 **Behandlungsrelevante** **Diagnose(n)**
 
-**Diagnosegruppe**
-
-**Leitsymptomatik** **gemäß**
-
-**(buchstabencodiert)**
-
 Z96.64
 
 Sonstige näher bezeichnete Zustände
 
 Eingriffen; Vorhandensein einer
 
+**Diagnosegruppe**
+
 EX
 
-**Heilmittelkatalog** a)
+**Leitsymptomatik** **gemäß** **Heilmittelkatalog** a)
+
+**(buchstabencodiert)**
 
 **patientenindividuelle** **Leitsymptomatik**
 
@@ -1891,9 +1893,7 @@ P3 18 Kriterien für Verordnungen aufgrund
 
 Heilmittelbedarfs
 
-Seite 20 von 25
-
-KBV  Prüfpaket Heilmittel  Version:   13.
+Seite 20 von 25  KBV  Prüfpaket Heilmittel  Version:   13.
 
 nein
 
@@ -2020,15 +2020,13 @@ M54.0
 
 Z98.8
 
-Pannikulitis in der Nacken
+Pannikulitis in der Nacken und
 
-näher bezeichnete Zustände
+näher bezeichnete Zustände nach
 
 Eingriffen
 
 WS
-
-und nach
 
 Rückenregion; Sonstige
 
@@ -2081,11 +2079,9 @@ ein Video. Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den V
 
 **Therapiefrequenz**
 
-**Insbesondere** **folgende** **Pflichtfunktionen** **sind**
+**Insbesondere** **folgende** **Pflichtfunktionen** **sind** **betroffen:**
 
 P3 16 Blankoverordnung
-
-**betroffen:**
 
 KG
 
@@ -2113,13 +2109,11 @@ ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
 
 **Behandlungseinheiten** KG
 
-**Ergänzendes**
-
-**Behandlungseinheiten**
-
 MT
 
-Wärmetherapie mittels heiße Rolle
+**Ergänzendes**
+
+**Behandlungseinheiten** Wärmetherapie mittels heiße Rolle
 
 **Heilmittel**
 
@@ -2143,9 +2137,7 @@ Behandlungseinheiten durch Screenshots. Dokumentieren Sie die ausgedruckte Veror
 
 nach den Vorgaben möglich ist.
 
-Seite 22 von 25
-
-KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023 (Anweisung 1).
+Seite 22 von 25  KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023 (Anweisung 1).
 
 werden.
 
@@ -2159,13 +2151,13 @@ möglich ist.
 
 6
 
-(Anweisung als
+(Anweisung 2).
+
+als
 
 Sie die 4
 
 4
-
-2).
 
 8
 
@@ -2248,9 +2240,7 @@ Dokumentieren Sie die ausgedruckte Verordnung,
 
 **Heilmittel**
 
-Seite 23 von 25
-
-KBV  Prüfpaket Heilmittel  Version:   13.
+Seite 23 von 25  KBV  Prüfpaket Heilmittel  Version:   13.
 
 **DATEN**
 
@@ -2288,9 +2278,9 @@ Störung des Fett Energiestoffwechsels;
 
 *Nahrungsverweigerung*
 
-Ernährungstherapie
+Ernährungstherapie 100
 
-Januar 2023 100
+Januar 2023
 
 
 ---
@@ -2398,20 +2388,6 @@ KBV_ITA_VGEX_Schnittstelle_SDHMBV
 
 PRF_Stammdaten
 
-**Ansprechpartner:**
-
-Dezernat Digitalisierung und IT
-
-IT in der Arztpraxis
-
-Tel.: 030 4005 2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
-
-Kassenärztliche Bundesvereinigung
-
-Herbert Lewin Platz 2, 10623
-
-[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
-
 DOKUMENTE
 
 **Dokument**
@@ -2440,8 +2416,18 @@ Teststammdateien für die Zertifizie
 
 Verfahrens
 
-Berlin
+**Ansprechpartner:**
 
-Seite 25 von 25
+Dezernat Digitalisierung und IT
 
-KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023
+IT in der Arztpraxis
+
+Tel.: 030 4005 2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
+
+Kassenärztliche Bundesvereinigung
+
+Herbert Lewin Platz 2, 10623 Berlin
+
+[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+
+Seite 25 von 25  KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023

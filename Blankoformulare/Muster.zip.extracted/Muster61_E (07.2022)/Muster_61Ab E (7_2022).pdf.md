@@ -89,9 +89,17 @@ ICD-10-GM
 
 Datum
 
-**61 Teil A**
-
 Ursache *
+
+Vertragsarztstempel / Unterschrift des Arztes
+
+Stempel / Unterschrift der Krankenkasse
+
+PRF.NR.
+
+Muster 61 Teil Ab/E (7.2022)
+
+**61 Teil A**
 
 ***Mögliche Ursache***
 
@@ -126,11 +134,3 @@ Ursache *
 ***Erkrankung***
 
 ***(z. B. IfSG)***
-
-Vertragsarztstempel / Unterschrift des Arztes
-
-Stempel / Unterschrift der Krankenkasse
-
-PRF.NR.
-
-Muster 61 Teil Ab/E (7.2022)

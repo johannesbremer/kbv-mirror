@@ -2,6 +2,8 @@
 
 **Name, Vorname des Versicherten**
 
+**geb. am**
+
 **Kostenträgerkennung** **Versicherten-Nr.**
 
 **Betriebsstätten-Nr.**
@@ -14,15 +16,17 @@
 
 **Status**
 
-#### Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V
-
-**geb. am**
-
-**Ausreichende physische und psychische Belastbarkeit** **für eine Vorsorgeleistung ist gegeben**
-
 **Datum**
 
 ***nkung führen können)***
+
+#### Verordnung medizinischer
+
+**64 Teil A**
+
+#### Vorsorge für Mütter oder Väter gemäß § 24 SGB V
+
+**Ausreichende physische und psychische Belastbarkeit** **für eine Vorsorgeleistung ist gegeben**
 
 **II. Vorsorgebedürftigkeit**
 **A. Kurze Angaben zur Anamnese**
@@ -31,7 +35,11 @@
 
 ***häusliches Leben organisieren, Familien-/soziale Beziehungen pflegen, einer Beschäftigung sowie eigene***
 
-**C. Kontextfaktoren, die für die mütter-/väterspezifische Problemkonstellation relevant sind** **Mehrfachbelastung** **fehlende Anerkennung**
+**C. Kontextfaktoren, die für die mütter-/väterspezifische Problemkonstellation relevant sind** **Mehrfachbelastung**
+
+**fehlende Anerkennung**
+
+**Tod des Partners/** **naher Angehöriger**
 
 **durch Beruf/Familie**
 
@@ -39,58 +47,76 @@
 
 **mangelnde Unterstützung Partner-/ Eheprobleme/**
 
+**Arbeitsplatz/in der Schule**
+
 **bei der Kindererziehung**
 
 **Trennung vom Partner**
 
+**schwangerschaft**
+
 **Pflege von**
 
-**Erziehungs-** **schwierigkeiten**
+**Erziehungs-**
+
+**soziale Isolation**
+
+**schwierigkeiten**
+
+**schwierigkeiten**
 
 **Familienangehörigen**
 
-**Schwierigkeiten bei der Problembewältigung** **(Alltagsprobleme)**
+**Schwierigkeiten bei der Problembewältigung**
 
-**mangelnde Grundkompetenzen im Zusammenhang** **mit den Aufgaben einer Mutter/eines Vaters**
+**finanzielle Sorgen**
 
-**erhöhter Betreuungsaufwand durch häufig oder** **chronisch erkrankte, verhaltensauffällige oder behinderte** **Kinder, frühgeborene Kinder, Mehrlingsgeburten**
+**(Alltagsprobleme)**
+
+**unregelmäßige Arbeitszeiten**
+
+**mangelnde Grundkompetenzen im Zusammenhang**
+
+**ständiger Zeitdruck**
+
+**mit den Aufgaben einer Mutter/eines Vaters**
+
+**Arbeitslosigkeit**
+
+**erhöhter Betreuungsaufwand durch häufig oder**
+
+**allein erziehend**
+
+**chronisch erkrankte, verhaltensauffällige oder behinderte**
+
+**der Frau / des Mannes in der**
+
+**Kinder, frühgeborene Kinder, Mehrlingsgeburten**
 
 **andere Kontextfaktoren; ggf. nähere Erläuterungen**
 
 **Ausfertigung für den Arzt**
 
+**PRF.NR.** **Muster 64 Ab/E (10.2018)**
+
 **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
 
 ***hten, Hausarbeiten erledigen,*** ***n Interessen und Hobbies nachgehen)***
 
-**Tod des Partners/** **naher Angehöriger**
-
-**Teenager-** **schwangerschaft**
-
-**soziale Isolation**
-
-**finanzielle Sorgen**
-
-**ständiger Zeitdruck**
-
-**allein erziehend**
-
-**Kind Beziehung**
-
-**PRF.NR.** **Muster 64 Ab/E (10.2018)**
-
-**64 Teil A**
+**Teenager-**
 
 **Diagnoseschlüssel** **ICD-10-GM**
 
-**beeinträchtigte Mutter-/Vater-**
+**beeinträchtigte Mutter-/Vater-** **Kind Beziehung**
 
-**Überforderungssituation am** **Arbeitsplatz/in der Schule**
+**Überforderungssituation am**
 
-**sprachliche Verständigungs-** **schwierigkeiten**
+**sprachliche Verständigungs-**
 
-**besonders belastende/** **unregelmäßige Arbeitszeiten**
+**besonders belastende/**
 
-**drohender Arbeitsplatzverlust/** **Arbeitslosigkeit**
+**drohender Arbeitsplatzverlust/**
 
-**nicht gleichberechtigte Stellung** **der Frau / des Mannes in der** **Familie**
+**nicht gleichberechtigte Stellung**
+
+**Familie**

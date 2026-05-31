@@ -218,13 +218,13 @@ TABELLE 3: BESCHREIBUNG DER STRUKTURELEMENT-SYMBOLE ............................
 
 TABELLE 4: BESCHREIBUNG SONSTIGER SYMBOLE .......................................................................................................... 11
 
-DAS ELEMENT <ARZTGRUPPE> ENTHÄLT IM V-ATTRIBUT DIE KENNZEICH NICHT FÜR JEDEN ARZTGRUPPENCODE EIN ARZT
+DAS ELEMENT <ARZTGRUPPE> ENTHÄLT IM V-ATTRIBUT DIE KENNZEICH NICHT FÜR JEDEN ARZTGRUPPENCODE EIN ARZTGRUPPENTHESAURUS VORHANDEN.
 
 SOMIT EINER AUSWAHL DER SCHLÜSSELTABELLE S_EBM_ARZTGRUPPE (O
 
 5. DAS ELEMENT IST NICHT OPTIONAL. ................................................................................................................... 23
 
-GRUPPENTHESAURUS VORHANDEN.  NUNG FÜR DIE EBM-ARZTGRUPPE. ES IST  DIE WERTE ENTSPRECHEN
+NUNG FÜR DIE EBM-ARZTGRUPPE. ES IST  DIE WERTE ENTSPRECHEN
 
 ID: 1.2.276.0.76.5.115), VGL. TABELLE
 
@@ -340,17 +340,17 @@ Bereitschaftsdienst <kodierrichtlinien_liste> und <akr_ref> wurden aus der Dokum
 |---|---|
 | **Bestandteile des** | **Beschreibung** |
 | - | Trennungszeichen zwischen den Namenselementen |
-| datatyp | Header-Element <document_type_cd>. |
-| vv.vv | des Header-Elements <interface>. |
+| datatyp | Datentyp, "Satzart", "ehd." ist optional als Vorsatz erlaubt; Entspricht dem |
+| vv.vv | VersionsNr. der Datentypbeschreibung; Entspricht dem Element <version> |
 | Sender | Absender der Lieferung, (nicht immer mit Erzeuger bzw. Erstlieferanten der |
 | tf+ | timeframe (YYYYqQ) |
 | YYYY | Jahr |
-| nr+ | Lieferungen erfolgen |
+| nr+ | number – optional Nummer der Lieferung, falls zu einem Zeitraum mehrere |
 | du+ | dummy – optionaler Platzhalter z.B. für Tests, kann auch mehrmals |
 | 2 Die vorliegende Schnittstellenbeschreibung definiert das Format der ICD-10-GM Stammdatei der KBV im | |
 |  | |
 
-EINLEITUNG XML-Format. Das XML-- Format orientiert sich dabei an die ehd Richtlinie [KBV_ITA_VGEX_EHD]. Diese Datei wird den Softwarehäusern, die Arztpraxissoftware herstellen, sowie den Kassenärztlichen Vereinigungen vom Dezernat Digitalisierung und IT der Kassenärztlichen Bundesvereinigung (KBV) ausschließlich zur Nutzung in der vertragsärztlichen Versorgung zur Verfügung gestellt.  3 KONVENTIONEN ZEICHENSATZ Standard-Zeichensatz ist ISO-8859-15. NAMENSPACE Standard-Namespace ist urn:ehd/icd/001 ROOT-SCHEMA Das Root-- Schema, worin die abgeleiteten ehd Schemata sowie die projektbezogenen body-Schemata inkludiert sind, heißt icd_root.xsd Die Vergabe der Dateinamen erfolgt nach ehd-Richtlinie.  Dateinamenskonvention nach ehd-Richtlinie:  [ehd.]datatyp_vv.vv_sender_tf+val_nr+val_du+val.xml  Dateinamens Datentyp, "Satzart", "ehd." ist optional als Vorsatz erlaubt; Entspricht dem VersionsNr. der Datentypbeschreibung; Entspricht dem Element <version> Daten identisch) bzw. wer hat die Daten geliefert; Entspricht dem Element <person> oder dem Element <organization> des Header-Elements <provider>. number – optional Nummer der Lieferung, falls zu einem Zeitraum mehrere
+EINLEITUNG XML-Format. Das XML-- Format orientiert sich dabei an die ehd Richtlinie [KBV_ITA_VGEX_EHD]. Diese Datei wird den Softwarehäusern, die Arztpraxissoftware herstellen, sowie den Kassenärztlichen Vereinigungen vom Dezernat Digitalisierung und IT der Kassenärztlichen Bundesvereinigung (KBV) ausschließlich zur Nutzung in der vertragsärztlichen Versorgung zur Verfügung gestellt.  3 KONVENTIONEN ZEICHENSATZ Standard-Zeichensatz ist ISO-8859-15. NAMENSPACE Standard-Namespace ist urn:ehd/icd/001 ROOT-SCHEMA Das Root-- Schema, worin die abgeleiteten ehd Schemata sowie die projektbezogenen body-Schemata inkludiert sind, heißt icd_root.xsd Die Vergabe der Dateinamen erfolgt nach ehd-Richtlinie.  Dateinamenskonvention nach ehd-Richtlinie:  [ehd.]datatyp_vv.vv_sender_tf+val_nr+val_du+val.xml  Dateinamens Header-Element <document_type_cd>. des Header-Elements <interface>. Daten identisch) bzw. wer hat die Daten geliefert; Entspricht dem Element <person> oder dem Element <organization> des Header-Elements <provider>. Lieferungen erfolgen
 
 ---
 
@@ -446,7 +446,7 @@ Um die Aufwärtskompatibilität zu gewährleisten, wird kein fester Wert für di
 
 Der Header ist ein Pflichtelement, hier befinden sich die Metadaten zu den im body
 
-***<header>*** liegenden eigentlichen Inhaltsdaten.
+***<header>***  liegenden eigentlichen Inhaltsdaten.
 
 Hier liegen die eigentlichen Inhalte der Datenlieferung.
 
@@ -503,9 +503,7 @@ Formel 3: XML-Code: kapitel_liste
 
 ## KAPITEL
 
-Das Element <kapitel> bildet die oberste Hierarchieebene der ICD Kodierungssystematik und  enthält jeweils ein <nummer> Element, ein <von_icd_code> Element, ein <bis_icd_code> Element,
-
-ein <bezeichnung> Element und ein <gruppen_liste> Element.
+Das Element <kapitel> bildet die oberste Hierarchieebene der ICD Kodierungssystematik und  enthält jeweils ein <nummer> Element, ein <von_icd_code> Element, ein <bis_icd_code> Element,  ein <bezeichnung> Element und ein <gruppen_liste> Element.
 
 Abbildung 4: Kapitel
 
@@ -740,9 +738,9 @@ Formel 15: XML-Code: arztgruppe
 
 Tabelle 6: Auswahl der möglichen Ausprägungen der Attribute des Elements <arztgruppe>
 
-## VERSCHLUESSELUNGSANLEITUNG_LISTE
-
 Das Element <verschluesselungsanleitung_liste> umschließt eine Liste von <verschluesselungsanleitung>  Elementen. Alle einer Diagnose untergeordneten <verschluesselungsanleitung_ref> Elemente enthalten  eine Referenz auf einen Eintrag in der Verschlüsselungsanleitung-Stammdatei.
+
+## VERSCHLUESSELUNGSANLEITUNG_LISTE
 
 Abbildung 17: verschluesselungsanleitung_liste
 

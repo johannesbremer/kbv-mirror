@@ -4,8 +4,8 @@ Definition der KV Telematik GmbH Schnittstelle zur Einlieferung von Abrechnungen
 
 | schema location: | **KVTA_Einliefung_Abrechnung_2_0_0.xsd** |
 |---|---|
-| attributeFormDefault: | **unqualified** |
-| elementFormDefault: | **qualified** |
+| attributeFormDefault: |  |
+| elementFormDefault: |  |
 | targetNamespace: | **http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0** |
 |  |  |
 
@@ -15,8 +15,8 @@ Definition der KV Telematik GmbH Schnittstelle zur Einlieferung von Abrechnungen
 
 | schema location: | **..\..\Allgemein_Abrechnung** |
 |---|---|
-| attributeFormDefault: | **unqualified** |
-| elementFormDefault: | **qualified** |
+| attributeFormDefault: |  |
+| elementFormDefault: |  |
 | targetNamespace: | **http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0** |
 |  |  |
 
@@ -29,7 +29,7 @@ Definition der KV Telematik GmbH Schnittstelle zur Einlieferung von Abrechnungen
 | **status_typ ** |  |
 | **Version_typ ** |  |
 
-\Schema\KVTA_Datentypen_1_0_4.xsd
+unqualified qualified \Schema\KVTA_Datentypen_1_0_4.xsd unqualified qualified
 
 ---
 
@@ -71,7 +71,7 @@ element **einlieferung/testdaten**
 
 attribute
 
-| type | **xs:boolean** |
+| type |  |
 |---|---|
 | properties | use  required |
 
@@ -83,13 +83,13 @@ element **einlieferung/lieferungs_zeitpunkt**
 | properties | content  complex |
 | attributes | Name   Type   Use   Default   Fixed   Annotation V   **xs:dateTime** required |
 
-xs:string einlieferung/bsnr/@V xs:string einlieferung/testdaten/@V
+xs:string einlieferung/bsnr/@V xs:string einlieferung/testdaten/@V xs:boolean
 
 ---
 
 attribute
 
-| type | **xs:dateTime** |
+| type |  |
 |---|---|
 | properties | use  required |
 
@@ -115,7 +115,7 @@ element **einlieferung/quartal**
 |---|---|
 | namespace | http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 |
 
-einlieferung/lieferungs_zeitpunkt/@V UNG+SAMMELERKLÄRUNG  (Wird als Schlüssel benutzt um das Dokument einer Gruppe von Dokumenten zuzuordnen). einlieferung/dokumenten_typ/@V
+einlieferung/lieferungs_zeitpunkt/@V xs:dateTime UNG+SAMMELERKLÄRUNG  (Wird als Schlüssel benutzt um das Dokument einer Gruppe von Dokumenten zuzuordnen). einlieferung/dokumenten_typ/@V
 
 ---
 
@@ -126,7 +126,7 @@ einlieferung/lieferungs_zeitpunkt/@V UNG+SAMMELERKLÄRUNG  (Wird als Schlüssel 
 
 attribute
 
-| type | restriction of |
+| type | **xs:string** |
 |---|---|
 | properties | use  required |
 | facets | Kind  Value  Annotation length  6   pattern  [\d]{4}[\-]+[1-4]+ |
@@ -143,11 +143,11 @@ element **einlieferung/vollstaendig**
 
 attribute
 
-| type | **xs:boolean** |
+| type |  |
 |---|---|
 | properties | use  required |
 
-xs:string value="2011-1"/> value="2011-2"/> value="2011-3"/> value="2011-4"/> </altova:exampleValues> -1 zu übermitteln einlieferung/quartal/@V xs:string <altova:example value="2011-1"/> <altova:example value="2011-2"/> <altova:example value="2011-3"/> <altova:example value="2011-4"/> </altova:exampleValues> einlieferung/vollstaendig/@V
+xs:string value="2011-1"/> value="2011-2"/> value="2011-3"/> value="2011-4"/> </altova:exampleValues> -1 zu übermitteln einlieferung/quartal/@V restriction of <altova:example value="2011-1"/> <altova:example value="2011-2"/> <altova:example value="2011-3"/> <altova:example value="2011-4"/> </altova:exampleValues> einlieferung/vollstaendig/@V xs:boolean
 
 ---
 
@@ -162,7 +162,7 @@ element **einlieferung/anhang**
 
 attribute
 
-| type | **xs:string** |
+| type |  |
 |---|---|
 | properties | use  required |
 
@@ -177,7 +177,7 @@ complexType
 
 **Com_typ**
 
-einlieferung/anhang/@V
+einlieferung/anhang/@V xs:string
 
 ---
 
@@ -259,7 +259,7 @@ xs:string vereinbarter Status bezogen auf den Dokumententyp. xs:string sich um e
 
 attribute
 
-| type | restriction of |
+| type | **xs:string** |
 |---|---|
 | properties | use  required |
 | facets | Kind  Value  Annotation enumeration  SENDEN   enumeration  SENDE_FEHLER   enumeration  SENDE_FEHLER_P   enumeration  SENDE_FEHLER_A   enumeration  NEU   enumeration  ABRECHNUNGS_BEREIT   enumeration  PRUEFUNG_FEHLER   enumeration  HONORAR_BEREIT   enumeration  ABRECHNUNGS_FEHLER |
@@ -267,7 +267,7 @@ attribute
 
 attribute
 
-| type | restriction of |
+| type | **xs:string** |
 |---|---|
 | properties | default  STANDARD |
 | facets | Kind  Value  Annotation enumeration  START   enumeration  ENDE   enumeration  STANDARD |
@@ -275,11 +275,11 @@ attribute
 
 attribute
 
-| type | **xs:string** |
+| type |  |
 |---|---|
 | annotation | documentation Hier können KV spezifische Ergänzungen zu einem allgemeinen Status abgelegt werden. |
 
-handelt. spezifische Ergänzungen zu einem allgemeinen Status abgelegt werden. status_typ/@ID xs:string status_typ/@TYP xs:string Workflows handelt. status_typ/@KV_DETAIL
+handelt. spezifische Ergänzungen zu einem allgemeinen Status abgelegt werden. status_typ/@ID restriction of status_typ/@TYP restriction of Workflows handelt. status_typ/@KV_DETAIL xs:string
 
 ---
 
@@ -293,7 +293,7 @@ complexType **Version_typ**
 
 attribute
 
-| type | **xs:integer** |
+| type |  |
 |---|---|
 | properties | use  required |
 
@@ -301,9 +301,9 @@ simpleType **Abstrakt_dokumententyp_typ**
 
 | namespace | http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 |
 |---|---|
-| type | restriction of |
+| type | **xs:string** |
 | properties | base  xs:string |
 | used by | attribute **einlieferung/dokumenten_typ/@V** |
 | facets | Kind  Value  Annotation enumeration  ABRECHNUNG   enumeration  ABRECHNUNG HZV   enumeration  SAMMELERKLÄRUNG   enumeration  ABRECHNUNG+SAMMELERKLÄRUNG   enumeration  DMP   enumeration  EHKS   enumeration  QSMG   enumeration  QSHGV   enumeration  QSHGVK   enumeration  QSHLT   enumeration  QSKE |
 
-Version_typ/@VXML Schema documentation generated by **XMLSpy** Schema Editor **[http://www.altova.com/xmlspy](http://www.altova.com/xmlspy)**
+Version_typ/@V xs:integer restriction of XML Schema documentation generated by **XMLSpy** Schema Editor **[http://www.altova.com/xmlspy](http://www.altova.com/xmlspy)**

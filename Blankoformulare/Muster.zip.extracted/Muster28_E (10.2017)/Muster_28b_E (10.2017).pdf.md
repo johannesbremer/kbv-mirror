@@ -24,7 +24,9 @@
 
 **Straße**
 
-**PLZ** **Ort**
+**PLZ**
+
+**Ort**
 
 **Für das Ausstellen dieses Vordrucks ist die Nr. 30800 EBM** **berechnungsfähig.**
 
@@ -36,21 +38,11 @@
 
 **Datum**
 
-**Bemerkungen zur Abrechnung** **Ich versichere, dass ich die aufgeführten Leistungen persönlich erbracht habe und bitte** **um Überweisung des vertraglich vereinbarten Betrages auf folgendes Konto**
+## Verordnung bei Überweisung zur
 
-**Kontoinhaber**
+**28**
 
-**IBAN**
-
-**BIC**
-
-**Geldinstitut**
-
-**Ausfertigung für den soziotherapeutischen Leistungserbringer**
-
-**Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
-
-## Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie gemäß § 37a SGB V im Umfang von maximal 5 Therapieeinheiten
+## Indikationsstellung für Soziotherapie gemäß § 37a SGB V im Umfang von maximal 5 Therapieeinheiten
 
 **Diagnose**
 
@@ -62,14 +54,26 @@
 
 **Datum**
 
-**Datum**
-
-**28**
-
 **Vertragsarztstempel / Unterschrift des Arztes**
 
+**Bemerkungen zur Abrechnung** **Ich versichere, dass ich die aufgeführten Leistungen persönlich erbracht habe und bitte** **um Überweisung des vertraglich vereinbarten Betrages auf folgendes Konto**
+
+**Kontoinhaber**
+
+**IBAN**
+
+**BIC**
+
+**Geldinstitut**
+
+**Datum**
+
 **Stempel und Unterschrift**
+
+**Ausfertigung für den soziotherapeutischen Leistungserbringer**
 
 **des soziotherapeutischen Leistungserbringers**
 
 **PRF.NR.** **Muster 28b/E(10.2017)**
+
+**Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**

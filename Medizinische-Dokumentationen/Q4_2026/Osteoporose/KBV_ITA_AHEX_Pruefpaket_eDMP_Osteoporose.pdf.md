@@ -152,7 +152,7 @@ ABBILDUNGSVERZEICHNIS
 
 | **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 1.07 | 31.03.2026 | KBV | Anpassung der Prüffälle an  Anpassung Prüffall 3940 | Schnittstellenversion | 8, 12ff        26 |
+| 1.07 | 31.03.2026 | KBV | Anpassung der Prüffälle an  Anpassung Prüffall 3940 | Schnittstellenversion    Änderung der | 8, 12ff        26 |
 | 1.06 | 15.08.2025 | KBV | Datumsanpassung des | Änderung der | 26 |
 | 1.05 | 12.05.2025 | KBV | Datumsanpassungen der  Überarbeitung der |  | 7ff |
 | 1.04 | 12.02.2024 | KBV | Anpassung der  übergreifenden Prüffälle  an COPD-  Schnittstellenversion 4.06 | COPD-  Schnittstellenversion 4.06 ist ab 01.04.2024  zu verwenden | 12 |
@@ -162,7 +162,7 @@ ABBILDUNGSVERZEICHNIS
 |  |  | | | | |
 |  | Abbildung 2: : Exemplarische Struktur der |  |  |  | Abbildung 3: Testdatenvalidierung |
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung DOKUMENTENHISTORIE Archivdatei  mit den Prüfunterlagen Schnittstellenversionen Prüffalls 3940 Prüffälle. Testfälle 3914, 3915, 3916 und 3930. Geburtsdatums Geburtsdatums Prüffälle. für die Testdatenvalidierung zur Schnittstellenversion 1.00 Umsetzung der 1.02 ist ab 01.10.2026 Barcodeversion (03) ab 1.10.2026 Barcodeversion ab 1.1.2025 Funktionalität wegen der Prüffälle. 1.01 ist ab 01.04.2023 zu verwenden. 27 27
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung DOKUMENTENHISTORIE Archivdatei  mit den Prüfunterlagen 27 27 Schnittstellenversionen Prüffalls 3940 Prüffälle. Testfälle 3914, 3915, 3916 und 3930. 1.02 ist ab 01.10.2026 Barcodeversion (03) ab 1.10.2026 Barcodeversion ab 1.1.2025 Geburtsdatums Geburtsdatums Prüffälle. für die Testdatenvalidierung zur Schnittstellenversion 1.00 Umsetzung der Funktionalität wegen der Prüffälle. 1.01 ist ab 01.04.2023 zu verwenden.
 
 ---
 
@@ -276,7 +276,7 @@ einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender N
 
 entsprechen. Diese werden durch den Prüfer begutachtet.
 
-- **PrüffallNr**.] _[ 1 **lfdNr**.] .*  2 3
+- **PrüffallNr** 1 **lfdNr** 2 3
 
 - Teilnahmeerklärung (Prüffall 3940): TE_EWE_OST.pdf
 
@@ -347,7 +347,9 @@ Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unter
 
 -
 
-- I ndikation **COPD:**
+- Indikation
+
+- **COPD:**
 
 - Ab dem **01.04.2024** muss die Schnittstellenversion **4.06** verwendet werden
 
@@ -661,13 +663,13 @@ Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider Einschreibu
 | **Anamnese- und Befunddaten** | **Erstdokumentation** | **Verlaufsdokumentation** | |
 | COPD | Aktueller FEV1-Wert (alle sechs bis zwölf | 060,0 Prozent des Soll | 092,0 Prozent des Soll |
 | COPD | Klinische Einschätzung des | Nein | Nein |
-| OST |  | Ja |  |
+| OST | Osteoporosebedingte Fraktur in den | Ja |  |
 | OST | Neu aufgetretene osteoporosebedingte |  | Ja |
 | OST | Lokalisation der osteoporosebedingten | Proximale Femurfraktur, | Singuläre |
 | OST | Stürze in den letzten 6 Monaten | 39 |  |
 | OST | Stürze seit der letzten Dokumentation |  | 9 |
 | **Relevante Ereignisse** | | | |
-| COPD |  |  | 2 |
+| COPD | Häufigkeit von Exazerbationen seit der |  | 2 |
 | COPD | Ungeplante, auch notfallmäßige  (ambulant und stationär) ärztliche  Behandlung wegen COPD seit der letzten Dokumentation |  | 1 |
 | **Medikamente** | | | |
 | COPD | Kurz wirksame Beta-2-Sympathomimetika | Kontraindikation | Dauermedikation |
@@ -686,7 +688,7 @@ Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider Einschreibu
 |  |  |  | COPD |
 |  | | | |
 | Klinische Einschätzung des | Nein |  |  |
-|  |  |  |  |
+| Osteoporosebedingte Fraktur in den |  |  |  |
 | Neu aufgetretene osteoporosebedingte | Ja |  |  |
 | Lokalisation der osteoporosebedingten | Singuläre |  |  |
 |  | | | |
@@ -694,7 +696,7 @@ Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider Einschreibu
 |  |  | COPD |  |
 | 2 |  | COPD |  |
 
-Informationsangebote der Krankenkasse Ernährungsberatung PEZIFISCHE DATEN Monate) Osteoporoserisikos durchgeführt Osteoporosebedingte Fraktur in den letzten 12 Monaten Fraktur seit der letzten Dokumentation Fraktur Häufigkeit von Exazerbationen seit der und/oder Anticholinergika Wertes Hormonersatztherapie Wertes Wirbelkörperfraktur, Radiusfraktur Glukokortikosteroide
+Informationsangebote der Krankenkasse Ernährungsberatung PEZIFISCHE DATEN Monate) Osteoporoserisikos durchgeführt letzten 12 Monaten Fraktur seit der letzten Dokumentation und/oder Anticholinergika Wertes Hormonersatztherapie Wertes Wirbelkörperfraktur, Radiusfraktur Glukokortikosteroide
 
 ---
 
@@ -816,8 +818,6 @@ INDIKATIONS SPEZIFISCHE DATEN Anamnese und Befunddaten Osteoporosebedingte Frakt
 ---
 
 - **3.** **Korrektur der Daten der Erstdokumentation, mit beliebigen Werten, damit die Erstdokumentation**  **abgeschlossen werden kann.**
-
--
 
 - **4.** **Anlegen einer Verlaufsdokumentation**
 
@@ -1006,11 +1006,11 @@ Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives. Beachten S
 
 des Archivs mit „**Test**_109“ beginnen muss, sonst schlägt die Validierung fehl.
 
-Name               Typ
+Name                 Typ
 
-Zert_109_SystemID.zip           ZIP-komprimierter Ordner
+Zert_109_SystemID.zip            ZIP-komprimierter Ordner
 
-Dokumentation          Dateiordner
+Dokumentation           Dateiordner
 
 391234511_20260415101010_1_OST_101.idx  IDX-Datei
 
@@ -1136,7 +1136,7 @@ REFERENZIERTE DOKUMENTE
 | KBV_ITA_VGEX_Schnittstelle_eHeader | Dokumentation eHeader |
 | XPM-Paket_OST | Prüfmodul OST |
 | XPM-Paket_COPD | Prüfmodul COPD |
-| Austausch_von_XML-Daten_Vn.nn.ZIP 4 | Austausch von XML Daten in der Vertragsärztlichen |
+| Austausch_von_XML-Daten_Vn.nn.ZIP4 | Austausch von XML Daten in der Vertragsärztlichen |
 | KBV_ITA_RLEX_Zert | Zertifizierungsrichtlinie der KBV |
 | KBV_ITA_FMEX_AAZ_eDMP_OST | Antrag auf Zertifizierung OST |
 | Stammdateien | Im Rahmen der Prüfung sind die regulären KBV- |

@@ -439,11 +439,9 @@ Dateinamenskonvention nach ehd-Richtlinie:
 
 _ ............. Trennungszeichen zwischen den Namenselementen
 
-Entspricht dem Header-Element *<document_type_cd>*
+datatyp ..... Datentyp, "Satzart", "ehd." ist optional als Vorsatz erlaubt;  Entspricht dem Header-Element *<document_type_cd>*
 
-datatyp ..... Datentyp, "Satzart", "ehd." ist optional als Vorsatz erlaubt;
-
-vv.vv .........  Entspricht dem Element  VersionsNr. der Datentypbeschreibung;  *<version>* des Header-Elements *<interface>*
+vv.vv ......... VersionsNr. der Datentypbeschreibung;  Entspricht dem Element *<version>* des Header-Elements *<interface>*
 
 sender ...... Absender der Lieferung, (nicht immer mit Erzeuger bzw. Erstlieferanten der Daten  identisch) bzw. wer hat die Daten geliefert;  Entspricht dem Element *<person>* oder dem Element *<organization>* des Header-Elements
 
@@ -451,9 +449,7 @@ sender ...... Absender der Lieferung, (nicht immer mit Erzeuger bzw. Erstliefera
 
 tf+..………… timeframe (YYYYqQ)
 
-erfolgen
-
-nr+ ............ number – optional Nummer der Lieferung, falls zu einem Zeitraum mehrere Lieferungen
+nr+ ............ number – optional Nummer der Lieferung, falls zu einem Zeitraum mehrere Lieferungen  erfolgen
 
 du+ ............ dummy – optionaler Platzhalter z.B. für Tests, kann auch mehrmals verwendet werden
 
@@ -514,7 +510,9 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 |  | **Datentyp ** Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen Datentyp. |
 |  | **Gruppenelement ** Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement dar, |
 
-**Tabelle 3:** Beschreibung sonstiger Symbole
+**Tabelle 3:**
+
+Beschreibung sonstiger Symbole
 
 Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches mehrere Elemente zusammenfasst.
 
@@ -534,9 +532,9 @@ Das ***<ehd>*** - Element hat folgenden Aufbau:
 
 **<?xml version="1.0" encoding="ISO-8859-15"?>**
 
-**<ehd:ehd xmlns="urn:ehd/001"**
+**<ehd:ehd xmlns="urn:ehd/001"** xmlns="**urn:ehd/krw/001**" xmlns:xsi="**[http://www.w3.org/2001/XMLSchema-](http://www.w3.org/2001/XMLSchema-)**
 
-**instance ehd_version**
+**instance ehd_version ="...">**
 
 **<ehd:header>**
 
@@ -547,12 +545,6 @@ Das ***<ehd>*** - Element hat folgenden Aufbau:
 **<ehd:body>**
 
 **...**
-
-xmlns="**urn:ehd/krw/001**
-
-**="...">**
-
-" xmlns:xsi="**[http://www.w3.org/2001/XMLSchema-](http://www.w3.org/2001/XMLSchema-)**
 
 **</ehd:body>**
 
@@ -805,7 +797,7 @@ Der XML-Code für das Strukturelement <regelquelle_liste> hat folgenden Aufbau:
 
 **<regelquelle_liste>**
 
-**<regelquelle V="1" DN=""Kodiervorgaben nach § 295 SGB V S=""**
+**<regelquelle V="1" DN=""Kodiervorgaben nach § 295 SGB V S=""1.2.276.0.76.3.1.1.5.2.51 >**
 
 **</regelquelle>**
 
@@ -816,8 +808,6 @@ Der XML-Code für das Strukturelement <regelquelle_liste> hat folgenden Aufbau:
 ## 5.8 REGELQUELLE
 
 Das Element <regelquelle> beinhaltet die Information aus welcher Quelle sich die Kodierregel ableiten  lässt.
-
-**1.2.276.0.76.3.1.1.5.2.51 >**
 
 Fachliche Bedeutung; OID  1.2.276.0.76.3.1.1.5.2.50 ) bezieht sich auf das aktuelle Quartal und Zeitraum, inklusive des aktuellen Quartals und wird durch einen ICD-Kode ausgelöst
 
@@ -884,18 +874,18 @@ REGELTHEMA Das Element <regelthema> enthält das Kapitel aus Regelquelle, welche
 
 |  | **XML-Code 13:** | **Wert (V"...")** |
 |---|---|---|
-| **Wert (V="...")** | **Bezeichner ( DN="...")** | **(S=""** |
+| **Wert (V="...")** | **Bezeichner ( DN="...")** | **Fachliche Bedeutung; OID** |
 | 1 | Obligate Regel | Bedingung, dass die Kodierregel |
 | 2 | Fakultative Regel | Bedingung, dass die Kodierregel freiwillig |
 
-| **Wert (V"...")** | **Bezeichner ( DN="...")** | **1.2.276.0.76.3.1.1.5.2.18 )** |
+| **Wert (V"...")** | **Bezeichner ( DN="...")** | **Fachliche Bedeutung; OID (** |
 |---|---|---|
 | 7 | Behandlungsfall | (Kode analog EBM, Definition laut §21 BMV-Ä) |
 | 21 | Quartal | nur für quartalsübergreifende Prüfung, die Anzahl |
-| **Wert (V="...")** | **Bezeichner ( DN="...")** | **(S=""** |
+| **Wert (V="...")** | **Bezeichner ( DN="...")** | **Fachliche Bedeutung; OID** |
 | 1 | | |
 
-Tabelle 6:  Zulässige Werte für das Element regelanwendung 5.12 BEZUGSRAUM Das Element <bezugsraum> definiert den zeitlichen Bezug der Kodierregel.  Abbildung 14:  bezugsraum Hinweis: Sofern der gesamte Behandlungsfall aus technischen Gründen nicht für Prüfzwecke zur Verfügung steht, kann die Prüfung synonym auf Basis des jeweiligen Abrechnungsdatensatzes (Schein) erfolgen. Der XML-Code für das Element <bezugsraum> hat folgenden Aufbau: <bezugsraum V="7" DN="" Behandlungsfall  bezugsraum S=""/> 1.2.276.0.76.3.1.1.5.2.18 Fachliche Bedeutung; OID 1.2.276.0.76.3.1.1.5.2.52 ) verpflichtend einzusetzen ist eingesetzt werden kann Fachliche Bedeutung; OID (
+Tabelle 6:  Zulässige Werte für das Element regelanwendung 5.12 BEZUGSRAUM Das Element <bezugsraum> definiert den zeitlichen Bezug der Kodierregel.  Abbildung 14:  bezugsraum Hinweis: Sofern der gesamte Behandlungsfall aus technischen Gründen nicht für Prüfzwecke zur Verfügung steht, kann die Prüfung synonym auf Basis des jeweiligen Abrechnungsdatensatzes (Schein) erfolgen. Der XML-Code für das Element <bezugsraum> hat folgenden Aufbau: <bezugsraum V="7" DN="" Behandlungsfall  bezugsraum S=""/> 1.2.276.0.76.3.1.1.5.2.18 (S="" 1.2.276.0.76.3.1.1.5.2.52 ) verpflichtend einzusetzen ist eingesetzt werden kann Fachliche Bedeutung; OID ( S="" 1.2.276.0.76.3.1.1.5.2.18 )
 
 ---
 
@@ -908,7 +898,7 @@ Tabelle 6:  Zulässige Werte für das Element regelanwendung 5.12 BEZUGSRAUM Das
 
 **XML-Code 15:** echtzeitpruefung_liste
 
-Tabelle 7:  Schlüsseltabelle der KRW-Bezugsräume  5.13 ANZAHL_QUARTALE Das Element <anzahl_quartale> ist ein optionales Element welches die Anzahl der Quartale des Bezugsraums definiert. Dieses Element ist nur vorhanden wenn der Wert des Bezugsraumes “21“ ist.  Abbildung 15:  anzahl_quartale Der XML-Code für das Element <bezugsraum> hat folgenden Aufbau: <bezugsraum V="21" DN="Quartal" S="" <anzahl_quartale V="4" /> </bezugsraum> XML-Code 14:  anzahl_quartale V:  ganzzahliger Wert >= 1 besitzen. 5.14 ECHTZEITPRUEFUNG_LISTE Das Element <echtzeitpruefung_liste> gruppiert eine beliebige Liste von den Elementen <echtzeitpruefung>. 1.2.276.0.76.3.1.1.5.2.18 > Abbildung 16:  echtzeitpruefung_liste <echtzeitpruefung_liste>      <echtzeitpruefung V="1" DN="bei Kodierung" S="" echtzeitpruefung_liste Fachliche Bedeutung; OID ( 1.2.276.0.76.3.1.1.5.2.18 ) dem Element [Anzahl_Quartale] bestimmt 1.2.276.0.76.3.1.1.5.2.54 />
+Tabelle 7:  Schlüsseltabelle der KRW-Bezugsräume  5.13 ANZAHL_QUARTALE Das Element <anzahl_quartale> ist ein optionales Element welches die Anzahl der Quartale des Bezugsraums definiert. Dieses Element ist nur vorhanden wenn der Wert des Bezugsraumes “21“ ist.  Abbildung 15:  anzahl_quartale Der XML-Code für das Element <bezugsraum> hat folgenden Aufbau: <bezugsraum V="21" DN="Quartal" S="" <anzahl_quartale V="4" /> </bezugsraum> XML-Code 14:  anzahl_quartale V:  ganzzahliger Wert >= 1 besitzen. 5.14 ECHTZEITPRUEFUNG_LISTE Das Element <echtzeitpruefung_liste> gruppiert eine beliebige Liste von den Elementen <echtzeitpruefung>. 1.2.276.0.76.3.1.1.5.2.18 > Abbildung 16:  echtzeitpruefung_liste <echtzeitpruefung_liste>      <echtzeitpruefung V="1" DN="bei Kodierung" S="" 1.2.276.0.76.3.1.1.5.2.54 /> echtzeitpruefung_liste Fachliche Bedeutung; OID ( 1.2.276.0.76.3.1.1.5.2.18 ) dem Element [Anzahl_Quartale] bestimmt
 
 ---
 
@@ -1053,8 +1043,8 @@ Der XML- Code für das optionale Element <operator> hat folgenden Aufbau:
 
 | **Wert (** | **Bedeutung** |
 |---|---|
-| AND | der Elemente in der Value-Liste |
-| OR | der Elemente in der Value-Liste |
+| AND | Bedingung setzt UND-Verknüpfung |
+| OR | Bedingung setzt OR-Verknüpfung |
 
 **Tabelle 11:** Zulässige Werte für den Operator
 
@@ -1076,18 +1066,16 @@ Der XML-Code für das Element <existenz> hat folgenden Aufbau:
 
 | **Wert (** | **Bedeutung** |
 |---|---|
-| TRUE | Value-Elemente |
-| FALSE | Value-Elemente |
+| TRUE | Bedingung prüft auf Existenz der |
+| FALSE | Bedingung prüft auf Fehlen der |
 
 **Tabelle 12:** Zulässige Werte für das Existenzkriterium
 
 **Hinweis:**
 
-Im Rahmen von Bedingungen ist dieser Parameter in der Regel auf „TRUE“ gesetzt, da ein Kode,  der die Kodierregel auslösen soll, erst einmal vorhanden sein muss.  (Sub-)Bedingungen kann der Parameter „existenz“ aber auch den Wert „FALSE“ annehmen.
+Im Rahmen von Bedingungen ist dieser Parameter in der Regel auf „TRUE“ gesetzt, da ein Kode,  der die Kodierregel auslösen soll, erst einmal vorhanden sein muss.  (Sub-)Bedingungen kann der Parameter „existenz“ aber auch den Wert „FALSE“ annehmen.  In Kombination mit mehreren
 
-In Kombination mit mehreren
-
-V="" ... Bedingung setzt UND-Verknüpfung voraus Bedingung setzt OR-Verknüpfung voraus V="" ... Bedingung prüft auf Existenz der Bedingung prüft auf Fehlen der
+V="" ... der Elemente in der Value-Liste voraus der Elemente in der Value-Liste voraus V="" ... Value-Elemente Value-Elemente
 
 ---
 
@@ -1328,9 +1316,7 @@ Der XML-Code für das Element <hinweis> sieht wie folgt aus:
 
 ---
 
-V:
-
-Beinhaltet einen Hinweis in Textform und kann als Hilfe für eine Korrekturmaßnahme der  Kodierung dienen.
+V: Beinhaltet einen Hinweis in Textform und kann als Hilfe für eine Korrekturmaßnahme der  Kodierung dienen.
 
 ## 5.30 VORSCHLAG
 
@@ -1344,9 +1330,7 @@ Der XML-Code für ein Element <vorschlag> hat folgenden Aufbau:
 
 **XML-Code 31:** vorschlag
 
-V:
-
-Beinhaltet eine textuelle Beschreibung und kann als Hilfestellung für eine Korrekturmaßnahme der  Kodierung dienen.
+V: Beinhaltet eine textuelle Beschreibung und kann als Hilfestellung für eine Korrekturmaßnahme der  Kodierung dienen.
 
 ## 5.31 KORREKTUR
 

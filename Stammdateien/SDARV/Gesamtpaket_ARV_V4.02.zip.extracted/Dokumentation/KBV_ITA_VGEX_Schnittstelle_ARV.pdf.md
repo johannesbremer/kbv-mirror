@@ -19,7 +19,7 @@ Arzneimittelvereinbarungen (ARV) Digitalisierung und IT -Lewin-Platz 2 4.02 Datu
 | **Version Datum** |  | **Autor Änderung** |  | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 4.02 | 12.08.2019 KBV |  | • | Anpassung an das Pers | **103** |
-| 4.02 | 12.12.2018 KBV |  | • weis_dokument> wird aus dem | Das <verweis_dokument> | **128,  129,  130** |
+| 4.02 | 12.12.2018 KBV |  | • - | Das <verweis_dokument> | **128,  129,  130** |
 | 4.02 | 13.11.2018 KBV |  | •   • -  -  -  entfallen    • -    • -    •   • -  -  -    • |  | **- **  **36ff **          **96ff **        **108ff **  **112 **  **119 **          **36,  128** |
 | Diese Schnittstellenbeschreibung 4.02 (Stand 12.08.2019) bezieht sich auf die Schemaversi- | **Version Datum** |  | **Autor Änderung** |  | **Begründung** |
 |  | **Seite** |  | 4.02  12.08.2019 KBV  • | Anpassung an das Pers**103 ** 4.02  12.12.2018 KBV | • Das <verweis_dokument>**128,  129,  130** |
@@ -32,7 +32,7 @@ Arzneimittelvereinbarungen (ARV) Digitalisierung und IT -Lewin-Platz 2 4.02 Datu
 
 (ARV)
 
-DOKUMENTENHISTORIE on 4.02. Die Versionierung der Schnittstellenbeschreibung ist unabhängig von der Versionie- rung des Schemas. Erweiterung des erlaubten Wertebe- reichs für den Parameter „ ge- schlecht“. Korrektur bei dem Kapitel „ kom- bi_verordnungsziel_liste Das XML-r- Element <ve Element <pzn> entfernt und an das Element <kom- bi_verordnungsziel> gehangen. nenstandsgesetz (PstG) redaktionelle Änderungen Elemente <me_too_liste> <qualitaetssicherungsr_liste > und <studienregelung_liste Element <infomassnahme n_liste> Element <bedingung> um Ele- ment <fachgruppen_liste> erwe tert Element <iwwliste> überarbeitet Element <bedingung> um El e- ment <fachgruppen_liste> erwe tert Das optinale Attribut „color“ des Ele- ments <verordnungen> entfällt. Element <iww_indikationsbaum> erweitert Element <verweis_dokument> im Kapitel sowie für den Wirkstoff aufgenommen Streichen der Elemente <schl u- essel> und <verweise> Streichen der Attribute „co m- ment“ und „bezeichnung“ bei dem Element <atc> Element <kom- bi_verordnungsziel_liste> in Element <arzneimittelvereinbarungen aufge- nommen o-
+DOKUMENTENHISTORIE on 4.02. Die Versionierung der Schnittstellenbeschreibung ist unabhängig von der Versionie- rung des Schemas. Erweiterung des erlaubten Wertebe- reichs für den Parameter „ ge- schlecht“. Korrektur bei dem Kapitel „ kom- bi_verordnungsziel_liste Das XML-r- Element <ve weis_dokument> wird aus dem Element <pzn> entfernt und an das Element <kom- bi_verordnungsziel> gehangen. nenstandsgesetz (PstG) redaktionelle Änderungen Elemente <me_too_liste> <qualitaetssicherungsr_liste > und <studienregelung_liste Element <infomassnahme n_liste> Element <bedingung> um Ele- ment <fachgruppen_liste> erwe tert Element <iwwliste> überarbeitet Element <bedingung> um El e- ment <fachgruppen_liste> erwe tert Das optinale Attribut „color“ des Ele- ments <verordnungen> entfällt. Element <iww_indikationsbaum> erweitert Element <verweis_dokument> im Kapitel sowie für den Wirkstoff aufgenommen Streichen der Elemente <schl u- essel> und <verweise> Streichen der Attribute „co m- ment“ und „bezeichnung“ bei dem Element <atc> Element <kom- bi_verordnungsziel_liste> in Element <arzneimittelvereinbarungen aufge- nommen o-
 
 ---
 
@@ -42,17 +42,17 @@ DOKUMENTENHISTORIE on 4.02. Die Versionierung der Schnittstellenbeschreibung ist
 |  |  |  | **133** |  | **112 **   4.00 |
 | 20.07.2016 KBV |  | Integration der indikationsgerechten wir | **35,   133  133 ** 14.08.2015 KBV  18.03.2015 KBV  das Element service_tmr  24.06.2013 KBV  Abschnitt 8.4 mit Verweis auf die Schlü belle für Darreichungsfo**55** |  |  |
 | **Version Datum** |  | **Autor Änderung** |  | **Begründung** | **Seite** |
-| 4.01 | 08.11.2016 KBV |  | Aktualisierung der Version der referenzie   Fehlerkorrektur beim Beispiel des XML   Fehlerkorrektur bei der Beschreibung des | Das nicht vorhandene | **133 **    **111 **  **112 **    **114** |
+| 4.01 | 08.11.2016 KBV |  | Aktualisierung der Version der referenzie   Fehlerkorrektur beim Beispiel des XML   Fehlerkorrektur bei der Beschreibung des       Klarstellung des Beschreibungstextes bei | Das nicht vorhandene | **133 **    **111 **  **112 **    **114** |
 | 4.00 | 20.07.2016 KBV |  | Integration der indikationsgerechten wir |  | **35,   108ff** |
 | 3.16 | 25.04.2016 KBV |  | Aktualisierung der Version der referenzie |  | **133** |
 | 3.15 | 11.11.2015 KBV |  | Aktualisierung der Version der referenzie |  | **133** |
-| 3.14 | 14.08.2015 KBV |  |  |  | **133** |
+| 3.14 | 14.08.2015 KBV |  | Aktualisierung der Version der referenzie |  | **133** |
 | 3.13 | 18.03.2015 KBV |  | Im Abschnitt 3 wurde der Hinweis auf die Die Gültigkeit wird über | das Element service_tmr  bestimmt, nicht über den | **15** |
 | 3.12 | 24.06.2013 KBV |  | Im Abschnitt 8.2 wurde der Verweis auf Aktualisierte Schlüsselta- die Schlüsseltabelle der Darreichungfo   Abschnitt 8.4 mit Verweis auf die Schlüs- | belle für Darreichungsfo | **133 **    **55  133** |
 
 (ARV)
 
-r- ten Schlüsseltabellen Darreichungsform Elementes <fachgruppennummer_liste XML-Elementes <verordnungen Klarstellung des Beschreibungstextes bei dem Element <atc5> t- schaftlichen Wirkstoffauswahl (IWW) r- ten Schlüsseltabellen Darreichungsform r- ten Schlüsseltabellen Darreichungsform r- ten Schlüsseltabellen Darreichungsform und KV-Geltungsbereich einjährige Gültigkeit der ARV -Datei ent- fernt. r- men aktualisiert. seltabelle der Arztnrfachgruppen wurde hinzugefügt. Element <verordnungs- gruppe> wurde entfernt Dateinamen. r-
+r- ten Schlüsseltabellen Darreichungsform Elementes <fachgruppennummer_liste XML-Elementes <verordnungen dem Element <atc5> t- schaftlichen Wirkstoffauswahl (IWW) r- ten Schlüsseltabellen Darreichungsform r- ten Schlüsseltabellen Darreichungsform r- ten Schlüsseltabellen Darreichungsform und KV-Geltungsbereich einjährige Gültigkeit der ARV -Datei ent- fernt. r- men aktualisiert. seltabelle der Arztnrfachgruppen wurde hinzugefügt. Element <verordnungs- gruppe> wurde entfernt Dateinamen. r-
 
 ---
 
@@ -758,7 +758,7 @@ Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinand
 |  | Das Strukturelement Choice zeigt an, dass zwischen verschiedenen Un- |
 |  | Das Strukturelement, Sequence beschreibt, dass verschiedene Unterelemen- |
 
-**Tabelle 2 – Beschreibung der Strukturelement**
+**Tabelle 2 – Beschreibung der Strukturelement-Symbole**
 
 ## 4.3 Sonstige Symbole
 
@@ -773,13 +773,9 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 (ARV)
 
-**-Symbole**
-
 gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen. Das Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1.. aus, dass das Element mindestens einmal vorkommen muss aber auch beliebig oft auftreten kann.  drückt z.B. terelementen genau eins ausgewählt werden kann. Falls unter dem Struktu- relement Choice eine Kardinalität angegeben ist, kann die Auswahl entspre- chend oft erfolgen. te in festgelegter Reihenfolge aufgeführt werden müssen. Pluszeichen am Rechteckrand symbolisiert. an, dass das Element an anderer Stelle im Schema defi- niert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein.
 
 ---
-
-(ARV)
 
 # 5 ehd – -Element (root Element)
 
@@ -794,13 +790,11 @@ Das Element hat folgenden Aufbau:
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  ehd_version    xs:string required   ***** |
 | ***example*** | ***<ehd:ehd xmlns:ehd=”urn:ehd/001” xmlns=”urn:ehd/arv/001”        ********ehd_version=”1.40”>      <ehd:header>          …      </ehd:header>      <ehd:body>          …      </ehd:body>  </ehd:ehd>*** |
 
-„header“-Element stehen die spezi-
-
 **Tabelle 4 – Erläuterung „ehd“**
 
 Im XML-File wird die Versionsnummer der zugrunde liegenden ehd-Richtlinie
 
-„ehd_version“ bzw. des verwendeten ehd-Schemas angeben. Der Wertebereich wird auf 0.00  bis 99.99 festgelegt, anderenfalls wird der Parser Fehler melden.
+„ehd_version“  bzw. des verwendeten ehd-Schemas angeben. Der Wertebereich wird auf 0.00  bis 99.99 festgelegt, anderenfalls wird der Parser Fehler melden.
 
 Um die Aufwärtskompatibilität zu gewährleisten, wird kein fester Wert für die  Version vorgegeben.
 
@@ -812,9 +806,12 @@ Hier liegen die eigentlichen Inhalte der Datenlieferung. In diesem Bereich kann 
 
 Der Namensraum für die ehd-Schnittstelle ist zwingend vorgeschrieben:„
 
-***urn:ehd/001***
+(ARV)
 
-xmlns:xsi=”http://www.w3.org/2001/XMLSchema-instance”
+„header“-Element stehen die spezi-
+
+xmlns:xsi=”http://www.w3.org/2001/XMLSchema-instance”  ***urn:ehd/001***
+
 
 ---
 
@@ -1060,9 +1057,8 @@ Die Identifikation einer Organisation.  „organization.nm“: Organisationsname
 |---|---|
 | ***example*** | ***<ehd:addr> ********</ehd:addr>*** |
 
--Element hat
+<ehd:CNT V="Deutschland"/> <ehd:CTY V="Düsseldorf"/> <ehd:HNR V="9"/> <ehd:ZIP V="40474"/> <ehd:STR V="Tersteegenstraße"/> Dieses Element kann folgende Unterelemente enthalten: „STR“:  „HNR“: „POB“: Strasse Hausnummer Postfach „ZIP“:  Postleitzahl „CTY“:  Stadt „STA“:  Bundesland „CNT“: Staat „ADL“:  zusätzliche Adressangabe (additional address locator) Werte für diese Elemente werden im „V“-Attribut angegeben. Jedes Adressteil folgende Attribute: Das Element hat folgende Attribute: -Element hat
 
-<ehd:CNT V="Deutschland"/> <ehd:CTY V="Düsseldorf"/> <ehd:HNR V="9"/> <ehd:ZIP V="40474"/> <ehd:STR V="Tersteegenstraße"/> Dieses Element kann folgende Unterelemente enthalten: „STR“:  „HNR“: „POB“: Strasse Hausnummer Postfach „ZIP“:  Postleitzahl „CTY“:  Stadt „STA“:  Bundesland „CNT“: „ADL“:  Staat zusätzliche Adressangabe (additional address locator) Werte für diese Elemente werden im „V“-Attribut angegeben. Jedes Adressteil folgende Attribute: Das Element hat folgende Attribute:
 
 ---
 
@@ -1267,7 +1263,9 @@ Unterelemente von „arzneimittelvereinbarungen“ sind die Elemente -
 
 Die Landesebene kann aus den Unterelementen von „arzneimittelvereinbarungen“ diejenigen  auswählen, die in die Verordnungssoftware integriert werden sollen. Beispielsweise könnten  in einem KV-Bereich eine Regelung zu Höchstquoten und eine Regelung zu Leitsubstanzquo- ten existieren, die auch in die Verordnungssoftware implementiert werden sollen. In diesem  Fall würde die Landesebene die Daten nur für die Unterelemente „hoechstquotenr_liste“ und  „leitsubstanzquotenr_liste“ in dem hier beschriebenen Datensatzformat zur Verfügung stellen.  Es ist prinzipiell auch möglich, alle oben genannten Regelungen zu implementieren. Dann  müssten die Daten in ihren entsprechenden Formaten von der Landesebene bereitgestellt  werden.
 
-Bitte beachten Sie bei der Datenbereitstellung, dass einige Präparate von unterschiedlichen  Regelungen in den Arzneimittelvereinbarungen betroffen sein könnten. Beispielsweise könnte  das Präparat Nexium sowohl von einer Leitsubstanzquotenregelung als auch von einer  Höchstquoten-Regelung betroffen sein. Hier sollte die Landesebene im jeweiligen Listenele- ment im Attribut „prioritaet“ für die Software-Anbieter definieren, welche Regelung eine höhere
+Bitte beachten Sie bei der Datenbereitstellung, dass einige Präparate von unterschiedlichen  Regelungen in den Arzneimittelvereinbarungen betroffen sein könnten. Beispielsweise könnte  das Präparat Nexium sowohl von einer Leitsubstanzquotenregelung als auch von einer
+
+Höchstquoten-Regelung betroffen sein. Hier sollte die Landesebene im jeweiligen Listenele- ment im Attribut „prioritaet“ für die Software-Anbieter definieren, welche Regelung eine höhere
 
 Priorität besitzt. Es sollte nur der Hinweistext angezeigt werden, welcher zur höher priorisier- ten Regel gehört. Ansonsten kann nicht ausgeschlossen werden, dass der Arzt mit doppelten  Hinweisen konfrontiert wird.
 
@@ -1344,21 +1342,20 @@ Das optionale Element „leitsubstanzquotenr_liste“ enthält mindestens ein El
 
 (ARV)
 
-example <pzn einschluss="true" V="String"> <ddd_je_packung V="0.0"/> </pzn> <leitsubstanz> <wirkstoff einschluss="true" V="String"/> <fachgruppenquote> <fachgruppenintervall intervall_start="2" intervall_stop="2"/> <quote_leitsubstanz_ddd V="0.0"/> <warnhinweis_ersetzung V="String"/> <hinweis_verordnung_identisch  V="String"/> </fachgruppenquote </leitsubstanz> example  <wirkstoffgruppe V="Beta-Adrenorezeptor-Antagonisten, selektiv"/> <leitsubstanz> <wirkstoff V="Metoprolol"/> <wirkstoff V="Bisoprolol"/> <fachgruppenquote> <quote_leitsubstanz_bruttoumsatz  V="70.0"/> <warnhinweis_ersetzung V="Sie haben einen Beta-Blocker ausgewählt. In Ihrem KV-Bereich existiert für diese Wirkstoffgruppe eine Leitsubstanzquotenregelung.Leitsubstanzen sind Metoprolol und Bisoprolol. Ziel ist es, den Anteil der Leitsubstsanzen im KV-Bereich auf 70% zu erhöhen"/> <hinweis_verordnung_identisch  V="Sie haben bereits eine Leitsubstanz  aus der Gruppe der Betablocker gewählt. Der Anteil der Leitsubstanzen bei der Gruppe der Betablocker soll in Ihrem KV-Bereich 70% betragen"/>
+example <pzn einschluss="true" V="String"> <ddd_je_packung V="0.0"/> </pzn> <leitsubstanz> <wirkstoff einschluss="true" V="String"/> <fachgruppenquote> <fachgruppenintervall intervall_start="2" intervall_stop="2"/> <quote_leitsubstanz_ddd V="0.0"/> <warnhinweis_ersetzung V="String"/> <hinweis_verordnung_identisch  V="String"/> </fachgruppenquote </leitsubstanz> example  <wirkstoffgruppe V="Beta-Adrenorezeptor-Antagonisten, selektiv"/> <leitsubstanz> <wirkstoff V="Metoprolol"/> <wirkstoff V="Bisoprolol"/> <fachgruppenquote> <quote_leitsubstanz_bruttoumsatz  V="70.0"/> <warnhinweis_ersetzung V="Sie haben einen Beta-Blocker ausgewählt. In Ihrem KV-Bereich existiert für diese Wirkstoffgruppe eine Leitsubstanzquotenregelung.Leitsubstanzen sind Metoprolol und Bisoprolol. Ziel ist es, den Anteil der Leitsubstsanzen im KV-Bereich auf 70% zu erhöhen"/> Leitsubstanzen bei der Gruppe der Betablocker soll in Ihrem <hinweis_verordnung_identisch  V="Sie haben bereits eine Leitsubstanz  aus der Gruppe der Betablocker gewählt. Der Anteil der KV-Bereich 70% betragen"/>
 
 ---
 
-(ARV)
-
 | ** | ** |
 |---|---|
-| ***example*** | ** |
+| ***2. specific*** | ** |
 | *****</leitsubstanzquotenregelung********3. specific*** | *****</leitsubstanzquotenregelung********<leitsubstanzquotenregelung***** |
-| *****example ********</leitsubstanzquotenregelung********3. specific*** | *****</leitsubstanzquotenregelung********<leitsubstanzquotenregelung********<leitsubstanz> ********</leitsubstanz> ********>  <leitsubstanzquotenregelung <standardaggregat V="Fosavance *"/> ********<atc5 V="M05BA01"/> ********<atc5 V="M05BA06"> ********<darreichungsform V="IFA" S="1.2.276.0.76.3.1.1.5.2.15" einschluss="false"/>  <darreichungsform V="IFF" S="1.2.276.0.76.3.1.1.5.2.15" einschluss="false"/> ********</atc5> ********<standardaggregat V="Zometa *" einschluss="false"/> ********<fachgruppenintervall intervall_start="23" intervall_stop="33"/> ********<quote_leitsubstanz_ddd V="81.3"/> ***** |
-| *****example ***** | |
+| *****2. specific ********</leitsubstanzquotenregelung********3. specific*** | *****</leitsubstanzquotenregelung********<leitsubstanzquotenregelung********<leitsubstanz> ********</leitsubstanz> ********>  <leitsubstanzquotenregelung <standardaggregat V="Fosavance *"/> ********<atc5 V="M05BA01"/> ********<atc5 V="M05BA06"> ********</atc5> ********<standardaggregat V="Zometa *" einschluss="false"/> ********<fachgruppenintervall intervall_start="23" intervall_stop="33"/> ********<quote_leitsubstanz_ddd V="81.3"/> ***** |
+| *****2. specific ***** | |
 
-</fachgruppenquote 2. specific <wirkstoff V="Metformin"/> <wirkstoff V="Glibenclamid"/> <wirkstoff V="Glimepirid <wirkstoff V="Rosiglitazon"/> <wirkstoff V="Pioglitazon"/> <wirkstoff V="Sitagliptin <wirkstoff V="Vildagliptin"/> <wirkstoff V="Repaglinid"/> <wirkstoff V="Nateglinid"/> <wirkstoff  ... <wirkstoff V="Metformin"/> <wirkstoff V="Glibenclamid"/> <fachgruppenquote> <quote_leitsubstanz_bruttoumsatz <warnhinweis_ersetzung V="Sie haben ein orales Antidiabetikum ausgewählt. Hierzu existiert auf der Landesebene eine Leitsubstanzquotenregelung. Leitsubstanzen sind Metformin,  V="60.0"/> </fachgruppenquote Glibenclamid und Glimepirid. <wirkstoff V="Glimepirid <fachgruppenquote> <quote_leitsubstanz_bruttoumsatz  V="35.0"/> </fachgruppenquote <atc5 V="M05BA04"/> <darreichungsform V="ILO" S="1.2.276.0.76.3.1.1.5.2.15" einschluss="false"/> <darreichungsform V="IFK" S="1.2.276.0.76.3.1.1.5.2.15" einschluss="false"/> <darreichungsform V="INF" S="1.2.276.0.76.3.1.1.5.2.15" einschluss="false"/> <darreichungsform V="IFL" S="1.2.276.0.76.3.1.1.5.2.15" einschluss="false"/> <darreichungsform V="INI" S="1.2.276.0.76.3.1.1.5.2.15 <darreichungsform V="DFL" S="1.2.276.0.76.3.1.1.5.2.15" einschluss="false"/> <atc5 V="M05BA07"/> <atc5 V="M05BA08"/> <atc5 V="M05BA04"/> <fachgruppenquote> <warnhinweis_ersetzung V="Sie haben ein Bisphosphonat gewählt. Hierzu existiert auf Landesebene eine Leitsubstanzquotenregelung. Leitsubstanz ist Alendronsäure."/> </fachgruppenquote <fachgruppenquote> <fachgruppenintervall intervall_start="1" intervall_stop="3"/> <quote_leitsubstanz_ddd V="83.0"/> <warnhinweis_ersetzung V="Sie haben ein Bisphosphonat gewählt. Hierzu existiert auf Landesebene eine Leitsubstanzquotenregelung. Leitsubstanz ist Alendronsäure."/> </fachgruppenquote <fachgruppenquote>
+(ARV)
 
+example example  </fachgruppenquote <wirkstoff V="Metformin"/> <wirkstoff V="Glibenclamid"/> <wirkstoff V="Glimepirid <wirkstoff V="Rosiglitazon"/> <wirkstoff V="Pioglitazon"/> <wirkstoff V="Sitagliptin <wirkstoff V="Vildagliptin"/> <wirkstoff V="Repaglinid"/> <wirkstoff V="Nateglinid"/> <wirkstoff  ... <wirkstoff V="Metformin"/> <wirkstoff V="Glibenclamid"/> <fachgruppenquote> <quote_leitsubstanz_bruttoumsatz  V="60.0"/> <warnhinweis_ersetzung V="Sie haben ein orales Antidiabetikum ausgewählt. Hierzu existiert auf der Landesebene eine Leitsubstanzquotenregelung. Leitsubstanzen sind Metformin, Glibenclamid und Glimepirid. </fachgruppenquote <wirkstoff V="Glimepirid <fachgruppenquote> <quote_leitsubstanz_bruttoumsatz  V="35.0"/> </fachgruppenquote <atc5 V="M05BA04"/> <darreichungsform V="ILO" S="1.2.276.0.76.3.1.1.5.2.15" einschluss="false"/> <darreichungsform V="IFA" S="1.2.276.0.76.3.1.1.5.2.15" einschluss="false"/> <darreichungsform V="IFF" S="1.2.276.0.76.3.1.1.5.2.15" einschluss="false"/> <darreichungsform V="IFK" S="1.2.276.0.76.3.1.1.5.2.15" einschluss="false"/> <darreichungsform V="INF" S="1.2.276.0.76.3.1.1.5.2.15" einschluss="false"/> <darreichungsform V="IFL" S="1.2.276.0.76.3.1.1.5.2.15" einschluss="false"/> <darreichungsform V="INI" S="1.2.276.0.76.3.1.1.5.2.15 <darreichungsform V="DFL" S="1.2.276.0.76.3.1.1.5.2.15" einschluss="false"/> <atc5 V="M05BA07"/> <atc5 V="M05BA08"/> <atc5 V="M05BA04"/> <fachgruppenquote> <warnhinweis_ersetzung V="Sie haben ein Bisphosphonat gewählt. Hierzu existiert auf Landesebene eine Leitsubstanzquotenregelung. Leitsubstanz ist Alendronsäure."/> </fachgruppenquote <fachgruppenquote> <fachgruppenintervall intervall_start="1" intervall_stop="3"/> <quote_leitsubstanz_ddd V="83.0"/> <warnhinweis_ersetzung V="Sie haben ein Bisphosphonat gewählt. Hierzu existiert auf Landesebene eine Leitsubstanzquotenregelung. Leitsubstanz ist Alendronsäure."/> </fachgruppenquote <fachgruppenquote>
 
 ---
 
@@ -1435,7 +1432,7 @@ Das Element hat folgenden Aufbau:
 
 | ***diagram*** | ** |
 |---|---|
-| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V    pzn_string_typ  required   ********8 Ziffern  einschluss  xs:Boolean  optional  true ***** |
+| ***pzn*** | ***Name    Type    Use    Default    Fixed    Annotation  V    pzn_string_typ  required   ********8 Ziffern  einschluss  xs:Boolean  optional  true ***** |
 | ***ddd_je_packung*** | ***Name    Type    Use    Default    Fixed    Annotation  V    xs:decimal   required   ***** |
 | ***example*** | ***<pzn einschluss="true" V="12345678"> ********</pzn>*** |
 
@@ -1445,7 +1442,7 @@ Das Element hat folgenden Aufbau:
 
 Stellt den Namen des Arzneimittels dar und kann auch Informationen über Wirkstärke, Darrei- chungsform und Packungsgröße enthalten.
 
-Werden durch die Landesebene Handelsnamen ohne diese Bezeichnungen angegeben (vgl.  Element standardaggregat), sind von der Verordnungssoftware alle Stärken und Packungs- größen für diese zu selektieren. Die Angabe des Handelsnamen kann in solchen Fällen sinn- voll sein, wenn für einen Wirkstoff (z.B. Duloxetin) zwei Handelsnamen bestehen (z.B. Cym- balta und Yentreve ).
+Werden durch die Landesebene Handelsnamen ohne diese Bezeichnungen angegeben (vgl.  Element standardaggregat), sind von der Verordnungssoftware alle Stärken und Packungs- größen für diese zu selektieren. Die Angabe des Handelsnamen kann in solchen Fällen sinn- voll sein, wenn für einen Wirkstoff (z.B. Duloxetin) zwei Handelsnamen bestehen (z.B. Cym- balta und Yentreve
 
 Bei der Verwendung des Elementes „handelsnamen“ zur Definition von Regeln kann es infol- ge abweichender Schreibweisen in der Verordnungssoftware der Software schärfen kommen, so dass bestimmte Arzneimittel möglicherweise nicht gefunden werden.
 
@@ -1455,13 +1452,11 @@ Es ist möglich, im Element „handelsnamen“ ein „*“ (Joker) für beliebig
 
 Im Element „handelsname“ sind die Sonderzeichen für Trademark ™ oder für Registrierung  nicht mit anzugeben. Die Sonderzeichen sind durch ein Leerzeichen zu ersetzen, damit ist -Anbieter zu Un-
 
-<ddd_je_packung V="0.0"/>
+attributes attributes <ddd_je_packung V="0.0"/>
 
 ---
 
-zum Beispiel Omeptrazol ratiopharm® bei der Suche nach „Omeprazol ratiopharm *“ ein Su-
-
-chergebnis.
+zum Beispiel Omeptrazol ratiopharm® bei der Suche nach „Omeprazol ratiopharm *“ ein Su- chergebnis.
 
 Es ist durch die Landesebene sicherzustellen, dass bei dieser Suchdefinition keine ungewoll- ten Präparate im Ergebnis vorkommen.
 
@@ -1669,7 +1664,7 @@ In folgender Tabelle wird das Element „leitsubstanz“ graphisch dargestellt:
 
 | ***diagram*** | ** |
 |---|---|
-| ***example*** | ***<leitsubstanz> ********V="String"/>  >  </leitsubstanz>*** |
+| ***example*** | ***<leitsubstanz> ********</leitsubstanz>*** |
 
 **Tabelle 35 – Erläuterung „leitsubstanzquotenregelung/leitsubstanz“**
 
@@ -1681,7 +1676,7 @@ Unter der „fachgruppenquote“ sind die Hinweise („warnhinweis_ersetzung“ 
 
 (ARV)
 
-<wirkstoff einschluss="true" V="String"/> <fachgruppenquote> <fachgruppenintervall intervall_start="2" intervall_stop="2"/> <quote_leitsubstanz_ddd V="0.0"/> <warnhinweis_ersetzung V="String"/> <hinweis_verordnung_identisch </fachgruppenquote
+<wirkstoff einschluss="true" V="String"/> <fachgruppenquote> <fachgruppenintervall intervall_start="2" intervall_stop="2"/> <quote_leitsubstanz_ddd V="0.0"/> <warnhinweis_ersetzung V="String"/> <hinweis_verordnung_identisch  V="String"/> </fachgruppenquote
 
 ---
 
@@ -1695,7 +1690,7 @@ Das Element hat folgenden Aufbau:
 
 | ***diagram*** | ** |
 |---|---|
-| ***example*** | ***<fachgruppenquote> ********V="String"/>  </fachgruppenquote*** |
+| ***example*** | ***<fachgruppenquote> ********</fachgruppenquote*** |
 
 **Tabelle 36 – Erläuterung „leitsubstanzquotenregelung/leitsubstanz**
 
@@ -1707,7 +1702,7 @@ Das Element „fachgruppenintervall“ steht innerhalb einer „choice“-Defini
 
 **/fachgruppenquote“**
 
-<fachgruppenintervall intervall_start="2" intervall_stop="2" /> <quote_leitsubstanz_ddd V="0.0"/> <warnhinweis_ersetzung V="String"/> <hinweis_verordnung_identisch„quote_leitsubstanz_ddd“, „quo-
+<fachgruppenintervall intervall_start="2" intervall_stop="2" /> <quote_leitsubstanz_ddd V="0.0"/> <warnhinweis_ersetzung V="String"/> <hinweis_verordnung_identisch  V="String"/> „quote_leitsubstanz_ddd“, „quo-
 
 
 ---
@@ -1846,9 +1841,9 @@ Das Element hat folgenden Aufbau:
 
 ## 7.4 zielpreisr_liste
 
-Auf der Landesebene können Regelungen zu Zielpreisen existieren. Hierbei wird Präparaten  mit gleichem Wirkstoff, gleicher Wirkstärke und gleicher Packungsgröße ein Zielpreis zuge- ordnet. Der Zielpreis wird von der Landesebene für eine Gruppe von PZN festgelegt. Die Ver-
+Auf der Landesebene können Regelungen zu Zielpreisen existieren. Hierbei wird Präparaten  mit gleichem Wirkstoff, gleicher Wirkstärke und gleicher Packungsgröße ein Zielpreis zuge- ordnet. Der Zielpreis wird von der Landesebene für eine Gruppe von PZN festgelegt ordnungssoftware muss die Apothekenverkaufspreise der entsprechenden Präparate mit dem  Zielpreis vergleichen.
 
-ordnungssoftware muss die Apothekenverkaufspreise der entsprechenden Präparate mit dem  Zielpreis vergleichen.
+. Die Ver-
 
 Das Element „zielpreisr_liste“ hat folgenden Aufbau:
 
@@ -1878,12 +1873,12 @@ Das Element „zielpreisregelung“ hat folgenden Aufbau: (ARV)
 | ***diagram*** | ** |
 |---|---|
 | ***general*** | ***<zielpreisregelung> ********</zielpreisregelung>*** |
-| ***example*** | ***<zielpreisregelung> ***** |
+| ***specific*** | ***<zielpreisregelung> ***** |
 | ***diagram*** | |
 
 (ARV)
 
-<pzn einschluss="true" V="String"> <ddd_je_packung V="0.0"/> </pzn> <zielpreis V="0.00"/> <kategorie_zielpreisregelung hinweis="String"> <intervall_start inklusion_intervallgrenze ="true" V="0.0"/> <intervall_stop inklusion_intervallgrenze ="true" V="0.0"/> </kategorie_zielpreisregelung> specific <pzn V=“0113879“/> <pzn V=“7121540“/> <pzn V=“2067994“/> <pzn V=“3572257“/> <zielpreis V=“28.00“/> <kategorie_zielpreisregelung hinweis=“Sie haben ein Präparat gewählt, für das ein Zielpreis von der Landesebene festgelegt wurde. Mit Hilfe von Zielpreisen können Wirtschaftlichkeitsreserven erschlossen werden. Dieses Präparat liegt sogar unter dem vereinbarten Zielpreis“> <intervall_stop inklusion_intervallgrenze =“false" V="100.0"/> </kategorie_zielpreisregelung> <kategorie_zielpreisregelung hinweis=“Sie haben ein Präparat gewählt, für das ein Zielpreis von der Landesebene festgelegt wurde. Mit Hilfe von Zielpreisen können Wirtschaftlichkeitsreserven erschlossen werden. Dieses Präparat liegt über dem Zielpreis. Es existieren wirtschaftlichere Alternativen.“> <intervall_start inklusion_intervallgrenze ="true" V="105.0"/> <intervall_stop inklusion_intervallgrenze ="false" V="110.0"/> </kategorie_zielpreisregelung> <kategorie_zielpreisregelung hinweis=“ Sie haben ein Präparat gewählt, für das ein Zielpreis von der Landesebene festgelegt wurde. Mit Hilfe von Zielpreisen können Wirtschaftlichkeitsreserven erschlossen werden. Dieses Präparat liegt deutlich über dem Zielpreis. Es existieren wirtschaftlichere Alternativen.“> <intervall_start inklusion_intervallgrenze ="true" V="110.0"/> </kategorie_zielpreisregelung>
+example <pzn einschluss="true" V="String"> <ddd_je_packung V="0.0"/> </pzn> <zielpreis V="0.00"/> <kategorie_zielpreisregelung hinweis="String"> <intervall_start inklusion_intervallgrenze ="true" V="0.0"/> <intervall_stop inklusion_intervallgrenze ="true" V="0.0"/> </kategorie_zielpreisregelung> example <pzn V=“0113879“/> <pzn V=“7121540“/> <pzn V=“2067994“/> <pzn V=“3572257“/> <zielpreis V=“28.00“/> <kategorie_zielpreisregelung hinweis=“Sie haben ein Präparat gewählt, für das ein Zielpreis von der Landesebene festgelegt wurde. Mit Hilfe von Zielpreisen können Wirtschaftlichkeitsreserven erschlossen werden. Dieses Präparat liegt sogar unter dem vereinbarten Zielpreis“> <intervall_stop inklusion_intervallgrenze =“false" V="100.0"/> </kategorie_zielpreisregelung> <kategorie_zielpreisregelung hinweis=“Sie haben ein Präparat gewählt, für das ein Zielpreis von der Landesebene festgelegt wurde. Mit Hilfe von Zielpreisen können Wirtschaftlichkeitsreserven erschlossen werden. Dieses Präparat liegt über dem Zielpreis. Es existieren wirtschaftlichere Alternativen.“> <intervall_start inklusion_intervallgrenze ="true" V="105.0"/> <intervall_stop inklusion_intervallgrenze ="false" V="110.0"/> </kategorie_zielpreisregelung> <kategorie_zielpreisregelung hinweis=“ Sie haben ein Präparat gewählt, für das ein Zielpreis von der Landesebene festgelegt wurde. Mit Hilfe von Zielpreisen können Wirtschaftlichkeitsreserven erschlossen werden. Dieses Präparat liegt deutlich über dem Zielpreis. Es existieren wirtschaftlichere Alternativen.“> <intervall_start inklusion_intervallgrenze ="true" V="110.0"/> </kategorie_zielpreisregelung>
 
 ---
 
@@ -1958,12 +1953,12 @@ Das Element „kostenvergleich_ddd“ hat folgenden Aufbau: (ARV)
 | ***Diagram*** | ** |
 |---|---|
 | ***example*** | ***<kostenvergleich_ddd> ********</kostenvergleich_ddd>*** |
-| ***example*** | ***<kostenvergleich_ddd> ***** |
+| ***specific*** | ***<kostenvergleich_ddd> ***** |
 | ***Diagram ********example  <kostenvergleich_ddd> ***** | |
 
 (ARV)
 
-<pzn einschluss="true" V="String"> <ddd_je_packung V="0.0"/> </pzn> <zielkosten_je_ddd V="0.0"/> <fachgruppenquote> <kategorie_ddd_kosten_vergleich hinweis="String"> <intervall_start inklusion_intervallgrenze ="true" V="0.0"/> <intervall_stop inklusion_intervallgrenze ="true" V="0.0"/> </kategorie_ddd_kosten_vergleich> </fachgruppenquote specific <atc5 V="N02AA01"> <darreichungsform V="BTA" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="FDA" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="FTA" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="LTA" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="KAP" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="RET" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="REK" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="PUL" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="GRA" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="TRO" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="FLU" S="1.2.276.0.76.3.1.1.5.2.15"/> </atc5> <atc5 V="N02AA03"> <darreichungsform V="BTA" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="FDA" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="FTA" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="LTA" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="KAP" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="RET" S="1.2.276.0.76.3.1.1.5.2.15"/>
+<pzn einschluss="true" V="String"> <ddd_je_packung V="0.0"/> </pzn> <zielkosten_je_ddd V="0.0"/> <fachgruppenquote> <kategorie_ddd_kosten_vergleich hinweis="String"> <intervall_start inklusion_intervallgrenze ="true" V="0.0"/> <intervall_stop inklusion_intervallgrenze ="true" V="0.0"/> </kategorie_ddd_kosten_vergleich> </fachgruppenquote <atc5 V="N02AA01"> <darreichungsform V="BTA" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="FDA" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="FTA" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="LTA" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="KAP" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="RET" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="REK" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="PUL" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="GRA" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="TRO" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="FLU" S="1.2.276.0.76.3.1.1.5.2.15"/> </atc5> <atc5 V="N02AA03"> <darreichungsform V="BTA" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="FDA" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="FTA" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="LTA" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="KAP" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="RET" S="1.2.276.0.76.3.1.1.5.2.15"/>
 
 ---
 
@@ -1975,7 +1970,7 @@ Das Element „kostenvergleich_ddd“ hat folgenden Aufbau: (ARV)
 
 (ARV)
 
-<darreichungsform V="REK" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="PUL" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="GRA" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="TRO" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="FLU" S="1.2.276.0.76.3.1.1.5.2.15"/> </atc5> <zielkosten_je_ddd V="5.45"/> <fachgruppenquote> <kategorie_ddd_kosten_vergleich hinweis="Sie haben ein Präparat gewählt, dessen dem Zielwert liegt, der von der Landesebene für stark wirksame Analgetika festgelegt wurde. Es existieren günstigere Verordnungsalternativen."> Tagestherapiekosten (DDD-Kosten) um mehr als zehn Prozent über <intervall_start inklusion_intervallgrenze ="true" V="110.1"/> </kategorie_ddd_kosten_vergleich> </fachgruppenquote anhand des Elementes „kostenver- gleich_ddd“ definiert werden. Hierbei sollte pro „zielkosten_je_ddd“ eine sinnvolle Gruppe (z.B. gleicher Wirkstoff, gleiche Wirkstärke, gleiche Packungsgrößen) von der Landesebene definiert werden. Es ist prinzipiell auch möglich, alle Packungsgrößen und Wirkstärken eines Wirkstoffes oder einer Wirkstoffgruppe abzubilden, die tatsächlichen Kosten pro DDD oder Kosten pro PDD können jedoch dabei stark variieren. pro Regelung sind alle relevanten PZN inklusive der DDD pro PZN für den betroffenen Wirk- stoff von der Landesebene bereit zu stellen. Zudem sind die „zielkosten_je_ddd“ anzugeben.  Definition der betroffenen Gruppe von Präparaten das Element „pzn“ verwendet werden. Im Unterlelement „ddd_je_packung“ müssen die KV-spezifischen PDD-Werte für die jeweilige PZN enthalten sein. Diese werden zur Berechnung herangezogen. In der Verordnungssoft- ware evtl. vorhandene DDD-Werte sind in diesem Fall nicht zu verwenden. Wirkstoff, ATC 5, Handelsnamen, Standardaggregat oder PZN definiert werden. Die Definition über Wirkstoffgruppe, ATC 4, Wirkstoff, ATC 5, Handelsnamen, Standardaggregat setzt je- doch voraus, dass in der Verordnungssoftware bereits DDD hinterlegt und die Kosten pro DDD berechnet sind. Sollen verschiedene Applikationsformen (zum Beispiel orale und trans- dermale Opioide) mit unterschiedlichen Zielkosten belegt werden, so sind diese Arzneimittel- gruppen über PZN zu definieren. Basis der PDD erfolgen, sind die PZN und die dazugehörigen DDD bzw. PDD (im Unterele- ment „ddd_je_packung“) für die Arzneimittelgruppe von der Landesebene bereit zu stellen. der Art der Applikation, zum Beispiel kann bei parentaler Applikation eine andere DDD bzw. PDD zu Grunde liegen als bei oraler Applikation. Im Element „zielkosten_je_ddd“, sind, falls keine anderen Applikationsformen angegeben sind, die Zielkosten der DDD bzw. PDD für die orale Anwendung gemeint. Falls in der Regelung zum Beispiel nur Präparate mit transderma- ler Applikationsform angegeben sind,  ist der DDD bzw. PDD-Wert für die transdermale Appli- kation zu wählen.
+<zielkosten_je_ddd V="5.45"/> <fachgruppenquote> </fachgruppenquote gleich_ddd“ definiert werden. Hierbei sollte pro „zielkosten_je_ddd“ eine sinnvolle Gruppe (z.B. gleicher Wirkstoff, gleiche Wirkstärke, gleiche Packungsgrößen) von der Landesebene definiert werden. Es ist prinzipiell auch möglich, alle Packungsgrößen und Wirkstärken eines Wirkstoffes oder einer Wirkstoffgruppe abzubilden, die tatsächlichen Kosten pro DDD oder Kosten pro PDD können jedoch dabei stark variieren. pro Regelung sind alle relevanten PZN inklusive der DDD pro PZN für den betroffenen Wirk- stoff von der Landesebene bereit zu stellen. Zudem sind die „zielkosten_je_ddd“ anzugeben.  Definition der betroffenen Gruppe von Präparaten das Element „pzn“ verwendet werden. Im Unterlelement „ddd_je_packung“ müssen die KV-spezifischen PDD-Werte für die jeweilige PZN enthalten sein. Diese werden zur Berechnung herangezogen. In der Verordnungssoft- ware evtl. vorhandene DDD-Werte sind in diesem Fall nicht zu verwenden. Wirkstoff, ATC 5, Handelsnamen, Standardaggregat oder PZN definiert werden. Die Definition über Wirkstoffgruppe, ATC 4, Wirkstoff, ATC 5, Handelsnamen, Standardaggregat setzt je- doch voraus, dass in der Verordnungssoftware bereits DDD hinterlegt und die Kosten pro DDD berechnet sind. Sollen verschiedene Applikationsformen (zum Beispiel orale und trans- dermale Opioide) mit unterschiedlichen Zielkosten belegt werden, so sind diese Arzneimittel- gruppen über PZN zu definieren. Basis der PDD erfolgen, sind die PZN und die dazugehörigen DDD bzw. PDD (im Unterele- ment „ddd_je_packung“) für die Arzneimittelgruppe von der Landesebene bereit zu stellen. der Art der Applikation, zum Beispiel kann bei parentaler Applikation eine andere DDD bzw. PDD zu Grunde liegen als bei oraler Applikation. Im Element „zielkosten_je_ddd“, sind, falls keine anderen Applikationsformen angegeben sind, die Zielkosten der DDD bzw. PDD für die orale Anwendung gemeint. Falls in der Regelung zum Beispiel nur Präparate mit transderma- ler Applikationsform angegeben sind,  ist der DDD bzw. PDD-Wert für die transdermale Appli- kation zu wählen. <darreichungsform V="REK" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="PUL" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="GRA" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="TRO" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform V="FLU" S="1.2.276.0.76.3.1.1.5.2.15"/> </atc5> <kategorie_ddd_kosten_vergleich hinweis="Sie haben ein Präparat gewählt, dessen Tagestherapiekosten (DDD-Kosten) um mehr als zehn Prozent über dem Zielwert liegt, der von der Landesebene für stark wirksame Analgetika festgelegt wurde. Es existieren günstigere Verordnungsalternativen."> <intervall_start inklusion_intervallgrenze ="true" V="110.1"/> </kategorie_ddd_kosten_vergleich> anhand des Elementes „kostenver-
 
 ---
 
@@ -2129,7 +2124,6 @@ Das Element hat folgenden Aufbau:
 
 <intervall_start inklusion_intervallgrenze ="true" V="0.0"/> <intervall_stop inklusion_intervallgrenze ="true" V="0.0"/>
 
-
 ---
 
 ## 7.6 generikaquotenr_liste
@@ -2158,26 +2152,25 @@ tenregelung“. Zum Attribut „prioritaet“ siehe Abschnitt 7.3.
 
 | ***diagram*** | ** |
 |---|---|
-| ***example*** | ***<generikaquotenregelung********>*** |
-| ***example*** | ***> ********<standardaggregat_original***** |
+| ***example*** | ***<generikaquotenregelung********</generikaquotenregelung*** |
+| ***specific*** | ***<generikaquotenregelung********<standardaggregat_original***** |
 | ***diagram ********example  <generikaquotenregelung***** | |
 
 (ARV)
 
-<pzn_original einschluss="true" V="String"> <ddd_je_packung V="0.0"/> </pzn_original> <generischer_wirkstoff_alternative> <pzn einschluss="true" V="String"> <ddd_je_packung V="0.0"/> </pzn> </generischer_wirkstoff_alternative> <fachgruppenquote> <fachgruppenintervall intervall_start="2" intervall_stop="2"/> <quote_generika_ddd V="0.0"> <pzn_generika V="String"> <ddd_je_packung V="0.0"/> </pzn_generika> </quote_generika_ddd> <warnhinweis_ersetzung V="String"/> </fachgruppenquote </generikaquotenregelung specific  V="Aerocef"/>  V="Cephoral"/>  V="Elobact"/>  V="Orelox"/>  V="Panoral"/>  V="Podomexef"/>  V="Suprax"/>  V="Zinnat"/> V=“Rocephin“/> V=“Zinacef“/>    V=“Fortum“/>    V=“Claforan“/>  V=“Rocephine“/>
+<pzn_original einschluss="true" V="String"> <ddd_je_packung V="0.0"/> </pzn_original> <generischer_wirkstoff_alternative> <pzn einschluss="true" V="String"> <ddd_je_packung V="0.0"/> </pzn> </generischer_wirkstoff_alternative> <fachgruppenquote> <fachgruppenintervall intervall_start="2" intervall_stop="2"/> <quote_generika_ddd V="0.0"> <pzn_generika V="String"> <ddd_je_packung V="0.0"/> </pzn_generika> </quote_generika_ddd> <warnhinweis_ersetzung V="String"/> </fachgruppenquote  V="Aerocef"/>  V="Cephoral"/>  V="Elobact"/>  V="Orelox"/>  V="Panoral"/>  V="Podomexef"/>  V="Suprax"/>  V="Zinnat"/> V=“Rocephin“/> V=“Zinacef“/>    V=“Fortum“/>    V=“Claforan“/>  V=“Rocephine“/>
 
 ---
 
 | ** | ** |
 |---|---|
-| ** | ***<fachgruppenquote> ********<quote_generika_bruttoumsatz V="95.0"> ********</fachgruppenquote </generikaquotenregelung> *****Tabelle 55 – Erläuterung „generikaquotenregelung“** Beliebig viele Generikaquotenregelungen können mit der vorliegenden Schnittstelle abgebil- Die durch die vorstehenden Elemente bezeichneten Präparate definieren die Gruppe der be- Die Elemente „pzn_original“, „handelsname_original“ und „standardaggregat_original“, können  Sofern von der Landesebene gewünscht, können die Verordnungsalternative(n) („generi-**Anzeige eines Hinweistextes für den Arzt ** Im Unterelement **Anzeigen des Hinweistextes und Controllingfunktion fachgruppenspezifisch möglich** |
+| ** | *****<quote_generika_bruttoumsatz V="95.0"> ********</generikaquotenregelung> *****Tabelle 55 – Erläuterung „generikaquotenregelung“** Beliebig viele Generikaquotenregelungen können mit der vorliegenden Schnittstelle abgebil- Die durch die vorstehenden Elemente bezeichneten Präparate definieren die Gruppe der be- Die Elemente „pzn_original“, „handelsname_original“ und „standardaggregat_original“, können  Sofern von der Landesebene gewünscht, können die Verordnungsalternative(n) („generi-**Anzeige eines Hinweistextes für den Arzt ** Im Unterelement **Anzeigen des Hinweistextes und Controllingfunktion fachgruppenspezifisch möglich** |
 | Es besteht die Möglichkeit, den Hinweistext und/oder die Quote(n) auf alle Ärzte, oder nur auf |  |
-| *****<fachgruppenquote> ********<quote_generika_bruttoumsatz V="95.0"> ********</fachgruppenquote </generikaquotenregelung>*** | |
+| *****<quote_generika_bruttoumsatz V="95.0"> ********</generikaquotenregelung>*** | |
 
 (ARV)
 
-<standardaggregat_original V=“Solvetan“/>  <standardaggregat_original  V=“Uro Cephoral“/> <standardaggregat_original V=“Ceftoral“/>   <fachgruppenintervall intervall_start="1" intervall_stop="3"/> <atc4 V="J01DC"/> <atc4 V="J01DD"/> </quote_generika_bruttoumsatz> <warnhinweis_ersetzung V="Sie haben ein Originalpräparat gewählt. In der Gruppe der oralen Cephalosporine existieren generische Alternativen. Für die Gruppe der oralen Cephalosporine wurde von der Landesebene eine Generikaquote von 95% auf Basis des Bruttoumsatzes festgelegt."/> det werden. Für jede einzelne Vergleichsgruppe wird ein Element angelegt. Beispielsweise entspricht die „generikaquotenregelung“ für Antibiotika einer Regelung. Die von der Regelung betroffenen Original -Präparate (!)  sind durch Angabe der(s) jeweiligen PZN („pzn_original“), der(s) jeweiligen Handelsnamen(s) („handelsname_original“) oder des jeweiligen Standardag- gregat ( „standardaggregat_original“) anzugeben.  troffenen Präparate der Generikaquotenregelung. Diese Gruppe enthält die auszutauschen- den Original-Präparate (Erstanbieter auf dem Markt, bei dem jedoch kein Patentschutz mehr besteht), die möglichst durch Generika ersetzt werden sollen. zur Definition der eingeschlossenen und nicht-eingeschlossenen Präparate eingesetzt wer- den. Dies wird durch das Attribut „einschluss“ ermöglicht. Wenn ein Standardaggregat zu den Original-Präparaten gehört, so wird das Attribut „einschluss“ auf „true“ gesetzt. „True“ ist der Standardwert für das Attribut „einschluss“. Falls bestimmte PZN von den Original-Präparaten ausgenommen werden sollen (z.B. aufgrund einer anderen Applikationsform), wird das Attri- but dieser Elemente auf „false“ gesetzt. Durch die mögliche Kombination von Elementen mit „einschluss“=„true“ und „einschluss“=„false“ ergeben sich flexible Definitionsmöglichkeiten. scher_wirkstoff_alternative“) als Wirkstoff(e), PZN, Handelsnamen, Standardaggregat oder als ATC 5 Code(s) von der Landesebene benannt werden. Auch hier besteht die Möglichkeit, die Originale dieser Wirkstoffe beispielsweise in Form von Standardaggregaten auszuschließen. Bei diesen Elementen wird das Attribut „einschluss“ auf „false“ gesetzt. „fachgruppenquote“ kann ein Hinweistext („warnhinweis_ersetzung“) fach- gruppenspezifisch oder allgemein von der Landesebene formuliert werden. Dieser Hinweis wird von der Verordnungssoftware angezeigt, wenn der Arzt ein Original-Präparat verordnet.  einzelne Fachgruppen beziehen. Gelten beispielsweise in einem KV-Bereich für Allgemein- mediziner und für Internisten unterschiedliche Quoten und sind für andere Fachgruppen keine Quoten vereinbart, so ist dies abbildbar. Die Definition, für welche Fachgruppen Hinweistexte
-
+<standardaggregat_original V=“Solvetan“/>  <standardaggregat_original  V=“Uro Cephoral“/> <standardaggregat_original V=“Ceftoral“/>   <fachgruppenquote> <fachgruppenintervall intervall_start="1" intervall_stop="3"/> <atc4 V="J01DC"/> <atc4 V="J01DD"/> </quote_generika_bruttoumsatz> <warnhinweis_ersetzung V="Sie haben ein Originalpräparat gewählt. In der Gruppe der oralen Cephalosporine existieren generische Alternativen. Für die Gruppe der oralen Cephalosporine wurde von der Landesebene eine Generikaquote von 95% auf Basis des Bruttoumsatzes festgelegt."/> </fachgruppenquote det werden. Für jede einzelne Vergleichsgruppe wird ein Element angelegt. Beispielsweise entspricht die „generikaquotenregelung“ für Antibiotika einer Regelung. Die von der Regelung betroffenen Original -Präparate (!)  sind durch Angabe der(s) jeweiligen PZN („pzn_original“), der(s) jeweiligen Handelsnamen(s) („handelsname_original“) oder des jeweiligen Standardag- gregat ( „standardaggregat_original“) anzugeben.  troffenen Präparate der Generikaquotenregelung. Diese Gruppe enthält die auszutauschen- den Original-Präparate (Erstanbieter auf dem Markt, bei dem jedoch kein Patentschutz mehr besteht), die möglichst durch Generika ersetzt werden sollen. zur Definition der eingeschlossenen und nicht-eingeschlossenen Präparate eingesetzt wer- den. Dies wird durch das Attribut „einschluss“ ermöglicht. Wenn ein Standardaggregat zu den Original-Präparaten gehört, so wird das Attribut „einschluss“ auf „true“ gesetzt. „True“ ist der Standardwert für das Attribut „einschluss“. Falls bestimmte PZN von den Original-Präparaten ausgenommen werden sollen (z.B. aufgrund einer anderen Applikationsform), wird das Attri- but dieser Elemente auf „false“ gesetzt. Durch die mögliche Kombination von Elementen mit „einschluss“=„true“ und „einschluss“=„false“ ergeben sich flexible Definitionsmöglichkeiten. scher_wirkstoff_alternative“) als Wirkstoff(e), PZN, Handelsnamen, Standardaggregat oder als ATC 5 Code(s) von der Landesebene benannt werden. Auch hier besteht die Möglichkeit, die Originale dieser Wirkstoffe beispielsweise in Form von Standardaggregaten auszuschließen. Bei diesen Elementen wird das Attribut „einschluss“ auf „false“ gesetzt. „fachgruppenquote“ kann ein Hinweistext („warnhinweis_ersetzung“) fach- gruppenspezifisch oder allgemein von der Landesebene formuliert werden. Dieser Hinweis wird von der Verordnungssoftware angezeigt, wenn der Arzt ein Original-Präparat verordnet.  einzelne Fachgruppen beziehen. Gelten beispielsweise in einem KV-Bereich für Allgemein- mediziner und für Internisten unterschiedliche Quoten und sind für andere Fachgruppen keine Quoten vereinbart, so ist dies abbildbar. Die Definition, für welche Fachgruppen Hinweistexte
 
 ---
 
@@ -2275,18 +2268,16 @@ Das Element hat folgenden Aufbau:
 |---|---|
 | ***attribute*** | ***Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required  ***** |
 | ***pzn_generika*** | ***Name    Type    Use    Default    Fixed    Annotation  V  xs:string  required   ***** |
-| ***attribute*** | ***Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required ***** |
+| ***ddd_je_packung*** | ***Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required ***** |
 | ***example*** | ***<quote_generika_ddd V="0.0"> ********</quote_generika_ddd>*** |
 
-**Tabelle 58 – Erläuterung „generikaquotenregelung**
+**Tabelle 58 – Erläuterung „generikaquotenregelung/fachgruppenquote/quote_generika_ddd“**
 
 #### 7.6.5.4 quote_generika_verordnungen
 
 Das Element „quote_generika_verordnungen“ steht innerhalb einer „choice“-Definition, welche  0 bis 1 Mal auftreten kann. Folglich ist es optional. Dieses Element wird dann von der Lan- desebene gefüllt, wenn die Quote der Generika im Verhältnis zur definierten Wirkstoffgruppe  anhand von Verordnungen berechnet werden soll. Die Vergleichsgruppe im Nenner beinhaltet  sowohl die Generika als auch die Originale, die Generika im Zähler berechnen sich aus der  Vergleichsgruppe abzüglich der Originale.
 
-**/fachgruppenquote/quote_generika_ddd“**
-
-ddd_je_packung <pzn_generika V="String"> <ddd_je_packung V="0.0"/> </pzn_generika> für die
+<pzn_generika V="String"> <ddd_je_packung V="0.0"/> </pzn_generika> für die
 
 
 ---
@@ -2300,7 +2291,7 @@ Das Element hat folgenden Aufbau:
 | ***diagram*** | ** |
 |---|---|
 | ***attribute*** | ***Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required ***** |
-| ***example*** | ***<quote_generika_verordnungen V="0.0"> ********>*** |
+| ***example*** | ***<quote_generika_verordnungen V="0.0"> ********</quote_generika_verordnungen*** |
 
 **Tabelle 59 – Erläuterung „generikaquotenregelung/fachgruppenquote/quote_generika_verord-**
 
@@ -2312,7 +2303,7 @@ Das Element „quote_generika_bruttoumsatz“ steht innerhalb einer „choice“
 
 Soll sich das Controlling auf Basis Bruttoumsatz auf eine definierte Arzneimittelgruppe (Ver- gleichsgruppe) beziehen, ist diese Vergleichsgruppe über Wirkstoffe, ATC 5-Code, Wirkstoff- gruppen, ATC 4-Code, Handelsnamen, Standardaggregate oder PZN zu definieren. Es sind  hier mehrere Angaben (z. Bsp. mehrere ATC 4-Codes) möglich und die Quote bezieht sich  auf die Summe aller eingeschlossenen Angaben. Werden keine Angaben zur Vergleichsgrup- pe gemacht, wird das Controlling auf den Bruttoumsatz aller vom Arzt über die GKV verordne- ten Fertigarzneimittel aus dem Gesamtmarkt bezogen.
 
-<pzn einschluss="true" V="String"> <ddd_je_packung V="0.0"/> </pzn> </quote_generika_verordnungen
+<pzn einschluss="true" V="String"> <ddd_je_packung V="0.0"/> </pzn>
 
 ---
 
@@ -2362,24 +2353,25 @@ Das Element „hoechstquotenregelung“ hat folgenden Aufbau: (ARV)
 | ***diagram*** | ** |
 |---|---|
 | ***example*** | ***<hoechstquotenregelung********</hoechstquotenregelung*** |
-| ***example*** | ***<hoechstquotenregelung********<atc5 V="C10AX09"/> ***** |
+| ***specific*** | ***<hoechstquotenregelung********<atc5 V="C10AX09"/> ***** |
 | ***diagram ********<hoechstquotenregelung***** | |
 
 (ARV)
 
-<pzn V="String"> <ddd_je_packung V="0.0"/> </pzn> <verordnungsalternative> <pzn V="String"> <ddd_je_packung V="0.0"/> </pzn> </verordnungsalternative> <fachgruppenquote> <fachgruppenintervall intervall_stop="2" intervall_start="2"/> <hoechstquote_ddd V="0.0"> <pzn V="String"> <ddd_je_packung V="0.0"/> </pzn> </hoechstquote_ddd> <warnhinweis_ersetzung V="String"/> </fachgruppenquote specific <standardaggregat V="Ezetrol *"/> <standardaggregat V="Inegy *"/> <verordnungsalternative> <atc5 V=“C10AA01"/>  </verordnungsalternative> <fachgruppenquote> <hoechstquote_verordnungen  V="3.5"> <atc4 V="C10AA"/> <atc5 V="C10BA02"/>
+<pzn V="String"> <ddd_je_packung V="0.0"/> </pzn> <verordnungsalternative> <pzn V="String"> <ddd_je_packung V="0.0"/> </pzn> </verordnungsalternative> <fachgruppenquote> <fachgruppenintervall intervall_stop="2" intervall_start="2"/> <hoechstquote_ddd V="0.0"> <pzn V="String"> <ddd_je_packung V="0.0"/> </pzn> </hoechstquote_ddd> <warnhinweis_ersetzung V="String"/> </fachgruppenquote <standardaggregat V="Ezetrol *"/> <standardaggregat V="Inegy *"/> <verordnungsalternative> <atc5 V=“C10AA01"/>  </verordnungsalternative> <fachgruppenquote> <hoechstquote_verordnungen  V="3.5"> <atc4 V="C10AA"/> <atc5 V="C10BA02"/>
 
 ---
 
-| ** | ***</hoechstquote_verordnungen*** |
-|---|---|
-|  | ***und sollten nach Möglichkeit durch ********</hoechstquotenregelung*****Tabelle 62 – Erläuterung „hoechstquotenregelung“** Beliebig viele Höchstquotenregelungen können mit der vorliegenden Schnittstelle abgebildet  Sofern von der Landesebene gewünscht, können die Verordnungsalternative(n) als Wirk-  **Anzeige eines Hinweistextes für den Arzt ** In dem Unterelement   **Anzeigen des Hinweistextes und Controllingfunktion fachgruppenspezifisch möglich ** Es besteht die Möglichkeit, den Hinweistext und/oder die Quote(n) auf alle Ärzte, oder nur auf   und 7.3.8.3).   Anhand der von der Landesebene definierten Fachgruppennummer(n) und/oder der Fach- Wenn für bestimmte Fachgruppen eine Controllingfunktion (Definition der Quote) und ein Hin- Werden keine Angaben zum „fachgruppenintervall“ oder der „fachgruppennummer“ gemacht |
-|  |  |
-| *****</hoechstquote_verordnungen und sollten nach Möglichkeit durch ********</hoechstquotenregelung*** | |
-
 (ARV)
 
-<warnhinweis_ersetzung V="Ezetrol die Alternative Simvastatin ersetzt werden."/>  und Inegy unterliegen der Höchstquotenregelung </fachgruppenquote werden. Für jede einzelne Vergleichsgruppe wird ein Element angelegt. Beispielsweise ent- spricht die „hoechstquotenregelung“ für Ezetrol® und Inegy® einer Regelung. Durch die mög- liche Kombination von Elementen mit „einschluss“=„true“ und „einschluss“=„false“ ergeben sich flexible Definitionsmöglichkeiten. Diejenigen Präparate, welche als Unterelemente des Elementes „hoechstquotenregelung“ aufgezählt werden, sind die Gruppe der betroffenen Prä- parate. Diese Gruppe ist im Falle der Höchstquotenregelung identisch mit der Gruppe der auszutauschenden Präparate, die möglichst durch Verordnungsalternativen ersetzt werden soll. stoff(e), Wirkstoffgruppe, PZN, Handelsnamen, Standardaggregat, als ATC4 oder als ATC 5 Code(s) von der Landesebene benannt werden. Im Element „verordnungsalternative“ kann die Gruppe der alternativen Präparate definiert werden. „fachgruppenquote“ kann ein Hinweistext („warnhinweis_ersetzung“) fachgruppenspezifisch oder allgemein von der Landesebene formuliert werden. Dieser Hin- weis wird von der Verordnungssoftware angezeigt, wenn der Arzt ein Höchstquoten-Präparat verordnet  einzelne Fachgruppen zu beziehen. Gelten beispielsweise in einem KV-Bereich für Allge- meinmediziner und für Internisten unterschiedliche Quoten und sind für andere Fachgruppen keine Quoten vereinbart, so ist dies abbildbar. Die Definition, für welche Fachgruppen Hin- weistexte und/oder Quoten gelten, erfolgt über die Unterelemente „fachgruppennummer“ oder „fachgruppenintervall“ (siehe 7.3.8.2 gruppenintervall(e) gleicht die Verordnungssoftware die 8. und 9. Stelle der lebenslangen Arztnummer (LANR) des Benutzers ab. Somit kann sichergestellt werden, dass fachgruppen- spezifische Regelungen in der Verordnungssoftware angezeigt werden können.  weistext in die Verordnungssoftware implementiert werden sollen, aber bei den restlichen Fachgruppen nur ein Hinweistext angezeigt werden soll, so sind diese explizit zu definieren. und dennoch ein „warnhinweis_ersetzung“ von der Landesebene definiert und/oder eine Quo- te benannt, sind die Angaben unabhängig von der Fachgruppenzugehörigkeit auf alle Ärzte zu beziehen.
+| ** | ***</hoechstquote_verordnungen*** |
+|---|---|
+|  | *****</hoechstquotenregelung*****Tabelle 62 – Erläuterung „hoechstquotenregelung“** Beliebig viele Höchstquotenregelungen können mit der vorliegenden Schnittstelle abgebildet  Sofern von der Landesebene gewünscht, können die Verordnungsalternative(n) als Wirk-  **Anzeige eines Hinweistextes für den Arzt ** In dem Unterelement   **Anzeigen des Hinweistextes und Controllingfunktion fachgruppenspezifisch möglich ** Es besteht die Möglichkeit, den Hinweistext und/oder die Quote(n) auf alle Ärzte, oder nur auf   und 7.3.8.3).   Anhand der von der Landesebene definierten Fachgruppennummer(n) und/oder der Fach- Wenn für bestimmte Fachgruppen eine Controllingfunktion (Definition der Quote) und ein Hin- Werden keine Angaben zum „fachgruppenintervall“ oder der „fachgruppennummer“ gemacht |
+|  |  |
+| *****</hoechstquote_verordnungen********</hoechstquotenregelung*** | |
+
+<warnhinweis_ersetzung V="Ezetrol  und Inegy unterliegen der Höchstquotenregelung und sollten nach Möglichkeit durch die Alternative Simvastatin ersetzt werden."/> </fachgruppenquote werden. Für jede einzelne Vergleichsgruppe wird ein Element angelegt. Beispielsweise ent- spricht die „hoechstquotenregelung“ für Ezetrol® und Inegy® einer Regelung. Durch die mög- liche Kombination von Elementen mit „einschluss“=„true“ und „einschluss“=„false“ ergeben sich flexible Definitionsmöglichkeiten. Diejenigen Präparate, welche als Unterelemente des Elementes „hoechstquotenregelung“ aufgezählt werden, sind die Gruppe der betroffenen Prä- parate. Diese Gruppe ist im Falle der Höchstquotenregelung identisch mit der Gruppe der auszutauschenden Präparate, die möglichst durch Verordnungsalternativen ersetzt werden soll. stoff(e), Wirkstoffgruppe, PZN, Handelsnamen, Standardaggregat, als ATC4 oder als ATC 5 Code(s) von der Landesebene benannt werden. Im Element „verordnungsalternative“ kann die Gruppe der alternativen Präparate definiert werden. „fachgruppenquote“ kann ein Hinweistext („warnhinweis_ersetzung“) fachgruppenspezifisch oder allgemein von der Landesebene formuliert werden. Dieser Hin- weis wird von der Verordnungssoftware angezeigt, wenn der Arzt ein Höchstquoten-Präparat verordnet  einzelne Fachgruppen zu beziehen. Gelten beispielsweise in einem KV-Bereich für Allge- meinmediziner und für Internisten unterschiedliche Quoten und sind für andere Fachgruppen keine Quoten vereinbart, so ist dies abbildbar. Die Definition, für welche Fachgruppen Hin- weistexte und/oder Quoten gelten, erfolgt über die Unterelemente „fachgruppennummer“ oder „fachgruppenintervall“ (siehe 7.3.8.2 gruppenintervall(e) gleicht die Verordnungssoftware die 8. und 9. Stelle der lebenslangen Arztnummer (LANR) des Benutzers ab. Somit kann sichergestellt werden, dass fachgruppen- spezifische Regelungen in der Verordnungssoftware angezeigt werden können.  weistext in die Verordnungssoftware implementiert werden sollen, aber bei den restlichen Fachgruppen nur ein Hinweistext angezeigt werden soll, so sind diese explizit zu definieren. und dennoch ein „warnhinweis_ersetzung“ von der Landesebene definiert und/oder eine Quo- te benannt, sind die Angaben unabhängig von der Fachgruppenzugehörigkeit auf alle Ärzte zu beziehen.
+
 
 ---
 
@@ -2403,9 +2395,7 @@ Summe aller verordneten betroffenen Präparate (Höchstquotenpräparate) im Zäh
 
 **Tabelle 63 – Erläuterung „hoechstquotenregelung /verordnungsalternative“**
 
-Im Element „verordnungsalternative“ können die alternativ
-
-niert werden.
+Im Element „verordnungsalternative“ können die alternativ  niert werden.
 
 ### 7.7.9 fachgruppenquote
 
@@ -2466,7 +2456,7 @@ Das Element hat folgenden Aufbau:
 | ***diagram*** | ** |
 |---|---|
 | ***attribute*** | ***Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required   ***** |
-| ***example*** | ***< hoechstquote_verordnungen <pzn einschluss="true" V="String"></pzn>  </hoechstquote_verordnungen*** |
+| ***example*** | ***< hoechstquote_verordnungen********</hoechstquote_verordnungen*** |
 
 **Tabelle 66 – Erläuterung „hoechstquotenregelung/fachgruppenquote/ hoechstqu** **te_verordnungen“**
 
@@ -2474,7 +2464,7 @@ Das Element hat folgenden Aufbau:
 
 Das Element „hoechstquote_bruttoumsatz“ steht innerhalb einer „choice“-Definition, welche 0  bis 1 Mal auftreten kann. Folglich ist es optional. Dieses Element wird dann von der Landes- ebene gefüllt, wenn die Quote der teuren Präparate im Verhältnis zur definierten Wirkstoff- gruppe anhand des Bruttoumsatzes berechnet werden soll. Die Vergleichsgruppe im Nenner  beinhaltet sowohl die Teuren als auch die Preiswerten, im Zähler ist die Summe des Brutto- umsatzes der teuren Präparate angegeben.
 
-V="0.0"> **o-**
+V="0.0"> <pzn einschluss="true" V="String"></pzn> **o-**
 
 
 ---
@@ -2488,7 +2478,7 @@ Das Element hat folgenden Aufbau:
 | ***diagram*** | ** |
 |---|---|
 | ***attribute*** | ***Name    Type    Use    Default    Fixed    Annotation  V  xs:decimal  required ***** |
-| ***example*** | ***< hoechstquote_bruttoumsatz <pzn V="String"></pzn>  </hoechstquote_bruttoumsatz*** |
+| ***example*** | ***< hoechstquote_bruttoumsatz********</hoechstquote_bruttoumsatz*** |
 
 **Tabelle 67 – Erläuterung „hoechstquotenregelung/fachgruppenquote/hoechstquote_verordnun**
 
@@ -2498,7 +2488,7 @@ Das Element hat folgenden Aufbau:
 
 Siehe 7.3.8.7.
 
-V="0.0">
+V="0.0"> <pzn V="String"></pzn>
 
 ---
 
@@ -2598,7 +2588,7 @@ Das Element „biosimilar“ hat folgenden Aufbau:
 
 | ***diagram*** | ** |
 |---|---|
-| ***example*** | ***<biosimilar> ********>  </biosimilar>*** |
+| ***example*** | ***<biosimilar> ********</biosimilar>*** |
 
 **Tabelle 70 – Erläuterung „biosimilarquotenregelung/biosimilar**
 
@@ -2618,17 +2608,15 @@ Siehe 7.3.3.
 
 ---
 
-(ARV)
-
 #### 7.8.8.4 fachgruppenquote
 
 Das Element hat folgenden Aufbau:
 
 | ***diagram*** | ** |
 |---|---|
-| ***example*** | ***<fachgruppenquote> ********>*** |
+| ***example*** | ***<fachgruppenquote> ********</fachgruppenquote*** |
 
-**Tabelle 71 – Erläuterung „biosimilarquotenregelung/biosimilar**
+**Tabelle 71 – Erläuterung „biosimilarquotenregelung/biosimilar/fachgruppenquote“**
 
 #### 7.8.8.5 fachgruppenintervall
 
@@ -2642,6 +2630,8 @@ Siehe 7.3.8.3.
 
 Das Element „quote_biosimilar_ddd“ steht innerhalb einer „choice“-Definition, welche 0 bis 1  Mal auftreten kann. Folglich ist es optional. Dieses Element wird dann von der Landesebene  gefüllt, wenn die Quote der Biosimilars im Verhältnis zur definierten Wirkstoffgruppe anhand  der verordneten DDD berechnet werden soll. Im Attribut „V angegeben, Bitte beachten Sie, dass alle PZN und die dazugehörigen DDD von der Landes- ebene für die geregelte Arzneimittelgruppe (z.B. Erythropoetine) bereit gestellt werden müs- sen, sofern ein Controlling auf DDD-Basis gewünscht wird.
 
+“ wird die entsprechende Quote
+
 Das Element hat folgenden Aufbau:
 
 | ***diagram*** | ** |
@@ -2653,10 +2643,9 @@ Das Element hat folgenden Aufbau:
 
 **elung/biosimilar/fachgruppenquote/quote_biosi**
 
-**/fachgruppenquote“**
+(ARV)
 
-<fachgruppenintervall intervall_start="2" intervall_stop="2"/> <quote_biosimilar_ddd V="0.0"/> <warnhinweis_ersetzung V="String"/> </fachgruppenquote“ wird die entsprechende Quote
-
+<fachgruppenintervall intervall_start="2" intervall_stop="2"/> <quote_biosimilar_ddd V="0.0"/> <warnhinweis_ersetzung V="String"/>
 
 ---
 
@@ -2733,11 +2722,11 @@ Das optionale Element „infomassnahmen_liste“ enthält mindestens ein Element
 
 | ***diagram*** | ** |
 |---|---|
-| ***example*** | ***<infomassnahmenregelung> *****    **  *****</infomassnahmenregelung>*** |
+| ***example*** | ***<infomassnahmenregelung> ********<von V="6"/> ***  *****<fachgruppennummer V="2"/> ********</infomassnahmenregelung>*** |
 | ***specific*** | ***<infomassnahmenregelung>  <handelsname einschluss="true" V="="Indomet-*** |
 | Das Element „infomassnahmenregelung“ hat folgenden Aufbau: ***diagram ********example  <infomassnahmenregelung>*** | |
 
-<pzn einschluss="true" V="String"> <ddd_je_packung V="0.0"/> </pzn> <warnhinweis_pvs V="String"/> <verweis_dokument V="String"/> <bedingungs_liste> <bedingung einschluss="true"> <altersgrenze <von V="6"/> <bis V="18"/> <unit V="J"/> </altersgrenze> <geschlecht V=“1“ S=“1.2.276.0.76.5.232“/> <fachgruppen_liste <fachgruppennummer V="2"/> </fachgruppen_liste> </bedingung> </bedingungs_liste> ratiopharm 25 mg Hartkapseln"/>
+<pzn einschluss="true" V="String"> <ddd_je_packung V="0.0"/> </pzn> <warnhinweis_pvs V="String"/> <verweis_dokument V="String"/> <bedingungs_liste> <bedingung einschluss="true"> <altersgrenze <bis V="18"/> <unit V="J"/> </altersgrenze> <geschlecht V=“1“ S=“1.2.276.0.76.5.232“/> <fachgruppen_liste </fachgruppen_liste> </bedingung> </bedingungs_liste> ratiopharm 25 mg Hartkapseln"/>
 
 
 ---
@@ -2746,7 +2735,7 @@ Das optionale Element „infomassnahmen_liste“ enthält mindestens ein Element
 |---|---|
 | ** | ***</infomassnahmenregelung> *****Tabelle 76 – Erläuterung „infomassnahmenregelung“ ** Es können beliebig viele Infomaßnahmenregelungen existieren, für jede wird ein Element an- Es können ein oder mehrere Unterelemente „verweis_dokument“ vorhanden sein. Dieses  Falls eine Information abhängig von Alter und/oder Geschlecht des Patienten und/oder der  Falls die Information unabhängig von Alter und Geschlecht des Patienten oder der Fachgrup-**7.9.1** Siehe 7.3.1. **7.9.2** Siehe 7.3.2. **7.9.3** Siehe 7.3.3. **7.9.4** Siehe 7.3.4. |
 |  | **7.9.5** |
-| ***aufgeführt."/> ********</infomassnahmenregelung>*** | |
+| *****</infomassnahmenregelung>*** | |
 
 Siehe 7.3.5.
 
@@ -2756,7 +2745,7 @@ Siehe 7.3.6.
 
 (ARV)
 
-hierbei um einen potenziell inadäquaten Wirkstoff für ältere Menschen. Der Wirkstoff ist in der Priscus-Liste <warnhinweis_pvs V="Sie haben ein Präparat mit dem Wirkstoff Indometacin gewählt. Es handelt sich <verweis_dokument V="71_verweise/Information1.pdf"/> <verweis_dokument V="71_verweise/Information1.txt"/> <bedingungs_liste> <bedingung> <altersgrenze von="65"  unit="J"/> </bedingung> </bedingungs_liste> gelegt. Die Unterelemente „pzn“, „handelsname“, „standardaggregat“, „wirkstoff“, „atc 5“, „wirkstoffgruppe“ und „atc 4“ sind optional, mindestens eines dieser Elemente muss jedoch vorhanden sein, um die Infomaßnahme zuordnen zu können. Element enthält den Namen der Datei mit der zur Regelung passenden Information. Da das Element „verweis_dokument“ optional ist, besteht die Möglichkeit, ohne die Verwendung von zusätzlichen Dokumenten die Information zum Präparat im Element „warnhinweis_pvs“ unter- zubringen. Fachgruppe des Arztes angezeigt werden soll, müssen im Element „bedingungs_liste“ eine oder mehrere Bedingungen erstellt werden. Die geschlechts- und/oder alters- und/oder fach- gruppenspezifischen Texte im Warnhinweis und den verlinkten Dokumenten werden nur dann angezeigt, wenn mindestens  der Bedingungen (Bezug auf Element „bedingung“ mit den entsprechenden Kindelementen) aus der Liste zutrifft. Es ist auch möglich, einen Warnhinweis für Kleinkinder (Angabe in Monaten) zur Anzeige zu bringen.  pe des Arztes angezeigt werden soll, wird das optionale Element „bedingungs_liste“ in der Regelung nicht verwendet. pzn handelsname standardaggregat wirkstoff atc 5
+hierbei um einen potenziell inadäquaten Wirkstoff für ältere Menschen. Der Wirkstoff ist in der Priscus-Liste aufgeführt."/> <warnhinweis_pvs V="Sie haben ein Präparat mit dem Wirkstoff Indometacin gewählt. Es handelt sich <verweis_dokument V="71_verweise/Information1.pdf"/> <verweis_dokument V="71_verweise/Information1.txt"/> <bedingungs_liste> <bedingung> <altersgrenze von="65"  unit="J"/> </bedingung> </bedingungs_liste> gelegt. Die Unterelemente „pzn“, „handelsname“, „standardaggregat“, „wirkstoff“, „atc 5“, „wirkstoffgruppe“ und „atc 4“ sind optional, mindestens eines dieser Elemente muss jedoch vorhanden sein, um die Infomaßnahme zuordnen zu können. Element enthält den Namen der Datei mit der zur Regelung passenden Information. Da das Element „verweis_dokument“ optional ist, besteht die Möglichkeit, ohne die Verwendung von zusätzlichen Dokumenten die Information zum Präparat im Element „warnhinweis_pvs“ unter- zubringen. Fachgruppe des Arztes angezeigt werden soll, müssen im Element „bedingungs_liste“ eine oder mehrere Bedingungen erstellt werden. Die geschlechts- und/oder alters- und/oder fach- gruppenspezifischen Texte im Warnhinweis und den verlinkten Dokumenten werden nur dann angezeigt, wenn mindestens  der Bedingungen (Bezug auf Element „bedingung“ mit den entsprechenden Kindelementen) aus der Liste zutrifft. Es ist auch möglich, einen Warnhinweis für Kleinkinder (Angabe in Monaten) zur Anzeige zu bringen.  pe des Arztes angezeigt werden soll, wird das optionale Element „bedingungs_liste“ in der Regelung nicht verwendet. pzn handelsname standardaggregat wirkstoff atc 5
 
 ---
 
@@ -2778,9 +2767,7 @@ Die hinterlegten Dokumente müssen in einem Unterverzeichnis abgelegt werden, we
 
 *geltungsbereich_kv*> ist dabei der Platzhalter für die Nummer der KV aus der Schlüsseltabel-
 
-le und entspricht dem Attribut *V* im Element* <geltungsbereich_kv* , welches nur einmal in jeder
-
-ARV-Datei vorkommt.
+le und entspricht dem Attribut  ARV-Datei vorkommt.
 
 Das Unterverzeichnis, welches die Dokumente enthält, wird zusammen mit der ARV- Stammdatei gezippt ausgeliefert. Die Anzahl und Länge der hinterlegten Dokumente sollte  begrenzt sein, wenn es sich nicht um Internet-Links handelt.
 
@@ -2794,7 +2781,11 @@ Das Unterverzeichnis, welches die Dokumente enthält, wird zusammen mit der ARV-
 
 (ARV)
 
-<bedingung> <altersgrenze <von V="65"/> <unit V="J"/> </altersgrenze> </bedingung> <bedingung > <geschlecht V=“1“ S=“1.2.276.0.76.5.232“/> </bedingung>
+*V* im Element* <geltungsbereich_kv*
+
+, welches nur einmal in jeder
+
+<bedingung> <altersgrenze </altersgrenze> </bedingung> <bedingung > <geschlecht V=“1“ S=“1.2.276.0.76.5.232“/> </bedingung> <von V="65"/> <unit V="J"/>
 
 ---
 
@@ -2847,11 +2838,11 @@ o-
 
 **Tabelle 80 - Erläuterung**  **„infomassnahmenregelung/bedingungs_liste/bedingung/altersgrenze/von“**
 
-##### 7.9.10.2.2
+##### 7.9.10.2.2 bis
 
 Das Element „bis“ ist äquivalent aufgebaut wie das Element „von“.
 
-##### 7.9.10.2.3
+##### 7.9.10.2.3 unit
 
 Die Angabe des Elements „unit“ ist im Element „altersgrenze“ verpflichtend. Es muss genau  einmal innerhalb des Elements „altersgrenze“ vorkommen und muss im Attribut V einen der  Werte T (Tag), W (Woche), M (Monat), J (Jahr)
 
@@ -2859,10 +2850,6 @@ Die Angabe des Elements „unit“ ist im Element „altersgrenze“ verpflichte
 |---|---|
 | ***attribute*** | ***Name    Type    Use    Default    Fixed    V  zeit_einheit_value  T, W, M, J  required ***** |
 | ***example <unit V="J"/>*** |  |
-
-##### bis
-
-##### unit
 
 **Tabelle 81 : Erläuterung**
 
@@ -2957,7 +2944,7 @@ Siehe 7.3.1.
 
 Siehe 7.3.2.
 
-<pzn einschluss="true" V="String"> <ddd_je_packung V="0.0"/> </pzn> <warnhinweis_pvs V="String"/> <verweis_dokument V="String"/> <handelsname einschluss="true" V="Zypadhera"/> <warnhinweis_pvs V="Vorteile einer Injektionsbehandlung mit ‚Zypadhera’ gegenüber der oralen Behandlung mit Olanzapin wurden in den Zulassungsunterlagen nicht dargestellt. <verweis_dokument V="51_verweise/IBA3.pdf"/> "/> <verweis_dokument V="51_verweise/BA3.txt"/>
+<pzn einschluss="true" V="String"> <ddd_je_packung V="0.0"/> </pzn> <warnhinweis_pvs V="String"/> <verweis_dokument V="String"/> <handelsname einschluss="true" V="Zypadhera"/> <warnhinweis_pvs V="Vorteile einer Injektionsbehandlung mit ‚Zypadhera’ gegenüber der oralen Behandlung mit Olanzapin wurden in den Zulassungsunterlagen nicht dargestellt. "/> <verweis_dokument V="51_verweise/IBA3.pdf"/> <verweis_dokument V="51_verweise/BA3.txt"/>
 
 ---
 
@@ -3152,41 +3139,31 @@ V=“14“ /> 7.11.1.3.1.2.1 fachgruppenintervall Das Element <fachgruppeninterv
 
 ---
 
-##### 7.11.1.4.1
+(ARV)
+
+##### 7.11.1.4.1 pzn
 
 Siehe 7.3.1.
 
-##### 7.11.1.4.2
+##### 7.11.1.4.2 handelsname
 
 Siehe 7.3.2.
 
-##### 7.11.1.4.3
+##### 7.11.1.4.3 standardaggregat
 
 Siehe 7.3.3.
 
-##### 7.11.1.4.4 (ARV)
-
-##### pzn
-
-##### handelsname
-
-##### standardaggregat
-
-##### wirkstoff
+##### 7.11.1.4.4 wirkstoff
 
 Siehe 7.3.4
 
-##### 7.11.1.4.5
+##### 7.11.1.4.5 atc4
 
 Siehe 7.3.7.
 
-##### 7.11.1.4.6
+##### 7.11.1.4.6 wirkstoffgruppe
 
 Siehe 7.3.6.
-
-##### atc4
-
-##### wirkstoffgruppe
 
 ##### 7.11.1.4.7 atc5
 
@@ -3262,9 +3239,7 @@ siehe Kapitel 7.14.1.4.7.1
 
 ##### 7.11.1.4.8 verordnungsalternative
 
-Das Element <verordnungsalternative> enthält eine Reihe von möglichen Verordnungsalter-
-
-nativen. Es kann das optionale Attribut „verschreibungspflicht“ besitzen.
+Das Element <verordnungsalternative> enthält eine Reihe von  nativen. Es kann das optionale Attribut „verschreibungspflicht“ besitzen.  möglichen Verordnungsalter-
 
 Ebenso muss es mindestens eines der folgenden Kindelemente enthalten: - <pzn> und/oder
 
@@ -3316,9 +3291,11 @@ Siehe 7.10.9.
 
 ## 7.12 iww_indikationsbaum
 
-Das Element <iwwder_indikationsbaum> beinhaltet die hierarchische Struktur  Indikationen.
+Das Element <iwwder_indikationsbaum> beinhaltet die hierarchische Struktur
 
 Eine einzelne Indikation beinhaltet Angaben zu bevorzugten Wirkstoffen im Kontext der jewei- ligen Indikation.
+
+Indikationen.
 
 | ***diagram*** | ** |
 |---|---|
@@ -3413,9 +3390,7 @@ abgebildet.  diagram  example <iww_anmerkung V="Metformin und Glibenclamid: Rese
 
 *** example***
 
-***<darreichungsform>***  ***…..***  ***</darreichungsform>***
-
-***…..***  ***</link>***
+***<darreichungsform>***  ***…..***  ***</darreichungsform>***  ***…..***  ***</link>***
 
 - ***7.12.1.3.1.1.1 darreichungsform***
 
@@ -3455,9 +3430,7 @@ siehe Kapitel 7.10.9 verweis_dokument (ARV)
 
 ## 7.13 iww_kategorien
 
-Das Element <iww_kategorien> gruppiert alle in der ARV-Stammdatei verwendeten IWW-
-
-Kategorien.
+Das Element <iww_kategorien> gruppiert alle in der ARV-Stammdatei verwendeten IWW- Kategorien.
 
 Es besitzt das Kindelement <kategorie>.
 
@@ -3631,25 +3604,17 @@ siehe Kapitel 7.3.8.2
 
 ***diagram***
 
-***example***
-
 ***<bedingung >***
 
-***<fachgruppen_liste>***
-
-***</fachgruppen_liste>***  ***<bedingung>***
+*** example***  ***<fachgruppen_liste>***   ***</fachgruppen_liste>***  ***<bedingung>***
 
 ***diagram***
 
-***<fachgruppen_liste>***
+***example***
 
-*** example***
+***<fachgruppen_liste>***  ***<fachgruppenintervall intervall_start=“…“ intervall_stop=“…“ />***  ***</fachgruppen_liste>***   ***<fachgruppen_liste>***  ***<fachgruppennummer V=“…“ />***
 
-***<fachgruppenintervall intervall_start=“…“ intervall_stop=“…“ />***  ***</fachgruppen_liste>***
-
-***<fachgruppen_liste>***  ***<fachgruppennummer*** ***</fachgruppen_liste>***
-
-***V=“…“ />***
+***</fachgruppen_liste>***
 
 fachgruppen_liste Das XML-Element <fachgruppen_liste> enthält die Fachgruppen, für welche die Zielvereinba- Dieses Element muss entweder mindestens ein Kindelement <fachgruppenintervall> oder mindestens ein Kindelement  <fachgruppennummer> enthalten.
 

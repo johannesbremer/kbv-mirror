@@ -1,6 +1,6 @@
 |  | ***IT in der Arztpraxis*** |
 |---|---|
-|  | *Anforderungskatalog QS* |
+|  | *Anforderungskatalog* |
 |  | [KBV_ITA_VGEX_Anforderungskatalog_QS |
 |  |  |
 |  | Dezernat Digitalisierung und IT |
@@ -23,13 +23,13 @@ Die Änderungen vom 14.11.2025 treten zum 01.01.2026 in Kraft.
 
 | **Version Datum** |  | **Autor Änderung** |  | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 1.04 | 14.11.2025 KBV |  | Streichung P1-265,   Überarbeitung P1-266      Umwandlung K2-264 in konditio- | Abschaltung KV | 9 |
-| 1.03 | 14.02.2025 KBV |  | -  P1-266: Neu aufgenommen | KIM als | 9 |
-| 1.02 | 07.05.2018 KBV |  | -  P1-261, P1-262 und P1-263  -  P1-265: Neu aufgenommen | Aktualisierung der | 9 |
+| 1.04 | 14.11.2025 KBV |  | Streichung P1-265,   Überarbeitung P1-266      Umwandlung K2-264 in konditio- | Abschaltung | 9 |
+| 1.03 | 14.02.2025 KBV |  | -  P1-266: Neu aufgenommen | KIM | 9 |
+| 1.02 | 07.05.2018 KBV |  | -  P1-261, P1-262 und P1-263  -  P1-265: Neu aufgenommen | Aktualisierung | 9 |
 | 1.01 | 07.05.2014 KBV |  | Red. Änderungen |  | 13 |
-| 1.00 | 31.03.2014 KBV |  |  | Einführung der |  |
+| 1.00 | 31.03.2014 KBV |  |  | Einführung |  |
 
-nale Pflichtfunktion P2-264 gestrichen Connect gungsweg KV-Connect Spezi- fikation Schnittstelle QS Holmium-Laser- Therapie Übertra-
+nale Pflichtfunktion P2-264 gestrichen Connect als Übertra- gungsweg KV-Connect Spezi- fikation Schnittstelle Holmium-Laser- Therapie KV- QS
 
 ---
 
@@ -137,9 +137,10 @@ Optionale Funktionen sind wie folgt gekennzeichnet:
 |---|---|
 | **K8-30** | **Funktionsbezeichnung                                                                            (2-80)** |
 
-Ident-Nummer einer optionalen Funktion Ident -Nummer einer älteren Version
+Ident-Nummer einer optionalen Funktion Ident
 
-(2-70)
+(2-70) -Nummer einer älteren Version
+
 
 ---
 
@@ -155,11 +156,9 @@ Ident-Nummer einer optionalen Funktion Ident -Nummer einer älteren Version
 
 Die Bedieneroberfläche der Software muss eine lückenlose und korrekte Eingabe aller rele- vanten Bewegungsdaten bzgl. der Holmium-Laser-Therapie Jahresstatistik ermöglichen.
 
-Die in der
+Die in der Schnittstellenbeschreibung
 
 [KBV_ITA_VGEX_Schnittstelle_QSHLT]  erfassbar sein.
-
-Schnittstellenbeschreibung
 
 | **PFLICHTFUNKTION QS Holmium-Laser-Therapie** | |
 |---|---|
@@ -179,17 +178,21 @@ Korrekturen.
 
 01.01
 
+QS
+
 festgelegten Datenelemente müssen 31.12
+
+### Melde-
 
 ### Untersuchungsjahr
 
+### quartal
+
 Abbildung 1: Berichtszeiträume
 
-QS Holmium-Laser-Therapie 31.03
+Holmium-Laser-Therapie  vollständig 31.03
 
-### Melde- quartal
-
-vollständig 30.06
+30.06
 
 ### Prüfquartal
 
@@ -218,7 +221,7 @@ chen Krankenversicherung berücksichtigt.
 |---|---|
 | **P1-200** | **Plausibilitäten** |
 
-Die erstellte Jahresstatistik muss den
+Die erstellte Jahresstatistik muss
 
 [KBV_ITA_VGEX_Plausi_QSHLT] entsprechen.
 
@@ -230,11 +233,13 @@ Die Jahresstatistik wird gegen die Plausibilitäten [KBV_ITA_VGEX_Plausi_QSHLT] 
 
 Über die Plausibilitäten in den Pflichtfeldern darf der Anwender sich nicht hinwegsetzen, die  nicht valide Dokumentation darf nicht an die Datenannahmestelle weitergereicht werden.
 
-der gesetzli-
-
-vorgegebenen Plausibilitäten
+den vorgegebenen
 
 Anwender angezeigt.
+
+der gesetzli-
+
+Plausibilitäten
 
 
 ---
@@ -290,7 +295,7 @@ Die Jahresstatistik ist im Meldequartal an die Datenannahmestelle zu übermittel
 |---|---|
 | **P1-265** | **QSHLT auf Basis von KV-Connect** |
 
-Die Software muss dem Anwender eine Funktion für die  Dokumentationen auf Basis von KV-Connect bereitstellen.
+Die Software muss dem Anwender eine Funktion für die Übertragung der QSHLT- Dokumentationen auf Basis von KV-Connect bereitstellen.
 
 **Begründung:**
 
@@ -300,11 +305,11 @@ Zum 01.10.2018 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstü
 
 - (1) Die Software stellt dem Anwender ab dem vierten Quartals 2018 die Funktionen gemäß  der folgenden Anforderungsdokumente bereit:
 
--  „Spezifikation KV-Connect Anwendungsdienst "eDokumentation" mit KV-
+-  „Spezifikation KV-Connect Anwendungsdienst "eDokumentation" mit KV-Connect“ in
 
 - der stets aktuellen Version **Fehler! Verweisquelle konnte nicht gefunden werden.**
 
--  „KV-Connect  Anbindung an KV-Connect“ in der stets aktuellen Version [
+-  „KV-Connect  Anbindung an KV-Connect“ in der stets aktuellen Version [**Fehler!**
 
 - **Verweisquelle konnte nicht gefunden werden.**
 
@@ -312,7 +317,7 @@ Zum 01.10.2018 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstü
 |---|---|
 | **P1-266** | **QSHLT auf Basis von KIM** |
 
-Die Software muss dem Anwender eine Funktion für die Übertragung der  Dokumentationen auf Basis von KIM bereitstellen.
+Die Software muss dem Anwender eine Funktion für die Übertragung der QSHLT- Dokumentationen auf Basis von KIM bereitstellen.
 
 **Begründung:**
 
@@ -329,14 +334,6 @@ Zum 01.10.2025 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstü
 **Bedingung:**
 
 - (1) Bis zum 30. September 2025 ist die Umsetzung dieser Anforderung für die Software frei- willig.
-
-Übertragung der QSHLT -
-
-- Connect“ in
-
-- **Fehler!**
-
-QSHLT-
 
 
 ---
@@ -362,7 +359,7 @@ Es sind folgende Import-Status möglich:
 | **Status** | **Beschreibung** |
 |---|---|
 | OK | Die Datei wurde erfolgreich importiert. |
-| Datei existiert bereits | cher Zuordnung (ID, BSNR, LANR) vorhanden ist. |
+| Datei existiert bereits | Die Datei wurde nicht importiert, da bereits ein Datensatz mit glei- |
 | Fehlgeschlagen | Beim Import der Datei sind Fehler aufgetreten, weshalb diese nicht |
 
 Die E-Mail KIM-Nachricht mit der Rückmeldung wird an die Absender  von der aus der Anwender (Arzt) die exportierten Dateien über  hat.
@@ -375,7 +372,7 @@ Das PVS kann muss dem Anwender den Importstatus diese Rückmeldungs-E-Mail in ge
 
 - (2) Ab dem 1. April 2026 ist die Umsetzung dieser Anforderung für die Software verpflichtend.
 
--Datei geprüft und eine E-Mail KIM-Nachricht mit dem
+E-Mail-Versand.  -Datei geprüft und eine E-Mail KIM-Nachricht mit dem
 
 ### 2.2.2 Export der Daten
 
@@ -389,11 +386,7 @@ Das System muss
 
 - bung [KBV_ITA_VGEX_Schnittstelle_QSHLT] exportieren,
 
-QSHLT
-
-E-Mail-Versand.
-
-das KIM -Verfahren gemäß der
+QSHLT das KIM-Verfahren gemäß der
 
 Versand
 
@@ -403,7 +396,7 @@ Adresse geschickt,
 
 KV-Connect KIM übermittelt -
 
-Die Datei wurde nicht importiert, da bereits ein Datensatz mit glei- gespeichert werden konnte. Es handelt sich entweder um Plausibi- litätsfehler oder die Datei wurde außerhalb des Berichtszeitraumes (s. P1-20) übermittelt. -
+cher Zuordnung (ID, BSNR, LANR) vorhanden ist. gespeichert werden konnte. Es handelt sich entweder um Plausibi- litätsfehler oder die Datei wurde außerhalb des Berichtszeitraumes (s. P1-20) übermittelt. -
 
 
 ---
@@ -441,11 +434,11 @@ sen.
 | **Referenz** | **Dokument** |
 |---|---|
 | [KBV_ITA_VGEX_XML-Schnittstellen] | Austausch von XML-Daten in der vertragsärzt- |
-| [KBV_ITA_VGEX_Schnittstelle_QSHLT] | Schnittstellenbeschreibung QS |
-| [KBV_ITA_AHEX_Ausfuellhinweise_QSHLT] | Ausfüllhinweise zur Jahresstatistik für |
+| [KBV_ITA_VGEX_Schnittstelle_QSHLT] | Schnittstellenbeschreibung |
+| [KBV_ITA_AHEX_Ausfuellhinweise_QSHLT] | Ausfüllhinweise zur Jahresstatistik für Holmi- |
 | [KBV_ITA_VGEX_Plausi_QSHLT] | Berechnungsvorschriften zur Jahresstatistik für |
 | [KBV_ITA_AHEX_Handbuch_Kryptomodul] | KBV-Kryptomodul XKM Anwenderhandbuch |
 | [1] | Qualitätssicherungsvereinbarung |
 | [Spezifikation_eDoku_KIM] | Spezifikation KIM Anwendungsdienst "eDoku- |
 
-lichen Versorgung Laser-Therapie um-Laser-Therapie Holmium-Laser-Therapie Laser-Therapie mentation V2.0 “ in der stets aktuellen Version Holmium- Holmi- Holmium-
+lichen Versorgung Laser-Therapie um-Laser-Therapie Holmium-Laser-Therapie Laser-Therapie mentation V2.0 “ in der stets aktuellen Version Holmium- Holmium-

@@ -77,6 +77,4 @@ Wenn Sie einen telefonischen Rückruf der Krankenkasse wünschen, geben Sie dies
 
 Themenseite Vorsorge/Kur: [http://www.kbv.de/320215](http://www.kbv.de/320215)
 
-Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 5 MB ):
-
-[http://www.kbv.de/873744](http://www.kbv.de/873744)
+Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 5 MB):  [http://www.kbv.de/873744](http://www.kbv.de/873744)

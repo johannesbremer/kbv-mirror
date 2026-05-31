@@ -599,7 +599,7 @@ dBopt keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) ab
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 
-Gerätetechnik: Sonderversorgung HNO-ärztlichen Vorschlag zur Ge- rätetechnik wobei T=Tag, M=Monat und J=Jahr ist) Verordnung und Verordnung) ODER (Nach Verordnung) müssen ausgefüllt sein angekreuzt wurde. angekreuzt wurde,
+Gerätetechnik: HNO-ärztlichen Vorschlag zur Ge- Sonderversorgung rätetechnik wobei T=Tag, M=Monat und J=Jahr ist) Verordnung und Verordnung) ODER (Nach Verordnung) müssen ausgefüllt sein angekreuzt wurde. angekreuzt wurde,
 
 ---
 
@@ -711,7 +711,7 @@ Gerätetechnik: Sonderversorgung HNO-ärztlichen Vorschlag zur Ge- rätetechnik 
 | **25.** | **Sprachtest möglich** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | **ja** | true / false | ja | höchstens eine Antwort möglich | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | **nein** | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| **26.** | **Erzieltes Sprachverstehen im Freifeld** | numerisch (3 Ziffern und | ja; | Feld nur ausfüllbar, wenn bei 25. "ja" | 0-100% | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **26.** | **Erzieltes Sprachverstehen im Freifeld** | numerisch (3 Ziffern und | aber nur wenn bei 25. "ja" | Feld nur ausfüllbar, wenn bei 25. "ja" | 0-100% | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | **27.** | **Erzieltes Sprachverstehen im Freifeld** | numerisch (3 Ziffern und | 0-100 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | **28.** | **keine FF-Untersuchung möglich:** | numerisch (2 Ziffern und | nein | Feld nur ausfüllbar, wenn bei 25. "nein" | 0-10 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | **29.** | **keine FF-Untersuchung möglich:** | numerisch (2 Ziffern und | 0-10 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -720,4 +720,4 @@ Gerätetechnik: Sonderversorgung HNO-ärztlichen Vorschlag zur Ge- rätetechnik 
 |  | ja | true / false | nein | höchstens eine Antwort möglich | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | nein | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 
-mit Hörgerät(en): _____ % (E/Z) mit Hörgerät(en): _____ dB (SVS) Hörweite (m) ohne HG Hörweite (m) mit HG mittels APHAB-Fragebogen (vor / nach HG-Versorgung): _____ % keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) aber nur wenn bei 25. "ja" mindestens eine Antwort angekreuzt wurde; angekreuzt wurde, mehrere Antworten möglich angekreuzt wurde, mehrere Antworten möglich angekreuzt wurde. angekreuzt wurde, mehrere Antworten möglich angekreuzt wurde, mehrere Antworten möglich
+mit Hörgerät(en): _____ % (E/Z) mit Hörgerät(en): _____ dB (SVS) Hörweite (m) ohne HG Hörweite (m) mit HG mittels APHAB-Fragebogen (vor / nach HG-Versorgung): _____ % keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) ja; angekreuzt wurde; mindestens eine Antwort angekreuzt wurde, mehrere Antworten möglich angekreuzt wurde, mehrere Antworten möglich angekreuzt wurde. angekreuzt wurde, mehrere Antworten möglich angekreuzt wurde, mehrere Antworten möglich

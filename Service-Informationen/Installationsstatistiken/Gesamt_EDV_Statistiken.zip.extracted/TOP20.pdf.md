@@ -4,200 +4,126 @@
 
 #### Datenstand: 30.06.2025
 
-**Id**
-
-112
-
-280
-
-462
-
-216
-
-498
-
-210
-
-243
-
-203
-
-244
-
-266
-
-457
-
-252
-
-**Praxissoftware**
-
-**TURBOMED**
-
-**CGM MEDISTAR BLACK PRO**
-
-**medatixx**
-
-**x.isynet**
-
-**T 2med**
-
-**Medical Office**
-
-**x.concept**
-
-**ALBIS**
-
-**QUINCY WIN**
-
-**x.comfort**
-
-**tomedo**
-
-**CGM M1 PRO**
+**Id Praxissoftware**
 
 **Anbieter**
 
-CompuGroup Medical Deutschland AG
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-CompuGroup Medical Deutschland AG
+112 **TURBOMED**
 
-medatixx GmbH & Co. KG
-
-medatixx GmbH & Co. KG
-
-T 2med GmbH & Co. KG
-
-INDAMED EDV-Entwicklung und Vertrieb GmbH
-
-medatixx GmbH & Co. KG
-
-CompuGroup Medical Deutschland AG
-
-Frey ADV GmbH
-
-medatixx GmbH & Co. KG
-
-Zollsoft GmbH
-
-CompuGroup Medical Deutschland AG 1
-
-**Installationen 2.Q.2025**
-
-1 991
-
-1 951
-
-1 675
-
-1 576
-
-1 556
-
-1 508
-
-1 232
-
-1 107
-
-1 056
-
-928
-
-795
-
-702
-
-**Installationen 1.Q.2025**
+CompuGroup Medical Deutschland AG 1 991
 
 2 060
 
-1 942
-
-1 617
-
-1 601
-
-1 504
-
-1 494
-
-1 267
-
-1 133
-
-1 072
-
-968
-
-748
-
-722
-
-**Differenz**
-
 -69
+
+280 **CGM MEDISTAR BLACK PRO** CompuGroup Medical Deutschland AG 1 951
+
+1 942
 
 9
 
+462 **medatixx**
+
+medatixx GmbH & Co. KG 1 675
+
+1 617
+
 58
+
+216 **x.isynet**
+
+medatixx GmbH & Co. KG 1 576
+
+1 601
 
 -25
 
+498 **T 2med**
+
+T 2med GmbH & Co. KG 1 556
+
+1 504
+
 52
+
+210 **Medical Office**
+
+INDAMED EDV-Entwicklung und Vertrieb GmbH 1 508 1 494
 
 14
 
+243 **x.concept**
+
+medatixx GmbH & Co. KG 1 232
+
+1 267
+
 -35
+
+203 **ALBIS**
+
+CompuGroup Medical Deutschland AG 1 107
+
+1 133
 
 -26
 
+244 **QUINCY WIN**
+
+Frey ADV GmbH 1 056
+
+1 072
+
 -16
+
+266 **x.comfort**
+
+medatixx GmbH & Co. KG 928
+
+968
 
 -40
 
+457 **tomedo**
+
+Zollsoft GmbH 795
+
+748
+
 47
 
+252 **CGM M1 PRO**
+
+CompuGroup Medical Deutschland AG 702
+
+722
+
 -20
+
+1
 
 
 ---
 
-**Id**
+**Id Praxissoftware**
 
-086
+086 **DURIA**
 
-135
+135 **EL - Elaphe Longissim**
 
-083
+083 **PegaMed**
 
-060
+060 **Data-AL**
 
-261
+261 **S 3-Win**
 
-488
+488 **inSuite**
 
-030
+030 **Praxis-Programm**
 
-062
-
-**Praxissoftware**
-
-**DURIA**
-
-**EL - Elaphe Longissim**
-
-**PegaMed**
-
-**Data-AL**
-
-**S 3-Win**
-
-**inSuite**
-
-**Praxis-Programm**
-
-**EVA**
+062 **EVA**
 
 **Anbieter**
 
@@ -219,57 +145,53 @@ MediSoftware Computersysteme für Ärzte
 
 Abasoft EDV-Programme GmbH 2
 
-**Installationen 2.Q.2025**
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
 613
 
-506
-
-437
-
-376
-
-334
-
-273
-
-202
-
-168
-
-**Installationen 1.Q.2025**
-
 608
-
-517
-
-430
-
-383
-
-347
-
-290
-
-203
-
-168
-
-**Differenz**
 
 5
 
+506
+
+517
+
 -11
+
+437
+
+430
 
 7
 
+376
+
+383
+
 -7
+
+334
+
+347
 
 -13
 
+273
+
+290
+
 -17
 
+202
+
+203
+
 -1
+
+168
+
+168
 
 0
 
@@ -366,59 +288,57 @@ CompuGroup Medical Deutschland AG 1
 
 50
 
-**Installationen 1.Q.2025**
+**Installationen 1.Q.2025 Differenz**
 
 222
 
-154
-
-109
-
-100
-
-92
-
-97
-
-91
-
-85
-
-73
-
-79
-
-70
-
-57
-
-53
-
-**Differenz**
-
 -1
+
+154
 
 -3
 
+109
+
 1
+
+100
 
 -5
 
+92
+
 0
+
+97
 
 -7
 
+91
+
 -2
 
+85
+
 1
+
+73
 
 4
 
+79
+
 -2
+
+70
 
 1
 
+57
+
 -1
+
+53
 
 -3
 
@@ -427,83 +347,61 @@ CompuGroup Medical Deutschland AG 1
 
 **Id Praxissoftware**
 
-252 **CGM M1 PRO**
-
-498 **T 2med**
-
-243 **x.concept**
-
-343 **SAP Ambulatory Care Management**
-
-314 **IMedOne**
-
-261 **S 3-Win**
-
-247 **PROFIMED**
-
 **Anbieter**
 
-CompuGroup Medical Deutschland AG
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-T 2med GmbH & Co. KG
+252 **CGM M1 PRO**
 
-medatixx GmbH & Co. KG
-
-SAP SE
-
-Deutsche Telekom Clinical Solutions GmbH
-
-S 3 Praxiscomputer GmbH / Maximilian Flender
-
-PRO MEDISOFT AG 2
-
-**Installationen 2.Q.2025**
-
-47
-
-45
+CompuGroup Medical Deutschland AG 47
 
 44
-
-35
-
-35
-
-34
-
-33
-
-**Installationen 1.Q.2025**
-
-44
-
-45
-
-42
-
-36
-
-34
-
-35
-
-36
-
-**Differenz**
 
 3
 
+498 **T 2med**
+
+T 2med GmbH & Co. KG 45
+
+45
+
 0
+
+243 **x.concept**
+
+medatixx GmbH & Co. KG 44
+
+42
 
 2
 
+343 **SAP Ambulatory Care Management** SAP SE 35
+
+36
+
 -1
+
+314 **IMedOne**
+
+Deutsche Telekom Clinical Solutions GmbH 35 34
 
 1
 
+261 **S 3-Win**
+
+S 3 Praxiscomputer GmbH / Maximilian Flender 34 35
+
 -1
 
+247 **PROFIMED**
+
+PRO MEDISOFT AG 33
+
+36
+
 -3
+
+2
 
 
 ---
@@ -544,200 +442,148 @@ PRO MEDISOFT AG 2
 
 **Anbieter**
 
-CompuGroup Medical Deutschland AG
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-FIDUS Software Entwicklungs-GmbH
-
-ifa systems AG
-
-Duria eG
-
-CompuGroup Medical Deutschland AG
-
-Zollsoft GmbH
-
-medatixx GmbH & Co. KG
-
-INDAMED EDV-Entwicklung und Vertrieb GmbH
-
-MediSoftware Computersysteme für Ärzte
-
-Dedalus HealthCare GmbH
-
-SAP SE
-
-medatixx GmbH & Co. KG
-
-CompuGroup Medical Deutschland AG 1
-
-**Installationen 2.Q.2025**
-
-525
-
-521
-
-398
-
-320
-
-246
-
-163
-
-99
-
-85
-
-68
-
-52
-
-45
-
-30
-
-26
-
-**Installationen 1.Q.2025**
+CompuGroup Medical Deutschland AG 525
 
 531
 
-512
-
-395
-
-321
-
-249
-
-156
-
-100
-
-84
-
-70
-
-53
-
-44
-
-27
-
-26
-
-**Differenz**
-
 -6
+
+FIDUS Software Entwicklungs-GmbH 521
+
+512
 
 9
 
+ifa systems AG 398
+
+395
+
 3
 
+Duria eG 320
+
+321
+
 -1
+
+CompuGroup Medical Deutschland AG 246
+
+249
 
 -3
 
+Zollsoft GmbH 163
+
+156
+
 7
+
+medatixx GmbH & Co. KG 99
+
+100
 
 -1
 
+INDAMED EDV-Entwicklung und Vertrieb GmbH 85 84
+
 1
+
+MediSoftware Computersysteme für Ärzte 68
+
+70
 
 -2
 
+Dedalus HealthCare GmbH 52
+
+53
+
 -1
+
+SAP SE 45
+
+44
 
 1
 
+medatixx GmbH & Co. KG 30
+
+27
+
 3
 
+CompuGroup Medical Deutschland AG 26
+
+26
+
 0
+
+1
 
 
 ---
 
 **Id Praxissoftware**
 
-226 **CGM MEDICO**
-
-314 **IMedOne**
-
-252 **CGM M1 PRO**
-
-451 **ifa|NX-NEXT Generation AI**
-
-015 **MEDYS**
-
-261 **S 3-Win**
-
-266 **x.comfort**
-
 **Anbieter**
 
-CGM Clinical Europe GmbH
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-Deutsche Telekom Clinical Solutions GmbH
+226 **CGM MEDICO**
 
-CompuGroup Medical Deutschland AG
-
-**S**
-
-ifa systems AG
-
-MEDYS GmbH
-
-S 3 Praxiscomputer GmbH / Maximilian Flender
-
-medatixx GmbH & Co. KG 2
-
-**Installationen 2.Q.2025**
-
-25
-
-23
-
-22
-
-16
-
-14
-
-13
-
-12
-
-**Installationen 1.Q.2025**
+CGM Clinical Europe GmbH 25
 
 26
 
-22
-
-25
-
-12
-
-14
-
-14
-
-12
-
-**Differenz**
-
 -1
+
+314 **IMedOne**
+
+Deutsche Telekom Clinical Solutions GmbH 23 22
 
 1
 
+252 **CGM M1 PRO**
+
+CompuGroup Medical Deutschland AG 22
+
+25
+
 -3
+
+451 **ifa|NX-NEXT Generation AIS**
+
+ifa systems AG 16
+
+12
 
 4
 
+015 **MEDYS**
+
+MEDYS GmbH 14
+
+14
+
 0
+
+261 **S 3-Win**
+
+S 3 Praxiscomputer GmbH / Maximilian Flender 13 14
 
 -1
 
+266 **x.comfort**
+
+medatixx GmbH & Co. KG 12
+
+12
+
 0
+
+2
 
 
 ---
@@ -778,198 +624,150 @@ medatixx GmbH & Co. KG 2
 
 **Anbieter**
 
-Dedalus HealthCare GmbH
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-CompuGroup Medical Deutschland AG
-
-medatixx GmbH & Co. KG
-
-SAP SE
-
-CGM Clinical Europe GmbH
-
-CompuGroup Medical Deutschland AG
-
-INDAMED EDV-Entwicklung und Vertrieb GmbH
-
-Deutsche Telekom Clinical Solutions GmbH
-
-Zollsoft GmbH
-
-medatixx GmbH & Co. KG
-
-medatixx GmbH & Co. KG
-
-CompuGroup Medical Deutschland AG
-
-CompuGroup Medical Deutschland AG 1
-
-**Installationen 2.Q.2025**
-
-592
-
-273
-
-252
-
-192
-
-175
-
-160
-
-145
-
-138
-
-138
-
-108
-
-104
-
-97
-
-90
-
-**Installationen 1.Q.2025**
+Dedalus HealthCare GmbH 592
 
 581
 
-282
-
-259
-
-192
-
-176
-
-168
-
-135
-
-141
-
-131
-
-114
-
-100
-
-103
-
-90
-
-**Differenz**
-
 11
+
+CompuGroup Medical Deutschland AG 273
+
+282
 
 -9
 
+medatixx GmbH & Co. KG 252
+
+259
+
 -7
 
+SAP SE 192
+
+192
+
 0
+
+CGM Clinical Europe GmbH 175
+
+176
 
 -1
 
+CompuGroup Medical Deutschland AG 160
+
+168
+
 -8
+
+INDAMED EDV-Entwicklung und Vertrieb GmbH 145 135
 
 10
 
+Deutsche Telekom Clinical Solutions GmbH 138 141
+
 -3
+
+Zollsoft GmbH 138
+
+131
 
 7
 
+medatixx GmbH & Co. KG 108
+
+114
+
 -6
+
+medatixx GmbH & Co. KG 104
+
+100
 
 4
 
+CompuGroup Medical Deutschland AG 97
+
+103
+
 -6
 
+CompuGroup Medical Deutschland AG 90
+
+90
+
 0
+
+1
 
 
 ---
 
 **Id Praxissoftware**
 
-208 **NEXUS / KIS**
-
-498 **T 2med**
-
-422 **ClinicCentre Billing (OPD)**
-
-290 **M-KIS**
-
-244 **QUINCY WIN**
-
-086 **DURIA**
-
-135 **EL - Elaphe Longissima**
-
 **Anbieter**
 
-NEXUS AG
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-T 2med GmbH & Co. KG
+208 **NEXUS / KIS**
 
-Mesalvo Mannheim GmbH
-
-Meierhofer AG
-
-Frey ADV GmbH
-
-Duria eG
-
-medatixx GmbH & Co. KG 2
-
-**Installationen 2.Q.2025**
-
-61
-
-52
-
-46
-
-35
-
-33
-
-33
-
-29
-
-**Installationen 1.Q.2025**
+NEXUS AG 61
 
 56
 
-48
-
-46
-
-36
-
-33
-
-32
-
-31
-
-**Differenz**
-
 5
+
+498 **T 2med**
+
+T 2med GmbH & Co. KG 52
+
+48
 
 4
 
+422 **ClinicCentre Billing (OPD)**
+
+Mesalvo Mannheim GmbH 46
+
+46
+
 0
+
+290 **M-KIS**
+
+Meierhofer AG 35
+
+36
 
 -1
 
+244 **QUINCY WIN**
+
+Frey ADV GmbH 33
+
+33
+
 0
+
+086 **DURIA**
+
+Duria eG 33
+
+32
 
 1
 
+135 **EL - Elaphe Longissima**
+
+medatixx GmbH & Co. KG 29
+
+31
+
 -2
+
+2
 
 
 ---
@@ -1010,115 +808,85 @@ medatixx GmbH & Co. KG 2
 
 **Anbieter**
 
-CompuGroup Medical Deutschland AG
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-CompuGroup Medical Deutschland AG
-
-Dedalus HealthCare GmbH
-
-medatixx GmbH & Co. KG
-
-medatixx GmbH & Co. KG
-
-INDAMED EDV-Entwicklung und Vertrieb GmbH
-
-Zollsoft GmbH
-
-CompuGroup Medical Deutschland AG
-
-medatixx GmbH & Co. KG
-
-CompuGroup Medical Deutschland AG
-
-T 2med GmbH & Co. KG
-
-CGM Clinical Europe GmbH
-
-Frey ADV GmbH 1
-
-**Installationen 2.Q.2025**
-
-1 706
-
-770
-
-559
-
-482
-
-399
-
-363
-
-357
-
-315
-
-311
-
-287
-
-244
-
-186
-
-160
-
-**Installationen 1.Q.2025**
+CompuGroup Medical Deutschland AG 1 706
 
 1 740
 
-786
-
-559
-
-496
-
-381
-
-362
-
-345
-
-314
-
-319
-
-290
-
-236
-
-187
-
-162
-
-**Differenz**
-
 -34
+
+CompuGroup Medical Deutschland AG 770
+
+786
 
 -16
 
+Dedalus HealthCare GmbH 559
+
+559
+
 0
+
+medatixx GmbH & Co. KG 482
+
+496
 
 -14
 
+medatixx GmbH & Co. KG 399
+
+381
+
 18
 
+INDAMED EDV-Entwicklung und Vertrieb GmbH 363 362
+
 1
+
+Zollsoft GmbH 357
+
+345
 
 12
 
+CompuGroup Medical Deutschland AG 315
+
+314
+
 1
+
+medatixx GmbH & Co. KG 311
+
+319
 
 -8
 
+CompuGroup Medical Deutschland AG 287
+
+290
+
 -3
+
+T 2med GmbH & Co. KG 244
+
+236
 
 8
 
+CGM Clinical Europe GmbH 186
+
+187
+
 -1
 
+Frey ADV GmbH 160
+
+162
+
 -2
+
+1
 
 
 ---
@@ -1155,51 +923,47 @@ PEGA Elektronik GmbH
 
 MEDYS GmbH 2
 
-**Installationen 2.Q.2025**
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
 148
 
-139
-
-133
-
-132
-
-130
-
-94
-
-85
-
-**Installationen 1.Q.2025**
-
 157
-
-136
-
-133
-
-132
-
-135
-
-96
-
-89
-
-**Differenz**
 
 -9
 
+139
+
+136
+
 3
 
-0
+133
+
+133
 
 0
+
+132
+
+132
+
+0
+
+130
+
+135
 
 -5
 
+94
+
+96
+
 -2
+
+85
+
+89
 
 -4
 
@@ -1242,198 +1006,148 @@ MEDYS GmbH 2
 
 **Anbieter**
 
-CompuGroup Medical Deutschland AG
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-medatixx GmbH & Co. KG
-
-medatixx GmbH & Co. KG
-
-CompuGroup Medical Deutschland AG
-
-Zollsoft GmbH
-
-CompuGroup Medical Deutschland AG
-
-INDAMED EDV-Entwicklung und Vertrieb GmbH
-
-T 2med GmbH & Co. KG
-
-medatixx GmbH & Co. KG
-
-Dedalus HealthCare GmbH
-
-Duria eG
-
-S 3 Praxiscomputer GmbH / Maximilian Flender
-
-CompuGroup Medical Deutschland AG 1
-
-**Installationen 2.Q.2025**
-
-465
-
-283
-
-205
-
-173
-
-144
-
-138
-
-126
-
-113
-
-100
-
-99
-
-85
-
-85
-
-66
-
-**Installationen 1.Q.2025**
+CompuGroup Medical Deutschland AG 465
 
 454
 
-280
-
-217
-
-177
-
-138
-
-142
-
-124
-
-109
-
-100
-
-98
-
-86
-
-86
-
-67
-
-**Differenz**
-
 11
+
+medatixx GmbH & Co. KG 283
+
+280
 
 3
 
+medatixx GmbH & Co. KG 205
+
+217
+
 -12
 
+CompuGroup Medical Deutschland AG 173
+
+177
+
 -4
+
+Zollsoft GmbH 144
+
+138
 
 6
 
+CompuGroup Medical Deutschland AG 138
+
+142
+
 -4
+
+INDAMED EDV-Entwicklung und Vertrieb GmbH 126 124
 
 2
 
+T 2med GmbH & Co. KG 113
+
+109
+
 4
+
+medatixx GmbH & Co. KG 100
+
+100
 
 0
 
+Dedalus HealthCare GmbH 99
+
+98
+
 1
 
--1
+Duria eG 85
+
+86
 
 -1
 
+S 3 Praxiscomputer GmbH / Maximilian Flender 85 86
+
 -1
+
+CompuGroup Medical Deutschland AG 66
+
+67
+
+-1
+
+1
 
 
 ---
 
 **Id Praxissoftware**
 
-266 **x.comfort**
-
-244 **QUINCY WIN**
-
-030 **Praxis-Programm**
-
-238 **InterMediNet KVDT**
-
-343 **SAP Ambulatory Care Management**
-
-135 **EL - Elaphe Longissima**
-
-083 **PegaMed**
-
 **Anbieter**
 
-medatixx GmbH & Co. KG
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-Frey ADV GmbH
+266 **x.comfort**
 
-MediSoftware Computersysteme für Ärzte
-
-DBI Informatik, Dirk Blume
-
-SAP SE
-
-medatixx GmbH & Co. KG
-
-PEGA Elektronik GmbH 2
-
-**Installationen 2.Q.2025**
-
-64
-
-60
-
-57
-
-51
-
-45
-
-43
-
-28
-
-**Installationen 1.Q.2025**
+medatixx GmbH & Co. KG 64
 
 65
 
-63
-
-58
-
-53
-
-46
-
-41
-
-28
-
-**Differenz**
-
 -1
+
+244 **QUINCY WIN**
+
+Frey ADV GmbH 60
+
+63
 
 -3
 
+030 **Praxis-Programm**
+
+MediSoftware Computersysteme für Ärzte 57
+
+58
+
 -1
+
+238 **InterMediNet KVDT**
+
+DBI Informatik, Dirk Blume 51
+
+53
 
 -2
 
+343 **SAP Ambulatory Care Management** SAP SE 45
+
+46
+
 -1
+
+135 **EL - Elaphe Longissima**
+
+medatixx GmbH & Co. KG 43
+
+41
 
 2
 
+083 **PegaMed**
+
+PEGA Elektronik GmbH 28
+
+28
+
 0
+
+2
 
 
 ---
@@ -1474,198 +1188,148 @@ PEGA Elektronik GmbH 2
 
 **Anbieter**
 
-CompuGroup Medical Deutschland AG
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-Zollsoft GmbH
-
-CompuGroup Medical Deutschland AG
-
-CompuGroup Medical Deutschland AG
-
-INDAMED EDV-Entwicklung und Vertrieb GmbH
-
-medatixx GmbH & Co. KG
-
-medatixx GmbH & Co. KG
-
-S 3 Praxiscomputer GmbH / Maximilian Flender
-
-medatixx GmbH & Co. KG
-
-T 2med GmbH & Co. KG
-
-Frey ADV GmbH
-
-CompuGroup Medical Deutschland AG
-
-medatixx GmbH & Co. KG 1
-
-**Installationen 2.Q.2025**
-
-393
-
-253
-
-242
-
-156
-
-127
-
-122
-
-104
-
-98
-
-85
-
-82
-
-76
-
-72
-
-56
-
-**Installationen 1.Q.2025**
+CompuGroup Medical Deutschland AG 393
 
 398
 
-245
-
-247
-
-158
-
-126
-
-123
-
-102
-
-100
-
-88
-
-80
-
-77
-
-73
-
-58
-
-**Differenz**
-
 -5
+
+Zollsoft GmbH 253
+
+245
 
 8
 
+CompuGroup Medical Deutschland AG 242
+
+247
+
 -5
+
+CompuGroup Medical Deutschland AG 156
+
+158
+
+-2
+
+INDAMED EDV-Entwicklung und Vertrieb GmbH 127 126
+
+1
+
+medatixx GmbH & Co. KG 122
+
+123
+
+-1
+
+medatixx GmbH & Co. KG 104
+
+102
+
+2
+
+S 3 Praxiscomputer GmbH / Maximilian Flender 98 100
+
+-2
+
+medatixx GmbH & Co. KG 85
+
+88
+
+-3
+
+T 2med GmbH & Co. KG 82
+
+80
+
+2
+
+Frey ADV GmbH 76
+
+77
+
+-1
+
+CompuGroup Medical Deutschland AG 72
+
+73
+
+-1
+
+medatixx GmbH & Co. KG 56
+
+58
 
 -2
 
 1
-
--1
-
-2
-
--2
-
--3
-
-2
-
--1
-
--1
-
--2
 
 
 ---
 
 **Id Praxissoftware**
 
-254 **ORBIS®**
-
-015 **MEDYS**
-
-343 **SAP Ambulatory Care Management**
-
-266 **x.comfort**
-
-086 **DURIA**
-
-083 **PegaMed**
-
-030 **Praxis-Programm**
-
 **Anbieter**
 
-Dedalus HealthCare GmbH
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-MEDYS GmbH
+254 **ORBIS®**
 
-SAP SE
-
-medatixx GmbH & Co. KG
-
-Duria eG
-
-PEGA Elektronik GmbH
-
-MediSoftware Computersysteme für Ärzte 2
-
-**Installationen 2.Q.2025**
-
-41
-
-37
-
-35
-
-34
-
-31
-
-25
-
-24
-
-**Installationen 1.Q.2025**
+Dedalus HealthCare GmbH 41
 
 42
 
+-1
+
+015 **MEDYS**
+
+MEDYS GmbH 37
+
 37
+
+0
+
+343 **SAP Ambulatory Care Management** SAP SE 35
 
 32
 
-37
-
-31
-
-25
-
-24
-
-**Differenz**
-
--1
-
-0
-
 3
+
+266 **x.comfort**
+
+medatixx GmbH & Co. KG 34
+
+37
 
 -3
 
-0
+086 **DURIA**
+
+Duria eG 31
+
+31
 
 0
 
+083 **PegaMed**
+
+PEGA Elektronik GmbH 25
+
+25
+
 0
+
+030 **Praxis-Programm**
+
+MediSoftware Computersysteme für Ärzte 24
+
+24
+
+0
+
+2
 
 
 ---
@@ -1706,115 +1370,85 @@ MediSoftware Computersysteme für Ärzte 2
 
 **Anbieter**
 
-CompuGroup Medical Deutschland AG
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-medatixx GmbH & Co. KG
-
-CompuGroup Medical Deutschland AG
-
-medatixx GmbH & Co. KG
-
-INDAMED EDV-Entwicklung und Vertrieb GmbH
-
-CompuGroup Medical Deutschland AG
-
-medatixx GmbH & Co. KG
-
-T 2med GmbH & Co. KG
-
-Dedalus HealthCare GmbH
-
-Frey ADV GmbH
-
-Zollsoft GmbH
-
-CompuGroup Medical Deutschland AG
-
-medatixx GmbH & Co. KG 1
-
-**Installationen 2.Q.2025**
-
-1 595
-
-1 401
-
-1 360
-
-1 040
-
-1 028
-
-916
-
-855
-
-818
-
-722
-
-612
-
-527
-
-461
-
-400
-
-**Installationen 1.Q.2025**
+CompuGroup Medical Deutschland AG 1 595
 
 1 606
 
-1 431
-
-1 402
-
-1 001
-
-1 007
-
-935
-
-875
-
-781
-
-730
-
-621
-
-484
-
-473
-
-418
-
-**Differenz**
-
 -11
+
+medatixx GmbH & Co. KG 1 401
+
+1 431
 
 -30
 
+CompuGroup Medical Deutschland AG 1 360
+
+1 402
+
 -42
+
+medatixx GmbH & Co. KG 1 040
+
+1 001
 
 39
 
+INDAMED EDV-Entwicklung und Vertrieb GmbH 1 028 1 007
+
 21
+
+CompuGroup Medical Deutschland AG 916
+
+935
 
 -19
 
+medatixx GmbH & Co. KG 855
+
+875
+
 -20
+
+T 2med GmbH & Co. KG 818
+
+781
 
 37
 
+Dedalus HealthCare GmbH 722
+
+730
+
 -8
+
+Frey ADV GmbH 612
+
+621
 
 -9
 
+Zollsoft GmbH 527
+
+484
+
 43
+
+CompuGroup Medical Deutschland AG 461
+
+473
 
 -12
 
+medatixx GmbH & Co. KG 400
+
+418
+
 -18
+
+1
 
 
 ---
@@ -1851,51 +1485,47 @@ Data-AL GmbH
 
 PEGA Elektronik GmbH 2
 
-**Installationen 2.Q.2025**
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
 379
 
-339
-
-313
-
-273
-
-222
-
-206
-
-204
-
-**Installationen 1.Q.2025**
-
 380
+
+-1
+
+339
 
 346
 
-316
-
-279
-
-223
-
-205
-
-207
-
-**Differenz**
-
--1
-
 -7
+
+313
+
+316
 
 -3
 
+273
+
+279
+
 -6
+
+222
+
+223
 
 -1
 
+206
+
+205
+
 1
+
+204
+
+207
 
 -3
 
@@ -1908,200 +1538,126 @@ PEGA Elektronik GmbH 2
 
 #### Datenstand: 30.06.2025
 
-**Id**
-
-295
-
-112
-
-462
-
-299
-
-298
-
-348
-
-216
-
-243
-
-457
-
-203
-
-210
-
-280
-
-**Praxissoftware**
-
-**Epikur**
-
-**TURBOMED**
-
-**medatixx**
-
-**SMARTY**
-
-**Elefant**
-
-**psyprax**
-
-**x.isynet**
-
-**x.concept**
-
-**tomedo**
-
-**ALBIS**
-
-**Medical Office**
-
-**CGM MEDISTAR BLACK PRO**
+**Id Praxissoftware**
 
 **Anbieter**
 
-Epikur Software GmbH & Co. KG
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-CompuGroup Medical Deutschland AG
+295 **Epikur**
 
-medatixx GmbH & Co. KG
-
-New Media Company GmbH & Co. KG
-
-HASOMED GmbH
-
-psyprax GmbH
-
-medatixx GmbH & Co. KG
-
-medatixx GmbH & Co. KG
-
-Zollsoft GmbH
-
-CompuGroup Medical Deutschland AG
-
-INDAMED EDV-Entwicklung und Vertrieb GmbH
-
-CompuGroup Medical Deutschland AG 1
-
-**Installationen 2.Q.2025**
-
-114
-
-91
-
-72
-
-62
-
-60
-
-55
-
-46
-
-46
-
-43
-
-35
-
-32
-
-27
-
-**Installationen 1.Q.2025**
+Epikur Software GmbH & Co. KG 114
 
 113
 
-94
-
-67
-
-62
-
-61
-
-57
-
-50
-
-48
-
-44
-
-34
-
-29
-
-28
-
-**Differenz**
-
 1
+
+112 **TURBOMED**
+
+CompuGroup Medical Deutschland AG 91
+
+94
 
 -3
 
+462 **medatixx**
+
+medatixx GmbH & Co. KG 72
+
+67
+
 5
+
+299 **SMARTY**
+
+New Media Company GmbH & Co. KG 62
+
+62
 
 0
 
+298 **Elefant**
+
+HASOMED GmbH 60
+
+61
+
 -1
 
+348 **psyprax**
+
+psyprax GmbH 55
+
+57
+
 -2
+
+216 **x.isynet**
+
+medatixx GmbH & Co. KG 46
+
+50
 
 -4
 
+243 **x.concept**
+
+medatixx GmbH & Co. KG 46
+
+48
+
 -2
+
+457 **tomedo**
+
+Zollsoft GmbH 43
+
+44
+
+-1
+
+203 **ALBIS**
+
+CompuGroup Medical Deutschland AG 35
+
+34
+
+1
+
+210 **Medical Office**
+
+INDAMED EDV-Entwicklung und Vertrieb GmbH 32 29
+
+3
+
+280 **CGM MEDISTAR BLACK PRO** CompuGroup Medical Deutschland AG 27
+
+28
 
 -1
 
 1
-
-3
-
--1
 
 
 ---
 
-**Id**
+**Id Praxissoftware**
 
-244
+244 **QUINCY WIN**
 
-135
+135 **EL - Elaphe Longissim**
 
-252
+252 **CGM M1 PRO**
 
-498
+498 **T 2med**
 
-261
+261 **S 3-Win**
 
-266
+266 **x.comfort**
 
-247
+247 **PROFIMED**
 
-060
-
-**Praxissoftware**
-
-**QUINCY WIN**
-
-**EL - Elaphe Longissim**
-
-**CGM M1 PRO**
-
-**T 2med**
-
-**S 3-Win**
-
-**x.comfort**
-
-**PROFIMED**
-
-**Data-AL**
+060 **Data-AL**
 
 **Anbieter**
 
@@ -2123,61 +1679,57 @@ PRO MEDISOFT AG
 
 Data-AL GmbH
 
-**Installationen 2.Q.2025**
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
 27
 
-14
-
-14
-
-13
-
-10
-
-9
-
-8
-
-8
-
-2
-
-**Installationen 1.Q.2025**
-
 28
 
+-1
+
 14
 
 14
+
+0
+
+14
+
+14
+
+0
 
 13
 
+13
+
+0
+
 10
 
+10
+
+0
+
 9
 
 9
+
+0
 
 8
 
-**Differenz**
+9
 
 -1
 
-0
+8
+
+8
 
 0
 
-0
-
-0
-
-0
-
--1
-
-0
+2
 
 
 ---
@@ -2218,198 +1770,148 @@ Data-AL GmbH
 
 **Anbieter**
 
-CompuGroup Medical Deutschland AG
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-INDAMED EDV-Entwicklung und Vertrieb GmbH
-
-CompuGroup Medical Deutschland AG
-
-medatixx GmbH & Co. KG
-
-medatixx GmbH & Co. KG
-
-Dedalus HealthCare GmbH
-
-medatixx GmbH & Co. KG
-
-T 2med GmbH & Co. KG
-
-Zollsoft GmbH
-
-CompuGroup Medical Deutschland AG
-
-SAP SE
-
-Frey ADV GmbH
-
-CompuGroup Medical Deutschland AG 1
-
-**Installationen 2.Q.2025**
-
-704
-
-628
-
-405
-
-354
-
-340
-
-326
-
-300
-
-252
-
-233
-
-197
-
-177
-
-135
-
-127
-
-**Installationen 1.Q.2025**
+CompuGroup Medical Deutschland AG 704
 
 721
 
-571
-
-427
-
-363
-
-319
-
-332
-
-300
-
-236
-
-221
-
-202
-
-179
-
-141
-
-127
-
-**Differenz**
-
 -17
+
+INDAMED EDV-Entwicklung und Vertrieb GmbH 628 571
 
 57
 
+CompuGroup Medical Deutschland AG 405
+
+427
+
 -22
+
+medatixx GmbH & Co. KG 354
+
+363
 
 -9
 
+medatixx GmbH & Co. KG 340
+
+319
+
 21
+
+Dedalus HealthCare GmbH 326
+
+332
 
 -6
 
+medatixx GmbH & Co. KG 300
+
+300
+
 0
+
+T 2med GmbH & Co. KG 252
+
+236
 
 16
 
+Zollsoft GmbH 233
+
+221
+
 12
+
+CompuGroup Medical Deutschland AG 197
+
+202
 
 -5
 
+SAP SE 177
+
+179
+
 -2
+
+Frey ADV GmbH 135
+
+141
 
 -6
 
+CompuGroup Medical Deutschland AG 127
+
+127
+
 0
+
+1
 
 
 ---
 
 **Id Praxissoftware**
 
-086 **DURIA**
-
-226 **CGM MEDICO**
-
-266 **x.comfort**
-
-135 **EL - Elaphe Longissima**
-
-314 **IMedOne**
-
-261 **S 3-Win**
-
-083 **PegaMed**
-
 **Anbieter**
 
-Duria eG
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-CGM Clinical Europe GmbH
+086 **DURIA**
 
-medatixx GmbH & Co. KG
-
-medatixx GmbH & Co. KG
-
-Deutsche Telekom Clinical Solutions GmbH
-
-S 3 Praxiscomputer GmbH / Maximilian Flender
-
-PEGA Elektronik GmbH 2
-
-**Installationen 2.Q.2025**
-
-106
-
-95
-
-80
-
-80
-
-77
-
-65
-
-57
-
-**Installationen 1.Q.2025**
+Duria eG 106
 
 107
 
-98
-
-81
-
-84
-
-72
-
-63
-
-57
-
-**Differenz**
-
 -1
+
+226 **CGM MEDICO**
+
+CGM Clinical Europe GmbH 95
+
+98
 
 -3
 
+266 **x.comfort**
+
+medatixx GmbH & Co. KG 80
+
+81
+
 -1
+
+135 **EL - Elaphe Longissima**
+
+medatixx GmbH & Co. KG 80
+
+84
 
 -4
 
+314 **IMedOne**
+
+Deutsche Telekom Clinical Solutions GmbH 77 72
+
 5
+
+261 **S 3-Win**
+
+S 3 Praxiscomputer GmbH / Maximilian Flender 65 63
 
 2
 
+083 **PegaMed**
+
+PEGA Elektronik GmbH 57
+
+57
+
 0
+
+2
 
 
 ---
@@ -2504,59 +2006,57 @@ CompuGroup Medical Deutschland AG 1
 
 6
 
-**Installationen 1.Q.2025**
+**Installationen 1.Q.2025 Differenz**
 
 31
 
+-3
+
 17
+
+1
 
 15
 
-16
-
-13
-
-11
-
-8
-
-9
-
-8
-
-7
-
-8
-
-7
-
-8
-
-**Differenz**
-
--3
-
-1
-
 0
+
+16
 
 -2
 
+13
+
 1
 
+11
+
 0
+
+8
 
 2
 
+9
+
 0
+
+8
 
 1
 
+7
+
 1
 
-0
+8
 
 0
+
+7
+
+0
+
+8
 
 -2
 
@@ -2730,106 +2230,92 @@ medatixx GmbH & Co. KG
 
 INDAMED EDV-Entwicklung und Vertrieb GmbH 1
 
-**Installationen 2.Q.2025**
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
 7
 
-5
-
-4
-
-4
-
-3
-
-3
-
-2
-
-2
-
-2
-
-1
-
-1
-
-1
-
-**Installationen 1.Q.2025**
-
 7
 
+0
+
 5
 
-3
+5
+
+0
 
 4
 
 3
 
+1
+
+4
+
+4
+
+0
+
 3
 
+3
+
+0
+
+3
+
+3
+
+0
+
 2
 
 2
 
+0
+
 2
 
+2
+
+0
+
+2
+
+2
+
+0
+
 1
 
 1
 
+0
+
 1
-
-**Differenz**
-
-0
-
-0
 
 1
 
 0
 
-0
+1
 
-0
-
-0
-
-0
-
-0
-
-0
-
-0
+1
 
 0
 
 
 ---
 
-**Id**
+**Id Praxissoftware**
 
-266
+266 **x.comfort**
 
-030
+030 **Praxis-Programm**
 
-023
+023 **DATA VITAL**
 
-261
-
-**Praxissoftware**
-
-**x.comfort**
-
-**Praxis-Programm**
-
-**DATA VITAL**
-
-**S 3-Win**
+261 **S 3-Win**
 
 **Anbieter**
 
@@ -2841,33 +2327,29 @@ CompuGroup Medical Deutschland AG
 
 S 3 Praxiscomputer GmbH / Maximilian Flender 2
 
-**Installationen 2.Q.2025**
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
 1
 
 1
-
-1
-
-1
-
-**Installationen 1.Q.2025**
-
-1
-
-1
-
-1
-
-1
-
-**Differenz**
 
 0
 
-0
+1
+
+1
 
 0
+
+1
+
+1
+
+0
+
+1
+
+1
 
 0
 
@@ -2958,124 +2440,102 @@ INDAMED EDV-Entwicklung und Vertrieb GmbH
 
 Mesalvo Mannheim GmbH
 
-**Installationen 2.Q.2025**
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
 712
 
-89
-
-21
-
-12
-
-6
-
-6
-
-3
-
-3
-
-3
-
-2
-
-2
-
-1
-
-1
-
-**Installationen 1.Q.2025**
-
 710
+
+2
+
+89
 
 84
 
+5
+
 21
 
+21
+
+0
+
 12
+
+12
+
+0
+
+6
+
+6
+
+0
 
 6
 
 5
 
-4
-
-4
+1
 
 3
+
+4
+
+-1
+
+3
+
+4
+
+-1
+
+3
+
+3
+
+0
+
+2
+
+2
+
+0
 
 2
 
 3
 
+-1
+
 1
 
-**Differenz**
-
-2
-
-5
-
-0
-
-0
+1
 
 0
 
 1
-
--1
-
--1
-
-0
-
-0
-
--1
-
-0
 
 
 ---
 
-**Id**
+**Id Praxissoftware**
 
-015
+015 **MEDYS**
 
-252
+252 **CGM M1 PRO**
 
-086
+086 **DURIA**
 
-266
+266 **x.comfort**
 
-290
+290 **M-KIS**
 
-406
+406 **esQlab.online**
 
-298
+298 **Elefant**
 
-030
-
-**Praxissoftware**
-
-**MEDYS**
-
-**CGM M1 PRO**
-
-**DURIA**
-
-**x.comfort**
-
-**M-KIS**
-
-**esQlab.online**
-
-**Elefant**
-
-**Praxis-Programm**
+030 **Praxis-Programm**
 
 **Anbieter**
 
@@ -3095,25 +2555,7 @@ HASOMED GmbH
 
 MediSoftware Computersysteme für Ärzte 2
 
-**Installationen 2.Q.2025**
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-**Installationen 1.Q.2025**
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
 1
 
@@ -3129,23 +2571,37 @@ MediSoftware Computersysteme für Ärzte 2
 
 1
 
-1
-
-**Differenz**
-
-0
-
-0
-
-0
-
 0
 
 0
 
 1
 
+1
+
 0
+
+1
+
+1
+
+0
+
+1
+
+0
+
+1
+
+1
+
+1
+
+0
+
+1
+
+1
 
 0
 
@@ -3236,122 +2692,100 @@ T 2med GmbH & Co. KG
 
 HASOMED GmbH 1
 
-**Installationen 2.Q.2025**
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
 397
 
-357
-
-340
-
-282
-
-236
-
-235
-
-192
-
-190
-
-181
-
-163
-
-162
-
-145
-
-**Installationen 1.Q.2025**
-
 399
-
-362
-
-348
-
-277
-
-231
-
-236
-
-180
-
-193
-
-182
-
-158
-
-158
-
-147
-
-**Differenz**
 
 -2
 
+357
+
+362
+
 -5
+
+340
+
+348
 
 -8
 
-5
+282
+
+277
 
 5
+
+236
+
+231
+
+5
+
+235
+
+236
 
 -1
+
+192
+
+180
 
 12
 
+190
+
+193
+
 -3
+
+181
+
+182
 
 -1
 
+163
+
+158
+
 5
 
+162
+
+158
+
 4
+
+145
+
+147
 
 -2
 
 
 ---
 
-**Id**
+**Id Praxissoftware**
 
-244
+244 **QUINCY WIN**
 
-252
+252 **CGM M1 PRO**
 
-295
+295 **Epikur**
 
-266
+266 **x.comfort**
 
-299
+299 **SMARTY**
 
-135
+135 **EL - Elaphe Longissim**
 
-226
+226 **CGM MEDICO**
 
-086
-
-**Praxissoftware**
-
-**QUINCY WIN**
-
-**CGM M1 PRO**
-
-**Epikur**
-
-**x.comfort**
-
-**SMARTY**
-
-**EL - Elaphe Longissim**
-
-**CGM MEDICO**
-
-**DURIA**
+086 **DURIA**
 
 **Anbieter**
 
@@ -3373,57 +2807,53 @@ CGM Clinical Europe GmbH
 
 Duria eG 2
 
-**Installationen 2.Q.2025**
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
 126
 
-125
-
-112
-
-102
-
-87
-
-80
-
-71
-
-70
-
-**Installationen 1.Q.2025**
-
 130
-
-127
-
-112
-
-105
-
-88
-
-81
-
-68
-
-71
-
-**Differenz**
 
 -4
 
+125
+
+127
+
 -2
+
+112
+
+112
 
 0
 
+102
+
+105
+
 -3
 
--1
+87
+
+88
 
 -1
+
+80
+
+81
+
+-1
+
+71
+
+68
 
 3
+
+70
+
+71
 
 -1
 
@@ -3520,59 +2950,57 @@ CompuGroup Medical Deutschland AG 1
 
 14
 
-**Installationen 1.Q.2025**
+**Installationen 1.Q.2025 Differenz**
 
 65
 
+-1
+
 59
+
+1
 
 33
 
+3
+
 32
 
-27
+1
 
 27
+
+1
+
+27
+
+0
 
 21
 
+2
+
 20
+
+2
 
 24
 
+-2
+
 16
+
+1
 
 14
 
+1
+
 15
 
+0
+
 13
-
-**Differenz**
-
--1
-
-1
-
-3
-
-1
-
-1
-
-0
-
-2
-
-2
-
--2
-
-1
-
-1
-
-0
 
 1
 
@@ -3611,51 +3039,47 @@ medatixx GmbH & Co. KG
 
 S 3 Praxiscomputer GmbH / Maximilian Flender 2
 
-**Installationen 2.Q.2025**
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
 8
 
 8
 
+0
+
 8
+
+8
+
+0
+
+8
+
+8
+
+0
 
 7
 
 7
 
-6
-
-5
-
-**Installationen 1.Q.2025**
-
-8
-
-8
-
-8
+0
 
 7
 
 6
-
-6
-
-5
-
-**Differenz**
-
-0
-
-0
-
-0
-
-0
 
 1
 
+6
+
+6
+
 0
+
+5
+
+5
 
 0
 
@@ -3752,59 +3176,57 @@ Abasoft EDV-Programme GmbH 1
 
 5
 
-**Installationen 1.Q.2025**
+**Installationen 1.Q.2025 Differenz**
 
 30
 
+-1
+
 21
+
+0
 
 13
 
+1
+
 12
 
-10
+0
 
 10
+
+1
+
+10
+
+-1
 
 8
 
-7
+0
 
 7
+
+0
+
+7
+
+-1
 
 6
 
+0
+
 5
+
+0
 
 6
 
+-1
+
 5
-
-**Differenz**
-
--1
-
-0
-
-1
-
-0
-
-1
-
--1
-
-0
-
-0
-
--1
-
-0
-
-0
-
--1
 
 0
 
@@ -3843,51 +3265,47 @@ T 2med GmbH & Co. KG
 
 Schwerdtner Medizin-Software GmbH 2
 
-**Installationen 2.Q.2025**
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
 4
 
 4
 
+0
+
 4
+
+4
+
+0
+
+4
+
+4
+
+0
 
 3
+
+3
+
+0
 
 H 3
 
 3
 
-3
-
-**Installationen 1.Q.2025**
-
-4
-
-4
-
-4
-
-3
+0
 
 3
 
 2
 
+1
+
 3
 
-**Differenz**
-
-0
-
-0
-
-0
-
-0
-
-0
-
-1
+3
 
 0
 
@@ -3930,198 +3348,148 @@ H 3
 
 **Anbieter**
 
-CompuGroup Medical Deutschland AG
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-medatixx GmbH & Co. KG
-
-Dedalus HealthCare GmbH
-
-INDAMED EDV-Entwicklung und Vertrieb GmbH
-
-Zollsoft GmbH
-
-CompuGroup Medical Deutschland AG
-
-medatixx GmbH & Co. KG
-
-medatixx GmbH & Co. KG
-
-CompuGroup Medical Deutschland AG
-
-CompuGroup Medical Deutschland AG
-
-CGM Clinical Europe GmbH
-
-SAP SE
-
-T 2med GmbH & Co. KG 1
-
-**Installationen 2.Q.2025**
-
-919
-
-407
-
-340
-
-275
-
-239
-
-208
-
-192
-
-181
-
-131
-
-130
-
-117
-
-115
-
-108
-
-**Installationen 1.Q.2025**
+CompuGroup Medical Deutschland AG 919
 
 932
 
-418
-
-337
-
-267
-
-213
-
-211
-
-185
-
-185
-
-133
-
-134
-
-118
-
-117
-
-108
-
-**Differenz**
-
 -13
+
+medatixx GmbH & Co. KG 407
+
+418
 
 -11
 
+Dedalus HealthCare GmbH 340
+
+337
+
 3
+
+INDAMED EDV-Entwicklung und Vertrieb GmbH 275 267
 
 8
 
+Zollsoft GmbH 239
+
+213
+
 26
+
+CompuGroup Medical Deutschland AG 208
+
+211
 
 -3
 
+medatixx GmbH & Co. KG 192
+
+185
+
 7
 
+medatixx GmbH & Co. KG 181
+
+185
+
 -4
+
+CompuGroup Medical Deutschland AG 131
+
+133
 
 -2
 
+CompuGroup Medical Deutschland AG 130
+
+134
+
 -4
+
+CGM Clinical Europe GmbH 117
+
+118
 
 -1
 
+SAP SE 115
+
+117
+
 -2
 
+T 2med GmbH & Co. KG 108
+
+108
+
 0
+
+1
 
 
 ---
 
 **Id Praxissoftware**
 
-244 **QUINCY WIN**
-
-314 **IMedOne**
-
-086 **DURIA**
-
-208 **NEXUS / KIS**
-
-135 **EL - Elaphe Longissima**
-
-261 **S 3-Win**
-
-488 **inSuite**
-
 **Anbieter**
 
-Frey ADV GmbH
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-Deutsche Telekom Clinical Solutions GmbH
+244 **QUINCY WIN**
 
-Duria eG
-
-NEXUS AG
-
-medatixx GmbH & Co. KG
-
-S 3 Praxiscomputer GmbH / Maximilian Flender
-
-Doc Cirrus GmbH 2
-
-**Installationen 2.Q.2025**
-
-85
-
-76
-
-59
-
-45
-
-44
-
-35
-
-33
-
-**Installationen 1.Q.2025**
+Frey ADV GmbH 85
 
 86
 
-76
+-1
+
+314 **IMedOne**
+
+Deutsche Telekom Clinical Solutions GmbH 76 76
+
+0
+
+086 **DURIA**
+
+Duria eG 59
 
 59
 
+0
+
+208 **NEXUS / KIS**
+
+NEXUS AG 45
+
 45
+
+0
+
+135 **EL - Elaphe Longissima**
+
+medatixx GmbH & Co. KG 44
 
 43
 
-38
-
-35
-
-**Differenz**
-
--1
-
-0
-
-0
-
-0
-
 1
+
+261 **S 3-Win**
+
+S 3 Praxiscomputer GmbH / Maximilian Flender 35 38
 
 -3
 
+488 **inSuite**
+
+Doc Cirrus GmbH 33
+
+35
+
 -2
+
+2
 
 
 ---
@@ -4226,67 +3594,65 @@ EI Systems, Andreas Eicker 1
 
 2
 
-**Installationen 1.Q.2025**
+**Installationen 1.Q.2025 Differenz**
 
 69
 
+2
+
 65
-
-35
-
-13
-
-6
-
-5
-
-5
-
-4
-
-5
-
-2
-
-3
-
-3
-
-2
-
-2
-
-2
-
-**Differenz**
-
-2
 
 -3
 
+35
+
 -1
+
+13
+
+3
+
+6
+
+0
+
+5
+
+1
+
+5
+
+0
+
+4
+
+0
+
+5
+
+-1
+
+2
+
+1
 
 3
 
 0
 
-1
+3
 
 0
 
-0
-
--1
-
-1
+2
 
 0
 
-0
+2
 
 0
 
-0
+2
 
 0
 
@@ -4555,31 +3921,29 @@ S 3 Praxiscomputer GmbH / Maximilian Flender 2
 
 19
 
-**Installationen 1.Q.2025**
+**Installationen 1.Q.2025 Differenz**
 
 33
 
-23
-
-25
-
-23
-
-21
-
-19
-
-**Differenz**
-
 -2
+
+23
 
 2
 
+25
+
 -1
+
+23
 
 1
 
+21
+
 0
+
+19
 
 0
 
@@ -4670,194 +4034,150 @@ Bitron GmbH Technologiesysteme
 
 Frey ADV GmbH 1
 
-**Installationen 2.Q.2025**
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
 10 652
 
-10 283
-
-5 594
-
-4 440
-
-1 709
-
-498
-
-451
-
-365
-
-272
-
-165
-
-96
-
-87
-
-**Installationen 1.Q.2025**
-
 10 667
-
-10 339
-
-5 499
-
-4 375
-
-1 703
-
-440
-
-398
-
-378
-
-263
-
-124
-
-100
-
-85
-
-**Differenz**
 
 -15
 
+10 283
+
+10 339
+
 -56
+
+5 594
+
+5 499
 
 95
 
+4 440
+
+4 375
+
 65
+
+1 709
+
+1 703
 
 6
 
+498
+
+440
+
 58
+
+451
+
+398
 
 53
 
+365
+
+378
+
 -13
+
+272
+
+263
 
 9
 
+165
+
+124
+
 41
 
+96
+
+100
+
 -4
+
+87
+
+85
 
 2
 
 
 ---
 
-**Id**
-
-112
-
-210
-
-203
-
-280
-
-266
-
-083
-
-252
-
-015
-
-**Praxissoftware**
-
-**TURBOMED**
-
-**Medical Office**
-
-**ALBIS**
-
-**CGM MEDISTAR BLACK PRO**
-
-**x.comfort**
-
-**PegaMed**
-
-**CGM M1 PRO**
-
-**MEDYS**
+**Id Praxissoftware**
 
 **Anbieter**
 
-CompuGroup Medical Deutschland AG
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-INDAMED EDV-Entwicklung und Vertrieb GmbH
+112 **TURBOMED**
 
-CompuGroup Medical Deutschland AG
-
-CompuGroup Medical Deutschland AG
-
-medatixx GmbH & Co. KG
-
-PEGA Elektronik GmbH
-
-CompuGroup Medical Deutschland AG
-
-MEDYS GmbH 2
-
-**Installationen 2.Q.2025**
-
-74
-
-62
-
-46
-
-43
-
-34
-
-30
-
-26
-
-24
-
-**Installationen 1.Q.2025**
+CompuGroup Medical Deutschland AG 74
 
 77
 
-56
-
-47
-
-50
-
-33
-
-33
-
-25
-
-27
-
-**Differenz**
-
 -3
+
+210 **Medical Office**
+
+INDAMED EDV-Entwicklung und Vertrieb GmbH 62 56
 
 6
 
+203 **ALBIS**
+
+CompuGroup Medical Deutschland AG 46
+
+47
+
 -1
+
+280 **CGM MEDISTAR BLACK PRO** CompuGroup Medical Deutschland AG 43
+
+50
 
 -7
 
+266 **x.comfort**
+
+medatixx GmbH & Co. KG 34
+
+33
+
 1
+
+083 **PegaMed**
+
+PEGA Elektronik GmbH 30
+
+33
 
 -3
 
+252 **CGM M1 PRO**
+
+CompuGroup Medical Deutschland AG 26
+
+25
+
 1
 
+015 **MEDYS**
+
+MEDYS GmbH 24
+
+27
+
 -3
+
+2
 
 
 ---
@@ -4962,67 +4282,65 @@ NEXUS / CHILI GmbH 1
 
 24
 
-**Installationen 1.Q.2025**
+**Installationen 1.Q.2025 Differenz**
 
 208
 
+8
+
 186
+
+-1
 
 80
 
-78
-
-58
-
-46
-
-44
-
-42
-
-44
-
-37
-
-30
-
-31
-
-24
-
-28
-
-25
-
-**Differenz**
-
-8
-
--1
-
 1
+
+78
 
 2
 
+58
+
 0
+
+46
 
 1
 
--1
+44
 
 -1
+
+42
+
+-1
+
+44
 
 -4
 
+37
+
 -1
 
+30
+
 -2
+
+31
 
 -3
 
+24
+
 3
 
+28
+
 -2
+
+25
 
 -1
 
@@ -5065,27 +4383,25 @@ Abasoft EDV-Programme GmbH 2
 
 15
 
-**Installationen 1.Q.2025**
+**Installationen 1.Q.2025 Differenz**
 
 24
 
-17
-
-17
-
-16
-
-16
-
-**Differenz**
-
 -2
 
-0
+17
 
 0
 
+17
+
 0
+
+16
+
+0
+
+16
 
 -1
 
@@ -5156,93 +4472,89 @@ KfH - Kuratorium für Dialyse und Nierentransplantation e.V.
 
 RescuePro Production GmbH & Co. KG 1
 
-**Installationen 2.Q.2025**
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
 690
 
-643
-
-483
-
-425
-
-264
-
-237
-
-175
-
-154
-
-151
-
-128
-
-117
-
-95
-
-93
-
-90
-
-**Installationen 1.Q.2025**
-
 664
-
-642
-
-481
-
-406
-
-263
-
-231
-
-169
-
-157
-
-151
-
-126
-
-119
-
-97
-
-94
-
-85
-
-**Differenz**
 
 26
 
+643
+
+642
+
 1
 
+483
+
+481
+
 2
+
+425
+
+406
 
 19
 
+264
+
+263
+
 1
 
-6
+237
+
+231
 
 6
+
+175
+
+169
+
+6
+
+154
+
+157
 
 -3
 
+151
+
+151
+
 0
+
+128
+
+126
 
 2
 
--2
+117
+
+119
 
 -2
+
+95
+
+97
+
+-2
+
+93
+
+94
 
 -1
+
+90
+
+85
 
 5
 
@@ -5291,31 +4603,29 @@ CompuGroup Medical Deutschland AG 2
 
 53
 
-**Installationen 1.Q.2025**
+**Installationen 1.Q.2025 Differenz**
 
 79
 
-66
-
-71
-
-64
-
-64
-
-52
-
-**Differenz**
-
 3
+
+66
 
 6
 
+71
+
 -2
+
+64
 
 -4
 
+64
+
 -5
+
+52
 
 1
 
@@ -5358,195 +4668,145 @@ CompuGroup Medical Deutschland AG 2
 
 **Anbieter**
 
-CompuGroup Medical Deutschland AG
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-medatixx GmbH & Co. KG
-
-CompuGroup Medical Deutschland AG
-
-INDAMED EDV-Entwicklung und Vertrieb GmbH
-
-Dedalus HealthCare GmbH
-
-Zollsoft GmbH
-
-medatixx GmbH & Co. KG
-
-medatixx GmbH & Co. KG
-
-CompuGroup Medical Deutschland AG
-
-Frey ADV GmbH
-
-T 2med GmbH & Co. KG
-
-CompuGroup Medical Deutschland AG
-
-CGM Clinical Europe GmbH 1
-
-**Installationen 2.Q.2025**
-
-277
-
-180
-
-168
-
-127
-
-116
-
-116
-
-101
-
-93
-
-89
-
-86
-
-86
-
-70
-
-45
-
-**Installationen 1.Q.2025**
+CompuGroup Medical Deutschland AG 277
 
 294
 
+-17
+
+medatixx GmbH & Co. KG 180
+
 179
+
+1
+
+CompuGroup Medical Deutschland AG 168
 
 177
 
-121
-
-117
-
-103
-
-103
-
-90
-
-87
-
-87
-
-84
-
-69
-
-43
-
-**Differenz**
-
--17
-
-1
-
 -9
+
+INDAMED EDV-Entwicklung und Vertrieb GmbH 127 121
 
 6
 
+Dedalus HealthCare GmbH 116
+
+117
+
 -1
+
+Zollsoft GmbH 116
+
+103
 
 13
 
+medatixx GmbH & Co. KG 101
+
+103
+
 -2
+
+medatixx GmbH & Co. KG 93
+
+90
 
 3
 
+CompuGroup Medical Deutschland AG 89
+
+87
+
 2
 
+Frey ADV GmbH 86
+
+87
+
 -1
+
+T 2med GmbH & Co. KG 86
+
+84
+
+2
+
+CompuGroup Medical Deutschland AG 70
+
+69
+
+1
+
+CGM Clinical Europe GmbH 45
+
+43
 
 2
 
 1
-
-2
 
 
 ---
 
 **Id Praxissoftware**
 
+**Anbieter**
+
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
+
 266 **x.comfort**
 
-343 **SAP Ambulatory Care Management**
+medatixx GmbH & Co. KG 41
+
+42
+
+-1
+
+343 **SAP Ambulatory Care Management** SAP SE 37
+
+42
+
+-5
 
 135 **EL - Elaphe Longissima**
 
-136 **InterARZT**
-
-314 **IMedOne**
-
-086 **DURIA**
-
-015 **MEDYS**
-
-**Anbieter**
-
-medatixx GmbH & Co. KG
-
-SAP SE
-
-medatixx GmbH & Co. KG
-
-InterData Praxiscomputer GmbH
-
-Deutsche Telekom Clinical Solutions GmbH
-
-Duria eG
-
-MEDYS GmbH 2
-
-**Installationen 2.Q.2025**
-
-41
-
-37
-
-36
-
-32
-
-29
-
-28
-
-21
-
-**Installationen 1.Q.2025**
-
-42
-
-42
+medatixx GmbH & Co. KG 36
 
 34
-
-33
-
-34
-
-28
-
-22
-
-**Differenz**
-
--1
-
--5
 
 2
 
+136 **InterARZT**
+
+InterData Praxiscomputer GmbH 32
+
+33
+
 -1
+
+314 **IMedOne**
+
+Deutsche Telekom Clinical Solutions GmbH 29 34
 
 -5
 
+086 **DURIA**
+
+Duria eG 28
+
+28
+
 0
 
+015 **MEDYS**
+
+MEDYS GmbH 21
+
+22
+
 -1
+
+2

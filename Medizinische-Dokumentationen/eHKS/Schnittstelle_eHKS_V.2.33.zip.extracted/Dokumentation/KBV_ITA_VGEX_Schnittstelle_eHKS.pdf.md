@@ -810,9 +810,9 @@ caption_cd DN="Gesundheitsuntersuchung"/>
 
 ### 6.1.2 content
 
-Das Element *content* enthält das Kindelement
+Das Element *content* enthält das Kindelement *local_markup*, mit welchem eine *sciphox-ssu*
 
-verwendet werden kann. Die eigentlichen Daten werden mit Hilfe der sciphox-ssu angegeben.  Das Element *local_markup* hat die erforderlichen Attribute
+verwendet werden kann. Die eigentlichen Daten werden mit Hilfe der sciphox-ssu angegeben.  Das Element *local_markup* hat die erforderlichen Attribute *ignore* und *descriptor.* Das Attribut
 
 *ignore* hat den festen Wert: “all”. Um zu kennzeichnen, dass SCIPHOX-Elemente verwendet
 
@@ -822,35 +822,27 @@ Für die Darstellung der Hautkrebs--Screening Daten in XML, wird ausschließlich
 
 SSU
 
-*observation* verwendet. Das Element
+*observation* verwendet. Das Element *sciphox-ssu* hat drei Attribute, die mit den festen Werten
 
-vorbelegt sind: type =“observation“, country=“de“, version=“v1“. Damit wird gekennzeichnet,  dass die Sciphox-ssu *observation*
+vorbelegt sind: type =“observation“, country=“de“, version=“v1“. Damit wird gekennzeichnet,  dass die Sciphox-ssu *observation* in Version *v1* verwendet wird. Der Coderahmen für das
 
-Element *content* mit Sciphox-SSU *observation*
-
-*local_markup*, mit welchem eine *sciphox-ssu*
-
-*ignore* und *descriptor.* Das Attribut
-
-*sciphox-ssu* hat drei Attribute, die mit den festen Werten
-
-in Version *v1* verwendet wird. Der Coderahmen für das  sieht demnach folgendermaßen aus:
+Element *content* mit Sciphox-SSU *observation* sieht demnach folgendermaßen aus:
 
 
 ---
 
-\| ** <content>      <sciphox:sciphox-ssu type="observation" country="de" version="v1">              . . .      </content> |
+\| ** <content>      <sciphox:sciphox-ssu type="observation" country="de" version="v1">              . . . |
 \|---|
 
 **XML-Code 4 – content mit sciphox-SSU (observation)**
 
 #### 6.1.2.1 Sciphox-SSU observation
 
-Das Element *sciphox-ssu (observation)* enthält das Kindelement *sciphox:Beobachtungen,*
+Das Element *sciphox-ssu (observation)* enthält das Kindelement
 
 mehrere Kindelemente *sciphox:Beobachtung* enthalten kann. Es muss mindestens ein Ele-
 
-ment *sciphox:Beobachtung* vorkommen. Das Element *sciphox:Beobachtung*
+ment *sciphox:Beobachtung* vorkommen. Das Element
 
 jeweils genau einem Kindelement *sciphox:Parameter* und den optionalen Kindelementen
 
@@ -858,9 +850,9 @@ jeweils genau einem Kindelement *sciphox:Parameter* und den optionalen Kindeleme
 
 dem *sciphox:Parameter-*Element muss mindestens eins dieser optionalen Kindelemente an-
 
-gegeben werden. Um zu kennzeichnen, dass keine Angaben zu einem bestimmten Parameter  gemacht wurden, wird der komplette *sciphox:Beobachtung-*Block mit dem jeweiligen Parame-
+gegeben werden. Um zu kennzeichnen, dass keine Angaben zu einem bestimmten Parameter  gemacht wurden, wird der komplette *sciphox:Beobachtung-*
 
-ter weggelassen. Die Angabe einer *sciphox:Beobachtung* mit nur einem Element
+ter weggelassen. Die Angabe einer *sciphox:Beobachtung*
 
 *phox:Parameter* ist nicht zulässig.
 
@@ -875,15 +867,15 @@ Der XML-Code zum Element
 
 *sciphox-ssu* sieht folgendermaßen aus:
 
-das
+*sciphox:Beobachtungen,* das
 
-setzt sich aus  *sci-*
+*sciphox:Beobachtung* setzt sich aus  *sci-*
 
 zusammen. Neben
 
-*sci-*
+Block mit dem jeweiligen Parame- mit nur einem Element *sci-*
 
-local_markupignore="all" descriptor="sciphox"> </sciphox:sciphox-ssu> </local_markup>
+local_markupignore="all" descriptor="sciphox"> </sciphox:sciphox-ssu> </local_markup> </content>
 
 ---
 
@@ -1137,9 +1129,7 @@ sciphox:Beobachtung
 
 #### 6.1.4.1 VerdachtsdiagnoseND
 
-Bei diesem Parameter enthält das Element
-
-oder „Nein“.
+Bei diesem Parameter enthält das Element  oder „Nein“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1150,9 +1140,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 #### 6.1.4.2 Malignes Melanom
 
-Bei diesem Parameter enthält das Element
-
-oder „Nein“.
+Bei diesem Parameter enthält das Element  oder „Nein“.
 
 Ist die Angabe laut Plausibilitätsrichtlinien optional und nicht getätigt worden, entfällt der g samte sciphox:Beobachtung-Block.
 
@@ -1165,9 +1153,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 #### 6.1.4.3 Basalzellkarzinom
 
-Bei diesem Parameter enthält das Element
-
-oder „Nein“.
+Bei diesem Parameter enthält das Element  oder „Nein“.
 
 Ist die Angabe laut Plausibilitätsrichtlinien optional und nicht getätigt worden, entfällt der ge- samte sciphox:Beobachtung-Block.
 
@@ -1286,7 +1272,7 @@ ment *sciphox:Beobachtungen* enthält genau ein Kindelement
 
 ment *sciphox:Beobachtung* enthält genau ein Kindelement
 
-delement *sciphox:Ergebnistext.* Für das Kindelement
+delement *sciphox:Ergebnistext.* Für das Kindelement *sciphox:Parameter*
 
 zeitig Gesundheitsuntersuchung durchgeführt“ fest vorgegeben.
 
@@ -1347,7 +1333,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 *sciphox:Parameter* und ein Kin-
 
-*sciphox:Parameter* ist der Wert: „Gleich-
+ist der Wert: „Gleich-
 
 im *V*-Attribut entweder „Ja“
 
@@ -1355,9 +1341,7 @@ sciphox:Beobachtung <sciphox:Parameter DN ="Gleichzeitig Gesundheitsuntersuchung
 
 ---
 
-# 7 Body – Dokumentation Hautkrebs-Screening – Dermato-
-
-# loge
+# 7 Body – Dokumentation Hautkrebs-Screening – Dermato- loge
 
 In diesem Kapitel wird der Aufbau des Bodys der „eDokumentation Hautkrebs-Screening - Dermatologe“ bzw. der „eDokumentation Hautkrebs-Screening –Dermatologe – Ergänzende  Verträge“ erläutert. Im Element *body* der XML-Datei werden die eigentlichen Untersuchungs-
 
@@ -1617,25 +1601,27 @@ Als Beispiel sei hier folgender Code angegeben:
 \| <>     </sciphox:Beobachtung> |
 \|---|
 
+*sciphox:Ergebnistext* im
+
+*V*-Attribut entweder „Ja“
+
 **XML-Code 25 – Überweisender Arzt hat HKS durchgeführt**
 
-### 7.1.5 Abschnitt „Angabe der Verdachtsdiagnose des überweisenden
+### 7.1.5 Abschnitt „Angabe der Verdachtsdiagnose des überweisenden  Arztes“
 
-### Arztes“
+In diesem Kapitel wird der Abschnitt „Angabe der Verdachtsdiagnose des überweisenden Arz- tes“ beschrieben. Im Element *content* wird die Sciphox-SSU *observation* verwendet. Der Auf-
 
-In diesem Kapitel wird der Abschnitt „Angabe der Verdachtsdiagnose des überweisenden Arz- tes“ beschrieben. Im Element *content*
+bau dieser SSU ist in Kapitel 6.1.2.1 dargestellt. Diese SSU enthält genau ein Element  *phox:Beobachtungen*
 
-bau dieser SSU ist in Kapitel 6.1.2.1 dargestellt. Diese SSU enthält genau ein Element  *phox:Beobachtungen*. Das Element
-
-*sciphox:Beobachtung*. Ein Element *sciphox:Beobachtung*
-
-delement *sciphox:Parameter* und einem Kindelement
+*sciphox:Beobachtung* delement *sciphox:Parameter*
 
 die Kindelemente *sciphox:Parameter*
 
 liegt vor“, „Malignes Melanom“, „Basalzellkarzinom“, „Spinozelluläres Karzinom“ und „anderer  Hautkrebs“ fest vorgegeben.
 
-Wenn keine Angabe in diesem Abschnitt gemacht wurde, entfällt der übergeordnete  *graph*-Block.
+Wenn keine Angabe in diesem Abschnitt gemacht wurde, entfällt der übergeordnete
+
+*graph*-Block.
 
 Der Coderahmen sieht wie folgt aus:
 
@@ -1647,13 +1633,13 @@ caption_cd DN="Angabe der Verdachtsdiagnose des überweisenden Arztes"/>
 
 </caption>
 
-*sciphox:Ergebnistext* im
+*sci-*
 
-*V*-Attribut entweder „Ja“
+. Das Element *sciphox:Beobachtungen* enthält mehrere Kindelemente
 
-wird die Sciphox-SSU *observation* verwendet. Der Auf- *sci-*
+. Ein Element *sciphox:Beobachtung* setzt sich aus genau einem Kin-
 
-*sciphox:Beobachtungen* enthält mehrere Kindelemente  setzt sich aus genau einem Kin- *sciphox:Ergebnistext* zusammen. Für
+und einem Kindelement *sciphox:Ergebnistext* zusammen. Für
 
 sind die Werte „Angabe über die Verdachtsdiagnose
 
@@ -2297,9 +2283,7 @@ im *V*-Attribut den „horizonta- *U*-Attribut
 
 Bei diesem Parameter enthält das Element  Tumordurchmesser“ (Wertebereich: 0,1 – 999,9, Format: [n][n]n[,][n]) und im  fest vorgeschriebenen Wert „mm“.
 
-Wird zu diesem Parameter keine Angabe gemacht, entfällt dieser Beobachtungsblock kom-
-
-plett.
+Wird zu diesem Parameter keine Angabe gemacht, entfällt dieser Beobachtungsblock kom- plett.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -2368,13 +2352,9 @@ im *V*-Attribut entweder „Kar-
 
 ##### 7.1.8.3.2 Grading
 
-Bei diesem Parameter enthält das Element
+Bei diesem Parameter enthält das Element  mäß Tabelle 5.
 
-mäß Tabelle 5.
-
-Wird zu diesem Parameter keine Angabe gemacht, entfällt dieser Beobachtungsblock kom-
-
-plett.
+Wird zu diesem Parameter keine Angabe gemacht, entfällt dieser Beobachtungsblock kom- plett.
 
 Als Beispiel sei hier folgender Code angegeben:
 

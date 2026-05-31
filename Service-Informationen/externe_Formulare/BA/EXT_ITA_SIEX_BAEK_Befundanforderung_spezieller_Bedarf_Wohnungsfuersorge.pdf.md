@@ -16,25 +16,19 @@ Patient/in befindet sich seit _____________
 
 # Sofern zutreffend – je nach Fragestellung im Anschreiben:
 
-# Liegen aus ärztlicher Sicht Gründe vor, weshalb der Verbleib in der bisherigen Wohnung zwingend  erforderlich ist (z.B. Könnte durch einen Umzug die Erkrankung deutlich verschlechtert werden? Wechsel in eine andere Wohnumgebung gesundheitlich nicht zumutbar?
+# Liegen aus ärztlicher Sicht Gründe vor, weshalb der Verbleib in der bisherigen Wohnung zwingend  erforderlich ist (z.B. Könnte durch einen Umzug die Erkrankung deutlich verschlechtert werden? Ist der
+
+# Wechsel in eine andere Wohnumgebung gesundheitlich nicht zumutbar?
 
 AM 6-ÄD – 1900.8_Befundbericht_BÄK_spezieller_Bedarf_Wohnungsfürsorge_2
 
-regelmäßig [ ]
-
-1. 12
+regelmäßig 1. 12
 
 # 17 12.2021
 
 BGL-Nummer: ____________________
 
 gelegentlich  nicht in meiner Behandlung
-
-[ ]
-
-[ ]
-
-# Ist der
 
 
 ---
@@ -47,29 +41,29 @@ gelegentlich  nicht in meiner Behandlung
 
 # Liegen aus ärztlicher Sicht Gründe vor, dass die Wohnung bestimmte Anforderungen (z.B.  Barrierefreiheit, Vorhandensein eines Aufzugs; nur EG möglich, etc.) erfüllen muss?
 
-**Rückruf erbeten** [ ]
+**Rückruf erbeten**
 
-**Bitte senden Sie mir Ihr Gutachten / Ihre gutachterliche Äußerung zu**[ ] (Eine Erklärung der Patientin / des Patienten über die Entbindung des Ärztlichen Dienstes der  Bundesagentur für Arbeit von der ärztlichen Schweigepflicht lege ich bei oder reiche ich nach)
+**Bitte senden Sie mir Ihr Gutachten / Ihre gutachterliche Äußerung zu** (Eine Erklärung der Patientin / des Patienten über die Entbindung des Ärztlichen Dienstes der  Bundesagentur für Arbeit von der ärztlichen Schweigepflicht lege ich bei oder reiche ich nach)
 
-**Bitte fügen Sie diesem Befundbericht**  **Laborbefunde, Krankenhaus** **Kopie bei, vielen Dank.**
+**Bitte fügen Sie diesem Befundbericht relevante medizinische Unterlagen (Arztbriefe, Befundberichte,**
 
-Medizinische Unterlagen liegen bei [ ]
+**Laborbefunde, Krankenhaus-Entlassungsberichte, Reha-Entlassungsberichte, Gutachten u. ä.) als**
 
-Medizinische Unterlagen können ggf. angefordert werden bei: [ ]
+**Kopie bei, vielen Dank.**
 
-**relevante medizinische Unterlagen (Arztbriefe, Befundberichte,**
+Medizinische Unterlagen liegen bei
 
-**-Entlassungsberichte, Reha**
+Medizinische Unterlagen können ggf. angefordert werden bei:
 
-__________________________  Ort, Datum
-
-AM 6-ÄD – 1900.8_Befundbericht_BÄK_spezieller_Bedarf_Wohnungsfürsorge_21. 12
-
-**-Entlassungsberichte, Gutachten u. ä.) als**
+__________________________
 
 ___________________________
 
+Ort, Datum
+
 Stempel und Unterschrift
+
+AM 6-ÄD – 1900.8_Befundbericht_BÄK_spezieller_Bedarf_Wohnungsfürsorge_21. 12
 
 
 ---
@@ -94,9 +88,9 @@ Agentur für Arbeit
 
 Für meine Bemühungen erlaube ich mir zu berechnen:
 
-| Fotokopierkosten:  **0,50 € 0,15 €** | ____  Seiten á **0,15 €** | =  = | **__________  €     __________  €** |
+| Fotokopierkosten:  **0,50 € 0,15 €** | ____  Seiten á  ____  Seiten á | = | **__________  €  ________  €** |
 |---|---|---|---|
-| Ausstellung des vollständigen Befundberichts und  Übermittlung an den Ärztlichen Dienst: | **32,50 €** | = | **€** |
+| Ausstellung des vollständigen Befundberichts und  Übermittlung an den Ärztlichen Dienst: |  | = | **€** |
 | Portokosten: |  | = | **€** |
 | **Gesamtsumme:** |  | = | **€** |
 |  |  |  |  |
@@ -111,4 +105,4 @@ AM 6-ÄD – 1900.8_Befundbericht_BÄK_spezieller_Bedarf_Wohnungsfürsorge_21.07
 \| BIC: |
 \| Bank/Sparkasse: |
 
-für die ersten 50 Seiten für jede weitere Seite¹ Bitte geben Sie für die Bezahlung der Rechnung Ihre Rechnungs-Nummer und die vom Ärztlichen Dienst vergebene Liquidations-ID an.
+für die ersten 50 Seiten für jede weitere Seite     32,50 €¹ Bitte geben Sie für die Bezahlung der Rechnung Ihre Rechnungs-Nummer und die vom Ärztlichen Dienst vergebene Liquidations-ID an.

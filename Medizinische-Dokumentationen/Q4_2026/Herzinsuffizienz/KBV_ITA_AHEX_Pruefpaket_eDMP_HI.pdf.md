@@ -252,11 +252,9 @@ Die geforderten Videomitschnitte, Screenshots sowie die Teilnahmeerklärung (Pr�
 
 einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.
 
-- 1
+- _[lfdNr.]2 3
 
-- 2 3
-
--  [PrüffallNr.] _[lfdNr.] .*
+-  [PrüffallNr.]1
 
 - Teilnahmeerklärung (Prüffall 4540): TE_EWE_HI.pdf
 
@@ -284,9 +282,9 @@ Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung
 
 391234511_20250631101010_1_HI_104.zip.XKM XKM-Datei
 
-Herzinsuffizienz        Dateiordner
+Herzinsuffizienz         Dateiordner
 
-Dokumentation        Dateiordner
+Dokumentation         Dateiordner
 
 Abbildung 2: Exemplarische Struktur der **Archivdatei** mit den Prüfunterlagen
 
@@ -300,6 +298,8 @@ Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unter
 
 3 Gängiges Bild- bzw. Videoformat
 
+müssen in
+
 - sowie die Teilnahmeerklärung und
 
 Dateiordner
@@ -312,8 +312,6 @@ IDX-Datei
 
 XKM-Datei
 
-müssen in
-
 
 ---
 
@@ -323,29 +321,23 @@ Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22, „se
 
 - Indikation **Herzinsuffizienz:**
 
-Ab dem **01.10.2026** muss die Schnittstellenversion **1.04** verwendet werden.
+Ab dem **01.10.2026** muss die Schnittstellenversion - Indikation **COPD:**
 
-- Indikation **COPD:**
-
-Ab dem **01.10.2026** muss die Schnittstellenversion **4 07** verwendet werden.
+Ab dem **01.10.2026** muss die Schnittstellenversion
 
 ### 1.6.2 Datumseingaben
 
 - **Gültigkeitsdatum:** Das „letzte Datum“, **ab** dem alle in diesem Prüfpaket verwendeten Schnittstellen
 
-- (siehe oben Kapitel 1.6.1) gelten bzw. zu verwenden sind (hier wäre es der **01.10.2026**
-
--
+- (siehe oben Kapitel 1.6.1) gelten bzw. zu verwenden sind (hier wäre es der -
 
 - **Erstdokumentationsdatum**: Das Datum der Erstellung der Erstdokumentation ist jeweils der 15. des
 
-- Monats, der sechs Monate vor dem aktuellen Monat liegt.
-
-- Zum Beispiel: **Aktuelle Monat** ist **April 2025** **==>** **Erstdokumentationsdatum** ist der **15.10.2024**
+- Monats, der sechs Monate vor dem aktuellen Monat liegt. Zum Beispiel: **Aktuelle Monat** ist **April 2025** **==>** **Erstdokumentationsdatum**
 
 - **Ausnahme**
 
-- Wenn das Gültigkeitsdatum nach dem Erstdokumentationsdatum liegen würde, dann ist das  Erstdokumentationsdatum (**auch in der Zukunft**) der 15. des jeweiligen Gültigkeitsmonats.
+- Wenn das Gültigkeitsdatum nach dem Erstdokumentationsdatum liegen würde, dann ist das  Erstdokumentationsdatum (**auch in der Zukunft**
 
 -
 
@@ -365,17 +357,29 @@ Im Rahmen der Prüfung sind die regulären Stammdateien zu verwenden.
 
 ### 1.6.4 Versichertendaten
 
-Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall erforderlichen Angaben
-
-und werden als XML-Dateien in der Archivdatei „VSD_Testfaelle_DMP_Vn.n.zip“ bereitgestellt. Die XML-
-
-Dateien sind folgendermaßen aufgebaut:
+Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall  und werden als XML-Dateien in der Archivdatei „VSD_Testfaelle_DMP_Vn.n.zip Dateien sind folgendermaßen aufgebaut:
 
 - EF.VD = allgemeine Versicherungsdaten
 
 - EF.PD = persönliche Versichertendaten
 
 - EF.GVD = geschützte Versichertendaten
+
+**1.04** verwendet werden.
+
+**4 07** verwendet werden.
+
+- **01.10.2026**
+
+-
+
+- ist der **15.10.2024**
+
+- ) der 15. des jeweiligen Gültigkeitsmonats.
+
+-
+
+erforderlichen Angaben  “ bereitgestellt. Die XML-
 
 
 ---
@@ -652,7 +656,7 @@ Einschreibung entsprechenden Daten ebenfalls dokumentiert werden. Sollte das Sys
 | Nein | | |
 |---|---|---|
 | Kontraindikation |  |  |
-|  |  |  |
+|  |  | Häufigkeit von Exazerbationen seit der |
 |  | COPD |  |
 | 1 |  | HI |
 |  | HI |  |
@@ -675,10 +679,10 @@ Einschreibung entsprechenden Daten ebenfalls dokumentiert werden. Sollte das Sys
 | **Anamnese- und Befunddaten** | **Erstdokumentation** | **Verlaufsdokumentation** | |
 | COPD | Aktueller FEV1-Wert (alle 6 bis 12 | 060,0 Prozent des Soll | 092,0 Prozent des |
 | COPD | Klinische Einschätzung des | Nein | Nein |
-| HI |  | Ja | Nein |
+| HI | Serum-Elektrolyte und eGFR in den | Ja | Nein |
 | HI | Symptomatik | NYHA IV | NYHA III |
 | **Relevante Ereignisse** | | | |
-| COPD |  |  | 2 |
+| COPD | Häufigkeit von Exazerbationen seit der |  | 2 |
 | COPD | Stationäre notfallmäßige Behandlung |  | 1 |
 | HI | Ungeplante stationäre Behandlung, |  | 8 |
 | **Medikamente** | | | |
@@ -700,7 +704,7 @@ Einschreibung entsprechenden Daten ebenfalls dokumentiert werden. Sollte das Sys
 |  |  |  |  |
 | Aktueller FEV1-Wert (alle 6 bis 12 | 092,0 Prozent des |  |  |
 | Klinische Einschätzung des | Nein |  |  |
-|  | Nein |  |  |
+| Serum-Elektrolyte und eGFR in den | Nein |  |  |
 | Symptomatik | NYHA III |  |  |
 |  |  |  | COPD |
 |  | | | |
@@ -712,7 +716,7 @@ Einschreibung entsprechenden Daten ebenfalls dokumentiert werden. Sollte das Sys
 | Keine, Kontraindikation |  |  | COPD |
 | Nein |  |  | COPD |
 
-DATEN Informationsangebote der Krankenkasse PEZIFISCHE DATEN Anamnese- und Befunddaten Aktueller FEV1-Wert (alle 6 bis 12 Monate) Klinische Einschätzung des Osteoporoserisikos durchgeführt Serum-Elektrolyte und eGFR in den letzten sechs Monaten Symptomatik Relevante Ereignisse Häufigkeit von Exazerbationen seit der letzten Dokumentation Stationäre notfallmäßige Behandlung wegen COPD seit der letzten Ungeplante stationäre Behandlung, wegen Herzinsuffizienz, seit der letzten Medikamente und/oder Anticholinergika Lang wirksame Beta-2-Sympathomimetika Sonstige diagnosespezifische Medikation ACE-Hemmer Evidenzbasierte Zieldosis ACE-Hemmer oder ARB  15.mm.jjjj Erstdokumentation 060,0 Prozent des Soll Wertes NYHA IV Theophyllin, Andere Nicht erreicht,  Max. tolerierte Dosis erreicht   15.mm.jjjj Verlaufsdokumentation 092,0 Prozent des Wertes NYHA III Soll- 8 Glukokortikosteroide ARB Erreicht
+DATEN Informationsangebote der Krankenkasse PEZIFISCHE DATEN Anamnese- und Befunddaten Aktueller FEV1-Wert (alle 6 bis 12 Monate) Klinische Einschätzung des Osteoporoserisikos durchgeführt Serum-Elektrolyte und eGFR in den letzten sechs Monaten Symptomatik Relevante Ereignisse letzten Dokumentation Stationäre notfallmäßige Behandlung wegen COPD seit der letzten Ungeplante stationäre Behandlung, wegen Herzinsuffizienz, seit der letzten Medikamente und/oder Anticholinergika Lang wirksame Beta-2-Sympathomimetika Sonstige diagnosespezifische Medikation ACE-Hemmer Evidenzbasierte Zieldosis ACE-Hemmer oder ARB  15.mm.jjjj Erstdokumentation 060,0 Prozent des Soll Wertes NYHA IV Theophyllin, Andere Nicht erreicht,  Max. tolerierte Dosis erreicht   15.mm.jjjj Verlaufsdokumentation 092,0 Prozent des Soll- Wertes NYHA III 8 Glukokortikosteroide ARB Erreicht
 
 ---
 
@@ -771,7 +775,7 @@ PEZIFISCHE DATEN (MRA) Dokumentation) ein DMP bereits wahrgenommen  empfohlen (b
 | **Prüffall-ID** | 4514 |
 | **Testziel** | Kontrolle der softwareseitigen Erkennung von Fehleingaben |
 | **Voraussetzung** | Patient oder Patientin ist mindestens 18 Jahre alt |
-| **Prüfunterlagen** | Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert.   Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
+| **Prüfunterlagen** | Dokumentieren Sie durch Video(s) die Eingaben nach einer möglichen    Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
 | **Hinweis** | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben sind. |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
@@ -789,7 +793,7 @@ Die Personalien zu dem Testfall sind frei wählbar.
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum | 07.01.2025 |  |
-| Einschreibung wegen | Herzinsuffizienz |  |
+| Einschreibung wegen | Chronische |  |
 | Geschlecht | Je nach Auswahl des |  |
 | **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 1,51 m |  |
@@ -798,7 +802,7 @@ Die Personalien zu dem Testfall sind frei wählbar.
 | Raucher |  | Nr. 1 |
 | Begleiterkrankungen |  | Nr. 2 |
 
-Dokumentieren Sie durch Video(s) die Eingaben nach einer möglichen Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen.  DATEN  15.mm.jjjj Chronische Patienten
+Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert. Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen.  DATEN  15.mm.jjjj Herzinsuffizienz Patienten
 
 ---
 
@@ -938,7 +942,7 @@ Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP eine
 |  | |
 |---|---|
 | **Prüffall-ID** | 4540 |
-| **Testziel** | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
+| **Testziel** | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP  ) |
 | **Voraussetzung** |  |
 | **Prüfunterlagen** | PDF-Datei „TE_EWE_HI.pdf“ |
 | **Hinweis** | Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der |
@@ -960,7 +964,7 @@ Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 | DMP-Fallnummer | 1010 |
 | Datum | 15.08.2025 |
 
-Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP Einwilligungserklärung  der indikationsübergreifenden Teilnahme- und indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.   15.10.2026
+(KBV_ITA_VGEX_Anforderungskatalog_eDMP der indikationsübergreifenden Teilnahme- und Einwilligungserklärung  indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.   15.10.2026
 
 ---
 
@@ -1116,12 +1120,12 @@ DATEN letzten Dokumentation Dokumentation)
 | KBV_ITA_VGEX_Schnittstelle_eHeader | Dokumentation eHeader |
 | XPM-Paket_HI | Prüfmodul HI |
 | XPM-Paket_COPD | Prüfmodul COPD |
-| Austausch_von_XML-Daten_Vn.nn.ZIP 4 | Austausch von XML Daten in der Vertragsärztlichen |
+| Austausch_von_XML-Daten_Vn.nn.ZIP4 | Austausch von XML Daten in der Vertragsärztlichen |
 | KBV_ITA_RLEX_Zert | Zertifizierungsrichtlinie der KBV |
 | KBV_ITA_FMEX_AAZ_eDMP_HI | Antrag auf Zertifizierung HI |
 | KBV-Kryptomodul (XKM) und öffentlicher | KBV-Kryptomodul |
 | Stammdateien | Im Rahmen der Prüfung sind die regulären KBV- |
-| VSD_Testfaelle_DMP_Vn.n.zip 5 | eGK Daten |
+| VSD_Testfaelle_DMP_Vn.n.zip5 | eGK Daten |
 | KBV_ITA_VGEX_Schnittstelle_SDDA | Datensatzbeschreibung SDDA |
 | KBV_ITA_VGEX_Schnittstelle_SDKT | Datensatzbeschreibung SDKT |
 

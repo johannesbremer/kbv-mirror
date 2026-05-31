@@ -48,7 +48,8 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 / Version: 2.6 / 15. Mai 2024
 
-Rechtsform anzugeben] vorhanden] Systempfleger vom Antragsteller abweicht] [ ] [ ] [ ]
+Rechtsform anzugeben] vorhanden] Systempfleger vom Antragsteller abweicht]
+
 
 ---
 
@@ -83,13 +84,13 @@ Bitte geben Sie im Folgenden an, welche Client
 
 1.1.
 
-vorhanden) des Zertifizierungsgegenstandes an.
-
 -Betriebssysteme unterstützt werden.
+
+vorhanden) des Zertifizierungsgegenstandes an.
 
 / Version: 2.6 / 15. Mai 2024
 
-Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
+Antragsstellers Stellen der Prüfnummer, falls vorhanden]
 
 ---
 
@@ -108,8 +109,6 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
 | **LDT-Befund- Zervix-Zytologie** | ☐ |  |
 
 / Version: 2.6 / 15. Mai 2024
-
-[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 
 
 ---
@@ -172,13 +171,13 @@ Diese Information ist verpflichtend anzugeben
 
 1 LDT-Befund-Export Vollständig beinhaltet LDT
 
+-Befund  Export Zervix-Zytologie/Pathologie
+
 # SSTELLER
 
 - - oder Sichtprüfung durchgeführt.
 
 -
-
--Befund  Export Zervix-Zytologie/Pathologie
 
 / Version: 2.6 / 15. Mai 2024 -
 

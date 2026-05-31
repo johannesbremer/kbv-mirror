@@ -172,7 +172,7 @@ Die Änderung der Version 1.36 tritt zum 1. Juli 2021 in Kraft.
 | 1.32 | 10.11.2017 | KBV | Die BFB-Vorlagen werden |  | 1010 |
 | 1.31 | 10.07.2017 | KBV | Änderung der Vorgaben |  | 6 |
 
-des verkürzten Personalien- felds für das Muster PTV1, PTV2, PTV11 und PTV12 P2.11-20 für das Muster PTV11 auch als PDF-Dateien zur Verfügung gestellt bzgl. des zu verwendenden Papiers ständlichkeit gabeformates für Da- tumsangeben auf BFB- Mustern
+des verkürzten Personalien- felds für das Muster PTV1, PTV2, PTV11 und PTV12 ständlichkeit P2.11-20 gabeformates für Da- tumsangeben auf BFB- Mustern für das Muster PTV11 auch als PDF-Dateien zur Verfügung gestellt bzgl. des zu verwendenden Papiers
 
 ---
 

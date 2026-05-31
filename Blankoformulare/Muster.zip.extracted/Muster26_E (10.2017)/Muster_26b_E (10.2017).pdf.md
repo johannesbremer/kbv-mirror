@@ -1,8 +1,24 @@
 **Krankenkasse bzw. Kostenträger**
 
+## Verordnung Soziotherapie
+
+**26**
+
+## gemäß § 37a SGB V
+
 **Name, Vorname des Versicherten**
 
+**geb. am**
+
 **Kostenträgerkennung Versicherten-Nr.**
+
+**Diagnose**
+
+***(ICD-10-Code)***
+
+**Status**
+
+**Schweregrad** ***(lt. GAF-SKALA)***
 
 **Betriebsstätten-Nr.** **Arzt-Nr.**
 
@@ -10,13 +26,15 @@
 
 **Art und Ausprägung der Fähigkeitsstörungen**
 
-***Zusätzlich bei Diagnosen aus dem Bereich F00 bis F9***
+***Zusätzlich bei Diagnosen aus dem Bereich F00 bis F99 gemäß § 2 Abs. 5 der Richtlinie und GAF <***
 
 **Art und Ausprägung der Co-Morbiditäten / Sonstige Einschränkungen**
 
 **Angaben des Versicherten** **Straße**
 
-**PLZ** **Ort**
+**PLZ**
+
+**Ort**
 
 **Telefonnummer**
 
@@ -28,17 +46,25 @@
 
 **Wenn ja, für welche Angelegenheiten?**
 
+**Beantragte Anzahl der**
+
 **Voraussichtliche Anzahl** **der Therapieeinheiten**
+
+**Bereits durchgeführte**
 
 **Voraussichtliche Dauer** **der Therapie**
 
 **Prognose**
 
+|  | **wird** |  | **wird** |  |
+|---|---|---|---|---|
+|  | **vermieden** |  | **verkürzt** |  |
+
 **Krankenhausbehandlung**
 
 **Begründung**
 
-***Der soziotherapeutische Betreuungsplan ist beigefüg***
+***Der soziotherapeutische Betreuungsplan ist beigefügt!***
 
 **Für das Ausstellen der** ***Erst*****verordnung ist die Nr. 30810 EBM berechnungsfähig.**
 
@@ -46,27 +72,17 @@
 
 **Ausfertigung für den soziotherapeutischen Leistungserbringer**
 
+**PRF.NR.** **Muster 26b/E (10.2017)**
+
 **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
-
-**geb. am**
-
-**Status**
-
-|  | **wird** |  | **wird ist nicht** |  |
-|---|---|---|---|---|
-|  | **vermieden verkürzt** |  | **ausführbar** |  |
-
-## Verordnung Soziotherapie gemäß § 37a SGB V
-
-**Diagnose**
-
-***(ICD-10-Code)***
-
-**Schweregrad** ***(lt. GAF-SKALA)***
 
 **Erkrankung besteht seit (falls bekannt)**
 
-***9 gemäß § 2 Abs. 5 der Richtlinie und GAF <***
+**Nein**
+
+**Therapieeinheiten**
+
+**Leistungen**
 
 **Angaben des nächsten Angehörigen** **Name**
 
@@ -76,25 +92,17 @@
 
 **Telefonnummer**
 
-**Nein** **Ja**
-
 **Name**
 
-**Straße**
+**Ja** **Straße**
 
 **PLZ**
 
 **Telefonnummer**
 
-**Beantragte Anzahl der** **Therapieeinheiten**
-
-**Bereits durchgeführte** **Leistungen**
-
-***t!***
+**ist nicht** **ausführbar**
 
 **Datum**
-
-**26**
 
 ***40***
 
@@ -103,5 +111,3 @@
 **Ort**
 
 **Vertragsarztstempel / Unterschrift des Arztes**
-
-**PRF.NR.** **Muster 26b/E (10.2017)**

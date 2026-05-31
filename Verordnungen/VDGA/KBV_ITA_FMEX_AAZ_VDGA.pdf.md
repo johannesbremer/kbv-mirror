@@ -48,7 +48,7 @@ Antragsteller ist die juristische oder natürliche Person, die für die Einhaltu
 
 / Version: 1.2 / 21. Februar 2024
 
-Rechtsform anzugeben] Systempfleger vom Antragsteller abweicht] [ ] [ ] [ ]
+Rechtsform anzugeben] Systempfleger vom Antragsteller abweicht]
 
 ---
 
@@ -83,8 +83,7 @@ Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werd
 
 / Version: 1.2 / 21. Februar 2024
 
-Antragstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
-
+Antragstellers Stellen der Prüfnummer, falls vorhanden]
 
 ---
 
@@ -120,7 +119,7 @@ wurden umgesetzt:
 
 / Version: 1.2 / 21. Februar 2024
 
-[ ] SGB V zur Verordnung von Digitalen Gesundheitsanwendungen nach § 33a SGB V nach § 73 Abs. 9  erfüllt sind. NUMMER wird angeboten Ebene mit Produktwerbung  Dritte BITTE ANKREUZEN [ ] [ ] [ ] NUMMER Verordnungssoftware wird angeboten BITTE ANKREUZEN [ ] [ ] [ ]
+SGB V zur Verordnung von Digitalen Gesundheitsanwendungen nach § 33a SGB V nach § 73 Abs. 9  erfüllt sind. NUMMER wird angeboten Ebene mit Produktwerbung  Dritte BITTE ANKREUZEN NUMMER Verordnungssoftware wird angeboten BITTE ANKREUZEN
 
 ---
 

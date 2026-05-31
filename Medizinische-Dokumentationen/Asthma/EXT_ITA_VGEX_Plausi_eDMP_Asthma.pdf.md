@@ -10,17 +10,19 @@
 
 **Grundlage:**
 
+#
+
+**Stand der Bearbeitung:**
+
+**Version anzuwenden ab:**
+
 **DMP-A-RL**
 
 **gültig ab 01.04.2019**
 
 # Version: 2
 
-**Stand der Bearbeitung:**
-
 **03.07.2018**
-
-**Version anzuwenden ab:**
 
 **01. April 2019**
 
@@ -58,7 +60,7 @@
 | In den letzten 4 Wochen: | Häufiger als 2 mal wöchentlich / 2 mal | Pflichtfeld; | Genau eine Angabe ist zulässig  1a  Pflichtfeld;    Ja / Nein  2b |
 | In den letzten 4 Wochen: | Ja / Nein | Pflichtfeld; | Genau eine Angabe ist zulässig |
 
-Nr. entsprechend den Festlegungen der Plausibilitätsregeln auszufüllen Häufigkeit von Asthma- Symptomen tagsüber Häufigkeit des Einsatzes der Bedarfsmedikation Einschränkung von Aktivitäten im Alltag wegen Asthma Asthmabedingte Störung des Nachtschlafes (mindestens alle 12 Monate) notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen Asthma bronchiale seit der letzten Dokumentation wöchentlich / 1 mal wöchentlich / < 1 mal wöchentlich / Keine  wöchentlich / 1 mal wöchentlich / < 1 mal wöchentlich / Keine   sind die nachstehenden Felder der Anlage 10 Angabe numerisch mit drei Stellen vor und einer Stelle hinter dem Komma erfolgen Folgedokumentation auszufüllen ist zulässig.
+Nr.  sind die nachstehenden Felder der Anlage 10 entsprechend den Festlegungen der Plausibilitätsregeln auszufüllen Häufigkeit von Asthma- Symptomen tagsüber Häufigkeit des Einsatzes der Bedarfsmedikation Einschränkung von Aktivitäten im Alltag wegen Asthma Asthmabedingte Störung des Nachtschlafes (mindestens alle 12 Monate) notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen Asthma bronchiale seit der letzten Dokumentation wöchentlich / 1 mal wöchentlich / < 1 mal wöchentlich / Keine  wöchentlich / 1 mal wöchentlich / < 1 mal wöchentlich / Keine  Angabe numerisch mit drei Stellen vor und einer Stelle hinter dem Komma erfolgen Folgedokumentation auszufüllen ist zulässig.
 
 ---
 
@@ -129,7 +131,7 @@ Nr. 2-Sympathomimetika  2-Sympathomimetika   wenn „Keine“ und/oder „Kontra
 | - |  |  | „Keine“ und „Kontraindikation“ können einzeln oder gemeinsam  7   Pflichtfeld; |
 | 8 | Inhalationstechnik überprüft | Ja / Nein | Pflichtfeld; |
 
-Nr. Medikation  (bei aktueller Dokumentation)  Einschreibung in DMP bereits wahrgenommen Andere   wahrgenommen  letzter Dokumentation keine Schulung angekreuzt werden, „Bei Bedarf“ und „Dauermedikation“ können einzeln oder gemeinsam angekreuzt werden. angekreuzt werden wenn „Nein“ angekreuzt ist, ist keine weitere Angabe möglich. „Leukotrien-Rezeptor-Antagonisten“ und „Andere“ können einzeln oder gemeinsam angekreuzt werden. Erstdokumentation auszufüllen ist.  zulässig. Folgedokumentation auszufüllen ist. zulässig.
+Nr. Medikation  Andere   (bei aktueller Dokumentation)  Einschreibung in DMP bereits wahrgenommen wahrgenommen  letzter Dokumentation keine Schulung angekreuzt werden, „Bei Bedarf“ und „Dauermedikation“ können einzeln oder gemeinsam angekreuzt werden. angekreuzt werden wenn „Nein“ angekreuzt ist, ist keine weitere Angabe möglich. „Leukotrien-Rezeptor-Antagonisten“ und „Andere“ können einzeln oder gemeinsam angekreuzt werden. Erstdokumentation auszufüllen ist.  zulässig. Folgedokumentation auszufüllen ist. zulässig.
 
 ---
 

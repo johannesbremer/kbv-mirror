@@ -34,195 +34,145 @@
 
 **Anbieter**
 
-CompuGroup Medical Deutschland AG
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-medatixx GmbH & Co. KG
-
-CompuGroup Medical Deutschland AG
-
-INDAMED EDV-Entwicklung und Vertrieb GmbH
-
-Dedalus HealthCare GmbH
-
-Zollsoft GmbH
-
-medatixx GmbH & Co. KG
-
-medatixx GmbH & Co. KG
-
-CompuGroup Medical Deutschland AG
-
-Frey ADV GmbH
-
-T 2med GmbH & Co. KG
-
-CompuGroup Medical Deutschland AG
-
-CGM Clinical Europe GmbH 1
-
-**Installationen 2.Q.2025**
-
-277
-
-180
-
-168
-
-127
-
-116
-
-116
-
-101
-
-93
-
-89
-
-86
-
-86
-
-70
-
-45
-
-**Installationen 1.Q.2025**
+CompuGroup Medical Deutschland AG 277
 
 294
 
+-17
+
+medatixx GmbH & Co. KG 180
+
 179
+
+1
+
+CompuGroup Medical Deutschland AG 168
 
 177
 
-121
-
-117
-
-103
-
-103
-
-90
-
-87
-
-87
-
-84
-
-69
-
-43
-
-**Differenz**
-
--17
-
-1
-
 -9
+
+INDAMED EDV-Entwicklung und Vertrieb GmbH 127 121
 
 6
 
+Dedalus HealthCare GmbH 116
+
+117
+
 -1
+
+Zollsoft GmbH 116
+
+103
 
 13
 
+medatixx GmbH & Co. KG 101
+
+103
+
 -2
+
+medatixx GmbH & Co. KG 93
+
+90
 
 3
 
+CompuGroup Medical Deutschland AG 89
+
+87
+
 2
 
+Frey ADV GmbH 86
+
+87
+
 -1
+
+T 2med GmbH & Co. KG 86
+
+84
+
+2
+
+CompuGroup Medical Deutschland AG 70
+
+69
+
+1
+
+CGM Clinical Europe GmbH 45
+
+43
 
 2
 
 1
-
-2
 
 
 ---
 
 **Id Praxissoftware**
 
+**Anbieter**
+
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
+
 266 **x.comfort**
 
-343 **SAP Ambulatory Care Management**
+medatixx GmbH & Co. KG 41
+
+42
+
+-1
+
+343 **SAP Ambulatory Care Management** SAP SE 37
+
+42
+
+-5
 
 135 **EL - Elaphe Longissima**
 
-136 **InterARZT**
-
-314 **IMedOne**
-
-086 **DURIA**
-
-015 **MEDYS**
-
-**Anbieter**
-
-medatixx GmbH & Co. KG
-
-SAP SE
-
-medatixx GmbH & Co. KG
-
-InterData Praxiscomputer GmbH
-
-Deutsche Telekom Clinical Solutions GmbH
-
-Duria eG
-
-MEDYS GmbH 2
-
-**Installationen 2.Q.2025**
-
-41
-
-37
-
-36
-
-32
-
-29
-
-28
-
-21
-
-**Installationen 1.Q.2025**
-
-42
-
-42
+medatixx GmbH & Co. KG 36
 
 34
-
-33
-
-34
-
-28
-
-22
-
-**Differenz**
-
--1
-
--5
 
 2
 
+136 **InterARZT**
+
+InterData Praxiscomputer GmbH 32
+
+33
+
 -1
+
+314 **IMedOne**
+
+Deutsche Telekom Clinical Solutions GmbH 29 34
 
 -5
 
+086 **DURIA**
+
+Duria eG 28
+
+28
+
 0
 
+015 **MEDYS**
+
+MEDYS GmbH 21
+
+22
+
 -1
+
+2

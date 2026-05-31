@@ -145,13 +145,19 @@ COPD-Schulung empfohlen (bei aktueller Dokumentation)  Schulung schon vor der Ei
 
 24
 
-/ 14. November 25  26  26  27  27
+25  26  26  27  27
 
-28  28  28  29
+28
+
+28
+
+28  29
 
 30
 
 30
+
+/ 14. November
 
 
 ---

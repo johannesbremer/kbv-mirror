@@ -29,25 +29,23 @@ Version 9
 
 ## Vorbemerkung
 
-Die Dokumentation stellt ein Kernelement zur Umsetzung der Disease -Management- Programme dar. Neben der Erhebung der Ausgangsdaten erfüllt die Dokumentation weitere  wichtige Funktionen:
+Die Dokumentation stellt ein Kernelement zur Umsetzung der Disease-Management- Programme dar. Neben der Erhebung der Ausgangsdaten erfüllt die Dokumentation weitere  wichtige Funktionen:
 
-Sie bildet den Verlauf der Erkrankung ab und kann als Checkliste bezüglich medikamentöser  und nicht -medikamentöser Maßnahmen, indikationsbezogener
+Sie bildet den Verlauf der Erkrankung ab und kann als Checkliste bezüglich medikamentöser  und nicht-medikamentöser
 
 Kontrolluntersuchungen dienen. Sie stellt einen Informationsspeicher für Sie und Ihren  Patienten dar und hält gemeinsame Zielvereinbarungen fest.
 
-Ein Ausdruck der Dokumentation kann bei notwendigen Über - und Einweisungen als
-
-Begleitbrief dienen.
+Ein Ausdruck der Dokumentation kann bei notwendigen Über- und Einweisungen als  Begleitbrief dienen.
 
 Schließlich bildet die Dokumentation die Basis für die Gestaltung Ihres individuellen Feedback Berichts, die Durchführung der Qualitätssicherung und für die Programmeval
 
-Die sorgfältige Eintragung der Daten ist daher überaus wichtig und für Sie, Ihre Patientinnen  und Patienten und alle mitbehandelnden Ärztinnen und Ärzte von Vorteil.
+Die sorgfältige Eintragung der Daten ist daher überaus wichtig und für Sie, Ihre Patientinnen  und Patienten und alle mitbehandelnden
 
-Ab dem 01. Juli 2008 hat der Gesetzgeber die ausschließliche elektronische Datenerfassung  und -übermittlung vorgesehen, um die Datenqualität zu verbessern und die Verzahnung der  Dokumentationen innerhalb der unterschiedlichen Indikationen herzustellen. Zudem sind die  Dokumentationsdaten auf diejenigen Daten beschränkt, die
+Ab dem 01. Juli 2008 hat der Gesetzgeber die ausschließliche elektronische Datenerfassung  und -übermittlung vorgesehen, um die Datenqualität zu verbessern und die Verzahnung der  Dokumentationen innerhalb der unterschiedlichen Indikationen herzustellen. Zudem sind die  Dokumentationsdaten auf
 
 Qualitätssicherung genutzt werden können, Aussagen zum Krankheitsverlauf möglich machen  und im Rahmen der Evaluation Anwendung finden.
 
-Für alle DMP -Indikationen sind zunächst die in einer Praxis-Verwaltungs-Software (PVS)  bereits hinterlegten administrativen Daten, Daten zu allgemeiner Anamnese und zu bekannten  Befunden sowie Daten zum Behandlungsplan zu dokumentieren. Im Weiteren kommen dann  diagnosespezifische Daten, wie z. B. der HbA1c -Wert beim Diabetes oder Angaben zur  Medikation, hinzu.
+Für alle DMP-Indikationen sind zunächst die in einer Praxis-Verwaltungs-Software (PVS)  bereits hinterlegten administrativen Daten, Daten zu allgemeiner Anamnese und zu bekannten  Befunden sowie Daten zum Behandlungsplan zu dokumentieren. Im Weiteren kommen dann  diagnosespezifische Daten, wie z. B. der HbA1c-Wert beim Diabetes oder Angaben zur  Medikation, hinzu.
 
 Die Auswahl und Zusammenführung der Daten erfolgt durch die Dokumentationssoftware. Sie  als dokumentierender Arzt erhalten die notwendigen Dokumentationsparameter durch die  Vorauswahl der von Ihnen zu dokumentierenden Indikationen (siehe auch Erläuterungen zu  „Einschreibung wegen“). Es entfällt die Notwendigkeit der nach Indikationen getrennten  Dokumentation.
 
@@ -67,11 +65,15 @@ DMP gibt es für die Indikationen - Brustkrebs
 
 - COPD
 
-Risikofaktoren und
+Maßnahmen, indikationsbezogener Risikofaktoren und
 
 uation.
 
-für eine effektive
+Ärztinnen und Ärzte von Vorteil.
+
+diejenigen Daten beschränkt,
+
+die für eine effektive
 
 
 ---
@@ -86,25 +88,23 @@ für eine effektive
 
 - Rheumatoide Arthritis
 
-Zielgruppe sind alle gesetzlich krankenversicherten Patientinnen und Patienten, bei denen  eine oder mehrere der vorstehenden Erkrankungen vorliegt. Die zuständige Krankenkasse  muss einen entsprechenden Vertrag mit der jeweiligen KV abgeschlossen haben, und die  Patientin oder der Patient muss die Einschreibekriterien des Programms entsprechend der  Vorgaben der Risikostruktur-Ausgleichsverordnung ( RSAV) und der DMP-Anforderungen- Richtlinie (DMP-A-RL) des gemeinsamen Bundesausschusses
+Zielgruppe sind alle gesetzlich krankenversicherten Patientinnen und Patienten, bei denen  eine oder mehrere der vorstehenden Erkrankungen vorliegt. Die zuständige Krankenkasse  muss einen entsprechenden Vertrag mit der jeweiligen KV abgeschlossen haben, und die  Patientin oder der Patient muss die Einschreibekriterien des Programms entsprechend der  Vorgaben der Risikostruktur-Ausgleichsverordnung (RSAV) und der DMP-Anforderungen- Richtlinie (DMP-A-RL) des gemeinsamen Bundesausschusses
 
 *Wann ist die Dokumentation vollständig?*
 
-Die Dokumentation ist vollständig, wenn zu jedem Fragenkomplex die erforderlichen Angaben  gemacht worden sind. Ihre Praxissoftware unterstützt Sie
+Die Dokumentation ist vollständig, wenn zu jedem Fragenkomplex die erforderlichen Angaben  gemacht worden sind. Ihre Praxissoftware unterstützt
 
 Vollständigkeit der Angaben.
 
-Die Dokumentation ist ausschließlich elektronisch zu erstellen. Denken Sie bitte daran, eine  Sicherheitskopie des Datensatzes anzufertigen und  jeweils einen Ausdruck der ausgefüllten Dokumentation auszuhändigen.
+Die Dokumentation ist ausschließlich elektronisch zu erstellen. Denken Sie bitte daran, eine  Sicherheitskopie des Datensatzes anzufertigen und Ihrer Patientin oder Ihrem Patienten  jeweils einen Ausdruck der ausgefüllten Dokumentation auszuhändigen.
 
-Bedenken Sie, dass aufgrund vertraglicher Regelungen  Dokumentationen und bei Einhaltung der Dokumentationsfristen eine Vergütung an Sie  erfolgen kann.
+Bedenken Sie, dass aufgrund vertraglicher Regelungen nur bei vollständig ausgefüllten  Dokumentationen und bei Einhaltung der Dokumentationsfristen eine Vergütung an Sie  erfolgen kann.
 
 *Wie werden die Dokumentationen weitergeleitet und honoriert?*
 
 Die Dokumentationen sind aus Ihrer Praxis elektronisch an die  zu übermitteln. Dies kann auf direktem Wege über eine gesicherte Datenleitung erfolgen.  Alternativ können die Daten in einigen Regionen auch online (z.B. auf einem Server der  Datenstelle) erfasst oder aber über den Postversan d eines Datenspeichers, wie etwa einer  CD-ROM, übermittelt werden.
 
-**Bitte beachten Sie, dass für die Weiterleitung der Daten und die** **Patientin oder Ihres Pat ienten es zwingend erforderlich ist, dass**
-
-**vollständigen Erstdokumentation die Teilnahme- und Einwilligungserklärung von Ihnen**
+**Bitte beachten Sie, dass für die Weiterleitung der Daten und die** **Patientin oder Ihres Patienten es zwingend erforderlich ist, dass zusätzlich zur**  **vollständigen Erstdokumentation die Teilnahme- und Einwilligungserklärung von Ihnen**
 
 **beiden unterschrieben und unmittelbar**
 
@@ -112,9 +112,7 @@ Die Dokumentationen sind aus Ihrer Praxis elektronisch an die  zu übermitteln. 
 
 die jeweils notwendigen Unterschriften von Ihnen und
 
-(Bei Ausdruck aus der PVS: drei Seiten mit Originalunterschriften, bei Verwendung der  Formularvordrucke: Erste Seite mit Originalunt erschriften, zweite und dritte Seite als  Durchschlag). Neben dem Exemplar, das an die Datenstelle zu versenden ist, erhält ein  Exemplar die Patientin oder der Patient und ein Exemplar verbleibt bei Ihnen in der
-
-Patientenakte.
+(Bei Ausdruck aus der PVS: drei Seiten mit Originalunterschriften, bei Verwendung der  Formularvordrucke: Erste Seite mit Originalunterschriften, zweite und dritte Seite als  Durchschlag). Neben dem Exemplar, das an die Datenstelle zu versenden ist, erhält ein  Exemplar die Patientin oder der Patient und ein Exemplar verbleibt bei Ihnen in der  Patientenakte.
 
 Sollten die von Ihnen vorgenommenen Angaben in der Dokumentation unvollständig oder  unplausibel sein, wird die Dokumentation in Kopie an Sie zur Korrektur zurückgeschickt.  Wenngleich durch die Programmierung Ihrer PVS solche Fälle in der Regel vermieden werden,  lassen sich gelegentliche Fehler im übermittelten Datensatz erfahrungsgemäß doch nicht  sicher ausschließen. Die vollständige und
 
@@ -122,17 +120,11 @@ abgeschlossener Korrektur bzw. Vervollständigung der zuständigen Datenstelle i
 
 erfüllen.
 
-bei der Feststellung der
-
-Ihrer Patientin oder Ihrem Patienten
-
-nur bei vollständig ausgefüllten
+Sie bei der Feststellung der
 
 für Sie zuständige Datenstelle
 
 **gültige Teilnahme Ihrer**
-
-**zusätzlich zur**
 
 **an die zuständige Datenstelle oder**
 
@@ -150,19 +142,15 @@ Wenn Sie noch Fragen zum Ausfüllen oder zur Handhabung der Dokumentation haben,
 
 **DMP-Fallnummer**
 
-Für jede Patientin und  behandelnder Arzt genau eine  (Zahlen und/oder Buchstaben) bestehen darf. Die Fallnummer darf jeweils nur für eine  Patientin oder einen Patienten verwendet werden. Sie hat den Zweck, das s Sie
+Für jede Patientin und jeden Patienten vergeben Sie als behandelnde Ärztin oder  behandelnder Arzt genau eine **DMP-Fallnummer**
 
-Informationen aus den eingehenden Feedback -Berichten trotz Pseudonymisierung der  richtigen Patientin bzw. dem richtigen Patienten zuordnen können und muss daher auch  für die Folgedokumentationen unverändert weitergeführt werden.
+(Zahlen und/oder Buchstaben) bestehen darf. Die Fallnummer darf jeweils nur für eine  Patientin oder einen Patienten verwendet werden. Sie hat den Zweck, dass Sie  Informationen aus den eingehenden Feedback-Berichten trotz Pseudonymisierung der  richtigen Patientin bzw. dem richtigen Patienten zuordnen können und muss daher auch  für die Folgedokumentationen unverändert weitergeführt werden.
 
 Nimmt Ihre Patientin oder Ihr Patient an mehreren DMP teil, können Sie dieselbe DMP Fallnummer für diese Patientin oder diesen Patienten für alle DMP verwenden.
 
-Auch können Sie die DMP -Fallnummer für dieselbe Patientin bzw. denselben Patienten  nach einer erfolgten
+Auch können Sie die DMP -Fallnummer für dieselbe Patientin bzw. denselben Patienten  nach einer erfolgten Programmbeendigung bei
 
 verwenden.
-
-jeden Patienten vergeben Sie als  **DMP-Fallnummer**
-
-Programmbeendigung bei
 
 **Vertragsarzt- und Betriebsstätten-Nummer**
 
@@ -188,21 +176,19 @@ Sollten Sie die Dokumentation in Vertretung (z. B. Urlaubsvertretung vom Versich
 
 Über diese Eingabe werden automatisch die zu dokumentierenden indikationsbezogenen  Parameter aufgerufen. Die gleichzeitige Angabe und damit parallele Dokumentation  mehrerer Indikationen ist dabei möglich. Möchten Sie bei einer Mehrfachteilnahme  Patientin oder eines Patienten aktuell nur eine Indikation dokumentieren, wählen Sie bitte  nur die Indikation aus, für die Sie die Dokumentation erstellen wollen.
 
-Bitte beachten Sie, dass eine gleichzeitige
+Bitte beachten Sie, dass eine
 
 ausgeschlossen ist:
 
 teilnehmende
 
-Teilnahme für
+gleichzeitige
 
 -  Diabetes mellitus Typ 1 und Diabetes mellitus Typ 2 -  Asthma bronchiale und COPD
 
 -  KHK und Chronische Herzinsuffizienz
 
-Um die notwendigen Dokumentationsparameter aufzurufen, müssen Sie den jeweiligen  Dokumentationstyp (z. B. Erst - oder Folgedokumentation) für die jeweils ausgewählte  Indikation angeben. Dabei ist es möglich, die  Dokumentationstypen zu kombinieren. So können
-
-behandelnde Ärztin oder
+Um die notwendigen Dokumentationsparameter aufzurufen, müssen Sie den jeweiligen  Dokumentationstyp (z. B. Erst- oder Folgedokumentation) für die jeweils ausgewählte  Indikation angeben. Dabei ist es möglich, die diagnosebezogen unterschiedlichen  Dokumentationstypen zu kombinieren. So können
 
 , die aus maximal sieben Zeichen
 
@@ -210,13 +196,7 @@ einer Wiedereinschreibung erneut
 
 (neben Ihrer Arztnummer) jeweils die
 
-Krankenhaus
-
-folgende Indikationen -
-
-diagnosebezogen unterschiedlichen  Sie z. B.
-
--Nummer an.
+Krankenhaus -Nummer an.
 
 fügt hier sein
 
@@ -224,7 +204,9 @@ fügt hier sein
 
 einer
 
-gleichzeitig eine
+Teilnahme für folgende Indikationen -
+
+Sie z. B. gleichzeitig eine
 
 
 ---
@@ -233,7 +215,7 @@ Erstdokumentation für das DMP KHK und eine Folgedokumentation zu Diabetes melli
 
 **Geschlecht**
 
-Eine Angabe zum Geschlecht de r teilnehmenden Patientin oder des  verpflichtend.
+Eine Angabe zum Geschlecht der teilnehmenden Patientin oder des Patienten ist  verpflichtend.
 
 **Körpergröße**
 
@@ -251,15 +233,13 @@ Ist das Körpergewicht, z.B. auf Grund einer Amputation, nicht zu erheben, ist e
 
 **Blutdruck**
 
-Bei Kindern und Jugendlichen unter 18 Jahren, die an einem  teilnehmen, ist die Angabe optional. Bei allen  vollendeten 18. Lebensjahren, die an einem DMP Asthma teilnehmen, ist die Angabe  verpflichtend.
+Bei Kindern und Jugendlichen unter 18 Jahren, die an einem  teilnehmen, ist die Angabe optional. Bei allen Patientinnen und Patienten ab dem  vollendeten 18. Lebensjahren, die an einem DMP Asthma teilnehmen, ist die Angabe  verpflichtend.
 
 Bei Kindern und Jugendlichen unter 1 1 Jahren, die an einem  **Typ 1** teilnehmen, ist die Angabe optional. Bei allen Patientinnen und Patienten ab dem
 
-vollendeten 11. Lebensjahr, die an einem DMP Diabetes mellitus Typ 1
+vollendeten 11. Lebensjahr, die an einem DMP  Angabe verpflichtend.
 
-Angabe verpflichtend.
-
-Bei allen Patientinnen und Patienten , die an mindestens einem der  teilnehmen, ist eine Angabe verpflichtend.
+Bei allen Patientinnen und Patienten, die an mindestens einem der  teilnehmen, ist eine Angabe verpflichtend.
 
 Geben Sie hier bitte den aktuellen systolischen und diastolischen Blutdruckwert in mmHg  an. Bei starken Schwankungen mehrfach erhobener Werte geben Sie bitte den Mittelwert  an.
 
@@ -275,15 +255,11 @@ Eine Angabe ist verpflichtend; dabei sind Mehrfachnennungen möglich.
 
 Hier geben Sie bitte an, ob Ihre Patientin oder Ihr Patient eine oder mehrere der  aufgeführten Begleiterkrankungen hat. Sollte(n) bei Ihre r Patientin oder Ihrem Patienten  andere als die hier aufgeführten oder gar keine Begleiterkrankungen vorliegen, geben Sie  bitte „Keine der genannten Erkrankungen“ an.
 
-Patienten ist
-
 **DMP zu Asthma bronchiale**
-
-Patientinnen und Patienten ab dem
 
 **DMP zu Diabetes mellitus**
 
-teilnehmen, ist die
+Diabetes mellitus Typ 1 teilnehmen, ist die
 
 **übrigen DMP**
 
@@ -298,7 +274,7 @@ au eine Angabe.
 
 Die Angabe ist optional; dabei sind Mehrfachnennungen möglich.
 
-Sollte Ihr e Patientin oder Patient Informationen zum Tabakverzicht, zu einer
+Sollte Ihre Patientin oder Patient Informationen zum Tabakverzicht, zu einer
 
 Ernährungsberatung oder auch zu körperlichem Training von seiner Krankenkasse  wünschen, können Sie dies hier vermerken.
 

@@ -84,31 +84,19 @@
 
 #### ABBILDUNGSVERZEICHNIS
 
-Abbildung 1: /ehd (root-Element) ...........................................................................................
+Abbildung 1: /ehd (root-Element) ........................................................................................... 10
 
-Abbildung 2: ausfuellhilfen .....................................................................................................
+Abbildung 2: ausfuellhilfen ..................................................................................................... 11
 
-Abbildung 3: feld_liste ............................................................................................................
+Abbildung 3: feld_liste ............................................................................................................ 12
 
 Abbildung 4: feld 12
 
-Abbildung 5: nummer .............................................................................................................
+Abbildung 5: nummer ............................................................................................................. 13
 
-Abbildung 6: name .................................................................................................................
+Abbildung 6: name ................................................................................................................. 13
 
-Abbildung 7: hinweistext.........................................................................................................
-
-10
-
-11
-
-12
-
-13
-
-13
-
-13
+Abbildung 7: hinweistext......................................................................................................... 13
 
 
 ---
@@ -202,9 +190,13 @@ datatyp ..... Datentyp , "Satzart", "ehd." ist optional als Vorsatz erlaubt;  En
 
 vv.vv ......... VersionsNr. der Datentypbeschreibung;  Entspricht dem Element *<version>* des Header-Elements *<interface>*
 
-sender ...... Absender der Lieferung (nicht immer mit Erzeuger bzw. Erstlieferanten der Da- ten identisch) bzw. Antwort auf die Frage „Wer hat die Daten geliefert?“;  Entspricht dem Element *<person>* oder dem Element *<organization>* des Header-
+sender ...... Absender der Lieferung (nicht immer mit Erzeuger bzw. Erstlieferanten der Da- ten identisch) bzw. Antwort auf die Frage „Wer hat die Daten geliefert?“;  Entspricht dem Element  Elements *<provider>*
 
-Elements *<provider>*
+oder dem Element *<organization>*
+
+*<person>*
+
+des Header-
 
 MU+..…………Nummer des Musters
 
@@ -234,7 +226,7 @@ Es existieren verschiedene Kardinalitäten:
 
 **Tabelle 1:** Beschreibung der Kardinalitäten eines XML-Elements
 
-chelter Linie dargestellt. Es kann keinmal oder einmal vorkommen. Linie dargestellt sind, müssen genau einmal vorkom- men. nen, wird die erlaubte Anzahl rechts unter dem Sym- bol dargestellt. Die Werte können von 0 bis  (un- bounded) reichen.
+chelter Linie dargestellt. Es kann keinmal oder einmal vorkommen. Linie dargestellt sind, müssen genau einmal vorkom- men. nen, wird die erlaubte Anzahl rechts unter dem Sym- bol dargestellt. Die Werte können von 0 bis bounded) reichen.  (un-
 
 ---
 
@@ -410,9 +402,7 @@ Der XML-Code für ein <feld> Element hat folgenden Aufbau:
 
 **</feld>**
 
-**XML-Code 4:**
-
-feld
+**XML-Code 4:** feld
 
 
 ---

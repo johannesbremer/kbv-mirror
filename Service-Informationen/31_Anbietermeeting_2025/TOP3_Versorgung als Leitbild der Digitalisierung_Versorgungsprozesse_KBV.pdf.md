@@ -98,6 +98,8 @@ Verbindliche Festlegungen
 
 ### Anlagen
 
+Gesetzliche Spezifikationsaufträge
+
 #### Regelungsprozess
 
 Einheitliches Kommentierungsverfahren Vorschlag zur Verbindlichmachung
@@ -110,7 +112,7 @@ Antrag, Zertifikat, Anzeigepflichten,  Beschwerdemöglichkeiten
 
 Unterstützung Bundesregierung,  Kompetenzbildung Reporting
 
-Gesetzliche Spezifikationsaufträge  der IOP-Governance Verordnung
+der IOP-Governance Verordnung
 
 
 ---
@@ -143,15 +145,15 @@ Gesetzliche Spezifikationsaufträge  der IOP-Governance Verordnung
 
 ### IOP-Expertenkreis
 
+**KBV**
+
 **Abstimmungsrelevante Akteure** (hier beispielhaft)
 
 **setzt ein,**  **benennt &**  **kooperiert**
 
-**KBV**
+**mio42**
 
 ### Interop Council (Expertengremium)
-
-**mio42**
 
 
 ---
@@ -205,9 +207,9 @@ Datenqualität
 
 **63 Praxisverwaltungssysteme**
 
-## bestehen die KOB  Marktabdeckung
+## bestehen die KOB 96%
 
-**96%**
+## Marktabdeckung
 
 
 ---
@@ -254,9 +256,7 @@ gaben 67% der Befragten an
 
 31
 
-14 12 7
-
-2
+14 12 7 2
 
 
 ---
@@ -398,9 +398,7 @@ Versorgung auf dem Land## Kostendruck
 
 # ohne Digitalisierung schwer lösbar
 
-#### Unzureichende  Patient:innen- sicherheit
-
-#### Daten- austausch Attraktivität Individuelle Zeit für medizinischer Berufe Medizin Patient:innen
+#### Unzureichende Daten- Attraktivität Patient:innen- austausch medizinischer Berufe sicherheit Individuelle Zeit für Medizin Patient:innen
 
 ---
 
@@ -429,13 +427,13 @@ Das haben wir geschafft. Digitalisierung gewinnt an Schwung
 
 **2015**
 
+**2025**
+
 **TI-Messenger**
 
 **Elektronische**  **Patientenakte**  **(ePA)**
 
 **Elektronische**  **Medikationsliste**  **(eML)**
-
-**2025**
 
 
 ---
@@ -553,8 +551,7 @@ Das haben wir geschafft. Digitalisierung gewinnt an Schwung
 
 # Betriebsstabilität steht aufgrund der steigenden  Versorgungsrelevanz viel mehr im Fokus
 
-### Beteiligte bei Anwendungen und Diensten der TI
-
+### Beteiligte bei Anwendungen und Diensten der TI an Betriebsleistung und Betriebsverantwortung
 ~ 70 Mio. Versicherte
 
 ### ~ 245.000 Verordnende
@@ -569,11 +566,9 @@ Anzahl August 2025
 
 Veränderung seit Jan 2022
 
-### Steigende Abhängigkeiten stellen hohe Anforderungen  an Betriebsleistung und Betriebsverantwortung
+### Steigende Abhängigkeiten stellen hohe Anforderungen
 
-**1**
-
-### TI-Teilnehmer 127
+### TI-Teilnehmer1 127
 
 +95%
 

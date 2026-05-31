@@ -32,18 +32,18 @@ Die Änderungen treten zum 1. Oktober 2025 in Kraft
 | 1.51 | 09.11.2020 | KBV | Neue Schnittstelle: chronischer Rü- Anpassung der Archivendungen   Streichung von FEK, BERST und DIA |  | **12, 16, 26 **  **16  12, 14, 16,  26** |
 | 1.50 | 30.04.2019 | KBV | Neue Schnittstelle: Herzinsuffizienz  Erweiterung des Formats der Version |  | **11, 14, 26  24** |
 | 1.49 | 21.01.2019 | KBV | Anpassung der Archivdateinamen im  Aktualisierung des Transportbegleit- |  | **14 **  **30** |
-| 1.48 | 28.06.2018 | KBV | Aufnahme des Archivdateinamens mit Aufgrund einer Fehlerkorrek- | aktualisiert | **14** |
+| 1.48 | 28.06.2018 | KBV | Aufnahme des Archivdateinamens mit Aufgrund einer Fehlerkorrek- | tur des Brustkrebsschemas | **14** |
 | 1.47 | 25.05.2018 | KBV | Aufnahme des Archivdateinamens mit Aktualisierung des DMP  Streichung der Diskette als Datenträ- | Brustkrebs | **14 **  **29, 29, 30** |
 | 1.46 | 08.01.2018 | KBV | Anpassung der Archivdateinamen für |  | **14 ** |
 | 1.45 | 04.12.2017 | KBV | Anpassung der Archivdateinamens | Streichung des Modules | **14 ** |
 
-**K** **U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O**  **R** **I** **E**
+**K** **U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O** **R** **I** **E**
 
-esselungssoftware der Begleitdatei eDMPs DM1 und DM2  ritis pression ckenschmerz, Depression  der Verschlüsselungssoftware Zusammenhang mit der Aktualisie- rung des eDMPs Asthma zettel Beispiels der Endung *423 für die Übergangs- regelung des DMPs Brustkrebs der Endung *422 für die Übergangs- regelung des DMPs Brustkrebs ger die Anpassung des Personalienfeldes für Streichung des Modules Herzin- tur Komponentennummer im XML-Schema wurde die Versionsnummer aktualisiert tur des Brustkrebsschemas wurde die Versionsnummer
+esselungssoftware der Begleitdatei eDMPs DM1 und DM2  ritis pression ckenschmerz, Depression  der Verschlüsselungssoftware Zusammenhang mit der Aktualisie- rung des eDMPs Asthma zettel Beispiels der Endung *423 für die Übergangs- regelung des DMPs Brustkrebs der Endung *422 für die Übergangs- regelung des DMPs Brustkrebs ger die Anpassung des Personalienfeldes für Streichung des Modules Herzin- tur Komponentennummer im XML-Schema wurde die Versionsnummer aktualisiert wurde die Versionsnummer aktualisiert
 
 ---
 
-**I** **N** **H** **A** **L** **T** **S** **V** **E** **R** **Z** **E** **I** **C** **H**  **N** **I** **S**
+**I** **N** **H** **A** **L** **T** **S** **V** **E** **R** **Z** **E** **I** **C** **H** **N** **I** **S**
 
 **DOKUMENTENHISTORIE ___________________________________________________ 2**
 
@@ -181,17 +181,17 @@ Abbildung 12  Transportbegleitzettel ...........................................
 | **IT in** | **der Arztpraxis** |  |  |  |
 |---|---|---|---|---|
 | Austausch | von XML-Daten | in der vertragsärztlichen | Versorgung |  |
-| **T A** | **B E L L** | **E N V E R Z** | **E I C H N I S** |  |
+| **T A** | **B E L L E** | **N V E R Z E I** | **C H N I S** |  |
 | Tabelle | 1 – Beschreibung | der | Kardinalitäten | ........................................................................... 9 |
 | Tabelle | 2 – Beschreibung | der | Strukturelement-Symbole | ......................................................... 9 |
 | Tabelle | 3 – | Beschreibung sonstiger | Symbole | ........................................................................ 10 |
 | Tabelle | 4 - Zulässige | relative Pfade | ...................................................................................... | 12 |
-| Tabelle | 5 – Kürzel | der Dokumentationsarten | ......................................................................... | 16 |
+| Tabelle | 5 – Kürzel | der Dokumentationsarten | | ......................................................................... 16 |
 | Tabelle | 6 – | Sonderzeichen in XML | ........................................................................................ | 17 |
 | Tabelle | 7 - Zulässige | relative Pfade | für Element Verzeichnispfad | ......................................... 26 |
 |  | KBV_ITA_VGEX_XML-Schnittstellen | * Version | 1.59 | Seite 6 von 31 |
 
-Tabelle 1  Beschreibung der Kardinalitäten Tabelle 2  Beschreibung der Strukturelement Tabelle 3  Beschreibung sonstiger Symbole Tabelle 4 - Zulässige relative Pfade  ...................................................................................... 12 Tabelle 5  Kürzel der Dokumentationsarten Tabelle 6 ........................................................................................ 17 Tabelle 7 - Zulässige relative Pfade für Element Verzeichnispfad ......................................................................... 16
+Tabelle 1  Beschreibung der Kardinalitäten Tabelle 2  Beschreibung der Strukturelement Tabelle 3  Beschreibung sonstiger Symbole Tabelle 4 - Zulässige relative Pfade  ...................................................................................... 12 Tabelle 5  Kürzel der Dokumentationsarten Tabelle 6 ........................................................................................ 17 Tabelle 7 - Zulässige relative Pfade für Element Verzeichnispfad
 
 ---
 
@@ -241,9 +241,9 @@ XML-Code 22  von ...............................................................
 
 XML-Code 23  bis................................................................................................................ 27
 
-**X** **M** **L- C** **O** **D**
+**X** **M** **L - C** **O** **D**
 
-**E V** **E** **R** **Z** **E** **I** **C** **H** **N**  **I** **S**
+**E V** **E** **R** **Z** **E** **I** **C** **H** **N** **I** **S**
 
 
 ---
@@ -252,7 +252,7 @@ XML-Code 23  bis................................................................
 
 Mit den Spitzenverbänden der Krankenkassen wurden die Regularien zum Datenaustausch  mit den Datenstellen verbindlich vereinbart und sind nachfolgend beschrieben.
 
-Alle Informationen (Dokumentationen), die zu einem definierten Zeitpunkt übertragen werden,  werden in einem ZIP-Archiv zusammengefasst. Da ca. 65.000 einzelne XML-Dateien mit Ver- zeichnisangabe in eine ZIP -Archivdatei gepackt werden können, wird in dem hier dargestell- ten Konzept auch berücksichtigt, dass eine Datenlieferung mehrere ZIP -Archive umfassen  kann. Die einzelnen ZIP-Archive sind mit dem KBV-Kryptomodul (XKM) zu verschlüsseln. De- taillierte Erläuterungen zum Erstellen des ZIP-Archivs sind dem Kapitel 3.4.2 zu entnehmen.
+Alle Informationen (Dokumentationen), die zu einem definierten Zeitpunkt übertragen werden,  werden in einem ZIP-Archiv zusammengefasst. Da ca. 65.000 einzelne XML-Dateien mit Ver- zeichnisangabe in eine ZIP -Archivdatei gepackt werden können, wird in dem hier dargestell- ten Konzept auch berücksichtigt, dass eine Datenlieferung mehrere ZIP-Archive umfassen  kann. Die einzelnen ZIP-Archive sind mit dem KBV-Kryptomodul (XKM) zu verschlüsseln. De- taillierte Erläuterungen zum Erstellen des ZIP-Archivs sind dem Kapitel 3.4.2 zu entnehmen.
 
 Zu jeder Datenlieferung *(Ausnahmen siehe Abschnitt 3.4.3 )* wird eine entsprechende Anzahl
 
@@ -260,7 +260,7 @@ von Begleitdateien erstellt, welche u.a. Informationen zu diesen einzelnen ZIP -
 
 halten. Dazu gehören Archivdateiname, Verzeichnispfad und Zeitraumangabe. Die Begleitda- teien werden separat zusammen mit den Archiven übermittelt und ermöglichen somit eine  Vorabprüfung der Datenlieferung.
 
-Grundsätzlich sind alle Nutzdaten (ZIP -Archive), die von einer Arztpraxis übermittelt werden,  mit Hilfe des KBV -Kryptomoduls (XKM) zu verschlüsseln. Die Begleitdateien werden **nicht**
+Grundsätzlich sind alle Nutzdaten (ZIP -Archive), die von einer Arztpraxis übermittelt werden,  mit Hilfe des KBV-Kryptomoduls (XKM) zu verschlüsseln. Die Begleitdateien werden **nicht**
 
 verschlüsselt.
 
@@ -271,7 +271,7 @@ Die hier beschriebenen Sachverhalte sind so angelegt, dass sie gleichermaßen f�
 
 # 2 Semantik der verwendeten Diagramm
 
-Zur Visualisierung der verwendeten XML -Schemata werden Diagramme verwendet, deren  Symbole in den folgenden Kapiteln kurz erläutert werden sollen.
+Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, deren  Symbole in den folgenden Kapiteln kurz erläutert werden sollen.
 
 # Symbole
 
@@ -281,15 +281,15 @@ Es existieren verschiedene Kardinalitäten:
 
 | **Kardinalität** | **Symbol** | **Beschreibung** |
 |---|---|---|
-| 0..1 |  | Linie dargestellt. Es kann kein oder einmal vorkommen |
+| 0..1 |  | Optionales Element: Element wird als Rechteck mit gestrichelter |
 | 1 |  | Musselement:  Rechteck mit durchgezogner |
 | n...m |  | Multielement: enthält mindestens n aber maximal m Elemente, |
 
+**Tabelle 1**
+
 ## 2.2 Strukturelemente
 
-Die Elemente eines Schema -Diagramms werden über sogenannte Strukturelemente mitei- nander logisch verknüpft. In diesem Dokument werden zwei Strukturelement-Arten verwendet:  Choice und Sequence.
-
-**Tabelle 1**
+Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mitei- nander logisch verknüpft. In diesem Dokument werden zwei Strukturelement-Arten verwendet:  Choice und Sequence.
 
 **Beschreibung der Kardinalitäten**
 
@@ -306,12 +306,12 @@ Es werden außerdem folgende Diagramm
 
 | **Symbol** | **Beschreibung** |
 |---|---|
-|  |  |
+|  | Ein Element mit mehreren Kindelementen wird durch ein Pluszeichen |
 |  | Referenzelement: Der Pfeil links unten im Element zeigt an, dass das |
 
 -Symbole verwendet:
 
-Optionales Element: Element wird als Rechteck mit gestrichelter muss genau einmal vorkommen was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindes- tens einmal vorkommen muss aber auch beliebig oft auftreten kann. Linie. Das Element genau eines ausgewählt werden kann.  gelegter Reihenfolge aufgeführt werden müssen. verschiedenen Kindelementen Ein Element mit mehreren Kindelementen wird durch ein Pluszeichen am Rechteckrand symbolisiert. Element an anderer Stelle im Schema definiert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein.
+Linie dargestellt. Es kann kein oder einmal vorkommen muss genau einmal vorkommen was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindes- tens einmal vorkommen muss aber auch beliebig oft auftreten kann. Linie. Das Element genau eines ausgewählt werden kann.  gelegter Reihenfolge aufgeführt werden müssen. verschiedenen Kindelementen am Rechteckrand symbolisiert. Element an anderer Stelle im Schema definiert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein.
 
 ---
 
@@ -432,7 +432,7 @@ deutlichen:
 
 Der allgemeine Aufbau des Befehls zip sieht demzufolge so aus:
 
-***zip [ -options] [archivname] [Liste mit Verzeichnissen bzw. Dateien, die komprimiert***  ***werden sollen]***
+***zip [-options] [archivname] [Liste mit Verzeichnissen bzw. Dateien, die komprimiert***  ***werden sollen]***
 
 Eine Übersicht über die Konfigurationsmöglichkeiten und weiteren Befehlen erhalten Sie,  wenn Sie einfach den Befehl ***zip*** in die Kommandozeile eingeben. Sie bekommen dann fol-
 
@@ -471,7 +471,7 @@ art enthalten soll, wird folgendes festgelegt. Der Name soll die Attribute „Ab
 
 Anstelle von *Absender* muss die konkrete (N)BSNR des Tätigkeitsortes, an dem die Archivda-
 
-tei erstellt wurde bzw. das konkrete Krankenhaus -IK des Krankenhauses als Absender der  Daten stehen. Die (N)BSNR sowie das Krankenhaus-IK sind neun Stellen lang.
+tei erstellt wurde bzw. das konkrete Krankenhaus-IK des Krankenhauses als Absender der  Daten stehen. Die (N)BSNR sowie das Krankenhaus-IK sind neun Stellen lang.
 
 *JJJJMMTTHHMMSS* enthält das Erstellungsdatum und die Uhrzeit (Stunden, Minuten, Se-
 
@@ -624,9 +624,7 @@ folgt aus:
 
 **<?xml version="1.0" encoding="ISO-8859-15"?>**
 
-**<bgl:begleitdatei xmlns:bgl="[http://www.kbv.de/ns/meta/2003-05-15"](http://www.kbv.de/ns/meta/2003-05-15")**  **xmlns:xsi="[http://www.w3.org/2001/XMLSchema-instance"](http://www.w3.org/2001/XMLSchema-instance")**  **xsi:schemaLocation="[http://www.kbv.de/ns/meta/2003-05-15](http://www.kbv.de/ns/meta/2003-05-15)**
-
-**..\Schema\begleitdatei.xsd"**  **Version="...">**
+**<bgl:begleitdatei xmlns:bgl="[http://www.kbv.de/ns/meta/2003-05-15"](http://www.kbv.de/ns/meta/2003-05-15")**  **xmlns:xsi="[http://www.w3.org/2001/XMLSchema-instance"](http://www.w3.org/2001/XMLSchema-instance")**  **xsi:schemaLocation="[http://www.kbv.de/ns/meta/2003-05-15](http://www.kbv.de/ns/meta/2003-05-15)**  **..\Schema\begleitdatei.xsd"**  **Version="...">**
 
 **<bgl:erstellungsdatum-datei V="..."/>**
 
@@ -666,52 +664,38 @@ folgt aus:
 
 **</bgl:begleitdatei>**
 
-**XML-Code 1**
+**XML-Code 1  begleitdatei**
 
-## 4.1 Datum der Erstellung (erstellungsdatum
+## 4.1 Datum der Erstellung (erstellungsdatum-datei)
 
 Das Element *erstellungsdatum-datei* enthält als Wert das Datum der Erstellung der Gesamtlie-
 
-ferung. Das Datum hat das Format JJJJ-MM-TT. Das Element muss genau einmal vorhanden
-
-sein.
+ferung. Das Datum hat das Format JJJJ-MM-TT. Das Element muss genau einmal vorhanden  sein.
 
 Folgender Code sei hier als Beispiel angegeben:
 
 **<bgl:erstellungsdatum-datei V="2003-08-13"/>**
 
-**XML-Code 2**
+**XML-Code 2  erstellungsdatum-datei**
 
 ## 4.2 Datei-Empfänger (empfaenger)
 
 Das Element *empfaenger* enthält die Information über den Empfänger der Gesamtlieferung.
 
-Es ist ein komplexer Typ und darf nur eines der beiden Kindelemente
+Es ist ein komplexer Typ und darf nur eines der beiden Kindelemente *ukv* oder *datenstelle*
 
 enthalten.
 
-Die Grundstruktur für dieses Element ist in
+Die Grundstruktur für dieses Element ist in Abbildung 4 dargestellt.
 
-**erstellungsdatum-datei**
-
-Abbildung 4 dargestellt.
-
-**Abbildung 4**
-
-**Grundstruktur empfaenger**
-
-**begleitdatei**
-
-## -datei)
-
-*ukv* oder *datenstelle*
+**Abbildung 4  Grundstruktur empfaenger**
 
 
 ---
 
 ### 4.2.1 Bezirksstelle (ukv)
 
-Das Element *ukv* enthält die Attribute *EX* und *RT*. Im *EX*-Attribut steht der konkrete 2 -stellige
+Das Element *ukv* enthält die Attribute *EX* und *RT*. Im *EX*
 
 Schlüssel der Bezirksstelle. Im *RT* Attribut steht der feste Wert „UKV
 
@@ -723,17 +707,17 @@ Folgender Code sei hier als Beispiel angegeben:
 
 **</bgl:empfaenger>**
 
-Zulässige Werte  1.2.276.0.76.5.230 entnommen werden
-
 **XML-Code 3  empfaenger (ukv)**
 
-für die Bezirksstelle können  [1].
+Zulässige Werte für die Bezirksstelle können
+
+1.2.276.0.76.5.230 entnommen werden [1].
 
 ### 4.2.2 Datenstelle (datenstelle)
 
-Das Element *datenstelle* enthält die Attribute *EX* und
+Das Element *datenstelle* enthält die Attribute *EX* und *RT*
 
-stellige Institutskennzeichen der Datenstelle. Im *RT*
+stellige Institutskennzeichen der Datenstelle. Im *RT* Attribut steht der feste Wert „Instituts-
 
 kennzeichen“.
 
@@ -745,13 +729,11 @@ Folgender Code sei hier als Beispiel angegeben:
 
 **</bgl:empfaenger>**
 
-Eine Angabe des
-
-[KBV_ITA_VGEX_Schnittstelle_SDDA
-
 **XML-Code 4  empfaenger (datenstelle)**
 
-zulässigen Institutskennzeichens  ] enthalten.
+Eine Angabe des zulässigen Institutskennzeichens
+
+[KBV_ITA_VGEX_Schnittstelle_SDDA] enthalten.
 
 ## 4.3 Datei-Absender (absender)
 
@@ -760,16 +742,6 @@ Das Element *absender* enthält die Information über den Absender der Gesamtlie
 ein komplexer Typ und enthält entweder das Kindelement
 
 Die Grundstruktur für dieses Element ist in Abbildung 5 dargestellt.
-
-der Schlüsseltabelle
-
-*RT*. Im *EX*
-
-Attribut steht der feste Wert „Instituts-
-
-der
-
-*arzt, krankenhaus*
 
 **Abbildung 5**
 
@@ -783,19 +755,19 @@ Folgender Code sei hier als Beispiel angegeben:
 
 **Grundstruktur absender**
 
-und *RT*. Im *EX*-Attribut wird auf die BSNR bzw.
+und *RT*. Im
 
-Nummer“.
+-Attribut steht der konkrete 2 -stellige  Nummer“.
 
-mit der OID
+der Schlüsseltabelle mit der OID
 
--Attribut steht das konkrete 9-
+. Im *EX*-Attribut steht das konkrete 9-
 
-Datenstellen ist in
+der Datenstellen ist in
 
-oder *kv*
+*arzt, krankenhaus* oder *kv*
 
-. Im *RT*-Attribut
+*EX*-Attribut wird auf die BSNR bzw.  . Im *RT*-Attribut
 
 
 ---
@@ -840,7 +812,7 @@ Folgender Code sei hier als Beispiel angegeben:
 
 **XML-Code 7**
 
-Zulässige Werte für die KV -Nummer können
+Zulässige Werte für die KV-Nummer
 
 1.2.276.0.76.5.233 entnommen werden [1].
 
@@ -859,6 +831,8 @@ Die Grundstruktur für dieses Element ist in Abbildung 6 dargestellt.
 *RT*. Im
 
 **absender (kv)**
+
+können
 
 *RT*. Im EX-Attribut steht das konkrete  Wert „Krankenhaus IK“.
 
@@ -952,17 +926,21 @@ Als Beispiel sei hier der folgende Code angegeben:
 
 Zur Verschlüsselung der Daten ist das KBV -Kryptomodul (XKM) zu verwenden. Alle Nutzda- ten sind grundsätzlich mit dem KBV -Kryptomodul (XKM) zu verschlüsseln, d.h. alle Archivda- teien einer Datenlieferung müssen verkryptet übermittelt werden.
 
-Eine Ausnahme der Verschlüsselungspflicht gilt für eHKS -Dokumentationen, welche mittels  KIM gemäß [Spec_KIM_eHKS] übermittelt werden.
+Eine Ausnahme der Verschlüsselungspflicht gilt für eHKS-Dokumentationen, welche mittels  KIM gemäß [Spec_KIM_eHKS] übermittelt werden.
 
-Die Begleitdateien, die innerhalb einer Datenlieferung übermittelt werden, sind  schlüsseln.
+Die Begleitdateien, die innerhalb einer Datenlieferung übermittelt werden, sind **nicht** zu ver-
+
+schlüsseln.
 
 Das Element *verschluesselungssoftware* enthält die Information zur verwendeten Verschlüs-
 
-selungssoftware und besteht aus den Kindelementen  *software-hersteller*
+selungssoftware und besteht aus den Kindelementen *software-name software-version* und
+
+*software-hersteller*
 
 Die Grundstruktur für dieses Element ist in Abbildung 7 dargestellt.
 
-**Abbildung 7**
+**Abbildung 7  Grundstruktur verschluesselungssoftware**
 
 Wenn alle Kindelemente vorkommen, sieht der Coderahmen für dieses Element wie folgt aus:
 
@@ -976,17 +954,7 @@ Wenn alle Kindelemente vorkommen, sieht der Coderahmen für dieses Element wie f
 
 **</bgl:verschluesselungssoftware>**
 
-**XML-Code 13**
-
-**Grundstruktur verschluesselungssoftware**
-
-**verschluesselungssoftware**
-
-*software-name*
-
-**nicht** zu ver-
-
-*software-version* und
+**XML-Code 13  verschluesselungssoftware**
 
 
 ---
@@ -1005,6 +973,8 @@ Als Beispiel sei hier der folgende Code angegeben:
 
 **XML-Code 14**
 
+**software-name**
+
 ### 4.5.2 Version der Software (software-version)
 
 Das Element *software-version* enthält als Wert die konkrete Versionsnummer der verwende-
@@ -1015,41 +985,39 @@ Als Beispiel sei hier der folgende Code angegeben:
 
 **<bgl:software-version V="1.00"/>**
 
+**XML-Code 15**
+
 ### 4.5.3 Hersteller der Software (software-hersteller)
 
-Das Element *software-hersteller*
+Das Element *software-hersteller* enthält als Wert den Hersteller der verwendeten Software. Es
 
 handelt sich dabei um einen String.
 
-Da die Kassenärztliche Bundesvereinigung für das XKM zuständig ist, ist der folgende Code  fest vorgegeben:
+Da die Kassenärztliche Bundesvereinigung für das XKM zuständig ist, ist der folgende Code
+
+fest vorgegeben:
 
 **<bgl:software-hersteller V="KBV"/>**
+
+**XML-Code 16**
 
 ## 4.6 Dateiarchive (archive)
 
 Das Element archive enthält mindestens ein Kindelement archiv. Dieses enthält die Informati- onen zum Dateinamen des Archivs und dem Verzeichnis des Archivs. Es besteht aus den  Kindelementen name und verzeichnis.
 
-Die Grundstruktur für dieses Element ist in
-
-Der Coderahmen für dieses Element sieht wie folgt aus:
-
-**XML-Code 15**
-
-enthält als Wert den Hersteller der verwendeten Software. Es
-
-**XML-Code 16**
-
-Abbildung 8 dargestellt.
-
-**Abbildung 8  Grundstruktur archive**
-
-**software-name**
+Die Grundstruktur für dieses Element ist in Abbildung 8 dargestellt.
 
 **software-version**
 
 **software-hersteller**
 
 oder „n.nn.n“
+
+**Abbildung 8**
+
+Der Coderahmen für dieses Element sieht wie folgt aus:
+
+**Grundstruktur archive**
 
 
 ---
@@ -1114,21 +1082,15 @@ Schema vorgegeben.
 
 Als Beispiel sei hier der folgende Code angegeben:
 
-**XML-Code 17**
+**XML-Code 17  archive**
 
-**XML-Code 18**
+**XML-Code 18  name**
 
 Abbildung 9 dargestellt.
 
 **Abbildung 9  Grundstruktur verzeichnis**
 
-**XML-Code 19**
-
-**archive**
-
-**name**
-
-**verzeichnis**
+**XML-Code 19  verzeichnis**
 
 
 ---
@@ -1225,7 +1187,7 @@ Als Beispiel sei hier der folgende Code angegeben:
 
 # 5 Datenträgeraustausch
 
-Zwischen den Spitzenverbänden der Krankenkassen und der KBV ist zur Übermittlung von  Datenträgern im Rahmen des elektronischen Datenaustauschs von DMP -Daten zwischen  Arztpraxis bzw. Krankenhaus und Datenannahmestelle ein einheitliches Verfahren vereinbart  worden. Dieses Verfahren ist innerhalb dieses Kapitels beschrieben und enthält Vorgaben zur  Verwendung und Beschriftung der Datenträger sowie zur Erstellung eines Transportbegleitzet- tels. Diese Kapitel finden ebenfalls bei Dokumentationen zur Früherkennungs -Koloskopie so- wie bei weiteren elektronischen Dokumentationen Anwendung.
+Zwischen den Spitzenverbänden der Krankenkassen und der KBV ist zur Übermittlung von  Datenträgern im Rahmen des elektronischen Datenaustauschs von DMP-Daten zwischen  Arztpraxis bzw. Krankenhaus und Datenannahmestelle ein einheitliches Verfahren vereinbart  worden. Dieses Verfahren ist innerhalb dieses Kapitels beschrieben und enthält Vorgaben zur  Verwendung und Beschriftung der Datenträger sowie zur Erstellung eines Transportbegleitzet- tels. Diese Kapitel finden ebenfalls bei Dokumentationen zur Früherkennungs -Koloskopie so- wie bei weiteren elektronischen Dokumentationen Anwendung.
 
 Die einheitliche Beschriftung der Datenträger sowie die Nutzung von Transportbegleitzetteln  dient zum einen der leichteren und einheitlichen Archivierung der Datenträger und somit auch  der besseren Wiederauffindbarkeit, zum anderen ist es so möglich den Absender defekter  Datenträger schnell zu ermitteln, um die nötige Nachlieferung anzufordern.
 
@@ -1268,9 +1230,7 @@ Der Transportbegleitzettel muss die folgenden Mindestinhalte umfassen:
 
 -  Überschrift: Transportbegleitzettel
 
--  Datenübermittlungsverfahren: Elektronische DMP -Dokumentation oder Elektronische
-
-- Dokumentation „eDOKUMENTATION“
+-  Datenübermittlungsverfahren: Elektronische DMP-Dokumentation oder Elektronische  Dokumentation „eDOKUMENTATION“
 
 -  Absender ((N)BSNR des Tätigkeitsortes, an dem die Datei erstellt wurde oder Kranken- haus-IK)
 
@@ -1278,13 +1238,15 @@ Der Transportbegleitzettel muss die folgenden Mindestinhalte umfassen:
 
 -  Anzahl der versendeten Datenträger
 
--  Inhalt der Datenlieferung (enthaltene Dateien  Auflistung der Dateinamen in Bezug zur - Nummer des Datenträgers)
+-  Inhalt der Datenlieferung (enthaltene Dateien  Nummer des Datenträgers)
 
 -  Eventuell besondere Hinweise in Bezug zum verwendeten Datenträger (bspw. eine CD- ROM mit 700MB Datenkapazität)
 
 -  Erstellungsdatum der Datenträger
 
 -  Handschriftliches Unterschriftsdatum, handschriftliche Unterschrift des Absenders
+
+- Auflistung der Dateinamen in Bezug zur -
 
 ## 5.3 Beispiel
 
@@ -1340,8 +1302,8 @@ Erstellt am 15.07.2019
 
 | **Referenz** | **Dokument** |
 |---|---|
-| [KBV_ITA_VGEX_Schnittstelle_SDDA] | aktuell gültige |
+| [KBV_ITA_VGEX_Schnittstelle_SDDA] | aktuell |
 | [1] | KBV-Schlüsseltabellen  http://applications.kbv.de/keytabs/ita/schluesseltabell |
 | [Spec_KIM_eHKS] | KIM Spezifikation für eHKS der kv.digital    https://partnerportal.kv- |
 
-Version Schnittstellenbeschreibung S_KBV_BEZIRKSSTELLE, en.asp telema- tik.de/spaces/KDK/pages/71095111/Dokumente+zu m+Download
+gültige Version Schnittstellenbeschreibung S_KBV_BEZIRKSSTELLE, en.asp telema- tik.de/spaces/KDK/pages/71095111/Dokumente+zu m+Download

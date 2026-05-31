@@ -154,9 +154,13 @@ Alle erforderlichen Unterlagen stehen im Internet zum Download unter ITA-Update 
 
 ## 1.5 PRÜFUNTERLAGEN
 
-Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet: - 1
+Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:
 
--  Eine Archivdatei (*.zip.XKM) , welche die einzelnen XML-Dateien im entsprechenden Verzeichnis  enthält. Die Vorgaben für die Bildung der Dateinamen, die Verzeichnisstruktur und die weiteren  Angaben entnehmen Sie bitte folgender Quelle: [KBV_ITA_VGEX_XML-Schnittstellen] (im Archiv
+- , welche die einzelnen XML-Dateien im entsprechenden Verzeichnis
+
+-  Eine Archivdatei (*.zip.XKM)1
+
+- enthält. Die Vorgaben für die Bildung der Dateinamen, die Verzeichnisstruktur und die weiteren  Angaben entnehmen Sie bitte folgender Quelle: [KBV_ITA_VGEX_XML-Schnittstellen] (im Archiv
 
 - „Austausch von XML-Daten“) Kapitel 3.4 „Dateinamen“. Die XML-Dateien müssen fehlerfrei gegen das
 

@@ -117,9 +117,13 @@ z.B. „Terminbuchung  aus dem PVS“
 
 ---
 
-# Gemäß § 370a Absatz 5 des Fünften Buches
+# Gemäß
 
-# Sozialgesetzbuch (SGB V) hat die Kassenärztliche  Bundesvereinigung die erforderlichen technischen  Festlegungen zu treffen, damit nach § 75 Absatz 1a  zu vermittelnde Termine von den Vertragsärzten  unter Verwendung von informationstechnischen  Systemen in der vertragsärztlichen Versorgung an  die Terminservicestellen übermittelt werden können.
+# § 370a Absatz 5 des Fünften Buches
+
+# Sozialgesetzbuch (SGB V) hat die Kassenärztliche
+
+# Bundesvereinigung die erforderlichen technischen  Festlegungen zu treffen, damit nach § 75 Absatz 1a  zu vermittelnde Termine von den Vertragsärzten  unter Verwendung von informationstechnischen  Systemen in der vertragsärztlichen Versorgung an  die Terminservicestellen übermittelt werden können.
 
 (3)
 
@@ -297,13 +301,15 @@ Wenn der Termin mit dem Status **„Absage durch**
 
 ---
 
-# Gemäß § 370a Absatz 2 des Fünften Buches
+# Gemäß
 
-# Sozialgesetzbuch (SGB V) ist die Kassenärztliche  Bundesvereinigung verpflichtet, die Nutzung der in
+# § 370a Absatz 2 des Fünften Buches
+
+# Sozialgesetzbuch (SGB V) ist die Kassenärztliche
+
+# Bundesvereinigung verpflichtet, die Nutzung der in
 
 # ihrem elektronischen System bereitgestellten  Informationen durch Dritte zu ermöglichen Hierzu muss sie eine Schnittstelle auf Basis international anerkannter Standards  veröffentlichen.
-4
-
 
 ---
 

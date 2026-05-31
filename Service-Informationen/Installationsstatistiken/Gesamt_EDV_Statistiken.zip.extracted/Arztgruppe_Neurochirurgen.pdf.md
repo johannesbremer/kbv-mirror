@@ -88,59 +88,57 @@ CompuGroup Medical Deutschland AG 1
 
 14
 
-**Installationen 1.Q.2025**
+**Installationen 1.Q.2025 Differenz**
 
 65
 
+-1
+
 59
+
+1
 
 33
 
+3
+
 32
 
-27
+1
 
 27
+
+1
+
+27
+
+0
 
 21
 
+2
+
 20
+
+2
 
 24
 
+-2
+
 16
+
+1
 
 14
 
+1
+
 15
 
+0
+
 13
-
-**Differenz**
-
--1
-
-1
-
-3
-
-1
-
-1
-
-0
-
-2
-
-2
-
--2
-
-1
-
-1
-
-0
 
 1
 
@@ -179,50 +177,46 @@ medatixx GmbH & Co. KG
 
 S 3 Praxiscomputer GmbH / Maximilian Flender 2
 
-**Installationen 2.Q.2025**
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
 8
 
 8
 
+0
+
 8
+
+8
+
+0
+
+8
+
+8
+
+0
 
 7
 
 7
 
-6
-
-5
-
-**Installationen 1.Q.2025**
-
-8
-
-8
-
-8
+0
 
 7
 
 6
-
-6
-
-5
-
-**Differenz**
-
-0
-
-0
-
-0
-
-0
 
 1
 
+6
+
+6
+
 0
+
+5
+
+5
 
 0

@@ -97,15 +97,19 @@ DOKUMENTENHISTORIE
 
 1.0
 
+31.01.2025 KBV
+
+Dokumenterstellung Neue Spezifikation
+
+alle 116117 Terminservice
+
 # ABBILDUNGSVERZEICHNIS
 
-Abbildung 1: Struktur des ZIP-Archives 31.01.2025 KBV
+Abbildung 1: Struktur des ZIP-Archives
 
-Dokumenterstellung Neue Spezifikation  116117 Terminservice
+**6**
 
-alle
-
-Textfeldbezeichnung im Prüffall Muster PTV11 **6**
+Textfeldbezeichnung im Prüffall Muster PTV11
 
 
 ---

@@ -11,9 +11,7 @@ Version 1.0
 
 ---
 
-Das Ziel der Therapie der Adipositas bei Erwachsenen ist insbesondere eine langfristige Senkung des
-
-Körpergewichtes mit anschließender Stabilisierung oder der Vermeidung einer weiteren Gewichtszunahme.  Damit soll langfristig eine Verbesserung der Lebensqualität sowie die Verring erung der Adipositas-bedingten  Begleiterkrankungen sowie dessen Folgeschäden erreicht werden. Die Therapieziele sollen vorrangig durch
+Das Ziel der Therapie der Adipositas bei Erwachsenen ist insbesondere eine langfristige Senkung des  Körpergewichtes mit anschließender Stabilisierung oder der Vermeidung einer weiteren Gewichtszunahme.  Damit soll langfristig eine Verbesserung der Lebensqualität sowie die Verring erung der Adipositas-bedingten  Begleiterkrankungen sowie dessen Folgeschäden erreicht werden. Die Therapieziele sollen vorrangig durch
 
 eine langfristige Änderung des Lebensstils hinsichtlich des Ernährungs- und des Bewegungsverhaltens erreicht
 
@@ -21,7 +19,7 @@ werden.
 
 Adipositas ist definiert als eine über das Normalmaß hinausgehende Vermehrung des Körperfetts ab einem  Body-Mass-Index (BMI) ≥ 30 kg/m2. Der BMI ist der Quotient aus Gewicht und Körpergröße zum Quadrat
 
-(kg/m²) und bildet die Grundlage für die Beurteilung d es weiteren Verlaufs der Adipositas. Bei jeder  Dokumentation muss das aktuelle Körpergewicht eingegeben werden, die Körpergröße wird einmalig  eingegeben und wird in den Folgedokumentationen übernommen (vgl. allgemeine Dokumentation).
+(kg/m²) und bildet die Grundlage für die Beurteilung des weiteren Verlaufs der Adipositas. Bei jeder  Dokumentation muss das aktuelle Körpergewicht eingegeben werden, die Körpergröße wird einmalig  eingegeben und wird in den Folgedokumentationen übernommen (vgl. allgemeine Dokumentation).
 
 ## Therapeutische Maßnahmen
 
@@ -68,11 +66,7 @@ Bei einer Erstdokumentation ist hier keine Angabe möglich.
 
 Gemeinsam mit Ihrer Patientin oder Ihrem Patienten sollen Sie unter Berücksichtigung der individuellen
 
-Situation Ziele zu regelmäßiger Bewegung vereinbaren bzw. diese überprüfen. Dies umfasst sowohl Ziele zur  Steigerung der körperlichen Alltagsaktivität als auch Ziele zu regelmäßigem körperlichem Training: Motivieren  Sie Ihre Patientin oder Ihren Patienten sowohl zur dauerhaften Steigerung der Bewegung im Alltag
-
-(beispielsweise Treppensteigen statt Fahrstuhl fahren) als auch zur regelmäßigen Durchführung bzw.
-
-Teilnahme an geeigneten Trainingsmaßnahmen.
+Situation Ziele zu regelmäßiger Bewegung vereinbaren bzw. diese überprüfen. Dies umfasst sowohl Ziele zur  Steigerung der körperlichen Alltagsaktivität als auch Ziele zu regelmäßigem körperlichem Training: Motivieren  Sie Ihre Patientin oder Ihren Patienten sowohl zur dauerhaften Steigerung der Bewegung im Alltag  (beispielsweise Treppensteigen statt Fahrstuhl fahren) als auch zur regelmäßigen Durchführung bzw.  Teilnahme an geeigneten Trainingsmaßnahmen.
 
 „Körperliches Training“ beschreibt körperliche Aktivität die systematisch, wiederholt und mit dem Ziel  durchgeführt wurde, eine Störung der Homöostase zu provozieren, welche zu physiologischen Anpassungen  (z. B. Muskulatur, Herz-Kreislauf-System) führt. Jegliche Art des körperlichen Trainings ist geeignet. Es kann  sowohl Ausdauertraining als auch Krafttraining oder beides beinhalten.
 
@@ -80,9 +74,7 @@ Teilnahme an geeigneten Trainingsmaßnahmen.
 
 oder im beruflichen Leben erfolgt und den Energieverbrauch über den Grundumsatz anhebt , beispielsweise  Treppensteigen oder Radfahren zur Arbeit.
 
-Sollten Sie mit Ihrer Patientin oder Ihrem Patienten in einer der vorhergehenden Dokumentation mindestens  ein Ziel zur regelmäßigen körperlichen Alltagsaktivität und mindestens ein Ziel zu körperlichem Training
-
-vereinbart haben und diese im Rahmen dieser Dokumentatio n überprüfen oder diese neu mit Ihrer Patientin  oder Ihrem Patienten vereinbaren, geben Sie bitte „Ziele vereinbart oder überprüft“ an.
+Sollten Sie mit Ihrer Patientin oder Ihrem Patienten in einer der vorhergehenden Dokumentation mindestens  ein Ziel zur regelmäßigen körperlichen Alltagsaktivität und mindestens ein Ziel zu körperlichem Training  vereinbart haben und diese im Rahmen dieser Dokumentatio n überprüfen oder diese neu mit Ihrer Patientin  oder Ihrem Patienten vereinbaren, geben Sie bitte „Ziele vereinbart oder überprüft“ an.
 
 Sollten Sie mit Ihrer Patientin oder Ihrem Patienten bei der aktuellen Dokumentation kein Ziel zur regelmäßigen
 
@@ -125,9 +117,7 @@ Bitte geben Sie „Ziele vereinbart“ an, wenn Sie mit Ihrer Patientin oder Ihr
 
 Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung vereinbaren.
 
-Sollten Sie mit Ihrer Patientin oder Ihrem Patienten kein Ziel zur Ernährungsumstellung oder zur
-
-Aufrechterhaltung der Ernährungsänderung vereinbaren, geben Sie bitte die Antwort „Keine Ziele vereinbart“
+Sollten Sie mit Ihrer Patientin oder Ihrem Patienten kein Ziel zur Ernährungsumstellung oder zur  Aufrechterhaltung der Ernährungsänderung vereinbaren, geben Sie bitte die Antwort „Keine Ziele vereinbart“
 
 an.
 
@@ -143,15 +133,11 @@ Bei einer Erstdokumentation ist hier keine Angabe möglich.
 
 Gemeinsam mit Ihrer Patientin oder Ihrem Patienten sollen Sie individuelle Ziele zur Ernährungsumstellung  vereinbaren bzw. überprüfen. Dabei soll über die Bedeutung einer adäquaten Ernährungsumstellung, sowohl  im Hinblick auf eine Gewichtsreduktion als auch auf positive metabolische und kardiovaskuläre Effekte,  informiert werden.
 
-Sollten Sie mit Ihrer Patientin oder Ihrem Patienten in einer der vorhergehenden Dokumentation Ziele zur  Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung vereinbart haben und diese im
-
-Rahmen dieser Dokumentation überprüfen oder diese neu mit Ihrer Patientin oder Ihrem Patienten vereinbaren,
+Sollten Sie mit Ihrer Patientin oder Ihrem Patienten in einer der vorhergehenden Dokumentation Ziele zur  Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung vereinbart haben und diese im  Rahmen dieser Dokumentation überprüfen oder diese neu mit Ihrer Patientin oder Ihrem Patienten vereinbaren,
 
 geben Sie bitte „Ziele vereinbart oder überprüft“ an.
 
-Sollten Sie mit Ihrer Patientin oder Ihrem Patienten kein Ziel zur Ernährungsumstellung oder zur
-
-Aufrechterhaltung der Ernährungsänderung vereinbaren oder die bisher vereinbarten Ziele nicht überprüfen,  geben Sie bitte die Antwort „Keine Ziele vereinbart oder überprüft“ an.
+Sollten Sie mit Ihrer Patientin oder Ihrem Patienten kein Ziel zur Ernährungsumstellung oder zur  Aufrechterhaltung der Ernährungsänderung vereinbaren oder die bisher vereinbarten Ziele nicht überprüfen,  geben Sie bitte die Antwort „Keine Ziele vereinbart oder überprüft“ an.
 
 #### Adäquat geändertes Ernährungsverhalten
 
@@ -190,18 +176,16 @@ an.
 
 ## Schulung
 
-Multimodale Adipositas-Schulungen stellen eine zentrale Maßnahme in diesem DMP dar. Daher soll jede  Patientin und jeder Patient Zugang zu einer multimodalen Adipositas-Schulung erhalten. Bitte machen Sie
+Multimodale Adipositas-Schulungen stellen eine zentrale Maßnahme in diesem DMP dar. Daher soll jede  Patientin und jeder Patient Zugang zu einer multimodalen Adipositas-Schulung erhalten. Bitte machen Sie  jeweils eine Angabe zu den folgenden drei Dokumentationsfeldern zu Schulungen:
 
-jeweils eine Angabe zu den folgenden drei Dokumentationsfeldern zu Schulungen:
-
-#### Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas -Schulung teilgenommen
+#### Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung teilgenommen
 Eine Angabe in diesem Feld ist nur im Rahmen der **Erstdokumentation** möglich und hier verpflichtend.
 
 **Genau eine Angabe** ist erforderlich und zulässig. Bei der Folgedokumentation ist hier keine Angabe möglich.
 
 Bitte geben Sie an, ob Ihre Patientin oder Ihr Patient bereits vor Einschreibung in das DMP an einer  multimodalen Adipositas-Schulung teilgenommen hat.
 
-Bitte geben Sie „Ja“ an, wenn Ihre Patientin oder Ihre Patienten bereits an einer multimodalen Adipositas -
+Bitte geben Sie „Ja“ an, wenn Ihre Patientin oder Ihre Patienten bereits an einer multimodalen Adipositas-
 
 Schulung teilgenommen hat.
 
@@ -229,7 +213,7 @@ Die Angaben zur Schulung beziehen sich hier **ausschließlich rückblickend** au
 
 Patientin oder Ihrem Patienten **bei dem letzten Dokumentationstermin** empfohlen haben, und sind daher
 
-nur im Rahmen einer **Folgedokumentation** möglich u nd hier verpflichtend. Im Rahmen der
+nur im Rahmen einer **Folgedokumentation** möglich und hier verpflichtend. Im Rahmen der
 
 Folgedokumentation ist **genau eine Angabe erforderlich**
 
@@ -241,9 +225,7 @@ Hat Ihre Patientin oder Ihr Patient im Dokumentationszeitraum an einer Schulung 
 
 Antwort ist anzugeben, wenn z. B. organisatorische oder andere patientenseitige Voraussetzungen für die
 
-Teilnahme an einer Adipositas-Schulung nicht gegeben sind. Weitere Gründe können z. B. fehlende
-
-Schulungskapazität, Krankenhausaufenthalt Ihrer Patientin oder Ihres Patienten oder private Gründe sein. Die  Beurteilung, ob die Gründe nachvollziehbar sind, obliegt allein Ihnen und Ihrer Patientin oder Ihrem Patienten.
+Teilnahme an einer Adipositas-Schulung nicht gegeben sind. Weitere Gründe können z. B. fehlende  Schulungskapazität, Krankenhausaufenthalt Ihrer Patientin oder Ihres Patienten oder private Gründe sein. Die  Beurteilung, ob die Gründe nachvollziehbar sind, obliegt allein Ihnen und Ihrer Patientin oder Ihrem Patienten.
 
 Sollten Sie Ihrer Patientin oder Ihrem Patienten bei der vorhergehenden Dokumentation eine Schulung  empfohlen haben, Ihre Patientin oder ihr Patient die Schulung aber ohne einen für Sie nachvollziehbaren  Grund nicht wahrgenommen haben, geben Sie bitte **„Nein“** an.
 
@@ -276,7 +258,7 @@ Bei der Erstdokumentation ist hier keine Angabe möglich.
 
 Bei Patientinnen und Patienten, die bei Einschreibung einen Prädiabetes haben, soll durch die entsprechenden
 
-langfristigen Änderungen des Lebensstils hinsichtlich des Ernährungs - und des Bewegungsverhaltens das  Auftreten eines manifesten Diabetes mellitus Typ 2 vermieden werden.
+langfristigen Änderungen des Lebensstils hinsichtlich des Ernährungs- und des Bewegungsverhaltens das  Auftreten eines manifesten Diabetes mellitus Typ 2 vermieden werden.
 
 Bitte geben Sie „Ja“ an, wenn bei Ihrer Patientin oder Ihren Patienten aktuell ein manifester Diabetes mellitus
 
@@ -300,7 +282,7 @@ Bitte überprüfen Sie **regelmäßig**, ob **Ihre Patientin oder Ihr Patient we
 
 kommen, dass ihre oder seine weitere Teilnahme am DMP Adipositas nicht mehr zielführend ist, können Sie  das über dieses Feld dokumentieren
 
-**Wenn Sie hier die Antwort „Ja“ angeben, erfolgt eine Beendigung der DMP -Teilnahme**
+**Wenn Sie hier die Antwort „Ja“ angeben, erfolgt eine Beendigung der DMP-Teilnahme**
 
 **(Ausschreibung!) durch die Krankenkasse mit dem Erstelldatum dieser Dokumentation.** **Bitte beachten**
 

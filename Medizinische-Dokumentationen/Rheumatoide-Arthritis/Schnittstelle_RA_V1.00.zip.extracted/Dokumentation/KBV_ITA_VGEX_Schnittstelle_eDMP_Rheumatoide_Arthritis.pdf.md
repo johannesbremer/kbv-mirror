@@ -514,11 +514,11 @@ Wenn in allen Abschnitten Daten enthalten sind, sieht der Coderahmen für das El
 
 ### 6.1.2 content
 
-Das Element <content> enthält das Kindelement <local_markup>, mit welchem eine sciphox-ssu verwendet  werden kann. Die eigentlichen Daten werden mit Hilfe der sciphox-ssu angegeben. Das Element  <local_markup> hat die erforderlichen Attribute  Wert “all”. Um zu kennzeichnen, dass SCIPHOX
+Das Element <content> enthält das Kindelement <local_markup>, mit welchem eine sciphox-ssu verwendet  werden kann. Die eigentlichen Daten werden mit Hilfe der sciphox-ssu angegeben. Das Element  <local_markup> hat die erforderlichen Attribute *ignore* und *descriptor*. Das Attribut *ignore* hat den festen
+
+Wert “all”. Um zu kennzeichnen, dass SCIPHOX
 
 der feste Wert „sciphox“ vorgeschrieben.
-
-*ignore* und *descriptor*. Das Attribut *ignore* hat den festen
 
 <paragraph> <caption_cd DN="Administrative Daten"/> <content> ... </content> <paragraph> <caption_cd DN="Anamnese- und Befunddaten"/> <content> ... </content> <paragraph> <caption_cd DN="Medikamentöse und sonstige Maßnahmen"/> <content> ... </content> <paragraph> <caption_cd DN="Schulung"/> <content> ... </content> <paragraph> <caption_cd DN="Behandlungsplanung"/> <content> ... </content>-Elemente verwendet werden, ist für das *descriptor*-Attribut
 
@@ -802,7 +802,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### Aktuelle Krankheitsaktivität - DAS-28-Wert
 
-Bei diesem Parameter enthält das Element < sciphox:Ergebniswert> im *V* Attribut den Aktuelle
+Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut den Aktuelle
 
 Krankheitsaktivität - DAS-28-Wert“ und im *U* Attribut den fest vorgeschriebenen Wert „{Punktzahl}
 

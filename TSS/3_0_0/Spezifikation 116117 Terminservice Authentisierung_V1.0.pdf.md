@@ -29,51 +29,33 @@ EINLEITUNG .....................................................................
 
 #### Änderungshistorie
 
-**VERSION**
+**VERSION DATUM**
 
-1.0
-
-0.1
-
-Seite 3 von 14
-
-**DATUM**
-
-06.12.2024
-
-14.10.2024
-
-/ KBV / Spezifikation 116117 Terminservice Authentisierung
-
-**AUTOR**
-
-kv.digital
-
-kv.digital
-
-**KAPITEL**
-
-alle 3
-
-4
-
-alle
-
-**ÄNDERUNG**
-
-redaktionelle Änderungen nach  Kommentierung
-
-Ergänzung Voraussetzungen um  Praxisausweis (SMC-B oder SMB) und TI- Gateway
-
-Ergänzung Use Cases um Praxisausweis  (SMC-B oder SMB) und TI-Gateway
-
-Initiale Erstellung
+**AUTOR KAPITEL ÄNDERUNG**
 
 **STATUS**
 
+1.0
+
+06.12.2024 kv.digital alle
+
+redaktionelle Änderungen nach
+
 in Kraft
 
+Kommentierung 3
+
+Ergänzung Voraussetzungen um  Praxisausweis (SMC-B oder SMB) und TI- Gateway 4
+
+Ergänzung Use Cases um Praxisausweis  (SMC-B oder SMB) und TI-Gateway 0.1
+
+14.10.2024 kv.digital alle
+
+Initiale Erstellung
+
 Entwurf
+
+Seite 3 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung
 
 
 ---
@@ -239,85 +221,95 @@ von:
 
 **AKTIVITÄT**
 
-TLS- Verbindungsauf bau zum E-Rezept- Fachdienst
+**ZERTIFIKAT**  **DER TI**
 
-TLS- Verbindungsauf bau zum  Verzeichnisdien st der TI
+TLS-
 
-TLS- Verbindungsauf bau zum IDP
+nein
 
-Aufbau sicherer  Kanal zur VAU des E- Rezept- Fachdienstes
+Verbindungsauf bau zum E-Rezept- Fachdienst
 
-Nur für PS der abgebenden LEI: Signaturzertifika t Fachdienst
+TLS-
+
+nein
+
+Verbindungsauf bau zum  Verzeichnisdien st
+
+der TI
+
+TLS-
+
+nein
+
+Verbindungsauf bau zum IDP
+
+Aufbau sicherer ja
+
+Kanal zur VAU des E- Rezept- Fachdienstes
+
+Nur für PS der ja
+
+abgebenden LEI: Signaturzertifika t Fachdienst
 
 zu:
 
 **AKTIVITÄT**
 
-TLS- Verbindungsauf bau zum 116117  Terminservice  Dienst
-
 **ZERTIFIKAT**  **DER TI**
 
-nein
+TLS-
 
 nein
 
-nein
+Verbindungsauf bau zum 116117  Terminservice  Dienst
 
-ja
+**ZERTIFIKAT ROLLEN- NUTZU**
 
-ja
+**STYP**
 
-**ZERTIFIKAT**  **DER TI**
+**OID**
 
-nein
+**NG**
 
-**ZERTIFIKAT** **STYP**
-
-TLS Internet Zertifikat
-
-TLS Internet Zertifikat
-
-TLS Internet Zertifikat
-
-C.FD.ENC
-
-C.FD.SIG
-
-**ZERTIFIKAT** **STYP**
-
-TLS Internet Zertifikat
-
-**ROLLEN-** **OID**
-
-n/a
-
-n/a
-
-n/a
-
-oid_erp- vau
-
-oid_ereze pt
-
-**ROLLEN-** **OID**
-
-n/a
-
-**NUTZU** **NG**
+TLS Internet n/a
 
 aktiv
 
-aktiv
+Zertifikat
+
+TLS Internet n/a
 
 aktiv
 
-aktiv
+Zertifikat
+
+TLS Internet n/a
 
 aktiv
 
-**NUTZU** **NG**
+Zertifikat
+
+C.FD.ENC oid_erp- aktiv
+
+vau
+
+C.FD.SIG oid_ereze aktiv
+
+pt
+
+**ZERTIFIKAT ROLLEN- NUTZU**
+
+**STYP**
+
+**OID**
+
+**NG**
+
+TLS Internet n/a
 
 aktiv
+
+Zertifikat
 
 
 ---
@@ -338,23 +330,29 @@ A_20764 - PS:  Prüfung TI- Zertifikate
 
 **AKTIVITÄT**
 
-TLS- Verbindungsauf bau zum  Verzeichnisdien st der TI
-
-TLS- Verbindungsauf bau zum IDP der  kv.digital
-
 **ZERTIFIKAT**  **DER TI**
 
-nein
+TLS-
 
 nein
 
-Aufbau sicherer  Kanal zur VAU des E- Rezept- Fachdienstes
+Verbindungsauf bau zum  Verzeichnisdien st
 
-Nur für PS der abgebenden LEI: Signaturzertifika
+der TI
 
-ja
+TLS-
 
-ja
+nein
+
+Verbindungsauf bau zum IDP der  kv.digital
+
+Aufbau sicherer ja
+
+Kanal zur VAU des E- Rezept- Fachdienstes
+
+Nur für PS der ja
+
+abgebenden LEI: Signaturzertifika
 
 t Fachdienst
 
@@ -370,35 +368,33 @@ zu:
 
 "Hierfür wird am Authorization-Endpunkt des IDP-Dienstes ein  "AUTHORIZATION_CODE" beantragt, der nach erfolgreicher Verifikation am  Token-Endpunkt des IDP-Dienstes gegen ein "ID_TOKEN" und ein  "ACCESS_TOKEN" getauscht wird."
 
-**ZERTIFIKAT** **STYP**
+**ZERTIFIKAT ROLLEN- NUTZU**
 
-TLS Internet Zertifikat
+**STYP**
 
-TLS Internet Zertifikat
+**OID**
 
-C.FD.ENC
+**NG**
 
-C.FD.SIG
-
-**ROLLEN-** **OID**
-
-n/a
-
-n/a
-
-oid_erp- vau
-
-oid_ereze pt
-
-**NUTZU** **NG**
+TLS Internet n/a
 
 aktiv
 
-aktiv
+Zertifikat
+
+TLS Internet n/a
 
 aktiv
 
-aktiv
+Zertifikat
+
+C.FD.ENC oid_erp- aktiv
+
+vau
+
+C.FD.SIG oid_ereze aktiv
+
+pt
 
 
 ---

@@ -228,11 +228,11 @@ Für die Anwendung in der ambulanten ärztlichen Versorgung in Deutschland stell
 
 Ab 2017 befinden sich diese Anlagen in einer separaten Stammdatei, der  mittel Anlage – SDHMA.
 
+Stammdatei Heil-
+
 Die vorliegende Schnittstellenbeschreibung definiert das Format der SDHMA Stammdatei der  KBV im XML--Format konform zur ehd Richtlinie [KBV_ITA_VGEX_eHD].
 
 Diese Datei wird den Softwarehäusern, die Arztpraxissoftware herstellen, sowie den Kassen- ärztlichen Vereinigungen vom Dezernat 6 der KBV ausschließlich zur Nutzung in der ver- tragsärztlichen Versorgung zur Verfügung gestellt. Für alle sonstigen Nutzungszwecke wende  man sich über den Servicedesk der KBV (EMail: [KBVServiceDesk@KBV.de](mailto:KBVServiceDesk@KBV.de), Telefon: 030 /  4005- 2121) an das Dezernat 4 der KBV.
-
-Stammdatei Heil-
 
 # 2 Konventionen
 
@@ -242,17 +242,13 @@ Standard-Zeichensatz ist ISO-8859-15.
 
 ## 2.2 Namespace
 
-Standard- Namespace ist
+Standard- Namespace ist **urn:ehd/sd/001hma**
 
 ## 2.3 Root-Schema
 
 Das Root--Schema, worin die abgeleiteten ehd Schemata sowie die projektbezogenen body-
 
-Schemata inkludiert sind, heißt
-
-**urn:ehd/sd/001hma**
-
-**sdhma_root.xsd**
+Schemata inkludiert sind, heißt **sdhma_root.xsd**
 
 ## 2.4 Dateinamen
 
@@ -264,17 +260,17 @@ Dateinamenskonvention nach ehd-Richtlinie:
 
 _ ............. Trennungszeichen zwischen den Namenselementen
 
-datatyp ..... Datentyp, "Satzart", "ehd." ist optional als Vorsatz erlaubt;  *<document_type_cd>*
+datatyp ..... Datentyp, "Satzart", "ehd." ist optional als Vorsatz erlaubt;  Entspricht dem Header-Element *<document_type_cd>*
 
-Entspricht dem Header-Element
+vv.vv ......... VersionsNr. der Datentypbeschreibung;  des Header-Elements *<interface>*
 
-vv.vv ......... VersionsNr. der Datentypbeschreibung;  *<version>* des Header-Elements *<interface>*
+Entspricht dem Element *<version>*
 
-Entspricht dem Element
+sender ...... Absender der Lieferung, (nicht immer mit Erzeuger bzw. Erstlieferanten der  Daten identisch) bzw. wer hat die Daten geliefert;  oder dem Element *<organization>*
 
-sender ...... Absender der Lieferung, (nicht immer mit Erzeuger bzw. Erstlieferanten der  Daten identisch) bzw. wer hat die Daten geliefert;  *<person>* oder dem Element *<organization>*
+Entspricht dem Element *<person>*
 
-Entspricht dem Element  Elements *<provider>*
+Elements *<provider>*
 
 des Header-
 
@@ -285,9 +281,7 @@ tf+..………… timeframe (YYYYqQ)
 
 YYYY ........ Jahr
 
-nr+ ............ number – optional Nummer der Lieferung, falls zu einem Zeitraum mehrere
-
-Lieferungen erfolgen
+nr+ ............ number – optional Nummer der Lieferung, falls zu einem Zeitraum mehrere  Lieferungen erfolgen
 
 du+ ............ dummy – optionaler Platzhalter z.B. für Tests, kann auch mehrmals verwendet  werden
 
@@ -309,16 +303,15 @@ Es existieren verschiedene Kardinalitäten:
 | 1 |  | **Obligatorische Elemente ** Elemente, welche als Rechteck mit durchgezogener |
 | n...m |  | **Mehrfache Elemente ** Bei Elementen, welche mehrfach vorkommen kön- |
 
-**Tabelle 1:** Beschreibung der Kardinalitäten eines XML
+**Tabelle 1:** Beschreibung der Kardinalitäten eines XML-Elements
 
 ### 2.5.2 Strukturelemente
 
 Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mitei- nander verknüpft. In diesem Dokument werden zwei Strukturelemente verwendet:  und ***<xs:sequence>***
 
--Elements
+***<xs:choice>***
 
-chelter Linie dargestellt. Es kann keinmal oder einmal vorkommen. Linie dargestellt sind, müssen genau einmal vorkom- men. nen, wird die erlaubte Anzahl rechts unter dem Sym- bol dargestellt. Die Werte können von 0 bis bounded) reichen.  (un-***<xs:choice>***
-
+chelter Linie dargestellt. Es kann keinmal oder einmal vorkommen. Linie dargestellt sind, müssen genau einmal vorkom- men. nen, wird die erlaubte Anzahl rechts unter dem Sym- bol dargestellt. Die Werte können von 0 bis  (un- bounded) reichen.
 
 ---
 
@@ -327,7 +320,7 @@ chelter Linie dargestellt. Es kann keinmal oder einmal vorkommen. Linie dargeste
 |  | Das Strukturelement |
 |  | Das Strukturelement |
 
-**Tabelle 2:** Beschreibung der Strukturelement-Symbole
+**Tabelle 2:** Beschreibung der Strukturelement
 
 ### 2.5.3 Sonstige Symbole
 
@@ -340,9 +333,9 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 |  | **Datentyp ** Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen |
 |  | **Gruppenelement ** Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement |
 
-**Tabelle 3:** Beschreibung sonstiger Symbole
+**Tabelle 3:** Beschreibung sonstiger Symbole -Symbole
 
-<xs:choice> zeigt an, dass zwischen verschiedenen Kin- delementen genau eins ausgewählt werden muss. <xs:sequence>  beschreibt, dass die Kindelemente in fest- gelegter Reihenfolge aufgeführt werden müssen. Pluszeichen am Rechteckrand symbolisiert. rer Stelle im Schema definiert wurde. Datentyp.  dar, welches mehrere Elemente zusammenfasst.
+delementen genau eins ausgewählt werden muss. gelegter Reihenfolge aufgeführt werden müssen. <xs:choice> zeigt an, dass zwischen verschiedenen Kin- <xs:sequence>  beschreibt, dass die Kindelemente in fest- Pluszeichen am Rechteckrand symbolisiert. rer Stelle im Schema definiert wurde. Datentyp.  dar, welches mehrere Elemente zusammenfasst.
 
 ---
 
@@ -482,6 +475,8 @@ Der XML-Code für ein <verordnungsbedarf> Element hat folgenden Aufbau:
 
 **XML-Code 4:** verordnungsbedarf
 
+S="1.2.276.0.76.5.233"
+
 ## 5.4 icd_code
 
 Das Element <icd_code> enthält die ICD- Kodierungfür die Heilmittelbedarfe zugeordnet sind.
@@ -493,8 +488,6 @@ Enthalten sind hier Zeichenketten nach dem Muster:
 -  (optional) '.' und ein- bis zweistellige Nummer und optional '*' oder '+' oder '-'
 
 -  oder Sonderfall 'UUU' (konstant ohne vorgenanntes Muster)
-
-S="1.2.276.0.76.5.233"
 
 **Abbildung 5:** icd-code
 
@@ -665,7 +658,7 @@ Der XML-Code für ein <untere_altersgrenze> Element hat folgenden Aufbau:
 
 ## 5.11 obere_altersgrenze
 
-Das optionale Element <obere_altersgrenze> enthält die obere Altersgrenze, die für eine  Heilmittelverordnung gilt. Das Format des Inhalts des V-Attributs ( Attributs (**U="..."**
+Das optionale Element <obere_altersgrenze> enthält die obere Altersgrenze, die für eine  Heilmittelverordnung gilt. Das Format des Inhalts des V-Attributs ( Attributs (**U="..."**) folgt der gleichen Systematik wie beim Element <untere_altersgrenze>.
 
 **Abbildung 11:** obere_altersgrenze
 
@@ -677,11 +670,9 @@ Der XML-Code für ein <obere_altersgrenze> Element hat folgenden Aufbau:
 
 ## 5.12 hinweistext
 
-Das Element <hinweistext> enthält im V-  nungsbedarfe bzw. langfristigem Heilmittelbebarf.
+Das Element <hinweistext> enthält im V- Attribut einen Hinweistext zu besonderen Verord-
 
-) folgt der gleichen Systematik wie beim Element <untere_altersgrenze>.
-
-Attribut einen Hinweistext zu besonderen Verord-
+nungsbedarfe bzw. langfristigem Heilmittelbebarf.
 
 **V="..."**) und des U-
 
@@ -760,13 +751,11 @@ Der XML-Code für ein <kapitel> Element hat folgenden Aufbau:
 | IV | Maßnahmen der Ergotherapie |
 | V | Maßnahmen der Ernährungstherapie |
 
-**Tabelle 6:** Ausprägungen der Attribute des Elements <
+**Tabelle 6:** Ausprägungen der Attribute des Elements <kapitel>
 
 ## 5.16 diagnosegruppe_liste
 
 Das Element <diagnosegruppe_liste> enthält die Elemente <diagnosegruppe>.
-
-kapitel>
 
 V="..." DN="..."
 
@@ -858,7 +847,7 @@ piegruppe. Die Werte entsprechen der Schlüsseltabelle S_HM_DIAGNOSEGRUPPE (OID:
 | PN | periphere Nervenläsionen / Muskelerkrankungen |
 | PS1 | Entwicklungs-,störungen; Verhaltens- und emotionale Störungen mit Beginn in |
 | PS2 | Neurotische-, Belastungs- und somatoforme Störungen; Verhaltensauffällig |
-| PS3 | Schizophrenie, schizo-type und Wwahnhafte Störungen; und affektive Störungen / |
+| PS3 | Schizophrenie, schizo-type und Wwahnhafte Störungen; und affektive Störungen  Abhängigkeitserkrankungen |
 | PS4 | Dementielle Syndrome Psychische und Verhaltensstörungen durch psychotrope |
 | PS5 | Dementielle Syndrome |
 | RE1 | Störungen des Redeflusses (Stottern) |
@@ -894,7 +883,7 @@ piegruppe. Die Werte entsprechen der Schlüsseltabelle S_HM_DIAGNOSEGRUPPE (OID:
 | LY3 | chronische Lymphabflussstörungen bei bösartigen Erkrankungen PN  periphere Nervenläsionen / Muskelerkrankungen |
 | PS1 | Entwicklungs-,störungen; Verhaltens- und emotionale Störungen mit Beginn in |
 
-Kindheit und Jugend mit körperlichen Störungen oder Faktoren; Abhängigkeitserkrankungen Substanzen funktionellen Schädigungen) Wirbelsäulenerkrankungen funktionellen und sensomotorisch-perzeptiven Schädigungen) Störungen nach traumatischer Schädigung, Operationen, Verbrennungen, Verätzungen teiligung (mit motorisch-funktionellen/ sensomotorisch Amputationen nach Abschluß der Wundheilung, Angeborene Fehlbildungen kurzzeitigem Behandlungsbedarf dem Behandlungsbedarf nales Schmerzsyndrom); Stadium II und III systemische Erkrankungen Taubheit keiten  Persönlichkeits-und Verhaltensstörun- -perzeptiven Schädigungen)
+Kindheit und Jugend mit körperlichen Störungen oder Faktoren; Substanzen funktionellen Schädigungen) Wirbelsäulenerkrankungen funktionellen und sensomotorisch-perzeptiven Schädigungen) Störungen nach traumatischer Schädigung, Operationen, Verbrennungen, Verätzungen teiligung (mit motorisch-funktionellen/ sensomotorisch Amputationen nach Abschluß der Wundheilung, Angeborene Fehlbildungen kurzzeitigem Behandlungsbedarf dem Behandlungsbedarf nales Schmerzsyndrom); Stadium II und III systemische Erkrankungen Taubheit keiten  Persönlichkeits-und Verhaltensstörun- -perzeptiven Schädigungen)
 
 ---
 

@@ -14,39 +14,21 @@ Patient/in befindet sich seit _____________
 
 ## erfolgt ist)?
 
-[ ]
-
-[ ]
-
-# Nähere Beschreibung der technischen Hilfen:
-
 Einlagen
 
 technische Hilfe (bitte näher beschreiben):
 
-[ ]
+# Nähere Beschreibung der technischen Hilfen:
 
-## Beschwerden/Behinderungen mit Auswirkung auf die beantragte Leistung:
-
-[ ]
-
-- Rückenschmerzen:
-
-[ ]
+## Beschwerden/Behinderungen mit Auswirkung auf die beantragte Leistung: - Rückenschmerzen:
 
 - Beinverkürzung:
 
-[ ]
-
-[ ]
-
 - Beckenschiefstand:
-
-[ ]
 
 - Kniebeschwerden:
 
-[ ] Sonstige (bitte benennen): ____________________________________________________________
+Sonstige (bitte benennen): ____________________________________________________________
 
 _____________________________________________________________________________________
 
@@ -58,29 +40,17 @@ ________________________________________________________________________________
 
 AM 6-ÄD – 1900.8_Befundbericht_BÄK_ Fußschutz_Einlagen_Technische_Hilfen_21.
 
-regelmäßig [ ]
+regelmäßig
 
 Schuhzurichtung - HWS
-
-[ ]
-
-[ ]
-
-[ ]
 
 12
 
 BGL-Nummer:
 
-gelegentlich [ ]
+gelegentlich  nicht in meiner Behandlung
 
-manuell
-
-[ ]
-
-[ ]
-
-- BWS
+manuell - BWS
 
 - rechts
 
@@ -88,27 +58,9 @@ manuell
 
 - rechts
 
-[ ]
-
-[ ]
-
-# 17 12
-
-nicht in meiner Behandlung
+# 17 12.2021
 
 Maßschuhe
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-# .2021
 
 elektrisch - LWS
 
@@ -139,10 +91,6 @@ Seit: _______________
 
 AM 6-ÄD – 1900.8_Befundbericht_BÄK_ Fußschutz_Einlagen_Technische_Hilfen_21. 12
 
-[ ]
-
-[ ]
-
 
 ---
 
@@ -164,13 +112,9 @@ Stempel und Unterschrift
 
 AM 6-ÄD – 1900.8_Befundbericht_BÄK_ Fußschutz_Einlagen_Technische_Hilfen_21. 12
 
-**Rückruf erbeten** [ ]
+**Rückruf erbeten**
 
-**Bitte senden Sie mir Ihr Gutachten / Ihre gutachterliche Äußerung zu**[ ] (Eine Erklärung der Patientin / des Patienten über die Entbindung des Ärztlichen Dienstes der  Bundesagentur für Arbeit von der ärztlichen Schweigepflicht lege ich bei oder reiche ich nach)
-
-[ ]
-
-[ ]
+**Bitte senden Sie mir Ihr Gutachten / Ihre gutachterliche Äußerung zu** (Eine Erklärung der Patientin / des Patienten über die Entbindung des Ärztlichen Dienstes der  Bundesagentur für Arbeit von der ärztlichen Schweigepflicht lege ich bei oder reiche ich nach)
 
 __________________________
 
@@ -197,9 +141,9 @@ Agentur für Arbeit
 
 Für meine Bemühungen erlaube ich mir zu berechnen:
 
-| Fotokopierkosten:  **0,50 € 0,15 €** | ____  Seiten á **0,15 €** | =  = | **__________  €     __________  €** |
+| Fotokopierkosten:  **0,50 € 0,15 €** | ____  Seiten á  ____  Seiten á | = | **__________  €  __________  €** |
 |---|---|---|---|
-| Ausstellung des vollständigen Befundberichts und  Übermittlung an den Ärztlichen Dienst: | **32,50 €** | = | **€** |
+| Ausstellung des vollständigen Befundberichts und  Übermittlung an den Ärztlichen Dienst: |  | = | **€** |
 | Portokosten: |  | = | **€** |
 | **Gesamtsumme:** |  | = | **€** |
 |  |  |  |  |
@@ -214,4 +158,4 @@ AM 6-ÄD – 1900.8_Befundbericht_BÄK_ Fußschutz_Einlagen_Technische_Hilfen_21
 \| BIC: |
 \| Bank/Sparkasse: |
 
-für die ersten 50 Seiten für jede weitere Seite¹ Bitte geben Sie für die Bezahlung der Rechnung Ihre Rechnungs-Nummer und die vom Ärztlichen Dienst vergebene Liquidations-ID an.
+für die ersten 50 Seiten für jede weitere Seite     32,50 €¹ Bitte geben Sie für die Bezahlung der Rechnung Ihre Rechnungs-Nummer und die vom Ärztlichen Dienst vergebene Liquidations-ID an.

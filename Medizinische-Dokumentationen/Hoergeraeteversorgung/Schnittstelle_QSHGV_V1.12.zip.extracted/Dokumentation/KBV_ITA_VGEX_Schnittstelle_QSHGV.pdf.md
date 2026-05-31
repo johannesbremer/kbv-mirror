@@ -140,9 +140,9 @@ von der Schnittstellenbeschreibung und dem Schnittstellenpaket von der Schnittst
 
 *6.1.2.8* *Keine FF-Untersuchung möglich: Hörweite (m) mit HG* *....................................... 28*
 
-*6.1.2.9* *Nutzen (Verbesserung der Hörfähigkeit) mittels APHAB-Fragebogen (vor / nach*
+*6.1.2.9* *Nutzen (Verbesserung der Hörfähigkeit) mittels APHAB*
 
-*HG-Versorgung) .................................................................................................................. 28*
+*HG-Versorgung) .................................................................................................................. 28* *-Fragebogen (vor / nach*
 
 *6.1.2.10* *Sprachtest möglich ............................................................................................... 29*
 
@@ -157,31 +157,17 @@ von der Schnittstellenbeschreibung und dem Schnittstellenpaket von der Schnittst
 
 ---
 
-#### ABBILDUNGSVERZEICHNI
+#### ABBILDUNGSVERZEICHNIS
 
-Abbildung 1 - Vorverordnung mit Verordnung und Nachverordnung QS Hörgeräteversorgung
+Abbildung 1 - Vorverordnung mit Verordnung und Nachverordnung QS Hörgeräteversorgung 8
 
-Abbildung 2 - Grundstruktur levelone .......................................................................................
+Abbildung 2 - Grundstruktur levelone ....................................................................................... 10
 
-Abbildung 3 - Grundstruktur body ............................................................................................
+Abbildung 3 - Grundstruktur body ............................................................................................ 12
 
-Abbildung 4 - Grundstruktur section .........................................................................................
+Abbildung 4 - Grundstruktur section ......................................................................................... 12
 
-Abbildung 5 – allgemeiner Aufbau Sciphox-
-
-**S**
-
-SSU observation .................................................
-
-8
-
-10
-
-12
-
-12
-
-14
+Abbildung 5 – allgemeiner Aufbau Sciphox- SSU observation ................................................. 14
 
 
 ---
@@ -223,7 +209,7 @@ Tabelle 14 – Versorgung erfolgte zum Festbetrag ..............................
 
 Diese Schnittstellenbeschreibung definiert, wie die Daten ausgetauscht werden, die im Rah- men der "QS Hörgeräteversorgung" dokumentiert werden müssen.
 
-Formale und technische Grundlage dieser Schnittstelle ist CDA/HL7 . Insbesondere werden  1
+Formale und technische Grundlage dieser Schnittstelle ist CDA/HL71. Insbesondere werden
 
 V-Attribute für Werte anstelle von öffnenden und schließenden Tags benutzt.
 
@@ -739,9 +725,9 @@ ist mit dem Wert gemäß Tabelle 4 fest vorgege-
 
 \|  |
 \|---|
-\| <sciphox:Beobachtungen>                                                        <sciphox:Ergebniswert V="andere"/>                  <sciphox:Ergebniswert V="IO"/>                      <sciphox:Ergebniswert V="andere"/>                </local_markup>  </content> |
+\| <sciphox:Beobachtungen>                                                                                                                </local_markup>  </content> |
 
-<sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Schallempfindungsschwerhörigkeit"/> <sciphox:Ergebniswert V="links"/> </sciphox:Beobachtung>  <sciphox:Beobachtung> <sciphox:Parameter DN="Schallleitungsschwerhörigkeit"/> <sciphox:Ergebniswert V="links"/> </sciphox:Beobachtung>  <sciphox:Beobachtung> <sciphox:Parameter DN="Kombinierte Schwerhörigkeit“/> <sciphox:Ergebniswert V="links"/> </sciphox:Beobachtung>  <sciphox:Beobachtung> <sciphox:Parameter DN="Schweregrad der Hörstörung (WHO 2001): rechts"/> <sciphox:Ergebniswert V="normalhörig"/> </sciphox:Beobachtung>  <sciphox:Beobachtung> <sciphox:Parameter DN="Schweregrad der Hörstörung (WHO 2001): links"/> <sciphox:Ergebniswert V="geringgradig schwerhörig"/> </sciphox:Beobachtung>  <sciphox:Beobachtung> <sciphox:Parameter DN="Hörstörung > 80dB nach WHO 2001 tonaudiometri- scher Mittelwert bei 0,5 / 1 / 2 / 4 kHz"/> <sciphox:Ergebniswert V="links "/> </sciphox:Beobachtung>  <sciphox:Beobachtung> <sciphox:Parameter DN="Sonstige versorgungsrelevante Diagnosen"/> <sciphox:Ergebniswert V="Tinnitus"/> </sciphox:Beobachtung>  <sciphox:Beobachtung> <sciphox:Parameter DN="Sonstige versorgungsrelevante Diagnosen ande- <sciphox:Ergebnistext V="Freitext String"/> </sciphox:Beobachtung>  <sciphox:Beobachtung> <sciphox:Parameter DN="HNO-ärztlicher Vorschlag zur Gerätetechnik: Luftlei- tung"/> <sciphox:Ergebniswert V="HdO"/> <sciphox:Ergebniswert V="offene Versorgung"/> </sciphox:Beobachtung>  <sciphox:Beobachtung> <sciphox:Parameter DN="HNO-ärztlicher Vorschlag zur Gerätetechnik: Kno- chenleitung"/> <sciphox:Ergebniswert V="Knochenleitungsbügel"/> <sciphox:Ergebniswert V="teilimplantiertes Knochenleitungsgerät"/> </sciphox:Beobachtung>  <sciphox:Beobachtung> <sciphox:Parameter DN="HNO-ärztlicher Vorschlag zur Gerätetechnik: Son- derversorgung"/> <sciphox:Ergebniswert V="CROS / BiCROS"/> </sciphox:Beobachtung>  <sciphox:Beobachtung> <sciphox:Parameter DN=" HNO-ärztlicher Vorschlag zur Gerätetechnik: Son- derversorgung andere"/> <sciphox:Ergebnistext V="Freitext String"/> </sciphox:Beobachtung>  </sciphox:Beobachtungen> </sciphox:sciphox-ssu>
+<sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Schallempfindungsschwerhörigkeit"/> <sciphox:Ergebniswert V="links"/> </sciphox:Beobachtung>  <sciphox:Beobachtung> <sciphox:Parameter DN="Schallleitungsschwerhörigkeit"/> <sciphox:Ergebniswert V="links"/> </sciphox:Beobachtung>  <sciphox:Beobachtung> <sciphox:Parameter DN="Kombinierte Schwerhörigkeit“/> <sciphox:Ergebniswert V="links"/> </sciphox:Beobachtung>  <sciphox:Beobachtung> <sciphox:Parameter DN="Schweregrad der Hörstörung (WHO 2001): rechts"/> <sciphox:Ergebniswert V="normalhörig"/> </sciphox:Beobachtung>  <sciphox:Beobachtung> <sciphox:Parameter DN="Schweregrad der Hörstörung (WHO 2001): links"/> <sciphox:Ergebniswert V="geringgradig schwerhörig"/> </sciphox:Beobachtung>  <sciphox:Beobachtung> <sciphox:Parameter DN="Hörstörung > 80dB nach WHO 2001 tonaudiometri- scher Mittelwert bei 0,5 / 1 / 2 / 4 kHz"/> <sciphox:Ergebniswert V="links "/> </sciphox:Beobachtung>  <sciphox:Beobachtung> <sciphox:Parameter DN="Sonstige versorgungsrelevante Diagnosen"/> <sciphox:Ergebniswert V="Tinnitus"/> <sciphox:Ergebniswert V="andere"/> </sciphox:Beobachtung>  <sciphox:Beobachtung> <sciphox:Parameter DN="Sonstige versorgungsrelevante Diagnosen ande- re"/> <sciphox:Ergebnistext V="Freitext String"/> </sciphox:Beobachtung>  <sciphox:Beobachtung> <sciphox:Parameter DN="HNO-ärztlicher Vorschlag zur Gerätetechnik: Luftlei- tung"/> <sciphox:Ergebniswert V="HdO"/> <sciphox:Ergebniswert V="IO"/> <sciphox:Ergebniswert V="offene Versorgung"/> </sciphox:Beobachtung>  <sciphox:Beobachtung> <sciphox:Parameter DN="HNO-ärztlicher Vorschlag zur Gerätetechnik: Kno- chenleitung"/> <sciphox:Ergebniswert V="Knochenleitungsbügel"/> <sciphox:Ergebniswert V="teilimplantiertes Knochenleitungsgerät"/> </sciphox:Beobachtung>  <sciphox:Beobachtung> <sciphox:Parameter DN="HNO-ärztlicher Vorschlag zur Gerätetechnik: Son- derversorgung"/> <sciphox:Ergebniswert V="CROS / BiCROS"/> <sciphox:Ergebniswert V="andere"/> </sciphox:Beobachtung>  <sciphox:Beobachtung> <sciphox:Parameter DN=" HNO-ärztlicher Vorschlag zur Gerätetechnik: Son- derversorgung andere"/> <sciphox:Ergebnistext V="Freitext String"/> </sciphox:Beobachtung>  </sciphox:Beobachtungen> </sciphox:sciphox-ssu>
 
 
 ---
@@ -1027,7 +1013,7 @@ verordnung“ und „Verordnung“. Er enthält aber nur den Abschnitt „Nachve
 \|---|
 \| </sciphox:sciphox-ssu>  </local_markup>  </content> |
 
-<sciphox:Ergebniswert V="10" U="% (E/Z)"/> <sciphox:Ergebniswert V="20" U="dB (SVS)"/> <sciphox:Beobachtung> <sciphox:Parameter DN="Keine FF-Untersuchung möglich: Hörweite (m) ohne HG"/> <sciphox:Ergebniswert V="10" U="m"/> <sciphox:Beobachtung> <sciphox:Parameter DN=" Keine FF-Untersuchung möglich: Hörweite (m) mit HG"/> <sciphox:Ergebniswert V="20" U="m"/> <!-- <sciphox:Parameter DN="Sprachtest möglich"/> <sciphox:Ergebniswert V="Ja"/> </sciphox:Beobachtung> --> <sciphox:Beobachtung> <sciphox:Parameter DN="Nutzen (Verbesserung der Hörfähigkeit) mittels APHAB- Fragebogen (vor / nach HG-Versorgung)"/> <sciphox:Ergebniswert V="95" U="%"/> <sciphox:Beobachtung> <sciphox:Parameter DN="Versorgung erfolgte zum Festbetrag"/> <sciphox:Ergebniswert V="Ja"/> </sciphox:Beobachtungen> zeichnung gemäß Tabelle 12. Bei diesem Parameter kann nur ein Feld ausgewählt werden. <sciphox:Parameter DN="Der Hörgeräteversorgungsvorschlag entspricht dem aufgestellten Ve sorgungskonzept"/> <sciphox:Ergebniswert V="Ja"/> zeichnung gemäß Tabelle 9. Ber den. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg. sciphox:Ergebniswert  im sciphox:Ergebniswert  im -e- Attribut die Feldb -e- Attribut die Feldb  ausgewählt wer-
+<sciphox:Ergebniswert V="10" U="% (E/Z)"/> <sciphox:Ergebniswert V="20" U="dB (SVS)"/> <sciphox:Beobachtung> <sciphox:Parameter DN="Keine FF-Untersuchung möglich: Hörweite (m) ohne HG"/> <sciphox:Ergebniswert V="10" U="m"/> <sciphox:Beobachtung> <sciphox:Parameter DN=" Keine FF-Untersuchung möglich: Hörweite (m) mit HG"/> <sciphox:Ergebniswert V="20" U="m"/> <!-- <sciphox:Parameter DN="Sprachtest möglich"/> <sciphox:Ergebniswert V="Ja"/> </sciphox:Beobachtung> --> <sciphox:Beobachtung> <sciphox:Parameter DN="Nutzen (Verbesserung der Hörfähigkeit) mittels APHAB- Fragebogen (vor / nach HG-Versorgung)"/> <sciphox:Ergebniswert V="95" U="%"/> <sciphox:Beobachtung> <sciphox:Parameter DN="Versorgung erfolgte zum Festbetrag"/> <sciphox:Ergebniswert V="Ja"/> </sciphox:Beobachtungen> zeichnung gemäß Tabelle 12. Bei diesem Parameter kann nur ein Feld ausgewählt werden. <sciphox:Parameter DN="Der Hörgeräteversorgungsvorschlag entspricht dem aufgestellten Ve sciphox:Ergebniswert sorgungskonzept"/> <sciphox:Ergebniswert V="Ja"/> zeichnung gemäß Tabelle 9. Ber den. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg. sciphox:Ergebniswert  im -e- Attribut die Feldb  im -e- Attribut die Feldb  ausgewählt wer-
 
 \| ** <>     </sciphox:Beobachtung> |
 \|---|
@@ -1246,4 +1232,4 @@ Als Beispiel sei hier folgender Code angegeben:
 | [KBV_ITA_VGEX_XML-Schnittstellen] | Richtlinie zum Austausch von XML |
 | [KBV_ITA_VGEX_Schnittstelle_eHeader] | Schnittstellenbeschreibung eDoku |
 
-e- räteversorgung -Daten in der ver- tragsärztlichen Versorgung, in aktuellster Version -Header, in aktu- ellster Version
+räteversorgung tragsärztlichen Versorgung, in aktuellster Version ellster Version e- -Daten in der ver- -Header, in aktu-

@@ -50,49 +50,49 @@ XPM -Lewin-Platz 2 1.34 Datum: 15.08.2023 Kennzeichnung: Öffentlich  Status: In
 
 27.10.2011
 
-Kapitel Zeichensatzkon- verter überarbeitet
+Kapitel Zeichensatzkon- verter überarbeitet Klassennamen haben **22**
 
-Kapital Anhang überar- beitet
+Kapital Anhang überar- sich geändert
+
+**24**
+
+beitet
 
 Minimale Java Version  geändert in 11,
 
+Kompilierung
+
+**20**
+
 Abbildungen aktualisiert
 
-Minimale Java Version  geändert in 1.8
+Minimale Java Version
 
-Abschnitt 3.1.4.1 entfal- len
+Kompilierung
+
+geändert in 1.8
+
+Schalter zeichen-
+
+Abschnitt 3.1.4.1 entfal-
+
+satz_pruefung ist obso-
+
+len
+
+let
 
 Dokument an Standard
 
 Struktur angepasst
 
-Neuer Konfigurationspa- rameter für Protokollda- tei.
+Neuer Konfigurationspa- rameter für Protokollda- Programmerweiterung **12**
 
-Java Version 1.5 wird  nicht mehr unterstützt.
+tei.
+
+Java Version 1.5 wird  nicht mehr unterstützt. Programmerweiterung **12**
 
 Neue Protokolldatei.
-
-Klassennamen haben  sich geändert
-
-Kompilierung
-
-Kompilierung
-
-Schalter zeichen- satz_pruefung ist obso- let
-
-Programmerweiterung
-
-Programmerweiterung
-
-**22**
-
-**24**
-
-**20**
-
-**12**
-
-**12**
 
 
 ---
@@ -849,7 +849,7 @@ Der Zeichensatz-Konverter wandelt komplette Abrechnungsdateien in einen gewünsc
 
 **Tabelle 3: Übergabeparameter**
 
-Dieser Parameter wird nur dann berücksichtigt, wenn die Aktion nicht der Da- teinamenskonvention widerspricht. Dateien mit Dateinamen, die mit dem Zei- chen A, S oder X beginnen, können nicht unter Ihrem Ursprungsnamen abge- legt werden, da dies der Dateinamenskonvention widerspricht . Dieser Überga- beparameter ist optional. rameter ist optional. -Format
+Dieser Parameter wird nur dann berücksichtigt, wenn die Aktion nicht der Da- teinamenskonvention widerspricht. Dateien mit Dateinamen, die mit dem Zei- chen A, S oder X beginnen, können nicht unter Ihrem Ursprungsnamen abge- legt werden, da dies der Dateinamenskonvention widerspricht beparameter ist optional. rameter ist optional. . Dieser Überga- -Format
 
 ---
 

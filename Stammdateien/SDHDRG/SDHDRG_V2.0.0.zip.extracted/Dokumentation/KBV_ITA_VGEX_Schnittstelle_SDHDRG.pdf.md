@@ -176,17 +176,13 @@ unter dem XML-Zweig <leistungsbereich> unter dem XML-Element <sdhdrg_stammdaten>
 
 # 1 EINLEITUNG
 
-Die Stammdatei Hybrid-DRG basiert auf der Schnittstellenbeschreibung SDHDRG und bildet die in der
-
-Hybrid-DRG-Vergütungsvereinbarung in Anlage 1 gelisteten Operationen- und Prozedurenschlüssel (OPS)  sowie die in Anlage 2 genannten Hybrid-DRGs ab.
+Die Stammdatei Hybrid-DRG basiert auf der Schnittstellenbeschreibung SDHDRG Hybrid-DRG-Vergütungsvereinbarung in Anlage 1 gelisteten Operationen- und Prozedurenschlüssel (OPS)  sowie die in Anlage 2 genannten Hybrid-DRGs ab.
 
 Die in der Stammdatei enthaltenen Daten können von Softwareherstellenden zur Unterstützung der  Anwendenden bei der Abrechnung von Hybrid-DRGs eingesetzt werden. Es gilt zu beachten, dass die
 
 Stammdatei nicht die Funktionen eines Groupers ersetzt.
 
-Die vorliegende Schnittstellenbeschreibung definiert das Format der Hybrid-DRG Stammdatei der KBV im
-
-XML-Format, konform zur ehd-Richtlinie [KBV_ITA_VGEX_eHD
+Die vorliegende Schnittstellenbeschreibung definiert das Format der Hybrid XML-Format, konform zur ehd-Richtlinie [KBV_ITA_VGEX_eHD
 
 Diese Datei wird den Softwareherstellenden von Praxisverwaltungssystemen vom Dezernat Digitalisierung  und IT der KBV zur Verfügung gestellt.
 
@@ -202,7 +198,7 @@ Standard-Namespace ist urn:ehd/sdhdrg/001.
 
 ## 2.3 ROOT-SCHEMA
 
-Das Root-Schema, worin die abgeleiteten ehd-Schemata sowie die projektbezogenen body-Schemata
+Das Root-Schema, worin die abgeleiteten ehd-Schemata sowie die projektbezogenen body
 
 inkludiert sind, heißt sdhdrg_root_V1.0.0.xsd.
 
@@ -216,27 +212,27 @@ Dateinamenskonvention nach ehd-Richtlinie:
 
 _ ............. Trennungszeichen zwischen den Namenselementen
 
-*<document_type_cd>*
+datatyp ..... Datentyp, "Satzart", "ehd." ist optional als Vorsatz erlaubt; *<document_type_cd>*
 
-datatyp ..... Datentyp, "Satzart", "ehd." ist optional als Vorsatz erlaubt; Entspricht dem Header-Element
+vv.vv ......... VersionsNr. der Datentypbeschreibung; Entspricht dem Element  *<interface>*
 
-*<interface>*
-
-vv.vv ......... VersionsNr. der Datentypbeschreibung; Entspricht dem Element *<version>* des Header-Elements
-
-bzw. wer hat die Daten geliefert; Entspricht dem Element
-
-sender ...... Absender der Lieferung (nicht immer mit Erzeuger bzw. Erstlieferanten der Daten identisch)
-
-*<person>* oder dem Element
-
-*<provider>*
-
-*<organization>* des Header-Elements
+sender ...... Absender der Lieferung (nicht immer mit Erzeuger bzw. Erstlieferanten der Daten identisch) bzw. wer hat die Daten geliefert; Entspricht dem Element  *<organization>* des Header-Elements
 
 tf+..………… timeframe (YYYYqQ)
 
 YYYY ........ Jahr
+
+und bildet die in der -DRG Stammdatei der KBV im
+
+*<provider>*
+
+-Schemata
+
+Entspricht dem Header-Element
+
+*<version>* des Header-Elements
+
+*<person>* oder dem Element
 
 
 ---
@@ -311,7 +307,7 @@ Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Kindel
 
 spezifischen Informationen zur Schnittstelle. Im body-Element werden die eigentlichen Daten hinterlegt.
 
-Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen, die in diesem  Dokument beschrieben werden, ist es wichtig, die Groß
+Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen, die in diesem  Dokument beschrieben werden, ist es wichtig, die Groß-/Kleinschreibung zu beachten.
 
 Abbildung 1: /ehd (root -Element)
 
@@ -319,7 +315,7 @@ Das ***<ehd>*** - Element hat folgenden Aufbau:
 
 **<?xml version="1.0" encoding="ISO-8859-15"?>**
 
-**<ehd ehd_version="..." xmlns="urn:ehd/001"** xmlns:xsi
+**<ehd ehd_version="..." xmlns="urn:ehd/001"** xmlns:xsi **[http://www.w3.org/2001/XMLSchema-instance](http://www.w3.org/2001/XMLSchema-instance)**
 
 **xsi:schemaLocation="urn:ehd/001 ../Schema/sdhdrg_root_V2.0.0.xsd">**
 
@@ -339,7 +335,7 @@ Das ***<ehd>*** - Element hat folgenden Aufbau:
 
 XML-Code 1: /ehd
 
-ehd_version: Im XML-File wird die Versionsnummer zur zugrundeliegenden ehd
+ehd_version: Im XML-File wird die Versionsnummer zur zugrundeliegenden ehd-Richtlinie bzw. des
 
 verwendeten ehd-Schemas angeben. Der Wertebereich wird auf 0.00 bis 99.99 festgelegt, anderenfalls  wird der Parser Fehler melden.
 
@@ -351,24 +347,16 @@ Der Header ist ein Pflichtelement, hier befinden sich die Metadaten zu den im bo
 
 ***<body>***
 
-Hier liegen die eigentlichen Inhalte der
+Hier liegen die eigentlichen Inhalte der Datenlieferung.
 
-Der Namensraum für die ehd-Schnittstelle ist zwingend vorgeschrieben: -/Kleinschreibung zu beachten.
-
-**[http://www.w3.org/2001/XMLSchema-instance](http://www.w3.org/2001/XMLSchema-instance)**
-
-Datenlieferung.
-
-***urn:ehd/001***
-
--Richtlinie bzw. des
+Der Namensraum für die ehd-Schnittstelle ist zwingend vorgeschrieben: ***urn:ehd/001***
 
 
 ---
 
 # 4 HEADER (METADATEN)
 
-Für die Beschreibung der Inhalte und deren Ausprägungen der header aktuelle Version der ehd-Schnittstellenbeschreibung [
+Für die Beschreibung der Inhalte und deren Ausprägungen der header aktuelle Version der ehd-Schnittstellenbeschreibung [KBV_ITA_VGEX_eHD
 
 # 5 BODY (INHALTSDATEN)
 
@@ -383,6 +371,12 @@ Der Namensraum ist „***urn:ehd/sdhdrg/001***
 Das Element ***<sdhdrg_stammdaten>*** bildet die oberste Ebene der Stammdatei Hybrid
 
 Kindelemente besitzt es das die Elemente ***<leistungsbereich_liste>***
+
+-Elemente wird auf die jeweils  ] verwiesen.
+
+-DRG. Als verpflichtendes
+
+und ***<ops_liste>***
 
 Abbildung 2: sdhdrg_stammdaten
 
@@ -408,32 +402,20 @@ XML-Code 2: sdhdrg_stammdaten
 
 ## 5.2 LEISTUNGSBEREICH_LISTE
 
-Das Element ***<leistungsbereich_liste>*** beinhaltet die einzelnen Leistungsbereiche
+Das Element ***<leistungsbereich_liste>*** beinhaltet die einzelnen Leistungsbereiche gemäß der Anlage 1 und 2 der
 
 Hybrid-DRG-Vergütungsvereinbarung. Daher besitzt dieses Element mindestens ein Kindelement  ***<leistungsbereich>***
-
--Elemente wird auf die jeweils
-
-KBV_ITA_VGEX_eHD ] verwiesen.
-
--DRG. Als verpflichtendes
-
-und ***<ops_liste>***
-
-gemäß der Anlage 1 und 2 der
 
 
 ---
 
 Abbildung 3: leistungsbereich_liste
 
-Der XML-Code für ein*** <leistungsbereich_liste>***
+Der XML-Code für ein*** <leistungsbereich_liste>*** Element hat folgenden Aufbau:
 
 **leistungsbereich_liste>**
 
 **leistungsbereich V="...">**
-
-Element hat folgenden Aufbau:
 
 **...**
 
@@ -498,7 +480,7 @@ Anlage 2 der Hybrid-DRG-Vergütungsvereinbarung. Die Hybrid-DRGs werden durch ei
 
 Abbildung 5: hybrid_drg_liste
 
-Der XML-Code für ein ***<hybrid_drg_liste>***
+Der XML-Code für ein ***<hybrid_drg_liste>*** Element hat folgenden Aufbau:
 
 **<hybrid_drg_liste>**
 
@@ -514,19 +496,21 @@ XML-Code 5: hybrid_drg_liste
 
 ### 5.3.1 hybrid_drg
 
-Das Element ***<hybrid_drg>***
+Das Element ***<hybrid_drg>*** bildet die einzelnen abrechnungsfähigen Hybrid-DRGs ab. Das V-Attribut enthält
 
-die vierstellige alphanumerische Notation übermitteln.
+die vierstellige alphanumerische Notation der Hybrid-DRG. Dieser Wert ist im Rahmen der Abrechnung zu
 
-Das Element ***<hybrid_drg>***
+übermitteln.
+
+Das Element ***<hybrid_drg>*** enthält die Pflichtelemente ***<name>*** und ***<bewertung>.***
 
 Abbildung 6: hybrid_drg
 
 Der XML-Code für ein
 
-**<hybrid_drg V=**
+**<hybrid_drg V= "/>**
 
-**<name V="**
+**<name V=" .."/>**
 
 **<bewertung>**
 
@@ -536,11 +520,7 @@ Der XML-Code für ein
 
 **</hybrid_drg>**
 
-***<hybrid_drg>***
-
-**"/>**
-
-**.."/>**
+***<hybrid_drg>*** Element hat folgenden Aufbau:
 
 XML-Code 6: hybrid_drg
 
@@ -549,16 +529,6 @@ XML-Code 6: hybrid_drg
 Das Element ***<name>*** enthält den Namen der Hybrid-DRG bzw. (in runden Klammern) die Kurzdefinition der
 
 zugrunde liegenden Ursprungs-DRG des stationären DRG-Systems. Im V-Attribut ist der entsprechende Text  enthalten.
-
-Element hat folgenden Aufbau:
-
-bildet die einzelnen abrechnungsfähigen Hybrid der Hybrid-DRG. Dieser Wert ist im Rahmen der Abrechnung zu
-
-enthält die Pflichtelemente ***<name>*** und ***<bewertung>.***
-
-Element hat folgenden Aufbau:
-
--DRGs ab. Das V-Attribut enthält
 
 
 ---

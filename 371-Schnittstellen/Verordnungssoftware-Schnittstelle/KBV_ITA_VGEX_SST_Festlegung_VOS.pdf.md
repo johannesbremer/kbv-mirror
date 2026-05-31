@@ -127,10 +127,10 @@ DOKUMENTENHISTORIE
 | 2.1.0 | 25.11.2022 | KBV | KBV_PR_VoS_MedicationStatement_MP Definition überarbeitet    KBV_EX_VoS_Medication_Amount_ FreeText entfernt    KBV_EX_VoS_Condition_Permanent umbenannt    KBV_EX_VoS_Medication_isOverThe Counter aufgenommen    Tabelle 44 Fehlerkorrektur    Umsetzungsfrist aktualisiert | Ergebnisse der | 12    14    14    15    16    32 |
 | 2.1.0 | 19.09.2022 | KBV | Anpassung an R4 und eRezept | Neue Version | Alle |
 | 1.20.0 | 08.07.2021 | KBV | Neue Version | E-Rezept  Umsetzungsfrist | 4, 10  28 |
-| 1.10.010 | 05.06.2020 | KBV | Neue Version   Neue Kapitel 6 und 7 eingefügt Kapitel 4.1.7.5 Transaction angepasst Kapitel 4.1.8 Paging erweitert Aufnahme: Valueset  74_VS_VoS_Identifiertyp | Profile,   organisatorische  Paging wird erlaubt | ALLE  28  31  23  24  16 |
+| 1.10.010 | 05.06.2020 | KBV | Neue Version   Neue Kapitel 6 und 7 eingefügt Kapitel 4.1.7.5 Transaction angepasst Kapitel 4.1.8 Paging erweitert Aufnahme: Valueset  74_VS_VoS_Identifiertyp | Stabilisierung KBV- organisatorische  Paging wird erlaubt | ALLE  28  31  23  24  16 |
 | 1.10 | 18.03.2019 | KBV | **1.** › › › › › › › › | Fortschreibung der | 7-11 |
 
-“AVWG” KBV_VS_VoS_AgentRoles Aufnahme: Profile 74_PR_VoS_Anwender 74_PR_VoS_Bundle_VoS_PVS 74_PR_VOS_Diagnose 74_PR_VoS_OBS_Stillend 74_PR_VoS_OBS_Schwanger 74_PR_VoS_OBS_Kreatinwert 74_PR_VoS_OBS_Gewicht 74_PR_VoS_OBS_Koerpergroesse Zertifizierungs- verfahrens Kommentierung Kommentierung Stabilisierung KBV- Festlegungen eingefügt, Schnittstelle um weitere Patienten- informationen sowie Datenübergabe von VoS an PVS zur Sicherstellung des Aufrufkontextes
+“AVWG” KBV_VS_VoS_AgentRoles Aufnahme: Profile 74_PR_VoS_Anwender 74_PR_VoS_Bundle_VoS_PVS 74_PR_VOS_Diagnose 74_PR_VoS_OBS_Stillend 74_PR_VoS_OBS_Schwanger 74_PR_VoS_OBS_Kreatinwert 74_PR_VoS_OBS_Gewicht 74_PR_VoS_OBS_Koerpergroesse Zertifizierungs- verfahrens Kommentierung Kommentierung Profile,  Festlegungen eingefügt, Schnittstelle um weitere Patienten- informationen sowie Datenübergabe von VoS an PVS zur Sicherstellung des Aufrufkontextes
 
 ---
 
@@ -146,13 +146,13 @@ Aufnahme: Extensions 74_EX_VOS_Anwender_Sytem 74_EX_VoS_Diagnose_ istDauerdiagno
 
 # 1 EINLEITUNG
 
-Das vorliegende Dokument legt die Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V fest. Vertragsärzte  können mittels dieser Schnittstelle die Verordnungssoftware wechseln, ohne
+Das vorliegende Dokument legt die Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V fest. Vertragsärzte  können mittels dieser Schnittstelle, die Verordnungssoftware wechseln,
 
 gespeicherten patientenbezogenen Verordnungsdaten zu verlieren. Des Weiteren wird die Kommunikation  zwischen einem PVS und einer Verordnungssoftware für alle nach § 371 Absatz 1 Nummer 2 SGB V von der  KBV zugelassenen Systeme festgesetzt. Folglich wird für den Vertragsarzt ein einfacher Wechsel der  Verordnungssoftware ermöglicht. In diesem Dokument werden folgende Begrifflichkeiten verwendet:
 
 **Praxisverwaltungssystem**
 
-Ein elektronisches Programm aus dem ein Anwender eine Funktion einer Verordnungssoftware aufruft. Im  Praxisverwaltungssystem erfolgt i.d .R. die Verwaltung und Speicherung der Patien ten-, Arzt Betriebsstättendaten. Im PVS ist die Dokumentation der Behandlung des Patienten in der elektronischen  Patientenakte gespeichert. Der Begriff Praxisverwaltungssystem bezieht sich auf IT -Systeme, die in der  vertragsärztlichen Versorgung eingesetzt werden.
+Ein elektronisches Programm aus dem ein Anwender eine Funktion einer Verordnungssoftware aufruft. Im  Praxisverwaltungssystem erfolgt i.d.R. die Verwaltung und Speicherung der Patienten-, Arzt Betriebsstättendaten. Im PVS ist die Dokumentation der Behandlung des Patienten in der elektronischen  Patientenakte gespeichert. Der Begriff Praxisverwaltungssystem bezieht sich auf IT-Systeme, die in der  vertragsärztlichen Versorgung eingesetzt werden.
 
 **Verordnungssoftware (VoS)**
 
@@ -182,7 +182,7 @@ Arzneimittel/ Medikamente sind Präparate, die dem Patienten mittels der Verordn
 
 1 An einigen Stellen im Dokument wird zur besseren Lesbarkeit die Bezeichnung „Arzt“ genutzt. Selbstverständlich ist darunter a die jeweilige weibliche Form der Berufsbezeichnung zu verstehen.
 
-dabei die bislang 1- und
+ohne dabei die bislang 1- und
 
 ] definiert.
 
@@ -201,27 +201,25 @@ Bei der Festlegung der Schnittstellen geht die KBV von nachstehender Systemarchi
 
 Abbildung 1: Systemarchitektur
 
-Im Praxisverwaltungssystem werden die Patienten -, Arzt -, und Betriebsstättendaten verwaltet und  gespeichert. Neben dem Einlesen vo n Versichertenkarten übernimmt das PVS die Speicherung der  patientenbezogenen Daten so auch die dem Patienten zugeordneten Verordnungsdaten (sog. Verordnungs historie) und Medikationspläne.
+Im Praxisverwaltungssystem werden die Patienten-, Arzt-, und Betriebsstättendaten verwaltet und  gespeichert. Neben dem Einlesen von Versichertenkarten übernimmt das PVS die Speicherung der  patientenbezogenen Daten so auch die dem Patienten zugeordneten Verordnungsdaten (sog. Verordnungs historie) und Medikationspläne.
 
-Die notwendigen Funktionen für die Erstellung von Rezepten und M edikationsplänen stellt dagegen die  Verordnungssoftware sicher. Der Funktionsumfang
+Die notwendigen Funktionen für die Erstellung von Rezepten und Medikationsplänen stellt dagegen die  Verordnungssoftware sicher. Der Funktionsumfang
 
 [EXT_ITA_VGEX_Anforderungskatalog_AVWG].
 
-Folglich muss das PVS alle notwendigen Stammdaten der Verordnungssoftware zur Verfügung stellen, damit  eine Ve rordnung für den Patienten durchgeführt werden kann. Hierbei handelt es sich bei der  Erstverordnung um die Patienten-, Arzt-, und Betriebsstättendaten und bei der Wiederverordnung müssen  zusätzlich noch die entsprechenden Verordnungsdaten, welche im PVS z. B. in der Verordnungshistorie des  Patienten gespeichert sind, übermittelt werden. Im Gegenzug übergibt die Verordnungssoftware die bei  einer Verordnung erstellten Rezeptdaten an das Praxisverwaltungssystem. Bei der Aktualisierung eines  Medikationsplans müs sen diese Informationen zwischen Verordnungssoftware und PVS ausgetauscht  werden.
+Folglich muss das PVS alle notwendigen Stammdaten der Verordnungssoftware zur Verfügung stellen, damit  eine Verordnung für den Patienten durchgeführt werden kann. Hierbei handelt es sich bei der  Erstverordnung um die Patienten-, Arzt-, und Betriebsstättendaten und bei der Wiederverordnung müssen  zusätzlich noch die entsprechenden Verordnungsdaten, welche im PVS z. B. in der Verordnungshistorie des  Patienten gespeichert sind, übermittelt werden. Im Gegenzug übergibt die Verordnungssoftware die bei  einer Verordnung erstellten Rezeptdaten an das Praxisverwaltungssystem. Bei der Aktualisierung eines  Medikationsplans müssen diese Informationen zwischen Verordnungssoftware und PVS ausgetauscht  werden.
 
 Der Datenaustausch zwischen den beteiligten Systemen erfolgt auf Basis des HL7 FHIR® Standards. Die hierfür  erforderlichen Datenstrukturen sind in Kapitel 3 FHIR®-Definitionen
 
-können die Regelungen für den Datenaustausch via REST und Verordnungssoftware entnommen werden. Im Kapitel  Praxisverwaltungssystem und Verordnungssoftware festgelegt.
+können die Regelungen für den Datenaustausch via REST und Verordnungssoftware entnommen werden. Im Kapitel 5 ist der Einsatz der Schnittstellen durch  Praxisverwaltungssystem und Verordnungssoftware festgelegt.
 
-Das folgende Informationsmodell stellt die entsprechenden Informationsklassen dar. Diese repräsentieren  die logischen Informationsobjekte für die Schnittstellen und werden in Kapitel  dargestellt.
+Das folgende Informationsmodell stellt die entsprechenden Informationsklassen dar. Diese repräsentieren  die logischen Informationsobjekte für die Schnittstellen und werden in Kapitel 3 als FHIR®-Elemente  dargestellt.
 
-ergibt
+ergibt sich aus dem
 
 festgelegt. Aus dem vierten Kapitel
 
--Service zwischen dem Praxisverwaltungssystem  5 ist der Einsatz der Schnittstellen durch
-
-sich aus dem 3 als FHIR® -Elemente
+-Service zwischen dem Praxisverwaltungssystem
 
 
 ---
@@ -240,7 +238,7 @@ Gegenstand dieses Dokuments. Die Elemente in den KBV -Profilen sowie deren Kardi
 
 [https://update.kbv.de/](https://update.kbv.de/).
 
-Die Verordnungsdaten des E -Rezeptes sind innerhalb der PKCS#7 -Datei enthalten und müssen für die  Weiterverarbeitung extrahiert werden. Die eRezept  und formularübergreifenden FHIR-Profile und weitere
+Die Verordnungsdaten des E-Rezeptes sind innerhalb der PKCS#7-Datei enthalten und müssen für die  Weiterverarbeitung extrahiert werden. Die eRezept  und formularübergreifenden FHIR-Profile und weitere
 
 Unterlagen werden Ihnen unter [https://update.kbv.de/bereitgestellt](https://update.kbv.de/bereitgestellt).
 
@@ -275,7 +273,7 @@ Dateiname: KBV_PR_VoS_AllergyIntolerance
 
 ## 3.1 KBV-PROFILE
 
-Die KBV -Profile geben Auskunft darüber, wie die Elemente und mit welchen Erweiterungen sowie  Einschränkungen diese zu verwenden sind. Die Identifikation der KBV-Profile erfolgt durch die Angabe einer
+Die KBV-Profile geben Auskunft darüber, wie die Elemente und mit welchen Erweiterungen sowie  Einschränkungen diese zu verwenden sind. Die Identifikation der KBV-Profile erfolgt durch die Angabe einer
 
 kanonischen URL.
 
@@ -291,7 +289,7 @@ Tabelle 1: KBV_PR_VoS_AllergyIntolerance
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_User |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/practitioner.html |
-| Definition | übernimmt |
+| Definition | Eine Person aus dem Praxisteam, welche die Bearbeitung des Rezeptes/BMP |
 
 Tabelle 2: KBV_PR_VoS_User
 
@@ -309,7 +307,7 @@ Tabelle 3: KBV_PR_VoS_Practitioner
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_PractitionerRole |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/practitionerrole.html |
 | Definition | Die ausgeführte Rolle des Arztes |
-| Hinweis | Verordnung im Rahmen einer ASV-Behandlung durchgeführt wird. In dem Fall ist |
+| Hinweis | Die ASV-Teamnummer des Behandelnders ist nur dann zu übertragen, wenn die |
 
 Tabelle 4: KBV_PR_VoS_PractitionerRole - CS (CodeSystem)
 
@@ -317,7 +315,7 @@ Tabelle 4: KBV_PR_VoS_PractitionerRole - CS (CodeSystem)
 
 -
 
-Eine Person aus dem Praxisteam, welche die Bearbeitung des Rezeptes/BMP Die ASV-Teamnummer des Behandelnders ist nur dann zu übertragen, wenn die auch das entsprechende Kennzeichen zu übermitteln. Beide Informationen werden dann im Personalienfeld aufgedruckt.-
+übernimmt Verordnung im Rahmen einer ASV-Behandlung durchgeführt wird. In dem Fall ist auch das entsprechende Kennzeichen zu übermitteln. Beide Informationen werden dann im Personalienfeld aufgedruckt.-
 
 
 ---
@@ -327,7 +325,7 @@ Eine Person aus dem Praxisteam, welche die Bearbeitung des Rezeptes/BMP Die ASV-
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_Organization |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/organization.html |
 | Definition | Betriebsstättendaten des Arztes |
-| Hinweis | vorliegen. |
+| Hinweis | Allerdings wird die BSNR nur dann zur Bedruckung verwendet, wenn die ASV |
 
 Tabelle 5: KBV_PR_VoS_Organization
 
@@ -335,7 +333,7 @@ Tabelle 5: KBV_PR_VoS_Organization
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_Bundle_PVS_VoS |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/bundle.html |
-| Definition | als erste |
+| Definition | Enthält die Composition mit dem Profil |
 | Hinweis | Die BundleID [ 5.1.1 sowie 5.2.1. |
 
 Tabelle 6: KBV_PR_VoS_Bundle_PVS_VoS
@@ -365,7 +363,7 @@ Tabelle 8: KBV_PR_VoS_Composition
 
 Tabelle 9: KBV_PR_VoS_Condition
 
-Allerdings wird die BSNR nur dann zur Bedruckung verwendet, wenn die ASV Teamnummer des Arztes und das entsprechende Kennzeichen nicht Enthält die Composition mit dem Profil KBV_PR_VoS_Composition Ressource. Bundle zum Aufruf der Verordnungssoftware .id] wird als kID  beim Aufruf der Verordnungssoftware übergeben. Details finden sich in den Kapiteln Medikationsplänen von der VoS ins PVS. Details dazu finden sich in den Kapiteln Aufrufkontext sowie die für die entsprechende Verordnungsfunktion notwendigen Ressourcen übergeben
+Teamnummer des Arztes und das entsprechende Kennzeichen nicht vorliegen. KBV_PR_VoS_Composition  als erste Ressource. Bundle zum Aufruf der Verordnungssoftware .id] wird als kID  beim Aufruf der Verordnungssoftware übergeben. Details finden sich in den Kapiteln Medikationsplänen von der VoS ins PVS. Details dazu finden sich in den Kapiteln Aufrufkontext sowie die für die entsprechende Verordnungsfunktion notwendigen Ressourcen übergeben
 
 ---
 
@@ -480,7 +478,7 @@ Grund, Kennzeichnung als Dauermedikation) für ein Medikament auf einem Medikati
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_VoS_Patient |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/patient.html |
 | Definition | Patientenstammdaten |
-| Hinweis | 16 mit |
+| Hinweis | Zur Vermeidung der Fehlleitung von Rezepten und Verordnungen beim Versand |
 
 Tabelle 22: KBV_PR_VoS_Patient
 
@@ -516,7 +514,7 @@ Tabelle 25: KBV_PR_VoS_Provenance_AllergyIntolerance
 | FHIR®-Ressource | http://hl7.org/fhir/R4/provenance.html |
 | Definition | Eine Provenance-Ressource, die von der VoS an das PVS gesendet wird, um ein |
 
-Zur Vermeidung der Fehlleitung von Rezepten und Verordnungen beim Versand sowie bei Hausbesuchen müssen vertragsärztliche Formulare wie z.B. Muster den von der Versichertenkarte abweichenden aktuellen Namens - und Adressinformationen bedruckt werden können. Daher ist hier die Adresse zu übermitteln, die zur Bedruckung des Personalienfeldes verwendet werden soll. Prescription ausgedruckten Medikament. (System) Rahmen des Zertifizierungsverfahrens nach § 371 Absatz 1 Nummer 2 SGB V vergeben wurde. storniertes eRezept im Storno-Fall im PVS als obsolet markieren zu können.Tabelle 26: KBV_PR_VoS_Provenance_ePrescription
+sowie bei Hausbesuchen müssen vertragsärztliche Formulare wie z.B. Muster 16 mit den von der Versichertenkarte abweichenden aktuellen Namens - und Adressinformationen bedruckt werden können. Daher ist hier die Adresse zu übermitteln, die zur Bedruckung des Personalienfeldes verwendet werden soll. Prescription ausgedruckten Medikament. (System) Rahmen des Zertifizierungsverfahrens nach § 371 Absatz 1 Nummer 2 SGB V vergeben wurde. storniertes eRezept im Storno-Fall im PVS als obsolet markieren zu können.Tabelle 26: KBV_PR_VoS_Provenance_ePrescription
 
 
 ---
@@ -723,7 +721,7 @@ Die nachfolgenden Ressourcen werden durch die vorliegende Schnittstelle genutzt.
 
 | **BEZEICHNUNG** | **RESSOURCE** |  |
 |---|---|---|
-| CapabilityStatement 2 | http://www.hl7.org/fhir/R4/capabilitystatement.html | |
+| CapabilityStatement2 | http://www.hl7.org/fhir/R4/capabilitystatement.html | |
 | OperationOutcome | http://www.hl7.org/fhir/R4/operationoutcome.html | |
 
 Tabelle 52: unveränderte FHIR® -Ressourcen
@@ -737,7 +735,7 @@ Arzneimittel oder in die Arzneimittelversorgung nach §31 SGB V einbezogenes Die
 
 Das PVS stellt die Repräsentanzen, für die in Kapitel 3 FHIR®-Definitionen
 
-Verordnungssoftware, über einen REST -Service zur Verfügung. In diesem Zusammenhang fungiert das PVS  als Server und die Verordnungssoftware als Client. Der vom Se anhand der Spezifikation der [ FHIR®_RESTful-API] mit den in diesem Kapitel beschriebenen Festlegungen  bzw. Einschränkungen bereitgestellt. Das PVS stellt dabei sicher, dass nu r Instanzen von FHIR® -Ressourcen  verarbeitet werden, die den Festlegungen aus Kapitel 3 „FHIR®
+Verordnungssoftware, über einen REST -Service zur Verfügung. In diesem Zusammenhang fungiert das PVS  als Server und die Verordnungssoftware als Client. Der vom Se anhand der Spezifikation der [FHIR®_RESTful-API] mit den in diesem Kapitel beschriebenen Festlegungen  bzw. Einschränkungen bereitgestellt. Das PVS stellt dabei sicher, dass nu r Instanzen von FHIR® -Ressourcen  verarbeitet werden, die den Festlegungen aus Kapitel 3 „FHIR®
 
 ## 4.1 ALLGEMEINE FESTLEGUNGEN
 
@@ -773,9 +771,9 @@ Der „_“ Unterstrich wird zur Kennzeichnung von Schlüsselw für folgende Fä
 
 -Notation codiert).
 
-- um systemweite Such - und History -Interaktionen von Interakti onen auf FHIR® -Ressoucetypen zu - unterscheiden
+- um systemweite Such- und History-Interaktionen von Interaktionen auf FHIR®-Ressoucetypen zu - unterscheiden
 
-- um Such -, History - und andere Interaktionen von einer Repräsentanz einer FHIR® -Ressource zu - unterscheiden
+- um Such-, History- und andere Interaktionen von einer Repräsentanz einer FHIR®-Ressource zu - unterscheiden
 
 - um Suchparameter die für alle FHIR®-Ressourcen gelten, von Suchparameter einzelner FHIR®
 
@@ -820,11 +818,11 @@ Jede in Kapitel 4.1.7 Interaktionen auf den Ressourcen benannte FHIR®-Ressource
 
 Manager, welcher über folgende URL ansprechbar ist: [base]/[type]. Wobei [type] dem Namen des
 
-FHIR®-Ressourcentyps (siehe StructureDefiniton.type in der FHIR® -Ressourcen-Beschreibung)
+FHIR®-Ressourcentyps (siehe StructureDefiniton.type in der FHIR®-Ressourcen-Beschreibung)
 
 entspricht.
 
-Alle logischen Interaktionen werden relativ zur Service Base URL ( [base]) ausgeführt. Alle hier
+Alle logischen Interaktionen werden relativ zur Service Base URL ([base]) ausgeführt. Alle hier
 
 spezifizierten URLs sind case-sensitive und UTF-8 codiert. Auf Basis von Kapitel 0
 
@@ -835,15 +833,15 @@ Sicherheit“ gelten die in diesem Dokument getroffenen Festlegungen für http a
 
 ### 4.1.3 Logische ID, Metadata und Versionierung von Ressourcen
 
-Grundlage ist das Kapitel „3.1.0.1.3 Resource Metadata and Versioning“ von [FHIR®_RESTful-API]. Es gilt:
+Grundlage ist das Kapitel „3.1.0.1.3 Resource Metadata and Versioning“ von [
 
-- **Id:** Die Logische-ID id entspricht der vom PVS für eine FHIR®-Ressource vergebenen ID. Die
+- **Id:** Die Logische-ID id entspricht der vom PVS für eine FHIR®
 
 - logische ID wird in der URL der angefragten Interaktion des REST-Services genutzt. Die logische ID  wird im Element Ressource.id angegeben.
 
-- **Last modified** Das Datum der letzten Änderung einer FHIR®-Ressource wird über den http Last
+- **Last modified** Das Datum der letzten Änderung einer FHIR®
 
-- Modified Header übertragen. Dieses Datum findet sich im Element
+- Modified Header übertragen. Dieses Datum
 
 - Ressource.meta.lastUpdated der FHIR®-Ressource.
 
@@ -851,29 +849,37 @@ Grundlage ist das Kapitel „3.1.0.1.3 Resource Metadata and Versioning“ von [
 
 Grundlage ist das Kapitel „3.1.0.1.6 Managing Return Content“ aus [FHIR®_RESTful-API].
 
-Es gilt: Das PVS setzt nur die Option „return=minimal“ um. Das heißt, wird eine der Interaktionen create,
+Es gilt: Das PVS setzt nur die Option „return=minimal“ um. Das heißt, wird  update, patch oder transaction von der Verordnungssoftware an das PVS angefragt und war das
 
-update, patch oder transaction von der Verordnungssoftware an das PVS angefragt und war das
+Erstellen der Ressource im Praxisverwaltungssystem erfolgreich, so antwortet das PVS mit einer http- Nachricht ohne Body.
 
-Erstellen der Ressource im Praxisverwaltungssystem erfolgreich, so antwortet das PVS mit einer http - Nachricht ohne Body.
+Erzeugen die Interaktionen create, update, patch oder transaction
 
-Erzeugen die Interaktionen create, update, patch oder transaction einen Fehler im PVS,
-
-wird eine http -Antwort mit dem entsprechenden Statuscode (siehe Kapitel 4.1.7 Interaktionen auf den
-
-Ressourcen“) und einer OperationOutcome-Ressource (siehe Kapitel 3.4 "FHIR®-Ressourcen“) im http
+wird eine http-Antwort mit dem entsprechenden Statuscode (siehe Kapitel 4.1.7  Ressourcen“) und einer OperationOutcome-Ressource (siehe Kapitel 3.4 "FHIR®-Ressourcen
 
 Body an die Verordnungssoftware übergeben.
 
 ### 4.1.5 Content Types und Encodings
 
-Grundlage ist das Kapitel „ 3.1.0.1.9 Content Types and encodings“ aus [ FHIR®_RESTful-API]. Es gilt: Der
+Grundlage ist das Kapitel „3.1.0.1.9 Content Types and encodings“ aus [
 
-Mime-Type für die über den REST -Service verarbeiteten Ressourcen ist application/fhir+xml
+Mime-Type für die über den REST-Service verarbeiteten Ressourcen ist  Praxisverwaltungssystem und Verordnungssoftware unterstützen nur diesen. Praxisverwaltungssystem und  Verordnungssoftware nutzen UTF-8 als Encoding im Body der http-Anfragen und  ist über die Felder Content-Type Accept oder Accept-Charset
 
-Praxisverwaltungssystem und Verordnungssoftware unterstützen nur diesen. Praxisverwaltungssystem und  Verordnungssoftware nutzen UTF-8 als Encoding im Body der http-Anfragen und Antworten. Das Encoding
+FHIR®_RESTful-API]. Es gilt:
 
-ist über die Felder Content-Type Accept oder Accept-Charset im http-Header zu übertragen.
+- -Ressource vergebenen ID. Die
+
+- -Ressource wird über den http Last findet sich im Element
+
+eine der Interaktionen create,
+
+einen Fehler im PVS,  Interaktionen auf den  “) im http
+
+FHIR®_RESTful-API]. Es gilt: Der  application/fhir+xml
+
+Antworten. Das Encoding
+
+im http-Header zu übertragen.
 
 
 ---
@@ -882,7 +888,7 @@ ist über die Felder Content-Type Accept oder Accept-Charset im http-Header zu �
 
 Grundlage ist das Kapitel „3.1.0.1.12 Support for Versions“ aus [FHIR®_RESTful-API].
 
-Es gilt: Der REST -Service des PVS unterstützt keine Versionierung der Ressourcen. Damit sind die  Versionierungen der Instanzen gemeint.
+Es gilt: Der REST-Service des PVS unterstützt keine Versionierung der Ressourcen. Damit sind die  Versionierungen der Instanzen gemeint.
 
 ### 4.1.7 Interaktionen auf den Ressourcen
 
@@ -933,58 +939,43 @@ Im http-Body wird die durch die [id]  angegebene [type] zurückgegeben. gelösch
 
 ---
 
-Das PVS beantwortet die Anfrage mit folgenden Statuscodes und Ergeb
+Das PVS beantwortet die Anfrage mit folgenden Statuscodes und Ergebnissen:
 
 | **ERGEBNIS DER ANFRAGE** | **STATUSCODE** | **BESONDERHEITEN IN DER ANTWORT** |
 |---|---|---|
 | Die Ressource wurde erfolgreich | 201 | Es wird die |
 | Das Erstellen der Ressource war | 400 | Eine Ressource vom Typ OperationOutcome „FHIR®-Ressourcen“) wird im http |
-| Das Erstellen der Ressource war | 404 | (siehe 3.4  „FHIR®-Ressourcen -Body übergeben. |
-| Das Erstellen der Ressource war | 422 | (siehe  „FHIR®-Ressourcen““) wird |
+| Das Erstellen der Ressource war | 404 | Eine Ressource vom Typ OperationOutcome „FHIR®-Ressourcen“) wird im http |
+| Das Erstellen der Ressource war | 422 | Eine Ressource vom Typ OperationOutcome „FHIR®-Ressourcen““) wird |
 
 Tabelle 54: Statuscode und Antworten in der create -Interaktion
 
-Die Interaktion conditional create
+Die Interaktion conditional create ist vom PVS nicht zu unterstützen.
 
 ### 4.1.7.3 Suchen  Search
 
-Grundlage ist das Kapitel „3.1.0.9 search“ aus
+Grundlage ist das Kapitel „3.1.0.9 search“ aus [FHIR®_RESTful-API].
 
-Es gilt: Damit die Verordnungssoftware in den FHIR® -Ressourcen des PVS suchen kann und somit eine  entsprechende Ergebnisliste erhält, wird die Interaktion
+Es gilt: Damit die Verordnungssoftware in den FHIR®-Ressourcen des PVS suchen kann und somit eine  entsprechende Ergebnisliste erhält, wird die Interaktion search definiert.
 
 Die Interaktion search ist sowohl als http -Methode
 
 Praxisverwaltungssystem anzubieten:
 
-GET [base]/[type]{?[parameters]}
+POST als auch als http -Methode GET wie folgt vom
+
+GET [base]/[type]{?[parameters]} bzw.
 
 POST [base]/[type]/search{?[parameters]}
 
-Die Umsetzung der Suchfunktionalität durch das Praxisver von [FHIR®] ([http://hl7.org/fhir/search.html)](http://hl7.org/fhir/search.html)) beschriebenen Suchfunktionen ermöglichen.
+Die Umsetzung der Suchfunktionalität durch das Praxisver von [FHIR®] ([http://hl7.org/fhir/search.html)](http://hl7.org/fhir/search.html)) beschriebenen Suchfunktionen ermöglichen.  waltungssystem muss die im Kapitel „3.1.1 search“
 
-Das Kapitel „ 3.1.0.9.1 Variant Searches“ aus [
+Das Kapitel „3.1.0.9.1 Variant Searches“ aus [FHIR®_RESTful-API] ist durch das Praxisverwaltungssystem
 
 entsprechend umzusetzen.
 
-Das PVS beantwortet die Anfrage mit folgenden Statuscodes und Ergebnissen:
+erstellt. [id]  der erstellten Ressource an die Verordnungssoftware im Location Feld im http Header wie folgt übergeben: [base]/[type]/[id]. fehlerhaft, da das Format der übergebenen Ressource nicht zu der vorgegebenen Definition/ Profilierung der Ressource passt.  (siehe Kapitel 3.4 -Body übergeben. fehlerhaft, da der Ressourcentyp nicht unterstützt wird  (siehe 3.4 -Body übergeben. fehlerhaft, weil die Business Logik im PVS nicht angewendet werden konnte.  (siehe Kapitel 3.4  im http-Body übergeben. Das PVS beantwortet die Anfrage mit folgenden Statuscodes und Ergebnissen:
 
-ist vom PVS nicht zu unterstützen.
-
-[FHIR®_RESTful-API].
-
-bzw.
-
-FHIR®_RESTful-API] ist durch das Praxisverwaltungssystem
-
-nissen:
-
-search definiert.
-
-POST als auch als http -Methode GET wie folgt vom
-
-waltungssystem muss die im Kapitel „3.1.1 search“
-
-erstellt. fehlerhaft, da das Format der übergebenen Ressource nicht zu der vorgegebenen Definition/ Profilierung der Ressource passt. fehlerhaft, da der Ressourcentyp nicht unterstützt wird fehlerhaft, weil die Business Logik im PVS nicht angewendet werden konnte. [id]  der erstellten Ressource an die Verordnungssoftware im Location Feld im http Header wie folgt übergeben: [base]/[type]/[id]. Kapitel 3.4 Kapitel 3.4  im http-Body
 
 ---
 
@@ -999,21 +990,25 @@ Tabelle 55: Statuscode und Antworten in der search -Interaktion
 
 ### 4.1.7.4 Löschen - Delete
 
-Grundlage ist das Kapitel „3.1.0.7 delete“ aus [FHIR®_RESTful-API].
+Grundlage ist das Kapitel „3.1.0.7 delete“ aus [
 
-Es gilt: Soll von der Verordnungssoftware eine FHIR® -Ressource im Praxisverwaltungssystem gelöscht  werden, nutzt die Verordnungssoftware dafür die Interaktion delete
+Es gilt: Soll von der Verordnungssoftware eine FHIR®-Ressource im Praxisverwaltungssystem gelöscht  werden, nutzt die Verordnungssoftware dafür die Interaktion
 
-Die Interaktion delete ist dabei durch eine http-Methode DELETE wie folgt vom Praxisverwaltungssystem
+Die Interaktion delete ist dabei durch eine http
 
 anzubieten:
 
 DELETE [base]/[type]/[id]
 
-Wurde eine Ressource gelöscht, so ist sie nicht mehr durch eine read- oder search-Interaktion von der
+Wurde eine Ressource gelöscht, so ist sie nicht mehr durch eine  Verordnungssoftware abrufbar.
 
-Verordnungssoftware abrufbar.
+FHIR®_RESTful-API].
 
-Suche gilt auch dann als erfolgreich, wenn für die übergebenen Suchparameter eine leere Ergebnismenge vorliegt. Bundle  erstellt mit Bundle.type = searchset . Die Suchergebnisse finden sich als entsprechende FHIR®-Ressourcen im Element Bundle.entry.  Die Übersendung einer Ressource OperationOutcome  ist nicht umzusetzen. ausgeführt werden oder die FHIR®-Validierungsregeln ergaben einen Fehler. OperationOutcome (siehe 3.4 übergeben. ausgeführt werden, da eine Autorisierung für die Suche notwendig ist. OperationOutcome (siehe 3.4 übergeben. ausgeführt werden, weil der Ressourcentyp die Interaktion search  nicht unterstützt oder der Ressourcentyp nicht vorhanden ist. OperationOutcome (siehe 3.4 übergeben.
+delete
+
+-Methode DELETE wie folgt vom Praxisverwaltungssystem
+
+Suche gilt auch dann als erfolgreich, wenn für die übergebenen Suchparameter eine leere Ergebnismenge vorliegt. ausgeführt werden oder die FHIR®-Validierungsregeln ergaben einen Fehler. ausgeführt werden, da eine Autorisierung für die Suche notwendig ist. ausgeführt werden, weil der Ressourcentyp die Interaktion search  nicht unterstützt oder der Ressourcentyp nicht vorhanden ist. Bundle  erstellt mit Bundle.type = searchset . Die Suchergebnisse finden sich als entsprechende FHIR®-Ressourcen im Element Bundle.entry.  Die Übersendung einer Ressource OperationOutcome  ist nicht umzusetzen. OperationOutcome (siehe 3.4 übergeben. OperationOutcome (siehe 3.4 übergeben. OperationOutcome (siehe 3.4 übergeben. read- oder search-Interaktion von der
 
 
 ---
@@ -1073,17 +1068,13 @@ betreffen.
 
 im Praxisverwaltungssystem auf.
 
-eine http -Methode POST wie folgt
+eine http-Methode POST wie folgt vom
 
 Bundle.entry) gilt: - und
 
-pitel 4.1.7.2 „ Schreiben
+pitel 4.1.7.2 „ Schreiben  create“
 
-FHIR®_RESTful-API].
-
-vom
-
-gelöscht oder die zu löschende Ressource existierte nicht. gelöscht, da ein Löschen für den Ressourcentyp nicht erlaubt ist. gelöscht, da auf sie noch verwiesen wird. werden konnte, weil die Business Logik im PVS nicht angewendet werden konnte. create“
+gelöscht oder die zu löschende Ressource existierte nicht. gelöscht, da ein Löschen für den Ressourcentyp nicht erlaubt ist. gelöscht, da auf sie noch verwiesen wird. werden konnte, weil die Business Logik im PVS nicht angewendet werden konnte. FHIR®_RESTful-API].
 
 
 ---
@@ -1111,7 +1102,7 @@ Das PVS beantwortet die Anfrage mit folgenden Statuscodes und Ergebnissen:
 
 Tabelle 57: Statuscode und Antworten in der capabilites -Interaktion
 
-Die Standardinteraktionen ( create
+Die Standardinteraktionen (create
 
 werden vom PVS nicht angeboten.
 
@@ -1141,21 +1132,25 @@ Hinweis: Die KBV empfiehlt die Implementierung von Paging, da dies die Schnittst
 
 ## 4.2 KONFORMITÄT VON RESSOURCEN
 
-Der REST-Service des Praxisverwaltungssystems verarbeitet nur solche FHIR®-Ressourcen, die den in Kapitel  3 „ FHIR®-Definitionen definierten FHIR® -Definitionen entsprechen. Somit werden nur solche FHIR® -
+Der REST-Service des Praxisverwaltungssystems verarbeitet nur solche FHIR®-Ressourcen, die den in Kapitel  3 „FHIR®-Definitionen definierten FHIR®-Definitionen entsprechen. Somit werden nur solche FHIR®-
 
 Ressourcen bereitgestellt bzw. zur Verarbeitung angenommen, die den definierten Profilen entsprechen.
 
-zur Verfügung, welche
-
-ei ne http -Methode GET wie folgt vom
+eine http-Methode
 
 CapabilityStatement
 
+FHIR®_RESTful-API] sind
+
+zur Verfügung, welche
+
+GET -Versionen, nach
+
+wie folgt vom
+
 Paging
 
-FHIR®_RESTful-API] sind dazu umzusetzen.
-
--Versionen, nach
+dazu umzusetzen.
 
 CapabilityStatement liegt vor und wird übergeben. CapabilityStatement
 
@@ -1177,8 +1172,9 @@ Das Praxisverwaltungssystem stellte die in der folgenden Tabelle beschriebenen I
 | Medication  KBV_PR_VoS_Medication_Compoun KBV_PR_VoS_Medication_FreeText KBV_PR_VoS_Medication_PZN KBV_PR_VoS_Medication_Ingredient | Ja | Nur als Teil von | Ja | Nein | Schreiben |
 | Medicationstatement  (KBV_PR_VoS_MedicationStatement | Ja | Nur als Teil von | Ja | Nein | Schreiben |
 
-ding _MP) „Transaktion“ „Transaktion“4.1.7
+4.1.7
 
+ding _MP) „Transaktion“ „Transaktion“
 
 ---
 
@@ -1236,13 +1232,13 @@ Die Kommunikation zwischen dem PVS und der Verordnungssoftware erfolgt nach dem 
 
 Abbildung 3: genereller Ablauf
 
-Der Anwender ruft aus seinem Praxisverwaltungssystem die Verordnungssoftware auf. Dabei kann das  Praxisverwaltungssystem die Verordnungssoftware ohne Aufrufkontext aufrufen. Dann erfolgt in der  Verordnungssoftware die Auswahl der gewünschten Funktion. Alternativ kann das Praxisverwaltungssystem  einen Aufrufkontext übergeb en. Dieser Aufrufkontext gibt die vom Anwender gewünschte
+Der Anwender ruft aus seinem Praxisverwaltungssystem die Verordnungssoftware auf. Dabei kann das  Praxisverwaltungssystem die Verordnungssoftware ohne Aufrufkontext aufrufen. Dann erfolgt in der  Verordnungssoftware die Auswahl der gewünschten Funktion. Alternativ kann das Praxisverwaltungssystem  einen Aufrufkontext übergeben. Dieser Aufrufkontext gibt die vom Anwender gewünschte
 
 Verordnungsfunktionalität mit. Wird z.B. der Aufrufkontext „Erstverordnung“ übergeben, gelangt der  Anwender beim Aufruf der Verordnungssoftware direkt in die „Erstverordnungsfunktion“. Hinsichtlich des
 
 Aufrufes der Verordnungssoftware gelten die Festlegungen aus den Kapiteln 5.1.1 sowie 5.2.1.
 
-Ist die Verordnungssoftware gestartet, arbeitet der Anwender in der Verordnungssoftware und nicht mehr  im Praxisverwaltungssystem. Der Anwender kann nun die von der Verordnungssoftware bereitgestellten  Funktionen nutzen. Die für die jeweiligen Funktionen notwendigen Daten fragt die Verordnungssoftware  über den REST -Service beim Praxisverwaltungssystem ab. Hat die Verordnungssoftware Daten erstellt, die  im Praxisverwaltungssystem gespeichert werden sollen, so übergibt die Verordnungssoftware diese Daten  über den REST -Service an das PVS. Dies ist z.B. der Fall, wenn ein Rezept erstellt (gedruckt) oder ein  Medikationsplan erstellt bzw. aktualisiert wird. In diesem Fall werden die Rezeptdaten und der erst ellte/
+Ist die Verordnungssoftware gestartet, arbeitet der Anwender in der Verordnungssoftware und nicht mehr  im Praxisverwaltungssystem. Der Anwender kann nun die von der Verordnungssoftware bereitgestellten  Funktionen nutzen. Die für die jeweiligen Funktionen notwendigen Daten fragt die Verordnungssoftware  über den REST -Service beim Praxisverwaltungssystem ab. Hat die Verordnungssoftware Daten erstellt, die  im Praxisverwaltungssystem gespeichert werden sollen, so übergibt die Verordnungssoftware diese Daten  über den REST-Service an das PVS. Dies ist z.B. der Fall, wenn ein Rezept erstellt (gedruckt) oder ein  Medikationsplan erstellt bzw. aktualisiert wird. In diesem Fall werden die Rezeptdaten und der erst ellte/
 
 aktualisierte Medikationsplan zur Speicherung an das Praxisverwaltungssystem übergeben. Es gelten die  Festlegungen aus den Kapiteln 5.1.2, 5.1.3, 5.2.2 sowie 5.2.3.
 
@@ -1279,11 +1275,9 @@ Die Verordnungssoftware muss über ein Aufrufkommando aufgerufen werden können,
 
 - z.B. „[http://testpraxis.com/fhir](http://testpraxis.com/fhir)-endpunkt"
 
-Die Verordnungssoftware stellt dem Anwender eine Dokumentatio n zur Verfügung aus der das
+Die Verordnungssoftware stellt dem Anwender eine Dokumentation zur Verfügung aus der das  Aufrufkommando hervorgeht. Tritt beim Aufrufen der Verordnungssoftware ein Fehler auf, so gibt die  Verordnungssoftware eine aussagekräftige Fehlermeldung aus.
 
-Aufrufkommando hervorgeht. Tritt beim Aufrufen der Verordnungssoftware ein Fehler auf, so gibt die  Verordnungssoftware eine aussagekräftige Fehlermeldung aus.
-
-Wurde die Verordnungssoftware erfolgreich gestartet, fragt die Verordnungssoftware mit dem Wert des  Übergabeparameters kID die mit dieser ID vom PVS bereitgestellte FHIR® -Ressource vom Typ Bundle
+Wurde die Verordnungssoftware erfolgreich gestartet, fragt die Verordnungssoftware mit dem Wert des  Übergabeparameters kID die mit dieser ID vom PVS bereitgestellte FHIR®-Ressource vom Typ Bundle
 
 entsprechend der Definition von KBV_PR_VoS_Bundle_PVS_VoS in Kapitel 3 „FHIR® Definitionen“ ab.
 
@@ -1295,7 +1289,7 @@ Nach dem Start der Verordnungssoftware arbeitet der Anwender in der Verordnungss
 
 ### 5.1.2 Abfrage der notwendigen Daten
 
-Führt der Anwender eine entsprechende Funktion in der Verordnungssoftware aus, so fragt die  Verordnungssoftware über die read- und search-Interaktion des REST -Services die benötigten FHIR® -
+Führt der Anwender eine entsprechende Funktion in der Verordnungssoftware aus, so fragt die  Verordnungssoftware über die read- und search-Interaktion des REST-Services die benötigten FHIR®-
 
 
 ---
@@ -1308,7 +1302,7 @@ Service
 
 Werden während der Ausführung der Verordnungssoftware patientenbezogene Daten, bspw. ein  Medikationsplan oder Rezept, erstellt, so übergibt die Verordnungssoftware diese Daten als FHIR® -Bundle
 
-gemäß des KBV -Profils KBV_PR_VoS_Bundle_VoS_PVS über den REST -Service unter Nutzung der
+gemäß des KBV-Profils KBV_PR_VoS_Bundle_VoS_PVS über den REST-Service unter Nutzung der
 
 Interaktion transaction an das Praxisverwaltungssystem. Bei der Übergabe der Daten von der VoS an
 
@@ -1365,15 +1359,15 @@ Aufruf der Verordnungssoft-ware als kID-Parameter übergeben.
 
 ### 5.2.2 Abfrage der notwendigen Daten
 
-Das Praxisverwaltungssystem stellt die in ihm vorliegenden Daten als FHIR® -Ressourcen über den REST - Service der Verordnungssoftware über die Interakationen read und search zur Verfügung. Dabei gelten
+Das Praxisverwaltungssystem stellt die in ihm vorliegenden Daten als FHIR®-Ressourcen über den REST- Service der Verordnungssoftware über die Interakationen read und search zur Verfügung. Dabei gelten
 
 die Festlegungen aus den Kapiteln 3 FHIR®-Definitionen“ und 4 REST-Service
 
 ### 5.2.3 Speicherung von übergebenen Daten
 
-Übergibt die Verordnungssoftware patientenbezogene Daten als FHIR® -Bundle gemäß KBV -Profil
+Übergibt die Verordnungssoftware patientenbezogene Daten als FHIR®-Bundle gemäß KBV-Profil
 
-KBV_PR_VoS_Bundle_VoS_PVS über den REST -Service mit der Interakt ion transaktion, so
+KBV_PR_VoS_Bundle_VoS_PVS über den REST-Service mit der Interaktion transaktion, so
 
 speichert das PVS die im Bundle vorliegenden Daten in der Patientendokumentation. Dabei erfolgt die  Patientenzuordnung gemäß den Patientenreferenzen wie diese in den Inhaltsressourcen des Bundles  angegeben sind. Dabei gelten die Festlegungen aus den Kapiteln 3 FHIR®-Definitionen“ und 4 REST-
 
@@ -1387,7 +1381,7 @@ von KBV_PR_VoS_Bundle_PVS_VoS in Kapitel 3 FHIR®-Definitionen aus, so hat der A
 
 Arbeiten in der Verordnungssoftware beendet und möchte im Praxisverwaltungssystem weiter arbeiten. Das
 
-Praxisverwaltungssystem stellt dabei sicher, dass wenn der Anwender in der Verordnungssoftware in einem  Patientenkontext gearbeitet hat und dieser Patientenkontext über die Ressource entsp rechend
+Praxisverwaltungssystem stellt dabei sicher, dass wenn der Anwender in der Verordnungssoftware in einem  Patientenkontext gearbeitet hat und dieser Patientenkontext über die Ressource entsprechend
 
 KBV_PR_VoS_Bundle_PVS_VoS beim Aufruf der Verordnungssoftware übergeben wurde, dieser
 

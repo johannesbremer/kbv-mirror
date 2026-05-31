@@ -364,7 +364,9 @@ Die erste Ebene des Informationsmodells kann der Abbildung 1 entnommen werden. E
 
 0..* -hat
 
-**Leis** **tungsge** **ne** **hmigung Krankenversicherungsverhältnis**
+**Leis** **tungsge** **ne** **hmigung**
+
+**Krankenversicherungsverhältnis**
 
 0..1
 
@@ -464,379 +466,491 @@ Die Dateinamen für die Elemente der FHIR®-Spezifikationsdateien setzen sich wi
 
 ## 3.4 FHIR®-INFORMATIONSMODELL DER SCHNITTSTELLE
 
-Das FHIR®-Informationsmodell bildet das fachliche Informationsmodell in der konkreten FHIR®-Struktur ab.
+Das FHIR®-Informationsmodell bildet das fachliche Informationsmodell in der konkreten FHIR® Eine detaillierte Darstellung des FHIR®- Informationsmodells  Informationsmodell_AW_SST].
 
-Eine detaillierte Darstellung des FHIR®- Informationsmodells befindet sich in [KBV_ITA_VGEX_FHIR
-
-Informationsmodell_AW_SST].
+befindet sich in [KBV_ITA_VGEX_FHIR -Struktur ab.
 
 **Begegnung**
 
-Begegnung :: **Behandlung_im_Auf** **trag_Überweisung (ServiceRequest )**
+Begegnung :: **Behandlung_im_Auf** **trag _Überweisung (ServiceRequest )**
 
 -Patient -Behandelnder -Betriebsstaette
 
 |  | -Medikament |  |
 |---|---|---|
-| Begegnung **::Koerpergewicht(KBV-Basis ), Koerpergroesse (KBV-BasisHueftumfang,Bauchumfang,Raucherstatus,Puls**-Patient **Blutdruck (Obse rva tion)** | **), Koerpertemperatur,,** | Begegnung **::Dia gnose(Condition)**-Patient |
-
--Patient
+| Begegnung **::Koerpergewicht(KBV-Basis ), Koerpergroesse (KBV-BasisBlutdruck (Obse rva tion )**-Patient | **), Koerpertemperatur,(Condition)Hueftumfang,Bauchumfang,Raucherstatus,Puls,** | Begegnung **::Dia gnose**-Patient |
 
 Begegnung :: **Allergie(AllergyIntolerance)**
 
-Begegnung :: **Anamnese(Obse** **rva** **tion)**
+-Patient
 
-Begegnung :: **Bef** **und(Obse** **rva** **tion)**
+Begegnung :: **Anamnese(Obse** **rva** **tion )**
 
 -Patient
 
-Abrechnung
+Begegnung :: **Bef** **und (Obse** **rva** **tion )**
 
-Leistungsgenehmigung -Patient
+-Patient
 
-Begegnung :: **Notf** **all(ServiceRequest )**
-
-Sonstige :: **Abrechnung_BG(Claim )** Sonstige :: **Abrechnung_HzV_BesondereVersorgung _Selektiv (** **Claim )**
+Begegnung :: **Notf** **all (ServiceRequest )**
 
 Begegnung :: **Ueberweisung_KH-Einweisung (ServiceRequest )**
 
--BehandelnderFunktion -Behandelnder -Patient
-
 Begegnung :: **Abrechnung_vorläufig (Claim )**
 
-Sonstige :: **Abrechnung_Privat (Claim )** -Organisation -Organisation -Weiterbehandlung _durch
-
-Sonstige :: **Abrechnung_Vertragsaerztlich (Claim )**
-
-Sonstige :: **Leis** **tungsge** **ne** **hmigung_Heilmittel (Elig** **ibilityresponse )**
-
--Betriebsstaette -Organisation
-
--Betriebsstaette -Organisation
-
--Organisation -Patient -Betriebsstaette -Patient -Betriebsstaette -Weiterbehandlung _durch -Patient -Patient
-
-Sonstige :: **Leis** **tungsge** **ne** **hmigung_Psychothe** **ra** **pie(Elig** **ibilityresponse )**
-
--Patient -Behandelnder -Diagnos e -Medikament -Patient
+-BehandelnderFunktion -Patient
 
 -Behandelnder
 
-Begegnung :: **Ma** **te** **rial_Sache (Device )**
+-Betriebsstaette
 
-Begegnung ::Therapie(Proce dure)
+-Betriebsstaette
 
-Sonstige :: **Leistungsanfrage_Psychothe** **ra** **pie(Elig** **ibilityRequest )** Sonstige :: **Leistungsanfrage_Heilmittel (Elig** **ibilityRequest )**
+-Organisation
 
--Diagnos e -Patient
-
-Sonstige :: **Weite** **rbe** **ha** **ndlung_durch (ServiceRequest )**
+-Organisation
 
 -Patient
 
--Patient
+-Medikament
 
--Behandelnder -Organisation -Betriebsstaette -Patient
-
-Begegnung :: **Untersuchung(Procedure)**
-
--Patient -Behandelnder
-
-Begegnung :: **Begegnung(Encounter)**
-
--Betriebsstaette -Diagnos e Begegnung :: **Hausbesuch(Encounter)**
+-Behandelnder
 
 -Patient
 
-Begegnung ::Unf all(Condition ) -Anamnese -Allergie -Patient
+-Diagnos e
+
+Begegnung :: **Ma** **te** **rial _Sache (Device )**
+
+Begegnung ::Therapie(Proce dure ) -Diagnos e -Patient
+
+Begegnung :: **Untersuchung(Procedure)** Begegnung :: **Begegnung(Encounter)**
+
+-Patient -Behandelnder -Betriebsstaette -Diagnos e
+
+Begegnung :: **Hausbesuch(Encounter)**
+
+-Anamnese
+
+Begegnung ::Unf all (Condition ) -Patient
+
+-Allergie
+
+-Patient
 
 -Te rmin
 
-Sonstige :: **Ringversuchszertifikat(Device )**
-
-Begegnung :: **Me** **dikament (Medication)** Begegnung :: **Verordnung Arzneimittel(Medicationrequest**
-
 Begegnung :: **Hausbesuch_Ort(Location )**
+
+Begegnung :: **Verordnung Arzneimittel(Medicationrequest**
+
+Begegnung :: **Me** **dikament (Medication)**
 
 -Patient
 
-Ringversuchs-
-
 Begegnung :: **Genetische Untersuchung(Procedure)**
 
-zertifikate
-
--Patient -Vertragsaerztliche Abrechnung -Diagnos e
+-Patient -Vertragsaerztliche Abrechnung
 
 Begegnung :: **Verordnung Heilmittel(ServiceRequest )**
 
--Privatabrechnung -HzV_BesondereVersorgung _Selektiv -Patient
+-Privatabrechnung
+
+-Diagnos e
+
+-HzV_BesondereVersorgung _Selektiv -Patient
 
 -BG-Abrechnung
 
 Begegnung :: **Ambulante_Operation _General (Procedure)**
 
+-Patient
+
 Begegnung :: **Hilfsmittel(Device )** Begegnung :: **Verordnung Hilfsmittel(ServiceRequest )**
 
 -Patient
 
--Patient
-
-Sonstige :: **Krankenversicherungsverhaeltnis(Cove** **rage)**
+Begegnung :: **Ambulante_Operation (Procedure)**
 
 Begegnung :: **Verordnung Arbeitsunfähigkeit(ServiceRequest )**
 
-Begegnung :: **Ambulante_Operation (Procedure)**
-
--Organisation
-
-Sonstige :: **Bez** **ugs** **pe** **rson(RelatedPerson )**
-
 -Patient
 
 -Patient
 
-Begegnung :: **Impf** **ung(Immunization)**
+Begegnung :: **Impf** **ung (Immunization)**
 
-Krankenversicherungsverhaeltnis
-
-Begegnung :: **Kurgenehmigung, Kurverlaengerung(Elig** **ibilityResponse )**
+Begegnung :: **Kurgenehmigung, Kurverlaengerung(Elig** **ibilityResponse )** Begegnung :: **Kur_Antrag (Elig** **ibilityRequest )** Begegnung :: **Kur(Procedure)**
 
 -Patient
 
-Begegnung :: **Kur_Antrag (Elig** **ibilityRequest )**
-
 -Patient
-
-Begegnung :: **Kur(Procedure)**
 
 -Krankenversicherungsverhaeltnis -Begegnung
 
-Begegnung :: **Krankenbefoederung** **Location )** **_Bef** **oe** **rde** **rungsmittel_Loka** **tion(** Begegnung :: **Krankenbefoederung_Bef** **oe** **rde** **rungsmittel(Device )** Begegnung :: **Krankenbefoerderung** **42019 (ServiceRequest )** **, Krankenbefoerderung**
+Begegnung :: **Krankenbefoederung_Bef** **oe** **rde** **rungsmittel _Loka** **tion (** Begegnung :: **Krankenbefoederung_Bef** **oe** **rde** **rungsmittel (Device )** Begegnung :: **Krankenbefoerderung, Krankenbefoerderung**
+
+**Location )**
+
+**42019 (ServiceRequest )**
+
+-Patient
+
+Abrechnung
+
+Sonstige :: **Abrechnung_HzV_BesondereVersorgung _Selektiv (**
+
+Sonstige :: **Abrechnung_BG(Claim ) Claim )** Sonstige :: **Abrechnung_Vertragsaerztlich (Claim )**
+
+Sonstige :: **Abrechnung_Privat (Claim )** -Organisation -Organisation
+
+-Weiterbehandlung _durch
+
+-Betriebsstaette
+
+-Betriebsstaette
+
+-Organisation
+
+-Patient
+
+Sonstige :: **Leis** **tungsge** **ne**
+
+-Weiterbehandlung _durch
 
 -Patient
 
 -Patient
 
-Begegnung :: **Schwangerschaft (Obse** **rva** **tion)**
-
-Patient -Organisation
-
-Sonstige :: **Vorsorgevollmacht(Conse** **nt)**
-
--Medikament
-
-Sonstige :: **Dauermedikation (Medica** **tionSta** **tement)**
-
--Bezugsperson
-
-Sonstige :: **Patie** **nt(** **nt)** Sonstige :: **Selektivvertrag (Contract )**
-
--Bezugsperson
-
-Sonstige :: **Notf** **allberechtigter (Conse** **nt)** -Organisation -Organisation
-
-Begegnung :: **Krebsfrueherkennung_Frauen _Auf** **trag(ServiceRequest )**
+-Patient
 
 -Behandelnder
 
--Bezugsperson
+Sonstige :: **Leistungsanfrage_Psychothe**
+
+-Patient
+
+Sonstige :: **Weite** **rbe** **ha** **ndlung _durch (ServiceRequest )**
+
+-Behandelnder -Organisation -Betriebsstaette -Patient
+
+Sonstige :: **Ringversuchszertifikat(Device )**
+
+Ringversuchs- zertifikate
+
+Sonstige :: **Krankenversicherungsverhaeltnis(Cove** **rage )**
+
+-Organisation
+
+Sonstige :: **Bez** **ugs** **pe** **rson (RelatedPerson )**
+
+Krankenversicherungsverhaeltnis
+
+Leistungsgenehmigung
+
+Sonstige :: **Leis** **tungsge** **ne** **hmigung _Heilmittel (Elig** **ibilityresponse )**
+
+**ibilityresponse )**
+
+**hmigung _Psychothe** **ra** **pie (Elig**
+
+**ra** **pie (Elig** **ibilityRequest )** Sonstige :: **Leistungsanfrage_Heilmittel (Elig** **ibilityRequest )**
+
+-Patient
+
+Begegnung :: **Schwangerschaft (Obse** **rva** **tion )**
+
+-Patient
+
+Begegnung :: **Krebsfrueherkennung_Frauen _Auf** **trag (ServiceRequest )**
 
 -Patient -Begegnung
 
-Sonstige :: **Patie** **ntenve** **rf** **üg** **ung(Conse** **nt)**
-
--Bezugsperson
-
-Sonstige :: **Gesundheitspass(DocumentReference )**
-
-Termin
-
-Begegnung :: **Krebsfrueherkennung_Frauen _Gynaekologische_Operation (**
+Begegnung :: **Krebsfrueherkennung_Frauen _Gynaekologische_Operation (** **Procedure)**
 
 -Patient
 
-Sonstige ::Anlage (DocumentReference ) -Person
+Begegnung :: **Krebsfrueherkennung_Bef** **und _Rektum _Kolon(Obse** **rva** **tion )**
 
--Patient **Procedure)**
+Begegnung :: **Krebsfrueherkennung_Frauen _Anamese _Diverse (**
 
--Begegnung -Betriebsstaette
+**Obse** **rva** **tion )**
 
-Sonstige :: **Te** **rmin(Appointment)**
+-Patient
 
-Begegnung :: **Krebsfrueherkennung_Bef** **und_Rektum _Kolon(Obse** **rva** **tion)**
+Begegnung :: **Krebsfrueherkennung_Ma** **enne** **r_Auf** **trag (ServiceRequest )**
 
--Abrechnung_BG _HzV_BesondereVersorgung _Selektiv -Organisation
+Begegnung :: **Krebsfrueherkennung_Frauen _Anamese _Hormona** **nwe** **ndung (**
 
-Sonstige :: **Betriebsstaette_Ort(Location )**
+**Obse** **rva** **tion )**
 
-Begegnung :: **Krebsfrueherkennung** **Obse** **rva**  **_Frauen _Anamese _Diverse (** **tion)**
+Begegnung :: **Krebsfrüherkennung_Mä** **nner (Composition )**
 
--Abrechnung_privat
-
--Behandlungsbaustein _vertragsaerztlich _Te xtvorlage -Patient
-
--Observation _Anamnese _Bauchumfang
-
-Begegnung :: **Krebsfrueherkennung_Ma** **enne** **_rAuf** **trag(ServiceRequest )**
-
--Observation _Befund _Blutdruck
-
-Begegnung :: **Krebsfrueherkennung** **Obse** **_Frauen _Anamese _Hormona** **rva** **tion)** **nwe** **ndung(**
-
-Begegnung :: **Krebsfrüherkennung_Mä** **nner(Composition )** -Observation _Hueftumfang _Koerpergewicht -Patient
+-Patient
 
 -Patient -Behandelnder
 
--Observation _Koerpergroesse _Koerpertemperatur
+Begegnung :: **Krebsfrueherkennung_Ma** **enne** **r_Anamese _Diverse (** -Blutdruck
 
-Begegnung :: **Krebsfrueherkennung_Frauen _Bef** **und_Diverse (**
+**Obse** **rva** **tion )**
 
-Begegnung :: **Krebsfrueherkennung** **Obse** **rva** **_Ma** **tion)** **enne** **_rAnamese _Diverse (** -Blutdruck
+Begegnung :: **Krebsfrueherkennung_Frauen _Bef** **und _Diverse (**
 
--Observation _Puls _Raucherstatus Sonstige :: **Behandlungsbaustein_Definition(PlanDefinition )** Sonstige :: **Behandlungsbaustein** **OM** **IM_G_Code , Sonstige (ActivityDefinition** **_Baustein _Dia** **gnose, Leistungsziffer ,**
+**Obse** **rva** **tion )**
 
--Patient **Obse** **rva** **tion)**
+-Patient
 
 Begegnung :: **Krebsfrüherkennung_Frauen (Composition )**
 
--Observation _Schwangers chaft -Diagnos e -Patient
+-Patient
 
-Begegnung :: **Krebsfrueherkennung_Ma** **enne** **_rBef** **und_Diverse (**
+Begegnung :: **Krebsfrueherkennung_Ma** **enne** **r_Bef** **und _Diverse (**
 
--Allergie -Behandlung_im_Auftrag _Ueberweisung -Unf all
+-Blutdruck
 
-Begegnung :: **Krebsfrueherkennung** **Obse** **rva** **_Frauen _Bef** **tion)** **und_Diverse _Ab30 (** -Blutdruck
+Begegnung :: **Krebsfrueherkennung_Frauen _Bef** **und _Diverse _Ab30 (**
 
-**Obse** **rva** **tion)**
+**Obse** **rva** **tion )**
 
--Ueberweisung -Notfall _KH-Einweisung -Patient
-
--Therapie -Untersuchung
-
-Sonstige :: **Behandlungsbaustein_Baustein _Verordnung(ActivityDefinition**
-
-Sonstige :: **Betriebsstaette(Organization )**
-
-Begegnung :: **Krebsfrueherkennung_Frauen _Gynaekologische_Dia** **gnose(**
-
--Verordnung_Arbeitsunfa ehigkeit _Arzneimittel -Medikament
-
--Patient **Obse** **rva** **tion)**
-
--Verordnung_Heilmittel _Hilfsmittel -Kur -Krankenbefoerderung
-
-Sonstige :: **Behandlungsbaustein** **ActivityDefinition** **_Baustein _Textvorlage(**
-
--Krebsfrueherkennung
-
--Haus bes uch
-
-_Frauen _Maenner
-
-Sonstige :: **Anforderung_Sprechstundenbedarf(SupplyRequest)**
-
--Genetische _untersuchung -Ambulante_Operation _Genereal -Ringversuchszertifikat -Behandelnder -Medikament
-
-Begegnung :: **Krebsfrueherkennung** **Obse** **_Frauen _Zytologischer_Bef** **rva** **tion)** **und_Diverse (**
-
-Sonstige :: **Behandelnder(Practitioner** Sonstige :: **BehandeldnerFunktion(PractitionerRole**
-
-Betriebsstätte
-
-Begegnung :: **Krebsfrueherkennung** **e_Zellen (Obse** **_Frauen _Zytologischer_Bef** **rva** **tion)** **und_Endozervikal**
-
-Begegnung :: **Krebsfrueherkennung_Frauen _Auf** **trag_2020 (ServiceRequest )**
-
-Behandelnder -Patient
-
-Begegnung :: **Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und_Gruppe(**
-
--Begegnung
-
-**Obse** **rva** **tion)**
-
-Begegnung :: **Krebsfrueherkennung_Frauen _HPV _Testergebnis _2020 (Obse** **rva** **tion)**
+**Obse** **rva** **tion )**
 
 -Patient
 
-Begegnung :: **Krebsfrueherkennung** **Oberservation)** **_Frauen _Zytologischer_Bef** **und_Bemerkungen (**
+Begegnung :: **Krebsfrueherkennung_Frauen _Gynaekologische_Dia** **gnose (**
 
-Begegnung :: **Zytologischer_Bef** **und(DiagnosticReport)**
+**Obse** **rva** **tion )**
 
 -Patient
 
-Begegnung :: **Krebsfrueherkennung_Frauen _HPV _Impf** **ung_2020 (Obse** **rva** **tion)**
+**_Frauen _Zytologischer_Bef**
 
--Behandelnder
+Begegnung :: **Krebsfrueherkennung** **und _Diverse (**
 
-Sonstige :: **Prove** **nienz(Prove** **na** **nce)**
+**Obse** **rva** **tion )**
 
-Sonstige :: **Mitarbeiter(Practitioner**
+**_Frauen _Zytologischer_Bef**
 
-Sonstige :: **Personen (Person)** Sonstige :: **Organisation (Organization )**
+Begegnung :: **Krebsfrueherkennung** **und _Endozervikal**
 
-Begegnung :: **Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und_Kontrolle(**
+**e_Zellen (Obse** **rva** **tion )**
+
+Begegnung :: **Krebsfrueherkennung_Frauen _Auf** **trag _2020 (ServiceRequest )**
+
+-Patient -Begegnung
+
+Begegnung :: **Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und _Gruppe(**
+
+**Obse** **rva** **tion )**
+
+Begegnung :: **Krebsfrueherkennung_Frauen _HPV _Testergebnis _2020 (Obse** **rva** **tion )**
+
+-Patient
+
+**_Frauen _Zytologischer_Bef**
+
+Begegnung :: **Krebsfrueherkennung** **und _Bemerkungen (**
+
+**Oberservation)**
+
+Begegnung :: **Zytologischer_Bef** **und (DiagnosticReport)**
+
+Begegnung :: **Krebsfrueherkennung_Frauen _HPV _Impf** **ung _2020 (Obse** **rva** **tion )**
+
+-Patient
+
+**_Frauen _Zytologischer_Bef**
+
+Begegnung :: **Krebsfrueherkennung** **und _Kontrolle(**
 
 Begegnung :: **Krebsfrüherkennung_Frauen _2020 (Composition )**
 
--Betriebsstaette -...
-
-**Obse** **rva** **tion)**
-
--Patient -Blutdruck
-
-Begegnung :: **Krebsfrueherkennung** **Procedure)** **_Frauen _Gynaekologische_Operation (**
-
--Jedes KBV-Profil *
+**Obse** **rva** **tion )**
 
 -Patient
 
-Begegnung :: **Krebsfrueherkennung** **ch_EntzuendungsBehandlung** **_Frauen _Zytologischer_Bef** **(Obse** **rva** **tion)** **und_Kontrolle_na**
+Begegnung :: **Krebsfrueherkennung_Frauen _Gynaekologische_Operation (**
 
-Adressbuch
+-Blutdruck
 
-Begegnung :: **Krebsfrueherkennung** **Obse** **rva**  **_Frauen _Anamese _Diverse (** **tion)**
-
-Provenienz
-
-Begegnung :: **Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und_Kontrolle_na**
+**Procedure)**
 
 -Patient
 
-**ch_Freitext (Obse** **rva** **tion)**
+Begegnung :: **Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und _Kontrolle_na**
 
-Begegnung :: **Krebsfrueherkennung_Frauen _Anamese _Hormona** **nwe** **ndung(**
+**ch_EntzuendungsBehandlung(Obse** **rva** **tion )**
 
-Begegnung :: **Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und_Kontrolle_na**
+Begegnung :: **Krebsfrueherkennung_Frauen _Anamese _Diverse (**
 
--Patient **Obse** **rva** **tion)**
+**Obse** **rva** **tion )**
 
-**ch_Oe** **strogenBe** **ha** **ndlung(Obse** **rva** **tion)**
+-Patient
 
-Begegnung :: **Zytologischer_Bef** **und_2020 (DiagnosticReport)**
+Begegnung :: **Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und _Kontrolle_na**
 
-Begegnung :: **Krebsfrueherkennung** **Obse** **rva** **tion)** **_Frauen _Bef** **und_Diverse (**
+**ch_Freitext (Obse** **rva** **tion )**
+
+Begegnung :: **Krebsfrueherkennung_Frauen _Anamese _Hormona** **nwe** **ndung (**
+
+**Obse** **rva** **tion )**
+
+-Patient
+
+**_Frauen _Zytologischer_Bef**
+
+Begegnung :: **Krebsfrueherkennung** **und _Kontrolle_na**
+
+**rva** **tion )**
+
+**ch_Oe** **strogenBe** **ha** **ndlung (Obse**
+
+Begegnung :: **Krebsfrueherkennung_Frauen _Bef** **und _Diverse (**
+
+**Obse** **rva** **tion )**
+
+Begegnung :: **Zytologischer_Bef** **und _2020 (DiagnosticReport)**
+
+-Patient
+
+**_Frauen _Zytologischer_Bef**
+
+Begegnung :: **Krebsfrueherkennung** **und _histologisch**
+
+**e_Kla** **erung (Obse** **rva** **tion )**
+
+Begegnung :: **Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und _Empfehlung(Se** Begegnung :: **Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und _Gruppe(**
+
+**rviceRequest )**
+
+**Obse** **rva** **tion )**
+
+-Patient
+
+Begegnung :: **Krebsfrueherkennung_Frauen _HPV _Testergebnis _2020 (Obse** **rva** **tion )** Begegnung :: **Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und _Diverse (**
+
+**Obse** **rva** **tion )**
+
+-Patient
+
+Begegnung :: **Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und _Bemerkungen (** Begegnung :: **Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und _Endozervikal**
+
+**Oberservation)**
+
+**e_Zellen (Obse** **rva** **tion )**
+
+Sonstige ::Anlage (DocumentReference )
+
+-Patient -Begegnung -Betriebsstaette -Abrechnung_BG _HzV_BesondereVersorgung _Selektiv
+
+-Abrechnung_privat _vertragsaerztlich
+
+-Behandlungsbaustein_Te xtvorlage
+
+-Observation _Anamnese _Bauchumfang
+
+-Observation _Befund _Blutdruck
+
+-Observation _Hueftumfang _Koerpergewicht
+
+-Observation _Koerpergroesse _Koerpertemperatur
+
+-Observation _Puls _Raucherstatus
+
+-Observation _Schwangers chaft -Diagnos e -Allergie -Behandlung_im_Auftrag _Ueberweisung -Unf all -Ueberweisung_KH-Einweisung
+
+-Notfall -Therapie -Untersuchung -Verordnung_Arbeitsunfa ehigkeit _Arzneimittel
+
+-Verordnung_Heilmittel _Hilfsmittel
+
+-Kur -Krankenbefoerderung -Krebsfrueherkennung_Frauen _Maenner
+
+-Haus bes uch -Genetische _untersuchung -Ambulante_Operation _Genereal -Ringversuchszertifikat
 
 *In der Klasse Provenienz wird nicht jede Klasse als Attribut explizit aufgeführt
 
-Begegnung :: **Krebsfrueherkennung** **e_Kla** **erung (Obse** **_Frauen _Zytologischer_Bef** **rva** **tion)** **und_histologisch**
+Patient
 
--Patient
+Sonstige :: **Vorsorgevollmacht(Conse** **nt )**
+
+Sonstige :: **Dauermedikation (Medica** **tionSta** **tement )**
+
+-Organisation
+
+-Medikament
+
+-Bezugsperson
+
+Sonstige :: **Selektivvertrag (Contract )**
+
+Sonstige :: **Patie** **nt(** **nt)**
+
+Sonstige :: **Notf** **allberechtigter (Conse** **nt )**
+
+-Organisation
+
+-Organisation
+
+-Bezugsperson
+
+-Bezugsperson
+
+-Behandelnder
+
+Sonstige :: **Patie** **ntenve** **rf** **üg** **ung (Conse** **nt )**
+
+Sonstige :: **Gesundheitspass(DocumentReference )**
+
+-Bezugsperson
+
+-Person
+
+Sonstige :: **Behandlungsbaustein_Baustein _Dia** **gnose , Leistungsziffer ,**
+
+Sonstige :: **Behandlungsbaustein_Definition(PlanDefinition )** **OM** **IM_G_Code , Sonstige (ActivityDefinition**
+
+Sonstige :: **Behandlungsbaustein_Baustein _Verordnung(ActivityDefinition**
+
+-Medikament
+
+Sonstige :: **Behandlungsbaustein_Baustein _Textvorlage(**
+
+**ActivityDefinition**
+
+Sonstige :: **Behandelnder(Practitioner** Sonstige :: **BehandeldnerFunktion(PractitionerRole**
+
+Behandelnder
+
+Sonstige :: **Personen (Person)**
+
+Sonstige :: **Prove** **nienz (Prove** **na** **nce )**
+
+-Behandelnder Sonstige :: **Mitarbeiter(Practitioner**
+
+-Betriebsstaette -... -Jedes KBV-Profil *
+
+Provenienz
 
 jedoch könnte jedes beliebige KBV-Profil referenziert werden .
 
-Begegnung :: **Krebsfrueherkennung** **rviceRequest )** **_Frauen _Zytologischer_Bef** **und_Empfehlung(Se** Begegnung :: **Krebsfrueherkennung** **Obse** **_Frauen _Zytologischer_Bef** **rva** **tion)** **und_Gruppe(**
+Termin
 
--Patient
+Sonstige :: **Te** **rmin (Appointment)**
 
-Begegnung :: **Krebsfrueherkennung_Frauen _HPV _Testergebnis _2020 (Obse** **rva** **tion)** Begegnung :: **Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und_Diverse (**
+-Organisation
 
--Patient
+Sonstige :: **Betriebsstaette_Ort(Location )**
 
-**Obse** **rva** **tion)**
+Sonstige :: **Betriebsstaette(Organization )**
 
-Begegnung :: **Krebsfrueherkennung** **Oberservation)** **_Frauen _Zytologischer_Bef** **und_Bemerkungen (** Begegnung :: **Krebsfrueherkennung** **e_Zellen (Obse** **_Frauen _Zytologischer_Bef** **rva** **tion)** **und_Endozervikal**
+Sonstige :: **Anforderung_Sprechstundenbedarf(SupplyRequest)**
+
+-Behandelnder -Medikament
+
+Betriebsstätte
+
+Sonstige :: **Organisation (Organization )**
+
+Adressbuch
 
 Abbildung 3 Ebene 1 des FHIR-Informationsmodells
 
@@ -844,7 +958,7 @@ Die Attribute in den Klassen bezeichnen Referenzen. Der Name des Attributs ist d
 
 Die hier modellierten Profile werden beim Export in Form von einzelnen Dateien (Instanzen) im XML-Format  erzeugt. Die Beziehungen zu den anderen Instanzen werden in den Dateien durch URLs gehalten.
 
-Begegnung :: Koerpergewicht(KBV-Basis ), Koerpergroesse (KBV-Basis ), Koerpertemperatur, Hueftumfang,Bauchumfang,Raucherstatus,Puls , Begegnung ::
+Begegnung :: Koerpergewicht(KBV-Basis ), Koerpergroesse (KBV-Basis ), Koerpertemperatur, Begegnung :: gnose (Condition) Hueftumfang,Bauchumfang,Raucherstatus,Puls ,
 
 ---
 
@@ -971,7 +1085,7 @@ Begegnung :: Koerpergewicht(KBV-Basis ), Koerpergroesse (KBV-Basis ), Koerpertem
 |  | KBV_PR_AW_Abrechnung_vorl | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Abr |
 |  | KBV_PR_AW_Allergie | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Aller |
 
-Einschränkungen diese zu verwenden sind. Die Identifikation der KBV -Profile erfolgt durch die Angabe einer kanonischen URI.  _BesondereVersorgung_ Selekti at ragsaerztlich aeufig ation ation_General echstundenbedarf ktion Auftrag_Ueberweisung tein_Definition tein_Diagnose tein_Leistungsziffern echnung_HzV_BesondereVersorgung_Selektiv echnung_privat echnung_vertragsaerztlich geplant zur echnung_vorlaeufig ulante_Operation ulante_Operation_General rderung_Sprechstundenbedarf andelnderFunktion andlung_im_Auftrag_Ueberweisung andlungsbaustein_Definition andlungsbaustein_Diagnose andlungsbaustein_Leistungsziffern nächsten Version
+Einschränkungen diese zu verwenden sind. Die Identifikation der KBV -Profile erfolgt durch die Angabe einer kanonischen URI.  _BesondereVersorgung_ Selekti at ragsaerztlich aeufig ation ation_General echstundenbedarf ktion Auftrag_Ueberweisung tein_Definition tein_Diagnose tein_Leistungsziffern echnung_HzV_BesondereVersorgung_Selektiv echnung_privat echnung_vertragsaerztlich geplant zur nächsten Version echnung_vorlaeufig ulante_Operation ulante_Operation_General rderung_Sprechstundenbedarf andelnderFunktion andlung_im_Auftrag_Ueberweisung andlungsbaustein_Definition andlungsbaustein_Diagnose andlungsbaustein_Leistungsziffern
 
 ---
 
@@ -1096,7 +1210,7 @@ Einschränkungen diese zu verwenden sind. Die Identifikation der KBV -Profile er
 | KBV_PR_AW_Betriebsstaette | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Betr | 06.06.2021 |
 | KBV_PR_AW_Betriebsstaette_ | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Betr | Optional |
 
-tein_OMIMCode tein_Sonstige tein_Textvorlage tein_Verordnung Unte rsuchung rung rung_42019 rung_Befoerderungsmittel andlungsbaustein_OMIMCode andlungsbaustein_Sonstige andlungsbaustein_Textvorlage andlungsbaustein_Verordnung iebsstaette_Ort etische_Untersuchung teller_Software kenbefoerderung kenbefoerderung_42019 kenbefoerderung_Befoerderungsmittel geplant zur nächsten Version
+tein_OMIMCode tein_Sonstige tein_Textvorlage tein_Verordnung Unte rsuchung rung rung_42019 rung_Befoerderungsmittel andlungsbaustein_OMIMCode andlungsbaustein_Sonstige andlungsbaustein_Textvorlage andlungsbaustein_Verordnung iebsstaette_Ort geplant zur nächsten Version etische_Untersuchung teller_Software kenbefoerderung kenbefoerderung_42019 kenbefoerderung_Befoerderungsmittel
 
 ---
 
@@ -1221,7 +1335,7 @@ tein_OMIMCode tein_Sonstige tein_Textvorlage tein_Verordnung Unte rsuchung rung 
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 
-ungsverhaeltnis ung_Befund_Rektum_Kolon ung_Frauen ung_Frauen_2020 ung_Frauen_Anamese_Diverse ung_Frauen_Anamnese_Hormo nanwendung ung_Frauen_Anamnese_Hormo nanwendung_2020 ung_Frauen_Auftrag ung_Frauen_Auftrag_2020 ung_Frauen_Befund_Diverse ung_Frauen_Befund_Diverse_A b30 ung_Frauen_Gynaekologische_ Diagnose ung_Frauen_Gynaekologische_ Operation ung_Frauen_Zytologischer_Bef und ung_Frauen_Zytologischer_Bef und_2020 ung_Frauen_Zytologischer_Em pfehlung kenversicherungsverhaeltnis geplant zur nächsten Version sfrueherkennung_Befund_Rektum_Kolon sfrueherkennung_Frauen sfrueherkennung_Frauen_2020 sfrueherkennung_Frauen_Anamese_Diverse sfrueherkennung_Frauen_Anamnese_Hormonanwendun sfrueherkennung_Frauen_Anamnese_Hormonanwendun g_2020 sfrueherkennung_Frauen_Auftrag sfrueherkennung_Frauen_Auftrag_2020 sfrueherkennung_Frauen_Befund_Diverse sfrueherkennung_Frauen_Befund_Diverse_Ab30 sfrueherkennung_Frauen_Gynaekologische_Diagnose sfrueherkennung_Frauen_Gynaekologische_Operation sfrueherkennung_Frauen_Zytologischer_Befund sfrueherkennung_Frauen_Zytologischer_Befund_2020 sfrueherkennung_Frauen_Zytologischer_Befund_Empfehl
+ungsverhaeltnis ung_Befund_Rektum_Kolon ung_Frauen ung_Frauen_2020 ung_Frauen_Anamese_Diverse ung_Frauen_Anamnese_Hormo nanwendung ung_Frauen_Anamnese_Hormo nanwendung_2020 ung_Frauen_Auftrag ung_Frauen_Auftrag_2020 ung_Frauen_Befund_Diverse ung_Frauen_Befund_Diverse_A b30 ung_Frauen_Gynaekologische_ Diagnose ung_Frauen_Gynaekologische_ Operation ung_Frauen_Zytologischer_Bef und ung_Frauen_Zytologischer_Bef und_2020 ung_Frauen_Zytologischer_Em pfehlung kenversicherungsverhaeltnis sfrueherkennung_Befund_Rektum_Kolon sfrueherkennung_Frauen sfrueherkennung_Frauen_2020 sfrueherkennung_Frauen_Anamese_Diverse sfrueherkennung_Frauen_Anamnese_Hormonanwendun sfrueherkennung_Frauen_Anamnese_Hormonanwendun g_2020 sfrueherkennung_Frauen_Auftrag sfrueherkennung_Frauen_Auftrag_2020 sfrueherkennung_Frauen_Befund_Diverse sfrueherkennung_Frauen_Befund_Diverse_Ab30 sfrueherkennung_Frauen_Gynaekologische_Diagnose sfrueherkennung_Frauen_Gynaekologische_Operation sfrueherkennung_Frauen_Zytologischer_Befund sfrueherkennung_Frauen_Zytologischer_Befund_2020 sfrueherkennung_Frauen_Zytologischer_Befund_Empfehl geplant zur nächsten Version
 
 ---
 
@@ -1346,7 +1460,7 @@ ungsverhaeltnis ung_Befund_Rektum_Kolon ung_Frauen ung_Frauen_2020 ung_Frauen_An
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 
-ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_Diverse_ und_Diverse_2020 2020 ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_Bemerk und_Bemerkungen ungen ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_Diverse und_Diverse ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Endozervikale_Z und_Endozervikale_Zellen ellen ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_Gruppe und_Gruppe ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_histologi und_histologische_Klaerung sche_Klaerung ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_Kontroll und_Kontrolle ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_Kontroll und_Kontrolle_nach_Entzuend e_nach_Entzuendungsbehandlung ungsbehandlung ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_Kontroll und_Kontrolle_nach_Freitext e_nach_Freitex ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_Kontroll und_Kontrolle_nach_Oestrogen e_nach_Oestrogenbehandlung behandlung ung_Frauen_HPV_HR_Impfung sfrueherkennung_Frauen_HPV_HR_Impfung_2020 _2020 ung_Frauen_HPV_HR_Testerge sfrueherkennung_Frauen_HPV_HR_Testergebnis_2020 bnis_2020 ung_Maenner sfrueherkennung_Maenner ung_Maenner_Anamnese_Dive sfrueherkennung_Maenner_Anamnese_Diverse rse
+ung_Frauen_Zytologischer_Bef und_Diverse_2020 ung_Frauen_Zytologischer_Bef und_Bemerkungen ung_Frauen_Zytologischer_Bef und_Diverse ung_Frauen_Zytologischer_Bef und_Endozervikale_Zellen ung_Frauen_Zytologischer_Bef und_Gruppe ung_Frauen_Zytologischer_Bef und_histologische_Klaerung ung_Frauen_Zytologischer_Bef und_Kontrolle ung_Frauen_Zytologischer_Bef und_Kontrolle_nach_Entzuend ungsbehandlung ung_Frauen_Zytologischer_Bef und_Kontrolle_nach_Freitext ung_Frauen_Zytologischer_Bef und_Kontrolle_nach_Oestrogen behandlung ung_Frauen_HPV_HR_Impfung _2020 ung_Frauen_HPV_HR_Testerge bnis_2020 ung_Maenner ung_Maenner_Anamnese_Dive rse sfrueherkennung_Frauen_Zytologischer_Befund_Diverse_ 2020 sfrueherkennung_Frauen_Zytologischer_Befund_Bemerk ungen sfrueherkennung_Frauen_Zytologischer_Befund_Diverse sfrueherkennung_Frauen_Zytologischer_Endozervikale_Z ellen sfrueherkennung_Frauen_Zytologischer_Befund_Gruppe sfrueherkennung_Frauen_Zytologischer_Befund_histologi sche_Klaerung sfrueherkennung_Frauen_Zytologischer_Befund_Kontroll sfrueherkennung_Frauen_Zytologischer_Befund_Kontroll e_nach_Entzuendungsbehandlung sfrueherkennung_Frauen_Zytologischer_Befund_Kontroll e_nach_Freitex sfrueherkennung_Frauen_Zytologischer_Befund_Kontroll e_nach_Oestrogenbehandlung sfrueherkennung_Frauen_HPV_HR_Impfung_2020 sfrueherkennung_Frauen_HPV_HR_Testergebnis_2020 sfrueherkennung_Maenner sfrueherkennung_Maenner_Anamnese_Diverse
 
 ---
 

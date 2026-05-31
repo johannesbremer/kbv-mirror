@@ -9,10 +9,10 @@
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
-|  | 21.01.2015 |
+|  | Version |
 |  |  |
 
-selendoskopie Informationstechnik, Telematik und Telemedizin Version  Datum: Kennzeichnung: Status:   Öffentlich  In Kraft
+selendoskopie Informationstechnik, Telematik und Telemedizin 1.01 Datum: 21.01.2015 Kennzeichnung: Öffentlich  Status:   In Kraft
 
 ---
 
@@ -20,12 +20,12 @@ selendoskopie Informationstechnik, Telematik und Telemedizin Version  Datum: Ken
 
 | **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 1.01 | 21.01.2015 KBV |  | Plausibilitäten bei Para- | Möglichkeit der Doppe | **6, 7 **  **5** |
+| 1.01 | 21.01.2015 KBV |  | Plausibilitäten bei Para- Redaktionelle Korrektur | Möglichkeit der Doppe | **6, 7 **  **5** |
 | 1.00 | 31.07.2014 KBV |  | Initiales Dokument |  |  |
 
 * Version:
 
-metergruppen 5 und 7 angepasst Redaktionelle Korrektur l- nennung bei Parameter 5 in Plausis berücksichtigt
+l- metergruppen 5 und 7 nennung bei Parameter 5 angepasst in Plausis berücksichtigt
 
 ---
 
@@ -149,9 +149,8 @@ Eine Warnung beschreibt einen Zustand, in welche die Daten dennoch angenommen we
 |  | | | | |
 |  |  |  | 2.b | Auslassung  Ganzzahl 0-99999  M  2.c  Auslassung  Ganzzahl 0-99999  M **3. Auswertung der Kapselendoskopie** 3.a  und auch selbst ausgewerteten  Ganzzahl 0-99999  M  Warnung, wenn  (Feld 3.a + Feld 3.b) ungleich (Feld 1.a + Feld 1.b) |
 
-* Version:
+Beschreibung der Felder und Plausibilitäten  LANR  BSNR  Anzahl durchgeführter Erstunter-  Anzahl durchgeführter Wiederho-  nicht zutreffend, da keine blu-  Anzahl Kapselendoskopien mit  Anzahl Kapselendoskopien ohne  Anzahl der selbst applizierten  Anzahl der an einen anderen Arzt Ganzzahl 0-99999 * Version:
 
-Beschreibung der Felder und Plausibilitäten  LANR  BSNR  Anzahl durchgeführter Erstunter-  Anzahl durchgeführter Wiederho-  nicht zutreffend, da keine blu-  Anzahl Kapselendoskopien mit  Anzahl Kapselendoskopien ohne  Anzahl der selbst applizierten  Anzahl der an einen anderen Arzt Ganzzahl 0-99999
 
 ---
 
@@ -259,6 +258,4 @@ von 1 bis unter 2 Stunden im  mehr als 2 Stunden im Magen chungen aufgrund von S
 |---|---|
 | [1] | Qualitätssicherungsvereinbarung |
 
-* Version:
-
-Kapselendoskopie
+Kapselendoskopie * Version:

@@ -360,9 +360,9 @@ Abbildung von Kapitelstruktur, Absätzen, Tabellen, Listenelementen und der jäh
 |---|---|
 | **Bestandteile des** | **Beschreibung** |
 | - | Trennungszeichen zwischen den Namenselementen |
-| Datatyp | Header-Element <document_type_cd>. |
+| Datatyp | Datentyp, "Satzart", "ehd." ist optional als Vorsatz erlaubt; Entspricht dem |
 | vv.vv | VersionsNr. der Datentypbeschreibung; Entspricht dem Element <version> |
-| Sender | Daten identisch) bzw. wer hat die Daten geliefert; Entspricht dem Element |
+| Sender | Absender der Lieferung, (nicht immer mit Erzeuger bzw. Erstlieferanten der |
 | tf+ | timeframe (YYYYqQ) |
 | YYYY | Jahr |
 | q | fix |
@@ -371,7 +371,7 @@ Abbildung von Kapitelstruktur, Absätzen, Tabellen, Listenelementen und der jäh
 | **2.1** | Standard-Zeichensatz ist ISO-8859-15. |
 | **2.2** | Standard-Namespace ist |
 
-EINLEITUNG Stammdatei der KBV im XML-Format. Die Stammdatei enthält die Informationen der Verschlüsselungsanleitung des BfArMs sowie die wesentlichen jährlichen Änderungen der ICD-10-GM.  Das XML-- Format orientiert sich dabei an die ehd Richtlinie [KBV_ITA_VGEX_EHD]. Diese Datei wird den Softwarehäusern, die Arztpraxissoftware herstellen, sowie den Kassenärztlichen Vereinigungen vom Dezernat Digitalisierung und IT der Kassenärztlichen Bundesvereinigung (KBV) ausschließlich zur Nutzung in der vertragsärztlichen Versorgung zur Verfügung gestellt.  KONVENTIONEN ZEICHENSATZ NAMENSPACE urn:ehd/va/001 2.3 ROOT-SCHEMA Das Root-- Schema, worin die abgeleiteten ehd Schemata sowie die projektbezogenen body-Schemata inkludiert sind, heißt va_root.xsd 2.4 Die Vergabe der Dateinamen erfolgt nach ehd-Richtlinie.  Dateinamenskonvention nach ehd-Richtlinie:  [ehd.]datatyp_vv.vv_sender_tf+val_nr+val_du+val.xml  Dateinamens Datentyp, "Satzart", "ehd." ist optional als Vorsatz erlaubt; Entspricht dem des Header-Elements <interface>. Absender der Lieferung, (nicht immer mit Erzeuger bzw. Erstlieferanten der <person> oder dem Element <organization> des Header-Elements <provider>.
+EINLEITUNG Stammdatei der KBV im XML-Format. Die Stammdatei enthält die Informationen der Verschlüsselungsanleitung des BfArMs sowie die wesentlichen jährlichen Änderungen der ICD-10-GM.  Das XML-- Format orientiert sich dabei an die ehd Richtlinie [KBV_ITA_VGEX_EHD]. Diese Datei wird den Softwarehäusern, die Arztpraxissoftware herstellen, sowie den Kassenärztlichen Vereinigungen vom Dezernat Digitalisierung und IT der Kassenärztlichen Bundesvereinigung (KBV) ausschließlich zur Nutzung in der vertragsärztlichen Versorgung zur Verfügung gestellt.  KONVENTIONEN ZEICHENSATZ NAMENSPACE urn:ehd/va/001 2.3 ROOT-SCHEMA Das Root-- Schema, worin die abgeleiteten ehd Schemata sowie die projektbezogenen body-Schemata inkludiert sind, heißt va_root.xsd 2.4 Die Vergabe der Dateinamen erfolgt nach ehd-Richtlinie.  Dateinamenskonvention nach ehd-Richtlinie:  [ehd.]datatyp_vv.vv_sender_tf+val_nr+val_du+val.xml  Dateinamens Header-Element <document_type_cd>. des Header-Elements <interface>. Daten identisch) bzw. wer hat die Daten geliefert; Entspricht dem Element <person> oder dem Element <organization> des Header-Elements <provider>.
 
 ---
 
@@ -466,7 +466,7 @@ Um die Aufwärtskompatibilität zu gewährleisten, wird kein fester Wert für di
 
 Der Header ist ein Pflichtelement, hier befinden sich die Metadaten zu den im body
 
-***<header>*** liegenden eigentlichen Inhaltsdaten.
+***<header>***  liegenden eigentlichen Inhaltsdaten.
 
 ***<body>***  Hier liegen die eigentlichen Inhalte der Datenlieferung.
 
@@ -805,10 +805,10 @@ Abbildung 16: tr
 
 Der XML-trCode für ein <
 
+> Element hat folgenden Aufbau:
+
 \| **<tr>        <th>...</th>           <th>...</th>        </tr>     <tr>        <td>...</td>           <td>...</td>        </tr>** |
 \|---|
-
-> Element hat folgenden Aufbau:
 
 Formel 16: XML-Code: tr
 

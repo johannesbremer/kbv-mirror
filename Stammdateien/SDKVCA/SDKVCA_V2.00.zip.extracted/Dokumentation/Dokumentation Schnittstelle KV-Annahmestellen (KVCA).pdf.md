@@ -215,8 +215,6 @@ pages/viewpage.action?pageId=71075847
 
 Seite
 
-Lizenzbestimmungen 5 von 27
-
 **Status**
 
 außer  Kraft
@@ -226,6 +224,8 @@ außer  Kraft
 außer  Kraft
 
 initiale  Erstellun g
+
+Lizenzbestimmungen 5 von 27
 
 
 ---
@@ -332,9 +332,15 @@ Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
 
 ---
 
-**3 ehd-Element (root-Element)** Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Unterelemente „header“  *und "keytabs"*, wie es in Abbildung 1 dargestellt ist. Im „header“-Element stehen die spezifischen Informationen
+Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
 
-zur Schnittstelle. Im „body“-Element werden die eigentlichen Daten hinterlegt. *Schlüsseltabellen definiert, welche für die Referenzierung innerhalb der XML-Datei verwendet werden.*
+**3 ehd-Element (root-Element)** Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Unterelemente „header“ und „body“
+
+*und "keytabs"*, wie es in Abbildung 1 dargestellt ist. Im „header“-Element stehen die spezifischen Informationen
+
+zur Schnittstelle. Im „body“-Element werden die eigentlichen Daten hinterlegt.* Im "keytabs"-Element werden die*
+
+*Schlüsseltabellen definiert, welche für die Referenzierung innerhalb der XML-Datei verwendet werden.*
 
 Für die XML-Dateien ist der Zeichensatz UTF-8 vorgeschrieben. Bei allen Elementen, die in diesem Dokument  beschrieben werden, ist es wichtig, die Groß-/Kleinschreibung zu beachten.
 
@@ -356,15 +362,7 @@ Hier liegen die eigentlichen Inhalte der Datenlieferung. In diesem Bereich kann 
 
 *Hier werden Schlüsseltabellen definiert, welche für die Referenzierung innerhalb der XML-Datei verwendet*  *werden.*
 
-Seite
-
-Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
-
-und „body“
-
-*Im "keytabs"-Element werden die*
-
-9 von 27
+Seite 9 von 27
 
 
 ---
@@ -392,13 +390,15 @@ Das Element hat folgenden Aufbau:
 
 **Type**
 
+**Use**
+
 attributes EX
 
-xs:string
+xs:string optional
 
 RT
 
-xs:string
+xs:string required
 
 example <ehd:id EX="8adbfaf2-cc71-4cc9-ba3b-d7fc7c077456" RT="1.2.276.0.76.3.1.64"/>
 
@@ -414,9 +414,13 @@ Das Element hat folgenden Aufbau:
 
 **Type**
 
+**Use**
+
 attributes V
 
-xs:nonNegati veInteger
+xs:nonNegati required
+
+veInteger
 
 example <ehd:version_nbr V="1"/>
 
@@ -436,23 +440,11 @@ attributes V
 
 **Type**
 
-xs:string
+**Use**
+
+xs:string required
 
 Seite
-
-**Use**
-
-optional
-
-required
-
-**Use**
-
-required
-
-**Use**
-
-required
 
 Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
 
@@ -573,11 +565,13 @@ Das Element <organization.nm> enthält den Namen der Organisation und hat folgen
 
 **Type**
 
+**Use**
+
 attributes V
 
-xs:string
-
 example <ehd:organization.nm V="kv.digital GmbH"/>
+
+xs:string required
 
 **7 Tabelle: organization.nm**
 
@@ -586,10 +580,6 @@ addr (Adresse der Organisation)
 In diesem Element wird die Adresse der Organisation angegeben. Das Element hat folgende Struktur:
 
 Seite
-
-**Use**
-
-required
 
 Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
 
@@ -700,23 +690,15 @@ Seite
 
 **Type**
 
-xs:string
-
-xs:string
-
-xs:string
-
-*xs:string*
-
 **Use**
 
-required
+xs:string required
 
-optional
+xs:string optional
 
-optional
+xs:string optional
 
-*optional*
+*xs:string optional*
 
 Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
 
@@ -739,6 +721,8 @@ Menschenlesbarer Klartextname der Schlüsseltabelle.
 
 **Type**
 
+**Use**
+
 example <ehd:state S=" 1.2.276.0.76.5.108" V="TEST" DN="Testdaten - nur für Testverfahren"  SN="S_KBV_BEARBEITUNGSZUSTAND"/>
 
 **10 Tabelle: state**
@@ -759,17 +743,13 @@ Das Element hat folgenden Aufbau:
 
 **Type**
 
+**Use**
+
 attributes EX
 
-xs:string
+xs:string required
 
 Seite
-
-**Use**
-
-**Use**
-
-required
 
 Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
 
@@ -786,13 +766,15 @@ Identifikation der Schnittstelle 18 von 27
 
 **Type**
 
+**Use**
+
 RT
 
-xs:string
+xs:string required
 
 version V
 
-xs:string
+xs:string required
 
 example <ehd:id EX="KVCA" RT="1.2.276.0.76.5.109"/>
 
@@ -808,9 +790,11 @@ Das Element hat folgenden Aufbau:
 
 **Type**
 
+**Use**
+
 attribute V
 
-xs:string
+xs:string required
 
 example <ehd:interface.nm V="kvca"/>
 
@@ -826,29 +810,17 @@ Das Element hat folgenden Aufbau:
 
 **Type**
 
+**Use**
+
 version V
 
-xs:string
+xs:string required
 
 example <ehd:version V="1.04"/>
 
 **13 Tabelle: version**
 
 Seite
-
-**Use**
-
-required
-
-required
-
-**Use**
-
-required
-
-**Use**
-
-required
 
 Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
 
@@ -939,7 +911,7 @@ Dieses Attribut enthält die OID der entsprechenden  Schlüsseltabelle. In diese
 
 ---
 
-**11 Abbildung 11: anwendung** Das Element enthält die Kindelemente id, version, email sowie die optionalen Elemente test_email, kim_email,  sowie die optionalen Elemente
+**11 Abbildung 11: anwendung** Das Element enthält die Kindelemente id, version, email sowie die optionalen Elemente test_email, kim_email,  sowie die optionalen Elemente kim_test_email und anwendungsspezifika.
 
 **id (Anwendungs-ID)**
 
@@ -951,15 +923,15 @@ Das Element hat folgenden Aufbau:
 
 attributes EX
 
-kim_test_email und anwendungsspezifika.
-
 **Type**
 
-xs:string
+**Use**
+
+xs:string required
 
 RT
 
-xs:string
+xs:string required
 
 example <kvca:id EX="eHKS" RT="1.2.276.0.76.3.1.64.5.1"/>
 
@@ -974,12 +946,6 @@ Zusätzlich kann noch die Gültigkeit angegeben werden, bspw. wenn eine neue Anw
 Das Element hat folgenden Aufbau:
 
 Seite
-
-**Use**
-
-required
-
-required
 
 Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
 
@@ -1135,37 +1101,31 @@ Das Element <anwendungsspezifika> gibt die spezifischen Merkmale der Anwendung a
 
 anwendungsfunktion (Funktion 1ClickAbrechnung)
 
-Das Element <anwendungsfunktion> enthält die Funktionen der 1ClickAbrechnung
-
-eine KV unterstützt.
+Das Element <anwendungsfunktion> enthält die Funktionen der 1ClickAbrechnung  eine KV unterstützt.
 
 Das Element hat folgenden Aufbau:
 
-attributes
-
 **Name**
-
-V
 
 **Type**
 
-kvca:oneclick funktion
+**Use**
+
+attributes V
+
+kvca:oneclick required
+
+funktion
 
 RT
 
-xs:string
+xs:string optional
 
 example <kvca:anwendungsfunktion V="Fkt 2" RT="1.2.276.0.76.3.1.1.5.2.34"/>
 
 **19 Tabelle: anwendungsfunktion**
 
 Seite
-
-**Use**
-
-required
-
-optional
 
 Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
 
@@ -1228,15 +1188,19 @@ attributes *V*
 
 **Type**
 
-xs:string
+**Use**
 
-xs:string
+xs:string required
 
-xs:string
+xs:string required
+
+xs:string required
 
 **Type**
 
-*xs:string*
+**Use**
+
+*xs:string* required
 
 S
 
@@ -1244,25 +1208,9 @@ DN
 
 Seite
 
-xs:string
+xs:string required
 
-xs:string
-
-**Use**
-
-required
-
-required
-
-required
-
-**Use**
-
-required
-
-required
-
-required
+xs:string required
 
 Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
 
@@ -1276,15 +1224,17 @@ Versionsnummer der Schlüsseltabelle
 
 zu finden.
 
+*V,* S, DN und SV
+
 **Erläuterung**
 
-*Dieses Element enthält den Wert (z.B. Name, Kürzel)*  *des Schlüssels*
+*Dieses Element enthält den Wert (z.B. Name, Kürzel)*
+
+*des Schlüssels*
 
 Dieses Attribut enthält die OID der entsprechenden  Schlüsseltabelle.
 
-Menschenlesbarer Wert
-
-*V,* S, DN und SV 25 von 27
+Menschenlesbarer Wert 25 von 27
 
 
 ---

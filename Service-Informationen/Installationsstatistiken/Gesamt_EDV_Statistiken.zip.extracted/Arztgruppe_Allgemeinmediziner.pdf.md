@@ -4,200 +4,126 @@
 
 #### Datenstand: 30.06.2025
 
-**Id**
-
-112
-
-280
-
-462
-
-216
-
-498
-
-210
-
-243
-
-203
-
-244
-
-266
-
-457
-
-252
-
-**Praxissoftware**
-
-**TURBOMED**
-
-**CGM MEDISTAR BLACK PRO**
-
-**medatixx**
-
-**x.isynet**
-
-**T 2med**
-
-**Medical Office**
-
-**x.concept**
-
-**ALBIS**
-
-**QUINCY WIN**
-
-**x.comfort**
-
-**tomedo**
-
-**CGM M1 PRO**
+**Id Praxissoftware**
 
 **Anbieter**
 
-CompuGroup Medical Deutschland AG
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-CompuGroup Medical Deutschland AG
+112 **TURBOMED**
 
-medatixx GmbH & Co. KG
-
-medatixx GmbH & Co. KG
-
-T 2med GmbH & Co. KG
-
-INDAMED EDV-Entwicklung und Vertrieb GmbH
-
-medatixx GmbH & Co. KG
-
-CompuGroup Medical Deutschland AG
-
-Frey ADV GmbH
-
-medatixx GmbH & Co. KG
-
-Zollsoft GmbH
-
-CompuGroup Medical Deutschland AG 1
-
-**Installationen 2.Q.2025**
-
-1 991
-
-1 951
-
-1 675
-
-1 576
-
-1 556
-
-1 508
-
-1 232
-
-1 107
-
-1 056
-
-928
-
-795
-
-702
-
-**Installationen 1.Q.2025**
+CompuGroup Medical Deutschland AG 1 991
 
 2 060
 
-1 942
-
-1 617
-
-1 601
-
-1 504
-
-1 494
-
-1 267
-
-1 133
-
-1 072
-
-968
-
-748
-
-722
-
-**Differenz**
-
 -69
+
+280 **CGM MEDISTAR BLACK PRO** CompuGroup Medical Deutschland AG 1 951
+
+1 942
 
 9
 
+462 **medatixx**
+
+medatixx GmbH & Co. KG 1 675
+
+1 617
+
 58
+
+216 **x.isynet**
+
+medatixx GmbH & Co. KG 1 576
+
+1 601
 
 -25
 
+498 **T 2med**
+
+T 2med GmbH & Co. KG 1 556
+
+1 504
+
 52
+
+210 **Medical Office**
+
+INDAMED EDV-Entwicklung und Vertrieb GmbH 1 508 1 494
 
 14
 
+243 **x.concept**
+
+medatixx GmbH & Co. KG 1 232
+
+1 267
+
 -35
+
+203 **ALBIS**
+
+CompuGroup Medical Deutschland AG 1 107
+
+1 133
 
 -26
 
+244 **QUINCY WIN**
+
+Frey ADV GmbH 1 056
+
+1 072
+
 -16
+
+266 **x.comfort**
+
+medatixx GmbH & Co. KG 928
+
+968
 
 -40
 
+457 **tomedo**
+
+Zollsoft GmbH 795
+
+748
+
 47
 
+252 **CGM M1 PRO**
+
+CompuGroup Medical Deutschland AG 702
+
+722
+
 -20
+
+1
 
 
 ---
 
-**Id**
+**Id Praxissoftware**
 
-086
+086 **DURIA**
 
-135
+135 **EL - Elaphe Longissim**
 
-083
+083 **PegaMed**
 
-060
+060 **Data-AL**
 
-261
+261 **S 3-Win**
 
-488
+488 **inSuite**
 
-030
+030 **Praxis-Programm**
 
-062
-
-**Praxissoftware**
-
-**DURIA**
-
-**EL - Elaphe Longissim**
-
-**PegaMed**
-
-**Data-AL**
-
-**S 3-Win**
-
-**inSuite**
-
-**Praxis-Programm**
-
-**EVA**
+062 **EVA**
 
 **Anbieter**
 
@@ -219,56 +145,52 @@ MediSoftware Computersysteme für Ärzte
 
 Abasoft EDV-Programme GmbH 2
 
-**Installationen 2.Q.2025**
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
 613
 
-506
-
-437
-
-376
-
-334
-
-273
-
-202
-
-168
-
-**Installationen 1.Q.2025**
-
 608
-
-517
-
-430
-
-383
-
-347
-
-290
-
-203
-
-168
-
-**Differenz**
 
 5
 
+506
+
+517
+
 -11
+
+437
+
+430
 
 7
 
+376
+
+383
+
 -7
+
+334
+
+347
 
 -13
 
+273
+
+290
+
 -17
 
+202
+
+203
+
 -1
+
+168
+
+168
 
 0

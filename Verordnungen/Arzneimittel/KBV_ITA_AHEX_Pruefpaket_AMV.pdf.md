@@ -59,7 +59,7 @@ DOKUMENTENH
 
 # ISTORIE
 
-Zusammenhang mit der Rezertifizierung Geburtsdatums von Patientin Leonie Gonzales Zertifizierung Prüfpaketes Prüfpaketes  Sichtprüfung Sichtprüfung Prüfprotokolls muss Leonie Gonzales 12 Jahre alt sein. (jährliche Anpassung) Bezeichnungen  Arzneimitteldaten auf 14täglich verkürzt LANR Patientenstammdaten Zertifizierungsportals
+Zusammenhang mit der Rezertifizierung Geburtsdatums von Patientin Prüfprotokolls muss Leonie Leonie Gonzales Gonzales 12 Jahre alt sein. (jährliche Anpassung) Bezeichnungen  Arzneimitteldaten auf 14täglich verkürzt LANR Patientenstammdaten Zertifizierung Zertifizierungsportals Prüfpaketes Prüfpaketes  Sichtprüfung Sichtprüfung
 
 ---
 
@@ -218,15 +218,13 @@ Für den Prüfvorgang AMV-eRezept beachten Sie bei einer Neuz Zertifizierung bit
 
 Für eine reibungslose Durchführung der AMV-Sichtprüfung müssen einige Rahmenbedingungen erfüllt sein.
 
-Systemseitig müssen die folgenden Einstellungen am Zertifizierungsgegenstand vorgenommen sein bzw.
-
-ermöglicht werden:
+Systemseitig müssen die folgenden Einstellungen am Zertifizierungsgegenstand vorgenommen sein bzw.  ermöglicht werden:
 
 -  Bei Prüfungsbeginn müssen die Arzneimitteldaten vom 1. oder 15. des Monats mit einem Abstand  von 14 Tagen zum Sichtprüfungstermin vorhanden sein (z.B. ist bei einer Sichtprüfung am 18. 06.2018
 
 - der Arzneimitteldatenstand vom 01.06.2018 vorzuhalten).
 
--  In der Prüfung wird ein Update der Arzneimitteldaten auf den aktuellen Datenstand vom 1. oder 15.  des aktuellen Monats durchgeführt (z.B. ist bei einer Sichtprüfung am 18. 06.2018 der
+-  In der Prüfung wird ein Update der Arzneimitteldaten auf den aktuellen Datenstand vom 1. oder 15.  des aktuellen Monats durchgeführt (z.B. ist bei einer Sichtprüfung am 18.06.2018 der
 
 - Arzneimitteldatenstand vom 15.06.2018 einzupflegen). Das Update soll so durchgeführt werden, wie  es die Anwender Ihrer Verordnungssoftware vorzunehmen haben.
 
@@ -322,4 +320,4 @@ Kassenärztliche Bundesvereinigung
 
 Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
 
-Arzneimitteln Software anken
+anken  Arzneimitteln Software

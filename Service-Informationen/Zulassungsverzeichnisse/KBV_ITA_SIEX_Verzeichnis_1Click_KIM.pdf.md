@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**23. MAI 2026**
+**30. MAI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -30,21 +30,17 @@
 |---|---|---|---|---|
 |  | Y/169/2409/36/031 | 31.08.2027 | nicht umgesetzt |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 23. Mai 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 30. Mai 2026
 
 Y/169/2407/36/395
 
-Y/169/2409/36/062 30.06.2027
+Y/169/2409/36/062
 
-31.08.2027
+Linux
 
-nicht umgesetzt
+30.06.2027 nicht umgesetzt Windows
 
-nicht umgesetzt
-
-Linux Windows
-
-MAP Software für Laborärzte Andaco Consulting & Trading GmbH Emkendorfstraße 38A 22605 Hamburg Internet: www.andaco.de APRIS APRIS Praxiscomputer GmbH Wetterkreuz 19 91058 Erlangen Internet: www.apris.de Linux Windows iOS/Android Linux Mac OS WindowsWindows
+MAP Software für Laborärzte Andaco Consulting & Trading GmbH Emkendorfstraße 38A 22605 Hamburg Internet: www.andaco.de APRIS APRIS Praxiscomputer GmbH Wetterkreuz 19 91058 Erlangen Internet: www.apris.de Linux Windows iOS/Android Linux Mac OS Windows31.08.2027 nicht umgesetzt Windows
 
 
 ---
@@ -70,15 +66,11 @@ Y/169/2402/36/081
 
 Y/169/2409/36/078 31.01.2027
 
-31.08.2027
-
 umgesetzt
-
-nicht umgesetzt
 
 Windows
 
-RAD+ RIS System boos-uttenthaler-garcia RAD+ Entwicklungsgesellschaft bR Augustin-Schwarz Str. 6 85276 Pfaffenhofen a.d. Ilm QuickCON BS software development GmbH & Co.KG Blaubeurer Straße 71 89077 Ulm Internet: www.bs-sd.de Linux Mac OS Windows Mac OS WindowsWindows
+RAD+ RIS System boos-uttenthaler-garcia RAD+ Entwicklungsgesellschaft bR Augustin-Schwarz Str. 6 85276 Pfaffenhofen a.d. Ilm QuickCON BS software development GmbH & Co.KG Blaubeurer Straße 71 89077 Ulm Internet: www.bs-sd.de Linux Mac OS Windows Mac OS Windows31.08.2027 nicht umgesetzt Windows
 
 
 ---
@@ -100,11 +92,9 @@ RAD+ RIS System boos-uttenthaler-garcia RAD+ Entwicklungsgesellschaft bR Augusti
 |---|---|---|---|---|
 |  | Y/169/2504/36/466 | 31.03.2028 | nicht umgesetzt |  |
 
-Y/169/2407/36/323
+Y/169/2407/36/323 30.06.2027
 
-Y/169/2406/36/459 30.06.2027
-
-31.05.2027
+Y/169/2406/36/459 31.05.2027
 
 nicht umgesetzt
 
@@ -124,7 +114,11 @@ CGM MEDICO CGM Clinical Europe GmbH Hadersberg 1 84427 Sankt Wolfgang Internet: 
 
 **MOLIS**
 
-**CGM LAB International GmbH** Gesundheitscampus-Süd 17 44801 Bochum Internet: www.cgm.com
+**CGM LAB International GmbH** Gesundheitscampus-Süd 17
+
+Y/169/2408/36/706
+
+44801 Bochum Internet: www.cgm.com
 
 **Clinisys vianova Labor**
 
@@ -134,21 +128,15 @@ CGM MEDICO CGM Clinical Europe GmbH Hadersberg 1 84427 Sankt Wolfgang Internet: 
 |---|---|---|---|---|
 |  | Y/169/2410/36/729 | 30.09.2027 | nicht umgesetzt |  |
 
-Y/169/2408/36/706
-
 Y/169/2408/36/263
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 23. Mai 2026 31.07.2027
+Seite 5 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 30. Mai 2026
 
-31.07.2027
+Linux
 
-nicht umgesetzt
+31.07.2027 nicht umgesetzt Windows
 
-nicht umgesetzt
-
-Linux Windows
-
-PROMED-open / X-PROMED Clinisys Deutschland GmbH Am Klingenweg 6 65396 Walluf Internet: www.clinisys.com GLIMS Clinisys Deutschland GmbH Am Klingenweg 6 65396 Walluf Internet: www.clinisys.com Linux Sonstige WindowsWindows
+PROMED-open / X-PROMED Clinisys Deutschland GmbH Am Klingenweg 6 65396 Walluf Internet: www.clinisys.com GLIMS Clinisys Deutschland GmbH Am Klingenweg 6 65396 Walluf Internet: www.clinisys.com Linux Sonstige Windows31.07.2027 nicht umgesetzt Windows
 
 
 ---
@@ -172,17 +160,13 @@ PROMED-open / X-PROMED Clinisys Deutschland GmbH Am Klingenweg 6 65396 Walluf In
 
 Y/169/2501/36/702
 
-Y/169/2409/36/346 31.12.2027
+Y/169/2409/36/346
 
-31.08.2027
+iOS/Android Linux
 
-nicht umgesetzt
+31.12.2027 nicht umgesetzt Mac OS Windows
 
-nicht umgesetzt
-
-iOS/Android Linux Mac OS Windows
-
-Z1 CompuGroup Medical Dentalsysteme GmbH Maria Trost 25 56070 Koblenz Internet: www.cgm-dentalsysteme.de TURBOMED CompuGroup Medical Deutschland AG Maria Trost 23 56070 Koblenz Internet: www.turbomed.de Windows WindowsWindows
+Z1 CompuGroup Medical Dentalsysteme GmbH Maria Trost 25 56070 Koblenz Internet: www.cgm-dentalsysteme.de TURBOMED CompuGroup Medical Deutschland AG Maria Trost 23 56070 Koblenz Internet: www.turbomed.de Windows Windows31.08.2027 nicht umgesetzt Windows
 
 
 ---
@@ -204,11 +188,9 @@ Z1 CompuGroup Medical Dentalsysteme GmbH Maria Trost 25 56070 Koblenz Internet: 
 |---|---|---|---|---|
 |  | Y/169/2603/36/774 | 28.02.2029 | nicht umgesetzt |  |
 
-Y/169/2410/36/203
+Y/169/2410/36/203 30.09.2027
 
-Y/169/2409/36/023 30.09.2027
-
-31.08.2027
+Y/169/2409/36/023 31.08.2027
 
 nicht umgesetzt
 
@@ -240,11 +222,9 @@ Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK
 |---|---|---|---|---|
 |  | Y/169/2312/37/060 | 31.12.2026 | umgesetzt |  |
 
-Y/169/2501/36/280
+Y/169/2501/36/280 31.12.2027
 
-Y/169/2505/36/752 31.12.2027
-
-30.04.2028
+Y/169/2505/36/752 30.04.2028
 
 umgesetzt
 
@@ -276,17 +256,11 @@ DS-WIN-PLUS (DS-WIN-MED) DAMPSOFT GmbH Vogelsang 1 24351 Damp Internet: www.damp
 
 Y/169/2411/36/238
 
-Y/169/2407/36/254 31.10.2027
+Y/169/2407/36/254
 
-30.06.2027
+31.10.2027 nicht umgesetzt Windows
 
-nicht umgesetzt
-
-nicht umgesetzt
-
-Windows
-
-Opus::L Labormanagementsystem Dedalus Labor GmbH Ruhrallee 201 45136 Essen Internet: www.osm-gruppe.de IMedOne Deutsche Telekom Clinical Solutions GmbH Sternengasse 14-16 50676 Köln Internet: www.telekom-healthcare.com Linux Sonstige Windows WindowsWindows
+Opus::L Labormanagementsystem Dedalus Labor GmbH Ruhrallee 201 45136 Essen Internet: www.osm-gruppe.de IMedOne Deutsche Telekom Clinical Solutions GmbH Sternengasse 14-16 50676 Köln Internet: www.telekom-healthcare.com Linux Sonstige Windows Windows30.06.2027 nicht umgesetzt Windows
 
 
 ---
@@ -310,13 +284,9 @@ Opus::L Labormanagementsystem Dedalus Labor GmbH Ruhrallee 201 45136 Essen Inter
 
 Y/169/2408/36/488
 
-Y/169/2409/36/677 31.07.2027
+Y/169/2409/36/677 31.07.2027 nicht umgesetzt
 
-31.08.2027
-
-nicht umgesetzt
-
-nicht umgesetzt
+31.08.2027 nicht umgesetzt
 
 iOS/Android Linux Mac OS Sonstige Windows
 
@@ -342,13 +312,11 @@ i/med Billing Dorner GmbH & Co. KG Neuenburger Straße 4 79379 Müllheim Interne
 |---|---|---|---|---|
 |  | Y/169/2407/36/561 | 30.06.2027 | nicht umgesetzt |  |
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 23. Mai 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 30. Mai 2026
 
-Y/169/2408/36/602
+Y/169/2408/36/602 31.07.2027
 
-Y/169/2401/36/086 31.07.2027
-
-31.12.2026
+Y/169/2401/36/086 31.12.2026
 
 umgesetzt
 
@@ -382,17 +350,17 @@ Y/169/2507/36/769
 
 Y/169/2407/36/295
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 23. Mai 2026 30.06.2028
+Seite 12 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 30. Mai 2026
 
-30.06.2027
+iOS/Android
 
-nicht umgesetzt
+30.06.2028 nicht umgesetzt Mac OS Windows
+
+Linux 30.06.2027
 
 umgesetzt
 
-iOS/Android Mac OS Windows
-
-PsychoDat ergosoft GmbH Bahnhofstraße 11 c 67159 Friedelsheim Internet: www.ergosoft.info INDICATION ET Software Developments GmbH Hebelstraße 7 69214 Eppelheim Internet: www.indication.com Windows WindowsLinux Mac OS Windows
+PsychoDat ergosoft GmbH Bahnhofstraße 11 c 67159 Friedelsheim Internet: www.ergosoft.info INDICATION ET Software Developments GmbH Hebelstraße 7 69214 Eppelheim Internet: www.indication.com Windows WindowsMac OS Windows
 
 
 ---
@@ -414,13 +382,11 @@ PsychoDat ergosoft GmbH Bahnhofstraße 11 c 67159 Friedelsheim Internet: www.erg
 |---|---|---|---|---|
 |  | Y/169/2505/36/478 | 30.04.2028 | nicht umgesetzt |  |
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 23. Mai 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 30. Mai 2026
 
-Y/169/2408/36/421
+Y/169/2408/36/421 31.07.2027
 
-Y/169/2407/36/034 31.07.2027
-
-30.06.2027
+Y/169/2407/36/034 30.06.2027
 
 nicht umgesetzt
 
@@ -452,15 +418,15 @@ FIDUS FIDUS Software Entwicklungs-GmbH Frankfurter Landstr. 117 64291 Darmstadt 
 
 Y/169/2504/36/630
 
-Y/169/2411/36/244 31.03.2028
+Y/169/2411/36/244
 
-31.10.2027
+iOS/Android
 
-nicht umgesetzt
+Linux
+
+31.03.2028 nicht umgesetzt Mac OS Sonstige Windows 31.10.2027
 
 umgesetzt
-
-iOS/Android Linux Mac OS Sonstige Windows
 
 Doctorly Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de garrioPRO garrio GmbH Liebknechtstraße 29 70565 Stuttgart Internet: www.garrio.de iOS/Android Linux Mac OS Windows Linux Mac OS WindowsWindows
 
@@ -484,11 +450,9 @@ Doctorly Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet: 
 |---|---|---|---|---|
 |  | Y/169/2404/36/400 | 31.03.2027 | umgesetzt |  |
 
-Y/169/2407/36/417
+Y/169/2407/36/417 30.06.2027
 
-Y/169/2501/36/195 30.06.2027
-
-31.12.2027
+Y/169/2501/36/195 31.12.2027
 
 nicht umgesetzt
 
@@ -520,17 +484,13 @@ Elefant HASOMED GmbH Paul-Ecke-Str. 1 39114 Magdeburg Internet: www.hasomed.de I
 
 Y/169/2409/36/451
 
-Y/169/2502/36/473 31.08.2027
+Y/169/2502/36/473
 
-31.01.2028
+Linux
 
-nicht umgesetzt
+31.08.2027 nicht umgesetzt Mac OS Windows
 
-nicht umgesetzt
-
-Linux Mac OS Windows
-
-imassense ISG imassense Deutschland GmbH Buckower Chaussee 106 - 107 12277 Berlin Internet: www.imassense.de DynaMed IMA-Systems Information-Technology GmbH Römerstraße 2 A-6900 Bregenz Internet: www.ima-systems.com Linux Sonstige Windows WindowsWindows
+imassense ISG imassense Deutschland GmbH Buckower Chaussee 106 - 107 12277 Berlin Internet: www.imassense.de DynaMed IMA-Systems Information-Technology GmbH Römerstraße 2 A-6900 Bregenz Internet: www.ima-systems.com Linux Sonstige Windows Windows31.01.2028 nicht umgesetzt Windows
 
 
 ---
@@ -556,15 +516,13 @@ Y/169/2409/36/210
 
 Y/169/2410/36/136 31.08.2027
 
-30.09.2027
-
 umgesetzt
-
-nicht umgesetzt
 
 Windows
 
-esQlab.online IQVIA Commercial GmbH & Co OHG Angela-Stadler-Str. 9 78224 Singen Internet: www.gradient.de DISweb KfH - Kuratorium für Dialyse und Nierentransplantation e.V. Martin-Behaim-Straße 20 63263 Neu-Isenburg Internet: www.kfh.de Windows WindowsMac OS Windows
+Mac OS
+
+esQlab.online IQVIA Commercial GmbH & Co OHG Angela-Stadler-Str. 9 78224 Singen Internet: www.gradient.de DISweb KfH - Kuratorium für Dialyse und Nierentransplantation e.V. Martin-Behaim-Straße 20 63263 Neu-Isenburg Internet: www.kfh.de Windows Windows30.09.2027 nicht umgesetzt Windows
 
 
 ---
@@ -588,17 +546,11 @@ esQlab.online IQVIA Commercial GmbH & Co OHG Angela-Stadler-Str. 9 78224 Singen 
 
 Y/169/2407/36/385
 
-Y/169/2409/36/741 30.06.2027
+Y/169/2409/36/741
 
-31.08.2027
+30.06.2027 nicht umgesetzt Windows
 
-nicht umgesetzt
-
-nicht umgesetzt
-
-Windows
-
-smartLIS Laborinformationssystem Abrechnungsmodul labdock GmbH Helenenstieg 4 22765 Hamburg Internet: www.labdock.de ELADIS LabKom Biochemische Dienstleistungen GmbH August-Wessels-Str. 5 86154 Augsburg Internet: www.labkom.de Linux Mac OS Windows Linux WindowsWindows
+smartLIS Laborinformationssystem Abrechnungsmodul labdock GmbH Helenenstieg 4 22765 Hamburg Internet: www.labdock.de ELADIS LabKom Biochemische Dienstleistungen GmbH August-Wessels-Str. 5 86154 Augsburg Internet: www.labkom.de Linux Mac OS Windows Linux Windows31.08.2027 nicht umgesetzt Windows
 
 
 ---
@@ -622,17 +574,13 @@ smartLIS Laborinformationssystem Abrechnungsmodul labdock GmbH Helenenstieg 4 22
 
 Y/169/2412/36/065
 
-Y/169/2409/36/716 30.11.2027
+Y/169/2409/36/716
 
-31.08.2027
+30.11.2027 nicht umgesetzt Windows
 
-nicht umgesetzt
+Linux
 
-nicht umgesetzt
-
-Windows
-
-SYLAB Labor Dr. von Froreich GmbH Großmoorbogen 25 21079 Hamburg Internet: www.labor-froreich.de LX labsolution S.à.r.l & Co.KG Hauptstrooss 22 L-9753 Heinerscheid Internet: www.labsolution.lu Linux Linux Sonstige WindowsLinux Windows
+SYLAB Labor Dr. von Froreich GmbH Großmoorbogen 25 21079 Hamburg Internet: www.labor-froreich.de LX labsolution S.à.r.l & Co.KG Hauptstrooss 22 L-9753 Heinerscheid Internet: www.labsolution.lu Linux Linux Sonstige Windows31.08.2027 nicht umgesetzt Windows
 
 
 ---
@@ -654,21 +602,21 @@ SYLAB Labor Dr. von Froreich GmbH Großmoorbogen 25 21079 Hamburg Internet: www.
 |---|---|---|---|---|
 |  | Y/169/2408/36/216 | 31.07.2027 | umgesetzt |  |
 
-Seite 20 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 23. Mai 2026
+Seite 20 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 30. Mai 2026
 
 Y/169/2409/36/375
 
-Y/169/2412/36/721 31.08.2027
+Y/169/2412/36/721
 
-30.11.2027
+Linux
 
-nicht umgesetzt
+31.08.2027 nicht umgesetzt Sonstige Windows
+
+Linux 30.11.2027
 
 umgesetzt
 
-Linux Sonstige Windows
-
-EL - Elaphe Longissima medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de x.isynet medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de Softwarevariante(n): - x.vianova Windows WindowsLinux Sonstige Windows
+EL - Elaphe Longissima medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de x.isynet medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de Softwarevariante(n): - x.vianova Windows WindowsSonstige Windows
 
 
 ---
@@ -690,13 +638,11 @@ EL - Elaphe Longissima medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Inte
 |---|---|---|---|---|
 |  | Y/169/2408/36/256 | 31.07.2027 | nicht umgesetzt |  |
 
-Seite 21 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 23. Mai 2026
+Seite 21 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 30. Mai 2026
 
-Y/169/2406/36/243
+Y/169/2406/36/243 31.05.2027
 
-Y/169/2405/36/266 31.05.2027
-
-30.04.2027
+Y/169/2405/36/266 30.04.2027
 
 umgesetzt
 
@@ -728,17 +674,13 @@ medatixx medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.meda
 
 Y/169/2407/36/439
 
-Y/169/2411/36/433 30.06.2027
+Y/169/2411/36/433
 
-31.10.2027
+Linux
 
-nicht umgesetzt
+30.06.2027 nicht umgesetzt Mac OS Windows
 
-nicht umgesetzt
-
-Linux Mac OS Windows
-
-WIN-RADIOLOG medigration GmbH Dr.-Rudolf-Eberle-Straße 8 - 10 76534 Baden-Baden Internet: www.medigration.de Praxis-Programm medisoftware GmbH & Co. KG Steinstraße 1 24118 Kiel Internet: www.medisoftware.de Windows WindowsWindows
+WIN-RADIOLOG medigration GmbH Dr.-Rudolf-Eberle-Straße 8 - 10 76534 Baden-Baden Internet: www.medigration.de Praxis-Programm medisoftware GmbH & Co. KG Steinstraße 1 24118 Kiel Internet: www.medisoftware.de Windows Windows31.10.2027 nicht umgesetzt Windows
 
 
 ---
@@ -778,7 +720,7 @@ Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPH
 |---|---|---|---|---|
 |  | Y/169/2312/36/290 | 30.11.2026 | nicht umgesetzt |  |
 
-Seite 24 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 23. Mai 2026
+Seite 24 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 30. Mai 2026
 
 Y/169/2312/37/251 31.12.2026
 
@@ -808,17 +750,11 @@ MEDYS MEDYS GmbH Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de M-KIS 
 
 Y/169/2407/36/276
 
-Y/169/2407/36/422 30.06.2027
+Y/169/2407/36/422
 
-30.06.2027
+30.06.2027 nicht umgesetzt Windows
 
-nicht umgesetzt
-
-nicht umgesetzt
-
-Windows
-
-LabCentre Mesalvo Mannheim GmbH Am Exerzierplatz 14 68167 Mannheim Internet: https://mesalvo.com Med4WinPlus Müritz COMP Greifswald Computersystemhaus GmbH An der Jungfernwiese 2 17489 Greifswald Internet: www.med4win.de Linux Sonstige Windows WindowsWindows
+LabCentre Mesalvo Mannheim GmbH Am Exerzierplatz 14 68167 Mannheim Internet: https://mesalvo.com Med4WinPlus Müritz COMP Greifswald Computersystemhaus GmbH An der Jungfernwiese 2 17489 Greifswald Internet: www.med4win.de Linux Sonstige Windows Windows30.06.2027 nicht umgesetzt Windows
 
 
 ---
@@ -840,11 +776,9 @@ LabCentre Mesalvo Mannheim GmbH Am Exerzierplatz 14 68167 Mannheim Internet: htt
 |---|---|---|---|---|
 |  | Y/169/2412/36/487 | 30.11.2027 | nicht umgesetzt |  |
 
-Y/169/2404/36/043
+Y/169/2404/36/043 31.03.2027
 
-Y/169/2403/36/299 31.03.2027
-
-28.02.2027
+Y/169/2403/36/299 28.02.2027
 
 nicht umgesetzt
 
@@ -876,17 +810,13 @@ MEDOS NEXUS / CHILI GmbH Friedrich-Ebert-Str. 2 69221 Dossenheim Internet: https
 
 Y/169/2412/36/345
 
-Y/169/2501/36/441 30.11.2027
+Y/169/2501/36/441
 
-31.12.2027
+30.11.2027 nicht umgesetzt Windows
 
-nicht umgesetzt
+Sonstige
 
-nicht umgesetzt
-
-Windows
-
-NEXUS / KIS NEXUS AG Irmastraße 1 78166 Donaueschingen Internet: www.nexus-ag.de NEXUS / SWISSLAB NEXUS SWISSLAB GmbH Sachsendamm 2-7 10829 Berlin Internet: http://www.nexus-swisslab.de Windows WindowsSonstige Windows
+NEXUS / KIS NEXUS AG Irmastraße 1 78166 Donaueschingen Internet: www.nexus-ag.de NEXUS / SWISSLAB NEXUS SWISSLAB GmbH Sachsendamm 2-7 10829 Berlin Internet: http://www.nexus-swisslab.de Windows Windows31.12.2027 nicht umgesetzt Windows
 
 
 ---
@@ -908,11 +838,9 @@ NEXUS / KIS NEXUS AG Irmastraße 1 78166 Donaueschingen Internet: www.nexus-ag.d
 |---|---|---|---|---|
 |  | Y/169/2401/36/247 | 31.12.2026 | umgesetzt |  |
 
-Y/169/2311/36/083
+Y/169/2311/36/083 31.10.2026
 
-Y/169/2409/36/475 31.10.2026
-
-31.08.2027
+Y/169/2409/36/475 31.08.2027
 
 nicht umgesetzt
 
@@ -946,15 +874,15 @@ Y/169/2403/36/348
 
 Y/169/2405/36/456 28.02.2027
 
-30.04.2027
-
 umgesetzt
-
-nicht umgesetzt
 
 Windows
 
-RED Medical RED Medical Systems GmbH Lutzstraße 2 80687 München Internet: www.REDMEDICAL.DE RescuePro RescuePro Production GmbH & Co. KG Steinstraße 9 34385 Bad Karlshafen Internet: www.rescuepro.de iOS/Android Linux Mac OS Sonstige Windows WindowsiOS/Android Linux Mac OS Sonstige Windows
+iOS/Android
+
+Linux
+
+RED Medical RED Medical Systems GmbH Lutzstraße 2 80687 München Internet: www.REDMEDICAL.DE RescuePro RescuePro Production GmbH & Co. KG Steinstraße 9 34385 Bad Karlshafen Internet: www.rescuepro.de iOS/Android Linux Mac OS Sonstige Windows Windows30.04.2027 nicht umgesetzt Mac OS Sonstige Windows
 
 
 ---
@@ -978,17 +906,15 @@ RED Medical RED Medical Systems GmbH Lutzstraße 2 80687 München Internet: www.
 
 Y/169/2411/36/261
 
-Y/169/2407/36/343 31.10.2027
+Y/169/2407/36/343
 
-30.06.2027
+Sonstige
 
-nicht umgesetzt
+31.10.2027 nicht umgesetzt Windows
 
-nicht umgesetzt
+Sonstige
 
-Sonstige Windows
-
-ARZT 2000 Schmidt Computersysteme Chrysanthemenweg 4 02827 Görlitz Internet: www.arzt2000.de QMED.PRAXIS Schwerdtner Medizin-Software GmbH Loebensteinstraße 26 30175 Hannover Internet: www.q-med.de Windows WindowsSonstige Windows
+ARZT 2000 Schmidt Computersysteme Chrysanthemenweg 4 02827 Görlitz Internet: www.arzt2000.de QMED.PRAXIS Schwerdtner Medizin-Software GmbH Loebensteinstraße 26 30175 Hannover Internet: www.q-med.de Windows Windows30.06.2027 nicht umgesetzt Windows
 
 
 ---
@@ -1018,23 +944,17 @@ Y/169/2407/36/458
 
 Y/169/2601/36/770
 
-Y/169/2410/36/454 30.06.2027
+Y/169/2410/36/454
 
-31.12.2028
+Linux
 
-30.09.2027
+30.06.2027 nicht umgesetzt Windows
 
-nicht umgesetzt
+Linux
 
-nicht umgesetzt
+31.12.2028 nicht umgesetzt Mac OS Windows
 
-nicht umgesetzt
-
-Linux Windows
-
-Linux Mac OS Windows
-
-MEDI_LINE Strzata, Dr. med. Norbert Kirschgarten 1 99510 Kapellendorf proLAB SysTek GmbH Bad Meinberger Str. 1 32760 Detmold Internet: www.systek.de Linux Windows WindowsWindows
+MEDI_LINE Strzata, Dr. med. Norbert Kirschgarten 1 99510 Kapellendorf proLAB SysTek GmbH Bad Meinberger Str. 1 32760 Detmold Internet: www.systek.de Linux Windows Windows30.09.2027 nicht umgesetzt Windows
 
 
 ---
@@ -1060,17 +980,13 @@ Y/169/2410/36/498
 
 Y/169/2409/36/313
 
-Seite 32 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 23. Mai 2026 30.09.2027
+Seite 32 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 30. Mai 2026
 
-31.08.2027
+iOS/Android Linux
 
-nicht umgesetzt
+30.09.2027 nicht umgesetzt Mac OS Windows
 
-nicht umgesetzt
-
-iOS/Android Linux Mac OS Windows
-
-UNISOLO®-POESY UNISOLO® GmbH Gaußstr. 7 38106 Braunschweig Internet: www.unisolo.de tomedo Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Windows Mac OSWindows
+UNISOLO®-POESY UNISOLO® GmbH Gaußstr. 7 38106 Braunschweig Internet: www.unisolo.de tomedo Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Windows Mac OS31.08.2027 nicht umgesetzt Windows
 
 
 ---
@@ -1083,7 +999,7 @@ UNISOLO®-POESY UNISOLO® GmbH Gaußstr. 7 38106 Braunschweig Internet: www.unis
 | 07745 | Jena |  |
 |  | Internet: | www.zollsoft.de |
 
-Seite 33 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 23. Mai 2026
+Seite 33 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 30. Mai 2026
 
 **Prüfnummer**
 

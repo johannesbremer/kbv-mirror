@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**23. MAI 2026**
+**30. MAI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -30,13 +30,11 @@
 |---|---|---|---|---|
 |  | Y/80/2502/24/031 | 31.01.2027 | eAU |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 23. Mai 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 30. Mai 2026
 
-Y/80/2407/24/062
+Y/80/2407/24/062 30.06.2026
 
-Y/80/2507/24/344 30.06.2026
-
-30.06.2027
+Y/80/2507/24/344 30.06.2027
 
 eAU
 
@@ -66,11 +64,9 @@ Clinixx(R) Krankenhausinformationssystem AMC Holding GmbH Ballindamm 5 20095 Ham
 |---|---|---|---|---|
 |  | Y/80/2501/24/636 | 31.12.2026 | eAU |  |
 
-Y/80/2407/24/081
+Y/80/2407/24/081 30.06.2026
 
-Y/80/2410/36/754 30.06.2026
-
-30.09.2027
+Y/80/2410/36/754 30.09.2027
 
 eAU
 
@@ -194,11 +190,9 @@ DS-WIN-PLUS (DS-WIN-MED) DAMPSOFT GmbH Vogelsang 1 24351 Damp Internet: www.damp
 |---|---|---|---|---|
 |  | Y/80/2409/24/488 | 31.08.2026 | eAU |  |
 
-Y/80/2409/24/238
+Y/80/2409/24/238 31.08.2026
 
-Y/80/2407/24/254 31.08.2026
-
-30.06.2026
+Y/80/2407/24/254 30.06.2026
 
 eAU
 
@@ -228,11 +222,9 @@ IMedOne Deutsche Telekom Clinical Solutions GmbH Sternengasse 14-16 50676 Köln 
 |---|---|---|---|---|
 |  | Y/80/2407/24/295 | 30.06.2026 | eAU |  |
 
-Y/80/2506/37/677
+Y/80/2506/37/677 30.06.2028
 
-Y/80/2410/24/602 30.06.2028
-
-30.09.2026
+Y/80/2410/24/602 30.09.2026
 
 eAU
 
@@ -292,11 +284,9 @@ EVIDENT EVIDENT GmbH Eberhard-Anheuser-Straße 3 55543 Bad Kreuznach Internet: w
 |---|---|---|---|---|
 |  | Y/80/2507/18/616 | 31.12.2026 | eAU |  |
 
-Y/80/2407/24/403
+Y/80/2407/24/403 30.06.2026
 
-Y/80/2502/36/630 30.06.2026
-
-31.01.2028
+Y/80/2502/36/630 31.01.2028
 
 eAU
 
@@ -326,11 +316,9 @@ QUINCY WIN Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet
 |---|---|---|---|---|
 |  | Y/80/2505/38/767 | 30.06.2028 | eAU |  |
 
-Y/80/2407/36/701
+Y/80/2407/36/701 30.06.2027
 
 Y/80/2507/24/417 30.06.2027
-
-30.06.2027
 
 eAU
 
@@ -364,7 +352,7 @@ Y/80/2603/24/749
 
 Y/80/2410/24/195
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 23. Mai 2026 29.02.2028 eAU
+Seite 12 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 30. Mai 2026 29.02.2028 eAU
 
 30.09.2026 eAU
 
@@ -392,11 +380,9 @@ Elefant HASOMED GmbH Paul-Ecke-Str. 1 39114 Magdeburg Internet: www.hasomed.de I
 |---|---|---|---|---|
 |  | Y/80/2408/24/210 | 31.07.2026 | eAU |  |
 
-Y/80/2408/24/451
+Y/80/2408/24/451 31.07.2026
 
-Y/80/2505/24/596 31.07.2026
-
-30.04.2027
+Y/80/2505/24/596 30.04.2027
 
 eAU
 
@@ -488,7 +474,7 @@ Softwarevariante(n): - psyx
 |---|---|---|---|---|
 |  | Y/80/2410/24/439 | 30.09.2026 | eAU |  |
 
-Seite 16 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 23. Mai 2026
+Seite 16 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 30. Mai 2026
 
 Y/80/2408/24/266
 
@@ -570,11 +556,9 @@ MEDICUSplus MEDNET Service für Ärzte AG Prälat-van-Acken-Straße 14 50935 Kö
 |---|---|---|---|---|
 |  | Y/80/2408/24/276 | 31.07.2026 | eAU |  |
 
-Y/80/2407/24/015
+Y/80/2407/24/015 30.06.2026
 
 Y/80/2407/24/290 30.06.2026
-
-30.06.2026
 
 eAU
 
@@ -664,11 +648,9 @@ NEXUS / KIS NEXUS AG Irmastraße 1 78166 Donaueschingen Internet: www.nexus-ag.d
 |---|---|---|---|---|
 |  | Y/80/2408/24/626 | 31.07.2026 | eAU |  |
 
-Y/80/2407/24/247
+Y/80/2407/24/247 30.06.2026
 
-Y/80/2409/24/348 30.06.2026
-
-31.08.2026
+Y/80/2409/24/348 31.08.2026
 
 eAU
 
@@ -698,11 +680,9 @@ RED medical classic RED Medical Systems GmbH Lutzstraße 2 80687 München Intern
 |---|---|---|---|---|
 |  | Y/80/2409/24/171 | 31.08.2026 | eAU |  |
 
-Y/80/2507/24/308
+Y/80/2507/24/308 30.06.2027
 
-Y/80/2409/24/261 30.06.2027
-
-31.08.2026
+Y/80/2409/24/261 31.08.2026
 
 eAU
 
@@ -736,15 +716,11 @@ SAP Ambulatory Care Management SAP SE Dietmar-Hopp-Allee 16 69190 Walldorf Inter
 |---|---|---|---|---|
 |  | Y/80/2602/11/747 | 31.12.2026 | eAU |  |
 
-Y/80/2407/24/230
+Y/80/2407/24/230 30.06.2026
 
-Y/80/2408/24/458
+Y/80/2408/24/458 31.07.2026
 
-Y/80/2409/24/231 30.06.2026
-
-31.07.2026
-
-31.08.2026
+Y/80/2409/24/231 31.08.2026
 
 eAU
 
@@ -778,13 +754,11 @@ T2med T2med GmbH & Co. KG Bismarckallee 15 24105 Kiel Internet: www.t2med.de Tel
 |---|---|---|---|---|
 |  | Y/80/2509/37/768 | 30.09.2028 | eAU |  |
 
-Seite 25 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 23. Mai 2026
+Seite 25 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 30. Mai 2026
 
-Y/80/2407/24/313
+Y/80/2407/24/313 30.06.2026
 
-Y/80/2410/24/205 30.06.2026
-
-30.09.2026
+Y/80/2410/24/205 30.09.2026
 
 eAU
 

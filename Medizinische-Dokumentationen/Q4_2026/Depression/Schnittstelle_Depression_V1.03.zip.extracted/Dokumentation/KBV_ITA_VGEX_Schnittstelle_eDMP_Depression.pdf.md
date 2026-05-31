@@ -411,7 +411,7 @@ Es existieren verschiedene Kardinalitäten:
 |  |  |  |
 |---|---|---|
 | **Kardinalität** | **Symbol** | **Beschreibung** |
-| 0..1 |  | gestrichelter Linie dargestellt. Es kann kein oder einmal |
+| 0..1 |  | Optionales Element: Element wird als Rechteck mit |
 | 1 |  | Musselement: Rechteck mit durchgezogener Linie. Das |
 | n...m |  | Multielement enthält mindestens n aber maximal m |
 
@@ -435,7 +435,7 @@ nander verknüpft.
 
 <xs:choice> und <xs:sequence>.
 
-Optionales Element: Element wird als Rechteck mit vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. Kindelementen genau eins ausgewählt werden festgelegter Reihenfolge aufgeführt werden müssen. muss.
+gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. Kindelementen genau eins ausgewählt werden festgelegter Reihenfolge aufgeführt werden müssen. muss.
 
 
 ---
@@ -669,7 +669,7 @@ mindestens ein Kindelement <sciphox:Ergebnistext
 
 Der Coderahmen sieht wie folgt aus:
 
-\| <content>**  **       <sciphox:Beobachtungen>                     </content> |
+\| <content>**  **     <sciphox:Beobachtungen>               </content> |
 \|---|
 
 **XML-Code 9:**
@@ -697,12 +697,12 @@ gemäß Tabelle 4. Wenn bei diesem Parameter mehrere Felder ausgewählt wurden, 
 
 Als Beispiel sei hier folgender Code angegeben:
 
-\| <sciphox:Beobachtung>    < </sciphox:Beobachtung> |
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
 **XML-Code 10:**
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Depression"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung wegen"/> sciphox:Ergebnistext V="Depression"/> content (Administrative Daten ) Einschreibung wegen Element <sciphox:Ergebnistext> im mit entsprechenden Werten angegeben werden. Einschreibung wegen V="...")
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Depression"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Depression"/> content (Administrative Daten ) Einschreibung wegen Element <sciphox:Ergebnistext> im mit entsprechenden Werten angegeben werden. Einschreibung wegen V="...")
 
 ---
 
@@ -1043,7 +1043,7 @@ Der Coderahmen sieht wie folgt aus:
 
 ---
 
-\| <content>**         <sciphox:Beobachtungen>       teilgenommen"/>                           </local_markup> </content> |
+\| <content>**       <sciphox:Beobachtungen>     teilgenommen"/>                   </local_markup> </content> |
 \|---|
 
 **XML-Code 25:** content (Schulung)
@@ -1056,7 +1056,7 @@ gemäß Tabelle 12. Ein Element <sciphox:Ergebnistext> mit entsprechenden Werten
 
 Als Beispiel sei hier folgender Code angegeben:
 
-\| <sciphox:Beobachtung>    < </sciphox:Beobachtung> |
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
 **XML-Code 26:** Bereits vor Einschreibung in das DMP an einer depressionsspezifischen Schulung
@@ -1072,7 +1072,7 @@ teilgenommen
 
 depressionsspezifischen Schulung teilgenommen)
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer depressionsspezifischen Schulung <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Depressionsspezifische Schulung empfohlen (bei aktueller Dokumentation) "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer depressionsspezifischen Schulung teilgenommen "/> sciphox:Ergebnistext V="Ja"/> V="...")
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer depressionsspezifischen Schulung <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Depressionsspezifische Schulung empfohlen (bei aktueller Dokumentation) "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer depressionsspezifischen Schulung teilgenommen "/> <sciphox:Ergebnistext V="Ja"/> V="...")
 
 ---
 
@@ -1084,7 +1084,7 @@ gemäß Tabelle 13. Ein Element <sciphox:Ergebnistext> mit entsprechenden Werten
 
 Als Beispiel sei hier folgender Code angegeben:
 
-\| <sciphox:Beobachtung>    < </sciphox:Beobachtung> |
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
 **XML-Code 27**: Depressionsspezifische Schulung empfohlen (bei aktueller Dokumentation)
@@ -1112,12 +1112,12 @@ Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
 
-\| <content>**         <sciphox:Beobachtungen>                                 </content> |
+\| <content>**       <sciphox:Beobachtungen>                       </content> |
 \|---|
 
 **XML-Code 28:** content (Behandlungsplanung)
 
-<sciphox:Parameter DN="Depressionsspezifische Schulung empfohlen (bei aktueller Dokumentation) "/> sciphox:Ergebnistext V="Ja"/> V="...") <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>
+<sciphox:Parameter DN="Depressionsspezifische Schulung empfohlen (bei aktueller Dokumentation) "/> <sciphox:Ergebnistext V="Ja"/> V="...") <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>
 
 ---
 

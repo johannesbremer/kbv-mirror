@@ -97,47 +97,51 @@ aten (0 = “Keine“  26  26
 
 ---
 
+Vom Patienten gewünschte Informationsangebote der Krankenkasse 27
+
+Dokumentationsintervall 27
+
 **7** **BODY DER VERLAUFSDOKUMENTATION**
-
-7.1 Sektion (section)  7.1.1
-
-7.1.2
-
-7.1.3
-
-**8** **GLOSSAR**
-
-**9** **REFERENZIERTE DOKUMENTE**
-
-Vom Patienten gewünschte Informationsangebote der Krankenkasse  Dokumentationsintervall
-
-Abschnitt „Relevante Ereignisse“
-
-Ungeplante ambulante oder stationäre kreuzschmerzbedingte Akutbehandlung seit  der letzten Dokumentation  Abschnitt „Schulung“
-
-Kreuzschmerz-spezifische Schulung empfohlen (bei aktueller Dokumentation)  Kreuzschmerz-spezifische Schulung wahrgenommen  Abschnitt „Sonstige Behandlung“
-
-Erreichung mindestens eines der individuell vereinbarten Ziele seit der letzten
-
-Dokumentation  Regelmäßig körperlich aktiv  CPG Item 3: Durchschnittliche Stärke der Kreuzschmerzen in den letzten drei  Monaten (0 = “Keine“ bis 10 = „Stärkster Schmerz“)
-
-CPG Item 5: Kreuzschmerzbedingte Beeinträchtigung der alltäglichen Aktivitäten  (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei Monaten (0 = “Keine“  bis 10 = “Maximale Beeinträchtigung“)
-
-Beendigung der DMP-Teilnahme vereinbart 27  27
 
 **29**
 
-29  29
+7.1 Sektion (section)
 
-29  30  30  30  31
+29
 
-32  32
+7.1.1 Abschnitt „Relevante Ereignisse“
 
-32
+29
 
-32  32
+Ungeplante ambulante oder stationäre kreuzschmerzbedingte Akutbehandlung seit  der letzten Dokumentation 29
+
+7.1.2 Abschnitt „Schulung“
+
+30
+
+Kreuzschmerz-spezifische Schulung empfohlen (bei aktueller Dokumentation) 30
+
+Kreuzschmerz-spezifische Schulung wahrgenommen 30
+
+7.1.3 Abschnitt „Sonstige Behandlung“
+
+31
+
+Erreichung mindestens eines der individuell vereinbarten Ziele seit der letzten  Dokumentation 32
+
+Regelmäßig körperlich aktiv 32
+
+CPG Item 3: Durchschnittliche Stärke der Kreuzschmerzen in den letzten drei  Monaten (0 = “Keine“ bis 10 = „Stärkster Schmerz“) 32
+
+CPG Item 5: Kreuzschmerzbedingte Beeinträchtigung der alltäglichen Aktivitäten  (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei Monaten (0 = “Keine“  bis 10 = “Maximale Beeinträchtigung“) 32
+
+Beendigung der DMP-Teilnahme vereinbart 32
+
+**8** **GLOSSAR**
 
 **34**
+
+**9** **REFERENZIERTE DOKUMENTE**
 
 **35**
 
@@ -311,13 +315,9 @@ DOKUMENTATION ..................................................................
 
 .................. 23  23   24  25 25
 
-N (0 = “KEINE“ BIS 10 =
-
 26
 
-26
-
-27
+N (0 = “KEINE“ BIS 10 =  26 27
 
 ............................... 27  27  29 29
 
@@ -1173,7 +1173,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### Ungeplante ambulante oder stationäre kreuzschmerzbedingte Akutbehandlung seit der letzten  Dokumentation
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut die „ Anzahl der
+Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut die „Anzahl der
 
 Behandlungen“ und im *U*-Attribut den fest vorgeschriebenen Wert „Anzahl“.
 

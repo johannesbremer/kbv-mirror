@@ -45,7 +45,7 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 | **Telefonnummer** |  | | |
 | **E-Mail-Adresse** |  | | |
 
-Rechtsform anzugeben] Systempfleger vom Antragsteller abweicht] [ ] [ ] [ ]
+Rechtsform anzugeben] Systempfleger vom Antragsteller abweicht]
 
 ---
 
@@ -82,7 +82,7 @@ Bitte geben Sie im Folgenden an, welche Client
 
 -Betriebssysteme unterstützt werden.
 
-Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
+Antragsstellers Stellen der Prüfnummer, falls vorhanden]
 
 ---
 
@@ -112,7 +112,7 @@ Folgende optionale eDMP COPD Funktionen sind gem. Anforderungskatalog DMP realis
 
 ## EDMP COPD
 
-[ ] der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. [ ] Anforderungsdokumente, Schnittstellenbeschreibungen sowie P verbindlichen Kostenträger lausibilitätsrichtlinien erfüllt sind. -Stammdatei [ ] [ ] [ ] ANFORDERUNGSKATALOG EDMP COPD LT.
+der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen sowie P verbindlichen Kostenträger lausibilitätsrichtlinien erfüllt sind. -Stammdatei ANFORDERUNGSKATALOG EDMP COPD LT.
 
 ---
 

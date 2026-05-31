@@ -9,9 +9,9 @@
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
-|  | 01.04.2014 |
+|  | Version |
 
-Holmium -Laser-Therapie HLT] Digitalisierung und IT -Lewin-Platz 2 Version  1.00 Datum: Kennzeichnung: Öffentlich  Status: In Kraft
+Holmium -Laser-Therapie HLT] Digitalisierung und IT -Lewin-Platz 2 1.00 Datum: 01.04.2014 Kennzeichnung: Öffentlich  Status: In Kraft
 
 
 ---
@@ -377,17 +377,19 @@ mente eingeschränkt:
 
 **Abbildung 3 - Element document_type_cd**
 
--  Das *document_relationship*-Element ist ein optionales Element und wird gefüllt, wenn
+-  Das  eine Korrekturlieferung erfolgt.  *document_relationship*-Element ist ein optionales Element und wird gefüllt, wenn
 
-- eine Korrekturlieferung erfolgt.
-
-- o Das Element *document_relationship/document_relationship.type_cd* enthält im
+- o Das Element *document_relationship/document_relationship.type_cd*
 
 - V-Attribut den Wert „RPLC“
 
-- o Das Element *document_relationship/related_document/id* enthält den Verweis
+- enthält im
+
+- o Das Element *document_relationship/related_document/id*
 
 - auf das *id*-Element des Ursprungsdokuments.
+
+- enthält den Verweis
 
 **Abbildung 4 - Element document_relationship**
 
@@ -528,7 +530,7 @@ Teil 2 <anzahl_ersteingriffe V="10"/> <anzahl_folgeeingriffe V="10"/> <anzahl_ei
 
 Holmium-Laser-Therapie
 
-\| </qshlt:qshlt_dokumentation>    **XML-Code 6 - qshlt dokumentation **  **4.3.1 ** Die Anzahl (nonNegativeInteger ) der Ersteingriffe wird hier im V-Attribut angegeben. Der   **4.3.2 ** Die Anzahl (nonNegativeInteger) der Folgeeingriffe wird hier im V-Attribut angegeben. Der |
+\| </qshlt:qshlt_dokumentation>    **XML-Code 6 - qshlt dokumentation **  **4.3.1 ** Die Anzahl (nonNegativeInteger  **4.3.2 ** Die Anzahl (nonNegativeInteger) der Folgeeingriffe wird hier im V-Attribut angegeben. Der |
 \|---|
 \| </qshlt:qshlt_dokumentation> |
 
@@ -550,7 +552,7 @@ Die Anzahl (nonNegativeInteger) der präoperativ sonografisch gemessenen Prostat
 
 1 Gemäß der W3C Spezifikation [2] nur ganze Zahlen im positiven Bereich inklusive „0“.
 
-<anzahl_umstiege_konventionelle_op V="5"/> <anzahl_interventionspflichtige_nachblutungen_ohne_transfusion V="1"/> <anzahl_interventionspflichtige_nachblutungen_mit_transfusion V="2"/> <anzahl_andere_interventionspflichtige_fruehkomplikationen V="0"/> <anzahl_operationszeit_0_59 V="4"/> <anzahl_operationszeit_60_89 V="15"/> <anzahl_operationszeit_90 V="1"/> <anzahl_resektionsgewicht_0 V="0"/> <anzahl_resektionsgewicht_0_9 V="4"/> <anzahl_resektionsgewicht_10_19 V="6"/> <anzahl_resektionsgewicht_20_39 V="10"/> <anzahl_resektionsgewicht_40 V="0"/> anzahl_ersteingriffe Wert muss zwischen 0 und 99999 liegen. anzahl_folgeeingriffe Wert muss zwischen 0 und 99999 liegen.
+<anzahl_umstiege_konventionelle_op V="5"/> <anzahl_interventionspflichtige_nachblutungen_ohne_transfusion V="1"/> <anzahl_interventionspflichtige_nachblutungen_mit_transfusion V="2"/> <anzahl_andere_interventionspflichtige_fruehkomplikationen V="0"/> <anzahl_operationszeit_0_59 V="4"/> <anzahl_operationszeit_60_89 V="15"/> <anzahl_operationszeit_90 V="1"/> <anzahl_resektionsgewicht_0 V="0"/> <anzahl_resektionsgewicht_0_9 V="4"/> <anzahl_resektionsgewicht_10_19 V="6"/> <anzahl_resektionsgewicht_20_39 V="10"/> <anzahl_resektionsgewicht_40 V="0"/> anzahl_ersteingriffe ) der Ersteingriffe wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen. anzahl_folgeeingriffe Wert muss zwischen 0 und 99999 liegen.
 
 ---
 
@@ -600,7 +602,7 @@ Holmium-Laser-Therapie
 
 ### anzahl_harnstrahlmessung_0_9
 
-### anzahl_harnstrahlmessung_10_
+### anzahl_harnstrahlmessung_10_15
 
 ### anzahl_harnstrahlmessung_15
 
@@ -608,9 +610,7 @@ Holmium-Laser-Therapie
 
 ### anzahl_verletzung_harnleiterostien
 
-### anzahl_einschwemmung
-
-### 15 99999 liegen.
+### anzahl_einschwemmung 99999 liegen.
 
 
 ---

@@ -559,11 +559,11 @@ Das KV-Prüfmodul prüft im Anschluss die entschlüsselte Datei. Das KV-Prüfmod
 
 Der Kommunikationssatz hat die Kennung „KOMU“ und folgende Felder:
 
-| FK | 1 | Feldbezeichnung | Feldart | Bedingung | Erläuterung |
+| FK | Vorkommen | Feldbezeichnung | Feldart | Bedingung | Erläuterung |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzart | M |  | „KOMU“; Satzart |
 | 9230 | 1 | Prüfmodul-Version | M |  | Format vgl. Schreiben |
-| 9231 | 1 | Steuerdatei-Version | M |  | zu Konvention Datei- |
+| 9231 | 1 | Steuerdatei-Version | M |  | Format vgl. Schreiben |
 
 *KommunikationsSatz*
 
@@ -575,12 +575,12 @@ festgelegt. Standard-
 
 **Kryptomodul (XKM)**
 
-Vorkommen Kommunikationssatz namen Prüfmodul namen Prüfmodul -er Satz angehängt.  -Satz).
+Kommunikationssatz zu Konvention Datei- namen Prüfmodul zu Konvention Datei- namen Prüfmodul -er Satz angehängt.  -Satz).
 
 
 ---
 
-| FK | 1 | Feldbezeichnung | Feldart | Bedingung | Erläuterung |
+| FK | Vorkommen | Feldbezeichnung | Feldart | Bedingung | Erläuterung |
 |---|---|---|---|---|---|
 | 9213 | n | Version verwendeter Stammdatei | K |  | Information aus dem |
 | 9237 | n | enthaltene Datenpakete der Datei | M |  | 0 = KVDT-Container |
@@ -593,13 +593,9 @@ Vorkommen Kommunikationssatz namen Prüfmodul namen Prüfmodul -er Satz angehän
 
 #### 3.3.3.8 PDT-Liste
 
-Der Name PDT-Datei leitet sich aus Protokoll -Daten-Träger ab. Als Inhalt werden Informatio- nen zu den einzelnen Fehlermeldungen übertragen. Der Aufbau der Datei orientiert sich an
+Der Name PDT-Datei leitet sich aus Protokoll -Daten-Träger ab. Als Inhalt werden Informatio- nen zu den einzelnen Fehlermeldungen übertragen. Der Aufbau der Datei orientiert sich an  den bekannten Satzbeschreibungen. Einem Header-Satz folgen mehrfach die Sätze für die  einzelnen Fehlermeldungen. Die Datei wird dann durch einen Endesatz abgeschlossen.
 
-### den bekannten Satzbeschreibungen.
-
-einzelnen Fehlermeldungen. Die Datei wird dann durch einen Endesatz abgeschlossen.
-
-### Die Ausgabe der Fehlermeldungen im xDT -Format kann von den Systemen dazu genutzt
+### Die Ausgabe der Fehlermeldungen im xDT-Format kann von den Systemen dazu genutzt
 
 werden, den Arzt automatisch zu den vom Prüfmodul gefundenen Fehlern zu führen. Die Da- tei ist gemäß dem xDT Format aufgebaut, d.h. analog zu ADT, LDT, KVDT ... Dateien. Damit  kann gezielt auf spezielle Informationen, z.B. den Errorlevel einer einzelnen Fehlermeldung
 
@@ -609,32 +605,25 @@ wie z.B. Korrekturhinweise etc. einzuleiten.
 
 Jeder Fehlermeldung im Prüfbericht entspricht ein eigener Datensatz. Somit kann jeder Fehler  automatisch ausgewertet werden. Auf die Angabe einer Zeilennummer, in der der Fehler
 
-### gefunden wurde, wird verzichtet, da beim ADT z.B. über die Feldkennung 3000 eindeutige  Informationen über den aktuellen Schein mitgeteilt werden können und bei den anderen  Datensatzbeschreibungen entspreche Systemhaus keine Patientennummer
+### gefunden wurde, wird verzichtet, da beim ADT z.B. über die Feldkennung 3000 eindeutige  Informationen über den aktuellen Schein mitgeteilt werden können und bei den anderen  Datensatzbeschreibungen entsprechend andere Informationen vorliegen. Überträgt das  Systemhaus keine Patientennummer (FK 3000), erhält es auch nur die Standard-
 
 ### Informationen.
-
-### Einem Header -Satz folgen mehrfach die Sätze für die
-
-### nd andere Informationen vorliegen. Überträgt das  (FK 3000),
 
 ### Satzart prot
 
 **Dies ist der essentielle Protokollsatz**
 
-| Feldkennung | 1 | Bezeichnung der | Feldart | Bedingung | Erläuterung |
+| Feldkennung | Vorkommen | Bezeichnung der | Feldart | Bedingung | Erläuterung |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzidentifikation | M |  | Inhalt |
 | 9420 | 1 | Nummer der Meldung | M |  |  |
 | 9421 | 1 | errorlevel der Meldung | M |  | 0 = O.k. |
 
-### erhält
-
-Vorkommen Versionsanteil der Steuer-Libs   1 = ADT 3 = KADT 5 = STDT 6 = SADT 9 = KVDT-Abschluß 1 = Warnung 2 = Fehlerhaft 3 = Abbruch Vorkommen Feldinhalte 3 prot 1 = Warnung 2 = Fehlerhaft 3 = Abbruch ### es auch nur die Standard
-
+Versionsanteil der Steuer-Libs   1 = ADT 3 = KADT 5 = STDT 6 = SADT 9 = KVDT-Abschluß 1 = Warnung 2 = Fehlerhaft 3 = Abbruch Feldinhalte 3 prot 1 = Warnung 2 = Fehlerhaft 3 = Abbruch
 
 ---
 
-| Feldkennung | 2 | Bezeichnung der | Feldart | Bedingung | Erläuterung |
+| Feldkennung | Vorkommen | Bezeichnung der | Feldart | Bedingung | Erläuterung |
 |---|---|---|---|---|---|
 | 9422 | n | Parameter zur Fehlermeldung | K |  | fehlt beim Re- |
 | 9423 | n | vollständiger Text der Feh- | M |  | 1 Eintrag =   1 Zeile |
@@ -667,7 +656,7 @@ Hinzu kommt noch ein Header und Abschluss-Satz, in dem das Handling von Versione
 
 Dies ist der Header-Satz der PDT-Datei.
 
-| Feldkennung | 2 | Bezeichnung der | Feldart | Bedingung | Erläuterung |
+| Feldkennung | Vorkommen | Bezeichnung der | Feldart | Bedingung | Erläuterung |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzidentifikation | M |  | Inhalt |
 | 0201 | 1 | Betriebs- (BSNR) oder Ne- | M |  |  |
@@ -677,7 +666,7 @@ Dies ist der Header-Satz der PDT-Datei.
 
 #### Tabelle 4: Felder PDT-Datei Header Satz
 
-Vorkommen Feldinhalte gelwerk Vorkommen Feldinhalte 4 benbetriebsstättennummer (NBSNR) pro0
+Feldinhalte gelwerk 4 Feldinhalte benbetriebsstättennummer (NBSNR) pro0
 
 ---
 
@@ -685,11 +674,11 @@ Vorkommen Feldinhalte gelwerk Vorkommen Feldinhalte 4 benbetriebsstättennummer 
 
 Dies ist der Abschluß-Satz der Fehlerprotokolldatei
 
-| Feldkennung | 1 | Bezeichnung der | Feldart | Bedingung | Erläuterung |
+| Feldkennung | Vorkommen | Bezeichnung der | Feldart | Bedingung | Erläuterung |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzidentifikation | M |  | Inhalt |
 | 9230 | 1 | Prüfmodul-Version | M |  |  |
-| 9232 | 1 | Prüfergebnis | M |  | levels  0 = O.k. |
+| 9232 | 1 | Prüfergebnis | M |  | Wert des error- 0 = O.k. |
 | 9234 | 1 | Prüfdatum | M |  |  |
 | 9235 | 1 | Prüfzeit | M |  |  |
 
@@ -727,7 +716,7 @@ Damit diese Datei angelegt wird, muss in der entsprechenden KV- ein „ja“ zug
 
 Ist der Wert auf „ja“ gesetzt, wird in der Scheinabgabeliste und in der Dokuabgabeliste die systemint tennummer (FK 3000) anstatt des Patientennamens und –vornamens verwendet. Standardwert: “nein“
 
-Der Schalter kann auch beim Programmaufruf mit der Option
+Der Schalter kann auch beim Programmaufruf mit der Option d gesetzt werden:
 
 *ScheinAbgabeListe*
 
@@ -739,8 +728,6 @@ Der Schalter kann auch beim Programmaufruf mit der Option
 
 Spezifikadatei dem Feld 9474 aus Satzart „kvx5“
 
-d gesetzt werden:
-
 festgelegt. Standardkon-
 
 festgelegt. Standardkonfiguration:
@@ -749,7 +736,7 @@ festgelegt. Standard-
 
 festgelegt. Stan-
 
-Vorkommen Feldinhalte pro9 Wert des error- 1 = Warnung 2 = Fehlerhaft 3 = Abbruch erne Patien-
+Feldinhalte pro9 levels 1 = Warnung 2 = Fehlerhaft 3 = Abbruch erne Patien-
 
 
 ---
@@ -825,6 +812,20 @@ D übergeben werden.
 
 ---
 
+- Infomeldungen
+
+- Warnungen
+
+- Fehlermeldungen (durch F* gekennzeichnet)
+
+- Abbruchmeldungen (durch A* gekennzeichnet)
+
+-  Meldungsnummer (z.B. KVDT-RQL1)
+
+-  In Klammern: Abkürzung der Fehlerart, gefolgt von der Zeilennummer, in der  der Fehler aufgetaucht ist (z.B. (F*/842)) -  Meldungstext
+
+-  Maximale Anzahl zu protokollierender Meldungen, bei der Konfigurationsein- stellung fehler_begrenzen=ja.
+
 set INSTALLATION=C:\Projekte\JavaPruefmodul\Test
 
 set UMGEBUNG=KVDT.Praxis
@@ -841,9 +842,11 @@ java -DINSTALLATION=%INSTALLATION% -DUMGEBUNG=%UMGEBUNG% ...
 
 ### Der Errorlevel wird in der Kommunikationsdatei unter der Fe und in der PDT-Datei unter den Feldkennungen 9421 (errorlevel der Meldung) und 9232 ab- gelegt.
 
-### Der Return-Code steht in direktem Zusammenhang mit dem Ergebnis
+### ldkennung 9232 (Prüfergebnis)
 
-gangs. Die Zusammenhänge sind in der folgenden Tab
+### Der Return-Code steht in direktem Zusammenhang mit dem Ergebnis-Status des Prüfvor-
+
+gangs. Die Zusammenhänge sind in der folgenden Tabelle wiedergegeben:
 
 | Status | Bedeutung | Return-Code |
 |---|---|---|
@@ -858,33 +861,15 @@ gangs. Die Zusammenhänge sind in der folgenden Tab
 
 ## 3.5 Meldungen
 
-Es gibt vier verschiedene Arten von Fehlermeldungen: - Infomeldungen
-
-- Warnungen
-
-- Fehlermeldungen (durch F* gekennzeichnet)
-
-- Abbruchmeldungen (durch A* gekennzeichnet)
+Es gibt vier verschiedene Arten von Fehlermeldungen:
 
 Wenn in der Konfigurationsdatei der Schalter Warnungen auf ‚nein’ gestellt ist, werden keine Warnungen aufgelis- tet. Es erfolgt lediglich ein Hinweis: „Das Prüfmodul hat Warnungen gefunden“.
 
 Die Meldungen sind wie folgt aufgebaut:
 
--  Meldungsnummer (z.B. KVDT-RQL1)
-
--  In Klammern: Abkürzung der Fehlerart, gefolgt von der Zeilennummer, in der  der Fehler aufgetaucht ist (z.B. (F*/842)) -  Meldungstext
-
--  Maximale Anzahl zu protokollierender Meldungen, bei der Konfigurationsein- stellung fehler_begrenzen=ja.
-
 Eine Fehlermeldung zu einem Fehler in Zeile 842 hätte in der PDF-Prüfliste folgenden Aufbau:
 
 KVDT-RQL1 (F*/842) Dieser Behandlungsfall kann erst im nächsten Quartal abgerechnet werden.  Bitte setzen Sie sich mit Ihrem Systemhaus in Verbindung.
-
-### ldkennung 9232 (Prüfergebnis) -Status des Prüfvor-
-
-### elle wiedergegeben: -
-
--
 
 
 ---

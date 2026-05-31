@@ -34,195 +34,147 @@
 
 **Anbieter**
 
-Dedalus HealthCare GmbH
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-CompuGroup Medical Deutschland AG
-
-medatixx GmbH & Co. KG
-
-SAP SE
-
-CGM Clinical Europe GmbH
-
-CompuGroup Medical Deutschland AG
-
-INDAMED EDV-Entwicklung und Vertrieb GmbH
-
-Deutsche Telekom Clinical Solutions GmbH
-
-Zollsoft GmbH
-
-medatixx GmbH & Co. KG
-
-medatixx GmbH & Co. KG
-
-CompuGroup Medical Deutschland AG
-
-CompuGroup Medical Deutschland AG 1
-
-**Installationen 2.Q.2025**
-
-592
-
-273
-
-252
-
-192
-
-175
-
-160
-
-145
-
-138
-
-138
-
-108
-
-104
-
-97
-
-90
-
-**Installationen 1.Q.2025**
+Dedalus HealthCare GmbH 592
 
 581
 
-282
-
-259
-
-192
-
-176
-
-168
-
-135
-
-141
-
-131
-
-114
-
-100
-
-103
-
-90
-
-**Differenz**
-
 11
+
+CompuGroup Medical Deutschland AG 273
+
+282
 
 -9
 
+medatixx GmbH & Co. KG 252
+
+259
+
 -7
 
+SAP SE 192
+
+192
+
 0
+
+CGM Clinical Europe GmbH 175
+
+176
 
 -1
 
+CompuGroup Medical Deutschland AG 160
+
+168
+
 -8
+
+INDAMED EDV-Entwicklung und Vertrieb GmbH 145 135
 
 10
 
+Deutsche Telekom Clinical Solutions GmbH 138 141
+
 -3
+
+Zollsoft GmbH 138
+
+131
 
 7
 
+medatixx GmbH & Co. KG 108
+
+114
+
 -6
+
+medatixx GmbH & Co. KG 104
+
+100
 
 4
 
+CompuGroup Medical Deutschland AG 97
+
+103
+
 -6
 
+CompuGroup Medical Deutschland AG 90
+
+90
+
 0
+
+1
 
 
 ---
 
 **Id Praxissoftware**
 
-208 **NEXUS / KIS**
-
-498 **T 2med**
-
-422 **ClinicCentre Billing (OPD)**
-
-290 **M-KIS**
-
-244 **QUINCY WIN**
-
-086 **DURIA**
-
-135 **EL - Elaphe Longissima**
-
 **Anbieter**
 
-NEXUS AG
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-T 2med GmbH & Co. KG
+208 **NEXUS / KIS**
 
-Mesalvo Mannheim GmbH
-
-Meierhofer AG
-
-Frey ADV GmbH
-
-Duria eG
-
-medatixx GmbH & Co. KG 2
-
-**Installationen 2.Q.2025**
-
-61
-
-52
-
-46
-
-35
-
-33
-
-33
-
-29
-
-**Installationen 1.Q.2025**
+NEXUS AG 61
 
 56
 
-48
-
-46
-
-36
-
-33
-
-32
-
-31
-
-**Differenz**
-
 5
+
+498 **T 2med**
+
+T 2med GmbH & Co. KG 52
+
+48
 
 4
 
+422 **ClinicCentre Billing (OPD)**
+
+Mesalvo Mannheim GmbH 46
+
+46
+
 0
+
+290 **M-KIS**
+
+Meierhofer AG 35
+
+36
 
 -1
 
+244 **QUINCY WIN**
+
+Frey ADV GmbH 33
+
+33
+
 0
+
+086 **DURIA**
+
+Duria eG 33
+
+32
 
 1
 
+135 **EL - Elaphe Longissima**
+
+medatixx GmbH & Co. KG 29
+
+31
+
 -2
+
+2

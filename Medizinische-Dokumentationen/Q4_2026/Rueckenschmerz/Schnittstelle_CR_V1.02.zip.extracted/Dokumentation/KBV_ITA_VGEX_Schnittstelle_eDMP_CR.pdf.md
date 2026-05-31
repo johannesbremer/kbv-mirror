@@ -1,6 +1,9 @@
 \|  |
 \|---|
 
+\|  |
+\|---|
+
 # SCHNITTSTELLENBESCHREIBUNG  CHRONISCHER RÜCKENSCHMERZ
 
 ## [KBV_ITA_VGEX_SCHNITTSTELLE_EDMP_CR]
@@ -8,11 +11,7 @@
 |  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  14. NOVEMBER 2025   VERSION: 1.02   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
-\|  |
-\|---|
-
 BUNDESVEREINIGUNG  IT IN DER ARZTPRAXIS
-
 
 ---
 
@@ -145,9 +144,9 @@ Dokumentationsintervall 27
 
 **29**
 
-29
-
 7.1 Sektion (section)
+
+29
 
 7.1.1 Abschnitt „Relevante Ereignisse“
 
@@ -415,7 +414,6 @@ DOKUMENTATION ..................................................................
 
 aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen) aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen)
 
-
 ---
 
 # 1 EINLEITUNG
@@ -485,7 +483,7 @@ Es existieren verschiedene Kardinalitäten:
 |  |  |  |
 |---|---|---|
 | **Kardinalität** | **Symbol** | **Beschreibung** |
-| 0..1 |  | gestrichelter Linie dargestellt. Es kann kein oder einmal |
+| 0..1 |  | Optionales Element: Element wird als Rechteck mit |
 | 1 |  | Musselement: Rechteck mit durchgezogener Linie. Das |
 | n...m |  | Multielement enthält mindestens n aber maximal m |
 
@@ -509,7 +507,7 @@ nander verknüpft.
 
 <xs:choice> und <xs:sequence>.
 
-Optionales Element: Element wird als Rechteck mit vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden müssen.
+gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden müssen.
 
 
 ---
@@ -814,7 +812,7 @@ Im Element <content> wird die Sciphox-SSU
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
 
-\| <content>**         <sciphox:Beobachtungen>                                                                                 </content> |
+\| <content>**       <sciphox:Beobachtungen>                                                       </content> |
 \|---|
 
 **XML-Code 11:** content (Anamnese- und Befunddaten)
@@ -993,7 +991,7 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im
 
 Tabelle 8.
 
-\| <  **  < </sciphox:Beobachtung> |
+\| <  **   </sciphox:Beobachtung> |
 \|---|
 
 **XML-Code 20:** Aktuelle kreuzschmerzbedingte Schmerzmedikation: Nicht-Opioidanalgetika
@@ -1004,7 +1002,9 @@ Tabelle 8.
 \| Bei Bedarf |
 \| Nein |
 
-**Tabelle 8:** Werte bei Ergebnistext (Aktuelle kreuzschmerzbedingte Schmerzmedikation:
+*V*-Attribut die Feldbezeichnung gemäß
+
+**Tabelle 8:** Werte bei Ergebnistext (Aktuelle kreuzschmerzbedingte Schmerzmedikation: Nicht-
 
 Opioidanalgetika)
 
@@ -1012,29 +1012,24 @@ Opioidanalgetika)
 
 Dieses Kapitel beschreibt den Abschnitt „Schulung“.
 
-Im Element <content> wird die Sciphox-SSU *observation*
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
 
 6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element
 
-<sciphox:Beobachtungen> enthält genau zwei Kindelemente  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement  genau ein Kindelement <sciphox:Ergebnistext>.
+<sciphox:Beobachtungen> enthält genau zwei Kindelemente <sciphox:Beobachtung>. Ein Element
+
+<sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und
+
+genau ein Kindelement <sciphox:Ergebnistext>.
 
 Der Coderahmen sieht wie folgt aus:
 
-\| <content>         <sciphox:Beobachtungen>       teilgenommen"/>                           </local_markup> </content> |
+\| <content>       <sciphox:Beobachtungen>     teilgenommen"/>                   </local_markup> </content> |
 \|---|
 
 **XML-Code 21:** content (Schulung)
 
-*V*-Attribut die Feldbezeichnung gemäß
-
-Nicht-
-
-verwendet. Der Aufbau dieser SSU ist in Kapitel
-
-<sciphox:Beobachtung>. Ein Element  <sciphox:Parameter> und
-
-<sciphox:Parameter DN="Aktuelle kreuzschmerzbedingte Schmerzmedikation: Nicht-Opioidanalgetika"/> sciphox:Ergebnistext V="Nein"/>  (V="...") <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer multimodalen Schulung <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Kreuzschmerz -spezifische Schulung empfohlen (bei aktueller Dokumentation) "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu>
-
+<sciphox:Parameter DN="Aktuelle kreuzschmerzbedingte Schmerzmedikation: Nicht-Opioidanalgetika"/> <sciphox:Ergebnistext V="Nein"/>  (V="...") <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer multimodalen Schulung <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Kreuzschmerz -spezifische Schulung empfohlen (bei aktueller Dokumentation) "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu>
 
 ---
 
@@ -1046,7 +1041,7 @@ gemäß Tabelle 9.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-\| <    < </sciphox:Beobachtung> |
+\| <     </sciphox:Beobachtung> |
 \|---|
 
 **XML-Code 22:** Bereits vor Einschreibung in das DMP an einer multimodalen Schulung
@@ -1070,7 +1065,7 @@ gemäß Tabelle 10.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-\| <    < </sciphox:Beobachtung> |
+\| <     </sciphox:Beobachtung> |
 \|---|
 
 **XML-Code 23**: Kreuzschmerz-spezifische Schulung empfohlen (bei aktueller Dokumentation)
@@ -1102,7 +1097,7 @@ Im Element <content> wird die Sciphox-SSU
 
 *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  <sciphox:Beobachtungen>. Das Element
 
-<sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer multimodalen Schulung teilgenommen "/> sciphox:Ergebnistext V="Ja"/> V="...") <sciphox:Parameter DN="Kreuzschmerz -spezifische Schulung empfohlen (bei aktueller Dokumentation) "/> sciphox:Ergebnistext V="Ja"/> V="...")
+<sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer multimodalen Schulung teilgenommen "/> <sciphox:Ergebnistext V="Ja"/> V="...") <sciphox:Parameter DN="Kreuzschmerz -spezifische Schulung empfohlen (bei aktueller Dokumentation) "/> <sciphox:Ergebnistext V="Ja"/> V="...")
 
 
 ---
@@ -1283,14 +1278,14 @@ genau ein Kindelement <sciphox:Ergebniswert>.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-\| <content>         <sciphox:Beobachtungen>       letzten Dokumentation "/>               </local_markup> </content> |
+\| <content>       <sciphox:Beobachtungen>     letzten Dokumentation "/>           </local_markup> </content> |
 \|---|
 
 **XML-Code 31:** content (Relevante Ereignisse)
 
 ### Ungeplante ambulante oder stationäre kreuzschmerzbedingte Akutbehandlung seit der letzten  Dokumentation
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> i m *V*-Attribut die „Anzahl der
+Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V*-Attribut die „Anzahl der
 
 Behandlungen“ und im *U*-Attribut den fest vorgeschriebenen Wert „Anzahl
 
@@ -1433,7 +1428,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ---
 
-\| <sciphox:Beobachtung>    < </sciphox:Beobachtung> |
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
 **XML-Code 37:** Beendigung der DMP-Teilnahme vereinbart
@@ -1445,7 +1440,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 16:** Werte bei Ergebnistext ( Beendigung der DMP-Teilnahme vereinbart
 
-<sciphox:Parameter DN=" Beendigung der DMP-Teilnahme vereinbart "/> sciphox:Ergebnistext V="Ja"/> V="...")
+<sciphox:Parameter DN=" Beendigung der DMP-Teilnahme vereinbart "/> <sciphox:Ergebnistext V="Ja"/> V="...")
 
 ---
 

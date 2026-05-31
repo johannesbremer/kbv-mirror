@@ -33,7 +33,9 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 **[bei juristischen Personen ist die**  **Rechtsform anzugeben]**
 
-**Geschäftsbereich [falls**  **vorhanden]**
+**Geschäftsbereich [falls**
+
+**vorhanden]**
 
 **Straße und Hausnummer**
 
@@ -47,6 +49,8 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 **Der Antragsteller ist**
 
+Arzt/Ärztin
+
 **Systempfleger**
 
 **[nur anzugeben, wenn der**  **Systempfleger vom Antragsteller**  **abweicht]**
@@ -59,15 +63,13 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 **E-Mail-Adresse**
 
-Arzt/Ärztin [ ]
-
 / Version: 3.2 / 15. Mai 2024
 
 initiiert.
 
-Softwarehaus [ ]
+Softwarehaus
 
-Sonstiges [ ]
+Sonstiges
 
 
 ---
@@ -82,7 +84,7 @@ Nur anzugeben, wenn abweichend von Abschnitt
 
 **Straße und Hausnummer**
 
-Antragssteller:
+Antragssteller: 1.1.
 
 **PLZ, Ort**
 
@@ -92,7 +94,9 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls
 
 **Bezeichnung**
 
-**Identnummer [die letzten drei**  **Stellen der Prüfnummer, falls**  **vorhanden]**
+**Identnummer [die letzten drei**
+
+**Stellen der Prüfnummer, falls**  **vorhanden]**
 
 **1.4**  **BETRIEBSSYSTEME**
 
@@ -102,23 +106,9 @@ Bitte geben Sie im Folgenden an, welche Client
 |---|---|---|---|
 | iOS/Android☐ | ☐ | Sonstige | |
 
-[ ]
+2 REALISIERUNG VON ANFORDERUNGEN
 
-[ ]
-
-2
-
-[ ]
-
-## REALISIERUNG VON ANFORDERUNGEN
-
-Der Antragsteller versichert, dass alle Pflichtfunktionen des Anforderungskataloges  [KBV_ITA_VGEX_Anforderungskatalog_eArztbrief erfüllt sind.
-
-[ ]
-
-[ ]
-
-/ Version: 3.2 / 15. Mai 2024 1.1.
+Der Antragsteller versichert, dass alle Pflichtfunktionen des Anforderungskataloges   [KBV_ITA_VGEX_Anforderungskatalog_eArztbrief erfüllt sind.
 
 vorhanden) des Zertifizierungsgegenstandes an.
 
@@ -126,7 +116,7 @@ vorhanden) des Zertifizierungsgegenstandes an.
 
 ] für die Übermittlung von elektronischen Briefen
 
-[ ]
+/ Version: 3.2 / 15. Mai 2024
 
 
 ---

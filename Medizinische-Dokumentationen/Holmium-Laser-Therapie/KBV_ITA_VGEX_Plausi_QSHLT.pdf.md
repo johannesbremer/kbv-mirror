@@ -24,7 +24,7 @@ Holmium-Laser-Therapie
 | 1.01 | 11.02.2016 | KBV | Ergänzung von Bedi |  | **5ff** |
 | 1.00 | 31.03.2014 | KBV |  | Einführung der Schnitt- |  |
 
-gungen bei den Feldern: 6, 7, 16,17,18,19, 20, 21,  22, 23, 24, 25, 26, 27, 28, 29, 30, 31 und 32 n- stelle QS Holmium-Laser- Therapie
+n- gungen bei den Feldern: 6, 7, 16,17,18,19, 20, 21,  22, 23, 24, 25, 26, 27, 28, 29, 30, 31 und 32 stelle QS Holmium-Laser- Therapie
 
 ---
 

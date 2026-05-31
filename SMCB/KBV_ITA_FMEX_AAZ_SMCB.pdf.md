@@ -1,14 +1,12 @@
 \|  |
 \|---|
 
-# ANTRAG AUF ZERTIFIZIERUNG  SEKTORZULASSUNG SMC
+# ANTRAG AUF ZERTIFIZIERUNG  SEKTORZULASSUNG SMC -B
 
 ## [KBV_ITV_FMEX_AAZ_SMCB]
 
 |  | **KASSENÄRZTLICHE     DEZERNAT DIGITALISIERUNG UND IT  1.OKTOBER 2025  VERSION: 2.3   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
-
-**-B**
 
 \|  |
 \|---|
@@ -72,13 +70,13 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizie
 | ☐ | Der Antragssteller beantragt die Sektorzulassung als Anbieter einer HSM-B im  Voraussetzung für die Beantragung ist:  - |
 | ☐ | Der Antragssteller beantragt die Sektorzulassung als Anbieter sowohl einer SMC-B als auch einer |
 
-Stellen der Prüfnummer, falls vorhanden] [ ] Zuständigkeitsbereich der Kassenärztlichen Vereinigungen. Nur mit dieser Zulassung ist es dem Antragsteller gestattet, den Mitgliedern der KVen kartengebundene Praxisausweise, auch SMC-B genannt, anzubieten. [ ] Zuständigkeitsbereich der Kassenärztlichen Vereinigungen. Nur mit dieser Zulassung ist es dem Antragsteller gestattet, den Mitgliedern der KVen kartenungebundene Praxisausweise, auch HSM- B genannt, anzubieten. das Vorhandensein einer gültigen Sektorzulassung SMC-B für den Antragssteller. [ ] HSM-B im Zuständigkeitsbereich der Kassenärztlichen Vereinigungen. Mit dieser kombinierten Zulassung ist es dem Antragsteller gestattet, den Mitgliedern der KVen sowohl kartengebundene Praxisausweise (SMC-B) als auch kartenungebundene Praxisausweise (HSM-B) anzubieten.
+Stellen der Prüfnummer, falls vorhanden] Zuständigkeitsbereich der Kassenärztlichen Vereinigungen. Nur mit dieser Zulassung ist es dem Antragsteller gestattet, den Mitgliedern der KVen kartengebundene Praxisausweise, auch SMC-B genannt, anzubieten. Zuständigkeitsbereich der Kassenärztlichen Vereinigungen. Nur mit dieser Zulassung ist es dem Antragsteller gestattet, den Mitgliedern der KVen kartenungebundene Praxisausweise, auch HSM- B genannt, anzubieten. das Vorhandensein einer gültigen Sektorzulassung SMC-B für den Antragssteller. HSM-B im Zuständigkeitsbereich der Kassenärztlichen Vereinigungen. Mit dieser kombinierten Zulassung ist es dem Antragsteller gestattet, den Mitgliedern der KVen sowohl kartengebundene Praxisausweise (SMC-B) als auch kartenungebundene Praxisausweise (HSM-B) anzubieten.
 
 ---
 
-# 3
+# 3 REALISIERUNG VON ANFORDERUNGEN
 
-**3.1**
+**3.1** **ANFORDERUNGSDOKUMENTE UND NACHWEISE**
 
 |  | |
 |---|---|
@@ -86,21 +84,14 @@ Stellen der Prüfnummer, falls vorhanden] [ ] Zuständigkeitsbereich der Kassen�
 | ☐ | Der Antragssteller bestätigt, dass alle Anforderungen des TSP-Anforderungskataloges  insbesondere die Datensatzbeschreibung zur Umsetzung der LEO-TSP-Schnittstelle im KV-Bereich |
 | ☐ | Der Antragssteller bestätigt, dass der Antragsprozess für die SM-B Ausgabe auch im Hinblick auf |
 
-**3.2**
+**3.2** **BENUTZERHANDBUCH UND SCHULUNGEN**
 
 |  | |
 |---|---|
 | ☐ | Ein Benutzerhandbuch ist durch den Antragssteller erstellt. Zielgruppe des Handbuchs sind die |
 | ☐ | Der Antragssteller bietet Schulungstermin(e) an, an dem/denen Kassenärztliche Vereinigung(en) |
 
-# REALISIERUNG VON ANFORDERUNGEN
-
-## ANFORDERUNGSDOKUMENTE UND NACHWEISE
-
-## BENUTZERHANDBUCH UND SCHULUNGEN
-
-[ ] [ ] [ ] Betriebsleistung SMC-B" zugelassen ist.  Einreichung des Zulassungsantrages für die Sektorzulassung nachweisen, dass er sich im gematik- Zulassungsverfahren befindet und den Nachweis der Zulassung durch die gematik unverzüglich nachreichen, sobald dieser vorliegt. Dies ist vor Vergabe der Prüfnummer notwendig. [KBV_ITA_VGEX_Anforderungskatalog_SMCB] und der darin referenzierten Dokumente, in der jeweils aktuellen Fassung eingehalten werden. das Verhältnis zu den Kassenärztlichen Vereinigungen datenschutzkonform umgesetzt ist. [ ] [ ] Kassenärztlichen Vereinigungen als Bediener bzw. Nutzer des Freigabeportals und der TSP- Schnittstelle. Bei relevanten Änderungen der Funktionalitäten verpflichtet sich der Antragssteller eine aktualisierte Version des Benutzerhandbuchs zu erstellen und der KBV zur Verfügung zu stellen. Schulungen zur Bedienung der Schnittstelle erhalten kann/können.
-
+Betriebsleistung SMC-B" zugelassen ist.  Einreichung des Zulassungsantrages für die Sektorzulassung nachweisen, dass er sich im gematik- Zulassungsverfahren befindet und den Nachweis der Zulassung durch die gematik unverzüglich nachreichen, sobald dieser vorliegt. Dies ist vor Vergabe der Prüfnummer notwendig. [KBV_ITA_VGEX_Anforderungskatalog_SMCB] und der darin referenzierten Dokumente, in der jeweils aktuellen Fassung eingehalten werden. das Verhältnis zu den Kassenärztlichen Vereinigungen datenschutzkonform umgesetzt ist. Kassenärztlichen Vereinigungen als Bediener bzw. Nutzer des Freigabeportals und der TSP- Schnittstelle. Bei relevanten Änderungen der Funktionalitäten verpflichtet sich der Antragssteller eine aktualisierte Version des Benutzerhandbuchs zu erstellen und der KBV zur Verfügung zu stellen. Schulungen zur Bedienung der Schnittstelle erhalten kann/können.
 
 ---
 

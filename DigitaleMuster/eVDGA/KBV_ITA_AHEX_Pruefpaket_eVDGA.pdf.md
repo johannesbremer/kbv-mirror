@@ -105,7 +105,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 | 1.1 | 19.12.2024 | KBV | Anpassung der referenzierten |  | 15 |
 | 1.0 | 26.11.2024 | KBV | Ersterstellung |  |  |
 
-umzusetzenden FHIR-Version Praxis 1.2.0 Prüffalls PF05 Dokumente verordneten DiGA 09999999 war nicht valide im DiGA-Verzeichnis gestrichen Wertevorgaben zu Arztnamen
+verordneten DiGA umzusetzenden FHIR-Version 09999999 war nicht valide im DiGA-Verzeichnis gestrichen Praxis 1.2.0 Prüffalls PF05 Wertevorgaben zu Arztnamen Dokumente
 
 
 ---
@@ -220,9 +220,7 @@ sowie bei ausgewählten Prüffällen eine signierte Datei eingereicht werden mus
 
 ---
 
-- 1
-
--  <PrüffallNr.> .xml  z.B. PF01.xml
+- <PrüffallNr.>1.xml  z.B. PF01.xml
 
 - <PrüffallNr.>.p 7s  z.B. PF01.p7s
 
@@ -403,7 +401,7 @@ Karl- Friederich Schaumberg“ Arzt 1 ist als ausstellender Arzt im System ausge
 | **Testziel** | Erstellen einer eVDGA (Freitextverordnung |
 | **Voraussetzung** |  |
 | **Aktion** |  |
-| **Prüfunterlagen** |  |
+| **Einzureichende** |  |
 | **Hinweis** |  |
 
 **Tabelle 2: Prüffalltabelle**
@@ -414,7 +412,7 @@ Karl- Friederich Schaumberg“ Arzt 1 ist als ausstellender Arzt im System ausge
 | **Testziel** | Erstellen einer eVDGA |
 | **Voraussetzung** |  |
 | **Aktion** |  |
-| **Prüfunterlagen** |  |
+| **Einzureichende** |  |
 | **Hinweis** |  |
 
 **Tabelle 3: Prüffalltabelle**
@@ -441,7 +439,7 @@ Karl- Friederich Schaumberg“ Arzt 1 ist als ausstellender Arzt im System ausge
 
 - Die Signatur wird im Prüffall 05 gefordert/erbracht.
 
-Einzureichende [KBV_ITA_VGEX_Anforderungskatalog_VDGA Arzt 1 ist als ausstellender Arzt im System ausgewählt  Patient „ Viktor Müller “ ist im System ausgewählt 1. Der Anwender erstellt eine Verordnung mit den folgenden Daten: a) PZN = 09999991 (iuvenis 001) b) Nicht anspruchsberechtigt gemäß des sozialen Entschädigungsrechts (SER)  XML-Datei der eVDGA Für die Zertifizierung sind die einzureichenden XML ) für den Patienten „ Viktor Müller -Dateien auf Basis der eVDGA- Einzureichende für den Patienten „ Viktor Müller Arzt 1 ist als ausstellender Arzt im System ausgewählt  Patient „Viktor Müller“ ist im System ausgewählt Das Ausstellungsdatum ist dasselbe wie in Prüffall 2 1. Der Anwender erstellt eine Verordnung mit den folgenden Daten: a) PZN = 18603466 (Kaia Rückenschmerzen 001) b) Anspruchsberechtigt gemäß des sozialen Entschädigungsrechts (SER) XML-Datei der eVDGA Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eVDGA- für den Patienten „ Viktor Müller Arzt 1 ist als ausstellender Arzt im System ausgewählt  **Verordnung für Patient „Viktor Müller**
+Prüfunterlagen [KBV_ITA_VGEX_Anforderungskatalog_VDGA Arzt 1 ist als ausstellender Arzt im System ausgewählt  Patient „ Viktor Müller “ ist im System ausgewählt 1. Der Anwender erstellt eine Verordnung mit den folgenden Daten: a) PZN = 09999991 (iuvenis 001) b) Nicht anspruchsberechtigt gemäß des sozialen Entschädigungsrechts (SER)  XML-Datei der eVDGA Für die Zertifizierung sind die einzureichenden XML ) für den Patienten „ Viktor Müller -Dateien auf Basis der eVDGA- Prüfunterlagen für den Patienten „ Viktor Müller Arzt 1 ist als ausstellender Arzt im System ausgewählt  Patient „Viktor Müller“ ist im System ausgewählt Das Ausstellungsdatum ist dasselbe wie in Prüffall 2 1. Der Anwender erstellt eine Verordnung mit den folgenden Daten: a) PZN = 18603466 (Kaia Rückenschmerzen 001) b) Anspruchsberechtigt gemäß des sozialen Entschädigungsrechts (SER) XML-Datei der eVDGA Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eVDGA- für den Patienten „ Viktor Müller Arzt 1 ist als ausstellender Arzt im System ausgewählt  **Verordnung für Patient „Viktor Müller**
 
 
 ---
@@ -450,7 +448,7 @@ Einzureichende [KBV_ITA_VGEX_Anforderungskatalog_VDGA Arzt 1 ist als ausstellend
 |---|---|
 |  |  |
 | **Aktion** |  |
-| **Prüfunterlagen** |  |
+| **Einzureichende** |  |
 | **Hinweis** |  |
 
 **Tabelle 4: Prüffalltabelle**
@@ -461,7 +459,7 @@ Einzureichende [KBV_ITA_VGEX_Anforderungskatalog_VDGA Arzt 1 ist als ausstellend
 | **Testziel** | Signieren mehrerer e VDGA mittels Stapelsignatur |
 | **Voraussetzung** |  |
 | **Aktion** |  |
-| **Prüfunterlagen** |  |
+| **Einzureichende** |  |
 
 **Tabelle 5: Prüffalltabelle**
 
@@ -490,7 +488,7 @@ Einzureichende [KBV_ITA_VGEX_Anforderungskatalog_VDGA Arzt 1 ist als ausstellend
 
 - c) Unfalltag entspricht dem Ausstellungsdatum der Verordnung
 
-Einzureichende Patient „Viktor Müller“ ist im System ausgewählt Das Ausstellungsdatum ist dasselbe wie in Prüffall 3 1. Der Anwender erstellt eine Verordnung mit den folgenden Daten: a) PZN = 18053770 (Meine Tinnitus App 001) XML-Datei der eVDGA Für die Zertifizierung sind die einzureichenden XML Einzureichende Arzt 1 ist als ausstellender Arzt im System ausgewählt  Patient „Viktor Müller“ ist im System ausgewählt Prüffälle 03 und 04 und ggf. 02 wurden durchgeführt 1. Bitte erzeugen Sie einen Screenshot, auf dem ersichtlich ist, dass der Anwender eine Stapelsignatur auf mehrere eVDGA setzen kann. 2. Der Anwender signiert die eVDGA aus den Prüffällen 03 und 04 und ggf. 02 mittels Stapelsignatur. Screenshot mit Option zur Stapelsignatur für die Patientin „ Brigitte Althaus “ durch einen Arzt als Vertreter Arzt 1 ist als ausstellender und vertretender Arzt im System ausgewählt Arzt 2 ist als verantwortlicher Arzt im System ausgewählt Patientin Brigitte Althaus “ ist im System ausgewählt- 2. Der Anwender signiert die eVDGA.
+Prüfunterlagen Patient „Viktor Müller“ ist im System ausgewählt Das Ausstellungsdatum ist dasselbe wie in Prüffall 3 1. Der Anwender erstellt eine Verordnung mit den folgenden Daten: a) PZN = 18053770 (Meine Tinnitus App 001) XML-Datei der eVDGA Für die Zertifizierung sind die einzureichenden XML Prüfunterlagen Arzt 1 ist als ausstellender Arzt im System ausgewählt  Patient „Viktor Müller“ ist im System ausgewählt Prüffälle 03 und 04 und ggf. 02 wurden durchgeführt 1. Bitte erzeugen Sie einen Screenshot, auf dem ersichtlich ist, dass der Anwender eine Stapelsignatur auf mehrere eVDGA setzen kann. 2. Der Anwender signiert die eVDGA aus den Prüffällen 03 und 04 und ggf. 02 mittels Stapelsignatur. Screenshot mit Option zur Stapelsignatur für die Patientin „ Brigitte Althaus “ durch einen Arzt als Vertreter Arzt 1 ist als ausstellender und vertretender Arzt im System ausgewählt Arzt 2 ist als verantwortlicher Arzt im System ausgewählt Patientin Brigitte Althaus “ ist im System ausgewählt- 2. Der Anwender signiert die eVDGA.
 
 
 ---

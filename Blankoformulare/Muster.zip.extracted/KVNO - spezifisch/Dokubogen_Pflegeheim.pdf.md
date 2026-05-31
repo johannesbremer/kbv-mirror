@@ -108,15 +108,17 @@ Welche?
 
 Impfstatus überprüft Grippeschutz vorhanden?
 
-**123**[ ][ ]
+**123**
 
 in %
 
-**J**[ ]
+**NJ**
 
-**gesetzlicher Betreuer**  **JA**
+**gesetzlicher Betreuer**
 
-[ ] Vor-/Nachname
+**JA**
+
+Vor-/Nachname
 
 Straße, Nr.
 
@@ -124,9 +126,11 @@ PLZ Ort
 
 Telefon
 
-Mobil **Angehörige** **JA**
+Mobil **Angehörige**
 
-[ ] Vor-/Nachname
+**JA**
+
+Vor-/Nachname
 
 Straße, Nr.
 
@@ -152,36 +156,20 @@ Mobil
 
 E-Mail
 
-[ ]
+**4** **5**
 
-[ ]
-
-[ ]
-
-[ ]
-
-**4**[ ] Merkzeichen
+Merkzeichen
 
 Anzahl
 
-**JN**[ ]
+**JN**
 
-**JN** [ ]
+**JN**
 
-**JN**[ ]
+**JN**
 
-**N** Impfungen erforderlich. **JN**[ ]
-
-**NEIN**
+Impfungen erforderlich. **JN**
 
 **NEIN**
 
-**5**[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
+**NEIN**

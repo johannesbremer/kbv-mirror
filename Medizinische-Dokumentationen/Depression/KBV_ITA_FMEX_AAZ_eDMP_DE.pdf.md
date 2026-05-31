@@ -47,7 +47,7 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 initiiert.
 
-Rechtsform anzugeben] vorhanden] Systempfleger vom Antragsteller abweicht] [ ] [ ] [ ]
+Rechtsform anzugeben] vorhanden] Systempfleger vom Antragsteller abweicht]
 
 ---
 
@@ -84,7 +84,7 @@ Bitte geben Sie im Folgenden an, welche Client
 
 -Betriebssysteme unterstützt werden.
 
-Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
+Antragsstellers Stellen der Prüfnummer, falls vorhanden]
 
 ---
 
@@ -114,7 +114,7 @@ Folgende optionale eDMP DE Funktionen sind gem. Anforderungskatalog DMP realisie
 
 ## EDMP DE
 
-[ ] der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. [ ] Anforderungsdokumente, Schnittstellenbeschreibungen  sowie Plausibilitätsrichtlinien erfüllt sind. -Stammdatei [ ] [ ] [ ] ANFORDERUNGSKATALOG EDMP DE LT.
+der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen  sowie Plausibilitätsrichtlinien erfüllt sind. -Stammdatei ANFORDERUNGSKATALOG EDMP DE LT.
 
 ---
 

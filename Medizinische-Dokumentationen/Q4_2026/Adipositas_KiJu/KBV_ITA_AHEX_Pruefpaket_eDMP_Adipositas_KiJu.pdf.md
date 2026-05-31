@@ -257,11 +257,9 @@ einem gesonderten Ordner „**Dokumentation**“ übermittelt werden und folgend
 
 entsprechen. Diese werden durch den Prüfer begutachtet.
 
-- 1
+- _[lfdNr.]2 3
 
-- 2 3
-
--  PrüffallNr. _[lfdNr.] .*
+-  PrüffallNr. 1
 
 - Teilnahmeerklärung (Prüffall 2240): TE_EWE_ADKJ.pdf
 
@@ -715,8 +713,6 @@ der Krankenkasse 2) INDIKATIONSSPEZIFISCHE DATEN BMI-SDS Ziele zur regelmäßige
 | Dokumentationsintervall | Quartalsweise |  |
 | Datum der Erstellung (siehe Kap. 1.6. | 15.mm.jjjj |  |
 
--
-
 | **INDIKATIONSSPEZIFISCHE DATEN** | | |
 |---|---|---|
 |  | **Verlaufsdokumentation** | **Aktion** |
@@ -821,7 +817,7 @@ Bei dem Parameter „Körpergewicht“ wird die Angabe „ 85“ gemacht. Zeigen
 |  | |
 |---|---|
 | **Prüffall-ID** | 2240 |
-| **Testziel** | eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
+| **Testziel** | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges  ) |
 | **Voraussetzung** |  |
 | **Prüfunterlagen** | PDF-Datei „TE_EWE_ADKJ.pdf“ der indikationsübergreifenden Teilnahme- |
 | **Hinweis** | Falls Ihr System die optionale Anforderung O |
@@ -845,7 +841,7 @@ zu erfassen.
 | DMP-Fallnummer | 2240 |
 | Datum | 15.10.2026 |
 
-Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges und Einwilligungserklärung  7-10 (Ausdruck des Barcodes auf der indikationsübergreifenden Teilnahme - und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
+eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP und Einwilligungserklärung  7-10 (Ausdruck des Barcodes auf der indikationsübergreifenden Teilnahme - und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
 
 ---
 
@@ -994,12 +990,12 @@ Erstdokumentation am 15.10.2026, Geburtsdatum 15.10.2020)
 | KBV_ITA_VGEX_Schnittstelle_eDMP_ | Dokumentation |
 | KBV_ITA_VGEX_Schnittstelle_eHeader | Dokumentation eHeader |
 | XPM-Paket_ADKJ | Prüfmodul eDMP Adipositas - Kinder und |
-| Austausch_von_XML-Daten_Vn.nn.ZIP 4 | Austausch von XML Daten in der |
+| Austausch_von_XML-Daten_Vn.nn.ZIP4 | Austausch von XML Daten in der |
 | KBV_ITA_RLEX_Zert | Zertifizierungsrichtlinie der KBV |
 | KBV_ITA_FMEX_AAZ_eDMP_ | Antrag auf Zertifizierung eDMP Adipositas |
 | Stammdateien | Im Rahmen der Prüfung sind die regulären |
 | KBV-Kryptomodul (XKM) und öffentlicher Testschlüssel | KBV-Kryptomodul |
-| VSD_Testfaelle_DMP_Vn.n.zip 5 | eGK Daten |
+| VSD_Testfaelle_DMP_Vn.n.zip5 | eGK Daten |
 | KBV_ITA_VGEX_Schnittstelle_SDDA | Datensatzbeschreibung SDDA |
 | KBV_ITA_VGEX_Schnittstelle_SDKT | Datensatzbeschreibung SDKT |
 

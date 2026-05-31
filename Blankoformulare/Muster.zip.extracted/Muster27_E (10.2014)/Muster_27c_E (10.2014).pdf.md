@@ -20,6 +20,8 @@
 
 **Versicherten-Nr.**
 
+**Status**
+
 **Arzt-Nr.**
 
 **Datum**
@@ -36,7 +38,11 @@
 
 **Durchführung der soziotherapeutischen Maßnahmen**
 
+**Frequenz pro Woche / Monat**
+
 **Art der Maßnahmen**
+
+**Zeitraum**
 
 **Ausstellungsdatum**
 
@@ -46,28 +52,24 @@
 
 **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
 
-**geb. am**
-
-**Status**
-
-**Vertragsarztstempel / Unterschrift des Arztes**
-
 ## Soziotherapeutischer Betreuungsplan gem. § 37a SGB V
+
+**geb. am**
 
 #### (als Anlage zur Verordnung und zur Weiterleitung an die Krankenkasse)
 
 **IK des Leistungserbringers**
 
-**Frequenz pro Woche / Monat**
+**Datum**
 
 **Datum**
 
-**Datum** **Unterschrift des Patienten**
+**Vertragsarztstempel / Unterschrift des Arztes**
 
 **Muster 27c/E (10.2014) PRF.NR.**
 
 **27**
 
-**Zeitraum**
-
 **Unterschrift des Therapeuten**
+
+**Unterschrift des Patienten**

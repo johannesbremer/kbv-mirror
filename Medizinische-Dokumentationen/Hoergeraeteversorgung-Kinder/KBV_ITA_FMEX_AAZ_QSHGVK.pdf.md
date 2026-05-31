@@ -43,7 +43,7 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 | **Telefonnummer** |  | | |
 | **E-Mail-Adresse** |  | | |
 
-Rechtsform anzugeben] Systempfleger vom Antragssteller abweicht] [ ] [ ] [ ]
+Rechtsform anzugeben] Systempfleger vom Antragssteller abweicht]
 
 ---
 
@@ -89,7 +89,7 @@ vorhanden) des Zertifizierungsgegenstandes an.
 
 -Betriebssysteme unterstützt werden.
 
-Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ] [ ] der KBV den Anwendern rechtzeitig vor [ ] Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind. Quartalsbeginn zur Verfügung steht. -Stammdatei
+Antragsstellers Stellen der Prüfnummer, falls vorhanden] der KBV den Anwendern rechtzeitig vor Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind. Quartalsbeginn zur Verfügung steht. -Stammdatei
 
 ---
 

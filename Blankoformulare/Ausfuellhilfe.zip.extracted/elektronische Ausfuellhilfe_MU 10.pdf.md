@@ -71,7 +71,7 @@ Die Abnahmezeit ist hier einzutragen.
 
 ## 13. WEITERÜBERWEISUNG
 
-Der eine Auftragsleistung ausführende Arzt ist berechtigt, Teile dieses Auftrages, die er selbst nicht erbringen  kann, von einem anderen Arzt als Auftragsleistung erbringen zu lassen (Weiterüberweisung). Er stellt in  diesem Fall ebenfalls einen Überweisungsschein nach dem Muster 10 aus und macht die betreffenden  Angaben, insbesondere sind die Angaben des Erstveranlassers zu übernehmen und dessen Arzt - und  Betriebsstättennummer im betreffenden fett umrandeten Feld anzugeben.
+Der eine Auftragsleistung ausführende Arzt ist berechtigt, Teile dieses Auftrages, die er selbst nicht erbringen  kann, von einem anderen Arzt als Auftragsleistung erbringen zu lassen (Weiterüberweisung). Er stellt in  diesem Fall ebenfalls einen Überweisungsschein nach dem Muster 10 aus und macht die betreffenden  Angaben, insbesondere sind die Angaben des Erstveranlassers zu übernehmen und dessen Arzt- und  Betriebsstättennummer im betreffenden fett umrandeten Feld anzugeben.
 
 ## 14. EILIGE BEFUNDÜBERMITTLUNG
 

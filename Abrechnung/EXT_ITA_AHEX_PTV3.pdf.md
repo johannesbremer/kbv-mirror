@@ -2,11 +2,15 @@
 
 ### Hinweise zum Erstellen des Berichts zum Erst-, Umwandlungs- oder Fortführungsantrag
 
-***Die Therapeutin oder der Therapeut erstellt den Bericht an die Gutachterin oder den Gutachter persönlich und in freier Form nach der in diesem***  ***Formblatt vorgegebenen Gliederung und versieht ihn mit Datum und Unterschrift. Der Bericht soll auf die für das Verständnis der*** ***und deren Ursachen sowie auf die für die Behandlung relevanten Informationen begrenzt sein.***
+***Die Therapeutin oder der Therapeut erstellt den Bericht an die Gutachterin oder den Gutachter persönlich und in freier Form nach der in diesem***  ***Formblatt vorgegebenen Gliederung und versieht ihn mit Datum und Unterschrift. Der Bericht soll auf die für das Verständnis der psychischen Störung***
+
+***und deren Ursachen sowie auf die für die Behandlung relevanten Informationen begrenzt sein.***
 
 ***Die jeweiligen Unterpunkte der Gliederungspunkte des Informationsblattes sind als Hilfestellung zur Abfassung des Berichts gedacht und müssen nur***  ***bei Relevanz abgehandelt werden. Gliederungspunkte mit einem Zusatz „AP“, „ST“, „TP“ oder „VT“ sind nur bei einem Bericht für das entsprechende***  ***Psychotherapieverfahren zu berücksichtigen. Die Angaben können stichwortartig erfolgen.***
 
-***Im Rahmen einer Psychotherapie können relevante Bezugspersonen zur Erreichung eines Behandlungserfolges einbezogen werden. Angaben zur***  ***Einbeziehung von Eltern und Bezugspersonen sind insbesondere bei Kindern und Jugendlichen, bei Menschen mit geistiger Behinderung oder in der***  ***Systemischen Therapie relevant. Relevante biografische Faktoren sollen im Rahmen der Verhaltensanalyse (VT), der Psychodynamik***  ***System- und Ressourcenanalyse (ST) dargestellt werden.***
+***Im Rahmen einer Psychotherapie können relevante Bezugspersonen zur Erreichung eines Behandlungserfolges einbezogen werden. Angaben zur***  ***Einbeziehung von Eltern und Bezugspersonen sind insbesondere bei Kindern und Jugendlichen, bei Menschen mit geistiger Behinderung oder in der***  ***Systemischen Therapie relevant. Relevante biografische Faktoren sollen im Rahmen der Verhaltensanalyse (VT), der Psychodynamik (TP, AP) bzw. der***
+
+***System- und Ressourcenanalyse (ST) dargestellt werden.***
 
 ***Der Umfang des Berichts soll i.d.R. zwei Seiten umfassen.***
 
@@ -105,10 +109,6 @@ Nichterreichung der Therapieziele; ggf. auch bezüglich der begleitenden Arbeit 
 - Weitere Ergebnisse psychodiagnostischer Testverfahren
 
 ## PTV 3
-
-***psychischen Störung***
-
-***(TP, AP) bzw. der***
 
 ### gültig ab 01.07.2020
 

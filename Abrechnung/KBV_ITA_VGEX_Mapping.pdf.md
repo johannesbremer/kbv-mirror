@@ -128,11 +128,17 @@ Tabelle 5: Transformation DMP-Kennzeichen VSDM2.0 - KVDT 17
 
 Tabelle 6: Mapping VSD520 in KVDTVSD520 19
 
-Tabelle 7: Transformation BesonderePersonengruppe VSD 520 20
+Tabelle 7: Transformation BesonderePersonengruppe VSD 20
 
-Tabelle 8: Transformation DMP-Kennzeichen VSD 520 22
+520
 
-Tabelle 9: Mapping KVK in KVDT VSD520 24
+Tabelle 8: Transformation DMP-Kennzeichen VSD 22
+
+520
+
+Tabelle 9: Mapping KVK in KVDT 24
+
+VSD520
 
 Tabelle 10: Transformation DMP-Kennzeichen 24
 
@@ -295,7 +301,7 @@ Im Folgenden werden für die jeweiligen USE-CASES die relevanten Mapping-Tabelle
 | Patient.name:Name.family.ext | 0..1 | 0..20 | string |  | → | 3120 | Vorsatzwort | 0..1 | ≤ 20 | a | Anl. 6, DEÜV |
 | Patient.name:Name.family.ext | 0..1 | 0..20 | string |  | → | 3100 | Namenszusatz | 0..1 | ≤ 20 | a | Anl. 7, DEÜV |
 | Patient.name:Name.prefix.ext | 0..1 | 0..20 | string |  | → | 3104 | Titel | 0..1 | ≤ 20 | a |  |
-| Patient.gender | 0..1 | 1 | code | other |  |  |  |  |  |  |  |
+| Patient.gender | 0..1 | 1 | code | male, female, |  |  |  |  |  |  |  |
 | /Patient.gender.extension:ot | 0..1 | 1 | coding | X, D | Codierung  3 | 3110 | Geschlecht | 1..1 | 1 | a | M,W,X,D,U |
 | Patient.address:PostfachAdre | 0..1 |  |  |  |  |  |  |  |  |  |  |
 | Patient.address:PostfachAdre | 0..1 | 1..10 | string |  | → | 3121 | PostfachPLZ | 0..1 | ≤ 10 | a |  |
@@ -313,7 +319,7 @@ Im Folgenden werden für die jeweiligen USE-CASES die relevanten Mapping-Tabelle
 | 0..1 | ≤ 20 | a | Anl. 6, DEÜV | Patient.name:Name.family.ext |  | 0..1 | 0..20 | string |  | → | 3100 |
 | Namenszusatz | 0..1 | ≤ 20 | a | Anl. 7, DEÜV | Patient.name:Name.prefix.ext |  | 0..1 | | | | |
 | 0..20 | string |  | → | 3104 | Titel | 0..1 | ≤ 20 | | | | |
-| a |  | Patient.gender |  | 0..1 | 1  code  other |  |  |  |  |  |  |
+| a |  | Patient.gender |  | 0..1 | 1  code  male, female, |  |  |  |  |  |  |
 |  | /Patient.gender.extension:ot |  | 0..1 | 1 | coding  X, D  Codierung | 3 |  | 3110 | Geschlecht | 1..1 | 1 |
 | a | M,W,X,D,U | Patient.address:PostfachAdre |  | 0..1 |  |  |  |  |  |  |  |
 |  |  |  | Patient.address:PostfachAdre |  | 0..1 | 1..10 | string |  | → | 3121 | PostfachPLZ |
@@ -332,7 +338,7 @@ Im Folgenden werden für die jeweiligen USE-CASES die relevanten Mapping-Tabelle
 | a | Patient.name:Name.family.ext |  | 0..1 | 0..20 | string |  | → | 3120 | Vorsatzwort | 0..1 | ≤ 20 |
 | a  Anl. 6, DEÜV | Patient.name:Name.family.ext |  | 0..1 | 0..20 | string |  | → | 3100 | Namenszusatz | 0..1 | ≤ 20 |
 | a  Anl. 7, DEÜV | Patient.name:Name.prefix.ext |  | 0..1 | 0..20 | string |  | → | 3104 | Titel | 0..1 | ≤ 20 |
-| a |  | Patient.gender |  | 0..1 | 1 | code | other |  |  |  |  |
+| a |  | Patient.gender |  | 0..1 | 1 | code | male, female, |  |  |  |  |
 |  |  |  | /Patient.gender.extension:ot |  | 0..1 | 1 | coding | X, D | Codierung | 3 |  |
 | 3110 | Geschlecht | 1..1 | 1 | a | M,W,X,D,U | Patient.address:PostfachAdre |  | 0..1 |  |  |  |
 |  |  |  |  |  |  |  | Patient.address:PostfachAdre |  | 0..1 | 1..10 | string |
@@ -346,7 +352,7 @@ Im Folgenden werden für die jeweiligen USE-CASES die relevanten Mapping-Tabelle
 | Codierung | 2 |  | 3103 | Geburtsdatum | 1..1  8 | n | YYYYMMDD | Patient.name:Name.given |  | 1..* | 1..45 |
 | string    → | 3102 | Vorname | 1..1 | ≤ 45 | a |  | Patient.name:Name.family.ext |  | 0..1 | 1..45 | string |
 
-VSDM 2.0 Fachdienstabruf in KVDT-Referenz-Design mappen ension:nachname ension:vorsatzwort ension:namenszusatz ension:prefix-qualifier her-amtlich sse sse.postalCode sse.city sse.line.extension:Postfach sse.country Kvid10 YYYY-MM,  male, female, hen nach „|“, Ende des Values) nach Tabelle nach Tabelle VSD520
+VSDM 2.0 Fachdienstabruf in KVDT-Referenz-Design mappen ension:nachname ension:vorsatzwort ension:namenszusatz ension:prefix-qualifier her-amtlich sse sse.postalCode sse.city sse.line.extension:Postfach sse.country Kvid10 YYYY-MM,  other hen nach „|“, Ende des Values) nach Tabelle nach Tabelle VSD520
 
 ---
 
@@ -662,7 +668,7 @@ Krankenversicherungsrecht: - Personen mit Wohnsitz im Inland, Abrechnung nach Au
 | 02 | 02 | Brustkrebs |
 | 03 | 03 | Koronare Herzkrankheit |
 
--Kennzeichen im VSDM2.0 2-mal vorkommt. Kennzeichen nicht eine der unter den Berechnungsvorschriften vorgegebenen Kombinationen vorliegt.
+Kennzeichen nicht eine der unter den Berechnungsvorschriften vorgegebenen Kombinationen vorliegt. -Kennzeichen im VSDM2.0 2-mal vorkommt.
 
 ---
 
@@ -1289,7 +1295,7 @@ VSD520 & Hausnummer, ‚Postfach‘) Länge(erstes Leerzeichen v. re)  liefert g
 | Krankenkassennummer | 1..1 | 7 | n |  | concat(‚10‘, Krankenkassen | 4111 | Kostentraegerkennung | 1..1 | 9 | n |  |
 | Krankenkassenname | 1..1 | 2..28 | a |  | → | 4134 | KostentraegerName | 1..1 | ≤ 45 | a |  |
 
-RK 1)  RK 1)  RK 9)  RK 9) VSD520  RK 1)  RK 9)  RK 1)  RK 1)  RK 1)  RK 9)  RK 9)  RK 9) nummer) VSD520 VSD520 VSD520| **KVK-CODIERUNG** | **CODIERUNG GEMÄß KVDT** |
+VSD520  RK 1)  RK 1)  RK 1)  RK 9)  RK 9)  RK 9)  RK 1)  RK 1)  RK 1)  RK 9)  RK 9)  RK 9) nummer) VSD520 VSD520 VSD520| **KVK-CODIERUNG** | **CODIERUNG GEMÄß KVDT** |
 |---|---|
 | [kein Wert vorhanden] | 00 |
 | M - Diabetes mellitus Typ 2 ( | 01 |
@@ -1348,14 +1354,14 @@ Entsprechend den Anforderungen des § 291 SGB V sind die Vordrucke im Sinne der 
 
 .h. beleglesefähig, zu
 
-| **MOBILES KARTENTERMINAL** |  | **KVDT** | | | | | | | | | |
+| **MOBILES KARTENTERMINAL** |  | **KVDTVSD520** | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | **Feld** | K | L | T | Ausprägung | Transformation | FK | Name | K | L | T | Ausprägung |
 | **EF.StatusVD   (im Zwischenspeicher mobKT)** |  |  | | | | | | | | | |
 | tag ‚91‘ |  | 8 | n | TTMMJJJJ | ➔ | 4109 | Einlesedatum |  | 8 | n | JJJJMMTT |
 | tag ‚92‘ |  | 27 | a | 123xyzX.Y.Z | ➔ | 4108 | Zulassungsnummer |  | ≤ 40 | a | 123xyzX.Y.Z |
 
-West Mobiles Einsatzszenario MOBILES KARTENTERMINAL Feld EF.StatusVD  (im Zwischenspeicher mobKT) tag ‚91‘ tag ‚92‘ L 27 Datenobjekte Einlesedatum (tag ‘91‘) und Zulassungsnummer (tag ‘92‘) durch das mobile Kartenterminal an Ausprägung TTMMJJJJ 123xyzX.Y.Z Transformation VSD520 FK 4109 Name Einlesedatum VSD520 L
+West Mobiles Einsatzszenario MOBILES KARTENTERMINAL Feld L EF.StatusVD  (im Zwischenspeicher mobKT) tag ‚91‘ tag ‚92‘ 27 Datenobjekte Einlesedatum (tag ‘91‘) und Zulassungsnummer (tag ‘92‘) durch das mobile Kartenterminal an Ausprägung TTMMJJJJ 123xyzX.Y.Z VSD520 KVDTVSD520 Transformation FK Name 4109 Einlesedatum L
 
 ---
 
@@ -1387,19 +1393,17 @@ Mustermann-Müller
 
 Prof. Dr. Johann von 20.10.25
 
-Musterweg 6 D 12345 Musterhausen 12/20
+Musterweg 6
 
-Kostenträgerkennung 101234567 A123456789
+D 12345 Musterhausen 12/20
 
-Betriebsstätten-Nr.
+Kostenträgerkennung Versicherten-Nr.
 
-123456789 123456499 01.10.16
+101234567 A123456789
+
+Betriebsstätten-Nr. Arzt-Nr 123456789 123456499 01.10.16
 
 Abbildung 2: eGK-konforme Bedruckung des Personalienfelds -Ende
-
-Versicherten-Nr.
-
-Arzt-Nr
 
 geb. am
 
@@ -1426,14 +1430,14 @@ Zeichendichte: 10 Zeichen/Zoll
 \| Zeile 6: Kostentraegerkennung, Versicherten_ID, Versichertenart, BesonderePersonengruppe, DMP_Kennzeichnung, Kennzeichen Rech Zeile 7: Betriebsstättennummer/ASV | **2.3.3** |  |  |
 | Zeile 6: Kostentraegerkennung, Versicherten_ID, Versichertenart, BesonderePersonengruppe, DMP_Kennzeichnung, Kennzeichen Rech Zeile 7: Betriebsstättennummer/ASV | **2.3.3** |  |  |
 |---|---|---|---|
-| 1 | KostentraegerName | 1-24 | ab 24 kürzen 4 4 |
+| 1 | KostentraegerName | 1-24 | ab 24 kürzen4 4 |
 |  | WOP | 29-30 | rechtsbündig, 2-stellig |
 | 2 | Nachname | 1-30 | ab 30 kürzen |
 | 3 | Titel Vorname Namenszusatz Vorsatzwort | 1-21 | ab 21 kürzen |
 |  |  |  |  |
-| Name,  Vorname des Versicherten |  | Kostenträgerkennung |  |
+| Name, |  | Kostenträgerkennung |  |
 | Versicherten-Nr. | Abbildung 3: eGK-konforme Bedruckung des verkürzten Personalienfelds **ERLÄUTERUNGEN: ** Spalte 1: Nachname, Vorname  Spalte 2: Kostentraegerkennung  Spalte 3: Versicherten_ID | **2.3.4** | 2.3.4.1 Die im Folgenden dargestellten Druckvorschriften gelten unter der Annahme, dass die zu druckenden Datenobjekte unabhängig von 2.3.4.2**DRUCKZEILE** |
-|  | **FELD  POSITION  DRUCKVORSCHRIFT** | 1 | KostentraegerName  1-24  ab 24 kürzen 4 |
+|  | **FELD  POSITION  DRUCKVORSCHRIFT** | 1 | KostentraegerName  1-24  ab 24 kürzen4 |
 |  | WOP | 29-30 | rechtsbündig, 2-stellig |
 | 2 | Nachname | 1-30 | ab 30 kürzen |
 | 3 | Titel Vorname Namenszusatz Vorsatzwort | 1-21 | ab 21 kürzen |
@@ -1441,7 +1445,7 @@ Zeichendichte: 10 Zeichen/Zoll
 | 10 Zeichen/Zoll |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
-|  |  |  | Name,  Vorname des Versicherten    Kostenträgerkennung    Versicherten-Nr.    Abbildung 3: eGK-konforme Bedruckung des verkürzten Personalienfelds **ERLÄUTERUNGEN: ** Spalte 1: Nachname, Vorname  Spalte 2: Kostentraegerkennung  Spalte 3: Versicherten_ID **2.3.4** 2.3.4.1 |
+|  |  |  | Name,    Kostenträgerkennung    Versicherten-Nr.    Abbildung 3: eGK-konforme Bedruckung des verkürzten Personalienfelds **ERLÄUTERUNGEN: ** Spalte 1: Nachname, Vorname  Spalte 2: Kostentraegerkennung  Spalte 3: Versicherten_ID **2.3.4** 2.3.4.1 |
 | Die im Folgenden dargestellten Druckvorschriften gelten unter der Annahme, dass die zu druckenden Datenobjekte unabhängig von | 2.3.4.2 |  | **DRUCKZEILE** |
 |  | **FELD** |  | **POSITION** |
 |  | **DRUCKVORSCHRIFT** | 1 | KostentraegerName |
@@ -1449,10 +1453,10 @@ Zeichendichte: 10 Zeichen/Zoll
 |  |  |  |  |
 |---|---|---|---|
 
-|  | Name,  Vorname des Versicherten | Kostenträgerkennung | Versicherten-Nr. |
+|  | Name, | Kostenträgerkennung | Versicherten-Nr. |
 |---|---|---|---|
 
-123456789012345678901234 123456789              123456789012 Mustermann-Müller, Johan 101234567 A123456789 tsgrundlage -Teamnummer, Arztnummer, Tagesdatum Musterbeispiel für die Bedruckung des verkürzten Personalienfeldes Ausgangsformat für Druckvorschrift  dem eingelesenen Kartentyp bzw. VSD-Version bereits im Zielformat des KVDT vorliegen. Ggf. ist vor Anwendung der hier dargestellten Druckvorschriften daher zunächst ein Mapping, wie in den vorangegangenen Kapiteln erläutert, vorzunehmen. Druckpositionen im Personalienfeld  Anm.: nur für integrierte Druckfunktion bei Kartenterminals relevant, für Praxisverwaltungssoftware gelten besondere Anforder ungen bzgl. der Bedruckungsnamen i. V. m. dem Kostenträgerabrechnungsbereich und der Kostenträgerstammdatei
+123456789012345678901234 123456789              123456789012  Vorname des Versicherten Mustermann-Müller, Johan 101234567 A123456789 tsgrundlage -Teamnummer, Arztnummer, Tagesdatum Musterbeispiel für die Bedruckung des verkürzten Personalienfeldes Ausgangsformat für Druckvorschrift  dem eingelesenen Kartentyp bzw. VSD-Version bereits im Zielformat des KVDT vorliegen. Ggf. ist vor Anwendung der hier dargestellten Druckvorschriften daher zunächst ein Mapping, wie in den vorangegangenen Kapiteln erläutert, vorzunehmen. Druckpositionen im Personalienfeld  Anm.: nur für integrierte Druckfunktion bei Kartenterminals relevant, für Praxisverwaltungssoftware gelten besondere Anforder ungen bzgl. der Bedruckungsnamen i. V. m. dem Kostenträgerabrechnungsbereich und der Kostenträgerstammdatei
 
 ---
 
@@ -1474,13 +1478,13 @@ Zeichendichte: 10 Zeichen/Zoll
 |  | Versichertenart | 24 |  |
 |  | BesonderePersonengruppe | 25-26 | Alphanumerisch |
 | 6 | DMP_Kennzeichnung | 27-28 | Alphanumerisch |
-|  | Kennzeichen Rechtsgrundlage | 29-30 | Folgende Ausprägungen sind möglich:  ›  ›  7 7 „11“ |
+|  | Kennzeichen Rechtsgrundlage | 29-30 | Folgende Ausprägungen sind möglich:  ›  ›  7 7 |
 |  |  |  | (durch Leerzeichen getrennt)    Geburtsdatum  23-30  Format TT.MM.JJ  4  Straßenname Hausnummer  (durch Leerzeichen getrennt),**alternativ** 5  (durch Leerzeichen getrennt)  1-30  Falls Hausnummer vorhanden: |
 | Länge |  | Falls Hausnummer nicht vorhanden: | Länge |
 | 5 | Wohnsitzlaendercode Postleitzahl Ort | (durch Leerzeichen getrennt), | **alternativ:** |
 | 6 |  | 1-24 | Mit Wohnsitzlaendercode: |
 
-: „Postfach“ Postfachnummer  Items der Postfachadresse  nur zulässig, wenn keine Straßenadresse vorhanden  nur zulässig, wenn keine Straßenadresse vorhanden  Kennzeichen für Ersatzverordnungen gemäß § 29 Abs. 9 BMV -Ä  (Straßenname) = 30 - Länge(Hausnummer) Max  (Straßenname) = 30 Max  (Ort) = 24  Länge(Wohnsitzlaendercode) Max Länge(Postleitzahl)  (Ort) = 24  Länge(Postleitzahl) Max Stringverkettung(‚10‘, Kostentraegerkennung) ASV- Kennzeichen „01“ ASV-Kennzeichen mit Ersatzverordnungskennzeichen
+: „Postfach“ Postfachnummer  Items der Postfachadresse  nur zulässig, wenn keine Straßenadresse vorhanden  nur zulässig, wenn keine Straßenadresse vorhanden  Kennzeichen für Ersatzverordnungen gemäß § 29 Abs. 9 BMV -Ä  (Straßenname) = 30 - Länge(Hausnummer) Max  (Straßenname) = 30 Max  (Ort) = 24  Länge(Wohnsitzlaendercode) Max Länge(Postleitzahl)  (Ort) = 24  Länge(Postleitzahl) Max Stringverkettung(‚10‘, Kostentraegerkennung) ASV- Kennzeichen „01“ ASV-Kennzeichen mit Ersatzverordnungskennzeichen „11“
 
 ---
 
@@ -1488,14 +1492,14 @@ Zeichendichte: 10 Zeichen/Zoll
 \| **DRUCKZEILE** | **FELD** | **POSITION** | **DRUCKVORSCHRIFT** |
 | **DRUCKZEILE** | **FELD** | **POSITION** | **DRUCKVORSCHRIFT** |
 |---|---|---|---|
-| 22-29 | Format TT.MM.JJ | Tabelle 13: Druckpositionen im Personalienfeld | Kostentraegerkennung |
+| 22-29 | Format TT.MM.JJ | Tabelle 13: Druckpositionen im Personalienfeld | 2.3.4.3 Kostentraegerkennung |
 | **DRUCKZEILE** |  | **FELD** |  |
 | **POSITION** |  | **DRUCKVORSCHRIFT** | 1 |
 | Nachname Vorname (durch Komma und | 1-n | linksbündig, ab Position n kürzen (n ist musterspezifisch) | 2 |
 |  |  |  | › |
 |  | › |  | › |
 |  | ›  ›  › | › | 7  Betriebsstättennummer  1-9  linksbündig, numerisch |
-|  | Lebenslange Arztnummer  11-19  linksbündig, numerisch    Tagesdatum | 22-29 | Format TT.MM.JJ  Tabelle 13: Druckpositionen im Personalienfeld |
+|  | Lebenslange Arztnummer  11-19  linksbündig, numerisch    Tagesdatum | 22-29 | Format TT.MM.JJ  Tabelle 13: Druckpositionen im Personalienfeld    2.3.4.3 |
 | **DRUCKZEILE** |  | **FELD** |  |
 | **POSITION** |  | **DRUCKVORSCHRIFT** | 1 |
 | Nachname Vorname (durch Komma und | 1-n | linksbündig, ab Position n kürzen (n ist musterspezifisch) | 2 |
@@ -1508,7 +1512,7 @@ Zeichendichte: 10 Zeichen/Zoll
 |  | Lebenslange Arztnummer | 11-19 | linksbündig, numerisch |
 |  | Tagesdatum | 22-29 | Format TT.MM.JJ |
 
-2.3.4.3 Leerzeichen getrennt) TSS- Kennzeichen „07“ TSS-Kennzeichen mit Ersatzverordnungskennzeichen „17“ Entlassmanagement- Kennzeichen „04“ Entlassmanagement-Kennzeichen mit Ersatzverordnungskennzeichen „14“ Kennzeichen tagesstationäre Behandlung „06“ nur Ersatzverordnungskennzeichen „10“ ohne Ersatzverordnungskennzeichen „00“ Stringverkettung(‚10‘, Kostentraegerkennung)| **DRUCKZEILE** | **FELD** | **POSITION** | **DRUCKVORSCHRIFT** |
+Leerzeichen getrennt) TSS- Kennzeichen „07“ TSS-Kennzeichen mit Ersatzverordnungskennzeichen „17“ Entlassmanagement- Kennzeichen „04“ Entlassmanagement-Kennzeichen mit Ersatzverordnungskennzeichen „14“ Kennzeichen tagesstationäre Behandlung „06“ nur Ersatzverordnungskennzeichen „10“ ohne Ersatzverordnungskennzeichen „00“ Stringverkettung(‚10‘, Kostentraegerkennung)| **DRUCKZEILE** | **FELD** | **POSITION** | **DRUCKVORSCHRIFT** |
 |---|---|---|---|
 | 1 | Nachname Vorname (durch Komma und | 1-n | linksbündig, ab Position n kürzen (n ist musterspezifisch) |
 | 2 | Kostentraegerkennung | 1-9 | linksbündig, wenn Länge(Kostentraegerkennung) < 9 |
@@ -1532,7 +1536,7 @@ Zeichendichte: 10 Zeichen/Zoll
 
 Tabelle 15: Prüfungsnachweis VSDM 2.0 in KVDT -Referenz-Design mappen
 
-VSDM2.0 VSDM-Instanz  Bundle.meta.profile) nach „|“, Ende des Values) FHIR-Response (Timestamp) Aktualisierung aktualisierung Wert „1“ –  bei HTTP 200 OK mit FHIR-Bundle und gültigem VSDM- Pz-Header Wert „2“ –  bei HTTP 304 Not Modified mit gültigen VSDM Pz- Wert „3“ –  bei serverseitigem Fehler des Fachdienstes oder bei Verarbeitungsfehler im Clientsystem (z.B. ungültiges FHIR- Bundle, fehlender VSDM-Pz- Header), sofern PoPP-Token erfolgreich erlangt wurde Wert „4“ –  wenn die PoPP-Token- Anforderung wegen ungültiger oder gesperrter eGK fehlschlägt (Fehler des PoPP-Service mit entsprechender Fehlerursache) Wert „5“ –  bei Verbindungsfehler (Netzwerk, TLS, ZETA/ASL, DNS, Timeout). 128
+VSDM-Instanz  Bundle.meta.profile) FHIR-Response VSDM2.0 nach „|“, Ende des Values) Aktualisierung (Timestamp) aktualisierung Wert „1“ –  bei HTTP 200 OK mit FHIR-Bundle und gültigem VSDM- Pz-Header Wert „2“ –  bei HTTP 304 Not Modified mit gültigen VSDM Pz- Wert „3“ –  bei serverseitigem Fehler des Fachdienstes oder bei Verarbeitungsfehler im Clientsystem (z.B. ungültiges FHIR- Bundle, fehlender VSDM-Pz- Header), sofern PoPP-Token erfolgreich erlangt wurde Wert „4“ –  wenn die PoPP-Token- Anforderung wegen ungültiger oder gesperrter eGK fehlschlägt (Fehler des PoPP-Service mit entsprechender Fehlerursache) Wert „5“ –  bei Verbindungsfehler (Netzwerk, TLS, ZETA/ASL, DNS, Timeout). 128
 
 ---
 

@@ -174,7 +174,21 @@ Tabelle 48: Referenzierte Instanzen KBV_PR_ERP_PracticeSupply Tabelle 49: Mappin
 
 15  15  15  15  16
 
-16  16  16  17  17  17  17  17  17  18  18  18  18  18  24  26  28  29  35  36  38  39  40  41  42
+16  16  16  17  17  17  17  17  17  18  18  18  18 18  24
+
+26
+
+28
+
+29  35
+
+36
+
+38
+
+39  40
+
+41  42
 
 
 ---
@@ -198,42 +212,72 @@ Tabelle 58: Auflistung der abzubildenden Felder für das ERP 50  50  51  53  55 
 
 Die Änderungen der zur Kommentierung gestellten Version 1.72 in hellblau und der Version 1.73 in pink hervorgehoben. Die Die Änderungen der Versionen  1.70 und 1.71 sowie 1.72 treten zum 01.07.2026 in Kraft.
 
-| **Version** | **Datum** |
-|---|---|
-| 1.73 | 15.04.2026 |
-| 1.72 | 09.02.2026 |
-| 1.71 | 06.11.2025 |
+**Version Datum**
+
+1.73 15.04.2026
+
+1.72
+
+|  |  | Versionsnummer der FHIR-Profile | BugFix-Release |
+|---|---|---|---|
+|  |  |  | (aufgrund Anpassung |
+|  |  |  | in FOR-Profilen) |
+|  |  | Anpassung der Bedingung der KZV- |  |
+|  |  | Abrechnungsnummer (Feld 61c) |  |
+|  |  | Anpassung des |  |
+|  |  |  | 63,eVerordnungs- |
+|  |  | Patientenausdruckes |  |
+|  |  |  | 64,übergreifende |
+|  |  |  | 66,Vereinheitlichungen |
+| 06.11.2025 | KBV | Rückgängigmachen der Definition | Aufgrund der |
+|  |  | von FHIR®-Ressourcen zu | Rückmeldung in der |
+|  |  | strukturierten Dosierangaben | Kommentierung |
+|  |  | (Profile, Extensions, CodeSystems, | verantwortet die HL7® |
+|  |  | ValueSets, …) sowie der | die FHIR®- |
+|  |  | Ausgabevorschriften; Nutzung der | Definitionen zu |
+|  |  | FHIR-Ressourcen sowie des | strukturierten |
+|  |  | Textgenerierungsalgorithmus der | Dosieranweisungen |
+|  |  | HL7 Deutschland. Streichung der | sowie den |
+|  |  | Längenangaben zu den Feldern der | Algorithmus zur |
+|  |  | strukturierten Dosieranweisungen. | Textgenerierung |
+|  |  | derEinführungeinerPatienten-ID | Rückmeldung in |
+|  |  |  | Kommentierung |
 
 Version 1.70 sind in gelb, der Version 1.71 in grün, der
 
 **Autor Änderung**
 
-KBV Anpassung der Übergangsregelung Anpassung der Vorgaben für den  Patientenausdruck  Klarstellung zur Version der  Referenzimplementierung  zur Erzeugung eines  menschenlesbaren  Dosierungstextes
-
-Anpassung der FHIR-Version der  eRezept-Profile
-
-KBV Aktualisierung der  Versionsnummer der FHIR-Profile    Anpassung der Bedingung der KZV- Abrechnungsnummer (Feld 61c)   Anpassung des  Patientenausdruckes
-
-KBV Rückgängigmachen der Definition  von FHIR®-Ressourcen zu  strukturierten Dosierangaben  (Profile, Extensions, CodeSystems,  ValueSets, …) sowie der  Ausgabevorschriften; Nutzung der  FHIR-Ressourcen sowie des  Textgenerierungsalgorithmus der  HL7 Deutschland. Streichung der  Längenangaben zu den Feldern der  strukturierten Dosieranweisungen.
-
-Einführung einer Patienten-ID
-
 **Begründung**
-
-Bugfix-Release des  Medication IG DE
-
-Bereitstellung eines  BugFix-Release  (aufgrund Anpassung  in FOR-Profilen)      eVerordnungs- übergreifende  Vereinheitlichungen
-
-Aufgrund der  Rückmeldung in der  Kommentierung  verantwortet die HL7®  die FHIR®- Definitionen zu  strukturierten  Dosieranweisungen  sowie den  Algorithmus zur  Textgenerierung   Rückmeldung in der  Kommentierung
 
 **Seite**
 
-20  69, 71,  73, 74  21, 117      10, 13,  20, 117
+KBV Anpassung der Übergangsregelung 20
 
-10, 13,  20    96    63, 63,  64, 64,  65, 66,  67, 69,  71, 73,  74, 77,  78, 117
+Anpassung der Vorgaben für den 69, 71,
+
+Patientenausdruck 73, 74
+
+Klarstellung zur Version der 21, 117
+
+Referenzimplementierung
+
+zur Erzeugung eines
+
+menschenlesbaren
+
+Dosierungstextes
+
+Bugfix-Release des 10, 13,
+
+Anpassung der FHIR-Version der  Medication IG DE 20, 117
+
+eRezept-Profile 10, 13,  20    96
+
+67, 69,  71, 73,  74, 77,  78, 117 1.71
 
 11ff, 15,  17, 20ff,  31, 42,  47ff,  107,  110 15, 105
 
+09.02.2026 Aktualisierung der Bereitstellung eines 63, 63, 64, 64, 65, 66, Einführung einer Patienten-ID
 
 ---
 
@@ -243,45 +287,112 @@ Aufgrund der  Rückmeldung in der  Kommentierung  verantwortet die HL7®  die FH
 |---|---|---|---|
 | 06.11.2025 | KBV | Streichung ValueSet und | Abbildung der Werte |
 
+**Seite**
+
 1.71
+
+19
 
 |  |  | CodeSystem Narcotic Label | über Schlüsseltabelle |
 |---|---|---|---|
 |  |  | Einführung eines eMP-Identifiers | Referenzierung |
-|  |  |  | zwischen E-Rezept |
-|  |  |  | und eMP |
+|  |  |  | 36,zwischenE-Rezept |
+|  |  |  | 99undeMP |
 | 06.11.2025 | KBV | Glattziehen von Bedingungen zum | Korrektur |
 
 1.71
 
-Angleichen des FHIR-Mappings von  Dosieranweisung und  Gebrauchsanweisung bei  Rezepturverordnung   Ergänzung von default-Werten bei  Feldern zum T-Rezept   Aufnahme einer Bedingung zur  Verknüpfung der Felder SER und  Zuzahlungsstatus   Korrektur der Bedingung zum Typ  der ausstellenden /  verschreibenden Person (Zahnarzt  und Hebamme dürfen kein T- Rezept ausstellen. Hebamme darf  kein BtM-Rezept ausstellen).   Aufnahme der Bedingung, dass bei  der Verordnung einer Rezeptur das  Kennzeichen Dosierung nicht  "false" sein darf.   Erweiterung der Anforderung P36- 21 um eine Vorgabe zum Element  meta.versionId
-
-1.70 17.06.2025 KBV Aktualisierung der FHIR-Profile auf  Version 1.4.0   Ermöglichung der Verordnung von  Betäubungsmitteln (BtM) und T- Arzneimitteln nach § 3a Abs. 1  AMVV (T-Rezepte)    Einführung strukturierter  Dosierungsanweisungen
-
-Angleichen an die  Spezifikation der  gematik  Rückmeldung in der  Kommentierung    Rückmeldung in der  Kommentierung       Rückmeldung in der  Kommentierung     Ermöglichung der  Versionierung von E- Rezepten
-
-Abbildung der  Änderungen   Erweiterung des  Funktionsumfangs des  E-Rezepts     Im Rahmen der  Weiterentwicklung  überarbeitet
-
-**Seite**
-
-19
-
-29, 36,  99
-
 29, 30
 
-62
+Angleichen des FHIR-Mappings von
 
-83
+Dosieranweisung und
 
-88
+Gebrauchsanweisung bei
 
-107
+Rezepturverordnung 62
 
-22
+Ergänzung von default-Werten bei Angleichen an die
 
-10ff    7, 13,  16, 29,  37, 49,  61, 69,  71, 73,  74, 79
+Feldern zum T-Rezept
 
+Spezifikation der
+
+gematik
+
+Aufnahme einer Bedingung zur Rückmeldung in der 83
+
+Verknüpfung der Felder SER und Kommentierung
+
+Zuzahlungsstatus
+
+Korrektur der Bedingung zum Typ Rückmeldung in der 88
+
+der ausstellenden /
+
+Kommentierung
+
+verschreibenden Person (Zahnarzt
+
+und Hebamme dürfen kein T-
+
+Rezept ausstellen. Hebamme darf
+
+kein BtM-Rezept ausstellen).
+
+Aufnahme der Bedingung, dass bei Rückmeldung in der 107
+
+der Verordnung einer Rezeptur das Kommentierung
+
+Kennzeichen Dosierung nicht
+
+"false" sein darf.
+
+Erweiterung der Anforderung P36- Ermöglichung der  22
+
+21 um eine Vorgabe zum Element Versionierung von E-
+
+meta.versionId
+
+Rezepten
+
+1.70 17.06.2025 KBV Aktualisierung der FHIR-Profile auf Abbildung der 10ff
+
+Version 1.4.0
+
+Änderungen
+
+Erweiterung des
+
+Ermöglichung der Verordnung von 7, 13,
+
+Funktionsumfangs des
+
+Betäubungsmitteln (BtM) und T-
+
+16, 29,
+
+E-Rezepts
+
+Arzneimitteln nach § 3a Abs. 1 37, 49,
+
+AMVV (T-Rezepte) 61, 69,
+
+71, 73,
+
+74, 79
+
+Im Rahmen der
+
+Einführung strukturierter
+
+Weiterentwicklung
+
+Dosierungsanweisungen
+
+überarbeitet
+
+29, 36, zwischen E-Rezept und eMP
 
 ---
 
@@ -602,6 +713,24 @@ FHIR®-Ressource
 
 Definition
 
+[https://fhir.kbv.de/StructureDefinition/](https://fhir.kbv.de/StructureDefinition/)KBV_PR_ERP_Medication_FreeText
+
+[http://hl7.org/fhir/StructureDefinition/Medication](http://hl7.org/fhir/StructureDefinition/Medication)
+
+Rezeptierdaten als Freitext 1.3.2 1.4.0 1.4.1 1.4.2
+
+[https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Dosage_FreeText](https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Dosage_FreeText)
+
+[http://hl7.org/fhir/StructureDefinition/Dosage](http://hl7.org/fhir/StructureDefinition/Dosage)
+
+Dosieranweisung als Freitext 1.4.0
+
+[https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Dosage_DailyFourScheme](https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Dosage_DailyFourScheme)
+
+[http://hl7.org/fhir/StructureDefinition/Dosage](http://hl7.org/fhir/StructureDefinition/Dosage)
+
+Strukturierte Dosieranweisung für die tägliche Anwendung mit Tageszeitbezug  (Vierer-Schema)
+
 Version
 
 **Tabelle 10: KBV_PR_ERP_Dosage_DailyFourScheme**
@@ -626,33 +755,7 @@ FHIR®-Ressource
 
 Definition
 
-Version
-
-**Tabelle 12: KBV_PR_ERP_Dosage_Interval**
-
-**KBV_PR_ERP_DOSAGE_WEEKDAY**
-
-Kanonische URL
-
-FHIR®-Ressource
-
-[https://fhir.kbv.de/StructureDefinition/](https://fhir.kbv.de/StructureDefinition/)KBV_PR_ERP_Medication_FreeText
-
-[http://hl7.org/fhir/StructureDefinition/Medication](http://hl7.org/fhir/StructureDefinition/Medication)
-
-Rezeptierdaten als Freitext 1.3.2 1.4.0 1.4.1 1.4.2
-
-[https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Dosage_FreeText](https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Dosage_FreeText)
-
-[http://hl7.org/fhir/StructureDefinition/Dosage](http://hl7.org/fhir/StructureDefinition/Dosage)
-
-Dosieranweisung als Freitext 1.4.0
-
-[https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Dosage_DailyFourScheme](https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Dosage_DailyFourScheme)
-
-[http://hl7.org/fhir/StructureDefinition/Dosage](http://hl7.org/fhir/StructureDefinition/Dosage)
-
-Strukturierte Dosieranweisung für die tägliche Anwendung mit Tageszeitbezug  (Vierer-Schema) 1.4.0
+Version 1.4.0
 
 [https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Dosage_DailyTime](https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Dosage_DailyTime)
 
@@ -666,84 +769,80 @@ Strukturierte Dosieranweisung für die tägliche Anwendung mit Uhrzeitbezug 1.4.
 
 Strukturierte Dosieranweisung für die Anwendung in wiederkehrendem Zeitintervall 1.4.0
 
-[https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Dosage_Weekday](https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Dosage_Weekday)
+**Tabelle 12: KBV_PR_ERP_Dosage_Interval**
 
-[http://hl7.org/fhir/StructureDefinition/Dosage](http://hl7.org/fhir/StructureDefinition/Dosage)
+**KBV_PR_ERP_DOSAGE_WEEKDAY**
+
+Kanonische URL [https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Dosage_Weekday](https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Dosage_Weekday)
+
+FHIR®-Ressource [http://hl7.org/fhir/StructureDefinition/Dosage](http://hl7.org/fhir/StructureDefinition/Dosage)
 
 
 ---
 
 Definition
 
-Version
+Strukturierte Dosieranweisung für die Anwendung mit Wochentagbezug
+
+Version 1.4.0
 
 **Tabelle 13: KBV_PR_ERP_Dosage_Weekday**
 
 **3.4** **SPEZIFISCHE ERP-EXTENSIONS**
 
-Mit den folgenden Extensions wurden notwendige Erweiterungen in den FHIR®
+Mit den folgenden Extensions wurden notwendige Erweiterungen in den FHIR®-Ressourcen vorgenommen.
 
 **KBV_EX_ERP_EMERGENCYSERVICESFEE**
 
-Kanonische URL
+Kanonische URL [https://fhir.kbv.de/StructureDefinition/](https://fhir.kbv.de/StructureDefinition/)KBV_EX_ERP_EmergencyServicesFee
 
 Definition
 
-Version
+Kennzeichnung, ob diese Verordnung auch während der allgemeinen  Ladenschlusszeiten beliefert werden soll, verbunden mit der Erhebung der  Notdienstgebühr („noctu“) zu Lasten der Krankenkasse gemäß
 
-erweitert FHIR®- Ressource
+Arzneimittelpreisverordnung
+
+Version 1.3.2 1.4.0 1.4.1 1.4.2
+
+erweitert FHIR®- MedicationRequest
+
+Ressource
 
 **Tabelle 14: KBV_EX_ERP_EmergencyServicesFee**
 
 **KBV_EX_ERP_DOSAGEFLAG**
 
-Kanonische URL
+Kanonische URL [https://fhir.kbv.de/StructureDefinition/](https://fhir.kbv.de/StructureDefinition/)KBV_EX_ERP_DosageFlag
 
 Definition
 
-Version
+Kennzeichnung, ob eine Dosierung in der Verordnung angegeben ist
 
-erweitert FHIR®- Ressource
+Version 1.3.2 1.4.0 1.4.1 1.4.2
+
+erweitert FHIR®- MedicationRequest.dosageInstruction
+
+Ressource
 
 **Tabelle 15: KBV_EX_ERP_DosageFlag**
 
 **KBV_EX_ERP_PRACTICESUPPLY_PAYOR**
 
-Kanonische URL
+Kanonische URL [https://fhir.kbv.de/StructureDefinition/](https://fhir.kbv.de/StructureDefinition/)KBV_EX_ERP_PracticeSupply_Payor
 
 Definition
 
-Version
-
-erweitert FHIR®- Ressource
-
-**Tabelle 16: KBV_EX_ERP_PracticeSupply_Payor**
-
-Strukturierte Dosieranweisung für die Anwendung mit Wochentagbezug 1.4.0
-
--Ressourcen vorgenommen.
-
-[https://fhir.kbv.de/StructureDefinition/](https://fhir.kbv.de/StructureDefinition/)KBV_EX_ERP_EmergencyServicesFee
-
-Kennzeichnung, ob diese Verordnung auch während der allgemeinen  Ladenschlusszeiten beliefert werden soll, verbunden mit der Erhebung der  Notdienstgebühr („noctu“) zu Lasten der Krankenkasse gemäß
-
-Arzneimittelpreisverordnung 1.3.2 1.4.0 1.4.1 1.4.2
-
-MedicationRequest
-
-[https://fhir.kbv.de/StructureDefinition/](https://fhir.kbv.de/StructureDefinition/)KBV_EX_ERP_DosageFlag
-
-Kennzeichnung, ob eine Dosierung in der Verordnung angegeben ist 1.3.2 1.4.0 1.4.1 1.4.2
-
-MedicationRequest.dosageInstruction
-
-[https://fhir.kbv.de/StructureDefinition/](https://fhir.kbv.de/StructureDefinition/)KBV_EX_ERP_PracticeSupply_Payor
-
 Abbildung der Informationen über den zuständigen Kostenträger für die Verordnung
 
-des Sprechstundenbedarfs / Praxisbedarfs 1.3.2 1.4.0 1.4.1 1.4.2
+des Sprechstundenbedarfs / Praxisbedarfs
 
-SupplyRequest
+Version 1.3.2 1.4.0 1.4.1 1.4.2
+
+erweitert FHIR®- SupplyRequest
+
+Ressource
+
+**Tabelle 16: KBV_EX_ERP_PracticeSupply_Payor**
 
 
 ---
@@ -956,8 +1055,6 @@ Version
 
 erweitert FHIR®- Ressource
 
-**Tabelle 26: KBV_EX_ERP_Patient_ID**
-
 [https://fhir.kbv.de/StructureDefinition/KBV_EX_ERP_Patient_ID](https://fhir.kbv.de/StructureDefinition/KBV_EX_ERP_Patient_ID)
 
 Abbildung der Patienten-ID, welche bei der Verordnung bestimmter  (bspw. Fabhalta®, Aspaveli®, Zilbrysg®) angegeben werden kann.
@@ -966,23 +1063,21 @@ Abbildung der Patienten-ID, welche bei der Verordnung bestimmter  (bspw. Fabhalt
 
 MedicationRequest
 
-Arzneimittel
+**Tabelle 26: KBV_EX_ERP_Patient_ID**
 
 **KBV_EX_ERP_NARCOTIC**
 
-Kanonische URL
+Kanonische URL [https://fhir.kbv.de/StructureDefinition/KBV_EX_ERP_Narcotic](https://fhir.kbv.de/StructureDefinition/KBV_EX_ERP_Narcotic)
 
 Definition
 
-Version
+Abbildung der Informationen im Rahmen einer Betäubungsmittel
 
-erweitert FHIR®- Ressource
+Version 1.4.0 1.4.1 1.4.2
 
-[https://fhir.kbv.de/StructureDefinition/KBV_EX_ERP_Narcotic](https://fhir.kbv.de/StructureDefinition/KBV_EX_ERP_Narcotic)
+erweitert FHIR®- MedicationRequest, SupplyRequest
 
-Abbildung der Informationen im Rahmen einer Betäubungsmittel 1.4.0 1.4.1 1.4.2
-
-MedicationRequest, SupplyRequest
+Ressource
 
 **Tabelle 27: KBV_EX_ERP_Narcotic**
 
@@ -1030,7 +1125,9 @@ einem bestimmten Kontext verwendet werden können.
 
 **KBV_CS_ERP_MEDICATION_CATEGORY**
 
-Kanonische URL [https://fhir.kbv.de/CodeSystem/KBV_CS_ERP_Medication_Category](https://fhir.kbv.de/CodeSystem/KBV_CS_ERP_Medication_Category) -Verordnung (BtM)
+Kanonische URL [https://fhir.kbv.de/CodeSystem/KBV_CS_ERP_Medication_Category](https://fhir.kbv.de/CodeSystem/KBV_CS_ERP_Medication_Category)
+
+Arzneimittel -Verordnung (BtM)
 
 der Verordnung von teratogenen . ValueSets hingegen
 
@@ -1418,9 +1515,11 @@ In diesem Profil werden die Rezeptierdaten einer Verordnung aus  nach § 131 SGB
 
 **Daten**
 
-Kategorie
+**ID gemäß**
 
-**ID gemäß**  **Tabelle 58**
+**Tabelle 58**
+
+Kategorie
 
 Impfstoff
 
@@ -1442,23 +1541,7 @@ Wirkstärke
 
 Zahlenwert der
 
-Wirkstoffmenge 81
-
-84
-
-115
-
-116
-
-103
-
-157
-
-158
-
-159
-
-159a
+Wirkstoffmenge
 
 , die direkt oder indirekt (über Referenzen in
 
@@ -1468,48 +1551,60 @@ Kapitel 7 auf das Profil KBV_PR_ERP_Medication_PZN muss wie
 
 **FHIR®-Mapping**
 
-Medication.extension:Arzneim ittelkategorie.value[x]:valueCo ding.code
-
-Medication.extension:Impfstof f.value[x]:valueBoolean
-
-Medication.code.coding:pznCo de.code
-
-Medication.code.text
-
-Medication.form.coding:kbvDa rreichungsform.code
-
-Medication.ingredient.item[x]:
-
-itemCodeableConcept.coding: askCode.code
-
-Medication.ingredient.item[x]: itemCodeableConcept.text
-
-Medication.ingredient.strengt h.numerator.value
-
 **Bedingung**
 
 **(Feldnr. = IDs gemäß Tabelle 58)**
+
+81 Medication.extension:Arzneim
+
+ittelkategorie.value[x]:valueCo ding.code
+
+84 Medication.extension:Impfstof
+
+f.value[x]:valueBoolean
+
+115 Medication.code.coding:pznCo
+
+de.code 116 Medication.code.text
+
+103 Medication.form.coding:kbvDa
+
+rreichungsform.code
+
+157 Medication.ingredient.item[x]:
+
+itemCodeableConcept.coding: askCode.code
+
+158 Medication.ingredient.item[x]:
+
+itemCodeableConcept.text 159
+
+159a Medication.ingredient.strengt
+
+h.numerator.value
 
 
 ---
 
 **KBV_PR_ERP_MEDICATION_PZN**
 
-Einheit der  Wirkstoffmenge
+Einheit der 159b
 
-Zahlenwert der  Bezugsmenge
+Wirkstoffmenge
 
-Einheit der  Bezugsmenge
+Zahlenwert der 159c
+
+Bezugsmenge
+
+Einheit der 159d
+
+Bezugsmenge
 
 Packungsgröße
 
-Packungsgröße nach  abgeteilter Menge 159b
+Packungsgröße nach 111
 
-159c
-
-159d
-
-111
+abgeteilter Menge
 
 Einheit
 
@@ -1574,7 +1669,9 @@ In diesem Profil werden die Rezeptierdaten einer Wirkstoffverordnung abgebildet.
 
 **Daten**
 
-**ID gemäß**  **Tabelle 58**
+**ID gemäß**
+
+**Tabelle 58**
 
 Kategorie 81
 
@@ -1584,15 +1681,11 @@ Rezeptierdaten
 
 Wirkstoffverordnung
 
-Wirkstoffnummer
+Wirkstoffnummer 118
 
-Wirkstoffname
+Wirkstoffname 119
 
-Wirkstärke 118
-
-119
-
-120
+Wirkstärke 120
 
 -Verordnungen sind der Pflichtfunktion
 
@@ -1616,13 +1709,11 @@ itemCodeableConcept.coding: askCode.code
 
 Medication.ingredient.item[x]:
 
-itemCodeableConcept.text
+itemCodeableConcept.text -110
 
 diese zu übertragen.
 
 -Tabletten), sind die Felder  -absent- -absent-
-
--110
 
 P36-41
 
@@ -1736,17 +1827,15 @@ Impfstoff 84
 
 Rezeptierdaten Rezeptur
 
-Rezepturname
+Rezepturname 123
 
-Gesamtmenge der  Rezeptur
+Gesamtmenge der 124
 
-Einheit der
+Rezeptur
 
-Gesamtmenge 123
+Einheit der 125
 
-124
-
-125
+Gesamtmenge
 
 P2-110
 
@@ -1973,7 +2062,9 @@ Anzahl der verordneten  Packungen
 
 eMP-Identifier
 
-**ID gemäß**  **Tabelle 58**
+**ID gemäß**
+
+**Tabelle 58**
 
 80
 
@@ -2076,37 +2167,33 @@ Kennzeichen Dosierung Dosieranweisung / Freitext / strukturiert Freitext / struk
 
 **KBV_PR_ERP_PRESCRIPTION**
 
-Metadaten zum  Algorithmus der  Textgenerierung
+Metadaten zum 187
+
+Algorithmus der  Textgenerierung
 
 Unfallinformationen
 
-Unfallkennzeichen
+Unfallkennzeichen 73
 
-Unfalltag
+Unfalltag 74
 
-Name des
+Name des 75
 
 Unfallbetriebs
 
 Mehrfachverordnung
 
-Kennzeichen  Mehrfachverordnung
+Kennzeichen 87
 
-ID  Mehrfachverordnung
+Mehrfachverordnung
 
-Zähler  Mehrfachverordnung 187
+ID 145
 
-73
+Mehrfachverordnung
 
-74
+Zähler 88
 
-75
-
-87
-
-145
-
-88
+Mehrfachverordnung
 
 MedicationRequest.
 
@@ -2244,9 +2331,7 @@ Einheit der Reichdauer des  Substitutionsmittels 162
 
 163
 
-164
-
-MedicationRequest.dispenseRe quest.expectedSupplyDuration.v alue
+MedicationRequest.dispenseRe quest.expectedSupplyDuration.v alue 164
 
 MedicationRequest.dispenseRe quest.expectedSupplyDuration. unit
 
@@ -2506,9 +2591,11 @@ Kostenträgertyp
 
 IK der zuständigen  Krankenkasse
 
-Name des
+Name des  Kostenträgers
 
-**ID gemäß**  **Tabelle 58**
+**ID gemäß**
+
+**Tabelle 58**
 
 80
 
@@ -2519,8 +2606,6 @@ Name des
 9
 
 11
-
-Kostenträgers
 
 BtM-Angaben 160
 
@@ -2639,15 +2724,15 @@ Instanz gemäß K36-23   P36-31 ist zu berücksichtigen
 
 Instanz gemäß P4-01 aus  [KBV_ITA_VGEX_Technisches_Hand buch_DiMus]
 
+ERP-
+
 enthalten.
+
+O36-27
 
 Die Information über die
 
 / Praxisbedarf verordnet wird, erfolgt
-
-ERP-
-
-O36-27
 
 
 ---
@@ -2678,25 +2763,21 @@ KBV_PR_ERP_Prescription
 
 KBV_PR_ERP_PracticeSupp ly
 
-**IDs gemäß**  **Tabelle 58**
+**IDs gemäß FHIR®-Mapping**
+
+**Tabelle 58**
 
 2
-
-4
-
-17
-
-139
-
-**FHIR®-Mapping**
 
 Composition.type.coding.code =
 
 „e16A“
 
-Composition.author:Pruefnumm er.identifier
+4
 
-Composition.extension:Rechtsgr undlage.value[x]:valueCoding
+Composition.author:Pruefnumm er.identifier 17
+
+Composition.extension:Rechtsgr undlage.value[x]:valueCoding 139
 
 Composition.extension:PKV- Tarif.value[x]:valueCoding
 
@@ -3392,59 +3473,39 @@ Dosieranweisung /  Gebrauchsanweisung  Freitext
 
 **P36-44** Verwendung des Profils KBV_PR_ERP_Dosage_DailyFourScheme 176
 
-177
+Dosage.timing.repeat.bounds[x]:boundsDuration.value 177
 
-178
+Dosage.timing.repeat.bounds[x]:boundsDuration.unit 178
 
-179
+Dosage.timing.repeat.frequency 179
 
-180
+Dosage.timing.repeat.period 180
 
-181
+Dosage.timing.repeat.periodUnit 181
 
-182
+Dosage.timing.repeat.dayOfWeek 182
 
-183
+Dosage.timing.repeat.timeOfDay 183
 
-184
+Dosage.timing.repeat.when 184
 
-185
-
-**ID gemäß**  **Tabelle**  **58**
-
-174
-
-108
-
-Dosage.timing.repeat.bounds[x]:boundsDuration.value
-
-Dosage.timing.repeat.bounds[x]:boundsDuration.unit
-
-Dosage.timing.repeat.frequency
-
-Dosage.timing.repeat.period
-
-Dosage.timing.repeat.periodUnit
-
-Dosage.timing.repeat.dayOfWeek
-
-Dosage.timing.repeat.timeOfDay
-
-Dosage.timing.repeat.when
-
-Dosage.doseAndRate.dose[x]:doseQuantity.value
+Dosage.doseAndRate.dose[x]:doseQuantity.value 185
 
 Dosage.doseAndRate.dose[x]:doseQuantity.unit
 
+im Kontext des Elements
+
 Kapitel 7 auf das Profil KBV_PR_ERP_Dosage_FreeText
 
-**FHIR®-Mapping**
+**ID gemäß FHIR®-Mapping**
 
-Dosage.extension:DosieranweisungKategorie.value[x]:val ueCoding
+**Tabelle**  **58**
+
+174
+
+Dosage.extension:DosieranweisungKategorie.value[x]:val ueCoding 108
 
 Dosage.text
-
-im Kontext des Elements
 
 für Rezepturen
 
@@ -3527,11 +3588,9 @@ den Wert für das Feld „Häufigkeit der Anwendung pro Zeitangabe“ (ID
 
 den Wert für das Feld „Wert der Zeitangabe“ (ID
 
-mittags  abends
+mittags  abends  nachts“.
 
 Kapitel 7 auf das Profil KBV_PR_ERP_Dosage_DailyFourScheme
-
-nachts“.
 
 **FHIR®-Mapping**
 
@@ -3663,35 +3722,35 @@ In diesem Profil wird die strukturierte Dosieranweisung bzw. Gebrauchsanweisung 
 
 **ID gemäß**  **Tabelle**
 
-Dosieranweisung /  Gebrauchsanweis ung Kategorie
-
-Wert der Dauer  der  Dosieranweisung
-
 **58**
 
-174
+Dosieranweisung / 174
 
-176
+Gebrauchsanweis ung Kategorie
 
-Einheit der Dauer  der  Dosieranweisung
+Wert der Dauer 176
 
-Uhrzeit der  Anwendung
+der  Dosieranweisung
 
-Wert der Menge  pro Anwendung
+Einheit der Dauer 177
 
-Einheit der Menge  pro Anwendung
+der  Dosieranweisung
+
+Uhrzeit der 182
+
+Anwendung
+
+Wert der Menge 184
+
+pro Anwendung
+
+Einheit der Menge 185
+
+pro Anwendung
 
 **Tabelle 55: Mapping KBV_PR_ERP_Dosage_DailyTime**
 
 2. Die Software muss es ermöglichen, alle unter Akzeptanzkriterium (1) aufgeführten Datenfelder zu  befüllen.
-
-177
-
-182
-
-184
-
-185
 
 für 7 Tage“
 
@@ -3817,15 +3876,15 @@ Einheit der Dauer 177
 
 der  Dosieranweisung
 
-Häufigkeit der  Anwendung pro  Zeitangabe
+Häufigkeit der 178
 
-Wert der  Zeitangabe
+Anwendung pro  Zeitangabe
 
-Einheit der 178
+Wert der 179
 
-179
+Zeitangabe
 
-180
+Einheit der 180
 
 Zeitangabe
 
@@ -3951,11 +4010,11 @@ der
 
 Dosieranweisung
 
-Einheit der Dauer  der  Dosieranweisung
+Einheit der Dauer 177
 
-Wochentag der 177
+der  Dosieranweisung
 
-181
+Wochentag der 181
 
 Anwendung
 
@@ -4291,39 +4350,39 @@ FreeText
 
 KBV_PR_ERP_Prescription MedicationRequest.ext ension:Notdienstgebue hr.value[x]:valueBoolea
 
-KBV_PR_ERP_Medication_ PZN  KBV_PR_ERP_Medication_  Ingredient  KBV_PR_ERP_Medication_ Compounding  KBV_PR_ERP_Medication_ FreeText
-
-KBV_PR_ERP_Prescription
-
-KBV_PR_ERP_Prescription
-
-KBV_PR_ERP_Prescription
-
-KBV_PR_ERP_Prescription
-
-KBV_PR_ERP_Prescription
-
-KBV_PR_ERP_Prescription
-
-KBV_PR_ERP_Prescription
+KBV_PR_ERP_Medication_ PZN  KBV_PR_ERP_Medication_  Ingredient  KBV_PR_ERP_Medication_ Compounding  KBV_PR_ERP_Medication_
 
 n
 
 Medication.extension:I mpfstoff.value[x]:value Boolean
 
-MedicationRequest.ext ension:SER.value[x]:val ueBoolean
+FreeText
 
-MedicationRequest.ext ension:Mehrfachverord nung.extension:Kennzei chen.value[x]:valueBool ean
+KBV_PR_ERP_Prescription MedicationRequest.ext ension:SER.value[x]:val
 
-MedicationRequest.sub stitution.allowed[x]:allo wedBoolean
+ueBoolean
 
-MedicationRequest.ext ension:T- Rezept.extension:Off- Label.value[x]:valueBoo lean.value
+KBV_PR_ERP_Prescription MedicationRequest.ext ension:Mehrfachverord nung.extension:Kennzei chen.value[x]:valueBool
 
-MedicationRequest.ext ension:T- Rezept.extension:Einhal tungSicherheitsmassna hmen
+ean
 
-MedicationRequest.ext ension:T- Rezept.extension:Ausha endigungInformations materialien
+KBV_PR_ERP_Prescription MedicationRequest.sub stitution.allowed[x]:allo
 
-MedicationRequest.ext ension:T- Rezept.extension:Erklae rungSachkenntnis 00
+wedBoolean
+
+KBV_PR_ERP_Prescription MedicationRequest.ext ension:T- Rezept.extension:Off- Label.value[x]:valueBoo
+
+lean.value
+
+KBV_PR_ERP_Prescription MedicationRequest.ext ension:T- Rezept.extension:Einhal tungSicherheitsmassna
+
+hmen
+
+KBV_PR_ERP_Prescription MedicationRequest.ext ension:T- Rezept.extension:Ausha endigungInformations
+
+materialien
+
+KBV_PR_ERP_Prescription MedicationRequest.ext ension:T- Rezept.extension:Erklae rungSachkenntnis 00
 
 false
 
@@ -4549,19 +4608,21 @@ Nachname des Versicherten
 
 Die Reihenfolge der Daten muss im Ausdruck entsprechend der Auflistung erfolgen. Die einzelnen Informationen müssen mit einem Leerzeichen voneinander getrennt sein, sofern sie  vorhanden sind.
 
-2. Die Software muss eine Kürzung vornehmen, sofern der zur Verfügung stehende Platz unter  Berücksichtigung von P 6-32 nicht für den Aufdruck aller Informationen aus gemäß  Akzeptanzkriterium (1) ausreicht.  a) Die Software muss dabei sicherstellen, dass mindestens die folgenden Informationen (IDs  Tabelle 58) vollständig abgebildet werden:
-
-(ID 22)  (ID 20)  (ID 23)  (ID 24)  (ID 21) -A4-Blatt
-
-(1) automatisch erfolgt oder ob eine
-
-e Default-Einstellung festlegen.
+2. Die Software muss eine Kürzung vornehmen, sofern der zur Verfügung stehende Platz unter  Berücksichtigung von P 6-32 nicht für den Aufdruck aller Informationen aus gemäß  Akzeptanzkriterium (1) ausreicht.  a) Die Software muss dabei sicherstellen, dass mindestens die folgenden Informationen (IDs  Tabelle 58) vollständig abgebildet werden: -A4-Blatt
 
 -A4-Blatt
 
 e
 
 dieselbe Person
+
+(1) automatisch erfolgt oder ob eine
+
+e Default-Einstellung festlegen.
+
+(ID 22)
+
+(ID 20)  (ID 23)  (ID 24)  (ID 21)
 
 gemäß
 
@@ -4965,6 +5026,8 @@ b) Sofern eine Kürzung der aufgedruckten Dosierungsanweisung erfolgt, druckt di
 
 : „
 
+, ist
+
 ixer Wert „) “ zu verwenden (ID 104)
 
 (ID 111)
@@ -4975,9 +5038,9 @@ ixer Wert „) “ zu verwenden (ID 104)
 
 P36-44, P36-45, P36-46 oder P36-
 
--Schriftzeichen zu
+(1)
 
-, ist (1)
+-Schriftzeichen zu
 
 
 ---
@@ -5282,21 +5345,13 @@ P6-27, K6-28, K6-29 und P6-30 jeweils dieselbe Schriftgröße haben.
 
 7 ABZUBILDENDE INFORMATIONEN
 
-In der nachfolgenden Tabelle 58 sind sämtliche für die Abbildung des ERP relevanten Informationen in
-
-Form einer Felderliste enthalten.
+In der nachfolgenden Tabelle 58 sind sämtliche für die Abbildung de Form einer Felderliste enthalten.
 
 Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 
-**ID**  Fortlaufende Zeilen-Nummer zum besseren Mapping der Inhalte der Tabelle 58
+**ID**  Fortlaufende Zeilen-Nummer zum besseren Mapping der Inhalte der   **1; 2; 3; 4; 5 und 6**  Darstellung von Hierarchieebenen, zur fachlogischen Gruppierung der einzelnen Feldinhalte zu  Feldgruppen bzw. Blöcken  6 entspricht der kleinsten Hierarchieebene, 1 entspricht der höchsten
 
-**1; 2; 3; 4; 5 und 6**  Darstellung von Hierarchieebenen, zur fachlogischen Gruppierung der einzelnen Feldinhalte zu  Feldgruppen bzw. Blöcken  6 entspricht der kleinsten Hierarchieebene, 1 entspricht der höchsten
-
-Durch ein Kreuz in der entsprechenden Zeile erfolgt die Zuordnung zu einer Ebene.
-
-**Feldname**  Kurze Bezeichnung des abzubildenden Feldes
-
-**Länge**  Angabe zur zulässigen Zeilenlänge (Zeichenanzahl inklusive Leerzeichen) des Inhaltes; Besondere
+Durch ein Kreuz in der entsprechenden Zeile erfolgt die Zuordnung zu einer Ebene.  **Feldname**  Kurze Bezeichnung des abzubildenden Feldes  **Länge**  Angabe zur zulässigen Zeilenlänge (Zeichenanzahl inklusive Leerzeichen) des Inhaltes; Besondere
 
 Ausprägungen sind:  „Bool“:  sofern ein Boolean-Wert vorliegt
 
@@ -5304,94 +5359,80 @@ Ausprägungen sind:  „Bool“:  sofern ein Boolean-Wert vorliegt
 
 Leer:  sofern es sich um eine Feldgruppe handelt
 
-**Wiederh.**  Abbildung der Kardinalitäten; die folgenden Ausprägungen sind möglich:
-
-1..1 Feld muss genau einmal vorhanden sein, ggfs. in Abhängigkeit der Kardinalität bzw. Bedingung
+**Wiederh.**  Abbildung der Kardinalitäten; die folgenden Ausprägungen sind möglich: 1..1 Feld muss genau einmal vorhanden sein, ggfs. in Abhängigkeit der Kardinalität bzw. Bedingung
 
 der zugeordneten Feldgruppe  1..n Feld muss mindestens einmal vorhanden sein, ggfs. in Abhängigkeit der Kardinalität bzw.
 
-Bedingung der zugeordneten Feldgruppe
-
-0..1 Feld kann maximal einmal vorhanden sein, ggfs. in Abhängigkeit der dem Feld zugeordneten
+Bedingung der zugeordneten Feldgruppe 0..1 Feld kann maximal einmal vorhanden sein, ggfs. in Abhängigkeit der dem Feld zug
 
 Bedingung
 
-**Beschreibung**  Ggfs. detaillierte Beschreibung des Feldes, sofern nötig
+**Beschreibung**  Ggfs. detaillierte Beschreibung des
 
 **Bedingung**  Logische Bedingung, an welche die Befüllung eines Feldes oder einer gesamten Feldgruppe geknüpft  ist
+
+Feldes, sofern nötig
+
+s ERP relevanten Informationen in
+
+Tabelle 58
+
+eordneten
 
 
 ---
 
-**ID**
+**ID 1 2 3 4 5 6 FELDNAME**
 
-**1**
+**LÄNGE**
 
-**2**
+**(GRAU = FELDGRUPPE)**
 
-3
-
-4
-
-**1 2 3 4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
-
-**x**      **Dokumenteninformation**
+**1 x**      **Dokumenteninformation**
 
 **en**
+
+**2**
 
 x
 
 Dokumententyp
 
-x
-
-Dokumentenversion
+Kodiert 3
 
 x
 
-Prüfnummer 5
+Dokumentenversion 5..8 4
 
 x
 
-Dokumenten-ID
+Prüfnummer 6..17
 
-**6 x**      **Empfänger /**  **Kostenträger**
+5
 
-**LÄNGE**
+x
 
-Kodiert 5..8
+Dokumenten-ID 22
 
-6..17
+**6 x**      **Empfänger /**
 
-22
+**Kostenträger**
 
-**WIE-** **DERH.**
+**WIE- BESCHREIBUNG**
 
-**1..1**
+**DERH.**
 
-1..1
+**1..1 Dieser Block enthält Informationen zum**  **Dokument**
 
-1..1
+1..1 Dieses Feld enthält den Typ des Formulars  der vertragsärztlichen Versorgung.
 
-0..1
+1..1 Dieses Feld enthält die Version des  Informationsmodells. Konkret bezieht sich  diese Angabe auf die Version des Profils  KBV_PR_ERP_Bundle.
 
-1..1
+0..1 Dieses Feld enthält die Prüfnummer,  welche jede zertifizierte Software im  vertragsärztlichen Bereich im Rahmen der  Zertifizierung der KBV erhält.  Für die "Elektronische  Arzneimittelverordnung (Vordruck e16A)"  bzw. das elektronische Rezept ist die  Prüfnummer für das Zertifizierungsthema  "Verordnung von Arzneimitteln"  anzugeben.   Im zahnärztlichen Bereich ist hier das  Programmstandskennzeichen anzugeben.
 
-**1..1**
+1..1 Dieses Feld enthält eine eindeutige  Identifikation des Dokuments, bzw. der  Verordnung. Diese ID wird mit signiert und  sichert damit die Verordnung vor  Fälschungen.   Für den digitalen Vordruck "Elektronische  Arzneimittelverordnung (Vordruck e16A)"  wird die Dokumenten-ID gemäß den  Vorgaben der gematik gesetzt.
 
-**BESCHREIBUNG**
-
-**Dieser Block enthält Informationen zum**  **Dokument**
-
-Dieses Feld enthält den Typ des Formulars  der vertragsärztlichen Versorgung.
-
-Dieses Feld enthält die Version des  Informationsmodells. Konkret bezieht sich  diese Angabe auf die Version des Profils  KBV_PR_ERP_Bundle.
-
-Dieses Feld enthält die Prüfnummer,  welche jede zertifizierte Software im  vertragsärztlichen Bereich im Rahmen der  Zertifizierung der KBV erhält.  Für die "Elektronische  Arzneimittelverordnung (Vordruck e16A)"  bzw. das elektronische Rezept ist die  Prüfnummer für das Zertifizierungsthema  "Verordnung von Arzneimitteln"  anzugeben.   Im zahnärztlichen Bereich ist hier das  Programmstandskennzeichen anzugeben.
-
-Dieses Feld enthält eine eindeutige  Identifikation des Dokuments, bzw. der  Verordnung. Diese ID wird mit signiert und  sichert damit die Verordnung vor  Fälschungen.   Für den digitalen Vordruck "Elektronische  Arzneimittelverordnung (Vordruck e16A)"  wird die Dokumenten-ID gemäß den  Vorgaben der gematik gesetzt.
-
-**Dieser Block enthält Daten zum**  **Kostenträger.**
+**1..1 Dieser Block enthält Daten zum**  **Kostenträger.**
 
 **BEDINGUNGEN**
 
@@ -5432,23 +5473,21 @@ IK des Kostenträgers
 
 Name des Kostenträgers
 
-**LÄNGE**
+**LÄNGE WIE-** **DERH.**
 
-Kodiert 9
-
-9
-
-1..45
-
-**WIE-** **DERH.**
-
-1..1
+Kodiert 1..1
 
 **1..1**
 
-0..1
+9
 
 0..1
+
+9
+
+0..1
+
+1..45
 
 1..1
 
@@ -5497,19 +5536,13 @@ ANSONSTEN  darf das Feld nicht übertragen werden.
 | 73 | x | Unfallkennzeichen |
 | 74 | x | Unfalltag |
 
-**LÄNGE**
+**0..1 Dieser Block enthält Informationen zum  WENN**
 
-Kodiert
+**LÄNGE WIE-** **DERH.**
 
-Kodiert 4..10
+Kodiert 0..1
 
-**WIE-** **DERH.**
-
-0..1
-
-**0..1**
-
-1..1
+Kodiert 1..1 4..10
 
 0..1
 
@@ -5519,7 +5552,9 @@ Bedruckung des Personalienfeldes und des  verkürzten Personalienfeldes".
 
 Dieses Feld enthält das  Wohnortkennzeichen entsprechend des  Wohnortprinzips (WOP) für  Honorarvereinbarungen (BMV-Ä Anlage  21).
 
-**Dieser Block enthält Informationen zum**  **Unfall für den Fall, dass die Verordnung**  **im Rahmen eines Unfalls ausgestellt wird.**
+**Unfall für den Fall, dass die Verordnung "Sprechstundenbedarf/ Praxisbedarf**
+
+**im Rahmen eines Unfalls ausgestellt wird. wird**
 
 Dieses Feld enthält die Information, in  welchem Zusammenhang die Verordnung  ausgestellt wurde, z.B. Unfall.
 
@@ -5531,9 +5566,9 @@ WENN  eine eGK mit VSD-Schema >= 5.2.0 eingelesen  wurde,  DANN  ist dieses Feld
 
 ANSONSTEN  kann dieses Feld übertragen werden.
 
-**WENN**  **"Sprechstundenbedarf/ Praxisbedarf** **" verordnet**
+**" verordnet**
 
-**wird** **ODER wenn das Feld „Kategorie“ gleich „02“**
+**ODER wenn das Feld „Kategorie“ gleich „02“**
 
 **ist,**  **DANN**  **darf der Block nicht befüllt werden.**
 
@@ -5578,45 +5613,49 @@ Zuzahlungsstatus
 
 PKV-Tarifart
 
-**LÄNGE**
+**LÄNGE WIE- BESCHREIBUNG**
+
+**DERH.**
 
 1..45
 
-Kodiert
+0..1 Dieses Feld enthält den Namen des  Arbeitgebers oder Dienstherrn, in dessen  Einflussbereich sich der Unfall (auch  Wegeunfall) ereignete.
 
-Kodiert
+**0..1 Dieser Block enthält spezifische**  **Informationen zur gesetzlichen**
 
-**WIE-** **DERH.**
+**das Feld "Kostenträgertyp" gleich "GKV" oder**
 
-0..1
+**Krankenversicherung.**
+
+**"BG" oder "SKT" oder "UK" ist, und KEIN**  **"Sprechstundenbedarf" verordnet wird,**  **DANN**  **ist dieser Block Pflicht.**
+
+Kodiert 1..1
 
 **0..1**
 
-1..1
-
-**0..1**
-
-1..1
-
-**BESCHREIBUNG**
-
-Dieses Feld enthält den Namen des  Arbeitgebers oder Dienstherrn, in dessen  Einflussbereich sich der Unfall (auch  Wegeunfall) ereignete.
-
-**Dieser Block enthält spezifische**  **Informationen zur gesetzlichen**  **Krankenversicherung.**
+Kodiert 1..1
 
 Dieses Feld enthält den Zuzahlungsstatus  für die Verordnung.
 
-**Dieser Block enthält spezifische**  **Informationen zur privaten**  **Krankenversicherung.**
+**Dieser Block enthält spezifische**  **Informationen zur privaten**
+
+**das Feld "Kostenträgertyp" gleich "PKV" ist,**
+
+**Krankenversicherung.**
+
+**DANN**  **ist dieser Block optional**
 
 Dieses Feld enthält die PKV-Tarifart des  Versicherten.
 
 **BEDINGUNGEN**
 
-WENN  das Feld "Unfallkennzeichen" gleich "2" ist,  DANN  ist dieses Feld Pflicht.
+WENN  das Feld "Unfallkennzeichen" gleich "2" ist,
+
+DANN  ist dieses Feld Pflicht.
 
 ANSONSTEN  darf dieses Feld nicht übertragen werden.
 
-**WENN**  **das Feld "Kostenträgertyp" gleich "GKV" oder**  **"BG" oder "SKT" oder "UK" ist, und KEIN**  **"Sprechstundenbedarf" verordnet wird,**  **DANN**  **ist dieser Block Pflicht.**
+**WENN**
 
 **ANSONSTEN WENN**  **"Sprechstundenbedarf" verordnet wird,**  **DANN**  **darf der Block nicht befüllt werden.**
 
@@ -5626,7 +5665,7 @@ WENN  das Feld „Unfallkennzeichen“ gleich „2“ oder „4“  ist ODER wen
 
 werden.
 
-**WENN**  **das Feld "Kostenträgertyp" gleich "PKV" ist,**  **DANN**  **ist dieser Block optional**
+**WENN**
 
 **ANSONSTEN**  **darf dieser Block nicht angegeben werden.**
 
@@ -5651,75 +5690,71 @@ x
 
 **18 x**
 
-**4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
+**4 5 6 FELDNAME**
+
+**LÄNGE**
+
+**(GRAU = FELDGRUPPE)**
 
 **Versichertenstatus**
 
 Versichertenart
 
-Besondere  Personengruppe
+Kodiert
+
+Besondere
+
+Kodiert
+
+Personengruppe
 
 DMP-Kennzeichen
 
-Kennzeichen  Rechtsgrundlage
+Kodiert
 
-Versicherungsschutz  Ende
+Kennzeichen
+
+Kodiert
+
+Rechtsgrundlage
+
+Versicherungsschutz 10
+
+Ende
 
 **Versicherter**
 
-**LÄNGE**
+**WIE- BESCHREIBUNG**
 
-Kodiert
+**DERH.**
 
-Kodiert
+**0..1 Dieser Block enthält Angaben zum**  **Versichertenstatus.**
 
-Kodiert
-
-Kodiert 10
-
-**WIE-** **DERH.**
-
-**0..1**
-
-1..1
-
-1..1
-
-1..1
-
-1..1
-
-0..1
-
-**0..1**
-
-**BESCHREIBUNG**
-
-**Dieser Block enthält Angaben zum**  **Versichertenstatus.**
-
-Dieses Feld enthält die Art der  Versicherung, z.B. ob der Versicherte  Familienversicherter, Mitglied oder  Rentner ist.
-
-Dieses Feld enthält die besondere  Personengruppe, zu der der Versicherte  gehört (§ 264 SGB V).
-
-Dieses Feld enthält das Disease- Management-Programm (DMP), in dem  der Versicherte eingeschrieben ist (§ 284  Abs. 1 Satz 1 Nr. 14 SGB V).
-
-Dieses Feld enthält die Rechtsgrundlage,  auf Basis derer die Leistung erbracht  wurde, Z. B. Entlass-Rezept,  Terminservicestelle (Technische Anlage zur  Anlage 4a des BMV-Ä).
-
-Dieses Feld enthält das Datum des Endes  des Versicherungsschutzes, wenn die  Datumsangabe auf der Versichertenkarte  gespeichert ist und ausgelesen wurde.
-
-**Dieser Block enthält Daten zum**  **Versicherten.**
+**das Feld "Kostenträgertyp" gleich "GKV" oder**  **"BG" oder "SKT" oder "UK" oder „PKV“ ist und**  **KEIN "Sprechstundenbedarf" verordnet wird,**  **DANN**  **ist dieser Block Pflicht.**
 
 **BEDINGUNGEN**
 
-**WENN**  **das Feld "Kostenträgertyp" gleich "GKV" oder**  **"BG" oder "SKT" oder "UK" oder „PKV“ ist und**  **KEIN "Sprechstundenbedarf" verordnet wird,**
+**WENN**
 
-**DANN**  **ist dieser Block Pflicht.**
+**ANSONSTEN**
 
-**ANSONSTEN**  **ist dieser Block optional.**
+1..1 Dieses Feld enthält die Art der  Versicherung, z.B. ob der Versicherte  Familienversicherter, Mitglied oder  Rentner ist.
 
-**WENN**  **KEIN "Sprechstundenbedarf" verordnet wird,**
+1..1 Dieses Feld enthält die besondere  Personengruppe, zu der der Versicherte  gehört (§ 264 SGB V).
 
-**DANN**  **ist dieser Block Pflicht.**
+1..1 Dieses Feld enthält das Disease- Management-Programm (DMP), in dem  der Versicherte eingeschrieben ist (§ 284  Abs. 1 Satz 1 Nr. 14 SGB V).
+
+1..1 Dieses Feld enthält die Rechtsgrundlage,  auf Basis derer die Leistung erbracht  wurde, Z. B. Entlass-Rezept,  Terminservicestelle (Technische Anlage zur  Anlage 4a des BMV-Ä).
+
+0..1 Dieses Feld enthält das Datum des Endes  des Versicherungsschutzes, wenn die  Datumsangabe auf der Versichertenkarte  gespeichert ist und ausgelesen wurde.
+
+**0..1 Dieser Block enthält Daten zum**  **Versicherten.**
+
+**KEIN "Sprechstundenbedarf" verordnet wird,**  **DANN**  **ist dieser Block Pflicht.**
+
+**ist dieser Block optional.**
+
+**WENN**
 
 
 ---
@@ -5760,51 +5795,37 @@ Titel des Versicherten
 
 Namenszusatz des  Versicherten
 
-**LÄNGE**
-
-10
-
-1..45
-
-1..45
-
-1..20
-
-1..20
-
-**WIE-** **DERH.**
+**LÄNGE** **WIE-** **DERH.**
 
 **1..1**
-
-1..1
-
-**1..1**
-
-1..1
-
-1..1
-
-0..1
-
-0..1
 
 **BESCHREIBUNG**
 
 **Diesers Feld Block enthält den**  **Identifikator der Person, z.B. die**  **Krankenversicherungsnummer der GKV**  **oder PKV.**
 
-Dieses Feld enthält die VersichertenID der  gesetzlichen Krankenversicherung, der  privaten Krankenversicherung oder eines  sonstigen Kostenträgers (unveränderlicher  Teil der einheitlichen  Krankenversicherungsnummer KVNR der  GKV gemäß § 290 und § 362 SGB V).
+10
 
-**Dieser Block enthält die Bestandteile des**  **Namens des Versicherten.**
+1..1 Dieses Feld enthält die VersichertenID der  gesetzlichen Krankenversicherung, der  privaten Krankenversicherung oder eines  sonstigen Kostenträgers (unveränderlicher  Teil der einheitlichen  Krankenversicherungsnummer KVNR der  GKV gemäß § 290 und § 362 SGB V).
 
-Dieses Feld enthält den Vornamen des  Versicherten; mehrere Vornamen sind  durch Blank oder Bindestrich getrennt.
+**1..1 Dieser Block enthält die Bestandteile des**  **Namens des Versicherten.**
 
-Dieses Feld enthält den Nachnamen des  Versicherten.
+1..45
 
-Dieses Feld enthält den akademischen  Grad des Versicherten, z.B. „Dr. med.“,
+1..1 Dieses Feld enthält den Vornamen des  Versicherten; mehrere Vornamen sind  durch Blank oder Bindestrich getrennt.
+
+1..45
+
+1..1 Dieses Feld enthält den Nachnamen des  Versicherten.
+
+1..20
+
+0..1 Dieses Feld enthält den akademischen  Grad des Versicherten, z.B. „Dr. med.“,
 
 „Dr.rer.nat.“
 
-Dieses Feld enthält den Namenszusatz als  Bestandteil des Nachnamens, z.B.  "Freiherr", „Gräfin“; mehrere  Namenszusätze sind durch Blank getrennt.
+1..20
+
+0..1 Dieses Feld enthält den Namenszusatz als  Bestandteil des Nachnamens, z.B.  "Freiherr", „Gräfin“; mehrere  Namenszusätze sind durch Blank getrennt.
 
 **BEDINGUNGEN**
 
@@ -5829,7 +5850,9 @@ x 25
 
 x
 
-**27**  **x**
+**27**  **x**     **Straßenadresse des**
+
+**0..1 Dieser Block enthält Informationen zur WENN**
 
 28
 
@@ -5843,49 +5866,45 @@ Vorsatzwort des  Versicherten
 
 Geburtsdatum des  Versicherten
 
-**Straßenadresse des**  **Versicherten**
+**Versicherten**
+
+**Straßenadresse des Versicherten.**
+
+**der Block "Postfachanschrift des Versicherten"**  **nicht angegeben ist,**  **DANN**  **muss dieser Block angegeben werden.**
 
 Wohnsitzländercode der  Versichertenanschrift
 
 Postleitzahl der  Versichertenanschrift
 
-**LÄNGE**
+**LÄNGE WIE- BESCHREIBUNG**
+
+**DERH.**
 
 1..20
 
-4..10  oder  NULL
+0..1 Dieses Feld enthält das Vorsatzwort als  Bestandteil des Nachnamens, z.B.„von“,  „von der“, „zu“ ; mehrere Vorsatzwörter  sind durch Blank getrennt.
 
-Kodiert  1..3 1..10
+4..10
 
-**WIE-** **DERH.**
+1..1 Dieses Feld enthält das Geburtsdatum des
 
-0..1
+oder
 
-1..1
+Versicherten.
 
-**0..1**
+NULL
 
-0..1
+Kodiert 0..1 Dieses Feld enthält den 1..3
 
-0..1
+Wohnsitzländercode (entsprechend  Gemeinsames Rundschreiben DEÜV  Anlage 08).
 
-**BESCHREIBUNG**
+1..10
 
-Dieses Feld enthält das Vorsatzwort als  Bestandteil des Nachnamens, z.B.„von“,  „von der“, „zu“ ; mehrere Vorsatzwörter  sind durch Blank getrennt.
-
-Dieses Feld enthält das Geburtsdatum des  Versicherten.
-
-**Dieser Block enthält Informationen zur**  **Straßenadresse des Versicherten.**
-
-Dieses Feld enthält den  Wohnsitzländercode (entsprechend  Gemeinsames Rundschreiben DEÜV  Anlage 08).
-
-Dieses Feld enthält die Postleitzahl.
+0..1 Dieses Feld enthält die Postleitzahl.
 
 **BEDINGUNGEN**
 
 WENN  in diesem Feld ein Datum angegeben wird,  DANN  darf das Datum nicht nach dem  Ausstellungsdatum liegen.
-
-**WENN**  **der Block "Postfachanschrift des Versicherten"**  **nicht angegeben ist,**  **DANN**  **muss dieser Block angegeben werden.**
 
 **ANSONSTEN**  **darf dieser Block nicht angegeben werden.**
 
@@ -5920,65 +5939,65 @@ x 36
 
 x
 
-**4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
-
-Ortsname der  Versichertenanschrift
-
-Straßenname der  Versichertenanschrift
-
-Hausnummer der  Versichertenanschrift
-
-Anschriftenzusatz der  Versichertenanschrift
-
-**Postfachanschrift des**  **Versicherten**
-
-Wohnsitzländercode der  Versicherten- Postfachanschrift
-
-Postleitzahl der  Versicherten- Postfachanschrift
+**4 5 6 FELDNAME**
 
 **LÄNGE**
 
-1..40
+**(GRAU = FELDGRUPPE)**
 
-1..46
+Ortsname der 1..40
 
-1..9
+Versichertenanschrift
 
-1..40
+Straßenname der 1..46
 
-Kodiert  1..3 1..10
+Versichertenanschrift
 
-**WIE-** **DERH.**
+Hausnummer der 1..9
 
-0..1
+Versichertenanschrift
 
-0..1
+Anschriftenzusatz der 1..40
 
-0..1
+Versichertenanschrift
 
-0..1
+**Postfachanschrift des**
 
-**0..1**
+**Versicherten**
 
-0..1
+**Postfachanschrift des Versicherten.**
 
-0..1
+**der Block "Straßenadresse des Versicherten"**  **nicht angegeben ist,**  **DANN**  **muss dieser Block angegeben werden.**
 
-**BESCHREIBUNG**
+Wohnsitzländercode der Kodiert
 
-Dieses Feld enthält den Ortsnamen.  Mehrere Namensbestandteile sind durch  Blank/Sonderzeichen getrennt.
+Versicherten-
 
-Dieses Feld enthält den Straßennamen.
+1..3
 
-Dieses Feld enthält die Hausnummer.
+Postfachanschrift
 
-Dieses Feld enthält den Anschriftenzusatz,  z.B. Hinterhaus.
+Postleitzahl der 1..10
 
-**Dieser Block enthält Informationen zur**  **Postfachanschrift des Versicherten.**
+Versicherten- Postfachanschrift
 
-Dieses Feld enthält den  Wohnsitzländercode (entsprechend  Gemeinsames Rundschreiben DEÜV  Anlage 08).
+**WIE- BESCHREIBUNG**
 
-Dieses Feld enthält die Postleitzahl.
+**DERH.**
+
+0..1 Dieses Feld enthält den Ortsnamen.  Mehrere Namensbestandteile sind durch  Blank/Sonderzeichen getrennt.
+
+0..1 Dieses Feld enthält den Straßennamen.
+
+0..1 Dieses Feld enthält die Hausnummer.
+
+0..1 Dieses Feld enthält den Anschriftenzusatz,  z.B. Hinterhaus.
+
+**0..1 Dieser Block enthält Informationen zur**
+
+0..1 Dieses Feld enthält den  Wohnsitzländercode (entsprechend  Gemeinsames Rundschreiben DEÜV  Anlage 08).
+
+0..1 Dieses Feld enthält die Postleitzahl.
 
 **BEDINGUNGEN**
 
@@ -5986,9 +6005,7 @@ DANN  ist dieses Feld Pflicht.
 
 ANSONSTEN  ist dieses Feld optional.
 
-**WENN**  **der Block "Straßenadresse des Versicherten"**  **nicht angegeben ist,**
-
-**DANN**  **muss dieser Block angegeben werden.**
+**WENN**
 
 **ANSONSTEN**  **darf dieser Block nicht angegeben werden.**
 
@@ -6021,15 +6038,15 @@ x
 
 **(GRAU = FELDGRUPPE)**
 
-Ortsname der  Versicherten- Postfachanschrift
+Ortsname der 1..40
 
-Postfach der  Versicherten- Postfachanschrift
+Versicherten- Postfachanschrift
+
+Postfach der 1..8
+
+Versicherten- Postfachanschrift
 
 **Stempelinformationen**
-
-1..40
-
-1..8
 
 **Ausstellende/**
 
@@ -6045,33 +6062,21 @@ Typ der ausstellenden/ Kodiert
 
 verschreibenden Person
 
-**WIE-** **DERH.**
+**WIE- BESCHREIBUNG**
 
-0..1
+**DERH.**
 
-0..1
+0..1 Dieses Feld enthält den Ortsnamen.  Mehrere Namensbestandteile sind durch  Blank/Sonderzeichen getrennt.
 
-**1..1**
+0..1 Dieses Feld enthält das Postfach.
 
-**1..1**
+**1..1 Die Angaben in diesem Block entsprechen**  **den Angaben des Vertragsarztstempels**  **für Formulare.**
 
-**1..1**
+**1..1 Dieser Block enthält die Daten der**  **ausstellenden/ verschreibenden Person.**
 
-1..1
+**1..1 Dieser Block enthält Informationen über**  **die Qualifikation der ausstellenden/**  **verschreibenden Person.**
 
-**BESCHREIBUNG**
-
-Dieses Feld enthält den Ortsnamen.  Mehrere Namensbestandteile sind durch  Blank/Sonderzeichen getrennt.
-
-Dieses Feld enthält das Postfach.
-
-**Die Angaben in diesem Block entsprechen**  **den Angaben des Vertragsarztstempels**  **für Formulare.**
-
-**Dieser Block enthält die Daten der**  **ausstellenden/ verschreibenden Person.**
-
-**Dieser Block enthält Informationen über**  **die Qualifikation der ausstellenden/**  **verschreibenden Person.**
-
-Dieses Feld enthält einen Typ zur  Kennzeichnung der verschreibenden  Person z.B. Arzt, Arzt in Weiterbildung.
+1..1 Dieses Feld enthält einen Typ zur  Kennzeichnung der verschreibenden  Person z.B. Arzt, Arzt in Weiterbildung.
 
 **BEDINGUNGEN**
 
@@ -6104,37 +6109,45 @@ DANN  darf dieses Feld nicht „01“ und nicht „02“ sein
 
 **x**
 
-**4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
-
-x   Berufsbezeichnung der  ausstellenden/  verschreibenden Person
+**4 5 6 FELDNAME**
 
 **LÄNGE**
 
-1..100
+**(GRAU = FELDGRUPPE)**
+
+x   Berufsbezeichnung der 1..100
+
+ausstellenden/  verschreibenden Person
 
 x   ASV-
 
 9
 
-Fachgruppennummer der  ausstellenden/  verschreibenden Person
+Fachgruppennummer der
+
+ausstellenden/  verschreibenden Person
 
 **Identifikator der**  **ausstellenden/**  **verschreibenden Person**
 
-**WIE-** **DERH.**
+**(Lebenslange Arztnummer LANR) oder**
 
-1..1
+**"BG" oder "SKT" oder "UK" oder “PKV“ ist,**
 
-0..1
+**WIE- BESCHREIBUNG**
 
-**0..1**
+**DERH.**
 
-**BESCHREIBUNG**
+1..1 Dieses Feld enthält eine Freitextangabe zur  Berufsbezeichnung, z. B.  Facharztbezeichnung für  Allgemeinmedizin, Praktischer Arzt.
 
-Dieses Feld enthält eine Freitextangabe zur  Berufsbezeichnung, z. B.  Facharztbezeichnung für  Allgemeinmedizin, Praktischer Arzt.
+0..1 Dieses Feld enthält die ASV- Fachgruppennummer gemäß der ASV  Vereinbarung (ASV-AV) §9 Absatz 5. Diese  ist gemäß der ASV-AV von  Krankenhausärzten an Stelle der  Arztnummer anzugeben.
 
-Dieses Feld enthält die ASV- Fachgruppennummer gemäß der ASV  Vereinbarung (ASV-AV) §9 Absatz 5. Diese  ist gemäß der ASV-AV von  Krankenhausärzten an Stelle der  Arztnummer anzugeben.
+**0..1 Dieser Block enthält den Identifikator der**  **Person, z.B. eine Arztnummer**
 
-**Dieser Block enthält den Identifikator der**  **Person, z.B. eine Arztnummer**  **(Lebenslange Arztnummer LANR) oder**  **Zahnarztnummer (ZANR) und kann**  **zusätzlich eine Telematik-ID enthalten.**
+**Zahnarztnummer (ZANR) und kann**
+
+**und das Feld „Typ der ausstellenden /**
+
+**zusätzlich eine Telematik-ID enthalten.**
 
 **BEDINGUNGEN**
 
@@ -6144,9 +6157,9 @@ WENN  das Feld „Typ der ausstellenden / verschreibenden  Person“ gleich „0
 
 ANSONSTEN  darf dieses Feld nicht angegeben werden.
 
-**WENN**  **das Feld "Kostenträgertyp" gleich "GKV" oder**  **"BG" oder "SKT" oder "UK" oder “PKV“ ist,**
+**WENN**  **das Feld "Kostenträgertyp" gleich "GKV" oder**
 
-**und das Feld „Typ der ausstellenden /**  **verschreibenden Person“ gleich „00“ oder „01“**  **oder „04“ ist und das Feld „ASV** **Fachgruppennummer der ausstellenden/**  **verschreibenden Person“ nicht vorhanden ist,**
+**verschreibenden Person“ gleich „00“ oder „01“**  **oder „04“ ist und das Feld „ASV** **Fachgruppennummer der ausstellenden/**  **verschreibenden Person“ nicht vorhanden ist,**
 
 **DANN**  **ist dieses Block Pflicht.**
 
@@ -6185,21 +6198,15 @@ x   Telematik-ID der 1..128
 
 ausstellenden/  verschreibenden Person
 
-**WIE-** **DERH.**
+**WIE- BESCHREIBUNG**
 
-0..1
+**DERH.**
 
-0..1
+0..1 Dieses Feld enthält als Identifikator der  Person eine Arztnummer (Lebenslange  Arztnummer LANR).
 
-0..1
+0..1 Dieses Feld enthält als Identifikator der  Person eine Zahnarztnummer (ZANR).
 
-**BESCHREIBUNG**
-
-Dieses Feld enthält als Identifikator der  Person eine Arztnummer (Lebenslange  Arztnummer LANR).
-
-Dieses Feld enthält als Identifikator der  Person eine Zahnarztnummer (ZANR).
-
-Dieses Feld enthält als Identifikator der  Person eine Telematik-ID.
+0..1 Dieses Feld enthält als Identifikator der  Person eine Telematik-ID.
 
 **BEDINGUNGEN**
 
@@ -6207,9 +6214,7 @@ Dieses Feld enthält als Identifikator der  Person eine Telematik-ID.
 
 **ist dieser Block Pflicht.**  **ANSONSTEN WENN**  **das Feld „Typ der ausstellenden /**  **verschreibenden Person“ gleich „02“ ist oder das**  **Feld „ASV-Fachgruppennummer der**
 
-**ausstellenden/ verschreibenden Person“**  **vorhanden ist,**
-
-**DANN**  **darf dieser Block nicht angegeben werden.**
+**ausstellenden/ verschreibenden Person“**  **vorhanden ist,**  **DANN**  **darf dieser Block nicht angegeben werden.**
 
 **ANSONSTEN**  **ist dieser Block optional.**
 
@@ -6248,79 +6253,69 @@ x
 
 48
 
-**4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
-
-ASV-Teamnummer
-
-**Name der**  **ausstellenden/**  **verschreibenden Person**
-
-x
-
-Vorname der  ausstellenden/  verschreibenden Person
-
-x
-
-Nachname der  ausstellenden/  verschreibenden Person
-
-x
-
-Titel der ausstellenden/  verschreibenden Person
-
-x
-
-Namenszusatz der  ausstellenden/  verschreibenden Person
-
-x
-
-Vorsatzwort der  ausstellenden/  verschreibenden Person
+**4 5 6 FELDNAME**
 
 **LÄNGE**
 
-9
+**(GRAU = FELDGRUPPE)**
 
-1..45
+ASV-Teamnummer 9
 
-1..45
+**Name der**
 
-1..100
+**ausstellenden/**  **verschreibenden Person**
 
-1..20
+x
 
-1..20
+Vorname der 1..45
 
-**WIE-** **DERH.**
+ausstellenden/  verschreibenden Person
 
-0..1
+x
 
-**1..1**
+Nachname der 1..45
 
-1..1
+ausstellenden/  verschreibenden Person
 
-1..1
+x
 
-0..1
+Titel der ausstellenden/ 1..100
 
-0..1
+verschreibenden Person
 
-0..1
+x
 
-**BESCHREIBUNG**
+Namenszusatz der 1..20
 
-Dieses Feld wird im Rahmen einer  ambulanten spezialfachärztlichen  Versorgung (ASV) genutzt. Jedes ASV-Team  erhält von der ASV-Servicestelle eine ASV- Teamnummer. Mit ihr kennzeichnen ASV- Ärzte die Leistungen oder Verordnungen,  die sie in der ASV durchführen. Die  Teamnummer umfasst neun Ziffern und ist  wie eine Betriebsstättennummer (BSNR)  aufgebaut. Sie wird vergeben, sobald die  Ärzte eine ASV-Berechtigung haben
+ausstellenden/  verschreibenden Person
+
+x
+
+Vorsatzwort der 1..20
+
+ausstellenden/  verschreibenden Person
+
+**WIE- BESCHREIBUNG**
+
+**DERH.**
+
+0..1 Dieses Feld wird im Rahmen einer  ambulanten spezialfachärztlichen  Versorgung (ASV) genutzt. Jedes ASV-Team  erhält von der ASV-Servicestelle eine ASV- Teamnummer. Mit ihr kennzeichnen ASV- Ärzte die Leistungen oder Verordnungen,  die sie in der ASV durchführen. Die  Teamnummer umfasst neun Ziffern und ist  wie eine Betriebsstättennummer (BSNR)  aufgebaut. Sie wird vergeben, sobald die  Ärzte eine ASV-Berechtigung haben
 
 zusätzlich zur BSNR und zur lebenslangen  Arztnummer.
 
-**Dieser Block enthält den Namen der**  **Person.**
+**1..1 Dieser Block enthält den Namen der**  **Person.**
 
-Dieses Feld enthält den Vornamen der  Person; mehrere Vornamen sind durch  Blank oder Bindestrich getrennt.
+1..1 Dieses Feld enthält den Vornamen der  Person; mehrere Vornamen sind durch  Blank oder Bindestrich getrennt.
 
-Dieses Feld enthält den Familiennamen der  Person
+1..1 Dieses Feld enthält den Familiennamen der  Person
 
-Dieses Feld enthält den akademischen  Grad der Person, z.B. „Dr. med.“, „Dr. rer.  nat.“.
+0..1 Dieses Feld enthält den akademischen  Grad der Person, z.B. „Dr. med.“, „Dr. rer.
 
-Dieses Feld enthält den Namenszusatz als  Bestandteil des Nachnamens der Person  z.B. „Freiherr“, „Gräfin“; mehrere  Namenszusätze sind durch Blank getrennt.
+nat.“.
 
-Dieses Feld enthält das Vorsatzwort der  Person als Bestandteil des Nachnamens,  z.B. „von“, „von der“, „zu“; mehrere  Vorsatzwörter sind durch Blank getrennt.
+0..1 Dieses Feld enthält den Namenszusatz als  Bestandteil des Nachnamens der Person  z.B. „Freiherr“, „Gräfin“; mehrere  Namenszusätze sind durch Blank getrennt.
+
+0..1 Dieses Feld enthält das Vorsatzwort der  Person als Bestandteil des Nachnamens,  z.B. „von“, „von der“, „zu“; mehrere  Vorsatzwörter sind durch Blank getrennt.
 
 **BEDINGUNGEN**
 
@@ -6343,49 +6338,59 @@ ANSONSTEN  darf dieses Feld nicht angegeben werden.
 
 58
 
-**4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
-
-**Verantwortliche Person**
-
-**Qualifikation der**  **verantwortlichen Person**
-
-x
-
-Typ der verantwortlichen  Person
-
-x   Berufsbezeichnung der  verantwortlichen Person
+**4 5 6 FELDNAME**
 
 **LÄNGE**
 
-Kodiert 1..100
+**(GRAU = FELDGRUPPE)**
 
-**WIE-** **DERH.**
+**Verantwortliche Person**
 
-**0..1**
+**Qualifikation der**
 
-**1..1**
+**verantwortlichen Person**
 
-1..1
+**die Qualifikation der verantwortlichen**  **Person.**
 
-1..1
+x
 
-**BESCHREIBUNG**
+Typ der verantwortlichen Kodiert
 
-**Dieser Block enthält die Daten der**  **verantwortlichen Person, z.B. des zur**  **Weiterbildung ermächtigten Arztes (im**  **vertrags(zahn)ärztlichen Bereich und im**  **Krankenhaus).**   **Der Block dient dazu, die entsprechende**  **Konstellation des Arztstempels**  **abzubilden und eine Zuordnung zum**  **verantwortlichen Vertrags(zahn)arzt /**  **Facharzt zu ermöglichen.**
+Person
 
-**Dieser Block enthält Informationen über**  **die Qualifikation der verantwortlichen**  **Person.**
+x   Berufsbezeichnung der 1..100
 
-Dieses Feld enthält einen Typ zur  Kennzeichnung der verantwortlichen  Person, z.B. Arzt.
+verantwortlichen Person
 
-Dieses Feld enthält eine Freitextangabe zur  Berufsbezeichnung, z. B.  Facharztbezeichnung für  Allgemeinmedizin, Praktischer Arzt.
+**WIE- BESCHREIBUNG**
 
-**BEDINGUNGEN**
+**DERH.**
 
-**WENN**  **das Feld „Typ der ausstellenden/**
+**0..1 Dieser Block enthält die Daten der**  **verantwortlichen Person, z.B. des zur**
+
+**das Feld „Typ der ausstellenden/**
+
+**Weiterbildung ermächtigten Arztes (im**
 
 **verschreibenden Person" gleich „03“ ist und das**
 
-**Feld "Identifikator der ausstellenden/**  **verschreibenden Person“ nicht vorhanden ist und**
+**vertrags(zahn)ärztlichen Bereich und im Feld "Identifikator der ausstellenden/**
+
+**Krankenhaus).**
+
+**Der Block dient dazu, die entsprechende**  **Konstellation des Arztstempels**  **abzubilden und eine Zuordnung zum**  **verantwortlichen Vertrags(zahn)arzt /**  **Facharzt zu ermöglichen.**
+
+**1..1 Dieser Block enthält Informationen über**
+
+1..1 Dieses Feld enthält einen Typ zur  Kennzeichnung der verantwortlichen  Person, z.B. Arzt.
+
+1..1 Dieses Feld enthält eine Freitextangabe zur  Berufsbezeichnung, z. B.  Facharztbezeichnung für  Allgemeinmedizin, Praktischer Arzt.
+
+**BEDINGUNGEN**
+
+**WENN**
+
+**verschreibenden Person“ nicht vorhanden ist und**
 
 **das Feld „Typ der verantwortlichen Person“**  **gleich „00“ oder „01“ oder „04“ ist,**
 
@@ -6434,21 +6439,17 @@ x   Arztnummer der 9
 
 verantwortlichen Person
 
-**WIE-** **DERH.**
+**WIE- BESCHREIBUNG**
 
-0..1
+**DERH.**
 
-**0..1**
+0..1 Dieses Feld enthält die ASV- Fachgruppennummer gemäß der ASV  Vereinbarung (ASV-AV) §9 Absatz 5. Diese  ist gemäß der ASV-AV von  Krankenhausärzten an Stelle der  Arztnummer anzugeben.
 
-0..1
+**0..1 Dieser Block enthält den Identifikator der**  **Person, z.B. eine Arztnummer oder**  **Zahnarztnummer und kann zusätzlich eine "BG" oder "SKT" oder "UK" oder “PKV“ und das**
 
-**BESCHREIBUNG**
+**Telematik-ID enthalten.**
 
-Dieses Feld enthält die ASV- Fachgruppennummer gemäß der ASV  Vereinbarung (ASV-AV) §9 Absatz 5. Diese  ist gemäß der ASV-AV von  Krankenhausärzten an Stelle der  Arztnummer anzugeben.
-
-**Dieser Block enthält den Identifikator der**  **Person, z.B. eine Arztnummer oder**  **Zahnarztnummer und kann zusätzlich eine**  **Telematik-ID enthalten.**
-
-Dieses Feld enthält als Identifikator der  Person eine Arztnummer (Lebenslange  Arztnummer LANR).
+0..1 Dieses Feld enthält als Identifikator der  Person eine Arztnummer (Lebenslange  Arztnummer LANR).
 
 **BEDINGUNGEN**
 
@@ -6456,7 +6457,9 @@ WENN  das Feld „Typ der verantwortlichen Person“ gleich  „00“ oder „04
 
 ANSONSTEN  darf dieses Feld nicht angegeben werden.
 
-**WENN**  **das Feld "Kostenträgertyp" gleich "GKV" oder**  **"BG" oder "SKT" oder "UK" oder “PKV“ und das**  **Feld „Typ der verantwortlichen Person“ gleich**  **„00“ oder „01“** **oder „04“ ist und das Feld „ASV**
+**WENN**  **das Feld "Kostenträgertyp" gleich "GKV" oder**
+
+**Feld „Typ der verantwortlichen Person“ gleich**  **„00“ oder „01“** **oder „04“ ist und das Feld „ASV**
 
 **Fachgruppennummer der verantwortlichen**  **Person“ nicht vorhanden ist,**
 
@@ -6519,126 +6522,114 @@ WENN  der Block „Identifikator der verantwortlichen  Person“ vorhanden ist u
 
 DANN
 
-x   Telematik-ID der  verantwortlichen Person
+x   Telematik-ID der 1..128
 
-**Name der**  **verantwortlichen Person**
+verantwortlichen Person
 
-x
+**Name der**
 
-Vorname der  verantwortlichen Person
-
-x
-
-Nachname der  verantwortlichen Person
+**verantwortlichen Person**
 
 x
 
-Titel der  verantwortlichen Person
+Vorname der 1..45
+
+verantwortlichen Person
 
 x
 
-Namenszusatz der  verantwortlichen Person
+Nachname der 1..45
+
+verantwortlichen Person
 
 x
 
-Vorsatzwort der  verantwortlichen Person 1..128
+Titel der 1..100
 
-1..45
+verantwortlichen Person
 
-1..45
+x
 
-1..100
+Namenszusatz der 1..20
 
-1..20
+verantwortlichen Person
 
-1..20
+x
 
-0..1
+Vorsatzwort der 1..20
 
-**1..1**
-
-1..1
-
-1..1
-
-0..1
-
-0..1
-
-0..1
-
-Dieses Feld enthält als Identifikator der  Person eine Telematik-ID.
-
-**Dieser Block enthält den Namen der**  **Person.**
-
-Dieses Feld enthält den Vornamen der  Person;  mehrere Vornamen sind durch Blank oder  Bindestrich getrennt.
-
-Dieses Feld enthält den Familiennamen der  Person
-
-Dieses Feld enthält den akademischen  Grad der Person, z.B. „Dr. med.“, „Dr. rer.  nat.“.
-
-Dieses Feld enthält den Namenszusatz als  Bestandteil des Nachnamens der Person  z.B. „Freiherr“, „Gräfin“; mehrere  Namenszusätze sind durch Blank getrennt.
-
-Dieses Feld enthält das Vorsatzwort der  Person als Bestandteil des Nachnamens,  z.B. „von“, „von der“, „zu“; mehrere  Vorsatzwörter sind durch Blank getrennt.
+verantwortlichen Person
 
 ist dieses Feld Pflicht.
 
 ANSONSTEN  darf dieses Feld nicht angegeben werden.
 
+0..1 Dieses Feld enthält als Identifikator der
+
+Person eine Telematik-ID.
+
+**1..1 Dieser Block enthält den Namen der**
+
+**Person.**
+
+1..1 Dieses Feld enthält den Vornamen der  Person;  mehrere Vornamen sind durch Blank oder  Bindestrich getrennt.
+
+1..1 Dieses Feld enthält den Familiennamen der  Person
+
+0..1 Dieses Feld enthält den akademischen  Grad der Person, z.B. „Dr. med.“, „Dr. rer.  nat.“.
+
+0..1 Dieses Feld enthält den Namenszusatz als  Bestandteil des Nachnamens der Person  z.B. „Freiherr“, „Gräfin“; mehrere  Namenszusätze sind durch Blank getrennt.
+
+0..1 Dieses Feld enthält das Vorsatzwort der  Person als Bestandteil des Nachnamens,  z.B. „von“, „von der“, „zu“; mehrere  Vorsatzwörter sind durch Blank getrennt.
+
 
 ---
 
-**ID 1 2 3**
+**ID 1 2 3 4 5 6 FELDNAME**
 
-**59**   **x**
+**LÄNGE WIE- BESCHREIBUNG**
 
-**61**   **x**
+**(GRAU = FELDGRUPPE)**
 
-61a
+**DERH.**
 
-61b
+**59**   **x**         **Einrichtung**
 
-**4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
+**1..1** **Dieser Block enthält Daten der**  **Einrichtung / Institution, z.B. eine**  **Betriebsstätte / Praxis.**  **Für den zahnärztlichen Bereich gilt der**  **Begriff Betriebsstätte entsprechend als**  **Praxis.**
+
+**61**   **x**    **Identifikator der**
+
+**0..1** **Dieses Feld enthält einen Identifikator**
 
 **Einrichtung**
 
-**Identifikator der**  **Einrichtung**
+**einer Einrichtung** **in Form einer**
 
-x   BSNR
+**Betriebsstättennummer (BSNR), IK-**
 
-x   IK-Nummer
+**„PKV“ oder "BG" oder "SKT" oder "UK" ist, und**
 
-**LÄNGE**
+**Nummer, KZV-Abrechnungsnummer oder das Feld "Typ der ausstellenden/**
+
+**Standortnummer und kann zusätzlich eine**  **Telematik-ID enthalten.**
+
+61a    x   BSNR
 
 9
 
+0..1 Dieses Feld enthält eine  Betriebsstättennummer (BSNR) zur  Identifikation einer Einrichtung. Im  vertragsärztlichen Bereich ist das Feld eine  Voraussetzung für die Abrechnung  zwischen Leistungserbringern und  Kostenträgern.
+
+61b    x   IK-Nummer
+
 9
 
-**WIE-** **DERH.**
-
-**1..1**
-
-**0..1**
-
-0..1
-
-0..1
-
-**BESCHREIBUNG**
-
-**Dieser Block enthält Daten der**  **Einrichtung / Institution, z.B. eine**  **Betriebsstätte / Praxis.**  **Für den zahnärztlichen Bereich gilt der**  **Begriff Betriebsstätte entsprechend als**  **Praxis.**
-
-**Dieses Feld enthält einen Identifikator**  **einer Einrichtung** **in Form einer**
-
-**Betriebsstättennummer (BSNR), IK-** **Nummer, KZV-Abrechnungsnummer oder**  **Standortnummer und kann zusätzlich eine**  **Telematik-ID enthalten.**
-
-Dieses Feld enthält eine  Betriebsstättennummer (BSNR) zur  Identifikation einer Einrichtung. Im  vertragsärztlichen Bereich ist das Feld eine  Voraussetzung für die Abrechnung  zwischen Leistungserbringern und  Kostenträgern.
-
-Dieses Feld enthält ein  Institutionskennzeichen (IK), welches von  der ARGE·IK vergeben wird und ein  eindeutiges Merkmal zur Abrechnung mit  den Trägern der Sozialversicherung ist.
+0..1 Dieses Feld enthält ein  Institutionskennzeichen (IK), welches von  der ARGE·IK vergeben wird und ein  eindeutiges Merkmal zur Abrechnung mit  den Trägern der Sozialversicherung ist.
 
 **BEDINGUNGEN**
 
-**WENN**  **das Feld "Kostenträgertyp" gleich "GKV" oder**  **„PKV“ oder "BG" oder "SKT" oder "UK" ist, und**  **das Feld "Typ der ausstellenden/**  **verschreibenden Person" gleich "00" oder "01"**  **oder "03" oder „04“ ist,**
+**WENN**  **das Feld "Kostenträgertyp" gleich "GKV" oder**
+
+**verschreibenden Person" gleich "00" oder "01"**  **oder "03" oder „04“ ist,**
 
 **DANN**  **ist dieser Block Pflicht.**
 
@@ -6671,65 +6662,59 @@ ANSONSTEN  darf dieses Feld nicht angegeben werden.
 
 64
 
-**4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
-
-x   KZV- Abrechnungsnummer
-
-x   Standortnummer
-
-x   Telematik-ID der  Einrichtung
-
-Name der Einrichtung
-
-**Straßenadresse der**  **Einrichtung**
-
-x   Wohnsitzländercode der  Einrichtung
-
-x   Postleitzahl der  Einrichtung
+**4 5 6 FELDNAME**
 
 **LÄNGE**
 
-9
+**(GRAU = FELDGRUPPE)**
+
+x   KZV-
 
 9
 
-1..128
+Abrechnungsnummer
 
-1..60
+x   Standortnummer 9
 
-Kodiert 1..10
+x   Telematik-ID der 1..128
 
-**WIE-** **DERH.**
+Einrichtung
 
-0..1
+Name der Einrichtung 1..60
 
-0..1
+**Straßenadresse der**
 
-0..1
+**Einrichtung**
 
-0..1
+x   Wohnsitzländercode der Kodiert
 
-**1..1**
+Einrichtung
 
-0..1
+x   Postleitzahl der 1..10
 
-0..1
+Einrichtung
 
-**BESCHREIBUNG**
+**WIE- BESCHREIBUNG**
 
-Dieses Feld enthält eine  Abrechnungsnummer der  Kassenzahnärztlichen Vereinigung (KZV).  Abrechnungsnummern des Zahnarztes/der  Zahnärztin mit weniger als 9 Stellen sind  mit vorangestellten Nullen entsprechend  zu füllen.
+**DERH.**
 
-Dieses Feld enthält eine Standortnummer  eines Krankenhauses.
+0..1 Dieses Feld enthält eine  Abrechnungsnummer der  Kassenzahnärztlichen Vereinigung (KZV).  Abrechnungsnummern des Zahnarztes/der  Zahnärztin mit weniger als 9 Stellen sind  mit vorangestellten Nullen entsprechend  zu füllen.
 
-Dieses Feld enthält eine Telematik-ID der  Einrichtung.
+0..1 Dieses Feld enthält eine Standortnummer  eines Krankenhauses.
 
-Dieses Feld enthält die Bezeichnung der  Einrichtung (Praxis / Krankenhaus)
+0..1 Dieses Feld enthält eine Telematik-ID der
 
-**Dieser Block enthält Daten zur**  **Straßenadresse der Einrichtung.**
+Einrichtung.
 
-Dieses Feld enthält den  Wohnsitzländercode (entsprechend  Gemeinsames Rundschreiben DEÜV  Anlage 08).
+0..1 Dieses Feld enthält die Bezeichnung der  Einrichtung (Praxis / Krankenhaus)
 
-Dieses Feld enthält die Postleitzahl.
+**1..1** **Dieser Block enthält Daten zur**  **Straßenadresse der Einrichtung.**
+
+0..1 Dieses Feld enthält den  Wohnsitzländercode (entsprechend  Gemeinsames Rundschreiben DEÜV
+
+Anlage 08).
+
+0..1 Dieses Feld enthält die Postleitzahl.
 
 **BEDINGUNGEN**
 
@@ -6800,89 +6785,59 @@ Ausstellungsdatum
 
 Kategorie
 
-**LÄNGE**
-
-1..46
-
-1..9
-
-1..40
-
-1..30
-
-1..30
-
-1..256
-
-10
-
-Kodiert
-
-**WIE-** **DERH.**
-
-1..1
-
-1..1
-
-1..1
-
-0..1
-
-**1..1**
-
-1..1
-
-0..1
-
-0..1
-
-**1..1**
-
-**1..1**
-
-1..1
-
-1..1
-
-**BESCHREIBUNG**
+**LÄNGE WIE- BESCHREIBUNG**
 
 **BEDINGUNGEN**
 
-Dieses Feld enthält den Ortsnamen.
+**DERH.**
+
+1..1 Dieses Feld enthält den Ortsnamen.
 
 Mehrere Namensbestandteile sind durch  Blank/Sonderzeichen getrennt.
 
-Dieses Feld enthält den Straßennamen.
+1..46
 
-Dieses Feld enthält die Hausnummer.
+1..1 Dieses Feld enthält den Straßennamen.
 
-Dieses Feld enthält den Anschriftenzusatz,
+1..9
+
+1..1 Dieses Feld enthält die Hausnummer.
+
+1..40
+
+0..1 Dieses Feld enthält den Anschriftenzusatz,
 
 z.B. Hinterhaus.
 
-**Dieser Block enthält die Kontaktdaten der**
+**1..1** **Dieser Block enthält die Kontaktdaten der**
 
 **Einrichtung.**
 
-Dieses Feld enthält die Telefonnummer.
+1..30
 
-Dieses Feld enthält die Faxnummer.
+1..1 Dieses Feld enthält die Telefonnummer.
 
-Dieses Feld enthält die E-Mail - Adresse
+1..30
+
+0..1 Dieses Feld enthält die Faxnummer.
+
+1..256 0..1 Dieses Feld enthält die E-Mail - Adresse
 
 der Einrichtung  Bei grenzüberschreitender Einlösung einer  Arzneimittelverordnung ist diese zwingend  anzugeben.
 
-**Dieser Block enthält Daten der**
+**1..1 Dieser Block enthält Daten der**
 
 **Verordnung.**
 
-**Dieser Block enthält allgemeine Daten der**
+**1..1 Dieser Block enthält allgemeine Daten der**
 
 **Verordnung.**
 
-Dieses Feld enthält das Ausstellungsdatum  der Verordnung.
+10
 
-Dieses Feld enthält die Kennzeichnung der  Arzneimittelkategorie der Verordnung,  bspw. Betäubungsmittel oder teratogene
+1..1 Dieses Feld enthält das Ausstellungsdatum  der Verordnung.
+
+Kodiert 1..1 Dieses Feld enthält die Kennzeichnung der  Arzneimittelkategorie der Verordnung,  bspw. Betäubungsmittel oder teratogene
 
 
 ---
@@ -6899,53 +6854,45 @@ x 85
 
 x 188   x
 
-**4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
-
-Noctu
-
-Sprechstundenbedarf /  Praxisbedarf
-
-Impfstoff
-
-SER
-
-eMP-Identifier
+**4 5 6 FELDNAME**
 
 **LÄNGE**
 
-Bool
+**(GRAU = FELDGRUPPE)**
+
+Noctu
 
 Bool
 
+Sprechstundenbedarf /  Bool
+
+Praxisbedarf
+
+Impfstoff
+
 Bool
 
-Bool 36
+SER
 
-**WIE-** **DERH.**
+Bool
 
-0..1
+eMP-Identifier 36
 
-0..1
+**WIE- BESCHREIBUNG**
 
-1..1
-
-0..1
-
-0..1
-
-**BESCHREIBUNG**
+**DERH.**
 
 Arzneimittel oder sonstige Arzneimittel für  ein BtM-Rezept.
 
-Dieses Feld enthält die Kennzeichnung, ob  diese Verordnung auch während der  allgemeinen Ladenschlusszeiten beliefert  werden soll, verbunden mit der Erhebung  der Noctu-Gebühr (Notdienstgebühr) zu  Lasten der Krankenkasse gemäß  Arzneimittelpreisverordnung.
+0..1 Dieses Feld enthält die Kennzeichnung, ob  diese Verordnung auch während der  allgemeinen Ladenschlusszeiten beliefert  werden soll, verbunden mit der Erhebung  der Noctu-Gebühr (Notdienstgebühr) zu  Lasten der Krankenkasse gemäß  Arzneimittelpreisverordnung.
 
-Dieses Feld enthält die Kennzeichnung, ob  es sich um die Verordnung von  Sprechstundenbedarf an Arzneimitteln und  sonstigen nach § 31 SGB V in die  Arzneimittelversorgung  einbezogenen Produkten bzw. um  Praxisbedarf an Betäubungsmitteln im  Sinne des Betäubungsmittelgesetzes  (BtMG) handelt.
+0..1 Dieses Feld enthält die Kennzeichnung, ob  es sich um die Verordnung von  Sprechstundenbedarf an Arzneimitteln und  sonstigen nach § 31 SGB V in die  Arzneimittelversorgung  einbezogenen Produkten bzw. um  Praxisbedarf an Betäubungsmitteln im  Sinne des Betäubungsmittelgesetzes  (BtMG) handelt.
 
-Dieses Feld enthält die Kennzeichnung, ob  es sich bei der Verordnung um Impfstoff  handelt.
+1..1 Dieses Feld enthält die Kennzeichnung, ob  es sich bei der Verordnung um Impfstoff  handelt.
 
-Dieses Feld enthält die Kennzeichnung, ob  die Verordnung für Anspruchsberechtigte  nach dem Sozialen Entschädigungsrecht  (SER) erfolgt.
+0..1 Dieses Feld enthält die Kennzeichnung, ob  die Verordnung für Anspruchsberechtigte  nach dem Sozialen Entschädigungsrecht  (SER) erfolgt.
 
-Dieses Feld enthält einen Identifikator für  einen Eintrag im elektronischen
+0..1 Dieses Feld enthält einen Identifikator für  einen Eintrag im elektronischen
 
 **BEDINGUNGEN**
 
@@ -6972,7 +6919,11 @@ WENN  KEIN "Sprechstundenbedarf/ Praxisbedarf“ "
 
 **ID 1 2 3**
 
-**86**   **x**
+**86**   **x**    **Mehrfachverordnung**
+
+**0..1 Dieser Block enthält Angaben zur**
+
+**WENN**
 
 87
 
@@ -6980,59 +6931,51 @@ WENN  KEIN "Sprechstundenbedarf/ Praxisbedarf“ "
 
 88
 
-**4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
-
-**Mehrfachverordnung**
-
-x
-
-Kennzeichen  Mehrfachverordnung
-
-x   ID Mehrfachverordnung
-
-x
-
-Zähler  Mehrfachverordnung
+**4 5 6 FELDNAME**
 
 **LÄNGE**
 
-Bool 45
+**(GRAU = FELDGRUPPE)**
 
-1
+x
 
-**WIE-** **DERH.**
+Kennzeichen
 
-**0..1**
+Bool
 
-1..1
+Mehrfachverordnung
 
-0..1
+x   ID Mehrfachverordnung 45
 
-0..1
+x
 
-**BESCHREIBUNG**
+Zähler 1
+
+Mehrfachverordnung
+
+**WIE- BESCHREIBUNG**
+
+**DERH.**
 
 Medikationsplan (eMP) des Versicherten.  Der eMP-Identifier wird vom ePA- Aktensystem bei der erstmaligen Anlage  eines eMP-Eintrags generiert und dient  dem ePA Medication Service im Rahmen  des digitalen Medikationsprozesses  (dgMP) zur Verknüpfung zwischen eMP- Eintrag und Verordnung [ePA Medication
 
 Service IG
 
-**Dieser Block enthält Angaben zur**  **Mehrfachverordnung.**
+**Mehrfachverordnung.**
 
-Dieses Feld enthält die Kennzeichnung, ob  es sich bei der Verordnung um eine  Mehrfachverordnung handelt.
+**KEIN "Sprechstundenbedarf" verordnet wird,**  **DANN**  **ist dieser Block Pflicht.**
 
-Dieses Feld enthält eine eineindeutige ID,  welche über alle Teilverordnungen einer  Mehrfachverordnung identisch ist.
+1..1 Dieses Feld enthält die Kennzeichnung, ob  es sich bei der Verordnung um eine  Mehrfachverordnung handelt.
 
-Dieses Feld enthält die Angabe, um die  wievielte Teilverordnung einer  Mehrfachverordnung (Serie) es sich  handelt. Beispiel: "2" in "2 von 4"
+0..1 Dieses Feld enthält eine eineindeutige ID,  welche über alle Teilverordnungen einer  Mehrfachverordnung identisch ist.
+
+0..1 Dieses Feld enthält die Angabe, um die  wievielte Teilverordnung einer  Mehrfachverordnung (Serie) es sich  handelt. Beispiel: "2" in "2 von 4"
 
 **BEDINGUNGEN**
 
 verordnet wird,  DANN  kann dieses Feld angegeben werden.
 
 ANSONSTEN  darf es nicht gesetzt werden.
-
-**WENN**  **KEIN "Sprechstundenbedarf" verordnet wird,**
-
-**DANN**  **ist dieser Block Pflicht.**
 
 **ANSONSTEN**  **darf dieser Block nicht vorhanden sein.**
 
@@ -7085,33 +7028,25 @@ Ende Einlösefrist der  Verordnung
 
 x   BtM-Sonderkennzeichen
 
-**LÄNGE**
+**LÄNGE WIE- BESCHREIBUNG**
+
+**DERH.**
 
 1
 
-10
+0..1 Dieses Feld enthält die Angabe der Länge  dieser Serie, d.h. die Gesamtanzahl der  Teilverordnungen der  Mehrfachverordnung. Beispiel: "4" in "2  von 4"
 
 10
 
-Kodiert
+0..1 Dieses Feld enthält das Datum, ab dem die  Teilverordnung der Mehrfachverordnung  eingelöst werden kann.
 
-**WIE-** **DERH.**
-
-0..1
-
-0..1
+10
 
 0..1
 
 **0..1**
 
-0..1
-
-**BESCHREIBUNG**
-
-Dieses Feld enthält die Angabe der Länge  dieser Serie, d.h. die Gesamtanzahl der  Teilverordnungen der  Mehrfachverordnung. Beispiel: "4" in "2  von 4"
-
-Dieses Feld enthält das Datum, ab dem die  Teilverordnung der Mehrfachverordnung  eingelöst werden kann.
+Kodiert 0..1
 
 Dieses Feld enthält das Datum des letzten  Einlösetages der Teilverordnung der  Mehrfachverordnung.  Von der ausstellenden Person kann eine  von der  Arzneimittelverschreibungsverordnung  (AMVV) abweichende Einlösefrist  angegeben werden.
 
@@ -7152,8 +7087,6 @@ ANSONSTEN  darf es nicht gesetzt werden.
 
 163
 
-164
-
 **4 5 6 FELDNAME**
 
 **LÄNGE**
@@ -7164,27 +7097,17 @@ ANSONSTEN  darf es nicht gesetzt werden.
 
 **Substitutionsmitteln**
 
-x  Wert der Reichdauer des  Substitutionsmittels
+x  Wert der Reichdauer des 1..2
 
-x  Einheit der Reichdauer  des Substitutionsmittels 1..2
+Substitutionsmittels
 
-6
+**WIE- BESCHREIBUNG**
 
-**WIE-** **DERH.**
+**DERH.**
 
-**0..1**
+**0..1** **Dieser Block enthält Angaben für die**  **Verordnung eines Substitutionsmittels**  **nach § 5 BtMVV.**
 
-0..1
-
-0..1
-
-**BESCHREIBUNG**
-
-**Dieser Block enthält Angaben für die**  **Verordnung eines Substitutionsmittels**  **nach § 5 BtMVV.**
-
-Dieses Feld enthält den Wert der die  Reichdauer des Substitutionsmittels. Bei  einer Reichdauer von bspw. 10 Tagen ist  der Wert 10.
-
-Dieses Feld enthält die Einheit der  Reichdauer des Substitutionsmittels.
+0..1 Dieses Feld enthält den Wert der die  Reichdauer des Substitutionsmittels. Bei  einer Reichdauer von bspw. 10 Tagen ist  der Wert 10.
 
 **BEDINGUNGEN**
 
@@ -7198,7 +7121,15 @@ Dieses Feld enthält die Einheit der  Reichdauer des Substitutionsmittels.
 
 WENN  das Feld "BtM-Sonderkennzeichen" gleich „ST“ ist
 
-DANN  muss dieses Feld angegeben werden.  ANSONSTEN  kann das Feld angegeben werden.   WENN  das Feld vorhanden ist,  DANN  darf der Wert maximal 30 sein.
+DANN  muss dieses Feld angegeben werden.  ANSONSTEN  kann das Feld angegeben werden.   WENN  das Feld vorhanden ist,
+
+164     x  Einheit der Reichdauer 6 0..1
+
+des Substitutionsmittels
+
+Dieses Feld enthält die Einheit der  Reichdauer des Substitutionsmittels.
+
+DANN  darf der Wert maximal 30 sein.
 
 WENN  das Feld "Reichdauer des Substitutionsmittels "  angegeben ist  DANN  muss dieses Feld angegeben werden.  ANSONSTEN  darf das Feld nicht angegeben werden.
 
@@ -7211,15 +7142,17 @@ WENN  das Feld "Reichdauer des Substitutionsmittels "  angegeben ist  DANN  muss
 
 **166**   **x**
 
-**4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
-
-x  Ergänzende Angaben  zum Substitutionsmittel
-
-**T-Rezept-Angaben**
+**4 5 6 FELDNAME**
 
 **LÄNGE**
 
-1..500
+**(GRAU = FELDGRUPPE)**
+
+x  Ergänzende Angaben 1..500
+
+zum Substitutionsmittel
+
+**T-Rezept-Angaben**
 
 **WIE- BESCHREIBUNG**
 
@@ -7233,9 +7166,7 @@ x  Ergänzende Angaben  zum Substitutionsmittel
 
 WENN  das Feld vorhanden ist,  DANN  muss der Wert „Tag(e)“ sein.
 
-**WENN**  **"Sprechstundenbedarf / Praxisbedarf " verordnet**  **wird,**
-
-**DANN**  **darf dieser Block nicht vorhanden sein.**  **ANSONSTEN WENN**  **das Feld "Kategorie" gleich „02“ ist,**
+**WENN**  **"Sprechstundenbedarf / Praxisbedarf " verordnet**  **wird,**  **DANN**  **darf dieser Block nicht vorhanden sein.**  **ANSONSTEN WENN**  **das Feld "Kategorie" gleich „02“ ist,**
 
 **DANN**  **muss dieser Block vorhanden sein.**  **ANSONSTEN**  **darf dieser Block nicht vorhanden sein.**
 
@@ -7256,61 +7187,57 @@ WENN  das Feld vorhanden ist,  DANN  muss der Wert „Tag(e)“ sein.
 
 172
 
-**4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
-
-x   Off-Label
-
-x   Gebärfähige Frau
-
-x   Wert der Reichdauer des  T-Arzneimittels
-
-x   Einheit der Reichdauer  des T-Arzneimittels
-
-x   Einhaltung  Sicherheitsmaßnahmen
-
-x   Aushändigung  Informationsmaterialien
+**4 5 6 FELDNAME**
 
 **LÄNGE**
 
-Bool
+**(GRAU = FELDGRUPPE)**
 
-Bool 1..2
-
-8
+x   Off-Label
 
 Bool
 
+x   Gebärfähige Frau
+
 Bool
 
-**WIE-** **DERH.**
+x   Wert der Reichdauer des 1..2
 
-1..1
+T-Arzneimittels
 
-1..1
+x   Einheit der Reichdauer 8
 
-1..1
+des T-Arzneimittels
 
-1..1
+x   Einhaltung
 
-1..1
+Bool
 
-1..1
+Sicherheitsmaßnahmen
 
-**BESCHREIBUNG**
+x   Aushändigung
 
-Dieses Feld enthält eine Angabe, ob eine  Behandlung außerhalb der jeweils  zugelassenen Anwendungsgebiete („Off
+Bool
+
+Informationsmaterialien
+
+**WIE- BESCHREIBUNG**
+
+**DERH.**
+
+1..1 Dieses Feld enthält eine Angabe, ob eine  Behandlung außerhalb der jeweils  zugelassenen Anwendungsgebiete („Off
 
 Label“) erfolgt.
 
-Dieses Feld enthält die Angabe, ob es sich  um eine Verschreibung für eine  gebärfähige Frau handelt.
+1..1 Dieses Feld enthält die Angabe, ob es sich  um eine Verschreibung für eine  gebärfähige Frau handelt.
 
-Dieses Feld enthält den Wert der die  Reichdauer des verordneten teratogenen  Arzneimittels. Bei einer Reichdauer von  bspw. 3 Wochen ist der Wert 3.
+1..1 Dieses Feld enthält den Wert der die  Reichdauer des verordneten teratogenen  Arzneimittels. Bei einer Reichdauer von  bspw. 3 Wochen ist der Wert 3.
 
-Dieses Feld enthält die Einheit der  Reichdauer des verordneten teratogenen  Arzneimittels.
+1..1 Dieses Feld enthält die Einheit der  Reichdauer des verordneten teratogenen  Arzneimittels.
 
-Dieses Feld enthält eine Angabe, ob die  Sicherheitsmaßnahmen gemäß der  aktuellen Fachinformation eines  entsprechenden Fertigarzneimittels  eingehalten werden, insbesondere, dass  erforderlichenfalls ein Schwangerschafts- Präventionsprogramm durchgeführt wird.
+1..1 Dieses Feld enthält eine Angabe, ob die  Sicherheitsmaßnahmen gemäß der  aktuellen Fachinformation eines  entsprechenden Fertigarzneimittels  eingehalten werden, insbesondere, dass  erforderlichenfalls ein Schwangerschafts- Präventionsprogramm durchgeführt wird.
 
-Dieses Feld enthält eine Angabe, ob der  Patientin oder dem Patienten vor Beginn  der medikamentösen Behandlung  geeignete medizinische
+1..1 Dieses Feld enthält eine Angabe, ob der  Patientin oder dem Patienten vor Beginn  der medikamentösen Behandlung  geeignete medizinische
 
 **BEDINGUNGEN**
 
@@ -7337,6 +7264,10 @@ gleich „true“ ist,
 
 **101 x**
 
+**Verordnungsinhalt**
+
+**1..1 Dieser Block enthält Angaben zum Inhalt**  **der Verordnung.**
+
 102
 
 x 103
@@ -7347,41 +7278,25 @@ x
 
 x   Erklärung Sachkenntnis
 
-**Verordnungsinhalt**
-
 Aut idem
 
 Darreichungsform
 
-**LÄNGE**
+**LÄNGE WIE- BESCHREIBUNG**
 
-Bool
-
-Bool
-
-Kodiert
-
-**WIE-** **DERH.**
-
-1..1
-
-**1..1**
-
-0..1
-
-0..1
-
-**BESCHREIBUNG**
+**DERH.**
 
 Informationsmaterialien ausgehändigt  wurden.
 
-Dieses Feld enthält die Erklärung, ob die  verschreibende Person über ausreichende  Sachkenntnisse zur Verschreibung von  Arzneimitteln mit Lenalidomid,  Pomalidomid oder Thalidomid verfügt.
+Bool
 
-**Dieser Block enthält Angaben zum Inhalt**  **der Verordnung.**
+1..1 Dieses Feld enthält die Erklärung, ob die  verschreibende Person über ausreichende  Sachkenntnisse zur Verschreibung von  Arzneimitteln mit Lenalidomid,  Pomalidomid oder Thalidomid verfügt.
 
-Dieses Feld enthält die Angabe, ob das  Arzneimittel austauschbar ist oder nicht.  Wenn ein Austausch in der Apotheke  zulässig ist, wird dieses Feld auf true  gesetzt.
+Bool
 
-Dieses Feld enthält die Angabe der  Darreichungsform entsprechend der Daten  nach § 131 Abs. 4 SGB V und ist immer zu  verwenden, wenn ein Fertigarzneimittel  gemäß Preis- und Produktverzeichnis  verordnet wird.
+0..1 Dieses Feld enthält die Angabe, ob das  Arzneimittel austauschbar ist oder nicht.  Wenn ein Austausch in der Apotheke  zulässig ist, wird dieses Feld auf true  gesetzt.
+
+Kodiert 0..1 Dieses Feld enthält die Angabe der  Darreichungsform entsprechend der Daten  nach § 131 Abs. 4 SGB V und ist immer zu  verwenden, wenn ein Fertigarzneimittel  gemäß Preis- und Produktverzeichnis  verordnet wird.
 
 **BEDINGUNGEN**
 
@@ -7414,55 +7329,43 @@ x 155   x
 
 189   x
 
-**4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
-
-Darreichungsform  Freitext
-
-Abgabehinweis
-
-Verschreiber-ID
-
-Patienten-ID
+**4 5 6 FELDNAME**
 
 **LÄNGE**
 
-1..30
+**(GRAU = FELDGRUPPE)**
 
-1..500
+Darreichungsform 1..30
 
-1..45
+Freitext
 
-1..45
+Abgabehinweis 1..500
 
-**WIE-** **DERH.**
+Verschreiber-ID 1..45
 
-0..1
+Patienten-ID 1..45
 
-0..1
+**WIE- BESCHREIBUNG**
 
-0..1
+**DERH.**
 
-0..1
+0..1 Dieses Feld enthält die Darreichungsform  als Freitext und kann verwendet werden,  wenn es sich nicht um ein  Fertigarzneimittel handelt.
 
-**BESCHREIBUNG**
+0..1 Dieses Feld enthält über die Dosierung  hinausgehende / sonstige Abgabehinweise  an die Apotheke.
 
-Dieses Feld enthält die Darreichungsform  als Freitext und kann verwendet werden,  wenn es sich nicht um ein  Fertigarzneimittel handelt.
+0..1 Dieses Feld enthält eine Verschreiber-ID,  welche bei der Verordnung bestimmter  Präparate (bspw. Fintepla®) anzugeben ist.  Die rechtliche Grundlage ergibt  sich aus der Zulassung des Arzneimittels.  Hier ist eine Belieferung in der Apotheke  nur möglich, wenn eine  Verschreiber-ID angegeben wurde.
 
-Dieses Feld enthält über die Dosierung  hinausgehende / sonstige Abgabehinweise  an die Apotheke.
-
-Dieses Feld enthält eine Verschreiber-ID,  welche bei der Verordnung bestimmter  Präparate (bspw. Fintepla®) anzugeben ist.  Die rechtliche Grundlage ergibt  sich aus der Zulassung des Arzneimittels.  Hier ist eine Belieferung in der Apotheke  nur möglich, wenn eine  Verschreiber-ID angegeben wurde.
-
-Dieses Feld enthält eine Patienten-ID,  welche bei der Verordnung bestimmter  Arzneimittel (bspw. Fabhalta®, Aspaveli®,  Zilbrysq®) angegeben werden kann. Es  besteht keine Verpflichtung zur Befüllung  dieses Feldes, da die Patienten-ID beim  Patienten erfragt werden kann, dem sie  auf einer an ihn ausgehändigten  Patientenkarte vorliegen sollte.
+0..1 Dieses Feld enthält eine Patienten-ID,  welche bei der Verordnung bestimmter  Arzneimittel (bspw. Fabhalta®, Aspaveli®,  Zilbrysq®) angegeben werden kann. Es  besteht keine Verpflichtung zur Befüllung  dieses Feldes, da die Patienten-ID beim  Patienten erfragt werden kann, dem sie  auf einer an ihn ausgehändigten  Patientenkarte vorliegen sollte.
 
 **BEDINGUNGEN**
 
-WENN  der Block „Rezeptierdaten PZN gesetzt ist,  DANN  darf es nicht befüllt werden.
+WENN  der Block „Rezeptierdaten PZN Verordnung“
+
+gesetzt ist,  DANN  darf es nicht befüllt werden.
 
 ANSONSTEN WENN  der Block "Rezeptierdaten Rezepturverordnung"  gesetzt ist oder der Block "Rezeptierdaten  Wirkstoffverordnung" gesetzt ist,  DANN  muss das Feld befüllt werden
 
 ANSONSTEN  darf es befüllt werden.
-
-Verordnung“
 
 
 ---
@@ -7480,27 +7383,31 @@ Verordnung“
 
 Bool 1..500
 
-**WIE-** **DERH.**
+**WIE- BESCHREIBUNG**
 
-**0..1**
+**DERH.**
 
-1..1
+**0..1 Dieser Block enthält Angaben zur**  **Dosierung.**
 
-0..1
+**das Feld "Kategorie" gleich „01“ oder „02“ ist**
 
-**BESCHREIBUNG**
+**Hinweis: Die Längenangaben der Felder ODER der Block "Rezeptierdaten**
 
-**Dieser Block enthält Angaben zur**  **Dosierung.**  **Hinweis: Die Längenangaben der Felder**  **dieses Blocks werden durch den HL7**  **Implementation Guide [Medication IG DE]** **vorgegeben.**
+**dieses Blocks werden durch den HL7**
 
-Dieses Feld enthält ein Kennzeichen zur  Dosierung bzw. Gebrauchsanweisung bei  BtM-Verordnungen und beschreibt, ob  eine Dosieranweisung bzw.  Gebrauchsanweisung bei BtM- Verordnungen übermittelt oder ein  Medikationsplan bzw. schriftliche  Gebrauchsanweisung bei BtM-Verordnung  mitgegeben wird.
+**Rezepturverordnung" angegeben ist**
 
-Dieses Feld enthält eine freitextliche  Dosieranweisung bzw.  Gebrauchsanweisung bei Rezepturen und  BtM-Verordnungen.
+**Implementation Guide [Medication IG DE]** **vorgegeben.**
+
+1..1 Dieses Feld enthält ein Kennzeichen zur  Dosierung bzw. Gebrauchsanweisung bei  BtM-Verordnungen und beschreibt, ob  eine Dosieranweisung bzw.  Gebrauchsanweisung bei BtM- Verordnungen übermittelt oder ein  Medikationsplan bzw. schriftliche  Gebrauchsanweisung bei BtM-Verordnung  mitgegeben wird.
+
+0..1 Dieses Feld enthält eine freitextliche  Dosieranweisung bzw.  Gebrauchsanweisung bei Rezepturen und  BtM-Verordnungen.
 
 **BEDINGUNGEN**
 
-**WENN**  **das Feld "Kategorie" gleich „01“ oder „02“ ist**
+**WENN**
 
-**ODER der Block "Rezeptierdaten**  **Rezepturverordnung" angegeben ist** **UND KEIN**
+**UND KEIN**
 
 **"Sprechstundenbedarf/ Praxisbedarf** **" verordnet**
 
@@ -7537,29 +7444,27 @@ WENN  (das Feld "Kennzeichen Dosierung" gleich "true" ist  UND der Block „Dosi
 
 **LÄNGE**
 
-Kodiert 3
+Kodiert
+
+**Gebrauchsanweisung.**
+
+**ist UND das Feld „Dosieranweisung /**  **Gebrauchsanweisung Freitext“ nicht angegeben**  **ist**
+
+3
 
 Kodiert
 
-**WIE-** **DERH.**
+**WIE- BESCHREIBUNG**
 
-1..1
+**DERH.**
 
-**0..***
+1..1 Dieses Feld enthält die Kategorie der  Dosieranweisung / Gebrauchsanweisung  (Freitext, Strukturiert nach Vierer-Schema,  etc.).
 
-0..1
+**0..* Dieser Block enthält Angaben für eine**  **strukturierte Dosieranweisung /**
 
-0..1
+0..1 Dieses Feld enthält den Wert der Dauer  der Dosieranweisung (z.B. 10).
 
-**BESCHREIBUNG**
-
-Dieses Feld enthält die Kategorie der  Dosieranweisung / Gebrauchsanweisung  (Freitext, Strukturiert nach Vierer-Schema,  etc.).
-
-**Dieser Block enthält Angaben für eine**  **strukturierte Dosieranweisung /**  **Gebrauchsanweisung.**
-
-Dieses Feld enthält den Wert der Dauer  der Dosieranweisung (z.B. 10).
-
-Dieses Feld enthält die Einheit der Dauer  der Dosieranweisung (z.B. Tage).
+0..1 Dieses Feld enthält die Einheit der Dauer  der Dosieranweisung (z.B. Tage).
 
 **BEDINGUNGEN**
 
@@ -7573,7 +7478,9 @@ DANN  ist dieses Feld Pflicht.
 
 ANSONSTEN  darf es nicht angegeben werden.
 
-**WENN**  **das Feld "Kennzeichen Dosierung" gleich "true"**  **ist UND das Feld „Dosieranweisung /**  **Gebrauchsanweisung Freitext“ nicht angegeben**  **ist**  **das Feld „Dosieranweisung Kategorie“ gleich**  **„DAILY_FOUR_SCHEME“, „DAILY_TIME“,**  **„INTERVAL“ oder „WEEKDAY“ ist**
+**WENN**  **das Feld "Kennzeichen Dosierung" gleich "true"**
+
+**das Feld „Dosieranweisung Kategorie“ gleich**  **„DAILY_FOUR_SCHEME“, „DAILY_TIME“,**  **„INTERVAL“ oder „WEEKDAY“ ist**
 
 **DANN**  **darf muss dieser Block angegeben werden.**
 
@@ -7598,45 +7505,37 @@ DANN  ist dieses Feld Pflicht.
 
 181
 
-**4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
-
-x  Häufigkeit der  Anwendung pro  Zeitangabe
-
-x  Wert der Zeitangabe
-
-x  Einheit der Zeitangabe
-
-x  Wochentag der  Anwendung
+**4 5 6 FELDNAME**
 
 **LÄNGE**
 
-2
+**(GRAU = FELDGRUPPE)**
 
-2
+x  Häufigkeit der 2
+
+Anwendung pro  Zeitangabe
+
+x  Wert der Zeitangabe 2
+
+x  Einheit der Zeitangabe Kodiert
+
+x  Wochentag der
 
 Kodiert
 
-Kodiert
+Anwendung
 
-**WIE-** **DERH.**
+**WIE- BESCHREIBUNG**
 
-0..1
+**DERH.**
 
-0..1
+0..1 Dieses Feld enthält die Häufigkeit der  Anwendung pro Zeitangabe.  Beispiel Dosieranweisung „2mal täglich“:  Häufigkeit der Anwendung ist 2. Wert der  Zeitangabe ist 1. Einheit der Zeitangabe ist  Tag.
 
-0..1
+0..1 Dieses Feld enthält den Wert der  Zeitangabe (z.B. 1).
 
-0..1
+0..1 Dieses Feld enthält die Einheit der  Zeitangabe (z.B. Tag)
 
-**BESCHREIBUNG**
-
-Dieses Feld enthält die Häufigkeit der  Anwendung pro Zeitangabe.  Beispiel Dosieranweisung „2mal täglich“:  Häufigkeit der Anwendung ist 2. Wert der  Zeitangabe ist 1. Einheit der Zeitangabe ist  Tag.
-
-Dieses Feld enthält den Wert der  Zeitangabe (z.B. 1).
-
-Dieses Feld enthält die Einheit der  Zeitangabe (z.B. Tag)
-
-Dieses Feld enthält den Wochentag der  Anwendung (z.B. Montag).
+0..1 Dieses Feld enthält den Wochentag der  Anwendung (z.B. Montag).
 
 **BEDINGUNGEN**
 
@@ -7685,13 +7584,13 @@ ANSONSTEN  darf es nicht angegeben werden
 
 186
 
-**4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
-
-x  Uhrzeit der Anwendung
+**4 5 6 FELDNAME**
 
 **LÄNGE**
 
-5
+**(GRAU = FELDGRUPPE)**
+
+x  Uhrzeit der Anwendung 5
 
 x  Tageszeit der
 
@@ -7711,29 +7610,19 @@ x   Generierter Text
 
 Dosieranweisung
 
-**WIE-** **DERH.**
+**WIE- BESCHREIBUNG**
 
-0..1
+**DERH.**
 
-0..1
+0..1 Dieses Feld enthält die Uhrzeit der  Anwendung.
 
-1..1
+0..1 Dieses Feld enthält die Tageszeit der  Anwendung (z.B. Mmorgens, mittags,  abends, zur Nacht).
 
-1..1
+1..1 Dieses Feld enthält den Wert der Menge  pro Anwendung (z.B. 30).
 
-0..1
+1..1 Dieses Feld enthält die Einheit der Menge  pro Anwendung (z.B. Tropfen).
 
-**BESCHREIBUNG**
-
-Dieses Feld enthält die Uhrzeit der  Anwendung.
-
-Dieses Feld enthält die Tageszeit der  Anwendung (z.B. Mmorgens, mittags,  abends, zur Nacht).
-
-Dieses Feld enthält den Wert der Menge  pro Anwendung (z.B. 30).
-
-Dieses Feld enthält die Einheit der Menge  pro Anwendung (z.B. Tropfen).
-
-Dieses Feld enthält einen Text, der von  einem Algorithmus [ePA Medication  Service IG] erzeugt wurde. Bei  strukturierten Dosierangaben enthält  dieses Feld eine menschenlesbare Ausgabe  der strukturierten Angaben. Bei  freitextlichen Dosierangaben enthält das  Feld denselben Text.
+0..1 Dieses Feld enthält einen Text, der von  einem Algorithmus [ePA Medication  Service IG] erzeugt wurde. Bei  strukturierten Dosierangaben enthält  dieses Feld eine menschenlesbare Ausgabe  der strukturierten Angaben. Bei  freitextlichen Dosierangaben enthält das  Feld denselben Text.
 
 **BEDINGUNGEN**
 
@@ -7770,43 +7659,43 @@ ANSONSTEN  darf es nicht angegeben werden.
 
 111
 
-**4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
+**4 5 6 FELDNAME**
 
-x   Metadaten zum  Algorithmus der  Textgenerierung
+**LÄNGE**
+
+**(GRAU = FELDGRUPPE)**
+
+x   Metadaten zum
+
+Algorithmus der  Textgenerierung
 
 **Packungsgröße**
 
 x
 
-Packungsgröße nach N- Bezeichnung
+Packungsgröße nach N- Kodiert
+
+Bezeichnung
 
 x
 
-Packungsgröße nach  abgeteilter Menge
+Packungsgröße nach 1..7
 
-**LÄNGE**
+abgeteilter Menge
 
-Kodiert 1..7
+**WIE- BESCHREIBUNG**
 
-**WIE-** **DERH.**
+**DERH.**
 
-0..1
+0..1 Dieses Feld enthält Metadaten zu dem  Algorithmus [Medication IG DE], z.B.  Version und Sprache.
 
-**0..1**
+**0..1 Dieser Block enthält Angaben zur**  **Packungsgröße.**
 
-0..1
+**der Block "Rezeptierdaten PZN-Verordnung"**  **gesetzt ist oder der Block "Rezeptierdaten**  **Wirkstoffverordnung" gesetzt ist,**  **DANN**  **ist dieser Block Pflicht**
 
-0..1
+0..1 Dieses Feld enthält die Normgröße der  therapiegerechten Packung (z.B. N1).
 
-**BESCHREIBUNG**
-
-Dieses Feld enthält Metadaten zu dem  Algorithmus [Medication IG DE], z.B.  Version und Sprache.
-
-**Dieser Block enthält Angaben zur**  **Packungsgröße.**
-
-Dieses Feld enthält die Normgröße der  therapiegerechten Packung (z.B. N1).
-
-Dieses Feld enthält die Packungsgröße (z.B.
+0..1 Dieses Feld enthält die Packungsgröße (z.B.
 
 100) und tritt nur in Verbindung mit  „Einheit“ auf (z.B. 100 Stück).
 
@@ -7818,7 +7707,7 @@ DANN  ist dieses Feld Pflicht.
 
 ANSONSTEN  darf es nicht angegeben werden.
 
-**WENN**  **der Block "Rezeptierdaten PZN-Verordnung"**  **gesetzt ist oder der Block "Rezeptierdaten**  **Wirkstoffverordnung" gesetzt ist,**  **DANN**  **ist dieser Block Pflicht**
+**WENN**
 
 **ANSONSTEN**  **darf dieser Block nicht angegeben werden.**
 
@@ -7830,7 +7719,9 @@ ODER das Feld "Packungsgröße nach N-Bezeichnung"  nicht angegeben ist, ODER da
 
 oder „N2“ oder „N3“ ist, ODER das Feld "Einheit"
 
-angegeben ist,  DANN  ist dieses Feld Pflicht.  ANSONSTEN  ist dieses Feld optional.
+angegeben ist,
+
+DANN  ist dieses Feld Pflicht.  ANSONSTEN  ist dieses Feld optional.
 
 
 ---
@@ -7863,23 +7754,19 @@ x
 
 ID des Produkts (PZN)
 
-**LÄNGE**
+**LÄNGE WIE-** **DERH.**
 
 1..12
 
-1..6
-
-Kodiert
-
-**WIE-** **DERH.**
-
 0..1
+
+1..6
 
 1..1
 
 **0..1**
 
-1..1
+Kodiert 1..1
 
 **BESCHREIBUNG**
 
@@ -7887,7 +7774,11 @@ Dieses Feld enthält die Einheit (z.B. Stück)  und tritt nur in Verbindung mit 
 
 Dieses Feld enthält die Anzahl der  verordneten Packungen.
 
-**Dieser Block enthält Rezeptierdaten**  **spezifisch für ein in den Preis- und**  **Produktverzeichnissen nach § 131 SGB V**  **gelistetes Produkt.**
+**Dieser Block enthält Rezeptierdaten**  **spezifisch für ein in den Preis- und**  **Produktverzeichnissen nach § 131 SGB V Verordnung"**
+
+**gelistetes Produkt.**
+
+**ODER**
 
 Dieses Feld enthält die  Pharmazentralnummer (PZN), die von der  Informationsstelle für Arzneispezialitäten  IFA, Frankfurt produktbezogen vergeben  wird und für die gesetzlichen  Krankenkassen gemäß Vereinbarungen  nach § 131 SGB V mit der  Pharmazeutischen Industrie und nach §  300 SGB V mit dem Deutschen  Apothekerverband vereinbart ist. Die
 
@@ -7903,11 +7794,9 @@ oder „N2“ oder „N3“ ist, ODER das Feld
 
 DANN  ist dieses Feld Pflicht.  ANSONSTEN  ist dieses Feld optional.
 
-**ENTWEDER**  **muss der Block "Rezeptierdaten PZN-** **Verordnung"**
+**ENTWEDER**  **muss der Block "Rezeptierdaten PZN-**
 
-**ODER**  **der Block "Rezeptierdaten Wirkstoffverordnung"**
-
-**ODER**  **der Block "Rezeptierdaten Rezepturverordnung"**  **ODER**  **der Block "Rezeptierdaten Freitextverordnung"**  **vorhanden sein.**
+**der Block "Rezeptierdaten Wirkstoffverordnung"**  **ODER**  **der Block "Rezeptierdaten Rezepturverordnung"**  **ODER**  **der Block "Rezeptierdaten Freitextverordnung"**  **vorhanden sein.**
 
 
 ---
@@ -7923,6 +7812,10 @@ DANN  ist dieses Feld Pflicht.  ANSONSTEN  ist dieses Feld optional.
 158
 
 **159**
+
+**x Wirkstärke**
+
+**1..1 Dieser Block enthält eine Angabe der**  **Wirkstärke. Diese ermittelt sich durch die**  **Angaben von Wirkstoffmenge und**  **Bezugsmenge.**
 
 159a
 
@@ -7942,8 +7835,6 @@ x Wirkstoffnummer
 
 x Wirkstoffname
 
-**x Wirkstärke**
-
 x Zahlenwert der  Wirkstoffmenge
 
 x Einheit der  Wirkstoffmenge
@@ -7952,33 +7843,27 @@ x Zahlenwert der
 
 Bezugsmenge
 
-**LÄNGE**
+**LÄNGE WIE-**
 
-1..100
+**DERH.**
 
-Kodiert 1..80
-
-1..15
-
-1..15
-
-1..15
-
-**WIE-** **DERH.**
-
-1..1
+1..100 1..1
 
 **1..n**
 
-0..1
+Kodiert 0..1 1..80
 
 1..1
 
-**1..1**
+1..15
 
 1..1
 
+1..15
+
 1..1
+
+1..15
 
 1..1
 
@@ -7997,8 +7882,6 @@ Dieses Feld enthält den Handelsnamen des  verordneten Präparates, welcher aus 
 Dieses Feld enthält eine ASK-Nummer  (Arzneimittelstoffkatalog-Nummer).
 
 Dieses Feld enthält einen Wirkstoffnamen  für ein Produkt, welches nach § 131 Abs. 4  SGB V gelistet ist.
-
-**Dieser Block enthält eine Angabe der**  **Wirkstärke. Diese ermittelt sich durch die**  **Angaben von Wirkstoffmenge und**  **Bezugsmenge.**
 
 Dieses Feld enthält eine Angabe eines
 
@@ -8031,33 +7914,39 @@ Zahlenwerts der Bezugsmenge. Die  zugehörige Einheit ist im Feld "Einheit der  
 
 **120**
 
+**x Wirkstärke**
+
+**1..1 Dieser Block enthält eine Angabe der**  **Wirkstärke. Diese ermittelt sich durch die**  **Angaben von Wirkstoffmenge und**  **Bezugsmenge.**
+
 120a
 
-**4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
+**4 5 6 FELDNAME**
 
-x Einheit der Bezugsmenge
+**LÄNGE**
 
-**Rezeptierdaten**  **Wirkstoffverordnung**
+**(GRAU = FELDGRUPPE)**
+
+x Einheit der Bezugsmenge 1..15
+
+**Rezeptierdaten**
+
+**Wirkstoffverordnung**
+
+**spezifisch für eine Wirkstoffverordnung. muss der Block "Rezeptierdaten PZN-** **Verordnung"**
 
 **x**   **Wirkstoff**
 
 x Wirkstoffnummer
 
-Wirkstoffname
+Kodiert
+
+Wirkstoffname 1..80
 
 x
 
-**x Wirkstärke**
+x Zahlenwert der 1..15
 
-x Zahlenwert der  Wirkstoffmenge
-
-**LÄNGE**
-
-1..15
-
-Kodiert 1..80
-
-1..15
+Wirkstoffmenge
 
 **WIE-** **DERH.**
 
@@ -8071,15 +7960,13 @@ Kodiert 1..80
 
 1..1
 
-**1..1**
-
 1..1
 
 **BESCHREIBUNG**
 
 Dieses Feld enthält die Einheit der  Bezugsmenge (bspw. ml).
 
-**Dieser Block enthält Rezeptierdaten**  **spezifisch für eine Wirkstoffverordnung.**
+**Dieser Block enthält Rezeptierdaten**
 
 **Dieser Block enthält die einzelnen**  **Wirkstoffe der Wirkstoffverordnung**
 
@@ -8087,13 +7974,11 @@ Dieses Feld enthält eine ASK-Nummer  (Arzneimittelstoffkatalog-Nummer).
 
 Dieses Feld enthält einen Wirkstoffnamen  für ein Wirkstoff- bzw. sonstiges  Fertigarzneimittel oder ein Produkt,  welches nicht nach § 131 Abs. 4 SGB V  gelistet ist.
 
-**Dieser Block enthält eine Angabe der**  **Wirkstärke. Diese ermittelt sich durch die**  **Angaben von Wirkstoffmenge und**  **Bezugsmenge.**
-
 Dieses Feld enthält eine Angabe eines  Zahlenwerts der Wirkstoffmenge. Die  zugehörige Einheit ist im Feld "Einheit der  Wirkstoffmenge" anzugeben.
 
 **BEDINGUNGEN**
 
-**ENTWEDER**  **muss der Block "Rezeptierdaten PZN-** **Verordnung"**
+**ENTWEDER**
 
 **ODER**  **der Block "Rezeptierdaten Wirkstoffverordnung"**  **ODER**  **der Block "Rezeptierdaten Rezepturverordnung"**  **ODER**  **der Block "Rezeptierdaten Freitextverordnung -**  **Freitext" vorhanden sein.**
 
@@ -8124,11 +8009,15 @@ Dieses Feld enthält eine Angabe eines  Zahlenwerts der Wirkstoffmenge. Die  zug
 
 x Einheit der  Wirkstoffmenge
 
-x Zahlenwert der  Bezugsmenge
+x Zahlenwert der
+
+Bezugsmenge
 
 x Einheit der Bezugsmenge
 
 **Rezeptierdaten**  **Rezepturverordnung**
+
+**spezifisch für eine Rezepturverordnung. muss der Block "Rezeptierdaten PZN-** **Verordnung"**
 
 x
 
@@ -8146,61 +8035,41 @@ x
 
 Herstellungsanweisung
 
-**LÄNGE**
+**LÄNGE WIE- BESCHREIBUNG**
+
+**DERH.**
 
 1..15
 
-1..15
+1..1 Dieses Feld enthält die Einheit der  Wirkstoffmenge (bspw. mg).
 
 1..15
+
+1..1 Dieses Feld enthält eine Angabe eines  Zahlenwerts der Bezugsmenge. Die  zugehörige Einheit ist im Feld "Einheit der  Bezugsmenge" anzugeben.
+
+1..15
+
+1..1 Dieses Feld enthält die Einheit der  Bezugsmenge (bspw. ml).
+
+**0..1 Dieser Block enthält Rezeptierdaten**
 
 1..70
 
+0..1 Dieses Feld enthält eine Bezeichnung der  Rezeptur (z.B. gemäß Deutschem  Arzneibuch: Zinkpaste DAB).
+
 1..7
+
+1..1 Dieses Feld enthält die Gesamtmenge der  Rezeptur (ohne die Einheit).
 
 1..12
 
-1..500
+1..1 Dieses Feld enthält die Einheit der  Gesamtmenge der Rezeptur.
 
-**WIE-** **DERH.**
-
-1..1
-
-1..1
-
-1..1
-
-**0..1**
-
-0..1
-
-1..1
-
-1..1
-
-0..1
-
-**BESCHREIBUNG**
-
-Dieses Feld enthält die Einheit der  Wirkstoffmenge (bspw. mg).
-
-Dieses Feld enthält eine Angabe eines  Zahlenwerts der Bezugsmenge. Die  zugehörige Einheit ist im Feld "Einheit der  Bezugsmenge" anzugeben.
-
-Dieses Feld enthält die Einheit der  Bezugsmenge (bspw. ml).
-
-**Dieser Block enthält Rezeptierdaten**  **spezifisch für eine Rezepturverordnung.**
-
-Dieses Feld enthält eine Bezeichnung der  Rezeptur (z.B. gemäß Deutschem  Arzneibuch: Zinkpaste DAB).
-
-Dieses Feld enthält die Gesamtmenge der  Rezeptur (ohne die Einheit).
-
-Dieses Feld enthält die Einheit der  Gesamtmenge der Rezeptur.
-
-Dieses Feld enthält Anweisungen bzgl. der  Herstellung der Rezeptur (Subscriptio).
+1..500 0..1 Dieses Feld enthält Anweisungen bzgl. der  Herstellung der Rezeptur (Subscriptio).
 
 **BEDINGUNGEN**
 
-**ENTWEDER**  **muss der Block "Rezeptierdaten PZN-** **Verordnung"**
+**ENTWEDER**
 
 **ODER**  **der Block "Rezeptierdaten Wirkstoffverordnung"**  **ODER**  **der Block "Rezeptierdaten Rezepturverordnung"**
 
@@ -8216,6 +8085,12 @@ Dieses Feld enthält Anweisungen bzgl. der  Herstellung der Rezeptur (Subscripti
 128
 
 **129**
+
+**x**
+
+**Bestandteil**
+
+**1..n Dieser Block enthält Angaben zu einem**  **Bestandteil der Rezeptur.**
 
 130
 
@@ -8233,10 +8108,6 @@ Verpackung
 
 x   Gebrauchsanweisung
 
-**x**
-
-**Bestandteil**
-
 x Name des Bestandteils
 
 x PZN des Bestandteils
@@ -8245,49 +8116,29 @@ x Darreichungsform des  Bestandteils Freitext
 
 x Menge des Bestandteils
 
-**LÄNGE**
+**LÄNGE WIE- BESCHREIBUNG**
+
+**DERH.**
 
 1..90
 
-1..500
+0..1 Dieses Feld enthält Angaben zur  Verpackung der Rezeptur, z.B.  Transportbehältnisse, und  Applikationshilfen.
+
+1..500 0..1 Dieses Feld enthält die  Gebrauchsanweisung der Rezeptur.
 
 1..60
 
-Kodiert 1..30
+1..1 Dieses Feld enthält die namentliche  Bezeichnung des Bestandteils der  Rezeptur. Wenn die PZN des Bestandteils  vorhanden ist, dann ist der hinter der PZN  liegende Name anzugeben.
+
+Kodiert 0..1 Dieses Feld enthält die  Pharmazentralnummer (PZN) des  Bestandteils als eindeutige Identifikation  des Arzneimittels, das vollständig oder  teilweise für die Rezeptur verwandt  werden soll.
+
+1..30
+
+0..1 Dieses Feld enthält die Darreichungsform  des Bestandteils als Freitext und kann  verwendet werden, wenn es sich bei dem  Bestandteil der Rezeptur nicht um ein  Fertigarzneimittel handelt.
 
 1..7
 
-**WIE-** **DERH.**
-
-0..1
-
-0..1
-
-**1..n**
-
-1..1
-
-0..1
-
-0..1
-
-0..1
-
-**BESCHREIBUNG**
-
-Dieses Feld enthält Angaben zur  Verpackung der Rezeptur, z.B.  Transportbehältnisse, und  Applikationshilfen.
-
-Dieses Feld enthält die  Gebrauchsanweisung der Rezeptur.
-
-**Dieser Block enthält Angaben zu einem**  **Bestandteil der Rezeptur.**
-
-Dieses Feld enthält die namentliche  Bezeichnung des Bestandteils der  Rezeptur. Wenn die PZN des Bestandteils  vorhanden ist, dann ist der hinter der PZN  liegende Name anzugeben.
-
-Dieses Feld enthält die  Pharmazentralnummer (PZN) des  Bestandteils als eindeutige Identifikation  des Arzneimittels, das vollständig oder  teilweise für die Rezeptur verwandt  werden soll.
-
-Dieses Feld enthält die Darreichungsform  des Bestandteils als Freitext und kann  verwendet werden, wenn es sich bei dem  Bestandteil der Rezeptur nicht um ein  Fertigarzneimittel handelt.
-
-Dieses Feld enthält die Menge des  Bestandteils z. B. 100.
+0..1 Dieses Feld enthält die Menge des  Bestandteils z. B. 100.
 
 **BEDINGUNGEN**
 
@@ -8306,59 +8157,69 @@ ANSONSTEN  darf dieses Feld nicht angegeben werden.
 
 135
 
-**136**   **x**
+**136**   **x**    **Rezeptierdaten**
+
+**0..1 Dieser Block enthält Rezeptierdaten**
+
+**ENTWEDER**
 
 137
 
 **Tabelle 58: Auflistung der abzubildenden Felder für das ERP**
 
-**4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
-
-x Einheit des Bestandteils
-
-x Menge und Einheit des  Bestandteils Freitext
-
-**Rezeptierdaten**  **Freitextverordnung**
-
-x
-
-Freitextverordnung
+**4 5 6 FELDNAME**
 
 **LÄNGE**
 
-1..12
+**(GRAU = FELDGRUPPE)**
 
-1..20
+x Einheit des Bestandteils 1..12
 
-1..500
+x Menge und Einheit des 1..20
 
-**WIE-** **DERH.**
+Bestandteils Freitext
 
-0..1
+**Freitextverordnung**
 
-0..1
+**spezifisch für eine Freitextverordnung.**
 
-**0..1**
+**muss der Block "Rezeptierdaten PZN-**
 
-1..1
+x
 
-**BESCHREIBUNG**
+Freitextverordnung 1..500
 
-Dieses Feld enthält die Einheit des  Bestandteils z.B. mg.
+**WIE- BESCHREIBUNG**
 
-Dieses Feld enthält eine freitextliche  Angabe zur Menge und Einheit des  Bestandteils und kann insbesondere für  klassische lateinische Angaben z.B. „ad  100,0“ oder „quantum satis“ genutzt  werden.
+**DERH.**
 
-**Dieser Block enthält Rezeptierdaten**  **spezifisch für eine Freitextverordnung.**  **Eine Freitextverordnung kann bspw. für**  **eine Rezeptur oder Wirkstoffverordnung**  **genutzt werden, die nicht strukturiert**  **erfasst werden kann oder für eine**  **sonstige Verordnung, wie z. B. importierte**  **Arzneimittel ohne PZN.**
+0..1 Dieses Feld enthält die Einheit des  Bestandteils z.B. mg.
 
-Dieses Feld enthält den Text einer  Freitextverordnung.
+0..1 Dieses Feld enthält eine freitextliche  Angabe zur Menge und Einheit des  Bestandteils und kann insbesondere für  klassische lateinische Angaben z.B. „ad  100,0“ oder „quantum satis“ genutzt  werden.
+
+**Eine Freitextverordnung kann bspw. für Verordnung"**
+
+**eine Rezeptur oder Wirkstoffverordnung ODER**
+
+**genutzt werden, die nicht strukturiert**  **erfasst werden kann oder für eine**  **sonstige Verordnung, wie z. B. importierte**  **Arzneimittel ohne PZN.**
+
+1..1 Dieses Feld enthält den Text einer  Freitextverordnung.
 
 **BEDINGUNGEN**
 
-WENN  das Feld "Menge und Einheit des Bestandteils  Freitexts" nicht angegeben ist,  DANN  ist dieses Feld Pflicht.  ANSONSTEN  darf dieses Feld nicht angegeben werden.
+WENN  das Feld "Menge und Einheit des Bestandteils  Freitexts" nicht angegeben ist,
 
-WENN  das Feld "Menge des Bestandteils" nicht  angegeben ist,  DANN  ist dieses Feld Pflicht.  ANSONSTEN  darf dieses Feld nicht angegeben werden.
+DANN  ist dieses Feld Pflicht.
 
-**ENTWEDER**  **muss der Block "Rezeptierdaten PZN-** **Verordnung"**  **ODER**  **der Block "Rezeptierdaten Wirkstoffverordnung"**  **ODER**  **der Block "Rezeptierdaten Rezepturverordnung"**  **ODER**  **der Block "Rezeptierdaten Freitextverordnung"**  **vorhanden sein.**
+ANSONSTEN  darf dieses Feld nicht angegeben werden.
+
+WENN  das Feld "Menge des Bestandteils" nicht  angegeben ist,
+
+DANN  ist dieses Feld Pflicht.
+
+ANSONSTEN  darf dieses Feld nicht angegeben werden.
+
+**der Block "Rezeptierdaten Wirkstoffverordnung"**  **ODER**  **der Block "Rezeptierdaten Rezepturverordnung"**  **ODER**  **der Block "Rezeptierdaten Freitextverordnung"**  **vorhanden sein.**
 
 
 ---

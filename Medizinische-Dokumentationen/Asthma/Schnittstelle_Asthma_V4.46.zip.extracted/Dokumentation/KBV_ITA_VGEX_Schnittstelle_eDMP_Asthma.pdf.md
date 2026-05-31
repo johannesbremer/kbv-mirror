@@ -694,7 +694,7 @@ Dieses Kapitel beschreibt den Abschnitt Anamnese- und Befunddaten
 
 Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel 6.1.3
 
-dargestellt. Diese SSU enthält genau ein Kindelement sciphox:Beobachtungen>. Das Element
+dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element
 
 <sciphox:Beobachtungen> enthält minimal acht bis maximal elf Kindelemente <sciphox:Beobachtung>. Ein  Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement < sciphox:Parameter>  und mindestens ein Kindelement <sciphox:Ergebnistext> bzw. <sciphox:Ergebniswert>.
 

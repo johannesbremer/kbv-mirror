@@ -266,20 +266,25 @@ Stempel Ärztin/Arzt
 
 Krankenkasse bzw. Kostenträger
 
-Name, Vorname des Versicherten
-
-Kostenträgerkennung Versicherten-Nr
-
 ## Erklärung
 
-#### zur Teilnahme an einem strukturierten Behandlungsprogramm für
+### ten
+
+#### zur Teilnahme an einem strukturierten
+
+Name, Vorname des Versicherten
+
+#### Behandlungsprogramm für
 
 geb. am
 
-Status
+### tien
 
-### ten tien
 **a**
+
+Kostenträgerkennung Versicherten-Nr
+
+Status
 
 Betriebsstätten-Nr Arzt-Nr
 

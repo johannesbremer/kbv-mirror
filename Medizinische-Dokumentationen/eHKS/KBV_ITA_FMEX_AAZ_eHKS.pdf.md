@@ -52,7 +52,7 @@ antwortlich zeichnet.
 
 Übergabe
 
-Rechtsform anzugeben] Systempfleger vom Antragsteller abweicht] [ ] [ ] [ ]
+Rechtsform anzugeben] Systempfleger vom Antragsteller abweicht]
 
 ---
 
@@ -85,22 +85,20 @@ Bitte geben Sie im Folgenden an, welche
 | ☐ | Windows | ☐ | Mac OS | ☐ | Linux |
 | ☐ | iOS/Android | ☐ | Sonstige | | |
 
-[ ]
-
-2
+2 REALISIERUNG VON ANFORDERUNGEN
 
 |  |  |
 |---|---|
 | ☐ | Der Antragsteller versichert, dass die aktuelle Version der verbindlichen |
 | ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden |
 
-# REALISIERUNG VON ANFORDERUNGEN 1.1.
+1.1.
 
 Client-Betriebssysteme unterstützt werden.
 
 -Hautkrebs-Screening / Version: 4.2 / 15. Mai 2024
 
-Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ] [ ] der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen  sowie Plausibilitätsrichtlinien erfüllt sind. Kostenträger-Stammdatei
+Antragsstellers Stellen der Prüfnummer, falls vorhanden] der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen  sowie Plausibilitätsrichtlinien erfüllt sind. Kostenträger-Stammdatei
 
 ---
 

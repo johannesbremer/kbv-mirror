@@ -14,7 +14,7 @@ Version 4 01.10.2024
 
 ## I) Vorbemerkung
 
-Die Dokumentation stellt ein Kernelement zur Umsetzung des Disease -Management-Pro- gramms dar. Neben der Erhebung der Ausgangsdaten (Erstdokumentation) und der Sicherung  der Einschreibungsdiagnose erfüllt die Dokumentation weitere wichtige Funktionen:
+Die Dokumentation stellt ein Kernelement zur Umsetzung des Disease-Management-Pro- gramms dar. Neben der Erhebung der Ausgangsdaten (Erstdokumentation) und der Sicherung  der Einschreibungsdiagnose erfüllt die Dokumentation weitere wichtige Funktionen:
 
 Sie dient als Checkliste bezüglich medikamentöser und nicht -medikamentöser Maßnahmen,  indikationsbezogener Risikofaktoren und Kontrolluntersuchungen.
 
@@ -83,9 +83,7 @@ Abweichend davon soll für Patientinnen mit Einschreibung aufgrund von Fernmetas
 
 mit im Verlauf einer bestehenden Teilnahme auftretender Fernmetastasen über den gesamten
 
-Teilnahmezeitraum ab der diagnostischen Sicherung der Fernmetastasen in der Regel min-
-
-destens jedes zweite Quartal eine Dokumentation erstellt werden.
+Teilnahmezeitraum ab der diagnostischen Sicherung der Fernmetastasen in der Regel min- destens jedes zweite Quartal eine Dokumentation erstellt werden.
 
 Bei allen teilnehmenden Patientinnen können im individuellen Fall kürzere oder längere Ab- stände gewählt werden. So kann auch unabhängig von der Erkrankungsdauer bzw. dem  Grund der Einschreibung eine Dokumentation jedes zweite Quartalquartalsweise oder (längs-
 
@@ -129,15 +127,17 @@ Die Dokumentation besteht aus den unten aufgeführten Abschnitten, die nachfolge
 
 ***0. Kopffeld***
 
-***1. Einschreibung (Dokumentationsfeld 10***
+***1. Einschreibung (Dokumentationsfeld 10  13*)***
 
 ***2. Anamnese und Behandlung des Primärtumors/konterlateralen Brustkrebses (Doku-*** ***mentationsfeld 14*)***
 
-***3. Aktueller Befundstatus des Primärtumors/kontralateralen Brustkrebses*** ***tionsfeld 15  19*)***
+***3. Aktueller Befundstatus des Primärtumors/kontralateralen Brustkrebses (Dokumenta-***
+
+***tionsfeld 15  19*)***
 
 ***4. Behandlung des Primärtumors/kontralateralen Brustkrebses*** ***- 23*)***
 
-***5. Befunde und Therapie von Fernmetastasen***
+***5. Befunde und Therapie von Fernmetastasen (Dokumentationsfeld 24  25*)***
 
 ***6. Sonstige Befunde (Dokumentationsfeld 26***
 
@@ -149,7 +149,7 @@ Die Dokumentation besteht aus den unten aufgeführten Abschnitten, die nachfolge
 
 # DMP-Fallnummer
 
-Für jede Patientin ist durch die Ärztinnen oder den Arzt genau eine
+Für jede Patientin ist durch die Ärztinnen oder
 
 aus **maximal sieben Ziffern oder Zeichen** bestehen darf. Die Fallnummer darf
 
@@ -163,25 +163,17 @@ Erfolgt die Einschreibung bzw. Koordination der Patientin durch das Krankenhaus,
 
 erforderlich. Um im Rahmen der Qualitätssicherung eine Zuordnung zum behandelnden Krankenhaus  herstellen zu können, ist die Angabe allerdings wünschenswert.
 
-***13*)***
-
-***(Dokumentationsfeld 24***
-
 ***30*)***
 
 ***- (Dokumentationsfeld 31*)***
 
-**in der Folgedokumentation unbedingt weiterge-**
-
-**DMP-Fallnummer**
+den Arzt genau eine **DMP-Fallnummer**
 
 -Berichte Ihren Patientinnen trotz Pseu-
 
-***(Dokumenta-***
+**in der Folgedokumentation unbedingt weiterge-**
 
 ***(Dokumentationsfeld 20***
-
-***25*)***
 
 zu vergeben, die  **jeweils nur für eine**
 
@@ -279,15 +271,11 @@ erforderlich. Der Abschnitt 5 Befunde und Therapie von Fernmetastasen muss frei 
 
 Erfolgt die Einschreibung auf Grund eines **lokoregionären Rezidivs,** ist ebenfalls das taggenaue Da-
 
-tum der histologischen Sicherung anzugeben. Auch hier ist der Verbleib der Patientin im Programm
-
-zunächst zeitlich auf 10 Jahre nach histologischer Sicherung begrenzt.
+tum der histologischen Sicherung anzugeben. Auch hier ist der Verbleib der Patientin im Programm  zunächst zeitlich auf 10 Jahre nach histologischer Sicherung begrenzt.
 
 Bei einer gleichzeitigen Angabe zur histologischen Sicherung eines lokoregionären Rezidivs und eines  Primärtumors sowie ggf. noch zusätzlich eines kontralateralen Brustkrebses darf das Datum der histo- logischen Sicherung eines Primärtumors nicht nach dem Datum der histologischen Sicherung des loko- regionären Rezidivs bzw. der Sicherung des kontralateralen Brustkrebses liegen.
 
-Tritt ein weiteres lokoregionäres Rezidiv während der Teilnahme am strukturierte n Behandlungspro-
-
-gramm auf, ist ein Verbleiben im Programm für weitere 10 Jahre ab dem Zeitpunkt des histologischen  Nachweises des neu aufgetretenen lokoregionären Rezidivs möglich. Dies ist im Behandlungsverlauf  auf der Folgedokumentation im Abschnitt 3 zu vermerken (siehe Bearbeitungshinweis zur Folgedoku- mentation).
+Tritt ein weiteres lokoregionäres Rezidiv während der Teilnahme am strukturierte n Behandlungspro- gramm auf, ist ein Verbleiben im Programm für weitere 10 Jahre ab dem Zeitpunkt des histologischen  Nachweises des neu aufgetretenen lokoregionären Rezidivs möglich. Dies ist im Behandlungsverlauf  auf der Folgedokumentation im Abschnitt 3 zu vermerken (siehe Bearbeitungshinweis zur Folgedoku- mentation).
 
 Ist die histologische Sicherung eines **lokoregionären Rezidivs** **der jüngste** **und damit der zur Ein-**
 
@@ -363,13 +351,15 @@ Abschnitt 3 (Dokumentationsfeld 15 - 18) erforderlich und müssen sich auf den p
 
 ---
 
-# 3 Aktueller Befundstatus des Primärtumors bzw. des kontralateralen Brust-
+# 3 Aktueller Befundstatus des Primärtumors bzw. des kontralateralen Brust- krebses
 
-# krebses
+**Die Angaben zu den folgenden Ziffern 3.1  3.5 sind nur dann erforderlich und zulässig, wenn**
 
-**Die Angaben zu den folgenden Ziffern 3.1**  **die Einschreibung der Patientin auf Grund eines**  **eines kontralateralen Brustkrebses erfolgt ist und hierzu die Angaben in der Dokumentation ge-** **mäß den Ausführungen in Abschnitt 1.1 erfolgt sind. Alle Angaben sollen sich daher auf die zur**  **Einschreibung führende Diagnose beziehen.**
+**die Einschreibung der Patientin auf Grund eines**  **eines kontralateralen Brustkrebses erfolgt ist und hierzu die Angaben in der Dokumentation ge-** **mäß den Ausführungen in Abschnitt 1.1 erfolgt sind. Alle Angaben sollen sich daher auf die zur**  **Einschreibung führende Diagnose beziehen.**
 
 ## 3.1 TNM-Klassifizierung
+
+**histologisch gesicherten Primärtumors oder**
 
 # (Dokumentationsfeld 15)
 
@@ -379,9 +369,7 @@ Bitte geben Sie hier an, ob sich die nachfolgenden Angaben zur TNM-Klassifikatio
 
 das Ergebnis klinischer Untersuchungen („c“), eines chirurgischen Eingriffs und histopathologischen  Untersuchungen („p“) oder einem chirurgischen Eingriff und histopathologischer Untersuchung nach  vorangegangener neoadjuvanter Therapie („yp“) bezi
 
-Sofern Sie in Ziffer 2.1 „OP geplant“ oder
-
-„(c) Klinisch“ zulässig.
+Sofern Sie in Ziffer 2.1 „OP geplant“ oder „(c) Klinisch“ zulässig.
 
 ## 3.2 T
 
@@ -405,13 +393,11 @@ Eine Angabe ist erforderlich; nur eine Angabe ist möglich.
 
 Bitte geben Sie hier den Befund zum Hormonrezeptorstatus (Östrogen und/oder Progesteron) an.
 
-Die Befundeinteilung richtet sich dabei nach dem Immunreaktive 1 1987 .
+Die Befundeinteilung richtet sich dabei nach dem Immunreaktive n Score (IRS) nach Remmele et al 19871
 
 Sollte der Status nicht bekannt sein (z. B. weil noch keine OP erfolgt ist) an.
 
 Sofern der Hormonrezeptorstatus positiv ist, sind im Weiteren die Angaben in Abschnitt 4 (Dokumenta- tionsfeld 20  23) verpflichtend.
-
-**3.5 sind nur dann erforderlich und zulässig, wenn**  **histologisch gesicherten Primärtumors oder**
 
 ehen.
 
@@ -420,8 +406,6 @@ ehen.
 „X“ angeben.
 
 , nicht aber ein LCIS anzugeben.
-
-n Score (IRS) nach Remmele et al
 
 , geben Sie bitte „ Unbekannt“
 
@@ -448,11 +432,13 @@ mindestens fünf Jahre fortgeführt wird. Zum Einsatz kommen für das jeweil ige
 
 # (Dokumentationsfeld 20)
 
-Eine Angabe ist erforderlich, sofern in Ziffer 3.5 der Hormonrezeptorstatus als „
+Eine Angabe ist erforderlich, sofern in Ziffer 3.5 der Hormonrezeptorstatus als „Positiv“ dokumentiert wurde. Wurde
 
-der Hormonrezeptortstatus als „Unbekannt“ dokumentiert, ist die Angabe optional.
+der Hormonrezeptortstatus als „Unbekannt“ dokumentiert, ist die Angabe optional. Nur eine Angabe ist möglich.
 
-Bitte geben Sie hier die Art der aktuell (zum Zeitpunkt der Dokumentationserstellung)  adjuvanten Therapie an.
+Bitte geben Sie hier die Art der aktuell (zum Zeitpunkt der Dokumentationserstellung) stattfindenden
+
+adjuvanten Therapie an.
 
 Sofern aktuell eine adjuvante Therapie stattfindet, sind im Weiteren Angaben zu Ziffer 4.2 und 4.3 er- forderlich.
 
@@ -460,11 +446,11 @@ Sofern eine Therapie mit einem Aromataseinhibitor durchgeführt wird, ist darüb
 
 Zur Behandlung werden sowohl Tamoxifen als auch Aromataseinhibitoren (z.B. Anastrozol, Letrozol,  Exemestan) eingesetzt. Sofern eine Therapie mit anderen Wirkstoffen durchgeführt wird, geben Sie  bitte „Andere“ an.
 
-Sollte zum Zeitpunkt der Dokumentationserstellung noch keine adjuvante endokrine Therapie stattfin- den aber bereits geplant sein, geben Sie bitte „Endokrine Therapie geplant“ an
+Sollte zum Zeitpunkt der Dokumentationserstellung noch keine adjuvante endokrine Therapie stattfin- den aber bereits geplant sein, geben Sie bitte „Endokrine Therapie geplant“ an. In diesem Fall ist **keine**
 
 **Angabe** zu Ziffer 4.2 (Nebenwirkungen der aktuellen adjuvanten Therapie) zulässig.
 
-Sollte zum Zeitpunkt der Dokumentationserstellung weder eine Therapie stattfinden noch geplant sein,  geben Sie bitte „Keine“ an. In diesem Fall ist im Weiteren **keine Angabe**
+Sollte zum Zeitpunkt der Dokumentationserstellung weder eine Therapie stattfinden noch geplant sein,  geben Sie bitte „Keine“ an. In diesem Fall ist im Weiteren **keine Angabe** zu Ziffer 4.2 (Nebenwirkungen
 
 der aktuellen adjuvanten Therapie) möglich.
 
@@ -481,14 +467,6 @@ Bitte geben Sie hier an, ob Sie mögliche Nebenwirkungen der Therapie erfragt ha
 Bestehen zwar Nebenwirkungen, diese werden aber nicht als belastend empfunden, geben Sie bitte  „nicht belastend“ an. Weitere Ausprägungen der Belastung durch die Nebenwirkung sind „mäßig be-
 
 lastend und „stark belastend“.
-
-Positiv“ dokumentiert wurde. Wurde
-
-Nur eine Angabe ist möglich.
-
-stattfindenden . In diesem Fall ist **keine**
-
-zu Ziffer 4.2 (Nebenwirkungen
 
 
 ---
@@ -609,25 +587,27 @@ Ist Ihnen nicht bekannt, ob eine solche Therapie bisher bei ihrer Patientin durc
 
 ## 6.4 Körpergröße
 
-# (Dokumentationsfeld 29)
-
-Eine Angabe ist erforderlich.
-
-Bitte geben Sie die Körpergröße in Meter (m) mit zwei Stellen hinter dem Komma
-
-Ist die Körpergröße, z.B. auf Grund einer Beinamputation, nicht zu erheben, ist „0“ einzutragen.
-
-## 6.5 Körpergewicht
-
 Nein“ an.
 
 ## m Training abgegeben
 
 in zur An-
 
+# (Dokumentationsfeld 29)
+
+Eine Angabe ist erforderlich.
+
+Bitte geben Sie die Körpergröße in Meter (m) mit zwei Stellen hinter dem Komma
+
+Ist die Körpergröße, z.B. auf Grund
+
+## 6.5 Körpergewicht
+
 an.
 
-# (Dokumentationsfeld 30 )
+einer Beinamputation, nicht zu erheben, ist „0“ einzutragen.
+
+# (Dokumentationsfeld 30
 
 Eine Angabe ist erforderlich.
 
@@ -642,7 +622,7 @@ Ist das Körpergewicht, z.B. auf Grund einer Beinamputation, nicht zu erheben, i
 
 ## 7.1 Dokumentationsintervall
 
-# (Dokumentationsfeld 31 )
+# (Dokumentationsfeld 31
 
 Eine Angabe ist erforderlich
 
@@ -706,13 +686,11 @@ ten Datenstelle einschließlich der abgeschlossenen Korrektur **innerhalb von 52
 
 # Hinweise zum Ausfüllen der einzelnen Abschnitte
 
-# Folgedokumentation
-
 Die Folgedokumentation gliedert sich in folgende Abschnitte:
 
 **1. Einschreibung erfolgte wegen (Dokumentationsfeld 10*)**
 
-**2. Behandlungsstatus nach operativer Therapie des Primärtumors / kontralateralen**  **Brustkrebses (adjuvante Therapie) (Dokumentationsfeld 11**
+**2. Behandlungsstatus nach operativer Therapie des Primärtumors / kontralateralen**  **Brustkrebses (adjuvante Therapie) (Dokumentationsfeld 11  14*)**
 
 **3. Seit der letzten Dokumentation neu aufgetretene Ereignisse (Dokumentationsfeld 15**  **19*)**
 
@@ -720,13 +698,15 @@ Die Folgedokumentation gliedert sich in folgende Abschnitte:
 
 **5. Behandlung bei fortgeschrittener Erkrankung (lokoregionäres Rezidiv/ Fernmetasta-** **sen) (Dokumentationsfeld 24*)**
 
-**6. Behandlungsplanung  Dokumentationsintervall (Dokumentationsfeld 25**
+**6. Behandlungsplanung**
 
 **7. Datum**
 
+# Folgedokumentation
+
 **23*)**
 
-**14*)**
+**Dokumentationsintervall (Dokumentationsfeld 25**
 
 
 ---
@@ -771,13 +751,11 @@ schnitt 2 sind nicht erforderlich.
 
 Abschnitte davon
 
-**Primärtumors**
+**Primärtumors** oder 4).
 
 oder von **Fernme-**
 
 **„Dokumentations-**
-
-oder 4).
 
 
 ---
@@ -786,7 +764,7 @@ oder 4).
 
 # (Dokumentationsfelder 11
 
-**Eine Angabe zu diesem Abschnitt ist nur erforderlich und zulässig, wenn die Einschreibung der**  **Patientin auf Grund eines Primärtumors oder eines kontralateralen Brustkrebses erfolgt ist und**  **Sie dies in Abschnitt 1 entsprechend dokumentiert haben sowie in Abhängigkeit eines**
+**Eine Angabe zu diesem Abschnitt ist nur erforderlich und zulässig, wenn die Einschreibung der**  **Patientin auf Grund eines Primärtumors oder eines kontralateralen Brustkrebses erfolgt ist und**  **Sie dies in Abschnitt 1 entsprechend dokumentiert haben sowie in Abhängigkeit eines positiven**
 
 **Hormonrezeptorstatus.**
 
@@ -832,8 +810,6 @@ Bestehen keine Nebenwirkungen, geben Sie bitte „Nein“ an.
 
 # (entspricht Abschnitt 4 der Erstdo-
 
-**positiven**
-
 ## adjuvante endokrine Therapie erhalten, die
 
 stattfindenden
@@ -861,7 +837,7 @@ Eine Angabe ist erforderlich; nur eine Angabe ist möglich.
 
 Eine adjuvante endokrine Therapie erfolgt in der Regel über eine Dauer von 5 Jahren. Bitte geben Sie  hier den zeitlichen Verlauf der adjuvanten Therapie seit der letzten Dokumentation an.
 
-Wurde eine adjuvante endokrine Therapie in der Zeit zwischen der jetzigen und der letzten Dokumen- tation beendet, geben Sie bitte an, ob sie „
+Wurde eine adjuvante endokrine Therapie in der Zeit zwischen der jetzigen und der letzten Dokumen- tation beendet, geben Sie bitte an, ob sie „Vor dem abgeschlossenen 5. Jahr abgebrochen“ wurde
 
 oder aber „Regulär nach 5 Jahren abgeschlossen“ wurde.
 
@@ -883,15 +859,13 @@ Bitte geben Sie hier den Befund der DXA an.
 
 Sofern keine DXA durchgeführt wurde oder der Befund nicht bekannt ist, geben Sie bitte „ an.
 
-## seit der letzten Dokumentation
+Nicht erfragt“ an.
 
-Vor dem abgeschlossenen 5. Jahr abgebrochen“ wurde
+## seit der letzten Dokumentation
 
 ob sie „Aktuell andauernd, seit weniger als 5
 
 Jahre hinaus“ erfolgt.
-
-Nicht erfragt“ an.
 
 Unbekannt
 
@@ -936,13 +910,13 @@ Sollte seit der letzten Dokumentation kein kontralateraler Brustkrebs histologis
 
 geben Sie bitte „**Nein**“ an.
 
-**seit der letzten Dokumentation**
-
-Sofern nicht auch gleichzeitig Knochenmetasta-
-
 ## 3.3 Lokalisation von Fernmetastasen (Datum der diagnostischen Sicherung von Fern-
 
 ## metastasen)
+
+**seit der letzten Dokumentation**
+
+Sofern nicht auch gleichzeitig Knochenmetasta-
 
 # (Dokumentationsfeld 17)
 
@@ -1071,7 +1045,7 @@ sowie linksthorakale Be-
 
 **bung der Patientin auf Grund des Vorliegens von Knochenmetastasen erfolgt ist oder eine sol-** **che Diagnose bei einer der letzten Dokumentationen festgestellt wurde und Sie dies in Abschnitt**
 
-**1 („Einschreibung erfolgte** **wegen“) bzw. 3**
+**1 („Einschreibung erfolgte** **wegen“) bzw. 3 („Seit der letzten Dokumentation neu aufgetretene**
 
 **Ereignisse“) entsprechend dokumentiert haben**
 
@@ -1091,7 +1065,7 @@ Die Angabe „Nein kann jeweils gleichzeitig mit
 
 ##
 
-**(„Seit der letzten Dokumentation neu aufgetretene**  **(bei aktueller oder früherer Dokumentation).**
+**(bei aktueller oder früherer Dokumentation).**
 
 wurde oder aber die Einschreibung aufgrund von
 
@@ -1104,7 +1078,7 @@ Kontraindikation angegeben werden.
 
 ## 6.1 Dokumentationsintervall (entspricht Erstdokumentation Abschnitt
 
-# (Dokumentationsfeld 25 )
+# (Dokumentationsfeld 25
 
 Eine Angabe ist erforderlich
 

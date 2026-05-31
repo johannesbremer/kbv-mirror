@@ -1,42 +1,40 @@
+#### Freigabe 05.11.2014
+
 Krankenkasse bzw. Kostenträger
 
 Name, Vorname des Versicherten
 
 Kostenträgerkennung Versicherten-Nr.
 
-#### Freigabe 05.11.2014
-
-Status
+**- Kurarztschein -**
 
 Behandlungsausweis für kurärztliche Behandlung
+
+**Original**
 
 **Mitgegebene**
 
 geb. am
 
-**Unterlagen:**
-
-**- Kurarztschein -**
-
-**Original**
-
-Rö Sono
+Rö Sono Keine
 
 EKG
+
+**Unterlagen:**
+
+Status
 
 **Auswertung**
 
 **Relevante Diagnosen** **toren**  **Regulations-**
 
-**Schädigungen** **Befindlichkeitsstörungen**
+**Schädigungen**  **Befindlichkeitsstörungen**
 
-**Funktionsstörungen**
+**Funktionsstörungen**  **Befunde**  **Risikofak**
 
-Keine
+Betriebsstätten-Nr. Arzt-Nr.
 
-**Befunde**  **Risikofak**
-
-Betriebsstätten-Nr. Arzt-Nr. Datum
+Datum
 
 ### Von der Krankenkasse auszufüllen
 
@@ -97,17 +95,13 @@ Abreise am
 
 Abbruch am
 
-Verlängerung bewilligt für Wochen per
+Verlängerung bewilligt für Wochen per **7**
 
-Tel. Brief
+Tel. Brief Fax
 
 am
 
 **Diagnosen, Schädigungen, Funktionsstörungen, Befunde, Risikofaktoren, Regulations-/Befindlichkeitsstörungen**
-
-**7**
-
-Fax
 
 Verhaltenspräventive Maßnahmen angeregt
 
@@ -119,15 +113,15 @@ Verhaltenspräventive Maßnahmen angeregt
 
 **4**
 
+**5**
+
 **8**
 
 **9**
 
-**10** **11**
+**10**
 
-**5**
-
-**12**
+**11**
 
 **Freigabe 05.11.2014**
 
@@ -138,6 +132,8 @@ durchgeführt
 Kompaktkur nicht möglich
 
 **6**
+
+**12**
 
 **Verbindliches Muster**
 

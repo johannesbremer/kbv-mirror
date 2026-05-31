@@ -45,7 +45,7 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 | **Telefonnummer** |  | | |
 | **E-Mail-Adresse** |  | | |
 
-Rechtsform anzugeben] Systempfleger vom Antragsteller abweicht] [ ] [ ] [ ]/ Version: 4.4 / 15. Mai 2024
+Rechtsform anzugeben] Systempfleger vom Antragsteller abweicht] / Version: 4.4 / 15. Mai 2024
 
 
 ---
@@ -81,7 +81,8 @@ Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werd
 
 / Version: 4.4 / 15. Mai 2024
 
-Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
+Antragsstellers Stellen der Prüfnummer, falls vorhanden]
+
 
 ---
 
@@ -111,7 +112,7 @@ Folgende optionale eDMP KHK Funktionen sind gem. Anforderungskatalog DMP realisi
 
 / Version: 4.4 / 15. Mai 2024
 
-[ ] der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. [ ] Anforderungsdokumente, Schnittstellenbeschreibungen  sowie Plausibilitätsrichtlinien erfüllt sind. -Stammdatei [ ] [ ] [ ] ANFORDERUNGSKATALOG EDMP KHK  LT.
+-Stammdatei der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen  sowie Plausibilitätsrichtlinien erfüllt sind. EDMP KHK  LT. ANFORDERUNGSKATALOG
 
 ---
 

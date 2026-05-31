@@ -233,9 +233,7 @@ der dokumentierten Verordnung anzuordnen sind.
 
 ---
 
-1
-
-<PrüffallNr.> .pdf  z.B. **PF01.pdf**
+<PrüffallNr.>1 .pdf  z.B. **PF01.pdf**
 
 1 Nr. des Prüffalls
 
@@ -247,9 +245,7 @@ Die geforderten Videomitschnitte müssen ebenfalls im Hauptverzeichnis übermitt
 
 folgender Namenskonvention entsprechen. Diese werden durch den Prüfer begutachtet.
 
-2 3
-
-<PrüffallNr.> _[AnweisungsNr.] .*  z.B. **PF01.mp4**
+<PrüffallNr.> _[AnweisungsNr.]2 3  z.B. **PF01.mp4**
 
 Die dokumentierten Verordnungen und Screenshots und die Videomitschnitte sind in einem ZIP-Archiv zu
 
@@ -485,7 +481,7 @@ der Indikationen
 
 | **Fragenkatalog** | **Frage** |
 |---|---|
-| **Datenschutz und Datensicherheit** | die digitale Gesundheitsanwendung nutzende Person |
+| **Datenschutz und Datensicherheit** | Erzwingt die digitale Gesundheitsanwendung, dass eine |
 | **Positiver Versorgungseffekt** | Die digitale Gesundheitsanwendung enthält ein |
 
 **Insbesondere folgende Pflichtfunktionen sind betroffen:**
@@ -557,8 +553,9 @@ einschließlich möglicher Hinweissteuerung oder
 
 den Vorgaben möglich ist. Dabei sind (Prüffall PF01). Dabei sollen
 
-Erzwingt die digitale Gesundheitsanwendung, dass eine die für ihre Authentisierung genutzten Daten nur ändern kann, wenn hierbei für die Prüfung der Authentizität dieser Person ausreichende Informationen beigegeben werden? diagnostisches Instrument in den
+in den
 
+die digitale Gesundheitsanwendung nutzende Person die für ihre Authentisierung genutzten Daten nur ändern kann, wenn hierbei für die Prüfung der Authentizität dieser Person ausreichende Informationen beigegeben werden? diagnostisches Instrument
 
 ---
 
@@ -695,19 +692,17 @@ Dokumentieren Sie den vollständigen Anwendungsdialog einschließlich möglicher
 
 - O4-221 Anzeige nicht verordnungsfähiger DiGA
 
-- P4-310 Angaben bei erster und wiederholter Verordnung
+- P4-310 Angaben bei erster und wiederholter Verordnung 01-02
 
 ## -VERORDNUNGSEINHEITEN -
 
+-
+
+-
+
 - -Verordnungseinheiten
 
--
-
--
-
 - Erste Ebene
-
-01-02
 
 
 ---

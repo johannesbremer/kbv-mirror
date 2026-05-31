@@ -49,7 +49,7 @@ Basissoftware übereinstimmen.
 | **Straße und Hausnummer** |  | | |
 | **PLZ, Ort** |  | | |
 
-[ ] [ ] [ ]aufgeführten Vorgaben
+aufgeführten Vorgaben
 
 
 ---

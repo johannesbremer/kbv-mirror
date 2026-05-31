@@ -4,200 +4,126 @@
 
 #### Datenstand: 30.06.2025
 
-**Id**
-
-295
-
-112
-
-462
-
-299
-
-298
-
-348
-
-216
-
-243
-
-457
-
-203
-
-210
-
-280
-
-**Praxissoftware**
-
-**Epikur**
-
-**TURBOMED**
-
-**medatixx**
-
-**SMARTY**
-
-**Elefant**
-
-**psyprax**
-
-**x.isynet**
-
-**x.concept**
-
-**tomedo**
-
-**ALBIS**
-
-**Medical Office**
-
-**CGM MEDISTAR BLACK PRO**
+**Id Praxissoftware**
 
 **Anbieter**
 
-Epikur Software GmbH & Co. KG
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-CompuGroup Medical Deutschland AG
+295 **Epikur**
 
-medatixx GmbH & Co. KG
-
-New Media Company GmbH & Co. KG
-
-HASOMED GmbH
-
-psyprax GmbH
-
-medatixx GmbH & Co. KG
-
-medatixx GmbH & Co. KG
-
-Zollsoft GmbH
-
-CompuGroup Medical Deutschland AG
-
-INDAMED EDV-Entwicklung und Vertrieb GmbH
-
-CompuGroup Medical Deutschland AG 1
-
-**Installationen 2.Q.2025**
-
-114
-
-91
-
-72
-
-62
-
-60
-
-55
-
-46
-
-46
-
-43
-
-35
-
-32
-
-27
-
-**Installationen 1.Q.2025**
+Epikur Software GmbH & Co. KG 114
 
 113
 
-94
-
-67
-
-62
-
-61
-
-57
-
-50
-
-48
-
-44
-
-34
-
-29
-
-28
-
-**Differenz**
-
 1
+
+112 **TURBOMED**
+
+CompuGroup Medical Deutschland AG 91
+
+94
 
 -3
 
+462 **medatixx**
+
+medatixx GmbH & Co. KG 72
+
+67
+
 5
+
+299 **SMARTY**
+
+New Media Company GmbH & Co. KG 62
+
+62
 
 0
 
+298 **Elefant**
+
+HASOMED GmbH 60
+
+61
+
 -1
 
+348 **psyprax**
+
+psyprax GmbH 55
+
+57
+
 -2
+
+216 **x.isynet**
+
+medatixx GmbH & Co. KG 46
+
+50
 
 -4
 
+243 **x.concept**
+
+medatixx GmbH & Co. KG 46
+
+48
+
 -2
+
+457 **tomedo**
+
+Zollsoft GmbH 43
+
+44
+
+-1
+
+203 **ALBIS**
+
+CompuGroup Medical Deutschland AG 35
+
+34
+
+1
+
+210 **Medical Office**
+
+INDAMED EDV-Entwicklung und Vertrieb GmbH 32 29
+
+3
+
+280 **CGM MEDISTAR BLACK PRO** CompuGroup Medical Deutschland AG 27
+
+28
 
 -1
 
 1
-
-3
-
--1
 
 
 ---
 
-**Id**
+**Id Praxissoftware**
 
-244
+244 **QUINCY WIN**
 
-135
+135 **EL - Elaphe Longissim**
 
-252
+252 **CGM M1 PRO**
 
-498
+498 **T 2med**
 
-261
+261 **S 3-Win**
 
-266
+266 **x.comfort**
 
-247
+247 **PROFIMED**
 
-060
-
-**Praxissoftware**
-
-**QUINCY WIN**
-
-**EL - Elaphe Longissim**
-
-**CGM M1 PRO**
-
-**T 2med**
-
-**S 3-Win**
-
-**x.comfort**
-
-**PROFIMED**
-
-**Data-AL**
+060 **Data-AL**
 
 **Anbieter**
 
@@ -219,58 +145,54 @@ PRO MEDISOFT AG
 
 Data-AL GmbH
 
-**Installationen 2.Q.2025**
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
 27
 
-14
-
-14
-
-13
-
-10
-
-9
-
-8
-
-8
-
-2
-
-**Installationen 1.Q.2025**
-
 28
 
+-1
+
 14
 
 14
+
+0
+
+14
+
+14
+
+0
 
 13
 
+13
+
+0
+
 10
 
+10
+
+0
+
 9
 
 9
+
+0
 
 8
 
-**Differenz**
+9
 
 -1
 
-0
+8
+
+8
 
 0
 
-0
-
-0
-
-0
-
--1
-
-0
+2

@@ -19,43 +19,79 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS KRAFT
 
 **1** **ALLGEMEINES**
 
+**5**
+
 1.1 Rechtsgrundlage
+
+5
 
 1.2 Zertifizierungsablauf
 
+5
+
 1.3 Zertifizierungsportal
+
+6
 
 1.4 Zertifizierungsdokumente
 
+6
+
 1.5 Prüfunterlagen
+
+6
 
 1.6 Prüfvorgaben
 
+7
+
 1.6.1 Prüfstammdaten
+
+7
 
 1.6.2 Versichertendaten
 
+8
+
 1.6.3 Praxisdaten/ Arztstempel
 
-1.6.4 Auflistung der Prüffälle
+8
+
+1.6.4 Auflistung der Prüffälle 9
 
 **2** **PRÜFFÄLLE**
 
+**10**
+
 2.1 Prüffall 8001
+
+10
 
 2.2 Prüffall 8002
 
+11
+
 2.3 Prüffall 8003
+
+12
 
 2.4 Prüffall 8004
 
+14
+
 2.5 Prüffall 8005
+
+16
 
 2.6 Prüffall 8006
 
-2.7 Konditionaler Prüffall 8007
+20
+
+2.7 Konditionaler Prüffall 8007 21
 
 **3** **TESTDATENVALIDIERUNG**
+
+**23**
 
 | **4** | **ANHANG** |  | **24** |
 |---|---|---|---|
@@ -64,46 +100,6 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS KRAFT
 | 4.3 | Versichertendaten | 3– Ersatzverfahren | 26 |
 
 **5** **REFERENZIERTE DOKUMENTE**
-
-**5**
-
-5
-
-5
-
-6
-
-6
-
-6
-
-7
-
-7
-
-8
-
-8
-
-9
-
-**10**
-
-10
-
-11
-
-12
-
-14
-
-16
-
-20
-
-21
-
-**23**
 
 **27**
 

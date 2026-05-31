@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**23. MAI 2026**
+**30. MAI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -25,7 +25,7 @@
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 2 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 23. Mai 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 2 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 30. Mai 2026
 
 
 ---
@@ -70,13 +70,15 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mut
 
 Y/9/2601/36/031
 
-**Prüfnummer** **gültig bis**
+**Prüfnummer**
 
-31.12.2028
+**unterstützte**
 
-**unterstützte** **Betriebssysteme**
+**gültig bis**
 
-iOS/Android Linux Mac OS Windows
+**Betriebssysteme**
+
+iOS/Android Linux 31.12.2028 Mac OS Windows
 
 
 ---
@@ -273,13 +275,15 @@ Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Mu
 
 Y/9/2410/36/629
 
-**Prüfnummer** **gültig bis**
+**Prüfnummer**
 
-30.09.2027
+**unterstützte**
 
-**unterstützte** **Betriebssysteme**
+**gültig bis**
 
-Windows
+**Betriebssysteme**
+
+30.09.2027 Windows
 
 
 ---
@@ -631,7 +635,7 @@ Muster 39: Krebsfrüherkennung Frauen Muster 52: Anfrage auf Fortbestehen der Ar
 
 **zugelassen für folgende Muster**
 
-Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 39: Krebsfrüherkennung Frauen Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 61: Verordnung von medizinischer Rehabilitation Muster 65: Ärztliches Attest Kind
+Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 39: Krebsfrüherkennung Frauen Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 61: Verordnung von medizinischer Rehabilitation Muster 65: Ärztliches Attest Kind
 
 
 ---
@@ -892,13 +896,15 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Kran
 
 Y/9/2504/36/616
 
-**Prüfnummer** **gültig bis**
+**Prüfnummer**
 
-31.03.2028
+**unterstützte**
 
-**unterstützte** **Betriebssysteme**
+**gültig bis**
 
-iOS/Android Linux Mac OS Windows
+**Betriebssysteme**
+
+iOS/Android Linux 31.03.2028 Mac OS Windows
 
 
 ---
@@ -1303,13 +1309,17 @@ Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diag
 
 X/9/2401/36/537
 
-**Prüfnummer** **gültig bis**
+**Prüfnummer**
 
-31.12.2026
+**unterstützte**
 
-**unterstützte** **Betriebssysteme**
+**gültig bis**
 
-AB+M Auftragserfassungs-System LABLIONS software & solutions GmbH Franz-Beer-Straße 6 86459 Gessertshausen Internet: www.mdn.deLinux Mac OS Sonstige Windows
+**Betriebssysteme**
+
+Linux Mac OS
+
+AB+M Auftragserfassungs-System LABLIONS software & solutions GmbH Franz-Beer-Straße 6 86459 Gessertshausen Internet: www.mdn.de31.12.2026 Sonstige Windows
 
 
 ---
@@ -1404,13 +1414,15 @@ Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Mu
 
 X/9/2307/36/492
 
-**Prüfnummer** **gültig bis**
+**Prüfnummer**
 
-30.06.2026
+**unterstützte**
 
-**unterstützte** **Betriebssysteme**
+**gültig bis**
 
-iOS/Android Linux Mac OS Windows
+**Betriebssysteme**
+
+iOS/Android Linux 30.06.2026 Mac OS Windows
 
 
 ---
@@ -1468,13 +1480,15 @@ Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diag
 
 Y/9/2605/38/784
 
-**Prüfnummer** **gültig bis**
+**Prüfnummer**
 
-30.06.2029
+**unterstützte**
 
-**unterstützte** **Betriebssysteme**
+**gültig bis**
 
-iOS/Android Linux Mac OS Windows
+**Betriebssysteme**
+
+iOS/Android Linux 30.06.2029 Mac OS Windows
 
 
 ---
@@ -1552,13 +1566,15 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Y/9/2401/36/243
 
-**Prüfnummer** **gültig bis**
+**Prüfnummer**
 
-31.12.2026
+**unterstützte**
 
-**unterstützte** **Betriebssysteme**
+**gültig bis**
 
-Windows
+**Betriebssysteme**
+
+31.12.2026 Windows
 
 
 ---
@@ -1586,13 +1602,15 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Y/9/2307/36/266
 
-**Prüfnummer** **gültig bis**
+**Prüfnummer**
 
-30.06.2026
+**unterstützte**
 
-**unterstützte** **Betriebssysteme**
+**gültig bis**
 
-Windows
+**Betriebssysteme**
+
+30.06.2026 Windows
 
 
 ---
@@ -1670,13 +1688,19 @@ Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Mu
 
 Y/9/2309/37/751
 
-**Prüfnummer** **gültig bis**
+**Prüfnummer**
 
-30.09.2026
+**unterstützte**
 
-**unterstützte** **Betriebssysteme**
+**gültig bis**
 
-iOS/Android Linux Mac OS Sonstige Windows
+**Betriebssysteme**
+
+iOS/Android
+
+Linux
+
+30.09.2026 Mac OS Sonstige Windows
 
 
 ---
@@ -2103,13 +2127,15 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Kran
 
 Y/9/2401/36/348
 
-**Prüfnummer** **gültig bis**
+**Prüfnummer**
 
-31.12.2026
+**unterstützte**
 
-**unterstützte** **Betriebssysteme**
+**gültig bis**
 
-Windows
+**Betriebssysteme**
+
+31.12.2026 Windows
 
 
 ---
@@ -2401,13 +2427,15 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Y/9/2407/36/498
 
-**Prüfnummer** **gültig bis**
+**Prüfnummer**
 
-30.06.2027
+**unterstützte**
 
-**unterstützte** **Betriebssysteme**
+**gültig bis**
 
-iOS/Android Linux Mac OS Windows
+**Betriebssysteme**
+
+iOS/Android Linux 30.06.2027 Mac OS Windows
 
 
 ---

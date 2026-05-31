@@ -4,13 +4,11 @@ Name, Vorname der des Versicherten
 
 mehr Alltagsbewegung
 
-[ ] B. zu Fuß, mit dem Rad zur Kita, zur Schule),(z.
+B. zu Fuß, mit dem Rad zur Kita, zur Schule),(z.
 
-regelmäßige Bewegung durch ein  [ ] Sport- und Bewegungsangebot,
+regelmäßige Bewegung durch ein  Sport- und Bewegungsangebot,
 
-regelmäßiges Schwimmen  [ ]
-
-zur Absicherung der Schwimmfähigkeit.
+regelmäßiges Schwimmen  zur Absicherung der Schwimmfähigkeit.
 
 **Hinweise an den Sportverein:**
 
@@ -45,13 +43,17 @@ Grundsätzlich gilt: So viel Alltags- und kindgerechte Bewegung wie möglich!
 
 Bewegungsarme Kinder schrittweise an Bewegung heranführen!
 
-**Säuglinge und**  **Kleinkinder**
-
-**Kindergarten-** **kinder**
+**Säuglinge und**
 
 Soviel  wie möglich
 
-***≥ 180*** Minuten
+**Kleinkinder**
+
+***≥ 180***
+
+**Kindergarten-** Minuten
+
+**kinder**
 
 pro Tag
 
@@ -63,7 +65,7 @@ pro Tag
 
 Quelle: modifiziert nach BZgA: Menschen in Bewegung bringen, 2019
 
-**Mitteilung des Sportvereins an den die Arzt Ärztin:**
+**Mitteilung des Sportvereins an den**
 
 Minuten pro Tag ***2-3*** Mal
 
@@ -72,6 +74,8 @@ pro Woche
 **Sitzzeiten – insbesondere vor Bildschirmmedien –**  sollten auf ein Minimum reduziert werden. Kinder
 
 brauchen jedoch Räume und Zeiten, in denen sie zur  Ruhe kommen und sich erholen können.
+
+**die Arzt**
 
 Deutsche Sportjugend
 
@@ -85,6 +89,10 @@ Bewegungszeiten mit Beanspruchung  größerer Muskelgruppen
 
 Kraft und Ausdauer stärken
 
-**Ihr e Patientin hat an unserem** **Bewegungsangebot teilgenommen.**
+**Ärztin:**
+
+**Ihr e Patient in hat an unserem**
+
+**Bewegungsangebot teilgenommen.**
 
 Stempel und Unterschrift des Vereins

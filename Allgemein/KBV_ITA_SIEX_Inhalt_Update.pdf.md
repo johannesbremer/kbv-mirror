@@ -7,14 +7,14 @@
 | KBV_ITA_FMEX_AAZ_KVDT_SADT | Antrag auf Zertifizierung für KVDT (SADT) |  |
 | KBV_ITA_FMEX_AAZ_KVDT_KADT | Antrag auf Zertifizierung für KVDT (KADT) |  |
 | KBV_ITA_VGEX_Anforderungskatalog_ICD-10 | Anforderungskatalog zur Anwendung der ICD-10-GM |  |
-| KBV_ITA_VGEX_Anforderungskatalog_KVDT | Anforderungskatalog KVDT | -  -  -  -   **VSDM2.0-Pilotierung ** KP2-103, KP2-104, KP2-171, KP2-186, KP2-187  -  P2-120, P2-135, P2-136, P2-140, P2-150, P2-166, P2- |
+| KBV_ITA_VGEX_Anforderungskatalog_KVDT | Anforderungskatalog KVDT | -  -  -  -   **VSDM2.0-Pilotierung ** -  -  - |
 | KBV_ITA_AHEX_Codierungstabelle_PT_Rezidiv | Katalog der codierten Zusatznummern zum EBM mit Bezug auf |  |
 | KBV_ITA_AHEX_Codierungstabelle_PT_Rezidiv.csv | Katalog der codierten Zusatznummern zum EBM mit Bezug auf |  |
 | INHALTSVERZEICHNIS ZUM UPDATE |  | **ABRECHNUNG** |
 |  |  |  |
 |  |  | **Dokument** |
-| **Erläuterung** | **Hinweise auf Änderungen** | **Uebergreifend **     KBV_ITA_AHEX_UKV2OKV_V01.02  Zuordnung der UKV zu den OKV    KBV_ITA_FMEX_AAZ_KVDT_ADT  Antrag auf Zertifizierung für KVDT (ADT)    KBV_ITA_FMEX_AAZ_KVDT_SADT  Antrag auf Zertifizierung für KVDT (SADT)    KBV_ITA_FMEX_AAZ_KVDT_KADT  Antrag auf Zertifizierung für KVDT (KADT)    KBV_ITA_VGEX_Anforderungskatalog_ICD-10  Anforderungskatalog zur Anwendung der ICD-10-GM    KBV_ITA_VGEX_Anforderungskatalog_KVDT  Anforderungskatalog KVDT  -  -  -  -   **VSDM2.0-Pilotierung ** KP2-103, KP2-104, KP2-171, KP2-186, KP2-187 |
-| - | P2-120, P2-135, P2-136, P2-140, P2-150, P2-166, P2- KBV_ITA_AHEX_Codierungstabelle_PT_Rezidiv | Katalog der codierten Zusatznummern zum EBM mit Bezug auf    KBV_ITA_AHEX_Codierungstabelle_PT_Rezidiv.csv  Katalog der codierten Zusatznummern zum EBM mit Bezug auf |
+| **Erläuterung** | **Hinweise auf Änderungen** | **Uebergreifend **     KBV_ITA_AHEX_UKV2OKV_V01.02  Zuordnung der UKV zu den OKV    KBV_ITA_FMEX_AAZ_KVDT_ADT  Antrag auf Zertifizierung für KVDT (ADT)    KBV_ITA_FMEX_AAZ_KVDT_SADT  Antrag auf Zertifizierung für KVDT (SADT)    KBV_ITA_FMEX_AAZ_KVDT_KADT  Antrag auf Zertifizierung für KVDT (KADT)    KBV_ITA_VGEX_Anforderungskatalog_ICD-10  Anforderungskatalog zur Anwendung der ICD-10-GM    KBV_ITA_VGEX_Anforderungskatalog_KVDT  Anforderungskatalog KVDT  -  -  -  -   **VSDM2.0-Pilotierung ** - |
+| - | -  KBV_ITA_AHEX_Codierungstabelle_PT_Rezidiv | Katalog der codierten Zusatznummern zum EBM mit Bezug auf    KBV_ITA_AHEX_Codierungstabelle_PT_Rezidiv.csv  Katalog der codierten Zusatznummern zum EBM mit Bezug auf |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -33,8 +33,8 @@
 |  | - |  |
 | - |  | - |
 |  | - |  |
-|  | **VSDM2.0-Pilotierung** | KP2-103, KP2-104, KP2-171, KP2-186, KP2-187 |
-| - | P2-120, P2-135, P2-136, P2-140, P2-150, P2-166, P2- | KBV_ITA_AHEX_Codierungstabelle_PT_Rezidiv |
+|  | **VSDM2.0-Pilotierung** | - |
+| - | - | KBV_ITA_AHEX_Codierungstabelle_PT_Rezidiv |
 | Katalog der codierten Zusatznummern zum EBM mit Bezug auf |  | KBV_ITA_AHEX_Codierungstabelle_PT_Rezidiv.csv |
 | Katalog der codierten Zusatznummern zum EBM mit Bezug auf |  |  |
 |  |  |  |
@@ -50,7 +50,7 @@
 |  | - |  |
 | - |  | - |
 | - |  | **VSDM2.0-Pilotierung** |
-| KP2-103, KP2-104, KP2-171, KP2-186, KP2-187 | - | P2-120, P2-135, P2-136, P2-140, P2-150, P2-166, P2- |
+| - | - | - |
 | KBV_ITA_AHEX_Codierungstabelle_PT_Rezidiv  Katalog der codierten Zusatznummern zum EBM mit Bezug auf | KBV_ITA_AHEX_Codierungstabelle_PT_Rezidiv.csv | Katalog der codierten Zusatznummern zum EBM mit Bezug auf |
 |  |  |  |
 |  |  |  |
@@ -64,7 +64,7 @@
 | Zuordnung der UKV zu den OKV | KBV_ITA_FMEX_AAZ_KVDT_ADT  Antrag auf Zertifizierung für KVDT (ADT) | KBV_ITA_FMEX_AAZ_KVDT_SADT |
 | Antrag auf Zertifizierung für KVDT (SADT) | KBV_ITA_FMEX_AAZ_KVDT_KADT  Antrag auf Zertifizierung für KVDT (KADT) | KBV_ITA_VGEX_Anforderungskatalog_ICD-10  Anforderungskatalog zur Anwendung der ICD-10-GM |
 
-III/2026 VOM 13. MAI 2026 Rezidivprophylaxe Rezidivprophylaxe zum vereinfachten Import im csv-Format KP2-565 Erweiterung der Anforderung P6-804 Anpassung der Anforderung KP6-805 aufgenommen P2-230 Anpassung der Anforderung aufgenommen Kapitel 2.2 und Kapitel 2.3.5 angepasst 200, P2-210, P2-220, P2-230, P2-260, P2-265, P2-270, P2-285, KP2-300, KP2-310, P2-320, P2-325, P2-470, KP2-500, P2-501, P2-556, KP2-557, P2-558, P2-790 angepasst
+III/2026 VOM 13. MAI 2026 Rezidivprophylaxe Rezidivprophylaxe zum vereinfachten Import im csv-Format KP2-565 Erweiterung der Anforderung P6-804 Anpassung der Anforderung KP6-805 aufgenommen P2-230 Anpassung der Anforderung KP2-103, KP2-104, KP2-171, KP2-186, KP2-187 aufgenommen Kapitel 2.2 und Kapitel 2.3.5 angepasst P2-120, P2-135, P2-136, P2-140, P2-150, P2-166, P2- 200, P2-210, P2-220, P2-230, P2-260, P2-265, P2-270, P2-285, KP2-300, KP2-310, P2-320, P2-325, P2-470, KP2-500, P2-501, P2-556, KP2-557, P2-558, P2-790 angepasst
 
 ---
 
@@ -204,14 +204,14 @@ den Gutachter Psychotherapie in der Gesetzlichen Krankenversicherung FK 9212 ang
 | 74E16101.sdkt.prf  mod. Kostenträger-Stammdatei | 74E13101.sdkv.prf.zip | mod. KV-Spezifika-Stammdatei |
 | 74E17101.sdkvca.prf.zip | mod. SDKVCA-Stammdatei für die Zertifizierung | -  74E13101.sdplz.prf.zip  mod. Postleitzahlen-Stammdatei |
 
-der TI-Pauschalen Anpassung an die Version 2.0
+Anpassung an die Version 2.0  der TI-Pauschalen
 
 ---
 
 | Schnittstellenbeschreibung für die Begleitdatei | Begleitdatei.zip  Schema für die Begleitdatei | KBV_ITA_AHEX_Pruefpaket_1ClickAbrechnung |
 |---|---|---|
 | Prüfpaket zur Umsetzung von 1-Click via KIM | KBV_ITA_FMEX_AAZ_1ClickAbrechnung  Antrag auf Zertifizierung |  |
-| Sammelerklaerung.zip | elektronische Sammelerklärung | Aktualisierung der Daten der KV Nordrhein zum |
+| Sammelerklaerung.zip | elektronische Sammelerklärung | - |
 | 1ClickAbrechnung V2.1 | Spezifikation der 1-Click Abrechnung via KIM |  |
 | - |  | Metainformationen der Anhänge (filename |
 |  | statt name wird Pflichtangabe) aufgrund |  |
@@ -223,7 +223,7 @@ der TI-Pauschalen Anpassung an die Version 2.0
 | Begleitdatei_V1.0.3 | Schnittstellenbeschreibung für die Begleitdatei |  |
 | Begleitdatei.zip | Schema für die Begleitdatei |  |
 | KBV_ITA_AHEX_Pruefpaket_1ClickAbrechnung | Prüfpaket zur Umsetzung von 1-Click via KIM |  |
-| KBV_ITA_FMEX_AAZ_1ClickAbrechnung  Antrag auf Zertifizierung |  | Sammelerklaerung.zip  elektronische Sammelerklärung  Aktualisierung der Daten der KV Nordrhein zum  1ClickAbrechnung V2.1  Spezifikation der 1-Click Abrechnung via KIM  -  Metainformationen der Anhänge (filename  statt name wird Pflichtangabe) aufgrund  RFC2045 und RFC2183**HybridDRG**     Begleitdatei_V1.0.3  Schnittstellenbeschreibung für die Begleitdatei    Begleitdatei.zip  Schema für die Begleitdatei    1ClickHybridDRG_V1.0  Spezifikation der 1-Click Abrechnung Hybrid-DRG via KIM   **Kollegensuche **    **STU3** |
+| KBV_ITA_FMEX_AAZ_1ClickAbrechnung  Antrag auf Zertifizierung |  | Sammelerklaerung.zip  elektronische Sammelerklärung  -  1ClickAbrechnung V2.1  Spezifikation der 1-Click Abrechnung via KIM  -  Metainformationen der Anhänge (filename  statt name wird Pflichtangabe) aufgrund  RFC2045 und RFC2183**HybridDRG**     Begleitdatei_V1.0.3  Schnittstellenbeschreibung für die Begleitdatei    Begleitdatei.zip  Schema für die Begleitdatei    1ClickHybridDRG_V1.0  Spezifikation der 1-Click Abrechnung Hybrid-DRG via KIM   **Kollegensuche **    **STU3** |
 |  |  | KBV_ITA_VGEX_SST_Kollegensuche  Beschreibung des KBV Webservices-Kollegensuche |
 |  |  | 74_FHIR_KS_V1.20.zip |
 |  | FHIR Objekte |  |
@@ -233,7 +233,7 @@ der TI-Pauschalen Anpassung an die Version 2.0
 | Begleitdatei.zip | Schema für die Begleitdatei |  |
 | KBV_ITA_AHEX_Pruefpaket_1ClickAbrechnung  Prüfpaket zur Umsetzung von 1-Click via KIM | KBV_ITA_FMEX_AAZ_1ClickAbrechnung | Antrag auf Zertifizierung |
 |  | Sammelerklaerung.zip |  |
-| elektronische Sammelerklärung |  | Aktualisierung der Daten der KV Nordrhein zum |
+| elektronische Sammelerklärung |  | - |
 |  | 1ClickAbrechnung V2.1 |  |
 | Spezifikation der 1-Click Abrechnung via KIM |  | - |
 |  | Metainformationen der Anhänge (filename |  |
@@ -253,7 +253,7 @@ der TI-Pauschalen Anpassung an die Version 2.0
 | Begleitdatei.zip | Schema für die Begleitdatei |  |
 | KBV_ITA_AHEX_Pruefpaket_1ClickAbrechnung | Prüfpaket zur Umsetzung von 1-Click via KIM |  |
 | KBV_ITA_FMEX_AAZ_1ClickAbrechnung | Antrag auf Zertifizierung |  |
-| Sammelerklaerung.zip | elektronische Sammelerklärung | Aktualisierung der Daten der KV Nordrhein zum |
+| Sammelerklaerung.zip | elektronische Sammelerklärung | - |
 | 1ClickAbrechnung V2.1 | Spezifikation der 1-Click Abrechnung via KIM | -  Metainformationen der Anhänge (filename  statt name wird Pflichtangabe) aufgrund  RFC2045 und RFC2183 |
 | **HybridDRG** |  |  |
 | Begleitdatei_V1.0.3 | Schnittstellenbeschreibung für die Begleitdatei |  |
@@ -269,12 +269,12 @@ der TI-Pauschalen Anpassung an die Version 2.0
 | Begleitdatei_V1.0.3  Schnittstellenbeschreibung für die Begleitdatei | Begleitdatei.zip | Schema für die Begleitdatei |
 | KBV_ITA_AHEX_Pruefpaket_1ClickAbrechnung  Prüfpaket zur Umsetzung von 1-Click via KIM | KBV_ITA_FMEX_AAZ_1ClickAbrechnung | Antrag auf Zertifizierung |
 |  | Sammelerklaerung.zip |  |
-| elektronische Sammelerklärung |  | Aktualisierung der Daten der KV Nordrhein zum |
+| elektronische Sammelerklärung |  | - |
 |  | 1ClickAbrechnung V2.1 |  |
 | Spezifikation der 1-Click Abrechnung via KIM | - | Metainformationen der Anhänge (filename |
 | statt name wird Pflichtangabe) aufgrund | RFC2045 und RFC2183 | **HybridDRG** |
 
-zweiten Quartal 2026 Änderung [1Click0142] und [1Click0332]:
+Aktualisierung der Daten der KV Nordrhein zum zweiten Quartal 2026 Änderung [1Click0142] und [1Click0332]:
 
 ---
 
@@ -391,7 +391,7 @@ Aufnahme der optionalen Anforderung O2 -02 Anpassung der P2-02 | **371-SCHNITTST
 | Service_zur_Validierung_2.1.0.zip | FHIR Objekte zur Validierung |  |
 | Service_zur_Validierung_2.2.0.zip | FHIR Objekte zur Validierung (aktuelle |  |
 
-ALLGEMEIN Kommentierungsversion) Codewörtern“ Prüfpaket Blankoformularbedruckung Inhalt zum Update  Besonderheiten zum Update | **ALLGEMEIN** |  |  |
+ALLGEMEIN Kommentierungsversion) Inhalt zum Update  Besonderheiten zum Update Codewörtern“ Prüfpaket Blankoformularbedruckung | **ALLGEMEIN** |  |  |
 |---|---|---|
 | **Dokument** | **Erläuterung** | **Hinweise auf Änderungen** |
 | KBV_ITA_RLEX_Zert | Zertifizierungsrichtlinie der KBV |  |
@@ -430,7 +430,7 @@ ALLGEMEIN Kommentierungsversion) Codewörtern“ Prüfpaket Blankoformularbedruc
 | KBV_ITA_VGEX_FAQ_BFB | FAQ für die Blankoformularbedruckung |  |
 | KBV_ITA_AHEX_Feldabbildung_FEZK | Feldabbildung/Mapping zur Dokumentation der Früherkennung |  |
 | **Q4_2026** |  |  |
-| KBV_ITA_VGEX_Technisches_Handbuch_BFB | Technisches Handbuch | Vorabbereitstellung der Anpassung der DMP- |
+| KBV_ITA_VGEX_Technisches_Handbuch_BFB | Technisches Handbuch | - |
 
 | **DIGITALE MUSTER** |  |  |
 |---|---|---|
@@ -448,7 +448,7 @@ ALLGEMEIN Kommentierungsversion) Codewörtern“ Prüfpaket Blankoformularbedruc
 | Ausfuellhilfe.zip | Informationen für eine Unterstützung der Formulare | KBV_ITA_VGEX_FAQ_BFB  FAQ für die Blankoformularbedruckung |
 | KBV_ITA_AHEX_Feldabbildung_FEZK | Feldabbildung/Mapping zur Dokumentation der Früherkennung   **Q4_2026** |  |
 |  | KBV_ITA_VGEX_Technisches_Handbuch_BFB | Technisches Handbuch |
-| Vorabbereitstellung der Anpassung der DMP- | **DIGITALE MUSTER** |  |
+| - | **DIGITALE MUSTER** |  |
 |  |  |  |
 | **Dokument** |  | **Erläuterung** |
 | **Hinweise auf Änderungen ** DigitaleMuster.zip | Muster für Digitale Vordrucke im PDF/A-Format |  |
@@ -466,7 +466,7 @@ ALLGEMEIN Kommentierungsversion) Codewörtern“ Prüfpaket Blankoformularbedruc
 | Ausfuellhilfe.zip  Informationen für eine Unterstützung der Formulare | KBV_ITA_VGEX_FAQ_BFB | FAQ für die Blankoformularbedruckung |
 | KBV_ITA_AHEX_Feldabbildung_FEZK  Feldabbildung/Mapping zur Dokumentation der Früherkennung |  | **Q4_2026** |
 |  |  | KBV_ITA_VGEX_Technisches_Handbuch_BFB |
-| Technisches Handbuch | Vorabbereitstellung der Anpassung der DMP- | **DIGITALE MUSTER** |
+| Technisches Handbuch | - | **DIGITALE MUSTER** |
 |  |  | **Dokument** |
 | **Erläuterung** | **Hinweise auf Änderungen** | DigitaleMuster.zip  Muster für Digitale Vordrucke im PDF/A-Format |
 | KBV_ITA_AHEX_Feldabbildung_FEZK | Feldabbildung/Mapping zur Dokumentation der Früherkennung | KBV_ITA_SIEX_FAQ_DiMus |
@@ -485,7 +485,7 @@ ALLGEMEIN Kommentierungsversion) Codewörtern“ Prüfpaket Blankoformularbedruc
 | KBV_ITA_AHEX_Feldabbildung_FEZK  Feldabbildung/Mapping zur Dokumentation der Früherkennung |  | **Q4_2026** |
 |  |  | KBV_ITA_VGEX_Technisches_Handbuch_BFB |
 
-DIGITALE MUSTER DigitaleMuster.zip KBV_ITA_SIEX_FAQ_DiMus von Zervixkarzinomen Erläuterung Muster für Digitale Vordrucke im PDF/A-Format von Zervixkarzinomen FAQ für Softwarehersteller zu digitalen Mustern im Format FHIR Kennzeichen Hinweise auf Änderungen Aktualisierung im Zusammenhang mit dem eRezept
+DIGITALE MUSTER DigitaleMuster.zip KBV_ITA_SIEX_FAQ_DiMus von Zervixkarzinomen Erläuterung Muster für Digitale Vordrucke im PDF/A-Format von Zervixkarzinomen FAQ für Softwarehersteller zu digitalen Mustern im Format FHIR Vorabbereitstellung der Anpassung der DMP- Kennzeichen Hinweise auf Änderungen Aktualisierung im Zusammenhang mit dem eRezept
 
 ---
 
@@ -616,7 +616,7 @@ Angepasst an den neuen
 |  |  | KBV_ITA_AHEX_Pruefpaket_eVDGA.pdf  Prüfverfahren für das Zertifizierungsverfahren eVDGA |
 |  | KBV_ITA_FMEX_AAZ_eVDGA.pdf | Antrag auf Zertifizierung für das Zertifizierungsverfahren eVDGA |
 |  | Vorlage_eVDGA_Patientenausdruck_07_2026.zip | Vorlage zur Erstellung des Patientenausdruckes der eVDGA |
-| Aktualisiert im Zusammenhang der | **Q3_2026** |  |
+| - | **Q3_2026** |  |
 |  | KBV_ITA_VGEX_Technische_Anlage_eVDGA  Technische Anlage eVDGA | Vorlage_eVDGA_Patientenausdruck_07_2026.zip |
 | Vorlage zur Erstellung des Patientenausdruckes der eVDGA |  |  |
 | **KBV-SOFTWARE** |  |  |
@@ -633,7 +633,7 @@ Angepasst an den neuen
 | KBV-Pruefassistent_V2026.3.0.jar | JAR-Installer des Prüfassistenten (plattformübergreifend) | Lies_mich_Pruefassistent.txt |
 | Hinweise zur Installation |  |  |
 | KBV_ITA_AHEX_Pruefpaket_eVDGA.pdf  Prüfverfahren für das Zertifizierungsverfahren eVDGA | KBV_ITA_FMEX_AAZ_eVDGA.pdf | Antrag auf Zertifizierung für das Zertifizierungsverfahren eVDGA |
-| Vorlage_eVDGA_Patientenausdruck_07_2026.zip | Vorlage zur Erstellung des Patientenausdruckes der eVDGA | Aktualisiert im Zusammenhang der |
+| Vorlage_eVDGA_Patientenausdruck_07_2026.zip | Vorlage zur Erstellung des Patientenausdruckes der eVDGA | - |
 | **Q3_2026** |  |  |
 | KBV_ITA_VGEX_Technische_Anlage_eVDGA | Technische Anlage eVDGA |  |
 | Vorlage_eVDGA_Patientenausdruck_07_2026.zip | Vorlage zur Erstellung des Patientenausdruckes der eVDGA |  |
@@ -651,12 +651,12 @@ Angepasst an den neuen
 |  |  |  |
 | KBV_ITA_AHEX_Pruefpaket_eVDGA.pdf | Prüfverfahren für das Zertifizierungsverfahren eVDGA |  |
 | KBV_ITA_FMEX_AAZ_eVDGA.pdf | Antrag auf Zertifizierung für das Zertifizierungsverfahren eVDGA |  |
-| Vorlage_eVDGA_Patientenausdruck_07_2026.zip | Vorlage zur Erstellung des Patientenausdruckes der eVDGA | Aktualisiert im Zusammenhang der |
+| Vorlage_eVDGA_Patientenausdruck_07_2026.zip | Vorlage zur Erstellung des Patientenausdruckes der eVDGA | - |
 | **Q3_2026** |  |  |
 | KBV_ITA_VGEX_Technische_Anlage_eVDGA | Technische Anlage eVDGA |  |
 | Vorlage_eVDGA_Patientenausdruck_07_2026.zip | Vorlage zur Erstellung des Patientenausdruckes der eVDGA |  |
 
-Verordnung Verordnung Patientenverständlichkeit Aktualisierung Umsetzung des Updates | **KBV-SOFTWARE** |  |  |
+Verordnung Aktualisiert im Zusammenhang der Patientenverständlichkeit Verordnung Aktualisierung Umsetzung des Updates | **KBV-SOFTWARE** |  |  |
 |---|---|---|
 | **Dokument** | **Erläuterung** | **Hinweise auf Änderungen** |
 | **Kryptomodul** |  |  |
@@ -711,7 +711,7 @@ LABOR EXT_ITA_VGEX_LDT 3_2_19_Gesamtdokument LDT3.2.19_Testdateien LDT-KBV KBV_I
 
 ---
 
-| **eDokumentation_KIM** |  | e |
+| **eDokumentation_KIM** |  | eDokumentation_V2.0. |
 |---|---|---|
 | KIM Spezifikation für den Dienst eDokumentation | Begleitdatei_V1.0.3  Schnittstellenbeschreibung für die Begleitdatei | Begleitdatei.zip |
 | Schema für die Begleitdatei |  |  |
@@ -733,7 +733,7 @@ LABOR EXT_ITA_VGEX_LDT 3_2_19_Gesamtdokument LDT3.2.19_Testdateien LDT-KBV KBV_I
 | KBV_ITA_SIEX_FAQ_eDMP | FAQ-Dokument zum Anforderungskatalog eDMP |  |
 | VSD_Testfaelle_DMP_V1.0.zip | Testdaten für Zertifzierung |  |
 | **eDokumentation_KIM** |  |  |
-| e | KIM Spezifikation für den Dienst eDokumentation |  |
+| eDokumentation_V2.0. | KIM Spezifikation für den Dienst eDokumentation |  |
 | Begleitdatei_V1.0.3 | Schnittstellenbeschreibung für die Begleitdatei |  |
 | Begleitdatei.zip | Schema für die Begleitdatei |  |
 | KBV_ITA_VGEX_Lizenzvereinbarung_Stammdateien  Lizenzvereinbarung für Stammdateien |  | **MEDIZINISCHE DOKUMENTATION** |
@@ -749,7 +749,7 @@ LABOR EXT_ITA_VGEX_LDT 3_2_19_Gesamtdokument LDT3.2.19_Testdateien LDT-KBV KBV_I
 | EXT_ITA_AHEX_Anleitung_eDMP_Uebergreifend | Ausfüllanleitung diagnoseübergreifenden allg. Datensatz |  |
 | EXT_ITA_AHEX_Teilnahme_eDMP_Uebergreifend  Teilnahmeerklärung zum Behandlungsprogramm    EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend  Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten    KBV_ITA_AHEX_Verzeichnis_Datenannahmestellen  Übersicht der DMP-Datenannahmestellen |  | - |
 | KBV_ITA_VGEX_Anforderungskatalog_eDMP  Anforderungskatalog eDMP    KBV_ITA_SIEX_FAQ_eDMP  FAQ-Dokument zum Anforderungskatalog eDMP    VSD_Testfaelle_DMP_V1.0.zip  Testdaten für Zertifzierung   **eDokumentation_KIM** |  |  |
-| e | KIM Spezifikation für den Dienst eDokumentation | Begleitdatei_V1.0.3  Schnittstellenbeschreibung für die Begleitdatei |
+| eDokumentation_V2.0. | KIM Spezifikation für den Dienst eDokumentation | Begleitdatei_V1.0.3  Schnittstellenbeschreibung für die Begleitdatei |
 |  | Begleitdatei.zip | Schema für die Begleitdatei |
 |  |  |  |
 | KBV_ITA_VGEX_Lizenzvereinbarung_Stammdateien | Lizenzvereinbarung für Stammdateien |  |
@@ -763,7 +763,7 @@ LABOR EXT_ITA_VGEX_LDT 3_2_19_Gesamtdokument LDT3.2.19_Testdateien LDT-KBV KBV_I
 | Übersicht der DMP-Datenannahmestellen | -  KBV_ITA_VGEX_Anforderungskatalog_eDMP | Anforderungskatalog eDMP |
 | KBV_ITA_SIEX_FAQ_eDMP  FAQ-Dokument zum Anforderungskatalog eDMP | VSD_Testfaelle_DMP_V1.0.zip | Testdaten für Zertifzierung |
 | **eDokumentation_KIM** |  |  |
-| e | KIM Spezifikation für den Dienst eDokumentation |  |
+| eDokumentation_V2.0. | KIM Spezifikation für den Dienst eDokumentation |  |
 | Begleitdatei_V1.0.3  Schnittstellenbeschreibung für die Begleitdatei    Begleitdatei.zip  Schema für die Begleitdatei |  |  |
 |  |  |  |
 |  |  |  |
@@ -782,7 +782,7 @@ LABOR EXT_ITA_VGEX_LDT 3_2_19_Gesamtdokument LDT3.2.19_Testdateien LDT-KBV KBV_I
 | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten | KBV_ITA_AHEX_Verzeichnis_Datenannahmestellen | Übersicht der DMP-Datenannahmestellen |
 |  | - | KBV_ITA_VGEX_Anforderungskatalog_eDMP |
 | Anforderungskatalog eDMP    KBV_ITA_SIEX_FAQ_eDMP  FAQ-Dokument zum Anforderungskatalog eDMP    VSD_Testfaelle_DMP_V1.0.zip  Testdaten für Zertifzierung   **eDokumentation_KIM** |  |  |
-| e KIM Spezifikation für den Dienst eDokumentation    Begleitdatei_V1.0.3  Schnittstellenbeschreibung für die Begleitdatei    Begleitdatei.zip  Schema für die Begleitdatei |  |  |
+| eDokumentation_V2.0. KIM Spezifikation für den Dienst eDokumentation    Begleitdatei_V1.0.3  Schnittstellenbeschreibung für die Begleitdatei    Begleitdatei.zip  Schema für die Begleitdatei |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -795,7 +795,7 @@ LABOR EXT_ITA_VGEX_LDT 3_2_19_Gesamtdokument LDT3.2.19_Testdateien LDT-KBV KBV_I
 | EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend  Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten    KBV_ITA_AHEX_Verzeichnis_Datenannahmestellen  Übersicht der DMP-Datenannahmestellen  -  KBV_ITA_VGEX_Anforderungskatalog_eDMP  Anforderungskatalog eDMP |  | KBV_ITA_SIEX_FAQ_eDMP |
 | FAQ-Dokument zum Anforderungskatalog eDMP | VSD_Testfaelle_DMP_V1.0.zip  Testdaten für Zertifzierung |  |
 | **eDokumentation_KIM** |  |  |
-|  |  | e |
+|  |  | eDokumentation_V2.0. |
 | KIM Spezifikation für den Dienst eDokumentation    Begleitdatei_V1.0.3  Schnittstellenbeschreibung für die Begleitdatei    Begleitdatei.zip  Schema für die Begleitdatei |  |  |
 |  |  |  |
 |  |  |  |
@@ -819,7 +819,7 @@ LABOR EXT_ITA_VGEX_LDT 3_2_19_Gesamtdokument LDT3.2.19_Testdateien LDT-KBV KBV_I
 | KBV_ITA_SIEX_FAQ_eDMP | FAQ-Dokument zum Anforderungskatalog eDMP |  |
 | VSD_Testfaelle_DMP_V1.0.zip | Testdaten für Zertifzierung |  |
 |  | **eDokumentation_KIM** |  |
-|  | e | KIM Spezifikation für den Dienst eDokumentation |
+|  | eDokumentation_V2.0. | KIM Spezifikation für den Dienst eDokumentation |
 | Begleitdatei_V1.0.3  Schnittstellenbeschreibung für die Begleitdatei | Begleitdatei.zip | Schema für die Begleitdatei |
 |  |  |  |
 |  |  |  |
@@ -830,7 +830,7 @@ LABOR EXT_ITA_VGEX_LDT 3_2_19_Gesamtdokument LDT3.2.19_Testdateien LDT-KBV KBV_I
 |  |  | Austausch_von_XML-Daten_V1.59.zip  Austausch von XML-Daten in der ärztl. Versorgung |
 | ehd-Richtlinie_V1.40.zip  ehd-Richtlinie    KBV_ITA_VGEX_Schnittstelle_eHeader  Schnittstellenbeschreibung eHeader   **Uebergreifend **     EXT_ITA_AHEX_Anleitung_eDMP_Uebergreifend  Ausfüllanleitung diagnoseübergreifenden allg. Datensatz | EXT_ITA_AHEX_Teilnahme_eDMP_Uebergreifend | Teilnahmeerklärung zum Behandlungsprogramm |
 | EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend  Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten    KBV_ITA_AHEX_Verzeichnis_Datenannahmestellen  Übersicht der DMP-Datenannahmestellen  -  KBV_ITA_VGEX_Anforderungskatalog_eDMP  Anforderungskatalog eDMP    KBV_ITA_SIEX_FAQ_eDMP  FAQ-Dokument zum Anforderungskatalog eDMP | VSD_Testfaelle_DMP_V1.0.zip  Testdaten für Zertifzierung |  |
-| **eDokumentation_KIM **      e KIM Spezifikation für den Dienst eDokumentation    Begleitdatei_V1.0.3  Schnittstellenbeschreibung für die Begleitdatei    Begleitdatei.zip  Schema für die Begleitdatei |  |  |
+| **eDokumentation_KIM **      eDokumentation_V2.0. KIM Spezifikation für den Dienst eDokumentation    Begleitdatei_V1.0.3  Schnittstellenbeschreibung für die Begleitdatei    Begleitdatei.zip  Schema für die Begleitdatei |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -863,7 +863,7 @@ LABOR EXT_ITA_VGEX_LDT 3_2_19_Gesamtdokument LDT3.2.19_Testdateien LDT-KBV KBV_I
 | KBV_ITA_SIEX_FAQ_eDMP | FAQ-Dokument zum Anforderungskatalog eDMP | VSD_Testfaelle_DMP_V1.0.zip  Testdaten für Zertifzierung |
 |  |  | **eDokumentation_KIM** |
 |  |  |  |
-| e KIM Spezifikation für den Dienst eDokumentation |  | Begleitdatei_V1.0.3 |
+| eDokumentation_V2.0. KIM Spezifikation für den Dienst eDokumentation |  | Begleitdatei_V1.0.3 |
 | Schnittstellenbeschreibung für die Begleitdatei |  | Begleitdatei.zip |
 | Schema für die Begleitdatei |  |  |
 |  |  |  |
@@ -889,7 +889,7 @@ LABOR EXT_ITA_VGEX_LDT 3_2_19_Gesamtdokument LDT3.2.19_Testdateien LDT-KBV KBV_I
 | VSD_Testfaelle_DMP_V1.0.zip | Testdaten für Zertifzierung |  |
 |  | **eDokumentation_KIM** |  |
 |  |  |  |
-| e | KIM Spezifikation für den Dienst eDokumentation |  |
+| eDokumentation_V2.0. | KIM Spezifikation für den Dienst eDokumentation |  |
 | KBV_ITA_VGEX_Lizenzvereinbarung_Stammdateien | Lizenzvereinbarung für Stammdateien |  |
 |  |  | **MEDIZINISCHE DOKUMENTATION** |
 |  |  | **Dokument** |
@@ -905,7 +905,7 @@ LABOR EXT_ITA_VGEX_LDT 3_2_19_Gesamtdokument LDT3.2.19_Testdateien LDT-KBV KBV_I
 | EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten |  |
 |  | KBV_ITA_AHEX_Verzeichnis_Datenannahmestellen |  |
 | Übersicht der DMP-Datenannahmestellen  -  KBV_ITA_VGEX_Anforderungskatalog_eDMP  Anforderungskatalog eDMP    KBV_ITA_SIEX_FAQ_eDMP  FAQ-Dokument zum Anforderungskatalog eDMP    VSD_Testfaelle_DMP_V1.0.zip  Testdaten für Zertifzierung | **eDokumentation_KIM** |  |
-|  | e KIM Spezifikation für den Dienst eDokumentation | Begleitdatei_V1.0.3 |
+|  | eDokumentation_V2.0. KIM Spezifikation für den Dienst eDokumentation | Begleitdatei_V1.0.3 |
 | Schnittstellenbeschreibung für die Begleitdatei | Begleitdatei.zip | Schema für die Begleitdatei |
 |  |  |  |
 |  |  |  |
@@ -922,7 +922,7 @@ LABOR EXT_ITA_VGEX_LDT 3_2_19_Gesamtdokument LDT3.2.19_Testdateien LDT-KBV KBV_I
 | Teilnahmeerklärung zum Behandlungsprogramm    EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend  Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten    KBV_ITA_AHEX_Verzeichnis_Datenannahmestellen  Übersicht der DMP-Datenannahmestellen  -  KBV_ITA_VGEX_Anforderungskatalog_eDMP | Anforderungskatalog eDMP | KBV_ITA_SIEX_FAQ_eDMP  FAQ-Dokument zum Anforderungskatalog eDMP |
 | VSD_Testfaelle_DMP_V1.0.zip | Testdaten für Zertifzierung | **eDokumentation_KIM** |
 |  |  |  |
-| e KIM Spezifikation für den Dienst eDokumentation | Begleitdatei_V1.0.3 | Schnittstellenbeschreibung für die Begleitdatei |
+| eDokumentation_V2.0. KIM Spezifikation für den Dienst eDokumentation | Begleitdatei_V1.0.3 | Schnittstellenbeschreibung für die Begleitdatei |
 |  | Begleitdatei.zip | Schema für die Begleitdatei |
 |  |  |  |
 |  |  |  |
@@ -947,9 +947,9 @@ LABOR EXT_ITA_VGEX_LDT 3_2_19_Gesamtdokument LDT3.2.19_Testdateien LDT-KBV KBV_I
 | VSD_Testfaelle_DMP_V1.0.zip | Testdaten für Zertifzierung |  |
 |  | **eDokumentation_KIM** |  |
 |  |  |  |
-| e | KIM Spezifikation für den Dienst eDokumentation |  |
+| eDokumentation_V2.0. | KIM Spezifikation für den Dienst eDokumentation |  |
 
-MEDIZINISCHE DOKUMENTATION Leitfaeden Austausch_von_XML-Daten_V1.59.zip ehd-Richtlinie_V1.40.zip KBV_ITA_VGEX_Schnittstelle_eHeader Uebergreifend EXT_ITA_AHEX_Anleitung_eDMP_Uebergreifend EXT_ITA_AHEX_Teilnahme_eDMP_Uebergreifend EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend KBV_ITA_AHEX_Verzeichnis_Datenannahmestellen KBV_ITA_VGEX_Anforderungskatalog_eDMP KBV_ITA_SIEX_FAQ_eDMP VSD_Testfaelle_DMP_V1.0.zip Dokumentation_V2.0.8.pdf Erläuterung Austausch von XML-Daten in der ärztl. Versorgung ehd-Richtlinie Schnittstellenbeschreibung eHeader Ausfüllanleitung diagnoseübergreifenden allg. Datensatz Teilnahmeerklärung zum Behandlungsprogramm Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten Übersicht der DMP-Datenannahmestellen Anforderungskatalog eDMP FAQ-Dokument zum Anforderungskatalog eDMP Testdaten für Zertifzierung Hinweise auf Änderungen Aktualisiert
+MEDIZINISCHE DOKUMENTATION Leitfaeden Austausch_von_XML-Daten_V1.59.zip ehd-Richtlinie_V1.40.zip KBV_ITA_VGEX_Schnittstelle_eHeader Uebergreifend EXT_ITA_AHEX_Anleitung_eDMP_Uebergreifend EXT_ITA_AHEX_Teilnahme_eDMP_Uebergreifend EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend KBV_ITA_AHEX_Verzeichnis_Datenannahmestellen KBV_ITA_VGEX_Anforderungskatalog_eDMP KBV_ITA_SIEX_FAQ_eDMP VSD_Testfaelle_DMP_V1.0.zip 8.pdf Erläuterung Austausch von XML-Daten in der ärztl. Versorgung ehd-Richtlinie Schnittstellenbeschreibung eHeader Ausfüllanleitung diagnoseübergreifenden allg. Datensatz Teilnahmeerklärung zum Behandlungsprogramm Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten Übersicht der DMP-Datenannahmestellen Anforderungskatalog eDMP FAQ-Dokument zum Anforderungskatalog eDMP Testdaten für Zertifzierung Hinweise auf Änderungen Aktualisiert
 
 ---
 
@@ -3755,7 +3755,7 @@ unabweisbare_Bedarfe (1).pdf Digitalisierung_Versorgungsprozesse_KBV.pdf 74E2610
 | - | - | - |
 | - | - | - |
 
-74E26203.sdops.zip   74E26104.sdicd.zip   74E26104.sdkrw.zip   74E26301.sdav.zip    74E26201.sdarv.zip   74E26304.sdkh.zip    74E26304.sdda.zip 74E25404.sdhm.01.zip 74E26301.sdhgnc.zip  74E26301.sdebm.zip   74E26301.sdkt.zip    74E26301.sdkv.zip    74E26301.sdkvca.zip  74E26301.sdplz.zip   74E26104.sdva.zip    74E26101.sdhdrg.01.zip 74E26104.sdhma.01.zip   74E26203.sdops.zip   74E26203.sdicd.zip   74E26104.sdkrw.zip   74E26201.sdav.zip    74E26201.sdarv.zip   74E26204.sdkh.zip    74E26204.sdda.01.zip   74E25404.sdhm.01.zip   74E26201.sdhgnc.zip    74E26201.sdebm.01.zip    74E26201.sdkt.zip    74E26201.sdkv.zip    74E26301.sdebm.zip 74E26301.sdhgnc.zip 74E26304.sdkh.zip 74E26301.sdkt.zip 74E26301.sdkv.zip 74E26301.sdkvca.zip 74E26301.sdplz.zip 74E26304.sdda.zip Aktualisierung der Datei 74E262 01.sdkvca.01.zip 74E26201.sdkvca.01.zip 74E26201.sdplz.zip 74E26104.sdva.zip 74E26101.sdhdrg.01.zip
+74E26203.sdops.zip   74E26104.sdicd.zip   74E26104.sdkrw.zip   74E26301.sdav.zip    74E26201.sdarv.zip   74E26304.sdkh.zip    74E26304.sdda.zip 74E25404.sdhm.01.zip 74E26301.sdhgnc.zip  74E26301.sdebm.zip   74E26301.sdkt.zip    74E26301.sdkv.zip    74E26301.sdkvca.zip  74E26301.sdplz.zip   74E26104.sdva.zip    74E26101.sdhdrg.01.zip 74E26301.sdebm.zip 74E26301.sdhgnc.zip 74E26304.sdkh.zip 74E26301.sdkt.zip 74E26301.sdkv.zip 74E26301.sdkvca.zip 74E26301.sdplz.zip 74E26304.sdda.zip 74E26104.sdhma.01.zip   74E26203.sdops.zip   74E26203.sdicd.zip   74E26104.sdkrw.zip   74E26201.sdav.zip    74E26201.sdarv.zip   74E26204.sdkh.zip    74E26204.sdda.01.zip   74E25404.sdhm.01.zip   74E26201.sdhgnc.zip    74E26201.sdebm.01.zip    74E26201.sdkt.zip    74E26201.sdkv.zip    74E26201.sdkvca.01.zip 74E26201.sdplz.zip 74E26104.sdva.zip 74E26101.sdhdrg.01.zip Aktualisierung der Datei 74E262 01.sdkvca.01.zip
 
 ---
 

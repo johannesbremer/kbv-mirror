@@ -29,21 +29,21 @@ Betriebsstätten-Nr.
 ## Rehabilitation / Prüfung des zuständigen Rehabilitationsträgers
 geb. am
 
-Status
-
-Datum
-
 ***Hinweis an den Arzt zur Zuständigkeit der Krankenkasse***
 
 Ist eine medizinische Rehabilitation erforderlich, weil krankheits-/behinderungsbedingt nicht  nur vorübergehende Beeinträchtigungen der Teilhabe am Leben in der Gesellschaft bestehen oder drohen, kann die Zuständigkeit der Krankenkasse bestehen (z. B. bei Altersrentnern,
 
 spezifischen Leistungen der medizinischen Rehabilitation für Mütter/Väter).
 
+Status
+
 Ist eine erhebliche Gefährdung oder Minderung der Erwerbsfähigkeit gegeben, besteht  grundsätzlich die Zuständigkeit der Rentenversicherung.
 
 Handelt es sich um die Folge eines Arbeitsunfalls / einer Berufskrankheit, ist grundsätzlich
 
 die Zuständigkeit der gesetzlichen Unfallversicherung gegeben.
+
+Datum
 
 ***Bei Zuständigkeit der Krankenkasse bitte NUR Muster 61 Teil B-E ausfüllen.***
 
@@ -113,7 +113,7 @@ bedingt eine Minderung der Erwerbsfähigkeit besteht oder droht.  **Prüfung des
 
 ***Erkrankung***
 
-*** (z. B. IfSG)***
+***(z. B. IfSG)***
 
 **Es wird die**
 

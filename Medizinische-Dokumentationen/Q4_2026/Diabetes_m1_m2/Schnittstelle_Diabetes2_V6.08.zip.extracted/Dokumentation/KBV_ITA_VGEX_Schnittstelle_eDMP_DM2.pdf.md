@@ -550,7 +550,7 @@ Es existieren verschiedene Kardinalitäten:
 | **Kardinalität** | **Symbol** | **Beschreibung** |
 | 0..1 |  | Optionales Element: Element wird als Rechteck mit |
 | 1 |  | Musselement: Rechteck mit durchgezogener Linie. Das |
-| n...m |  | ∞ |
+| n...m |  | Multielement enthält |
 
 **Tabelle 1:**
 
@@ -558,7 +558,7 @@ Es existieren verschiedene Kardinalitäten:
 |---|---|
 | **Symbol** | **Beschreibung** |
 |  | Das Strukturelement <xs:choice> zeigt an, dass zwischen verschiedenen |
-| ∞ | Das Strukturelement <xs:sequence> beschreibt, dass die Kindelemente in |
+| Multielement enthält | Das Strukturelement <xs:sequence> beschreibt, dass die Kindelemente in |
 
 ## 3.2
 
@@ -566,7 +566,7 @@ Die Elemente eines Schema In diesem Dokument werden zwei
 
 **Tabelle 2:** Beschreibung der Strukturelement-Symbole
 
-gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. Multielement enthält mindestens n aber maximal m Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich oft auftreten kann.  Beschreibung der Kardinalitäten STRUKTURELEMENTE -Diagramms werden über sogenannte Strukturelemente mitei Kindelementen genau eins ausgewählt werden festgelegter Reihenfolge aufgeführt werden müssen. nander verknüpft. e verwendet: <xs:choice> und <xs:sequence>. muss. |  |
+gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. mindestens n aber maximal m Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich oft auftreten kann.  Beschreibung der Kardinalitäten STRUKTURELEMENTE -Diagramms werden über sogenannte Strukturelemente mitei Kindelementen genau eins ausgewählt werden festgelegter Reihenfolge aufgeführt werden müssen. nander verknüpft. e verwendet: <xs:choice> und <xs:sequence>. muss. |  |
 \|---|
 
 
@@ -1018,23 +1018,21 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Unauffällig |
 \| Auffällig |
 
-**Tabelle 8:** Werte bei Ergebnistext (
+**Tabelle 8:** Werte bei Ergebnistext (Pulsstatus)
 
 ### Sensibilitätsprüfung
 
-Bei diesem Parameter enthält das  gemäß Tabelle 10.
+Bei diesem Parameter enthält das Element
+
+gemäß Tabelle 10.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-Pulsstatus)
-
-Element
-
 sciphox:Ergebniswert> im *V*-Attribut den „eGFR“ und im *U*
 
-2
+KOF“, wenn ein Wert gemessen wurde.
 
-ml/min/1,73m KOF“, wenn ein Wert gemessen wurde.
+ml/min/1,73m2
 
 -Attributwert „Nicht bestimmt“ verwendet.
 
@@ -1046,7 +1044,7 @@ ml/min/1,73m KOF“, wenn ein Wert gemessen wurde.
 
 ---
 
-\| <sciphox:Beobachtung>    < </sciphox:Beobachtung> |
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
 **XML-Code 22:** Sensibilitätsprüfung
@@ -1067,7 +1065,7 @@ gemäß Tabelle 11. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, 
 
 Als Beispiel sei hier folgender Code angegeben:
 
-\| <sciphox:Beobachtung>    < </sciphox:Beobachtung> |
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
 **XML-Code 23:** Weiteres Risiko für Ulkus
@@ -1084,7 +1082,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 10:** Werte bei Ergebnistext (Weiteres Risiko für Ulkus)
 
-<sciphox:Parameter DN="Sensibilitätsprüfung"/> sciphox:Ergebnistext V="Auffällig"/> V="...") <sciphox:Parameter DN="Weiteres Risiko für Ulkus"/> sciphox:Ergebnistext V="Hyperkeratose mit Einblutung"/> V="...")
+<sciphox:Parameter DN="Sensibilitätsprüfung"/> <sciphox:Ergebnistext V="Auffällig"/> V="...") <sciphox:Parameter DN="Weiteres Risiko für Ulkus"/> <sciphox:Ergebnistext V="Hyperkeratose mit Einblutung"/> V="...")
 
 ---
 
@@ -1140,7 +1138,7 @@ gemäß Tabelle 14 . Als Beispiel sei hier folgender Code angegeben:
 
 ---
 
-\| <sciphox:Beobachtung>    < </sciphox:Beobachtung> |
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
 **XML-Code 26:** Injektionsstellen (bei Insulintherapie)
@@ -1161,7 +1159,7 @@ gemäß Tabelle 15.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-\| <sciphox:Beobachtung>    < </sciphox:Beobachtung> |
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
 **XML-Code 27:** Intervall für künftige Fußinspektionen (bei Patientinnen und Patienten ab dem
@@ -1186,7 +1184,7 @@ gemäß Tabelle 16. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, 
 
 Als Beispiel sei hier folgender Code angegeben:
 
-<sciphox:Parameter DN="Injektionsstellen (bei Insulintherapie)"/> sciphox:Ergebnistext V="Auffällig"/> V="...") <sciphox:Parameter DN="Intervall für künftige Fußinspektionen (bei Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr)"/> sciphox:Ergebnistext V="Jährlich"/> V="...")
+<sciphox:Parameter DN="Injektionsstellen (bei Insulintherapie)"/> <sciphox:Ergebnistext V="Auffällig"/> V="...") <sciphox:Parameter DN="Intervall für künftige Fußinspektionen (bei Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr)"/> <sciphox:Ergebnistext V="Jährlich"/> V="...")
 
 ---
 
@@ -1403,7 +1401,7 @@ gemäß Tabelle 22. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, 
 
 Als Beispiel sei hier folgender Code angegeben:
 
-\| <sciphox:Beobachtung>    < </sciphox:Beobachtung> |
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
 **XML-Code 37:** Thrombozytenaggregationshemmer
@@ -1429,7 +1427,7 @@ Im Element <content> wird die Sciphox-SSU
 
 Der Coderahmen sieht wie folgt aus:
 
-\| <content>**         <sciphox:Beobachtungen>                                 </local_markup> </content> |
+\| <content>**       <sciphox:Beobachtungen>                       </local_markup> </content> |
 \|---|
 
 **XML-Code 38:** content (Schulung)
@@ -1438,7 +1436,7 @@ Der Coderahmen sieht wie folgt aus:
 
 sciphox:Parameter> und
 
-<sciphox:Parameter DN="Thrombozytenaggregationshemmer"/> sciphox:Ergebnistext V="Ja"/>  (V="...") <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Schulung empfohlen (bei aktueller Dokumentation) "/> <sciphox:Ergebnistext V="Diabetes-Schulung"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Schulung schon vor Einschreibung ins DMP bereits wahrgenommen "/> <sciphox:Ergebnistext V="Hypertonie-Schulung"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu>
+<sciphox:Parameter DN="Thrombozytenaggregationshemmer"/> <sciphox:Ergebnistext V="Ja"/>  (V="...") <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Schulung empfohlen (bei aktueller Dokumentation) "/> <sciphox:Ergebnistext V="Diabetes-Schulung"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Schulung schon vor Einschreibung ins DMP bereits wahrgenommen "/> <sciphox:Ergebnistext V="Hypertonie-Schulung"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu>
 
 ---
 
@@ -1509,7 +1507,7 @@ Kindelement <sciphox:Parameter> und mindestens ein Kindelement <sciphox:Ergebnis
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
 
-\| <content>**         <sciphox:Beobachtungen>                                                                  </content>** |
+\| <content>**       <sciphox:Beobachtungen>                                             </content>** |
 \|---|
 
 **XML-Code 41:** content (Behandlungsplanung)
@@ -1522,7 +1520,7 @@ gemäß Tabelle 25. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, 
 
 Als Beispiel sei hier folgender Code angegeben:
 
-\| <sciphox:Beobachtung>    < </sciphox:Beobachtung> |
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
 **XML-Code 42:** Vom Patienten gewünschte Informationsangebote der Krankenkasse
@@ -1537,7 +1535,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 Krankenkasse)
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="HbA1c-Zielwert"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung>   <sciphox:Beobachtung> <sciphox:Parameter DN="Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifizierten Einrichtung"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Diabetesbezogene stationäre Einweisung"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> sciphox:Ergebnistext V="Körperliches Training“/>  (V="...")
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="HbA1c-Zielwert"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung>  <sciphox:Beobachtung> <sciphox:Parameter DN="Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifizierten Einrichtung"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Diabetesbezogene stationäre Einweisung"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> <sciphox:Ergebnistext V="Körperliches Training“/>  (V="...")
 
 ---
 
@@ -1593,7 +1591,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ---
 
-\| <sciphox:Beobachtung>     <  < </sciphox:Beobachtung> |
+\| <sciphox:Beobachtung>        </sciphox:Beobachtung> |
 \|---|
 
 **XML-Code 45:** Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifizierten
@@ -1618,7 +1616,7 @@ gemäß Tabelle 29. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, 
 
 Als Beispiel sei hier folgender Code angegeben:
 
-\| <sciphox:Beobachtung>     <  < </sciphox:Beobachtung> |
+\| <sciphox:Beobachtung>        </sciphox:Beobachtung> |
 \|---|
 
 **XML-Code 46:** Diabetesbezogene stationäre Einweisung
@@ -1631,7 +1629,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 29:** Werte bei Ergebnistext (Diabetesbezogene stationäre Einweisung
 
-<sciphox:Parameter DN="Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifizierten Einrichtung "/> sciphox:Ergebnistext V="Ja"/> sciphox:Ergebnistext V="Veranlasst"/> V="...") <sciphox:Parameter DN="Diabetesbezogene stationäre Einweisung"/> sciphox:Ergebnistext V="Ja"/> sciphox:Ergebnistext V="Veranlasst"/> V="...")
+<sciphox:Parameter DN="Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifizierten Einrichtung "/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Ergebnistext V="Veranlasst"/> V="...") <sciphox:Parameter DN="Diabetesbezogene stationäre Einweisung"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Ergebnistext V="Veranlasst"/> V="...")
 
 ---
 
@@ -1653,16 +1651,16 @@ Im Element <content> wird die Sciphox-SSU *observation*
 
 6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <
 
-<sciphox:Beobachtungen> enthält genau drei Kindelemente <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement < mindestens ein Kindelement <sciphox:Ergebnistext> oder
+<sciphox:Beobachtungen> enthält genau drei Kindelemente <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und
+
+mindestens ein Kindelement <sciphox:Ergebnistext> oder
 
 Der Coderahmen sieht wie folgt aus:
 
-\| <content>**         <sciphox:Beobachtungen>                               Dokumentation"/>                </local_markup> </content> |
+\| <content>**       <sciphox:Beobachtungen>                     Dokumentation"/>            </local_markup> </content> |
 \|---|
 
 verwendet. Der Aufbau dieser SSU ist in Kapitel  sciphox:Beobachtungen>. Das Element
-
-sciphox:Parameter> und
 
 <sciphox:Ergebniswert>.
 
@@ -1788,7 +1786,7 @@ Im Element <content> wird die Sciphox-SSU
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
 
-\| <content>**         <sciphox:Beobachtungen>                                                                                 </content>** |
+\| <content>**       <sciphox:Beobachtungen>                                                       </content>** |
 \|---|
 
 ### Abschnitt „Behandlungsplanung“
@@ -1823,7 +1821,7 @@ gemäß Tabelle 32. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, 
 
 Als Beispiel sei hier folgender Code angegeben:
 
-\| <sciphox:Beobachtung>     < </sciphox:Beobachtung> |
+\| <sciphox:Beobachtung>      </sciphox:Beobachtung> |
 \|---|
 
 **XML-Code 53:** Ophthalmologische Netzhautuntersuchung seit der letzten Dokumentation
@@ -1846,7 +1844,7 @@ Siehe Kapitel 6.1.9.4.
 
 Siehe Kapitel 6.1.9.5.
 
-<sciphox:Parameter DN="Ophthalmologische Netzhautuntersuchung seit der letzten Dokumentation"/> sciphox:Ergebnistext V="Durchgeführt"/> V="...")
+<sciphox:Parameter DN="Ophthalmologische Netzhautuntersuchung seit der letzten Dokumentation"/> <sciphox:Ergebnistext V="Durchgeführt"/> V="...")
 
 ---
 

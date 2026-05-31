@@ -21,20 +21,18 @@ geräteversorgung 1.13 Datum: 13.02.2026 Kennzeichnung: Öffentlich  Status: In 
 
 | **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 1.13 | 13.02.2026 | KBV | Aktualisierung des | Aktualisierung des Schlüs- | **15** |
+| 1.13 | 13.02.2026 | KBV | Aktualisierung | sels | **15** |
 | 1.12 | 14.11.2025 | KBV | Streichung P1-265,   Überarbeitung P1-266      Umwandlung K1-264 in eine Konditio- | Abschaltung KV-Connect | **13** |
-| 1.11 | 15.08.2025 | KBV | Aktualisierung des | Aktualisierung des | **15** |
+| 1.11 | 15.08.2025 | KBV | Aktualisierung | Schlüssels | **15** |
 | 1.10 | 14.02.2025 | KBV | P1-266: neu aufgenommen | Aufnahme von KIM als | **13** |
-| 1.09 | 14.08.2023 | KBV | Aktualisierung des | Aktualisierung des | **15** |
-| 1.08 | 13.08.2021 | KBV | Aktualisierung des | Aktualisierung des | **15** |
-| 1.07 | 14.05.2019 | KBV | -  P1-261, P1 -262 und P1 -263 ge- -  P1-265: neu aufgenommen | Aktualisierung der KV- | **13** |
+| 1.09 | 14.08.2023 | KBV | Aktualisierung | Schlüssels | **15** |
+| 1.08 | 13.08.2021 | KBV | Aktualisierung | Schlüssels | **15** |
+| 1.07 | 14.05.2019 | KBV | -  P1-261, P1-262 und P1-263 ge- -  P1-265: neu aufgenommen | Aktualisierung der KV- | **13** |
 | 1.06 | 03.05.2019 | KBV | Aufnahme der Funktion P1-300 | Erweiterung des Wer- | **13** |
 
-**U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O**
+**U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O** **R** **I** **E**
 
-**R** **I** **E**
-
-Schlüssels   nale Pflichtfunktion KP1-264 Schlüssels   Schlüssels   Schlüssels   strichen einzusetzenden einzusetzenden einzusetzenden einzusetzenden sels Schlüssels Übertragungsweg   Schlüssels Schlüssels Connect Spezifikation tebereichs für den Pa- rameter „Geschlecht des Patienten“ nach Änderung des Personenstandsge- setz (PstG)
+einzusetzenden Aktualisierung des Schlüs- nale Pflichtfunktion KP1-264 einzusetzenden Aktualisierung des einzusetzenden Aktualisierung des einzusetzenden Aktualisierung des strichen Übertragungsweg   Connect Spezifikation tebereichs für den Pa- rameter „Geschlecht des Patienten“ nach Änderung des Personenstandsge- setz (PstG)
 
 ---
 
@@ -88,7 +86,7 @@ Schlüssels   nale Pflichtfunktion KP1-264 Schlüssels   Schlüssels   Schlüsse
 
 **3** **REFERENZIERTE DOKUMENTE _________________________________________ 16**
 
-**I** **N** **H** **A** **L** **T** **S** **V** **E** **R** **Z** **E** **I** **C** **H**  **N** **I** **S**
+**I** **N** **H** **A** **L** **T** **S** **V** **E** **R** **Z** **E** **I** **C** **H** **N** **I** **S**
 
 
 ---
@@ -168,9 +166,7 @@ Hörgeräteversorgung -
 
 Die Bedieneroberfläche der Software muss eine lückenlose und korrekte Eingabe aller relevan- ten Bewegungsdaten bzgl. der Dokumentation der Hörgeräteversorgung ermöglichen.
 
-Die in der Schnittstellenbeschreibung QS Hörgeräteversorgung [ KBV_ITA_VGEX_Schnitt-
-
-stelle_QSHGV] festgelegten Datenelemente müssen vollständig erfassbar sein.
+Die in der Schnittstellenbeschreibung QS Hörgeräteversorgung [KBV_ITA_VGEX_Schnitt- stelle_QSHGV] festgelegten Datenelemente müssen vollständig erfassbar sein.
 
 | **Optionale Funktion QS Hörgeräteversorgung** | |
 |---|---|
@@ -265,7 +261,7 @@ geändert.
 
 Die Parameter des APHAB -Bogens [EXT_ITA_AHEX_Bewertung_APHAB_vor_QSHGV] und
 
-GV Dokumentation (PatientenID) GV Dokumentation  GV Vor Verordnung Dokumentation GV Nach Verordnung Dokumentation[EXT_ITA_AHEX_Bewertung_APHAB_nach_QSHGV] sind vollständig auf der
+GV Dokumentation (PatientenID) GV Dokumentation  GV Vor Verordnung Dokumentation GV Nach Verordnung Dokumentation[EXT_ITA_AHEX_Bewertung_APHAB_nach_QSHGV sind vollständig auf der
 
 
 ---
@@ -280,7 +276,7 @@ auf dem APHAB-Bogen optional.
 
 Der Nutzen (Verbesserung der Hörfähigkeit) wird anhand der APHAB [EXT_ITA_AHEX_Berechnung_APHAB_QSHGV]
 
-und deren
+und
 
 [KBV_ITA_AHEX_Berechnung_APHAB_Detail_QSHGV] ermittelt.
 
@@ -290,7 +286,7 @@ und deren
 |---|---|
 | **P1-90 ** | **Inhalte der Dokumentationen** |
 
-Die Dokumentationsparameter (kurz: Parameter) der
+Die Dokumentationsparameter (kurz: Parameter)
 
 [KBV_ITA_VGEX_PLAUSI_QSHGV] müssen auf der Benutzeroberfläche abgebildet werden.
 
@@ -306,9 +302,11 @@ Das System muss über die aktuelle Position der Dokumentationseingabe Auskunft g
 
 Das System muss sicherstellen, dass zweifelsfrei erkennbar ist, welche Dokumentation (Vor Verordnung oder Nach Verordnung) aktuell dokumentiert wird.
 
-und dem Bearbeiter sind
+und dem Bearbeiter sind -Berechnungsvorschrift  deren
 
--Berechnungsvorschrift  Detailierung
+der
+
+Detailierung
 
 Plausibilitäten
 
@@ -317,7 +315,7 @@ Plausibilitäten
 
 **2.1.4 Parameter**
 
-| **PFLICHTFUNKTION QS Hörgeräteversorgung** | |
+|  | |
 |---|---|
 | **P1-120 ** | **Ausfüllanleitung** |
 
@@ -333,13 +331,13 @@ Das System muss die Parameter als: - a) Pflichtfeld bzw.
 
 unterschiedlich kennzeichnen.
 
-| **Optionale FUNKTION QS Hörgeräteversorgung** | |
+|  | |
 |---|---|
-| **K1-136** | **Datenübernahme aus dem PVS 1** 1 |
+| **K1-136** | **Datenübernahme aus dem PVS1** 1 |
 
 Plausibilität
 
-Eine automatisierte Übernahme von Parametern aus dem PVS ist zulässig, wenn diese durch eine Quittierung des Anwenders in d ie QS Hörgeräteversorgung übernommen werden. Dies gilt für alle Formen der Dateneingabe (z. B. Beleglesung, Digitalisierbrett, Tastatur, Scanner). Hierbei ist darauf zu achten, dass stets der aktuellste verfügbare Wert zur Übernahme heran- gezogen wird. Eine Quittierung hat immer zu erfolgen, auch wenn es sich um tagesaktuelle Werte handelt  2.1.5 Plausibilitäten PFLICHTFUNKTION QS Hörgeräteversorgung P1-130 Überprüfung der Eingaben auf Plausibilität Die Eingaben des Nutzers müssen systemseitig auf [KBV_ITA_VGEX_PLAUSI_QSHGV ] geprüft werden. Diese Überprüfung sollte direkt nach der Eingabe erfolgen. Eine nicht plausible Eingabe muss dem Nutzer deutlich aufgezeigt werden und mit Hinweis auf das fehlerhafte Datenfeld erfolgen. Das Dokument Plausibilitäten [ KBV_ITA_VGEX_PLAUSI_QSHGV ] enthält die Spalten: "Pflicht- feld", "Antwortmöglichkeiten" und "Wertebereich", diese Vorgaben sind verpflichtend.  Über die Spalte "optional Plausibilitäten" kann sich der Arzt jedoch hinwegsetzen.   Praxisverwaltungssystem| **PFLICHTFUNKTION QS Hörgeräteversorgung** | |
+PFLICHTFUNKTION QS Hörgeräteversorgung Optionale FUNKTION QS Hörgeräteversorgung Eine automatisierte Übernahme von Parametern aus dem PVS ist zulässig, wenn diese durch eine Quittierung des Anwenders in d ie QS Hörgeräteversorgung übernommen werden. Dies gilt für alle Formen der Dateneingabe (z. B. Beleglesung, Digitalisierbrett, Tastatur, Scanner). Hierbei ist darauf zu achten, dass stets der aktuellste verfügbare Wert zur Übernahme heran- gezogen wird. Eine Quittierung hat immer zu erfolgen, auch wenn es sich um tagesaktuelle Werte handelt  2.1.5 Plausibilitäten PFLICHTFUNKTION QS Hörgeräteversorgung P1-130 Überprüfung der Eingaben auf Plausibilität Die Eingaben des Nutzers müssen systemseitig auf [KBV_ITA_VGEX_PLAUSI_QSHGV ] geprüft werden. Diese Überprüfung sollte direkt nach der Eingabe erfolgen. Eine nicht plausible Eingabe muss dem Nutzer deutlich aufgezeigt werden und mit Hinweis auf das fehlerhafte Datenfeld erfolgen. Das Dokument Plausibilitäten [ KBV_ITA_VGEX_PLAUSI_QSHGV ] enthält die Spalten: "Pflicht- feld", "Antwortmöglichkeiten" und "Wertebereich", diese Vorgaben sind verpflichtend.  Über die Spalte "optional Plausibilitäten" kann sich der Arzt jedoch hinwegsetzen.   Praxisverwaltungssystem|  | |
 |---|---|
 | **P1-130 ** | **Überprüfung der Eingaben auf Plausibilität** |
 
@@ -497,7 +495,7 @@ Anhand der Übersicht ist es möglich, eine ausgewählte Dokumentation zu öffne
 |---|---|
 | **P1-240 ** | **Korrekturlieferung** |
 
-Erfolgt eine Korrektur eines bereits versendeten Datensatzes durch den Arzt, muss dies in der  elektronischen Dokumentation gemäß der
+Erfolgt eine Korrektur eines bereits versendeten Datensatzes durch den Arzt, muss dies in der  elektronischen Dokumentation gemäß
 
 [KBV_ITA_VGEX_Schnittstelle_eHeader] kenntlich gemacht werden.
 
@@ -507,7 +505,7 @@ Erfolgt eine Korrektur eines bereits versendeten Datensatzes durch den Arzt, mus
 
 -
 
-Schnittstellenbeschreibung
+der Schnittstellenbeschreibung
 
 
 ---
@@ -534,7 +532,7 @@ Das Geschlecht des Patienten muss bei jeder Dokumentation zum Patienten übermit
 
 - Das System muss das administrative Geschlechts des Patienten im Element <admi-
 
-Die Abbildung der Geschlechtsausprägung ist von der Softwareversion der XML - Schnittstelle (siehe Kapitel 6.10.6.2 KBV_ITA_VGEX_Schnittstelle_eHeader) abhängig.
+Die Abbildung der Geschlechtsausprägung ist von der Softwareversion der XML- Schnittstelle (siehe Kapitel 6.10.6.2 KBV_ITA_VGEX_Schnittstelle_eHeader) abhängig.
 
 | **Geschlechtsausprägung** | **Schlüsseltabellenwert (2.16.840.1.113883.5.1)** | |
 |---|---|---|
@@ -587,7 +585,7 @@ Wenn KV für das Verfahren QSHGV das KIM-Verfahren gemäß der [Spezifikation_eD
 
 unterstützt, dann enthält die SDKVCA einen entsprechenden Eintrag.
 
-|  | |
+| **KONDITIONALE PFLICHTFUNKTION QS Hörgeräteversorgung** | |
 |---|---|
 | **KP1-264** | **Importstatus von der Datenannahmestelle** |
 
@@ -606,7 +604,7 @@ Es sind folgende Import-Status möglich:
 | **Status** | **Beschreibung** |
 |---|---|
 | OK | Die Datei wurde erfolgreich importiert. |
-| OK (implausibel) | es sind Fehler in der Datei, die jedoch nicht zum Abbruch des Im- |
+| OK (implausibel) | Die Datei wurde erfolgreich importiert, aber sie ist implausibel. D.h. |
 | Datei existiert bereits | Die Datei wurde nicht importiert, da bereits ein Datensatz mit glei- |
 | Fehlgeschlagen | Beim Import der Datei sind Fehler aufgetreten, daher konnte diese  übermittelt. |
 
@@ -630,7 +628,7 @@ Das PVS muss dem Anwender den Importstatus in geeigneter Weise anzeigen.
 
 Das System muss
 
-KONDITIONALE PFLICHTFUNKTION QS Hörgeräteversorgung Die Datei wurde erfolgreich importiert, aber sie ist implausibel. D.h. ports führen. cher Zuordnung (SET_ID, BSNR, LANR) vorhanden ist. nicht gespeichert werden. Es sind entweder Plausibilitätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. P1-20) -
+es sind Fehler in der Datei, die jedoch nicht zum Abbruch des Im- ports führen. cher Zuordnung (SET_ID, BSNR, LANR) vorhanden ist. nicht gespeichert werden. Es sind entweder Plausibilitätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. P1-20) -
 
 
 ---
@@ -653,7 +651,7 @@ KONDITIONALE PFLICHTFUNKTION QS Hörgeräteversorgung Die Datei wurde erfolgreic
 |---|---|
 | **P1-270 ** | **Einsatz Kryptomodul (XKM)** |
 
-Vor Fertigstellung des vom Anwender einzureichenden Datenträgers ist das Dokumentations- archiv in der Gesamtheit mit dem KBV -Kryptomodul (XKM) unter Nutzung des öffentlichen  Schlüssels zur QSH GV-Datenverschlüsselung (Oeffentlich_QSHGV_V08.pub) zu verschlüs- seln.
+Vor Fertigstellung des vom Anwender einzureichenden Datenträgers ist das Dokumentations- archiv in der Gesamtheit mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen  Schlüssels zur QSHGV-Datenverschlüsselung (Oeffentlich_QSHGV_V08.pub) zu verschlüs- seln.
 
 Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM nicht relevant.  Es muss bei allen Datenübertragungen eingesetzt werden. Nähere Erläuterungen zur Funktion und Anwendung des XKM sind in [KBV_ITA_AHEX_Handbuch_Kryptomodul - ] exportieren.
 
@@ -671,15 +669,15 @@ Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM ni
 | **Referenz** | **Dokument** |
 |---|---|
 | [KBV_ITA_VGEX_Schnittstelle_QSHGV] | Schnittstellenbeschreibung QS Hörgeräte- |
-| [KBV_ITA_VGEX_Schnittstelle_eHeader] | Schnittstellenbeschreibung eDokumenta- |
+| [KBV_ITA_VGEX_Schnittstelle_eHeader] | Schnittstellenbeschreibung |
 | [KBV_ITA_AHEX_Ausfuellhinweise_QSHGV] | Ausfüllhinweise zur QS Hörgeräteversor- |
-| [KBV_ITA_VGEX_PLAUSI_QSHGV] | Berechnungsvorschrift QS Hörgerätever- |
+| [KBV_ITA_VGEX_PLAUSI_QSHGV] | Berechnungsvorschrift |
 | [EXT_ITA_AHEX_Berechnung_APHAB_QSHGV] | Berechnung des APHAB-Nutzens |
-| [KBV_ITA_AHEX_Berechnung_APHAB_Detail_QSHGV] | Detaillierte Berechnung des APHAB -Nut- |
+| [KBV_ITA_AHEX_Berechnung_APHAB_Detail_QSHGV] | Detaillierte Berechnung des APHAB-Nut- |
 | [EXT_ITA_AHEX_Bewertung_APHAB_vor_QSHGV] | Fragebogen zur Bestimmung der Hörbehin- |
 | [EXT_ITA_AHEX_Bewertung_APHAB_nach_QSHGV] | Fragebogen zur Bestimmung der Hörbehin- |
 | [KBV_ITA_VGEX_XML-Schnittstellen] | Austausch von XML-Daten in der vertrags- |
 | [KBV_ITA_AHEX_Handbuch_Kryptomodul] | XKM Anwenderhandbuch |
 | [Spezifikation_eDoku_KIM | Spezifikation KIM Anwendungsdienst " |
 
-versorgung PVS tion Header gung Jahresstatistik sorgung derung (APHAB) - Vor der Hörgerätever- sorgung derung (APHAB) - Nach der Hörgerätever- sorgung ärztlichen Versorgung (B07) Dokumentation V2.0  in der stets aktuel- len Version
+versorgung PVS eDokumenta- tion Header gung Jahresstatistik QS Hörgerätever- sorgung derung (APHAB) - Vor der Hörgerätever- sorgung derung (APHAB) - Nach der Hörgerätever- sorgung ärztlichen Versorgung (B07) Dokumentation V2.0  in der stets aktuel- len Version

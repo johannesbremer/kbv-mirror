@@ -116,7 +116,7 @@ DOKUMENTENHISTORIE
 | 1.01 | 23.11.2021 | KBV | Korrektur UseCase 13 |  | 26 |
 | 1.00 | 13.09.2021 | KBV | Bereitstellung des Dokumentes |  |  |
 
-um den Fall, dass die Kodierregeln direkt nach der Erfassung der einzelnen Diagnosen ausgelöst werden (UseCase 7) und Fragen zur Umsetzung mit Dokument „Sprechstunde Kodierunterstützun g“
+um den Fall, dass die Kodierregeln direkt nach der Erfassung der einzelnen Diagnosen ausgelöst werden (UseCase 7) mit Dokument und Fragen zur Umsetzung „Sprechstunde Kodierunterstützun g“
 
 ---
 
@@ -1174,7 +1174,7 @@ Der Anwender entscheidet sich, die Diagnose "E66.00 G" als Dauerdiagnose in die 
 |---|---|---|
 | ICD-10-GM-Kode | Diagnosenklartext | |
 | Q3/2022 | E66.01 G | Adipositas durch übermäßige Kalorienzufuhr Grad II (WHO) bei |
-| Q4/2022 | E66.01 G | Patienten von 18 Jahren und älter |
+| Q4/2022 | E66.01 G | Adipositas durch übermäßige Kalorienzufuhr Grad II (WHO) bei |
 | Q1/2023 | E66.00 G | Adipositas durch übermäßige Kalorienzufuhr Grad I (WHO) bei |
 | Q2/2023 | E66.00 G | Adipositas durch übermäßige Kalorienzufuhr Grad I (WHO) bei |
 
@@ -1186,7 +1186,7 @@ mit der Diagnosensicherheit "G" zur Übernahme angeboten.
 
 **KP10 -200** und **KP10 -240** sei hier an einem Beispiel beschrieben:
 
-GM-Kode und älter und älter QUARTAL
+GM-Kode und älter und älter QUARTAL Patienten von 18 Jahren und älter Patienten von 18 Jahren und älter Patienten von 18 Jahren und älter Patienten von 18 Jahren und älter
 
 ---
 

@@ -110,7 +110,7 @@ DOKUMENTENHISTORIE
 
 / Version: 1.2.1
 
-Neue Anforderung P5-02 aufgenommen. Neue Export -Anforderungen P6-17, KP6-18 Neue Import -Anforderungen P7-02, O7-05 Anpassung Erzeugung Reportdateien Historisierung der Begegnung geändert Neue Anforderung P3 -10 aufgenommen Neue Anforderung zur Kompatibilität der Schnittstellenversionen P6-20 und P707 1 SGB V Anlagen können auf Wunsch des Anwenders referenziert werden P5 -52 Anforderung P6 -03 konkretisiert Neue Afo P6 -21 für Multiplikator einer GOP Neue Afo KP6-22 zum Abbilden von GOPn aus sonstigen Codesystemen Import in ein System mit vorhandenen Daten konkretisiert Afo P7 -03 Neue Afo KP6-23 für die Abbildung von Teilaufträgen Geänderte gesetzliche Grundlage in § 371 und 372 Umstellung der Ressourcen von STU3 auf R4 Änderung der Dat einamen von 74_* in KBV_* Kapitel 1.4 eingefügt Ausnahmen in P3 -02 zugefügt Hinweis P3-04 Must-Support Überarbeitung P7 -01 und Separierung in KP7-05 Div. redaktionelle Anpassung Neue Anforderungen: P3-11, P5-59, O6-24
+Neue Anforderung P5-02 aufgenommen. Neue Export -Anforderungen P6-17, KP6-18 Neue Import -Anforderungen P7-02, O7-05 Anpassung Erzeugung Reportdateien Historisierung der Begegnung geändert Neue Anforderung P3 -10 aufgenommen Neue Anforderung zur Kompatibilität der Schnittstellenversionen P6-20 und P707 1 SGB V Anlagen können auf Wunsch des Anwenders referenziert werden P5 -52 Anforderung P6 -03 konkretisiert Neue Afo P6 -21 für Multiplikator einer GOP Neue Afo KP6-22 zum Abbilden von GOPn aus sonstigen Codesystemen Import in ein System mit vorhandenen Daten konkretisiert Afo P7-03 Neue Afo KP6-23 für die Abbildung von Teilaufträgen Geänderte gesetzliche Grundlage in § 371 und 372 Umstellung der Ressourcen von STU3 auf R4 Änderung der Dat einamen von 74_* in KBV_* Kapitel 1.4 eingefügt Ausnahmen in P3 -02 zugefügt Hinweis P3-04 Must-Support Überarbeitung P7 -01 und Separierung in KP7-05 Div. redaktionelle Anpassung Neue Anforderungen: P3-11, P5-59, O6-24
 
 ---
 
@@ -132,33 +132,33 @@ Komplette Überarbeitung der Anforderungen zu den Datenbereichen im Kapitel 2.4 
 
 # 1 EINLEITUNG
 
-Gemäß § 371 Absatz 1 SGB V müssen den Vertra gsärzten und -psychotherapeuten mittels einer offenen
+Gemäß § 371 Absatz 1 SGB V müssen den Vertra gsärzten
 
-und standardisierten Schnittstelle die systemneutralen Archivierungen von Patientendaten sowie die  Übertragung von Patientendaten bei einem Systemwechsel ermöglicht werden.
+und standardisierten Schnittstelle die systemneutralen Archivierungen von Patientendaten sowie die  Übertragung von Patientendaten bei einem Systemwechsel
 
 ## 1.1 ZIEL
 
-Das Ziel dieses Dokume nts ist es, Anforderungen für die Umsetzung bei Archivierung von Patientendaten  sowie die Übertragung von Patientendaten bei einem Systemwechsel festzulegen. Für die Archivierung und  den Systemwechsel wird eine gemeinsame Wechsel- und Archivierungs -Schnittstelle (AW-SST) für die
+Das Ziel dieses Dokuments ist es, Anforderungen für die Umsetzung bei Archivierung von Patientendaten
+
+sowie die Übertragung von Patientendaten bei einem Systemwechsel festzulegen. Für die Archivierung und  den Systemwechsel wird eine gemeinsame Wechsel- und Archivierungs -Schnittstelle (AW-SST) für die
 
 beteiligten Systeme verwendet.
 
 ## 1.2 ABGRENZUNG
 
-Für die Zertifizierung der AW -SST werden keine weiteren KBV-Zertifizierungen vorausgesetzt.
+Für die Zertifizierung der AW -SST werden keine weiteren KBV
 
 ## 1.3 FUNKTIONSARTEN
 
-Der vorliegende Anforderungskatalog differenziert zwischen Pflichtfunktionen, kon ditionalen
+Der vorliegende Anforderungskatalog differenziert zwischen Pflichtfunktionen, kon Pflichtfunktionen und optionalen Funktionen, die im Folgenden näher erläutert werden.
 
-Pflichtfunktionen und optionalen Funktionen, die im Folgenden näher erläutert werden.
+Eine **Pflichtfunktion** bedeutet, dass die entsprechende Anforderung
 
-Eine **Pflichtfunktion** bedeutet, dass die entsprechende Anforderung zwingend umgesetzt werden muss.
-
-Eine **konditionale Pflichtfunktion** dagegen muss nur dann umge setzt werden, wenn alle notwendigen
+Eine **konditionale Pflichtfunktion** dagegen muss nur dann umgesetzt werden, wenn alle notwendigen
 
 Bedingungen zutreffen. Diese werden am Ende direkt nach Festlegung der Anforderung beschrieben.
 
-Bei den **optionalen Funktionen** handelt es sich um Anforderungen, die umgesetzt werden können. Die
+Bei den **optionalen Funktionen** handelt es sich um Anforderungen, die umgesetzt werden können.
 
 Entscheidung hierzu liegt im Ermessen des jeweiligen Softwareherstellers.
 
@@ -180,10 +180,21 @@ Optionale Funktionen sind wie folgt gekennzeichnet:
 |---|---|
 | **O4-20** | Funktionsbezeichnung |
 
+und -psychotherapeuten mittels einer offenen
+
+ermöglicht werden.
+
+-Zertifizierungen vorausgesetzt.
+
+ditionalen
+
+zwingend umgesetzt werden muss.
+
+Die
+
 / Version: 1.2.1
 
 PFLICHTFUNKTION AW-SST
-
 
 ---
 
@@ -212,7 +223,7 @@ Dieses Kapitel enthält die verbindlichen Anforderungen der AW
 |---|---|
 | **P1-00** | Schnittstellenfestlegung AW |
 
-Das Dokument [ Festlegung_SST_AW] legt die Schnittstellen
+Das Dokument [ Festlegung_SST_AW] legt die Schnittstellen nach §
 
 zu den FHIR® -Ressourcen sind wesentliche Bestandteile dieses
 
@@ -254,21 +265,17 @@ die FHIR® -Ressourcen zu verwenden sind.
 
 # SYSTEM-HERSTELLER -SST.
 
-nach § 371 Absatz 1 SGB V fest. Die Vorgaben  Dokuments.
+371 Absatz 1 SGB V fest. Die Vorgaben  Dokuments.
 
-Dokuments [ Festlegung_SST_AW
+Dokuments [ Festlegung_SST_AW] vollständig und
 
 eingesetzt werden.
 
-- eigenen
-
-/ Version: 1.2.1
-
-] vollständig und
-
 Einschränkungen - -CodeSystems und
 
-- Codesysteme , die die  Weiterhin
+- eigenen Codesysteme , die die  Weiterhin
+
+/ Version: 1.2.1
 
 
 ---
@@ -287,7 +294,7 @@ Festlegung für die Schnittstelle um interoperabel zu sein.
 
 **Akzeptanzkriterium:**
 
-Die Daten werden dateibasiert im XML -Format auf FHIR® -Basis transportiert.
+Die Daten werden dateibasiert im XML-Format auf FHIR® -Basis transportiert.
 
 | **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
@@ -487,7 +494,9 @@ Definition der Punkte 1 und 2 ausnahmslos.
 |---|---|
 | **P3-05** | Definition des Inhalts der BUNDLE |
 
-In den BUNDLE -Dateien müssen alle für das jeweilige BUNDLE definierten Ressourcen aufgenommen  werden. Dabei sind die Definiti onen für die unterschiedlichen Ressourcentypen zu beachten.
+In den BUNDLE -Dateien müssen alle für das jeweilige BUNDLE definierten Ressourcen aufgenommen
+
+werden. Dabei sind die Definiti onen für die unterschiedlichen Ressourcentypen zu beachten.
 
 **Begründung:**
 
@@ -495,7 +504,9 @@ Festlegung für die Schnittstelle.
 
 **Akzeptanzkriterium:**
 
-- 1. In den BUNDLE -Dateien müssen alle im BUNDLE genannten Ressourcen vollständig aufgenommen  werden, sofern hierfür Instanzen vorhand en sind.
+- 1. In den BUNDLE -Dateien müssen alle im BUNDLE genannten Ressourcen vollständig aufgenommen
+
+- werden, sofern hierfür Instanzen vorhand en sind.
 
 **HINWEIS**
 
@@ -534,9 +545,7 @@ Festlegung für die Schnittstelle.
 
 Einige Ressourcen haben eine direkte Referenz zur Patienten-Ressource, obwohl der fachliche Bezug zum
 
-Patienten bereits indirekt über eine referenzierte Ressource hergestellt wurde. Grundsätzlich müssen alle
-
-in den KBV -Profilen definierten Referenzen in den jeweiligen Instanzen vorhanden sein.
+Patienten bereits indirekt über eine referenzierte Ressource hergestellt wurde. Grundsätzlich müssen alle  in den KBV -Profilen definierten Referenzen in den jeweiligen Instanzen vorhanden sein.
 
 **Begründung:**
 
@@ -544,7 +553,7 @@ Herstellen der FHIR-Spezifikationskonformität (selfcontained information)
 
 | **KONDITIONALE PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| **KP3-08** | Eigene Instanz bei Änderung in Informationsobjekten |
+| **KP3-08** | Eigene Instanz bei |
 
 Für die Übertragung der Änderungen an Informationsobjekten zu unterschiedlichen Zeitpunkten muss jede  Änderung in einer separaten Instanz des jeweils zugeordneten KBV -Profils erfolgen. Eine
 
@@ -574,7 +583,9 @@ in der Referenz explizit anzugeben z. B. [http://Testserver.de/Patient/1/_histor
 
 auf den Patienten mit der Ressourcen-ID=1 und der meta.versionID=2 verwiesen werden.
 
-/ Version: 1.2.1 -Dateien
+/ Version: 1.2.1
+
+-Dateien Änderung in Informationsobjekten
 
 
 ---
@@ -583,7 +594,7 @@ auf den Patienten mit der Ressourcen-ID=1 und der meta.versionID=2 verwiesen wer
 |---|---|
 | **KP3-09** | Definition der Versionsnummer (meta.versionId) |
 
-\| **Beispiel ** Definition des Patienten in  <StructureDefiniti on xmlns="http://hl7.org/fhir"> <url value="https://fhir.kbv.de/StructureD  <version value="1.2.0" />  ...  </StructureDefinition> |
+\| **Beispiel ** Definition des Patienten in KBV_AW_Patient:  <StructureDefiniti on xmlns="http://hl7.org/fhir"> <url value="https://fhir.kbv.de/StructureD  <version value="1.2.0" />  ...  </StructureDefinition> |
 \|---|
 \| **KONDITIONALE PFLICHTFUNKTION AW -SST **  **KP3-09 ** Definition der Versionsnummer (meta.versionId) Ist das System mit einer Möglichkeit zur historisierten Speicherung von Informationen ausgestattet, so sind |
 
@@ -593,7 +604,7 @@ auf den Patienten mit der Ressourcen-ID=1 und der meta.versionID=2 verwiesen wer
 
 / Version: 1.2.1
 
-diese Strukturen mit einer Historie -Version auch in dieser SST abzubilden. Zum einheitlichen Verständnis muss der Aufbau der Versionsnummer definiert werden. Begründung: Hiermit werden Änderungen an fachlichen gleichen Objekten mit einer Versionierung abgebildet. Akzeptan zkriterium: Die zeitlich gesehen älteste Informationseinheit hat die kleinste numerische Versionsnummer (meta.versionId=1). Darauffolgende chronologische Änderungen haben Versionsnummern (1, 2, 3 usw.) zur Folge. Es sind nur natürl iche Zahlen Das Element meta.profile in Instanzen der FHIR® -Ressourcen ist mit der Canonical -URL des verwendeten FHIR® -Profils unter Angabe der Versionsnum mer der Schnittstelle zu versehen.  Begründung: Zur Kennzeichnung mit welchem KBV -Profil die FHIR® -Instanz konform ist, ist die entsprechende URL des FHIR® -Profils anzugeben. Zur Gewährleistung einer Eindeutigkeit ist die URL um die Versionsnummer Schnittstelle des entsprechenden Profils zu erweitern. Akzeptanzkriterium: Alle FHIR® -Instanzen müssen im Element meta.profil e einen Eintrag gemäß Kapitel 2.3.0. http://www.hl7.org/fhir/r4/referen ces.html der [FHIR® ]-Spezifikation in folgender Form enthalten :  <URL des FHIR -Profils>|<Version des Profils> Es gilt: <URL des FHIR -Profils> = Inhalt aus StructureDefinition.URL des entsprechenden Profils <Version des Profils> = Inhalt aus StructureDefinition.version des entsprechenden Profils im Format „X.X.X“ KBV_AW_Patient: efinition/KBV_PR_AW_Patient" /> fortlaufende ansteigende OHNE DIE NULL  erlaubt 5
+diese Strukturen mit einer Historie -Version auch in dieser SST abzubilden. Zum einheitlichen Verständnis muss der Aufbau der Versionsnummer definiert werden. Begründung: Hiermit werden Änderungen an fachlichen gleichen Objekten mit einer Versionierung abgebildet. Akzeptan zkriterium: Die zeitlich gesehen älteste Informationseinheit hat die kleinste numerische Versionsnummer (meta.versionId=1). Darauffolgende chronologische Änderungen haben fortlaufende ansteigende Versionsnummern (1, 2, 3 usw.) zur Folge. Es sind nur natürl iche Zahlen Das Element meta.profile in Instanzen der FHIR® -Ressourcen ist mit der Canonical -URL des verwendeten FHIR® -Profils unter Angabe der Versionsnum mer der Schnittstelle zu versehen.  Begründung: Zur Kennzeichnung mit welchem KBV -Profil die FHIR® -Instanz konform ist, ist die entsprechende URL des FHIR® -Profils anzugeben. Zur Gewährleistung einer Eindeutigkeit ist die URL um die Versionsnummer Schnittstelle des entsprechenden Profils zu erweitern. Akzeptanzkriterium: Alle FHIR® -Instanzen müssen im Element meta.profile einen Eintrag gemäß Kapitel 2.3.0. http://www.hl7.org/fhir/r4/referen ces.html der [FHIR® ]-Spezifikation in folgender Form enthalten :  <URL des FHIR-Profils>|<Version des Profils> Es gilt: <URL des FHIR-Profils> = Inhalt aus StructureDefinition.URL des entsprechenden Profils <Version des Profils> = Inhalt aus StructureDefinition.version des efinition/KBV_PR_AW_Patient" /> OHNE DIE NULL  erlaubt entsprechenden Profils im Format „X.X.X“ 5
 
 ---
 
@@ -619,23 +630,23 @@ Erstellung valider Ressourcen mit KBV-Profilen.
 
 - muss die Extension data -absent-reason  Patient.extension(versichertendaten_Zusatzinformationen).extension:geburtsdatum darf nicht  gefüllt werden.
 
-- b) Element Patient.deceased[x]: Ist der Todeszeitpunkt unbekannt , die Tatsache soll aber übertragen
+- b) Element Patient.deceased[x]: Ist der Todeszeitpunkt unbekannt , die Tatsache soll
 
 - werden so muss der Dummy -Wert 0001-01-01 verwendet werden
 
 - 2. KBV-Profil KBV_PR_AW_ANLAGE:
 
-- a) Element DocumentReference.date: Ist das Referenzierungsdatum unbekannt Datum 01.01.0001 (0001-01-01T00:00:00.000+00:00) verwendet werden eine Zeit zum Datum zu speichern ist nach dem Datum T00:00:00.000+00:00 zu ergänzen (bspw.
+- a) Element DocumentReference.date: Ist das Referenzierungsdatum unbekannt Datum 01.01.0001 (0001-01-01T00:00:00.000+00:00) verwendet werden eine Zeit zum Datum zu speichern ist  2021-05-15T00:00:00.000+00:00)
 
-- 2021-05-15T00:00:00.000+00:00)
-
-- verwendet werden und das Element
+- verwendet werden und das Element - aber übertragen
 
 - , kann das Dummy- . Bei fehlender Möglichkeit
 
+- nach dem Datum T00:00:00.000+00:00 zu ergänzen (bspw.
+
 / Version: 1.2.1
 
-P3-11 Belegung der Elemente text.status Die Belegung der Elemente text.status soll mit dem Wert „extensions“ erfolgen. Begründung: Klarstellung zur de rzeit noch uneinheitlichen Definition in den KBV -Profilen. Akzeptanzkriterium: 1. Das E lement text.status muss in allen Instanzen der KBV -Profile mit dem Wert „extensions“ gefüllt werden. 2.4 DEFAULTWERTE ition/KBV_PR_AW_Patient|1.2.0 in den KBV -Profilen | **PFLICHTFUNKTION AW -SST** |  |
+ition/KBV_PR_AW_Patient|1.2.0 P3-11 Belegung der Elemente text.status in den KBV -Profilen Die Belegung der Elemente text.status soll mit dem Wert „extensions“ erfolgen. Begründung: Klarstellung zur de rzeit noch uneinheitlichen Definition in den KBV -Profilen. Akzeptanzkriterium: 1. Das E lement text.status muss in allen Instanzen der KBV -Profile mit dem Wert „extensions“ gefüllt werden. 2.4 DEFAULTWERTE | **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
 | **P3-11** | Belegung der Elemente text.status |
 
@@ -859,7 +870,7 @@ Hiermit wird ein besseres Auffinden der exportierten Dateien ermöglicht.
 |---|---|
 | **P5-01** | Verzeichnisstr uktur - Root-Element |
 
-Die Benennung des Root -Elementes der Verzeichnisstruktur muss das vorgegebene Format einhalten.
+Die Benennung des Root-Elementes der Verzeichnisstruktur muss das vorgegebene Format einhalten.
 
 **Begründung:**
 
@@ -890,7 +901,7 @@ Bedeutung der einzelnen Parameter:
 |---|---|
 | **P5-02** | Verzeichnisstruktur und Inhalt |
 
-Der Ordner _System muss in der Hierarchie direkt unter dem Root angelegt werden. Im Ordner _System sollen zusätzliche FHIR -Code- und Namingsysteme sowie die Report Dateien abgelegt werden.
+Der Ordner _System muss in der Hierarchie direkt unter dem Root angelegt werden. Im Ordner _System sollen zusätzliche FHIR-Code- und Namingsysteme sowie die Report Dateien abgelegt werden.
 
 **Begründung:**
 
@@ -900,13 +911,17 @@ Hiermit wird ein besseres Auffinden der Dateien ermöglicht.
 
 - 1. Das Verzeichnis _System muss sich in der der Hierarchie direkt unter dem Root befinden und kann die beiden Unterordner Codesystem und Report enthalte
 
-- 2. Im Unterordner Codesystem müssen alle vom Hersteller zusätzlichen Code gespeichert werden.
+- 2. Im Unterordner Codesystem  gespeichert werden.
 
 - 3. Eigens erstellte Codes müssen im Codesystem mit einem aussagekräftigen
 
-- erläuternden Text unter codesystem.concept.displ ay versehen werden.
+- erläuternden Text unter codesystem.concept.displ
 
-- 4. Im Unterordner Report w erden die Dateien vom Export nach P6 -12 und ggf. vom Import nach P7 -04 - gespeichert.
+- 4. Im Unterordner Report w erden die Dateien - gespeichert.
+
+- müssen alle vom Hersteller zusätzlichen Code - ay versehen werden.
+
+- vom Export nach P6 -12 und ggf. vom Import nach P7 -04
 
 -Element der Verzeichnisstruktur - -Element (siehe P5-01)  n:
 
@@ -938,9 +953,7 @@ Hiermit wird ein besseres Auffinden der exportierten Dateien ermöglicht.
 
 - 1. Das Verzeichnis Adressen muss sich in der Hierarchie direkt unter dem Root -Element (siehe P5-01) - befinden:
 
-- 2. Das Verzeichnis Adressen muss immer genau eine Datei (BUNDLE -Datei) mit einem Dateinamen nach
-
-- dem folgenden Format enthalten:
+- 2. Das Verzeichnis Adressen muss immer genau eine Datei (BUNDLE-Datei) mit einem Dateinamen nach  dem folgenden Format enthalten:
 
 - Adresse_Datum_Uhrzeit_Schnittstelle.xml
 
@@ -971,9 +984,7 @@ PFLICHTFUNKTION AW-SST 5-03 - Ordner Adressen
 |---|---|
 | **KP5-04** | Verzeichnisstruktur und Inhalt |
 
-Der Ordner Behandlungsbaustein muss in der Hierarchie direkt unter dem Root -Element der
-
-Verzeichnisstruktur angelegt werden. Im Ordner Behandlungsbaustein soll genau eine BUNDLE -Datei mit
+Der Ordner Behandlungsbaustein muss in der Hierarchie direkt unter dem Root Verzeichnisstruktur angelegt werden. Im Ordner Behandlungsbaustein soll genau eine BUNDLE
 
 allen exportierten Behandlungsbausteinen erzeugt werden.
 
@@ -983,9 +994,9 @@ Hiermit wird ein besseres Auffinden der exportierten Dateien ermöglicht.
 
 **Akzeptanzkriterium:**
 
-- 1. Das Verzeichnis Behandlungsbaust ein muss sich in der Hierarchie direkt unter dem Root -Element (siehe - P5-01) befinden:
+- 1. Das Verzeichnis Behandlungsbaust ein muss sich in der Hierarchie direkt unter dem Root - P5-01) befinden:
 
-- 2. Das Verzeichnis Behandlungsbaustein muss immer genau eine Datei (BUNDLE -Datei) mit einem
+- 2. Das Verzeichnis Behandlungsbaustein muss immer genau eine Datei (BUNDLE
 
 - Dateinamen nach dem folgenden Format enthalten:
 
@@ -1009,10 +1020,15 @@ Hiermit wird ein besseres Auffinden der exportierten Dateien ermöglicht.
 
 - 2. Es wird eine BUNDLE -Datei mit Daten nach KP4-03 erzeugt.
 
+-Element der  -Datei mit
+
+- -Element (siehe
+
+- -Datei) mit einem
+
 / Version: 1.2.1
 
 PFLICHTFUNKTION AW-SST - Ordner Behandlungsbausteine
-
 
 ---
 
@@ -1134,9 +1150,7 @@ Hiermit wird ein besseres Auffinden der exportierten Dateien ermöglicht.
 
 - 1. Das Verzeichnis Termine muss sich in der Hierarchie direkt unter dem Root befinden:
 
-- 2. Das Verzeichnis Termine muss immer genau eine Datei (BUNDLE -Datei) mit einem Dateinamen nach
-
-- dem folgenden Format enthalten:
+- 2. Das Verzeichnis Termine muss immer genau eine Datei (BUNDLE-Datei) mit einem Dateinamen nach  dem folgenden Format enthalten:
 
 - Termin_Datum_Uhrzeit_Schnittstelle.xml
 
@@ -1152,7 +1166,7 @@ Hiermit wird ein besseres Auffinden der exportierten Dateien ermöglicht.
 
 **Bedingung:**
 
-- 1. Im System sind Termine für den Export vorhanden und der gewählte Datenbereich schließt die  ein.
+- 1. Im System sind Termine für den Export vorhanden  ein.
 
 - 2. Es wird eine BUNDLE -Datei mit Daten nach -
 
@@ -1160,9 +1174,9 @@ Hiermit wird ein besseres Auffinden der exportierten Dateien ermöglicht.
 
 - KP4-01
 
-- KP4-01 erzeugt.
+- und der gewählte Datenbereich schließt die - KP4-01 erzeugt.
 
--Element der Verzeichnisstruktur - -Element (siehe P5 -01)
+-Element der Verzeichnisstruktur - -Element (siehe P5-01)
 
 -
 
@@ -1245,7 +1259,7 @@ Hiermit wird ein besseres Auffinden der exportierten Dateien ermöglicht.
 
 **Akzeptanzkriterium:**
 
-- 1. Alle Dokumente deren Ablageort und Ablagestruktur das System bestimmt, müssen exportiert werden.
+- 1. Alle Dokumente deren Ablageort und Ablagestruktur das System bestimmt, müssen exportiert werden
 
 - 2. Alternativ können die im Punkt 1 genannten Anlagen für den Export eindeutig referenziert werden  (müssen also nicht physisch in der Ablagestruktur übertragen werden), sofern das importierende System
 
@@ -1273,7 +1287,7 @@ einer Abfrage mitzuteilen.
 
 - 7. Der Umfang der aus Punkt 6 vorhandenen Daten muss durch eine sprechende Abfrage (Erweiterung der
 
-- Abfrage unter Punkt 3) durch den Nutzer fest legbar sein. In der Abfrage muss auf alle bekannten  Abhängigkeiten zur Weiternutzung des Systems hingewiesen werden, die dem exportierenden System - bekannt sind .
+- Abfrage unter Punkt 3) durch den Nutzer festlegbar sein. In der Abfrage muss auf alle bekannten  Abhängigkeiten zur Weiternutzung des Systems hingewiesen werden, die dem exportierenden System - bekannt sind .
 
 - 8. Die Anlagen müssen in fachlich getrennten Unterordnern unter dem Ordner „Anlage n“ abgelegt - werden:
 
@@ -1296,7 +1310,7 @@ Die Mitnahme der Anlagen erhöht bspw. bei der Archivierung die Konsistenz des D
 
 - 1. Der Anwender muss den Export der externen Anlagen (Ablage im Verzeichnis „Anlagen“) separat  bestätigen bzw. dies im Rahmen des Exportes auswählen.
 
-- 2. Das System muss die mitzunehmenden Anlagen analog dem Akzeptanzkriterium aus P5
+- 2. Das System muss die mitzunehmenden Anlagen analog dem Akzeptanzkriterium aus P5 -52 übernehmen.
 
 - 3. Nicht mitgenommene externe Anlagen müssen dennoch in der Instanz des KBV KBV_PR_AW_Anlage referenziert werden, siehe P5-50.
 
@@ -1308,11 +1322,7 @@ Die Mitnahme der Anlagen erhöht bspw. bei der Archivierung die Konsistenz des D
 
 Die Speicherung aller Anlagen für die Abrechnung erfolgt gebündelt, in einem hierfür definierten fachlichen  Ordner.
 
-tenbestandes, da die -
-
-- -52 übernehmen.
-
-- -Profils
+tenbestandes, da die - -Profils
 
 **Begründung:**
 
@@ -1375,7 +1385,7 @@ Hiermit wird ein besseres Auffinden der exportierten Dateien ermöglicht.
 
 - der Begegnung im Format JJJJMMTT - gespeichert werden:
 
-- 3. Dies gilt ebenso für alle Instanzen, die auf das KBV -Profil KBV_PR_AW_Begegnung referenzieren und auf
+- 3. Dies gilt ebenso für alle Instanzen, die auf das KBV-Profil KBV_PR_AW_Begegnung referenzieren und auf
 
 - die aus dem KBV -Profil KBV_PR_AW_Anlage referenziert wird.
 
@@ -1427,7 +1437,7 @@ Die Speicherung aller Anlagen für die Betriebsstätte erfolgt gebündelt, in ei
 
 **Begründung:**
 
-Hiermit wird ein besseres Auffinden der expor tierten Dateien ermöglicht.
+Hiermit wird ein besseres Auffinden der exportierten Dateien ermöglicht.
 
 **Akzeptanzkriterium:**
 
@@ -1435,11 +1445,11 @@ Hiermit wird ein besseres Auffinden der expor tierten Dateien ermöglicht.
 
 - 2. Im Ordner Betriebsstaette müssen alle Anlagendateien (referenziert im
 
-- die auf das KBV -Profil KBV_PR_AW_ Betriebsstaette referenzieren in
+- die auf das KBV -Profil KBV_PR_AW_ Betriebsstaette referenzieren
 
-- Bezeichnung - Betriebsstättennummer und in weiteren Unterordnern mit der Bezeichnung  Anlage im Format JJJJQ - gespeichert werden:
+- Bezeichnung - Betriebsstättennummer und in weiteren Unterordnern mit der Bezeichnung  Anlage im Format JJJJQ - gespeichert werden: - KBV-Profil KBV_PR_AW_Anlage)
 
-- KBV-Profil KBV_PR_AW_Anlage)  den Unterordnern mit der  - Quartal der
+- in den Unterordnern mit der  - Quartal der
 
 - 3. Quartalsübergreifenden Anlagen (Jahresstatistiken) sind im Ordner des Erstellungsquartals zu speichern.
 
@@ -1453,25 +1463,25 @@ Hiermit wird ein besseres Auffinden der expor tierten Dateien ermöglicht.
 
 Die Speicherung aller Anlagen für die Patienten erfolgt gebündelt, in einem hierfür definierten fachlichen  Ordner.
 
--
-
-- für den Export vorhanden.
-
 **Begründung:**
 
-Hiermit wird ein besseres Auffinden der exportierten Dateien ermöglicht .
+Hiermit wird ein besseres Auffinden der exportierten Dateien ermöglicht.
 
 **Akzeptanzkriterium:**
 
 - 1. Der Ordner Patient muss direkt unter dem Ordner Anlage der Verzei
 
-- 2. Im Ordner Patient müssen alle Anlageinstanze Bezug zu den KBV -Profilen: - KBV_PR_AW_Patient
+- 2. Im Ordner Patient müssen alle Anlageinstanze Bezug zu den KBV-Profilen: - KBV_PR_AW_Patient
 
 - KBV_PR_AW_Vorsorgevollmacht
 
 - KBV_PR_AW_Notfallberechtigter
 
 - KBV_PR_AW_ Patientenverfuegung - KBV_PR_AW_Gesundheitspass
+
+-
+
+- für den Export vorhanden.
 
 - chnisstruktur angelegt werden.
 
@@ -1481,10 +1491,11 @@ Hiermit wird ein besseres Auffinden der exportierten Dateien ermöglicht .
 
 PFLICHTFUNKTION AW -SST
 
-
 ---
 
-- 3. in Unterordnern mit der Bezeichnung - Erster Buchstabe Nachname des Patienten alphabetisch sortiert - gespeichert werden:
+- 3. in Unterordnern mit der Bezeichnung - Erster Buchstabe Nachname des - gespeichert werden:
+
+- Patienten alphabetisch sortiert
 
 **Bedingung:**
 
@@ -1494,7 +1505,9 @@ PFLICHTFUNKTION AW -SST
 |---|---|
 | **P5-59** | Bezeichnung Verzeichnis - und Dateinamen |
 
-Die Bezeichnungen (Schreibweise und Zeichensatz) von Verzeichnis - und Dateinamen ist  plattformunabhängig.
+Die Bezeichnungen (Schreibweise und Zeichensatz) von Verzeichnis - und Dateinamen ist
+
+plattformunabhängig.
 
 **Begründung:**
 
@@ -1557,7 +1570,7 @@ Festlegung für die Schnittstelle.
 
 **HINWEIS**
 
-Die Anforderung im Punkt 1 gilt in dieser Version nur für die verpflichtenden Ressourcen (siehe  [Festlegung_SST_AW]). Steht keine kontextbezogene Ressource für die Übertragung zur Verfügung,
+Die Anforderung im Punkt 1 gilt in dieser Version nur für die verpflichtenden Ressourcen (siehe  [Festlegung_SST_AW]). Steht keine kontextbezogene Ressource für die
 
 die Information in einer Anlage mit Hilfe des Profils KBV_PR_AW_Anlage (im PDF -Format) exportiert  werden. Als Anlagentyp ist ein passe nder Code auszuwählen. Dies kann auch ein Code/Bezug zu einer KBV
 
@@ -1582,6 +1595,8 @@ Festlegung für die Schnittstelle.
 nterstützen und vollständig
 
 der ggf. vorhandenen zusätzlich
+
+Übertragung zur Verfügung,
 
 ilt die Definition im Punkt 1
 
@@ -1634,7 +1649,7 @@ Festlegung für die Schnittstelle.
 
 - 2. Eine Zusammenfassung von mehreren Versicherten in einer LDT -Datei unter Punkt 1 darf nur erfolgen,
 
-- wenn die Versicherten eindeutig bspw. über die Versicherten_ID (FK 3119 LDT) oder die
+- wenn die Versicherten eindeutig , bspw. über die Versicherten_ID (FK 3119 LDT) oder die
 
 - Versichertennummer (FK 3105 LDT) usw., in der Ressource des KBV -Profils KBV_PR_AW_Patient.xml  bestimmt werden können.
 
@@ -1675,9 +1690,7 @@ Festlegung für die Schnittstelle.
 
 - Format übertragen werden
 
-- 4. Zusätzlich zum Punkt 3 können die originalen Dat eien im ursprünglichen Format als Anlage in der
-
-- Ressource KBV_PR_AW_Anlage unter zwingender Angabe eines gültigen mime typ im Element
+- 4. Zusätzlich zum Punkt 3 können die originalen Dat eien im ursprünglichen Format als Anlage in der  Ressource KBV_PR_AW_Anlage unter zwingender Angabe eines gültigen mime typ im Element
 
 - DocumentReference.content.attachment.contentType exportiert werden.
 
@@ -1865,7 +1878,7 @@ KBV_PR_AW_Abrechnung_vorlaeufig.
 
 Das Profil KBV_PR_AW_Abrechnung_vorlaeufig wird als Informationsspeicher der Informationen zu  verschiedensten GOPs interpretiert.
 
-Dementsprechend muss bei eine r abgeschlossenen (abgerechneten) Abrechnung eine Instanz von  KBV_PR_AW_Abrechnung_vorlaeufig plus mindestens eine Instanz (max 1 je Art) vom Profil
+Dementsprechend muss bei eine r abgeschlossenen (abgerechneten) Abrechnung eine Instanz von  KBV_PR_AW_Abrechnung_vorlaeufig plus mindestens eine Instanz (max . 1 je Art) vom Profil
 
 KBV_PR_AW_Abrechnung_XXX existieren.
 
@@ -1896,7 +1909,9 @@ Ressource zu exportieren. Eine Priorisierung in den KBV -Profilen ist nicht mög
 
 welche Informationen konkret vorliegen. Liegen die notwendigen Informationen zum Erstellen einer
 
-Instanz von bspw. KBV_PR_AW_Person vor, ist diese Art der Übertragung vorzuziehen. Zusätzlich zu dieser  Referenz können weitere Informationen in der jeweiligen Ressourceninstanz übertragen werden.
+Instanz von bspw. KBV_PR_AW_Person vor, ist diese Art der Übertragung vorzuziehen. Zusätzlich zu dieser
+
+Referenz können weitere Informationen in der jeweiligen Ressourceninstanz übertragen werden.
 
 **Begründung:**
 
@@ -1948,9 +1963,9 @@ Verwendung von Einzelinformationen vorzuziehen.
 
 - KBV_PR_AW_Behandlung_im_Auftrag_Ueberweisung:
 
-- **REASONREFERENCE** (Es kann ein Text als Diagnose/Verdachtsdiagnose in reasonCode oder eine
+- (Es kann ein Text als Diagnose/Verdachtsdiagnose in reasonCode oder eine
 
--   komplette Diagnoseklasse angegeben werden)
+-  **REASONREFERENCE** komplette Diagnoseklasse angegeben werden)
 
 - **SUPPORTINGINFO** (Befund/Medikation, es kann entweder ein String oder eine Referenz zu einer - Diagnose erstellt werden.)
 
@@ -1961,13 +1976,17 @@ Verwendung von Einzelinformationen vorzuziehen.
 
 | **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| **P6-10** | Beziehungen des KBV -Profils KBV_PR_AW_Anlage |
+| **P6-10** | Beziehungen des KBV-Profils KBV_PR_AW_Anlage |
 
-Im KBV -Profil KBV_PR_AW_Anlage werden die physischen Anlagen (intern und extern) referenziert sowie  deren Beziehungen zu den zugeordneten Resso
+Im KBV -Profil KBV_PR_AW_Anlage werden die physischen Anlagen (intern und extern) referenziert sowie  deren Beziehungen zu den zugeordneten Resso urcen abgebildet.
 
-Die Beziehungen zu den zugeordneten Ressourcen zeigen größtenteils aus dem KBV KBV_PR_AW_Anlage auf diese Ressourcen. Es gibt hierzu nur wenige Ausnahmen.
+Die Beziehungen zu den zugeordneten Ressourcen zeigen größtenteils aus dem KBV -Profil
 
-Jede Anlage hat genau eine Beziehung zu einer Begegnung, einem Patienten od Diese Beziehung kann allerdings durch eine weitere Referenz (z. B. auf einen Befund) typisiert werden.
+KBV_PR_AW_Anlage auf diese Ressourcen. Es gibt hierzu nur wenige Ausnahmen.
+
+Jede Anlage hat genau eine Beziehung zu einer Begegnung, einem Patienten od er einer Betriebsstätte.
+
+Diese Beziehung kann allerdings durch eine weitere Referenz (z. B. auf einen Befund) typisiert werden.
 
 **Begründung:**
 
@@ -1977,27 +1996,31 @@ für die B eziehungen einzuhalten.
 
 **Akzeptanzkriterium:**
 
-- **INSTANZEN**: Es werden die referenzierten Anlagen in jeweils einer Instanz vom KBV
+- 1. **ANZAHL DER INSTANZEN**: Es werden die referenzierten Anlagen in jeweils einer Instanz vom KBV-Profil - KBV_PR_AW_Anlage definiert.
 
-- 1. **ANZAHL DER**  KBV_PR_AW_Anlage definiert.
+- 2. **RICHTUNG DER REFERENZ**: Es werden die referenzierten Ressourcen in der jeweiligen Instanz vom KBV -
 
-- **REFERENZ**: Es werden die referenzierten Ressourcen in der jeweiligen Inst
+- Profil KBV_PR_AW_Anlage definiert.
 
-- 2. **RICHTUNG DER**  Profil KBV_PR_AW_Anlage definiert.
+Ausnahme hiervon sind die Beziehungen zu den KBV -Profile KBV_PR_AW_Notfallberechtigter,
 
-Ausnahme hiervon sind die Beziehungen zu den KBV KBV_PR_AW_Patientenverfuegung sowie  Instanz von KBV_PR_AW_Anlage beinhalten.
+KBV_PR_AW_Patientenverfuegung sowie KBV_PR_AW_Vorsorgevollmacht, die die Referenz auf die
 
-- **BEZIEHUNG** **EN**: Jede Instanz des KBV
+Instanz von KBV_PR_AW_Anlage beinhalten.
 
-- 3. **ANZAHL DER**  zu einer Instanz der KBV -Profile KBV_PR_AW_Begegnung,  KBV_PR_AW_Betriebsstaette haben. Zusätzlich können diese Beziehung
+- 3. **ANZAHL DER BEZIEHUNG** **EN**: Jede Instanz des KBV -Profils KBV_PR_AW_Anlage muss genau eine Beziehung
+
+- zu einer Instanz der KBV -Profile KBV_PR_AW_Begegnung, KBV_PR_AW_Patient oder
+
+- KBV_PR_AW_Betriebsstaette haben. Zusätzlich können diese Beziehung en durch eine weitere Referenz
 
 - z. B. auf einen Befund typisiert werden.
 
 | **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| **P6-11** | Anlagetypen im KBV -Profil KBV_PR_AW_Anlage |
+| **P6-11** | Anlagetypen im KBV-Profil KBV_PR_AW_Anlage |
 
-Die Anlagen müssen einer bestimmten Schnittstelle inklusive
+Die Anlagen müssen einer bestimmten Schnittstelle inklusive der Version zugeordnet werden.
 
 **Begründung:**
 
@@ -2009,29 +2032,9 @@ Die strukt urierte Übermittlung der Anlagen ist zwingend notwendig, um eine aut
 
 - 2. Der Anlagetyp „Sonstige“ ist nur in Ausnahmefällen, sofern im System keine Typisierung vorhanden ist,  zu verwenden.
 
-- 3. Alle neuen Anlagetypen sind der KBV zu melden, damit diese in das CodeSystem aufgenommen und  anschließend für eine strukturierte Übermittlung verwendet werden können. Die Meldung soll per Email  an das Verwaltungspostfach [ITA@kbv.de](mailto:ITA@kbv.de)
+- 3. Alle neuen Anlagetypen sind der KBV zu melden, damit diese in das CodeSystem aufgenommen und  anschließend für eine strukturierte Übermittlung verwendet werden können. Die Meldung soll per Email  an das Verwaltungspostfach [ITA@kbv.de](mailto:ITA@kbv.de) erfolgen.
 
-urcen abgebildet.
-
--Profile KBV_PR_AW_Notfallberechtigter,
-
-KBV_PR_AW_Vorsorgevollmacht, die die
-
-- -Profils KBV_PR_AW_Anlage muss genau eine Beziehung - erfolgen.
-
-er einer Betriebsstätte.
-
-- KBV_PR_AW_Patient oder  en durch eine weitere Referenz
-
-der Version zugeordnet werden.
-
-/ Version: 1.2.1 -Profil
-
-- -Profil
-
-- anz vom KBV -
-
-Referenz auf die
+/ Version: 1.2.1
 
 
 ---
@@ -2050,11 +2053,9 @@ Der Report enthält Detailinformationen zum Export und dient der Erkennung der E
 
 **Akzeptanzkriterium:**
 
-- 1. Nach dem erfolgre ichen Export muss ein PDF-Dokument als Report mit allen für den Export relevanten  Inhalten des KBV -Profils KBV_PR_AW_Report_Export erzeugt werden.
+- 1. Nach dem erfolgre ichen Export muss ein PDF-Dokument als Report mit allen für den Export relevanten  Inhalten des KBV-Profils KBV_PR_AW_Report_Export erzeugt werden.
 
-- 2. Das PDF muss nach Inhalten strukturiert erzeugt werden. Die definierten Inhalte müssen als
-
-- Kapitelüberschrif t aufgenommen werden.
+- 2. Das PDF muss nach Inhalten strukturiert erzeugt werden. Die definierten Inhalte müssen  Kapitelüberschrif t aufgenommen werden.
 
 - 3. Dateiname des Reports: Datum_Uhrzeit_ReportExport_Schnittstelle.pdf
 
@@ -2075,6 +2076,14 @@ Bedeutung:
 - 6. Für Test -Exporte kann unter Angabe des Parameters KBV_PR_AW_Report_Export.purposeOfEvent =
 
 - HTEST, sowohl der menschenlesbare Teil aus [P3-02] als auch die PDFs aus [P6-13] weggelassen werden.
+
+-
+
+- als
+
+-
+
+-
 
 / Version: 1.2.1
 
@@ -2099,7 +2108,7 @@ Das PDF enthält menschenlesbare Informationen zum BUNDLE und kann einfach mit e
 
 - 2. Grundsätzlich sind die Inhalte im PDF übersichtlich, fachlich strukturiert (Sprache und Formate) : siehe Hinweis Kap. 1.4]  darzustellen.
 
-- 3. Referenzen auf andere Ressourcen können [sollen: siehe Hinweis Kap. 1.4]
+- 3. Referenzen auf andere Ressourcen können [sollen: siehe Hinweis Kap. 1.4] hier aufgelöst werden,
 
 - sodass die menschenlesbare n Inhalte zusammengefasst dargestellt werden können. die Referenzen als Link dargestellt werden.
 
@@ -2107,11 +2116,11 @@ Das PDF enthält menschenlesbare Informationen zum BUNDLE und kann einfach mit e
 
 - 1.4] am Ende des Bundle-PDF in einem eigenen Kapitel stehen, um die Lesbarkeit
 
-- 5. An erster Stelle des PDFs kann [soll: siehe Hinweis Kap. 1.4] eine Überschrift /Übersicht mit allgemeinen
+- 5. An erster Stelle des PDFs kann [soll: siehe Hinweis Kap. 1.4] eine
 
 - Informationen zu r Patientenakte stehen
 
-- 6. Auf die Ausgabe von System -Elementen der FHIR-Ressourcen kann [soll: siehe Hinweis Kap. 1.4] verzichtet werden.
+- 6. Auf die Ausgabe von System -Elementen der FHIR-Ressourcen kann [soll: siehe Hinweis Kap. 1.4]  verzichtet werden.
 
 - 7. Der Dateiname des PDF ist identisch mit dem Dateinamen der BUNDLE
 
@@ -2141,17 +2150,15 @@ Es sollen keine unvollständigen Dateien oder Verzeichnisse erhalten bleiben, di
 
 - 3. Die Reportdatei darf in diesem Fall nicht erzeugt werden.
 
-/ Version: 1.2.1
-
 nen -Reader
 
 - s ein PDF -Dokument mit den  zu erzeugen und direkt - sortiert und [in Deutsch
 
-- hier aufgelöst werden,  Alternativ können
+- Alternativ können
 
 - können [sollen: siehe Hinweis Kap.  des PDFS zu erhöhen.
 
--
+- Überschrift /Übersicht mit allgemeinen
 
 - -Datei in XML. Abweichend wird - muss der Anwender mit
 
@@ -2159,7 +2166,7 @@ ggf. zu einem späteren - sse zu löschen.
 
 -
 
--Ebene
+/ Version: 1.2.1 -Ebene
 
 ---
 
@@ -2171,7 +2178,7 @@ Der Anwender muss den Export selbständig , ohne weitere Hilfestellung durch den
 
 **Begründung:**
 
-Der Anwender muss den Export - wenn er es wünscht - eigenständig durchführen können .
+Der Anwender muss den Export - wenn er es wünscht - eigenständig durchführen
 
 **Akzeptanzkriterium:**
 
@@ -2179,21 +2186,27 @@ Der Anwender muss den Export - wenn er es wünscht - eigenständig durchführen 
 
 - 2. Der Anwender kann die Exportfunktionalität eigenständig aus dem System aufrufen
 
-- hrung des Exports sind ausführlich in -
-
--
-
 | **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
 | **P6-16** | Sicherheit der exportierten Daten |
 
-Es wird keine Signatur und/od er Verschlüsselung der exportierten Daten gefordert. Ein minimaler Schutz  kann über ein zip -File angeboten werden. Die vorhandenen Datenschutzmaßnahmen der Praxis sollen die
-
-Sicherheit der Dateien gewährleisten, siehe [Hinweise_DV_Arztpraxis]. Dazu ist eine sprechende Meldung
-
-anzuzeigen.
+Es wird keine Signatur und/od er Verschlüsselung der exportierten Daten gefordert. Ein minimaler Schutz  kann über ein zip -File angeboten werden. Die vorhandenen  Sicherheit der Dateien gewährleisten, siehe [ anzuzeigen.
 
 **Begründung:**
+
+-
+
+Datenschutzmaßnahmen der Praxis sollen
+
+Hinweise_DV_Arztpraxis
+
+können.
+
+- hrung des Exports sind ausführlich in -
+
+die
+
+]. Dazu ist eine sprechende Meldung
 
 Festlegung für die Schnittstelle
 
@@ -2290,7 +2303,7 @@ PFLICHTFUNKTION AW-SST KBV_PR_AW_Abrechnung_Privat -Profil
 
 | **PFLICHTFUNKTION AW -SST** |  |
 |---|---|
-| **P6-20** | Auswahl der Schnittstellenversion für den Export |
+| **P6-20** | Auswahl der Schnittstellenversion |
 
 Der Nutzer muss die Schnittstellenversion für den Export auswählen können. Dazu sind dem Nutzer alle
 
@@ -2340,6 +2353,7 @@ Festlegung für die Schnittstelle.
 
 - -Profil
 
+für den Export
 
 ---
 
@@ -2465,7 +2479,7 @@ Festlegung für die Schnittstelle.
 
 **Akzeptanzkriterium:**
 
-- 1. Die strukturierte kontextbezogene Erhaltung z. B. der Behandlungsinformationen ist z wingend
+- 1. Die strukturierte kontextbezogene Erhaltung z. B. der Behandlungsinformationen ist zwingend
 
 - notwendig. Stehen mehrere Informationsquellen zu einem Kontext zur Verfügung, ist immer erst die  vollständigere Information (mehr Inhalte) zu übernehmen und ggf. mit weiteren Inhalten zu ergänzen.
 
@@ -2518,7 +2532,7 @@ Für die Abbildung der Provenienz -Ressourcen gilt die Anforderung KP7 -09.
 |---|---|
 | **P7-02** | Reihenfolge des Imports bei Ressourcen mit gleicher ID |
 
-Die Historie/Reihenfolge der Ressourcen mit gleicher ID muss
+Die Historie/Reihenfolge der Ressourcen
 
 **Begründung:**
 
@@ -2546,13 +2560,7 @@ Der Anwender muss den Import, wenn er dies wünscht, eigenständig durchführen 
 
 - 2. Der Anwender mu ss den Import eigenhändig im System starten und durchführen können.
 
-- 3. Verfügt das System über keine bzw. nicht ausreichende Funktionalität, um im System vorhandene Daten
-
-- mit den zu importierenden Daten zusammen zuführen, ist beim Start eines Imports (Punkt 2) in ein
-
-- System mit behandlungsrelevanten Daten der Anwender mit einer aussagekräftigen Meldung
-
-- möglichen Folgen des Imports hinzuweisen.
+- 3. Verfügt das System über keine bzw.  mit den zu importierenden Daten zusammen System mit behandlungsrelevanten Daten möglichen Folgen des Imports hinzuweisen.
 
 - 4. Dem Anwender muss die Entscheidung zur Fortsetzung bzw. Abbruch des Imports im Punkt 3 über eine - Abfrage ermöglicht werden.
 
@@ -2560,7 +2568,11 @@ Der Anwender muss den Import, wenn er dies wünscht, eigenständig durchführen 
 
 Eine Schulung der Anwender durch die Hersteller wird nicht erwartet.
 
-beim Import beachtet werden.
+mit gleicher ID muss beim Import beachtet werden.
+
+-
+
+- nicht ausreichende Funktionalität, um im System vorhandene Daten  zuführen, ist beim Start eines Imports (Punkt 2) in ein  der Anwender mit einer aussagekräftigen Meldung
 
 / Version: 1.2.1
 
@@ -2620,7 +2632,7 @@ Bedeutung:
 |---|---|
 | **KP7-05** | Spezifische Inhalte |
 
-Können nicht alle Information en vollständig oder struktu riert beim Import übernommen werden, so sind  die jeweiligen Ressourcen, Gründe und Anpassungen in der Instanz vom KBV -Profil  KBV_PR_AW_Report_Import mit einer separate Kategorie zu schreiben und dem Anwender zur Verfügung
+Können nicht alle Information en vollständig oder struktu riert beim Import übernommen werden, so sind  die jeweiligen Ressourcen, Gründe und Anpassungen in der Instanz vom KBV-Profil  KBV_PR_AW_Report_Import mit einer separate Kategorie zu schreiben und dem Anwender zur Verfügung
 
 zu stellen, siehe [P7-04].
 
@@ -2630,13 +2642,13 @@ Nachvollziehbare Dokumentation von Veränderungen an den exportierten Informatio
 
 **Akzeptanzkriterium:**
 
-- 1. In die Instanz vom KBV -Profil KBV_PR_AW_Report_Import sind die folgende Attribute mit einer
+- 1. In die Instanz vom KBV-Profil KBV_PR_AW_Report_Import sind die folgende Attribute mit einer
 
 - separaten Kategorie zu schreiben
 
 - a) nicht_importierte_inhalte.elem = Full-URL der problematischen Ressource
 
-- b) nicht_importierte_Inhalte.begruendung[0] = Begründung des Nicht -Importes
+- b) nicht_importierte_Inhalte.begruendung[0] = Begründung des Nicht-Importes
 
 - c) nicht_importierte_Inhalte.begruendung[1] =
 
@@ -2682,9 +2694,7 @@ Die FHIR -Spezifikation ermöglicht derzeit nicht das Importieren von historisie
 
 - 4. Sind Ressourcen mit gleicher ID vorhanden, so müssen die Ressourcen in der Reihenfolge der
 
-- meta.versionId importiert werden. Also Ressource mit meta.versionId=1 zuerst, meta.versionId=2
-
-- danach, u. s. w. (Siehe P7-02).
+- meta.versionId importiert werden. Also Ressource mit meta.versionId=1 zuerst, meta.versionId=2  danach, u. s. w. (Siehe P7-02).
 
 / Version: 1.2.1
 
@@ -2721,7 +2731,9 @@ importierenden Systems. Da hier die Aufbewahrungsfristen der Nutzer bspw. zur  B
 |---|---|
 | **P7-08** | Prüfung der Schnittstellenversion |
 
-Der Import muss mit der glei chen Schnittstellenversion des Exports durchgeführt werden. Dazu ist die  Version im Element meta.profil e der Instanzen der FHIR® -Ressourcen zu prüfen.
+Der Import muss mit der glei chen Schnittstellenversion des Exports durchgeführt werden. Dazu ist die
+
+Version im Element meta.profil e der Instanzen der FHIR® -Ressourcen zu prüfen.
 
 **Begründung:**
 
@@ -2806,15 +2818,13 @@ NDITIONALE PFLICHTFUNKTION AW -SST
 
 **Ansprechpartner**
 
-Dezernat Digitalisierung und
+Dezernat Digitalisierung und IT
 
-IT in der Arztpraxis
+IT in der Arztpraxis  Tel.: 030 4005 -2077, [ita@kbv.de](mailto:ita@kbv.de)
 
-Tel.: 030 4005 -2077, [ita@kbv.de](mailto:ita@kbv.de)
+Kassenärztliche Bundesvereinigung
 
-Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
-
-IT
+Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
 
 # NTE
 

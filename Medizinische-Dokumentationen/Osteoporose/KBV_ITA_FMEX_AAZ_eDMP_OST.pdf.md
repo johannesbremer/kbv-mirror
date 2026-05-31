@@ -45,7 +45,7 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 | **Telefonnummer** |  | | |
 | **E-Mail-Adresse** |  | | |
 
-Rechtsform anzugeben] vorhanden] Systempfleger vom Antragsteller abweicht] [ ] [ ] [ ]
+Rechtsform anzugeben] vorhanden] Systempfleger vom Antragsteller abweicht]
 
 ---
 
@@ -80,7 +80,7 @@ Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werd
 
 1.1.
 
-Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
+Antragsstellers Stellen der Prüfnummer, falls vorhanden]
 
 ---
 
@@ -112,7 +112,7 @@ Folgende optionale DMP OST Funktionen sind gem. Anforderungskatalog DMP realisie
 
 ## REALISIERTE OPTIONALE FUNKTIONEN DMP OST
 
-[ ] [ ] der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen  sowie Plausibilitäts Kostenträger-Stammdatei richtlinien erfüllt sind. [ ] [ ] [ ] ANFORDERUNGSKATALOG
+der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen  sowie Plausibilitäts Kostenträger-Stammdatei richtlinien erfüllt sind. ANFORDERUNGSKATALOG
 
 ---
 

@@ -392,6 +392,8 @@ Komponenten der Telematikinfrastruktur nutzen und dabei alle zur Verfügung steh
 
 Seite
 
+**MUSS**
+
 Content-Disposition
 
 **Content-Type**
@@ -418,11 +420,9 @@ application/ xml; name="<dateina
 
 me>"
 
-*file*name" im Parameter Content-Type
-
-**MUSS**
-
 *-Type*
+
+*file*name" im Parameter Content-Type
 
 – ausschließlich der
 

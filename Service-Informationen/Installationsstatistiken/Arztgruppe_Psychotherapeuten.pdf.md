@@ -82,191 +82,147 @@ Bitron GmbH Technologiesysteme
 
 Frey ADV GmbH 1
 
-**Installationen 2.Q.2025**
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
 10 652
 
-10 283
-
-5 594
-
-4 440
-
-1 709
-
-498
-
-451
-
-365
-
-272
-
-165
-
-96
-
-87
-
-**Installationen 1.Q.2025**
-
 10 667
-
-10 339
-
-5 499
-
-4 375
-
-1 703
-
-440
-
-398
-
-378
-
-263
-
-124
-
-100
-
-85
-
-**Differenz**
 
 -15
 
+10 283
+
+10 339
+
 -56
+
+5 594
+
+5 499
 
 95
 
+4 440
+
+4 375
+
 65
+
+1 709
+
+1 703
 
 6
 
+498
+
+440
+
 58
+
+451
+
+398
 
 53
 
+365
+
+378
+
 -13
+
+272
+
+263
 
 9
 
+165
+
+124
+
 41
 
+96
+
+100
+
 -4
+
+87
+
+85
 
 2
 
 
 ---
 
-**Id**
-
-112
-
-210
-
-203
-
-280
-
-266
-
-083
-
-252
-
-015
-
-**Praxissoftware**
-
-**TURBOMED**
-
-**Medical Office**
-
-**ALBIS**
-
-**CGM MEDISTAR BLACK PRO**
-
-**x.comfort**
-
-**PegaMed**
-
-**CGM M1 PRO**
-
-**MEDYS**
+**Id Praxissoftware**
 
 **Anbieter**
 
-CompuGroup Medical Deutschland AG
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-INDAMED EDV-Entwicklung und Vertrieb GmbH
+112 **TURBOMED**
 
-CompuGroup Medical Deutschland AG
-
-CompuGroup Medical Deutschland AG
-
-medatixx GmbH & Co. KG
-
-PEGA Elektronik GmbH
-
-CompuGroup Medical Deutschland AG
-
-MEDYS GmbH 2
-
-**Installationen 2.Q.2025**
-
-74
-
-62
-
-46
-
-43
-
-34
-
-30
-
-26
-
-24
-
-**Installationen 1.Q.2025**
+CompuGroup Medical Deutschland AG 74
 
 77
 
-56
-
-47
-
-50
-
-33
-
-33
-
-25
-
-27
-
-**Differenz**
-
 -3
+
+210 **Medical Office**
+
+INDAMED EDV-Entwicklung und Vertrieb GmbH 62 56
 
 6
 
+203 **ALBIS**
+
+CompuGroup Medical Deutschland AG 46
+
+47
+
 -1
+
+280 **CGM MEDISTAR BLACK PRO** CompuGroup Medical Deutschland AG 43
+
+50
 
 -7
 
+266 **x.comfort**
+
+medatixx GmbH & Co. KG 34
+
+33
+
 1
+
+083 **PegaMed**
+
+PEGA Elektronik GmbH 30
+
+33
 
 -3
 
+252 **CGM M1 PRO**
+
+CompuGroup Medical Deutschland AG 26
+
+25
+
 1
 
+015 **MEDYS**
+
+MEDYS GmbH 24
+
+27
+
 -3
+
+2

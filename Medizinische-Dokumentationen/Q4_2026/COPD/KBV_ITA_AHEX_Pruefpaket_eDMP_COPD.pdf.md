@@ -174,7 +174,7 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 27
 
 / Version: 1.27 / 31. März 2026
 
-Schnittstellenversionen 4.07 an die 4.06 Nummerierung der Aktionen in den Prüffällen 8514 und 8515 Prüffälle. Medikamente im Prüffall 6520 für DM1. Dokumentationen im Prüffall 5514 Prüffälle. Umsetzung der übergreifenden Teilnahmeerklärung Layouts 4.07 ist ab 01.10.2026 zu verwenden Barcodeversion (03) ab 01.10.2026 4.06 ist ab 01.04.202 4 zu verwenden. wegen der übergreifenden Prüffälle (DM1- 5.07 ist ab 01.10.2023 zu verwenden). wegen der übergreifenden Prüffälle. 4.05 ist ab 01.04.202 3 zu verwenden. Änderungen im Anforderungskatalog. Corporate Design
+4.07 ist ab 01.10.2026 Schnittstellenversionen zu verwenden 4.07 Barcodeversion (03) ab 01.10.2026 an die 4.06 ist ab 01.04.202 4 zu verwenden. 4.06 Nummerierung der Aktionen in den Prüffällen 8514 und 8515 Prüffälle. Medikamente im Prüffall 6520 für DM1. Dokumentationen im Prüffall 5514 Prüffälle. Umsetzung der übergreifenden Teilnahmeerklärung Layouts wegen der übergreifenden Prüffälle (DM1- 5.07 ist ab 01.10.2023 zu verwenden). wegen der übergreifenden Prüffälle. 4.05 ist ab 01.04.202 3 zu verwenden. Änderungen im Anforderungskatalog. Corporate Design
 
 
 ---
@@ -293,11 +293,7 @@ Je Betriebsstättennummer wird eine Begleitdatei und eine Archivdatei (*.zip.XKM
 
 entsprechen. Diese werden durch den Prüfer begutachtet.
 
-- 1
-
-- 2 3
-
--  [PrüffallNr.] _[lfdNr.] .*
+### - _[lfdNr.]2 3 -  [PrüffallNr.]1
 
 - Teilnahmeerklärung (Prüffall 8540): TE_EWE_COPD.pdf
 
@@ -854,11 +850,9 @@ An einem Tabakentwöhnungsprogram seit der  letzten Empfehlung teilgenommen
 
 Empfehlung zum körperlichen Training  ausgesprochen
 
-Monate)
-
 **Erstdokumentation**
 
-299,9 Prozent des Soll Wertes
+Monate) 299,9 Prozent des Soll Wertes
 
 Nein
 
@@ -1488,13 +1482,17 @@ Dokumentationsintervall
 
 **Erstdokumentation**
 
+**Aktion**
+
 8514
 
 06.04.2024 15.mm.jjjj
 
 COPD
 
-Je nach Auswahl des  Patienten 2,51 m
+Je nach Auswahl des
+
+Patienten 2,51 m
 
 301 kg
 
@@ -1502,11 +1500,9 @@ Je nach Auswahl des  Patienten 2,51 m
 
 Ja
 
-Quartalsweise
-
-**Aktion**
-
 Nr. 1
+
+Quartalsweise
 
 
 ---
@@ -1729,7 +1725,7 @@ Screenshots / Videodateien und ggf. Erläuterungen, wie das Softwaresystem die  
 
 Nach der Fehlermeldung 16 muss das Geburtsdatum auf den 23.10.1982 geändert  werden, um dann die Fehlermeldungen 17 zu erzeugen.
 
-**INDIKATIONSÜBERGREIFENDE**
+**INDIKATIONSÜBERGREIFENDE DATEN**
 
 **Administrative Daten**
 
@@ -1742,8 +1738,6 @@ Dokumentation in Vertretung erstellt
 Datum
 
 Einschreibung wegen
-
-**DATEN**
 
 Einschreibung wegen
 
@@ -1769,7 +1763,7 @@ Dokumentationsintervall
 
 Datum der Erstellung
 
-**Erstdokumentation**
+**Erstdokumentation Screenshot**
 
 8515
 
@@ -1777,7 +1771,11 @@ Datum der Erstellung
 
 COPD
 
-Asthma bronchiale,  COPD
+Nr. 16
+
+Asthma bronchiale, Nr. 17
+
+COPD
 
 Männlich 2,00 m
 
@@ -1787,15 +1785,11 @@ Männlich 2,00 m
 
 Nein
 
-Keine der genannten  Krankheiten
+Keine der genannten
+
+Krankheiten
 
 Quartalsweise 06.04.2024 15.mm.jjjj
-
-**Screenshot**
-
-Nr. 16
-
-Nr. 17
 
 
 ---
@@ -1945,7 +1939,7 @@ Anlage einer Erstdokumentation mit der Schnittstellenversion
 
 **4 06**
 
-Voraussetzung Prüfunterlagen COPD-Dokumentationsunterlagen Hinweis Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten: 2. Anlegen einer Erstdokumentation INDIKATIONSÜBERGREIFENDE Administrative Daten Datum  DATEN Einschreibung wegen Geschlecht Allgemeine Anamnese- und Befunddaten Körpergröße Körpergewicht Blutdruck Raucher Begleiterkrankungen Behandlungsplanung Vom Patienten gewünschte Informationsangebote der Krankenkasse Dokumentationsintervall Datum der Erstellung PEZIFISCHE DATEN TDV 8518 03.07.202 COPD  Weiblich 1,60 m 060 kg 120 / 80 mmHg Keine der genannten Erkrankungen Quartalsweise 03.07.2025 -Wertes
+Voraussetzung Prüfunterlagen COPD-Dokumentationsunterlagen Hinweis Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten: 2. Anlegen einer Erstdokumentation INDIKATIONSÜBERGREIFENDE  DATEN Administrative Daten Datum Einschreibung wegen Geschlecht Allgemeine Anamnese- und Befunddaten Körpergröße Körpergewicht Blutdruck Raucher Begleiterkrankungen Behandlungsplanung Vom Patienten gewünschte Informationsangebote der Krankenkasse Dokumentationsintervall Datum der Erstellung PEZIFISCHE DATEN TDV 8518 03.07.202 COPD  Weiblich 1,60 m 060 kg 120 / 80 mmHg Keine der genannten Erkrankungen Quartalsweise 03.07.2025 -Wertes
 
 ---
 
@@ -2058,7 +2052,7 @@ und Georg-von-Groscurth-Plaetzchen
 | KBV_ITA_VGEX_Schnittstelle_SDKT | Datensatzbeschreibung SDKT |
 | KBV-Kryptomodul (XKM) und öffentlicher | KBV-Kryptomodul |
 | Stammdateien | Im Rahmen der Prüfung sind die regulären KBV- |
-| VSD_Testfaelle_DMP_Vn.n.zip 4 | eGK Daten |
+| VSD_Testfaelle_DMP_Vn.n.zip4 | eGK Daten |
 | XPM-Paket_COPD | Prüfmodul COPD |
 
 4 n.n steht für die aktuelle Versionsnummer, zum Beispiel 1.0 7 / 31. März 2026

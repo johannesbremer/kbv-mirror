@@ -282,15 +282,13 @@ mäßiges körperliches Training durchgeführt haben, geben Sie bitte ausschlie�
 
 #### Aktuelle osteoporosespezifische Medikation
 
-**Genau eine Angabe** ist erforderlich
+**Genau eine Angabe** ist erforderlich und zulässig
 
-**Allen Patientinnen und Patienten** werden.
+**Allen Patientinnen und Patienten** soll eine **osteoporosespezifische Therapie** angeboten
+
+werden.
 
 Hierfür stehen folgende antiresorptive und osteoanabole Therapien zur Verfügung.
-
-und zulässig
-
-soll eine **osteoporosespezifische Therapie** angeboten
 
 Antiresorptive Therapie:
 
@@ -364,13 +362,13 @@ drei Jahre hinaus“ erfolgt.
 
 ---
 
-Wurde zu keinem Zeitpunkt - weder in der Vergangenheit noch
+Wurde zu keinem Zeitpunkt - weder in der Vergangenheit noch aktuell- eine osteoporosespezifi-
 
-sche medikamentöse Therapie durchgeführt, geben Sie
+sche medikamentöse Therapie durchgeführt, geben Sie bitte Keine osteoporosespezifische Me-
 
 dikation durchgeführt an.
 
-Bitte geben Sie ebenfalls „Keine osteoporosespezifische Medikation durchgeführt
+Bitte geben Sie ebenfalls „Keine osteoporosespezifische Medikation durchgeführtan, wenn Ihrer
 
 Patientin eine Hormonersatztherapie (HRT) mit Östrogenen und Gestagenen oder nur mit Öst-
 
@@ -394,9 +392,7 @@ Gemeint sind hierbei folgende Schulungsmaßnahmen:
 
 - akkreditierte und für das DMP zugelassene Schulungen, sowie
 
-- Schulungsmaßnahmen, die der Befähigung Ihrer Patientin oder Ihres Patienten zur besseren  Bewältigung des Krankheitsverlaufs und zur selbstverantwortlichen
-
-Therapiemaßnahmen dienen.
+- Schulungsmaßnahmen, die der Befähigung Ihrer Patientin oder Ihres Patienten zur besseren  Bewältigung des Krankheitsverlaufs und zur selbstverantwortlichen Umsetzung wesentlicher  Therapiemaßnahmen dienen.
 
 Eine erneute Teilnahme an einer Schulung im Rahmen des DMP ist dadurch NICHT ausge- schlossen!
 
@@ -416,28 +412,16 @@ Die Angaben zur Schulung beziehen sich hier ausschließlich rückblickend auf ei
 
 Bei der Erstdokumentation ist hier keine Angabe möglich.
 
-aktuell- eine osteoporosespezif
-
-bitte Keine osteoporosespezifische Me-
-
-**Erstdokumentation**
-
-Umsetzung wesentlicher
+**Erstdokumentation** möglich und hier ver-
 
 nd hier verpflichtend
-
-möglich und hier ver-
-
-i-
-
-an, wenn Ihrer
 
 
 ---
 
 Hat Ihre Patientin oder Ihr Patient im Dokumentationszeitraum an einer Schulung teilgenommen,  geben Sie bitte „Ja“ an.
 
-War die Teilnahme an einer Schulung innerhalb des Dokumentationszeitraums aus  baren Gründen nicht möglich, geben Sie hier bitte „War aktuell nicht möglich“ an. Solche Gründe  können z.B. fehlende Schulungskapazität, Krankenhausaufenthalt der Patientin oder des Pati- enten oder private Gründe sein. Die Beurteilung, ob die Gründe  alleine Ihnen und Ihrer Patientin bzw. Ihrem Patienten.
+War die Teilnahme an einer Schulung innerhalb des Dokumentationszeitraums aus  baren Gründen nicht möglich, geben Sie hier bitte „War aktuell nicht möglich“ an. Solche Gründe  können z.B. fehlende Schulungskapazität, Krankenhausaufenthalt der Patientin oder des Pati- enten oder private Gründe sein. Die Beurteilung, ob die Gründe nachvollziehbar sind, obliegt  alleine Ihnen und Ihrer Patientin bzw. Ihrem Patienten.
 
 Sollten Sie Ihrer Patientin oder Ihrem Patienten bei der vorhergehenden Dokumentation eine  Schulung empfohlen haben, die Patientin bzw. der Patient die Schulung ab nachvollziehbaren Grund nicht wahrgenommen haben, geben Sie bitte „Nein“ an.
 
@@ -450,8 +434,6 @@ Sollten Sie bei der letzten Dokumentation keine Schulung empfohlen haben, geben 
 letzter Dokumentation keine Schulung empfohlen“ an.
 
 Die Angaben „Ja“, „War aktuell nicht möglich“ und „Bei letzter Dokumentation keine Schulung  empfohlen“ führen nicht zum Ausschluss der Patient
-
-nachvollziehbar sind, obliegt
 
 in oder des Patienten aus dem Programm.
 

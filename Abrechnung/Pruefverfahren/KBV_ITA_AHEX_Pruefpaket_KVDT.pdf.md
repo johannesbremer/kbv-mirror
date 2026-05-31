@@ -85,7 +85,7 @@ Ergänzungen der Vorgaben unter 2.2 Anpassungen der von Vorgaben zu Kodierregeln
 
 1 ALLGEMEINES
 
-| Dieses Dokument | Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet den | Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung |  | **1.1** | Die Rechtliche Grundlage bildet § 295 SGB V. |
+| Dieses | Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet den | Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung |  | **1.1** | Die Rechtliche Grundlage bildet § 295 SGB V. |
 |---|---|---|---|---|---|
 |  | **1.2** | Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer Sichtprüfung. | Dabei ist folgendes Vorgehen einzuhalten: | 1. | Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den Antrag  2. |
 | 3. | 4. | 5. | 6. | 7. | a) |
@@ -97,7 +97,7 @@ Ergänzungen der Vorgaben unter 2.2 Anpassungen der von Vorgaben zu Kodierregeln
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 
-beschreibt allgemeine eines Zertifizierungsgegenstandes im Bereich der Abrechnung [KVDT]. Rahmen der Zertifizierung und ist zu beachten.  weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind. RECHTSGRUNDLAGE ZERTIFIZIERUNGSABLAUF Folglich beinhaltet dieses Prüfpaket wichtige Informationen für die anstehende Sichtprüfung und keine Prüffälle. Die erforderlichen Prüffälle werden dem Antragsteller im Rahmen der Sichtprüfung zur Verfügung gestellt. Der Antragsteller muss im Zertifizierungsportal die entsprechende n Prüfvorgänge „KVDT ADT“  initiieren (je nach Umsetzung auch „KVDT KADT“ und „KVDT SADT“). Nach Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit dem der KBV bisher bekannten Daten vorausgefüllt bereitgestellt. Di eser muss vollständig ausgefüllt und unterschrieben als PDF -Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht werden. auf Zertifizierung „KVDT ADT“ eingescannt per Mail (pruefstelle@kbv.de) einreichen und erst nach Erhalt der Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den vorab via Mail eingereichten Antrag auf Zertifizierung hochladen. Sobald der Eingang des Antrags auf Zertifizierung durch Mitarbeitenden der KBV bestätigt ist, ist im Zertifizierungsportal ein Termin für die Sichtprüfung durch den Softwareverantwortlichen zu vereinbaren. Für die Sichtprüfung ist das System entsprechend den Vorgaben des Kapitels 2 vorzubereiten. Im Rahmen der Sichtprüfung („KVDT ADT“)  erfolgt die Kontrolle der Einhaltung der Anforderungen. Werden bei der Prüfung Fehler festgestellt, wird der Antragsteller mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zert ifizierungsportal hochzuladen (siehe Kapitel 1.4). Bei Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur erneuten Sichtprüfung auffordern. Erst nach einem fehlerfreien Prüflauf „KVDT ADT“ (dieser schließt di e manuelle Prüfung der eingereichten Unterlagen durch die Abteilung IT in der Arztpraxis mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen werden. Bei Neuzertifizierungen muss der Antragsteller  zusätzlich folgende Nachweise erbringen:  Bestätigung der Konformität des Primärsystems zur Konnektorschnittstelle für  den Funktionsumfang: VSDM Der Nachweis über das von der kv.digital GmbH erfolgreich durchgeführte „eTerminservice Audit“ diese zwei Nachweise nicht erbringen.
+Dokument beschreibt allgemeine eines Zertifizierungsgegenstandes im Bereich der Abrechnung [KVDT]. Rahmen der Zertifizierung und ist zu beachten.  weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind. RECHTSGRUNDLAGE ZERTIFIZIERUNGSABLAUF Folglich beinhaltet dieses Prüfpaket wichtige Informationen für die anstehende Sichtprüfung und keine Prüffälle. Die erforderlichen Prüffälle werden dem Antragsteller im Rahmen der Sichtprüfung zur Verfügung gestellt. Der Antragsteller muss im Zertifizierungsportal die entsprechende n Prüfvorgänge „KVDT ADT“  initiieren (je nach Umsetzung auch „KVDT KADT“ und „KVDT SADT“). Nach Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit dem der KBV bisher bekannten Daten vorausgefüllt bereitgestellt. Di eser muss vollständig ausgefüllt und unterschrieben als PDF -Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht werden. auf Zertifizierung „KVDT ADT“ eingescannt per Mail (pruefstelle@kbv.de) einreichen und erst nach Erhalt der Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den vorab via Mail eingereichten Antrag auf Zertifizierung hochladen. Sobald der Eingang des Antrags auf Zertifizierung durch Mitarbeitenden der KBV bestätigt ist, ist im Zertifizierungsportal ein Termin für die Sichtprüfung durch den Softwareverantwortlichen zu vereinbaren. Für die Sichtprüfung ist das System entsprechend den Vorgaben des Kapitels 2 vorzubereiten. Im Rahmen der Sichtprüfung („KVDT ADT“)  erfolgt die Kontrolle der Einhaltung der Anforderungen. Werden bei der Prüfung Fehler festgestellt, wird der Antragsteller mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen (siehe Kapitel 1.4). Bei Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur erneuten Sichtprüfung auffordern. Erst nach einem fehlerfreien Prüflauf „KVDT ADT“ (dieser schließt di e manuelle Prüfung der eingereichten Unterlagen durch die Abteilung IT in der Arztpraxis mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen werden. Bei Neuzertifizierungen muss der Antragsteller  zusätzlich folgende Nachweise erbringen:  Bestätigung der Konformität des Primärsystems zur Konnektorschnittstelle für  den Funktionsumfang: VSDM Der Nachweis über das von der kv.digital GmbH erfolgreich durchgeführte „eTerminservice Audit“ diese zwei Nachweise nicht erbringen.
 
 ---
 
@@ -123,7 +123,7 @@ Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
 
 Für das Zertifizierungsverfahren werden als Nachweis von Fehlerkorrekturen die Abrechnungsdatei  **verschlüsselt (.XKM) und unverschlüsselt (.CON)**), sowie PDF-Dateien für die zu druckenden Muster, als
 
-auch Bild - oder Videodateien erwartet. Ein entsprechendes Begleitschreiben kann weiterhin einen oder  mehrere Screenshots und erläuternden Text enthalten. Alle Dateien müssen anschließend als ZIP-Archiv über
+auch Bild- oder Videodateien erwartet. Ein entsprechendes Begleitschreiben kann weiterhin einen oder  mehrere Screenshots und erläuternden Text enthalten. Alle Dateien müssen anschließend als ZIP-Archiv über
 
 das Zertifizierungsportal eingereicht werden.
 
@@ -148,16 +148,16 @@ installiert ist:
 
 | **AUSSTATTUNG** | **BESCHREIBUNG** |
 |---|---|
-| **Feste IP-Adresse** | ein Zugriff auf die **Ausnahme: Antragsteller für Zertifizierungsgegenstände ohne Arzt** |
+| **Feste IP-Adresse** | Der Hersteller muss über eine feste IP -Adresse verfügen und diese zu Beginn der **Ausnahme: Antragsteller für Zertifizierungsgegenstände ohne Arzt** |
 | **Rechnerarchitektur** | Für eine reibungslose Prüfung eignet sich am besten ein Stand |
 | **Internetverbindung** | Es wird eine stabile und schnelle Internetverbindung benötigt mit der empfohlenen |
-| **Firewall-** | Weboberfläche für KoPS 3.1:  http://192.168.200.84:8080/Ko PS/web/#/ **-Patienten-** |
+| **Firewall-** | Weboberfläche für KoPS 3.1:  http://192.168.200.84:8080/Ko PS/web/#/ **Ausnahme: Antragsteller für Zertifizierungsgegenstände ohne Arzt** |
 | **Ton, Mikrofon und** | › › |
-| **Konferenzsystem** | Die Nutzung des Konferenzsystems Zoom ist per Browser möglich. Empfohlene    › |
+| **Konferenzsystem** | Die Nutzung des Konferenzsystems Zoom ist per Browser möglich. Empfohlene  › › |
 
 ## 2.2 VORBEREITUNG DES ZU PRÜFENDEN PVS
 
-**Für den reibungslosen Ablauf der Zerti fizierungsprüfung bitten wir darum , dass alle folgenden**  **Vorbereitungen in dem zu zertifizierenden System durchgeführt werden.**
+**Für den reibungslosen Ablauf der Zertifizierungsprüfung bitten wir darum, dass alle folgenden**  **Vorbereitungen in dem zu zertifizierenden System durchgeführt werden.**
 
 Für die Sichtprüfung stellen Sie ein vorinstalliertes System bereit, das die aktuell gültigen Stammdaten und  die KV-Spezifika der **KV Westfalen-Lippe** enthält.
 
@@ -170,7 +170,7 @@ Folgende Praxisdaten müssen grundsätzlich verwendet werden und sollten bereits
 | **Lebenslange Arztnummer (LANR)** | 776299002 |
 | **ASV Teamnummer** | 001234566 |
 
-Der Hersteller muss über eine feste IP -Adresse verfügen und diese zu Beginn der Prüfung dem Zertifizierer mitteilen, damit KoPS-Instanz hergestellt werden kann. Eine feste IP -Adresse ist notwendig, damit die KBV die KoPS-Instanz vor unbefugten Zugriff während der Sichtprüfung schützten kann. Kontakt (APK) -Alone System. Bandbreite 1.5 Mbps/1.5 Mbps (Download/Upload). Freischaltung Kontakt (APK) Lautsprecher und Mikrofon (integriert oder Headset) Kamera (HD) Webcam (integriert oder extern) (optional) Browser sind: Google Chrome in der neuesten Version Zoom App für Chrome
+Prüfung dem Zertifizierer mitteilen, damit ein Zugriff auf die KoPS-Instanz hergestellt werden kann. Eine feste IP -Adresse ist notwendig, damit die KBV die KoPS-Instanz vor unbefugten Zugriff während der Sichtprüfung schützten kann. -Patienten- Kontakt (APK) -Alone System. Bandbreite 1.5 Mbps/1.5 Mbps (Download/Upload). Freischaltung -Patienten- Kontakt (APK) Lautsprecher und Mikrofon (integriert oder Headset) Kamera (HD) Webcam (integriert oder extern) (optional) Browser sind: Google Chrome in der neuesten Version Zoom App für Chrome
 
 ---
 
@@ -327,14 +327,14 @@ ung
 | . **2.3** | Im Rahmen der Sichtprüfung sind die |
 | https://update.kbv.de/ita-update/Stammdateien/. | **2.4** |
 | Im Rahmen der Sichtprüfung werden am Zertifizierungsgegenstand Versichertenkarten (KVK und eGK)  Bei Systemen mit APK wird die Sichtprüfung mit dem Konnektorsimulator (KoPS | › |
-| › › | Die Dateinamen der |
+| › › | Die Dateinamen der Dateistruktur der Versichertenkarten für die Zertifizierung bei der KBV (XML- |
 | **Ausnahme: Antragsteller für Zertifizierungsgegenstände ohne Arzt 2.5** | Der Antragsteller muss während der Sichtprüfung auch ein mobiles Kartenlesegerät bereitstellen und |
 | Die KVKs werden vor der Prüfung von der KBV **Ausnahme: Antragsteller für Zertifizierungsgegenstände ohne Arzt** | **2.6** |
 | Der Antragsteller muss die Erstellun g von Screenshots sowie von PDF -Dokumenten für den Ausdruck des **2.7** | Das Abrechnungsquartal ist das aktuelle Quartal, in dem die Sichtprüfung stattfindet. |
 | **Ausnahme: Antragsteller für Zertifizierungsgegenstände ohne Arzt** Der Antragsteller hat das entsprechende XPM-Prüfmodul vor der Sichtprüfung einzubinden und im Rahmen |  |
 | zu verschlüsseln. | **2.2.3** . **2.4** Im Rahmen der Sichtprüfung werden am Zertifizierungsgegenstand Versichertenkarten (KVK und eGK)  Bei Systemen mit APK wird die Sichtprüfung mit dem Konnektorsimulator (KoPS  › › › › |
 
-Sonstige Vorbereitungen - noch Abrechnungsdaten enthalten. Systemen ohne APK  muss die Möglichkeit der Erfassung von prüfungsfallspezifischen EBM-Ziffern und ICD-10-GM-Kodes in der Sichtprüfung bestehen. Die Verschlüsselungsanleitung (Verschlüsselungsanleitung- STAMMDATEIEN regulären  KBV-Stammdateien zu verwenden. Die sind zu finden unter VERSICHERTENDATEN eingelesen.  3.1) durchgeführt: KoPS 3.1 wird über eine WEB-Schnittstelle bereitgestellt. Die erforderliche URL, welche im PVS eingebunden wird, wird dem Antragsteller im Einladungsschreiben mitgeteilt. Der verwendete KoPS 3.1-Aufrufkontext ist Standard Arbeitsplatz 1 mit Mandant1 ClientID1 Workplace1 Dateistruktur der Versichertenkarten für die Zertifizierung bei der KBV (XML - Versichertendaten) können u.U. von den Vorgaben der gematik Spezifikation abweichen. -Patienten-Kontakt (APK) MOBILE KARTENTERMINALS anschließen können für Prüffälle, die physischen K rankenversichertenkarten (KVK) benötigen.  an den PVS-Hersteller postalisch versendet. -Patienten-Kontakt. SCREENSHOTS Personalienfeldes von vertragsärztlichen Formularen im Rahmen der Sichtprü fung ermöglichen. ABRECHNUNGSDATEI Es muss möglich sein, das Systemdatum zu ändern.  Zudem werden auch Vorquart alsfälle abgerechnet.  -Patienten-Kontakt. der Prüfung die XDT-Datei mit dem XKM-Testschlüssel
+Sonstige Vorbereitungen - noch Abrechnungsdaten enthalten. Systemen ohne APK  muss die Möglichkeit der Erfassung von prüfungsfallspezifischen EBM-Ziffern und ICD-10-GM-Kodes in der Sichtprüfung bestehen. Die Verschlüsselungsanleitung (Verschlüsselungsanleitung- STAMMDATEIEN regulären  KBV-Stammdateien zu verwenden. Die sind zu finden unter VERSICHERTENDATEN eingelesen.  3.1) durchgeführt: KoPS 3.1 wird über eine WEB-Schnittstelle bereitgestellt. Die erforderliche URL, welche im PVS eingebunden wird, wird dem Antragsteller im Einladungsschreiben mitgeteilt. Der verwendete KoPS 3.1-Aufrufkontext ist Standard Arbeitsplatz 1 mit Mandant1 ClientID1 Workplace1 Versichertendaten) können u.U. von den Vorgaben der gematik Spezifikation abweichen. -Patienten-Kontakt (APK) MOBILE KARTENTERMINALS anschließen können für Prüffälle, die physischen K rankenversichertenkarten (KVK) benötigen.  an den PVS-Hersteller postalisch versendet. -Patienten-Kontakt. SCREENSHOTS Personalienfeldes von vertragsärztlichen Formularen im Rahmen der Sichtprü fung ermöglichen. ABRECHNUNGSDATEI Es muss möglich sein, das Systemdatum zu ändern.  Zudem werden auch Vorquart alsfälle abgerechnet.  -Patienten-Kontakt. der Prüfung die XDT-Datei mit dem XKM-Testschlüssel
 
 ---
 
@@ -372,7 +372,7 @@ Sonstige Vorbereitungen - noch Abrechnungsdaten enthalten. Systemen ohne APK  mu
 
 |  |  |
 |---|---|
-| 1 | KVDT Kryptomodul |
+| xkm-m.nn.n | KVDT Kryptomodul |
 | KBV_ITA_AHEX_Handbuch_Kryptomodul | KVDT Kryptomodul Handbuch |
 | Testschluessel.zip | Testschlüssel  zur Datenverschlüsselung der |
 | **1-Click Abrechnung ** https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/ | |
@@ -395,4 +395,4 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstel
 
 Kassenärztliche Bundesvereinigung
 
-xkm-m.nn.n .zip .pdf Abrechnungsdatei 2 Anwendungsdienst 1-Click Abrechnung Sammelerklärung 3Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+.pdf Abrechnungsdatei 2 Anwendungsdienst 1-Click Abrechnung Sammelerklärung 3Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de

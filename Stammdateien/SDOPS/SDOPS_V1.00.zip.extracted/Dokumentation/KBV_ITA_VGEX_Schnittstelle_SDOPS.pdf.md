@@ -103,25 +103,23 @@ ehd.]datatyp_vv.vv_sender_[tf+val]_[nr+val]_[du+val].xml
 
 Zeichen
 
-datatyp
-
-vv.vv
-
-sender
-
-tf+
-
 Erläuterung
 
 Trennungszeichen zwischen den Namenselementen
+
+datatyp
 
 Datentyp, "Satzart", "ehd." ist optional als Vorsatz erlaubt; Entspricht dem
 
 Header-Element <document_type_cd>.
 
+vv.vv
+
 VersionsNr. der Datentypbeschreibung; Entspricht dem Element <version> des
 
 Header-Elements <interface>.
+
+sender
 
 Absender der Lieferung (nicht immer mit Erzeuger bzw. Erstlieferanten der Daten
 
@@ -129,19 +127,21 @@ identisch) bzw. wer hat die Daten geliefert; Entspricht dem Element <person>
 
 oder dem Element <organization> des Header-Elements <provider>.
 
+tf+
+
 timeframe (YYYYqQ)
 
 YYYY
 
-nr+
-
-du+
-
 Jahr
+
+nr+
 
 number – optional Nummer der Lieferung, falls zu einem Zeitraum mehrere
 
 Lieferungen erfolgen
+
+du+
 
 dummy – optionaler Platzhalter z.B. für Tests, kann auch mehrmals verwendet
 
@@ -264,6 +264,10 @@ ehd:ehd>
 
 ### ehd_version:
 
+### Im XML-File wird die Versionsnummer zur zugrundeliegenden ehd-
+
+Richtlinie bzw. des verwendeten ehd-Schemas angeben. Der Wertebereich
+
 ### <header>
 
 ### <body>
@@ -271,10 +275,6 @@ ehd:ehd>
 ### Der Namensraum für die ehd-Schnittstelle ist zwingend:
 
 Seite 7 von 12 / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozedurenschlüsselstammdatei) / Version 1.00
-
-### Im XML-File wird die Versionsnummer zur zugrundeliegenden ehd-
-
-Richtlinie bzw. des verwendeten ehd-Schemas angeben. Der Wertebereich
 
 ### wird auf 0.00 bis 99.99 festgelegt, anderenfalls wird der Parser Fehler
 

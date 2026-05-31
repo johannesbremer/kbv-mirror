@@ -23,43 +23,105 @@ DEZERNAT DIGITALISIERUNG UND IT IT IN DER ARZTPRAXIS 12. FEBRUAR 2024  VERSION: 
 
 **ALLGEMEINES**
 
+**6**
+
 1.1 Rechtsgrundlage
+
+6
 
 1.2 Zertifizierungsablauf
 
+6
+
 1.3 Zertifizierungsportal
+
+6
 
 1.4 Zertifizierungsdokumente
 
+7
+
 1.5 Prüfunterlagen
 
-1.6 Prüfvorgaben  1.6.1 Prüfstammdaten 1.6.2 Versichertendaten
+7
+
+1.6 Prüfvorgaben
+
+9
+
+1.6.1 Prüfstammdaten
+
+9
+
+1.6.2 Versichertendaten
+
+9
 
 1.6.3 Praxisdaten/ Arztstempel
 
+9
+
 1.6.4 Krankenhausdaten
+
+9
 
 1.6.5 Prüfnummer
 
-1.6.6 Stammdatei der Datenannahmestellen (SDDA)
+10
 
-1.6.7 Auflistung der Prüffälle
+1.6.6 Stammdatei der Datenannahmestellen (SDDA) 10
+
+1.6.7 Auflistung der Prüffälle 10
 
 **PRÜFFÄLLE**
 
-2.1 Prüffälle Dokumentation  2.1.1 Prüffall 8511 2.1.2 Prüffall 8512
+**11**
+
+2.1 Prüffälle Dokumentation
+
+11
+
+2.1.1 Prüffall 8511
+
+11
+
+2.1.2 Prüffall 8512
+
+14
 
 2.1.3 Prüffall 6520
 
-2.2 Prüffall Systemreaktion  2.2.1 Prüffall 8514 2.2.2 Prüffall 8515
+17
 
-2.3 Weitere Prüffälle zum Anforderungskatalog 2.3.1 Prüffall 8530
+2.2 Prüffall Systemreaktion
+
+22
+
+2.2.1 Prüffall 8514
+
+22
+
+2.2.2 Prüffall 8515
+
+25
+
+2.3 Weitere Prüffälle zum Anforderungskatalog 26
+
+2.3.1 Prüffall 8530
+
+26
 
 2.3.2 Prüffall 8540
 
+27
+
 **TESTDATENVALIDIERUNG**
 
+**28**
+
 3.1 Prüffall TDV8518
+
+29
 
 |  | **ANHANG** |  | **31** |
 |---|---|---|---|
@@ -68,21 +130,9 @@ DEZERNAT DIGITALISIERUNG UND IT IT IN DER ARZTPRAXIS 12. FEBRUAR 2024  VERSION: 
 
 **REFERENZIERTE DOKUMENTE**
 
-Seite 2 von 34 / KBV / Pruefpaket eDMP-COPD / Version: 1.26 / 12. Februar 2024
-
-**6**
-
-6  6  6  7  7  9  9  9  9  9  10  10  10
-
-**11**
-
-11  11  14  17  22  22  25  26  26  27
-
-**28**
-
-29
-
 **33**
+
+Seite 2 von 34 / KBV / Pruefpaket eDMP-COPD / Version: 1.26 / 12. Februar 2024
 
 Versichertendaten 1 Versichertendaten 2
 
@@ -90,13 +140,13 @@ Versichertendaten 1 Versichertendaten 2
 
 ## ABBILDUNGSVERZEICHNIS
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für die  Abbildung 2: Exemplarische Struktur der **Archivdatei**
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung 8
 
-Abbildung 3: Testdatenvalidierung
+Abbildung 2: Exemplarische Struktur der **Archivdatei** mit den Prüfunterlagen 8
 
-Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
+Abbildung 3: Testdatenvalidierung 28
 
-Zertifizierung  mit den Prüfunterlagen 8  8  28  28
+Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 28
 
 
 ---
@@ -133,21 +183,15 @@ Seite 4 von 34 / KBV / Pruefpaket eDMP-COPD
 |  |  |  | 5.07 ist ab 01.10.2023 |
 |  |  |  | zu verwenden). |
 
-08.02.2023
+08.02.2023 KBV
 
-08.11.2022
+08.11.2022 KBV
 
 |  |  | Layouts | Corporate Design |
 |---|---|---|---|
 | 19.03.2021 | KBV | Datumsanpassungen der | Datumsanpassungen |
 
-15.02.2021
-
-KBV
-
-KBV
-
-KBV
+15.02.2021 KBV
 
 an die  Schnittstellenversion  4.06   Änderungen der  Nummerierung der  Aktionen in den  Prüffällen 8514 und  8515
 
@@ -165,35 +209,43 @@ Anpassung der Prüffälle  an  Schnittstellenversionen  4.04
 
 / Version: 1.26 / 12. Februar 2024
 
-4.06 ist ab 01.04.2024  zu verwenden.
-
-Datumsanpassungen
-
-Datumsanpassungen  wegen der  übergreifenden  Prüffälle.  Schnittstellenversion  4.05 ist ab 01.04.2023  zu verwenden.   Anpassung an  Änderungen im  Anforderungskatalog.
-
-Überführung ins neue
-
-wegen der  übergreifenden  Prüffälle
-
-Schnittstellenversion  4.04 ist ab 01.04.2021  zu verwenden
-
 **Seite**
 
 11
 
+4.06 ist ab 01.04.2024
+
+zu verwenden.
+
 22
 
-11
+Datumsanpassungen 11
 
 22, 24
 
-11ff
+Datumsanpassungen 11ff
 
-27
+wegen der
 
-Alle 11ff
+übergreifenden
 
-11ff
+Prüffälle.
+
+Schnittstellenversion 4.05 ist ab 01.04.2023
+
+zu verwenden.
+
+Anpassung an
+
+Änderungen im 27
+
+Anforderungskatalog.
+
+Überführung ins neue Alle 11ff
+
+wegen der  übergreifenden  Prüffälle 11ff
+
+Schnittstellenversion  4.04 ist ab 01.04.2021  zu verwenden
 
 15.08.2023 KBV Datumsanpassungen der 12.08.2021
 
@@ -258,23 +310,17 @@ Anpassung der Prüffälle  an  Schnittstellenversionen  4.01 und 4.02
 
 Einreichung des Antrags  auf Zertifizierung   Korrektur der  Nummerierung in  Prüffall 8515
 
-/ Version: 1.26 / 12. Februar 2024
+/ Version: 1.26 / 12. Februar 2024 11ff
 
-Fehlerkorrektur
+Fehlerkorrektur 11ff
 
-Schnittstellenversion  4.03 ist ab 01.04.2019  zu verwenden
+Schnittstellenversion  4.03 ist ab 01.04.2019  zu verwenden 22
 
 Schnittstellenversion  4.02 ist ab 01.07.2018  zu verwenden
 
-Anpassung des  Zertifizierungsportales 11ff
+Anpassung des 6ff
 
-11ff
-
-22
-
-6ff
-
-25
+Zertifizierungsportales 25
 
 11ff
 
@@ -393,37 +439,27 @@ XML-Dateien im entsprechenden Verzeichnis enthält, erwartet. Diese müssen fehl
 
 ---
 
-### Die geforderten Videomitschnitte, Screenshots und die Teilnahmeerklärung (Prüffall 8540)  einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention
+Die geforderten Videomitschnitte, Screenshots und die Teilnahmeerklärung (Prüffall 8540) müssen in
 
-entsprechen. Diese werden durch den Prüfer begutachtet.
+einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.
 
-1
+[PrüffallNr.]1_[lfdNr.]2 3
 
-2 3
+Teilnahmeerklärung (Prüffall 8540): TE_EWE_COPD.pdf
 
-[PrüffallNr.] _[lfdNr.] .*  Teilnahmeerklärung (Prüffall 8540): TE_EWE_COPD.pdf
+Alle Prüfunterlagen (COPD-Unterlagen und der Ordner „Dokumentation“) sind in einem ZIP-Archiv zu
 
-### Alle Prüfunterlagen (COPD-Unterlagen und der Ordner „Dokumentation“
+übermitteln. Die COPD-Unterlagen werden direkt in dem Hauptverzeichnis übertragen und nicht gesondert  in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft Der Ordner „Dokumentation“
 
-übermitteln. Die COPD-Unterlagen werden direkt in dem Hauptverzeichnis übertragen und nicht gesondert  in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft enthält Videoaufzeichnungen, ggf. Screenshots sowie die Teilnahmeerklärung und wird ebenfalls direkt in
-
-### dem Hauptverzeichnis übertragen. Das ZIP- Archiv muss wie folgt benannt werden:
+enthält Videoaufzeichnungen, ggf. Screenshots sowie die Teilnahmeerklärung und wird ebenfalls direkt in  dem Hauptverzeichnis übertragen. Das ZIP- Archiv muss wie folgt benannt werden:
 
 Zert_105_SystemID.zip
 
-### Die SystemID ergibt sich aus den letzten drei Stellen der Prüfnummer.
+Die SystemID ergibt sich aus den letzten drei Stellen der Prüfnummer.
 
-### Das ZIP-Archiv kann je nach Komponentenzulassung (KHK und/oder DM1) unterschiedliche Strukturen
+Das ZIP-Archiv kann je nach Komponentenzulassung (KHK und/oder DM1) unterschiedliche Strukturen
 
-aufweisen. Im Folgenden wird beispielhaft die Verzeichnisstruktur ohne zusätzliche Zulassungen (die
-
-### alleinige Umsetzung von COPD) dargestellt.
-
-### müssen in
-
-### ) sind in einem ZIP-Archiv zu
-
-### Der Ordner „Dokumentation“
+aufweisen. Im Folgenden wird beispielhaft die Verzeichnisstruktur ohne zusätzliche Zulassungen (die  alleinige Umsetzung von COPD) dargestellt.
 
 Abbildung 1: Exemplarische Verzeichnisstruktur fü r die Zertifizierung   391234511_20240730101010 _1_COPD_406.zip.XKM XKM-Datei  COPD
 
@@ -1450,17 +1486,13 @@ Nein
 
 Nein
 
-Hypertonie-
+Hypertonie-Schulung
 
-Diabetes-
-
-Ja
+Diabetes-Schulung
 
 Ja
 
-Schulung
-
-Schulung
+Ja
 
 Kontraindikation, Nein
 
@@ -1599,13 +1631,17 @@ Sie bitte die in Spalte „Aktion“ markierten
 
 **Erstdokumentation**
 
+**Aktion**
+
 8514
 
 06.10.2023 06.04.2024
 
 COPD
 
-Je nach Auswahl des  Patienten 2,51 1,81 m
+Je nach Auswahl des
+
+Patienten 2,51 1,81 m
 
 301 121 kg
 
@@ -1613,11 +1649,9 @@ Je nach Auswahl des  Patienten 2,51 1,81 m
 
 Ja
 
-Quartalsweise
-
-**Aktion**
-
 Nr. 1
+
+Quartalsweise
 
 
 ---
@@ -1880,7 +1914,7 @@ Datum der Erstellung
 
 17 muss die Software ebenfalls in der Lage 17 zu erzeugen.
 
-**Erstdokumentation**
+**Erstdokumentation Screenshot**
 
 8515
 
@@ -1888,15 +1922,13 @@ Datum der Erstellung
 
 COPD
 
-Asthma bronchiale,  COPD
-
-Männlich
-
-**Screenshot**
-
 Nr. 16
 
-Nr. 17 2,00 m
+Asthma bronchiale, Nr. 17
+
+COPD
+
+Männlich 2,00 m
 
 091 kg
 

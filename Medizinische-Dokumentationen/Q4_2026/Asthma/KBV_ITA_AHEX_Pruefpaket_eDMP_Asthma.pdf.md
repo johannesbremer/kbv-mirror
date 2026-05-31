@@ -183,7 +183,7 @@ Schnittstellenversionen 4.47 Prüffälle. Medikamente im Prüffall 6513 für DM2
 | 1.12 | 13.02.2018 | KBV | Anpassung der Prüffälle an  Aufnahme eines Testfalls | Schnittstellenversion    Schnittstellenversion | Prüffälle        Prüffall |
 | 1.11 | 23.05.2017 | KBV | Komplettüberarbeitung des | Aktualisierung der | Alle |
 
-Schnittstellen 4.42 und 4.43 Zertifizierung Nummerierung in Prüffall 9515 Schnittstellenversionen 4.41 und 4.42 für die Testdatenvalidierung zur Schnittstellenversion 4.43 Prüfpaketes 4.43 ist ab 01.07.2018 zu verwenden Zertifizierungsportales  4.42 ist ab 01.04.2018 zu verwenden 4.43 ist ab 01.07.2018 zu verwenden Zertifizierungsrichtlinie ungsablau TDV9518
+Schnittstellen 4.42 und 4.43 4.43 ist ab 01.07.2018 zu verwenden Zertifizierungsportales  Zertifizierung ungsablau Nummerierung in Prüffall 9515 Schnittstellenversionen 4.42 ist ab 01.04.2018 4.41 und 4.42 zu verwenden für die Testdatenvalidierung zur 4.43 ist ab 01.07.2018 Schnittstellenversion 4.43 zu verwenden TDV9518 Prüfpaketes Zertifizierungsrichtlinie
 
 ---
 
@@ -279,11 +279,7 @@ Die geforderten Videomitschnitte, Screenshots sowie die Teilnahmeerklärung (Pr�
 
 einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.
 
-- 1
-
-- 2 3
-
--  [PrüffallNr.] _[lfdNr.] .*
+- [PrüffallNr.]1_[lfdNr.]2 3
 
 - Teilnahmeerklärung (Prüffall 9540): TE_EWE_AB.pdf
 
@@ -414,11 +410,11 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | **Telefon** | 06151 / 1111111 |
 | **Telefax** | 06151 / 2222222 |
 
--
-
--
-
 erforderlichen Angaben  “ bereitgestellt. Die XML-
+
+-
+
+-
 
 
 ---
@@ -660,7 +656,7 @@ Die Versichertendaten von Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn
 |  |  |  |
 |  |  |  |
 
-Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider Einschreibung Asthma bronchiale-Dokumentationsunterlagen zusätzlich DM2- und/oder KHK-Dokumentationsunterlagen Sofern das System eine Zulassung für die Indikatoren KHK und/oder DM2 verfügt, müssen die entsprechenden Daten ebenfalls dokumentiert werden. Sollte das System keine der beiden Zulassungen besitzen, dann sind nur die Asthma bronchiale-Daten zu übermitteln  DATEN   15.mm.jjjj   15.mm.jjjj Asthma bronchiale, KHK Asthma bronchiale, KHK
+Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider Einschreibung Asthma bronchiale-Dokumentationsunterlagen zusätzlich DM2- und/oder KHK-Dokumentationsunterlagen Sofern das System eine Zulassung für die Indikatoren KHK und/oder DM2 verfügt, müssen die entsprechenden Daten ebenfalls dokumentiert werden. System keine der beiden Zulassungen besitzen, dann sind nur die Asthma bronchiale-Daten zu übermitteln Sollte das  DATEN   15.mm.jjjj   15.mm.jjjj Asthma bronchiale, KHK Asthma bronchiale, KHK
 
 ---
 
@@ -1465,7 +1461,7 @@ und Georg-von-Groscurth-Plaetzchen
 | KBV_ITA_VGEX_Schnittstelle_SDKT | Datensatzbeschreibung SDKT |
 | KBV-Kryptomodul (XKM) und öffentlicher | KBV-Kryptomodul |
 | Stammdateien | Im Rahmen der Prüfung sind die regulären KBV- |
-| VSD_Testfaelle_DMP_Vn.n.zip 4 | eGK Daten |
+| VSD_Testfaelle_DMP_Vn.n.zip4 | eGK Daten |
 | XPM-Paket_Asthma | Prüfmodul Asthma |
 
 4 n.n steht für die aktuelle Versionsnummer, zum Beispiel 1.0

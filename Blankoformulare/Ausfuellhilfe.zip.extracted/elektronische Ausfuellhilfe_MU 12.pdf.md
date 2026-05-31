@@ -41,7 +41,7 @@ Die Angabe von Einschränkungen soll verdeutlichen, warum häusliche Krankenpfle
 
 -
 
-Insbesondere bei der Erstverordnung soll ein Zeitraum von 14 Tagen nicht überschritten werden . I st eine  längere Verordnungsdauer erforderlich, soll sich der Grund hierfür aus den verordnungsrelevanten Diagnosen  und den Einschränkungen ergeben. Folgeverordnungen bitte innerhalb der letzten drei Arbeitstage vor Ablauf  des zuvor verordneten Zeitraums auszustellen.
+Insbesondere bei der Erstverordnung soll ein Zeitraum von 14 Tagen nicht überschritten werden. Ist eine  längere Verordnungsdauer erforderlich, soll sich der Grund hierfür aus den verordnungsrelevanten Diagnosen  und den Einschränkungen ergeben. Folgeverordnungen bitte innerhalb der letzten drei Arbeitstage vor Ablauf  des zuvor verordneten Zeitraums auszustellen.
 
 - **4. Unfall**
 
@@ -79,7 +79,7 @@ Die Behandlungspflege umfasst Maßnahmen der ärztlichen Behandlung, die dazu di
 
 Geben Sie hier bitte die zu verabreichenden Präparate sowie deren jeweilige Dauer und Häufigkeit an. Diese  Angaben können alternativ auf einem gesonderten Dokument als Anlage zur Verordnung erfolgen. Bei der
 
-Verordnung der Medikamentengabe ist Nr. 26 des Leistungsverzeichnisses der Häusliche Krankenpflege - Richtlinie zu beachten.
+Verordnung der Medikamentengabe ist Nr. 26 des Leistungsverzeichnisses der Häusliche Krankenpflege- Richtlinie zu beachten.
 
 
 ---
@@ -88,21 +88,21 @@ Verordnung der Medikamentengabe ist Nr. 26 des Leistungsverzeichnisses der Häus
 
 Bei der Verordnung von Leistungen zur Blutzuckermessung
 
-Leistungsverzeichnisses der Häusliche Krankenpflege -Richtlinie. Bitte geben Sie an , ob es sich um  Blutzuckermessungen aufgrund einer Erst - oder Neueinstellung oder einer intensivierten Insulintherapie  handelt.
+Leistungsverzeichnisses der Häusliche Krankenpflege-Richtlinie. Bitte geben Sie an, ob es sich um  Blutzuckermessungen aufgrund einer Erst- oder Neueinstellung oder einer intensivierten Insulintherapie  handelt.
 
 #### - Kompressionsbehandlung 12.
 
 -
 
-Bei der Verordnung von Leistungen der Kompressionsbehandlung ist Nr. 31 der Häusliche Krankenpflege -Richtlinie zu beachten. Die Kompressionsbehandlung ist im Rahmen der  häuslichen Krankenpflege ab Kompressionsklasse I verordnungsfähig.
+Bei der Verordnung von Leistungen der Kompressionsbehandlung ist Nr. 31 der Häusliche Krankenpflege-Richtlinie zu beachten. Die Kompressionsbehandlung ist im Rahmen der  häuslichen Krankenpflege ab Kompressionsklasse I verordnungsfähig.
 
 #### - Wundversorgung 13.
 
 -
 
-Bei der Verordnung von Leistungen der Wundversorgung sind die Nummern 12 Positionswechsel zur  Dekubitusbehandlung, 31 Wundversorgung einer akuten Wunde sowie
+Bei der Verordnung von Leistungen der Wundversorgung sind die Nummern 12 Positionswechsel zur  Dekubitusbehandlung, 31 Wundversorgung einer akuten Wunde
 
-chronischen und schwer heilenden Wunde des Leistun gsverzeichnisses der Häusliche Krankenpflege - Richtlinie zu beachten. Bitte geben Sie auch die anzuwendenden Präparate an. Die Angaben zu den  Präparaten sowie zur Wunddokumentation können auf einem gesonderten Dokument als Anlage zur  Verordnung erfolgen.
+chronischen und schwer heilenden Wunde des Leistungsverzeichnisses der Häusliche Krankenpflege- Richtlinie zu beachten. Bitte geben Sie auch die anzuwendenden Präparate an. Die Angaben zu den  Präparaten sowie zur Wunddokumentation können auf einem gesonderten Dokument als Anlage zur  Verordnung erfolgen.
 
 #### - Sonstige Maßnahmen der Behandlungspflege 14.
 
@@ -116,17 +116,13 @@ der Häusliche Krankenpflege-Richtlinie verordnet werden.
 
 -
 
-Sofern die Patientin/ der Patient selbst oder Angehörige zur Behandlungspflege durch den Pflegedienst
-
-angeleitet werden sollen, geben Sie dies bitte unter Nennung der einzelnen Leistungen hier an. Hierbei ist Nr.  7 des Leistungsverzeichnisses der Häusliche Krankenpflege-Richtlinie zu beachten.
+Sofern die Patientin/der Patient selbst oder Angehörige zur Behandlungspflege durch den Pflegedienst  angeleitet werden sollen, geben Sie dies bitte unter Nennung der einzelnen Leistungen hier an. Hierbei ist Nr.  7 des Leistungsverzeichnisses der Häusliche Krankenpflege-Richtlinie zu beachten.
 
 #### - Grundpflege und hauswirtschaftliche Versorgung 16.
 
 -
 
-Grundpflege und hauswirtschaftliche Versorgung können in der Regel nur dann verordnet werden, wenn die  Voraussetzungen für Unterstützungspflege oder der Krankenhausvermeidungspflege
-
-Satzungsleistung kann dies bei manchen Krankenkassen auch in anderen Fällen verordnet werden.
+Grundpflege und hauswirtschaftliche Versorgung können in der Regel nur dann verordnet werden, wenn die  Voraussetzungen für Unterstützungspflege oder der Krankenhausvermeidungspflege gegeben sind. Als  Satzungsleistung kann dies bei manchen Krankenkassen auch in anderen Fällen verordnet werden.
 
 - **17. Unterstützungspflege nach § 37 Abs. 1a SGB V**
 
@@ -142,7 +138,7 @@ Krankenhausvermeidungspflege kann verordnet werden, wenn Krankenhausbehandlung g
 
 oder wenn dadurch eine Krankenhausbehandlung vermieden
 
-Krankenhausvermeidungspflege umfasst Behandlungs und Grundpflege
+Krankenhausvermeidungspflege umfasst Behandlungs- und Grundpflege
 
 Versorgung. Bitte geben Sie zusätzlich an, welche Leistungen erbracht werden sollen. Ein Anspruch auf  Krankenhausvermeidungspflege besteht bis zu 4 Wochen je Krankheitsfall.
 
@@ -150,27 +146,27 @@ Versorgung. Bitte geben Sie zusätzlich an, welche Leistungen erbracht werden so
 
 -
 
-Die Grundpflege umfasst pflegerische Hilfen aus den Bereichen Körperpflege, Ernährung und Mobilität verordnungsfähigen Leistungen sind im Leistungsverzeichnis der Häusliche (Nr. 1 - 4) aufgeführt.
+Die Grundpflege umfasst pflegerische Hilfen aus den Bereichen Körperpflege, Ernährung und Mobilität verordnungsfähigen Leistungen sind im Leistungsverzeichnis der (Nr. 1 - 4) aufgeführt.
 
-beachten Sie
+beachten
 
 b des Leistungsverzeichnisses
 
-bitte Nr. 11 des 31a Wundversorgung einer
+Sie bitte Nr. 11 des
+
+sowie 31a Wundversorgung einer
 
 ses
 
-gegeben sind . Als
+oder verkürzt  sowie
 
-Verschlimmerung
+Häusliche Krankenpflege-Richtlinie
 
-oder verkürzt  sowie hauswirtschaftliche
+Verschlimmerung - 5 vorliegt.
 
-Krankenpflege - 5 vorliegt.
+wird. Die
 
-wird. Die . Die
-
--Richtlinie
+hauswirtschaftliche . Die
 
 
 ---
@@ -179,7 +175,7 @@ wird. Die . Die
 
 Hauswirtschaftliche Versorgung beinhaltet hauswirtschaftliche Leistungen wie Einkaufen oder Reinige n der
 
-Wohnung. Die Leistungen sind im Leistungsverzeichnis der Häusliche Krankenpflege -Richtlinie (Nr. 5)  aufgeführt.
+Wohnung. Die Leistungen sind im Leistungsverzeichnis der Häusliche Krankenpflege-Richtlinie (Nr. 5)  aufgeführt.
 
 #### Mehr Informationen
 

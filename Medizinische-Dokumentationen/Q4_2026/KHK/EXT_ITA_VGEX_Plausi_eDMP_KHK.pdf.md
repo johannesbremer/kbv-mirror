@@ -189,7 +189,7 @@ Nr. Kontraindikation gegen Statin moderat) / Zielwert-Strategie / Keine Strategi
 | (weggefallen) |  |  |  |
 |  |  | Schulung | 10a  Schulung bereits vor Einschreibung  Ja / Nein  Bedingtes Pflichtfeld |
 
-Nr. in DMP wahrgenommen Dokumentation)  wahrgenommen erreicht / Kontraindikation gegen hohe oder moderate Dosis/ Ablehnung durch Patienten / Keine Begründung letzter Dokumentation keine Schulung „Hoch“ oder „Moderat“ oder „Niedrig“ „Kein Statin“ oder „Kontraindikation gegen Statin“ erfolgt ist „Niedrig“ erfolgt ist „Hoch“, „Moderat" oder „Kein Statin“ oder „Kontraindikation gegen Statin“ erfolgt ist erfolgt ist einer Erstdokumentation auszufüllen ist. einer Folgedokumentation auszufüllen ist
+Nr. erreicht / Kontraindikation gegen hohe oder moderate Dosis/ Ablehnung durch Patienten / Keine Begründung in DMP wahrgenommen Dokumentation)  wahrgenommen letzter Dokumentation keine Schulung „Hoch“ oder „Moderat“ oder „Niedrig“ „Kein Statin“ oder „Kontraindikation gegen Statin“ erfolgt ist „Niedrig“ erfolgt ist „Hoch“, „Moderat" oder „Kein Statin“ oder „Kontraindikation gegen Statin“ erfolgt ist erfolgt ist einer Erstdokumentation auszufüllen ist. einer Folgedokumentation auszufüllen ist
 
 ---
 

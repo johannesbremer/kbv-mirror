@@ -37,11 +37,11 @@ Bei „kontrolliertem“ Asthma ist die Therapie adäquat und kann eventuell sog
 | Symptome am Tage | ≤ | > 2 x / Woche | > als 2 x / Woche |
 | Nächtliche Symptome | Keine | Vorhanden | Vorhanden |
 | Einschränkung der | Keine | Vorhanden | Vorhanden |
-| Einsatz der  1 | ≤ | > 2 x / Woche | > 2 x / Woche |
+| Einsatz der  Bedarfsmedikation | ≤ | > 2 x / Woche | > 2 x / Woche |
 
 1 Ohne den prophylaktischen Einsatz vor geplanter sportlicher Betätigung
 
-Asthmakontrolle (Angaben aus den letzten 4 Wochen) Alltagsaktivitäten Bedarfsmedikation Mindestens 3 der 4 kontrollierten Asthmas
+Asthmakontrolle (Angaben aus den letzten 4 Wochen) Alltagsaktivitäten Mindestens 3 der 4 kontrollierten Asthmas
 
 ---
 
@@ -91,15 +91,15 @@ Bitte geben Sie hier die Häufigkeit des Einsatzes der Bedarfsmedikation an. Die
 
 Bitte beachten Sie bei den folgenden Angaben, dass der prophylaktische Einsatz einer  Bedarfsmedikation vor einer geplanten sportlichen Betätigung bei Erwachsenen für die Angabe  der Häufigkeit NICHT zu berücksichtigen ist. Bei Kindern und Jugendlichen hingegen ist auch der  prophylaktische Einsatz einer Bedarfsmedikation vor Sport für die Angabe der Häufigkeit zu  berücksichtigen.
 
-Ihrer Patientin -
+Ihrer Patientin
+
+- Ihre Patientin bzw. Ihr Patient -
 
 -
 
 - Ihre Patientin bzw. Ihr Patienten gemäß ihrer -
 
-bzw. Ihres Patienten zum
-
-- Ihre Patientin bzw. Ihr Patient -
+bzw. Ihres Patienten zum -
 
 Asthmakontrolle (Angaben aus den letzten 4 Wochen) Alltagsaktivitäten Mindestens 3 der 4 kontrollierten Asthmas
 
@@ -125,9 +125,7 @@ Asthmakontrolle (Angaben aus den letzten 4 Wochen) Alltagsaktivitäten Mindesten
 
 - Einschätzung keine Asthma-spezifische Bedarfsmedikation verwendet.
 
-#### In den letzten 4 Wochen: Einschränkung von Aktivitäten im Alltag wegen Asthma
-
-#### bronchiale
+#### In den letzten 4 Wochen: Einschränkung von Aktivitäten im Alltag wegen Asthma  bronchiale
 
 Genau eine Angabe ist erforderlich.
 
@@ -143,9 +141,7 @@ Geben Sie bitte hier an, ob es bei Ihrer Patientin bzw. Ihrem Patienten zu asthm
 
 #### Aktueller FEV -Wert (mindestens alle 12 Monate1
 
-Die Durchführung einer Lungenfunktionsmessung wird ab dem vollendeten 5. Lebensjahr  mindestens alle 12 Monate zur objektiven Bewertung und Einstufung des Asthma bronchiale
-
-empfohlen.
+Die Durchführung einer Lungenfunktionsmessung wird ab dem vollendeten 5. Lebensjahr  mindestens alle 12 Monate zur objektiven Bewertung und Einstufung des Asthma bronchiale  empfohlen.
 
 Genau eine Angabe ist erforderlich.
 
@@ -170,9 +166,7 @@ verpflichtend.
 
 ---
 
-Geben Sie bitte die Anzahl aller Ihnen bekannten ungeplanten Behandlungen (ambulant und
-
-stationär) an, die seit der letzten Dokumentation auf Grund des Asthma bronchiale notwendig  wurden. Sollte seit der letzten Dokumentation keine solche Behandlung notwendig gewesen sein,  geben Sie bitte eine „0“ an.
+Geben Sie bitte die Anzahl aller Ihnen bekannten ungeplanten Behandlungen (ambulant und  stationär) an, die seit der letzten Dokumentation auf Grund des Asthma bronchiale notwendig  wurden. Sollte seit der letzten Dokumentation keine solche Behandlung notwendig gewesen sein,  geben Sie bitte eine „0“ an.
 
 # Medikamente
 
@@ -182,7 +176,9 @@ Die Angaben können - je nach Praxissoftware - direkt aus der Vordokumentation �
 
 Die Angaben „Bei Bedarf“ und „Dauermedikation“ sind gemeinsam möglich.
 
-Vorrangig sollen unter Berücksichtigung  Medikamente verwendet werden, deren positiver Effekt und Sicherheit im Hinblick auf die Therapieziele  des DMP in prospektiven, randomisierten kontrollierten Studien diejenigen Wirkstoffe oder Wirkstoffgruppen oder Kombinationen bevorzugt werden, die diesbezüglich  den größten Nutzen erbringen.
+Vorrangig sollen unter Berücksichtigung
+
+Medikamente verwendet werden, deren positiver Effekt und Sicherheit im Hinblick auf die Therapieziele  des DMP in prospektiven, randomisierten kontrollierten Studien diejenigen Wirkstoffe oder Wirkstoffgruppen oder Kombinationen bevorzugt werden, die diesbezüglich  den größten Nutzen erbringen.
 
 In der medikamentösen Behandlung des Asthma bronchiale werden Dauertherapeutika  (Medikamente, die regelmäßig eingenommen werden) und Bedarfstherapeutika (Medikamente, die bei  Bedarf, z. B. zur Behandlung von akuten Symptomen, z. B. Atemnot und insbesondere bei Asthma- Anfällen eingesetzt werden) unterschieden.
 
@@ -251,9 +247,7 @@ ab dem vollendeten zwölften Lebensjahr Überweisung zu einer pädiatrischen Pne
 
 ---
 
-Bei unzureichendem Ansprechen kommen sowohl bei Erwachsenen als auch bei Kindern und
-
-Jugendlichen in Betracht:
+Bei unzureichendem Ansprechen kommen sowohl bei Erwachsenen als auch bei Kindern und  Jugendlichen in Betracht:
 
 - der kurzfristige Einsatz systemischer
 
@@ -291,9 +285,7 @@ Sympathomimetikums besteht. Diese Angabe ist für die Qualitätssicherung notwen
 
 Eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.
 
-Geben Sie bitte an, ob eine Bedarfs - und/oder Dauertherapie mit system ischen (oralen)
-
-Glukokortikosteroiden durchgeführt wird. Bitte geben Sie bei „
+Geben Sie bitte an, ob eine Bedarfs- und/oder Dauertherapie mit systemischen (oralen)  Glukokortikosteroiden durchgeführt wird. Bitte geben Sie bei „
 
 ob eine Kontraindikation gegen die Gabe eines systemischen Glukokortikosteroids besteht. Diese  Angabe ist für die Qualitätssicherung notwendig.
 
@@ -309,35 +301,23 @@ Die Ausprägung „Andere“ umfasst z. B. Anticholinergika oder auch Anti-IgE A
 
 Genau eine Angabe ist erforderlich.
 
-Sie sollten die Inhalationstechnik Ihrer Patientin bzw.
-
-Dokumentationszeitraum überprüfen.
+Sie sollten die Inhalationstechnik Ihrer Patientin bzw. Ihres Patienten mindestens einmal im  Dokumentationszeitraum überprüfen.
 
 Geben Sie hier bitte an, ob Sie dies bei der heutigen Konsultation getan haben.
 
-- oraler Glukokortikosteroide (maximal
+- oraler Glukokortikosteroide (maximal bis zu
+
+Keine“ gegebenenfalls zusätzlich an, ob eine
 
 Keine“ gegebenenfalls zusätzlich an,
 
-Keine“ gegebenenfalls zusätzlich an,
-
-eines inhalativen lang wirksamen
+eines inhalativen lang wirksamen Beta-2-
 
 Keine“ gegebenenfalls zusätzlich an,
 
-eines kurz wirksamen inhalativen
+eines kurz wirksamen inhalativen Beta-2-
 
 Keine“ gegebenenfalls zusätzlich an,
-
-- bis zu
-
-ob eine
-
-Beta -2-
-
-Beta -2-
-
-Ihres Patienten mindestens einmal im
 
 
 ---
@@ -386,7 +366,7 @@ Eine Angabe ist erforderlich.
 
 Die Angaben zur Schulung beziehen sich hier ausschließlich rückblickend auf eine Schulung, die
 
-Sie Ihrer Patientin bzw. Ihrem Patienten bei dem letzten Dokumentationstermin empfohlen haben,  und sind daher nur im Rahmen einer **Folgedokumentation** möglich und verpflichtend . Bei der
+Sie Ihrer Patientin bzw. Ihrem Patienten bei dem letzten Dokumentationstermin empfohlen haben,  und sind daher nur im Rahmen einer **Folgedokumentation** möglich und verpflichtend. Bei der
 
 Erstdokumentation ist hier keine Angabe möglich
 
@@ -398,7 +378,7 @@ nachvollziehbaren Grund nicht wahrgenommen haben, geben Sie bitte „ Nein“ an
 
 kann bei wiederholter Angabe zum Ausschluss der/des Versicherten aus dem Programm führen!
 
-Die Ausprägung „ War aktuell nicht möglich“ ist anzukreuzen, wenn die Schulung innerhalb des
+Die Ausprägung „War aktuell nicht möglich“ ist anzukreuzen, wenn die Schulung innerhalb des
 
 Dokumentationsintervalls (jedes Quartal oder jedes zweite Quartal) wegen nachvollziehbarer  Gründe nicht wahrgenommen werden konnte. Solche Gründe können z. B. sein: Fehlende  Schulungskapazität, Krankenhausaufenthalt der Patientin bzw. des Patienten, private Gründe. Die  Beurteilung, ob die Gründe nachvollziehbar sind, obliegt alleine Ihnen und der Patientin bzw. dem  Patienten.
 

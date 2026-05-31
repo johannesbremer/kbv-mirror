@@ -279,11 +279,7 @@ Die geforderten Videomitschnitte, Screenshots und die Teilnahmeerklärung (Prüf
 
 einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.
 
-- 1
-
-- 2 3
-
--  PrüffallNr. _[lfdNr.] .*
+- PrüffallNr. 1_[lfdNr.]2 3
 
 - Teilnahmeerklärung (Prüffall 6240): TE_EWE_DE.pdf
 
@@ -617,7 +613,7 @@ Antidepressiva depressionsspezifischen Schulung teilgenommen aktueller Dokumenta
 |  |  |
 |---|---|
 | **Prüffall-ID** | 6220 |
-| **Testziel** | Einschreibung |
+| **Testziel** | Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider |
 | **Voraussetzung** |  |
 | **Prüfunterlagen** | 1. DMP Depression Dokumentationsunterlagen 2. zusätzlich DMP Diabetes mellitus Typ 2 Dokumentationsunterlagen |
 | **Hinweis** | Sofern das System eine Zulassung für die Indikation |
@@ -647,7 +643,7 @@ Jeweils für die Erst- und Folgedokumentation die Antworten auf die Fragen des d
 
 PHQ-9 erfassen und
 
-Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider müssen die entsprechenden Daten ebenfalls dokumentiert werden. Sollte d System diese Zulassung nicht besitzen, dann sind nur die Depression-Daten zu übermitteln. Diabetes mellitus Typ 2 verfügt, letzten 2 Wochen durch die folgenden Beschwerden beeinträchtigt? Wenig Interesse oder Freude an Ihren Tätigkeiten Hoffnungslosigkeit. Schwierigkeiten ein- oder durchzuschlafen oder vermehrter Schlaf haben Verminderter Appetit oder übermäßiges Bedürfnis zu essen Gefühl, ein Versager zu sein oder die Familie enttäuscht zu haben Schwierigkeiten, sich auf etwas zu konzentrieren, z.B. beim Zeitunglesen oder Fernsehen Tage (2) Tage (2) Tage (2) Tage (2) Tage (2) Tage (2) Tage (2)
+Einschreibung müssen die entsprechenden Daten ebenfalls dokumentiert werden. Sollte d System diese Zulassung nicht besitzen, dann sind nur die Depression-Daten zu übermitteln. Diabetes mellitus Typ 2 verfügt, letzten 2 Wochen durch die folgenden Beschwerden beeinträchtigt? Wenig Interesse oder Freude an Ihren Tätigkeiten Hoffnungslosigkeit. Schwierigkeiten ein- oder durchzuschlafen oder vermehrter Schlaf haben Verminderter Appetit oder übermäßiges Bedürfnis zu essen Gefühl, ein Versager zu sein oder die Familie enttäuscht zu haben Schwierigkeiten, sich auf etwas zu konzentrieren, z.B. beim Zeitunglesen oder Fernsehen Tage (2) Tage (2) Tage (2) Tage (2) Tage (2) Tage (2) Tage (2)
 
 ---
 
@@ -711,7 +707,7 @@ anderen auffallen würde? Oder waren Sie im Gegenteil „zappelig“ oder ruhelo
 | **Nicht-medikamentöse und medikamentöse Behandlung** | | | |
 | DEP | Aktuelle | Nein | Ja |
 
-Summenwert Ausscheidung (bei Insulintherapie) Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr)  PHQ-9 Dokumentation wegen Diabetes mellitus seit der letzten Dokumentation Psychotherapie persistierend häufiger persistierend Hyperkeratose mit Einblutung
+PHQ-9 Summenwert Ausscheidung (bei Insulintherapie) Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr) Dokumentation wegen Diabetes mellitus seit der letzten Dokumentation Psychotherapie persistierend häufiger persistierend Hyperkeratose mit Einblutung
 
 ---
 
@@ -763,7 +759,7 @@ das Diabetische Fußsyndrom qualifizierten Einrichtung
 | **Prüffall-ID** | 6214 |
 | **Testziel** | Kontrolle der softwareseitigen Erkennung von Fehleingaben |
 | **Voraussetzung** |  |
-| **Prüfunterlagen** | Fehlermeldungen.    Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ |
+| **Prüfunterlagen** | Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis   Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ |
 | **Hinweis** | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
@@ -793,7 +789,7 @@ Die Personalien zu dem Testfall sind frei wählbar.
 | **Behandlungsplanung** | | |
 | Vom Patienten gewünschte Informationsangebote der | Nicht möglich | Nr. 6 |
 
-Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. sind. markierten - bzw. Krankenkasse
+Fehlermeldungen. Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. sind. - bzw. markierten Krankenkasse
 
 ---
 
@@ -914,9 +910,9 @@ Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP dies
 |  | |
 |---|---|
 | **Prüffall-ID** | 6240 |
-| **Testziel** | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
+| **Testziel** | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP  ) |
 | **Voraussetzung** |  |
-| **Prüfunterlagen** | Einwilligungserklärung |
+| **Prüfunterlagen** | PDF-Datei |
 | **Hinweis** | Falls Ihr System die optionale Anforderung O7 |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
@@ -936,7 +932,7 @@ Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 | DMP-Fallnummer | 1010 |
 | Datum | 05.04.2023 |
 
-Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP PDF-Datei „TE_EWE_DE.pdf“ der indikationsübergreifenden Teilnahme - und -10 (Ausdruck des Barcodes auf der indikationsübergreifenden Teilnahme - und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
+(KBV_ITA_VGEX_Anforderungskatalog_eDMP „TE_EWE_DE.pdf“ der indikationsübergreifenden Teilnahme - und Einwilligungserklärung  -10 (Ausdruck des Barcodes auf der indikationsübergreifenden Teilnahme - und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
 
 ---
 
@@ -1102,12 +1098,12 @@ REFERENZIERTE DOKUMENTE
 | KBV_ITA_VGEX_Schnittstelle_eHeader | Dokumentation eHeader-Schnittstellenbeschreibung |
 | XPM-Paket_DE | Prüfmodul eDMP Depression |
 | XPM-Paket_DM2 | Prüfmodul eDMP Diabetes mellitus 2 |
-| Austausch_von_XML-Daten_Vn.nn.ZIP 4 | Austausch von XML Daten in der Vertragsärztlichen |
+| Austausch_von_XML-Daten_Vn.nn.ZIP4 | Austausch von XML Daten in der Vertragsärztlichen |
 | KBV_ITA_RLEX_Zert | Zertifizierungsrichtlinie der KBV |
 | KBV_ITA_FMEX_AAZ_eDMP_DE | Antrag auf Zertifizierung eDMP Depression |
 | Prüfstammdateien | KBV-Stammdateien mit der Dateinamens |
 | KBV-Kryptomodul (XKM) und öffentlicher Test | KBV-Kryptomodul |
-| VSD_5.2.0_Testfaelle_Vn.n.zip 5 | eGK Daten (im XML-Format), Versichtertenstammdaten |
+| VSD_5.2.0_Testfaelle_Vn.n.zip5 | eGK Daten (im XML-Format), Versichtertenstammdaten |
 | KBV_ITA_VGEX_Schnittstelle_SDDA | Datensatzbeschreibung SDDA (Datenannahmestellen |
 | KBV_ITA_VGEX_Schnittstelle_SDKT | Datensatzbeschreibung SDKT |
 

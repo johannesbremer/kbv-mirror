@@ -34,195 +34,145 @@
 
 **Anbieter**
 
-CompuGroup Medical Deutschland AG
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-medatixx GmbH & Co. KG
-
-medatixx GmbH & Co. KG
-
-CompuGroup Medical Deutschland AG
-
-Zollsoft GmbH
-
-CompuGroup Medical Deutschland AG
-
-INDAMED EDV-Entwicklung und Vertrieb GmbH
-
-T 2med GmbH & Co. KG
-
-medatixx GmbH & Co. KG
-
-Dedalus HealthCare GmbH
-
-Duria eG
-
-S 3 Praxiscomputer GmbH / Maximilian Flender
-
-CompuGroup Medical Deutschland AG 1
-
-**Installationen 2.Q.2025**
-
-465
-
-283
-
-205
-
-173
-
-144
-
-138
-
-126
-
-113
-
-100
-
-99
-
-85
-
-85
-
-66
-
-**Installationen 1.Q.2025**
+CompuGroup Medical Deutschland AG 465
 
 454
 
-280
-
-217
-
-177
-
-138
-
-142
-
-124
-
-109
-
-100
-
-98
-
-86
-
-86
-
-67
-
-**Differenz**
-
 11
+
+medatixx GmbH & Co. KG 283
+
+280
 
 3
 
+medatixx GmbH & Co. KG 205
+
+217
+
 -12
 
+CompuGroup Medical Deutschland AG 173
+
+177
+
 -4
+
+Zollsoft GmbH 144
+
+138
 
 6
 
+CompuGroup Medical Deutschland AG 138
+
+142
+
 -4
+
+INDAMED EDV-Entwicklung und Vertrieb GmbH 126 124
 
 2
 
+T 2med GmbH & Co. KG 113
+
+109
+
 4
+
+medatixx GmbH & Co. KG 100
+
+100
 
 0
 
+Dedalus HealthCare GmbH 99
+
+98
+
 1
 
--1
+Duria eG 85
+
+86
 
 -1
 
+S 3 Praxiscomputer GmbH / Maximilian Flender 85 86
+
 -1
+
+CompuGroup Medical Deutschland AG 66
+
+67
+
+-1
+
+1
 
 
 ---
 
 **Id Praxissoftware**
 
-266 **x.comfort**
-
-244 **QUINCY WIN**
-
-030 **Praxis-Programm**
-
-238 **InterMediNet KVDT**
-
-343 **SAP Ambulatory Care Management**
-
-135 **EL - Elaphe Longissima**
-
-083 **PegaMed**
-
 **Anbieter**
 
-medatixx GmbH & Co. KG
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-Frey ADV GmbH
+266 **x.comfort**
 
-MediSoftware Computersysteme für Ärzte
-
-DBI Informatik, Dirk Blume
-
-SAP SE
-
-medatixx GmbH & Co. KG
-
-PEGA Elektronik GmbH 2
-
-**Installationen 2.Q.2025**
-
-64
-
-60
-
-57
-
-51
-
-45
-
-43
-
-28
-
-**Installationen 1.Q.2025**
+medatixx GmbH & Co. KG 64
 
 65
 
-63
-
-58
-
-53
-
-46
-
-41
-
-28
-
-**Differenz**
-
 -1
+
+244 **QUINCY WIN**
+
+Frey ADV GmbH 60
+
+63
 
 -3
 
+030 **Praxis-Programm**
+
+MediSoftware Computersysteme für Ärzte 57
+
+58
+
 -1
+
+238 **InterMediNet KVDT**
+
+DBI Informatik, Dirk Blume 51
+
+53
 
 -2
 
+343 **SAP Ambulatory Care Management** SAP SE 45
+
+46
+
 -1
+
+135 **EL - Elaphe Longissima**
+
+medatixx GmbH & Co. KG 43
+
+41
 
 2
 
+083 **PegaMed**
+
+PEGA Elektronik GmbH 28
+
+28
+
 0
+
+2

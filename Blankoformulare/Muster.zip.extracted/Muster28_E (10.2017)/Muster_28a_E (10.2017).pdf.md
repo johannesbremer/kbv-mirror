@@ -2,7 +2,11 @@
 
 **Name, Vorname des Versicherten**
 
+**geb. am**
+
 **Kostenträgerkennung Versicherten-Nr.**
+
+**Status**
 
 **Arzt-Nr.**
 
@@ -10,13 +14,19 @@
 
 **Datum**
 
+|  | **wird** |  | **wird** |  |
+|---|---|---|---|---|
+|  | **vermieden** |  | **verkürzt** |  |
+
 **Krankenhausbehandlung**
 
 **Erklärung des Arztes** **Mit dem Ziel, die Überweisung des Versicherten an einen verordnungsberechtigten** **Facharzt/Psychotherapeuten sicherzustellen, ziehe ich folgenden soziotherapeutischen** **Leistungserbringer hinzu** **Name des soziotherapeutischen Leistungserbringers**
 
 **Straße**
 
-**PLZ** **Ort**
+**PLZ**
+
+**Ort**
 
 **Für das Ausstellen dieses Vordrucks ist die Nr. 30800 EBM** **berechnungsfähig.**
 
@@ -36,19 +46,11 @@
 
 **BIC**
 
-**geb. am**
-
-**Status**
-
-|  | **wird** |  | **wird** |  |
-|---|---|---|---|---|
-|  | **vermieden** |  | **verkürzt** |  |
-
-**Geldinstitut**
-
 ***Diese Ausfertigung ist vom soziotherapeutischen Lei*** ***an die Krankenkasse weiterzuleiten!***
 
 **Ausfertigung für die Krankenkasse**
+
+**PRF.NR.** **Muster 28a/E(10.2017)**
 
 **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
 
@@ -59,6 +61,8 @@
 ***(ICD-10-Code***
 
 **Erkrankung besteht seit (falls bekannt)**
+
+**Geldinstitut**
 
 ***stungserbringer***
 
@@ -75,5 +79,3 @@
 **Stempel und Unterschrift**
 
 **des soziotherapeutischen Leistungserbringers**
-
-**PRF.NR.** **Muster 28a/E(10.2017)**

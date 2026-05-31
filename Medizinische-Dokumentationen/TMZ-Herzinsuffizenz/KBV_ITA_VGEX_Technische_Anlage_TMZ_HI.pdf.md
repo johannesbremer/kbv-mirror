@@ -146,9 +146,7 @@ Erfassung von Daten pro Patient Erstellung einer in bis zu 4 Strata aufgeteilten
 
 ---
 
-# 2 ERFASSUNG DER BEHANDLUNGSBEZOGENEN DATEN PRO PA-
-
-# TIENT
+# 2 ERFASSUNG DER BEHANDLUNGSBEZOGENEN DATEN PRO PA- TIENT
 
 Um softwareseitig die Berechnung der Jahresstatistik gemäß der  Softwaresystem in der Lage sein, die notwendigen behandlungsbezogene TMZ zu erfassen.
 
@@ -199,7 +197,7 @@ PLAUSIBILI- -NR. STELLEN TÄTSPRÜFUNG (entweder Feld-Nr. 03 oder Feld-Nr. 04) g
 | 10 | ANZ_BNR_PBA | M | numerisch | 1-2 | Anzahl der Benachrichtigungen | zweistellige Zahl ohne füh- |
 | 11 | STAT_AUFN_VOR_TM | M | numerisch | 1 | Zutreffend, wenn im Zeitraum eines Jahres  Diese Zahl bezieht sich auf den Zustand | einstellige Zahl; |
 
--NR. STELLEN TÄTSPRÜFUNG des PBA in Bezug auf den Patienten übernommen hat tenjahr minus Geburtsjahr des Patienten) führende Null (Beispiel: 23)   für den Patienten (Anzahl Tage mit vollständiger Daten- übertragung dividiert durch Anzahl der Tage des Daten- jahres) mit zwei Nachkomma-Stel- len  (Beispiel: 0.75 oder 1.00) mit max. 2 Nachkommas- tellen (es wird kaufmän- nisch gerundet)  für den Patienten vom TMZ an den PBA rende Null (Beispiel: 4 oder 34) vor Be- ginn des Telemonitorings mindestens eine stationäre Aufnahme wegen kardialer Dekompensation erfolgte  Beginn des TM. Diese Angabe muss für jeden Patienten in JEDER Jahresstatistik  wiederholt angegeben werden wenn zutreffend = 1,  sonst 0
+-NR. STELLEN TÄTSPRÜFUNG des PBA in Bezug auf den Patienten übernommen hat tenjahr minus Geburtsjahr des Patienten) führende Null (Beispiel: 23)  den Patienten (Anzahl Tage mit vollständiger Daten- übertragung dividiert durch Anzahl der Tage des Daten- jahres)  für mit zwei Nachkomma-Stel- len  (Beispiel: 0.75 oder 1.00) mit max. 2 Nachkommas- tellen (es wird kaufmän- nisch gerundet)  für den Patienten vom TMZ an den PBA rende Null (Beispiel: 4 oder 34) ginn des Telemonitorings mindestens eine stationäre Aufnahme wegen kardialer Dekompensation erfolgte vor Be- TM. Diese Angabe muss für jeden Patienten Jahresstatistik  wiederholt angegeben werden  Beginn des in JEDER wenn zutreffend = 1,  sonst 0
 
 ---
 
@@ -294,10 +292,10 @@ TYP STELLEN ITÄTSPRÜFUNG JAHR der Angabe des Vorjahres des Be- richtsjahres ze
 | FELD-NR. | FELD | FELDART | DATEN- | ANZAHL DER | BESCHREIBUNG | BEISPIEL | HINWEIS / PLAUSIBIL- |
 |---|---|---|---|---|---|---|---|
 |  |  |  |  |  |  |  | - 2-stelliger Schlüssel Feld-Nr. 02, ge- |
-| 04 | TM_ART | M | nume- | 1 | 1: Telemonitoring mit Im- 2: Telemonitoring mit exter-   4: intensiviertes Telemonito- | oder 3 | Die Feld-Nr. 04 enthält den Wert,  Es kann vorkommen, dass Patienten  welcher der Patient am längsten |
+| 04 | TM_ART | M | nume- | 1 | 1: Telemonitoring mit Im- 2: Telemonitoring mit exter- 3: normales Telemonitoring 4: intensiviertes Telemonito- | 1 oder 2 | Die Feld-Nr. 04 enthält den Wert,  Es kann vorkommen, dass Patienten  welcher der Patient am längsten |
 | 05 | ANZ_PAT | M | nume- | 1-5 | Anzahl der vom TMZ mit Te-**P 1-130**) | 34 | maximal fünfstellige Zahl ohne füh- |
 
-BEZEICHNUNG TYP risch risch STELLEN plantaten  nen Geräten 3: normales Telemonitoring lemonitoring versorgten Pa- tienten je TM_Art gem. Feld- Nr. 03 bis 06 gem. Tab. 1 (siehe Anforderung 1 oder 2 oder 4 ITÄTSPRÜFUNG folgt von einem Minuszeichen, ge- folgt von einem 4-stelligen alphanu- merischen Zufallskennzeichen welcher die Art des Telemonitorings beschreibt (gem. der Feld-Nr. 03 bis 06 der Tab. 1). Die vier verschiede- nen csv-Datenstrings in der jeweili- gen TMZ-Datei ergeben sich aus den Feld-Nr. 03 bis 06 gem. Tab. 1 und werden daraus entsprechend er- zeugt.  in einem Datenjahr sowohl die eine als auch die andere Telemonitoring Art erhalten. In der Jahresstatistik wird die TM-Art ausgewertet, unter während des Datenjahres behandelt wurde. rende Nullen
+BEZEICHNUNG TYP risch risch STELLEN plantaten  nen Geräten oder 3 oder 4 lemonitoring versorgten Pa- tienten je TM_Art gem. Feld- Nr. 03 bis 06 gem. Tab. 1 (siehe Anforderung ITÄTSPRÜFUNG folgt von einem Minuszeichen, ge- folgt von einem 4-stelligen alphanu- merischen Zufallskennzeichen welcher die Art des Telemonitorings beschreibt (gem. der Feld-Nr. 03 bis 06 der Tab. 1). Die vier verschiede- nen csv-Datenstrings in der jeweili- gen TMZ-Datei ergeben sich aus den Feld-Nr. 03 bis 06 gem. Tab. 1 und werden daraus entsprechend er- zeugt.  in einem Datenjahr sowohl die eine als auch die andere Telemonitoring Art erhalten. In der Jahresstatistik wird die TM-Art ausgewertet, unter während des Datenjahres behandelt wurde. rende Nullen
 
 ---
 
@@ -341,10 +339,10 @@ TYP STELLEN ITÄTSPRÜFUNG Tab. 2  risch Anteils der Tage mit voll- ständiger D
 | FELD-NR. | FELDBEZEICHNUNG | FELDART | DATEN- | ANZAHL DER | BESCHREIBUNG | BEISPIEL | HINWEIS / PLAUSIBIL- |
 |---|---|---|---|---|---|---|---|
 |  |  |  |  |  |  |  | unter Berücksichtigung der |
-| 14 | MW_ANZ_BNR_PBA | M | risch | 1-3,  Nachkomma: | Mittelwert der Anzahl der  Berechnungshinweis:   Die Berechnung des Mittel- | 34.56  34,56 | Nachkommastellen, ohne führende  (es wird kaufmännisch gerundet) |
-| 15 | SD_ANZ_BNR_PBA | M | nume- | 1-3,  Nachkomma: | Berechnung der Standardab- | 14.53  14,53 | Nachkommastellen, ohne führende  (es wird kaufmännisch gerundet) |
+| 14 | MW_ANZ_BNR_PBA | M | nume- | Vorkomma:  Nachkomma: | Mittelwert der Anzahl der  Berechnungshinweis:   Die Berechnung des Mittel- | 34.56  34,56 | maximal dreistellige Zahl mit 2  (es wird kaufmännisch gerundet) |
+| 15 | SD_ANZ_BNR_PBA | M | nume- | Vorkomma:  Nachkomma: | Berechnung der Standardab- | 14.53  14,53 | maximal dreistellige Zahl mit 2  (es wird kaufmännisch gerundet) |
 
-TYP STELLEN jeweiligen TM-Art gem. Feld- Nr. 03 bis 06 gem. Tab. 1  Benachrichtigungen an den primär behandelnden Arzt (PBA) unter Berücksichti- gung der jeweiligen TM-Art gem. Feld-Nr. 03 bis 06 gem. Tab. 1. Vorkomma: 2 wertes erfolgt mit den Wer- ten der Feld-Nr. 10 gem. Tab. 1 unter Berücksichti- gung der Anzahl der jeweili- gen TM-Art des Patienten gemäß dem Wert Feld-Nr. Vorkomma: 2 05 gem. Tab. 2. weichung über die Anzahl der Benachrichtigungen an den primär behandelnden Arzt (PBA) für Feld-Nr. 14 gem. Tab. 2, unter Berück- sichtigung der jeweiligen ITÄTSPRÜFUNG maximal dreistellige Zahl mit 2 Nullen maximal dreistellige Zahl mit 2 Nullen
+TYP STELLEN jeweiligen TM-Art gem. Feld- Nr. 03 bis 06 gem. Tab. 1  Benachrichtigungen an den primär behandelnden Arzt (PBA) unter Berücksichti- gung der jeweiligen TM-Art gem. Feld-Nr. 03 bis 06 gem. Tab. 1. 1-3, risch wertes erfolgt mit den Wer- ten der Feld-Nr. 10 gem. Tab. 1 unter Berücksichti- gung der Anzahl der jeweili- gen TM-Art des Patienten gemäß dem Wert Feld-Nr. risch 1-3, 05 gem. Tab. 2. weichung über die Anzahl der Benachrichtigungen an den primär behandelnden Arzt (PBA) für Feld-Nr. 14 gem. Tab. 2, unter Berück- sichtigung der jeweiligen ITÄTSPRÜFUNG Nachkommastellen, ohne führende Nullen Nachkommastellen, ohne führende Nullen
 
 ---
 
@@ -362,7 +360,7 @@ TYP STELLEN ITÄTSPRÜFUNG 06 gem. Tab. 1. dardabweichung erfolgt mit den Werten
 | 17 | MD_ANZ_PAT_STAT_VOR_TMZ | M | nume- | Vorkomma:  Nachkomma: | Berechnung des Medians  Berechnungshinweis:   Die Berechnung des Medi- | 55.00  55,00 | maximal fünfstellige Zahl mit 2  (es wird kaufmännisch gerundet) |
 | 18 | MW_ANZ_PAT_STAT_VOR_TMZ | M | nume- | Vorkomma:  Nachkomma | Angabe des Mittelwertes  Berechnungshinweis: | 34.53  34,53 | maximal fünfstellige Zahl mit 2  (es wird kaufmännisch gerundet) |
 
-TYP STELLEN über die Anzahl der stationä- ren Aufnahmen wegen kar- dialer Dekompensation bei risch  1-5, Patienten gem. Feld-Nr. 16 gem. Tab 2.; unter Berück- sichtigung der jeweiligen TM-Art gem. Feld-Nr. 03 bis 06 gem. Tab. 1 risch  ans erfolgt mit den Werten der Feld-Nr. 12 gemäß Tab. 1 unter Berücksichtigung der jeweiligen TM-Art gem. Feld- Nr. 03 bis 06 gem. Tab. 1 über die Anzahl der stationä- ren Aufnahmen wegen kar- dialer Dekompensation bei 1-5, Patienten gem. Feld-Nr. 16 gem. Tab. 2.; unter Berück- sichtigung der jeweiligen TM-Art gem. Feld-Nr. 03 bis 06 gem. Tab. 1 ITÄTSPRÜFUNG Nachkommastellen, ohne führende Nullen Nachkommastellen, ohne führende Nullen
+TYP STELLEN über die Anzahl der stationä- ren Aufnahmen wegen kar- dialer Dekompensation bei 1-5, risch  Patienten gem. Feld-Nr. 16 gem. Tab 2.; unter Berück- sichtigung der jeweiligen TM-Art gem. Feld-Nr. 03 bis 06 gem. Tab. 1 risch  ans erfolgt mit den Werten der Feld-Nr. 12 gemäß Tab. 1 unter Berücksichtigung der jeweiligen TM-Art gem. Feld- Nr. 03 bis 06 gem. Tab. 1 über die Anzahl der stationä- ren Aufnahmen wegen kar- dialer Dekompensation bei 1-5, Patienten gem. Feld-Nr. 16 gem. Tab. 2.; unter Berück- sichtigung der jeweiligen TM-Art gem. Feld-Nr. 03 bis 06 gem. Tab. 1 ITÄTSPRÜFUNG Nachkommastellen, ohne führende Nullen Nachkommastellen, ohne führende Nullen
 
 ---
 
@@ -388,10 +386,10 @@ TYP STELLEN ITÄTSPRÜFUNG gen TM-Art gem. Feld-Nr. 03 bis 06 gem. Tab. 1 ans er
 | FELD-NR. | FELDBEZEICHNUNG | FELDART | DATEN- | ANZAHL DER | BESCHREIBUNG | BEISPIEL | HINWEIS / PLAUSIBIL- |
 |---|---|---|---|---|---|---|---|
 |  |  |  |  |  |  |  | 1, unter Berücksichtigung |
-| 22 | MW_ANZ_PAT_STAT_TMZ | M | nume- | Vorkomma:  Nachkomma: | Mittelwert der Anzahl der  stationären Aufnahmen we- der Feld-Nr. 20 gem. Tab. 2.;  Berechnungshinweis:   Die Berechnung des Mittel- | 102.36  102,36 | Nullen  (es wird kaufmännisch gerundet) |
+| 22 | MW_ANZ_PAT_STAT_TMZ | M | nume- | Vorkomma:  Nachkomma: | Mittelwert der Anzahl der  stationären Aufnahmen we- der Feld-Nr. 20 gem. Tab. 2.;  Berechnungshinweis:   Die Berechnung des Mittel- | 102.36  102,36 | maximal fünfstellige Zahl mit 2  (es wird kaufmännisch gerundet) |
 | 23 | SD_ANZ_PAT_STAT_TMZ | M | nume- | Vorkomma:  Nachkomma: | Standardabweichung der  Anzahl der stationären Auf- ten für gem. der Feldnr. 22 | 14.53  14,53 | maximal fünfstellige Zahl mit 2  (es wird kaufmännisch gerundet) |
 
-TYP STELLEN der jeweiligen TM-Art gem. Feld-Nr. 03 bis 06 gem. Tab. 1. gen kardialer Dekompensa- tion bei Patienten gemäß unter Berücksichtigung der jeweiligen TM-Art gem. Feld- 1-5, Nr. 03 bis 06 gem. Tab. 1. risch  wertes erfolgt mit den Wer- ten aus der Feld-Nr. 14 ge- mäß Tab. 1, unter Berück- sichtigung der Anzahl der Patienten gemäß dem Wert risch  1-5, nahmen wegen kardialer Dekompensation bei Patien- ITÄTSPRÜFUNG Nachkommastellen, ohne führende Nachkommastellen, ohne führende
+TYP STELLEN der jeweiligen TM-Art gem. Feld-Nr. 03 bis 06 gem. Tab. 1. gen kardialer Dekompensa- tion bei Patienten gemäß unter Berücksichtigung der jeweiligen TM-Art gem. Feld- 1-5, Nr. 03 bis 06 gem. Tab. 1. risch  wertes erfolgt mit den Wer- ten aus der Feld-Nr. 14 ge- mäß Tab. 1, unter Berück- sichtigung der Anzahl der Patienten gemäß dem Wert risch  1-5, nahmen wegen kardialer Dekompensation bei Patien- ITÄTSPRÜFUNG Nachkommastellen, ohne führende Nullen Nachkommastellen, ohne führende Nullen
 
 ---
 

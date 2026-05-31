@@ -139,45 +139,23 @@ Abbildung 4 – allgemeiner Aufbau Sciphox- SSU observation ....................
 
 #### TABELLENVERZEICHNIS
 
-Tabelle 1 – Hörgeräteerstversorgung .......................................................................................
+Tabelle 1 – Hörgeräteerstversorgung ....................................................................................... 15
 
-Tabelle 2 – Sprachentwicklungsstörung ...................................................................................
+Tabelle 2 – Sprachentwicklungsstörung ................................................................................... 16
 
-Tabelle 3 – Lokalisation............................................................................................................
+Tabelle 3 – Lokalisation............................................................................................................ 17
 
-Tabelle 4 – Schweregrad der Hörstörung (WHO 2001)
+Tabelle 4 – Schweregrad der Hörstörung (WHO 2001) ........................................................... 18
 
-Tabelle 5 – Ä rztlicher Vorschlag zur Gerätetechnik: Luftleitung...............................................
+Tabelle 5 – Ä rztlicher Vorschlag zur Gerätetechnik: Luftleitung............................................... 19
 
-Tabelle 6 – Ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung ......................................
+Tabelle 6 – Ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung ...................................... 20
 
-Tabelle 7 – Der Hörgeräteversorgungsvorschlag entspricht dem aufgestellten  Versorgungskonzept .............................................................................................
+Tabelle 7 – Der Hörgeräteversorgungsvorschlag entspricht dem aufgestellten  Versorgungskonzept ............................................................................................. 22
 
-Tabelle 8 – Hörgeräte-Versorgungserfolg ermittelt durch
+Tabelle 8 – Hörgeräte-Versorgungserfolg ermittelt durch ........................................................ 23
 
-Tabelle 9 – Kooperation erfolgt mit ..........................................................................................
-
-...........................................................
-
-........................................................
-
-15
-
-16
-
-17
-
-18
-
-19
-
-20
-
-22
-
-23
-
-24
+Tabelle 9 – Kooperation erfolgt mit .......................................................................................... 24
 
 
 ---
@@ -186,13 +164,13 @@ Tabelle 9 – Kooperation erfolgt mit ..........................................
 
 Diese Schnittstellenbeschreibung definiert, wie die Daten ausgetauscht werden, die im Rah- men der "QS Hörgeräteversorgung Kinder" dokumentiert werden müssen.
 
-Formale und technische Grundlage dieser Schnittstelle ist CDA/HL7 . Insbesondere werden  V-Attribute für Werte anstelle von öffnenden und schließenden Tags benutzt.
+Formale und technische Grundlage dieser Schnittstelle ist CDA/HL7 V-Attribute für Werte anstelle von öffnenden und schließenden Tags benutzt.
 
 In den weiteren Kapiteln dieses Dokuments werden die einzelnen Abschnitte des Bogens an- hand von Ausschnitten veranschaulicht. Die XML-Dateien werden gegen das durch die KBV  erweiterte HL7/SCIPHOX-Schema und das KBV-Prüfschema QSHGVK
 
 Die Schnittstelle wurde gemäß den Plausibilitäten [KBV_ITA_VGEX_Plausi_QSHGVK] ent- worfen. Die Daten in der Schnittstelle sind gegen diese Plausibilitäten vor dem Export zu prü- fen.
 
-1 [http://www.HL7.de/](http://www.HL7.de/) 1
+1 [http://www.HL7.de/](http://www.HL7.de/) 1. Insbesondere werden
 
 .xsd geprüft.
 
@@ -725,9 +703,7 @@ ordnung / Verordnung“. Der Body enthält hier nur die Abschnitte „“. wie f
 \|---|
 \| <sciphox:Beobachtung>          </sciphox:sciphox-ssu>  </local_markup>  </content> |
 
-<sciphox:Parameter DN="Kooperation erfolgt mit"/> <sciphox:Ergebniswert V="Logopäde"/> </sciphox:Beobachtungen> 6.1.2.1 Der Hörgeräteversorgungsvorschlag entspricht dem aufgestellten Ver- zeichnung gemäß Tabelle 7. B Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg. <sciphox:Parameter DN="Der Hörgeräteversorgungsvorschlag entspricht dem aufgestellten Ve XML-Code 25 – content (Nachsorge) sciphox:Ergebniswert  im ei diesem Parameter kann nur ein Feld ausgewählt werden. -e- Attribut die Feldb r- sorgungskonzept"/> <sciphox:Ergebniswert V="Ja"/> zeichnung gemäß Tabelle 5. Ber den. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg. <sciphox:Parameter DN="Abweichung in Luftleitung"/> sciphox:Ergebniswert  im -e- Attribut die Feldb  ausgewählt wer- <sciphox:Ergebniswert V="HdO"/> sciphox:Ergebnistext Anwenders. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg.  im -Attribut den Freitext des
-
-\| ** <>     </sciphox:Beobachtung> |
+<sciphox:Parameter DN="Kooperation erfolgt mit"/> <sciphox:Ergebniswert V="Logopäde"/> </sciphox:Beobachtungen> 6.1.2.1 Der Hörgeräteversorgungsvorschlag entspricht dem aufgestellten Ver- zeichnung gemäß Tabelle 7. B Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg. <sciphox:Parameter DN="Der Hörgeräteversorgungsvorschlag entspricht dem aufgestellten Ve XML-Code 25 – content (Nachsorge) ei diesem Parameter kann nur ein Feld ausgewählt werden. sorgungskonzept"/> <sciphox:Ergebniswert V="Ja"/> zeichnung gemäß Tabelle 5. Ber den. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg. <sciphox:Parameter DN="Abweichung in Luftleitung"/> <sciphox:Ergebniswert V="HdO"/> Anwenders. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg. sciphox:Ergebniswert  im sciphox:Ergebniswert  im sciphox:Ergebnistext  im -Attribut den Freitext des -e- Attribut die Feldb r- -e- Attribut die Feldb  ausgewählt wer-| ** <>     </sciphox:Beobachtung> |
 \|---|
 
 \| **Wert bei Ergebniswert** |
@@ -791,9 +767,9 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **in Luftleitung andere**
 
-**in Knochenleitung**
-
 im
+
+**in Knochenleitung**
 
 im
 
@@ -888,4 +864,4 @@ Als Beispiel sei hier folgender Code angegeben:
 | [KBV_ITA_VGEX_XML-Schnittstellen] | Richtlinie zum Austausch von XML |
 | [KBV_ITA_VGEX_Schnittstelle_eHeader] | Schnittstellenbeschreibung eDoku |
 
-e- räteversorgung -Daten in der ver- tragsärztlichen Versorgung, in aktuellster Version -Header, in aktu- ellster Version
+räteversorgung tragsärztlichen Versorgung, in ellster Version e- -Daten in der ver- aktuellster Version -Header, in aktu-

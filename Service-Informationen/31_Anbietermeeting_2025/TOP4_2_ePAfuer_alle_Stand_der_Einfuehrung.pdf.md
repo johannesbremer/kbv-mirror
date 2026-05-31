@@ -94,6 +94,8 @@ Daten der gematik – - **DATEN GEMATIK**
 
 **1.**
 
+**8.**
+
 **2.**
 
 **3.**
@@ -103,6 +105,8 @@ Daten der gematik – - **DATEN GEMATIK**
 **5.**
 
 **6.**
+
+**12.**
 
 ## Arztbrief erstellen
 
@@ -114,25 +118,17 @@ Daten der gematik – - **DATEN GEMATIK**
 
 ## ePA öffnen
 
-## Arztbrief suchen
+## Arztbrief suchen - **BLICK IN DIE ARZTPRAXIS**
 
-**7.**
+**7.** Metadaten des Arztbriefes ausfüllen
 
-**8.**
+## Arztbrief in die ePA einstellen
 
 **9.**
 
 **10.**
 
 **11.**
-
-**12.**
-
-- **BLICK IN DIE ARZTPRAXIS**
-
-## Metadaten des Arztbriefes ausfüllen
-
-## Arztbrief in die ePA einstellen
 
 ## BMP suchen
 
@@ -167,37 +163,31 @@ Daten der gematik – - **DATEN GEMATIK**
 
 ## ePA öffnen
 
-## Arztbrief suchen
+## Arztbrief suchen - **BLICK IN DIE ARZTPRAXIS**
 
-**7.**
+## Metadaten des Arztbriefes ausfüllen
 
-**8.**
+**7. 7.**
 
-**9.**
+## Arztbrief in die ePA einstellen
 
-**10.**
-
-**11.**
-
-**12.**
-
-## Metadaten des Arztbriefes ausfüllen7.
-
-## Arztbrief in die ePA einstellen8.
-
-**9.**
-
-## Metadaten BMP ausfüllen10.
-
-**11.**
-
-## GOP 01647/01648 zusetzen12.
-
-- **BLICK IN DIE ARZTPRAXIS**
+**8. 8.**
 
 ## BMP suchen
 
+**9. 9.**
+
+## Metadaten BMP ausfüllen
+
+**10. 10.**
+
 ## BMP in ePA einstellen
+
+**11. 11.**
+
+## GOP 01647/01648 zusetzen
+
+**12. 12.**
 
 
 ---

@@ -608,9 +608,9 @@ nein ja Befunde (Zytologie, HPV- Test, Histologie) aus der letzten vorangegangen
 |  | | | | | | | | |
 | “ des IQTIG |  | IQTIG-Dokumentationsbogens gesetzt. | 37 | HPV-Impfung | M39_9 | 3313_hpv_impfung_vollstaendig | 3313 | HPV-Impfung |
 | 13 | HPV-Impfung |  | M39_10 | 3313_hpv_impfung_unvollstaendig | M39_11 | 3313_hpv_impfung_keine | M39_12 | 3313_hpv_impfung_unklar |
-| 38 | vor? | M39_13 | 3314_hpv_hr_testergebnis_liegt_ni | 3314 | HPV-HR-Test | 21 | Liegt aus der letzten |  |
+| 38 | Liegt ein HPV-HR-Testergebnis | M39_13 | 3314_hpv_hr_testergebnis_liegt_ni | 3314 | HPV-HR-Test | 21 | Liegt aus der letzten |  |
 | M39_14 | 3314_hpv_hr_testergebnis_liegt_vo | 39 | HPV-HR-Testergebnis des | M39_16 | 3316_hpv_hr_testergebnis_des_vor | 3316 | HPV-HR-Testergebnis | 22 |
-| Vorbefund: HPV-Status | Es können vom BFB-Barcode oder dem | M39_17 | 3316_hpv_hr_testergebnis_des_vor | M39_18 | 3316_hpv_hr_testergebnis_des_vor | 40 | Chemotherapie des Genitales | M39_19 |
+| Vorbefund: HPV-Status | Es können vom BFB-Barcode oder dem | M39_17 | 3316_hpv_hr_testergebnis_des_vor | M39_18 | 3316_hpv_hr_testergebnis_des_vor | 40 | Gyn. OP, Strahlen oder | M39_19 |
 | 7336_gyn_op_strahlen_oder_chem | 7336 | Gyn. OP, Strahlen oder | 30 | Zustand nach |  | M39_20 | 7336_gyn_op_strahlen_oder_chem | 41 |
 | Gyn. OP, Strahlen oder | M39_21 | 7337_gyn_op_strahlen_oder_chem | 7337 | Gyn. OP, Strahlen oder |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
@@ -625,9 +625,9 @@ nein ja Befunde (Zytologie, HPV- Test, Histologie) aus der letzten vorangegangen
 | 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 20 | Zytologischer Vorbefund - | Wird im Feld „Gruppe“ im BFB-Barcode |
 |  | “ des IQTIG |  | IQTIG-Dokumentationsbogens gesetzt. | 37 | HPV-Impfung | M39_9 | 3313_hpv_impfung_vollstaendig | 3313 |
 | HPV-Impfung | 13 | HPV-Impfung |  | M39_10 | 3313_hpv_impfung_unvollstaendig | M39_11 | 3313_hpv_impfung_keine | M39_12 |
-| 3313_hpv_impfung_unklar | 38 | vor? | M39_13 | 3314_hpv_hr_testergebnis_liegt_ni | 3314 | HPV-HR-Test | 21 | Liegt aus der letzten |
+| 3313_hpv_impfung_unklar | 38 | Liegt ein HPV-HR-Testergebnis | M39_13 | 3314_hpv_hr_testergebnis_liegt_ni | 3314 | HPV-HR-Test | 21 | Liegt aus der letzten |
 |  | M39_14 | 3314_hpv_hr_testergebnis_liegt_vo | 39 | HPV-HR-Testergebnis des | M39_16 | 3316_hpv_hr_testergebnis_des_vor | 3316 | HPV-HR-Testergebnis |
-| 22 | Vorbefund: HPV-Status | Es können vom BFB-Barcode oder dem | M39_17 | 3316_hpv_hr_testergebnis_des_vor | M39_18 | 3316_hpv_hr_testergebnis_des_vor | 40 | Chemotherapie des Genitales |
+| 22 | Vorbefund: HPV-Status | Es können vom BFB-Barcode oder dem | M39_17 | 3316_hpv_hr_testergebnis_des_vor | M39_18 | 3316_hpv_hr_testergebnis_des_vor | 40 | Gyn. OP, Strahlen oder |
 | M39_19 | 7336_gyn_op_strahlen_oder_chem | 7336 | Gyn. OP, Strahlen oder | 30 | Zustand nach |  | M39_20 | 7336_gyn_op_strahlen_oder_chem |
 | 41 | Gyn. OP, Strahlen oder | M39_21 | 7337_gyn_op_strahlen_oder_chem | 7337 | Gyn. OP, Strahlen oder |  |  |  |
 |  |  |  | | | | | | |
@@ -643,11 +643,11 @@ nein ja Befunde (Zytologie, HPV- Test, Histologie) aus der letzten vorangegangen
 |  | “ des IQTIG |  | IQTIG-Dokumentationsbogens gesetzt. | 37 | HPV-Impfung | M39_9 | 3313_hpv_impfung_vollstaendig | 3313 |
 | HPV-Impfung | | | | | | | | |
 | 13 | HPV-Impfung |  | M39_10 | 3313_hpv_impfung_unvollstaendig | M39_11 | 3313_hpv_impfung_keine | M39_12 | 3313_hpv_impfung_unklar |
-| 38 | vor? | | | | | | | |
+| 38 | Liegt ein HPV-HR-Testergebnis | | | | | | | |
 | M39_13 | 3314_hpv_hr_testergebnis_liegt_ni | | | | | | | |
 | 3314 | HPV-HR-Test | 21 | Liegt aus der letzten |  | M39_14 | 3314_hpv_hr_testergebnis_liegt_vo | 39 | HPV-HR-Testergebnis des  M39_16  3316_hpv_hr_testergebnis_des_vor 3316  HPV-HR-Testergebnis  22 Vorbefund: HPV-Status Es können vom BFB-Barcode oder dem  M39_17 |
 | 3316_hpv_hr_testergebnis_des_vor | M39_18 | | | | | | | |
-| 3316_hpv_hr_testergebnis_des_vor | 40 | Chemotherapie des Genitales | M39_19 | 7336_gyn_op_strahlen_oder_chem | 7336 | | | |
+| 3316_hpv_hr_testergebnis_des_vor | 40 | Gyn. OP, Strahlen oder | M39_19 | 7336_gyn_op_strahlen_oder_chem | 7336 | | | |
 | Gyn. OP, Strahlen oder | 30 | | | | | | | |
 | Zustand nach |  | | | | | | | |
 | M39_20 | | | | | | | | |
@@ -655,19 +655,19 @@ nein ja Befunde (Zytologie, HPV- Test, Histologie) aus der letzten vorangegangen
 | 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 20 | Zytologischer Vorbefund - | Wird im Feld „Gruppe“ im BFB-Barcode |
 |  | “ des IQTIG | | | | | | | |
 |  | IQTIG-Dokumentationsbogens gesetzt. | 37 | HPV-Impfung | M39_9 | 3313_hpv_impfung_vollstaendig | 3313 | HPV-Impfung | 13 |
-| HPV-Impfung |  | M39_10 | 3313_hpv_impfung_unvollstaendig | M39_11 | 3313_hpv_impfung_keine | M39_12 | 3313_hpv_impfung_unklar | 38  vor?  M39_13  3314_hpv_hr_testergebnis_liegt_ni 3314 |
+| HPV-Impfung |  | M39_10 | 3313_hpv_impfung_unvollstaendig | M39_11 | 3313_hpv_impfung_keine | M39_12 | 3313_hpv_impfung_unklar | 38  Liegt ein HPV-HR-Testergebnis  M39_13  3314_hpv_hr_testergebnis_liegt_ni 3314 |
 | **KBV BFB FELD** | **KBV DM FELD** | **KBV QMS LDT FELD** | **IQTIG FELD** | | | | | |
 | 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 20 | Zytologischer Vorbefund - | Wird im Feld „Gruppe“ im BFB-Barcode  “ des IQTIG IQTIG-Dokumentationsbogens gesetzt. |
 | 37 | HPV-Impfung | M39_9 | 3313_hpv_impfung_vollstaendig | 3313 | HPV-Impfung | 13 | HPV-Impfung |  |
 | M39_10 | 3313_hpv_impfung_unvollstaendig | | | | | | | |
 | M39_11 | 3313_hpv_impfung_keine | | | | | | | |
 | M39_12 | 3313_hpv_impfung_unklar | | | | | | | |
-| 38 | vor? | M39_13 | 3314_hpv_hr_testergebnis_liegt_ni | 3314 | HPV-HR-Test | 21 | Liegt aus der letzten |  |
+| 38 | Liegt ein HPV-HR-Testergebnis | M39_13 | 3314_hpv_hr_testergebnis_liegt_ni | 3314 | HPV-HR-Test | 21 | Liegt aus der letzten |  |
 | M39_14 | 3314_hpv_hr_testergebnis_liegt_vo | | | | | | | |
 | 39 | HPV-HR-Testergebnis des | M39_16 | 3316_hpv_hr_testergebnis_des_vor | 3316 | HPV-HR-Testergebnis | 22 | Vorbefund: HPV-Status | Es können vom BFB-Barcode oder dem |
 | M39_17 | 3316_hpv_hr_testergebnis_des_vor | | | | | | | |
 | M39_18 | 3316_hpv_hr_testergebnis_des_vor | | | | | | | |
-| 40 | Chemotherapie des Genitales | M39_19 | 7336_gyn_op_strahlen_oder_chem | 7336 | Gyn. OP, Strahlen oder | 30 | Zustand nach |  |
+| 40 | Gyn. OP, Strahlen oder | M39_19 | 7336_gyn_op_strahlen_oder_chem | 7336 | Gyn. OP, Strahlen oder | 30 | Zustand nach |  |
 | M39_20 | 7336_gyn_op_strahlen_oder_chem | | | | | | | |
 | 41 | Gyn. OP, Strahlen oder | M39_21 | 7337_gyn_op_strahlen_oder_chem | 7337 | Gyn. OP, Strahlen oder |  |  |  |
 | **KBV BFB FELD** | **KBV DM FELD** | **KBV QMS LDT FELD** | **IQTIG FELD** | | | | | |
@@ -675,11 +675,11 @@ nein ja Befunde (Zytologie, HPV- Test, Histologie) aus der letzten vorangegangen
 |  | “ des IQTIG |  | IQTIG-Dokumentationsbogens gesetzt. | 37 | HPV-Impfung | M39_9 | 3313_hpv_impfung_vollstaendig | 3313 |
 | HPV-Impfung | 13 | HPV-Impfung |  | M39_10 | 3313_hpv_impfung_unvollstaendig | M39_11 | 3313_hpv_impfung_keine | M39_12 |
 | 3313_hpv_impfung_unklar | 38 | | | | | | | |
-| vor? | M39_13 | 3314_hpv_hr_testergebnis_liegt_ni | 3314 | HPV-HR-Test | 21 | Liegt aus der letzten |  | M39_14 |
+| Liegt ein HPV-HR-Testergebnis | M39_13 | 3314_hpv_hr_testergebnis_liegt_ni | 3314 | HPV-HR-Test | 21 | Liegt aus der letzten |  | M39_14 |
 | 3314_hpv_hr_testergebnis_liegt_vo | 39 | | | | | | | |
 | HPV-HR-Testergebnis des | M39_16 | 3316_hpv_hr_testergebnis_des_vor | 3316 | HPV-HR-Testergebnis | 22 | Vorbefund: HPV-Status | Es können vom BFB-Barcode oder dem | M39_17 |
 | 3316_hpv_hr_testergebnis_des_vor | M39_18 | | | | | | | |
-| 3316_hpv_hr_testergebnis_des_vor | 40 | Chemotherapie des Genitales | M39_19 | 7336_gyn_op_strahlen_oder_chem | 7336 | Gyn. OP, Strahlen oder | 30 | Zustand nach |
+| 3316_hpv_hr_testergebnis_des_vor | 40 | Gyn. OP, Strahlen oder | M39_19 | 7336_gyn_op_strahlen_oder_chem | 7336 | Gyn. OP, Strahlen oder | 30 | Zustand nach |
 |  | M39_20 | | | | | | | |
 | 7336_gyn_op_strahlen_oder_chem | | | | | | | | |
 | 41 | Gyn. OP, Strahlen oder | M39_21 | 7337_gyn_op_strahlen_oder_chem | 7337 | Gyn. OP, Strahlen oder |  |  |  |
@@ -691,10 +691,10 @@ nein ja Befunde (Zytologie, HPV- Test, Histologie) aus der letzten vorangegangen
 |  | | | | | | | | |
 | “ des IQTIG |  | IQTIG-Dokumentationsbogens gesetzt. | 37 | HPV-Impfung | M39_9 | 3313_hpv_impfung_vollstaendig | 3313 | HPV-Impfung |
 | 13 | HPV-Impfung |  | M39_10 | 3313_hpv_impfung_unvollstaendig | M39_11 | 3313_hpv_impfung_keine | M39_12 | 3313_hpv_impfung_unklar |
-| 38 | vor? | | | | | | | |
+| 38 | Liegt ein HPV-HR-Testergebnis | | | | | | | |
 | M39_13 | 3314_hpv_hr_testergebnis_liegt_ni | 3314 | HPV-HR-Test | 21 | Liegt aus der letzten |  | M39_14 | 3314_hpv_hr_testergebnis_liegt_vo |
 | 39 | HPV-HR-Testergebnis des | M39_16 | 3316_hpv_hr_testergebnis_des_vor | 3316 | HPV-HR-Testergebnis | 22 | Vorbefund: HPV-Status | Es können vom BFB-Barcode oder dem |
-| M39_17 | 3316_hpv_hr_testergebnis_des_vor | M39_18 | 3316_hpv_hr_testergebnis_des_vor | 40 | Chemotherapie des Genitales | M39_19 | 7336_gyn_op_strahlen_oder_chem | 7336 |
+| M39_17 | 3316_hpv_hr_testergebnis_des_vor | M39_18 | 3316_hpv_hr_testergebnis_des_vor | 40 | Gyn. OP, Strahlen oder | M39_19 | 7336_gyn_op_strahlen_oder_chem | 7336 |
 | Gyn. OP, Strahlen oder | 30 | Zustand nach |  | M39_20 | 7336_gyn_op_strahlen_oder_chem | 41 | Gyn. OP, Strahlen oder | M39_21 |
 | 7337_gyn_op_strahlen_oder_chem | 7337 | Gyn. OP, Strahlen oder |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
@@ -705,13 +705,13 @@ nein ja Befunde (Zytologie, HPV- Test, Histologie) aus der letzten vorangegangen
 |  | “ des IQTIG |  | IQTIG-Dokumentationsbogens gesetzt. | 37 | HPV-Impfung | M39_9 | 3313_hpv_impfung_vollstaendig | 3313  HPV-Impfung  13 |
 | HPV-Impfung |  | | | | | | | |
 | M39_10 | 3313_hpv_impfung_unvollstaendig | | | | | | | |
-| M39_11 | 3313_hpv_impfung_keine | M39_12 | 3313_hpv_impfung_unklar | 38 | vor? | M39_13 | 3314_hpv_hr_testergebnis_liegt_ni | 3314 |
+| M39_11 | 3313_hpv_impfung_keine | M39_12 | 3313_hpv_impfung_unklar | 38 | Liegt ein HPV-HR-Testergebnis | M39_13 | 3314_hpv_hr_testergebnis_liegt_ni | 3314 |
 | HPV-HR-Test | 21 | | | | | | | |
 | Liegt aus der letzten |  | | | | | | | |
 | M39_14 | 3314_hpv_hr_testergebnis_liegt_vo | 39 | HPV-HR-Testergebnis des | M39_16 | 3316_hpv_hr_testergebnis_des_vor | 3316 | HPV-HR-Testergebnis | 22 |
 | Vorbefund: HPV-Status | | | | | | | | |
 | Es können vom BFB-Barcode oder dem | | | | | | | | |
-| M39_17 | 3316_hpv_hr_testergebnis_des_vor | M39_18 | 3316_hpv_hr_testergebnis_des_vor | 40 | Chemotherapie des Genitales | M39_19 | 7336_gyn_op_strahlen_oder_chem | 7336 |
+| M39_17 | 3316_hpv_hr_testergebnis_des_vor | M39_18 | 3316_hpv_hr_testergebnis_des_vor | 40 | Gyn. OP, Strahlen oder | M39_19 | 7336_gyn_op_strahlen_oder_chem | 7336 |
 | Gyn. OP, Strahlen oder | | | | | | | | |
 | 30 | Zustand nach |  | M39_20 | 7336_gyn_op_strahlen_oder_chem | 41 | Gyn. OP, Strahlen oder | M39_21 | 7337_gyn_op_strahlen_oder_chem 7337  Gyn. OP, Strahlen oder |
 |  |  |  |  |  |  |  |  |  |
@@ -719,16 +719,16 @@ nein ja Befunde (Zytologie, HPV- Test, Histologie) aus der letzten vorangegangen
 | **KBV BFB FELD** | **KBV DM FELD** | **KBV QMS LDT FELD** | **IQTIG FELD** | | | | | |
 | 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 20 | Zytologischer Vorbefund - | Wird im Feld „Gruppe“ im BFB-Barcode |
 |  | “ des IQTIG |  | IQTIG-Dokumentationsbogens gesetzt. | 37 | HPV-Impfung | M39_9 | 3313_hpv_impfung_vollstaendig | 3313  HPV-Impfung  13 |
-| HPV-Impfung |  | M39_10 | 3313_hpv_impfung_unvollstaendig | M39_11 | 3313_hpv_impfung_keine | M39_12 | 3313_hpv_impfung_unklar | 38  vor?  M39_13 |
+| HPV-Impfung |  | M39_10 | 3313_hpv_impfung_unvollstaendig | M39_11 | 3313_hpv_impfung_keine | M39_12 | 3313_hpv_impfung_unklar | 38  Liegt ein HPV-HR-Testergebnis  M39_13 |
 | 3314_hpv_hr_testergebnis_liegt_ni | 3314 | HPV-HR-Test | 21 | Liegt aus der letzten |  | M39_14 | 3314_hpv_hr_testergebnis_liegt_vo | 39  HPV-HR-Testergebnis des  M39_16 |
-| 3316_hpv_hr_testergebnis_des_vor | 3316 | HPV-HR-Testergebnis | 22 | Vorbefund: HPV-Status | Es können vom BFB-Barcode oder dem | M39_17 | 3316_hpv_hr_testergebnis_des_vor | M39_18  3316_hpv_hr_testergebnis_des_vor 40  Chemotherapie des Genitales  M39_19 |
+| 3316_hpv_hr_testergebnis_des_vor | 3316 | HPV-HR-Testergebnis | 22 | Vorbefund: HPV-Status | Es können vom BFB-Barcode oder dem | M39_17 | 3316_hpv_hr_testergebnis_des_vor | M39_18  3316_hpv_hr_testergebnis_des_vor 40  Gyn. OP, Strahlen oder  M39_19 |
 | 7336_gyn_op_strahlen_oder_chem | 7336 | Gyn. OP, Strahlen oder | 30 | | | | | |
 | Zustand nach |  | M39_20 | 7336_gyn_op_strahlen_oder_chem | | | | | |
 | 41 | Gyn. OP, Strahlen oder | M39_21 | 7337_gyn_op_strahlen_oder_chem | 7337 | Gyn. OP, Strahlen oder |  |  |  |
 |  |  |  |  | | | | | |
 |  |  |  |  | | | | | |
 
-Liegt ein HPV-HR-Testergebnis Vorbefundes Chemotherapie des Genitales – Welche? cht_vor r_aus befundes_positiv befundes_negativ befundes_nicht_verwertbar otherapie_nein otherapie_ja otherapie_welche – Welche? 23 nach Münchner Nomenklatur III 20.2 vorangegangenen Untersuchung ein HPV-Test- Ergebnis vor? Vorbefund zum HPV-Status liegt vor 24 32 gynäkologischer OP/Radiatio gynäkologischer OP/Chemo- oder Strahlentherapie des Genitals oder dem LDT3 bzw.  im Feld „7414_gruppe_des_letzten_befundes“ des DiMus ein Wert der Münchner Nomenklatur III übertragen, dann wird dieser in das Feld „23- Dokumentationsbogen übertragen. oder dem LDT3 bzw.  im Feld „7414_gruppe_des_letzten_befundes“ des DiMus kein Wert oder ein Wert der Münchner Nomenklatur II übertragen oder ist das Feld nicht vorhanden, dann wird der Wert „0“ des Feldes „23“ des LDT3 oder den DiMus nur die Werte „positiv“ und „negativ“ auf den IQTIG- Dokumentationsbogen abgebildet werden.
+vor? Vorbefundes Chemotherapie des Genitales Chemotherapie des Genitales – Welche? cht_vor r_aus befundes_positiv befundes_negativ befundes_nicht_verwertbar otherapie_nein otherapie_ja otherapie_welche Chemotherapie des Genitales Chemotherapie des Genitales – Welche? 23 nach Münchner Nomenklatur III 20.2 vorangegangenen Untersuchung ein HPV-Test- Ergebnis vor? Vorbefund zum HPV-Status liegt vor 24 32 gynäkologischer OP/Radiatio gynäkologischer OP/Chemo- oder Strahlentherapie des Genitals oder dem LDT3 bzw.  im Feld „7414_gruppe_des_letzten_befundes“ des DiMus ein Wert der Münchner Nomenklatur III übertragen, dann wird dieser in das Feld „23- Dokumentationsbogen übertragen. oder dem LDT3 bzw.  im Feld „7414_gruppe_des_letzten_befundes“ des DiMus kein Wert oder ein Wert der Münchner Nomenklatur II übertragen oder ist das Feld nicht vorhanden, dann wird der Wert „0“ des Feldes „23“ des LDT3 oder den DiMus nur die Werte „positiv“ und „negativ“ auf den IQTIG- Dokumentationsbogen abgebildet werden.
 
 ---
 

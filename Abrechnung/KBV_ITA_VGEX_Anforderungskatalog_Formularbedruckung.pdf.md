@@ -21,7 +21,7 @@ bedruckung _Formular- bedruckung] 1.37 Datum: 15.08.2025 Kennzeichnung: Öffentl
 | **Version Datum** |  | **Autor Änderung** |  | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.37 | 15.08.2025 KBV |  | Aktualisierung der Referenzen auf |  | **16** |
-| 1.36 | 15.08.2024 KBV |  | Streichung der Anforderung KP7-140 | forderungskatalogs |  |
+| 1.36 | 15.08.2024 KBV |  | Streichung der Anforderung KP7-140 | Inkrafttreten des An- |  |
 | 1.35 | 15.05.2024 KBV |  | Klarstellung der Anforderung KP7-82 |  | **9** |
 | 1.34 | 15.02.2024 KBV |  | Klarstellung der Anforderung KP7-81 |  | **8** |
 | 1.33 | 13.05.2022 KBV |  | Aktualisierung der Anforderung P7- |  | **13** |
@@ -33,14 +33,12 @@ bedruckung _Formular- bedruckung] 1.37 Datum: 15.08.2025 Kennzeichnung: Öffentl
 | 1.27 | 14.08.2020 KBV |  | Klarstellung der Anforderung KP7- |  |  |
 | 1.26 | 28.05.2020 KBV |  | Klarstellung der Umsetzungspflicht |  |  |
 | 1.25 | 13.05.2020 KBV |  | Aktualisierung der Anforderungen  Aufnahme von Verordnung von digi- |  | **6, 6, 13 ** |
-| 1.24 | 13.11.2019 KBV |  | P7-90: aktualisiert | entfällt zum 1. Januar | **9** |
+| 1.24 | 13.11.2019 KBV |  | P7-90: aktualisiert | Der Ersatzwert „UUU“ | **9** |
 | 1.23 | 15.11.2018 KBV |  | P7-10: red. Hinweis ergänzt |  | **5** |
 
-**U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O**
+**U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O** **R** **I** **E**
 
-**R** **I** **E**
-
-die KBV-Webseite 130 für die Anforderungen KP7-81 und für die Anforderung KP7-140 KP7-30, P7-130 und KP7-31 an die Aktualisierungen zum Statusfeld talen Gesundheitsanwendungen Inkrafttreten des An- VDGA Der Ersatzwert „UUU“
+die KBV-Webseite 130 für die Anforderungen KP7-81 und für die Anforderung KP7-140 KP7-30, P7-130 und KP7-31 an die Aktualisierungen zum Statusfeld talen Gesundheitsanwendungen forderungskatalogs VDGA entfällt zum 1. Januar
 
 ---
 
@@ -100,7 +98,7 @@ die KBV-Webseite 130 für die Anforderungen KP7-81 und für die Anforderung KP7-
 
 **3.2** **Referenzierte Dokumente ........................................................................................................... 16**
 
-**I** **N** **H** **A** **L** **T** **S** **V** **E** **R** **Z** **E** **I** **C** **H**  **N** **I** **S**
+**I** **N** **H** **A** **L** **T** **S** **V** **E** **R** **Z** **E** **I** **C** **H** **N** **I** **S**
 
 
 ---
@@ -109,9 +107,9 @@ die KBV-Webseite 130 für die Anforderungen KP7-81 und für die Anforderung KP7-
 
 ## 1.1 Zielbestimmung
 
-Dieser Anforderungskatalog gilt für Software , die in Vertragsarztpraxen zur Erstellung des  1 2
+Dieser Anforderungskatalog gilt für Software, die in Vertragsarztpraxen zur Erstellung des  KVDT1 eingesetzt wird. Diese Abrechnungssoftware2 muss vor ihrem Einsatz durch die KBV
 
-KVDT eingesetzt wird. Diese Abrechnungssoftware muss vor ihrem Einsatz durch die KBV  zugelassen werden.
+zugelassen werden.
 
 Im Rahmen der Zulassung muss zusätzlich zu den im KVDT-Anforderungskatalog definierten  Funktionen nachgewiesen werden, dass die Abrechnungssoftware in der Lage ist, die vertrags-
 
@@ -196,7 +194,7 @@ des Hinweises in den Vordruckerläuterungen des mit der ersten Zahl angege benen
 
 Die Bedruckung des Personalienfeldes aller vertragsärztlichen Formulare, muss ab dem  1.10.2014 gemäß den verbindlichen Bedruckungsvorschriften im Abschnitt „Bedruckung des
 
-Personalienfeldes“ in der Technischen Anlage zur Anlage 4a (BMV -Ä) erfolgen
+Personalienfeldes“ in der Technischen Anlage zur Anlage 4a (BMV-Ä) erfolgen
 
 [KBV_ITA_VGEX_Mapping_KVK].
 
@@ -288,7 +286,9 @@ Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme die nicht 
 
 Die bundeseinheitlichen Vorgaben der KBV zur Bedruckung des Personalienfeldes vertrags- ärztlicher Formulare bei „Sonstigen Kostenträgern“ beziehen sich lediglich auf die erste Druck-
 
-zeile, sofern die Angaben zum Versicherten nicht auf Basis einer  werden. Die Bedruckung des Personalienfeldes orientiert sich in der Regel am o.a. Beispiel. In  Zweifelsfällen wird empfohlen, Auskunft über die jeweilige Kassenärztliche Vereinigung einzu- holen.
+zeile, sofern die Angaben zum Versicherten nicht auf Basis einer Versichertenkarte
+
+werden. Die Bedruckung des Personalienfeldes orientiert sich in der Regel am o.a. Beispiel. In  Zweifelsfällen wird empfohlen, Auskunft über die jeweilige Kassenärztliche Vereinigung einzu- holen.
 
 Vor dem Hintergrund des in vielen KVen erwarteten Ausdrucks von SKT Personalienfeld (z.B. Aktenzeichen bei Sozialämtern) gilt für den Ausdruck bei Sonstigen Kos- tenträgern, die keine Versichertenkarten ausgeben, folgende Regelung für den Ausdruck des  Inhaltes des Feldes 4124 (SKT-Zusatzangaben):
 
@@ -308,9 +308,9 @@ Vor dem Hintergrund des in vielen KVen erwarteten Ausdrucks von SKT Personalienf
 
 3 d.h. Versichertenkarte oder ein Behandlungsausweis, auf dem die Angaben der Versichertenkarte umgedruckt sind.
 
-3
+3 vorgelegt
 
-Versichertenkarte vorgelegt -Zusatzangaben im
+-Zusatzangaben im
 
 -Zusatzangaben)
 
@@ -354,7 +354,7 @@ sinformationen bedruckt werden können, da die von einer KVK eingelesenen Inform
 
 **Akzeptanzkriterium:**
 
-- 1. Wenn eine eGK eingelesen wurde, dann muss die Software das Personalienfeld aller  vertragsärztlichen Formulare immer mit den Namens - und Adressinformationen der  eGK bedrucken.
+- 1. Wenn eine eGK eingelesen wurde, dann muss die Software das Personalienfeld aller  vertragsärztlichen Formulare immer mit den Namens- und Adressinformationen der  eGK bedrucken.
 
 - a. Die Software unterbindet, dass die vom Anwender erfassten und von eGK ab- weichenden Namens- und Adressinformationen zur Bedruckung verwendet  werden.
 
@@ -393,7 +393,7 @@ Dies stellt den Standardfall dar. Arztbriefe oder nicht vertragsärztliche Formu
 |---|---|
 | **KP7-82** | Ausdruck von Namens- und Adressinformationen bei den Mustern |
 
-Bei Überweisungs - /Abrechnungsscheinen sind, sofern eine Versichertenkarte (eGK sowie  KVK) eingelesen wurde, immer die amtlichen Namens- und Adressinformation von der Versi- chertenkarte für den Ausdruck des Personalienfeldes zu verwenden. Das gilt auch dann, wenn  Name oder Adresse von der Versichertenkarte als veraltet bekannt ist.
+Bei Überweisungs- /Abrechnungsscheinen sind, sofern eine Versichertenkarte (eGK sowie  KVK) eingelesen wurde, immer die amtlichen Namens- und Adressinformation von der Versi- chertenkarte für den Ausdruck des Personalienfeldes zu verwenden. Das gilt auch dann, wenn  Name oder Adresse von der Versichertenkarte als veraltet bekannt ist.
 
 **Bedingung:**
 
@@ -517,9 +517,11 @@ Unterstützt die Abrechnungssoftware das Bedrucken von Muster 10A, so gilt:
 
 -  Bei Bedruckung des konventionellen Musters 10A muss die Abrechnungssoftware in  der Lage sein, wie sonst nur bei den BFB-Formularen üblich, den für das Muster 10A
 
-- definierten Barcode PDF-417 generieren zu können. Alternativ kann der Ausdruck von Muster 10A per Nadeldrucker und auch ohne Bar- code praktiziert werden.  4
+- definierten Barcode PDF-417 generieren zu können.
 
-- Die Spezifikation des Barcodes als auch seiner Inhalte entsprechen dem Muster 10A  in der BFB-Version und sind in dem Technischen Handbuch BFB definiert.
+- Alternativ kann der Ausdruck von Muster 10A per Nadeldrucker und auch ohne Bar- code praktiziert werden.  Die Spezifikation des Barcodes4 als auch seiner Inhalte entsprechen dem Muster 10A
+
+- in der BFB-Version und sind in dem Technischen Handbuch BFB definiert.
 
 -  Bei Verwendung des Barcodes PDF 417 ist sicherzustellen, dass dieser nicht ohne  Auftragsdaten generiert werden kann.
 
@@ -549,7 +551,9 @@ lienfeld hinaus, so gilt:
 |---|---|
 | **KP 7-90** | Warnhinweis bei Nichtvorlage Versicherungsnachweis |
 
-Falls ein Anwender ein Rezept für Medikamente bzw. für Heil Überweisungsschein ausstellt, dann muss, falls kein Versicherungsnachweis (z.B. kein Über-
+Falls ein Anwender ein Rezept für Medikamente bzw. für Heil- u. Hilfsmittel und/oder einen
+
+Überweisungsschein ausstellt, dann muss, falls kein Versicherungsnachweis (z.B. kein Über-
 
 weisungsschein oder keine Versichertenkarte) für das Abrechnungsquartal vorliegt, wender durch das Praxisverwaltungssystem in geeigneter Form, entweder optisch und/oder
 
@@ -561,9 +565,7 @@ Beispiel für einen optischen Warnhinweis:
 
 - automatisierte Datenerfassung in der Laborgemeinschaft. Die Notwendigkeit des Barcodes wird durch die Laborgemeinschaft  bestimmt. Der Barcode ist technisch bedingt nur dann interpretierbar, wenn das Formular in der anfordernden Arztpraxis elektro- nisch erfasst, der Barcode generiert und mittels Laserdrucker bedruckt wird.
 
--
-
-- u. Hilfsmittel und/oder einen -417)der An-
+-417)der An-
 
 
 ---
@@ -680,7 +682,7 @@ Fällen ausgestellt werden, folgendes beachten:
 
 - chen nicht sichtbar und der Datenschutz bleibt gewährleistet.
 
--  Im Personalienfeld muss anstelle der Betriebsstättennummer (BSNR) die ASV mer aufgedruckt werden . Eine Ausnahme bildet Muster 20 (Wiedereingliederungsplan).  Hier wird aus Gründen des Datenschutzes weiterhin die BSNR des behandelnden Arztes  aufgedruckt.
+-  Im Personalienfeld muss anstelle der Betriebsstättennummer (BSNR) die ASV mer aufgedruckt werden. Eine Ausnahme bildet Muster 20 (Wiedereingliederungsplan).  Hier wird aus Gründen des Datenschutzes weiterhin die BSNR des behandelnden Arztes  aufgedruckt.
 
 -  Im Personalienfeld muss im Falle eines Krankenhausarztes die Fachgruppennummer  (siehe ASV-Vertrag, § 9 Abs. 5) im Feld „Arzt Nr“ gedruckt werden.
 
@@ -721,7 +723,7 @@ kommt im Rahmen der ASV nicht zur Anwendung.
 | AQ | Abrechnungsquartal |
 |---|---|
 | APK | Arzt-Patienten-Kontakt |
-| ASV-AV | erforderlichen Vordrucke für |
+| ASV-AV | Vereinbarung gemäß § 116b Abs. 6 Satz 12 SGB V über Form und In- |
 | Diagnosefreitext | Zum Verständnis der Diagnose relevante und über die ICD |
 | Diagnoseklartext | Beschreibung des ICD-10-Codes laut des systematischen Verzeichnis- |
 | DIMDI | Deutsches Institut für Medizinische Dokumentation und Information |
@@ -730,7 +732,7 @@ kommt im Rahmen der ASV nicht zur Anwendung.
 | Formularinhalt | Alle Felder außerhalb des Personalienfeldes |
 | GKV | Gesetzliche Krankenversicherung |
 | ICD-10-Diagnose | ICD-10-Code aus dem Katalog ICD-10-GM |
-| IK 5 5 | 9-stellige, numerische Krankenkassennummer |
+| IK5 5 | 9-stellige, numerische Krankenkassennummer |
 | KT | Kostenträger |
 | KT-Stammdatei | Kostenträger-Stammdatei |
 | KTAB | Kostenträger-Abrechnungsbereich |
@@ -740,7 +742,7 @@ kommt im Rahmen der ASV nicht zur Anwendung.
 | VKNR | 5-stellige Kassennummer |
 | VKNR-KTAB-Kom- | Kombination von Abrechnungs-VKNR und Kostenträger-Abrechnungs- |
 
-In der vertragsärztlichen Versorgung existieren zur Identifikation der Kostenträger zwei voneinander unabhängige Nummern- kreise: Eine fünfstellige VKNR sowie ein 9 Vereinbarung gemäß § 116b Abs. 6 Satz 12 SGB V über Form und In- halt des Abrechnungsverfahrens sowie die die ambulante spezialfachärztliche Versorgung sen hinausgehende Informationen. ses des DIMDI ( siehe auch Element „bezeichnung“ in cherheit und Seitenlokalisation (soweit vom Anwender eine Seitenloka- lisation angegeben wurde) -stelliges Institutionskennzeichen (IK); -10-Diagno- der SDICD des DIMDI, Diagnosesi-
+In der vertragsärztlichen Versorgung existieren zur Identifikation der Kostenträger zwei voneinander unabhängige Nummern- kreise: Eine fünfstellige VKNR sowie ein 9 halt des Abrechnungsverfahrens sowie die die ambulante spezialfachärztliche Versorgung sen hinausgehende Informationen. ses des DIMDI ( siehe auch Element „bezeichnung“ in cherheit und Seitenlokalisation (soweit vom Anwender eine Seitenloka- lisation angegeben wurde) -stelliges Institutionskennzeichen (IK); erforderlichen Vordrucke für -10-Diagno- der SDICD des DIMDI, Diagnosesi-
 
 ---
 

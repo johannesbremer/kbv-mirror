@@ -182,8 +182,6 @@ EVIDENT GmbH
 
 0,6%
 
-1
-
 **Installationen 2.Q.2025**
 
 3 883
@@ -300,142 +298,90 @@ EVIDENT GmbH
 
 718
 
-**Differenz**
+**Differenz Differenz in % zum 1.Q.2025**
 
-255
+255 7,0%
 
-226
+226 4,3%
 
-164
+164 3,0%
 
-134
+134 3,8%
 
-96
+96 14,6%
 
-89
+89 1,5%
 
-62
+62 1,3%
 
-46
+46 27,7%
 
-25
+25 7,1%
 
-12
+12 2,5%
 
-9
+9 1,7%
 
-9
+9 3,2%
 
-9
+9 3,6%
 
-7
+7 0,2%
 
-7
+7 1,0%
 
-6
+6 0,3%
 
-5
+5 5,8%
 
-4
+4 2,2%
 
-4
+4 22,3%
 
-4
+4 14,8%
 
-4
+4 28,7%
 
-3
+3 0,2%
 
-3
+3 0,8%
 
-3
+3 7,7%
 
-3
+3 18,7%
 
-3
+3 27,4%
 
-2
+2 2,7%
 
-2
-
-**Differenz in % zum 1.Q.2025**
-
-7,0%
-
-4,3%
-
-3,0%
-
-3,8%
-
-14,6%
-
-1,5%
-
-1,3%
-
-27,7%
-
-7,1%
-
-2,5%
-
-1,7%
-
-3,2%
-
-3,6%
-
-0,2%
-
-1,0%
-
-0,3%
-
-5,8%
-
-2,2%
-
-22,3%
-
-14,8%
-
-28,7%
-
-0,2%
-
-0,8%
-
-7,7%
-
-18,7%
-
-27,4%
-
-2,7%
-
-0,3%
+2 0,3%
 
 
 ---
 
 **Id Praxissoftware**
 
-643 **smartLIS Laborinformationssyste**
+643 **smartLIS Laborinformationssystem Abrechnungsmodul**
 
 716 **Melos-Labor-System**
 
 561 **EISHISTO**
 
-729 **GLIMS**
+**Anbieter**
 
-493 **LX**
+labdock GmbH
 
-195 **J-MED**
+LABLIONS software & solutions GmbH
 
-395 **LIS++**
+EI Systems, Andreas Eicker 729 **GLIMS**
 
-616 **Doctorly**
+Clinisys Deutschland GmbH 493 **LX**
+
+labsolution S.à.r.l & Co.KG 195 **J-MED**
+
+Haase, Dipl.-Ing. Silvia GbR 395 **LIS++**
+
+4labs software gmbh, c/o MVZ Dr. Klein Dr. Schmitt & Partner 616 **Doctorly**
 
 551 **PDV-FR**
 
@@ -443,7 +389,13 @@ EVIDENT GmbH
 
 065 **MELOS MeCom Arzt & Labor**
 
-642 **DynaMed**
+Doctorly GmbH
+
+Universitätsklinikum Freiburg AdöR
+
+CoKom One GmbH
+
+LABLIONS software & solutions GmbH 642 **DynaMed**
 
 725 **NEXUS / SWISSLAB**
 
@@ -453,15 +405,25 @@ EVIDENT GmbH
 
 636 **RAD+ RIS System**
 
-466 **CGM VT**
+IMA-Systems Information-Technology ZLN der NEXTCLINICS
 
-231 **MEDI_LINE**
+NEXUS SWISSLAB GmbH
 
-637 **Xplore RIS**
+Dr. Claudia Neumann
 
-730 **SYLAB**
+ET Software Developments GmbH
 
-347 **Opus::L Labormanagementsyste**
+boos-uttenthaler-garcia RAD+ Entwicklungsgesellschaft bR 466 **CGM VT**
+
+CGM LAB International GmbH 231 **MEDI_LINE**
+
+Strzata, Dr. med. Norbert 637 **Xplore RIS**
+
+EDL Software Deutschland GmbH 730 **SYLAB**
+
+Labor Dr. von Froreich GmbH
+
+347 **Opus::L Labormanagementsystem**
 
 752 **INFINITYQ HEALTH**
 
@@ -471,68 +433,6 @@ EVIDENT GmbH
 
 205 **UNISOLO®-POESY**
 
-714 **I.S.-L-SEELIG**
-
-609 **GenLAB8**
-
-818 **proLAB**
-
-473 **KVDT (ADT)**
-
-375 **H&S Laborsoftware**
-
-741 **LINA**
-
-494 **Med4WinPlus**
-
-630 **theHub**
-
-459 **CGM CLINICAL**
-
-**Anbieter**
-
-**m Abrechnungsmodul** labdock GmbH
-
-LABLIONS software & solutions GmbH
-
-EI Systems, Andreas Eicker
-
-Clinisys Deutschland GmbH
-
-labsolution S.à.r.l & Co.KG
-
-Haase, Dipl.-Ing. Silvia GbR
-
-4labs software gmbh, c/o MVZ Dr. Klein Dr. Schmitt & Partner
-
-Doctorly GmbH
-
-Universitätsklinikum Freiburg AdöR
-
-CoKom One GmbH
-
-LABLIONS software & solutions GmbH
-
-IMA-Systems Information-Technology ZLN der NEXTCLINICS
-
-NEXUS SWISSLAB GmbH
-
-Dr. Claudia Neumann
-
-ET Software Developments GmbH
-
-boos-uttenthaler-garcia RAD+ Entwicklungsgesellschaft bR
-
-CGM LAB International GmbH
-
-Strzata, Dr. med. Norbert
-
-EDL Software Deutschland GmbH
-
-Labor Dr. von Froreich GmbH
-
-**m**
-
 Dedalus Labor GmbH
 
 CROSSSOFT. GmbH
@@ -541,15 +441,23 @@ UfP Systemhaus GmbH
 
 imassense Deutschland GmbH
 
-UNISOLO® GmbH
+UNISOLO® GmbH 714 **I.S.-L-SEELIG**
 
-MVZ Labor PD. Dr. Volkmann und Kollegen GBR
+MVZ Labor PD. Dr. Volkmann und Kollegen GBR 609 **GenLAB8**
 
-projodis GmbH
+projodis GmbH 818 **proLAB**
 
-SysTek GmbH
+SysTek GmbH 473 **KVDT (ADT)**
 
-IFMS - Institut für medizinische Software GmbH
+IFMS - Institut für medizinische Software GmbH 375 **H&S Laborsoftware**
+
+741 **LINA**
+
+494 **Med4WinPlus**
+
+630 **theHub**
+
+459 **CGM CLINICAL**
 
 Limbach Gruppe SE
 
@@ -630,8 +538,6 @@ Austria GmbH 0,0%
 0,0%
 
 0,1%
-
-2
 
 **Installationen 2.Q.2025**
 
@@ -1016,8 +922,6 @@ Examion GmbH
 
 0,1%
 
-GmbH 3
-
 0,0%
 
 0,0%
@@ -1048,7 +952,7 @@ GmbH 3
 
 0,1%
 
-0,2%
+GmbH 0,2%
 
 0,1%
 
@@ -1198,145 +1102,75 @@ GmbH 3
 
 74
 
-**Differenz**
+**Differenz Differenz in % zum 1.Q.2025**
 
-0
+0 0,0%
 
-0
+0 0,0%
 
-0
+0 0,0%
 
-0
+0 0,0%
 
-0
+0 0,0%
 
-0
+0 0,0%
 
--1
+-1 -2,0%
 
--1
+-1 -4,9%
 
--1
+-1 -5,9%
 
--1
+-1 -7,7%
 
--1
+-1 -0,1%
 
--1
+-1 -1,8%
 
--1
+-1 -24,8%
 
--1
+-1 -1,3%
 
--1
+-1 -4,3%
 
--2
+-2 -22,2%
 
--2
+-2 -39,9%
 
--2
+-2 -6,9%
 
--2
+-2 -66,7%
 
--2
+-2 -0,9%
 
--2
+-2 -4,6%
 
--2
+-2 -2,1%
 
--2
+-2 -22,6%
 
--3
+-3 -0,9%
 
--3
+-3 -10,7%
 
--3
+-3 -3,1%
 
--3
+-3 -9,1%
 
--3
+-3 -12,7%
 
--3
+-3 -2,1%
 
--3
+-3 -1,6%
 
--4
+-4 -5,7%
 
--4
+-4 -3,7%
 
--5
+-5 -1,4%
 
--5
-
-**Differenz in % zum 1.Q.2025**
-
-0,0%
-
-0,0%
-
-0,0%
-
-0,0%
-
-0,0%
-
-0,0%
-
--2,0%
-
--4,9%
-
--5,9%
-
--7,7%
-
--0,1%
-
--1,8%
-
--24,8%
-
--1,3%
-
--4,3%
-
--22,2%
-
--39,9%
-
--6,9%
-
--66,7%
-
--0,9%
-
--4,6%
-
--2,1%
-
--22,6%
-
--0,9%
-
--10,7%
-
--3,1%
-
--9,1%
-
--12,7%
-
--2,1%
-
--1,6%
-
--5,7%
-
--3,7%
-
--1,4%
-
--6,8%
+-5 -6,8%
 
 
 ---
@@ -1415,7 +1249,7 @@ Neutz GmbH Systemhaus
 
 MediSoftware Computersysteme für Ärzte
 
-Deutsche Telekom Clinical Solutions Gmb
+Deutsche Telekom Clinical Solutions GmbH
 
 Bitron GmbH Technologiesysteme
 
@@ -1423,7 +1257,7 @@ HASOMED GmbH
 
 PRO MEDISOFT AG
 
-S 3 Praxiscomputer GmbH / Maximilian Fle
+S 3 Praxiscomputer GmbH / Maximilian Flender
 
 SAP SE
 
@@ -1448,10 +1282,6 @@ CompuGroup Medical Deutschland AG
 medatixx GmbH & Co. KG
 
 CompuGroup Medical Deutschland AG
-
-H
-
-nder
 
 **%Anteil 2.Q.2025**
 
@@ -1506,8 +1336,6 @@ nder
 5,4%
 
 5,7%
-
-4
 
 **Installationen 2.Q.2025**
 
@@ -1617,110 +1445,56 @@ nder
 
 6 930
 
-**Differenz**
+**Differenz Differenz in % zum 1.Q.2025**
 
--5
+-5 -3,0%
 
--5
+-5 -0,2%
 
--6
+-6 -1,5%
 
--6
+-6 -0,7%
 
--6
+-6 -7,4%
 
--7
+-7 -1,5%
 
--7
+-7 -1,2%
 
--8
+-8 -3,6%
 
--9
+-9 -1,3%
 
--10
+-10 -1,0%
 
--12
+-12 -2,2%
 
--14
+-14 -0,1%
 
--14
+-14 -3,0%
 
--17
+-17 -1,6%
 
--17
+-17 -1,1%
 
--17
+-17 -1,1%
 
--25
+-25 -7,8%
 
--42
+-42 -1,7%
 
--42
+-42 -1,5%
 
--64
+-64 -0,6%
 
--68
+-68 -1,8%
 
--83
+-83 -3,8%
 
--93
+-93 -2,4%
 
--95
+-95 -0,9%
 
--137
+-137 -2,1%
 
--220
-
-**Differenz in % zum 1.Q.2025**
-
--3,0%
-
--0,2%
-
--1,5%
-
--0,7%
-
--7,4%
-
--1,5%
-
--1,2%
-
--3,6%
-
--1,3%
-
--1,0%
-
--2,2%
-
--0,1%
-
--3,0%
-
--1,6%
-
--1,1%
-
--1,1%
-
--7,8%
-
--1,7%
-
--1,5%
-
--0,6%
-
--1,8%
-
--3,8%
-
--2,4%
-
--0,9%
-
--2,1%
-
--3,2%
+-220 -3,2%

@@ -61,13 +61,11 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 Seite 2 von 8 / KBV / Antrag auf Zertifizierung DMP-Brustkrebs / Version: 4.4 / 15. Mai 2024
 
-Arzt/Ärztin[ ]
+Arzt/Ärztin
 
 Softwarehaus
 
-Sonstiges[ ]
-
-[ ]
+Sonstiges
 
 
 ---
@@ -98,17 +96,9 @@ Bitte geben Sie im Folgenden an, welche Client
 
 Windows
 
-[ ]
-
 iOS/Android
 
-[ ]
-
 Antragssteller:
-
-[ ]
-
-[ ]
 
 Mac OS
 
@@ -120,8 +110,6 @@ vorhanden) des Zertifizierungsgegenstandes an.
 
 Linux
 
-[ ]
-
 
 ---
 
@@ -129,11 +117,11 @@ Antragssteller:
 
 2 REALISIERUNG VON ANFORDERUNGEN
 
-Der Antragsteller versichert, dass die aktuelle Version der verbindlichen Kostenträger [ ] der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht.
+Der Antragsteller versichert, dass die aktuelle Version der verbindlichen Kostenträger-Stammdatei
 
-Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden
+der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht.
 
-[ ]  Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind.
+Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden   Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind.
 
 **2.1 REALISIERTE OPTIONALE FUNKTIONEN DMP BRUSTKREBS**
 
@@ -143,17 +131,9 @@ KEINE
 
 ALLE
 
-[ ]
-
-[ ]
-
-**IDENT-NUMMER BEZEICHNUNG DER OPTIONALEN FUNKTION DMP BRUSTKREBS LT.**  **ANFORDERUNGSKATALOG**
-
 Laut nachfolgender Liste
 
-[ ]
-
--Stammdatei
+**IDENT-NUMMER BEZEICHNUNG DER OPTIONALEN FUNKTION DMP BRUSTKREBS LT.**  **ANFORDERUNGSKATALOG**
 
 
 ---

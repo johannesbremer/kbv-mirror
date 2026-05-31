@@ -82,122 +82,100 @@ T 2med GmbH & Co. KG
 
 HASOMED GmbH 1
 
-**Installationen 2.Q.2025**
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
 397
 
-357
-
-340
-
-282
-
-236
-
-235
-
-192
-
-190
-
-181
-
-163
-
-162
-
-145
-
-**Installationen 1.Q.2025**
-
 399
-
-362
-
-348
-
-277
-
-231
-
-236
-
-180
-
-193
-
-182
-
-158
-
-158
-
-147
-
-**Differenz**
 
 -2
 
+357
+
+362
+
 -5
+
+340
+
+348
 
 -8
 
-5
+282
+
+277
 
 5
+
+236
+
+231
+
+5
+
+235
+
+236
 
 -1
+
+192
+
+180
 
 12
 
+190
+
+193
+
 -3
+
+181
+
+182
 
 -1
 
+163
+
+158
+
 5
 
+162
+
+158
+
 4
+
+145
+
+147
 
 -2
 
 
 ---
 
-**Id**
+**Id Praxissoftware**
 
-244
+244 **QUINCY WIN**
 
-252
+252 **CGM M1 PRO**
 
-295
+295 **Epikur**
 
-266
+266 **x.comfort**
 
-299
+299 **SMARTY**
 
-135
+135 **EL - Elaphe Longissim**
 
-226
+226 **CGM MEDICO**
 
-086
-
-**Praxissoftware**
-
-**QUINCY WIN**
-
-**CGM M1 PRO**
-
-**Epikur**
-
-**x.comfort**
-
-**SMARTY**
-
-**EL - Elaphe Longissim**
-
-**CGM MEDICO**
-
-**DURIA**
+086 **DURIA**
 
 **Anbieter**
 
@@ -219,56 +197,52 @@ CGM Clinical Europe GmbH
 
 Duria eG 2
 
-**Installationen 2.Q.2025**
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
 126
 
-125
-
-112
-
-102
-
-87
-
-80
-
-71
-
-70
-
-**Installationen 1.Q.2025**
-
 130
-
-127
-
-112
-
-105
-
-88
-
-81
-
-68
-
-71
-
-**Differenz**
 
 -4
 
+125
+
+127
+
 -2
+
+112
+
+112
 
 0
 
+102
+
+105
+
 -3
 
--1
+87
+
+88
 
 -1
+
+80
+
+81
+
+-1
+
+71
+
+68
 
 3
+
+70
+
+71
 
 -1

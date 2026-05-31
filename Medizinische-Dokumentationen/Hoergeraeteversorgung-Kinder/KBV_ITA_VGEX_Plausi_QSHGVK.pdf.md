@@ -113,9 +113,9 @@ Datum 12.08.2019 Version 1.03 (10 Zeichen) ist M=Monat ist. Verordnung) und (Ver
 |  |  |  | | | |
 |  | ja, andere Ursache | true / false | | | |
 |  | nicht beurteilbar | true / false | | | |
-| **7a.** | **andere Ursache** | Freitext | nein | Ursache" angekreuzt wurde. | |
+| **7a.** | **andere Ursache** | Freitext | nein | Feld nur ausfüllbar, wenn bei 7. "ja, andere | |
 | **Verordnung** |  | (ja); mindestens (Vor | | | |
-| **8.** | **Schallempfindungsschwerhörigkeit** |  | ja | mehrere Antworten sind möglich | dürfen maximal einmal "rechts" und |
+| **8.** | **Schallempfindungsschwerhörigkeit** |  | ja | mindestens eine  Antwort; | Für die Nummerm 8. bis 10. gilt: |
 |  | rechts | true / false | | | |
 |  | links | true / false | | | |
 | **9.** | **Schallleitungsschwerhörigkeit** | | | | |
@@ -143,7 +143,7 @@ Datum 12.08.2019 Version 1.03 (10 Zeichen) ist M=Monat ist. Verordnung) und (Ver
 |  | andere | true / false | | | |
 | ja, andere Ursache | true / false |  |  |  | |
 |  |  | | | | |
-|  | nein | Ursache" angekreuzt wurde. | true / false |  | |
+|  | nein | Feld nur ausfüllbar, wenn bei 7. "ja, andere | true / false |  | |
 |  | (ja); mindestens (Vor |  | | | |
 |  | **Schallempfindungsschwerhörigkeit** | | | | |
 | rechts | true / false |  |  | | |
@@ -174,7 +174,7 @@ Datum 12.08.2019 Version 1.03 (10 Zeichen) ist M=Monat ist. Verordnung) und (Ver
 |  | links | true / false | | | |
 |  | **10.** | **Kombinierte Schwerhörigkeit** | | | |
 
-Feld nur ausfüllbar, wenn bei 7. "ja, andere Verordnung) und (Verordnung) oder (Nachsorge) müssen ausgefüllt sein. mindestens eine  Antwort; In den drei Nummern zusammen Für die Nummerm 8. bis 10. gilt: maximal einmal "links" angekreuzt werden.
+Ursache" angekreuzt wurde. Verordnung) und (Verordnung) oder (Nachsorge) müssen ausgefüllt sein. mehrere Antworten sind möglich In den drei Nummern zusammen dürfen maximal einmal "rechts" und maximal einmal "links" angekreuzt werden.
 
 ---
 

@@ -72,19 +72,31 @@ Bei Patientinnen unter adjuvanter Therapie mit Aromataseinhibitoren, sofern die 
 
 16  16  18  18  19  19
 
-Therapie
+19  20  20  20  21  21  21
 
-19  20  20  20  21  21  21  22  22 22
+22
+
+22
+
+22
 
 23  23
 
-24  25  26  26  27
+24  25  26
+
+26  27
 
 27
 
-27  28  29  29
+27
 
-30  30  31
+28
+
+Therapie 29  29
+
+30
+
+30  31
 
 
 ---
@@ -457,13 +469,13 @@ ABSICHT FÜR EINE SPEZIFISCHE MEDIKAMENTÖSE THERAPIE EINER OSTEOPOROSE BESTEHT:
 |---|---|---|---|---|---|
 | 4.25 | 18.06.2024 | KBV | Korrektur des Beispiels (grün    Korrektur der |  | 36,       43 |
 | 4.24 | 15.05.2024 | KBV | Anpassung an überarbeitete    Überführung in aktuelles KBV- | Beschluss GBA mit Wirkung | 29, 34,  35, 42,  47ff, 50ff |
-| 4.23 | 26.06.2018 | KBV | Korrekturen |  | 42, 43 |
+| 4.23 | 26.06.2018 | KBV | Korrekturen |  | 34, 36, |
 | 4.22 | 22.05.2018 | KBV | Anpassung an überarbeitete  Kapitel 6.1.6 und 6.1.7 in der | Beschluss GBA mit Wirkung | 14ff |
 | 4.20 | 11.12.2017 | KBV | Angleichung der |  |  |
 | 4.00 | 16.10.2013 | KBV | Verwendung des neuen  Änderung der Schemaversion | Anpassung des eDoku- |  |
 | 3.00 | 07.05.2012 | KBV | Überarbeitung der Abschnitte, | Die GBA-Richtlinie ersetzt |  |
 
-markiert) Abschnittsüberschrift (grün markiert) Plausibilitäten Format Plausibilitäten Reihenfolge getauscht Versionsnummern von der Schnittstellenbeschreibung und dem Schnittstellenpaket eDoku-Headers: KBV_ITA_VGEX_Schnittstelle_e Header Kapiteln und Parameter. zum 01.10.2024 zum 01.10.2018 Headers an eGK 5.2.0 die RSAV 34, 36,
+markiert) Abschnittsüberschrift (grün markiert) Plausibilitäten zum 01.10.2024 Format 42, 43 zum 01.10.2018 Plausibilitäten Reihenfolge getauscht Versionsnummern von der Schnittstellenbeschreibung und dem Schnittstellenpaket Headers an eGK 5.2.0 eDoku-Headers: KBV_ITA_VGEX_Schnittstelle_e Header Kapiteln und Parameter. die RSAV
 
 |  |  |
 |---|---|
@@ -1497,9 +1509,7 @@ Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus
 
 ### Symptomatisches Lymphödem
 
-Bei diesem Parameter enthält das Element  gemäß Tabelle 18. Wird keine Angabe zu diesem Parameter gemacht, entfällt das Element
-
-<sciphox:Beobachtung>.
+Bei diesem Parameter enthält das Element  gemäß Tabelle 18. Wird keine Angabe zu diesem Parameter gemacht, entfällt das Element  <sciphox:Beobachtung>.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1599,6 +1609,19 @@ Als Beispiel sei hier folgender Code angegeben:
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
+**XML-Code 39:** Körpergewicht (ED)
+
+### 5.1.10 Abschnitt „Behandlungsplanung“
+
+Dieses Kapitel beschreibt den Abschnitt „Behandlungsplanung“
+
+Im Element <content> wird die Sciphox-SSU  5.1.3 dargestellt. Diese SSU enthält genau ein Kindelement < <sciphox:Beobachtungen> enthält ein Kindelement <sciphox:Beobachtung> mit dem fest vorgegebenen  <sciphox:Parameter>-Element: „Dokumentationsintervall“.
+
+Der Coderahmen sieht wie folgt aus:
+
+\| <content>**       <sciphox:Beobachtungen>               </content> |
+\|---|
+
 ) (ED)
 
 <sciphox:Ergebniswert> im *V*-Attribut die „Körpergröße“ und im
@@ -1609,24 +1632,9 @@ cm“
 
 kg“.
 
-**XML-Code 39:** Körpergewicht (ED)
+<sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="cm"/> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>*observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  sciphox:Beobachtungen>. Das Element
 
-### 5.1.10 Abschnitt „Behandlungsplanung“
-
-Dieses Kapitel beschreibt den Abschnitt „Behandlungsplanung“
-
-Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
-
-5.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element
-
-<sciphox:Beobachtungen> enthält ein Kindelement <sciphox:Beobachtung> mit dem fest vorgegebenen  <sciphox:Parameter>-Element: „Dokumentationsintervall“.
-
-Der Coderahmen sieht wie folgt aus:
-
-\| <content>**       <sciphox:Beobachtungen>               </content> |
-\|---|
-
-<sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="cm"/> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>|  |  |
+|  |  |
 |---|---|
 
 
@@ -1733,7 +1741,9 @@ Kapitel 5.1.3 zu entnehmen. Die Beschreibung der Kindelemente zur SSU  5.1.3.1 b
 
 Der Abschnitt „Einschreibung erfolgte wegen“ enthält im <content>
 
-<sciphox:Beobachtungen>. Das Element <sciphox:Beobachtungen> enthält ein Kindelement  <sciphox:Beobachtung> mit dem fest vorgegebenen <sciphox:Parameter> wegen“. Die verwendete Sciphox-SSU <observation> im <content>-Element ist im Kapitel 5.1.3
+<sciphox:Beobachtungen>. Das Element <sciphox:Beobachtungen> enthält ein Kindelement  <sciphox:Beobachtung> mit dem fest vorgegebenen <sciphox:Parameter> Element: „Einschreibung erfolgte
+
+wegen“. Die verwendete Sciphox-SSU <observation> im <content>-Element ist im Kapitel 5.1.3
 
 beschrieben.
 
@@ -1743,8 +1753,6 @@ Wenn für diesen Parameter eine Angabe existiert, sieht der Coderahmen wie folgt
 \|---|
 
 bei der Folgedokumentation ist dem  *observation* beinhalten die Kapitel -Element genau ein Element
-
-Element: „Einschreibung erfolgte
 
 **XML-Code 43:** content (Einschreibung erfolgte wegen ) (FD)
 
@@ -1931,7 +1939,7 @@ Dieses Kapitel beschreibt den Abschnitt „Seit der letzten Dokumentation
 
 Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
 
-5.1.3 dargestellt. Diese SSU enthält genau ein Kindelement < <sciphox:Beobachtungen> enthält maximal fünf Kindelemente <sciphox:Beobachtung> mit den jeweils fest  vorgegebenen <sciphox:Parameter>-Elementen: „Lokoregionäres Rezidiv
+5.1.3 dargestellt. Diese SSU enthält genau ein Kindelement < <sciphox:Beobachtungen> enthält maximal fünf Kindelemente <sciphox:Beobachtung> mit den jeweils fest  vorgegebenen <sciphox:Parameter>-Elementen: „Lokoregionäres Rezidiv (Datum der histologischen
 
 Sicherung)“, „Kontralateraler Brustkrebs (Datum des histologischen Sicherung)
 
@@ -1954,11 +1962,9 @@ neu aufgetretene Ereignisse
 
 sciphox:Beobachtungen>. Das Element
 
-(Datum der histologischen  “, „Lokalisation von
+“, „Lokalisation von
 
-das Element <sciphox:Parameter> mit dem  Sicherung)“, ein Element
-
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Lokoregionäres Rezidiv (Datum der histologischen Sicherung)"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Kontralateraler Brustkrebs (Datum des histologischen Sicherung) </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Lokalisation von Fernmetastasen (Datum der diagnostischen Sicherung) </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Symptomatisches Lymphödem"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Bioptische Sicherung der viszeralen Metastasen"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> "/> "/>*V*-Attribut
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Lokoregionäres Rezidiv (Datum der histologischen Sicherung)"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Kontralateraler Brustkrebs (Datum des histologischen Sicherung) </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Lokalisation von Fernmetastasen (Datum der diagnostischen Sicherung) </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Symptomatisches Lymphödem"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Bioptische Sicherung der viszeralen Metastasen"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> "/> "/>das Element <sciphox:Parameter> mit dem  Sicherung)“, ein Element  *V*-Attribut
 
 |  |  |
 |---|---|
@@ -2070,7 +2076,7 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tab
 
 Als Beispiel sei hier folgender Code angegeben:
 
-<sciphox:Parameter DN="Lokalisation von Fernmetastasen (Datum der diagnostischen Sicherung)"/> <sciphox:Zeitpunkt_dttm V=" "/> "/> "/> <sciphox:Parameter DN="Bioptische Sicherung der viszeralen Metastasen"/> <sciphox:Ergebnistext V="Ja"/>*V*-Attribut die Feldbezeichnung
+<sciphox:Parameter DN="Lokalisation von Fernmetastasen (Datum der diagnostischen Sicherung)"/> "/> "/> <sciphox:Zeitpunkt_dttm V=" "/> <sciphox:Parameter DN="Bioptische Sicherung der viszeralen Metastasen"/> <sciphox:Ergebnistext V="Ja"/>*V*-Attribut die Feldbezeichnung
 
 |  |  |
 |---|---|
@@ -2186,10 +2192,6 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 59:** Körpergröße (FD)
 
-<sciphox:Ergebniswert> im *V*-Attribut die „Körpergröße“ und im
-
-cm“
-
 ### Körpergewicht
 
 Bei diesem Parameter enthält das Element  im *U* Attribut den fest vorgeschriebenen Wert „
@@ -2201,10 +2203,6 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 60:** Körpergewicht (FD)
 
-<sciphox:Ergebniswert> im *V*-Attribut das „Körpergewicht“ und
-
-kg“.
-
 ### 6.1.8 Abschnitt „Behandlung bei fortgeschrittener Erkrankung (lokoregionäres
 
 ### Rezidiv/Fernmetastasen)
@@ -2213,11 +2211,7 @@ Dieses Kapitel beschreibt den Abschnitt Behandlung bei fortgeschrittener Erkrank
 
 Rezidiv/Fernmetastasen)
 
-Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
-
-5.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element
-
-<sciphox:Beobachtungen> enthält maximal zwei Kindelemente <sciphox:Beobachtung> mit den jeweils fest  vorgegebenen <sciphox:Parameter>-Elementen: „Therapie bei Knochenmetastasen (Bisphosphonate)“ und
+Im Element <content> wird die Sciphox-SSU  5.1.3 dargestellt. Diese SSU enthält genau ein  <sciphox:Beobachtungen> enthält maximal zwei Kindelemente <sciphox:Beobachtung> mit den jeweils fest  vorgegebenen <sciphox:Parameter>-Elementen: „Therapie bei Knochenmetastasen (Bisphosphonate)“ und
 
 „Therapie bei Knochenmetastasen (Denosumab)“.
 
@@ -2225,6 +2219,18 @@ Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus
 
 \| <content>**       <sciphox:Beobachtungen>                       </content> |
 \|---|
+
+<sciphox:Ergebniswert> im *V*-Attribut die „Körpergröße“ und im
+
+cm“
+
+<sciphox:Ergebniswert> im *V*-Attribut das „Körpergewicht“ und
+
+kg“.
+
+*observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
+
+Kindelement <sciphox:Beobachtungen>. Das Element
 
 <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="cm"/> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Therapie bei Knochenmetastasen (Bisphosphonate)"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Therapie bei Knochenmetastasen (Denosumab)"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>**XML-Code 61:** content (Befunde und Therapie von Fernmetastasen) (FD)
 

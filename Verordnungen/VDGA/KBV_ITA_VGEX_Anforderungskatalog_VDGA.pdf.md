@@ -4,21 +4,19 @@ einerseits
 
 und
 
-**der GKV-Spitzenverband (Spitzenverband Bund der Krankenkassen),** K. d. ö. R.,
+**der GKV-Spitzenverband (Spitzenverband Bund der Krankenkassen),**  Berlin,
 
-Berlin,
+K. d. ö. R.,
 
 andererseits
 
 vereinbaren Folgendes:
 
-Die Partner des Bundesmantelvertrages schließen als
-
-zum Bundes-
-
-**Anlage 26**
+Die Partner des Bundesmantelvertrages schließen als **Anlage 26**
 
 mantelvertrag-Ärzte (BMV-Ä) den nachstehenden
+
+zum Bundes-
 
 #### Anforderungskatalog nach § 73 Abs. 9 SGB V für Verordnung von  DiGA  Anforderungen an die Software zur Verordnung von Digita- len Gesundheitsanwendungen nach § 33a SGB V
 
@@ -36,7 +34,7 @@ DOKUMENTENHISTORIE
 | 1.1 | 11.01.2024 | KBV/GKV-SV | Anpassung der Anforde- Erweiterung der   Anpassung der Anforde- Erweiterung der | Klarstellungen und Anre- | 13  14    21    22 |
 | 1.0 | 25.05.2023 | KBV/GKV-SV | neues Dokument | Einführung des Anforde- | alle |
 
-tels 1.2 rung P2-020 und P4-311 und des Glossars  rung P2-020 und P4-310 und des Glossars  rung P4-230 rung P4-311 und des Glossars  rung P4-342 rung P4-340 rung P4-343 der verpflichtenden Um- setzung rungen KP4-312  rung P4-342 rung P4-130 Anforderung P4-210 rung P4-322 Anforderung P4-342 pflichtenden Umsetzung der elektronischen Verord- nung Nutzungshinweise Vorhandenseins von Kont- raindikationen kriterium 3 und 4 kriterium 5 schen Verordnung gungen aus der Sprech- stunde und den Zertifizie- rungen zum Verfahren Ver- ordnung von DiGA (VDGA) gungen aus der Sprech- stunde zum Verfahren Ver- ordnung von DiGA (VDGA) rungskatalogs nach § 73 Abs. 9 SGB V für Verord- nung von DiGA
+tels 1.2 pflichtenden Umsetzung der elektronischen Verord- nung rung P2-020 und P4-311 Nutzungshinweise und des Glossars  rung P2-020 und P4-310 Vorhandenseins von Kont- und des Glossars  raindikationen rung P4-230 rung P4-311 und des kriterium 3 und 4 Glossars  rung P4-342 kriterium 5 rung P4-340 schen Verordnung rung P4-343 der verpflichtenden Um- setzung gungen aus der Sprech- rungen KP4-312  stunde und den Zertifizie- rungen zum Verfahren Ver- rung P4-342 ordnung von DiGA (VDGA) gungen aus der Sprech- rung P4-130 stunde zum Verfahren Ver- ordnung von DiGA (VDGA) Anforderung P4-210 rung P4-322 Anforderung P4-342 rungskatalogs nach § 73 Abs. 9 SGB V für Verord- nung von DiGA
 
 ---
 

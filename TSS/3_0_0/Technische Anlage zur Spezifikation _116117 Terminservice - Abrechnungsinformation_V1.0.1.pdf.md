@@ -50,25 +50,21 @@ Seite 3 von 12
 
 **DATUM**
 
-31.07.2025
+**AUTOR**
 
-06.12.2024
+31.07.2025 kv.digital
+
+06.12.2024 kv.digital
 
 / KBV / Technische Anlage zur Spezifikation "116117 Terminservice - Abrechnungsinformation"
 
-**AUTOR**
-
-kv.digital
-
-kv.digital
-
 **KAPITEL ÄNDERUNG**
+
+**STATUS**
 
 4
 
 Korrektur Abbildung 2
-
-**STATUS**
 
 in Kraft
 
@@ -105,21 +101,15 @@ Ergänzung Element-Definition  "mustSupport"
 
 ---
 
-**VERSION**
-
-0.1
-
-Seite 4 von 12
-
-**DATUM**
-
-14.10.2024
-
-/ KBV / Technische Anlage zur Spezifikation "116117 Terminservice - Abrechnungsinformation"
+**VERSION DATUM**
 
 **AUTOR**
 
-kv.digital
+0.1
+
+14.10.2024 kv.digital
+
+Seite 4 von 12 / KBV / Technische Anlage zur Spezifikation "116117 Terminservice - Abrechnungsinformation"
 
 **KAPITEL ÄNDERUNG**
 
@@ -133,6 +123,8 @@ alle
 
 Initiale Erstellung
 
+**STATUS**
+
 **ÄNDERUNGEN**
 
 Entfernen des Teils  über das Abrufen  von einzelnen  Terminbuchungen  mittels GET-Request  mit Appointment-ID
@@ -144,8 +136,6 @@ Hinzufügen des  Parameter bsnr
 mehrere  Suchparameter  (statt nur einem)  möglich,  redaktionelle  Änderungen
 
 Hinzufügen des  Parameter bsnr
-
-**STATUS**
 
 Entwurf
 
@@ -283,29 +273,33 @@ Weitere Erläuterungen sowie Beispiele zu Requests sind im Implementation Guide 
 
 Seite 10 von 12 / KBV / Technische Anlage zur Spezifikation "116117 Terminservice - Abrechnungsinformation"
 
-**ABBILDUNG**  **IN FHIR**
+***ABRUF***** ABFRAGE ALLER**
 
-Provenance.ta rget
+**ABBILDUNG MÖGLICHE WERTE**
 
-Provenance.a gent
+**IN FHIR**
 
-Provenance.ac tivity
+Provenance.ta Referenz auf das geänderte Appointment (also die konkrete
 
-Provenance.re corded
+rget
 
-**MÖGLICHE WERTE**
+Terminbuchung)
 
-Referenz auf das geänderte Appointment (also die konkrete  Terminbuchung)
+Provenance.a Referenz auf die Praxis, den Arzt/Psychotherapeuten, den Patienten oder
 
-Referenz auf die Praxis, den Arzt/Psychotherapeuten, den Patienten oder  Angabe eines anderen Systems (bspw. "116117 Terminservice")
+gent
 
-CREATE, UPDATE* oder DELETE
+Angabe eines anderen Systems (bspw. "116117 Terminservice")
+
+Provenance.ac CREATE, UPDATE* oder DELETE
+
+tivity
 
 * UPDATE kann sowohl eine Änderung durch einen UPDATE-Request als  auch eine Änderungen durch den Aufruf einer custom operation sein
 
-Datum und Uhrzeit
+Provenance.re Datum und Uhrzeit
 
-***ABRUF***** ABFRAGE ALLER**
+corded
 
 
 ---

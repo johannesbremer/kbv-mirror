@@ -20,71 +20,127 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
 
 **ALLGEMEINES**
 
+**4**
+
 1.1 Rechtsgrundlage
+
+4
 
 1.2 Zertifizierungsablauf
 
+4
+
 1.3 Zertifizierungsportal
+
+5
 
 1.4 Zertifizierungsdokumente
 
+5
+
 1.5 Prüfunterlagen
 
-1.6 Prüfvorgaben  1.6.1 Schnittstellenversionen 1.6.2 Datumseingaben
+5
+
+1.6 Prüfvorgaben
+
+7
+
+1.6.1 Schnittstellenversionen
+
+7
+
+1.6.2 Datumseingaben
+
+7
 
 1.6.3 Prüfstammdaten
 
+7
+
 1.6.4 Versichertendaten
+
+7
 
 1.6.5 Praxisdaten/ Arztstempel
 
+7
+
 1.6.6 Krankenhausdaten
+
+9
 
 1.6.7 Prüfnummer
 
-1.6.8 Stammdatei der Datenannahmestellen (SDDA)
+9
 
-1.6.9 Auflistung der Prüffälle
+1.6.8 Stammdatei der Datenannahmestellen (SDDA) 9
+
+1.6.9 Auflistung der Prüffälle 10
 
 **PRÜFFÄLLE**
 
-2.1 Prüffälle Dokumentation  2.1.1 Prüffall 3911 2.1.2 Prüffall 3912
+**11**
+
+2.1 Prüffälle Dokumentation
+
+11
+
+2.1.1 Prüffall 3911
+
+11
+
+2.1.2 Prüffall 3912
+
+13
 
 2.1.3 Prüffall 3920
 
-2.2 Prüffall Systemreaktion  2.2.1 Prüffall 3914 2.2.2 Prüffall 3915
+15
+
+2.2 Prüffall Systemreaktion
+
+18
+
+2.2.1 Prüffall 3914
+
+18
+
+2.2.2 Prüffall 3915
+
+22
 
 2.2.3 Prüffall 3916
 
-2.3 Weitere Prüffälle zum Anforderungskatalog 2.3.1 Prüffall 3930
+23
+
+2.3 Weitere Prüffälle zum Anforderungskatalog 24
+
+2.3.1 Prüffall 3930
+
+24
 
 2.3.2 Prüffall 3940
 
+25
+
 **TESTDATENVALIDIERUNG**
-
-3.1 Prüffall Testdatenvalidierung  3.1.1 Prüffall TDV3918
-
-**ANHANG**
-
-4.1 Prüffall 10  Ersatzverfahren
-
-**REFERENZIERTE DOKUMENTE**
-
-**4**
-
-4  4  5  5  5  7  7  7  7  7  7  9  9  9  10
-
-**11**
-
-11  11  13  15  18  18  22  23  24  24  25
 
 **26**
 
-27  27
+3.1 Prüffall Testdatenvalidierung 27
+
+3.1.1 Prüffall TDV3918
+
+27
+
+**ANHANG**
 
 **29**
 
-29
+4.1 Prüffall 10  Ersatzverfahren 29
+
+**REFERENZIERTE DOKUMENTE**
 
 **30**
 
@@ -109,7 +165,9 @@ DOKUMENTENHISTORIE
 | 1.01 | 08.11.2022 | KBV | Datumsanpassungen der      Aufnahme eines Testfalls    Neuer Prüffall 3940 zur | Datumsanpassungen  Schnittstellenversion        Anpassung an | alle                    25 |
 | 1.00 | 14.05.2021 | KBV | Dokumenterstellung | Initiale Erstellung | alle |
 
-Prüffalls 3940 Prüffälle. Testfälle 3914, 3915, 3916 und 3930. 3916: Anpassung des Geburtsdatums des Geburtsdatums Prüffälle. für die Testdatenvalidierung zur 1.00. Umsetzung der Teilnahmeerklärung. Barcodeversion ab 1.1.2025 Funktionalität wegen der Prüffälle. 1.01 ist ab 01.04.2023 zu verwenden. Änderungen im Anforderungskatalog. 6  6  26
+6  6
+
+Prüffalls 3940 Barcodeversion ab 1.1.2025 Prüffälle. Testfälle 3914, 3915, 3916 und 3930. 3916: Anpassung des Geburtsdatums des Geburtsdatums Funktionalität Prüffälle. wegen der Prüffälle. für die 1.01 ist ab 01.04.2023 Testdatenvalidierung zur zu verwenden. 1.00. Umsetzung der Änderungen im Anforderungskatalog. Teilnahmeerklärung. 26
 
 
 ---
@@ -230,11 +288,7 @@ einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender N
 
 entsprechen. Diese werden durch den Prüfer begutachtet.
 
-- 1
-
-- 2 3
-
--  **PrüffallNr**.] _[**lfdNr**.] .*
+- **PrüffallNr** 1 **lfdNr** 2 3
 
 - Teilnahmeerklärung (Prüffall 3940): TE_EWE_OST.pdf
 
@@ -597,14 +651,14 @@ Einschreibung entsprechenden Daten ebenfalls dokumentiert werden. COPD-Zulassung
 | **Anamnese- und Befunddaten** | **Erstdokumentation** | **Verlaufsdokumentation** | |
 | COPD | Aktueller FEV1-Wert (alle sechs bis zwölf | 060,0 Prozent des Soll- | 092,0 Prozent des Soll- |
 | COPD | Klinische Einschätzung des | Nein | Nein |
-| OST |  | Ja |  |
-| OST |  |  | Ja |
+| OST | Osteoporosebedingte Fraktur in den | Ja |  |
+| OST | Neu aufgetretene osteoporosebedingte |  | Ja |
 | OST | Lokalisation der osteoporosebedingten | Proximale Femurfraktur, | Singuläre |
 | OST | Stürze in den letzten 6 Monaten | 39 |  |
 | OST | Stürze seit der letzten Dokumentation |  | 9 |
 | **Relevante Ereignisse** | | | |
 | COPD | Häufigkeit von Exazerbationen seit der |  | 2 |
-| COPD | Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche    Dokumentation |  | 1 |
+| COPD | Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche  Behandlung wegen COPD seit der letzten Dokumentation |  | 1 |
 | **Medikamente** | | | |
 | COPD | Kurz wirksame Beta-2-Sympathomimetika | Kontraindikation | Dauermedikation |
 | COPD | Lang wirksame Beta-2-Sympathomimetika | Dauermedikation | Kontraindikation |
@@ -613,7 +667,7 @@ Einschreibung entsprechenden Daten ebenfalls dokumentiert werden. COPD-Zulassung
 | COPD | Sonstige diagnosespezifische Medikation | Andere | Inhalative |
 | OST | Aktuelle osteoporosespezifische | Patientin mit | Bisphosphonate |
 
-Informationsangebote der Krankenkasse Ernährungsberatung Monate) Osteoporoserisikos durchgeführt Osteoporosebedingte Fraktur in den letzten 12 Monaten Neu aufgetretene osteoporosebedingte Fraktur seit der letzten Dokumentation Fraktur Behandlung wegen COPD seit der letzten und/oder Anticholinergika Wertes Hormonersatztherapie Wertes Wirbelkörperfraktur, Radiusfraktur Glukokortikosteroide
+Informationsangebote der Krankenkasse Ernährungsberatung Monate) Osteoporoserisikos durchgeführt letzten 12 Monaten Fraktur seit der letzten Dokumentation und/oder Anticholinergika Wertes Hormonersatztherapie Wertes Wirbelkörperfraktur, Radiusfraktur Glukokortikosteroide
 
 ---
 
@@ -650,7 +704,7 @@ Medikation Dokumentation) DMP bereits wahrgenommen  DMP wahrgenommen Dokumentati
 | **Prüffall-ID** | 3914 |
 | **Testziel** | Kontrolle der softwareseitigen Erkennung von |
 | **Voraussetzung** | Patient oder Patientin ist |
-| **Prüfunterlagen** | Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert.   Wenn technisch |
+| **Prüfunterlagen** | Dokumentieren Sie durch Video(s) die Eingaben nach einer möglichen    Wenn technisch |
 | **Hinweis** | Konkrete Dokumentationsdaten sind frei wählbar, sofern die |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
@@ -669,17 +723,17 @@ Die Personalien zu dem Testfall sind frei wählbar.
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum | 15.mm-jjjj |  |
 | Einschreibung wegen | Osteoporose |  |
-| Geschlecht | Patienten |  |
+| Geschlecht | Je nach Auswahl des |  |
 | **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 2,49 m |  |
 | Körpergewicht | 120 kg |  |
 | Blutdruck | 120 / 80 mmHg |  |
 | Raucher | Ja |  |
-| Begleiterkrankungen | Erkrankungen |  |
+| Begleiterkrankungen | Keine der genannten |  |
 | **Behandlungsplanung** | | |
 | Vom Patienten gewünschte Informationsangebote der | Ernährungsberatung,   Körperliches Training |  |
 
-65 Jahre alt Dokumentieren Sie durch Video(s) die Eingaben nach einer möglichen möglich, markieren Sie bitte die in Spalte „Aktion“ markierten Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. sind. Fehleingaben se nicht vorgegeben Krankenkasse Je nach Auswahl des Keine der genannten
+65 Jahre alt Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert. möglich, markieren Sie bitte die in Spalte „Aktion“ markierten Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. sind. Fehleingaben se nicht vorgegeben Krankenkasse Erkrankungen
 
 ---
 
@@ -860,7 +914,7 @@ Kontrolle der korrekten Umsetzung Pflichtfunktion P1-50  des einer möglichen Hi
 |  | |
 |---|---|
 | **Prüffall-ID** | 3940 |
-| **Testziel** | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
+| **Testziel** | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP  ) |
 | **Voraussetzung** |  |
 | **Prüfunterlagen** | PDF-Datei |
 | **Hinweis** | Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der |
@@ -882,7 +936,7 @@ Die Versichertendaten von **Malta Lija (XML_36)** einlesen und speichern.
 | DMP-Fallnummer | 1010 |
 | Datum | 05.04.2023 15.08.2025 |
 
-Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP „TE_EWE_OST.pdf“ der indikationsübergreifenden Teilnahme - und Einwilligungserklärung  indikationsübergreifenden Teilnahme - und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
+(KBV_ITA_VGEX_Anforderungskatalog_eDMP „TE_EWE_OST.pdf“ der indikationsübergreifenden Teilnahme - und Einwilligungserklärung  indikationsübergreifenden Teilnahme - und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
 
 ---
 
@@ -1023,12 +1077,12 @@ REFERENZIERTE DOKUMENTE
 | KBV_ITA_VGEX_Schnittstelle_eHeader | Dokumentation eHeader- |
 | XPM-Paket_OST | Prüfmodul OST |
 | XPM-Paket_COPD | Prüfmodul COPD |
-| Austausch_von_XML-Daten_Vn.nn.ZIP 4 | Austausch von XML Daten in der Vertragsärztlichen |
+| Austausch_von_XML-Daten_Vn.nn.ZIP4 | Austausch von XML Daten in der Vertragsärztlichen |
 | KBV_ITA_RLEX_Zert | Zertifizierungsrichtlinie der KBV |
 | KBV_ITA_FMEX_AAZ_eDMP_OST | Antrag auf Zertifizierung OST |
 | Stammdateien | Im Rahmen der Prüfung sind die regulären KBV |
 | KBV-Kryptomodul (XKM) und öffentlicher | KBV-Kryptomodul |
-| VSD_Testfaelle_DMP_Vn.n.zip 5 | Versichertenstammdaten im XML-Format zur |
+| VSD_Testfaelle_DMP_Vn.n.zip5 | Versichertenstammdaten im XML-Format zur |
 | KBV_ITA_VGEX_Schnittstelle_SDDA | Datensatzbeschreibung SDDA |
 | KBV_ITA_VGEX_Schnittstelle_SDKT | Datensatzbeschreibung SDKT |
 

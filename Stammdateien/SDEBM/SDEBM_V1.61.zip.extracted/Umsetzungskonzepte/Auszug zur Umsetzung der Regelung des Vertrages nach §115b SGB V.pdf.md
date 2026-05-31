@@ -41,9 +41,11 @@ Seite 5 von 10
 
 **Dezernat 3 – Gebührenordnung und Vergütung**  **Dezernat 5 – Bereich Informationstechnik**
 
-Sind hingegen Gebührennummern im Abschnitt 3 der Anlage 1 zum Vertrag aufgeführt, so  wird zur Kennzeichnung ein Element „ gungen zur Abrechnung der Gebührennummer eingefügt.
+Sind hingegen Gebührennummern im Abschnitt 3 der Anlage 1 zum Vertrag aufgeführt, so  wird zur Kennzeichnung ein Element „aop_115b“ mit Ausprägung V=“true“ bei den Bedin-
 
-Handelt es sich um Begleitleistungen, so kann im KV-spezifischen Bereich der Gebühren- nummer diese in dem Element „begleit_115b
+gungen zur Abrechnung der Gebührennummer eingefügt.
+
+Handelt es sich um Begleitleistungen, so kann im KV-spezifischen Bereich der Gebühren- nummer diese in dem Element „begleit_115b“ gekennzeichnet werden.
 
 **3.2 Abschnitt 1**
 
@@ -57,25 +59,19 @@ Die Kombination aus Gebührennummer und OPS-Code wird in der GO-Stammdatei als L
 
 Im folgenden Ausschnitt der Gebührenordnungsstammdatei ist die Änderung in der Schnitt- stelle zu erkennen (fett dargestellt). Die Gebührennummer XXXXX in Verbindung mit dem  OPS-Code 5-640.2 ist somit als Kombination nach § 115b SGB V abrechenbar. Die Kombina- tion Gebührennummer XXXXX und OPS-Code 5-895.20 ist somit nicht nach § 115b SGB V  abrechenbar.  <gnr V="XXXXX" USE="74" USE-DOMAIN="1.2.276.0.76.5.233" VT="2006-09-18">
 
-aop_115b“ mit Ausprägung V=“true“ bei den Bedin-
-
-“ gekennzeichnet werden.
-
 <allgemein>
 
-<gueltigkeit>  <service_tmr V="2005-04-01.."/>  <effective_tmr V="2006-07-01.."/>
+<gueltigkeit>  <service_tmr V="2005-04-01.."/>  <effective_tmr V="2006-07-01.."/>  </gueltigkeit>
 
-</gueltigkeit>  <legende>  <kap_bez V="31.2.2" DN="Definierte operative Eingriffe ...">  <bereich V="IV" DN="..."/>
+<legende>  <kap_bez V="31.2.2" DN="Definierte operative Eingriffe ...">  <bereich V="IV" DN="..."/>  <kapitel V="31" DN="..."/>
 
-<kapitel V="31" DN="..."/>  <abschnitt V="2" DN="..."/>
+<abschnitt V="2" DN="..."/>  <uabschnitt V="2" DN="..."/>
 
-<uabschnitt V="2" DN="..."/>  </kap_bez>  <kurztext V="..."/>
+</kap_bez>  <kurztext V="..."/>  <langtext V="..."/>
 
-<langtext V="..."/>  <quittungstext V="..."/>  </legende>  <anmerkungen_liste>
+<quittungstext V="..."/>  </legende>  <anmerkungen_liste>  <anmerkung V="..."/>
 
-<anmerkung V="..."/>  </anmerkungen_liste>
-
-<leistungsinhalt>  <komplex V="OBLIGAT">  <leistung V="..."/>
+</anmerkungen_liste>  <leistungsinhalt>  <komplex V="OBLIGAT">  <leistung V="..."/>
 
 </komplex>  <komplex V="FAKULTATIV">  <leistung V="Ein postoperativer Arzt-Patienten-Kontakt"/>  </komplex>
 
@@ -86,13 +82,13 @@ G:\Dezernat3\0S\§§\115b\2007\2007-06-15 RS_D3_70_VIII_04_2007_Umsetzung der Re
 
 **Dezernat 3 – Gebührenordnung und Vergütung**  **Dezernat 5 – Bereich Informationstechnik**
 
-</leistungsinhalt>  <bewertung_liste>
+</leistungsinhalt>  <bewertung_liste>  ...
 
-...  </bewertung_liste>  <zeitbedarf_liste>  ...
+</bewertung_liste>  <zeitbedarf_liste>  ...
 
-</zeitbedarf_liste>  <pruefzeit V="25" U="2" U-DOMAIN="1.2.276.0.76.5.238">  <zeitprofilart V="3" S="1.2.276.0.76.5.228" SV="1.00"/>  </pruefzeit>
+</zeitbedarf_liste>  <pruefzeit V="25" U="2" U-DOMAIN="1.2.276.0.76.5.238">  <zeitprofilart V="3" S="1.2.276.0.76.5.228" SV="1.00"/>
 
-<rlv V="0" S="1.2.276.0.76.5.241" SV="1.00"/>  <leistungsgruppe V="8" S="1.2.276.0.76.5.227" SV="1.00"/>
+</pruefzeit>  <rlv V="0" S="1.2.276.0.76.5.241" SV="1.00"/>  <leistungsgruppe V="8" S="1.2.276.0.76.5.227" SV="1.00"/>
 
 </allgemein>
 
@@ -100,33 +96,33 @@ G:\Dezernat3\0S\§§\115b\2007\2007-06-15 RS_D3_70_VIII_04_2007_Umsetzung der Re
 
 <genehmigungspflicht V="true"/>  <gnr_zusatzangaben>  <gnr_zusatzangaben_liste V="AUSWAHL">  <gnr_zusatzangabe V="5035" S="1.2.276.0.76.5.229" SV="1.03"/>
 
-<gnr_zusatzangabe V="5036" S="1.2.276.0.76.5.229" SV="1.03"/>  </gnr_zusatzangaben_liste>  </gnr_zusatzangaben>  <begruendungen_liste>
+<gnr_zusatzangabe V="5036" S="1.2.276.0.76.5.229" SV="1.03"/>  </gnr_zusatzangaben_liste>
 
-<ops_liste V="true">  <kategorie V="A1">  <ops V="5-640.2"  <ops V="5-895.20"/>
+</gnr_zusatzangaben>  <begruendungen_liste>  <ops_liste V="true">
 
-**R="115b"**
+<kategorie V="A1">  <ops V="5-640.2" **R="115b"**
 
-<ops V="5-895.24"  ...  </kategorie>
+<ops V="5-895.20"/>
 
-</ops_liste>  <gnr_liste>  ...
+<ops V="5-895.24" **R="115b"**
 
-</gnr_liste>  </begruendungen_liste>
+...  </kategorie>
 
-</bedingung>
+</ops_liste>  <gnr_liste>
 
-<regel/>
+...  </gnr_liste>  </begruendungen_liste>
 
-<kv>
+<kennzeichen>
 
-<kennzeichen>  ...   **<op_typ V="prae"/>**
+...   **<op_typ V="prae"/>**  **<op_typ V="post"/>**  **<op_typ V="intra"/>**  **</begleit_115b>**  </kennzeichen>
 
-**R="115b"**
+...
+
+...
+
+</bedingung>  <regel/>  <kv>
 
 **<begleit_115b V="true">**
-
-**<op_typ V="post"/>**  **<op_typ V="intra"/>**  **</begleit_115b>**  </kennzeichen>
-
-...    ...
 
 </kv>  <vdx>
 
@@ -157,7 +153,7 @@ Die anderen Leistungen des Abschnitts 2, die immer in Kombination mit dem OPS st
 
 Die GNR des Abschnitts 3 der Anlage 1 zum Vertrag nach § 115b SGB V sind im Rahmen  des Vertrages nach § 115b SGB V berechnungsfähig und ausschließlich als Leistung im  Rahmen des Vertrages nach § 115b SGB V einzustufen. Zu diesen GNR sind keine OPS- Codes existent.
 
-Zur Kennzeichnung dieser Gebührennummern in der Gebührenordnungsstammdatei ist an  der Stelle //gnr/bedingung das Element
+Zur Kennzeichnung dieser Gebührennummern in der Gebührenordnungsstammdatei ist an  der Stelle //gnr/bedingung
 
 eingefügt worden. Alle Gebührennummern, die in diesem V-Attribut den Wert  sind generell nach § 115b SGB V abzurechnen. Gebührennummern die dieses Element nicht  haben und auch mit keinem 115b-fähigen OPS verknüpft sind, lösen keinen Fall nach § 115b  SGB V aus.
 
@@ -169,13 +165,13 @@ Diese Änderung in der Schnittstelle ist im folgenden Ausschnitt der Gebührenor
 
 ...
 
+das Element <aop_115b V="true"/> (mit einem V-Attribut)  true enthalten,
+
 </allgemein>
 
 <bedingung>  **aop_115b V="true"/>**
 
 <genehmigungspflicht V="true"/>  <gnr_zusatzangaben>  <gnr_zusatzangaben_liste V="AUSWAHL">  <gnr_zusatzangabe V="5035" S="1.2.276.0.76.5.229" SV="1.03"/>
-
-<aop_115b V="true"/> (mit einem V-Attribut)  true enthalten,
 
 <gnr_zusatzangabe V="5036" S="1.2.276.0.76.5.229" SV="1.03"/>  </gnr_zusatzangaben_liste>  </gnr_zusatzangaben> ...
 
@@ -191,13 +187,13 @@ Da außerhalb des Kapitels 31 des EBM keine Systematik der prä-, intra- und pos
 
 Hierzu kann die KBV nur die notwendigen Strukturen innerhalb der GO-Stammdatei bereit- stellen. Die Auswahl der zulässigen Begleitleistungen muss durch die KV erfolgen.
 
-In der Gebührenordnungsstammdatei kann für diese Leistungen im Bereich  //gnr/kv/kennzeichen das Element
+In der Gebührenordnungsstammdatei kann für diese Leistungen im Bereich  //gnr/kv/kennzeichen das Element <begleit_115b V
 
 ist in diesem Fall von den KVen mit dem zulässigen Wert zu füllen. Sollte das V-Attribut den  Wert true enthalten, so besteht im Weiteren auch die Möglichkeit im Element
 
 G:\Dezernat3\0S\§§\115b\2007\2007-06-15 RS_D3_70_VIII_04_2007_Umsetzung der Regelung des Vertrages nach § 115b  SGB V_Anlage.doc
 
-<begleit_115b V="…"> verwendet werden. Es
+="…"> verwendet werden. Es
 
 <op_typ
 

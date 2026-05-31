@@ -2,31 +2,35 @@ Krankenkasse bzw. Kostenträger
 
 Zuzah- lungs-
 
-frei[ ] Zuzah- Name, Vorname des Versicherten
+frei
 
-lungs- pflicht[ ]
+Zuzah- Name, Vorname des Versicherten
 
-Unfall- folgen[ ]
+lungs- pflicht
 
-Kostenträgerkennung Versicherten-Nr.
+Unfall- folgen
 
-BVG [ ] Betriebsstätten-Nr. Arzt-Nr.
+Kostenträgerkennung
+
+BVG
+
+Betriebsstätten-Nr.
 
 Behandlungsplan_162.indd 1
 
 geb. am
 
+Versicherten-Nr.
+
 Status
+
+Arzt-Nr.
 
 Datum
 
 Geschlecht weiblich
 
 männlich
-
-[ ]
-
-[ ]
 
 #### Förder- und Behandlungsplan
 
@@ -40,11 +44,11 @@ ICD 10 (Bitte stets angeben):
 
 Die Behandlung ist wie folgt durchzuführen:
 
-Physiotherapie[ ]
+Physiotherapie
 
-Sprachtherapie[ ]
+Sprachtherapie
 
-Ergotherapie[ ]
+Ergotherapie
 
 Voraussichtliche Behandlungsdauer von:
 
@@ -64,9 +68,9 @@ IK des Leistungserbringers
 
 Gesamt-Zuzahlung
 
-Heilmittel-Pos.-Nr.
-
 Gesamt-Brutto
+
+Heilmittel-Pos.-Nr.
 
 Faktor
 
@@ -80,32 +84,44 @@ Einzelbehandlung
 
 Woche
 
-BE [ ] Monat[ ]
+BE
+
+Monat
 
 Woche
 
-BE [ ] Monat[ ]
+BE
+
+Monat
 
 Woche
 
-BE [ ] Monat[ ]
+BE
+
+Monat
 
 Heilmittel-Pos.-Nr.
 
-Faktor
-
 Gruppenbehandlung
 
+BE
+
+BE
+
+BE
+
+bis:
+
+Faktor
+
 Woche
 
-BE [ ] Monat[ ]
+Monat
 
 Woche
 
-BE [ ] Monat[ ]
+Monat
 
 Woche
 
-BE [ ] Monat[ ]
-
-bis: 04.09.15 07:46
+Monat 04.09.15 07:46

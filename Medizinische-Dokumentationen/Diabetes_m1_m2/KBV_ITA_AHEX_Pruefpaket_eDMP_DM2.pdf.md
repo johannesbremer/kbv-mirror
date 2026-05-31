@@ -159,7 +159,7 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung ohn
 | Prüffällen 6514 und | Prüffallszenarien für die |  | 28 |  | 22 |
 | 1.21 | 30.06.2023 | KBV | Anpassung der Prüffälle an | Überarbeitung des Testfalls | Schnittstellenversion |
 
-6530 Schnittstellenversionen 6.07 6530 Prüffälle. PDF417 Umsetzung der übergreifenden Schnittstellenversionen 6.05 Schnittstellenversionen 6.04 Testdatenvalidierung Schnittstellenversionen 6.03 Schnittstellenversionen 6.01 und neuen Anforderungen KP1- 210 und KP2-215 6.07 ist ab 01.10.2023 zu verwenden neuen Anforderungen KP1- 210 und KP2-215 Prüffälle. ist ab 01.04.2023 zu verwenden. im Anforderungskatalog. Corporate Design ist ab 01.07.2021 zu verwenden ist ab 01.04.2021 zu verwenden ist ab 01.04.2019 zu verwenden ist ab 01.07.2018 zu verwenden
+6530 Schnittstellenversionen 6.07 6530 Prüffälle. PDF417 Umsetzung der übergreifenden Schnittstellenversionen 6.05 Schnittstellenversionen 6.04 Testdatenvalidierung Schnittstellenversionen 6.03 Schnittstellenversionen 6.01 und neuen Anforderungen KP1- 210 und KP2-215 ist ab 01.10.2023 zu verwenden neuen Anforderungen KP1- 210 und KP2-215 Prüffälle. ist ab 01.04.2023 zu verwenden. im Anforderungskatalog. 6.07 Corporate Design ist ab 01.07.2021 zu verwenden ist ab 01.04.2021 zu verwenden ist ab 01.04.2019 zu verwenden ist ab 01.07.2018 zu verwenden
 
 ---
 
@@ -271,7 +271,7 @@ Die geforderten Videomitschnitte, Screenshots sowie die Teilnahmeerklärung (Pr�
 
 einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.
 
-- [PrüffallNr.] _[lfdNr.] .*  1 - 2 3
+- [PrüffallNr.]1_[lfdNr.]2 3
 
 - Teilnahmeerklärung (Prüffall 5540): TE_EWE_DM2.pdf
 
@@ -399,7 +399,7 @@ Karl-Friederich Graf Freiherr von Ingrid Schimmelpfennig-  – Ersatzverfahren  
 
 ## 2.1 PRÜFFÄLLE DOKUMENTATION
 
-**2.1.1** **Prüffall 6512**
+**2.1.1**
 
 |  |  |
 |---|---|
@@ -408,6 +408,8 @@ Karl-Friederich Graf Freiherr von Ingrid Schimmelpfennig-  – Ersatzverfahren  
 | **Voraussetzung** |  |
 | **Prüfunterlagen** | DM 2-Dokumentationsunterlagen |
 | **Hinweis** |  |
+
+### Prüffall 6512
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -980,10 +982,10 @@ PEZIFISCHE DATEN Netzhautuntersuchung seit der letzten Dokumentation das Diabeti
 |  |  |
 |---|---|
 | **Prüffall-ID** | 6514 |
-| **Testziel** | manche Fehleingaben nicht möglich sind. |
+| **Testziel** | Kontrolle der softwareseitigen Erkennung von Fehleingaben |
 | **Voraussetzung** | Patient oder Patientin ist mindestens 18 Jahre alt |
 | **Prüfunterlagen** | Dokumentieren Sie durch Video(s) die Eingaben nach einer möglichen    Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
-| **Hinweis** | sind. |
+| **Hinweis** | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -1014,7 +1016,7 @@ Die Personalien zu dem Testfall sind frei wählbar.
 |  | | |
 |  |  |  |
 
-Kontrolle der softwareseitigen Erkennung von Fehleingaben Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert.  Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben  bzw. Prüfung, dass  DATEN Informationsangebote der Krankenkasse
+manche Fehleingaben nicht möglich sind. Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert.  Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. sind.  bzw. Prüfung, dass  DATEN Informationsangebote der Krankenkasse
 
 ---
 
@@ -1315,9 +1317,9 @@ Nicht Durchgeführt “ hat. Dokumentationsintervall“        = „Quartalsweis
 |  | |
 |---|---|
 | **Prüffall-ID** | 6540 |
-| **Testziel** | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
+| **Testziel** | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP  ) |
 | **Voraussetzung** |  |
-| **Prüfunterlagen** | Einwilligungserklärung |
+| **Prüfunterlagen** | PDF-Datei „TE_EWE_DM2.pdf“ |
 | **Hinweis** | Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
@@ -1326,9 +1328,7 @@ Nicht Durchgeführt “ hat. Dokumentationsintervall“        = „Quartalsweis
 
 Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 
-- **2.** **Erstellen der Teilnahmeerklärung (Exemplar für die Datenstelle)** gemäß Kapitel 3 des
-
-- Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) mit den folgenden Daten:
+- **2.** **Erstellen der Teilnahmeerklärung (Exemplar für die Datenstelle)** Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP gemäß Kapitel 3 des  ) mit den folgenden Daten:
 
 |  |  |
 |---|---|
@@ -1337,7 +1337,7 @@ Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 | DMP-Fallnummer | 1010 |
 | Datum | 05.04.2023 |
 
-Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP PDF-Datei „TE_EWE_DM2.pdf“ der indikationsübergreifenden Teilnahme- und indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
+(KBV_ITA_VGEX_Anforderungskatalog_eDMP Einwilligungserklärung  der indikationsübergreifenden Teilnahme- und indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
 
 ---
 

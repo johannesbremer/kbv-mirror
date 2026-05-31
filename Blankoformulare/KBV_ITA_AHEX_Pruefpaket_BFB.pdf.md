@@ -191,9 +191,11 @@ Dekanülierungspotenzials gemäß AKI-Richtlinie des G-BA
 
 **7** **REFERENZIERTE DOKUMENTE**
 
-keit 30
+30
 
-30  30
+30
+
+keit 30
 
 30
 
@@ -201,7 +203,9 @@ keit 30
 
 31
 
-31  32
+31
+
+32
 
 33
 
@@ -250,7 +254,7 @@ DOKUMENTENHISTORIE
 | 3.37 | 06.01.2023 | KBV | Anpassung der Prüffälle für    Klarstellung der Prüffälle für | Änderung an den Mustern | 31      30 |
 | 3.36 | 15.12.2022 | KBV | Aktualisierung der Grafik zur | Fehlerhafte Ausweisung des | 8, 32 |
 
-Systemdatums sowie der Datumsangaben Systemdatums Muster 12 und 21 Muster 10 der Verzeichnisstruktur Muster 02, 13, 64 und 65 Muster 56 Muster 53 Einreichung der PDF- Dokumente Muster 62Ba
+Systemdatums sowie der Datumsangaben Systemdatums Muster 12 und 21 Muster 10 der Verzeichnisstruktur Muster 02, 13, 64 und 65 Muster 56 Muster 53 Einreichung der PDF- Muster 62Ba Dokumente
 
 
 ---
@@ -361,7 +365,7 @@ bereit. In diesem Zusammenhang berücksichtigen Sie bitte das vierte Kapitel Ref
 
 ## PRÜFUNTERLAGEN
 
-In diesem Kapitel werden alle notwendigen Vorgaben definiert, die bei der Erstellung der einzureichenden
+In diesem Kapitel werden alle notwendigen Vorgaben definiert, die bei der Erstellung der einzu
 
 Prüfunterlagen einzuhalten sind. Für die Zertifizierung werden als Nachweis, die in diesem Abschnitt  beschriebenen Unterlagen über das Zertifizierungsportal erwartet.
 
@@ -373,19 +377,21 @@ Prüfunterlagen einzuhalten sind. Für die Zertifizierung werden als Nachweis, d
 
 ### 1.5.1 Verzeichnisstruktur
 
-Die erstellten Muster sowie der Unterordner „Uebergreifend“, der die übergreifenden Prüffälle und  Screenshots enthält, sind in einem ZIP-Archiv zu übermitteln. Das ZIP-Archiv muss die Bezeichnung  1
+Die erstellten Muster sowie der Unterordner „Uebergreifend“, der die übergreifenden Prüffälle und  Screenshots enthält, sind in einem ZIP-Archiv zu übermitteln. Das ZIP-Archiv muss die Bezeichnung  „Zert_9_<SystemID>1“ erhalten. Die Struktur des ZIP-Archives sollte alle Muster beinhalten, für die im
 
-„Zert_9_<SystemID> “ erhalten. Die Struktur des ZIP-Archives sollte alle Muster beinhalten, für die im  2
-
-Antrag auf Zertifizierung die Prüfung beantragt wurde. Wird eine vollständige Zertifizierung angestrebt,  sollte das Paket die folgende Form aufweisen:
+Antrag auf Zertifizierung die Prüfung beantragt wurde. Wird eine vollständige Zertifizierung sollte das Paket die folgende Form aufweisen:
 
 Abbildung 1: Exemplarische Verzeichnisstruktur bei Einreichung aller Muster
 
 1 Die SystemID ergibt sich aus den letzten drei Stellen der eigenen Prüfnummer.
 
-2 Gemeint ist die Beantragung der Prüfung der Muster 02, 03, 04, 05, 06, 07, 08, 08A, 09, 10, 10L, 10A, 11, 12, 13, 15, 19, 20,
+2 Gemeint ist die Beantragung der Prüfung der Muster 02, 03, 04, 05, 06, 07, 08, 08A, 09, 10, 10L, 10A, 11, 12, 13, 15, 19, 20, 36, 39, 50, 51, 52, 53, 55, 56, 61, 62, 63, 64, 65, 70, 70A, KV5, KV6, KV7, KV9, KV10, PTV1, PTV2, PTV11 u
 
-36, 39, 50, 51, 52, 53, 55, 56, 61, 62, 63, 64, 65, 70, 70A, KV5, KV6, KV7, KV9, KV10, PTV1, PTV2, PTV11 u 21, 22, 25, 26, 27, 28,
+reichenden -
+
+2 angestrebt,
+
+21, 22, 25, 26, 27, 28,
 
 nd PTV12
 
@@ -467,9 +473,7 @@ Jedes BFB-Formular wird einzeln geprüft. Zu diesem Zweck werden personen- und f
 
 Angaben vorgegeben. Diese Angaben müssen in den dafür bestimmten Feldern auf dem BFB-Formular bzw.
 
-3
-
-gemäß Vorgabe im Barcode enthalten sein.
+gemäß Vorgabe3 im Barcode enthalten sein.
 
 3 Siehe Vordruck-Vereinbarung Blankoformularbedruckung [EXT_ITA_VGEX_Vordruckvereinbarung_BFB] und Technisches Handbuch
 
@@ -2097,7 +2101,7 @@ Alle erforderlichen Dokumente, die für die Bearbeitung der Prüffälle notwendi
 |---|---|
 | KBV_ITA_FMEX_AAZ_BFB | Antrag auf Zertifizierung |
 | Muster.zip.XKM | PCL- / PCX - Dateien der BFB- |
-| 4 | eGK-XML Dateien |
+| VSD_5.2.0_Testfaelle_Vn.n | eGK-XML Dateien |
 | **Kassenärztliche Vereinigung-Datentransfer (KVDT)** | |
 | KBV_ITA_VGEX_Anforderungskatalog_ICD-10 | Anforderungskatalog zur Anwendung |
 | KBV_ITA_VGEX_Anforderungskatalog_KVDT | Anforderungskatalog KVDT |
@@ -2112,4 +2116,4 @@ Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin  [pruefst
 
 4 n.n= in der jeweils aktuellen Version
 
-VSD_5.2.0_Testfaelle_Vn.n .zip Blankoformularbedruckung Formulare der ICD-10-GM
+4 Blankoformularbedruckung Formulare der ICD-10-GM

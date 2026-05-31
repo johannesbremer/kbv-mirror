@@ -148,7 +148,7 @@ DOKUMENTENHISTORIE
 
 | **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 1.04 | 31.03.2026 | KBV | Anpassung der Prüffälle an    Anpassung Prüffall 7240 | Schnittstellenversion | 7, 10ff        26 |
+| 1.04 | 31.03.2026 | KBV | Anpassung der Prüffälle an    Anpassung Prüffall 7240 | Schnittstellenversion    Änderung der | 7, 10ff        26 |
 | 1.03 | 15.08.2025 | KBV | Datumsanpassung im | Änderung der | 26 |
 | 1.02 | 12.05.2025 | KBV | Datumsanpassungen der  Überarbeitung des Testfalls  Überarbeitung des Testfalls |  | 7  9ff    20    24 |
 | 1.01 | 15.08.2023 | KBV | Datumsanpassungen der  Anpassung der | Datumsanpassungen | 9ff |
@@ -162,7 +162,7 @@ DOKUMENTENHISTORIE
 
 27
 
-Schnittstellenversionen Prüffälle. 7214 7230 Prüffälle. Medikamente im Prüffall 6513 für DM2. 1.01 ist ab 01.10.2026 zu verwenden Barcodeversion (03) ab 1.10.2026 Barcodeversion ab 1.1.2025 wegen der übergreifenden Prüffälle (DM2- 6.07 ist ab 01.10.2023 zu verwenden).
+Schnittstellenversionen 1.01 ist ab 01.10.2026 zu verwenden Barcodeversion (03) ab 1.10.2026 Barcodeversion ab 1.1.2025 Prüffälle. 7214 7230 Prüffälle. Medikamente im Prüffall 6513 für DM2. wegen der übergreifenden Prüffälle (DM2- 6.07 ist ab 01.10.2023 zu verwenden).
 
 ---
 
@@ -264,11 +264,9 @@ einem gesonderten Ordner „**Dokumentation**“ übermittelt werden und folgend
 
 entsprechen. Diese werden durch den Prüfer begutachtet.
 
-- 1
+- _[lfdNr.]2 3
 
-- 2 3
-
--  PrüffallNr. _[lfdNr.] .*
+-  PrüffallNr. 1
 
 - Teilnahmeerklärung (Prüffall 7240): TE_EWE_RA.pdf
 
@@ -375,7 +373,7 @@ Ab dem **01.10.2026** muss die Schnittstellenversion **6.08** verwendet werden.
 
 - (siehe oben Kapitel 1.6.1) gelten bzw. zu verwenden sind (hier wäre es der 01.10.2023 -
 
-- **Erstdokumentationsdatum**: Das Datum der Erstellung der Erstdokumentation ist
+- **Erstdokumentationsdatum**: Das Datum der Erstellung der Erstdokumentation ist jeweils der 15. des
 
 - Monats, der sechs Monate vor dem aktuellen Monat liegt.  Zum Beispiel: **Aktuelle Monat** ist **April 2025** **==>** **Erstdokumentationsdatum** ist der - **Ausnahme**
 
@@ -399,6 +397,16 @@ Ab dem **01.10.2026** muss die Schnittstellenversion **6.08** verwendet werden.
 
 Im Rahmen der Prüfung sind die regulären Stammdateien zu verwenden.
 
+- t werden.
+
+- t werden
+
+- Schnittstellen
+
+- **/01.10.2026**
+
+- **15.10.2024**
+
 ### 1.6.4 Versichertendaten
 
 Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall  und werden als XML-Dateien in der Archivdatei „VSD_Testfaelle_DMP_Vn.n.zip Dateien sind folgendermaßen aufgebaut:
@@ -407,19 +415,7 @@ Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüf
 
 - EF.PD = persönliche Versichertendaten
 
-erforderlichen Angaben  “ bereitgestellt. Die - t werden.
-
-- t werden
-
-- Schnittstellen
-
-- **/01.10.2026**
-
-- jeweils der 15. des
-
-- **15.10.2024**
-
-XML-
+erforderlichen Angaben  “ bereitgestellt. Die XML-
 
 
 ---
@@ -548,7 +544,7 @@ aufgezeichnet werden. Dokumentationsunterlagen (Wertebereich: 0 – 28) (Wertebe
 
 / Version: 1.04 / 31. März 2026
 
-DATEN Informationsangebote der Krankenkasse
+Informationsangebote der Krankenkasse  DATEN
 
 
 ---
@@ -836,13 +832,13 @@ orale Antikoagulation einer Rheuma-Schulung teilgenommen aktueller Dokumentation
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum der Erstellung (siehe Kap. 1.6.2) | 15.mm.jjjj |  |
 | Einschreibung wegen | rheumatoide Arthritis |  |
-| Geschlecht | Patienten |  |
+| Geschlecht | Je nach Auswahl des |  |
 | **Allgemeine Anamnese- und Befunddaten** | | |
 | Körpergröße | 1,68 m |  |
 | Körpergewicht | 79 kg |  |
 | Blutdruck | 120 / 90 mmHg |  |
 | Raucher |  | Nr. 1 |
-| Begleiterkrankungen | Erkrankungen |  |
+| Begleiterkrankungen | Keine der genannten |  |
 | **Behandlungsplanung** | | |
 | **2.2.1** |  |  |
 |  |  |  |
@@ -853,10 +849,10 @@ orale Antikoagulation einer Rheuma-Schulung teilgenommen aktueller Dokumentation
 | **Prüffall-ID** | 7214 |
 | **Testziel** | Kontrolle der softwareseitigen Erkennung von Fehleingaben |
 | **Voraussetzung** |  |
-| **Prüfunterlagen** | Fehlermeldungen.     Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
+| **Prüfunterlagen** | Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis - bzw.    Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
 | **Hinweis** | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben |
 
-Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis - bzw. Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. sind. Prüffall 7214 Aktionen, die durch den Antragsteller durchgeführt werden: Versichertendaten Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation  DATEN Je nach Auswahl des Keine der genannten
+Fehlermeldungen.  Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. sind. Prüffall 7214 Aktionen, die durch den Antragsteller durchgeführt werden: Versichertendaten Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation  DATEN Patienten Erkrankungen
 
 ---
 
@@ -1002,7 +998,7 @@ die Differenz zum Wert dieses Parameters aus der vorhergehenden verfügbaren anz
 |  | |
 |---|---|
 | **Prüffall-ID** | 7240 |
-| **Testziel** | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
+| **Testziel** | Kontrolle der korrekten Umsetzung von Teilen des  ) |
 | **Voraussetzung** |  |
 | **Prüfunterlagen** | PDF-Datei „TE_EWE_RA.pdf“ der indikationsübergreifenden Teilnahme- und |
 | **Hinweis** | Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der |
@@ -1024,7 +1020,7 @@ Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 | DMP-Fallnummer | 1010 |
 | Datum | 15.08.2025  15.10.2026 |
 
-Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP Einwilligungserklärung  indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
+Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP Einwilligungserklärung  indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
 
 ---
 
@@ -1094,12 +1090,12 @@ REFERENZIERTE DOKUMENTE
 | KBV_ITA_VGEX_Schnittstelle_eHeader | Dokumentation eHeader |
 | XPM-Paket_RA | Prüfmodul eDMP rheumatoide Arthritis |
 | XPM-Paket_DM2 | Prüfmodul eDMP Diabetes mellitus 2 |
-| Austausch_von_XML-Daten_Vn.nn.ZIP 4 | Austausch von XML Daten in der Vertragsärztlichen |
+| Austausch_von_XML-Daten_Vn.nn.ZIP4 | Austausch von XML Daten in der Vertragsärztlichen |
 | KBV_ITA_RLEX_Zert | Zertifizierungsrichtlinie der KBV |
 | KBV_ITA_FMEX_AAZ_eDMP_RA | Antrag auf Zertifizierung eDMP rheumatoide Arthritis |
 | Stammdateien | Im Rahmen der Prüfung sind die regulären KBV- |
 | KBV-Kryptomodul (XKM) und öffentlicher Test- | KBV-Kryptomodul |
-| VSD_Testfaelle_DMP_Vn.n.zip 5 | eGK Daten |
+| VSD_Testfaelle_DMP_Vn.n.zip5 | eGK Daten |
 | KBV_ITA_VGEX_Schnittstelle_SDDA | Datensatzbeschreibung SDDA (Datenannahmestellen |
 | KBV_ITA_VGEX_Schnittstelle_SDKT | Datensatzbeschreibung SDKT |
 

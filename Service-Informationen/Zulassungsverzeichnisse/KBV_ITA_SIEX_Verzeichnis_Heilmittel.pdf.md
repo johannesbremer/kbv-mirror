@@ -6,7 +6,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**23. MAI 2026**
+**30. MAI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -32,17 +32,15 @@
 |---|---|---|---|
 |  | Y/495/2401/36/081 | 31.12.2026 |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 23. Mai 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 30. Mai 2026
 
 Y/495/2401/36/062
 
-Y/495/2401/36/344 31.12.2026
+Y/495/2401/36/344 31.12.2026 Windows
 
-31.12.2026
+Linux Mac OS
 
-Windows
-
-APRIS APRIS Praxiscomputer GmbH Wetterkreuz 19 91058 Erlangen Internet: www.apris.de Arztpraxis Wiegand APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH Draiser Straße 164 55128 Mainz Internet: www.apw-wiegand.de iOS/Android Linux Mac OS Windows WindowsLinux Mac OS Sonstige Windows
+APRIS APRIS Praxiscomputer GmbH Wetterkreuz 19 91058 Erlangen Internet: www.apris.de Arztpraxis Wiegand APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH Draiser Straße 164 55128 Mainz Internet: www.apw-wiegand.de iOS/Android Linux Mac OS Windows Windows31.12.2026 Sonstige Windows
 
 
 ---
@@ -64,17 +62,13 @@ APRIS APRIS Praxiscomputer GmbH Wetterkreuz 19 91058 Erlangen Internet: www.apri
 |---|---|---|---|
 |  | Y/495/2401/36/324 | 31.12.2026 |  |
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 23. Mai 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 30. Mai 2026
 
 Y/495/2401/36/078
 
-Y/495/2401/36/459 31.12.2026
+Y/495/2401/36/459 31.12.2026 Windows
 
-31.12.2026
-
-Windows
-
-CGM MEDICO CGM Clinical Europe GmbH Hadersberg 1 84427 Sankt Wolfgang Internet: www.cgm.com/medico CROSSHEALTH CLICKVALID GmbH Potsdamer Platz 10 10785 Berlin Internet: www.clickvalid.com Windows WindowsWindows
+CGM MEDICO CGM Clinical Europe GmbH Hadersberg 1 84427 Sankt Wolfgang Internet: www.cgm.com/medico CROSSHEALTH CLICKVALID GmbH Potsdamer Platz 10 10785 Berlin Internet: www.clickvalid.com Windows Windows31.12.2026 Windows
 
 
 ---
@@ -96,17 +90,13 @@ CGM MEDICO CGM Clinical Europe GmbH Hadersberg 1 84427 Sankt Wolfgang Internet: 
 |---|---|---|---|
 |  | Y/495/2401/36/203 | 31.12.2026 |  |
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 23. Mai 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 30. Mai 2026
 
 Y/495/2401/36/346
 
-Y/495/2401/36/332 31.12.2026
+Y/495/2401/36/332 31.12.2026 Windows
 
-31.12.2026
-
-Windows
-
-TURBOMED CompuGroup Medical Deutschland AG Maria Trost 23 56070 Koblenz Internet: www.turbomed.de ALBIS CompuGroup Medical Deutschland AG Maria Trost 21 56070 Koblenz Internet: www.albis.de Windows WindowsWindows
+TURBOMED CompuGroup Medical Deutschland AG Maria Trost 23 56070 Koblenz Internet: www.turbomed.de ALBIS CompuGroup Medical Deutschland AG Maria Trost 21 56070 Koblenz Internet: www.albis.de Windows Windows31.12.2026 Windows
 
 
 ---
@@ -130,17 +120,13 @@ Softwarevariante(n): - CGM M1 PRO NEXT
 |---|---|---|---|
 |  | Y/495/2401/36/060 | 31.12.2026 |  |
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 23. Mai 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 30. Mai 2026
 
 Y/495/2401/36/023
 
-Y/495/2401/36/252 31.12.2026
+Y/495/2401/36/252 31.12.2026 Linux
 
-31.12.2026
-
-Linux
-
-CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG Karl-Wiechert-Allee 64 30625 Hannover Internet: www.medistar.de und www.cgm.com/de Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK Data-AL Data-AL GmbH Edisonallee 25 89231 Neu-Ulm Internet: www.data-al.de Windows WindowsWindows
+CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG Karl-Wiechert-Allee 64 30625 Hannover Internet: www.medistar.de und www.cgm.com/de Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK Data-AL Data-AL GmbH Edisonallee 25 89231 Neu-Ulm Internet: www.data-al.de Windows Windows31.12.2026 Windows
 
 
 ---
@@ -162,17 +148,13 @@ CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG Karl-Wiechert-Allee 64 
 |---|---|---|---|
 |  | Y/495/2509/37/677 | 30.09.2028 |  |
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 23. Mai 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 30. Mai 2026
 
 Y/495/2401/36/254
 
-Y/495/2401/36/314 31.12.2026
+Y/495/2401/36/314 31.12.2026 Windows
 
-31.12.2026
-
-Windows
-
-inSuite Doc Cirrus GmbH Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com Doctolib Praxis Doctolib GmbH Mehringdamm 51 10961 Berlin Internet: https://www.doctolib.de iOS/Android Linux Mac OS Sonstige Windows iOS/Android Linux Mac OS Sonstige WindowsWindows
+inSuite Doc Cirrus GmbH Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com Doctolib Praxis Doctolib GmbH Mehringdamm 51 10961 Berlin Internet: https://www.doctolib.de iOS/Android Linux Mac OS Sonstige Windows iOS/Android Linux Mac OS Sonstige Windows31.12.2026 Windows
 
 
 ---
@@ -196,17 +178,13 @@ inSuite Doc Cirrus GmbH Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com
 |---|---|---|---|
 |  | Y/495/2401/36/253 | 31.12.2026 |  |
 
-/ KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 23. Mai 2026
+/ KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 30. Mai 2026
 
 Y/495/2404/36/602
 
-Y/495/2401/36/086 31.03.2027
+Y/495/2401/36/086 31.03.2027 Linux
 
-31.12.2026
-
-Linux
-
-Epikur Epikur Software GmbH & Co. KG Franklinstraße 26 a 10587 Berlin Internet: www.epikur.de PsychoDat ergosoft GmbH Bahnhofstraße 11 c 67159 Friedelsheim Internet: www.ergosoft.info Linux Mac OS Windows WindowsWindows
+Epikur Epikur Software GmbH & Co. KG Franklinstraße 26 a 10587 Berlin Internet: www.epikur.de PsychoDat ergosoft GmbH Bahnhofstraße 11 c 67159 Friedelsheim Internet: www.ergosoft.info Linux Mac OS Windows Windows31.12.2026 Windows
 
 
 ---
@@ -228,17 +206,13 @@ Epikur Epikur Software GmbH & Co. KG Franklinstraße 26 a 10587 Berlin Internet:
 |---|---|---|---|
 |  | Y/495/2401/36/244 | 31.12.2026 |  |
 
-/ KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 23. Mai 2026
+/ KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 30. Mai 2026
 
 Y/495/2401/36/223
 
-Y/495/2401/36/034 31.12.2026
+Y/495/2401/36/034 31.12.2026 Windows
 
-31.12.2026
-
-Windows
-
-FIDUS FIDUS Software Entwicklungs-GmbH Frankfurter Landstr. 117 64291 Darmstadt Internet: www.fidus.de QUINCY WIN Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de Windows WindowsWindows
+FIDUS FIDUS Software Entwicklungs-GmbH Frankfurter Landstr. 117 64291 Darmstadt Internet: www.fidus.de QUINCY WIN Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de Windows Windows31.12.2026 Windows
 
 
 ---
@@ -260,17 +234,17 @@ FIDUS FIDUS Software Entwicklungs-GmbH Frankfurter Landstr. 117 64291 Darmstadt 
 |---|---|---|---|
 |  | Y/495/2401/36/451 | 31.12.2026 |  |
 
-/ KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 23. Mai 2026
+/ KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 30. Mai 2026
 
 Y/495/2504/21/616
 
-Y/495/2604/09/701 31.12.2026
+Y/495/2604/09/701
 
-31.12.2026
+iOS/Android Linux 31.12.2026 Mac OS Windows
 
-iOS/Android Linux Mac OS Windows
+Linux
 
-Elefant HASOMED GmbH Paul-Ecke-Str. 1 39114 Magdeburg Internet: www.hasomed.de ifa|NX-NEXT Generation AIS ifa systems AG Augustinusstraße 11b 50226 Frechen Internet: www.ifasystems.de Windows Linux Mac OS WindowsLinux Mac OS Windows
+Elefant HASOMED GmbH Paul-Ecke-Str. 1 39114 Magdeburg Internet: www.hasomed.de ifa|NX-NEXT Generation AIS ifa systems AG Augustinusstraße 11b 50226 Frechen Internet: www.ifasystems.de Windows Linux Mac OS Windows31.12.2026 Mac OS Windows
 
 
 ---
@@ -292,17 +266,15 @@ Elefant HASOMED GmbH Paul-Ecke-Str. 1 39114 Magdeburg Internet: www.hasomed.de i
 |---|---|---|---|
 |  | Y/495/2401/36/320 | 31.12.2026 |  |
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 23. Mai 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 30. Mai 2026
 
 Y/495/2401/36/210
 
-Y/495/2401/36/136 31.12.2026
+Y/495/2401/36/136 31.12.2026 Windows
 
-31.12.2026
+Mac OS
 
-Windows
-
-esQlab.online IQVIA Commercial GmbH & Co OHG Angela-Stadler-Str. 9 78224 Singen Internet: www.gradient.de DISweb KfH - Kuratorium für Dialyse und Nierentransplantation e.V. Martin-Behaim-Straße 20 63263 Neu-Isenburg Internet: www.kfh.de Windows WindowsMac OS Windows
+esQlab.online IQVIA Commercial GmbH & Co OHG Angela-Stadler-Str. 9 78224 Singen Internet: www.gradient.de DISweb KfH - Kuratorium für Dialyse und Nierentransplantation e.V. Martin-Behaim-Straße 20 63263 Neu-Isenburg Internet: www.kfh.de Windows Windows31.12.2026 Windows
 
 
 ---
@@ -326,17 +298,13 @@ Softwarevariante(n): - x.vianova
 |---|---|---|---|
 |  | Y/495/2401/36/266 | 31.12.2026 |  |
 
-/ KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 23. Mai 2026
+/ KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 30. Mai 2026
 
 Y/495/2401/36/135
 
-Y/495/2401/36/216 31.12.2026
+Y/495/2401/36/216 31.12.2026 Windows
 
-31.12.2026
-
-Windows
-
-x.concept medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de x.comfort medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de Windows WindowsWindows
+x.concept medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de x.comfort medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de Windows Windows31.12.2026 Windows
 
 
 ---
@@ -360,17 +328,13 @@ Softwarevariante(n): - psyx
 |---|---|---|---|
 |  | Y/495/2401/36/030 | 31.12.2026 |  |
 
-/ KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 23. Mai 2026
+/ KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 30. Mai 2026
 
 Y/495/2401/36/462
 
-Y/495/2401/36/256 31.12.2026
+Y/495/2401/36/256 31.12.2026 Windows
 
-31.12.2026
-
-Windows
-
-eRIS medavis GmbH Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.de Praxis-Programm medisoftware GmbH & Co. KG Steinstraße 1 24118 Kiel Internet: www.medisoftware.de Linux Mac OS Windows WindowsWindows
+eRIS medavis GmbH Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.de Praxis-Programm medisoftware GmbH & Co. KG Steinstraße 1 24118 Kiel Internet: www.medisoftware.de Linux Mac OS Windows Windows31.12.2026 Windows
 
 
 ---
@@ -388,7 +352,7 @@ eRIS medavis GmbH Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.de Prax
 |---|---|---|---|
 |  | Y/495/2401/36/015 | 31.12.2026 |  |
 
-/ KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 23. Mai 2026
+/ KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 30. Mai 2026
 
 MEDVISION MedVision AG Heinrich-Hertz-Str. 9 59423 Unna Internet: www.medvision.de Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPHRO - PATIDOK AMBULANZ MEDYS MEDYS GmbH Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de Windows Mac OS WindowsY/495/2401/36/192 31.12.2026 Windows
 
@@ -412,17 +376,13 @@ MEDVISION MedVision AG Heinrich-Hertz-Str. 9 59423 Unna Internet: www.medvision.
 |---|---|---|---|
 |  | Y/495/2401/36/043 | 31.12.2026 |  |
 
-/ KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 23. Mai 2026
+/ KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 30. Mai 2026
 
 Y/495/2401/36/290
 
-Y/495/2401/36/276 31.12.2026
+Y/495/2401/36/276 31.12.2026 Windows
 
-31.12.2026
-
-Windows
-
-ClinicCentre Billing (OPD) Mesalvo Mannheim GmbH Am Exerzierplatz 14 68167 Mannheim Internet: https://mesalvo.com Pro_Medico Neutz GmbH Systemhaus Schwabstraße 22 74189 Weinsberg Internet: www.neutz.net Windows WindowsWindows
+ClinicCentre Billing (OPD) Mesalvo Mannheim GmbH Am Exerzierplatz 14 68167 Mannheim Internet: https://mesalvo.com Pro_Medico Neutz GmbH Systemhaus Schwabstraße 22 74189 Weinsberg Internet: www.neutz.net Windows Windows31.12.2026 Windows
 
 
 ---
@@ -444,17 +404,13 @@ ClinicCentre Billing (OPD) Mesalvo Mannheim GmbH Am Exerzierplatz 14 68167 Mannh
 |---|---|---|---|
 |  | Y/495/2401/36/208 | 31.12.2026 |  |
 
-/ KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 23. Mai 2026
+/ KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 30. Mai 2026
 
 Y/495/2401/36/299
 
-Y/495/2401/36/278 31.12.2026
+Y/495/2401/36/278 31.12.2026 Windows
 
-31.12.2026
-
-Windows
-
-NEXUS/KIS (international) NEXUS / REHA GmbH Irmastraße 1 78166 Donaueschingen NEXUS / KIS NEXUS AG Irmastraße 1 78166 Donaueschingen Internet: www.nexus-ag.de Windows WindowsWindows
+NEXUS/KIS (international) NEXUS / REHA GmbH Irmastraße 1 78166 Donaueschingen NEXUS / KIS NEXUS AG Irmastraße 1 78166 Donaueschingen Internet: www.nexus-ag.de Windows Windows31.12.2026 Windows
 
 
 ---
@@ -476,17 +432,13 @@ NEXUS/KIS (international) NEXUS / REHA GmbH Irmastraße 1 78166 Donaueschingen N
 |---|---|---|---|
 |  | Y/495/2401/36/456 | 31.12.2026 |  |
 
-/ KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 23. Mai 2026
+/ KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 30. Mai 2026
 
 Y/495/2401/36/083
 
-Y/495/2401/36/247 31.12.2026
+Y/495/2401/36/247 31.12.2026 Windows
 
-31.12.2026
-
-Windows
-
-psyprax psyprax GmbH Landsberger Straße 308 80687 München Internet: www.psyprax.de RED medical classic RED Medical Systems GmbH Lutzstraße 2 80687 München Internet: www.REDMEDICAL.DE Windows iOS/Android Linux Mac OS Sonstige WindowsWindows
+psyprax psyprax GmbH Landsberger Straße 308 80687 München Internet: www.psyprax.de RED medical classic RED Medical Systems GmbH Lutzstraße 2 80687 München Internet: www.REDMEDICAL.DE Windows iOS/Android Linux Mac OS Sonstige Windows31.12.2026 Windows
 
 
 ---
@@ -508,17 +460,17 @@ psyprax psyprax GmbH Landsberger Straße 308 80687 München Internet: www.psypra
 |---|---|---|---|
 |  | Y/495/2401/36/230 | 31.12.2026 |  |
 
-Seite 17 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 23. Mai 2026
+Seite 17 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 30. Mai 2026
 
 Y/495/2401/36/261
 
-Y/495/2401/36/343 31.12.2026
+Y/495/2401/36/343
 
-31.12.2026
+Sonstige 31.12.2026 Windows
 
-Sonstige Windows
+Sonstige
 
-ARZT 2000 Schmidt Computersysteme Chrysanthemenweg 4 02827 Görlitz Internet: www.arzt2000.de QMED.PRAXIS Schwerdtner Medizin-Software GmbH Loebensteinstraße 26 30175 Hannover Internet: www.q-med.de Windows WindowsSonstige Windows
+ARZT 2000 Schmidt Computersysteme Chrysanthemenweg 4 02827 Görlitz Internet: www.arzt2000.de QMED.PRAXIS Schwerdtner Medizin-Software GmbH Loebensteinstraße 26 30175 Hannover Internet: www.q-med.de Windows Windows31.12.2026 Windows
 
 
 ---
@@ -544,23 +496,21 @@ ARZT 2000 Schmidt Computersysteme Chrysanthemenweg 4 02827 Görlitz Internet: ww
 |---|---|---|---|
 |  | Y/495/2401/36/205 | 31.12.2026 |  |
 
-/ KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 23. Mai 2026
+/ KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 30. Mai 2026
 
 Y/495/2401/36/458
 
 Y/495/2401/36/231
 
-Y/495/2401/36/498 31.12.2026
+Y/495/2401/36/498
 
-31.12.2026
+Linux 31.12.2026 Windows
 
-31.12.2026
+Linux 31.12.2026 Windows
 
-Linux Windows
+iOS/Android Linux
 
-Linux Windows
-
-Medi10 UfP Systemhaus GmbH Heinz-Fangman-Str. 4 42287 Wuppertal Internet: www.ufpgmbh.de UNISOLO®-POESY UNISOLO® GmbH Gaußstr. 7 38106 Braunschweig Internet: www.unisolo.de Windows WindowsiOS/Android Linux Mac OS Windows
+Medi10 UfP Systemhaus GmbH Heinz-Fangman-Str. 4 42287 Wuppertal Internet: www.ufpgmbh.de UNISOLO®-POESY UNISOLO® GmbH Gaußstr. 7 38106 Braunschweig Internet: www.unisolo.de Windows Windows31.12.2026 Mac OS Windows
 
 
 ---
@@ -572,4 +522,4 @@ Medi10 UfP Systemhaus GmbH Heinz-Fangman-Str. 4 42287 Wuppertal Internet: www.uf
 |  | Y/495/2401/36/457 | 31.12.2026 |  |
 |  | Y/495/2603/37/768 | 31.03.2029 |  |
 
-tomedo Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de tomedo.air Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Mac OS Mac OS Windows/ KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 23. Mai 2026
+tomedo Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de tomedo.air Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Mac OS Mac OS Windows/ KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 30. Mai 2026

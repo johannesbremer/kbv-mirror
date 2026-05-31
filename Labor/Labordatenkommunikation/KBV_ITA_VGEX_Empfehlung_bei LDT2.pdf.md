@@ -109,15 +109,17 @@ vorhanden sein.  entweder FK 8627 oder FK 4111 vor- handen sein. Beide Feldkennu
 | **8624** | 1 | Covid-Beauftragung | k | Entweder darf FK 8617 oder FK 8624  Entweder darf FK 8626 oder FK 8624 |
 | **7330** | 1 | Telefonnummer des Ge- | K |  |
 
-Für die Feldkennung **4111**, welche bereits in der ursprünglich LDT2 Definition vorhanden ist, ist folgende
-
-Regel zusätzlich anzuwenden:
+Für die Feldkennung  Regel zusätzlich anzuwenden:
 
 | **FK** | **VORKOMMEN  1  2  3  4** | **FELDBEZEICHNUNG** | **FELDART** | **BEDINGUNG** |
 |---|---|---|---|---|
 | **4111** | 1 | Kostentraegerkennung | m | Wenn Inhalt von FK 8626 = 2, muss  Wenn Inhalt von FK 8626 = 1 oder 3, |
 
-min. die FK 8617 oder FK 8631 oder FK 8632 vorhanden sein.  der zwei drei Feldkennungen vorhan- den sein. vorhanden sein.  8618 nicht vorhanden sein. vorhanden sein.  8619 nicht vorhanden sein. 8620 nicht vorhanden sein. chen ÖGD vorhanden sein.  vorhanden sein. testeten entweder FK 8627 oder FK 4111 vor- handen sein. Beide Feldkennungen dürfen gleichzeitig vorhanden sein. darf FK 4111 nicht vorhanden sein.Die Feldkennungen sollten wie folgt definiert werden:
+Die Feldkennungen sollten wie folgt definiert werden:
+
+**4111**, welche bereits in der ursprünglich LDT2 Definition vorhanden ist, ist
+
+chen ÖGD testeten min. die FK 8617 oder FK 8631 oder FK 8632 vorhanden sein.  der zwei drei Feldkennungen vorhan- den sein. vorhanden sein.  8618 nicht vorhanden sein. vorhanden sein.  8619 nicht vorhanden sein. 8620 nicht vorhanden sein. vorhanden sein.  vorhanden sein. entweder FK 8627 oder FK 4111 vor- handen sein. Beide Feldkennungen dürfen gleichzeitig vorhanden sein. darf FK 4111 nicht vorhanden sein.folgende
 
 
 ---
@@ -215,15 +217,14 @@ entweder FK 8627 oder FK 4111 vorhanden sein. Beide Feldkennun- gen dürfen glei
 
 ## 2.3 ERWEITERUNG DER SATZART 8203
 
-Nach der Feldkennung
+Nach der Feldkennung **8311** sollte die folgende Feldkennung ergänzt werden:
 
 | **FK** | **VORKOMMEN  1  2  3  4** | **FELDBEZEICHNUNG** | **FELDART** | **BEDINGUNG** |
 |---|---|---|---|---|
 | **8616** | 1 | Testungen | K |  |
 | **8626** | 1 | Rechtsgrundlage der Tes- | K | Wenn Inhalt von FK 8626 = 2, muss  Wenn Inhalt von FK 8626 = 1 oder 3,  Wenn Inhalt von FK 8626 = 3, darf |
 
-bracht in richtung richtung tenzeichen ÖGD der Testung entweder FK 8627 oder FK 4111 vorhanden sein. Beide Feldkennun- gen dürfen gleichzeitig vorhanden sein. darf FK 8627 und FK 4111 nicht vor- handen sein. FK 8617, 8618, 8619 und 8620 nicht vorhanden sein. **8311** sollte die folgende Feldkennung ergänzt werden:
-
+bracht in richtung richtung tenzeichen ÖGD der Testung entweder FK 8627 oder FK 4111 vorhanden sein. Beide Feldkennun- gen dürfen gleichzeitig vorhanden sein. darf FK 8627 und FK 4111 nicht vor- handen sein. FK 8617, 8618, 8619 und 8620 nicht vorhanden sein.
 
 ---
 

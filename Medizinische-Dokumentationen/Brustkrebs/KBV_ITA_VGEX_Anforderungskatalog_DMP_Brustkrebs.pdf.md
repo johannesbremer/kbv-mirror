@@ -9,9 +9,9 @@
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
-|  | 15.08.2024 |
+|  | Version |
 
-Brustkrebs log_DMP_Brustkrebs Herbert-Lewin-Platz 2 Version  2.24 Datum: Kennzeichnung: Öffentlich  Status: In Kraft
+Brustkrebs log_DMP_Brustkrebs Herbert-Lewin-Platz 2 2.24 Datum: 15.08.2024 Kennzeichnung: Öffentlich  Status: In Kraft
 
 
 ---
@@ -260,6 +260,8 @@ Ident-Nummer einer optionalen Funktion
 
 ---
 
+Brustkrebs
+
 # 2 Ärztliches Dokumentieren
 
 ## 2.1 Allgemeine Vorgaben
@@ -280,9 +282,7 @@ Bei der Neuanlage einer Erstdokumentation muss der Anwender eine bisher nicht ve
 
 Wird für einen eingeschriebenen Patienten eine Folgedokumentation angelegt, so muss die  Software sicherstellen, dass eine Erstdokumentation existiert. Dies ist zum einen über den in- ternen Datenbestand zu prüfen oder aber vom Anwender explizit zu bestätigen, nachdem die  Software eine Fehlermeldung zu diesem Sachverhalt ausgegeben hat.
 
-Diese Regelung greift nicht, wenn der eingeschriebene Patient den dokumentierenden Arzt  wechselt und auf der Folgedokumentation der Arztwechsel (s. P1-15 ) oder die Vertretungge-
-
-kennzeichnet werden kann.
+Diese Regelung greift nicht, wenn der eingeschriebene Patient den dokumentierenden Arzt  wechselt und auf der Folgedokumentation der Arztwechsel (s. P1-15  kennzeichnet werden kann.
 
 Prinzipiell ist es also möglich, dass der Verlauf einer Falldokumentation mit einer Verlaufsdoku- mentation beginnt.
 
@@ -302,19 +302,21 @@ Die Software muss den Zeitpunkt der Dokumentation erfassen.
 
 - 1. Die Software muss bei der Erstellung einer Dokumentation das Kopfdatum systemseitig  setzen
 
-- 2. Die Software überträgt das Kopfdatum in der Dokumentation über das Element *origina-*
-
-- *tion_dttm*
+- 2. Die Software überträgt das Kopfdatum in der Dokumentation über das Element  *tion_dttm*
 
 - 3. Das Kopfdatum ist nach erstmaliger Anlage bzw. Start der Dokumentation nicht mehr  änderbar.
 
 **Hinweis:**
 
-Zu beachten ist in diesem Zusammenhang auch die Pflichtfunktion **P1-14**
+Zu beachten ist in diesem Zusammenhang auch die Pflichtfunktion
 
 [KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.24
 
-Brustkrebs
+) oder die Vertretungge-
+
+- *origina-*
+
+**P1-14**
 
 
 ---
@@ -669,7 +671,7 @@ Brustkrebs
 
 [KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.24
 
-Versichertendaten manuell erfassen  Patientenstammdaten "manuell" erfassen stammdaten zu erfassen, z.B.: Patientenstammdaten manuell über Tastatur eingeben, gedruckte Patientenstammdaten (z.B. Überweisungsschein im Labor) scannen und in- terpretieren. daten und wird wie folgt definiert :  liegt vor, wenn dem Arzt lediglich ein gültiger Überweisungsschein (z.B. Einsendepraxen), nicht aber die Krankenversichertenkarte zur Verfügung steht, der Versicherte darauf hinweist, dass sich die zuständige Krankenkasse oder der Versicher- tenstatus geändert hat, die Versichertenkarte dies aber noch nicht berücksichtigt, die Versichertenkarte defekt ist, das Lesegerät/der Drucker defekt ist, die Versichertenkarte nicht benutzt werden kann, weil für Hausbesuche kein entsprechendes Gerät zur Verfügung steht. Beim und in allen Fällen, in denen keine Versichertenkarte vorgelegt wird (z.B. Überweisungsschein) oder vorgelegt werden kann (z.B. Einsendepraxen, Einsendepraxen, be- fristete provisorische Ersatzbescheinigung nach § 19(2) BMV-Ä), muss das System die Erfas- sung sämtlicher Versichertendaten ermöglichen Behandlungsausweises von der Versichertenkarte umgedruckt wurden. Diese sind: Patientenstamm- , wie sie in das Personalienfeld des jeweiligen gleiche [KBV_ITA_VGEX_Schnittstelle_eHeader ]) rung><Versichertennummer> cda:patient  ver-
+Versichertendaten manuell erfassen  Patientenstammdaten "manuell" erfassen stammdaten zu erfassen, z.B.: Patientenstammdaten manuell über Tastatur eingeben, gedruckte Patientenstammdaten (z.B. Überweisungsschein im Labor) scannen und in- terpretieren. daten und wird wie folgt definiert  liegt vor, wenn dem Arzt lediglich ein gültiger Überweisungsschein (z.B. Einsendepraxen), nicht aber die Krankenversichertenkarte zur Verfügung steht, der Versicherte darauf hinweist, dass sich die zuständige Krankenkasse oder der Versicher- tenstatus geändert hat, die Versichertenkarte dies aber noch nicht berücksichtigt, die Versichertenkarte defekt ist, das Lesegerät/der Drucker defekt ist, die Versichertenkarte nicht benutzt werden kann, weil für Hausbesuche kein entsprechendes Gerät zur Verfügung steht. Beim und in allen Fällen, in denen keine Versichertenkarte vorgelegt wird (z.B. Überweisungsschein) oder vorgelegt werden kann (z.B. Einsendepraxen, Einsendepraxen, be- fristete provisorische Ersatzbescheinigung nach § 19(2) BMV-Ä), muss das System die Erfas- sung sämtlicher Versichertendaten ermöglichen Behandlungsausweises von der Versichertenkarte umgedruckt wurden. Diese sind: Patientenstamm- , wie sie in das Personalienfeld des jeweiligen gleiche [KBV_ITA_VGEX_Schnittstelle_eHeader ]) rung><Versichertennummer> cda:patient  ver-
 
 ---
 
@@ -739,7 +741,9 @@ Brustkrebs
 
 - 1. Die Software muss einen Ausdruck der Dokumentation ermöglichen.
 
-- 2. Die Software muss sicherstellen, dass auf dem erzeugten Ausdruck alle Daten nach den  aktuell gültigen DMP-Richtlinien des G-BA ([GBA_DMP_RL], [GBA_DMP_A_RL]) aus-2 - gedruckt werden.
+- 2. Die Software muss sicherstellen, dass auf dem erzeugten Ausdruck alle Daten nach den  aktuell gültigen DMP-Richtlinien des G-BA2 ([GBA_DMP_RL], [GBA_DMP_A_RL]) aus-
+
+- gedruckt werden.
 
 - 3. Die Software muss nach Bestätigung der vollständigen Plausibilisierung und endgültiger  Speicherung einen Hinweis bzw. eine Frage enthalten, ob jetzt ein Ausdruck zur Weiter- gab e an den Patienten erfolgen soll.
 
@@ -784,6 +788,8 @@ Brustkrebs
 
 ---
 
+Brustkrebs
+
 | **PFLICHTFUNKTION DMP** | |
 |---|---|
 | **P3-21** | **Erinnerungsfunktion zur Teilnahmeerklärung** |
@@ -806,8 +812,6 @@ Nur wenn beide Erklärungen unterschrieben und versendet wurden, sind die Daten-
 
 [KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.24
 
-Brustkrebs
-
 **Teilnahme-**
 
 versendet haben!
@@ -815,17 +819,19 @@ versendet haben!
 
 ---
 
+Brustkrebs
+
 ## 2.4 Datenübermittlung
 
 ### 2.4.1 Anwendung Prüfmodul (XPM)
-
-Brustkrebs
 
 | **PFLICHTFUNKTION DMP** | |
 |---|---|
 | **P4-10** | **Einsatz XPM** |
 
-Das System muss zur Prüfung der Dokumentationen  gültige XPM einsetzen. Keine vom XPM als fehlerhaft erkannten Dokumentationen dürfen über- tragen werden. Für nähere Erläuterungen bezüglich Funktion und Anwendung des XPM ist in  [KBV_ITA_AHEX_Handbuch_Pruefmodul] nachzulesen.
+Das System muss zur Prüfung der Dokumentationen das jeweils für das Dokumentationsquartal
+
+gültige XPM einsetzen. Keine vom XPM als fehlerhaft erkannten Dokumentationen dürfen über- tragen werden. Für nähere Erläuterungen bezüglich Funktion und Anwendung des XPM ist in  [KBV_ITA_AHEX_Handbuch_Pruefmodul] nachzulesen.
 
 **2.4.2 Export der Daten**
 
@@ -856,8 +862,6 @@ Das System muss,
 *Die Dokumentationen der Indikation Brustkrebs, welche mit einem Erstelldatum ab dem 1. Ok-* *tober 2024 erstellt bzw. exportiert werden, erhalten das folgende Archivkürzel:*
 
 -  *BK_425*
-
-das jeweils für das Dokumentationsquartal
 
 | **PFLICHTFUNKTION DMP** | |
 |---|---|
@@ -1027,7 +1031,7 @@ Brustkrebs
 
 Brustkrebs
 
-nung codeergän- zung rungsschutz Ende kennung ID  art Personen- gruppe zeichnung triebsstätten- nummer länge lars Datenstelle zusätzlicher Wer- tebereich :  JJJJMM00, JJJJ0000, 00000000
+nung länge codeergän- zung rungsschutz Ende kennung ID  art Personen- gruppe zeichnung triebsstätten- nummer lars Datenstelle zusätzlicher Wer- tebereich :  JJJJMM00, JJJJ0000, 00000000
 
 ---
 
@@ -1097,9 +1101,7 @@ Beispiel:
 
 - a) Der Einsatz der jeweils aktuell gültigen KT-Stammdatei muss im Zusammenhang mit  der Dokumentationserstellung und dem Ausdruck der Dokumentationen erfolgen. Durch  geeignete organisatorische Maßnahmen muss sichergestellt werden, dass die Anwen- der rechtzeitig zum Quartalsbeginn jeweils die aktuell gültige Kostenträger-Stammdatei  im Rahmen ihrer Dokumentationssoftware einsetzen können.
 
-- **pdate zur KT -Stammdatei**
-
-- b) **U** Mit einem Update zur KT-Stammdatei muss spätestens mit Beginn des neuen Quar- tals die neue KT-Stammdatei eingesetzt werden, auch wenn einige Dokumentationen  des Vorquartals noch nicht abgeschlossen ist.
+- b) **Update zur KT-Stammdatei**  Mit einem Update zur KT-Stammdatei muss spätestens mit Beginn des neuen Quar- tals die neue KT-Stammdatei eingesetzt werden, auch wenn einige Dokumentationen  des Vorquartals noch nicht abgeschlossen ist.
 
 *Hinweis: Der Einsatz der KT-Stammdatei in der Arztpraxis* ***darf**** bereits unmittelbar nach Aus-*
 
@@ -1130,17 +1132,15 @@ Brustkrebs
 
 - g. /kostentraeger/ortssuchname_liste/ortssuchname/@V
 
-- h. /kostentraeger/gueltigkeit/@V - **14c**
+- h. /kostentraeger/gueltigkeit/@V
 
-- i. /kostentraeger/ik_liste/ik/gueltigkeit /@V
+- i. /kostentraeger/ik_liste/ik/gueltigkeit**14c**/@V
 
-- j. k ostentraeger/existenzbeendigung/aufnehmender_kostentrae- ger/@V
+- j. kostentraeger/existenzbeendigung/aufnehmender_kostentrae- ger/@V
 
 - k. /kostentraeger/unz_kv_geltungsbereich_liste/unz_kv_gel- tungsbereich/@V
 
-- l. /kostentraeger/kt_abrechnungsbereich_liste/kt_abrechnungs- **14c**
-
-- bereich/gueltigkeit /@V
+- l. /kostentraeger/kt_abrechnungsbereich_liste/kt_abrechnungs- bereich/gueltigkeit**14c**/@V
 
 haben einen "amtlichen" Charakter, d. h. sie dürfen für den Anwender nicht veränder- bar sein (nur Anzeigefelder!).
 
@@ -1195,9 +1195,7 @@ Erstmals mit dem Update zum 3. Quartal 2005 stellt die KBV eine Stammdatei Daten
 
 - der Dokumentationen erfolgen. Durch geeignete organisatorische Maßnahmen muss si- chergestellt werden, dass die Anwender rechtzeitig zum Quartalsbeginn jeweils die aktuell  gültige SDDA im Rahmen ihrer Dokumentationssoftware einsetzen können.
 
-- (2)**pdate zur SDDA**  **U**
-
--
+- (2) **Update zur SDDA**
 
 Mit einem Update zur SDDA muss spätestens mit Beginn des neuen Quartals die neue  SDDA eingesetzt werden, auch wenn einige Dokumentationen des Vorquartals noch nicht  exportiert sind.
 
@@ -1262,7 +1260,9 @@ Die von der KBV gelieferte aktuelle SDDA kann bereits mit einem Update an die An
 
 ---
 
-# 5 Referenzierte Dokumente
+Brustkrebs
+
+# 5  Referenzierte Dokumente
 
 | **Referenz** | **Dokument** |
 |---|---|
@@ -1278,7 +1278,5 @@ Die von der KBV gelieferte aktuelle SDDA kann bereits mit einem Update an die An
 | [EXT_ITA_AHEX_Teilnahme_eDMP_Uebergrei- fend] | Vorlage der übergreifenden TE/EWE. |
 
 [KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.24
-
-Brustkrebs
 
 Versorgung 1.10.2014 zur Regelung von Anforderungen an die Ausgestal- tung von Strukturierten Behandlungsprogrammen nach §137f Abs. 2 SGB V zur Zusammenführung der Anforderungen an struk- turierte Behandlungsprogramme nach § 137f Abs. 2 SGB V

@@ -93,7 +93,7 @@ KV Nordrhein -  Patrick Prieß, E-Mail: [portal@kvsh.de](mailto:portal@kvsh.de),
 
 ## 4.1 Rechtliche Verankerung der Sammelerklärung
 
-Die Kassenärztliche Vereinigung Schleswig -Holstein bietet allen ihren Mitgliedern die Möglichkeit, eine  elektronische Sammelerklärung (eSammelerklärung) als Teil der Quartalsabrechnung einzureichen.
+Die Kassenärztliche Vereinigung Schleswig-Holstein bietet allen ihren Mitgliedern die Möglichkeit, eine  elektronische Sammelerklärung (eSammelerklärung) als Teil der Quartalsabrechnung einzureichen.
 
 Die eSammelerklärung muss im PDF/A-1b Format erstellt werden und ist vom Erklärenden mit seinem eHBA
 
@@ -101,7 +101,7 @@ qualifiziert elektronisch zu signieren.
 
 Die signierte eSammelerklärung wird online per KIM an die KVSH gesendet.
 
-Die Sammelerklärung ist eine Anlage zum Gesamtvertrag. Gemäß § 35 Abs. 2 Satz 3 BMV -Ä kann der Arzt  anstelle seiner Unterschrift auf jedem einzelnen der KVSH zu übermittelnden Abrechnungsscheine eine  Sammelerklärung für alle Abrechnungsscheine des Quartals abgeben. Eine solche Sammelerklärung ist  Voraussetzung für die Entstehung des Anspruchs des Arztes auf Vergütung der von ihm erbrachten  Leistungen. Mit ihr versichert der Arzt, dass die Abrechnung sachlich richtig und vollständig erbracht wurde.  Sie übernimmt eine Garantiefunktion hinsichtlich einer sachl ich richtigen Rechnungsstellung und der  persönlichen Leistungserbringung. Im Bedarfsfall wird die Sammelerklärung im Benehmen mit den  Krankenkassenverbänden angepasst.
+Die Sammelerklärung ist eine Anlage zum Gesamtvertrag. Gemäß § 35 Abs. 2 Satz 3 BMV -Ä kann der Arzt  anstelle seiner Unterschrift auf jedem einzelnen der KVSH zu übermittelnden Abrechnungsscheine eine  Sammelerklärung für alle Abrechnungsscheine des Quartals abgeben. Eine solche Sammelerklärung ist  Voraussetzung für die Entstehung des Anspruchs des Arztes auf Vergütung der von ihm erbrachten  Leistungen. Mit ihr versichert der Arzt, dass die Abrechnung sachlich richtig und vollständig erbracht wurde.  Sie übernimmt eine Garantiefunktion hinsichtlich einer sachlich richtigen Rechnungsstellung und der  persönlichen Leistungserbringung. Im Bedarfsfall wird die Sammelerklärung im Benehmen mit den  Krankenkassenverbänden angepasst.
 
 Es wird für alle Leistungserbringer die gleichlautende Sammelerklärung verwendet: -  Einzelpraxen
 
@@ -138,9 +138,9 @@ Nebenbetriebsstätte(n).
 
 ## 4.3 Mitgeltende Dokumente
 
-Basis für den Aufbau der Sammelerklärung ist die Schnittstellenbeschreibung „elektronische 1
+Basis für den Aufbau der Sammelerklärung ist die Schnittstellenbeschreibung „elektronische
 
-Sammelerklärung (eSE) “, die im Rahmen einer KV -übergreifenden Arbeitsgruppe der KV Telematik ARGE
+Sammelerklärung (eSE)1“, die im Rahmen einer KV -übergreifenden Arbeitsgruppe der KV Telematik ARGE
 
 im Jahr 2010 definiert wurde.
 
@@ -162,9 +162,13 @@ Folgende XML-Elemente werden für die Sammelerklärung benötigt
 
 ## 5.2 Ausfüllhinweise zum header-Bereich
 
-Folgende Felder sind in Abhängigkeit des erklärenden Arztes in der Vorlage
+Folgende Felder sind in Abhängigkeit des
 
-ese_1.21_01_tf+2025q4_nr+1_du+Vorlagedatei.xml anzupassen.
+ese_1.21_01_tf+2025q4_nr+1_du+Vorlagedatei.xml
+
+erklärenden Arztes in der Vorlage
+
+anzupassen.
 
 ### 5.2.1 header/id
 
@@ -186,9 +190,11 @@ Das Element ist wie folgt zu verwenden:
 
 ### 5.2.3 header/origination_dttm
 
-Mit dem Element** origination_dttm** wird das Erstellungsdatum der Sammelerklärung angegeben.
+Mit dem Element** origination_dttm**
 
-Das Datum wird bei der PDF -Darstellung der Sammelerklärung (auf Basis des XSL -FO Stylesheets)  berücksichtigt.
+Das Datum wird bei der PDF-Darstellung der Sammelerklärung (auf Basis des XSL-FO Stylesheets)
+
+berücksichtigt.
 
 Das Element ist wie folgt zu verwenden:
 
@@ -196,7 +202,7 @@ Das Element ist wie folgt zu verwenden:
 
 ### 5.2.4 header/provider
 
-Mit den Elementen im Element** provider** werden die benötigten Angaben zur erklärenden Person sowie
+Mit den Elementen im Element** provider**
 
 der Praxis übergeben.
 
@@ -209,6 +215,10 @@ Das Element enthält zwei Unterelemente und ist wie folgt zu verwenden:
 <ehd:organization>
 
 </ehd:provider>
+
+wird das Erstellungsdatum der Sammelerklärung angegeben.
+
+werden die benötigten Angaben zur erklärenden Person sowie
 
 
 ---

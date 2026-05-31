@@ -130,10 +130,10 @@ Kennzeichnung für PLZ-Stammdatei = PLZ
 | **1** | **2** | **3** |  | **4** | **5** |  | **6** | **7** | **.** | **1** | **2** | **3** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 
-| **PLZ74_1.202** | mit Beginn des 2. Quartals 2002 eingesetzt werden muss.  Diese Datei muss solange eingesetzt werden, bis eine neue PLZ -Stammdatei geliefert |
+| **PLZ74_1.202** | ist der Name der bundeseinheitlichen PLZ-Stammdatei der KBV in der ersten Version, die  Diese Datei muss solange eingesetzt werden, bis eine neue PLZ -Stammdatei geliefert |
 |---|---|
 
-ist der Name der bundeseinheitlichen PLZ-Stammdatei der KBV in der ersten Version, die wird.
+mit Beginn des 2. Quartals 2002 eingesetzt werden muss. wird.
 
 ---
 
@@ -218,11 +218,8 @@ Satz vorhanden sein, wenn entweder in der Spalte  erfüllt ist oder das auf der 
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzart | M |  | Satzart = PLZ-Endesatz |
 
-*Bedingung* ein Eintrag vorhanden und
+*Bedingung* ein Eintrag vorhanden und 2 2 3 *Vorkommen*
 
-*Vorkommen*
-
-2 2 3
 
 ---
 
@@ -310,10 +307,10 @@ Folgende Regelklassen lassen sich klassifizieren: 000 – 099 Formatprüfungen
 | **Regel-** | **Kategorie** | **Prüfung** | **Erläuterung** |
 |---|---|---|---|
 | 016 | Format | QJJJJ | Q = Quartal, JJJJ = Jahr |
-| 031 | Format | [a]aaaMMJJ.nn | MM = Monat, JJ = Jahr |
+| 031 | Format | [a]aaaMMJJ.nn | [a]aaa = Datenpaketkürzel |
 | 117 | erlaubter Inhalt | 3 | verwendeter Zeichensatz |
 | 207 | erlaubter Inhalt | 01-03, 17, 20, 38, 46, 51, 52, 71-73, 74, 78, 83, 88, | KV-Bereich |
 | 505 | erlaubter Inhalt | plz0, plz9, 2150 |  |
 | 507 | erlaubter Inhalt | 01-03, 06-16, 18, 19, 21, 24, 25, 27, 28, 31, 37, 39- | UKV-Kennung bzw. OKV-Kennung bei nicht |
 
-nummer 93, 98 45, 47-50, 55, 57-70, 72, 73, 74, 78-81, 85-87, 89- 91, 94-96 [a]aaa = Datenpaketkürzel nn = Unterversionsnummer gegliederten KVen
+nummer 93, 98 45, 47-50, 55, 57-70, 72, 73, 74, 78-81, 85-87, 89- 91, 94-96 MM = Monat, JJ = Jahr nn = Unterversionsnummer gegliederten KVen

@@ -34,195 +34,145 @@
 
 **Anbieter**
 
-CompuGroup Medical Deutschland AG
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-medatixx GmbH & Co. KG
-
-Dedalus HealthCare GmbH
-
-INDAMED EDV-Entwicklung und Vertrieb GmbH
-
-Zollsoft GmbH
-
-CompuGroup Medical Deutschland AG
-
-medatixx GmbH & Co. KG
-
-medatixx GmbH & Co. KG
-
-CompuGroup Medical Deutschland AG
-
-CompuGroup Medical Deutschland AG
-
-CGM Clinical Europe GmbH
-
-SAP SE
-
-T 2med GmbH & Co. KG 1
-
-**Installationen 2.Q.2025**
-
-919
-
-407
-
-340
-
-275
-
-239
-
-208
-
-192
-
-181
-
-131
-
-130
-
-117
-
-115
-
-108
-
-**Installationen 1.Q.2025**
+CompuGroup Medical Deutschland AG 919
 
 932
 
-418
-
-337
-
-267
-
-213
-
-211
-
-185
-
-185
-
-133
-
-134
-
-118
-
-117
-
-108
-
-**Differenz**
-
 -13
+
+medatixx GmbH & Co. KG 407
+
+418
 
 -11
 
+Dedalus HealthCare GmbH 340
+
+337
+
 3
+
+INDAMED EDV-Entwicklung und Vertrieb GmbH 275 267
 
 8
 
+Zollsoft GmbH 239
+
+213
+
 26
+
+CompuGroup Medical Deutschland AG 208
+
+211
 
 -3
 
+medatixx GmbH & Co. KG 192
+
+185
+
 7
 
+medatixx GmbH & Co. KG 181
+
+185
+
 -4
+
+CompuGroup Medical Deutschland AG 131
+
+133
 
 -2
 
+CompuGroup Medical Deutschland AG 130
+
+134
+
 -4
+
+CGM Clinical Europe GmbH 117
+
+118
 
 -1
 
+SAP SE 115
+
+117
+
 -2
 
+T 2med GmbH & Co. KG 108
+
+108
+
 0
+
+1
 
 
 ---
 
 **Id Praxissoftware**
 
-244 **QUINCY WIN**
-
-314 **IMedOne**
-
-086 **DURIA**
-
-208 **NEXUS / KIS**
-
-135 **EL - Elaphe Longissima**
-
-261 **S 3-Win**
-
-488 **inSuite**
-
 **Anbieter**
 
-Frey ADV GmbH
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-Deutsche Telekom Clinical Solutions GmbH
+244 **QUINCY WIN**
 
-Duria eG
-
-NEXUS AG
-
-medatixx GmbH & Co. KG
-
-S 3 Praxiscomputer GmbH / Maximilian Flender
-
-Doc Cirrus GmbH 2
-
-**Installationen 2.Q.2025**
-
-85
-
-76
-
-59
-
-45
-
-44
-
-35
-
-33
-
-**Installationen 1.Q.2025**
+Frey ADV GmbH 85
 
 86
 
-76
+-1
+
+314 **IMedOne**
+
+Deutsche Telekom Clinical Solutions GmbH 76 76
+
+0
+
+086 **DURIA**
+
+Duria eG 59
 
 59
 
+0
+
+208 **NEXUS / KIS**
+
+NEXUS AG 45
+
 45
+
+0
+
+135 **EL - Elaphe Longissima**
+
+medatixx GmbH & Co. KG 44
 
 43
 
-38
-
-35
-
-**Differenz**
-
--1
-
-0
-
-0
-
-0
-
 1
+
+261 **S 3-Win**
+
+S 3 Praxiscomputer GmbH / Maximilian Flender 35 38
 
 -3
 
+488 **inSuite**
+
+Doc Cirrus GmbH 33
+
+35
+
 -2
+
+2

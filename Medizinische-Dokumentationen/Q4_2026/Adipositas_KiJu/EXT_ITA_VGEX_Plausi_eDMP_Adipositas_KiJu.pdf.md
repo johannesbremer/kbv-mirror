@@ -84,24 +84,24 @@ im Alltag seit  der letzten Dokumentation oder zur Aufrechterhaltung der Ernähr
 | Ja / Nein | Pflichtfeld | Genau eine Angabe ist zulässig. |  |
 | Schulung | | | |
 | 6 | Bereits vor Einschreibung in das  Ja / Nein | | |
-| Bedingtes Pflichtfeld; | Genau eine Angabe ist zulässig. | Eine Angabe ist erforderlich, wenn die | Eine Angabe im Rahmen einer  7 |
-| Ja / Nein | Pflichtfeld; | Genau eine Angabe ist zulässig. | 8  Adipositas-Schulung  Ja / Nein / War aktuell nicht möglich / |
+| Bedingtes Pflichtfeld; | Genau eine Angabe ist zulässig. | Eine Angabe ist erforderlich, wenn die | Eine Angabe im Rahmen einer  7  Adipositas-Schulung |
+| Ja / Nein | Pflichtfeld; | Genau eine Angabe ist zulässig. | 8  Adipositas-Schulung  Ja / Nein / War aktuell nicht möglich / Bei |
 |  |  |  | Ernährungsänderung seit |
 | Eine Angabe ist erforderlich, wenn die | Eine Angabe im Rahmen einer | 5  Adäquat geändertes | Ja / Nein  Pflichtfeld  Genau eine Angabe ist zulässig. |
 | Schulung |  |  | 6  Bereits vor Einschreibung in das |
-| Ja / Nein | Bedingtes Pflichtfeld; | Genau eine Angabe ist zulässig. | Eine Angabe ist erforderlich, wenn die  Eine Angabe im Rahmen einer  7 |
+| Ja / Nein | Bedingtes Pflichtfeld; | Genau eine Angabe ist zulässig. | Eine Angabe ist erforderlich, wenn die  Eine Angabe im Rahmen einer  7  Adipositas-Schulung |
 | Ja / Nein | Pflichtfeld; | Genau eine Angabe ist zulässig. | 8  Adipositas-Schulung |
 |  |  | Ernährungsänderung seit | Eine Angabe ist erforderlich, wenn die  Eine Angabe im Rahmen einer |
 | 5 | Adäquat geändertes | Ja / Nein | Pflichtfeld  Genau eine Angabe ist zulässig. |
 | Schulung |  | | |
 | 6 | Bereits vor Einschreibung in das | Ja / Nein | Bedingtes Pflichtfeld;   Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn die  Eine Angabe im Rahmen einer |
-| 7 |  | Ja / Nein | Pflichtfeld;  Genau eine Angabe ist zulässig. |
-| 8 | Adipositas-Schulung | Ja / Nein / War aktuell nicht möglich / | Bedingtes Pflichtfeld;   Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn die |
+| 7 | Adipositas-Schulung | Ja / Nein | Pflichtfeld;  Genau eine Angabe ist zulässig. |
+| 8 | Adipositas-Schulung | Ja / Nein / War aktuell nicht möglich / Bei | Bedingtes Pflichtfeld;   Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn die |
 |  |  |  | Ernährungsänderung seit |
 | Eine Angabe ist erforderlich, wenn die  Eine Angabe im Rahmen einer | 5  Adäquat geändertes | | |
 | Ja / Nein | Pflichtfeld  Genau eine Angabe ist zulässig. |  | Schulung    6 |
 
-der letzten Dokumentation Ernährungsverhalten DMP an multimodalen für Kinder und Jugendliche teilgenommen für Kinder  und Jugendliche empfohlen (bei aktueller Dokumentation)  für Kinder  und Jugendliche wahrgenommen letzter Dokumentation empfohlen Anlage 26* im Rahmen einer Folgedokumentation auszufüllen ist. Erstdokumentation ist nicht zulässig. Bei keine Anlage 26* im Rahmen einer Erstdokumentation auszufüllen ist.  Folgedokumentation ist nicht zulässig. Anlage 26* im Rahmen einer Folgedokumentation auszufüllen ist.
+der letzten Dokumentation Ernährungsverhalten DMP an multimodalen für Kinder  und Jugendliche teilgenommen für Kinder  und Jugendliche empfohlen (bei aktueller Dokumentation)  für Kinder  und Jugendliche wahrgenommen letzter Dokumentation empfohlen Anlage 26* im Rahmen einer Folgedokumentation auszufüllen ist. Erstdokumentation ist nicht zulässig. Anlage 26* im Rahmen einer Erstdokumentation auszufüllen ist.  Folgedokumentation ist nicht zulässig. keine Anlage 26* im Rahmen einer Folgedokumentation auszufüllen ist.
 
 ---
 
@@ -109,22 +109,22 @@ der letzten Dokumentation Ernährungsverhalten DMP an multimodalen für Kinder u
 |---|---|---|---|
 | 9 | Beendigung der DMP-Teilnahme |  | Ja / Nein |
 | Bedingtes Pflichtfeld;   Genau eine Angabe ist zulässig. | | | |
-| Eine Angabe ist erforderlich, wenn die  Eine Angabe |  | | |
+| Eine Angabe ist erforderlich, wenn die  Eine |  | | |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  | Eine Angabe im Rahmen einer |
 |  | Relevante Ereignisse seit der letzten Dokumentation |  | 9  Beendigung der DMP-Teilnahme     Ja / Nein |
-| Bedingtes Pflichtfeld; | Genau eine Angabe ist zulässig. | Eine Angabe ist erforderlich, wenn die | Eine Angabe |
+| Bedingtes Pflichtfeld; | Genau eine Angabe ist zulässig. | Eine Angabe ist erforderlich, wenn die | Eine |
 |  |  |  |  |
 |  |  |  |  |
 |  |  | Eine Angabe im Rahmen einer | Relevante Ereignisse seit der letzten Dokumentation |
 |  |  | 9 | Beendigung der DMP-Teilnahme |
 | Ja / Nein  Bedingtes Pflichtfeld; | Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn die | | |
-| Eine Angabe |  |  |  |
+| Eine |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  | Eine Angabe im Rahmen einer |
 | Relevante Ereignisse seit der letzten Dokumentation |  | | |
-| 9 | Beendigung der DMP-Teilnahme | Ja / Nein | Bedingtes Pflichtfeld;   Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn die  Eine Angabe |
+| 9 | Beendigung der DMP-Teilnahme | Ja / Nein | Bedingtes Pflichtfeld;   Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn die  Eine |
 
-Erstdokumentation ist nicht zulässig. Anlage 2 6* Folgedokumentation auszufüllen ist. Erstdokumentation ist nicht zulässig.
+Erstdokumentation ist nicht zulässig. Anlage 26* Folgedokumentation auszufüllen ist. Erstdokumentation ist nicht zulässig.

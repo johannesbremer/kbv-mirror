@@ -1,20 +1,18 @@
-# HANDLUNGSEMPFEHLUNGEN FÜR  HERSTELLER VON
+# HANDLUNGSEMPFEHLUNGEN FÜR  HERSTELLER VON BMP-SOFTWARE
 
 ## [KBV_ITA_AHEX_BMP_FAQS_PVS]
 
-# BMP-SOFTWARE
+**KASSENÄRZTLICHE**  **BUNDESVEREINIGUNG**
 
 **DEZERNAT DIGITALISIERUNG UND IT**
-
-**DOKUMENTENSTATUS: IN KRAFT**
-
-**KASSENÄRZTLICHE**  **BUNDESVEREINIGUNG**
 
 **IT IN DER ARZTPRAXIS**
 
 **17. APRIL 2026**
 
 **VERSION: 1.43**
+
+**DOKUMENTENSTATUS: IN KRAFT**
 
 
 ---
@@ -62,7 +60,7 @@ DOKUMENTENHISTORIE
 | 1.42 | 26.03.2025 | KBV | Aufnahme der Frage „17. |  | 13 |
 | 1.41 | 05.03.2025 | KBV | Streichung der Frage „   Aufnahme der Frage „ |  | 13 |
 
-Thema „ wöchentliche Dosierung “ ergänzt Angabe der Darreichungsform im Barcode“ Aktualisierung der BMP- Spezifikation in der Version 2.7 Verwendung der Daten aus der Referenzdatenbank des BfArM 16. 16.
+Thema „ wöchentliche Dosierung “ ergänzt Angabe der Darreichungsform im Barcode“ 16. Aktualisierung der BMP- Spezifikation in der Version 2.7 16. Verwendung der Daten aus der Referenzdatenbank des BfArM
 
 
 ---

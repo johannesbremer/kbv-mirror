@@ -16,29 +16,26 @@ SDKT (Kostenträger- Stammdatei) 1.05 Datum: 12.03.2025 Kennzeichnung: Öffentli
 
 ---
 
-**D** **O** **K**
+**D** **O** **K** **U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O** **R** **I** **E**
 
 | **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 1.05 | 12.03.2025 | KBV | Grafik in Tabelle 34: Element  Erweiterung des Elementes  Verschiebung des Elementes  Grafik in Tabelle 58: Element | Einführung der | **29 **  **40 **  **44 **  **47** |
-| 1.04 | 18.09.2012 | KBV | Beispiel zu Element <gueltig- | Vermeidung einer F ehlinterpre- | **31  57** |
+| 1.05 | 12.03.2025 | KBV | Grafik in Tabelle 34: Element  Erweiterung des Elementes Einführung  Verschiebung des Elementes  Grafik in Tabelle 58: Element | der | **29 **  **40 **  **44 **  **47** |
+| 1.04 | 18.09.2012 | KBV | Beispiel zu Element <gueltig- | Vermeidung einer Fehlinterpre- | **31  57** |
 | 1.03 | 25.07.2012 | KBV | redaktionelle Überarbeitung | - | **-** |
-| 1.02 | 18.12.2007 | KBV | Häufigkeit von wop_kv geän- | Fusion der | **50** |
-| 1.01 | 21.06.2007 | KBV | Element bedruckungsname | Element bedruckungsname im | **neu:  56** |
-| 1.00 | 15.03.2007 | KBV | Häufigkeit von DAV verändert   Länge von |  | **40  52 ** |
-| 1.00 | 14.03.2007 | KBV | Erweiterung des | Verdeutlichung aufgrund Nach- | **25** |
+| 1.02 | 18.12.2007 | KBV | Häufigkeit von wop_kv geän- | Fusion | **50** |
+| 1.01 | 21.06.2007 | KBV | Element | Schema von //bezeichnung nach | **neu:  56** |
+| 1.00 | 15.03.2007 | KBV | Häufigkeit von DAV verändert   Länge |  | **40  52 ** |
+| 1.00 | 14.03.2007 | KBV | Erweiterung | Verdeutlichung aufgrund Nach- | **25** |
 | 1.00 | 29.01.2007 | KBV | kleine Änderungen |  | **diverse** |
 | 1.00 | Dezember | KBV | neues Dokument |  |  |
 
-**U** **M** **E** **N** **T** **E** **N**
+ik_liste aktualisiert Hybrid-DRG <dav> Abrechnung <ebs> als Kindelement des Elementes <dav> versicherte_liste aktualisiert keit> ergänzt tation möglicher Angaben im Element <gueltigkeit> KV Baden- Württemberg bedruckungsname Element bedruckungsname im bei Bezeichnung entfernt und kt_abrechnungsbereich //kt_abrechnungsbereich ver- hinzugefügt schoben Bewertungsfeld um eine Stelle erweitert Beschrei- bungstextes zum Element frage aus KV "vertrags_kv" 2006
 
-**H** **I** **S** **T** **O**  **R** **I** **E**
-
-2006 ik_liste aktualisiert <dav> <ebs> als Kindelement des Elementes <dav> versicherte_liste aktualisiert keit> ergänzt bei Bezeichnung entfernt und bei kt_abrechnungsbereich hinzugefügt Bewertungsfeld um eine Stelle erweitert bungstextes zum "vertrags_kv" Beschrei- Hybrid -DRG Abrechnung tation möglicher Angaben Element <gueltigkeit> KV Baden Württemberg Schema von //bezeichnung nach //kt_abrechnungsbereich ver- schoben frage aus KV
 
 ---
 
-**I** **N** **H** **A** **L** **T** **S** **V** **E** **R** **Z** **E** **I** **C** **H**  **N** **I** **S**
+**I** **N** **H** **A** **L** **T** **S** **V** **E** **R** **Z** **E** **I** **C** **H** **N** **I** **S**
 
 ### DOKUMENTENHISTORIE
 
@@ -198,147 +195,77 @@ SDKT (Kostenträger- Stammdatei) 1.05 Datum: 12.03.2025 Kennzeichnung: Öffentli
 
 ---
 
-**T** **A** **B** **E** **L** **L** **E** **N** **V** **E** **R** **Z** **E** **I** **C** **H**  **N** **I** **S**
+**T** **A** **B** **E** **L** **L** **E** **N** **V** **E** **R** **Z** **E** **I** **C** **H** **N** **I** **S**
 
-Tabelle 1: Element ehd ........................................................................................................
+Tabelle 1: Element ehd ........................................................................................................ 11
 
-Tabelle 2: Element header ...................................................................................................
+Tabelle 2: Element header ................................................................................................... 11
 
-Tabelle 3: Element id ............................................................................................................
+Tabelle 3: Element id ............................................................................................................ 12
 
-Tabelle 4: Element document_type_cd.................................................................................
+Tabelle 4: Element document_type_cd................................................................................. 13
 
-Tabelle 5: Element service_tmr ............................................................................................
+Tabelle 5: Element service_tmr ............................................................................................ 13
 
-Tabelle 6: Element origination_dttm .....................................................................................
+Tabelle 6: Element origination_dttm ..................................................................................... 14
 
-Tabelle 7: Element provider ..................................................................................................
+Tabelle 7: Element provider .................................................................................................. 14
 
-Tabelle 8: Element organization ...........................................................................................
+Tabelle 8: Element organization ........................................................................................... 14
 
-Tabelle 9: Element id ............................................................................................................
+Tabelle 9: Element id ............................................................................................................ 15
 
-Tabelle 10: Element .............................................................................................................
+Tabelle 10: Element ............................................................................................................. 15
 
-Tabelle 11: Element id ..........................................................................................................
+Tabelle 11: Element id .......................................................................................................... 16
 
-Tabelle 12: Element interface.nm .........................................................................................
+Tabelle 12: Element interface.nm ......................................................................................... 16
 
-Tabelle 13: Element version .................................................................................................
+Tabelle 13: Element version ................................................................................................. 17
 
-Tabelle 14: Element body .....................................................................................................
+Tabelle 14: Element body ..................................................................................................... 17
 
-Tabelle 15: Element keytabs ................................................................................................
+Tabelle 15: Element keytabs ................................................................................................ 17
 
-Tabelle 16: Element keytab ..................................................................................................
+Tabelle 16: Element keytab .................................................................................................. 19
 
-Tabelle 17: Element key .......................................................................................................
+Tabelle 17: Element key ....................................................................................................... 19
 
-Tabelle 18: Element fkey ......................................................................................................
+Tabelle 18: Element fkey ...................................................................................................... 20
 
-Tabelle 19: Element kostentraeger_liste ....................................................................
+Tabelle 19: Element kostentraeger_liste .................................................................... 20
 
-Tabelle 20: Element kostentraeger .................................................................................
+Tabelle 20: Element kostentraeger ................................................................................. 22
 
-Tabelle 21: Element gueltigkeit .....................................................................................
+Tabelle 21: Element gueltigkeit ..................................................................................... 23
 
-Tabelle 22: Element letzte_aenderung...........................................................................
+Tabelle 22: Element letzte_aenderung........................................................................... 23
 
-Tabelle 23: Element wirksamkeitsdatum ........................................................................
+Tabelle 23: Element wirksamkeitsdatum ........................................................................ 24
 
-Tabelle 24: Element erfassungsdatum .............................................................................
+Tabelle 24: Element erfassungsdatum ............................................................................. 24
 
-Tabelle 25: Element vertrags_kv .....................................................................................
+Tabelle 25: Element vertrags_kv ..................................................................................... 25
 
-Tabelle 26: Element abrechnungsstelle ........................................................................
+Tabelle 26: Element abrechnungsstelle ........................................................................ 26
 
-Tabelle 27: Element referenzkasse .................................................................................
+Tabelle 27: Element referenzkasse ................................................................................. 26
 
-Tabelle 28: Element bezeichnung .....................................................................................
+Tabelle 28: Element bezeichnung ..................................................................................... 26
 
-Tabelle 29: Element name ....................................................................................................
+Tabelle 29: Element name .................................................................................................... 27
 
-Tabelle 30: Element sortierungsname .............................................................................
+Tabelle 30: Element sortierungsname ............................................................................. 27
 
-Tabelle 31: Element kurzname ...........................................................................................
+Tabelle 31: Element kurzname ........................................................................................... 28
 
-Tabelle 32: Element suchname ...........................................................................................
+Tabelle 32: Element suchname ........................................................................................... 28
 
-Tabelle 33: Element kostentraegergruppe ....................................................................
+Tabelle 33: Element kostentraegergruppe .................................................................... 29
 
-Tabelle 34: Element ik_liste ...........................................................................................
+Tabelle 34: Element ik_liste ........................................................................................... 29
 
-Tabelle 35: Element ik ........................................................................................................
-
-11
-
-11
-
-12
-
-13
-
-13
-
-14
-
-14
-
-14
-
-15
-
-15
-
-16
-
-16
-
-17
-
-17
-
-17
-
-19
-
-19
-
-20
-
-20
-
-22
-
-23
-
-23
-
-24
-
-24
-
-25
-
-26
-
-26
-
-26
-
-27
-
-27
-
-28
-
-28
-
-29
-
-29
-
-30
+Tabelle 35: Element ik ........................................................................................................ 30
 
 
 ---
@@ -449,13 +376,13 @@ XML  Werkzeugen dienen.
 
 ehd
 
+Ele-
+
 Schnittstelle abgeleitet und
 
 Richtlinie [KBV_ITA_VGEX_eHD]
 
 und umfasst die gesamte Struktur
-
-Ele-
 
 
 ---
@@ -605,7 +532,7 @@ Das id-Element wird genauso gebildet wie das Dokument GUID angegeben werden muss
 
 ### 2.1.6 Element interface
 
-Die Daten der XML -Datei entsprechen einer Schnittstellenbeschreibung, welche normaler- weise aus Strukturinformation und ggf. Kontextregeln besteht. Im Element  die Beschreibung der zu den Daten gehörenden Schnittstelle verwiese
+Die Daten der XML-Datei entsprechen einer Schnittstellenbeschreibung, welche normaler- weise aus Strukturinformation und ggf. Kontextregeln besteht. Im Element  die Beschreibung der zu den Daten gehörenden Schnittstelle verwiese
 
 | ***diagram*** | ** |
 |---|---|
@@ -619,9 +546,9 @@ Das id-Element wird genauso gebildet wie das Dokument GUID angegeben werden muss
 
 -ID, mit dem Unterschied, dass keine
 
-n.
-
 ***<interface>*** wird auf
+
+n.
 
 
 ---
@@ -833,13 +760,15 @@ Beschreibung: Im Element  erfassungsdatum
 |---|---|
 | ***namespace urn:ehd/kts/001*** |  |
 
+**Tabelle 22: Element**
+
 **gueltigkeit**
 
 letzte_aenderung
 
 enthalten.
 
-**Tabelle 22: Element letzte_aenderung**
+**letzte_aenderung**
 
 enthält das Gültigkeitsdatum der Kassennummer.
 
@@ -864,7 +793,7 @@ Frühere Datenart: 100, 105, 900, 905
 
 Beschreibung: Das Element wirksamkeitsdatum
 
-rung gültig ist. Das wirksamkeitsdatum
+rung gültig ist. Das wirksamkeitsdatum hat folgendes Format: z.B.: 2006
 
 Alte Feldbezeichnung: Feldkennung KK-AEN-DATUM-Z8
 
@@ -873,6 +802,10 @@ Alte Feldbezeichnung: Feldkennung KK-AEN-DATUM-Z8
 | ***namespace urn:ehd/kts/001*** |  |
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****zeitraum_typ ****required   ***** |
 | ***annotation*** | ***documentation  Wirksamkeit der letzten Änderung (V=KK documentation  Format: 'YYYY-MM-DD..YYYY-MM-DD' ***** |
+
+gibt an, ab welchem Zeitpunkt die Ände-
+
+(DA 100, 105, 900, 905)
 
 **Tabelle 23: Element wirksamkeitsdatum**
 
@@ -892,19 +825,11 @@ Alte Feldbezeichnung: Feldkennung KK-MASCH-DATUM-Z8
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****zeitraum_typ ****required   ***** |
 | ***annotation*** | ***documentation  Maschinendatum der letzten Durchführung  documentation  Format: 'YYYY-MM-DD..YYYY-MM-DD' ***** |
 
-**Tabelle 24: Element erfassungsdatum**
+wird das Datum angegeben, an dem die letzte (DA 100, 105, 900, 905)
 
-hat folgendes Format: z.B.: 2006
+-10-01..
 
-wird das Datum angegeben, an dem die letzte
-
-gibt an, ab welchem Zeitpunkt die Ände-
-
-(DA 100, 105, 900, 905)
-
-(DA 100, 105, 900, 905)
-
-Z8) -AEN-DATUM- DATUM-Z8) - Stammsatzeröffnung oder Änderung (V=KK -MASCH--10-01..
+Z8) -AEN-DATUM- DATUM-Z8) - Stammsatzeröffnung oder Änderung (V=KK -MASCH-**Tabelle 24: Element erfassungsdatum**
 
 
 ---
@@ -952,13 +877,9 @@ VERT-KV-X3
 
 zahlungspflichtigen KV-Landesstelle.
 
-und
+und ZPFL-KV-Z2 (DA 100, 105, 900,
 
-enthält die KV -Nummer der KV, die für
-
-ZPFL-KV-Z2 (DA 100, 105, 900, 905)
-
-(DA 100, 105, 900,
+enthält die KV-Nummer der KV, die für (DA 100, 105, 900, 905)
 
 xs:string
 
@@ -973,9 +894,11 @@ xs:string
 
 Frühere Datenart: 100, 105, 900, 905
 
-Beschreibung: Im Element referenzkasse ist die eventuell vorhandene zugehörige Ost -
+Beschreibung: Im Element referenzkasse
 
 oder Westkassennummer angegeben.
+
+ist die eventuell vorhandene zugehörige Ost-
 
 Alte Feldbezeichnung: Feldkennung REF-KKA-VKNR (DA 100, 105, 900, 905)
 
@@ -993,9 +916,11 @@ Prüfung: Es wird geprüft, dass die hier angegebene Referenzkasse auch in der L
 
 Frühere Datenart: 100, 105, 900, 905, 145, 146
 
-Beschreibung: Das Element bezeichnung enthält alle Bezeichnungs- und Namensinformati-
+Beschreibung: Das Element bezeichnung
 
 onen zu einer Kasse.
+
+enthält alle Bezeichnungs- und Namensinformati-
 
 | ***diagram*** | ** |
 |---|---|
@@ -1175,7 +1100,7 @@ Folgende Varianten sind möglich:
 
 - 1. z.B.: 2006-10-01.. Beginndatum der Gültigkeit eines Institutionskennzeichen
 
-- 2. z.B.: 1990 -10-01..2006-09-30 Beginn und Endedatum der Gültigkeit des Institutions-
+- 2. z.B.: 1990-10-01..2006-09-30 Beginn und Endedatum der Gültigkeit des Institutions-
 
 - kennzeichen
 
@@ -1221,8 +1146,9 @@ existenzbeendigung
 
 KK-ART-X2
 
-xs:string = Auflösung ist enthalten, ob eine Kassen fusioniert  Attribut der Wert „F“ enthalten, bei einer
+ist enthalten, ob eine Kassen fusioniert  Attribut der Wert „F“ enthalten, bei einer
 
+xs:string = Auflösung
 
 ---
 
@@ -1230,7 +1156,9 @@ xs:string = Auflösung ist enthalten, ob eine Kassen fusioniert  Attribut der We
 
 Frühere Datenart: 100, 105, 900, 905
 
-Beschreibung: Das Element  Kassennummer an. Es muss das Format YYYYQ haben.
+Beschreibung: Das Element letztes_quartal
+
+Kassennummer an. Es muss das Format YYYYQ haben.
 
 Alte Feldbezeichnung: Feldkennung
 
@@ -1240,7 +1168,7 @@ Alte Feldbezeichnung: Feldkennung
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****derived by: ****required   ********documentati- Quartal (For-***** |
 | ***annotation*** | ***documentation  Letztes Quartal der maschinellen Abrechnungsfähigkeit im FKZ (V=ABR***** |
 
-letztes_quartal
+gibt das letzte Abrechnungsquartal dieser
 
 ABR-QRT
 
@@ -1272,8 +1200,6 @@ AUFN-KK-VKNR
 
 **Tabelle 39: Element aufnehmender_kostentraeger**
 
-gibt das letzte Abrechnungsquartal dieser
-
 (DA 100, 105, 900, 905), Feldkennung  (DA 146)
 
 ist nur vorhanden, wenn es
@@ -1302,7 +1228,7 @@ Alte Feldbezeichnung: nicht vorhanden
 
 Frühere Datenart: 100, 105, 900, 905, 145, 146
 
-Beschreibung: Im R-Attribut des Elements  resse um eine Postanschrift (Wert vom R- R-Attribut „ postfach“) handelt. In den Kindelementen sind die
+Beschreibung: Im R-Attribut des Elements  resse um eine Postanschrift (Wert vom R- R-Attribut „postfach“) handelt. In den Kindelementen sind die
 
 enthalten.
 
@@ -1491,9 +1417,9 @@ ist das Kennzeichen des Praxisnetzes eingetragen.
 
 Frühere Datenart: 100, 105, 900, 905
 
-Beschreibung: Im Element basiskasse ist die Basiskasse des Praxisnetzes angegeben.
+Beschreibung: Im Element basiskasse
 
-Praxisnetze existieren bislang nur in der KV Bayerns.
+Praxisnetze existieren bislang nur in der KV Bayerns. ist die Basiskasse des Praxisnetzes angegeben.
 
 Alte Feldbezeichnung: Feldkennung BASISKASSE-VKNR
 
@@ -1521,7 +1447,7 @@ Frühere Datenart: 100, 105, 900, 905
 
 Beschreibung: Das Element dav ist für jede existierende der drei Datenannahmestellen (ge-
 
-mäß dem DAV -Typ) einer Krankenkasse Bund, Land und Kasse einmal vorhanden. Es ist  aber auch möglich, dass nur eine Datenannahmestelle angegeben wird.
+mäß dem DAV-Typ) einer Krankenkasse Bund, Land und Kasse einmal vorhanden. Es ist  aber auch möglich, dass nur eine Datenannahmestelle angegeben wird.
 
 Prüfung: Innerhalb einer dav_liste darf jede Datenannahmestellen nur einmal im R-Attribut
 
@@ -1540,7 +1466,7 @@ verteilstellen - EFN
 
 - HDRG
 
-für den Bund (R -Attribut enthält den Wert „
+für den Bund (R-Attribut enthält den Wert „
 
 Land“) und für die Kasse (R Attribut enthält den Wert „
 
@@ -1552,11 +1478,9 @@ Land“) und für die Kasse (R Attribut enthält den Wert „
 
 **Tabelle 52: Element dav**
 
-Bund“), das Land (R
+Bund“), das Land (R-Attribut enthält den Wert
 
-Kasse -Attribut enthält den Wert
-
-Landesebene / Bundesebene EFN, FB3-Bund, FB3- Land, FB3-Kasse, NVI, HDRG (DAV-Typ) “) nur einmal auftreten.
+Landesebene / Bundesebene EFN, FB3-Bund, FB3- Land, FB3-Kasse, NVI, HDRG (DAV-Typ) Kasse“) nur einmal auftreten.
 
 
 ---
@@ -1594,7 +1518,7 @@ Folgende Varianten sind möglich:
 
 - 4. z.B.: 2006-10-01.. Beginndatum der Gültigkeit eines
 
-- 1. z.B.: 1990 -10-01..2006-09-30 Beginn und Endedatum der Gültigkeit des Institutions- kennzeichen
+- 1. z.B.: 1990-10-01..2006-09-30 Beginn und Endedatum der Gültigkeit des Institutions- kennzeichen
 
 | ***diagram*** | ** |
 |---|---|
@@ -1603,13 +1527,11 @@ Folgende Varianten sind möglich:
 
 **Tabelle 54: Element gueltigkeit**
 
-enthält das Gültigkeitsdatum des
+enthält das Gültigkeitsdatum des Institutions-
 
 DAV-IK-Land - Institutionskennzeichen
 
 und DAV-IK-Bund
-
-Institutions-
 
 
 ---
@@ -1638,14 +1560,13 @@ Beschreibung: Das Element ik enthält das Institutionskennzeichen der Entschlüs
 
 rechtigten Stelle.
 
-Alte Feldbezeichnung: Feldkennung
+Alte Feldbezeichnung: Feldkennung EBS-IK
 
 | ***diagram*** | ** |
 |---|---|
 | ***namespace urn:ehd/kts/001*** |  |
 
-Bezeichnung EBS-IK
-
+Bezeichnung
 
 ---
 
@@ -1660,15 +1581,15 @@ Bezeichnung EBS-IK
 
 Frühere Datenart: 100, 105, 900, 905, 145, 146
 
-Beschreibung: Das Element gueltigkeit enthält das Gültigkeitsdatum des Institutions-
+Beschreibung: Das Element gueltigkeit
 
-kennzeichen der Entschlüsselungsberechtigten Stelle.
+kennzeichen der Entschlüsselungsberechtigten Stelle. enthält das Gültigkeitsdatum des Institutions-
 
 Folgende Varianten sind möglich:
 
 - 5. z.B.: 2006-10-01.. Beginndatum der Gültigkeit eines Institutionskennzeichen
 
-- 2. z.B.: 1990 -10-01..2006-09-30 Beginn und Endedatum der Gültigkeit des Institutions- kennzeichen
+- 2. z.B.: 1990-10-01..2006-09-30 Beginn und Endedatum der Gültigkeit des Institutions- kennzeichen
 
 | ***diagram*** | ** |
 |---|---|
@@ -1720,7 +1641,7 @@ Alte Feldbezeichnung: Feldkennung EBS-IK
 
 ##### 3.1.13.1.1 Element gueltigkeit
 
-Frühere Datenart: 100, 105, 900, 905
+Frühere Datenart: 100, 105, 900, 905, 145, 146
 
 Beschreibung: Das Element gueltigkeit
 
@@ -1730,18 +1651,16 @@ Folgende Varianten sind möglich:
 
 - 6. z.B.: 2006-10-01.. Beginndatum der Gültigkeit eines
 
-- 3. z.B.: 1990 -10-01..2006-09-30 Beginn und Endedatum der Gültigkeit des Institutions- kennzeichen
+- 3. z.B.: 1990-10-01..2006-09-30 Beginn und Endedatum der Gültigkeit des Institutions- kennzeichen
 
 | ***diagram*** | ** |
 |---|---|
 | ***namespace urn:ehd/kts/001*** |  |
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****zeitraum_typ ****required   ***** |
 
-, 145, 146
+enthält das Gültigkeitsdatum des Institutions-
 
-enthält das Gültigkeitsdatum des - Institutionskennzeichen
-
-Institutions-
+- Institutionskennzeichen
 
 
 ---
@@ -1816,11 +1735,11 @@ Alte Feldbezeichnung: Feldkennung
 
 **Tabelle 63: Element wop**
 
-wop enthält im V -Attribut ein
+wop enthält im V-Attribut ein
 
 KZ_WOP
 
-zip Kennzeichen gültiges WOP -Kennzeichen laut
+zip Kennzeichen gültiges WOP-Kennzeichen laut
 
 
 ---
@@ -1837,11 +1756,17 @@ Beschreibung: Das Element  Nummern.
 | ***properties*** | ***minOcc  0  maxOcc  1 ***** |
 | ***annotation*** | ***documentation  Liste der WOP-Zuordnungen ***** |
 
-**Tabelle 64: Element wop_kv_liste**
+wop_kv_liste
+
+**Tabelle 64: Element**
 
 Frühere Datenart: 100, 105, 900, 905
 
 Beschreibung: Das Element
+
+**wop_kv_liste**
+
+wop_kv
 
 Nummer.
 
@@ -1856,21 +1781,14 @@ Prüfung: Die KV-Nummer muss laut Schlüsseltabelle S_KBV_
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****kts:kvnr_typ ****required   ********S   ****derived by: ****optional   ***** |
 | ***annotation*** | ***documentation  KV_BEZ_WOP_01, KV_BEZ_WOP_02 ... KV_BEZ_WOP_98 documentation  WOP-Zuordnung KV-Landesstelle ***** |
 
-wop_kv_liste
+enthält alle für diese Kasse gültigen KV-
 
-wop_kv
+enthält eine für diese Kassennummer gültige KV-
 
-KV_BEZ_WOP_01
+KV_BEZ_WOP_01 bis KV_BEZ_WOP_98
 
-enthält alle für diese Kasse gültigen KV -
+xs:string KV korrekt sein.
 
-enthält eine für diese Kassennummer gültige KV -
-
-bis KV_BEZ_WOP_98
-
-KV korrekt sein.
-
-xs:string
 
 ---
 
@@ -1914,9 +1832,7 @@ bewertungsfeld
 
 bis KV_BEZ_WOP_98
 
-enthält alle Bewertungsfelder. Die
-
-xs:string ) muss eindeutig sein.
+xs:string enthält alle Bewertungsfelder. Die  ) muss eindeutig sein.
 
 
 ---
@@ -1945,14 +1861,14 @@ Alte Feldbezeichnung: Feldkennung  S8
 
 | ***diagram*** | ** |
 |---|---|
-| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****derived by: xs:string ****required   ***** documentation  1-BEW-S8, 2-BEW-S8 ... 50-BEW-S8 inklusi-  ***RT   ****derived by: ****required   ***** documentation  Bewertungsfeldnummer (1-50)  ***DN   ****derived by: xs:string ****optional   ***** documentation    ***U   ****derived by: xs:string ****required   ***** documentation  1 - Punktwert, 2 - Quote  ** |
+| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****derived by: xs:string ****required   ***** documentation  1-BEW-S8, 2-BEW-S8 ... 50-BEW-S8 inklusi-  ***RT   ****derived by: ****required   ***** documentation  Bewertungsfeldnummer (1-50)  ***DN   ****derived by: xs:string ****optional   ***** documentation  Anzahl der Nachkommastellen ***U   ****derived by: xs:string ****required   ***** documentation  1 - Punktwert, 2 - Quote  ** |
 | ***annotation*** | ***documentation ****1-BEW-S9, 2-BEW-S9 ... 50-BEW-S9  documentation  Bewertungsfeld* |
 
 bewertungsfeld
 
 Attributs „1“) oder eine Quote (Wert des U
 
-enthält im RT -Attribut die Bewertungsfeld-
+enthält im RT-Attribut die Bewertungsfeld-
 
 1-BEW-VZ und 1-BEW-S8
 
@@ -1966,7 +1882,7 @@ bis 50-BEW-VZ 4,47 Cent
 
 5,52 Cent
 
-xs:positiveInteger ve dem Vorzeichen Anzahl der Nachkommastellenund 50-BEW-
+xs:positiveInteger ve dem Vorzeichen und 50-BEW-
 
 
 ---
@@ -2064,9 +1980,11 @@ gebuehrenordnung (DA 146)
 
 Frühere Datenart: 145, 146
 
-Alte Feldbezeichnung: Feldkennung  reich_liste (DA 146)
+Alte Feldbezeichnung: Feldkennung
 
-Prüfung: Der Wert muss laut Schlüsseltabelle  sein.
+reich_liste (DA 146)
+
+Prüfung: Der Wert muss laut Schlüsseltabelle S_KTS_ABRECHNUNGSBEREICH sein.
 
 | ***diagram*** | ** |
 |---|---|
@@ -2074,11 +1992,7 @@ Prüfung: Der Wert muss laut Schlüsseltabelle  sein.
 
 **Tabelle 73: Element kt_abrechnungsbereich_liste**
 
-2008
-
-(DA 145), KostentraegerAbrechnungsbe-
-
-S_KTS_ABRECHNUNGSBEREICH
+2008 (DA 145), KostentraegerAbrechnungsbe-
 
 xs:string xs:string korrekt
 
@@ -2200,7 +2114,7 @@ e
 
 Frühere Datenart: 145, 146
 
-Beschreibung: Darf ein Kostenträger nicht bundesweit, sondern lediglich in einem ( oder meh- reren) KV -Gebieten abgerechnet werden, dann wird bei einem solchen Kostenträger der  “nicht zulässige KV Geltungsbereich”
+Beschreibung: Darf ein Kostenträger nicht bundesweit, sondern lediglich in einem ( oder meh- reren) KV-Gebieten abgerechnet werden, dann wird bei einem solchen Kostenträger der  “nicht zulässige KV Geltungsbereich”
 
 geben. Dies kann vor allem im Bereich der Sonstigen Kostenträger (SKT) vorkommen
 

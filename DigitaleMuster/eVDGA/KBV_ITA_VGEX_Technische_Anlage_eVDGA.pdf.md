@@ -65,6 +65,8 @@ Gesundheitsanwendungen  Vorgaben zur Verwendung der formularübergreifenden und 
 
 **ANFORDERUNGEN AN DAS SIGNIEREN DER ELEKTRONISCHEN VERORDNUNG DIGITALER**  **GESUNDHEITSANWENDUNGEN**
 
+**22**
+
 **ÜBERTRAGUNG DER ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN**
 
 **FESTLEGUNG FÜR DIE SOFTWARE**
@@ -75,21 +77,23 @@ Gesundheitsanwendungen  Vorgaben zur Verwendung der formularübergreifenden und 
 
 **REFERENZIERTE DOKUMENTE**
 
--Verordnung
-
 **7**
 
 **8**
 
 **9**
 
-9  10  10
+9  10
 
-11  11  11  14
+10
+
+11
+
+11  11
+
+-Verordnung 14
 
 18
-
-**22**
 
 **24**
 
@@ -145,7 +149,7 @@ Ihres E-Rezeptes Ihrer Verordnung: DIGA
 |  |  |  |  |  | **Begründung  Seite ** 1.10  13.05.2026  KBV  Anpassung des Patientenausdruckes Anpassung der Anforderung P62-15  Streichung der Anforderung P62-12  Verbesserung der Pati- 27 |
 |  | 29 |  | 33 |  | 1.09 |
 
-29, 36 FHIR-Profile 61c FHIR-Profile KBV_EX_EVDGA_SER P35-21, P35-31, P35-34 und P5-01 der 19, 25, 29, 36, 43, 50 und 74 des In- formationsmodells und35 des Informationsmodells  treten zum 01.07.2026 in Kraft. entenverständlichkeit greifende Vereinheitli- chungen BugFix-Release (auf- grund Anpassung in FOR-Profilen) Textm arke nicht defini ert. Textm arke nicht
+treten zum 01.07.2026 in Kraft. entenverständlichkeit 29, 36 greifende Vereinheitli- chungen FHIR-Profile BugFix-Release (auf- grund Anpassung in FOR-Profilen) 61c FHIR-Profile KBV_EX_EVDGA_SER Textm arke P35-21, P35-31, P35-34 und P5-01 nicht defini ert. der 19, 25, 29, 36, 43, 50 und 74 des In- formationsmodells und35 des Informationsmodells Textm arke nicht
 
 ---
 
@@ -165,7 +169,7 @@ Ihres E-Rezeptes Ihrer Verordnung: DIGA
 |  |  |  |  |  | **defini** 15, 36    36  36  1.05 |
 | 20.01.2025 | KBV | Anpassungen der Versionsnummer der | Redaktionelle Anpassungen | Verzicht auf FHIRPath- | 10, 11, |
 
-FHIR-Profile FHIR-Profile P35-33 und P5-01 und P35-37 Aufnahme des Kennzeichens SER (Anfor- derungen P35-22) Anpassung der Anforderung P62-01 P62-01 und P62-08  funktion P35-34 (Anforderungen P35-13, P35-22, P35-23 und P35-31) Funktion Low- Boundary() Profils KBV_PR_EVDGA_Bundl zung der FHIR-Profile für Versicherte der Verordnung zu Lasten von gesetzlichen Un- fallversicherungen, sonstigen Kostenträ- gern und privaten Krankenversicherun- Ausdruck zur Einlösung ert. Textm arke nicht ert.
+FHIR-Profile FHIR-Profile P35-33 und P5-01 und P35-37 Aufnahme des Kennzeichens SER (Anfor- derungen P35-22) Anpassung der Anforderung P62-01 P62-01 und P62-08  funktion P35-34 (Anforderungen P35-13, P35-22, P35-23 und P35-31) ert. Funktion Low- Boundary() Profils KBV_PR_EVDGA_Bundl zung der FHIR-Profile für Versicherte der Verordnung zu Lasten von gesetzlichen Un- fallversicherungen, Textm sonstigen Kostenträ- arke gern und privaten nicht Krankenversicherun- ert. Ausdruck zur Einlösung
 
 ---
 
@@ -376,7 +380,7 @@ sind die folgenden formularübergrei-
 
 der elektronischen Verord-
 
-Bundle zur Definition der gesamthaften Inhalte benötigten Profile für die Inhalte der elektronischen Verordnung digitaler Gesundheitsanwendungen EVDGA_Bundle   der elektronischen Verordnung digi-ischen URL.
+Bundle zur Definition der gesamthaften Inhalte elektronischen Verordnung digitaler Gesundheitsanwendungen EVDGA_Bundle   der elektronischen Verordnung digi- benötigten Profile für die Inhalte der ischen URL.
 
 
 ---
@@ -399,9 +403,7 @@ Bundle zur Definition der gesamthaften Inhalte benötigten Profile für die Inha
 
 **Tabelle 3: KBV_PR_EVDGA_HealthAppRequest**
 
-## 3.4 SPEZIFISCHE VALUESETS UND CODESYSTEME DER ELEKTRONISCHEN VERORDNUNG DIGITALER GE-
-
-## SUNDHEITSANWENDUNGEN
+## 3.4 SPEZIFISCHE VALUESETS UND CODESYSTEME DER ELEKTRONISCHEN VERORDNUNG DIGITALER GE- SUNDHEITSANWENDUNGEN
 
 Die CodeSysteme definieren, welche Codes festgelegt wurden und was diese bedeuten. ValueSets hingegen  beinhalten einen Satz von Codes aus einem oder mehreren CodeSystem( in einem bestimmten Kontext verwendet werden können.
 
@@ -649,8 +651,8 @@ Die Software erzeugt eine Instanz auf Basis des Profils KBV_PR_EVDGA_HealthAppRe
 | SER | 84 | extension:SER.value[x]:value- Boolean |  |
 | Unfallinformationen | 72 | extension:Unfallinformationen |  |
 | Unfallkennzeichen | 73 | extension:Unfallinformatio- |  |
-| Unfalltag | 74 | extension:Unfallinformatio- | WENN  das Feld ID 73 gleich "1" oder      ANSONSTEN    WENN |
-| Name des Unfallbetriebs | 75 | extension:Unfallinformatio- | WENN  das Feld ID 73 gleich "2" ist,      ANSONSTEN |
+| Unfalltag | 74 | extension:Unfallinformatio- | WENN        ANSONSTEN    WENN |
+| Name des Unfallbetriebs | 75 | extension:Unfallinformatio- | WENN         ANSONSTEN |
 | Spezifische Verordnungs- | 81 | code[x] |  |
 | ID der Verordnungseinheit | 82 | code[x]:codeCodeableCon- cept.coding.code |  |
 | Name der Verordnungsein- | 83 | code[x]:codeCodeableCon- |  |
@@ -671,7 +673,7 @@ Die Software erzeugt eine Instanz auf Basis des Profils KBV_PR_EVDGA_HealthAppRe
 
 - 1 aufgeführten Datenfelder zu befül-
 
-daten (PZN) nen.extension:Unfallkennzei- chen.value[x]:valueCoding nen.extension:Unfalltag.va- lue[x]:valueDate nen.extension:Unfallbetrieb.va- lue[x]:valueString cept.text DANN  ist dieses Feld Pflicht. darf dieses Feld nicht übertra- gen werden. dieses Feld ein Datum enthält, DANN darf dieses nicht nach dem Ausstellungsdatum liegen. DANN  ist dieses Feld Pflicht. darf dieses Feld nicht übertra- gen werden. - EXT_ITA_VGEX_Anforderungskata-
+daten (PZN) nen.extension:Unfallkennzei- chen.value[x]:valueCoding nen.extension:Unfalltag.va- lue[x]:valueDate nen.extension:Unfallbetrieb.va- lue[x]:valueString cept.text das Feld ID 73 gleich "1" oder "2" ist,  DANN  ist dieses Feld Pflicht. darf dieses Feld nicht übertra- gen werden. dieses Feld ein Datum enthält, DANN darf dieses nicht nach dem Ausstellungsdatum liegen. das Feld ID 73 gleich "2" ist, DANN  ist dieses Feld Pflicht. darf dieses Feld nicht übertra- gen werden. - EXT_ITA_VGEX_Anforderungskata-
 
 
 ---
@@ -686,7 +688,7 @@ daten (PZN) nen.extension:Unfallkennzei- chen.value[x]:valueCoding nen.extension
 |---|---|---|---|
 | **Referenzierte Instanz** | **ID gemäß Ta- belle 11** | **FHIR®-Element** | **Bedingung** |
 | KBV_PR_FOR_Coverage | 7 + 9-12 + | insurance.reference  = *<UUID der Instanz>* | Instanz gemäß P4-04 aus  sches_Handbuch_DiMus] |
-| KBV_PR_FOR_Patient | 33 + 35-38 | subject.reference  = *<UUID der Instanz>* | Instanz gemäß P4-05 aus  sches_Handbuch_DiMus] |
+| KBV_PR_FOR_Patient | 19a-25 + 28- | subject.reference  = *<UUID der Instanz>* | Instanz gemäß P4-05 aus  sches_Handbuch_DiMus] |
 | KBV_PR_FOR_Practitioner | 41 + 42a/b/c | requester.reference  = *<UUID der Instanz>* | Instanz gemäß P4-01 aus  sches_Handbuch_DiMus] |
 
 **Tabelle 7: Referenzierte Instanzen KBV_PR_EVDGA_HealthAppRequest**
@@ -707,17 +709,17 @@ Die Composition definiert die Gesamtheit von Informationen, die zu einem einzige
 |---|---|---|---|
 | **Daten** | **IDs gemäß  Tabelle 11** | **FHIR®-Mapping** | **Bedingung  (Feldnr. = IDs gemäß Tabelle 11)** |
 | Dokumententyp | 2 | type = „e16 |  |
-| Prüfnummer | 4 | author.type = „Device“    author.identifier | WENN   das Feld ID 7 gleich "GKV" oder      ANSONSTEN |
+| Prüfnummer | 4 | author.type = „Device“    author.identifier | WENN         ANSONSTEN |
 | Kennzeichen Rechtsgrund- | 17 | extension:rechtsgrundlage.va- | WENN         ANSONSTEN |
 
-14-16 + 26 [KBV_ITA_VGEX_Techni- 19a-25 + 28- [KBV_ITA_VGEX_Techni- + 44 - 49, 147 [KBV_ITA_VGEX_Techni- „SKT“  oder "BG" oder "UK" ist,  DANN  ist dieses Feld Pflicht. ist dieses Feld optional. lue[x]:valueCoding.code „SKT“  oder "BG" oder "UK" ist,  DANN  ist dieses Feld Pflicht. ist dieses Feld optional. **Tabelle 8: Mapping KBV_PR _EVDGA_Composition**
+14-16 + 26 [KBV_ITA_VGEX_Techni- 33 + 35-38 [KBV_ITA_VGEX_Techni- + 44 - 49, 147 [KBV_ITA_VGEX_Techni- das Feld ID 7 gleich "GKV" oder „SKT“  oder "BG" oder "UK" ist,  DANN  ist dieses Feld Pflicht. ist dieses Feld optional. lue[x]:valueCoding.code das Feld ID 7 gleich "GKV" oder „SKT“  oder "BG" oder "UK" ist,  DANN  ist dieses Feld Pflicht. ist dieses Feld optional. **Tabelle 8: Mapping KBV_PR _EVDGA_Composition**
 
 
 ---
 
-- a) Pflichtfelder sind unter Berücksichtigung der Vorgaben gemäß [EXT_ITA_VGEX_Anforderungskata-
+- a) Pflichtfelder sind unter Berücksichtigung der Vorgaben gemäß [ log_VDGA] zu befüllen.
 
-- log_VDGA] zu befüllen.
+- EXT_ITA_VGEX_Anforderungskata-
 
 - b) Optionale Felder müssen befüllt werden können.
 
@@ -782,7 +784,7 @@ Das Bundle bildet die Grundlage für die Weiterverarbeitung und Übertragung der
 | **KBV_PR_EVDGA_BUNDLE** | | | |
 |---|---|---|---|
 | **Daten** | **IDs gemäß  Tabelle 11** | **FHIR®-Mapping** | **Bedingung** |
-| Dokumenten-ID | 5 | identifier | [gemILF_PS_eRP] über die Kompo- nenten der TI    P35-32 ist zu berücksichtigen |
+| Dokumenten-ID | 5 | identifier | gemäß den Vorgaben der gematik  nenten der TI    P35-32 ist zu berücksichtigen |
 
 **Tabelle 10: Mapping KBV_PR_EVDGA_Bundle**
 
@@ -802,7 +804,7 @@ Sofern es sich bei der die Verordnung ausstellende Person um einen Arzt in Weite
 
 hinterlegen. Gleiches gilt im Rahmen von Vertretungssituationen. In Papierform ermöglicht bisher der Arzt- stempel eine Zuordnung zum verantwortlichen Vertragsarzt / Facharzt.
 
-gemäß den Vorgaben der gematik Composition **Akzeptanzkriterium:**
+[gemILF_PS_eRP] über die Kompo- Composition **Akzeptanzkriterium:**
 
 
 ---
@@ -990,7 +992,7 @@ Die privaten Krankenversicherungen nehmen nicht am Verfahren der elektronischen 
 
 Die Software stellt sicher, dass der Anwender die zu versendende elektronische Gesundheitsanwendungen-
 
-Verordnung entsprechend den Vorgaben des Bundesmantelvertrags
+Verordnung entsprechend den Vorgaben des Bundesmantelvertrags-Ärzte Anlage 2b [Anlage 2b] signiert.
 
 **Begründung:**
 
@@ -998,7 +1000,9 @@ Aufgrund gesetzlicher Vorgaben ist der Einsatz einer qualifizierten elektronisch
 
 **Akzeptanzkriterium:**
 
-- 1. Die Software stellt sicher, dass die zu versendende Instanz auf Basis der  stanz von KBV_PR_EVDGA_Bundle - mit einer qualifizierten elektronischen Signatur unter Verwendung  eines elektronischen Heilberufsausweises (eHBA) versehen wird.
+- 1. Die Software stellt sicher, dass die zu versendende Instanz auf Basis der EVDGA-Profile  sprich die In-
+
+- stanz von KBV_PR_EVDGA_Bundle - mit einer qualifizierten elektronischen Signatur unter Verwendung  eines elektronischen Heilberufsausweises (eHBA) versehen wird.
 
 - 2. Der Anwender muss die folgenden Möglichkeiten haben:
 
@@ -1010,7 +1014,9 @@ Aufgrund gesetzlicher Vorgaben ist der Einsatz einer qualifizierten elektronisch
 
 - Konnektors) ermöglichen und dabei alle zur Verfügung stehenden Signaturmodi (beispielweise einzelne  PIN-Eingabe und Komfortsignatur) unterstützen.
 
-- 4. Die weiteren Anforderungen an die Signatur sind den Vorgaben der gematik für die Fachanwendung  Rezept [gemILF_PS_eRP] zu entnehmen.
+- 4. Die weiteren Anforderungen an die Signatur sind den Vorgaben der gematik für die Fachanwendung E-
+
+- Rezept [gemILF_PS_eRP] zu entnehmen.
 
 | **PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN** |  |
 |---|---|
@@ -1020,25 +1026,17 @@ Die Software stellt sicher, dass der Anwender sich vor der Signierung die origin
 
 **Begründung:**
 
-Aufgrund gesetzlicher Vorgaben ist der Einsatz einer qualifizierten elektronischen Signatur im Rahmen der  Erstellung einer elektronischen Gesundheitsanwendungen-Verordnung notwendig. Der Anwender muss  dabei durch die Software in die Lage versetzt werden, sich die zu signierenden Inhalte der elektronischen  Verordnung digitaler Gesundheitsanwendungen vollständig in einer einheitlichen Art und  zu lassen.
+Aufgrund gesetzlicher Vorgaben ist der Einsatz einer qualifizierten elektronischen Signatur im Rahmen der  Erstellung einer elektronischen Gesundheitsanwendungen-Verordnung notwendig. Der Anwender muss  dabei durch die Software in die Lage versetzt werden, sich die zu signierenden Inhalte der elektronischen  Verordnung digitaler Gesundheitsanwendungen vollständig in einer einheitlichen Art und Weise anzeigen
+
+zu lassen.
 
 **Akzeptanzkriterium:**
 
-- 1. Der Anwender muss im Rahmen des Signaturvorgangs die Möglichkeit haben, sich die Inhalte einer oder  mehrerer zu signierenden Instanz(en) auf Basis des definierten Stylesheets  zu lassen.
+- 1. Der Anwender muss im Rahmen des Signaturvorgangs die Möglichkeit haben, sich die Inhalte einer oder  mehrerer zu signierenden Instanz(en) auf Basis des definierten Stylesheets [eVDGA-Stylesheet] anzeigen - zu lassen.
 
-- 2. Die Software muss verhindern, dass ein unmittelbarer Ausdruck der xHTML des Stylesheets [eVDGA-Stylesheet] ermöglicht wird.
+- 2. Die Software muss verhindern, dass ein unmittelbarer Ausdruck der xHTML-Repräsentation auf Basis
 
--Ärzte Anlage 2b [Anlage 2b] signiert.
-
-- EVDGA-Profile  sprich die In-
-
--
-
-- E-
-
-Weise anzeigen - [eVDGA-Stylesheet] anzeigen
-
-- -Repräsentation auf Basis
+- des Stylesheets [eVDGA-Stylesheet] ermöglicht wird.
 
 
 ---
@@ -1581,17 +1579,17 @@ gen Informationen sind in dem aufzudruckenden 2D ten.
 
 - (ID 82)
 
--
-
--
-
-- P62-11.
-
 Verord-
 
 -
 
 -
+
+-
+
+-
+
+- P62-11.
 
 - 1
 
@@ -2188,23 +2186,23 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 | 74 |  |  |  | x |  |  | Unfalltag | 4..10 | 0..1 | Dieses Feld enthält das Datum des Un- WENN |  |
 |  | ANSONSTEN | WENN  75 |  | x |  | Name des Unfallbetriebs  1..45 | 0..1  Dieses Feld enthält den Namen des Ar- | WENN |  | ANSONSTEN | **13** |
 |  |  |  | **x** |  |  |  |  |  |  |  | **Versichertenstatus  Kodiert  0..1** |
-| **Dieser Block enthält Angaben zum** | **WENN** |  |  |  | **ANSONSTEN** | 14 |  | x |  | Versichertenart  Kodiert | 1..1  cherung, z.B. ob der Versicherte Fami- |
+| **Dieser Block enthält Angaben zum** | **WENN** |  |  |  | **ANSONSTEN** | 14 |  | x |  | Versichertenart  Kodiert | 1..1  Dieses Feld enthält die Art der Versi- |
 |  | 15 |  |  | x |  |  |  | Besondere Personengruppe | Kodiert | 1..1  Dieses Feld enthält die besondere Per- |  |
 | 74 |  |  |  | x |  |  | Unfalltag | 4..10 | 0..1 | Dieses Feld enthält das Datum des Un- | WENN        ANSONSTEN |
 | WENN | 75 |  |  |  | x |  |  | Name des Unfallbetriebs | 1..45 | 0..1 | Dieses Feld enthält den Namen des Ar- |
 | WENN |  |  |  | ANSONSTEN |  |  | **13** |  |  |  | **x ** |
 |  |  |  | **Versichertenstatus** | **Kodiert** | **0..1** | **Dieser Block enthält Angaben zum** | **WENN** |  |  |  | **ANSONSTEN** |
-|  |  | 14 |  |  | x |  |  |  | Versichertenart | Kodiert | 1..1  cherung, z.B. ob der Versicherte Fami-    15 |
+|  |  | 14 |  |  | x |  |  |  | Versichertenart | Kodiert | 1..1  Dieses Feld enthält die Art der Versi-    15 |
 | 74 |  |  |  | x |  |  | Unfalltag | 4..10 | 0..1 | Dieses Feld enthält das Datum des Un- | WENN        ANSONSTEN    WENN |
 | 75 |  |  |  | x |  |  | Name des Unfallbetriebs | 1..45 | 0..1 | Dieses Feld enthält den Namen des Ar- | WENN         ANSONSTEN |
 | **13** |  | **x** |  |  |  |  | **Versichertenstatus** | **Kodiert** | **0..1** | **Dieser Block enthält Angaben zum** | **WENN  **      **ANSONSTEN ** |
-| 14 |  |  | x |  |  |  | Versichertenart | Kodiert | 1..1 | cherung, z.B. ob der Versicherte Fami- |  |
+| 14 |  |  | x |  |  |  | Versichertenart | Kodiert | 1..1 | Dieses Feld enthält die Art der Versi- |  |
 | 15 |  |  | x |  |  |  | Besondere Personengruppe | Kodiert | 1..1 | Dieses Feld enthält die besondere Per- |  |
 | 74 |  |  |  | x |  |  | Unfalltag | 4..10 | 0..1 | Dieses Feld enthält das Datum des Un- | WENN |
 |  |  |  | ANSONSTEN |  | WENN | 75 |  |  |  | x |  |
 |  | Name des Unfallbetriebs | 1..45 | 0..1 | Dieses Feld enthält den Namen des Ar- | WENN |  |  |  | ANSONSTEN |  |  |
 | **13** |  | **x** |  |  |  |  | **Versichertenstatus** | **Kodiert** | **0..1** | **Dieser Block enthält Angaben zum** | **WENN** |
-|  |  |  | **ANSONSTEN** |  | 14 | x |  | Versichertenart | Kodiert  1..1 | cherung, z.B. ob der Versicherte Fami- | 15      x        Besondere Personengruppe  Kodiert  1..1  Dieses Feld enthält die besondere Per- |
+|  |  |  | **ANSONSTEN** |  | 14 | x |  | Versichertenart | Kodiert  1..1 | Dieses Feld enthält die Art der Versi- | 15      x        Besondere Personengruppe  Kodiert  1..1  Dieses Feld enthält die besondere Per- |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 74 |  |  |  | x |  |  | Unfalltag | 4..10 | 0..1 | Dieses Feld enthält das Datum des Un- | WENN |
@@ -2213,19 +2211,19 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 | **13** |  |  |  | **x** |  |  |  |  |  |  |  |
 |  |  | **Versichertenstatus** |  | **Kodiert** |  | **0..1** |  | **Dieser Block enthält Angaben zum** |  | **WENN** |  |
 |  |  |  |  |  |  | **ANSONSTEN** |  |  | 14 |  |  |
-| x |  | Versichertenart  Kodiert | 1..1  cherung, z.B. ob der Versicherte Fami- | 15 |  | x |  | Besondere Personengruppe  Kodiert | 1..1  Dieses Feld enthält die besondere Per- |  |  |
+| x |  | Versichertenart  Kodiert | 1..1  Dieses Feld enthält die Art der Versi- | 15 |  | x |  | Besondere Personengruppe  Kodiert | 1..1  Dieses Feld enthält die besondere Per- |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 74 |  |  |  | x |  |  | Unfalltag | 4..10 | 0..1 | Dieses Feld enthält das Datum des Un- | WENN        ANSONSTEN    WENN  75 |
 |  |  | x |  |  | Name des Unfallbetriebs | 1..45 | 0..1 | Dieses Feld enthält den Namen des Ar- | WENN |  |  |
 |  | ANSONSTEN |  |  | **13** |  |  |  | **x** |  |  |  |
 |  |  |  |  |  |  | **Versichertenstatus** |  | **Kodiert** |  | **0..1** |  |
 | **Dieser Block enthält Angaben zum** |  | **WENN** |  |  |  |  |  |  |  | **ANSONSTEN** |  |
-| 14 |  | x |  | Versichertenart  Kodiert | 1..1  cherung, z.B. ob der Versicherte Fami- | 15 |  | x |  | Besondere Personengruppe  Kodiert | 1..1  Dieses Feld enthält die besondere Per- |
+| 14 |  | x |  | Versichertenart  Kodiert | 1..1  Dieses Feld enthält die Art der Versi- | 15 |  | x |  | Besondere Personengruppe  Kodiert | 1..1  Dieses Feld enthält die besondere Per- |
 | 74 |  |  |  | x |  |  | Unfalltag | 4..10  0..1 | Dieses Feld enthält das Datum des Un- | WENN |  |
 |  |  | ANSONSTEN |  | WENN | 75 |  |  |  | x |  | Name des Unfallbetriebs  1..45  0..1  Dieses Feld enthält den Namen des Ar- WENN |
 | ANSONSTEN |  |  | **13** |  |  |  | **x** |  |  |  |  |
 |  |  |  |  |  | **Versichertenstatus** |  | **Kodiert** |  | **0..1** |  | **Dieser Block enthält Angaben zum** |
-| **WENN** |  |  |  | **ANSONSTEN** |  | 14 | x |  | Versichertenart | Kodiert  1..1 | cherung, z.B. ob der Versicherte Fami- |
+| **WENN** |  |  |  | **ANSONSTEN** |  | 14 | x |  | Versichertenart | Kodiert  1..1 | Dieses Feld enthält die Art der Versi- |
 | 15 | x |  | Besondere Personengruppe | Kodiert  1..1 | Dieses Feld enthält die besondere Per- |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 74 |  |  |  | x |  |  | Unfalltag | 4..10 | 0..1 | Dieses Feld enthält das Datum des Un- | WENN |
@@ -2241,11 +2239,11 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 | **13** |  |  |  | **x** |  |  |  |  |  |  |  |
 |  |  | **Versichertenstatus** |  | **Kodiert** |  | **0..1** |  | **Dieser Block enthält Angaben zum** |  | **WENN** |  |
 |  |  |  |  |  |  | **ANSONSTEN** |  |  | 14 |  |  |
-| x |  |  |  | Versichertenart | Kodiert | 1..1 | cherung, z.B. ob der Versicherte Fami- |  | 15 |  |  |
+| x |  |  |  | Versichertenart | Kodiert | 1..1 | Dieses Feld enthält die Art der Versi- |  | 15 |  |  |
 | 74 |  | x | Unfalltag | 4..10  0..1 | Dieses Feld enthält das Datum des Un- WENN |  | ANSONSTEN | WENN | 75 | x | Name des Unfallbetriebs  1..45  0..1  Dieses Feld enthält den Namen des Ar- WENN         ANSONSTEN |
 | **13** |  | **x** |  |  |  |  | **Versichertenstatus** | **Kodiert** | **0..1** | **Dieser Block enthält Angaben zum** | **WENN** |
 |  |  |  |  |  |  | **ANSONSTEN** |  |  | 14 |  |  |
-| x |  |  |  | Versichertenart | Kodiert | 1..1 | cherung, z.B. ob der Versicherte Fami- |  | 15 |  |  |
+| x |  |  |  | Versichertenart | Kodiert | 1..1 | Dieses Feld enthält die Art der Versi- |  | 15 |  |  |
 | 74 |  |  |  | x |  |  | Unfalltag | 4..10 | 0..1 | Dieses Feld enthält das Datum des Un- | WENN |
 | ANSONSTEN |  | WENN | 75 |  |  | x |  | Name des Unfallbetriebs | 1..45  0..1 | Dieses Feld enthält den Namen des Ar- WENN | ANSONSTEN   **13 ** |
 | **x** |  |  |  |  |  |  |  |  |  | **Versichertenstatus** | **Kodiert** |
@@ -2254,7 +2252,7 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 | Name des Unfallbetriebs  1..45 | 0..1  Dieses Feld enthält den Namen des Ar- | WENN |  | ANSONSTEN | **13** |  | **x** |  |  |  |  |
 |  | **Versichertenstatus** |  | **Kodiert** |  | **0..1** |  | **Dieser Block enthält Angaben zum** |  | **WENN** |  |  |
 |  |  |  |  |  | **ANSONSTEN** |  |  | 14 |  |  | x |
-|  |  |  | Versichertenart | Kodiert | 1..1 | cherung, z.B. ob der Versicherte Fami- |  | 15 |  |  | x |
+|  |  |  | Versichertenart | Kodiert | 1..1 | Dieses Feld enthält die Art der Versi- |  | 15 |  |  | x |
 |  |  |  | Besondere Personengruppe | Kodiert | 1..1 | Dieses Feld enthält die besondere Per- |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 74 |  | x | Unfalltag | 4..10  0..1 | Dieses Feld enthält das Datum des Un- WENN |  | ANSONSTEN | WENN | 75 | x | Name des Unfallbetriebs |
@@ -2265,14 +2263,14 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 | 1..45 | 0..1 | Dieses Feld enthält den Namen des Ar- | WENN |  |  |  | ANSONSTEN |  |  | **13** |  |
 |  | **x** |  |  |  |  |  |  |  |  |  | **Versichertenstatus** |
 |  | **Kodiert** |  | **0..1** |  | **Dieser Block enthält Angaben zum** |  | **WENN** |  |  |  |  |
-|  | **ANSONSTEN** |  | 14 | x |  | Versichertenart | Kodiert  1..1 | cherung, z.B. ob der Versicherte Fami- | 15 | x |  |
+|  | **ANSONSTEN** |  | 14 | x |  | Versichertenart | Kodiert  1..1 | Dieses Feld enthält die Art der Versi- | 15 | x |  |
 | 74 |  |  |  | x |  |  | Unfalltag | 4..10 | 0..1 | Dieses Feld enthält das Datum des Un- | WENN |
 |  |  |  | ANSONSTEN |  | WENN | 75 |  |  |  | x |  |
 |  | Name des Unfallbetriebs | 1..45 | 0..1 | Dieses Feld enthält den Namen des Ar- | WENN |  |  |  | ANSONSTEN |  |  |
 | **13** |  |  |  | **x** |  |  |  |  |  |  |  |
 |  |  | **Versichertenstatus** |  | **Kodiert** |  | **0..1** |  | **Dieser Block enthält Angaben zum** |  | **WENN** |  |
 |  |  |  |  |  |  | **ANSONSTEN** |  |  | 14 |  |  |
-| x |  | Versichertenart  Kodiert | 1..1  cherung, z.B. ob der Versicherte Fami- | 15 |  | x |  | Besondere Personengruppe  Kodiert | 1..1  Dieses Feld enthält die besondere Per- |  |  |
+| x |  | Versichertenart  Kodiert | 1..1  Dieses Feld enthält die Art der Versi- | 15 |  | x |  | Besondere Personengruppe  Kodiert | 1..1  Dieses Feld enthält die besondere Per- |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -2284,7 +2282,7 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 | WENN | 75 |  |  |  | x |  |  | Name des Unfallbetriebs | 1..45 | 0..1  Dieses Feld enthält den Namen des Ar- | WENN |
 |  |  |  | ANSONSTEN |  |  | **13** |  |  |  | **x** |  |
 
-(GRAU = BLOCK) DERH. fallereignisses, das Ursache für die Ver- ordnung ist. beitgebers oder Dienstherrn, in dessen Einflussbereich sich der Unfall (auch Wegeunfall) ereignete. Versichertenstatus. Dieses Feld enthält die Art der Versi- lienversicherter, Mitglied oder Rentner ist. sonengruppe, zu der der Versicherte gehört (§ 264 SGB V). das Feld "Unfallkennzeichen" gleich "1" oder "2" ist,  DANN  ist dieses Feld Pflicht. darf dieses Feld nicht übertragen werden.  dieses Feld ein Datum enthält, DANN darf dieses nicht nach dem Ausstellungsdatum liegen. das Feld "Unfallkennzeichen" gleich "2" ist,  DANN ist dieses Feld Pflicht. darf dieses Feld nicht übertragen werden.  das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK ist,  DANN  ist dieser Block Pflicht. ist dieser Block optional.
+(GRAU = BLOCK) DERH. fallereignisses, das Ursache für die Ver- ordnung ist. beitgebers oder Dienstherrn, in dessen Einflussbereich sich der Unfall (auch Wegeunfall) ereignete. Versichertenstatus. das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ cherung, z.B. ob der Versicherte Fami- lienversicherter, Mitglied oder Rentner ist. sonengruppe, zu der der Versicherte gehört (§ 264 SGB V). das Feld "Unfallkennzeichen" gleich "1" oder "2" ist,  DANN  ist dieses Feld Pflicht. darf dieses Feld nicht übertragen werden.  dieses Feld ein Datum enthält, DANN darf dieses nicht nach dem Ausstellungsdatum liegen. das Feld "Unfallkennzeichen" gleich "2" ist,  DANN ist dieses Feld Pflicht. darf dieses Feld nicht übertragen werden.  oder "BG" oder "UK ist,  DANN  ist dieser Block Pflicht. ist dieser Block optional.
 
 ---
 
@@ -2307,93 +2305,93 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 \| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
 | **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|  | x |  | DMP-Kennzeichen  Kodiert | 1..1  nagement-Programm (DMP), in dem | 17 |  | x |  | Kennzeichen Rechtsgrundlage  Kodiert | 1..1  lage, auf Basis derer die Leistung er- | 26 |
+|  | x |  | DMP-Kennzeichen  Kodiert | 1..1  Dieses Feld enthält das Disease-Ma- | 17 |  | x |  | Kennzeichen Rechtsgrundlage  Kodiert | 1..1  Dieses Feld enthält die Rechtsgrund- | 26 |
 |  |  | x |  |  |  | Versicherungsschutz Ende | 10 | 0..1 | Dieses Feld enthält das Datum des En- |  |  |
 | **18** |  | **x** |  |  |  |  |  |  |  |  |  |
 |  |  | **Versicherter** |  |  |  | **1..1** |  | **Dieser Block enthält Daten zum Versi-** |  | **19** |  |
-| 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | nagement-Programm (DMP), in dem | 17 |
-|  | x |  | Kennzeichen Rechtsgrundlage  Kodiert | 1..1  lage, auf Basis derer die Leistung er- | 26 |  | x |  | Versicherungsschutz Ende  10 | 0..1  Dieses Feld enthält das Datum des En- |  |
+| 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | Dieses Feld enthält das Disease-Ma- | 17 |
+|  | x |  | Kennzeichen Rechtsgrundlage  Kodiert | 1..1  Dieses Feld enthält die Rechtsgrund- | 26 |  | x |  | Versicherungsschutz Ende  10 | 0..1  Dieses Feld enthält das Datum des En- |  |
 | **18** |  | **x** |  |  |  |  |  |  |  |  | **Versicherter **   **1..1** |
 | **Dieser Block enthält Daten zum Versi-** |  | **19** |  | **x** |  |  |  |  | **Identifikator des Versicherten** |  | **0..1** |
 | **Dieser Block enthält den Identifikator** |  | **WENN** |  |  |  |  |  |  |  | **ANSONSTEN** | 19a      x |
-| 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | nagement-Programm (DMP), in dem | 17      x |
-|  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | lage, auf Basis derer die Leistung er- |  | 26 |  |  | x |  |
+| 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | Dieses Feld enthält das Disease-Ma- | 17      x |
+|  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die Rechtsgrund- |  | 26 |  |  | x |  |
 |  |  | Versicherungsschutz Ende | 10 | 0..1 | Dieses Feld enthält das Datum des En- |  |  | **18** |  | **x** |  |
 |  |  |  |  | **Versicherter** |  | **1..1** | **Dieser Block enthält Daten zum Versi-** | **19** |  | **x** |  |
 |  |  |  |  |  |  |  | **Identifikator des Versicherten** |  |  |  | **0..1  Dieser Block enthält den Identifikator  WENN** |
-| 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | nagement-Programm (DMP), in dem | 17      x |
-|  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | lage, auf Basis derer die Leistung er- |  | 26 |  |  | x |  | Versicherungsschutz Ende  10  0..1  Dieses Feld enthält das Datum des En- |
+| 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | Dieses Feld enthält das Disease-Ma- | 17      x |
+|  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die Rechtsgrund- |  | 26 |  |  | x |  | Versicherungsschutz Ende  10  0..1  Dieses Feld enthält das Datum des En- |
 |  | **18** | **x** |  |  |  |  |  | **Versicherter** |  | **1..1** | **Dieser Block enthält Daten zum Versi-**  **19 **  **x ** |
 |  |  |  |  |  | **Identifikator des Versicherten** |  |  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |
 |  | **WENN** |  |  |  |  |  |  |  | **ANSONSTEN** |  |  |
-| 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | nagement-Programm (DMP), in dem |  |
-| 17 |  |  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | lage, auf Basis derer die Leistung er- |  |
+| 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | Dieses Feld enthält das Disease-Ma- |  |
+| 17 |  |  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die Rechtsgrund- |  |
 | 26 |  |  | x |  |  |  | Versicherungsschutz Ende | 10 | 0..1 | Dieses Feld enthält das Datum des En- |  |
 | **18** | **x** |  |  |  |  |  | **Versicherter** |  | **1..1** | **Dieser Block enthält Daten zum Versi-** |  |
 | **19** |  | **x** |  |  |  |  | **Identifikator des Versicherten** |  | **0..1** | **Dieser Block enthält den Identifikator** | **WENN **      **ANSONSTEN  ** |
 | 19a |  |  | x |  |  |  | VersichertenID | 10 | 1..1 | Dieses Feld enthält die VersichertenID |  |
 | **140** |  | **x** |  |  |  |  | **Name des Versicherten** |  | **1..1** | **Dieser Block enthält die Bestandteile** |  |
-| 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | nagement-Programm (DMP), in dem |  |
-| 17 |  |  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | lage, auf Basis derer die Leistung er- |  |
+| 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | Dieses Feld enthält das Disease-Ma- |  |
+| 17 |  |  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die Rechtsgrund- |  |
 | 26 |  |  | x |  |  |  | Versicherungsschutz Ende | 10 | 0..1 | Dieses Feld enthält das Datum des En- |  |
 |  | **18** |  | **x** |  |  |  |  |  |  |  |  |
 |  |  |  | **Versicherter** |  |  |  | **1..1** |  | **Dieser Block enthält Daten zum Versi-** |  |  |
 | **19** |  |  |  | **x** |  |  |  |  |  |  |  |
 |  | **Identifikator des Versicherten** |  | **0..1** | **Dieser Block enthält den Identifikator** | **WENN** |  |  |  | **ANSONSTEN** | 19a | x |
 |  |  | VersichertenID | 10 | 1..1 | Dieses Feld enthält die VersichertenID |  |  | **140** |  |  | **x** |
-| 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | nagement-Programm (DMP), in dem | 17      x        Kennzeichen Rechtsgrundlage |
-| Kodiert | 1..1 | lage, auf Basis derer die Leistung er- |  | 26 |  |  | x |  |  |  | Versicherungsschutz Ende |
+| 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | Dieses Feld enthält das Disease-Ma- | 17      x        Kennzeichen Rechtsgrundlage |
+| Kodiert | 1..1 | Dieses Feld enthält die Rechtsgrund- |  | 26 |  |  | x |  |  |  | Versicherungsschutz Ende |
 | 10 | 0..1 | Dieses Feld enthält das Datum des En- |  |  | **18** |  | **x** |  |  |  |  |
 |  |  |  |  |  |  |  | **Versicherter** |  |  |  | **1..1** |
 |  | **Dieser Block enthält Daten zum Versi-** |  |  | **19** |  |  |  | **x** |  |  |  |
 |  |  |  | **Identifikator des Versicherten** |  | **0..1** | **Dieser Block enthält den Identifikator** | **WENN** |  |  |  | **ANSONSTEN  **   19a |
-| 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert  1..1 | nagement-Programm (DMP), in dem |  | 17 |
-|  |  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | lage, auf Basis derer die Leistung er- |  | 26      x        Versicherungsschutz Ende  10 |
+| 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert  1..1 | Dieses Feld enthält das Disease-Ma- |  | 17 |
+|  |  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die Rechtsgrund- |  | 26      x        Versicherungsschutz Ende  10 |
 | 0..1 | Dieses Feld enthält das Datum des En- |  |  | **18** |  | **x** |  |  |  |  |  |
 |  |  |  |  |  |  | **Versicherter** |  |  |  | **1..1** |  |
 | **Dieser Block enthält Daten zum Versi-** | **19** |  | **x** |  |  |  |  | **Identifikator des Versicherten** |  | **0..1** | **Dieser Block enthält den Identifikator** |
 | **WENN** |  |  |  | **ANSONSTEN** |  | 19a | x |  | VersichertenID | 10  1..1 | Dieses Feld enthält die VersichertenID |
 | **140** |  | **x** |  |  |  |  | **Name des Versicherten** |  | **1..1** | **Dieser Block enthält die Bestandteile** |  |
-| 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | nagement-Programm (DMP), in dem |  |
-| 17 |  |  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | lage, auf Basis derer die Leistung er- |  |
+| 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | Dieses Feld enthält das Disease-Ma- |  |
+| 17 |  |  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die Rechtsgrund- |  |
 | 26 |  |  | x |  |  |  | Versicherungsschutz Ende | 10 | 0..1 | Dieses Feld enthält das Datum des En- | **18** |
 | **x** |  |  |  |  |  |  |  |  | **Versicherter** |  | **1..1  Dieser Block enthält Daten zum Versi-**  **19 ** |
-| 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | nagement-Programm (DMP), in dem | 17 |
-|  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | lage, auf Basis derer die Leistung er- |  | 26 | x |
+| 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | Dieses Feld enthält das Disease-Ma- | 17 |
+|  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die Rechtsgrund- |  | 26 | x |
 |  |  |  | Versicherungsschutz Ende | 10 | 0..1 | Dieses Feld enthält das Datum des En- |  |  | **18** |  | **x** |
 |  |  |  |  |  |  |  |  |  |  |  | **Versicherter** |
-| 16 | x |  | DMP-Kennzeichen | Kodiert  1..1 | nagement-Programm (DMP), in dem | 17 | x |  | Kennzeichen Rechtsgrundlage | Kodiert  1..1 | lage, auf Basis derer die Leistung er- |
+| 16 | x |  | DMP-Kennzeichen | Kodiert  1..1 | Dieses Feld enthält das Disease-Ma- | 17 | x |  | Kennzeichen Rechtsgrundlage | Kodiert  1..1 | Dieses Feld enthält die Rechtsgrund- |
 | 26 |  |  | x |  |  |  | Versicherungsschutz Ende | 10 | 0..1 | Dieses Feld enthält das Datum des En- |  |
 |  | **18** |  | **x** |  |  |  |  |  |  |  |  |
 |  |  |  | **Versicherter** |  |  |  | **1..1** |  | **Dieser Block enthält Daten zum Versi-** |  |  |
 | **19** |  |  |  | **x** |  |  |  |  |  |  |  |
 |  |  | **Identifikator des Versicherten** |  |  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **WENN** |  |
-| 16 | x |  | DMP-Kennzeichen | Kodiert  1..1 | nagement-Programm (DMP), in dem | 17 | x |  | Kennzeichen Rechtsgrundlage | Kodiert  1..1  lage, auf Basis derer die Leistung er- | 26      x        Versicherungsschutz Ende  10  0..1  Dieses Feld enthält das Datum des En- |
+| 16 | x |  | DMP-Kennzeichen | Kodiert  1..1 | Dieses Feld enthält das Disease-Ma- | 17 | x |  | Kennzeichen Rechtsgrundlage | Kodiert  1..1  Dieses Feld enthält die Rechtsgrund- | 26      x        Versicherungsschutz Ende  10  0..1  Dieses Feld enthält das Datum des En- |
 | **18** | **x** |  |  |  |  |  | **Versicherter** |  | **1..1** | **Dieser Block enthält Daten zum Versi-** |  |
 | **19** |  |  |  | **x** |  |  |  |  |  |  |  |
 |  |  | **Identifikator des Versicherten** |  |  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **WENN** |  |
-| 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | nagement-Programm (DMP), in dem | 17 |
-| x |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | lage, auf Basis derer die Leistung er- | 26 |  | x |  | Versicherungsschutz Ende  10  0..1  Dieses Feld enthält das Datum des En-  **18  x** |
+| 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | Dieses Feld enthält das Disease-Ma- | 17 |
+| x |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die Rechtsgrund- | 26 |  | x |  | Versicherungsschutz Ende  10  0..1  Dieses Feld enthält das Datum des En-  **18  x** |
 |  |  |  |  |  |  |  |  |  |  |  | **Versicherter** |
-| 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | nagement-Programm (DMP), in dem | 17 |
-|  |  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | lage, auf Basis derer die Leistung er- |  | 26 |
+| 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | Dieses Feld enthält das Disease-Ma- | 17 |
+|  |  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die Rechtsgrund- |  | 26 |
 |  | x |  | Versicherungsschutz Ende  10 | 0..1  Dieses Feld enthält das Datum des En- |  | **18** | **x** |  |  |  |  |
 |  |  | **Versicherter** |  |  |  | **1..1** |  | **Dieser Block enthält Daten zum Versi-** |  |  | **19** |
 |  |  |  | **x** |  |  |  |  |  |  |  |  |
 |  | **Identifikator des Versicherten** |  |  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **WENN** |  |  |
 |  |  |  |  |  | **ANSONSTEN** |  |  | 19a |  |  | x |
 |  |  |  | VersichertenID | 10 | 1..1 | Dieses Feld enthält die VersichertenID |  |  | **140** |  |  |
-| 16 | x |  | DMP-Kennzeichen | Kodiert  1..1 | nagement-Programm (DMP), in dem | 17 | x |  | Kennzeichen Rechtsgrundlage | Kodiert  1..1  lage, auf Basis derer die Leistung er- | 26 |
+| 16 | x |  | DMP-Kennzeichen | Kodiert  1..1 | Dieses Feld enthält das Disease-Ma- | 17 | x |  | Kennzeichen Rechtsgrundlage | Kodiert  1..1  Dieses Feld enthält die Rechtsgrund- | 26 |
 | x |  |  | Versicherungsschutz Ende | 10 | 0..1 | Dieses Feld enthält das Datum des En- |  | **18** | **x** |  |  |
 |  |  |  | **Versicherter** |  |  |  | **1..1** |  | **Dieser Block enthält Daten zum Versi-** |  | **19** |
-| 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | nagement-Programm (DMP), in dem | 17 |
-|  |  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | lage, auf Basis derer die Leistung er- |  | 26 |
+| 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | Dieses Feld enthält das Disease-Ma- | 17 |
+|  |  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die Rechtsgrund- |  | 26 |
 |  | x |  |  |  | Versicherungsschutz Ende | 10 | 0..1 | Dieses Feld enthält das Datum des En- |  |  | **18** |
 | **x** |  |  |  |  |  |  |  |  |  |  |  |
 | **Versicherter** |  |  |  | **1..1** |  | **Dieser Block enthält Daten zum Versi-** |  |  | **19** |  |  |
 | **x** |  |  |  |  | **Identifikator des Versicherten** |  | **0..1** | **Dieser Block enthält den Identifikator** | **WENN** |  |  |
-| 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | nagement-Programm (DMP), in dem |  |
-| 17 |  |  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | lage, auf Basis derer die Leistung er- |  |
+| 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | Dieses Feld enthält das Disease-Ma- |  |
+| 17 |  |  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die Rechtsgrund- |  |
 | 26 |  |  | x |  |  |  | Versicherungsschutz Ende | 10 | 0..1 | Dieses Feld enthält das Datum des En- |  |
 |  | **18** |  | **x** |  |  |  |  |  |  |  |  |
 |  |  |  | **Versicherter** |  |  |  | **1..1** |  | **Dieser Block enthält Daten zum Versi-** |  |  |
@@ -2406,11 +2404,11 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-| 16 |  | x |  |  | DMP-Kennzeichen | Kodiert | 1..1  nagement-Programm (DMP), in dem |  | 17 | x |  |
-|  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | lage, auf Basis derer die Leistung er- |  | 26 |  |  | x |  |
+| 16 |  | x |  |  | DMP-Kennzeichen | Kodiert | 1..1  Dieses Feld enthält das Disease-Ma- |  | 17 | x |  |
+|  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die Rechtsgrund- |  | 26 |  |  | x |  |
 |  | Versicherungsschutz Ende | 10 | 0..1 | Dieses Feld enthält das Datum des En- |  |  | **18** |  | **x** |  |  |
 
-(GRAU = BLOCK) DERH. Dieses Feld enthält das Disease-Ma- der Versicherte eingeschrieben ist (§ 284 Abs. 1 Satz 1 Nr. 14 SGB V). Dieses Feld enthält die Rechtsgrund- bracht wurde, z. B. Entlass-Rezept, Ter- minservicestelle (Technische Anlage zur Anlage 4a des BMV-Ä). des des Versicherungsschutzes, wenn die Datumsangabe auf der Versicher- tenkarte gespeichert ist und ausgele- sen wurde. cherten. der Person, z.B. die Krankenversiche- rungsnummer der GKV. der gesetzlichen Krankenversicherung oder eines sonstigen Kostenträgers (unveränderlicher Teil der einheitlichen Krankenversicherungsnummer der GKV gemäß § 290 und § 362 SGB V). des Namens des Versicherten. das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist, DANN  ist dieser Block Pflicht.  ist dieser Block optional.
+cherten. (GRAU = BLOCK) DERH. nagement-Programm (DMP), in dem der Versicherte eingeschrieben ist (§ 284 Abs. 1 Satz 1 Nr. 14 SGB V). lage, auf Basis derer die Leistung er- bracht wurde, z. B. Entlass-Rezept, Ter- minservicestelle (Technische Anlage zur Anlage 4a des BMV-Ä). des des Versicherungsschutzes, wenn die Datumsangabe auf der Versicher- tenkarte gespeichert ist und ausgele- sen wurde. der Person, z.B. die Krankenversiche- rungsnummer der GKV. das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist, DANN  der gesetzlichen Krankenversicherung oder eines sonstigen Kostenträgers (unveränderlicher Teil der einheitlichen Krankenversicherungsnummer der GKV gemäß § 290 und § 362 SGB V). des Namens des Versicherten. ist dieser Block Pflicht.  ist dieser Block optional.
 
 ---
 
@@ -2433,98 +2431,98 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 \| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
 | **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|  | x |  | Vorname des Versicherten  1..45 | 1..1  Versicherten; mehrere Vornamen sind | 21 |  | x |  | Nachname des Versicherten  1..45 | 1..1  des Versicherten. | 22 |
+|  | x |  | Vorname des Versicherten  1..45 | 1..1  Dieses Feld enthält den Vornamen des | 21 |  | x |  | Nachname des Versicherten  1..45 | 1..1  Dieses Feld enthält den Nachnamen | 22 |
 |  |  | x |  |  |  | Titel des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den akademischen |  | 23 |
-|  |  | x |  |  |  | Namenszusatz des Versicherten | 1..20 | 0..1 | als Bestandteil des Nachnamens, z.B. |  | 24 |
+|  |  | x |  |  |  | Namenszusatz des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den Namenszusatz |  | 24 |
 |  |  | x |  |  |  | Vorsatzwort des Versicherten | 1..20 | 0..1 | Dieses Feld enthält das Vorsatzwort als | 25 | x |
-| 20 |  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Versicherten; mehrere Vornamen sind | 21 |
-|  | x |  | Nachname des Versicherten  1..45 | 1..1  des Versicherten. | 22 |  | x |  | Titel des Versicherten  1..20 | 0..1  Dieses Feld enthält den akademischen | 23 |
-|  |  | x |  |  |  | Namenszusatz des Versicherten | 1..20 | 0..1 | als Bestandteil des Nachnamens, z.B. |  | 24      x        Vorsatzwort des Versicherten |
-| 1..20  0..1 | Dieses Feld enthält das Vorsatzwort als | 25 | x |  | Geburtsdatum des Versicherten | oder  1..1 | des Versicherten.  dieses Feld ein Datum enthält, | **27** |  | **x** |  |
-|  |  |  |  |  |  |  | **Straßenadresse des Versicher-** |  |  | **0..1** | **Dieser Block enthält Informationen zur  WENN  ANSONSTEN** |
-| 20 |  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Versicherten; mehrere Vornamen sind | 21      x |
-|  |  | Nachname des Versicherten | 1..45 | 1..1 | des Versicherten. |  | 22 |  |  | x |  |
+| 20 |  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Vornamen des | 21 |
+|  | x |  | Nachname des Versicherten  1..45 | 1..1  Dieses Feld enthält den Nachnamen | 22 |  | x |  | Titel des Versicherten  1..20 | 0..1  Dieses Feld enthält den akademischen | 23 |
+|  |  | x |  |  |  | Namenszusatz des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den Namenszusatz |  | 24      x        Vorsatzwort des Versicherten |
+| 1..20  0..1 | Dieses Feld enthält das Vorsatzwort als | 25 | x |  | Geburtsdatum des Versicherten | 4..10  1..1 | Dieses Feld enthält das Geburtsdatum  WENN | **27** |  | **x** |  |
+|  |  |  |  |  |  |  | **Straßenadresse des Versicher-** |  |  | **0..1** | **Straßenadresse des Versicherten.  der Block "Postfachanschrift des Versicherten"  ANSONSTEN** |
+| 20 |  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Vornamen des | 21      x |
+|  |  | Nachname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Nachnamen |  | 22 |  |  | x |  |
 |  |  | Titel des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den akademischen |  | 23 |  |  | x |  |
-| Namenszusatz des Versicherten  1..20 | 0..1  als Bestandteil des Nachnamens, z.B. | 24 |  | x |  | Vorsatzwort des Versicherten  1..20 | 0..1  Dieses Feld enthält das Vorsatzwort als | 25 | x |  |  |
-| Geburtsdatum des Versicherten | oder | 1..1 | des Versicherten. | dieses Feld ein Datum enthält, |  | **27** |  |  |  | **x** |  |
-| 20 |  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Versicherten; mehrere Vornamen sind | 21      x |
-|  | Nachname des Versicherten | 1..45 | 1..1 | des Versicherten. |  | 22 |  |  | x |  | Titel des Versicherten  1..20  0..1  Dieses Feld enthält den akademischen |
-| 23 |  | x |  | Namenszusatz des Versicherten  1..20 | 0..1  als Bestandteil des Nachnamens, z.B. | 24 |  | x |  | Vorsatzwort des Versicherten  1..20 | 0..1  Dieses Feld enthält das Vorsatzwort als    25    x          Geburtsdatum des Versicherten  oder |
-| 1..1 | des Versicherten. | dieses Feld ein Datum enthält, |  | **27** |  |  |  | **x** |  |  |  |
+| Namenszusatz des Versicherten  1..20 | 0..1  Dieses Feld enthält den Namenszusatz | 24 |  | x |  | Vorsatzwort des Versicherten  1..20 | 0..1  Dieses Feld enthält das Vorsatzwort als | 25 | x |  |  |
+| Geburtsdatum des Versicherten | 4..10 | 1..1 | Dieses Feld enthält das Geburtsdatum | WENN |  | **27** |  |  |  | **x** |  |
+| 20 |  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Vornamen des | 21      x |
+|  | Nachname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Nachnamen |  | 22 |  |  | x |  | Titel des Versicherten  1..20  0..1  Dieses Feld enthält den akademischen |
+| 23 |  | x |  | Namenszusatz des Versicherten  1..20 | 0..1  Dieses Feld enthält den Namenszusatz | 24 |  | x |  | Vorsatzwort des Versicherten  1..20 | 0..1  Dieses Feld enthält das Vorsatzwort als    25    x          Geburtsdatum des Versicherten  4..10 |
+| 1..1 | Dieses Feld enthält das Geburtsdatum | WENN |  | **27** |  |  |  | **x** |  |  |  |
 |  |  |  |  |  |  | **Straßenadresse des Versicher-** |  |  |  | **0..1** |  |
-| 20 |  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Versicherten; mehrere Vornamen sind |  |
-| 21 |  |  | x |  |  |  | Nachname des Versicherten | 1..45 | 1..1 | des Versicherten. |  |
+| 20 |  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Vornamen des |  |
+| 21 |  |  | x |  |  |  | Nachname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Nachnamen |  |
 | 22 |  |  | x |  |  |  | Titel des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den akademischen |  |
-| 23 | x |  | Namenszusatz des Versicherten | 1..20  0..1 | als Bestandteil des Nachnamens, z.B. | 24 | x |  | Vorsatzwort des Versicherten | 1..20  0..1 | Dieses Feld enthält das Vorsatzwort als |
-| 25 | x |  |  | Geburtsdatum des Versicherten  oder | 1..1  des Versicherten. | dieses Feld ein Datum enthält, | **27** |  | **x** |  | **Straßenadresse des Versicher-**   **0..1** |
-| **Dieser Block enthält Informationen zur** |  | **WENN** |  | **ANSONSTEN** | 28 |  |  | x |  |  |  |
+| 23 | x |  | Namenszusatz des Versicherten | 1..20  0..1 | Dieses Feld enthält den Namenszusatz | 24 | x |  | Vorsatzwort des Versicherten | 1..20  0..1 | Dieses Feld enthält das Vorsatzwort als |
+| 25 | x |  |  | Geburtsdatum des Versicherten  4..10 | 1..1  Dieses Feld enthält das Geburtsdatum | WENN | **27** |  | **x** |  | **Straßenadresse des Versicher-**   **0..1** |
+| **Straßenadresse des Versicherten.** |  | **der Block "Postfachanschrift des Versicherten"** |  | **ANSONSTEN** | 28 |  |  | x |  |  |  |
 | Wohnsitzländercode der Versi- Kodiert | 1..3  0..1 | Dieses Feld enthält den Wohnsitzlän- |  |  |  |  |  |  |  |  |  |
-| 20 |  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Versicherten; mehrere Vornamen sind |  |
-| 21 |  |  | x |  |  |  | Nachname des Versicherten | 1..45 | 1..1 | des Versicherten. |  |
+| 20 |  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Vornamen des |  |
+| 21 |  |  | x |  |  |  | Nachname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Nachnamen |  |
 | 22 |  |  | x |  |  |  | Titel des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den akademischen |  |
-| 23 |  |  | x |  |  |  | Namenszusatz des Versicherten | 1..20 | 0..1 | als Bestandteil des Nachnamens, z.B. |  |
+| 23 |  |  | x |  |  |  | Namenszusatz des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den Namenszusatz |  |
 | 24 |  |  | x |  |  |  | Vorsatzwort des Versicherten | 1..20 | 0..1 | Dieses Feld enthält das Vorsatzwort als |  |
-| 25 |  | x |  |  |  |  | Geburtsdatum des Versicherten | oder | 1..1 | des Versicherten. | dieses Feld ein Datum enthält, |
-| **27** |  | **x** |  |  |  |  | **Straßenadresse des Versicher-** |  | **0..1** | **Dieser Block enthält Informationen zur** | **WENN  ANSONSTEN** |
+| 25 |  | x |  |  |  |  | Geburtsdatum des Versicherten | 4..10 | 1..1 | Dieses Feld enthält das Geburtsdatum | WENN |
+| **27** |  | **x** |  |  |  |  | **Straßenadresse des Versicher-** |  | **0..1** | **Straßenadresse des Versicherten.** | **der Block "Postfachanschrift des Versicherten"  ANSONSTEN** |
 | 28 |  |  | x |  |  |  | Wohnsitzländercode der Versi- | Kodiert  1..3 | 0..1 | Dieses Feld enthält den Wohnsitzlän- |  |
-| 20 |  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Versicherten; mehrere Vornamen sind | 21      x        Nachname des Versicherten |
-| 1..45 | 1..1 | des Versicherten. |  | 22 |  |  | x |  |  |  | Titel des Versicherten |
+| 20 |  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Vornamen des | 21      x        Nachname des Versicherten |
+| 1..45 | 1..1 | Dieses Feld enthält den Nachnamen |  | 22 |  |  | x |  |  |  | Titel des Versicherten |
 | 1..20 | 0..1 | Dieses Feld enthält den akademischen |  | 23 |  |  | x |  |  |  | Namenszusatz des Versicherten |
-| 1..20 | 0..1 | als Bestandteil des Nachnamens, z.B. |  | 24 |  |  | x |  |  |  | Vorsatzwort des Versicherten |
+| 1..20 | 0..1 | Dieses Feld enthält den Namenszusatz |  | 24 |  |  | x |  |  |  | Vorsatzwort des Versicherten |
 | 1..20 | 0..1 | Dieses Feld enthält das Vorsatzwort als |  | 25 |  | x |  |  |  |  | Geburtsdatum des Versicherten |
-| oder  1..1 | des Versicherten.  dieses Feld ein Datum enthält, | **27** |  | **x** |  |  |  |  | **Straßenadresse des Versicher-** |  | **0..1  Dieser Block enthält Informationen zur** |
-| 20 |  |  | x |  |  |  | Vorname des Versicherten | 1..45  1..1 | Versicherten; mehrere Vornamen sind |  | 21 |
-|  |  | x |  |  |  | Nachname des Versicherten | 1..45 | 1..1 | des Versicherten. |  | 22      x        Titel des Versicherten  1..20 |
+| 4..10  1..1 | Dieses Feld enthält das Geburtsdatum  WENN | **27** |  | **x** |  |  |  |  | **Straßenadresse des Versicher-** |  | **0..1  Straßenadresse des Versicherten.** |
+| 20 |  |  | x |  |  |  | Vorname des Versicherten | 1..45  1..1 | Dieses Feld enthält den Vornamen des |  | 21 |
+|  |  | x |  |  |  | Nachname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Nachnamen |  | 22      x        Titel des Versicherten  1..20 |
 | 0..1 | Dieses Feld enthält den akademischen |  | 23 |  |  | x |  |  |  | Namenszusatz des Versicherten | 1..20 |
-| 0..1 | als Bestandteil des Nachnamens, z.B. |  | 24 |  |  | x |  |  |  | Vorsatzwort des Versicherten | 1..20 |
-| 0..1  Dieses Feld enthält das Vorsatzwort als | 25 | x |  |  | Geburtsdatum des Versicherten  oder | 1..1  des Versicherten. | dieses Feld ein Datum enthält, | **27** |  | **x** |  |
-|  |  |  | **Straßenadresse des Versicher-** |  | **0..1** | **Dieser Block enthält Informationen zur** | **WENN** | **ANSONSTEN ** 28 |  | x |  |
+| 0..1 | Dieses Feld enthält den Namenszusatz |  | 24 |  |  | x |  |  |  | Vorsatzwort des Versicherten | 1..20 |
+| 0..1  Dieses Feld enthält das Vorsatzwort als | 25 | x |  |  | Geburtsdatum des Versicherten  4..10 | 1..1  Dieses Feld enthält das Geburtsdatum | WENN | **27** |  | **x** |  |
+|  |  |  | **Straßenadresse des Versicher-** |  | **0..1** | **Straßenadresse des Versicherten.** | **der Block "Postfachanschrift des Versicherten"** | **ANSONSTEN ** 28 |  | x |  |
 | Wohnsitzländercode der Versi- Kodiert | 1..3  0..1 | Dieses Feld enthält den Wohnsitzlän- |  |  |  |  |  |  |  |  |  |
-| 20 |  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Versicherten; mehrere Vornamen sind |  |
-| 21 |  |  | x |  |  |  | Nachname des Versicherten | 1..45 | 1..1 | des Versicherten. |  |
+| 20 |  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Vornamen des |  |
+| 21 |  |  | x |  |  |  | Nachname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Nachnamen |  |
 | 22 |  |  | x |  |  |  | Titel des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den akademischen | 23 |
-| x |  |  | Namenszusatz des Versicherten | 1..20 | 0..1 | als Bestandteil des Nachnamens, z.B. | 24 |  | x |  | Vorsatzwort des Versicherten  1..20  0..1  Dieses Feld enthält das Vorsatzwort als    25    x |
-| 20 |  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Versicherten; mehrere Vornamen sind | 21 |
-|  | x |  |  |  | Nachname des Versicherten | 1..45 | 1..1 | des Versicherten. |  | 22 | x |
+| x |  |  | Namenszusatz des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den Namenszusatz | 24 |  | x |  | Vorsatzwort des Versicherten  1..20  0..1  Dieses Feld enthält das Vorsatzwort als    25    x |
+| 20 |  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Vornamen des | 21 |
+|  | x |  |  |  | Nachname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Nachnamen |  | 22 | x |
 |  |  |  | Titel des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den akademischen |  | 23 |  |  | x |
-|  |  |  | Namenszusatz des Versicherten | 1..20 | 0..1 | als Bestandteil des Nachnamens, z.B. |  | 24 |  |  | x |
-| 20 | x |  | Vorname des Versicherten | 1..45  1..1 | Versicherten; mehrere Vornamen sind | 21 | x |  | Nachname des Versicherten | 1..45  1..1 | des Versicherten. |
+|  |  |  | Namenszusatz des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den Namenszusatz |  | 24 |  |  | x |
+| 20 | x |  | Vorname des Versicherten | 1..45  1..1 | Dieses Feld enthält den Vornamen des | 21 | x |  | Nachname des Versicherten | 1..45  1..1 | Dieses Feld enthält den Nachnamen |
 | 22 |  |  | x |  |  |  | Titel des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den akademischen |  |
-| 23 |  |  | x |  |  |  | Namenszusatz des Versicherten | 1..20 | 0..1 | als Bestandteil des Nachnamens, z.B. |  |
+| 23 |  |  | x |  |  |  | Namenszusatz des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den Namenszusatz |  |
 | 24 |  |  | x |  |  |  | Vorsatzwort des Versicherten | 1..20 | 0..1 | Dieses Feld enthält das Vorsatzwort als |  |
-| 25 |  | x |  |  |  |  | Geburtsdatum des Versicherten | oder | 1..1 | des Versicherten. | dieses Feld ein Datum enthält, |
+| 25 |  | x |  |  |  |  | Geburtsdatum des Versicherten | 4..10 | 1..1 | Dieses Feld enthält das Geburtsdatum | WENN |
 |  | **27** |  |  |  | **x** |  |  |  |  |  |  |
-| 20 | x |  | Vorname des Versicherten | 1..45  1..1 | Versicherten; mehrere Vornamen sind | 21 | x |  | Nachname des Versicherten | 1..45  1..1  des Versicherten. | 22      x        Titel des Versicherten  1..20  0..1  Dieses Feld enthält den akademischen |
-| 23 | x |  | Namenszusatz des Versicherten | 1..20  0..1 | als Bestandteil des Nachnamens, z.B. | 24 | x |  | Vorsatzwort des Versicherten | 1..20  0..1 | Dieses Feld enthält das Vorsatzwort als |
-| 25 |  | x |  |  |  |  | Geburtsdatum des Versicherten | oder | 1..1 | des Versicherten. | dieses Feld ein Datum enthält, |
+| 20 | x |  | Vorname des Versicherten | 1..45  1..1 | Dieses Feld enthält den Vornamen des | 21 | x |  | Nachname des Versicherten | 1..45  1..1  Dieses Feld enthält den Nachnamen | 22      x        Titel des Versicherten  1..20  0..1  Dieses Feld enthält den akademischen |
+| 23 | x |  | Namenszusatz des Versicherten | 1..20  0..1 | Dieses Feld enthält den Namenszusatz | 24 | x |  | Vorsatzwort des Versicherten | 1..20  0..1 | Dieses Feld enthält das Vorsatzwort als |
+| 25 |  | x |  |  |  |  | Geburtsdatum des Versicherten | 4..10 | 1..1 | Dieses Feld enthält das Geburtsdatum | WENN |
 |  | **27** |  |  |  | **x** |  |  |  |  |  |  |
-| 20 |  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Versicherten; mehrere Vornamen sind | 21 |
-| x |  |  | Nachname des Versicherten | 1..45 | 1..1 | des Versicherten. | 22 |  | x |  | Titel des Versicherten  1..20  0..1  Dieses Feld enthält den akademischen    23      x |
-|  |  |  | Namenszusatz des Versicherten | 1..20 | 0..1 | als Bestandteil des Nachnamens, z.B. |  | 24 |  |  | x |
-| 20 |  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Versicherten; mehrere Vornamen sind | 21 |
-|  |  | x |  |  |  | Nachname des Versicherten | 1..45 | 1..1 | des Versicherten. |  | 22 |
-|  | x |  | Titel des Versicherten  1..20 | 0..1  Dieses Feld enthält den akademischen | 23 |  | x |  | Namenszusatz des Versicherten  1..20 | 0..1  als Bestandteil des Nachnamens, z.B. | 24 |
+| 20 |  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Vornamen des | 21 |
+| x |  |  | Nachname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Nachnamen | 22 |  | x |  | Titel des Versicherten  1..20  0..1  Dieses Feld enthält den akademischen    23      x |
+|  |  |  | Namenszusatz des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den Namenszusatz |  | 24 |  |  | x |
+| 20 |  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Vornamen des | 21 |
+|  |  | x |  |  |  | Nachname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Nachnamen |  | 22 |
+|  | x |  | Titel des Versicherten  1..20 | 0..1  Dieses Feld enthält den akademischen | 23 |  | x |  | Namenszusatz des Versicherten  1..20 | 0..1  Dieses Feld enthält den Namenszusatz | 24 |
 |  |  | x |  |  |  | Vorsatzwort des Versicherten | 1..20 | 0..1 | Dieses Feld enthält das Vorsatzwort als |  | 25 |
-|  | x |  |  |  |  | Geburtsdatum des Versicherten | oder | 1..1 | des Versicherten. | dieses Feld ein Datum enthält, |  |
+|  | x |  |  |  |  | Geburtsdatum des Versicherten | 4..10 | 1..1 | Dieses Feld enthält das Geburtsdatum | WENN |  |
 | **27** |  |  |  | **x** |  |  |  |  |  |  |  |
-|  |  | **Straßenadresse des Versicher-** |  |  |  | **0..1** |  | **Dieser Block enthält Informationen zur** |  | **WENN** |  |
+|  |  | **Straßenadresse des Versicher-** |  |  |  | **0..1** |  | **Straßenadresse des Versicherten.** |  | **der Block "Postfachanschrift des Versicherten"** |  |
 | **ANSONSTEN** | 28 |  |  | x |  |  |  | Wohnsitzländercode der Versi- | Kodiert | 1..3 | 0..1 |
-| 20 | x |  | Vorname des Versicherten | 1..45  1..1 | Versicherten; mehrere Vornamen sind | 21 | x |  | Nachname des Versicherten | 1..45  1..1  des Versicherten. | 22 |
-| x |  |  | Titel des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den akademischen | 23 |  | x |  | Namenszusatz des Versicherten  1..20  0..1  als Bestandteil des Nachnamens, z.B. |
+| 20 | x |  | Vorname des Versicherten | 1..45  1..1 | Dieses Feld enthält den Vornamen des | 21 | x |  | Nachname des Versicherten | 1..45  1..1  Dieses Feld enthält den Nachnamen | 22 |
+| x |  |  | Titel des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den akademischen | 23 |  | x |  | Namenszusatz des Versicherten  1..20  0..1  Dieses Feld enthält den Namenszusatz |
 | 24 |  |  | x |  |  |  | Vorsatzwort des Versicherten | 1..20 | 0..1 | Dieses Feld enthält das Vorsatzwort als | 25 |
-| 20 |  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Versicherten; mehrere Vornamen sind | 21 |
-|  |  | x |  |  |  | Nachname des Versicherten | 1..45 | 1..1 | des Versicherten. |  | 22 |
+| 20 |  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Vornamen des | 21 |
+|  |  | x |  |  |  | Nachname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Nachnamen |  | 22 |
 |  | x |  |  |  | Titel des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den akademischen |  | 23 |  |
-| x |  |  |  | Namenszusatz des Versicherten | 1..20 | 0..1 | als Bestandteil des Nachnamens, z.B. |  | 24 |  |  |
+| x |  |  |  | Namenszusatz des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den Namenszusatz |  | 24 |  |  |
 | x |  |  |  | Vorsatzwort des Versicherten | 1..20 | 0..1 | Dieses Feld enthält das Vorsatzwort als |  | 25 |  | x |
-|  |  | Geburtsdatum des Versicherten  oder | 1..1  des Versicherten. | dieses Feld ein Datum enthält, | **27** |  | **x** |  |  |  |  |
-| 20 |  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Versicherten; mehrere Vornamen sind |  |
-| 21 |  |  | x |  |  |  | Nachname des Versicherten | 1..45 | 1..1 | des Versicherten. |  |
+|  |  | Geburtsdatum des Versicherten  4..10 | 1..1  Dieses Feld enthält das Geburtsdatum | WENN | **27** |  | **x** |  |  |  |  |
+| 20 |  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Vornamen des |  |
+| 21 |  |  | x |  |  |  | Nachname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Nachnamen |  |
 | 22 |  |  | x |  |  |  | Titel des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den akademischen |  |
-| 23 |  |  | x |  |  |  | Namenszusatz des Versicherten | 1..20 | 0..1 | als Bestandteil des Nachnamens, z.B. |  |
+| 23 |  |  | x |  |  |  | Namenszusatz des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den Namenszusatz |  |
 | 24 |  |  | x |  |  |  | Vorsatzwort des Versicherten | 1..20 | 0..1 | Dieses Feld enthält das Vorsatzwort als |  |
-| 25 |  | x |  |  |  |  | Geburtsdatum des Versicherten | oder | 1..1 | des Versicherten. | dieses Feld ein Datum enthält, |
-| **27** |  | **x** |  |  |  |  | **Straßenadresse des Versicher-** |  | **0..1** | **Dieser Block enthält Informationen zur** | **WENN** |
+| 25 |  | x |  |  |  |  | Geburtsdatum des Versicherten | 4..10 | 1..1 | Dieses Feld enthält das Geburtsdatum | WENN |
+| **27** |  | **x** |  |  |  |  | **Straßenadresse des Versicher-** |  | **0..1** | **Straßenadresse des Versicherten.** | **der Block "Postfachanschrift des Versicherten"** |
 |  | **ANSONSTEN** | 28 |  |  | x |  |  |  | Wohnsitzländercode der Versi- | Kodiert | 1..3 |
 | 0..1 | Dieses Feld enthält den Wohnsitzlän- |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -2532,11 +2530,11 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-| 20 |  | x |  |  | Vorname des Versicherten | 1..45 | 1..1  Versicherten; mehrere Vornamen sind |  | 21 | x |  |
-|  |  | Nachname des Versicherten | 1..45 | 1..1 | des Versicherten. |  | 22 |  |  | x |  |
+| 20 |  | x |  |  | Vorname des Versicherten | 1..45 | 1..1  Dieses Feld enthält den Vornamen des |  | 21 | x |  |
+|  |  | Nachname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Nachnamen |  | 22 |  |  | x |  |
 |  | Titel des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den akademischen |  | 23 |  |  | x |  |  |
 
-(GRAU = BLOCK) chertenanschrift 4..10 NULL DERH. Dieses Feld enthält den Vornamen des durch Blank oder Bindestrich getrennt. Dieses Feld enthält den Nachnamen Grad des Versicherten, z.B. „Dr. med.“, „Dr.rer.nat.“. Dieses Feld enthält den Namenszusatz „Freiherr“, „Gräfin“; mehrere Namens- zusätze sind durch Blank getrennt. „von“, „von der“, „zu“ ; mehrere Vor- satzwörter sind durch Blank getrennt. Dieses Feld enthält das Geburtsdatum Straßenadresse des Versicherten. dercode (entsprechend Gemeinsames Rundschreiben DEÜV Anlage 08). DANN darf dieses nicht nach dem Ausstellungsdatum liegen. der Block "Postfachanschrift des Versicherten" nicht angegeben ist, DANN muss dieser Block angegeben werden. darf dieser Block nicht angegeben werden.
+(GRAU = BLOCK) nicht angegeben ist, DANN muss dieser Block angegeben werden. chertenanschrift DERH. Versicherten; mehrere Vornamen sind durch Blank oder Bindestrich getrennt. Grad des Versicherten, z.B. „Dr. med.“, „Dr.rer.nat.“. als Bestandteil des Nachnamens, z.B. „Freiherr“, „Gräfin“; mehrere Namens- zusätze sind durch Blank getrennt. Bestandteil des Nachnamens, z.B. „von“, „von der“, „zu“ ; mehrere Vor- satzwörter sind durch Blank getrennt. oder dieses Feld ein Datum enthält, NULL DANN darf dieses nicht nach dem Ausstellungsdatum liegen. Dieser Block enthält Informationen zur darf dieser Block nicht angegeben werden. dercode (entsprechend Gemeinsames Rundschreiben DEÜV Anlage 08).
 
 ---
 
@@ -2559,98 +2557,98 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 \| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
 | **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|  | x |  | Postleitzahl der Versichertenan- 1..10 | 0..1  Dieses Feld enthält die Postleitzahl. | WENN | das Feld "Kostenträgertyp" gleich "GKV" | ANSONSTEN WENN | ANSONSTEN | 30 |  | x |
+|  | x |  | Postleitzahl der Versichertenan- 1..10 | 0..1  Dieses Feld enthält die Postleitzahl. | WENN |  | ANSONSTEN WENN | ANSONSTEN | 30 |  | x |
 |  |  | Ortsname der Versichertenan- | 1..40 | 0..1 | Dieses Feld enthält den Ortsnamen. |  | 31 |  |  | x |  |
 |  |  | Straßenname der Versicherten- | 1..46 | 0..1 | Dieses Feld enthält den Straßennamen. |  | 32 |  |  | x |  |
 |  |  | Hausnummer der Versicherten- | 1..9 | 0..1 | Dieses Feld enthält die Hausnummer. |  | 33 |  |  | x | Anschriftenzusatz der Versicher- |
 | 29 |  |  | x |  |  |  | Postleitzahl der Versichertenan- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl.  WENN |  |
-| das Feld "Kostenträgertyp" gleich "GKV" | ANSONSTEN WENN | ANSONSTEN | 30 |  | x |  | Ortsname der Versichertenan- 1..40 | 0..1  Dieses Feld enthält den Ortsnamen. | 31 |  | x |
+|  | ANSONSTEN WENN | ANSONSTEN | 30 |  | x |  | Ortsname der Versichertenan- 1..40 | 0..1  Dieses Feld enthält den Ortsnamen. | 31 |  | x |
 |  |  | Straßenname der Versicherten- | 1..46 | 0..1 | Dieses Feld enthält den Straßennamen. |  | 32 |  |  | x | Hausnummer der Versicherten- 1..9  0..1  Dieses Feld enthält die Hausnummer. |
 | 33 | x |  | Anschriftenzusatz der Versicher- | 1..40  0..1 | Dieses Feld enthält den Anschriftenzu- | **34** |  | **x** |  |  |  |
-|  |  |  | **Postfachanschrift des Versi-** |  |  |  | **0..1** |  | **Dieser Block enthält Informationen zur** | **WENN** | **ANSONSTEN** |
-| 29 |  |  | x |  |  |  | Postleitzahl der Versichertenan- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN  das Feld "Kostenträgertyp" gleich "GKV"    ANSONSTEN WENN |
+|  |  |  | **Postfachanschrift des Versi-** |  |  |  | **0..1** |  | **Postfachanschrift des Versicherten.** | **der Block "Straßenadresse des Versicherten"** | **ANSONSTEN** |
+| 29 |  |  | x |  |  |  | Postleitzahl der Versichertenan- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN      ANSONSTEN WENN |
 |  | ANSONSTEN |  | 30 |  |  | x |  |  |  | Ortsname der Versichertenan- | 1..40 |
 | 0..1 | Dieses Feld enthält den Ortsnamen. |  | 31 |  |  | x |  |  |  | Straßenname der Versicherten- | 1..46  0..1  Dieses Feld enthält den Straßennamen. |
 | 32 |  | x |  | Hausnummer der Versicherten- 1..9 | 0..1  Dieses Feld enthält die Hausnummer. | 33 |  | x |  | Anschriftenzusatz der Versicher- 1..40 | 0..1  Dieses Feld enthält den Anschriftenzu- |
 |  |  | **34** |  |  |  | **x** |  |  |  |  | **Postfachanschrift des Versi-** |
-| 29 |  |  | x |  |  |  | Postleitzahl der Versichertenan- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN  das Feld "Kostenträgertyp" gleich "GKV"    ANSONSTEN WENN |
+| 29 |  |  | x |  |  |  | Postleitzahl der Versichertenan- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN      ANSONSTEN WENN |
 | ANSONSTEN |  | 30 |  |  | x |  |  |  | Ortsname der Versichertenan- | 1..40 | 0..1  Dieses Feld enthält den Ortsnamen.    31 |
 | x |  | Straßenname der Versicherten- 1..46 | 0..1  Dieses Feld enthält den Straßennamen. | 32 |  | x |  | Hausnummer der Versicherten- 1..9 | 0..1  Dieses Feld enthält die Hausnummer. | 33 | x        Anschriftenzusatz der Versicher- 1..40  0..1  Dieses Feld enthält den Anschriftenzu- |
 | **34** |  |  |  | **x** |  |  |  |  |  |  |  |
-|  |  | **Postfachanschrift des Versi-** |  |  |  | **0..1** |  | **Dieser Block enthält Informationen zur** |  | **WENN** |  |
+|  |  | **Postfachanschrift des Versi-** |  |  |  | **0..1** |  | **Postfachanschrift des Versicherten.** |  | **der Block "Straßenadresse des Versicherten"** |  |
 | 29 |  |  | x |  |  |  | Postleitzahl der Versichertenan- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN |
-|  | das Feld "Kostenträgertyp" gleich "GKV" |  | ANSONSTEN WENN |  |  | ANSONSTEN |  | 30 |  |  | x |
+|  |  |  | ANSONSTEN WENN |  |  | ANSONSTEN |  | 30 |  |  | x |
 |  |  |  | Ortsname der Versichertenan- | 1..40 | 0..1 | Dieses Feld enthält den Ortsnamen. |  | 31 |  |  | x |
 |  | Straßenname der Versicherten- | 1..46  0..1 | Dieses Feld enthält den Straßennamen. | 32 | x |  | Hausnummer der Versicherten- | 1..9  0..1 | Dieses Feld enthält die Hausnummer. | 33 |  |
-| x |  | Anschriftenzusatz der Versicher- 1..40 | 0..1  Dieses Feld enthält den Anschriftenzu- |  | **34** |  | **x** |  |  |  | **Postfachanschrift des Versi-**   **0..1  Dieser Block enthält Informationen zur  WENN** |
+| x |  | Anschriftenzusatz der Versicher- 1..40 | 0..1  Dieses Feld enthält den Anschriftenzu- |  | **34** |  | **x** |  |  |  | **Postfachanschrift des Versi-**   **0..1  Postfachanschrift des Versicherten.  der Block "Straßenadresse des Versicherten"** |
 | **ANSONSTEN** |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 29 |  |  | x |  |  |  | Postleitzahl der Versichertenan- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN |
-|  | das Feld "Kostenträgertyp" gleich "GKV" |  | ANSONSTEN WENN |  |  | ANSONSTEN |  | 30 |  |  | x |
+|  |  |  | ANSONSTEN WENN |  |  | ANSONSTEN |  | 30 |  |  | x |
 |  |  |  | Ortsname der Versichertenan- | 1..40 | 0..1 | Dieses Feld enthält den Ortsnamen. |  | 31 |  |  | x |
 |  |  |  | Straßenname der Versicherten- | 1..46 | 0..1 | Dieses Feld enthält den Straßennamen. |  | 32 |  |  | x |
 |  |  |  | Hausnummer der Versicherten- | 1..9 | 0..1 | Dieses Feld enthält die Hausnummer. |  | 33 |  |  | x |
 |  |  |  | Anschriftenzusatz der Versicher- | 1..40 | 0..1 | Dieses Feld enthält den Anschriftenzu- |  |  | **34** |  |  |
-| **x** |  |  |  |  | **Postfachanschrift des Versi-** |  | **0..1** | **Dieser Block enthält Informationen zur** | **WENN** | **ANSONSTEN** |  |
+| **x** |  |  |  |  | **Postfachanschrift des Versi-** |  | **0..1** | **Postfachanschrift des Versicherten.** | **der Block "Straßenadresse des Versicherten"** | **ANSONSTEN** |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-| 29 |  |  | x |  |  |  | Postleitzahl der Versichertenan- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN  das Feld "Kostenträgertyp" gleich "GKV"    ANSONSTEN WENN      ANSONSTEN |
+| 29 |  |  | x |  |  |  | Postleitzahl der Versichertenan- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN      ANSONSTEN WENN      ANSONSTEN |
 | 30 |  |  | x |  |  |  | Ortsname der Versichertenan- | 1..40 | 0..1 | Dieses Feld enthält den Ortsnamen. |  |
 | 31 |  |  | x |  |  |  | Straßenname der Versicherten- | 1..46 | 0..1 | Dieses Feld enthält den Straßennamen. |  |
 | 32 |  |  | x |  |  |  | Hausnummer der Versicherten- | 1..9 | 0..1 | Dieses Feld enthält die Hausnummer. |  |
 | 33 |  |  | x |  |  |  | Anschriftenzusatz der Versicher- | 1..40 | 0..1 | Dieses Feld enthält den Anschriftenzu- |  |
-| **34** |  | **x** |  |  |  |  | **Postfachanschrift des Versi-** |  | **0..1** | **Dieser Block enthält Informationen zur** | **WENN  ANSONSTEN** |
+| **34** |  | **x** |  |  |  |  | **Postfachanschrift des Versi-** |  | **0..1** | **Postfachanschrift des Versicherten.** | **der Block "Straßenadresse des Versicherten"  ANSONSTEN** |
 | 29 |  |  | x |  |  |  | Postleitzahl der Versichertenan- | 1..10  0..1 | Dieses Feld enthält die Postleitzahl. | WENN |  |
-| das Feld "Kostenträgertyp" gleich "GKV" |  | ANSONSTEN WENN |  |  | ANSONSTEN |  | 30 |  |  | x | Ortsname der Versichertenan- 1..40  0..1  Dieses Feld enthält den Ortsnamen.    31 |
+|  |  | ANSONSTEN WENN |  |  | ANSONSTEN |  | 30 |  |  | x | Ortsname der Versichertenan- 1..40  0..1  Dieses Feld enthält den Ortsnamen.    31 |
 |  |  | x |  |  |  | Straßenname der Versicherten- | 1..46 | 0..1 | Dieses Feld enthält den Straßennamen. |  | 32 |
 |  |  | x |  |  |  | Hausnummer der Versicherten- | 1..9 | 0..1 | Dieses Feld enthält die Hausnummer. |  | 33 |
 |  | x |  | Anschriftenzusatz der Versicher- 1..40 | 0..1  Dieses Feld enthält den Anschriftenzu- |  | **34** |  | **x** |  |  |  |
-|  | **Postfachanschrift des Versi-** |  | **0..1** | **Dieser Block enthält Informationen zur** | **WENN** | **ANSONSTEN** |  |  |  |  |  |
+|  | **Postfachanschrift des Versi-** |  | **0..1** | **Postfachanschrift des Versicherten.** | **der Block "Straßenadresse des Versicherten"** | **ANSONSTEN** |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 29 |  |  | x |  |  |  | Postleitzahl der Versichertenan- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN |
-|  | das Feld "Kostenträgertyp" gleich "GKV" |  | ANSONSTEN WENN |  |  | ANSONSTEN |  | 30 |  |  | x |
+|  |  |  | ANSONSTEN WENN |  |  | ANSONSTEN |  | 30 |  |  | x |
 |  |  |  | Ortsname der Versichertenan- | 1..40 | 0..1 | Dieses Feld enthält den Ortsnamen. |  | 31 |  |  | x |
 | Straßenname der Versicherten- | 1..46 | 0..1 | Dieses Feld enthält den Straßennamen. | 32 |  |  | x |  | Hausnummer der Versicherten- | 1..9  0..1 | Dieses Feld enthält die Hausnummer.    33      x        Anschriftenzusatz der Versicher- |
-| 29 |  |  | x |  |  |  | Postleitzahl der Versichertenan- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN  das Feld "Kostenträgertyp" gleich "GKV" |
+| 29 |  |  | x |  |  |  | Postleitzahl der Versichertenan- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN |
 |  | ANSONSTEN WENN |  |  | ANSONSTEN |  | 30 |  |  | x |  | Ortsname der Versichertenan- |
 | 1..40 | 0..1 | Dieses Feld enthält den Ortsnamen. |  | 31 |  |  | x |  |  |  | Straßenname der Versicherten- |
 | 1..46 | 0..1 | Dieses Feld enthält den Straßennamen. |  | 32 |  |  | x |  |  |  | Hausnummer der Versicherten- 1..9 |
-| 29 | x |  | Postleitzahl der Versichertenan- | 1..10  0..1 | Dieses Feld enthält die Postleitzahl.  WENN | das Feld "Kostenträgertyp" gleich "GKV" | ANSONSTEN WENN |  | ANSONSTEN | 30 | x |
+| 29 | x |  | Postleitzahl der Versichertenan- | 1..10  0..1 | Dieses Feld enthält die Postleitzahl.  WENN |  | ANSONSTEN WENN |  | ANSONSTEN | 30 | x |
 |  |  |  | Ortsname der Versichertenan- | 1..40 | 0..1 | Dieses Feld enthält den Ortsnamen. |  | 31 |  |  | x |
 |  |  |  | Straßenname der Versicherten- | 1..46 | 0..1 | Dieses Feld enthält den Straßennamen. |  | 32 |  |  | x |
 |  |  |  | Hausnummer der Versicherten- | 1..9 | 0..1 | Dieses Feld enthält die Hausnummer. |  | 33 |  |  | x |
 |  |  |  | Anschriftenzusatz der Versicher- | 1..40 | 0..1 | Dieses Feld enthält den Anschriftenzu- |  |  | **34** |  |  |
 |  | **x** |  |  |  |  |  |  |  |  |  | **Postfachanschrift des Versi-** |
-| 29 | x |  | Postleitzahl der Versichertenan- | 1..10  0..1 | Dieses Feld enthält die Postleitzahl.  WENN | das Feld "Kostenträgertyp" gleich "GKV" | ANSONSTEN WENN |  | ANSONSTEN | 30      x | Ortsname der Versichertenan- 1..40  0..1  Dieses Feld enthält den Ortsnamen.    31      x |
+| 29 | x |  | Postleitzahl der Versichertenan- | 1..10  0..1 | Dieses Feld enthält die Postleitzahl.  WENN |  | ANSONSTEN WENN |  | ANSONSTEN | 30      x | Ortsname der Versichertenan- 1..40  0..1  Dieses Feld enthält den Ortsnamen.    31      x |
 |  | Straßenname der Versicherten- | 1..46  0..1 | Dieses Feld enthält den Straßennamen. | 32 | x |  | Hausnummer der Versicherten- | 1..9  0..1 | Dieses Feld enthält die Hausnummer. | 33 | x |
 |  |  |  | Anschriftenzusatz der Versicher- | 1..40 | 0..1 | Dieses Feld enthält den Anschriftenzu- |  |  | **34** |  |  |
 |  | **x** |  |  |  |  |  |  |  |  |  | **Postfachanschrift des Versi-** |
-| 29 |  |  | x |  |  |  | Postleitzahl der Versichertenan- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN  das Feld "Kostenträgertyp" gleich "GKV" |
+| 29 |  |  | x |  |  |  | Postleitzahl der Versichertenan- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN |
 | ANSONSTEN WENN |  |  | ANSONSTEN | 30 |  |  | x |  | Ortsname der Versichertenan- | 1..40  0..1 | Dieses Feld enthält den Ortsnamen.    31      x        Straßenname der Versicherten- |
 | 1..46 | 0..1 | Dieses Feld enthält den Straßennamen. |  | 32 |  |  | x |  |  |  | Hausnummer der Versicherten- 1..9 |
 | 29 |  |  | x |  |  |  | Postleitzahl der Versichertenan- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN |
-| das Feld "Kostenträgertyp" gleich "GKV" |  | ANSONSTEN WENN |  |  | ANSONSTEN |  | 30 |  |  | x |  |
+|  |  | ANSONSTEN WENN |  |  | ANSONSTEN |  | 30 |  |  | x |  |
 |  | Ortsname der Versichertenan- 1..40 | 0..1  Dieses Feld enthält den Ortsnamen. | 31 |  | x |  | Straßenname der Versicherten- 1..46 | 0..1  Dieses Feld enthält den Straßennamen. | 32 |  | x |
 |  |  | Hausnummer der Versicherten- | 1..9 | 0..1 | Dieses Feld enthält die Hausnummer. |  | 33 |  |  | x |  |
 |  |  | Anschriftenzusatz der Versicher- | 1..40 | 0..1 | Dieses Feld enthält den Anschriftenzu- |  |  | **34** |  |  |  |
 | **x** |  |  |  |  |  |  |  |  |  | **Postfachanschrift des Versi-** |  |
-|  |  | **0..1** |  | **Dieser Block enthält Informationen zur** |  | **WENN** |  | **ANSONSTEN** |  |  |  |
+|  |  | **0..1** |  | **Postfachanschrift des Versicherten.** |  | **der Block "Straßenadresse des Versicherten"** |  | **ANSONSTEN** |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-| 29 | x |  | Postleitzahl der Versichertenan- | 1..10  0..1 | Dieses Feld enthält die Postleitzahl.  WENN | das Feld "Kostenträgertyp" gleich "GKV" | ANSONSTEN WENN |  | ANSONSTEN | 30      x |  |
+| 29 | x |  | Postleitzahl der Versichertenan- | 1..10  0..1 | Dieses Feld enthält die Postleitzahl.  WENN |  | ANSONSTEN WENN |  | ANSONSTEN | 30      x |  |
 | Ortsname der Versichertenan- | 1..40 | 0..1 | Dieses Feld enthält den Ortsnamen. | 31 |  |  | x |  | Straßenname der Versicherten- | 1..46  0..1 | Dieses Feld enthält den Straßennamen.    32      x |
 |  |  |  | Hausnummer der Versicherten- | 1..9 | 0..1 | Dieses Feld enthält die Hausnummer. |  | 33 |  |  | x |
 | 29 |  |  | x |  |  |  | Postleitzahl der Versichertenan- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN |
-| das Feld "Kostenträgertyp" gleich "GKV" |  | ANSONSTEN WENN |  |  | ANSONSTEN |  | 30 |  |  | x |  |
+|  |  | ANSONSTEN WENN |  |  | ANSONSTEN |  | 30 |  |  | x |  |
 |  | Ortsname der Versichertenan- | 1..40 | 0..1 | Dieses Feld enthält den Ortsnamen. |  | 31 |  |  | x |  |  |
 | Straßenname der Versicherten- | 1..46 | 0..1 | Dieses Feld enthält den Straßennamen. |  | 32 |  |  | x |  |  |  |
 | Hausnummer der Versicherten- | 1..9 | 0..1 | Dieses Feld enthält die Hausnummer. |  | 33 |  |  | x |  |  |  |
 | Anschriftenzusatz der Versicher- 1..40 | 0..1  Dieses Feld enthält den Anschriftenzu- |  | **34** |  | **x** |  |  |  |  | **Postfachanschrift des Versi-** |  |
 | 29 |  |  | x |  |  |  | Postleitzahl der Versichertenan- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN |
-|  | das Feld "Kostenträgertyp" gleich "GKV" |  | ANSONSTEN WENN |  |  | ANSONSTEN |  | 30 |  |  | x |
+|  |  |  | ANSONSTEN WENN |  |  | ANSONSTEN |  | 30 |  |  | x |
 |  |  |  | Ortsname der Versichertenan- | 1..40 | 0..1 | Dieses Feld enthält den Ortsnamen. |  | 31 |  |  | x |
 |  |  |  | Straßenname der Versicherten- | 1..46 | 0..1 | Dieses Feld enthält den Straßennamen. |  | 32 |  |  | x |
 |  |  |  | Hausnummer der Versicherten- | 1..9 | 0..1 | Dieses Feld enthält die Hausnummer. |  | 33 |  |  | x |
 |  |  |  | Anschriftenzusatz der Versicher- | 1..40 | 0..1 | Dieses Feld enthält den Anschriftenzu- |  |  | **34** |  |  |
-| **x** |  |  |  |  | **Postfachanschrift des Versi-** |  | **0..1** | **Dieser Block enthält Informationen zur** | **WENN** | **ANSONSTEN** |  |
+| **x** |  |  |  |  | **Postfachanschrift des Versi-** |  | **0..1** | **Postfachanschrift des Versicherten.** | **der Block "Straßenadresse des Versicherten"** | **ANSONSTEN** |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -2658,11 +2656,11 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-| 29 |  | x |  |  | Postleitzahl der Versichertenan- | 1..10 | 0..1  Dieses Feld enthält die Postleitzahl. | WENN | das Feld "Kostenträgertyp" gleich "GKV" | ANSONSTEN WENN |  |
+| 29 |  | x |  |  | Postleitzahl der Versichertenan- | 1..10 | 0..1  Dieses Feld enthält die Postleitzahl. | WENN |  | ANSONSTEN WENN |  |
 |  | ANSONSTEN |  | 30 |  |  | x |  |  |  | Ortsname der Versichertenan- 1..40 | 0..1 |
 | Dieses Feld enthält den Ortsnamen. |  | 31 |  |  | x |  |  |  | Straßenname der Versicherten- | 1..46  0..1 | Dieses Feld enthält den Straßennamen. |
 
-(GRAU = BLOCK) tenanschrift DERH. Mehrere Namensbestandteile sind durch Blank/Sonderzeichen getrennt. satz, z.B. Hinterhaus. Postfachanschrift des Versicherten. der Versicherte sich nicht elektronisch ausgewiesen hat und oder „SKT“ oder "BG" oder "UK" ist, DANN ist dieses Feld Pflicht. der Versicherte sich nicht elektronisch ausgewiesen hat und das Feld „Wohnsitzländercode der Versi- chertenanschrift“ gleich „D“ und das Feld "Kosten- trägertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist, DANN ist dieses Feld Pflicht.  ist dieses Feld optional. der Block "Straßenadresse des Versicherten" nicht angegeben ist, DANN muss dieser Block angegeben werden. darf dieser Block nicht angegeben werden.
+(GRAU = BLOCK) tenanschrift nicht angegeben ist, DANN muss dieser Block angegeben werden. DERH. Mehrere Namensbestandteile sind durch Blank/Sonderzeichen getrennt. satz, z.B. Hinterhaus. Dieser Block enthält Informationen zur der Versicherte sich nicht elektronisch ausgewiesen hat und das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist, DANN ist dieses Feld Pflicht. der Versicherte sich nicht elektronisch ausgewiesen hat und das Feld „Wohnsitzländercode der Versi- chertenanschrift“ gleich „D“ und das Feld "Kosten- trägertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist, DANN ist dieses Feld Pflicht.  ist dieses Feld optional. darf dieser Block nicht angegeben werden.
 
 ---
 
@@ -2685,110 +2683,110 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 \| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
 | **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|  | x |  | Wohnsitzländercode der Versi- Kodiert | 1..3  0..1 | Rundschreiben DEÜV Anlage 08). | 36 | x |  | Postleitzahl der Versicherten- | 1..10  0..1 | Dieses Feld enthält die Postleitzahl.  WENN |
-|  | hat und |  | ANSONSTEN WENN |  |  | ANSONSTEN |  | 37 |  |  | x |
+|  | x |  | Wohnsitzländercode der Versi- Kodiert | 1..3  0..1 | Dieses Feld enthält den Wohnsitzlän- | 36 | x |  | Postleitzahl der Versicherten- | 1..10  0..1 | Dieses Feld enthält die Postleitzahl.  WENN |
+|  |  |  | ANSONSTEN WENN |  |  | ANSONSTEN |  | 37 |  |  | x |
 |  |  |  | Ortsname der Versicherten- | 1..40 | 0..1 | Dieses Feld enthält den Ortsnamen. |  | 38 |  |  | x |
 |  |  |  | Postfach der Versicherten-Post- | 1..8 | 0..1 | Dieses Feld enthält das Postfach. |  |  | **39** | **x** |  |
-| 35 |  |  | x |  |  |  | Wohnsitzländercode der Versi- | Kodiert | 1..3 | 0..1  Rundschreiben DEÜV Anlage 08). |  |
-| 36 | x |  | Postleitzahl der Versicherten- | 1..10  0..1 | Dieses Feld enthält die Postleitzahl.  WENN | hat und | ANSONSTEN WENN |  | ANSONSTEN | 37 | x |
+| 35 |  |  | x |  |  |  | Wohnsitzländercode der Versi- | Kodiert | 1..3 | 0..1  Dieses Feld enthält den Wohnsitzlän- |  |
+| 36 | x |  | Postleitzahl der Versicherten- | 1..10  0..1 | Dieses Feld enthält die Postleitzahl.  WENN |  | ANSONSTEN WENN |  | ANSONSTEN | 37 | x |
 |  |  |  | Ortsname der Versicherten- | 1..40 | 0..1 | Dieses Feld enthält den Ortsnamen. |  | 38 |  |  | x        Postfach der Versicherten-Post- 1..8  0..1  Dieses Feld enthält das Postfach. |
 |  | **39** | **x** |  |  |  |  |  | **Stempelinformationen** |  | **1..1** | **Die Angaben in diesem Block entspre-** |
 |  |  | **40** |  |  |  | **x** |  |  |  |  | **Ausstellende/ verschreibende** |
-| 35 |  |  | x |  |  |  | Wohnsitzländercode der Versi- | Kodiert | 1..3 | 0..1 | Rundschreiben DEÜV Anlage 08).    36      x |
-|  |  |  | Postleitzahl der Versicherten- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN |  | hat und |  | ANSONSTEN WENN |
+| 35 |  |  | x |  |  |  | Wohnsitzländercode der Versi- | Kodiert | 1..3 | 0..1 | Dieses Feld enthält den Wohnsitzlän-   36      x |
+|  |  |  | Postleitzahl der Versicherten- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN |  |  |  | ANSONSTEN WENN |
 |  |  | ANSONSTEN |  | 37 |  |  | x |  |  |  | Ortsname der Versicherten- 1..40  0..1 |
 | Dieses Feld enthält den Ortsnamen. | 38 | x |  | Postfach der Versicherten-Post- | 1..8  0..1 | Dieses Feld enthält das Postfach. | **39** | **x** |  |  |  |
 |  |  |  |  |  | **Stempelinformationen** |  |  |  | **1..1** |  | **Die Angaben in diesem Block entspre-**   **40** |
-| 35 |  |  | x |  |  |  | Wohnsitzländercode der Versi- | Kodiert | 1..3 | 0..1 | Rundschreiben DEÜV Anlage 08).    36      x |
-|  |  | Postleitzahl der Versicherten- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN |  | hat und |  | ANSONSTEN WENN | ANSONSTEN    37 |
+| 35 |  |  | x |  |  |  | Wohnsitzländercode der Versi- | Kodiert | 1..3 | 0..1 | Dieses Feld enthält den Wohnsitzlän-   36      x |
+|  |  | Postleitzahl der Versicherten- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN |  |  |  | ANSONSTEN WENN | ANSONSTEN    37 |
 | x |  | Ortsname der Versicherten- | 1..40  0..1 | Dieses Feld enthält den Ortsnamen. | 38 | x |  | Postfach der Versicherten-Post- | 1..8  0..1 | Dieses Feld enthält das Postfach. | **39  x ** |
 |  |  |  | **Stempelinformationen** |  |  |  | **1..1** |  | **Die Angaben in diesem Block entspre-** |  |  |
 |  | **40** |  |  |  | **x** |  |  |  |  |  |  |
-| 35 |  |  | x |  |  |  | Wohnsitzländercode der Versi- | Kodiert | 1..3 | 0..1 | Rundschreiben DEÜV Anlage 08). |
+| 35 |  |  | x |  |  |  | Wohnsitzländercode der Versi- | Kodiert | 1..3 | 0..1 | Dieses Feld enthält den Wohnsitzlän- |
 |  | 36 |  |  | x |  |  |  | Postleitzahl der Versicherten- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. |
-| WENN |  | hat und |  | ANSONSTEN WENN |  |  | ANSONSTEN |  | 37 |  |  |
+| WENN |  |  |  | ANSONSTEN WENN |  |  | ANSONSTEN |  | 37 |  |  |
 | x |  | Ortsname der Versicherten- 1..40 | 0..1  Dieses Feld enthält den Ortsnamen. | 38 |  | x |  | Postfach der Versicherten-Post- 1..8 | 0..1  Dieses Feld enthält das Postfach. |  | **39** |
 | **x** |  |  |  |  |  | **Stempelinformationen** |  | **1..1** | **Die Angaben in diesem Block entspre-** |  | **40 **   **x ** |
-|  |  |  | **Ausstellende/ verschreibende** |  |  |  | **1..1** |  | **Dieser Block enthält die Daten der** |  |  |
-| **146** |  |  | **x** |  |  |  | **Qualifikation der ausstellen-** |  | **1..1** | **Dieser Block enthält Informationen** |  |
-| 35 |  |  | x |  |  |  | Wohnsitzländercode der Versi- | Kodiert | 1..3 | 0..1 | Rundschreiben DEÜV Anlage 08). |
+|  |  |  | **Ausstellende/ verschreibende** |  |  |  | **1..1** |  | **ausstellenden/ verschreibenden Per-** |  |  |
+| **146** |  |  | **x** |  |  |  | **Qualifikation der ausstellen-** |  | **1..1** | **über die Qualifikation der ausstellen-** |  |
+| 35 |  |  | x |  |  |  | Wohnsitzländercode der Versi- | Kodiert | 1..3 | 0..1 | Dieses Feld enthält den Wohnsitzlän- |
 |  | 36 |  |  | x |  |  |  | Postleitzahl der Versicherten- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. |
-| WENN |  | hat und |  | ANSONSTEN WENN |  |  | ANSONSTEN |  | 37 |  |  |
+| WENN |  |  |  | ANSONSTEN WENN |  |  | ANSONSTEN |  | 37 |  |  |
 | x |  |  |  | Ortsname der Versicherten- | 1..40 | 0..1 | Dieses Feld enthält den Ortsnamen. |  | 38 |  |  |
 | x |  |  |  | Postfach der Versicherten-Post- | 1..8 | 0..1 | Dieses Feld enthält das Postfach. |  |  | **39** |  |
 | **x** |  |  |  |  |  |  |  |  |  |  |  |
 | **Stempelinformationen** |  | **1..1** | **Die Angaben in diesem Block entspre-** |  | **40** |  | **x** |  |  |  | **Ausstellende/ verschreibende** |
-|  |  | **1..1** |  | **Dieser Block enthält die Daten der** |  |  |  | **146** |  |  |  |
-| 35 |  |  | x |  |  |  | Wohnsitzländercode der Versi- | Kodiert | 1..3 | 0..1 | Rundschreiben DEÜV Anlage 08).    36      x |
-| Postleitzahl der Versicherten- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN |  | hat und |  | ANSONSTEN WENN |  |  | ANSONSTEN |
+|  |  | **1..1** |  | **ausstellenden/ verschreibenden Per-** |  |  |  | **146** |  |  |  |
+| 35 |  |  | x |  |  |  | Wohnsitzländercode der Versi- | Kodiert | 1..3 | 0..1 | Dieses Feld enthält den Wohnsitzlän-   36      x |
+| Postleitzahl der Versicherten- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN |  |  |  | ANSONSTEN WENN |  |  | ANSONSTEN |
 |  | 37 |  |  | x |  |  |  | Ortsname der Versicherten- | 1..40 | 0..1 | Dieses Feld enthält den Ortsnamen. |
 |  | 38 |  |  | x |  |  |  | Postfach der Versicherten-Post- | 1..8 | 0..1 | Dieses Feld enthält das Postfach. |
 |  |  | **39** |  | **x** |  |  |  |  |  |  |  |
 |  |  | **Stempelinformationen** |  | **1..1** | **Die Angaben in diesem Block entspre-** |  | **40** |  | **x** |  |  |
-| 35 |  |  | x |  |  |  | Wohnsitzländercode der Versi- | Kodiert  1..3 | 0..1 | Rundschreiben DEÜV Anlage 08). |  |
-| 36 |  |  | x |  |  |  | Postleitzahl der Versicherten- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN  hat und    ANSONSTEN WENN      ANSONSTEN |
+| 35 |  |  | x |  |  |  | Wohnsitzländercode der Versi- | Kodiert  1..3 | 0..1 | Dieses Feld enthält den Wohnsitzlän- |  |
+| 36 |  |  | x |  |  |  | Postleitzahl der Versicherten- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN      ANSONSTEN WENN      ANSONSTEN |
 | 37 |  |  | x |  |  |  | Ortsname der Versicherten- | 1..40 | 0..1 | Dieses Feld enthält den Ortsnamen. |  |
 | 38 |  |  | x |  |  |  | Postfach der Versicherten-Post- | 1..8 | 0..1 | Dieses Feld enthält das Postfach. |  |
 | **39** | **x** |  |  |  |  |  | **Stempelinformationen** |  | **1..1** | **Die Angaben in diesem Block entspre-** |  |
-| **40** |  | **x** |  |  |  |  | **Ausstellende/ verschreibende** |  | **1..1** | **Dieser Block enthält die Daten der** |  |
-| **146** |  |  | **x** |  |  |  | **Qualifikation der ausstellen-** |  | **1..1** | **Dieser Block enthält Informationen** |  |
-| 35 |  |  | x |  |  |  | Wohnsitzländercode der Versi- | Kodiert | 1..3 | 0..1 | Rundschreiben DEÜV Anlage 08). |
+| **40** |  | **x** |  |  |  |  | **Ausstellende/ verschreibende** |  | **1..1** | **ausstellenden/ verschreibenden Per-** |  |
+| **146** |  |  | **x** |  |  |  | **Qualifikation der ausstellen-** |  | **1..1** | **über die Qualifikation der ausstellen-** |  |
+| 35 |  |  | x |  |  |  | Wohnsitzländercode der Versi- | Kodiert | 1..3 | 0..1 | Dieses Feld enthält den Wohnsitzlän- |
 |  | 36 |  |  | x |  |  |  | Postleitzahl der Versicherten- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. |
-| WENN |  | hat und |  | ANSONSTEN WENN |  |  | ANSONSTEN |  | 37 |  | x |
+| WENN |  |  |  | ANSONSTEN WENN |  |  | ANSONSTEN |  | 37 |  | x |
 |  | Ortsname der Versicherten- | 1..40 | 0..1  Dieses Feld enthält den Ortsnamen. |  | 38 |  | x |  |  | Postfach der Versicherten-Post- 1..8 | 0..1  Dieses Feld enthält das Postfach.   **39  x ** |
-| 35 |  |  | x |  |  |  | Wohnsitzländercode der Versi- | Kodiert | 1..3 | 0..1 | Rundschreiben DEÜV Anlage 08).    36 |
-|  |  | x |  |  |  | Postleitzahl der Versicherten- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN | hat und |
+| 35 |  |  | x |  |  |  | Wohnsitzländercode der Versi- | Kodiert | 1..3 | 0..1 | Dieses Feld enthält den Wohnsitzlän-   36 |
+|  |  | x |  |  |  | Postleitzahl der Versicherten- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN |  |
 | ANSONSTEN WENN |  |  | ANSONSTEN |  | 37 |  |  | x |  |  |  |
 | Ortsname der Versicherten- | 1..40 | 0..1 | Dieses Feld enthält den Ortsnamen. |  | 38 |  |  | x |  |  | Postfach der Versicherten-Post- |
-| 35 | x |  | Wohnsitzländercode der Versi- | Kodiert  1..3 | 0..1  Rundschreiben DEÜV Anlage 08). | 36 |  | x |  | Postleitzahl der Versicherten- 1..10 | 0..1  Dieses Feld enthält die Postleitzahl. |
-| WENN |  | hat und |  | ANSONSTEN WENN |  |  | ANSONSTEN |  | 37 |  |  |
+| 35 | x |  | Wohnsitzländercode der Versi- | Kodiert  1..3 | 0..1  Dieses Feld enthält den Wohnsitzlän- | 36 |  | x |  | Postleitzahl der Versicherten- 1..10 | 0..1  Dieses Feld enthält die Postleitzahl. |
+| WENN |  |  |  | ANSONSTEN WENN |  |  | ANSONSTEN |  | 37 |  |  |
 | x |  |  |  | Ortsname der Versicherten- | 1..40 | 0..1 | Dieses Feld enthält den Ortsnamen. |  | 38 |  |  |
 | x |  |  |  | Postfach der Versicherten-Post- | 1..8 | 0..1 | Dieses Feld enthält das Postfach. |  |  | **39** |  |
 | **x** |  |  |  |  |  |  |  |  |  |  |  |
 | **Stempelinformationen** |  |  |  | **1..1** |  | **Die Angaben in diesem Block entspre-** |  |  |  | **40** |  |
-| 35 | x |  | Wohnsitzländercode der Versi- | Kodiert  1..3 | 0..1  Rundschreiben DEÜV Anlage 08). | 36 |  | x |  | Postleitzahl der Versicherten- 1..10  0..1  Dieses Feld enthält die Postleitzahl. | WENN  hat und    ANSONSTEN WENN      ANSONSTEN    37 |
+| 35 | x |  | Wohnsitzländercode der Versi- | Kodiert  1..3 | 0..1  Dieses Feld enthält den Wohnsitzlän- | 36 |  | x |  | Postleitzahl der Versicherten- 1..10  0..1  Dieses Feld enthält die Postleitzahl. | WENN      ANSONSTEN WENN      ANSONSTEN    37 |
 | x |  | Ortsname der Versicherten- 1..40 | 0..1  Dieses Feld enthält den Ortsnamen. | 38 |  | x |  | Postfach der Versicherten-Post- 1..8 | 0..1  Dieses Feld enthält das Postfach. |  | **39** |
 | **x** |  |  |  |  |  |  |  |  |  |  |  |
 | **Stempelinformationen** |  |  |  | **1..1** |  | **Die Angaben in diesem Block entspre-** |  |  |  | **40** |  |
-| 35 |  |  | x |  |  |  | Wohnsitzländercode der Versi- | Kodiert | 1..3 | 0..1 | Rundschreiben DEÜV Anlage 08).    36 |
-|  | x |  |  | Postleitzahl der Versicherten- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl.  WENN |  | hat und | ANSONSTEN WENN | ANSONSTEN    37      x |
+| 35 |  |  | x |  |  |  | Wohnsitzländercode der Versi- | Kodiert | 1..3 | 0..1 | Dieses Feld enthält den Wohnsitzlän-   36 |
+|  | x |  |  | Postleitzahl der Versicherten- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl.  WENN |  |  | ANSONSTEN WENN | ANSONSTEN    37      x |
 | Ortsname der Versicherten- | 1..40 | 0..1 | Dieses Feld enthält den Ortsnamen. |  | 38 |  |  | x |  |  | Postfach der Versicherten-Post- |
-| 35 |  |  | x |  |  |  | Wohnsitzländercode der Versi- | Kodiert | 1..3 | 0..1 | Rundschreiben DEÜV Anlage 08). |
+| 35 |  |  | x |  |  |  | Wohnsitzländercode der Versi- | Kodiert | 1..3 | 0..1 | Dieses Feld enthält den Wohnsitzlän- |
 | 36 |  |  | x |  |  |  | Postleitzahl der Versicherten- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN |
-| hat und | ANSONSTEN WENN |  | ANSONSTEN | 37 | x |  | Ortsname der Versicherten- | 1..40  0..1 | Dieses Feld enthält den Ortsnamen. | 38 | x |
+|  | ANSONSTEN WENN |  | ANSONSTEN | 37 | x |  | Ortsname der Versicherten- | 1..40  0..1 | Dieses Feld enthält den Ortsnamen. | 38 | x |
 |  |  |  | Postfach der Versicherten-Post- | 1..8 | 0..1 | Dieses Feld enthält das Postfach. |  |  | **39** |  | **x** |
 |  |  |  |  |  |  |  |  |  |  |  | **Stempelinformationen** |
 |  |  |  | **1..1** |  | **Die Angaben in diesem Block entspre-** |  |  |  | **40** |  |  |
 |  | **x** |  |  |  |  |  |  |  |  |  | **Ausstellende/ verschreibende** |
-|  |  |  | **1..1** |  | **Dieser Block enthält die Daten der** |  |  |  | **146** |  |  |
-| 35 | x |  | Wohnsitzländercode der Versi- | Kodiert  1..3 | 0..1  Rundschreiben DEÜV Anlage 08). | 36 |  | x |  | Postleitzahl der Versicherten- 1..10  0..1  Dieses Feld enthält die Postleitzahl. | WENN |
-| hat und | ANSONSTEN WENN |  | ANSONSTEN |  | 37 |  | x |  |  | Ortsname der Versicherten- 1..40 | 0..1  Dieses Feld enthält den Ortsnamen.    38 |
+|  |  |  | **1..1** |  | **ausstellenden/ verschreibenden Per-** |  |  |  | **146** |  |  |
+| 35 | x |  | Wohnsitzländercode der Versi- | Kodiert  1..3 | 0..1  Dieses Feld enthält den Wohnsitzlän- | 36 |  | x |  | Postleitzahl der Versicherten- 1..10  0..1  Dieses Feld enthält die Postleitzahl. | WENN |
+|  | ANSONSTEN WENN |  | ANSONSTEN |  | 37 |  | x |  |  | Ortsname der Versicherten- 1..40 | 0..1  Dieses Feld enthält den Ortsnamen.    38 |
 | x |  |  |  | Postfach der Versicherten-Post- | 1..8 | 0..1 | Dieses Feld enthält das Postfach. |  |  | **39** | **x** |
-| 35 |  |  | x |  |  |  | Wohnsitzländercode der Versi- | Kodiert | 1..3 | 0..1 | Rundschreiben DEÜV Anlage 08). |
+| 35 |  |  | x |  |  |  | Wohnsitzländercode der Versi- | Kodiert | 1..3 | 0..1 | Dieses Feld enthält den Wohnsitzlän- |
 | 36 |  |  | x |  |  |  | Postleitzahl der Versicherten- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN |
-| hat und |  | ANSONSTEN WENN |  |  | ANSONSTEN |  | 37 |  |  | x |  |
+|  |  | ANSONSTEN WENN |  |  | ANSONSTEN |  | 37 |  |  | x |  |
 |  | Ortsname der Versicherten- | 1..40 | 0..1 | Dieses Feld enthält den Ortsnamen. |  | 38 |  |  | x |  |  |
 |  | Postfach der Versicherten-Post- | 1..8 | 0..1 | Dieses Feld enthält das Postfach. |  |  | **39** |  | **x** |  |  |
 |  |  |  |  | **Stempelinformationen** |  | **1..1** | **Die Angaben in diesem Block entspre-** |  | **40** |  | **x** |
-| 35 |  |  | x |  |  |  | Wohnsitzländercode der Versi- | Kodiert | 1..3 | 0..1 | Rundschreiben DEÜV Anlage 08). |
+| 35 |  |  | x |  |  |  | Wohnsitzländercode der Versi- | Kodiert | 1..3 | 0..1 | Dieses Feld enthält den Wohnsitzlän- |
 |  | 36 |  |  | x |  |  |  | Postleitzahl der Versicherten- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. |
-| WENN |  | hat und |  | ANSONSTEN WENN |  |  | ANSONSTEN |  | 37 |  |  |
+| WENN |  |  |  | ANSONSTEN WENN |  |  | ANSONSTEN |  | 37 |  |  |
 | x |  |  |  | Ortsname der Versicherten- | 1..40 | 0..1 | Dieses Feld enthält den Ortsnamen. |  | 38 |  |  |
 | x |  |  |  | Postfach der Versicherten-Post- | 1..8 | 0..1 | Dieses Feld enthält das Postfach. |  |  | **39** |  |
 | **x** |  |  |  |  |  |  |  |  |  |  |  |
 | **Stempelinformationen** |  | **1..1** | **Die Angaben in diesem Block entspre-** |  | **40** |  | **x** |  |  |  |  |
-| **Ausstellende/ verschreibende** |  |  |  | **1..1** |  | **Dieser Block enthält die Daten der** |  |  |  | **146** |  |
+| **Ausstellende/ verschreibende** |  |  |  | **1..1** |  | **ausstellenden/ verschreibenden Per-** |  |  |  | **146** |  |
 |  |  |  |  | **x** |  |  |  |  |  |  |  |
-| **Qualifikation der ausstellen-** |  |  |  | **1..1** |  | **Dieser Block enthält Informationen** |  |  |  |  |  |
+| **Qualifikation der ausstellen-** |  |  |  | **1..1** |  | **über die Qualifikation der ausstellen-** |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-| 35 |  | x |  |  | Wohnsitzländercode der Versi- | Kodiert | 1..3  0..1 | Rundschreiben DEÜV Anlage 08). | 36 |  | x |
-|  |  |  | Postleitzahl der Versicherten- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN |  | hat und | ANSONSTEN WENN |  |
+| 35 |  | x |  |  | Wohnsitzländercode der Versi- | Kodiert | 1..3  0..1 | Dieses Feld enthält den Wohnsitzlän- | 36 |  | x |
+|  |  |  | Postleitzahl der Versicherten- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN |  |  | ANSONSTEN WENN |  |
 |  | ANSONSTEN |  | 37 |  |  | x |  |  |  | Ortsname der Versicherten- 1..40 | 0..1 |
 
-(GRAU = BLOCK) cherten-Postfachanschrift Postfachanschrift Postfachanschrift fachanschrift Person den/ verschreibenden Person DERH. Dieses Feld enthält den Wohnsitzlän- dercode (entsprechend Gemeinsames Mehrere Namensbestandteile sind durch Blank/Sonderzeichen getrennt. chen den Angaben des Vertrags- arztstempels für Formulare. ausstellenden/ verschreibenden Per- son. über die Qualifikation der ausstellen- den/ verschreibenden Person der Versicherte sich nicht elektronisch ausgewiesen das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist, DANN ist dieses Feld Pflicht. der Versicherte sich nicht elektronisch ausgewiesen das Feld „Wohnsitzländercode der Versi- chertenanschrift“ gleich „D“ und das Feld "Kosten- trägertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist, DANN ist dieses Feld Pflicht.  ist dieses Feld optional.
+(GRAU = BLOCK) cherten-Postfachanschrift Postfachanschrift Postfachanschrift fachanschrift Person son. den/ verschreibenden Person den/ verschreibenden Person DERH. dercode (entsprechend Gemeinsames Rundschreiben DEÜV Anlage 08). Mehrere Namensbestandteile sind durch Blank/Sonderzeichen getrennt. chen den Angaben des Vertrags- arztstempels für Formulare. Dieser Block enthält die Daten der Dieser Block enthält Informationen der Versicherte sich nicht elektronisch ausgewiesen hat und das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist, DANN ist dieses Feld Pflicht. der Versicherte sich nicht elektronisch ausgewiesen hat und das Feld „Wohnsitzländercode der Versi- chertenanschrift“ gleich „D“ und das Feld "Kosten- trägertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist, DANN ist dieses Feld Pflicht.  ist dieses Feld optional.
 
 ---
 
@@ -2811,96 +2809,96 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 \| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
 | **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|  | x |  | Typ der ausstellenden/ ver- Kodiert | 1..1  Dieses Feld enthält einen Typ zur Kenn- | 49 |  | x |  | Berufsbezeichnung der ausstel- 1..100 | 1..1  zur Berufsbezeichnung, z. B. Facharzt | 147 |
+|  | x |  | Typ der ausstellenden/ ver- Kodiert | 1..1  Dieses Feld enthält einen Typ zur Kenn- | 49 |  | x |  | Berufsbezeichnung der ausstel- 1..100 | 1..1  Dieses Feld enthält eine Freitextangabe | 147 |
 |  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV-Fachgrup- | WENN |  |
 | ANSONSTEN |  | **42** |  |  |  | **x** |  |  |  |  | **Identifikator der ausstellenden/** |
-|  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **WENN** |  |  |  | **ANSONSTEN WENN ** | **ANSONSTEN** |
+|  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **gleich „00“ oder „01“ oder „04“ ist und das Feld** |  |  |  | **ANSONSTEN WENN ** | **ANSONSTEN** |
 | 41 |  |  |  | x |  |  | Typ der ausstellenden/ ver- | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur Kenn- | 49 |
-|  | x |  | Berufsbezeichnung der ausstel- 1..100 | 1..1  zur Berufsbezeichnung, z. B. Facharzt | 147 |  | x |  | ASV-Fachgruppennummer der  9 | 0..1  Dieses Feld enthält die ASV-Fachgrup- | WENN |
-| ANSONSTEN |  | **42** |  |  |  | **x** |  |  |  |  | **Identifikator der ausstellenden/ **  **0..1  Dieser Block enthält den Identifikator  WENN** |
+|  | x |  | Berufsbezeichnung der ausstel- 1..100 | 1..1  Dieses Feld enthält eine Freitextangabe | 147 |  | x |  | ASV-Fachgruppennummer der  9 | 0..1  Dieses Feld enthält die ASV-Fachgrup- | WENN |
+| ANSONSTEN |  | **42** |  |  |  | **x** |  |  |  |  | **Identifikator der ausstellenden/ **  **0..1  Dieser Block enthält den Identifikator  gleich „00“ oder „01“ oder „04“ ist und das Feld** |
 |  | **ANSONSTEN WENN** |  | **ANSONSTEN** |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 41 |  |  |  | x |  |  | Typ der ausstellenden/ ver- | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur Kenn- | 49        x |
-|  |  | Berufsbezeichnung der ausstel- | 1..100 | 1..1 | zur Berufsbezeichnung, z. B. Facharzt |  | 147 |  |  |  | x |
+|  |  | Berufsbezeichnung der ausstel- | 1..100 | 1..1 | Dieses Feld enthält eine Freitextangabe |  | 147 |  |  |  | x |
 |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV-Fachgrup- | WENN |  | ANSONSTEN |  | **42** |  |
-| **x ** |  | **Identifikator der ausstellenden/** |  | **0..1** | **Dieser Block enthält den Identifikator** | **WENN** |  | **ANSONSTEN WENN** |  | **ANSONSTEN** |  |
+| **x ** |  | **Identifikator der ausstellenden/** |  | **0..1** | **Dieser Block enthält den Identifikator** | **gleich „00“ oder „01“ oder „04“ ist und das Feld** |  | **ANSONSTEN WENN** |  | **ANSONSTEN** |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 41 |  |  |  | x |  |  | Typ der ausstellenden/ ver- | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur Kenn- | 49        x |
-|  | Berufsbezeichnung der ausstel- | 1..100 | 1..1 | zur Berufsbezeichnung, z. B. Facharzt |  | 147 |  |  |  | x | ASV-Fachgruppennummer der  9  0..1  Dieses Feld enthält die ASV-Fachgrup- |
-| WENN | ANSONSTEN | **42 ** |  | **x ** |  | **Identifikator der ausstellenden/** |  | **0..1** | **Dieser Block enthält den Identifikator** | **WENN** | **ANSONSTEN WENN **  **ANSONSTEN** |
+|  | Berufsbezeichnung der ausstel- | 1..100 | 1..1 | Dieses Feld enthält eine Freitextangabe |  | 147 |  |  |  | x | ASV-Fachgruppennummer der  9  0..1  Dieses Feld enthält die ASV-Fachgrup- |
+| WENN | ANSONSTEN | **42 ** |  | **x ** |  | **Identifikator der ausstellenden/** |  | **0..1** | **Dieser Block enthält den Identifikator** | **gleich „00“ oder „01“ oder „04“ ist und das Feld** | **ANSONSTEN WENN **  **ANSONSTEN** |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 41 |  |  |  | x |  |  | Typ der ausstellenden/ ver- | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur Kenn- |  |
-| 49 |  |  |  | x |  |  | Berufsbezeichnung der ausstel- | 1..100 | 1..1 | zur Berufsbezeichnung, z. B. Facharzt |  |
+| 49 |  |  |  | x |  |  | Berufsbezeichnung der ausstel- | 1..100 | 1..1 | Dieses Feld enthält eine Freitextangabe |  |
 | 147 |  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV-Fachgrup- | WENN |
-| ANSONSTEN | **42** |  | **x** |  |  | **Identifikator der ausstellenden/ ** | **0..1** | **Dieser Block enthält den Identifikator** | **WENN** |  |  |
+| ANSONSTEN | **42** |  | **x** |  |  | **Identifikator der ausstellenden/ ** | **0..1** | **Dieser Block enthält den Identifikator** | **gleich „00“ oder „01“ oder „04“ ist und das Feld** |  |  |
 | **ANSONSTEN WENN** |  | **ANSONSTEN** |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 41 |  |  |  | x |  |  | Typ der ausstellenden/ ver- | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur Kenn- |  |
-| 49 |  |  |  | x |  |  | Berufsbezeichnung der ausstel- | 1..100 | 1..1 | zur Berufsbezeichnung, z. B. Facharzt |  |
+| 49 |  |  |  | x |  |  | Berufsbezeichnung der ausstel- | 1..100 | 1..1 | Dieses Feld enthält eine Freitextangabe |  |
 | 147 |  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV-Fachgrup- | WENN |
 |  | ANSONSTEN |  | **42** |  |  |  | **x** |  |  |  |  |
-| **Identifikator der ausstellenden/** |  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **WENN** |  |  |  | **ANSONSTEN WENN** |
+| **Identifikator der ausstellenden/** |  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **gleich „00“ oder „01“ oder „04“ ist und das Feld** |  |  |  | **ANSONSTEN WENN** |
 |  |  |  | **ANSONSTEN** |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 41 |  |  |  | x |  |  | Typ der ausstellenden/ ver- | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur Kenn- | 49        x      Berufsbezeichnung der ausstel- |
-| 1..100 | 1..1 | zur Berufsbezeichnung, z. B. Facharzt |  | 147 |  |  |  | x |  |  | ASV-Fachgruppennummer der |
+| 1..100 | 1..1 | Dieses Feld enthält eine Freitextangabe |  | 147 |  |  |  | x |  |  | ASV-Fachgruppennummer der |
 | 9 | 0..1 | Dieses Feld enthält die ASV-Fachgrup- | WENN |  | ANSONSTEN |  | **42** |  |  |  | **x** |
-|  |  |  |  | **Identifikator der ausstellenden/** |  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **WENN** |
+|  |  |  |  | **Identifikator der ausstellenden/** |  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **gleich „00“ oder „01“ oder „04“ ist und das Feld** |
 |  |  |  | **ANSONSTEN WENN** |  |  |  | **ANSONSTEN** |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 41 |  |  |  | x |  |  | Typ der ausstellenden/ ver- | Kodiert  1..1 | Dieses Feld enthält einen Typ zur Kenn- |  | 49 |
-|  |  |  | x |  |  | Berufsbezeichnung der ausstel- | 1..100 | 1..1 | zur Berufsbezeichnung, z. B. Facharzt |  | 147        x      ASV-Fachgruppennummer der  9 |
+|  |  |  | x |  |  | Berufsbezeichnung der ausstel- | 1..100 | 1..1 | Dieses Feld enthält eine Freitextangabe |  | 147        x      ASV-Fachgruppennummer der  9 |
 | 0..1 | Dieses Feld enthält die ASV-Fachgrup- | WENN |  | ANSONSTEN |  | **42** |  |  |  | **x** |  |
-|  |  |  | **Identifikator der ausstellenden/** |  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **WENN** |  |
+|  |  |  | **Identifikator der ausstellenden/** |  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **gleich „00“ oder „01“ oder „04“ ist und das Feld** |  |
 |  | **ANSONSTEN WENN** |  | **ANSONSTEN** |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 41 |  |  |  | x |  |  | Typ der ausstellenden/ ver- | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur Kenn- |  |
-| 49 |  |  |  | x |  |  | Berufsbezeichnung der ausstel- | 1..100 | 1..1 | zur Berufsbezeichnung, z. B. Facharzt |  |
+| 49 |  |  |  | x |  |  | Berufsbezeichnung der ausstel- | 1..100 | 1..1 | Dieses Feld enthält eine Freitextangabe |  |
 | 147 |  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV-Fachgrup- | WENN    ANSONSTEN |
-| **42** |  |  | **x** |  |  |  | **Identifikator der ausstellenden/** |  | **0..1** | **Dieser Block enthält den Identifikator** | **WENN  **  **ANSONSTEN WENN **  **ANSONSTEN** |
+| **42** |  |  | **x** |  |  |  | **Identifikator der ausstellenden/** |  | **0..1** | **Dieser Block enthält den Identifikator** | **gleich „00“ oder „01“ oder „04“ ist und das Feld **  **ANSONSTEN WENN **  **ANSONSTEN** |
 | 41 |  |  |  | x |  |  | Typ der ausstellenden/ ver- | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur Kenn- | 49 |
-|  |  | x |  |  | Berufsbezeichnung der ausstel- | 1..100 | 1..1 | zur Berufsbezeichnung, z. B. Facharzt |  | 147 |  |
+|  |  | x |  |  | Berufsbezeichnung der ausstel- | 1..100 | 1..1 | Dieses Feld enthält eine Freitextangabe |  | 147 |  |
 | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV-Fachgrup- | WENN |  | ANSONSTEN |  | **42** |
 |  |  |  | **x** |  |  |  |  | **Identifikator der ausstellenden/** |  |  | **0..1** |
-| 41 |  | x | Typ der ausstellenden/ ver- | Kodiert  1..1 | Dieses Feld enthält einen Typ zur Kenn- | 49 |  | x | Berufsbezeichnung der ausstel- | 1..100  1..1 | zur Berufsbezeichnung, z. B. Facharzt |
+| 41 |  | x | Typ der ausstellenden/ ver- | Kodiert  1..1 | Dieses Feld enthält einen Typ zur Kenn- | 49 |  | x | Berufsbezeichnung der ausstel- | 1..100  1..1 | Dieses Feld enthält eine Freitextangabe |
 | 147 |  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV-Fachgrup- | WENN |
 |  | ANSONSTEN |  | **42** |  |  |  | **x** |  |  |  |  |
-| **Identifikator der ausstellenden/** |  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **WENN** |  |  |  | **ANSONSTEN WENN** |
+| **Identifikator der ausstellenden/** |  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **gleich „00“ oder „01“ oder „04“ ist und das Feld** |  |  |  | **ANSONSTEN WENN** |
 |  |  |  | **ANSONSTEN** |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-| 41 |  | x | Typ der ausstellenden/ ver- | Kodiert  1..1 | Dieses Feld enthält einen Typ zur Kenn- | 49 |  | x | Berufsbezeichnung der ausstel- | 1..100  1..1  zur Berufsbezeichnung, z. B. Facharzt | 147        x      ASV-Fachgruppennummer der  9  0..1  Dieses Feld enthält die ASV-Fachgrup- WENN |
-| ANSONSTEN | **42** |  | **x** |  |  | **Identifikator der ausstellenden/ ** | **0..1** | **Dieser Block enthält den Identifikator** | **WENN** |  | **ANSONSTEN WENN** |
+| 41 |  | x | Typ der ausstellenden/ ver- | Kodiert  1..1 | Dieses Feld enthält einen Typ zur Kenn- | 49 |  | x | Berufsbezeichnung der ausstel- | 1..100  1..1  Dieses Feld enthält eine Freitextangabe | 147        x      ASV-Fachgruppennummer der  9  0..1  Dieses Feld enthält die ASV-Fachgrup- WENN |
+| ANSONSTEN | **42** |  | **x** |  |  | **Identifikator der ausstellenden/ ** | **0..1** | **Dieser Block enthält den Identifikator** | **gleich „00“ oder „01“ oder „04“ ist und das Feld** |  | **ANSONSTEN WENN** |
 |  |  |  | **ANSONSTEN** |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 41 |  |  |  | x |  |  | Typ der ausstellenden/ ver- | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur Kenn- | 49 |
-|  | x |  | Berufsbezeichnung der ausstel- | 1..100 | 1..1 | zur Berufsbezeichnung, z. B. Facharzt | 147 |  |  | x | ASV-Fachgruppennummer der  9  0..1  Dieses Feld enthält die ASV-Fachgrup- WENN    ANSONSTEN **42** |
+|  | x |  | Berufsbezeichnung der ausstel- | 1..100 | 1..1 | Dieses Feld enthält eine Freitextangabe | 147 |  |  | x | ASV-Fachgruppennummer der  9  0..1  Dieses Feld enthält die ASV-Fachgrup- WENN    ANSONSTEN **42** |
 |  |  |  | **x** |  |  |  |  | **Identifikator der ausstellenden/** |  |  | **0..1** |
 | 41 |  |  |  | x |  |  | Typ der ausstellenden/ ver- | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur Kenn- | 49 |
-|  |  |  | x |  |  | Berufsbezeichnung der ausstel- | 1..100 | 1..1 | zur Berufsbezeichnung, z. B. Facharzt |  | 147 |
+|  |  |  | x |  |  | Berufsbezeichnung der ausstel- | 1..100 | 1..1 | Dieses Feld enthält eine Freitextangabe |  | 147 |
 |  | x |  | ASV-Fachgruppennummer der  9 | 0..1  Dieses Feld enthält die ASV-Fachgrup- | WENN | ANSONSTEN | **42 ** |  | **x ** |  | **Identifikator der ausstellenden/** |
-|  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **WENN** |  |  |  | **ANSONSTEN WENN** |  |
+|  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **gleich „00“ oder „01“ oder „04“ ist und das Feld** |  |  |  | **ANSONSTEN WENN** |  |
 |  |  | **ANSONSTEN** |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-| 41 |  | x | Typ der ausstellenden/ ver- | Kodiert  1..1 | Dieses Feld enthält einen Typ zur Kenn- | 49 |  | x | Berufsbezeichnung der ausstel- | 1..100  1..1  zur Berufsbezeichnung, z. B. Facharzt | 147 |
+| 41 |  | x | Typ der ausstellenden/ ver- | Kodiert  1..1 | Dieses Feld enthält einen Typ zur Kenn- | 49 |  | x | Berufsbezeichnung der ausstel- | 1..100  1..1  Dieses Feld enthält eine Freitextangabe | 147 |
 |  | x |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV-Fachgrup- | WENN | ANSONSTEN | **42** |  | **x ** |
-| **Identifikator der ausstellenden/** |  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **WENN** |  |  |  | **ANSONSTEN WENN** |
+| **Identifikator der ausstellenden/** |  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **gleich „00“ oder „01“ oder „04“ ist und das Feld** |  |  |  | **ANSONSTEN WENN** |
 | 41 |  |  |  | x |  |  | Typ der ausstellenden/ ver- | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur Kenn- | 49 |
-|  |  |  | x |  |  | Berufsbezeichnung der ausstel- | 1..100 | 1..1 | zur Berufsbezeichnung, z. B. Facharzt |  | 147 |
+|  |  |  | x |  |  | Berufsbezeichnung der ausstel- | 1..100 | 1..1 | Dieses Feld enthält eine Freitextangabe |  | 147 |
 |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV-Fachgrup- | WENN |  | ANSONSTEN |
 | **42** |  |  |  | **x** |  |  |  |  | **Identifikator der ausstellenden/** |  |  |
-| **0..1** |  | **Dieser Block enthält den Identifikator** |  | **WENN** |  |  |  | **ANSONSTEN WENN** |  |  |  |
+| **0..1** |  | **Dieser Block enthält den Identifikator** |  | **gleich „00“ oder „01“ oder „04“ ist und das Feld** |  |  |  | **ANSONSTEN WENN** |  |  |  |
 | **ANSONSTEN** |  |  |  |  |  |  |  |  |  |  |  |
 | 41 |  |  |  | x |  |  | Typ der ausstellenden/ ver- | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur Kenn- |  |
-| 49 |  |  |  | x |  |  | Berufsbezeichnung der ausstel- | 1..100 | 1..1 | zur Berufsbezeichnung, z. B. Facharzt |  |
+| 49 |  |  |  | x |  |  | Berufsbezeichnung der ausstel- | 1..100 | 1..1 | Dieses Feld enthält eine Freitextangabe |  |
 | 147 |  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV-Fachgrup- | WENN |
 |  | ANSONSTEN |  | **42** |  |  |  | **x** |  |  |  |  |
-| **Identifikator der ausstellenden/** |  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **WENN** |  |  |  | **ANSONSTEN WENN** |
+| **Identifikator der ausstellenden/** |  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **gleich „00“ oder „01“ oder „04“ ist und das Feld** |  |  |  | **ANSONSTEN WENN** |
 |  |  |  | **ANSONSTEN** |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -2911,10 +2909,10 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 41 |  | x |  |  | Typ der ausstellenden/ ver- | Kodiert | 1..1  Dieses Feld enthält einen Typ zur Kenn- |  | 49 |  | x |
-|  |  | Berufsbezeichnung der ausstel- | 1..100 | 1..1 | zur Berufsbezeichnung, z. B. Facharzt |  | 147 |  |  | x |  |
+|  |  | Berufsbezeichnung der ausstel- | 1..100 | 1..1 | Dieses Feld enthält eine Freitextangabe |  | 147 |  |  | x |  |
 |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV-Fachgrup- | WENN |  | ANSONSTEN |  | **42** |  |  |
 
-(GRAU = BLOCK) schreibenden Person lenden/ verschreibenden Person ausstellenden/ verschreibenden Person verschreibenden Person DERH. zeichnung der verschreibenden Person, z.B. Arzt, Arzt in Weiterbildung. Dieses Feld enthält eine Freitextangabe für Allgemeinmedizin, Praktischer Arzt. pennummer gemäß der ASV Vereinba- rung (ASV-AV) §9 Absatz 5. Diese ist ge- mäß der ASV-AV von Krankenhausärz- ten an Stelle der Arztnummer anzuge- ben. der Person, z.B. eine Arztnummer (Le- benslange Arztnummer LANR) oder Zahnarztnummer (ZANR) und kann zu- sätzlich eine Telematik-ID enthalten. das Feld „Typ der ausstellenden / verschreibenden Person“ gleich „00“ oder „04“ und das Feld „Kenn- zeichen Rechtsgrundlage“ gleich „01“ oder „11“ ist und das Feld „Identifikator der ausstellenden/ ver- schreibenden Person“ nicht vorhanden ist, DANN darf dieses Feld vorhanden sein. darf dieses Feld nicht angegeben  werden. das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist und das Feld „Typ der ausstellenden / verschreibenden Person“ gleich „00“ oder „01“ oder „04“ ist und das Feld „ASV -Fachgruppennummer der ausstellenden/ verschreibenden Person“ nicht vorhanden ist, DANN ist dieser Block Pflicht. das Feld „Typ der ausstellenden / verschreiben- den Person“ gleich „02“ ist oder das Feld „ASV Fachgruppennummer der ausstellenden/ ver- schreibenden Person“ vorhanden ist, DANN darf dieser Block nicht angegeben werden. ist dieses Feld optional.
+(GRAU = BLOCK) schreibenden Person lenden/ verschreibenden Person ausstellenden/ verschreibenden Person verschreibenden Person DERH. zeichnung der verschreibenden Person, z.B. Arzt, Arzt in Weiterbildung. zur Berufsbezeichnung, z. B. Facharzt für Allgemeinmedizin, Praktischer Arzt. pennummer gemäß der ASV Vereinba- rung (ASV-AV) §9 Absatz 5. Diese ist ge- mäß der ASV-AV von Krankenhausärz- ten an Stelle der Arztnummer anzuge- ben. der Person, z.B. eine Arztnummer (Le- benslange Arztnummer LANR) oder Zahnarztnummer (ZANR) und kann zu- sätzlich eine Telematik-ID enthalten. „ASV -Fachgruppennummer der ausstellenden/ das Feld „Typ der ausstellenden / verschreibenden Person“ gleich „00“ oder „04“ und das Feld „Kenn- zeichen Rechtsgrundlage“ gleich „01“ oder „11“ ist und das Feld „Identifikator der ausstellenden/ ver- schreibenden Person“ nicht vorhanden ist, DANN darf dieses Feld vorhanden sein. darf dieses Feld nicht angegeben  werden. das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist und das Feld „Typ der ausstellenden / verschreibenden Person“ verschreibenden Person“ nicht vorhanden ist, DANN ist dieser Block Pflicht. das Feld „Typ der ausstellenden / verschreiben- den Person“ gleich „02“ ist oder das Feld „ASV Fachgruppennummer der ausstellenden/ ver- schreibenden Person“ vorhanden ist, DANN darf dieser Block nicht angegeben werden. ist dieses Feld optional.
 
 ---
 
@@ -3064,95 +3062,95 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 | **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | **141** |  |  | **x** |  |  |  | **Name der ausstellenden/ ver-** |  | **1..1** | **Dieser Block enthält den Namen der** | 44 |
-|  |  |  | x |  |  | Vorname der ausstellenden/ | 1..45 | 1..1 | Blank oder Bindestrich getrennt. |  | 45 |
+|  |  |  | x |  |  | Vorname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den Vornamen der |  | 45 |
 |  |  |  | x |  |  | Nachname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den Familiennamen |  | 46 |
-|  |  |  | x |  |  | Titel der ausstellenden/ ver- | 1..100 | 0..1 | rer. | 47 |  |
+|  |  |  | x |  |  | Titel der ausstellenden/ ver- | 1..100 | 0..1 | Dieses Feld enthält den akademischen | 47 |  |
 |  | **141** |  |  |  |  |  | **x** |  |  |  |  |
-|  | **Name der ausstellenden/ ver-** |  | **1..1** | **Dieser Block enthält den Namen der** | 44 |  | x |  | Vorname der ausstellenden/  1..45 | 1..1  Blank oder Bindestrich getrennt. | 45 |
+|  | **Name der ausstellenden/ ver-** |  | **1..1** | **Dieser Block enthält den Namen der** | 44 |  | x |  | Vorname der ausstellenden/  1..45 | 1..1  Dieses Feld enthält den Vornamen der | 45 |
 |  |  |  | x |  |  | Nachname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den Familiennamen |  | 46        x      Titel der ausstellenden/ ver- |
-| 1..100  0..1 | rer. | 47 |  | x | Namenszusatz der ausstellen- | 1..20  0..1 | Dieses Feld enthält den Namenszusatz | 48 |  | x | Vorsatzwort der ausstellenden/ |
+| 1..100  0..1 | Dieses Feld enthält den akademischen | 47 |  | x | Namenszusatz der ausstellen- | 1..20  0..1 | Dieses Feld enthält den Namenszusatz | 48 |  | x | Vorsatzwort der ausstellenden/ |
 | 1..20 | 0..1 | Dieses Feld enthält das Vorsatzwort als |  |  |  |  |  |  |  |  |  |
 |  | **141** |  |  |  |  |  | **x** |  |  |  | **Name der ausstellenden/ ver-** |
 |  |  | **1..1** |  | **Dieser Block enthält den Namen der** |  |  | 44 |  |  |  | x |
-|  |  | Vorname der ausstellenden/ | 1..45 | 1..1 | Blank oder Bindestrich getrennt. |  | 45 |  |  |  | x |
-| Nachname der ausstellenden/  1..45 | 1..1  Dieses Feld enthält den Familiennamen | 46 |  | x |  | Titel der ausstellenden/ ver- 1..100 | 0..1  rer. | 47 |  | x |  |
+|  |  | Vorname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den Vornamen der |  | 45 |  |  |  | x |
+| Nachname der ausstellenden/  1..45 | 1..1  Dieses Feld enthält den Familiennamen | 46 |  | x |  | Titel der ausstellenden/ ver- 1..100 | 0..1  Dieses Feld enthält den akademischen | 47 |  | x |  |
 | Namenszusatz der ausstellen- | 1..20 | 0..1 | Dieses Feld enthält den Namenszusatz |  | 48 |  |  |  | x |  | Vorsatzwort der ausstellenden/  1..20  0..1  Dieses Feld enthält das Vorsatzwort als |
 |  | **141** |  |  |  |  |  | **x** |  |  |  | **Name der ausstellenden/ ver-** |
-|  | **1..1** |  | **Dieser Block enthält den Namen der** |  |  | 44 |  |  |  | x | Vorname der ausstellenden/  1..45  1..1  Blank oder Bindestrich getrennt. |
-| 45 |  | x |  | Nachname der ausstellenden/  1..45 | 1..1  Dieses Feld enthält den Familiennamen | 46 |  | x |  | Titel der ausstellenden/ ver- 1..100 | 0..1  rer.    47        x      Namenszusatz der ausstellen- 1..20 |
+|  | **1..1** |  | **Dieser Block enthält den Namen der** |  |  | 44 |  |  |  | x | Vorname der ausstellenden/  1..45  1..1  Dieses Feld enthält den Vornamen der |
+| 45 |  | x |  | Nachname der ausstellenden/  1..45 | 1..1  Dieses Feld enthält den Familiennamen | 46 |  | x |  | Titel der ausstellenden/ ver- 1..100 | 0..1  Dieses Feld enthält den akademischen    47        x      Namenszusatz der ausstellen- 1..20 |
 | 0..1 | Dieses Feld enthält den Namenszusatz |  | 48 |  |  |  | x |  |  | Vorsatzwort der ausstellenden/ | 1..20 |
 | 0..1 | Dieses Feld enthält das Vorsatzwort als |  |  |  |  |  |  |  |  |  |  |
 |  | **141** |  |  |  |  |  | **x** |  |  |  |  |
 |  |  |  | **Name der ausstellenden/ ver-** |  |  |  | **1..1** |  | **Dieser Block enthält den Namen der** |  |  |
-| 44 |  |  |  | x |  |  | Vorname der ausstellenden/ | 1..45 | 1..1 | Blank oder Bindestrich getrennt. |  |
-| 45 |  | x | Nachname der ausstellenden/ | 1..45  1..1 | Dieses Feld enthält den Familiennamen | 46 |  | x | Titel der ausstellenden/ ver- | 1..100  0..1 | rer. |
+| 44 |  |  |  | x |  |  | Vorname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den Vornamen der |  |
+| 45 |  | x | Nachname der ausstellenden/ | 1..45  1..1 | Dieses Feld enthält den Familiennamen | 46 |  | x | Titel der ausstellenden/ ver- | 1..100  0..1 | Dieses Feld enthält den akademischen |
 | 47 |  | x |  | Namenszusatz der ausstellen- 1..20 | 0..1  Dieses Feld enthält den Namenszusatz | 48 |  | x |  | Vorsatzwort der ausstellenden/  1..20 | 0..1  Dieses Feld enthält das Vorsatzwort als |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | **141** |  |  |  |  |  | **x** |  |  |  |  |
 |  |  |  | **Name der ausstellenden/ ver-** |  |  |  | **1..1** |  | **Dieser Block enthält den Namen der** |  |  |
-| 44 |  |  |  | x |  |  | Vorname der ausstellenden/ | 1..45 | 1..1 | Blank oder Bindestrich getrennt. |  |
+| 44 |  |  |  | x |  |  | Vorname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den Vornamen der |  |
 | 45 |  |  |  | x |  |  | Nachname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den Familiennamen |  |
-| 46 |  |  |  | x |  |  | Titel der ausstellenden/ ver- | 1..100 | 0..1 | rer. |  |
+| 46 |  |  |  | x |  |  | Titel der ausstellenden/ ver- | 1..100 | 0..1 | Dieses Feld enthält den akademischen |  |
 | 47 |  |  |  | x |  |  | Namenszusatz der ausstellen- | 1..20 | 0..1 | Dieses Feld enthält den Namenszusatz |  |
 | 48 |  | x | Vorsatzwort der ausstellenden/ | 1..20  0..1 | Dieses Feld enthält das Vorsatzwort als |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | **141** |  |  |  |  |  | **x** |  |  |  | **Name der ausstellenden/ ver-**  **1..1** |
 |  | **Dieser Block enthält den Namen der** |  |  | 44 |  |  |  | x |  |  | Vorname der ausstellenden/ |
-| 1..45 | 1..1 | Blank oder Bindestrich getrennt. |  | 45 |  |  |  | x |  |  | Nachname der ausstellenden/ |
+| 1..45 | 1..1 | Dieses Feld enthält den Vornamen der |  | 45 |  |  |  | x |  |  | Nachname der ausstellenden/ |
 | 1..45 | 1..1 | Dieses Feld enthält den Familiennamen |  | 46 |  |  |  | x |  |  | Titel der ausstellenden/ ver- |
-| 1..100 | 0..1 | rer. |  | 47 |  |  |  | x |  |  | Namenszusatz der ausstellen- |
+| 1..100 | 0..1 | Dieses Feld enthält den akademischen |  | 47 |  |  |  | x |  |  | Namenszusatz der ausstellen- |
 | 1..20  0..1 | Dieses Feld enthält den Namenszusatz | 48 |  | x | Vorsatzwort der ausstellenden/ | 1..20  0..1 | Dieses Feld enthält das Vorsatzwort als |  |  |  |  |
 |  | **141** |  |  |  |  |  | **x** |  |  |  |  |
 |  |  | **Name der ausstellenden/ ver-** |  |  |  | **1..1** |  | **Dieser Block enthält den Namen der** |  |  | 44        x      Vorname der ausstellenden/  1..45 |
-| 1..1 | Blank oder Bindestrich getrennt. |  | 45 |  |  |  | x |  |  | Nachname der ausstellenden/ | 1..45 |
+| 1..1 | Dieses Feld enthält den Vornamen der |  | 45 |  |  |  | x |  |  | Nachname der ausstellenden/ | 1..45 |
 | 1..1 | Dieses Feld enthält den Familiennamen |  | 46 |  |  |  | x |  |  | Titel der ausstellenden/ ver- | 1..100 |
-| 0..1  rer. | 47 |  | x |  | Namenszusatz der ausstellen- 1..20 | 0..1  Dieses Feld enthält den Namenszusatz | 48 |  | x |  | Vorsatzwort der ausstellenden/  1..20 |
+| 0..1  Dieses Feld enthält den akademischen | 47 |  | x |  | Namenszusatz der ausstellen- 1..20 | 0..1  Dieses Feld enthält den Namenszusatz | 48 |  | x |  | Vorsatzwort der ausstellenden/  1..20 |
 | 0..1  Dieses Feld enthält das Vorsatzwort als |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | **141** |  |  |  |  |  | **x** |  |  |  |  |
 |  |  |  | **Name der ausstellenden/ ver-** |  |  |  | **1..1** |  | **Dieser Block enthält den Namen der** |  |  |
-| 44 |  |  |  | x |  |  | Vorname der ausstellenden/ | 1..45 | 1..1 | Blank oder Bindestrich getrennt. | 45 |
-|  | x |  | Nachname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den Familiennamen | 46 |  |  | x | Titel der ausstellenden/ ver- 1..100  0..1  rer.    47 |
+| 44 |  |  |  | x |  |  | Vorname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den Vornamen der | 45 |
+|  | x |  | Nachname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den Familiennamen | 46 |  |  | x | Titel der ausstellenden/ ver- 1..100  0..1  Dieses Feld enthält den akademischen    47 |
 |  | **141** |  |  |  |  |  | **x** |  |  |  |  |
 |  | **Name der ausstellenden/ ver-** |  |  |  | **1..1** |  | **Dieser Block enthält den Namen der** |  |  | 44 |  |
-| x |  |  | Vorname der ausstellenden/ | 1..45 | 1..1 | Blank oder Bindestrich getrennt. |  | 45 |  |  |  |
+| x |  |  | Vorname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den Vornamen der |  | 45 |  |  |  |
 | x |  |  | Nachname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den Familiennamen |  | 46 |  |  | x |
 | **141** |  |  | **x** |  |  |  | **Name der ausstellenden/ ver-** |  | **1..1** | **Dieser Block enthält den Namen der** |  |
-| 44 |  |  |  | x |  |  | Vorname der ausstellenden/ | 1..45 | 1..1 | Blank oder Bindestrich getrennt. |  |
+| 44 |  |  |  | x |  |  | Vorname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den Vornamen der |  |
 | 45 |  |  |  | x |  |  | Nachname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den Familiennamen |  |
-| 46 |  |  |  | x |  |  | Titel der ausstellenden/ ver- | 1..100 | 0..1 | rer. |  |
+| 46 |  |  |  | x |  |  | Titel der ausstellenden/ ver- | 1..100 | 0..1 | Dieses Feld enthält den akademischen |  |
 | 47 |  |  |  | x |  |  | Namenszusatz der ausstellen- | 1..20 | 0..1 | Dieses Feld enthält den Namenszusatz |  |
 | 48 |  |  |  | x |  |  | Vorsatzwort der ausstellenden/ | 1..20 | 0..1 | Dieses Feld enthält das Vorsatzwort als |  |
-| **141** |  |  | **x** |  |  |  | **Name der ausstellenden/ ver-** |  | **1..1** | **Dieser Block enthält den Namen der ** | 44        x      Vorname der ausstellenden/  1..45  1..1  Blank oder Bindestrich getrennt. |
-| 45 |  | x | Nachname der ausstellenden/ | 1..45  1..1 | Dieses Feld enthält den Familiennamen | 46 |  | x | Titel der ausstellenden/ ver- | 1..100  0..1 | rer. |
+| **141** |  |  | **x** |  |  |  | **Name der ausstellenden/ ver-** |  | **1..1** | **Dieser Block enthält den Namen der ** | 44        x      Vorname der ausstellenden/  1..45  1..1  Dieses Feld enthält den Vornamen der |
+| 45 |  | x | Nachname der ausstellenden/ | 1..45  1..1 | Dieses Feld enthält den Familiennamen | 46 |  | x | Titel der ausstellenden/ ver- | 1..100  0..1 | Dieses Feld enthält den akademischen |
 | 47 |  |  |  | x |  |  | Namenszusatz der ausstellen- | 1..20 | 0..1 | Dieses Feld enthält den Namenszusatz |  |
 | 48 |  |  |  | x |  |  | Vorsatzwort der ausstellenden/ | 1..20 | 0..1 | Dieses Feld enthält das Vorsatzwort als |  |
 |  | **141** |  |  |  |  |  | **x** |  |  |  |  |
-| **Name der ausstellenden/ ver-** |  |  | **1..1** |  | **Dieser Block enthält den Namen der** |  | 44 |  |  | x | Vorname der ausstellenden/  1..45  1..1  Blank oder Bindestrich getrennt.    45 |
+| **Name der ausstellenden/ ver-** |  |  | **1..1** |  | **Dieser Block enthält den Namen der** |  | 44 |  |  | x | Vorname der ausstellenden/  1..45  1..1  Dieses Feld enthält den Vornamen der    45 |
 | x |  |  | Nachname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den Familiennamen |  | 46 |  |  | x |
 |  | **141** |  |  |  |  |  | **x** |  |  |  |  |
 |  |  | **Name der ausstellenden/ ver-** |  |  |  | **1..1** |  | **Dieser Block enthält den Namen der** |  |  | 44 |
-|  | x |  | Vorname der ausstellenden/  1..45 | 1..1  Blank oder Bindestrich getrennt. | 45 |  | x |  | Nachname der ausstellenden/  1..45 | 1..1  Dieses Feld enthält den Familiennamen | 46 |
-|  |  |  | x |  |  | Titel der ausstellenden/ ver- | 1..100 | 0..1 | rer. |  | 47 |
+|  | x |  | Vorname der ausstellenden/  1..45 | 1..1  Dieses Feld enthält den Vornamen der | 45 |  | x |  | Nachname der ausstellenden/  1..45 | 1..1  Dieses Feld enthält den Familiennamen | 46 |
+|  |  |  | x |  |  | Titel der ausstellenden/ ver- | 1..100 | 0..1 | Dieses Feld enthält den akademischen |  | 47 |
 |  |  |  | x |  |  | Namenszusatz der ausstellen- | 1..20 | 0..1 | Dieses Feld enthält den Namenszusatz |  | 48 |
 |  |  |  | x |  |  | Vorsatzwort der ausstellenden/ | 1..20 | 0..1 | Dieses Feld enthält das Vorsatzwort als |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | **141** |  |  | **x** |  |  |  | **Name der ausstellenden/ ver-** |  | **1..1** | **Dieser Block enthält den Namen der ** | 44 |
-|  | x |  | Vorname der ausstellenden/ | 1..45 | 1..1 | Blank oder Bindestrich getrennt. | 45 |  |  | x | Nachname der ausstellenden/  1..45  1..1  Dieses Feld enthält den Familiennamen |
-| 46 |  |  |  | x |  |  | Titel der ausstellenden/ ver- | 1..100 | 0..1 | rer. | 47 |
+|  | x |  | Vorname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den Vornamen der | 45 |  |  | x | Nachname der ausstellenden/  1..45  1..1  Dieses Feld enthält den Familiennamen |
+| 46 |  |  |  | x |  |  | Titel der ausstellenden/ ver- | 1..100 | 0..1 | Dieses Feld enthält den akademischen | 47 |
 |  | **141** |  |  |  |  |  | **x** |  |  |  |  |
 |  |  | **Name der ausstellenden/ ver-** |  |  |  | **1..1** |  | **Dieser Block enthält den Namen der** |  |  | 44 |
-|  |  | x |  |  | Vorname der ausstellenden/ | 1..45 | 1..1 | Blank oder Bindestrich getrennt. |  | 45 |  |
+|  |  | x |  |  | Vorname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den Vornamen der |  | 45 |  |
 |  | x |  |  | Nachname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den Familiennamen |  | 46 |  |  |
-|  | x |  |  | Titel der ausstellenden/ ver- | 1..100 | 0..1 | rer. |  | 47 |  |  |
+|  | x |  |  | Titel der ausstellenden/ ver- | 1..100 | 0..1 | Dieses Feld enthält den akademischen |  | 47 |  |  |
 | x |  | Namenszusatz der ausstellen- 1..20 | 0..1  Dieses Feld enthält den Namenszusatz | 48 |  | x |  | Vorsatzwort der ausstellenden/  1..20 | 0..1  Dieses Feld enthält das Vorsatzwort als |  |  |
 |  | **141** |  |  |  |  |  | **x** |  |  |  |  |
 |  |  |  | **Name der ausstellenden/ ver-** |  |  |  | **1..1** |  | **Dieser Block enthält den Namen der** |  |  |
-| 44 |  |  |  | x |  |  | Vorname der ausstellenden/ | 1..45 | 1..1 | Blank oder Bindestrich getrennt. |  |
+| 44 |  |  |  | x |  |  | Vorname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den Vornamen der |  |
 | 45 |  |  |  | x |  |  | Nachname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den Familiennamen |  |
-| 46 |  |  |  | x |  |  | Titel der ausstellenden/ ver- | 1..100 | 0..1 | rer. |  |
+| 46 |  |  |  | x |  |  | Titel der ausstellenden/ ver- | 1..100 | 0..1 | Dieses Feld enthält den akademischen |  |
 | 47 |  |  |  | x |  |  | Namenszusatz der ausstellen- | 1..20 | 0..1 | Dieses Feld enthält den Namenszusatz |  |
 | 48 |  | x | Vorsatzwort der ausstellenden/ | 1..20  0..1 | Dieses Feld enthält das Vorsatzwort als |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -3164,9 +3162,9 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | **141** |  |  |  |  | **x** |  |  |  |  | **Name der ausstellenden/ ver-** |  |
 |  |  | **1..1** |  | **Dieser Block enthält den Namen der** |  |  | 44 |  |  | x |  |
-|  | Vorname der ausstellenden/ | 1..45 | 1..1 | Blank oder Bindestrich getrennt. |  | 45 |  |  |  | x |  |
+|  | Vorname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den Vornamen der |  | 45 |  |  |  | x |  |
 
-(GRAU = BLOCK) schreibenden Person verschreibenden Person verschreibenden Person schreibenden Person den/ verschreibenden Person verschreibenden Person DERH. Person. Dieses Feld enthält den Vornamen der Person; mehrere Vornamen sind durch der Person. Dieses Feld enthält den akademischen Grad der Person, z.B. „Dr. med.“, „Dr. nat.“. als Bestandteil des Nachnamens der Person, z.B. „Freiherr“, „Gräfin“; meh- rere Namenszusätze sind durch Blank Bestandteil des Nachnamens der Per- son, z.B. „von“, „von der“, „zu“; meh- rere Vorsatzwörter sind durch Blank
+(GRAU = BLOCK) schreibenden Person verschreibenden Person verschreibenden Person schreibenden Person den/ verschreibenden Person verschreibenden Person DERH. Person. Person; mehrere Vornamen sind durch Blank oder Bindestrich getrennt. der Person. Grad der Person, z.B. „Dr. med.“, „Dr. rer. nat.“. als Bestandteil des Nachnamens der Person, z.B. „Freiherr“, „Gräfin“; meh- rere Namenszusätze sind durch Blank getrennt. Bestandteil des Nachnamens der Per- son, z.B. „von“, „von der“, „zu“; meh- rere Vorsatzwörter sind durch Blank getrennt.
 
 ---
 
@@ -3190,95 +3188,95 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 | **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | **50** |  | **x** |  |  |  |  | **Verantwortliche Person** |  | **0..1** | **Dieser Block enthält die Daten der ver-** | **Der Block dient dazu, die entspre-** |
-| **WENN** |  | **ist und das Feld "Identifikator** |  |  |  |  |  | **ANSONSTEN** |  |  |  |
+| **das Feld „Typ der ausstellenden/ verschreiben-** |  | **ANSONSTEN WENN** |  |  |  |  |  | **ANSONSTEN** |  |  |  |
 | **148** |  |  |  |  |  | **x** |  |  |  |  |  |
-|  |  | **Qualifikation der verantwortli-** |  |  |  | **1..1** |  | **Dieser Block enthält Informationen** |  | 51 |  |
+|  |  | **Qualifikation der verantwortli-** |  |  |  | **1..1** |  | **über die Qualifikation der verantwort-** |  | 51 |  |
 |  | **50** |  |  |  | **x** |  |  |  |  |  |  |
-|  | **Verantwortliche Person** |  | **0..1** | **Dieser Block enthält die Daten der ver-** | **Der Block dient dazu, die entspre-** | **WENN** | **ist und das Feld "Identifikator** |  |  | **ANSONSTEN** |  |
+|  | **Verantwortliche Person** |  | **0..1** | **Dieser Block enthält die Daten der ver-** | **Der Block dient dazu, die entspre-** | **das Feld „Typ der ausstellenden/ verschreiben-** | **ANSONSTEN WENN** |  |  | **ANSONSTEN** |  |
 | **148** |  |  |  |  |  | **x** |  |  |  |  | **Qualifikation der verantwortli-**  **1..1** |
-| **Dieser Block enthält Informationen** |  | 51 |  | x | Typ der verantwortlichen Per- | Kodiert  1..1 | Dieses Feld enthält einen Typ zur Kenn- Das Feld „Typ der verantwortlichen Person“ darf | 58 |  | x | Berufsbezeichnung der verant- |
+| **über die Qualifikation der verantwort-** |  | 51 |  | x | Typ der verantwortlichen Per- | Kodiert  1..1 | Dieses Feld enthält einen Typ zur Kenn- Das Feld „Typ der verantwortlichen Person“ darf | 58 |  | x | Berufsbezeichnung der verant- |
 | 1..100 | 1..1 | Dieses Feld enthält eine Freitextangabe |  |  |  |  |  |  |  |  |  |
 |  | **50** |  |  |  | **x** |  |  |  |  |  | **Verantwortliche Person** |
-|  |  | **0..1** |  | **Dieser Block enthält die Daten der ver-** |  | **Der Block dient dazu, die entspre-** |  | **WENN** |  | **ist und das Feld "Identifikator** |  |
+|  |  | **0..1** |  | **Dieser Block enthält die Daten der ver-** |  | **Der Block dient dazu, die entspre-** |  | **das Feld „Typ der ausstellenden/ verschreiben-** |  | **ANSONSTEN WENN** |  |
 |  |  |  |  | **ANSONSTEN** |  |  |  | **148** |  |  |  |
-| **x** |  |  |  | **Qualifikation der verantwortli-** |  | **1..1** | **Dieser Block enthält Informationen** | 51 |  | x |  |
+| **x** |  |  |  | **Qualifikation der verantwortli-** |  | **1..1** | **über die Qualifikation der verantwort-** | 51 |  | x |  |
 | Typ der verantwortlichen Per- | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur Kenn- | Das Feld „Typ der verantwortlichen Person“ darf | 58 |  |  |  | x |  | Berufsbezeichnung der verant- 1..100  1..1  Dieses Feld enthält eine Freitextangabe |
 |  | **50** |  |  |  | **x** |  |  |  |  |  | **Verantwortliche Person ** |
-|  | **0..1** |  | **Dieser Block enthält die Daten der ver-** |  | **Der Block dient dazu, die entspre-** |  | **WENN** |  | **ist und das Feld "Identifikator** |  | **ANSONSTEN** |
-|  | **148** |  |  | **x** |  |  |  | **Qualifikation der verantwortli-** |  | **1..1** | **Dieser Block enthält Informationen **   51        x      Typ der verantwortlichen Per- Kodiert |
+|  | **0..1** |  | **Dieser Block enthält die Daten der ver-** |  | **Der Block dient dazu, die entspre-** |  | **das Feld „Typ der ausstellenden/ verschreiben-** |  | **ANSONSTEN WENN** |  | **ANSONSTEN** |
+|  | **148** |  |  | **x** |  |  |  | **Qualifikation der verantwortli-** |  | **1..1** | **über die Qualifikation der verantwort-**   51        x      Typ der verantwortlichen Per- Kodiert |
 | 1..1 | Dieses Feld enthält einen Typ zur Kenn- | Das Feld „Typ der verantwortlichen Person“ darf | 58 |  |  |  | x |  |  | Berufsbezeichnung der verant- | 1..100 |
 | 1..1 | Dieses Feld enthält eine Freitextangabe |  |  |  |  |  |  |  |  |  |  |
 |  | **50** |  |  |  | **x** |  |  |  |  |  |  |
 |  |  |  | **Verantwortliche Person** |  |  |  | **0..1** |  | **Dieser Block enthält die Daten der ver-** |  | **Der Block dient dazu, die entspre-** |
-|  | **WENN** |  | **ist und das Feld "Identifikator** |  |  |  |  |  | **ANSONSTEN** |  |  |
-| **148** |  |  | **x** |  |  |  | **Qualifikation der verantwortli-** |  | **1..1** | **Dieser Block enthält Informationen** |  |
+|  | **das Feld „Typ der ausstellenden/ verschreiben-** |  | **ANSONSTEN WENN** |  |  |  |  |  | **ANSONSTEN** |  |  |
+| **148** |  |  | **x** |  |  |  | **Qualifikation der verantwortli-** |  | **1..1** | **über die Qualifikation der verantwort-** |  |
 | 51 |  | x |  | Typ der verantwortlichen Per- Kodiert | 1..1  Dieses Feld enthält einen Typ zur Kenn- | Das Feld „Typ der verantwortlichen Person“ darf 58 |  | x |  | Berufsbezeichnung der verant- 1..100 | 1..1  Dieses Feld enthält eine Freitextangabe |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | **50** |  |  |  | **x** |  |  |  |  |  |  |
 |  |  |  | **Verantwortliche Person** |  |  |  | **0..1** |  | **Dieser Block enthält die Daten der ver-** |  | **Der Block dient dazu, die entspre-** |
-|  | **WENN** |  | **ist und das Feld "Identifikator** |  |  |  |  |  | **ANSONSTEN** |  |  |
+|  | **das Feld „Typ der ausstellenden/ verschreiben-** |  | **ANSONSTEN WENN** |  |  |  |  |  | **ANSONSTEN** |  |  |
 |  | **148** |  |  |  |  |  | **x** |  |  |  |  |
-|  |  |  | **Qualifikation der verantwortli-** |  |  |  | **1..1** |  | **Dieser Block enthält Informationen** |  |  |
+|  |  |  | **Qualifikation der verantwortli-** |  |  |  | **1..1** |  | **über die Qualifikation der verantwort-** |  |  |
 | 51 |  |  |  | x |  |  | Typ der verantwortlichen Per- | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur Kenn- | Das Feld „Typ der verantwortlichen Person“ darf |
 | 58 |  | x | Berufsbezeichnung der verant- | 1..100  1..1 | Dieses Feld enthält eine Freitextangabe |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | **50** |  |  |  | **x** |  |  |  |  |  | **Verantwortliche Person **   **0..1** |
-|  | **Dieser Block enthält die Daten der ver-** |  | **Der Block dient dazu, die entspre-** |  | **WENN** |  | **ist und das Feld "Identifikator** |  |  |  |  |
+|  | **Dieser Block enthält die Daten der ver-** |  | **Der Block dient dazu, die entspre-** |  | **das Feld „Typ der ausstellenden/ verschreiben-** |  | **ANSONSTEN WENN** |  |  |  |  |
 |  | **ANSONSTEN** |  |  |  | **148** |  |  |  |  |  | **x** |
 |  |  |  |  |  |  |  | **Qualifikation der verantwortli-** |  |  |  | **1..1** |
-|  | **Dieser Block enthält Informationen** |  |  | 51 |  |  |  | x |  |  | Typ der verantwortlichen Per- |
+|  | **über die Qualifikation der verantwort-** |  |  | 51 |  |  |  | x |  |  | Typ der verantwortlichen Per- |
 | Kodiert  1..1 | Dieses Feld enthält einen Typ zur Kenn- Das Feld „Typ der verantwortlichen Person“ darf | 58 |  | x | Berufsbezeichnung der verant- | 1..100  1..1 | Dieses Feld enthält eine Freitextangabe |  |  |  |  |
 |  | **50** |  |  |  | **x** |  |  |  |  |  |  |
-|  |  | **Verantwortliche Person** |  |  |  | **0..1** |  | **Dieser Block enthält die Daten der ver-** |  | **Der Block dient dazu, die entspre-** | **WENN    ist und das Feld "Identifikator ** |
+|  |  | **Verantwortliche Person** |  |  |  | **0..1** |  | **Dieser Block enthält die Daten der ver-** |  | **Der Block dient dazu, die entspre-** | **das Feld „Typ der ausstellenden/ verschreiben- ANSONSTEN WENN ** |
 | **ANSONSTEN** |  |  |  | **148** |  |  |  |  |  | **x** |  |
 |  |  |  |  |  |  | **Qualifikation der verantwortli-** |  |  |  | **1..1** |  |
-| **Dieser Block enthält Informationen** | 51 |  | x |  | Typ der verantwortlichen Per- Kodiert | 1..1  Dieses Feld enthält einen Typ zur Kenn- | Das Feld „Typ der verantwortlichen Person“ darf 58 |  | x |  | Berufsbezeichnung der verant- 1..100 |
+| **über die Qualifikation der verantwort-** | 51 |  | x |  | Typ der verantwortlichen Per- Kodiert | 1..1  Dieses Feld enthält einen Typ zur Kenn- | Das Feld „Typ der verantwortlichen Person“ darf 58 |  | x |  | Berufsbezeichnung der verant- 1..100 |
 | 1..1  Dieses Feld enthält eine Freitextangabe |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | **50** |  |  |  | **x** |  |  |  |  |  |  |
 |  |  |  | **Verantwortliche Person** |  |  |  | **0..1** |  | **Dieser Block enthält die Daten der ver-** |  | **Der Block dient dazu, die entspre-** |
-|  | **WENN** |  | **ist und das Feld "Identifikator** |  |  |  |  |  | **ANSONSTEN** |  | **148** |
-|  |  |  | **x** |  |  |  |  |  | **Qualifikation der verantwortli-** |  | **1..1  Dieser Block enthält Informationen **   51 |
+|  | **das Feld „Typ der ausstellenden/ verschreiben-** |  | **ANSONSTEN WENN** |  |  |  |  |  | **ANSONSTEN** |  | **148** |
+|  |  |  | **x** |  |  |  |  |  | **Qualifikation der verantwortli-** |  | **1..1  über die Qualifikation der verantwort-**   51 |
 |  | **50** |  |  |  | **x** |  |  |  |  |  |  |
-|  | **Verantwortliche Person** |  |  |  | **0..1** |  | **Dieser Block enthält die Daten der ver-** |  | **Der Block dient dazu, die entspre-** |  | **WENN    ist und das Feld "Identifikator** |
+|  | **Verantwortliche Person** |  |  |  | **0..1** |  | **Dieser Block enthält die Daten der ver-** |  | **Der Block dient dazu, die entspre-** |  | **das Feld „Typ der ausstellenden/ verschreiben- ANSONSTEN WENN** |
 |  |  |  |  |  | **ANSONSTEN** |  |  |  | **148** |  |  |
 |  |  |  | **x** |  |  |  |  |  |  |  | **Qualifikation der verantwortli-** |
 | **50** |  | **x** |  |  |  |  | **Verantwortliche Person** |  | **0..1** | **Dieser Block enthält die Daten der ver-** | **Der Block dient dazu, die entspre-** |
-|  | **WENN** |  | **ist und das Feld "Identifikator** |  |  |  |  |  | **ANSONSTEN** |  |  |
+|  | **das Feld „Typ der ausstellenden/ verschreiben-** |  | **ANSONSTEN WENN** |  |  |  |  |  | **ANSONSTEN** |  |  |
 |  | **148** |  |  |  |  |  | **x** |  |  |  |  |
-|  |  |  | **Qualifikation der verantwortli-** |  |  |  | **1..1** |  | **Dieser Block enthält Informationen** |  |  |
+|  |  |  | **Qualifikation der verantwortli-** |  |  |  | **1..1** |  | **über die Qualifikation der verantwort-** |  |  |
 | 51 |  |  |  | x |  |  | Typ der verantwortlichen Per- | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur Kenn- | Das Feld „Typ der verantwortlichen Person“ darf |
 | 58 |  |  |  | x |  |  | Berufsbezeichnung der verant- | 1..100 | 1..1 | Dieses Feld enthält eine Freitextangabe |  |
-| **50** |  | **x** |  |  |  |  | **Verantwortliche Person** |  | **0..1** | **Dieser Block enthält die Daten der ver- Der Block dient dazu, die entspre-** | **WENN    ist und das Feld "Identifikator **    **ANSONSTEN ** |
-| **148** |  |  | **x** |  |  |  | **Qualifikation der verantwortli-** |  | **1..1** | **Dieser Block enthält Informationen** |  |
+| **50** |  | **x** |  |  |  |  | **Verantwortliche Person** |  | **0..1** | **Dieser Block enthält die Daten der ver- Der Block dient dazu, die entspre-** | **das Feld „Typ der ausstellenden/ verschreiben- ANSONSTEN WENN **    **ANSONSTEN ** |
+| **148** |  |  | **x** |  |  |  | **Qualifikation der verantwortli-** |  | **1..1** | **über die Qualifikation der verantwort-** |  |
 | 51 |  |  |  | x |  |  | Typ der verantwortlichen Per- | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur Kenn- | Das Feld „Typ der verantwortlichen Person“ darf |
 | 58 |  |  |  | x |  |  | Berufsbezeichnung der verant- | 1..100 | 1..1 | Dieses Feld enthält eine Freitextangabe |  |
 |  | **50** |  |  |  | **x** |  |  |  |  |  |  |
-| **Verantwortliche Person** |  |  | **0..1** |  | **Dieser Block enthält die Daten der ver-** |  | **Der Block dient dazu, die entspre-** | **WENN** | **ist und das Feld "Identifikator** |  | **ANSONSTEN **  **148 ** |
+| **Verantwortliche Person** |  |  | **0..1** |  | **Dieser Block enthält die Daten der ver-** |  | **Der Block dient dazu, die entspre-** | **das Feld „Typ der ausstellenden/ verschreiben-** | **ANSONSTEN WENN** |  | **ANSONSTEN **  **148 ** |
 |  |  |  | **x** |  |  |  |  |  |  |  | **Qualifikation der verantwortli-** |
 |  | **50** |  |  |  | **x** |  |  |  |  |  |  |
 |  |  | **Verantwortliche Person** |  |  |  | **0..1** |  | **Dieser Block enthält die Daten der ver-** |  | **Der Block dient dazu, die entspre-** |  |
-| **WENN** | **ist und das Feld "Identifikator** |  |  | **ANSONSTEN** |  | **148** |  |  | **x** |  |  |
-|  |  | **Qualifikation der verantwortli-** |  |  |  | **1..1** |  | **Dieser Block enthält Informationen** |  |  | 51 |
+| **das Feld „Typ der ausstellenden/ verschreiben-** | **ANSONSTEN WENN** |  |  | **ANSONSTEN** |  | **148** |  |  | **x** |  |  |
+|  |  | **Qualifikation der verantwortli-** |  |  |  | **1..1** |  | **über die Qualifikation der verantwort-** |  |  | 51 |
 |  |  |  | x |  |  | Typ der verantwortlichen Per- | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur Kenn- | Das Feld „Typ der verantwortlichen Person“ darf | 58 |
 |  |  |  | x |  |  | Berufsbezeichnung der verant- | 1..100 | 1..1 | Dieses Feld enthält eine Freitextangabe |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-| **50** |  | **x** |  |  |  |  | **Verantwortliche Person** |  | **0..1** | **Dieser Block enthält die Daten der ver- Der Block dient dazu, die entspre-** | **WENN** |
-| **ist und das Feld "Identifikator** |  |  |  |  | **ANSONSTEN** |  |  | **148** |  |  | **x ** |
-|  |  |  | **Qualifikation der verantwortli-** |  |  |  | **1..1** |  | **Dieser Block enthält Informationen** |  | 51 |
+| **50** |  | **x** |  |  |  |  | **Verantwortliche Person** |  | **0..1** | **Dieser Block enthält die Daten der ver- Der Block dient dazu, die entspre-** | **das Feld „Typ der ausstellenden/ verschreiben-** |
+| **ANSONSTEN WENN** |  |  |  |  | **ANSONSTEN** |  |  | **148** |  |  | **x ** |
+|  |  |  | **Qualifikation der verantwortli-** |  |  |  | **1..1** |  | **über die Qualifikation der verantwort-** |  | 51 |
 |  | **50** |  |  |  | **x** |  |  |  |  |  |  |
-|  |  | **Verantwortliche Person** |  |  |  | **0..1** |  | **Dieser Block enthält die Daten der ver-** |  | **Der Block dient dazu, die entspre-** | **WENN** |
-|  | **ist und das Feld "Identifikator** |  |  |  |  |  | **ANSONSTEN** |  |  |  | **148** |
+|  |  | **Verantwortliche Person** |  |  |  | **0..1** |  | **Dieser Block enthält die Daten der ver-** |  | **Der Block dient dazu, die entspre-** | **das Feld „Typ der ausstellenden/ verschreiben-** |
+|  | **ANSONSTEN WENN** |  |  |  |  |  | **ANSONSTEN** |  |  |  | **148** |
 |  |  |  |  | **x** |  |  |  |  |  |  |  |
-| **Qualifikation der verantwortli-** |  |  |  | **1..1** |  | **Dieser Block enthält Informationen** |  |  | 51 |  |  |
+| **Qualifikation der verantwortli-** |  |  |  | **1..1** |  | **über die Qualifikation der verantwort-** |  |  | 51 |  |  |
 | x |  | Typ der verantwortlichen Per- Kodiert | 1..1  Dieses Feld enthält einen Typ zur Kenn- | Das Feld „Typ der verantwortlichen Person“ darf 58 |  | x |  | Berufsbezeichnung der verant- 1..100 | 1..1  Dieses Feld enthält eine Freitextangabe |  |  |
 |  | **50** |  |  |  | **x** |  |  |  |  |  |  |
 |  |  |  | **Verantwortliche Person** |  |  |  | **0..1** |  | **Dieser Block enthält die Daten der ver-** |  | **Der Block dient dazu, die entspre-** |
-|  | **WENN** |  | **ist und das Feld "Identifikator** |  |  |  |  |  | **ANSONSTEN** |  |  |
+|  | **das Feld „Typ der ausstellenden/ verschreiben-** |  | **ANSONSTEN WENN** |  |  |  |  |  | **ANSONSTEN** |  |  |
 |  | **148** |  |  |  |  |  | **x** |  |  |  |  |
-|  |  |  | **Qualifikation der verantwortli-** |  |  |  | **1..1** |  | **Dieser Block enthält Informationen** |  |  |
+|  |  |  | **Qualifikation der verantwortli-** |  |  |  | **1..1** |  | **über die Qualifikation der verantwort-** |  |  |
 | 51 |  |  |  | x |  |  | Typ der verantwortlichen Per- | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur Kenn- | Das Feld „Typ der verantwortlichen Person“ darf |
 | 58 |  | x | Berufsbezeichnung der verant- | 1..100  1..1 | Dieses Feld enthält eine Freitextangabe |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -3289,10 +3287,10 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | **50** |  |  | **x** |  |  |  |  |  |  | **Verantwortliche Person** |  |
-|  |  | **0..1** |  | **Dieser Block enthält die Daten der ver-** |  | **Der Block dient dazu, die entspre-** |  | **WENN** |  | **ist und das Feld "Identifikator** |  |
+|  |  | **0..1** |  | **Dieser Block enthält die Daten der ver-** |  | **Der Block dient dazu, die entspre-** |  | **das Feld „Typ der ausstellenden/ verschreiben-** |  | **ANSONSTEN WENN** |  |
 |  |  |  | **ANSONSTEN** |  |  |  | **148** |  |  |  |  |
 
-(GRAU = BLOCK) DERH. antwortlichen Person, z.B.  des zur Weiterbildung ermächtigten Arztes (im vertrags(zahn)ärztlichen Bereich und im Krankenhaus).  chende Konstellation des Arztstem- pels abzubilden und eine Zuordnung zum verantwortlichen Ver- trags(zahn)arzt / Facharzt zu ermögli- chen. über die Qualifikation der verantwort- lichen Person. zeichnung der verantwortlichen Per- son, z.B. Arzt. zur Berufsbezeichnung, z. B. Facharzt für Allgemeinmedizin, Praktischer Arzt. das Feld „Typ der ausstellenden/ verschreiben- den Person" gleich „03“ ist und das Feld "Identifi- kator der ausstellenden/ verschreibenden Per- son“ nicht vorhanden ist und das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „01“ oder „04“ ist, DANN muss dieser Block vorhanden sein. ANSONSTEN WENN das Feld Typ der ausstellenden/ verschreibenden Person" gleich „03“ der ausstellenden/ verschreibenden Person“ vor- handen ist und das Feld „Typ der verantwortli- chen Person“ gleich „00“ oder „01“ oder „04“ ist oder das Feld „Typ der ausstellenden/ verschrei- benden Person" gleich „04“ ist und wenn das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „01“ oder „04“ ist, DANN  kann dieser Block vorhanden sein. darf dieser Block nicht vorhanden sein. nicht gleich „02“ oder „03“ sein.
+(GRAU = BLOCK) lichen Person. DERH. antwortlichen Person, z.B.  des zur Weiterbildung ermächtigten Arztes den Person" gleich „03“ ist und das Feld "Identifi- (im vertrags(zahn)ärztlichen Bereich kator der ausstellenden/ verschreibenden Per- und im Krankenhaus).  chende Konstellation des Arztstem- pels abzubilden und eine Zuordnung zum verantwortlichen Ver- trags(zahn)arzt / Facharzt zu ermögli- chen. Dieser Block enthält Informationen zeichnung der verantwortlichen Per- son, z.B. Arzt. zur Berufsbezeichnung, z. B. Facharzt für Allgemeinmedizin, Praktischer Arzt. son“ nicht vorhanden ist und das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „01“ oder „04“ ist, DANN muss dieser Block vorhanden sein. das Feld Typ der ausstellenden/ verschreibenden Person" gleich „03“ ist und das Feld "Identifikator der ausstellenden/ verschreibenden Person“ vor- handen ist und das Feld „Typ der verantwortli- chen Person“ gleich „00“ oder „01“ oder „04“ ist oder das Feld „Typ der ausstellenden/ verschrei- benden Person" gleich „04“ ist und wenn das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „01“ oder „04“ ist, DANN  kann dieser Block vorhanden sein. darf dieser Block nicht vorhanden sein. nicht gleich „02“ oder „03“ sein.
 
 ---
 
@@ -3316,47 +3314,47 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 | **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | x |  | ASV-Fachgruppennummer der  9 | 0..1  Dieses Feld enthält die ASV-Fachgrup- | WENN | ANSONSTEN | **52 ** |  | **x ** |  | **Identifikator der verantwortli-** |
-|  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **WENN** |  |  |  | **ANSONSTEN WENN** |  |
+|  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **verantwortlichen Person“ gleich „00“ oder „01“** |  |  |  | **ANSONSTEN WENN** |  |
 |  |  | **ANSONSTEN** | 52a |  |  |  | x |  |  | Arztnummer der verantwortli- | 9 |
 | 0..1 | Dieses Feld enthält als Identifikator der | WENN | ANSONSTEN |  |  |  |  |  |  |  |  |
 | 149 |  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV-Fachgrup- WENN |  |
-| ANSONSTEN | **52 ** |  | **x ** |  | **Identifikator der verantwortli-** |  | **0..1** | **Dieser Block enthält den Identifikator** | **WENN** |  | **ANSONSTEN WENN** |
+| ANSONSTEN | **52 ** |  | **x ** |  | **Identifikator der verantwortli-** |  | **0..1** | **Dieser Block enthält den Identifikator** | **verantwortlichen Person“ gleich „00“ oder „01“** |  | **ANSONSTEN WENN** |
 |  |  | **ANSONSTEN** | 52a |  |  |  | x |  |  | Arztnummer der verantwortli- | 9  0..1  Dieses Feld enthält als Identifikator der  WENN  ANSONSTEN |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 149 |  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV-Fachgrup- | WENN    ANSONSTEN **52 ** |
 |  |  | **x** |  |  |  |  | **Identifikator der verantwortli-** |  |  | **0..1** |  |
-| **Dieser Block enthält den Identifikator** |  | **WENN** |  |  |  | **ANSONSTEN WENN** |  |  |  | **ANSONSTEN** | 52a |
+| **Dieser Block enthält den Identifikator** |  | **verantwortlichen Person“ gleich „00“ oder „01“** |  |  |  | **ANSONSTEN WENN** |  |  |  | **ANSONSTEN** | 52a |
 | x |  | Arztnummer der verantwortli- 9 | 0..1  Dieses Feld enthält als Identifikator der | WENN  ANSONSTEN |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 149 |  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV-Fachgrup- | WENN    ANSONSTEN **52 ** |
-|  | **x** |  |  |  |  | **Identifikator der verantwortli-** |  |  | **0..1** |  | **Dieser Block enthält den Identifikator  WENN  ** |
+|  | **x** |  |  |  |  | **Identifikator der verantwortli-** |  |  | **0..1** |  | **Dieser Block enthält den Identifikator  verantwortlichen Person“ gleich „00“ oder „01“ ** |
 | **ANSONSTEN WENN** |  | **ANSONSTEN ** 52a |  | x |  | Arztnummer der verantwortli- 9 | 0..1  Dieses Feld enthält als Identifikator der | WENN  ANSONSTEN |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 149 |  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV-Fachgrup- | WENN |
 |  | ANSONSTEN |  | **52** |  |  |  | **x** |  |  |  |  |
-| **Identifikator der verantwortli-** |  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **WENN** |  |  |  | **ANSONSTEN WENN** |
+| **Identifikator der verantwortli-** |  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **verantwortlichen Person“ gleich „00“ oder „01“** |  |  |  | **ANSONSTEN WENN** |
 |  | **ANSONSTEN** | 52a |  | x | Arztnummer der verantwortli- | 9  0..1 | Dieses Feld enthält als Identifikator der  WENN | ANSONSTEN |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 149 |  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV-Fachgrup- | WENN |
 |  | ANSONSTEN |  | **52** |  |  |  | **x** |  |  |  |  |
-| **Identifikator der verantwortli-** |  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **WENN** |  |  |  | **ANSONSTEN WENN** |
+| **Identifikator der verantwortli-** |  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **verantwortlichen Person“ gleich „00“ oder „01“** |  |  |  | **ANSONSTEN WENN** |
 |  |  |  | **ANSONSTEN** | 52a |  |  |  | x |  |  | Arztnummer der verantwortli- |
 | 9 | 0..1 | Dieses Feld enthält als Identifikator der | WENN | ANSONSTEN |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 149 |  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV-Fachgrup- | WENN    ANSONSTEN **52 **    **x** |
-|  |  |  |  | **Identifikator der verantwortli-** |  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **WENN** |
+|  |  |  |  | **Identifikator der verantwortli-** |  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **verantwortlichen Person“ gleich „00“ oder „01“** |
 |  |  |  | **ANSONSTEN WENN** |  |  |  | **ANSONSTEN** | 52a |  |  |  |
 | x |  |  | Arztnummer der verantwortli- | 9 | 0..1 | Dieses Feld enthält als Identifikator der | WENN | ANSONSTEN |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 149 |  |  |  | x |  |  | ASV-Fachgruppennummer der | 9  0..1 | Dieses Feld enthält die ASV-Fachgrup- | WENN |  |
-| ANSONSTEN |  | **52** |  |  |  | **x** |  |  |  |  | **Identifikator der verantwortli-**  **0..1  Dieser Block enthält den Identifikator  WENN** |
+| ANSONSTEN |  | **52** |  |  |  | **x** |  |  |  |  | **Identifikator der verantwortli-**  **0..1  Dieser Block enthält den Identifikator  verantwortlichen Person“ gleich „00“ oder „01“** |
 |  |  | **ANSONSTEN WENN** |  |  |  | **ANSONSTEN** | 52a |  |  |  | x |
 |  |  | Arztnummer der verantwortli- | 9 | 0..1 | Dieses Feld enthält als Identifikator der | WENN | ANSONSTEN |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -3364,45 +3362,45 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 149 |  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV-Fachgrup- | WENN |
 |  | ANSONSTEN |  | **52** |  |  |  | **x** |  |  |  |  |
-| **Identifikator der verantwortli-** |  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **WENN** |  |  |  | **ANSONSTEN WENN ** |
+| **Identifikator der verantwortli-** |  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **verantwortlichen Person“ gleich „00“ oder „01“** |  |  |  | **ANSONSTEN WENN ** |
 | **ANSONSTEN** | 52a |  |  | x |  |  | Arztnummer der verantwortli- 9 | 0..1 | Dieses Feld enthält als Identifikator der  WENN | ANSONSTEN |  |
 | 149 |  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV-Fachgrup- | WENN    ANSONSTEN |
 |  | **52** |  |  |  | **x** |  |  |  |  | **Identifikator der verantwortli-** | **0..1** |
-|  | **Dieser Block enthält den Identifikator** |  | **WENN** |  |  |  | **ANSONSTEN WENN** |  |  |  | **ANSONSTEN** |
+|  | **Dieser Block enthält den Identifikator** |  | **verantwortlichen Person“ gleich „00“ oder „01“** |  |  |  | **ANSONSTEN WENN** |  |  |  | **ANSONSTEN** |
 | 52a |  |  |  | x |  |  | Arztnummer der verantwortli- | 9 | 0..1 | Dieses Feld enthält als Identifikator der | WENN  ANSONSTEN |
 | 149 |  | x | ASV-Fachgruppennummer der | 9  0..1 | Dieses Feld enthält die ASV-Fachgrup- WENN | ANSONSTEN | **52** |  | **x** |  |  |
-| **Identifikator der verantwortli-** |  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **WENN** |  |  |  | **ANSONSTEN WENN** |
+| **Identifikator der verantwortli-** |  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **verantwortlichen Person“ gleich „00“ oder „01“** |  |  |  | **ANSONSTEN WENN** |
 |  |  |  | **ANSONSTEN** | 52a |  |  |  | x |  |  | Arztnummer der verantwortli- |
 | 9 | 0..1 | Dieses Feld enthält als Identifikator der | WENN | ANSONSTEN |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-| 149 |  | x | ASV-Fachgruppennummer der | 9  0..1 | Dieses Feld enthält die ASV-Fachgrup- WENN | ANSONSTEN | **52** |  | **x** |  | **Identifikator der verantwortli-**  **0..1  Dieser Block enthält den Identifikator  WENN  **  **ANSONSTEN WENN** |
+| 149 |  | x | ASV-Fachgruppennummer der | 9  0..1 | Dieses Feld enthält die ASV-Fachgrup- WENN | ANSONSTEN | **52** |  | **x** |  | **Identifikator der verantwortli-**  **0..1  Dieser Block enthält den Identifikator  verantwortlichen Person“ gleich „00“ oder „01“ **  **ANSONSTEN WENN** |
 |  | **ANSONSTEN** | 52a |  | x | Arztnummer der verantwortli- | 9  0..1 | Dieses Feld enthält als Identifikator der  WENN | ANSONSTEN |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 149 |  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV-Fachgrup- | WENN    ANSONSTEN |
-| **52** |  |  | **x** |  |  |  | **Identifikator der verantwortli-** |  | **0..1** | **Dieser Block enthält den Identifikator** | **WENN  **  **ANSONSTEN WENN **  **ANSONSTEN** |
+| **52** |  |  | **x** |  |  |  | **Identifikator der verantwortli-** |  | **0..1** | **Dieser Block enthält den Identifikator** | **verantwortlichen Person“ gleich „00“ oder „01“ **  **ANSONSTEN WENN **  **ANSONSTEN** |
 | 52a |  |  |  | x |  |  | Arztnummer der verantwortli- | 9 | 0..1 | Dieses Feld enthält als Identifikator der | WENN  ANSONSTEN |
 | 149 |  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV-Fachgrup- | WENN |
 | ANSONSTEN |  | **52** |  |  |  | **x** |  |  |  |  | **Identifikator der verantwortli-** |
-|  | **0..1** | **Dieser Block enthält den Identifikator** | **WENN** |  | **ANSONSTEN WENN** |  | **ANSONSTEN ** 52a |  | x |  | Arztnummer der verantwortli- 9 |
+|  | **0..1** | **Dieser Block enthält den Identifikator** | **verantwortlichen Person“ gleich „00“ oder „01“** |  | **ANSONSTEN WENN** |  | **ANSONSTEN ** 52a |  | x |  | Arztnummer der verantwortli- 9 |
 | 0..1 | Dieses Feld enthält als Identifikator der | WENN | ANSONSTEN |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 149 |  | x | ASV-Fachgruppennummer der | 9  0..1 | Dieses Feld enthält die ASV-Fachgrup- WENN | ANSONSTEN | **52** |  | **x** |  | **Identifikator der verantwortli-** |
-| **0..1** |  | **Dieser Block enthält den Identifikator** | **WENN** |  |  |  | **ANSONSTEN WENN** |  | **ANSONSTEN** | 52a | x      Arztnummer der verantwortli- |
+| **0..1** |  | **Dieser Block enthält den Identifikator** | **verantwortlichen Person“ gleich „00“ oder „01“** |  |  |  | **ANSONSTEN WENN** |  | **ANSONSTEN** | 52a | x      Arztnummer der verantwortli- |
 | 9 | 0..1 | Dieses Feld enthält als Identifikator der | WENN | ANSONSTEN |  |  |  |  |  |  |  |
 | 149 |  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV-Fachgrup- | WENN |
 | ANSONSTEN |  | **52** |  |  |  | **x** |  |  |  |  | **Identifikator der verantwortli-** |
-|  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **WENN** |  |  |  | **ANSONSTEN WENN** |  |  |
+|  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **verantwortlichen Person“ gleich „00“ oder „01“** |  |  |  | **ANSONSTEN WENN** |  |  |
 | **ANSONSTEN** | 52a |  |  |  | x |  |  | Arztnummer der verantwortli- | 9 | 0..1 | Dieses Feld enthält als Identifikator der |
 | WENN | ANSONSTEN |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 149 |  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV-Fachgrup- | WENN |
 |  | ANSONSTEN |  | **52** |  |  |  | **x** |  |  |  |  |
-| **Identifikator der verantwortli-** |  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **WENN** |  |  |  | **ANSONSTEN WENN** |
+| **Identifikator der verantwortli-** |  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **verantwortlichen Person“ gleich „00“ oder „01“** |  |  |  | **ANSONSTEN WENN** |
 |  |  |  | **ANSONSTEN** | 52a |  |  |  | x |  |  | Arztnummer der verantwortli- |
 | 9 | 0..1 | Dieses Feld enthält als Identifikator der | WENN | ANSONSTEN |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -3416,9 +3414,9 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 149 |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1  Dieses Feld enthält die ASV-Fachgrup- | WENN | ANSONSTEN | **52** |  |
 |  |  | **x** |  |  |  |  | **Identifikator der verantwortli-** |  |  | **0..1** | **Dieser Block enthält den Identifikator** |
-|  | **WENN** |  |  |  | **ANSONSTEN WENN** |  |  |  | **ANSONSTEN** | 52a |  |
+|  | **verantwortlichen Person“ gleich „00“ oder „01“** |  |  |  | **ANSONSTEN WENN** |  |  |  | **ANSONSTEN** | 52a |  |
 
-(GRAU = BLOCK) verantwortlichen Person chen Person chen Person DERH. pennummer gemäß der ASV Vereinba- rung (ASV-AV) §9 Absatz 5. Diese ist ge- mäß der ASV-AV von Krankenhausärz- ten an Stelle der Arztnummer anzuge- ben. der Person, z.B. eine Arztnummer oder Zahnarztnummer und kann zu- sätzlich eine Telematik-ID enthalten. Person eine Arztnummer (Lebenslange Arztnummer LANR). das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „04“ und das Feld „Kennzeichen Rechts- grundlage“ gleich „01“ oder „11“ ist und der Block „Identifikator der verantwortlichen Person“ nicht vorhanden ist, DANN darf dieses Feld vorhanden sein. darf dieses Feld nicht angegeben werden. das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" und das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „01“ oder „04“ ist und das Feld „ASV -Fachgruppen- nummer der verantwortlichen Person“ nicht vor- handen ist, DANN ist dieses Feld Pflicht. das Feld „ASV -Fachgruppennummer der verant- wortlichen Person“ vorhanden ist, DANN darf dieses Feld nicht angegeben werden. ist dieses Feld optional. das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „04“ ist, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden.
+(GRAU = BLOCK) DERH. pennummer gemäß der ASV Vereinba- rung (ASV-AV) §9 Absatz 5. Diese ist ge- mäß der ASV-AV von Krankenhausärz- ten an Stelle der Arztnummer anzuge- ben. der Person, z.B. eine Arztnummer oder Zahnarztnummer und kann zu- sätzlich eine Telematik-ID enthalten. oder „04“ ist und das Feld „ASV -Fachgruppen- Person eine Arztnummer (Lebenslange Arztnummer LANR). das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „04“ und das Feld „Kennzeichen Rechts- grundlage“ gleich „01“ oder „11“ ist und der Block „Identifikator der verantwortlichen Person“ nicht vorhanden ist, DANN darf dieses Feld vorhanden sein. darf dieses Feld nicht angegeben werden. das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" und das Feld „Typ der nummer der verantwortlichen Person“ nicht vor- handen ist, DANN ist dieses Feld Pflicht. das Feld „ASV -Fachgruppennummer der verant- wortlichen Person“ vorhanden ist, DANN darf dieses Feld nicht angegeben werden. ist dieses Feld optional. das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „04“ ist, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden.
 
 ---
 
@@ -3441,98 +3439,98 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 \| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
 | **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|  | x |  | Zahnarztnummer der verant- 9 | 0..1  Dieses Feld enthält als Identifikator der | „01“ ist, ANSONSTEN | 52c |  | x | Telematik-ID der verantwortli- | 1..128  0..1 | Dieses Feld enthält als Identifikator der |
+|  | x |  | Zahnarztnummer der verant- 9 | 0..1  Dieses Feld enthält als Identifikator der | WENN  ANSONSTEN | 52c |  | x | Telematik-ID der verantwortli- | 1..128  0..1 | Dieses Feld enthält als Identifikator der |
 |  | **142** |  |  |  |  |  | **x** |  |  |  |  |
 |  |  |  | **Name der verantwortlichen** |  |  |  | **1..1** |  | **Dieser Block enthält den Namen der** |  |  |
-| 53 |  |  |  | x |  |  | Vorname der verantwortlichen | 1..45 | 1..1 | mehrere Vornamen sind durch Blank    54 |  |
-| 52b |  |  |  | x |  |  | Zahnarztnummer der verant- | 9 | 0..1 | Dieses Feld enthält als Identifikator der  „01“ ist, | ANSONSTEN |
+| 53 |  |  |  | x |  |  | Vorname der verantwortlichen | 1..45 | 1..1 | Dieses Feld enthält den Vornamen der    54 |  |
+| 52b |  |  |  | x |  |  | Zahnarztnummer der verant- | 9 | 0..1 | Dieses Feld enthält als Identifikator der  WENN | ANSONSTEN |
 | 52c |  | x | Telematik-ID der verantwortli- | 1..128  0..1 | Dieses Feld enthält als Identifikator der | **142** |  |  | **x** |  |  |
 |  |  |  | **Name der verantwortlichen** |  |  |  | **1..1** |  | **Dieser Block enthält den Namen der** |  | 53        x |
-| Vorname der verantwortlichen  1..45 | 1..1  mehrere Vornamen sind durch Blank | 54 |  | x |  | Nachname der verantwortlichen  1..45 | 1..1  Dieses Feld enthält den Familiennamen | 55 |  | x |  |
-| Titel der verantwortlichen Per- | 1..100 | 0..1 | rer. nat.“. |  | 56 |  |  |  | x |  | Namenszusatz der verantwortli- 1..20  0..1  Dieses Feld enthält den Namenszusatz    57 |
-| 52b |  |  |  | x |  |  | Zahnarztnummer der verant- | 9 | 0..1 | Dieses Feld enthält als Identifikator der | „01“ ist, ANSONSTEN  52c |
+| Vorname der verantwortlichen  1..45 | 1..1  Dieses Feld enthält den Vornamen der | 54 |  | x |  | Nachname der verantwortlichen  1..45 | 1..1  Dieses Feld enthält den Familiennamen | 55 |  | x |  |
+| Titel der verantwortlichen Per- | 1..100 | 0..1 | Dieses Feld enthält den akademischen |  | 56 |  |  |  | x |  | Namenszusatz der verantwortli- 1..20  0..1  Dieses Feld enthält den Namenszusatz    57 |
+| 52b |  |  |  | x |  |  | Zahnarztnummer der verant- | 9 | 0..1 | Dieses Feld enthält als Identifikator der | WENN  ANSONSTEN  52c |
 | x |  |  | Telematik-ID der verantwortli- | 1..128 | 0..1 | Dieses Feld enthält als Identifikator der |  |  | **142** |  |  |
 |  |  |  | **x** |  |  |  |  |  |  |  | **Name der verantwortlichen ** |
-| **1..1** | **Dieser Block enthält den Namen der** |  | 53 |  | x | Vorname der verantwortlichen | 1..45  1..1 | mehrere Vornamen sind durch Blank | 54 |  | x |
-|  | Nachname der verantwortlichen | 1..45 | 1..1 | Dieses Feld enthält den Familiennamen |  | 55 |  |  |  | x | Titel der verantwortlichen Per- 1..100  0..1  rer. nat.“. |
-| 52b |  |  |  | x |  |  | Zahnarztnummer der verant- | 9 | 0..1 | Dieses Feld enthält als Identifikator der | „01“ ist, ANSONSTEN  52c        x |
+| **1..1** | **Dieser Block enthält den Namen der** |  | 53 |  | x | Vorname der verantwortlichen | 1..45  1..1 | Dieses Feld enthält den Vornamen der | 54 |  | x |
+|  | Nachname der verantwortlichen | 1..45 | 1..1 | Dieses Feld enthält den Familiennamen |  | 55 |  |  |  | x | Titel der verantwortlichen Per- 1..100  0..1  Dieses Feld enthält den akademischen |
+| 52b |  |  |  | x |  |  | Zahnarztnummer der verant- | 9 | 0..1 | Dieses Feld enthält als Identifikator der | WENN  ANSONSTEN  52c        x |
 |  |  | Telematik-ID der verantwortli- | 1..128 | 0..1 | Dieses Feld enthält als Identifikator der |  |  | **142** |  |  | **x ** |
-|  |  | **Name der verantwortlichen** |  | **1..1** | **Dieser Block enthält den Namen der** |  | 53 |  | x | Vorname der verantwortlichen | 1..45  1..1  mehrere Vornamen sind durch Blank    54        x      Nachname der verantwortlichen |
+|  |  | **Name der verantwortlichen** |  | **1..1** | **Dieser Block enthält den Namen der** |  | 53 |  | x | Vorname der verantwortlichen | 1..45  1..1  Dieses Feld enthält den Vornamen der    54        x      Nachname der verantwortlichen |
 | 1..45 | 1..1 | Dieses Feld enthält den Familiennamen |  | 55 |  |  |  | x |  |  | Titel der verantwortlichen Per- |
-| 1..100 | 0..1 | rer. nat.“. |  | 56 |  |  |  | x |  |  | Namenszusatz der verantwortli- |
-| 52b |  |  |  | x |  |  | Zahnarztnummer der verant- | 9 | 0..1 | Dieses Feld enthält als Identifikator der | „01“ ist, |
+| 1..100 | 0..1 | Dieses Feld enthält den akademischen |  | 56 |  |  |  | x |  |  | Namenszusatz der verantwortli- |
+| 52b |  |  |  | x |  |  | Zahnarztnummer der verant- | 9 | 0..1 | Dieses Feld enthält als Identifikator der | WENN |
 | ANSONSTEN | 52c |  |  |  | x |  |  | Telematik-ID der verantwortli- | 1..128 | 0..1 | Dieses Feld enthält als Identifikator der |
 |  |  | **142** |  |  |  |  |  | **x** |  |  |  |
 |  |  | **Name der verantwortlichen** |  | **1..1** | **Dieser Block enthält den Namen der** | 53 |  | x |  | Vorname der verantwortlichen  1..45 | 1..1 |
-| mehrere Vornamen sind durch Blank | 54 |  | x | Nachname der verantwortlichen | 1..45  1..1 | Dieses Feld enthält den Familiennamen | 55 |  | x | Titel der verantwortlichen Per- | 1..100  0..1  rer. nat.“.   56        x      Namenszusatz der verantwortli- |
+| Dieses Feld enthält den Vornamen der | 54 |  | x | Nachname der verantwortlichen | 1..45  1..1 | Dieses Feld enthält den Familiennamen | 55 |  | x | Titel der verantwortlichen Per- | 1..100  0..1  Dieses Feld enthält den akademischen    56        x      Namenszusatz der verantwortli- |
 | 1..20 | 0..1 | Dieses Feld enthält den Namenszusatz |  | 57 |  |  |  | x |  |  | Vorsatzwort der verantwortli- |
 | 1..20  0..1 | Dieses Feld enthält das Vorsatzwort als |  |  |  |  |  |  |  |  |  |  |
-| 52b |  |  |  | x |  |  | Zahnarztnummer der verant- | 9 | 0..1 | Dieses Feld enthält als Identifikator der | „01“ ist, |
+| 52b |  |  |  | x |  |  | Zahnarztnummer der verant- | 9 | 0..1 | Dieses Feld enthält als Identifikator der | WENN |
 | ANSONSTEN | 52c |  |  |  | x |  |  | Telematik-ID der verantwortli- | 1..128 | 0..1 | Dieses Feld enthält als Identifikator der |
 |  |  | **142** |  |  |  |  |  | **x** |  |  |  |
 |  |  |  |  | **Name der verantwortlichen** |  |  |  | **1..1** |  | **Dieser Block enthält den Namen der** |  |
-|  | 53 |  |  |  | x |  |  | Vorname der verantwortlichen | 1..45 | 1..1 | mehrere Vornamen sind durch Blank |
+|  | 53 |  |  |  | x |  |  | Vorname der verantwortlichen | 1..45 | 1..1 | Dieses Feld enthält den Vornamen der |
 |  | 54 |  |  |  | x |  |  | Nachname der verantwortlichen | 1..45 | 1..1 | Dieses Feld enthält den Familiennamen |
-| 55 |  | x |  | Titel der verantwortlichen Per- 1..100 | 0..1  rer. nat.“. | 56 |  | x |  | Namenszusatz der verantwortli- 1..20 | 0..1  Dieses Feld enthält den Namenszusatz    57 |
+| 55 |  | x |  | Titel der verantwortlichen Per- 1..100 | 0..1  Dieses Feld enthält den akademischen | 56 |  | x |  | Namenszusatz der verantwortli- 1..20 | 0..1  Dieses Feld enthält den Namenszusatz    57 |
 |  |  |  | x |  |  | Vorsatzwort der verantwortli- | 1..20 | 0..1  Dieses Feld enthält das Vorsatzwort als |  |  |  |
-| 52b |  |  |  | x |  |  | Zahnarztnummer der verant- | 9 | 0..1 | Dieses Feld enthält als Identifikator der | „01“ ist, ANSONSTEN  52c        x |
+| 52b |  |  |  | x |  |  | Zahnarztnummer der verant- | 9 | 0..1 | Dieses Feld enthält als Identifikator der | WENN  ANSONSTEN  52c        x |
 | Telematik-ID der verantwortli- | 1..128 | 0..1 | Dieses Feld enthält als Identifikator der |  |  | **142** |  |  |  |  |  |
 | **x** |  |  |  |  |  |  |  | **Name der verantwortlichen** |  |  |  |
 | **1..1** |  | **Dieser Block enthält den Namen der** |  |  | 53 |  |  |  | x |  |  |
-| Vorname der verantwortlichen | 1..45 | 1..1 | mehrere Vornamen sind durch Blank |  | 54 |  |  |  | x |  |  |
-| Nachname der verantwortlichen  1..45 | 1..1  Dieses Feld enthält den Familiennamen | 55 |  | x |  | Titel der verantwortlichen Per- 1..100 | 0..1  rer. nat.“. | 56 |  | x | Namenszusatz der verantwortli- 1..20 |
-| 52b |  |  |  | x |  |  | Zahnarztnummer der verant- | 9  0..1 | Dieses Feld enthält als Identifikator der | „01“ ist, | ANSONSTEN |
+| Vorname der verantwortlichen | 1..45 | 1..1 | Dieses Feld enthält den Vornamen der |  | 54 |  |  |  | x |  |  |
+| Nachname der verantwortlichen  1..45 | 1..1  Dieses Feld enthält den Familiennamen | 55 |  | x |  | Titel der verantwortlichen Per- 1..100 | 0..1  Dieses Feld enthält den akademischen | 56 |  | x | Namenszusatz der verantwortli- 1..20 |
+| 52b |  |  |  | x |  |  | Zahnarztnummer der verant- | 9  0..1 | Dieses Feld enthält als Identifikator der | WENN | ANSONSTEN |
 | 52c |  |  |  | x |  |  | Telematik-ID der verantwortli- | 1..128 | 0..1 | Dieses Feld enthält als Identifikator der | **142 **    **x** |
 |  |  |  |  |  |  |  | **Name der verantwortlichen** |  |  |  | **1..1** |
 |  | **Dieser Block enthält den Namen der** |  |  | 53 |  |  |  | x |  |  | Vorname der verantwortlichen |
-| 1..45  1..1 | mehrere Vornamen sind durch Blank | 54 |  | x | Nachname der verantwortlichen | 1..45  1..1 | Dieses Feld enthält den Familiennamen | 55 |  | x | Titel der verantwortlichen Per- |
-| 1..100  0..1 | rer. nat.“. | 56 |  | x | Namenszusatz der verantwortli- | 1..20  0..1 | Dieses Feld enthält den Namenszusatz | 57 |  | x | Vorsatzwort der verantwortli- |
+| 1..45  1..1 | Dieses Feld enthält den Vornamen der | 54 |  | x | Nachname der verantwortlichen | 1..45  1..1 | Dieses Feld enthält den Familiennamen | 55 |  | x | Titel der verantwortlichen Per- |
+| 1..100  0..1 | Dieses Feld enthält den akademischen | 56 |  | x | Namenszusatz der verantwortli- | 1..20  0..1 | Dieses Feld enthält den Namenszusatz | 57 |  | x | Vorsatzwort der verantwortli- |
 | 1..20  0..1 | Dieses Feld enthält das Vorsatzwort als |  |  |  |  |  |  |  |  |  |  |
-| 52b |  |  |  | x |  |  | Zahnarztnummer der verant- | 9 | 0..1 | Dieses Feld enthält als Identifikator der | „01“ ist, |
+| 52b |  |  |  | x |  |  | Zahnarztnummer der verant- | 9 | 0..1 | Dieses Feld enthält als Identifikator der | WENN |
 | ANSONSTEN | 52c |  |  |  | x |  |  | Telematik-ID der verantwortli- | 1..128 | 0..1 | Dieses Feld enthält als Identifikator der |
 |  |  | **142** |  |  |  |  |  | **x** |  |  |  |
-|  | **Name der verantwortlichen** |  |  | **1..1** |  | **Dieser Block enthält den Namen der** |  | 53 |  | x | Vorname der verantwortlichen  1..45  1..1  mehrere Vornamen sind durch Blank    54 |
-| 52b |  |  |  | x |  |  | Zahnarztnummer der verant- | 9 | 0..1 | Dieses Feld enthält als Identifikator der | „01“ ist, ANSONSTEN  52c |
+|  | **Name der verantwortlichen** |  |  | **1..1** |  | **Dieser Block enthält den Namen der** |  | 53 |  | x | Vorname der verantwortlichen  1..45  1..1  Dieses Feld enthält den Vornamen der    54 |
+| 52b |  |  |  | x |  |  | Zahnarztnummer der verant- | 9 | 0..1 | Dieses Feld enthält als Identifikator der | WENN  ANSONSTEN  52c |
 |  |  |  | x |  |  | Telematik-ID der verantwortli- | 1..128 | 0..1 | Dieses Feld enthält als Identifikator der |  | **142** |
 |  |  |  |  | **x** |  |  |  |  |  |  |  |
 | **Name der verantwortlichen** |  |  |  | **1..1** |  | **Dieser Block enthält den Namen der** |  |  | 53 |  |  |
-| 52b |  | x | Zahnarztnummer der verant- | 9  0..1 | Dieses Feld enthält als Identifikator der  „01“ ist, | ANSONSTEN  52c |  | x |  | Telematik-ID der verantwortli- 1..128 | 0..1  Dieses Feld enthält als Identifikator der |
+| 52b |  | x | Zahnarztnummer der verant- | 9  0..1 | Dieses Feld enthält als Identifikator der  WENN | ANSONSTEN  52c |  | x |  | Telematik-ID der verantwortli- 1..128 | 0..1  Dieses Feld enthält als Identifikator der |
 |  |  | **142** |  |  |  |  |  | **x** |  |  |  |
 |  |  |  |  | **Name der verantwortlichen** |  |  |  | **1..1** |  | **Dieser Block enthält den Namen der** |  |
-|  | 53 |  |  |  | x |  |  | Vorname der verantwortlichen | 1..45 | 1..1 | mehrere Vornamen sind durch Blank |
+|  | 53 |  |  |  | x |  |  | Vorname der verantwortlichen | 1..45 | 1..1 | Dieses Feld enthält den Vornamen der |
 |  | 54 |  |  |  | x |  |  | Nachname der verantwortlichen | 1..45 | 1..1 | Dieses Feld enthält den Familiennamen |
-|  | 55 |  |  |  | x |  |  | Titel der verantwortlichen Per- | 1..100 | 0..1 | rer. nat.“. |
-| 52b |  | x | Zahnarztnummer der verant- | 9  0..1 | Dieses Feld enthält als Identifikator der  „01“ ist, | ANSONSTEN  52c |  | x |  | Telematik-ID der verantwortli- 1..128  0..1  Dieses Feld enthält als Identifikator der | **142 **    **x ** |
-|  |  | **Name der verantwortlichen** |  | **1..1** | **Dieser Block enthält den Namen der** | 53 |  | x |  | Vorname der verantwortlichen  1..45 | 1..1  mehrere Vornamen sind durch Blank |
+|  | 55 |  |  |  | x |  |  | Titel der verantwortlichen Per- | 1..100 | 0..1 | Dieses Feld enthält den akademischen |
+| 52b |  | x | Zahnarztnummer der verant- | 9  0..1 | Dieses Feld enthält als Identifikator der  WENN | ANSONSTEN  52c |  | x |  | Telematik-ID der verantwortli- 1..128  0..1  Dieses Feld enthält als Identifikator der | **142 **    **x ** |
+|  |  | **Name der verantwortlichen** |  | **1..1** | **Dieser Block enthält den Namen der** | 53 |  | x |  | Vorname der verantwortlichen  1..45 | 1..1  Dieses Feld enthält den Vornamen der |
 |  | 54 |  |  |  | x |  |  | Nachname der verantwortlichen | 1..45 | 1..1 | Dieses Feld enthält den Familiennamen |
-|  | 55 |  |  |  | x |  |  | Titel der verantwortlichen Per- | 1..100 | 0..1 | rer. nat.“. |
-| 52b |  |  |  | x |  |  | Zahnarztnummer der verant- | 9 | 0..1 | Dieses Feld enthält als Identifikator der | „01“ ist, ANSONSTEN  52c |
+|  | 55 |  |  |  | x |  |  | Titel der verantwortlichen Per- | 1..100 | 0..1 | Dieses Feld enthält den akademischen |
+| 52b |  |  |  | x |  |  | Zahnarztnummer der verant- | 9 | 0..1 | Dieses Feld enthält als Identifikator der | WENN  ANSONSTEN  52c |
 |  |  | x |  | Telematik-ID der verantwortli- | 1..128 | 0..1 | Dieses Feld enthält als Identifikator der |  | **142** |  | **x ** |
 | **Name der verantwortlichen** |  |  |  | **1..1** |  | **Dieser Block enthält den Namen der** |  |  | 53 |  |  |
-| 52b |  |  |  | x |  |  | Zahnarztnummer der verant- | 9 | 0..1 | Dieses Feld enthält als Identifikator der | „01“ ist, ANSONSTEN |
+| 52b |  |  |  | x |  |  | Zahnarztnummer der verant- | 9 | 0..1 | Dieses Feld enthält als Identifikator der | WENN  ANSONSTEN |
 | 52c |  |  |  | x |  |  | Telematik-ID der verantwortli- | 1..128 | 0..1 | Dieses Feld enthält als Identifikator der |  |
 | **142** |  |  | **x** |  |  |  | **Name der verantwortlichen** |  | **1..1** | **Dieser Block enthält den Namen der** |  |
-| 53 |  |  |  | x |  |  | Vorname der verantwortlichen | 1..45 | 1..1 | mehrere Vornamen sind durch Blank |  |
+| 53 |  |  |  | x |  |  | Vorname der verantwortlichen | 1..45 | 1..1 | Dieses Feld enthält den Vornamen der |  |
 | 54 |  |  |  | x |  |  | Nachname der verantwortlichen | 1..45 | 1..1 | Dieses Feld enthält den Familiennamen |  |
-| 55 |  |  |  | x |  |  | Titel der verantwortlichen Per- | 1..100 | 0..1 | rer. nat.“. |  |
+| 55 |  |  |  | x |  |  | Titel der verantwortlichen Per- | 1..100 | 0..1 | Dieses Feld enthält den akademischen |  |
 | 56 |  |  |  | x |  |  | Namenszusatz der verantwortli- | 1..20 | 0..1 | Dieses Feld enthält den Namenszusatz |  |
 | 57 |  |  |  | x |  |  | Vorsatzwort der verantwortli- | 1..20 | 0..1 | Dieses Feld enthält das Vorsatzwort als |  |
-| 52b |  | x | Zahnarztnummer der verant- | 9  0..1 | Dieses Feld enthält als Identifikator der  „01“ ist, | ANSONSTEN  52c |  | x |  | Telematik-ID der verantwortli- 1..128  0..1  Dieses Feld enthält als Identifikator der |  |
+| 52b |  | x | Zahnarztnummer der verant- | 9  0..1 | Dieses Feld enthält als Identifikator der  WENN | ANSONSTEN  52c |  | x |  | Telematik-ID der verantwortli- 1..128  0..1  Dieses Feld enthält als Identifikator der |  |
 | **142** |  |  |  | **x** |  |  |  |  |  | **Name der verantwortlichen** | **1..1  Dieser Block enthält den Namen der** |
-|  | 53 |  |  |  | x |  |  | Vorname der verantwortlichen | 1..45 | 1..1 | mehrere Vornamen sind durch Blank |
-| 52b |  |  |  | x |  |  | Zahnarztnummer der verant- | 9 | 0..1 | Dieses Feld enthält als Identifikator der | „01“ ist, ANSONSTEN |
+|  | 53 |  |  |  | x |  |  | Vorname der verantwortlichen | 1..45 | 1..1 | Dieses Feld enthält den Vornamen der |
+| 52b |  |  |  | x |  |  | Zahnarztnummer der verant- | 9 | 0..1 | Dieses Feld enthält als Identifikator der | WENN  ANSONSTEN |
 | 52c |  |  |  | x |  |  | Telematik-ID der verantwortli- | 1..128 | 0..1 | Dieses Feld enthält als Identifikator der |  |
 | **142** |  |  |  |  |  | **x** |  |  |  |  |  |
 |  | **Name der verantwortlichen** |  |  |  | **1..1** |  | **Dieser Block enthält den Namen der** |  |  | 53 |  |
-|  |  | x |  |  | Vorname der verantwortlichen | 1..45 | 1..1 | mehrere Vornamen sind durch Blank |  | 54 |  |
-|  | x | Nachname der verantwortlichen | 1..45  1..1 | Dieses Feld enthält den Familiennamen | 55 |  | x | Titel der verantwortlichen Per- | 1..100  0..1 | rer. nat.“. | 56 |
-| 52b |  |  |  | x |  |  | Zahnarztnummer der verant- | 9 | 0..1 | Dieses Feld enthält als Identifikator der | „01“ ist, |
+|  |  | x |  |  | Vorname der verantwortlichen | 1..45 | 1..1 | Dieses Feld enthält den Vornamen der |  | 54 |  |
+|  | x | Nachname der verantwortlichen | 1..45  1..1 | Dieses Feld enthält den Familiennamen | 55 |  | x | Titel der verantwortlichen Per- | 1..100  0..1 | Dieses Feld enthält den akademischen | 56 |
+| 52b |  |  |  | x |  |  | Zahnarztnummer der verant- | 9 | 0..1 | Dieses Feld enthält als Identifikator der | WENN |
 | ANSONSTEN | 52c |  |  |  | x |  |  | Telematik-ID der verantwortli- | 1..128 | 0..1 | Dieses Feld enthält als Identifikator der |
 |  |  | **142** |  |  |  |  |  | **x** |  |  |  |
 |  |  |  |  | **Name der verantwortlichen** |  |  |  | **1..1** |  | **Dieser Block enthält den Namen der** |  |
-|  | 53 |  |  |  | x |  |  | Vorname der verantwortlichen | 1..45 | 1..1 | mehrere Vornamen sind durch Blank |
+|  | 53 |  |  |  | x |  |  | Vorname der verantwortlichen | 1..45 | 1..1 | Dieses Feld enthält den Vornamen der |
 |  | 54 |  |  |  | x |  |  | Nachname der verantwortlichen | 1..45 | 1..1 | Dieses Feld enthält den Familiennamen |
-| 55 |  | x |  | Titel der verantwortlichen Per- 1..100 | 0..1  rer. nat.“. | 56 |  | x |  | Namenszusatz der verantwortli- 1..20 | 0..1  Dieses Feld enthält den Namenszusatz |
+| 55 |  | x |  | Titel der verantwortlichen Per- 1..100 | 0..1  Dieses Feld enthält den akademischen | 56 |  | x |  | Namenszusatz der verantwortli- 1..20 | 0..1  Dieses Feld enthält den Namenszusatz |
 |  | 57 |  |  |  | x |  |  | Vorsatzwort der verantwortli- | 1..20 | 0..1 | Dieses Feld enthält das Vorsatzwort als |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -3540,11 +3538,11 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-| 52b |  | x |  |  | Zahnarztnummer der verant- | 9 | 0..1  Dieses Feld enthält als Identifikator der | „01“ ist, | ANSONSTEN  52c |  |  |
+| 52b |  | x |  |  | Zahnarztnummer der verant- | 9 | 0..1  Dieses Feld enthält als Identifikator der | WENN | ANSONSTEN  52c |  |  |
 | x |  |  | Telematik-ID der verantwortli- | 1..128 | 0..1 | Dieses Feld enthält als Identifikator der |  |  | **142** |  |  |
 |  |  | **x** |  |  |  |  |  |  |  | **Name der verantwortlichen** |  |
 
-(GRAU = BLOCK) wortlichen Person chen Person Person Person Person son chen Person chen Person DERH. Person eine Zahnarztnummer (ZANR). WENN das Feld „Typ der verantwortlichen Person“ gleich DANN Person eine Telematik-ID. Person. Dieses Feld enthält den Vornamen der Person; oder Bindestrich getrennt. der Person. Dieses Feld enthält den akademischen Grad der Person, z.B. „Dr. med.“, „Dr. als Bestandteil des Nachnamens der Person, z.B. „von“, „von der“, „zu“; mehrere Namenszusätze sind durch Blank getrennt. Bestandteil des Nachnamens der Per- son; mehrere Vorsatzwörter sind durch Blank getrennt. ist dieses Feld Pflicht  darf dieses Feld nicht angegeben werden.
+(GRAU = BLOCK) DERH. wortlichen Person Person eine Zahnarztnummer (ZANR). das Feld „Typ der verantwortlichen Person“ gleich „01“ ist, DANN ist dieses Feld Pflicht  darf dieses Feld nicht angegeben werden. chen Person Person eine Telematik-ID. Person Person. Person Person; mehrere Vornamen sind durch Blank oder Bindestrich getrennt. Person der Person. son Grad der Person, z.B. „Dr. med.“, „Dr. rer. nat.“. chen Person als Bestandteil des Nachnamens der Person, z.B. „von“, „von der“, „zu“; mehrere Namenszusätze sind durch Blank getrennt. chen Person Bestandteil des Nachnamens der Per- son; mehrere Vorsatzwörter sind durch Blank getrennt.
 
 ---
 
@@ -3693,33 +3691,33 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 \| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
 | **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|  | x |  | IK-Nummer  9 | 0..1  kennzeichen (IK), welches von der | WENN  ANSONSTEN | 61c |  | x | KZV-Abrechnungsnummer | 9  0..1 | Dieses Feld enthält eine Abrechnungs- WENN |
+|  | x |  | IK-Nummer  9 | 0..1  Dieses Feld enthält ein Institutions- | WENN  ANSONSTEN | 61c |  | x | KZV-Abrechnungsnummer | 9  0..1 | Dieses Feld enthält eine Abrechnungs- WENN |
 | ANSONSTEN | 61d |  |  |  | x |  |  | Standortnummer | 9 | 0..1 | Dieses Feld enthält eine Standortnum- |
 | WENN | ANSONSTEN | 61e |  |  |  | x |  |  | Telematik-ID der Einrichtung | 1..128 | 0..1 |
 | Dieses Feld enthält eine Telematik-ID |  | 62 |  |  | x |  |  |  | Name der Einrichtung | 1..60  0..1  Dieses Feld enthält die Bezeichnung |  |
-| 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | kennzeichen (IK), welches von der  WENN | ANSONSTEN |
+| 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | Dieses Feld enthält ein Institutions- WENN | ANSONSTEN |
 | 61c |  | x | KZV-Abrechnungsnummer | 9  0..1 | Dieses Feld enthält eine Abrechnungs- WENN | ANSONSTEN  61d |  | x |  | Standortnummer  9 | 0..1  Dieses Feld enthält eine Standortnum- |
 | WENN | ANSONSTEN | 61e |  |  |  | x |  |  | Telematik-ID der Einrichtung | 1..128 | 0..1  Dieses Feld enthält eine Telematik-ID    62      x |
 |  | Name der Einrichtung  1..60 | 0..1  Dieses Feld enthält die Bezeichnung |  | **143** |  |  | **x** |  |  |  | **Straßenadresse der Einrichtung** |
 |  |  | **1..1** |  | **Dieser Block enthält Daten zur Stra-** |  |  |  |  |  |  |  |
-| 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | kennzeichen (IK), welches von der | WENN  ANSONSTEN  61c |
+| 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | Dieses Feld enthält ein Institutions- | WENN  ANSONSTEN  61c |
 | x |  |  | KZV-Abrechnungsnummer | 9 | 0..1 | Dieses Feld enthält eine Abrechnungs- | WENN | ANSONSTEN | 61d |  |  |
 |  | x |  |  | Standortnummer | 9 | 0..1 | Dieses Feld enthält eine Standortnum- | WENN | ANSONSTEN | 61e |  |
 | x | Telematik-ID der Einrichtung | 1..128  0..1 | Dieses Feld enthält eine Telematik-ID | 62 | x |  | Name der Einrichtung | 1..60  0..1 | Dieses Feld enthält die Bezeichnung | **143** |  |
 |  |  |  | **x** |  |  |  |  |  |  |  | **Straßenadresse der Einrichtung **  **1..1** |
-| 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | kennzeichen (IK), welches von der | WENN  ANSONSTEN  61c        x |
+| 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | Dieses Feld enthält ein Institutions- | WENN  ANSONSTEN  61c        x |
 |  |  | KZV-Abrechnungsnummer | 9 | 0..1 | Dieses Feld enthält eine Abrechnungs- | WENN | ANSONSTEN | 61d |  |  | x      Standortnummer  9 |
 | 0..1  Dieses Feld enthält eine Standortnum- | WENN  ANSONSTEN | 61e |  | x | Telematik-ID der Einrichtung | 1..128  0..1 | Dieses Feld enthält eine Telematik-ID | 62 | x |  | Name der Einrichtung  1..60  0..1  Dieses Feld enthält die Bezeichnung   **143 ** |
 |  | **x** |  |  |  |  |  |  |  | **Straßenadresse der Einrichtung** |  |  |
 |  | **1..1** |  | **Dieser Block enthält Daten zur Stra-** |  |  |  |  |  |  |  |  |
-| 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | kennzeichen (IK), welches von der | WENN |
+| 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | Dieses Feld enthält ein Institutions- | WENN |
 | ANSONSTEN | 61c |  |  |  | x |  |  | KZV-Abrechnungsnummer | 9 | 0..1 | Dieses Feld enthält eine Abrechnungs- |
 | WENN | ANSONSTEN | 61d |  |  |  | x |  |  | Standortnummer | 9 | 0..1 |
 | Dieses Feld enthält eine Standortnum- WENN | ANSONSTEN  61e |  | x |  | Telematik-ID der Einrichtung  1..128 | 0..1  Dieses Feld enthält eine Telematik-ID | 62 |  | x |  | Name der Einrichtung |
 | 1..60  0..1 | Dieses Feld enthält die Bezeichnung | **143** |  |  | **x** |  |  |  | **Straßenadresse der Einrichtung** |  | **1..1  Dieser Block enthält Daten zur Stra-** |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-| 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | kennzeichen (IK), welches von der | WENN |
+| 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | Dieses Feld enthält ein Institutions- | WENN |
 | ANSONSTEN | 61c |  |  |  | x |  |  | KZV-Abrechnungsnummer | 9 | 0..1 | Dieses Feld enthält eine Abrechnungs- |
 | WENN | ANSONSTEN | 61d |  |  |  | x |  |  | Standortnummer | 9 | 0..1 |
 | Dieses Feld enthält eine Standortnum- | WENN | ANSONSTEN | 61e |  |  |  | x |  |  | Telematik-ID der Einrichtung | 1..128 |
@@ -3727,41 +3725,41 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 | 0..1 | Dieses Feld enthält die Bezeichnung |  |  | **143** |  |  |  |  |  | **x** |  |
 |  |  |  | **Straßenadresse der Einrichtung** |  | **1..1** | **Dieser Block enthält Daten zur Stra-** |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-| 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | kennzeichen (IK), welches von der | WENN  ANSONSTEN  61c        x |
+| 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | Dieses Feld enthält ein Institutions- | WENN  ANSONSTEN  61c        x |
 | KZV-Abrechnungsnummer | 9 | 0..1 | Dieses Feld enthält eine Abrechnungs- | WENN | ANSONSTEN | 61d |  |  |  | x |  |
 |  | Standortnummer | 9 | 0..1 | Dieses Feld enthält eine Standortnum- | WENN | ANSONSTEN | 61e |  |  |  | x |
 |  |  | Telematik-ID der Einrichtung | 1..128 | 0..1 | Dieses Feld enthält eine Telematik-ID |  | 62 |  |  | x |  |
 |  |  | Name der Einrichtung | 1..60 | 0..1 | Dieses Feld enthält die Bezeichnung |  |  | **143** |  |  |  |
 |  | **x** |  |  |  | **Straßenadresse der Einrichtung** |  | **1..1** | **Dieser Block enthält Daten zur Stra-** |  |  |  |
-| 61b |  |  |  | x |  |  | IK-Nummer | 9  0..1 | kennzeichen (IK), welches von der | WENN | ANSONSTEN |
+| 61b |  |  |  | x |  |  | IK-Nummer | 9  0..1 | Dieses Feld enthält ein Institutions- | WENN | ANSONSTEN |
 | 61c |  |  |  | x |  |  | KZV-Abrechnungsnummer | 9 | 0..1 | Dieses Feld enthält eine Abrechnungs- | WENN  ANSONSTEN  61d        x |
 | Standortnummer | 9 | 0..1 | Dieses Feld enthält eine Standortnum- | WENN | ANSONSTEN | 61e |  |  |  | x |  |
 |  | Telematik-ID der Einrichtung | 1..128 | 0..1 | Dieses Feld enthält eine Telematik-ID |  | 62 |  |  | x |  |  |
 | Name der Einrichtung | 1..60  0..1 | Dieses Feld enthält die Bezeichnung | **143** |  |  | **x** |  |  |  | **Straßenadresse der Einrichtung** |  |
 | **1..1** | **Dieser Block enthält Daten zur Stra-** |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-| 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | kennzeichen (IK), welches von der | WENN |
+| 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | Dieses Feld enthält ein Institutions- | WENN |
 | ANSONSTEN | 61c |  |  |  | x |  |  | KZV-Abrechnungsnummer | 9 | 0..1 | Dieses Feld enthält eine Abrechnungs- |
 | WENN | ANSONSTEN | 61d |  |  |  | x |  |  | Standortnummer | 9 | 0..1  Dieses Feld enthält eine Standortnum- WENN |
 | ANSONSTEN  61e |  |  | x |  |  | Telematik-ID der Einrichtung | 1..128  0..1 | Dieses Feld enthält eine Telematik-ID | 62 |  | x        Name der Einrichtung  1..60  0..1  Dieses Feld enthält die Bezeichnung |
-| 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | kennzeichen (IK), welches von der | WENN  ANSONSTEN  61c |
+| 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | Dieses Feld enthält ein Institutions- | WENN  ANSONSTEN  61c |
 |  |  |  | x |  |  | KZV-Abrechnungsnummer | 9 | 0..1 | Dieses Feld enthält eine Abrechnungs- | WENN | ANSONSTEN  61d |
 |  |  | x |  |  | Standortnummer | 9 | 0..1 | Dieses Feld enthält eine Standortnum- | WENN | ANSONSTEN | 61e |
 |  |  |  | x |  |  | Telematik-ID der Einrichtung | 1..128 | 0..1 | Dieses Feld enthält eine Telematik-ID |  | 62 |
-| 61b |  | x | IK-Nummer | 9  0..1 | kennzeichen (IK), welches von der  WENN | ANSONSTEN  61c |  | x |  | KZV-Abrechnungsnummer  9 | 0..1  Dieses Feld enthält eine Abrechnungs- |
+| 61b |  | x | IK-Nummer | 9  0..1 | Dieses Feld enthält ein Institutions- WENN | ANSONSTEN  61c |  | x |  | KZV-Abrechnungsnummer  9 | 0..1  Dieses Feld enthält eine Abrechnungs- |
 | WENN | ANSONSTEN | 61d |  |  |  | x |  |  | Standortnummer | 9 | 0..1 |
 | Dieses Feld enthält eine Standortnum- | WENN | ANSONSTEN | 61e |  |  |  | x |  |  | Telematik-ID der Einrichtung | 1..128 |
 | 0..1 | Dieses Feld enthält eine Telematik-ID |  | 62 |  |  | x |  |  |  | Name der Einrichtung | 1..60 |
 | 0..1 | Dieses Feld enthält die Bezeichnung |  |  | **143** |  |  |  |  |  | **x** |  |
 |  |  |  |  |  |  | **Straßenadresse der Einrichtung** |  |  |  | **1..1** |  |
-| 61b |  | x | IK-Nummer | 9  0..1 | kennzeichen (IK), welches von der  WENN | ANSONSTEN  61c |  | x |  | KZV-Abrechnungsnummer  9  0..1  Dieses Feld enthält eine Abrechnungs- | WENN  ANSONSTEN  61d        x      Standortnummer  9  0..1 |
+| 61b |  | x | IK-Nummer | 9  0..1 | Dieses Feld enthält ein Institutions- WENN | ANSONSTEN  61c |  | x |  | KZV-Abrechnungsnummer  9  0..1  Dieses Feld enthält eine Abrechnungs- | WENN  ANSONSTEN  61d        x      Standortnummer  9  0..1 |
 | Dieses Feld enthält eine Standortnum- WENN | ANSONSTEN  61e |  | x |  | Telematik-ID der Einrichtung  1..128 | 0..1  Dieses Feld enthält eine Telematik-ID | 62 |  | x |  | Name der Einrichtung  1..60 |
 | 0..1 | Dieses Feld enthält die Bezeichnung |  |  | **143** |  |  |  |  |  | **x** |  |
 |  |  |  |  |  |  | **Straßenadresse der Einrichtung** |  |  |  | **1..1** |  |
-| 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | kennzeichen (IK), welches von der | WENN  ANSONSTEN  61c |
+| 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | Dieses Feld enthält ein Institutions- | WENN  ANSONSTEN  61c |
 |  |  | x |  | KZV-Abrechnungsnummer | 9 | 0..1 | Dieses Feld enthält eine Abrechnungs- WENN | ANSONSTEN | 61d |  | x      Standortnummer  9  0..1  Dieses Feld enthält eine Standortnum- WENN  ANSONSTEN  61e |
 |  |  |  | x |  |  | Telematik-ID der Einrichtung | 1..128 | 0..1 | Dieses Feld enthält eine Telematik-ID |  | 62 |
-| 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | kennzeichen (IK), welches von der | WENN  ANSONSTEN |
+| 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | Dieses Feld enthält ein Institutions- | WENN  ANSONSTEN |
 | 61c |  |  |  | x |  |  | KZV-Abrechnungsnummer | 9 | 0..1 | Dieses Feld enthält eine Abrechnungs- | WENN |
 | ANSONSTEN  61d |  | x |  | Standortnummer  9 | 0..1  Dieses Feld enthält eine Standortnum- | WENN  ANSONSTEN | 61e |  | x | Telematik-ID der Einrichtung | 1..128  0..1 |
 | Dieses Feld enthält eine Telematik-ID |  | 62 |  |  | x |  |  |  | Name der Einrichtung | 1..60 | 0..1 |
@@ -3769,16 +3767,16 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 |  |  |  |  |  | **Straßenadresse der Einrichtung** |  |  |  | **1..1** |  | **Dieser Block enthält Daten zur Stra-** |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-| 61b |  | x | IK-Nummer | 9  0..1 | kennzeichen (IK), welches von der  WENN | ANSONSTEN  61c |  | x |  | KZV-Abrechnungsnummer  9  0..1  Dieses Feld enthält eine Abrechnungs- | WENN  ANSONSTEN |
+| 61b |  | x | IK-Nummer | 9  0..1 | Dieses Feld enthält ein Institutions- WENN | ANSONSTEN  61c |  | x |  | KZV-Abrechnungsnummer  9  0..1  Dieses Feld enthält eine Abrechnungs- | WENN  ANSONSTEN |
 | 61d |  |  | x |  | Standortnummer | 9 | 0..1  Dieses Feld enthält eine Standortnum- | WENN | ANSONSTEN  61e |  | x      Telematik-ID der Einrichtung  1..128 |
 | 0..1 | Dieses Feld enthält eine Telematik-ID |  | 62 |  |  | x |  |  |  | Name der Einrichtung | 1..60  0..1 |
-| 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | kennzeichen (IK), welches von der | WENN  ANSONSTEN |
+| 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | Dieses Feld enthält ein Institutions- | WENN  ANSONSTEN |
 | 61c |  |  |  | x |  |  | KZV-Abrechnungsnummer | 9 | 0..1 | Dieses Feld enthält eine Abrechnungs- | WENN  ANSONSTEN |
 | 61d |  |  |  | x |  |  | Standortnummer | 9 | 0..1 | Dieses Feld enthält eine Standortnum- | WENN  ANSONSTEN |
 | 61e |  |  |  | x |  |  | Telematik-ID der Einrichtung | 1..128 | 0..1 | Dieses Feld enthält eine Telematik-ID |  |
 | 62 |  |  | x |  |  |  | Name der Einrichtung | 1..60 | 0..1 | Dieses Feld enthält die Bezeichnung |  |
 | **143** |  |  | **x** |  |  |  | **Straßenadresse der Einrichtung** |  | **1..1** | **Dieser Block enthält Daten zur Stra-** |  |
-| 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | kennzeichen (IK), welches von der | WENN |
+| 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | Dieses Feld enthält ein Institutions- | WENN |
 | ANSONSTEN | 61c |  |  |  | x |  |  | KZV-Abrechnungsnummer | 9 | 0..1 | Dieses Feld enthält eine Abrechnungs- |
 | WENN | ANSONSTEN | 61d |  |  |  | x |  |  | Standortnummer | 9 | 0..1 |
 | Dieses Feld enthält eine Standortnum- | WENN | ANSONSTEN | 61e |  |  |  | x |  |  | Telematik-ID der Einrichtung | 1..128 |
@@ -3792,11 +3790,11 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-| 61b |  | x |  |  | IK-Nummer | 9 | 0..1  kennzeichen (IK), welches von der | WENN | ANSONSTEN  61c |  |  |
+| 61b |  | x |  |  | IK-Nummer | 9 | 0..1  Dieses Feld enthält ein Institutions- | WENN | ANSONSTEN  61c |  |  |
 | x |  |  | KZV-Abrechnungsnummer | 9 | 0..1 | Dieses Feld enthält eine Abrechnungs- | WENN | ANSONSTEN | 61d |  |  |
 | x |  |  | Standortnummer | 9 | 0..1 | Dieses Feld enthält eine Standortnum- | WENN | ANSONSTEN | 61e |  |  |
 
-(GRAU = BLOCK) DERH. Dieses Feld enthält ein Institutions- ARGE·IK vergeben wird und ein eindeu- tiges Merkmal zur Abrechnung mit den Trägern der Sozialversicherung ist. nummer der Kassenzahnärztlichen Ver- einigung (KZV). Abrechnungsnummern des Zahnarztes/der Zahnärztin mit we- niger als 9 Stellen sind mit vorange- stellten Nullen entsprechend zu füllen. mer eines Krankenhauses. der Einrichtung. der Einrichtung (Praxis / Krankenhaus). ßenadresse der Einrichtung. der Block „Identifikator der Einrichtung“ vorhan- den ist die Felder "BSNR" und "KZV-Abrechnungs- nummer" und "Standortnummer" nicht vorhanden sind, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden. der Block „Identifikator der Einrichtung“ vorhan- den ist und, die Felder "BSNR" und "IK-Nummer" und "Standortnummer" nicht vorhanden sind, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden. der Block „Identifikator der Einrichtung“ vorhan- den ist und die Felder "BSNR" und "IK-Nummer" und "KZV-Abrechnungsnummer" nicht vorhanden sind, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden.
+(GRAU = BLOCK) DERH. kennzeichen (IK), welches von der ARGE·IK vergeben wird und ein eindeu- tiges Merkmal zur Abrechnung mit den Trägern der Sozialversicherung ist. nummer der Kassenzahnärztlichen Ver- einigung (KZV). Abrechnungsnummern des Zahnarztes/der Zahnärztin mit we- niger als 9 Stellen sind mit vorange- stellten Nullen entsprechend zu füllen. mer eines Krankenhauses. der Einrichtung. der Einrichtung (Praxis / Krankenhaus). ßenadresse der Einrichtung. der Block „Identifikator der Einrichtung“ vorhan- den ist die Felder "BSNR" und "KZV-Abrechnungs- nummer" und "Standortnummer" nicht vorhanden sind, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden. der Block „Identifikator der Einrichtung“ vorhan- den ist und, die Felder "BSNR" und "IK-Nummer" und "Standortnummer" nicht vorhanden sind, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden. der Block „Identifikator der Einrichtung“ vorhan- den ist und die Felder "BSNR" und "IK-Nummer" und "KZV-Abrechnungsnummer" nicht vorhanden sind, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden.
 
 ---
 
@@ -3819,110 +3817,110 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 \| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
 | **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|  | x |  | Wohnsitzländercode der Ein- Kodiert | 0..1  Rundschreiben DEÜV Anlage 08). | 64 |  | x |  | Postleitzahl der Einrichtung  1..10 | 0..1  Dieses Feld enthält die Postleitzahl. | 65 |
-|  |  |  | x |  |  | Ortsname der Einrichtung | 1..40 | 1..1 | Mehrere Namensbestandteile sind |  | 66 |
+|  | x |  | Wohnsitzländercode der Ein- Kodiert | 0..1  Dieses Feld enthält den Wohnsitzlän- | 64 |  | x |  | Postleitzahl der Einrichtung  1..10 | 0..1  Dieses Feld enthält die Postleitzahl. | 65 |
+|  |  |  | x |  |  | Ortsname der Einrichtung | 1..40 | 1..1 | Dieses Feld enthält den Ortsnamen. |  | 66 |
 |  |  |  | x |  |  | Straßenname der Einrichtung | 1..46 | 1..1 | Dieses Feld enthält den Straßennamen. |  | 67 |
 |  |  |  | x |  |  | Hausnummer der Einrichtung | 1..9 | 1..1 | Dieses Feld enthält die Hausnummer. | 68 |  |
-| 63 |  |  |  | x |  |  | Wohnsitzländercode der Ein- | Kodiert | 0..1 | Rundschreiben DEÜV Anlage 08). | 64 |
-|  | x |  | Postleitzahl der Einrichtung  1..10 | 0..1  Dieses Feld enthält die Postleitzahl. | 65 |  | x |  | Ortsname der Einrichtung  1..40 | 1..1  Mehrere Namensbestandteile sind | 66 |
+| 63 |  |  |  | x |  |  | Wohnsitzländercode der Ein- | Kodiert | 0..1 | Dieses Feld enthält den Wohnsitzlän- | 64 |
+|  | x |  | Postleitzahl der Einrichtung  1..10 | 0..1  Dieses Feld enthält die Postleitzahl. | 65 |  | x |  | Ortsname der Einrichtung  1..40 | 1..1  Dieses Feld enthält den Ortsnamen. | 66 |
 |  |  |  | x |  |  | Straßenname der Einrichtung | 1..46 | 1..1 | Dieses Feld enthält den Straßennamen. |  | 67        x      Hausnummer der Einrichtung |
 | 1..9  1..1 | Dieses Feld enthält die Hausnummer. | 68 |  | x | Anschriftenzusatz der Einrich- | 1..40  0..1 | Dieses Feld enthält den Anschriftenzu- | **144** |  |  | **x** |
-|  |  |  |  |  |  |  | **Kontaktdaten der Einrichtung** |  |  | **1..1** | **der Einrichtung. **   69 |
-| 63 |  |  |  | x |  |  | Wohnsitzländercode der Ein- | Kodiert | 0..1 | Rundschreiben DEÜV Anlage 08). | 64        x |
+|  |  |  |  |  |  |  | **Kontaktdaten der Einrichtung** |  |  | **1..1** | **Dieser Block enthält die Kontaktdaten **   69 |
+| 63 |  |  |  | x |  |  | Wohnsitzländercode der Ein- | Kodiert | 0..1 | Dieses Feld enthält den Wohnsitzlän- | 64        x |
 |  |  | Postleitzahl der Einrichtung | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. |  | 65 |  |  |  | x |
-|  |  | Ortsname der Einrichtung | 1..40 | 1..1 | Mehrere Namensbestandteile sind |  | 66 |  |  |  | x |
+|  |  | Ortsname der Einrichtung | 1..40 | 1..1 | Dieses Feld enthält den Ortsnamen. |  | 66 |  |  |  | x |
 | Straßenname der Einrichtung  1..46 | 1..1  Dieses Feld enthält den Straßennamen. | 67 |  | x |  | Hausnummer der Einrichtung  1..9 | 1..1  Dieses Feld enthält die Hausnummer. | 68 |  | x |  |
 | Anschriftenzusatz der Einrich- | 1..40 | 0..1 | Dieses Feld enthält den Anschriftenzu- |  |  | **144** |  |  |  |  | **x ** |
-| 63 |  |  |  | x |  |  | Wohnsitzländercode der Ein- | Kodiert | 0..1 | Rundschreiben DEÜV Anlage 08). | 64        x |
-|  | Postleitzahl der Einrichtung | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. |  | 65 |  |  |  | x | Ortsname der Einrichtung  1..40  1..1  Mehrere Namensbestandteile sind |
+| 63 |  |  |  | x |  |  | Wohnsitzländercode der Ein- | Kodiert | 0..1 | Dieses Feld enthält den Wohnsitzlän- | 64        x |
+|  | Postleitzahl der Einrichtung | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. |  | 65 |  |  |  | x | Ortsname der Einrichtung  1..40  1..1  Dieses Feld enthält den Ortsnamen. |
 | 66 |  | x |  | Straßenname der Einrichtung  1..46 | 1..1  Dieses Feld enthält den Straßennamen. | 67 |  | x |  | Hausnummer der Einrichtung  1..9 | 1..1  Dieses Feld enthält die Hausnummer.    68        x      Anschriftenzusatz der Einrich- 1..40 |
 | 0..1 | Dieses Feld enthält den Anschriftenzu- |  |  | **144** |  |  |  |  |  | **x** |  |
 |  |  |  |  |  |  | **Kontaktdaten der Einrichtung** |  |  |  | **1..1** |  |
-| 63 |  |  |  | x |  |  | Wohnsitzländercode der Ein- | Kodiert | 0..1 | Rundschreiben DEÜV Anlage 08). |  |
+| 63 |  |  |  | x |  |  | Wohnsitzländercode der Ein- | Kodiert | 0..1 | Dieses Feld enthält den Wohnsitzlän- |  |
 | 64 |  |  |  | x |  |  | Postleitzahl der Einrichtung | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. |  |
-| 65 |  |  |  | x |  |  | Ortsname der Einrichtung | 1..40 | 1..1 | Mehrere Namensbestandteile sind |  |
+| 65 |  |  |  | x |  |  | Ortsname der Einrichtung | 1..40 | 1..1 | Dieses Feld enthält den Ortsnamen. |  |
 | 66 |  | x | Straßenname der Einrichtung | 1..46  1..1 | Dieses Feld enthält den Straßennamen. | 67 |  | x | Hausnummer der Einrichtung | 1..9  1..1 | Dieses Feld enthält die Hausnummer. |
 | 68 |  | x |  | Anschriftenzusatz der Einrich- 1..40 | 0..1  Dieses Feld enthält den Anschriftenzu- |  | **144** |  |  | **x** | **Kontaktdaten der Einrichtung **  **1..1** |
-| **der Einrichtung.** |  |  | 69 |  |  |  | x |  |  | Telefonnummer der Einrichtung | 1..30 |
-| 1..1  mer. | 70 |  | x |  | Faxnummer der Einrichtung  1..30 | 0..1  Dieses Feld enthält die Faxnummer. | 71 |  | x |  | E-Mail der Einrichtung  1..256 |
-| 63 |  |  |  | x |  |  | Wohnsitzländercode der Ein- | Kodiert | 0..1 | Rundschreiben DEÜV Anlage 08). |  |
+| **Dieser Block enthält die Kontaktdaten** |  |  | 69 |  |  |  | x |  |  | Telefonnummer der Einrichtung | 1..30 |
+| 1..1  Dieses Feld enthält die Telefonnum- | 70 |  | x |  | Faxnummer der Einrichtung  1..30 | 0..1  Dieses Feld enthält die Faxnummer. | 71 |  | x |  | E-Mail der Einrichtung  1..256 |
+| 63 |  |  |  | x |  |  | Wohnsitzländercode der Ein- | Kodiert | 0..1 | Dieses Feld enthält den Wohnsitzlän- |  |
 | 64 |  |  |  | x |  |  | Postleitzahl der Einrichtung | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. |  |
-| 65 |  |  |  | x |  |  | Ortsname der Einrichtung | 1..40 | 1..1 | Mehrere Namensbestandteile sind |  |
+| 65 |  |  |  | x |  |  | Ortsname der Einrichtung | 1..40 | 1..1 | Dieses Feld enthält den Ortsnamen. |  |
 | 66 |  |  |  | x |  |  | Straßenname der Einrichtung | 1..46 | 1..1 | Dieses Feld enthält den Straßennamen. |  |
 | 67 |  |  |  | x |  |  | Hausnummer der Einrichtung | 1..9 | 1..1 | Dieses Feld enthält die Hausnummer. |  |
 | 68 |  |  |  | x |  |  | Anschriftenzusatz der Einrich- | 1..40 | 0..1 | Dieses Feld enthält den Anschriftenzu- |  |
-| **144** |  |  | **x** |  |  |  | **Kontaktdaten der Einrichtung** |  | **1..1** | **der Einrichtung.** | 69 |
-|  |  | x |  |  | Telefonnummer der Einrichtung | 1..30 | 1..1 | mer. | 70 |  |  |
-| 63 |  |  |  | x |  |  | Wohnsitzländercode der Ein- | Kodiert | 0..1 | Rundschreiben DEÜV Anlage 08). | 64        x      Postleitzahl der Einrichtung |
+| **144** |  |  | **x** |  |  |  | **Kontaktdaten der Einrichtung** |  | **1..1** | **Dieser Block enthält die Kontaktdaten** | 69 |
+|  |  | x |  |  | Telefonnummer der Einrichtung | 1..30 | 1..1 | Dieses Feld enthält die Telefonnum- | 70 |  |  |
+| 63 |  |  |  | x |  |  | Wohnsitzländercode der Ein- | Kodiert | 0..1 | Dieses Feld enthält den Wohnsitzlän- | 64        x      Postleitzahl der Einrichtung |
 | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. |  | 65 |  |  |  | x |  |  | Ortsname der Einrichtung |
-| 1..40 | 1..1 | Mehrere Namensbestandteile sind |  | 66 |  |  |  | x |  |  | Straßenname der Einrichtung |
+| 1..40 | 1..1 | Dieses Feld enthält den Ortsnamen. |  | 66 |  |  |  | x |  |  | Straßenname der Einrichtung |
 | 1..46 | 1..1 | Dieses Feld enthält den Straßennamen. |  | 67 |  |  |  | x |  |  | Hausnummer der Einrichtung |
 | 1..9 | 1..1 | Dieses Feld enthält die Hausnummer. |  | 68 |  |  |  | x |  |  | Anschriftenzusatz der Einrich- |
-| 1..40  0..1 | Dieses Feld enthält den Anschriftenzu- | **144** |  |  | **x** |  |  |  | **Kontaktdaten der Einrichtung** |  | **1..1  der Einrichtung.** |
-| 63 |  |  |  | x |  |  | Wohnsitzländercode der Ein- | Kodiert  0..1 | Rundschreiben DEÜV Anlage 08). |  | 64 |
+| 1..40  0..1 | Dieses Feld enthält den Anschriftenzu- | **144** |  |  | **x** |  |  |  | **Kontaktdaten der Einrichtung** |  | **1..1  Dieser Block enthält die Kontaktdaten** |
+| 63 |  |  |  | x |  |  | Wohnsitzländercode der Ein- | Kodiert  0..1 | Dieses Feld enthält den Wohnsitzlän- |  | 64 |
 |  |  |  | x |  |  | Postleitzahl der Einrichtung | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. |  | 65        x      Ortsname der Einrichtung  1..40 |
-| 1..1 | Mehrere Namensbestandteile sind |  | 66 |  |  |  | x |  |  | Straßenname der Einrichtung | 1..46 |
+| 1..1 | Dieses Feld enthält den Ortsnamen. |  | 66 |  |  |  | x |  |  | Straßenname der Einrichtung | 1..46 |
 | 1..1 | Dieses Feld enthält den Straßennamen. |  | 67 |  |  |  | x |  |  | Hausnummer der Einrichtung | 1..9 |
 | 1..1  Dieses Feld enthält die Hausnummer. | 68 |  | x |  | Anschriftenzusatz der Einrich- 1..40 | 0..1  Dieses Feld enthält den Anschriftenzu- |  | **144** |  |  | **x** |
-|  |  |  | **Kontaktdaten der Einrichtung** |  | **1..1** | **der Einrichtung.** | 69 |  | x |  | Telefonnummer der Einrichtung  1..30 |
-| 1..1  mer. | 70 |  | x |  | Faxnummer der Einrichtung  1..30 | 0..1  Dieses Feld enthält die Faxnummer. | 71 |  | x |  | E-Mail der Einrichtung  1..256 |
-| 63 |  |  |  | x |  |  | Wohnsitzländercode der Ein- | Kodiert | 0..1 | Rundschreiben DEÜV Anlage 08). |  |
+|  |  |  | **Kontaktdaten der Einrichtung** |  | **1..1** | **Dieser Block enthält die Kontaktdaten** | 69 |  | x |  | Telefonnummer der Einrichtung  1..30 |
+| 1..1  Dieses Feld enthält die Telefonnum- | 70 |  | x |  | Faxnummer der Einrichtung  1..30 | 0..1  Dieses Feld enthält die Faxnummer. | 71 |  | x |  | E-Mail der Einrichtung  1..256 |
+| 63 |  |  |  | x |  |  | Wohnsitzländercode der Ein- | Kodiert | 0..1 | Dieses Feld enthält den Wohnsitzlän- |  |
 | 64 |  |  |  | x |  |  | Postleitzahl der Einrichtung | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. |  |
-| 65 |  |  |  | x |  |  | Ortsname der Einrichtung | 1..40 | 1..1 | Mehrere Namensbestandteile sind | 66 |
+| 65 |  |  |  | x |  |  | Ortsname der Einrichtung | 1..40 | 1..1 | Dieses Feld enthält den Ortsnamen. | 66 |
 |  | x |  | Straßenname der Einrichtung | 1..46 | 1..1 | Dieses Feld enthält den Straßennamen. | 67 |  |  | x | Hausnummer der Einrichtung  1..9  1..1  Dieses Feld enthält die Hausnummer.    68 |
-| 63 |  |  |  | x |  |  | Wohnsitzländercode der Ein- | Kodiert | 0..1 | Rundschreiben DEÜV Anlage 08). | 64 |
+| 63 |  |  |  | x |  |  | Wohnsitzländercode der Ein- | Kodiert | 0..1 | Dieses Feld enthält den Wohnsitzlän- | 64 |
 |  |  | x |  |  | Postleitzahl der Einrichtung | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. |  | 65 |  |
-| x |  |  | Ortsname der Einrichtung | 1..40 | 1..1 | Mehrere Namensbestandteile sind |  | 66 |  |  |  |
+| x |  |  | Ortsname der Einrichtung | 1..40 | 1..1 | Dieses Feld enthält den Ortsnamen. |  | 66 |  |  |  |
 | x |  |  | Straßenname der Einrichtung | 1..46 | 1..1 | Dieses Feld enthält den Straßennamen. |  | 67 |  |  | x |
-| 63 |  | x | Wohnsitzländercode der Ein- | Kodiert  0..1 | Rundschreiben DEÜV Anlage 08). | 64 |  | x | Postleitzahl der Einrichtung | 1..10  0..1 | Dieses Feld enthält die Postleitzahl. |
-| 65 |  |  |  | x |  |  | Ortsname der Einrichtung | 1..40 | 1..1 | Mehrere Namensbestandteile sind |  |
+| 63 |  | x | Wohnsitzländercode der Ein- | Kodiert  0..1 | Dieses Feld enthält den Wohnsitzlän- | 64 |  | x | Postleitzahl der Einrichtung | 1..10  0..1 | Dieses Feld enthält die Postleitzahl. |
+| 65 |  |  |  | x |  |  | Ortsname der Einrichtung | 1..40 | 1..1 | Dieses Feld enthält den Ortsnamen. |  |
 | 66 |  |  |  | x |  |  | Straßenname der Einrichtung | 1..46 | 1..1 | Dieses Feld enthält den Straßennamen. |  |
 | 67 |  |  |  | x |  |  | Hausnummer der Einrichtung | 1..9 | 1..1 | Dieses Feld enthält die Hausnummer. |  |
 | 68 |  |  |  | x |  |  | Anschriftenzusatz der Einrich- | 1..40 | 0..1 | Dieses Feld enthält den Anschriftenzu- |  |
 |  | **144** |  |  |  |  |  | **x** |  |  |  |  |
-| 63 |  | x | Wohnsitzländercode der Ein- | Kodiert  0..1 | Rundschreiben DEÜV Anlage 08). | 64 |  | x | Postleitzahl der Einrichtung | 1..10  0..1  Dieses Feld enthält die Postleitzahl. | 65        x      Ortsname der Einrichtung  1..40  1..1  Mehrere Namensbestandteile sind |
+| 63 |  | x | Wohnsitzländercode der Ein- | Kodiert  0..1 | Dieses Feld enthält den Wohnsitzlän- | 64 |  | x | Postleitzahl der Einrichtung | 1..10  0..1  Dieses Feld enthält die Postleitzahl. | 65        x      Ortsname der Einrichtung  1..40  1..1  Dieses Feld enthält den Ortsnamen. |
 | 66 |  | x | Straßenname der Einrichtung | 1..46  1..1 | Dieses Feld enthält den Straßennamen. | 67 |  | x | Hausnummer der Einrichtung | 1..9  1..1 | Dieses Feld enthält die Hausnummer. |
 | 68 |  |  |  | x |  |  | Anschriftenzusatz der Einrich- | 1..40 | 0..1 | Dieses Feld enthält den Anschriftenzu- |  |
 |  | **144** |  |  |  |  |  | **x** |  |  |  |  |
-| 63 |  |  |  | x |  |  | Wohnsitzländercode der Ein- | Kodiert | 0..1 | Rundschreiben DEÜV Anlage 08). | 64 |
-|  | x |  | Postleitzahl der Einrichtung | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | 65 |  |  | x | Ortsname der Einrichtung  1..40  1..1  Mehrere Namensbestandteile sind    66 |
+| 63 |  |  |  | x |  |  | Wohnsitzländercode der Ein- | Kodiert | 0..1 | Dieses Feld enthält den Wohnsitzlän- | 64 |
+|  | x |  | Postleitzahl der Einrichtung | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | 65 |  |  | x | Ortsname der Einrichtung  1..40  1..1  Dieses Feld enthält den Ortsnamen.    66 |
 | x |  |  | Straßenname der Einrichtung | 1..46 | 1..1 | Dieses Feld enthält den Straßennamen. |  | 67 |  |  | x |
-| 63 |  |  |  | x |  |  | Wohnsitzländercode der Ein- | Kodiert | 0..1 | Rundschreiben DEÜV Anlage 08). | 64 |
+| 63 |  |  |  | x |  |  | Wohnsitzländercode der Ein- | Kodiert | 0..1 | Dieses Feld enthält den Wohnsitzlän- | 64 |
 |  |  |  | x |  |  | Postleitzahl der Einrichtung | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. |  | 65 |
-|  | x |  | Ortsname der Einrichtung  1..40 | 1..1  Mehrere Namensbestandteile sind | 66 |  | x |  | Straßenname der Einrichtung  1..46 | 1..1  Dieses Feld enthält den Straßennamen. | 67 |
+|  | x |  | Ortsname der Einrichtung  1..40 | 1..1  Dieses Feld enthält den Ortsnamen. | 66 |  | x |  | Straßenname der Einrichtung  1..46 | 1..1  Dieses Feld enthält den Straßennamen. | 67 |
 |  |  |  | x |  |  | Hausnummer der Einrichtung | 1..9 | 1..1 | Dieses Feld enthält die Hausnummer. |  | 68 |
 |  |  |  | x |  |  | Anschriftenzusatz der Einrich- | 1..40 | 0..1 | Dieses Feld enthält den Anschriftenzu- |  |  |
 | **144** |  |  |  |  |  | **x** |  |  |  |  |  |
-|  |  | **Kontaktdaten der Einrichtung** |  |  |  | **1..1** |  | **der Einrichtung.** |  |  | 69 |
-|  |  |  | x |  |  | Telefonnummer der Einrichtung | 1..30 | 1..1 | mer. |  | 70 |
-| 63 |  | x | Wohnsitzländercode der Ein- | Kodiert  0..1 | Rundschreiben DEÜV Anlage 08). | 64 |  | x | Postleitzahl der Einrichtung | 1..10  0..1  Dieses Feld enthält die Postleitzahl. | 65 |
-|  | x |  | Ortsname der Einrichtung | 1..40 | 1..1 | Mehrere Namensbestandteile sind | 66 |  |  | x | Straßenname der Einrichtung  1..46  1..1  Dieses Feld enthält den Straßennamen. |
+|  |  | **Kontaktdaten der Einrichtung** |  |  |  | **1..1** |  | **Dieser Block enthält die Kontaktdaten** |  |  | 69 |
+|  |  |  | x |  |  | Telefonnummer der Einrichtung | 1..30 | 1..1 | Dieses Feld enthält die Telefonnum- |  | 70 |
+| 63 |  | x | Wohnsitzländercode der Ein- | Kodiert  0..1 | Dieses Feld enthält den Wohnsitzlän- | 64 |  | x | Postleitzahl der Einrichtung | 1..10  0..1  Dieses Feld enthält die Postleitzahl. | 65 |
+|  | x |  | Ortsname der Einrichtung | 1..40 | 1..1 | Dieses Feld enthält den Ortsnamen. | 66 |  |  | x | Straßenname der Einrichtung  1..46  1..1  Dieses Feld enthält den Straßennamen. |
 | 67 |  |  |  | x |  |  | Hausnummer der Einrichtung | 1..9 | 1..1 | Dieses Feld enthält die Hausnummer. | 68 |
-| 63 |  |  |  | x |  |  | Wohnsitzländercode der Ein- | Kodiert | 0..1 | Rundschreiben DEÜV Anlage 08). | 64 |
+| 63 |  |  |  | x |  |  | Wohnsitzländercode der Ein- | Kodiert | 0..1 | Dieses Feld enthält den Wohnsitzlän- | 64 |
 |  |  |  | x |  |  | Postleitzahl der Einrichtung | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. |  | 65 |
-|  |  | x |  |  | Ortsname der Einrichtung | 1..40 | 1..1 | Mehrere Namensbestandteile sind |  | 66 |  |
+|  |  | x |  |  | Ortsname der Einrichtung | 1..40 | 1..1 | Dieses Feld enthält den Ortsnamen. |  | 66 |  |
 |  | x |  |  | Straßenname der Einrichtung | 1..46 | 1..1 | Dieses Feld enthält den Straßennamen. |  | 67 |  |  |
 |  | x |  |  | Hausnummer der Einrichtung | 1..9 | 1..1 | Dieses Feld enthält die Hausnummer. |  | 68 |  |  |
 | x |  | Anschriftenzusatz der Einrich- 1..40 | 0..1  Dieses Feld enthält den Anschriftenzu- |  | **144** |  |  | **x** |  |  |  |
-| 63 |  |  |  | x |  |  | Wohnsitzländercode der Ein- | Kodiert | 0..1 | Rundschreiben DEÜV Anlage 08). |  |
+| 63 |  |  |  | x |  |  | Wohnsitzländercode der Ein- | Kodiert | 0..1 | Dieses Feld enthält den Wohnsitzlän- |  |
 | 64 |  |  |  | x |  |  | Postleitzahl der Einrichtung | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. |  |
-| 65 |  |  |  | x |  |  | Ortsname der Einrichtung | 1..40 | 1..1 | Mehrere Namensbestandteile sind |  |
+| 65 |  |  |  | x |  |  | Ortsname der Einrichtung | 1..40 | 1..1 | Dieses Feld enthält den Ortsnamen. |  |
 | 66 |  |  |  | x |  |  | Straßenname der Einrichtung | 1..46 | 1..1 | Dieses Feld enthält den Straßennamen. |  |
 | 67 |  |  |  | x |  |  | Hausnummer der Einrichtung | 1..9 | 1..1 | Dieses Feld enthält die Hausnummer. |  |
 | 68 |  |  |  | x |  |  | Anschriftenzusatz der Einrich- | 1..40 | 0..1 | Dieses Feld enthält den Anschriftenzu- |  |
-| **144** |  |  | **x** |  |  |  | **Kontaktdaten der Einrichtung** |  | **1..1** | **der Einrichtung.** |  |
-| 69 |  |  |  | x |  |  | Telefonnummer der Einrichtung | 1..30 | 1..1 | mer. |  |
+| **144** |  |  | **x** |  |  |  | **Kontaktdaten der Einrichtung** |  | **1..1** | **Dieser Block enthält die Kontaktdaten** |  |
+| 69 |  |  |  | x |  |  | Telefonnummer der Einrichtung | 1..30 | 1..1 | Dieses Feld enthält die Telefonnum- |  |
 | 70 |  |  |  | x |  |  | Faxnummer der Einrichtung | 1..30 | 0..1 | Dieses Feld enthält die Faxnummer. |  |
-| 71 |  |  |  | x |  |  | E-Mail der Einrichtung | 1..256 | 0..1 | der Einrichtung. |  |
+| 71 |  |  |  | x |  |  | E-Mail der Einrichtung | 1..256 | 0..1 | Dieses Feld enthält die E-Mail-Adresse |  |
 | **78** | **x** |  |  |  |  |  | **Verordnungsdaten** |  | **1..1** | **In diesem Block werden alle Verord-** |  |
-| **79** |  | **x** |  |  |  |  | **Allgemeine Verordnungsdaten** |  | **1..1** | **Verordnungsdaten.** |  |
+| **79** |  | **x** |  |  |  |  | **Allgemeine Verordnungsdaten** |  | **1..1** | **Dieser Block enthält die allgemeinen** |  |
 | 80 |  |  | x |  |  |  | Ausstellungsdatum der Verord- | 10 | 1..1 | Dieses Feld enthält das Ausstellungsda- |  |
 | 84 |  |  | x |  |  |  | SER |  | 1..1 | Dieses Feld enthält die Kennzeichnung, |  |
-| 63 |  | x |  |  | Wohnsitzländercode der Ein- | Kodiert | 0..1  Rundschreiben DEÜV Anlage 08). |  | 64 |  | x |
+| 63 |  | x |  |  | Wohnsitzländercode der Ein- | Kodiert | 0..1  Dieses Feld enthält den Wohnsitzlän- |  | 64 |  | x |
 |  |  | Postleitzahl der Einrichtung | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. |  | 65 |  |  | x |  |
-|  | Ortsname der Einrichtung | 1..40 | 1..1 | Mehrere Namensbestandteile sind |  | 66 |  |  |  | x |  |
+|  | Ortsname der Einrichtung | 1..40 | 1..1 | Dieses Feld enthält den Ortsnamen. |  | 66 |  |  |  | x |  |
 
-(GRAU = BLOCK) DERH. Dieses Feld enthält den Wohnsitzlän- dercode (entsprechend Gemeinsames Dieses Feld enthält den Ortsnamen. durch Blank/Sonderzeichen getrennt. satz, z.B. Hinterhaus. Dieser Block enthält die Kontaktdaten Dieses Feld enthält die Telefonnum- Dieses Feld enthält die E-Mail-Adresse nungsdaten angegeben. Dieser Block enthält die allgemeinen tum der Verordnung. ob diese Verordnung im Rahmen des Sozialen Entschädigungsrechts (SER, ehemals BVG) erfolgt.
+(GRAU = BLOCK) DERH. dercode (entsprechend Gemeinsames Rundschreiben DEÜV Anlage 08). Mehrere Namensbestandteile sind durch Blank/Sonderzeichen getrennt. satz, z.B. Hinterhaus. der Einrichtung. der Einrichtung. nungsdaten angegeben. Verordnungsdaten. tum der Verordnung. ob diese Verordnung im Rahmen des Sozialen Entschädigungsrechts (SER, ehemals BVG) erfolgt.
 
 ---
 
@@ -4048,7 +4046,7 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 | 82 |  |  | x |  |  |  | Pharmazentralnummer Verord- | Kodiert | 1..1 | In diesem Feld ist die 8-stellige Phar- Sofern einer DiGA für unterschiedliche |  |
 | 83 |  |  | x |  |  |  | Name der Verordnungseinheit | 1.. | 1..1 | In diesem Feld ist die Bezeichnung der  Sofern die Bezeichnung der Verord- |  |
 
-(GRAU = BLOCK) DERH. Verordnungsdaten. mazentralnummer (PZN) der DiGA Ver- ordnungseinheit (DiGA-VE) gemäß öf- fentlichem DiGA-Verzeichnis nach § 139e SGB V anzugeben. Indikationen mit jeweils unterschiedli- chen Inhalten angewendet werden kann, ist jeder Indikation eine eigene PZN zugeordnet. Sofern für eine DiGA unterschiedliche Anwendungsdauern hinterlegt sein sollten, sind ebenfalls eigene PZN zugeordnet. DiGA-Verordnungseinheit gemäß öf- fentlichem DiGA-Verzeichnis nach § 139e SGB V anzugeben. nungseinheit nicht automatisch durch das System zugesetzt wird, ist die Be- zeichnung händisch zu ergänzen"
+Verordnungsdaten. (GRAU = BLOCK) DERH. mazentralnummer (PZN) der DiGA Ver- ordnungseinheit (DiGA-VE) gemäß öf- fentlichem DiGA-Verzeichnis nach § 139e SGB V anzugeben. Indikationen mit jeweils unterschiedli- chen Inhalten angewendet werden kann, ist jeder Indikation eine eigene PZN zugeordnet. Sofern für eine DiGA unterschiedliche Anwendungsdauern hinterlegt sein sollten, sind ebenfalls eigene PZN zugeordnet. DiGA-Verordnungseinheit gemäß öf- fentlichem DiGA-Verzeichnis nach § 139e SGB V anzugeben. nungseinheit nicht automatisch durch das System zugesetzt wird, ist die Be- zeichnung händisch zu ergänzen"
 
 ---
 

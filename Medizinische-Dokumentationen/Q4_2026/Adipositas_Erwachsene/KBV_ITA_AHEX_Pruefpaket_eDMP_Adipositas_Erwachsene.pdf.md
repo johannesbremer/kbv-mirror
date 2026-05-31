@@ -253,11 +253,9 @@ einem gesonderten Ordner „**Dokumentation**“ übermittelt werden und folgend
 
 entsprechen. Diese werden durch den Prüfer begutachtet.
 
-- 1
+- _[lfdNr.]2 3
 
-- 2 3
-
--  PrüffallNr. _[lfdNr.] .*
+-  PrüffallNr. 1
 
 - Teilnahmeerklärung (Prüffall 1140): TE_EWE_ADERW.pdf
 
@@ -662,7 +660,7 @@ Kontrolle der softwareseitigen Erkennung von Fehleingaben Dokumentieren Sie durc
 | Manifester Diabetes mellitus Typ 2 | Nein | Nr. 6 |
 | Beendigung der DMP | Ja | Nr. 7 |
 
-der Krankenkasse 2) INDIKATIONSSPEZIFISCHE DATEN Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training Regelmäßige körperliche Alltagsaktivität Regelmäßiges körperliches Training Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung Adäquat geändertes Ernährungsverhalten Prädiabetes bei Einschreibung Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung teilgenommen Adipositas-Schulung empfohlen (bei aktueller Dokumentation) Relevante Ereignisse seit der letzten Dokumentation Manifester Diabetes mellitus Typ 2 Beendigung der DMP -Teilnahme Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation abgeschlossen werden kann. Ziele vereinbart Ziele vereinbart  Keto Unbekannt Aktion Nr. 2 Nr. 3 Nr. 4 Nr. 5 Nr. 6 Nr. 7
+der Krankenkasse 2) INDIKATIONSSPEZIFISCHE DATEN Aktion Ziele vereinbart Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training Nr. 2 Regelmäßige körperliche Alltagsaktivität Ziele vereinbart  Regelmäßiges körperliches Training Ziele zur Ernährungsumstellung oder zur Nr. 3 Aufrechterhaltung der Ernährungsänderung Adäquat geändertes Ernährungsverhalten Keto Nr. 4 Prädiabetes bei Einschreibung Unbekannt Nr. 5 Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung teilgenommen Adipositas-Schulung empfohlen (bei aktueller Dokumentation) Relevante Ereignisse seit der letzten Dokumentation Manifester Diabetes mellitus Typ 2 Nr. 6 Nr. 7 Beendigung der DMP -Teilnahme Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation abgeschlossen werden kann.
 
 ---
 
@@ -767,7 +765,7 @@ Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges Dokumenti
 |  | |
 |---|---|
 | **Prüffall-ID** | 1140 |
-| **Testziel** | eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
+| **Testziel** | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges  ) |
 | **Voraussetzung** |  |
 | **Prüfunterlagen** | PDF-Datei „TE_EWE_ADERW.pdf“ der indikationsübergreifenden |
 | **Hinweis** | Falls Ihr System die optionale Anforderung O |
@@ -789,7 +787,7 @@ Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 | DMP-Fallnummer | 1112 |
 | Datum | 15.10.2026 |
 
-Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges Teilnahme- und Einwilligungserklärung  7-10 (Ausdruck des Barcodes auf der indikationsübergreifenden Teilnahme - und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
+eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP Teilnahme- und Einwilligungserklärung  7-10 (Ausdruck des Barcodes auf der indikationsübergreifenden Teilnahme - und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
 
 ---
 
@@ -875,12 +873,12 @@ REFERENZIERTE DOKUMENTE
 | KBV_ITA_VGEX_Schnittstelle_eDMP_ | Dokumentation |
 | KBV_ITA_VGEX_Schnittstelle_eHeader | Dokumentation eHeader- |
 | XPM-Paket_ADERW | Prüfmodul eDMP Adipositas - |
-| Austausch_von_XML-Daten_Vn.nn.ZIP 4 | Austausch von XML Daten in der |
+| Austausch_von_XML-Daten_Vn.nn.ZIP4 | Austausch von XML Daten in der |
 | KBV_ITA_RLEX_Zert | Zertifizierungsrichtlinie der KBV |
 | KBV_ITA_FMEX_AAZ_eDMP_ | Antrag auf Zertifizierung eDMP |
 | Stammdateien | Im Rahmen der Prüfung sind die |
 | KBV-Kryptomodul (XKM) und öffentlicher Testschlüssel | KBV-Kryptomodul |
-| VSD_Testfaelle_DMP_Vn.n.zip 5 | eGK Daten |
+| VSD_Testfaelle_DMP_Vn.n.zip5 | eGK Daten |
 | KBV_ITA_VGEX_Schnittstelle_SDDA | Datensatzbeschreibung SDDA |
 | KBV_ITA_VGEX_Schnittstelle_SDKT | Datensatzbeschreibung SDKT |
 

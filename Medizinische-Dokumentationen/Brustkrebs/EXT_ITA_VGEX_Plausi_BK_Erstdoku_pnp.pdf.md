@@ -41,11 +41,11 @@ Anlage 4 DMP-A-RL 01.10.2023
 | 4 | Kostenträgername | Name der | Pflichtfeld |
 | 5 | Kostenträgerkennung | 9 bzw. 7-stellige | Pflichtfeld, 7- oder 9-stellige numerische Angabe |
 | 6 | Versicherten-Nummer | Nummer (bis zu 12 | Pflichtfeld;  bis zu 12 Stellen, alphanumerische Angabe |
-| 7a | Vertragsarzt-Nummer  1 1 2 | 9-stellige Nummer | Bedingtes Pflichtfeld, 9-stellige numerische Angabe  Wenn in Feld 8 eine Angabe erfolgt ist, ist hier keine Angabe notwendig. |
+| 7a | Vertragsarzt-Nummer1 1 2 | 9-stellige Nummer | Bedingtes Pflichtfeld, 9-stellige numerische Angabe  Wenn in Feld 8 eine Angabe erfolgt ist, ist hier keine Angabe notwendig. |
 | 7b | Betriebsstätten-Nummer | 9-stellige Nummer | Bedingtes Pflichtfeld, 9-stellige numerische Angabe  Wenn in Feld 8 eine Angabe erfolgt ist, ist hier keine Angabe notwendig. |
 | 8 | Krankenhaus- | IK-Nummer | Bedingtes Pflichtfeld; neunstellige numerische Angabe  Wenn eine Angabe in Feld 7a und in Feld 7b erfolgt ist, ist hier keine Angabe erforderlich |
 |  | [ | W | Optionales Feld; Nur die alleinige Angabe „w“ ist zulässig |
-| 9 | 2 | TT.MM.JJJJ | Pflichtfeld;  Das Datum muss gleich oder kleiner zum Erfassungsdatum bei der entgegennehmenden Stelle (z.B. |
+| 9 | Datum | TT.MM.JJJJ | Pflichtfeld;  Das Datum muss gleich oder kleiner zum Erfassungsdatum bei der entgegennehmenden Stelle (z.B. |
 | **Einschreibung** | | | |
 | 10 | Primärtumor   Datum des | TT.MM.JJJJ | - |
 

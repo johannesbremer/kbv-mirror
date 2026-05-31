@@ -2,21 +2,19 @@ Krankenkasse bzw. Kostenträger
 
 Name, Vorname des Versicherten
 
-Kostenträgerkennung
+geb. am
+
+Kostenträgerkennung Versicherten-Nr.
+
+Status
+
+Arzt-Nr.
+
+Datum
 
 Betriebsstätten-Nr.
 
 Name und Anschrift Krankenkasse
-
-Versicherten-Nr.
-
-Arzt-Nr.
-
-geb. am
-
-Status
-
-Datum
 
 **Akutbehandlung** für
 

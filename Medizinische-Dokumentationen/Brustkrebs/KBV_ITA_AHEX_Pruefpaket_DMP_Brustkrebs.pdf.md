@@ -23,77 +23,131 @@ Seite 1 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 20
 
 **ALLGEMEINES**
 
+**6**
+
 1.1 Rechtsgrundlage
+
+6
 
 1.2 Zertifizierungsablauf
 
+6
+
 1.3 Zertifizierungsportal
+
+7
 
 1.4 Zertifizierungsdokumente
 
+7
+
 1.5 Prüfunterlagen
 
-1.6 Prüfvorgaben  1.6.1 Prüfstammdaten 1.6.2 Versichertendaten
+7
+
+1.6 Prüfvorgaben
+
+9
+
+1.6.1 Prüfstammdaten
+
+9
+
+1.6.2 Versichertendaten
+
+9
 
 1.6.3 Praxisdaten/ Arztstempel
 
+9
+
 1.6.4 Krankenhausdaten
+
+10
 
 1.6.5 Prüfnummer
 
-1.6.6 Stammdatei der Datenannahmestellen (SDDA)
+10
 
-1.6.7 Auflistung der Prüffälle
+1.6.6 Stammdatei der Datenannahmestellen (SDDA) 10
+
+1.6.7 Auflistung der Prüffälle 10
 
 **PRÜFFÄLLE**
 
-2.1 Prüffälle Dokumentation  2.1.1 Prüffall 2612 2.1.2 Prüffall 2613
+**11**
+
+2.1 Prüffälle Dokumentation
+
+11
+
+2.1.1 Prüffall 2612
+
+11
+
+2.1.2 Prüffall 2613
+
+14
 
 2.1.3 Prüffall 2614
 
+18
+
 2.1.4 Prüffall 2615
+
+21
 
 2.1.5 Prüffall 2616
 
+24
+
 2.1.6 Prüffall 2617
 
-2.2 Prüffälle Systemreaktion  2.2.1 Prüffall 2618 2.2.2 Prüffall 2619
+27
 
-2.3 Weitere Prüffälle zum Anforderungskatalog 2.3.1 Prüffall 2621
+2.2 Prüffälle Systemreaktion
+
+30
+
+2.2.1 Prüffall 2618
+
+30
+
+2.2.2 Prüffall 2619
+
+32
+
+2.3 Weitere Prüffälle zum Anforderungskatalog 36
+
+2.3.1 Prüffall 2621
+
+36
 
 2.3.2 Prüffall 2640
 
+37
+
 **TESTDATENVALIDIERUNG**
-
-3.1 Prüffall TDV2630
-
-**ANHANG**
-
-4.1 Versichertendaten 1 Ersatzverfahren
-
-4.2 Versichertendaten 2 Ersatzverfahren
-
-**REFERENZIERTE DOKUMENTE**
-
-Seite 2 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
-
-**6**
-
-6  6  7  7  7  9  9  9  9  10  10  10  10
-
-**11**
-
-11  11  14  18  21  24  27  30  30  32  36  36  37
 
 **38**
 
+3.1 Prüffall TDV2630
+
 39
+
+**ANHANG**
 
 **41**
 
-41  42
+4.1 Versichertendaten 1 Ersatzverfahren 41
+
+4.2 Versichertendaten 2 Ersatzverfahren 42
+
+**REFERENZIERTE DOKUMENTE**
 
 **43**
+
+Seite 2 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
 
 
 ---
@@ -156,18 +210,15 @@ Seite 4 von 44 / KBV / Pruefpaket DMP-Brustkrebs
 | 28.02.2019 | KBV | redaktionelle Korrektur |  |
 |---|---|---|---|
 |  |  | von Prüffall 2612 |  |
+| 26.07.2018 | KBV | Komplettüberarbeitung | AlleAnpassungan |
 
-26.07.2018
+12.03.2018 KBV
 
-12.03.2018
+06.02.2018 KBV
 
-06.02.2018
+**Seite**
 
-KBV
-
-KBV
-
-KBV
+Alle
 
 Schnittstelle 4.25 4.25 ist ab 01.10.2024
 
@@ -177,39 +228,9 @@ zu verwenden
 
 den Prüffällen.
 
-TDV- Testfall zur
+TDV- Testfall zur 39
 
 Überprüfung der alten  Schnittstellenversion  4.23
-
-Layouts
-
-Corporate Design
-
-Komplettüberarbeitung Anpassung an
-
-des Prüfpakets
-
-überarbeitete  Plausibilitäten.
-
-Beschluss GBA mit  Wirkung zum  01.10.2018
-
-Einreichung des Antrag Anpassung des
-
-auf Zertifizierung
-
-Zertifizierungsportales
-
-Aufnahme eines Testfalls Personalienfeldanpass
-
-zur Überprüfung der ung zum 1. Juli 2018
-
-neuen  Schnittstellenversion
-
-/ Version: 4.28 / 14. August 2024
-
-**Seite**
-
-Alle 39
 
 Alle 37
 
@@ -219,24 +240,48 @@ Alle 37
 
 Alle
 
+Layouts
+
+Corporate Design
+
 Prüffall  2612
 
-Alle
+des Prüfpakets
 
-Zertifizier ungsablau f
+überarbeitete  Plausibilitäten.
+
+Beschluss GBA mit  Wirkung zum  01.10.2018
+
+Einreichung des Antrag Anpassung des
+
+Zertifizier
+
+auf Zertifizierung
+
+Zertifizierungsportales ungsablau f
+
+Aufnahme eines Testfalls Personalienfeldanpass
+
+zur Überprüfung der ung zum 1. Juli 2018
+
+neuen  Schnittstellenversion
+
+/ Version: 4.28 / 14. August 2024
+
+Anpassung an
 
 
 ---
 
 **Version**
 
-4.19
-
 | **Datum** | **Autor** | **Änderung** | **Begründung** |
 |---|---|---|---|
 |  |  | 4.21 |  |
 | 23.05.2017 | KBV | Komplettüberarbeitung | Aktualisierung der |
 |  |  | des Prüfpakets | Zertifizierungsrichtlinie |
+
+4.19
 
 **Seite**
 
@@ -361,11 +406,9 @@ Die geforderten Videomitschnitte, Screenshots sowie die Teilnahmeerklärung (Pr�
 
 einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.
 
-1
+[PrüffallNr.]1_[lfdNr.]2 3
 
-2 3
-
-[PrüffallNr.] _[lfdNr.] .*  Teilnahmeerklärung (Prüffall 2640): TE_EWE_BK.pdf
+Teilnahmeerklärung (Prüffall 2640): TE_EWE_BK.pdf
 
 Alle Prüfunterlagen (BK-Unterlagen und der Ordner „Dokumentation“ sind in einem ZIP-Archiv zu
 
@@ -561,6 +604,8 @@ Müllerstraße 12
 
 06151 / 3333333
 
+ein
+
 **VERZEICHNISNAME**
 
 XML_03
@@ -575,9 +620,9 @@ XML_16
 
 XML_36
 
-Ersatzverfahren (s. Versichertendaten 1 Ersatzverfahren)
+Ersatzverfahren (s. Versichertendaten 1
 
-ein
+Ersatzverfahren)
 
 
 ---
@@ -632,7 +677,7 @@ Kontralateraler Brustkrebs Datum der histologischen Sicherung
 
 Lokoregionäres Rezidiv Datum der histologischen Sicherung
 
-Fernmetastasen Datum der diagnostischen Sicher
+Fernmetastasen Datum der diagnostischen Sicherung von
 
 Fernmetastasen
 
@@ -641,8 +686,6 @@ Fernmetastasen
 Operative Therapie
 
 **Aktueller Befundstatus des Primärtumors / kontralateralen Brustkrebses**
-
-ung von
 
 **VERZEICHNISNAME**
 
@@ -728,15 +771,13 @@ Anthrazykline (Doxorubicin,  Epirubicin), Anti-HER2- Substanzen, linksthorakale 
 
 **3.** **Anlegen einer Folgedokumentation**
 
-**DATEN ZUR FOLGEDOKUMENTATION**
+**DATEN ZUR FOLGEDOKUMENTATION BRUSTKREBS**
 
 **Administrative Daten**
 
 DMP-Fallnummer
 
 Datum der Erstellung
-
-**BRUSTKREBS**
 
 Dokumentationsintervall
 
@@ -831,13 +872,27 @@ Nein, Kontraindikation
 
 **Hinweis**
 
-**Aktionen, die durch den Antragssteller durchgeführt werden:** **1.** Versichertendaten:  Die Versichertendaten von Brigitte Althaus (XML_05) einlesen und speichern.   **2.** Anlegen einer Erstdokumentation  **DATEN ZUR ERSTDOKUMENTATION BRUSTKREBS**
+**Aktionen, die durch den Antragssteller durchgeführt werden:**
+
+**1.** Versichertendaten:  Die Versichertendaten von Brigitte Althaus (XML_05) einlesen und speichern.
+
+**2.** Anlegen einer Erstdokumentation  **DATEN ZUR ERSTDOKUMENTATION BRUSTKREBS**
 
 **Administrative Daten**
 
 DMP-Fallnummer
 
-Datum der Erstellung
+Datum der Erstellung 2613
+
+Dieser Prüffall spiegelt die Möglichkeit einer „postoperativen Erstdokumentation  nach vorheriger präoperativer Einschreibung“ (pnp) wider. Es ist also nach der  präoperativen Erstdokumentation eine postoperative Erstdokumentation
+
+nachzureichen. Anschließend ist noch eine Folgedokumentation zu erstellen. Für  die Bearbeitung dieses Prüffalls müssen also drei Dokumentationsdateien  erzeugt werden.  Für diesen Prüffall werden zusätzliche Screenshots zu folgenden Sachverhalten
+
+erwartet:  Für diesen Prüffall wird ein Video erwartet, aus dem folgender Sachverhalt  sichtbar wird:  1. Der Anwender wählt vor Dateneingabe die auszufüllende Variante der  Erstdokumentation.  2. Die Felder, die in der pnp nicht angegeben werden dürfen, sind zu  sperren.
+
+Brustkrebs Dokumentationsunterlagen
+
+Bitte achten Sie an dieser Stelle auf die Hinweise in  KBV_ITA_VGEX_Schnittstelle_DMP_Brustkrebs dass die Erstellung einer pnp nur dann zulässig ist, wenn auch wirklich eine  präoperative Erstdokumentation existiert.
 
 Dokumentationsintervall
 
@@ -851,17 +906,7 @@ Primärtumor Datum der histologischen Sicherung
 
 Kontralateraler Brustkrebs Datum der histologischen Sicherung
 
-Lokoregionäres Rezidiv Datum der histologischen Sicherung 2613
-
-Dieser Prüffall spiegelt die Möglichkeit einer „postoperativen Erstdokumentation  nach vorheriger präoperativer Einschreibung“ (pnp) wider. Es ist also nach der  präoperativen Erstdokumentation eine postoperative Erstdokumentation
-
-nachzureichen. Anschließend ist noch eine Folgedokumentation zu erstellen. Für  die Bearbeitung dieses Prüffalls müssen also drei Dokumentationsdateien  erzeugt werden.  Für diesen Prüffall werden zusätzliche Screenshots zu folgenden Sachverhalten
-
-erwartet:  Für diesen Prüffall wird ein Video erwartet, aus dem folgender Sachverhalt  sichtbar wird:  1. Der Anwender wählt vor Dateneingabe die auszufüllende Variante der  Erstdokumentation.  2. Die Felder, die in der pnp nicht angegeben werden dürfen, sind zu  sperren.
-
-Brustkrebs Dokumentationsunterlagen
-
-Bitte achten Sie an dieser Stelle auf die Hinweise in  KBV_ITA_VGEX_Schnittstelle_DMP_Brustkrebs dass die Erstellung einer pnp nur dann zulässig ist, wenn auch wirklich eine  präoperative Erstdokumentation existiert.
+Lokoregionäres Rezidiv Datum der histologischen Sicherung
 
 . Außerdem ist darauf zu achten,
 
@@ -947,9 +992,7 @@ Nein
 
 ---
 
-**3.** **Anlegen einer postoperativen Erstdokumentation**
-
-**DATEN ZUR POSTOPERATIVEN ERSTDOKUMENTATION BRUSTKREBS**
+**3.** **Anlegen einer postoperativen Erstdokumentation**   **DATEN ZUR POSTOPERATIVEN ERSTDOKUMENTATION BRUSTKREBS**
 
 **Administrative Daten**
 
@@ -1040,9 +1083,7 @@ Empfehlung zu regelmäßigem körperlichen Training
 
 Z. n. besonders kardiotoxischer Tumortherapie
 
-**4.** **Anlegen einer Folgedokumentation**
-
-**DATEN ZUR FOLGEDOKUMENTATION BRUSTKREBS**
+**4.** **Anlegen einer Folgedokumentation**  **DATEN ZUR FOLGEDOKUMENTATION BRUSTKREBS**
 
 **Administrative Daten**
 
@@ -1854,9 +1895,7 @@ Unbekannt
 
 ---
 
-**3.** **Anlegen einer Folgedokumentation**
-
-**DATEN ZUR FOLGEDOKUMENTATION BRUSTKREBS**
+**3.** **Anlegen einer Folgedokumentation**   **DATEN ZUR FOLGEDOKUMENTATION BRUSTKREBS**
 
 **Administrative Daten**
 
@@ -2126,7 +2165,7 @@ Allgemeines
 
 **Einschreibung**
 
-Primärtumor Datum der histologischen
+Primärtumor Datum der histologischen  Sicherung
 
 **Anamnese und Behandlungsstatus des Primärtumors / kontralateralen**  **Brustkrebses**
 
@@ -2142,7 +2181,7 @@ M
 
 **Einschreibung**
 
-Primärtumor Datum der histologischen
+Primärtumor Datum der histologischen  Sicherung
 
 **Anamnese und Behandlungsstatus des Primärtumors /**  **Brustkrebses**
 
@@ -2162,11 +2201,7 @@ Nebenwirkungen der aktuellen adjuvanten endokrinen Therapie
 
 Fortführung der adjuvanten endokrinen Therapie
 
-Bei Patientinnen unter adjuvanter Therapie mit Aromataseinhibitoren,  sofern die Absicht für eine spezifische medikamentöse Therapie einer  Osteoporose besteht: DXA-Befund
-
-Sicherung
-
-Sicherung 01.08.2024
+Bei Patientinnen unter adjuvanter Therapie mit Aromataseinhibitoren,  sofern die Absicht für eine spezifische medikamentöse Therapie einer  Osteoporose besteht: DXA-Befund 01.08.2024
 
 OP geplant
 

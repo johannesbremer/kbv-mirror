@@ -3,15 +3,15 @@
 |  | *Datensatzbeschreibung SDKV* |
 |  | [KBV_ITA_VGEX_Datensatzbeschreibung_SDKV |
 |  |  |
-|  |  |
+|  | Dezernat Digitalisierung und IT |
 |  |  |
 |  | 10623 Berlin, Herbert |
 |  |  |
 |  |  |
-|  |  |
+|  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-(KV-- Spezifika Stammdatei) Dezernat Digitalisierung und IT -Lewin-Platz 2 Kassenärztliche Bundesvereinigung 3.56 Datum: 18.01.2021 Kennzeichnung: Öffentlich Status: In Kraft
+(KV-- Spezifika Stammdatei) -Lewin-Platz 2 3.56 Datum: 18.01.2021 Kennzeichnung: Öffentlich Status: In Kraft
 
 
 ---
@@ -159,9 +159,7 @@ Eine KV-- Spezifika Datei ist in Sätze unterteilt. Folgende Sätze sind definie
 
 -  SKT-Abrechnungs-Zusatzangaben “kvx3”
 
-- 1
-
--  Sortierung “kvx4” (nur für KV)
+-  Sortierung “kvx4” (nur für KV) 1
 
 -  Scheinabgabe “kvx5” (nur für KV)
 
@@ -276,7 +274,7 @@ existiert.
 
 **2.1 Definition der Satzart: SDKV**
 
-| **FK** | **2** | **Bezeichnung** | **Feldart** | **Bedingung** | **Erläuterung** |
+| **FK** | **Vorkommen** | **Bezeichnung** | **Feldart** | **Bedingung** | **Erläuterung** |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzart | M |  | SDKV-Headersatz |
 | 9103 | 1 | Erstellungsdatum | M |  |  |
@@ -294,14 +292,14 @@ existiert.
 
 **2.2 Definition der Satzart: SDKV-Endesatz “kvx9”**
 
-| **FK** | **2** | **Bezeichnung** | **Feldart** | **Bedingung** | **Erläuterung** |
+| **FK** | **Vorkommen** | **Bezeichnung** | **Feldart** | **Bedingung** | **Erläuterung** |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzart | M |  | SDKV-Endesatz |
 | 9219 | 1 | Version SDKV-Pflegeprogramm | M |  | nur für KBV-interne |
 
 ## -Headersatz “kvx0”
 
-Vorkommen Datei Datei gültig Vorkommen 3 Zwecke: Versionsnummer des SDKV-- programms, mit der diese Datei erstellt wurde
+Datei Datei gültig 3 Zwecke: Versionsnummer des SDKV-- programms, mit der diese Datei erstellt wurde
 
 ---
 
@@ -332,7 +330,7 @@ Vorkommen Datei Datei gültig Vorkommen 3 Zwecke: Versionsnummer des SDKV-- prog
 
 **2.5 Definition der Satzart: SKT-Abrechnungs-Zusatzangaben**  **“kvx3”**
 
-| **FK** | **3** | **Bezeichnung** | **Feldart** | **Bedingung** | **Erläuterung** |
+| **FK** | **Vorkommen** | **Bezeichnung** | **Feldart** | **Bedingung** | **Erläuterung** |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzart | M |  | Satzart SKT- |
 | 2018 | n | Kostenträgergruppe | M |  | vgl. Regel 452 |
@@ -343,7 +341,7 @@ Vorkommen Datei Datei gültig Vorkommen 3 Zwecke: Versionsnummer des SDKV-- prog
 | 9406 |  | nicht zulässige Satzarten “010x” | m | Regel 453 |  |
 | 9407 |  | nicht zulässige Versichertenarten in | m | Regel 453 |  |
 
-| **FK** | **3** | **Bezeichnung** | **Feldart** | **Bedingung** | **Erläuterung** |
+| **FK** | **Vorkommen** | **Bezeichnung** | **Feldart** | **Bedingung** | **Erläuterung** |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzidentifikation | M |  | Satzart Sortierung |
 | 9452 | n | Festlegung der Sortierkriterien | M |  |  |
@@ -369,7 +367,7 @@ Vorkommen Datei Datei gültig Vorkommen 3 Zwecke: Versionsnummer des SDKV-- prog
 
 ## 2
 
-Vorkommen (KTAB) Werte in Feld “4123” (Personenkreis/ Untersuchungskategorie) “4124” (SKT-Zusatzangaben) Abrechnungsinformation SKT Feld “3108” Abrechnungs- Zusatzangaben Vorkommen
+(KTAB) Werte in Feld “4123” (Personenkreis/ Untersuchungskategorie) “4124” (SKT-Zusatzangaben) Abrechnungsinformation SKT Feld “3108” Abrechnungs- Zusatzangaben
 
 ---
 
@@ -395,7 +393,7 @@ Vorkommen (KTAB) Werte in Feld “4123” (Personenkreis/ Untersuchungskategorie
 
 3 Satz “kvx5” ist ein “Kann Satz”.
 
-2.7 Definition der Satzart: Scheinabgabe “kvx5” 8000 9408 5001 Satzart Abgabe von Früherkennungsdokumenten GNR Betriebsstättennummernkontingent von ... Betriebsstättennummernkontingent bis ... Liste aller Überweisungsscheine  Liste aller abzugebenden Behandlungsscheine zzgl. aller Überweisungsscheine  Satzart | **FK** | **2** | **Bezeichnung** | **Feldart** | **Bedingung** | **Erläuterung** |
+2.7 Definition der Satzart: Scheinabgabe “kvx5” 8000 9408 5001 Satzart Abgabe von Früherkennungsdokumenten GNR Betriebsstättennummernkontingent von ... Betriebsstättennummernkontingent bis ... Liste aller Überweisungsscheine  Liste aller abzugebenden Behandlungsscheine zzgl. aller Überweisungsscheine  Satzart | **FK** | **Vorkommen** | **Bezeichnung** | **Feldart** | **Bedingung** | **Erläuterung** |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzart | M |  | Satzart |
 | 9408 | 1 | Abgabe von Früherkennungsdokumenten | K |  |  |
@@ -446,9 +444,7 @@ Vorkommen (KTAB) Werte in Feld “4123” (Personenkreis/ Untersuchungskategorie
 | 4106 |  | KTAB | m |  |  |
 | 4107 |  | Abrechnungsart | m |  |  |
 
-## 2.10 Definition der  4
-
-**“kvx8 ”**
+**2.10 Definition der**  **“kvx84**
 
 | **FK** | **Vorkommen** | **Bezeichnung** | **Feldart** | **Bedingung** | **Erläuterung** |
 |---|---|---|---|---|---|
@@ -500,50 +496,50 @@ Zusammenhang.
 
 | **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 |---|---|---|---|---|---|---|
-| 2018 | Kostenträgergruppe | 2 | n | 452 | Ortskrankenkasse (AOK)  02 = Primärkasse LKK Landwirtschaftliche  03 = Primärkasse IKK Innungskrankenkasse (IKK)  04 = Primärkasse BKK Betriebskrankenkasse  05 =  ( 06 = Primärkasse ehem. See  (VdEK)  12 = Ersatzkasse ehem. AEV  30 = Sonstige Kostenträger BVF  Kostenträger (AUS)  59 = Sonstige Kostenträger SHT Sozialhilfeträger  Bundesgrenzschutz (BGS)  72 = Sonstige Kostenträger ZIV  73 = Sonstige Kostenträger PFJ Polizei (POL)/  75 = Sonstige Kostenträger BW Bundeswehr (BW)  76 = Sonstige Kostenträger GSA  Dienst der Krankenkassen (MDK)  81 = Sonstige Kostenträger PBA  Postbeamtenkrankenkasse, Dienstunfall (PBD  84 = Sonstige Kostenträger DBM  85 = Sonstige Kostenträger DBD  Jugendarbeitsschutzuntersuchung (JAS)  87 = Sonstige Kostenträger EA  88 = Sonstige Kostenträger UV Träger der | 03 |
+| 2018 | Kostenträgergruppe | 2 | n | 186 | 01 = Primärkasse AOK Allgemeine  02 = Primärkasse LKK Landwirtschaftliche  03 = Primärkasse IKK Innungskrankenkasse (IKK)  04 = Primärkasse BKK Betriebskrankenkasse  05 =  ( 06 = Primärkasse ehem. See  11 = Ersatzkasse VdEK Verband der Ersatzkassen  12 = Ersatzkasse ehem. AEV  30 = Sonstige Kostenträger BVF  35 = Sonstige Kostenträger AUS Ausländische  59 = Sonstige Kostenträger SHT Sozialhilfeträger  71 = Sonstige Kostenträger BGS  72 = Sonstige Kostenträger ZIV  73 = Sonstige Kostenträger PFJ Polizei (POL)/  75 = Sonstige Kostenträger BW Bundeswehr (BW)  76 = Sonstige Kostenträger GSA  77 = Sonstige Kostenträger MDK Medizinischer  81 = Sonstige Kostenträger PBA  82 = Sonstige Kostenträger PBD  84 = Sonstige Kostenträger DBM  85 = Sonstige Kostenträger DBD  86 = Sonstige Kostenträger JAS  87 = Sonstige Kostenträger EA  88 = Sonstige Kostenträger UV Träger der | 03 |
 | 4106 | Kostenträger- | 2 | n | 174 | 00 = Primärabrechnung  01 = Sozialversicherungsabkommen (SVA)  02 = Bundesversorgungsgesetz (BVG)  03 = Bundesentschädigungsgesetz (BEG)  04 = Grenzgänger (GG)  05 = Rheinschiffer (RHS)  06 = Sozialhilfeträger, ohne Asylstellen (SHT)  07 = Bundesvertriebenengesetz (BVFG)  08 = Asylstellen (AS)  09 = Schwangerschaftsabbrüche | 01 |
 | 4107 | Abrechnungsart | 1 | n | 106 | 1 = PKA (Primärkassen)  2 = EKK (Ersatzkassen)  3 = SKT (Sonstige Kostenträger) | 1 |
-| 4121 | Gebührenordnung | 1 | n | 442 | 1 = BMÄ  2 = E-GO  3 = GOÄ | 1 |
+| 4121 | Gebührenordnung | 1 | n | 106 | 1 = BMÄ  2 = E-GO  3 = GOÄ | 1 |
 |  |  |  |  |  |  |  |
-| **Beispiel** |  | 2018 | Kostenträgergruppe | 2 | n  452  Ortskrankenkasse (AOK)  02 = Primärkasse LKK Landwirtschaftliche  03 = Primärkasse IKK Innungskrankenkasse (IKK)  04 = Primärkasse BKK Betriebskrankenkasse  05 =  ( 06 = Primärkasse ehem. See  (VdEK)  12 = Ersatzkasse ehem. AEV  30 = Sonstige Kostenträger BVF  Kostenträger (AUS)  59 = Sonstige Kostenträger SHT Sozialhilfeträger | Bundesgrenzschutz (BGS) |
-| 72 = Sonstige Kostenträger ZIV | 73 = Sonstige Kostenträger PFJ Polizei (POL)/ | 75 = Sonstige Kostenträger BW Bundeswehr (BW) | 76 = Sonstige Kostenträger GSA | Dienst der Krankenkassen (MDK) | 81 = Sonstige Kostenträger PBA  Postbeamtenkrankenkasse, Dienstunfall (PBD  84 = Sonstige Kostenträger DBM  85 = Sonstige Kostenträger DBD  Jugendarbeitsschutzuntersuchung (JAS)  87 = Sonstige Kostenträger EA  88 = Sonstige Kostenträger UV Träger der  03  4106  Kostenträger- 2  n  174  00 = Primärabrechnung  01 = Sozialversicherungsabkommen (SVA)  02 = Bundesversorgungsgesetz (BVG)  03 = Bundesentschädigungsgesetz (BEG)  04 = Grenzgänger (GG)  05 = Rheinschiffer (RHS)  06 = Sozialhilfeträger, ohne Asylstellen (SHT) | 07 = Bundesvertriebenengesetz (BVFG) |
+| **Beispiel** |  | 2018 | Kostenträgergruppe | 2 | n  186  01 = Primärkasse AOK Allgemeine  02 = Primärkasse LKK Landwirtschaftliche  03 = Primärkasse IKK Innungskrankenkasse (IKK)  04 = Primärkasse BKK Betriebskrankenkasse  05 =  ( 06 = Primärkasse ehem. See  11 = Ersatzkasse VdEK Verband der Ersatzkassen  12 = Ersatzkasse ehem. AEV  30 = Sonstige Kostenträger BVF  35 = Sonstige Kostenträger AUS Ausländische  59 = Sonstige Kostenträger SHT Sozialhilfeträger | 71 = Sonstige Kostenträger BGS |
+| 72 = Sonstige Kostenträger ZIV | 73 = Sonstige Kostenträger PFJ Polizei (POL)/ | 75 = Sonstige Kostenträger BW Bundeswehr (BW) | 76 = Sonstige Kostenträger GSA | 77 = Sonstige Kostenträger MDK Medizinischer | 81 = Sonstige Kostenträger PBA  82 = Sonstige Kostenträger PBD  84 = Sonstige Kostenträger DBM  85 = Sonstige Kostenträger DBD  86 = Sonstige Kostenträger JAS  87 = Sonstige Kostenträger EA  88 = Sonstige Kostenträger UV Träger der  03  4106  Kostenträger- 2  n  174  00 = Primärabrechnung  01 = Sozialversicherungsabkommen (SVA)  02 = Bundesversorgungsgesetz (BVG)  03 = Bundesentschädigungsgesetz (BEG)  04 = Grenzgänger (GG)  05 = Rheinschiffer (RHS)  06 = Sozialhilfeträger, ohne Asylstellen (SHT) | 07 = Bundesvertriebenengesetz (BVFG) |
 | 08 = Asylstellen (AS) | 09 = Schwangerschaftsabbrüche | 01  4107 | 1 | n | 106 | 1 = PKA (Primärkassen) |
 | 2 = EKK (Ersatzkassen) | 3 = SKT (Sonstige Kostenträger) | 1 | 4121 | Gebührenordnung | 1 | n |
-| 442 | 1 = BMÄ | 2 = E-GO | 3 = GOÄ | 1 |  |  |
+| 106 | 1 = BMÄ | 2 = E-GO | 3 = GOÄ | 1 |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
-| **Beispiel** |  | 2018 | Kostenträgergruppe | 2 | n  452  Ortskrankenkasse (AOK)  02 = Primärkasse LKK Landwirtschaftliche  03 = Primärkasse IKK Innungskrankenkasse (IKK)  04 = Primärkasse BKK Betriebskrankenkasse  05 =  ( 06 = Primärkasse ehem. See  (VdEK)  12 = Ersatzkasse ehem. AEV  30 = Sonstige Kostenträger BVF  Kostenträger (AUS)  59 = Sonstige Kostenträger SHT Sozialhilfeträger  Bundesgrenzschutz (BGS)  72 = Sonstige Kostenträger ZIV  73 = Sonstige Kostenträger PFJ Polizei (POL)/  75 = Sonstige Kostenträger BW Bundeswehr (BW)  76 = Sonstige Kostenträger GSA | Dienst der Krankenkassen (MDK) |
-| 81 = Sonstige Kostenträger PBA | Postbeamtenkrankenkasse, Dienstunfall (PBD | 84 = Sonstige Kostenträger DBM | 85 = Sonstige Kostenträger DBD | Jugendarbeitsschutzuntersuchung (JAS)  87 = Sonstige Kostenträger EA | 88 = Sonstige Kostenträger UV Träger der  03  4106 | Kostenträger- |
+| **Beispiel** |  | 2018 | Kostenträgergruppe | 2 | n  186  01 = Primärkasse AOK Allgemeine  02 = Primärkasse LKK Landwirtschaftliche  03 = Primärkasse IKK Innungskrankenkasse (IKK)  04 = Primärkasse BKK Betriebskrankenkasse  05 =  ( 06 = Primärkasse ehem. See  11 = Ersatzkasse VdEK Verband der Ersatzkassen  12 = Ersatzkasse ehem. AEV  30 = Sonstige Kostenträger BVF  35 = Sonstige Kostenträger AUS Ausländische  59 = Sonstige Kostenträger SHT Sozialhilfeträger  71 = Sonstige Kostenträger BGS  72 = Sonstige Kostenträger ZIV  73 = Sonstige Kostenträger PFJ Polizei (POL)/  75 = Sonstige Kostenträger BW Bundeswehr (BW)  76 = Sonstige Kostenträger GSA | 77 = Sonstige Kostenträger MDK Medizinischer |
+| 81 = Sonstige Kostenträger PBA | 82 = Sonstige Kostenträger PBD | 84 = Sonstige Kostenträger DBM | 85 = Sonstige Kostenträger DBD | 86 = Sonstige Kostenträger JAS  87 = Sonstige Kostenträger EA | 88 = Sonstige Kostenträger UV Träger der  03  4106 | Kostenträger- |
 | 2 | n | 174 | 00 = Primärabrechnung | 01 = Sozialversicherungsabkommen (SVA) | 02 = Bundesversorgungsgesetz (BVG) | 03 = Bundesentschädigungsgesetz (BEG) |
 | 04 = Grenzgänger (GG) | 05 = Rheinschiffer (RHS) | 06 = Sozialhilfeträger, ohne Asylstellen (SHT) | 07 = Bundesvertriebenengesetz (BVFG) | 08 = Asylstellen (AS) | 09 = Schwangerschaftsabbrüche | 01 |
 | 4107 | Abrechnungsart | 1 | n | 106  1 = PKA (Primärkassen) | 2 = EKK (Ersatzkassen)  3 = SKT (Sonstige Kostenträger)  1 | 4121 |
-| Gebührenordnung | 1 | n | 442 | 1 = BMÄ | 2 = E-GO | 3 = GOÄ |
+| Gebührenordnung | 1 | n | 106 | 1 = BMÄ | 2 = E-GO | 3 = GOÄ |
 | 1 |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
-| **Beispiel** |  | 2018 | Kostenträgergruppe | 2 | n  452  Ortskrankenkasse (AOK)  02 = Primärkasse LKK Landwirtschaftliche  03 = Primärkasse IKK Innungskrankenkasse (IKK)  04 = Primärkasse BKK Betriebskrankenkasse  05 =  ( 06 = Primärkasse ehem. See  (VdEK)  12 = Ersatzkasse ehem. AEV | 30 = Sonstige Kostenträger BVF |
-| Kostenträger (AUS) | 59 = Sonstige Kostenträger SHT Sozialhilfeträger | Bundesgrenzschutz (BGS) | 72 = Sonstige Kostenträger ZIV | 73 = Sonstige Kostenträger PFJ Polizei (POL)/  75 = Sonstige Kostenträger BW Bundeswehr (BW) | 76 = Sonstige Kostenträger GSA  Dienst der Krankenkassen (MDK)  81 = Sonstige Kostenträger PBA  Postbeamtenkrankenkasse, Dienstunfall (PBD  84 = Sonstige Kostenträger DBM  85 = Sonstige Kostenträger DBD  Jugendarbeitsschutzuntersuchung (JAS)  87 = Sonstige Kostenträger EA  88 = Sonstige Kostenträger UV Träger der  03  4106  Kostenträger- | 2 |
+| **Beispiel** |  | 2018 | Kostenträgergruppe | 2 | n  186  01 = Primärkasse AOK Allgemeine  02 = Primärkasse LKK Landwirtschaftliche  03 = Primärkasse IKK Innungskrankenkasse (IKK)  04 = Primärkasse BKK Betriebskrankenkasse  05 =  ( 06 = Primärkasse ehem. See  11 = Ersatzkasse VdEK Verband der Ersatzkassen  12 = Ersatzkasse ehem. AEV | 30 = Sonstige Kostenträger BVF |
+| 35 = Sonstige Kostenträger AUS Ausländische | 59 = Sonstige Kostenträger SHT Sozialhilfeträger | 71 = Sonstige Kostenträger BGS | 72 = Sonstige Kostenträger ZIV | 73 = Sonstige Kostenträger PFJ Polizei (POL)/  75 = Sonstige Kostenträger BW Bundeswehr (BW) | 76 = Sonstige Kostenträger GSA  77 = Sonstige Kostenträger MDK Medizinischer  81 = Sonstige Kostenträger PBA  82 = Sonstige Kostenträger PBD  84 = Sonstige Kostenträger DBM  85 = Sonstige Kostenträger DBD  86 = Sonstige Kostenträger JAS  87 = Sonstige Kostenträger EA  88 = Sonstige Kostenträger UV Träger der  03  4106  Kostenträger- | 2 |
 | n | 174 | 00 = Primärabrechnung | 01 = Sozialversicherungsabkommen (SVA) | 02 = Bundesversorgungsgesetz (BVG)  03 = Bundesentschädigungsgesetz (BEG) | 04 = Grenzgänger (GG)  05 = Rheinschiffer (RHS)  06 = Sozialhilfeträger, ohne Asylstellen (SHT)  07 = Bundesvertriebenengesetz (BVFG)  08 = Asylstellen (AS)  09 = Schwangerschaftsabbrüche  01  4107  Abrechnungsart  1 | n |
-| 106 | 1 = PKA (Primärkassen) | 2 = EKK (Ersatzkassen) | 3 = SKT (Sonstige Kostenträger) | 1  4121 | Gebührenordnung  1  n | 442 |
+| 106 | 1 = PKA (Primärkassen) | 2 = EKK (Ersatzkassen) | 3 = SKT (Sonstige Kostenträger) | 1  4121 | Gebührenordnung  1  n | 106 |
 |  |  |  |  |  |  |  |
-| **Beispiel** |  | 2018 | Kostenträgergruppe | 2 | n  452  Ortskrankenkasse (AOK) | 02 = Primärkasse LKK Landwirtschaftliche |
-| 03 = Primärkasse IKK Innungskrankenkasse (IKK) | 04 = Primärkasse BKK Betriebskrankenkasse | 05 =  ( | 06 = Primärkasse ehem. See | (VdEK)  12 = Ersatzkasse ehem. AEV | 30 = Sonstige Kostenträger BVF  Kostenträger (AUS)  59 = Sonstige Kostenträger SHT Sozialhilfeträger  Bundesgrenzschutz (BGS) | 72 = Sonstige Kostenträger ZIV |
-| 73 = Sonstige Kostenträger PFJ Polizei (POL)/ | 75 = Sonstige Kostenträger BW Bundeswehr (BW) | 76 = Sonstige Kostenträger GSA | Dienst der Krankenkassen (MDK) | 81 = Sonstige Kostenträger PBA  Postbeamtenkrankenkasse, Dienstunfall (PBD | 84 = Sonstige Kostenträger DBM  85 = Sonstige Kostenträger DBD  Jugendarbeitsschutzuntersuchung (JAS) | 87 = Sonstige Kostenträger EA |
+| **Beispiel** |  | 2018 | Kostenträgergruppe | 2 | n  186  01 = Primärkasse AOK Allgemeine | 02 = Primärkasse LKK Landwirtschaftliche |
+| 03 = Primärkasse IKK Innungskrankenkasse (IKK) | 04 = Primärkasse BKK Betriebskrankenkasse | 05 =  ( | 06 = Primärkasse ehem. See | 11 = Ersatzkasse VdEK Verband der Ersatzkassen  12 = Ersatzkasse ehem. AEV | 30 = Sonstige Kostenträger BVF  35 = Sonstige Kostenträger AUS Ausländische  59 = Sonstige Kostenträger SHT Sozialhilfeträger  71 = Sonstige Kostenträger BGS | 72 = Sonstige Kostenträger ZIV |
+| 73 = Sonstige Kostenträger PFJ Polizei (POL)/ | 75 = Sonstige Kostenträger BW Bundeswehr (BW) | 76 = Sonstige Kostenträger GSA | 77 = Sonstige Kostenträger MDK Medizinischer | 81 = Sonstige Kostenträger PBA  82 = Sonstige Kostenträger PBD | 84 = Sonstige Kostenträger DBM  85 = Sonstige Kostenträger DBD  86 = Sonstige Kostenträger JAS | 87 = Sonstige Kostenträger EA |
 | 88 = Sonstige Kostenträger UV Träger der | 03 | 4106 | Kostenträger- | 2 | n | 174 |
 | 00 = Primärabrechnung | 01 = Sozialversicherungsabkommen (SVA) | 02 = Bundesversorgungsgesetz (BVG) | 03 = Bundesentschädigungsgesetz (BEG) | 04 = Grenzgänger (GG) | 05 = Rheinschiffer (RHS)  06 = Sozialhilfeträger, ohne Asylstellen (SHT)  07 = Bundesvertriebenengesetz (BVFG)  08 = Asylstellen (AS)  09 = Schwangerschaftsabbrüche  01  4107  Abrechnungsart  1  n | 106 |
-| 1 = PKA (Primärkassen) | 2 = EKK (Ersatzkassen) | 3 = SKT (Sonstige Kostenträger)  1 | Gebührenordnung | 1 | n | 442 |
+| 1 = PKA (Primärkassen) | 2 = EKK (Ersatzkassen) | 3 = SKT (Sonstige Kostenträger)  1 | Gebührenordnung | 1 | n | 106 |
 | 1 = BMÄ | 2 = E-GO | 3 = GOÄ | 1 |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
-| **Beispiel** |  | 2018 | Kostenträgergruppe | 2 | n  452  Ortskrankenkasse (AOK)  02 = Primärkasse LKK Landwirtschaftliche  03 = Primärkasse IKK Innungskrankenkasse (IKK)  04 = Primärkasse BKK Betriebskrankenkasse  05 =  ( 06 = Primärkasse ehem. See  (VdEK) | 12 = Ersatzkasse ehem. AEV |
-| 30 = Sonstige Kostenträger BVF | Kostenträger (AUS) | 59 = Sonstige Kostenträger SHT Sozialhilfeträger | Bundesgrenzschutz (BGS) | 72 = Sonstige Kostenträger ZIV | 73 = Sonstige Kostenträger PFJ Polizei (POL)/ | 75 = Sonstige Kostenträger BW Bundeswehr (BW) |
-| 76 = Sonstige Kostenträger GSA | Dienst der Krankenkassen (MDK) | 81 = Sonstige Kostenträger PBA | Postbeamtenkrankenkasse, Dienstunfall (PBD | 84 = Sonstige Kostenträger DBM | 85 = Sonstige Kostenträger DBD | Jugendarbeitsschutzuntersuchung (JAS) |
+| **Beispiel** |  | 2018 | Kostenträgergruppe | 2 | n  186  01 = Primärkasse AOK Allgemeine  02 = Primärkasse LKK Landwirtschaftliche  03 = Primärkasse IKK Innungskrankenkasse (IKK)  04 = Primärkasse BKK Betriebskrankenkasse  05 =  ( 06 = Primärkasse ehem. See  11 = Ersatzkasse VdEK Verband der Ersatzkassen | 12 = Ersatzkasse ehem. AEV |
+| 30 = Sonstige Kostenträger BVF | 35 = Sonstige Kostenträger AUS Ausländische | 59 = Sonstige Kostenträger SHT Sozialhilfeträger | 71 = Sonstige Kostenträger BGS | 72 = Sonstige Kostenträger ZIV | 73 = Sonstige Kostenträger PFJ Polizei (POL)/ | 75 = Sonstige Kostenträger BW Bundeswehr (BW) |
+| 76 = Sonstige Kostenträger GSA | 77 = Sonstige Kostenträger MDK Medizinischer | 81 = Sonstige Kostenträger PBA | 82 = Sonstige Kostenträger PBD | 84 = Sonstige Kostenträger DBM | 85 = Sonstige Kostenträger DBD | 86 = Sonstige Kostenträger JAS |
 | 87 = Sonstige Kostenträger EA | 88 = Sonstige Kostenträger UV Träger der | 03 | 4106 | Kostenträger- | 2 | n |
 | 174 | 00 = Primärabrechnung | 01 = Sozialversicherungsabkommen (SVA) | 02 = Bundesversorgungsgesetz (BVG) | 03 = Bundesentschädigungsgesetz (BEG) | 04 = Grenzgänger (GG) | 05 = Rheinschiffer (RHS) |
 | 06 = Sozialhilfeträger, ohne Asylstellen (SHT) | 07 = Bundesvertriebenengesetz (BVFG) | 08 = Asylstellen (AS) | 09 = Schwangerschaftsabbrüche | 01 | 4107  Abrechnungsart | 1 |
-| n | 106 | 1 = PKA (Primärkassen) | 2 = EKK (Ersatzkassen) | 3 = SKT (Sonstige Kostenträger)  1 | 4121  Gebührenordnung  1  n  442  1 = BMÄ  2 = E-GO  3 = GOÄ  1 |  |
+| n | 106 | 1 = PKA (Primärkassen) | 2 = EKK (Ersatzkassen) | 3 = SKT (Sonstige Kostenträger)  1 | 4121  Gebührenordnung  1  n  106  1 = BMÄ  2 = E-GO  3 = GOÄ  1 |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
@@ -553,66 +549,66 @@ Zusammenhang.
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
-| **Beispiel** |  | 2018 | Kostenträgergruppe | 2  n | 452  Ortskrankenkasse (AOK)  02 = Primärkasse LKK Landwirtschaftliche | 03 = Primärkasse IKK Innungskrankenkasse (IKK) |
-| 04 = Primärkasse BKK Betriebskrankenkasse | 05 =  ( | 06 = Primärkasse ehem. See | (VdEK) | 12 = Ersatzkasse ehem. AEV | 30 = Sonstige Kostenträger BVF  Kostenträger (AUS) | 59 = Sonstige Kostenträger SHT Sozialhilfeträger |
-| Bundesgrenzschutz (BGS) | 72 = Sonstige Kostenträger ZIV | 73 = Sonstige Kostenträger PFJ Polizei (POL)/ | 75 = Sonstige Kostenträger BW Bundeswehr (BW) | 76 = Sonstige Kostenträger GSA | Dienst der Krankenkassen (MDK) | 81 = Sonstige Kostenträger PBA |
-| Postbeamtenkrankenkasse, Dienstunfall (PBD | 84 = Sonstige Kostenträger DBM | 85 = Sonstige Kostenträger DBD | Jugendarbeitsschutzuntersuchung (JAS) | 87 = Sonstige Kostenträger EA | 88 = Sonstige Kostenträger UV Träger der | 03 |
+| **Beispiel** |  | 2018 | Kostenträgergruppe | 2  n | 186  01 = Primärkasse AOK Allgemeine  02 = Primärkasse LKK Landwirtschaftliche | 03 = Primärkasse IKK Innungskrankenkasse (IKK) |
+| 04 = Primärkasse BKK Betriebskrankenkasse | 05 =  ( | 06 = Primärkasse ehem. See | 11 = Ersatzkasse VdEK Verband der Ersatzkassen | 12 = Ersatzkasse ehem. AEV | 30 = Sonstige Kostenträger BVF  35 = Sonstige Kostenträger AUS Ausländische | 59 = Sonstige Kostenträger SHT Sozialhilfeträger |
+| 71 = Sonstige Kostenträger BGS | 72 = Sonstige Kostenträger ZIV | 73 = Sonstige Kostenträger PFJ Polizei (POL)/ | 75 = Sonstige Kostenträger BW Bundeswehr (BW) | 76 = Sonstige Kostenträger GSA | 77 = Sonstige Kostenträger MDK Medizinischer | 81 = Sonstige Kostenträger PBA |
+| 82 = Sonstige Kostenträger PBD | 84 = Sonstige Kostenträger DBM | 85 = Sonstige Kostenträger DBD | 86 = Sonstige Kostenträger JAS | 87 = Sonstige Kostenträger EA | 88 = Sonstige Kostenträger UV Träger der | 03 |
 | 4106 | Kostenträger- | 2  n | 00 = Primärabrechnung | 01 = Sozialversicherungsabkommen (SVA) | 02 = Bundesversorgungsgesetz (BVG) | 03 = Bundesentschädigungsgesetz (BEG) |
 | 04 = Grenzgänger (GG) | 05 = Rheinschiffer (RHS) | 06 = Sozialhilfeträger, ohne Asylstellen (SHT) | 07 = Bundesvertriebenengesetz (BVFG) | 08 = Asylstellen (AS) | 09 = Schwangerschaftsabbrüche  01 | 4107 |
 | Abrechnungsart | 1 | n | 106 | 1 = PKA (Primärkassen) | 2 = EKK (Ersatzkassen)  3 = SKT (Sonstige Kostenträger) | 1 |
-| 4121 | Gebührenordnung | 1 | n | 442 | 1 = BMÄ  2 = E-GO | 3 = GOÄ |
+| 4121 | Gebührenordnung | 1 | n | 106 | 1 = BMÄ  2 = E-GO | 3 = GOÄ |
 
-186 457 01 = Primärkasse AOK Allgemeine Krankenkasse (LKK) (BKK) Primärkasse KBS Knappschaft Bahn See) 11 = Ersatzkasse VdEK Verband der Ersatzkassen 35 = Sonstige Kostenträger AUS Ausländische (SHT) / Asylstelle (AS) 71 = Sonstige Kostenträger BGS Feuerwehr (FW)/ Justizvollzugsanstalt (JVA) Gesundheitsämter(GSA) 77 = Sonstige Kostenträger MDK Medizinischer Postbeamtenkrankenkasse, Mitglieder A (PBA 82 = Sonstige Kostenträger PBD Abrechnungsbereich (KTAB) 440 457 441 86 = Sonstige Kostenträger JAS gesetzlichen Unfallversicherer (UV)
+452 457 Ortskrankenkasse (AOK) Krankenkasse (LKK) (BKK) Primärkasse KBS Knappschaft Bahn See) (VdEK) Kostenträger (AUS) (SHT) / Asylstelle (AS) Bundesgrenzschutz (BGS) Feuerwehr (FW)/ Justizvollzugsanstalt (JVA) Gesundheitsämter(GSA) Dienst der Krankenkassen (MDK) Postbeamtenkrankenkasse, Mitglieder A (PBA Abrechnungsbereich (KTAB) 440 452 457 441 442 Postbeamtenkrankenkasse, Dienstunfall (PBD Jugendarbeitsschutzuntersuchung (JAS) gesetzlichen Unfallversicherer (UV)
 
 
 ---
 
 |  |  |  |  |  |  | 4122 |
 |---|---|---|---|---|---|---|
-| 2 | n | 443 | (Defaultwert) | 01 = Dialyse-Arztkosten | 02 = Dialyse-Sachkosten  03 = Methadon-Substitutionsbehandlung  ermächtigte Krankenhausärzte  Krankenhausärzte  06 = Fremde Zytologie  07 = Diabetes  08 = Umweltmedizin  09 = Rheuma  10 = Hirnleistungsstörungen  14 = Ambulantes Operieren  15 = AOP nach §115b  01  4239  Scheinuntergruppe  2  n  197  00 = Ambulante Behandlung    20 = Selbstausstellung  21 = Auftragsleistungen  23 = Konsiliaruntersuchung  24 = Mit-/Weiterbehandlung  ambulanten Grundsätzen | 27 = Überweisungs-/Abrechnungsschein für |
-| 28 = Anforderungsschein für |  | 30 = Belegärztliche Behandlung | 31 = Belegärztliche Mitbehandlung | belegärztlicher Behandlung | 41 = Ärztlicher Notfalldienst  42 = Urlaubs-/bzw. Krankheitsvertretung  43 = Notfall  44 = Notfalldienst mit Taxi  45 = Notarzt-/Rettungswagen (Rettungsdienst)  46 = Zentraler Notfalldienst  00  5001  GNR | 5,6 |
+| 2 | n | 131 | 00 = Kein besonderes Abrechnungsgebiet | 01 = Dialyse-Arztkosten | 02 = Dialyse-Sachkosten  03 = Methadon-Substitutionsbehandlung  04 = persönlich erbrachte Notfallleistungen durch   05 = Sonstige Notfallleistungen durch ermächtigte    06 = Fremde Zytologie  07 = Diabetes  08 = Umweltmedizin  09 = Rheuma  10 = Hirnleistungsstörungen  14 = Ambulantes Operieren  15 = AOP nach §115b  01  4239  Scheinuntergruppe  2  n  197  00 = Ambulante Behandlung    20 = Selbstausstellung  21 = Auftragsleistungen  23 = Konsiliaruntersuchung  24 = Mit-/Weiterbehandlung  26 = Stationäre Mitbehandlung, Vergütung nach | 27 = Überweisungs-/Abrechnungsschein für |
+| 28 = Anforderungsschein für |  | 30 = Belegärztliche Behandlung | 31 = Belegärztliche Mitbehandlung | 32 = Urlaubs- bzw. Krankheitsvertretung bei | 41 = Ärztlicher Notfalldienst  42 = Urlaubs-/bzw. Krankheitsvertretung  43 = Notfall  44 = Notfalldienst mit Taxi  45 = Notarzt-/Rettungswagen (Rettungsdienst)  46 = Zentraler Notfalldienst  00  5001  GNR | 5,6 |
 |  |  | a | 042 |  | 8000  Satzart | 4 |
-| a | 452 |  | kvx0 | 9103 | Erstellungsdatum  8  d |  |
+| a | 103 |  | kvx0 | 9103 | Erstellungsdatum  8  d |  |
 | **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
-| 4122 | Abrechnungsgebiet | 2 | n | 443 | (Defaultwert)   01 = Dialyse-Arztkosten  02 = Dialyse-Sachkosten  03 = Methadon-Substitutionsbehandlung  ermächtigte Krankenhausärzte  Krankenhausärzte  06 = Fremde Zytologie  07 = Diabetes  08 = Umweltmedizin  09 = Rheuma  10 = Hirnleistungsstörungen  14 = Ambulantes Operieren  15 = AOP nach §115b | 01 |
-| 4239 | Scheinuntergruppe | 2 | n | 197 | 00 = Ambulante Behandlung    20 = Selbstausstellung  21 = Auftragsleistungen  23 = Konsiliaruntersuchung  24 = Mit-/Weiterbehandlung  ambulanten Grundsätzen  27 = Überweisungs-/Abrechnungsschein für  28 = Anforderungsschein für    30 = Belegärztliche Behandlung   31 = Belegärztliche Mitbehandlung   belegärztlicher Behandlung    41 = Ärztlicher Notfalldienst  42 = Urlaubs-/bzw. Krankheitsvertretung  43 = Notfall  44 = Notfalldienst mit Taxi  45 = Notarzt-/Rettungswagen (Rettungsdienst)  46 = Zentraler Notfalldienst | 00 |
+| 4122 | Abrechnungsgebiet | 2 | n | 131 | 00 = Kein besonderes Abrechnungsgebiet  01 = Dialyse-Arztkosten  02 = Dialyse-Sachkosten  03 = Methadon-Substitutionsbehandlung  04 = persönlich erbrachte Notfallleistungen durch   05 = Sonstige Notfallleistungen durch ermächtigte    06 = Fremde Zytologie  07 = Diabetes  08 = Umweltmedizin  09 = Rheuma  10 = Hirnleistungsstörungen  14 = Ambulantes Operieren  15 = AOP nach §115b | 01 |
+| 4239 | Scheinuntergruppe | 2 | n | 197 | 00 = Ambulante Behandlung    20 = Selbstausstellung  21 = Auftragsleistungen  23 = Konsiliaruntersuchung  24 = Mit-/Weiterbehandlung  26 = Stationäre Mitbehandlung, Vergütung nach   27 = Überweisungs-/Abrechnungsschein für  28 = Anforderungsschein für    30 = Belegärztliche Behandlung   31 = Belegärztliche Mitbehandlung  32 = Urlaubs- bzw. Krankheitsvertretung bei     41 = Ärztlicher Notfalldienst  42 = Urlaubs-/bzw. Krankheitsvertretung  43 = Notfall  44 = Notfalldienst mit Taxi  45 = Notarzt-/Rettungswagen (Rettungsdienst)  46 = Zentraler Notfalldienst | 00 |
 | 5001 | GNR | 5,6 | a | 042 |  |  |
-| 8000 | Satzart | 4 | a | 452 |  | kvx0 |
+| 8000 | Satzart | 4 | a | 103 |  | kvx0 |
 | 9103 | Erstellungsdatum | 8 | d |  |  | 20092016 |
 | 9106 | verwendeter | 1 | n | 182 | 4 = ISO 8859-15 | 4 |
 | 9111 | Gültigkeitsquartal | 5 | n | 016 |  | 32016 |
 | **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
-| 4122 | Abrechnungsgebiet | 2 | n | 443 | (Defaultwert)   01 = Dialyse-Arztkosten  02 = Dialyse-Sachkosten  03 = Methadon-Substitutionsbehandlung  ermächtigte Krankenhausärzte  Krankenhausärzte  06 = Fremde Zytologie  07 = Diabetes  08 = Umweltmedizin  09 = Rheuma  10 = Hirnleistungsstörungen  14 = Ambulantes Operieren  15 = AOP nach §115b  01  4239  Scheinuntergruppe  2  n | 197 |
-| 00 = Ambulante Behandlung |  | 20 = Selbstausstellung | 21 = Auftragsleistungen | 23 = Konsiliaruntersuchung  24 = Mit-/Weiterbehandlung | ambulanten Grundsätzen  27 = Überweisungs-/Abrechnungsschein für  28 = Anforderungsschein für |  |
-| 30 = Belegärztliche Behandlung | 31 = Belegärztliche Mitbehandlung | belegärztlicher Behandlung |  | 41 = Ärztlicher Notfalldienst | 42 = Urlaubs-/bzw. Krankheitsvertretung | 43 = Notfall |
+| 4122 | Abrechnungsgebiet | 2 | n | 131 | 00 = Kein besonderes Abrechnungsgebiet  01 = Dialyse-Arztkosten  02 = Dialyse-Sachkosten  03 = Methadon-Substitutionsbehandlung  04 = persönlich erbrachte Notfallleistungen durch   05 = Sonstige Notfallleistungen durch ermächtigte    06 = Fremde Zytologie  07 = Diabetes  08 = Umweltmedizin  09 = Rheuma  10 = Hirnleistungsstörungen  14 = Ambulantes Operieren  15 = AOP nach §115b  01  4239  Scheinuntergruppe  2  n | 197 |
+| 00 = Ambulante Behandlung |  | 20 = Selbstausstellung | 21 = Auftragsleistungen | 23 = Konsiliaruntersuchung  24 = Mit-/Weiterbehandlung | 26 = Stationäre Mitbehandlung, Vergütung nach   27 = Überweisungs-/Abrechnungsschein für  28 = Anforderungsschein für |  |
+| 30 = Belegärztliche Behandlung | 31 = Belegärztliche Mitbehandlung | 32 = Urlaubs- bzw. Krankheitsvertretung bei |  | 41 = Ärztlicher Notfalldienst | 42 = Urlaubs-/bzw. Krankheitsvertretung | 43 = Notfall |
 | 44 = Notfalldienst mit Taxi | 45 = Notarzt-/Rettungswagen (Rettungsdienst) | 46 = Zentraler Notfalldienst | 00 | 5001 | GNR | 5,6 |
 |  |  | a | 042 |  | 8000  Satzart  4 | a |
-| 452 |  | kvx0 | 9103 | Erstellungsdatum | 8 | d |
+| 103 |  | kvx0 | 9103 | Erstellungsdatum | 8 | d |
 |  |  | 20092016 | 9106 | verwendeter | 1 | n |
 | 182 | 4 = ISO 8859-15 | 4  9111 | 5 | n | 016 |  |
 | 32016 |  |  |  |  |  |  |
 | **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
-| 4122 | Abrechnungsgebiet | 2 | n | 443 | (Defaultwert)   01 = Dialyse-Arztkosten  02 = Dialyse-Sachkosten  03 = Methadon-Substitutionsbehandlung  ermächtigte Krankenhausärzte  Krankenhausärzte  06 = Fremde Zytologie  07 = Diabetes  08 = Umweltmedizin  09 = Rheuma | 10 = Hirnleistungsstörungen |
-| 14 = Ambulantes Operieren | 15 = AOP nach §115b | 01 | 4239 | Scheinuntergruppe  2 | n  197  00 = Ambulante Behandlung    20 = Selbstausstellung  21 = Auftragsleistungen  23 = Konsiliaruntersuchung  24 = Mit-/Weiterbehandlung  ambulanten Grundsätzen  27 = Überweisungs-/Abrechnungsschein für  28 = Anforderungsschein für | 30 = Belegärztliche Behandlung |
-| 31 = Belegärztliche Mitbehandlung | belegärztlicher Behandlung |  | 41 = Ärztlicher Notfalldienst | 42 = Urlaubs-/bzw. Krankheitsvertretung  43 = Notfall | 44 = Notfalldienst mit Taxi  45 = Notarzt-/Rettungswagen (Rettungsdienst)  46 = Zentraler Notfalldienst  00  5001  GNR  5,6  a | 042 |
-|  |  | 8000 | Satzart | 4  a | 452    kvx0 | 9103 |
+| 4122 | Abrechnungsgebiet | 2 | n | 131 | 00 = Kein besonderes Abrechnungsgebiet  01 = Dialyse-Arztkosten  02 = Dialyse-Sachkosten  03 = Methadon-Substitutionsbehandlung  04 = persönlich erbrachte Notfallleistungen durch   05 = Sonstige Notfallleistungen durch ermächtigte    06 = Fremde Zytologie  07 = Diabetes  08 = Umweltmedizin  09 = Rheuma | 10 = Hirnleistungsstörungen |
+| 14 = Ambulantes Operieren | 15 = AOP nach §115b | 01 | 4239 | Scheinuntergruppe  2 | n  197  00 = Ambulante Behandlung    20 = Selbstausstellung  21 = Auftragsleistungen  23 = Konsiliaruntersuchung  24 = Mit-/Weiterbehandlung  26 = Stationäre Mitbehandlung, Vergütung nach   27 = Überweisungs-/Abrechnungsschein für  28 = Anforderungsschein für | 30 = Belegärztliche Behandlung |
+| 31 = Belegärztliche Mitbehandlung | 32 = Urlaubs- bzw. Krankheitsvertretung bei |  | 41 = Ärztlicher Notfalldienst | 42 = Urlaubs-/bzw. Krankheitsvertretung  43 = Notfall | 44 = Notfalldienst mit Taxi  45 = Notarzt-/Rettungswagen (Rettungsdienst)  46 = Zentraler Notfalldienst  00  5001  GNR  5,6  a | 042 |
+|  |  | 8000 | Satzart | 4  a | 103    kvx0 | 9103 |
 | **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
-| 4122 | Abrechnungsgebiet | 2 | n | 443 | (Defaultwert)   01 = Dialyse-Arztkosten  02 = Dialyse-Sachkosten | 03 = Methadon-Substitutionsbehandlung |
-| ermächtigte Krankenhausärzte | Krankenhausärzte | 06 = Fremde Zytologie | 07 = Diabetes | 08 = Umweltmedizin  09 = Rheuma | 10 = Hirnleistungsstörungen  14 = Ambulantes Operieren  15 = AOP nach §115b  01 | 4239 |
+| 4122 | Abrechnungsgebiet | 2 | n | 131 | 00 = Kein besonderes Abrechnungsgebiet  01 = Dialyse-Arztkosten  02 = Dialyse-Sachkosten | 03 = Methadon-Substitutionsbehandlung |
+| 04 = persönlich erbrachte Notfallleistungen durch | 05 = Sonstige Notfallleistungen durch ermächtigte | 06 = Fremde Zytologie | 07 = Diabetes | 08 = Umweltmedizin  09 = Rheuma | 10 = Hirnleistungsstörungen  14 = Ambulantes Operieren  15 = AOP nach §115b  01 | 4239 |
 | Scheinuntergruppe | 2 | n | 197 | 00 = Ambulante Behandlung | 20 = Selbstausstellung  21 = Auftragsleistungen  23 = Konsiliaruntersuchung | 24 = Mit-/Weiterbehandlung |
-| ambulanten Grundsätzen | 27 = Überweisungs-/Abrechnungsschein für | 28 = Anforderungsschein für |  | 30 = Belegärztliche Behandlung | 31 = Belegärztliche Mitbehandlung | belegärztlicher Behandlung |
+| 26 = Stationäre Mitbehandlung, Vergütung nach | 27 = Überweisungs-/Abrechnungsschein für | 28 = Anforderungsschein für |  | 30 = Belegärztliche Behandlung | 31 = Belegärztliche Mitbehandlung | 32 = Urlaubs- bzw. Krankheitsvertretung bei |
 |  | 41 = Ärztlicher Notfalldienst | 42 = Urlaubs-/bzw. Krankheitsvertretung | 43 = Notfall | 44 = Notfalldienst mit Taxi | 45 = Notarzt-/Rettungswagen (Rettungsdienst)  46 = Zentraler Notfalldienst  00  5001  GNR  5,6  a  042 |  |
-|  | 8000 | Satzart  4 | 452 |  | kvx0 | 9103 |
+|  | 8000 | Satzart  4 | 103 |  | kvx0 | 9103 |
 | Erstellungsdatum | 8 | d |  |  | 20092016 | 9106 |
 | verwendeter | 1 | n | 182 | 4 = ISO 8859-15 | 4 | 9111 |
 | **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
-| 4122 | Abrechnungsgebiet | 2 | n | 443 | (Defaultwert)   01 = Dialyse-Arztkosten  02 = Dialyse-Sachkosten  03 = Methadon-Substitutionsbehandlung  ermächtigte Krankenhausärzte  Krankenhausärzte  06 = Fremde Zytologie  07 = Diabetes  08 = Umweltmedizin | 09 = Rheuma |
+| 4122 | Abrechnungsgebiet | 2 | n | 131 | 00 = Kein besonderes Abrechnungsgebiet  01 = Dialyse-Arztkosten  02 = Dialyse-Sachkosten  03 = Methadon-Substitutionsbehandlung  04 = persönlich erbrachte Notfallleistungen durch   05 = Sonstige Notfallleistungen durch ermächtigte    06 = Fremde Zytologie  07 = Diabetes  08 = Umweltmedizin | 09 = Rheuma |
 | 10 = Hirnleistungsstörungen | 14 = Ambulantes Operieren | 15 = AOP nach §115b | 01 | 4239 | Scheinuntergruppe | 2 |
 | n | 197 | 00 = Ambulante Behandlung |  | 20 = Selbstausstellung | 21 = Auftragsleistungen | 23 = Konsiliaruntersuchung |
-| 24 = Mit-/Weiterbehandlung | ambulanten Grundsätzen | 27 = Überweisungs-/Abrechnungsschein für | 28 = Anforderungsschein für |  | 30 = Belegärztliche Behandlung | 31 = Belegärztliche Mitbehandlung |
-| belegärztlicher Behandlung |  | 41 = Ärztlicher Notfalldienst | 42 = Urlaubs-/bzw. Krankheitsvertretung | 43 = Notfall | 44 = Notfalldienst mit Taxi | 45 = Notarzt-/Rettungswagen (Rettungsdienst) |
+| 24 = Mit-/Weiterbehandlung | 26 = Stationäre Mitbehandlung, Vergütung nach | 27 = Überweisungs-/Abrechnungsschein für | 28 = Anforderungsschein für |  | 30 = Belegärztliche Behandlung | 31 = Belegärztliche Mitbehandlung |
+| 32 = Urlaubs- bzw. Krankheitsvertretung bei |  | 41 = Ärztlicher Notfalldienst | 42 = Urlaubs-/bzw. Krankheitsvertretung | 43 = Notfall | 44 = Notfalldienst mit Taxi | 45 = Notarzt-/Rettungswagen (Rettungsdienst) |
 | 46 = Zentraler Notfalldienst | 00 | 5001 | GNR | 5,6 |  | a |
-| 042 |  |  | 8000 | Satzart  4 | a  452    kvx0  9103  Erstellungsdatum  8  d |  |
+| 042 |  |  | 8000 | Satzart  4 | a  103    kvx0  9103  Erstellungsdatum  8  d |  |
 | 20092016 | 9106 | verwendeter | 1 | n | 182 | 4 = ISO 8859-15 |
 | 4 | 9111 | Gültigkeitsquartal | 5 | n | 016 |  |
 | 32016 |  |  |  |  |  |  |
@@ -622,68 +618,68 @@ Zusammenhang.
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 | **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
-| 4122 | Abrechnungsgebiet | 2 | n | 443  (Defaultwert) | 01 = Dialyse-Arztkosten  02 = Dialyse-Sachkosten  03 = Methadon-Substitutionsbehandlung | ermächtigte Krankenhausärzte |
-| Krankenhausärzte | 06 = Fremde Zytologie | 07 = Diabetes | 08 = Umweltmedizin | 09 = Rheuma | 10 = Hirnleistungsstörungen  14 = Ambulantes Operieren | 15 = AOP nach §115b |
+| 4122 | Abrechnungsgebiet | 2 | n | 131  00 = Kein besonderes Abrechnungsgebiet | 01 = Dialyse-Arztkosten  02 = Dialyse-Sachkosten  03 = Methadon-Substitutionsbehandlung | 04 = persönlich erbrachte Notfallleistungen durch |
+| 05 = Sonstige Notfallleistungen durch ermächtigte | 06 = Fremde Zytologie | 07 = Diabetes | 08 = Umweltmedizin | 09 = Rheuma | 10 = Hirnleistungsstörungen  14 = Ambulantes Operieren | 15 = AOP nach §115b |
 | 01 | 4239 | Scheinuntergruppe | 2 | n | 197 | 00 = Ambulante Behandlung |
-|  | 20 = Selbstausstellung | 21 = Auftragsleistungen | 23 = Konsiliaruntersuchung | 24 = Mit-/Weiterbehandlung | ambulanten Grundsätzen | 27 = Überweisungs-/Abrechnungsschein für |
+|  | 20 = Selbstausstellung | 21 = Auftragsleistungen | 23 = Konsiliaruntersuchung | 24 = Mit-/Weiterbehandlung | 26 = Stationäre Mitbehandlung, Vergütung nach | 27 = Überweisungs-/Abrechnungsschein für |
 | 28 = Anforderungsschein für |  | 30 = Belegärztliche Behandlung   31 = Belegärztliche Mitbehandlung |  | 41 = Ärztlicher Notfalldienst | 42 = Urlaubs-/bzw. Krankheitsvertretung | 43 = Notfall |
 | 44 = Notfalldienst mit Taxi | 45 = Notarzt-/Rettungswagen (Rettungsdienst) | 46 = Zentraler Notfalldienst | 00 | 5001 | GNR  5,6 |  |
 |  | a | 042 |  |  | 8000  Satzart | 4 |
-| a | 452 |  | kvx0 | 9103 | Erstellungsdatum  8 | d |
+| a | 103 |  | kvx0 | 9103 | Erstellungsdatum  8 | d |
 
 * Version 3.56
 
-131 00 = Kein besonderes Abrechnungsgebiet 04 = persönlich erbrachte Notfallleistungen durch  05 = Sonstige Notfallleistungen durch ermächtigte   444 26 = Stationäre Mitbehandlung, Vergütung nach  Laboratoriumsuntersuchungen als Laboratoriumsuntersuchungen bei Laborgemeinschaften Zeichensatz 32 = Urlaubs- bzw. Krankheitsvertretung bei
+443 (Defaultwert)  ermächtigte Krankenhausärzte Krankenhausärzte 444 ambulanten Grundsätzen Laboratoriumsuntersuchungen als Laboratoriumsuntersuchungen bei Laborgemeinschaften Zeichensatz 452  belegärztlicher Behandlung
 
 
 ---
 
 |  |  |  |  |  |  | 9113 |
 |---|---|---|---|---|---|---|
-| 2 | n | 206 | 01 = Schleswig-Holstein | 02 = Hamburg | 03 = Bremen  17 = Niedersachsen  20 = Westfalen-Lippe  38 = Nordrhein  46 = Hessen  51 = Rheinland-Pfalz  52 = Baden-Württemberg  71 = Bayern  72 = Berlin  73 = Saarland  78 = Mecklenburg-Vorpommern  83 = Brandenburg  88 = Sachsen-Anhalt  93 = Thüringen  98 = Sachsen  99 = Bundesknappschaft  01  9135  Datenpakete einer  1  n  456  525  1 = ADT-Datenpaket | 3 = Kurärztliches Abrechnungs-Datenpaket |
+| 2 | n | 206 | 01 = Schleswig-Holstein | 02 = Hamburg | 03 = Bremen  17 = Niedersachsen  20 = Westfalen-Lippe  38 = Nordrhein  46 = Hessen  51 = Rheinland-Pfalz  52 = Baden-Württemberg  71 = Bayern  72 = Berlin  73 = Saarland  78 = Mecklenburg-Vorpommern  83 = Brandenburg  88 = Sachsen-Anhalt  93 = Thüringen  98 = Sachsen  99 = Bundesknappschaft  01  9135  kombinierte  1  n  456  525  1 = ADT-Datenpaket | 3 = Kurärztliches Abrechnungs-Datenpaket |
 | 6 = SADT-Datenpaket | 1 | 9136 | erstes zulässiges | 5 | n  016    31998  9137  letztes zulässiges  5   n  016 | 41998 |
 | 9138 | separate Datenpakete | 1 | n | 456 | 525  1 = ADT-Datenpaket  3 = Kurärztliches Abrechnungs-Datenpaket | 6 = SADT-Datenpaket |
-| 1 | 9139 | empfangende KV | 2 | n | 166  20 = KV Westfalen-Lippe  20 | 9212 |
+| 1 | 9139 | abweichende | 2 | n | 166  20 = KV Westfalen-Lippe  20 | 9212 |
 | **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9113 | KV-Geltungsbereich | 2 | n | 206 | 01 = Schleswig-Holstein  02 = Hamburg  03 = Bremen  17 = Niedersachsen  20 = Westfalen-Lippe  38 = Nordrhein  46 = Hessen  51 = Rheinland-Pfalz  52 = Baden-Württemberg  71 = Bayern  72 = Berlin  73 = Saarland  78 = Mecklenburg-Vorpommern | 83 = Brandenburg |
-| 88 = Sachsen-Anhalt | 93 = Thüringen | 98 = Sachsen | 99 = Bundesknappschaft | 01 | 9135  Datenpakete einer  1  n  456  525  1 = ADT-Datenpaket  3 = Kurärztliches Abrechnungs-Datenpaket  6 = SADT-Datenpaket  1  9136  erstes zulässiges  5  n  016    31998  9137  letztes zulässiges  5 | n |
+| 88 = Sachsen-Anhalt | 93 = Thüringen | 98 = Sachsen | 99 = Bundesknappschaft | 01 | 9135  kombinierte  1  n  456  525  1 = ADT-Datenpaket  3 = Kurärztliches Abrechnungs-Datenpaket  6 = SADT-Datenpaket  1  9136  erstes zulässiges  5  n  016    31998  9137  letztes zulässiges  5 | n |
 | 016 |  | 41998  9138 | 1 | n | 456 | 525 |
-| 1 = ADT-Datenpaket | 3 = Kurärztliches Abrechnungs-Datenpaket | 6 = SADT-Datenpaket | 1 | 9139 | empfangende KV | 2 |
+| 1 = ADT-Datenpaket | 3 = Kurärztliches Abrechnungs-Datenpaket | 6 = SADT-Datenpaket | 1 | 9139 | abweichende | 2 |
 | n | 166 | 20 = KV Westfalen-Lippe | 20 | 9212 | Version der | ≤ |
 | a | 031 | SDKV1015.01 |  | 9219 | Version SDKV- | ≤ |
 | 15 |  | a |  |  |  | 9400 |
 | **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9113 | KV-Geltungsbereich | 2 | n | 206 | 01 = Schleswig-Holstein  02 = Hamburg  03 = Bremen  17 = Niedersachsen  20 = Westfalen-Lippe  38 = Nordrhein  46 = Hessen  51 = Rheinland-Pfalz  52 = Baden-Württemberg  71 = Bayern  72 = Berlin  73 = Saarland  78 = Mecklenburg-Vorpommern  83 = Brandenburg  88 = Sachsen-Anhalt  93 = Thüringen  98 = Sachsen  99 = Bundesknappschaft | 01 |
-| 9135 | Datenpakete einer | 1 | n | 456  525 | 1 = ADT-Datenpaket  3 = Kurärztliches Abrechnungs-Datenpaket  6 = SADT-Datenpaket | 1 |
+| 9135 | kombinierte | 1 | n | 456  525 | 1 = ADT-Datenpaket  3 = Kurärztliches Abrechnungs-Datenpaket  6 = SADT-Datenpaket | 1 |
 | 9136 | erstes zulässiges | 5 | n | 016 |  | 31998 |
 | 9137 | letztes zulässiges | 5 | n | 016 |  | 41998 |
 | 9138 | separate Datenpakete | 1 | n | 456  525 | 1 = ADT-Datenpaket  3 = Kurärztliches Abrechnungs-Datenpaket  6 = SADT-Datenpaket | 1 |
-| 9139 | empfangende KV | 2 | n | 166 | 20 = KV Westfalen-Lippe | 20 |
+| 9139 | abweichende | 2 | n | 166 | 20 = KV Westfalen-Lippe | 20 |
 | 9212 | Version der | ≤ | a | 031 | SDKV1015.01 |  |
 | 9219 | Version SDKV- | ≤ 15 | a |  |  |  |
 | 9400 | Handhabung | 1 | n | 112 | 1 = Ein Eintrag einer Uhrzeit (FK 5006) zur ersten  2 = Ein Eintrag einer Uhrzeit (FK 5006) zur ersten   **Hinweis** | 1 |
 | **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9113 | KV-Geltungsbereich | 2 | n | 206 | 01 = Schleswig-Holstein  02 = Hamburg  03 = Bremen  17 = Niedersachsen  20 = Westfalen-Lippe  38 = Nordrhein  46 = Hessen  51 = Rheinland-Pfalz  52 = Baden-Württemberg  71 = Bayern | 72 = Berlin |
-| 73 = Saarland | 78 = Mecklenburg-Vorpommern | 83 = Brandenburg | 88 = Sachsen-Anhalt | 93 = Thüringen  98 = Sachsen | 99 = Bundesknappschaft  01  9135  Datenpakete einer  1  n  456  525  1 = ADT-Datenpaket  3 = Kurärztliches Abrechnungs-Datenpaket  6 = SADT-Datenpaket  1 | 9136 |
+| 73 = Saarland | 78 = Mecklenburg-Vorpommern | 83 = Brandenburg | 88 = Sachsen-Anhalt | 93 = Thüringen  98 = Sachsen | 99 = Bundesknappschaft  01  9135  kombinierte  1  n  456  525  1 = ADT-Datenpaket  3 = Kurärztliches Abrechnungs-Datenpaket  6 = SADT-Datenpaket  1 | 9136 |
 | erstes zulässiges | 5 | n | 016 | 31998 | 9137  letztes zulässiges  5   n  016    41998  9138  separate Datenpakete  1 | n |
-| 456 | 525 | 1 = ADT-Datenpaket | 3 = Kurärztliches Abrechnungs-Datenpaket | 6 = SADT-Datenpaket  1 | 9139  empfangende KV  2 | n |
+| 456 | 525 | 1 = ADT-Datenpaket | 3 = Kurärztliches Abrechnungs-Datenpaket | 6 = SADT-Datenpaket  1 | 9139  abweichende  2 | n |
 | **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9113 | KV-Geltungsbereich | 2 | n | 206 | 01 = Schleswig-Holstein  02 = Hamburg  03 = Bremen | 17 = Niedersachsen |
 | 20 = Westfalen-Lippe | 38 = Nordrhein | 46 = Hessen | 51 = Rheinland-Pfalz | 52 = Baden-Württemberg  71 = Bayern | 72 = Berlin  73 = Saarland  78 = Mecklenburg-Vorpommern  83 = Brandenburg | 88 = Sachsen-Anhalt |
-| 93 = Thüringen | 98 = Sachsen | 99 = Bundesknappschaft | 01 | 9135  Datenpakete einer | 1  n  456 | 525 |
+| 93 = Thüringen | 98 = Sachsen | 99 = Bundesknappschaft | 01 | 9135  kombinierte | 1  n  456 | 525 |
 | 1 = ADT-Datenpaket | 3 = Kurärztliches Abrechnungs-Datenpaket | 6 = SADT-Datenpaket | 1 | 9136 | erstes zulässiges | 5 |
 | n | 016 |  | 31998 | 9137 | letztes zulässiges  5   n  016    41998  9138  separate Datenpakete  1  n | 456 |
-| 525 | 1 = ADT-Datenpaket | 3 = Kurärztliches Abrechnungs-Datenpaket  6 = SADT-Datenpaket | 9139 | empfangende KV | 2 | n |
+| 525 | 1 = ADT-Datenpaket | 3 = Kurärztliches Abrechnungs-Datenpaket  6 = SADT-Datenpaket | 9139 | abweichende | 2 | n |
 | 166 | 20 = KV Westfalen-Lippe | 20 | 9212 | Version der | ≤ | a |
 | 031 | SDKV1015.01 |  | 9219 | Version SDKV- | ≤ | 15 |
 | **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9113 | KV-Geltungsbereich | 2 | n | 206 | 01 = Schleswig-Holstein  02 = Hamburg  03 = Bremen  17 = Niedersachsen  20 = Westfalen-Lippe  38 = Nordrhein  46 = Hessen  51 = Rheinland-Pfalz  52 = Baden-Württemberg | 71 = Bayern |
 | 72 = Berlin | 73 = Saarland | 78 = Mecklenburg-Vorpommern | 83 = Brandenburg | 88 = Sachsen-Anhalt | 93 = Thüringen | 98 = Sachsen |
-| 99 = Bundesknappschaft | 01 | 9135 | Datenpakete einer | 1 | n | 456 |
+| 99 = Bundesknappschaft | 01 | 9135 | kombinierte | 1 | n | 456 |
 | 525 | 1 = ADT-Datenpaket | 3 = Kurärztliches Abrechnungs-Datenpaket | 6 = SADT-Datenpaket | 1 | 9136 | erstes zulässiges |
 | 5 | n | 016 |  | 31998 | 9137 | letztes zulässiges |
 | 5 | n | 016 |  | 41998 | 9138  separate Datenpakete | 1 |
-| n | 456 | 525 | 1 = ADT-Datenpaket | 3 = Kurärztliches Abrechnungs-Datenpaket  6 = SADT-Datenpaket | 1  9139  empfangende KV  2  n  166  20 = KV Westfalen-Lippe  20  9212 | Version der |
+| n | 456 | 525 | 1 = ADT-Datenpaket | 3 = Kurärztliches Abrechnungs-Datenpaket  6 = SADT-Datenpaket | 1  9139  abweichende  2  n  166  20 = KV Westfalen-Lippe  20  9212 | Version der |
 | ≤ | a | 031 | SDKV1015.01 |  | 9219 | Version SDKV- |
 | ≤ | 15 |  | a |  |  |  |
 | 9400 | Handhabung | 1 | n | 112 | 1 = Ein Eintrag einer Uhrzeit (FK 5006) zur ersten | 2 = Ein Eintrag einer Uhrzeit (FK 5006) zur ersten |
@@ -696,62 +692,62 @@ Zusammenhang.
 | 9113 | KV-Geltungsbereich | 2 | n | 206  01 = Schleswig-Holstein | 02 = Hamburg  03 = Bremen  17 = Niedersachsen | 20 = Westfalen-Lippe |
 | 38 = Nordrhein | 46 = Hessen | 51 = Rheinland-Pfalz | 52 = Baden-Württemberg | 71 = Bayern | 72 = Berlin  73 = Saarland | 78 = Mecklenburg-Vorpommern |
 | 83 = Brandenburg | 88 = Sachsen-Anhalt | 93 = Thüringen | 98 = Sachsen | 99 = Bundesknappschaft | 01 | 9135 |
-| Datenpakete einer | 1 | n | 456 | 525 | 1 = ADT-Datenpaket | 3 = Kurärztliches Abrechnungs-Datenpaket |
+| kombinierte | 1 | n | 456 | 525 | 1 = ADT-Datenpaket | 3 = Kurärztliches Abrechnungs-Datenpaket |
 | 6 = SADT-Datenpaket | 1 | 9136  erstes zulässiges | n | 016 |  | 31998 |
 | 9137 | letztes zulässiges | 5 | n | 016 | 41998 | 9138 |
 | separate Datenpakete | 1 | n | 456 | 525 | 1 = ADT-Datenpaket  3 = Kurärztliches Abrechnungs-Datenpaket | 6 = SADT-Datenpaket |
-| 1 | 9139 | empfangende KV | 2 | n | 166  20 = KV Westfalen-Lippe | 20 |
+| 1 | 9139 | abweichende | 2 | n | 166  20 = KV Westfalen-Lippe | 20 |
 
-kombinierte KVDT-Datei Abgabequartal Abgabequartal  einer KVDT-Datei abweichende Satzbeschreibung  Pflegeprogramm “Tagtrennung” GNR des ersten Arzt-Patientenkontaktes an demselben Behandlungstag muss vorgenommen werden GNR des ersten Arzt-Patientenkontaktes an demselben Behandlungstag muss vorgenommen werden : Darüber hinaus gilt grundsätzlich, dass für weitere Arzt-Patientenkontakte an demselben Behandlungstag die Angabe einer Uhrzeit (FK 5006) zur jeweils ersten GNR erfolgen muss nicht
+Datenpakete einer KVDT-Datei Abgabequartal Abgabequartal  einer KVDT-Datei empfangende KV Satzbeschreibung  Pflegeprogramm “Tagtrennung” GNR des ersten Arzt-Patientenkontaktes an demselben Behandlungstag muss vorgenommen werden GNR des ersten Arzt-Patientenkontaktes an demselben Behandlungstag muss nicht vorgenommen werden : Darüber hinaus gilt grundsätzlich, dass für weitere Arzt-Patientenkontakte an demselben Behandlungstag die Angabe einer Uhrzeit (FK 5006) zur jeweils ersten GNR erfolgen muss
 
 ---
 
 |  |  |  |  |  |  | 9401 |
 |---|---|---|---|---|---|---|
-| ≤ | n | 168 | 1 = Wegepauschale | 2 = Wegepauschale bis 2 Kilometer, DKM ab 2 | 3 = DKM  4 = Angabe “Zone bei Besuchen” nur einmal je SA  5 =  6 = DKM, Ausnahme: bei “Notfallpatienten” (SA  7 = Wegepauschale, Ausnahme: ärztlicher  8 = DKM (lt. Wegegeldliste der KV), Ausnahme:   9 = Wegepauschale,   10 = KV-interne GNR unter FK 5001; Angabe der  2  9402  Feld “4123”  2  n  149  453  01 = Beschädigter  02 = Schwerbeschädigter  03 = Angehöriger  04 = Hinterbliebener  05 = Pflegeperson  06 = Tauglichkeitsuntersuchung  07 = ärztl. Versorgung  08 = Bewerber  09 = Erstuntersuchung | 10 = Nachuntersuchung |
-| 11 = Ergänzungsuntersuchung | 12 = Verfolgte | 01 | 9403 | “4124” (SKT- | ≤ n  168  453  1 = Grundlistennummer Versorgungsamt  2 = Registriernummer  3 = Aktenzeichen der Entschädigungsbehörde  4 = Aktenzeichen der Kostenstelle  5 = Name des Auslands  6 = Personalnummer | 7 = Personenkennnummer |
-| 8 = Dienststelle | 9 = Schule/Universität/Kindergarten | 10 = Personalnummer der Dienststelle | 1 | 9404 | on SKT  1  n | 453 |
+| ≤ | n | 168 | 1 = Wegepauschale | 2 = Wegepauschale bis 2 Kilometer, DKM ab 2 | 3 = DKM  4 = Angabe “Zone bei Besuchen” nur einmal je SA  5 =  6 = DKM, Ausnahme: bei “Notfallpatienten” (SA  7 = Wegepauschale, Ausnahme: ärztlicher  8 = DKM (lt. Wegegeldliste der KV), Ausnahme:   9 = Wegepauschale,   10 = KV-interne GNR unter FK 5001; Angabe der  2  9402  zusätzlich  2  n  149  453  01 = Beschädigter  02 = Schwerbeschädigter  03 = Angehöriger  04 = Hinterbliebener  05 = Pflegeperson  06 = Tauglichkeitsuntersuchung  07 = ärztl. Versorgung  08 = Bewerber  09 = Erstuntersuchung | 10 = Nachuntersuchung |
+| 11 = Ergänzungsuntersuchung | 12 = Verfolgte | 01 | 9403 | erforderliche | ≤ n  168  453  1 = Grundlistennummer Versorgungsamt  2 = Registriernummer  3 = Aktenzeichen der Entschädigungsbehörde  4 = Aktenzeichen der Kostenstelle  5 = Name des Auslands  6 = Personalnummer | 7 = Personenkennnummer |
+| 8 = Dienststelle | 9 = Schule/Universität/Kindergarten | 10 = Personalnummer der Dienststelle | 1 | 9404 | zusätzlich  1  n | 453 |
 | 526 | 1 = Gültigkeitszeitraum unter FK 4125 erforderlich | 4 = Bemerkung der Entschädigungsbehörde unter |  | 1 |  |  |
 | **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
-| 9401 | Handhabung | ≤ | n | 168 | 1 = Wegepauschale  2 = Wegepauschale bis 2 Kilometer, DKM ab 2  3 = DKM  4 = Angabe “Zone bei Besuchen” nur einmal je SA  5 =  6 = DKM, Ausnahme: bei “Notfallpatienten” (SA  7 = Wegepauschale, Ausnahme: ärztlicher  8 = DKM (lt. Wegegeldliste der KV), Ausnahme:   9 = Wegepauschale,   10 = KV-interne GNR unter FK 5001; Angabe der  2  9402  Feld “4123” | 2 |
-| n | 149 | 453 | 01 = Beschädigter | 02 = Schwerbeschädigter | 03 = Angehöriger  04 = Hinterbliebener  05 = Pflegeperson  06 = Tauglichkeitsuntersuchung  07 = ärztl. Versorgung  08 = Bewerber  09 = Erstuntersuchung  10 = Nachuntersuchung  11 = Ergänzungsuntersuchung  12 = Verfolgte  01  9403  “4124” (SKT- ≤ n  168  453  1 = Grundlistennummer Versorgungsamt  2 = Registriernummer  3 = Aktenzeichen der Entschädigungsbehörde | 4 = Aktenzeichen der Kostenstelle |
-| 5 = Name des Auslands | 6 = Personalnummer | 7 = Personenkennnummer  8 = Dienststelle | 10 = Personalnummer der Dienststelle | 1 | 9404 | on SKT |
+| 9401 | Handhabung | ≤ | n | 168 | 1 = Wegepauschale  2 = Wegepauschale bis 2 Kilometer, DKM ab 2  3 = DKM  4 = Angabe “Zone bei Besuchen” nur einmal je SA  5 =  6 = DKM, Ausnahme: bei “Notfallpatienten” (SA  7 = Wegepauschale, Ausnahme: ärztlicher  8 = DKM (lt. Wegegeldliste der KV), Ausnahme:   9 = Wegepauschale,   10 = KV-interne GNR unter FK 5001; Angabe der  2  9402  zusätzlich | 2 |
+| n | 149 | 453 | 01 = Beschädigter | 02 = Schwerbeschädigter | 03 = Angehöriger  04 = Hinterbliebener  05 = Pflegeperson  06 = Tauglichkeitsuntersuchung  07 = ärztl. Versorgung  08 = Bewerber  09 = Erstuntersuchung  10 = Nachuntersuchung  11 = Ergänzungsuntersuchung  12 = Verfolgte  01  9403  erforderliche  ≤ n  168  453  1 = Grundlistennummer Versorgungsamt  2 = Registriernummer  3 = Aktenzeichen der Entschädigungsbehörde | 4 = Aktenzeichen der Kostenstelle |
+| 5 = Name des Auslands | 6 = Personalnummer | 7 = Personenkennnummer  8 = Dienststelle | 10 = Personalnummer der Dienststelle | 1 | 9404 | zusätzlich |
 | 1 | n | 453 | 526 | 1 = Gültigkeitszeitraum unter FK 4125 erforderlich | 4 = Bemerkung der Entschädigungsbehörde unter |  |
 | 1 |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 | **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
-| 9401 | Handhabung | ≤ | n | 168 | 1 = Wegepauschale  2 = Wegepauschale bis 2 Kilometer, DKM ab 2  3 = DKM  4 = Angabe “Zone bei Besuchen” nur einmal je SA  5 =  6 = DKM, Ausnahme: bei “Notfallpatienten” (SA  7 = Wegepauschale, Ausnahme: ärztlicher  8 = DKM (lt. Wegegeldliste der KV), Ausnahme:   9 = Wegepauschale,   10 = KV-interne GNR unter FK 5001; Angabe der  2  9402  Feld “4123”  2  n  149  453  01 = Beschädigter | 02 = Schwerbeschädigter |
+| 9401 | Handhabung | ≤ | n | 168 | 1 = Wegepauschale  2 = Wegepauschale bis 2 Kilometer, DKM ab 2  3 = DKM  4 = Angabe “Zone bei Besuchen” nur einmal je SA  5 =  6 = DKM, Ausnahme: bei “Notfallpatienten” (SA  7 = Wegepauschale, Ausnahme: ärztlicher  8 = DKM (lt. Wegegeldliste der KV), Ausnahme:   9 = Wegepauschale,   10 = KV-interne GNR unter FK 5001; Angabe der  2  9402  zusätzlich  2  n  149  453  01 = Beschädigter | 02 = Schwerbeschädigter |
 | 03 = Angehöriger | 04 = Hinterbliebener | 05 = Pflegeperson | 06 = Tauglichkeitsuntersuchung | 07 = ärztl. Versorgung  08 = Bewerber | 09 = Erstuntersuchung  10 = Nachuntersuchung  11 = Ergänzungsuntersuchung | 12 = Verfolgte |
-| 01 | 9403 | “4124” (SKT- | ≤ | n | 168 | 453 |
+| 01 | 9403 | erforderliche | ≤ | n | 168 | 453 |
 | 1 = Grundlistennummer Versorgungsamt | 2 = Registriernummer | 3 = Aktenzeichen der Entschädigungsbehörde | 4 = Aktenzeichen der Kostenstelle | 5 = Name des Auslands | 6 = Personalnummer | 7 = Personenkennnummer |
-| 8 = Dienststelle | 9 = Schule/Universität/Kindergarten | 10 = Personalnummer der Dienststelle | 1 | 9404  on SKT | 1  n  453 | 526 |
+| 8 = Dienststelle | 9 = Schule/Universität/Kindergarten | 10 = Personalnummer der Dienststelle | 1 | 9404  zusätzlich | 1  n  453 | 526 |
 | 1 = Gültigkeitszeitraum unter FK 4125 erforderlich | 4 = Bemerkung der Entschädigungsbehörde unter |  | 1 |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 | **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9401 | Handhabung | ≤ | n | 168 | 1 = Wegepauschale  2 = Wegepauschale bis 2 Kilometer, DKM ab 2  3 = DKM  4 = Angabe “Zone bei Besuchen” nur einmal je SA  5 =  6 = DKM, Ausnahme: bei “Notfallpatienten” (SA  7 = Wegepauschale, Ausnahme: ärztlicher  8 = DKM (lt. Wegegeldliste der KV), Ausnahme:   9 = Wegepauschale,   10 = KV-interne GNR unter FK 5001; Angabe der | 2 |
-| 9402 | Feld “4123” | 2 | n | 149  453 | 01 = Beschädigter  02 = Schwerbeschädigter  03 = Angehöriger  04 = Hinterbliebener  05 = Pflegeperson  06 = Tauglichkeitsuntersuchung  07 = ärztl. Versorgung  08 = Bewerber  09 = Erstuntersuchung  10 = Nachuntersuchung  11 = Ergänzungsuntersuchung  12 = Verfolgte | 01 |
-| 9403 | “4124” (SKT- | ≤ | n | 168  453 | 1 = Grundlistennummer Versorgungsamt  2 = Registriernummer  3 = Aktenzeichen der Entschädigungsbehörde  4 = Aktenzeichen der Kostenstelle  5 = Name des Auslands  6 = Personalnummer  7 = Personenkennnummer  8 = Dienststelle  9 = Schule/Universität/Kindergarten  10 = Personalnummer der Dienststelle | 1 |
-| 9404 | on SKT | 1 | n | 453  526 | 1 = Gültigkeitszeitraum unter FK 4125 erforderlich  4 = Bemerkung der Entschädigungsbehörde unter | 1 |
+| 9402 | zusätzlich | 2 | n | 149  453 | 01 = Beschädigter  02 = Schwerbeschädigter  03 = Angehöriger  04 = Hinterbliebener  05 = Pflegeperson  06 = Tauglichkeitsuntersuchung  07 = ärztl. Versorgung  08 = Bewerber  09 = Erstuntersuchung  10 = Nachuntersuchung  11 = Ergänzungsuntersuchung  12 = Verfolgte | 01 |
+| 9403 | erforderliche | ≤ | n | 168  453 | 1 = Grundlistennummer Versorgungsamt  2 = Registriernummer  3 = Aktenzeichen der Entschädigungsbehörde  4 = Aktenzeichen der Kostenstelle  5 = Name des Auslands  6 = Personalnummer  7 = Personenkennnummer  8 = Dienststelle  9 = Schule/Universität/Kindergarten  10 = Personalnummer der Dienststelle | 1 |
+| 9404 | zusätzlich | 1 | n | 453  526 | 1 = Gültigkeitszeitraum unter FK 4125 erforderlich  4 = Bemerkung der Entschädigungsbehörde unter | 1 |
 | **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9401 | Handhabung | ≤ | n | 168 | 1 = Wegepauschale  2 = Wegepauschale bis 2 Kilometer, DKM ab 2  3 = DKM | 4 = Angabe “Zone bei Besuchen” nur einmal je SA |
-| 5 = | 6 = DKM, Ausnahme: bei “Notfallpatienten” (SA | 7 = Wegepauschale, Ausnahme: ärztlicher | 8 = DKM (lt. Wegegeldliste der KV), Ausnahme: | 9 = Wegepauschale,   10 = KV-interne GNR unter FK 5001; Angabe der | 2  9402  Feld “4123”  2 | n |
+| 5 = | 6 = DKM, Ausnahme: bei “Notfallpatienten” (SA | 7 = Wegepauschale, Ausnahme: ärztlicher | 8 = DKM (lt. Wegegeldliste der KV), Ausnahme: | 9 = Wegepauschale,   10 = KV-interne GNR unter FK 5001; Angabe der | 2  9402  zusätzlich  2 | n |
 | 149 | 453 | 01 = Beschädigter | 02 = Schwerbeschädigter | 03 = Angehöriger  04 = Hinterbliebener | 05 = Pflegeperson  06 = Tauglichkeitsuntersuchung  07 = ärztl. Versorgung | 08 = Bewerber |
-| 09 = Erstuntersuchung | 10 = Nachuntersuchung | 11 = Ergänzungsuntersuchung | 12 = Verfolgte | 01 | 9403 | “4124” (SKT- |
+| 09 = Erstuntersuchung | 10 = Nachuntersuchung | 11 = Ergänzungsuntersuchung | 12 = Verfolgte | 01 | 9403 | erforderliche |
 | ≤ | n | 168 | 453 | 1 = Grundlistennummer Versorgungsamt | 2 = Registriernummer  3 = Aktenzeichen der Entschädigungsbehörde  4 = Aktenzeichen der Kostenstelle  5 = Name des Auslands  6 = Personalnummer  7 = Personenkennnummer  8 = Dienststelle  9 = Schule/Universität/Kindergarten  10 = Personalnummer der Dienststelle  1 | 9404 |
-| on SKT | 1 | n  453 | 1 = Gültigkeitszeitraum unter FK 4125 erforderlich | 4 = Bemerkung der Entschädigungsbehörde unter |  | 1 |
+| zusätzlich | 1 | n  453 | 1 = Gültigkeitszeitraum unter FK 4125 erforderlich | 4 = Bemerkung der Entschädigungsbehörde unter |  | 1 |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 | **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9401 | Handhabung | ≤ | n | 168 | 1 = Wegepauschale  2 = Wegepauschale bis 2 Kilometer, DKM ab 2  3 = DKM  4 = Angabe “Zone bei Besuchen” nur einmal je SA  5 =  6 = DKM, Ausnahme: bei “Notfallpatienten” (SA  7 = Wegepauschale, Ausnahme: ärztlicher  8 = DKM (lt. Wegegeldliste der KV), Ausnahme:   9 = Wegepauschale, | 10 = KV-interne GNR unter FK 5001; Angabe der |
-| 2 | 9402 | Feld “4123” | 2 | n | 149 | 453 |
+| 2 | 9402 | zusätzlich | 2 | n | 149 | 453 |
 | 01 = Beschädigter | 02 = Schwerbeschädigter | 03 = Angehöriger | 04 = Hinterbliebener | 05 = Pflegeperson | 06 = Tauglichkeitsuntersuchung | 07 = ärztl. Versorgung |
 | 08 = Bewerber | 09 = Erstuntersuchung | 10 = Nachuntersuchung | 11 = Ergänzungsuntersuchung | 12 = Verfolgte | 01 | 9403 |
-| “4124” (SKT- | ≤ | n | 168 | 453 | 1 = Grundlistennummer Versorgungsamt | 2 = Registriernummer |
+| erforderliche | ≤ | n | 168 | 453 | 1 = Grundlistennummer Versorgungsamt | 2 = Registriernummer |
 | 3 = Aktenzeichen der Entschädigungsbehörde | 4 = Aktenzeichen der Kostenstelle | 5 = Name des Auslands | 6 = Personalnummer | 7 = Personenkennnummer | 8 = Dienststelle  9 = Schule/Universität/Kindergarten | 10 = Personalnummer der Dienststelle |
-| 1 | 9404 | on SKT | 1 | n  453 | 526  1 = Gültigkeitszeitraum unter FK 4125 erforderlich  4 = Bemerkung der Entschädigungsbehörde unter     1 |  |
+| 1 | 9404 | zusätzlich | 1 | n  453 | 526  1 = Gültigkeitszeitraum unter FK 4125 erforderlich  4 = Bemerkung der Entschädigungsbehörde unter     1 |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
@@ -762,15 +758,15 @@ kombinierte KVDT-Datei Abgabequartal Abgabequartal  einer KVDT-Datei abweichende
 |  |  |  |  |  |  |  |
 | **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9401 | Handhabung | ≤ | n | 168  1 = Wegepauschale | 2 = Wegepauschale bis 2 Kilometer, DKM ab 2  3 = DKM  4 = Angabe “Zone bei Besuchen” nur einmal je SA | 5 = |
-| 6 = DKM, Ausnahme: bei “Notfallpatienten” (SA | 7 = Wegepauschale, Ausnahme: ärztlicher | 8 = DKM (lt. Wegegeldliste der KV), Ausnahme: | 9 = Wegepauschale, | 10 = KV-interne GNR unter FK 5001; Angabe der | 2  9402 | Feld “4123” |
+| 6 = DKM, Ausnahme: bei “Notfallpatienten” (SA | 7 = Wegepauschale, Ausnahme: ärztlicher | 8 = DKM (lt. Wegegeldliste der KV), Ausnahme: | 9 = Wegepauschale, | 10 = KV-interne GNR unter FK 5001; Angabe der | 2  9402 | zusätzlich |
 | 2 | n | 149 | 453 | 01 = Beschädigter | 02 = Schwerbeschädigter | 03 = Angehöriger |
 | 04 = Hinterbliebener | 05 = Pflegeperson | 06 = Tauglichkeitsuntersuchung | 07 = ärztl. Versorgung | 08 = Bewerber | 09 = Erstuntersuchung | 10 = Nachuntersuchung |
 | 11 = Ergänzungsuntersuchung | 12 = Verfolgte | 01  9403 | ≤ | n | 168 | 453 |
 | 1 = Grundlistennummer Versorgungsamt | 2 = Registriernummer | 3 = Aktenzeichen der Entschädigungsbehörde | 4 = Aktenzeichen der Kostenstelle | 5 = Name des Auslands | 6 = Personalnummer  7 = Personenkennnummer | 8 = Dienststelle |
-| 9 = Schule/Universität/Kindergarten | 10 = Personalnummer der Dienststelle | 1 | 9404 | on SKT | 1  n | 453 |
+| 9 = Schule/Universität/Kindergarten | 10 = Personalnummer der Dienststelle | 1 | 9404 | zusätzlich | 1  n | 453 |
 | 526 | 1 = Gültigkeitszeitraum unter FK 4125 erforderlich | 4 = Bemerkung der Entschädigungsbehörde unter |  | 1 |  |  |
 
-“Übertragung Doppelkilometer bzw. Wegepauschale nach E-GO” bei Ersatzkassen zusätzlich erforderliche, zulässige Werte in (Personenkreis/ Untersuchungskate- gorie) erforderliche Zusatzangabe in Feld Zusatzangaben)  zusätzlich erforderliche Abrechnungsinformati “010x”, Ausnahme: falls bei einzelnen Besuchen der Besuchsort und somit die Entfernung von dieser Zonenangabe abweicht, so ist die zutreffende Wegepauschale hinter dem entsprechenden Besuch zu erfassen Keine  Angabe, sondern Vorlage einer “handschriftlichen” Wegegeldliste bei der KV  8000 = 0104), dann auch Wegepauschale zulässig Notfalldienst, dann tatsächlich gefahrene DKM ärztlicher Notfalldienst, dann tatsächlich gefahrene DKM Ausnahme: im organisierten Notfalldienst  ab einer Entfernung von 0,5 Kilometern Angabe von  DKM. Anmerkung: der organisierte Notfalldienst kann bei den Satzarten 0101, 0102 und 0104 abgerechnet werden. Doppelkilometer (DKM) als Multiplikator unter FK 5005. (Die Feldkennung 5008 wird im Zusammenhang mit DKM hier nicht verwendet!) FK 4126 erforderlich
+“Übertragung Doppelkilometer bzw. Wegepauschale nach E-GO” bei Ersatzkassen erforderliche, zulässige Werte in Feld “4123” (Personenkreis/ Untersuchungskate- gorie) Zusatzangabe in Feld “4124” (SKT- Zusatzangaben)  Abrechnungsinformati on SKT “010x”, Ausnahme: falls bei einzelnen Besuchen der Besuchsort und somit die Entfernung von dieser Zonenangabe abweicht, so ist die zutreffende Wegepauschale hinter dem entsprechenden Besuch zu erfassen Keine  Angabe, sondern Vorlage einer “handschriftlichen” Wegegeldliste bei der KV  8000 = 0104), dann auch Wegepauschale zulässig Notfalldienst, dann tatsächlich gefahrene DKM ärztlicher Notfalldienst, dann tatsächlich gefahrene DKM Ausnahme: im organisierten Notfalldienst  ab einer Entfernung von 0,5 Kilometern Angabe von  DKM. Anmerkung: der organisierte Notfalldienst kann bei den Satzarten 0101, 0102 und 0104 abgerechnet werden. Doppelkilometer (DKM) als Multiplikator unter FK 5005. (Die Feldkennung 5008 wird im Zusammenhang mit DKM hier nicht verwendet!) FK 4126 erforderlich
 
 
 ---
@@ -780,13 +776,13 @@ kombinierte KVDT-Datei Abgabequartal Abgabequartal  einer KVDT-Datei abweichende
 | 1 | n | 112 | 1 = Enthält der Behandlungstag (FK 5000) eine | 2 = Enthält der Behandlungstag (FK 5000) eine | **Hinweis** 2  9406  nicht zulässige  4  n  198  453  0101 = Ambulante Behandlung  0102 = Überweisung  0103 = Belegärztliche Behandlung  0104 = Notfalldienst / Vertretung / Notfall  0101  9407  nicht zulässige  1  n  116  453  1 = Mitglied  3 = Familienversicherter  5 = Rentner  3  9408 | Abgabe von |
 | 1 | n | 101 |  | 1 | 9409  Handhabung  ≤ n  168  1 = Wegepauschale  2 = Wegepauschale bis 2 Kilometer, DKM ab 2  3 = DKM  4 = Angabe “Zone bei Besuchen” nur einmal je SA  5 = | 6 = DKM, |
 | 7 = Wegepauschale, | 8 = DKM (lt. Wegegeldliste der KV), | 9 = Wegepauschale, | 10 = KV-interne GNR unter FK 5001; Angabe der | 2 | 9410  Pseudo-GNR  5,6 |  |
-|  | a | 042 |  |  | 9411  zur Pseudo-GNR  ≤ | a |
+|  | a | 042 |  |  | 9411  Erläuterung   ≤ | a |
 | **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9405 | Handhabung | 1 | n | 112 | 1 = Enthält der Behandlungstag (FK 5000) eine  2 = Enthält der Behandlungstag (FK 5000) eine **Hinweis** 2  9406  nicht zulässige  4  n  198  453  0101 = Ambulante Behandlung  0102 = Überweisung  0103 = Belegärztliche Behandlung | 0104 = Notfalldienst / Vertretung / Notfall |
 | 0101 | 9407 | nicht zulässige | 1 | n | 116  453  1 = Mitglied  3 = Familienversicherter  5 = Rentner  3  9408  Abgabe von  1  n  101    1  9409  Handhabung  ≤ n  168  1 = Wegepauschale  2 = Wegepauschale bis 2 Kilometer, DKM ab 2 | 3 = DKM |
 | 4 = Angabe “Zone bei Besuchen” nur einmal je SA | 5 = | 6 = DKM,  7 = Wegepauschale, | 9 = Wegepauschale, | 10 = KV-interne GNR unter FK 5001; Angabe der | 2 | 9410 |
 | Pseudo-GNR | 5,6 |  |  | a | 042 |  |
-|  | 9411 | zur Pseudo-GNR | ≤ | a |  |  |
+|  | 9411 | Erläuterung | ≤ | a |  |  |
 |  | 9451 | Text für | 3 | a |  |  |
 | amb |  |  |  |  |  |  |
 | **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
@@ -795,7 +791,7 @@ kombinierte KVDT-Datei Abgabequartal Abgabequartal  einer KVDT-Datei abweichende
 | 101 |  | 1 | 9409 | Handhabung | ≤ | n |
 | 168 | 1 = Wegepauschale | 2 = Wegepauschale bis 2 Kilometer, DKM ab 2 | 3 = DKM | 4 = Angabe “Zone bei Besuchen” nur einmal je SA | 5 = | 6 = DKM, |
 | 7 = Wegepauschale, | 8 = DKM (lt. Wegegeldliste der KV), | 9 = Wegepauschale, | 10 = KV-interne GNR unter FK 5001; Angabe der | 2  9410 | Pseudo-GNR  5,6 |  |
-| a | 042 |  |  | 9411 | zur Pseudo-GNR | ≤ |
+| a | 042 |  |  | 9411 | Erläuterung | ≤ |
 | a |  |  |  | 9451 | Text für | 3 |
 | a |  | amb |  |  |  |  |
 |  |  |  |  |  |  |  |
@@ -811,7 +807,7 @@ kombinierte KVDT-Datei Abgabequartal Abgabequartal  einer KVDT-Datei abweichende
 | 9408 | Abgabe von | 1 | n | 101 |  | 1 |
 | 9409 | Handhabung | ≤ | n | 168 | 1 = Wegepauschale  2 = Wegepauschale bis 2 Kilometer, DKM ab 2  3 = DKM  4 = Angabe “Zone bei Besuchen” nur einmal je SA  5 =  6 = DKM,  7 = Wegepauschale,  8 = DKM (lt. Wegegeldliste der KV),  9 = Wegepauschale,   10 = KV-interne GNR unter FK 5001; Angabe der | 2 |
 | 9410 | Pseudo-GNR | 5,6 | a | 042 |  |  |
-| 9411 | zur Pseudo-GNR | ≤ | a |  |  |  |
+| 9411 | Erläuterung | ≤ | a |  |  |  |
 | 9451 | Text für | 3 | a |  |  | amb |
 | **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9405 | Handhabung | 1 | n | 112 | 1 = Enthält der Behandlungstag (FK 5000) eine  2 = Enthält der Behandlungstag (FK 5000) eine **Hinweis** 2  9406  nicht zulässige  4  n  198 | 453 |
@@ -820,7 +816,7 @@ kombinierte KVDT-Datei Abgabequartal Abgabequartal  einer KVDT-Datei abweichende
 | 3 | 9408 | Abgabe von | 1 | n | 101 |  |
 | 1 | 9409 | Handhabung | ≤ | n | 168 | 1 = Wegepauschale |
 | 2 = Wegepauschale bis 2 Kilometer, DKM ab 2 | 3 = DKM | 4 = Angabe “Zone bei Besuchen” nur einmal je SA | 5 = | 6 = DKM, | 7 = Wegepauschale,  8 = DKM (lt. Wegegeldliste der KV), | 9 = Wegepauschale, |
-| 10 = KV-interne GNR unter FK 5001; Angabe der | 2 | 9410 | Pseudo-GNR | 5,6 | a  042      9411  zur Pseudo-GNR  ≤ a |  |
+| 10 = KV-interne GNR unter FK 5001; Angabe der | 2 | 9410 | Pseudo-GNR | 5,6 | a  042      9411  Erläuterung   ≤ a |  |
 |  |  | 9451 | Text für | 3 | a |  |
 |  | amb |  |  |  |  |  |
 |  |  |  |  |  |  |  |
@@ -837,9 +833,9 @@ kombinierte KVDT-Datei Abgabequartal Abgabequartal  einer KVDT-Datei abweichende
 | 1 | n | 101 | 9409 | Handhabung | ≤ | n |
 | 168 | 1 = Wegepauschale | 2 = Wegepauschale bis 2 Kilometer, DKM ab 2 | 3 = DKM | 4 = Angabe “Zone bei Besuchen” nur einmal je SA | 5 =  6 = DKM, | 7 = Wegepauschale, |
 | 8 = DKM (lt. Wegegeldliste der KV), | 9 = Wegepauschale, | 10 = KV-interne GNR unter FK 5001; Angabe der | 2 | 9410 | Pseudo-GNR  5,6 |  |
-|  | a | 042 |  |  | 9411  zur Pseudo-GNR | ≤ |
+|  | a | 042 |  |  | 9411  Erläuterung | ≤ |
 
-"Übertragung Pseudo- GNR" Satzarten “010x” Versichertenarten in Feld “3108” Früherkennungsdoku menten “Übertragung Doppelkilometer bzw. Wegepauschale nach BMĔ bei Primärkassen Erläuterung  Scheinuntergruppe  60 GNR (FK 5001), muss  dem Feld “Sachkosten/ Materialkosten in Cent” (FK 5012) eine Pseudo- GNR für Kosten vorangehen. GNR (FK 5001), muss  dem Feld “Sachkosten/ Materialkosten in Cent” (FK 5012) keine Pseudo-GNR für Kosten vorangehen. : Darüber hinaus gilt: Enthält der Behandlungstag (FK 5000) keine GNR (FK 5001), so muss  dem Feld “Sachkosten/Materialkosten in Cent” (FK 5012) die Pseudo-GNR “88999” vorangehen, wenn nicht eine abweichende Regelung zur Pseudo-GNR unter den Feldkennungen 9410/9411 definiert ist. (vgl. auch P2-610 (2) a, Anforderungskatalog KVDT) “010x”, Ausnahme : falls bei einzelnen Besuchen der Besuchsort und somit die Entfernung von dieser Zonenangabe abweicht, so ist die zutreffende Wegepauschale hinter dem entsprechenden Besuch zu erfassen Keine  Angabe, sondern Vorlage einer “handschriftlichen” Wegegeldliste bei der KV  Ausnahme : bei “Notfallpatienten” (SA 8000 = 0104), dann auch Wegepauschale Ausnahme : ärztlicher Notfalldienst, dann tatsächlich gefahrene DKM Ausnahme ärztlicher Notfalldienst, dann tatsächlich gefahrene DKM Ausnahme: im organisierten Notfalldienst  ab einer Entfernung von 0,5 Kilometern Angabe von  DKM. Anmerkung: der organisierte Notfalldienst kann bei den Satzarten 0101, 0102 und 0104 abgerechnet werden. Doppelkilometer (DKM) als Multiplikator unter FK 5005. (Die Feldkennung 5008 wird im Zusammenhang mit DKM hier nicht verwendet!)
+"Übertragung Pseudo- GNR" Satzarten “010x” Versichertenarten in Feld “3108” Früherkennungsdoku menten “Übertragung Doppelkilometer bzw. Wegepauschale nach BMĔ bei Primärkassen  60 zur Pseudo-GNR Scheinuntergruppe GNR (FK 5001), muss  dem Feld “Sachkosten/ Materialkosten in Cent” (FK 5012) eine Pseudo- GNR für Kosten vorangehen. GNR (FK 5001), muss  dem Feld “Sachkosten/ Materialkosten in Cent” (FK 5012) keine Pseudo-GNR für Kosten vorangehen. : Darüber hinaus gilt: Enthält der Behandlungstag (FK 5000) keine GNR (FK 5001), so muss  dem Feld “Sachkosten/Materialkosten in Cent” (FK 5012) die Pseudo-GNR “88999” vorangehen, wenn nicht eine abweichende Regelung zur Pseudo-GNR unter den Feldkennungen 9410/9411 definiert ist. (vgl. auch P2-610 (2) a, Anforderungskatalog KVDT) “010x”, Ausnahme : falls bei einzelnen Besuchen der Besuchsort und somit die Entfernung von dieser Zonenangabe abweicht, so ist die zutreffende Wegepauschale hinter dem entsprechenden Besuch zu erfassen Keine  Angabe, sondern Vorlage einer “handschriftlichen” Wegegeldliste bei der KV  Ausnahme : bei “Notfallpatienten” (SA 8000 = 0104), dann auch Wegepauschale Ausnahme : ärztlicher Notfalldienst, dann tatsächlich gefahrene DKM Ausnahme ärztlicher Notfalldienst, dann tatsächlich gefahrene DKM Ausnahme: im organisierten Notfalldienst  ab einer Entfernung von 0,5 Kilometern Angabe von  DKM. Anmerkung: der organisierte Notfalldienst kann bei den Satzarten 0101, 0102 und 0104 abgerechnet werden. Doppelkilometer (DKM) als Multiplikator unter FK 5005. (Die Feldkennung 5008 wird im Zusammenhang mit DKM hier nicht verwendet!)
 
 
 ---
@@ -1193,10 +1189,10 @@ Beispielhafter Satz “kvx1” der KV Test:
 | **Länge** | **FK** | **Feldinhalt** | **Feldbezeichnung** | **Bedeutung des Feldinhalts** |
 |---|---|---|---|---|
 | 013 | 8000 | kvx1 | Satzart | Handhabungshinweise |
-| 010 | 9400 | 1 | Handhabung “Tagtrennung” | Patienten |
+| 010 | 9400 | 1 | Handhabung “Tagtrennung” | Ein Eintrag einer Uhrzeit muss zur ersten |
 | 010 | 9401 | 1 | Handhabung “Übertragung | Wegepauschale |
 | 010 | 9409 | 1 | Handhabung “Übertragung | Wegepauschale |
-| 010 | 9405 | 2 | Handhabung "Übertragung Pseudo- | **muss** |
+| 010 | 9405 | 2 | Handhabung "Übertragung Pseudo- | Enthält der Behandlungstag (FK 5000) |
 | 013 | 9410 | 88999 | Pseudo-GNR | Pseudo-GNR |
 | 069 | 9411 | Textzeile 1 | Erläuterung zur Pseudo-GNR | Erläuterungstext zur Pseudo-GNR 88999 |
 | 069 | 9411 | Textzeile 2 | Erläuterung zur Pseudo-GNR | Erläuterungstext zur Pseudo-GNR 88999 |
@@ -1212,7 +1208,7 @@ Textzeile 3 zu 9411: Pseudo-GNR “88999” vorangehen.
 
 **muss** dem Feld “Sachkosten /Materialkosten in Cent” (FK 5012) die
 
-(s.u.) (s.u.) (s.u.) Doppelkilometer (DKM, FK 5008) bzw. Wegepauschale nach E-GO” bei Ersatzkassen Doppelkilometer (DKM, FK 5008) bzw. Wegepauschale nach BMÄ” bei Primärkassen GNR" Ein Eintrag einer Uhrzeit muss zur ersten GNR des ersten Arzt-- Kontaktes vorgenommen werden.  Enthält der Behandlungstag (FK 5000) eine GNR (FK 5001), “Sachkosten /Material-kosten in Cent” (FK 5012) keine  Pseudo-GNR für Kosten vorangehen.  dem Feld
+(s.u.) (s.u.) (s.u.) Doppelkilometer (DKM, FK 5008) bzw. Wegepauschale nach E-GO” bei Ersatzkassen Doppelkilometer (DKM, FK 5008) bzw. Wegepauschale nach BMÄ” bei Primärkassen GNR" GNR des ersten Arzt-- Patienten Kontaktes vorgenommen werden.  eine GNR (FK 5001), “Sachkosten /Material-kosten in Cent” (FK 5012) keine  Pseudo-GNR für Kosten vorangehen.  dem Feld
 
 ---
 
@@ -1315,11 +1311,9 @@ Wird in der KV nicht geklammert, so muss unter dem Feld 9463 (KV klammert) eine 
 
 Werden Klammerinformationen übertragen (Feld 9463 = 1), so müssen nicht alle  Scheinuntergruppen unter FK 4239 vorhanden sein; die nicht aufgeführten  Scheinuntergruppen sind hierdurch von der Klammerung ausgenommen.
 
-Alle Scheine, die denselben Eintrag in der Klammergruppe (Feld 9464) besitzen, werden
+Alle Scheine, die denselben Eintrag in der Klammergruppe (Feld 9464) besitzen, werden  geklammert. Wobei gilt:
 
-geklammert. Wobei gilt: - 5
-
--  Wenn das Feld “Status trennt” (FK 9467) den Inhalt
+-  Wenn das Feld “Status5 trennt” (FK 9467) den Inhalt
 
 - o 0 (= nein) hat, werden die Scheine unabhängig vom Status geklammert.
 
@@ -1330,6 +1324,8 @@ geklammert. Wobei gilt: - 5
 - o 0 (= nein) steht, wird Satzart “0102” (= Überweisung) mit Scheinuntergruppe 21 (FK  4239-) unabhängig von der überweisenden (N)BSNR/ASV Teamnummer (FK 4218) - geklammert.
 
 - o 1 (= ja) steht, wird Satzart “0102” (= Überweisung) mit Scheinuntergruppe 21 (FK  4239) nur geklammert, wenn die überweisende (N)BSNR/ASV-Teamnummer (FK  4218) identisch ist.
+
+5 Versichertenart
 
 (Der Status der geklammerten Scheine wird über das Feld 9468 festgelegt)
 
@@ -1345,8 +1341,6 @@ Die Reihenfolge der führenden Klammerscheine kann festgelegt werden. Der führe
 
 Werden unterschiedliche Abrechnungsgebiete geklammert, wird über FK 9465 das führende  Abrechnungsgebiet bestimmt, wobei sich dieses aus dem kleinsten Wert in Feld 9465  ableitet.
 
-5 Versichertenart
-
 
 ---
 
@@ -1356,7 +1350,7 @@ Mittels Satzart “kvx7” definiert jede KV in Abhängigkeit von VKNR-- (FK 947
 
 Als Orientierung diene hierbei folgende beispielhafte Tabelle:
 
-| **KT-Gruppe Kassenart** |  | **Seriennummern-** | **Abrechnungsart** |
+| **KT-Gruppe Kassenart** |  | **Seriennummern-** | **Primärkasse (PKA)** |
 |---|---|---|---|
 | 01 | Primärkasse AOK Allgemeine Ortskrankenkasse (AOK) | 101 – 199 | **PKA** |
 | 02 | Primärkasse LKK Landwirtschaftliche Krankenkasse (LKK) | 201 – 299 | **PKA** |
@@ -1387,7 +1381,7 @@ Seriennummern Bereichen
 
 **alle**
 
-(FK 2018) (AUS) Asylstelle (AS) / Justizvollzugsanstalt (JVA) Krankenkassen (MDK) Mitglieder A (PBA) Dienstunfall (PBD) Jugendarbeitsschutzuntersuchung (JAS) Unfallversicherer (UV) Kontingent (3.-5. Stelle VKNR) 651 – 659 849, 950 – 999 für KTAB = 00: Primärkasse (PKA) Ersatzkasse (EKK) Sonst. KT (SKT)
+(FK 2018) (AUS) Asylstelle (AS) / Justizvollzugsanstalt (JVA) Krankenkassen (MDK) Mitglieder A (PBA) Dienstunfall (PBD) Jugendarbeitsschutzuntersuchung (JAS) Unfallversicherer (UV) Kontingent (3.-5. Stelle VKNR) Ersatzkasse (EKK) Sonst. KT (SKT) 651 – 659 849, 950 – 999 Abrechnungsart für KTAB = 00:
 
 ---
 

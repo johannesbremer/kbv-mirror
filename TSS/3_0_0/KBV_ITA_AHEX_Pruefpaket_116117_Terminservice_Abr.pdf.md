@@ -120,7 +120,7 @@ DOKUMENTENHISTORIE
 | 1.01 | 05.06.2025 | KBV | Anpassung der FHIR- | Klarstellung und Korrektur | 18 |
 | 1.0 | 12.02.2025 | KBV | Dokumenterstellung | Neue Spezifikation 116117  Spec_Terminservice_Abr**“** | alle |
 
-Behandlungsdatums im Fließtext des Prüffalles 09 Behandlungsdatums im Prüffall 09 Prüffälle FHIR-Daten für die Terminservicestelle Daten für die Terminservicestelle des Vermittlungscodes auf 14 Stellen der verwendeten FHIR- Daten Abrechnungsinformation stets aktuellen Version
+Behandlungsdatums im Fließtext des Prüffalles 09 Behandlungsdatums im Prüffall 09 Prüffälle des Vermittlungscodes auf 14 Stellen FHIR-Daten für die Terminservicestelle Daten für die der verwendeten FHIR- Terminservicestelle Daten Abrechnungsinformation stets aktuellen Version
 
 
 ---

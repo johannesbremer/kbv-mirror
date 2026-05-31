@@ -30,83 +30,63 @@ www.kbv.de
 
 #### Änderungshistorie
 
-**VERSION**
+**VERSION DATUM**
 
 1.0.2
 
-1.0.1
-
-1.0
-
-0.1
-
-Seite 3 von 11
-
-**DATUM**
-
 07.05.2025
 
-19.02.2025
+**AUTOR KAPITEL**
 
-06.12.2024
+kv.digital 4
 
-19.07.2024
-
-/ KBV / Spezifikation 116117 Terminservice - Vermittlungscode
-
-**AUTOR**
-
-kv.digital  GmbH
-
-kv.digital  GmbH
-
-kv.digital  GmbH
-
-kv.digital  GmbH
-
-**KAPITEL**
-
-4
-
-5
+GmbH 5
 
 6
 
-7
-
-5
-
-alle
-
-alle
-
 **ÄNDERUNG**
-
-Anmerkung in [VCA0003] entfällt
-
-Änderung von [VCA0101]: Entfall der KANN- Anforderung
-
-Klarstellung von [VCA0200] und Ergänzung  der Anmerkung
-
-Korrektur Referenz [Implementation Guide]
-
-Korrektur Referenz in [VCA0100]
-
-Änderung Titel
-
-redaktionelle Änderungen
-
-Initiale Erstellung
 
 **STATUS**
 
+Anmerkung in [VCA0003] entfällt
+
 in Kraft
 
-außer Kraft
+Änderung von [VCA0101]: Entfall der KANN- Anforderung
+
+Klarstellung von [VCA0200] und Ergänzung  der Anmerkung 7
+
+Korrektur Referenz [Implementation Guide]
+
+1.0.1
+
+19.02.2025 kv.digital 5
+
+Korrektur Referenz in [VCA0100]
 
 außer Kraft
+
+GmbH 1.0
+
+06.12.2024 kv.digital alle
+
+Änderung Titel
+
+außer Kraft
+
+GmbH
+
+redaktionelle Änderungen 0.1
+
+19.07.2024 kv.digital alle
+
+Initiale Erstellung
 
 Entwurf
+
+GmbH
+
+Seite 3 von 11 / KBV / Spezifikation 116117 Terminservice - Vermittlungscode
 
 
 ---

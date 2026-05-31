@@ -13,18 +13,20 @@ krebs-Screening (eHKS) _eHKS] 1.04 Datum: 29.01.2019 Kennzeichnung: Öffentlich 
 
 ---
 
-**D** **O** **K** **U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O**  **R** **I** **E**
+**D** **O** **K** **U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O** **R** **I** **E**
 
 | **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
 | 1.04 | 29.01.2019 KBV |  | Korrektur |  | **8  9** |
-| 1.03 | 26.06.2018 KBV |  | Aufnahme von neuen Feldern | Beschluss GBA | **alle** |
+| 1.03 | 26.06.2018 KBV |  | Aufnahme von neuen F | Beschluss GBA | **alle** |
 | 1.02 | 02.08.2012 KBV |  | Red. Änderungen | entfällt | **alle** |
+
+eldern
 
 
 ---
 
-**I** **N** **H** **A** **L** **T** **S** **V** **E** **R** **Z** **E** **I** **C** **H**  **N** **I** **S**
+**I** **N** **H** **A** **L** **T** **S** **V** **E** **R** **Z** **E** **I** **C** **H** **N** **I** **S**
 
 **1** **EINLEITUNG**
 
@@ -53,41 +55,31 @@ Der vorliegende Plausibilitätenkatalog konkretisiert die in der Änderung der K
 
 Die Softwarehersteller sind angehalten, bereits bei der Datenerfassung Prüfungen der Plausi- bilität eingegebener Werte durchzuführen und den Anwender ggf. auf Verstöße gegen die  Plausibilitäten hinzuweisen.
 
-Das Dokument kann fortgeschrieben werden. Sollten sich Sachverhalte ergeben, die in dieser  Unterlage noch nicht abgebildet waren, so können diese ergänzt
+Das Dokument kann fortgeschrieben werden. Sollten sich Sachverhalte ergeben, die in dieser  Unterlage noch nicht abgebildet waren, so können diese ergänzt werden.
 
 Das Dokument wird dann mit neuer Version an alle Kassenärztlichen Vereinigungen und Sys- temanbieter verteilt.
 
 # 2 Grundlagen
 
-Die aufgeführten Plausibilitätsregeln orientieren sich an den  nungsrichtline Hautkrebs-Screening des GBA.
+Die aufgeführten Plausibilitätsregeln orientieren sich an den Ergänzungen der Früherken- nungsrichtline Hautkrebs-Screening des GBA.
 
-Der Plausibilitätenkatalog der Krebsfrüherkennungsrichtlinie Hautkrebs -Screening stellt den  Entwicklern von PVS -Systemen oder Web -Anwendungssystemen ein Hilfsmittel zur Verfü- gung, welches die Anwendung, die Bedienung innerhal b der Anwendung und die fachlichen  Prüfungen im Rahmen der eDokumentation der
+Der Plausibilitätenkatalog der Krebsfrüherkennungsrichtlinie Hautkrebs-Screening stellt den  Entwicklern von PVS-Systemen oder Web-Anwendungssystemen ein Hilfsmittel zur Verfü- gung, welches die Anwendung, die Bedienung innerhal b der Anwendung und die fachlichen  Prüfungen im Rahmen der eDokumentation der Früherkennungsrichtlinie Hautkrebs-
 
 Screening spezifiziert.
 
-Der hier beschriebene Plausibilitätenkatalog soll so verwendet werden, dass der Anwender  bei der Ausfüllung der Dokumentation interaktiv auf I nplausibilitäten aufmerksam gemacht  wird. Verstöße gegen die Plausibilitätsregeln führen zu einer Fehlermeldung des Prüfmoduls,  sofern bei der jeweiligen Regel nicht explizit angegeben ist, dass lediglich eine Warnung e folgen soll.
+Der hier beschriebene Plausibilitätenkatalog soll so verwendet werden, dass der Anwender  bei der Ausfüllung der Dokumentation interaktiv auf Inplausibilitäten aufmerksam gemacht  wird. Verstöße gegen die Plausibilitätsregeln führen zu einer Fehlermeldung des Prüfmoduls,  sofern bei der jeweiligen Regel nicht explizit angegeben ist, dass lediglich eine Warnung e r-
 
-Weitere Sachverhalte sind in dem Anforderungskatalog
+folgen soll.
+
+Weitere Sachverhalte sind in dem Anforderungskatalog eDokumentation Hautkrebs-
 
 Screening“ enthalten. Die Anforderungsspezifikation ist Grundlage für die Zertifizierung der
 
 Anwendung.
 
-Wenn ein Wert zu einer Warnung führt, soll der An werden, er muss aber die Möglichkeit haben, den Wert in die Dokumentation aufzunehmen.
+Wenn ein Wert zu einer Warnung führt, soll der An wender auf diesen Umstand hingewiesen
 
-werden.
-
-Ergänzungen der Früherken-
-
-Früherkennungs richtlinie Hautkrebs
-
-eDokumentation
-
-wender auf diesen Umstand hingewiesen
-
-r-
-
-Hautkrebs-
+werden, er muss aber die Möglichkeit haben, den Wert in die Dokumentation aufzunehmen.
 
 
 ---
@@ -106,11 +98,11 @@ Hautkrebs-
 | 1.1.3 | Basalzellkarzinom | Ja/Nein | Bedingtes Pflichtfeld,   Bei Angabe „Ja“ in 1.1 nur eine Angabe ist möglich. |
 | 1.1.4 | Spinozelluläres Karzinom | Ja/Nein | Bedingtes Pflichtfeld,   Bei Angabe „Ja“ in 1.1 nur eine Angabe ist möglich. |
 | 1.1.5 | anderer Hautkrebs | Ja/Nein | Bedingtes Pflichtfeld,   Bei Angabe „Ja“ in 1.1 nur eine Angabe ist möglich. |
-| 1.1.6 | sonstiger dermatologisch | Ja/Nein | Bedingtes Pflichtfeld,   Bei Angabe „Ja“ in 1.1 |
+| 1.1.6 | sonstiger | Ja/Nein | Bedingtes Pflichtfeld,   Bei Angabe „Ja“ in 1.1 |
 
 (zur hausärztlichen Versorgung
 
-abklärungsbedürftiger Befund /Datenformat .1, muss hier eine Angabe erfolgen. eine Angabe erfolgen.  eine Angabe erfolgen. eine Angabe erfolgen., .1, muss hier .1, muss hier .1, muss hier .1, muss hier zugelassene Praktische Ärzte, Ärzte ohne Gebietsbezeichnung,
+dermatologisch Befund abklärungsbedürftiger /Datenformat .1, muss hier eine Angabe erfolgen. .1, muss hier eine Angabe erfolgen.  .1, muss hier eine Angabe erfolgen. .1, muss hier eine Angabe erfolgen., .1, muss hier zugelassene Praktische Ärzte, Ärzte ohne Gebietsbezeichnung,
 
 
 ---
@@ -119,7 +111,7 @@ abklärungsbedürftiger Befund /Datenformat .1, muss hier eine Angabe erfolgen. 
 |---|---|---|---|
 | 1.1.7 | Screening-Teilnehmer wird an einen Dermatologen | Ja/Nein | Pflichtfeld,  nur eine Angabe ist möglich. |
 | **1.2.** | **Gesundheitsuntersuchung** | | |
-| 1.2.1 | Gleichzeitig Gesundheitsuntersuchung | Ja/Nein | Pflichtfeld,   nur eine Angabe ist möglich. |
+| 1.2.1 | Gleichzeitig | Ja/Nein | Pflichtfeld,   nur eine Angabe ist möglich. |
 
 ## 3.2 Dermatologen
 
@@ -144,13 +136,13 @@ Alle Felder sind Pflichtfelder, falls nichts anderes angegeben ist.
 |---|---|---|---|
 | 2.2.4 | Spinozelluläres Karzinom | Ja/Nein | Bedingtes Pflichtfeld    Bei Angabe „   Nur eine Angabe ist möglich. |
 | 2.2.5 | anderer Hautkrebs | Ja/Nein | Bedingtes Pflichtfeld    Bei Angabe „   Nur eine Angabe ist möglich. |
-| **2.3.** |  | | |
+| **2.3.** | **Verdachtsdiagnose des Dermatologen** | | |
 | 2.3.1 | Verdachtsdiagnose | Ja/Nein | Pflichtfeld,  nur eine Angabe ist möglich. |
 | 2.3.2 | Malignes Melanom | Ja/Nein | Bedingtes Pflichtfeld,   Bei Angabe „Ja“ in 2.3   nur eine Angabe ist möglich. |
 | 2.3.3 | Basalzellkarzinom | Ja/Nein | Bedingtes Pflichtfeld,   Bei Angabe „Ja“ in 2.3   nur eine Angabe ist möglich. |
 | 2.3.4 | Spinozelluläres Karzinom | Ja/Nein | Bedingtes Pflichtfeld, |
 
-Verdachtsdiagnose des Dermatologen (Mehrfachangaben möglich) Ja“ in 2.2.1, muss  hier eine Angabe erfolgen.  Ja“ in 2.2.1, muss hier eine Angabe erfolgen. Ja“ in 2.2.1, muss hier eine Angabe erfolgen. .1, muss hier eine Angabe erfolgen. .1, muss hier eine Angabe erfolgen.
+(Mehrfachangaben möglich) Ja“ in 2.2.1, muss  hier eine Angabe erfolgen.  Ja“ in 2.2.1, muss hier eine Angabe erfolgen. Ja“ in 2.2.1, muss hier eine Angabe erfolgen. .1, muss hier eine Angabe erfolgen. .1, muss hier eine Angabe erfolgen.
 
 ---
 
@@ -173,24 +165,24 @@ Befund nommen oder Exzision durchgeführt nommen bzw. eingeleitet .1, muss hier 
 | **2.5.** | **Histopathologie (ist nur vorgesehen für die Verdachtsdiagnosen nach 2.3., Mehrfachangaben möglich)** | | |
 | 2.5.1 | 1 | Ja/Nein | Bedingtes Pflichtfeld    Bei Angabe „   Nur eine Angabe ist möglich. |
 | 2.5.1.1 | 1 | o   o | Bedingtes Pflichtfeld    Bei Angabe „   Nur eine Angabe ist möglich. |
-| 2.5.1.2 | 1 | o o o o | Optionales Feld    Bei Angabe „   Nur eine Angabe ist möglich. |
+| 2.5.1.2 | Malignes Melanom | o o o o | Optionales Feld    Bei Angabe „   Nur eine Angabe ist möglich. |
 | 2.5.2 | Basalzellkarzinom | Ja/Nein | Bedingtes Pflichtfeld.     Bei Angabe „   Nur eine Angabe ist möglich. |
-| 2.5.2.1 |  | Angabe in mm  Wertebereich: 0,1-999,9   Format: [n][n]n[,][n]   (n | Bedingtes Pflichtfeld    Bei Angabe „ |
+| 2.5.2.1 | Basalzellkarzinom horizontaler Tumordurc | Angabe in mm  Wertebereich: 0,1-999,9   Format: [n][n]n[,][n]   (n | Bedingtes Pflichtfeld    Bei Angabe „ |
 
-Malignes Melanom Malignes Melanom Malignes Melanom  Klassifikation   Tumordicke (Breslow) Basalzellkarzinom horizontaler Tumordurc messer (klinisch) Melanoma in situ  Invasives Melanom   1 mm 1,01-2 mm 2,01-4 mm > 4 mm h-  numerisch, [ ] - optional) Ja“ angegeben, muss hier „ Nein“ angegeben werden Ja“ angegeben, muss hier „ Nein“ angegeben werden Ja“ in 2.4.1, muss eine Angabe in 2.5.1. erfolgen. Ja“ in 2.5.1,  muss eine Angabe in 2.5.1.1 erfolgen. Ja“ unter 2.5.1 kann eine Angabe im Feld 2.5.1.2 erfolgen. Ja“ in 2.4.1, muss eine Angabe in 2.5.2. erfolgen. Ja“ in 2.5.2, muss eine Angabe in 2.5.2.1 erfolgen.
+messer (klinisch)  Klassifikation   Tumordicke (Breslow) Melanoma in situ  Invasives Melanom   1 mm 1,01-2 mm 2,01-4 mm > 4 mm h-  numerisch, [ ] - optional) Ja“ angegeben, muss hier „ Nein“ angegeben werden Ja“ angegeben, muss hier „ Nein“ angegeben werden Ja“ in 2.4.1, muss eine Angabe in 2.5.1. erfolgen. Ja“ in 2.5.1,  muss eine Angabe in 2.5.1.1 erfolgen. Ja“ unter 2.5.1 kann eine Angabe im Feld 2.5.1.2 erfolgen. Ja“ in 2.4.1, muss eine Angabe in 2.5.2. erfolgen. Ja“ in 2.5.2, muss eine Angabe in 2.5.2.1 erfolgen.
 
 ---
 
 |  |  |  |  |
 |---|---|---|---|
 | 2.5.2.2 | Basalzellkarzinom vertikaler Tumordurchme | Angabe in mm  Wertebereich: 0,1-999,9  Format: [n][n]n[,][n]  (n | Optionales Feld    Bei Angabe „ |
-| 2.5.3 | 1 | Ja/Nein | Bedingtes Pflichtfeld.     Bei Angabe „   Nur eine Angabe ist möglich. |
+| 2.5.3 | Spinozelluläres Karzinom | Ja/Nein | Bedingtes Pflichtfeld.     Bei Angabe „   Nur eine Angabe ist möglich. |
 | 2.5.3.1. | Spinozelluläres Karzinom | o   o | Bedingtes Pflichtfeld    Bei Angabe „   Nur eine Angabe ist möglich. |
-| 2.5.3.2 | 1 | o o o o o G4 | Optionales Feld    Bei    Nur eine Angabe ist möglich. |
-| 2.5.4 | Anderer Hautkrebs | Ja/Nein | Bedingtes Pflichtfeld    Ja“ in    Nur eine Angabe ist möglich. |
+| 2.5.3.2 | Spinozelluläres Karzinom - Grading | o o o o o G4 | Optionales Feld    Bei    Nur eine Angabe ist möglich. |
+| 2.5.4 | Anderer Hautkrebs | Ja/Nein | Bedingtes Pflichtfeld    Bei Angabe „   Nur eine Angabe ist möglich. |
 | 2.5.5 | atypischer Nävuszellnävus | Ja/Nein | Bedingtes Pflichtfeld    Bei Angabe „ |
 
-ser (histologisch)  Spinozelluläres Karzinom - Grading  Klassifikation s-  numerisch, [ ] - optional Karzinoma in situ Invasives Karzinom Gx G1 G2 G3 Ja“ unter 2.5.2 kann eine Angabe im Feld 2.5.2.2 erfolgen. 2.4.1, muss eine Angabe in 2.5.3. erfolgen. Ja“ in 2.5.3, muss eine Angabe in 2.5.3.1 erfolgen. Ja“ in 2.5.3 , kann eine Angabe in 2.5.3.2 erfolgen.  2.4.1, muss eine Angabe in 2.5.4 erfolgen. 2.4.1, muss eine 1 Der klinisch schwerwiegendste Befund ist zu dokumentieren
+ser (histologisch) s-  numerisch, [ ] - optional Ja“ unter 2.5.2 kann eine Angabe im Feld 2.5.2.2 erfolgen. Ja“ in 2.4.1, muss eine Angabe in 2.5.3. erfolgen.  Klassifikation Karzinoma in situ Invasives Karzinom Ja“ in 2.5.3, muss eine Angabe in 2.5.3.1 erfolgen. Gx G1 G2 G3 Ja“ in 2.5.3 , kann eine Angabe in 2.5.3.2 erfolgen.  Ja“ in 2.4.1, muss eine Angabe in 2.5.4 erfolgen. Ja“ in 2.4.1, muss eine 1 Der klinisch schwerwiegendste Befund ist zu dokumentieren
 
 
 ---

@@ -48,7 +48,7 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 / Version: 1.3 / 15. Mai 2024
 
-Rechtsform anzugeben] vorhanden] Systempfleger vom Antragsteller abweicht] [ ] [ ] [ ]
+Rechtsform anzugeben] vorhanden] Systempfleger vom Antragsteller abweicht]
 
 ---
 
@@ -81,7 +81,7 @@ vorhanden) des Zertifizierungsgegenstandes an.
 
 / Version: 1.3 / 15. Mai 2024
 
-Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] von Direktabrechnungen gemäß §§ 115b, 116b und 120 Abs. 3 SGB V verwendet. von selektivvertraglichen Abrechnungen verwendet.
+Antragsstellers Stellen der Prüfnummer, falls vorhanden] von Direktabrechnungen gemäß §§ 115b, 116b und 120 Abs. 3 SGB V verwendet. von selektivvertraglichen Abrechnungen verwendet.
 
 ---
 
@@ -127,7 +127,7 @@ Folgende optionale Funktionen sind gem. Anforderungskatalog
 
 Kodierunterstützung realisiert.
 
-[ ] [ ] [ ] [ ] [ ] [ ] Anforderungskataloges Kodierunterstützung sind realisiert. des Einsatzbereiches des [ ] [ ] [ ] LT. ANFORDERUNGSKATALOG
+Anforderungskataloges Kodierunterstützung sind realisiert. des Einsatzbereiches des LT. ANFORDERUNGSKATALOG
 
 ---
 

@@ -98,67 +98,65 @@ NEXUS / CHILI GmbH 1
 
 24
 
-**Installationen 1.Q.2025**
+**Installationen 1.Q.2025 Differenz**
 
 208
 
+8
+
 186
+
+-1
 
 80
 
-78
-
-58
-
-46
-
-44
-
-42
-
-44
-
-37
-
-30
-
-31
-
-24
-
-28
-
-25
-
-**Differenz**
-
-8
-
--1
-
 1
+
+78
 
 2
 
+58
+
 0
+
+46
 
 1
 
--1
+44
 
 -1
+
+42
+
+-1
+
+44
 
 -4
 
+37
+
 -1
 
+30
+
 -2
+
+31
 
 -3
 
+24
+
 3
 
+28
+
 -2
+
+25
 
 -1
 
@@ -201,26 +199,24 @@ Abasoft EDV-Programme GmbH 2
 
 15
 
-**Installationen 1.Q.2025**
+**Installationen 1.Q.2025 Differenz**
 
 24
 
-17
-
-17
-
-16
-
-16
-
-**Differenz**
-
 -2
 
-0
+17
 
 0
 
+17
+
 0
+
+16
+
+0
+
+16
 
 -1

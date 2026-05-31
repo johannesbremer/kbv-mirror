@@ -34,195 +34,145 @@
 
 **Anbieter**
 
-CompuGroup Medical Deutschland AG
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-Zollsoft GmbH
-
-CompuGroup Medical Deutschland AG
-
-CompuGroup Medical Deutschland AG
-
-INDAMED EDV-Entwicklung und Vertrieb GmbH
-
-medatixx GmbH & Co. KG
-
-medatixx GmbH & Co. KG
-
-S 3 Praxiscomputer GmbH / Maximilian Flender
-
-medatixx GmbH & Co. KG
-
-T 2med GmbH & Co. KG
-
-Frey ADV GmbH
-
-CompuGroup Medical Deutschland AG
-
-medatixx GmbH & Co. KG 1
-
-**Installationen 2.Q.2025**
-
-393
-
-253
-
-242
-
-156
-
-127
-
-122
-
-104
-
-98
-
-85
-
-82
-
-76
-
-72
-
-56
-
-**Installationen 1.Q.2025**
+CompuGroup Medical Deutschland AG 393
 
 398
 
-245
-
-247
-
-158
-
-126
-
-123
-
-102
-
-100
-
-88
-
-80
-
-77
-
-73
-
-58
-
-**Differenz**
-
 -5
+
+Zollsoft GmbH 253
+
+245
 
 8
 
+CompuGroup Medical Deutschland AG 242
+
+247
+
 -5
+
+CompuGroup Medical Deutschland AG 156
+
+158
+
+-2
+
+INDAMED EDV-Entwicklung und Vertrieb GmbH 127 126
+
+1
+
+medatixx GmbH & Co. KG 122
+
+123
+
+-1
+
+medatixx GmbH & Co. KG 104
+
+102
+
+2
+
+S 3 Praxiscomputer GmbH / Maximilian Flender 98 100
+
+-2
+
+medatixx GmbH & Co. KG 85
+
+88
+
+-3
+
+T 2med GmbH & Co. KG 82
+
+80
+
+2
+
+Frey ADV GmbH 76
+
+77
+
+-1
+
+CompuGroup Medical Deutschland AG 72
+
+73
+
+-1
+
+medatixx GmbH & Co. KG 56
+
+58
 
 -2
 
 1
-
--1
-
-2
-
--2
-
--3
-
-2
-
--1
-
--1
-
--2
 
 
 ---
 
 **Id Praxissoftware**
 
-254 **ORBIS®**
-
-015 **MEDYS**
-
-343 **SAP Ambulatory Care Management**
-
-266 **x.comfort**
-
-086 **DURIA**
-
-083 **PegaMed**
-
-030 **Praxis-Programm**
-
 **Anbieter**
 
-Dedalus HealthCare GmbH
+**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-MEDYS GmbH
+254 **ORBIS®**
 
-SAP SE
-
-medatixx GmbH & Co. KG
-
-Duria eG
-
-PEGA Elektronik GmbH
-
-MediSoftware Computersysteme für Ärzte 2
-
-**Installationen 2.Q.2025**
-
-41
-
-37
-
-35
-
-34
-
-31
-
-25
-
-24
-
-**Installationen 1.Q.2025**
+Dedalus HealthCare GmbH 41
 
 42
 
+-1
+
+015 **MEDYS**
+
+MEDYS GmbH 37
+
 37
+
+0
+
+343 **SAP Ambulatory Care Management** SAP SE 35
 
 32
 
-37
-
-31
-
-25
-
-24
-
-**Differenz**
-
--1
-
-0
-
 3
+
+266 **x.comfort**
+
+medatixx GmbH & Co. KG 34
+
+37
 
 -3
 
-0
+086 **DURIA**
+
+Duria eG 31
+
+31
 
 0
 
+083 **PegaMed**
+
+PEGA Elektronik GmbH 25
+
+25
+
 0
+
+030 **Praxis-Programm**
+
+MediSoftware Computersysteme für Ärzte 24
+
+24
+
+0
+
+2
