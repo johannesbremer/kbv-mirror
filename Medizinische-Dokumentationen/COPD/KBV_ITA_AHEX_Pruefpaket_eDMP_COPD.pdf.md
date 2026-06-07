@@ -19,101 +19,36 @@ DEZERNAT DIGITALISIERUNG UND IT IT IN DER ARZTPRAXIS 12. FEBRUAR 2024  VERSION: 
 
 ---
 
-## INHALT
+INHALT
 
-**ALLGEMEINES**
+| **ALLGEMEINES** | **6** |
+|---|---|
+| 1.1 Rechtsgrundlage | 6 |
+| 1.2 Zertifizierungsablauf | 6 |
+| 1.3 Zertifizierungsportal | 6 |
+| 1.4 Zertifizierungsdokumente | 7 |
+| 1.5 Prüfunterlagen | 7 |
+| 1.6 Prüfvorgaben | 9 |
+| 1.6.1 Prüfstammdaten | 9 |
+| 1.6.2 Versichertendaten | 9 |
+| 1.6.3 Praxisdaten/ Arztstempel | 9 |
+| 1.6.4 Krankenhausdaten | 9 |
+| 1.6.5 Prüfnummer | 10 |
+| 1.6.6 Stammdatei der Datenannahmestellen | (SDDA) 10 |
+| 1.6.7 Auflistung der Prüffälle | 10 |
 
-**6**
-
-1.1 Rechtsgrundlage
-
-6
-
-1.2 Zertifizierungsablauf
-
-6
-
-1.3 Zertifizierungsportal
-
-6
-
-1.4 Zertifizierungsdokumente
-
-7
-
-1.5 Prüfunterlagen
-
-7
-
-1.6 Prüfvorgaben
-
-9
-
-1.6.1 Prüfstammdaten
-
-9
-
-1.6.2 Versichertendaten
-
-9
-
-1.6.3 Praxisdaten/ Arztstempel
-
-9
-
-1.6.4 Krankenhausdaten
-
-9
-
-1.6.5 Prüfnummer
-
-10
-
-1.6.6 Stammdatei der Datenannahmestellen (SDDA) 10
-
-1.6.7 Auflistung der Prüffälle 10
-
-**PRÜFFÄLLE**
-
-**11**
-
-2.1 Prüffälle Dokumentation
-
-11
-
-2.1.1 Prüffall 8511
-
-11
-
-2.1.2 Prüffall 8512
-
-14
-
-2.1.3 Prüffall 6520
-
-17
-
-2.2 Prüffall Systemreaktion
-
-22
-
-2.2.1 Prüffall 8514
-
-22
-
-2.2.2 Prüffall 8515
-
-25
-
-2.3 Weitere Prüffälle zum Anforderungskatalog 26
-
-2.3.1 Prüffall 8530
-
-26
-
-2.3.2 Prüffall 8540
-
-27
+| **PRÜFFÄLLE** |  |  | **11** |
+|---|---|---|---|
+| 2.1 | Prüffälle | Dokumentation | 11 |
+| 2.1.1 | Prüffall | 8511 | 11 |
+| 2.1.2 | Prüffall | 8512 | 14 |
+| 2.1.3 | Prüffall | 6520 | 17 |
+| 2.2 Prüffall |  | Systemreaktion | 22 |
+| 2.2.1 | Prüffall | 8514 | 22 |
+| 2.2.2 | Prüffall | 8515 | 25 |
+| 2.3 Weitere |  | Prüffälle zum Anforderungskatalog | 26 |
+| 2.3.1 | Prüffall | 8530 | 26 |
+| 2.3.2 | Prüffall | 8540 | 27 |
 
 **TESTDATENVALIDIERUNG**
 
@@ -134,7 +69,7 @@ DEZERNAT DIGITALISIERUNG UND IT IT IN DER ARZTPRAXIS 12. FEBRUAR 2024  VERSION: 
 
 Seite 2 von 34 / KBV / Pruefpaket eDMP-COPD / Version: 1.26 / 12. Februar 2024
 
-Versichertendaten 1 Versichertendaten 2
+Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentation Prüffall 8511 Prüffall 8512 Prüffall 6520 Prüffall Systemreaktion Prüffall 8514 Prüffall 8515 Weitere Prüffälle zum Anforderungskatalog Prüffall 8530 Prüffall 8540 Versichertendaten 1 Versichertendaten 2
 
 ---
 

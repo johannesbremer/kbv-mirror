@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**30. MAI 2026**
+**07. JUNI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -30,7 +30,7 @@
 |---|---|---|---|---|
 |  | Y/169/2409/36/031 | 31.08.2027 | nicht umgesetzt |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 30. Mai 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 07. Juni 2026
 
 Y/169/2407/36/395
 
@@ -130,7 +130,7 @@ Y/169/2408/36/706
 
 Y/169/2408/36/263
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 30. Mai 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 07. Juni 2026
 
 Linux
 
@@ -312,17 +312,17 @@ i/med Billing Dorner GmbH & Co. KG Neuenburger Straße 4 79379 Müllheim Interne
 |---|---|---|---|---|
 |  | Y/169/2407/36/561 | 30.06.2027 | nicht umgesetzt |  |
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 30. Mai 2026
+Y/169/2408/36/602
 
-Y/169/2408/36/602 31.07.2027
+Y/169/2401/36/086
 
-Y/169/2401/36/086 31.12.2026
-
-umgesetzt
+Seite 11 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 07. Juni 2026 31.07.2027
 
 umgesetzt
 
-Linux
+Linux 31.12.2026
+
+umgesetzt
 
 Xplore RIS EDL Software Deutschland GmbH Sprockhövelerstraße 4 45527 Hattingen Internet: https://www.edl.gmbh/ EISHISTO EI Systems, Andreas Eicker Keltenring 210 79199 Kirchzarten Windows WindowsWindows
 
@@ -350,7 +350,7 @@ Y/169/2507/36/769
 
 Y/169/2407/36/295
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 30. Mai 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 07. Juni 2026
 
 iOS/Android
 
@@ -382,19 +382,15 @@ PsychoDat ergosoft GmbH Bahnhofstraße 11 c 67159 Friedelsheim Internet: www.erg
 |---|---|---|---|---|
 |  | Y/169/2505/36/478 | 30.04.2028 | nicht umgesetzt |  |
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 30. Mai 2026
+Y/169/2408/36/421
 
-Y/169/2408/36/421 31.07.2027
+Y/169/2407/36/034
 
-Y/169/2407/36/034 30.06.2027
+Seite 13 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 07. Juni 2026
 
-nicht umgesetzt
+31.07.2027 nicht umgesetzt Windows
 
-nicht umgesetzt
-
-Windows
-
-FIDUS FIDUS Software Entwicklungs-GmbH Frankfurter Landstr. 117 64291 Darmstadt Internet: www.fidus.de PathoFlow Florian Kaiser Klosteranger 15 83629 Weyarn Windows WindowsWindows
+FIDUS FIDUS Software Entwicklungs-GmbH Frankfurter Landstr. 117 64291 Darmstadt Internet: www.fidus.de PathoFlow Florian Kaiser Klosteranger 15 83629 Weyarn Windows Windows30.06.2027 nicht umgesetzt Windows
 
 
 ---
@@ -602,7 +598,7 @@ SYLAB Labor Dr. von Froreich GmbH Großmoorbogen 25 21079 Hamburg Internet: www.
 |---|---|---|---|---|
 |  | Y/169/2408/36/216 | 31.07.2027 | umgesetzt |  |
 
-Seite 20 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 30. Mai 2026
+Seite 20 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 07. Juni 2026
 
 Y/169/2409/36/375
 
@@ -638,17 +634,17 @@ EL - Elaphe Longissima medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Inte
 |---|---|---|---|---|
 |  | Y/169/2408/36/256 | 31.07.2027 | nicht umgesetzt |  |
 
-Seite 21 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 30. Mai 2026
+Y/169/2406/36/243
 
-Y/169/2406/36/243 31.05.2027
+Y/169/2405/36/266
 
-Y/169/2405/36/266 30.04.2027
-
-umgesetzt
+Seite 21 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 07. Juni 2026 31.05.2027
 
 umgesetzt
 
-Windows
+Windows 30.04.2027
+
+umgesetzt
 
 medatixx medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de Softwarevariante(n): - psyx medavis RIS medavis GmbH Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.de Windows WindowsWindows
 
@@ -720,7 +716,7 @@ Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPH
 |---|---|---|---|---|
 |  | Y/169/2312/36/290 | 30.11.2026 | nicht umgesetzt |  |
 
-Seite 24 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 30. Mai 2026
+Seite 24 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 07. Juni 2026
 
 Y/169/2312/37/251 31.12.2026
 
@@ -980,7 +976,7 @@ Y/169/2410/36/498
 
 Y/169/2409/36/313
 
-Seite 32 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 30. Mai 2026
+Seite 32 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 07. Juni 2026
 
 iOS/Android Linux
 
@@ -999,7 +995,7 @@ UNISOLO®-POESY UNISOLO® GmbH Gaußstr. 7 38106 Braunschweig Internet: www.unis
 | 07745 | Jena |  |
 |  | Internet: | www.zollsoft.de |
 
-Seite 33 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 30. Mai 2026
+Seite 33 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 07. Juni 2026
 
 **Prüfnummer**
 

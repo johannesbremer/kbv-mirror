@@ -28,17 +28,12 @@ laufschemas forderungen:  P1-100 P1-110 P1-130 P3-100 P3-200 gaben zur Datenerfa
 
 ---
 
-## INHALT
+INHALT
 
-**1** **EINLEITUNG**
-
-**5**
-
-1.1 Zielbestimmung
-
-7
-
-1.2 Pflichtfunktionen und optionale Funktionen der Software 7
+| **1** | **EINLEITUNG** | **5** |
+|---|---|---|
+| 1.1 | Zielbestimmung | 7 |
+| 1.2 | Pflichtfunktionen und optionale Funktionen der | Software 7 |
 
 **2** **ERFASSUNG DER BEHANDLUNGSBEZOGENEN DATEN PRO PATIENTEN**
 
@@ -51,6 +46,8 @@ laufschemas forderungen:  P1-100 P1-110 P1-130 P3-100 P3-200 gaben zur Datenerfa
 **4** **BERECHNUNGSGRUNDLAGEN**
 
 **30**
+
+Pflichtfunktionen und optionale Funktionen der Software
 
 
 ---

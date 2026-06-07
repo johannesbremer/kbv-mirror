@@ -1,18 +1,18 @@
-# HANDLUNGSEMPFEHLUNGEN FÜR  HERSTELLER VON BMP-SOFTWARE
-
-## [KBV_ITA_AHEX_BMP_FAQS_PVS]
-
 **KASSENÄRZTLICHE**  **BUNDESVEREINIGUNG**
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
 **IT IN DER ARZTPRAXIS**
 
-**17. APRIL 2026**
+**2. JUNI 2026**
 
-**VERSION: 1.43**
+**VERSION: 1.44**
 
 **DOKUMENTENSTATUS: IN KRAFT**
+
+# HANDLUNGSEMPFEHLUNGEN FÜR  HERSTELLER VON BMP-SOFTWARE
+
+## [KBV_ITA_AHEX_BMP_FAQS_PVS]
 
 
 ---
@@ -35,19 +35,19 @@
 
 5
 
-2.2 Anwendungsfälle (Erstellung, Aktualisierung) 9
+2.2 Anwendungsfälle (Erstellung, Aktualisierung) 10
 
 **3** **ANHANG**
 
-**15**
+**16**
 
 3.1 Glossar
 
-15
+16
 
 **4** **REFERENZIERTE DOKUMENTE**
 
-**15**
+**16**
 
 
 ---
@@ -56,11 +56,12 @@ DOKUMENTENHISTORIE
 
 | **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 1.43 | 17.04.2026 | KBV | Fragen und Antworten zum |  | 14 |
-| 1.42 | 26.03.2025 | KBV | Aufnahme der Frage „17. |  | 13 |
-| 1.41 | 05.03.2025 | KBV | Streichung der Frage „   Aufnahme der Frage „ |  | 13 |
+| 1.44 | 02.06.2026 | KBV | Frage und Antwort zur    Aufnahme einer neuen Frage |  | 8      15 |
+| 1.43 | 17.04.2026 | KBV | Fragen und Antworten zum |  | 15 |
+| 1.42 | 26.03.2025 | KBV | Aufnahme der Frage „17. |  | 14 |
+| 1.41 | 05.03.2025 | KBV | Streichung der Frage „   Aufnahme der Frage „ |  | 14 |
 
-Thema „ wöchentliche Dosierung “ ergänzt Angabe der Darreichungsform im Barcode“ 16. Aktualisierung der BMP- Spezifikation in der Version 2.7 16. Verwendung der Daten aus der Referenzdatenbank des BfArM
+Bedruckung der Parametertexte ergänzt zum Thema „ wöchentliche Dosierung Thema „ wöchentliche Dosierung “ ergänzt Angabe der Darreichungsform im Barcode“ 16. Aktualisierung der BMP- Spezifikation in der Version 2.7 16. Verwendung der Daten aus der Referenzdatenbank des BfArM
 
 
 ---
@@ -69,7 +70,9 @@ Thema „ wöchentliche Dosierung “ ergänzt Angabe der Darreichungsform im Ba
 
 ## 1.1 ZIELBESTIMMUNG
 
-Diese Liste an „Frequently Asked Questions“ (FAQs) ist für die Hersteller von Software bestimmt, die eine  Lösung des bundeseinheitlichen Medikationsplans (BMP) umsetzen. Grundlage der Umsetzung ist die  technische Spezifikation der Vertragspartner der Vereinbarung eines bundeseinheitlichen Medikationsplans
+Diese Liste an „Frequently Asked Questions“ (FAQs) ist für die Hersteller von Software bestimmt, die eine
+
+Lösung des bundeseinheitlichen Medikationsplans (BMP) umsetzen. Grundlage der Umsetzung ist die  technische Spezifikation der Vertragspartner der Vereinbarung eines bundeseinheitlichen Medikationsplans
 
 BMP (Anlage 3 zur Vereinbarung gemäß § 31a SGB V) [EXT_ITA_VGEX_BMP_Anlage3], im Folgenden kurz
 
@@ -139,11 +142,9 @@ Medikationsplan (ein bis mehrere Seiten) ausdrucken können. Medikationspläne k
 
 können.
 
-Wenn entweder die Anzahl der Medikationseinträge inkl. der Zwischenüberschriften mehr als 15 beträgt  oder die Anzahl der Zeichen im Barcode mehr als 1.400 beträgt, müssen die überzähligen Inhalte auf eine  weitere Seite verlagert werden. Zu beachten ist dabei, dass bei einer doppelt hohen Medikationszeile nach
+Wenn entweder die Anzahl der Medikationseinträge inkl. der Zwischenüberschriften mehr als 15 beträgt  oder die Anzahl der Zeichen im Barcode mehr als 1.400 beträgt, müssen die überzähligen Inhalte auf eine  weitere Seite verlagert werden. Zu beachten ist dabei, dass bei einer doppelt hohen Medikationszeile nach  Kapitel 6.2.8 die Gesamtzahl der ausgedruckten Medikationszeilen zu reduzieren ist. Außerdem ist darauf
 
-Kapitel 6.2.8 die Gesamtzahl der ausgedruckten Medikationszeilen zu reduzieren ist. Außerdem ist darauf  zu achten, dass gebundene Zusatzzeilen immer auf der gleichen Seite gedruckt werden müssen, wie der
-
-dazugehörige Medikationseintrag. Dadurch kann es vorkommen, dass am Ende der Zeile eine Leerzeile  entsteht, da der gesamte Eintrag auf die nächste Seite gedruckt wird.
+zu achten, dass gebundene Zusatzzeilen immer auf der gleichen Seite gedruckt werden müssen, wie der  dazugehörige Medikationseintrag. Dadurch kann es vorkommen, dass am Ende der Zeile eine Leerzeile  entsteht, da der gesamte Eintrag auf die nächste Seite gedruckt wird.
 
 Auf jeder Seite des Medikationsplans sind Header (z. B. Patientendaten) und Fußzeile (z. B.  Versionsnummer) redundant im Carrier abgelegt.
 
@@ -251,11 +252,13 @@ In diesem Fall verbleibt im Carrier weiterhin nur die PZN. Im Ausdruck werden di
 
 sind im Carrier die durch das Schema vorgegebenen Regeln (z.B. die Anzahl der Nachkommastellen) zu  beachten. Diese sind als Maximalwert zu verstehen.
 
-Im **Carrier** müssen die Werte im **englischen Format (Dezimalpunkt)**
+Im **Carrier** müssen die Werte im **englischen Format (Dezimalpunkt)** abgelegt werden.
 
 Im **Ausdruck** des Medikationsplans ist der vorgegebene Wert exakt aus dem Carrier zu übernehmen, d.h.
 
-die Anzahl der Nachkommastellen und die Inhalte bleiben identisch. Eine Veränderung dieser Werte ist  ausschließlich dem Anwender vorbehalten. Die Darstellung auf dem A **Zahlenformat (Dezimalkomma)**
+die Anzahl der Nachkommastellen und die Inhalte bleiben identisch. Eine Veränderung dieser Werte ist  ausschließlich dem Anwender vorbehalten. Die Darstellung auf dem Ausdruck erfolgt jedoch im **deutschen**
+
+**Zahlenformat (Dezimalkomma)**
 
 Die Darstellung für den Anwender in seiner Software ist nicht explizit vorgegeben, es wird aber empfohlen  die deutsche Zahlenschreibweise (Dezimalkomma) zu verwenden.
 
@@ -267,17 +270,58 @@ Die Darstellung für den Anwender in seiner Software ist nicht explizit vorgegeb
 
 **ANTWORT :** Sofern ein Text auch in reduzierter Schriftgröße (10 pt) nicht in das vorgesehene Feld passt, so
 
-sollte analog der Vorgaben in Kapitel 6.2.7 der Spezifikation verfahren werden. D.h. sofern ein  Zeilenumbruch möglich ist, so ist dieser umzusetzen. Sofern ke eine Kürzung des Textes mittels „…“ nach den entsprechenden Vorgaben.
+sollte analog der Vorgaben in Kapitel 6.2.7 der Spezifikation verfahren werden. D.h. sofern ein  Zeilenumbruch möglich ist, so ist dieser umzusetzen. Sofern kein Zeilenumbruch mehr möglich ist, erfolgt
+
+eine Kürzung des Textes mittels „…“ nach den entsprechenden Vorgaben.
 
 Diese Vorgabe gilt nicht für Einträge zur Dosierung. Diese Felder müssen immer vollständig ausgegeben  werden!
 
 Dieses Vorgehen kann unabhängig davon, ob die maximal zulässige Feldlänge für den Ausdruck bereits  erreicht ist, verwendet werden.
 
-abgelegt werden.
+- **12.** **Bedruckung der Parametertexte**
 
-usdruck erfolgt jedoch im **deutschen**
+**FRAGE** *Aktuell sind die Vorgaben zur Bedruckung der Parametertexte in den Vorgaben zum BMP*
 
-in Zeilenumbruch mehr möglich ist, erfolgt
+*uneinheitlich und widersprechen sich zum Teil. Sind wie im Administrationsblock definiert vier oder nur drei*
+
+*Zeilen der Parametertexte zulässig?*
+
+**ANTWORT :**
+
+Im BMP 2.8 sind gemäß der Regelung des Kapitels **6.2.2 Administrationsblock** (Seite 30) vier Zeilen zulässig.
+
+Siehe hierzu den Ausschnitt:
+
+Die Regelungen übersteuern die folgenden fehlerhaften Festlegungen: - 1. Kapitel 6.2.2.
+
+- a) Fehlerhafte Definition:
+
+-
+
+
+---
+
+- b) Korrektur der Definition (grün markiert) lautet: -
+
+- 2.  „Tabelle 2.2 Beschreibung der Felder für den Ausdruck“ zu Feld 2.12.
+
+- a) Fehlerhafte Definition:
+
+-
+
+- b) Korrektur der Definition (grün markiert) lautet: -
+
+- 3. Tabelle 3: Beschreibung, wie die Datenfelder im Carriersegment zu befüllen sind. Datenfelder, die im  Carriersegment nicht verwendet werden, sind nicht gelistet.
+
+- a) Fehlerhafte Definition:
+
+-
+
+- b) Korrektur der Definition (grün markiert) lautet: -
+
+-
+
+Die fehlerhaften Passagen werden in der nächsten Version der Anlage korrigiert.
 
 
 ---
@@ -288,7 +332,7 @@ in Zeilenumbruch mehr möglich ist, erfolgt
 
 **ANTWORT :** Ja, folgende Szenarien müssen durch eine aktuelle Datenbank unterstützt werden:
 
-- Zu denen, von einem eingelesenen Medikationsplan enthaltenen Pharmazentralnummern  (PZN), müssen sich für die Ansicht durch den Anwender und im zu erzeugenden Ausdruck die  Datenfelder Wirkstoff, Handelsname, Wirkstärke und Darreichungsform aus der  Arzneimitteldatenbank ableiten lassen.
+- Zu dene, von einem eingelesenen Medikationsplan enthaltenen Pharmazentralnummern  (PZN), müssen sich für die Ansicht durch den Anwender und im zu erzeugenden Ausdruck die  Datenfelder Wirkstoff, Handelsname, Wirkstärke und Darreichungsform aus der  Arzneimitteldatenbank ableiten lassen.
 
 - Arzneimittel müssen sich in der Arzneimitteldatenbank recherchieren lassen.
 
@@ -312,9 +356,7 @@ Fremd- und Selbstmedikation (Medikationseinträge) eines Patienten müssen in de
 
 BMP nutzbar sein. Die Software muss die unmittelbare Erstellung eines BMPs aus den vorhandenen Daten  und weiterer Daten (Patient, Individualparameter) ggf. unter Einbeziehung von Aktualisierungen  ermöglichen.
 
-Die Software muss eine Möglichkeit vorsehen, dokumentierte Medikationseinträge als aktuell verordnet
-
-bzw. vom Patienten angewendet zu kennzeichnen. Nur die so gekennzeichneten Einträge müssen zur  Übernahme auf den BMP vorgeschlagen werden.
+Die Software muss eine Möglichkeit vorsehen, dokumentierte Medikationseinträge als aktuell verordnet  bzw. vom Patienten angewendet zu kennzeichnen. Nur die so gekennzeichneten Einträge müssen zur  Übernahme auf den BMP vorgeschlagen werden.
 
 Die Software muss pro Medikationseintrag ein Kennzeichen verwalten, welches angibt, ob dieser Eintrag  auszudrucken (auf dem BMP aufzubringen) ist.
 
@@ -445,7 +487,7 @@ mehreren Seiten) über den 2D-Barcode einlesen können. Dabei sollte es unerhebl
 
 MP-Modul und im PVS bereitgestellt werden. Ggf. müssen für einen Patienten auch mehrere Pläne  eingelesen werden können (siehe auch Nr. 12).
 
-- **10.** **Vergleich eines eingelesen mit einem vorhandenen Plan**
+- **10.** ** Vergleich eines eingelesen mit einem vorhandenen Plan**
 
 **FRAGE:** *Was muss mit einem eingelesenen Plan passieren, wenn bereits ein Plan vorhanden ist?*
 
@@ -453,7 +495,7 @@ MP-Modul und im PVS bereitgestellt werden. Ggf. müssen für einen Patienten auc
 
 vergleichen. Unterschiede müssen optisch dargestellt werden und für diese muss es die Möglichkeit geben,  diese abzulehnen, zu übernehmen oder abzuändern.
 
-- **11.** **Zusammenführen von Inhalten unterschiedlicher Pläne**
+- **11.** ** Zusammenführen von Inhalten unterschiedlicher Pläne**
 
 **FRAGE:** *Wie führt man unterschiedliche Pläne / Daten aus unterschiedlichen Quellen zusammen?*
 
@@ -469,7 +511,7 @@ Eingaben des Anwenders (Übernahme / Verwerfen / Ändern) entsteht ein zusammeng
 
 In vergleichbarer Weise kann bei der Zusammenführung von Medikationsplandaten mit Daten aus weiteren  Quellen (z.B. eGK, eArztbrief, Abrechnungsdaten der Krankenkassen) verfahren werden.
 
-- **12.** **Versionskompatibilität**
+- **12.** ** Versionskompatibilität**
 
 **FRAGE:** *Welche Versionen des BMP müssen unterstützt werden?*
 
@@ -477,7 +519,7 @@ In vergleichbarer Weise kann bei der Zusammenführung von Medikationsplandaten m
 
 früheren Patch-Version basieren, in die aktuelle Version überführen können.
 
-- **13.** **Zusatzfunktionen**
+- **13.** ** Zusatzfunktionen**
 
 **FRAGE:** *Darf man zum BMP Zusatzfunktionen anbieten?*
 
@@ -488,7 +530,7 @@ Reichweitenprüfung, Interaktionsprüfungen oder sonstige AMTS-Prüffunktionen.
 
 ---
 
-- **Angabe einer Dosiereinheit**
+- ** Angabe einer Dosiereinheit**
 
 **FRAGE:*** Ist die Angabe einer Dosiereinheit zu einem Medikationseintrag zwingend notwendig?*
 
@@ -502,7 +544,7 @@ Eingabe von „Stück“ im Falle von festen, oralen Darreichungsformen zu verme
 
 Messlöffel oder Tropfen dosiert werden. Eine patientenspezifische Auswahl ist daher notwendig, damit es  nicht zu Verunsicherungen kommt.
 
-- **15.** **Umgang mit dem Zeichen Tilde „~“**
+- **15.**  **Umgang mit dem Zeichen Tilde „~“**
 
 **FRAGE:** *Wie ist mit dem Zeichen Tilde „~“ korrekt umzugehen? Wo muss diese im Ausdruck erscheinen und*
 
@@ -518,13 +560,13 @@ Zeilenumbruch genutzt wird, sind in Kapitel 7.3.5 der Spezifikation aufgeführt.
 
 Felder Parameter_Freitext (2.20), Freitextzeile (5.2), Rezepturzeile (5.3), gebundene Zusatzzeile (4.9 und  5.4), Hinweis (4.7) oder Behandlungsgrund (4.8).
 
-- **16.** **Verwendung der Daten aus der Referenzdatenbank des BfArM**
+- **16.** ** Verwendung der Daten aus der Referenzdatenbank des BfArM**
 
-FRAGE:*** Erste Analysen der Daten der Referenzdatenbank haben gezeigt, dass in der Referenzdatenbank***
+**FRAGE*** Erste Analysen der Daten der Referenzdatenbank haben gezeigt, dass in der Referenzdatenbank des*
 
-***des BfArMs nicht zu allen PZNs Daten enthalten sind. Welche Informationen sollen in dieser***
+*BfArMs nicht zu allen PZNs Daten enthalten sind. Welche Informationen sollen in dieser entsprechenden*
 
-***entsprechenden Situation in dem BMP gedruckt werden?***
+*Situation in dem BMP gedruckt werden?*
 
 **ANTWORT :** In der entsprechenden Situation müssen die Softwaresysteme auf die vorliegenden
 
@@ -536,11 +578,11 @@ Hinweis:
 
 Die KBV hat diesen Sachverhalt dem BfArM gemeldet, damit mögliche Lücken vom BfArM geschlossen  werden können. Dennoch empfehlen wir allen Softwareherstellern entsprechende Lücken dem BfArM  direkt unter [Referenzdaten@bfarm.de](mailto:Referenzdaten@bfarm.de) so detailliert wie möglich zu melden.
 
-- **17.** **Angabe der Darreichungsform im Barcode**
+- **17.** ** Angabe der Darreichungsform im Barcode**
 
-FRAGE:*** In welchem Feld soll die Darreichungsform aus der Referenzdatenbank des BfArMs im Barcode des***
+**FRAGE:*** In welchem Feld soll die Darreichungsform aus der Referenzdatenbank des BfArMs im Barcode des*
 
-***BMP 2.7 übertragen werden?***
+*BMP 2.7 übertragen werden?*
 
 **ANTWORT :** Die Darreichungsform aus der Referenzdaten des BfArMs (Merkmal 302 gemäß AMV
 
@@ -561,17 +603,17 @@ nächsten Anpassung des BMPs.
 
 ANTWORT : Nein, die Zwischenüberschrift „Wöchentliche Anwendung“ darf nur einmal auf dem BMP
 
-vorkommen, und es müssen alle Medikationseinträge mit einer strukturiert angegebenen wöchentlichen  Dosierung (Vorhandensein des Elementes MP.S.M.wo) unter der Zwischenüberschrift geführt werden.
+vorkommen, und es müssen alle Medikationseinträge mit einer strukturiert angegebenen wöchentlichen
+
+Dosierung (Vorhandensein des Elementes MP.S.M.wo) unter der Zwischenüberschrift geführt werden.
 
 **FRAGE:** Muss die Zwischenüberschrift „Wöchentliche Anwendung“ automatisch gesetzt werden, sobald ein
 
-Medikationseintrag mit wöchentlicher Dosierung vorhanden ist
+Medikationseintrag mit wöchentlicher Dosierung vorhanden ist?
 
 ANTWORT : Ja, die Zwischenüberschrift muss automatisch von der Software gesetzt werden, sobald ein
 
-Medikationseintrag mit wöchentlicher Dosierung (Vorhandensein des Elementes MP.S.M.wo) im BMP
-
-vorhanden ist.
+Medikationseintrag mit wöchentlicher Dosierung (Vorhandensein des Elementes MP.S.M.wo) im BMP  vorhanden ist.
 
 **FRAGE:** Darf ein Anwender die Zwischenüberschrift „Wöchentliche Anwendung“ manuell setzen?
 
@@ -581,23 +623,39 @@ auch Medikationseinträge mit der freitextlichen Information einer wöchentliche
 
 **FRAGE:** Dürfen unter der Zwischenüberschrift „Wöchentliche Anwendung“ Medikationseinträge mit
 
-freitextlicher Dosierung enthalten sein
+freitextlicher Dosierung enthalten sein?
 
 ANTWORT : Grundsätzlich sollte eine wöchentliche Dosierung strukturiert unter Verwendung des Elements
 
-MP.S.M.wo abgebildet werden. Da jedoch nicht ausgeschlossen werden kann, dass in einem  Medikationsplan auch Medikationseinträge mit der freitextlichen Information einer wöchentlichen  Dosierung vorliegen, dürfen diese manuell der Zwischenüberschrift zugeordnet werden.
+MP.S.M.wo abgebildet werden. Da jedoch nicht ausgeschlossen werden kann, dass in einem  Medikationsplan auch Medikationseinträge mit der freitextlichen Information einer wöchentlichen
+
+Dosierung vorliegen, dürfen diese manuell der Zwischenüberschrift zugeordnet werden.
 
 **FRAGE:** Müssen Softwaresysteme Funktionen implementieren, welche die freitextliche Anlage einer
 
-Zwischenüberschrift „Wöchentliche Anwendung“ unterbindet
+Zwischenüberschrift „Wöchentliche Anwendung“ unterbindet?
 
 ANTWORT : Nein, gemäß den geltenden Vorgaben besteht für Softwarehersteller keine Pflicht eine
 
 entsprechende Anlage softwareseitig zu unterbinden.
 
-Allerdings spricht auch nichts dagegen die Anlage einer gleich lautenden Zwischenüberschrift zu  unterbinden. Die KBV wird diese grundsätzlich als sinnvoll erachten.
+Allerdings spricht auch nichts dagegen die Anlage einer gleich lautenden Zwischenüberschrift zu  unterbinden. Die KBV wird dies grundsätzlich als sinnvoll erachten.
 
 Es gilt zu beachten, dass unter einer freitextlichen Zwischenüberschrift keine Einträge mit wöchentlicher  Dosierung (Vorhandensein des Elementes MP.S.M.wo) gelistet werden würden.
+
+**FRAGE:** *Ist es erlaubt, bei komplexen Dosierungen (z. B. mehrmals wöchentlich, nach Uhrzeiten etc.), die über*
+
+*Freitext abgebildet werden müssen, im BMP analog zur einmal wöchentlichen Anwendung zu verfahren?*  *Konkret: Können diese ebenfalls über eine gebundene Zusatzzeile dargestellt werden, während im Feld*
+
+*„Dosierung“, wie bei der einmal wöchentlichen Anwendung, „siehe nächste Zeile“ steht?*
+
+*So würden wir Konflikte mit der Zeichenbegrenzung von 20 Zeichen vermeiden und gleichzeitig eine*  *einheitliche Darstellung für die Anwender sicherstellen.*
+
+ANTWORT Aus Sicht der KBV kann das vorgeschlagene Vorgehen im Ausdruck umgesetzt werden, auch
+
+wenn dies in der Form nicht in der Anlage selber beschrieben ist. Wichtig bei der Umsetzung ist, dass die  freitextliche Dosierung, welche in der gebunden Zusatzzeile enthalten ist, im Datenfeld MP.S.M.t hinterlegt
+
+wird.
 
 
 ---

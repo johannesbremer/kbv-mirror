@@ -16,49 +16,20 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 ---
 
-## INHALT
+INHALT
 
-**1** **ALLGEMEINES**
-
-**5**
-
-1.1 Rechtsgrundlage
-
-5
-
-1.2 Zertifizierungsablauf
-
-5
-
-1.3 Zertifizierungsportal
-
-6
-
-1.4 Zertifizierungsdokumente
-
-6
-
-1.5 Prüfunterlagen
-
-6
-
-1.6 Prüfvorgaben
-
-8
-
-1.6.1 Prüfstammdaten
-
-8
-
-1.6.2 Versichertendaten
-
-8
-
-1.6.3 Auflistung der Prüffälle 8
-
-1.6.4 Praxisdaten/ Arztstempel
-
-8
+| **1** | **ALLGEMEINES** | **5** |
+|---|---|---|
+| 1.1 | Rechtsgrundlage | 5 |
+| 1.2 | Zertifizierungsablauf | 5 |
+| 1.3 | Zertifizierungsportal | 6 |
+| 1.4 | Zertifizierungsdokumente | 6 |
+| 1.5 | Prüfunterlagen | 6 |
+| 1.6 | Prüfvorgaben | 8 |
+|  | 1.6.1 Prüfstammdaten | 8 |
+|  | 1.6.2 Versichertendaten | 8 |
+|  | 1.6.3 Auflistung der Prüffälle | 8 |
+|  | 1.6.4 Praxisdaten/ Arztstempel | 8 |
 
 **2** **PRÜFFÄLLE**
 

@@ -340,12 +340,7 @@ KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
 Zeichen Bezeichnung
 
-|  | Leerzeichen (Space) | '20' | & | kommerzielles Und | '26' |
-|---|---|---|---|---|---|
-| ' | Apostroph | '27' | ( | Klammer auf | '28' |
-| ) | Klammer zu | '29' | + | plus | '2B' |
-| - | Bindestrich | '2D' | . | Punkt | '2E' |
-| / | Schrägstrich | '2F' | _ | Unterstreichung | '5F' |
+' Apostroph  ) Klammer zu  - Bindestrich  / Schrägstrich
 
 **1.4 Gesamtliste der im Rahmen von DIN 66003 zulässigen Zeichen**
 
@@ -374,6 +369,10 @@ KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 Hex- Zeichen Bezeichnung
 
 Code
+
+Leerzeichen (Space)
+
+'20'  '27'  '29'  '2D'  '2F'
 
 **Tabelle 3: DIN 66003 Sonderzeichen**
 
@@ -411,7 +410,9 @@ p q r s t u v w
 
 **Tabelle 4: DIN 66003 zulässige Zeichen**
 
-29  41
+kommerzielles Und
+
+( Klammer auf  + plus  . Punkt  _ Unterstreichung 29  41
 
 38.39  56.57  8 9
 
@@ -457,7 +458,9 @@ j k l 7A 7B 7C
 
 z ä ö
 
-Hex- Code 2D 2E 2F
+Hex- Code  '26'  '28'  '2B'  '2E'  '5F'
+
+2D 2E 2F
 
 45 46 47
 
@@ -479,7 +482,7 @@ m n o 7D 7E 7F
 
 5 6 7
 
-' Apostroph ) Klammer zu - Bindestrich / Schrägstrich ( Klammer auf + plus . Punkt _ Unterstreichung ü ß
+ü ß
 
 
 ---

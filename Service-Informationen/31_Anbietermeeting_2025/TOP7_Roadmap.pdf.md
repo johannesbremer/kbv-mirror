@@ -224,3 +224,5 @@ Quelle: gematik GmbH
 
 ---
 
+> [OCR REQUIRED — page 12]
+> This page is a scanned/rasterised image with no extractable text layer; run OCR to recover its content.

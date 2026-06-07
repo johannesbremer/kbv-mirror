@@ -16,17 +16,12 @@ BUNDESVEREINIGUNG  IT IN DER ARZTPRAXIS
 
 ---
 
-## INHALT
+INHALT
 
-**1** **EINLEITUNG**
-
-**7**
-
-1.1 Zielbestimmung
-
-7
-
-1.2 Pflichtfunktionen und optionale Funktionen der Software 7
+| **1** | **EINLEITUNG** | **7** |
+|---|---|---|
+| 1.1 | Zielbestimmung | 7 |
+| 1.2 | Pflichtfunktionen und optionale Funktionen der | Software 7 |
 
 **2** **ÄRZTLICHES DOKUMENTIEREN**
 
@@ -153,6 +148,8 @@ BUNDESVEREINIGUNG  IT IN DER ARZTPRAXIS
 3.3 Barcode Inhalt
 
 65
+
+Pflichtfunktionen und optionale Funktionen der Software
 
 
 ---

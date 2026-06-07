@@ -22,63 +22,25 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **3**
 
-**2** **ALLGEMEINES**
+| **2 ALLGEMEINES** | **4** |
+|---|---|
+| 2.1 Rechtsgrundlage | 4 |
+| 2.2 Zertifizierungsablauf | 4 |
+| 2.3 Zertifizierungsportal | 5 |
+| 2.4 Zertifizierungsdokumente | 5 |
+| 2.5 Prüfunterlagen | 5 |
+| 2.6 Prüfvorgaben | 6 |
+| 2.6.1 Prüfstammdaten | 6 |
+| 2.6.2 Versichertendaten | 6 |
+| 2.6.3 Auflistung der Prüffälle | 7 |
+| 2.6.4 Praxisdaten/ Arztstempel | 7 |
+| 2.6.5 Version der zu verwendenden FHIR-Profile | 8 |
 
-**4**
-
-2.1 Rechtsgrundlage
-
-4
-
-2.2 Zertifizierungsablauf
-
-4
-
-2.3 Zertifizierungsportal
-
-5
-
-2.4 Zertifizierungsdokumente
-
-5
-
-2.5 Prüfunterlagen
-
-5
-
-2.6 Prüfvorgaben
-
-6
-
-2.6.1 Prüfstammdaten
-
-6
-
-2.6.2 Versichertendaten
-
-6
-
-2.6.3 Auflistung der Prüffälle 7
-
-2.6.4 Praxisdaten/ Arztstempel
-
-7
-
-2.6.5 Version der zu verwendenden FHIR-Profile 8
-
-**3** **PRÜFFÄLLE**
-
-**9**
-
-3.1 Voraussetzungen
-
-9
-
-3.2 Erstellen einer eVDGA
-
-9
-
-3.3 Bestätigung der gematik zum Funktionsumfang eVDGA 13
+| **3** | **PRÜFFÄLLE** | **9** |
+|---|---|---|
+| 3.1 | Voraussetzungen | 9 |
+| 3.2 | Erstellen einer eVDGA | 9 |
+| 3.3 | Bestätigung der gematik zum Funktionsumfang | eVDGA 13 |
 
 **4** **TESTDATENVALIDIERUNG**
 
@@ -88,6 +50,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **15**
 
+Bestätigung der gematik zum Funktionsumfang eVDGA
 
 ---
 

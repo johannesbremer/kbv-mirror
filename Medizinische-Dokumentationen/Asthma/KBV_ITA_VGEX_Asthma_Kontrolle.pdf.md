@@ -22,21 +22,11 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **4**
 
-**2** **ZUSTÄNDE DER ASTHMAKONTROLLE**
-
-**5**
-
-2.1 Kontrolliert
-
-5
-
-2.2 Teilweise kontrolliert
-
-5
-
-2.3 Unkontrolliert
-
-6
+| **2** | **ZUSTÄNDE DER ASTHMAKONTROLLE** | **5** |
+|---|---|---|
+| 2.1 | Kontrolliert | 5 |
+| 2.2 | Teilweise kontrolliert | 5 |
+| 2.3 | Unkontrolliert | 6 |
 
 **3** **REFERENZIERTE DOKUMENTE**
 

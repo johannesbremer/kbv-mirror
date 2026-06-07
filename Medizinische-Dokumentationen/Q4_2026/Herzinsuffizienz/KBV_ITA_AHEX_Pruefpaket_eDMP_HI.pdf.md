@@ -15,105 +15,38 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 ---
 
-## INHALT
+INHALT
 
-**1** **ALLGEMEINES**
+| **1 ALLGEMEINES** | **5** |
+|---|---|
+| 1.1 Rechtsgrundlage | 5 |
+| 1.2 Zertifizierungsablauf | 5 |
+| 1.3 Zertifizierungsportal | 5 |
+| 1.4 Zertifizierungsdokumente | 6 |
+| 1.5 Prüfunterlagen | 6 |
+| 1.6 Prüfvorgaben | 7 |
+| 1.6.1 Schnittstellenversionen | 8 |
+| 1.6.2 Datumseingaben | 8 |
+| 1.6.3 Prüfstammdaten | 8 |
+| 1.6.4 Versichertendaten | 8 |
+| 1.6.5 Praxisdaten/ Arztstempel | 9 |
+| 1.6.6 Krankenhausdaten | 9 |
+| 1.6.7 Prüfnummer | 9 |
+| 1.6.8 Stammdatei der Datenannahmestellen | (SDDA) 9 |
+| 1.6.9 Auflistung der Prüffälle | 10 |
 
-**5**
-
-1.1 Rechtsgrundlage
-
-5
-
-1.2 Zertifizierungsablauf
-
-5
-
-1.3 Zertifizierungsportal
-
-5
-
-1.4 Zertifizierungsdokumente
-
-6
-
-1.5 Prüfunterlagen
-
-6
-
-1.6 Prüfvorgaben
-
-7
-
-1.6.1 Schnittstellenversionen
-
-8
-
-1.6.2 Datumseingaben
-
-8
-
-1.6.3 Prüfstammdaten
-
-8
-
-1.6.4 Versichertendaten
-
-8
-
-1.6.5 Praxisdaten/ Arztstempel
-
-9
-
-1.6.6 Krankenhausdaten
-
-9
-
-1.6.7 Prüfnummer
-
-9
-
-1.6.8 Stammdatei der Datenannahmestellen (SDDA) 9
-
-1.6.9 Auflistung der Prüffälle 10
-
-**2** **PRÜFFÄLLE**
-
-**11**
-
-2.1 Prüffälle Dokumentationen 11
-
-2.1.1 Prüffall 4511
-
-11
-
-2.1.2 Prüffall 4512
-
-13
-
-2.1.3 Prüffall 4520
-
-15
-
-2.2 Prüffall Systemreaktion
-
-18
-
-2.2.1 Prüffall 4514
-
-18
-
-2.2.2 Konditionaler Prüffall 4515 21
-
-2.3 Weitere Prüffälle zum Anforderungskatalog 22
-
-2.3.1 Prüffall 4530
-
-22
-
-2.3.2 Prüffall 4540
-
-23
+| **2** | **PRÜFFÄLLE** |  | **11** |
+|---|---|---|---|
+| 2.1 | Prüffälle | Dokumentationen | 11 |
+| 2.1.1 | Prüffall | 4511 | 11 |
+| 2.1.2 | Prüffall | 4512 | 13 |
+| 2.1.3 | Prüffall | 4520 | 15 |
+| 2.2 Prüffall |  | Systemreaktion | 18 |
+| 2.2.1 | Prüffall | 4514 | 18 |
+| 2.2.2 |  | Konditionaler Prüffall 4515 | 21 |
+| 2.3 Weitere | Prüffälle | zum Anforderungskatalog | 22 |
+| 2.3.1 | Prüffall | 4530 | 22 |
+| 2.3.2 | Prüffall | 4540 | 23 |
 
 **3** **TESTDATENVALIDIERUNG**
 
@@ -132,6 +65,8 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 **5** **REFERENZIERTE DOKUMENTE**
 
 **28**
+
+Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentationen Prüffall 4511 Prüffall 4512 Prüffall 4520 Prüffall Systemreaktion Prüffall 4514 Weitere Prüffälle zum Anforderungskatalog Prüffall 4530 Prüffall 4540
 
 
 ---

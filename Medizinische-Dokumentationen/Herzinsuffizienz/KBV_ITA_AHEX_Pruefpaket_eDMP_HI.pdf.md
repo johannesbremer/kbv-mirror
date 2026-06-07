@@ -21,97 +21,36 @@ Seite 1 von 28 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.04 / 9. Dez
 
 ---
 
-## INHALT
+INHALT
 
-**1** **ALLGEMEINES**
+| **1 ALLGEMEINES** | **5** |
+|---|---|
+| 1.1 Rechtsgrundlage | 5 |
+| 1.2 Zertifizierungsablauf | 5 |
+| 1.3 Zertifizierungsportal | 5 |
+| 1.4 Zertifizierungsdokumente | 6 |
+| 1.5 Prüfunterlagen | 6 |
+| 1.6 Prüfvorgaben | 8 |
+| 1.6.1 Prüfstammdaten | 8 |
+| 1.6.2 Versichertendaten | 8 |
+| 1.6.3 Praxisdaten/ Arztstempel | 8 |
+| 1.6.4 Krankenhausdaten | 8 |
+| 1.6.5 Prüfnummer | 9 |
+| 1.6.6 Stammdatei der Datenannahmestellen | (SDDA) 9 |
+| 1.6.7 Auflistung der Prüffälle | 9 |
 
-**5**
-
-1.1 Rechtsgrundlage
-
-5
-
-1.2 Zertifizierungsablauf
-
-5
-
-1.3 Zertifizierungsportal
-
-5
-
-1.4 Zertifizierungsdokumente
-
-6
-
-1.5 Prüfunterlagen
-
-6
-
-1.6 Prüfvorgaben
-
-8
-
-1.6.1 Prüfstammdaten
-
-8
-
-1.6.2 Versichertendaten
-
-8
-
-1.6.3 Praxisdaten/ Arztstempel
-
-8
-
-1.6.4 Krankenhausdaten
-
-8
-
-1.6.5 Prüfnummer
-
-9
-
-1.6.6 Stammdatei der Datenannahmestellen (SDDA) 9
-
-1.6.7 Auflistung der Prüffälle 9
-
-**2** **PRÜFFÄLLE**
-
-**10**
-
-2.1 Prüffälle Dokumentationen 10
-
-2.1.1 Prüffall 4511
-
-10
-
-2.1.2 Prüffall 4512
-
-12
-
-2.1.3 Prüffall 4520
-
-14
-
-2.2 Prüffall Systemreaktion
-
-17
-
-2.2.1 Prüffall 4514
-
-17
-
-2.2.2 Konditionaler Prüffall 4515 20
-
-2.3 Weitere Prüffälle zum Anforderungskatalog 21
-
-2.3.1 Prüffall 4530
-
-21
-
-2.3.2 Prüffall 4540
-
-22
+| **2** | **PRÜFFÄLLE** |  | **10** |
+|---|---|---|---|
+| 2.1 | Prüffälle | Dokumentationen | 10 |
+| 2.1.1 | Prüffall | 4511 | 10 |
+| 2.1.2 | Prüffall | 4512 | 12 |
+| 2.1.3 | Prüffall | 4520 | 14 |
+| 2.2 Prüffall |  | Systemreaktion | 17 |
+| 2.2.1 | Prüffall | 4514 | 17 |
+| 2.2.2 |  | Konditionaler Prüffall 4515 | 20 |
+| 2.3 Weitere |  | Prüffälle zum Anforderungskatalog | 21 |
+| 2.3.1 | Prüffall | 4530 | 21 |
+| 2.3.2 | Prüffall | 4540 | 22 |
 
 **3** **TESTDATENVALIDIERUNG**
 
@@ -133,6 +72,7 @@ Seite 1 von 28 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.04 / 9. Dez
 
 Seite 2 von 28 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.04 / 9. Dezember 2024
 
+Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentationen Prüffall 4511 Prüffall 4512 Prüffall 4520 Prüffall Systemreaktion Prüffall 4514 Weitere Prüffälle zum Anforderungskatalog Prüffall 4530 Prüffall 4540
 
 ---
 

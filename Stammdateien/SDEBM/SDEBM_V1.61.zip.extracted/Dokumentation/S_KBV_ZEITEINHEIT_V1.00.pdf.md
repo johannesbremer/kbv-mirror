@@ -26,4 +26,6 @@ Schlüsseltabelle: S_KBV_ZEITEINHEIT
 
 **Bezeichnung**
 
-Sekunde Minute Stunde Tag Woche Monat 1
+Sekunde Minute Stunde
+
+Tag Woche Monat 1

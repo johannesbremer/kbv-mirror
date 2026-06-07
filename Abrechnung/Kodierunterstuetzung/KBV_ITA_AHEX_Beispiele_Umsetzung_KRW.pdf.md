@@ -15,59 +15,23 @@ KASSENÄRZTLICHE IT IN DER ARZTPRAXIS
 
 ---
 
-## INHALT
+INHALT
 
-**1** **BEHANDLUNGSFALLBEZOGENE REGELN ZUM PRÜFZEITPUNKT „BEI KODIERUNG“**
-
-**4**
-
-1.1 Konfiguration der Kodierregeln I 4
-
-1.1.1 UseCase 1
-
-5
-
-1.1.2 UseCase 2
-
-6
-
-1.1.3 UseCase 3
-
-7
-
-1.1.4 UseCase 4
-
-8
-
-1.1.5 UseCase 5
-
-9
-
-1.1.6 UseCase 6
-
-10
-
-1.1.7 UseCase 7
-
-11
-
-1.1.8 UseCase 8
-
-13
-
-1.1.9 UseCase 9
-
-17
-
-1.2 Konfiguration der Kodierregeln II 18
-
-1.2.1 UseCase 10
-
-19
-
-1.2.2 UseCase 11
-
-20
+| **1** |  | **BEHANDLUNGSFALLBEZOGENE REGELN ZUM PRÜFZEITPUNKT** | **„BEI KODIERUNG“ 4** |
+|---|---|---|---|
+| 1.1 | Konfiguration | der Kodierregeln I | 4 |
+| 1.1.1 | UseCase | 1 | 5 |
+| 1.1.2 | UseCase | 2 | 6 |
+| 1.1.3 | UseCase | 3 | 7 |
+| 1.1.4 | UseCase | 4 | 8 |
+| 1.1.5 | UseCase | 5 | 9 |
+| 1.1.6 | UseCase | 6 | 10 |
+| 1.1.7 | UseCase | 7 | 11 |
+| 1.1.8 | UseCase | 8 | 13 |
+| 1.1.9 | UseCase | 9 | 17 |
+| 1.2 | Konfiguration | der Kodierregeln II | 18 |
+| 1.2.1 | UseCase | 10 | 19 |
+| 1.2.2 | UseCase | 11 | 20 |
 
 **2** **BEHANDLUNGSFALLBEZOGENE REGELN ZUM PRÜFZEITPUNKT „ZUR ABRECHNUNG“**
 
@@ -79,15 +43,10 @@ KASSENÄRZTLICHE IT IN DER ARZTPRAXIS
 
 22
 
-**3** **QUARTALSÜBERGREIFENDE REGELN**
-
-**26**
-
-3.1 Konfiguration der Kodierregeln 26
-
-3.1.1 UseCase 13
-
-26
+| **3** |  | **QUARTALSÜBERGREIFENDE** | **REGELN** | **26** |
+|---|---|---|---|---|
+| 3.1 |  | Konfiguration | der Kodierregeln | 26 |
+|  | 3.1.1 | UseCase | 13 | 26 |
 
 **4** **BEISPIELE UND FRAGEN ZUR UMSETZUNG**
 
@@ -105,6 +64,7 @@ KASSENÄRZTLICHE IT IN DER ARZTPRAXIS
 
 31
 
+BEHANDLUNGSFALLBEZOGENE REGELN ZUM PRÜFZEITPUNKT „BEI KODIERUNG“ Konfiguration der Kodierregeln I UseCase 1 UseCase 2 UseCase 3 UseCase 4 UseCase 5 UseCase 6 UseCase 7 UseCase 8 UseCase 9 Konfiguration der Kodierregeln II UseCase 10 UseCase 11 QUARTALSÜBERGREIFENDE REGELN Konfiguration der Kodierregeln UseCase 13
 
 ---
 

@@ -16,123 +16,44 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
 
 ---
 
-## INHALT
+INHALT
 
-**ALLGEMEINES**
+| **ALLGEMEINES** | **4** |
+|---|---|
+| 1.1 Rechtsgrundlage | 4 |
+| 1.2 Zertifizierungsablauf | 4 |
+| 1.3 Zertifizierungsportal | 5 |
+| 1.4 Zertifizierungsdokumente | 5 |
+| 1.5 Prüfunterlagen | 5 |
+| 1.6 Prüfvorgaben | 7 |
+| 1.6.1 Schnittstellenversionen | 7 |
+| 1.6.2 Datumseingaben | 7 |
+| 1.6.3 Prüfstammdaten | 7 |
+| 1.6.4 Versichertendaten | 7 |
+| 1.6.5 Praxisdaten/ Arztstempel | 7 |
+| 1.6.6 Krankenhausdaten | 9 |
+| 1.6.7 Prüfnummer | 9 |
+| 1.6.8 Stammdatei der Datenannahmestellen | (SDDA) 9 |
+| 1.6.9 Auflistung der Prüffälle | 10 |
 
-**4**
+| **PRÜFFÄLLE** |  |  | **11** |
+|---|---|---|---|
+| 2.1 Prüffälle |  | Dokumentation | 11 |
+| 2.1.1 | Prüffall | 3911 | 11 |
+| 2.1.2 |  | Prüffall 3912 | 13 |
+| 2.1.3 | Prüffall | 3920 | 15 |
+| 2.2 Prüffall |  | Systemreaktion | 18 |
+| 2.2.1 | Prüffall | 3914 | 18 |
+| 2.2.2 | Prüffall | 3915 | 22 |
+| 2.2.3 | Prüffall | 3916 | 23 |
+| 2.3 Weitere |  | Prüffälle zum Anforderungskatalog | 24 |
+| 2.3.1 | Prüffall | 3930 | 24 |
+| 2.3.2 | Prüffall | 3940 | 25 |
 
-1.1 Rechtsgrundlage
-
-4
-
-1.2 Zertifizierungsablauf
-
-4
-
-1.3 Zertifizierungsportal
-
-5
-
-1.4 Zertifizierungsdokumente
-
-5
-
-1.5 Prüfunterlagen
-
-5
-
-1.6 Prüfvorgaben
-
-7
-
-1.6.1 Schnittstellenversionen
-
-7
-
-1.6.2 Datumseingaben
-
-7
-
-1.6.3 Prüfstammdaten
-
-7
-
-1.6.4 Versichertendaten
-
-7
-
-1.6.5 Praxisdaten/ Arztstempel
-
-7
-
-1.6.6 Krankenhausdaten
-
-9
-
-1.6.7 Prüfnummer
-
-9
-
-1.6.8 Stammdatei der Datenannahmestellen (SDDA) 9
-
-1.6.9 Auflistung der Prüffälle 10
-
-**PRÜFFÄLLE**
-
-**11**
-
-2.1 Prüffälle Dokumentation
-
-11
-
-2.1.1 Prüffall 3911
-
-11
-
-2.1.2 Prüffall 3912
-
-13
-
-2.1.3 Prüffall 3920
-
-15
-
-2.2 Prüffall Systemreaktion
-
-18
-
-2.2.1 Prüffall 3914
-
-18
-
-2.2.2 Prüffall 3915
-
-22
-
-2.2.3 Prüffall 3916
-
-23
-
-2.3 Weitere Prüffälle zum Anforderungskatalog 24
-
-2.3.1 Prüffall 3930
-
-24
-
-2.3.2 Prüffall 3940
-
-25
-
-**TESTDATENVALIDIERUNG**
-
-**26**
-
-3.1 Prüffall Testdatenvalidierung 27
-
-3.1.1 Prüffall TDV3918
-
-27
+|  |  | **TESTDATENVALIDIERUNG** | **26** |
+|---|---|---|---|
+| 3.1 | Prüffall | Testdatenvalidierung | 27 |
+|  | 3.1.1 | Prüffall TDV3918 | 27 |
 
 **ANHANG**
 
@@ -143,6 +64,8 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
 **REFERENZIERTE DOKUMENTE**
 
 **30**
+
+Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentation Prüffall 3911 Prüffall 3920 Prüffall Systemreaktion Prüffall 3914 Prüffall 3915 Prüffall 3916 Weitere Prüffälle zum Anforderungskatalog Prüffall 3930 Prüffall 3940 Prüffall Testdatenvalidierung
 
 
 ---

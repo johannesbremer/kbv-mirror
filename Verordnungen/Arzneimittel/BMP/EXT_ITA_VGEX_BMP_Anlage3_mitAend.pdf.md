@@ -3038,7 +3038,7 @@ der Benennungen.
 
 Tabelle 5: Schlüsselworte für den Medikationsplan
 
-| **Code** | **Bedeutung** | **Benennung** |  |
+| **Code** | **Bedeutung** | **Benennung** | **mandatory** |
 |---|---|---|---|
 | 111 Identifikationsname |  | Medikationsplan | M |
 | 121 Seitenbezeichnung |  | Seite | M |
@@ -3065,12 +3065,12 @@ n (Kap. 5.1) und
 
 interpretiert werden können, aber nicht
 
-Geschl.: {m | w | divers | unbestimmt} /optional mandatory Interpunktionen sind Bestandteil
+Geschl.: {m | w | divers | unbestimmt} /optionalInterpunktionen sind Bestandteil
 
 
 ---
 
-| **Code** | **Bedeutung** | **Benennung** |  |
+| **Code** | **Bedeutung** | **Benennung** | **mandatory** |
 |---|---|---|---|
 | 311 Tabellenüberschrift, Spalte | Wirkstoffname | Wirkstoff | M |
 | 322 Tabellenüberschrift, Spalte | Handelsname | Handelsname | M |
@@ -3085,7 +3085,7 @@ Geschl.: {m | w | divers | unbestimmt} /optional mandatory Interpunktionen sind 
 
 Tabelle 6: Schlüsselworte für Zwischenüberschriften
 
-| **Code** | **Bedeutung** | **Benennung** |  |
+| **Code** | **Bedeutung** | **Benennung** | **mandatory** |
 |---|---|---|---|
 | 411 Zwischenüberschrift |  | Bedarfsmedikation | O |
 |  | 412 | Dauermedikation | O |
@@ -3102,7 +3102,7 @@ Tabelle 6: Schlüsselworte für Zwischenüberschriften
 | 424 |  | zeitlich befristet | O |
 | 425 |  | Wöchentliche Anwendung | O |
 
-Nacht Aktualität des Medikationsplans wird keine Gewähr übernommen. /optional mandatory anzuwendende Medikamente anzuwendende Medikamente /optional mandatory
+Nacht Aktualität des Medikationsplans wird keine Gewähr übernommen. /optional anzuwendende Medikamente anzuwendende Medikamente /optional
 
 ---
 

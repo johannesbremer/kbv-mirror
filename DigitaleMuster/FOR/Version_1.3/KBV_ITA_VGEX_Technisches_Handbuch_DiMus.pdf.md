@@ -3013,47 +3013,17 @@ Muster 10, Punkt 15).
 
 Die Schriftgröße dieses Feldes kann beruhend auf den Regelungen in Kapitel  Inhalt“ und unter Beachtung der nachfolgenden Tabelle durch das erstellende PVS angepasst werden:
 
-Schriftgröße in pt 6
-
-7
-
-8
-
-9
-
-Anzahl sichtbarer Zeichen 108
-
-92
-
-81
-
-72
+| Schriftgröße in | pt Anzahl sichtbarer | Zeichen Anzahl erlaubter Zeichen |
+|---|---|---|
+| 6 | 108 | 108 |
+| 7 | 92 | 92 |
+| 8 | 81 | 81 |
+| 9 | 72 | 72 |
+| 10 | 65 | 65 |
+| 11 | 59 | 59 |
+| 12 | 54 | 54 |
 
 2.10.4.2 Felder mit variablem
-
-Anzahl erlaubter Zeichen 108
-
-92
-
-81
-
-72
-
-10
-
-65
-
-65
-
-11
-
-59
-
-59
-
-12
-
-54
 
 **Tabelle 16: Anzahl sichtbarer und erlaubter Zeichen für das Feld „M10_22: 4207_Diagnose_Verdachtsdiagnose**
 
@@ -3063,13 +3033,11 @@ Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe 
 
 Die Schriftgröße dieses Feldes kann beruhend auf den Regelungen in Kapitel  Inhalt“ und unter Beachtung der nachfolgenden Tabelle durch das erstellende PVS angepasst werden.
 
-54
-
 **“ auf digitalem Muster 10**
 
 Vordruckerläuterungen],
 
-2.10.4.2 Felder mit variablem
+Schriftgröße in pt Anzahl sichtbarer Zeichen 2.10.4.2 Felder mit variablem
 
 
 ---
@@ -3590,35 +3558,15 @@ Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe 
 
 Die Schriftgröße dieses Feldes kann beruhend auf den Regelungen in Kapitel  Inhalt“ und unter Beachtung der nachfolgenden Tabelle durch das erstellende PVS angepasst werden:
 
-Schriftgröße in pt
-
-Anzahl sichtbarer Zeichen 6
-
-62
-
-7
-
-53
-
-8
-
-47
-
-9
-
-41
-
-10
-
-37
-
-11
-
-34
-
-12
-
-31
+| Schriftgröße in | pt Anzahl sichtbarer | Zeichen Anzahl erlaubter Zeichen |
+|---|---|---|
+| 6 | 62 | 62 |
+| 7 | 53 | 53 |
+| 8 | 47 | 47 |
+| 9 | 41 | 41 |
+| 10 | 37 | 37 |
+| 11 | 34 | 34 |
+| 12 | 31 | 31 |
 
 **Tabelle 21: Anzahl sichtbarer und erlaubter Zeichen für das Feld „0000_ zusaetzliche_Angabe“ auf digitalem Muster 10A**
 
@@ -3642,20 +3590,6 @@ Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe 
 
 Kennnummer für die „Knapp-
 
-Anzahl erlaubter Zeichen 62
-
-53
-
-47
-
-41
-
-37
-
-34
-
-31
-
 “ ist ein Datumsfeld entsprechend der Definition
 
 Vordruckerläuterungen],
@@ -3672,7 +3606,7 @@ Vordruckerläuterungen],
 
 - und Monatsanga-
 
-KBV_Vordruckerläute- *hhmm* anzugeben, wenn
+Schriftgröße in pt Anzahl sichtbarer Zeichen KBV_Vordruckerläute- *hhmm* anzugeben, wenn
 
 
 ---
@@ -3701,23 +3635,15 @@ Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe 
 
 Die Schriftgröße dieses Feldes kann beruhend auf den Regelungen in Kapitel  Inhalt“ und unter Beachtung der nachfolgenden Tabelle durch das erstellende PVS angepasst werden.
 
-Schriftgröße in pt
-
-Anzahl sichtbarer Zeichen 6
-
-72
-
-7
-
-42
-
-8
-
-36
-
-9
-
-32
+| Schriftgröße in | pt Anzahl sichtbarer | Zeichen Anzahl erlaubter Zeichen |
+|---|---|---|
+| 6 | 72 | 72 |
+| 7 | 42 | 42 |
+| 8 | 36 | 36 |
+| 9 | 32 | 32 |
+| 10 | 14 | 14 |
+| 11 | 13 | 13 |
+| 12 | 12 | 12 |
 
 Vordruckerläuterungen],
 
@@ -3728,30 +3654,6 @@ Vordruckerläuterungen],
 “ angekreuzt, so ist im Feld „M10A_68: 4205_Auftrag61_sons-
 
 Vordruckerläuterungen],  M10A_67: 4205_Auftrag61 2.10.4.2 Felder mit variablem
-
-Anzahl erlaubter Zeichen 72
-
-42
-
-36
-
-32
-
-10
-
-14
-
-14
-
-11
-
-13
-
-13
-
-12
-
-12
 
 **Tabelle 22: Anzahl sichtbarer und erlaubter Zeichen für das Feld „**
 
@@ -3765,11 +3667,9 @@ In diesem Abschnitt werden die musterspezifischen Inhalte für das digitale Must
 
 **M10A_68: 4205_Auftrag61_sonstige_Auftraege**
 
-12
-
 **“ auf digitalem Muster 10A**
 
-Vordruckerläuterungen],
+Schriftgröße in pt Anzahl sichtbarer Zeichen Vordruckerläuterungen],
 
 
 ---
@@ -5028,21 +4928,16 @@ qualification:Typ.code
 
 Person
 
-Berufsbezeichnung der  verantwortlichen Person
+|  | 58 | qualification:Berufsbezeichnung |  |
+|---|---|---|---|
+|  |  | .code.text |  |
+| ASV-Fachgruppennummer | 149 | qualification:ASV-Fachgruppenn |  |
+| der verantwortlichen Per- |  | ummer.code.coding.code |  |
+| son |  |  |  |
 
-ASV-Fachgruppennummer  der verantwortlichen Per- son 58
-
-qualification:Berufsbezeichnung .code.text
-
-149
-
-qualification:ASV-Fachgruppenn ummer.code.coding.code
-
-Identifikator der verant- 52
-
-Identifier
-
-wortlichen Person
+| Identifikator der verant- | 52 | Identifier |  |  |
+|---|---|---|---|---|
+| wortlichen Person |  |  |  |  |
 
 Arztnummer der verant- 52a
 
@@ -5064,27 +4959,7 @@ DANN  kann dieser Block vorhanden  sein.
 
 ANSONSTEN  darf dieser Block nicht vorhanden  sein.
 
-WENN  das Feld 51 gemäß Tabelle 52  gleich „00“ oder „04“ und das Feld
-
-17 gemäß Tabelle 52 gleich „01“
-
-oder „11“ ist und das Feld 52 ge- mäß Tabelle 52 nicht vorhanden  ist,  DANN  darf dieses Feld vorhanden sein.
-
-ANSONSTEN  darf dieses Feld nicht angegeben  werden.
-
-WENN  das Feld 7 gemäß Tabelle 52 gleich  "GKV" oder "BG" oder "SKT" oder  "UK" oder „PKV“ und das Feld 51
-
-gemäß Tabelle 52 gleich „00“ oder
-
-„01“ oder „04“ ist und das Feld 149
-
-Tabelle 52 nicht vorhanden ist,  DANN  ist dieses Feld Pflicht.
-
-ANSONSTEN WENN  das Feld 149 gemäß Tabelle 52 vor- handen ist,  DANN  darf dieses Feld nicht angegeben  werden.
-
-ANSONSTEN  ist dieses Feld optional.
-
-WENN  der Block 52 gemäß Tabelle 52 vor- handen ist und das Feld 51 gemäß
+Berufsbezeichnung der verantwortlichen Person WENN das Feld 51 gemäß Tabelle 52 gleich „00“ oder „04“  und das Feld 17 gemäß Tabelle 52 gleich „01“ oder „11“ ist und das Feld 52 ge- mäß Tabelle 52 nicht vorhanden ist, DANN darf dieses Feld vorhanden sein. ANSONSTEN darf dieses Feld nicht angegeben werden. WENN das Feld 7 gemäß Tabelle 52 gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ und das Feld 51 gemäß Tabelle 52 gleich „00“ oder „01“ oder „04“  ist und das Feld 149 Tabelle 52 nicht vorhanden ist,  DANN  ist dieses Feld Pflicht. ANSONSTEN WENN das Feld 149 gemäß Tabelle 52 vor- handen ist, DANN darf dieses Feld nicht angegeben werden. ANSONSTEN ist dieses Feld optional. WENN  der Block 52 gemäß Tabelle 52 vor- handen ist und das Feld 51 gemäß
 
 
 ---
@@ -5260,9 +5135,9 @@ ANSONSTEN  darf dieses Feld nicht angegeben  werden.
 
 **ID gemäß**  **Tabelle 52**
 
-Identifikator der Einrich- 61
-
-tung
+| Identifikator der Einrich- | 61 | identifier |  |  |
+|---|---|---|---|---|
+| tung |  |  |  |  |
 
 BSNR 61a
 
@@ -5277,14 +5152,6 @@ Standortnummer 61d
 **FHIR®-Element**
 
 **Bedingung**
-
-identifier
-
-WENN  das Feld 7 gemäß Tabelle 52 gleich  "GKV" oder "BG" oder "SKT" oder  "UK" oder “PKV“ ist und das Feld 41
-
-gemäß Tabelle 52 gleich "00" oder  "01" oder "03" oder "04" ist,  DANN  ist dieses Feld Pflicht.
-
-ANSONSTEN  ist dieses Feld optional.
 
 identifier:Betriebsstaettennum WENN
 
@@ -5314,7 +5181,7 @@ gemäß Tabelle 52 nicht vorhanden  sind,  DANN  ist dieses Feld Pflicht.
 
 ANSONSTEN  darf dieses Feld nicht angegeben  werden.
 
-identifier:Standortnummer WENN  der Block 61 gemäß Tabelle 52 vor- handen ist und die Felder 61a gemäß  Tabelle 52 und 61b gemäß Tabelle  52 und 61c gemäß Tabelle 52 nicht  vorhanden sind,  DANN  ist dieses Feld Pflicht.
+WENN das Feld 7 gemäß Tabelle 52 gleich "GKV" oder "BG" oder "SKT" oder "UK" oder “PKV“ ist und das Feld 41 gemäß Tabelle 52 gleich "00" oder "01" oder "03" oder "04" ist, DANN ist dieses Feld Pflicht. ANSONSTEN  ist dieses Feld optional. identifier:Standortnummer WENN  der Block 61 gemäß Tabelle 52 vor- handen ist und die Felder 61a gemäß  Tabelle 52 und 61b gemäß Tabelle  52 und 61c gemäß Tabelle 52 nicht  vorhanden sind,  DANN  ist dieses Feld Pflicht.
 
 
 ---
@@ -5712,9 +5579,9 @@ Geburtsdatum des Versi- 25
 
 cherten
 
-| Straßenadresse des Versi- | 27 | address:Strassenanschrift |  |  |
-|---|---|---|---|---|
-| cherten |  |  |  |  |
+Straßenadresse des Versi- 27
+
+cherten
 
 Wohnsitzländercode der 28
 
@@ -5760,6 +5627,12 @@ birthDate.extension:data-absen Ausstellungsdatum liegen.
 
 t-reason.value[x]:valueCode =  unknown
 
+address:Strassenanschrift
+
+WENN  der Block "Postfachanschrift des  Versicherten" nicht angegeben ist,  DANN  kann dieser Block angegeben  werden.
+
+ANSONSTEN  darf dieser Block nicht angegeben  werden.
+
 address:Strassenanschrift.coun
 
 try
@@ -5790,16 +5663,16 @@ address:Strassenanschrift.line[0
 
 Wenn Straßenname und/oder
 
-WENN der Block "Postfachanschrift des Versicherten" nicht angegeben ist, DANN kann dieser Block angegeben werden. ANSONSTEN darf dieser Block nicht angegeben werden. Hausnummer vorhanden, gilt  Mapping
+Hausnummer vorhanden, gilt  Mapping
 
 
 ---
 
-**KBV_PR_FOR_PATIENT**
+#### KBV_PR_FOR_PATIENT
 
-| Postfachanschrift des Ver- | 34 | address:Postfach |  |  |
-|---|---|---|---|---|
-| sicherten |  |  |  |  |
+Postfachanschrift des Ver- 34
+
+sicherten
 
 Wohnsitzländercode der 35
 
@@ -5827,6 +5700,12 @@ a) Pflichtfelder sind zu befüllen  b) Optionale Felder müssen befüllt werden,
 
 address:Strassenanschrift.line[1 ].extension:Adresszusatz.value[ x]:valueString  Wenn Straßenname und  Hausnummer nicht vorhanden,  gilt Mapping  KBV_PR_FOR_Patient.address:S trassenanschrift.line[0].extensi on:Adresszusatz.value[x]:valueS tring
 
+address:Postfach
+
+WENN  der Block "Straßenadresse des Ver- sicherten" nicht angegeben ist,  DANN  kann dieser Block angegeben  werden.
+
+ANSONSTEN  darf dieser Block nicht angegeben  werden.
+
 address:Postfach.country
 
 address:Postfach.postalCode WENN  der Versicherte sich nicht elektro- nisch ausgewiesen hat und das Feld  7 gemäß Tabelle 52 gleich "GKV"  oder "BG" oder "SKT" oder "UK"  oder „PKV“ ist DANN  ist dieses Feld Pflicht.
@@ -5843,7 +5722,6 @@ address:Postfach.line.extension
 
 :Postfach.value[x]:valueString
 
-WENN der Block "Straßenadresse des Ver- sicherten" nicht angegeben ist, DANN kann dieser Block angegeben werden. ANSONSTEN darf dieser Block nicht angegeben werden.
 
 ---
 

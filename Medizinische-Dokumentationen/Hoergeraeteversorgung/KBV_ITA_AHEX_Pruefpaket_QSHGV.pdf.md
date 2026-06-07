@@ -35,7 +35,7 @@ INHALT
 | 2.4 | Prüffall | 5604 | 15 |
 | 2.5 | Prüffall | 5605 | 17 |
 | 2.6 | Prüffall | 5606 | 18 |
-| 2.7 | Prüffall | 5608 | 22 |
+| 2.7 |  | Prüffall 5608 | 22 |
 | 2.8 | Prüffall | 5609 (optional) | 23 |
 | 2.9 | Prüffall | 5610 (Konditional) | 25 |
 
@@ -49,7 +49,7 @@ INHALT
 
 / Version: 3.01 / 12. August 2021
 
-Prüffall 5601 Prüffall 5602 Prüffall 5603 Prüffall 5604 Prüffall 5605 Prüffall 5606 Prüffall 5608 Prüffall 5609 (optional) Prüffall 5610 (Konditional)
+Prüffall 5601 Prüffall 5602 Prüffall 5603 Prüffall 5604 Prüffall 5605 Prüffall 5606 Prüffall 5609 (optional) Prüffall 5610 (Konditional)
 
 
 ---

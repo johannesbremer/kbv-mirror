@@ -8,9 +8,9 @@
 
 **IT IN DER ARZTPRAXIS**
 
-**13. MAI 2026**
+**2. JUNI 2026**
 
-**VERSION: 6.07**
+**VERSION: 6.08**
 
 **DOKUMENTENSTATUS: IN KRAFT**
 
@@ -208,9 +208,9 @@ Abrechnungssystem
 
 81  86  86  86
 
-87  96  97  98  99  99  100  100  102  102  102  107  108 108
+87  96  97  98  99  100  100  101  102  102  102  107  108 108
 
-109  111  111  112  112  112  112 113
+109  111  112  112  112  112  112 113
 
 113  114  115  116  124  125
 
@@ -312,19 +312,23 @@ Vertragliche Grundlage
 
 ---
 
-7.6 Operationen- und Prozedurenschlüsselstammdatei (SDOPS) 163
+7.6 Operationen- und Prozedurenschlüsselstammdatei (SDOPS)  7.6.1 Integration der OPS-Stammdatei
 
-7.6.1 Integration der OPS-Stammdatei 163
-
-7.6.2 Funktionale Anforderungen/ Anwendung der OPS-Stammdatei 164
+7.6.2 Funktionale Anforderungen/ Anwendung der OPS-Stammdatei
 
 **8** **BEDRUCKUNG VON VERTRAGSÄRZTLICHEN FORMULAREN**
 
-**167**
-
-8.1 Bedruckung des Personalienfeldes 167
+8.1 Bedruckung des Personalienfeldes
 
 **9** **REFERENZIERTE DOKUMENTE**
+
+163  163
+
+164
+
+**167**
+
+167
 
 **168**
 
@@ -372,7 +376,7 @@ Tabelle 14 - Defaultwerte für RV-Zertifikate in Abhängigkeit der pnSD/uu-Info 
 
 80
 
-Übersicht zu den  96  97  103  107  108  118  131  141  143
+Übersicht zu den  96  97  104  107  109  118  131  141  143
 
 
 ---
@@ -535,17 +539,16 @@ Kostenträger-
 
 ## DOKUMENTENHISTORIE
 
-Die Änderungen vom 13.05.2026 (Version 6.07) treten zum 3. Quartal 2026 in Kraft.
+Die Änderungen vom 13.05.2026 (Version 6.07) und 02.06.2026 (Version 6.08 grün markiert)  Quartal 2026 in Kraft.
 
 | **Version** | **Datum** |
 |---|---|
+| 6.08 | 02.06.2026 |
 | 6.07 | 13.05.2026 |
 | 6.06 | 09.03.2026 |
 | 6.05 | 13.02.2026 |
-| 6.04 | 27.11.2025 |
-| 6.03 | 14.11.2025 |
 
-**Autor**
+**Autor Änderung**
 
 KBV
 
@@ -555,11 +558,7 @@ KBV
 
 KBV
 
-KBV
-
-**Änderung**
-
-Korrektur der Anforderung KP6-872 (grün  markiert)
+Aktualisierung der Anforderung KP2- 613  Aktualisierung der Anforderungen  614  Aktualisierung der Anforderungen KP2 624  Aktualisierung der Übersicht der  Humangenetischen Anforderungen  Konkretisierung KP6-805
 
 KP2-103, KP2-104, KP2-171, KP2-186,  KP2-187 aufgenommen  Kapitel 2.2und Kapitel 2.3.5 angepasst P2-120, P2-135, P2-136, P2-140, P2- 150, P2-166, P2-200, P2-210, P2-220,  P2-230, P2-260, P2-265, P2-270, P2- 285, KP2-300, KP2-310, P2-320, P2- 325, P2-470, KP2-500, P2-501, P2-556,  KP2-557, P2-558, P2-790 angepasst
 
@@ -567,54 +566,86 @@ KP2-565 Erweiterung der Anforderung  P6-804 Anpassung der Anforderung  KP6-805 a
 
 Anpassung der Anforderung KP2-565
 
-Den Begriff Bedruckung  vertragsärztlicher Formulare durch  Ausstellung vertragsärztlicher  Formulare ersetzt     Klarstellung KP8-08  Erweiterung P2-68  Korrektur KP2-616  Ergänzung P2-400  Erweiterung der KP2-565
-
-P6-40 Erweiterung der Anforderung  KP6-872 aufgenommen
+Den Begriff Bedruckung  vertragsärztlicher Formulare durch  Ausstellung vertragsärztlicher  Formulare ersetzt     Klarstellung KP8-08
 
 **Begründung**
 
+Anpassungen  der  Humangenetik
+
+KP2-
+
 Einführung  VSDM 2.0
+
+treten zum 3.
 
 **Seite**
 
-31, 30,
+91
 
-39, 42,  43  26, 79  32, 34,  35, 36,  36, 37,  45, 45,  46, 49,  49, 50,  51, 52,  53, 54,  54, 55,  66, 67,  69, 79,  79, 80,  102 83  161  162  49
+92
+
+90   96   162
+
+31, 30,  39, 42,  43  26, 79  32, 34,  35, 36,  36, 37,  45, 45,  46, 49,  49, 50,  51, 52,  53, 54,  54, 55,  66, 67,  69, 79,  79, 80,  102 83  161  162  49
 
 83
 
-18, 29,  32, 35,  45, 45,  46, 49,  50, 52,  62, 132,  151  147  22  94  56  83 165
+18, 29,  32, 35,  45, 45,  46, 49,  50, 52,  62, 132,
 
-151  165
+147
 
 
 ---
 
-| **Version** | **Datum** |
-|---|---|
-| 6.02 | 15.08.2025 |
-| 6.01 | 28.05.2025 |
-| 6.00 | 15.05.2025 |
+**Version** **Datum**
 
 **Autor Änderung**
 
 **Begründung Seite**
 
-P2-96, K2-511 und KP2-504 gelöscht, KV-Connect ist
+Erweiterung P2-68 22
 
-Referenz auf KV-Connect gestrichen abgeschaltet 70, 70
+Korrektur KP2-616 94
 
-K2-512, KP2-505 aktualisiert 19
+Ergänzung P2-400 56
 
-P2-67 neuer Wert für FK 0225 möglich 103
+Erweiterung der KP2-565 83
 
-P2-830 neuer Orientierungswert 109
+6.04
 
-KP2-910 angepasst 147
+| 27.11.2025 | KBV | Korrektur der Anforderung KP6-872 (grün |  |
+|---|---|---|---|
+|  |  | markiert) |  |
 
-KP8-08 Anpassung der Verweildauer
+165
 
-KBV 73
+6.03 14.11.2025 KBV
+
+P6-40 Erweiterung der Anforderung 151
+
+KP6-872 aufgenommen 165
+
+P2-96, K2-511 und KP2-504 gelöscht,
+
+KV-Connect ist
+
+Referenz auf KV-Connect gestrichen
+
+abgeschaltet
+
+K2-512, KP2-505 aktualisiert 70, 70
+
+P2-67 neuer Wert für FK 0225 möglich 19
+
+P2-830 neuer Orientierungswert 103
+
+KP2-910 angepasst 109
+
+KP8-08 Anpassung der Verweildauer 147
+
+6.02 15.08.2025 KBV
+
+73
 
 Redaktionelle Anpassungen der
 
@@ -626,9 +657,9 @@ Anpassung der Anforderung KP2-557
 
 Redaktionelle Anpassungen der 77
 
-Anforderung P2-558 102,
+Anforderung P2-558 103,
 
-Aktualisierung der Anforderung P2-820 104
+Aktualisierung der Anforderung P2-820 105
 
 und K2-860
 
@@ -648,9 +679,7 @@ Redaktionelle Anpassung von Kapitel 68
 
 32
 
-KP2-121 Hinweis erweitert
-
-KBV
+KP2-121 Hinweis erweitert 6.01 28.05.2025 KBV
 
 Fachlicher 89, 89
 
@@ -663,6 +692,19 @@ Umgang der 87
 Werte
 
 Erläuterung zur Schlüsseltabelle  aufgenommen (blau markiert)
+
+
+---
+
+| **Version** | **Datum** |
+|---|---|
+| 6.00 | 15.05.2025 |
+| 5.81 | 13.03.2025 |
+| 5.80 | 31.01.2025 |
+
+**Autor Änderung**
+
+**Begründung Seite**
 
 KBV
 
@@ -686,63 +728,49 @@ Anforderung 83
 
 Aufnahme einer Kapitelbeschreibung
 
-zu 2.3.7.3
+zu 2.3.7.3 18
 
+Anpassung der Anforderung P2-67
 
----
-
-| **Version** | **Datum** |
-|---|---|
-| 5.81 | 13.03.2025 |
-| 5.80 | 31.01.2025 |
-
-**Autor Änderung**
-
-**Begründung Seite**
-
-Anpassung der Anforderung P2-67 143
-
-neuer Wert für FK 0225 möglich 63
+neuer Wert für FK 0225 möglich 143
 
 Aufnahme der Anforderung KP8-07
 
-Umkategorisierung und Umbenennung 76
+Umkategorisierung und Umbenennung 63
 
-der Anforderung P2-505 in KP2-514
+der Anforderung P2-505 in KP2-514 76
 
 Umkategorisierung von P2-557 zu KP2-
 
 557
 
-64
-
 Umkategorisierung von P2-500 zu KP2-
+
+64
 
 500
 
-36
+Redaktionelle Anpassungen der 36
 
-Redaktionelle Anpassungen der 102,
+Anforderung P2-150
 
-Anforderung P2-150 104
+Aktualisierung der Anforderung P2-820 103,
 
-Aktualisierung der Anforderung P2-820 87, 89,
+und K2-860 105
 
-und K2-860 89
+Verbesserung der Regelungen des 87, 89,
 
-Verbesserung der Regelungen des
+Kapitels 2.3.7.3 (grün markiert) 89
 
-Kapitels 2.3.7.3 (grün markiert) 143
+143
 
 Klarstellung der Patientenquittung bei  Hybrid-DRG-Leistungen
 
 KBV
 
-Einführung des
+Einführung des 59
 
-Aufnahme der Anforderung KP2-404 59
-
-eEB-Verfahrens
+Aufnahme der Anforderung KP2-404  eEB-Verfahrens
 
 Aufnahme der Anforderung KP2-405 59
 
@@ -773,7 +801,9 @@ Kodierung
 
 Dieser Anforderungskatalog gilt für Software für Vertragsarztpraxen zur Erstellung des KVDT1
 
-Vertragsärzte sollen durch das Softwareprodukt in die Lage versetzt werden, den quartalsweisen  Abrechnungsverkehr mit ihrer Kassenärztlichen Vereinigung abwickeln sowie vertragsärztliche Formulare  korrekt bedrucken zu können. Abrechnungssoftware2 muss vor ihrem Einsatz durch die KBV zugelassen
+Vertragsärzte sollen durch das Softwareprodukt in die Lage versetzt werden, den quartalsweisen
+
+Abrechnungsverkehr mit ihrer Kassenärztlichen Vereinigung abwickeln sowie vertragsärztliche Formulare  korrekt bedrucken zu können. Abrechnungssoftware2 muss vor ihrem Einsatz durch die KBV zugelassen
 
 werden.
 
@@ -827,11 +857,7 @@ Optionale Funktionen sind wie folgt gekennzeichnet:
 
 z.B.** K2-60**
 
-**1** KVDT (= Kassenärztliche Vereinigung DatenTransfer) ermöglicht die gebündelte Übertragung von (Kurärztlichen) Abrechnungsdaten (ADT und  KADT), sowie von Daten, die im Rahmen der "Abrechnung von  2
-
-Schwangerschaftsabbrüchen“ (SADT) dokumentiert werden.
-
-Abrechnungssoftware im Sinne des KBV-Prüfverfahrens sind alle Programme oder Programmteile zum Zwecke der Eingabe, Weiterverarbeitung  oder Ausgabe von Daten, die im Rahmen der vertragsärztlichen Abrechnung benötigt werden.
+**1** KVDT (= Kassenärztliche Vereinigung DatenTransfer) ermöglicht die gebündelte Übertragung von (Kurärztlichen) Abrechnungsdaten (ADT und  KADT), sowie von Daten, die im Rahmen der "Abrechnung von Schwangerschaftsabbrüchen“ (SADT) dokumentiert werden. 2 Abrechnungssoftware im Sinne des KBV-Prüfverfahrens sind alle Programme oder Programmteile zum Zwecke der Eingabe, Weiterverarbeitung  oder Ausgabe von Daten, die im Rahmen der vertragsärztlichen Abrechnung benötigt werden.
 
 
 ---
@@ -903,9 +929,7 @@ Die Bedieneroberfläche der Abrechnungssoftware muss eine lückenlose und korrek
 
 **P2-20** Systemdatum
 
-Das Systemdatum ist grundsätzlich über das Betriebssystem vorgegeben. Eine Änderung des Systemdatums  durch den Anwender verstößt gegen die Grundsätze ordnungsgemäßer Datenverarbeitung. Die
-
-Bereitstellung einer Funktion in der Anwendungssoftware, die eine Veränderung des Systemdatums  ermöglicht, ist unzulässig.
+Das Systemdatum ist grundsätzlich über das Betriebssystem vorgegeben. Eine Änderung des Systemdatums  durch den Anwender verstößt gegen die Grundsätze ordnungsgemäßer  Bereitstellung einer Funktion in der Anwendungssoftware, die eine Veränderung des Systemdatums  ermöglicht, ist unzulässig.
 
 -10-GM
 
@@ -921,12 +945,14 @@ Bereitstellung einer Funktion in der Anwendungssoftware, die eine Veränderung d
 |---|---|---|---|
 | Bewegungsdaten |  | ermöglichen. |  |
 
+Datenverarbeitung. Die
+
 
 ---
 
 **Anmerkung:**
 
-Jeder Anwender mit den Rechten eines Systemadministrators besitzt die  Systemdatums. Vor diesem Hintergrund wird nicht erwartet, dass das Systemdatum durch den Arzt  unveränderbar sein muss. Diese Forderung wäre jenseits der praktischen Realität und würde den Einsatz  eines durch die Funkuhr gespeisten Zeitmoduls im Praxiscomputer voraussetzen. Vielmehr wird Wert  darauf gelegt, dass nicht an diversen Stellen der Anwendungssoftware Funktionen zur Änderung des  Systemdatums angeboten werden, die von jedem Benutzer nach Belieben aktiviert werden könne Normalerweise sollte eine Datumsänderung ausschließlich auf Betriebssystemebene möglich sein und zwar  nur für entsprechend autorisierte Personen.
+Jeder Anwender mit den Rechten eines Systemadministrators besitzt die Möglichkeit zur Veränderung des  Systemdatums. Vor diesem Hintergrund wird nicht erwartet, dass das Systemdatum durch den Arzt  unveränderbar sein muss. Diese Forderung wäre jenseits der p eines durch die Funkuhr gespeisten Zeitmoduls im Praxiscomputer voraussetzen. Vielmehr wird Wert  darauf gelegt, dass nicht an diversen Stellen der Anwendungssoftware Funktionen zur Änderung des  Systemdatums angeboten werden, die von jedem Benutzer nach Belieben aktiviert werden können.  Normalerweise sollte eine Datumsänderung ausschließlich auf Betriebssystemebene möglich sein und zwar  nur für entsprechend autorisierte Personen.
 
 **PFLICHTFUNKTION ADT**
 
@@ -966,7 +992,11 @@ LANR des Vertragsarztes/Vertragspsychotherapeuten
 
 HGNC-Gensymbol  Tabelle 1  Ersatzwerte
 
+raktischen Realität und würde den Einsatz
+
 7 „Feldverzeichnis“ der KVDT
+
+] definiert.
 
 **nicht** standardmäßig - d.h. nicht automatisch ohne
 
@@ -988,22 +1018,16 @@ HGNC-Gensymbol  Tabelle 1  Ersatzwerte
 
 5077
 
-Möglichkeit zur Veränderung des
-
-n.
-
 **vordatierte** GNRn und
 
 **kein** Wert für ein in der  **Defaultwert** zu
-
-] definiert.
 
 
 ---
 
 **Hinweis zu Feld „ICD-10-GM-Code“**
 
-Die KVDT-Abrechnungssoftware, welche für die Abrechnung gemäß §57a (2) BMV ab dem 01.01.2020 anstelle eines krankheitsspezifischen Diagnoseschlüssels nach ICD standardmäßige Übertragung des ICD-10-GM-Kodes „Z01.7“ (= Laboruntersuchung), im Sinne eines Ersatz
+Die KVDT-Abrechnungssoftware, welche für die Abrechnung gemäß §57a (2)  ab dem 01.01.2020 anstelle eines krankheitsspezifischen Diagnoseschlüssels nach ICD standardmäßige Übertragung des ICD-10-GM-Kodes „Z01.7“ (= Laboruntersuchung), im Sinne eines Ersatz
 
 /Defaultwertes, im Feld „ICD Code“ (FK 6001) unterstützen, vgl.
 
@@ -1043,11 +1067,13 @@ entsprechende Untersuchungen im Abschnitt 1.7 oder 8.5 des EBM ohne unmittelbare
 
 2. Fallunabhängig für Fachärzte für Pathologie, Fachärzte für Neuropathologie, Fachärzte für Laboratoriumsmedizin sowie Fachärzt Mikrobiologie und Infektionsepidemiologie.
 
+BMV-Ä3
+
 ] übermitteln. Wird ein PVS an
 
 -Datensatz) gebildet (siehe KVDT- ]).
 
--Ä3 eingesetzt wird, darf  -10-GM auch die -Abrechnung alle
+eingesetzt wird, darf  -10-GM auch die -Abrechnung alle
 
 -10-GM regelhaft im Sinne
 
@@ -1080,7 +1106,9 @@ Die Software muss dem Anwender die Möglichkeit bieten eine Pseudoarztnummer zu 
 
 **Begründung:**
 
-Vertragliche Grundlage dieser Anforderung ist die Richtlinie der KBV nach § 75 Absatz 7 SGB V zur Vergabe  der Arzt-, Betriebs- sowie der Praxisnetznummern in Verbindung mit der Anlage 6 BMV-Ä (Vertrag über den
+Vertragliche Grundlage dieser Anforderung ist die Richtlinie der KBV nach § 75 Absatz 7 SGB V zur Vergabe
+
+der Arzt-, Betriebs- sowie der Praxisnetznummern in Verbindung mit der Anlage 6 BMV-Ä (Vertrag über den
 
 Datenaustausch), § 4 „Art und Inhalt der Daten der Weiteren Leistungserbringer“.
 
@@ -1096,9 +1124,7 @@ Ergänzend ist die Funktion P 2-40 zu beachten.   **PFLICHTFUNKTION ADT**
 
 **P2-66** Übertragung der kompatibilitätsrelevanten Anteile der Produkttypversion des Konnektors
 
-Die Software muss die Übertragung der „kompatibilitätsrelevanten Anteile der Produkttypversion des
-
-Konnektors“ in die ADT-Abrechnung ermöglichen.
+Die Software muss die Übertragung der „kompatibilitätsrelevanten Anteile der Produkttypversion des  Konnektors“ in die ADT-Abrechnung ermöglichen.
 
 **Begründung:**
 
@@ -1157,9 +1183,7 @@ V)“ sicherstellen können, ist es notwendig, dass im Rahmen der Abrechnung die
 
 es dem Anwender ermöglichen, diese vor der Übernahme in die ADT-Abrechnung zur Kenntnis zu
 
-nehmen.  2. Die Software muss die Informationen, ob ein in der Betriebsstätte zur Verfügung stehendes
-
-Primärsystem die Funktionsmerkmale der TI-Fachanwendungen eRezept, NFDM, eMP, KIM, eAU
+nehmen.  2. Die Software muss die Informationen, ob ein in der Betriebsstätte zur Verfügung stehendes  Primärsystem die Funktionsmerkmale der TI-Fachanwendungen eRezept, NFDM, eMP, KIM, eAU
 
 eArztbrief, eVDGA und TIM unterstützt sowie ob in der Betriebsstätte mindestens ein Kartenterminal,  mindestens eine SMC-B und mindestens ein eHBA verfügbar ist, jeweils im Feld FK 0226
 
@@ -1355,7 +1379,7 @@ TIM  ja
 
 **P2-68** Übertragung des Ablaufdatums des Konnektorzertifikats und Anzeige von Gerätezertifikaten
 
-Die Software muss dem Anwender das  und dieses Datum in der ADT-Abrechnung übertragen.
+Die Software muss dem Anwender das Ablaufdatum des im Konnektor gespeicherten Zertifikats anzeigen  und dieses Datum in der ADT-Abrechnung übertragen.
 
 **Begründung:**
 
@@ -1400,8 +1424,6 @@ eHBA  ja
 eVDGA  nein
 
 TIM  nein
-
-Ablaufdatum des im Konnektor gespeicherten Zertifikats anzeigen
 
 , A_22969 und A_13533-01 nach den Vorgaben
 
@@ -1458,9 +1480,7 @@ Kurzbeschreibung des Konnektormodells darstellt und mittels des XML Schemas „P
 
 Es kann vorkommen, dass in einer Betriebsstätte mehr als ein Konnektor vorhanden ist. Es sollte bei der  Übertragung in der Abrechnung der Konnektor ausgewählt werden, der dem Akzeptanzkriterium 1 b) der  Anforderung P2-66 entspricht. Die Anzeige sollte die Produktnamen aller vorhandenen Konnektoren  übersichtlich darstellen.
 
-Falls die Zeichenanzahl des Produktnamens des Konnektors größer ist als die maximale Länge des Felds FK
-
-0228, ist der Produktname bei der Übernahme auf mehrere Feldinstanzen aufzuteilen.
+Falls die Zeichenanzahl des Produktnamens des Konnektors größer ist als die maximale Länge des Felds FK  0228, ist der Produktname bei der Übernahme auf mehrere Feldinstanzen aufzuteilen.
 
 **PFLICHTFUNKTION ADT**
 
@@ -1611,7 +1631,7 @@ die Erfassung von gültigen Datumsangaben.
 
 **P2-99** Vorbelegung der Gebührenordnung (Feld 4121)
 
-Die Software muss eine automatische Vorbelegung der vom  Gebührenordnung (FK 4121) durchführen.
+Die Software muss eine automatische Vorbelegung der vom Anwender zu erfassenden Angabe der  Gebührenordnung (FK 4121) durchführen.
 
 **Begründung:**
 
@@ -1660,8 +1680,6 @@ b) wenn die Eingabe von Patientenstammdaten über den Abruf der Versichertenstam
 -  Kostentraegerkennung
 
 4 Die XPath-Ausdrücke beziehen sich in dem Kapitel 2.1.9 auf die Elemente der Kostenträger
-
-Anwender zu erfassenden Angabe der
 
 ie Vorbelegung mit dem
 
@@ -1955,9 +1973,7 @@ Einlesen der Versichertenstammdaten von der eGK.
 
 a) Die Erzeugung des „klassischen“ VSDM sowie des Nachweises gemäß KP2-185 erfolgt nicht.
 
-3. Die Software informiert den Anwender über den nicht erfolgreichen VSDM 2.0 Abruf und den
-
-durchgeführten Fallback auf das eGK-Einlesen.  4. Bei erfolgreichem Fallback werden die Versichertenstammdaten gemäß der Mappingtabelle_VSD 5 2.0 in
+3. Die Software informiert den Anwender über den nicht erfolgreichen VSDM 2.0 Abruf und den  durchgeführten Fallback auf das eGK-Einlesen.  4. Bei erfolgreichem Fallback werden die Versichertenstammdaten gemäß der Mappingtabelle_VSD 5 2.0 in
 
 der jeweils aktuellen Version transformiert, vgl. [KBV_ITA_VGEX_Mapping_KVK].
 
@@ -2004,7 +2020,7 @@ Die Software muss die Datenfelder der Krankenversichertenkarte (KVK) für die we
 
 **Begründung:**
 
-Vertragliche Grundlage dieser Anforderung sind die Anlage 4a BMV Anlage 4a (BMV-Ä).
+Vertragliche Grundlage dieser Anforderung sind die  Anlage 4a (BMV-Ä).
 
 **Akzeptanzkriterium:**
 
@@ -2014,19 +2030,19 @@ Vertragliche Grundlage dieser Anforderung sind die Anlage 4a BMV Anlage 4a (BMV-
 
 Für die weitere Verarbeitung und die darauf aufsetzenden weiteren Pflichtfunktionen wird davon  ausgegangen, dass jeweils ein valider eGK-Datensatz gemäß Mappingtabelle_KVK, sei es durch das Einlesen
 
-einer eGK oder durch die korrekte Konvertierung der KVK 6
+einer eGK oder durch die korrekte Konvertierung der KVK
 
-der Pilotierung zum VSDM 2.0
+6 Enthält die zwischen KBV und GKV-Spitzenverband abgestimmten Konvertierungsvorgaben.
 
 -Ä sowie die Technische Anlage zu
+
+Anlage 4a BMV-Ä sowie die Technische Anlage zu -Datenfelder, vorliegt.
+
+der Pilotierung zum VSDM 2.0
 
 VSDM 2.0 in der jeweils
 
 der Pilotierung zum VSDM 2.0 6  transformieren.
-
--Ä sowie die Technische Anlage zu -Datenfelder, vorliegt.
-
-Enthält die zwischen KBV und GKV-Spitzenverband abgestimmten Konvertierungsvorgaben.
 
 
 ---
@@ -2039,7 +2055,9 @@ Unabhängig davon, ob die Daten originär von einer eingelesenen eGK stammen ode
 
 **KP2-121** Übertragung eGK-Daten bei Versicherten der BPol
 
-Die Software muss sicherstellen, dass sobald für einen Versicherten der Bundespolizei Heilfürsorge (BPol)  eine eGK eingelesen wurde, keine weiteren veralteten KVKs mehr eingelesen werden können.
+Die Software muss sicherstellen, dass sobald für einen Versicherten der Bundespolizei Heilfürsorge (BPol)
+
+eine eGK eingelesen wurde, keine weiteren veralteten KVKs mehr eingelesen werden können.
 
 **Begründung:**
 
@@ -2733,7 +2751,9 @@ verändern.
 
 **Bedingung:**
 
-Ausgenommen von der Umsetzung sind alle Softwaresysteme, die nicht an  der gematik teilnehmen.
+Ausgenommen von der Umsetzung sind alle Softwaresysteme, die nicht an der Pilotierung zum VSDM 2.0
+
+der gematik teilnehmen.
 
 **Hinweis:**
 
@@ -2743,7 +2763,9 @@ Ausgenommen von der Umsetzung sind alle Softwaresysteme, die nicht an  der gemat
 
 **KP2-187** Umsetzung der Vorgaben der gematik zur Clientsystem-Schnittstelle zum VSDM 2.0
 
-Die Software setzt die Anforderungen TI bzw. den für VSDM 2 benötigten Diensten sicherstellen, und weist die Umsetzung nach.
+Die Software setzt die Anforderungen um, die die Interoperabilität zwischen den Primärsystemen und der
+
+TI bzw. den für VSDM 2 benötigten Diensten sicherstellen, und weist die Umsetzung nach.
 
 **Begründung:**
 
@@ -2751,15 +2773,21 @@ Die einheitliche Umsetzung der Clientsystem-Schnittstelle zum VSDM 2.0 durch all
 
 **Akzeptanzkriterium:**
 
-Die Software setzt die Vorgaben der gematik
+Die Software setzt die Vorgaben der gematik aus dem Steckbrief gemSST_CS_VSDM_2 um.
 
 **Bedingung:**
 
-Ausgenommen von der Umsetzung sind alle Softwaresysteme, die nicht an  gematik teilnehmen.
+Ausgenommen von der Umsetzung sind alle Softwaresysteme, die nicht an Pilotierung zum VSDM 2.0 der  gematik teilnehmen.
 
 **Hinweis:**
 
-1. Über den Start der Pilotierung wird die gematik informieren.  2. Im Rahmen des allgemeinen Rollout Arzt-Patientenkontaktes verpflichtet die Vorgaben der aus dem Steckbrief  umzusetzen und der KBV die erfolgreiche Umsetzung mittel Bestätigungsschreiben der gematik  nachzuweisen.  Die KBV wird die betroffenen Softwarehersteller hierzu direkt anschreiben.
+1. Über den Start der Pilotierung wird die gematik informieren.
+
+2. Im Rahmen des allgemeinen Rollouts des VSDM 2.0 sind alle Softwarehersteller mit Unterstützung des
+
+Arzt-Patientenkontaktes verpflichtet die Vorgaben der aus dem Steckbrief gemSST_CS_VSDM_2
+
+umzusetzen und der KBV die erfolgreiche Umsetzung mittel Bestätigungsschreiben der gematik  nachzuweisen.  Die KBV wird die betroffenen Softwarehersteller hierzu direkt anschreiben.
 
 2.2.1.11 Kennzeichnung eines Patienten als „gebührenfrei“
 
@@ -2771,21 +2799,9 @@ Die Software stellt sicher, dass die Zuzahlungsbefreiung für einen Patienten sp
 
 **Begründung:**
 
-Versicherte der gesetzlichen Krankenkassen müssen sich an den Ausgaben für ihre Gesundheit in Form von  Zuzahlungen beteiligen. Wenn die Zuzahlungen die persönliche Belastungsgrenze erreicht haben, erfolgt  eine Zuzahlungsbefreiung für das laufende Jahr. Dies ist vom Arzt auf den entsprechenden  Verordnungsformularen zu kennzeichnen.
+Versicherte der gesetzlichen Krankenkassen müssen sich an den Ausgaben für ihre Gesundheit in Form von
 
-um, die die Interoperabilität zwischen den Primärsystemen und der
-
-aus dem Steckbrief gemSST_CS_VSDM_2 um.
-
-s des VSDM 2.0 sind alle Softwarehersteller mit
-
-der Pilotierung zum VSDM 2.0
-
-Pilotierung zum VSDM 2.0 der
-
-Unterstützung des
-
-gemSST_CS_VSDM_2
+Zuzahlungen beteiligen. Wenn die Zuzahlungen die persönliche Belastungsgrenze erreicht haben, erfolgt  eine Zuzahlungsbefreiung für das laufende Jahr. Dies ist vom Arzt auf den entsprechenden  Verordnungsformularen zu kennzeichnen.
 
 
 ---
@@ -2802,9 +2818,7 @@ Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme ohne APK.
 
 **KP2-191** Automatische Zuzahlungsbefreiung für Kinder und Jugendliche
 
-Die Software stellt sicher, dass gesetzlich versicherte Patienten unter 18 Jahren im System, mit Ausnahme
-
-von Muster 4 (Verordnung einer Krankenbeförderung), automatisch als „gebührenfrei“ verwaltet werden.
+Die Software stellt sicher, dass gesetzlich versicherte Patienten unter 18 Jahren im System, mit Ausnahme  von Muster 4 (Verordnung einer Krankenbeförderung), automatisch als „gebührenfrei“ verwaltet werden.
 
 **Begründung:**
 
@@ -2832,9 +2846,7 @@ Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme ohne APK.
 
 **KP2-195** Trennung der Patientendaten des ambulanten und stationären Bereichs
 
-Abrechnungssoftware, die im ambulanten und im stationären Bereich eingesetzt werden kann, muss  sicherstellen, dass Patientenstammdaten im stationären und ambulanten Bereich getrennt voneinander
-
-verarbeitet werden.
+Abrechnungssoftware, die im ambulanten und im stationären Bereich eingesetzt werden kann, muss  sicherstellen, dass Patientenstammdaten im stationären und ambulanten Bereich getrennt voneinander  verarbeitet werden.
 
 **Erläuterung:**
 
@@ -2865,29 +2877,23 @@ IK als Suchschlüssel
 
 **P2-200** IK als Suchschlüssel für einen Kostenträger
 
-1. Die 9-stellige Krankenkassennummer (IK) der Versichertenkarte13 oder der vom Fachdienst VSDM 2.0
-
-abgerufenen Versichertenstammdaten muss als Suchschlüssel für einen Kostenträger verwendet
+1. Die 9-stellige Krankenkassennummer (IK) der Versichertenkarte abgerufenen Versichertenstammdaten muss als Suchschlüssel für einen Kostenträger verwendet
 
 werden, unabhängig davon, ob  a) das IK über die Versichertenkarte eingelesen
 
-b) oder das IK aus den vom Fachdienst VSDM 2.0 abgerufenen Versichertenstammdaten übernommen
+b) oder das IK aus den vom Fachdienst VSDM 2.0 abgerufenen Versichertenstammdaten übernommen  c) oder (z.B. im Ersatzverfahren) manuell erfasst wird (siehe P2-410).
 
-c) oder (z.B. im Ersatzverfahren) manuell erfasst wird (siehe P2-410).
+2. Ist das IK (unter Element /kostentraeger/ik_liste/ik/@V
 
-2. Ist das IK (unter Element /kostentraeger/ik_liste/ik/@V in der KT-Stammdatei14 vorhanden,
-
-dann muss ein Kostenträger-Stammsatz (/kostentraeger/@V der KT-Stammdatei(=VKNR)) eindeutig
+dann muss ein Kostenträger-Stammsatz (/kostentraeger/@V
 
 identifiziert werden können.  3. Die VKNR von der **Krankenversichertenkarte** darf nicht für die Abrechnung verwendet werden.
 
-4. Wenn ein Element ////AbrechnenderKostentraeger/Kostentraegerkennung auf der eGK
+4. Wenn ein Element ////AbrechnenderKostentraeger/Kostentraegerkennung
 
-existiert oder ein entsprechendes Element Coverage.payor[1].identifier:IKNR in den vom
+existiert oder ein entsprechendes Element Coverage.payor[1].identifier:IKNR
 
-Fachdienst VSDM 2.0 abgerufenen Versichertenstammdaten existiert, muss verpflichtend dieses IK als
-
-Suchschlüssel für einen Kostenträger (vgl. Mappingtabelle_KVK [KBV_ITA_VGEX_Mapping_KVK]) und
+Fachdienst VSDM 2.0 abgerufenen Versichertenstammdaten existiert Suchschlüssel für einen Kostenträger (vgl. Mappingtabelle_KVK
 
 für die weitere Verarbeitung und Ausstellung der vertragsärztlichen Formulare gemäß der
 
@@ -2903,11 +2909,23 @@ IK ist gültig
 
 IK sei ein IK von der Versichertenkarte oder aus den vom Fachdienst VSDM 2.0 abgerufenen
 
-x Versichertenstammdaten und unter Element  Stammdatei vorhanden
+x Versichertenstammdaten und unter Element /kostentraeger/ik_liste/ik/@V
+
+Stammdatei vorhanden
 
 13 Ein Institutionskennzeichen besteht grundsätzlich aus einer neunstelligen Ziffernfolge. Auf der KVK wird ein um die Stellen 1
 
-/kostentraeger/ik_liste/ik/@V in der KT-
+13 oder der vom Fachdienst VSDM 2.0
+
+in der KT-Stammdatei14 vorhanden,
+
+der KT-Stammdatei(=VKNR)) eindeutig
+
+auf der eGK  in den vom
+
+, muss verpflichtend dieses IK als  [KBV_ITA_VGEX_Mapping_KVK]) und
+
+in der KT-
 
 -2 gekürztes 7-
 
@@ -3006,7 +3024,7 @@ c) Es handelt sich hierbei um ein optionales Element.
 
 ### analog zu „Fall 1 – IK ist gültig“ (siehe Funktio
 
-### aufnehmenden Kostenträgers. Für die Weiterverarbeitung sind dementsprechend die Eigenschaften des aufnehmenden Kostenträges relevant.
+### aufnehmenden Kostenträgers. Für die Weiterverarbeitung sind aufnehmenden Kostenträges relevant.
 3. Für die ADT-Abrechnung gilt unter Berücksichtigung von Ziffer (2): a) "VKNR" des aufnehmenden (neuen) Kostenträgers ist zu verwenden. b) "IK" des ursprünglichen16 (alten) Kostenträgers ist zu verwenden.
 
 c) Sofern eine Versichertenkarte eingelesen wurde 2.0 erfolgt ist , gilt zusätzlich Funktion
@@ -3038,8 +3056,7 @@ y
 
 n P2-210) überprüft werden. Es gelten die KTAB des
 
-### oder ein erfolgreicher Abruf vom Fachdienst VSDM
-
+### dementsprechend die Eigenschaften des oder ein erfolgreicher Abruf vom Fachdienst VSDM
 P2-136 „Name des Kostenträgers von der Versichertenkarte“.
 
 ### aufnehmender Kostenträger
@@ -3069,7 +3086,9 @@ pronova BKK (für bspw. KTAB=“00“)
 
 **Beispiel Fusionskette:**
 
-Ist der aufnehmende Kostenträger wiederum selbst beendet und besitzt einen aufnehmenden  Kostenträger, spricht man von einer sog. “Fusionskette“. Systemseitig wird dann das Ende der Fusionskette  ermittelt, bis keine Existenzbeendigung mehr durch Fusion angezeigt wird.
+Ist der aufnehmende Kostenträger wiederum selbst beendet und besitzt einen aufnehmenden  Kostenträger, spricht man von einer sog. “Fusionskette“. Systemseitig wird dann das Ende der Fusionskette
+
+ermittelt, bis keine Existenzbeendigung mehr durch Fusion angezeigt wird.
 
 **BEISPIEL FUSIONSKETTE**
 
@@ -3206,15 +3225,13 @@ Stammdatei vorhanden
 
 -Ä (Vertrag über den Datenaustausch
 
-/kostentraeger/ik_liste/ik/@V
-
-definiert.
-
-in der KT-
+/kostentraeger/ik_liste/ik/@V in der KT-
 
 abgelaufen **und** der
 
 **A**
+
+definiert.
 
 -Abrechnung zu Lasten
 
@@ -3247,7 +3264,7 @@ Die Software muss die Gültigkeit eines Kostenträgers in dem, für die Arztprax
 
 **Begründung:**
 
-Diese Anforderung resultiert aus Regelungen durch regionale Verträge zwischen einem  und der/den Kassenärztlichen Vereinigung(en).
+Diese Anforderung resultiert aus Regelungen durch regionale Verträge zwischen einem der Kostenträger  und der/den Kassenärztlichen Vereinigung(en).
 
 Aufgrund dieser regionalen Verträge kann ein Kostenträger lediglich in einem (oder mehreren) KV Bereich(en), und nicht grundsätzlich bundesweit abgerechnet werden.
 
@@ -3272,8 +3289,6 @@ x Versichertenstammdaten und unter Element  kostentraeger/ik_liste/ik/@V in der 
 kostentraeger/unz_kv_geltungsbereich_liste/ unz_kv_geltungsbereich/@V aufgeführten KV-Bereich unzulässig ist.  3. Die Software unterstützt keine direkte Weiterverarbeitung zum Zwecke der ADT dieses Kostenträgers.  4. Die Software unterstützt nicht die Ausstellung vertragsärztlicher Formulare zu Lasten dieses  Kostenträgers bzw. den Ausdruck von BFB-Formularen.
 
 IK ist gültig“ (siehe -Bereich
-
-der Kostenträger
 
 dem unter -Abrechnung zu Lasten
 
@@ -3782,7 +3797,9 @@ Sonstige Kostenträger ohne Versichertenkarte: Gültigkeitszeitraum von ... bis 
 
 **KP2-404** Unterstützung des Empfangs einer elektronischen Ersatzbescheinigung (eEB) von  Krankenkassen
 
-Die Software muss den Empfang einer eEB von Krankenkassen gemäß den Regelungen der Technischen  Anlage eEB unterstützen.
+Die Software muss den Empfang einer eEB von Krankenkassen gemäß den Regelungen der Technischen
+
+Anlage eEB unterstützen.
 
 **Begründung:**
 
@@ -4160,7 +4177,9 @@ a) Wohnt der Patient im Inland, muss eine dem Patienten zugehörige Postleitzahl
 
 ---
 
-Falls keine „gültige“ PLZ ermittelt werden kann, dann wird in den ADT Feld 3112 bzw. 3121 (PLZ/PostfachPLZ) die Postleitzahl des Praxissitzes des behandelnden Arztes  (Inhalt Feld 0215, Satzart „besa“) übernommen. **Hinweis:**
+Falls keine „gültige“ PLZ ermittelt werden kann, dann wird in den ADT Feld 3112 bzw. 3121 (PLZ/PostfachPLZ) die Postleitzahl des Praxissitzes des behandelnden Arztes  (Inhalt Feld 0215, Satzart „besa“) übernommen.
+
+**Hinweis:**
 
 Sofern eine „neu vergebene“ Postleitzahl des Patienten vorliegt, die noch nicht in der PLZ Stammdatei26 enthalten ist und die Postleitzahl des Praxissitzes des behandelnden Arztes entspricht
 
@@ -4172,9 +4191,11 @@ Dieser Ersatzwert dient ausschließlich Abrechnungszwecken, die tatsächliche PL
 
 **Wichtiger Hinweis:**
 
-Die Postleitzahl, die im Rahmen des Wohnortprinzips in den  wird, ist eine reine Verwaltungsinformation.
+Die Postleitzahl, die im Rahmen des Wohnortprinzips in den ADT wird, ist eine reine Verwaltungsinformation.
 
-D.h. der Arzt muss NICHT in seiner medizinischen Patientendokumentation die PLZ des Patienten (z.B. für  den Briefversand oder noch schlimmer: für den Notfall) komplett durch eine Pseudonummer ersetzen. Die  Anwendungssoftware muss sicherstellen, dass in die Karteikarte) die reale PLZ des Patienten gespeichert ist. Diese reale Postleitzahl ist auch bei dem Ausdruck  des Personalienfeldes von vertragsärztlichen Formularen zu verwenden.
+D.h. der Arzt muss NICHT in seiner medizinischen Patientendokumentation die PLZ des Patienten (z.B. für  den Briefversand oder noch schlimmer: für den Notfall) komplett durch eine Pseudonummer ersetzen. Die  Anwendungssoftware muss sicherstellen, dass in diesen Fällen in der Patientendokumentation (=
+
+Karteikarte) die reale PLZ des Patienten gespeichert ist. Diese reale Postleitzahl ist auch bei dem Ausdruck  des Personalienfeldes von vertragsärztlichen Formularen zu verwenden.
 
 **2.2.6** **Geschlecht des Patienten**
 
@@ -4194,19 +4215,13 @@ Die vertragliche Grundlage dieser Anforderung sind die Anlage 4a BMV Anlage 4a (
 
 1. Die Software belegt das Eingabefeld des Geschlechts (Feld 3110) nicht mit einem Defaultwert vor. a) Eine automatisierte Bestimmung des Geschlechts anhand des Vornamen oder weiterer  identifizierender Merkmale kann von der Software als Unterstützung des Anwenders durchgeführt  werden. Der Anwender muss jederzeit die Möglichkeit haben den vorgeschlagenen Wer überschreiben zu können.
 
-26 aufgrund unterschiedlicher Datenlieferungszyklen der Post bzw. KBV
-
-27 Dies gilt auch, wenn die Praxis beispielsweise neu eröffnet wurde.
-
-28 z.B. wenn ein entsprechender Wohnsitzländercode angegeben worden ist.
+26 aufgrund unterschiedlicher Datenlieferungszyklen der Post bzw. KBV 27 Dies gilt auch, wenn die Praxis beispielsweise neu eröffnet wurde. 28 z.B. wenn ein entsprechender Wohnsitzländercode angegeben worden ist.
 
 -Abrechnungsdatensatz in das
 
 27 in das Feld
 
-ADT-Abrechnungsdatensatz übernommen
-
-sen Fällen in der Patientendokumentation (=
+-Abrechnungsdatensatz übernommen
 
 -Ä sowie die Technische Anlage zu
 
@@ -4223,9 +4238,7 @@ das Feld 3110 übernehmen (vgl. auch P2-105).  3. Falls Versichertenstammdaten v
 
 Technischen Anlage zur Anlage 4a“ [KBV_ITA_VGEX_Mapping_KVK] in das Feld 3110 übernehmen.
 
-4. Falls eine KVK eingelesen wird muss die Software vom Anwender die Eingabe einer Geschlechtsangabe
-
-fordern.  5. Im Rahmen der manuellen Erfassung bzw. beim Ersatzverfahren, muss die Software vom Anwender die  Eingabe einer Geschlechtsangabe fordern.
+4. Falls eine KVK eingelesen wird muss die Software vom Anwender die Eingabe einer Geschlechtsangabe  fordern.  5. Im Rahmen der manuellen Erfassung bzw. beim Ersatzverfahren, muss die Software vom Anwender die  Eingabe einer Geschlechtsangabe fordern.
 
 6. Die Software muss das vom Anwender erfasste Geschlecht im Feld 3110 übertragen.
 
@@ -4241,7 +4254,9 @@ Damit Anwender die Möglichkeiten haben, neue Funktionen in der Software oder al
 
 Krankenkassen, welche bspw. den Praxen für Anbindungstests von TI-Fachanwendungen im Wirkbetrieb
 
-Daten von fiktiven Versicherten zur Verfügung stellen, erwarten, dass für diese fiktiven Versicherten keine  realen vertragsärztliche Leistungen abgerechnet werden. Um sicherzustellen, dass eine versehentliche  Abrechnung von Leistungen für fiktive Versicherte nicht erfolgt, soll die Software die Übernahme von  Abrechnungsdaten fiktiver Versicherter in die ADT-Abrechnungsdatensätze unterbinden.
+Daten von fiktiven Versicherten zur Verfügung stellen, erwarten, dass für diese fiktiven Versicherten keine  realen vertragsärztliche Leistungen abgerechnet werden. Um sicherzustellen, dass eine versehentliche
+
+Abrechnung von Leistungen für fiktive Versicherte nicht erfolgt, soll die Software die Übernahme von  Abrechnungsdaten fiktiver Versicherter in die ADT-Abrechnungsdatensätze unterbinden.
 
 **Akzeptanzkriterium:**
 
@@ -4257,9 +4272,7 @@ Bestätigung des Anwenders einzuholen.
 
 **KONDITIONALE PFLICHTFUNKTION ADT**
 
-**KP2-500** Angabe der abzurechnenden „Satzarten 010x" bzw. der "Scheinuntergruppe" beim erstmaligen
-
-Kontakt im Quartal
+**KP2-500** Angabe der abzurechnenden „Satzarten 010x" bzw. der "Scheinuntergruppe" beim erstmaligen  Kontakt im Quartal
 
 Beim **erstmaligen Einlesen der Versichertenkarte** oder beim erstmaligen erfolgreichen Abruf der
 
@@ -4337,9 +4350,7 @@ direkt dem Zuschlag zugeordnet werden kann.
 
 **P2-501** Anlage weiterer Datensätze „010x“ im Quartal zu demselben Patienten
 
-Die Software muss es dem Anwender ermöglichen bei Bedarf weitere beliebige Datensätze 010x mit
-
-gleicher und/oder abweichender Satzart, Scheinuntergruppe anzulegen, auch wenn der Patient im  laufenden Quartal bereits erfasst wurde.
+Die Software muss es dem Anwender ermöglichen bei Bedarf weitere beliebige Datensätze 010x mit  gleicher und/oder abweichender Satzart, Scheinuntergruppe anzulegen, auch wenn der Patient im  laufenden Quartal bereits erfasst wurde.
 
 **Begründung:**
 
@@ -4355,7 +4366,9 @@ VSDM 2.0 erfolgreich abgerufen werden, muss ein bereits vorhandenes Einlesedatum
 
 **KONDITIONALE PFLICHTFUNKTION ADT**
 
-**KP2-502** Kennzeichnung der „Satzarten 010x" bzw. "Scheinuntergruppe" mit der Vermittlungs /Kontaktart
+**KP2-502** Kennzeichnung der „Satzarten 010x" bzw. "Scheinuntergruppe" mit der Vermittlungs-
+
+/Kontaktart
 
 Die Software muss dem Anwender die Möglichkeit geben, bei der Anlage einer weiteren „Satzart“ bzw.  „Scheinuntergruppe“ gemäß P2-501 die Vermittlungs-/Kontaktart anzugeben.
 
@@ -4550,7 +4563,9 @@ Warnmeldung:  i. Warnmeldung: „*Es ist kein zeitgestaffelter Zuschlag mehr abr
 
 *Frist verstrichen ist.*
 
-4. Die Software muss dem Anwender die Möglichkeit bieten, die Übernahme des zeitgestaffelten Zuschlags  in die Abrechnung zu bestätigen.  a) Der vorgeschlagene zeitgestaffelte Zuschlag kann vom Anwender immer übersteuert werden.
+4. Die Software muss dem Anwender die Möglichkeit bieten, die Übernahme des zeitgestaffelten Zuschlags
+
+in die Abrechnung zu bestätigen.  a) Der vorgeschlagene zeitgestaffelte Zuschlag kann vom Anwender immer übersteuert werden.
 
 **Bedingung:**
 
@@ -4668,7 +4683,7 @@ Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme ohne APK.
 
 **K2-506** Anbindung des Webservice-Kollegensuche
 
-Die Software kann dem Anwender die Funktionen auf Basis des  Rahmen der Arztsuche zur Verfügung stellen.
+Die Software kann dem Anwender die Funktionen auf Basis des KBV Rahmen der Arztsuche zur Verfügung stellen.
 
 **Begründung:**
 
@@ -4692,7 +4707,7 @@ KP2-509
 
 lt wurde, zu übermitteln (vgl. § 295 Absatz 1 Satz
 
-KBV-Webservices „Kollegensuche“ im
+Webservices „Kollegensuche“ im
 
 
 ---
@@ -4701,7 +4716,7 @@ KBV-Webservices „Kollegensuche“ im
 
 **KP2-507** Suchfunktion für die Kollegensuche
 
-Die Software stellt dem Anwender Suchfunktionen auf Grundlage der Daten in der „Kollegensuche“ zur  Verfügung.
+Die Software stellt dem Anwender Suchfunktionen auf Grundlage der  Verfügung.
 
 **Begründung:**
 
@@ -4747,7 +4762,9 @@ Die Software muss dem Anwender das Anlegen einer Favoritenliste ermöglichen. In
 
 1. Die Software muss dem Anwender die Anlage einer „Favoritenliste“ ermöglichen.
 
-Festlegungen für das PVS“ des
+Daten in der „Kollegensuche“ zur
+
+„Festlegungen für das PVS“ des
 
 aus einem Suchergebnis in der
 
@@ -4795,7 +4812,7 @@ Die Software muss dem Anwender die Bearbeitung von Abrechnungsdaten aus verschie
 
 **Begründung:**
 
-Da die Zeiträume zur Einreichung der Abrechnung nicht direkt auf den  Software dem Anwender die Bearbeitung von Abrechnungsdaten aus verschiedenen Quartalen  quartalstreu ermöglichen.
+Da die Zeiträume zur Einreichung der Abrechnung nicht direkt auf den Quartalsgrenzen liegen, muss die  Software dem Anwender die Bearbeitung von Abrechnungsdaten aus verschiedenen Quartalen  quartalstreu ermöglichen.
 
 **Akzeptanzkriterien:**
 
@@ -4810,8 +4827,6 @@ Da die Zeiträume zur Einreichung der Abrechnung nicht direkt auf den  Software 
 Die Software muss dem Anwender die Möglichkeit bieten, Behandlungsfälle aus Vorquartalen „Nachzüglerfälle“) in die aktuelle Quartalsabrechnung zu übernehmen.
 
 Suchergebnisses auf - bzw. auf das gesamte
-
-Quartalsgrenzen liegen, muss die
 
 n Folgequartalen abzurechnen.
 
@@ -4842,7 +4857,9 @@ Die Kombination von VKNR und KTAB identifiziert einen Kostenträger eindeutig.
 
 **Akzeptanzkriterium:**
 
-1. Falls sich die VKNR (FK 4104) -KTAB (FK 4106) -Kombination eines Patienten im laufenden Quartal  ändert, muss die Software einen weiteren Datensatz „010x" erzeugen. a) Die Software darf keinen neuen Datensatz „010x“ anlegen, wenn sich nur die Kostenträgerkennung  (FK 4111), jedoch nicht auch gleichzeitig die Abrechnungs
+1. Falls sich die VKNR (FK 4104) -KTAB (FK 4106) -Kombination eines Patienten im laufenden Quartal  ändert, muss die Software einen weiteren Datensatz „010x" erzeugen. a) Die Software darf keinen neuen Datensatz „010x“ anlegen, wenn sich nur die Kostenträgerkennung
+
+(FK 4111), jedoch nicht auch gleichzeitig die Abrechnungs
 
 2. Die Software kann den Anwender über die Neuanlage eines Datensatzes „010x" informieren. 3. Bei der Anlage des neuen Datensatzes aufgrund eines Kassenwechsels darf keine Änderungen des  bereits vorhandenen Einlesedatums der Versichertenkarte (FK 4109) mehr stattfinden. Eine  Aktualisierung des Einlesedatums findet nur noch für den neusten Datensatz a) Die Software muss das Einlesedatum für die jeweiligen Fälle „datensatzgetreu“ (ggf. mehrfach)  speichern und übertragen (vgl. P 2-150).
 
@@ -4893,7 +4910,9 @@ Neue VKNR: 02605
 
 **P2-535** Besondere Personengruppen - Wechsel im Quartal
 
-Falls sich im laufenden Quartal die Besondere Personengruppe (FK 4131) desselben Patienten derselben  Kasse ändert, muss die Software automatisch einen neuen Datensatz „010x“ für die Abrechnung anlegen.
+Falls sich im laufenden Quartal die Besondere Personengruppe (FK 4131) desselben Patienten derselben
+
+Kasse ändert, muss die Software automatisch einen neuen Datensatz „010x“ für die Abrechnung anlegen.
 
 **Begründung:**
 
@@ -4909,9 +4928,7 @@ Trennung der Abrechnungsdaten erforderlich ist.
 
 2. Die Software kann den Anwender über die Neuanlage eines Datensatzes „010x" informieren.
 
-3. Bei der Anlage des neuen Datensatzes aufgrund der Änderung der Besonderen Personengruppe darf  keine Änderungen des bereits vorhandenen Einlesedatums der Versichertenkarte (FK 4109) mehr
-
-stattfinden. Eine Aktualisierung des Einlesedatums findet nur noch für den neusten Datensatz statt.
+3. Bei der Anlage des neuen Datensatzes aufgrund der Änderung der Besonderen Personengruppe darf  keine Änderungen des bereits vorhandenen Einlesedatums der Versichertenkarte (FK 4109) mehr  stattfinden. Eine Aktualisierung des Einlesedatums findet nur noch für den neusten Datensatz statt.
 
 a) Die Software muss das Einlesedatum für die jeweiligen Fälle „datensatzgetreu“ (ggf. mehrfach)  speichern und übertragen (vgl. P 2-150).
 
@@ -4923,9 +4940,7 @@ Falls sich im laufenden Quartal die Versichertenart (FK 3108) desselben Patiente
 
 **Begründung:**
 
-Gemäß § 21 Absatz 1 Satz 4 BMV-Ä ist im Fall eines Wechsels der Versichertenart im Quartal die  Versichertenart bei der Abrechnung zugrunde zu legen, die bei Quartalsbeginn besteht. Zur Dokumentation
-
-des Wechsels der Versichertenart erfolgt eine Trennung der Datensätze.
+Gemäß § 21 Absatz 1 Satz 4 BMV-Ä ist im Fall eines Wechsels der Versichertenart im Quartal die  Versichertenart bei der Abrechnung zugrunde zu legen, die bei Quartalsbeginn besteht. Zur Dokumentation  des Wechsels der Versichertenart erfolgt eine Trennung der Datensätze.
 
 **Akzeptanzkriterium:**
 
@@ -4968,7 +4983,9 @@ Quartals aktualisiert werden (vgl. P2-150).
 
 Die amtlichen Daten von der Versichertenkarte oder die vom Fachdienst VSDM 2.0 abgerufenen amtlichen
 
-Daten sind für die Abrechnung zu verwenden. Für die Arztpraxis sind dagegen diejenigen Daten interessant,  unter der ein Patient erreichbar ist.
+Daten sind für die Abrechnung zu verwenden. Für die Arztpraxis sind dagegen diejenigen Daten interessant,
+
+unter der ein Patient erreichbar ist.
 
 Für die PVS empfiehlt es sich daher, u.U. zwei Datensätze zu verwalten: z.B. die amtliche Adresse aus der
 
@@ -5057,9 +5074,7 @@ Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme ohne APK.
 
 **P2-558** Praxisrelevante Namens- und Adressänderungen
 
-Die Software muss bei Namens- und/oder Adressänderungen im laufenden Quartal, die von den Daten auf
-
-der Versichertenkarte oder von den vom Fachdienst VSDM 2.0 abgerufenen Daten abweichen, fähig sein
+Die Software muss bei Namens- und/oder Adressänderungen im laufenden Quartal, die von den Daten auf  der Versichertenkarte oder von den vom Fachdienst VSDM 2.0 abgerufenen Daten abweichen, fähig sein
 
 die abweichenden Daten zu speichern und zu verwalten, darf diese jedoch nicht in die Abrechnungsdatei  übertragen.
 
@@ -5096,9 +5111,9 @@ Die Software muss dem Anwender die Eingabe, Speicherung und Übertragung des „
 
 Gemäß „Richtlinien der Kassenärztlichen Bundesvereinigung für den Einsatz von IT-Systemen in der
 
-Arztpraxis zum Zweck der Abrechnung gemäß § 295 Abs. 4 SGB V“, § 1 Datenverarbeitungstechnisches  Abrechnungsverfahren, Absatz 1 müssen alle für die Abrechnung relevanten Daten elektronisch übertragen
+Arztpraxis zum Zweck der Abrechnung gemäß § 295 Abs. 4 SGB V“, § 1 Datenverarbeitungstechnisches
 
-werden können.
+Abrechnungsverfahren, Absatz 1 müssen alle für die Abrechnung relevanten Daten elektronisch übertragen  werden können.
 
 Gemäß [KBV_Erläuterung_Vordrucke], vgl., Muster 6, Punkt 8. bzw. Muster 10, Punkt 13. darf der den  Auftrag ausführende Arzt nur die Leistungen durchführen, die unter „Auftrag“ angegeben sind.
 
@@ -5106,7 +5121,9 @@ Rechtsgrundlage ist des Weiteren § 297 Abs. 2 SGB V.
 
 **Akzeptanzkriterium:**
 
-1. Falls eine Überweisung nach Muster 6 mit markiertem Ankreuzfeld „Ausführung von  Auftragsleistungen“ (= Satzart 0102 mit Scheinuntergruppe 21) oder nach Muster 10 (= Satzart 0102 mit  Scheinuntergruppe 27) erfasst wird, muss die Software vom Anwender, die Übernahme des originären
+1. Falls eine Überweisung nach Muster 6 mit markiertem Ankreuzfeld „Ausführung von
+
+Auftragsleistungen“ (= Satzart 0102 mit Scheinuntergruppe 21) oder nach Muster 10 (= Satzart 0102 mit  Scheinuntergruppe 27) erfasst wird, muss die Software vom Anwender, die Übernahme des originären
 
 Auftragstextes des überweisenden Arztes aus den Zeilen „Auftrag“ des jeweiligen Musters fordern.
 
@@ -5131,7 +5148,9 @@ unterstützen.
 
 **KP2-561** „Auftrag“ (Feld FK 4205) bei Muster 39
 
-Die Software muss dem Anwender die Eingabe, Speicherung und Übertragung des „originären  Auftragstextes“ des überweisenden Gynäkologen aus dem Bereich „Auftrag“ des
+Die Software muss dem Anwender die Eingabe, Speicherung und Übertragung des „originären
+
+Auftragstextes“ des überweisenden Gynäkologen aus dem Bereich „Auftrag“ des Musters 39
 
 **Begründung:**
 
@@ -5155,9 +5174,7 @@ Zyto = zytologische Untersuchung
 
 HPV = HPV-Test  KoTest = Ko-Test
 
-Die Software setzt kombiniert die beiden Informationen mit einem Bindestrich „
-
-die Abrechnung im Feld FK 4205 (bspw. „P HPV“)
+Die Software setzt kombiniert die beiden Informationen mit einem Bindestrich „ die Abrechnung im Feld FK 4205 (bspw. „P HPV“)
 
 b) Die Software kann dem Anwender auch die direkte Erfassung der Wert P HPV, A-Zyto oder A-KoTest ermöglichen
 
@@ -5167,9 +5184,7 @@ b) Die Software kann dem Anwender auch die direkte Erfassung der Wert P HPV, A-Z
 
 automatisch in das Feld FK 4205 (KVDT) übernehmen und mit der Abrechnung übertragen.
 
-29 Relevanter Auszug aus Muster 39:
-
-Musters 3929 ermöglichen.
+29 Relevanter Auszug aus Muster 39: 29 ermöglichen.
 
 -Karzinomen gestartet. Die  -RL). Die
 
@@ -5190,7 +5205,9 @@ unterstützen.
 
 **KP2-562** „Ausstellungsdatum“ (FK 4102) bei Muster 10 und 10A
 
-Im Fall einer Überweisung für in-vitro-diagnostische Auftragsleistungen mittels Muster 10 oder einer  Laborüberweisung mittels Muster 10a, muss im Rahmen der Abrechnung das Ausstellungsdatum im Feld  4102 im Abrechnungsdatensatz übertragen werden.
+Im Fall einer Überweisung für in-vitro-diagnostische Auftragsleistungen mittels Muster 10 oder einer
+
+Laborüberweisung mittels Muster 10a, muss im Rahmen der Abrechnung das Ausstellungsdatum im Feld  4102 im Abrechnungsdatensatz übertragen werden.
 
 **Begründung:**
 
@@ -5208,7 +5225,7 @@ Ausstellungsdatum vom jeweiligen Muster zu erfassen.
 
 **Bedingung:**
 
-Die Umsetzungspflicht besteht für alle Systeme, die den ADT-Datensatz „Überweisung“ (Satzart 0102)
+Die Umsetzungspflicht besteht für alle Systeme, die den ADT Datensatz „Überweisung“ (Satzart 0102)
 
 unterstützen.
 
@@ -5273,9 +5290,7 @@ a) Entweder das Ausstellungsdatum  b) Oder das Probeneingangsdatum.
 
 a) Falls ein Probenentnahmedatum zu einer Überweisung nach Akzeptanzkriterium 1 bekannt ist, kann  die Software das Probenentnahmedatum für den Anwender wie folgt automatisch erfassen und im  Feld FK 4214 („Behandlungstag bei IVD Leistungen“) mit der Abrechnung übertragen:
 
-i. Falls die Auftragsinformationen mittels der Satzart 8215 „Auftrag“ (LDT 3) in die Software
-
-importiert werden und in der Satzart 8215 das Feld FK 8219  (Timestamp_Materialabnahme_entnahme) im Objekt Obj_Material (Obj_0037) vorhanden ist,  kann der Wert des Feldes FK 7278 (Datum des Timestamp) im Objekt Obj_Timestamp  (Obj_0054) erfasst und übertragen werden.
+i. Falls die Auftragsinformationen mittels der Satzart 8215 „Auftrag“ (LDT 3) in die Software  importiert werden und in der Satzart 8215 das Feld FK 8219  (Timestamp_Materialabnahme_entnahme) im Objekt Obj_Material (Obj_0037) vorhanden ist,  kann der Wert des Feldes FK 7278 (Datum des Timestamp) im Objekt Obj_Timestamp  (Obj_0054) erfasst und übertragen werden.
 
 ii. Falls die Auftragsinformationen mittels der BFB-Formulare 10/E oder 10L/E oder 10A/E erfolgt,
 
@@ -5290,25 +5305,17 @@ b) Falls kein Probenentnahmedatum zu einer Überweisung vorhanden ist, kann die 
 
 ---
 
-i. Falls die Auftragsinformationen mittels der Satzart 8215 „Auftrag“ (LDT 3) in die Software  importiert werden und in der Satzart 8215 das Feld FK 8213  (Timestamp_Erstellung_Untersuchungsanforderung) im Objekt Obj_Auftragsinformation  (Obj_0013) zur Verfügung steht, kann der Wert des Feldes FK 7278 (Datum des Timestamp) im
-
-Objekt Obj_Timestamp (Obj_0054) erfasst und übertragen werden.
-
-ii. Falls die Übernahme der Auftragsinformationen mittels der BFB-Formulare 10/E oder 10L/E oder
-
-10A/E oder 39a/E erfolgt, kann der Wert des Behandlungstages aus dem Barcodefeld des  Ausstellungsdatums erfasst und übertragen werden:
+i. Falls die Auftragsinformationen mittels der Satzart 8215 „Auftrag“ (LDT 3) in die Software  importiert werden und in der Satzart 8215 das Feld FK 8213  (Timestamp_Erstellung_Untersuchungsanforderung) im Objekt Obj_Auftragsinformation  (Obj_0013) zur Verfügung steht, kann der Wert des Feldes FK 7278 Objekt Obj_Timestamp (Obj_0054) erfasst und übertragen werden. ii. Falls die Übernahme der Auftragsinformationen mittels der BFB 10A/E oder 39a/E erfolgt, kann der Wert des Behandlungstages aus dem Barcodefeld des  Ausstellungsdatums erfasst und übertragen werden:
 
 Muster 10/E Barcodefeld 20  Muster 10L/E Barcodefeld 20  Muster 10A/E Barcodefeld 18  Muster 39a/E Barcodefeld 18  Falls die Übernahme der Auftragsinformationen mittels der digitalen Muster 10 oder 10A oder  39a erfolgt, kann der Wert des Behandlungstages aus dem Feld 4102_Ausstellungsdatum  erfasst und übertragen werden.
 
-c) Falls kein Probenentnahmedatum zu einer Überweisung vorhanden ist, kann die Software das  Probeneingangsdatum statt dem Ausstellungsdatum für den Anwender automatisch erfassen und im  Feld FK 4214 („Behandlungstag bei IVD Leistungen“) mit der Abrechnung übertragen.
+c) Falls kein Probenentnahmedatum zu einer Überweisung vorhanden ist, kann die Software das  Probeneingangsdatum statt dem Ausstellungsdatum für den Anwender automatisch erfassen und im  Feld FK 4214 („Behandlungstag bei IVD Leistungen“) mit der Abrechnung über
 
 6. Der Anwender muss bei der automatischen Übernahme des Datums für das Feld FK 4214 die  Möglichkeit haben, dieses Datum anzupassen.
 
-7. Sofern die Erfassung des Datums für das Feld FK 4214 manuell vom Anwender vorgenommen wird, zeigt  die Software dem Anwender die Prioritäten nach Akzeptanzkriterium 3 an.
+7. Sofern die Erfassung des Datums für das Feld FK 4214 manuell vom Anwender vorgenommen wird, zeigt  die Software dem Anwender die Prioritäten nach Akzeptanzkriterium 3 an. 8. Wenn das Datum der FK 4214 größer als ist als das Datum der FK 5000, muss die Software dem
 
-8. Wenn das Datum der FK 4214 größer als ist als das Datum der FK 5000, muss die Software dem
-
-Anwender einen Warnhinweis anzeigen.  Das Datum der FK 4214 darf nicht in der Zukunft liegen.  9. Wenn das Datum der FK 4214 mehr als 60 Tage kleiner ist als das Datum der FK 5000 muss die Software
+Anwender einen Warnhinweis anzeigen.  Das Datum der FK 4214 darf nicht in der Zukunft liegen.  9. Wenn das Datum der FK 4214 mehr als 60 Tage kleiner ist als das Datum der FK 5000
 
 dem Anwender einen Warnhinweis anzeigen.
 
@@ -5324,15 +5331,21 @@ unterstützen.
 
 **KP2-570** Mehrere Überweisungsscheine desselben Patienten
 
-Liegen mehrere Überweisungsscheine desselben Patienten für dasselbe Quartal vor, dann müssen separate
-
-Abrechnungsdatensätze angelegt werden können.
+Liegen mehrere Überweisungsscheine desselben Patienten für dasselbe Quartal vor, dann müssen  Abrechnungsdatensätze angelegt werden können.
 
 **Bedingung:**
 
 Die Umsetzungspflicht besteht für alle Systeme, die den ADT Datensatz „Überweisung“ (Satzart 0102)
 
 unterstützen.
+
+(Datum des Timestamp) im   -Formulare 10/E oder 10L/E oder
+
+tragen.
+
+muss die Software
+
+separate
 
 
 ---
@@ -5599,11 +5612,13 @@ Möglichkeit zu einer abzurechnenden GOP weitere HGNC-Gensymbole (gemäß der An
 
 **KP2-624** Erfassung der Art der Erkrankung
 
-Das Softwaresystem bietet dem Anwender die Möglichkeit, die Art der Erkrankung im Rahmen der  Leistungsdokumentation zu erfassen und mit der Abrechnung zu übertragen
+Das Softwaresystem bietet dem Anwender die Möglichkeit, die Art der Erkrankung im Rahmen der
+
+Leistungsdokumentation zu erfassen und mit der Abrechnung zu übertragen
 
 **Begründung:**
 
-Die Anforderung resultiert aus den EBM-Abrechnungsbestimmungen für die GOPen 11233, 11511 bis  11513, 11516 bis 11518, 11521, 11522, 19421 und 19424, 19451 bis 19453 und 19456
+Die Anforderung resultiert aus den EBM-Abrechnungsbestimmungen für die GOPen 11233, 11511 bis  11513, 11516 bis 11518, 11521, 11522, 11721 bis 11728 und 11730 bis 11732, 19421 und 19424, 19451 bis 19453 und 19456.
 
 **Akzeptanzkriterium:**
 
@@ -5637,10 +5652,10 @@ Leistungsdokumentation **genau** eine Angabe „Art der Erkrankung“ (FK 5079) 
 
 vom Anwender angegebene „Art der Erkrankung“ im Feld FK 5079.
 
-3. Die Software überträgt mit der Abrechnung für die Leistung GOP 11233[G-alpha] nicht das Feld FK 5077.
-
 
 ---
+
+3. Die Software überträgt mit der Abrechnung für die Leistung GOP 11233[G
 
 **Beispiel:**
 
@@ -5656,25 +5671,21 @@ Konstellation 1:
 
 **KONDITIONALE PFLICHTFUNKTION ADT**
 
-**KP2-613** Übermittlung von HGNC-Gensymbol und der Art der Erkrankung zur Abrechnungstransparenz  für die GOPen 11511[G-alpha], 11512[G-alpha], 11516[G-alpha] bis 11518[G-alpha und  11521[G-alpha]30
+**KP2-613** Übermittlung von HGNC-Gensymbol und der Art der Erkrankung zur Abrechnungstransparenz  für die GOPen 11511[G-alpha], 11512[G-alpha], 11516[G-alpha] bis 11518[G-alpha und  11521[G-alpha] sowie 11721[G-alpha] bis 11723[G 11731[G-alpha] 30
 
-Die Software muss die Angabe des HGNC-Gensymbols (FK 5077) und die Art der Erkrankung (FK 5079) zu
-
-den GOPen 11511[G-alpha], 11512[G-alpha], 11516[G-alpha] bis 11518[G-alpha] und 11521[G-alpha]  ermöglichen.
+Die Software muss die Angabe des HGNC-Gensymbols (FK 5077) und die Art der Erkrankung (FK 5079) den GOPen 11511[G-alpha], 11512[G-alpha], 11516[G-alpha] bis 11518[G-alpha] und 11521[G-alpha] sowie  11721[G-alpha] bis 11723[G-alpha], 11728[G-alpha], 11730[G-alpha] und 11731[G-alpha] ermöglichen.
 
 **Begründung:**
 
-Die Berechnung der GOPen 11511, 11512, 11516 bis 11518 und 11521 setzt die Begründung, die die Art der  Erkrankung enthält, und die Angabe der Art der Untersuchung (HGNC-Gensymbol) voraus.
+Die Berechnung der GOPen 11511, 11512, 11516 bis 11518 und 11521  11730 und 11731 setzt die Begründung, die die Art der Erkrankung enthält, und die Angabe der Art der  Untersuchung (HGNC-Gensymbol) voraus.
 
 **Akzeptanzkriterium:**
 
 Es gelten alle Vorgaben der Funktion KP2-621 und KP2-624 unter Beachtung der folgenden Kriterien:
 
-1. Das Softwaresystem muss vom Anwender bei der Erfassung der o.g. GOPen im Rahmen der  Leistungsdokumentation **genau** eine Angabe eines HGNC-Gensymbols (FK 5077) **und** einer „Art der
+1. Das Softwaresystem muss vom Anwender bei der Erfassung der o.g. GOPen im Rahmen der  Leistungsdokumentation **genau** eine Angabe eines HGNC-Gensymbols (FK 5077)
 
-Erkrankung“ (FK 5079) fordern. Der Anwender darf nicht die Möglichkeit haben mehrere HGNC Gensymbole bzw. mehrere Angaben zur „Art der Erkrankung“ für eine Leistungsziffer zu erfassen und in
-
-die Abrechnung zu übertragen.
+Erkrankung“ (FK 5079) fordern. Der Anwender darf nicht die Möglichkeit haben mehrere HGNC Gensymbole bzw. mehrere Angaben zur „Art der Erkrankung“ für eine Leistungsziffer zu die Abrechnung zu übertragen.
 
 **Beispiele:**
 
@@ -5686,16 +5697,30 @@ Konstellation 1:
 
 …5005 08 5077  A1BG  (HGNC-Gensymbol)
 
+30 abrechenbar ab 01.07.2016 gemäß Beschluss des Bewertungsausschusses nach § 87 Abs. 1 Satz 1 SGB V mit Wirkung zum 1. Juli 201
+
+-alpha] nicht das Feld FK 5077.
+
+-alpha], 11728[G
+
+sowie 11721 bis 11723, 11728,
+
+-alpha], 11730[G-alpha] und
+
+zu
+
+**und** einer „Art der
+
+erfassen und in 6
+
+
+---
+
 …5079  obligat: Art der Erkrankung
 
 Konstellation 2:
 
 …5001 11511
-
-30 abrechenbar ab 01.07.2016 gemäß Beschluss des Bewertungsausschusses nach § 87 Abs. 1 Satz 1 SGB V mit Wirkung zum 1. Juli 2016
-
-
----
 
 …5005 03
 
@@ -5707,23 +5732,33 @@ Konstellation 2:
 
 **KONDITIONALE PFLICHTFUNKTION ADT**
 
-**KP2-614** Übermittlung von HGNC-Gensymbol und der Art der Erkrankung zur Abrechnungstransparenz  für die GOPen 11513[G-alpha] und 11522[G-alpha]
+**KP2-614** Übermittlung von HGNC-Gensymbol und der Art der Erkrankung zur Abrechnungstransparenz  für die GOPen 11513[G-alpha] und 11522[G-alpha] 11724 [G-alpha] bis 11727 [G-alpha] und  11732[G-alpha]
 
-Die Software muss die Angabe des HGNC-Gensymbols (FK 5077) und die Art der Erkrankung (FK 5079)
+Die Software muss die Angabe des HGNC-Gensymbols (FK 5077) und die Art der Erkrankung (FK 5079) zu
 
-den GOPen, 11513[G-alpha] und 11522[G-alpha] ermöglichen.
+den GOPen, 11513[G-alpha] und 11522[G-alpha] 11724 [G-alpha] bis 11727 [G-alpha] und 11732[G-alpha]  ermöglichen.
 
 **Begründung:**
 
-Die Berechnung der GOPen 11513 und 11522 setzt die Begründung, die die Art der Erkrankung enthält, und  die Angabe der Art der Untersuchung (HGNC-Gensymbol) voraus.
+Die Berechnung der GOPen 11513 und 11522 sowie 11724 bis 11727 und 11732 setzt die Begründung, die
+
+die Art der Erkrankung enthält, und die Angabe der Art der Untersuchung (HGNC-Gensymbol) voraus.
 
 **Akzeptanzkriterium:**
 
 Es gelten alle Vorgaben der Funktion KP2-621 und KP2-624 unter Beachtung der folgenden Kriterien:
 
-1. Das Softwaresystem muss vom Anwender bei der Erfassung der GOPen 11513[G alpha] im Rahmen der Leistungsdokumentation  5077) **und** eine Angabe der „Art der Erkrankung“ (FK 5079) fordern.
+1. Das Softwaresystem muss vom Anwender bei der Erfassung der GOPen 11513[G-alpha] und 11522[G-
 
-a) Der Anwender kann zu den genannten GOPen auch mehrere HGNC Angaben zur „Art der Erkrankung“ angegeben/eintragen.  b) Werden mehrere Angaben zur „Art der Erkrankung“ eingetragen, so muss das Softwaresystem das  Feld 5079 mehrfach in die Abrechnungsdatei übertragen.
+alpha] sowie 11724 [G-alpha] bis 11727 [G-alpha] und 11732[G-alpha] im Rahmen der  Leistungsdokumentation **mindestens** eine Angabe eines „HGNC Gensymbols“ (FK 5077) **und** eine
+
+Angabe der „Art der Erkrankung“ (FK 5079) fordern.
+
+a) Der Anwender kann zu den genannten GOPen auch mehrere HGNC-Gensymbole und mehrere
+
+Angaben zur „Art der Erkrankung“ angegeben/eintragen.
+
+b) Werden mehrere Angaben zur „Art der Erkrankung“ eingetragen, so muss das Softwaresystem das  Feld 5079 mehrfach in die Abrechnungsdatei übertragen.
 
 2. Für die Eintragung von mehreren HGNC-Gensymbolen zu den genannten GOPen können HGNC
 
@@ -5739,24 +5774,28 @@ Konstellation 1:
 
 …5005 08
 
-…5077  A1CF (HGNC-Gensymbol)
-
-…5077  A2M (HGNC-Gensymbol)
-
-…5079  obligat: Art der Erkrankung
-
-…5079  obligat: Art der Erkrankung
-
-Konstellation 2:
-
-zu -alpha] und 11522[G-
-
-**mindestens** eine Angabe eines „HGNC Gensymbols“ (FK -Gensymbole und mehrere
-
 
 ---
 
-…5001 11513
+…5077
+
+…5077
+
+…5079
+
+…5079
+
+Konstellation 2:
+
+…5001
+
+A1CF (HGNC-Gensymbol)
+
+A2M (HGNC-Gensymbol)
+
+obligat: Art der Erkrankung
+
+obligat: Art der Erkrankung 11513
 
 …5005 03
 
@@ -5770,13 +5809,15 @@ zu -alpha] und 11522[G-
 
 **KP2-615** Übermittlung von HGNC-Gensymbol und der Art der Erkrankung und eines ICD -10-GM-Kodes  zur Abrechnungstransparenz für die GOPen 19424[G-alpha], 19453[G-alpha] und 19456[G- alpha]
 
-Die Software muss die Angabe des HGNC-Gensymbols (FK 5077), der Art der
+Die Software muss die Angabe des HGNC-Gensymbols (FK 5077), der Art der Erkrankung (FK 5079)
 
 Angabe eines gültigen ICD-10-GM-Kodes (FK 6001) zu den GOPen 19424[G 19456[G-alpha] ermöglichen.
 
 **Begründung:**
 
-Gemäß EBM-Abrechnungsbestimmungen zu den GOPen  alpha] sind die „Art der Untersuchung (Gensymbol nach HGNC)“ und die „Art der Erkrankung gemäß der
+Gemäß EBM-Abrechnungsbestimmungen zu den GOPen 19424[G-alpha], 19453[G-alpha] und 19456[G-
+
+alpha] sind die „Art der Untersuchung (Gensymbol nach HGNC)“ und die „Art der Erkrankung gemäß der
 
 Kodierung nach ICD-10-GM“ anzugeben, die „Art der Erkrankung“ kann angegeben werden
 
@@ -5786,7 +5827,7 @@ Es gelten alle Vorgaben der Funktionen KP2-621, KP2-624 und KP2-618 unter Beacht
 
 Kriterien:
 
-1. Das Softwaresystem muss vom Anwender bei der Erfassung der GOPen 19424[G und 19456[G-alpha] im Rahmen der Leistungsdokumentation  Gensymbols“ (FK 5077) fordern. Der Anwender kann zu den genannten GOPen auch mehrere „HGNC
+1. Das Softwaresystem muss vom Anwender bei der Erfassung der GOPen 19424[G und 19456[G-alpha] im Rahmen der Leistungsdokumentation  Gensymbols“ (FK 5077) fordern. Der Anwender kann zu den genannten GOPen
 
 Gensymbole (FK 5077) eintragen.  2. Bei den GOPen 19424[G-alpha], 19453[G-alpha] und 19456[G- Erkrankung“ (FK 5079) erfasst werden. Jedoch muss dem Anwender die Erfassung „Arten der Erkrankungen“ möglich sein 3. Für die Eintragung von mehreren HGNC-Gensymbolen zu den genannten GOPen können HGNC
 
@@ -5794,38 +5835,36 @@ Gensymbol-Ketten nach der Funktionen KP2-623 verwendet werden.
 
 **Beispiel:**
 
-Nachfolgend sind mögliche Datenkonstellationen dargestellt (nicht als abschließend zu betrachten):
+Nachfolgend sind mögliche Datenkonstellationen dargestellt (nicht als abschließend zu betrachten): -alpha], 19453[G-alpha] und
 
-Konstellation 1:
-
-…5001 19424
-
-…5005 08
-
-…5077 BRAF (HGNC-Gensymbol)
-
-…5077 KBV:999999 (Ersatzwert)
-
-…5078 obligat: Gen-Name
-
-19424[G-alpha], 19453[G-alpha] und 19456[G-
-
-**mindestens**
+**mindestens** eine Angabe des „HGNC
 
 alpha] muss nicht zwingend die „Art der
 
-Erkrankung (FK 5079) und die  -alpha], 19453[G-alpha] und -alpha], 19453[G-alpha]
+und die -alpha], 19453[G-alpha]
 
-eine Angabe des „HGNC
+auch mehrere „HGNC
 
 einer oder mehrere
 
 
 ---
 
-…5079  optional: Art der Erkrankung
+Konstellation 1:
 
-…5079  optional: Art der Erkrankung
+…5001
+
+…5005
+
+…5077
+
+…5077
+
+…5078
+
+…5079
+
+…5079
 
 …6001  obligat: ICD-10-GM-Kode
 
@@ -5833,7 +5872,19 @@ einer oder mehrere
 
 Konstellation 2:
 
-…5001 19453
+…5001 19424
+
+08
+
+BRAF (HGNC-Gensymbol)
+
+KBV:999999 (Ersatzwert)
+
+obligat: Gen-Name
+
+optional: Art der Erkrankung
+
+optional: Art der Erkrankung 19453
 
 …5005 03
 
@@ -5865,26 +5916,24 @@ Gemäß EBM-Abrechnungsbestimmungen zu den GOPen  alpha] sind die „Art der Unt
 
 Kodierung nach ICD-10-GM“ anzugeben, die „Art der Erkrankung“ kann angegeben werden
 
+19421[G-alpha], 19451[G-alpha], und 19452[G- und die „Art der Erkrankung gemäß der -10-GM-Kodes
+
+-alpha], 19451[G-alpha] und
+
+
+---
+
 **Akzeptanzkriterium:**
 
 Es gelten alle Vorgaben der Funktionen KP2-621, KP2-624 und KP2-618 unter Beachtung der folgenden
 
 Kriterien:
 
-1. Das Softwaresystem muss vom Anwender bei der Erfassung der GOPen 19421[G und 19452[G-alpha] im Rahmen der Leistungsdokumentation  (FK 5077) fordern.
+1. Das Softwaresystem muss vom Anwender bei der Erfassung der GOPen 19421[G-alpha], 19451[G-alpha]
 
-19421[G-alpha], 19451[G-alpha], und 19452[G- und die „Art der Erkrankung gemäß der
+und 19452[G-alpha] im Rahmen der Leistungsdokumentation **genau** eine Angabe des HGNC-Gensymbols
 
-**genau** eine Angabe des HGNC-Gensymbols -10-GM-Kodes
-
--alpha], 19451[G-alpha] und
-
--alpha], 19451[G-alpha]
-
-
----
-
-2. Bei den GOPen 19421[G-alpha], 19451[G-alpha] und 19452[G-alpha] muss nicht zwingend die „Art der
+(FK 5077) fordern.  2. Bei den GOPen 19421[G-alpha], 19451[G-alpha] und 19452[G-alpha] muss nicht zwingend die „Art der
 
 Erkrankung“ (FK 5079) erfasst werden. Jedoch muss dem Anwender die Erfassung genau einer „Art der
 
@@ -5930,16 +5979,12 @@ Gemäß EBM-Abrechnungsbestimmungen zu den GOPen 11302[G-alpha], 11303[G-alpha],
 
 Erkrankung gemäß der Kodierung nach ICD-10-GM“ anzugeben.
 
-**Akzeptanzkriterium:**
-
-1. Das Softwaresystem muss vom Anwender bei der Erfassung der o.g. GOPen im Rahmen der  Leistungsdokumentation die Angabe eines gültigen „ICD-10-GM-Kodes“ (ungleich dem ICD-10-GM-
-
-Kodes „Z01.7“ mit der „Diagnosesicherheit“ fordern.
-
-2. Die Software überträgt mit der Abrechnung für die o.g. Leistungen den vom Anwender angegebenen  „ICD-10-GM-Kode“ im Feld 6001 und die „Diagnosensicherheit“ im Feld 6003.
-
 
 ---
+
+**Akzeptanzkriterium:**
+
+1. Das Softwaresystem muss vom Anwender bei der Erfassung der o.g. GOPen im Rahmen der  Leistungsdokumentation die Angabe eines gültigen „ICD Kodes „Z01.7“ 2. Die Software überträgt mit der Abrechnung für die o.g. Leistungen den vom Anwender angegebenen  „ICD-10-GM-Kode“ im Feld 6001 und die „Diagnosensicherheit“ im Feld 6003.
 
 **ÜBERSICHT ZU DEN ANFORDERUNGEN KP2**
 
@@ -5947,13 +5992,29 @@ Kodes „Z01.7“ mit der „Diagnosesicherheit“ fordern.
 
 11233
 
-11511, 11512,  11516, 11517,  11518, 11521 11513, 11522
+11511, 11512,  11516, 11517,  11518, 11521,  11721, 11722,  11723, 11728,  11730, 11731
 
-19424, 19453,  19456
+11513, 11522,  11724, 11725,  11726, 11727,  11732 19424, 19453,  19456
 
 19421, 19451,  19452
 
-11302, 11303,  19402, 32901,  32902, 32904,  32906, 32908,  32910, 32911,
+11302, 11303,
+
+19402, 32901,  32902, 32904,  32906, 32908,  32910, 32911,
+
+32915, 32916,  32917, 32918
+
+Tabelle 8 - Abrechnungsbegründungen bei Berechnung genetischer Untersuchungen, Übersicht zu den Anforderungen KP2 618
+
+2.3.7.4 Abrechnungsbegründungen bei Berechnung von Besuchen
+
+**KONDITIONALE PFLICHTFUNKTION ADT**
+
+**KP2-625** Abrechnungsbegründungen bei Berechnung von Besuchen außerhalb der Arztpraxis
+
+Die Software ermöglicht dem Anwender die Erfassung von  Leistungsdokumentation von Besuchen außerhalb der Arztpraxis.
+
+mit der „Diagnosesicherheit“ fordern.
 
 |  | HGNC-Gensymbol | ICD-10-GM-Kode |
 |---|---|---|
@@ -5969,31 +6030,7 @@ optionale Angabe
 
 genau eine optionale  Angabe
 
-Keine Übertragung 32915, 32916,  32917, 32918
-
-Tabelle 8 - Abrechnungsbegründungen bei Berechnung genetischer Untersuchungen, Übersicht zu den Anforderungen KP2 618
-
-2.3.7.4 Abrechnungsbegründungen bei Berechnung von Besuchen
-
-**KONDITIONALE PFLICHTFUNKTION ADT**
-
-**KP2-625** Abrechnungsbegründungen bei Berechnung von Besuchen außerhalb der Arztpraxis
-
-Die Software ermöglicht dem Anwender die Erfassung von Abrechnungsbegründungen im Rahmen der  Leistungsdokumentation von Besuchen außerhalb der Arztpraxis.
-
-**Begründung:**
-
-Bei einem (Haus-)Besuch eines Versicherten durch den Anwender ist die Abrechnung von zusätzlichem
-
-„Wegegeld“ möglich.
-
-Um „Wegegeld“ vergütet zu bekommen, ist entweder die Angabe einer Zone, der einfachen Entfernung in  Kilometern oder des Besuchsortes bzw. die Angabe einer  der Abrechnung durch den Anwender erforderlich.
-
-Konkret obliegt dies der Regelungshoheit der Kassenärztlichen Vereinigungen.
-
-**Akzeptanzkriterium:**
-
-1. Die Software stellt dem Anwender entsprechende  Besuchen außerhalb der Arztpraxis zur Verfügung. Diese sind:
+Keine Übertragung -10-GM-
 
 **-612, KP2-613, KP2-614, KP2-615, KP2-616, KP2-617, KP2-618**
 
@@ -6009,9 +6046,9 @@ jeweils genau eine  Angabe
 
 Keine Übertragung
 
-KV-spezifischen Gebührennummer im Rahmen
+Abrechnungsbegründungen im Rahmen der
 
-Eingabefelder zur Erfassung der Informationen bei
+Kodes“ (ungleich dem ICD-10-GM-
 
 Keine Besonderheit
 
@@ -6041,21 +6078,31 @@ Art der Erkrankung
 
 ---
 
+**Begründung:**
+
+Bei einem (Haus-)Besuch eines Versicherten durch den Anwender ist die Abrechnung von zusätzlichem
+
+„Wegegeld“ möglich.
+
+Um „Wegegeld“ vergütet zu bekommen, ist entweder die Angabe einer Zone, der einfachen Entfernung in  Kilometern oder des Besuchsortes bzw. die Angabe einer  der Abrechnung durch den Anwender erforderlich.
+
+Konkret obliegt dies der Regelungshoheit der Kassenärztlichen Vereinigungen.
+
+**Akzeptanzkriterium:**
+
+1. Die Software stellt dem Anwender entsprechende Eingabefelder zur Erfassung der Informationen bei  Besuchen außerhalb der Arztpraxis zur Verfügung. Diese sind:
+
 **Bezeichnung**
 
-ADT-Feldkennung
+Doppelkilometer (DKM)
 
-Doppelkilometer (DKM) 5008
+Besuchsort bei Hausbesuchen
 
-Besuchsort bei Hausbesuchen 5017
-
-Zone bei Besuchen 5018
+Zone bei Besuchen
 
 Tabelle 9 - Abrechnungsbegründungen bei Berechnung von Besuchen
 
-2. Die Software überträgt die vom Anwender erfassten Angaben gemäß Tabelle 9 im Rahmen der
-
-Abrechnung.
+2. Die Software überträgt die vom Anwender erfassten Angaben gemäß  Abrechnung.
 
 **Bedingung:**
 
@@ -6069,21 +6116,34 @@ Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme ohne APK.
 
 Der Einsatz von Leistungsketten zum Zwecke der Abrechnung ist unter folgenden Bedingungen zulässig:
 
-Jede GNR einer Kette kann erst **nach Einzelquittierung** durch den Anwender in die Abrechnung
+Jede GNR einer Kette kann erst **nach Einzelquittierung**
 
 übernommen werden. Dies gilt für alle Formen der Dateneingabe (z. B. Beleglesung, Digitalisierbrett,  Tastatur, Scanner) bzw. auch bei der programmierten Beregelung.
 
 **Eine Leistungskette liegt vor,**
 
-wenn mit einer Aktion der Leistungsdokumentation eines Patienten mehrere GNRn zugewiesen werden  können;  wenn mit einer Aktion mehreren Patienten-Leistungsdokumentationen eine oder mehrere GNRn
-
-zugewiesen werden können.
+wenn mit einer Aktion der Leistungsdokumentation eines Patienten mehrere GNRn zugewiesen werden  können;  wenn mit einer Aktion mehreren Patienten zugewiesen werden können.
 
 **Ausnahme:**
 
-Hiervon ausgenommen sind die Pflichtfunktion(en) P50-01, P50-02 und P50-03 des Anforderungskataloges
+Hiervon ausgenommen sind die Pflichtfunktion(en) P50-01, P50-02 und P50-03 des Anforderungskataloges  [KBV_ITA_VGEX_Anforderungskatalog_eArztbrief
 
-[KBV_ITA_VGEX_Anforderungskatalog_eArztbrief
+ADT-Feldkennung 5008
+
+5017
+
+5018
+
+KV-spezifischen Gebührennummer im Rahmen
+
+Tabelle 9 im Rahmen der
+
+durch den Anwender in die Abrechnung
+
+-Leistungsdokumentationen eine oder mehrere GNRn
+
+
+---
 
 **Anmerkung für Einsendepraxen**
 
@@ -6093,12 +6153,7 @@ Abrechnungsrelevante Resultate sind:
 
 manuell erfasste oder online eingespeiste Messwerte,
 
-manuell erfasste oder zu bestätigende vordefinierte Ergebnisse in Textform,
-
-manuell erfasste oder zu bestätigende vordefinierte abrechnungssteuernde Zeichen als Bestätigung  einer erbrachten Leistung.
-
-
----
+manuell erfasste oder zu bestätigende vordefinierte Ergebnisse in Textform, manuell erfasste oder zu bestätigende vordefinierte abrechnungssteuernde Zeichen als Bestätigung  einer erbrachten Leistung.
 
 2.3.7.6 Tagtrennung
 
@@ -6106,29 +6161,21 @@ manuell erfasste oder zu bestätigende vordefinierte abrechnungssteuernde Zeiche
 
 **P2-630** Tagtrennung
 
-Folgen nach einem ersten Arzt-Patientenkontakt an demselben Behandlungstag weitere Arzt Patientenkontakte, entscheidet der Anwender nach den Bestimmungen des EBM, ob eine **Tagtrennung**
-
-durchzuführen ist.
+Folgen nach einem ersten Arzt-Patientenkontakt an demselben Behandlungstag weitere Arzt Patientenkontakte, entscheidet der Anwender nach den Bestimmungen des EBM, ob eine  durchzuführen ist.
 
 **Für die Funktion „Tagtrennung“ gilt:**
 
-1. Eine automatische „Tagtrennung“ durch das Abrechnungssystem ist **nicht** zulässig, vielmehr muss das
+1. Eine automatische „Tagtrennung“ durch das Abrechnungssystem ist **nicht**
 
-Abrechnungssystem dem Anwender eine explizite Funktion „TAGTRENNUNG“ anbieten.
+Abrechnungssystem dem Anwender eine explizite Funktion „TAGTRENNUNG“ anbieten.  2. Wird eine Tagtrennung durchgeführt, muss ein weiterer Behandlungstag mit demselben Datum (FK  5000) und allen im Rahmen dieses Arzt-Patientenkontaktes erbrachten Gebührennummern übertragen  werden.  3. Wird eine Tagtrennung durchgeführt, so muss das Abrechnungssystem sicherstellen, dass a) für die **erste** GNR des **ersten** Arzt-Patientenkontaktes eine Uhrzeit (FK 5006) nachgetragen werden
 
-2. Wird eine Tagtrennung durchgeführt, muss ein weiterer Behandlungstag mit demselben Datum (FK  5000) und allen im Rahmen dieses Arzt-Patientenkontaktes erbrachten Gebührennummern übertragen  werden.  3. Wird eine Tagtrennung durchgeführt, so muss das Abrechnungssystem sicherstellen, dass
-
-a) für die **erste** GNR des **ersten** Arzt-Patientenkontaktes eine Uhrzeit (FK 5006) nachgetragen werden
-
-**kann,**  b) für **weitere** Arzt-Patientenkontakte die Angabe einer Uhrzeit (FK 5006) zur jeweils **ersten** GNR
+**kann,**  b) für **weitere** Arzt-Patientenkontakte die Angabe einer Uhrzeit (FK 5006) zur jeweils
 
 erfolgen **muss**
 
-4. Wird die über die KV-Spezifika-Stammdatei definierte KV-spezifische Vorgabe zu Punkt 3.a) zur  Tagtrennung vom Anwender nicht beachtet, so muss ein **Warnhinweis** ausgegeben werden.
+4. Wird die über die KV-Spezifika-Stammdatei definierte KV-spezifische Vorgabe zu Punkt 3.a) zur  Tagtrennung vom Anwender nicht beachtet, so muss ein **Warnhinweis**
 
-5. Wird die Vorgabe zu Punkt 3.b) zur Tagtrennung vom Anwender nicht beachtet, so muss eine
-
-**Fehlermeldung** ausgegeben werden.
+5. Wird die Vorgabe zu Punkt 3.b) zur Tagtrennung vom Anwender nicht beachtet, so muss ein **Fehlermeldung** ausgegeben werden.
 
 **Beispielhafter Auszug aus einem Datensatz**
 
@@ -6146,32 +6193,34 @@ erfolgen **muss**
 
 … 5005
 
-…5098
+**Tagtrennung**
 
-…5099
+zulässig, vielmehr muss das
 
-**5000**
+**ersten** GNR
 
-**5001**
-
-**5006**
-
-…5098
-
-…5099
-
-… 5001 20160106
-
-**01214**
-
-1300 Uhrzeitangabe
-
-Behandlungstag
-
-**erste GNR des zweiten Arzt-Patientenkontaktes**
+ausgegeben werden.  e
 
 
 ---
+
+…5098
+
+…5099
+
+**5000** 20160106
+
+**5001** **01214 erste GNR des zweiten Arzt-Patientenkontaktes**
+
+**5006** 1300 Uhrzeitangabe
+
+…5098
+
+…5099
+
+Behandlungstag
+
+… 5001
 
 …5098
 
@@ -6211,7 +6260,16 @@ Im Rahmen der ASV-Abrechnung durch Krankenhausärzte kann die Arzt LANR für Kra
 
 **Akzeptanzkriterium:**
 
-1. Die Software muss dem Anwender ermöglichen die GOPen, die im Rahmen der Leistungsdokumentation  erfasst wurden, mit einer Betriebsstättennummer und einer Lebenslangen Arztnummer zu  kennzeichnen.  2. Die Software überträgt mit der Abrechnung die zur GOP angegebene (Neben in Feld FK 5098 und die LANR in Feld FK 5099 oder die Pseudo 2.3.7.8 Beregelung
+1. Die Software muss dem Anwender ermöglichen die GOPen, die im Rahmen der Leistungsdokumentation  erfasst wurden, mit einer Betriebsstättennummer und einer Lebenslangen Arztnummer zu  kennzeichnen.
+
+lichen.
+
+Kennzeichnung mit einer „Pseudo -AV i. V. m. Anlage 3 ASV-AV.
+
+
+---
+
+2. Die Software überträgt mit der Abrechnung die zur GOP angegebene (Neben in Feld FK 5098 und die LANR in Feld FK 5099 oder die Pseudo 2.3.7.8 Beregelung
 
 **OPTIONALE FUNKTION ADT**
 
@@ -6219,26 +6277,11 @@ Im Rahmen der ASV-Abrechnung durch Krankenhausärzte kann die Arzt LANR für Kra
 
 Abrechnungsbestimmungen die Gebührenordnung dürfen programmiertechnisch umgesetzt werden (z.
 
-Nicht-Nebeneinander-Berechnung von Positionen, u.
+Nicht-Nebeneinander-Berechnung von Positionen, u. ä.). Als systemseitige Reaktion auf erkannte Fehler
 
 dürfen:
 
 1. Fehlermeldungen ausgegeben werden,
-
-lichen.
-
-Kennzeichnung mit einer „Pseudo -AV i. V. m. Anlage 3 ASV-AV.
-
--) Betriebsstättennummer
-
--LANR in Feld 5101.
-
-B.
-
-ä.). Als systemseitige Reaktion auf erkannte Fehler
-
-
----
 
 2. fehlerhaft angesetzte GNR eliminiert werden,
 
@@ -6250,23 +6293,19 @@ Der abrechnende Arzt trägt stets die Verantwortung für die korrekte Anwendung 
 
 **KONDITIONALE PFLICHTFUNKTION ADT**
 
-**KP2-651** Übertragung der Chargennummer bei Schutzimpfungen gegen SARS-CoV-2
+**KP2-651** Übertragung der Chargennummer bei Schutzimpfungen gegen SARS
 
-Bei der Übermittlung der GOPen für die Erbringung einer Schutzimpfung gegen SARS-CoV-2 muss zu jeder
-
-erbrachten GOP die Chargennummer der Impfdosis erfasst und übermittelt werden.
+Bei der Übermittlung der GOPen für die Erbringung einer Schutzimpfung gegen SARS erbrachten GOP die Chargennummer der Impfdosis erfasst und übermittelt werden.
 
 **Begründung:**
 
-Gemäß § 13 Abs. 5 Nr. 10 Infektionsschutzgesetz - IfSG muss zu jeder Schutzimpfung gegen SARS-CoV-2 die
+Gemäß § 13 Abs. 5 Nr. 10 Infektionsschutzgesetz - IfSG muss zu jeder Schutzimpfung gegen SARS
 
-Chargennummer von den Kassenärztlichen Vereinigung an das Robert Koch-Institut übermittelt werden.
+Chargennummer von den Kassenärztlichen Vereinigung an das Robert Koch
 
 **Akzeptanzkriterium:**
 
-1. Das Softwaresystem muss vom Anwender bei der Erfassung einer GOP (in FK 5001) im Rahmen der  Leistungsdokumentation die Angabe der „Chargennummer“ (FK 5010) fordern, wenn zu der GOP in der  EBM-Stammdatei  ../gnr_zusatzangaben/gnr_zusatzangaben_liste/gnr_zusatzangabe/@V=“5010
-
-hinterlegt ist.  2. Das Softwaresystem muss dem Anwender die Erfassung der „Chargennummer“ (FK 5010) auch bei nicht  unter Akzeptanzkriterium 1 genannten GOPen (in FK 5001) ermöglichen.
+1. Das Softwaresystem muss vom Anwender bei der Erfassung einer GOP (in FK 5001) im Rahmen der  Leistungsdokumentation die Angabe der „Chargennummer“ (FK 5010) fordern, wenn zu der GOP in der  EBM-Stammdatei  ../gnr_zusatzangaben/gnr_zusatzangaben_liste/gnr_zusatzangabe/@V=“5010 hinterlegt ist.  2. Das Softwaresystem muss dem Anwender die Erfassung der „Chargennummer“ (FK 5010) auch bei nicht  unter Akzeptanzkriterium 1 genannten GOPen (in FK 5001) ermöglichen.
 
 **Bedingung:**
 
@@ -6275,6 +6314,23 @@ Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme ohne APK.
 **Hinweis:**
 
 Softwaresysteme können ihre Anwender bei der Erfassung von Chargennummern durch geeignete  Maßnahmen wie bspw. Einscannen von Etiketten, Barcodes oder die mehrfache Verwendung von erfassten  Chargennummern unterstützen.
+
+-) Betriebsstättennummer
+
+-LANR in Feld 5101.
+
+B.
+
+-CoV-2
+
+-CoV-2 muss zu jeder
+
+-CoV-2 die
+
+-Institut übermittelt werden.
+
+
+---
 
 2.3.7.10 Implantateregister
 
@@ -6297,9 +6353,6 @@ festgelegt, dass Gesundheitseinrichtungen nach einer implantatbezogenen Maßnahm
 in der Abrechnung die Melde-ID, den „Hash String“ sowie den „Hash Wert“ der Meldebestätigung des
 
 Implantateregisters übertragen.
-
-
----
 
 **Akzeptanzkriterium:**
 
@@ -6325,7 +6378,7 @@ des jeweiligen „Hash Strings“ und „Hash Werte“ nach der Meldung einer im
 
 Maßnahme aus der Meldebestätigung des Implantateregisters automatisch in die Felder „Melde-ID
 
-Implantateregister“ (FK 5050), „Hash-String Implantateregister“ (FK 5051) und „Hash-Wert
+Implantateregister“ (FK 5050), „Hash String Implantateregister“ (FK 5051) und „Hash-Wert
 
 Implantateregister“ (FK 5052) übernimmt.
 
@@ -6345,6 +6398,9 @@ Implantateregister“ (FK 5051) und „Hash Wert Implantateregister“ (FK 5052)
 
 Abrechnung in der Feldkennung 5051.
 
+
+---
+
 8. Die Software überträgt den „Hash Wert der Meldebestätigung des Implantateregisters“ in der
 
 Abrechnung in der Feldkennung 5052.
@@ -6361,30 +6417,33 @@ Implantateregister veröffentlicht.
 
 Sofern ab dem ersten Quartal 2025 Nachzüglerfälle aus dem Jahr 2023/2024 abgerechnet werden sollen  und dafür die Übertragung der Daten des Implantateregisters fachlich notwendig ist, müssen die Daten in  der ab dem ersten Quartal 2025 gültigen Struktur übertragen werden.
 
-
----
-
 **2.3.8** **Card/ Versichertenstammdaten für Privatversicherte**
 
 **PFLICHTFUNKTION ADT**
 
-**P2-790** PKV-Card / Versichertenstammdaten Privatversicherter  Ausschluss für die GKV
+**P2-790** PKV-Card / Versichertenstammdaten Privatversicherter  Ausschluss für die GKV**31**-Abrechnung
 
 1. Unmittelbar nach dem Einlesen einer „Card für Privatversicherte“ oder nach dem erfolgreichen Abruf
 
-von Versichertenstammdaten Privatversicherter vom Fachdienst VSDM 2.0 Hinweis erfolgen, dass eine Privatversicherung vorliegt.
+von Versichertenstammdaten Privatversicherter vom Fachdienst VSDM 2.0 muss systemseitig ein
+
+Hinweis erfolgen, dass eine Privatversicherung vorliegt.
 
 2. Die eingelesenen Daten einer „Card für Privatversicherte“ oder die vom Fachdienst VSDM 2.0
 
-abgerufenen Daten Privatversicherter dürfen nicht in die Verarbeitungsroutinen zur KVDT einfließen.
+abgerufenen Daten Privatversicherter dürfen nicht in die Verarbeitungsroutinen zur KVDT-Abrechnung
+
+einfließen.
 
 **Hinweis:**
 
 Eine PKV-Card ist bei den KVK-Speicherkarten an den mit Nullen gefüllten Datenfeldern für die VKNR und  das IK erkennbar.
 
-Eine PKV-Card ist bei einer eGK am Inhalt des Informationselements Version_XML des Containers  EF.StatusVD erkennbar [gematik Speicherstrukturen der eGK für die Fachanwendung VSDM Versichertenstammdaten-Schema-Version enthält.
+Eine PKV-Card ist bei einer eGK am Inhalt des Informationselements Version_XML des Containers  EF.StatusVD erkennbar [gematik Speicherstrukturen der eGK für die Fachanwendung VSDM], dass die
 
-Bei Versichertenstammdaten, die vom Fachdienst VSDM 2.0 abgerufen werden, ist die Privatversicherung  an der referenzierten Coverage-Profilversion (PKV-Profil) gemäß den Vorgaben der gematik im
+Versichertenstammdaten-Schema-Version enthält.
+
+Bei Versichertenstammdaten, die vom Fachdienst VSDM 2.0 abgerufen werden, ist die Privatversicherung  an der referenzierten Coverage-Profilversion (PKV-Profil) gemäß den Vorgaben der gematik im Simplifier-
 
 Projekt VSDM2 erkennbar.
 
@@ -6392,11 +6451,18 @@ Projekt VSDM2 erkennbar.
 
 2.3.9.1 Anforderungen zur Patientenquittung
 
-Die Einführung einer Patientenquittung wurde im Rahmen des GMG durch die Änderung des § 305 (2) SGB V zum 1.1.2004 durch den Gesetzgeber beschlossen. Die Vertragsärzte sind damit verpflichtet,  Patientenquittungen auf Wunsch des Patienten zu erstellen. Zu diesem Zweck wurden patienten verständliche Leistungstexte definiert, die in der EBM-Stammdatei unter
+Die Einführung einer Patientenquittung wurde im Rahmen des GMG durch die Änderung des § 305 (2) SGB
+
+V zum 1.1.2004 durch den Gesetzgeber beschlossen. Die Vertragsärzte sind damit verpflichtet,  Patientenquittungen auf Wunsch des Patienten zu erstellen. Zu diesem Zweck wurden patienten verständliche Leistungstexte definiert, die in der EBM-Stammdatei unter dem tag ‚quittungstext’ zu finden
 
 sind. Beachten Sie auch die Vorgaben zum Einsatz der GO-Stammdatei (SDEBM).
 
 Folgende Anforderungen werden an die Patientenquittung gestellt:
+
+31 GKV = Gesetzliche Krankenversicherung
+
+
+---
 
 **PFLICHTFUNKTION ADT**
 
@@ -6405,25 +6471,6 @@ Folgende Anforderungen werden an die Patientenquittung gestellt:
 1. Auf der Patientenquittung werden diejenigen Leistungen aufgeführt, die der Arzt für die  Abrechnung ansetzt.  2. Es werden nur die Leistungen auf der Patientenquittung ausgedruckt, die in der  bewertet sind.  3. Auftragsleistungen (Leistungen, die der Arzt „beauftragt“, beispielsweise mittels Muster 10A) werden  nicht berücksichtigt,  4. Wurden Leistungen mehrfach erbracht, können diese durch einen Multiplikator zur Gebührenziffer  gekennzeichnet werden.  5. Falls der Patient das 15. Lebensjahr noch nicht vollendet hat, muss der Anwender die Möglichkeit haben  einzelne Leistungen von der Patientenquittung auszuschließen a) Ein Hinweis zur Unvollständigkeit der Leistungsaufstellung darf auf der Patientenquittung nicht  angezeigt werden.
 
 **Hinweis:**
-
-31 GKV = Gesetzliche Krankenversicherung
-
-**31**-Abrechnung
-
-muss systemseitig ein -Abrechnung
-
-], dass die
-
-Simplifier-
-
-dem tag ‚quittungstext’ zu finden
-
-**eigene**
-
-SDEBM enthalten und
-
-
----
 
 Für den unter Akzeptanzkriterium 5 genannten Personenkreis verstößt in Analogie der Richtlinie der KBV  zur Übermittlung und Speicherung von Daten in die ePA [ Unterlassen der Auflistung von Gebührenordnungspositionen in der Patientenquittung nicht gegen  vertragsärztliche Pflichten, sofern dem erhebliche therapeutische Gründe entgegenstehen oder soweit  gewichtige Anhaltspunkte für die Gefährdung des Wohles  und die Auflistung von Gebührenordnungspositionen den wirksamen Schutz des Kindes oder Jugendlichen  in Frage stellen würde.
 
@@ -6437,7 +6484,7 @@ Die Software muss dem Anwender die Erfassung und Verwaltung des Punktwertes zur 
 
 Vertragliche Grundlage ist § 305 (2) SGB V.
 
-Der Punktwert dient als Grundlage zur Berechnung des voraussichtlichen Arzthonorars auf der  Patientenquittung gemäß P2-890. Im Normalfall entspricht der Punktwert dem
+Der Punktwert dient als Grundlage zur Berechnung des voraussichtlichen Arzthonorars auf der  Patientenquittung gemäß P2-890. Im Normalfall entspricht der Punktwert dem Orientierungswert.
 
 **Akzeptanzkriterium:**
 
@@ -6454,6 +6501,29 @@ Der Punktwert dient als Grundlage zur Berechnung des voraussichtlichen Arzthonor
 10,13
 
 10,2718
+
+KBV_Richtlinie_§ 75 Abs 1 Nr. Z SGB V
+
+eines Kindes oder eines Jugendlichen vorliegen
+
+gültig ab 01.01.2012
+
+01.01.2013
+
+01.10.2013
+
+01.01.2014
+
+01.01.2015
+
+**eigene**
+
+SDEBM enthalten und
+
+] das
+
+
+---
 
 10,4631
 
@@ -6477,21 +6547,29 @@ Der Punktwert dient als Grundlage zur Berechnung des voraussichtlichen Arzthonor
 
 12,7404  Tabelle 10 - Orientierungswerte in Cent
 
-KBV_Richtlinie_§ 75 Abs 1 Nr. Z SGB V] das
+2. Die Software muss es dem Anwender ermöglichen, den Inhalt dieses Feldes zu verändern.
 
-eines Kindes oder eines Jugendlichen vorliegen
+**Hinweis:**
 
-Orientierungswert.
+Ist eine GOP nur in Euro bewertet, ist dieser Eurowert zu verwenden.
 
-gültig ab 01.01.2012
+**PFLICHTFUNKTION ADT**
 
-01.01.2013
+**P2-840** Quotierung; Anteil der nicht vergüteten Leistungen in %
 
-01.10.2013
+Aufgrund der Regelungen zur Verhinderung der übermäßigen Ausdehnung seiner Tätigkeit bekommt der  Arzt in der Regel nur einen Teil der erbrachten Leistungen vergütet. Auch dieser  Patientenquittung abgebildet werden können.
 
-01.01.2014
+**Konfigurierbarkeit:**
 
-01.01.2015
+Der Arzt kann dazu einen Erfahrungswert aus den letzten Quartalen angeben. Dieser Wert muss vom PVS  verwaltet werden und muss bei der Berechnung des Arzthonorars Berücksichtigung finden.
+
+Für den Fall, dass der Arzt keine Quotierung angibt, soll auf der Patientenquittung unterhalb des ersten  Absatzes der folgende (Standard-)Text positioniert werden:
+
+1. *“Der untenstehende Betrag für die von mir erbrachten ärztlichen Leistungen wird wegen der Begrenzung*  *der Finanzmittel der Krankenkassen gegebenenfalls nur zum Teil an mich ausbezahlt. Die Bezahlung wird*  *im Nachhinein von der Krankenkasse soweit vermindert,* *gestellte Geld ausreicht.“*
+
+Für den Fall, dass der Arzt eine Quote angibt (z.B. 5%), soll auf der Patientenquittung der Textblock (1)  durch den folgenden Textblock ersetzt werden; die Quote wird dabei in den Text eingearbeitet (hier: X):
+
+2. *“Der untenstehende Betrag für die von mir erbrachten ärztlichen Leistungen wird wegen der Begrenzung*  *der Finanzmittel der Krankenkassen gegebenenfalls nur zum Teil an mich ausbezahlt. Die Bezahlung wird*  *im Nachhinein von der Krankenkasse um X % vermindert,* *Verfügung gestellte Geld ausreicht.“*
 
 01.01.2016
 
@@ -6515,38 +6593,14 @@ gültig ab 01.01.2012
 
 01.01.2026
 
+*dass das von Ihrer Krankenkasse zur Verfügung*
+
+*damit das von Ihrer Krankenkasse zur*
+
+Sachverhalt soll auf der
+
 
 ---
-
-2. Die Software muss es dem Anwender ermöglichen, den Inhalt dieses Feldes zu verändern.
-
-**Hinweis:**
-
-Ist eine GOP nur in Euro bewertet, ist dieser Eurowert zu verwenden.
-
-**PFLICHTFUNKTION ADT**
-
-**P2-840** Quotierung; Anteil der nicht vergüteten Leistungen in %
-
-Aufgrund der Regelungen zur Verhinderung der übermäßigen Ausdehnung seiner Tätigkeit bekommt der  Arzt in der Regel nur einen Teil der erbrachten Leistungen vergütet. Auch dieser Sachverhalt soll auf der
-
-Patientenquittung abgebildet werden können.
-
-**Konfigurierbarkeit:**
-
-Der Arzt kann dazu einen Erfahrungswert aus den letzten Quartalen angeben. Dieser Wert muss vom PVS  verwaltet werden und muss bei der Berechnung des Arzthonorars Berücksichtigung finden.
-
-Für den Fall, dass der Arzt keine Quotierung angibt, soll auf der Patientenquittung unterhalb des ersten  Absatzes der folgende (Standard-)Text positioniert werden:
-
-1. *“Der untenstehende Betrag für die von mir erbrachten ärztlichen Leistungen wird wegen der Begrenzung*  *der Finanzmittel der Krankenkassen gegebenenfalls nur zum Teil an mich ausbezahlt. Die Bezahlung wird*  *im Nachhinein von der Krankenkasse soweit vermindert, dass das von Ihrer Krankenkasse zur Verfügung*
-
-*gestellte Geld ausreicht.“*
-
-Für den Fall, dass der Arzt eine Quote angibt (z.B. 5%), soll auf der Patientenquittung der Textblock (1)  durch den folgenden Textblock ersetzt werden; die Quote wird dabei in den Text eingearbeitet (hier: X):
-
-2. *“Der untenstehende Betrag für die von mir erbrachten ärztlichen Leistungen wird wegen der Begrenzung*  *der Finanzmittel der Krankenkassen gegebenenfalls nur zum Teil an mich ausbezahlt. Die Bezahlung wird*  *im Nachhinein von der Krankenkasse um X % vermindert, damit das von Ihrer Krankenkasse zur*
-
-*Verfügung gestellte Geld ausreicht.“*
 
 **OPTIONALE FUNKTION ADT**
 
@@ -6562,22 +6616,23 @@ Grundsätzlich ist es dem Arzt erlaubt, in Teilen von den Standardformulierungen
 
 soeben erbrachten Leistungen mittels einer Patientenquittung (tagesbezogen).
 
-2. Diese Leistungsaufstellung kann auch alle bisher im Quartal erbrachten Leistungen kumulieren  (scheingebunden).  3. Falls der Patient das 15. Lebensjahr noch nicht vollendet hat, muss der Anwender die Möglichkeit haben
-
-einzelne Leistungen von der Patientenquittung auszuschließen a) Ein Hinweis zur Unvollständigkeit der Leistungsaufstellung darf auf der Patientenquittung nicht  angezeigt werden.
+2. Diese Leistungsaufstellung kann auch alle bisher im Quartal erbrachten Leistungen kumulieren  (scheingebunden).  3. Falls der Patient das 15. Lebensjahr noch nicht vollendet hat, muss der Anwender die Möglichkeit haben  einzelne Leistungen von der Patientenquittung auszuschließen a) Ein Hinweis zur Unvollständigkeit der Leistungsaufstellung darf auf der Patientenquittung nicht  angezeigt werden.
 
 **Hinweis:**
 
+Für den unter Akzeptanzkriterium 3 genannten Personenkreis verstößt in Analogie der Richtlinie der KBV  zur Übermittlung und Speicherung von Daten in die ePA [KBV_Richtlinie_§ 75 Abs 1 Nr. Z SGB V] das
 
----
+Unterlassen der Auflistung von Gebührenordnungspositionen in der Patientenquittung nicht gegen  vertragsärztliche Pflichten, sofern dem erhebliche therapeutische Gründe entgegenstehen oder soweit  gewichtige Anhaltspunkte für die Gefährdung des Wohles eines Kindes oder eines Jugendlichen vorliegen
 
-Für den unter Akzeptanzkriterium 3 genannten Personenkreis verstößt in Analogie der Richtlinie der KBV  zur Übermittlung und Speicherung von Daten in die ePA [ Unterlassen der Auflistung von Gebührenordnungspositionen in der Patientenquittung nicht gegen  vertragsärztliche Pflichten, sofern dem erhebliche therapeutische Gründe entgegenstehen oder soweit  gewichtige Anhaltspunkte für die Gefährdung des Wohles  und die Auflistung von Gebührenordnungspositionen den wirksamen Schutz des Kindes oder Jugendlichen  in Frage stellen würde.
+und die Auflistung von Gebührenordnungspositionen den wirksamen Schutz des Kindes oder Jugendlichen  in Frage stellen würde.
 
 **PFLICHTFUNKTION ADT**
 
-**P2-870** Quartalsbezogene Patientenquittung
+**P2-870** Quartalsbezogene Patientenquittung**32**
 
-Falls mit dem Patienten der Versand einer Quartalsquittung vereinbart wird, muss die Software dem  Anwender die Möglichkeit zur Kennzeichnung eines Behandlungsfalls für den Quittungsversand bieten. Die  Software muss eine Funktionalität anbieten, die den  Quartalsquittungen am Quartalsende automatisiert ermöglicht.
+Falls mit dem Patienten der Versand einer Quartalsquittung vereinbart wird, muss die Software dem  Anwender die Möglichkeit zur Kennzeichnung eines Behandlungsfalls für den Quittungsversand bieten. Die  Software muss eine Funktionalität anbieten, die den sequenziellen Ausdruck aller gekennzeichneten
+
+Quartalsquittungen am Quartalsende automatisiert ermöglicht.
 
 **Hinweis:**
 
@@ -6593,9 +6648,20 @@ Abbildung 3).
 
 Ist die Leistungslegende länger als 40 Zeichen, muss ein Zeilenumbruch erfolgen.
 
+32 Gesetzliche Mindestanforderung
+
+|  |  | den Quittungsversand bieten. Die |  |
+|---|---|---|---|
+| Ausdruck |  | aller gekennzeichneten |  |
+|  | der | Versandkosten und der |  |
+| zuzüglich |  | Versandkosten dokumentiert |  |
+
+
+---
+
 **PFLICHTFUNKTION ADT**
 
-**P2-890** Inhalt und Layout der Patientenquittung
+**P2-890** Inhalt und Layout der
 
 Eine einheitliche Gestaltung der Patientenquittung wird angestrebt. Folgende Informationen und  Layoutvorgaben muss die Patientenquittung realisieren:
 
@@ -6615,38 +6681,6 @@ Kassenname
 
 Versichertennummer
 
-**32**
-
-sequenziellen Ausdruck aller gekennzeichneten
-
-Erläuterung / Vorgabe / Formel
-
-DIN A4
-
-Beliebige Monospace-Schriften 12 CPI
-
-Einzeilig
-
-Struktur und Position der Patientenadresse nach DIN 5008
-
-Kassenname zur Bedruckung (siehe KTS)
-
-32 Gesetzliche Mindestanforderung
-
-KBV_Richtlinie_§ 75 Abs 1 Nr. Z SGB V] das
-
-eines Kindes oder eines Jugendlichen vorliegen
-
-|  | wird, | muss die Software dem |  |
-|---|---|---|---|
-|  |  | den Quittungsversand bieten. Die |  |
-| Ausdruck |  | aller gekennzeichneten |  |
-|  | der | Versandkosten und der |  |
-| zuzüglich |  | Versandkosten dokumentiert |  |
-
-
----
-
 Absender
 
 Ausstellungsdatum
@@ -6665,6 +6699,41 @@ Behandlungszeitraum
 
 Punktwert
 
+Patientenquittung
+
+Erläuterung / Vorgabe / Formel
+
+DIN A4
+
+Beliebige Monospace-Schriften 12 CPI
+
+Einzeilig
+
+Struktur und Position der Patientenadresse nach DIN 5008
+
+Kassenname zur Bedruckung (siehe KTS)
+
+Praxisadresse / Arztstempel
+
+Tagesdatum
+
+Leistungs- und Kosteninformation
+
+Liebe Patientin, lieber Patient,
+
+zu Ihrer Information erhalten Sie nachstehend eine Aufstellung  über die ärztlichen Leistungen, die für Sie im unten  Zeitraum erbracht wurden, und über die Behandlungskosten, die  als ärztliches Honorar voraussichtlich geltend gemacht werden  können. Die Behandlungskosten sind durch Zahlungen Ihrer  Krankenkasse abgegolten. Dies ist keine Rechnung.
+
+Der untenstehende Betrag für die von mir erbrachten ärztlichen  Leistungen wird wegen der Begrenzung der Finanzmittel der  Krankenkassen gegebenenfalls nur zum Teil an mich ausbezahlt.  Die Bezahlung wird im Nachhinein von der Krankenkasse soweit  vermindert, dass das von Ihrer Krankenkasse zur Verfügung  gestellte Geld ausreicht.
+
+Der untenstehende Betrag für die von mir erbrachten ärztlichen  Leistungen wird wegen der Begrenzung der Finanzmittel der  Krankenkassen gegebenenfalls nur zum Teil an mich ausbezahlt.  Die Bezahlung wird im Nachhinein von der Krankenkasse um X %  vermindert, damit das von Ihrer Krankenkasse zur Verfügung  gestellte Geld ausreicht.
+
+Behandlungsdatum oder Behandlungsquartal (gemäß P2-830)
+
+genannten
+
+
+---
+
 Leistungsaufstellung
 
 Summenzeile
@@ -6675,23 +6744,15 @@ Fußnoten
 
 Seitennummerierung
 
-Praxisadresse / Arztstempel
+Bei Folgeseiten  Tabelle 11  Inhalt und Layout der Patientenquittung
 
-Tagesdatum
+2.3.9.2 Muster für eine Patientenquittung
 
-Leistungs- und Kosteninformation
+Dr. med. K. Mustermann -  Teststraße 3
 
-Liebe Patientin, lieber Patient,
+Herrn  Hans Testmann  Teststraße 10  12345 Teststadt    DAK Testkasse Teststadt   Versicherten-Nr.: 123456789012     **Leistungs- und Kosteninformation**   Liebe Patientin, lieber Patient,   zu Ihrer Information erhalten Sie nachstehend eine Aufstellung über die ärztlichen  Leistungen, die für Sie im unten genannten Zeitraum erbracht wurden, und über die  Behandlungskosten, die als ärztliches Honorar voraussichtlich geltend gemacht werden  können. Die Behandlungskosten sind durch Zahlungen Ihrer Krankenkasse abgegolten.  Dies ist keine Rechnung.
 
-zu Ihrer Information erhalten Sie nachstehend eine Aufstellung  über die ärztlichen Leistungen, die für Sie im unten genannten
-
-Zeitraum erbracht wurden, und über die Behandlungskosten, die  als ärztliches Honorar voraussichtlich geltend gemacht werden  können. Die Behandlungskosten sind durch Zahlungen Ihrer  Krankenkasse abgegolten. Dies ist keine Rechnung.
-
-Der untenstehende Betrag für die von mir erbrachten ärztlichen  Leistungen wird wegen der Begrenzung der Finanzmittel der  Krankenkassen gegebenenfalls nur zum Teil an mich ausbezahlt.  Die Bezahlung wird im Nachhinein von der Krankenkasse soweit  vermindert, dass das von Ihrer Krankenkasse zur Verfügung  gestellte Geld ausreicht.
-
-Der untenstehende Betrag für die von mir erbrachten ärztlichen  Leistungen wird wegen der Begrenzung der Finanzmittel der  Krankenkassen gegebenenfalls nur zum Teil an mich ausbezahlt.  Die Bezahlung wird im Nachhinein von der Krankenkasse um X %  vermindert, damit das von Ihrer Krankenkasse zur Verfügung  gestellte Geld ausreicht.
-
-Behandlungsdatum oder Behandlungsquartal (gemäß P2-830)
+1 „Patientenquittung“
 
 In Tabellenform: Tag / GNR / Kurzbeschreibung / Punkte /  Honorar  Ausnahmen:  Bei EBM-Leistungen, bei welchen keine Punkte in der GO Stammdatei hinterlegt sind, kann der Eintrag in der Spalte Punkte  weggelassen oder durch „ “ ersetzt werden.
 
@@ -6709,58 +6770,77 @@ K = Kosten für ärztliche Leistungen in €
 
 Fortlaufend
 
+Name und Ausstellungsdatum in Kopfzeile -  12345 Teststadt
+
+Platz für Logo /Vertragsarztstempel 15.05.2017
+
+1
+
 
 ---
 
-### Bei Folgeseiten
-
-### Name und Ausstellungsdatum in Kopfzeile
-
-Tabelle 11  Inhalt und Layout der Patientenquittung
-
-2.3.9.2 Muster für eine Patientenquittung
-
-Dr. med. K. Mustermann -  Teststraße 3 -  12345 Teststadt
-
-### Herrn
-
-Platz für Logo /Vertragsarztstempel
-
-### Hans Testmann
-
-### Teststraße 10 12345 Teststadt
-
-DAK Testkasse Teststadt
-
-Versicherten-Nr.: 123456789012
-
-**Leistungs- und Kosteninformation**1
-
-Liebe Patientin, lieber Patient,   zu Ihrer Information erhalten Sie nachstehend eine Aufstellung über die ärztlichen  Leistungen, die für Sie im unten genannten Zeitraum erbracht wurden, und über die  Behandlungskosten, die als ärztliches Honorar voraussichtlich geltend gemacht werden  können. Die Behandlungskosten sind durch Zahlungen Ihrer Krankenkasse abgegolten.  Dies ist keine Rechnung.
-
 Der untenstehende Betrag für die von mir erbrachten ärztlichen Leistungen wird wegen  der Begrenzung der Finanzmittel der Krankenkassen gegebenenfalls nur zum Teil an mich  ausbezahlt. Die Bezahlung wird im Nachhinein von der Krankenkasse um 5 % vermindert,  damit das von Ihrer Krankenkasse zur Verfügung gestellte Geld ausreicht.
 
-Behandlungszeitraum: April bis Juni 2017 (2. Quartal 2017) (bei Tagesquittung hier  nur Behandlungsdatum angeben)   Punktwert: 10,53 Cent (kaufmännische Rundung)   Tag
+Behandlungszeitraum: April bis Juni 2017 (2. Quartal 2017) (bei Tagesquittung hier  nur Behandlungsdatum angeben)   Punktwert: 10,53 Cent (kaufmännische Rundung)   Tag  02.05.2017     15.05.2017
 
-GNR Kurzbeschreibung
+GNR  06211 Behandlungskomplex vom 6. bis zum    06333 Binokulare Untersuchung des gesamten    06310 Fortlaufende Tonometrie
 
-02.05.2017 06211 Behandlungskomplex vom 6. bis zum
+Kurzbeschreibung
 
 vollendeten 59. Lebensjahr
 
-06333 Binokulare Untersuchung des gesamten
-
 Augenhintergrundes
-
-15.05.2017 06310 Fortlaufende Tonometrie
 
 Kosten für ärztliche Leistungen in €
 
 Erstattung durch Ihre Krankenkasse in €
 
-1 „Patientenquittung“
+Abbildung 3: Patientenquittung, Stand: 2. Quartal 2017
 
-15.05.2017
+**2.3.10** **Besonderheiten des aktuell gültigen EBM**
+
+2.3.10.1 Simultaneingriffe bei Operationsleistungen (Kapitel 31.2 und 36.2)
+
+**OPTIONALE FUNKTION ADT**
+
+**K2-900** Höchstbewertete Leistung, Gesamt-Schnitt-Naht-Zeit, Zuschläge
+
+Bei Simultaneingriffen ist nach den Vorgaben des EBM nur die höchstbewertete Leistung abzurechnen.  Weitere Eingriffe werden durch die GSNZ33 (FK 5037) und durch die Abrechnung von Zeitzuschlägen
+
+berücksichtigt.
+
+Die PVS kann dem Arzt **zur Unterstützung** die höchstbewertete Leistung zur Abrechnung anbieten. Die
+
+Zeitzuschläge berechnen sich dann aus der Differenz zwischen der GSNZ und der tatsächlichen SNZ des  Haupteingriffs.
+
+Für die Abrechnung müssen **beide Angaben**, die GSNZ und die Zuschlagleistung(en), übertragen werden.
+
+**Beispiel:**
+
+Folgende Eingriffe sind vorgenommen worden:
+
+**OPS**
+
+|  | Kalkulatorische | Tatsächliche |
+|---|---|---|
+|  | Schnitt-Naht-Zeit | Schnitt-Naht-Zeit |
+|  | [min] | [min] |
+
+5-791.g5
+
+D4 60
+
+30
+
+5-791.g8
+
+| D4 | 60 |  |
+|---|---|---|
+| D3 | 45 |  |
+
+5-791.gh
+
+33 GSNZ = Gesamt-Schnitt-Naht-Zeit
 
 Punkte Honorar in €
 
@@ -6776,80 +6856,20 @@ Punkte Honorar in €
 
 26,61
 
-
----
-
-Abbildung 3: Patientenquittung, Stand: 2. Quartal 2017
-
-**2.3.10** **Besonderheiten des aktuell gültigen EBM**
-
-2.3.10.1 Simultaneingriffe bei Operationsleistungen (Kapitel 31.2 und 36.2)
-
-**OPTIONALE FUNKTION ADT**
-
-**K2-900** Höchstbewertete Leistung, Gesamt-Schnitt-Naht-Zeit, Zuschläge
-
-Bei Simultaneingriffen ist nach den Vorgaben des EBM nur die höchstbewertete Leistung abzurechnen.  Weitere Eingriffe werden durch die GSNZ
-
-berücksichtigt.
-
-Die PVS kann dem Arzt **zur Unterstützung**
-
-Zeitzuschläge berechnen sich dann aus der Differenz zwischen der GSNZ und der tatsächlichen SNZ des
-
-Haupteingriffs.
-
-Für die Abrechnung müssen **beide Angaben**
-
-**Beispiel:**
-
-Folgende Eingriffe sind vorgenommen worden:
-
-**OPS**
-
-|  | Kalkulatorische | Tatsächliche |
-|---|---|---|
-|  | Schnitt-Naht-Zeit | Schnitt-Naht-Zeit |
-|  | [min] | [min] |
-
-5-791.g5
-
-D4 5-791.g8
-
-| D4 | 60 |  |
-|---|---|---|
-| D3 | 45 |  |
-
-5-791.gh  Tabelle 12  Beispiel Simultaneingriff
-
-Die GSNZ hat beispielsweise 135 min betragen. Abzüglich der SNZ des Haupteingriffes ergeben sich 105  min, die zusätzlich als Zeitzuschläge (7x31138) abgerechnet werden können (7x15min = 105min).
-
-Um zu kennzeichnen, dass es sich um einen Simultaneingriff handelt, sind in der Abrechnung zu der  höchstbewerteten Leistung die erfolgten OP-Eingriffe durch die entsprechenden OP dokumentieren, die GSNZ anzugeben und die Anzahl der Zeitzuschlä
-
-33 GSNZ = Gesamt-Schnitt-Naht-Zeit
-
-33 (FK 5037) und durch die Abrechnung von Zeitzuschlägen
-
-die höchstbewertete Leistung zur Abrechnung anbieten. Die
-
-, die GSNZ und die Zuschlagleistung(en), übertragen werden.
-
-60
-
-30
-
-ge abzurechnen.
-
 EBM-Ziffer 31134
 
 31134
 
-31133
-
-Kategorie -Schlüssel zu
+Kategorie 31133
 
 
 ---
+
+Tabelle 12  Beispiel Simultaneingriff
+
+Die GSNZ hat beispielsweise 135 min betragen. Abzüglich der SNZ des Haupteingriffes ergeben sich 105  min, die zusätzlich als Zeitzuschläge (7x31138) abgerechnet werden können (7x15min = 105min).
+
+Um zu kennzeichnen, dass es sich um einen Simultaneingriff handelt, sind in der Abrechnung zu der  höchstbewerteten Leistung die erfolgten OP-Eingriffe durch die entsprechenden OP dokumentieren, die GSNZ anzugeben und die Anzahl der Zeitzuschlä
 
 **KVDT-Auszug:**
 
@@ -6887,7 +6907,7 @@ Kategorie -Schlüssel zu
 
 Falls OP-Leistungen der Kapitel 31.2 bzw. 36.2 des EBM als GOP (GOP; FK 5001) erfasst werden, muss das  System die Angabe von OP-Schlüsseln (OPS-Code; FK 5035) als Abrechnungsbegründung verlangen.
 
-Für Dokumentationszwecke und auch als Abrechnungsbegründung muss zu den OP 31.2 bzw. 36.2 des EBM i.d.R. die Angabe von OP-Schlüsseln erfolgen.
+Für Dokumentationszwecke und auch als Abrechnungsbegründung muss zu den OP 31.2 bzw. 36.2 des EBM i.d.R. die Angabe von OP
 
 **Begründung:**
 
@@ -6897,15 +6917,11 @@ Für Leistungen des ambulanten Operierens gilt per Gesetz seit dem 01.04.2005 de
 
 Falls in der [EBM-Stammdatei] zu  einer GOP unter .../gnr_zusatzangaben/gnr_zusatzangaben_liste/gnr_zusatzangabe
 
-Wert V="5035" (OP-Schlüssel) hinterlegt ist und der OPS-Code als Begründungstyp ausgewählt wird, muss
+ge abzurechnen.
 
-das System folgendes sicherstellen:
+Echtzeitprüfung -Schlüsseln erfolgen.
 
-1. Das System muss vom Anwender die Angabe eines OPS 2. Das System muss den eingegebenen OPS-Code auf Korrektheit überprüfen und in der Abrechnungsdatei
-
-unter der **FK 5035** übertragen.
-
-Echtzeitprüfung -Codes fordern.
+-Schlüssel zu
 
 Dokumentation nach § 295 -Leistungen des Kapitel
 
@@ -6913,6 +6929,16 @@ der
 
 
 ---
+
+Wert V="5035" (OP-Schlüssel) hinterlegt ist und der OPS-Code als Begründungstyp ausgewählt wird, muss
+
+das System folgendes sicherstellen:
+
+1. Das System muss vom Anwender die Angabe eines OPS-Codes fordern.
+
+2. Das System muss den eingegebenen OPS-Code auf Korrektheit überprüfen und in der Abrechnungsdatei
+
+unter der **FK 5035** übertragen.
 
 a) Ob ein OPS-Code als Abrechnungsbegründung einer GOP gilt, wird durch die Zuordnung eines OPS Codes zu einer GOP in der [EBM-Stammdatei] unter  .../begruendungen_liste/ops_liste determiniert.
 
@@ -6960,6 +6986,15 @@ bereitgestellt und können von Ärzten grundsätzlich zur Dokumentation und Abre
 
 Das Akzeptanzkriterium 2c) findet erst für Behandlungsfälle ab dem 1. Januar 2026 Anwendung.
 
+34 Erläuterung: In der [EBM-Stammdatei] sind nur diejenigen OPS mit Seitenlokalisation angegeben, bei denen die Seitenlokalisation  ausschlaggebend für die Kategorie-Zuordnung und damit für die Verknüpfung zur EBM-Leistung ist. Beispielsweise ist der höhere Aufwand bei
+
+einigen beidseitigen Eingriffen durch eine höhere Kategorie-Zuordnung berücksichtigt. Eine generelle Verknüpfung der OP-Schlüssel mit der
+
+Seitenlokalisation lässt sich abgesehen von den 116 Ausnahmen in der [EBM-Stammdatei] nur aus der erweiterten OPS-Schlüsseltabelle ableiten.
+
+
+---
+
 **KONDITIONALE PFLICHTFUNKTION ADT**
 
 **KP2-912** GNR-Begründung als Alternative zum OPS
@@ -6969,15 +7004,6 @@ Anstelle der Leistungen der Kleinchirurgie, können auch die höherbewerteten Ka
 Kapitels 31.2 bzw. 36.2 abgerechnet werden, wenn diese Leistungen in Narkose bei Kindern bis zum  vollendeten 12. Lebensjahr erbracht werden.
 
 Da für die Begründung der Kategorie-1-Leistungen in diesen Fällen kein OPS zugrunde liegt, muss ein  Abrechnungssystem sicherstellen, dass diese alternativ mit der GNR der Kleinchirurgie begründet und  mittels FK 5036 in die Abrechnung übertragen werden kann
-
-34 Erläuterung: In der [EBM-Stammdatei] sind nur diejenigen OPS mit Seitenlokalisation angegeben, bei denen die Seitenlokalisation  ausschlaggebend für die Kategorie-Zuordnung und damit für die Verknüpfung zur EBM-Leistung ist. Beispielsweise ist der höhere Aufwand bei
-
-einigen beidseitigen Eingriffen durch eine höhere Kategorie-Zuordnung berücksichtigt. Eine generelle Verknüpfung der OP-Schlüssel mit der
-
-Seitenlokalisation lässt sich abgesehen von den 116 Ausnahmen in der [EBM-Stammdatei] nur aus der erweiterten OPS-Schlüsseltabelle ableiten.
-
-
----
 
 **Hinweis:**
 
@@ -7029,20 +7055,24 @@ Liste der begründungsfähigen Diagnosen für die Abrechnungsfelder „ICD Code�
 
 (ICD-Code)“ (FK 6001 bzw. 3673) erfasst hat.
 
+
+---
+
 2.3.10.4 Überweisung bei Betreuungsleistungen (Kapitel 31.4)
 
 **OPTIONALE FUNKTION ADT**
 
 **K2-930** OP-Datum und Betreuungsleistung als Auftrag
 
-Sollen Betreuungsleistungen per Überweisung erbracht werden, muss für den weiterbehandelnden Arzt das
+Sollen Betreuungsleistungen per Überweisung erbracht werden, muss für den
+
+| für |  | den weiterbehandelnden Arzt das |  |
+|---|---|---|---|
+| die |  | genaue Leistungsziffer der |  |
 
 OP-Datum in das vorgesehene Feld (auf dem Überweisungsschein!) und die genaue Leistungsziffer der  Betreuungsleistung als Auftrag angegeben werden.
 
 Die PVS kann hierbei unterstützend tätig werden.
-
-
----
 
 2.3.10.5 Abrechnung von Betreuungsleistungen
 
@@ -7098,6 +7128,9 @@ Die Software stellt bei einer Kombinationsbehandlung durch zwei Psychotherapeute
 
 Psychotherapie sicher, dass der Anwender die Kombinationsbehandlung explizit als „Einzeltherapie-Anteil
 
+
+---
+
 bei Durchführung durch zwei Psychotherapeuten“ (FK 4251 = 3) oder als „Gruppentherapie-Anteil bei
 
 Durchführung durch zwei Psychotherapeuten“ (FK 4251 = 4) spezifiziert.
@@ -7117,9 +7150,6 @@ Anteil“ bestimmen.
 Anwender explizit angeben, ob es sich bei seinem Anteil der Kombinationsbehandlung um
 
 a) „Einzeltherapie-Anteil bei Durchführung durch zwei Psychotherapeuten“ (FK 4251 = 3)
-
-
----
 
 b) oder „Gruppentherapie-Anteil bei Durchführung durch zwei Psychotherapeuten“ (FK 4251 = 4)
 
@@ -7173,6 +7203,9 @@ Die Software stellt sicher, dass bei der Bewilligung einer beantragten Psychothe
 
 3550X, 3551X, 3552X, 3553X, 3554X, 3555X, 3570X und 3571X die jeweiligen tatsächlichen GOPen laut EBM  in der Abrechnung in das Feld 4253 (Bewilligte GOP für den Versicherten) bzw. das Feld 4256 (Bewilligte  GOP für die Bezugsperson) übernommen werden.
 
+
+---
+
 **Begründung:**
 
 Die Höhe der Bewertung richtet sich nach der Anzahl der Teilnehmer. Infolgedessen gibt es für jedes  Psychotherapieverfahren als Gruppentherapie jeweils sieben GOPen für die Kurzzeittherapie und sieben  GOPen für die Langzeittherapie. Sobald ein Psychotherapieverfahren für die Kurzzeittherapie oder die
@@ -7185,12 +7218,7 @@ Langzeittherapie bewilligt wird, sind die dazugehörigen sieben GOPen ebenso bew
 
 sieben GOPen erstellt, die automatisch im Feld 4253 (Bewilligte GOP für den Versicherten) bzw. im Feld  4256 (Bewilligte GOP für die Bezugsperson) übertragen werden.
 
-2. Der Anwender kann die als Default eingestellte automatische Übernahme deaktivieren
-
-
----
-
-3. Der Anwender kann manuell aus den möglichen sieben GOPen für das jeweils bewilligte Verfahren die  zu übernehmenden GOPen auswählen.
+2. Der Anwender kann die als Default eingestellte automatische Übernahme deaktivieren 3. Der Anwender kann manuell aus den möglichen sieben GOPen für das jeweils bewilligte Verfahren die  zu übernehmenden GOPen auswählen.
 
 4. Der Anwender hat die Möglichkeit bereits eingetragene GOPen zu bearbeiten (GOP streichen bzw.  hinzufügen).
 
@@ -7232,6 +7260,9 @@ Falls die Software dem Anwender die Möglichkeit bietet Tagesprofile zu erstelle
 
 Anhang 3 zum EBM verwendet werden.
 
+
+---
+
 **Begründung:**
 
 Diese Anforderung resultiert aus den Angaben des Anhang 3 des EBM zu den betroffenen  psychotherapeutischen Leistungen (vgl. Beschluss des Bewertungsauschusses in seiner 439. Sitzung am 19.  Juni 2019 zur Änderung des EBM mit Wirkung zum 1. Juli 2019).
@@ -7241,9 +7272,6 @@ Diese Anforderung resultiert aus den Angaben des Anhang 3 des EBM zu den betroff
 1. Die Software verwendet bei der Erstellung eines Tagesprofils bei den GOPen 30931[G-alpha], 30932[G-
 
 alpha], 35140[G-alpha], 35141[G-alpha], 35150[G-alpha], 35151[G-alpha], 35152[G-alpha], 35401[G- alpha], 35402[G-alpha], 35405[G-alpha], 35411[G-alpha], 35412[G-alpha], 35415[G-alpha], 35421[G- alpha], 35422[G-alpha], 35425[G-alpha], 35431[G-alpha], 35432[G-alpha] und 35435[G-alpha] als  Prüfzeit die Kalkulationszeit (in Minuten) gemäß Anhang 3 zum EBM.
-
-
----
 
 **Hinweis:**
 
@@ -7293,11 +7321,14 @@ drucken.
 
 Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme ohne APK.
 
+
+---
+
 **KONDITIONALE PFLICHTFUNKTION ADT**
 
 **KP2-962** Aufruf des Musters PTV 10
 
-Die Software ermöglicht den Aufruf der PDF-Vorlage für Muster „PTV 10“ direkt aus dem System.
+Die Software ermöglicht den Aufruf der PDF-
 
 **Begründung:**
 
@@ -7305,12 +7336,7 @@ Der Anwender muss die Möglichkeit haben das Dokument über die Software aufzuru
 
 **Akzeptanzkriterium:**
 
-1. Der Anwender kann bei Bedarf die PDF-Vorlage des Musters „PTV 10“ [EXT_ITA_AHEX_PTV10] direkt aus
-
-der Software aufrufen.
-
-
----
+1. Der Anwender kann bei Bedarf die PDF der Software aufrufen.
 
 **Bedingung:**
 
@@ -7320,7 +7346,7 @@ Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme ohne APK.
 
 **KP2-963** Ausdruck des Musters PTV 10
 
-Die Software ermöglicht den Ausdruck der PDF Vorlage Muster „PTV 10“.
+Die Software ermöglicht den Ausdruck der PDF
 
 **Begründung:**
 
@@ -7328,37 +7354,48 @@ Der Anwender muss die Möglichkeit haben das Dokument über die Software aufzuru
 
 **Akzeptanzkriterium:**
 
-1. Der Anwender kann die PDF-Vorlage des Musters „PTV 10“ [EXT_ITA_AHEX_PTV10] direkt aus dem
-
-System drucken.
+1. Der Anwender kann die PDF-Vorlage des Musters  System drucken.
 
 **Bedingung:**
 
-Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme ohne APK.
+Ausgenommen von der Umsetzung dieser
 
 2.3.11.7 Beendigungsmitteilung für Psychotherapie
 
-Gemäß § 17 Absatz 7 Psychotherapie-Vereinbarung ist der Psychotherapeut verpflichtet, die Beendigung  der Richtlinientherapie anzuzeigen. Hierzu muss der Anwender die Pseudo-GOPen 88130 oder 88131 über
+Gemäß § 17 Absatz 7 Psychotherapie-Vereinbarung ist der Psychotherapeut verpflichtet, die Beendigung  der Richtlinientherapie anzuzeigen. Hierzu muss der Anwender die  die Quartalsabrechnung übermitteln:
 
-die Quartalsabrechnung übermitteln:
+Pseudo-GOP 88130:  Kennzeichnung für Beendigung einer Psychotherapie nach § 15 Psychotherapie anschließende Rezidivprophylaxe
 
-Pseudo-GOP 88130:  Kennzeichnung für Beendigung einer Psychotherapie nach § 15 Psychotherapie-Richtlinie **ohne**
+Pseudo-GOP 88131:  Kennzeichnung für Beendigung einer Psychotherapie nach § 15 Psychotherapie anschließender Rezidivprophylaxe.
 
-anschließende Rezidivprophylaxe
-
-Pseudo-GOP 88131:  Kennzeichnung für Beendigung einer Psychotherapie nach § 15 Psychotherapie-Richtlinie **mit**
-
-anschließender Rezidivprophylaxe.
-
-Die Übermittlung muss nach § 17 Absatz 7 der Psychotherapie-Vereinbarung „unverzüglich“, also in dem
-
-Quartal erfolgen, in dem das Therapieende liegt. Die Pseudo-GOP muss dem Datum zugeordnet werden, an
-
-dem die letzte Therapieeinheit (Stunde) stattgefunden hat.
+Die Übermittlung muss nach § 17 Absatz 7 der Psychotherapie- Quartal erfolgen, in dem das Therapieende liegt. Die Pseudo dem die letzte Therapieeinheit (Stunde) stattgefunden hat.
 
 Kann ein Therapieende noch nicht sicher abgesehen werden, ist eine Übermittlung der Kennzeichnung auch  in den zwei darauffolgenden Quartalen zulässig.
 
-Wird eine Psychotherapie länger als 6 Monate unterbrochen ist nach § 17 Absatz 6 Psychotherapie- Vereinbarung weiterhin eine formlose Begründung der Therapiepause an die Krankenkasse erforderlich.  Die Übermittlung der Kennzeichnung erfolgt in diesem Fall dann (nach der Wiederaufnahme der
+Wird eine Psychotherapie länger als 6 Monate unterbrochen ist nach § 17 Absatz 6 Psychotherapie- Vereinbarung weiterhin eine formlose Begründung der Therapiepause an die Krankenkasse erforderlich.
+
+Vorlage für Muster „PTV 10“ direkt aus dem System.
+
+-Vorlage des Musters
+
+Vorlage Muster „PTV 10“.
+
+Anforderung sind Softwaresysteme ohne APK.
+
+„PTV 10“ [EXT_ITA_AHEX_PTV10] direkt aus
+
+„PTV 10“ [EXT_ITA_AHEX_PTV10] direkt aus dem
+
+Pseudo-GOPen 88130 oder 88131 über
+
+Vereinbarung „unverzüglich“, also in dem  -GOP muss dem Datum zugeordnet werden, an -Richtlinie **ohne**
+
+-Richtlinie **mit**
+
+
+---
+
+Die Übermittlung der Kennzeichnung erfolgt in diesem Fall dann (nach der Wiederaufnahme der
 
 Behandlung) mit der regulären Beendigung der Psychotherapie.
 
@@ -7370,12 +7407,7 @@ regulär im 2. Quartal eines Jahres; das Therapiekontingent wird vollständig au
 
 das 2. Quartal.  b) Ein/e Patient/in beendet die Psychotherapie in Absprache mit der/dem Psychotherapeuten/in
 
-regulär im 2. Quartal eines Jahres nach der 55. von 60 bewilligten Stunden; es wird eine  Rezidivprophylaxe für die Reststunden vereinbart (Reststunden, in diesem Beispiel: 5, können
-
-
----
-
-innerhalb von 2 Jahren nach Therapieende durchgeführt werden).  Übertragung der Pseudo-GOP
+regulär im 2. Quartal eines Jahres nach der 55. von 60 bewilligten Stunden; es wird eine  Rezidivprophylaxe für die Reststunden vereinbart (Reststunden, in diesem Beispiel: 5, können  innerhalb von 2 Jahren nach Therapieende durchgeführt werden).  Übertragung der Pseudo-GOP
 
 88131 mit der Abrechnung für das 2. Quartal dieses Jahres.
 
@@ -7417,69 +7449,54 @@ indem sie zu bestimmten Zeitpunkten auf die mögliche Übermittlung einer Kennze
 
 13 gibt eine Übersicht darüber, unter welchen Bedingungen diese Hinweise bzgl. der jeweiligen GOP  gegeben werden sollen.
 
-**Hinweis auf** Anzahl
+**Hinweis auf**
 
-Zeitpunkt der
-
-Restkontingent Anforderungsfunktion
-
-**Pseudo-GOP** vergangener
-
-Hinweisgabe
-
-vorhanden
-
-Quartale ohne APK 88130
-
-35
-
-Leistungserfassung Nein
-
-KP2-965 88130
-
-0
-
-Abrechnungserstellung Nein
-
-KP2-965 88130
-
-1 und 2
-
-Abrechnungserstellung Nein
-
-KP2-966 88130 und
-
-| 2 und mehr | Abrechnungserstellung | Ja |
+|  | Zeitpunkt der |  |
 |---|---|---|
-| -35 | Leistungserfassung | -36 |
-|  | von |  |
-|  | Rezidivprophylaxe |  |
-| 0 | Abrechnungserstellung | Ja |
+|  |  | Restkontingent |
+|  | Hinweisgabe | vorhanden |
+| -35 | Leistungserfassung | Nein |
 
-KP2-967 88131
+Anforderungsfunktion
 
-88131
+**Pseudo-GOP**
 
-KP2-968 88131
+88130
 
-KP2-970
+KP2-965
 
 35 Die Anzahl der vergangenen Quartale ohne APK ist für die Erinnerungsfunktion unerheblich, falls die Hinweisgabe während der
 
-Leistungserfassung erfolgt.  36 Die Höhe des Restkontingents nach der Leistungserfassung ist für die Erinnerungsfunktion gemäß KP2-968 unerheblich
+Anzahl vergangener Quartale ohne APK Leistungserfassung erfolgt.
 
 
 ---
 
+88130
+
+0
+
+Abrechnungserstellung Nein 88130
+
+1 und 2
+
+Abrechnungserstellung Nein 88130 und
+
+| 2 und mehr | Abrechnungserstellung | Ja |
+|---|---|---|
+| -35 | Leistungserfassung | -36 |
+
 88131
 
-1
+88131
 
-Abrechnungserstellung Ja
+von  Rezidivprophylaxe 88131
 
-KP2-971
+| 0 | Abrechnungserstellung | Ja |
+|---|---|---|
+| 1 | Abrechnungserstellung | Ja |
 
-Tabelle 13  Erinnerungsfunktion: Hinweise auf die Angabe der Pseudo -GOP 88130 bzw. 88131
+88131  Tabelle 13  Erinnerungsfunktion: Hinweise auf die Angabe der Pseudo -GOP 88130 bzw. 88131
 
 Diese Erinnerungsfunktion ist allgemein davon abhängig, ob ein Restkontingent besteht, in welchem  Quartal der letzte APK stattfand und ob eine Leistung erfasst wurde. Weitere spezifische Bedingungen und
 
@@ -7493,19 +7510,15 @@ beschrieben.
 
 Psychotherapie
 
-Um den Psychotherapeuten bei der Erfassung und Übertragung einer Beendigungsmitteilung mit der  Pseudo-GOP 88130 bzw. 88131 über die Quartalsabrechnung zu unterstützen, muss die Software das  aktuell bestehende quartalsübergreifende Restkontingent einer bewilligten Psychotherapie berechnen
-
-können.
+Um den Psychotherapeuten bei der Erfassung und Übertragung einer Beendigungsmitteilung mit der  Pseudo-GOP 88130 bzw. 88131 über die Quartalsabrechnung zu unterstützen, muss die Software das  aktuell bestehende quartalsübergreifende Restkontingent einer bewilligten Psycho können.
 
 **Begründung:**
 
-Diese Anforderung resultiert aus § 17 Abs. 7 der Psychotherapie-Vereinbarung (Anlage 1 BMV-Ä).
+Diese Anforderung resultiert aus § 17 Abs. 7 der Psychotherapie-Vereinbarung (Anlage 1 BMV
 
 **Akzeptanzkriterium:**
 
-1. Die Software muss unmittelbar nach der Leistungserfassung und bei der Abrechnungserstellung das  aktuell bestehende quartalsübergreifende Restkontingent einer bewilligten Psychotherapie berechnen.
-
-2. Die Software muss dem Anwender die Möglichkeit bieten, bereits in Vorquartalen abgerechnete  Leistungen, welche von der zuständigen Kassenärztlichen Vereinigung nicht akzeptiert worden sind, zu  kennzeichnen, damit sie von weiteren Berechnungen des Restkontingents ausgeschlossen werden.
+1. Die Software muss unmittelbar nach der Leistungserfassung und bei der Abrechnungserstellung das  aktuell bestehende quartalsübergreifende Restkontingent einer bewilligten Psychotherapie berechnen. 2. Die Software muss dem Anwender die Möglichkeit bieten, bereits in Vorquartalen abgerechnete  Leistungen, welche von der zuständigen Kassenärztlichen Vereinigung nicht akzeptiert worden sind, zu  kennzeichnen, damit sie von weiteren Berechnungen des Restkontingents ausgeschlossen werden.
 
 **Bedingung:**
 
@@ -7515,16 +7528,30 @@ Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme ohne APK.
 
 Das aktuell bestehende Restkontingent einer bewilligten Psychotherapie wird quartalsübergreifend  berechnet. Es bildet sich aus der Differenz zwischen dem bewilligten Kontingent psychotherapeutischer  Leistungen als Anzahl in Summe bewilligter Therapieeinheiten und den tatsächlich geleisteten
 
-Therapieeinheiten als Anzahl in Summe abgerechneter Gebührenordnungspositionen. Eine  Gebührenordnungsposition entspricht im Regelfall einer Therapieeinheit. Bei Gruppentherapiesitzungen  von weniger als 100 Minuten aber mindestens 50 Minuten Dauer (hälftige Sitzungen), die anhand  entsprechender bundeseinheitlich kodierter Zusatzkennzeichen gekennzeichnet sind, entsprechen zwei  gekennzeichnete Gebührenordnungspositionen einer Therapieeinheit. Diese hälftigen Leistungen können
+Therapieeinheiten als Anzahl in Summe abgerechneter Gebührenordnungspositionen. Eine  Gebührenordnungsposition entspricht im Regelfall einer Therapieeinheit. Bei Gruppentherapiesitzungen  von weniger als 100 Minuten aber mindestens 50 Minuten Dauer (hälftige Sitzungen), die anhand
 
-daran erkannt werden, dass die Punktzahl der entsprechenden GOP mit Buchstaben-Suffix genau der Hälfte
+36 Die Höhe des Restkontingents nach der Leistungserfassung ist für die Erinnerungsfunktion gemäß KP2-968 unerheblich
 
-der Punktezahl der Basis-GOP ohne Buchstaben-Suffix entspricht. Das Kontingent ist unabhängig davon, ob  Einzeltherapie, Gruppentherapie oder eine der Kombinationsbehandlungen durchgeführt wird. Die
+KP2-965
 
-Berücksichtigung einer abgerechneten Gebührenordnungsposition erfolgt unabhängig von der zeitlichen  Reihenfolge von Leistung und deren Bewilligung durch die Krankenkasse.
+KP2-966
+
+KP2-967
+
+KP2-968
+
+KP2-970
+
+KP2-971
+
+therapie berechnen -Ä).
 
 
 ---
+
+entsprechender bundeseinheitlich kodierter Zusatzkennzeichen gekennzeichnet sind, entsprechen zwei  gekennzeichnete Gebührenordnungspositionen einer Therapieeinheit. Diese hälftigen Leistungen können  daran erkannt werden, dass die Punktzahl der entsprechenden GOP mit Buchstaben-Suffix genau der Hälfte
+
+der Punktezahl der Basis-GOP ohne Buchstaben-Suffix entspricht. Das Kontingent ist unabhängig davon, ob  Einzeltherapie, Gruppentherapie oder eine der Kombinationsbehandlungen durchgeführt wird. Die  Berücksichtigung einer abgerechneten Gebührenordnungsposition erfolgt unabhängig von der zeitlichen  Reihenfolge von Leistung und deren Bewilligung durch die Krankenkasse.
 
 **KONDITIONALE PFLICHTFUNKTION ADT**
 
@@ -7574,6 +7601,9 @@ einer Pseudo-GOP 88130 bzw. 88131 besteht, soll die Software den Anwender in den
 
 Diese Anforderung resultiert aus § 17 Abs. 7 der Psychotherapie-Vereinbarung (Anlage 1 BMV-Ä).
 
+
+---
+
 **Akzeptanzkriterium:**
 
 1. Falls aus einem Vorquartal eine bewilligte Psychotherapie ohne Restkontingent und ohne Übermittlung  einer Pseudo-GOP 88130 bzw. 88131 oder ohne eine Kennzeichnung nach Akzeptanzkriterium (4)  besteht, muss die Software den Anwender spätestens im Rahmen der Abrechnungserstellung für jeweils  zwei nachfolgende Quartale auf die Angabe der Pseudo-GOP 88130 hinweisen, sofern die Pseudo-GOP
@@ -7581,9 +7611,6 @@ Diese Anforderung resultiert aus § 17 Abs. 7 der Psychotherapie-Vereinbarung (A
 im laufenden Quartal noch nicht erfasst worden ist.
 
 a) Dem Anwender sollen nur bewilligte Psychotherapien ohne Restkontingent ab dem 01.01.2020  angezeigt werden.
-
-
----
 
 2. Die Software muss es dem Anwender bei bestehender Psychotherapie gemäß 1. ermöglichen, einen
 
@@ -7632,7 +7659,10 @@ Diese Anforderung resultiert aus § 17 Abs. 7 der Psychotherapie-Vereinbarung (A
 
 **Akzeptanzkriterium:**
 
-1. Falls zu einer bestehenden bewilligten Psychotherapie mit Restkontingent seit mindestens zwei  Quartalen kein APK stattgefunden hat, soll die Software den Anwender jedes Quartal spätestens im
+KONDITIONALE PFLICHTFUNKTION ADT Erinnerungsfunktion bei bewilligter Psychotherapie mit Restkontingent und ohne APK seit zwei 1. Falls zu einer bestehenden bewilligten Psychotherapie mit Restkontingent seit mindestens zwei  Quartalen kein APK stattgefunden hat, soll die Software den Anwender jedes Quartal spätestens im
+
+
+---
 
 Rahmen der Abrechnungserstellung auf die Angabe der Pseudo-GOP 88130 bzw. 88131 hinweisen,
 
@@ -7645,10 +7675,6 @@ a) Dem Anwender sollen nur bewilligte Psychotherapie mit Restkontingent angezeig
 **Bedingung:**
 
 Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme ohne APK.
-
-KONDITIONALE PFLICHTFUNKTION ADT Erinnerungsfunktion bei bewilligter Psychotherapie mit Restkontingent und ohne APK seit zwei
-
----
 
 **KONDITIONALE PFLICHTFUNKTION ADT**
 
@@ -7692,23 +7718,21 @@ der Funktionen KP2-965, KP2-966, KP2-967, KP2-968, KP2-970 und KP2-971 zu erstel
 
 Der Anwender soll die Möglichkeit haben, Listen bewilligter Psychotherapien mit fehlender  Beendigungsmitteilung mit der Pseudo-GOP 88130 bzw. 88131 zu erstellen und zu drucken.
 
+
+---
+
 **Akzeptanzkriterium:**
 
 1. Der Anwender kann Listen bewilligter Psychotherapien mit fehlender Beendigungsmitteilung jeweils  analog des Akzeptanzkriteriums (1) der Funktionen KP2-965, KP2-966, KP2-967, KP2-968, KP2-970 und
 
 KP2-971 erstellen und ausdrucken.
 
-
----
-
 |  | **KONDITIONALE** | **PFLICHTFUNKTION ADT** |
 |---|---|---|
 | **KP2-970** | Erinnerungsfunktion | bei bewilligter Psychotherapie **mit** Restkontingent und APK im |
 |  | Abrechnungsquartal |  |
 
-Falls für eine bewilligte Psychotherapie Leistungen erfasst wurden und am Quartalsende ein Restkontingent
-
-zu der bewilligten Psychotherapie besteht und sich eine Rezidivprophylaxe anschließen kann, soll die  Software den Anwender auf die Angabe der Pseudo-GOP 88131 hinweisen.
+Falls für eine bewilligte Psychotherapie Leistungen erfasst wurden zu der bewilligten Psychotherapie besteht und sich eine Rezidivprophylaxe anschließen kann, soll die  Software den Anwender auf die Angabe der Pseudo-GOP 88131 hinweisen.
 
 **Begründung:**
 
@@ -7716,9 +7740,7 @@ Diese Anforderung resultiert aus § 17 Abs. 7 der Psychotherapie-Vereinbarung (A
 
 **Akzeptanzkriterium:**
 
-1. Die Software muss den Anwender mindestens im Rahmen der Abrechnungserstellung auf die mögliche  Erfassung und Übermittlung einer „Beendigungsmitteilung mit der Pseudo b) die Dauer der bereits durchgeführten Behandlung mindestens 40 Therapieeinheiten beträgt c) im Abrechnungsquartal für eine bewilligte Psychotherapie Leistungen erfasst wurden und  d) keine Pseudo-GOP 88130 bzw. 88131 erfasst worden ist und
-
-e) die Psychotherapie nicht unterbrochen ist. 38
+1. Die Software muss den Anwender mindestens im Rahmen der Abrechnungserstellung auf die mögliche  Erfassung und Übermittlung einer „Beendigungsmitteilung mit der Pseudo b) die Dauer der bereits durchgeführten Behandlung mindestens 40 Therapieeinheiten beträgt c) im Abrechnungsquartal für eine bewilligte Psychotherapie Leistungen erfasst wurden und  d) keine Pseudo-GOP 88130 bzw. 88131 erfasst worden ist und e) die Psychotherapie nicht unterbrochen ist. 38
 
 2. Die Software kann die Hinweisgabe gemäß Akzeptanzkriterium 1. von weiteren u. g. Kriterien abhängig
 
@@ -7726,25 +7748,25 @@ machen.  3. Die Software überträgt mit der ADT-Abrechnung die vom Anwender ang
 
 **Kriterium:**
 
-Die Software kann folgende Kriterien benutzen (gemäß Richtlinie des Gemeinsamen Bundesausschusses  über die Durchführung der Psychotherapie (Psychotherapie-Richtlinie)), um zu entscheiden, ob sich eine
+Die Software kann folgende Kriterien benutzen (gemäß Richtlinie des Gemeinsamen Bundesausschusses  über die Durchführung der Psychotherapie (Psychotherapie Rezidivprophylaxe anschließen kann:
 
-Rezidivprophylaxe anschließen kann:
+1. Angabe in den Patientendaten, ob eine Rezidivprophylaxe nach dem Abschluss der Langzeittherapie  durchgeführt werden soll  2. Behandlungsdauer der Psychotherapie (vgl. Psychotherapie (3), Satz 1, 2)37
 
-1. Angabe in den Patientendaten, ob eine Rezidivprophylaxe nach dem Abschluss der Langzeittherapie  durchgeführt werden soll  2. Behandlungsdauer der Psychotherapie (vgl. Psychotherapie-Richtlinie [GBA_RiLi_Psychotherapie], §14 (3), Satz 1, 2)37
+3. Alter des Versicherten (vgl. Psychotherapie-Richtlinie, §1 (4), Satz 1)
 
-3. Alter des Versicherten (vgl. Psychotherapie-Richtlinie, §1 (4), Satz 1) 4. Vorliegen einer geistigen Behinderung des Versicherten (vgl. Psychotherapie 5. Höhe des Restkontingents (vgl. Psychotherapie-Richtlinie, §14 (3), Satz 1, 2)
+37 Psychotherapie-Richtlinie § 14 Rezidivprophylaxe, (3):  1 Bei einer Behandlungsdauer von 40 oder mehr Stunden können maximal 8 Stunden und bei einer Behandlungsdauer von 60 oder  mehr Stunden maximal 16 Stunden für die Rezidivprophylaxe genutzt werden.  2 Bei Kindern und Jugendlichen können im Falle der Hinzuziehung von relevanten Bezugspersonen bei einer Behandlungsdauer von
 
-37 Psychotherapie-Richtlinie § 14 Rezidivprophylaxe, (3):
+40 oder mehr Stunden maximal 10 Stunden und bei einer Behandlungsdauer von 60 oder mehr Stunden maximal 20 Stunden für  die Rezidivprophylaxe genutzt werden.
 
-1 Bei einer Behandlungsdauer von 40 oder mehr Stunden können maximal 8 Stunden und bei einer Behandlungsdauer von 60 oder  mehr Stunden maximal 16 Stunden für die Rezidivprophylaxe genutzt werden.
+3 Satz 2 gilt entsprechend für die Behandlung von Menschen mit einer geistigen Behinderung.
 
-2 Bei Kindern und Jugendlichen können im Falle der Hinzuziehung von relevanten Bezugspersonen bei einer Behandlungsdauer von  40 oder mehr Stunden maximal 10 Stunden und bei einer Behandlungsdauer von 60 oder mehr Stunden maximal 20 Stunden für  die Rezidivprophylaxe genutzt werden.
-
-3 Satz 2 gilt entsprechend für die Behandlung von Menschen mit einer geistigen Behinderung.  4 Sie sind Bestandteil des bewilligten Gesamtkontingents.
+4 Sie sind Bestandteil des bewilligten Gesamtkontingents.
 
 5 Die Beantragung einer alleinigen Rezidivprophylaxe ist nicht zulässig.
 
-38 vgl. Angabemöglichkeit „Die Psychotherapie wird länger als 6 Monate unterbrochen und eine formlose Begründung für die  Unterbrechnung nach § 17 Absatz 6 Psychotherapie Vereinbarung an die Krankenkasse übermittelt.“ In
+38 vgl. Angabemöglichkeit „Die Psychotherapie wird länger als 6 Monate unterbrochen und eine formlose Begründung für die
+
+Unterbrechnung nach § 17 Absatz 6 Psychotherapie Vereinbarung an die Krankenkasse übermittelt.“ In
 
 KP2-967.
 
@@ -7752,15 +7774,19 @@ KP2-967.
 
 noch nicht 21 Jahre alt sind. …
 
+und am Quartalsende ein Restkontingent
+
 GOP 88131“ hinweisen, falls
 
-39  -Richtlinie, §1 (4), Satz 5) 37 -Ä).
+-Richtlinie)), um zu entscheiden, ob sich eine
+
+-Richtlinie [GBA_RiLi_Psychotherapie], §14 39
+
+-Ä).
 
 37 und
 
 -GOP 88130
-
-37
 
 KP2-965, KP2-966,
 
@@ -7768,6 +7794,10 @@ KONDITIONALE PFLICHTFUNKTION ADT Erinnerungsfunktion bei bewilligter Psychothera
 
 
 ---
+
+4. Vorliegen einer geistigen Behinderung des Versicherten (vgl. Psychotherapie-Richtlinie, §1 (4), Satz 5)37
+
+5. Höhe des Restkontingents (vgl. Psychotherapie-Richtlinie, §14 (3), Satz 1, 2) 37
 
 **Bedingung:**
 
@@ -7891,7 +7921,7 @@ Die Software ermöglicht den Ausdruck der PDF Vorlage „Patientenerklärung Eur
 
 **Begründung:**
 
-Der Anwender muss die Möglichkeit haben das Dokument über die Software
+Der Anwender muss die Möglichkeit haben das Dokument über die Software aufzurufen und zu drucken.
 
 **Akzeptanzkriterium:**
 
@@ -7899,9 +7929,7 @@ Der Anwender muss die Möglichkeit haben das Dokument über die Software
 
 b) auch Teile der PDF-Vorlage
 
-direkt aus dem System drucken.
-
-2. Die Software druckt auf jeder einzelnen Seite der Patientenerklärung unter den Vertragsarztstempel die  ADT-Prüfnummer (PRF.NR.) aus dem Verfahren KVDT an die Position:
+direkt aus dem System drucken.  2. Die Software druckt auf jeder einzelnen Seite der Patientenerklärung unter den Vertragsarztstempel die  ADT-Prüfnummer (PRF.NR.) aus dem Verfahren KVDT an die Position:
 
 a) Die Prüfnummer muss an der definierten Position in Arial, Schriftgröße 5 aufgedruckt werden.
 
@@ -7919,7 +7947,7 @@ Das Formular „Patientenerklärung Europäische Krankenversicherung“ ist gem�
 
 **P2-948** Suche im Patientenstamm
 
-Die Software muss dem Anwender eine Funktion zur Suche und  Patientenstammdaten im Patientenstamm anbieten.
+Die Software muss dem Anwender eine Funktion zur  Patientenstammdaten im Patientenstamm anbieten.
 
 **Begründung:**
 
@@ -7935,13 +7963,11 @@ c) SKT-Zusatzangabe
 
 d) Geburtsdatum.
 
-aufzurufen und zu drucken.
-
-**oder**
-
-Identifikation bereits vorhandener
+Suche und Identifikation bereits vorhandener
 
 -Arzt-Kommunikation vorkommen, dass kein  -ID verwendet wird.
+
+**oder**
 
 
 ---
@@ -8072,9 +8098,9 @@ Rahmen der Abrechnung zu übermitteln.
 
 **Hinweis:**
 
-In Folgequartalen muss, sofern sich an dem Leistungsspektrum nichts ändert, keine Änderung an der  Konfiguration vorgenommen werden. Es schadet aber nichts, die Einstellungen einmal im Quartal
+In Folgequartalen muss, sofern sich an dem Leistungsspektrum nichts ändert, keine Änderung an der
 
-hochzuladen und zu bestätigen.
+Konfiguration vorgenommen werden. Es schadet aber nichts, die Einstellungen einmal im Quartal  hochzuladen und zu bestätigen.
 
 **Erläuterung:**
 
@@ -8176,9 +8202,7 @@ Struktur des EBM zusätzlich mit anderen, nicht RV-relevanten Analyten und/oder 
 
 sein. Die Zuordnung ist hier nicht eindeutig möglich. Somit sind im Ergebnis der Plausibilisierung nur vage
 
-Hinweise auf zu vermutende Implausibilitäten oder unvollständige Angaben möglich. Für die jeweilige
-
-Entscheidung/Auswahl ist daher stets eine Interaktion durch den Anwender notwendig und wenig  automatisierbar.
+Hinweise auf zu vermutende Implausibilitäten oder unvollständige Angaben möglich. Für die jeweilige  Entscheidung/Auswahl ist daher stets eine Interaktion durch den Anwender notwendig und wenig  automatisierbar.
 
 **PFLICHTFUNKTION ADT / RVSA**
 
@@ -8204,7 +8228,9 @@ Dieses „Vorschlagsverfahren“ bietet sich insbesondere gegen Quartalsende an,
 
 Die farbliche Hervorhebung darf auf keinen Fall so interpretiert werden können, dass dies als Fehler  erkannt wird; es soll nur eine visuelle Unterstützung darstellen. Die GOP können grundsätzlich auch mit  beliebig anderen, nicht RV-relevanten Materialien kombinierbar sein und könnten daher auch ohne RV Zertifikat legitim abgerechnet werden.
 
-**2.5.8** **Kennzeichnung der Zertifikate je Material-Analyt-GOP-Kombination bzw. alternative**  **Kennzeichnung pnSD/uu**
+**2.5.8** **Kennzeichnung der Zertifikate je Material-Analyt-GOP-Kombination bzw. alternative**
+
+**Kennzeichnung pnSD/uu**
 
 **PFLICHTFUNKTION ADT / RVSA**
 
@@ -8221,7 +8247,7 @@ a) Zertifikat vorhanden  b) Zertifikat nicht vorhanden  c) pnSD/uu
 
 ---
 
-Grundsätzlich ist davon auszugehen, dass die zur Erbringung der Analysen erforderlichen RV vorliegen, sodass alle Analysen mit dem Defaultwert „Zertifikat vorhanden“ vorbelegt sind und einmalig zu
+Grundsätzlich ist davon auszugehen, dass die zur Erbringung der Analysen erforderlichen RV vorliegen, sodass alle Analysen mit dem Defaultwert „Zertifikat vorhanden“ vorbelegt sind und
 
 bestätigen sind.
 
@@ -8281,7 +8307,7 @@ c) betriebsstättenindividuelle Material-Analyt-Kombinationen, die ausschließli
 
 untersucht werden,  d) andere Material-Analyt-Kombinationen, die in der Betriebsstätte offensichtlich nicht untersucht  werden.
 
-42 pnSD/uu = patientennahe Sofortdiagnostik mittels unit-use -Zertifikate
+42 pnSD/uu = patientennahe Sofortdiagnostik mittels unit-use -Zertifikate  einmalig zu
 
 Bedeutung
 
@@ -8379,9 +8405,7 @@ Des Weiteren können mehrere Vertragsärzte/Vertragspsychotherapeuten einer Betr
 
 **P21-010** Kennzeichnung von GOPen mit einer ASV-Teamnummer
 
-Die Software muss dem Anwender die Kennzeichnung von GOPen im Rahmen der Leistungsdokumentation
-
-mit einer ASV-Teamnummer ermöglichen.
+Die Software muss dem Anwender die Kennzeichnung von GOPen im Rahmen der Leistungsdokumentation  mit einer ASV-Teamnummer ermöglichen.
 
 **Begründung:**
 
@@ -8623,15 +8647,13 @@ Das System übernimmt die Daten des digitalen Musters fall bedeutet:
 
 1. Dem Anwender wird die Möglichkeit gegeben, einen neuen Abrechnungsfall (im ADT der Satzart 0102) anzulegen.  2. In diesem Abrechnungsfall wird kein Einlesedatum erzeugt. 3. Die Versichertendaten sowie die weiteren Daten des digitalen Musters werden automatisiert in den  Abrechnungsfall übernommen. Dabei gelten die sich aus der KVDT Regelungen, so dass die Datenübernahme bei digitalen Mustern u Datenübernahme bei Papiermustern.
 
-4. Die Daten des digitalen Musters, für die keine Übernahmeregelung aus der KVDT Datensatzbeschreibung vorliegt, werden automatisiert und  System übernommen. Es gelten dabei die Übernahmeregelungen aus Datenübernahme von  Papiermustern.  5. Die übernommenen Daten sind für den Anwender jederzeit änderbar.
+4. Die Daten des digitalen Musters, für die keine Übernahmeregelung aus der KVDT Datensatzbeschreibung vorliegt, werden automatisiert und fallbezogen an die entsprechende Stelle im  System übernommen. Es gelten dabei die Übernahmeregelungen aus Datenübernahme von  Papiermustern.  5. Die übernommenen Daten sind für den Anwender jederzeit änderbar.
 
-getreu (siehe KP2-570) in die Abrechnung. Dies
+-zu-Arzt-
+
+getreu (siehe KP2-570) in die Abrechnung. Dies -Datenpaket mit
 
 -Datensatzbeschreibung ableitenden  nter denselben Regeln abläuft wie die
-
-fallbezogen an die entsprechende Stelle im -zu-Arzt-
-
--Datenpaket mit
 
 
 ---
@@ -8941,7 +8963,7 @@ P5-30
 
 Alle Anforderungen des Kapitels  7.1
 
-Alle Anforderungen des Kapitels  7.6  Tabelle 16  ADT-Anforderungen für die Abrechnung von Hybrid-DRGs
+Alle Anforderungen des Kapitels  7.6  Tabelle 16  ADT-Anforderungen für die Abrechnung von Hybrid -DRGs
 
 -Anforderungen für die Abrechnung von Hybrid
 
@@ -9244,7 +9266,11 @@ in der Abrechnung anzugeben.
 
 **Akzeptanzkriterium:**
 
-1. Falls bei der Erfassung von Hybrid-DRG-Leistungen die Differenz zwischen dem Datum in Feld 5029  (Ende der Leistung) und dem Datum in Feld 5028 (Beginn der Leistung) größer als  Software den Anwender mit einer Warnmeldung darauf hinweisen, dass bei Hybrid Beginn- und Enddatum nicht mehr als zwei Tage auseinanderliegen dürfen.
+1. Falls bei der Erfassung von Hybrid-DRG-Leistungen die Differenz zwischen dem Datum in Feld 5029  (Ende der Leistung) und dem Datum in Feld 5028 (Beginn der Leistung) größer als 2 ist, muss die
+
+Software den Anwender mit einer Warnmeldung darauf hinweisen, dass bei Hybrid-DRG-Leistungen
+
+Beginn- und Enddatum nicht mehr als zwei Tage auseinanderliegen dürfen.
 
 **Bedingung:**
 
@@ -9252,7 +9278,9 @@ Umsetzung der Abrechnung von Hybrid-DRGs gemäß der Satzart HDRG.
 
 **Hinweis:**
 
-Maßgeblich für die Ermittlung der Verweildauer ist die Zahl der  Aufnahmetag sowie jeder weitere Tag des Krankenhausaufenthalts ohne den Verlegungs Entlassungstag aus dem Krankenhaus; wird ein Patient oder eine Patientin am gleichen Tag aufgenommen  und verlegt oder entlassen, gilt dieser Tag als Aufnahmetag.
+Maßgeblich für die Ermittlung der Verweildauer ist die Zahl der Belegungstage. Belegungstage sind der  Aufnahmetag sowie jeder weitere Tag des Krankenhausaufenthalts ohne den Verlegungs- oder
+
+Entlassungstag aus dem Krankenhaus; wird ein Patient oder eine Patientin am gleichen Tag aufgenommen  und verlegt oder entlassen, gilt dieser Tag als Aufnahmetag.
 
 **Beispiel:**
 
@@ -9265,10 +9293,6 @@ Maßgeblich für die Ermittlung der Verweildauer ist die Zahl der  Aufnahmetag s
 Entlassung am: 20.02.2026 (FK 5029)
 
 => es wird **eine** Warnung angezeigt (Verweildauer = 3 Tag)
-
-2 ist, muss die  -DRG-Leistungen
-
-Belegungstage. Belegungstage sind der  - oder
 
 
 ---
@@ -9987,9 +10011,7 @@ grundsätzlich von geschlechtsspezifischen Leistungen ausgeschlossen werden.
 
 */gnr/bedingung/administrative_gender_cd* der GO-Stammdatei.
 
-a) Die Software zeigt keinen Warnhinweis an und überträgt mit der Abrechnung die vom Anwender
-
-angegebene GOP.
+a) Die Software zeigt keinen Warnhinweis an und überträgt mit der Abrechnung die vom Anwender  angegebene GOP.
 
 **7.5.7** **Abrechnungsunterstützung**
 
@@ -10005,7 +10027,9 @@ Versichertenpauschalen und die Zusatzpauschalen bei Terminvermittlung automatisc
 
 Im EBM wurden zum 1. Oktober 2013 altersabhängige Versichertenpauschalen für Haus- und Kinderärzte
 
-(„altersklassenspezifische kodierte Zusatznummern“) eingeführt. Zum 1. September 2019 und 1. Januar  2023 wurden weitere altersabhängige Zusatzpauschalen für die Behandlung aufgrund einer  Terminvermittlung ebenfalls in Form altersklassenspezifisch kodierter Zusatznummern eingeführt. Zum 1.
+(„altersklassenspezifische kodierte Zusatznummern“) eingeführt. Zum 1. September 2019 und 1. Januar
+
+2023 wurden weitere altersabhängige Zusatzpauschalen für die Behandlung aufgrund einer  Terminvermittlung ebenfalls in Form altersklassenspezifisch kodierter Zusatznummern eingeführt. Zum 1.
 
 Juli 2026 wurde eine weitere Versichertenpauschale (Versorgungspauschale bspw. GOP 03100, 03103 oder
 
@@ -10028,7 +10052,9 @@ ansetzt und die GOP Pauschale in altersklassenspezifische Zusatznummern differen
 
 ---
 
-a) Falls aufgrund einer unvollständigen oder fehlenden Angabe des Geburtsdatums des Patienten die  Altersgruppe automatisch nicht eindeutig bestimmt werden kann (z.B., wenn das Geburtsdatum
+a) Falls aufgrund einer unvollständigen oder fehlenden Angabe des Geburtsdatums des Patienten die
+
+Altersgruppe automatisch nicht eindeutig bestimmt werden kann (z.B., wenn das Geburtsdatum
 
 unbekannt ist), dann muss das System dem Anwender die Möglichkeit geben, die  Leistungssubstitution manuell durchzuführen.
 
@@ -10060,7 +10086,15 @@ um Behandlungsfälle im Folgequartal eindeutig kennzeichnen und bei der Abrechnu
 
 3. Falls in einem Behandlungsfall im Vorquartal eine der folgenden GOP abgerechnet wurde:
 
-a) GOP 03100 oder  b) GOP 03103 oder  c) GOP 03104,  muss die Software im unmittelbar folgenden Quartal auf die Angabe der Pseudo-GOP 88230 hinweisen,  sofern ein Arzt-Patient-Kontakt stattfindet.  4. Die Software überträgt mit der ADT-Abrechnung die vom Anwender angegebene Pseudo-GOP 88230 im
+a) GOP 03100 [G-alpha] oder
+
+| b) GOP 03103 | [G-alpha] | oder |
+|---|---|---|
+| c) GOP 03104 | [G-alpha], |  |
+
+muss die Software im **unmittelbar folgenden Quartal** beim ersten APK auf die Angabe der Pseudo-GOP
+
+88230 hinweisen, sofern ein Arzt-Patient-Kontakt stattfindet.  4. Die Software überträgt mit der ADT-Abrechnung die vom Anwender angegebene Pseudo-GOP 88230 im
 
 Feld 5001.  5. Die Software darf die Abrechnung der Pseudo-GOP 88230 nicht vom Vorliegen weiterer
 
@@ -10074,7 +10108,7 @@ Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme ohne APK.
 
 Die Gebührenordnungsposition 88230 wird ab Q3/2026 in die Liste der kodierten Zusatznummern  aufgenommen und kann erst für Q4/2026 abgerechnet werden. Aus fachlicher Sicht kann die GOP 88230
 
-erstmals im vierten Quartal 2026 in der Abrechnung angegeben werden, da die GOP 03100, 03103 oder  03104 erstmals im dritten Quartal 2026 zur Anwendung kommen.
+GOP 03103 [G-alpha] oder GOP 03104 [G-alpha], erstmals im vierten Quartal 2026 in der Abrechnung angegeben werden, da die GOP 03100, 03103 oder  03104 erstmals im dritten Quartal 2026 zur Anwendung kommen.
 
 
 ---
@@ -10085,13 +10119,17 @@ erstmals im vierten Quartal 2026 in der Abrechnung angegeben werden, da die GOP 
 
 **P6-810** Protokollierung und Anzeige der Änderungen zur Leistungsdokumentation
 
-Wird eine systemseitige Änderung zur Leistungsdokumentation auf Basis der  Abrechnungsfähigkeitsprüfungen vorgenommen, müssen die Änderungen protokolliert und angezeigt  werden können.
+Wird eine systemseitige Änderung zur Leistungsdokumentation auf Basis der
+
+Abrechnungsfähigkeitsprüfungen vorgenommen, müssen die Änderungen protokolliert und angezeigt  werden können.
 
 **PFLICHTFUNKTION ADT**
 
 **P6-820** Rücknahme von Änderungen
 
-Manuelle oder systemseitige Änderungen zur Leistungsdokumentation müssen vom Anwender wieder  rückgängig gemacht werden können.
+Manuelle oder systemseitige Änderungen zur Leistungsdokumentation müssen vom Anwender wieder
+
+rückgängig gemacht werden können.
 
 **PFLICHTFUNKTION ADT**
 
@@ -10121,7 +10159,9 @@ werden.
 
 **Begründung:**
 
-Im § 295, Absatz 1 SGB V ist geregelt, dass die Verschlüsselung von durchgeführten Operationen und  sonstige Prozeduren mit der jeweils gültigen Fassung des Prozedurenschlüssels zu erfolgen hat. Die  bereitgestellte Version der SDOPS repräsentiert die jeweils gültige Fassung der Prozedurenschlüssel zur  Anwendung im Geltungsbereich des § 295 SGB V.
+Im § 295, Absatz 1 SGB V ist geregelt, dass die Verschlüsselung von durchgeführten Operationen und  sonstige Prozeduren mit der jeweils gültigen Fassung des Prozedurenschlüssels zu erfolgen hat. Die  bereitgestellte Version der SDOPS repräsentiert die jeweils gültige Fassung der Prozedurenschlüssel zur
+
+Anwendung im Geltungsbereich des § 295 SGB V.
 
 **Akzeptanzkriterium:**
 
@@ -10188,11 +10228,11 @@ Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme ohne APK.
 
 **KP6-870** Existenzprüfung
 
-Die Software muss prüfen und sicherstellen, dass ein vom Anwender eingegebener OP aktuellen OPS-Stammdatei vorhanden ist.
+Die Software muss prüfen und sicherstellen, dass ein vom  aktuellen OPS-Stammdatei vorhanden ist.
 
 **-Stammdatei**
 
--Schlüssel in der
+Anwender eingegebener OP-Schlüssel in der
 
 
 ---
@@ -10258,7 +10298,9 @@ gleich „N“ definiert ist, muss die Software sicherstellen,
 
 **Begründung:**
 
-Die Abweichung der Seitenangabe im Anhang 2 bzw. in der GO Bewertungsausschusses nach § 87 Abs. 1 Satz 1 SGB V zur Änderung des Einheitlichen  Bewertungsmaßstabes (EBM) in seiner 167. Sitzung (schriftliche Beschlussfassung), mit Wirkung zum 1.  Januar 2009, in der sich darauf verständigt wurde, dass bei der Angabe d vertragsärztlichen Versorgungsbereich eine entsprechende Angabe der Seitenlokalisation R (rechts) bzw. L  (links) zur Spezifizierung der operativen Maßnahme anzugeben ist.
+Die Abweichung der Seitenangabe im Anhang 2 bzw. in der GO-Stamm beruht auf dem Beschluss des
+
+Bewertungsausschusses nach § 87 Abs. 1 Satz 1 SGB V zur Änderung des Einheitlichen  Bewertungsmaßstabes (EBM) in seiner 167. Sitzung (schriftliche Beschlussfassung Januar 2009, in der sich darauf verständigt wurde, dass bei der Angabe des OPS 5 vertragsärztlichen Versorgungsbereich eine entsprechende Angabe der Seitenlokalisation R (rechts) bzw. L  (links) zur Spezifizierung der operativen Maßnahme anzugeben ist.
 
 **Akzeptanzkriterium:**
 
@@ -10272,9 +10314,7 @@ Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme ohne APK.
 
 Die Regelungen der Anforderung KP6-871 greifen für den OPS-Code 5-622.5 nicht.
 
--Stamm beruht auf dem Beschluss des
-
-es OPS 5-622.5 im
+), mit Wirkung zum 1.  -622.5 im
 
 
 ---
@@ -10289,9 +10329,7 @@ Die Bedruckung des Personalienfeldes aller vertragsärztlichen Formulare erfolgt
 
 Grundsätzliche Informationen zur Bedruckung von vertragsärztlichen Formularen können der  [KBV_Vereinbarung_Vordrucke] bzw. dem Dokument [KBV_Erläuterung_Vordrucke] entnommen werden.
 
-Alle weiteren Funktionen zur Bedruckung von vertragsärztlichen Formularen wurden ab dem 01.04.2014
-
-durch entsprechende Funktionen im „Anforderungskatalog Formularbedruckung“
+Alle weiteren Funktionen zur Bedruckung von vertragsärztlichen Formularen wurden ab dem 01.04.2014  durch entsprechende Funktionen im „Anforderungskatalog Formularbedruckung“
 
 [KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung] verbindlich (vgl. auch P2-06) ersetzt!
 

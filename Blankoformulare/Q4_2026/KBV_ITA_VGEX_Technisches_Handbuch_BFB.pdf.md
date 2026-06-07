@@ -211,9 +211,17 @@ Muster 13  3.11.1 Barcode Inhalt Muster 13/E
 
 3.34
 
-**4**
-
-4.1  4.2  4.3  4.4  4.5  4.6  4.7  4.8  4.9
+| **4** | **ANFORDERUNGSKATALOG BFB** | **106** |
+|---|---|---|
+| 4.1 | Zielbestimmung | 106 |
+| 4.2 | Erläuterung der Funktionsdarstellung | 106 |
+| 4.3 | Erläuterung der Zulässige BFB-Formulare | 106 |
+| 4.4 | Formulare als Druck-Dateien | 107 |
+| 4.5 | Barcode PDF 417 | 107 |
+| 4.6 | Barcode-Lesegeräte | 107 |
+| 4.7 | Sicherheitspapier | 107 |
+| 4.8 | Änderungsdienst / Logistik | 107 |
+| 4.9 | Bedruckungsvorgaben | 107 |
 
 **5**
 
@@ -236,12 +244,6 @@ Muster 70  3.33.1 Barcode Inhalt Muster 70a/E
 Muster 70a  3.34.1 Barcode Inhalt Muster 70Aa/E
 
 3.34.2 Barcode Inhalt Muster 70Ab/E
-
-**ANFORDERUNGSKATALOG BFB**
-
-Zielbestimmung  Erläuterung der Funktionsdarstellung
-
-Erläuterung der Zulässige BFB-Formulare  Formulare als Druck-Dateien  Barcode PDF 417  Barcode-Lesegeräte  Sicherheitspapier  Änderungsdienst / Logistik  Bedruckungsvorgaben
 
 **TECHNISCHE GRUNDLAGEN DES PDF417**
 
@@ -278,12 +280,6 @@ Barcode-Inhalt  Technische Vorgaben  Anhang - technische Grundlagen des PDF417 5
 **REFERENZIERTE DOKUMENTE**
 
 101  101  102  102  103  104  104  105
-
-**106**
-
-106  106  106  107  107  107
-
-107  107  107
 
 **111**
 
@@ -751,101 +747,29 @@ In allen Mustern des Entlassmanagements gilt für das Feld „LANR“, dass bei 
 
 **2.11.1**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **Standardbarcode Typ 1**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **163 + TABS**
 
@@ -895,38 +819,29 @@ Format: JJJJMMTT  wenn vorhanden
 
 Format: JJJJMMTT
 
-**1**
+Versicherungsschutz Ende Besondere Personengruppe **1**
 
 
 ---
 
 **2.11.2** **Standardbarcode Typ 2 (gekürzter Barcode)**
 
-**NR. FELDBEZEICHNUNG**
-
-**01 Formularcode**
-
-**02 Formularcodeergänzung**
-
-**03 Versionsnummer**
-
-**04 Versicherungsschutz Ende**
-
-**05 Kostenträgerkennung**
-
-**06 Versicherten-ID**
-
-**07 Versichertenart**
-
-**08 Besondere Personengruppe**
-
-**09 DMP-Kennzeichnung**
-
-**10 (Neben-)Betriebsstättennum-** **mer**
-
-**11 LANR**
-
-**12 Ausstellungsdatum**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Versicherungsschutz** | **Ende** 8 |
+| **05** | **Kostenträgerkennung** | 9 |
+| **06** | **Versicherten-ID** | <=12 |
+| **07** | **Versichertenart** | 1 |
+| **08** | **Besondere** | **Personengruppe** 2 |
+| **09** | **DMP-Kennzeichnung** | 2 |
+| **10** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **11** | **LANR** | 9 |
+| **12** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
@@ -941,30 +856,6 @@ Der Standardbarcode vom Typ 4 enthält die  doch können zusätzlich formularspe
 **2.11.5** **Standardbarcode Typ 5**
 
 Der Barcode vom Typ 5 enthält nur formularspezifische Einträge und wird dann verwendet, wenn perso- nenbezogene Daten nicht vorgesehen sind.
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **65 + TABS**
 
@@ -1006,7 +897,7 @@ Format : JJJJMMTT  wenn vorhanden
 
 Format : JJJJMMTT
 
-**2**
+Versicherungsschutz Ende Besondere Personengruppe **2**
 
 
 ---
@@ -1017,49 +908,31 @@ Format : JJJJMMTT
 
 **3.1.1**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
-
-**16**
-
-**17**
-
-**18**
-
-**19**
-
-**20**
-
-**21**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
+| **16** | **Belegarztbehandlung** | 1 |
+| **17** | **Notfall** | 1 |
+| **18** | **Unfall** | 1 |
+| **19** | **BVG** | 1 |
+| **20** | **Diagnoseart** | 1 |
+| **21** | **Diagnose** | <=49 |
 
 **MAXIMALE GESAMTLÄNGE**
 
@@ -1068,90 +941,6 @@ Format : JJJJMMTT
 **MUSTER 2**
 
 **Barcode Inhalt Muster 2a/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**Belegarztbehandlung**
-
-**Notfall**
-
-**Unfall**
-
-**BVG**
-
-**Diagnoseart**
-
-**Diagnose**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
-
-1
-
-1
-
-1
-
-1
-
-1
-
-<=49
 
 **217 + TABS**
 
@@ -1223,7 +1012,7 @@ Format : JJJJMMTT 1 = angekreuzt
 
 Trennzeichen ist Komma  +Leerzeichen
 
-**TYP 3**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 3**
 
 
 ---
@@ -1234,133 +1023,33 @@ Wenn im Eingabefeld „Diagnose“ auf dem Formular mehr als 49 Zeichen einhalte
 
 **3.1.2**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
-
-**16**
-
-**17**
-
-**18**
-
-**19**
-
-**20**
-
-**21**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
+| **16** | **Belegarztbehandlung** | 1 |
+| **17** | **Notfall** | 1 |
+| **18** | **Unfall** | 1 |
+| **19** | **BVG** | 1 |
+| **20** | **Diagnoseart** | 1 |
+| **21** | **Diagnose** | <=49 |
 
 **Barcode Inhalt Muster 2b/E**
-
-**FELDBEZEICHNUNG**
-
-**FELD-** **LÄNGE**
-
-**Formularcode**
-
-2
-
-**Formularcodeergänzung** 1
-
-**Versionsnummer**
-
-2
-
-**Nachname**
-
-<=45
-
-**Vorname**
-
-<=45
-
-**Geburtsdatum**
-
-8
-
-**Versicherungsschutz Ende** 8
-
-**Kostenträgerkennung**
-
-9
-
-**Versicherten-ID**
-
-<=12
-
-**Versichertenart**
-
-1
-
-**Besondere Personengruppe** 2
-
-**DMP-Kennzeichnung**
-
-2
-
-**(Neben-)Betriebsstättennum-** 9
-
-**mer**
-
-**LANR**
-
-9
-
-**Ausstellungsdatum**
-
-8
-
-**Belegarztbehandlung**
-
-1
-
-**Notfall**
-
-1
-
-**Unfall**
-
-1
-
-**BVG**
-
-1
-
-**Diagnoseart**
-
-1
-
-**Diagnose**
-
-<=49
 
 **TYP ERLAUBTE INHALTE**
 
@@ -1428,7 +1117,7 @@ JJJJMMTT 1 = angekreuzt
 
 1 = ICD10, 2 = Klartext
 
-Trennzeichen ist Komma  +Leerzeichen
+Versicherungsschutz Ende Besondere Personengruppe Trennzeichen ist Komma  +Leerzeichen
 
 
 ---
@@ -1450,121 +1139,35 @@ Wenn im Eingabefeld „Diagnose“ auf dem Formular mehr 49 Zeichen einhalten si
 
 **3.2.1**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
-
-**16**
-
-**17**
-
-**18**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
+| **16** | **Voraussichtlicher** | **Entbin-** 8 |
+|  | **dungstermin** |  |
+| **17** | **Untersuchungsdatum** | 8 |
+| **18** | **Besondere** | **Feststellungen** <=39 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **MUSTER 3**
 
 **Barcode Inhalt Muster 3a/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**Voraussichtlicher Entbin-** **dungstermin**
-
-**Untersuchungsdatum**
-
-**Besondere Feststellungen**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
-
-8
-
-8
-
-<=39
 
 **218 + TABS**
 
@@ -1622,7 +1225,7 @@ Format : JJJJMMTT
 
 Format : JJJJMMTT
 
-**TYP 3**
+Versicherungsschutz Ende Besondere Personengruppe Voraussichtlicher Entbin- Besondere Feststellungen **TYP 3**
 
 
 ---
@@ -2452,103 +2055,31 @@ Da der Barcode bei maximaler Befüllung der Felder eine Höhe von 4,8 cm erreich
 
 **3.5.1**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **MUSTER 8**
 
 **Barcode Inhalt Muster 8/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **163 + TABS**
 
@@ -2594,7 +2125,7 @@ Format : JJJJMMTT
 
 Format : JJJJMMTT
 
-**TYP 1**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 1**
 
 
 ---
@@ -2603,103 +2134,31 @@ Format : JJJJMMTT
 
 **3.6.1**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **MUSTER 8A**
 
 **Barcode Inhalt Muster 8A/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **163 + TABS**
 
@@ -2745,7 +2204,7 @@ Format : JJJJMMTT
 
 Format : JJJJMMTT
 
-**TYP 1**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 1**
 
 
 ---
@@ -4610,103 +4069,31 @@ als Abschluss zu codieren sind.
 
 **3.9.1**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **MUSTER 11**
 
 **Barcode Inhalt Muster 11/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **163 + TABS**
 
@@ -4752,7 +4139,7 @@ Format : JJJJMMTT
 
 Format : JJJJMMTT
 
-**TYP 1**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 1**
 
 
 ---
@@ -4761,151 +4148,39 @@ Format : JJJJMMTT
 
 **3.10.1**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
-
-**16**
-
-**17**
-
-**18**
-
-**19**
-
-**20**
-
-**21**
-
-**22**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
+| **16** | **Diagnose** | <=46 |
+| **17** | **Erst-/Folgeverordnung** | 1 |
+| **18** | **Unfall** | 1 |
+| **19** | **SER** | 1 |
+| **20** | **Zeitraum von** | 6 |
+| **21** | **Zeitraum bis** | 6 |
+| **22** | **Herrichten der** | **Medikamenten-** 1 |
+|  | **box** |  |
 
 **MUSTER 12**
 
 **Barcode Inhalt Muster 12a/E**
 
-**FELDBEZEICHNUNG**
-
-**FELD-**
-
-**LÄNGE**
-
-**Formularcode**
-
-2
-
-**Formularcodeergänzung**
-
-1
-
-**Versionsnummer**
-
-2
-
-**Nachname**
-
-<=45
-
-**Vorname**
-
-<=45
-
-**Geburtsdatum**
-
-8
-
-**Versicherungsschutz Ende**
-
-8
-
-**Kostenträgerkennung**
-
-9
-
-**Versicherten-ID**
-
-<=12
-
-**Versichertenart**
-
-1
-
-**Besondere Personengruppe** 2
-
-**DMP-Kennzeichnung**
-
-2
-
-**(Neben-)Betriebsstättennum-** 9
-
-**mer**
-
-**LANR**
-
-9
-
-**Ausstellungsdatum**
-
-8
-
-**Diagnose**
-
-<=46
-
-**Erst-/Folgeverordnung**
-
-1
-
-**Unfall**
-
-1
-
-**SER**
-
-1
-
-**Zeitraum von**
-
-6
-
-**Zeitraum bis**
-
-6
-
-**Herrichten der Medikamenten-** 1
-
-**box**
-
-**TYP ERLAUBTE**
-
-**INHALTE**
+**TYP ERLAUBTE**  **INHALTE**
 
 n 12
 
@@ -4971,7 +4246,9 @@ e = Erstverordnung  f = Folgeverordnung 1 = angekreuzt
 
 Format: JJMMTT
 
-Format: JJMMTT 1 = angekreuzt
+Format: JJMMTT
+
+Versicherungsschutz Ende Besondere Personengruppe Herrichten der Medikamenten-1 = angekreuzt
 
 
 ---
@@ -5824,149 +5101,37 @@ Zeitraum und Häufigkeit der Maßnahmen: „TTMM“ oder „TT.MM“ oder „TT 
 
 **3.10.2**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
-
-**16**
-
-**17**
-
-**18**
-
-**19**
-
-**20**
-
-**21**
-
-**22**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
+| **16** | **Diagnose** | <=46 |
+| **17** | **Erst-/Folgeverordnung** | 1 |
+| **18** | **Unfall** | 1 |
+| **19** | **SER** | 1 |
+| **20** | **Zeitraum von** | 6 |
+| **21** | **Zeitraum bis** | 6 |
+| **22** | **Herrichten der** | **Medikamenten-** 1 |
+|  | **box** |  |
 
 **Barcode Inhalt Muster 12b/E**
 
-**FELDBEZEICHNUNG**
-
-**FELD-**
-
-**LÄNGE**
-
-**Formularcode**
-
-2
-
-**Formularcodeergänzung**
-
-1
-
-**Versionsnummer**
-
-2
-
-**Nachname**
-
-<=45
-
-**Vorname**
-
-<=45
-
-**Geburtsdatum**
-
-8
-
-**Versicherungsschutz Ende**
-
-8
-
-**Kostenträgerkennung**
-
-9
-
-**Versicherten-ID**
-
-<=12
-
-**Versichertenart**
-
-1
-
-**Besondere Personengruppe** 2
-
-**DMP-Kennzeichnung**
-
-2
-
-**(Neben-)Betriebsstättennum-** 9
-
-**mer**
-
-**LANR**
-
-9
-
-**Ausstellungsdatum**
-
-8
-
-**Diagnose**
-
-<=46
-
-**Erst-/Folgeverordnung**
-
-1
-
-**Unfall**
-
-1
-
-**SER**
-
-1
-
-**Zeitraum von**
-
-6
-
-**Zeitraum bis**
-
-6
-
-**Herrichten der Medikamenten-** 1
-
-**box**
-
-**TYP ERLAUBTE**
-
-**INHALTE**
+**TYP ERLAUBTE**  **INHALTE**
 
 n 12
 
@@ -6032,7 +5197,9 @@ e = Erstverordnung  f = Folgeverordnung 1 = angekreuzt
 
 Format: JJMMTT
 
-Format: JJMMTT 1 = angekreuzt
+Format: JJMMTT
+
+Versicherungsschutz Ende Besondere Personengruppe Herrichten der Medikamenten-1 = angekreuzt
 
 
 ---
@@ -6889,149 +6056,37 @@ Inhalt besitzen. Zu diesem Zweck sollen die
 
 **3.10.3**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
-
-**16**
-
-**17**
-
-**18**
-
-**19**
-
-**20**
-
-**21**
-
-**22**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
+| **16** | **Diagnose** | <=46 |
+| **17** | **Erst-/Folgeverordnung** | 1 |
+| **18** | **Unfall** | 1 |
+| **19** | **SER** | 1 |
+| **20** | **Zeitraum von** | 6 |
+| **21** | **Zeitraum bis** | 6 |
+| **22** | **Herrichten der** | **Medikamenten-** 1 |
+|  | **box** |  |
 
 **Barcode Inhalt Muster 12c/E**
 
-**FELDBEZEICHNUNG**
-
-**FELD-**
-
-**LÄNGE**
-
-**Formularcode**
-
-2
-
-**Formularcodeergänzung**
-
-1
-
-**Versionsnummer**
-
-2
-
-**Nachname**
-
-<=45
-
-**Vorname**
-
-<=45
-
-**Geburtsdatum**
-
-8
-
-**Versicherungsschutz Ende**
-
-8
-
-**Kostenträgerkennung**
-
-9
-
-**Versicherten-ID**
-
-<=12
-
-**Versichertenart**
-
-1
-
-**Besondere Personengruppe** 2
-
-**DMP-Kennzeichnung**
-
-2
-
-**(Neben-)Betriebsstättennum-** 9
-
-**mer**
-
-**LANR**
-
-9
-
-**Ausstellungsdatum**
-
-8
-
-**Diagnose**
-
-<=46
-
-**Erst-/Folgeverordnung**
-
-1
-
-**Unfall**
-
-1
-
-**SER**
-
-1
-
-**Zeitraum von**
-
-6
-
-**Zeitraum bis**
-
-6
-
-**Herrichten der Medikamenten-** 1
-
-**box**
-
-**TYP ERLAUBTE**
-
-**INHALTE**
+**TYP ERLAUBTE**  **INHALTE**
 
 n 12
 
@@ -7097,7 +6152,9 @@ e = Erstverordnung  f = Folgeverordnung 1 = angekreuzt
 
 Format: JJMMTT
 
-Format: JJMMTT 1 = angekreuzt
+Format: JJMMTT
+
+Versicherungsschutz Ende Besondere Personengruppe Herrichten der Medikamenten-1 = angekreuzt
 
 
 ---
@@ -8226,137 +7283,37 @@ Der gesamte bedruckte  Feldinhalt der dritten  Zeile 1 = angekreuzt
 
 **3.12.1**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
-
-**16**
-
-**17**
-
-**18**
-
-**19**
-
-**20**
-
-**21**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
+| **16** | **Folgegerät** | 1 |
+| **17** | **Unfall / Unfallfolgen** | 1 |
+| **18** | **BVG** | 1 |
+| **19** | **Diagnoseart** | 1 |
+| **20** | **Diagnose** | <=50 |
+| **21** | **Hörhilfe notwendig** | 1 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **MUSTER 15**
 
 **Barcode Inhalt Muster 15.1/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**Folgegerät**
-
-**Unfall / Unfallfolgen**
-
-**BVG**
-
-**Diagnoseart**
-
-**Diagnose**
-
-**Hörhilfe notwendig**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
-
-1
-
-1
-
-1
-
-1
-
-<=50 1
 
 **218 + TABS**
 
@@ -8424,7 +7381,7 @@ Format : JJJJMMTT 1 = ja  2 = nein
 
 r = rechts  l = links  b = beiderseits
 
-**TYP 3**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 3**
 
 
 ---
@@ -8838,103 +7795,31 @@ unbekannt („U“ im Barcode) sein. In Ausnahme zu
 
 **3.14.1**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **MUSTER 20**
 
 **Barcode Inhalt Muster 20b/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **163 + TABS**
 
@@ -8982,7 +7867,7 @@ Format : JJJJMMTT
 
 Format : JJJJMMTT
 
-**TYP 1**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 1**
 
 
 ---
@@ -9374,8 +8259,6 @@ n
 
 n 1; 2
 
-**TYP**
-
 **FORMAT/ BEMERKUNG**
 
 Nr. des Musters
@@ -9394,7 +8277,7 @@ JJMMTT
 
 JJMMTT 1 = ja  2 = nein
 
-**3**
+**TYP 3**
 
 
 ---
@@ -9403,103 +8286,31 @@ JJMMTT 1 = ja  2 = nein
 
 **3.17.1**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **MUSTER 26**
 
 **Barcode Inhalt Muster 26a/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **163 + TABS**
 
@@ -9545,108 +8356,36 @@ Format : JJJJMMTT
 
 Format : JJJJMMTT
 
-**TYP 1**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 1**
 
 
 ---
 
 **3.17.2**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **Barcode Inhalt Muster 26b/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **163 + TABS**
 
@@ -9694,108 +8433,36 @@ Format : JJJJMMTT
 
 Format : JJJJMMTT
 
-**TYP 1**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 1**
 
 
 ---
 
 **3.17.3**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **Barcode Inhalt Muster 26c/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **163 + TABS**
 
@@ -9843,7 +8510,7 @@ Format : JJJJMMTT
 
 Format : JJJJMMTT
 
-**TYP 1**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 1**
 
 
 ---
@@ -9852,103 +8519,31 @@ Format : JJJJMMTT
 
 **3.18.1**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **MUSTER 27**
 
 **Barcode Inhalt Muster 27a/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **163 + TABS**
 
@@ -9996,108 +8591,36 @@ Format : JJJJMMTT
 
 Format : JJJJMMTT
 
-**TYP 1**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 1**
 
 
 ---
 
 **3.18.2**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **Barcode Inhalt Muster 27b/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **163 + TABS**
 
@@ -10145,108 +8668,36 @@ Format : JJJJMMTT
 
 Format : JJJJMMTT
 
-**TYP 1**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 1**
 
 
 ---
 
 **3.18.3**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **Barcode Inhalt Muster 27c/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **163 + TABS**
 
@@ -10294,7 +8745,7 @@ Format : JJJJMMTT
 
 Format : JJJJMMTT
 
-**TYP 1**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 1**
 
 
 ---
@@ -10303,103 +8754,31 @@ Format : JJJJMMTT
 
 **3.19.1**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **MUSTER 28**
 
 **Barcode Inhalt Muster 28a/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **163 + TABS**
 
@@ -10447,108 +8826,36 @@ Format : JJJJMMTT
 
 Format : JJJJMMTT
 
-**TYP 1**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 1**
 
 
 ---
 
 **3.19.2**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **Barcode Inhalt Muster 28b/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **163 + TABS**
 
@@ -10596,108 +8903,36 @@ Format : JJJJMMTT
 
 Format : JJJJMMTT
 
-**TYP 1**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 1**
 
 
 ---
 
 **3.19.3**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **Barcode Inhalt Muster 28c/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **163 + TABS**
 
@@ -10745,7 +8980,7 @@ Format : JJJJMMTT
 
 Format : JJJJMMTT
 
-**TYP 1**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 1**
 
 
 ---
@@ -10754,103 +8989,31 @@ Format : JJJJMMTT
 
 **3.20.1**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **MUSTER 36**
 
 **Barcode Inhalt Muster 36/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **163 + TABS**
 
@@ -10896,7 +9059,7 @@ Format : JJJJMMTT  wenn vorhanden
 
 Format : JJJJMMTT
 
-**TYP 1**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 1**
 
 
 ---
@@ -12085,103 +10248,31 @@ Freitext
 
 **3.22.1**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **MUSTER 50**
 
 **Barcode Inhalt Muster 50.2/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **163 + TABS**
 
@@ -12227,7 +10318,7 @@ Format : JJJJMMTT
 
 Format : JJJJMMTT
 
-**TYP 1**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 1**
 
 
 ---
@@ -12236,103 +10327,31 @@ Format : JJJJMMTT
 
 **3.23.1**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **MUSTER 51**
 
 **Barcode Inhalt Muster 51.2/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **163 + TABS**
 
@@ -12378,7 +10397,7 @@ Format : JJJJMMTT
 
 Format : JJJJMMTT
 
-**TYP 1**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 1**
 
 
 ---
@@ -12387,103 +10406,31 @@ Format : JJJJMMTT
 
 **3.24.1**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **MUSTER 52**
 
 **Barcode Inhalt Muster 52.2/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **163 + TABS**
 
@@ -12529,7 +10476,7 @@ Format : JJJJMMTT
 
 Format : JJJJMMTT
 
-**TYP 1**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 1**
 
 
 ---
@@ -12538,103 +10485,31 @@ Format : JJJJMMTT
 
 **3.25.1**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **MUSTER 53**
 
 **Barcode Inhalt Muster 53.2/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **163 + TABS**
 
@@ -12680,7 +10555,7 @@ Format : JJJJMMTT
 
 Format : JJJJMMTT
 
-**TYP 1**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 1**
 
 
 ---
@@ -12689,103 +10564,31 @@ Format : JJJJMMTT
 
 **3.26.1**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **MUSTER 55**
 
 **Barcode Inhalt Muster 55/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **163 + TABS**
 
@@ -12831,7 +10634,7 @@ Format : JJJJMMTT  wenn vorhanden
 
 Format : JJJJMMTT
 
-**TYP 1**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 1**
 
 
 ---
@@ -12840,103 +10643,31 @@ Format : JJJJMMTT
 
 **3.27.1**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **MUSTER 56**
 
 **Barcode Inhalt Muster 56.2/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **163 + TABS**
 
@@ -12982,7 +10713,7 @@ Format : JJJJMMTT
 
 Format : JJJJMMTT
 
-**TYP 1**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 1**
 
 
 ---
@@ -12991,103 +10722,31 @@ Format : JJJJMMTT
 
 **3.28.1**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 2 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **MUSTER 61**
 
 **Barcode Inhalt Muster 61Ab/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**FELD-** **LÄNGE**
-
-2
-
-2
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **164 + TABS**
 
@@ -13135,108 +10794,36 @@ Format: JJJJMMTT
 
 Format: JJJJMMTT
 
-**TYP 1**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 1**
 
 
 ---
 
 **3.28.2**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 2 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **Barcode Inhalt Muster 61Ea /E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**FELD-** **LÄNGE**
-
-2
-
-2
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **164 + TABS**
 
@@ -13284,7 +10871,7 @@ Format : JJJJMMTT
 
 Format : JJJJMMTT
 
-**TYP 1**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 1**
 
 
 ---
@@ -13293,103 +10880,31 @@ Format : JJJJMMTT
 
 **3.29.1**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 2 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **MUSTER 62**
 
 **Barcode Inhalt Muster 62Aa.1/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**FELD-** **LÄNGE**
-
-2
-
-2
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **164 + TABS**
 
@@ -13437,108 +10952,36 @@ Format : JJJJMMTT
 
 Format : JJJJMMTT
 
-**TYP 1**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 1**
 
 
 ---
 
 **3.29.2**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 2 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **Barcode Inhalt Muster 62Ba.1/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**FELD-** **LÄNGE**
-
-2
-
-2
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **164 + TABS**
 
@@ -13586,7 +11029,7 @@ Format : JJJJMMTT
 
 Format : JJJJMMTT
 
-**TYP 1**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 1**
 
 
 ---
@@ -13595,103 +11038,31 @@ Format : JJJJMMTT
 
 **3.30.1**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **MUSTER 63**
 
 **Barcode Inhalt Muster 63a.1/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **163 + TABS**
 
@@ -13739,108 +11110,36 @@ Format : JJJJMMTT
 
 Format : JJJJMMTT
 
-**TYP 1**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 1**
 
 
 ---
 
 **3.30.2**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **Barcode Inhalt Muster 63b/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **163 + TABS**
 
@@ -13888,108 +11187,36 @@ Format : JJJJMMTT
 
 Format : JJJJMMTT
 
-**TYP 1**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 1**
 
 
 ---
 
 **3.30.3**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **Barcode Inhalt Muster 63c/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **163 + TABS**
 
@@ -14037,108 +11264,36 @@ Format : JJJJMMTT
 
 Format : JJJJMMTT
 
-**TYP 1**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 1**
 
 
 ---
 
 **3.30.4**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **Barcode Inhalt Muster 63d/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **163 + TABS**
 
@@ -14186,7 +11341,7 @@ Format : JJJJMMTT
 
 Format : JJJJMMTT
 
-**TYP 1**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 1**
 
 
 ---
@@ -14195,103 +11350,31 @@ Format : JJJJMMTT
 
 **3.31.1**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **MUSTER 64**
 
 **Barcode Inhalt Muster 64/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **163 + TABS**
 
@@ -14339,7 +11422,7 @@ Format : JJJJMMTT  wenn vorhanden
 
 Format : JJJJMMTT
 
-**TYP 1**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 1**
 
 
 ---
@@ -14348,103 +11431,31 @@ Format : JJJJMMTT
 
 **3.32.1**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **MUSTER 65**
 
 **Barcode Inhalt Muster 65/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **163 + TABS**
 
@@ -14492,7 +11503,7 @@ Format : JJJJMMTT  wenn vorhanden
 
 Format : JJJJMMTT
 
-**TYP 1**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 1**
 
 
 ---
@@ -14501,103 +11512,31 @@ Format : JJJJMMTT
 
 **3.33.1**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 1 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mern** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **MUSTER 70**
 
 **Barcode Inhalt Muster 70a/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mern**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **163 + TABS**
 
@@ -14645,108 +11584,36 @@ Format : JJJJMMTT
 
 Format : JJJJMMTT
 
-**TYP 1**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 1**
 
 
 ---
 
 **3.33.2**
 
-**NR.**
-
-01
-
-02
-
-03
-
-04
-
-05
-
-06
-
-07
-
-08
-
-09
-
-10
-
-11
-
-12
-
-13
-
-14
-
-15
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| 01 | Formularcode | 2 |
+| 02 | Formularcodeergänzung | 1 |
+| 03 | Versionsnummer | 2 |
+| 04 | Nachname | <=45 |
+| 05 | Vorname | <=45 |
+| 06 | Geburtsdatum | 8 |
+| 07 | Versicherungsschutz | Ende 8 |
+| 08 | Kostenträgerkennung | 9 |
+| 09 | Versicherten-ID | <=12 |
+| 10 | Versichertenart | 1 |
+| 11 | Besondere | Personengruppe 2 |
+| 12 | DMP-Kennzeichnung | 2 |
+| 13 | (Neben-)Betriebsstättennum- | 9 |
+|  | mer |  |
+| 14 | LANR | 9 |
+| 15 | Ausstellungsdatum | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **Barcode Inhalt Muster 70b/E**
-
-**FELDBEZEICHNUNG**
-
-Formularcode
-
-Formularcodeergänzung
-
-Versionsnummer
-
-Nachname
-
-Vorname
-
-Geburtsdatum
-
-Versicherungsschutz Ende
-
-Kostenträgerkennung
-
-Versicherten-ID
-
-Versichertenart
-
-Besondere Personengruppe
-
-DMP-Kennzeichnung
-
-(Neben-)Betriebsstättennum- mer
-
-LANR
-
-Ausstellungsdatum
-
-**FELD-** **LÄNGE**
-
-2
-
-1
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **163 + TABS**
 
@@ -14794,7 +11661,7 @@ Format : JJJJMMTT
 
 Format : JJJJMMTT
 
-**TYP 1**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 1**
 
 
 ---
@@ -14803,103 +11670,31 @@ Format : JJJJMMTT
 
 **3.34.1**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 2 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **MUSTER 70A**
 
 **Barcode Inhalt Muster 70Aa/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**FELD-** **LÄNGE**
-
-2
-
-2
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **164 + TABS**
 
@@ -14947,108 +11742,36 @@ Format : JJJJMMTT
 
 Format : JJJJMMTT
 
-**TYP 1**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 1**
 
 
 ---
 
 **3.34.2**
 
-**NR.**
-
-**01**
-
-**02**
-
-**03**
-
-**04**
-
-**05**
-
-**06**
-
-**07**
-
-**08**
-
-**09**
-
-**10**
-
-**11**
-
-**12**
-
-**13**
-
-**14**
-
-**15**
+| **NR.** | **FELDBEZEICHNUNG** | **FELD-** |
+|---|---|---|
+|  |  | **LÄNGE** |
+| **01** | **Formularcode** | 2 |
+| **02** | **Formularcodeergänzung** | 2 |
+| **03** | **Versionsnummer** | 2 |
+| **04** | **Nachname** | <=45 |
+| **05** | **Vorname** | <=45 |
+| **06** | **Geburtsdatum** | 8 |
+| **07** | **Versicherungsschutz** | **Ende** 8 |
+| **08** | **Kostenträgerkennung** | 9 |
+| **09** | **Versicherten-ID** | <=12 |
+| **10** | **Versichertenart** | 1 |
+| **11** | **Besondere** | **Personengruppe** 2 |
+| **12** | **DMP-Kennzeichnung** | 2 |
+| **13** | **(Neben-)Betriebsstättennum-** | 9 |
+|  | **mer** |  |
+| **14** | **LANR** | 9 |
+| **15** | **Ausstellungsdatum** | 8 |
 
 **MAXIMALE GESAMTLÄNGE**
 
 **Barcode Inhalt Muster 70Ab/E**
-
-**FELDBEZEICHNUNG**
-
-**Formularcode**
-
-**Formularcodeergänzung**
-
-**Versionsnummer**
-
-**Nachname**
-
-**Vorname**
-
-**Geburtsdatum**
-
-**Versicherungsschutz Ende**
-
-**Kostenträgerkennung**
-
-**Versicherten-ID**
-
-**Versichertenart**
-
-**Besondere Personengruppe**
-
-**DMP-Kennzeichnung**
-
-**(Neben-)Betriebsstättennum-** **mer**
-
-**LANR**
-
-**Ausstellungsdatum**
-
-**FELD-** **LÄNGE**
-
-2
-
-2
-
-2
-
-<=45
-
-<=45 8
-
-8
-
-9
-
-<=12 1
-
-2
-
-2
-
-9
-
-9
-
-8
 
 **164 + TABS**
 
@@ -15096,7 +11819,7 @@ Format : JJJJMMTT
 
 Format : JJJJMMTT
 
-**TYP 1**
+Versicherungsschutz Ende Besondere Personengruppe **TYP 1**
 
 
 ---
@@ -16074,11 +12797,11 @@ k-1 2)(x-33)(x-34
 
 Die Koeffizienten für den im Rahmen der Blankoformularbedruckung verwendeten Sicherheitslevel s=4 er- geben sich somit wie folgt:
 
-| **J 0** | **1 2** | **3 4** | **5 6** | **7 8** | **9 10** | **11 12** | **13 14 15** |
-|---|---|---|---|---|---|---|---|
-| 361 | 575 922 | 525 176 | 586 640 | 321 536**517j** | 742 677 | 742 687 | 284 193 |
-| **J 16** | **17 18** | **19 20** | **21 22** | **23 24** | **25 26** | **27 28** | **29 30 31** |
-| 273 | 494 263 | 147 593 | 800 571 | 320 803**410j** | 133 231 | 390 685 | 330 63 |
+| **J** | **0** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** | **13** | **14 15** |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|  | 361 | 575 | 922 | 525 | 176 | 586 | 640 | 321**517j** | 536 | 742 | 677 | 742 | 687 | 284 | 193 |
+| **J** | **16** | **17** | **18** | **19** | **20** | **21** | **22** | **23** | **24** | **25** | **26** | **27** | **28** | **29** | **30 31** |
+|  | 273 | 494 | 263 | 147 | 593 | 800 | 571 | 320**410j** | 803 | 133 | 231 | 390 | 685 | 330 | 63 |
 
 Tabelle 4: Koeffzienten der Fehlerkorrektur -Codewörter für den Sicherheitslevel s=4
 
@@ -16613,60 +13336,74 @@ Im Bedarfsfall, z.B. bei Umlauten/Sonderzeichen, kann auf BC geschaltet werden.
 
 ---
 
-
-
-
----
-
+> [OCR REQUIRED — page 130]
+> This page is a scanned/rasterised image with no extractable text layer; run OCR to recover its content.
 
 
 ---
 
+> [OCR REQUIRED — page 131]
+> This page is a scanned/rasterised image with no extractable text layer; run OCR to recover its content.
 
 
 ---
 
-
-
-
----
-
-
+> [OCR REQUIRED — page 132]
+> This page is a scanned/rasterised image with no extractable text layer; run OCR to recover its content.
 
 
 ---
 
-
-
-
----
-
-
+> [OCR REQUIRED — page 133]
+> This page is a scanned/rasterised image with no extractable text layer; run OCR to recover its content.
 
 
 ---
 
-
-
-
----
-
-
+> [OCR REQUIRED — page 134]
+> This page is a scanned/rasterised image with no extractable text layer; run OCR to recover its content.
 
 
 ---
 
-
-
-
----
-
-
+> [OCR REQUIRED — page 135]
+> This page is a scanned/rasterised image with no extractable text layer; run OCR to recover its content.
 
 
 ---
 
+> [OCR REQUIRED — page 136]
+> This page is a scanned/rasterised image with no extractable text layer; run OCR to recover its content.
 
+
+---
+
+> [OCR REQUIRED — page 137]
+> This page is a scanned/rasterised image with no extractable text layer; run OCR to recover its content.
+
+
+---
+
+> [OCR REQUIRED — page 138]
+> This page is a scanned/rasterised image with no extractable text layer; run OCR to recover its content.
+
+
+---
+
+> [OCR REQUIRED — page 139]
+> This page is a scanned/rasterised image with no extractable text layer; run OCR to recover its content.
+
+
+---
+
+> [OCR REQUIRED — page 140]
+> This page is a scanned/rasterised image with no extractable text layer; run OCR to recover its content.
+
+
+---
+
+> [OCR REQUIRED — page 141]
+> This page is a scanned/rasterised image with no extractable text layer; run OCR to recover its content.
 
 
 ---

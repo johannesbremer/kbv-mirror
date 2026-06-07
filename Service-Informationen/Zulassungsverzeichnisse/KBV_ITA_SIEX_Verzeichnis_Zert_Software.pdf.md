@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**30. MAI 2026**
+**07. JUNI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -57,7 +57,7 @@ Vertrieb GmbH
 
 asthenis GmbH
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 30. Mai 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 07. Juni 2026
 
 **Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
 
@@ -1276,11 +1276,9 @@ x
 
 **Ashvins xIS** MedicalCommunications GmbH
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 30. Mai 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 07. Juni 2026
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
-
-x
 
 x
 
@@ -1714,6 +1712,8 @@ x
 
 **NEXUS / SWISSLAB** NEXUS SWISSLAB GmbH
 
+**Omniplaner** Omnicare Pharma GmbH
+
 **Verordnungssoftware MediSuite** Paul Albrechts Verlag GmbH
 
 **PegaMed** PEGA Elektronik GmbH
@@ -1726,15 +1726,9 @@ x
 
 PRO MEDISOFT AG
 
-**psyprax**
-
-psyprax GmbH
-
-**QS-LAB** QS QualitySoft GmbH
+**psyprax** psyprax GmbH
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
-
-x
 
 x
 
@@ -1833,32 +1827,32 @@ x
 
 ---
 
-| **Name** | **der Software** | **und Anbieter** |  |
+| **Name der** | **Software und** | **Anbieter** |  |
 |---|---|---|---|
-| **RED** | **medical classic** |  |  |
-| RED | Medical Systems | GmbH |  |
-| **RED** | **Medical** |  |  |
-| RED | Medical Systems | GmbH |  |
+| **QS-LAB** |  |  |  |
+| QS QualitySoft | GmbH |  |  |
+| **RED medical** | **classic** |  |  |
+| RED Medical | Systems | GmbH |  |
+| **RED Medical** |  |  |  |
+| RED Medical | Systems | GmbH |  |
 | **RescuePro** |  |  |  |
-| RescuePro | Production | GmbH & | Co. KG |
+| RescuePro | Production | GmbH & Co. | KG |
 | **RpDoc** | **Klinik** |  |  |
-| RpDoc | Solutions | GmbH |  |
+| RpDoc | Solutions GmbH |  |  |
 | **RpDoc** | **eMMa** |  |  |
-| RpDoc | Solutions | GmbH |  |
+| RpDoc | Solutions GmbH |  |  |
 | **S3-Win** |  |  |  |
-| S3 | Praxiscomputer | GmbH / | Maximilian Flender |
+| S3 | Praxiscomputer GmbH | / Maximilian | Flender |
 | **SAP** | **Ambulatory Care** | **Management** |  |
 | SAP SE |  |  |  |
-| **ARZT** | **2000** |  |  |
-| Schmidt | Computersysteme | |  |
-| **QMED.PRAXIS** | |  |  |
-| Schwerdtner |  | Medizin-Software | GmbH |
+| **ARZT 2000** |  |  |  |
+| Schmidt | Computersysteme |  |  |
+| **QMED.PRAXIS** |  |  |  |
+| Schwerdtner | Medizin-Software | GmbH |  |
 | **principa** |  |  |  |
-| SIEGELE | Software | GmbH |  |
+| SIEGELE | Software GmbH |  |  |
 | **star.net®** | **Labor** |  |  |
-| Sonic | Healthcare | Germany GmbH | & Co. KG |
-| **Patho.Net** |  |  |  |
-| Sonic | Healthcare | Germany GmbH | & Co. KG |
+| Sonic | Healthcare Germany | GmbH & | Co. KG |
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
 
@@ -1994,12 +1988,14 @@ x
 
 x
 
-Name der Software und Anbieter RED medical classic RED Medical Systems GmbH RED Medical RED Medical Systems GmbH RescuePro Production GmbH & Co. KG RpDoc Klinik RpDoc Solutions GmbH RpDoc eMMa RpDoc Solutions GmbH S3 Praxiscomputer GmbH / Maximilian Flender SAP Ambulatory Care Management ARZT 2000 Schmidt Computersysteme Schwerdtner Medizin-Software GmbH SIEGELE Software GmbH star.net® Labor Sonic Healthcare Germany GmbH & Co. KG Sonic Healthcare Germany GmbH & Co. KGx
+Name der Software und Anbieter QS QualitySoft GmbH RED medical classic RED Medical Systems GmbH RED Medical Systems GmbH RescuePro Production GmbH & Co. KG RpDoc Klinik RpDoc Solutions GmbH RpDoc eMMa RpDoc Solutions GmbH S3 Praxiscomputer GmbH / Maximilian Flender SAP Ambulatory Care Management Schmidt Computersysteme Schwerdtner Medizin-Software GmbH SIEGELE Software GmbH star.net® Labor Sonic Healthcare Germany GmbH & Co. KGx
 
 
 ---
 
 **Name der Software und Anbieter**
+
+**Patho.Net** Sonic Healthcare Germany GmbH & Co. KG
 
 **DOCNET** Sonic Healthcare Germany GmbH & Co. KG
 
@@ -2015,9 +2011,7 @@ Name der Software und Anbieter RED medical classic RED Medical Systems GmbH RED 
 
 **T2med** T2med GmbH & Co. KG
 
-**TeleClinic eAU**
-
-TeleClinic GmbH
+**TeleClinic eAU** TeleClinic GmbH
 
 **Medi10** UfP Systemhaus GmbH
 
@@ -2026,8 +2020,6 @@ TeleClinic GmbH
 UNISOLO® GmbH
 
 **PDV-FR** Universitätsklinikum Freiburg AdöR
-
-**AiDKlinik** Universitätsklinikum Heidelberg
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
 
@@ -2112,6 +2104,8 @@ x
 
 **Name der Software und Anbieter**
 
+**AiDKlinik** Universitätsklinikum Heidelberg
+
 **data4doc** Vidal MMI Germany GmbH
 
 **labGate** vireq software solutions GmbH
@@ -2120,9 +2114,11 @@ x
 
 **tomedo.air** Zollsoft GmbH
 
-Seite 18 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 30. Mai 2026
+Seite 18 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 07. Juni 2026
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
+
+x
 
 x
 

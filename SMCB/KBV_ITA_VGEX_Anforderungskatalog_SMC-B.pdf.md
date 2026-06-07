@@ -74,51 +74,20 @@ INHALT
 
 **8**
 
-**3** **ÜBERGREIFENDE FESTLEGUNGEN**
-
-**9**
-
-3.1 Kommunikation
-
-9
-
-3.2 Authentisierung
-
-10
-
-3.2.1 Authentisierung durch Antragsteller 10
-
-3.2.2 Authentisierung durch Mitarbeiter der KVen 10
-
-3.2.3 Registrierung
-
-11
-
-3.3 Portal
-
-13
-
-3.4 Verwendung der SOAP-Schnittstelle 13
-
-3.5 Löschfristen
-
-14
-
-3.6 Änderungshistorie
-
-15
-
-3.7 Mandantenfähigkeit
-
-15
-
-3.8 Ansprechpartner
-
-15
-
-3.9 SM-B-tatus
-
-15
+| **3** | **ÜBERGREIFENDE FESTLEGUNGEN** | **9** |
+|---|---|---|
+| 3.1 | Kommunikation | 9 |
+| 3.2 | Authentisierung | 10 |
+|  | 3.2.1 Authentisierung durch Antragsteller | 10 |
+|  | 3.2.2 Authentisierung durch Mitarbeiter der | KVen 10 |
+|  | 3.2.3 Registrierung | 11 |
+| 3.3 | Portal | 13 |
+| 3.4 | Verwendung der SOAP-Schnittstelle | 13 |
+| 3.5 | Löschfristen | 14 |
+| 3.6 | Änderungshistorie | 15 |
+| 3.7 | Mandantenfähigkeit | 15 |
+| 3.8 | Ansprechpartner | 15 |
+| 3.9 | SM-B-tatus | 15 |
 
 **4** **FUNKTIONSMERKMALE**
 
@@ -214,7 +183,7 @@ INHALT
 
 4.6.3 Anforderungen
 
-48
+Authentisierung durch Mitarbeiter der KVen48
 
 
 ---

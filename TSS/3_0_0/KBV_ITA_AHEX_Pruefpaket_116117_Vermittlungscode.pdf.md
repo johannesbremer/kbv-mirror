@@ -16,59 +16,23 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 ---
 
-## INHALT
+INHALT
 
-**1** **ALLGEMEINES**
-
-**4**
-
-1.1 Rechtsgrundlage
-
-4
-
-1.2 Zertifizierungsablauf
-
-4
-
-1.3 Zertifizierungsportal
-
-5
-
-1.4 Zertifizierungsdokumente
-
-5
-
-1.5 Prüfunterlagen
-
-5
-
-1.5.1 Verzeichnisstruktur
-
-6
-
-1.5.2 Einreichen von Prüfunterlagen als PDF-Dokumente 6
-
-1.6 Prüfvorgaben
-
-6
-
-1.6.1 Prüfstammdaten
-
-6
-
-1.6.2 Vorbereitung
-
-6
-
-1.6.3 Versichertendaten
-
-6
-
-1.6.4 Auflistung der Prüffälle 6
-
-1.6.5 Praxisdaten/ Arztstempel
-
-8
+| **1 ALLGEMEINES** | **4** |
+|---|---|
+| 1.1 Rechtsgrundlage | 4 |
+| 1.2 Zertifizierungsablauf | 4 |
+| 1.3 Zertifizierungsportal | 5 |
+| 1.4 Zertifizierungsdokumente | 5 |
+| 1.5 Prüfunterlagen | 5 |
+| 1.5.1 Verzeichnisstruktur | 6 |
+| 1.5.2 Einreichen von Prüfunterlagen als | PDF-Dokumente 6 |
+| 1.6 Prüfvorgaben | 6 |
+| 1.6.1 Prüfstammdaten | 6 |
+| 1.6.2 Vorbereitung | 6 |
+| 1.6.3 Versichertendaten | 6 |
+| 1.6.4 Auflistung der Prüffälle | 6 |
+| 1.6.5 Praxisdaten/ Arztstempel | 8 |
 
 **2** **PRÜFFÄLLE**
 
@@ -86,6 +50,7 @@ Psychotherapeutischen Sprechstunde 11
 
 **12**
 
+Einreichen von Prüfunterlagen als PDF-Dokumente
 
 ---
 

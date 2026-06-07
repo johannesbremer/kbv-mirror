@@ -4,9 +4,9 @@
 
 **IT IN DER ARZTPRAXIS**
 
-**13. MAI 2026**
+**2. JUNI 2026**
 
-**VERSION 2.4**
+**VERSION 2.5**
 
 **DOKUMENTENSTATUS: IN KRAFT**
 
@@ -21,11 +21,12 @@
 
 | **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 |---|---|---|---|---|---|
-| 2.4 | 13.05.2026 | KBV | Ergänzung der Antwort zu    Ergänzung der Antwort zu PZN-   Klarstellung der Fragestellung |  | 10          12        11 |
-| 2.3 | 16.04.2026 | KBV | Ergänzung der Fragestellung zur    Vereinheitlichung der Antwort    Aktualisierung der Information |  | 11      11      9 |
-| 2.2 | 02.09.2025 | KBV | Ergänzung der Liste mit den zu    Anpassung der Frage zur Länge    Streichung der Fragen zur    Ergänzung der Fragestellung zu    Ergänzung der Fragestellung zu |  | 4        11        f    11      12 |
+| 2.5 | 02.06.2026 | KBV | Druckvorgabe der Überschrift |  | 9 |
+| 2.4 | 13.05.2026 | KBV | Ergänzung der Antwort zu    Ergänzung der Antwort zu PZN-   Klarstellung der Fragestellung |  | 11          13        12 |
+| 2.3 | 16.04.2026 | KBV | Ergänzung der Fragestellung zur    Vereinheitlichung der Antwort    Aktualisierung der Information |  | 12      12      10 |
+| 2.2 | 02.09.2025 | KBV | Ergänzung der Liste mit den zu    Anpassung der Frage zur Länge    Streichung der Fragen zur    Ergänzung der Fragestellung zu    Ergänzung der Fragestellung zu |  | 4        12        f    12      13 |
 
-Teilverordnungen einer Mehrfachverordnung auf dem Patientenausdruck Verordnungen mit nicht vorhandenen Wirkstoffen zur Länge von Wirkstoffnamen Länge von Wirkstoffnamen  zur Länge des Handelsnamens und des Wirkstoffnamens zur Ermittlung der postalischen Adresse zum eAU Versand ignorierenden Meldungen beim eRezept des Handelsnamens Packungsgröße, zur VersichertenID, zur Herstellungsanweisung einer Rezeptur und zur Verschreiber- ID Kombipackungen PZN-Verordnungen ohne Wirkstoffinformationen
+für die Patientenausdrucke für eVDGA und eRezepte Teilverordnungen einer Mehrfachverordnung auf dem Patientenausdruck Verordnungen mit nicht vorhandenen Wirkstoffen zur Länge von Wirkstoffnamen Länge von Wirkstoffnamen  zur Länge des Handelsnamens und des Wirkstoffnamens zur Ermittlung der postalischen Adresse zum eAU Versand ignorierenden Meldungen beim eRezept des Handelsnamens Packungsgröße, zur VersichertenID, zur Herstellungsanweisung einer Rezeptur und zur Verschreiber- ID Kombipackungen PZN-Verordnungen ohne Wirkstoffinformationen
 
 
 ---
@@ -80,54 +81,35 @@ Der HL7-Validator beinhaltet die Möglichkeit Codes (z.B. Snomed-CT-Codes) onlin
 
 werden einzelne Codes an einen Terminologieserver, der derzeit in den USA angesiedelt ist, gesendet. Es  werden jedoch auch personenbezogene Daten (IP-Adresse) übertragen und vorübergehend gespeichert. Im
 
-Produktivbetrieb sollte daher ausschließlich eine lokale Terminologievalidierung durchgeführt werden,  damit keine personenbezogenen Daten des Arztes/der Praxis übertragen werden.
-
 
 ---
 
-## Frage: Wie kann ich die Validität meiner XML-Dateien auf der Simplifier Plattform überprüfen?
-
-### Antwort der KBV:
-
-Mit einem (kostenfreien) Account können Sie den Validator von Simplifier.net nutzen
-
-([https://simplifier.net/validate)](https://simplifier.net/validate)). Achten Sie hierbei darauf, „R4“ auszuwählen und den Scope des
-
-Zertifizierungsthemas auszuwählen (z.B. „KBV.ITA.EAU latest“) zu setzen.
-
-## Frage: Bei der Validierung von XML-Instanzen der eAU oder dem eRezept mit dem Validator von HL7  erhalten wir immer wieder Warning- oder Info-Meldungen. Ist meine erzeugte XML-Instanz nun korrekt?
-
-### Antwort der KBV:
-
-Bei der Nutzung des HL7 Validators kommt es auch bei einer korrekten XML-Instanz zu Warning- oder Info-
-
-Meldungen im Validierungsergebnis.
-
-Es können insbesondere Warnings auftreten, die sich darauf zurückführen lassen, dass in den eAU- bzw.
-
-eRezept-FHIR-Profilen der KBV bewusst von den von HL7 vorgeschlagen ValueSets abgewichen wurde.  Warnings, die in diesem Zusammenhang stehen, können durch die Verwendung des Parameters -no-
-
-extensible-binding-warnings“ beim Aufruf des Validators unterbunden werden.
-
-Info-Meldungen können derzeit nicht beim Aufruf unterdrückt werden. Hier stellen wir eine Liste von zu
-
-ignorierenden Meldungen bereit. Zahlen von Array-Angaben bspw. entry[0] können abweichen:
-
-| **Nr.** | **Zu ignorierende Meldungen bei der eAU** |
+\| **Nr.** | **Zu ignorierende Meldungen bei der eAU** |
+| Produktivbetrieb sollte daher ausschließlich eine lokale Terminologievalidierung durchgeführt werden, |  |
 |---|---|
-| 1) | Information @ Bundle.entry[0].resource.ofType( https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_KBV_FORMULAR_ART# |
-| 2) | Information @ Bundle.entry[4].resource.ofType |
+| 1) | Information @ Bundle.entry[0].resource.ofType(Composition).type (line 28, col11): Keiner der  https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_KBV_FORMULAR_ART# |
+| 2) | Information @ Bundle.entry[4].resource.ofType(Practitioner).qualification[0].code (line 266, |
 | 3) | Information @ Bundle.entry[6].resource.ofType(Coverage).type (line 366, col11): Keiner der |
 | 4) | Information @ Bundle.entry[6].resource.ofType(Condition).code.coding[0] : Code System URI |
-| 5) | Warning @ value: Wert sollte nicht mit Leerzeichen beginnen oder enden   Diese Meldung tritt auf, wenn |
+| **Frage: Wie kann ich die Validität meiner XML** | Antwort der KBV:  Mit einem (kostenfreien) Account |
 
-Composition).type (line 28, col11): Keiner der angegebenen Codes ist im Valueset 'FHIR Document Type Codes' (http://hl7.org/fhir/ValueSet/doc-typecodes|4.0.1), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = e010) (Practitioner).qualification[0].code (line 266, col12): Keiner der angegebenen Codes ist im Valueset 'Practitioner Speciality' (https://fhir.kbv.de/ValueSet/KBV_VS_Base_Practitioner_Speciality|1.3.0), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Qualification_Type#00) angegebenen Codes ist im Valueset 'Coverage Type and Self -Pay Codes' (http://hl7.org/fhir/ValueSet/coverage -type|4.0.1), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = http://fhir.de/CodeSystem/versicherungsart -de- basis#GKV) "http://fhir.de/CodeSystem/dimdi/icd -10-gm" ist unbekannt, so dass der Code nicht validiert werden kann  ein Wert (z.B. Zeichenkette/String) vorangestellte oder hintenangestellte Leerzeichen enthält.
+damit keine personenbezogenen Daten des Arztes/der Praxis übertragen werden. -Dateien auf der Simplifier Plattform überprüfen? können Sie den Validator von Simplifier.net nutzen (https://simplifier.net/validate). Achten Sie hierbei darauf, „R4“ auszuwählen und den Scope des Zertifizierungsthemas auszuwählen (z.B. „KBV.ITA.EAU latest“) zu setzen. Frage: Bei der Validierung von XML-Instanzen der eAU oder dem eRezept mit dem Validator von HL7 erhalten wir immer wieder Warning- oder Info-Meldungen. Ist meine erzeugte XML-Instanz nun korrekt? Bei der Nutzung des HL7 Validators kommt es auch bei einer korrekten XML-Instanz zu Warning- oder Info- Meldungen im Validierungsergebnis. Es können insbesondere Warnings auftreten, die sich darauf zurückführen lassen, dass in den eAU- bzw. eRezept-FHIR-Profilen der KBV bewusst von den von HL7 vorgeschlagen ValueSets abgewichen wurde. Warnings, die in diesem Zusammenhang stehen, können durch die Verwendung des Parameters -no- extensible-binding-warnings “ beim Aufruf des Validators unterbunden werden. Info-Meldungen können derzeit nicht beim Aufruf unterdrückt werden . Hier stellen wir eine Liste von zu ignorierenden Meldungen bereit. Zahlen von Array-Angaben bspw. entry[0] können abweichen:  angegebenen Codes ist im Valueset 'FHIR Document Type Codes' (http://hl7.org/fhir/ValueSet/doc-typecodes|4.0.1), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = e010) col12): Keiner der angegebenen Codes ist im Valueset 'Practitioner Speciality' (https://fhir.kbv.de/ValueSet/KBV_VS_Base_Practitioner_Speciality|1.3.0), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Qualification_Type#00) angegebenen Codes ist im Valueset 'Coverage Type and Self -Pay Codes' (http://hl7.org/fhir/ValueSet/coverage -type|4.0.1), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = http://fhir.de/CodeSystem/versicherungsart -de- basis#GKV) "http://fhir.de/CodeSystem/dimdi/icd -10-gm" ist unbekannt, so dass der Code nicht validiert werden kann
 
 ---
 
-| **Nr.** | **Zu ignorierende Meldungen bei dem eRezept** |
+\| Information @ Bundle.entry[4].resource.ofType(Practitioner).qualification[0].code (line 266, | 3) |
+| **Nr.** | **Zu ignorierende Meldungen bei der eAU** |
 |---|---|
-| 1) | Information @ Bundle.entry[0].resource.ofType(Composition).type (line |
+| Information @ Bundle.entry[6].resource.ofType(Coverage).type (line 366, col11): Keiner der | 4)  Information @ Bundle.entry[2].resource.ofType(Medication).code.coding[0] (line 170, col14):  5) |
+| Information @ | 6) |
+| Warning @ value: Wert sollte nicht mit Leerzeichen beginnen oder enden |  |
+| Diese Meldung tritt auf, wenn ein Wert (z.B. Zeichenkette/String) vorangestellte oder | 7) |
+| 5) | Warning @ value: Wert sollte nicht mit Leerzeichen beginnen oder enden   Diese Meldung tritt auf, wenn ein Wert (z.B. Zeichenkette/String) vorangestellte oder |
+
+\| **Nr.** | **Zu ignorierende Meldungen bei dem eRezept** |
+| **Nr.** | **Zu ignorierende Meldungen bei der eAU** |
+|---|---|
+| 1) | Information @ Bundle.entry[0].resource.ofType(Composition).type (line 28, col11): Keiner der |
 | 2) | Information @ Bundle.entry[4].resource.ofType(Practitioner).qualification[0].code (line 266, |
 | 3) | Information @ Bundle.entry[6].resource.ofType(Coverage).type (line 366, col11): Keiner der |
 | 4) | Information @ Bundle.entry[2].resource.ofType(Medication).code.coding[0] (line 170, col14): |
@@ -135,50 +117,38 @@ Composition).type (line 28, col11): Keiner der angegebenen Codes ist im Valueset
 | 6) | Warning @ value: Wert sollte nicht mit Leerzeichen beginnen oder enden   Diese Meldung tritt auf, wenn ein Wert (z.B. Zeichenkette/String) vorangestellte oder |
 | 7) | Information @ Bundle.entry[4].resource/*Practitioner/bc329f24 |
 | 8) | Information @ Bundle.entry[5].resource/*Practitioner/cb7558e2 |
-| 9) | Warning @ Bundle.entry[5].resource/*Practitioner/cb7558e2 |
+|  | 5) |
+| Warning @ value: Wert sollte nicht mit Leerzeichen beginnen oder enden |  |
 
-28, col11): Keiner der angegebenen Codes ist im Valueset 'FHIR Document Type Codes' (http://hl7.org/fhir/ValueSet/doc-typecodes|4.0.1), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = https://fhir.kbv.de/CodeSystem/KBV_CS_SFH IR_KBV_FORMULAR_ART#e16A) col12): Keiner der angegebenen Codes ist im Valueset 'Practitioner Speciality' (https://fhir.kbv.de/ValueSet/KBV_VS_Base_Practitioner_Speciality|1.3.0), und es wir empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Qualification_Type#00) angegebenen Codes ist im Valueset 'Coverage Type and Self -Pay Codes' (http://hl7.org/fhir/ValueSet/coverage -type|4.0.1), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = http://fhir.de/CodeSystem/versicherungsart -de- basis#GKV) Code System URI "http://fhir.de/CodeSystem/ifa/pzn" ist unbekannt, so dass der Code nicht validiert werden kann Bundle.entry[2].resource.ofType(Medication).ingredient[0].item.ofType(CodeableConcept).codi ng[0] (line 180, col15): Code System URI "http://fhir.de/CodeSystem/ask" ist unbekannt, so dass der Code nicht validiert werden kann hintenangestellte Leerzeichen enthält. -3d65-4286-bf06- b54dd6cad655*/.qualification[1].code (line 290, col12): !!Keiner der angegebenen Codes ist im Valueset 'Practitioner Speciality' (https://fhir.kbv.de/ValueSet/KBV_VS_Base_Practiti oner_Speciality|1.7.0), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Berufsbezeichnung#Berufsbezeichnung) -0fdf-4107-93f6- 07f13f39e067*/.qualification[2].code (line 349, col12): !!Keiner der angegebenen Codes ist im Valueset 'Practitioner Speciality' (https://fhir.kbv.de/ValueSet/KBV_VS_Base_Practiti oner_Speciality|1.7.0), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = https://fhir.kbv.de/NamingSystem/KBV_NS_FOR_Fachgruppennummer_ASV#555555472) -0fdf-4107-93f6- 07f13f39e067*/.qualification[2].code.coding[0].system (line 349, col12): !!!!!!!!Das CodeSystem https://fhir.kbv.de/NamingSystem/KBV_NS_FOR_Fachgruppennummer_ASV ist unbekannt
+hintenangestellte Leerzeichen enthält. Zu ignorierende Meldungen bei dem eRezept Information @ Bundle.entry[0].resource.ofType(Composition).type (line 28, col11): Keiner der angegebenen Codes ist im Valueset 'FHIR Document Type Codes' (http://hl7.org/fhir/ValueSet/doc-typecodes|4.0.1), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_KBV_FORMULAR_ART#e16A) 2) col12): Keiner der angegebenen Codes ist im Valueset 'Practitioner Speciality' (https://fhir.kbv.de/ValueSet/KBV_VS_Base_Practitioner_Speciality|1.3.0), und es wir empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Qualification_Type#00) angegebenen Codes ist im Valueset 'Coverage Type and Self -Pay Codes' (http://hl7.org/fhir/ValueSet/coverage -type|4.0.1), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = http://fhir.de/CodeSystem/versicherungsart -de- basis#GKV) Code System URI "http://fhir.de/CodeSystem/ifa/pzn" ist unbekannt, so dass der Code nicht validiert werden kann Bundle.entry[2].resource.ofType(Medication).ingredient[0].item.ofType(CodeableConcept).codi ng[0] (line 180, col15): Code System URI "http://fhir.de/CodeSystem/ask" ist unbekannt, so dass der Code nicht validiert werden kann hintenangestellte Leerzeichen enthält. Information @ Bundle.entry[4].resource/*Practitioner/bc329f24 -3d65-4286-bf06- b54dd6cad655*/.qualification[1].code (line 290, col12): !!Keiner der angegebenen Codes ist im Valueset 'Practitioner Speciality' (https://fhir.kbv.de/ValueSet/KBV_VS_Base_Practitioner_Specialit y|1.7.0), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Berufsbezeichnung#Berufsbezeichnung) -0fdf-4107-93f6- 07f13f39e067*/.qualification[2].code (line 349, col12): !!Keiner der angegebenen Codes ist im Valueset 'Practitioner Speciality' (https://fhir.kbv.de/ValueSet/KBV_VS_Base_Practiti oner_Speciality|1.7.0), und es wird
 
 ---
 
-## Frage: Müssen besondere Vorgaben bei der Referenzierung innerhalb von FHIR werden?
+\| Antwort der KBV: | Die KBV hat in den Technischen Anlagen eAU und eRezept keine gesonderten Vorgaben zur Referenzierung |
+| **Nr.** | **Zu ignorierende Meldungen bei dem eRezept** |
+|---|---|
+| In der FHIR-Spezifikation ist die korrekte Referenzierung unter | https://www.hl7.org/fhir/bundle.html |
+| im | https://www.hl7.org/fhir/bundle-references.xml.html. |
+|  | Aus Sicht der KBV könnten Sie bspw. eine der folgenden beiden Varianten zur Referenzierung in Ihren FHIR |
+| Variante 1: | reference.value: „<Typ>/<id>“ |
+| fullUrl.value: „<Typ>/<id>“ |  |
+| ……….. | Variante 2: |
+|  |  |
+|  |  |
+|  | empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = |
+| 9) | Warning @ Bundle.entry[5].resource/*Practitioner/cb7558e2 |
 
-### Antwort der KBV:
+https://fhir.kbv.de/NamingSystem/KBV_NS_FOR_Fachgruppennummer_ASV#555555472) -0fdf-4107-93f6- 07f13f39e067*/.qualification[2].code.coding[0].system (line 349, col12): !!!!!!!!Das CodeSystem https://fhir.kbv.de/NamingSystem/KBV_NS_FOR_Fachgruppennummer_ASV ist unbekannt Frage: Müssen besondere Vorgaben bei der Referenzierung innerhalb von FHIR -Dateien beachtet werden?   innerhalb der FHIR-Dateien gemacht. Allerdings sollten die Vorgaben der FHIR -Spezifikation beachtet und umgesetzt werden, da es sonst bei einigen Validator en zu Warn- oder Fehlermeldungen kommen kann. Kapitel „2.36.4.1 Resolving references in Bundles“ zu finden. Einige Beispiele finden Sie hierzu auch unter Dateien nutzen, wobei weitere FHIR-konforme Möglichkeiten möglich sind: bzw. „<Pfad zum Server>/<Typ>/<id>“
 
-Die KBV hat in den Technischen Anlagen eAU und eRezept keine gesonderten Vorgaben zur Referenzierung  innerhalb der FHIR-Dateien gemacht. Allerdings sollten die Vorgaben der FHIR umgesetzt werden, da es sonst bei einigen Validatoren zu Warn- oder Fehlermeldungen kommen kann.
-
-In der FHIR-Spezifikation ist die korrekte Referenzierung unter [https://www.hl7.org/fhir/bundle.html](https://www.hl7.org/fhir/bundle.html)
-
-Kapitel „2.36.4.1 Resolving references in Bundles“ zu finden. Einige Beispiele finden Sie hierzu auch unter  [https://www.hl7.org/fhir/bundle-references.xml.html](https://www.hl7.org/fhir/bundle-references.xml.html).
-
-Aus Sicht der KBV könnten Sie bspw. eine der folgenden beiden Varianten zur Referenzierung in Ihren FHIR Dateien nutzen, wobei weitere FHIR-konforme Möglichkeiten möglich sind:
-
-Variante 1:
-
-reference.value: „<Typ>/<id>“
-
-fullUrl.value: „<Typ>/<id>“  bzw. „<Pfad zum Server>/<Typ>/<id>“
-
-## -Dateien beachtet -Spezifikation beachtet und
-
-im
-
-………..
-
-Variante 2:
+---
 
 reference.value: „urn:uuid:<id>“
 
 fullUrl.value: „urn:uuid:<id>“
 
-
----
-
 …..
 
-Derzeit prüft der Simplifier-Validator die Referenzierung innerhalb von FHIR-Dateien zuverlässiger als der
-
-HL7-Validator.
+Derzeit prüft der Simplifier-Validator die Referenzierung innerhalb von FHIR HL7-Validator.
 
 ## Frage: Wie soll mit dem Fehler (fehlerhafte Versionsnummer der Extension  [http://fhir.de/StructureDefinition/seitenlokalisation)](http://fhir.de/StructureDefinition/seitenlokalisation)) im Package der Version 0.9.13 der deutschen  Basisprofile der HL7 umgegangen werden?
 
@@ -186,25 +156,27 @@ HL7-Validator.
 
 Aufgrund des eingestellten Supports für die HL7-Basis Version 0.9.13 veröffentlicht die KBV eine von HL7
 
-korrigierte Version der Extension [http://fhir.de/StructureDefinition/seitenlokalisation](http://fhir.de/StructureDefinition/seitenlokalisation) im JSON und XML-
-
-Format unter [https://update.kbv.de/ita-update/DigitaleMuster/Korrektur_HL7_Basis_V0_9_13](https://update.kbv.de/ita-update/DigitaleMuster/Korrektur_HL7_Basis_V0_9_13). Diese
-
-korrigierte Extension ist bei Bedarf zusätzlich einzubinden.
+korrigierte Version der Extension [http://fhir.de/StructureDefinition/seitenlokalisation](http://fhir.de/StructureDefinition/seitenlokalisation) Format unter [https://update.kbv.de/ita-update/DigitaleMuster/Korrektur_HL7_Basis_V0_9_13](https://update.kbv.de/ita-update/DigitaleMuster/Korrektur_HL7_Basis_V0_9_13) korrigierte Extension ist bei Bedarf zusätzlich einzubinden.
 
 Die aktualisierte Extension wurde auch in den Validierungs-ZIPs für die eAU Version 1.0.2 und das eRezept
 
-Version 1.0.2 unter [https://update.kbv.de/ita-update/DigitaleMuster/eAU/](https://update.kbv.de/ita-update/DigitaleMuster/eAU/) und [https://update.kbv.de/ita-](https://update.kbv.de/ita-)
+Version 1.0.2 unter [https://update.kbv.de/ita-update/DigitaleMuster/eAU/](https://update.kbv.de/ita-update/DigitaleMuster/eAU/) update/DigitaleMuster/ERP/ bereitgestellt.
 
-update/DigitaleMuster/ERP/ bereitgestellt.
-
-## Frage: Welche Vorgaben gelten bei der Vergabe einer Ressourcen-ID?
+## Frage: Welche Vorgaben gelten bei der Vergabe einer Ressourcen
 
 ### Antwort der KBV:
 
-Die FHIR-Vorgaben ([https://www.hl7.org/fhir/datatypes.html#id](https://www.hl7.org/fhir/datatypes.html#id)) bezüglich des Aufbaus der Ressourcen-ID
+Die FHIR-Vorgaben ([https://www.hl7.org/fhir/datatypes.html#id](https://www.hl7.org/fhir/datatypes.html#id) (resource.id) sind bei der Vergabe zu berücksichtigen. Dieser Aufbau wird von neueren Validatoren explizit  geprüft.
 
-(resource.id) sind bei der Vergabe zu berücksichtigen. Dieser Aufbau wird von neueren Validatoren explizit  geprüft.
+-Dateien zuverlässiger als der
+
+und [https://update.kbv.de/ita-](https://update.kbv.de/ita-)
+
+## -ID?
+
+) bezüglich des Aufbaus der Ressourcen
+
+im JSON und XML- . Diese -ID
 
 
 ---
@@ -263,10 +235,10 @@ Kennzeichen Rechtsgrundlage muss immer ein Wert in der FHIR-Instanz des eRezepte
 
 den Technischen Anlagen und den FHIR-Profilen wurde zum 01.07.2023 behoben.
 
-Die Übertragung der Werte sollte für alle Softwaresystem umsetzbar sein, da die entsprechenden Werte im  Rahmen der Fallanlage vorliegen müssen (auch für die Bedruckung von Papierformularen). Grundsätzlich  sollte die Befüllung wie folgt erfolgen:
-
 
 ---
+
+Die Übertragung der Werte sollte für alle Softwaresystem umsetzbar sein, da die entsprechenden Werte im  Rahmen der Fallanlage vorliegen müssen (auch für die Bedruckung von Papierformularen). Grundsätzlich  sollte die Befüllung wie folgt erfolgen:
 
 - a. Versichertenart:  Das Feld sollte den vom Anwender erfassten Wert enthalten.
 
@@ -285,6 +257,25 @@ Die Übertragung der Werte sollte für alle Softwaresystem umsetzbar sein, da di
 ### Antwort der KBV:
 
 Ja, diese Funktionalitäten können auch in weiteren Digitalen Mustern eingesetzt werden.
+
+## Frage: Wie sind die konkreten Druckvorgaben für die Überschrift auf dem Patientenausdruck eVDGA  (elektronische Verordnung Digitaler Gesundheitsanwendungen) und eRezept?
+
+### Antwort der KBV:
+
+- 1. Die gemäß den Anforderungen P6-243 (Technische Anlage eRezept) und P62-15 (Technische Anlage
+
+- eVDGA) zu druckende Überschrift sollte nach den folgenden Vorgaben gedruckt werden: Der  Schriftschnitt ist „fett“.
+
+- 2. Die Schriftart ist Helvetica (ggf. artverwandt, d.h. ohne Serifen und proportional)
+
+- 3. Die Schriftgröße ist 12 pt.
+
+Eine entsprechende Anpassung der betroffenen Anforderungen in den Technischen Anlagen ist in
+
+Erarbeitung.
+
+
+---
 
 # FRAGEN UND ANTWORTEN ZUR EAU
 
@@ -349,19 +340,15 @@ standardmäßig gestattet sein soll.
 
 Wenn der Austausch ausgeschlossen ist, muss der Wert „false“ gesetzt sein. In der Visualisierung wird in  diesem Fall das Kreuz gesetzt.
 
-## Frage: Wie werden die Teilverordnungen einer Mehrfachverordnung1 auf den Patientenausdruck
+## Frage: Wie werden die Teilverordnungen einer Mehrfachverordnung auf den Patientenausdruck
 
 ## aufgebracht?
 
 ### Antwort der KBV:
 
-Eine Mehrfachverordnung kann aus zwei bis vier Teilverordnungen bestehen. Ab der Version 1.72 der
+Eine Mehrfachverordnung kann aus zwei bis vier Teilverordnungen bestehen. Ab der Version 1.72 der  Technischen Anlage E-Rezept gilt, dass der Patientenausdruck bis zu vier Teilverordnungen umfassen muss  (siehe P6-22 Akzeptanzkriterium 1). Bis zur Version 1.71 konnten maximal drei Verordnungen auf einem  Patientenausdruck erfasst werden. Die nachfolgenden Erläuterungen sind demnach überholt und werden  künftig gestrichen. Die Pflichtfunktionen in der technischen Anlage sind in Abhängigkeit von der Anzahl an
 
-Technischen Anlage E-Rezept gilt, dass der Patientenausdruck bis zu vier Teilverordnungen umfassen muss  (siehe P6-22 Akzeptanzkriterium 1). Bis zur Version 1.71 konnten maximal drei Verordnungen auf einem  Patientenausdruck erfasst werden. Die nachfolgenden Erläuterungen sind demnach überholt und werden  künftig gestrichen. Die Pflichtfunktionen in der technischen Anlage sind in Abhängigkeit von der Anzahl an
-
-Teilverordnungen zu bewerten. Zusätzlich ist relevant, ob neben der Mehrfachverordnung noch weitere
-
-Verordnungen im Rahmen des Verordnungsvorgangs eines Patienten ausgestellt werden. Das Ziel ist
+Teilverordnungen zu bewerten. Zusätzlich ist relevant, ob neben der Mehrfachverordnung noch weitere  Verordnungen im Rahmen des Verordnungsvorgangs eines Patienten ausgestellt werden. Das Ziel ist
 
 einerseits das logische Zusammenhalten der Teilverordnungen einer Mehrfachverordnung und andererseits
 
@@ -389,14 +376,14 @@ zusammenzufassen. Der andere Ausdruck umfasst die erste (am zeitigsten einzulös
 
 in Kombination mit P6-22 Akzeptanzkriterium 1). Schematische Darstellung der beiden Ausdrucke:
 
-## 1 Die Funktionalitäten zur Mehrfachverordnung sind in Abhängigkeit zum Anforderungskatalog AMV umzusetzen. Vorher dürfen  Mehrfachverordnungen nicht an den Fachdienst versendet werden.
-
 
 ---
 
 Bei zwei Mehrfachverordnungen jeweils eigener Arzneimittel mit je zwei Teilverordnungen darf in
 
-Abhängigkeit von der Verordnungssituation (bspw. unter Berücksichtigung der Einlösezeiträume oder  Präferenzen des Versicherten) die Bündelung anhand der Arzneimittel oder der beiden Einlösezeiträume  angeboten werden.
+Abhängigkeit von der Verordnungssituation (bspw. unter Berücksichtigung der Einlösezeiträume oder  Präferenzen des Versicherten) die Bündelung anhand der Arzneimittel oder der beiden Einlösezeiträume
+
+angeboten werden.
 
 ## Frage: Worauf ist bei der Länge des Handelsnamens bei eRezepten zu achten?
 
@@ -414,9 +401,9 @@ Entsprechend der Technischen Anlage E-Rezept ist die Länge des Wirkstoffnamens 
 
 begrenzt.
 
-Wenn eine PZN-Verordnung ausgestellt werden sollte und der ein Wirkstoffname diese Länge von 80
+Wenn eine PZN-Verordnung ausgestellt werden soll und der Wirkstoffname diese Länge von 80 Zeichen
 
-Zeichen überschreitet, so ist dieser auf 77 Zeichen, gefolgt von drei Punkten zu kürzen.
+überschreitet, so ist dieser auf 77 Zeichen, gefolgt von drei Punkten zu kürzen.
 
 Wenn eine Wirkstoffverordnung ausgestellt werden soll und der Wirkstoffname die Länge von 80 Zeichen  überschreitet, dann sollte der Wirkstoffname nicht gekürzt werden, sondern es sollte eine  Freitextverordnung erzeugt werden.
 

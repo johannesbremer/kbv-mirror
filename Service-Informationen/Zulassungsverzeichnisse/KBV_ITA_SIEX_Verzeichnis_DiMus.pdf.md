@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**30. MAI 2026**
+**07. JUNI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -30,7 +30,7 @@
 |---|---|---|---|---|
 |  | Y/80/2502/24/031 | 31.01.2027 | eAU |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 30. Mai 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 07. Juni 2026
 
 Y/80/2407/24/062 30.06.2026
 
@@ -352,7 +352,7 @@ Y/80/2603/24/749
 
 Y/80/2410/24/195
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 30. Mai 2026 29.02.2028 eAU
+Seite 12 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 07. Juni 2026 29.02.2028 eAU
 
 30.09.2026 eAU
 
@@ -474,7 +474,7 @@ Softwarevariante(n): - psyx
 |---|---|---|---|---|
 |  | Y/80/2410/24/439 | 30.09.2026 | eAU |  |
 
-Seite 16 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 30. Mai 2026
+Seite 16 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 07. Juni 2026
 
 Y/80/2408/24/266
 
@@ -508,9 +508,9 @@ medavis RIS medavis GmbH Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.
 
 Y/80/2411/24/433
 
-Y/80/2306/36/746 31.10.2026 eAU
+Y/80/2606/25/746 31.10.2026 eAU
 
-31.05.2026 eAU
+30.06.2028 eAU
 
 Windows
 
@@ -754,7 +754,7 @@ T2med T2med GmbH & Co. KG Bismarckallee 15 24105 Kiel Internet: www.t2med.de Tel
 |---|---|---|---|---|
 |  | Y/80/2509/37/768 | 30.09.2028 | eAU |  |
 
-Seite 25 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 30. Mai 2026
+Seite 25 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 07. Juni 2026
 
 Y/80/2407/24/313 30.06.2026
 

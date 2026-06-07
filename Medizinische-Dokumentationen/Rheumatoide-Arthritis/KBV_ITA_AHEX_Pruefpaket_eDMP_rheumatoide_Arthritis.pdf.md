@@ -19,105 +19,37 @@ Seite 1 von 30 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.03 / 1
 
 ---
 
-## INHALT
+INHALT
 
-**ALLGEMEINES**
+| **ALLGEMEINES** | **4** |
+|---|---|
+| 1.1 Rechtsgrundlage | 4 |
+| 1.2 Zertifizierungsablauf | 4 |
+| 1.3 Zertifizierungsportal | 5 |
+| 1.4 Zertifizierungsdokumente | 5 |
+| 1.5 Prüfunterlagen | 5 |
+| 1.6 Prüfvorgaben | 7 |
+| 1.6.1 Schnittstellenversionen | 7 |
+| 1.6.2 Datumseingaben | 7 |
+| 1.6.3 Prüfstammdaten | 7 |
+| 1.6.4 Versichertendaten | 7 |
+| 1.6.5 Praxisdaten/ Arztstempel | 8 |
+| 1.6.6 Krankenhausdaten | 8 |
+| 1.6.7 Prüfnummer | 8 |
+| 1.6.8 Stammdatei der Datenannahmestellen | (SDDA) 9 |
+| 1.6.9 Auflistung der Prüffälle | 9 |
 
-**4**
-
-1.1 Rechtsgrundlage
-
-4
-
-1.2 Zertifizierungsablauf
-
-4
-
-1.3 Zertifizierungsportal
-
-5
-
-1.4 Zertifizierungsdokumente
-
-5
-
-1.5 Prüfunterlagen
-
-5
-
-1.6 Prüfvorgaben
-
-7
-
-1.6.1 Schnittstellenversionen
-
-7
-
-1.6.2 Datumseingaben
-
-7
-
-1.6.3 Prüfstammdaten
-
-7
-
-1.6.4 Versichertendaten
-
-7
-
-1.6.5 Praxisdaten/ Arztstempel
-
-8
-
-1.6.6 Krankenhausdaten
-
-8
-
-1.6.7 Prüfnummer
-
-8
-
-1.6.8 Stammdatei der Datenannahmestellen (SDDA) 9
-
-1.6.9 Auflistung der Prüffälle 9
-
-**PRÜFFÄLLE**
-
-**10**
-
-2.1 Prüffälle Dokumentation
-
-10
-
-2.1.1 Prüffall 7211
-
-10
-
-2.1.2 Prüffall 7212
-
-13
-
-2.1.3 Prüffall 7220
-
-16
-
-2.2 Prüffall Systemreaktion
-
-20
-
-2.2.1 Prüffall 7214
-
-20
-
-2.3 Weitere Prüffälle zum Anforderungskatalog 24
-
-2.3.1 Prüffall 7230
-
-24
-
-2.3.2 Prüffall 7240
-
-26
+| **PRÜFFÄLLE** |  |  | **10** |
+|---|---|---|---|
+| 2.1 Prüffälle |  | Dokumentation | 10 |
+| 2.1.1 | Prüffall | 7211 | 10 |
+| 2.1.2 |  | Prüffall 7212 | 13 |
+| 2.1.3 | Prüffall | 7220 | 16 |
+| 2.2 Prüffall |  | Systemreaktion | 20 |
+| 2.2.1 | Prüffall | 7214 | 20 |
+| 2.3 Weitere |  | Prüffälle zum Anforderungskatalog | 24 |
+| 2.3.1 | Prüffall | 7230 | 24 |
+| 2.3.2 | Prüffall | 7240 | 26 |
 
 **TESTDATENVALIDIERUNG**
 
@@ -135,6 +67,7 @@ Seite 1 von 30 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.03 / 1
 
 Version: 1.03 / 15. August 2025
 
+Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentation Prüffall 7211 Prüffall 7220 Prüffall Systemreaktion Prüffall 7214 Weitere Prüffälle zum Anforderungskatalog Prüffall 7230 Prüffall 7240
 
 ---
 

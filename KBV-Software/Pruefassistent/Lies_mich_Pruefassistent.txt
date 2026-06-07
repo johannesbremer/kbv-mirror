@@ -1,8 +1,8 @@
-KBV-Pruefassistent bis Quartal 3/2026 Version 2026.3.0
+KBV-Pruefassistent bis Quartal 3/2026 Version 2026.3.1
 ==================================================
 
 Mit dem KBV-Pruefassistent koennen Sie eine Abrechnungsdatei pruefen und uebergabefertig
-verschluesseln. Der Pruefassistent enthaelt das aktuelle KVDT-Pruefmodul Version 2026.3.0
+verschluesseln. Der Pruefassistent enthaelt das aktuelle KVDT-Pruefmodul Version 2026.3.1
 fuer das Quartal 3/2026 sowie noch drei Vorquartalspruefmodule.
 Somit koennen mit dem Pruefassistenten auch Abrechnungen aus vorangegangenen Quartalen
 geprueft werden. Die Auswahl des passenden Pruefmoduls geschieht automatisch anhand
@@ -18,12 +18,12 @@ herunterladen.
 Installation unter Unix/Linux
 ==================================================
 
-Zum Installieren starten Sie bitte die Datei KBV-Pruefassistent_V2026.3.0.jar durch ein
+Zum Installieren starten Sie bitte die Datei KBV-Pruefassistent_V2026.3.1.jar durch ein
 Klick/Doppelklick und folgen den Anweisungen. Vorraussetzung fuer die Installation
 ist eine vorhandene Java-Laufzeitumgebung ab der Version 17.
 Sollte die Installationsroutine nicht erfolgreich ausgefuehrt werden, so koennen Sie
 die Installation auch ueber die Eingabe:
-    java -jar KBV-Pruefassistent_V2026.3.0.jar
+    java -jar KBV-Pruefassistent_V2026.3.1.jar
 in einem Terminal- bzw. Shellfernster initieren.
 
 Nach der Installation wird auf Unix-/Linux-Systemen eine Verknuepfung auf dem Desktop

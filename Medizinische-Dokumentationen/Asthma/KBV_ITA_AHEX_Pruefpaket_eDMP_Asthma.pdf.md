@@ -16,101 +16,36 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
 
 ---
 
-## INHALT
+INHALT
 
-**ALLGEMEINES**
+| **ALLGEMEINES** | **6** |
+|---|---|
+| 1.1 Rechtsgrundlage | 6 |
+| 1.2 Zertifizierungsablauf | 6 |
+| 1.3 Zertifizierungsportal | 7 |
+| 1.4 Zertifizierungsdokumente | 7 |
+| 1.5 Prüfunterlagen | 7 |
+| 1.6 Prüfvorgaben | 9 |
+| 1.6.1 Prüfstammdaten | 9 |
+| 1.6.2 Versichertendaten | 9 |
+| 1.6.3 Praxisdaten/ Arztstempel | 9 |
+| 1.6.4 Krankenhausdaten | 10 |
+| 1.6.5 Prüfnummer | 10 |
+| 1.6.6 Stammdatei der Datenannahmestellen | (SDDA) 10 |
+| 1.6.7 Auflistung der Prüffälle | 11 |
 
-**6**
-
-1.1 Rechtsgrundlage
-
-6
-
-1.2 Zertifizierungsablauf
-
-6
-
-1.3 Zertifizierungsportal
-
-7
-
-1.4 Zertifizierungsdokumente
-
-7
-
-1.5 Prüfunterlagen
-
-7
-
-1.6 Prüfvorgaben
-
-9
-
-1.6.1 Prüfstammdaten
-
-9
-
-1.6.2 Versichertendaten
-
-9
-
-1.6.3 Praxisdaten/ Arztstempel
-
-9
-
-1.6.4 Krankenhausdaten
-
-10
-
-1.6.5 Prüfnummer
-
-10
-
-1.6.6 Stammdatei der Datenannahmestellen (SDDA) 10
-
-1.6.7 Auflistung der Prüffälle 11
-
-**PRÜFFÄLLE**
-
-**12**
-
-2.1 Prüffälle Dokumentation
-
-12
-
-2.1.1 Prüffall 9511
-
-12
-
-2.1.2 Prüffall 9512
-
-14
-
-2.1.3 Prüffall 6513
-
-16
-
-2.2 Prüffälle Systemreaktion
-
-21
-
-2.2.1 Prüffall 9514
-
-21
-
-2.2.2 Prüffall 9515
-
-25
-
-2.3 Weitere Prüffälle zum Anforderungskatalog 26
-
-2.3.1 Prüffall 9530
-
-26
-
-2.3.2 Prüffall 9540
-
-27
+| **PRÜFFÄLLE** |  |  | **12** |
+|---|---|---|---|
+| 2.1 Prüffälle |  | Dokumentation | 12 |
+| 2.1.1 | Prüffall | 9511 | 12 |
+| 2.1.2 | Prüffall | 9512 | 14 |
+| 2.1.3 | Prüffall | 6513 | 16 |
+| 2.2 Prüffälle |  | Systemreaktion | 21 |
+| 2.2.1 | Prüffall | 9514 | 21 |
+| 2.2.2 | Prüffall | 9515 | 25 |
+| 2.3 Weitere | Prüffälle | zum Anforderungskatalog | 26 |
+| 2.3.1 | Prüffall | 9530 | 26 |
+| 2.3.2 | Prüffall | 9540 | 27 |
 
 **TESTDATENVALIDIERUNG**
 
@@ -129,7 +64,7 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
 
 **33**
 
-Versichertendaten 1 Versichertendaten 2
+Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentation Prüffall 9511 Prüffall 9512 Prüffall 6513 Prüffälle Systemreaktion Prüffall 9514 Prüffall 9515 Weitere Prüffälle zum Anforderungskatalog Prüffall 9530 Prüffall 9540 Versichertendaten 1 Versichertendaten 2
 
 
 ---

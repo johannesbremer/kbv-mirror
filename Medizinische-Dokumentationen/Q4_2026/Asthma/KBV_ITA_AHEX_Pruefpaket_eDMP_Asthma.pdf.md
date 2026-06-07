@@ -15,101 +15,36 @@ KASSENÄRZTLICHE IT IN DER ARZTPRAXIS KRAFT
 
 ---
 
-## INHALT
+INHALT
 
-**ALLGEMEINES**
+| **ALLGEMEINES** | **6** |
+|---|---|
+| 1.1 Rechtsgrundlage | 6 |
+| 1.2 Zertifizierungsablauf | 6 |
+| 1.3 Zertifizierungsportal | 7 |
+| 1.4 Zertifizierungsdokumente | 7 |
+| 1.5 Prüfunterlagen | 7 |
+| 1.6 Prüfvorgaben | 9 |
+| 1.6.1 Prüfstammdaten | 9 |
+| 1.6.2 Versichertendaten | 10 |
+| 1.6.3 Praxisdaten/ Arztstempel | 10 |
+| 1.6.4 Krankenhausdaten | 11 |
+| 1.6.5 Prüfnummer | 11 |
+| 1.6.6 Stammdatei der Datenannahmestellen | (SDDA) 11 |
+| 1.6.7 Auflistung der Prüffälle | 12 |
 
-**6**
-
-1.1 Rechtsgrundlage
-
-6
-
-1.2 Zertifizierungsablauf
-
-6
-
-1.3 Zertifizierungsportal
-
-7
-
-1.4 Zertifizierungsdokumente
-
-7
-
-1.5 Prüfunterlagen
-
-7
-
-1.6 Prüfvorgaben
-
-9
-
-1.6.1 Prüfstammdaten
-
-9
-
-1.6.2 Versichertendaten
-
-10
-
-1.6.3 Praxisdaten/ Arztstempel
-
-10
-
-1.6.4 Krankenhausdaten
-
-11
-
-1.6.5 Prüfnummer
-
-11
-
-1.6.6 Stammdatei der Datenannahmestellen (SDDA) 11
-
-1.6.7 Auflistung der Prüffälle 12
-
-**PRÜFFÄLLE**
-
-**13**
-
-2.1 Prüffälle Dokumentation
-
-13
-
-2.1.1 Prüffall 9511
-
-13
-
-2.1.2 Prüffall 9512
-
-15
-
-2.1.3 Prüffall 6513
-
-17
-
-2.2 Prüffälle Systemreaktion
-
-22
-
-2.2.1 Prüffall 9514
-
-22
-
-2.2.2 Prüffall 9515
-
-26
-
-2.3 Weitere Prüffälle zum Anforderungskatalog 28
-
-2.3.1 Prüffall 9530
-
-28
-
-2.3.2 Prüffall 9540
-
-29
+| **PRÜFFÄLLE** |  |  | **13** |
+|---|---|---|---|
+| 2.1 Prüffälle |  | Dokumentation | 13 |
+| 2.1.1 | Prüffall | 9511 | 13 |
+| 2.1.2 | Prüffall | 9512 | 15 |
+| 2.1.3 | Prüffall | 6513 | 17 |
+| 2.2 Prüffälle |  | Systemreaktion | 22 |
+| 2.2.1 | Prüffall | 9514 | 22 |
+| 2.2.2 | Prüffall | 9515 | 26 |
+| 2.3 Weitere | Prüffälle | zum Anforderungskatalog | 28 |
+| 2.3.1 | Prüffall | 9530 | 28 |
+| 2.3.2 | Prüffall | 9540 | 29 |
 
 **TESTDATENVALIDIERUNG**
 
@@ -128,7 +63,7 @@ KASSENÄRZTLICHE IT IN DER ARZTPRAXIS KRAFT
 
 **35**
 
-Versichertendaten 1 Versichertendaten 2
+Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentation Prüffall 9511 Prüffall 9512 Prüffall 6513 Prüffälle Systemreaktion Prüffall 9514 Prüffall 9515 Weitere Prüffälle zum Anforderungskatalog Prüffall 9530 Prüffall 9540 Versichertendaten 1 Versichertendaten 2
 
 ---
 

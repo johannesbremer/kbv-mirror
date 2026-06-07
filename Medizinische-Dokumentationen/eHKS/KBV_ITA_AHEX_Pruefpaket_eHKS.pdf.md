@@ -15,79 +15,30 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS KRAFT
 
 ---
 
-## INHALT
+INHALT
 
-**1** **ALLGEMEINES**
+| **1** | **ALLGEMEINES** | **5** |
+|---|---|---|
+| 1.1 | Rechtsgrundlage | 5 |
+| 1.2 | Zertifizierungsablauf | 5 |
+| 1.3 | Zertifizierungsportal | 6 |
+| 1.4 | Zertifizierungsdokumente | 6 |
+| 1.5 | Prüfunterlagen | 6 |
+| 1.6 | Prüfvorgaben | 7 |
+|  | 1.6.1 Prüfstammdaten | 7 |
+|  | 1.6.2 Versichertendaten | 8 |
+|  | 1.6.3 Praxisdaten/ Arztstempel | 8 |
+|  | 1.6.4 Auflistung der Prüffälle | 9 |
 
-**5**
-
-1.1 Rechtsgrundlage
-
-5
-
-1.2 Zertifizierungsablauf
-
-5
-
-1.3 Zertifizierungsportal
-
-6
-
-1.4 Zertifizierungsdokumente
-
-6
-
-1.5 Prüfunterlagen
-
-6
-
-1.6 Prüfvorgaben
-
-7
-
-1.6.1 Prüfstammdaten
-
-7
-
-1.6.2 Versichertendaten
-
-8
-
-1.6.3 Praxisdaten/ Arztstempel
-
-8
-
-1.6.4 Auflistung der Prüffälle 9
-
-**2** **PRÜFFÄLLE**
-
-**10**
-
-2.1 Prüffall 8001
-
-10
-
-2.2 Prüffall 8002
-
-11
-
-2.3 Prüffall 8003
-
-12
-
-2.4 Prüffall 8004
-
-14
-
-2.5 Prüffall 8005
-
-16
-
-2.6 Prüffall 8006
-
-20
-
-2.7 Konditionaler Prüffall 8007 21
+| **2** |  | **PRÜFFÄLLE** | **10** |
+|---|---|---|---|
+| 2.1 | Prüffall | 8001 | 10 |
+| 2.2 | Prüffall | 8002 | 11 |
+| 2.3 | Prüffall | 8003 | 12 |
+| 2.4 | Prüffall | 8004 | 14 |
+| 2.5 | Prüffall | 8005 | 16 |
+| 2.6 | Prüffall | 8006 | 20 |
+| 2.7 |  | Konditionaler Prüffall 8007 | 21 |
 
 **3** **TESTDATENVALIDIERUNG**
 
@@ -103,7 +54,7 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS KRAFT
 
 **27**
 
-Versichertendaten 1 Versichertendaten 2 Versichertendaten 3
+Prüffall 8001 Prüffall 8002 Prüffall 8003 Prüffall 8004 Prüffall 8005 Prüffall 8006 Versichertendaten 1 Versichertendaten 2 Versichertendaten 3
 
 ---
 

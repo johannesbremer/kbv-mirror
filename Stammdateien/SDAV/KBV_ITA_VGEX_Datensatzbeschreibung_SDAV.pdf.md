@@ -139,46 +139,46 @@ führende Nullen besitzen können. Durch diese Sortierweise ist gewährleistet, 
 
 ---
 
-| **1.3** |  | **Dateiname** | **der** | **AV-Stammdatei** |
+| **1.3** | **Dateiname** |  | **der** | **AV-Stammdatei** |
 |---|---|---|---|---|
 | Es | gilt folgende | Struktur | für | die Dateinamensbildung: |
-| n n | n n a a _ v | . q j j |  |  |
-| wobei | die Zeichen | als | Platzhalter | fungieren: |
-| nnnn: | Name | der Datei, | SDAV für | Stammdatei-Arztverzeichnis |
-| aa: |  | Absender, 74 für | KBV |  |
+| n n n | n a a _ v . q | j j |  |  |
+| wobei | die Zeichen | als Platzhalter | | fungieren: |
+| nnnn: | Name der | Datei, | SDAV für | Stammdatei-Arztverzeichnis |
+| aa: | Absender, | 74 für KBV |  |  |
 | v: | Version | der | Datenlieferung | innerhalb eines Quartals |
 | q: | Quartal |  |  |  |
-| jj: |  | 2-stellige | Jahresangabe |  |
+| jj: | 2-stellige | Jahresangabe | |  |
 | Für | die erste | Lieferung | des | Quartals 3/04 ergibt sich also z.B.: |
 |  | **SDAV74_1.304** |  |  |  |
 | **1.4** |  | **Zeichensatztabelle** | | **ISO 8859 Latin 1** |
 |  |  |  |  | +-----+--------------------------+--------------------------+-----+ |
-| \| | \| | 0 1 2 | 3 4 | 5 6 7 \| 8 9 A B C D E F \| |
+| \| | \| 0 | 1 2 3 | 4 | 5 6 7 \| 8 9 A B C D E F \| |
 |  |  |  |  | +-----+--------------------------+--------------------------+-----+ |
-| \| | 0 \| |  | 0 @ | P ` p \| ° À Ð à ð \| |
-| \| | 1 \| | ! | 1 A | Q a q \| ¡ ± Á Ñ á ñ \| |
-| \| | 2 \| | " | 2 B | R b r \| ¢ ² Â Ò â ò \| |
-| \| | 3 \| | # | 3 C | S c s \| £ ³ Ã Ó ã ó \| |
-| \| | 4 \| | $ | 4 D | T d t \| ¤ ´ Ä Ô ä ô \| |
-| \| | 5 \| | % | 5 E | U e u \| ¥ µ Å Õ å õ \| |
-| \| | 6 \| | & | 6 F | V f v \| ¦ ¶ Æ Ö æ ö \| |
-| \| | 7 \| | ' | 7 G | W g w \| § · Ç × ç ÷ \| |
-| \| | 8 \| | ( | 8 H | X h x \| ¨ ¸ È Ø è ø \| |
-| \| | 9 \| | ) | 9 I | Y i y \| © ¹ É Ù é ù \| |
-| \| | A \| | * | : J | Z j z \| ª º Ê Ú ê ú \| |
-| \| | B \| | + | ; K | [ k { \| « » Ë Û ë û \| |
-| \| | C \| | , | < L | \ l \| \| ¬ ¼ Ì Ü ì ü \| |
-| \| | D \| | - | = M | ] m } \| ½ Í Ý í ý \| |
-| \| | E \| | . | > N | ^ n ~ \| ® ¾ Î Þ î þ \| |
-| \| | F \| | / | ? O | _ o \| ¯ ¿ Ï ß ï ÿ \| |
+| \| | 0 \| | 0 | @ | P ` p \| ° À Ð à ð \| |
+| \| | 1 \| | ! 1 | A | Q a q \| ¡ ± Á Ñ á ñ \| |
+| \| | 2 \| | " 2 | B | R b r \| ¢ ² Â Ò â ò \| |
+| \| | 3 \| | # 3 | C | S c s \| £ ³ Ã Ó ã ó \| |
+| \| | 4 \| | $ 4 | D | T d t \| ¤ ´ Ä Ô ä ô \| |
+| \| | 5 \| | % 5 | E | U e u \| ¥ µ Å Õ å õ \| |
+| \| | 6 \| | & 6 | F | V f v \| ¦ ¶ Æ Ö æ ö \| |
+| \| | 7 \| | ' 7 | G | W g w \| § · Ç × ç ÷ \| |
+| \| | 8 \| | ( 8 | H | X h x \| ¨ ¸ È Ø è ø \| |
+| \| | 9 \| | ) 9 | I | Y i y \| © ¹ É Ù é ù \| |
+| \| | A \| | * : | J | Z j z \| ª º Ê Ú ê ú \| |
+| \| | B \| | + ; | K | [ k { \| « » Ë Û ë û \| |
+| \| | C \| | , < | L | \ l \| \| ¬ ¼ Ì Ü ì ü \| |
+| \| | D \| | - = | M | ] m } \| ½ Í Ý í ý \| |
+| \| | E \| | . > | N | ^ n ~ \| ® ¾ Î Þ î þ \| |
+| \| | F \| | / ? | O | _ o \| ¯ ¿ Ï ß ï ÿ \| |
 |  |  |  |  | +-----+--------------------------+--------------------------+-----+ |
-| \| | \| | 0 1 2 | 3 4 | 5 6 7 \| 8 9 A B C D E F \| |
+| \| | \| 0 | 1 2 3 | 4 | 5 6 7 \| 8 9 A B C D E F \| |
 |  |  |  |  | +-----+--------------------------+--------------------------+-----+ |
 |  | Quelle: |  |  |  |
 |  |  |  | http://www.uni-muenster.de/inform/syziso | |
-| Die | Spalten | 0, 1, | 8 und | 9 sowie Position 7F enthalten Steuerzeichen, |
+| Die | Spalten | 0, 1, 8 | und | 9 sowie Position 7F enthalten Steuerzeichen, |
 |  | Position |  |  |  |
-| A0 | das | feste | Leerzeichen | und AD den Silbentrennstrich. |
+| A0 | das feste | Leerzeichen | | und AD den Silbentrennstrich. |
 
 1.08
 

@@ -84,7 +84,7 @@ Die Spalte Name stellt die Datenfeldbezeichnung des Dokumentationsbogens des Mod
 
 | **KBV BFB FELD** | **KBV DM FELD** | **KBV QMS LDT FELD** | **IQTIG FELD** | | | | | |
 |---|---|---|---|---|---|---|---|---|
-|  | Name |  | Name |  | Bezeichnung |  | Name | Anmerkung |
+| **Nummer** | Name | Nummer | Name | Kennung | Bezeichnung | N | Name | Anmerkung |
 | Administrative Daten | | | | | | | | |
 | 1 | Formularcode |  |  |  |  |  |  |  |
 | 2 | Formularcodeergänzung |  |  |  |  |  |  |  |
@@ -102,7 +102,7 @@ Die Spalte Name stellt die Datenfeldbezeichnung des Dokumentationsbogens des Mod
 | 13 | Versichertenart | P11 | 3108_Versichertenart | 3108 | Versichertenart |  |  |  |
 | 14 | Besondere Personengruppe | P12 | 4131_BesonderePersonengruppe | 4131 | Besondere Personengruppen | 3 | besondere Personengruppe |  |
 | **KBV BFB FELD** | **KBV DM FELD** | **KBV QMS LDT FELD** | **IQTIG FELD** | | | | | |
-|  | Name |  | Name |  | Bezeichnung |  | Name | Anmerkung |
+| **Nummer** | Name | Nummer | Name | Kennung | Bezeichnung | N | Name | Anmerkung |
 | Administrative Daten | 1 | Formularcode |  |  |  |  |  |  |
 |  | 2 | Formularcodeergänzung |  |  |  |  |  |  |
 |  | 3 | Versionsnummer |  |  |  |  |  |  |
@@ -119,7 +119,7 @@ Die Spalte Name stellt die Datenfeldbezeichnung des Dokumentationsbogens des Mod
 |  | 13  Versichertenart | P11  3108_Versichertenart  3108 | | | | | | |
 | Versichertenart |  |  |  | 14 | Besondere Personengruppe | P12 | 4131_BesonderePersonengruppe | 4131 |
 | **KBV BFB FELD** | **KBV DM FELD** | **KBV QMS LDT FELD** | **IQTIG FELD** | | | | | |
-|  | Name |  | Name |  | Bezeichnung |  | Name | Anmerkung |
+| **Nummer** | Name | Nummer | Name | Kennung | Bezeichnung | N | Name | Anmerkung |
 | Administrative Daten | 1 | Formularcode |  |  |  |  |  |  |
 |  | | | | | | | | |
 | 2 | Formularcodeergänzung |  |  |  |  |  |  |  |
@@ -132,12 +132,12 @@ Die Spalte Name stellt die Datenfeldbezeichnung des Dokumentationsbogens des Mod
 |  |  | | | | | | | |
 |  | | | | | | | | |
 | **KBV BFB FELD** | **KBV DM FELD** | **KBV QMS LDT FELD** | **IQTIG FELD** | | | | | |
-|  | Name |  | Name |  | Bezeichnung |  | Name | Anmerkung |
+| **Nummer** | Name | Nummer | Name | Kennung | Bezeichnung | N | Name | Anmerkung |
 | Administrative Daten | 1 | | | | | | | |
 | Formularcode |  |  |  |  |  |  |  | 2 |
 | Formularcodeergänzung |  |  |  |  |  |  |  | 3  Versionsnummer |
 | **KBV BFB FELD** | **KBV DM FELD** | **KBV QMS LDT FELD** | **IQTIG FELD** | | | | | |
-|  | Name |  | Name |  | Bezeichnung |  | Name | Anmerkung  Administrative Daten 1  Formularcode |
+| **Nummer** | Name | Nummer | Name | Kennung | Bezeichnung | N | Name | Anmerkung  Administrative Daten 1  Formularcode |
 |  |  |  |  |  |  | 2 | Formularcodeergänzung |  |
 |  |  | | | | | | | |
 |  |  | | | | | | | |
@@ -151,7 +151,7 @@ Die Spalte Name stellt die Datenfeldbezeichnung des Dokumentationsbogens des Mod
 |  |  | | | | | | | |
 |  | 7 | Geburtsdatum | P5 | 3103_Geburtsdatum | 3103 | Geburtsdatum | 9 | Geburtsdatum |
 | **KBV BFB FELD** | **KBV DM FELD** | **KBV QMS LDT FELD** | **IQTIG FELD** | | | | | |
-|  | Name |  | Name |  | Bezeichnung |  | Name | Anmerkung |
+| **Nummer** | Name | Nummer | Name | Kennung | Bezeichnung | N | Name | Anmerkung |
 | Administrative Daten | 1 | Formularcode |  |  |  |  |  |  |
 |  | 2 | Formularcodeergänzung |  |  |  |  |  |  |
 |  | 3 | | | | | | | |
@@ -167,7 +167,7 @@ Die Spalte Name stellt die Datenfeldbezeichnung des Dokumentationsbogens des Mod
 | Es liegt kein vollständiges | Geburtsdatum vor | Falls im LDT3 oder im BFB-Barcode im |  | Dokumentationsbogens der Wert „1“ zu | 8 | Versicherungsschutz Ende | P8 | 4110_VersicherungsschutzEnde |
 | 4110 | | | | | | | | |
 | **KBV BFB FELD** | **KBV DM FELD** | **KBV QMS LDT FELD** | **IQTIG FELD** | | | | | |
-|  | Name |  | Name |  | Bezeichnung |  | Name | Anmerkung |
+| **Nummer** | Name | Nummer | Name | Kennung | Bezeichnung | N | Name | Anmerkung |
 | Administrative Daten | | | | | | | | |
 | 1 | Formularcode |  |  |  |  |  |  |  |
 | 2 | Formularcodeergänzung |  |  |  |  |  |  |  |
@@ -181,7 +181,7 @@ Die Spalte Name stellt die Datenfeldbezeichnung des Dokumentationsbogens des Mod
 | Versicherungsschutz-Ende |  |  |  | 9 | Kostenträgerkennung | P9 | 4111_Kostentraegerkennung | 4111 |
 | Kostenträger-Kennung | 2 | Institutionskennzeichen der |  | 10 | Kostenträgername | P1 | 4134_Kostentraegername  4134 | Kostentraegername |
 | **KBV BFB FELD** | **KBV DM FELD** | **KBV QMS LDT FELD** | **IQTIG FELD** | | | | | |
-|  | Name |  | Name |  | Bezeichnung |  | Name | Anmerkung |
+| **Nummer** | Name | Nummer | Name | Kennung | Bezeichnung | N | Name | Anmerkung |
 | Administrative Daten | 1 | Formularcode |  |  |  |  |  | 2 |
 | Formularcodeergänzung |  | | | | | | | |
 |  |  | | | | | | | |
@@ -197,7 +197,7 @@ Die Spalte Name stellt die Datenfeldbezeichnung des Dokumentationsbogens des Mod
 | Geburtsdatum | 9 | Geburtsdatum |  | 10.2 | Es liegt kein vollständiges | Geburtsdatum vor | Falls im LDT3 oder im BFB-Barcode im | Dokumentationsbogens der Wert „1“ zu  8 |
 | Versicherungsschutz Ende | P8 | 4110_VersicherungsschutzEnde | 4110 | Versicherungsschutz-Ende |  |  |  | 9 |
 | **KBV BFB FELD** | **KBV DM FELD** | **KBV QMS LDT FELD** | **IQTIG FELD** | | | | | |
-|  | Name |  | Name |  | Bezeichnung |  | Name | Anmerkung |
+| **Nummer** | Name | Nummer | Name | Kennung | Bezeichnung | N | Name | Anmerkung |
 | Administrative Daten | 1 | Formularcode |  |  |  |  |  | 2 |
 | Formularcodeergänzung |  |  |  |  |  |  |  | 3  Versionsnummer |
 |  |  |  |  |  |  | 4 | Anforderungs-Ident | Auftragsnummer_Einsender |
@@ -208,7 +208,7 @@ Die Spalte Name stellt die Datenfeldbezeichnung des Dokumentationsbogens des Mod
 | Es liegt kein vollständiges | Geburtsdatum vor | Falls im LDT3 oder im BFB-Barcode im |  | | | | | |
 | Dokumentationsbogens der Wert „1“ zu | 8 | Versicherungsschutz Ende | P8 | | | | | |
 
-Nummer Versicherten_ID oder SKT-Zusatz Nummer z_Vorsatzwort 10.1 Krankenkasse der Versichertenkarte Feld „Geburtsdatum“ bzw. im Feld „3103_Geburtsdatum“ des DiMus kein vollständiges Geburtsdatum übertragen wird, dann ist im Feld „10.2“ des IQTIG- setzen.
+Versicherten_ID oder SKT-Zusatz z_Vorsatzwort 10.1 Krankenkasse der Versichertenkarte Feld „Geburtsdatum“ bzw. im Feld „3103_Geburtsdatum“ des DiMus kein vollständiges Geburtsdatum übertragen wird, dann ist im Feld „10.2“ des IQTIG- setzen.
 
 ---
 

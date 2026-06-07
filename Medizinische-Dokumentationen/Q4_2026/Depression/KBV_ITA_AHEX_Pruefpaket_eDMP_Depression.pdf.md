@@ -15,115 +15,42 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS KRAFT
 
 ---
 
-## INHALT
+INHALT
 
-**ALLGEMEINES**
+| **ALLGEMEINES** | **5** |
+|---|---|
+| 1.1 Rechtsgrundlage | 5 |
+| 1.2 Zertifizierungsablauf | 5 |
+| 1.3 Zertifizierungsportal | 6 |
+| 1.4 Zertifizierungsdokumente | 6 |
+| 1.5 Prüfunterlagen | 6 |
+| 1.6 Prüfvorgaben | 8 |
+| 1.6.1 Schnittstellenversionen | 8 |
+| 1.6.2 Datumseingaben | 8 |
+| 1.6.3 Prüfstammdaten | 8 |
+| 1.6.4 Versichertendaten | 9 |
+| 1.6.5 Praxisdaten/ Arztstempel | 9 |
+| 1.6.6 Krankenhausdaten | 9 |
+| 1.6.7 Prüfnummer | 10 |
+| 1.6.8 Stammdatei der Datenannahmestellen | (SDDA) 10 |
+| 1.6.9 Auflistung der Prüffälle | 10 |
 
-**5**
+| **PRÜFFÄLLE** |  |  | **11** |
+|---|---|---|---|
+| 2.1 | Prüffälle | Dokumentation | 11 |
+| 2.1.1 | Prüffall | 6211 | 11 |
+| 2.1.2 | Prüffall | 6212 | 14 |
+| 2.1.3 | Prüffall | 6220 | 17 |
+| 2.2 Prüffall |  | Systemreaktion | 21 |
+| 2.2.1 | Prüffall | 6214 | 21 |
+| 2.3 Weitere | Prüffälle | zum Anforderungskatalog | 25 |
+| 2.3.1 | Prüffall | 6230 | 25 |
+| 2.3.2 | Prüffall | 6240 | 27 |
 
-1.1 Rechtsgrundlage
-
-5
-
-1.2 Zertifizierungsablauf
-
-5
-
-1.3 Zertifizierungsportal
-
-6
-
-1.4 Zertifizierungsdokumente
-
-6
-
-1.5 Prüfunterlagen
-
-6
-
-1.6 Prüfvorgaben
-
-8
-
-1.6.1 Schnittstellenversionen
-
-8
-
-1.6.2 Datumseingaben
-
-8
-
-1.6.3 Prüfstammdaten
-
-8
-
-1.6.4 Versichertendaten
-
-9
-
-1.6.5 Praxisdaten/ Arztstempel
-
-9
-
-1.6.6 Krankenhausdaten
-
-9
-
-1.6.7 Prüfnummer
-
-10
-
-1.6.8 Stammdatei der Datenannahmestellen (SDDA) 10
-
-1.6.9 Auflistung der Prüffälle 10
-
-**PRÜFFÄLLE**
-
-**11**
-
-2.1 Prüffälle Dokumentation
-
-11
-
-2.1.1 Prüffall 6211
-
-11
-
-2.1.2 Prüffall 6212
-
-14
-
-2.1.3 Prüffall 6220
-
-17
-
-2.2 Prüffall Systemreaktion
-
-21
-
-2.2.1 Prüffall 6214
-
-21
-
-2.3 Weitere Prüffälle zum Anforderungskatalog 25
-
-2.3.1 Prüffall 6230
-
-25
-
-2.3.2 Prüffall 6240
-
-27
-
-**TESTDATENVALIDIERUNG**
-
-**28**
-
-3.1 Prüffall Testdatenvalidierung 29
-
-3.1.1 Prüffall TDV6218
-
-29
+|  |  | **TESTDATENVALIDIERUNG** | **28** |
+|---|---|---|---|
+| 3.1 | Prüffall | Testdatenvalidierung | 29 |
+|  | 3.1.1 | Prüffall TDV6218 | 29 |
 
 **ANHANG**
 
@@ -136,6 +63,8 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS KRAFT
 **REFERENZIERTE DOKUMENTE**
 
 **33**
+
+Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentation Prüffall 6211 Prüffall 6212 Prüffall 6220 Prüffall Systemreaktion Prüffall 6214 Weitere Prüffälle zum Anforderungskatalog Prüffall 6230 Prüffall 6240 Prüffall Testdatenvalidierung
 
 
 ---

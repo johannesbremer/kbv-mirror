@@ -2649,47 +2649,17 @@ Muster 10, Punkt 15).
 
 Die Schriftgröße dieses Feldes kann beruhend auf den Regelungen in Kapitel 2.10.4.2  Inhalt“ und unter Beachtung der nachfolgenden Tabelle durch das erstellende PVS angepasst werden:
 
-Schriftgröße in pt 6
-
-7
-
-8
-
-9
-
-Anzahl sichtbarer Zeichen 108
-
-92
-
-81
-
-72
+| Schriftgröße in | pt Anzahl sichtbarer | Zeichen Anzahl erlaubter Zeichen |
+|---|---|---|
+| 6 | 108 | 108 |
+| 7 | 92 | 92 |
+| 8 | 81 | 81 |
+| 9 | 72 | 72 |
+| 10 | 65 | 65 |
+| 11 | 59 | 59 |
+| 12 | 54 | 54 |
 
 Felder mit variablem
-
-Anzahl erlaubter Zeichen 108
-
-92
-
-81
-
-72
-
-10
-
-65
-
-65
-
-11
-
-59
-
-59
-
-12
-
-54
 
 **Tabelle 16: Anzahl sichtbarer und erlaubter Zeichen für das Feld „M10_22: 4207_Diagnose_Verdachtsdiagnose**
 
@@ -2699,11 +2669,9 @@ Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe 
 
 Die Schriftgröße dieses Feldes kann beruhend auf den Regelungen in Kapitel 2.10.4.2  Inhalt“ und unter Beachtung der nachfolgenden Tabelle durch das erstellende PVS angepasst werden.
 
-54
-
 **“ auf digitalem Muster 10**
 
-Felder mit variablem
+Schriftgröße in pt Anzahl sichtbarer Zeichen Felder mit variablem
 
 
 ---
@@ -3348,51 +3316,15 @@ Die Schriftgröße dieses Feldes kann beruhend auf den Regelungen in Kapitel 2.1
 
 Inhalt“ und unter Beachtung der nachfolgenden Tabelle durch das erstellende PVS angepasst werden:
 
-Schriftgröße in pt
-
-Anzahl sichtbarer Zeichen
-
-Anzahl erlaubter Zeichen 6
-
-62
-
-62
-
-7
-
-53
-
-53
-
-8
-
-47
-
-47
-
-9
-
-41
-
-41
-
-10
-
-37
-
-37
-
-11
-
-34
-
-34
-
-12
-
-31
-
-31
+| Schriftgröße in | pt Anzahl sichtbarer | Zeichen Anzahl erlaubter Zeichen |
+|---|---|---|
+| 6 | 62 | 62 |
+| 7 | 53 | 53 |
+| 8 | 47 | 47 |
+| 9 | 41 | 41 |
+| 10 | 37 | 37 |
+| 11 | 34 | 34 |
+| 12 | 31 | 31 |
 
 **Tabelle 21: Anzahl sichtbarer und erlaubter Zeichen für das Feld „0000_ zusaetzliche_Angabe“ auf digitalem Muster 10A**
 
@@ -3410,7 +3342,7 @@ Sowohl im sichtbaren als im auch maschinenlesbaren Teil werden bei einstelligen 
 
 3.3.2.10 M10A_10: 8219_Abnahmezeit
 
-Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [KBV_Vordruckerläute- rungen], Muster 10A, Punkt 7). Demnach ist hier die Abnahmezeit in der Form *hhmm* anzugeben, wenn
+Schriftgröße in pt Anzahl sichtbarer Zeichen Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [KBV_Vordruckerläute- rungen], Muster 10A, Punkt 7). Demnach ist hier die Abnahmezeit in der Form *hhmm* anzugeben, wenn
 
 
 ---
@@ -3439,53 +3371,23 @@ Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe 
 
 Die Schriftgröße dieses Feldes kann beruhend auf den Regelungen in Kapitel 2.10.4.2  Inhalt“ und unter Beachtung der nachfolgenden Tabelle durch das erstellende PVS angepasst werden.
 
-Schriftgröße in pt
-
-Anzahl sichtbarer Zeichen 6
-
-72
-
-7
-
-42
-
-8
-
-36
-
-9
-
-32
+| Schriftgröße in | pt Anzahl sichtbarer | Zeichen Anzahl erlaubter Zeichen |
+|---|---|---|
+| 6 | 72 | 72 |
+| 7 | 42 | 42 |
+| 8 | 36 | 36 |
+| 9 | 32 | 32 |
+| 10 | 14 | 14 |
+| 11 | 13 | 13 |
+| 12 | 12 | 12 |
 
 M10A_12: 4205_Auftrag2
 
 “ angekreuzt, so ist im Feld „M10A_68: 4205_Auftrag61_sons-
 
-Anzahl erlaubter Zeichen 72
-
-42
-
-36
-
-32
-
 M10A_67: 4205_Auftrag61
 
-Felder mit variablem 10
-
-14
-
-14
-
-11
-
-13
-
-13
-
-12
-
-12
+Felder mit variablem
 
 **Tabelle 22: Anzahl sichtbarer und erlaubter Zeichen für das Feld „ M10A_68: 4205_Auftrag61_sonstige_Auftraege**
 
@@ -3497,9 +3399,7 @@ Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe 
 
 In diesem Abschnitt werden die musterspezifischen Inhalte für das digitale Muster 39 beschrieben. Wie in  diesem Dokument bereits beschrieben, lassen sich die Inhalte eines Musters in zwei Abschnitte zusammen- fassen: Metadaten und Daten.
 
-12
-
-**“ auf digitalem Muster 10A**
+Schriftgröße in pt Anzahl sichtbarer Zeichen **“ auf digitalem Muster 10A**
 
 
 ---
@@ -5055,9 +4955,9 @@ ANSONSTEN  darf dieses Feld nicht angegeben  werden.
 
 **ID gemäß**  **Tabelle 52**
 
-| Identifikator der Einrich- | 61 | identifier |  |  |
-|---|---|---|---|---|
-| tung |  |  |  |  |
+Identifikator der Einrich- 61
+
+tung
 
 BSNR 61a
 
@@ -5072,6 +4972,14 @@ Standortnummer 61d
 **FHIR®-Element**
 
 **Bedingung**
+
+identifier
+
+WENN  das Feld 7 gemäß Tabelle 52 gleich  "GKV" oder "BG" oder "SKT" oder  "UK" oder “PKV“ ist und das Feld 41
+
+gemäß Tabelle 52 gleich "00" oder  "01" oder "03" oder "04" ist,  DANN  ist dieses Feld Pflicht.
+
+ANSONSTEN  ist dieses Feld optional.
 
 identifier:Betriebsstaettennum WENN
 
@@ -5101,7 +5009,7 @@ belle 52 und 61b gemäß Tabelle 52  und 61d gemäß Tabelle 52 nicht vor- hande
 
 ANSONSTEN  darf dieses Feld nicht angegeben  werden.
 
-WENN das Feld 7 gemäß Tabelle 52 gleich "GKV" oder "BG" oder "SKT" oder "UK" oder “PKV“ ist und das Feld 41 gemäß Tabelle 52 gleich "00" oder "01" oder "03" oder "04" ist, DANN ist dieses Feld Pflicht. ANSONSTEN  ist dieses Feld optional. identifier:Standortnummer WENN  der Block 61 gemäß Tabelle 52 vor- handen ist und die Felder 61a gemäß  Tabelle 52 und 61b gemäß Tabelle  52 und 61c gemäß Tabelle 52 nicht  vorhanden sind,
+identifier:Standortnummer WENN  der Block 61 gemäß Tabelle 52 vor- handen ist und die Felder 61a gemäß  Tabelle 52 und 61b gemäß Tabelle  52 und 61c gemäß Tabelle 52 nicht  vorhanden sind,
 
 
 ---

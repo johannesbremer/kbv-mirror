@@ -15,109 +15,38 @@ KASSENÄRZTLICHE IT IN DER ARZTPRAXIS
 
 ---
 
-## INHALT
+INHALT
 
-**1** **ALLGEMEINES**
+| **1 ALLGEMEINES** | **6** |
+|---|---|
+| 1.1 Rechtsgrundlage | 6 |
+| 1.2 Zertifizierungsablauf | 6 |
+| 1.3 Zertifizierungsportal | 7 |
+| 1.4 Zertifizierungsdokumente | 7 |
+| 1.5 Prüfunterlagen | 7 |
+| 1.6 Prüfvorgaben | 9 |
+| 1.6.1 Schnittstellenversionen | 9 |
+| 1.6.2 Datumseingaben | 9 |
+| 1.6.3 Prüfstammdaten | 9 |
+| 1.6.4 Versichertendaten | 10 |
+| 1.6.5 Praxisdaten/ Arztstempel | 10 |
+| 1.6.6 Krankenhausdaten | 10 |
+| 1.6.7 Prüfnummer | 11 |
+| 1.6.8 Stammdatei der Datenannahmestellen | (SDDA) 11 |
+| 1.6.9 Auflistung der Prüffälle | 11 |
 
-**6**
-
-1.1 Rechtsgrundlage
-
-6
-
-1.2 Zertifizierungsablauf
-
-6
-
-1.3 Zertifizierungsportal
-
-7
-
-1.4 Zertifizierungsdokumente
-
-7
-
-1.5 Prüfunterlagen
-
-7
-
-1.6 Prüfvorgaben
-
-9
-
-1.6.1 Schnittstellenversionen
-
-9
-
-1.6.2 Datumseingaben
-
-9
-
-1.6.3 Prüfstammdaten
-
-9
-
-1.6.4 Versichertendaten
-
-10
-
-1.6.5 Praxisdaten/ Arztstempel
-
-10
-
-1.6.6 Krankenhausdaten
-
-10
-
-1.6.7 Prüfnummer
-
-11
-
-1.6.8 Stammdatei der Datenannahmestellen (SDDA) 11
-
-1.6.9 Auflistung der Prüffälle 11
-
-**2** **PRÜFFÄLLE**
-
-**12**
-
-2.1 Prüffälle Dokumentation
-
-12
-
-2.1.1 Prüffall 5512
-
-12
-
-2.1.2 Prüffall 5517
-
-15
-
-2.1.3 Prüffall 6520
-
-18
-
-2.2 Prüffall Systemreaktion
-
-23
-
-2.2.1 Prüffall 5514
-
-23
-
-2.2.2 Prüffall 5515
-
-28
-
-2.3 Weitere Prüffälle zum Anforderungskatalog 29
-
-2.3.1 Prüffall 5530
-
-29
-
-2.3.2 Prüffall 5540
-
-31
+| **2** | **PRÜFFÄLLE** |  | **12** |
+|---|---|---|---|
+| 2.1 Prüffälle |  | Dokumentation | 12 |
+| 2.1.1 | Prüffall | 5512 | 12 |
+| 2.1.2 | Prüffall | 5517 | 15 |
+| 2.1.3 | Prüffall | 6520 | 18 |
+| 2.2 Prüffall |  | Systemreaktion | 23 |
+| 2.2.1 | Prüffall | 5514 | 23 |
+| 2.2.2 | Prüffall | 5515 | 28 |
+| 2.3 Weitere | Prüffälle | zum Anforderungskatalog | 29 |
+| 2.3.1 | Prüffall | 5530 | 29 |
+| 2.3.2 | Prüffall | 5540 | 31 |
 
 **3** **TESTDATENVALIDIERUNG**
 
@@ -136,7 +65,7 @@ KASSENÄRZTLICHE IT IN DER ARZTPRAXIS
 
 **38**
 
-Versichertendaten 1 – Ersatzverfahren Versichertendaten 2 – Ersatzverfahren
+Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentation Prüffall 5512 Prüffall 5517 Prüffall 6520 Prüffall Systemreaktion Prüffall 5514 Prüffall 5515 Weitere Prüffälle zum Anforderungskatalog Prüffall 5530 Prüffall 5540 Versichertendaten 1 – Ersatzverfahren Versichertendaten 2 – Ersatzverfahren
 
 
 ---

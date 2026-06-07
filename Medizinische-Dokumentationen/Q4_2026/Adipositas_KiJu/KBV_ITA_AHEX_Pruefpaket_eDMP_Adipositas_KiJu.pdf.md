@@ -17,121 +17,54 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
 
 ---
 
-## INHALT
+INHALT
 
-**1** **ALLGEMEINES**
+| **1 ALLGEMEINES** | **4** |
+|---|---|
+| 1.1 Rechtsgrundlage | 4 |
+| 1.2 Zertifizierungsablauf | 4 |
+| 1.3 Zertifizierungsportal | 5 |
+| 1.4 Zertifizierungsdokumente | 5 |
+| 1.5 Prüfunterlagen | 5 |
+| 1.6 Prüfvorgaben | 7 |
+| 1.6.1 Schnittstellenversionen | 7 |
+| 1.6.2 Datumseingaben | 7 |
+| 1.6.3 Prüfstammdaten | 7 |
+| 1.6.4 Versichertendaten | 7 |
+| 1.6.5 Praxisdaten/ Arztstempel | 8 |
+| 1.6.6 Krankenhausdaten | 8 |
+| 1.6.7 Prüfnummer | 8 |
+| 1.6.8 Stammdatei der Datenannahmestellen | (SDDA) 9 |
+| 1.6.9 Auflistung der Prüffälle | 9 |
 
-**4**
-
-1.1 Rechtsgrundlage
-
-4
-
-1.2 Zertifizierungsablauf
-
-4
-
-1.3 Zertifizierungsportal
-
-5
-
-1.4 Zertifizierungsdokumente
-
-5
-
-1.5 Prüfunterlagen
-
-5
-
-1.6 Prüfvorgaben
-
-7
-
-1.6.1 Schnittstellenversionen
-
-7
-
-1.6.2 Datumseingaben
-
-7
-
-1.6.3 Prüfstammdaten
-
-7
-
-1.6.4 Versichertendaten
-
-7
-
-1.6.5 Praxisdaten/ Arztstempel
-
-8
-
-1.6.6 Krankenhausdaten
-
-8
-
-1.6.7 Prüfnummer
-
-8
-
-1.6.8 Stammdatei der Datenannahmestellen (SDDA) 9
-
-1.6.9 Auflistung der Prüffälle 9
-
-**2** **PRÜFFÄLLE**
-
-**10**
-
-2.1 Prüffälle Dokumentation
-
-10
-
-2.1.1 Prüffall 2211
-
-10
-
-2.1.2 Prüffall 2212
-
-13
-
-2.2 Prüffall Systemreaktion
-
-15
-
-2.2.1 Prüffall 2214
-
-15
-
-2.3 Weitere Prüffälle zum Anforderungskatalog 19
-
-2.3.1 Prüffall 2230
-
-19
-
-2.3.2 Prüffall 2240
-
-21
+| **2** | **PRÜFFÄLLE** |  | **10** |
+|---|---|---|---|
+| 2.1 | Prüffälle | Dokumentation | 10 |
+| 2.1.1 |  | Prüffall 2211 | 10 |
+| 2.1.2 |  | Prüffall 2212 | 13 |
+| 2.2 Prüffall |  | Systemreaktion | 15 |
+| 2.2.1 |  | Prüffall 2214 | 15 |
+| 2.3 Weitere |  | Prüffälle zum Anforderungskatalog | 19 |
+| 2.3.1 |  | Prüffall 2230 | 19 |
+| 2.3.2 |  | Prüffall 2240 | 21 |
 
 **3** **TESTDATENVALIDIERUNG**
 
 **22**
 
-**4** **ANHANG**
-
-**23**
-
-4.1 Prüffall 2211  Ersatzverfahren 23
-
-4.2 Prüffall 2212  Ersatzverfahren 24
-
-4.3 Prüffall 2240  Ersatzverfahren 25
+| **4** | **ANHANG** |  |  | **23** |
+|---|---|---|---|---|
+| 4.1 | Prüffall | 2211 | – Ersatzverfahren | 23 |
+| 4.2 | Prüffall | 2212 | – Ersatzverfahren | 24 |
+| 4.3 | Prüffall | 2240 | – Ersatzverfahren | 25 |
 
 **5** **REFERENZIERTE DOKUMENTE**
 
 **26**
 
 / Version: 1.00 / 31. März 2026
+
+Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentation Prüffall Systemreaktion Weitere Prüffälle zum Anforderungskatalog Prüffall 2211 Prüffall 2212 Prüffall 2240
 
 
 ---

@@ -598,6 +598,8 @@ Veränderung seit Jan 2022
 
 ---
 
+> [OCR REQUIRED — page 38]
+> This page is a scanned/rasterised image with no extractable text layer; run OCR to recover its content.
 
 
 ---

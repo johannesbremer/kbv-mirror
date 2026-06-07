@@ -1717,85 +1717,39 @@ Zusätzlicher Befund an Prof. Dr. med. Thomas Zusatzarzt per E-Mail an zusatz-
 
 **3.2. Muster LDT mit Beschreibung der Feldkennungen**
 
-**Feldlänge FK**
-
-013 8000
-
-018 8132
-
-017 8002
-
-017 0001
-
-025 8151
-
-017 8002
-
-019 8315
-
-019 8316
-
-025 0105
-
-019 0103
-
-018 0132
-
-017 8003
-
-039 8218
-
-017 8002
-
-017 7278
-
-018 7279
-
-014 7273
-
-029 8235
-
-017 8002
-
-011 7420
-
-019 3101
-
-014 3102
-
-017 3104
-
-017 8003
-
-017 8003
-
-017 8003
-
-010 7265
-
-032 8122
-
-017 8002
-
-010 7321
-
-013 8312
-
-**Feldinhalt**  8230
-
-Kopfdaten  Obj_0032  LDT 3.2.19  Sendendes_System  Obj_0051  Labor27/12  Arzt123456  a/nn/JJMM/MM/aaa  Muster PVS  8.12.0.95
-
-Obj_0051  Timestamp_Erstellung _Daten-satz
-
-Obj_0054  JJJJMMTT  HHmmss(ms)
-
-UTC+1  Person_zum_Timestamp  Obj_0047
-
-02  Musterarzt  Klaus  Dr. med.  Obj_0047
-
-Obj_0054  Obj_0032
-
-1  Einsenderidentifikation  Obj_0022  01  4711
+| **Feldlänge** | **FK** | **Feldinhalt** |
+|---|---|---|
+| 013 | 8000 | 8230 |
+| 018 | 8132 | Kopfdaten |
+| 017 | 8002 | Obj_0032 |
+| 017 | 0001 | LDT 3.2.19 |
+| 025 | 8151 | Sendendes_System |
+| 017 | 8002 | Obj_0051 |
+| 019 | 8315 | Labor27/12 |
+| 019 | 8316 | Arzt123456 |
+| 025 | 0105 | a/nn/JJMM/MM/aaa |
+| 019 | 0103 | Muster PVS |
+| 018 | 0132 | 8.12.0.95 |
+| 017 | 8003 | Obj_0051 |
+| 039 | 8218 | Timestamp_Erstellung _Daten-satz |
+| 017 | 8002 | Obj_0054 |
+| 017 | 7278 | JJJJMMTT |
+| 018 | 7279 | HHmmss(ms) |
+| 014 | 7273 | UTC+1 |
+| 029 | 8235 | Person_zum_Timestamp |
+| 017 | 8002 | Obj_0047 |
+| 011 | 7420 | 02 |
+| 019 | 3101 | Musterarzt |
+| 014 | 3102 | Klaus |
+| 017 | 3104 | Dr. med. |
+| 017 | 8003 | Obj_0047 |
+| 017 | 8003 | Obj_0054 |
+| 017 | 8003 | Obj_0032 |
+| 010 | 7265 | 1 |
+| 032 | 8122 | Einsenderidentifikation |
+| 017 | 8002 | Obj_0022 |
+| 010 | 7321 | 01 |
+| 013 | 8312 | 4711 |
 
 ### Leistungen an Patienten)
 
@@ -2749,151 +2703,53 @@ Datum des Timestamp
 
 ---
 
-018 7279
-
-014 7273
-
-017 8003
-
-017 8003
-
-033 8159
-
-017 8002
-
-010 7260
-
-033 7352
-
-035 7251
-
-014 7365
-
-014 7366
-
-010 7303
-
-019 7364
-
-011 8428
-
-011 8429
-
-054 8213
-
-017 8002
-
-017 7278
-
-018 7279
-
-014 7273
-
-017 8003
-
-017 8003
-
-036 8167
-
-017 8002
-
-031 3564
-
-017 8003
-
-015 8110
-
-017 8002
-
-012 9970
-
-013 6303
-
-032 6327
-
-012 9908
-
-017 8003
-
-013 8001
-
-013 8000
-
-025 9300
-
-013 8001
-
-*Hinweis:*
-
-015 8110
-
-017 8002
-
-017 8003
-
-HHmmss(ms)
-
-UTC+1
-
-Obj_0054
-
-Obj_0059
-
-Untersuchungsanforderung
-
-Obj_0059 4
-
-www.musterlabor\lvz02.de
-
-Katalog Basis Labor Muster 25K28
-
-Quick 4
-
-1234567803
-
-CB
-
-03  Timestamp_Erstellung _Untersu- chungsanforderung  Obj_0054
-
-JJJJMMTT
-
-HHmmss(ms)
-
-UTC+1
-
-Obj_0054
-
-Obj_0059
-
-Zusaetzliche_Informationen
-
-Obj_0068
-
-Patient war in Afrika!
-
-Obj_0068
-
-Anhang
-
-Obj_0010 999
-
-JPEG
-
-Bild der Entnahmestelle
-
-URL
-
-Obj_0010 8215
-
-8231
-
-errechneter Wert 8231
-
-Anhang
-
-Obj_0010
-
-Obj_0010
+| **IT in der** | **Arztpraxis** |  |
+|---|---|---|
+| LDT 3 |  |  |
+| 018 | 7279 | HHmmss(ms) |
+| 014 | 7273 | UTC+1 |
+| 017 | 8003 | Obj_0054 |
+| 017 | 8003 | Obj_0059 |
+| 033 | 8159 | Untersuchungsanforderung |
+| 017 | 8002 | Obj_0059 |
+| 010 | 7260 | 4 |
+| 033 | 7352 | www.musterlabor\lvz02.de |
+| 035 | 7251 | Katalog Basis Labor Muster |
+| 014 | 7365 | 25K28 |
+| 014 | 7366 | Quick |
+| 010 | 7303 | 4 |
+| 019 | 7364 | 1234567803 |
+| 011 | 8428 | CB |
+| 011 | 8429 | 03 |
+|  |  | Timestamp_Erstellung _Untersu- |
+| 054 | 8213 |  |
+|  |  | chungsanforderung |
+| 017 | 8002 | Obj_0054 |
+| 017 | 7278 | JJJJMMTT |
+| 018 | 7279 | HHmmss(ms) |
+| 014 | 7273 | UTC+1 |
+| 017 | 8003 | Obj_0054 |
+| 017 | 8003 | Obj_0059 |
+| 036 | 8167 | Zusaetzliche_Informationen |
+| 017 | 8002 | Obj_0068 |
+| 031 | 3564 | Patient war in Afrika! |
+| 017 | 8003 | Obj_0068 |
+| 015 | 8110 | Anhang |
+| 017 | 8002 | Obj_0010 |
+| 012 | 9970 | 999 |
+| 013 | 6303 | JPEG |
+| 032 | 6327 | Bild der Entnahmestelle |
+| 012 | 9908 | URL |
+| 017 | 8003 | Obj_0010 |
+| 013 | 8001 | 8215 |
+| 013 | 8000 | 8231 |
+| 025 | 9300 | errechneter Wert |
+| 013 | 8001 | 8231 |
+| *Hinweis:* |  |  |
+| 015 | 8110 | Anhang |
+| 017 | 8002 | Obj_0010 |
+| 017 | 8003 | Obj_0010 |
+| LDT 3 Use Cases, | Version | 3.2.19 Seite 22 von 66 |
 
 Uhrzeit des Timestamp
 
@@ -3089,35 +2945,20 @@ die über ASV abgerechnet werden können bekannt. Wird eine solche Leistung abge
 
 **4.2. Muster LDT mit Beschreibung der Feldkennungen**
 
-**Feldlänge FK**
-
-013 8000
-
-018 8132
-
-017 8002
-
-017 0001
-
-025 8151
-
-017 8002
-
-019 8315
-
-019 8316
-
-025 0105
-
-019 0103
-
-018 0132
-
-017 8003
-
-**Feldinhalt**
-
-8230  Kopfdaten  Obj_0032  LDT 3.2.19  Sendendes_System  Obj_0051  Labor27/12  Arzt123456  a/nn/JJMM/MM/aaa  Muster PVS  8.12.0.95  Obj_0051
+| **Feldlänge** | **FK** | **Feldinhalt** |
+|---|---|---|
+| 013 | 8000 | 8230 |
+| 018 | 8132 | Kopfdaten |
+| 017 | 8002 | Obj_0032 |
+| 017 | 0001 | LDT 3.2.19 |
+| 025 | 8151 | Sendendes_System |
+| 017 | 8002 | Obj_0051 |
+| 019 | 8315 | Labor27/12 |
+| 019 | 8316 | Arzt123456 |
+| 025 | 0105 | a/nn/JJMM/MM/aaa |
+| 019 | 0103 | Muster PVS |
+| 018 | 0132 | 8.12.0.95 |
+| 017 | 8003 | Obj_0051 |
 
 ### www.musterla-
 
@@ -5221,83 +5062,30 @@ Kostenträgerkennung
 
 ---
 
-011 4122
-
-010 4221
-
-017 8003
-
-023 8102
-
-017 8002
-
-011 4239
-
-020 4134
-
-014 4104
-
-011 4106
-
-011 3116
-
-018 4111
-
-011 4122
-
-010 4221
-
-017 8003
-
-017 8003
-
-013 8001
-
-013 8000
-
-025 9300
-
-013 8001
-
-*Hinweis:*
-
-015 8110
-
-017 8002
-
-017 8003
-
-00
-
-1
-
-Obj_0002
-
-Abrechnung_GKV
-
-Obj_0002 28
-
-Musterkasse 78945
-
-00
-
-00
-
-123456789
-
-00
-
-1
-
-Obj_0002  Obj_0001  8215 8231
-
-errechneter Wert 8231
-
-Anhang
-
-Obj_0010
-
-Obj_0010
+| 011 | 4122 | 00 |
+|---|---|---|
+| 010 | 4221 | 1 |
+| 017 | 8003 | Obj_0002 |
+| 023 | 8102 | Abrechnung_GKV |
+| 017 | 8002 | Obj_0002 |
+| 011 | 4239 | 28 |
+| 020 | 4134 | Musterkasse |
+| 014 | 4104 | 78945 |
+| 011 | 4106 | 00 |
+| 011 | 3116 | 00 |
+| 018 | 4111 | 123456789 |
+| 011 | 4122 | 00 |
+| 010 | 4221 | 1 |
+| 017 | 8003 | Obj_0002 |
+| 017 | 8003 | Obj_0001 |
+| 013 | 8001 | 8215 |
+| 013 | 8000 | 8231 |
+| 025 | 9300 | errechneter Wert |
+| 013 | 8001 | 8231 |
+| *Hinweis:* |  |  |
+| 015 | 8110 | Anhang |
+| 017 | 8002 | Obj_0010 |
+| 017 | 8003 | Obj_0010 |
 
 Abrechnungsgebiet
 
@@ -5502,123 +5290,57 @@ Material Serum unvollständig, Hinweis von Dr. Zusatzarzt auf „Materialmenge g
 
 ---
 
-017 8002
-
-011 7420
-
-018 3101
-
-016 3102
-
-017 3104
-
-017 8003
-
-017 8003
-
-010 7266
-
-017 8003
-
-024 8119
-
-017 8002
-
-010 0204
-
-010 0204
-
-028 0203
-
-018 0201
-
-021 8143
-
-017 8002
-
-038 1250
-
-032 8229
-
-017 8002
-
-014 3112
-
-021 3113
-
-020 3107
-
-011 3109
-
-022 3115
-
-010 3114
-
-017 8003
-
-028 8131
-
-017 8002
-
-030 7330
-
-030 7331
-
-030 7333
-
-031 7335
-
-027 7334
-
-017 8003
-
-017 8003
-
-017 8003
-
-013 8001
-
-013 8000
-
-033 8122
-
-017 8002
-
-011 7321
-
-013 8312
-
-028 8114
-
-017 8002
-
-015 8147
-
-017 8002
-
-011 7420
-
-019 3101
-
-014 3102
-
-Obj_0047
-
-07  Laborarzt  Manfred  Dr. med.  Obj_0047  Obj_0043
-
-1  Obj_0036  Betriebsstaette  Obj_0019  2 5  Labor Mueller Meier
-
-234567891
-
-Organisation  Obj_0043  Laborarztpraxis Mueller/Meier Anschrift_Arbeitsstelle  Obj_0007
-
-12345  Musterhausen  Laborstraße 24  Eingang links
-
-D  Obj_0007  Kommunikationsdaten  Obj_0031  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  [dr.musterlabor@mail.de](mailto:dr.musterlabor@mail.de)  www.musterlabor.de  Obj_0031  Obj_0043  Obj_0019  8220
-
-8205  Einsenderidentifikation  Obj_0022  01
-
-4711  Arztidentifikation  Obj_0014  Person  Obj_0047 02  Musterarzt  Klaus
+| 017 | 8002 | Obj_0047 |
+|---|---|---|
+| 011 | 7420 | 07 |
+| 018 | 3101 | Laborarzt |
+| 016 | 3102 | Manfred |
+| 017 | 3104 | Dr. med. |
+| 017 | 8003 | Obj_0047 |
+| 017 | 8003 | Obj_0043 |
+| 010 | 7266 | 1 |
+| 017 | 8003 | Obj_0036 |
+| 024 | 8119 | Betriebsstaette |
+| 017 | 8002 | Obj_0019 |
+| 010 | 0204 | 2 |
+| 010 | 0204 | 5 |
+| 028 | 0203 | Labor Mueller Meier |
+| 018 | 0201 | 234567891 |
+| 021 | 8143 | Organisation |
+| 017 | 8002 | Obj_0043 |
+| 038 | 1250 | Laborarztpraxis Mueller/Meier |
+| 032 | 8229 | Anschrift_Arbeitsstelle |
+| 017 | 8002 | Obj_0007 |
+| 014 | 3112 | 12345 |
+| 021 | 3113 | Musterhausen |
+| 020 | 3107 | Laborstraße |
+| 011 | 3109 | 24 |
+| 022 | 3115 | Eingang links |
+| 010 | 3114 | D |
+| 017 | 8003 | Obj_0007 |
+| 028 | 8131 | Kommunikationsdaten |
+| 017 | 8002 | Obj_0031 |
+| 030 | 7330 | +LK_Vorwahl_Rufnummer |
+| 030 | 7331 | +LK_Vorwahl_Rufnummer |
+| 030 | 7333 | +LK_Vorwahl_Rufnummer |
+| 031 | 7335 | dr.musterlabor@mail.de |
+| 027 | 7334 | www.musterlabor.de |
+| 017 | 8003 | Obj_0031 |
+| 017 | 8003 | Obj_0043 |
+| 017 | 8003 | Obj_0019 |
+| 013 | 8001 | 8220 |
+| 013 | 8000 | 8205 |
+| 033 | 8122 | Einsenderidentifikation |
+| 017 | 8002 | Obj_0022 |
+| 011 | 7321 | 01 |
+| 013 | 8312 | 4711 |
+| 028 | 8114 | Arztidentifikation |
+| 017 | 8002 | Obj_0014 |
+| 015 | 8147 | Person |
+| 017 | 8002 | Obj_0047 |
+| 011 | 7420 | 02 |
+| 019 | 3101 | Musterarzt |
+| 014 | 3102 | Klaus |
 
 ObjektIdent  Status Person  Name der Person  Vorname der Person  Titel der Person  Objektende  Objektende  Laborart
 
@@ -5628,9 +5350,7 @@ Objektattribut
 
 ObjektIdent  Status der Betriebsstätte  Status der Betriebsstätte  (N)BSNR-Bezeichnung  Betriebs- (BSNR) oder Nebenbetriebsstättennummer  (NBSNR)
 
-Objektattribut  ObjektIdent
-
-Organisation / Firma  Objektattribut  ObjektIdent  PLZ
+Objektattribut  ObjektIdent  Organisation / Firma  Objektattribut  ObjektIdent  PLZ
 
 Ort  Straße  Hausnummer  Anschriftenzusatz  Wohnsitzländercode  Objektende  Objektattribut  ObjektIdent  Telefonnummer  Mobiltelefonnummer  Faxnummer  E-Mailadresse  Webadresse  Objektende  Objektende
 
@@ -6640,51 +6360,26 @@ ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone
 
 ---
 
-017 8003
-
-017 8003
-
-015 8110
-
-017 8002
-
-012 9970
-
-031 8242
-
-017 8002
-
-027 6329
-
-017 8003
-
-012 6303
-
-017 8003
-
-013 8001
-
-013 8000
-
-025 9300
-
-013 8001
-
-*Hinweis:*  015 8110 017 8002
-
-017 8003
-
-Obj_0054  Obj_0035  Anhang  Obj_0010
-
-100  base64-kodierte_Anlage  Obj_0068  InhaltInhaltInhalt  Obj_0068
-
-PDF  Obj_0010  8205 8221  errechneter Wert  8221
-
-Anhang
-
-Obj_0010
-
-Obj_0010
+| 017 | 8003 | Obj_0054 |
+|---|---|---|
+| 017 | 8003 | Obj_0035 |
+| 015 | 8110 | Anhang |
+| 017 | 8002 | Obj_0010 |
+| 012 | 9970 | 100 |
+| 031 | 8242 | base64-kodierte_Anlage |
+| 017 | 8002 | Obj_0068 |
+| 027 | 6329 | InhaltInhaltInhalt |
+| 017 | 8003 | Obj_0068 |
+| 012 | 6303 | PDF |
+| 017 | 8003 | Obj_0010 |
+| 013 | 8001 | 8205 |
+| 013 | 8000 | 8221 |
+| 025 | 9300 | errechneter Wert |
+| 013 | 8001 | 8221 |
+| *Hinweis:* |  |  |
+| 015 | 8110 | Anhang |
+| 017 | 8002 | Obj_0010 |
+| 017 | 8003 | Obj_0010 |
 
 Objektende
 

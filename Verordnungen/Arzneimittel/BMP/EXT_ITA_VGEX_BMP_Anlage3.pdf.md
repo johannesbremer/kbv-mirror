@@ -3866,7 +3866,7 @@ Datenfeld bzgl. der wöchentlichen Dosierung Arztnummer Institutions- wöchentli
 
 ---
 
-| **Code** | **Bedeutung** | **Benennung** |  |
+| **Code** | **Bedeutung** | **Benennung** | **mandatory** |
 |---|---|---|---|
 | **A 2.3 Schlüsselworte** | **Nutzung der Schlüsselworte** | In Tabelle 5 sind diejenigen Schlüsselworte gelistet, die in den Datenfelder |  |
 | 111 Identifikationsname |  | Medikationsplan | M |
@@ -3891,7 +3891,7 @@ Datenfeld bzgl. der wöchentlichen Dosierung Arztnummer Institutions- wöchentli
 |  | Zusätzlich werden für das Datenfeld Zwischenüberschrift im 2D-Barcode die Codes aus |  | Tabelle |
 | benötigt. | **Optionale Nutzung** | Zu jedem Eintrag ist vermerkt, ob dieser verpflichtend (mandatory | **Aufbau des Codes** |
 | Zu jedem Code gibt es eine eindeutige zulässige Benennung | Tabelle 5: Schlüsselworte für den Medikationsplan | **Code** | **Bedeutung** |
-| **Benennung** |  | 111 Identifikationsname |  |
+| **Benennung** | **mandatory** | 111 Identifikationsname |  |
 | Medikationsplan | M | 121 Seitenbezeichnung |  |
 | Seite | M | 131 Seitenrelation |  |
 | von | M | 211 Patientenzuordnung |  |
@@ -3904,14 +3904,14 @@ Hierbei bedeutet verpflichtend, dass diese Schlüsselworte von der Software zu u
 
 | Form | M | 351 Tabellenüberschrift, Spalte | Dosierschema |
 |---|---|---|---|
-| **Code** | **Bedeutung** | **Benennung** |  |
+| **Code** | **Bedeutung** | **Benennung** | **mandatory** |
 | morgens mittags abends zur | M | 361 Tabellenüberschrift, Spalte | Dosiereinheit |
 | Einheit | M | 371 Tabellenüberschrift, Spalte | Hinweise |
 | Hinweise | M | 381 Tabellenüberschrift, Spalte | Behandlungsgrund |
 | Grund | M | 511 Versionskennung |  |
 | Version | M | 531 Disclaimer |  |
 | Für Vollständigkeit und | M |  | Tabelle 6: Schlüsselworte für Zwischenüberschriften |
-| **Code** | **Bedeutung** | **Benennung** |  |
+| **Code** | **Bedeutung** | **Benennung** | **mandatory** |
 | 411 Zwischenüberschrift |  | Bedarfsmedikation | O |
 | 412 | Dauermedikation | O | 413 |
 | Intramuskuläre Anwendung | O | 414 | Besondere Anwendung |
@@ -3934,7 +3934,7 @@ Hierbei bedeutet verpflichtend, dass diese Schlüsselworte von der Software zu u
 | 511 Versionskennung |  | Version | M |
 | 531 Disclaimer |  | Für Vollständigkeit und | M |
 
-Nacht Aktualität des Medikationsplans wird keine Gewähr übernommen. anzuwendende Medikamente anzuwendende Medikamente Wöchentliche Anwendung /optional mandatory /optional mandatory | **Code** | **Bedeutung** | **Benennung** |  |
+Nacht Aktualität des Medikationsplans wird keine Gewähr übernommen. anzuwendende Medikamente anzuwendende Medikamente Wöchentliche Anwendung /optional /optional| **Code** | **Bedeutung** | **Benennung** | **mandatory** |
 |---|---|---|---|
 | 411 Zwischenüberschrift |  | Bedarfsmedikation | O |
 |  | 412 | Dauermedikation | O |

@@ -16,105 +16,40 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
 
 ---
 
-## INHALT
+INHALT
 
-**1** **ALLGEMEINES**
+| **1 ALLGEMEINES** | **6** |
+|---|---|
+| 1.1 Rechtsgrundlage | 6 |
+| 1.2 Zertifizierungsablauf | 6 |
+| 1.3 Zertifizierungsportal | 7 |
+| 1.4 Zertifizierungsdokumente | 7 |
+| 1.5 Prüfunterlagen | 7 |
+| 1.6 Prüfvorgaben | 9 |
+| 1.6.1 Prüfstammdaten | 9 |
+| 1.6.2 Versichertendaten | 9 |
+| 1.6.3 Praxisdaten / Arztstempel | 9 |
+| 1.6.4 Krankenhausdaten | 10 |
+| 1.6.5 Prüfnummer | 10 |
+| 1.6.6 Stammdatei der Datenannahmestellen | (SDDA) 10 |
+| 1.6.7 Auflistung der Prüffälle | 11 |
 
-**6**
+| **2** | **PRÜFFÄLLE** |  | **12** |
+|---|---|---|---|
+| 2.1 Prüffälle |  | Dokumentation | 12 |
+| 2.1.1 | Prüffall | 7511 | 12 |
+| 2.1.2 | Prüffall | 7512 | 14 |
+| 2.1.3 | Prüffall | 6513 | 16 |
+| 2.2 Prüffall |  | Systemreaktion | 21 |
+| 2.2.1 | Prüffall | 7514 | 21 |
+| 2.3 Weitere | Prüffälle | zum Anforderungskatalog | 24 |
+| 2.3.1 | Prüffall | 7530 | 24 |
+| 2.3.2 | Prüffall | 7540 | 25 |
 
-1.1 Rechtsgrundlage
-
-6
-
-1.2 Zertifizierungsablauf
-
-6
-
-1.3 Zertifizierungsportal
-
-7
-
-1.4 Zertifizierungsdokumente
-
-7
-
-1.5 Prüfunterlagen
-
-7
-
-1.6 Prüfvorgaben
-
-9
-
-1.6.1 Prüfstammdaten
-
-9
-
-1.6.2 Versichertendaten
-
-9
-
-1.6.3 Praxisdaten / Arztstempel 9
-
-1.6.4 Krankenhausdaten
-
-10
-
-1.6.5 Prüfnummer
-
-10
-
-1.6.6 Stammdatei der Datenannahmestellen (SDDA) 10
-
-1.6.7 Auflistung der Prüffälle 11
-
-**2** **PRÜFFÄLLE**
-
-**12**
-
-2.1 Prüffälle Dokumentation
-
-12
-
-2.1.1 Prüffall 7511
-
-12
-
-2.1.2 Prüffall 7512
-
-14
-
-2.1.3 Prüffall 6513
-
-16
-
-2.2 Prüffall Systemreaktion
-
-21
-
-2.2.1 Prüffall 7514
-
-21
-
-2.3 Weitere Prüffälle zum Anforderungskatalog 24
-
-2.3.1 Prüffall 7530
-
-24
-
-2.3.2 Prüffall 7540
-
-25
-
-**3** **TESTDATENVALIDIERUNG**
-
-**26**
-
-3.1 Prüffall Testdatenvalidierung 27
-
-3.1.1 Prüffall TDV7518
-
-27
+| **3** |  | **TESTDATENVALIDIERUNG** | **26** |
+|---|---|---|---|
+| 3.1 | Prüffall | Testdatenvalidierung | 27 |
+|  | 3.1.1 | Prüffall TDV7518 | 27 |
 
 **4** **ANHANG**
 
@@ -125,6 +60,8 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
 **5** **REFERENZIERTE DOKUMENTE**
 
 **30**
+
+Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentation Prüffall 7511 Prüffall 7512 Prüffall 6513 Prüffall Systemreaktion Prüffall 7514 Weitere Prüffälle zum Anforderungskatalog Prüffall 7530 Prüffall 7540 Prüffall Testdatenvalidierung
 
 
 ---

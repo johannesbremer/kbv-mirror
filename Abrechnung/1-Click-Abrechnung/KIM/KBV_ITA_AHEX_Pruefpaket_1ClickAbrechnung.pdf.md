@@ -20,17 +20,16 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **1** **ALLGEMEINES**
 
-**2** **PRÜFVORGABEN**
-
-2.1 Test- und Zertifizierung-Backend 2.2 Prüfstammdatei
-
-2.3 Praxisdaten
-
-2.4 Abrechnungsdatei und Sammelerklärung 2.5 Testverschlüsselung
-
-2.6 Prüfunterlagen
-
-2.7 Zertifizierungsablauf  2.7.2 Zertifizierungsportal
+| **2** | **PRÜFVORGABEN** | **6** |
+|---|---|---|
+| 2.1 | Test- und Zertifizierung-Backend | 6 |
+| 2.2 | Prüfstammdatei | 6 |
+| 2.3 | Praxisdaten | 6 |
+| 2.4 | Abrechnungsdatei und Sammelerklärung | 6 |
+| 2.5 | Testverschlüsselung | 6 |
+| 2.6 | Prüfunterlagen | 7 |
+| 2.7 | Zertifizierungsablauf | 7 |
+|  | 2.7.2 Zertifizierungsportal | 7 |
 
 **3** **PRÜFFÄLLE**
 
@@ -73,12 +72,6 @@ Echtpaket  3.8.1 Einzureichende Prüfunterlagen
 3.11 PF-11 Nachweis des Bestätigungsverfahrens der gematik 3.11.1 Einzureichende Prüfunterlagen
 
 **5**
-
-**6**
-
-6  6  6  6
-
-6  7  7  7
 
 **9**
 

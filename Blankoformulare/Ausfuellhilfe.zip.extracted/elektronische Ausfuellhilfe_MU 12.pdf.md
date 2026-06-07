@@ -18,7 +18,8 @@ VERSORGUNGSMANAGEMENT
 
 ---
 
-
+> [OCR REQUIRED — page 2]
+> This page is a scanned/rasterised image with no extractable text layer; run OCR to recover its content.
 
 
 ---

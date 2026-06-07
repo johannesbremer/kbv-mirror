@@ -25,13 +25,11 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **2** **DATEINAMEN**
 
-**3** **SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE**
-
-3.1 Kardinalität
-
-3.2 Strukturelemente
-
-3.3 Sonstige Symbole
+| **3** | **SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE** | **12** |
+|---|---|---|
+| 3.1 | Kardinalität | 12 |
+| 3.2 | Strukturelemente | 12 |
+| 3.3 | Sonstige Symbole | 13 |
 
 **4** **DOKUMENTENSTRUKTUR**
 
@@ -80,10 +78,6 @@ Relevante Ereignisse
 **10**
 
 **11**
-
-**12**
-
-12  12  13
 
 **14**
 

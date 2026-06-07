@@ -16,53 +16,22 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
 
 ---
 
-## INHALT
+INHALT
 
-**1** **ALLGEMEINES**
-
-**4**
-
-1.1 Rechtsgrundlage
-
-4
-
-1.2 Zertifizierungsablauf
-
-4
-
-1.3 Zertifizierungsportal
-
-5
-
-1.4 Zertifizierungsdokumente
-
-5
-
-1.5 Prüfunterlagen
-
-5
-
-1.6 Prüfvorgaben
-
-7
-
-1.6.1 Prüfstammdaten
-
-7
-
-1.6.2 Versichertendaten
-
-7
-
-1.6.3 Auflistung der Prüffälle 7
-
-1.6.4 Praxisdaten/ Arztstempel
-
-7
-
-1.6.5 Version der zu verwendenden FHIR-Profile 9
-
-1.6.6 Signierung von Verordnungen 9
+| **1 ALLGEMEINES** | **4** |
+|---|---|
+| 1.1 Rechtsgrundlage | 4 |
+| 1.2 Zertifizierungsablauf | 4 |
+| 1.3 Zertifizierungsportal | 5 |
+| 1.4 Zertifizierungsdokumente | 5 |
+| 1.5 Prüfunterlagen | 5 |
+| 1.6 Prüfvorgaben | 7 |
+| 1.6.1 Prüfstammdaten | 7 |
+| 1.6.2 Versichertendaten | 7 |
+| 1.6.3 Auflistung der Prüffälle | 7 |
+| 1.6.4 Praxisdaten/ Arztstempel | 7 |
+| 1.6.5 Version der zu verwendenden FHIR-Profile | 9 |
+| 1.6.6 Signierung von Verordnungen | 9 |
 
 **2** **PRÜFFÄLLE**
 

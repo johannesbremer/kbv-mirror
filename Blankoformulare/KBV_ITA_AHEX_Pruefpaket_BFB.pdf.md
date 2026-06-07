@@ -16,33 +16,28 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 ---
 
-## INHALT
+INHALT
 
-**1** **ALLGEMEINES**
-
-1.1 Rechtsgrundlage
-
-1.2 Zertifizierungsablauf
-
-1.3 Zertifizierungsportal
-
-1.4 Zertifizierungsdokumente
-
-1.5 Prüfunterlagen  1.5.1 Verzeichnisstruktur
-
-1.5.2 Einreichen von Prüfunterlagen als PDF-Dokumente
-
-1.6 Prüfvorgaben  1.6.1 Prüfstammdateien 1.6.2 Vorbereitungen
-
-1.6.3 Versichertendaten
-
-1.6.4 Auflistung der Prüffälle 1.6.5 Praxisdaten/Arztstempel
-
-1.6.6 Malta (Siehe XML Verzeichnisname: XML_36)
-
-1.6.7 Schimmelpfennig-Hammerschmidt Federmannssohn (Siehe XML Verzeichnisname:  XML_37)
-
-1.6.8 Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeichnisname:  XML_40)
+| **1** | **ALLGEMEINES** | **6** |
+|---|---|---|
+| 1.1 | Rechtsgrundlage | 6 |
+| 1.2 | Zertifizierungsablauf | 6 |
+| 1.3 | Zertifizierungsportal | 7 |
+| 1.4 | Zertifizierungsdokumente | 7 |
+| 1.5 | Prüfunterlagen | 8 |
+| 1.5.1 | Verzeichnisstruktur | 8 |
+| 1.5.2 | Einreichen von Prüfunterlagen als PDF-Dokumente | 9 |
+| 1.6 | Prüfvorgaben | 10 |
+| 1.6.1 | Prüfstammdateien | 10 |
+| 1.6.2 | Vorbereitungen | 10 |
+| 1.6.3 | Versichertendaten | 10 |
+| 1.6.4 | Auflistung der Prüffälle | 11 |
+| 1.6.5 | Praxisdaten/Arztstempel | 11 |
+| 1.6.6 | Malta (Siehe XML Verzeichnisname: XML_36) | 12 |
+| 1.6.7 | Schimmelpfennig-Hammerschmidt Federmannssohn | (Siehe XML Verzeichnisname: |
+|  | XML_37) | 13 |
+| 1.6.8 | Schaumbërg-von-und-zu-Schaumburg-und-Radëberg | (Siehe XML Verzeichnisname: |
+|  | XML_40) | 14 |
 
 **2** **PRÜFFÄLLE**
 
@@ -100,12 +95,6 @@ burten
 
 2.25 Muster 39  Krebsfrüherkennung Zervix-Karzinom
 
-**6**
-
-6  6  7  7  8  8  9  10  10  10  10  11  11  12 13
-
-14
-
 **15**
 
 15  15  15  16  18
@@ -116,7 +105,7 @@ burten
 
 28
 
-28  29
+Schimmelpfennig-Hammerschmidt Federmannssohn (Siehe XML Verzeichnisname: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeichnisname: 28  29
 
 
 ---

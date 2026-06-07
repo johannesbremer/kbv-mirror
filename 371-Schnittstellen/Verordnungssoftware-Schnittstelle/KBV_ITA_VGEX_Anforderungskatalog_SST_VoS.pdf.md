@@ -15,55 +15,24 @@ DOKUMENTENSTATUS:  IN KRAFT  BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   15. SEPT
 
 ---
 
-## INHALT
+INHALT
 
-**1** **EINLEITUNG**
+| **1** | **EINLEITUNG** | **7** |
+|---|---|---|
+| 1.1 | Ziel | 7 |
+| 1.2 | Abgrenzung | 7 |
+| 1.3 | Funktionsarten | 7 |
+| 1.4 | Gültigkeit der Version des Anforderungskatalogs | 8 |
 
-**7**
-
-1.1 Ziel
-
-7
-
-1.2 Abgrenzung
-
-7
-
-1.3 Funktionsarten
-
-7
-
-1.4 Gültigkeit der Version des Anforderungskatalogs 8
-
-**2** **GRUNDLAGEN DER UMSETZUNG**
-
-**9**
-
-2.1 Verordnungssoftware-Schnittstelle (VoS-SST) 9
-
-2.2 Verordnungsprozess
-
-9
-
-2.2.1 Allgemeine Darstellung
-
-9
-
-2.2.2 Fehlermeldungen
-
-11
-
-2.2.3 Konkretes Beispiel
-
-11
-
-2.3 Datentransfer
-
-13
-
-2.4 Zertifizierung
-
-13
+| **2** | **GRUNDLAGEN DER UMSETZUNG** | **9** |
+|---|---|---|
+| 2.1 | Verordnungssoftware-Schnittstelle (VoS-SST) | 9 |
+| 2.2 | Verordnungsprozess | 9 |
+|  | 2.2.1 Allgemeine Darstellung | 9 |
+|  | 2.2.2 Fehlermeldungen | 11 |
+|  | 2.2.3 Konkretes Beispiel | 11 |
+| 2.3 | Datentransfer | 13 |
+| 2.4 | Zertifizierung | 13 |
 
 **3** **ANFORDERUNGEN AN DAS PVS UND DIE VOS**
 

@@ -701,7 +701,7 @@ KV-SYSTEMS [ ] ProfessionalDataType->HeilberuflerID, GeburtsdatenType->Geburtsda
 |  |  |  |  |  | |
 | **DATENFELD** | **ELEMENT/ATTRIBUT** | **P/O** | **FELDTYP** | **BEMERKUNG / KONKRETISIERUNG DES** | |
 | gesendet.  Freigabedaten oder Ablehnungsgrund (beide optional, einander ausschließend)  MÜSSEN gesendet werden, WENN eine Freigabe bzw. Ablehnung des Antrags erfolgt ist, sonst dürfen sie NICHT gesendet werden | | | | | |
-|  | Freigabe | SubjectDN | P | SubjectDNType  Enthält u.a. commonName entsprechend  lat:String.Latin   InstProfessionItemKey  O  Ablehnung  Kennzeichnung als Ablehnung und Text mit  (optional) | |
+| Freigabe oder Ablehnung (Auswahl, optional) | Freigabe | SubjectDN | P | SubjectDNType  Enthält u.a. commonName entsprechend  lat:String.Latin   InstProfessionItemKey  O  Ablehnung  Kennzeichnung als Ablehnung und Text mit  (optional) | |
 | Wird NICHT gefüllt und | FreigabePDF | P | FileTransferType | Freigabedaten oder Ablehnung als PDF  Signatur  P  ds:Signature  Freigabe oder Ablehnung mit Aufführung  Kartendaten sind genau dann vorhanden, wenn die ICCSNs bereits zugeteilt wurden. Je Karte ist ein ProdResult | |
 | Kartendaten (0.. | ProdResult [ ] | O | ProdResultType | Kartendaten (ab Beginn der | |
 | Angaben zur Sperrung | SperrAuftrag | O | SmcbSperrAuftragType[] | Sperraufträge für die mit diesem Antrag **2.6** Message:  In:   Message: | |
@@ -713,7 +713,7 @@ KV-SYSTEMS [ ] ProfessionalDataType->HeilberuflerID, GeburtsdatenType->Geburtsda
 | **DATENFELD** | **ELEMENT/ATTRIBUT** | **P/O** | **FELDTYP** | **BEMERKUNG / KONKRETISIERUNG DES** | |
 | gesendet. | | | | | |
 | Freigabedaten oder Ablehnungsgrund (beide optional, einander ausschließend)  MÜSSEN gesendet werden, WENN eine Freigabe bzw. Ablehnung des Antrags erfolgt ist, sonst dürfen sie NICHT gesendet werden | | | | | |
-|  | Freigabe | SubjectDN | P | SubjectDNType | Enthält u.a. commonName entsprechend |
+| Freigabe oder Ablehnung (Auswahl, optional) | Freigabe | SubjectDN | P | SubjectDNType | Enthält u.a. commonName entsprechend |
 | SubjectAltName | O | lat:String.Latin | Gemäß den Freigabedaten der AttrBS | | |
 | ProfessionItem | P | InstProfessionItemKey | Berufsgruppe der Institution –   Der Wert MUSS entweder "Betriebsstätte | | |
 | RegistrationNumber | O | String128Type | Gemäß den Freigabedaten der AttrBS –  Wird NICHT gefüllt und NICHT gesendet, da | | |
@@ -724,13 +724,13 @@ KV-SYSTEMS [ ] ProfessionalDataType->HeilberuflerID, GeburtsdatenType->Geburtsda
 | Kartendaten (0.. | ProdResult [ ] | O | ProdResultType | Kartendaten (ab Beginn der | |
 | Angaben zur Sperrung | SperrAuftrag | O | SmcbSperrAuftragType[] | Sperraufträge für die mit diesem Antrag | |
 
-KV-SYSTEMS Freigabe oder Ablehnung (Auswahl, optional) den Freigabedaten der AttrBS.  Arzt" oder "Betriebsstätte Psychotherapeut" enthalten. die Vorgangsnummer verwendet wird. dem Ablehnungsgrund;  ist, MUSS der Ablehnungsgrund übertragen werden.  vollständig benennen und mit der KBV abstimmen. Freigabebestätigung   entweder als PDF oder als Signatur des autorisierten, freigebenden Mitarbeiters der AttrBS. enthalten. -Element Kartenproduktion)  von Karten produzierten und verwalteten Karten SPERRAUFTRAG addSmcbSperrAuftraegeRequest SmcbSperrAutraege addSmcbSperrAuftraegeResponse ist und damit die Bestätigungsgrundlage weggefallen ist. In diesem F all sperrt die AttrBS immer einer  Betriebsstätte. alle  SMC-Bs >ReturnCodeType möglich waren, sonst „ERROR“. ReturnCode MUSS „OK“ enthalten, wenn alle Sperrungen >ReturnCodeType >Code und >ReturnCodeType >Number  >ReturnCodeType >Description FEHLERMELDUNGEN "SPERRAUFTRAG" TABELLE 32:
+KV-SYSTEMS den Freigabedaten der AttrBS.  Arzt" oder "Betriebsstätte Psychotherapeut" enthalten. die Vorgangsnummer verwendet wird. dem Ablehnungsgrund;  ist, MUSS der Ablehnungsgrund übertragen werden.  vollständig benennen und mit der KBV abstimmen. Freigabebestätigung   entweder als PDF oder als Signatur des autorisierten, freigebenden Mitarbeiters der AttrBS. enthalten. -Element Kartenproduktion)  von Karten produzierten und verwalteten Karten SPERRAUFTRAG addSmcbSperrAuftraegeRequest SmcbSperrAutraege addSmcbSperrAuftraegeResponse ist und damit die Bestätigungsgrundlage weggefallen ist. In diesem F all sperrt die AttrBS immer einer  Betriebsstätte. alle  SMC-Bs >ReturnCodeType möglich waren, sonst „ERROR“. ReturnCode MUSS „OK“ enthalten, wenn alle Sperrungen >ReturnCodeType >Code und >ReturnCodeType >Number  >ReturnCodeType >Description FEHLERMELDUNGEN "SPERRAUFTRAG" TABELLE 32:
 
 ---
 
 |  | **DATENFELD** | **BESTANDTEILE** | **ELEMENT / ATTRIBUT** | **P/O** | **FELDTYP** | **BEMERKUNG / KONKRETISIERUNG** |
 |---|---|---|---|---|---|---|
-|  | Sperrung | Attributbestäti- | AttrBestStelle | P | AttrBSType | attributbestätigende Stelle, die den  Für AttrBSType->AttrBS_Ident sind die **Tabelle 15: AttrBSType**  AttrBSType->AttrBS_Data wird NICHT |
+| SmcbSperrAuftragType | Sperrung | Attributbestäti- | AttrBestStelle | P | AttrBSType | attributbestätigende Stelle, die den  Für AttrBSType->AttrBS_Ident sind die **Tabelle 15: AttrBSType**  AttrBSType->AttrBS_Data wird NICHT |
 | Name des | Mitarbeiter | O | HNameType | Name des Mitarbeiters bei der AttrBS,  Wird NICHT gefüllt und NICHT | | |
 | Institutsname | InstNameAnschrift | O | InstAnschriftTy | Name und Anschrift der Institution,  Wird NICHT gefüllt und NICHT | | |
 | ID der | InstID | P | String20Type | Identifikationsnummer der Institution  MUSS von der AttrBS gefüllt und  Ist InstID leer oder ungültig, MUSS der | | |
@@ -741,14 +741,14 @@ KV-SYSTEMS Freigabe oder Ablehnung (Auswahl, optional) den Freigabedaten der Att
 | **SmcbSperrAuftrag von der AttrBS an den TSP** | ** | Kardinalität: unbounded |  | **Tabelle 12: SmcbSperrAuftrag von der AttrBS an den TSP** | | |
 |  |  |  | **DATENFELD** |  | | |
 | **BESTANDTEILE** |  |  | **ELEMENT / ATTRIBUT** | **P/O** | | |
-|  | **FELDTYP** |  |  | **BEMERKUNG / KONKRETISIERUNG** | Sperrung | |
+|  | **FELDTYP** |  |  | **BEMERKUNG / KONKRETISIERUNG** | SmcbSperrAuftragType Sperrung | |
 | Attributbestäti- | AttrBestStelle | P | AttrBSType | attributbestätigende Stelle, die den  Für AttrBSType->AttrBS_Ident sind die **Tabelle 15: AttrBSType** | | |
 
 | **DATENFELD** | **BESTANDTEILE** | **ELEMENT/ATTRIBUT** | **P/O** | **FELDTYP** | **BEMERKUNG** |
 |---|---|---|---|---|---|
 | Smcb SperrAuftraege |  | Smcb SperrAuftrag [] |  |  | Sperrauftrag, siehe **SmcbSperrAuftrag von der AttrBS an den TSP**** Kardinalität: unbounded |
 
-Tabelle 12: mehreren  fehl, MUSS bei „Variante 1“  >ReturnCodeType >Number mit „4430“ gefüllt werden und >ReturnCodeType >Description je ein Tupel „<Number>;<ICCSN>;“ für jede fehlgeschlagene Sperrung enthalten. mehreren  fehl, MUSS bei „Variante 2“ >ReturnCodeType >Number mit „4430“ gefüllt werden und >ReturnCodeType >Description je ein Tupel „<Number>;<SerialNumber>;<Issuer>“ für jede fehlgeschlagene Sperrung enthalten. mehreren  fehl, MUSS bei „Variante 3“ >ReturnCodeType >Number mit „4430“ gefüllt werden und >ReturnCodeType >Description je ein Tupel „<Number>;<InstID>;“ für jede fehlgeschlagene Sperrung enthalten. mehreren  fehl, MUSS bei „Variante 4“ >ReturnCodeType >Number mit „4430“ gefüllt werden und >ReturnCodeType >Description je ein Tupel „<Number>;<KartenAntragsID>;“ für jede fehlgeschlagene Sperrung enthalten. Tabelle 11: SmcbSperrAuftraege von der AttrBS an den TSP DES KV-SYSTEMS SmcbSperrAuftragType Sperrauftrag erteilt –  Werte aus zulässig. gefüllt und NICHT gesendet. der den Sperrauftrag autorisiert –  gesendet (-> Maschinen-Account) und -anschrift deren Karte/n zu sperren ist/sind –  gesendet (Betriebsstättennummer), deren Karte/n zu sperren ist/sind –  gesendet werden. TSP den Sperrauftrag ablehnen.
+Tabelle 12: mehreren  fehl, MUSS bei „Variante 1“  >ReturnCodeType >Number mit „4430“ gefüllt werden und >ReturnCodeType >Description je ein Tupel „<Number>;<ICCSN>;“ für jede fehlgeschlagene Sperrung enthalten. mehreren  fehl, MUSS bei „Variante 2“ >ReturnCodeType >Number mit „4430“ gefüllt werden und >ReturnCodeType >Description je ein Tupel „<Number>;<SerialNumber>;<Issuer>“ für jede fehlgeschlagene Sperrung enthalten. mehreren  fehl, MUSS bei „Variante 3“ >ReturnCodeType >Number mit „4430“ gefüllt werden und >ReturnCodeType >Description je ein Tupel „<Number>;<InstID>;“ für jede fehlgeschlagene Sperrung enthalten. mehreren  fehl, MUSS bei „Variante 4“ >ReturnCodeType >Number mit „4430“ gefüllt werden und >ReturnCodeType >Description je ein Tupel „<Number>;<KartenAntragsID>;“ für jede fehlgeschlagene Sperrung enthalten. Tabelle 11: SmcbSperrAuftraege von der AttrBS an den TSP DES KV-SYSTEMS Sperrauftrag erteilt –  Werte aus zulässig. gefüllt und NICHT gesendet. der den Sperrauftrag autorisiert –  gesendet (-> Maschinen-Account) und -anschrift deren Karte/n zu sperren ist/sind –  gesendet (Betriebsstättennummer), deren Karte/n zu sperren ist/sind –  gesendet werden. TSP den Sperrauftrag ablehnen.
 
 ---
 

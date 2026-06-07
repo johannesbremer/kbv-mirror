@@ -17,101 +17,36 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
 
 ---
 
-## INHALT
+INHALT
 
-**ALLGEMEINES**
+| **ALLGEMEINES** | **4** |
+|---|---|
+| 1.1 Rechtsgrundlage | 4 |
+| 1.2 Zertifizierungsablauf | 4 |
+| 1.3 Zertifizierungsportal | 5 |
+| 1.4 Zertifizierungsdokumente | 5 |
+| 1.5 Prüfunterlagen | 5 |
+| 1.6 Prüfvorgaben | 7 |
+| 1.6.1 Schnittstellenversionen | 7 |
+| 1.6.2 Datumseingaben | 7 |
+| 1.6.3 Prüfstammdaten | 7 |
+| 1.6.4 Versichertendaten | 7 |
+| 1.6.5 Praxisdaten/ Arztstempel | 8 |
+| 1.6.6 Krankenhausdaten | 8 |
+| 1.6.7 Prüfnummer | 8 |
+| 1.6.8 Stammdatei der Datenannahmestellen | (SDDA) 9 |
+| 1.6.9 Auflistung der Prüffälle | 9 |
 
-**4**
-
-1.1 Rechtsgrundlage
-
-4
-
-1.2 Zertifizierungsablauf
-
-4
-
-1.3 Zertifizierungsportal
-
-5
-
-1.4 Zertifizierungsdokumente
-
-5
-
-1.5 Prüfunterlagen
-
-5
-
-1.6 Prüfvorgaben
-
-7
-
-1.6.1 Schnittstellenversionen
-
-7
-
-1.6.2 Datumseingaben
-
-7
-
-1.6.3 Prüfstammdaten
-
-7
-
-1.6.4 Versichertendaten
-
-7
-
-1.6.5 Praxisdaten/ Arztstempel
-
-8
-
-1.6.6 Krankenhausdaten
-
-8
-
-1.6.7 Prüfnummer
-
-8
-
-1.6.8 Stammdatei der Datenannahmestellen (SDDA) 9
-
-1.6.9 Auflistung der Prüffälle 9
-
-**PRÜFFÄLLE**
-
-**10**
-
-2.1 Prüffälle Dokumentation
-
-10
-
-2.1.1 Prüffall 1111
-
-10
-
-2.1.2 Prüffall 1112
-
-12
-
-2.2 Prüffall Systemreaktion
-
-14
-
-2.2.1 Prüffall 1114
-
-14
-
-2.3 Weitere Prüffälle zum Anforderungskatalog 18
-
-2.3.1 Prüffall 1130
-
-18
-
-2.3.2 Prüffall 1140
-
-19
+| **PRÜFFÄLLE** |  |  | **10** |
+|---|---|---|---|
+| 2.1 | Prüffälle | Dokumentation | 10 |
+| 2.1.1 |  | Prüffall 1111 | 10 |
+| 2.1.2 |  | Prüffall 1112 | 12 |
+| 2.2 | Prüffall | Systemreaktion | 14 |
+| 2.2.1 |  | Prüffall 1114 | 14 |
+| 2.3 Weitere |  | Prüffälle zum Anforderungskatalog | 18 |
+| 2.3.1 |  | Prüffall 1130 | 18 |
+| 2.3.2 |  | Prüffall 1140 | 19 |
 
 **TESTDATENVALIDIERUNG**
 
@@ -128,6 +63,8 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
 **22**
 
 / 31. März 2026
+
+Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentation Prüffall Systemreaktion Weitere Prüffälle zum Anforderungskatalog
 
 
 ---

@@ -15,109 +15,38 @@ KASSENÄRZTLICHE IT IN DER ARZTPRAXIS
 
 ---
 
-## INHALT
+INHALT
 
-**ALLGEMEINES**
+| **ALLGEMEINES** | **6** |
+|---|---|
+| 1.1 Rechtsgrundlage | 6 |
+| 1.2 Zertifizierungsablauf | 6 |
+| 1.3 Zertifizierungsportal | 6 |
+| 1.4 Zertifizierungsdokumente | 7 |
+| 1.5 Prüfunterlagen | 7 |
+| 1.6 Prüfvorgaben | 9 |
+| 1.6.1 Schnittstellenversionen | 9 |
+| 1.6.2 Datumseingaben | 9 |
+| 1.6.3 Prüfstammdaten | 9 |
+| 1.6.4 Versichertendaten | 10 |
+| 1.6.5 Praxisdaten/ Arztstempel | 10 |
+| 1.6.6 Krankenhausdaten | 10 |
+| 1.6.7 Prüfnummer | 11 |
+| 1.6.8 Stammdatei der Datenannahmestellen | (SDDA) 11 |
+| 1.6.9 Auflistung der Prüffälle | 11 |
 
-**6**
-
-1.1 Rechtsgrundlage
-
-6
-
-1.2 Zertifizierungsablauf
-
-6
-
-1.3 Zertifizierungsportal
-
-6
-
-1.4 Zertifizierungsdokumente
-
-7
-
-1.5 Prüfunterlagen
-
-7
-
-1.6 Prüfvorgaben
-
-9
-
-1.6.1 Schnittstellenversionen
-
-9
-
-1.6.2 Datumseingaben
-
-9
-
-1.6.3 Prüfstammdaten
-
-9
-
-1.6.4 Versichertendaten
-
-10
-
-1.6.5 Praxisdaten/ Arztstempel
-
-10
-
-1.6.6 Krankenhausdaten
-
-10
-
-1.6.7 Prüfnummer
-
-11
-
-1.6.8 Stammdatei der Datenannahmestellen (SDDA) 11
-
-1.6.9 Auflistung der Prüffälle 11
-
-**PRÜFFÄLLE**
-
-**11**
-
-2.1 Prüffälle Dokumentation
-
-11
-
-2.1.1 Prüffall 8511
-
-11
-
-2.1.2 Prüffall 8512
-
-14
-
-2.1.3 Prüffall 6520
-
-16
-
-2.2 Prüffall Systemreaktion
-
-21
-
-2.2.1 Prüffall 8514
-
-21
-
-2.2.2 Prüffall 8515
-
-24
-
-2.3 Weitere Prüffälle zum Anforderungskatalog 25
-
-2.3.1 Prüffall 8530
-
-25
-
-2.3.2 Prüffall 8540
-
-26
+| **PRÜFFÄLLE** |  |  | **11** |
+|---|---|---|---|
+| 2.1 | Prüffälle | Dokumentation | 11 |
+| 2.1.1 | Prüffall | 8511 | 11 |
+| 2.1.2 | Prüffall | 8512 | 14 |
+| 2.1.3 | Prüffall | 6520 | 16 |
+| 2.2 Prüffall |  | Systemreaktion | 21 |
+| 2.2.1 | Prüffall | 8514 | 21 |
+| 2.2.2 | Prüffall | 8515 | 24 |
+| 2.3 Weitere | Prüffälle | zum Anforderungskatalog | 25 |
+| 2.3.1 | Prüffall | 8530 | 25 |
+| 2.3.2 | Prüffall | 8540 | 26 |
 
 **TESTDATENVALIDIERUNG**
 
@@ -136,7 +65,7 @@ KASSENÄRZTLICHE IT IN DER ARZTPRAXIS
 
 **32**
 
-Versichertendaten 1 Versichertendaten 2
+Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentation Prüffall 8511 Prüffall 8512 Prüffall 6520 Prüffall Systemreaktion Prüffall 8514 Prüffall 8515 Weitere Prüffälle zum Anforderungskatalog Prüffall 8530 Prüffall 8540 Versichertendaten 1 Versichertendaten 2
 
 ---
 

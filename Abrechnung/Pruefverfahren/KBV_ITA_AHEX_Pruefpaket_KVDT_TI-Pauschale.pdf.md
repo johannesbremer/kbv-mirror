@@ -26,35 +26,15 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **4**
 
-**3** **PRÜFVORGABEN**
-
-**4**
-
-3.1 Prüfstammdateien
-
-4
-
-3.2 Versichertendaten
-
-4
-
-3.2.1.1 [XML_45]
-
-5
-
-3.2.1.2 [XML_46]
-
-5
-
-3.2.1.3 [XML_47]
-
-6
-
-3.3 Praxisdaten
-
-6
-
-3.4 XPM-Prüfmodul und Verschlüsselung 7
+| **3** | **PRÜFVORGABEN** | **4** |
+|---|---|---|
+| 3.1 | Prüfstammdateien | 4 |
+| 3.2 | Versichertendaten | 4 |
+|  | 3.2.1.1 [XML_45] | 5 |
+|  | 3.2.1.2 [XML_46] | 5 |
+|  | 3.2.1.3 [XML_47] | 6 |
+| 3.3 | Praxisdaten | 6 |
+| 3.4 | XPM-Prüfmodul und Verschlüsselung | 7 |
 
 **4** **PRÜFFÄLLE**
 

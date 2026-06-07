@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**30. MAI 2026**
+**07. JUNI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -30,7 +30,7 @@
 |---|---|---|---|---|
 |  | Y/400/2409/37/754 | 30.09.2027 | Rohdaten MMI |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 30. Mai 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 07. Juni 2026
 
 Y/400/2504/36/062
 
@@ -482,7 +482,7 @@ Y/400/2601/36/422
 
 Y/400/2507/36/494 30.09.2028 Rohdaten ABDAMED
 
-Rohdaten MMI 30.06.2029 Rohdaten MMI
+30.06.2029 Rohdaten MMI
 
 Rohdaten ABDAMED 31.12.2028 MMI PHARMINDEX
 
@@ -538,23 +538,27 @@ MEDOS NEXUS / CHILI GmbH Friedrich-Ebert-Str. 2 69221 Dossenheim Internet: https
 
 **NEXUS AG** Irmastraße 1 78166 Donaueschingen Internet: www.nexus-ag.de
 
-**Verordnungssoftware MediSuite**
+**Omniplaner**
 
-**Paul Albrechts Verlag GmbH** Hamburger Straße 6 22952 Lütjensee Internet: www.pav.de
+**Omnicare Pharma GmbH** Feringastr. 7 85774 Unterföhring Internet: www.omnicare.de
 
-|  | Y/400/2504/36/083 | 31.03.2028 | Rohdaten ABDAMED |  |
+|  | Y/400/2605/38/744 | 30.06.2029 | MMI PHARMINDEX |  |
 |---|---|---|---|---|
-|  | Y/400/2410/36/247 | 30.09.2027 | MMI PHARMINDEX |  |
+|  | Y/400/2504/36/083 | 31.03.2028 | Rohdaten ABDAMED |  |
 
 Y/400/2504/36/208
 
-Y/400/2605/38/744 31.03.2028 Rohdaten ABDAMED
+Y/400/2606/37/776 31.03.2028
 
-30.06.2029 MMI PHARMINDEX
+30.06.2029
+
+Rohdaten ABDAMED
+
+MMI PHARMINDEX
 
 Windows
 
-PegaMed PEGA Elektronik GmbH Felix-Dahn-Straße 15 70597 Stuttgart Internet: www.pegamed.de PROFIMED PRO MEDISOFT AG Besselstraße 25 68219 Mannheim Internet: www.pro-medisoft.de Windows WindowsWindows
+Verordnungssoftware MediSuite Paul Albrechts Verlag GmbH Hamburger Straße 6 22952 Lütjensee Internet: www.pav.de PegaMed PEGA Elektronik GmbH Felix-Dahn-Straße 15 70597 Stuttgart Internet: www.pegamed.de Windows WindowsiOS/Android Linux Mac OS Sonstige Windows
 
 
 ---
@@ -563,32 +567,32 @@ PegaMed PEGA Elektronik GmbH Felix-Dahn-Straße 15 70597 Stuttgart Internet: www
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
+
+**PROFIMED**
+
+**PRO MEDISOFT AG** Besselstraße 25 68219 Mannheim Internet: www.pro-medisoft.de
 
 **psyprax**
 
 **psyprax GmbH** Landsberger Straße 308 80687 München Internet: www.psyprax.de
 
-**RED medical classic**
-
-**RED Medical Systems GmbH** Lutzstraße 2 80687 München Internet: www.REDMEDICAL.DE
-
-|  | Y/400/2401/36/608 | 31.12.2026 | Rohdaten ABDAMED |  |
+|  | Y/400/2504/36/456 | 31.03.2028 | Rohdaten ABDAMED |  |
 |---|---|---|---|---|
-|  | Y/400/2405/38/759 | 30.06.2027 | Rohdaten ABDAMED |  |
+|  | Y/400/2401/36/608 | 31.12.2026 | Rohdaten ABDAMED |  |
 
-Y/400/2510/36/348
+Y/400/2410/36/247
 
-Y/400/2504/36/456 30.09.2028
+Y/400/2510/36/348 30.09.2027
 
-31.03.2028
+30.09.2028
+
+MMI PHARMINDEX
 
 ifap praxisCENTER
 
-Rohdaten ABDAMED
-
 Windows
 
-RpDoc Klinik RpDoc Solutions GmbH Heinrich-Barth-Str. 1-1 A 66115 Saarbrücken Internet: www.rpdoc.de RpDoc eMMa RpDoc Solutions GmbH Heinrich-Barth-Str. 1-1 A 66115 Saarbrücken Internet: www.rpdoc.de Windows Linux Mac OS Sonstige WindowsiOS/Android Linux Mac OS Sonstige Windows
+RED medical classic RED Medical Systems GmbH Lutzstraße 2 80687 München Internet: www.REDMEDICAL.DE RpDoc Klinik RpDoc Solutions GmbH Heinrich-Barth-Str. 1-1 A 66115 Saarbrücken Internet: www.rpdoc.de iOS/Android Linux Mac OS Sonstige Windows WindowsWindows
 
 
 ---
@@ -597,32 +601,32 @@ RpDoc Klinik RpDoc Solutions GmbH Heinrich-Barth-Str. 1-1 A 66115 Saarbrücken I
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
+
+**RpDoc eMMa**
+
+**RpDoc Solutions GmbH** Heinrich-Barth-Str. 1-1 A 66115 Saarbrücken Internet: www.rpdoc.de
 
 **S3-Win**
 
 **S3 Praxiscomputer GmbH / Maximilian** **Flender** Lorscher Straße 2 69469 Weinheim Internet: [http://www.praxiscomputer.de](http://www.praxiscomputer.de)
 
-**SAP Ambulatory Care Management**
-
-**SAP SE** Dietmar-Hopp-Allee 16 69190 Walldorf Internet: www.sap.com/industries/healthcare
-
-|  | Y/400/2410/36/171 | 30.09.2027 | Rohdaten ABDAMED |  |
+|  | Y/400/2510/36/343 | 30.09.2028 | Rohdaten ABDAMED |  |
 |---|---|---|---|---|
-|  | Y/400/2504/36/230 | 31.03.2028 | Rohdaten MMI |  |
+|  | Y/400/2410/36/171 | 30.09.2027 | Rohdaten ABDAMED |  |
 
-Y/400/2504/36/261
+Y/400/2405/38/759
 
-Y/400/2510/36/343 31.03.2028
+Y/400/2504/36/261 30.06.2027
 
-30.09.2028
-
-Rohdaten MMI
+31.03.2028
 
 Rohdaten ABDAMED
 
-Sonstige Windows
+Rohdaten MMI
 
-ARZT 2000 Schmidt Computersysteme Chrysanthemenweg 4 02827 Görlitz Internet: www.arzt2000.de QMED.PRAXIS Schwerdtner Medizin-Software GmbH Loebensteinstraße 26 30175 Hannover Internet: www.q-med.de Windows WindowsSonstige Windows
+Linux Mac OS Sonstige Windows
+
+SAP Ambulatory Care Management SAP SE Dietmar-Hopp-Allee 16 69190 Walldorf Internet: www.sap.com/industries/healthcare ARZT 2000 Schmidt Computersysteme Chrysanthemenweg 4 02827 Görlitz Internet: www.arzt2000.de Sonstige Windows WindowsSonstige Windows
 
 
 ---
@@ -631,6 +635,10 @@ ARZT 2000 Schmidt Computersysteme Chrysanthemenweg 4 02827 Görlitz Internet: ww
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
+
+**QMED.PRAXIS**
+
+**Schwerdtner Medizin-Software GmbH** Loebensteinstraße 26 30175 Hannover Internet: www.q-med.de
 
 **principa**
 
@@ -640,35 +648,31 @@ ARZT 2000 Schmidt Computersysteme Chrysanthemenweg 4 02827 Görlitz Internet: ww
 
 **T2med GmbH & Co. KG** Bismarckallee 15 24105 Kiel Internet: www.t2med.de
 
-**Medi10**
-
-**UfP Systemhaus GmbH** Heinz-Fangman-Str. 4 42287 Wuppertal Internet: www.ufpgmbh.de
-
-|  | X/400/2410/36/376 | 30.09.2027 | MMI PHARMINDEX |  |
+|  | Y/400/2504/36/313 | 31.03.2028 | Rohdaten ABDAMED |  |
 |---|---|---|---|---|
-|  | Y/400/2401/36/672 | 31.12.2026 | Rohdaten MMI |  |
+|  | X/400/2410/36/376 | 30.09.2027 | MMI PHARMINDEX |  |
+
+Y/400/2504/36/230
 
 Y/400/2510/36/458
 
-Y/400/2604/36/498
+Y/400/2604/36/498 31.03.2028
 
-Y/400/2504/36/313 30.09.2028
+30.09.2028
 
 31.03.2029
 
-31.03.2028
-
 Rohdaten MMI
 
 Rohdaten MMI
 
-Rohdaten ABDAMED
+Rohdaten MMI
+
+Windows
 
 Linux Windows
 
-iOS/Android Linux Mac OS Windows
-
-AiDKlinik Universitätsklinikum Heidelberg Im Neuenheimer Feld 410 69120 Heidelberg data4doc Vidal MMI Germany GmbH Monzastraße 4 63225 Langen Internet: www.mmi.de Linux Windows WindowsWindows
+Medi10 UfP Systemhaus GmbH Heinz-Fangman-Str. 4 42287 Wuppertal Internet: www.ufpgmbh.de AiDKlinik Universitätsklinikum Heidelberg Im Neuenheimer Feld 410 69120 Heidelberg Windows Linux WindowsiOS/Android Linux Mac OS Windows
 
 
 ---
@@ -677,7 +681,17 @@ AiDKlinik Universitätsklinikum Heidelberg Im Neuenheimer Feld 410 69120 Heidelb
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
+
+**data4doc**
+
+**Vidal MMI Germany GmbH** Monzastraße 4 63225 Langen Internet: www.mmi.de
+
 |  | Y/400/2604/36/457 | 31.03.2029 | Rohdaten MMI |  |
+|---|---|---|---|---|
 |  | Y/400/2510/36/768 | 30.09.2028 | Rohdaten MMI |  |
 
-tomedo Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de tomedo.air Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Mac OS Mac OS WindowsSeite 22 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 30. Mai 2026
+Seite 22 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 07. Juni 2026
+
+Y/400/2401/36/672 31.12.2026 Rohdaten MMI
+
+tomedo Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de tomedo.air Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Mac OS Mac OS WindowsWindows

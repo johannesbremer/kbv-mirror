@@ -15,99 +15,36 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS 23. FEBRUAR 2024
 
 ---
 
-## INHALT
+INHALT
 
-**ALLGEMEINES**
+| **ALLGEMEINES** | **6** |
+|---|---|
+| 1.1 Rechtsgrundlage | 6 |
+| 1.2 Zertifizierungsablauf | 6 |
+| 1.3 Zertifizierungsportal | 7 |
+| 1.4 Zertifizierungsdokumente | 7 |
+| 1.5 Prüfunterlagen | 7 |
+| 1.6 Prüfvorgaben | 9 |
+| 1.6.1 Prüfstammdaten | 9 |
+| 1.6.2 Versichertendaten | 9 |
+| 1.6.3 Praxisdaten/ Arztstempel | 9 |
+| 1.6.4 Krankenhausdaten | 10 |
+| 1.6.5 Prüfnummer | 10 |
+| 1.6.6 Stammdatei der Datenannahmestellen | (SDDA) 10 |
+| 1.6.7 Auflistung der Prüffälle | 10 |
 
-**6**
-
-1.1 Rechtsgrundlage
-
-6
-
-1.2 Zertifizierungsablauf
-
-6
-
-1.3 Zertifizierungsportal
-
-7
-
-1.4 Zertifizierungsdokumente
-
-7
-
-1.5 Prüfunterlagen
-
-7
-
-1.6 Prüfvorgaben
-
-9
-
-1.6.1 Prüfstammdaten
-
-9
-
-1.6.2 Versichertendaten
-
-9
-
-1.6.3 Praxisdaten/ Arztstempel
-
-9
-
-1.6.4 Krankenhausdaten
-
-10
-
-1.6.5 Prüfnummer
-
-10
-
-1.6.6 Stammdatei der Datenannahmestellen (SDDA) 10
-
-1.6.7 Auflistung der Prüffälle 10
-
-**PRÜFFÄLLE**
-
-**11**
-
-2.1 Prüffälle Dokumentation
-
-11
-
-2.1.1 Prüffall 6512
-
-11
-
-2.1.2 Prüffall 6517
-
-14
-
-2.1.3 Prüffall 6513
-
-17
-
-2.2 Prüffall Systemreaktion
-
-22
-
-2.2.1 Prüffall 6514
-
-22
-
-2.2.2 Konditionaler Prüffall 6515 27
-
-2.3 Weitere Prüffälle zum Anforderungskatalog 28
-
-2.3.1 Prüffall 6530
-
-28
-
-2.3.2 Prüffall 6540
-
-31
+| **PRÜFFÄLLE** |  |  | **11** |
+|---|---|---|---|
+| 2.1 | Prüffälle | Dokumentation | 11 |
+| 2.1.1 | Prüffall | 6512 | 11 |
+| 2.1.2 | Prüffall | 6517 | 14 |
+| 2.1.3 | Prüffall | 6513 | 17 |
+| 2.2 Prüffall |  | Systemreaktion | 22 |
+| 2.2.1 | Prüffall | 6514 | 22 |
+| 2.2.2 |  | Konditionaler Prüffall 6515 | 27 |
+| 2.3 Weitere | Prüffälle | zum Anforderungskatalog | 28 |
+| 2.3.1 | Prüffall | 6530 | 28 |
+| 2.3.2 | Prüffall | 6540 | 31 |
 
 **TESTDATENVALIDIERUNG**
 
@@ -126,7 +63,7 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS 23. FEBRUAR 2024
 
 **38**
 
-Versichertendaten 1 – Ersatzverfahren Versichertendaten 2 – Ersatzverfahren
+Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentation Prüffall 6512 Prüffall 6517 Prüffall 6513 Prüffall Systemreaktion Prüffall 6514 Weitere Prüffälle zum Anforderungskatalog Prüffall 6530 Prüffall 6540 Versichertendaten 1 – Ersatzverfahren Versichertendaten 2 – Ersatzverfahren
 
 ---
 

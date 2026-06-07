@@ -20,25 +20,14 @@ BUNDESVEREINIGUNG   RUNG UND IT IT IN DER ARZTPRAXIS IN KRAFT
 
 ---
 
-## INHALT
+INHALT
 
-**1** **EINLEITUNG**
-
-**6**
-
-1.1 Ziel
-
-6
-
-1.2 Abgrenzung
-
-6
-
-1.3 Funktionsarten
-
-6
-
-1.4 Gültigkeit der Version des Anforderungskatalogs 7
+| **1** | **EINLEITUNG** | **6** |
+|---|---|---|
+| 1.1 | Ziel | 6 |
+| 1.2 | Abgrenzung | 6 |
+| 1.3 | Funktionsarten | 6 |
+| 1.4 | Gültigkeit der Version des Anforderungskatalogs | 7 |
 
 **2** **ANFORDERUNGEN AN DIE SYSTEM-HERSTELLER**
 

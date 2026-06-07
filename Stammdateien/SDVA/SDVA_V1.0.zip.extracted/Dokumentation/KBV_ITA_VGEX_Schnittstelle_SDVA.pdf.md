@@ -23,39 +23,16 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **7**
 
-**2** **KONVENTIONEN**
-
-**7**
-
-2.1 Zeichensatz
-
-7
-
-2.2 Namenspace
-
-7
-
-2.3 Root-Schema
-
-7
-
-2.4 Dateinamen
-
-7
-
-2.5 Semantik der verwendeten Diagramm-Symbole 9
-
-2.5.1 Kardinalität
-
-9
-
-2.5.2 Strukturelemente
-
-9
-
-2.5.3 Sonstige Symbole
-
-10
+| **2** | **KONVENTIONEN** | **7** |
+|---|---|---|
+| 2.1 | Zeichensatz | 7 |
+| 2.2 | Namenspace | 7 |
+| 2.3 | Root-Schema | 7 |
+| 2.4 | Dateinamen | 7 |
+| 2.5 | Semantik der verwendeten Diagramm-Symbole | 9 |
+|  | 2.5.1 Kardinalität | 9 |
+|  | 2.5.2 Strukturelemente | 9 |
+|  | 2.5.3 Sonstige Symbole | 10 |
 
 **3** **EHD-ELEMENT (ROOT-ELEMENT)**
 

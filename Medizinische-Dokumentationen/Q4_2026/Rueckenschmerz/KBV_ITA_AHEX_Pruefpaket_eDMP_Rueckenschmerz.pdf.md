@@ -15,115 +15,42 @@ KASSENÄRZTLICHE IT IN DER ARZTPRAXIS KRAFT
 
 ---
 
-## INHALT
+INHALT
 
-**1** **ALLGEMEINES**
+| **1 ALLGEMEINES** | **4** |
+|---|---|
+| 1.1 Rechtsgrundlage | 4 |
+| 1.2 Zertifizierungsablauf | 4 |
+| 1.3 Zertifizierungsportal | 5 |
+| 1.4 Zertifizierungsdokumente | 5 |
+| 1.5 Prüfunterlagen | 5 |
+| 1.6 Prüfvorgaben | 7 |
+| 1.6.1 Schnittstellenversionen | 7 |
+| 1.6.2 Datumseingaben | 7 |
+| 1.6.3 Prüfstammdaten | 7 |
+| 1.6.4 Versichertendaten | 8 |
+| 1.6.5 Praxisdaten/ Arztstempel | 8 |
+| 1.6.6 Krankenhausdaten | 9 |
+| 1.6.7 Prüfnummer | 9 |
+| 1.6.8 Stammdatei der Datenannahmestellen | (SDDA) 9 |
+| 1.6.9 Auflistung der Prüffälle | 9 |
 
-**4**
+| **2** | **PRÜFFÄLLE** |  | **10** |
+|---|---|---|---|
+| 2.1 Prüffälle |  | Dokumentation | 10 |
+| 2.1.1 | Prüffall | 3511 | 10 |
+| 2.1.2 | Prüffall | 3512 | 13 |
+| 2.1.3 | Prüffall | 3520 | 15 |
+| 2.2 Prüffall |  | Systemreaktion | 18 |
+| 2.2.1 | Prüffall | 3514 | 18 |
+| 2.3 Weitere | Prüffälle | zum Anforderungskatalog | 22 |
+| 2.3.1 | Prüffall | 3530 | 22 |
+| 2.3.2 | Prüffall | 3540 | 24 |
 
-1.1 Rechtsgrundlage
-
-4
-
-1.2 Zertifizierungsablauf
-
-4
-
-1.3 Zertifizierungsportal
-
-5
-
-1.4 Zertifizierungsdokumente
-
-5
-
-1.5 Prüfunterlagen
-
-5
-
-1.6 Prüfvorgaben
-
-7
-
-1.6.1 Schnittstellenversionen
-
-7
-
-1.6.2 Datumseingaben
-
-7
-
-1.6.3 Prüfstammdaten
-
-7
-
-1.6.4 Versichertendaten
-
-8
-
-1.6.5 Praxisdaten/ Arztstempel
-
-8
-
-1.6.6 Krankenhausdaten
-
-9
-
-1.6.7 Prüfnummer
-
-9
-
-1.6.8 Stammdatei der Datenannahmestellen (SDDA) 9
-
-1.6.9 Auflistung der Prüffälle 9
-
-**2** **PRÜFFÄLLE**
-
-**10**
-
-2.1 Prüffälle Dokumentation
-
-10
-
-2.1.1 Prüffall 3511
-
-10
-
-2.1.2 Prüffall 3512
-
-13
-
-2.1.3 Prüffall 3520
-
-15
-
-2.2 Prüffall Systemreaktion
-
-18
-
-2.2.1 Prüffall 3514
-
-18
-
-2.3 Weitere Prüffälle zum Anforderungskatalog 22
-
-2.3.1 Prüffall 3530
-
-22
-
-2.3.2 Prüffall 3540
-
-24
-
-**3** **TESTDATENVALIDIERUNG**
-
-**25**
-
-3.1 Prüffall Testdatenvalidierung 26
-
-3.1.1 Prüffall TDV3518
-
-26
+| **3** |  | **TESTDATENVALIDIERUNG** | **25** |
+|---|---|---|---|
+| 3.1 | Prüffall | Testdatenvalidierung | 26 |
+|  | 3.1.1 | Prüffall TDV3518 | 26 |
 
 **4** **ANHANG**
 
@@ -136,6 +63,8 @@ KASSENÄRZTLICHE IT IN DER ARZTPRAXIS KRAFT
 **30**
 
 3 / 31. März 2026
+
+Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentation Prüffall 3511 Prüffall 3512 Prüffall 3520 Prüffall Systemreaktion Prüffall 3514 Weitere Prüffälle zum Anforderungskatalog Prüffall 3530 Prüffall 3540 Prüffall Testdatenvalidierung
 
 
 ---

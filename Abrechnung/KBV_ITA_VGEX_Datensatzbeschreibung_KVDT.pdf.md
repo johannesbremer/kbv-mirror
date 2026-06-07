@@ -8,9 +8,9 @@
 
 **IT IN DER ARZTPRAXIS**
 
-**13. MAI 2026**
+**2. JUNI 2026**
 
-**VERSION: 6.04**
+**VERSION: 6.05**
 
 **DOKUMENTENSTATUS: IN KRAFT**
 
@@ -21,77 +21,47 @@
 
 **ABKÜRZUNGSVERZEICHNIS**
 
-**1**
+| **1** | **GRUNDLAGEN** | **8** |
+|---|---|---|
+| 1.1 | Zielsetzung | 8 |
+| 1.2 Struktur | der Speicherung | 8 |
+| 1.3 | Grobstruktur | 9 |
+| 1.4 | Speicherung | 10 |
+| 1.5 Satz | und Satztabelle | 11 |
+| 1.5.1 | Satzaufbau | 11 |
+| 1.5.2 | Satztabellen | 11 |
+| 1.5.3 | Feldarten | 13 |
+| 1.6 Feld | und Feldtabelle | 14 |
+| 1.6.1 | Feldaufbau | 14 |
+| 1.6.2 | Feldtabelle | 15 |
+| 1.7 | Regeltabelle | 16 |
+| 1.8 | Zeichensatz | 16 |
+| 1.8.1 | Zeichensatztabelle des ISO 8859-15 | 17 |
+| 1.9 Die | Abrechnungsdatei | 17 |
+| 1.9.1 | Leitungsgebundene elektronische Abrechnung | 17 |
+| 1.9.2 | Aufbau des Dateinamens | 18 |
 
-1.1  1.2  1.3  1.4  1.5
-
-1.6
-
-1.7  1.8
-
-1.9
-
-**2**
-
-2.1  2.2
-
-2.3
+| **2** | **CONTAINER-SÄTZE** | **20** |
+|---|---|---|
+| 2.1 | Anordnung | 20 |
+| 2.2 | Container-Satztabellen | 20 |
+| 2.2.1 | Satzart: Container-Header ”con0” | 20 |
+| 2.2.2 | Satzart: Container-Abschluss ”con9” | 21 |
+| 2.2.3 | Satzart: Betriebsstättendaten ”besa” | 21 |
+| 2.2.4 | Satzart: Ringversuchszertifikate „rvsa“ | 25 |
+| 2.3 | Anforderungen an die Datenqualität | 26 |
+| 2.3.1 | Container-Feldtabelle | 26 |
+| 2.3.2 | Container-Regeltabelle | 30 |
 
 **3**
 
-3.1
+3.1  3.2  3.3  3.4
 
-**GRUNDLAGEN**
-
-Zielsetzung  Struktur der Speicherung  Grobstruktur  Speicherung  Satz und Satztabelle  1.5.1 Satzaufbau 1.5.2 Satztabellen
-
-1.5.3 Feldarten
-
-Feld und Feldtabelle  1.6.1 Feldaufbau 1.6.2 Feldtabelle
-
-Regeltabelle  Zeichensatz  1.8.1 Zeichensatztabelle des ISO 8859-15
-
-Die Abrechnungsdatei  1.9.1 Leitungsgebundene elektronische Abrechnung 1.9.2 Aufbau des Dateinamens
-
-**CONTAINER-SÄTZE**
-
-Anordnung  Container-Satztabellen  2.2.1 Satzart: Container-Header con0
-
-2.2.2 Satzart: Container-Abschluss con9
-
-2.2.3 Satzart: Betriebsstättendaten besa
-
-2.2.4 Satzart: Ringversuchszertifikate rvsa
-
-Anforderungen an die Datenqualität 2.3.1 Container-Feldtabelle
-
-2.3.2 Container-Regeltabelle
+3.5
 
 **ADT-DATENPAKET**
 
-Zielsetzung
-
-**5**
-
-**8**
-
-8  8  9  10  11  11  11  13  14  14  15  16  16  17  17 17  18
-
-**20**
-
-20  20  20  21
-
-21  25  26  26  30
-
-**35**
-
-35
-
-3.2 Übersicht
-
-3.3 Anordnung
-
-3.4 ADT-Satztabellen  3.4.1 Satzart: ADT-Datenpaket-Header adt0
+Zielsetzung  Übersicht  Anordnung  ADT-Satztabellen  3.4.1 Satzart: ADT-Datenpaket-Header adt0
 
 3.4.2 Satzart: ADT-Datenpaket-Abschluss adt9
 
@@ -103,7 +73,15 @@ Zielsetzung
 
 3.4.6 Satzart: Notfalldienst/Vertretung/Notfall
 
-3.5 Anforderungen an die Datenqualität 35  35  35
+Anforderungen an die Datenqualität
+
+**5**
+
+**35**
+
+35
+
+35  35  35
 
 36
 
@@ -117,22 +95,29 @@ Zielsetzung
 
 0104
 
-63  70
+Struktur der Speicherung Satz und Satztabelle Feld und Feldtabelle Die Abrechnungsdatei 63  70
 
 
 ---
 
 3.6
 
-**4**
-
-4.1  4.2  4.3  4.4
-
-4.5
-
-4.6  4.7
-
-4.8
+| **4** | **KADT-DATENPAKET** | **124** |
+|---|---|---|
+| 4.1 | Zielsetzung | 124 |
+| 4.2 | Übersicht | 124 |
+| 4.3 | Anordnung | 124 |
+| 4.4 | KADT-Satztabellen | 124 |
+|  | 4.4.1 Satzart: KADT-Datenpaket-Header „kad0 | “ 125 |
+|  | 4.4.2 Satzart: KADT-Datenpaket-Abschluss ” | kad9” 126 |
+|  | 4.4.3 Satzart: Kurärztliche Behandlung ”0109 | ” 126 |
+| 4.5 | Besondere Hinweise | 130 |
+|  | 4.5.1 Erläuterung zu den Feldern 5000, 5001, | 6001, 6003, 6004 und 6006 130 |
+| 4.6 | Begleitpapiere | 130 |
+| 4.7 | Anforderungen an die Datenqualität | 130 |
+|  | 4.7.1 KADT-Feldtabelle | 130 |
+|  | 4.7.2 KADT-Regeltabelle | 139 |
+| 4.8 | Vordruckmuster ”Kurarztschein” | 149 |
 
 **5**
 
@@ -164,22 +149,6 @@ Besondere Hinweise  3.6.1 Auftrag zur in-vitro-Diagnostik an Facharzt
 
 3.6.5.2 Angabe Tumorstadium (s. g. TNM-Status
 
-**KADT-DATENPAKET**
-
-Zielsetzung  Übersicht  Anordnung  KADT-Satztabellen  4.4.1 Satzart: KADT-Datenpaket-Header kad0
-
-4.4.2 Satzart: KADT-Datenpaket-Abschluss
-
-4.4.3 Satzart: Kurärztliche Behandlung 0109
-
-Besondere Hinweise  4.5.1 Erläuterung zu den Feldern 5000, 5001, 6001, 6003, 6004 und 6006
-
-Begleitpapiere  Anforderungen an die Datenqualität 4.7.1 KADT-Feldtabelle
-
-4.7.2 KADT-Regeltabelle
-
-Vordruckmuster Kurarztschein
-
 **SADT-DATENPAKET NRW**
 
 Zielsetzung
@@ -206,8 +175,6 @@ Zielsetzung  Einsatzzwecke des Datenpaketes
 
 ) und / oder Progression
 
-kad9
-
 sad9
 
 sad1
@@ -216,17 +183,13 @@ sad3
 
 70  89  118  118  119  120  120  120  121 122
 
-**124**
-
-124  124  124  124  125  126  126  130  130  130  130  130  139  149
-
 **151**
 
 151  151  151  151  151  153  153  154  155  156  156  159
 
 **164**
 
-164  164  164  164
+Erläuterung zu den Feldern 5000, 5001, 6001, 6003, 6004 und 6006164  164  164  164
 
 
 ---
@@ -379,45 +342,47 @@ Extensible Markup Language
 
 ## DOKUMENTENHISTORIE
 
-Die Änderungen vom 13.05.2026 treten zum 01.07.2026 zur Abrechnung des 3. Quartals 2026 u.ff. in Kraft.
+Die Änderungen vom 13.05.2026 und 02.06.2026 treten zum 01.07.2026 zur Abrechnung des 3. Quartals  2026 u.ff. in Kraft.
 
 **Version Datum Autor**
 
+6.05 27.05.2026 KBV
+
 6.04 13.05.2026 KBV
-
-6.03
-
-6.02
-
-09.03.2026 KBV
-
-20.02.2026 KBV
 
 **Änderung**
 
+Anpassung der Regel 770  Anpassung der Regel 834
+
 **ADT-Datenpaket**
-
-**KADT-Datenpaket**
-
-**HDRG-Datenpaket**
 
 FK 9212 angepasst  Aufnahme der Regel 901  FK 4214 angepasst  Anpassung der Regeln 308, 840  und 869  Aufnahme der Regeln 309 und 310  Redaktionelle Anpassung der Re- geln 307, 776, 876  Redaktionelle Anpassung der FK  3006, 3010, 3011, 3012, 3013,  4109
 
-FK 9212 angepasst  Anpassung der Regel 308  Aufnahme der Regeln 309 und 310  Redaktionelle Anpassung der Regel  876  Redaktionelle Anpassung der FK  3010, 4109
-
-FK 9212 angepasst  Anpassung der Regel 308  Aufnahme der Regeln 309 und 310  Redaktionelle Anpassung der Re- geln 307 und 876  Redaktionelle Anpassung der FK  3010, 4109
-
-Anpassung der Regel 900 (Ände- rung grün markiert)
-
-Fehlerhafte Regel 539 gestrichen
-
 **Begründung**
 
-Rückmeldung  aus der In- dustrie/von  Laboren
+Anpassungen  der Human- genetik
+
+**KADT-Datenpaket**
+
+FK 9212 angepasst  Anpassung der Regel 308  Aufnahme der Regeln 309 und 310  Redaktionelle Anpassung der Regel  876  Redaktionelle Anpassung der FK  3010, 4109
+
+**HDRG-Datenpaket**
+
+FK 9212 angepasst  Anpassung der Regel 308  Aufnahme der Regeln 309 und 310  Redaktionelle Anpassung der Re- geln 307 und 876  Redaktionelle Anpassung der FK  3010, 4109 6.03 09.03.2026 KBV
+
+Rückmeldung
+
+Anpassung der Regel 900 (Ände- aus der In-
+
+rung grün markiert)
+
+dustrie/von  Laboren
 
 **Seite**
 
-36  79, 118  49  96, 112, 115   71, 97, 97  96, 107, 116   71, 38, 46,  56, 63, 191,  192, 192,  192, 40, 48,  58, 65, 128
+107  112
+
+36  79, 118  49  96, 112, 115   71, 97, 97  96, 108, 116   71, 38, 46,  56, 63, 191,  192, 192,  192, 40, 48,  58, 65, 128
 
 125  181  132, 143, 143  148   126, 128
 
@@ -430,7 +395,9 @@ Rückmeldung  aus der In- dustrie/von  Laboren
 
 **Begründung**
 
-6.01 13.02.2026 KBV
+6.02 20.02.2026 KBV
+
+Fehlerhafte Regel 539 gestrichen 6.01 13.02.2026 KBV
 
 **ADT-Datenpaket**
 
@@ -1268,7 +1235,7 @@ Der Inhalt der Stellen 2 und 3 des Dateinamens wird durch Addition der in der KV
 
 Hybrid-DRG-Datenpakete dürfen nicht mit anderen Datenpaketen gemischt werden.
 
-1 Der KVDT erlaubt keine Aufteilung eines Datenpaketes auf mehrere Dateien. Unter Berücksichtigung der Übertragungsmöglichkeit weiterer, noch  zu definierender Datenpakete können bei einer hexadezimalen Darstellung mehr Datenpakete (insgesamt 8) dargestellt werden als
+1 Der KVDT erlaubt keine Aufteilung eines Datenpaketes auf mehrere Dateien. Unter Berücksichtigung der  zu definierender Datenpakete können bei einer hexadezimalen Darstellung mehr Datenpakete (insgesamt 8) dargestellt werden als
 
 Form (nur 6).
 
@@ -1300,7 +1267,7 @@ Hex-Wert der Kodierung
 
 -Datei enthaltenen Da-
 
-in dezimaler
+Übertragungsmöglichkeit weiterer, noch  in dezimaler
 
 
 ---
@@ -2205,13 +2172,13 @@ F Lebenslange Arztnummer (LANR)
 
 Verfahren zur Bestimmung der  Prüfziffer vgl. 5
 
-5 Die Prüfziffer wird mittels des Modulo 10 - Verfahrens der Stellen 1 bis 6 der Arztnummer ermittelt. Bei diesem Verfahren werden die Ziffern 1 bis
+5 Die Prüfziffer wird mittels des Modulo 10 - Verfahrens der Stellen 1 bis 6 der Arztnummer ermittelt. Bei
 
-6 von links nach rechts abwechselnd mit 4 und 9 multipliziert. Die Summe dieser Produkte wird Modulo 10 berec
+6 von links nach rechts abwechselnd mit 4 und 9 multipliziert. Die Summe dieser Produkte wird Modulo 10 berechnet. Die Prüfzi
 
 der Differenz dieser Zahl zu 10 (ist die Differenz 10, so ist die Prüfziffer 0).
 
-Feldbezeichnung Länge  Typ Kategorie hnet. Die Prüfziffer ergibt sich aus
+Feldbezeichnung Länge  Typ Kategorie diesem Verfahren werden die Ziffern 1 bis  ffer ergibt sich aus
 
 
 ---
@@ -2492,7 +2459,7 @@ Notfalldienst/Vertretung/Notfall
 
 **3.3** **ANORDNUNG**
 
-Reihenfolge, Anzahl und Position der Satzarten innerhalb des
+Reihenfolge, Anzahl und Position der Satzarten innerhalb des ADT
 
 Satz ”adt0” ist einmal vorhanden. Er ist als erster Satz des ADT Sätze ”0101”, ”0102”, ”0103”, ”0104” folgen auf den Satz ”adt0” in beliebiger Anzahl und Reihenfolge. Satz ”adt9” ist pro ADT-Datenpaket einmal vorhanden. Er ist als letzter Satz des ADT
 
@@ -2528,7 +2495,9 @@ adt9 0101
 
 0104
 
-ADT-Datenpaketes sind wie folgt: -Datenpaketes abzulegen.
+-Datenpaketes sind wie folgt:
+
+-Datenpaketes abzulegen.
 
 Datenpaketes abzu-
 
@@ -2767,7 +2736,7 @@ Schein-ID
 
 fung und -aktualisierung (Ti- mestamp)
 
-Ergebnis der Onlineprüfung und  -aktualisierung
+Ergebnis der Onlineprüfung und -aktualisierung
 
 Error-Code
 
@@ -5090,7 +5059,9 @@ eingeschränkter Leistungsan- spruch gemäß § 16 Abs. 3a SGB  V
 
 Auftrag
 
-Mutmaßlicher Tag der Entbin- dung
+Mutmaßlicher Tag der Entbin-
+
+dung
 
 Diagnose/Verdachtsdiagnose
 
@@ -7691,9 +7662,11 @@ kvx0 02 = Hamburg
 
 03 = Bremen  17 = Niedersachsen  18 = Dortmund  19 = Münster
 
-20 = Dortmund  21 = Aachen  24 = Düsseldorf  25 = Duisburg  27 = Köln  28 = Linker Niederrhein  31 = Ruhr  37 = Bergisch-Land  39 = Darmstadt  40 = Frankfurt/Main  41 = Gießen  42 = Kassel  43 = Limburg  44 = Marburg
+20 = Dortmund  21 = Aachen  24 = Düsseldorf  25 = Duisburg  27 = Köln  28 = Linker Niederrhein  31 = Ruhr  37 = Bergisch-Land  39 = Darmstadt  40 = Frankfurt/Main  41 = Gießen  42 = Kassel  43 = Limburg  44 = Marburg 45 = Wiesbaden  47 = Koblenz
 
-Feldbezeichnung 45 = Wiesbaden  47 = Koblenz  48 = Rheinhessen  49 = Pfalz  50 = Trier  51 = Rheinland-Pfalz  55 = Karlsruhe  60 = Freiburg  61 = Stuttgart  62 = Reutlingen  63 = München Stadt u. Land  64 = Oberbayern  65 = Oberfranken  66 = Mittelfranken  67 = Unterfranken  68 = Oberpfalz  69 = Niederbayern
+48 = Rheinhessen  49 = Pfalz  50 = Trier  51 = Rheinland-Pfalz  55 = Karlsruhe  60 = Freiburg
+
+Feldbezeichnung 61 = Stuttgart  62 = Reutlingen  63 = München Stadt u. Land  64 = Oberbayern  65 = Oberfranken  66 = Mittelfranken  67 = Unterfranken  68 = Oberpfalz  69 = Niederbayern
 
 
 ---
@@ -7853,51 +7826,51 @@ Prüfung
 
 Prüfstatus
 
-| Erläuterung | |  |  |
-|---|---|---|---|
-| 48 = | Rheinhessen | |  |
-| 49 = | Pfalz |  |  |
-| 50 = | Trier |  |  |
-| 51 = | KV | Rheinland-Pfalz | |
-| 52 = | KV |  | Baden-Württemberg |
-| 53 = | Mannheim | |  |
-| 54 = | Pforzheim | |  |
-| 55 = | Karlsruhe |  |  |
-| 56 = |  | Baden-Baden |  |
-| 57 = | Freiburg |  |  |
-| 58 = | Konstanz |  |  |
-| 59 = | Offenburg | |  |
-| 60 = | Freiburg |  |  |
-| 61 = | Stuttgart |  |  |
-| 62 = | Reutlingen | |  |
-| 63 = | München | Stadt | und Land |
-| 64 = | Oberbayern | |  |
-| 65 = | Oberfranken | |  |
-| 66 = |  | Mittelfranken |  |
-| 67 = |  | Unterfranken |  |
-| 68 = | Oberpfalz |  |  |
-| 69 = |  | Niederbayern |  |
-| 70 = | Schwaben | |  |
-| 71 = | KV | Bayerns |  |
-| 72 = | KV Berlin |  |  |
-| 73 = | KV | Saarland |  |
-| 74 = | KBV |  |  |
-| 78 = | KV |  | Mecklenburg-Vorpom- |
-| mern |  |  |  |
-| 79 = | Potsdam |  |  |
-| 80 = | Cottbus |  |  |
-| 81 = |  | Frankfurt/Oder |  |
-| 83 = | KV | Brandenburg |  |
-| 85 = | Magdeburg | |  |
-| 86 = | Halle |  |  |
-| 87 = | Dessau |  |  |
-| 88 = | KV | Sachsen-Anhalt | |
-| 89 = | Erfurt |  |  |
-| 90 = | Gera |  |  |
-| 91 = | Suhl |  |  |
-| 93 = | KV | Thüringen |  |
-| 94 = | Chemnitz |  |  |
-| 95 = | Dresden |  |  |
+| Erläuterung | |  |  |  |
+|---|---|---|---|---|
+| 48 = | Rheinhessen | |  |  |
+| 49 = | Pfalz |  |  |  |
+| 50 = | Trier |  |  |  |
+| 51 = | KV | Rheinland-Pfalz | |  |
+| 52 = | KV |  | Baden-Württemberg | |
+| 53 = | Mannheim | |  |  |
+| 54 = | Pforzheim |  |  |  |
+| 55 = | Karlsruhe |  |  |  |
+| 56 = | Baden-Baden | |  |  |
+| 57 = | Freiburg |  |  |  |
+| 58 = | Konstanz |  |  |  |
+| 59 = | Offenburg |  |  |  |
+| 60 = | Freiburg |  |  |  |
+| 61 = | Stuttgart |  |  |  |
+| 62 = | Reutlingen | |  |  |
+| 63 = | München | Stadt |  | und Land |
+| 64 = | Oberbayern | |  |  |
+| 65 = | Oberfranken | |  |  |
+| 66 = | Mittelfranken | |  |  |
+| 67 = | Unterfranken | |  |  |
+| 68 = | Oberpfalz |  |  |  |
+| 69 = |  | Niederbayern |  |  |
+| 70 = | Schwaben |  |  |  |
+| 71 = | KV | Bayerns |  |  |
+| 72 = | KV Berlin |  |  |  |
+| 73 = | KV | Saarland |  |  |
+| 74 = | KBV |  |  |  |
+| 78 = | KV |  | Mecklenburg-Vorpom- | |
+| mern |  |  |  |  |
+| 79 = | Potsdam |  |  |  |
+| 80 = | Cottbus |  |  |  |
+| 81 = |  | Frankfurt/Oder | |  |
+| 83 = | KV | Brandenburg | |  |
+| 85 = | Magdeburg | |  |  |
+| 86 = | Halle |  |  |  |
+| 87 = | Dessau |  |  |  |
+| 88 = | KV | Sachsen-Anhalt | |  |
+| 89 = | Erfurt |  |  |  |
+| 90 = | Gera |  |  |  |
+| 91 = | Suhl |  |  |  |
+| 93 = | KV | Thüringen |  |  |
+| 94 = | Chemnitz |  |  |  |
+| 95 = | Dresden |  |  |  |
 
 48 = Rheinhessen 49 = Pfalz 50 = Trier 51 = KV Rheinland-Pfalz 52 = KV Baden-Württemberg 53 = Mannheim 54 = Pforzheim 55 = Karlsruhe 56 = Baden-Baden 57 = Freiburg 58 = Konstanz 59 = Offenburg 60 = Freiburg 61 = Stuttgart 62 = Reutlingen 63 = München Stadt und Land 64 = Oberbayern 65 = Oberfranken 66 = Mittelfranken 67 = Unterfranken 68 = Oberpfalz 69 = Niederbayern 70 = Schwaben 71 = KV Bayerns 72 = KV Berlin 73 = KV Saarland 74 = KBV 78 = KV Mecklenburg-Vorpom- 79 = Potsdam 80 = Cottbus 81 = Frankfurt/Oder 83 = KV Brandenburg 85 = Magdeburg 86 = Halle 87 = Dessau 88 = KV Sachsen-Anhalt 89 = Erfurt 90 = Gera 91 = Suhl 93 = KV Thüringen 94 = Chemnitz 95 = Dresden
 
@@ -7998,9 +7971,7 @@ Prüfung
 
 Prüfstatus
 
-nnnnnn = ID, wobei „nnn-
-
-nnn“ ungleich „555555“
+nnnnnn = ID, wobei „nnn- nnn“ ungleich „555555“
 
 sein muss  m = Prüfziffer  ff = erlaubter Inhalt ge- mäß Anlage 35 des BAR- Schlüsselverzeichnisses,  tolerierter Ersatzwert für  die Ziffern 8 - 9: 00 052 Format
 
@@ -8564,9 +8535,7 @@ SDICD (FK 6001/3673) in der
 
 SDICD die Elemente „*un-*
 
-*tere_altersgrenze*
-
-und/oder „*obere_alters-*
+*tere_altersgrenze* und/oder „*obere_alters-*
 
 *grenze*“ existieren, dann
 
@@ -8820,9 +8789,7 @@ Prüfung auf realistische Sach- kosten
 
 715
 
-28: Der Wert in FK 5099  muss mit einem der  Werte aus FK 0212 (SA  „besa“) übereinstimmen,
-
-sofern der Wert in FK  5099 ungleich  „999999900“ (Inhalt von  FK 4101 = FK 9204 (adt0)) 716 Kontext
+28: Der Wert in FK 5099  muss mit einem der  Werte aus FK 0212 (SA  „besa“) übereinstimmen,  sofern der Wert in FK  5099 ungleich  „999999900“ (Inhalt von  FK 4101 = FK 9204 (adt0)) 716 Kontext
 
 Wenn Inhalt von 4239 ≠
 
@@ -9067,7 +9034,6 @@ Plausibilitätsprüfung gegen RVSA-Satz unter Verwendung der Schlüsseltabelle S
 | 770 | Kontext |
 | 774 | Kontext |
 | 775 | Kontext |
-| 776 | Kontext |
 
 Prüfung
 
@@ -9077,52 +9043,58 @@ Der Inhalt von Element  *altersbezug_fehlerart*“ ist
 
 „k“.  das Höchstalter wird  prüfmodulseitig zu Quar- talsbeginn und Mindestal- ter zu Quartalsende be- rechnet
 
-Der (Ersatz-)wert  „888888800“ ist obsolet  und als Feldinhalt von FK  0212, 4241, 4242, 5099  und 4299 unzulässig.
+Der (Ersatz-)wert
 
-Der, aus dem Inhalt der  Stellen 1-2 der FK 0201  abgeleitete, KV-Bereich  darf nicht dem Inhalt des  Attributs@V des Elements  /kostentrae- ger/unz_kv_geltungsbe- reich_liste/unz_kv_gel- tungsbereich der Kosten- trägerstammdatei (SDKT)  entsprechen.
+F
 
-Wenn Feldinhalt von 5001  = 11511[G-alpha],  11512[G-alpha], 11516[G- alpha], 11517[G-alpha],  11518[G-alpha] oder  11521[G-alpha], dann  müssen die Felder 5077  und 5079 genau einmal  vorhanden sein.
+„888888800“ ist obsolet  und als Feldinhalt von FK  0212, 4241, 4242, 5099  und 4299 unzulässig.
 
-Wenn der Inhalt des Fel- des 3006 > = 5.2.0, dann  muss das Feld 3116 vor- handen sein.
+Der, aus dem Inhalt der
 
-Wenn FK 4109 und FK  3006 vorhanden sind,  dann muss das Feld 4133  vorhanden sein.
+W
 
-Falls FK 4109 vorhanden 776
+Stellen 1-2 der FK 0201  abgeleitete, KV-Bereich  darf nicht dem Inhalt des  Attributs@V des Elements  /kostentrae- ger/unz_kv_geltungsbe- reich_liste/unz_kv_gel- tungsbereich der Kosten- trägerstammdatei (SDKT)  entsprechen.
 
-ist und der Inhalt der Stel- len 3 - 5 des Feldes 4104 <
+Wenn Feldinhalt von 5001
+
+W
+
+= 11511[G-alpha],  11512[G-alpha], 11516[G- alpha], 11517[G-alpha],  11518[G-alpha], oder  11521[G-alpha], 11721[G- alpha], 11722[G-alpha],  11723[G-alpha], 11728[G- alpha], 11730[G-alpha]  oder 11731[G-alpha],  dann müssen die Felder  5077 und 5079 genau ein- mal vorhanden sein.
+
+Wenn der Inhalt des Fel-
+
+F
+
+des 3006 > = 5.2.0, dann  muss das Feld 3116 vor- handen sein.
+
+Wenn FK 4109 und FK
+
+F
+
+3006 vorhanden sind,  dann muss das Feld 4133  vorhanden sein.
 
 Erläuterung
 
-F
-
-W
-
 Prüfung gegen Kostenträger- Stammdatei  (vgl. Anforderungskatalog  KVDT, P2-265)  SDKT
 
-W
+G-alpha ::= A B
 
-G-alpha ::= A B ... Z
-
-[ ] - optional  Dokumentationspflicht besteht  auch bei den genannten GOPen  mit Buchstabensuffix
-
-F
-
-F
-
-Diese Regel gilt sowohl für das  Einlesen einer eGK als auch für  den erfolgreichen Abruf der
+[ ] - optional  Dokumentationspflicht besteht  auch bei den genannten GOPen  mit Buchstabensuffix ... Z
 
 
 ---
 
 **ADT-REGELTABELLE**
 
-**R-Nr** Kategorie
+**R-Nr**
 
-Prüfung
+|  | Prüfung | Prüfstatus |
+|---|---|---|
+| Kontext | Falls FK 4109 vorhanden | 776 |
 
-Prüfstatus
+776
 
-800, dann muss das Feld  3119 vorhanden sein.  Falls FK 4109 vorhanden  ist und der Inhalt der Stel- len 3 - 5 des Feldes 4104  >= 800, dann muss entwe- der das Feld 3105 oder  3119 vorhanden sein.
+ist und der Inhalt der Stel- len 3 - 5 des Feldes 4104 <  800, dann muss das Feld  3119 vorhanden sein.  Falls FK 4109 vorhanden  ist und der Inhalt der Stel- len 3 - 5 des Feldes 4104  >= 800, dann muss entwe- der das Feld 3105 oder  3119 vorhanden sein.
 
 777 Kontext
 
@@ -9154,9 +9126,9 @@ F
 
 Wenn Feldinhalt von FK
 
-F 4131 ="04”, dann muss
+F
 
-Feldinhalt von FK 4106 =  "00" oder „09“ sein.
+4131 ="04”, dann muss  Feldinhalt von FK 4106 =  "00" oder „09“ sein.
 
 783 Kontext
 
@@ -9174,22 +9146,13 @@ F
 
 3006 vorhanden sind,  muss das Feld 3114  und/oder Feld 3124 vor- handen sein.
 
-789 Kontext
-
-Wenn Feld 5100 vorhan-
-
-W
-
-den ist, dann gilt:  Der Wert in FK 5100 muss  mit einem der Werte aus
-
 Erläuterung
 
-Versichertenstammdaten vom  Fachdienst VSDM 2.0.
+Diese Regel gilt sowohl für das  Einlesen einer eGK als auch für  den erfolgreichen Abruf der  Versichertenstammdaten vom  Fachdienst VSDM 2.0.
 
 Der Kostenträgername muss  beim Einlesen einer Versicher- tenkarte immer - unabhängig  von der Scheinuntergruppe -  übertragen werden.
 
-Prüfung gegen Besa-Satz bei ak- tuellen Quartalsfällen
-
+Kategorie
 
 ---
 
@@ -9199,11 +9162,9 @@ Prüfung gegen Besa-Satz bei ak- tuellen Quartalsfällen
 
 Prüfung
 
-Prüfstatus
+Prüfstatus 789 Kontext
 
-FK 0222 (SA „besa“) über-
-
-einstimmen, sofern kein  Vorquartalsfall vorliegt  (Inhalt von FK 4101 = FK  9204 (adt0)) 790 Kontext
+Wenn Feld 5100 vorhan- den ist, dann gilt:  Der Wert in FK 5100 muss  mit einem der Werte aus  FK 0222 (SA „besa“) über- einstimmen, sofern kein  Vorquartalsfall vorliegt  (Inhalt von FK 4101 = FK  9204 (adt0)) 790 Kontext
 
 Wenn FK 4109 vorhanden  ist und FK 3006 nicht vor- handen, dann muss der In- halt der Stellen 3 - 5 der  FK 4104 >= 800 sein.
 
@@ -9215,25 +9176,19 @@ Wenn der Inhalt des Fel- des 8000 = adt0 ist, dann  muss der Inhalt des Feldes  
 
 Wenn Feldinhalt von 5001  = 11233[G-alpha], dann  muss das Feld 5079 vor- handen sein.  Zusätzlich gilt:  Die Felder 5077 und 5078  dürfen nicht vorhanden  sein.
 
-817 Kontext
+Wenn zu einem ICD-Code 817 Kontext
 
-Wenn zu einem ICD-Code  (Feldinhalt FK 6001 bzw.  3673) in der SDICD das  Element „geschlechtsbe- zug“ existiert und der In- halt von Element „ge- schlechtsbezug_fehlerart“  = „k“ ist und kein Feld  6008 / 3677 vorhanden  ist, dann muss das Ge- schlecht in FK 3110 (so- fern 3110  U, X, D) zu der
+(Feldinhalt FK 6001 bzw.  3673) in der SDICD das  Element „geschlechtsbe- zug“ existiert und der In- halt von Element „ge-
+
+schlechtsbezug_fehlerart“  = „k“ ist und kein Feld  6008 / 3677 vorhanden  ist, dann muss das Ge- schlecht in FK 3110 (so- fern 3110  U, X, D) zu der
 
 Angabe unter Element  „geschlechtsbezug“  (SDICD) passen.
 
-Wenn Feldinhalt von FK 818 Kontext
-
-4131 ="09”, dann soll Fel- dinhalt von FK 4106 = "00"  oder „09“ sein.
-
-820 Kontext
-
-Wenn der Inhalt des Fel-
-
-siehe Regel
-
-des 8000 = 0102 und 049
-
 Erläuterung
+
+W
+
+Prüfung gegen Besa-Satz bei ak- tuellen Quartalsfällen
 
 F
 
@@ -9247,48 +9202,50 @@ G-alpha ::= A B ... Z
 
 [ ] - optional  Dokumentationspflicht besteht  auch bei der genannten GOP  mit Buchstabensuffix
 
+Stimmt das Geschlecht des Pati-
+
 W
 
-Stimmt das Geschlecht des Pati- enten nicht mit der Angabe im  Element „geschlechtsbezug“  überein, ist vom PVS darauf hin- zuweisen (vgl.  KBV_ITA_VGEX_Anforderungs- katalog_ICD-10, P10-470)   SDICD
-
-W (N)BSNR des Erstveranlassers
+enten nicht mit der Angabe im  Element „geschlechtsbezug“  überein, ist vom PVS darauf hin- zuweisen (vgl.  KBV_ITA_VGEX_Anforderungs- katalog_ICD-10, P10-470)   SDICD
 
 
 ---
 
 **ADT-REGELTABELLE**
 
-**R-Nr** Kategorie
+**R-Nr**
 
-Prüfung
+|  | Prüfung | Prüfstatus |
+|---|---|---|
+| Kontext | Wenn Feldinhalt von FK | W |
 
-wenn Feld 4217 vorhan- den ist und der Inhalt der  Stellen 1-2 des Feldes  4217 = 35, dann gilt für  den Inhalt des Feldes 4217  die Formatregel 061.  Wenn Inhalt des Feldes  8000 = 0102 und wenn  Feld 4217 vorhanden ist  und der Inhalt der Stellen  1-2 des Feldes 4217 ≠ 35,  dann gilt für den Inhalt  des Feldes 4217 die For- matregel 049.
+818
+
+4131 ="09”, dann soll Fel- dinhalt von FK 4106 = "00"  oder „09“ sein.
+
+820 Kontext
+
+Wenn der Inhalt des Fel- des 8000 = 0102 und  wenn Feld 4217 vorhan- den ist und der Inhalt der  Stellen 1-2 des Feldes  4217 = 35, dann gilt für  den Inhalt des Feldes 4217  die Formatregel 061.  Wenn Inhalt des Feldes  8000 = 0102 und wenn  Feld 4217 vorhanden ist  und der Inhalt der Stellen  1-2 des Feldes 4217 ≠ 35,  dann gilt für den Inhalt  des Feldes 4217 die For- matregel 049.
 
 821 Kontext
 
 Wenn der Inhalt des Fel- des 8000 = 0102 und  wenn Feld 4218 vorhan- den ist und der Inhalt der  Stellen 1-2 des Feldes  4218 = 35, dann gilt für  den Inhalt des Feldes 4218  die Formatregel 061.  Wenn Inhalt des Feldes  8000 = 0102 und wenn  Feld 4218 vorhanden ist  und der Inhalt der Stellen  1-2 des Feldes 4218 ≠ 35  und ≠ 77, dann gilt für den  Inhalt des Feldes 4218 die  Formatregel 049.  Wenn Inhalt des Feldes  8000 = 0102 und wenn  Feld 4218 vorhanden ist  und der Inhalt der Stellen  1-2 des Feldes 4218 = 77,  dann gilt für den Inhalt  des Feldes 4218 gleich  777777700.
 
-822 Kontext
+Wenn Inhalt des Feldes 822 Kontext
 
-Wenn Inhalt des Feldes  8000 = 0103 und wenn  Feld 4218 vorhanden ist,  dann gilt für den Inhalt  des Feldes 4218 die For- matregel 049.
+8000 = 0103 und wenn
 
-823 Kontext
-
-Wenn der Inhalt der Stel- len 1-2 des Feldes 5098 =
-
-Prüfstatus 061
+| Erläuterung |  |
+|---|---|
+| (N)BSNR | des Erstveranlassers |
+| (N)BSNR | des Überweisers |
+| (N)BSNR | des Überweisers |
 
 siehe Regel  049  061
 
-siehe Regel  049
+siehe Regel  049 061
 
-siehe Regel 049 061
-
-Erläuterung (N)BSNR des Überweisers
-
-(N)BSNR des Überweisers
-
-(N)BSNR des Ortes der Leis- tungserbringung
+Kategorie (N)BSNR des Erstveranlassers  (N)BSNR des Überweisers (N)BSNR des Überweisers siehe Regel  049
 
 
 ---
@@ -9297,99 +9254,111 @@ Erläuterung (N)BSNR des Überweisers
 
 | **R-Nr** | Kategorie |
 |---|---|
+| 823 | Kontext |
 | 827 | Kontext |
 | 828 | Kontext |
 | 829 | Kontext |
-| 830 | Kontext |
-
-Prüfung
-
-Prüfstatus 062
-
-35, dann gilt für den Inhalt  des Feldes 5098 die For- matregel 061.  Wenn der Inhalt der Stel- len 1-2 des Feldes 5098 =  74, dann gilt für den Inhalt  des Feldes 5098 die For- matregel 062.  Wenn der Inhalt der Stel- len 1-2 des Feldes 5098 ≠
-
-35 und ≠ 74, dann gilt für  den Inhalt des Feldes 5098  die Formatregel 049.
-
-Falls Feld 4109 vorhanden  ist und Feld 4131 = 00,  dann muss der Feldinhalt  von Feld 4106 = 00 oder  09 sein.
-
-Wenn Feldinhalt des Fel- des 5001 = 11302[G-al- pha], 11303[G-alpha] oder  19402[G-alpha], dann  muss mindestens ein Feld  6001 mit einem Inhalt un- gleich „Z01.7“ vorhanden  sein und die Felder 5077  und 5079 dürfen nicht  übertragen werden.
-
-Wenn Feldinhalt von Feld  5001 = 19421[G-alpha],  19451[G-alpha] oder  19452[G-alpha], dann  muss das Feld 5077 genau  einmal je Feld 5001 vor- handen sein **und** es muss
-
-mindestens ein Feld 6001  mit einem Inhalt ungleich  „Z01.7“ vorhanden sein.
-
-Wenn Feldinhalt von Feld  5001 = 19424[G-alpha],  19453[G-alpha], oder  19456[G-alpha],
-
-dann muss das Feld 5077  mindestens einmal je Feld  5001 vorhanden sein **und**
-
-es muss mindestens ein
-
-Erläuterung
-
-W
-
-W
-
-G-alpha ::= A B ... Z
-
-[ ] - optional  Dokumentationspflicht besteht  auch bei der genannten GOP  mit Buchstabensuffix
-
-W
-
-G-alpha ::= A B ... Z
-
-[ ] - optional  Dokumentationspflicht besteht  auch bei der genannten GOP  mit Buchstabensuffix
-
-W
-
-G-alpha ::= A B ... Z
-
-[ ] - optional  Dokumentationspflicht besteht  auch bei der genannten GOP  mit Buchstabensuffix
-
-
----
-
-**ADT-REGELTABELLE**
-
-| **R-Nr** | Kategorie |
-|---|---|
-| 834 | Kontext |
-| 837 | Kontext |
-| 838 | Kontext |
-| 839 | Kontext |
-| 840 | Kontext |
 
 Prüfung
 
 Prüfstatus
 
-Feld 6001 mit einem In- halt ungleich „Z01.7“ vor- handen sein.
+Feld 4218 vorhanden ist,  dann gilt für den Inhalt  des Feldes 4218 die For- matregel 049.
 
-Wenn der Feldinhalt des  Feldes 5001 = 11522[G-al- pha] oder 11513[G-alpha],  müssen die Felder FK 5077  und FK 5079 mindestens  einmal je Feld 5001 vor- handen sein.
+Wenn der Inhalt der Stel- siehe Regel 049
+
+len 1-2 des Feldes 5098 =
+
+061
+
+35, dann gilt für den Inhalt
+
+062
+
+des Feldes 5098 die For-
+
+matregel 061.  Wenn der Inhalt der Stel- len 1-2 des Feldes 5098 =  74, dann gilt für den Inhalt  des Feldes 5098 die For- matregel 062.  Wenn der Inhalt der Stel- len 1-2 des Feldes 5098 ≠
+
+35 und ≠ 74, dann gilt für  den Inhalt des Feldes 5098  die Formatregel 049.
+
+Falls Feld 4109 vorhanden
+
+W
+
+ist und Feld 4131 = 00,  dann muss der Feldinhalt  von Feld 4106 = 00 oder  09 sein.
+
+Wenn Feldinhalt des Fel-
+
+W
+
+des 5001 = 11302[G-al- pha], 11303[G-alpha] oder  19402[G-alpha], dann  muss mindestens ein Feld  6001 mit einem Inhalt un- gleich „Z01.7“ vorhanden  sein und die Felder 5077  und 5079 dürfen nicht  übertragen werden.
+
+Wenn Feldinhalt von Feld
+
+W
+
+5001 = 19421[G-alpha],  19451[G-alpha] oder  19452[G-alpha], dann  muss das Feld 5077 genau  einmal je Feld 5001 vor- handen sein **und** es muss
+
+mindestens ein Feld 6001  mit einem Inhalt ungleich  „Z01.7“ vorhanden sein.
+
+Erläuterung
+
+(N)BSNR des Ortes der Leis- tungserbringung
+
+G-alpha ::= A B ... Z
+
+[ ] - optional  Dokumentationspflicht besteht  auch bei der genannten GOP  mit Buchstabensuffix
+
+G-alpha ::= A B ... Z
+
+[ ] - optional  Dokumentationspflicht besteht  auch bei der genannten GOP  mit Buchstabensuffix
+
+
+---
+
+**ADT-REGELTABELLE**
+
+**R-Nr**
+
+|  | Prüfung | Prüfstatus |
+|---|---|---|
+| Kontext | Wenn Feldinhalt von Feld | W |
+
+830
+
+5001 = 19424[G-alpha],  19453[G-alpha], oder  19456[G-alpha],
+
+dann muss das Feld 5077  mindestens einmal je Feld  5001 vorhanden sein **und**
+
+es muss mindestens ein  Feld 6001 mit einem In- halt ungleich „Z01.7“ vor- handen sein.
+
+834 Kontext
+
+Wenn der Feldinhalt des  Feldes 5001 = 11522[G-al- pha], oder 11513[G-al- pha], 11724 [G-alpha],  11725[G-alpha], 11726[G- alpha], 11727[G-alpha]  oder 11732[G-alpha],  müssen die Felder FK 5077  und FK 5079 mindestens  einmal je Feld 5001 vor- handen sein.
+
+837 Kontext
 
 Wenn der Inhalt des Fel- des 8000 = 0101, 0102  oder 0104, dann gilt:  Es muss entweder das  Feld 5099 oder das Feld  5101 vorhanden sein.
 
+838 Kontext
+
 Wenn Feld 4239 = 28 und  wenn Feld 4226 vorhan- den ist, dann müssen die  Inhalte der Felder 4226  und 5100 identisch sein.
+
+839 Kontext
 
 Wenn Feld 5101 vorhan- den ist, dann gilt:  der Wert in Feld 5101  muss mit einem der  Werte aus Feld 0223 (SA  „besa“) übereinstimmen,  sofern kein Vorquartalsfall  vorliegt (Inhalt von Feld  4101 = Feld 9204 (adt0)).
 
+840 Kontext
+
 Wenn das Feld 9102 =  „93“ oder „94“ oder „95“
 
-oder „96“ ist, dann muss  der Feldinhalt des Feldes  0132 dem regulären Aus-
-
-druck  „(.{1,23})|(.{1,23}\|([0-
-
-9][0-9][0-9][0-9])?([a-ku- x][a-z][1-9])*([a-ku-x][A-
-
-9 „|“ = Senkrechter Strich, im Programmiererjargon „Pipe” genannt. Auf PCs mit dem Betriebssystem Windows wird er über die Tastenkomb
-
-„Alt Gr“ und „<“ erzeugt.
-
-Z][1-9])*)“
-
-entsprechen
+oder „96“ ist, dann muss
 
 Erläuterung
+
+G-alpha ::= A B ... Z
+
+[ ] - optional  Dokumentationspflicht besteht  auch bei der genannten GOP  mit Buchstabensuffix
 
 W
 
@@ -9409,122 +9378,7 @@ Prüfung gegen besa-Satz bei ak- tuellen Quartalsfällen
 
 W
 
-1-23: Versionsnummer  24: fixes Trennzeichen „|“9 25-60: sonstige Informatio-
-
-nen
-
-ination
-
-
----
-
-**ADT-REGELTABELLE**
-
-**R-Nr**
-
-|  | Prüfung | Prüfstatus |
-|---|---|---|
-| Kontext | Wenn Feldinhalt des Fel- | W |
-
-843
-
-des 5001 = 32901[G-al- pha], 32902[G-alpha],  32904[G-alpha], 32906[G- alpha], 32908[G-alpha],  32910[G-alpha] oder  32911[G-alpha], dann  muss mindestens ein Feld  6001 mit einem Inhalt un- gleich „Z01.7“ vorhanden  sein und die Felder 5077  und 5079 dürfen nicht  übertragen werden.
-
-844 Kontext
-
-Wenn ein Feld 4225 vor- handen ist, dann muss  entweder ein Feld 4241  oder ein Feld 4248 vor- handen sein.
-
-845 Kontext
-
-Wenn Feldinhalt von 4239  ≠ 28 und wenn ein Feld  4226 vorhanden ist, dann  muss entweder ein Feld  4242 oder ein Feld 4249  vorhanden sein.  Wenn Feldinhalt von 4239  = 28 und wenn ein Feld  4226 vorhanden ist, dann  muss ein Feld 4242 vor- handen sein. Das Feld  4249 darf nicht vorhanden  sein.
-
-847 Kontext
-
-Wenn Feldinhalt von Feld  5001 = 19421[G-alpha],  19451[G-alpha] oder  19452[G-alpha], dann  sollte das Feld 5079 genau  einmal je Feld 5001 vor- handen sein.
-
-848 Kontext
-
-Wenn Feldinhalt von Feld  5001 = 19424[G-alpha],  19453[G-alpha]  oder 19456[G-alpha],
-
-dann sollte das Feld 5079  mindestens einmal je Feld  5001 vorhanden sein.
-
-Erläuterung
-
-G-alpha ::= A B ... Z
-
-[ ] - optional  Dokumentationspflicht besteht  auch bei der genannten GOP  mit Buchstabensuffix
-
-W
-
-W
-
-vgl. Erläuterung Kapitel 3.6.2
-
-I
-
-G-alpha ::= A B ... Z
-
-[ ] - optional  Dokumentationspflicht besteht  auch bei der genannten GOP  mit Buchstabensuffix
-
-I
-
-G-alpha ::= A B ... Z
-
-Kategorie [ ] - optional  Dokumentationspflicht besteht  auch bei der genannten GOP  mit Buchstabensuffix
-
-
----
-
-**ADT-REGELTABELLE**
-
-| **R-Nr** | Kategorie |
-|---|---|
-| 850 | Kontext |
-| 851 | Kontext |
-| 852 | Kontext |
-| 853 | Kontext |
-| 854 | Kontext |
-| 856 | Kontext |
-
-Prüfung
-
-Prüfstatus
-
-Die Felder 4252 und 4253  dürfen nur gemeinsam  übertragen werden.
-
-Die Felder 4255 und 4256  dürfen nur gemeinsam  übertragen werden.
-
-Wenn das Feld 4255 be- füllt ist, muss auch das  Feld 4252 befüllt sein.
-
-Im Feld 4253 dürfen GNR  nicht mehrfach übertra- gen werden.  Im Feld 4256 dürfen GNR  nicht mehrfach übertra- gen werden.
-
-Wenn Feldinhalt des Fel-
-
-W
-
-des 5001 = 32915[G-al- pha],32916[G-alpha],  32917[G-alpha] oder  32918[G-alpha], dann  muss mindestens ein Feld  6001 mit einem Inhalt un- gleich „Z01.7“ vorhanden  sein und die Felder 5077  und 5079 dürfen nicht  übertragen werden.
-
-Wenn der Feldinhalt von
-
-W
-
-FK 6001 = “Z01.7“, dann
-
-Erläuterung
-
-F
-
-F
-
-F
-
-F
-
-Beispiele:  Die Übertragung der Ziffer  35401 in der FK 4253 und die  erneute Übertragung der Zif- fer 35401 in der FK 4256 ist  zulässig.  Die Übertragung der Ziffer  35401 in der FK 4253 und  35401B in der FK 4256 ist zu- lässig.  Die Übertragung der Ziffer  35401 in der FK 4253 und die  erneute Übertragung der Zif- fer 35401 in der FK 4253 ist  nicht zulässig.  Die Übertragung der Ziffer  35401 in der FK 4256 und die  Übertragung der Ziffer  35401B in der FK 4256 ist zu- lässig.
-
-G-alpha ::= A B ... Z
-
-[ ] - optional  Dokumentationspflicht besteht  auch bei der genannten GOP  mit Buchstabensuffix
+Kategorie 1-23: Versionsnummer
 
 
 ---
@@ -9537,11 +9391,157 @@ Prüfung
 
 Prüfstatus
 
-muss der Feldinhalt von  FK 6003 = „G“ sein.
+der Feldinhalt des Feldes  0132 dem regulären Aus-
 
-859 Kontext
+druck  „(.{1,23})|(.{1,23}\|([0-
+
+9][0-9][0-9][0-9])?([a-ku- x][a-z][1-9])*([a-ku-x][A-
+
+Z][1-9])*)“
+
+entsprechen 843 Kontext
+
+Wenn Feldinhalt des Fel-
+
+W
+
+des 5001 = 32901[G-al- pha], 32902[G-alpha],  32904[G-alpha], 32906[G- alpha], 32908[G-alpha],  32910[G-alpha] oder  32911[G-alpha], dann  muss mindestens ein Feld  6001 mit einem Inhalt un- gleich „Z01.7“ vorhanden  sein und die Felder 5077  und 5079 dürfen nicht  übertragen werden.
+
+844 Kontext
+
+Wenn ein Feld 4225 vor-
+
+W
+
+handen ist, dann muss  entweder ein Feld 4241  oder ein Feld 4248 vor- handen sein.
+
+Wenn Feldinhalt von 4239 845 Kontext
+
+W
+
+≠ 28 und wenn ein Feld  4226 vorhanden ist, dann  muss entweder ein Feld  4242 oder ein Feld 4249  vorhanden sein.  Wenn Feldinhalt von 4239 847 Kontext
+
+9 „|“ = Senkrechter Strich, im Programmiererjargon „Pipe” genannt. Auf PCs mit dem Betriebssystem Windows wird er über die Tast „Alt Gr“ und „<“ erzeugt.
+
+= 28 und wenn ein Feld  4226 vorhanden ist, dann  muss ein Feld 4242 vor- handen sein. Das Feld  4249 darf nicht vorhanden
+
+sein.
+
+Wenn Feldinhalt von Feld
+
+I
+
+5001 = 19421[G-alpha],  19451[G-alpha] oder  19452[G-alpha], dann
+
+Erläuterung
+
+24: fixes Trennzeichen „|“9 25-60: sonstige Informatio-
+
+nen
+
+G-alpha ::= A B ... Z
+
+[ ] - optional  Dokumentationspflicht besteht  auch bei der genannten GOP  mit Buchstabensuffix
+
+vgl. Erläuterung Kapitel 3.6.2
+
+G-alpha ::= A B ... Z
+
+[ ] - optional
+
+enkombination
+
+
+---
+
+**ADT-REGELTABELLE**
+
+**R-Nr** Kategorie
+
+Prüfung
+
+Prüfstatus
+
+sollte das Feld 5079 genau  einmal je Feld 5001 vor- handen sein.
+
+848 Kontext
+
+Wenn Feldinhalt von Feld  5001 = 19424[G-alpha],  19453[G-alpha]  oder 19456[G-alpha],
+
+dann sollte das Feld 5079  mindestens einmal je Feld  5001 vorhanden sein.
+
+850 Kontext
+
+Die Felder 4252 und 4253  dürfen nur gemeinsam  übertragen werden.
+
+851 Kontext
+
+Die Felder 4255 und 4256  dürfen nur gemeinsam  übertragen werden.
+
+Wenn das Feld 4255 be-
+
+852 Kontext
+
+füllt ist, muss auch das  Feld 4252 befüllt sein.
+
+853 Kontext
+
+Im Feld 4253 dürfen GNR  nicht mehrfach übertra- gen werden.  Im Feld 4256 dürfen GNR  nicht mehrfach übertra- gen werden.
+
+854 Kontext
+
+Wenn Feldinhalt des Fel- des 5001 = 32915[G-al- pha],32916[G-alpha],
+
+Erläuterung
+
+Dokumentationspflicht besteht  auch bei der genannten GOP  mit Buchstabensuffix
+
+I
+
+G-alpha ::= A B ... Z
+
+[ ] - optional  Dokumentationspflicht besteht  auch bei der genannten GOP  mit Buchstabensuffix
+
+F
+
+F
+
+F
+
+F
+
+Beispiele:  Die Übertragung der Ziffer  35401 in der FK 4253 und die  erneute Übertragung der Zif- fer 35401 in der FK 4256 ist  zulässig.  Die Übertragung der Ziffer  35401 in der FK 4253 und  35401B in der FK 4256 ist zu- lässig.  Die Übertragung der Ziffer  35401 in der FK 4253 und die  erneute Übertragung der Zif- fer 35401 in der FK 4253 ist  nicht zulässig.  Die Übertragung der Ziffer  35401 in der FK 4256 und die  Übertragung der Ziffer  35401B in der FK 4256 ist zu- lässig.
+
+W
+
+G-alpha ::= A B ... Z
+
+[ ] - optional
+
+
+---
+
+**ADT-REGELTABELLE**
+
+**R-Nr** Kategorie
+
+Prüfung
+
+Prüfstatus
+
+32917[G-alpha] oder  32918[G-alpha], dann  muss mindestens ein Feld  6001 mit einem Inhalt un- gleich „Z01.7“ vorhanden  sein und die Felder 5077  und 5079 dürfen nicht  übertragen werden.
+
+856 Kontext
+
+Wenn der Feldinhalt von
+
+W
+
+FK 6001 = “Z01.7“, dann  muss der Feldinhalt von  FK 6003 = „G“ sein.
 
 Wenn der Inhalt des Fel-
+
+859 Kontext
 
 F
 
@@ -9568,23 +9568,16 @@ Sofern kein Vorquartalsfall
 
 W
 
-vorliegt (Inhalt von FK  4101 = FK 9204 (adt0))  gilt:  Wenn in einem Datensatz  die FK 3010 vorhanden  und FK 3006 = 5.2.0 ist,  dann muss für min. eine  der unter FK 5098 angege- benen (N)BSNR in der SA  „besa“ zu dieser (N)BSNR  (FK 5098 gleich FK 0201)  das Feld 0224 (Produkt- typversion des Konnek- tors) vorhanden sein.
-
-870 Kontext
-
-Wenn in einem Datensatz
-
-F
-
-die FK 4103 vorhanden ist
+vorliegt (Inhalt von FK  4101 = FK 9204 (adt0))  gilt:  Wenn in einem Datensatz  die FK 3010 vorhanden  und FK 3006 = 5.2.0 ist,
 
 Erläuterung
 
+Dokumentationspflicht besteht  auch bei der genannten GOP  mit Buchstabensuffix
+
 Diese Regel gilt sowohl für das  Einlesen einer eGK als auch für  den erfolgreichen Abruf der  Versichertenstammdaten vom  Fachdienst VSDM 2.0.
 
-Diese Regel gilt NUR für das Ein- lesen einer eGK
+Der Inhalt des Feldes 3673 Diese Regel gilt NUR für das Ein- lesen einer eGK
 
-Der Inhalt des Feldes 3673
 
 ---
 
@@ -9596,7 +9589,11 @@ Prüfung
 
 Prüfstatus
 
-und den Wert 3 besitzt,  muss der Inhalt des Feldes  8000 = 0102 sein.
+dann muss für min. eine  der unter FK 5098 angege- benen (N)BSNR in der SA  „besa“ zu dieser (N)BSNR  (FK 5098 gleich FK 0201)  das Feld 0224 (Produkt- typversion des Konnek- tors) vorhanden sein.
+
+870 Kontext
+
+Wenn in einem Datensatz  die FK 4103 vorhanden ist  und den Wert 3 besitzt,  muss der Inhalt des Feldes  8000 = 0102 sein.
 
 876 Kontext
 
@@ -9620,17 +9617,9 @@ Wenn FK 4121 ≠ 3:
 
 Wenn für die GOP in Feld  FK 5001 in der EBM- Stammdatei das XML-Ele- ment ../gnr_zusatzan- gabe/@V=“5050“ vorhan- den ist, muss das Feld FK  5050 vorhanden sein.
 
-889 Kontext
-
-Wenn FK 4121 ≠ 3:
-
-Wenn für die GOP in Feld  FK 5001 in der EBM- Stammdatei das XML-Ele- ment ../gnr_zusatzan- gabe/@V=“5051“ vorhan- den ist, muss das Feld FK  5051 vorhanden sein.
-
-890 Kontext
-
-Wenn FK 4121 ≠ 3:
-
 Erläuterung
+
+F
 
 W
 
@@ -9648,67 +9637,75 @@ W
 
 W
 
-W
-
-W
-
 
 ---
 
 **ADT-REGELTABELLE**
 
-**R-Nr** Kategorie
+**R-Nr**
 
-Prüfung
+|  | Prüfung | Prüfstatus |
+|---|---|---|
+| Kontext | Wenn FK 4121 ≠ 3: | W |
 
-Prüfstatus
+889
+
+Wenn für die GOP in Feld  FK 5001 in der EBM- Stammdatei das XML-Ele- ment ../gnr_zusatzan- gabe/@V=“5051“ vorhan- den ist, muss das Feld FK  5051 vorhanden sein.
+
+890 Kontext
+
+Wenn FK 4121 ≠ 3:
+
+W
 
 Wenn für die GOP in Feld  FK 5001 in der EBM- Stammdatei das XML-Ele- ment ../gnr_zusatzan- gabe/@V=“5052“ vorhan- den ist, muss das Feld FK  5052 vorhanden sein.
 
 891 Kontext
 
-Wenn der Inhalt des Fel- des 5077 = “999999”,  dann muss mindestens ein  Feld 5078 vorhanden sein.
+Wenn der Inhalt des Fel-
+
+W
+
+des 5077 = “999999”,
+
+dann muss mindestens ein  Feld 5078 vorhanden sein.
 
 892 Kontext
 
-Wenn für die GOP in Feld  FK 5001 in der EBM- Stammdatei das XML-Ele- ment ../gnr_zusatzan- gabe/@V=“5077“ vorhan- den ist, muss das Feld FK  5077 mindestens einmal  vorhanden sein.
+Wenn für die GOP in Feld
+
+W
+
+FK 5001 in der EBM- Stammdatei das XML-Ele- ment ../gnr_zusatzan- gabe/@V=“5077“ vorhan- den ist, muss das Feld FK  5077 mindestens einmal  vorhanden sein.
 
 893 Kontext
 
-Wenn der Inhalt des Fel- des 5077 ungleich  “999999”, dann darf das  Feld 5078 nicht vorhan-
+Wenn der Inhalt des Fel-
 
-den sein.
+W
+
+des 5077 ungleich  “999999”, dann darf das  Feld 5078 nicht vorhan- den sein.
 
 894 Kontext
 
-Wenn die FK 5050 und die  FK 5005 vorhanden sind,  dann muss die Anzahl der  vorhandenen FK 5050  gleich dem Wert der FK  5005 entsprechen.
+Wenn die FK 5050 und die
 
-895 Kontext
+W
 
-Wenn die FK 4112 vorhan- den ist, dann dürfen die  FK 4109 und FK 3010 und  FK 4108 und FK 3006 nicht  vorhanden sein.
+FK 5005 vorhanden sind,  dann muss die Anzahl der  vorhandenen FK 5050  gleich dem Wert der FK  5005 entsprechen.
 
 Erläuterung
 
-W
-
-W
-
-W
-
-W
-
-Beispiele:  - Die FK 5050 ist einmal vorhan- den und die FK 5005 ist nicht  vorhanden.  - Die FK 5050 ist zweimal vor- handen und die FK 5005 ist vor- handen, dann muss die FK 5005  den Wert 002 besitzen.  - Die FK 5050 ist zweimal vor- handen und die FK 5005 ist  nicht vorhanden.  **Hinweis:** Die FK 5005 kann nur
-
-mit einem Wert mindestens  002 vorkommen.
-
-W
+Kategorie Beispiele:  - Die FK 5050 ist einmal vorhan- den und die FK 5005 ist nicht  vorhanden.  - Die FK 5050 ist zweimal vor- handen und die FK 5005 ist vor- handen, dann muss die FK 5005  den Wert 002 besitzen.  - Die FK 5050 ist zweimal vor- handen und die FK 5005 ist  nicht vorhanden.
 
 
 ---
 
 **ADT-REGELTABELLE**
 
-**R-Nr** Kategorie 897 Kontext
+**R-Nr** Kategorie 895 Kontext
+
+897 Kontext
 
 899 Kontext
 
@@ -9726,15 +9723,11 @@ Die Abrechnung von in-vitro-diagnostischen Leistungen auf Grundlage eines Überw
 
 Das Feld FK 4217 ((N)BSNR des Erstveranlassers) wird nur dann übertragen, wenn auf Basis der Überwei- sung des Erstveranlassers eine Weiterüberweisung veranlasst wurde.
 
-Werden im Datensatz sowohl Feld FK 4217 als auch Feld FK 4218 ((N)BSNR des Überweisers) übermittelt,  müssen diese bei gleichzeitiger Übertragung im Datensatz daher verschieden sein.
-
-Alternativ zu Feld FK 4217 kann ein Feld FK 4225 (ASV den, wenn auf Basis der Überweisung des Erstveranlassers eine Weiterüberweisung veranlasst wird.
-
-**Hinweis**: Einem ASV-Team können mehrere Fachärzte, die in
-
-als Mitglied angehören. Alle Mitglieder eines ASV-Teams erhalten die gleiche ASV nicht zwingend, dass ein Facharzt als hinzugezogenes ASV tungen eines Auftrags ausführt. Eine Weiterüberweisung von in-vitro-diagnostische Leistungen innerhalb
-
 Prüfung
+
+Prüfstatus
+
+Wenn die FK 4112 vorhan- den ist, dann dürfen die  FK 4109 und FK 3010 und  FK 4108 und FK 3006 nicht  vorhanden sein.
 
 Wenn die FK 4235 vorhan- den ist, dann sollte auch  die FK 4252 und FK 4253  vorhanden sein
 
@@ -9748,15 +9741,13 @@ wird von KV überlesen,  kann in jeder Satzart  mehrfach vorkommen
 
 -vitro-diagnostische Auftragsleistungen) verwenden.
 
-Prüfstatus
-
--Teamnummer des Erstveranlassers) übertragen wer-
-
--vitro-diagnostische Leistungen durchführen
-
--Team-Mitglied alle in-vitro-diagnostische Leis-
-
 Erläuterung
+
+**Hinweis:** Die FK 5005 kann nur
+
+mit einem Wert mindestens  002 vorkommen.
+
+W
 
 W
 
@@ -9770,12 +9761,26 @@ W
 
 Das Feld sollte aus fachlicher  Sicht auch bei den weiteren be- troffenen IVD-Leistungen ge- setzt werden (siehe hierzu die  KVDT-Anforderung KP2-565).
 
-Für Praxiscomp. bei Rücksen- dung -Teamnummer. Es ist
+Für Praxiscomp. bei Rücksen- dung
 
 
 ---
 
-eines ASV-Teams ist somit nicht grundsätzlich auszuschließen. In diesem Fall ist es zulässig, in Feld FK 4225  und in Feld FK 4226 eine identische ASV-Teamnummer zu übermitteln.
+Werden im Datensatz sowohl Feld FK 4217 als auch Feld FK 4218 ((N)BSNR des Überweisers) übermittelt,  müssen diese bei gleichzeitiger Übertragung im Datensatz daher verschieden sein.
+
+Alternativ zu Feld FK 4217 kann ein Feld FK 4225 (ASV-Teamnummer des Erstveranlassers) übertragen wer-
+
+den, wenn auf Basis der Überweisung des Erstveranlassers eine Weiterüberweisung veranlasst wird.
+
+**Hinweis**: Einem ASV-Team können mehrere Fachärzte, die in-vitro-diagnostische Leistungen durchführen
+
+als Mitglied angehören. Alle Mitglieder eines ASV-Teams erhalten die gleiche ASV-Teamnummer. Es ist
+
+nicht zwingend, dass ein Facharzt als hinzugezogenes ASV-Team-Mitglied alle in-vitro-diagnostische Leis-
+
+tungen eines Auftrags ausführt. Eine Weiterüberweisung von in-vitro-diagnostische Leistungen innerhalb  eines ASV-Teams ist somit nicht grundsätzlich auszuschließen. In diesem Fall ist es zulässig, in Feld FK 4225
+
+und in Feld FK 4226 eine identische ASV-Teamnummer zu übermitteln.
 
 In den Feldern FK 4217 und FK 4218 dürfen nur (Neben-)Betriebsstättennummern von an der vertragsärztli-
 
@@ -9823,6 +9828,11 @@ Sofern die Überweisung durch einen „ASV Arzt“ veranlasst wird (= Feld FK 42
 
 lich zu den Feldern 5098, 5099 ein Feld 5100 mit der ASV-Teamnummer übertragen werden.
 
+10 Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften
+
+
+---
+
 Die (N)BSNR sollte in diesen Fällen aus einem entsprechenden praxisspezifischen „LG-Mitgliederverzeich-
 
 nis“ ermittelt werden oder kann ggf. dem auf Muster 10A aufgedruckten Vertragsarztstempel entnommen  werden.
@@ -9832,11 +9842,6 @@ nis“ ermittelt werden oder kann ggf. dem auf Muster 10A aufgedruckten Vertrags
 rechnungserzeugenden Betriebsstätte (= Laborgemeinschaft) übertragen werden, da die Zuordnung zur  entsprechenden KV-Spezifika-Stammdatei im Rahmen der XPM-Prüfung über die Stellen 1 2 des Inhalts der
 
 ersten FK 0201 des besa-Datensatzes erfolgt.
-
-10 Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften
-
-
----
 
 **3.6.3** **Allgemeine Hinweise zu den in-vitro-Diagnostik Aufträgen**
 
@@ -9900,12 +9905,10 @@ Feld 5102 „Krankenhaus-IK (im Rahmen der ASV-Abrechnung)“ ergänzt in den AD
 
 lante Behandlung“ (0101), „Überweisung“ (0102) und „Notfalldienst/ Vertretung/ Notfall“ (0104)
 
-Ansonsten werden bestehende Felder des ADT-Datenpakets gemäß der nachfolgenden Tabelle zur Übertra-
-
-gung von ASV-Abrechnungsinformationen verwendet:
-
 
 ---
+
+Ansonsten werden bestehende Felder des ADT gung von ASV-Abrechnungsinformationen verwendet:
 
 **ASV-ABRECHNUNGSINFORMATIONEN**
 
@@ -9949,7 +9952,7 @@ Abs. 6 Satz 12 SGB V über Form und Inhalt des Abrechnungsverfahrens sowie die e
 
 ASV-Ärzte, die diese Leistungen abrechnen, geben eine Pseudoziffer in ihrer Abrechnung im Feld 5001  bührennummer) an und kennzeichnen sie mit ihrer ASV des Vertragsarztes).
 
-Zusätzlich müssen die GOÄ-Nummer der erbrachten Leistung im Feld 5011 (Sachkosten der Preis im Feld 5012 (Sachkosten/Materialkosten
+-Datenpakets gemäß der nachfolgenden Tabelle zur Übertra-
 
 Verwendung im Rahmen der ASV-Ab- rechnung zur Übertragung …
 
@@ -9971,8 +9974,6 @@ und Anlage 5 zur Vereinbarung gemäß § 116b
 
 -Teamnummer im Feld 5100 (ASV-Teamnummer
 
-) in Cent erfasst und übertragen werden.
-
 Beispiele 50200  88500
 
 5489
@@ -9981,30 +9982,36 @@ Beispiele 50200  88500
 
 rT1N2M1G2R1 (Ge-
 
--Bezeichnung) und
-
 
 ---
 
-Die Vergütung der Leistungen erfolgt nach der Gebührenordnung für Ärzte (GOÄ) mit den für die ASV ge- mäß § 2 Vergütung der ASV-Leistungen festgelegten Gebührensätzen (Laborleistungen 1 Leistungen 1,2-facher und übrige ärztliche Leistungen
+Zusätzlich müssen die GOÄ-Nummer der erbrachten Leistung im Feld 5011 (Sachkosten-Bezeichnung) und
+
+der Preis im Feld 5012 (Sachkosten/Materialkosten) in Cent erfasst und übertragen werden.
+
+Die Vergütung der Leistungen erfolgt nach der Gebührenordnung für Ärzte (GOÄ) mit den für die ASV ge- mäß § 2 Vergütung der ASV-Leistungen festgelegten Gebührensätzen (Laborleistungen 1-facher, technische
+
+Leistungen 1,2-facher und übrige ärztliche Leistungen 1,5-facher Gebührensatz).
 
 Die vereinbarten Pseudoziffern und weitere Informationen (z. B. Praxisnachrichten zur Information Ihrer  ASV-Kunden) finden Sie auf der KBV-Webseite ([KBV_ASV]).
 
 Im Folgenden ein Beispiel:
 
-Leistung im Abschnitt 2 des Appendix Gastrointestinale Tumoren: PET/ PET
+Leistung im Abschnitt 2 des Appendix Gastrointestinale Tumoren: PET/ PET-CT
 
-Pseudo-GOP: 88500
+Pseudo-GOP: 88500        Inhalt des Feldes 5001
 
-GOÄ-Nummer: 5489
+GOÄ-Nummer: 5489        Inhalt des Feldes 5011
 
 einfacher Satz: 437,15 €
 
-Preis: 437,15 € * 1,2 = 524,58€ = 52458 Cent
+Preis: 437,15 € * 1,2 = 524,58€ = 52458 Cent  Inhalt des Feldes 5012
 
 GOÄ-Nummer 5489 entspricht einer Leistung des Abschnitt O, es gilt der Steigerungsfaktor 1,2
 
-Beispielhafter Auszug aus einem Datensatz zur Abrechnung einer Pseudoziffer für eine ASV halb des EBM 01380000102
+Beispielhafter Auszug aus einem Datensatz zur Abrechnung einer Pseudoziffer für eine ASV-Leistung außer-
+
+halb des EBM 01380000102
 
 017500020190104
 
@@ -10020,13 +10027,15 @@ Beispielhafter Auszug aus einem Datensatz zur Abrechnung einer Pseudoziffer für
 
 0185100001234577
 
-3.6.5.2 Angabe „Tumorstadium“ (s. g. „TNM
+3.6.5.2 Angabe „Tumorstadium“ (s. g. „TNM Status“) und / oder Progression
 
-Progression zur Dokumentation des im Einzelfall schweren Verlaufs der Erkrankung zu dokumentieren sind,  erfolgt dies gemäß der in der **Anlage 6 TNM-Status**
+Progression zur Dokumentation des im Einzelfall schweren Verlaufs der Erkrankung zu dokumentieren sind,  erfolgt dies gemäß der in der **Anlage 6 TNM-Status** zur Vereinbarung gemäß § 116b Abs. 6 Satz 12 SGB V
 
-über Form und Inhalt des Abrechnungsverfahrens sowie die erforderlichen Vordrucke für die ambulante  spezialfachärztliche Versorgung (ASV-AV) festgelegten Kodierungen, vgl. [KBV_ASV_AV_Anlage 6].
+über Form und Inhalt des Abrechnungsverfahrens sowie die erforderlichen Vordrucke für die ambulante
 
-Grundlage bildet die internationale Klassifikation von Tumorstadien
+spezialfachärztliche Versorgung (ASV-AV) festgelegten Kodierungen, vgl. [KBV_ASV_AV_Anlage 6].
+
+Grundlage bildet die internationale Klassifikation von Tumorstadien  kurz UICC.
 
 Der 11-stellige TNM-Status enthält die verpflichtenden Angaben: r (Rezidiv) T (Tumorklassifikation) N  (Lymphknotenmetastasen) M (Fernmetastasen) G (Grading) und R (Residualtumor), wobei die Ausprägung  jeweils zu ergänzen ist.
 
@@ -10034,30 +10043,16 @@ Die Progression wird durch die Angabe der Ausprägungen 0 oder 1 verschlüsselt.
 
 Beide Angaben werden im Feld 6006 (Diagnosenerläuterung) übertragen.
 
-Werden sowohl der TNM-Status als auch die Progression dokumentiert, sind diese durch geeignete Trenn- zeichen zu separieren; der TNM-Status ist dabei voranzustellen.
+Werden sowohl der TNM-Status als auch die Progression dokumentiert, sind diese durch geeignete Trenn-
 
-Hinweis: Sowohl die Angabe des TNM-Status als auch die Angabe der Progression können auch jeweils se- parat erfolgen.
-
-1,5-facher Gebührensatz).
-
-Inhalt des Feldes 5001
-
-Inhalt des Feldes 5011
-
-Inhalt des Feldes 5012
-
-Status“) und / oder Progression
-
-zur Vereinbarung gemäß § 116b Abs. 6 Satz 12 SGB V -facher, technische
-
--CT
-
--Leistung außer-
-
-kurz UICC.
+zeichen zu separieren; der TNM-Status ist dabei voranzustellen.
 
 
 ---
+
+Hinweis: Sowohl die Angabe des TNM-Status als auch die Angabe der Progression können auch jeweils se-
+
+parat erfolgen.
 
 Beispiele:  Angabe TNM-Status ohne Progression: rT1N2M1G2R1  Angabe TNM-Status mit Progression: rT1N2M1G2R1+1  Angabe Progression ohne TNM-Status: 1
 
@@ -10090,7 +10085,7 @@ Kurärztliche Behandlung
 
 **4.3** **ANORDNUNG**
 
-Reihenfolge, Anzahl und Position der Satzarten innerhalb des KADT
+Reihenfolge, Anzahl und Position der Satzarten innerhalb des
 
 Satz ”kad0” ist einmal vorhanden. Er ist als erster Satz des KADT Satz ”0109” folgt auf Satz ”kad0” in beliebiger Anzahl.
 
@@ -10120,160 +10115,64 @@ kad0
 
 kad9 0109
 
--Datenpaketes sind wie folgt:
-
--Datenpaketes abzulegen.
+KADT-Datenpaketes sind wie folgt: -Datenpaketes abzulegen.
 
 -Datenpaketes
 
 
 ---
 
-**4.4.1**
+**4.4.1** **Satzart: KADT-Datenpaket-Header „kad0“**
 
 **KAD0**
 
-**FK**
+**FK** Vorkommen Feldbezeichnung
 
-8000
+Feldart 1 2 3
 
-0105
+8000 1   Satzart
 
-9102
+M 0105 1   KBV-Prüfnummer
 
-9212
+M 9102 1   Empfänger
 
-0102
+M
 
-0121
+9212 1   Version der Satzbeschreibung M
 
-0122
+0102 1   Softwareverantwortlicher (SV) M 0121 1   Straße des SV
 
-0123
+M 0122 1   PLZ des SV
 
-0124
+M 0123 1   Ort des SV
 
-0125
+M 0124 1   Telefonnummer des SV
 
-0111
+M 0125 1   Telefaxnummer des SV
 
-0126
+K 0111 1   E-Mail-Adresse des SV
 
-0127
-
-0128
-
-0129
-
-0130
-
-0131
-
-0103
-
-**Satzart: KADT-Datenpaket-**
-
-Vorkommen 1 2
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
+K 0126
 
 | 1 | Regionaler Systembetreuer | M |  |
 |---|---|---|---|
 |  | (SB) |  |  |
 
-1
+0127 1   Straße des SB
 
-1
+M 0128 1   PLZ des SB
 
-1
+M 0129 1   Ort des SB
 
-1
+M 0130 1   Telefonnummer des SB
+
+M 0131
 
 | 1 | Telefaxnummer des SB | K |  |
 |---|---|---|---|
 | 1 | Software | M |  |
 
-**Header „kad0“**
-
-Feldbezeichnung
-
-Feldart 3
-
-Satzart
-
-M
-
-KBV-Prüfnummer
-
-M
-
-Empfänger
-
-M
-
-Version der Satzbeschreibung M
-
-Softwareverantwortlicher (SV) M
-
-Straße des SV
-
-M
-
-PLZ des SV
-
-M
-
-Ort des SV
-
-M
-
-Telefonnummer des SV
-
-M
-
-Telefaxnummer des SV
-
-K
-
-E-Mail-Adresse des SV
-
-K
-
-Straße des SB
-
-M
-
-PLZ des SB
-
-M
-
-Ort des SB
-
-M
-
-Telefonnummer des SB
-
-M
+0103
 
 Bedingung Erläuterung
 
@@ -10847,7 +10746,7 @@ die Kurdiagnosen als auch die Diagnosen bei interkurrenten Erkrankungen zu über
 
 **4.6** **BEGLEITPAPIERE**
 
-Um die ordnungsgemäße Weiterleitung der Abrechnungsdatei in der Abrechnungsstelle zu gewährleisten,  muss jede Abrechnung mit einer Erklärung versehen werden, deren Aufbau von der kurärztlichen Verwal- tungsstelle vorgegeben ist.
+Um die ordnungsgemäße Weiterleitung der Abrechnungsdatei in der Abrechnungsstelle zu gewährleisten,  muss jede Abrechnung mit einer Erklärung versehen werden, deren Aufbau von  tungsstelle vorgegeben ist.
 
 **4.7** **ANFORDERUNGEN AN DIE DATENQUALITÄT**
 
@@ -10876,6 +10775,8 @@ vgl. Kapitel 4.5.1
 vgl. Kapitel 4.5.1 -Abrechnung zu be-
 
 sind sowohl
+
+der kurärztlichen Verwal-
 
 
 ---
@@ -11545,12 +11446,52 @@ Feldbezeichnung nn = KV-Kennung  mmm = Seriennummer  Wertebereich nn:  01 = KV S
 
 **R-Nr** Kategorie Prüfung
 
-Prüf- Erläuterung
+| Prüf- | Erläuterung |
+|---|---|
+| status |  |
+| 27 = | Köln |
+| 28 = | LinkerNiederrhein |
+| 31 = | Ruhr |
+| 37 = | Bergisch-Land |
+| 38 = | KV Nordrhein |
+| 39 = | Darmstadt |
+| 40 = | Frankfurt/Main |
+| 41 = | Gießen |
+| 42 = | Kassel |
+| 43 = | Limburg |
+| 44 = | Marburg |
+| 45 | = Wiesbaden |
+| 46 = | KV Hessen |
+| 47 = | Koblenz |
+| 48 = | Rheinhessen |
+| 49 = | Pfalz |
+| 50 = | Trier |
+| 51 = | KV Rheinland-Pfalz |
+| 52 | = KV Baden-Württemberg |
+| 53 | = Mannheim |
+| 54 = | Pforzheim |
+| 55 = | Karlsruhe |
+| 56 | = Baden-Baden |
+| 57 = | Freiburg |
+| 58 = | Konstanz |
+| 59 = | Offenburg |
+| 60 = | Freiburg |
+| 61 = | Stuttgart |
+| 62 = | Reutlingen |
+| 63 = | München Stadt und Land |
+| 64 = | Oberbayern |
+| 65 = | Oberfranken |
+| 66 = | Mittelfranken |
+| 67 = | Unterfranken |
+| 68 = | Oberpfalz |
+| 69 = | Niederbayern |
+| 70 | = Schwaben |
+| 71 = | KV Bayerns |
+| 72 = | KV Berlin |
+| 73 = | KV Saarland |
+| 74 = | KBV |
 
-status
-
-27 = Köln  28 = LinkerNiederrhein  31 = Ruhr  37 = Bergisch-Land  38 = KV Nordrhein  39 = Darmstadt  40 = Frankfurt/Main  41 = Gießen  42 = Kassel  43 = Limburg  44 = Marburg  45 = Wiesbaden  46 = KV Hessen  47 = Koblenz  48 = Rheinhessen  49 = Pfalz  50 = Trier  51 = KV Rheinland-Pfalz  52 = KV Baden-Württemberg  53 = Mannheim  54 = Pforzheim  55 = Karlsruhe  56 = Baden-Baden  57 = Freiburg  58 = Konstanz  59 = Offenburg  60 = Freiburg  61 = Stuttgart  62 = Reutlingen  63 = München Stadt und Land  64 = Oberbayern  65 = Oberfranken  66 = Mittelfranken  67 = Unterfranken  68 = Oberpfalz  69 = Niederbayern  70 = Schwaben  71 = KV Bayerns  72 = KV Berlin  73 = KV Saarland  74 = KBV
-
+27 = Köln 28 = LinkerNiederrhein 31 = Ruhr 37 = Bergisch-Land 38 = KV Nordrhein 39 = Darmstadt 40 = Frankfurt/Main 41 = Gießen 42 = Kassel 43 = Limburg 44 = Marburg 45 = Wiesbaden 46 = KV Hessen 47 = Koblenz 48 = Rheinhessen 49 = Pfalz 50 = Trier 51 = KV Rheinland-Pfalz 52 = KV Baden-Württemberg 53 = Mannheim 54 = Pforzheim 55 = Karlsruhe 56 = Baden-Baden 57 = Freiburg 58 = Konstanz 59 = Offenburg 60 = Freiburg 61 = Stuttgart 62 = Reutlingen 63 = München Stadt und Land 64 = Oberbayern 65 = Oberfranken 66 = Mittelfranken 67 = Unterfranken 68 = Oberpfalz 69 = Niederbayern 70 = Schwaben 71 = KV Bayerns 72 = KV Berlin 73 = KV Saarland 74 = KBV
 
 ---
 
@@ -12257,7 +12198,7 @@ SADT-Belegärztliche Behandlung
 
 **5.3** **ANORDNUNG**
 
-Reihenfolge, Anzahl und Position der Satzarten innerhalb des SADT
+Reihenfolge, Anzahl und Position der Satzarten innerhalb des
 
 Satz ”sad0” ist einmal vorhanden. Er ist als erster Satz des SADT-Datenpaketes abzulegen.
 
@@ -12295,7 +12236,9 @@ sad1
 
 sad2
 
-sad3 -Datenpaketes sind wie folgt
+sad3
+
+SADT-Datenpaketes sind wie folgt
 
 Feldart Bedingung Erläuterung
 
@@ -13063,12 +13006,53 @@ nn = KV-Kennung  mmm = Seriennummer  Wertebereich nn:  01 = KV Schleswig-Holstei
 
 Prüfung
 
-Prüf- Erläuterung
+| Prüf- | Erläuterung |
+|---|---|
+| status |  |
+| 46 = | KV Hessen |
+| 47 = | Koblenz |
+| 48 = | Rheinhessen |
+| 49 = | Pfalz |
+| 50 = | Trier |
+| 51 = | KV-Rheinland-Pfalz |
+| 52 | = KV Baden-Württemberg |
+| 53 | = Mannheim |
+| 54 = | Pforzheim |
+| 55 = | Karlsruhe |
+| 56 | = Baden-Baden |
+| 57 = | Freiburg |
+| 58 = | Konstanz |
+| 59 = | Offenburg |
+| 60 = | Freiburg |
+| 61 = | Stuttgart |
+| 62 = | Reutlingen |
+| 63 = | München Stadt und Land |
+| 64 = | Oberbayern |
+| 65 = | Oberfranken |
+| 66 = | Mittelfranken |
+| 67 = | Unterfranken |
+| 68 = | Oberpfalz |
+| 69 = | Niederbayern |
+| 70 | = Schwaben |
+| 71 = | KV Bayerns |
+| 72 = | KV Berlin |
+| 73 = | KV Saarland |
+| 74 = | KBV |
+| 78 | = KV Mecklenburg-Vorpommern |
+| 79 | = Potsdam |
+| 80 = | Cottbus |
+| 81 = | Frankfurt/Oder |
+| 83 = | KV Brandenburg |
+| 85 | = Magdeburg |
+| 86 = | Halle |
+| 87 = | Dessau |
+| 88 = | KV Sachsen-Anhalt |
+| 89 = | Erfurt |
+| 90 = | Gera |
+| 91 = | Suhl |
+| 93 = | KV Thüringen |
 
-status
-
-46 = KV Hessen  47 = Koblenz  48 = Rheinhessen  49 = Pfalz  50 = Trier  51 = KV-Rheinland-Pfalz  52 = KV Baden-Württemberg  53 = Mannheim  54 = Pforzheim  55 = Karlsruhe  56 = Baden-Baden  57 = Freiburg  58 = Konstanz  59 = Offenburg  60 = Freiburg  61 = Stuttgart  62 = Reutlingen  63 = München Stadt und Land  64 = Oberbayern  65 = Oberfranken  66 = Mittelfranken  67 = Unterfranken  68 = Oberpfalz  69 = Niederbayern  70 = Schwaben  71 = KV Bayerns  72 = KV Berlin  73 = KV Saarland  74 = KBV  78 = KV Mecklenburg-Vorpommern  79 = Potsdam  80 = Cottbus  81 = Frankfurt/Oder  83 = KV Brandenburg  85 = Magdeburg  86 = Halle  87 = Dessau  88 = KV Sachsen-Anhalt  89 = Erfurt  90 = Gera  91 = Suhl  93 = KV Thüringen
-
+46 = KV Hessen 47 = Koblenz 48 = Rheinhessen 49 = Pfalz 50 = Trier 51 = KV-Rheinland-Pfalz 52 = KV Baden-Württemberg 53 = Mannheim 54 = Pforzheim 55 = Karlsruhe 56 = Baden-Baden 57 = Freiburg 58 = Konstanz 59 = Offenburg 60 = Freiburg 61 = Stuttgart 62 = Reutlingen 63 = München Stadt und Land 64 = Oberbayern 65 = Oberfranken 66 = Mittelfranken 67 = Unterfranken 68 = Oberpfalz 69 = Niederbayern 70 = Schwaben 71 = KV Bayerns 72 = KV Berlin 73 = KV Saarland 74 = KBV 78 = KV Mecklenburg-Vorpommern 79 = Potsdam 80 = Cottbus 81 = Frankfurt/Oder 83 = KV Brandenburg 85 = Magdeburg 86 = Halle 87 = Dessau 88 = KV Sachsen-Anhalt 89 = Erfurt 90 = Gera 91 = Suhl 93 = KV Thüringen
 
 ---
 
@@ -14526,51 +14510,51 @@ Feldbezeichnung Kategorie nn = KV-Kennung  mmm = Seriennummer  Wertebereich nn: 
 
 Prüfung
 
-| Prüf- | Erläuterung | |  |
-|---|---|---|---|
-| status |  |  |  |
-|  | 21 = | Aachen |  |
-|  | 24 = | Düsseldorf |  |
-|  | 25 = | Duisburg |  |
-|  | 27 = | Köln |  |
-|  | 28 = | Linker | Niederrhein |
-|  | 31 = | Ruhr |  |
-|  | 37 = | Bergisch-Land |  |
-|  | 38 = | KV Nordrhein |  |
-|  | 39 = | Darmstadt |  |
-|  | 40 = | Frankfurt/Main |  |
-|  | 41 = | Gießen |  |
-|  | 42 = | Kassel |  |
-|  | 43 = | Limburg |  |
-|  | 44 = | Marburg |  |
-|  | 45 = | Wiesbaden |  |
-|  | 46 = | KV Hessen |  |
-|  | 47 = | Koblenz |  |
-|  | 48 = | Rheinhessen |  |
-|  | 49 = | Pfalz |  |
-|  | 50 = | Trier |  |
-|  | 51 = KV | Rheinland-Pfalz | |
-|  | 52 = | KV | Baden-Württemberg |
-|  | 53 = | Mannheim |  |
-|  | 54 = | Pforzheim |  |
-|  | 55 = | Karlsruhe |  |
-|  | 56 = | Baden-Baden |  |
-|  | 57 = | Freiburg |  |
-|  | 58 = | Konstanz |  |
-|  | 59 = | Offenburg |  |
-|  | 60 = | Freiburg |  |
-|  | 61 = | Stuttgart |  |
-|  | 62 = | Reutlingen |  |
-|  | 63 = | München | Stadt und Land |
-|  | 64 = | Oberbayern |  |
-|  | 65 = | Oberfranken |  |
-|  | 66 = | Mittelfranken |  |
-|  | 67 = | Unterfranken |  |
-|  | 68 = | Oberpfalz |  |
-|  | 69 = | Niederbayern |  |
-|  | 70 = | Schwaben |  |
-|  | 71 = | KV Bayerns |  |
-|  | 72 = KV | Berlin |  |
+| Prüf- Erläuterung | |  |  |  |
+|---|---|---|---|---|
+| status |  |  |  |  |
+| 21 = | Aachen |  |  |  |
+| 24 = | Düsseldorf | |  |  |
+| 25 = | Duisburg |  |  |  |
+| 27 = | Köln |  |  |  |
+| 28 = | Linker |  | Niederrhein |  |
+| 31 = | Ruhr |  |  |  |
+| 37 = |  | Bergisch-Land |  |  |
+| 38 = | KV | Nordrhein |  |  |
+| 39 = | Darmstadt | |  |  |
+| 40 = |  | Frankfurt/Main | |  |
+| 41 = | Gießen |  |  |  |
+| 42 = | Kassel |  |  |  |
+| 43 = | Limburg |  |  |  |
+| 44 = | Marburg |  |  |  |
+| 45 = | Wiesbaden | |  |  |
+| 46 = | KV Hessen | |  |  |
+| 47 = | Koblenz |  |  |  |
+| 48 = | Rheinhessen | |  |  |
+| 49 = | Pfalz |  |  |  |
+| 50 = | Trier |  |  |  |
+| 51 = | KV | Rheinland-Pfalz | |  |
+| 52 = | KV |  | Baden-Württemberg | |
+| 53 = | Mannheim | |  |  |
+| 54 = | Pforzheim | |  |  |
+| 55 = | Karlsruhe |  |  |  |
+| 56 = |  | Baden-Baden |  |  |
+| 57 = | Freiburg |  |  |  |
+| 58 = | Konstanz |  |  |  |
+| 59 = | Offenburg | |  |  |
+| 60 = | Freiburg |  |  |  |
+| 61 = | Stuttgart |  |  |  |
+| 62 = | Reutlingen | |  |  |
+| 63 = | München |  | Stadt | und Land |
+| 64 = | Oberbayern | |  |  |
+| 65 = | Oberfranken | |  |  |
+| 66 = |  | Mittelfranken |  |  |
+| 67 = | Unterfranken | |  |  |
+| 68 = | Oberpfalz |  |  |  |
+| 69 = |  | Niederbayern |  |  |
+| 70 = | Schwaben | |  |  |
+| 71 = | KV | Bayerns |  |  |
+| 72 = KV | Berlin |  |  |  |
 
 21 = Aachen 24 = Düsseldorf 25 = Duisburg 27 = Köln 28 = Linker Niederrhein 31 = Ruhr 37 = Bergisch-Land 38 = KV Nordrhein 39 = Darmstadt 40 = Frankfurt/Main 41 = Gießen 42 = Kassel 43 = Limburg 44 = Marburg 45 = Wiesbaden 46 = KV Hessen 47 = Koblenz 48 = Rheinhessen 49 = Pfalz 50 = Trier 51 = KV Rheinland-Pfalz 52 = KV Baden-Württemberg 53 = Mannheim 54 = Pforzheim 55 = Karlsruhe 56 = Baden-Baden 57 = Freiburg 58 = Konstanz 59 = Offenburg 60 = Freiburg 61 = Stuttgart 62 = Reutlingen 63 = München Stadt und Land 64 = Oberbayern 65 = Oberfranken 66 = Mittelfranken 67 = Unterfranken 68 = Oberpfalz 69 = Niederbayern 70 = Schwaben 71 = KV Bayerns 72 = KV Berlin
 
@@ -15814,7 +15798,7 @@ hdrg1
 
 Transformation des KVK-Fel- des „Bis-Datum der Gültig-
 
-keit“ im Format „MMJJ“ in  die Form „JJJJMMTT“ not- wendig, wobei TT = letzter  möglicher Tag dieses Monats  und JJJJ = Verkettung (’20‘,JJ),  vgl. Mappingtabelle_KVK  [KBV_ITA_VGEX_Map- ping_KVK]
+keit“ im Format „MMJJ“ in  die Form „JJJJMMTT“ not- wendig, wobei TT = letzter  möglicher Tag dieses Monats  und JJJJ = Verkettung (’20‘,JJ vgl. Mappingtabelle_KVK  [KBV_ITA_VGEX_Map- ping_KVK]
 
 
 ---
@@ -15875,15 +15859,15 @@ Personenkreis / Untersu-
 |---|---|---|---|
 | gruppe |  |  | 0109, hdrg1 |
 
-2
+| 2DMP-Kennzeichnung |  | a | 0101, 0102, 0103, 0104, |
+|---|---|---|---|
+|  |  |  | 0109, hdrg1 |
+| VersicherungsschutzBe- | 8 | d | 0101, 0102, 0103, 0104, |
 
-DMP-Kennzeichnung
-
-VersicherungsschutzBe- 8
-
-ginn
-
-Kostentraegername 45
+| ginn |  |  | 0109, hdrg1 |
+|---|---|---|---|
+| Kostentraegername |  45 | a | 0101, 0102, 0103, 0104, |
+|  |  |  | 0109 |
 
 n 0101, 0102, 0103, 0104,  0109, sad1, sad2, sad3,
 
@@ -15895,15 +15879,7 @@ n 0101, 0102, 0103, 0104,
 
 hdrg1
 
-a 0101, 0102, 0103, 0104,  0109, hdrg1
-
-d 0101, 0102, 0103, 0104,  0109, hdrg1
-
-a 0101, 0102, 0103, 0104,  0109
-
-KVK: Objekttag 80, „Kranken-
-
-KassenName“
+KVK: Objekttag 80, „Kranken- KassenName“
 
 eGK:
 

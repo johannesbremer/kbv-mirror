@@ -19,107 +19,40 @@ Seite 1 von 30 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz / Version: 1.0
 
 ---
 
-## INHALT
+INHALT
 
-**1** **ALLGEMEINES**
+| **1 ALLGEMEINES** | **4** |
+|---|---|
+| 1.1 Rechtsgrundlage | 4 |
+| 1.2 Zertifizierungsablauf | 4 |
+| 1.3 Zertifizierungsportal | 5 |
+| 1.4 Zertifizierungsdokumente | 5 |
+| 1.5 Prüfunterlagen | 5 |
+| 1.6 Prüfvorgaben | 7 |
+| 1.6.1 Prüfstammdaten | 7 |
+| 1.6.2 Versichertendaten | 7 |
+| 1.6.3 Praxisdaten/ Arztstempel | 7 |
+| 1.6.4 Krankenhausdaten | 8 |
+| 1.6.5 Prüfnummer | 8 |
+| 1.6.6 Stammdatei der Datenannahmestellen | (SDDA) 8 |
+| 1.6.7 Auflistung der Prüffälle | 8 |
 
-**4**
+| **2** | **PRÜFFÄLLE** |  | **9** |
+|---|---|---|---|
+| 2.1 Prüffälle |  | Dokumentation | 9 |
+| 2.1.1 | Prüffall | 3511 | 9 |
+| 2.1.2 | Prüffall | 3512 | 12 |
+| 2.1.3 | Prüffall | 3520 | 14 |
+| 2.2 Prüffall |  | Systemreaktion | 17 |
+| 2.2.1 | Prüffall | 3514 | 17 |
+| 2.3 Weitere |  | Prüffälle zum Anforderungskatalog | 21 |
+| 2.3.1 | Prüffall | 3530 | 21 |
+| 2.3.2 | Prüffall | 3540 | 23 |
 
-1.1 Rechtsgrundlage
-
-4
-
-1.2 Zertifizierungsablauf
-
-4
-
-1.3 Zertifizierungsportal
-
-5
-
-1.4 Zertifizierungsdokumente
-
-5
-
-1.5 Prüfunterlagen
-
-5
-
-1.6 Prüfvorgaben
-
-7
-
-1.6.1 Prüfstammdaten
-
-7
-
-1.6.2 Versichertendaten
-
-7
-
-1.6.3 Praxisdaten/ Arztstempel
-
-7
-
-1.6.4 Krankenhausdaten
-
-8
-
-1.6.5 Prüfnummer
-
-8
-
-1.6.6 Stammdatei der Datenannahmestellen (SDDA) 8
-
-1.6.7 Auflistung der Prüffälle 8
-
-**2** **PRÜFFÄLLE**
-
-**9**
-
-2.1 Prüffälle Dokumentation
-
-9
-
-2.1.1 Prüffall 3511
-
-9
-
-2.1.2 Prüffall 3512
-
-12
-
-2.1.3 Prüffall 3520
-
-14
-
-2.2 Prüffall Systemreaktion
-
-17
-
-2.2.1 Prüffall 3514
-
-17
-
-2.3 Weitere Prüffälle zum Anforderungskatalog 21
-
-2.3.1 Prüffall 3530
-
-21
-
-2.3.2 Prüffall 3540
-
-23
-
-**3** **TESTDATENVALIDIERUNG**
-
-**24**
-
-3.1 Prüffall Testdatenvalidierung 25
-
-3.1.1 Prüffall TDV3518
-
-25
+| **3** |  | **TESTDATENVALIDIERUNG** | **24** |
+|---|---|---|---|
+| 3.1 | Prüffall | Testdatenvalidierung | 25 |
+|  | 3.1.1 | Prüffall TDV3518 | 25 |
 
 **4** **ANHANG**
 
@@ -133,6 +66,7 @@ Seite 1 von 30 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz / Version: 1.0
 
 Version: 1.02 / 12. Februar 2024
 
+Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentation Prüffall 3511 Prüffall 3512 Prüffall 3520 Prüffall Systemreaktion Prüffall 3514 Weitere Prüffälle zum Anforderungskatalog Prüffall 3530 Prüffall 3540 Prüffall Testdatenvalidierung
 
 ---
 
