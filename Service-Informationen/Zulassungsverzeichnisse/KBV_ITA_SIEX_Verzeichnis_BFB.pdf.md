@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**07. JUNI 2026**
+**16. JUNI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -13,7 +13,7 @@
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -25,7 +25,7 @@
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 2 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 07. Juni 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 2 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 16. Juni 2026
 
 
 ---
@@ -37,7 +37,7 @@ Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztlich
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -72,9 +72,7 @@ Y/9/2601/36/031
 
 **Prüfnummer**
 
-**unterstützte**
-
-**gültig bis**
+**unterstützte** **gültig bis**
 
 **Betriebssysteme**
 
@@ -90,7 +88,7 @@ Muster 51: Anfrage auf Zuständigkeit eines sonstigen Kostenträgers Muster 52: 
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -114,7 +112,7 @@ Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit eine
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -131,7 +129,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Kran
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -162,22 +160,18 @@ Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Mu
 
 **Prüfnummer**
 
-**unterstützte**
-
-**Prüfnummer**
+**unterstützte** **Prüfnummer**
 
 **gültig bis**
 
 **Betriebssysteme**
 
-Mac OS
-
-Y/9/2504/36/525 31.03.2028 Windows
+Mac OS Y/9/2504/36/525 31.03.2028 Windows
 
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -194,7 +188,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -218,7 +212,7 @@ PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen S
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -235,7 +229,7 @@ Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Mu
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -277,9 +271,7 @@ Y/9/2410/36/629
 
 **Prüfnummer**
 
-**unterstützte**
-
-**gültig bis**
+**unterstützte** **gültig bis**
 
 **Betriebssysteme**
 
@@ -288,7 +280,7 @@ Y/9/2410/36/629
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -305,7 +297,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Kran
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -329,7 +321,7 @@ Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit eine
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -353,7 +345,7 @@ Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit eine
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -389,7 +381,7 @@ Softwarevariante(n): - CGM M1 PRO NEXT
 
 Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V
 
-| **Prüfnummer** | **unterstützte** |
+| Prüfnummer | unterstützte |
 |---|---|
 | **Prüfnummer** |  |
 | **gültig bis** | **Betriebssysteme** |
@@ -411,7 +403,9 @@ Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapi
 
 **CompuGroup Medical Deutschland AG** Karl-Wiechert-Allee 64 30625 Hannover Internet: www.medistar.de und www.cgm.com/de
 
-Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK
+Softwarevariante(n): - CGM MEDISTAR
+
+- CGM MEDISTAR BLACK
 
 **zugelassen für folgende Muster**
 
@@ -421,7 +415,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Y/9/2307/36/280
 
-| **Prüfnummer** | **unterstützte** |
+| Prüfnummer | unterstützte |
 |---|---|
 | **gültig bis** | **Betriebssysteme** |
 | 30.06.2026 | Windows |
@@ -436,7 +430,7 @@ Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapi
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -460,7 +454,7 @@ Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit eine
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -477,7 +471,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 21: Krankengeld bei Erkra
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -501,11 +495,11 @@ Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit eine
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
-| **InterMediNet KVDT** |  |  |  |
+| **InterMediNet** |  |  |  |
 | **DBI Informatik, Dirk Blume** |  |  |  |
 | Tieberg 7 | Y/9/2412/37/238 | 31.12.2027 | Windows |
 | 31191 Algermissen |  |  |  |
@@ -518,7 +512,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 10: Überweisungsschein f
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -542,15 +536,13 @@ Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztlich
 
 ---
 
-**Kontaktdaten**
-
-**ixserv**
-
-**Dedalus Labor GmbH**
-
-Eupenerstraße 70
-
-50933 Köln Internet: www.osm-gruppe.de
+|  | Kontaktdaten |  |
+|---|---|---|
+| **ixserv** |  |  |
+|  | **Dedalus Labor** | **GmbH** |
+|  | Eupenerstraße | 70 |
+| 50933 | Köln |  |
+|  | Internet: | www.osm-gruppe.de |
 
 **zugelassen für folgende Muster**
 
@@ -558,22 +550,20 @@ Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diag
 
 **Prüfnummer**
 
-**unterstützte**
-
-**Prüfnummer**
+**unterstützte** **Prüfnummer**
 
 **gültig bis**
 
 **Betriebssysteme**
 
-Linux
+Linux Y/9/2601/36/374
 
-Y/9/2601/36/374 31.12.2028 Windows
+Dedalus Labor GmbH Eupenerstraße 70 50933 Köln Internet: www.osm-gruppe.de31.12.2028 Windows
 
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -597,7 +587,7 @@ PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen S
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -622,7 +612,7 @@ Muster 39: Krebsfrüherkennung Frauen Muster 52: Anfrage auf Fortbestehen der Ar
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -640,7 +630,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mut
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -657,7 +647,7 @@ Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -681,7 +671,7 @@ PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen S
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -705,7 +695,7 @@ Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztlich
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -722,7 +712,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 06: Überweisungsschein P
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -746,7 +736,7 @@ Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit eine
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -770,7 +760,7 @@ PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -787,7 +777,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mut
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -804,7 +794,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Kran
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -821,7 +811,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mut
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -838,7 +828,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Kran
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -856,7 +846,7 @@ Muster 05: Abrechnungsschein ambulante Behandlung Muster 10: Überweisungsschein
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -898,9 +888,7 @@ Y/9/2504/36/616
 
 **Prüfnummer**
 
-**unterstützte**
-
-**gültig bis**
+**unterstützte** **gültig bis**
 
 **Betriebssysteme**
 
@@ -909,7 +897,7 @@ iOS/Android Linux 31.03.2028 Mac OS Windows
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -933,7 +921,7 @@ Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 5
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -950,7 +938,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Kran
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -967,7 +955,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Kran
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -991,7 +979,7 @@ Muster 50: Anfrage auf Zuständigkeit einer anderen Kasse Muster 51: Anfrage auf
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -1008,13 +996,13 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mut
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
 | **IFA-AUGENARZT** |  |  |  |
 | **ifa systems AG** |  |  |  |
-| Augustinusstraße 11b | Y/9/2307/36/400 | 30.06.2026 | Windows |
+| Fendter Straße 22 | Y/9/2307/36/400 | 30.06.2026 | Windows |
 | 50226 Frechen |  |  |  |
 | Internet: www.ifasystems.de |  |  |  |
 
@@ -1025,19 +1013,27 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Kran
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-| **ifa\|NX-NEXT Generation AIS** |  |  |  |
-| **ifa systems AG** |  |  | Linux |
-| Augustinusstraße 11b | Y/9/2407/36/451 | 30.06.2027 | Mac OS |
-| 50226 Frechen |  |  | Windows |
-| Internet: www.ifasystems.de |  |  |  |
+**Kontaktdaten**
+
+**ifa|NX-NEXT Generation AIS**
+
+**ifa systems AG**
+
+Fendter Straße 22 50226 Frechen Internet: www.ifasystems.de
 
 **zugelassen für folgende Muster**
 
-ifa|NX-NEXT Generation AISMuster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V
+
+**Prüfnummer**
+
+**unterstützte** **Prüfnummer**
+
+**gültig bis**
+
+**Betriebssysteme**
+
+Linux Y/9/2407/36/451 30.06.2027 Mac OS
 
 
 ---
@@ -1049,7 +1045,7 @@ Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit eine
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -1066,7 +1062,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Kran
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -1083,7 +1079,7 @@ Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -1107,7 +1103,7 @@ Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit eine
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -1124,13 +1120,13 @@ Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen
 
 ---
 
-**Kontaktdaten**
-
-**InterARZT**
-
-**InterData Praxiscomputer GmbH**
-
-Alte Bahnhofstraße 50-52 48268 Greven Internet: www.InterData.de
+|  | Kontaktdaten |  |  |
+|---|---|---|---|
+| **InterARZT** |  |  |  |
+| **InterData** |  | **Praxiscomputer** | **GmbH** |
+| Alte | Bahnhofstraße | 50-52 |  |
+| 48268 | Greven |  |  |
+| Internet: |  | www.InterData.de | |
 
 **zugelassen für folgende Muster**
 
@@ -1138,17 +1134,15 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 **Prüfnummer**
 
-**unterstützte**
-
-**Prüfnummer**
+**unterstützte** **Prüfnummer**
 
 **gültig bis**
 
 **Betriebssysteme**
 
-Mac OS
+Mac OS Y/9/2601/36/136
 
-Y/9/2601/36/136 31.12.2028 Windows
+InterData Praxiscomputer GmbH Alte Bahnhofstraße 50-52 48268 Greven Internet: www.InterData.de31.12.2028 Windows
 
 
 ---
@@ -1160,7 +1154,7 @@ Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit eine
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -1177,7 +1171,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Kran
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -1194,7 +1188,7 @@ Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diag
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -1211,7 +1205,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Kran
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -1228,7 +1222,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Kran
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -1245,10 +1239,10 @@ Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Mu
 
 ---
 
-|  | **Kontaktdaten** |  |  |
+|  | Kontaktdaten |  |  |
 |---|---|---|---|
 | **ELADIS** |  |  |  |
-| **LabKom** |  | **Biochemische** | **Dienstleistungen GmbH** |
+|  | **LabKom** | **Biochemische** | **Dienstleistungen GmbH** |
 |  | August-Wessels-Str. | 5 |  |
 | 86154 | Augsburg |  |  |
 |  | Internet: | www.labkom.de |  |
@@ -1259,24 +1253,20 @@ Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diag
 
 **Prüfnummer**
 
-**unterstützte**
-
-**Prüfnummer**
+**unterstützte** **Prüfnummer**
 
 **gültig bis**
 
 **Betriebssysteme**
 
-Linux
-
-Y/9/2401/36/703
+Linux Y/9/2401/36/703
 
 LabKom Biochemische Dienstleistungen GmbH August-Wessels-Str. 5 86154 Augsburg Internet: www.labkom.de31.12.2026 Windows
 
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -1293,7 +1283,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Kran
 
 ---
 
-|  | **Kontaktdaten** |  |  |
+|  | Kontaktdaten |  |  |
 |---|---|---|---|
 | **AB+M** |  | **Auftragserfassungs-System** | |
 | **LABLIONS** | **software** | **&** | **solutions GmbH** |
@@ -1311,20 +1301,16 @@ X/9/2401/36/537
 
 **Prüfnummer**
 
-**unterstützte**
-
-**gültig bis**
+**unterstützte** **gültig bis**
 
 **Betriebssysteme**
 
-Linux Mac OS
-
-AB+M Auftragserfassungs-System LABLIONS software & solutions GmbH Franz-Beer-Straße 6 86459 Gessertshausen Internet: www.mdn.de31.12.2026 Sonstige Windows
+AB+M Auftragserfassungs-System LABLIONS software & solutions GmbH Franz-Beer-Straße 6 86459 Gessertshausen Internet: www.mdn.deLinux Mac OS 31.12.2026 Sonstige Windows
 
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -1356,17 +1342,13 @@ Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diag
 
 **Prüfnummer**
 
-**unterstützte**
-
-**Prüfnummer**
+**unterstützte** **Prüfnummer**
 
 **gültig bis**
 
 **Betriebssysteme**
 
-Linux
-
-Y/9/2307/36/716 30.06.2026 Windows
+Linux Y/9/2307/36/716 30.06.2026 Windows
 
 
 ---
@@ -1385,17 +1367,13 @@ Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Mu
 
 **Prüfnummer**
 
-**unterstützte**
-
-**Prüfnummer**
+**unterstützte** **Prüfnummer**
 
 **gültig bis**
 
 **Betriebssysteme**
 
-Mac OS
-
-Y/9/2507/36/604 30.06.2028 Windows
+Mac OS Y/9/2507/36/604 30.06.2028 Windows
 
 
 ---
@@ -1416,9 +1394,7 @@ X/9/2307/36/492
 
 **Prüfnummer**
 
-**unterstützte**
-
-**gültig bis**
+**unterstützte** **gültig bis**
 
 **Betriebssysteme**
 
@@ -1427,7 +1403,7 @@ iOS/Android Linux 30.06.2026 Mac OS Windows
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -1444,7 +1420,7 @@ Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Mu
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -1482,9 +1458,7 @@ Y/9/2605/38/784
 
 **Prüfnummer**
 
-**unterstützte**
-
-**gültig bis**
+**unterstützte** **gültig bis**
 
 **Betriebssysteme**
 
@@ -1493,7 +1467,7 @@ iOS/Android Linux 30.06.2029 Mac OS Windows
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -1519,27 +1493,28 @@ Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 5
 
 ---
 
-| **Kontaktdaten** |  |  |
-|---|---|---|
-| **x.isynet** |  |  |
-| **medatixx** | **GmbH &** | **Co. KG** |
-| Im | Kappelhof 1 |  |
-| 65343 | Eltville |  |
-| Internet: |  | www.medatixx.de |
-|  | Softwarevariante(n): |  |
-| - x.vianova |  |  |
+**Kontaktdaten**
+
+**x.isynet**
+
+**medatixx GmbH & Co. KG** Im Kappelhof 1
+
+65343 Eltville Internet: www.medatixx.de
+
+Softwarevariante(n):
+
+- x.vianova
 
 **zugelassen für folgende Muster**
 
 Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V
 
-| **Prüfnummer** | **unterstützte** |
+| Prüfnummer | unterstützte |
 |---|---|
 | **Prüfnummer** |  |
 | **gültig bis** | **Betriebssysteme** |
 | Y/9/2401/36/216 31.12.2026 | Windows |
 
-medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
 
 ---
 
@@ -1562,19 +1537,11 @@ Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
 
 Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen
 
-**Prüfnummer**
-
-Y/9/2401/36/243
-
-**Prüfnummer**
-
-**unterstützte**
-
-**gültig bis**
-
-**Betriebssysteme**
-
-31.12.2026 Windows
+| Prüfnummer | unterstützte |
+|---|---|
+| **Prüfnummer** |  |
+| **gültig bis** | **Betriebssysteme** |
+| Y/9/2401/36/243 31.12.2026 | Windows |
 
 
 ---
@@ -1598,19 +1565,11 @@ Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
 
 Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen
 
-**Prüfnummer**
-
-Y/9/2307/36/266
-
-**Prüfnummer**
-
-**unterstützte**
-
-**gültig bis**
-
-**Betriebssysteme**
-
-30.06.2026 Windows
+| Prüfnummer | unterstützte |
+|---|---|
+| **Prüfnummer** |  |
+| **gültig bis** | **Betriebssysteme** |
+| Y/9/2307/36/266 30.06.2026 | Windows |
 
 
 ---
@@ -1622,10 +1581,10 @@ Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztlich
 
 ---
 
-| **Kontaktdaten** |  |  |
+| Kontaktdaten | |  |
 |---|---|---|
 | **medatixx** |  |  |
-| **medatixx** | **GmbH &** | **Co. KG** |
+| **medatixx** | **GmbH** | **& Co. KG** |
 | Im | Kappelhof 1 |  |
 | 65343 | Eltville |  |
 | Internet: |  | www.medatixx.de |
@@ -1636,7 +1595,7 @@ Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztlich
 
 Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V
 
-| **Prüfnummer** | **unterstützte** |
+| Prüfnummer | unterstützte |
 |---|---|
 | **Prüfnummer** |  |
 | **gültig bis** | **Betriebssysteme** |
@@ -1653,19 +1612,31 @@ Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapi
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-| **eRIS** |  |  |  |
-| **medavis GmbH** |  |  | Linux |
-| Bannwaldallee 60 | Y/9/2510/36/439 | 30.09.2028 | Mac OS |
-| 76185 Karlsruhe |  |  | Windows |
-| Internet: www.medavis.de |  |  |  |
+**Kontaktdaten**
+
+**eRIS**
+
+**medavis GmbH**
+
+Bannwaldallee 60
+
+76185 Karlsruhe Internet: www.medavis.de
 
 **zugelassen für folgende Muster**
 
 Muster 04: Verordnung einer Krankenbeförderung Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 19: Notfall-/ Vertretungsschein
+
+**Prüfnummer**
+
+Y/9/2510/36/439
+
+**Prüfnummer**
+
+**unterstützte** **gültig bis**
+
+**Betriebssysteme**
+
+30.09.2028 Windows
 
 
 ---
@@ -1690,22 +1661,18 @@ Y/9/2309/37/751
 
 **Prüfnummer**
 
-**unterstützte**
-
-**gültig bis**
+**unterstützte** **gültig bis**
 
 **Betriebssysteme**
 
 iOS/Android
 
-Linux
-
-30.09.2026 Mac OS Sonstige Windows
+Linux 30.09.2026 Mac OS Sonstige Windows
 
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -1722,7 +1689,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Kran
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -1746,7 +1713,7 @@ Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztlich
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -1776,7 +1743,9 @@ Muster 50: Anfrage auf Zuständigkeit einer anderen Kasse Muster 51: Anfrage auf
 
 **MedVision AG** Heinrich-Hertz-Str. 9 59423 Unna Internet: www.medvision.de
 
-Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPHRO - PATIDOK AMBULANZ
+Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS
+
+- NEPHRO - PATIDOK AMBULANZ
 
 **zugelassen für folgende Muster**
 
@@ -1786,7 +1755,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Y/9/2401/36/251
 
-| **Prüfnummer** | **unterstützte** |
+| Prüfnummer | unterstützte |
 |---|---|
 | **gültig bis** | **Betriebssysteme** |
 | 31.12.2026 | Windows |
@@ -1815,17 +1784,13 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 **Prüfnummer**
 
-**unterstützte**
-
-**Prüfnummer**
+**unterstützte** **Prüfnummer**
 
 **gültig bis**
 
 **Betriebssysteme**
 
-Mac OS
-
-Y/9/2401/36/015 31.12.2026 Windows
+Mac OS Y/9/2401/36/015 31.12.2026 Windows
 
 
 ---
@@ -1837,7 +1802,7 @@ Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit eine
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -1856,7 +1821,7 @@ Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehh
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -1880,7 +1845,7 @@ Muster 50: Anfrage auf Zuständigkeit einer anderen Kasse Muster 51: Anfrage auf
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -1897,7 +1862,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Kran
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -1914,7 +1879,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mut
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -1931,7 +1896,7 @@ Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -1949,7 +1914,7 @@ Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -1973,7 +1938,7 @@ Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 5
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -1997,7 +1962,7 @@ Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit eine
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -2014,7 +1979,7 @@ Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diag
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -2031,7 +1996,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -2048,7 +2013,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -2065,7 +2030,7 @@ Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -2089,7 +2054,7 @@ Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit eine
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -2129,9 +2094,7 @@ Y/9/2401/36/348
 
 **Prüfnummer**
 
-**unterstützte**
-
-**gültig bis**
+**unterstützte** **gültig bis**
 
 **Betriebssysteme**
 
@@ -2147,7 +2110,7 @@ PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -2164,7 +2127,7 @@ Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diag
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -2189,7 +2152,7 @@ PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -2219,17 +2182,13 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 **Prüfnummer**
 
-**unterstützte**
-
-**Prüfnummer**
+**unterstützte** **Prüfnummer**
 
 **gültig bis**
 
 **Betriebssysteme**
 
-Sonstige
-
-Y/9/2401/36/261 31.12.2026 Windows
+Sonstige Y/9/2401/36/261 31.12.2026 Windows
 
 
 ---
@@ -2241,7 +2200,7 @@ Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit eine
 
 ---
 
-| **Kontaktdaten** | |  |
+| Kontaktdaten | |  |
 |---|---|---|
 | **SAP** | **Ambulatory** | **Care Management** |
 | **SAP SE** |  |  |
@@ -2257,24 +2216,20 @@ Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diag
 
 **Prüfnummer**
 
-**unterstützte**
-
-**Prüfnummer**
+**unterstützte** **Prüfnummer**
 
 **gültig bis**
 
 **Betriebssysteme**
 
-Sonstige
-
-Y/9/2601/36/343
+Sonstige Y/9/2601/36/343
 
 SAP Ambulatory Care Management Dietmar-Hopp-Allee 16 69190 Walldorf Internet: www.sap.com/industries/healthcare31.12.2028 Windows
 
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -2298,7 +2253,7 @@ Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 5
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -2322,7 +2277,7 @@ Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit eine
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -2346,7 +2301,7 @@ Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 5
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -2363,7 +2318,7 @@ Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diag
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -2396,17 +2351,13 @@ Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Mu
 
 **Prüfnummer**
 
-**unterstützte**
-
-**Prüfnummer**
+**unterstützte** **Prüfnummer**
 
 **gültig bis**
 
 **Betriebssysteme**
 
-Mac OS
-
-Y/9/2312/37/755 31.12.2026 Windows
+Mac OS Y/9/2312/37/755 31.12.2026 Windows
 
 
 ---
@@ -2429,9 +2380,7 @@ Y/9/2407/36/498
 
 **Prüfnummer**
 
-**unterstützte**
-
-**gültig bis**
+**unterstützte** **gültig bis**
 
 **Betriebssysteme**
 
@@ -2447,7 +2396,7 @@ Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit eine
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -2483,22 +2432,18 @@ Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diag
 
 **Prüfnummer**
 
-**unterstützte**
-
-**Prüfnummer**
+**unterstützte** **Prüfnummer**
 
 **gültig bis**
 
 **Betriebssysteme**
 
-Mac OS
-
-X/9/2507/36/529 30.06.2028 Windows
+Mac OS X/9/2507/36/529 30.06.2028 Windows
 
 
 ---
 
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -2522,7 +2467,7 @@ Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit eine
 
 ---
 
-|  | **Kontaktdaten** |  |
+|  | Kontaktdaten |  |
 |---|---|---|
 |  | **tomedo.air** |  |
 | **Zollsoft** | **GmbH** |  |
@@ -2532,21 +2477,17 @@ Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit eine
 
 **zugelassen für folgende Muster**
 
-Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 53: Anfrage zum Zusammenhang von Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V
+Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 53: Anfrage zum Zusammenhang von Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV)
 
 **Prüfnummer**
 
-**unterstützte**
-
-**Prüfnummer**
+**unterstützte** **Prüfnummer**
 
 **gültig bis**
 
 **Betriebssysteme**
 
-Mac OS
-
-Y/9/2510/36/768
+Mac OS Y/9/2510/36/768
 
 Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de30.09.2028 Windows
 
@@ -2555,4 +2496,4 @@ Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de30.09.
 
 **zugelassen für folgende Muster**
 
-Muster 65: Ärztliches Attest Kind
+Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind

@@ -1,4 +1,4 @@
-| Krankenkasse bzw. Kostenträger |  | **Hausarztzentrierte  Patientenfragebogen zum** | | |
+| Krankenkasse bzw. Kostenträger |  | Hausarztzentrierte  Patientenfragebogen zum | | |
 |---|---|---|---|---|
 |  |  | Name, Vorname des Versicherten | | |
 |  |  |  |  | |
@@ -7,7 +7,7 @@
 |  |  | Betriebsstätten-Nr. | Arzt-Nr. | Datum |
 |  |  |  |  |  |
 
-| **Letzte durchgeführte Krebs-Früherkennungsuntersuchungen:** | **ja, wann?** | **unklar** | **nein** |
+| Letzte durchgeführte Krebs-Früherkennungsuntersuchungen: | ja, wann? | unklar | nein |
 |---|---|---|---|
 | Hautkrebs-Früherkennungsuntersuchung |  |  |  |
 | Darmkrebs-Früherkennungsuntersuchung (Stuhltest oder Darmspiegelung) |  |  |  |
@@ -19,7 +19,7 @@
 
 **Alter Größe in cm Gewicht in kg Taillenumfang in cm nein ja**
 
-|  | **ja** | **nein** |
+|  | ja | nein |
 |---|---|---|
 | 1. Nehmen Sie regelmäßig mehr als 5 verordnete Medikamente ein? |  |  |
 | 2. Nehmen Sie Medikamente ein, die nicht verordnet wurden, selbst gekaufte Arzneimittel? **Welche? ** |  |  |

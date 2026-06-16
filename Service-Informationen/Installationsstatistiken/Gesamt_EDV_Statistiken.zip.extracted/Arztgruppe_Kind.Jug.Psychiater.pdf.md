@@ -115,9 +115,9 @@ INDAMED EDV-Entwicklung und Vertrieb GmbH 32 29
 
 252 **CGM M1 PRO**
 
-498 **T 2med**
+498 **T2med**
 
-261 **S 3-Win**
+261 **S3-Win**
 
 266 **x.comfort**
 
@@ -135,9 +135,9 @@ medatixx GmbH & Co. KG
 
 CompuGroup Medical Deutschland AG
 
-T 2med GmbH & Co. KG
+T2med GmbH & Co. KG
 
-S 3 Praxiscomputer GmbH / Maximilian Flender
+S3 Praxiscomputer GmbH / Maximilian Flender
 
 medatixx GmbH & Co. KG
 

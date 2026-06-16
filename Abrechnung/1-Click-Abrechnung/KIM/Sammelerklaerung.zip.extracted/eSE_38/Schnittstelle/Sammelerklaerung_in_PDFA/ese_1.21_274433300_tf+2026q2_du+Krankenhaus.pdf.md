@@ -1,4 +1,4 @@
-| **Sammelerklärung 2. Quartal 2026 \| Krankenhäuser** | |
+| Sammelerklärung 2. Quartal 2026 \| Krankenhäuser | |
 |---|---|
 | **Städtisches Krankenhaus Leverkusen Dr. med.  Hans  Krankenhausarzt Facharzt f. Innere Medizin -Angiologie- Willy-Brandt-Ring  25 51371  Leverkusen** | BSNR: 274433300 Fallzahl: 641 |
 
@@ -35,10 +35,10 @@
 | 9. | Die eingesetzte Software ist zertifiziert. |
 |---|---|
 
-\| **1\|2** 2. Die in Rechnung gestellten Leistungen haben ausschließlich zur Leistungserbringung berechtigte Personen  erbracht. |
+\| **1** 2.**\|** Die in Rechnung gestellten Leistungen haben ausschließlich zur Leistungserbringung berechtigte Personen **2** erbracht. |
 \|---|
 
-Sammelerklärung 2. Quartal 2026 | Krankenhäuser 1|2
+Sammelerklärung 2. Quartal 2026 | Krankenhäuser
 
 ---
 

@@ -17,7 +17,7 @@ BUNDESVEREINIGUNG  IT IN DER ARZTPRAXIS  KRAFT
 
 **AUFFÜHRUNG DOKUMENTENSTATUS**
 
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.08 | 18.08.2025 | KBV | Erfassung der Fragen aus der |  | 21 |
 | 1.07 | 01.07.2025 | KBV | Erfassung der Fragen aus der |  | 16 |
@@ -30,6 +30,7 @@ BUNDESVEREINIGUNG  IT IN DER ARZTPRAXIS  KRAFT
 | 1.00 | 22.10.2024 | KBV | Erstellung des Dokuments |  | alle |
 
 Sprechstunde am 1.07.2025 Sprechstunde am 27.05.2025 Sprechstunde vom 01.04.2025 und 06.05.2025 Sprechstunde vom 25.02.2025 Sprechstunde vom 14.01.2025 erweitert Information zur KV Sachsen-Anhalt Sprechstunde am 12.11.2024 Sprechstunde am 22.10.2024  und Aufnahme der Fragen vom 02.10.2024
+
 
 ---
 
@@ -75,7 +76,6 @@ Sprechstunde am 1.07.2025 Sprechstunde am 27.05.2025 Sprechstunde vom 01.04.2025
 
 **24**
 
-
 ---
 
 # FRAGEN UND ANTWORTEN ZU TECHNISCHEN VORGABEN
@@ -98,9 +98,7 @@ Wir als KBV werden eine Testdatenvalidierung für Hybrid-DRG über das Zertifizi
 
 ### Antwort der KBV:
 
-Die KVen legen solche Fristen individuell fest, ähnlich wie bei der ADT-Abrechnung. Es ist daher möglich,
-
-dass KVen kürzere Fristen vorgeben.
+Die KVen legen solche Fristen individuell fest, ähnlich wie bei der ADT-Abrechnung. Es ist daher möglich,  dass KVen kürzere Fristen vorgeben.
 
 ## Frage:
 
@@ -110,9 +108,7 @@ dass KVen kürzere Fristen vorgeben.
 
 Gemäß dem von der KBV abgestimmten und veröffentlichten Datensatz ist dies nicht vorgesehen
 
-Die Berechnung einer Hybrid-DRG über eine ASV-Teamnummer ist nicht möglich. Es handelt sich hier um  zwei vollkommen getrennte Regelungsbereiche. Zudem legt der § 116b Absatz 6 fest, dass die Vergütung
-
-der Leistungen der ambulanten spezialfachärztlichen Behandlung auf der Grundlage des EBM erfolgt. Eine  andere Vergütungsform für Leistungen der ASV, z.B. über die sektorengleiche Vergütung nach § 115f SGB V,  ist damit ausgeschlossen.
+Die Berechnung einer Hybrid-DRG über eine ASV-Teamnummer ist nicht möglich. Es handelt sich hier um  zwei vollkommen getrennte Regelungsbereiche. Zudem legt der § 116b Absatz 6 fest, dass die Vergütung  der Leistungen der ambulanten spezialfachärztlichen Behandlung auf der Grundlage des EBM erfolgt. Eine  andere Vergütungsform für Leistungen der ASV, z.B. über die sektorengleiche Vergütung nach § 115f SGB V,  ist damit ausgeschlossen.
 
 ## Frage:
 
@@ -192,9 +188,7 @@ Nein, die Stammdatei ist keine Grouper
 
 ### Antwort der KBV:
 
-Derzeit ist vorgesehen, die Anlage 1 (OPS-Kodes) der Hybrid-DRG-Vereinbarung vom 27. März 2024 durch
-
-eine aktualisierte Version zu ersetzen. Die Ausschlusskriterien sind mit der aktualisierten Anlage 1 entfallen.
+Derzeit ist vorgesehen, die Anlage 1 (OPS-Kodes) der Hybrid-DRG-Vereinbarung vom 27. März 2024 durch  eine aktualisierte Version zu ersetzen. Die Ausschlusskriterien sind mit der aktualisierten Anlage 1 entfallen.
 
 ## Frage:
 
@@ -203,7 +197,6 @@ eine aktualisierte Version zu ersetzen. Die Ausschlusskriterien sind mit der akt
 ### Antwort der KBV:
 
 Die KBV reguliert dies nicht.
-
 
 ---
 
@@ -239,9 +232,7 @@ Ja, für die Verschlüsselung der Testdaten soll der Testschlüssel verwendet we
 
 ###
 
-Nein, für ein System, das ausschließlich der Abrechnung von Hybrid -DRG dient, ist keine KVDT-Zertifizierung
-
-erforderlich. Die erzeugte Abrechnungsdatei wird mithilfe des Prüfmoduls geprüft, wodurch sichergestellt  wird, dass nur datensatzkonforme Abrechnungen eingereicht werden. Der Datensatz orientiert sich am  ADT-Format, was die Umsetzung für Hersteller von bestehenden Abrechnungssystemen erleichtert.
+Nein, für ein System, das ausschließlich der Abrechnung von Hybrid -DRG dient, ist keine KVDT-Zertifizierung  erforderlich. Die erzeugte Abrechnungsdatei wird mithilfe des Prüfmoduls geprüft, wodurch sichergestellt  wird, dass nur datensatzkonforme Abrechnungen eingereicht werden. Der Datensatz orientiert sich am  ADT-Format, was die Umsetzung für Hersteller von bestehenden Abrechnungssystemen erleichtert.
 
 ## Frage:
 
@@ -251,9 +242,7 @@ erforderlich. Die erzeugte Abrechnungsdatei wird mithilfe des Prüfmoduls geprü
 
 ###
 
-Eine direkte Stornierung, wie sie bei der eAU möglich ist, ist nicht vorgesehen. Bei Fehlern arbeiten die  KVen gemeinsam mit den Praxen an den erforderlichen Korrekturen, ähnlich dem Vorgehen bei ADT. Ein  elektronischer Einreichungsweg für Korrekturen ist derzeit nicht explizit vorgesehen, um größeren Aufwand
-
-zu vermeiden. Grundsätzlich werden syntaktische Fehler, wie bei ADT, durch das Prüfmodul abgefangen.  Dieses Modul wird auch von den KVen verwendet, um eine fehlerfreie Verarbeitung der Daten  sicherzustellen.
+Eine direkte Stornierung, wie sie bei der eAU möglich ist, ist nicht vorgesehen. Bei Fehlern arbeiten die  KVen gemeinsam mit den Praxen an den erforderlichen Korrekturen, ähnlich dem Vorgehen bei ADT. Ein  elektronischer Einreichungsweg für Korrekturen ist derzeit nicht explizit vorgesehen, um größeren Aufwand  zu vermeiden. Grundsätzlich werden syntaktische Fehler, wie bei ADT, durch das Prüfmodul abgefangen.  Dieses Modul wird auch von den KVen verwendet, um eine fehlerfreie Verarbeitung der Daten  sicherzustellen.
 
 ## Frage:
 
@@ -321,9 +310,7 @@ zukünftige Hybrid-DRG-Stammdatei wird die
 
 ### Antwort der KBV:
 
-Eine Zertifizierung ist nicht vorgesehen. Sollte der Gesetzgeber jedoch eine Zertifizierung verlangen,
-
-werden alle Hersteller rechtzeitig informiert.
+Eine Zertifizierung ist nicht vorgesehen. Sollte der Gesetzgeber jedoch eine Zertifizierung verlangen,  werden alle Hersteller rechtzeitig informiert.
 
 ## Frage:
 
@@ -351,11 +338,7 @@ Ein Angleich der Datensätze ist nicht geplant. Es wird davon ausgegangen, dass 
 
 ### Antwort der KBV:
 
-Gemäß den Regelungen des KVDT-Anforderungskataloges und der KVDT-Datensatzbeschreibung muss bei
-
-der Abrechnung von Hybrid-DRG eine CON-Datei bei den KVen eingereicht werden. Insbesondere müssen
-
-für die Hybrid-DRG Abrechnungen die Regelungen des Kapitels 6 beachtet werden.
+Gemäß den Regelungen des KVDT-Anforderungskataloges und der KVDT-Datensatzbeschreibung muss bei  der Abrechnung von Hybrid-DRG eine CON-Datei bei den KVen eingereicht werden. Insbesondere müssen  für die Hybrid-DRG Abrechnungen die Regelungen des Kapitels 6 beachtet werden.
 
 ## Frage:
 
@@ -363,9 +346,7 @@ für die Hybrid-DRG Abrechnungen die Regelungen des Kapitels 6 beachtet werden.
 
 ### Antwort der KBV:
 
-In einer Abrechnungsdatei können die erbrachten Leistungen aus mehreren Betriebsstätten übermittelt  werden. Grundsätzlich gilt, dass pro Satzart „hdrg1“ immer eine erbrachte Hybrid-DRG Leistung aus einer
-
-Betriebsstätte abgerechnet werden kann.
+In einer Abrechnungsdatei können die erbrachten Leistungen aus mehreren Betriebsstätten übermittelt  werden. Grundsätzlich gilt, dass pro Satzart „hdrg1“ immer eine erbrachte Hybrid-DRG Leistung aus einer  Betriebsstätte abgerechnet werden kann.
 
 ## Frage:
 
@@ -376,9 +357,7 @@ Betriebsstätte abgerechnet werden kann.
 
 ### Antwort der KBV:
 
-Es ist derzeit kein gesonderter Korrekturprozess für Hybrid-DRG Abrechnungen definiert. Mögliche Schritte
-
-zur Korrektur einer eingereichten Abrechnung regeln die KVen.
+Es ist derzeit kein gesonderter Korrekturprozess für Hybrid-DRG Abrechnungen definiert. Mögliche Schritte  zur Korrektur einer eingereichten Abrechnung regeln die KVen.
 
 ## Frage:
 
@@ -420,9 +399,7 @@ Nein, der verpflichtende Einsatz der Hybrid-DRG-Stammdatei ist nicht vorgesehen.
 
 ### Antwort der KBV
 
-Die Teilnehmer der KBV können diese fachliche Frage im Moment nicht beantworten. Die KBV bittet den
-
-Fragenden, den Sachverhalt nochmals schriftlich an [ita@kbv.de](mailto:ita@kbv.de) mit einem Beispiel zu schildern.
+Die Teilnehmer der KBV können diese fachliche Frage im Moment nicht beantworten. Die KBV bittet den  [Fragenden, den Sachverhalt nochmals schriftlich an](mailto:ita@kbv.de)[ita@kbv.de](mailto:ita@kbv.de)[mit einem Beispiel zu schildern.](mailto:ita@kbv.de)
 
 
 ---
@@ -461,10 +438,7 @@ Die Implementierung der Regel 735 des Hybrid-DRG Datensatzes im Prüfmodul wurde
 
 ### Antwort der KBV
 
-Ja, die Unstimmigkeiten wurden bereits korrigiert. Die KBV wird erneut prüfen, ob die meldende Person
-
-bereits informiert wurde.
-
+Ja, die Unstimmigkeiten wurden bereits korrigiert. Die KBV wird erneut prüfen, ob die meldende Person  bereits informiert wurde.
 
 ---
 
@@ -480,7 +454,7 @@ Im Rahmen des eEB -Verfahrens werden die VSD-Daten der eGK an die Praxis übermi
 
 Bei der Verarbeitung der eEB-Daten darf in der Abrechnung kein Einlesedatum gesetzt werden.
 
-Grundsätzlich ist das e EB-Verfahren keine Alternative zur eGK sondern dient nur der elektronischen  Übermittelung der Ersatzbescheinigung der Krankenversicherung.
+Grundsätzlich ist das eEB-Verfahren keine Alternative zur eGK sondern dient nur der elektronischen  Übermittelung der Ersatzbescheinigung der Krankenversicherung.
 
 ## Frage
 
@@ -531,11 +505,7 @@ Bei den von der KBV ergänzten Einträgen handelt sich um sogenannte HGNC -Kette
 
 Nachtrag:
 
-Die im Termin geäußerte Aussage, dass sich bei den Einträgen in der Schlüsseltabelle um HGNC-Ketten ist
-
-falsch gewesen. Bei den KBV-Einträgen handelt sich um Fusionsgene, dies bedeutet die Einträge sind als ein
-
-Gen Eintrag zu betrachten.
+Die im Termin geäußerte Aussage, dass sich bei den Einträgen in der Schlüsseltabelle um HGNC-Ketten ist  falsch gewesen. Bei den KBV-Einträgen handelt sich um Fusionsgene, dies bedeutet die Einträge sind als ein  Gen Eintrag zu betrachten.
 
 ## Frage
 
@@ -551,9 +521,7 @@ Die KBV wird umgehend informieren, wenn ein verbindlicher Umsetzungstermin verei
 
 ## Vorabinformationen zum Verfahren eVDGA
 
-Derzeit ist noch kein verbindlicher Umsetzungstermin für Hersteller zwischen KBV und GKV-SV vereinbart.
-
-Auch für Praxen gibt es bislang keine verbindliche/unterschriebene Vereinbarung, ab wann sie das  Verfahren einsetzen müssen.
+Derzeit ist noch kein verbindlicher Umsetzungstermin für Hersteller zwischen KBV und GKV-SV vereinbart.  Auch für Praxen gibt es bislang keine verbindliche/unterschriebene Vereinbarung, ab wann sie das  Verfahren einsetzen müssen.
 
 Die KBV befindet sich hierzu weiterhin mit dem GKV-SV in Abstimmung. Über die Ergebnisse und weitere  Schritte wird die KBV wie gewohnt per ITA-Newsletter informieren.
 
@@ -563,9 +531,7 @@ Die KBV empfiehlt, sich bereits jetzt mit dem Thema auseinanderzusetzen, um die 
 
 Es wird aktuell auf eine offizielle konkretisierende Aussage der gematik gewartet.
 
-Bis zur endgültigen Klärung bleiben alle bisher bestehenden Anforderungen der KBV zum Thema eEB  weiterhin gültig. Testmöglichkeiten über die Referenzumgebung der gematik sind weiterhin aktiv. Bei
-
-Fragen empfehlen wir die direkte Kontaktaufnahme mit den Krankenkassen
+Bis zur endgültigen Klärung bleiben alle bisher bestehenden Anforderungen der KBV zum Thema eEB  weiterhin gültig. Testmöglichkeiten über die Referenzumgebung der gematik sind weiterhin aktiv. Bei  Fragen empfehlen wir die direkte Kontaktaufnahme mit den Krankenkassen
 
 Nachtrag:
 
@@ -576,9 +542,7 @@ Gemäß der Aussage der gematik von der Aussetzung des Verfahrens nur der Teil A
 
 ## Vorabinformationen zum Hybrid-DRG
 
-Mit der Veröffentlichung des KVDT-Anforderungskatalog und Datensatzbeschreibung am 15. Mai 2025
-
-werden für die Parameter Beatmungsstunden sowie Leistungsdatum bzw. Anfangs -/Enddatum  Konkretisierungen vorgenommen.
+Mit der Veröffentlichung des KVDT-Anforderungskatalog und Datensatzbeschreibung am 15. Mai 2025  werden für die Parameter Beatmungsstunden sowie Leistungsdatum bzw. Anfangs -/Enddatum  Konkretisierungen vorgenommen.
 
 Der Parameter Beatmungsstunden bleibt bestehen. Er ist für die Eingabe im Grouper erforderlich. Dabei ist  sicherzustellen, dass der Wert nicht größer als 0 ist, da dieser sonst zur Auslösung einer DRG führen würde.  Es soll eine Hinweismeldung ausgegeben werden, dass Beatmungszeiten, die während einer Narkose  anfallen, nicht angegeben werden dürfen.
 
@@ -596,9 +560,7 @@ Es wird voraussichtlich zum 01.10.2025 eine weitere Anpassung der eRezept-Profil
 
 Nachtrag:
 
-Die neue Version der eRezept-FHIR-Profile wurde am 15. Mai 2025 mit Wirkung zum 1. Oktober 2025
-
-bereitgestellt.
+Die neue Version der eRezept-FHIR-Profile wurde am 15. Mai 2025 mit Wirkung zum 1. Oktober 2025  bereitgestellt.
 
 ## Frage:
 
@@ -606,9 +568,7 @@ bereitgestellt.
 
 ### Antwort der KBV:
 
-Ja, die mit dem Präfix „KBV“ versehenen Einträge sind HGNC-Ketten. Diese kommen in Laboren häufiger vor
-
-und wurden zur Arbeitserleichterung von der Fachabteilung der KBV ergänzt.
+Ja, die mit dem Präfix „KBV“ versehenen Einträge sind HGNC-Ketten. Diese kommen in Laboren häufiger vor  und wurden zur Arbeitserleichterung von der Fachabteilung der KBV ergänzt.
 
 Es ist noch abzustimmen, ob diese Ketten wie vorgegeben vollständig zu übertragen sind oder ob sie  aufgesplittet werden müssen bzw. sollen.
 
@@ -616,11 +576,7 @@ Eine entsprechende Regelung wird im Anforderungskatalog aufgenommen.
 
 Nachtrag:
 
-Die im Termin geäußerte Aussage, dass sich bei den Einträgen in der Schlüsseltabelle um HGNC-Ketten ist
-
-falsch gewesen. Bei den KBV-Einträgen handelt sich um Fusionsgene, dies bedeutet die Einträge sind als ein
-
-Gen Eintrag zu betrachten.
+Die im Termin geäußerte Aussage, dass sich bei den Einträgen in der Schlüsseltabelle um HGNC-Ketten ist  falsch gewesen. Bei den KBV-Einträgen handelt sich um Fusionsgene, dies bedeutet die Einträge sind als ein  Gen Eintrag zu betrachten.
 
 ## Frage:
 
@@ -657,9 +613,7 @@ Leistungen, die im zweiten Quartal 2025 oder davor erbracht wurden, sind in der 
 
 Die Abrechnung muss bis spätestens 29. Juli 2025 an die KVen übermittelt werden.
 
-Leistungen aus dem zweiten Quartal oder davor, die erst im dritten Quartal abgerechnet werden, sind mit
-
-HGNC-Kodes zu kodieren.
+Leistungen aus dem zweiten Quartal oder davor, die erst im dritten Quartal abgerechnet werden, sind mit  HGNC-Kodes zu kodieren.
 
 Ein entsprechender Hinweis wird in der neuen Version des KVDT-Anforderungskatalogs aufgenommen.
 
@@ -692,14 +646,11 @@ Wie im Update-Schreiben bereits erwähnt, bleibt die Umsetzung der Anforderungen
 
 Die kürzlich durchgeführte Abschaltung bei der gematik betrifft ausschließlich Anfragen, die aus der Praxis  kommen. Anfragen über die App sind davon jedoch nicht betroffen.
 
-Für die Systeme bedeutet dies konkret, dass der Empfang von eEB-Nachrichten von Krankenkassen gemäß
-
-den Vorgaben der Technischen Anlage eEB gewährleistet sein muss.
+Für die Systeme bedeutet dies konkret, dass der Empfang von eEB-Nachrichten von Krankenkassen gemäß  den Vorgaben der Technischen Anlage eEB gewährleistet sein muss.
 
 Es gab außerdem einige Präzisierungen, wie zum Beispiel:
 
 -  den Umgang mit eEB-Daten bei einer Falltrennung und
-
 -  die Möglichkeit, einen QR-Code zu erzeugen.
 
 Sobald die gematik das eEB-Verfahren für Praxisabfragen neu definiert und gestartet hat, wird sie auch die  Hersteller entsprechend informieren.
@@ -722,9 +673,7 @@ Dies ist jedoch nicht korrekt:
 
 Die betreffenden Einträge sind keine Ketten, sondern Fusionsgene, die jeweils als ein einziges Gen, also  eine Angabe, zu verstehen sind.
 
-Die korrigierte Schlüsseltabelle, d.h. ohne Dubletten und mit bereinigten Einträgen wird am 28.05.2025 zur
-
-Verfügung gestellt. Die HGNC-Schlüsseltabelle wird erstmals auf dem Update Server der KBV zur Verfügung  gestellt später dann unter der KBV-Schlüsseltabellen.
+Die korrigierte Schlüsseltabelle, d.h. ohne Dubletten und mit bereinigten Einträgen wird am 28.05.2025 zur  Verfügung gestellt. Die HGNC-Schlüsseltabelle wird erstmals auf dem Update Server der KBV zur Verfügung  gestellt später dann unter der KBV-Schlüsseltabellen.
 
 Eine Erklärung zu den einzelnen Parametern wird in der KVDT-Anforderung aufgenommen.
 
@@ -739,13 +688,9 @@ Der Hintergrund der Anforderung ist, sicherzustellen, dass die Nachricht tatsäc
 
 ---
 
-Absender mit einem eEB-Anhang kommt, der dazu verwendet wird, beispielsweise Leistungen
+Absender mit einem eEB-Anhang kommt, der dazu verwendet wird, beispielsweise Leistungen  unrechtmäßig zu erschleichen.
 
-unrechtmäßig zu erschleichen.
-
-Die Prüfung kann anhand der ProfessionOID des Absenders erfolgen. Laut gematik ist dort vermerkt,
-
-welche Art von Absender vorliegt.
+Die Prüfung kann anhand der ProfessionOID des Absenders erfolgen. Laut gematik ist dort vermerkt,  welche Art von Absender vorliegt.
 
 Die gematik wurde gebeten, entsprechende Informationen in den Implementierungsleitfaden  aufzunehmen.
 
@@ -777,9 +722,7 @@ Sonstige Kostenträger, welche nicht an die TI-angeschlossen sind, können das e
 
 Eine Ausnahme stellt die Bundespolizei dar, da die Bundespolizei an die TI angeschlossen ist und bereits  elektronische Gesundheitskarten (eGKs) ausgegeben hat.
 
-Bei privat Krankenversicherten kann das eEB-Verfahren grundsätzlich funktionieren, sofern die
-
-Versichertendaten entsprechend der Spezifikation des VSDM bereitgestellt werden.
+Bei privat Krankenversicherten kann das eEB-Verfahren grundsätzlich funktionieren, sofern die  Versichertendaten entsprechend der Spezifikation des VSDM bereitgestellt werden.
 
 ## Frage:
 
@@ -791,9 +734,7 @@ Der Wert wurde aufgenommen, da es sich um eine TI-Anwendung handelt. Die Abstimm
 
 ## Frage:
 
-**Ist es möglich, dass die KBV eine Übersicht der TI-Anwendungen bereitstellt, die von Laboren nicht**
-
-**umgesetzt werden müssen und für die daher keine Kürzung erfolgt?**
+**Ist es möglich, dass die KBV eine Übersicht der TI-Anwendungen bereitstellt, die von Laboren nicht**  **umgesetzt werden müssen und für die daher keine Kürzung erfolgt?**
 
 
 ---
@@ -806,9 +747,7 @@ Fragen zu möglichen Kürzungen liegen im Zuständigkeitsbereich der jeweiligen 
 
 ## Frage:
 
-**Die KBV Einträge in der HGNC-Schlüsseltabelle werden in der Abrechnungsdatei nicht gesplittet in zwei**
-
-**(mehrere) 5070 Felder übertragen, richtig?**
+**Die KBV Einträge in der HGNC-Schlüsseltabelle werden in der Abrechnungsdatei nicht gesplittet in zwei**  **(mehrere) 5070 Felder übertragen, richtig?**
 
 ### Antwort der KBV:
 
@@ -820,9 +759,7 @@ Ja, die Fusionsgene sind als ein einzelner Eintrag in der FK 5077 in der Abrechn
 
 ### Antwort der KBV:
 
-Ja, die Fusionsgene können Teil einer Gen-Kette sein. Dabei ist zu beachten, dass die einzelne Gene oder
-
-Fusionsgene einer Kette jeweils in separaten Felder in der Abrechnungsdatei übertragen werden.
+Ja, die Fusionsgene können Teil einer Gen-Kette sein. Dabei ist zu beachten, dass die einzelne Gene oder  Fusionsgene einer Kette jeweils in separaten Felder in der Abrechnungsdatei übertragen werden.
 
 ## Frage:
 
@@ -842,13 +779,9 @@ Grundsätzlich werden bei neuen Themen die relevanten Regeln zunächst als Warnu
 
 Nach zwei Quartalen wird die Warnung in eine Fehlermeldung umgewandelt.
 
-Beim Thema HGNC wurden bereits einige Regeln aus der OMIM-Kodierung übernommen und angepasst –
+Beim Thema HGNC wurden bereits einige Regeln aus der OMIM-Kodierung übernommen und angepasst –  daher wurde auch hier die Bewertung von „Fehler“ auf „Warnung“ geändert.
 
-daher wurde auch hier die Bewertung von „Fehler“ auf „Warnung“ geändert.
-
-Die Information, dass für bestimmten GOPen die Eingabe zur Art der Erkrankung entfallen kann, werden
-
-wir von der zuständige Fachabteilung prüfen lassen – Prüfung läuft aktuell noch.
+Die Information, dass für bestimmten GOPen die Eingabe zur Art der Erkrankung entfallen kann, werden  wir von der zuständige Fachabteilung prüfen lassen – Prüfung läuft aktuell noch.
 
 ## Frage:
 
@@ -922,7 +855,6 @@ In diesem Fall sollte in der Patientenquittung ein Hinweis auf die mögliche Unv
 
 Aus fachlicher Sicht ist die Definition spezifischer Prüfregeln hierfür derzeit nicht vorgesehen bzw. nicht  erforderlich.
 
-
 ---
 
 # 9 SPRECHSTUNDE 1 JULI 2025
@@ -933,11 +865,7 @@ Für das dritte Quartal wird in KW 28 ein Update der EBM-Stammdatei veröffentli
 
 ## Vorabinformation zum eVDGA Verfahren
 
-Die Umsetzung der eVDGA-Anforderungen muss bis spätestens 01.01.2026 erfolgen und erfolgreich
-
-zertifiziert sein. Bestandteil der KBV-Zertifizierung ist der Nachweis des erfolgreich durchgeführten gematik
-
-Audits.
+Die Umsetzung der eVDGA-Anforderungen muss bis spätestens 01.01.2026 erfolgen und erfolgreich  zertifiziert sein. Bestandteil der KBV-Zertifizierung ist der Nachweis des erfolgreich durchgeführten gematik  Audits.
 
 ## Hinweis der Hersteller zum Thema IT-Sicherheit Schulungen
 
@@ -949,7 +877,7 @@ Da in vielen Praxen ein grundlegendes Verständnis oder Grundbasis fehlt sollten
 
 ### Antwort der KBV:
 
-Unsere Empfehlung ist, dass in diesen Fällen die Abrechnung auf die gültigen / neuen Feldkennungen  gemappt wird. Wir bitten auch um Zusendung der Anfrage des Anwenders an [ita@kbv.de](mailto:ita@kbv.de) inklusive Angabe  der zuständigen KV, damit wir gezielt Rücksprache mit den dortigen Verantwortlichen halten können.
+Unsere Empfehlung ist, dass in diesen Fällen die Abrechnung auf die gültigen / neuen Feldkennungen  [gemappt wird. Wir bitten auch um Zusendung der Anfrage des Anwenders an](mailto:ita@kbv.de)[ita@kbv.de](mailto:ita@kbv.de)[inklusive Angabe](mailto:ita@kbv.de) [der zuständigen KV, damit wir gezielt Rücksprache mit den dortigen Verantwortlichen halten können.](mailto:ita@kbv.de)
 
 ## Frage:
 
@@ -961,9 +889,7 @@ Es muss die BSNR/ LANR des Arztes, für welchen die Leistung abgerechnet wird, i
 
 ## Frage:
 
-**Wenn ein Softwarehersteller keine VDGA-Zertifizierung hat, entfällt dann auch die Pflicht zur eVDGA**
-
-**Zertifizierung?**
+**Wenn ein Softwarehersteller keine VDGA-Zertifizierung hat, entfällt dann auch die Pflicht zur eVDGA**  **Zertifizierung?**
 
 ### Antwort der KBV:
 
@@ -984,9 +910,7 @@ Diese werden so schnell wie möglich veröffentlicht.
 
 ## Frage:
 
-**Wie ist mit Nachzügler bezgl. OMIM-Kodierung umzugehen? Für fehlerhafte Abrechnungen mit OMIM-**
-
-**Kodierungen – z. B. aus dem 1. Quartal – stellt sich die Frage der korrekten Neueinreichung.**
+**Wie ist mit Nachzügler bezgl. OMIM-Kodierung umzugehen? Für fehlerhafte Abrechnungen mit OMIM-** **Kodierungen – z. B. aus dem 1. Quartal – stellt sich die Frage der korrekten Neueinreichung.**
 
 ### Antwort der KBV:
 
@@ -1029,16 +953,13 @@ Ein mehrfaches Vorkommen der Pseudo-LANR/ BSNR ist nicht erlaubt. Da es jedoch U
 
 ### Antwort der KBV:
 
-Temporäre Datensätze sollten möglichst schlank gehalten werden. Eine Prüfung des Kostenträgers kann
-
-über die VKNR erfolgen. SKT-Zusatzangaben sind aktuell nicht prüfbar, da in den KV-Spezifika (noch) nicht  vorgesehen.
-
+Temporäre Datensätze sollten möglichst schlank gehalten werden. Eine Prüfung des Kostenträgers kann  über die VKNR erfolgen. SKT-Zusatzangaben sind aktuell nicht prüfbar, da in den KV-Spezifika (noch) nicht  vorgesehen.
 
 ---
 
 # 10 ÜBERSICHT DER DATENANNAHME DURCH KVEN
 
-| **KV** | **FORM DER DATENANNAHME** |
+| KV | FORM DER DATENANNAHME |
 |---|---|
 | Schleswig-Holstein | › ›**· ·** |
 | Hamburg | Noch in Klärung |
@@ -1064,7 +985,7 @@ Bereitstellung einer Webanwendung zur Abrechnung von Hybrid-DRG Abrechnungen Ann
 
 ---
 
-| **·** |  |
+| · |  |
 |---|---|
 |  |  |
 |  | **·** |
@@ -1094,6 +1015,6 @@ Kontakt:
 
 Dezernat Digitalisierung und IT  IT in der Arztpraxis
 
-Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
+[Tel.: 030 4005-2077,](mailto:ita@kbv.de)[ita@kbv.de](mailto:ita@kbv.de)[](mailto:ita@kbv.de)
 
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
+[Kassenärztliche Bundesvereinigung](mailto:ita@kbv.de) Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de) [www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)

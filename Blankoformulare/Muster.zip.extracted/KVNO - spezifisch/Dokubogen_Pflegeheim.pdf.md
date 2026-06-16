@@ -116,9 +116,7 @@ in %
 
 **gesetzlicher Betreuer**
 
-**JA**
-
-Vor-/Nachname
+**JA** Vor-/Nachname
 
 Straße, Nr.
 
@@ -128,9 +126,7 @@ Telefon
 
 Mobil **Angehörige**
 
-**JA**
-
-Vor-/Nachname
+**JA** Vor-/Nachname
 
 Straße, Nr.
 

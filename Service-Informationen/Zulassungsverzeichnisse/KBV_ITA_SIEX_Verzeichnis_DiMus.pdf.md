@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**07. JUNI 2026**
+**16. JUNI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -13,7 +13,7 @@
 
 ---
 
-|  |  | **Prüfnummer** |  | **unterstützte** |
+|  |  | Prüfnummer |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -30,7 +30,7 @@
 |---|---|---|---|---|
 |  | Y/80/2502/24/031 | 31.01.2027 | eAU |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 07. Juni 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 16. Juni 2026
 
 Y/80/2407/24/062 30.06.2026
 
@@ -47,7 +47,7 @@ Clinixx(R) Krankenhausinformationssystem AMC Holding GmbH Ballindamm 5 20095 Ham
 
 ---
 
-|  |  | **Prüfnummer** |  | **unterstützte** |
+|  |  | Prüfnummer |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -79,7 +79,7 @@ Med7 Bitron GmbH Technologiesysteme Bürgeler Str. 18 A 63075 Offenbach am Main 
 
 ---
 
-|  |  | **Prüfnummer** |  | **unterstützte** |
+|  |  | Prüfnummer |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -109,7 +109,7 @@ Praxis4More CoKom One GmbH John-F.-Kennedy-Straße 10 97877 Wertheim Internet: w
 
 ---
 
-|  |  | **Prüfnummer** |  | **unterstützte** |
+|  |  | Prüfnummer |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -139,7 +139,7 @@ DATA VITAL CompuGroup Medical Deutschland AG Maria Trost 25 56070 Koblenz Intern
 
 ---
 
-|  |  | **Prüfnummer** |  | **unterstützte** |
+|  |  | Prüfnummer |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -173,12 +173,12 @@ DS-WIN-PLUS (DS-WIN-MED) DAMPSOFT GmbH Vogelsang 1 24351 Damp Internet: www.damp
 
 ---
 
-|  |  | **Prüfnummer** |  | **unterstützte** |
+|  |  | Prüfnummer |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
 
-**InterMediNet KVDT**
+**InterMediNet**
 
 **DBI Informatik, Dirk Blume** Tieberg 7 31191 Algermissen Internet: www.dbi-informatik.de
 
@@ -205,7 +205,7 @@ IMedOne Deutsche Telekom Clinical Solutions GmbH Sternengasse 14-16 50676 Köln 
 
 ---
 
-|  |  | **Prüfnummer** |  | **unterstützte** |
+|  |  | Prüfnummer |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -237,7 +237,7 @@ DURIA Duria eG Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de Epik
 
 ---
 
-|  |  | **Prüfnummer** |  | **unterstützte** |
+|  |  | Prüfnummer |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -267,7 +267,7 @@ EVIDENT EVIDENT GmbH Eberhard-Anheuser-Straße 3 55543 Bad Kreuznach Internet: w
 
 ---
 
-|  |  | **Prüfnummer** |  | **unterstützte** |
+|  |  | Prüfnummer |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -299,7 +299,7 @@ QUINCY WIN Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet
 
 ---
 
-|  |  | **Prüfnummer** |  | **unterstützte** |
+|  |  | Prüfnummer |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -331,7 +331,7 @@ Torin Getinge IT Solutions GmbH Südportal 5 22848 Norderstedt eReha GITG AG Kur
 
 ---
 
-|  |  | **Prüfnummer** |  | **unterstützte** |
+|  |  | Prüfnummer |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -352,25 +352,25 @@ Y/80/2603/24/749
 
 Y/80/2410/24/195
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 07. Juni 2026 29.02.2028 eAU
+Seite 12 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 16. Juni 2026 29.02.2028 eAU
 
 30.09.2026 eAU
 
 Windows
 
-Elefant HASOMED GmbH Paul-Ecke-Str. 1 39114 Magdeburg Internet: www.hasomed.de IFA-AUGENARZT ifa systems AG Augustinusstraße 11b 50226 Frechen Internet: www.ifasystems.de Windows WindowsWindows
+Elefant HASOMED GmbH Paul-Ecke-Str. 1 39114 Magdeburg Internet: www.hasomed.de IFA-AUGENARZT ifa systems AG Fendter Straße 22 50226 Frechen Internet: www.ifasystems.de Windows WindowsWindows
 
 
 ---
 
-|  |  | **Prüfnummer** |  | **unterstützte** |
+|  |  | Prüfnummer |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
 
 **ifa|NX-NEXT Generation AIS**
 
-**ifa systems AG** Augustinusstraße 11b 50226 Frechen Internet: www.ifasystems.de
+**ifa systems AG** Fendter Straße 22 50226 Frechen Internet: www.ifasystems.de
 
 **IFU-KIS**
 
@@ -380,22 +380,20 @@ Elefant HASOMED GmbH Paul-Ecke-Str. 1 39114 Magdeburg Internet: www.hasomed.de I
 |---|---|---|---|---|
 |  | Y/80/2408/24/210 | 31.07.2026 | eAU |  |
 
-Y/80/2408/24/451 31.07.2026
+Y/80/2408/24/451
 
-Y/80/2505/24/596 30.04.2027
+Y/80/2505/24/596 31.07.2026 eAU
 
-eAU
+30.04.2027 eAU
 
-eAU
-
-Linux Mac OS Windows
+Linux Mac OS
 
 DynaMed IMA-Systems Information-Technology GmbH Römerstraße 2 A-6900 Bregenz Internet: www.ima-systems.com Medical Office INDAMED EDV-Entwicklung und Vertrieb GmbH Ziegeleiweg 1 19057 Schwerin Internet: www.indamed.de Windows WindowsWindows
 
 
 ---
 
-|  |  | **Prüfnummer** |  | **unterstützte** |
+|  |  | Prüfnummer |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -425,7 +423,7 @@ DISweb KfH - Kuratorium für Dialyse und Nierentransplantation e.V. Martin-Behai
 
 ---
 
-|  |  | **Prüfnummer** |  | **unterstützte** |
+|  |  | Prüfnummer |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -455,7 +453,7 @@ x.isynet medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.meda
 
 ---
 
-|  |  | **Prüfnummer** |  | **unterstützte** |
+|  |  | Prüfnummer |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -474,7 +472,7 @@ Softwarevariante(n): - psyx
 |---|---|---|---|---|
 |  | Y/80/2410/24/439 | 30.09.2026 | eAU |  |
 
-Seite 16 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 07. Juni 2026
+Seite 16 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 16. Juni 2026
 
 Y/80/2408/24/266
 
@@ -484,12 +482,12 @@ Y/80/2407/24/462 31.07.2026 eAU
 
 Windows
 
-medavis RIS medavis GmbH Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.de eRIS medavis GmbH Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.de Windows Linux Mac OS WindowsWindows
+medavis RIS medavis GmbH Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.de eRIS medavis GmbH Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.de Windows WindowsWindows
 
 
 ---
 
-|  |  | **Prüfnummer** |  | **unterstützte** |
+|  |  | Prüfnummer |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -519,7 +517,7 @@ WIN-RADIOLOG medigration GmbH Dr.-Rudolf-Eberle-Straße 8 - 10 76534 Baden-Baden
 
 ---
 
-|  |  | **Prüfnummer** |  | **unterstützte** |
+|  |  | Prüfnummer |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -539,7 +537,7 @@ MEDICUSplus MEDNET Service für Ärzte AG Prälat-van-Acken-Straße 14 50935 Kö
 
 ---
 
-|  |  | **Prüfnummer** |  | **unterstützte** |
+|  |  | Prüfnummer |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -571,7 +569,7 @@ Meona Clinics Mesalvo Freiburg GmbH Heinrich-von-Stephan-Straße 25 79100 Freibu
 
 ---
 
-|  |  | **Prüfnummer** |  | **unterstützte** |
+|  |  | Prüfnummer |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -601,7 +599,7 @@ Pro_Medico Neutz GmbH Systemhaus Schwabstraße 22 74189 Weinsberg Internet: www.
 
 ---
 
-|  |  | **Prüfnummer** |  | **unterstützte** |
+|  |  | Prüfnummer |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -631,7 +629,7 @@ NEXUS / KIS NEXUS AG Irmastraße 1 78166 Donaueschingen Internet: www.nexus-ag.d
 
 ---
 
-|  |  | **Prüfnummer** |  | **unterstützte** |
+|  |  | Prüfnummer |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -663,7 +661,7 @@ RED medical classic RED Medical Systems GmbH Lutzstraße 2 80687 München Intern
 
 ---
 
-|  |  | **Prüfnummer** |  | **unterstützte** |
+|  |  | Prüfnummer |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -695,7 +693,7 @@ SAP Ambulatory Care Management SAP SE Dietmar-Hopp-Allee 16 69190 Walldorf Inter
 
 ---
 
-|  |  | **Prüfnummer** |  | **unterstützte** |
+|  |  | Prüfnummer |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -737,7 +735,7 @@ T2med T2med GmbH & Co. KG Bismarckallee 15 24105 Kiel Internet: www.t2med.de Tel
 
 ---
 
-|  |  | **Prüfnummer** |  | **unterstützte** |
+|  |  | Prüfnummer |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Muster** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -754,7 +752,7 @@ T2med T2med GmbH & Co. KG Bismarckallee 15 24105 Kiel Internet: www.t2med.de Tel
 |---|---|---|---|---|
 |  | Y/80/2509/37/768 | 30.09.2028 | eAU |  |
 
-Seite 25 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 07. Juni 2026
+Seite 25 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 16. Juni 2026
 
 Y/80/2407/24/313 30.06.2026
 

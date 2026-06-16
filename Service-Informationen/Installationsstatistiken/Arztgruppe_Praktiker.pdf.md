@@ -24,7 +24,7 @@
 
 210 **Medical Office**
 
-498 **T 2med**
+498 **T2med**
 
 086 **DURIA**
 
@@ -54,7 +54,7 @@ CompuGroup Medical Deutschland AG
 
 INDAMED EDV-Entwicklung und Vertrieb GmbH
 
-T 2med GmbH & Co. KG
+T2med GmbH & Co. KG
 
 Duria eG
 
@@ -157,19 +157,14 @@ medatixx GmbH & Co. KG 1
 
 ---
 
-**Id Praxissoftware**
-
-348 **psyprax**
-
-078 **Med7**
-
-081 **Arztpraxis Wiegand**
-
-457 **tomedo**
-
-083 **PegaMed**
-
-261 **S 3-Win**
+| Id | Praxissoftware |
+|---|---|
+| 348 | **psyprax** |
+| 078 **Med7** |  |
+| 081 | **Arztpraxis Wiegand** |
+| 457 **tomedo** |  |
+| 083 | **PegaMed** |
+| 261 **S3-Win** |  |
 
 **Anbieter**
 
@@ -183,7 +178,7 @@ Zollsoft GmbH
 
 PEGA Elektronik GmbH
 
-S 3 Praxiscomputer GmbH / Maximilian Flender 2
+S3 Praxiscomputer GmbH / Maximilian Flender 2
 
 **Installationen 2.Q.2025**
 

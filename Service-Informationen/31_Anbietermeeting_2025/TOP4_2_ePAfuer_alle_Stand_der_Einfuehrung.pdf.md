@@ -9,9 +9,11 @@ DR. PHILIPP STACHWITZ, STABSBEREICHSLEITER DIGITALISIERUNG
 
 ---
 
-# - AKTUELLER STAND EPA -ROLLOUT
+# - AKTUELLER STAND
 
-## - STAND PVS-ROLLOUT AUS SICHT DER KBV
+**EPA -ROLLOUT**
+
+## - STAND PVS -ROLLOUT AUS SICHT DER KBV
 
 ## - DATEN DER GEMATIK
 
@@ -24,9 +26,11 @@ DR. PHILIPP STACHWITZ, STABSBEREICHSLEITER DIGITALISIERUNG
 
 ---
 
-# - AKTUELLER STAND EPA -ROLLOUT
+# - AKTUELLER STAND
 
-## - STAND PVS-ROLLOUT AUS SICHT DER KBV
+**EPA -ROLLOUT**
+
+## - STAND PVS -ROLLOUT AUS SICHT DER KBV
 
 ## - DATEN DER GEMATIK
 
@@ -47,12 +51,14 @@ DR. PHILIPP STACHWITZ, STABSBEREICHSLEITER DIGITALISIERUNG
 
 ## - Nutzungsverpflichtung auszurollen
 
-## Demnach sind noch über 20% der Praxen nicht mit einem Modul ausgestattet - **STAND PVS-ROLLOUT**
+## Demnach sind noch über 20% der Praxen nicht mit einem Modul ausgestattet
+
+- **STAND PVS-ROLLOUT**
 
 
 ---
 
-| **Daten** | **der** | **gematik – Aktuelle Nutzungszahlen** |
+| Daten | | der gematik – Aktuelle Nutzungszahlen |
 |---|---|---|
 | **EPA FÜR** | **ALLE - STAND** | **DER EINFÜHRUNG** |
 |  | KBV-ANBIETERMEETING, | 18. SEPTEMBER 2025 |
@@ -64,7 +70,11 @@ Daten der gematik – - **DATEN GEMATIK**
 
 ## Stand – KOB Zertifizierung
 
-# - Entspricht: 113.926 Installationen in den Praxen mit  KOB zertifizierten Systemen - **KOB**
+# - Entspricht: 113.926 Installationen in den Praxen mit
+
+# - KOB zertifizierten Systemen
+
+- **KOB**
 
 96%
 
@@ -72,14 +82,14 @@ Daten der gematik – - **DATEN GEMATIK**
 
 # NICHT KOB-zertifiziert
 
-# › Entspricht: 4.375 Installationen in den Praxen ohne
-
 
 ---
 
-# - AKTUELLER STAND EPA -ROLLOUT
+# - AKTUELLER STAND
 
-## - STAND PVS-ROLLOUT AUS SICHT DER KBV
+**EPA -ROLLOUT**
+
+## - STAND PVS -ROLLOUT AUS SICHT DER KBV
 
 ## - DATEN DER GEMATIK
 
@@ -118,7 +128,9 @@ Daten der gematik – - **DATEN GEMATIK**
 
 ## ePA öffnen
 
-## Arztbrief suchen - **BLICK IN DIE ARZTPRAXIS**
+## Arztbrief suchen
+
+- **BLICK IN DIE ARZTPRAXIS**
 
 **7.** Metadaten des Arztbriefes ausfüllen
 
@@ -141,8 +153,6 @@ Daten der gematik – - **DATEN GEMATIK**
 
 ---
 
-**1.**
-
 **2.**
 
 **3.**
@@ -163,7 +173,9 @@ Daten der gematik – - **DATEN GEMATIK**
 
 ## ePA öffnen
 
-## Arztbrief suchen - **BLICK IN DIE ARZTPRAXIS**
+## Arztbrief suchen
+
+- **BLICK IN DIE ARZTPRAXIS**
 
 ## Metadaten des Arztbriefes ausfüllen
 
@@ -192,7 +204,9 @@ Daten der gematik – - **DATEN GEMATIK**
 
 ---
 
-## Prozesse der ePA -Nutzung in der Praxis - **BLICK IN DIE ARZTPRAXIS**
+## Prozesse der ePA -Nutzung in der Praxis
+
+- **BLICK IN DIE ARZTPRAXIS**
 
 ## Status Quo
 
@@ -217,18 +231,13 @@ Aus ärztlicher und Perspektive sind das
 
 ## Wichtige Punkte der KBV Einstellen von Dokumenten (1)
 
-## So wenig Interaktionen  für den Benutzer wie  möglich - **ANFORDERUNGEN AN DAS PVS**
+## So wenig Interaktionen  für den Benutzer wie  möglich
 
-QUELLE: KBV-ANBIETERMEETING, 11.09.2024 -
--
+- **ANFORDERUNGEN AN DAS PVS**
 
--
+QUELLE: KBV-ANBIETERMEETING, 11.09.2024
 
-## Bestätigung mit „
-
--
 - Bei bestimmten Dokumententypen oder
-
 - Bestimmten Patienten ein vollautomatisches
 
 ## Hochladen erfolgen kann
@@ -238,19 +247,13 @@ QUELLE: KBV-ANBIETERMEETING, 11.09.2024 -
 
 ## Wichtige Punkte der KBV Einstellen von Dokumenten (2)
 
-## Schnelle und einfache  Kennzeichnung von  Dokumenten - **ANFORDERUNGEN AN DAS PVS**
+## Schnelle und einfache  Kennzeichnung von  Dokumenten
 
-QUELLE: KBV-ANBIETERMEETING, 11.09.2024 -
+- **ANFORDERUNGEN AN DAS PVS**
 
--
+QUELLE: KBV-ANBIETERMEETING, 11.09.2024
 
-## Unmittelbar mit einem Klick -
-
--
-
--
 - Einwilligung oder
-
 - Des Widerspruchs des(der) Patient(in)
 
 
@@ -260,11 +263,16 @@ QUELLE: KBV-ANBIETERMEETING, 11.09.2024 -
 
 ## Einfache Handhabung
 
-## Patient Journey  beachten - Stecken der eGK
+## Patient Journey  beachten
 
+- Stecken der eGK
 - Suchen, Lesen und
 
-## - Herunterladen von  Inhalten - Einstellen von
+## - Herunterladen von
+
+## - Inhalten
+
+- Einstellen von
 
 ## - Dokumenten
 
@@ -276,7 +284,9 @@ QUELLE: KBV-ANBIETERMEETING, 11.09.2024 -
 
 ## Patientenversorgung ist
 
-QUELLE: KBV-ANBIETERMEETING, 11.09.2024 - **ANFORDERUNGEN AN DAS PVS**
+QUELLE: KBV-ANBIETERMEETING, 11.09.2024
+
+- **ANFORDERUNGEN AN DAS PVS**
 
 ## Zeit für
 
@@ -285,11 +295,15 @@ QUELLE: KBV-ANBIETERMEETING, 11.09.2024 - **ANFORDERUNGEN AN DAS PVS**
 
 ---
 
-## Positionspapier Digitalisierung beschlossen auf der VV im Mai 2025 - **DIGITAL UND NAH**
+## Positionspapier Digitalisierung beschlossen auf der VV im Mai 2025
+
+- **DIGITAL UND NAH**
 
 ### Erarbeitet in einem gemeinsamen  Prozess mit der VV 12/24-05/25
 
 ## Plus FÜNF KERNFORDERUNGEN
+
+[www.kbv.de/digitalisierung](http://www.kbv.de/digitalisierung)
 
 
 ---

@@ -8,17 +8,9 @@
 
 **Diagnose**
 
-**Die** **Kostenverpflichtungserklärung**
+**Die** **Kostenverpflichtungserklärung** **der** **Krankenkasse** **vorbehalten;** **deshalb** **des** **Krankenhauses** **der** **zuständigen**
 
-**der** **Krankenkasse** **vorbehalten;** **deshalb**
-
-**des** **Krankenhauses** **der** **zuständigen**
-
-**Geschieht** **das** **nicht,** **so** **kann** **die**
-
-**abgelehnt** **werden;** **es** **sei** **denn,**
-
-**Leistungsanspruch** **besteht.**
+**Geschieht** **das** **nicht,** **so** **kann** **die** **abgelehnt** **werden;** **es** **sei** **denn,** **Leistungsanspruch** **besteht.**
 
 **Vom Krankenhaus auszufüllen:**
 
@@ -40,11 +32,7 @@
 
 **Unfall,**
 
-**Versorgungs-**
-
-**Unfallfolgen leiden (BVG)**
-
-**Status**
+**Versorgungs-** **Unfallfolgen leiden (BVG)** **Status**
 
 **Nächsterreichbare, geeignete Krankenhäuser**
 
@@ -52,15 +40,9 @@
 
 **Vertragsarztstempel / Unterschrift des Arztes**
 
-**gegenüber** **dem** **Krankenhaus** **bleibt**
+**gegenüber** **dem** **Krankenhaus** **bleibt** **bitte** **diese** **Verordnung** **vor** **Aufsuchen** **Krankenkasse** **vorlegen.**
 
-**bitte** **diese** **Verordnung** **vor** **Aufsuchen**
-
-**Krankenkasse** **vorlegen.**
-
-**Kostenübernahme** **durch** **die** **Krankenkasse**
-
-**es** **liegt** **ein** **Notfall** **vor,** **und** **ein**
+**Kostenübernahme** **durch** **die** **Krankenkasse** **es** **liegt** **ein** **Notfall** **vor,** **und** **ein**
 
 **Stempel des Krankenhauses und Unterschrift**
 

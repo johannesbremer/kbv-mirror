@@ -11,13 +11,14 @@
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_QSMG]
 
-BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  KRAFT
+BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  KRAFT  
+
 
 ---
 
 INHALT
 
-| **1** | **ALLGEMEINES** | **5** |
+| 1 | ALLGEMEINES | 5 |
 |---|---|---|
 | 1.1 | Rechtsgrundlage | 5 |
 | 1.2 | Zertifizierungsablauf | 5 |
@@ -28,7 +29,7 @@ INHALT
 |  | 1.6.1 Prüfstammdaten | 7 |
 |  | 1.6.2 Praxisdaten/ Arztstempel | 8 |
 
-| **2** |  | **PRÜFFÄLLE** | **9** |
+| 2 |  | PRÜFFÄLLE | 9 |
 |---|---|---|---|
 | 2.1 | Prüffall | 1 | 9 |
 | 2.2 | Prüffall | 2 | 15 |
@@ -49,7 +50,8 @@ INHALT
 
 **27**
 
-Prüffall 1 Prüffall 2 Prüffall 3 Prüffall 4
+Prüffall 1 Prüffall 2 Prüffall 3 Prüffall 4 
+
 
 ---
 
@@ -61,19 +63,19 @@ Abbildung 2: Testdatenvalidierung 23
 
 Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 23
 
-
 ---
 
 DOKUMENTENHISTORIE
 
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.13 | 27.01.2022 | KBV | Redaktionelle | Doppelt vorhandener | 15 |
 | 1.12 | 12.08.2021 | KBV | Überarbeitung des | Überführung ins neue | Alle |
 | 1.11 | 13.03.2018 | KBV | Einreichung des Antrags | Anpassung des | 5ff |
 | 1.10 | 23.05.2017 | KBV | Überarbeitung von    Überarbeitung der | Vereinheitlichung der    Aufgrund der | 5ff      9ff |
 
-Inhalt (Seite 15) Anpassung des Prüffalls gelöscht Layouts Corporate Design auf Zertifizierung Zertifizierungsportals Kapitel 1 Strukturen Aktualisierung der Prüffälle Plausibilität
+Inhalt (Seite 15) Anpassung des Prüffalls gelöscht Layouts Corporate Design auf Zertifizierung Zertifizierungsportals Kapitel 1 Strukturen Aktualisierung der Prüffälle Plausibilität 
+
 
 ---
 
@@ -95,40 +97,27 @@ Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV
 
 - 1. Der Antragssteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.
 
-Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen. Erst nach Erhalt der
+Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  [Antrag auf Zertifizierung eingescannt per Mail (](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[) einreichen. Erst nach Erhalt der](mailto:pruefstelle@kbv.de) [Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und den vorab via E-Mail](mailto:pruefstelle@kbv.de) eingereichten Antrag auf Zertifizierung dort hochgeladen werden.
 
-Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und den vorab via E-Mail  eingereichten Antrag auf Zertifizierung dort hochgeladen werden.
-
-- 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als
-
-- fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.
-
-- 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragssteller
-
-- mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern .
-
+- 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.
+- 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragssteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern .
 - 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
 
 **HINWEIS**
 
 Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
 
-
 ---
 
 ## 1.3 ZERTIFIZIERUNGSPORTAL
 
-Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
+[Das Zertifizierungsportal ist über](https://zertifizierungsportal2.kbv.de/)[https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/)[zu erreichen.](https://zertifizierungsportal2.kbv.de/)
 
-Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran  anschließenden manuellen Prüfung.
+[Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran](https://zertifizierungsportal2.kbv.de/) anschließenden manuellen Prüfung.
 
-Die Zugangsdaten können direkt über das Portal oder per E-Mail an [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) unter Angabe der
+Die Zugangsdaten können direkt über das Portal oder [per E-Mail an](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[unter Angabe der](mailto:pruefstelle@kbv.de) [System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte](mailto:pruefstelle@kbv.de) beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
 
-System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte  beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
-
-Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf
-
-Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragssteller in Form von Aufgaben (Menüpunkt:  „Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
+Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragssteller in Form von Aufgaben (Menüpunkt:  „Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
 
 Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im  Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur zusammen mit den erstellten  Prüfunterlagen in Form einer ZIP-Datei archiviert werden.
 
@@ -142,9 +131,7 @@ Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des
 
 ## 1.4 ZERTIFIZIERUNGSDOKUMENTE
 
-Alle erforderlichen Unterlagen stehen im Internet zum Download unter ITA-Update bereit. In diesem
-
-Zusammenhang berücksichtigen Sie bitte das Kapitel Referenzierte Dokumente
+Alle erforderlichen Unterlagen stehen im Internet zu[m Download unter](https://update.kbv.de/ita-update/)[ITA-Update](https://update.kbv.de/ita-update/)[bereit. In diesem](https://update.kbv.de/ita-update/) Zusammenhang berücksichtigen Sie bitte das Kapitel [Referenzierte Dokumente](https://update.kbv.de/ita-update/)
 
 ## 1.5 PRÜFUNTERLAGEN
 
@@ -152,30 +139,24 @@ Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwart
 
 - **Zwei Jahresstatistiken bestehend aus XML-Dokumenten:**
 
-Es wird eine Archivdatei (*.zip.XKM), welche die einzelnen XML-Dateien im entsprechenden Verzeichnis
-
-enthält, erwartet. Diese müssen fehlerfrei gegen das jeweils aktuelle, von der KBV vorgegebene,
-
-Prüfschema validierbar sein. Entsprechende Vorgaben für die Bildung der Dateinamen und weitere  Angaben entnehmen Sie bitte KBV_ITA_VGEX_Schnittstelle_QSMG sowie für den ZIP-Archivnamen
+Es wird eine Archivdatei (*.zip.XKM), welche die einzelnen XML-Dateien im entsprechenden Verzeichnis  enthält, erwartet. Diese müssen fehlerfrei gegen das jeweils aktuelle, von der KBV vorgegebene,  Prüfschema validierbar sein. Entsprechende Vorgaben für die Bildung der Dateinamen und weitere  Angaben entnehmen Sie bitte KBV_ITA_VGEX_Schnittstelle_QSMG sowie für den ZIP-Archivnamen
 
 KBV_ITA_VGEX_XML-Schnittstellen
 
 
 ---
 
-Diese müssen fehlerfrei gegen das jeweils aktuelle, von der KBV vorgegebene, Prüfschema validierbar  sein. Die Daten können nur über das Zertifizierungsportal (siehe Kapitel 1.3) hochgeladen und geprüft  werden.
+Diese müssen fehlerfrei gegen das jeweils aktuelle, von der KBV vorgegebene, Prüfschema validierbar  sein. Die Daten können nur über das Zertifizierungsportal (siehe  werden.
 
 - **Videodateien und/oder Screenshots ausgewählter Anforderungen :**
 
-Die geforderten Videomitschnitte und Screenshots müssen in einem gesonderten Ordner  „Dokumentation“ übermittelt werden und folgender Namenskonvention entsprechen. Diese werden
-
-durch den Prüfer begutachtet.
+Die geforderten Videomitschnitte und Screenshots müssen in einem gesonderten Ordner  „Dokumentation“ übermittelt werden und folgender Namenskonvention entsprechen. Diese werden  durch den Prüfer begutachtet.
 
 _[lfdNr.]2 3
 
 *PrüffallNr* 1
 
-- Alle Prüfunterlagen [Jahresstatistiken und der Ordner „Dokumentation“] sind in einem zip-Archiv zu  übermitteln. Die Dokumentationsunterlagen werden direkt in dem Hauptverzeichnis übertragen und  nicht gesondert in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Das zip Archiv muss wie folgt benannt werden:
+- Alle Prüfunterlagen [Jahresstatistiken und der Ordner „Dokumentation“] sind in einem zi p-Archiv zu  übermitteln. Die Dokumentationsunterlagen werden direkt in dem Hauptverzeichnis übertragen und  nicht gesondert in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Das zip Archiv muss wie folgt benannt werden:
 
 Zert_55_*SystemID*.zip
 
@@ -187,19 +168,21 @@ Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung
 
 Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung des  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV -Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
 
-Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum eingesetzt werden, welches bei der
-
-Dokumentation angegeben ist.
+Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum eingesetzt werden, welches bei der  Dokumentation angegeben ist.
 
 ### 1.6.1 Prüfstammdaten
 
 Für die Zertifizierung müssen die für die Prüfung speziell entwickelten  werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung  bzw. der Dateiname mit „PRF” gekennzeichnet.
 
-Prüfstammdateien verwendet 1 Nummer des Prüffalls
+1 Nummer des Prüffalls
 
 2 Laufende Nr.
 
 3 Gängiges Bild- bzw. Videoformat
+
+Kapitel 1.3) hochgeladen und geprüft
+
+Prüfstammdateien verwendet
 
 
 ---
@@ -208,7 +191,7 @@ Prüfstammdateien verwendet 1 Nummer des Prüffalls
 
 Folgende Angaben sind für die Zertifizierung zu verwenden:
 
-| **BEZEICHNUNG** | **INHALT** |
+| BEZEICHNUNG | INHALT |
 |---|---|
 | **Betriebsstättennummer (BSNR)** | 381234511 |
 | **(N)BSNR-Bezeichnung:** | Gemeinschaftspraxis Dr. med. Topp- |
@@ -223,11 +206,10 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | **Dokumentationsdatum (Kopfdatum):** | 31.03.2018 |
 | **Zu verwendende Prüfnummer:** | Y/55/1301/36/000 |
 
-**Hinweis:** Zu den einzelnen Prüffällen ist ein Dokumentationsdatum angegeben. Bitte verstehen Sie dieses
+**Hinweis:** Zu den einzelnen Prüffällen ist ein Dokumentationsdatum angegeben. Bitte verstehen Sie dieses  Dokumentationsdatum auch als (Datei-) Erstellungs- und Einreichungsdatum und berücksichtigen Sie es  insbesondere entsprechend bei der Vergabe von Dateinamen. Dies ist wichtig, um bei der automatisierten  Verarbeitung der Prüfunterlagen die übermittelten Dateien den zugehörigen Prüffällen zuzuordnen .
 
-Dokumentationsdatum auch als (Datei-) Erstellungs- und Einreichungsdatum und berücksichtigen Sie es  insbesondere entsprechend bei der Vergabe von Dateinamen. Dies ist wichtig, um bei der automatisierten  Verarbeitung der Prüfunterlagen die übermittelten Dateien den zugehörigen Prüffällen zuzuordnen .
+Glücklich/Müller 
 
-Glücklich/Müller
 
 ---
 
@@ -247,7 +229,7 @@ Glücklich/Müller
 
 - 1. **Anmelden als 1. Arzt mit BSNR 381234511 und LANR 555333922**
 
-| **BEHANDLUNGSFALL 1** | | | |
+| BEHANDLUNGSFALL 1 | | | |
 |---|---|---|---|
 | **Art der Fragestellung** | diagnostische Fragestellung | | |
 | **Leistungen (GOPs)** |  | | |
@@ -260,13 +242,12 @@ Glücklich/Müller
 | **Unterauftrag** | Nein | | |
 | **Dokumentationsdatum** | 01.04.2017 | | |
 
--
+Abrechnungsfalls (Satzart 0102 mit Scheinuntergruppe 27 oder 21) erfasst Überprüfung der korrekten Systemfunktionalität 1. Jahresstatistik 2017 QS Molekulargenetik für die BSNR 381234511 2. Screenshots zum Nachweis, dass alle Behandlungsfälle angelegt werden können und die Jahresstatistik immer nur für eine (Neben-) Betriebsstätte erstellt werden kann (P1-10 und P1-30) 11 Behandlungsfälle  nach Anlage eines jeweils entsprechenden -
 
-Abrechnungsfalls (Satzart 0102 mit Scheinuntergruppe 27 oder 21) erfasst Überprüfung der korrekten Systemfunktionalität 1. Jahresstatistik 2017 QS Molekulargenetik für die BSNR 381234511 2. Screenshots zum Nachweis, dass alle Behandlungsfälle angelegt werden können und die Jahresstatistik immer nur für eine (Neben-) Betriebsstätte erstellt werden kann (P1-10 und P1-30) 11 Behandlungsfälle  nach Anlage eines jeweils entsprechenden
 
 ---
 
-| **BEHANDLUNGSFALL 2** | | | |
+| BEHANDLUNGSFALL 2 | | | |
 |---|---|---|---|
 | **Art der Fragestellung** | prädiktive Fragestellung | | |
 | **Leistungen (GOPs)** |  | | |
@@ -279,7 +260,7 @@ Abrechnungsfalls (Satzart 0102 mit Scheinuntergruppe 27 oder 21) erfasst Überpr
 | **Unterauftrag** | Nein | | |
 | **Dokumentationsdatum** | 30.06.2017 | | |
 
-| **BEHANDLUNGSFALL 3** | | | |
+| BEHANDLUNGSFALL 3 | | | |
 |---|---|---|---|
 | **Art der Fragestellung** | vorgeburtliche Fragestellung | | |
 | **Leistungen (GOPs)** |  | | |
@@ -291,12 +272,9 @@ Abrechnungsfalls (Satzart 0102 mit Scheinuntergruppe 27 oder 21) erfasst Überpr
 | **Unterauftrag** | Ja | | |
 | **Dokumentationsdatum** | 30.06.2017 | | |
 
--Molekulargenetik /
-
-
 ---
 
-| **BEHANDLUNGSFALL 4** | | | |
+| BEHANDLUNGSFALL 4 | | | |
 |---|---|---|---|
 | **Art der Fragestellung** | diagnostische Fragestellung | | |
 | **Leistungen (GOPs)** |  | | |
@@ -310,7 +288,7 @@ Abrechnungsfalls (Satzart 0102 mit Scheinuntergruppe 27 oder 21) erfasst Überpr
 | **Unterauftrag** | Ja | | |
 | **Dokumentationsdatum** | 30.06.2017 | | |
 
-| **BEHANDLUNGSFALL 5** | | | |
+| BEHANDLUNGSFALL 5 | | | |
 |---|---|---|---|
 | **Art der Fragestellung** | diagnostische Fragestellung | | |
 | **Leistungen (GOPs)** |  | | |
@@ -324,14 +302,11 @@ Abrechnungsfalls (Satzart 0102 mit Scheinuntergruppe 27 oder 21) erfasst Überpr
 | **Unterauftrag** | Ja | | |
 | **Dokumentationsdatum** | 30.09.2017 | | |
 
--Molekulargenet
-
-
 ---
 
 - 2. **Anmelden als 2. Arzt mit BSNR 381234511 und LANR 112354648**
 
-| **BEHANDLUNGSFALL 6** | | | |
+| BEHANDLUNGSFALL 6 | | | |
 |---|---|---|---|
 | **Art der Fragestellung** | vorgeburtliche Fragestellung | | |
 | **Leistungen (GOPs)** |  | | |
@@ -344,7 +319,7 @@ Abrechnungsfalls (Satzart 0102 mit Scheinuntergruppe 27 oder 21) erfasst Überpr
 | **Unterauftrag** | Ja | | |
 | **Dokumentationsdatum** | 30.09.2017 | | |
 
-| **BEHANDLUNGSFALL 7** | | | |
+| BEHANDLUNGSFALL 7 | | | |
 |---|---|---|---|
 | **Art der Fragestellung** | prädiktive Fragestellung | | |
 | **Leistungen (GOPs)** |  | | |
@@ -357,14 +332,13 @@ Abrechnungsfalls (Satzart 0102 mit Scheinuntergruppe 27 oder 21) erfasst Überpr
 | **Unterauftrag** | Ja | | |
 | **Dokumentationsdatum** | 30.06.2017 | | |
 
--Molekulargenetik /
-
+```
 -
-
+```
 
 ---
 
-| **BEHANDLUNGSFALL 8** | | | |
+| BEHANDLUNGSFALL 8 | | | |
 |---|---|---|---|
 | **Art der Fragestellung** | prädiktive Fragestellung | | |
 | **Leistungen (GOPs)** |  | | |
@@ -379,7 +353,7 @@ Abrechnungsfalls (Satzart 0102 mit Scheinuntergruppe 27 oder 21) erfasst Überpr
 | **Unterauftrag** | Ja | | |
 | **Dokumentationsdatum** | 31.12.2017 | | |
 
-| **BEHANDLUNGSFALL 9** | | | |
+| BEHANDLUNGSFALL 9 | | | |
 |---|---|---|---|
 | **Art der Fragestellung** | diagnostische Fragestellung | | |
 | **Leistungen (GOPs)** |  | | |
@@ -392,12 +366,9 @@ Abrechnungsfalls (Satzart 0102 mit Scheinuntergruppe 27 oder 21) erfasst Überpr
 | **Unterauftrag** | Nein | | |
 | **Dokumentationsdatum** | 31.12.2017 | | |
 
--Molekulargenet
-
-
 ---
 
-| **BEHANDLUNGSFALL 10** | | | |
+| BEHANDLUNGSFALL 10 | | | |
 |---|---|---|---|
 | **Art der Fragestellung** | vorgeburtliche Fragestellung | | |
 | **Leistungen (GOPs)** |  | | |
@@ -410,7 +381,7 @@ Abrechnungsfalls (Satzart 0102 mit Scheinuntergruppe 27 oder 21) erfasst Überpr
 
 - 3. **Anmelden als 2. Arzt mit NBSNR 987654321 und LANR 112354648**
 
-| **BEHANDLUNGSFALL 11** | | | |
+| BEHANDLUNGSFALL 11 | | | |
 |---|---|---|---|
 | **Art der Fragestellung** | diagnostische Fragestellung | | |
 | **Leistungen (GOPs)** |  | | |
@@ -425,7 +396,7 @@ Abrechnungsfalls (Satzart 0102 mit Scheinuntergruppe 27 oder 21) erfasst Überpr
 
 Anzahl der erteilten Ringversuchs-Zertifikate im ganzen Jahr, unterschieden nach der Art der  ringversuchspflichtigen Untersuchung sowie Anzahl der jeweiligen Untersuchungen
 
-| **ERGEBNISSE DER EXTERNEN QUALITÄTSSICHERU** | | |
+| ERGEBNISSE DER EXTERNEN QUALITÄTSSICHERU | | |
 |---|---|---|
 | **Ringversuchspflichtige Untersuchung** | **Teilnahmehäufigkeit** | **Anzahl Zertifikate** |
 | **CFTR** | 1 | 1 |
@@ -435,11 +406,12 @@ Anzahl der erteilten Ringversuchs-Zertifikate im ganzen Jahr, unterschieden nach
 
 - 4. **Erstellung der Jahresstatistik 2017 für die BSNR 381234511**
 
+```
 -
+```
 
--
+NG GEMÄß § 5 NR. 2 -
 
-NG GEMÄß § 5 NR. 2
 
 ---
 
@@ -455,11 +427,10 @@ NG GEMÄß § 5 NR. 2
 
 Aktionen, die durch den Antragsteller durchgeführt werden:
 
-- 1. Änderung der in Prüffall 1 erstellten Jahresstatistik gemäß Anhang 4.1 (Videomitschnitt, in dem auch  erkennbar ist, dass dem Anwender die bereits exportierten Datensätze von der Software kenntlich  gemacht werden).
-
+- 1. Änderung der in Prüffall 1 erstellten Jahresstatistik gemäß  erkennbar ist, dass dem Anwender die bereits exportierten Datensätze von der Software kenntlich  gemacht werden).
 - 2. Bearbeitung der Fehlerkonstellationen, bei denen die feh speichern sein müssen.
 
-| **8 FEHLERKONSTELLATIO** | | | |
+| 8 FEHLERKONSTELLATIO | | | |
 |---|---|---|---|
 | **Konstellation 1** | | | |
 | **1** | | | |
@@ -471,9 +442,9 @@ Aktionen, die durch den Antragsteller durchgeführt werden:
 |  |  | **davon unauffällige** | keine Angabe |
 |  |  | **davon nicht beurteilbare** | keine Angabe |
 
-- lerhaften / unvollständigen Daten trotzdem zu
+- Anhang 4.1 (Videomitschnitt, in dem auch
+1. Überprüfung der korrekten Umsetzung von P1-300, P1-400 und P1-500 2. Überprüfung der korrekten Systemreaktion auf Fehlerfälle 1. Video von dem Änderungsvorgang der Jahresstatistik 2. Bei softwareseitiger Erkennung der Fehler: Screenshots der Warnhinweise 3. Korrekturlieferung der Jahresstatistik 2017 QS Molekulargenetik 0.06.2018  NEN EBM-Unterabschnitt 11.4.2 diagnostischer Fragestellung Endbefunde Endbefunde Endbefunde - lerhaften / unvollständigen Daten trotzdem zu
 
-1. Überprüfung der korrekten Umsetzung von P1-300, P1-400 und P1-500 2. Überprüfung der korrekten Systemreaktion auf Fehlerfälle 1. Video von dem Änderungsvorgang der Jahresstatistik 2. Bei softwareseitiger Erkennung der Fehler: Screenshots der Warnhinweise 3. Korrekturlieferung der Jahresstatistik 2017 QS Molekulargenetik 0.06.2018  NEN EBM-Unterabschnitt 11.4.2 diagnostischer Fragestellung Endbefunde Endbefunde Endbefunde
 
 ---
 
@@ -500,7 +471,8 @@ Aktionen, die durch den Antragsteller durchgeführt werden:
 |  |  | **davon unauffällige** | 500 |
 |  |  | **davon nicht beurteilbare** | 0 |
 
-Fragestellung vorgeburtlicher Fragestellung diagnostischer Fragestellung Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde
+Fragestellung vorgeburtlicher Fragestellung diagnostischer Fragestellung Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde 
+
 
 ---
 
@@ -525,7 +497,8 @@ Fragestellung vorgeburtlicher Fragestellung diagnostischer Fragestellung Endbefu
 | **10 Ergebnisse der externen Qualitätssicherung gemäß § 5 Nr. 2** | | | |
 | **Gesamtanzahl der Zertifikate** | 4 |  | |
 
-Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde
+Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde 
+
 
 ---
 
@@ -542,10 +515,9 @@ Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde End
 
 - 3. **Erstellung der Korrekturlieferung der Jahresstatistik 2017 QS Molekulargenetik mit den Angaben der**  **Tabelle 1 und Änderungen entsprechend Konstellation 8**
 
-
 ---
 
-| **JAHRESSTATISTIK** | | | |
+| JAHRESSTATISTIK | | | |
 |---|---|---|---|
 | **1** | | | |
 | **Gesamtzahl der Behandlungsfälle** | keine Angabe |  | |
@@ -601,11 +573,12 @@ Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde End
 | **Quotient** | **Anzahl GOPs bei** | **Anzahl Behandlungsfälle** | **Quotient** |
 |  | 1 | 1 | 1,00 |
 
-(unauffällig) Behandlungsfällen mit unauffälligem mit unauffälligem Endbefund Endbefund
+(unauffällig) Behandlungsfällen mit unauffälligem mit unauffälligem Endbefund Endbefund 
+
 
 ---
 
-\| **SZENARIEN** |
+\| SZENARIEN |
 \|---|
 \| **Szenario 1** |
 \| Zeigen Sie mittels eines Screenshots, dass eine Korrektur/Änderung der in den Prüffällen 1 und 2 erstellten  Weisen Sie auch per Screenshot oder als PDF-Dokument nach, dass die Jahresstatistik ausgedruckt werden |
@@ -641,7 +614,8 @@ Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde End
 \| **Szenario 4** |
 \| Erstellen Sie einen Behandlungsfall, bei dem kein Endbefund dokumentiert wurde. Weisen Sie per |
 
-Screenshot nach, dass bei der Erstellung der Jahresstatistik der Benutzer darauf hingewiesen wird, dass noch ein Behandlungsfall ohne Endbefund vorliegt (P1-220).
+Screenshot nach, dass bei der Erstellung der Jahresstatistik der Benutzer darauf hingewiesen wird, dass noch ein Behandlungsfall ohne Endbefund vorliegt (P1-220). 
+
 
 ---
 
@@ -649,11 +623,7 @@ Screenshot nach, dass bei der Erstellung der Jahresstatistik der Benutzer darauf
 
 Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können  auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden.
 
-Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine
-
-manuelle Prüfung der eingereichten Unterlagen durch das Referat Zertifizierung findet nicht statt,  demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der
-
-Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das ZIP-Archiv mit den Prüfunterlagen  hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
+Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch das Referat Zertifizierung findet nicht statt,  demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das ZIP-Archiv mit den Prüfunterlagen  hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
 
 Abbildung 2: Testdatenvalidierung
 
@@ -661,10 +631,9 @@ Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives.
 
 Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
-
 ---
 
-| **ANGABEN FÜR DIE JAHR ESSTATISTIK FÜR PRÜF** | | | |
+| ANGABEN FÜR DIE JAHR ESSTATISTIK FÜR PRÜF | | | |
 |---|---|---|---|
 | **1** | | | |
 | Gesamtzahl der Behandlungsfälle nach | 1500 |  | |
@@ -855,6 +824,4 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
-
--Schnittstellen  - Austausch von XML-Daten in der vertragsärztlichen Versorgung Qualitätssicherungsvereinbarung Molekulargenetik
+-Schnittstellen  - Austausch von XML-Daten in der vertragsärztlichen Versorgung Qualitätssicherungsvereinbarung Molekulargenetik Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)

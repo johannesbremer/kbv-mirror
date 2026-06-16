@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**07. JUNI 2026**
+**16. JUNI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -13,7 +13,7 @@
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -30,7 +30,7 @@
 |---|---|---|---|---|
 |  | Y/400/2409/37/754 | 30.09.2027 | Rohdaten MMI |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 07. Juni 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 16. Juni 2026
 
 Y/400/2504/36/062
 
@@ -49,7 +49,7 @@ Arztpraxis Wiegand APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH Dra
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -78,13 +78,9 @@ Y/400/2307/36/226
 
 Y/400/2602/35/346
 
-MMI PHARMINDEX 31.12.2028 ifap praxisCENTER
+MMI PHARMINDEX 31.12.2028 ifap praxisCENTER 30.09.2028 ifap praxisCENTER
 
-30.09.2028 ifap praxisCENTER
-
-ifap praxisCENTER 30.06.2026 Rohdaten ID PHARMA
-
-31.12.2028 Rohdaten MMI
+ifap praxisCENTER 30.06.2026 Rohdaten ID PHARMA 31.12.2028 Rohdaten MMI
 
 Windows
 
@@ -97,7 +93,7 @@ Windows
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -127,7 +123,7 @@ ALBIS CompuGroup Medical Deutschland AG Maria Trost 21 56070 Koblenz Internet: w
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -149,7 +145,7 @@ CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG Karl-Wiechert-Allee 64 
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -176,12 +172,12 @@ ifap praxisCENTER 31.03.2028 Rohdaten MMI
 
 Windows
 
-InterMediNet KVDT DBI Informatik, Dirk Blume Tieberg 7 31191 Algermissen Internet: www.dbi-informatik.de ORBIS® Dedalus HealthCare GmbH Konrad-Zuse-Platz 1 -3 53227 Bonn Internet: www.dedalusgroup.com Windows WindowsWindows
+InterMediNet DBI Informatik, Dirk Blume Tieberg 7 31191 Algermissen Internet: www.dbi-informatik.de ORBIS® Dedalus HealthCare GmbH Konrad-Zuse-Platz 1 -3 53227 Bonn Internet: www.dedalusgroup.com Windows WindowsWindows
 
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -215,7 +211,7 @@ Doctolib Praxis Doctolib GmbH Mehringdamm 51 10961 Berlin Internet: https://www.
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -249,7 +245,7 @@ PsychoDat ergosoft GmbH Bahnhofstraße 11 c 67159 Friedelsheim Internet: www.erg
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -283,7 +279,7 @@ theHub Fresenius Medical Care Deutschland GmbH Else-Kröner-Str. 3 61352 Bad Hom
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -317,7 +313,7 @@ J-MED Haase, Dipl.-Ing. Silvia GbR Lindenstr. 21 21465 Reinbek Internet: www.j-m
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -328,7 +324,7 @@ J-MED Haase, Dipl.-Ing. Silvia GbR Lindenstr. 21 21465 Reinbek Internet: www.j-m
 
 **IFA-AUGENARZT**
 
-**ifa systems AG** Augustinusstraße 11b 50226 Frechen Internet: www.ifasystems.de
+**ifa systems AG** Fendter Straße 22 50226 Frechen Internet: www.ifasystems.de
 
 |  | Y/400/2401/36/451 | 31.12.2026 | Rohdaten ABDAMED |  |
 |---|---|---|---|---|
@@ -346,12 +342,12 @@ ifap praxisCENTER
 
 Windows
 
-ifa|NX-NEXT Generation AIS ifa systems AG Augustinusstraße 11b 50226 Frechen Internet: www.ifasystems.de IFU-KIS IFU OR GmbH Nürnberg Dorfäckerstr. 21 90427 Nürnberg Internet: ifu-kis.de Linux Mac OS Windows WindowsWindows
+ifa|NX-NEXT Generation AIS ifa systems AG Fendter Straße 22 50226 Frechen Internet: www.ifasystems.de IFU-KIS IFU OR GmbH Nürnberg Dorfäckerstr. 21 90427 Nürnberg Internet: ifu-kis.de Linux Mac OS WindowsWindows
 
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -381,7 +377,7 @@ InterARZT InterData Praxiscomputer GmbH Alte Bahnhofstraße 50-52 48268 Greven I
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -411,7 +407,7 @@ medatixx medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.meda
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -431,7 +427,7 @@ Praxis-Programm medisoftware GmbH & Co. KG Steinstraße 1 24118 Kiel Internet: w
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -453,7 +449,7 @@ MEDYS MEDYS GmbH Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de M-KIS 
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -484,9 +480,7 @@ Y/400/2507/36/494 30.09.2028 Rohdaten ABDAMED
 
 30.06.2029 Rohdaten MMI
 
-Rohdaten ABDAMED 31.12.2028 MMI PHARMINDEX
-
-30.06.2028 MMI PHARMINDEX
+Rohdaten ABDAMED 31.12.2028 MMI PHARMINDEX 30.06.2028 MMI PHARMINDEX
 
 Windows
 
@@ -499,7 +493,7 @@ Windows
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -529,7 +523,7 @@ MEDOS NEXUS / CHILI GmbH Friedrich-Ebert-Str. 2 69221 Dossenheim Internet: https
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -563,7 +557,7 @@ Verordnungssoftware MediSuite Paul Albrechts Verlag GmbH Hamburger Straße 6 229
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -597,7 +591,7 @@ RED medical classic RED Medical Systems GmbH Lutzstraße 2 80687 München Intern
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -631,7 +625,7 @@ SAP Ambulatory Care Management SAP SE Dietmar-Hopp-Allee 16 69190 Walldorf Inter
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -677,7 +671,7 @@ Medi10 UfP Systemhaus GmbH Heinz-Fangman-Str. 4 42287 Wuppertal Internet: www.uf
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -690,7 +684,7 @@ Medi10 UfP Systemhaus GmbH Heinz-Fangman-Str. 4 42287 Wuppertal Internet: www.uf
 |---|---|---|---|---|
 |  | Y/400/2510/36/768 | 30.09.2028 | Rohdaten MMI |  |
 
-Seite 22 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 07. Juni 2026
+Seite 22 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 16. Juni 2026
 
 Y/400/2401/36/672 31.12.2026 Rohdaten MMI
 

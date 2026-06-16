@@ -12,13 +12,7 @@
 
 **Es** **sollen** **ggf.** **Angaben**
 
-**Aktuelle** **Beschwerden,**
-
-**sondere unter Berücksichtigung des Entwicklungsstandes), relevante anamnestische Daten im Zusammenhang mit** **den** **aktuellen** **Beschwerden,**
-
-**Parallelbehandlungen** **stat./amb.**
-
-**gleitbehandlung** **und/oder**
+**Aktuelle** **Beschwerden,**  **sondere unter Berücksichtigung des Entwicklungsstandes), relevante anamnestische Daten im Zusammenhang mit** **den** **aktuellen** **Beschwerden,** **Parallelbehandlungen** **stat./amb.** **gleitbehandlung** **und/oder**
 
 **22**
 
@@ -38,39 +32,25 @@
 
 **Betriebsstättennummer**
 
-**zu** **folgenden** **Inhalten** **gemacht** **werden:**
+**zu** **folgenden** **Inhalten** **gemacht** **werden:** **Angaben** **zum** **psychischen** **und** **somatischen** **Befund** **(bei** **Kindern** **und** **Jugendlichen** **insbe-**
 
-**Angaben** **zum** **psychischen** **und** **somatischen** **Befund** **(bei** **Kindern** **und** **Jugendlichen** **insbe-**
+**medizinische** **Diagnosen,** **Differenzial-** **und** **Verdachtsdiagnosen,** **relevante** **Vor-** **und** **(z.B.** **laufende** **Medikation),** **ggf.** **Befunde,** **die** **eine** **ärztliche/ärztlich** **veranlasste** **Be-** **psychiatrische** **bzw.** **kinder-** **und jugendpsychiatrische** **Untersuchung** **erforderlich** **machen:**
 
-**medizinische** **Diagnosen,** **Differenzial-** **und** **Verdachtsdiagnosen,** **relevante** **Vor-** **und**
-
-**(z.B.** **laufende** **Medikation),** **ggf.** **Befunde,** **die** **eine** **ärztliche/ärztlich** **veranlasste** **Be-**
-
-**psychiatrische** **bzw.** **kinder-** **undjugendpsychiatrische** **Untersuchung** **erforderlich** **machen:**
-
-**Psychiatrische** **bzw.** **kinder-** **und**
-
-**jugendpsychiatrische** **Abklärung** **ist**
+**Psychiatrische** **bzw.** **kinder-** **und** **jugendpsychiatrische** **Abklärung** **ist**
 
 **erforderlich**
 
 **Sind** **ärztliche/ärztlich** **veranlasste** **Maßnahmen** **bzw.** **Untersuchungen**
 
-**Aufgrund** **somatischer/psychiatrischer** **Befunde** **bestehen**
+**Aufgrund** **somatischer/psychiatrischer** **Befunde** **bestehen** **indikationen** **für** **eine** **psychotherapeutische** **Behandlung**
 
-**indikationen** **für** **eine** **psychotherapeutische** **Behandlung**
-
-**Ärztliche** **Mitbehandlung** **ist** **erforderlich**
-
-**Art der Maßnahme:**
+**Ärztliche** **Mitbehandlung** **ist** **erforderlich** **Art der Maßnahme:**
 
 **nicht erforderlich**
 
 **notwendig** **bzw.**
 
-**derzeit** **Kontra-**
-
-**(Begründung** **s.** **o.)**
+**derzeit** **Kontra-** **(Begründung** **s.** **o.)**
 
 **erfolgt**
 

@@ -30,7 +30,7 @@
 
 343 **SAP Ambulatory Care Management**
 
-498 **T 2med**
+498 **T2med**
 
 **Anbieter**
 
@@ -106,7 +106,7 @@ SAP SE 115
 
 -2
 
-T 2med GmbH & Co. KG 108
+T2med GmbH & Co. KG 108
 
 108
 
@@ -161,9 +161,9 @@ medatixx GmbH & Co. KG 44
 
 1
 
-261 **S 3-Win**
+261 **S3-Win**
 
-S 3 Praxiscomputer GmbH / Maximilian Flender 35 38
+S3 Praxiscomputer GmbH / Maximilian Flender 35 38
 
 -3
 

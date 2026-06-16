@@ -1,14 +1,10 @@
 **Freigabe 05.11.2014**
 
-Krankenkasse bzw. Kostenträger
-
-Gebühr
+Krankenkasse bzw. Kostenträger Gebühr
 
 pfl.
 
-Name, Vorname des Versicherten
-
-Gebühr frei
+Name, Vorname des Versicherten Gebühr frei
 
 Unfall/ Unfall- folgen
 
@@ -87,9 +83,7 @@ Kurarztstempel / Unterschrift des Kurarztes (1.2015)
 
 ---
 
-Bitte immer unmittelbar nach der Abgabe Ihrer Leistungen durch Unterschrift quittieren lassen! **Empfangsbestätigung durch den Versicherten**
-
-Ich bestätige, die im Folgenden aufgeführten Behandlungen erhalten zu haben.
+Bitte immer unmittelbar nach der Abgabe Ihrer Leistungen durch Unterschrift quittieren lassen! **Empfangsbestätigung durch den Versicherten** Ich bestätige, die im Folgenden aufgeführten Behandlungen erhalten zu haben.
 
 Datum
 

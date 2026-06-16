@@ -1,68 +1,54 @@
-Name, Vorname des Versicherten
+### Antrag des Versicherten auf außerklinische Intensivpflege (Nicht auszufüllen bei Vorabinformation aus Krankenhaus)
 
-### Antrag des Versicherten auf außerklinische Intensivpflege
+### Angaben des Leistungserbringers nach § 132l Abs. 5 SGB V (Nicht auszufüllen bei Vorabinformation aus Krankenhaus)
 
 Ich beantrage außerklinische Intensivpflege für die Zeit vom
 
-in meinem Haushalt
-
-in einer vollstationären
-
-Pflegeeinrichtung
-
-Leistungsort
-
-Name des Leistungortes
-
-Kostenträgerkennung
-
-im Haushalt einer sonstigen Person
-
-in einer Schule, Kindergarten
-
-in einer betreuten Wohnform
-
-Straße, Haus-Nr
-
-PLZ Ort
-
-Wird von den An- und Zugehörigen im Verordnungszeitraum die Übernahme von Leistungen angestrebt?
-
-Ja, es wird die Übernahme folgender Maßnahmen der außerklinischen Intensivpflege  durch An- und Zugehörige angestrebt:
-
-Nein, es wird keine Übernahme von Maßnahmen der außerklinischen Intensivpflege  durch An- und Zugehörige angestrebt.
-
-An der Versorgung beteiligte An- und Zugehörige
-
-Name
-
-Straße, Haus-Nr
-
-PLZ Ort
+bis
 
 Bevollmächtige/r bzw. Betreuer/in
 
-Name
+Ja, es wird die Übernahme folgender Maßnahmen der außerklinischen Intensivpflege  durch An- und Zugehörige angestrebt:
 
-Straße, Haus-Nr
+Wird von den An- und Zugehörigen im Verordnungszeitraum die Übernahme von Leistungen angestrebt?
 
-PLZ Ort
-
-Telefonnummer ***(freiwillige Angabe)***
-
-### Angaben des Leistungserbringers nach § 132l Abs. 5 SGB V
+Die außerklinische Intensivpflege wird durchgeführt von einem zugelassenen Leistungserbringer*** (§ 132l Abs. 5 SGB V)***
 
 Die außerklinische Intensivpflege wird täglich in der Zeit
 
-vom bis
+Nein, es wird keine Übernahme von Maßnahmen der außerklinischen Intensivpflege  durch An- und Zugehörige angestrebt.
 
-im Umfang von Stunden erbracht.
+Unterschrift des Versicherten
 
-Die außerklinische Intensivpflege wird durchgeführt von einem zugelassenen Leistungserbringer
+oder des gesetzlichen Vertreters
+
+Datum
+
+Datum
+
+PLZ Ort
+
+Straße, Haus-Nr
 
 Name
 
+Telefonnummer ***(freiwillige Angabe)***
+
+An der Versorgung beteiligte An- und Zugehörige
+
+PLZ Ort
+
 Straße, Haus-Nr
+
+Name
+
+Leistungsort
+
+PLZ Ort
+
+Straße, Haus-Nr
+
+Name des Leistungortes
 
 PLZ Ort
 
@@ -70,15 +56,33 @@ Institutionskennzeichen
 
 Ansprechpartner (Name)
 
+Straße, Haus-Nr
+
+Name
+
 Telefonnummer Fax-Nr.
 
 E-Mail-Adresse
 
+Stempel / Unterschrift des Leistungserbringers
+
+Name, Vorname des Versicherten
+
 Versicherten-Nr.
 
-***(Nicht auszufüllen bei Vorabinformation aus Krankenhaus)***
+Kostenträgerkennung
 
-bis
+in meinem Haushalt
+
+im Haushalt einer sonstigen Person
+
+in einer Schule, Kindergarten
+
+in einer vollstationären
+
+Pflegeeinrichtung
+
+in einer betreuten Wohnform
 
 in einer Werkstatt für
 
@@ -88,19 +92,9 @@ in einer Wohneinheit
 
 in einer sonstigen Einrichtung
 
-Datum
+vom bis
 
-Unterschrift des Versicherten
-
-oder des gesetzlichen Vertreters
-
-***(Nicht auszufüllen bei Vorabinformation aus Krankenhaus)***
-
-***(§ 132l Abs. 5 SGB V)***
-
-Datum
-
-Stempel / Unterschrift des Leistungserbringers
+im Umfang von Stunden erbracht.
 
 PRF.NR.
 

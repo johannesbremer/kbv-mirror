@@ -1,8 +1,8 @@
-### I. Klinischer Status
+**I.** **Klinischer Status**
 
-**III. Weitere Hinweise**
+### III. Weitere Hinweise
 
-**II. Erforderlicher Leistungsumfang der AKI**
+### II. Erforderlicher Leistungsumfang der AKI
 
 ## Verordnung außerklinischer Intensivpflege
 Verordnungsrelevante Diagnose(n) ***(ICD-10-Code)***
@@ -101,9 +101,7 @@ Sonstige Hinweise ***(z.B. zu Kommunikation, Mitwirkung, Mobilität, Ernährung)
 
 Konsilpartner bei nicht beatmungspflichtigen oder nicht trachealkanülierten Versicherten,
 
-wenn die Verordnung durch eine nicht auf die Erkrankung spezialisierte Fachärztin oder
-
-Facharzt erfolgt
+wenn die Verordnung durch eine nicht auf die Erkrankung spezialisierte Fachärztin oder  Facharzt erfolgt
 
 Weitere Erläuterungen
 
@@ -111,7 +109,7 @@ Erhebungen nach Muster 62A zum Zwecke der Therapieoptimierung und zur Verbesseru
 
 der Lebensqualität
 
-Innerhalb von mindestens zwei Jahren wurde zweimal in Folge im Rahmen einer unmittelbar persönlichen Erhebung fest- gestellt, dass keine Aussicht auf nachhaltige Besserung der zu Grunde liegenden Funktionsstörung besteht und eine  Entwöhnung oder Dekanülierung dauerhaft nicht möglich ist. Eine regelmäßige Erhebung des Beatmungsentwöhnungs-  bzw. Dekanülierungspotenzials ist nicht mehr angezeigt.
+Innerhalb von mindestens zwei Jahren wurde zweimal in Folge im Rahmen einer unmittelbar persönlichen Erhebung fest gestellt, dass keine Aussicht auf nachhaltige Besserung der zu Grunde liegenden Funktionsstörung besteht und eine  Entwöhnung oder Dekanülierung dauerhaft nicht möglich ist. Eine regelmäßige Erhebung des Beatmungsentwöhnungs-  bzw. Dekanülierungspotenzials ist nicht mehr angezeigt.
 
 invasiv
 

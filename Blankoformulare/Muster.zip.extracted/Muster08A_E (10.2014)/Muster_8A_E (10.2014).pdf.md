@@ -64,9 +64,7 @@
 
 **Belegnummer**
 
-**Unterschrift des Versicherten**
-
-**Erst-**
+**Unterschrift des Versicherten** **Erst-**
 
 **vergrößernden Sehhilfen**
 
@@ -102,15 +100,11 @@
 
 **Die Kosten werden übernommen**
 
-**Entscheidung der Krankenkasse in Höhe des geltenden Festbetrages**
-
-**Datum**
+**Entscheidung der Krankenkasse in Höhe des geltenden Festbetrages** **Datum**
 
 **Betrag Euro**
 
-**vergrößernde Sehhilfen**
-
-**Empfangsbestätigung**
+**vergrößernde Sehhilfen** **Empfangsbestätigung**
 
 **Datum**
 

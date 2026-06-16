@@ -4,11 +4,7 @@
 
 Berlin, 2024
 
-Version: 3.2.19
-
-Datum: 30.05.2024
-
-Status: In Kraft ab 01.07.2025
+Version: 3.2.19  Datum: 30.05.2024  Status: In Kraft ab 01.07.2025
 
 Kassenärztliche Bundesvereinigung
 
@@ -19,7 +15,7 @@ Dezernat Digitalisierung und IT  10623 Berlin, Herbert-Lewin-Platz 2
 
 **D** **O** **K** **U**
 
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 |  |  |  | Änderungen LDT 3.2.19 |  |  |
 | 3.2.19 | 30.05.2025 | KBV |  | Aktualisierung | Alle |
@@ -30,7 +26,7 @@ Dezernat Digitalisierung und IT  10623 Berlin, Herbert-Lewin-Platz 2
 
 ---
 
-|  | **Inhaltsverzeichnis** | |
+|  | Inhaltsverzeichnis | |
 |---|---|---|
 | **1.** | **USE CASE** | **1 – LABORAUFTRAG KAPITEL 32.2/32.3** |
 | **2.** | **USE CASE** | **2 – LABORAUFTRAG KAPITEL 32.2/32.3 UND IGEL** |
@@ -76,7 +72,8 @@ Dezernat Digitalisierung und IT  10623 Berlin, Herbert-Lewin-Platz 2
 
 **63**
 
-USE CASE 2 USE CASE 3 USE CASE 4 USE CASE 5 USE CASE 6 USE CASE 7 USE CASE 8 USE CASE 9 USE CASE 12 USE CASE 13 USE CASE 14 USE CASE 15 USE CASE 16 USE CASE 17  BEFUND KREBSFRÜHERKENNUNG ZERVIX-KARZINOM 65
+USE CASE 2 USE CASE 3 USE CASE 4 USE CASE 5 USE CASE 6 USE CASE 7 USE CASE 8 USE CASE 9 USE CASE 12 USE CASE 13 USE CASE 14 USE CASE 15 USE CASE 16 USE CASE 17 **65**
+
 
 ---
 
@@ -174,7 +171,7 @@ Z01_UseCase01_Auftrag_UseCase1_FA_LG.ldt
 
 ---
 
-| **IT in** | **der Arztpraxis** |
+| IT in | der Arztpraxis |
 |---|---|
 | LDT 3 |  |
 | LDT 3 | Use Cases, Version 3.2.19 Seite 6 von 66 |
@@ -277,71 +274,13 @@ Befund zusätzlich an Prof. Dr. med. Thomas Zusatzarzt per Fax (Faxnummer)
 
 **2.2. Muster LDT mit Beschreibung der Feldkennungen**
 
-**Feldlänge FK**
+**Feldlänge FK**  013 8000  018 8132  017 8002  017 0001  025 8151  017 8002  019 8315  019 8316  025 0105  019 0103  018 0132  017 8003 039 8218
 
-013 8000
+017 8002  017 7278
 
-018 8132
+018 7279  014 7273  029 8235  017 8002  011 7420  019 3101  014 3102  017 3104  017 8003  017 8003  017 8003  010 7265  032 8122  017 8002  010 7321  013 8312
 
-017 8002
-
-017 0001
-
-025 8151
-
-017 8002
-
-019 8315
-
-019 8316
-
-025 0105
-
-019 0103
-
-018 0132
-
-017 8003
-
-039 8218
-
-017 8002
-
-017 7278
-
-018 7279
-
-014 7273
-
-029 8235
-
-017 8002
-
-011 7420
-
-019 3101
-
-014 3102
-
-017 3104
-
-017 8003
-
-017 8003
-
-017 8003
-
-010 7265
-
-032 8122
-
-017 8002
-
-010 7321
-
-013 8312
-
-**Feldinhalt**  8230  Kopfdaten  Obj_0032  LDT 3.2.19  Sendendes_System  Obj_0051  Labor27/12  Arzt123456  a/nn/JJMM/MM/aaa  Muster PVS  8.12.0.95  Obj_0051  Timestamp_Erstellung _Daten- satz  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Person_zum_Timestamp  Obj_0047  02  Musterarzt  Klaus  Dr. med.  Obj_0047  Obj_0054  Obj_0032  1  Einsenderidentifikation  Obj_0022  01  4711
+**Feldinhalt**  8230  Kopfdaten  Obj_0032  LDT3.2.19  Sendendes_System  Obj_0051  Labor27/12  Arzt123456  a/nn/JJMM/MM/aaa  Muster PVS  8.12.0.95  Obj_0051  Timestamp_Erstellung _Daten- satz  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Person_zum_Timestamp  Obj_0047  02  Musterarzt  Klaus  Dr. med.  Obj_0047  Obj_0054  Obj_0032  1  Einsenderidentifikation  Obj_0022  01  4711
 
 **Beschreibung**  Satzart  Objektattribut  ObjektIdent  Version der Datensatzbeschreibung  Objektattribut  ObjektIdent  ID des Empfängers  ID des Senders  KBV-Prüfnummer  Software/Name der Software  Version/Releasestand der Software  Objektende
 
@@ -354,63 +293,11 @@ Titel  Objektende  Objektende  Objektende  Absender des Datensatzes  Objektattri
 
 ---
 
-027 8114
+027 8114  017 8002  015 8147  017 8002  011 7420  019 3101  014 3102  017 3104  012 8990 043 8233
 
-017 8002
+017 8002  030 7330  030 7331  030 7333  030 7335  026 7334  017 8003  017 8003  018 0212  017 8003  024 8119  017 8002  010 0204  010 0204  030 0203 018 0201
 
-015 8147
-
-017 8002
-
-011 7420
-
-019 3101
-
-014 3102
-
-017 3104
-
-012 8990
-
-043 8233
-
-017 8002
-
-030 7330
-
-030 7331
-
-030 7333
-
-030 7335
-
-026 7334
-
-017 8003
-
-017 8003
-
-018 0212
-
-017 8003
-
-024 8119
-
-017 8002
-
-010 0204
-
-010 0204
-
-030 0203
-
-018 0201
-
-021 8143
-
-017 8002
-
-030 1250
+021 8143  017 8002  030 1250
 
 032 8229
 
@@ -432,29 +319,7 @@ Titel  Objektende  Objektende  Objektende  Absender des Datensatzes  Objektattri
 
 028 8131
 
-017 8002
-
-030 7330
-
-030 7331
-
-030 7333
-
-030 7335
-
-026 7334
-
-017 8003
-
-017 8003
-
-017 8003
-
-017 8003
-
-013 8001
-
-013 8000
+017 8002  030 7330  030 7331  030 7333  030 7335  026 7334  017 8003  017 8003  017 8003  017 8003  013 8001  013 8000
 
 Arztidentifikation  Obj_0014
 
@@ -529,61 +394,7 @@ ObjektIdent  Telefonnummer  Mobiltelefonnummer  Faxnummer  E-Mailadresse  Webadr
 
 ---
 
-016 8145
-
-017 8002
-
-015 8147
-
-017 8002
-
-011 7420
-
-013 3100
-
-012 3120
-
-022 3101
-
-013 3102
-
-017 3103
-
-017 3104
-
-010 3110
-
-022 8228
-
-017 8002
-
-014 3112
-
-018 3113
-
-026 3107
-
-014 3109
-
-022 3115
-
-010 3114
-
-017 8003
-
-017 8003
-
-019 3119
-
-023 3000
-
-017 8003
-
-028 8169
-
-017 8002
-
-012 3622
+016 8145  017 8002  015 8147  017 8002  011 7420  013 3100  012 3120  022 3101  013 3102  017 3103  017 3104  010 3110  022 8228  017 8002  014 3112  018 3113  026 3107  014 3109  022 3115  010 3114  017 8003  017 8003  019 3119  023 3000  017 8003  028 8169  017 8002 012 3622
 
 011 8421
 
@@ -603,37 +414,7 @@ ObjektIdent  Telefonnummer  Mobiltelefonnummer  Faxnummer  E-Mailadresse  Webadr
 
 011 8421
 
-026 8225
-
-017 8002
-
-017 7278
-
-018 7279
-
-014 7273
-
-017 8003
-
-017 8003
-
-028 8113
-
-017 8002
-
-020 8310
-
-020 8311
-
-010 8611
-
-015 8147
-
-017 8002
-
-011 7420
-
-019 3101
+026 8225  017 8002  017 7278  018 7279  014 7273  017 8003  017 8003  028 8113  017 8002  020 8310  020 8311  010 8611  015 8147  017 8002  011 7420  019 3101
 
 Patient  Obj_0045  Person  Obj_0047  12
 
@@ -657,9 +438,7 @@ Obj_0054 98.6
 
 kg
 
-Timestamp_Messung  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  Obj_0069  Auftragsinformation
-
-Obj_0013  47112345678  47112345678 2  Person  Obj_0047
+Timestamp_Messung  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  Obj_0069  Auftragsinformation   Obj_0013  47112345678  47112345678 2  Person  Obj_0047
 
 10  Zusatzarzt
 
@@ -692,37 +471,13 @@ Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzon
 
 ---
 
-015 3102
-
-023 3104
+015 3102  023 3104
 
 042 8233
 
-017 8002
+017 8002  030 7333  017 8003  017 8003 054 8213
 
-030 7333
-
-017 8003
-
-017 8003
-
-054 8213
-
-017 8002
-
-017 7278
-
-018 7279
-
-014 7273
-
-017 8003
-
-017 8003
-
-027 8127
-
-017 8002
+017 8002  017 7278  018 7279  014 7273  017 8003  017 8003  027 8127  017 8002  010 7303  021 8200  017 8002  014 6001  010 6003  010 6004 017 8003
 
 010 7303
 
@@ -732,35 +487,7 @@ Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzon
 
 014 6001
 
-010 6003
-
-010 6004
-
-017 8003
-
-010 7303
-
-021 8200
-
-017 8002
-
-014 6001
-
-010 6003
-
-010 6004
-
-017 8003
-
-017 8003
-
-031 8101
-
-017 8002
-
-023 8102
-
-017 8002
+010 6003  010 6004  017 8003  017 8003  031 8101  017 8002  023 8102 017 8002
 
 011 4239
 
@@ -846,9 +573,7 @@ ObjektIdent  Faxnummer  Objektende  Objektende
 
 Objektattribut
 
-ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Objektende  Objektattribut  ObjektIdent  Abrechnungsinfo zur Untersuchung
-
-Objektattribut  ObjektIdent  ICD Code  Diagnosesicherheit  Lokalisation
+ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Objektende  Objektattribut  ObjektIdent  Abrechnungsinfo zur Untersuchung  Objektattribut  ObjektIdent  ICD Code  Diagnosesicherheit  Lokalisation
 
 Objektende
 
@@ -933,65 +658,7 @@ Abrechnungs-VKNR
 
 017 8002
 
-011 7420
-
-013 3100
-
-012 3120
-
-022 3101
-
-013 3102
-
-017 3104
-
-010 3110
-
-027 8230
-
-017 8002
-
-014 3121
-
-020 3122
-
-013 3123
-
-010 3124
-
-009 1202
-
-017 8003
-
-036 8232
-
-017 8002
-
-030 7330
-
-017 8003
-
-017 8003
-
-017 8003
-
-017 8003
-
-017 8003
-
-017 8003
-
-017 8137
-
-017 8002
-
-019 7364
-
-011 8429
-
-011 8428
-
-014 8430
+011 7420  013 3100  012 3120  022 3101  013 3102  017 3104  010 3110  027 8230  017 8002  014 3121  020 3122  013 3123  010 3124  009 1202  017 8003  036 8232  017 8002  030 7330  017 8003  017 8003  017 8003  017 8003  017 8003  017 8003  017 8137  017 8002  019 7364  011 8429  011 8428 014 8430
 
 017 8431
 
@@ -1035,9 +702,7 @@ Graf
 
 von  Musterpatient  Karl  Dr. med.
 
-M  Rechnungsanschrift
-
-Obj_0007  23456  Musterstadt  1234
+M  Rechnungsanschrift  Obj_0007  23456  Musterstadt  1234
 
 D
 
@@ -1091,11 +756,7 @@ Status Person  Namenszusatz
 
 Vorsatzwort  Nachname  Vorname
 
-Titel  Geschlecht  Objektattribut  ObjektIdent  PostfachPLZ  Postfach Ort / Stadt  Postfach  Postfach Wohnsitzländercode  Adresstyp  Objektende
-
-daten Objektattribut  ObjektIdent
-
-Telefonnummer  Objektende  Objektende  Objektende  Objektende
+Titel  Geschlecht  Objektattribut  ObjektIdent  PostfachPLZ  Postfach Ort / Stadt  Postfach  Postfach Wohnsitzländercode  Adresstyp  Objektende  daten Objektattribut  ObjektIdent  Telefonnummer  Objektende  Objektende  Objektende  Objektende
 
 Objektende  Objektende
 
@@ -1705,11 +1366,11 @@ Auf Grundlage des Kataloges „Katalog Labor Muster“, der unter www.musterla- 
 
 ### ZUSATZINFORMATIONEN:
 
-Zusätzlicher Befund an Prof. Dr. med. Thomas Zusatzarzt per E-Mail an zusatz-
+[Zusätzlicher Befund an Prof. Dr. med. Thomas Zusatzarzt per E-Mail an](mailto:zusatzarzt@mail.de)
 
-### [arzt@mail.de](mailto:arzt@mail.de)
+### [arzt@mail.de](mailto:zusatzarzt@mail.de)
 
-### Das Auftragsformular im Format PDF wird als base64-kodierte Anlage mit über- tragen.
+### [Das Auftragsformular im Format PDF wird als base64-kodierte Anlage mit über-](mailto:zusatzarzt@mail.de) tragen.
 
 ### Patient war in Afrika.
 
@@ -1717,12 +1378,12 @@ Zusätzlicher Befund an Prof. Dr. med. Thomas Zusatzarzt per E-Mail an zusatz-
 
 **3.2. Muster LDT mit Beschreibung der Feldkennungen**
 
-| **Feldlänge** | **FK** | **Feldinhalt** |
+| Feldlänge | FK | Feldinhalt |
 |---|---|---|
 | 013 | 8000 | 8230 |
 | 018 | 8132 | Kopfdaten |
 | 017 | 8002 | Obj_0032 |
-| 017 | 0001 | LDT 3.2.19 |
+| 017 | 0001 | LDT3.2.19 |
 | 025 | 8151 | Sendendes_System |
 | 017 | 8002 | Obj_0051 |
 | 019 | 8315 | Labor27/12 |
@@ -1751,7 +1412,13 @@ Zusätzlicher Befund an Prof. Dr. med. Thomas Zusatzarzt per E-Mail an zusatz-
 | 010 | 7321 | 01 |
 | 013 | 8312 | 4711 |
 
+```
+[](mailto:zusatzarzt@mail.de)
+```
+
 ### Leistungen an Patienten)
+
+### [zusatz-](mailto:zusatzarzt@mail.de)
 
 **Beschreibung**  Satzart  Objektattribut  ObjektIdent  Version der Datensatzbeschreibung  Objektattribut  ObjektIdent  ID des Empfängers  ID des Senders  KBV-Prüfnummer  Software/Name der Software  Version/Releasestand der Software  Objektende  Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektattribut  ObjektIdent  Status der Person  Nachname  Vorname
 
@@ -1760,63 +1427,11 @@ Titel  Objektende  Objektende  Objektende  Absender des Datensatzes  Objektattri
 
 ---
 
-027 8114
+027 8114  017 8002  015 8147  017 8002  011 7420  019 3101  014 3102  017 3104  012 8990 043 8233
 
-017 8002
+017 8002  030 7330  030 7331  030 7333  030 7335  026 7334  017 8003  017 8003  018 0212  017 8003  024 8119  017 8002  010 0204  010 0204  030 0203 018 0201
 
-015 8147
-
-017 8002
-
-011 7420
-
-019 3101
-
-014 3102
-
-017 3104
-
-012 8990
-
-043 8233
-
-017 8002
-
-030 7330
-
-030 7331
-
-030 7333
-
-030 7335
-
-026 7334
-
-017 8003
-
-017 8003
-
-018 0212
-
-017 8003
-
-024 8119
-
-017 8002
-
-010 0204
-
-010 0204
-
-030 0203
-
-018 0201
-
-021 8143
-
-017 8002
-
-030 1250
+021 8143  017 8002  030 1250
 
 032 8229
 
@@ -1838,29 +1453,7 @@ Titel  Objektende  Objektende  Objektende  Absender des Datensatzes  Objektattri
 
 028 8131
 
-017 8002
-
-030 7330
-
-030 7331
-
-030 7333
-
-030 7335
-
-026 7334
-
-017 8003
-
-017 8003
-
-017 8003
-
-017 8003
-
-013 8001
-
-013 8000
+017 8002  030 7330  030 7331  030 7333  030 7335  026 7334  017 8003  017 8003  017 8003  017 8003  013 8001  013 8000
 
 Arztidentifikation  Obj_0014  Person  Obj_0047  02  Musterarzt  Klaus  Dr. med.  KMu  Geschaeftliche _Kommunikationsda- ten  Obj_0031  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  [dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de)  www.musterarzt.de  Obj_0031  Obj_0047  991234567  Obj_0014  Betriebsstaette  Obj_0019  1  5  Praxis Dr. Musterarzt 123456789
 
@@ -1927,61 +1520,7 @@ ObjektIdent  Telefonnummer  Mobiltelefonnummer  Faxnummer  E-Mailadresse  Webadr
 
 ---
 
-016 8145
-
-017 8002
-
-015 8147
-
-017 8002
-
-011 7420
-
-013 3100
-
-012 3120
-
-022 3101
-
-013 3102
-
-017 3103
-
-017 3104
-
-010 3110
-
-022 8228
-
-017 8002
-
-014 3112
-
-018 3113
-
-026 3107
-
-014 3109
-
-022 3115
-
-010 3114
-
-017 8003
-
-017 8003
-
-019 3119
-
-023 3000
-
-017 8003
-
-028 8169
-
-017 8002
-
-012 3622
+016 8145  017 8002  015 8147  017 8002  011 7420  013 3100  012 3120  022 3101  013 3102  017 3103  017 3104  010 3110  022 8228  017 8002  014 3112  018 3113  026 3107  014 3109  022 3115  010 3114  017 8003  017 8003  019 3119  023 3000  017 8003  028 8169  017 8002 012 3622
 
 011 8421
 
@@ -2001,43 +1540,11 @@ ObjektIdent  Telefonnummer  Mobiltelefonnummer  Faxnummer  E-Mailadresse  Webadr
 
 011 8421
 
-026 8225
-
-017 8002
-
-017 7278
-
-018 7279
-
-014 7273
-
-017 8003
-
-017 8003
-
-028 8113
-
-017 8002
-
-020 8310
-
-020 8311
-
-010 8611
-
-015 8147
-
-017 8002
-
-011 7420
-
-019 3101
+026 8225  017 8002  017 7278  018 7279  014 7273  017 8003  017 8003  028 8113  017 8002  020 8310  020 8311  010 8611  015 8147  017 8002  011 7420  019 3101
 
 Patient  Obj_0045  Person  Obj_0047  12  Graf  von  Musterpatient  Karl  19600512  Dr. med.  M  Wohnanschrift  Obj_0007  23456  Musterort  Siegburger Straße  425 b
 
-3. Hinterhaus  D  Obj_0007  Obj_0047  S040464113  KAMUPA47112015  Obj_0045  Koerperkenngroessen
-
-Obj_0069 185
+3. Hinterhaus  D  Obj_0007  Obj_0047  S040464113  KAMUPA47112015  Obj_0045  Koerperkenngroessen   Obj_0069 185
 
 cm
 
@@ -2055,9 +1562,7 @@ Obj_0054 98.6
 
 kg
 
-Timestamp_Messung  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  Obj_0069  Auftragsinformation
-
-Obj_0013  47112345678  47112345678  3  Person  Obj_0047  10  Zusatzarzt
+Timestamp_Messung  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  Obj_0069  Auftragsinformation   Obj_0013  47112345678  47112345678  3  Person  Obj_0047  10  Zusatzarzt
 
 Objektattribut  ObjektIdent  Objektattribut  ObjektIdent  Status Person  Namenszusatz  Vorsatzwort  Nachname  Vorname  Geburtsdatum  Titel  Geschlecht  Objektattribut  ObjektIdent  PLZ
 
@@ -2088,65 +1593,15 @@ Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzon
 
 ---
 
-015 3102
-
-023 3104
+015 3102  023 3104
 
 042 8233
 
-017 8002
+017 8002  027 7335  017 8003  017 8003 054 8213
 
-027 7335
+017 8002  017 7278  018 7279  014 7273  017 8003  017 8003  027 8127  017 8002  010 7303  011 8417  011 8427  021 8200  017 8002  014 6001  010 6003  010 6004
 
-017 8003
-
-017 8003
-
-054 8213
-
-017 8002
-
-017 7278
-
-018 7279
-
-014 7273
-
-017 8003
-
-017 8003
-
-027 8127
-
-017 8002
-
-010 7303
-
-011 8417
-
-011 8427
-
-021 8200
-
-017 8002
-
-014 6001
-
-010 6003
-
-010 6004
-
-017 8003
-
-017 8003
-
-031 8101
-
-017 8002
-
-023 8103
-
-017 8002
+017 8003  017 8003  031 8101  017 8002  023 8103 017 8002
 
 010 7362
 
@@ -2168,27 +1623,7 @@ Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzon
 
 017 8002
 
-011 7420
-
-013 3100
-
-012 3120
-
-022 3101
-
-013 3102
-
-017 3104
-
-010 3110
-
-027 8230
-
-017 8002
-
-014 3121
-
-020 3122
+011 7420  013 3100  012 3120  022 3101  013 3102  017 3104  010 3110  027 8230  017 8002  014 3121  020 3122
 
 Thomas  Prof. Dr. med.  Geschaeftliche _Kommunikationsda- ten
 
@@ -2283,33 +1718,7 @@ Titel  Geschlecht  Objektattribut  ObjektIdent  PostfachPLZ  Postfach Ort / Stad
 
 ---
 
-013 3123
-
-010 3124
-
-009 1202
-
-017 8003
-
-036 8232
-
-017 8002
-
-030 7330
-
-017 8003
-
-017 8003
-
-017 8003
-
-017 8003
-
-017 8003
-
-023 8103
-
-017 8002
+013 3123  010 3124  009 1202  017 8003  036 8232  017 8002  030 7330  017 8003  017 8003  017 8003  017 8003  017 8003  023 8103 017 8002
 
 010 7362
 
@@ -2331,63 +1740,7 @@ Titel  Geschlecht  Objektattribut  ObjektIdent  PostfachPLZ  Postfach Ort / Stad
 
 017 8002
 
-011 7420
-
-022 3101
-
-013 3102
-
-017 3104
-
-010 3110
-
-027 8230
-
-017 8002
-
-014 3112
-
-021 3113
-
-025 3107
-
-011 3109
-
-025 3115
-
-010 3114
-
-009 1202
-
-017 8003
-
-036 8233
-
-017 8002
-
-030 7330
-
-017 8003
-
-017 8003
-
-017 8003
-
-017 8003
-
-017 8003
-
-017 8003
-
-017 8137
-
-017 8002
-
-019 7364
-
-011 8429
-
-011 8428
+011 7420  022 3101  013 3102  017 3104  010 3110  027 8230  017 8002  014 3112  021 3113  025 3107  011 3109  025 3115  010 3114  009 1202  017 8003  036 8233  017 8002  030 7330  017 8003  017 8003  017 8003  017 8003  017 8003  017 8003  017 8137  017 8002  019 7364  011 8429  011 8428
 
 1234  D  2  Obj_0007  Private_Kommunikationsdaten Obj_0031  +LK_Vorwahl_Rufnummer  Obj_0031  Obj_0047  Obj_0008  Obj_0048  Obj_0003  Abrechnung_PKV
 
@@ -2441,9 +1794,7 @@ Status Person  Nachname  Vorname
 
 Titel  Geschlecht  Objektattribut  ObjektIdent  PLZ
 
-Ort  Straße  Hausnummer  Anschriftenzusatz  Wohnsitzländercode  Adresstyp  Objektende
-
-daten Objektattribut  ObjektIdent  Telefonnummer  Objektende  Objektende  Objektende  Objektende  Objektende  Objektende  Objektattribut  ObjektIdent  Probengefäß-Ident  Probenmaterial Index  Probenmaterial-Ident
+Ort  Straße  Hausnummer  Anschriftenzusatz  Wohnsitzländercode  Adresstyp  Objektende  daten Objektattribut  ObjektIdent  Telefonnummer  Objektende  Objektende  Objektende  Objektende  Objektende  Objektende  Objektattribut  ObjektIdent  Probengefäß-Ident  Probenmaterial Index  Probenmaterial-Ident
 
 
 ---
@@ -2618,9 +1969,7 @@ ObjektIdent
 
 Handelsname des Arzneimittels
 
-Objektende
-
-_ent-
+Objektende  _ent-
 
 Objektattribut
 
@@ -2654,9 +2003,7 @@ ObjektIdent
 
 Handelsname des Arzneimittels
 
-Objektende
-
-_ent-
+Objektende  _ent-
 
 Objektattribut
 
@@ -2703,10 +2050,8 @@ Datum des Timestamp
 
 ---
 
-| **IT in der** | **Arztpraxis** |  |
-|---|---|---|
-| LDT 3 |  |  |
 | 018 | 7279 | HHmmss(ms) |
+|---|---|---|
 | 014 | 7273 | UTC+1 |
 | 017 | 8003 | Obj_0054 |
 | 017 | 8003 | Obj_0059 |
@@ -2749,7 +2094,6 @@ Datum des Timestamp
 | 015 | 8110 | Anhang |
 | 017 | 8002 | Obj_0010 |
 | 017 | 8003 | Obj_0010 |
-| LDT 3 Use Cases, | Version | 3.2.19 Seite 22 von 66 |
 
 Uhrzeit des Timestamp
 
@@ -2862,7 +2206,9 @@ ID: Labor27/12
 
 Karla Musterpatientin (Patienten-ID im Primärsystem: PMUFR2312345
 
-Siegburger Straße 425 b 3. Hinterhaus
+Siegburger Straße 425 b
+
+3. Hinterhaus
 
 D-23456 Musterort
 
@@ -2917,7 +2263,7 @@ Probengefäß mit Nummer 1234567803 enthält Citrat-Blut
 
 ### Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) durch Laborgemein- schaft
 
-### Auf Grundlage des Kataloges „LVZ Musterlabor 01“, der unter  bor\lvz001.de veröffentlicht ist, wird die Untersuchung mit dem Kürzel 8954B47 (Erre- ger+Resistenz) aus Abstrich (Probengefäß 1234567804) beim Laborfacharzt angefor- dert (ASV)
+### [Auf Grundlage des Kataloges „LVZ Musterlabor 01“, der unter](http://www.musterlabor/lvz001.de) [bor\lvz001.de](http://www.musterlabor/lvz001.de)[veröffentlicht ist, wird die Untersuchung mit dem Kürzel 8954B47 (Erre-](http://www.musterlabor/lvz001.de) [ger+Resistenz) aus Abstrich (Probengefäß 1234567804) beim Laborfacharzt angefor-](http://www.musterlabor/lvz001.de) dert (ASV)
 
 ### ABRECHNUNGSINFORMATION:
 
@@ -2945,12 +2291,12 @@ die über ASV abgerechnet werden können bekannt. Wird eine solche Leistung abge
 
 **4.2. Muster LDT mit Beschreibung der Feldkennungen**
 
-| **Feldlänge** | **FK** | **Feldinhalt** |
+| Feldlänge | FK | Feldinhalt |
 |---|---|---|
 | 013 | 8000 | 8230 |
 | 018 | 8132 | Kopfdaten |
 | 017 | 8002 | Obj_0032 |
-| 017 | 0001 | LDT 3.2.19 |
+| 017 | 0001 | LDT3.2.19 |
 | 025 | 8151 | Sendendes_System |
 | 017 | 8002 | Obj_0051 |
 | 019 | 8315 | Labor27/12 |
@@ -2960,7 +2306,7 @@ die über ASV abgerechnet werden können bekannt. Wird eine solche Leistung abge
 | 018 | 0132 | 8.12.0.95 |
 | 017 | 8003 | Obj_0051 |
 
-### www.musterla-
+### [www.musterla-](http://www.musterlabor/lvz001.de)
 
 **Beschreibung**
 
@@ -2971,101 +2317,11 @@ Satzart  Objektattribut  ObjektIdent  Version der Datensatzbeschreibung  Objekta
 
 039 8218
 
-017 8002
+017 8002  017 7278  018 7279  014 7273  029 8235  017 8002  011 7420  019 3101  014 3102  017 3104  017 8003  017 8003  017 8003  010 7265  032 8122  017 8002  010 7321  013 8312  027 8114  017 8002  015 8147  017 8002  011 7420  019 3101  014 3102  017 3104  012 8990 043 8233
 
-017 7278
+017 8002  030 7330  030 7331  030 7333  030 7335  026 7334  017 8003  017 8003  018 0212  018 0222  017 8003  024 8119  017 8002  010 0204  010 0204  030 0203 018 0201
 
-018 7279
-
-014 7273
-
-029 8235
-
-017 8002
-
-011 7420
-
-019 3101
-
-014 3102
-
-017 3104
-
-017 8003
-
-017 8003
-
-017 8003
-
-010 7265
-
-032 8122
-
-017 8002
-
-010 7321
-
-013 8312
-
-027 8114
-
-017 8002
-
-015 8147
-
-017 8002
-
-011 7420
-
-019 3101
-
-014 3102
-
-017 3104
-
-012 8990
-
-043 8233
-
-017 8002
-
-030 7330
-
-030 7331
-
-030 7333
-
-030 7335
-
-026 7334
-
-017 8003
-
-017 8003
-
-018 0212
-
-018 0222
-
-017 8003
-
-024 8119
-
-017 8002
-
-010 0204
-
-010 0204
-
-030 0203
-
-018 0201
-
-021 8143
-
-017 8002
-
-030 1250
+021 8143  017 8002  030 1250
 
 032 8229
 
@@ -3140,79 +2396,7 @@ PLZ
 
 028 8131
 
-017 8002
-
-030 7330
-
-030 7331
-
-030 7333
-
-030 7335
-
-026 7334
-
-017 8003
-
-017 8003
-
-017 8003
-
-017 8003
-
-013 8001
-
-013 8000
-
-016 8145
-
-017 8002
-
-015 8147
-
-017 8002
-
-011 7420
-
-022 3101
-
-013 3102
-
-017 3103
-
-010 3110
-
-022 8228
-
-017 8002
-
-014 3112
-
-018 3113
-
-026 3107
-
-014 3109
-
-022 3115
-
-010 3114
-
-017 8003
-
-017 8003
-
-019 3119
-
-021 3000
-
-017 8003
-
-017 8150
-
-017 8002
-
-012 8511
+017 8002  030 7330  030 7331  030 7333  030 7335  026 7334  017 8003  017 8003  017 8003  017 8003  013 8001  013 8000  016 8145  017 8002  015 8147  017 8002  011 7420  022 3101  013 3102  017 3103  010 3110  022 8228  017 8002  014 3112  018 3113  026 3107  014 3109  022 3115  010 3114  017 8003  017 8003  019 3119  021 3000  017 8003  017 8150  017 8002 012 8511
 
 017 8512
 
@@ -3297,83 +2481,13 @@ Objektende
 
 ---
 
-028 8113
+028 8113  017 8002  020 8310  020 8311  010 8611  015 8147  017 8002  011 7420  019 3101  014 3102  017 3104 043 8233
 
-017 8002
+017 8002  030 7333  017 8003  017 8003 054 8213
 
-020 8310
+017 8002  017 7278  018 7279  014 7273  017 8003  017 8003  027 8127  017 8002  011 7303  011 8417  011 8427  021 8200  017 8002  014 6001  010 6003  010 6004
 
-020 8311
-
-010 8611
-
-015 8147
-
-017 8002
-
-011 7420
-
-019 3101
-
-014 3102
-
-017 3104
-
-043 8233
-
-017 8002
-
-030 7333
-
-017 8003
-
-017 8003
-
-054 8213
-
-017 8002
-
-017 7278
-
-018 7279
-
-014 7273
-
-017 8003
-
-017 8003
-
-027 8127
-
-017 8002
-
-011 7303
-
-011 8417
-
-011 8427
-
-021 8200
-
-017 8002
-
-014 6001
-
-010 6003
-
-010 6004
-
-017 8003
-
-017 8003
-
-031 8101
-
-017 8002
-
-023 8102
-
-017 8002
+017 8003  017 8003  031 8101  017 8002  023 8102 017 8002
 
 011 4239
 
@@ -3399,9 +2513,7 @@ Objektende
 
 017 8002
 
-Auftragsinformation
-
-Obj_0013  47112345678  47112345678  2
+Auftragsinformation   Obj_0013  47112345678  47112345678  2
 
 Person  Obj_0047 02  Musterarzt
 
@@ -3504,21 +2616,7 @@ ObjektIdent
 
 010 4221
 
-017 8003
-
-017 8003
-
-017 8137
-
-017 8002
-
-019 7364
-
-011 8429
-
-011 8428
-
-014 8430
+017 8003  017 8003  017 8137  017 8002  019 7364  011 8429  011 8428 014 8430
 
 017 8431
 
@@ -3684,9 +2782,7 @@ ObjektIdent
 
 Handelsname des Arzneimittels
 
-Objektende
-
-nahme
+Objektende  nahme
 
 Objektattribut
 
@@ -4420,7 +3516,9 @@ Tel.-, Fax-, Mobilnummer im Datensatz angegeben
 
 Karla Musterpatientin (Patienten-ID im Primärsystem: PMUFR2312345)
 
-Siegburger Straße 425 b 3. Hinterhaus
+Siegburger Straße 425 b
+
+3. Hinterhaus
 
 D-23456 Musterort
 
@@ -4457,10 +3555,12 @@ Probengefäß mit Nummer 1234567803 enthält Citrat-Blut
 
 ### UNTERSUCHUNGSERGEBNISSE:
 
-### Untersuchung Hepatitis-B-Antigen aus Serum (Probengefäß 1234567802) wurde nach  Testmethode „CLIA“ durchgeführt und hat ein semiquantitatives Ergebnis in Textform mit Wert „negativ“ ergeben. Der Normalwert wird beschrieben. Das Untersuchungser-
+### Untersuchung Hepatitis-B-Antigen aus Serum (Probengefäß 1234567802) wurde nach  Testmethode „CLIA“ durchgeführt und hat ein semiquantitatives Ergebnis in Textform  mit Wert „negativ“ ergeben. Der Normalwert wird beschrieben. Das Untersuchungser-
+
 gebnis wurde durch ein Auftragslaboratorium erstellt. Die GOP und die Kosten werden  mitgeteilt. Die Analytik ist abgeschlossen.
 
-### Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) wurde nach Testme- thode „COAG“ durchgeführt und hat ein Ergebnis mit Wert wertindikator ist „ “. Der Normalwert wird beschrieben.
+### Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) wurde nach Testme- thode „COAG“ durchgeführt und hat ein Ergebnis mit Wert  wertindikator ist „ “. Der Normalwert wird beschrieben.
+
 mitgeteilt. Die Analytik ist abgeschlossen.
 
 ### Mittels des Nachweisverfahrens „Mikroskopie“ (Testmethode: Mikroskopie Gramfär- bung) wurden in dem Probenmaterial aus dem Probengefäß 1234567804 folgende  Keime identifiziert:
@@ -4554,9 +3654,7 @@ MHK Einheit:
 
 ---
 
-mit folgendem Ergebnis-Text: *„Gentamicin kann bei dem*
-
-*gebnisses "r" im Rahmen einer Kombinationstherapie mit wirksamen Betalaktam-Antibi-* *otika (z.B. Penicillin oder Ceftriaxon) eingesetzt werden. Eine synergistische Wirkung ist*  *zu erwarten.“* erstellt.
+mit folgendem Ergebnis-Text: *„Gentamicin kann bei dem*  *gebnisses "r" im Rahmen einer Kombinationstherapie mit wirksamen Betalaktam-Antibi-* *otika (z.B. Penicillin oder Ceftriaxon) eingesetzt werden. Eine synergistische Wirkung ist*  *zu erwarten.“* erstellt.
 
 Zusätzlich wird folgendes Ergebnis festgestellt:
 
@@ -4642,111 +3740,15 @@ Muster 10A) C00.2 V
 
 **7.2. Muster LDT mit Beschreibung der Feldkennungen**
 
-**Feldlänge FK**
+**Feldlänge FK**  013 8000  018 8132  017 8002  017 0001  025 8151  017 8002  019 8315  019 8316  025 0105  019 0103  018 0132  017 8003 039 8218
 
-013 8000
+017 8002  017 7278  018 7279  014 7273  029 8235  017 8002  011 7420  019 3101  014 3102  017 3104  017 8003  017 8003  017 8003
 
-018 8132
+010 7265  032 8122  017 8002  010 7321  013 8312  027 8114  017 8002  015 8147  017 8002  011 7420  019 3101  014 3102  017 3104  012 8990 043 8233
 
-017 8002
+017 8002  030 7330  030 7331  030 7333  030 7335  026 7334  017 8003  017 8003  018 0212  017 8003
 
-017 0001
-
-025 8151
-
-017 8002
-
-019 8315
-
-019 8316
-
-025 0105
-
-019 0103
-
-018 0132
-
-017 8003
-
-039 8218
-
-017 8002
-
-017 7278
-
-018 7279
-
-014 7273
-
-029 8235
-
-017 8002
-
-011 7420
-
-019 3101
-
-014 3102
-
-017 3104
-
-017 8003
-
-017 8003
-
-017 8003
-
-010 7265
-
-032 8122
-
-017 8002
-
-010 7321
-
-013 8312
-
-027 8114
-
-017 8002
-
-015 8147
-
-017 8002
-
-011 7420
-
-019 3101
-
-014 3102
-
-017 3104
-
-012 8990
-
-043 8233
-
-017 8002
-
-030 7330
-
-030 7331
-
-030 7333
-
-030 7335
-
-026 7334
-
-017 8003
-
-017 8003
-
-018 0212
-
-017 8003
-
-**Feldinhalt**  8230  Kopfdaten  Obj_0032  LDT 3.2.19  Sendendes_System  Obj_0051  Labor27/12  Arzt123456  a/nn/JJMM/MM/aaa  Muster PVS  8.12.0.95  Obj_0051  Timestamp_Erstellung _Daten satz  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Person_zum_Timestamp  Obj_0047 02  Musterarzt
+**Feldinhalt**  8230  Kopfdaten  Obj_0032  LDT3.2.19  Sendendes_System  Obj_0051  Labor27/12  Arzt123456  a/nn/JJMM/MM/aaa  Muster PVS  8.12.0.95  Obj_0051  Timestamp_Erstellung _Daten satz  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Person_zum_Timestamp  Obj_0047 02  Musterarzt
 
 Klaus  Dr. med.  Obj_0047  Obj_0054  Obj_0032
 
@@ -4775,23 +3777,9 @@ ObjektIdent  Telefonnummer  Mobiltelefonnummer  Faxnummer  E-Mailadresse  Webadr
 
 ---
 
-024 8119
+024 8119  017 8002  010 0204  010 0204  030 0203 018 0201
 
-017 8002
-
-010 0204
-
-010 0204
-
-030 0203
-
-018 0201
-
-021 8143
-
-017 8002
-
-030 1250
+021 8143  017 8002  030 1250
 
 032 8229
 
@@ -4813,71 +3801,7 @@ ObjektIdent  Telefonnummer  Mobiltelefonnummer  Faxnummer  E-Mailadresse  Webadr
 
 028 8131
 
-017 8002
-
-030 7330
-
-030 7331
-
-030 7333
-
-030 7335
-
-026 7334
-
-017 8003
-
-017 8003
-
-017 8003
-
-017 8003
-
-013 8001
-
-013 8000
-
-016 8145
-
-017 8002
-
-015 8147
-
-017 8002
-
-011 7420
-
-013 3100
-
-012 3120
-
-022 3101
-
-013 3102
-
-017 3103
-
-017 3104
-
-010 3110
-
-022 8228
-
-017 8002
-
-014 3112
-
-018 3113
-
-026 3107
-
-014 3109
-
-022 3115
-
-010 3114
-
-017 8003
+017 8002  030 7330  030 7331  030 7333  030 7335  026 7334  017 8003  017 8003  017 8003  017 8003  013 8001  013 8000  016 8145  017 8002  015 8147  017 8002  011 7420  013 3100  012 3120  022 3101  013 3102  017 3103  017 3104  010 3110  022 8228  017 8002  014 3112  018 3113  026 3107  014 3109  022 3115  010 3114  017 8003
 
 Betriebsstaette  Obj_0019  1 5  Praxis Dr. Musterarzt
 
@@ -4909,7 +3833,9 @@ Graf
 
 von  Musterpatient  Karl  19600512  Dr. med.
 
-M  Wohnanschrift  Obj_0007  23456  Musterort  Siegburger Straße  425 b 3. Hinterhaus
+M  Wohnanschrift  Obj_0007  23456  Musterort  Siegburger Straße  425 b
+
+3. Hinterhaus
 
 D  Obj_0007
 
@@ -5023,9 +3949,7 @@ Gewicht der Person
 
 Einheit des Meßwertes
 
-Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Objektende  Objektattribut  ObjektIdent  Abrechnungsinfo zur Untersuchung
-
-Objektattribut  ObjektIdent  ICD Code  Diagnosesicherheit  Lokalisation
+Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Objektende  Objektattribut  ObjektIdent  Abrechnungsinfo zur Untersuchung  Objektattribut  ObjektIdent  ICD Code  Diagnosesicherheit  Lokalisation
 
 Objektende
 
@@ -5207,15 +4131,11 @@ Methode1 durchgeführt und hat ein Ergebnis mit Wert ergeben. Der Grenzwertindik
 
 ### Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) wurde nach Methode5
 
-durchgeführt und hat ein Ergebnis mit Wert ergeben. Der Grenzwertindikator ist „ “. Der
-
-Normalwert wird beschrieben. Die GOP wird mitgeteilt. Die Analytik ist abgeschlossen.
+durchgeführt und hat ein Ergebnis mit Wert ergeben. Der Grenzwertindikator ist „ “. Der  Normalwert wird beschrieben. Die GOP wird mitgeteilt. Die Analytik ist abgeschlossen.
 
 ### Untersuchung PSA aus Serum (Probengefäß 1234567802) wurde nach Methode7
 
-durchgeführt und hat ein Ergebnis mit Wert ergeben. Der Grenzwertindikator ist „ “. Der
-
-Normalwert wird beschrieben. Die Rechnungslegung des Labors erfolgt an den Patien- ten direkt. Die Analytik ist abgeschlossen.
+durchgeführt und hat ein Ergebnis mit Wert ergeben. Der Grenzwertindikator ist „ “. Der  Normalwert wird beschrieben. Die Rechnungslegung des Labors erfolgt an den Patien- ten direkt. Die Analytik ist abgeschlossen.
 
 ### FEHLERMELDUNG/AUFMERKSAMKEIT:
 
@@ -5229,61 +4149,9 @@ Material Serum unvollständig, Hinweis von Dr. Zusatzarzt auf „Materialmenge g
 
 **8.2. Muster LDT mit Beschreibung der Feldkennungen**
 
-**Feldlänge FK**
+**Feldlänge FK**  013 8000  018 8132  017 8002  017 0001  025 8151  017 8002  019 8315  019 8316  025 0105  018 0103  018 0132  017 8003  039 8218  017 8002  017 7278  019 7279  014 7273  017 8003  017 8003  021 8136  017 8002  025 8239  017 8002  038 1250  038 1252  015 8147
 
-013 8000
-
-018 8132
-
-017 8002
-
-017 0001
-
-025 8151
-
-017 8002
-
-019 8315
-
-019 8316
-
-025 0105
-
-018 0103
-
-018 0132
-
-017 8003
-
-039 8218
-
-017 8002
-
-017 7278
-
-019 7279
-
-014 7273
-
-017 8003
-
-017 8003
-
-021 8136
-
-017 8002
-
-025 8239
-
-017 8002
-
-038 1250
-
-038 1252
-
-015 8147
-
-**Feldinhalt**  8220  Kopfdaten  Obj_0032  LDT 3.2.19  Sendendes_System  Obj_0051  Arzt123456  Labor27/12  a/nn/JJMM/MM/aaa  MusterLIS  5.12.15.1  Obj_0051  Timestamp_Erstellung_Datensatz  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  Obj_0032  Laborkennung  Obj_0036  Laborbezeichnung  Obj_0043  Laborarztpraxis Mueller/Meier  Abteilungsleiter Klin. Chemie  Person
+**Feldinhalt**  8220  Kopfdaten  Obj_0032  LDT3.2.19  Sendendes_System  Obj_0051  Arzt123456  Labor27/12  a/nn/JJMM/MM/aaa  MusterLIS  5.12.15.1  Obj_0051  Timestamp_Erstellung_Datensatz  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  Obj_0032  Laborkennung  Obj_0036  Laborbezeichnung  Obj_0043  Laborarztpraxis Mueller/Meier  Abteilungsleiter Klin. Chemie  Person
 
 **Beschreibung**  Satzart  Objektattribut  ObjektIdent  Version der Datensatzbeschreibung  Objektattribut  ObjektIdent  ID des Empfängers  ID des Senders  KBV-Prüfnummer  Software/Name der Software  Version/Releasestand der Software  Objektende  Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Objektende  Objektattribut  ObjektIdent  Objektattribut  ObjektIdent  Organisation / Firma  Funktionsbezeichnung der Person  Objektattribut
 
@@ -5359,105 +4227,13 @@ Objektende  Satzende  Satzart  Objektattribut  ObjektIdent  Status Einsender  Ku
 
 ---
 
-018 3104
-
-012 8990
+018 3104  012 8990
 
 044 8233
 
-017 8002
+017 8002  030 7330  030 7331  030 7333  030 7335  026 7334  017 8003  017 8003  018 0212  017 8003  025 8119  017 8002  010 0204  010 0204  030 0203 018 0201
 
-030 7330
-
-030 7331
-
-030 7333
-
-030 7335
-
-026 7334
-
-017 8003
-
-017 8003
-
-018 0212
-
-017 8003
-
-025 8119
-
-017 8002
-
-010 0204
-
-010 0204
-
-030 0203
-
-018 0201
-
-021 8143
-
-017 8002
-
-030 1250
-
-032 8229
-
-017 8002
-
-014 3112
-
-021 3113
-
-025 3107
-
-011 3109
-
-025 3115
-
-010 3114
-
-017 8003
-
-028 8131
-
-017 8002
-
-030 7330
-
-030 7331
-
-030 7333
-
-030 7335
-
-026 7334
-
-017 8003
-
-017 8003
-
-017 8003
-
-017 8003
-
-016 8145
-
-017 8002
-
-015 8147
-
-017 8002
-
-011 7420
-
-013 3100
-
-012 3120
-
-022 3101
+021 8143  017 8002  030 1250  032 8229  017 8002  014 3112  021 3113  025 3107  011 3109  025 3115  010 3114  017 8003  028 8131  017 8002  030 7330  030 7331  030 7333  030 7335  026 7334  017 8003  017 8003  017 8003  017 8003  016 8145  017 8002  015 8147  017 8002  011 7420  013 3100  012 3120  022 3101
 
 Dr. med.  KMu  Geschaeftliche_Kommunikations- daten  Obj_0031  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  [dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de)  www.musterarzt.de  Obj_0031  Obj_0047  991234567  Obj_0014  Betriebsstaette  Obj_0019  1  5  Praxis Dr. Musterarzt 123456789
 
@@ -5484,218 +4260,30 @@ Objektende  Objektattribut  ObjektIdent  Objektattribut  ObjektIdent  Status Per
 
 ---
 
-013 3102
-
-017 3103
-
-017 3104
-
-010 3110
-
-022 8228
-
-017 8002
-
-014 3112
-
-018 3113
-
-026 3107
-
-014 3109
-
-022 3115
-
-010 3114
-
-017 8003
-
-017 8003
-
-019 3119
-
-023 3000
-
-017 8003
-
-029 8169
-
-017 8002
-
-012 3622
-
-011 8421
-
-027 8225
-
-017 8002
-
-017 7278
-
-019 7279
-
-014 7273
-
-017 8003
-
-013 3623
-
-011 8421
-
-027 8225
-
-017 8002
-
-017 7278
-
-019 7279
-
-014 7273
-
-017 8003
-
-017 8003
-
-028 8117
-
-017 8002
-
-020 8310
-
-036 8214
-
-017 8002
-
-017 7278
-
-019 7279
-
-014 7273
-
-017 8003
-
-020 8311
-
-023 7305
-
-010 8401
-
-035 8216
-
-017 8002
-
-017 7278
+013 3102  017 3103  017 3104  010 3110  022 8228  017 8002  014 3112  018 3113  026 3107  014 3109  022 3115  010 3114  017 8003  017 8003  019 3119  023 3000  017 8003  029 8169  017 8002  012 3622  011 8421  027 8225  017 8002  017 7278  019 7279  014 7273  017 8003  013 3623  011 8421  027 8225  017 8002  017 7278  019 7279  014 7273  017 8003  017 8003  028 8117  017 8002  020 8310  036 8214  017 8002  017 7278  019 7279  014 7273  017 8003  020 8311  023 7305  010 8401  035 8216  017 8002  017 7278
 
 Karl  19600512  Dr. med.  M  Wohnanschrift  Obj_0007  23456  Musterort  Siegburger Straße  425 b
 
-3. Hinterhaus  D  Obj_0007  Obj_0047  S040464113  KAMUPA47112015  Obj_0045  Koerperkenngroessen
-
-Obj_0069  185  cm  Timestamp_Messung  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  98.6  kg  Timestamp_Messung  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  Obj_0069  Befundinformationen  Obj_0017  47112345678  Timestamp_Auftragserteilung Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  47112345678  47112345678001  2  Timestamp_Befunderstellung Obj_0054  JJJJMMTT
+3. Hinterhaus  D  Obj_0007  Obj_0047  S040464113  KAMUPA47112015  Obj_0045  Koerperkenngroessen   Obj_0069  185  cm  Timestamp_Messung  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  98.6  kg  Timestamp_Messung  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  Obj_0069  Befundinformationen  Obj_0017  47112345678  Timestamp_Auftragserteilung Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  47112345678  47112345678001  2  Timestamp_Befunderstellung Obj_0054  JJJJMMTT
 
 Vorname  Geburtsdatum  Titel  Geschlecht  Objektattribut  ObjektIdent  PLZ
 
-Ort  Straße  Hausnummer  Anschriftenzusatz  Wohnsitzländercode  Objektende  Objektende  Versicherten-ID  Patientennummer  Objektende  Objektattribut  ObjektIdent  Größe der Person  Einheit des Meßwertes  Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Gewicht der Person  Einheit des Meßwertes  Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Objektende  Objektattribut  ObjektIdent  Auftragsnummer des Einsenders
-
-Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  ID Auftragsnummer des Labors  Befund-ID  Status (Befund/Bericht)
-
-Objektattribut  ObjektIdent  Datum des Timestamp
+Ort  Straße  Hausnummer  Anschriftenzusatz  Wohnsitzländercode  Objektende  Objektende  Versicherten-ID  Patientennummer  Objektende  Objektattribut  ObjektIdent  Größe der Person  Einheit des Meßwertes  Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Gewicht der Person  Einheit des Meßwertes  Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Objektende  Objektattribut  ObjektIdent  Auftragsnummer des Einsenders  Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  ID Auftragsnummer des Labors  Befund-ID  Status (Befund/Bericht)  Objektattribut  ObjektIdent  Datum des Timestamp
 
 
 ---
 
-019 7279
-
-014 7273
-
-017 8003
-
-037 8126
-
-017 8002
-
-010 7280
-
-015 8147
-
-017 8002
-
-011 7420
-
-019 3101
-
-015 3102
-
-012 3104
-
-017 8003
-
-035 8167
-
-017 8002
-
-066 3564
+019 7279  014 7273  017 8003  037 8126  017 8002  010 7280  015 8147  017 8002  011 7420  019 3101  015 3102  012 3104  017 8003  035 8167  017 8002 066 3564
 
 038 3564
 
 100 3564
 
-017 8003
+017 8003  017 8003  017 8003  017 8137  017 8002  019 7364  010 8429  011 8428  014 8430  017 8431 010 8504
 
-017 8003
+019 8170  017 8002  025 6208  017 8003 043 8219
 
-017 8003
-
-017 8137
-
-017 8002
-
-019 7364
-
-010 8429
-
-011 8428
-
-014 8430
-
-017 8431
-
-010 8504
-
-019 8170
-
-017 8002
-
-025 6208
-
-017 8003
-
-043 8219
-
-017 8002
-
-017 7278
-
-019 7279
-
-014 7273
-
-017 8003
-
-017 8003
-
-017 8137
-
-017 8002
-
-019 7364
-
-010 8429
-
-011 8428
-
-020 8430
-
-010 8504
+017 8002  017 7278  019 7279  014 7273  017 8003  017 8003  017 8137  017 8002  019 7364  010 8429  011 8428  020 8430 010 8504
 
 HHmmss(ms)
 
@@ -5723,9 +4311,7 @@ Uhrzeit des Timestamp  Zeitzone  Objektende  Objektattribut  ObjektIdent  Grund 
 
 Titel  Objektende  Objektattribut  ObjektIdent
 
-Text
-
-Leerzeile
+Text   Leerzeile
 
 Text
 
@@ -5743,9 +4329,7 @@ Probenmaterial-Ident
 
 Probenmaterial-Bezeichnung
 
-Probenmaterial-Spezifikation  Medikamenteneinnahme zum Zeitpunkt der
-
-Materialentnahme
+Probenmaterial-Spezifikation  Medikamenteneinnahme zum Zeitpunkt der   Materialentnahme
 
 Objektattribut
 
@@ -5777,112 +4361,14 @@ Probenmaterial Index
 
 Probenmaterial-Ident
 
-Probenmaterial-Bezeichnung  Medikamenteneinnahme zum Zeitpunkt der
-
-Materialentnahme
+Probenmaterial-Bezeichnung  Medikamenteneinnahme zum Zeitpunkt der   Materialentnahme
 
 
 ---
 
-019 8170
+019 8170  017 8002  025 6208  017 8003 043 8219
 
-017 8002
-
-025 6208
-
-017 8003
-
-043 8219
-
-017 8002
-
-017 7278
-
-019 7279
-
-014 7273
-
-017 8003
-
-017 8003
-
-029 8135
-
-017 8002
-
-028 8160
-
-017 8002
-
-026 7304
-
-019 7364
-
-015 8410
-
-028 8411
-
-010 8418
-
-017 7302
-
-011 7306
-
-017 8420
-
-010 8419
-
-016 8421
-
-019 8142
-
-017 8002
-
-011 8424
-
-021 8460
-
-014 8461
-
-010 8419
-
-016 8421
-
-014 8462
-
-010 8419
-
-016 8421
-
-011 8422
-
-037 8126
-
-017 8002
-
-010 7280
-
-015 8147
-
-017 8002
-
-011 7420
-
-019 3101
-
-015 3102
-
-012 3104
-
-017 8003
-
-035 8167
-
-017 8002
-
-037 3564
-
-017 8003
+017 8002  017 7278  019 7279  014 7273  017 8003  017 8003  029 8135  017 8002  028 8160  017 8002  026 7304  019 7364  015 8410  028 8411  010 8418  017 7302  011 7306  017 8420  010 8419  016 8421  019 8142  017 8002  011 8424  021 8460  014 8461  010 8419  016 8421  014 8462  010 8419  016 8421  011 8422  037 8126  017 8002  010 7280  015 8147  017 8002  011 7420  019 3101  015 3102  012 3104  017 8003  035 8167  017 8002  037 3564  017 8003
 
 Medikament
 
@@ -5937,107 +4423,7 @@ Text  Objektende
 
 ---
 
-017 8003
-
-017 8003
-
-026 8225
-
-017 8002
-
-017 7278
-
-019 7279
-
-014 7273
-
-017 8003
-
-022 8141
-
-017 8002
-
-011 7420
-
-024 7358
-
-011 8990
-
-017 8003
-
-032 8158
-
-017 8002
-
-010 7303
-
-010 4121
-
-014 5001
-
-011 8406
-
-010 8614
-
-017 8003
-
-017 8003
-
-028 8160
-
-017 8002
-
-026 7304
-
-019 7364
-
-011 8410
-
-014 8411
-
-010 8418
-
-017 7302
-
-011 7306
-
-017 8420
-
-010 8419
-
-016 8421
-
-019 8142
-
-017 8002
-
-011 8424
-
-021 8460
-
-014 8461
-
-010 8419
-
-016 8421
-
-014 8462
-
-010 8419
-
-016 8421
-
-010 8422
-
-037 8126
-
-017 8002
-
-010 7280
-
-015 8147
-
-017 8002
+017 8003  017 8003  026 8225  017 8002  017 7278  019 7279  014 7273  017 8003  022 8141  017 8002  011 7420  024 7358  011 8990  017 8003  032 8158  017 8002  010 7303  010 4121  014 5001  011 8406  010 8614  017 8003  017 8003  028 8160  017 8002  026 7304  019 7364  011 8410  014 8411  010 8418  017 7302  011 7306  017 8420  010 8419  016 8421  019 8142  017 8002  011 8424  021 8460  014 8461  010 8419  016 8421  014 8462  010 8419  016 8421  010 8422  037 8126  017 8002  010 7280  015 8147  017 8002
 
 Obj_0026  Obj_0042  Timestamp_Messung  Obj_0054  JJJJMMTT  HHmmss(ms)
 
@@ -6047,9 +4433,7 @@ PM  Obj_0041  Untersuchungsabrechnung Obj_0058  1  0 32xxx
 
 25
 
-1  Obj_0058  Obj_0060  UE_Klinische_Chemie
-
-Obj_0060  ErgebnisIDKC12302  1234567803  Qu
+1  Obj_0058  Obj_0060  UE_Klinische_Chemie  Obj_0060  ErgebnisIDKC12302  1234567803  Qu
 
 Quick  03  Methode5
 
@@ -6069,128 +4453,22 @@ Objektende  Objektende  Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzei
 
 Objektende  Objektattribut  ObjektIdent  Status Person  Name im Klartext  Namenskürzel / Namenszeichen  Objektende
 
-Objektattribut  ObjektIdent  Abrechnungsinfo zur Untersuchung  Gebührenordnung  Gebührennummer (GNR)  Kosten in €-Cent
-
-bereits abgerechnet  Objektende
+Objektattribut  ObjektIdent  Abrechnungsinfo zur Untersuchung  Gebührenordnung  Gebührennummer (GNR)  Kosten in €-Cent  bereits abgerechnet  Objektende
 
 Objektende  Objektattribut  ObjektIdent  Ergebnis ID  Probengefäß-Ident
 
-Test-Ident  Testbezeichnung  Ergebnisstatus  Testmethode  Darstellung Ergebniswerte  Ergebnis-Wert  Einheitensystem des Messwertes / Wertes
+Test-Ident  Testbezeichnung  Ergebnisstatus  Testmethode  Darstellung Ergebniswerte  Ergebnis-Wert  Einheitensystem des Messwertes / Wertes  Maßeinheit des Messwertes / Wertes  Objektattribut
 
-Maßeinheit des Messwertes / Wertes  Objektattribut
-
-ObjektIdent  Normalwertspezifikation  Normalwert-Text  Normalwert untere Grenze  Einheitensystem des Messwertes / Wertes
-
-Maßeinheit des Messwertes / Wertes  Normalwert obere Grenze  Einheitensystem des Messwertes / Wertes
-
-Maßeinheit des Messwertes / Wertes  Grenzwertindikator des Laborwerts  Objektattribut
+ObjektIdent  Normalwertspezifikation  Normalwert-Text  Normalwert untere Grenze  Einheitensystem des Messwertes / Wertes  Maßeinheit des Messwertes / Wertes  Normalwert obere Grenze  Einheitensystem des Messwertes / Wertes  Maßeinheit des Messwertes / Wertes  Grenzwertindikator des Laborwerts  Objektattribut
 
 ObjektIdent  Grund der Benachrichtigung  Objektattribut  ObjektIdent
 
 
 ---
 
-011 7420
+011 7420  019 3101  015 3102  012 3104  017 8003  035 8167  017 8002  035 3564  017 8003  017 8003  017 8003  026 8225  017 8002  017 7278  019 7279  014 7273  017 8003  022 8141  017 8002  011 7420  024 7358  011 8990  017 8003  032 8158  017 8002  010 7303  010 4121  014 5001  011 8406  010 8614  017 8003  017 8003 050 8221
 
-019 3101
-
-015 3102
-
-012 3104
-
-017 8003
-
-035 8167
-
-017 8002
-
-035 3564
-
-017 8003
-
-017 8003
-
-017 8003
-
-026 8225
-
-017 8002
-
-017 7278
-
-019 7279
-
-014 7273
-
-017 8003
-
-022 8141
-
-017 8002
-
-011 7420
-
-024 7358
-
-011 8990
-
-017 8003
-
-032 8158
-
-017 8002
-
-010 7303
-
-010 4121
-
-014 5001
-
-011 8406
-
-010 8614
-
-017 8003
-
-017 8003
-
-050 8221
-
-017 8002
-
-017 7278
-
-019 7279
-
-014 7273
-
-017 8003
-
-017 8003
-
-028 8160
-
-017 8002
-
-026 7304
-
-019 7364
-
-012 8410
-
-012 8411
-
-010 8418
-
-017 7302
-
-011 7306
-
-017 8420
-
-010 8419
-
-07  Zusatzarzt  Thomas
+017 8002  017 7278  019 7279  014 7273  017 8003  017 8003  028 8160  017 8002  026 7304  019 7364  012 8410  012 8411  010 8418  017 7302  011 7306  017 8420  010 8419 07  Zusatzarzt  Thomas
 
 Dr.  Obj_0047  Zusaetzliche_Informationen Obj_0068  Achtung!! Wert zu niedrig.  Obj_0068  Obj_0026  Obj_0042  Timestamp_Messung  Obj_0054  JJJJMMTT  HHmmss(ms)
 
@@ -6214,9 +4492,7 @@ Objektattribut  ObjektIdent  Text
 
 Objektende  Objektende  Objektende  Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp
 
-Zeitzone  Objektende  Objektattribut  ObjektIdent  Status Person  Name im Klartext  Namenskürzel / Namenszeichen  Objektende  Objektattribut  ObjektIdent  Abrechnungsinfo zur Untersuchung  Gebührenordnung  Gebührennummer (GNR)  Kosten in €-Cent
-
-bereits abgerechnet  Objektende  Objektende
+Zeitzone  Objektende  Objektattribut  ObjektIdent  Status Person  Name im Klartext  Namenskürzel / Namenszeichen  Objektende  Objektattribut  ObjektIdent  Abrechnungsinfo zur Untersuchung  Gebührenordnung  Gebührennummer (GNR)  Kosten in €-Cent  bereits abgerechnet  Objektende  Objektende
 
 Objektattribut
 
@@ -6233,105 +4509,9 @@ Test-Ident  Testbezeichnung  Ergebnisstatus  Testmethode  Darstellung Ergebniswe
 
 ---
 
-016 8421
+016 8421  019 8142  017 8002  011 8424  021 8460  014 8461  010 8419  016 8421  014 8462  010 8419  016 8421  011 8422  037 8126  017 8002  010 7280  015 8147  017 8002  011 7420  019 3101  015 3102  012 3104  017 8003  035 8167  017 8002  035 3564  017 8003  017 8003  017 8003  026 8225  017 8002  017 7278  019 7279  014 7273  017 8003  022 8141  017 8002  011 7420  024 7358  011 8990  017 8003  032 8158  017 8002  010 7303  017 8003  017 8003 050 8221
 
-019 8142
-
-017 8002
-
-011 8424
-
-021 8460
-
-014 8461
-
-010 8419
-
-016 8421
-
-014 8462
-
-010 8419
-
-016 8421
-
-011 8422
-
-037 8126
-
-017 8002
-
-010 7280
-
-015 8147
-
-017 8002
-
-011 7420
-
-019 3101
-
-015 3102
-
-012 3104
-
-017 8003
-
-035 8167
-
-017 8002
-
-035 3564
-
-017 8003
-
-017 8003
-
-017 8003
-
-026 8225
-
-017 8002
-
-017 7278
-
-019 7279
-
-014 7273
-
-017 8003
-
-022 8141
-
-017 8002
-
-011 7420
-
-024 7358
-
-011 8990
-
-017 8003
-
-032 8158
-
-017 8002
-
-010 7303
-
-017 8003
-
-017 8003
-
-050 8221
-
-017 8002
-
-017 7278
-
-019 7279
-
-014 7273
+017 8002  017 7278  019 7279  014 7273
 
 Einheit  Normalwert  Obj_0042 20  TextTextText  uWert
 
@@ -6473,9 +4653,7 @@ Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) wurde nach Methode
 
 **FEHLERMELDUNG/AUFMERKSAMKEIT:**
 
-Material Serum unvollständig, Hinweis von Dr. Zusatzarzt auf „Materialmenge grenz-
-
-wertig“
+Material Serum unvollständig, Hinweis von Dr. Zusatzarzt auf „Materialmenge grenz- wertig“
 
 **ZUSATZINFORMATIONEN:**
 
@@ -6550,14 +4728,12 @@ Z01_UseCase12_Storno_Auftrag.ldt
 
 Hinweis:
 
-Hier wird **nur** die technische Möglichkeit einer Stornierung beschrieben!
-
-Das Verfahren zur Stornierung von Untersuchungsanforderungen ist zwischen dem La- bor und dem Auftraggeber abzustimmen.
+Hier wird **nur** die technische Möglichkeit einer Stornierung beschrieben!  Das Verfahren zur Stornierung von Untersuchungsanforderungen ist zwischen dem La- bor und dem Auftraggeber abzustimmen.
 
 
 ---
 
-| **IT in** | **der Arztpraxis** |
+| IT in | der Arztpraxis |
 |---|---|
 | LDT 3 |  |
 | LDT 3 | Use Cases, Version 3.2.19 Seite 56 von 66 |
@@ -6826,7 +5002,6 @@ Der Befund im Format PDF wird als base64-kodierte Anlage mit übermittelt
 
 Z01_UseCase15_Befund_mit_PDF.ldt
 
-
 ---
 
 **14. Use Case 16 – Darstellung des Inhaltes Obj_0068**
@@ -6837,15 +5012,11 @@ In diesem UseCase wird der Umgang mit Texten im Obj_0068 (Fließtext) für die A
 
 Beispiel:
 
-Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore  magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea
-
-commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pari- atur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est  laborum. Lorem ipsum dolor sit amet, co nsectetur adipisici elit, sed eiusmod tempor incidunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex  ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-
-pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est  laborum. Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex  ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla  pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est  laborum.
+Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore  magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea  commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pari- atur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est  laborum. Lorem ipsum dolor sit amet, co nsectetur adipisici elit, sed eiusmod tempor incidunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex  ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla  pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est  laborum. Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex  ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla  pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est  laborum.
 
 Darstellung im Obj_0068:
 
-0218237Ergebnistext  0178002Obj_0068  9993564Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eius…(max.990 Zeichen) 0178003Obj_0068
+0218237Ergebnistext  0178002Obj_0068  9993564Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eius…(max.990 Zeichen)  0178003Obj_0068
 
 Darstellung im empfangenden System:
 
@@ -6853,47 +5024,29 @@ Fließtext je nach Breite der Anzeige
 
 Lorem ipsum dolor sit amet,
 
-Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna
+Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna  consectetur adipisici elit, sed ei-
 
-consectetur adipisici elit, sed ei-
-
-aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi conse-
-
-incidunt ut labore
+aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi conse- incidunt ut labore
 
 quat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
 
 usmod tempor et dolore magna aliqua. Ut enim
 
-obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor
+obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor  ad minim veniam, quis nostrud
 
-ad minim veniam, quis nostrud
+sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad  exercitation  ullamco laboris nisi ut   oder minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure  aliquid ex ea commodi conse-
 
-sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad
+reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non  quat. Quis aute iure reprehenderit
 
-exercitation  ullamco laboris nisi ut   oder minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur  in voluptate velit esse cillum do-
 
-aliquid ex ea commodi conse-
-
-reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non
-
-quat. Quis aute iure reprehenderit
-
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur
-
-in voluptate velit esse cillum do-
-
-adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-
-lore eu fugiat nulla pariatur.
+adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis  lore eu fugiat nulla pariatur.
 
 nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in  voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in
 
 Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui
 
-culpa qui officia deserunt mollit anim id est laborum.
-
-officia deserunt mollit anim id est  rum. Lorem ipsum dolor sit  labo amet, consectetur adipisici elit,  sed eiusmod tempor incidunt ut  labore et dolore magna aliqua. Ut  enim ad minim veniam, quis  exercitation ullamco la-
+culpa qui officia deserunt mollit anim id est laborum.  officia deserunt mollit anim id est  rum. Lorem ipsum dolor sit  labo amet, consectetur adipisici elit,  sed eiusmod tempor incidunt ut  labore et dolore magna aliqua. Ut  enim ad minim veniam, quis  exercitation ullamco la-
 
 nostrud boris nisi ut aliquid ex ea com- modi consequat. Quis aute iure  rit in voluptate velit
 
@@ -6904,7 +5057,6 @@ cupiditat  culpa qui officia deserunt mollit  anim id est laborum. Lorem ipsum  
 modi consequat. Quis aute iure  reprehenderit in voluptate velit  esse cillum dolore eu fugiat nulla  pariatur. Excepteur sint obcaecat  non proident, sunt in
 
 cupiditat culpa qui officia deserunt mollit  anim id est laborum.
-
 
 ---
 
@@ -6943,7 +5095,6 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
 aliquid ex ea commodi consequat.
 
 Quis aute iure reprehenderit   Excepteur sint
-
 
 ---
 
@@ -6985,7 +5136,9 @@ Tel.-, Fax-, Mobilnummer im Datensatz angegeben
 
 Karla Musterpatientin (Patienten-ID im Primärsystem: PMUFR2312345)
 
-Siegburger Straße 425 b 3. Hinterhaus
+Siegburger Straße 425 b
+
+3. Hinterhaus
 
 D-23456 Musterort
 

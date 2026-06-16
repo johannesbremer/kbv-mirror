@@ -6,7 +6,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**07. JUNI 2026**
+**16. JUNI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -15,8 +15,8 @@
 
 ---
 
-| **Kontaktdaten** | **Prüfnummer** | **Prüfnummer gültig bis** |
+| Kontaktdaten | Prüfnummer | Prüfnummer gültig bis |
 |---|---|---|
 |  | Y/170/2605/36/782 |  |
 
-Meine SBK Siemens-Betriebskrankenkasse (SBK) Ganghoferstraße 29 80339 München Internet: www.sbk.org 30.04.2029Seite 2 / KBV / Verzeichnis zertifizierter Software für die Schnittstelle für Dritte nach § 370a Abs. 2 / 07. Juni 2026
+Meine SBK Siemens-Betriebskrankenkasse (SBK) Ganghoferstraße 29 80339 München Internet: www.sbk.org 30.04.2029Seite 2 / KBV / Verzeichnis zertifizierter Software für die Schnittstelle für Dritte nach § 370a Abs. 2 / 16. Juni 2026

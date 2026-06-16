@@ -1,18 +1,18 @@
-# BEFUNDBERICHT FÜR DEN ÄRZTLICHEN DIENST DER BUNDESAGENTUR FÜR ARBEIT  17 12 2021
-
-# gem. Vereinbarung zwischen der Bundesagentur für Arbeit und der Bundesärztekammer vom
+# BEFUNDBERICHT FÜR DEN ÄRZTLICHEN DIENST DER BUNDESAGENTUR FÜR ARBEIT  gem. Vereinbarung zwischen der Bundesagentur für Arbeit und der Bundesärztekammer vom
 
 Name, Vorname, Geburtsdatum der Patientin / des Patienten
 
-Kundennummer: ___________________
+Kundennummer:
 
 Liquidations-ID:
 
-Patient/in befindet sich seit _____________ regelmäßig  gelegentlich  nicht in meiner Behandlung
+Patient/in befindet sich seit
 
-# Letzte Behandlung am _________________
+# Letzte Behandlung am
 
 # Diagnosen:
+
+regelmäßig
 
 # Aktuelle Beschwerden und Funktionseinschränkungen:
 
@@ -20,17 +20,23 @@ Patient/in befindet sich seit _____________ regelmäßig  gelegentlich  nicht in
 
 Physiotherapie
 
-Psychotherapie
-
 Medikation (Medikamente bitte angeben):
 
 Sonstige (z. B. Logopädie, Substitutionsbehandlung u. a.):
 
 **Hilfsmittel:**
 
-AM 6 ÄD – 1900.8_Befundbericht_BÄK_21. 12
+AM 6 ÄD – 1900.8_Befundbericht_BÄK_21.
 
-BGL-Nummer: ______________
+Psychotherapie 12
+
+BGL-Nummer:
+
+gelegentlich
+
+# 17 12 2021
+
+nicht in meiner Behandlung
 
 
 ---
@@ -55,9 +61,7 @@ Sonstiges:
 
 # Spezielle Maßnahmen erforderlich? (fakultativ):
 
-**Bitte fügen Sie diesem Befundbericht relevante Umedizinische nterlagen (Arztbriefe, Befundberichte,**
-
-**Laborbefunde, Krankenhaus-Entlassungsberichte, Reha-Entlassungsberichte, Gutachten u. ä.) als**  **Kopie bei, vielen Dank.**
+**Bitte fügen Sie diesem Befundbericht relevante Umedizinische nterlagen (Arztbriefe, Befundberichte,**  **Laborbefunde, Krankenhaus-Entlassungsberichte, Reha-Entlassungsberichte, Gutachten u. ä.) als**  **Kopie bei, vielen Dank.**
 
 Medizinische Unterlagen liegen bei
 
@@ -76,8 +80,6 @@ AM 6 ÄD – 1900.8_Befundbericht_BÄK_21. 12
 **Rückruf erbeten**
 
 **Bitte senden Sie mir Ihr Gutachten / Ihre gutachterliche Äußerung zu** (Eine Erklärung der Patientin / des Patienten über die Entbindung des Ärztlichen Dienstes der  Bundesagentur für Arbeit von der ärztlichen Schweigepflicht lege ich bei oder reiche ich nach)
-
-__________________________
 
 
 ---
@@ -102,7 +104,7 @@ Agentur für Arbeit
 
 Für meine Bemühungen erlaube ich mir zu berechnen:
 
-| Fotokopierkosten:  **0,50 € 0,15 €** | ____  Seiten á  ____  Seiten á | = | **__________  €  ________  €** |
+| Fotokopierkosten:   0,50 € 0,15 € | ____  Seiten á  ____  Seiten á | = | __________  €  ________  € |
 |---|---|---|---|
 | Ausstellung des vollständigen Befundberichts und  Übermittlung an den Ärztlichen Dienst: |  | = | **€** |
 | Portokosten: |  | = | **€** |

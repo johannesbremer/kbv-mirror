@@ -10,7 +10,7 @@
 
 210 **Medical Office**
 
-498 **T 2med**
+498 **T2med**
 
 406 **esQlab.online**
 
@@ -70,7 +70,7 @@ medatixx GmbH & Co. KG
 
 INDAMED EDV-Entwicklung und Vertrieb GmbH
 
-T 2med GmbH & Co. KG
+T2med GmbH & Co. KG
 
 IQVIA Commercial GmbH & Co OHG
 
@@ -184,19 +184,19 @@ EVIDENT GmbH
 
 **Installationen 2.Q.2025**
 
-3 883
+3.883
 
-5 493
+5.493
 
-5 648
+5.648
 
-3 662
+3.662
 
 752
 
-5 929
+5.929
 
-4 891
+4.891
 
 212
 
@@ -210,11 +210,11 @@ EVIDENT GmbH
 
 256
 
-4 091
+4.091
 
 696
 
-1 735
+1.735
 
 91
 
@@ -226,7 +226,7 @@ EVIDENT GmbH
 
 18
 
-1 349
+1.349
 
 402
 
@@ -242,19 +242,19 @@ EVIDENT GmbH
 
 **Installationen 1.Q.2025**
 
-3 628
+3.628
 
-5 267
+5.267
 
-5 484
+5.484
 
-3 528
+3.528
 
 656
 
-5 840
+5.840
 
-4 829
+4.829
 
 166
 
@@ -268,11 +268,11 @@ EVIDENT GmbH
 
 247
 
-4 084
+4.084
 
 689
 
-1 729
+1.729
 
 86
 
@@ -284,7 +284,7 @@ EVIDENT GmbH
 
 14
 
-1 346
+1.346
 
 399
 
@@ -758,7 +758,7 @@ Austria GmbH 0,0%
 
 478 **PathoFlow**
 
-332 **Z 1**
+332 **Z1**
 
 487 **NEXUS RIS**
 
@@ -766,7 +766,7 @@ Austria GmbH 0,0%
 
 669 **CGM SOUL**
 
-439 **e RIS**
+439 **eRIS**
 
 447 **CARW**
 
@@ -984,7 +984,7 @@ GmbH 0,2%
 
 12
 
-1 000
+1.000
 
 54
 
@@ -1054,7 +1054,7 @@ GmbH 0,2%
 
 13
 
-1 001
+1.001
 
 55
 
@@ -1175,326 +1175,34 @@ GmbH 0,2%
 
 ---
 
-**Id Praxissoftware**
-
-230 **QMED.PRAXIS**
-
-086 **DURIA**
-
-251 **MEDVISION**
-
-060 **Data-AL**
-
-441 **dc-pathos/dc-ross**
-
-062 **EVA**
-
-015 **MEDYS**
-
-043 **Pro_Medico**
-
-030 **Praxis-Programm**
-
-314 **IMedOne**
-
-078 **Med7**
-
-298 **Elefant**
-
-247 **PROFIMED**
-
-261 **S 3-Win**
-
-343 **SAP Ambulatory Care Management**
-
-135 **EL - Elaphe Longissima**
-
-023 **DATA VITAL**
-
-252 **CGM M1 PRO**
-
-244 **QUINCY WIN**
-
-348 **psyprax**
-
-203 **ALBIS**
-
-266 **x.comfort**
-
-243 **x.concept**
-
-280 **CGM MEDISTAR BLACK PRO**
-
-216 **x.isynet**
-
-112 **TURBOMED**
-
-**Anbieter**
-
-Schwerdtner Medizin-Software GmbH
-
-Duria eG
-
-MedVision AG
-
-Data-AL GmbH
-
-NEXUS / DIGITAL PATHOLOGY GmbH
-
-Abasoft EDV-Programme GmbH
-
-MEDYS GmbH
-
-Neutz GmbH Systemhaus
-
-MediSoftware Computersysteme für Ärzte
-
-Deutsche Telekom Clinical Solutions GmbH
-
-Bitron GmbH Technologiesysteme
-
-HASOMED GmbH
-
-PRO MEDISOFT AG
-
-S 3 Praxiscomputer GmbH / Maximilian Flender
-
-SAP SE
-
-medatixx GmbH & Co. KG
-
-CompuGroup Medical Deutschland AG
-
-CompuGroup Medical Deutschland AG
-
-Frey ADV GmbH
-
-psyprax GmbH
-
-CompuGroup Medical Deutschland AG
-
-medatixx GmbH & Co. KG
-
-medatixx GmbH & Co. KG
-
-CompuGroup Medical Deutschland AG
-
-medatixx GmbH & Co. KG
-
-CompuGroup Medical Deutschland AG
-
-**%Anteil 2.Q.2025**
-
-0,1%
-
-1,7%
-
-0,3%
-
-0,7%
-
-0,1%
-
-0,4%
-
-0,5%
-
-0,2%
-
-0,6%
-
-0,8%
-
-0,5%
-
-9,3%
-
-0,4%
-
-0,9%
-
-1,3%
-
-1,2%
-
-0,3%
-
-2,1%
-
-2,3%
-
-9,1%
-
-3,2%
-
-1,8%
-
-3,2%
-
-8,5%
-
-5,4%
-
-5,7%
-
-**Installationen 2.Q.2025**
-
-160
-
-2 062
-
-382
-
-863
-
-74
-
-454
-
-598
-
-216
-
-692
-
-976
-
-542
-
-10 990
-
-459
-
-1 052
-
-1 553
-
-1 462
-
-296
-
-2 427
-
-2 728
-
-10 699
-
-3 763
-
-2 120
-
-3 829
-
-10 045
-
-6 327
-
-6 710
-
-**Installationen 1.Q.2025**
-
-165
-
-2 067
-
-388
-
-869
-
-80
-
-461
-
-605
-
-224
-
-701
-
-986
-
-554
-
-11 004
-
-473
-
-1 069
-
-1 570
-
-1 479
-
-321
-
-2 469
-
-2 770
-
-10 763
-
-3 831
-
-2 203
-
-3 922
-
-10 140
-
-6 464
-
-6 930
-
-**Differenz Differenz in % zum 1.Q.2025**
-
--5 -3,0%
-
--5 -0,2%
-
--6 -1,5%
-
--6 -0,7%
-
--6 -7,4%
-
--7 -1,5%
-
--7 -1,2%
-
--8 -3,6%
-
--9 -1,3%
-
--10 -1,0%
-
--12 -2,2%
-
--14 -0,1%
-
--14 -3,0%
-
--17 -1,6%
-
--17 -1,1%
-
--17 -1,1%
-
--25 -7,8%
-
--42 -1,7%
-
--42 -1,5%
-
--64 -0,6%
-
--68 -1,8%
-
--83 -3,8%
-
--93 -2,4%
-
--95 -0,9%
-
--137 -2,1%
-
--220 -3,2%
+| Id Praxissoftware | Anbieter |  | %Anteil | 2.Q.2025 Installationen | 2.Q.2025 Installationen | 1.Q.2025 Differenz | Differenz in % zum 1.Q.2025 |
+|---|---|---|---|---|---|---|---|
+| 230 **QMED.PRAXIS** | Schwerdtner | Medizin-Software GmbH | 0,1% | 160 | 165 | -5 | -3,0% |
+| 086 **DURIA** | Duria eG |  | 1,7% | 2.062 | 2.067 | -5 | -0,2% |
+| 251 **MEDVISION** | MedVision | AG | 0,3% | 382 | 388 | -6 | -1,5% |
+| 060 **Data-AL** | Data-AL | GmbH | 0,7% | 863 | 869 | -6 | -0,7% |
+| 441 **dc-pathos/dc-ross** | NEXUS / | DIGITAL PATHOLOGY GmbH | 0,1% | 74 | 80 | -6 | -7,4% |
+| 062 **EVA** | Abasoft | EDV-Programme GmbH | 0,4% | 454 | 461 | -7 | -1,5% |
+| 015 **MEDYS** | MEDYS | GmbH | 0,5% | 598 | 605 | -7 | -1,2% |
+| 043 **Pro_Medico** | Neutz GmbH | Systemhaus | 0,2% | 216 | 224 | -8 | -3,6% |
+| 030 **Praxis-Programm** | MediSoftware | Computersysteme für Ärzte | 0,6% | 692 | 701 | -9 | -1,3% |
+| 314 **IMedOne** | Deutsche | Telekom Clinical Solutions GmbH | 0,8% | 976 | 986 | -10 | -1,0% |
+| 078 **Med7** | Bitron GmbH | Technologiesysteme | 0,5% | 542 | 554 | -12 | -2,2% |
+| 298 **Elefant** | HASOMED | GmbH | 9,3% | 10.990 | 11.004 | -14 | -0,1% |
+| 247 **PROFIMED** | PRO | MEDISOFT AG | 0,4% | 459 | 473 | -14 | -3,0% |
+| 261 **S3-Win** | S3 Praxiscomputer | GmbH / Maximilian Flender | 0,9% | 1.052 | 1.069 | -17 | -1,6% |
+| 343 **SAP Ambulatory Care Management** | SAP SE |  | 1,3% | 1.553 | 1.570 | -17 | -1,1% |
+| 135 **EL - Elaphe Longissima** | medatixx | GmbH & Co. KG | 1,2% | 1.462 | 1.479 | -17 | -1,1% |
+| 023 **DATA VITAL** | CompuGroup | Medical Deutschland AG | 0,3% | 296 | 321 | -25 | -7,8% |
+| 252 **CGM M1 PRO** | CompuGroup | Medical Deutschland AG | 2,1% | 2.427 | 2.469 | -42 | -1,7% |
+| 244 **QUINCY WIN** | Frey ADV | GmbH | 2,3% | 2.728 | 2.770 | -42 | -1,5% |
+| 348 **psyprax** | psyprax | GmbH | 9,1% | 10.699 | 10.763 | -64 | -0,6% |
+| 203 **ALBIS** | CompuGroup | Medical Deutschland AG | 3,2% | 3.763 | 3.831 | -68 | -1,8% |
+| 266 **x.comfort** | medatixx | GmbH & Co. KG | 1,8% | 2.120 | 2.203 | -83 | -3,8% |
+| 243 **x.concept** | medatixx | GmbH & Co. KG | 3,2% | 3.829 | 3.922 | -93 | -2,4% |
+| 280 **CGM MEDISTAR BLACK PRO** | CompuGroup | Medical Deutschland AG | 8,5% | 10.045 | 10.140 | -95 | -0,9% |
+| 216 **x.isynet** | medatixx | GmbH & Co. KG | 5,4% | 6.327 | 6.464 | -137 | -2,1% |
+| 112 **TURBOMED** | CompuGroup | Medical Deutschland AG | 5,7% | 6.710 | 6.930 | -220 | -3,2% |
+|  |  |  | 4 |  |  |  |  |
+
+Schwerdtner Medizin-Software GmbH MedVision AG Data-AL GmbH NEXUS / DIGITAL PATHOLOGY GmbH Abasoft EDV-Programme GmbH MEDYS GmbH Neutz GmbH Systemhaus MediSoftware Computersysteme für Ärzte Deutsche Telekom Clinical Solutions Gmb Bitron GmbH Technologiesysteme HASOMED GmbH PRO MEDISOFT AG S3 Praxiscomputer GmbH / Maximilian Fle medatixx GmbH & Co. KG CompuGroup Medical Deutschland AG CompuGroup Medical Deutschland AG Frey ADV GmbH psyprax GmbH CompuGroup Medical Deutschland AG medatixx GmbH & Co. KG medatixx GmbH & Co. KG CompuGroup Medical Deutschland AG medatixx GmbH & Co. KG CompuGroup Medical Deutschland AG teil 2.Q.2025 ionen 2.Q.2025 tionen 1.Q.2025

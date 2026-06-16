@@ -29,7 +29,7 @@
 
 ---
 
-| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
 |---|---|---|---|
 | **Anlage 6*:** |  |  |  |
 | **Anlage 6*:** |  |  |  |

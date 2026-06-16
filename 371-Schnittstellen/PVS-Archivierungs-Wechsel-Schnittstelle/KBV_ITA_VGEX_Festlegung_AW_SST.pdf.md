@@ -11,7 +11,7 @@
 
 ## [KBV_ITA_VGEX_FESTLEGUNG_AW_SST]
 
-BUNDESVEREINIGUNG  IT IN DER ARZTPRAXISSeite 1 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+BUNDESVEREINIGUNG  IT IN DER ARZTPRAXIS
 
 
 ---
@@ -160,8 +160,6 @@ BUNDESVEREINIGUNG  IT IN DER ARZTPRAXISSeite 1 von 41 / KBV / Festlegung der Arc
 
 39
 
-Seite 2 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2. 0 / 8. Dezember 2020
-
 
 ---
 
@@ -193,68 +191,50 @@ Seite 2 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 3
 
 **41**
 
-Seite 3 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
-
-
 ---
 
 DOKUMENTENHISTORIE
 
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.2.0 | 08.12.2020 |  | 1. 2. 3. 4. 5. 6. 7. | Harmonisierun | 5      8    40    40    12-28                19 &  28 |
 
-Änderung der gesetzlichen Grundlage in § 371 und § 372 Umsetzung einer Basisversion in Kapitel 3 aufgenommen Neues Kapitel 5 „Umsetzung der systemeigenen Schnittstelle “ eingefügt Neue Kapitel 6 „Umsetzungsfrist“ und 7 „Gültigkeit“ eingefügt Umstellung aller FHIR Ressourcen von STU3 auf R4. Dadurch Änderung aller Modelle und Ressourcen inkl. der Dateinamen von 74_* in KBV_* Div. kleinere redaktionel le Änderungen in den gelb markierten Kapitelüberschriften Entfernen der Extension und Namingsystem für die VKNR
+Änderung der gesetzlichen Grundlage in § 371 und § 372 Umsetzung einer Basisversion in Kapitel 3 aufgenommen Neues Kapitel 5 „Umsetzung der systemeigenen Schnittstelle “ eingefügt Neue Kapitel 6 „Umsetzungsfrist“ und 7 „Gültigkeit“ eingefügt Umstellung aller FHIR Ressourcen von STU3 auf R4. Dadurch Änderung aller Modelle und Ressourcen inkl. der Dateinamen von 74_* in KBV_* Div. kleinere redaktionel le Änderungen in den gelb markierten Kapitelüberschriften Entfernen der Extension und Namingsystem für die VKNR 
+
 
 ---
 
 # 1 EINLEITUNG
 
-Nach § 371 Absatz 1 SGB V sind in informationstechnische Systeme der vertragsärztlichen Versorgung, die  zum Erheben, Verarbeiten und Nutzen von personenbezogenen Patientendaten eingesetzt werden, offene  und standardisierte Schnittstellen zu integrieren. Diese Schnittstellen sollen eine systemneutrale
-
-Archivierung sowie die Übertragung von Patientendaten beim Systemwechsel ermöglichen. Die KBV ist zur  Festlegung dieser Schnittstellen gesetzlich nach § 372 Absatz 1 SGB V verpflichtet. Zusätzlich ist die KBV
-
-gesetzlich verpflichtet, ein Zulassungsverfahren anzubieten, in dem die informationstechnischen Systeme die  korrekte Umsetzung der Schnittstelle gegenüber der KBV nachweisen.
+Nach § 371 Absatz 1 SGB V sind in informationstechnische Systeme der vertragsärztlichen Versorgung, die  zum Erheben, Verarbeiten und Nutzen von personenbezogenen Patientendaten eingesetzt werden, offene  und standardisierte Schnittstellen zu integrieren. Diese Schnittstellen sollen eine systemneutrale  Archivierung sowie die Übertragung von Patientendaten beim Systemwechsel ermöglichen. Die KBV ist zur  Festlegung dieser Schnittstellen gesetzlich nach § 372 Absatz 1 SGB V verpflichtet. Zusätzlich ist die KBV  gesetzlich verpflichtet, ein Zulassungsverfahren anzubieten, in dem die informationstechnischen Systeme die  korrekte Umsetzung der Schnittstelle gegenüber der KBV nachweisen.
 
 Aus technischer Sicht handelt es sich um eine Schnittstelle, welche im Rahmen der verschiedenen  Anwendungsfälle (Archivierung und Systemwechsel) zum Einsatz kommt und wird daher folgend im  Dokument als Schnittstelle bezeichnet.
 
-Des Weiteren wird im Folgenden der Begriff Praxisverwaltungssystem (PVS) für IT-Systeme in der
-
-vertragsärztlichen Versorgung verwendet, welche für die primäre Speicherung personenbezogener  Patientendaten einer Arztpraxis vorgesehen sind. Dieses sind mindestens alle Systeme, die eine KVDT Zulassung haben.
+Des Weiteren wird im Folgenden der Begriff Praxisverwaltungssystem (PVS) für IT-Systeme in der  vertragsärztlichen Versorgung verwendet, welche für die primäre Speicherung personenbezogener  Patientendaten einer Arztpraxis vorgesehen sind. Dieses sind mindestens alle Systeme, die eine KVDT Zulassung haben.
 
 Der Umfang der Umsetzung der Schnittstelle richtet sich nach dem Entwicklungs - und Einsatzzweck des  Systems. Es werden die grundsätzlich unterschieden:
 
 - PVS, für die primäre Speicherung personenbezogener Patientendaten einer Arztpraxis (Kapitel 2, 3 und 4)
+- Individualsoftware (Kapitel 5)
 
-- Individualsoftware (Kapitel 5) -
-
+```
 -
-
+-
+```
 
 ---
 
 # 2. UMSETZUNG DER ARCHIV- UND WECHSELSCHNITTSTELLE
 
-Sowohl für Systemwechsel als auch Archivierung wird eine einheitliche, dateibasierte Schnittstelle auf FHIR® Basis (Fast Healthcare Interoperability Resources) im XML-Format spezifiziert. Mit FHIR® kommt eine  zukunftsorientierte Technologie zum Einsatz, mit der die Interoperabilität zwischen den
-
-Praxisverwaltungssystemen ermöglicht wird.
+Sowohl für Systemwechsel als auch Archivierung wird eine einheitliche, dateibasierte Schnittstelle auf FHIR® Basis (Fast Healthcare Interoperability Resources) im XML-Format spezifiziert. Mit FHIR® kommt eine  zukunftsorientierte Technologie zum Einsatz, mit der die Interoperabilität zwischen den  Praxisverwaltungssystemen ermöglicht wird.
 
 Abbildung 1 Überblick
 
-Grundsätzlich muss das exportierende PVS 1 die in ihm vorliegenden Daten in die vorgegebene Struktur der  Schnittstelle generieren. Dabei werden die PVS-Daten (Patientenakten/ Behandlungsdokumentation,
+Grundsätzlich muss das exportierende PVS 1 die in ihm vorliegenden Daten in die vorgegebene Struktur der  Schnittstelle generieren. Dabei werden die PVS-Daten (Patientenakten/ Behandlungsdokumentation,  Termine, Adresse usw.) in FHIR®-Ressourcen überführt. Dokumente, die im PVS 1 vorliegen, bleiben im  Ursprungsformat enthalten und werden in diesem Format über die Schnittstelle transportiert. Sowohl die  FHIR®-Dateien als auch die exportierten Dokumente sind in einer vorgegebenen Ordnerstruktur abzulegen.
 
-Termine, Adresse usw.) in FHIR®-Ressourcen überführt. Dokumente, die im PVS 1 vorliegen, bleiben im
+Bei einem Systemwechsel importiert das PVS 2 die Daten aus den FHIR®-Dateien und übernimmt diese, wenn  immer möglich in strukturierter Form. Die Dokumente wie z. B. Bilder, PDFs sind zu übernehmen und für eine  mögliche Nachbearbeitung bzw. Zuordnung im Zielsystem anzuzeigen.
 
-Ursprungsformat enthalten und werden in diesem Format über die Schnittstelle transportiert. Sowohl die  FHIR®-Dateien als auch die exportierten Dokumente sind in einer vorgegebenen Ordnerstruktur abzulegen.
-
-Bei einem Systemwechsel importiert das PVS 2 die Daten aus den FHIR®-Dateien und übernimmt diese, wenn
-
-immer möglich in strukturierter Form. Die Dokumente wie z. B. Bilder, PDFs sind zu übernehmen und für eine  mögliche Nachbearbeitung bzw. Zuordnung im Zielsystem anzuzeigen.
-
-Bei der Archivierung werden die FHIR®-Dateien und Dokumente der Schnittstelle auf den entsprechenden
-
-Datenträgern (Festplatte, CD, DVD etc.) abgelegt und können von dort eingesehen werden.
-
+Bei der Archivierung werden die FHIR®-Dateien und Dokumente der Schnittstelle auf den entsprechenden  Datenträgern (Festplatte, CD, DVD etc.) abgelegt und können von dort eingesehen werden.
 
 ---
 
@@ -264,29 +244,17 @@ Mit der Schnittstelle werden die im nachfolgenden skizzierten Einsatzzwecke unte
 
 ### 2.1.1 Wechsel des Praxisverwaltungssystems
 
-Die Schnittstelle ermöglicht den Datenexport aus einem Praxisverwaltungssystem in eine maschinenlesbare,
+Die Schnittstelle ermöglicht den Datenexport aus einem Praxisverwaltungssystem in eine maschinenlesbare,  strukturierte und vom Praxisverwaltungssystem unabhängige Struktur. Über die Schnittstelle kann sowohl  die Gesamtheit als auch eine Teilmenge der Informationen aus dem Praxisverwaltungssystem exportiert  werden. Die Teilmenge der Daten kann beispielsweise auf Basis von Patientendaten oder  Behandlungszeiträumen selektiert werden.
 
-strukturierte und vom Praxisverwaltungssystem unabhängige Struktur. Über die Schnittstelle kann sowohl  die Gesamtheit als auch eine Teilmenge der Informationen aus dem Praxisverwaltungssystem exportiert
-
-werden. Die Teilmenge der Daten kann beispielsweise auf Basis von Patientendaten oder  Behandlungszeiträumen selektiert werden.
-
-Auf Basis der exportierten Struktur ermöglicht die Schnittstelle den Import dieser Daten, in ein anderes
-
-Praxisverwaltungssystem. Beim Import muss immer der gesamte exportierte Umfang der Schnittstelle  berücksichtigt werden.
+Auf Basis der exportierten Struktur ermöglicht die Schnittstelle den Import dieser Daten, in ein anderes  Praxisverwaltungssystem. Beim Import muss immer der gesamte exportierte Umfang der Schnittstelle  berücksichtigt werden.
 
 ### 2.1.2 Archivierung der Daten des Praxisverwaltungssystems
 
-Die Schnittstelle ermöglicht den Datenexport aus einem Praxisverwaltungssystems in eine vom
+Die Schnittstelle ermöglicht den Datenexport aus einem Praxisverwaltungssystems in eine vom  Praxisverwaltungssystem unabhängige und menschenlesbare Form u.A. als PDF-Datei, welche auf einer  maschinenlesbaren Struktur aufbaut. Steht nach Beendigung der Tätigkeit als Behandelnder bpsw. kein PVS  für Auskünfte, die die Dokumentaionspflicht nach gemäß § 630f BGB betreffen, zur Verfügung, kann dies  mittels dem erzeugten menschenlesbaren PDF erfolgen.
 
-Praxisverwaltungssystem unabhängige und menschenlesbare Form u.A. als PDF-Datei, welche auf einer  maschinenlesbaren Struktur aufbaut. Steht nach Beendigung der Tätigkeit als Behandelnder bpsw. kein PVS  für Auskünfte, die die Dokumentaionspflicht nach gemäß § 630f BGB betreffen, zur Verfügung, kann dies  mittels dem erzeugten menschenlesbaren PDF erfolgen.
+Über die Schnittstelle kann sowohl die Gesamtheit als auch eine Teilmenge der Informationen aus dem  Praxisverwaltungssystem exportiert werden. Die Teilmenge der Daten kann beispielsweise auf Basis von  Patientendaten oder Behandlungszeiträumen selektiert werden.
 
-Über die Schnittstelle kann sowohl die Gesamtheit als auch eine Teilmenge der Informationen aus dem  Praxisverwaltungssystem exportiert werden. Die Teilmenge der Daten kann beispielsweise auf Basis von
-
-Patientendaten oder Behandlungszeiträumen selektiert werden.
-
-Grundsätzlich erfolgt die Archivierung als Export der Datei auf ein Speichermedium ohne den Import in ein  anderes oder das gleiche PVS. Ein Import der archivierten Struktur in ein leeres PVS wäre unter Umständen
-
-möglich, ist aber nicht primärer Einsatzzweck.
+Grundsätzlich erfolgt die Archivierung als Export der Datei auf ein Speichermedium ohne den Import in ein  anderes oder das gleiche PVS. Ein Import der archivierten Struktur in ein leeres PVS wäre unter Umständen  möglich, ist aber nicht primärer Einsatzzweck.
 
 ## 2.2  ABGRENZUNG DER SCHNITTSTELLE
 
@@ -296,59 +264,39 @@ Die Schnittstelle ist nicht als Ersatz eines Systembackups des PVS konzipiert.
 
 Die revisionssichere Aufbewahrung der exportierten Dateien ist nicht Bestandteil der Schnittstelle.
 
-Inhalt der Schnittstelle sind nur solche Informationen und Dokumente, die sich in der Hoheit des  exportierenden PVS befinden. Hinsichtlich der im PVS verwalteten Dokumente bedeutet dies, sobald das PVS
-
-Ablageort und Ablagestruktur der Dokumente bestimmt und verwaltet, sind diese Dokumente Teil der
-
-vorliegenden Schnittstelle.
+Inhalt der Schnittstelle sind nur solche Informationen und Dokumente, die sich in der Hoheit des  exportierenden PVS befinden. Hinsichtlich der im PVS verwalteten Dokumente bedeutet dies, sobald das PVS  Ablageort und Ablagestruktur der Dokumente bestimmt und verwaltet, sind diese Dokumente Teil der  vorliegenden Schnittstelle.
 
 Bei der Nutzung der Schnittstelle im Rahmen des Einsatzszenarios „Wechsel des Praxisverwaltungssystems“  wird davon ausgegangen, dass der Import in ein leeres PVS ohne weitere Rahmenbindungen erfolgt. Beim  Import in ein bereits genutztes PVS muss zusätzliche eine Migration (Zusammenführen der Daten von  Behandelnden- und/oder Behandlungsdokumentation etc.) durchgeführt werden. Dies ist nicht Bestandteil  der vorliegenden Schnittstellenfestlegung.
-
 
 ---
 
 # 3. UMSETZUNG DER VERSION
 
-Die Hersteller müssen die Version 1.2.0 nicht vollständig bis zur Umsetzungsfrist nach Kapitel 6 umsetzen. Es  sind im ersten Schritt in der Basisversion die administrativen Profile verpflichtend (Markierung siehe Spalte
+Die Hersteller müssen die Version 1.2.0 nicht vollständig bis zur Umsetzungsfrist nach Kapitel 6 umsetzen. Es  sind im ersten Schritt in der Basisversion die administrativen Profile verpflichtend (Markierung siehe Spalte  „Umsetzung zum“ Kapitel 3.5 umzusetzen. Die verpflichtenden Profile der Basisversion sind vollständig mit  allen Elementen, Extensions, ValueSets, CodeSets und NamingSystems umzusetzen. Dieser Funktionsumfang  wird nach Erreichen der Umsetzungsfrist sukzessive durch die KBV erweitert. Eine erneute Zertifizierung ist  nicht notwendig.
 
-„Umsetzung zum“ Kapitel 3.5 umzusetzen. Die verpflichtenden Profile der Basisversion sind vollständig mit  allen Elementen, Extensions, ValueSets, CodeSets und NamingSystems umzusetzen. Dieser Funktionsumfang
-
-wird nach Erreichen der Umsetzungsfrist sukzessive durch die KBV erweitert. Eine erneute Zertifizierung ist  nicht notwendig.
-
-Hintergrund dieser Vorgehensweise ist der enorme Umfang der Schnittstelle mit einer neuen Technologie.
-
-Nicht alle Hersteller können diese im definierten Umfang im vorgegebenen Zeitrahmen vollständig umsetzen.
-
-Dieses Vorgehen lehnt sich auch die Vorgaben der anderen Sektoren an, die ein stufenweises Vorgehen der  Schnittstellen wählen werden.
+Hintergrund dieser Vorgehensweise ist der enorme Umfang der Schnittstelle mit einer neuen Technologie.  Nicht alle Hersteller können diese im definierten Umfang im vorgegebenen Zeitrahmen vollständig umsetzen.  Dieses Vorgehen lehnt sich auch die Vorgaben der anderen Sektoren an, die ein stufenweises Vorgehen der  Schnittstellen wählen werden.
 
 Dadurch das ggf. bei der Umsetzung einer Basisversion nicht alle Informationen strukturiert abgebildet  werden können, sind diese zwingend als Anlage im ursprünglichen Format oder als PDF bereitzustellen.
 
-Die Elemente mit der FHIR-Eigenschaft "mustSupport" müssen bei der Umsetzung des geringeren
-
-Funktionsumfangs nur für die Elemente die die verpflichtenden Profile betreffen implementiert werden.  Werden weitere optionale Profile umgesetzt sind die Elemente die mit "mustSupport" gekennzeichnet sind  immer umzusetzen.
-
+Die Elemente mit der FHIR-Eigenschaft "mustSupport" müssen bei der Umsetzung des geringeren  Funktionsumfangs nur für die Elemente die die verpflichtenden Profile betreffen implementiert werden.  Werden weitere optionale Profile umgesetzt sind die Elemente die mit "mustSupport" gekennzeichnet sind  immer umzusetzen.
 
 ---
 
 ## 3.1 FACHLICHES INFORMATIONSMODELL DER SCHNITTSTELLE
 
-In der Schnittstelle ist grundsätzlich die Gesamtheit der Informationsobjekte abgebildet, die für die primäre  Speicherung personenbezogener Patientendaten einer Arztpraxis vorliegen. Neben der Dokumentation der  Behandlung (z. B. gemäß § 630f BGB) und Abrechnungsdaten (z. B. gemäß § 295 SGB V) gehören dazu auch  die Patientenstamm-Daten, die KBV-Muster sowie die Inhalte möglicher Schnittstellen für den Austausch
-
-bzw. die Dokumentation von speziellen Behandlungen wie z. B. DMPs. Des Weiteren werden die  administrativen Daten (Termine, Adressen, Behandlungsbausteine etc.) im Informationsmodell  berücksichtigt.
+In der Schnittstelle ist grundsätzlich die Gesamtheit der Informationsobjekte abgebildet, die für die primäre  Speicherung personenbezogener Patientendaten einer Arztpraxis vorliegen. Neben der Dokumentation der  Behandlung (z. B. gemäß § 630f BGB) und Abrechnungsdaten (z. B. gemäß § 295 SGB V) gehören dazu auch  die Patientenstamm-Daten, die KBV-Muster sowie die Inhalte möglicher Schnittstellen für den Austausch  bzw. die Dokumentation von speziellen Behandlungen wie z. B. DMPs. Des Weiteren werden die  administrativen Daten (Termine, Adressen, Behandlungsbausteine etc.) im Informationsmodell  berücksichtigt.
 
 Die erste Ebene des Informationsmodells kann der Abbildung 1 entnommen werden. Eine detaillierte  Darstellung des Informationsmodells befindet sich in [KBV_ITA_VGEX_Informationsmodell_AW_SST].
+
+-findet statt
 
 -hat 1
 
 0..*
 
--enthält
-
-**Te** **rmin**
+-enthält **Te** **rmin**
 
 **Patie** **nt**
-
--findet statt
 
 0..*
 
@@ -360,75 +308,69 @@ Die erste Ebene des Informationsmodells kann der Abbildung 1 entnommen werden. E
 
 -zugeordnet 0..*
 
-0..*
-
-0..* -hat
-
-**Leis** **tungsge** **ne** **hmigung**
-
-**Krankenversicherungsverhältnis**
-
-0..1
-
-0..1
-
 0..1
 
 0..* -erhält
 
-0..* -enthält
-
-|  | 1 0..* |  | -enhält -wird abgerechnet |  |
+|  | 0..* | abgerechnet1 | -enhält -wird |  |
 |---|---|---|---|---|
-| **Behandelnder** |  | **Begegnung/Hausbesuch** |  | **Abrechnung** |
+|  | **Begegnung/HausbesuchBehandelnder** |  |  | **Abrechnung** |
 |  | -wird durchgeführt -führt |  | 1..* 0..* |  |
-
--hat
-
-0..*
 
 | -arbeiten | 1..* |
 |---|---|
 | in | 0..* |
 
--hat 0..*
-
 0..* -finden statt
-
-0..*
-
-**Ringversuchszertifikat**
 
 -arbeitet in
 
-0..1
-
-**Betriebsstätte**
+0..1 **Betriebsstätte**
 
 0..1
 
 -findet statt
 
-Abbildung 2 Ebene 1 des fachlichen Informationsmodells
+0..* 0..* -hat
+
+**Krankenversicherungsverhältnis**
+
+**Leis** **tungsge** **ne** **hmigung**
+
+0..1
+
+0..1
+
+0..* -enthält
+
+-hat
+
+0..*
+
+-hat 0..*
+
+0..*
+
+**Ringversuchszertifikat**
+
+Abbildung 2 Ebene 1 des fachlichen Informationsmodells -wird abgerechnet
 
 
 ---
 
 ## 3.2 FHIR®-DEFINITION
 
-Die FHIR®-Spezifikation definiert eine Reihe von Basis-Ressourcen, welche in verschiedenen Bereichen des  Gesundheitswesens eingesetzt werden können. Die FHIR®-Ressourcen und eine Zusammenstellung der
+Die FHIR®-Spezifikation definiert eine Reihe von Basis-Ressourcen, welche in verschiedenen Bereichen des  Gesundheitswesens eingesetzt werden können. Die FHIR®-Ressourcen und eine Zusammenstellung der  FHIR®-Notation spezifizierten Elemente befinden sich in der [FHIR®]-Spezifikation.
 
-FHIR®-Notation spezifizierten Elemente befinden sich in der [FHIR®]-Spezifikation.
-
-Die Schnittstelle gemäß 371 Absatz 1 SGB V wird mittels spezifischen KBV-Profilen definiert. D. h. es werden
-
-die vorhandenen FHIR®-Ressourcen für die Schnittstelle angepasst und als KBV -Profile veröffentlicht.
+Die Schnittstelle gemäß 371 Absatz 1 SGB V wird mittels spezifischen KBV-Profilen definiert. D. h. es werden  die vorhandenen FHIR®-Ressourcen für die Schnittstelle angepasst und als KBV -Profile veröffentlicht.
 
 Eine wichtige Eigenschaft von Attributen in den KBV-Profilen bildet "must-support". Hierbei handelt es sich  um Attribute, welche unterstützt werden müssen, wenn das entsprechende FHIR® -Profil in der Schnittstelle  genutzt wird.
 
-Die Elemente in den KBV-Profilen sowie deren Kardinalitäten, Datentypen und weitere Eigenschaften sind
+Die Elemente in den KBV-Profilen sowie deren Kardinalitäten, Datentypen und weitere Eigenschaften sind  [den FHIR®-XML-Definitionsdateien zu entnehmen. Diese sind zu finden unter:](ftp://ftp.kbv.de/ita-update/371-Schnittstellen/PVS-Archivierungs-Wechsel-Schnittstelle/)[ftp://ftp.kbv.de/ita](ftp://ftp.kbv.de/ita-update/371-Schnittstellen/PVS-Archivierungs-Wechsel-Schnittstelle/) [update/371-Schnittstellen/PVS](ftp://ftp.kbv.de/ita-update/371-Schnittstellen/PVS-Archivierungs-Wechsel-Schnittstelle/)[-Archivierungs-Wechsel-Schnittstelle/](ftp://ftp.kbv.de/ita-update/371-Schnittstellen/PVS-Archivierungs-Wechsel-Schnittstelle/)
 
-den FHIR®-XML-Definitionsdateien zu entnehmen. Diese sind zu finden unter: ftp://ftp.kbv.de/ita update/371-Schnittstellen/PVS-Archivierungs-Wechsel-Schnittstelle/.
+```
+[](ftp://ftp.kbv.de/ita-update/371-Schnittstellen/PVS-Archivierungs-Wechsel-Schnittstelle/)
+```
 
 ## 3.3 BEGRIFFSBESTIMMUNGEN UND DATEINAMEN
 
@@ -438,9 +380,7 @@ Alle für die Schnittstelle verwendeten übergeordneten FHIR®-Ressourcen (von H
 
 ### 3.3.2 Instanzen
 
-Die im Export erzeugten FHIR®-XML-Dateien mit den realen Daten, werden folgend als FHIR®-Instanzen
-
-bezeichnet.
+Die im Export erzeugten FHIR®-XML-Dateien mit den realen Daten, werden folgend als FHIR®-Instanzen  bezeichnet.
 
 ### 3.3.3 Dateinamen für Profil, Extension, CodeSystem, ValueSet, NamingSystem
 
@@ -451,16 +391,12 @@ Die Dateinamen für die Elemente der FHIR®-Spezifikationsdateien setzen sich wi
 **Bedeutung**
 
 - Kürzel - KBV (ist ein fester Wert)
-
 - Kategorie - PR (Profil), EX (Extension), VS (ValueSet), CS (CodeSystem) und NS (NamingSystem)
-
 - Thema - AW (steht für Archiv- und Wechselschnittstelle und ist ein fester Wert)
-
 - Bezeichnung - Bezeichnung der entsprechenden Fachlichkeit
 
 \| **Beispiel: ** Dateiname: KBV_PR_AW_System |
 \|---|
-
 
 ---
 
@@ -486,9 +422,7 @@ Begegnung :: **Allergie(AllergyIntolerance)**
 
 Begegnung :: **Anamnese(Obse** **rva** **tion )**
 
--Patient
-
-Begegnung :: **Bef** **und (Obse** **rva** **tion )**
+-Patient Begegnung :: **Bef** **und (Obse** **rva** **tion )**
 
 -Patient
 
@@ -496,13 +430,7 @@ Begegnung :: **Notf** **all (ServiceRequest )**
 
 Begegnung :: **Ueberweisung_KH-Einweisung (ServiceRequest )**
 
-Begegnung :: **Abrechnung_vorläufig (Claim )**
-
--BehandelnderFunktion -Patient
-
--Behandelnder
-
--Betriebsstaette
+Begegnung :: **Abrechnung_vorläufig (Claim )** -BehandelnderFunktion -Patient -Behandelnder -Betriebsstaette
 
 -Betriebsstaette
 
@@ -524,27 +452,15 @@ Begegnung :: **Ma** **te** **rial _Sache (Device )**
 
 Begegnung ::Therapie(Proce dure ) -Diagnos e -Patient
 
-Begegnung :: **Untersuchung(Procedure)** Begegnung :: **Begegnung(Encounter)**
+Begegnung :: **Untersuchung(Procedure)** Begegnung :: **Begegnung(Encounter)** -Patient -Behandelnder -Betriebsstaette -Diagnos e
 
--Patient -Behandelnder -Betriebsstaette -Diagnos e
+Begegnung :: **Hausbesuch(Encounter)** -Anamnese
 
-Begegnung :: **Hausbesuch(Encounter)**
-
--Anamnese
-
-Begegnung ::Unf all (Condition ) -Patient
-
--Allergie
-
--Patient
+Begegnung ::Unf all (Condition ) -Patient -Allergie -Patient
 
 -Te rmin
 
-Begegnung :: **Hausbesuch_Ort(Location )**
-
-Begegnung :: **Verordnung Arzneimittel(Medicationrequest**
-
-Begegnung :: **Me** **dikament (Medication)**
+Begegnung :: **Hausbesuch_Ort(Location )** Begegnung :: **Verordnung Arzneimittel(Medicationrequest** Begegnung :: **Me** **dikament (Medication)**
 
 -Patient
 
@@ -554,25 +470,17 @@ Begegnung :: **Genetische Untersuchung(Procedure)**
 
 Begegnung :: **Verordnung Heilmittel(ServiceRequest )**
 
--Privatabrechnung
+-Privatabrechnung -Diagnos e
 
--Diagnos e
-
--HzV_BesondereVersorgung _Selektiv -Patient
-
--BG-Abrechnung
+-HzV_BesondereVersorgung _Selektiv -Patient -BG-Abrechnung
 
 Begegnung :: **Ambulante_Operation _General (Procedure)**
 
--Patient
-
-Begegnung :: **Hilfsmittel(Device )** Begegnung :: **Verordnung Hilfsmittel(ServiceRequest )**
+-Patient Begegnung :: **Hilfsmittel(Device )** Begegnung :: **Verordnung Hilfsmittel(ServiceRequest )**
 
 -Patient
 
-Begegnung :: **Ambulante_Operation (Procedure)**
-
-Begegnung :: **Verordnung Arbeitsunfähigkeit(ServiceRequest )**
+Begegnung :: **Ambulante_Operation (Procedure)** Begegnung :: **Verordnung Arbeitsunfähigkeit(ServiceRequest )**
 
 -Patient
 
@@ -580,29 +488,17 @@ Begegnung :: **Verordnung Arbeitsunfähigkeit(ServiceRequest )**
 
 Begegnung :: **Impf** **ung (Immunization)**
 
-Begegnung :: **Kurgenehmigung, Kurverlaengerung(Elig** **ibilityResponse )** Begegnung :: **Kur_Antrag (Elig** **ibilityRequest )** Begegnung :: **Kur(Procedure)**
-
--Patient
-
--Patient
+Begegnung :: **Kurgenehmigung, Kurverlaengerung(Elig** **ibilityResponse )** Begegnung :: **Kur_Antrag (Elig** **ibilityRequest )** Begegnung :: **Kur(Procedure)** -Patient -Patient
 
 -Krankenversicherungsverhaeltnis -Begegnung
 
-Begegnung :: **Krankenbefoederung_Bef** **oe** **rde** **rungsmittel _Loka** **tion (** Begegnung :: **Krankenbefoederung_Bef** **oe** **rde** **rungsmittel (Device )** Begegnung :: **Krankenbefoerderung, Krankenbefoerderung**
+Begegnung :: **Krankenbefoederung_Bef** **oe** **rde** **rungsmittel _Loka** **tion (** Begegnung :: **Krankenbefoederung_Bef** **oe** **rde** **rungsmittel (Device )** Begegnung :: **Krankenbefoerderung, Krankenbefoerderung** **Location )**
 
-**Location )**
-
-**42019 (ServiceRequest )**
-
--Patient
+**42019 (ServiceRequest )** -Patient
 
 Abrechnung
 
-Sonstige :: **Abrechnung_HzV_BesondereVersorgung _Selektiv (**
-
-Sonstige :: **Abrechnung_BG(Claim ) Claim )** Sonstige :: **Abrechnung_Vertragsaerztlich (Claim )**
-
-Sonstige :: **Abrechnung_Privat (Claim )** -Organisation -Organisation
+Sonstige :: **Abrechnung_HzV_BesondereVersorgung _Selektiv (** Sonstige :: **Abrechnung_BG(Claim ) Claim )** Sonstige :: **Abrechnung_Vertragsaerztlich (Claim )** Sonstige :: **Abrechnung_Privat (Claim )** -Organisation -Organisation
 
 -Weiterbehandlung _durch
 
@@ -666,39 +562,21 @@ Begegnung :: **Krebsfrueherkennung_Frauen _Auf** **trag (ServiceRequest )**
 
 -Patient -Begegnung
 
-Begegnung :: **Krebsfrueherkennung_Frauen _Gynaekologische_Operation (** **Procedure)**
-
--Patient
+Begegnung :: **Krebsfrueherkennung_Frauen _Gynaekologische_Operation (** **Procedure)** -Patient
 
 Begegnung :: **Krebsfrueherkennung_Bef** **und _Rektum _Kolon(Obse** **rva** **tion )**
 
-Begegnung :: **Krebsfrueherkennung_Frauen _Anamese _Diverse (**
-
-**Obse** **rva** **tion )**
-
--Patient
+Begegnung :: **Krebsfrueherkennung_Frauen _Anamese _Diverse (** **Obse** **rva** **tion )** -Patient
 
 Begegnung :: **Krebsfrueherkennung_Ma** **enne** **r_Auf** **trag (ServiceRequest )**
 
-Begegnung :: **Krebsfrueherkennung_Frauen _Anamese _Hormona** **nwe** **ndung (**
+Begegnung :: **Krebsfrueherkennung_Frauen _Anamese _Hormona** **nwe** **ndung (** **Obse** **rva** **tion )**
 
-**Obse** **rva** **tion )**
-
-Begegnung :: **Krebsfrüherkennung_Mä** **nner (Composition )**
-
--Patient
-
--Patient -Behandelnder
+Begegnung :: **Krebsfrüherkennung_Mä** **nner (Composition )** -Patient -Patient -Behandelnder
 
 Begegnung :: **Krebsfrueherkennung_Ma** **enne** **r_Anamese _Diverse (** -Blutdruck
 
-**Obse** **rva** **tion )**
-
-Begegnung :: **Krebsfrueherkennung_Frauen _Bef** **und _Diverse (**
-
-**Obse** **rva** **tion )**
-
--Patient
+**Obse** **rva** **tion )** Begegnung :: **Krebsfrueherkennung_Frauen _Bef** **und _Diverse (** **Obse** **rva** **tion )** -Patient
 
 Begegnung :: **Krebsfrüherkennung_Frauen (Composition )**
 
@@ -712,45 +590,27 @@ Begegnung :: **Krebsfrueherkennung_Frauen _Bef** **und _Diverse _Ab30 (**
 
 **Obse** **rva** **tion )**
 
-**Obse** **rva** **tion )**
+**Obse** **rva** **tion )** -Patient
 
--Patient
-
-Begegnung :: **Krebsfrueherkennung_Frauen _Gynaekologische_Dia** **gnose (**
-
-**Obse** **rva** **tion )**
-
--Patient
+Begegnung :: **Krebsfrueherkennung_Frauen _Gynaekologische_Dia** **gnose (** **Obse** **rva** **tion )** -Patient
 
 **_Frauen _Zytologischer_Bef**
 
-Begegnung :: **Krebsfrueherkennung** **und _Diverse (**
-
-**Obse** **rva** **tion )**
+Begegnung :: **Krebsfrueherkennung** **und _Diverse (** **Obse** **rva** **tion )**
 
 **_Frauen _Zytologischer_Bef**
 
-Begegnung :: **Krebsfrueherkennung** **und _Endozervikal**
-
-**e_Zellen (Obse** **rva** **tion )**
+Begegnung :: **Krebsfrueherkennung** **und _Endozervikal** **e_Zellen (Obse** **rva** **tion )**
 
 Begegnung :: **Krebsfrueherkennung_Frauen _Auf** **trag _2020 (ServiceRequest )**
 
--Patient -Begegnung
-
-Begegnung :: **Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und _Gruppe(**
-
-**Obse** **rva** **tion )**
+-Patient -Begegnung Begegnung :: **Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und _Gruppe(** **Obse** **rva** **tion )**
 
 Begegnung :: **Krebsfrueherkennung_Frauen _HPV _Testergebnis _2020 (Obse** **rva** **tion )**
 
--Patient
+-Patient **_Frauen _Zytologischer_Bef**
 
-**_Frauen _Zytologischer_Bef**
-
-Begegnung :: **Krebsfrueherkennung** **und _Bemerkungen (**
-
-**Oberservation)**
+Begegnung :: **Krebsfrueherkennung** **und _Bemerkungen (** **Oberservation)**
 
 Begegnung :: **Zytologischer_Bef** **und (DiagnosticReport)**
 
@@ -768,45 +628,19 @@ Begegnung :: **Krebsfrüherkennung_Frauen _2020 (Composition )**
 
 -Patient
 
-Begegnung :: **Krebsfrueherkennung_Frauen _Gynaekologische_Operation (**
+Begegnung :: **Krebsfrueherkennung_Frauen _Gynaekologische_Operation (** -Blutdruck
 
--Blutdruck
+**Procedure)** -Patient Begegnung :: **Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und _Kontrolle_na** **ch_EntzuendungsBehandlung(Obse** **rva** **tion )**
 
-**Procedure)**
+Begegnung :: **Krebsfrueherkennung_Frauen _Anamese _Diverse (** **Obse** **rva** **tion )** -Patient Begegnung :: **Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und _Kontrolle_na** **ch_Freitext (Obse** **rva** **tion )**
 
--Patient
+Begegnung :: **Krebsfrueherkennung_Frauen _Anamese _Hormona** **nwe** **ndung (** **Obse** **rva** **tion )** -Patient **_Frauen _Zytologischer_Bef**
 
-Begegnung :: **Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und _Kontrolle_na**
-
-**ch_EntzuendungsBehandlung(Obse** **rva** **tion )**
-
-Begegnung :: **Krebsfrueherkennung_Frauen _Anamese _Diverse (**
-
-**Obse** **rva** **tion )**
-
--Patient
-
-Begegnung :: **Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und _Kontrolle_na**
-
-**ch_Freitext (Obse** **rva** **tion )**
-
-Begegnung :: **Krebsfrueherkennung_Frauen _Anamese _Hormona** **nwe** **ndung (**
-
-**Obse** **rva** **tion )**
-
--Patient
-
-**_Frauen _Zytologischer_Bef**
-
-Begegnung :: **Krebsfrueherkennung** **und _Kontrolle_na**
-
-**rva** **tion )**
+Begegnung :: **Krebsfrueherkennung** **und _Kontrolle_na** **rva** **tion )**
 
 **ch_Oe** **strogenBe** **ha** **ndlung (Obse**
 
-Begegnung :: **Krebsfrueherkennung_Frauen _Bef** **und _Diverse (**
-
-**Obse** **rva** **tion )**
+Begegnung :: **Krebsfrueherkennung_Frauen _Bef** **und _Diverse (** **Obse** **rva** **tion )**
 
 Begegnung :: **Zytologischer_Bef** **und _2020 (DiagnosticReport)**
 
@@ -814,83 +648,37 @@ Begegnung :: **Zytologischer_Bef** **und _2020 (DiagnosticReport)**
 
 **_Frauen _Zytologischer_Bef**
 
-Begegnung :: **Krebsfrueherkennung** **und _histologisch**
+Begegnung :: **Krebsfrueherkennung** **und _histologisch** **e_Kla** **erung (Obse** **rva** **tion )**
 
-**e_Kla** **erung (Obse** **rva** **tion )**
+Begegnung :: **Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und _Empfehlung(Se** Begegnung :: **Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und _Gruppe(** **rviceRequest )**
 
-Begegnung :: **Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und _Empfehlung(Se** Begegnung :: **Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und _Gruppe(**
+**Obse** **rva** **tion )** -Patient
 
-**rviceRequest )**
-
-**Obse** **rva** **tion )**
+Begegnung :: **Krebsfrueherkennung_Frauen _HPV _Testergebnis _2020 (Obse** **rva** **tion )** Begegnung :: **Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und _Diverse (** **Obse** **rva** **tion )**
 
 -Patient
 
-Begegnung :: **Krebsfrueherkennung_Frauen _HPV _Testergebnis _2020 (Obse** **rva** **tion )** Begegnung :: **Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und _Diverse (**
-
-**Obse** **rva** **tion )**
-
--Patient
-
-Begegnung :: **Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und _Bemerkungen (** Begegnung :: **Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und _Endozervikal**
-
-**Oberservation)**
+Begegnung :: **Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und _Bemerkungen (** Begegnung :: **Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und _Endozervikal** **Oberservation)**
 
 **e_Zellen (Obse** **rva** **tion )**
 
 Sonstige ::Anlage (DocumentReference )
 
--Patient -Begegnung -Betriebsstaette -Abrechnung_BG _HzV_BesondereVersorgung _Selektiv
-
--Abrechnung_privat _vertragsaerztlich
-
--Behandlungsbaustein_Te xtvorlage
-
--Observation _Anamnese _Bauchumfang
-
--Observation _Befund _Blutdruck
-
--Observation _Hueftumfang _Koerpergewicht
-
--Observation _Koerpergroesse _Koerpertemperatur
-
--Observation _Puls _Raucherstatus
-
--Observation _Schwangers chaft -Diagnos e -Allergie -Behandlung_im_Auftrag _Ueberweisung -Unf all -Ueberweisung_KH-Einweisung
-
--Notfall -Therapie -Untersuchung -Verordnung_Arbeitsunfa ehigkeit _Arzneimittel
-
--Verordnung_Heilmittel _Hilfsmittel
-
--Kur -Krankenbefoerderung -Krebsfrueherkennung_Frauen _Maenner
-
--Haus bes uch -Genetische _untersuchung -Ambulante_Operation _Genereal -Ringversuchszertifikat
+-Patient -Begegnung -Betriebsstaette -Abrechnung_BG _HzV_BesondereVersorgung _Selektiv -Abrechnung_privat _vertragsaerztlich -Behandlungsbaustein_Te xtvorlage -Observation _Anamnese _Bauchumfang -Observation _Befund _Blutdruck -Observation _Hueftumfang _Koerpergewicht -Observation _Koerpergroesse _Koerpertemperatur -Observation _Puls _Raucherstatus -Observation _Schwangers chaft -Diagnos e -Allergie -Behandlung_im_Auftrag _Ueberweisung -Unf all -Ueberweisung_KH-Einweisung -Notfall -Therapie -Untersuchung -Verordnung_Arbeitsunfa ehigkeit _Arzneimittel -Verordnung_Heilmittel _Hilfsmittel -Kur -Krankenbefoerderung -Krebsfrueherkennung_Frauen _Maenner -Haus bes uch -Genetische _untersuchung -Ambulante_Operation _Genereal -Ringversuchszertifikat
 
 *In der Klasse Provenienz wird nicht jede Klasse als Attribut explizit aufgeführt
 
-Patient
+Patient Sonstige :: **Vorsorgevollmacht(Conse** **nt )**
 
-Sonstige :: **Vorsorgevollmacht(Conse** **nt )**
-
-Sonstige :: **Dauermedikation (Medica** **tionSta** **tement )**
-
--Organisation
-
--Medikament
-
--Bezugsperson
+Sonstige :: **Dauermedikation (Medica** **tionSta** **tement )** -Organisation -Medikament -Bezugsperson
 
 Sonstige :: **Selektivvertrag (Contract )**
 
-Sonstige :: **Patie** **nt(** **nt)**
-
-Sonstige :: **Notf** **allberechtigter (Conse** **nt )**
+Sonstige :: **Patie** **nt(** **nt)** Sonstige :: **Notf** **allberechtigter (Conse** **nt )**
 
 -Organisation
 
--Organisation
-
--Bezugsperson
+-Organisation -Bezugsperson
 
 -Bezugsperson
 
@@ -904,17 +692,13 @@ Sonstige :: **Gesundheitspass(DocumentReference )**
 
 -Person
 
-Sonstige :: **Behandlungsbaustein_Baustein _Dia** **gnose , Leistungsziffer ,**
-
-Sonstige :: **Behandlungsbaustein_Definition(PlanDefinition )** **OM** **IM_G_Code , Sonstige (ActivityDefinition**
+Sonstige :: **Behandlungsbaustein_Baustein _Dia** **gnose , Leistungsziffer ,** Sonstige :: **Behandlungsbaustein_Definition(PlanDefinition )** **OM** **IM_G_Code , Sonstige (ActivityDefinition**
 
 Sonstige :: **Behandlungsbaustein_Baustein _Verordnung(ActivityDefinition**
 
 -Medikament
 
-Sonstige :: **Behandlungsbaustein_Baustein _Textvorlage(**
-
-**ActivityDefinition**
+Sonstige :: **Behandlungsbaustein_Baustein _Textvorlage(** **ActivityDefinition**
 
 Sonstige :: **Behandelnder(Practitioner** Sonstige :: **BehandeldnerFunktion(PractitionerRole**
 
@@ -924,9 +708,7 @@ Sonstige :: **Personen (Person)**
 
 Sonstige :: **Prove** **nienz (Prove** **na** **nce )**
 
--Behandelnder Sonstige :: **Mitarbeiter(Practitioner**
-
--Betriebsstaette -... -Jedes KBV-Profil *
+-Behandelnder Sonstige :: **Mitarbeiter(Practitioner** -Betriebsstaette -... -Jedes KBV-Profil *
 
 Provenienz
 
@@ -959,6 +741,7 @@ Die Attribute in den Klassen bezeichnen Referenzen. Der Name des Attributs ist d
 Die hier modellierten Profile werden beim Export in Form von einzelnen Dateien (Instanzen) im XML-Format  erzeugt. Die Beziehungen zu den anderen Instanzen werden in den Dateien durch URLs gehalten.
 
 Begegnung :: Koerpergewicht(KBV-Basis ), Koerpergroesse (KBV-Basis ), Koerpertemperatur, Begegnung :: gnose (Condition) Hueftumfang,Bauchumfang,Raucherstatus,Puls ,
+
 
 ---
 
@@ -2020,7 +1803,7 @@ smittel_med_fachliche_Betreuung enbefoederung_Befoerderungsmittel_med_ fachliche
 | KBV_EX_AW_SKT_Zusatzangabe | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_SKT_Z |
 | KBV_EX_AW_Termin_Terminserie | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Termi |
 
-Dauertherapie pie_Dauertherapie -Einweisung_AU- bis weisung_KH-Einweisung_AU-bis Einweisung_Operation weisung_KH-Einweisung_Operation smittel_Optionen_42019 enbefoederung_Befoerderungsmittel_Optionen_42019 Operation_Operationsdatum enbefoerderung_Ambulante_Operation_Operationsdatum _42019 enbefoerderung_ICD10_42019 ststellungsdatum Fe dnung_Arbeitsunfaehigkeit_Feststellungsdatum
+Dauertherapie -Einweisung_AU- bis Einweisung_Operation smittel_Optionen_42019 Operation_Operationsdatum _42019 ststellungsdatum pie_Dauertherapie weisung_KH-Einweisung_AU-bis weisung_KH-Einweisung_Operation enbefoederung_Befoerderungsmittel_Optionen_42019 enbefoerderung_Ambulante_Operation_Operationsdatum enbefoerderung_ICD10_42019 Fe dnung_Arbeitsunfaehigkeit_Feststellungsdatum
 
 ---
 
@@ -2337,8 +2120,7 @@ KBV-VALUESETS ValueSets beinhalten einen Satz von Codes aus einem CodeSystem, um
 | Ringversuchzertifikat_RV-Zertifikat | https://fhir.kbv.de/ValueSet/ |
 | Auftragsarten | https://fhir.kbv.de/ValueSet/ |
 
--Einweisung_Typ KBV_VS_AW_Psychotherapie_Per KBV_VS_AW_Raucherstatus KBV_VS_AW_Ringversuchszertifik KBV_VS_AW_Ringversuchzertifik KBV_VS_AW_Ueberweisung_Auft KBV_VS_AW_Ueberweisung_KH Einweisung_Typ KBV_VS_AW_Verordnung_Arbeit sunfaehigkeit_AU-Art KBV_VS_AW_Verordnung_Kur_K KBV_VS_AW_Abrechnung_Auslag KBV_VS_AW_Abrechnung_Mahn KBV_VS_AW_Anlagetyp KBV_VS_AW_Arzneimittelart KBV_VS_AW_Befundart KBV_VS_AW_Behandlungsbauste in_Verordnung_Typ KBV_VS_AW_Diagnoseart KBV_VS_AW_Diagnosekategorie KBV_VS_AW_Entschaedigungsart KBV_VS_AW_Gebuehrenordnung KBV_VS_AW_Gesundheitspass_T KBV_VS_AW_Hausbesuch_Besuc KBV_VS_AW_Hilfsmittel_HilfsmitSeite 26 von 41 / KBV / Festlegung der Archiv-
-
+-Einweisung_Typ KBV_VS_AW_Psychotherapie_Per KBV_VS_AW_Raucherstatus KBV_VS_AW_Ringversuchszertifik KBV_VS_AW_Ringversuchzertifik KBV_VS_AW_Ueberweisung_Auft KBV_VS_AW_Ueberweisung_KH Einweisung_Typ KBV_VS_AW_Verordnung_Arbeit sunfaehigkeit_AU-Art KBV_VS_AW_Verordnung_Kur_K KBV_VS_AW_Abrechnung_Auslag KBV_VS_AW_Abrechnung_Mahn KBV_VS_AW_Anlagetyp KBV_VS_AW_Arzneimittelart KBV_VS_AW_Befundart KBV_VS_AW_Behandlungsbauste in_Verordnung_Typ KBV_VS_AW_Diagnoseart KBV_VS_AW_Diagnosekategorie KBV_VS_AW_Entschaedigungsart KBV_VS_AW_Gebuehrenordnung KBV_VS_AW_Gesundheitspass_T KBV_VS_AW_Hausbesuch_Besuc KBV_VS_AW_Hilfsmittel_Hilfsmit
 
 ---
 
@@ -2426,17 +2208,17 @@ In den KBV-Bundles werden mehrere FHIR-Ressourcen in einem Bundle zusammengefass
 
 | Name | Kanonische URL | Umzusetzen | Datenbereich |
 |---|---|---|---|
-| KBV_PR_AW_Bundle_Adressbu | https://fhir.kbv.de/Struc | Optional | Adressen (siehe  Kapitel 4.3.3) |
-| KBV_PR_AW_Bundle_Behandlu | https://fhir.kbv.de/Struc | Optional | Behandlungsba Kapitel 4.3.4) |
-| KBV_PR_AW_Bundle_Patienten | https://fhir.kbv.de/Struc | 06.06.2021 | Patientenakten  (siehe Kapitel  4.3.5) |
-| KBV_PR_AW_Bundle_Termin | https://fhir.kbv.de/Struc | Optional | Termin (siehe  Kapitel 4.3.2) |
-| KBV_PR_AW_Bundle_Sprechst | https://fhir.kbv.de/Struc | Optional | Sprechstundenb |
+| KBV_PR_AW_Bundle_Adressbu | https://fhir.kbv.de/Struc | Optional | Adressen (siehe  4.3.3) |
+| KBV_PR_AW_Bundle_Behandlu | https://fhir.kbv.de/Struc | Optional | Behandlungsba  (siehe  4.3.4) |
+| KBV_PR_AW_Bundle_Patienten | https://fhir.kbv.de/Struc | 06.06.2021 | Patientenakten  4.3.5) |
+| KBV_PR_AW_Bundle_Termin | https://fhir.kbv.de/Struc | Optional | Termin (siehe  4.3.2) |
+| KBV_PR_AW_Bundle_Sprechst | https://fhir.kbv.de/Struc | Optional | Sprechstundenb 4.3.5) |
 
 Tabelle 6 FHIR®-Bundles Datenbereiche der PVS-Archivierungs- und Wechselschnittstelle
 
 Ein Überblick der Zuordnung zwischen den FHIR®-Bundles und den darin enthaltenen KBV-FHIR®-Profilen  kann [KBV_ITA_VGEX_FHIR-Uebersicht-Bundle-Datenbereiche_AW_SST] entnommen werden.
 
-ngsbaustein undenbedarf zum tureDefinition/KBV_PR_ AW_Bundle_Adressbuch tureDefinition/KBV_PR_ AW_Bundle_Behandlung sbaustein tureDefinition/KBV_PR_ AW_Bundle_Patientena tureDefinition/KBV_PR_ tureDefinition/KBV_PR_ AW_Bundle_Sprechstun denbedarf ustein (siehe edarf (siehe Kapitel 4.3.5)
+ngsbaustein undenbedarf zum tureDefinition/KBV_PR_ AW_Bundle_Adressbuch tureDefinition/KBV_PR_ AW_Bundle_Behandlung sbaustein tureDefinition/KBV_PR_ AW_Bundle_Patientena tureDefinition/KBV_PR_ tureDefinition/KBV_PR_ AW_Bundle_Sprechstun denbedarf Kapitel ustein Kapitel (siehe Kapitel Kapitel edarf (siehe Kapitel
 
 ---
 
@@ -2444,15 +2226,11 @@ ngsbaustein undenbedarf zum tureDefinition/KBV_PR_ AW_Bundle_Adressbuch tureDefi
 
 ## 4.1 DATEIKONVENTION
 
-Der Export der Daten erfolgt dateibasiert im XML-Format auf FHIR® -Basis. Die einzelnen FHIR®- Instanzen
-
-werden fachlich in entsprechenden Bundle-Dateien zusammengefasst.
+Der Export der Daten erfolgt dateibasiert im XML-Format auf FHIR® -Basis. Die einzelnen FHIR®- Instanzen  werden fachlich in entsprechenden Bundle-Dateien zusammengefasst.
 
 Bei einem vollständigen Export bspw. wird für jeden Patienten mit seiner vollständigen Historie jeweils eine  separate Bundledatei erzeugt. Im Unterschied dazu enthalten die Bundledateien der Adressen, Termine und  Behandlungsbausteine immer alle exportierten Einträge.
 
-Alle exportierten FHIR®-Instanzen bzw. Bundle-Dateien müssen schreibgeschützt gespeichert werden, um
-
-ein überschreiben oder ändern zu verhindern.
+Alle exportierten FHIR®-Instanzen bzw. Bundle-Dateien müssen schreibgeschützt gespeichert werden, um  ein überschreiben oder ändern zu verhindern.
 
 Jede FHIR®-Instanz enthält einen maschinenlesbaren und einen menschenlesbaren Teil. Im  menschenlesbaren Teil werden die Inhalte aus dem maschinenlesbaren Teil formatiert angezeigt. Die  Beziehungen auf andere Ressourcen werden ebenso dargestellt, das direkte Öffnen der zugehörigen  Ressourcen wird über Hyperlinks ermöglicht.
 
@@ -2463,29 +2241,21 @@ Jede Instanz einer FHIR®-Ressource enthält ein Element <id> deren Attribut „
 
 Die KBV empfiehlt das Element <Ressourcentyp.id> mit einem Universally Unique Identifier (UUID) zu  belegen.
 
-
 ---
 
 ## 4.2 ORDNERSTRUKTUR
 
-Die zu exportierenden Dateien (FHIR®-Instanzen und Anlagen) müssen in der folgenden Ordnerstruktur (1.
-
-Ebene) abgelegt werden:
+Die zu exportierenden Dateien (FHIR®-Instanzen und Anlagen) müssen in der folgenden Ordnerstruktur (1.  Ebene) abgelegt werden:
 
 Für jeden vom Anwender neu gestarteten Exportvorgang wird eine neue  Vorgaben dieses Kapitels vom exportierenden PVS angelegt.
 
 ### 4.2.1 Root-Element
 
-Die Bezeichnung des Root-Elements setzt sich zusammen aus „Datum_Uhrzeit_Datenbereich_
-
-Die Elemente in der Bezeichnung haben folgende Bedeutung:
+Die Bezeichnung des Root-Elements setzt sich zusammen aus „Datum_Uhrzeit_Datenbereich_ Die Elemente in der Bezeichnung haben folgende Bedeutung:
 
 - Datum - Datum Beginn der Erstellung im Format JJJJMMTT
-
 - Uhrzeit - Uhrzeit Beginn der Erstellung im Format HHMMSS
-
 - Datenbereich – V = Vollständig; E = Eingeschränkt z.B. nur Termin und/oder Adressbuch oder die Daten  eines Arztes
-
 - Schnittstelle - AW (steht für Archiv- und Wechselschnittstelle und ist ein fester Wert)
 
 \| **Beispiel **    Vollständiger Export der Archiv und Wechselschnittstelle am 01.08.2018 um 12:00:59 |
@@ -2495,23 +2265,22 @@ Ordnerstruktur gemäß den
 
 Schnittstelle“
 
+```
 -
 
+```
 
 ---
 
 ### 4.2.2 Adressen
 
-Im Ordner Adressen muss eine Instanz eines FHIR®-Bundles gemäß Tabelle 6 mit allen Adressen gespeichert  werden.
+Im Ordner Adressen muss eine Instanz eines FHIR®-Bundles gemäß  werden.
 
-Der Dateiname dieser Bundle-Datei setzt sich zusammen aus „Adressbuch_Datum_Uhrzeit_
+Der Dateiname dieser Bundle-Datei setzt sich zusammen aus „Adressbuch_Datum_Uhrzeit_ Schnittstelle.xml“. Die Elemente in der Bezeichnung haben folgende Bedeutung:
 
-Schnittstelle.xml“. Die Elemente in der Bezeichnung haben folgende Bedeutung: - Adresse - fester Wert
-
+- Adresse - fester Wert
 - Datum - Datum Beginn der Erstellung im Format JJJJMMTT
-
 - Uhrzeit - Uhrzeit Beginn der Erstellung im Format HHMMSS
-
 - Schnittstelle - AW (steht für Archiv- und Wechselschnittstelle
 
 ### 4.2.3 Anlage bzw. Dokumente
@@ -2521,6 +2290,8 @@ Die Anlagen bzw. Dokumente, die in der Hoheit des PVS liegen, müssen fachlich g
 Alle externen Anlagen, die außerhalb der Hoheit des Praxisverwaltungssystems liegen, werden über die  Referenz der Ressource „Anlage“ verknüpft.
 
 Die Anlagen werden in fachlich getrennten Unterordnern abgelegt FHIR®-Ressourcen.
+
+Tabelle 6 mit allen Adressen gespeichert
 
 - und ist ein fester Wert)
 
@@ -2533,88 +2304,78 @@ auf die hier abgelegten Anlage-
 
 ### 4.2.4 Behandlungsbausteine
 
-Im Ordner Behandlungsbausteine muss eine Instanz eines FHIR®-Bundles gemäß Tabelle 6 mit allen  Behandlungsbausteinen gespeichert werden.
+Im Ordner Behandlungsbausteine muss eine Instanz eines FHIR®-Bundles gemäß  Behandlungsbausteinen gespeichert werden.
 
-Der Dateiname dieser Bundle-Datei setzt sich zusammen aus „Behandlungsbausteine_Datum_Uhrzeit_
-
-Schnittstelle.xml“. Die Elemente in der Bezeichnung haben folgende Bedeutung:
+Der Dateiname dieser Bundle-Datei setzt sich zusammen aus „Behandlungsbausteine_Datum_Uhrzeit_ Schnittstelle.xml“. Die Elemente in der Bezeichnung haben folgende Bedeutung:
 
 - Behandlungsbausteine - Fester Wert
-
 - Datum - Datum Beginn der Erstellung im Format JJJJMMTT
-
 - Uhrzeit - Uhrzeit Beginn der Erstellung im Format HHMMSS
-
 - Schnittstelle - AW (steht für Archiv- und Wechselschnittstelle und ist ein fester Wert)
 
 ### 4.2.5 Patientenakten
 
 Im Ordner Patientakten wird pro zu exportierenden Patienten eine Instanz eines FHIR®
 
-Tabelle 6 mit allen Informationen (Behandlungsdokumentation, Krankenversicherungsverhältnissen,
-
-Abrechnungen, etc.) als Bundel-Datei erstellt. Die Bundle-Dateien müssen alphabetisch nach dem ersten  Buchstaben des Patienten-Nachnamens in den Unterordnern gespeichert werden.
+Tabelle 6 mit allen Informationen (Behandlungsdokumentation, Krankenversicherungsverhältnissen,  Abrechnungen, etc.) als Bundel-Datei erstellt. Die Bundle-Dateien müssen alphabetisch nach dem ersten  Buchstaben des Patienten-Nachnamens in den Unterordnern gespeichert werden.
 
 Der Dateiname einer Bundle-Datei setzt sich zusammen aus „Name_Vorname_ID_Schnittstelle Elemente in der Bezeichnung haben folgende Bedeutung:
 
 - Name - Nachname des Patienten
-
 - Vorname - Vorname des Patienten (Default falls nicht vorhanden: Vorname)
-
 - ID - Eindeutiger Identifier der Ressource (aus dem Element id)
+- Schnittstelle - AW (steht für Archiv- und Wechselschnittstelle und ist ein fester Wert)
 
-- Schnittstelle - AW (steht für Archiv- und Wechselschnittstelle und ist ein fester Wert) -
+Tabelle 6 mit allen
+
+```
+-
+```
 
 -Bundles gemäß
 
 .xml“. Die
 
+```
 -
-
 -
-
+```
 
 ---
 
 ### 4.2.6 Termine
 
-Im Ordner Termine muss eine Instanz eines FHIR®-Bundles gemäß Tabelle 6 mit allen Terminen gespeichert
+Im Ordner Termine muss eine Instanz eines FHIR® werden.
 
-werden.
+Der Dateiname dieser Bundle-Datei setzt sich zusammen aus „Termin_Datum_Uhrzeit_Schnittstelle Die Elemente in der Bezeichnung haben folgende Bedeutung:
 
-Der Dateiname dieser Bundle-Datei setzt sich zusammen aus „Termin_Datum_Uhrzeit_Schnittstelle Die Elemente in der Bezeichnung haben folgende Bedeutung: - Termin - Fester Wert
-
+- Termin - Fester Wert
 - Datum - Datum Beginn der Erstellung im Format JJJJMMTT
-
 - Uhrzeit - Uhrzeit Beginn der Erstellung im Format HHMMSS
+- Schnittstelle - AW (steht für Archiv- und Wechselschnittstelle und ist ein fester Wert)
 
-- Schnittstelle - AW (steht für Archiv- und Wechselschnittstelle und ist ein fester Wert) .xml“.
+-Bundles gemäß Tabelle 6 mit allen Terminen gespeichert .xml“.
 
+```
 -
+```
 
 ### 4.2.7 Sprechstundenbedarf
 
 Im Ordner Sprechstundenbedarf muss eine Instanz eines FHIR® -Bundles gemäß Tabelle 6 mit allen  Sprechstundenbedarfen gespeichert werden.
 
-Der Dateiname dieser Bundle-Datei setzt sich zusammen aus „Sprechstundenbedarf_Datum_Uhrzeit_
-
-Schnittstelle.xml“. Die Elemente in der Bezeichnung haben folgende Bedeutung:
+Der Dateiname dieser Bundle-Datei setzt sich zusammen aus „Sprechstundenbedarf_Datum_Uhrzeit_  Schnittstelle.xml“. Die Elemente in der Bezeichnung haben folgende Bedeutung:
 
 - Sprechstundenbedarf - Fester Wert
-
 - Datum - Datum Beginn der Erstellung im Format JJJJMMTT
-
 - Uhrzeit - Uhrzeit Beginn der Erstellung im Format HHMMSS
-
 - Schnittstelle - AW (steht für Archiv- und Wechselschnittstelle und ist ein fester Wert)
-
 
 ---
 
 ### 4.2.8 System
 
 Im Ordner _System sollen zusätzliche bzw. erweiterte FHIR-Codesysteme sowie die Report -Dateien in der  vorgegebenen Ordnerstruktur abgelegt werden
-
 
 ---
 
@@ -2626,12 +2387,10 @@ Sowohl der Export als auch der Import muss die Verarbeitung der folgenden Datenb
 
 Es sollen alle im PVS gespeicherten Daten transportiert werden. Da (nach Informationsmodell) im PVS in den jeweiligen FHIR®-Ressourcen vollständig zu transportieren.
 
-Der Anwender kann beim Export entscheiden, ob er alle Daten exportieren möchte oder die Auswahl über
+Der Anwender kann beim Export entscheiden, ob er alle Daten exportieren möchte oder die Auswahl über  einen oder mehrere der nachfolgenden Parameter einschränkt:
 
-einen oder mehrere der nachfolgenden Parameter einschränkt:
-
-- Daten eines bestimmten Zeitraums - Daten von einzelnen Ärzten
-
+- Daten eines bestimmten Zeitraums
+- Daten von einzelnen Ärzten
 - Daten bestimmter Patienten.
 
 Bei einem vollständigen Export sind alle Datenbereiche gemäß
@@ -2640,16 +2399,11 @@ Bei einem vollständigen Export sind alle Datenbereiche gemäß
 
 Es können die im PVS gespeicherten Termine transportiert zu Patienten, Ärzten und weiteren Personen zu erhalten.
 
-Der Anwender kann beim Export entscheiden, ob er alle Termine exportieren möchte oder die Auswahl über
-
-einen oder mehrere der nachfolgenden Parameter einschränkt:
+Der Anwender kann beim Export entscheiden, ob er alle Termine exportieren möchte oder die Auswahl über  einen oder mehrere der nachfolgenden Parameter einschränkt:
 
 - Termine eines bestimmten Zeitraums
-
 - Termine von einzelnen Ärzten
-
 - Termine in einzelnen Betriebsstätten
-
 - Termine bestimmter Patienten.
 
 Als Ergebnis eines Terminexports liegen die Dateien gemäß Kapitel
@@ -2658,9 +2412,7 @@ Als Ergebnis eines Terminexports liegen die Dateien gemäß Kapitel
 
 Es können die im PVS gespeicherten Adressen transportiert werden. Dazu sind die Beziehungen der Adressen  zu Personen (Patienten, Behandlern und weiteren Personen) sowie Organisationen zu erhalten.
 
-Der Anwender kann beim Export entscheiden, ob er alle Adressen exportieren möchte oder die Auswahl über
-
-einen oder mehrere Ärzte einschränkt
+Der Anwender kann beim Export entscheiden, ob er alle Adressen exportieren möchte oder die Auswahl über  einen oder mehrere Ärzte einschränkt
 
 Als Ergebnis eines Adressexports liegen die Dateien gemäß K
 
@@ -2670,7 +2422,7 @@ Es können die im PVS gespeicherten Behandlungsbausteine transportiert werden. D
 
 Der Anwender kann beim Export entscheiden, ob er alle Behandlungsbausteine exportieren möchte oder die  Auswahl über einen oder mehrere Ärzte einschränkt.
 
-Als Ergebnis eines Behandlungsbausteinexports liegen die Dateien gemäß Kapitel 4.2.4 vor.
+Als Ergebnis eines Behandlungsbausteinexports liegen die Dateien gemäß Kapitel
 
 zu sind alle vorhandenen Informationen
 
@@ -2679,6 +2431,8 @@ diesem Kapitel zu exportieren.
 werden. Dazu sind die Beziehungen der Termine 4.2.6 vor.
 
 apitel 4.2.2 vor.
+
+4.2.4 vor.
 
 
 ---
@@ -2689,28 +2443,22 @@ Es können die im PVS gespeicherten Patientenakten transportiert werden. Dazu si
 
 Der Anwender kann beim Export entscheiden, ob er alle Patientenakten zu allen Patienten exportieren  möchte oder die Auswahl über einen oder mehrere der nachfolgenden Parameter einschränkt:
 
-- definierte Begegnungszeiträume - bestimmte Ärzte
-
+- definierte Begegnungszeiträume
+- bestimmte Ärzte
 - bestimmte Betriebsstätten
-
 - bestimmte Patienten
 
 Wahlweise können die Termine der Patienten gemäß Kapitel 4.3.2 mit übertragen werden.
 
 Der Sprechstundenbedarf ist, sofern vorhanden, zu exportieren.
 
-
 ---
 
 ## 4.4 EXPORT DER DATEN
 
-Vor dem Export muss das PVS dem Anwender eine Auswahlmöglichkeit der definierten Datenbereiche (siehe
+Vor dem Export muss das PVS dem Anwender eine Auswahlmöglichkeit der definierten Datenbereiche (siehe  Kapitel 4.3) anbieten. Die Auswahl bestimmt den zu exportierenden Umfang der Daten. Es müssen die Daten  für den ausgewählten Zeitraum vollständig exportiert werden. Dies gilt insbesondere für die Daten aus den  zusätzlichen Modulen, auch wenn diese Module zum Zeitpunkt des Exports nicht mehr verwendet werden.
 
-Kapitel 4.3) anbieten. Die Auswahl bestimmt den zu exportierenden Umfang der Daten. Es müssen die Daten  für den ausgewählten Zeitraum vollständig exportiert werden. Dies gilt insbesondere für die Daten aus den  zusätzlichen Modulen, auch wenn diese Module zum Zeitpunkt des Exports nicht mehr verwendet werden.
-
-Die Übertragung der Änderungen an gleichen Informationsobjekten, zu unterschiedlichen Zeitpunkten  (Historie), muss für jede Änderung in einer separaten Instanz des jeweils zugeordneten KBV -Profils erfolgen.  Diese Instanzen eines geänderten Informationsobjekts haben dieselbe Ressourcen-ID, werden aber mit einer
-
-fortlaufenden Version-ID, dem Änderungsdatum sowie dem Nutzer der die Änderung durchgeführt hat  erzeugt.
+Die Übertragung der Änderungen an gleichen Informationsobjekten, zu untersc hiedlichen Zeitpunkten  (Historie), muss für jede Änderung in einer separaten Instanz des jeweils zugeordneten KBV -Profils erfolgen.  Diese Instanzen eines geänderten Informationsobjekts haben dieselbe Ressourcen-ID, werden aber mit einer  fortlaufenden Version-ID, dem Änderungsdatum sowie dem Nutzer der die Änderung durchgeführt hat  erzeugt.
 
 Vor dem Export sind alle Behandlungsfälle mit dem aktuellen Abrechnungsstatus zu markieren, damit im  Zielsystem alle für die Abrechnung relevanten Behandlungsfälle erkennbar sind.
 
@@ -2720,28 +2468,17 @@ Das exportierende PVS muss alle vorhandenen Inhalte, die in seiner Hoheit liegen
 
 Die Daten die außerhalb des Verantwortungsbereiches des PVS liegen z. B. externe med. Geräte oder  Bildarchive sind nicht Bestandteil des Exports.
 
-Das exportierende PVS muss alle zu exportierenden Inhalte soweit wie möglich in den strukturierten
+Das exportierende PVS muss alle zu exportierenden Inhalte soweit wie möglich in den strukturierten  Attributen der FHIR®-Dateien übertragen. Liegen keine strukturierten Attribute vor, sind die zur Verfügung  gestellten Freitext-Attribute zu verwenden.
 
-Attributen der FHIR®-Dateien übertragen. Liegen keine strukturierten Attribute vor, sind die zur Verfügung
+Für die Daten der zusätzlichen Module mit KBV-Zertifizierung wie z.B. eDMP, LDT und eDoku gibt es keine  Informationsobjekte. Diese Daten sind im Format und Version der jeweiligen Schnittstelle, die zum Zeitpunkt  der Erstellung der Daten gültig war, in Form einer Anlage zu übertragen.
 
-gestellten Freitext-Attribute zu verwenden.
-
-Für die Daten der zusätzlichen Module mit KBV-Zertifizierung wie z.B. eDMP, LDT und eDoku gibt es keine  Informationsobjekte. Diese Daten sind im Format und Version der jeweiligen Schnittstelle, die zum Zeitpunkt
-
-der Erstellung der Daten gültig war, in Form einer Anlage zu übertragen.
-
-Weitere Dokumente und Dateien des PVS (wie z. B. Anlagen/ Dokumente zum Patienten oder einer
-
-Begegnung) werden in Struktur, Format und Dateinamen unverändert in den Export übernommen
+Weitere Dokumente und Dateien des PVS (wie z. B. Anlagen/ Dokumente zum Patienten oder einer  Begegnung) werden in Struktur, Format und Dateinamen unverändert in den Export übernommen
 
 Sie müssen aber in einer FHIR®-Ressource als Anlage eindeutig zum entsprechenden Kontext (z. B. Patient,  Begegnung etc.) referenziert werden.
 
-Nach dem erfolgreichen Export muss ein PDF -Dokument als Report direkt unter dem Root-Element (siehe
-
-Kapitel 4.2.1) des Exportordners abgelegt werden.
+Nach dem erfolgreichen Export muss ein PDF -Dokument als Report direkt unter dem Root-Element (siehe  Kapitel 4.2.1) des Exportordners abgelegt werden.
 
 Bei einem fehlerhaften Export sind alle erzeugten Dateien und Verzeichnisse zu löschen. Der Nutzer ist  entsprechend unter Angabe der Fehlerursache darüber zu informieren. Die Reportdatei darf in diesem Fall  nicht erzeugt werden.
-
 
 ---
 
@@ -2761,11 +2498,7 @@ Alle für den Nutzer relevanten Vorgaben an der Schnittstelle sind ausführlich 
 
 ## 4.7 VERSCHLÜSSELUNG, KOMPRIMIERUNG
 
-Es wird keine Verschlüsselung der exportierten Daten gefordert. Eine Verschlüsselung kann über ein Passwort
-
-geschütztes zip-File angeboten werden. Dabei ist die Bezeichnung des Root-Elements als Dateinamen zu
-
-verwenden. Die vorhandenen Datenschutzmaßnahmen der Praxis sollen die Sicherheit der Dateien  gewährleisten, siehe [Hinweise_DV_Arztpraxis].
+Es wird keine Verschlüsselung der exportierten Daten gefordert. Eine Verschlüsselung kann über ein Passwort  geschütztes zip-File angeboten werden. Dabei ist die Bezeichnung des Root-Elements als Dateinamen zu  verwenden. Die vorhandenen Datenschutzmaßnahmen der Praxis sollen die Sicherheit der Dateien  gewährleisten, siehe [Hinweise_DV_Arztpraxis].
 
 Die Praxisverwaltungssyteme müssen den Nutzer mit einer Meldung zum notwendigen Datenschutz im  Umgang mit den Dateien informieren.
 
@@ -2773,10 +2506,7 @@ Die Praxisverwaltungssyteme müssen den Nutzer mit einer Meldung zum notwendigen
 
 Es werden keine gesonderten Anforderungen an die Aufbewahrung der Dateien gestellt.
 
-Die exportierten Dateien der Archivierungs- und Wechselschnittstelle müssen entsprechend den geltenden
-
-Datenschutzmaßnahmen für die Praxis [Hinweise_DV_Arztpraxis] mittels organisatorischer Maßnahmen  außerhalb vom PVS aufbewahrt werden.
-
+Die exportierten Dateien der Archivierungs- und Wechselschnittstelle müssen entsprechend den geltenden  Datenschutzmaßnahmen für die Praxis [Hinweise_DV_Arztpraxis] mittels organisatorischer Maßnahmen  außerhalb vom PVS aufbewahrt werden.
 
 ---
 
@@ -2784,8 +2514,7 @@ Datenschutzmaßnahmen für die Praxis [Hinweise_DV_Arztpraxis] mittels organisat
 
 Die Umsetzungspflicht der KBV-Profile (Kapitel 3) gilt nicht für:
 
--  Individualsoftware (Kapitel 5.1).
-
+-  Individualsoftware (Kapitel 5.1
 -  Systeme, die nicht primär zur Speicherung von Patientendaten eingesetzt werden; insbesondere  die keine KVDT-Zulassung haben.
 
 ## 5.1 INDIVIDUALSOFTWARE
@@ -2793,8 +2522,7 @@ Die Umsetzungspflicht der KBV-Profile (Kapitel 3) gilt nicht für:
 Individualsoftware ist eine Eigen- bzw. Speziallösung, die
 
 -  nur in einer Betriebsstätte bzw. einem Verbund von zusammenhängenden Betriebsstätten  eingesetzt wird oder
-
--  im Rahmen des Sicherstellungsauftrages durch die KV, die KBV oder deren Töchter entwickelt oder - bereitgestellt wird.
+-  im Rahmen des Sicherstellungsauftrages durch die KV, die KBV oder deren Töchter entwickelt oder  bereitgestellt wird.
 
 # 6. UMSETZUNGSFRIST
 
@@ -2802,10 +2530,7 @@ Die Integration der Schnittstelle muss spätestens zum 06.06.2021 erfolgt sein.
 
 # 7. GÜLTIGKEIT
 
-Die Schnittstellenfestlegung tritt am Tag nach der Veröffentlichung in Kraft. Sie ersetzt alle vorherigen
-
-Versionen.
-
+Die Schnittstellenfestlegung tritt am Tag nach der Veröffentlichung in Kraft. Sie ersetzt alle vorherigen  Versionen.
 
 ---
 
@@ -2817,6 +2542,6 @@ Versionen.
 | FHIR® | FHIR-Spezifikation Release 4    http://hl7.org/fhir/ |
 | KBV_ITA_VGEX_FHIR | Modell der Umsetzung der PVS-Archivierungs- und Wechselschnittstelle    ftp://ftp.kbv.de/ita-update/371-Schnittstellen/PVS |
 | Hinweise_DV_Arztpraxis | Hinweise und Empfehlungen zur ärztlichen Schweigepflicht, Datenschutz    http://www.bundesaerztekammer.de/fileadmin/user_upload/downloads/p |
-| KBV_ITA_VGEX_FHIR | Abbildung der Zuordnung zwischen FHIR®-Bundles und zugehörigen KBV-   ftp://ftp.kbv.de/ita |
+| KBV_ITA_VGEX_FHIR | Abbildung der Zuordnung zwischen FHIR®-Bundles und zugehörigen KBV- 4.3.    ftp://ftp.kbv.de/ita |
 
--Archivierungs-Wechsel- tionsmodell_AW_SST Schnittstelle/  mit FHIR®-Profilen Informationsmodell_AW _SST -Archivierungs-Wechsel- Schnittstelle/  und Datenverarbeitung in der Arztpraxis: df- Ordner/Recht/Hinweise_und_Empfehlungen_aerztliche_Schweigepflicht_D atenschutz_Datenverarbeitung_09.03.2018.pdf  FHIR®-Profilen zur Abbildung der Datenbereiche gemäß Kapitel 4.3. Uebersicht-Bundle- Datenbereiche_AW_SST -Archivierungs-Wechsel- Schnittstelle/
+tionsmodell_AW_SST -Archivierungs-Wechsel- Schnittstelle/ Informationsmodell_AW _SST mit FHIR®-Profilen -Archivierungs-Wechsel- Schnittstelle/ und Datenverarbeitung in der Arztpraxis: df- Ordner/Recht/Hinweise_und_Empfehlungen_aerztliche_Schweigepflicht_D atenschutz_Datenverarbeitung_09.03.2018.pdf Uebersicht-Bundle- Datenbereiche_AW_SST FHIR®-Profilen zur Abbildung der Datenbereiche gemäß Kapitel -Archivierungs-Wechsel- Schnittstelle/

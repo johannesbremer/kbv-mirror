@@ -4,7 +4,9 @@ Vorgaben zur Erstellung und Aktualisierung eines Medikationsplans sowie über ei
 
 Verfahren zur Fortschreibung dieser Vereinbarung
 
-(Vereinbarung eines bundeseinheitlichen Medikationsplans 1. Oktober 2025
+(Vereinbarung eines bundeseinheitlichen Medikationsplans
+
+1. Oktober 2025
 
 BMP Version 2.8
 
@@ -28,9 +30,7 @@ BMP)
 
 2.1 Praktikabilität ......................................................................................................... 2
 
-2.2 Berücksichtigung der besonderen Belange blinder und seh-behinderter
-
-Patient*innen ..................................................................................................................... 2
+2.2 Berücksichtigung der besonderen Belange blinder und seh-behinderter  Patient*innen ..................................................................................................................... 2
 
 2.3 Nutzung für AMTS-Prüfung .................................................................................... 2
 
@@ -40,9 +40,7 @@ Patient*innen ..................................................................
 
 3.1 Medikationsplan (MP-Modul).................................................................................. 4
 
-3.2 Allgemeine technische Anforderungen an MP-Module in Verordnungssoftware im
-
-vertragsärztlichen Bereich ................................................................................................. 6
+3.2 Allgemeine technische Anforderungen an MP-Module in Verordnungssoftware im  vertragsärztlichen Bereich ................................................................................................. 6
 
 3.3 Allgemeine technische Anforderungen an MP-Module in Apothekensystemen ...... 8
 
@@ -60,9 +58,7 @@ vertragsärztlichen Bereich ....................................................
 
 4.4 Aktualisierung eines Medikationsplans in der Apotheke ........................................12
 
-4.5 Ersterstellung und Aktualisierung eines Medikationsplans in Einrichtungen der
-
-Krankenversorgung (z. B. Krankenhaus) ..........................................................................13
+4.5 Ersterstellung und Aktualisierung eines Medikationsplans in Einrichtungen der  Krankenversorgung (z. B. Krankenhaus) ..........................................................................13
 
 4.6 Zusammenführen verschiedener Medikationspläne ..............................................13
 
@@ -148,34 +144,19 @@ Elemente und Empfehlungen sind als solche gekennzeichnet. Dem Wunsch des
 
 Gesetzgebers folgend, baut dieses Dokument auf der von der Koordinierungsgruppe des
 
-Aktionsplans AMTS erstellten Spezifikation für einen patientenbezogenen Medikationsplan in
-
-der korrigierten Version 2.0 vom 16. 12.2014 auf. Da sich durch die gesetzliche Verankerung
-
-eines bundeseinheitlich standardisierten Medikationsplans zwar einerseits
+Aktionsplans AMTS erstellten Spezifikation für einen patientenbezogenen Medikationsplan in  der korrigierten Version 2.0 vom 16. 12.2014 auf. Da sich durch die gesetzliche Verankerung  eines bundeseinheitlich standardisierten Medikationsplans zwar einerseits
 
 Verantwortlichkeiten und Zuständigkeiten für die Erstellung von Vorgaben zum
 
 Medikationsplan verlagert haben, andererseits aber die Kontinuität zur bisherigen Arbeit der
 
-Koordinierungsgruppe hergestellt werden soll, wurde die Spezifikation als Version 2.2 des
-
-bundeseinheitlichen Medikationsplans (BMP) gemäß § 31a SGB V zum 30. April 2016
-
-veröffentlicht. Sie wird auf dieser Basis regelmäßig fortgeschrieben, aktuell in der Version 2.8,
-
-welche nun die strukturierte Abbildung wöchentlicher Dosierungsangaben (vgl. Kapitel 6.2.11
-
-berücksichtigt.
+Koordinierungsgruppe hergestellt werden soll, wurde die Spezifikation als Version 2.2 des  bundeseinheitlichen Medikationsplans (BMP) gemäß § 31a SGB V zum 30. April 2016  veröffentlicht. Sie wird auf dieser Basis regelmäßig fortgeschrieben, aktuell in der Version 2.8,  welche nun die strukturierte Abbildung wöchentlicher Dosierungsangaben (vgl. Kapitel 6.2.11 berücksichtigt.
 
 Die vorliegende Spezifikation soll der Softwareindustrie als Grundlage für eine einheitliche
 
 Implementierung des bundeseinheitlichen Medikationsplans in die Softwaresysteme von
 
-Ärzt*innen, Apotheker*innen und Krankenhäusern sowie ggf. weiteren Softwaresystemen
-
-dienen.
-
+Ärzt*innen, Apotheker*innen und Krankenhäusern sowie ggf. weiteren Softwaresystemen  dienen.
 
 ---
 
@@ -183,59 +164,33 @@ dienen.
 
 Vorgaben zur Erstellung und Aktualisierung und Empfehlungen zum Umgang mit dem
 
-Medikationsplan für Anwendende sind in den Anlagen 1 und 2 der Vereinbarung
-
-zusammengestellt. Es wird empfohlen, diese Anlagen zum besseren Gesamtverständnis
-
-dieser Spezifikation zur Kenntnis zu nehmen und zu berücksichtigen.
+Medikationsplan für Anwendende sind in den Anlagen 1 und 2 der Vereinbarung  zusammengestellt. Es wird empfohlen, diese Anlagen zum besseren Gesamtverständnis  dieser Spezifikation zur Kenntnis zu nehmen und zu berücksichtigen.
 
 ## 2.1 Praktikabilität
 
-Für eine breite Nutzung des BMP ist es unverzichtbar, neben der einfachen Handhabung
-
-durch den/die Patient*in ein praktikables Verfahren zu seiner Aktualisierung durch die am
+Für eine breite Nutzung des BMP ist es unverzichtbar, neben der einfachen Handhabung  durch den/die Patient*in ein praktikables Verfahren zu seiner Aktualisierung durch die am
 
 Medikationsprozess beteiligten Akteur*innen anzubieten. Dazu werden die Inhalte des
 
-Medikationsplans sowohl in Papierform als auch in maschinenlesbarer Form bereitgestellt. Auf
-
-dem Ausdruck liegen die Inhalte als Medikationsplandaten maschinenlesbar in Form eines 2D-
-
-Barcodes vor.
+Medikationsplans sowohl in Papierform als auch in maschinenlesbarer Form bereitgestellt. Auf  dem Ausdruck liegen die Inhalte als Medikationsplandaten maschinenlesbar in Form eines 2D- Barcodes vor.
 
 ## 2.2 Berücksichtigung der besonderen Belange blinder und seh- behinderter Patientinnen
 
-Die besonderen Belange blinder und sehbehinderter Patient *innen sind bei der Erläuterung
+Die besonderen Belange blinder und sehbehinderter Patient *innen sind bei der Erläuterung  der Inhalte des Plans zur berücksichtigen. Diesbezüglich finden sich weitere Vorgaben in
 
-der Inhalte des Plans zur berücksichtigen. Diesbezüglich finden sich weitere Vorgaben in
+Anlage 1. Im Rahmen der technischen Spezifikation des Medikationsplans wird den  besonderen Belangen der Blinden und Sehbehinderten Rechnung getragen, indem der
 
-Anlage 1. Im Rahmen der technischen Spezifikation des Medikationsplans wird den
+Medikationsplan mit einem 2D-Barcode versehen wird. Durch diesen 2D-Barcode ist es  möglich, die Inhalte des Medikationsplans in geeignete Softwareanwendungen (z. B. Apps) zu  übernehmen, die dieser Patientengruppe einen Zugang zu den Informationen ermöglichen.
 
-besonderen Belangen der Blinden und Sehbehinderten Rechnung getragen, indem der
-
-Medikationsplan mit einem 2D-Barcode versehen wird. Durch diesen 2D-Barcode ist es
-
-möglich, die Inhalte des Medikationsplans in geeignete Softwareanwendungen (z. B. Apps) zu
-
-übernehmen, die dieser Patientengruppe einen Zugang zu den Informationen ermöglichen.
-
-Konkrete Vorgaben für die Erstellung solcher Softwareanwendungen sind nicht Bestandteil
-
-dieser Vereinbarung.
+Konkrete Vorgaben für die Erstellung solcher Softwareanwendungen sind nicht Bestandteil  dieser Vereinbarung.
 
 ## 2.3 Nutzung für AMTS-Prüfung
 
-Die auf dem Medikationsplan enthaltenen Informationen können grundsätzlich für die AMTS-
-
-Prüfung durch Ärzt*innen und Apotheker*innen genutzt werden. Die Beschreibung von
+Die auf dem Medikationsplan enthaltenen Informationen können grundsätzlich für die AMTS- Prüfung durch Ärzt*innen und Apotheker*innen genutzt werden. Die Beschreibung von
 
 Anforderungen an AMTS-Prüfungen ist nicht Bestandteil dieser Spezifikation. Der mit der
 
-Spezifikation beschriebene Medikationsplan kann für eine systematische nicht-
-
-rechnergestützte AMTS-Prüfung genutzt werden. Die Daten des Medikationsplans können
-
-zudem auch für eine rechnergestützte AMTS-Prüfung genutzt werden.
+Spezifikation beschriebene Medikationsplan kann für eine systematische nicht- rechnergestützte AMTS-Prüfung genutzt werden. Die Daten des Medikationsplans können  zudem auch für eine rechnergestützte AMTS-Prüfung genutzt werden.
 
 
 ---
@@ -245,25 +200,17 @@ zudem auch für eine rechnergestützte AMTS-Prüfung genutzt werden.
 Ein Softwareprodukt ist zu dieser Spezifikation als „**konform**“ zu bezeichnen, wenn
 
 - 1. die Vorgaben nach Anhang 1 eingehalten sind,
-
 - 2. ein Papierausdruck nach Abschnitt 6 erstellt werden kann unter Verwendung der
-
 - Inhalte nach Abschnitt 5 und der Schlüsselworte aus Anhang 2 und 4,
-
 - 3. die Syntaxregeln nach Anhang 2 eingehalten werden,
-
-- 4. der 2D-Barcode nach Abschnitt 7 und Anhang 8 (XML-Schema, normativ) erzeugt und - eingelesen werden kann,
-
+- 4. der 2D-Barcode nach Abschnitt 7 und Anhang 8 (XML-Schema, normativ) erzeugt und
+- eingelesen werden kann,
 - 5. die unter Abschnitt 3 genannten Anforderungen erfüllt sind,
-
-- 6. die unter Abschnitt 4 genannten Anwendungsfälle entsprechend dem Umfeld - umgesetzt sind,
-
+- 6. die unter Abschnitt 4 genannten Anwendungsfälle entsprechend dem Umfeld
+- umgesetzt sind,
 - 7. der Zugriff auf eine aktuelle Arzneimitteldatenbank gewährleistet ist und die Angaben
-
 - der Referenzdatenbank nach § 31b SGB V Anwendung finden,
-
 - 8. und die Regeln nach Anhang 9 umgesetzt sind.
-
 
 ---
 
@@ -277,23 +224,15 @@ Medikationsplans muss in den Verordnungssystemen von Ärzt*innen und den
 
 Primärsystemen von Apotheker*innen eine Softwarefunktionalität enthalten sein (im
 
-Folgenden als MP-Modul bezeichnet), mit welcher diese Funktionen von den Anwendenden
+Folgenden als MP-Modul bezeichnet), mit welcher diese Funktionen von den Anwendenden  mit möglichst geringem bürokratischem Aufwand ausgeführt werden können.
 
-mit möglichst geringem bürokratischem Aufwand ausgeführt werden können.
+Das MP-Modul muss in die Software des/der jeweiligen Heilberufler*in so integriert sein, dass  mit den im Rahmen der Anwendungsprozesse (z. B. Verordnung, Rezepterstellung,
 
-Das MP-Modul muss in die Software des/der jeweiligen Heilberufler*in so integriert sein, dass
-
-mit den im Rahmen der Anwendungsprozesse (z. B. Verordnung, Rezepterstellung,
-
-Arzneimittel-abgabe) anfallenden Daten, ggf. unter Einbeziehung weiterer Daten, unmittelbar
-
-eine Erstellung bzw. Aktualisierung des Medikationsplans möglich ist.
+Arzneimittel-abgabe) anfallenden Daten, ggf. unter Einbeziehung weiterer Daten, unmittelbar  eine Erstellung bzw. Aktualisierung des Medikationsplans möglich ist.
 
 Das MP-Modul muss auf die Arzneimittelstammdaten des Software- bzw.
 
-Verordnungssystems sowie die Daten der Referenzdatenbank nach § 31b SGB V
-
-zurückgreifen.
+Verordnungssystems sowie die Daten der Referenzdatenbank nach § 31b SGB V  zurückgreifen.
 
 genutzt
 
@@ -303,29 +242,15 @@ Patient*in sicherstellen, sofern es im Rahmen eines patientenbezogenen Kontextes
 
 wird, bspw. beim Einlesen bzw. Speichern eines Medikationsplans zu einem/einer Patient*in.
 
-Werden hierbei Abweichungen in den Patientenstammdaten (mindestens bei Abweichungen
+Werden hierbei Abweichungen in den Patientenstammdaten (mindestens bei Abweichungen  in den Feldern Vorname, Nachname und Geburtsdatum) festgestellt, muss das MP
 
-in den Feldern Vorname, Nachname und Geburtsdatum) festgestellt, muss das MP
+Anwendenden einen entsprechenden Hinweis geben. Das MP-Modul muss -Modul den  den
 
-Anwendenden einen entsprechenden Hinweis geben. Das MP-Modul muss -Modul den
+Anwendenden die Möglichkeit bieten, trotz Abweichungen den Medikationsplan weiter zu  bearbeiten.
 
-den
+Die eigentliche Erzeugung des Medikationsplans als Ausdruck erfolgt im MP-Modul. Sie kann  auch durch Anbindung eines geeigneten Dienstes über eine sichere Infrastruktur erfolgen.
 
-Anwendenden die Möglichkeit bieten, trotz Abweichungen den Medikationsplan weiter zu
-
-bearbeiten.
-
-Die eigentliche Erzeugung des Medikationsplans als Ausdruck erfolgt im MP-Modul. Sie kann
-
-auch durch Anbindung eines geeigneten Dienstes über eine sichere Infrastruktur erfolgen.
-
-Um eine möglichst optimale Ausnutzung des verfügbaren Speicherplatzes im 2D-Barcode zu
-
-erreichen und eine möglichst einfache rechnergestützte Weiterverarbeitung der Daten zu
-
-ermöglichen, sollen in der Regel immer dort, wo es möglich ist, kodierte Daten verwendet
-
-werden. Insbesondere soll in der Regel die Pharmazentralnummer (PZN) zur Identifikation der
+Um eine möglichst optimale Ausnutzung des verfügbaren Speicherplatzes im 2D-Barcode zu  erreichen und eine möglichst einfache rechnergestützte Weiterverarbeitung der Daten zu  ermöglichen, sollen in der Regel immer dort, wo es möglich ist, kodierte Daten verwendet  werden. Insbesondere soll in der Regel die Pharmazentralnummer (PZN) zur Identifikation der
 
 Eigenschaften eines Fertigarzneimittels verwendet werden.
 
@@ -340,50 +265,23 @@ Anwendenden ermöglichen.
 
 Soweit im Rahmen der Bearbeitung von Medikationsplänen durch die Anwendenden
 
-Feldinhalte verändert werden, die auf Basis einer in den Daten des Medikationsplans
+Feldinhalte verändert werden, die auf Basis einer in den Daten des Medikationsplans  hinterlegten PZN befüllt wurden, muss das MP-Modul die Anwendenden darauf hinweisen,  dass diese Änderungen nur erfolgen sollten, wenn sie unbedingt (z. B. im Sinne der
 
-hinterlegten PZN befüllt wurden, muss das MP-Modul die Anwendenden darauf hinweisen,
+Patientenverständlichkeit) erforderlich sind, da dadurch eine PZN-basierte AMTS-Prüfung nur  noch eingeschränkt möglich ist. Die von den Inhalten der Arzneimitteldatenbank  abweichenden Feldinhalte sind erst nach Bestätigung dieses Hinweises durch die
 
-dass diese Änderungen nur erfolgen sollten, wenn sie unbedingt (z. B. im Sinne der
+Anwendenden zu speichern. Das MP-Modul muss den Anwendenden neben dem Hinweis für  die Durchführung der Anpassung die folgenden Möglichkeiten zur Auswahl stellen:
 
-Patientenverständlichkeit) erforderlich sind, da dadurch eine PZN-basierte AMTS-Prüfung nur
-
-noch eingeschränkt möglich ist. Die von den Inhalten der Arzneimitteldatenbank
-
-abweichenden Feldinhalte sind erst nach Bestätigung dieses Hinweises durch die
-
-Anwendenden zu speichern. Das MP-Modul muss den Anwendenden neben dem Hinweis für
-
-die Durchführung der Anpassung die folgenden Möglichkeiten zur Auswahl stellen: - 1.
-
+- 1. **Entfernen des PZN-Bezuges:** In diesem Fall wird die PZN aus dem Medikationseintrag
 - gelöscht. Sowohl die geänderten Felder als auch die weiteren Feldinhalte, die über die
-
-- **Entfernen des PZN-Bezuges:** In diesem Fall wird die PZN aus dem Medikationseintrag
-
-- PZN aus der Arzneimitteldatenbank abgeleitet wurden, werden gespeichert und sind im - Ausdruck auszugeben.
-
-- 2.
-
+- PZN aus der Arzneimitteldatenbank abgeleitet wurden, werden gespeichert und sind im
+- Ausdruck auszugeben.
+- 2. **Änderung verwerfen:** In diesem Fall werden die durchgeführten Anpassungen nicht
 - übernommen. Im Ausdruck werden die zur PZN zugehörigen Dateninhalte über die
-
-- **Änderung verwerfen:** In diesem Fall werden die durchgeführten Anpassungen nicht -
-
 - Arzneimitteldatenbank ermittelt und ausgegeben.
 
 Das MP-Modul muss für die Erstellung und Aktualisierung eines Medikationsplans die
 
-Verwendung der in Kapitel 5 dieser Spezifikation genannten Inhalte/Felder ermöglichen. Für
-
-die Verwendung von Zwischenüberschriften muss das MP-Modul den Anwendenden
-
-ermöglichen, auf die in Anhang 2.3 Tabelle 6 vordefinierten Überschriften zurückzugreifen
-
-oder eine Überschrift als Freitext einzugeben. Das MP-Modul soll zudem in der Lage sein, von
-
-den Anwendenden definierte Überschriften dauerhaft als Textbaustein für Überschriften
-
-abzuspeichern.
-
+Verwendung der in Kapitel 5 dieser Spezifikation genannten Inhalte/Felder ermöglichen. Für  die Verwendung von Zwischenüberschriften muss das MP-Modul den Anwendenden  ermöglichen, auf die in Anhang 2.3 Tabelle 6 vordefinierten Überschriften zurückzugreifen  oder eine Überschrift als Freitext einzugeben. Das MP-Modul soll zudem in der Lage sein, von  den Anwendenden definierte Überschriften dauerhaft als Textbaustein für Überschriften  abzuspeichern.
 
 ---
 
@@ -395,41 +293,27 @@ Die für die Erstellung des Medikationsplans notwendigen Daten sind im
 
 Praxisverwaltungssystem (PVS) in geeigneter Form dauerhaft zu speichern.
 
-Sofern im PVS Daten gespeichert sind (Medikationshistorie bzw. Verordnungsdokumentation,
+Sofern im PVS Daten gespeichert sind (Medikationshistorie bzw. Verordnungsdokumentation,  patientenbezogene Daten), muss das MP-Modul in der Verordnungssoftware im Rahmen der
 
-patientenbezogene Daten), muss das MP-Modul in der Verordnungssoftware im Rahmen der
-
-Ersterstellung oder Aktualisierung eines Medikationsplans in der Lage sein, diese Daten aus
-
-dem PVS zu übernehmen. Die abschließende Auswahl trifft der/die Arzt/Ärztin.
+Ersterstellung oder Aktualisierung eines Medikationsplans in der Lage sein, diese Daten aus  dem PVS zu übernehmen. Die abschließende Auswahl trifft der/die Arzt/Ärztin.
 
 Die Verordnungssoftware muss es dem/der Arzt/Ärztin ermöglichen, mindestens folgende
 
 Daten patientenbezogen zur Verfügung zu stellen:
 
 - 1. Medikamente, die vom/von der erstellenden oder aktualisierenden Arzt/Ärztin selbst
-
 - auf ein Rezept verordnet wurden. Diese müssen automatisch im Rahmen der
-
 - Rezeptschreibung gespeichert werden.
-
 - 2. Medikamente, die von anderen Ärzt*innen verordnet wurden. Diese müssen durch
-
 - den/die erstellende/n Arzt/Ärztin durch Auswahl aus einer Arzneimitteldatenbank oder
-
 - durch manuelle Eingabe von Freitext erfasst werden können sowie ggf. aus geeigneten
-
 - elektronischen Quellen eingelesen werden können (s. u.).
-
 - 3. Medikamente der Selbstmedikation. Diese müssen ebenfalls, wie unter Punkt 2
-
 - beschrieben, erfasst werden können.
 
 Die Verordnungssoftware muss es den Anwendenden ermöglichen, auch diese
 
-Medikationseinträge für die Erstellung oder Aktualisierung eines Medikationsplans
-
-vorzusehen. Die abschließende Auswahl trifft der/die Arzt/Ärztin.
+Medikationseinträge für die Erstellung oder Aktualisierung eines Medikationsplans  vorzusehen. Die abschließende Auswahl trifft der/die Arzt/Ärztin.
 
 Die Verordnungssoftware muss es ermöglichen, jeweils pro Medikationseintrag ein
 
@@ -441,9 +325,7 @@ Zu den jeweiligen Medikationseinträgen müssen im MP-Modul oder in der
 
 Verordnungssoftware alle Informationen  ggf. unter Rückgriff auf die in den hinterlegten
 
-Arzneimittelstammdaten vorhandenen Daten  angegeben werden können, die für ein Befüllen
-
-der Felder des Medikationsplans erforderlich sind. Dabei sind die patientenverständlichen
+Arzneimittelstammdaten vorhandenen Daten  angegeben werden können, die für ein Befüllen  der Felder des Medikationsplans erforderlich sind. Dabei sind die patientenverständlichen
 
 Angaben der Referenzdatenbank nach § 31b SGB V zwingend für die Angabe der
 
@@ -458,51 +340,33 @@ Wirkstoffe ohne Befüllung der Spalte „Handelsname“ ermöglichen.
 
 Soweit Schlüsselwerte vorgesehen sind,
 
-muss das MP-Modul sicherstellen, dass aktuell gültige, gespeicherte Schlüsselwerte durch
-
-das Softwaresystem wieder in die zugehörige Information aufgelöst werden können.
+muss das MP-Modul sicherstellen, dass aktuell gültige, gespeicherte Schlüsselwerte durch  das Softwaresystem wieder in die zugehörige Information aufgelöst werden können.
 
 im Fall von länger zurückliegenden Einträgen (> 1 Jahr) z. B. auch durch das Einspielen und
 
 Nutzen einer älteren Datenbankversion erfolgen.
 
-Die PDF-Datei des erzeugten Medikationsplans muss automatisch an das PVS übergeben
+Die PDF-Datei des erzeugten Medikationsplans muss automatisch an das PVS übergeben  werden.
 
-werden.
-
-Der für die Erzeugung des Medikationsplans verwendete elektronische Datensatz muss
-
-zusätzlich an das PVS übergeben werden.
+Der für die Erzeugung des Medikationsplans verwendete elektronische Datensatz muss  zusätzlich an das PVS übergeben werden.
 
 #### Übernahme von Medikamentendaten aus geeigneten Datenquellen:
 
 Im Rahmen der Erfassung der Medikation für die Erstellung oder Aktualisierung eines
 
-Medikationsplans ist für folgende Szenarien eine Übernahme von Medikationsdaten aus
-
-geeigneten Datenquellen vorzusehen:
+Medikationsplans ist für folgende Szenarien eine Übernahme von Medikationsdaten aus  geeigneten Datenquellen vorzusehen:
 
 - 1. Die Übernahme aus anderen,
-
 - Einlesen des 2D-Barcodes muss möglich sein.
-
 - 2. Die Übernahme von Medikationspl
-
 - 3. Die Übernahme aus strukturierten Daten eines elektronischen Arztbriefes ( z. B. VHitG-
-
 - Arztbrief) kann möglich sein.
+- 4. Die Übernahme aus strukturierten Rezeptabrechnungsdaten der Krankenkassen kann
+- möglich sein.
 
-- 4. Die Übernahme aus strukturierten Rezeptabrechnungsdaten der Krankenkassen kann - möglich sein.
+Das PVS übernimmt die Speicherung der Medikationen aus den o. g. Datenquellen in der  zugehörigen Patientendokumentation im PVS
 
-Das PVS übernimmt die Speicherung der Medikationen aus den o. g. Datenquellen in der
-
-zugehörigen Patientendokumentation im PVS
-
-Das MP-Modul soll den/die Arzt/Ärztin bei der Zusammenführung von Medikationsplänen
-
-elektronisch durch Abgleich des im PVS gespeicherten gegen den aktuell über den 2D-
-
-Barcode eingelesenen Datensatz unterstützen (siehe Kap
+Das MP-Modul soll den/die Arzt/Ärztin bei der Zusammenführung von Medikationsplänen  elektronisch durch Abgleich des im PVS gespeicherten gegen den aktuell über den 2D- Barcode eingelesenen Datensatz unterstützen (siehe Kap
 
 Der Aufruf des MP-Moduls muss zu jeder Zeit
 
@@ -512,24 +376,23 @@ dem Medikationsplan heraus soll möglich sein. Dabei müssen die Anforderungen d
 
 Anlage 23 des Bundesmantelvertrages-Ärzte erfüllt werden.
 
-muss das MP-Modul diese auch unterstützen. Dabei - spezifikationskonformen
+muss das MP-Modul diese auch unterstützen. Dabei
 
+- spezifikationskonformen
 - andaten der eGK muss möglich sein
 
-auch unabhängig von der Rezeptschreibung
+auch unabhängig von der Rezeptschreibung  möglich sein. Der Aufruf der Rezeptschreibung aus
 
-möglich sein. Der Aufruf der Rezeptschreibung aus
+Dies kann
 
-Dies kann - Medikationsplänen durch
+- Medikationsplänen durch
 
-itel 4.2 und 4.6).
+itel 4.2 und 4.6
 
 
 ---
 
-## 3.3 Allgemeine technische
-
-## Apothekensystemen
+## 3.3 Allgemeine technische  Apothekensystemen
 
 Die für die Aktualisierung des Medikationsplans
 
@@ -543,29 +406,22 @@ Zu den jeweiligen Medikationseinträgen müssen alle Informationen
 
 in der hinterlegten Arzneimitteldatenbank vorhandenen Daten
 
-die für ein Befüllen der Felder des Medikationsplans erforderlich sind. Soweit Schlüsselwerte
-
-vorgesehen sind, können auch diese gespeichert werden. Dabei ist sicherzustellen, dass
-
-gespeicherte Schlüsselwerte durch das Software
+die für ein Befüllen der Felder des Medikationsplans erforderlich sind. Soweit Schlüsselwerte  vorgesehen sind, können auch diese gespeichert werden. Dabei ist sicherzustellen, dass  gespeicherte Schlüsselwerte durch das Software
 
 aufgelöst werden können. Dies kann im Fall von länger zurückliegenden Einträgen (> 1 Jahr)
-
 z. B. auch durch das Einspielen und Nutzen einer älteren Datenbankversion erfolgen.
 
 #### Übernahme von Medikamentendaten aus geeigneten Datenquellen:
 
 Im Rahmen der Erfassung der Medikation für die Erstellung oder Aktualisierung eines
 
-Medikationsplans ist für folgende Szenarien eine Übernahme von Medikationsdaten aus
+Medikationsplans ist für folgende Szenarien eine Übernahme von Medikationsdaten aus  geeigneten Datenquellen vorzusehen:
 
-geeigneten Datenquellen vorzusehen:
-
-- 1. Die Übernahme aus anderen, spezifikationskonformen Medikationsplänen muss möglich - sein.
-
+- 1. Die Übernahme aus anderen, spezifikationskonformen Medikationsplänen muss möglich
+- sein.
 - 2. Die Übernahme von Medikationsplandaten der eGK muss möglich sein
-
-- 3. Die Übernahme aus strukturierten Rezeptabrechnungsdaten der Krankenkassen kann - möglich sein.
+- 3. Die Übernahme aus strukturierten Rezeptabrechnungsdaten der Krankenkassen kann
+- möglich sein.
 
 ## Anforderungen
 
@@ -579,15 +435,11 @@ notwendigen Daten sind im
 
 Einbeziehung von gespeicherten
 
-ggf. unter Rückgriff auf die
-
-abgespeichert werden können,
+ggf. unter Rückgriff auf die  abgespeichert werden können,
 
 ## 3.4 Umgang mit komplexen Dosierungen
 
-Bei der Übernahme von Medikationsdaten aus anderen Quellen in das MP-Modul kann es
-
-dazu kommen, dass die dazugehörigen Dosierinformationen in einer vom BMP abweichenden
+Bei der Übernahme von Medikationsdaten aus anderen Quellen in das MP-Modul kann es  dazu kommen, dass die dazugehörigen Dosierinformationen in einer vom BMP abweichenden
 
 Struktur vorliegen. Bei der Übernahme dieser Daten in die Struktur des BMP
 
@@ -610,51 +462,32 @@ mittags  abends  zur Nacht) darf
 
 ---
 
-verpflichtender Angabe eines Wochentages im dafür vorgesehenen Attribut, verwendet
-
-werden, um die korrekte Anwendung zu unterstützen.
+verpflichtender Angabe eines Wochentages im dafür vorgesehenen Attribut, verwendet  werden, um die korrekte Anwendung zu unterstützen.
 
 Beispielsweise soll bei Methotrexat zur wöchentlichen Anwendung immer ein Wochentag zur
 
-Dosierangabe im dafür vorgesehenen Attribut zusätzlich zum Viererschema ergänzt werden,
-
-damit klar ersichtlich ist, dass es sich um eine wöchentliche Medikamentengabe handelt
+Dosierangabe im dafür vorgesehenen Attribut zusätzlich zum Viererschema ergänzt werden,  damit klar ersichtlich ist, dass es sich um eine wöchentliche Medikamentengabe handelt
 
 Für die Abbildung einmal in der Woche identisch wiederkehrender Dosierungsangaben, z. B.
 
 Methotrexat, wird mit dieser Spezifikation eine Darstellung eingeführt, die die gemeinsame
 
-Angabe von Wochentag und Viererschema in einer zusätzlichen Zeile ermöglicht (vgl. Kapitel 6.2.11).
-
+Angabe von Wochentag und Viererschema in einer zusätzlichen Zeile ermöglicht (vgl. Kapitel  6.2.11).
 
 ---
 
 # 4 Anwendungsfälle
 
-Die im Folgenden beschriebenen Fallkonstellationen sollen den Softwareanbietern Hinweise
+Die im Folgenden beschriebenen Fallkonstellationen sollen den Softwareanbietern Hinweise  für die Erarbeitung eines praktikablen und am Anwendungsprozess orientierten MP-Moduls  geben. Für die Nutzung des Medikationsplans durch die Anwendenden werden Vorgaben  sowie Handlungsanleitungen und Empfehlungen in den Anlagen 1 und 2 bereitgestellt.
 
-für die Erarbeitung eines praktikablen und am Anwendungsprozess orientierten MP-Moduls
-
-geben. Für die Nutzung des Medikationsplans durch die Anwendenden werden Vorgaben
-
-sowie Handlungsanleitungen und Empfehlungen in den Anlagen 1 und 2 bereitgestellt.
-
-Für die Nutzung des Medikationsplanes sind insbesondere die folgenden Fallkonstellationen
-
-von Bedeutung:
+Für die Nutzung des Medikationsplanes sind insbesondere die folgenden Fallkonstellationen  von Bedeutung:
 
 -  Ersterstellung eines Medikationsplans in der Arztpraxis
-
 -  Aktualisierung eines Medikationsplans beim/bei der erstellenden Arzt/Ärztin,
-
 -  Aktualisierung eines Medikationsplans durch eine/n mitbehandelnde/n Arzt/Ärztin,
-
 -  Aktualisierung eines Medikationsplans in der Apotheke
-
 -  Ersterstellung und Aktualisierung eines Medikationsplans in Einrichtungen der
-
 - Krankenversorgung (z. B. Krankenhaus) und
-
 -  Zusammenführen verschiedener Versionen eines Medikationsplans (optional)
 
 ## 4.1 Ersterstellung eines Medikationsplans in der Arztpraxis
@@ -663,27 +496,17 @@ Der/die Patient*in sucht die Arztpraxis auf Bestandteil der ärztlichen Konsulta
 
 Arzneimitteltherapie. Der/die Arzt/Ärztin prüft, ob die Kriterien für die Erstellung eines
 
-Medikationsplans erfüllt sind und informiert den/die Patient*in in geeigneter Weise über
+Medikationsplans erfüllt sind und informiert den/die Patient*in in geeigneter Weise über  seinen/ihren Anspruch auf einen Medikationsplan.
 
-seinen/ihren Anspruch auf einen Medikationsplan.
-
-Zur Erstellung des Medikationsplans werden die jeweils als aktuell dem/der Patient*in
-
-verordneten bzw. vom/von der Patient*in als angewendet dokumentierten (z. B. mit einem
+Zur Erstellung des Medikationsplans werden die jeweils als aktuell dem/der Patient*in  verordneten bzw. vom/von der Patient*in als angewendet dokumentierten (z. B. mit einem
 
 Kennzeichen „aktuell“ versehenen) Medikationseinträge als Vorschlag in die Liste von
 
 Arzneimitteln für den Medikationsplan übernommen. Der /die Arzt/Ärztin hat die Möglichkeit ,
 
-Einträge zu entfernen, zu bearbeiten und weitere Einträge zu ergänzen. Dabei kann er/sie auf
+Einträge zu entfernen, zu bearbeiten und weitere Einträge zu ergänzen. Dabei kann er/sie auf  die o. g. Datenquellen zurückgreifen, Medikamente aus einer Arzneimitteldatenbank  auswählen oder manuell einen Eintrag anlegen.
 
-die o. g. Datenquellen zurückgreifen, Medikamente aus einer Arzneimitteldatenbank
-
-auswählen oder manuell einen Eintrag anlegen.
-
-Zur Erstellung des Medikationsplans wird dieser vom/von der Arzt/Ärztin über das MP-Modul
-
-der Verordnungssoftware generiert, wobei die Patientendaten (Name, Vorname und
+Zur Erstellung des Medikationsplans wird dieser vom/von der Arzt/Ärztin über das MP-Modul  der Verordnungssoftware generiert, wobei die Patientendaten (Name, Vorname und
 
 Geburtsdatum) aus dem PVS in den Medikationsplan übernommen werden.
 
@@ -692,21 +515,15 @@ Geburtsdatum) aus dem PVS in den Medikationsplan übernommen werden.
 
 Bei der patientenbezogenen Gestaltung des Medikationsplans kann der/die Ersteller*in die
 
-Arzneimittel in bestimmte Gruppen (z. B. Selbstmedikation, Bedarfsmedikation etc.) einteilen
-
-und mit entsprechenden Zwischenüberschriften versehen.
+Arzneimittel in bestimmte Gruppen (z. B. Selbstmedikation, Bedarfsmedikation etc.) einteilen  und mit entsprechenden Zwischenüberschriften versehen.
 
 Schließlich sind bei den einzelnen Arzneimitteln optional die Bemerkungen zum
 
 Behandlungsgrund und zu Anwendungshinweisen einzutragen. Ferner können in der
 
-Medikationstabelle sonstige Angaben allgemeiner Art als Freitext eingegeben werden . Dies
+Medikationstabelle sonstige Angaben allgemeiner Art als Freitext eingegeben werden . Dies  kann auch in einem Block am Ende der Medikationstabelle erfolgen (vgl. Hinweisblock)
 
-kann auch in einem Block am Ende der Medikationstabelle erfolgen (vgl. Hinweisblock)
-
-Vor dem Ausdruck werden durch das MP-Modul aus den Daten des Medikationsplans die des
-
-2D-Barcodes bestimmt (Mapping). Der Medikationsplan wird im PVS als Bestandteil der
+Vor dem Ausdruck werden durch das MP-Modul aus den Daten des Medikationsplans die des  2D-Barcodes bestimmt (Mapping). Der Medikationsplan wird im PVS als Bestandteil der
 
 Patientendokumentation abgespeichert. Dabei wird von der Zustimmung des/der Patient*in im
 
@@ -731,92 +548,53 @@ Zur Aktualisierung des Medikationsplanes wird zunächst die im System zuletzt ge
 Version des Medikationsplans aufgerufen. Es ergeben sich nun technisch zwei Möglichkeiten:
 
 - 1. Der/die Arzt/Ärztin kann eine manuelle Aktualisierung vornehmen. Dabei ändert, ergänzt
-
 - oder löscht er/sie Einträge der zuletzt gespeicherten Version, ggf. unter
-
-- Berücksichtigung von Änderungen des Medikationsplans, den der/die Patient*in ihm - vorlegt.
-
+- Berücksichtigung von Änderungen des Medikationsplans, den der/die Patient*in ihm
+- vorlegt.
 - 2. Der vom/von der Patient*in vorgelegte, durch Dritte aktualisierte Medikationsplan wird
-
 - mit dem MP-Modul über den 2D-Barcode eingelesen. Der entsprechende Datensatz wird
-
 - durch das MP-Modul mit der zuletzt im PVS gespeicherten Version abgeglichen. Dabei
-
 - sind Unterschiede in den Daten optisch darzustellen. Durch entsprechende Auswahl-
-
 - möglichkeiten ist den Anwendenden die Möglichkeit zur Ablehnung, Übernahme oder
-
 - Abänderung der festgestellten Unterschiede zu geben.
 
 
 ---
 
-Zur Eingabe neuer Arzneimittel in den Medikationsplan und patientenbezogenen Gestaltung
+Zur Eingabe neuer Arzneimittel in den Medikationsplan und patientenbezogenen Gestaltung  des aktualisierten Medikationsplans, zu dessen Mapping, Speicherung, Ausdruck, Erläuterung  und Aushändigung verfährt der/die aktualisierend/e Arzt/Ärztin entsprechend der Ziffer 4.1
 
-des aktualisierten Medikationsplans, zu dessen Mapping, Speicherung, Ausdruck, Erläuterung
+Der bisher gültige Medikationsplan ist soweit möglich zu vernichten oder durch den/die  aktualisierende/n Arzt/Ärztin in geeigneter Weise als ungültig zu kennzeichnen. Hierzu wird  mindestens der 2D-Barcode des veralteten Plans durchgestrichen.
 
-und Aushändigung verfährt der/die aktualisierend/e Arzt/Ärztin entsprechend der Ziffer 4.1.
+## 4.3 Aktualisierung eines Medikationsplans durch eine/n mit- behandelnde/n Arzt/Ärztin
 
-Der bisher gültige Medikationsplan ist soweit möglich zu vernichten oder durch den/die
+Der/die Patient*in hat bereits einen Medikationsplan und legt diesen bei einem/einer  mitbehandelnden Vertragsarzt/-ärztin zur Aktualisierung vor. Der/die Vertragsarzt/-ärztin kann  den Plan hinsichtlich der von ihm/ihr verordneten Arzneimittel aktualisieren.
 
-aktualisierende/n Arzt/Ärztin in geeigneter Weise als ungültig zu kennzeichnen. Hierzu wird
-
-mindestens der 2D-Barcode des veralteten Plans durchgestrichen.
-
-## 4.3 Aktualisierung eines Medikationsplans durch eine/n mit-
-
-## behandelnde/n Arzt/Ärztin
-
-Der/die Patient*in hat bereits einen Medikationsplan und legt diesen bei einem/einer
-
-mitbehandelnden Vertragsarzt/-ärztin zur Aktualisierung vor. Der/die Vertragsarzt/-ärztin kann
-
-den Plan hinsichtlich der von ihm/ihr verordneten Arzneimittel aktualisieren.
-
-Der vom/von der Patient*in vorgelegte Medikationsplan wird mit dem MP-Modul über den 2D-
-
-2D-Barcode eingelesen. Der entsprechende Datensatz kann ggf. durch das MP-Modul mit
-
-einer zuletzt im PVS des/der mitbehandelnden Arztes/Ärztin gespeicherten Version
-
-abgeglichen werden. Dabei sind Unterschiede in den Daten optisch darzustellen. Durch
-
-entsprechende Auswahlmöglichkeiten ist den Anwendenden die Möglichkeit zur Ablehnung,
+Der vom/von der Patient*in vorgelegte Medikationsplan wird mit dem MP-Modul über den 2D- 2D-Barcode eingelesen. Der entsprechende Datensatz kann ggf. durch das MP-Modul mit  einer zuletzt im PVS des/der mitbehandelnden Arztes/Ärztin gespeicherten Version  abgeglichen werden. Dabei sind Unterschiede in den Daten optisch darzustellen. Durch  entsprechende Auswahlmöglichkeiten ist den Anwendenden die Möglichkeit zur Ablehnung,
 
 Übernahme oder Abänderung der festgestellten Unterschiede zu geben.
 
-Zur Eingabe neuer Arzneimittel in den Medikationsplan und patientenbezogenen Gestaltung
+Zur Eingabe neuer Arzneimittel in den Medikationsplan und patientenbezogenen Gestaltung  des aktualisierten Medikationsplans, zu dessen Mapping, Speicherung, Ausdruck, Erläuterung  und Aushändigung verfährt der/die aktualisierende Arzt/Ärztin entsprechend der Ziffer 4.1
 
-des aktualisierten Medikationsplans, zu dessen Mapping, Speicherung, Ausdruck, Erläuterung
-
-und Aushändigung verfährt der/die aktualisierende Arzt/Ärztin entsprechend der Ziffer 4.1.
-
-Der bisher gültige Medikationsplan ist soweit möglich zu vernichten oder durch den/die
-
-aktualisierende/n Arzt/Ärztin in geeigneter Weise als ungültig zu kennzeichnen. Hierzu wird
-
-mindestens der 2D-Barcode des veralteten Plans durchgestrichen.
+Der bisher gültige Medikationsplan ist soweit möglich zu vernichten oder durch den/die  aktualisierende/n Arzt/Ärztin in geeigneter Weise als ungültig zu kennzeichnen. Hierzu wird  mindestens der 2D-Barcode des veralteten Plans durchgestrichen.
 
 ## 4.4 Aktualisierung eines Medikationsplans in der Apotheke
 
-Der/die Patient*in kann, sofern er/sie es wünscht, seinen/ihren Medikationsplan im Rahmen
-
-der Abgabe von Arzneimitteln in der Apotheke aktualisieren lassen. Hierbei aktualisiert die
+Der/die Patient*in kann, sofern er/sie es wünscht, seinen/ihren Medikationsplan im Rahmen  der Abgabe von Arzneimitteln in der Apotheke aktualisieren lassen. Hierbei aktualisiert die
 
 Apotheke insbesondere die abgegebenen Arzneimittel, sofern diese sich (etwa durch die
 
 Berücksichtigung von Rabattverträgen oder Aut-Idem-Austausch) von den ursprünglich im
 
-Medikationsplan erfassten Arzneimitteln unterscheiden. Auf Wunsch des/der Patient*in
-
-können bei der Abgabe in der Apotheke auch apothekenpflichtige Arzneimittel, die der/die
+Medikationsplan erfassten Arzneimitteln unterscheiden. Auf Wunsch des/der Patient*in  können bei der Abgabe in der Apotheke auch apothekenpflichtige Arzneimittel, die der/die
 
 Patient*in ohne Verschreibung anwendet, ergänzt werden.
 
 
 ---
 
-## 4.5 Ersterstellung und Aktualisierung eines Medikationsplans in  Einrichtungen der Krankenversorgung (z. B. Krankenhaus)
+## 4.5 Ersterstellung und Aktualisierung eines Medikationsplans in  Einrichtungen der Krankenversorgung (
+
+**z. B. Krankenhaus)**
 
 Die Erstellung eines Medikationsplans im Krankenhaus kann z. B. im Rahmen des
 
@@ -826,41 +604,27 @@ Bestandteil des Entlassmanagements kann auch eine Arzneimitteltherapie sein. Der
 
 Arzt/Ärztin prüft, ob die Kriterien für die Erstellung eines Medikationsplans erfüllt sind.
 
-Die für die Erstellung des Medikationsplans notwendigen Daten sind im Krankenhaus-
-
-informationssystem in geeigneter Form zu speichern. Dabei müssen mindestens folgende
+Die für die Erstellung des Medikationsplans notwendigen Daten sind im Krankenhaus- informationssystem in geeigneter Form zu speichern. Dabei müssen mindestens folgende
 
 Daten vom Arzt erfasst und dauerhaft gespeichert werden können:
 
 - 1. Medikamente, die vom/von der erstellenden Arzt/Ärztin im Rahmen des
-
 - Entlassmanagements auf einem Rezept verordnet werden oder als Medikation nach
-
 - der Entlassung aus dem Krankenhaus empfohlen werden.
-
 - 2. Medikamente, die von anderen Ärzt*innen verordnet wurden. Diese müssen durch
-
 - den/die erstellende/n Arzt/Ärztin durch Auswahl aus einer Arzneimitteldatenbank oder
-
 - durch manuelle Eingabe von Freitext erfasst werden können, sowie ggf. aus
-
 - geeigneten elektronischen Quellen eingelesen werden können (s. u.).
-
 - 3. Medikamente der Selbstmedikation. Diese müssen ebenfalls, wie unter Punkt 1
-
 - beschrieben, erfasst werden können.
 
-Hinsichtlich der weiteren Erstellung und bei der Aktualisierung ist analog zur Ersterstellung in
-
-der Arztpraxis zu verfahren (4.1).
+Hinsichtlich der weiteren Erstellung und bei der Aktualisierung ist analog zur Ersterstellung in  der Arztpraxis zu verfahren (4.1
 
 ## 4.6 Zusammenführen verschiedener Medikationspläne
 
 Es kann vorkommen, dass für eine/n Patient*in zu einem gegebenen Zeitpunkt mehrere
 
-Medikationspläne gleichzeitig bestehen. Daher ist es ggf. notwendig, die sich daraus
-
-ergebende Gesamtmedikation in einem zusammengefassten Medikationsplan zu erfassen.
+Medikationspläne gleichzeitig bestehen. Daher ist es ggf. notwendig, die sich daraus  ergebende Gesamtmedikation in einem zusammengefassten Medikationsplan zu erfassen.
 
 Das betrifft insbesondere die Zusammenführung der von /von der Hausarzt/-ärztin, Facharzt/
 
@@ -868,13 +632,7 @@ Das betrifft insbesondere die Zusammenführung der von /von der Hausarzt/-ärzti
 
 Zusammenfassung mehrerer Medikationspläne wird zunächst die letzte Fassung mit dem MP
 
-Modul über den 2D-Barcode eingelesen. Anschließend können weitere Medikationspläne über
-
-deren 2D-Barcodes eingelesen werden. Dabei wird schrittweise vorgegangen, so dass jeweils
-
-ein zugefügter Medikationsplan mit dem bereits vorhandenen Plan verglichen und
-
-zusammengeführt werden kann. Das MP-Modul unterstützt die Anwendenden in geeigneter
+Modul über den 2D-Barcode eingelesen. Anschließend können weitere Medikationspläne über  deren 2D-Barcodes eingelesen werden. Dabei wird schrittweise vorgegangen, so dass jeweils  ein zugefügter Medikationsplan mit dem bereits vorhandenen Plan verglichen und  zusammengeführt werden kann. Das MP-Modul unterstützt die Anwendenden in geeigneter
 
 Weise beim Zusammenführen der Medikationspläne, indem die wesentlichen Inhalte der
 
@@ -891,20 +649,13 @@ Interaktion mit dem Anwendenden ist daraus der Vorschlag für einen zusammenfass
 
 Medikationsplan abzuleiten.
 
-Zur Eingabe der Arzneimittel in den Medikationsplan und patientenbezogenen Gestaltung des
+Zur Eingabe der Arzneimittel in den Medikationsplan und patientenbezogenen Gestaltung des  zusammengefassten Medikationsplanes, zu dessen Mapping, Speicherung, Ausdruck,
 
-zusammengefassten Medikationsplanes, zu dessen Mapping, Speicherung, Ausdruck,
-
-Erläuterung und Aushändigung verfährt der Bearbeitende entsprechend der Ziffern 4.1, 4.2,
-
-4.3, 4.4 bzw. 4.5.
+Erläuterung und Aushändigung verfährt der Bearbeitende entsprechend der Ziffern 4.1 4.2 4.3 4.4 bzw. 4.5
 
 Bisher gültige Medikationspläne sind soweit möglich zu vernichten oder durch den
 
-Bearbeitenden in geeigneter Weise als ungültig zu kennzeichnen. Hierzu wird mindestens der
-
-2D-Barcode des veralteten Plans durchgestrichen.
-
+Bearbeitenden in geeigneter Weise als ungültig zu kennzeichnen. Hierzu wird mindestens der  2D-Barcode des veralteten Plans durchgestrichen.
 
 ---
 
@@ -916,7 +667,7 @@ Bearbeitenden in geeigneter Weise als ungültig zu kennzeichnen. Hierzu wird min
 
 Der Header besteht aus dem Identifikationsblock, dem Administrationsblock und dem
 
-Carrierbereich mit der Ruhezone (vgl. Kapitel 6 und Abbildung 1). Der Header des
+Carrierbereich mit der Ruhezone (vgl. Kapitel
 
 Medikationsplans enthält die Bezeichnung (1.1), Seitenzahl (1.2) und Gesamtseitenzahl (1.3).
 
@@ -924,9 +675,7 @@ Enthalten sind ferner Angaben zur Identifikation des
 
 2.2; Titel, 2.22; Vorsatzwort, 2.23; Namenszusatz, 2.24; Geburtsdatum, 2.4) und zur
 
-Identifikation der Person bzw. Institution ( z. B. Arzt/Ärztin oder Apotheke), der/die den Plan
-
-zuletzt ausgedruckt hat. Hierzu gehören: 2.5
+Identifikation der Person bzw. Institution ( z. B. Arzt/Ärztin oder Apotheke), der/die den Plan  zuletzt ausgedruckt hat. Hierzu gehören: 2.5
 
 Name/Bezeichnung der Person/Institution, die den Plan zuletzt gedruckt hat 2.6
 
@@ -955,47 +704,43 @@ Datum und Uhrzeit des Ausdrucks
 Jede Zeile der Medikationstabelle entspricht einem der im Folgenden genannten Typen:
 
 -  Medikationseintrag, ggf. mit einer gebundenen Zusatzzeile oder einer zusätzlichen
-
 - Zeile bzgl. der wöchentlichen Dosierung
-
--  Rezeptureintrag, ggf. mit einer gebundenen Zusatzzeile -  Freitextzeile,
-
+-  Rezeptureintrag, ggf. mit einer gebundenen Zusatzzeile
+-  Freitextzeile,
 -  Zwischenüberschrift.
 
 **Medikationseintrag**
 
 In der folgenden Tabelle werden Inhalt,
 
-Medikationstabelle für Zeilen vom Typ Medikationseintrag
+Medikationstabelle für Zeilen vom Typ Medikationseintrag 6 und
 
 /der Patient*in (Vorname, 2.1; Nachname,
 
--Barcode (3.2).
+Abbildung 1). Der Header des -Barcode (3.2).
 
-Anzahl und Reihenfolge der Spalten der
-
-festgelegt:
+Anzahl und Reihenfolge der Spalten der  festgelegt:
 
 
 ---
 
-| **Feld** | **Spalten-** | **Name** | **Erläuterung** |
+| Feld | Spalten- | Name | Erläuterung |
 |---|---|---|---|
 | Tabelle | **Feld** | **Spalten-** | **Name** |
 | 4.1 | 1 | Wirkstoffname | Enthält die Bezeichnung des Wirkstoffs oder der Wirkstoff- |
 | 4.2 | 2 | Arzneimittelname | Optionales |
 | 4.3 | 3 | Wirkstärke | Enthält |
 | 4.4 | 4 | Darreichungsform | Patiententaugliche Abkürzung der Darreichungsform gemäß |
-| 4.5 | 5 | Dosierschema | Das Dosierschema kann entweder in der in Deutschland  angegeben werden. |
+| 4.5 | 5 | Dosierschema | Das Dosierschema kann entweder in der in Deutschland  6.2.11) oder als Freitext |
 | 4.6 | 6 | Dosiereinheit | Zum Dosierschema passende Einheit. Diese kann durch |
 | 4.7 | 7 | Hinweise | Optionales |
 | **Erläuterung** | 4.1 | 1 | Wirkstoffname |
 
-1: Inhalt, Anzahl und Reihenfolge der Spalten. Code  position kombination als von den Anwendenden erfassten Freitext oder entsprechend der in den AM-Datenbanken hinterlegten Werte. Für letztere sind verpflichtend die Angaben der Referenzdatenbank nach § 31b SGB V im Feld [Wirkstoff] zu berücksichtigen. Im Falle von mehreren Wirkstoffen ist deren von der Referenzdatenbank vorgegebene Reihenfolge [Rang] einzuhalten. Im Falle eines Mehrkomponentenpräparates (s. u.) bleibt dieses Feld leer. Feld. Fertig- arzneimittels entsprechend der in den AM-Datenbanken hinterlegten Werte (Handelsname). Es wird angestrebt, diesbezüglich eindeutige und einheitliche Werte durch die AM Datenbanken verfügbar zu machen. Diese sollen soweit verfügbar auf den Angaben beruhen, die gemäß § 10 Abs. 1 Nr. 2, 1. Halbsatz AMG in Verbindung mit § 11a AMG (Fach- information) auf der Arzneimittelpackung aufzubringen sind. Der Handelsname soll keine Angaben zur Packungsgröße enthalten. als von Anwendenden erfasster Freitext oder entsprechend der in den AM-Datenbanken hinterlegten Werte. Bei Arzneimitteln mit Wirkstoffkombinationen sind ggf. mehrere Werte anzugeben. Bei Angaben aus der AM-Datenbank sind verpflichtend die Angaben der Referenzdatenbank nach § 31b SGB V im Feld [Wirkstaerke] zu berücksichtigen. Im Falle von mehreren Wirkstoffen sind deren Wirkstärken von Referenzdatenbank vorgegebenen Reihenfolge [Rang] aufzuführen. Im Falle eines Mehrkomponentenpräparates (s. u.) bleibt dieses Feld leer. den Angaben der Referenzdatenbank nach § 31b SGB V zu verwenden. üblichen Notation morgens-mittags-abends-zur Nacht (W-X- Y-Z) und ggf. mit der Angabe eines wöchentlichen Intervalls erfolgen (siehe hierfür Kapitel 6.2.11) oder als Freitext Anwendenden aus einer Arzneimittedatenbank passend zum Fertigarzneimittel hinterlegten Auswahlliste entnommen werden, aus der Gesamtliste gemäß Anhang 4 ausgewählt oder als Freitext eingegeben werden.  Feld. Angabe von Hinweisen Anwendenden als Freitext oder als Auswahl aus einer Liste von AM-Datenbank-Anbieter für Fertigarzneimittel vorgegebenen Texten. Eine Auswahl von durch die Anwendenden vordefinierter Texte ist ebenfalls möglich. Die Speicherung im Carriersegment erfolgt als Text.
+1: Inhalt, Anzahl und Reihenfolge der Spalten. Code position kombination als von den Anwendenden erfassten Freitext oder entsprechend der in den AM-Datenbanken hinterlegten Werte. Für letztere sind verpflichtend die Angaben der Referenzdatenbank nach § 31b SGB V im Feld [Wirkstoff] zu berücksichtigen. Im Falle von mehreren Wirkstoffen ist deren von der Referenzdatenbank vorgegebene Reihenfolge [Rang] einzuhalten. Im Falle eines Mehrkomponentenpräparates (s. u.) bleibt dieses Feld leer. Feld. Fertig- arzneimittels entsprechend der in den AM-Datenbanken hinterlegten Werte (Handelsname). Es wird angestrebt, diesbezüglich eindeutige und einheitliche Werte durch die AM Datenbanken verfügbar zu machen. Diese sollen soweit verfügbar auf den Angaben beruhen, die gemäß § 10 Abs. 1 Nr. 2, 1. Halbsatz AMG in Verbindung mit § 11a AMG (Fach- information) auf der Arzneimittelpackung aufzubringen sind. Der Handelsname soll keine Angaben zur Packungsgröße enthalten. von den Anwendenden erfasster Freitext oder entsprechend der in den AM-Datenbanken hinterlegten Werte. Bei Arzneimitteln mit Wirkstoffkombinationen sind ggf. mehrere Werte anzugeben. Bei Angaben aus der AM-Datenbank sind verpflichtend die Angaben der Referenzdatenbank nach § 31b SGB V im Feld [Wirkstaerke] zu berücksichtigen. Im Falle von mehreren Wirkstoffen sind deren Wirkstärken von Referenzdatenbank vorgegebenen Reihenfolge [Rang] aufzuführen. Im Falle eines Mehrkomponentenpräparates (s. u.) bleibt dieses Feld leer. den Angaben der Referenzdatenbank nach § 31b SGB V zu verwenden. üblichen Notation morgens-mittags-abends-zur Nacht (W-X- Y-Z) und ggf. mit der Angabe eines wöchentlichen Intervalls erfolgen (siehe hierfür Kapitel angegeben werden.  Anwendenden aus einer Arzneimittedatenbank passend zum Fertigarzneimittel hinterlegten Auswahlliste entnommen werden, aus der Gesamtliste gemäß Anhang 4 ausgewählt oder als Freitext eingegeben werden.  Feld. Angabe von Hinweisen Anwendenden als Freitext oder als Auswahl aus einer Liste von den AM-Datenbank-Anbieter für Fertigarzneimittel vorgegebenen Texten. Eine Auswahl von durch die Anwendenden vordefinierter Texte ist ebenfalls möglich. Die Speicherung im Carriersegment erfolgt als Text.
 
 ---
 
-| **Feld-** | **Spalten-** | **Name** | **Erläuterung ** 4.8 |
+| Feld- | Spalten- | Name | Erläuterung  4.8 |
 |---|---|---|---|
 | **Feld-** | **Spalten-** | **Name** | **Erläuterung** |
 | 8 | Behandlungsgrund | Optionales Feld. Patientenverständlicher Behandlungsgrund. | **Gebundene Zusatzzeile** |
@@ -1015,43 +760,23 @@ Code position zugeordnet ist. Sie enthält ggf. ergänzende Informationen zur Do
 
 Inhalt und Position der Zwischenüberschrift werden durch die Anwendenden festgelegt. Der
 
-Inhalt kann von den Anwendenden in Form von Freitext eingegeben oder aus den in Anhang
-
-2.3 festgelegten Werten ausgewählt werden. Das Hinterlegen anwenderdefinierter Standard-
-
-Textbausteine für Zwischenüberschriften im MP-Modul ist zulässig und soll möglich sein.
+Inhalt kann von den Anwendenden in Form von Freitext eingegeben oder aus den in Anhang  2.3 festgelegten Werten ausgewählt werden. Das Hinterlegen anwenderdefinierter Standard- Textbausteine für Zwischenüberschriften im MP-Modul ist zulässig und soll möglich sein.
 
 **Mehrkomponentenpräparat**
 
-Besteht ein Arzneimittel aus unterschiedlichen Komponenten (z. B. verschiedene und/oder
+Besteht ein Arzneimittel aus unterschiedlichen Komponenten (z. B. verschiedene und/oder  unterschiedlich zusammengesetzte Darreichungsformen), die unter einer gemeinsamen PZN  zusammengefasst sind, so spricht man von einem Mehrkomponentenpräparat
 
-unterschiedlich zusammengesetzte Darreichungsformen), die unter einer gemeinsamen PZN
+(Kombipackung). Dieses ist vom Kombipräparat (nur eine Komponente, diese enthält  wiederum mehr als einen Wirkstoff) zu unterscheiden. Beispiele für
 
-zusammengefasst sind, so spricht man von einem Mehrkomponentenpräparat
+Mehrkomponentenpräparate sind Kombinationspackungen aus Augentropfen und Augensalbe  oder mehrphasige Hormonpräparate. Entsprechende Präparate sind in der
 
-(Kombipackung). Dieses ist vom Kombipräparat (nur eine Komponente, diese enthält
+Referenzdatenbank nach § 31b SGB V als solche gekennzeichnet [Kombipackung]. Aufgrund  der Uneinheitlichkeit dieser Präparate und des begrenzten Platzes auf dem Ausdruck des
 
-wiederum mehr als einen Wirkstoff) zu unterscheiden. Beispiele für
-
-Mehrkomponentenpräparate sind Kombinationspackungen aus Augentropfen und Augensalbe
-
-oder mehrphasige Hormonpräparate. Entsprechende Präparate sind in der
-
-Referenzdatenbank nach § 31b SGB V als solche gekennzeichnet [Kombipackung]. Aufgrund
-
-der Uneinheitlichkeit dieser Präparate und des begrenzten Platzes auf dem Ausdruck des
-
-Medikationsplans bleiben die Felder Wirkstoff und Wirkstärke für solche Präparate
-
-systemseitig leer.
+Medikationsplans bleiben die Felder Wirkstoff und Wirkstärke für solche Präparate  systemseitig leer.
 
 Bei der Angabe der Dosierung für die Anwendenden ist u. U. die konkrete Struktur des
 
-Mehrkomponentenpräparats zu beachten. Bei Bedarf kann die konkrete Dosierung der
-
-enthaltenen Komponenten insb. unterschiedlicher Darreichungsformen in der Spalte „Hinweis“
-
-oder in einer gebundenen Zusatzzeile erläutert werden.
+Mehrkomponentenpräparats zu beachten. Bei Bedarf kann die konkrete Dosierung der  enthaltenen Komponenten insb. unterschiedlicher Darreichungsformen in der Spalte „Hinweis“  oder in einer gebundenen Zusatzzeile erläutert werden.
 
 ### 5.1.3 Felder des Fußbereichs
 
@@ -1070,13 +795,11 @@ Der Fußbereich enthält die folgenden Felder:
 
 ---
 
-### 5.1.4 Erläuterungen zu Tabelle 2
+### 5.1.4 Erläuterungen zu
 
 **Nutzung**
 
-Die in Tabelle 2 beschriebenen Felder sind für den Papierausdruck des Medikationsplans zu
-
-nutzen.
+Die in Tabelle 2 beschriebenen Felder sind für den Papierausdruck des Medikationsplans zu  nutzen.
 
 **Feldcode**
 
@@ -1092,7 +815,7 @@ Hier wird für jedes Datenfeld festgelegt, woher die konkreten Werte kommen (Ins
 
 Bei einigen Feldern bestehen verschiedene Varianten für Syntax und Inhalt ( z. B. Wirkstoff,
 
-Arzneimittel). In diesen Fällen sind u. a. die Bedingungen in der Spalte „Instanz kommt aus
+Arzneimittel). In diesen Fällen sind u. a.
 
 der Datenquelle“ zu beachten, um zu entscheiden, welche
 
@@ -1102,16 +825,22 @@ Sofern der auszudruckende Feldinhalt länger als die vorgegebene Feldlänge ist 
 
 Verfügung stehende, bedruckbare Platz nicht ausreicht, so ist in allen Feldern gemäß den
 
-Vorgaben in den Kapiteln 5.1.6 bzw. 6.2.7 vorzugehen.
+Vorgaben in den Kapiteln
 
-In der folgenden Tabelle werden die Felder für den Ausdruck beschrieben: .1 beschriebene
+In der folgenden Tabelle werden die Felder für den Ausdruck beschrieben:
+
+### Tabelle 2
+
+die Bedingungen in der Spalte „Instanz kommt aus 5.1.6 bzw. 6.2.7 vorzugehen.
+
+.1 beschriebene
 
 Ausprägung zu verwenden ist.
 
 
 ---
 
-| **Feld-** | **Bezeichnung** | **Syntax** | **Feldlänge für den Ausdruck** | **Instanz kommt aus der** |
+| Feld- | Bezeichnung | Syntax | Feldlänge für den Ausdruck | Instanz kommt aus der |
 |---|---|---|---|---|
 | Tabelle 2: Beschreibung der Felder für den Ausdruck. | **Feld-** | **Bezeichnung** | **Syntax** | **Feldlänge für den Ausdruck** |
 | Tabelle 2: Beschreibung der Felder für den Ausdruck. | **Feld-** | **Bezeichnung** | **Syntax** | **Feldlänge für den Ausdruck** |
@@ -1168,22 +897,22 @@ Ausprägung zu verwenden ist.
 | 2.1 | Vorname | Freitext | Länge: 1 |  |
 | Software | 2.2 | Nachname | Freitext | Länge: 1 |
 
-code Feld kennung Patient*in) Patient*in) Patient*in) Patient*in) Patient*in) Patient*in, administrativ) de/r des Medikations- plans Uhrzeit des Ausdrucks  textuell mit Trennzeichen siehe A2.8 hh:mm und zulässige Werte Werte: [1,2,3,4,5] Werte: [1,2,3,4,5]  Zertifizierungslogo 45 Zeichen 45 Zeichen 20 Zeichen 20 Zeichen 20 Zeichen Werte > 01.01.1875 und zusätzlich 00.00.JJJJ und 00.MM.JJJJ 50 Zeichen 30 Zeichen 20 Zeichen 20 Zeichen 30 (40 in Abhängigkeit der Schrift) Hinweis: Leerzeichen zwischen Datum und Uhrzeit 25 Zeichen je Zeile; Datenquelle Schlüsselwort 111 verwenden Verzeichnis über Software ein oder wählt Werte aus der Patientendokumentation aus.
+code kennung Patient*in) Patient*in) Patient*in) Patient*in) Patient*in) Patient*in, administrativ) de/r des Medikations- plans Uhrzeit des Ausdrucks  textuell mit Trennzeichen siehe A2.8 hh:mm und zulässige Werte Werte: [1,2,3,4,5] Werte: [1,2,3,4,5]  Zertifizierungslogo 45 Zeichen 45 Zeichen 20 Zeichen 20 Zeichen 20 Zeichen Werte > 01.01.1875 und zusätzlich 00.00.JJJJ und 00.MM.JJJJ 50 Zeichen 30 Zeichen 20 Zeichen 20 Zeichen 30 (40 in Abhängigkeit der Schrift) Hinweis: Leerzeichen zwischen Datum und Uhrzeit 25 Zeichen je Zeile; Datenquelle Schlüsselwort 111 verwenden Verzeichnis über Software ein oder wählt Werte aus der Patientendokumentation aus.
 
 ---
 
-| **Feld-** | **Bezeichnung** | **Syntax** | **Feldlänge für den Ausdruck** | **Instanz kommt aus der ** 3.1 |
+| Feld- | Bezeichnung | Syntax | Feldlänge für den Ausdruck | Instanz kommt aus der  3.1 |
 |---|---|---|---|---|
 | **Feld-** | **Bezeichnung** | **Syntax** | **Feldlänge für den Ausdruck** | **Instanz kommt aus der** |
 | **Feld-** | **Bezeichnung** | **Syntax** | **Feldlänge für den Ausdruck** | **Instanz kommt aus der** |
 | **Feld-** | **Bezeichnung** | **Syntax** | **Feldlänge für den Ausdruck** | **Instanz kommt aus der** |
 | **Feld-** | **Bezeichnung** | **Syntax** | **Feldlänge für den Ausdruck** | **Instanz kommt aus der** |
 | Ruhezone | Nicht zu | Minimal 0,3 cm um den 2D- | Von der Software zu  3.2 | 2D-Barcode |
-| Grafik der | Anforderungen an das |  | und Anhang 8 | Die Software transformiert |
+| Grafik der | Anforderungen an das | 7 | und Anhang 8 | Die Software transformiert |
 | 4.1 | Wirkstoff | Text | Länge: je 0 | bis zu 3 Wirkstoffnamen |
-| 1 oder 2 Wirkstoffe: mit | 3 Wirkstoffe: mit 2 Zeilen- | Einzelne Wirkstoffnamen  „Kombip | Länge: 13 Zeichen  Gilt nur für den Ausdruck.  Anhang 2.3, | Freitext |
-| Länge: je 0 |  | bis zu 3 Wirkstoffnamen | 1 oder 2 Wirkstoffe: mit  3 Wirkstoffe: mit 2 Zeilen- |  |
-|  | Anwendende geben Wert |  |  |  |
+| 1 oder 2 Wirkstoffe: mit | 3 Wirkstoffe: mit 2 Zeilen- | 6.2.8)  Einzelne Wirkstoffnamen  „Kombip | Länge: 13 Zeichen  Gilt nur für den Ausdruck.  Anhang 2.3, | Freitext |
+| Länge: je 0 |  | bis zu 3 Wirkstoffnamen | 1 oder 2 Wirkstoffe: mit  3 Wirkstoffe: mit 2 Zeilen- | 6.2.8 |
+| ) | Anwendende geben Wert | 0 | zu beachten. |  |
 | Leer | Bei |  | 4.2 | Arzneimittel- |
 | Text | Länge: 0 | Einzelne Handelsnamen | Freitext | Länge: 0 |
 | Anwendende geben Wert | 4.3 | Wirkstärke | Leer | Feld bleibt leer, |
@@ -1197,56 +926,56 @@ code Feld kennung Patient*in) Patient*in) Patient*in) Patient*in) Patient*in) Pa
 |  |  |  |  |  |
 |  |  |  |  |  |
 | 3.1 | Ruhezone | Nicht zu | Minimal 0,3 cm um den 2D- | Von der Software zu |
-| 3.2 | 2D-Barcode | Grafik der | Anforderungen an das  und Anhang 8 | Die Software transformiert |
-| 4.1 | Wirkstoff | Text | Länge: je 0 bis zu 3 Wirkstoffnamen  1 oder 2 Wirkstoffe: mit  3 Wirkstoffe: mit 2 Zeilen- | Einzelne Wirkstoffnamen |
+| 3.2 | 2D-Barcode | Grafik der | Anforderungen an das  7 und Anhang 8 | Die Software transformiert |
+| 4.1 | Wirkstoff | Text | Länge: je 0 bis zu 3 Wirkstoffnamen  1 oder 2 Wirkstoffe: mit  3 Wirkstoffe: mit 2 Zeilen- 6.2.8) | Einzelne Wirkstoffnamen |
 |  |  | „Kombip | Länge: 13 Zeichen  Gilt nur für den Ausdruck. | Anhang 2.3, |
-|  |  | Freitext | Länge: je 0    bis zu 3 Wirkstoffnamen  1 oder 2 Wirkstoffe: mit  3 Wirkstoffe: mit 2 Zeilen- | Anwendende geben Wert |
+|  |  | Freitext | Länge: je 0    bis zu 3 Wirkstoffnamen  1 oder 2 Wirkstoffe: mit  3 Wirkstoffe: mit 2 Zeilen- 6.2.8) | Anwendende geben Wert  0 zu beachten. |
 |  |  | Leer | Bei |  |
 | 4.2 | Arzneimittel- | Text | Länge: 0 | Einzelne Handelsnamen |
 |  |  | Freitext | Länge: 0 | Anwendende geben Wert |
 | 4.3 | Wirkstärke | Leer | Feld bleibt leer,   wenn Kombipräparat mit    Gilt nur für den Ausdruck. |  |
-|  |  | 3.1  Ruhezone | Nicht zu  Minimal 0,3 cm um den 2D- Von der Software zu  3.2  2D-Barcode  Grafik der  Anforderungen an das | und Anhang 8 |
-|  |  | Die Software transformiert | 4.1  Wirkstoff  Text   Länge: je 0 bis zu 3 Wirkstoffnamen  1 oder 2 Wirkstoffe: mit  3 Wirkstoffe: mit 2 Zeilen- | Einzelne Wirkstoffnamen |
+|  |  | 3.1  Ruhezone | Nicht zu  Minimal 0,3 cm um den 2D- Von der Software zu  3.2  2D-Barcode  Grafik der  Anforderungen an das | 7 und Anhang 8 |
+|  |  | Die Software transformiert | 4.1  Wirkstoff  Text   Länge: je 0 bis zu 3 Wirkstoffnamen  1 oder 2 Wirkstoffe: mit  3 Wirkstoffe: mit 2 Zeilen- | 6.2.8)  Einzelne Wirkstoffnamen |
 | „Kombip | Länge: 13 Zeichen | Gilt nur für den Ausdruck. | Anhang 2.3, | Freitext |
 |  |  | Länge: je 0 |  | bis zu 3 Wirkstoffnamen |
-| 1 oder 2 Wirkstoffe: mit | 3 Wirkstoffe: mit 2 Zeilen- |  |  | Anwendende geben Wert |
-|  |  |  | Leer | Bei |
+| 1 oder 2 Wirkstoffe: mit | 3 Wirkstoffe: mit 2 Zeilen- | 6.2.8 | ) | Anwendende geben Wert |
+|  |  | 0 | zu beachten.      Leer | Bei |
 |  | 4.2 | Arzneimittel- | Text  Länge: 0 Einzelne Handelsnamen  Freitext | Länge: 0 |
 | Anwendende geben Wert | 4.3 | Wirkstärke | Leer | Feld bleibt leer, |
 |  |  | 3.1 | Ruhezone | Nicht zu |
-| Minimal 0,3 cm um den 2D- | Von der Software zu | 3.2 | 2D-Barcode  Grafik der | Anforderungen an das  und Anhang 8  Die Software transformiert  4.1 |
-| Wirkstoff | Text | Länge: je 0 | bis zu 3 Wirkstoffnamen  1 oder 2 Wirkstoffe: mit | 3 Wirkstoffe: mit 2 Zeilen- Einzelne Wirkstoffnamen |
+| Minimal 0,3 cm um den 2D- | Von der Software zu | 3.2 | 2D-Barcode  Grafik der | Anforderungen an das  7 und Anhang 8  Die Software transformiert  4.1 |
+| Wirkstoff | Text | Länge: je 0 | bis zu 3 Wirkstoffnamen  1 oder 2 Wirkstoffe: mit | 3 Wirkstoffe: mit 2 Zeilen- 6.2.8)  Einzelne Wirkstoffnamen |
 | „Kombip | Länge: 13 Zeichen | Gilt nur für den Ausdruck. | Anhang 2.3, | Freitext  Länge: je 0 |
-| bis zu 3 Wirkstoffnamen | 1 oder 2 Wirkstoffe: mit | 3 Wirkstoffe: mit 2 Zeilen- |  |  |
-| Anwendende geben Wert |  |  |  |  |
+| bis zu 3 Wirkstoffnamen | 1 oder 2 Wirkstoffe: mit | 3 Wirkstoffe: mit 2 Zeilen- | 6.2.8 | ) |
+| Anwendende geben Wert | 0 | zu beachten. |  |  |
 |  |  | Leer | Bei |  |
 | 4.2 | Arzneimittel- | Text | Länge: 0 | Einzelne Handelsnamen  Freitext  Länge: 0 |
 | 3.1 | Ruhezone | Nicht zu | Minimal 0,3 cm um den 2D- | Von der Software zu  3.2  2D-Barcode |
-| Grafik der | Anforderungen an das |  | und Anhang 8 | Die Software transformiert |
+| Grafik der | Anforderungen an das | 7 | und Anhang 8 | Die Software transformiert |
 | 4.1 | Wirkstoff | Text | Länge: je 0 | bis zu 3 Wirkstoffnamen |
-| 1 oder 2 Wirkstoffe: mit | 3 Wirkstoffe: mit 2 Zeilen- |  |  | Einzelne Wirkstoffnamen |
+| 1 oder 2 Wirkstoffe: mit | 3 Wirkstoffe: mit 2 Zeilen- | 6.2.8 | ) | Einzelne Wirkstoffnamen |
 | „Kombip | Länge: 13 Zeichen | Gilt nur für den Ausdruck. | Anhang 2.3, | Freitext |
 | Länge: je 0 |  | bis zu 3 Wirkstoffnamen | 1 oder 2 Wirkstoffe: mit | 3 Wirkstoffe: mit 2 Zeilen- |
-|  |  | Anwendende geben Wert |  |  |
+| 6.2.8 | ) | Anwendende geben Wert | 0 | zu beachten. |
 
-code Feld bedruckende Fläche Datamatrix und zulässige Werte Carriersegment, siehe Kap. 7 80 Zeichen pro Wirkstoff; Zeilenumbruch getrennt in einfacher Zeilenhöhe  umbrüchen getrennt in doppelter Zeilenhöhe (siehe Kap 6.2.8) Werte: fixer Text; wenn das AM mehr als 3 Wirkstoffe enthält  80 Zeichen pro Zeilenumbruch getrennt in einfacher Zeilenhöhe  umbrüchen getrennt in doppelter Zeilenhöhe (siehe Kap 6.2.8) Mehrkomponentenpräparat erfolgt keine Wirkstoffangabe im Ausdruck. 50 Zeichen 50 Zeichen mehr als drei Wirkstoffen oder bei Mehrkomponenten- Datenquelle beachten das Carriersegment in den 2D-Barcode. entsprechend der AM- Datenbank, siehe Anhang 1. Schlüsselwort 310 über Software ein. Dabei ist 0 zu beachten. entsprechend der AM- Datenbank, s. Anhang 1. über Software ein.
+bedruckende Fläche Datamatrix und zulässige Werte Carriersegment, siehe Kap. 80 Zeichen pro Wirkstoff; Zeilenumbruch getrennt in einfacher Zeilenhöhe  umbrüchen getrennt in doppelter Zeilenhöhe (siehe Kap Werte: fixer Text; wenn das AM mehr als 3 Wirkstoffe enthält  80 Zeichen pro Zeilenumbruch getrennt in einfacher Zeilenhöhe  umbrüchen getrennt in doppelter Zeilenhöhe (siehe Kap Mehrkomponentenpräparat erfolgt keine Wirkstoffangabe im Ausdruck. 50 Zeichen 50 Zeichen mehr als drei Wirkstoffen oder bei Mehrkomponenten- Datenquelle das Carriersegment in den 2D-Barcode. entsprechend der AM- Datenbank, siehe Anhang 1. Schlüsselwort 310 über Software ein. Dabei ist entsprechend der AM- Datenbank, s. Anhang 1. über Software ein.
 
 ---
 
-| **Feld-** | **Bezeichnung** | **Syntax** | **Feldlänge für den Ausdruck** | **Instanz kommt aus der ** Text |
+| Feld- | Bezeichnung | Syntax | Feldlänge für den Ausdruck | Instanz kommt aus der  Text |
 |---|---|---|---|---|
 | **Feld-** | **Bezeichnung** | **Syntax** | **Feldlänge für den Ausdruck** | **Instanz kommt aus der** |
 | **Feld-** | **Bezeichnung** | **Syntax** | **Feldlänge für den Ausdruck** | **Instanz kommt aus der** |
 | **Feld-** | **Bezeichnung** | **Syntax** | **Feldlänge für den Ausdruck** | **Instanz kommt aus der** |
 | **Feld-** | **Bezeichnung** | **Syntax** | **Feldlänge für den Ausdruck** | **Instanz kommt aus der** |
 |  | Länge: je 0 |  | bis zu 3 Wirkstärken:  1 oder 2 Wirkstärken: mit | 3 Wirkstärken: mit 2 |
-|  |  | Einzelne Wirkstärken |  | Freitext |
+| 6.2.8 | ) | Einzelne Wirkstärken |  | Freitext |
 | Länge: je 0 |  | bis zu 3 Wirkstärken | 1 oder 2 Wirkstärken: mit | 3 Wirkstärken: mit 2 |
-|  |  | Anwendende geben Wert  4.4 | Darreichungs- Text  Länge: 0 | Angabe entsprechend |
+| 6.2.8 | ) | Anwendende geben Wert  0 zu beachten.  4.4 | Darreichungs- Text  Länge: 0 | Angabe entsprechend |
 | Freitext | Länge: 0 | Anwendende geben Wert | 4.5  Dosierschema | Freitext |
 | Länge: 0 | Anwendende geben | Form „W | Länge: 4 mal 0 | Ziffern, Brüche oder |
 | führende Nullen dürfen nicht | Anwendende geben |  |  | Auswahl des |
-|  | Siehe Kapitel 6.2.11 |  |  | Anwendende wählen den |
+|  | Siehe Kapitel | 6.2.11 |  | Anwendende wählen den |
 | 4.6 | Dosiereinheit | vorgegebener | Länge: 0 | Anwendende wählen den |
 |  |  |  |  |  |
 |  |  |  |  |  |
@@ -1258,16 +987,16 @@ code Feld bedruckende Fläche Datamatrix und zulässige Werte Carriersegment, si
 |  |  |  |  |  |
 |  |  |  |  |  |
 | Text |  | Länge: je 0 |  | bis zu 3 Wirkstärken: |
-| 1 oder 2 Wirkstärken: mit | 3 Wirkstärken: mit 2 |  | Einzelne Wirkstärken | Freitext |
-| Länge: je 0 |  | bis zu 3 Wirkstärken | 1 oder 2 Wirkstärken: mit  3 Wirkstärken: mit 2  Anwendende geben Wert |  |
+| 1 oder 2 Wirkstärken: mit | 3 Wirkstärken: mit 2 | 6.2.8 | )  Einzelne Wirkstärken | Freitext |
+| Länge: je 0 |  | bis zu 3 Wirkstärken | 1 oder 2 Wirkstärken: mit  3 Wirkstärken: mit 2  6.2.8)  Anwendende geben Wert  0 | zu beachten. |
 |  |  | 4.4 | Darreichungs- Text | Länge: 0 |
 |  |  | Angabe entsprechend | Freitext  Länge: 0 Anwendende geben Wert  4.5  Dosierschema  Freitext  Länge: 0 | Anwendende geben  Form „W Länge: 4 mal 0 |
 |  | Ziffern, Brüche oder | führende Nullen dürfen nicht | Anwendende geben |  |
-|  | Auswahl des |  | Siehe Kapitel 6.2.11 |  |
+|  | Auswahl des |  | Siehe Kapitel | 6.2.11 |
 |  |  |  | Anwendende wählen den | 4.6 |
 | Dosiereinheit | vorgegebener | Länge: 0 | Anwendende wählen den |  |
-|  |  | Text | Länge: je 0   bis zu 3 Wirkstärken:  1 oder 2 Wirkstärken: mit  3 Wirkstärken: mit 2 | Einzelne Wirkstärken |
-|  |  | Freitext | Länge: je 0   bis zu 3 Wirkstärken  1 oder 2 Wirkstärken: mit  3 Wirkstärken: mit 2 | Anwendende geben Wert |
+|  |  | Text | Länge: je 0   bis zu 3 Wirkstärken:  1 oder 2 Wirkstärken: mit  3 Wirkstärken: mit 2  6.2.8) | Einzelne Wirkstärken |
+|  |  | Freitext | Länge: je 0   bis zu 3 Wirkstärken  1 oder 2 Wirkstärken: mit  3 Wirkstärken: mit 2  6.2.8) | Anwendende geben Wert  0 zu beachten. |
 | 4.4 | Darreichungs- | Text | Länge: 0 | Angabe entsprechend |
 |  |  | Freitext | Länge: 0 | Anwendende geben Wert |
 | 4.5 | Dosierschema | Freitext | Länge: 0 | Anwendende geben |
@@ -1275,35 +1004,35 @@ code Feld bedruckende Fläche Datamatrix und zulässige Werte Carriersegment, si
 |  |  | Auswahl des | Siehe Kapitel 6.2.11 | Anwendende wählen den |
 | 4.6 | Dosiereinheit | vorgegebener | Länge: 0 | Anwendende wählen den |
 |  |  | Text |  | Länge: je 0 |
-|  | bis zu 3 Wirkstärken: | 1 oder 2 Wirkstärken: mit | 3 Wirkstärken: mit 2 | Einzelne Wirkstärken    Freitext   Länge: je 0 |
-|  | bis zu 3 Wirkstärken | 1 oder 2 Wirkstärken: mit | 3 Wirkstärken: mit 2 | Anwendende geben Wert |
+|  | bis zu 3 Wirkstärken: | 1 oder 2 Wirkstärken: mit | 3 Wirkstärken: mit 2  6.2.8 | )  Einzelne Wirkstärken    Freitext   Länge: je 0 |
+|  | bis zu 3 Wirkstärken | 1 oder 2 Wirkstärken: mit | 3 Wirkstärken: mit 2  6.2.8 | )  Anwendende geben Wert  0 zu beachten. |
 | 4.4 | Darreichungs- | Text | Länge: 0 | Angabe entsprechend  Freitext  Länge: 0 |
 | Anwendende geben Wert | 4.5 | Dosierschema | Freitext | Länge: 0 |
 | Anwendende geben | Form „W | Länge: 4 mal 0 |  | Ziffern, Brüche oder |
 |  |  | führende Nullen dürfen nicht | Anwendende geben |  |
-|  | Auswahl des |  | Siehe Kapitel 6.2.11 | Anwendende wählen den |
+|  | Auswahl des |  | Siehe Kapitel | 6.2.11  Anwendende wählen den |
 | Text |  | Länge: je 0 |  | bis zu 3 Wirkstärken:  1 oder 2 Wirkstärken: mit  3 Wirkstärken: mit 2 |
-|  |  | Einzelne Wirkstärken |  | Freitext |
+| 6.2.8 | ) | Einzelne Wirkstärken |  | Freitext |
 | Länge: je 0 |  | bis zu 3 Wirkstärken | 1 oder 2 Wirkstärken: mit | 3 Wirkstärken: mit 2 |
-|  |  | Anwendende geben Wert |  |  |
+| 6.2.8 | ) | Anwendende geben Wert | 0 | zu beachten. |
 | 4.4 | Darreichungs- | Text | Länge: 0 | Angabe entsprechend |
 | Freitext | Länge: 0 | Anwendende geben Wert | 4.5 | Dosierschema |
 | Freitext | Länge: 0 | Anwendende geben | Form „W | Länge: 4 mal 0 |
 
-code Feld form  X Y Wochentages und Angabe der Form „W X Y Z“ und zulässige Werte 15 Zeichen pro Wirkstärkenangabe  Zeilenumbruch getrennt in einfacher Zeilenhöhe;  Zeilenumbrüchen getrennt in doppelter Zeilenhöhe (siehe Kap 6.2.8) 15 Zeichen pro Wirkstärkenangabe  Zeilenumbruch getrennt in einfacher Zeilenhöhe;  Zeilenumbrüchen getrennt in doppelter Zeilenhöhe (siehe Kap 6.2.8) 7 Zeichen 7 Zeichen 20 Zeichen  Z“ 4 Zeichen Dezimalzahlen (siehe A 2.6);  weggelassen werden. 20 Zeichen Datenquelle entsprechend der AM- Datenbank, siehe Anhang 1.  über Software ein. Dabei ist 0 zu beachten. AM-Datenbank , siehe Anhang 1. über Software ein. Werte über Software ein. Werte über Software ein. Wochentag aus, an dem die Dosierung wöchentlich erfolgen soll. vorgegebenen Text der Dosiereinheit über die Software aus. Ggf. kann die AM-Datenbank entsprechende Vorschläge enthalten. AM-Datenbank in Verbindung mit Schlüsselwort-/ Überleitungstabelle Anhang 4.
+code form  X Y Wochentages und Angabe der Form „W X Y Z“ und zulässige Werte 15 Zeichen pro Wirkstärkenangabe  Zeilenumbruch getrennt in einfacher Zeilenhöhe;  Zeilenumbrüchen getrennt in doppelter Zeilenhöhe (siehe 15 Zeichen pro Wirkstärkenangabe  Zeilenumbruch getrennt in einfacher Zeilenhöhe;  Zeilenumbrüchen getrennt in doppelter Zeilenhöhe (siehe 7 Zeichen 7 Zeichen 20 Zeichen  Z“ 4 Zeichen Dezimalzahlen (siehe A 2.6);  weggelassen werden. 20 Zeichen Datenquelle entsprechend der AM- Datenbank, siehe Anhang 1.  über Software ein. Dabei ist AM-Datenbank , siehe Anhang 1. über Software ein. Werte über Software ein. Werte über Software ein. Wochentag aus, an dem die Dosierung wöchentlich erfolgen soll. vorgegebenen Text der Dosiereinheit über die Software aus. Ggf. kann die AM-Datenbank entsprechende Vorschläge enthalten. AM-Datenbank in Verbindung mit Schlüsselwort-/ Überleitungstabelle Anhang 4.
 
 ---
 
-| **Feld-** | **Bezeichnung** | **Syntax** | **Feldlänge für den Ausdruck** | **Instanz kommt aus der ** Freitext |
+| Feld- | Bezeichnung | Syntax | Feldlänge für den Ausdruck | Instanz kommt aus der  Freitext |
 |---|---|---|---|---|
 | **Feld-** | **Bezeichnung** | **Syntax** | **Feldlänge für den Ausdruck** | **Instanz kommt aus der** |
 | **Feld-** | **Bezeichnung** | **Syntax** | **Feldlänge für den Ausdruck** | **Instanz kommt aus der** |
 | **Feld-** | **Bezeichnung** | **Syntax** | **Feldlänge für den Ausdruck** | **Instanz kommt aus der** |
 | **Feld-** | **Bezeichnung** | **Syntax** | **Feldlänge für den Ausdruck** | **Instanz kommt aus der** |
 | Länge: 0 | Anwendende geben den | 4.7 | Hinweise  Freitext | Länge: 0 |
-|  | Anwendende geben Wert | Druck maximal 2-zeilig | bzw. maximal 4-zeilig bei |  |
-|  | 4.8 | Behandlungs- | Freitext | Länge: 0 |
-|  | Anwendende geben Wert | Druck maximal 2-zeilig  4.9 | Gebundene  Freitext  Länge: 0 | Anwendende geben den |
+|  | Anwendende geben Wert | Druck maximal 2-zeilig | bzw. maximal 4-zeilig bei | 6.2.8 |
+| ). | 4.8 | Behandlungs- | Freitext | Länge: 0 |
+|  | Anwendende geben Wert | Druck maximal 2-zeilig  6.2.8).   4.9 | Gebundene  Freitext  Länge: 0 | Anwendende geben den |
 | Druck maximal 2-zeilig. | Der gesamte Text muss | 4.10 | zusätzliche  Angabe des | Länge: 0 |
 | Anwendende geben | 5.1 | Zwischenüber- | Freitext  Länge: 0 | Anwendende geben Wert |
 | Vorgegebener | Länge: 0 | Anhang 2.3. Die Auswahl | 5.2 | Freitextfeld |
@@ -1319,8 +1048,8 @@ code Feld form  X Y Wochentages und Angabe der Form „W X Y Z“ und zulässige
 |  |  |  |  |  |
 |  |  |  |  |  |
 | Freitext | Länge: 0 | Anwendende geben den | 4.7 | Hinweise |
-| Freitext | Länge: 0 |  | Anwendende geben Wert  Druck maximal 2-zeilig  bzw. maximal 4-zeilig bei |  |
-|  | 4.8 | Behandlungs- | Freitext  Länge: 0   Anwendende geben Wert  Druck maximal 2-zeilig |  |
+| Freitext | Länge: 0 |  | Anwendende geben Wert  Druck maximal 2-zeilig  bzw. maximal 4-zeilig bei | 6.2.8 |
+| ). | 4.8 | Behandlungs- | Freitext  Länge: 0   Anwendende geben Wert  Druck maximal 2-zeilig  6.2.8 | ). |
 |  |  | 4.9 | Gebundene  Freitext | Länge: 0 |
 |  |  | Anwendende geben den | Druck maximal 2-zeilig.  Der gesamte Text muss  4.10  zusätzliche  Angabe des  Länge: 0 Anwendende geben | 5.1  Zwischenüber- Freitext |
 | Länge: 0 | Anwendende geben Wert | Vorgegebener | Länge: 0 | Anhang 2.3. Die Auswahl |
@@ -1328,7 +1057,7 @@ code Feld form  X Y Wochentages und Angabe der Form „W X Y Z“ und zulässige
 |  |  | Druck maximal 2-zeilig. | Der gesamte Text muss |  |
 |  |  |  |  |  |
 |  |  | Freitext  Länge: 0 | Anwendende geben den  4.7  Hinweise  Freitext  Länge: 0   Anwendende geben Wert | Druck maximal 2-zeilig  bzw. maximal 4-zeilig bei |
-|  |  |  | 4.8  Behandlungs- Freitext  Länge: 0   Anwendende geben Wert | Druck maximal 2-zeilig |
+|  |  | 6.2.8 | ).  4.8  Behandlungs- Freitext  Länge: 0   Anwendende geben Wert | Druck maximal 2-zeilig  6.2.8). |
 | 4.9 | Gebundene | Freitext | Länge: 0 | Anwendende geben den |
 |  |  | Druck maximal 2-zeilig. | Der gesamte Text muss | 4.10 |
 | zusätzliche | Angabe des | Länge: 0 | Anwendende geben | 5.1 |
@@ -1336,26 +1065,26 @@ code Feld form  X Y Wochentages und Angabe der Form „W X Y Z“ und zulässige
 | Anhang 2.3. Die Auswahl | 5.2 | Freitextfeld | Freitext  Länge: 0  Anwendende geben den  Druck maximal 2-zeilig. | Der gesamte Text muss |
 |  |  |  |  |  |
 |  |  | Freitext | Länge: 0 | Anwendende geben den |
-| 4.7 | Hinweise | Freitext | Länge: 0 | Anwendende geben Wert  Druck maximal 2-zeilig  bzw. maximal 4-zeilig bei |
-| 4.8 | Behandlungs- | Freitext | Länge: 0 | Anwendende geben Wert  Druck maximal 2-zeilig |
+| 4.7 | Hinweise | Freitext | Länge: 0 | Anwendende geben Wert  Druck maximal 2-zeilig  bzw. maximal 4-zeilig bei  6.2.8). |
+| 4.8 | Behandlungs- | Freitext | Länge: 0 | Anwendende geben Wert  Druck maximal 2-zeilig  6.2.8). |
 | 4.9 | Gebundene | Freitext | Länge: 0 | Anwendende geben den  Druck maximal 2-zeilig.  Der gesamte Text muss |
 | 4.10 | zusätzliche | Angabe des | Länge: 0 | Anwendende geben |
 | 5.1 | Zwischenüber- | Freitext | Länge: 0 | Anwendende geben Wert |
 |  |  | Vorgegebener | Länge: 0 | Anhang 2.3. Die Auswahl |
 | 5.2 | Freitextfeld | Freitext | Länge: 0 | Anwendende geben den  Druck maximal 2-zeilig.  Der gesamte Text muss |
 | Freitext | Länge: 0 | Anwendende geben den | 4.7 | Hinweise  Freitext  Länge: 0 |
-|  | Anwendende geben Wert | Druck maximal 2-zeilig | bzw. maximal 4-zeilig bei |  |
-|  | 4.8 | Behandlungs- | Freitext | Länge: 0 |
-|  | Anwendende geben Wert | Druck maximal 2-zeilig |  |  |
+|  | Anwendende geben Wert | Druck maximal 2-zeilig | bzw. maximal 4-zeilig bei | 6.2.8 |
+| ). | 4.8 | Behandlungs- | Freitext | Länge: 0 |
+|  | Anwendende geben Wert | Druck maximal 2-zeilig | 6.2.8 | ). |
 | 4.9 | Gebundene | Freitext | Länge: 0 | Anwendende geben den |
 | Druck maximal 2-zeilig. | Der gesamte Text muss | 4.10 | zusätzliche | Angabe des |
 | Länge: 0 | Anwendende geben | 5.1 | Zwischenüber- | Freitext |
 
-code Feld grund Zusatzzeile Zeile bzgl. der wöchentlichen Dosierung schrift  Wochentages und Angabe der Form „W X Y Z“ und zulässige Werte 20 Zeichen 80 Zeichen 50 Zeichen 200 Zeichen 31 Zeichen 50 Zeichen 50 Zeichen  200 Zeichen Datenquelle Text ein. Der Freitext muss mindestens eine Länge von zwei Zeichen aufweisen.  über Software ein, wird ggf. durch die Software unterstützt (Textbausteine). doppelter Zeilenhöhe (siehe Kap 6.2.8). über Software ein. Kann ggf. durch die Software unterstützt werden. doppelter Zeilenhöhe (siehe Kap 6.2.8).  Text über die Software ein. gedruckt werden. Ggf. dürfen manuelle Zeilenumbrüche durch Leerzeichen ersetzt werden. Werte über Software ein.  über Software ein.  weiterer Textbausteine kann ggf. durch die Software unterstützt werden. Text über die Software ein. gedruckt werden. Ggf. dürfen manuelle Zeilenumbrüche durch Leerzeichen ersetzt werden.
+code grund Zusatzzeile Zeile bzgl. der wöchentlichen Dosierung schrift  Wochentages und Angabe der Form „W X Y Z“ und zulässige Werte 20 Zeichen 80 Zeichen 50 Zeichen 200 Zeichen 31 Zeichen 50 Zeichen 50 Zeichen  200 Zeichen Datenquelle Text ein. Der Freitext muss mindestens eine Länge von zwei Zeichen aufweisen.  über Software ein, wird ggf. durch die Software unterstützt (Textbausteine). doppelter Zeilenhöhe (siehe Kap über Software ein. Kann ggf. durch die Software unterstützt werden. doppelter Zeilenhöhe (siehe Kap Text über die Software ein. gedruckt werden. Ggf. dürfen manuelle Zeilenumbrüche durch Leerzeichen ersetzt werden. Werte über Software ein.  über Software ein.  weiterer Textbausteine kann ggf. durch die Software unterstützt werden. Text über die Software ein. gedruckt werden. Ggf. dürfen manuelle Zeilenumbrüche durch Leerzeichen ersetzt werden.
 
 ---
 
-| **Feld-** | **Bezeichnung** | **Syntax** | **Feldlänge für den Ausdruck** | **Instanz kommt aus der ** 5.3 |
+| Feld- | Bezeichnung | Syntax | Feldlänge für den Ausdruck | Instanz kommt aus der  5.3 |
 |---|---|---|---|---|
 | **Feld-** | **Bezeichnung** | **Syntax** | **Feldlänge für den Ausdruck** | **Instanz kommt aus der** |
 | **Feld-** | **Bezeichnung** | **Syntax** | **Feldlänge für den Ausdruck** | **Instanz kommt aus der** |
@@ -1412,21 +1141,15 @@ code Feld grund Zusatzzeile Zeile bzgl. der wöchentlichen Dosierung schrift  Wo
 | 6.7 | Freifeld | nicht zu | 1,0 cm x 5,0 cm | Muss frei bleiben! |
 | 6.9 | Disclaimer | vorgegebener | Länge: entsprechend | Anhang 2, Schlüsselwort |
 
-code Feld nummer des Medikations- plans zeichen zeichen bereich Zusammengehörigkeit von Wirkstoffname und Wirkstärkenangabe muss identisch sein mit der Reihenfolge der Wirkstärkenangaben in diesem Medikations- eintrag. Das bedeutet, dass jedem Wirkstoff genau eine nicht leere Wirkstärkenangabe an derselben Position zuge korrespondierenden Wirkstärkenangaben durch das MP-Modul gesteuert, so MUSS die Software sicherstellen, dass diese Zuordnung inhaltlich korrekt erfolgt. Allgemeinen analog Arzneimitteldatenbank umgesetzt wird. Sofern die Angaben der Referenzdatenbank nach § 31b SGB V verwendet werden, ergibt sich die Reihenfolge aus deren Vorgabe. dies sowohl für den Ausdruck als auch oder „x.y“ Buchstabenkürzel ISO 3166-1 Buchstabenkürzel ISO 639-1 bedruckende Fläche ordnet ist und umgekehrt. des zugehörigen und zulässige Werte 200 Zeichen 4 Zeichen 1,0 cm x11,0 cm  Schlüsselworttabelle Wird die Reihenfolge der Wirkstoffe und der ATC-Codes, für das Carriersegment zu. Datenquelle Text über die Software ein. gedruckt werden. Ggf. dürfen manuelle Zeilenumbrüche durch Leerzeichen ersetzt werden. hinterlegt automatisch gesetzt, Anhang 1 automatisch gesetzt, Anhang 1. wie dieses Feld zu füllen ist. 531  durch MUSS, trifft
+code nummer des Medikations- plans zeichen zeichen bereich Zusammengehörigkeit von Wirkstoffname und Wirkstärkenangabe muss identisch sein mit der Reihenfolge der Wirkstärkenangaben in diesem Medikations- eintrag. Das bedeutet, dass jedem Wirkstoff genau eine nicht leere Wirkstärkenangabe an derselben Position zuge korrespondierenden Wirkstärkenangaben durch das MP-Modul gesteuert, so MUSS die Software sicherstellen, dass diese Zuordnung inhaltlich korrekt erfolgt. Allgemeinen analog Arzneimitteldatenbank umgesetzt wird. Sofern die Angaben der Referenzdatenbank nach § 31b SGB V verwendet werden, ergibt sich die Reihenfolge aus deren Vorgabe. dies sowohl für den Ausdruck als auch oder „x.y“ Buchstabenkürzel Buchstabenkürzel bedruckende Fläche ordnet ist und umgekehrt. des zugehörigen und zulässige Werte 200 Zeichen 4 Zeichen ISO 3166-1 ISO 639-1 1,0 cm x11,0 cm  Schlüsselworttabelle Wird die Reihenfolge der Wirkstoffe und der ATC-Codes, für das Carriersegment zu. Datenquelle Text über die Software ein. gedruckt werden. Ggf. dürfen manuelle Zeilenumbrüche durch Leerzeichen ersetzt werden. hinterlegt automatisch gesetzt, Anhang 1 automatisch gesetzt, Anhang 1. wie dieses Feld zu füllen ist. 531  durch MUSS, trifft
 
 ---
 
-Die Wirkstoffe und somit die Wirkstärkeangaben werden im Ausdruck mit Zeilenumbruch
-
-getrennt. Enthält ein Kombinationspräparat genau drei Wirkstoffe, so werden diese in einer
-
-doppelt hohen Zeile mit zwei Umbrüchen dargestellt (siehe auch 6.2.8). Enthält ein
+Die Wirkstoffe und somit die Wirkstärkeangaben werden im Ausdruck mit Zeilenumbruch  getrennt. Enthält ein Kombinationspräparat genau drei Wirkstoffe, so werden diese in einer  doppelt hohen Zeile mit zwei Umbrüchen dargestellt (siehe auch 6.2.8). Enthält ein
 
 Kombinationspräparat mehr als drei Wirkstoffe, so wird dies durch „Kombipräparat
 
-(Schlüsselwort 310) in der Spalte des Wirkstoffes dargestellt, die Spalte der Wirkstoffstärke
-
-bleibt in diesem Fall leer.
+(Schlüsselwort 310) in der Spalte des Wirkstoffes dargestellt, die Spalte der Wirkstoffstärke  bleibt in diesem Fall leer.
 
 Für den Ausdruck mit genau zwei Wirkstoffen darf in den Spalten Wirkstoff und Stärke an
 
@@ -1438,18 +1161,11 @@ Untersuchungen haben gezeigt, dass in mehr als 90 % der Fälle die aus den
 
 Arzneimitteldatenbanken kommenden Handelsnamen und Wirkstoffbezeichnungen von der
 
-Länge her in das jeweils entsprechende Feld passen. Sollte es aber vorkommen, dass der
+Länge her in das jeweils entsprechende Feld passen. Sollte es aber vorkommen, dass der  auszudruckende Feldinhalt länger als die vorgegebene Feldlänge ist oder der zur Verfügung  stehende, bedruckbare Platz nicht ausreicht, kann das MP-Modul diesen Namen  entsprechend kürzen. Empfohlen wird, dass der Name um 3 Zeichen kürzer als die zulässige
 
-auszudruckende Feldinhalt länger als die vorgegebene Feldlänge ist oder der zur Verfügung
-
-stehende, bedruckbare Platz nicht ausreicht, kann das MP-Modul diesen Namen
-
-entsprechend kürzen. Empfohlen wird, dass der Name um 3 Zeichen kürzer als die zulässige
-
-Feldlänge zu kürzen ist. Die letzten drei Zeichen werden dann durch drei Punkte „…“ aufgefüllt (siehe Kap.6.2.7).
+Feldlänge zu kürzen ist. Die letzten drei Zeichen werden dann durch drei Punkte „…“ aufgefüllt (siehe Kap. 6.2.7
 
 Die Felder Dosierschema und Dosiereinheit DÜRFEN NICHT gekürzt werden.
-
 
 ---
 
@@ -1459,14 +1175,11 @@ Für den Druck der Inhalte sind die folgenden Vorgaben zu Form und Gestalt zu  b
 
 Abbildung 1: Maßstabsgetreu verkleinerte Abbildung der verschiedenen Zonen des Medikationsplans.  Das Raster hat einen Abstand von 2 cm.
 
-
 ---
 
 ## 6.1 Allgemeine Vorgaben
 
-Für den Ausdruck in Papierform ist handelsübliches weißes Papier, idealerweise 80 g/m2
-
-vorzusehen.
+Für den Ausdruck in Papierform ist handelsübliches weißes Papier, idealerweise 80 g/m2  vorzusehen.
 
 Das Papierformat ist DIN A4 quer
 
@@ -1476,29 +1189,19 @@ Die Rückseite gehört nicht zum Medikationsplan.
 
 Ringsherum ist ein Randabstand von mindestens 0,85 cm einzuhalten.
 
-**Schriftart:** Als Schrift ist Arial (ggf. artverwandt) zu verwenden. Die verwendete Schriftart
-
-muss einheitlich im gesamten Medikationsplan genutzt werden, sofern die Spezifikation keine
+**Schriftart:** Als Schrift ist Arial (ggf. artverwandt) zu verwenden. Die verwendete Schriftart  muss einheitlich im gesamten Medikationsplan genutzt werden, sofern die Spezifikation keine
 
 Ausnahmen definiert.
 
-**Toleranzen:** Geringfügige Abweichungen der Maße in der grafischen Gestaltung werden
-
-akzeptiert, sofern die folgenden Toleranzen eingehalten werden. Für die Spaltenbreite und
+**Toleranzen:** Geringfügige Abweichungen der Maße in der grafischen Gestaltung werden  akzeptiert, sofern die folgenden Toleranzen eingehalten werden. Für die Spaltenbreite und
 
 -höhe der Medikationstabelle wird eine Abweichungstoleranz von +/-1 mm festgelegt. Für die
 
 Gesamtbreite und die maximale Gesamthöhe der Medikationstabelle sowie die Maße des
 
-Administrationsblocks gilt ebenfalls eine Abweichungstoleranz von +/-1 mm. Diese Toleranz-
+Administrationsblocks gilt ebenfalls eine Abweichungstoleranz von +/-1 mm. Diese Toleranz- maße gelten nicht für die Ruhezone und den Datamatrix-Code.
 
-maße gelten nicht für die Ruhezone und den Datamatrix-Code.
-
-**Abstand Spaltentrennstrich:** Mit dem Ziel, ein Verschmelzen von vertikalem Spalten-
-
-trennstrich und angrenzendem Text zu verhindern, soll ein Abstand links- und rechtsseitig von
-
-jedem Spaltentrennstrich von 1,00 1,25 mm eingehalten werden.
+**Abstand Spaltentrennstrich:** Mit dem Ziel, ein Verschmelzen von vertikalem Spalten- trennstrich und angrenzendem Text zu verhindern, soll ein Abstand links- und rechtsseitig von  jedem Spaltentrennstrich von 1,00 1,25 mm eingehalten werden.
 
 
 ---
@@ -1507,24 +1210,18 @@ Abbildung 2: Beispielausdruck, verkleinert (!).
 
 ## 6.2 Bereiche
 
-Der Ausdruck des Medikationsplans ist in die folgenden Abschnitte unterteilt: - Identifikationsblock,
+Der Ausdruck des Medikationsplans ist in die folgenden Abschnitte unterteilt:
 
+- Identifikationsblock,
 - Administrationsblock,
-
 - Carrierbereich,
-
 - Medikationstabelle,
 
-*Anmerkung: Die Medikationstabelle kann optional einen Hinweisblock, bestehend aus*
-
-*einer Zwischenüberschrift und einer oder mehreren Freitextzeilen, umfassen, der im*
-
-*unteren Bereich der Tabelle angeordnet ist*
+*Anmerkung: Die Medikationstabelle kann o ptional einen Hinweisblock, bestehend aus*  *einer Zwischenüberschrift und einer oder mehreren Freitextzeilen, umfassen, der im*  *unteren Bereich der Tabelle angeordnet ist*
 
 - Fußbereich,
 
 die es pro ausgedruckter Seite jeweils nur einmal gibt.
-
 
 ---
 
@@ -1534,128 +1231,73 @@ Der Identifikationsblock hat eine Höhe von 4,0 cm und eine Breite von 7,0 cm. D
 
 Identifikationsblock ist linksbündig angeordnet und enthält die folgenden Bestandteile:
 
-- Der Identifikationsname (1.1, Langname) ist in Schriftgröße 20 pt fett ohne Trennung - obenliegend anzubringen.
-
+- Der Identifikationsname (1.1, Langname) ist in Schriftgröße 20 pt fett ohne Trennung
+- obenliegend anzubringen.
 - Das Zertifizierungslogo (1.4, minimal: 2,0 cm x 4,0 cm; maximal: 3,0 cm x 6,0 cm ; derzeit
-
 - nicht vergeben!) links unten, oder der Zertifizierungstext, ansonsten leer.
-
 - Die Seitenbezeichnung (Code 121), „X“, die Seitenrelation (Code 131) und „Y“ sind in der
-
 - Schriftgröße 14 pt anzubringen, wobei X die Seitenzahl (1.2) und Y die Gesamtseitenzahl
-
 - (1.3) sind. Der Text liegt unterhalb des Identifikationsnamens.
-
 - Der Hintergrund ist leer.
-
 - Der Block wird mit schwarzem Strich um den Block herum gerahmt.
 
 ### 6.2.2 Administrationsblock
 
-Der Administrationsblock schließt sich rechts an den Identifikationsblock an, hat eine Höhe
-
-von 4,0 cm und eine Breite von (29, 7-2x0,85-7,0-4,0-0,3 =) 16,7 cm. Er umfasst sieben Zeilen.
+Der Administrationsblock schließt sich rechts an den Identifikationsblock an, hat eine Höhe  von 4,0 cm und eine Breite von (29, 7-2x0,85-7,0-4,0-0,3 =) 16,7 cm. Er umfasst sieben Zeilen.
 
 Die Software MUSS in jeder Zeile alle Texte auf einer Linie darstellen. Enthalten sind:
 
 - Der Text der Patientenzuordnung (Code: 211) wird gefolgt von Titel (2.22), Vornamen (2.1),
-
 - Namenszusatz (2.24), Vorsatzwort (2.23) und dem Nachnamen (2.2) des Patienten. Die
-
 - Trennung der Bestandteile, soweit jeweils vorhanden, erfolgt durch ein Leerzeichen.
-
 - o Der gesamte Text ist in der ersten Zeile in der Schriftgröße 14 pt, linksbündig oben
-
 - anzuordnen. Ausschließlich Vorname (2.1) und Nachname (2.2) sind fett zu
-
 - formatieren. Sind die Bestandteile zusammen länger als 37 Zeichen, muss in die zweite
-
 - Zeile umgebrochen werden. Überschreiten alle Bestandteile mehr als 37+37=74
-
 - Zeichen, so erfolgt eine Kürzung nach folgenden Regeln:
-
 -  Namenszusatz (2.24) entfällt
-
--  Vorsatzwort (2.23) entfällt -  Titel (2.22) entfällt
-
+-  Vorsatzwort (2.23) entfällt
+-  Titel (2.22) entfällt
 -  Entfernung der letzten Buchstaben aus der Zeichenkette, anfügen der „…“
+- (analog Kapitel 5.1.6
 
-- (analog Kapitel 5.1.6)
-
-Eine eventuelle 2. Zeile wird so eingerückt, dass diese mit dem Titel bzw. Vornamen
-
-der ersten Zeile auf gleicher Breite beginnt.
+Eine eventuelle 2. Zeile wird so eingerückt, dass diese mit dem Titel bzw. Vornamen  der ersten Zeile auf gleicher Breite beginnt.
 
 
 ---
 
 - Der Text der Geburtsdatumszuordnung (Code 221) wird gefolgt vom Geburtsdatum
-
 - des/der Patient*in (2.4, fett). Der gesamte Text ist in der ersten Zeile in der Schriftgröße
-
 - 14 pt rechtsbündig oben anzuordnen.
-
 - Der Text der Zuordnung Ausdruck (Code 231) wird linksbündig in der dritten Zeile gefolgt
-
 - von dem Namen des/der Ausdruckenden des Medikationsplans (2.5; ggf. Titel, Vorname,
-
 - Nachname oder Bezeichnung der Institution) in der vierten Zeile. Sollte der Platz nicht in
-
 - der vierten Zeile ausreichen, so soll der Name des /der Ausdruckenden, beginnend in der
-
 - dritten Zeile, aufgebracht und in der vierten Zeile fortgesetzt werden, wobei der
-
-- Zeilenumbruch an Stellen eines Leerzeichens (dieses ersetzend) oder den Regeln der - Wordwrap folgen SOLL.
-
+- Zeilenumbruch an Stellen eines Leerzeichens (dieses ersetzend) oder den Regeln der
+- Wordwrap folgen SOLL.
 - o In der darunterliegenden fünften Zeile sind linksbündig nacheinander Straße (2.6)
-
 - PLZ (2.7) und Ort (2.8) aufgebracht. Die PLZ bzw. der Ort, wenn keine PLZ
-
 - vorhanden ist, wird von der Straße durch ein Komma und ein Leerzeichen getrennt.
-
 - PLZ und Ort werden, wenn beide vorhanden, mit einem Leerzeichen getrennt.
-
 - o In der sechsten Zeile werden Telefonzuordnung (Code 232) gefolgt von der
-
 - Telefonnummer (2.9) aufgebracht.
-
 - o In der siebten Zeile ist die Mail-Zuordnung (Code 233) gefolgt von der E-Mail-
-
 - Adresse (2.10) aufgebracht.
-
 - Alle Textfelder zum/zur Ausdruckenden des Medikationsplans inkl. der Adressdaten sind
-
 - in der Schriftgröße 12 pt linksbündig anzuordnen.
-
 - Die vier Parametertexte 1-4 (2.12) sind in der Schriftgröße 12 pt rechtsbündig in den Zeilen
-
 - drei, vier, fünf und sechs zu platzieren.
 
 Die Auswahl der Parameter für die Übernahme auf den Medikationsplan erfolgt bei
 
-Erstellung bzw. Aktualisierung eines Medikationsplans durch die Anwendenden. Eine
+Erstellung bzw. Aktualisierung eines Medikationsplans durch die Anwendenden. Eine  automatisierte Übernahme von Parametern aus den im Primärsystem gespeicherten
 
-automatisierte Übernahme von Parametern aus den im Primärsystem gespeicherten
+Daten auf den Medikationsplan darf weder bei Erstellung noch bei Aktualisierung des Plans  erfolgen. Alle Parameter (inkl. ggf. Wert und Einheit) sind im Ausdruck getrennt durch ein
 
-Daten auf den Medikationsplan darf weder bei Erstellung noch bei Aktualisierung des Plans
+Semikolon oder einen Zeilenumbruch aufzuzählen. Zur besseren Lesbarkeit ist zusätzlich  ein Leerzeichen nach dem Semikolon zulässig. Für die Bezeichnung der Parameter sind  die in Tabelle 5 gelisteten Schlüsselworte zu verwenden. Der Inhalt eines Parameters darf  nicht durch einen Umbruch getrennt werden. Eine Ausnahme bildet der Parameter
 
-erfolgen. Alle Parameter (inkl. ggf. Wert und Einheit) sind im Ausdruck getrennt durch ein
-
-Semikolon oder einen Zeilenumbruch aufzuzählen. Zur besseren Lesbarkeit ist zusätzlich
-
-ein Leerzeichen nach dem Semikolon zulässig. Für die Bezeichnung der Parameter sind
-
-die in Tabelle 5 gelisteten Schlüsselworte zu verwenden. Der Inhalt eines Parameters darf
-
-nicht durch einen Umbruch getrennt werden. Eine Ausnahme bildet der Parameter
-
-Allerg./Unv.:“, dessen einzelne Wörter durch ein Komma zu trennen bzw. umgebrochen
-
-werden können. Ergeben alle Parameter zusammen mehr als drei Zeilen á 25 Zeichen, so
-
-werden am Ende der 4. Zeile drei Punkte „…“ gesetzt (Kap. 5.1.6). Die Anwendenden sind
-
-durch die Software auf die Kürzung des Textes hinzuweisen.
+Allerg./Unv.:“, dessen einzelne Wörter durch ein Komma zu trennen bzw. umgebrochen  werden können. Ergeben alle Parameter zusammen mehr als drei Zeilen á 25 Zeichen, so  werden am Ende der 4. Zeile drei Punkte „…“ gesetzt (Kap. 5.1.6). Die Anwendenden sind  durch die Software auf die Kürzung des Textes hinzuweisen.
 
 
 ---
@@ -1663,61 +1305,36 @@ durch die Software auf die Kürzung des Textes hinzuweisen.
 Die Parameter werden (wenn vorhanden) in folgender Reihenfolge aufgelistet:
 
 - 1. Allergie(n) + Unverträglichkeit(en) (Länge der Inhalte: max. 50 Zeichen)
-
-- Im Druck: Schlüsselwort 264 = „Allerg /Unv.:“ (Bsp.: „Allerg /Unv.: Penicillin“) - 2. Schwanger
-
+- Im Druck: Schlüsselwort 264 = „Allerg /Unv.:“ (Bsp.: „Allerg /Unv.: Penicillin“)
+- 2. Schwanger
 - Im Druck, falls zutreffend: Schlüsselwort 266 = „schwanger“
-
 - 3. Stillend
-
 - Im Druck, falls zutreffend: Schlüsselwort 267 = „stillend“
-
 - 4. Gewicht (zur besseren Lesbarkeit ist der Wert von der Einheit durch ein
-
 - Leerzeichen getrennt) (Länge der Inhalte: max. 5 Zeichen)
-
 - Im Druck: Schlüsselwort 261 = „Gew.: {} kg“ (Bsp.: „Gew.: 65,3 kg“)
-
 - 5. Größe (zur besseren Lesbarkeit ist der Wert von der Einheit durch ein
-
 - Leerzeichen getrennt) (Länge der Inhalte: max. 3 Zeichen)
-
 - Im Druck: Schlüsselwort 268 = „Größe: {} cm“
-
 - 6. Kreatinin (zur besseren Lesbarkeit ist der Wert von der Einheit durch ein
-
 - Leerzeichen getrennt) (Länge der Inhalte: max. 5 Zeichen)
-
-- Im Druck: Schlüsselwort 262 = Krea.: {} mg/dl“ (Bsp.: „Krea.: 0,72 mg/dl“) - 7. Geschlecht
-
+- Im Druck: Schlüsselwort 262 = Krea.: {} mg/dl“ (Bsp.: „Krea.: 0,72 mg/dl“)
+- 7. Geschlecht
 - Im Druck: Schlüsselwort 263 = „Geschl.:“
-
 - „Geschl.: m“ oder
-
 - „Geschl.: w“ oder
-
 - „Geschl.: divers“ oder
-
 - „Geschl.: unbestimmt“
-
 - 8. Zusätzlicher Freitext
-
 - Der Text der Ausdrucksdatumszuordnung (Code 241) wird gefolgt von einem Leerzeichen
-
 - und Datum und Uhrzeit des Ausdruckes (2.11). Die Sekunden der Uhrzeit werden nicht
-
-- ausgedruckt. Der gesamte Text ist in der Schriftgröße 12 pt rechtsbündig in der siebten - Zeile anzuordnen.
-
+- ausgedruckt. Der gesamte Text ist in der Schriftgröße 12 pt rechtsbündig in der siebten
+- Zeile anzuordnen.
 - Ein leerer Hintergrund ist vorzusehen.
-
 - Um den Block ist ein Rahmen mit schwarzem Strich zu drucken. Dabei ist rechts ein
-
 - Abstand von mindestens 0,3 cm (!) zum 2D-Barcode einzuhalten (Ruhezone).
-
 - Links und rechts angeordnete Texte in einer Zeile sind so in der Länge zu begrenzen, dass
-
 - ein deutlich durchgehender Trennungsbereich von ca. 1 cm Breite verbleibt. Dies ist
-
 - wichtig zur Wahrnehmung der Information.
 
 
@@ -1725,9 +1342,7 @@ Die Parameter werden (wenn vorhanden) in folgender Reihenfolge aufgelistet:
 
 ### 6.2.3 Der Carrierbereich
 
-Auf dem Medikationsplan ist ein Carrierbereich vorgesehen, um einen rechteckigen 2D-
-
-Barcode (3.2) aufzunehmen. Folgende Kennwerte sind dabei zu beachten:
+Auf dem Medikationsplan ist ein Carrierbereich vorgesehen, um einen rechteckigen 2D- Barcode (3.2) aufzunehmen. Folgende Kennwerte sind dabei zu beachten:
 
 **Empfohlene Matrixgröße:**
 
@@ -1746,14 +1361,10 @@ Anhang 5: Referenzen.
 Der Carrierbereich (3.2) ist 4,0 cm hoch und 4,
 
 - Der 2D-Barcode liegt in dem gegebenen Bereich flächenfüllend rechtsbündig.
-
 - Ein leerer Hintergrund ist vorzusehen.
-
 - Es ist kein Rahmen vorgesehen.
 
-Der Carrierbereich (2D-Barcode) ist von der in ISO16022 vorgeschriebenen Ruhezone (3.1)
-
-umgeben, mindestens 0,3 cm.
+Der Carrierbereich (2D-Barcode) ist von der in ISO16022 vorgeschriebenen Ruhezone (3.1)  umgeben, mindestens 0,3 cm.
 
 automatisch zu generieren
 
@@ -1767,14 +1378,21 @@ mindestens von Grad 1,5 gemäß ISO/IEC 15415
 
 Hinweise finden sich z. B: 0 cm breit und enthält:
 
+```
 -
+```
 
-in der Spezifikation PPN-Code, siehe -
+in der Spezifikation PPN-Code, siehe
 
+```
+-
+```
 
 ---
 
-Aus dem Beispielausdruck (Abbildung 2, Seite 28) resultiert der nachfolgende Dateninhalt des 2D-Barcodes:
+Aus dem Beispielausdruck Abbildung 2 2D-Barcodes:
+
+, Seite 28) resultiert der nachfolgende Dateninhalt des
 
 <MP v="027" U="F5FDC0E5E10E44EFBAC1D4A2B540A957" l="de-DE">
 
@@ -1784,13 +1402,13 @@ Aus dem Beispielausdruck (Abbildung 2, Seite 28) resultiert der nachfolgende Dat
 
 lanr="123456667" n="Dr. Manfred Überall" s="Hauptstraße 55" z="01234" c="Am Ort" p="04562- 12345" e="[m.ue@praxis-ueberall.de](mailto:m.ue@praxis-ueberall.de)" t="2023-04-01T12:00:00"/>
 
-<O ai="Penicillin" w="85.0"/>
+O ai Penicillin w 85.0"/>
 
-<S>
+S
 
 <M f="TAB" m="1" du="1" i="während der Mahlzeit" r="Bluthochdruck">
 
-<W w="Ramipril" s="5 mg"/>
+W w Ramipril" s 5 mg"/>
 
 </M>
 
@@ -1800,7 +1418,7 @@ lanr="123456667" n="Dr. Manfred Überall" s="Hauptstraße 55" z="01234" c="Am Or
 
 <M p="232207" v="1" du="1" i="nach der Mahlzeit" r="erhöhte Blutfette"/>
 
-<M p="544786" m="20" v="10" dud="IE" i="subkutan" r="Diabetes"/>
+M p 544786 m 20 v 10 dud IE i subkutan r Diabetes"/>
 
 </S>
 
@@ -1816,9 +1434,7 @@ lanr="123456667" n="Dr. Manfred Überall" s="Hauptstraße 55" z="01234" c="Am Or
 
 <S c="424">
 
-<M p="7273534" m="1" d="1" v="1" du="1" i="alle 8 Stunden einnehmen"
-
-r="Nebenhöhlenentzündung" x="Sofort mit Einnahme beginnen, für 10 Tage (bis 10.03.2023)"/>
+<M p="7273534" m="1" d="1" v="1" du="1" i="alle 8 Stunden einnehmen"  r="Nebenhöhlenentzündung" x="Sofort mit Einnahme beginnen, für 10 Tage (bis 10.03.2023)"/>
 
 </S>
 
@@ -1834,26 +1450,19 @@ Abbildung 3: Inhalt des 2D-Barcodes (zur besseren Lesbarkeit mit Umbrüchen und 
 
 Im Anhang 8 (XML-Schema, normativ) sind das XML-Schema und weitere Test-MP aufgeführt.
 
-
 ---
 
 ### 6.2.4 Medikationstabelle
 
 #### Allgemein
 
-Die Medikationstabelle gliedert sich vertikal in Spalten (siehe 5.1.2) bzw. horizontal in
+Die Medikationstabelle gliedert sich vertikal in Spalten (siehe 5.1.2) bzw. horizontal in  sogenannte „Medikationstabellenzeilen“. Pro Seite ist in der Medikationstabelle Platz für eine
 
-sogenannte „Medikationstabellenzeilen“. Pro Seite ist in der Medikationstabelle Platz für eine
-
-Tabellenüberschrift-Zeile und bis zu 15 Medikationstabellenzeilen. Eine Medikations-
-
-tabellenzeile kann von der Gestalt her ein Medikationseintrag, ein Rezeptureintrag, eine
+Tabellenüberschrift-Zeile und bis zu 15 Medikationstabellenzeilen. Eine Medikations- tabellenzeile kann von der Gestalt her ein Medikationseintrag, ein Rezeptureintrag, eine
 
 Zwischenüberschrift oder eine Freitextzeile sein.
 
-In der Regel wird eine Schriftgröße von 12 pt verwendet. In definierten Fällen kann davon
-
-abgewichen werden.
+In der Regel wird eine Schriftgröße von 12 pt verwendet. In definierten Fällen kann davon  abgewichen werden.
 
 Die Software SOLL für den gesamten Plan eine einheitliche Schriftart verwenden.
 
@@ -1865,15 +1474,9 @@ Die Höhe des Bereiches der Medikationstabelle beträgt (21,0-2 x 0,85-4,0-0,3-1
 
 Die Breite erstreckt sich über die gesamte Seite (29,7-2 x 0,85) = 28,0 cm. Da jede
 
-Medikationstabellenzeile **0,875 cm Höhe** misst, können hier eine Tabellenüberschrift-Zeile
+Medikationstabellenzeile **0,875 cm Höhe** misst, können hier eine Tabellenüberschrift-Zeile  und maximal **15 Medikationstabellenzeilen** gelistet sein: (1+15) x 0,875 cm = 14,0 cm.
 
-und maximal **15 Medikationstabellenzeilen** gelistet sein: (1+15) x 0,875 cm = 14,0 cm.
-
-Werden ein oder mehrere Zwischenüberschriften oder Freitextzeilen verwendet, so reduziert
-
-sich dementsprechend die Anzahl der möglichen Medikations- bzw. Rezeptureinträge um
-
-diese Anzahl.
+Werden ein oder mehrere Zwischenüberschriften oder Freitextzeilen verwendet, so reduziert  sich dementsprechend die Anzahl der möglichen Medikations- bzw. Rezeptureinträge um  diese Anzahl.
 
 Die Reihenfolge der jeweiligen Einträge in den Medikationstabellenzeilen ist den
 
@@ -1882,259 +1485,158 @@ Anwendenden des Systems überlassen.
 #### Tabellenüberschrift-Zeile
 
 - Die Tabellenüberschrift-Zeile hat eine Höhe von 0,875 cm und erstreckt sich über die
-
 - gesamte Breite. Die Tabellenüberschrift-Zeile gibt es genau einmal. Sie liegt mit einem
-
 - Abstand von 0,3 cm unterhalb der Blöcke Identifikation, Administration und Carrier und
-
 - direkt oberhalb aller Medikationstabellenzeilen.
-
-- Diese Zeile enthält die Spaltenüberschriften: - o
-
--
-
-- Der Text der Tabellenüberschrift, 1. Spalte ( Anhang 2, Code 31 1) wird im ersten
-
+- Diese Zeile enthält die Spaltenüberschriften:
+- o Der Text der Tabellenüberschrift, 1. Spalte ( Anhang 2, Code 31 1) wird im ersten
 - Feld mit der Breite 4,0 cm aufgebracht.
-
 - o Der Text der Tabellenüberschrift, 2. Spalte (Anhang 2, Code 322) wird im zweiten
-
 - Feld mit der Breite 4,4 cm aufgebracht.
 
 
 ---
 
 - o Der Text der Tabellenüberschrift, 3. Spalte ( Anhang 2, Code 33 1) wird im dritten
-
 - Feld mit der Breite 1,8 cm aufgebracht.
-
 - o Der Text der Tabellenüberschrift, 4. Spalte ( Anhang 2, Code 341) wird im vierten
-
 - Feld mit der Breite 1,8 cm aufgebracht.
-
 - o Die Texte der Tabellenüberschrift, 5. Spalte (Anhang 2, Code 351) werden im
-
 - fünften Feld mit der Breite 3,2 cm aufgebracht. Dabei sind die unter 6.2.5
-
 - gemachten Vorgaben zu berücksichtigen.
-
 - o Der Text der Tabellenüberschrift, 6. Spalte (Anhang 2, Code 361) wird im sechsten
-
 - Feld mit der Breite 2,0 cm aufgebracht.
-
 - o Der Text der Tabellenüberschrift, 7. Spalte ( Anhang 2, Code 371) wird im siebten
-
 - Feld mit der Breite 6,4 cm aufgebracht.
-
 - o Der Text der Tabellenüberschrift, 8. Spalte ( Anhang 2, Code 381) wird im achten
-
 - Feld mit der Breite 4,4 cm aufgebracht.
-
-- Die Flächen dieser Felder dürfen leicht grau hinterlegt werden. Sie müssen immer gerahmt - sein.
-
+- Die Flächen dieser Felder dürfen leicht grau hinterlegt werden. Sie müssen immer gerahmt
+- sein.
 - Alle Texte der Tabellenüberschrift mit Ausnahme der 5. Spalte sind in der Schrifthöhe 14 pt
-
-- auszuführen und werden linksbündig mit einem Abstand von mindestens 1 mm zum - Spaltenrand aufgebracht.
+- auszuführen und werden linksbündig mit einem Abstand von mindestens 1 mm zum
+- Spaltenrand aufgebracht.
 
 #### Medikationstabellenzeile
 
-- Jede Medikationstabellenzeile hat eine Höhe von 0,875 cm und erstreckt sich über die - gesamte Breite.
-
+- Jede Medikationstabellenzeile hat eine Höhe von 0,875 cm und erstreckt sich über die
+- gesamte Breite.
 - Ein **Medikationseintrag** ist wie folgt strukturiert:
-
 - o In der ersten Spalte ist der zugehörige Spaltenwert (4.1) ggf. mehrzeilig
-
-- (Sonderform: doppelt hoher Medikationseintrag, siehe 6.2.8) aufzubringen.
-
+- (Sonderform: doppelt hoher Medikationseintrag, siehe 6.2.8 aufzubringen.
 - Linksbündig, Schriftgröße 12 pt, ggf. 10 pt. Bei mehrzeiligen Einträgen ist die
-
-- Schriftgröße 10 pt zu verwenden. Es sind für Kombinationspräparate die Regeln - nach 0 zu beachten.
-
+- Schriftgröße 10 pt zu verwenden. Es sind für Kombination spräparate die Regeln
+- nach 0 zu beachten.
 - o In der zweiten Spalte ist der zugehörige Spaltenwert (4.2) ggf. mehrzeilig
-
-- (Sonderform: doppelt hoher Medikationseintrag, siehe 6.2.8) aufzubringen.
-
+- (Sonderform: doppelt hoher Medikationseintrag, siehe 6.2.8 aufzubringen.
 - Linksbündig, Schriftgröße 12 pt, ggf. 10 pt. Bei mehrzeiligen Einträgen ist die
-
 - Schriftgröße 10 pt zu verwenden.
-
 
 ---
 
 - o In der dritten Spalte ist der zugehörige Spaltenwert (4.3) ggf. mehrzeilig
-
-- (Sonderform: doppelt hoher Medikationseintrag, siehe 6.2.8) aufzubringen.
-
+- (Sonderform: doppelt hoher Medikationseintrag, siehe 6.2.8 aufzubringen.
 - Rechtsbündig, Schriftgröße 12 pt, ggf. 10 pt. Bei mehrzeiligen Einträgen ist die
-
 - Schriftgröße 10 pt zu verwenden.
-
 - o In der vierten Spalte ist der zugehörige Spaltenwert (4.4) einzeilig aufzubringen.
-
 - Linksbündig, Schriftgröße 12 pt.
-
-- o In der fünften Spalte wird das Dosierschema (4.5) angegeben. Folgende Formen - sind zulässig:
-
+- o In der fünften Spalte wird das Dosierschema (4.5) angegeben. Folgende Formen
+- sind zulässig:
 -  4 Tageszeiten in der Form „W-X-Y-Z“ Die vier Werte werden optisch jeweils
-
 - durch einen Spaltentrennstrich voneinander getrennt. Die
-
 - Spaltentrennstriche sind in gleichmäßigem Abstand anzuordnen. Die
-
 - Ausgabe der Feldwerte erfolgt zwischen den Spaltentrennstrichen zentriert,
-
 - Schriftgröße 12 pt, ggf. 10 pt. Die Software MUSS in der Spalte Dosierung
-
 - eine einheitliche Schriftgröße verwenden. Die Software DARF in der Spalte
-
 - Dosierung bei der Angabe von vier getrennten Werten KEINEN
-
 - Zeilenumbruch pro Wert verwenden. Ggf. kann eine Schriftart „Narrow“
-
 - verwendet werden.
-
--  4 Tageszeiten in der Form „W-X-Y-Z“ inkl. der Festlegung eines - Wochentages:
-
+-  4 Tageszeiten in der Form „W-X-Y-Z“ inkl. der Festlegung eines
+- Wochentages:
 - Im Fall der Angabe einer wöchentlichen Dosierung entfällt die Unterteilung
-
 - durch Spaltentrennstriche und es wird immer der Wert „siehe nächste Zeile“
-
 - eingetragen.
-
 - Die Angabe des Wertes erfolgt zentriert mit einer Schriftgröße 10 pt.
-
 - Die Angabe des Wochentages sowie der Dosierung mit 4 Tageszeiten in
-
-- der Form „W-X-Y-Z“ erfolgt in der zusätzlichen Zeile bzgl. der wöchentlichen - Dosierung.
-
+- der Form „W-X-Y-Z“ erfolgt in der zusätzlichen Zeile bzgl. der wöchentlichen
+- Dosierung.
 -  Freitext: Das Dosierschema kann auch als Freitext angegeben werden. Im
-
 - Freitext entfällt die Unterteilung durch Spaltentrennstriche. Der zugehörige
-
 - Spaltenwert ist ggf. mehrzeilig (Sonderform: doppelt hoher
-
 - Medikationseintrag, siehe 6.2.8) aufzubringen. Linksbündig, Schriftgröße
-
 - 12 pt, ggf. 10 pt. Bei mehrzeiligen Einträgen ist die Schriftgröße 10 pt zu
-
 - verwenden. In dem Fall, dass weder Tageswerte noch ein Freitext
-
 - angegeben sind, so entfällt die Unterteilung und das Feld bleibt leer.
 
 
 ---
 
 - o In der sechsten Spalte ist der zugehörige Spaltenwert (4.6) ein- oder zweizeilig
-
 - aufzubringen. Linksbündig, Schriftgröße 12 pt, ggf. 10 pt. Bei mehrzeiligen
-
 - Einträgen ist die Schriftgröße 10 pt zu verwenden.
-
 - o In der siebten Spalte ist der zugehörige Spaltenwert (4.7) ggf. mehrzeilig
-
-- (Sonderform: doppelt hoher Medikationseintrag, siehe 6.2.8) aufzubringen.
-
+- (Sonderform: doppelt hoher Medikationseintrag, siehe 6.2.8 aufzubringen.
 - Linksbündig, Schriftgröße 12 pt, ggf. 10 pt. Bei mehrzeiligen Einträgen ist die
-
 - Schriftgröße 10 pt zu verwenden.
-
 - o In der achten Spalte ist der zugehörige Spaltenwert (4.8) ggf. mehrzeilig
-
-- (Sonderform: doppelt hoher Medikationseintrag, siehe 6.2.8) aufzubringen.
-
+- (Sonderform: doppelt hoher Medikationseintrag, siehe 6.2.8 aufzubringen.
 - Linksbündig, Schriftgröße 12 pt, ggf. 10 pt. Bei mehrzeiligen Einträgen ist die
-
 - Schriftgröße 10 pt zu verwenden.
 
 Die Spalten haben die gleiche Breite wie bei der Tabellenüberschrift festgelegt.
 
 Leere Felder bleiben leer. Dies bedeutet, dass Felder, die beim Einlesen eines
 
-Medikationsplans aufgrund der im Carriersegment enthaltenen Informationen leer sind,
-
-nicht automatisch (d. h. ohne Anwenderinteraktion) durch das MP -Modul mit Inhalten
-
-befüllt werden dürfen.
+Medikationsplans aufgrund der im Carriersegment enthaltenen Informationen leer sind,  nicht automatisch (d. h. ohne Anwenderinteraktion) durch das MP -Modul mit Inhalten  befüllt werden dürfen.
 
 Jeder Medikationseintrag ist gerahmt mit vertikalen Trennstrichen zwischen den
 
 Spalten auszustatten.
 
 - Optional kann zu jedem Medikationseintrag in der darunter gelegenen Medikations-
-
 - tabellenzeile eine **gebundene Zusatzzeile** angelegt werden oder eine **zusätzliche Zeile**
-
 - **bzgl. der wöchentlichen Dosierung** existieren. Diese haben eine Höhe von 0,875 cm
-
-- und erstrecken sich über die gesamte Breite , wobei sie um 0,7 cm vom linken Rand der
-
+- und erstrecken sich über die gesamte Breite , wobei sie um 0,7 cm vo m linken Rand der
 - Medikationstabelle eingerückt sind. Die gebundene Zusatzzeile bzw. die zusätzliche Zeile
-
 - bzgl. der wöchentlichen Dosierung sind zu rahmen, wobei der Rahmen um 0,7 cm vom
-
 - linken Rand der Medikationstabelle eingerückt ist. Der Inhalt des Feldes ist ein- oder
-
 - zweizeilig aufzubringen. Linksbündig, Schriftgröße 12 pt, ggf. 10 pt. Bei mehrzeiligen
-
 - Einträgen ist die Schriftgröße 10 pt zu verwenden. Es ist ein leerer Hintergrund zu
-
 - verwenden. Eine gebundene Zusatzzeile bzw. eine zusätzliche Zeile bzgl. der
-
 - wöchentlichen Dosierung sind untrennbar an den vorausgehenden Medikationseintrag
-
 - gebunden und müssen mit diesem auf derselben Seite ausgedruckt werden.
-
 - Optional ist in jeder Medikationstabellenzeile eine **Rezepturzeile** (5.3: Rezeptur) zulässig,
-
 - welche eine Höhe von 0,875 cm hat und sich über die gesamte Breite erstreckt. Eine
-
 - Rezepturzeile ist zu rahmen. Der Inhalt des Feldes ist ein - oder zweizeilig aufzubringen.
-
-- Linksbündig, Schriftgröße 12 pt, ggf. 10 pt. Bei mehrzeiligen Einträgen ist die Schriftgröße - 10 pt zu verwenden.
+- Linksbündig, Schriftgröße 12 pt, ggf. 10 pt. Bei mehrzeiligen Einträgen ist die Schriftgröße
+- 10 pt zu verwenden.
 
 
 ---
 
 - Optional kann zu jedem Rezeptureintrag in der darunter gelegenen Medikations-
-
 - tabellenzeile eine **gebundene Zusatzzeile** angelegt werden/existieren. Diese hat eine
-
 - Höhe von 0,875 cm und erstreckt sich über die gesamte Breite, wobei sie um 0,7 cm vom
-
 - linken Rand der Medikationstabelle eingerückt ist. Die gebundene Zusatzzeile ist zu
-
 - rahmen, wobei der Rahmen um 0,7 cm vom linken Rand der Medikationstabelle eingerückt
-
 - ist. Der Inhalt des Feldes ist ein - oder zweizeilig aufzubringen. Linksbündig, Schriftgröße
-
 - 12 pt, ggf. 10 pt. Bei mehrzeiligen Einträgen ist die Schriftgröße 10 pt zu verwenden. Es
-
 - ist ein leerer Hintergrund zu verwenden. Eine gebundene Zusatzzeile ist untrennbar an
-
-- den vorausgehenden Rezeptureintrag gebunden und muss mit diesem auf derselben Seite - ausgedruckt werden.
-
+- den vorausgehenden Rezeptureintrag gebunden und muss mit diesem auf derselben Seite
+- ausgedruckt werden.
 - Optional ist in jeder Medikationstabellenzeile eine **Zwischenüberschrift** (5.1) zulässig,
-
 - welche eine Höhe von 0,875 cm hat und sich über die gesamte Breite erstreckt. Es können
-
 - in jeder Medikationstabelle mehrere Zwischenüberschriften existieren. Text linksbündig,
-
-- Schriftgröße 14 pt, fett formatiert. Diese Zeile enthält entweder - o einen Freitext oder
-
+- Schriftgröße 14 pt, fett formatiert. Diese Zeile enthält entweder
+- o einen Freitext oder
 - o einen von den Anwendenden ausgewählten Text aus
-
 - o Tabelle 6 für die Zwischen-überschriften.
 
 Die Zwischenüberschrift ist nicht gerahmt.
 
 - Optional ist in jeder Medikationstabellenzeile eine **Freitextzeile** (5.2: sonstige Hinweise)
-
 - zulässig, welche eine Höhe von 0,875 cm hat und sich über die gesamte Breite erstreckt.
-
 - Eine Freitextzeile ist nicht zu rahmen. Der Inhalt des Feldes ist ein- oder zweizeilig
-
 - aufzubringen. Linksbündig, Schriftgröße 12 pt, ggf. 10 pt. Bei mehrzeiligen Einträgen ist
-
 - die Schriftgröße 10 pt zu verwenden. Es ist ein leerer Hintergrund zu verwenden.
 
 **Vertikale Anordnung**
@@ -2147,40 +1649,27 @@ dreizeilig zu dreizeilig bzw. einzeilig) vertikal identisch ausgerichtet sein.
 
 ### 6.2.5 Tabellenüberschrift Dosierung
 
-Die Schlüsselworte aus Anhang 2 werden in die Spaltenüberschrift nach einem der beiden
-
-folgenden Muster eingefügt:
+Die Schlüsselworte aus Anhang 2 werden in die Spaltenüberschrift nach einem der beiden  folgenden Muster eingefügt:
 
 - 1. Schriftart eng gestellt (z. B. Arial Narrow), 9 pt, fett. Die einzelnen Worte werden jeweils
-
 - schräg gestellt in einem Winkel von 40° und so platziert, dass sie jeweils möglichst
-
 - deutlich über den zugehörigen Spalten stehen (siehe Muster 1).
 
 
 ---
 
 - 2. Schriftart eng gestellt (z. B. Arial Narrow), 8 pt, fett. Die einzelnen Worte werden jeweils
-
 - über den zugehörigen Werte-Spalten zentriert angeordnet. Dabei werden die Worte
-
 - „morgens“ und „mittags“ mit Bindestrich umgebrochen, das Wort abends bleibt einzeilig,
-
 - die Worte „zur Nacht“ werden auf zwei Zeilen umgebrochen (siehe Muster 2). Die Worte
+- der Spaltenüberschrift sollen durch vertikale Spaltentrennstriche in gleichem Abstand
+- getrennt werden.
 
-- der Spaltenüberschrift sollen durch vertikale Spaltentrennstriche in gleichem Abstand - getrennt werden.
+Als Schriftart wird Arial Narrow empfohlen. Falls diese Schriftart nicht verfügbar ist, kann eine  andere für die Darstellung auf dem begrenzten Raum geeignete Schriftart gewählt werden.
 
-Als Schriftart wird Arial Narrow empfohlen. Falls diese Schriftart nicht verfügbar ist, kann eine
+Dabei soll eine Schrift gewählt werden, die der Grundschrift Arial der Spezifikation möglichst  nahekommt, um die Lesbarkeit nicht negativ zu beeinflussen.
 
-andere für die Darstellung auf dem begrenzten Raum geeignete Schriftart gewählt werden.
-
-Dabei soll eine Schrift gewählt werden, die der Grundschrift Arial der Spezifikation möglichst
-
-nahekommt, um die Lesbarkeit nicht negativ zu beeinflussen.
-
-Die Vorgaben Tabellenüberschrift der 5. Spalte gelten hinsichtlich der Anzahl der Zeilen und
-
-der Schriftart und Schriftgröße insofern nicht. Die Vorgabe hinsichtlich der Spaltenbreite und -höhe bleibt unverändert.
+Die Vorgaben Tabellenüberschrift der 5. Spalte gelten hinsichtlich der Anzahl der Zeilen und  der Schriftart und Schriftgröße insofern nicht. Die Vorgabe hinsichtlich der Spaltenbreite und -höhe bleibt unverändert.
 
 Abbildung 4: Muster 1 (schräg gestellte Variante); maßstabsgerecht vergrößerte Darstellung .
 
@@ -2193,33 +1682,17 @@ Implementierung für eines der Muster entscheiden. Dabei ist bevorzugt Muster 1 
 
 ---
 
-implementieren. Sollte es aus technischen Gründen nicht möglich sein, Muster 1 umzusetzen,
-
-kann Muster 2 verwendet werden.
+implementieren. Sollte es aus technischen Gründen nicht möglich sein, Muster 1 umzusetzen,  kann Muster 2 verwendet werden.
 
 ### 6.2.6 Sonderzeichen „µ“ auf dem Ausdruck
 
-Für Dosiereinheiten oder andere Felder wird ggf. das Sonderzeichen „µ“ verwendet. Nur für
-
-die Anzeige auf dem Bildschirm oder im Papierausdruck kann dieses Symbol bei Bedarf durch
-
-den Buchstaben „u“ ersetzt werden. Da im Carriersegment Codes an dieser Stelle verwendet
-
-werden, hat es dort keinen Einfluss und ist eindeutig.
+Für Dosiereinheiten oder andere Felder wird ggf. das Sonderzeichen „µ“ verwendet. Nur für  die Anzeige auf dem Bildschirm oder im Papierausdruck kann dieses Symbol bei Bedarf durch  den Buchstaben „u“ ersetzt werden. Da im Carriersegment Codes an dieser Stelle verwendet  werden, hat es dort keinen Einfluss und ist eindeutig.
 
 ### 6.2.7 Ausnutzung von Druckbreite und -höhe einer Zelle der Medikations- tabelle/Zeilenumbrüche
 
-Die folgenden Regeln gelten für den Bereich der Medikationstabelle im Papierausdruck. Alle
+Die folgenden Regeln gelten für den Bereich der Medikationstabelle im Papierausdruck. Alle  restlichen Felder im Ausdruck sind hiervon nicht betroffen. Die Regeln gelten sowohl für das
 
-restlichen Felder im Ausdruck sind hiervon nicht betroffen. Die Regeln gelten sowohl für das
-
-Befüllen mit vorgegebenen Texten der AM-DB als auch für von den Anwendenden
-
-eingegebene Freitexte. Bei der Eingabe von Texten durch die Anwendenden soll die Software
-
-die Anwendenden schon bei der Eingabe durch geeignete Interaktionen oder mit Hinweisen
-
-unterstützen, um diesen unnötige Mehreingaben zu ersparen und ggf. eine Anpassung der
+Befüllen mit vorgegebenen Texten der AM-DB als auch für von den Anwendenden  eingegebene Freitexte. Bei der Eingabe von Texten durch die Anwendenden soll die Software  die Anwendenden schon bei der Eingabe durch geeignete Interaktionen oder mit Hinweisen  unterstützen, um diesen unnötige Mehreingaben zu erspar en und ggf. eine Anpassung der
 
 Texte zu ermöglichen.
 
@@ -2229,32 +1702,20 @@ Spaltentrennstrich, siehe 6.1) durch den Feldinhalt noch nicht erreicht ist, wir
 
 Zeichen des Feldinhaltes in der Zeile ausgegeben.
 
-Beim Erreichen der Zellenbreite ist zunächst zu prüfen, ob es zulässig ist, die Schriftgröße in
-
-der entsprechenden Zelle zu reduzieren (siehe im Folgenden). Ist dies nicht möglich oder ist
-
-die Schriftgröße bereits auf den kleinstmöglichen Wert reduziert, ist wie folgt vorzugehen:
+Beim Erreichen der Zellenbreite ist zunächst zu prüfen, ob es zulässig ist, die Schriftgröße in  der entsprechenden Zelle zu reduzieren (siehe im Folgenden). Ist dies nicht möglich oder ist  die Schriftgröße bereits auf den kleinstmöglichen Wert reduziert, ist wie folgt vorzugehen:
 
 Beim erneuten Erreichen der Zellenbreite oder nach der Ausgabe eines Zeilenumbruchs des
 
 Datenfeldes können die folgenden Situationen eintreten:
 
 - 1. Die maximal erlaubte Anzahl von Zeilenumbrüchen oder die maximale Anzahl von
-
 - erlaubten Zeilen für das Datenfeld ist bereits ausgeschöpft. Dann wird statt der drei letzten
-
 - Zeichen „…“ angefügt, um anzudeuten, dass die Ausgabe des Datenfeldes nicht komplett
-
 - ist. **Dies gilt nicht für die Dosierung (Felder Dosierschema und Dosiereinheit)**
-
 - 2. Es können noch Zeilen hinzugefügt werden, da die maximale Anzahl erlaubter
-
 - Zeilenumbrüche und die maximal erlaubte Zeilenanzahl für das Datenfeld noch nicht
-
 - erreicht sind und das Datenfeld noch nicht vollständig ausgegeben wurde. Die Ausgabe
-
 - erfolgt dann so lange, bis die Situation nach Ziffer 1 eintritt oder das Ende des
-
 - auszugebenden Ausdrucks erreicht ist.
 
 
@@ -2262,31 +1723,17 @@ Datenfeldes können die folgenden Situationen eintreten:
 
 Bei der Anlage von Zeilenumbrüchen SOLL das MP-Modul in der Zeichenkette des
 
-Feldinhaltes das geeignete Leerzeichen suchen und dieses Leerzeichen dann im Ausdruck
+Feldinhaltes das geeignete Leerzeichen suchen und dieses Leerzeichen dann im Ausdruck  durch einen Zeilenumbruch umsetzen oder den Umbruch als Wordwrap umsetzen.
 
-durch einen Zeilenumbruch umsetzen oder den Umbruch als Wordwrap umsetzen.
+Das MP-Modul MUSS Zeilenumbrüche in Arzneimittelnamen zwischen zwei Ziffern  unterbinden (z. B. „mein-schöner-Handelsname 10000mg“ DARF NICHT in „mein-schöner- Handelsname 100“ und „00mg“ getrennt werden, sondern MUSS, wenn ein Zeilenumbruch  notwendig ist, in „mein-schöner-Handelsname“ und „10000mg“ getrennt werden).
 
-Das MP-Modul MUSS Zeilenumbrüche in Arzneimittelnamen zwischen zwei Ziffern
-
-unterbinden (z. B. „mein-schöner-Handelsname 10000mg“ DARF NICHT in „mein-schöner-
-
-Handelsname 100“ und „00mg“ getrennt werden, sondern MUSS, wenn ein Zeilenumbruch
-
-notwendig ist, in „mein-schöner-Handelsname“ und „10000mg“ getrennt werden).
-
-Dabei ist zu beachten, dass bei mehrzeiligen Einträgen die Schriftgröße, entsprechend der in
-
-den folgenden Feldbeschreibungen genannten Regeln, reduziert werden muss.
+Dabei ist zu beachten, dass bei mehrzeiligen Einträgen die Schriftgröße, entsprechend der in  den folgenden Feldbeschreibungen genannten Regeln, reduziert werden muss.
 
 ### 6.2.8 Sonderform doppelt hohe Medikationszeile
 
-In definierten Fällen kann es notwendig sein, die Höhe einer Medikationstabellenzeile zu
+In definierten Fällen kann es notwendig sein, die Höhe einer Medikationstabellenzeile zu  verdoppeln. Dies ist derzeit nur der Fall, wenn Kombinationsarzneimittel mit genau drei
 
-verdoppeln. Dies ist derzeit nur der Fall, wenn Kombinationsarzneimittel mit genau drei
-
-Wirkstoffen auf dem Plan dokumentiert werden, weil diese nicht auf den möglichen zwei Zeilen
-
-mit Schriftgröße 10 pt dargestellt werden können. In diesem Fall ist es vorgeschrieben, eine
+Wirkstoffen auf dem Plan dokumentiert werden, weil diese nicht auf den möglichen zwei Zeilen  mit Schriftgröße 10 pt dargestellt werden können. In diesem Fall ist es vorgeschrieben, eine
 
 Medikationstabellenzeile mit doppelter Höhe zu drucken (1,75 cm). Entsprechend muss die
 
@@ -2294,13 +1741,7 @@ Gesamtzahl der auf einer Seite des Medikationsplans ausgedruckten Zeilen reduzie
 
 Das MP-Modul muss dieses berücksichtigen.
 
-Sofern ein doppelt hoher Medikationseintrag vorliegt, MUSS das MP-Modul sicherstellen, dass
-
-der zur Verfügung stehende Platz in den einzelnen Spalten der Medikationstabelle umfassend
-
-genutzt wird. Beispielsweise muss, sofern nötig, ein Handelsname dreizeilig dargestellt
-
-werden und darf nicht nach 2 Zeilen mit „…“ eingekürzt werden.
+Sofern ein doppelt hoher Medikationseintrag vorliegt, MUSS das MP-Modul sicherstellen, dass  der zur Verfügung stehende Platz in den einzelnen Spalten der Medikationstabelle umfassend  genutzt wird. Beispielsweise muss, sofern nötig, ein Handelsname dreizeilig dargestellt  werden und darf nicht nach 2 Zeilen mit „…“ eingekürzt werden.
 
 ### 6.2.9 Hinweisblock (optional)
 
@@ -2317,112 +1758,84 @@ Die Höhe des Fußbereiches beträgt 1,0 cm. Die Breite erstreckt sich über die
 Der Fußbereich befindet sich unmittelbar über dem unteren Seitenrand (ca. 0,85 cm).
 
 - Der Bereich für die Ausgabe des Disclaimers (6.9) und der Versionsangabe ist 1,0 cm hoch
-
 - und 12 cm breit. Er befindet sich im linken Teil des Fußbereiches.
 
 
 ---
 
-- o Der Text des Disclaimers (Schlüsselworttabelle, Code 531) wird - ausgegeben.
-
+- o Der Text des Disclaimers (Schlüsselworttabelle, Code 531) wird
+- ausgegeben.
 - o Die Versionsangabe wird in der zweiten Zeile ausgegeben.
-
 -  Die Länderkennung (6.3), gefolgt von einem Bindestrich,
-
 -  die Sprachkennung (6.4),
-
--  den Text der Versionskennung (Code - Versionsnummer (6.1).
-
+-  den Text der Versionskennung (Code
+- Versionsnummer (6.1).
 - o Der gesamte Text ist in der Schriftgröße 8 pt linksbündig anzuordnen.
-
 - o Ein leerer Hintergrund ist vorzusehen.
-
 - Der Herstellerbereich (6.6) ist 1,0 cm hoch und hat eine Breite von (29,
-
 - = 11,0 cm. Er schließt sich direkt an den Bereich für den Disclaimer und die
-
 - Versionsangaben an und enthält:
-
 - o Eine Grafik oder einen Text des Herstellers der erzeugenden Software. Wird der
-
 - Bereich nicht vom Hersteller genutzt, so ist dieser leer.
-
 - Das Freifeld (6.7) ist 1,0 cm hoch und hat eine Breite von 5,0 cm. Es liegt rechts im
-
 - Fußbereich und ist komplett freizuhalten.
-
 - Es wird ein Trennstrich an der oberen Begrenzung des Fußbereiches über die gesamte
-
 - Breite angebracht. Sofern die Medikationstabelle volle 15 Einträge umfasst und die letzte
-
-- Zelle der Tabelle gerahmt ist, kann der Trennstrich deckungsgleich mit dem unteren - Rahmen der Tabelle sein.
+- Zelle der Tabelle gerahmt ist, kann der Trennstrich deckungsgleich mit dem unteren
+- Rahmen der Tabelle sein.
 
 ### 6.2.11 Wöchentliche Dosierungsangabe
 
-Die Anwendenden müssen beim Anlegen eines Medikationseintrags die Möglichkeit haben ,
+Die Anwendenden müssen beim Anlegen eines Medikationseintrags die Möglichkeit haben ,  bei Verwendung des Viererschemas anzugeben, dass die Dosierung wöchentlich an einem  festgelegten Wochentag erfolgen soll.
 
-bei Verwendung des Viererschemas anzugeben, dass die Dosierung wöchentlich an einem
+Wenn die Anwendenden ausgewählt haben, dass die Dosierung eines Medikamentes  wöchentlich erfolgt, dann müssen die Anwendenden einen entsprechenden Wochentag  festlegen.
 
-festgelegten Wochentag erfolgen soll.
+Wenn die Anwendenden ausgewählt haben, dass die Dosierung eines Medikamentes  wöchentlich erfolgt, dann erfolgt die Bedruckung des Medikationseintrags wie folgt:
 
-Wenn die Anwendenden ausgewählt haben, dass die Dosierung eines Medikamentes
-
-wöchentlich erfolgt, dann müssen die Anwendenden einen entsprechenden Wochentag
-
-festlegen.
-
-Wenn die Anwendenden ausgewählt haben, dass die Dosierung eines Medikamentes
-
-wöchentlich erfolgt, dann erfolgt die Bedruckung des Medikationseintrags wie folgt: - in der ersten Zeile
-
+- in der ersten Zeile
 - Sie enthält:
 
+```
 -
+```
 
 - 511), gefolgt von der
-
 - 7-2 x 0,85-12,0-5,0)
 
+```
 -
-
+```
 
 ---
 
 - Im Bereich der Angabe des Viererschemas muss der Eintrag „siehe nächste Zeile“
-
 - angegeben werden:
 
+```
 -
+```
 
-- In einer zusätzlichen Zeile bzgl. der wöchentlichen Dosierung MUSS der Eintrag der
-
-- Dosierungsangabe gemäß dem nachfolgenden Format erfolgen:
-
+- In einer zusätzlichen Zeile bzgl. der wöchentlichen Dosierung MUSS der Eintrag der  Dosierungsangabe gemäß dem nachfolgenden Format erfolgen:
 - o <Wochentag>s <morgens>-<mittags>-<abends>-<nachts>
 
+```
 -
+```
 
 - o Weitere Angaben dürfen in der zusätzlichen Zeile bzgl. der wöchentlichen
-
 - Dosierung nicht vorgenommen werden. Ebenso dürfen keine händischen
-
 - Korrekturen in der Zeile vorgenommen werden.
-
 - Die Kombination mit einer zusätzlichen gebunden Zusatzzeile ist nicht zulässig.
-
 - Alle Medikationseinträge, für die eine wöchentliche Dosierung ausgewählt wurde, sind
-
 - automatische unter der Zwischenüberschrift „Wöchentliche Anwendung“ zu gruppieren.
-
 - Die Anwender*in hat nicht die Möglichkeit entsprechende Medikationseinträge einer
-
 - anderen Zwischenüberschrift zuzuordnen.
 
+```
 -
+```
 
-Abbildung 2 auf Seite 28 veranschaulicht die Darstellung von Medikationseinträgen mit
-
-wöchentlichen Dosierungsangaben am Beispiel von Methotrexat und Folsäure.
+Abbildung 2 auf Seite 28 veranschaulicht die Darstellung von Medikationseinträgen mit  wöchentlichen Dosierungsangaben am Beispiel von Methotrexat und Folsäure.
 
 ## 6.3 Mehrseitige Medikationspläne
 
@@ -2431,18 +1844,11 @@ Im dem Fall, dass mehr als die für einen Ausdruck vorgesehene Anzahl an
 Medikationseinträgen auf einem Plan auszudrucken wären, ist wie folgt vorzugehen
 
 - Es wird eine zweite (weitere) Seite des Plans angelegt.
-
 - Die Seitenzahl ist für jede Seite entsprechend zu setzen, genauso wie die
-
 - Gesamtseitenzahl für alle Seiten gleich zu setzen ist.
-
 - Die Seitenzahl ist kleiner gleich der Gesamtseitenzahl.
 
-Ist im Datenfeld des 2D-Barcodes die Gesamtseitenzahl größer als eins, muss die Software
-
-gewährleisten, dass alle Seiten ausgedruckt werden. Beim Einscannen muss die Software
-
-prüfen, ob alle Seiten eingescannt wurden und den Anwendenden ggf. entsprechende
+Ist im Datenfeld des 2D-Barcodes die Gesamtseitenzahl größer als eins, muss die Software  gewährleisten, dass alle Seiten ausgedruckt werden. Beim Einscannen muss die Software  prüfen, ob alle Seiten eingescannt wurden und den Anwendenden ggf. entsprechende
 
 Hinweise geben.
 
@@ -2451,16 +1857,9 @@ Hinweise geben.
 
 Gebundene Zusatzzeilen sowie zusätzliche Zeilen bzgl. der wöchentlichen Dosierung
 
-MÜSSEN immer mit dem zugehörigen Medikationseintrag auf derselben Seite ausgedruckt
+MÜSSEN immer mit dem zugehörigen Medikationseintrag auf derselben Seite ausgedruckt  werden.
 
-werden.
-
-Die letzte Zwischenüberschrift einer Seite SOLL auf der nächsten Seite des Medikationsplans
-
-als erster Eintrag der Medikationstabelle wiederholt werden, sofern ein Seitenumbruch
-
-innerhalb eines Blockes erfolgt.
-
+Die letzte Zwischenüberschrift einer Seite SOLL auf der nächsten Seite des Medikationsplans  als erster Eintrag der Medikationstabelle wiederholt werden, sofern ein Seitenumbruch  innerhalb eines Blockes erfolgt.
 
 ---
 
@@ -2470,35 +1869,17 @@ innerhalb eines Blockes erfolgt.
 
 Zur Verwendung kommt eine am sogenannten Ultrakurzformat (UKF) von HL7 orientierte
 
-Syntax. Dabei gilt der Grundsatz, dass die Spezifikation frei von Rechten Dritter ist und ohne
+Syntax. Dabei gilt der Grundsatz, dass die Spezifikation frei von Rechten Dritter ist und ohne  rechtliche Einschränkung für weitere Anwendungszwecke (z. B. im Rahmen der Zertifizierung  durch die KBV) übernommen und bei Bedarf durch die Vertragspartner*innen fortgeschrieben  werden kann.
 
-rechtliche Einschränkung für weitere Anwendungszwecke (z. B. im Rahmen der Zertifizierung
+Zur Verbesserung der Praktikabilität des Medikationsplans wird dessen Papierform mit einem  aufgedruckten 2D-Barcode versehen. Zweidimensionale 2D-Barcodes werden heute in vielen
 
-durch die KBV) übernommen und bei Bedarf durch die Vertragspartner*innen fortgeschrieben
+Bereichen sehr erfolgreich eingesetzt. Ihr Vorteil gegenüber eindimensionalen Strichcodes  besteht darin, dass ein vergleichsweise hoher Umfang an Nutzerinformation virenfrei enthalten  sein kann.
 
-werden kann.
-
-Zur Verbesserung der Praktikabilität des Medikationsplans wird dessen Papierform mit einem
-
-aufgedruckten 2D-Barcode versehen. Zweidimensionale 2D-Barcodes werden heute in vielen
-
-Bereichen sehr erfolgreich eingesetzt. Ihr Vorteil gegenüber eindimensionalen Strichcodes
-
-besteht darin, dass ein vergleichsweise hoher Umfang an Nutzerinformation virenfrei enthalten
-
-sein kann.
-
-Für den BMP ist der Datamatrix-Barcode vorgesehen. In dessen Datensatz können alle auf
-
-dem Medikationsplan ausgewiesenen Daten aufgenommen und elektronisch genutzt werden.
+Für den BMP ist der Datamatrix-Barcode vorgesehen. In dessen Datensatz können alle auf  dem Medikationsplan ausgewiesenen Daten aufgenommen und elektronisch genutzt werden.
 
 Somit müssen bei weiteren beteiligten Heilberufler*innen die im Medikationsplan erfassten
 
-Daten nicht händisch übertragen werden. Mittels eines handelsüblichen Scanners können sie
-
-elektronisch eingelesen und somit elektronisch identisch abgebildet werden. Das ist
-
-beispielsweise für die Praktikabilität der Anwendung des Medikationsplans bei der
+Daten nicht händisch übertragen werden. Mittels eines handelsüblichen Scanners können sie  elektronisch eingelesen und somit elektronisch identisch abgebildet werden. Das ist  beispielsweise für die Praktikabilität der Anwendung des Medikationsplans bei der
 
 Aktualisierung in der Apotheke relevant, weil hier in Folge der Rabattverträge oder erworbener
 
@@ -2508,60 +1889,42 @@ Arzneimittel für die Selbstmedikation häufig dessen Aktualisierung erforderlic
 
 Der 2D-Barcode ist Bestandteil des ausgedruckten Medikationsplans und bildet den Inhalt des
 
-Carriersegments ab. Dieses muss alle für die Befüllung der Felder des Medikationsplans
-
-relevanten Daten enthalten.
+Carriersegments ab. Dieses muss alle für die Befüllung der Felder des Medikationsplans  relevanten Daten enthalten.
 
 Das Carriersegment ist die strukturierte Abbildung der Medikationsplandaten in Form einer
 
-XML-Datei nach dem hier definierten XML-Schema (siehe Anhang 8 (XML-Schema,
+XML-Datei nach dem hier definierten XML-Schema (siehe Anhang 8 (XML-Schema,  normativ) Eine Kompression oder Verschlüsselung des Carriersegments ist nicht  vorgesehen.
 
-normativ)). Eine Kompression oder Verschlüsselung des Carriersegments ist nicht
-
-vorgesehen.
-
-Im Abschnitt 7.3 sind in Ergänzung zum XML -Schema und den dort definierten Constraints
-
-zusätzliche Hinweise und Regeln für die zu verwendenden Datenfelder im Carriersegment
-
-beschrieben.
+Im Abschnitt 7.3 sind in Ergänzung zum XML -Schema und den dort definierten Constraints  zusätzliche Hinweise und Regeln für die zu verwendenden Datenfelder im Carriersegment  beschrieben.
 
 
 ---
 
-Auf Grund des begrenzten Speichervolumens des 2D-Barcodes werden im Carriersegment
+Auf Grund des begrenzten Speichervolumens des
 
 die notwendigen Informationen soweit möglich in Form von Codes übertragen (z. B.
 
-modifizierte PZN, Dosiereinheiten) (Kap. 7.3.4).
+modifizierte PZN, Dosiereinheiten) (Kap. 7.3.4
 
-In manchen Fällen kann es vorkommen, dass ein Code sich nicht auflösen lässt. Z. B. ist es
-
-möglich, dass eine PZN auf einem älteren Plan in einer aktuellen Arzneimittedatenbank nicht
-
-mehr enthalten ist. In Fällen , in denen das MP-Modul im Carriersegment des 2D-Barcodes
-
-enthaltene Codes nicht erkennt, muss das MP -Modul den/die Anwender*innen der Software
-
-geeignet informieren und ggf. dabei unterstützen, die fehlenden Daten zu erfassen oder durch
-
-entsprechend korrigierte aktuelle Daten zu ergänzen bzw. zu ersetzen.
+In manchen Fällen kann es vorkommen, dass ein Code sich nicht auflösen lässt. Z. B. ist es  möglich, dass eine PZN auf einem älteren Plan in einer aktuellen Arzneimittedatenbank nicht  mehr enthalten ist. In Fällen , in denen das MP-Modul im Carriersegment des 2D-Barcodes  enthaltene Codes nicht erkennt, muss das MP -Modul den/die Anwender*innen der Software  geeignet informieren und ggf. dabei unterstützen, die fehlenden Daten zu erfassen oder durch  entsprechend korrigierte aktuelle Daten zu ergänzen
 
 ## 7.2 Datamatrix 2D-Barcode
 
-Die XML-Daten im Carriersegment können mit geeigneten Werkzeugen in einen Datamatrix-
+Die XML-Daten im Carriersegment können mit geeigneten Werkzeugen in einen Datamatrix- Barcode gewandelt werden.
 
-Barcode gewandelt werden.
-
-Dieser Code lässt sich mit handelsüblichen Scannern oder Mobiltelefonen inkl. Scan-
-
-Anwendung einlesen und die XML-Daten des Carriersegments lassen sich wieder
+Dieser Code lässt sich mit handelsüblichen Scannern oder Mobiltelefonen inkl. Scan- Anwendung einlesen und die XML-Daten
 
 zurückgewinnen.
 
-Abbildung 6: 2D-Barcode zum Medikationsplan der Abbildung 2  vergrößert dargestellt, so dass man
+Abbildung 6: 2D-Barcode zum Medikationsplan der  die typische Struktur erkennen kann.
 
-die typische Struktur erkennen kann.
+2D-Barcodes werden im Carriersegment
+
+bzw. zu ersetzen.
+
+des Carriersegments lassen sich wieder
+
+Abbildung 2  vergrößert dargestellt, so dass man
 
 
 ---
@@ -2594,7 +1957,7 @@ des XML-Schemas
 
 **Nutzung**
 
-Die folgenden Datenfelder sind für die Erzeugung des 2D-Barcodes im Carrierbereich (6.2.3)
+Die folgenden Datenfelder sind für die Erzeugung des 2D-Barcodes im Carrierbereich (
 
 des Medikationsplans zu nutzen. Die komplette XML-Zeichenkette der aneinandergereihten
 
@@ -2616,15 +1979,9 @@ Immer dann, wenn „absolut identisch mit dem Ausdruck“ vermerkt ist, werden d
 
 Werte/Inhalte des Datenfeldes in den Ausdruck identisch übernommen.
 
-Immer dann, wenn „Inhalt identisch, Format angepasst“ vermerkt ist, werden die Inhalte
+Immer dann, wenn „Inhalt identisch, Format angepasst“ vermerkt ist, werden die Inhalte  übernommen, die Syntax ist aber abgeändert. Dies erfolgt immer dann, wenn sich Zeichen  einsparen lassen.
 
-übernommen, die Syntax ist aber abgeändert. Dies erfolgt immer dann, wenn sich Zeichen
-
-einsparen lassen.
-
-Immer dann, wenn „entsprechend“ vermerkt ist, gibt es eine inhaltliche Entsprechung, die sich
-
-aber in Form oder Code anders darstellt.
+Immer dann, wenn „entsprechend“ vermerkt ist, gibt es eine inhaltliche Entsprechung, die sich  aber in Form oder Code anders darstellt.
 
 Immer dann, wenn „Keine Entsprechung“ vermerkt ist, gibt es keinen Wert im Ausdruck.
 
@@ -2632,13 +1989,13 @@ Immer dann, wenn „Keine Entsprechung“ vermerkt ist, gibt es keinen Wert im A
 
 Zur Bezeichnung der Datenfelder wird das in Anhang 2 beschriebene Codesystem
 
-In der folgenden Tabelle sind die Datenfelder für die Verwendung im (z. B. <MP
+In der folgenden Tabelle sind die Datenfelder für die Verwendung im
 
-keinen XML-Prolog
+(z. B. <MP  keinen XML-Prolog  und verwendeter
 
-und verwendeter 1.0 encoding= ISO-
+1.0 encoding= ISO- -Prolog weggelassen werden.
 
--Prolog weggelassen werden.
+6.2.3
 
 verwendet.
 
@@ -2647,16 +2004,16 @@ verwendet.
 
 ---
 
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| Tabelle 3: Beschreibung, wie die Datenfelder im Carriersegment zu befüllen sind. Datenfelder, die im | **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** |
-\| Tabelle 3: Beschreibung, wie die Datenfelder im Carriersegment zu befüllen sind. Datenfelder, die im | **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** |
-\| Tabelle 3: Beschreibung, wie die Datenfelder im Carriersegment zu befüllen sind. Datenfelder, die im | **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** |
-\| Tabelle 3: Beschreibung, wie die Datenfelder im Carriersegment zu befüllen sind. Datenfelder, die im | **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** |
-\| Tabelle 3: Beschreibung, wie die Datenfelder im Carriersegment zu befüllen sind. Datenfelder, die im | **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** |
-\| Tabelle 3: Beschreibung, wie die Datenfelder im Carriersegment zu befüllen sind. Datenfelder, die im | **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** |
-\| Tabelle 3: Beschreibung, wie die Datenfelder im Carriersegment zu befüllen sind. Datenfelder, die im | **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** |
-\| Tabelle 3: Beschreibung, wie die Datenfelder im Carriersegment zu befüllen sind. Datenfelder, die im | **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** |
-| Tabelle 3: Beschreibung, wie die Datenfelder im Carriersegment zu befüllen sind. Datenfelder, die im | **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Tabelle 3: Beschreibung, wie die Datenfelder im Carriersegment zu befüllen sind. Datenfelder, die im | Feld- | Bezeichnung | Datenfeld. | Beschreibung |
+\| Tabelle 3: Beschreibung, wie die Datenfelder im Carriersegment zu befüllen sind. Datenfelder, die im | Feld- | Bezeichnung | Datenfeld. | Beschreibung |
+\| Tabelle 3: Beschreibung, wie die Datenfelder im Carriersegment zu befüllen sind. Datenfelder, die im | Feld- | Bezeichnung | Datenfeld. | Beschreibung |
+\| Tabelle 3: Beschreibung, wie die Datenfelder im Carriersegment zu befüllen sind. Datenfelder, die im | Feld- | Bezeichnung | Datenfeld. | Beschreibung |
+\| Tabelle 3: Beschreibung, wie die Datenfelder im Carriersegment zu befüllen sind. Datenfelder, die im | Feld- | Bezeichnung | Datenfeld. | Beschreibung |
+\| Tabelle 3: Beschreibung, wie die Datenfelder im Carriersegment zu befüllen sind. Datenfelder, die im | Feld- | Bezeichnung | Datenfeld. | Beschreibung |
+\| Tabelle 3: Beschreibung, wie die Datenfelder im Carriersegment zu befüllen sind. Datenfelder, die im | Feld- | Bezeichnung | Datenfeld. | Beschreibung |
+\| Tabelle 3: Beschreibung, wie die Datenfelder im Carriersegment zu befüllen sind. Datenfelder, die im | Feld- | Bezeichnung | Datenfeld. | Beschreibung |
+| Tabelle 3: Beschreibung, wie die Datenfelder im Carriersegment zu befüllen sind. Datenfelder, die im | Feld- | Bezeichnung | Datenfeld. | Beschreibung |
 |---|---|---|---|---|
 | 1.0 | Instanz-ID | MP.U | Die Instanz-ID ist eine GUID | Keine Entsprechung |
 | 1.2 | Seitenzahl | MP.a | Aktuelle Seite, mit 1 startend; | Entsprechend |
@@ -2718,28 +2075,28 @@ Carriersegment nicht verwendet werden, sind nicht gelistet. code Attribut Patien
 
 ---
 
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck ** 2.4 |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck  2.4 |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
 |---|---|---|---|---|
 | Geburtsdatum | MP.P.b | Geburtsdatum des/der | Inhalt identisch, | 2.21 |
-| Geschlecht | MP.P.s | Geschlecht des/der | - | M oder |
-| - | W oder | - | D oder | - |
-| X |  | Entsprechend | Im Druck mit | - |
-| „Geschl.: m“ | - | „Geschl.: w“ | - | „Geschl.: divers“ |
-| - | „Geschl.: |  | (Kap. A.2.3) | 2.5  Ausdruckende/r |
+| Geschlecht | MP.P.s | Geschlecht des/der | - |  |
+| - |  | - |  | - |
+|  |  | Entsprechend | Im Druck mit | - |
+|  | - |  | - |  |
+| - |  |  | (Kap. A.2.3) | 2.5  Ausdruckende/r |
 | MP.A.n | Name der aktuell | Entsprechend | Ggf. im Ausdruck | 6.10  Lebenslange |
 | MP.A.lanr | 9-stellige lebenslange | Optional, wenn zutreffend. | Keine Entsprechung | 6.11  Apotheken-IDF |
 | MP.A.idf | 7-stellige | Optional, wenn zutreffend. | Keine Entsprechung | 6.13 |
 | 2.4 | Geburtsdatum | MP.P.b | Geburtsdatum des/der | Inhalt identisch, |
-| 2.21 | Geschlecht | MP.P.s | Geschlecht des/der  -  M oder  -  W oder  -  D oder  -  X | Entsprechend  Im Druck mit    -  „Geschl.: m“ -  „Geschl.: w“  -  „Geschl.: divers“  -  „Geschl.:    (Kap. A.2.3) |
+| 2.21 | Geschlecht | MP.P.s | Geschlecht des/der  -  -  -  - | Entsprechend  Im Druck mit    -  -  -  -    (Kap. A.2.3) |
 | 2.5 | Ausdruckende/r | MP.A.n | Name der aktuell | Entsprechend  Ggf. im Ausdruck |
 | 6.10 | Lebenslange | MP.A.lanr | 9-stellige lebenslange  Optional, wenn zutreffend. | Keine Entsprechung |
 | 6.11 | Apotheken-IDF | MP.A.idf | 7-stellige  Optional, wenn zutreffend. | Keine Entsprechung |
@@ -2748,69 +2105,69 @@ Carriersegment nicht verwendet werden, sind nicht gelistet. code Attribut Patien
 | 2.7 | PLZ | MP.A.z | Postleitzahl des Ortes der | Absolut identisch mit |
 | 2.8 | Ort | MP.A.c | Ort der aktuell | Absolut identisch mit |
 | 2.4 | Geburtsdatum | MP.P.b | Geburtsdatum des/der | Inhalt identisch, |
-| 2.21 | Geschlecht | MP.P.s | Geschlecht des/der | -  M oder |
-| - | W oder | - | D oder | - |
-| X |  | Entsprechend | Im Druck mit    -  „Geschl.: m“ -  „Geschl.: w“  -  „Geschl.: divers“  -  „Geschl.:    (Kap. A.2.3) | 2.5  Ausdruckende/r |
+| 2.21 | Geschlecht | MP.P.s | Geschlecht des/der | - |
+| - |  | - |  | - |
+|  |  | Entsprechend | Im Druck mit    -  -  -  -    (Kap. A.2.3) | 2.5  Ausdruckende/r |
 | MP.A.n | Name der aktuell | Entsprechend | Ggf. im Ausdruck  6.10 | Lebenslange  MP.A.lanr |
 | 9-stellige lebenslange | Optional, wenn zutreffend. | Keine Entsprechung | 6.11 | Apotheken-IDF  MP.A.idf |
 | 7-stellige | Optional, wenn zutreffend. | Keine Entsprechung | 6.13 | Krankenhaus- MP.A.kik |
 | 2.4 | Geburtsdatum | MP.P.b | Geburtsdatum des/der | Inhalt identisch,  2.21  Geschlecht |
-| MP.P.s | Geschlecht des/der | - | M oder | -  W oder |
-| - | D oder | - | X | Entsprechend |
-| Im Druck mit | - | „Geschl.: m“ | -  „Geschl.: w“  -  „Geschl.: divers“  -  „Geschl.: | (Kap. A.2.3) |
+| MP.P.s | Geschlecht des/der | - |  | - |
+| - |  | - |  | Entsprechend |
+| Im Druck mit | - |  | -  -  - | (Kap. A.2.3) |
 | 2.4 | Geburtsdatum | MP.P.b | Geburtsdatum des/der  Inhalt identisch, | 2.21  Geschlecht |
-| MP.P.s | Geschlecht des/der | - | M oder  -  W oder | - |
-| D oder | - | X | Entsprechend | Im Druck mit |
-| - | „Geschl.: m“ | - | „Geschl.: w“  - | „Geschl.: divers“  -  „Geschl.: |
+| MP.P.s | Geschlecht des/der | - | - | - |
+|  | - |  | Entsprechend | Im Druck mit |
+| - |  | - | - | - |
 | 2.4 | Geburtsdatum | MP.P.b | Geburtsdatum des/der  Inhalt identisch,  2.21 | Geschlecht |
-| MP.P.s | Geschlecht des/der | - | M oder  -  W oder | - |
-| D oder | - | X |  | Entsprechend  Im Druck mit |
-| - | „Geschl.: m“ | - | „Geschl.: w“  -  „Geschl.: divers“ | - |
+| MP.P.s | Geschlecht des/der | - | - | - |
+|  | - |  |  | Entsprechend  Im Druck mit |
+| - |  | - | - | - |
 | 2.4 | Geburtsdatum | MP.P.b | Geburtsdatum des/der  Inhalt identisch,  2.21 | Geschlecht |
-| MP.P.s | Geschlecht des/der | - | M oder  -  W oder | - |
-| D oder | - | X | Entsprechend  Im Druck mit | - |
-| „Geschl.: m“ | - | „Geschl.: w“ | -  „Geschl.: divers“  - | „Geschl.: |
+| MP.P.s | Geschlecht des/der | - | - | - |
+|  | - |  | Entsprechend  Im Druck mit | - |
+|  | - |  | -  - |  |
 | 2.4 | Geburtsdatum | MP.P.b | Geburtsdatum des/der  Inhalt identisch, | 2.21 |
-| Geschlecht | MP.P.s | Geschlecht des/der | -  M oder | -  W oder |
-| - | D oder | - | X | Entsprechend |
-| Im Druck mit | - | „Geschl.: m“ | -  „Geschl.: w“ | - |
-| „Geschl.: divers“ | - | „Geschl.: | (Kap. A.2.3) | 2.5 |
+| Geschlecht | MP.P.s | Geschlecht des/der | - | - |
+| - |  | - |  | Entsprechend |
+| Im Druck mit | - |  | - | - |
+|  | - |  | (Kap. A.2.3) | 2.5 |
 | 2.4 | Geburtsdatum | MP.P.b  Geburtsdatum des/der | Inhalt identisch,  2.21  Geschlecht  MP.P.s | Geschlecht des/der |
-| - | M oder | - | W oder  -  D oder  -  X    Entsprechend | Im Druck mit    -  „Geschl.: m“ - |
-| „Geschl.: w“ | - | „Geschl.: divers“ | -  „Geschl.: |  |
+| - |  | - | -  -    Entsprechend | Im Druck mit    -  - |
+|  | - |  | - |  |
 | (Kap. A.2.3) | 2.5 | Ausdruckende/r | MP.A.n  Name der aktuell  Entsprechend  Ggf. im Ausdruck  6.10  Lebenslange | MP.A.lanr |
 | 2.4 | Geburtsdatum | MP.P.b | Geburtsdatum des/der  Inhalt identisch,  2.21  Geschlecht  MP.P.s  Geschlecht des/der | - |
-| M oder | - | W oder | -  D oder | - |
-| X |  | Entsprechend | Im Druck mit    -  „Geschl.: m“ | - |
-| „Geschl.: w“ | - | „Geschl.: divers“ | -  „Geschl.: |  |
+|  | - |  | - | - |
+|  |  | Entsprechend | Im Druck mit    - | - |
+|  | - |  | - |  |
 | (Kap. A.2.3) | 2.5 | Ausdruckende/r | MP.A.n | Name der aktuell |
 
-code Attribut (des/der Patient*in) (des/der Patient*in) Medikationsplans Arztnummer Institutions- kennzeichen Patient*in, ggf. unvollständig entsprechend der eGK- Spezifikation (VSD) Patient*in  Wenn nicht angegeben, muss das Attribut weggelassen werden. ausdruckenden Person/Institution Arztnummer (LANR). Entweder lanr, idf oder kik darf angegeben werden. Apothekenidentifikations- nummer. Entweder lanr, idf oder kik darf angegeben werden. Krankenhausinstitutskenn- zeichen. Entweder lanr, idf oder kik darf angegeben werden. Hausnummer der aktuell ausdruckenden Person/Institution aktuell ausdruckenden Person/Institution ausdruckenden Person/Institution Format angepasst unbestimmt“ gekürzt
+code Attribut (des/der Patient*in) (des/der Patient*in) Medikationsplans Arztnummer Institutions- kennzeichen Patient*in, ggf. unvollständig entsprechend der eGK- Spezifikation (VSD) Patient*in  M oder W oder D oder X Wenn nicht angegeben, muss das Attribut weggelassen werden. ausdruckenden Person/Institution Arztnummer (LANR). Entweder lanr, idf oder kik darf angegeben werden. Apothekenidentifikations- nummer. Entweder lanr, idf oder kik darf angegeben werden. Krankenhausinstitutskenn- zeichen. Entweder lanr, idf oder kik darf angegeben werden. Hausnummer der aktuell ausdruckenden Person/Institution aktuell ausdruckenden Person/Institution ausdruckenden Person/Institution Format angepasst „Geschl.: m“  oder „Geschl.: w“ oder „Geschl.: divers“ oder „Geschl.: unbestimmt“ gekürzt
 
 ---
 
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck ** 2.9 |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck  2.9 |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
 |---|---|---|---|---|
 | Telefonnummer | MP.A.p | Telefonnummer der aktuell | Absolut identisch mit | 2.10 |
 | E-Mail | MP.A.e | E-Mail-Adresse der aktuell | Entsprechend | Ggf. im Ausdruck |
 | 2.11 | Datum und | MP.A.t | Datum und Uhrzeit des | Inhalt identisch, |
-| 2.12 | Erläuterung zum |  | Aus den im Folgenden (2.13 | 6.2.2) unter Verwendung der |
-| Schlüsselworte aus Tabelle | A 2.3 |  | (Code 264) Allergien und | (Code 266) Status |
+| 2.12 | Erläuterung zum |  | Aus den im Folgenden (2.13 | 6.2.2 |
+| ) unter Verwendung der | A 2.3 | : | (Code 264) Allergien und | (Code 266) Status |
 | (Code 267) Status stillend | (Code 268) Größe | (Code 262) Kreatinin | (Code 263) Geschlecht (Feld | Entsprechend  Ggf. im Ausdruck |
 | 2.13 | Gewicht (des/der | MP.O.w | Gewicht des/der Patient*in in | Wenn nicht angegeben,  Inhalt identisch, |
 | Im Druck „Gew.: {} kg“ | 2.14 | Körpergröße | MP.O.h | Körpergröße des/der  Inhalt identisch, |
 | Im Druck „Größe: {} | 2.15 | Kreatininwert | MP.O.c | Kreatininwert des/der |
 | 2.9 | Telefonnummer | MP.A.p | Telefonnummer der aktuell | Absolut identisch mit |
-| 2.10 | E-Mail | MP.A.e | E-Mail-Adresse der aktuell  Entsprechend  Ggf. im Ausdruck  2.11  Datum und  MP.A.t  Datum und Uhrzeit des  Inhalt identisch,  2.12  Erläuterung zum | Aus den im Folgenden (2.13 6.2.2) unter Verwendung der  Schlüsselworte aus Tabelle   A 2.3  (Code 264) Allergien und  (Code 266) Status  (Code 267) Status stillend  (Code 268) Größe  (Code 262) Kreatinin  (Code 263) Geschlecht (Feld |
+| 2.10 | E-Mail | MP.A.e | E-Mail-Adresse der aktuell  Entsprechend  Ggf. im Ausdruck  2.11  Datum und  MP.A.t  Datum und Uhrzeit des  Inhalt identisch,  2.12  Erläuterung zum | Aus den im Folgenden (2.13 6.2.2) unter Verwendung der  A 2.3  :  (Code 264) Allergien und  (Code 266) Status  (Code 267) Status stillend  (Code 268) Größe  (Code 262) Kreatinin  (Code 263) Geschlecht (Feld |
 | Entsprechend | Ggf. im Ausdruck | 2.13 | Gewicht (des/der | MP.O.w  Gewicht des/der Patient*in in |
 | Wenn nicht angegeben, | Inhalt identisch, | Im Druck „Gew.: {} kg“ | 2.14  Körpergröße | MP.O.h |
 | Körpergröße des/der | Inhalt identisch, | Im Druck „Größe: {} | 2.15  Kreatininwert | MP.O.c |
@@ -2821,67 +2178,67 @@ code Attribut (des/der Patient*in) (des/der Patient*in) Medikationsplans Arztnum
 | 2.9 | Telefonnummer | MP.A.p | Telefonnummer der aktuell | Absolut identisch mit |
 | 2.10 | E-Mail | MP.A.e | E-Mail-Adresse der aktuell | Entsprechend  Ggf. im Ausdruck |
 | 2.11 | Datum und | MP.A.t | Datum und Uhrzeit des | Inhalt identisch, |
-| 2.12 | Erläuterung zum |  | Aus den im Folgenden (2.13 6.2.2) unter Verwendung der  Schlüsselworte aus Tabelle   A 2.3  (Code 264) Allergien und  (Code 266) Status  (Code 267) Status stillend  (Code 268) Größe  (Code 262) Kreatinin  (Code 263) Geschlecht (Feld | Entsprechend  Ggf. im Ausdruck |
+| 2.12 | Erläuterung zum |  | Aus den im Folgenden (2.13 6.2.2) unter Verwendung der  A 2.3  :  (Code 264) Allergien und  (Code 266) Status  (Code 267) Status stillend  (Code 268) Größe  (Code 262) Kreatinin  (Code 263) Geschlecht (Feld | Entsprechend  Ggf. im Ausdruck |
 | 2.13 | Gewicht (des/der | MP.O.w | Gewicht des/der Patient*in in  Wenn nicht angegeben, | Inhalt identisch,  Im Druck „Gew.: {} kg“ |
 | 2.14 | Körpergröße | MP.O.h | Körpergröße des/der | Inhalt identisch,  Im Druck „Größe: {} |
 | 2.15 | Kreatininwert | MP.O.c | Kreatininwert des/der | Inhalt identisch,  Im Druck „Krea.: {} |
 | 2.9 | Telefonnummer | MP.A.p | Telefonnummer der aktuell | Absolut identisch mit  2.10  E-Mail |
 | MP.A.e | E-Mail-Adresse der aktuell | Entsprechend | Ggf. im Ausdruck | 2.11  Datum und |
 | MP.A.t | Datum und Uhrzeit des | Inhalt identisch, | 2.12 | Erläuterung zum |
-| Aus den im Folgenden (2.13 | 6.2.2) unter Verwendung der | Schlüsselworte aus Tabelle | A 2.3  (Code 264) Allergien und  (Code 266) Status  (Code 267) Status stillend  (Code 268) Größe | (Code 262) Kreatinin  (Code 263) Geschlecht (Feld |
+| Aus den im Folgenden (2.13 | 6.2.2 | ) unter Verwendung der | A 2.3  :  (Code 264) Allergien und  (Code 266) Status  (Code 267) Status stillend  (Code 268) Größe | (Code 262) Kreatinin  (Code 263) Geschlecht (Feld |
 | 2.9 | Telefonnummer | MP.A.p | Telefonnummer der aktuell  Absolut identisch mit | 2.10  E-Mail |
 | MP.A.e | E-Mail-Adresse der aktuell | Entsprechend | Ggf. im Ausdruck  2.11  Datum und | MP.A.t |
 | Datum und Uhrzeit des | Inhalt identisch, | 2.12 | Erläuterung zum | Aus den im Folgenden (2.13 |
-| 6.2.2) unter Verwendung der | Schlüsselworte aus Tabelle | A 2.3 | (Code 264) Allergien und | (Code 266) Status  (Code 267) Status stillend  (Code 268) Größe |
+| 6.2.2 | ) unter Verwendung der | A 2.3 | :  (Code 264) Allergien und | (Code 266) Status  (Code 267) Status stillend  (Code 268) Größe |
 | 2.9 | Telefonnummer | MP.A.p | Telefonnummer der aktuell  Absolut identisch mit  2.10 | E-Mail |
 | MP.A.e | E-Mail-Adresse der aktuell | Entsprechend | Ggf. im Ausdruck  2.11  Datum und | MP.A.t |
 | Datum und Uhrzeit des | Inhalt identisch, | 2.12 | Erläuterung zum | Aus den im Folgenden (2.13 |
-| 6.2.2) unter Verwendung der | Schlüsselworte aus Tabelle | A 2.3 | (Code 264) Allergien und  (Code 266) Status | (Code 267) Status stillend |
+| 6.2.2 | ) unter Verwendung der | A 2.3 | :  (Code 264) Allergien und  (Code 266) Status | (Code 267) Status stillend |
 | 2.9 | Telefonnummer | MP.A.p | Telefonnummer der aktuell  Absolut identisch mit  2.10 | E-Mail |
 | MP.A.e | E-Mail-Adresse der aktuell | Entsprechend | Ggf. im Ausdruck  2.11  Datum und | MP.A.t |
-| Datum und Uhrzeit des | Inhalt identisch, | 2.12 | Erläuterung zum    Aus den im Folgenden (2.13 | 6.2.2) unter Verwendung der |
-| Schlüsselworte aus Tabelle | A 2.3 |  | (Code 264) Allergien und  (Code 266) Status  (Code 267) Status stillend | (Code 268) Größe |
+| Datum und Uhrzeit des | Inhalt identisch, | 2.12 | Erläuterung zum    Aus den im Folgenden (2.13 | 6.2.2 |
+| ) unter Verwendung der | A 2.3 | : | (Code 264) Allergien und  (Code 266) Status  (Code 267) Status stillend | (Code 268) Größe |
 | 2.9 | Telefonnummer | MP.A.p | Telefonnummer der aktuell  Absolut identisch mit | 2.10 |
 | E-Mail | MP.A.e | E-Mail-Adresse der aktuell | Entsprechend  Ggf. im Ausdruck | 2.11  Datum und |
 | MP.A.t | Datum und Uhrzeit des | Inhalt identisch, | 2.12  Erläuterung zum |  |
-| Aus den im Folgenden (2.13 | 6.2.2) unter Verwendung der | Schlüsselworte aus Tabelle | A 2.3 | (Code 264) Allergien und |
+| Aus den im Folgenden (2.13 | 6.2.2 | ) unter Verwendung der | A 2.3  : | (Code 264) Allergien und |
 | (Code 266) Status | (Code 267) Status stillend | (Code 268) Größe | (Code 262) Kreatinin  (Code 263) Geschlecht (Feld | Entsprechend |
 | 2.9 | Telefonnummer | MP.A.p  Telefonnummer der aktuell | Absolut identisch mit  2.10  E-Mail  MP.A.e | E-Mail-Adresse der aktuell |
-| Entsprechend | Ggf. im Ausdruck | 2.11 | Datum und  MP.A.t  Datum und Uhrzeit des  Inhalt identisch,  2.12  Erläuterung zum | Aus den im Folgenden (2.13 6.2.2) unter Verwendung der  Schlüsselworte aus Tabelle   A 2.3 |
-|  | (Code 264) Allergien und | (Code 266) Status | (Code 267) Status stillend  (Code 268) Größe | (Code 262) Kreatinin |
+| Entsprechend | Ggf. im Ausdruck | 2.11 | Datum und  MP.A.t  Datum und Uhrzeit des  Inhalt identisch,  2.12  Erläuterung zum | Aus den im Folgenden (2.13 6.2.2) unter Verwendung der  A 2.3 |
+| : | (Code 264) Allergien und | (Code 266) Status | (Code 267) Status stillend  (Code 268) Größe | (Code 262) Kreatinin |
 | (Code 263) Geschlecht (Feld | Entsprechend | Ggf. im Ausdruck | 2.13  Gewicht (des/der  MP.O.w  Gewicht des/der Patient*in in  Wenn nicht angegeben,  Inhalt identisch, | Im Druck „Gew.: {} kg“ |
 | 2.9 | Telefonnummer | MP.A.p | Telefonnummer der aktuell  Absolut identisch mit  2.10  E-Mail  MP.A.e  E-Mail-Adresse der aktuell | Entsprechend |
 | Ggf. im Ausdruck | 2.11 | Datum und | MP.A.t  Datum und Uhrzeit des | Inhalt identisch, |
-| 2.12 | Erläuterung zum |  | Aus den im Folgenden (2.13 6.2.2) unter Verwendung der  Schlüsselworte aus Tabelle | A 2.3 |
-|  | (Code 264) Allergien und | (Code 266) Status | (Code 267) Status stillend  (Code 268) Größe | (Code 262) Kreatinin |
+| 2.12 | Erläuterung zum |  | Aus den im Folgenden (2.13 6.2.2) unter Verwendung der | A 2.3 |
+| : | (Code 264) Allergien und | (Code 266) Status | (Code 267) Status stillend  (Code 268) Größe | (Code 262) Kreatinin |
 | (Code 263) Geschlecht (Feld | Entsprechend | Ggf. im Ausdruck | 2.13 | Gewicht (des/der |
 
-code Attribut Ausdruckes Parameterblock Patient*in) Patient*in) Patient*in) ausdruckenden Person/Institution ausdruckenden Person/Institution Medikationsplan-Ausdrucks. 2.20) beschriebenen Attributen werden  soweit vorhanden  im Ausdruck 3 Textpassagen zu je 25 Zeichen erzeugt (vgl. Kap. Schlüsselworte: Unverträglichkeiten schwanger (Code 261) Gewicht 6.5, aus Feld MP.P) kg. muss das Attribut weggelassen werden. Patient*in in cm. muss das Attribut weggelassen werden. Patient*in in mg/dl. muss das Attribut weggelassen werden. gekürzt Format angepasst. Sekunden werden nicht ausgedruckt. gekürzt Format angepasst. Format angepasst. cm“ Format angepasst. mg/dl“
+code Attribut Ausdruckes Parameterblock Patient*in) Patient*in) Patient*in) ausdruckenden Person/Institution ausdruckenden Person/Institution Medikationsplan-Ausdrucks. 2.20) beschriebenen Attributen werden  soweit vorhanden  im Ausdruck 3 Textpassagen zu je 25 Zeichen erzeugt (vgl. Kap. Schlüsselworte aus Tabelle  Schlüsselworte Unverträglichkeiten schwanger (Code 261) Gewicht 6.5, aus Feld MP.P) kg. muss das Attribut weggelassen werden. Patient*in in cm. muss das Attribut weggelassen werden. Patient*in in mg/dl. muss das Attribut weggelassen werden. gekürzt Format angepasst. Sekunden werden nicht ausgedruckt. gekürzt Format angepasst. Format angepasst. cm“ Format angepasst. mg/dl“
 
 ---
 
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck ** 2.16 |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck  2.16 |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
 |---|---|---|---|---|
 | Allergien & | MP.O.ai | Allergie(n) & | Inhalt identisch, | Im Druck „Allerg./Unv.: |
 | Mehrere Allergien oder | 2.18 | Stillend | MP.O.b | Information darüber, ob die |
 | Inhalt identisch, | Im Druck, falls | 2.19 | Schwanger | MP.O.p |
 | Information darüber, ob die | Inhalt identisch, | Im Druck, falls | 2.20 | Parameter |
-| MP.O.x | Freitext, um Parameter zu | Darf maximal 2 Umbrüche |  |  |
-| Zeilenumbrüche). |  | Entsprechend | Ggf. im Ausdruck |  |
+| MP.O.x | Freitext, um Parameter zu | Darf maximal 2 Umbrüche | 7.3.5 |  |
+| Zeilenumbrüche | ). | Entsprechend | Ggf. im Ausdruck |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 | 2.16 | Allergien & | MP.O.ai | Allergie(n) & | Inhalt identisch, |
-| Im Druck „Allerg./Unv.: | Mehrere Allergien oder | 2.18 | Stillend  MP.O.b  Information darüber, ob die  Inhalt identisch,  Im Druck, falls  2.19  Schwanger  MP.O.p  Information darüber, ob die  Inhalt identisch, | Im Druck, falls  2.20  Parameter  MP.O.x  Freitext, um Parameter zu  Darf maximal 2 Umbrüche  Zeilenumbrüche).  Entsprechend  Ggf. im Ausdruck |
+| Im Druck „Allerg./Unv.: | Mehrere Allergien oder | 2.18 | Stillend  MP.O.b  Information darüber, ob die  Inhalt identisch,  Im Druck, falls  2.19  Schwanger  MP.O.p  Information darüber, ob die  Inhalt identisch, | Im Druck, falls  2.20  Parameter  MP.O.x  Freitext, um Parameter zu  Darf maximal 2 Umbrüche  7.3.5  Zeilenumbrüche).  Entsprechend  Ggf. im Ausdruck |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
@@ -2892,67 +2249,67 @@ code Attribut Ausdruckes Parameterblock Patient*in) Patient*in) Patient*in) ausd
 | 2.16 | Allergien & | MP.O.ai | Allergie(n) & | Inhalt identisch, |
 | Im Druck „Allerg./Unv.: | Mehrere Allergien oder | 2.18 | Stillend | MP.O.b  Information darüber, ob die |
 | Inhalt identisch, | Im Druck, falls | 2.19 | Schwanger | MP.O.p |
-| Information darüber, ob die | Inhalt identisch, | Im Druck, falls | 2.20  Parameter  MP.O.x  Freitext, um Parameter zu  Darf maximal 2 Umbrüche  Zeilenumbrüche).  Entsprechend  Ggf. im Ausdruck |  |
+| Information darüber, ob die | Inhalt identisch, | Im Druck, falls | 2.20  Parameter  MP.O.x  Freitext, um Parameter zu  Darf maximal 2 Umbrüche  7.3.5  Zeilenumbrüche).  Entsprechend  Ggf. im Ausdruck |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 | 2.16 | Allergien & | MP.O.ai | Allergie(n) & | Inhalt identisch,  Im Druck „Allerg./Unv.:  Mehrere Allergien oder |
 | 2.18 | Stillend | MP.O.b | Information darüber, ob die | Inhalt identisch,  Im Druck, falls |
 | 2.19 | Schwanger | MP.O.p | Information darüber, ob die | Inhalt identisch,  Im Druck, falls |
-| 2.20 | Parameter | MP.O.x | Freitext, um Parameter zu  Darf maximal 2 Umbrüche  Zeilenumbrüche). | Entsprechend  Ggf. im Ausdruck |
+| 2.20 | Parameter | MP.O.x | Freitext, um Parameter zu  Darf maximal 2 Umbrüche  7.3.5  Zeilenumbrüche). | Entsprechend  Ggf. im Ausdruck |
 | 2.16 | Allergien & | MP.O.ai | Allergie(n) &  Inhalt identisch, | Im Druck „Allerg./Unv.:  Mehrere Allergien oder |
 | 2.18 | Stillend | MP.O.b | Information darüber, ob die  Inhalt identisch,  Im Druck, falls | 2.19 |
 | Schwanger | MP.O.p | Information darüber, ob die | Inhalt identisch,  Im Druck, falls | 2.20 |
-| Parameter | MP.O.x | Freitext, um Parameter zu | Darf maximal 2 Umbrüche | Zeilenumbrüche). |
+| Parameter | MP.O.x | Freitext, um Parameter zu | Darf maximal 2 Umbrüche  7.3.5 | Zeilenumbrüche). |
 | 2.16 | Allergien & | MP.O.ai | Allergie(n) &  Inhalt identisch,  Im Druck „Allerg./Unv.: | Mehrere Allergien oder |
 | 2.18 | Stillend | MP.O.b | Information darüber, ob die  Inhalt identisch,  Im Druck, falls | 2.19 |
 | Schwanger | MP.O.p | Information darüber, ob die | Inhalt identisch, | Im Druck, falls  2.20 |
-| Parameter | MP.O.x | Freitext, um Parameter zu | Darf maximal 2 Umbrüche | Zeilenumbrüche). |
+| Parameter | MP.O.x | Freitext, um Parameter zu | Darf maximal 2 Umbrüche  7.3.5 | Zeilenumbrüche |
 | 2.16 | Allergien & | MP.O.ai | Allergie(n) &  Inhalt identisch,  Im Druck „Allerg./Unv.: | Mehrere Allergien oder |
 | 2.18 | Stillend | MP.O.b | Information darüber, ob die  Inhalt identisch,  Im Druck, falls | 2.19 |
 | Schwanger | MP.O.p | Information darüber, ob die | Inhalt identisch,  Im Druck, falls  2.20 | Parameter |
-| MP.O.x | Freitext, um Parameter zu | Darf maximal 2 Umbrüche | Zeilenumbrüche). |  |
+| MP.O.x | Freitext, um Parameter zu | Darf maximal 2 Umbrüche | 7.3.5  Zeilenumbrüche | ). |
 | 2.16 | Allergien & | MP.O.ai | Allergie(n) &  Inhalt identisch, | Im Druck „Allerg./Unv.: |
 | Mehrere Allergien oder | 2.18 | Stillend | MP.O.b  Information darüber, ob die | Inhalt identisch,  Im Druck, falls |
 | 2.19 | Schwanger | MP.O.p | Information darüber, ob die  Inhalt identisch, | Im Druck, falls |
-| 2.20 | Parameter | MP.O.x | Freitext, um Parameter zu  Darf maximal 2 Umbrüche |  |
-|  | Zeilenumbrüche). |  | Entsprechend  Ggf. im Ausdruck |  |
+| 2.20 | Parameter | MP.O.x | Freitext, um Parameter zu  Darf maximal 2 Umbrüche | 7.3.5 |
+|  | Zeilenumbrüche | ). | Entsprechend  Ggf. im Ausdruck |  |
 | 2.16 | Allergien & | MP.O.ai  Allergie(n) & | Inhalt identisch,  Im Druck „Allerg./Unv.:  Mehrere Allergien oder  2.18 | Stillend |
 | MP.O.b | Information darüber, ob die | Inhalt identisch, | Im Druck, falls  2.19  Schwanger  MP.O.p  Information darüber, ob die  Inhalt identisch,  Im Druck, falls | 2.20  Parameter  MP.O.x  Freitext, um Parameter zu |
-| Darf maximal 2 Umbrüche |  |  | Zeilenumbrüche). | Entsprechend |
+| Darf maximal 2 Umbrüche | 7.3.5 |  | Zeilenumbrüche). | Entsprechend |
 | Ggf. im Ausdruck |  |  |  |  |
 | 2.16 | Allergien & | MP.O.ai | Allergie(n) &  Inhalt identisch,  Im Druck „Allerg./Unv.:  Mehrere Allergien oder  2.18  Stillend | MP.O.b |
 | Information darüber, ob die | Inhalt identisch, | Im Druck, falls | 2.19  Schwanger | MP.O.p |
 | Information darüber, ob die | Inhalt identisch, | Im Druck, falls | 2.20  Parameter  MP.O.x | Freitext, um Parameter zu |
-| Darf maximal 2 Umbrüche |  |  | Zeilenumbrüche). | Entsprechend |
+| Darf maximal 2 Umbrüche | 7.3.5 |  | Zeilenumbrüche). | Entsprechend |
 | Ggf. im Ausdruck |  |  |  |  |
 
-code Unverträglich- keiten (des/der Patient*in) Attribut Unverträglichkeiten des/der Patient*in. Wenn nicht angegeben, muss das Attribut weggelassen werden. Patientin aktuell stillend ist. Wenn zutreffend, ist der Wert „1“ zu setzen. Wenn nicht zutreffend, muss das Attribut weggelassen werden. Patientin aktuell schwanger ist. Wenn zutreffend ist der Wert „1“ zu setzen. Wenn nicht zutreffend, muss das Attribut weggelassen werden. Dieser Zustand bedeutet, dass keine Aussage über den Zustand getroffen werden kann. ergänzen. Wenn nicht angegeben, muss das Attribut weggelassen werden. enthalten „~“. Zwischen Beginn und erstem Umbruch bzw. zwischen erstem Umbruch und zweitem Umbruch dürfen max. je 25 Zeichen enthalten sein. Das Verwenden des Tildezeichens „~“ ist bei der Eingabe des Freitextes nicht erlaubt (Kap. 7.3.5 Format angepasst. {}“ Unverträglichkeiten sollen durch ein Komma ohne ohne Leerzeichen getrennt werden Format angepasst. zutreffend, „stillend“ drucken. Format angepasst. zutreffend, „schwanger“ drucken. gekürzt
+code Unverträglich- keiten (des/der Patient*in) Attribut Unverträglichkeiten des/der Patient*in. Wenn nicht angegeben, muss das Attribut weggelassen werden. Patientin aktuell stillend ist. Wenn zutreffend, ist der Wert „1“ zu setzen. Wenn nicht zutreffend, muss das Attribut weggelassen werden. Patientin aktuell schwanger ist. Wenn zutreffend ist der Wert „1“ zu setzen. Wenn nicht zutreffend, muss das Attribut weggelassen werden. Dieser Zustand bedeutet, dass keine Aussage über den Zustand getroffen werden kann. ergänzen. Wenn nicht angegeben, muss das Attribut weggelassen werden. enthalten „~“. Zwischen Beginn und erstem Umbruch bzw. zwischen erstem Umbruch und zweitem Umbruch dürfen max. je 25 Zeichen enthalten sein. Das Verwenden des Tildezeichens „~“ ist bei der Eingabe des Freitextes nicht erlaubt (Kap. Format angepasst. {}“ Unverträglichkeiten sollen durch ein Komma ohne ohne Leerzeichen getrennt werden Format angepasst. zutreffend, „stillend“ drucken. Format angepasst. zutreffend, „schwanger“ drucken. gekürzt
 
 ---
 
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck ** 4.0 |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck  4.0 |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
 |---|---|---|---|---|
 | Modifizierte PZN | MP.S.M.p | Pharmazentralnummer einer | PZNs werden als Ganzzahl | Keine Entsprechung |
 | Über die PZN werden | 4.1 | Wirkstoff | MP.S.M.W.w | Bezeichnung eines oder |
-| 7.3.7 sind anzuwenden. |  | Inhalt identisch, | 4.2 | Arzneimittelname |
+| 7.3.7 | sind anzuwenden. | Inhalt identisch, | 4.2 | Arzneimittelname |
 | MP.S.M.a | Bezeichnung (Handelsname) | Der Handelsname kann | Absolut identisch zum | 4.3 |
 | Wirkstärke | MP.S.M.W.s | Angabe der Wirkstärke und | Die Wirkstärke kann definiert | Inhalt identisch, |
-|  | ) |  |  |  |
+| A 2.10 | ) |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 | 4.0 | Modifizierte PZN | MP.S.M.p | Pharmazentralnummer einer | PZNs werden als Ganzzahl |
-| Keine Entsprechung | Über die PZN werden | 4.1 | Wirkstoff  MP.S.M.W.w  Bezeichnung eines oder  7.3.7 sind anzuwenden.  Inhalt identisch,  4.2  Arzneimittelname  MP.S.M.a  Bezeichnung (Handelsname) | Der Handelsname kann  Absolut identisch zum  4.3  Wirkstärke  MP.S.M.W.s  Angabe der Wirkstärke und  Die Wirkstärke kann definiert  Inhalt identisch,    ) |
+| Keine Entsprechung | Über die PZN werden | 4.1 | Wirkstoff  MP.S.M.W.w  Bezeichnung eines oder  7.3.7 sind anzuwenden.  Inhalt identisch,  4.2  Arzneimittelname  MP.S.M.a  Bezeichnung (Handelsname) | Der Handelsname kann  Absolut identisch zum  4.3  Wirkstärke  MP.S.M.W.s  Angabe der Wirkstärke und  Die Wirkstärke kann definiert  Inhalt identisch,  A 2.10  ) |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
@@ -2962,56 +2319,56 @@ code Unverträglich- keiten (des/der Patient*in) Attribut Unverträglichkeiten d
 |  |  |  |  |  |
 | 4.0 | Modifizierte PZN | MP.S.M.p | Pharmazentralnummer einer | PZNs werden als Ganzzahl |
 | Keine Entsprechung | Über die PZN werden | 4.1 | Wirkstoff | MP.S.M.W.w  Bezeichnung eines oder |
-| 7.3.7 sind anzuwenden. |  | Inhalt identisch, | 4.2 | Arzneimittelname |
-| MP.S.M.a | Bezeichnung (Handelsname) | Der Handelsname kann | Absolut identisch zum  4.3  Wirkstärke  MP.S.M.W.s  Angabe der Wirkstärke und  Die Wirkstärke kann definiert  Inhalt identisch,    ) |  |
+| 7.3.7 | sind anzuwenden. | Inhalt identisch, | 4.2 | Arzneimittelname |
+| MP.S.M.a | Bezeichnung (Handelsname) | Der Handelsname kann | Absolut identisch zum  4.3  Wirkstärke  MP.S.M.W.s  Angabe der Wirkstärke und  Die Wirkstärke kann definiert  Inhalt identisch,  A 2.10  ) |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 | 4.0 | Modifizierte PZN | MP.S.M.p | Pharmazentralnummer einer | PZNs werden als Ganzzahl  Keine Entsprechung  Über die PZN werden |
 | 4.1 | Wirkstoff | MP.S.M.W.w | Bezeichnung eines oder | 7.3.7 sind anzuwenden. |
 | Inhalt identisch, | 4.2 | Arzneimittelname | MP.S.M.a | Bezeichnung (Handelsname)  Der Handelsname kann |
-| Absolut identisch zum | 4.3 | Wirkstärke | MP.S.M.W.s  Angabe der Wirkstärke und  Die Wirkstärke kann definiert  Inhalt identisch,    ) |  |
+| Absolut identisch zum | 4.3 | Wirkstärke | MP.S.M.W.s  Angabe der Wirkstärke und  Die Wirkstärke kann definiert  Inhalt identisch,  A 2.10  ) |  |
 | 4.0 | Modifizierte PZN | MP.S.M.p | Pharmazentralnummer einer  PZNs werden als Ganzzahl | Keine Entsprechung  Über die PZN werden |
 | 4.1 | Wirkstoff | MP.S.M.W.w | Bezeichnung eines oder  7.3.7 sind anzuwenden. | Inhalt identisch, |
 | 4.2 | Arzneimittelname | MP.S.M.a | Bezeichnung (Handelsname)  Der Handelsname kann | Absolut identisch zum |
-| 4.3 | Wirkstärke | MP.S.M.W.s | Angabe der Wirkstärke und  Die Wirkstärke kann definiert | Inhalt identisch,    ) |
+| 4.3 | Wirkstärke | MP.S.M.W.s | Angabe der Wirkstärke und  Die Wirkstärke kann definiert | Inhalt identisch,  A 2.10  ) |
 | 4.0 | Modifizierte PZN | MP.S.M.p | Pharmazentralnummer einer  PZNs werden als Ganzzahl  Keine Entsprechung | Über die PZN werden |
 | 4.1 | Wirkstoff | MP.S.M.W.w | Bezeichnung eines oder  7.3.7 sind anzuwenden. | Inhalt identisch, |
 | 4.2 | Arzneimittelname | MP.S.M.a | Bezeichnung (Handelsname) | Der Handelsname kann  Absolut identisch zum |
-| 4.3 | Wirkstärke | MP.S.M.W.s | Angabe der Wirkstärke und  Die Wirkstärke kann definiert  Inhalt identisch, |  |
+| 4.3 | Wirkstärke | MP.S.M.W.s | Angabe der Wirkstärke und  Die Wirkstärke kann definiert  Inhalt identisch, | A 2.10 |
 | 4.0 | Modifizierte PZN | MP.S.M.p | Pharmazentralnummer einer  PZNs werden als Ganzzahl  Keine Entsprechung | Über die PZN werden |
 | 4.1 | Wirkstoff | MP.S.M.W.w | Bezeichnung eines oder  7.3.7 sind anzuwenden. | Inhalt identisch, |
 | 4.2 | Arzneimittelname | MP.S.M.a | Bezeichnung (Handelsname)  Der Handelsname kann  Absolut identisch zum | 4.3 |
-| Wirkstärke | MP.S.M.W.s | Angabe der Wirkstärke und | Die Wirkstärke kann definiert  Inhalt identisch, | ) |
+| Wirkstärke | MP.S.M.W.s | Angabe der Wirkstärke und | Die Wirkstärke kann definiert  Inhalt identisch,  A 2.10 | ) |
 | 4.0 | Modifizierte PZN | MP.S.M.p | Pharmazentralnummer einer  PZNs werden als Ganzzahl | Keine Entsprechung |
 | Über die PZN werden | 4.1 | Wirkstoff | MP.S.M.W.w  Bezeichnung eines oder | 7.3.7 sind anzuwenden. |
 | Inhalt identisch, | 4.2 | Arzneimittelname | MP.S.M.a  Bezeichnung (Handelsname) | Der Handelsname kann |
 | Absolut identisch zum | 4.3 | Wirkstärke | MP.S.M.W.s  Angabe der Wirkstärke und | Die Wirkstärke kann definiert |
-| Inhalt identisch, |  | ) |  |  |
+| Inhalt identisch, | A 2.10 | ) |  |  |
 | 4.0 | Modifizierte PZN | MP.S.M.p  Pharmazentralnummer einer | PZNs werden als Ganzzahl  Keine Entsprechung  Über die PZN werden  4.1 | Wirkstoff |
-| MP.S.M.W.w | Bezeichnung eines oder | 7.3.7 sind anzuwenden. | Inhalt identisch,  4.2  Arzneimittelname  MP.S.M.a  Bezeichnung (Handelsname)  Der Handelsname kann | Absolut identisch zum  4.3  Wirkstärke  MP.S.M.W.s |
-| Angabe der Wirkstärke und | Die Wirkstärke kann definiert | Inhalt identisch, | ) |  |
+| MP.S.M.W.w | Bezeichnung eines oder | 7.3.7 | sind anzuwenden.  Inhalt identisch,  4.2  Arzneimittelname  MP.S.M.a  Bezeichnung (Handelsname)  Der Handelsname kann | Absolut identisch zum  4.3  Wirkstärke  MP.S.M.W.s |
+| Angabe der Wirkstärke und | Die Wirkstärke kann definiert | Inhalt identisch, | A 2.10  ) |  |
 |  |  |  |  |  |
 | 4.0 | Modifizierte PZN | MP.S.M.p | Pharmazentralnummer einer  PZNs werden als Ganzzahl  Keine Entsprechung  Über die PZN werden  4.1  Wirkstoff | MP.S.M.W.w |
-| Bezeichnung eines oder | 7.3.7 sind anzuwenden. |  | Inhalt identisch,  4.2 | Arzneimittelname |
+| Bezeichnung eines oder | 7.3.7 | sind anzuwenden. | Inhalt identisch,  4.2 | Arzneimittelname |
 | MP.S.M.a | Bezeichnung (Handelsname) | Der Handelsname kann | Absolut identisch zum  4.3  Wirkstärke | MP.S.M.W.s |
-| Angabe der Wirkstärke und | Die Wirkstärke kann definiert | Inhalt identisch, | ) |  |
+| Angabe der Wirkstärke und | Die Wirkstärke kann definiert | Inhalt identisch, | A 2.10  ) |  |
 |  |  |  |  |  |
 
-code Attribut Fertigarzneimittelpackung. (Bereich 1.. 99999999) ohne führende Nullen übertragen. Zur Darstellung und Verarbeitung werden ggf. führende Nullen ergänzt und angezeigt (8-stellige PZN). mehrerer Wirkstoffe. Der Wirkstoffname kann definiert oder fehlend sein (wenn fehlend, ggf. bei Ausdruck aus der PZN ableiten). Die Regeln aus eines Arzneimittels, ggf. eines (Medizin-)Produktes oder Präparates nach Anhang 1. definiert oder fehlend sein (wenn fehlend, ggf. bei Ausdruck aus der PZN ableiten). der Wirkstärkeneinheit des jeweils zugehörigen Wirkstoffes/der jeweils zugehörigen Wirkstoffe. oder fehlend sein (wenn fehlend, ggf. bei Ausdruck aus der PZN ableiten). Inhalte für den Ausdruck aus der AM- Datenbank abgeleitet. Format angepasst. Format angepasst. (Kap. A 2.10 Schreibweise
+code Attribut Fertigarzneimittelpackung. (Bereich 1.. 99999999) ohne führende Nullen übertragen. Zur Darstellung und Verarbeitung werden ggf. führende Nullen ergänzt und angezeigt (8-stellige PZN). mehrerer Wirkstoffe. Der Wirkstoffname kann definiert oder fehlend sein (wenn fehlend, ggf. bei Ausdruck aus der PZN ableiten). Die Regeln aus eines Arzneimittels, ggf. eines (Medizin-)Produktes oder Präparates nach Anhang 1. definiert oder fehlend sein (wenn fehlend, ggf. bei Ausdruck aus der PZN ableiten). der Wirkstärkeneinheit des jeweils zugehörigen Wirkstoffes/der jeweils zugehörigen Wirkstoffe. oder fehlend sein (wenn fehlend, ggf. bei Ausdruck aus der PZN ableiten). Inhalte für den Ausdruck aus der AM- Datenbank abgeleitet. Format angepasst. Format angepasst. (Kap. Schreibweise
 
 ---
 
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck ** 4.4 |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck  4.4 |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
 |---|---|---|---|---|
 | Darreichungsform | MP.S.M.f | Bezeichnung einer | Die Darreichungsform kann | Darf nicht gleichzeitig mit |
 | Absolut identisch zum | 4.4 | Darreichungsform | MP.S.M.fd | Bezeichnung einer |
@@ -3073,16 +2430,16 @@ code Darreichungsform gemäß der Referenzdatenbank nach § 31b SGB V definiert 
 
 ---
 
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck ** 4.5 |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck  4.5 |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
 |---|---|---|---|---|
 | Morgens | MP.S.M.m | Stellt die Einnahmedosis | Wenn Attribut fehlt, | Darf nicht gleichzeitig mit |
 | Inhalt identisch, | 4.5 | Mittags | MP.S.M.d | Stellt die Einnahmedosis |
@@ -3144,16 +2501,16 @@ code des/der Patient*in am Format angepasst. Morgen dar. „0“ im Ausdruck. MP
 
 ---
 
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck ** 4.5 |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck  4.5 |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
 |---|---|---|---|---|
 | Freitextdosierung | MP.S.M.t | Stellt die Freitextdosierung | Darf nicht gleichzeitig mit | Absolut identisch mit |
 | 4.6 | Dosiereinheit | MP.S.M.du | Bezeichnung einer | Darf nicht gleichzeitig mit |
@@ -3215,16 +2572,16 @@ code grund Attribut des/der Patient*in dar. MP.S.M.m (= morgens), MP.S.M.d (= mi
 
 ---
 
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck ** 4.9 |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck  4.9 |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
 |---|---|---|---|---|
 | Gebundene | MP.S.M.x |  | Allgemeine Hinweise, die | Darf maximal 1 Umbruch |
 |  | Das Attribut MP.S.M.x darf | Absolut identisch mit | 5.1 | Zwischenüber- |
@@ -3232,13 +2589,13 @@ code grund Attribut des/der Patient*in dar. MP.S.M.m (= morgens), MP.S.M.d (= mi
 |  |  | Darf nicht gleichzeitig mit | Inhalt identisch, |  |
 | Tabelle | ) | 5.1 | Freitextzwischen- | MP.S.t |
 | Eine von den Anwendenden | Darf nicht gleichzeitig mit | Absolut identisch mit | 5.2 | Freitextzeile  MP.S.X.t |
-| Allgemeine Hinweise, die | Darf maximal 1 Umbruch |  |  | Zeilenumbrüche) |
+| Allgemeine Hinweise, die | Darf maximal 1 Umbruch | 7.3.5 |  | Zeilenumbrüche) |
 | Absolut identisch mit |  |  |  |  |
 |  |  |  |  |  |
 | 4.9 | Gebundene | MP.S.M.x |  | Allgemeine Hinweise, die |
-| Darf maximal 1 Umbruch |  | Das Attribut MP.S.M.x darf | Absolut identisch mit  5.1  Zwischenüber- MP.S.c  Standardzwischenüberschrift  Vgl. Anhang 2,   Tabelle 6: Schlüsselworte für | Darf nicht gleichzeitig mit  Inhalt identisch,  Tabelle  ) 5.1  Freitextzwischen- MP.S.t  Eine von den Anwendenden  Darf nicht gleichzeitig mit  Absolut identisch mit  5.2 |
-| Freitextzeile | MP.S.X.t | Allgemeine Hinweise, die | Darf maximal 1 Umbruch |  |
-| Zeilenumbrüche) |  | Absolut identisch mit |  |  |
+| Darf maximal 1 Umbruch |  | Das Attribut MP.S.M.x darf | Absolut identisch mit  5.1  Zwischenüber- MP.S.c  Standardzwischenüberschrift  Vgl. Anhang 2,   Tabelle 6: Schlüsselworte für | Darf nicht gleichzeitig mit  Inhalt identisch,    Tabelle  ) 5.1  Freitextzwischen- MP.S.t  Eine von den Anwendenden  Darf nicht gleichzeitig mit  Absolut identisch mit  5.2 |
+| Freitextzeile | MP.S.X.t | Allgemeine Hinweise, die | Darf maximal 1 Umbruch | 7.3.5 |
+| Zeilenumbrüche | ) | Absolut identisch mit |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
@@ -3247,8 +2604,8 @@ code grund Attribut des/der Patient*in dar. MP.S.M.m (= morgens), MP.S.M.d (= mi
 | 4.9 | Gebundene | MP.S.M.x |  | Allgemeine Hinweise, die |
 | Darf maximal 1 Umbruch |  | Das Attribut MP.S.M.x darf | Absolut identisch mit | 5.1  Zwischenüber- |
 | MP.S.c | Standardzwischenüberschrift | Vgl. Anhang 2, |  | Tabelle 6: Schlüsselworte für |
-|  |  | Darf nicht gleichzeitig mit | Inhalt identisch,  Tabelle  ) 5.1  Freitextzwischen- MP.S.t  Eine von den Anwendenden  Darf nicht gleichzeitig mit  Absolut identisch mit  5.2 | Freitextzeile  MP.S.X.t |
-| Allgemeine Hinweise, die | Darf maximal 1 Umbruch |  | Zeilenumbrüche) | Absolut identisch mit |
+|  |  | Darf nicht gleichzeitig mit | Inhalt identisch,    Tabelle  ) 5.1  Freitextzwischen- MP.S.t  Eine von den Anwendenden  Darf nicht gleichzeitig mit  Absolut identisch mit  5.2 | Freitextzeile  MP.S.X.t |
+| Allgemeine Hinweise, die | Darf maximal 1 Umbruch | 7.3.5 | Zeilenumbrüche | )  Absolut identisch mit |
 |  |  |  |  |  |
 |  |  |  |  |  |
 | 4.9 | Gebundene | MP.S.M.x |  | Allgemeine Hinweise, die  Darf maximal 1 Umbruch |
@@ -3273,32 +2630,32 @@ code grund Attribut des/der Patient*in dar. MP.S.M.m (= morgens), MP.S.M.d (= mi
 | Inhalt identisch, |  | Tabelle | ) 5.1 | Freitextzwischen- |
 | MP.S.t | Eine von den Anwendenden | Darf nicht gleichzeitig mit | Absolut identisch mit  5.2 | Freitextzeile |
 | 4.9 | Gebundene | MP.S.M.x | Allgemeine Hinweise, die  Darf maximal 1 Umbruch    Das Attribut MP.S.M.x darf | Absolut identisch mit |
-| 5.1 | Zwischenüber- | MP.S.c | Standardzwischenüberschrift  Vgl. Anhang 2,   Tabelle 6: Schlüsselworte für       Darf nicht gleichzeitig mit | Inhalt identisch,  Tabelle  ) |
+| 5.1 | Zwischenüber- | MP.S.c | Standardzwischenüberschrift  Vgl. Anhang 2,   Tabelle 6: Schlüsselworte für       Darf nicht gleichzeitig mit | Inhalt identisch,    Tabelle  ) |
 | 5.1 | Freitextzwischen- | MP.S.t | Eine von den Anwendenden  Darf nicht gleichzeitig mit | Absolut identisch mit |
-| 5.2 | Freitextzeile | MP.S.X.t | Allgemeine Hinweise, die  Darf maximal 1 Umbruch  Zeilenumbrüche) | Absolut identisch mit |
+| 5.2 | Freitextzeile | MP.S.X.t | Allgemeine Hinweise, die  Darf maximal 1 Umbruch  7.3.5  Zeilenumbrüche) | Absolut identisch mit |
 | 4.9 | Gebundene | MP.S.M.x | Allgemeine Hinweise, die  Darf maximal 1 Umbruch    Das Attribut MP.S.M.x darf  Absolut identisch mit | 5.1 |
 | Zwischenüber- | MP.S.c | Standardzwischenüberschrift | Vgl. Anhang 2, | Tabelle 6: Schlüsselworte für |
-|  |  | Darf nicht gleichzeitig mit | Inhalt identisch,  Tabelle | ) |
+|  |  | Darf nicht gleichzeitig mit | Inhalt identisch,    Tabelle | ) |
 | 5.1 | Freitextzwischen- | MP.S.t | Eine von den Anwendenden  Darf nicht gleichzeitig mit | Absolut identisch mit |
 | 5.2 | Freitextzeile | MP.S.X.t | Allgemeine Hinweise, die | Darf maximal 1 Umbruch |
 
-code Zusatzzeile sich auf den vorhergehenden (Medikations- Medikationseintrag beziehen. eintrag) Der Medikationseintrag und die gebundene Zusatzzeile sind untrennbar aneinandergeknüpft. enthalten „~“. Das Verwenden des Tildezeichens „~“ ist bei der Eingabe des Freitextes durch den Endanwender nicht erlaubt. nur angegeben werden, wenn das Attribut MP.S.M.wo nicht angegeben ist. zur Kategorisierung der Format angepasst. Medikationen auf dem Plan. (Text-Code-Tabelle aus Anhang 2,  Zwischenüberschriften MP.S.t (= Freitextzwischen- überschrift) angegeben werden. frei definierte Zwischenüberschrift. MP.S.c angegeben werden. nicht einzelnen Medikationseinträgen zugewiesen sind. enthalten „~“. Das Verwenden des Tildezeichens „~“ ist bei der Eingabe des Freitextes durch den/die Endanwender*in nicht erlaubt. (Kap. 7.3.5
+code Zusatzzeile sich auf den vorhergehenden (Medikations- Medikationseintrag beziehen. eintrag) Der Medikationseintrag und die gebundene Zusatzzeile sind untrennbar aneinandergeknüpft. enthalten „~“. Das Verwenden des Tildezeichens „~“ ist bei der Eingabe des Freitextes durch den Endanwender nicht erlaubt. nur angegeben werden, wenn das Attribut MP.S.M.wo nicht angegeben ist. zur Kategorisierung der Format angepasst. Medikationen auf dem Plan. (Text-Code-Tabelle aus Anhang 2, Zwischenüberschriften MP.S.t (= Freitextzwischen- überschrift) angegeben werden. frei definierte Zwischenüberschrift. MP.S.c angegeben werden. nicht einzelnen Medikationseinträgen zugewiesen sind. enthalten „~“. Das Verwenden des Tildezeichens „~“ ist bei der Eingabe des Freitextes durch den/die Endanwender*in nicht erlaubt. (Kap.
 
 ---
 
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck ** 5.3 |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-\| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck  5.3 |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+\| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
+| Feld- | Bezeichnung | Datenfeld. | Beschreibung | Identität zu Ausdruck |
 |---|---|---|---|---|
-| Rezeptur | MP.S.R.t | Eintrag zu einer Rezeptur als | Darf maximal 1 Umbruch |  |
-|  | Zeilenumbrüche) |  | Absolut identisch mit | 5.4 |
+| Rezeptur | MP.S.R.t | Eintrag zu einer Rezeptur als | Darf maximal 1 Umbruch | 7.3.5 |
+|  | Zeilenumbrüche | ) | Absolut identisch mit | 5.4 |
 | Gebundene | MP.S.R.x | Allgemeine Hinweise, die | Darf maximal 1 Umbruch | Absolut identisch mit |
 | 6.1 | Versionsnummer | MP.v | Versionsnummer der | Format xxy, beim Druck wird |
 |  | Inhalt identisch, | 6.12 | Patchnummer | MP.p |
@@ -3307,7 +2664,7 @@ code Zusatzzeile sich auf den vorhergehenden (Medikations- Medikationseintrag be
 |  |  |  |  |  |
 |  |  |  |  |  |
 | 5.3 | Rezeptur | MP.S.R.t | Eintrag zu einer Rezeptur als | Darf maximal 1 Umbruch |
-|  |  | Zeilenumbrüche) | Absolut identisch mit  5.4  Gebundene  MP.S.R.x  Allgemeine Hinweise, die  Darf maximal 1 Umbruch  Absolut identisch mit  6.1  Versionsnummer | MP.v  Versionsnummer der  Format xxy, beim Druck wird    Inhalt identisch,  6.12  Patchnummer   MP.p  Versionsnummer der  Eine fortlaufende Nummer 0 - Keine Entsprechung  6.3 |
+| 7.3.5 |  | Zeilenumbrüche | )  Absolut identisch mit  5.4  Gebundene  MP.S.R.x  Allgemeine Hinweise, die  Darf maximal 1 Umbruch  Absolut identisch mit  6.1  Versionsnummer | MP.v  Versionsnummer der  Format xxy, beim Druck wird    Inhalt identisch,  6.12  Patchnummer   MP.p  Versionsnummer der  Eine fortlaufende Nummer 0 - Keine Entsprechung  6.3 |
 | Sprachkenn- | MP.l | nach RFC-3066 (ISO 631- | Absolut identisch mit |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
@@ -3316,44 +2673,44 @@ code Zusatzzeile sich auf den vorhergehenden (Medikations- Medikationseintrag be
 |  |  |  |  |  |
 |  |  |  |  |  |
 | 5.3 | Rezeptur | MP.S.R.t | Eintrag zu einer Rezeptur als | Darf maximal 1 Umbruch |
-|  |  | Zeilenumbrüche) |  | Absolut identisch mit  5.4 |
+| 7.3.5 |  | Zeilenumbrüche | ) | Absolut identisch mit  5.4 |
 | Gebundene | MP.S.R.x | Allgemeine Hinweise, die | Darf maximal 1 Umbruch | Absolut identisch mit |
 | 6.1 | Versionsnummer | MP.v | Versionsnummer der  Format xxy, beim Druck wird    Inhalt identisch,  6.12  Patchnummer   MP.p  Versionsnummer der  Eine fortlaufende Nummer 0 - Keine Entsprechung  6.3 | Sprachkenn- MP.l |
 | nach RFC-3066 (ISO 631- | Absolut identisch mit |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
-| 5.3 | Rezeptur | MP.S.R.t | Eintrag zu einer Rezeptur als | Darf maximal 1 Umbruch |
-| Zeilenumbrüche) |  | Absolut identisch mit | 5.4 | Gebundene  MP.S.R.x |
+| 5.3 | Rezeptur | MP.S.R.t | Eintrag zu einer Rezeptur als | Darf maximal 1 Umbruch  7.3.5 |
+| Zeilenumbrüche | ) | Absolut identisch mit | 5.4 | Gebundene  MP.S.R.x |
 | Allgemeine Hinweise, die | Darf maximal 1 Umbruch | Absolut identisch mit | 6.1 | Versionsnummer   MP.v |
 | Versionsnummer der | Format xxy, beim Druck wird |  | Inhalt identisch,  6.12  Patchnummer   MP.p  Versionsnummer der  Eine fortlaufende Nummer 0 - | Keine Entsprechung  6.3 |
-| 5.3 | Rezeptur | MP.S.R.t | Eintrag zu einer Rezeptur als  Darf maximal 1 Umbruch |  |
-| Zeilenumbrüche) |  | Absolut identisch mit | 5.4  Gebundene  MP.S.R.x | Allgemeine Hinweise, die |
+| 5.3 | Rezeptur | MP.S.R.t | Eintrag zu einer Rezeptur als  Darf maximal 1 Umbruch | 7.3.5 |
+| Zeilenumbrüche | ) | Absolut identisch mit | 5.4  Gebundene  MP.S.R.x | Allgemeine Hinweise, die |
 | Darf maximal 1 Umbruch | Absolut identisch mit | 6.1 | Versionsnummer   MP.v | Versionsnummer der |
 | Format xxy, beim Druck wird |  | Inhalt identisch, | 6.12  Patchnummer | MP.p  Versionsnummer der  Eine fortlaufende Nummer 0 - |
-| 5.3 | Rezeptur | MP.S.R.t | Eintrag zu einer Rezeptur als  Darf maximal 1 Umbruch |  |
-| Zeilenumbrüche) |  | Absolut identisch mit | 5.4  Gebundene  MP.S.R.x | Allgemeine Hinweise, die |
+| 5.3 | Rezeptur | MP.S.R.t | Eintrag zu einer Rezeptur als  Darf maximal 1 Umbruch  7.3.5 |  |
+| Zeilenumbrüche | ) | Absolut identisch mit | 5.4  Gebundene  MP.S.R.x | Allgemeine Hinweise, die |
 | Darf maximal 1 Umbruch | Absolut identisch mit | 6.1 | Versionsnummer | MP.v  Versionsnummer der |
 | Format xxy, beim Druck wird |  | Inhalt identisch, | 6.12  Patchnummer   MP.p | Versionsnummer der |
-| 5.3 | Rezeptur | MP.S.R.t | Eintrag zu einer Rezeptur als  Darf maximal 1 Umbruch |  |
-| Zeilenumbrüche) |  | Absolut identisch mit | 5.4  Gebundene  MP.S.R.x | Allgemeine Hinweise, die |
+| 5.3 | Rezeptur | MP.S.R.t | Eintrag zu einer Rezeptur als  Darf maximal 1 Umbruch  7.3.5 |  |
+| Zeilenumbrüche | ) | Absolut identisch mit | 5.4  Gebundene  MP.S.R.x | Allgemeine Hinweise, die |
 | Darf maximal 1 Umbruch | Absolut identisch mit | 6.1 | Versionsnummer   MP.v  Versionsnummer der | Format xxy, beim Druck wird |
 |  | Inhalt identisch, | 6.12 | Patchnummer   MP.p  Versionsnummer der | Eine fortlaufende Nummer 0 - |
-| 5.3 | Rezeptur | MP.S.R.t | Eintrag zu einer Rezeptur als  Darf maximal 1 Umbruch |  |
-|  | Zeilenumbrüche) |  | Absolut identisch mit  5.4 | Gebundene  MP.S.R.x |
+| 5.3 | Rezeptur | MP.S.R.t | Eintrag zu einer Rezeptur als  Darf maximal 1 Umbruch | 7.3.5 |
+|  | Zeilenumbrüche | ) | Absolut identisch mit  5.4 | Gebundene  MP.S.R.x |
 | Allgemeine Hinweise, die | Darf maximal 1 Umbruch | Absolut identisch mit | 6.1  Versionsnummer | MP.v |
 | Versionsnummer der | Format xxy, beim Druck wird |  | Inhalt identisch,  6.12 | Patchnummer |
 | MP.p | Versionsnummer der | Eine fortlaufende Nummer 0 - | Keine Entsprechung  6.3 | Sprachkenn- |
-| 5.3 | Rezeptur | MP.S.R.t  Eintrag zu einer Rezeptur als | Darf maximal 1 Umbruch  Zeilenumbrüche) |  |
+| 5.3 | Rezeptur | MP.S.R.t  Eintrag zu einer Rezeptur als | Darf maximal 1 Umbruch  7.3.5  Zeilenumbrüche | ) |
 | Absolut identisch mit | 5.4 | Gebundene | MP.S.R.x  Allgemeine Hinweise, die  Darf maximal 1 Umbruch  Absolut identisch mit  6.1  Versionsnummer   MP.v | Versionsnummer der  Format xxy, beim Druck wird    Inhalt identisch, |
 | 6.12 | Patchnummer | MP.p | Versionsnummer der  Eine fortlaufende Nummer 0 - | Keine Entsprechung |
 | 6.3 | Sprachkenn- | MP.l | nach RFC-3066 (ISO 631- Absolut identisch mit |  |
-| 5.3 | Rezeptur | MP.S.R.t | Eintrag zu einer Rezeptur als  Darf maximal 1 Umbruch  Zeilenumbrüche) | Absolut identisch mit |
+| 5.3 | Rezeptur | MP.S.R.t | Eintrag zu einer Rezeptur als  Darf maximal 1 Umbruch  7.3.5  Zeilenumbrüche) | Absolut identisch mit |
 | 5.4 | Gebundene | MP.S.R.x | Allgemeine Hinweise, die  Darf maximal 1 Umbruch | Absolut identisch mit |
 | 6.1 | Versionsnummer | MP.v | Versionsnummer der  Format xxy, beim Druck wird | Inhalt identisch, |
 | 6.12 | Patchnummer | MP.p | Versionsnummer der  Eine fortlaufende Nummer 0 - | Keine Entsprechung |
 | 6.3 | Sprachkenn- | MP.l | nach RFC-3066 (ISO 631- | Absolut identisch mit |
 
-code Attribut Zusatzzeile (Rezeptureintrag) 6.4 zeichen Länderkenn- zeichen Freitext. enthalten „~“. Das Verwenden des Tildezeichens „~“ ist bei der Eingabe des Freitextes nicht erlaubt. (Kap. 7.3.5 sich auf den vorhergehenden Rezeptureintrag beziehen. Der Rezeptureintrag und die gebundene Zusatzzeile sind untrennbar aneinandergeknüpft. enthalten „~“. Das Verwenden des Tildezeichens „~“ ist bei der Eingabe des Freitextes durch den/die Endanwender*in nicht erlaubt. Spezifikation des Medikationsplans. aus 022 eine 2.2 Spezifikation des Patches 99. Wird beim Druck nicht verwendet. 1/ISO 3166alpha-2) Format angepasst
+code Attribut Zusatzzeile (Rezeptureintrag) 6.4 zeichen Länderkenn- zeichen Freitext. enthalten „~“. Das Verwenden des Tildezeichens „~“ ist bei der Eingabe des Freitextes nicht erlaubt. (Kap. sich auf den vorhergehenden Rezeptureintrag beziehen. Der Rezeptureintrag und die gebundene Zusatzzeile sind untrennbar aneinandergeknüpft. enthalten „~“. Das Verwenden des Tildezeichens „~“ ist bei der Eingabe des Freitextes durch den/die Endanwender*in nicht erlaubt. Spezifikation des Medikationsplans. aus 022 eine 2.2 Spezifikation des Patches 99. Wird beim Druck nicht verwendet. 1/ISO 3166alpha-2) Format angepasst
 
 ---
 
@@ -3361,23 +2718,13 @@ code Attribut Zusatzzeile (Rezeptureintrag) 6.4 zeichen Länderkenn- zeichen Fre
 
 In der Regel reicht zur Identifikation eines Fertigarzneimittels die angegebene PZN. Die Felder
 
-Handelsname, Darreichungsform, Wirkstoff und Stärke werden daher i. d. R. nicht im XML
+Handelsname, Darreichungsform, Wirkstoff und Stärke werden daher i. d. R. nicht im XML  angegeben. Diese Felder sollen im XML nur dann definiert werden, wenn sie explizit  abweichende Angaben zur verwendeten Arzneimitteldatenbank enthalten sollen. Dabei sind  die Vorgaben nach Kap. 3.1 zu beachten.
 
-angegeben. Diese Felder sollen im XML nur dann definiert werden, wenn sie explizit
-
-abweichende Angaben zur verwendeten Arzneimitteldatenbank enthalten sollen. Dabei sind
-
-die Vorgaben nach Kap. 3.1 zu beachten.
-
-Das MP-Modul DARF im Rahmen der Erstellung des XMLs endständige Leerzeichen
-
-entfernen.
+Das MP-Modul DARF im Rahmen der Erstellung des XMLs endständige Leerzeichen  entfernen.
 
 Das MP-Modul DARF für die Felder Zwischenüberschrift und Dosiereinheit im Rahmen der
 
-Erstellung des XMLs eine freitextliche Angabe in die entsprechende codierte Angabe
-
-umwandeln, sofern der Inhalt des gewählten Freitextes identisch zu dem Inhalt des Codes
+Erstellung des XMLs eine freitextliche Angabe in die entsprechende codierte Angabe  umwandeln, sofern der Inhalt des gewählten Freitextes identisch zu dem Inhalt des
 
 entsprechend der Schlüsseltabelle ist.
 
@@ -3387,23 +2734,17 @@ Die Software MUSS den Anwendenden für die Erstellung und Aktualisierung eines
 
 Medikationsplans eine manuelle Sortierung der Einträge der Medikationstabelle ermöglichen.
 
-Die Bestimmung der Reihenfolge der Medikationstabelleneinträge ist somit den Anwendenden
+Die Bestimmung der Reihenfolge der Medikationstabelleneinträ
 
 überlassen.
 
 Die Reihenfolge der Medikationseinträge muss bei der Übertragung in das und aus dem
 
-Carriersegment erhalten bleiben. Sie darf nur durch eine Aktion der Anwendenden geändert
+Carriersegment erhalten bleiben. Sie darf nur durch eine Aktion der Anwendenden geändert  werden.
 
-werden.
+Medikationstabelleneinträge, die nach einer Zwischenüberschrift stehen, sind inhaltlich als  dieser zugeordnet zu interpretieren (inkl. einer Zuordnung in der Datenstruktur).
 
-Medikationstabelleneinträge, die nach einer Zwischenüberschrift stehen, sind inhaltlich als
-
-dieser zugeordnet zu interpretieren (inkl. einer Zuordnung in der Datenstruktur).
-
-Alle Medikationsblöcke (MP.S) im XML-Carrier mit Ausnahme des ersten (= Medikations-
-
-blöcke, die nicht am Anfang stehen), müssen eine Zwischenüberschrift haben.
+Alle Medikationsblöcke (MP.S) im XML-Carrier mit Ausnahme des ersten (= Medikations- blöcke, die nicht am Anfang stehen), müssen eine Zwischenüberschrift haben.
 
 ### 7.3.4 Gesamtes Datenvolumen
 
@@ -3413,20 +2754,20 @@ Byte/Zeichen) eingehalten wird. Sie hat die Anwendenden derart zu unterstützen,
 
 Überschreitung entweder nach Optimierungen in Zusammenarbeit zwischen Software und
 
-Anwendenden gesucht wird oder die Inhalte so auf weitere Seiten zu verteilen sind, dass die
-
-jeweilige Datenmenge ausreicht.
+Anwendenden gesucht wird oder die Inhalte so auf weitere Seiten zu verteilen sind, dass die  jeweilige Datenmenge ausreicht.
 
 Bevorzugt ist der Ausdruck des gesamten Plans auf einer einzigen Seite.
+
+Codes
+
+ge ist somit den Anwendenden
 
 
 ---
 
 ### 7.3.5 Zeilenumbrüche
 
-Die Angabe eines Zeilenumbruchs in Freitexten erfolgt mit dem Sonderzeichen "~" (ASCII
-
-ext. / ISO 8859-1 (dezimal) 126).
+Die Angabe eines Zeilenumbruchs in Freitexten erfolgt mit dem Sonderzeichen "~" (ASCII  ext. / ISO 8859-1 (dezimal) 126).
 
 Explizite Zeilenumbrüche sind nur in den Feldern Parameter_Freitext, Freitextzeile,
 
@@ -3434,15 +2775,11 @@ Rezepturzeile, gebundene Zusatzzeile, zusätzliche Zeile bzgl. der wöchentliche
 
 Hinweis oder Behandlungsgrund erlaubt.
 
-Bei der Eingabe für diese Felder in der Programmoberfläche ist die Verwendung des Tilde -
-
-Zeichens „~“ nicht erlaubt.
+Bei der Eingabe für diese Felder in der Programmoberfläche ist die Verwendung des Tilde - Zeichens „~“ nicht erlaubt.
 
 ### 7.3.6 Konformität und Validierung des Schemas
 
-Die Ausgabe von Medikationsplänen MUSS von der Software konform erfolgen. Das bedeutet,
-
-dass alle notwendigen Validierungen und Überprüfungen vor dem Ausdruck erfolgt sind.
+Die Ausgabe von Medikationsplänen MUSS von der Software konform erfolgen. Das bedeutet,  dass alle notwendigen Validierungen und Überprüfungen vor dem Ausdruck erfolgt sind.
 
 Die Software SOLL vor der Erzeugung des 2D-Barcodes, somit vor der Erzeugung eines
 
@@ -3460,15 +2797,11 @@ Dialoge/Abläufe das Einlesen und die Fehlerbehebung für die Anwendenden ermög
 
 ### 7.3.7 Änderungen in Kombinationspräparaten
 
-Sobald eine manuelle Bearbeitung eines Wirkstoffs aus einem Kombinationsarzneimittel durch
-
-die Anwendenden erfolgt, MUSS das MP-Modul alle Wirkstoffe (maximal drei) zu diesem
+Sobald eine manuelle Bearbeitung eines Wirkstoffs aus einem Kombinationsarzneimittel durch  die Anwendenden erfolgt, MUSS das MP-Modul alle Wirkstoffe (maximal drei) zu diesem
 
 Arzneimittel zzgl. aller zugehörigen Wirkstärken in den Carrier schreiben.
 
-Die Regel zur Reihenfolge der Wirkstoffe aus Kap. 0 gilt hier entsprechend für die Reihenfolge
-
-der Listung der Wirkstoffe im Carrier.
+Die Regel zur Reihenfolge der Wirkstoffe aus Kap. 0 gilt hier entsprechend für die Reihenfolge  der Listung der Wirkstoffe im Carrier.
 
 
 ---
@@ -3532,10 +2865,7 @@ Die entsprechenden Angaben der Referenzdatenbank  nach § 31b SGB V sind verpfli
 aktueller Anhang 4
 
 - Carriersegment: ISO/IEC 8859-1(Latin-1)  - Bildschirmdarstellung, Papierausdruck:  produktabhängig
-
-- Papierausdruck: Arial (ggf. artverwandt)
-
-- Bildschirmdarstellung etc.: produktabhängig
+- Papierausdruck: Arial (ggf. artverwandt)  - Bildschirmdarstellung etc.: produktabhängig
 
 DataMatrix entsprechend ISO/IEC 16022
 
@@ -3570,19 +2900,11 @@ Eine neue Version wird mit dem hierin bekanntgegebenen Datum der Gültigkeit der
 
 Spezifikation verbindlich für die Hersteller und Anwendenden bei der Erzeugung. Für den
 
-Zeitraum der sich daran anschließenden Übergangszeit, kann in Ausnahmefällen auf die
-
-vorherige Version bei der Erzeugung von Medikationsplänen zurückgegriffen werden. Dies
-
-beinhaltet die Unterstützung der in der neusten Version geforderten Codes und Codesysteme.
+Zeitraum der sich daran anschließenden Übergangszeit, kann in Ausnahmefällen auf die  vorherige Version bei der Erzeugung von Medikationsplänen zurückgegriffen werden. Dies  beinhaltet die Unterstützung der in der neusten Version geforderten Codes und Codesysteme.
 
 Für das Einlesen
 
-Ab dem Zeitpunkt der Gültigkeit einer neuen Version MUSS die Software Medikationspläne
-
-beim Einlesen in der neusten Version entgegennehmen können. Zudem MUSS die Software
-
-alle Versionen, die im Zeitraum der Versionsunterstützung gültig waren,
+Ab dem Zeitpunkt der Gültigkeit einer neuen Version MUSS die Software Medikationspläne  beim Einlesen in der neusten Version entgegennehmen können. Zudem MUSS die Software  alle Versionen, die im Zeitraum der Versionsunterstützung gültig waren,
 
 beinhaltet die Unterstützung
 
@@ -3590,9 +2912,7 @@ Codesysteme.
 
 Mapping und Fehlerhandling
 
-Da eingelesene Medikationspläne wieder von der Software ausgedruckt werden müssen,
-
-bedeutet dies, dass die Software ältere Versionen auf die jeweils aktuelle Version mappen
+Da eingelesene Medikationspläne wieder von der Software ausgedruckt werden müssen,  bedeutet dies, dass die Software ältere Versionen auf die jeweils aktuelle Version mappen
 
 (abbilden) können MUSS. Hierbei sind die Anwendenden geeignet zu unterstützen. Die
 
@@ -3610,9 +2930,7 @@ zurzeit nicht vergeben
 
 der in der neuesten Version
 
-einlesen können. Dies
-
-geforderten Codes und
+einlesen können. Dies  geforderten Codes und
 
 
 ---
@@ -3651,9 +2969,7 @@ Im Folgenden sind Bedeutung und Verwendung aller Felder des BMP festgelegt.
 
 **Aufbau des Codes**
 
-Es wird ein Codesystem zur Bezeichnung der Felder verwendet. Die erste Stelle drückt die
-
-inhaltliche Zuordnung und den räumlichen Bereich auf dem Papierausdruck aus
+Es wird ein Codesystem zur Bezeichnung der Felder verwendet. Die erste Stelle drückt die  inhaltliche Zuordnung und den räumlichen Bereich auf dem Papierausdruck aus
 
 Stelle im Code identifiziert die einzelnen Bezeichnungen der
 
@@ -3668,7 +2984,7 @@ Der Aufbau wiederholt (Daten-) Felder.
 
 ---
 
-| **Code** | **Bezeichnung** | **Bedeutung** | **Verwendung im** | |
+| Code | Bezeichnung | Bedeutung | Verwendung im | |
 |---|---|---|---|---|
 | Tabelle 4: Bezeichnung und Bedeutung der konkreten Felder des Medikationsplans mit ihrer |  | **Code** | **Bezeichnung** | |
 | Tabelle 4: Bezeichnung und Bedeutung der konkreten Felder des Medikationsplans mit ihrer |  | **Code** | **Bezeichnung** | |
@@ -3687,7 +3003,7 @@ Der Aufbau wiederholt (Daten-) Felder.
 | 2.24 | Namenszusatz | Namenszusatz des/der | ja | ja |
 | 2.3 | Patienten-ID | eindeutige Patienten-ID | nein | ja |
 | 2.4 | Geburtsdatum | Geburtsdatum des/der Patient*in | ja | ja |
-| 2.5 | Ausdruckende/r des Name der aktuell ausdruckenden | Person/Institution | ja | ja |
+| 2.5 | Ausdruckende/r des | Name der aktuell ausdruckenden | ja | ja |
 | 2.6 | Straße | Straßenname und Hausnummer | ja | ja |
 | 2.7 | PLZ | Postleitzahl des Ortes der aktuell | ja | ja |
 | 2.8 | Ort | Ort der aktuell ausdruckenden | ja | ja |
@@ -3708,7 +3024,7 @@ Der Aufbau wiederholt (Daten-) Felder.
 | ja | 2.23 | Vorsatzwort | Vorsatzwort des/der Patient*in | ja |
 | ja | 2.24 | Namenszusatz | Namenszusatz des/der | ja  ja  2.3 |
 | Patienten-ID | eindeutige Patienten-ID | nein | ja | 2.4  Geburtsdatum  Geburtsdatum des/der Patient*in |
-| ja | ja | 2.5 | Ausdruckende/r des Name der aktuell ausdruckenden | Person/Institution  ja  ja |
+| ja | ja | 2.5 | Ausdruckende/r des | Name der aktuell ausdruckenden  ja  ja |
 | 2.6 | Straße | Straßenname und Hausnummer | ja | ja  2.7  PLZ |
 | Postleitzahl des Ortes der aktuell | ja | ja | 2.8 | Ort |
 | Ort der aktuell ausdruckenden | ja | ja | 2.9 | Telefonnummer |
@@ -3727,14 +3043,14 @@ Der Aufbau wiederholt (Daten-) Felder.
 | ja | ja | 2.24 | Namenszusatz | Namenszusatz des/der |
 | ja | ja | 2.3  Patienten-ID | eindeutige Patienten-ID | nein |
 | ja | 2.4 | Geburtsdatum  Geburtsdatum des/der Patient*in | ja | ja |
-| 2.5 | Ausdruckende/r des Name der aktuell ausdruckenden | Person/Institution  ja | ja | 2.6 |
+| 2.5 | Ausdruckende/r des | Name der aktuell ausdruckenden  ja | ja | 2.6 |
 | Straße | Straßenname und Hausnummer | ja | ja | 2.7 |
 
-Verwendung im Ausdruck und Carriersegment. Datenfeld kennung des Ausdruckes  - Text1 - Text2 - Text3 Patient*in) (des/der Patient*in) (Global Unique Identifier), die bei jedem Ausdruck (mit oder ohne Planänderung) neu erzeugt wird. Auf jeder Seite des mehrseitigen Ausdrucks erscheint die gleiche Instanz-ID. bundeseinheitlichen Medikationsplan eindeutig als solchen identifiziert. erzeugende Software zertifiziert ist. Derzeit nicht verwendet.  ggf. unvollständig Medikationsplan-Ausdrucks medizinischen Kurzangaben wie Schwangerschaft etc., ggf. mit fixen Texten aus Anhang 2.3 gefüllt in cm von 2.12 von 2.12
+Verwendung im Ausdruck und Carriersegment. Datenfeld kennung des Ausdruckes  - Text1 - Text2 - Text3 Patient*in) (des/der Patient*in) (Global Unique Identifier), die bei jedem Ausdruck (mit oder ohne Planänderung) neu erzeugt wird. Auf jeder Seite des mehrseitigen Ausdrucks erscheint die gleiche Instanz-ID. bundeseinheitlichen Medikationsplan eindeutig als solchen identifiziert. erzeugende Software zertifiziert ist. Derzeit nicht verwendet.  ggf. unvollständig Person/Institution Person/Institution Person/Institution Person/Institution Person/Institution Person/Institution Medikationsplan-Ausdrucks medizinischen Kurzangaben wie Schwangerschaft etc., ggf. mit fixen Texten aus Anhang 2.3 gefüllt in cm von 2.12 von 2.12
 
 ---
 
-| **Bedeutung** | **Verwendung im** | **Ausdruck** | **2D-Barcode** | |
+| Bedeutung | Verwendung im | Ausdruck | 2D-Barcode | |
 |---|---|---|---|---|
 | **Code** | **Bezeichnung** | **Bedeutung** | **Verwendung im** | |
 | **Code** | **Bezeichnung** | **Bedeutung** | **Verwendung im** | |
@@ -3750,12 +3066,12 @@ Verwendung im Ausdruck und Carriersegment. Datenfeld kennung des Ausdruckes  - T
 | Ruhezone | Nicht zu bedruckender Bereich | ja | nein | 3.2 |
 | 2D-Barcode | Grafisches Muster nach ISO | ja | zugrunde- | 4.0 |
 | Modifizierte PZN | Pharmazentralnummer einer | nein | ja | 4.1 |
-| Wirkstoff | Bezeichnung eines oder | ja | ja, wenn kein |  |
-| zu beachten) | 4.2 | Arzneimittelname | Bezeichnung (Handelsname) | ja |
-| ja, wenn kein |  | zu beachten) | 4.3 | Wirkstärke |
-| Angabe der Wirkstärke und der | ja | ja, wenn kein |  | zu beachten) |
+| Wirkstoff | Bezeichnung eines oder | ja | ja, wenn kein | 3.1 |
+| ist | 4.2 | Arzneimittelname | Bezeichnung (Handelsname) | ja |
+| ja, wenn kein | 3.1 | ist | 4.3 | Wirkstärke |
+| Angabe der Wirkstärke und der | ja | ja, wenn kein | 3.1 | ist |
 | 4.4 | Darreichungsform | Bezeichnung einer | ja | ja, wenn kein |
-|  | zu beachten) | 4.5 | Dosierschema | ein konkretes Dosierschema |
+| 3.1 | ist | 4.5 | Dosierschema | ein konkretes Dosierschema |
 | ja | ja | 4.6 | Dosiereinheit | Bezeichnung einer Dosiereinheit |
 | ja | ja (Code oder | 4.7 | Hinweise | relevante Hinweise zum |
 | ja | ja | 4.8 | Behandlungsgrund | Grund der Behandlung in |
@@ -3772,10 +3088,10 @@ Verwendung im Ausdruck und Carriersegment. Datenfeld kennung des Ausdruckes  - T
 | 3.1 | Ruhezone | Nicht zu bedruckender Bereich | ja | nein |
 | 3.2 | 2D-Barcode | Grafisches Muster nach ISO | ja | zugrunde- |
 | 4.0 | Modifizierte PZN | Pharmazentralnummer einer | nein | ja |
-| 4.1 | Wirkstoff | Bezeichnung eines oder | ja | ja, wenn kein  zu beachten) |
-| 4.2 | Arzneimittelname | Bezeichnung (Handelsname) | ja | ja, wenn kein  zu beachten) |
-| 4.3 | Wirkstärke | Angabe der Wirkstärke und der | ja | ja, wenn kein  zu beachten) |
-| 4.4 | Darreichungsform | Bezeichnung einer | ja | ja, wenn kein  zu beachten) |
+| 4.1 | Wirkstoff | Bezeichnung eines oder | ja | ja, wenn kein  3.1 ist |
+| 4.2 | Arzneimittelname | Bezeichnung (Handelsname) | ja | ja, wenn kein  3.1 ist |
+| 4.3 | Wirkstärke | Angabe der Wirkstärke und der | ja | ja, wenn kein  3.1 ist |
+| 4.4 | Darreichungsform | Bezeichnung einer | ja | ja, wenn kein  3.1 ist |
 | 4.5 | Dosierschema | ein konkretes Dosierschema | ja | ja |
 | 4.6 | Dosiereinheit | Bezeichnung einer Dosiereinheit | ja | ja (Code oder |
 | 4.7 | Hinweise | relevante Hinweise zum | ja | ja |
@@ -3791,24 +3107,24 @@ Verwendung im Ausdruck und Carriersegment. Datenfeld kennung des Ausdruckes  - T
 | nein | 3.2 | 2D-Barcode | Grafisches Muster nach ISO | ja |
 | zugrunde- | 4.0 | Modifizierte PZN | Pharmazentralnummer einer | nein |
 | ja | 4.1 | Wirkstoff | Bezeichnung eines oder | ja |
-| ja, wenn kein |  | zu beachten)  4.2 | Arzneimittelname | Bezeichnung (Handelsname) |
-| ja | ja, wenn kein | zu beachten) | 4.3 | Wirkstärke |
-| Angabe der Wirkstärke und der | ja | ja, wenn kein | zu beachten) | 4.4 |
-| Darreichungsform | Bezeichnung einer | ja | ja, wenn kein |  |
+| ja, wenn kein | 3.1 | ist  4.2 | Arzneimittelname | Bezeichnung (Handelsname) |
+| ja | ja, wenn kein | 3.1 ist | 4.3 | Wirkstärke |
+| Angabe der Wirkstärke und der | ja | ja, wenn kein  3.1 | ist | 4.4 |
+| Darreichungsform | Bezeichnung einer | ja | ja, wenn kein | 3.1 |
 
-Datenfeld (des/der Patient*in) (des/der Patient*in) Patienten) Zusatzzeile in mg/dl Patientin aktuell stillend ist. Patientin aktuell schwanger ist. ergänzen. M | W | D | X auf dem Ausdruck 16022 Fertigarzneimittelpackung ohne die führenden Nullen mehrerer Wirkstoffe eines Arzneimittels, ggf. eines (Medizin-)Produktes oder Präparates Wirkstärkeneinheit des jeweils zugehörigen Wirkstoffes/der jeweils zugehörigen Wirkstoffe Darreichungsform (in patientenverständlicher Kurzschreibweise) Arzneimittel (z.B. Anwendung, Einnahme, Lagerung etc.) patientenverständlicher Form auf einen vorhergehenden Medikationseintrag oder Rezeptureintrag beziehen von 2.12 von 2.12 von 2.12 von 2.12 von 2.12 von 2.12 liegendes XML AM-Code (PZN) vorliegt (Kap. 3.1 ist AM-Code (PZN) vorliegt (Kap. 3.1 ist AM-Code (PZN) vorliegt (Kap. 3.1 ist AM-Code (PZN) vorliegt Freitext) (Kap. 3.1 ist Freitext)
+Datenfeld (des/der Patient*in) (des/der Patient*in) Patienten) Zusatzzeile in mg/dl Patientin aktuell stillend ist. Patientin aktuell schwanger ist. ergänzen. M | W | D | X auf dem Ausdruck 16022 Fertigarzneimittelpackung ohne die führenden Nullen mehrerer Wirkstoffe eines Arzneimittels, ggf. eines (Medizin-)Produktes oder Präparates Wirkstärkeneinheit des jeweils zugehörigen Wirkstoffes/der jeweils zugehörigen Wirkstoffe Darreichungsform (in patientenverständlicher Kurzschreibweise) Arzneimittel (z.B. Anwendung, Einnahme, Lagerung etc.) patientenverständlicher Form auf einen vorhergehenden Medikationseintrag oder Rezeptureintrag beziehen von 2.12 von 2.12 von 2.12 von 2.12 von 2.12 von 2.12 liegendes XML AM-Code (PZN) vorliegt (Kap. zu beachten) AM-Code (PZN) vorliegt (Kap. zu beachten) AM-Code (PZN) vorliegt (Kap. zu beachten) AM-Code (PZN) vorliegt Freitext) (Kap. zu beachten) Freitext)
 
 ---
 
-| **Bedeutung** | **Verwendung im** | **Ausdruck** | **2D-Barcode** | |
+| Bedeutung | Verwendung im | Ausdruck | 2D-Barcode | |
 |---|---|---|---|---|
 | **Code** | **Bezeichnung** | **Bedeutung** | **Verwendung im** | |
 | **Code** | **Bezeichnung** | **Bedeutung** | **Verwendung im** | |
 |  |  |  | 4.10 | zusätzliche Zeile |
 |  |  |  | **Ausdruck** | **2D-Barcode** |
 |  |  |  | **Ausdruck** | **2D-Barcode** |
-| Enthält die Angaben zur | ja | nein | 5.1 | Zwischenüberschrift  Hervorgehobene Überschrift |
-| zwischen den Zeilen mit den | ja | ja | 5.2 | Freitextzeile |
+| Enthält die Angaben zur | ja | nein | 5.1 | Zwischenüberschrift |
+| Hervorgehobene Überschrift | ja | ja | 5.2 | Freitextzeile |
 | Allgemeine Hinweise, die nicht | ja | ja | 5.3 | Rezeptureintrag |
 | Eintrag zu einer Rezeptur als | ja | ja | 6.1 | Versionsnummer |
 | Versionsnummer der | ja | ja | 6.3 | Länderkennzeichen |
@@ -3830,7 +3146,7 @@ Datenfeld (des/der Patient*in) (des/der Patient*in) Patienten) Zusatzzeile in mg
 |  |  |  |  |  |
 |  |  |  |  |  |
 | 4.10 | zusätzliche Zeile | Enthält die Angaben zur | ja | nein |
-| 5.1 | Zwischenüberschrift  Hervorgehobene Überschrift | zwischen den Zeilen mit den | ja | ja |
+| 5.1 | Zwischenüberschrift | Hervorgehobene Überschrift | ja | ja |
 | 5.2 | Freitextzeile | Allgemeine Hinweise, die nicht | ja | ja |
 | 5.3 | Rezeptureintrag | Eintrag zu einer Rezeptur als | ja | ja |
 | 6.1 | Versionsnummer | Versionsnummer der | ja | ja |
@@ -3848,7 +3164,7 @@ Datenfeld (des/der Patient*in) (des/der Patient*in) Patienten) Zusatzzeile in mg
 |  |  |  |  |  |
 |  |  |  |  |  |
 | 4.10 | zusätzliche Zeile | Enthält die Angaben zur | ja | nein |
-| 5.1 | Zwischenüberschrift  Hervorgehobene Überschrift | zwischen den Zeilen mit den | ja | ja |
+| 5.1 | Zwischenüberschrift | Hervorgehobene Überschrift | ja | ja |
 | 5.2 | Freitextzeile | Allgemeine Hinweise, die nicht | ja | ja |
 | 5.3 | Rezeptureintrag | Eintrag zu einer Rezeptur als | ja | ja |
 | 6.1 | Versionsnummer | Versionsnummer der | ja | ja |
@@ -3862,57 +3178,57 @@ Datenfeld (des/der Patient*in) (des/der Patient*in) Patienten) Zusatzzeile in mg
 | 6.13 | Krankenhaus- | 9-stelliges Krankenhaus- Optional, wenn zutreffend. | nein | ja |
 | 6.12 | Patchnummer | Fortlaufende Nummer des | nein | ja |
 
-Datenfeld bzgl. der wöchentlichen Dosierung Arztnummer Institutions- wöchentlichen Dosierung Medikationseinträgen, ggf. mit fixen Texten aus Anhang 2.3 einzelnen Medikationseinträgen zugewiesen sind. Spezifikation des Herstellers, reservierte Fläche  Feld, nicht zu bedruckende Fläche Arztnummer. Apothekenidentifikationsnummer. Institutskennzeichen. Patches
+Datenfeld bzgl. der wöchentlichen Dosierung Arztnummer Institutions- wöchentlichen Dosierung zwischen den Zeilen mit den Medikationseinträgen, ggf. mit fixen Texten aus Anhang 2.3 einzelnen Medikationseinträgen zugewiesen sind. Spezifikation des Herstellers, reservierte Fläche  Feld, nicht zu bedruckende Fläche Arztnummer. Apothekenidentifikationsnummer. Institutskennzeichen. Patches
 
 ---
 
-| **Code** | **Bedeutung** | **Benennung** | **mandatory** |
+| Code | Bedeutung | Benennung | mandatory |
 |---|---|---|---|
-| **A 2.3 Schlüsselworte** | **Nutzung der Schlüsselworte** | In Tabelle 5 sind diejenigen Schlüsselworte gelistet, die in den Datenfelder |  |
-| 111 Identifikationsname |  | Medikationsplan | M |
-| 121 Seitenbezeichnung |  | Seite | M |
-| 131 Seitenrelation |  | von | M |
-| 211 Patientenzuordnung |  | für: | M |
-| 221 Geburtsdatumzuordnung |  | geb. am: | M |
-| 231 Zuordnung Ausdruck |  | ausgedruckt von: | M |
-| 232 Telefonzuordnung |  | Tel.: | M |
-| 233 Mailzuordnung |  | E-Mail: | M |
-| 241 Ausdrucksdatumzuordnung ausgedruckt: |  |  | M |
+| **A 2.3 Schlüsselworte** | **Nutzung der Schlüsselworte** | In | Tabelle 5 |
+| 111 | Identifikationsname | Medikationsplan | M |
+| 121 | Seitenbezeichnung | Seite | M |
+| 131 | Seitenrelation | von | M |
+| 211 | Patientenzuordnung | für: | M |
+| 221 | Geburtsdatumzuordnung | geb. am: | M |
+| 231 | Zuordnung Ausdruck | ausgedruckt von: | M |
+| 232 | Telefonzuordnung | Tel.: | M |
+| 233 | Mailzuordnung | E-Mail: | M |
+| 241 | Ausdrucksdatumzuordnung | ausgedruckt: | M |
 |  | **Parametertexte:** |  |  |
-| 261 Gewicht |  | Gew.: {} kg | O |
+| 261 | Gewicht | Gew.: {} kg | O |
 | 262 | Kreatinin | Krea.: {} mg/dl | O |
 | 263 | Geschlecht | Geschl.: {m \| w \| divers \| | O |
-| 264 Allergien und | Unverträglichkeiten | Allerg./Unv.: {} | O |
-| 266 Status schwanger |  | schwanger | O |
-| 267 Status stillend |  | stillend | O |
+| 264 | Allergien und | Allerg./Unv.: {} | O |
+| 266 | Status schwanger | schwanger | O |
+| 267 | Status stillend | stillend | O |
 | 268 | Körpergröße | Größe: {} cm | O |
-| 310 Kombinationspräparat |  | Kombipräparat | M |
-| n (Kap. 5.1) und |  | der Form des Papierausdruckes (Kap. 6) verwendet werden. |  |
-|  | Zusätzlich werden für das Datenfeld Zwischenüberschrift im 2D-Barcode die Codes aus |  | Tabelle |
+| 310 | Kombinationspräparat | Kombipräparat | M |
+| sind diejenigen Schlüsselworte gelistet, die in den Datenfelder | 5.1 | ) und | 6 |
+| ) verwendet werden. | Zusätzlich werden für das Datenfeld Zwischenüberschrift im 2D-Barcode die Codes aus |  | Tabelle |
 | benötigt. | **Optionale Nutzung** | Zu jedem Eintrag ist vermerkt, ob dieser verpflichtend (mandatory | **Aufbau des Codes** |
 | Zu jedem Code gibt es eine eindeutige zulässige Benennung | Tabelle 5: Schlüsselworte für den Medikationsplan | **Code** | **Bedeutung** |
-| **Benennung** | **mandatory** | 111 Identifikationsname |  |
-| Medikationsplan | M | 121 Seitenbezeichnung |  |
-| Seite | M | 131 Seitenrelation |  |
-| von | M | 211 Patientenzuordnung |  |
-| für: | M | 221 Geburtsdatumzuordnung |  |
-| geb. am: | M | 231 Zuordnung Ausdruck |  |
+| **Benennung** | **mandatory** | 111 | Identifikationsname |
+| Medikationsplan | M | 121 | Seitenbezeichnung |
+| Seite | M | 131 | Seitenrelation |
+| von | M | 211 | Patientenzuordnung |
+| für: | M | 221 | Geburtsdatumzuordnung |
+| geb. am: | M | 231 | Zuordnung Ausdruck |
 
-Hierbei bedeutet verpflichtend, dass diese Schlüsselworte von der Software zu unterstützen sind, im optionalen Fall müssen sie zwingend durch die Software bzw. den der Benennungen. durch die Software /die Anwender*in verwendet werden. Geschl.: {m | w | divers | unbestimmt}  = M) oder optional  (= O) ist. interpretiert werden  können, aber nicht Interpunktionen sind Bestandteil /optional
+der Form des Papierausdruckes (Kap. Hierbei bedeutet verpflichtend, dass diese Schlüsselworte von der Software zu unterstützen sind, im optionalen Fall müssen sie zwingend durch die Software bzw. den der Benennungen. Unverträglichkeiten durch die Software interpretiert werden /die Anwender*in verwendet werden. Geschl.: {m | w | divers | unbestimmt} n (Kap.  = M) oder optional  (= O) ist.  können, aber nicht Interpunktionen sind Bestandteil /optional
 
 ---
 
-| Form | M | 351 Tabellenüberschrift, Spalte | Dosierschema |
+| Form | M | 351 | Tabellenüberschrift, Spalte |
 |---|---|---|---|
 | **Code** | **Bedeutung** | **Benennung** | **mandatory** |
-| morgens mittags abends zur | M | 361 Tabellenüberschrift, Spalte | Dosiereinheit |
-| Einheit | M | 371 Tabellenüberschrift, Spalte | Hinweise |
-| Hinweise | M | 381 Tabellenüberschrift, Spalte | Behandlungsgrund |
-| Grund | M | 511 Versionskennung |  |
-| Version | M | 531 Disclaimer |  |
+| morgens mittags abends zur | M | 361 | Tabellenüberschrift, Spalte |
+| Einheit | M | 371 | Tabellenüberschrift, Spalte |
+| Hinweise | M | 381 | Tabellenüberschrift, Spalte |
+| Grund | M | 511 | Versionskennung |
+| Version | M | 531 | Disclaimer |
 | Für Vollständigkeit und | M |  | Tabelle 6: Schlüsselworte für Zwischenüberschriften |
 | **Code** | **Bedeutung** | **Benennung** | **mandatory** |
-| 411 Zwischenüberschrift |  | Bedarfsmedikation | O |
+| 411 | Zwischenüberschrift | Bedarfsmedikation | O |
 | 412 | Dauermedikation | O | 413 |
 | Intramuskuläre Anwendung | O | 414 | Besondere Anwendung |
 | O | 415 | Intravenöse Anwendung | O |
@@ -3923,20 +3239,20 @@ Hierbei bedeutet verpflichtend, dass diese Schlüsselworte von der Software zu u
 | 422 | Wichtige Angaben | O | 423 |
 |  | zu besonderen Zeiten | O | 424 |
 |  | zeitlich befristet | O | 425 |
-| 311 Tabellenüberschrift, Spalte | Wirkstoffname | Wirkstoff | M |
-| 322 Tabellenüberschrift, Spalte | Handelsname | Handelsname | M |
-| 331 Tabellenüberschrift, Spalte | Wirkstärke | Stärke | M |
-| 341 Tabellenüberschrift, Spalte | Darreichungsform | Form | M |
-| 351 Tabellenüberschrift, Spalte | Dosierschema | morgens mittags abends zur | M |
-| 361 Tabellenüberschrift, Spalte | Dosiereinheit | Einheit | M |
-| 371 Tabellenüberschrift, Spalte | Hinweise | Hinweise | M |
-| 381 Tabellenüberschrift, Spalte | Behandlungsgrund | Grund | M |
-| 511 Versionskennung |  | Version | M |
-| 531 Disclaimer |  | Für Vollständigkeit und | M |
+| 311 | Tabellenüberschrift, Spalte | Wirkstoff | M |
+| 322 | Tabellenüberschrift, Spalte | Handelsname | M |
+| 331 | Tabellenüberschrift, Spalte | Stärke | M |
+| 341 | Tabellenüberschrift, Spalte | Form | M |
+| 351 | Tabellenüberschrift, Spalte | morgens mittags abends zur | M |
+| 361 | Tabellenüberschrift, Spalte | Einheit | M |
+| 371 | Tabellenüberschrift, Spalte | Hinweise | M |
+| 381 | Tabellenüberschrift, Spalte | Grund | M |
+| 511 | Versionskennung | Version | M |
+| 531 | Disclaimer | Für Vollständigkeit und | M |
 
-Nacht Aktualität des Medikationsplans wird keine Gewähr übernommen. anzuwendende Medikamente anzuwendende Medikamente Wöchentliche Anwendung /optional /optional| **Code** | **Bedeutung** | **Benennung** | **mandatory** |
+Wirkstoffname Wirkstärke Darreichungsform Dosierschema Dosiereinheit Behandlungsgrund Nacht Aktualität des Medikationsplans wird keine Gewähr übernommen. anzuwendende Medikamente anzuwendende Medikamente Wöchentliche Anwendung /optional /optional| Code | Bedeutung | Benennung | mandatory |
 |---|---|---|---|
-| 411 Zwischenüberschrift |  | Bedarfsmedikation | O |
+| 411 | Zwischenüberschrift | Bedarfsmedikation | O |
 |  | 412 | Dauermedikation | O |
 |  | 413 | Intramuskuläre Anwendung | O |
 |  | 414 | Besondere Anwendung | O |
@@ -3954,11 +3270,9 @@ Nacht Aktualität des Medikationsplans wird keine Gewähr übernommen. anzuwende
 
 ---
 
-Die Veröffentlichung der Schlüsseltabelle für Zwischenüberschriften erfolgt unter
+Die Veröffentlichung der Schlüsseltabelle für Zwischenüberschriften erfolgt unter  [http://applications.kbv.de/keytabs/ita/schluesseltabellen.asp](http://applications.kbv.de/keytabs/ita/schluesseltabellen.asp)[](http://applications.kbv.de/keytabs/ita/schluesseltabellen.asp)
 
-[http://applications.kbv.de/keytabs/ita/schluesseltabellen.asp](http://applications.kbv.de/keytabs/ita/schluesseltabellen.asp)
-
-(S_BMP_ZWISCHENUEBERSCHRIFT, OID: 1.2.276.0.76.3.1.1.5.2.42). Weitere
+[(S_BMP_ZWISCHENUEBERSCHRIFT,](http://applications.kbv.de/keytabs/ita/schluesseltabellen.asp) [OID:](http://applications.kbv.de/keytabs/ita/schluesseltabellen.asp) [1.2.276.0.76.3.1.1.5.2.42).](http://applications.kbv.de/keytabs/ita/schluesseltabellen.asp) Weitere
 
 Schlüsselworte für spezielle Datenfelder finden sich im Anhang 4 dieser Anlage.
 
@@ -3966,17 +3280,11 @@ Schlüsselworte für spezielle Datenfelder finden sich im Anhang 4 dieser Anlage
 
 Überlange Einträge (Feldlänge im Papierausdruck geringer als im Carrier) werden im
 
-Papierausdruck auf die entsprechend maximal erlaubte Feldlänge minus 3 Zeichen gekürzt
-
-und mit „...“ aufgefüllt, um anzuzeigen, dass der Eintrag so nicht vollständig ist. Dies gilt nicht
-
-für das Carriersegment.
+Papierausdruck auf die entsprechend maximal erlaubte Feldlänge minus 3 Zeichen gekürzt  und mit „...“ aufgefüllt, um anzuzeigen, dass der Eintrag so nicht vollständig ist. Dies gilt nicht  für das Carriersegment.
 
 ## A 2.6 Brüche - Dezimalschreibweise
 
-Für Dosierungsangaben im Format W-X-Y-Z (Datenfeld Dosierschema, 4.5) werden häufig
-
-gebrochene Werte wie z. B. ½ verwendet. Die erlaubten Brüche finden sich in der folgenden
+Für Dosierungsangaben im Format W-X-Y-Z (Datenfeld Dosierschema, 4.5) werden häufig  gebrochene Werte wie z. B. ½ verwendet. Die erlaubten Brüche finden sich in der folgenden
 
 Tabelle. Eine automatische Ersetzung eines Bruchzeichens durch die zusammengesetzte
 
@@ -3988,7 +3296,7 @@ Bruchschreibweise ist zulässig ( z. B. ½ wird zu 1/2 oder umgekehrt ). **Bruch
 
 Tabelle 7: Liste der zugelassenen Brüche und deren Darstellung.
 
-| **Nr.** | **Bezeich-** | **Bedeutung Zeichen ISO** |  | **8859-1** | **Alternative** | **Anwenderinteraktion** |
+| Nr. | Bezeich- | Bedeutung | Zeichen | ISO | Alternative | nur durch |
 |---|---|---|---|---|---|---|
 | 1 | ½ | ein Halb | ½ | 189 | „1/2“ | „0,5“ |
 | 2 | 1/3 | ein Drittel | ⅓ |  | „1/3“ | „0,33“ |
@@ -3999,13 +3307,11 @@ Tabelle 7: Liste der zugelassenen Brüche und deren Darstellung.
 
 Als Dezimalzeichen ist das Komma zu verwenden.
 
-Somit lassen sich auch andere Werte wie z. B. 2,66 oder 34,7 ausdrücken. Dezimalzahlen
-
-besitzen bis zu drei Stellen und einen Dezimaltrenner. Ganze Zahlen besitzen bis zu vier
+Somit lassen sich auch andere Werte wie z. B. 2,66 oder 34,7 ausdrücken. Dezimalzahlen  besitzen bis zu drei Stellen und einen Dezimaltrenner. Ganze Zahlen besitzen bis zu vier
 
 Stellen.
 
-nung Schreibweise (automatische nur durch Ersetzung Alternative Schreib- weise (Ersetzung #### Unzulässig
+nung 8859-1 Schreibweise (automatische Ersetzung Alternative Schreib- weise (Ersetzung Anwenderinteraktion #### Unzulässig
 
 
 ---
@@ -4020,21 +3326,15 @@ Auch das Weglassen einer 0 im Ausdruck für ein vierteiliges Dosierschema ist un
 
 Die Interpretation des Dosierschemas W-X-Y-Z wird im Folgenden erklärt2
 
-2 Auf die Verwendung des Dosierschemas für drei Tageszeiten W-X-Y wurde im Rahmen der  Überarbeitung der Spezifikation von Version 2.0 korrigiert auf Version 2.2 verzichtet. Dosierschemata,  die von den Anwendenden mit nur drei Tageszeiten (Morgens-Mittags-Abends) erfasst werden,  können im Medikationsplan unter Verwendung der ersten drei Felder des 4-Tageszeiten-Schemas  abgebildet werden. Dabei muss der Wert „0“ in der vierten Tageszeit (zur Nacht) durch die Softwar e
-
-gesetzt werden.
+2 Auf die Verwendung des Dosierschemas für drei Tageszeiten W-X-Y wurde im Rahmen der  Überarbeitung der Spezifikation von Version 2.0 korrigiert auf Version 2.2 verzichtet. Dosierschemata,  die von den Anwendenden mit nur drei Tageszeiten (Morgens-Mittags-Abends) erfasst werden,  können im Medikationsplan unter Verwendung der ersten drei Felder des 4-Tageszeiten-Schemas  abgebildet werden. Dabei muss der Wert „0“ in der vierten Tageszeit (zur Nacht) durch die Softwar e  gesetzt werden.
 
 -  4-Tageszeiten in der Form W-X-Y-Z W bedeutet die Anzahl für morgens, X die Anzahl
-
 - für mittags, Y die Anzahl für abends und Z die Anzahl für zur Nacht.
-
 -  Leere Werte im Ausdruck für W, X, Y, Z sind nicht erlaubt.
 
 . Die einzelnen
 
-Buchstaben stehen für eine ganze oder gebrochene Zahl mit vier Stellen und einem Zeichen
-
-für ein Komma, soweit benötigt  siehe vorheriges Kapitel A 2.6.
+Buchstaben stehen für eine ganze oder gebrochene Zahl mit vier Stellen und einem Zeichen  für ein Komma, soweit benötigt  siehe vorheriges Kapitel A 2.6.
 
 Andere Dosierschemata werden als Freitext im Carriersegment gespeichert und auf dem
 
@@ -4048,21 +3348,18 @@ Neuerungen, wie sie in der Spezifikation RFC 6531 beschrieben sind, sollen nicht
 
 ## A 2.9 Wertebereich von ISO/IEC 8859-1
 
-Die folgenden Wertebereiche (dezimal) werden ausgeschlossen: - 0 31 (Steuerzeichen) und
+Die folgenden Wertebereiche (dezimal) werden ausgeschlossen:
 
+- 0 31 (Steuerzeichen) und
 - 127 (Steuerzeichen).
 
 Alle sonstigen Werte sind zugelassen und entsprechen ISO/IEC 8859-1 (Latin-1).
 
 ## A 2.10 Schreibweise Wirkstärke
 
-Die Wirkstärke setzt sich aus einem Wert und einer Angabe für eine Einheit zusammen. Für
+Die Wirkstärke setzt sich aus einem Wert und einer Angabe für eine Einheit zusammen. Für  die Darstellung der Wirkstärke soll eine einheitliche Form verwendet werden. Über die
 
-die Darstellung der Wirkstärke soll eine einheitliche Form verwendet werden. Über die
-
-Referenzdatenbank nach § 31b SGB V werden verbindlich patientenverständliche Angaben
-
-für den Medikationsplan definiert.
+Referenzdatenbank nach § 31b SGB V werden verbindlich patientenverständliche Angaben  für den Medikationsplan definiert.
 
 
 ---
@@ -4071,29 +3368,30 @@ für den Medikationsplan definiert.
 
 Sprachfassung de-DE
 
-Veröffentlichung unter: [http://applications.kbv.de/keytabs/ita/schluesseltabellen.asp](http://applications.kbv.de/keytabs/ita/schluesseltabellen.asp)
+[Veröffentlichung unter:](http://applications.kbv.de/keytabs/ita/schluesseltabellen.asp)[http://applications.kbv.de/keytabs/ita/schluesseltabellen.asp](http://applications.kbv.de/keytabs/ita/schluesseltabellen.asp)
 
-(S_BMP_DOSIEREINHEIT, OID: 1.2.276.0.76.3.1.1.5.2.41)
+[(S_BMP_DOSIEREINHEIT, OID: 1.2.276.0.76.3.1.1.5.2.41)](http://applications.kbv.de/keytabs/ita/schluesseltabellen.asp)
 
 In der veröffentlichten Tabelle sind die Schlüsselworte der Dosiereinheiten für Arzneimittel und
 
 Medizinprodukte zur Anwendung beim Menschen gelistet, wie sie für das Datenfeld
 
-Dosiereinheit im Ausdruck (4.6) zu verwenden sind. Zu verwenden ist immer der Begriff in dem
+Dosiereinheit im Ausdruck (4.6) zu verwenden sind.
 
 Attribut „DN“ (= Bezeichnung
 
-Im 2D-Barcode ist der jeweilige Code der Dosiereinheit (Attribut „V“) zu verwenden.
+Im 2D-Barcode ist der jeweilige Code der Dosiereinheit
 
-Wird den Anwendenden eine Drop-Down-Liste zur Auswahl der Dosiereinheit angeboten, soll
+Wird den Anwendenden eine Drop-Down-Liste zur Auswahl der Dosiereinheit angeboten, soll  die Reihenfolge der Dosiereinheiten entsprechend der Werte in dem Attribut „Sortierung“  aufsteigend sortiert angegeben werden. Dies ist nicht notwendig, sofern eine eigene  nutzerfreundliche Sortierung (z. B. nach Relevanz) für die Dosiereinheiten zur Verfügung  gestellt wird.
 
-die Reihenfolge der Dosiereinheiten entsprechend der Werte in dem Attribut „Sortierung“
+```
+[](http://applications.kbv.de/keytabs/ita/schluesseltabellen.asp)
+[](http://applications.kbv.de/keytabs/ita/schluesseltabellen.asp)
+```
 
-aufsteigend sortiert angegeben werden. Dies ist nicht notwendig, sofern eine eigene
+Zu verwenden ist immer der Begriff in dem
 
-nutzerfreundliche Sortierung (z. B. nach Relevanz) für die Dosiereinheiten zur Verfügung
-
-gestellt wird.
+(Attribut „V“) zu verwenden.
 
 
 ---
@@ -4101,48 +3399,34 @@ gestellt wird.
 # Anhang 5 (informativ): Referenzen
 
 - Addendum zum Implementierungsleitfaden Patientenbezogener Medikationsplan:
-
 - Ultrakurzformat für kapazitätslimitierte Datenträger (UKFPMP), HL7 Deutschland.
-
-- [http://wiki.hl7.de/index.php?title=IG:Ultrakurzformat_Patientenbezogener_Medikation](http://wiki.hl7.de/index.php?title=IG:Ultrakurzformat_Patientenbezogener_Medikation) - splan
-
+- [http://wiki.hl7.de/index.php?title=IG:Ultrakurzformat_Patientenbezogener_Medikation](http://wiki.hl7.de/index.php?title=IG:Ultrakurzformat_Patientenbezogener_Medikationsplan)
+- [splan](http://wiki.hl7.de/index.php?title=IG:Ultrakurzformat_Patientenbezogener_Medikationsplan)[](http://wiki.hl7.de/index.php?title=IG:Ultrakurzformat_Patientenbezogener_Medikationsplan)
 - Aly F; Hellmann G; Möller H: Spezifikation für einen patientenbezogenen
-
 - Medikationsplan (Version 2.0 mit Korrekturen vom 16.12.2014).
-
-- [https://www.akdae.de/fileadmin/user_upload/akdae/AMTS/Medikationsplan/Medikatio](https://www.akdae.de/fileadmin/user_upload/akdae/AMTS/Medikationsplan/Medikatio) - nsplan_aktualisiert.pdf
-
+- [https://www.akdae.de/fileadmin/user_upload/akdae/AMTS/Medikationsplan/Medikatio](https://www.akdae.de/fileadmin/user_upload/akdae/AMTS/Medikationsplan/Medikationsplan_aktualisiert.pdf)
+- [nsplan_aktualisiert.pdf](https://www.akdae.de/fileadmin/user_upload/akdae/AMTS/Medikationsplan/Medikationsplan_aktualisiert.pdf)[](https://www.akdae.de/fileadmin/user_upload/akdae/AMTS/Medikationsplan/Medikationsplan_aktualisiert.pdf)
 - Botermann L, Krueger K, Eickhoff C, Kloft C, Schulz, M: Patients‘ handling of a
-
 - standardized medication plan: a pilot study and method devolopment, Patient
-
-- Preference and Adherence 2016:10 621-630.
-
-- [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4854253/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4854253/)
-
+- Preference and Adherence 2016:10 621 630.
+- [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4854253/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4854253/)[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4854253/)
 - Bundesministerium für Gesundheit (BMG): Aktionsplan 2021  2024 zur
-
 - Verbesserung der Arzneimitteltherapiesicherheit (AMTS) in Deutschland, Bonn, 04.
-
 - Februar 2021.
+- [https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/5_Publikationen/Ge](https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/5_Publikationen/Gesundheit/Abschlussberichte/Aktionsplan_2021-2024_BMG_AMTS.pdf)
+- [sundheit/Abschlussberichte/Aktionsplan_2021](https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/5_Publikationen/Gesundheit/Abschlussberichte/Aktionsplan_2021-2024_BMG_AMTS.pdf)[-2024_BMG_AMTS.pdf](https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/5_Publikationen/Gesundheit/Abschlussberichte/Aktionsplan_2021-2024_BMG_AMTS.pdf)[](https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/5_Publikationen/Gesundheit/Abschlussberichte/Aktionsplan_2021-2024_BMG_AMTS.pdf)
+- IFA: PPN. Pharmacy Product Number Technische Spezifikation Version 3.06
+- November 2023.
+- [https://www.ifaffm.de/mandanten/1/documents/04_ifa_coding_system/IFA](https://www.ifaffm.de/mandanten/1/documents/04_ifa_coding_system/IFA-Info_Spec_PPN_Code_Handelspackung_DE.pdf)
+- [Info_Spec_PPN_Code_Handelspackung_DE.pdf](https://www.ifaffm.de/mandanten/1/documents/04_ifa_coding_system/IFA-Info_Spec_PPN_Code_Handelspackung_DE.pdf)[](https://www.ifaffm.de/mandanten/1/documents/04_ifa_coding_system/IFA-Info_Spec_PPN_Code_Handelspackung_DE.pdf)
+- W3C: Extensible Markup Language (XML) 1.0 (Fifth Edition),W3C Recommendation
+- 26 November 2008
 
-- [https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/5_Publikationen/Ge](https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/5_Publikationen/Ge)
-
-- sundheit/Abschlussberichte/Aktionsplan_2021-2024_BMG_AMTS.pdf
-
-- IFA: PPN. Pharmacy Product Number Technische Spezifikation Version 3.06 - November 2023.
-
-- [https://www.ifaffm.de/mandanten/1/documents/04_ifa_coding_system/IFA](https://www.ifaffm.de/mandanten/1/documents/04_ifa_coding_system/IFA)
-
-- Info_Spec_PPN_Code_Handelspackung_DE.pdf
-
-- W3C: Extensible Markup Language (XML) 1.0 (Fifth Edition),W3C Recommendation - 26 November 2008
-
-[https://www.w3.org/TR/xml/](https://www.w3.org/TR/xml/)
+[https://www.w3.org/TR/xml/](https://www.w3.org/TR/xml/)[](https://www.w3.org/TR/xml/)
 
 - Referenzdatenbank nach § 31b SGB V
-
-- [https://www.bfarm.de/DE/Arzneimittel/Arzneimittelinformationen/Referenzdatenbank/](https://www.bfarm.de/DE/Arzneimittel/Arzneimittelinformationen/Referenzdatenbank/) - _artikel.html
+- [https://www.bfarm.de/DE/Arzneimittel/Arzneimittelinformationen/Referenzdatenbank/](https://www.bfarm.de/DE/Arzneimittel/Arzneimittelinformationen/Referenzdatenbank/)
+- _artikel.html
 
 
 ---
@@ -4346,9 +3630,7 @@ Dosierungsschema:
 
 Datensicherheit:
 
-nur die Daten der Leistungserbringer*innen können bei
-
-Verlust rekonstruiert werden
+nur die Daten der Leistungserbringer*innen können bei  Verlust rekonstruiert werden
 
 Datenschutz:
 
@@ -4372,9 +3654,7 @@ möglich mittels Scan-App
 
 Fax  Kopierer - Scanner:
 
-2D-Barcode nicht mehr nutzbar bei Versand via Fax oder  bei Verkleinerung durch einen Fotokopierer. 2D-Barcode
-
-bleibt nutzbar bei größengleichem Kopieren oder  Scannen.
+2D-Barcode nicht mehr nutzbar bei Versand via Fax oder  bei Verkleinerung durch einen Fotokopierer. 2D-Barcode  bleibt nutzbar bei größengleichem Kopieren oder  Scannen.
 
 PDF-Konverter:
 
@@ -4387,7 +3667,6 @@ Separator getrennt, fixe Anzahl an Elementen pro Eintrag,  speicherplatzoptimier
 Klassifikationen oder Thesauri: PZN-8, eigene Codelisten 2D-Barcode:
 
 Alle Daten sind in transformierter oder ableitbarer Form  enthalten, kein Serverzugriff notwendig
-
 
 ---
 
@@ -4418,10 +3697,10 @@ Der Medikationsplan muss für maximal 1 Jahr eingelesen  werden können und ist 
 
 # Anhang 8 (XML-Schema, normativ)
 
-| XML-Schema (W3C)  Die jeweils aktuelle Schemadatei ist in | https://update.kbv.de/ita-update/ |
+| XML-Schema (W3C)  Die jeweils aktuelle Schemadatei ist in | https://update.kbv.de/ita-update/  Arzneimittel/BMP/ |
 |---|---|
 
-dem angegebenen Pfad hinterlegt. Verordnungen/Arzneimittel/BMP/
+dem angegebenen Pfad hinterlegt. Verordnungen/
 
 
 ---
@@ -4456,19 +3735,18 @@ Abbildung 12: XML-Schema MP - Teil 6: Attribute eines Medikationseintrages
 
 ---
 
-| Abbildung | 13: XML-Schema | MP - Teil | 7: Wirkstoff |
-|---|---|---|---|
-| Abbildung | 14: | XML-Schema MP - Teil | 8: Freitextzeile |
-| Abbildung | 15: | XML-Schema MP - | Teil 9: Rezeptur |
-| Anlage | 3 – Spezifikation | BMP Version | 2.8 vom 01.10.2025 82 |
+Abbildung 13: XML-Schema MP - Teil 7: Wirkstoff
 
-Abbildung 13: XML-Schema MP - Teil 7: Wirkstoff Abbildung 14: XML-Schema MP - Teil 8: Freitextzeile Abbildung 15: XML-Schema MP - Teil 9: Rezeptur
+Abbildung 14: XML-Schema MP - Teil 8: Freitextzeile
+
+Abbildung 15: XML-Schema MP - Teil 9: Rezeptur
+
 
 ---
 
-\| **Nr.** | **XML-Datenfeld(er)** | **Regeltext** | **anwendbar** |
-\| **Anhang 9 (normativ): Regeln zur Anwendung auf die Daten** | Im Folgenden sind Regeln wiedergeben, die auf |  | Tabelle 10: Liste an Regeln, die ergänzend zum XML-Schema auf den Daten/Inhalten anzuwenden |
-| **Anhang 9 (normativ): Regeln zur Anwendung auf die Daten** | Im Folgenden sind Regeln wiedergeben, die auf |  | Tabelle 10: Liste an Regeln, die ergänzend zum XML-Schema auf den Daten/Inhalten anzuwenden |
+\| Nr. | XML-Datenfeld(er) | Regeltext | anwendbar |
+\| Anhang 9 (normativ): Regeln zur Anwendung auf die Daten | Im Folgenden sind Regeln wiedergeben, die auf |  | Tabelle 10: Liste an Regeln, die ergänzend zum XML-Schema auf den Daten/Inhalten anzuwenden |
+| Anhang 9 (normativ): Regeln zur Anwendung auf die Daten | Im Folgenden sind Regeln wiedergeben, die auf |  | Tabelle 10: Liste an Regeln, die ergänzend zum XML-Schema auf den Daten/Inhalten anzuwenden |
 |---|---|---|---|
 | 1 | Instanz-ID | Der Daten-Typ ist GUID (Global | MUSS |
 | 2 | Seitenzahl | Die erste Seite eines | MUSS |
@@ -4507,8 +3785,8 @@ und in den Annotationen des XML-Schemas aus Anhang 8 benannt sind: sind. Vorname
 ---
 
 \| 15 | Instanz-ID / | Bei jeder Aktualisierung des | MUSS |
-\| **Nr.** | **XML-Datenfeld(er)** | **Regeltext** | **anwendbar** |
-| **Nr.** | **XML-Datenfeld(er)** | **Regeltext** | **anwendbar** |
+\| Nr. | XML-Datenfeld(er) | Regeltext | anwendbar |
+| Nr. | XML-Datenfeld(er) | Regeltext | anwendbar |
 |---|---|---|---|
 | 16 | Parameterfreitext | Der Text darf nicht mehr als 2 | MUSS |
 | 17 | Block | Ab dem 2. Block muss entweder | MUSS |
@@ -4547,8 +3825,8 @@ Ausdruckdatum codiert oder Freitext als Code strukturiert oder Freitext Zusatzze
 ---
 
 \| Samstag (Wert 6 im XML) oder | Sonntag (Wert 7 im XML) | 29 | Freitextzeile |
-\| **Nr.** | **XML-Datenfeld(er)** | **Regeltext** | **anwendbar** |
-| **Nr.** | **XML-Datenfeld(er)** | **Regeltext** | **anwendbar** |
+\| Nr. | XML-Datenfeld(er) | Regeltext | anwendbar |
+| Nr. | XML-Datenfeld(er) | Regeltext | anwendbar |
 |---|---|---|---|
 | Der Text darf nicht mehr als 1 | MUSS | 30 | Rezeptur |
 | Der Text darf nicht mehr als 1 | MUSS |  |  |

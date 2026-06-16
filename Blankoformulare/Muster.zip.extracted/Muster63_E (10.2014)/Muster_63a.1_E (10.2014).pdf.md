@@ -10,9 +10,7 @@
 
 **Erst-** **verordnung**
 
-**Unfall**
-
-**Kostenträgerkennung** **Versicherten-Nr.**
+**Unfall** **Kostenträgerkennung** **Versicherten-Nr.**
 
 **Status**
 
@@ -50,9 +48,7 @@
 
 **exulzerierende Wunden oder Tumore**
 
-**Nähere Beschreibung des komplexen Symptomgeschehens und des besonderen Versorgungsbedarfs zur Begründung,**
-
-**warum spezialisierte ambulante Palliativversorgung notwendig ist (z. B. therapierefraktäre Schmerzen, Ruhedyspnoe /** **Erstickungsanfälle, nicht beherrschbares Erbrechen / Durchfälle)**
+**Nähere Beschreibung des komplexen Symptomgeschehens und des besonderen Versorgungsbedarfs zur Begründung,** **warum spezialisierte ambulante Palliativversorgung notwendig ist (z. B. therapierefraktäre Schmerzen, Ruhedyspnoe /** **Erstickungsanfälle, nicht beherrschbares Erbrechen / Durchfälle)**
 
 **Aktuelle Medikation (ggf. einschließlich BtM)**
 

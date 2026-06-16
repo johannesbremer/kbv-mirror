@@ -11,13 +11,14 @@
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_QSHGV]
 
-BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS  KRAFT
+BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS  KRAFT  
+
 
 ---
 
 INHALT
 
-| **1** | **ALLGEMEINES** | **5** |
+| 1 | ALLGEMEINES | 5 |
 |---|---|---|
 | 1.1 | Rechtsgrundlage | 5 |
 | 1.2 | Zertifizierungsablauf | 5 |
@@ -27,7 +28,7 @@ INHALT
 | 1.6 | Prüfvorgaben | 7 |
 | 1.7 | Praxisdaten/ Arztstempel | 7 |
 
-| **2** |  | **PRÜFFÄLLE** | **8** |
+| 2 |  | PRÜFFÄLLE | 8 |
 |---|---|---|---|
 | 2.1 | Prüffall | 5601 | 8 |
 | 2.2 | Prüffall | 5602 | 10 |
@@ -35,7 +36,7 @@ INHALT
 | 2.4 | Prüffall | 5604 | 15 |
 | 2.5 | Prüffall | 5605 | 17 |
 | 2.6 | Prüffall | 5606 | 18 |
-| 2.7 |  | Prüffall 5608 | 22 |
+| 2.7 | Prüffall | 5608 | 22 |
 | 2.8 | Prüffall | 5609 (optional) | 23 |
 | 2.9 | Prüffall | 5610 (Konditional) | 25 |
 
@@ -47,9 +48,7 @@ INHALT
 
 **28**
 
-/ Version: 3.01 / 12. August 2021
-
-Prüffall 5601 Prüffall 5602 Prüffall 5603 Prüffall 5604 Prüffall 5605 Prüffall 5606 Prüffall 5609 (optional) Prüffall 5610 (Konditional)
+Prüffall 5601 Prüffall 5602 Prüffall 5603 Prüffall 5604 Prüffall 5605 Prüffall 5606 Prüffall 5608 Prüffall 5609 (optional) Prüffall 5610 (Konditional) 
 
 
 ---
@@ -62,18 +61,18 @@ Abbildung 2: Testdatenvalidierung 27
 
 Abbildung 3: Struktur des ZIP-Archives für die Testdatenvalidierung anhand von Beispieldateien 27
 
-
 ---
 
 DOKUMENTENHISTORIE
 
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 3.01 | 12.08.2021 | KBV | Überarbeitung der Links | Austausch des FTP- https://update.kbv.de | Alle |
 | 3.00 | 15.08.2019 | KBV | Aktualisierung der    Überarbeitung des | Schnittstellenversion    Überführung ins neue | 8ff |
 | 2.03 | 12.03.2018 | KBV | Einreichung des Antrages | Anpassung des | 8ff |
 
-Prüffälle auf die Schnittstellenversion 1.12 Layouts auf Zertifizierung Servers durch neuen „Update-Server“ der KBV: 1.12 ist ab 01.10.2019 zu verwenden Corporate Design Zertifizierungsportals
+Prüffälle auf die Schnittstellenversion 1.12 Layouts auf Zertifizierung Servers durch neuen „Update-Server“ der KBV: 1.12 ist ab 01.10.2019 zu verwenden Corporate Design Zertifizierungsportals 
+
 
 ---
 
@@ -93,32 +92,24 @@ Rechtliche Grundlage bildet die „Vereinbarung von Qualitätssicherungsmaßnahm
 
 Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten:
 
-- 1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument über das Zertifizierungsportal bei der KBV eingereicht werden.  Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen und erst nach Erhalt der  Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den vorab via E-Mail
-
-- eingereichten Antrag auf Zertifizierung hochladen.
-
+- 1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument über das Zertifizierungsportal bei der KBV eingereicht werden.  Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  [Antrag auf Zertifizierung eingescannt per Mail (](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[) einreichen und erst nach Erhalt der](mailto:pruefstelle@kbv.de) [Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den vorab via](mailto:pruefstelle@kbv.de)E-Mail  eingereichten Antrag auf Zertifizierung hochladen.
 - 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.
-
 - 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.
-
 - 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen durch das Referat Zertifizierung mit ein) kann dem Zertifizierungsgegenstand die  entsprechende Zulassung ausgesprochen werden.
 
 **HINWEIS**
 
 Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragsteller, müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist, kann die KBV das Zertifizierungsverfahren einstellen.
 
-
 ---
 
 ## 1.3 ZERTIFIZIERUNGSPORTAL
 
-Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
+[Das Zertifizierungsportal ist über](https://zertifizierungsportal2.kbv.de/)[https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/)[zu erreichen.](https://zertifizierungsportal2.kbv.de/)
 
-Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran  anschließenden manuellen Prüfung durch das Referat Zertifizierung.
+[Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran](https://zertifizierungsportal2.kbv.de/) anschließenden manuellen Prüfung durch das Referat Zertifizierung.
 
-Die Zugangsdaten können direkt über das Portal oder beim Referat Zertifizierung ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
-
-unter Angabe der System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert  werden. Bitte beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+[Die Zugangsdaten können direkt über das Portal oder beim Referat Zertifizierung (](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) [unter Angabe der System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert](mailto:pruefstelle@kbv.de) werden. Bitte beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
 
 Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung hochgeladen haben. Das Portal zeigt Ihnen in Form von Aufgaben (Menüpunkt: „Meine  Aufgaben“) die nächsten Arbeiten an, die von Ihnen durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird für Sie eine neue Aufgabe generiert.
 
@@ -126,42 +117,30 @@ Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln
 
 Die in das Portal integrierte Prüfautomatisierung führt neben einer inhaltlichen Prüfung auch eine Prüfung  auf Vollständigkeit der eingereichten Prüfunterlagen durch.
 
-Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, werden
+Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, werden  Sie vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehler zu  beheben bzw. die Lieferung zu vervollständigen.
 
-Sie vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehler zu  beheben bzw. die Lieferung zu vervollständigen.
+Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im HTML- oder XML -Format) erzeugt und  Ihnen zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen durch  das Referat Zertifizierung geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung  als fehlerfrei erkannt wurden, erfolgt die Prüfung durch das Referat Zertifizierung. Wird hierbei festgestellt,  dass Dateien fehlerhaft sind, werden Sie aufgefordert eine Korrekturlieferung hochzuladen.
 
-Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im HTML- oder XML -Format) erzeugt und  Ihnen zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen durch  das Referat Zertifizierung geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung
-
-als fehlerfrei erkannt wurden, erfolgt die Prüfung durch das Referat Zertifizierung. Wird hierbei festgestellt,  dass Dateien fehlerhaft sind, werden Sie aufgefordert eine Korrekturlieferung hochzuladen.
-
-Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des Zertifizierungsportals  genutzt werden. Bitte beachten Sie, dass hierfür keine anschließende Prüfung durch das Referat  Zertifizierung stattfindet. Des Weiteren müssen für die Testdatenvalidierung die Hinweise in Kapitel 3
-
-berücksichtigt werden.
+Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des Zertifizierungsportals  genutzt werden. Bitte beachten Sie, dass hierfür keine anschließende Prüfung durch das Referat  Zertifizierung stattfindet. Des Weiteren müssen für die Testdatenvalidierung die Hinweise in Kapitel 3  berücksichtigt werden.
 
 ## 1.4 ZERTIFIZIERUNGSDOKUMENTE
 
-Alle erforderlichen Unterlagen stehen im Internet zum Download unter ITA-Update bereit. In diesem  Zusammenhang berücksichtigen Sie bitte das Kapitel Referenzierte Dokumente.
+[Alle erforderlichen Unterlagen stehen im Internet zum Download unter](https://update.kbv.de/ita-update/)[ITA-Update](https://update.kbv.de/ita-update/)[bereit. In diesem](https://update.kbv.de/ita-update/) Zusammenhang berücksichtigen Sie bitte das Kapitel Referenzierte[Dokumente](https://update.kbv.de/ita-update/)
 
 ## 1.5 PRÜFUNTERLAGEN
 
 Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:
 
-- , welche die einzelnen XML-Dateien im entsprechenden Verzeichnis
-
--  Eine Archivdatei (*.zip.XKM)1
-
-- enthält. Die Vorgaben für die Bildung der Dateinamen, die Verzeichnisstruktur und die weiteren  Angaben entnehmen Sie bitte folgender Quelle: [KBV_ITA_VGEX_XML-Schnittstellen] (im Archiv
-
-- „Austausch von XML-Daten“) Kapitel 3.4 „Dateinamen“. Die XML-Dateien müssen fehlerfrei gegen das  jeweils aktuelle, von der KBV vorgegebene, Prüfschema validierbar sein. Die Daten können nur über das  Zertifizierungsportal hochgeladen und geprüft werden.
+- Eine Archivdatei (*.zip.XKM)
+- KBV_ITA_VGEX_XML-Schnittstellen] (im Archiv  „Austausch von XML-Daten“) Kapitel 3.4 „Dateinamen“. Die XML-Dateien müssen fehlerfrei gegen das  jeweils aktuelle, von der KBV vorgegebene, Prüfschema validierbar sein. Die Daten können nur über das  Zertifizierungsportal hochgeladen und geprüft werden.
+- 1, welche die einzelnen XML-Dateien im entsprechenden Verzeichnis  enthält. Die Vorgaben für die Bildung der Dateinamen, die Verzeichnisstruktur und die weiteren  Angaben entnehmen Sie bitte folgender Quelle: [
 
 1 Mit XKM verschlüsseltes Zip-Archiv. Das Sternchen ist als Wildcard zu verstehen und stellt eine „beliebige“ Zeichenfolge dar.  (Namensvergabekonventionen beachten!)
 
 
 ---
 
-- Die geforderten Screenshots sind in einem gesonderten Ordner „Screenshots“ zur Verfügung zu stellen.
-
-- Bitte speichern Sie jeden Screenshot in einer
+- Die geforderten Screenshots sind in einem gesonderten Ordner „Screenshots“ zur Verfügung zu stellen.  Bitte speichern Sie jeden Screenshot in einer
 
 *Screenshot_P_K.pdf*
 
@@ -183,7 +162,7 @@ Die Prüffalle 5609 und 5610 sind nur dann verpflichtend zu bearbeiten und einzu
 
 Folgende Angaben sind für die Zertifizierung zu verwenden:
 
-| **BEZEICHNUNNG** | **INHALT** |
+| BEZEICHNUNNG | INHALT |
 |---|---|
 | **Betriebsstättennummer (BSNR):** | 391234511 |
 | **BSNR-Bezeichnung:** | Praxis Dr. med. Heribert Topp-Glücklich |
@@ -191,7 +170,9 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | **Dokumentationsdatum (Kopfdatum):** | 28.06.2020 |
 | **Zu verwendende Prüfnummer:** | Y/56/1301/36/000 |
 
-- PDF-Datei mit folgender Namenskonvention: . Beispielsweise lautet
+- PDF-Datei mit folgender Namenskonvention:
+
+. Beispielsweise lautet
 
 
 ---
@@ -209,7 +190,7 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | Bauform |  |
 |  |  |
 | Zentrale Hörstörung ausgeschlossen |  |
-| Sprachverstehen: mit Kopfhörer am d Bopt: Sprachtest möglich | nein |
+| Sprachverstehen: mit Kopfhörer am dBopt: Sprachtest möglich | nein |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ dB |  |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ % (E/Z) |  |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ dB (SVS) |  |
@@ -478,9 +459,9 @@ PRÜFFALL 5603 1. Anlegen einer Vor Verordnung und einer Verordnung: anderes OLS
 | HNO-ärztlicher Vorschlag zur Gerätetechnik: Sonderversorgung | CROS / BiCROS; andere |
 |  | Andere Gerätetechnik |
 
-- 2.
+Mittelwert bei 0,5 / 1 / 2 / 4 kHz  Anlegen einer Nach Verordnung: % (E/Z) dB (SVS) Fragebogen(vor / nach HG -Versorgung): ____ %  geschlossene Versorgung; Ex Hörer teilimplantiertes Knochenleitungsgerät Versorgung; Ex Hörer Knochenleitungsgerät - 2.
 
-Mittelwert bei 0,5 / 1 / 2 / 4 kHz  Anlegen einer Nach Verordnung: % (E/Z) dB (SVS) Fragebogen(vor / nach HG -Versorgung): ____ %  geschlossene Versorgung; Ex Hörer teilimplantiertes Knochenleitungsgerät Versorgung; Ex Hörer Knochenleitungsgerät |  |  |
+|  |  |
 |---|---|
 | **Patientenangaben** | |
 | Patienten-ID | Ac13762434 |
@@ -524,7 +505,6 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  Anlegen einer Nach Verordnung: % (E/Z) dB (S
 |  |  |
 |  |  |
 | Versorgung erfolgte zum Festbetrag | nein |
-
 
 ---
 
@@ -658,9 +638,10 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  2. Anlegen einer Nach Verordnung: Patientena
 
 Screenshots oder Erläuterungen, wie das Softwaresystem die Eingabefehler diese nicht vorgegeben mit HG Fragebogen (vor / nach HG-Versorgung): ____ %
 
+
 ---
 
-| **KONSTELLATION** |  |
+| KONSTELLATION |  |
 |---|---|
 | **Vor Verordnung** | |
 | Untersuchungsdatum (Vor Verordnung / Verordnung) | 15-01-2020 |
@@ -684,7 +665,7 @@ Screenshots oder Erläuterungen, wie das Softwaresystem die Eingabefehler diese 
 | **Prüfunterlagen** | Screenshots oder Erläuterungen, wie das Softwaresystem die |
 | **Hinweis** | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben |
 
-| **KONSTELLATION 5606** |  |
+| KONSTELLATION 5606 |  |
 |---|---|
 | **Patientenangaben** | |
 | Patienten-ID |  |
@@ -693,7 +674,7 @@ Screenshots oder Erläuterungen, wie das Softwaresystem die Eingabefehler diese 
 | **Vor Verordnung** | |
 | Untersuchungsdatum (Vor Verordnung / Verordnung) | 15-01-2020 |
 
-| **KONSTELLATION** |  |
+| KONSTELLATION |  |
 |---|---|
 | **Vor Verordnung** | |
 | Untersuchungsdatum (Vor Verordnung / Verordnung) | 15-01-2020 |
@@ -706,12 +687,12 @@ verhindert Eingabefehler -1  5606-2 andere PRÜFFALL 5606  5606-3 andere
 
 ---
 
-| **Vor Verordnung** | Untersuchungsdatum (Vor Verordnung / Verordnung) |
+| Vor Verordnung | Untersuchungsdatum (Vor Verordnung / Verordnung) |
 |---|---|
 | 15-01-2020 | |
 | Sprachverstehen: mit Kopfhörer am dBopt: Sprachtest möglich | ja |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ dB |  |
-| Sprachverstehen: mit Kopfhörer am d Bopt: von ___ % (E/Z) |  |
+| Sprachverstehen: mit Kopfhörer am dBopt: von ___ % (E/Z) |  |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ dB (SVS) |  |
 | Sprachtestmaterial |  |
 |  | *Anderes Material* |
@@ -722,7 +703,7 @@ verhindert Eingabefehler -1  5606-2 andere PRÜFFALL 5606  5606-3 andere
 | Sprachtestmaterial |  |
 |  | ** |
 
-| **KONSTELLATION** |  |
+| KONSTELLATION |  |
 |---|---|
 | **Vor Verordnung** | |
 | Untersuchungsdatum (Vor Verordnung / Verordnung) | 15-01-2020 |
@@ -738,13 +719,13 @@ verhindert Eingabefehler -1  5606-2 andere PRÜFFALL 5606  5606-3 andere
 | Sprachtestmaterial | Freiburger Einsilber |
 |  | ** |
 
-anderes KONSTELLATION  5606-4 Hörgeräteerstversorgung Wenn Vorversorgung, wann Bauform andere Zentrale Hörstörung ausgeschlossen anderes KONSTELLATION  5606-5 anderes nein 47 dB (SVS) Freiburger Einsilber| **KONSTELLATION** |  |
+anderes KONSTELLATION  5606-4 Hörgeräteerstversorgung Wenn Vorversorgung, wann Bauform andere Zentrale Hörstörung ausgeschlossen anderes KONSTELLATION  5606-5 anderes nein 47 dB (SVS) Freiburger Einsilber| KONSTELLATION |  |
 |---|---|
 | **Vor Verordnung** | |
 | Untersuchungsdatum (Vor Verordnung / Verordnung) | 15-01-2020 |
 | Sprachverstehen: mit Kopfhörer am dBopt: Sprachtest möglich | ja |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ dB |  |
-| Sprachverstehen: mit Kopfhörer am d Bopt: von ___ % (E/Z) |  |
+| Sprachverstehen: mit Kopfhörer am dBopt: von ___ % (E/Z) |  |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ dB (SVS) |  |
 | Sprachtestmaterial |  |
 |  | *Anderes Material* |
@@ -752,14 +733,14 @@ anderes KONSTELLATION  5606-4 Hörgeräteerstversorgung Wenn Vorversorgung, wann
 
 ---
 
-| **KONSTELLATION** |  |
+| KONSTELLATION |  |
 |---|---|
 | **Verordnung** | |
 | Schallempfindungsschwerhörigkeit |  |
 | Schallleitungsschwerhörigkeit |  |
 | Kombinierte Schwerhörigkeit |  |
 
-| **KONSTELLATION** |  |
+| KONSTELLATION |  |
 |---|---|
 | **Verordnung** | |
 | Schallempfindungsschwerhörigkeit | rechts |
@@ -768,7 +749,7 @@ anderes KONSTELLATION  5606-4 Hörgeräteerstversorgung Wenn Vorversorgung, wann
 | Schweregrad der Hörstörung (WHO 2001): rechts | hochgradig schwerhörig; Hörreste |
 | Schweregrad der Hörstörung (WHO 2001): links |  |
 
-| **KONSTELLATION** |  |
+| KONSTELLATION |  |
 |---|---|
 | **Nach Verordnung** | |
 | Untersuchungsdatum (Nachsorge) | 17-06-2020 |
@@ -783,11 +764,12 @@ anderes KONSTELLATION  5606-4 Hörgeräteerstversorgung Wenn Vorversorgung, wann
 | Keine FF-Untersuchung möglich: Hörweite (m) ohne HG | 5 |
 | Keine FF-Untersuchung möglich: Hörweite (m) mit HG | 8 |
 
-5606-6  5606-7  5606-8 (E/Z) (SVS)
+5606-6  5606-7  5606-8 (E/Z) (SVS) 
+
 
 ---
 
-| **KONSTELLATION** |  |
+| KONSTELLATION |  |
 |---|---|
 | **Nach Verordnung** | |
 | Untersuchungsdatum (Nachsorge) | 17-06-2020 |
@@ -802,7 +784,7 @@ anderes KONSTELLATION  5606-4 Hörgeräteerstversorgung Wenn Vorversorgung, wann
 | Keine FF-Untersuchung möglich: Hörweite (m) ohne HG |  |
 | Keine FF-Untersuchung möglich: Hörweite (m) mit HG |  |
 
-| **KONSTELLATION** |  |
+| KONSTELLATION |  |
 |---|---|
 | **Nach Verordnung** | |
 | Untersuchungsdatum (Nachsorge) | 17-06-2020 |
@@ -817,7 +799,8 @@ anderes KONSTELLATION  5606-4 Hörgeräteerstversorgung Wenn Vorversorgung, wann
 | Keine FF-Untersuchung möglich: Hörweite (m) ohne HG |  |
 | Keine FF-Untersuchung möglich: Hörweite (m) mit HG |  |
 
-5606-9 andere (SVS)  5606-10 andere Freifeld mit Hörgerät(en): ___ % (E/Z) (SVS)
+5606-9 andere (SVS)  5606-10 andere Freifeld mit Hörgerät(en): ___ % (E/Z) (SVS) 
+
 
 ---
 
@@ -826,12 +809,12 @@ anderes KONSTELLATION  5606-4 Hörgeräteerstversorgung Wenn Vorversorgung, wann
 |  |  |
 |---|---|
 | **Prüffall-ID** | 5608 |
-| **Testziel** | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges QS  ) |
+| **Testziel** | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges QS  KBV_ITA_VGEX_Anforderungskatalog_QSHGV) |
 | **Voraussetzung** |  |
 | **Prüfunterlagen** | Screenshots / PDFs zum Nachweis der korrekten Systemfunktionalität |
 | **Hinweis** | Dieser Testfall ist unterteilt in vier Szenarien |
 
-\| **SZENARIEN** |
+\| SZENARIEN |
 \|---|
 \| **Szenario 1** |
 \| Es wird eine „(Vor) Verordnung“ für einen noch nicht im System existierenden Patienten angelegt. Bei |
@@ -842,7 +825,8 @@ anderes KONSTELLATION  5606-4 Hörgeräteerstversorgung Wenn Vorversorgung, wann
 \| **Szenario 4** |
 \| Zeigen Sie mittels Screenshots, dass eine Korrektur |
 
-Hörgeräteversorgung (siehe KBV_ITA_VGEX_Anforderungskatalog_QSHGV Angabe der Patienten darf entsprechend den Anforderungen P1-40 und P1-200 die bereits vergebene Patienten akzeptieren. Für den Nachweis der korrekten Systemfunktionalität werden ein oder mehrere Screenshots erwartet. Speichern und Archivieren von Dokumentationsdaten erwartet. Insbesondere soll der Nachweis erbracht werden, dass es möglich ist, eine nicht vollständige und/oder fehlerhafte Dokumentation zwischenzuspeichern, sodass diese erhalten bleibt und erweiterbar ist. Ein Screenshot soll den erneuten Aufruf dieser Dokumentation zur nachträglichen Bearbeitung belegen (möglichst an einem anderen Datum). nachzuweisen, dass der Bogen der „(Vor) Verordnung“ und „Nach Verordnung“ ausgedruckt werden kann (Anforderung: P1-160).  Dokumentation am 01.07. -ID ist eine bereits existierende Nummer (z.B. Ac13762434) einzugeben. Das System 2020 (nach Ende des Melde-/ Prüfquartals) nicht mehr möglich ist (P1-20). P1-170 bis P1 -190 nach. Es werden Screenshots vom  oder Änderung der im Prüffall 5603 erstellten -ID nicht PDF-Dokument
+Hörgeräteversorgung (siehe Angabe der Patienten darf entsprechend den Anforderungen P1-40 und P1-200 die bereits vergebene Patienten akzeptieren. Für den Nachweis der korrekten Systemfunktionalität werden ein oder mehrere Screenshots erwartet. Speichern und Archivieren von Dokumentationsdaten erwartet. Insbesondere soll der Nachweis erbracht werden, dass es möglich ist, eine nicht vollständige und/oder fehlerhafte Dokumentation zwischenzuspeichern, sodass diese erhalten bleibt und erweiterbar ist. Ein Screenshot soll den erneuten Aufruf dieser Dokumentation zur nachträglichen Bearbeitung belegen (möglichst an einem anderen Datum). nachzuweisen, dass der Bogen der „(Vor) Verordnung“ und „Nach Verordnung“ ausgedruckt werden kann (Anforderung: P1-160).  Dokumentation am 01.07. -ID ist eine bereits existierende Nummer (z.B. Ac13762434) einzugeben. Das System -ID nicht P1-170 bis P1 -190 nach. Es werden Screenshots vom PDF-Dokument  oder Änderung der im Prüffall 5603 erstellten 2020 (nach Ende des Melde-/ Prüfquartals) nicht mehr möglich ist (P1-20). 
+
 
 ---
 
@@ -874,7 +858,7 @@ Hörgeräteversorgung (siehe KBV_ITA_VGEX_Anforderungskatalog_QSHGV Angabe der P
 | **2.8** |  |
 |  | **Prüffall-ID** |
 | 5609 | **Testziel** |
-| Kontrolle der korrekten |  |
+| Kontrolle der korrekten | KBV_ITA_VGEX_Plausi_QSHGV |
 | ) | **Voraussetzung** |
 |  | **Prüfunterlagen** |
 |  |  |
@@ -882,12 +866,12 @@ Hörgeräteversorgung (siehe KBV_ITA_VGEX_Anforderungskatalog_QSHGV Angabe der P
 |  |  |
 |---|---|
 | **Prüffall-ID** | 5609 |
-| **Testziel** | Kontrolle der korrekten  ) |
+| **Testziel** | Kontrolle der korrekten  KBV_ITA_VGEX_Plausi_QSHGV) |
 | **Voraussetzung** |  |
 | **Prüfunterlagen** | › › |
 | **Hinweis** |  |
 
-Erkennung von Verletzungen gegen optionale Plausibilitäten (siehe KBV_ITA_VGEX_Plausi_QSHGV Screenshots von den Warnmeldungen  Eine im Anschluss erzeugte XML-Datei PRÜFFALL 5609 (OPTIONAL) 1. Anlegen einer Vor Verordnung und einer Verordnung: andere anderes
+Erkennung von Verletzungen gegen optionale Plausibilitäten (siehe Screenshots von den Warnmeldungen  Eine im Anschluss erzeugte XML-Datei PRÜFFALL 5609 (OPTIONAL) 1. Anlegen einer Vor Verordnung und einer Verordnung: andere anderes
 
 ---
 
@@ -924,11 +908,12 @@ Erkennung von Verletzungen gegen optionale Plausibilitäten (siehe KBV_ITA_VGEX_
 | HNO-ärztlicher Vorschlag zur Gerätetechnik: Sonderversorgung | CROS / BiCROS |
 |  |  |
 
-Mittelwert bei 0,5 / 1 / 2 / 4 kHz  andere andere
+Mittelwert bei 0,5 / 1 / 2 / 4 kHz  andere andere 
+
 
 ---
 
-| **APHAB-BOGEN** |  |  |
+| APHAB-BOGEN |  |  |
 |---|---|---|
 | **Frage** | (Vor) | Nach |
 | Frage 1: Wenn ich in einem belebten Lebensmittelgeschäft mit der | A | G |
@@ -947,7 +932,7 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  andere andere
 | **Prüffall-ID** | 5610 | Testziel |
 | Kontrolle der optionalen Funktionen K1 | KBV_ITA_VGEX_Anforderungskatalog_QSHGV | ) |
 | **Voraussetzung** | Nur zu bearbeiten, wenn in der Software die Parameter | **Prüfunterlagen** |
-| Screenshots für den Prüffall 5602 zum Nachweis, dass der Nutzen (Verbesserung |  | ) ermittelt wird |
+| Screenshots für den Prüffall 5602 zum Nachweis, dass der Nutzen (Verbesserung | EXT_ITA_AHEX_Berechnung_APHAB_QSHGV | ) ermittelt wird |
 | **Hinweis** |  |  |
 |  |  |  |
 |  |  |  |
@@ -961,10 +946,10 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  andere andere
 | **Prüffall-ID** | 5610 |
 | Testziel | Kontrolle der optionalen Funktionen K1 KBV_ITA_VGEX_Anforderungskatalog_QSHGV) |
 | **Voraussetzung** | Nur zu bearbeiten, wenn in der Software die Parameter |
-| **Prüfunterlagen** | Screenshots für den Prüffall 5602 zum Nachweis, dass der Nutzen (Verbesserung  ) ermittelt wird |
+| **Prüfunterlagen** | Screenshots für den Prüffall 5602 zum Nachweis, dass der Nutzen (Verbesserung  EXT_ITA_AHEX_Berechnung_APHAB_QSHGV) ermittelt wird |
 | **Hinweis** |  |
 
--95 und K1-96 (siehe und Berechnungen im Rahmen der APHAB-Dokumentation implementiert sind der Hörfähigkeit) automatisch anhand der APHAB-Berechnungsvorschrift (EXT_ITA_AHEX_Berechnung_APHAB_QSHGV PRÜFFALL 5610 (KONDITIONAL Anlegen einer Vor Verordnung und einer Verordnung: Kassiererin spreche, kann ich dem Gespräch folgen. Alarmanlage, empfinde ich als unangenehm laut. Familienangehörigen zu folgen. verstehen. Familienmitglieder dabei unterhalten habe ich Mühe, die Nachrichten zu verstehen. mit einer Person unterhalten möchte, ist es für mich schwierig, zu verstehen. großen leeren Raumes befindet, verstehe ich seine Worte. beantworte, habe ich Schwierigkeiten, dem Gespräch zu folgen. herum flüstern und mit Papier rascheln, kann ich dem Dialog immer noch folgen. unterhalte, habe ich Schwierigkeiten, zu verstehen. Verordnung Verordnung
+-95 und K1-96 (siehe und Berechnungen im Rahmen der APHAB-Dokumentation implementiert sind der Hörfähigkeit) automatisch anhand der APHAB-Berechnungsvorschrift PRÜFFALL 5610 (KONDITIONAL Anlegen einer Vor Verordnung und einer Verordnung: Kassiererin spreche, kann ich dem Gespräch folgen. Alarmanlage, empfinde ich als unangenehm laut. Familienangehörigen zu folgen. verstehen. Familienmitglieder dabei unterhalten habe ich Mühe, die Nachrichten zu verstehen. mit einer Person unterhalten möchte, ist es für mich schwierig, zu verstehen. großen leeren Raumes befindet, verstehe ich seine Worte. beantworte, habe ich Schwierigkeiten, dem Gespräch zu folgen. herum flüstern und mit Papier rascheln, kann ich dem Dialog immer noch folgen. unterhalte, habe ich Schwierigkeiten, zu verstehen. Verordnung Verordnung
 
 ---
 
@@ -1004,20 +989,15 @@ Toilettenspülung oder Dusche, sind mir unangenehm laut. leinen Gruppe spricht u
 
 Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden.
 
-Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine
-
-manuelle Prüfung der eingereichten Unterlagen durch das Referat Zertifizierung findet nicht statt,  demzufolge ist der Ordner „Screenshot“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann die Verzeichnisstruktur mit den  Prüfunterlagen hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse  gesendet.
+Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch das Referat Zertifizierung findet nicht statt,  demzufolge ist der Ordner „Screenshot“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann die Verzeichnisstruktur mit den  Prüfunterlagen hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse  gesendet.
 
 Abbildung 2: Testdatenvalidierung
 
-Bitte beachten Sie die folgende Verzeichnisstruktur des
+Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives.
 
 Abbildung 3: Struktur des ZIP-Archives für die Testdatenvalidierung anhand von Beispieldateien
 
 -Dokumentation das Ergebnis ist, können
-
-ZIP-Archives.
-
 
 ---
 
@@ -1044,6 +1024,4 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
-
-Hörgerä^teversorgung -Schnittstellen Versorgung Testschlüssel
+Hörgerä^teversorgung -Schnittstellen Versorgung TestschlüsselKassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)

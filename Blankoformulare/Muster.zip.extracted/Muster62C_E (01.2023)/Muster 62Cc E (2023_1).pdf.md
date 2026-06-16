@@ -1,4 +1,10 @@
-Krankenkasse bzw. Kostenträger
+Befeuchtung
+
+Trachealkanüle
+
+Tracheotomie
+
+## Behandlungsplan
 
 Name, Vorname des Versicherten
 
@@ -8,39 +14,63 @@ Kostenträgerkennung Versicherten-Nr. Status
 
 Betriebsstätten-Nr. Arzt-Nr. Datum
 
-### Therapieziele
+Krankenkasse bzw. Kostenträger
 
-MRE-Besiedelung nein
+**62C**
+
+Bedarfsmedikamente für AKI
+
+Notfallmanagement
+
+nein
+
+MRE-Besiedelung
 
 ja, folgender Keim
 
+Logopädie
+
 Maßnahmen der Heilmitteltherapie zur Unterstützung der  Therapieziele im Rahmen der AKI
 
+Physiotherapie
+
+dilatativ chirurgisch
+
+Absauggerät
+
+ja nein
+
+ja
+
+nein
+
+Notfallversorgung
+
+passiv
+
+aktiv
+
+Ergotherapie
+
+### Medizinische Behandlungspflege (ggf. Beiblatt nutzen)
+
+### Therapieziele
+
 ### Maßnahmen der außerklinischen Intensivpflege
+
+Häufigkeit
+
+Leistung
+
+Dauer
+
+tgl. wtl. mtl. vom bis
 
 **Benennung der zu erfassenden und zu bewertenden Vitalparameter**
 
 **Tracheostoma/Trachealkanülenmanagement**
 
-Tracheotomie
-
-Trachealkanüle
-
-chirurgisch Hersteller
-
-dilatativ
-
 **Sekretmanagement**
-
-Absauggerät
-
-Häufigkeit
-
-nein
-
-ja
-
-pro Tag
 
 **Dysphagiemanagement**
 
@@ -48,43 +78,13 @@ pro Tag
 
 Beatmungsgeräteinstellungen
 
-ja
-
-**Sauerstoffinsufflation**
-
-| mit Beatmung |  | unter Spontanatmung |
-|---|---|---|
-| Dauer |  | Dauer |
-| Flow l/min |  | Flow l/min |
-| h/tgl. |  | h/tgl. |
+Name des Arztes / der Ärztin
 
 **Spezielle Hygienemaßnahmen**
 
+**Sauerstoffinsufflation**
+
 Sonstige eingeleitete Maßnahmen (einschließlich weiterer Maßnahmen der AKI)
-
-### Medizinische Behandlungspflege
-
-Leistung
-
-Name des Arztes / der Ärztin
-
-**Ausfertigung für den verordnenden Arzt**
-
-## Behandlungsplan
-
-Bedarfsmedikamente für AKI
-
-Notfallmanagement
-
-Inhalationsgerät
-
-ja nein
-
-nein
-
-***(ggf. Beiblatt nutzen)***
-
-Logopädie
 
 Innendurch- messer in mm
 
@@ -92,34 +92,36 @@ Häufigkeit
 
 pro Tag
 
-Notfallversorgung
+Inhalationsgerät
 
-**62C**
+ja nein
 
-Ergotherapie
+Häufigkeit
 
-Physiotherapie
-
-Befeuchtung
-
-passiv
-
-aktiv
+pro Tag
 
 Medikament/
 
 Substanz
 
+Hersteller
+
+| mit Beatmung |  | unter Spontanatmung |
+|---|---|---|
+| Dauer |  | Dauer |
+| Flow l/min |  | Flow l/min |
+| h/tgl. |  | h/tgl. |
+
 Dauer
 
-Flow l/min h/tgl.
+h/tgl.
 
-Häufigkeit Dauer
-
-tgl. wtl. mtl. vom bis
+Flow l/min
 
 ärztliche Unterschrift
 
 PRF.NR.
 
-Flow             l/min Flow             l/min MobilitätMuster 62Cc/E (1.2023)
+Muster 62Cc/E (1.2023)
+
+Mobilität**Ausfertigung für den verordnenden Arzt**

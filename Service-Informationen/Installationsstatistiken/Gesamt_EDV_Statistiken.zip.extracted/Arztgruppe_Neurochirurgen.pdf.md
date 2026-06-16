@@ -26,7 +26,7 @@
 
 226 **CGM MEDICO**
 
-498 **T 2med**
+498 **T2med**
 
 203 **ALBIS**
 
@@ -54,7 +54,7 @@ medatixx GmbH & Co. KG
 
 CGM Clinical Europe GmbH
 
-T 2med GmbH & Co. KG
+T2med GmbH & Co. KG
 
 CompuGroup Medical Deutschland AG
 
@@ -159,7 +159,7 @@ CompuGroup Medical Deutschland AG 1
 
 266 **x.comfort**
 
-261 **S 3-Win**
+261 **S3-Win**
 
 **Anbieter**
 
@@ -175,7 +175,7 @@ Duria eG
 
 medatixx GmbH & Co. KG
 
-S 3 Praxiscomputer GmbH / Maximilian Flender 2
+S3 Praxiscomputer GmbH / Maximilian Flender 2
 
 **Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 

@@ -11,7 +11,7 @@
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_KVDT_TI-PAUSCHALE]
 
-BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
+BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS     
 
 
 ---
@@ -26,7 +26,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **4**
 
-| **3** | **PRÜFVORGABEN** | **4** |
+| 3 | PRÜFVORGABEN | 4 |
 |---|---|---|
 | 3.1 | Prüfstammdateien | 4 |
 | 3.2 | Versichertendaten | 4 |
@@ -40,12 +40,11 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **8**
 
-
 ---
 
 DOKUMENTENHISTORIE
 
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.0 | 18.08.2023 | KBV | Neues Dokument | Initiale Erstellung | Alle |
 | 1.1 | 20.09.2023 | KBV | Kapitel 3.4 | Änderung der | 7 |
@@ -54,16 +53,14 @@ DOKUMENTENHISTORIE
 | 1.4 | 17.07.2024 | KBV | Kapitel 4 | Anpassung Prüffall 3 | 9 |
 | 1.5 | 21.11.2024 | KBV | Anpassungen Patientendaten | Anpassungen der | 5-6 |
 
-Quartalsangabe Testvorgaben Aufnahme von dem Hinweis zur Feldkennung 3000 (FK 3000) Prüffälle
+Quartalsangabe Testvorgaben Aufnahme von dem Hinweis zur Feldkennung 3000 (FK 3000) Prüffälle 
 
 
 ---
 
 # 1 ALLGEMEINES
 
-Die Testdatenvalidierung des Zertifizierungsportals der KBV bietet die Möglichkeit mit Hilfe der in diesem  Dokument beschriebenen Prüffälle, die Umsetzung der KVDT Anforderungen P2-67 zur Übertragung des
-
-Nachweises zur Unterstützung von TI-Fachanwendungen und des Einsatzes von TI-Komponenten zu testen.  Für das vorliegende Prüfpaket wird derzeit nur die Testdatenvalidierung angeboten.
+Die Testdatenvalidierung des Zertifizierungsportals der KBV bietet die Möglichkeit mit Hilfe der in diesem  Dokument beschriebenen Prüffälle, die Umsetzung der KVDT Anforderungen P2-67 zur Übertragung des  Nachweises zur Unterstützung von TI-Fachanwendungen und des Einsatzes von TI-Komponenten zu testen.  Für das vorliegende Prüfpaket wird derzeit nur die Testdatenvalidierung angeboten.
 
 **HINWEIS**
 
@@ -71,46 +68,27 @@ Die Anforderung wird auch im Prüfvorgang KVDT geprüft.
 
 # 2 TESTDATENVALIDIERUNG
 
-Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen. Für die Überprüfung
+[Das Zertifizierungsportal ist über](https://zertifizierungsportal2.kbv.de/)[https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/)[zu erreichen. Für die Überprüfung](https://zertifizierungsportal2.kbv.de/) [der Umsetzung des Prüfungsnach](https://zertifizierungsportal2.kbv.de/)[weises muss das Thema „](https://zertifizierungsportal2.kbv.de/)[KVDT-TI-Pauschale](https://zertifizierungsportal2.kbv.de/)“ ausgewählt werden.  Nachdem das Thema ausgewählt wurde, ist das .ZIP-Archiv mit der verschlüsselten Abrechnungsdatei  hochzuladen. Diese wird automatisiert auf Vollständigkeit und Korrektheit geprüft. Eine manuelle Prüfung  der eingereichten Unterlagen durch Mitarbeitende der KBV findet nicht statt.
 
-der Umsetzung des Prüfungsnachweises muss das Thema „KVDT-TI-Pauschale“ ausgewählt werden.
-
-Nachdem das Thema ausgewählt wurde, ist das .ZIP-Archiv mit der verschlüsselten Abrechnungsdatei  hochzuladen. Diese wird automatisiert auf Vollständigkeit und Korrektheit geprüft. Eine manuelle Prüfung
-
-der eingereichten Unterlagen durch Mitarbeitende der KBV findet nicht statt.
-
-Die Abrechnungsdatei muss als .ZIP-Archiv mit der Bezeichnung **„test_TI_<SystemID**> “.zip hochgeladen
-
-werden.
+Die Abrechnungsdatei muss als .ZIP-Archiv mit der Bezeichnung **„test_TI_<SystemID**> “.zip hochgeladen  werden.
 
 # 3 PRÜFVORGABEN
 
-Werden in den Prüffällen keine Angaben zu den Feldkennungen (FK) der aktuell gültigen KVDT- Datensatzbeschreibung gemacht, so sind diese frei wählbar, z.B. die Leistungsangaben [Leistungstag, GNR  und Abrechnungsdiagnose (ICD-Code)], die Satzarten und Scheinuntergruppen. Allerdings müssen die  Satzarten, Scheinuntergruppen und Abrechnungsgebiete bei allen Prüffällen identisch sein, damit pro  Testpatient nicht mehrere Datensätze in der Abrechnungsdatei angelegt werden. D.h. pro Testpatient ist ein
+Werden in den Prüffällen keine Angaben zu den Feldkennungen (FK) der aktuell gültigen KVDT- Datensatzbeschreibung gemacht, so sind diese frei wählbar, z.B. die Leistungsangaben [Leistungstag, GNR  und Abrechnungsdiagnose (ICD-Code)], die Satzarten und Scheinuntergruppen. Allerdings müssen die  Satzarten, Scheinuntergruppen und Abrechnungsgebiete bei allen Prüffällen identisch sein, damit pro  Testpatient nicht mehrere Datensätze in der Abrechnungsdatei angelegt werden. D.h. pro Testpatient ist ein  Datensatz mit der gleichen Satzart, Scheinuntergruppe und dem gleichen Abrechnungsgebiet zu erzeugen.
 
-Datensatz mit der gleichen Satzart, Scheinuntergruppe und dem gleichen Abrechnungsgebiet zu erzeugen.
-
-Als Abrechnungsquartal (**FK 9204**) und Behandlungsquartal (**FK 4101**) muss das vierte Quartal 2023 erfasst
-
-werden.
+Als Abrechnungsquartal (**FK 9204**) und Behandlungsquartal (**FK 4101**) muss das vierte Quartal 2023 erfasst  werden.
 
 Als Patientennummer (**FK 3000**) muss die Prüffall-ID (siehe Tabellen in Kapitel 4) eingetragen werden
 
 ## 3.1 PRÜFSTAMMDATEIEN
 
-Zur Realisierung der Prüffälle sind die regulären KBV-Stammdateien zu verwenden. Die sind zu finden unter  [https://update.kbv.de/ita-update/Stammdateien/](https://update.kbv.de/ita-update/Stammdateien/) .
+Zur Realisierung der Prüffälle sind die regulären KBV-Stammdateien zu verwenden. Die sind zu finden unter  [https://update.kbv.de/ita-update/Stammdateien/](https://update.kbv.de/ita-update/Stammdateien/)
 
 ## 3.2 VERSICHERTENDATEN
 
-Die Versichertendaten der Testpatienten enthalten alle für jeden Prüffall die nötigen Angaben zu den Daten
+Die Versichertendaten der Testpatienten enthalten alle für jeden Prüffall die nötigen Angaben zu den Daten  des Versicherten und werden auch als XML-Dateien zur Verfügung gestellt. Die Archivdatei  (VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für die Prüffälle die folgenden XML-Dateien mit  [Versichertenstammdaten](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/VSD_5.2.0_Testfaelle_V2.3.zip)
 
-des Versicherten und werden auch als XML-Dateien zur Verfügung gestellt. Die Archivdatei
-
-(VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für die Prüffälle die folgenden XML-Dateien mit
-
-Versichertenstammdaten:
-
-- EF.VD = allgemeine Versicherungsdaten
-
+- [](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/VSD_5.2.0_Testfaelle_V2.3.zip) [EF.VD](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/VSD_5.2.0_Testfaelle_V2.3.zip) [= allgemeine Versicherungsdaten](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/VSD_5.2.0_Testfaelle_V2.3.zip)
 - EF.PD = persönliche Versichertendaten
 
 
@@ -122,7 +100,7 @@ Die Erfassung der Patientendaten  sogenannten Import-Schnittstelle) der XML-Date
 
 ### 3.2.1 Patientendaten für die Prüffälle 3.2.1.1 [XML_45]
 
-| **FELDER** | **INHALT** |
+| FELDER | INHALT |
 |---|---|
 | **Nachname** | Müller |
 | **Vorname** | Marion |
@@ -142,7 +120,7 @@ Die Erfassung der Patientendaten  sogenannten Import-Schnittstelle) der XML-Date
 
 3.2.1.2 [XML_46]
 
-| **FELDER** | **INHALT** |
+| FELDER | INHALT |
 |---|---|
 | **Nachname** | Müller |
 | **Vorname** | Sophia |
@@ -154,16 +132,16 @@ Die Erfassung der Patientendaten  sogenannten Import-Schnittstelle) der XML-Date
 | **Wohnsitzländercode** | D |
 | **Ort** | München |
 
+```
 -
+```
 
-in den einzelnen Prüffällen kann entweder über das Einlesen (mit einer
-
-oder die Daten können im
+in den einzelnen Prüffällen kann entweder über das Einlesen (mit einer  oder die Daten können im
 
 
 ---
 
-| **FELDER** | **INHALT** |
+| FELDER | INHALT |
 |---|---|
 | **WOP** | 71 |
 | **Versichertenart** | 5 |
@@ -174,7 +152,7 @@ oder die Daten können im
 
 3.2.1.3 [XML_47]
 
-| **FELDER** | **INHALT** |
+| FELDER | INHALT |
 |---|---|
 | **Nachname** | Müller |
 | **Vorname** | Emilia |
@@ -196,7 +174,7 @@ oder die Daten können im
 
 Sofern zur Bearbeitung der Prüffälle Praxisdaten benötigt werden, können die folgenden Praxisdaten  verwendet werden. Für Prüffall 3 wird eine Nebenbetriebsstätte benötigt.  abgebildeten Daten ist möglich.
 
-| **PRAXISDATEN (HAUPTSITZ - ABRECHNENDER ARZT)** | |
+| PRAXISDATEN (HAUPTSITZ - ABRECHNENDER ARZT) | |
 |---|---|
 | **Betriebsstättennummer (BSNR)** | 198212400 |
 | **BSNR-Bezeichnung** | Praxis Dr. med. Heribert Topp-Glücklich |
@@ -208,7 +186,7 @@ Eine Abweichung von den hier
 
 ---
 
-| **PRAXISDATEN (HAUPTSITZ - ABRECHNENDER ARZT)** | |
+| PRAXISDATEN (HAUPTSITZ - ABRECHNENDER ARZT) | |
 |---|---|
 | **Arztname** | Dr. med. Topp-Glücklich |
 | **Vorname** | Heribert |
@@ -220,7 +198,7 @@ Eine Abweichung von den hier
 | **KV-Voreinstellungen** | KV: 20 (KV WL) |
 |  | Bezirkstelle: 19 (Münster) |
 
-| **PRAXISDATEN (NEBENSITZ - ABRECHNENDER ARZT; FÜR PRÜFFALL 3)** | |
+| PRAXISDATEN (NEBENSITZ - ABRECHNENDER ARZT; FÜR PRÜFFALL 3) | |
 |---|---|
 | **Betriebsstättennummer (BSNR)** | 198212401 |
 | **BSNR-Bezeichnung** | Praxis Dr. med. Heribert Topp-Glücklich |
@@ -238,13 +216,11 @@ Eine Abweichung von den hier
 
 ## 3.4 XPM-PRÜFMODUL UND VERSCHLÜSSELUNG
 
-Bevor die Abrechnungsdateien (pro Prüffall eine Datei) hochgeladen werden, mü Verwendung des XPM-Prüfmoduls vom vierten Quartal 2023 fehlerfrei geprüft werden. Die Da anschließend mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen Testschlüssels zu  verschlüsseln. Die Verschlüsselung wird im Arbeitsmodus  der dazu bestimmte Testschlüssel zu verwenden.
-
-*TEST_Verschluesselung*
+Bevor die Abrechnungsdateien (pro Prüffall eine Datei) hochgeladen werden, mü Verwendung des XPM-Prüfmoduls vom vierten Quartal 2023 fehlerfrei geprüft werden. Die Da anschließend mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen Testschlüssels zu  verschlüsseln. Die Verschlüsselung wird im Arbeitsmodus  [der dazu bestimmte](https://update.kbv.de/ita-update/KBV-Software/Kryptomodul/Testschluessel.zip)
 
 ssen diese unter  ten sind
 
-Testpraxis.de Testpraxis.de vorgenommen. Hierfür ist
+Testpraxis.de Testpraxis.de *TEST_Verschluesselung* vorgenommen. Hierfür ist  [Testschlüssel](https://update.kbv.de/ita-update/KBV-Software/Kryptomodul/Testschluessel.zip)[zu verwenden.](https://update.kbv.de/ita-update/KBV-Software/Kryptomodul/Testschluessel.zip)
 
 
 ---
@@ -269,7 +245,7 @@ Datei referenziert. Unter „Vorgaben“ sind  Die
 | **Vorgaben** | ePA Stufe 1  eRezept  NFDM  eMP  KIM  eAU  eArztbrief  Kartenterminal - ja  SMC-B  eHBA |
 | **Einzureichende** | .XKM-Abrechnungsdatei mit Testschlüssel verschlüsselt |
 
-Prüfunterlagen  nein (keine Unterstützung)  nein  nein  nein Prüfunterlagen
+Prüfunterlagen  nein (keine Unterstützung)  nein  nein  nein Prüfunterlagen 
 
 
 ---

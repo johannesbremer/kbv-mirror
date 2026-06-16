@@ -8,7 +8,7 @@ Version:
 
 gültig ab:
 
-| **Code** | **Bezeichnung** |
+| Code | Bezeichnung |
 |---|---|
 | 001 | Praktische Ärztin/Praktischer Arzt (altes Recht vor 1987 bzw. EWG-Recht ab |
 

@@ -6,16 +6,13 @@ Seite 1 von 11 / KBV / Antrag auf Zertifizierung Blankoformularbedruckung / 15. 
 
 **KASSENÄRZTLICHE**  **BUNDESVEREINIGUNG**
 
-**DEZERNAT DIGITALISIERUNG UND IT**
-
-**IT IN DER ARZTPRAXIS**
+**DEZERNAT DIGITALISIERUNG UND IT**   **IT IN DER ARZTPRAXIS**
 
 **15. MAI 2024**
 
 **VERSION: 4.8**
 
 **DOKUMENTENSTATUS: IN KRAFT**
-
 
 ---
 
@@ -250,9 +247,7 @@ Verordnung Soziotherapie gem. § 37a SGB V
 
 Soziotherapeutischer Betreuungsplan gem. § 37a SGB V
 
-Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie
-
-gem. § 37a SGB V
+Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie   gem. § 37a SGB V
 
 Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V
 
@@ -266,19 +261,13 @@ Bericht für die Krankenkasse bei Fortbestehen der Arbeitsunfähigkeit
 
 Anfrage zum Zusammenhang von Arbeitsunfähigkeiten
 
-Bescheinigung einer schwerwiegenden chronischen Erkrankung
-
-gem. § 62 SGB V
+Bescheinigung einer schwerwiegenden chronischen Erkrankung   gem. § 62 SGB V
 
 Antrag auf Kostenübernahme von Rehabilitationssport/Funktionstraining
 
 Verordnung von medizinischer Rehabilitation
 
-Ergebnis der Erhebung des Beatmungsentwöhnungs- bzw. Dekanülierungspotenzials
-
-gemäß AKI-Richtlinie des G-BA  Verordnung außerklinischer Intensivpflege
-
-Behandlungsplan für außerklinische Intensivpflege
+Ergebnis der Erhebung des Beatmungsentwöhnungs- bzw. Dekanülierungspotenzials  gemäß AKI-Richtlinie des G-BA  Verordnung außerklinischer Intensivpflege   Behandlungsplan für außerklinische Intensivpflege
 
 Verordnung spezialisierter ambulanter Palliativversorgung (SAPV)
 
@@ -351,8 +340,9 @@ Ersatzkassen, Erstdokumentation, Anlage 2 - DIN A4 hoch, kein Sicherheitspapier
 
 Ersatzkassen, Abschlussdokumentation, Anlage 3  Sicherheitspapier
 
-psychotherapeutischen - DIN A4 hoch, kein
+psychotherapeutischen
 
+- DIN A4 hoch, kein
 - DIN A4 hoch, kein
 
 DIN A4 hoch kein -Vereinbarung
@@ -368,10 +358,7 @@ Der Barcode PDF 417 wird bei den vertragsärztlichen Formularen gemäß Vorgabe 
 
 **2.5**  **SICHERHEITSPAPIER**
 
-Die Anwender werden darüber informiert, dass im Rahmen der BFB nur Sicherheitspapier   verwendet werden darf, sofern in der Vordruckvereinbarung nichts anderes festgelegt wird (außer
-
-bei PTV und diversen KV-spezifischen Formularen).
-
+Die Anwender werden darüber informiert, dass im Rahmen der BFB nur Sicherheitspapier   verwendet werden darf, sofern in der Vordruckvereinbarung nichts anderes festgelegt wird (außer  bei PTV und diversen KV-spezifischen Formularen).
 
 ---
 
@@ -416,11 +403,7 @@ Antragssteller:
 
 4 KENNTNISNAHME DURCH DEN ANTRAGSSTELLER
 
-**I.** **Zertifizierungsrahmen**  (1) Die Zertifizierung wird im Rahmen einer Ergebnisprüfung durchgeführt.
-
-(2) Bei erfolgreichem Abschluss bestätigt die KBV mit Vergabe einer entsprechenden Prüfnummer die  Zulassung.  (3) Die Laufzeit der Zulassung beträgt 36 Monate.
-
-(4) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
+**I.** **Zertifizierungsrahmen**  (1) Die Zertifizierung wird im Rahmen einer Ergebnisprüfung durchgeführt.  (2) Bei erfolgreichem Abschluss bestätigt die KBV mit Vergabe einer entsprechenden Prüfnummer die  Zulassung.  (3) Die Laufzeit der Zulassung beträgt 36 Monate.  (4) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
 
 **THEMA**
 
@@ -432,9 +415,7 @@ BFB
 
 Neu- oder
 
-Ergebnisprüfung 68,81
-
-Rezertifizierung
+Ergebnisprüfung 68,81  Rezertifizierung
 
 [pro Muster]
 
@@ -442,19 +423,11 @@ Rezertifizierung
 
 (1) Bei Änderungen der Anschrift, der Verantwortlichkeit und der Bezeichnung des  Zertifizierungsgegenstandes wird die KBV unverzüglich unterrichtet.
 
-(2) Bei Änderungen des Zertifizierungsgegenstandes muss der Antragsteller die KBV noch vor  Auslieferung an die Anwender informieren. Mittels einer formlosen Änderungsanzeige teilt der  Antragsteller der KBV mit, welche Änderungen am Zertifizierungsgegenstand vorgenommen
+(2) Bei Änderungen des Zertifizierungsgegenstandes muss der Antragsteller die KBV noch vor  Auslieferung an die Anwender informieren. Mittels einer formlosen Änderungsanzeige teilt der  Antragsteller der KBV mit, welche Änderungen am Zertifizierungsgegenstand vorgenommen  wurden. Die KBV entscheidet im Einzelfall, ob eine Zertifizierung notwendig ist und ggf. ein neuer  Antrag auf Zertifizierung eingereicht werden muss.
 
-wurden. Die KBV entscheidet im Einzelfall, ob eine Zertifizierung notwendig ist und ggf. ein neuer
+(3) Bei weiteren Änderungen, die nicht zur Einhaltung der KBV-Vorgaben führen, kann zum Erlöschen  der Zulassung führen.
 
-Antrag auf Zertifizierung eingereicht werden muss.
-
-(3) Bei weiteren Änderungen, die nicht zur Einhaltung der KBV-Vorgaben führen, kann zum Erlöschen
-
-der Zulassung führen.
-
-(4) Von der Anzeigepflicht ausgenommen sind alle Anpassungen, die sich aufgrund der turnusmäßigen
-
-und in der Regel quartalsweise vorgegebenen Änderungsanforderungen der KBV ergeben.
+(4) Von der Anzeigepflicht ausgenommen sind alle Anpassungen, die sich aufgrund der turnusmäßigen  und in der Regel quartalsweise vorgegebenen Änderungsanforderungen der KBV ergeben.
 
 **III.** **Update und weitere Vereinbarungen**
 
@@ -466,14 +439,9 @@ und in der Regel quartalsweise vorgegebenen Änderungsanforderungen der KBV erge
 
 (4) Werden im Produktivbetrieb Fehler am Zertifizierungsgegenstand festgestellt, so muss der  Antragsteller dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version den  Anwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann in diesem  Zusammenhang den Antragsteller zu einer Stellungnahme auffordern.
 
-(5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten  Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur  Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV
+(5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten  Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur  Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV  veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
 
-veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
-
-(6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung
-
-Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung].
-
+(6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung   Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung].
 
 ---
 
@@ -493,10 +461,11 @@ Antragssteller:
 
 n
 
-r in diesem - und
+r in diesem
+
+- und
 
 Seite 10 von 11 / KBV / Antrag auf Zertifizierung Blankoformularbedruckung / Version: 4.8 / 15. Mai 2024
-
 
 ---
 

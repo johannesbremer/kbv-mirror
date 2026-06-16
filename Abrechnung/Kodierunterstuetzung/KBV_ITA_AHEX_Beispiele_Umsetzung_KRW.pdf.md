@@ -4,20 +4,21 @@
 \|  |
 \|---|
 
-|  | **BUNDESVEREINIGUNG     DEZERNAT DIGITALISIERUNG UND IT  15. APRIL 2023   VERSION: 1.02  ** |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  15. APRIL 2023   VERSION: 1.02  ** |
 |---|---|
 
 # BEISPIELE FÜR DIE UMSETZUNG
 
 ## DER FUNKTIONEN DER KODIERREGELN
 
-KASSENÄRZTLICHE IT IN DER ARZTPRAXIS
+BUNDESVEREINIGUNG    IT IN DER ARZTPRAXIS   
+
 
 ---
 
 INHALT
 
-| **1** |  | **BEHANDLUNGSFALLBEZOGENE REGELN ZUM PRÜFZEITPUNKT** | **„BEI KODIERUNG“ 4** |
+| 1 |  | BEHANDLUNGSFALLBEZOGENE REGELN ZUM PRÜFZEITPUNKT | „BEI KODIERUNG“ 4 |
 |---|---|---|---|
 | 1.1 | Konfiguration | der Kodierregeln I | 4 |
 | 1.1.1 | UseCase | 1 | 5 |
@@ -33,17 +34,12 @@ INHALT
 | 1.2.1 | UseCase | 10 | 19 |
 | 1.2.2 | UseCase | 11 | 20 |
 
-**2** **BEHANDLUNGSFALLBEZOGENE REGELN ZUM PRÜFZEITPUNKT „ZUR ABRECHNUNG“**
+| 2 |  |  | BEHANDLUNGSFALLBEZOGENE REGELN ZUM PRÜFZEITPUNKT | „ZUR ABRECHNUNG“ 21 |
+|---|---|---|---|---|
+| 2.1 |  | Konfiguration | der Kodierregeln | 21 |
+|  | 2.1.1 | UseCase | 12 | 22 |
 
-**21**
-
-2.1 Konfiguration der Kodierregeln 21
-
-2.1.1 UseCase 12
-
-22
-
-| **3** |  | **QUARTALSÜBERGREIFENDE** | **REGELN** | **26** |
+| 3 |  | QUARTALSÜBERGREIFENDE | REGELN | 26 |
 |---|---|---|---|---|
 | 3.1 |  | Konfiguration | der Kodierregeln | 26 |
 |  | 3.1.1 | UseCase | 13 | 26 |
@@ -64,19 +60,21 @@ INHALT
 
 31
 
-BEHANDLUNGSFALLBEZOGENE REGELN ZUM PRÜFZEITPUNKT „BEI KODIERUNG“ Konfiguration der Kodierregeln I UseCase 1 UseCase 2 UseCase 3 UseCase 4 UseCase 5 UseCase 6 UseCase 7 UseCase 8 UseCase 9 Konfiguration der Kodierregeln II UseCase 10 UseCase 11 QUARTALSÜBERGREIFENDE REGELN Konfiguration der Kodierregeln UseCase 13
+BEHANDLUNGSFALLBEZOGENE REGELN ZUM PRÜFZEITPUNKT „BEI KODIERUNG“ Konfiguration der Kodierregeln I UseCase 1 UseCase 2 UseCase 3 UseCase 4 UseCase 5 UseCase 6 UseCase 7 UseCase 8 UseCase 9 Konfiguration der Kodierregeln II UseCase 10 UseCase 11 BEHANDLUNGSFALLBEZOGENE REGELN ZUM PRÜFZEITPUNKT „ZUR ABRECHNUNG“ Konfiguration der Kodierregeln UseCase 12 QUARTALSÜBERGREIFENDE REGELN Konfiguration der Kodierregeln UseCase 13 
+
 
 ---
 
 DOKUMENTENHISTORIE
 
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.02 | 15.04.2023 | KBV | Ergänzung der UseCases 6,8,9    Ergänzung der Korrekturwerte    Einfügung Kapitel 4 Beispiele | Ergänzung            Ergänzung      Zusammenführung | 10, 13, 17            11      30 |
 | 1.01 | 23.11.2021 | KBV | Korrektur UseCase 13 |  | 26 |
 | 1.00 | 13.09.2021 | KBV | Bereitstellung des Dokumentes |  |  |
 
-um den Fall, dass die Kodierregeln direkt nach der Erfassung der einzelnen Diagnosen ausgelöst werden (UseCase 7) mit Dokument und Fragen zur Umsetzung „Sprechstunde Kodierunterstützun g“
+um den Fall, dass die Kodierregeln direkt nach der Erfassung der einzelnen Diagnosen ausgelöst werden (UseCase 7) mit Dokument und Fragen zur Umsetzung „Sprechstunde Kodierunterstützun g“ 
+
 
 ---
 
@@ -84,7 +82,7 @@ um den Fall, dass die Kodierregeln direkt nach der Erfassung der einzelnen Diagn
 
 **1.1** **KONFIGURATION DER KODIERREGELN I**
 
-| **REGELKONFIGURATION** | | |
+| REGELKONFIGURATION | | |
 |---|---|---|
 | **Regel-ID** | **Prüfzeitpunkt** | **Aktivitätsstatus** |
 | 01-01-001 | „bei Kodierung“ | „aktiv“ |
@@ -114,9 +112,8 @@ um den Fall, dass die Kodierregeln direkt nach der Erfassung der einzelnen Diagn
 | 01-02-049 | „bei Kodierung“ | „aktiv“ |
 | „aktiv“ | Die farbig so gekennzeichneten Felder müssen bei der entsprechenden Regel für eine Bearbeitung | |
 
-# ZUM PRÜFZEITPUNKT
+Regelkonfiguration gesperrt sein. im Rahmen der # ZUM PRÜFZEITPUNKT
 
-Regelkonfiguration gesperrt sein. im Rahmen der
 
 ---
 
@@ -124,7 +121,7 @@ Regelkonfiguration gesperrt sein. im Rahmen der
 
 Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle  „EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER“ angegebenen ICD-10-GM-Kodes für den  Versicherten kodiert werden.
 
-| **EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER** | |
+| EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER | |
 |---|---|
 | **ICD-10-GM-Kode** | **Diagnosesicherheit** |
 | J06.9 | G |
@@ -132,7 +129,7 @@ Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wir
 | J44.19 | G |
 | R52.2 | G |
 
-\| **ERWARTETE REAKTION DER SOFTWARE** |
+\| ERWARTETE REAKTION DER SOFTWARE |
 \|---|
 \| **Nach der Beendigung des Kodiervorgangs wird die Kodierregel mit der ID „01-01-001“ ausgelöst** |
 \| Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat:  I21.2 Z |
@@ -141,11 +138,11 @@ Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wir
 
 Der Anwender wählt den ICD-10-GM- Kode I25.22 G aus der Vorschlagsliste aus und bestätigt die Auswahl.
 
-\| **ERWARTETE REAKTION DER SOFTWARE** |
+\| ERWARTETE REAKTION DER SOFTWARE |
 \|---|
 \| Der ICD-10-GM-Kode I21.2 mit der Diagnosesicherheit Z wird durch den ICD -10-GM-Kode I25.22 mit der |
 
-| **ERWARTETE ERGEBNISDATEN** | |
+| ERWARTETE ERGEBNISDATEN | |
 |---|---|
 | **ICD-10-GM-Kode** | **Zusatzkennzeichen für die Diagnosensicherheit** |
 | J06.9 | G |
@@ -161,7 +158,7 @@ vor. Zusatzkennzeichen "G": Diagnosensicherheit G ersetzt.
 
 Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle  „EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER“ angegebenen ICD-10-GM-Kodes für den  Versicherten kodiert werden.
 
-| **EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER** | |
+| EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER | |
 |---|---|
 | **ICD-10-GM-Kode** | **Diagnosesicherheit** |
 | J06.9 | G |
@@ -169,11 +166,11 @@ Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wir
 | J44.19 | G |
 | R52.2 | G |
 
-\| **ERWARTETE REAKTION DER SOFTWARE** |
+\| ERWARTETE REAKTION DER SOFTWARE |
 \|---|
 \| **Nach der Beendigung des Kodiervorgangs wird keine Kodierregel ausgelöst** |
 
-| **ERWARTETE ERGEBNISDATEN** | |
+| ERWARTETE ERGEBNISDATEN | |
 |---|---|
 | **ICD-10-GM-Kode** | **Zusatzkennzeichen für die Diagnosensicherheit** |
 | J06.9 | G |
@@ -181,14 +178,13 @@ Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wir
 | J44.19 | G |
 | R52.2 | G |
 
-
 ---
 
 ### 1.1.3 UseCase 3
 
 Nach Eingabe der Diagnosen aus UseCase 2 ändert der Anwender bei dem ICD-10-GM-Kode I21.0 das  Zusatzkennzeichen „G“ für die Diagnosensicherheit auf „Z“.
 
-\| **ERWARTETE REAKTION DER SOFTWARE** |
+\| ERWARTETE REAKTION DER SOFTWARE |
 \|---|
 \| **Nach der Änderung des Zusatzkennzeichens für die Diagnosensicherheit wird die Kodierregel mit der** |
 \| Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat:  I21.0 Z |
@@ -197,11 +193,11 @@ Nach Eingabe der Diagnosen aus UseCase 2 ändert der Anwender bei dem ICD-10-GM-
 
 Der Anwender wählt den ICD-10-GM- Kode I25.29 G aus der Vorschlagsliste aus und bestätigt die Auswahl.
 
-\| **ERWARTETE REAKTION DER SOFTWARE** |
+\| ERWARTETE REAKTION DER SOFTWARE |
 \|---|
 \| Der ICD-10-GM-Kode I21.0 mit der Diagnosesicherheit Z wird durch den ICD -10-GM-Kode I25.29 mit der |
 
-| **ERWARTETE ERGEBNISDATEN** | |
+| ERWARTETE ERGEBNISDATEN | |
 |---|---|
 | **ICD-10-GM-Kode** | **Zusatzkennzeichen für die Diagnosensicherheit** |
 | J06.9 | G |
@@ -209,7 +205,8 @@ Der Anwender wählt den ICD-10-GM- Kode I25.29 G aus der Vorschlagsliste aus und
 | J44.19 | G |
 | R52.2 | G |
 
-ID „01-01-001“ ausgelöst vor. Zusatzkennzeichen "G": Diagnosensicherheit G ersetzt.
+ID „01-01-001“ ausgelöst vor. Zusatzkennzeichen "G": Diagnosensicherheit G ersetzt. 
+
 
 ---
 
@@ -217,14 +214,14 @@ ID „01-01-001“ ausgelöst vor. Zusatzkennzeichen "G": Diagnosensicherheit G 
 
 Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle  „EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER“ angegebenen ICD-10-GM-Kodes für den  Versicherten kodiert werden.
 
-| **EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER** | |
+| EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER | |
 |---|---|
 | **ICD-10-GM-Kode** | **Diagnosesicherheit** |
 | M54.2 | G |
 | E04.9 | G |
 | E11.30 | G |
 
-\| **ERWARTETE REAKTION DER SOFTWARE** |
+\| ERWARTETE REAKTION DER SOFTWARE |
 \|---|
 \| **Nach der Beendigung des Kodiervorgangs wird die Kodierregel mit der ID „01-02-011“ ausgelöst** |
 \| Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat:  E11.30 G |
@@ -234,11 +231,11 @@ Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wir
 
 Der Anwender wählt den Kode H28.0 mit dem Kennzeichen „G“ aus.
 
-\| **ERWARTETE REAKTION DER SOFTWARE** |
+\| ERWARTETE REAKTION DER SOFTWARE |
 \|---|
 \| Der ICD-10-GM-Kode H28.0 mit der Diagnosesicherheit G wird ergänzt. |
 
-| **ERWARTETE ERGEBNISDATEN** | |
+| ERWARTETE ERGEBNISDATEN | |
 |---|---|
 | **ICD-10-GM-Kode** | **Zusatzkennzeichen für die Diagnosensicherheit** |
 | M54.2 | G |
@@ -246,14 +243,13 @@ Der Anwender wählt den Kode H28.0 mit dem Kennzeichen „G“ aus.
 | E11.30 | G |
 | H28.0 | G |
 
-
 ---
 
 ### 1.1.5 UseCase 5
 
 Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle  „EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER“ angegebenen ICD-10-GM-Kodes für den  Versicherten kodiert werden.
 
-| **EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER** | |
+| EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER | |
 |---|---|
 | **ICD-10-GM-Kode** | **Diagnosesicherheit** |
 | M17.9 | G |
@@ -261,11 +257,11 @@ Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wir
 | E11.30 | V |
 | E79.0 | G |
 
-\| **ERWARTETE REAKTION DER SOFTWARE** |
+\| ERWARTETE REAKTION DER SOFTWARE |
 \|---|
 \| **Nach der Beendigung des Kodiervorgangs wird keine Kodierregel ausgelöst** |
 
-| **ERWARTETE ERGEBNISDATEN** | |
+| ERWARTETE ERGEBNISDATEN | |
 |---|---|
 | **ICD-10-GM-Kode** | **Zusatzkennzeichen für die Diagnosensicherheit** |
 | M17.9 | G |
@@ -273,10 +269,9 @@ Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wir
 | E11.30 | V |
 | E79.0 | G |
 
-
 ---
 
-| **ERWARTETE ERGEBNISDATEN** | |
+| ERWARTETE ERGEBNISDATEN | |
 |---|---|
 | **ICD-10-GM-Kode** | **Zusatzkennzeichen für die Diagnosensicherheit** |
 | M17.9 | G |
@@ -286,7 +281,7 @@ Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wir
 | **1.1.6** Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle | |
 |  | **EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER** |
 
-| **EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER** | |
+| EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER | |
 |---|---|
 | **ICD-10-GM-Kode** | **Diagnosesicherheit** |
 | M17.9 | G |
@@ -295,7 +290,7 @@ Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wir
 | H36.0 | G |
 | E11.31 | G |
 
-\| **ERWARTETE REAKTION DER SOFTWARE** |
+\| ERWARTETE REAKTION DER SOFTWARE |
 \|---|
 \| **Falls die Prüfung gegen das Kodierregelwerk nach Eingabe aller Kodes erfolgt:** |
 \| **Nach der Beendigung des Kodiervorgangs wird keine Kodierregel ausgelöst** |
@@ -320,14 +315,14 @@ folgenden Regeln in Abhängigkeit von der Eingabereihenfolge ausgelöst werden K
 | **ERWARTETE ERGEBNISDATEN** | |
 | E11.31 | G |
 
-1.1.7 UseCase 7 Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle „EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER“ angegebenen ICD-10-GM-Kodes für den Versicherten kodiert werden. EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER I10.90 E11.40 Nach der Beendigung des Kodiervorgangs wird die Kodierregel mit der ID „01-02-012“ ausgelöst Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: E11.40 G Anzeige des folgenden Hinweistextes: Für die Abbildung von neurologischen Komplikationen bei Diabetes mellitus sieht die ICD-10 spezifische Kodes vor. Anzeige des folgenden Vorschlagstextes: Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes: G59.0 (Diabetische Mononeuropathie) G63.2 (Diabetische Polyneuropathie) G73.0 (Myastheniesyndrome bei endokrinen Krankheiten) G99.00 (Gastroparese bei autonomer Neuropathie bei endokrinen und Stoffwechselkrankheiten) G99.08 (Sonstige autonome Neuropathie bei endokrinen und Stoffwechselkrankheiten) Aufforderung an den Anwender, das zutreffende Zusatzkennzeichen für die Diagnosensicherheit zu ergänzen Diagnosesicherheit | **EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER** | |
+1.1.7 UseCase 7 Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle „EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER“ angegebenen ICD-10-GM-Kodes für den Versicherten kodiert werden. EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER I10.90 E11.40 Nach der Beendigung des Kodiervorgangs wird die Kodierregel mit der ID „01-02-012“ ausgelöst Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: E11.40 G Anzeige des folgenden Hinweistextes: Für die Abbildung von neurologischen Komplikationen bei Diabetes mellitus sieht die ICD-10 spezifische Kodes vor. Anzeige des folgenden Vorschlagstextes: Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes: G59.0 (Diabetische Mononeuropathie) G63.2 (Diabetische Polyneuropathie) G73.0 (Myastheniesyndrome bei endokrinen Krankheiten) G99.00 (Gastroparese bei autonomer Neuropathie bei endokrinen und Stoffwechselkrankheiten) G99.08 (Sonstige autonome Neuropathie bei endokrinen und Stoffwechselkrankheiten) Aufforderung an den Anwender, das zutreffende Zusatzkennzeichen für die Diagnosensicherheit zu ergänzen Diagnosesicherheit | EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER | |
 |---|---|
 | **ICD-10-GM-Kode** | **Diagnosesicherheit** |
 | G43.9 | G |
 | I10.90 | G |
 | E11.40 | G |
 
-\| **ERWARTETE REAKTION DER SOFTWARE** |
+\| ERWARTETE REAKTION DER SOFTWARE |
 \|---|
 \| **Nach der Beendigung des Kodiervorgangs wird die Kodierregel mit der ID „01-02-012“ ausgelöst** |
 \| Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat:  E11.40 G |
@@ -335,11 +330,11 @@ folgenden Regeln in Abhängigkeit von der Eingabereihenfolge ausgelöst werden K
 \| Anzeige des folgenden Vorschlagstextes: *Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes:  G59.0 (Diabetische Mononeuropathie)  G63.2 (Diabetische Polyneuropathie)  G73.0 (Myastheniesyndrome bei endokrinen Krankheiten)  G99.00 (Gastroparese bei autonomer Neuropathie bei endokrinen und Stoffwechselkrankheiten)  G99.08 (Sonstige autonome Neuropathie bei endokrinen und Stoffwechselkrankheiten)* |
 \| Aufforderung an den Anwender, das zutreffende Zusatzkennzeichen für die Diagnosensicherheit zu |
 
-\| **ERWARTETE REAKTION DER SOFTWARE** |
+\| ERWARTETE REAKTION DER SOFTWARE |
 \|---|
 \| Es werden keine Änderungen an den eingegebenen Kodes durchgeführt. |
 
-| **ERWARTETE ERGEBNISDATEN** | |
+| ERWARTETE ERGEBNISDATEN | |
 |---|---|
 | **ICD-10-GM-Kode** | **Zusatzkennzeichen für die Diagnosensicherheit** |
 | G43.9 | G |
@@ -358,10 +353,9 @@ folgenden Regeln in Abhängigkeit von der Eingabereihenfolge ausgelöst werden K
 | I10.90 | G |
 | E11.40 | G |
 
-
 ---
 
-| **ERWARTETE REAKTION DER SOFTWARE** | |
+| ERWARTETE REAKTION DER SOFTWARE | |
 |---|---|
 | **Falls die Diagnosen direkt nach der Eingabe der Einzeldiagnosen geprüft werden und eine der** | |
 | Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat:  E11.20 G bzw. E10.20 G | |
@@ -387,7 +381,7 @@ folgenden Regeln in Abhängigkeit von der Eingabereihenfolge ausgelöst werden K
 | G |  |
 | **ERWARTETE REAKTION DER SOFTWARE** | **Falls die Diagnosen direkt nach der Eingabe der Einzeldiagnosen geprüft werden und eine der ** Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat:  E11.20 G bzw. E10.20 G |
 
-| **EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER** | |
+| EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER | |
 |---|---|
 | **ICD-10-GM-Kode** | **Diagnosesicherheit** |
 | J30.1 | G |
@@ -456,7 +450,7 @@ als entgleist bezeichnet [N08.3*]) Nierenkomplikationen, nicht als entgleist bez
 | **ID „01-01-025“** | **ID „01-01-026“** |
 | *Entfernen Sie bitte nicht zutreffende Kodes.  E10.20 (Diabetes mellitus vom Typ 1 mit  E11.20 (Nicht primär insulinabhängiger* | *Entfernen Sie bitte nicht zutreffende Kodes.  E10.20 (Diabetes mellitus vom Typ 1 mit  E11.20 (Nicht primär insulinabhängiger* |
 
-| **ERWARTETE ERGEBNISDATEN** | |
+| ERWARTETE ERGEBNISDATEN | |
 |---|---|
 | **ICD-10-GM-Kode** | **Zusatzkennzeichen für die Diagnosensicherheit** |
 | J30.1 | G |
@@ -465,7 +459,7 @@ als entgleist bezeichnet [N08.3*]) Nierenkomplikationen, nicht als entgleist bez
 | Aufforderung an den Anwender, das zutreffende Zusatzkennzeichen für die Diagnosensicherheit zu | Hinweis für die Prüfung der Umsetzung: Übernehmen Sie die Diagnosen E10.20 und E11.10, jeweils mit |
 | **Nach der Beendigung des Kodiervorgangs wird (bei sequenzieller Abarbeitung) zuerst die Kodierregel** | Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: |
 
-ergänzen. dem Zusatzkennzeichen „G“. mit der ID „01-01-025“ oder zuerst die Kodierregel mit der ID „01-01-026“ausgelöst schließen sich üblicherweise aus. Nierenkomplikationen [N08.3*], nicht als entgleist bezeichnet) Diabetes mellitus [Typ-2-Diabetes] mit Nierenkomplikationen, nicht als entgleist bezeichnet [N08.3*]) Kode E10.20 G gelöscht aus der Abrechnung entfernt werden soll. keine weiteren Kodierregeln ausgeführt. Da E10.20 G gelöscht wurde , ist dieser Kode kein Bestandteil der Wertemengen des Bedingungsblockes der Regel  mehr. Nach Verarbeitung der zuerst angeschlagenen Regel sollte die jeweils andere Regel daher nicht (mehr) anschlagen. schließen sich üblicherweise aus. Nierenkomplikationen [N08.3*], nicht als entgleist bezeichnet) Diabetes mellitus [Typ-2-Diabetes] mit Nierenkomplikationen, nicht als entgleist bezeichnet [N08.3*])  bzw. des Prüfungsblockes der Regel | **ERWARTETE REAKTION DER SOFTWARE** |
+ergänzen. dem Zusatzkennzeichen „G“. mit der ID „01-01-025“ oder zuerst die Kodierregel mit der ID „01-01-026“ausgelöst schließen sich üblicherweise aus. Nierenkomplikationen [N08.3*], nicht als entgleist bezeichnet) Diabetes mellitus [Typ-2-Diabetes] mit Nierenkomplikationen, nicht als entgleist bezeichnet [N08.3*]) Kode E10.20 G gelöscht aus der Abrechnung entfernt werden soll. keine weiteren Kodierregeln ausgeführt. Da E10.20 G gelöscht wurde , ist dieser Kode kein Bestandteil der Wertemengen des Bedingungsblockes der Regel  mehr. Nach Verarbeitung der zuerst angeschlagenen Regel sollte die jeweils andere Regel daher nicht (mehr) anschlagen. schließen sich üblicherweise aus. Nierenkomplikationen [N08.3*], nicht als entgleist bezeichnet) Diabetes mellitus [Typ-2-Diabetes] mit Nierenkomplikationen, nicht als entgleist bezeichnet [N08.3*])  bzw. des Prüfungsblockes der Regel | ERWARTETE REAKTION DER SOFTWARE |
 \|---|
 \| Der ICD-10-GM-Kode E10.20 G wird aus den eingegebenen Behandlungsdiagnosen entfernt.  Anmerkung: Gemäß KP-710, Akzeptanzkriterium 6, werden gegen gelöschte Behandlungsdiagnosen |
 
@@ -481,40 +475,40 @@ ergänzen. dem Zusatzkennzeichen „G“. mit der ID „01-01-025“ oder zuerst
 | N08.3 | G |
 | M54.5 | G |
 
-
 ---
 
 ### 1.1.9 UseCase 9
 
 Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle  „EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER“ angegebenen ICD-10-GM-Kodes für den  Versicherten kodiert werden. Bei der Fallanlage wurden bereits die in der Tabelle „ÜBERNOMMENE ICD-10- GM-KODES AUS DEM VORQUARTAL“ aufgelisteten Diagnosen in das aktuelle Quartal übernommen.
 
-| **EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER** | |
+| EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER | |
 |---|---|
 | **ICD-10-GM-Kode** | **Diagnosesicherheit** |
 | G43.9 | G |
 | E11.21 | G |
 | J06.9 | G |
 
-| **ÜBERNOMMENE ICD-10-GM-KODES AUS DEM VORQUARTAL** | |
+| ÜBERNOMMENE ICD-10-GM-KODES AUS DEM VORQUARTAL | |
 |---|---|
 | **ICD-10-GM-Kode** | **Diagnosesicherheit** |
 | I10.90 | G |
 | E11.20 | G |
 | N08.3 | G |
 
-\| **ERWARTETE REAKTION DER SOFTWARE** |
+\| ERWARTETE REAKTION DER SOFTWARE |
 \|---|
 \| **Nach der Beendigung des Kodiervorgangs wird keine Kodierregel ausgelöst.** |
 \| Anmerkung: Die Kodierregel „01-02-010“ sollte nicht anschlagen, da die Übernahme von Diagnosen aus |
 \| **Falls die Diagnosen direkt nachdem sie eingegeben werden gegen die Kodierregeln geprüft werden,  01-01-017  01-02-010   ausgelöst werden, siehe auch UseCase 8.** |
 
-einem Vorquartal wie ein Kodiervorgang gewertet wird bzw. die übernommenen Diagnosen für die Verarbeitung der Kodierregeln berücksichtigt werden sollen. können die Regeln mit den IDs
+einem Vorquartal wie ein Kodiervorgang gewertet wird bzw. die übernommenen Diagnosen für die Verarbeitung der Kodierregeln berücksichtigt werden sollen. können die Regeln mit den IDs 
+
 
 ---
 
 **1.2** **KONFIGURATION DER KODIERREGELN II**
 
-| **REGELKONFIGURATION** | | |
+| REGELKONFIGURATION | | |
 |---|---|---|
 | **Regel-ID** | **Prüfzeitpunkt** | **Aktivitätsstatus** |
 | 01-01-001 | „zur Abrechnung“ | „aktiv“ |
@@ -544,7 +538,8 @@ einem Vorquartal wie ein Kodiervorgang gewertet wird bzw. die übernommenen Diag
 | 01-02-049 | „bei Kodierung“ | „inaktiv“ |
 | „aktiv“ | Die farbig so gekennzeichneten Felder müssen bei der entsprechenden Regel für eine Bearbeitung | |
 
-Regelkonfiguration gesperrt sein. im Rahmen der
+Regelkonfiguration gesperrt sein. im Rahmen der 
+
 
 ---
 
@@ -552,7 +547,7 @@ Regelkonfiguration gesperrt sein. im Rahmen der
 
 Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle  „EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER“ angegebenen ICD-10-GM-Kodes für den  Versicherten kodiert werden.
 
-| **EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER** | |
+| EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER | |
 |---|---|
 | **ICD-10-GM-Kode** | **Diagnosesicherheit** |
 | J06.9 | G |
@@ -560,12 +555,13 @@ Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wir
 | J44.19 | G |
 | R52.2 | G |
 
-\| **ERWARTETE REAKTION DER SOFTWARE** |
+\| ERWARTETE REAKTION DER SOFTWARE |
 \|---|
 \| **Nach der Beendigung des Kodiervorgangs wird keine Kodierregel ausgelöst** |
 \| Anmerkung: Bei der Regel „01-01-001“ wurde der Prüfzeitpunkt auf das Ereignis „zur Abrechnung“ |
 
-konfiguriert. Diese Regel sollte daher nicht anschlagen.
+konfiguriert. Diese Regel sollte daher nicht anschlagen. 
+
 
 ---
 
@@ -573,19 +569,20 @@ konfiguriert. Diese Regel sollte daher nicht anschlagen.
 
 Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle  „EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER“ angegebenen ICD-10-GM-Kodes für den  Versicherten kodiert werden.
 
-| **EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER** | |
+| EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER | |
 |---|---|
 | **ICD-10-GM-Kode** | **Diagnosesicherheit** |
 | G43.9 | G |
 | E11.21 | G |
 | J06.9 | G |
 
-\| **ERWARTETE REAKTION DER SOFTWARE** |
+\| ERWARTETE REAKTION DER SOFTWARE |
 \|---|
 \| **Nach der Beendigung des Kodiervorgangs wird keine Kodierregel ausgelöst** |
 \| Anmerkung: Bei der fakultativen Regel „01-02-010“ wurde der Aktivitätsstatus mit „inaktiv“ konfiguriert. |
 
-Diese Regel sollte daher nicht anschlagen.
+Diese Regel sollte daher nicht anschlagen. 
+
 
 ---
 
@@ -593,7 +590,7 @@ Diese Regel sollte daher nicht anschlagen.
 
 **2.1** **KONFIGURATION DER KODIERREGELN**
 
-| **REGELKONFIGURATION** | | |
+| REGELKONFIGURATION | | |
 |---|---|---|
 | **Regel-ID** | **Prüfzeitpunkt** | **Aktivitätsstatus** |
 | 01-01-001 | „zur Abrechnung“ | „aktiv“ |
@@ -623,13 +620,12 @@ Diese Regel sollte daher nicht anschlagen.
 | 01-02-049 | „zur Abrechnung“ | „aktiv“ |
 | „aktiv“ | Die farbig so gekennzeichneten Felder müssen bei der entsprechenden Regel für eine Bearbeitung | |
 
-# ENE REGELN ZUM PRÜFZEITPUNKT
+Regelkonfiguration gesperrt sein. im Rahmen der # ENE REGELN ZUM PRÜFZEITPUNKT
 
-Regelkonfiguration gesperrt sein. im Rahmen der
 
 ---
 
-| **TESTDATEN** | |
+| TESTDATEN | |
 |---|---|
 | **Patient 1** | |
 | **ICD-10-GM-Kode** | **Zusatzkennzeichen für die Diagnosensicherheit** |
@@ -749,7 +745,7 @@ UseCase 12 Daten gegen die behandlungsfallbezogenen Kodierregeln prüfen.
 | N18.9 | G |
 | H36.0 | G |
 
-| **ERWARTETE REGELANSCHLÄGE** | | | |
+| ERWARTETE REGELANSCHLÄGE | | | |
 |---|---|---|---|
 | **Patient** | **Regel-ID** | **Auslösender** | **Regelkonflikt** |
 | 1 | Keine Regelanschläge | | |
@@ -799,8 +795,6 @@ Keine Regelanschläge (G63.2;G99.0;I70.20;I70.21;I70.22;I70.23;I70.24;I70.25;I70
 | **ERWARTETE REGELANSCHLÄGE** | | | |
 | 9.2;L02.4;L03.02;L03.11;L89.07;L89.08;L89.17;L89.18;L89.27;L89 | | | |
 
-24 von 32 / KBV / Beispiele für die Umsetzung / Version: 1.02 / 15. April 2023
-
 .28;L89.37;L89.38;L89.97;L89.98;L97;M20.1;M20.2;M20.3;M20. 4;M20.5;M21.27;M21.37;M21.4;M21.57;M21.60;M21.61;M21.6 2;M21.63;M21.68;Z89.4;Z89.5;Z89.6;Z89.7) vorhanden. ;N18.80;N18.89;N18.9;N19) vorhanden. ;E11.30;E11.31;E12.3-- ;E12.30;E12.31;E13.3 ;E13.30;E13.31;E14.3-- ;E14.30;E14.31;E10.7 ;E10.72;E10.73;E10.74;E10.75;E11.7- ;E11.72;E11.73;E11.74;E11.75;E12.7- ;E12.72;E12.73;E12.74;E12.75;E13.7- ;E13.72;E13.73;E13.74;E13.75;E14.7- ;E14.72;E14.73;E14.74;E14.75) vorhanden. ;E11.40;E11.41;E12.4-- ;E12.40;E12.41;E13.4 ;E13.40;E13.41;E14.4-- ;E14.40;E14.41;E10.7 ;E10.72;E10.73;E10.74;E10.75;E11.7- ;E11.72;E11.73;E11.74;E11.75;E12.7- ;E12.72;E12.73;E12.74;E12.75;E13.7- ;E13.72;E13.73;E13.74;E13.75;E14.7- ;E14.72;E14.73;E14.74;E14.75) vorhanden. ;E11.50;E11.51;E12.5-- ;E12.50;E12.51;E13.5 ;E13.50;E13.51;E14.5-- ;E14.50;E14.51;E10.7 ;E10.72;E10.73;E10.74;E10.75;E11.7- ;E11.72;E11.73;E11.74;E11.75;E12.7- ;E12.72;E12.73;E12.74;E12.75;E13.7- ;E13.72;E13.73;E13.74;E13.75;E14.7- ;E14.72;E14.73;E14.74;E14.75) vorhanden. ;N18.80;N18.89;N18.9;N19) vorhanden. ;I50.00;I50.01;I50.02;I50.03;I50.04;I50.05;I50.1- ;I50.11;I50.12;I50.13;I50.14;I50.19;I50.9) vorhanden. ;E11.30;E11.31;E12.3-- ;E12.30;E12.31;E13.3 ;E13.30;E13.31;E14.3-- ;E14.30;E14.31;E10.7 ;E10.72;E10.73;E10.74;E10.75;E11.7- ;E11.72;E11.73;E11.74;E11.75;E12.7-
 
 ---
@@ -828,7 +822,7 @@ Keine Regelanschläge (G63.2;G99.0;I70.20;I70.21;I70.22;I70.23;I70.24;I70.25;I70
 | **ERWARTETE REGELANSCHLÄGE** | | | |
 | ;E12.72;E12.73;E12.74;E12.75;E13.7- | | | |
 
-;E13.72;E13.73;E13.74;E13.75;E14.7- ;E14.72;E14.73;E14.74;E14.75) vorhanden. Regelanschläge“ zusammengefasst | **ERWARTETE REAKTION DER SOFTWARE** |
+;E13.72;E13.73;E13.74;E13.75;E14.7- ;E14.72;E14.73;E14.74;E14.75) vorhanden. Regelanschläge“ zusammengefasst | ERWARTETE REAKTION DER SOFTWARE |
 \|---|
 \| **Bei Durchlaufen der Testabrechnung werden Kodierregeln ausgelöst wie in der Tabelle „Erwartete** |
 \| Die Software generiert eine Übersicht zu den Regelanschlägen |
@@ -837,7 +831,7 @@ Keine Regelanschläge (G63.2;G99.0;I70.20;I70.21;I70.22;I70.23;I70.24;I70.25;I70
 
 ---
 
-| **TESTDATEN** | | | | | | | | | |
+| TESTDATEN | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|
 | **Patient 1** | | | | | | | | | |
 | **Quartal -4** | **Quartal -3** | **Quartal -2** | **Quartal -1** | **Aktuelles Quartal** | | | | | |
@@ -906,7 +900,7 @@ Keine Regelanschläge (G63.2;G99.0;I70.20;I70.21;I70.22;I70.23;I70.24;I70.25;I70
 |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |
 
-| **REGELKONFIGURATION** | | |
+| REGELKONFIGURATION | | |
 |---|---|---|
 | **Regel-ID** | **Prüfzeitpunkt** | **Aktivitätsstatus** |
 | 03-02-036 | „wählbar“ | „aktiv“ |
@@ -989,10 +983,7 @@ QUARTALSÜBERGREIFENDE REGELN KONFIGURATION DER KODIERREGELN UseCase 13 gegen di
 | **ICD-10-** | **DS** | **ICD-10-** | **DS** | **ICD-10-** | **DS** | I62.02 | G | I25.12 | G |
 | I10.90 | G | E11.90 | G | J44.9- | G | I10.90 | G | I62.02 | G |
 
-/ Version: 1.02 /
-
 GM- Kode GM- Kode GM- Kode GM- Kode GM- Kode GM- Kode GM- Kode GM- Kode GM- Kode GM- Kode GM- Kode GM- Kode GM- Kode GM- Kode GM- Kode
-
 
 ---
 
@@ -1065,7 +1056,7 @@ GM- Kode GM- Kode GM- Kode GM- Kode GM- Kode GM- Kode GM- Kode GM- Kode GM- Kode
 |  |  | E11.90 | G |  |  |  |  | I64 | G |
 |  |  |  |  | I21.0 | G | I21.0 | Z | I21.0 | G |
 
-GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- ICD-10-GM- zwei aufeinanderfolgenden zurückliegenden Quartalen.| **ERWARTETE REGELANSCHLÄGE** | | | |
+GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- ICD-10-GM- zwei aufeinanderfolgenden zurückliegenden Quartalen.| ERWARTETE REGELANSCHLÄGE | | | |
 |---|---|---|---|
 | **Patient** | **Regel-ID** | **Auslösender** | **Regelkonflikt** |
 | 1 | 03-02-036 | I21.0 G | Vorhandensein des Kodes I21.0 G im aktuellen und |
@@ -1096,13 +1087,14 @@ GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- GM- ICD-10-GM- zwei aufe
 | 7 | 03-02-040 | I61.9 G | Vorhandensein des Kodes I61.9 G im aktuellen und vier |
 | 8 | 03-02-046 | I64 G | Vorhandensein des Kodes I64 G im aktuellen und vier |
 
-\| **ERWARTETE REAKTION DER SOFTWARE** |
+\| ERWARTETE REAKTION DER SOFTWARE |
 \|---|
 \| **Bei Durchlaufen der Behandlungsfälle werden Kodierregeln ausgelöst wie in der Tabelle „Erwartete** |
 \| Die Software generiert eine Übersicht zu den Regelanschlägen |
 \| Die Software ermöglicht eine Abarbeitung der einzelnen Regelanschläge auf Patienten-/Fallebene |
 
-aufeinanderfolgenden zurückliegenden Quartalen. aufeinanderfolgenden zurückliegenden Quartalen. aufeinanderfolgenden zurückliegenden Quartalen. aufeinanderfolgenden zurückliegenden Quartalen. aufeinanderfolgenden zurückliegenden Quartalen. aufeinanderfolgenden zurückliegenden Quartalen. Regelanschläge“ zusammengefasst
+aufeinanderfolgenden zurückliegenden Quartalen. aufeinanderfolgenden zurückliegenden Quartalen. aufeinanderfolgenden zurückliegenden Quartalen. aufeinanderfolgenden zurückliegenden Quartalen. aufeinanderfolgenden zurückliegenden Quartalen. aufeinanderfolgenden zurückliegenden Quartalen. Regelanschläge“ zusammengefasst 
+
 
 ---
 
@@ -1120,7 +1112,7 @@ Beim ersten Praxisbesuch des Patienten im 1. Quartal 2023 hat sich der Schweregr
 
 Beim ersten Praxisbesuch des Patienten im 2. Quartal 2023 werden dem Anwender beide Dauerdiagnosen
 
-| **DAUERDIAGNOSE** |  | |
+| DAUERDIAGNOSE |  | |
 |---|---|---|
 | ICD-10- | Diagnosenklartext |  |
 | E66.01 G | Adipositas durch übermäßige Kalorienzufuhr Grad II (WHO) bei Patienten von 18 Jahren |  |
@@ -1130,7 +1122,7 @@ zur Übernahme in die Abrechnung angeboten und beide Diagnosen sind zur Übernah
 
 Der Anwender entscheidet sich, die Diagnose "E66.00 G" als Dauerdiagnose in die Abrechnung zu  übernehmen und die Diagnose "E66.01 G" aus der Liste der Dauerdiagnosen zu entfernen. Die medizinische  Patientendokumentation der Vorquartale (Scheine) wird nicht geändert:
 
-| **BEHANDLUNGS-** | **DAUERDIAGNOSE** | |
+| BEHANDLUNGS- | DAUERDIAGNOSE | |
 |---|---|---|
 | ICD-10-GM-Kode | Diagnosenklartext | |
 | Q3/2022 | E66.01 G | Adipositas durch übermäßige Kalorienzufuhr Grad II (WHO) bei |
@@ -1144,9 +1136,8 @@ Beim ersten Praxisbesuch des Patienten im 3. Quartal 2023 wird dem Anwender nur 
 
 mit der Diagnosensicherheit "G" zur Übernahme angeboten.
 
-**KP10 -200** und **KP10 -240** sei hier an einem Beispiel beschrieben:
+GM-Kode und älter und älter QUARTAL Patienten von 18 Jahren und älter Patienten von 18 Jahren und älter Patienten von 18 Jahren und älter Patienten von 18 Jahren und älter **KP10 -200** und **KP10 -240** sei hier an einem Beispiel beschrieben:
 
-GM-Kode und älter und älter QUARTAL Patienten von 18 Jahren und älter Patienten von 18 Jahren und älter Patienten von 18 Jahren und älter Patienten von 18 Jahren und älter
 
 ---
 
@@ -1156,24 +1147,22 @@ Bei der Durchsicht der medizinischen Patientendokumentation kann der Anwender de
 
 ### 4.2.1 Wie unterscheiden sich behandlungsfallbezogenen und quartalsübergreifenden Kodierregeln  zur gleichen Behandlungsdiagnose?
 
-Die Kodierregeln mit den IDs - 01-01-001
+Die Kodierregeln mit den IDs
 
+- 01-01-001
 - 03-02-036
 
 können durch den ICD-10-GM-Kode I21.0 G ausgelöst werden.
 
 Das „Thema“ ist in beiden Fällen der akute Herzinfarkt. Die behandlungsfallbezogene Regel 01 -01-001  behandelt den Fall, dass ein zurückliegender Herzinfarkt spezifisch mit Diagnoseschlüsseln aus I25.2 -  kodiert werden kann. Daher ist der Auslöser der Regel nicht bspw. der ICD-10-GM-Kode I21.0 mit dem  Zusatzkennzeichen **G** sondern bspw. I21.0 mit dem Zusatzkennzeichen **Z**
 
-Die quartalsübergreifende Regel 03 -02-036 behandelt den Fall, dass ein stets über zwei zurückliegende  Behandlungsfälle hinweg kodierter akuter Herzinfarkt (mit dem Zusatzkennzeichen **G**) daraufhin überprüft
-
-werden sollte, ob im aktuellen Behandlungsfall wirklich weiterhin ein akuter Herzinfarkt vorliegt oder eher  ein zurückliegender Herzinfarkt kodiert werden sollte.
+Die quartalsübergreifende Regel 03 -02-036 behandelt den Fall, dass ein stets über zwei zurückliegende  Behandlungsfälle hinweg kodierter akuter Herzinfarkt (mit dem Zusatzkennzeichen **G**) daraufhin überprüft  werden sollte, ob im aktuellen Behandlungsfall wirklich weiterhin ein akuter Herzinfarkt vorliegt oder eher  ein zurückliegender Herzinfarkt kodiert werden sollte.
 
 Die Regeln gleichen sich daher im Ergebnis, dass für den aktuellen Behandlungsfall der auslösende ICD -10 -  GM-Kode in einen ICD-10-GM-Kode aus der Liste I25.2 - mit dem Zusatzkennzeichen G zu ändern ist.
 
 ### 4.2.2 Kann eine Diagnose mehr als eine Kodierregel auslösen?
 
 Grundsätzlich kann es vorkommen, dass für einen ICD-10-GM-Kode mehr als eine Kodierregel ausgelöst  werden. Dann sind alle Korrekturmöglichkeiten anzuzeigen.
-
 
 ---
 
@@ -1183,4 +1172,4 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)

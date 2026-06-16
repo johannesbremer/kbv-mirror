@@ -12,19 +12,13 @@
 
 ## ERLÄUTERUNGEN ZU DEN EINZELNEN FELDERN
 
-## 1. LEISTUNGSART (KURATIV, PRÄVENTIV, BEI BELEGÄRZTLICHER BEHANDLUNG, EMPFÄNGNIS
+## 1. LEISTUNGSART (KURATIV, PRÄVENTIV, BEI BELEGÄRZTLICHER BEHANDLUNG, EMPFÄNGNIS REGELUNG/STERILISATION/SCHWANGERSCHAFTSABBRUCH)
 
-## REGELUNG/STERILISATION/SCHWANGERSCHAFTSABBRUCH)
-
-Hier ist zu kennzeichnen, ob der Auftrag im Rahmen der kurativen Versorgung, der Prävention, der
-
-Empfängnisregelung/Sterilisation/Schwangerschaftsabbruch oder bei belegärztlicher Behandlung erfolgt.
+Hier ist zu kennzeichnen, ob der Auftrag im Rahmen der kurativen Versorgung, der Prävention, der  Empfängnisregelung/Sterilisation/Schwangerschaftsabbruch oder bei belegärztlicher Behandlung erfolgt.
 
 ## 2. UNFALL, UNFALLFOLGEN
 
-Wenn die Behandlung aufgrund oder als Folge eines Unfalles erforderlich wird, kann die Krankenkassen ggf.
-
-Kosten gegenüber Dritten geltend machen.
+Wenn die Behandlung aufgrund oder als Folge eines Unfalles erforderlich wird, kann die Krankenkassen ggf.  Kosten gegenüber Dritten geltend machen.
 
 
 ---
@@ -82,28 +76,14 @@ ist in der Form „QJJ“ in das betreffende Feld einzutragen.
 
 ---
 
-Der überweisende Vertragsarzt kann bei einer eiligen Befundübermittlung diese als solche kennzeichnen  und angeben, ob der Befund per Telefon oder FAX übermittelt werden soll und an welche Telefon- bzw.
-
-Faxnummer der Befund nachrichtlich zu übermitteln ist.
+Der überweisende Vertragsarzt kann bei einer eiligen Befundübermittlung diese als solche kennzeichnen  und angeben, ob der Befund per Telefon oder FAX übermittelt werden soll und an welche Telefon- bzw.  Faxnummer der Befund nachrichtlich zu übermitteln ist.
 
 ## 15. DIAGNOSE/VERDACHTSDIAGNOSE  BEFUND/MEDIKATION - AUFTRAG
 
-Hier sind nach Nennung der Diagnose/Verdachtsdiagnose, möglichst als ICD-Code, des Befundes bzw. der
+Hier sind nach Nennung der Diagnose/Verdachtsdiagnose, möglichst als ICD-Code, des Befundes bzw. der  Medikation die Auftragsleistungen im Auftragsfeld nach Art und Umfang konkret zu bezeichnen (Angabe  der Gebührenordnungsposition oder der präzisen Leistungsbezeichnung). Es dürfen nur die  Untersuchungen durchgeführt werden, die im Auftragsfeld angegeben sind. Eine Erweiterung des Auftrages  nach Art oder Umfang bedarf der Zustimmung des überweisenden Vertragsarztes; sie ist auf dem Vordruck  zu vermerken.
 
-Medikation die Auftragsleistungen im Auftragsfeld nach Art und Umfang konkret zu bezeichnen (Angabe
-
-der Gebührenordnungsposition oder der präzisen Leistungsbezeichnung). Es dürfen nur die
-
-Untersuchungen durchgeführt werden, die im Auftragsfeld angegeben sind. Eine Erweiterung des Auftrages  nach Art oder Umfang bedarf der Zustimmung des überweisenden Vertragsarztes; sie ist auf dem Vordruck  zu vermerken.
-
-Die Veranlassung von Leistungen der Mutterschaftsvorsorge gemäß den Mutterschafts-Richtlinien des
-
-Gemeinsamen Bundesausschusses bei Vertretung, im Notfall oder bei Mit- bzw. Weiterbehandlung nach
-
-den kurativen Gebührenordnungspositionen muss entweder durch Angabe der Kennnummer 32007 oder  durch Angabe im Feld „Auftrag“ kenntlich gemacht werden.
+Die Veranlassung von Leistungen der Mutterschaftsvorsorge gemäß den Mutterschafts-Richtlinien des  Gemeinsamen Bundesausschusses bei Vertretung, im Notfall oder bei Mit- bzw. Weiterbehandlung nach  den kurativen Gebührenordnungspositionen muss entweder durch Angabe der Kennnummer 32007 oder  durch Angabe im Feld „Auftrag“ kenntlich gemacht werden.
 
 ## 16. BARCODE BEI BLANKOFORMULARBEDRUCKUNG
 
-Bei Einsatz des Verfahrens zur Blankoformularbedruckung wird mittels Laserdrucker ein zweidimensionaler
-
-Barcode PDF 417 aufgedruckt. Dieser enthält sämtliche Informationen des Formulars und kann von dem im  Auftrag tätig werdenden Arzt automatisch ausgewertet werden.
+Bei Einsatz des Verfahrens zur Blankoformularbedruckung wird mittels Laserdrucker ein zweidimensionaler  Barcode PDF 417 aufgedruckt. Dieser enthält sämtliche Informationen des Formulars und kann von dem im  Auftrag tätig werdenden Arzt automatisch ausgewertet werden.

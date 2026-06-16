@@ -14,7 +14,7 @@
 
 **gültig ab 01.10.2025**
 
-# Version: 1 0
+# Version: 1.0
 
 **Stand der Bearbeitung:**
 
@@ -23,7 +23,6 @@
 **Version anzuwenden ab:**
 
 **01.10.2026**
-
 
 ---
 
@@ -131,4 +130,4 @@ aktueller Dokumentation)  wahrgenommen Dokumentation keine Schulung empfohlen Er
 |  |  | | |
 | 11 | Beendigung der DMP-Teilnahme | Ja / Nein | Bedingtes Pflichtfeld;   Genau eine Angabe ist zulässig    Eine Angabe ist erforderlich, wenn die    Eine |
 
-Hinweis für die Ausfüllanleitung: Die Angabe ist nur bei der Erstdokumentation auszufüllen.  Hinweis für die Ausfüllanleitung: Diese Angabe ist erst bei der zweiten und allen folgenden Dokumentationen (Folgedokumentation) zu machen. Hinweis für die Ausfüllanleitung: Der Prädiabetes wird wie folgt definiert: HbA1c 5,7% bis kleiner 6,5%, bei Patientinnen und Patienten ohne Diabetestherapie. Rahmen der Folgedokumentation keine Angabe aus der Erstdokumentation übernommen werden, wird das Hinweis für die Ausfüllanleitung: Diese Angabe ist erst bei der zweiten Dokumentation und allen folgenden Dokumentationen (Folgedokumentation) zu machen und nur wenn in Feld 6 (Prädiabetes) die Angabe „Ja“ vorhanden ist. Wenn in Feld 10 erstmalig „Ja“ angegeben wird, muss diese Antwortausprägung für alle weiteren Folgedokumentationen unveränderbar übernommen werden. Hinweis für die Ausfüllanleitung: Sofern hier „Ja“ angegeben wird, erfolgt eine Beendigung der DMP auszufüllen und gleichzeitig in Feld 6 die Angabe „Nein“ vorhanden ist. Erstdokumentation ist nicht zulässig. Anlage 24* Folgedokumentation auszufüllen ist. Erstdokumentation ist nicht zulässig. Feld mit „Nein“ unveränderbar vorbelegt. -Teilnahme durch die Krankenkasse
+Hinweis für die Ausfüllanleitung: Die Angabe ist nur bei der Erstdokumentation auszufüllen.  Hinweis für die Ausfüllanleitung: Diese Angabe ist erst bei der zweiten und allen folgenden Dokumentationen (Folgedokumentati on) zu machen. Hinweis für die Ausfüllanleitung: Der Prädiabetes wird wie folgt definiert: HbA1c 5,7% bis kleiner 6,5%, bei Patientinnen und Patienten ohne Diabetestherapie. Rahmen der Folgedokumentation keine Angabe aus der Erstdokumentation übernommen werden, wird das Hinweis für die Ausfüllanleitung: Diese Angabe ist erst bei der zweiten Dokumentation und allen folgenden Dokumentationen (Folgedokumentation) zu machen und nur wenn in Feld 6 (Prädiabetes) die Angabe „Ja“ vorhanden ist. Wenn in Feld 10 erstmalig „Ja“ angegeben wird, muss diese Antwortausprägung für alle weiteren Folgedokumentationen unveränderbar übernommen werden. Hinweis für die Ausfüllanleitung: Sofern hier „Ja“ angegeben wird, erfolgt eine Beendigung der DMP auszufüllen und gleichzeitig in Feld 6 die Angabe „Nein“ vorhanden ist. Erstdokumentation ist nicht zulässig. Anlage 24* Folgedokumentation auszufüllen ist. Erstdokumentation ist nicht zulässig. Feld mit „Nein“ unveränderbar vorbelegt. -Teilnahme durch die Krankenkasse

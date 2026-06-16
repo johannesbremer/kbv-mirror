@@ -25,9 +25,7 @@ Hier wird der Laborgemeinschaft durch Ankreuzen des Unfallfeldes mitgeteilt, wen
 
 Knappschaftsärzte tragen für die Veranlassung von Laboratoriumsuntersuchungen bei  Knappschaftsversicherten die Ziffer 87777 ein.
 
-**4. GESCHLECHT** Das Geschlecht des Patienten wird durch einen Buchstaben angegeben (D = divers, M = männlich, W =
-
-weiblich, X = unbestimmt).
+**4. GESCHLECHT** Das Geschlecht des Patienten wird durch einen Buchstaben angegeben (D = divers, M = männlich, W =  weiblich, X = unbestimmt).
 
 **5. SSW**
 
@@ -39,13 +37,9 @@ Bei einer vorliegenden Schwangerschaft ist die Schwangerschaftswoche in diesem F
 
 Die Abnahmezeit ist hier einzutragen.
 
-**8. ZUSÄTZLICHE AN ZU UNTERSUCHUNGENGABE**
+**8. ZUSÄTZLICHE AN ZU UNTERSUCHUNGENGABE** Im diesem Feld können der Laborgemeinschaft für eiim Auftrag tätigen
 
-Im diesem Feld können der Laborgemeinschaft für eiim Auftrag tätigen
-
-ne Untersuchung wesentliche
-
-Angaben, beispielsweise die Urin-Sammelmenge und Sammelzeit bei der Anforderung der Kreatinin- Clearance, oder andere übermitteltMedikationen
+ne Untersuchung wesentliche  Angaben, beispielsweise die Urin-Sammelmenge und Sammelzeit bei der Anforderung der Kreatinin- Clearance, oder andere übermitteltMedikationen
 
 zusätzliche Informationen
 
@@ -53,13 +47,9 @@ werden.
 
 **9. AUFTRAGSFELD** Der anfordernde Vertragsarzt hat d maie Auftragsleistungen nuell durch Auftragsfeld zuStriche im
 
-vermerken. Unter „Sonstiges“ sind die nicht im Auftragsfeld benannten Leistungen des Allgemeinlabors
+vermerken. Unter „Sonstiges“ sind die nicht im Auftragsfeld benannten Leistungen des Allgemeinlabors  beziehbar. Die die Auftragsleistung a darf nur dusführende Laborgemeinschaft
 
-beziehbar. Die die Auftragsleistung a darf nur dusführende Laborgemeinschaft
-
-ie Untersuchungen
-
-durchführen, angegeben sdie im Auftragsfeld
+ie Untersuchungen  durchführen, angegeben sdie im Auftragsfeld
 
 ind.
 
@@ -67,8 +57,4 @@ ind.
 
 lankoformularbedruckung ird
 
-Laserdrucker ein zweidimensionaler
-
-Barcode PDF 417 aufgedruckt. Dieser enthält sämtliche Informationen des Formulars und kann in der
-
-Laborgemeinschaft a ausgewertet werden. utomatisch
+Laserdrucker ein zweidimensionaler  Barcode PDF 417 aufgedruckt. Dieser enthält sämtliche Informationen des Formulars und kann in der  Laborgemeinschaft a ausgewertet werden. utomatisch

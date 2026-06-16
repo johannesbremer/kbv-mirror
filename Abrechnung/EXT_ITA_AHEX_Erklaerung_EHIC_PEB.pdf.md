@@ -20,9 +20,9 @@ Unterschrift der Patientin / des Patienten
 
 подпис
 
-## T T M M J J
+**T** **T** **M M** **J** **J**
 
-**Bitte vollständig und leserlich ausfüllen. Моля** **попълнете** **изцяло** **и** **четливо**
+**Bitte vollständig und leserlich ausfüllen.** **Моля** **попълнете** **изцяло** **и** **четливо**
 
 Ich bestätige, dass ich nicht zum Zwecke der Behandlung nach Deutschland eingereist bin.
 
@@ -74,11 +74,11 @@ Datum / Дата
 
 на лице осигурено в страна от ЕС или ЕИП в Швейцария или Обединеното кралство което представя
 
-**Европейска** **здравноосигурителна** **карта ЕЗОК), Global Health Insurance Card (GHIC)** или **Удостоверение** **за**
+**Европейска** **здравноосигурителна** **карта ЕЗОК Global Health Insurance Card (GHIC)** или **Удостоверение** **за**
 
 **временно** **заместване УВЗ**
 
-## T T M M J J
+**T** **T** **M M** **J** **J**
 
 ### Bulgarisch
 
@@ -116,9 +116,7 @@ Nr.
 
 der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine
 
-**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**
-
-**Ersatzbescheinigung (PEB)** vorlegt.
+**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**  **Ersatzbescheinigung (PEB)** vorlegt.
 
 ***Ab hier von der Praxis auszufüllen.***
 
@@ -126,11 +124,7 @@ der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich vers
 
 **Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
 
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***
-
-***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***
-
-***Kopie des Anspruchnachweises ist nicht erforderlich.***
+***Hinweis an die Praxis: Das Original dieser Erklärung sowie***   ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***   ***Kopie des Anspruchnachweises ist nicht erforderlich.***
 
 Datum
 
@@ -151,7 +145,7 @@ Unterschrift der Patientin / des Patienten
 
 *patientens underskrift*
 
-## T T M M J J
+**T** **T** **M M** **J** **J**
 
 ***Bitte vollständig und leserlich ausfüllen. Udfyldes fuldstændigt og let læseligt.***
 
@@ -211,13 +205,11 @@ Datum / *dato*
 
 der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine
 
-**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**
-
-**Ersatzbescheinigung (PEB)** vorlegt.
+**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**  **Ersatzbescheinigung (PEB)** vorlegt.
 
 *for en person, der er forsikret i et EU- eller EØS-land, i Schweiz eller i Det Forenede Kongerige, og som forelægger et*  ***europæisk sygesikringskort (EHIC)****, et* ***Global Health Insurance Card (GHIC)**** eller et* ***provisorisk erstatningsbevis (PEB)***
 
-## T T M M J J
+**T** **T** **M M** **J** **J**
 
 ### Dänisch
 
@@ -261,11 +253,7 @@ Nr.
 
 **Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
 
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***
-
-***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***
-
-***Kopie des Anspruchnachweises ist nicht erforderlich.***
+***Hinweis an die Praxis: Das Original dieser Erklärung sowie***   ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***   ***Kopie des Anspruchnachweises ist nicht erforderlich.***
 
 Datum
 
@@ -372,9 +360,7 @@ Datum / *Date*
 
 der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine
 
-**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**
-
-**Ersatzbescheinigung (PEB)** vorlegt.
+**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**  **Ersatzbescheinigung (PEB)** vorlegt.
 
 *on the part of the person insured in another EU or EEA country, in Switzerland or in the United Kingdom submitting a*
 
@@ -382,11 +368,7 @@ der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich vers
 
 ***Certificate (PRC)***
 
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***
-
-***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***
-
-***Kopie des Anspruchnachweises ist nicht erforderlich.***
+***Hinweis an die Praxis: Das Original dieser Erklärung sowie***   ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***   ***Kopie des Anspruchnachweises ist nicht erforderlich.***
 
 Datum
 
@@ -507,19 +489,11 @@ Datum / *Kuupäev*
 
 der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine
 
-**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**
+**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**  **Ersatzbescheinigung (PEB)** vorlegt.
 
-**Ersatzbescheinigung (PEB)** vorlegt.
+*Kinnitaja on teises ELi või EMP riigis, Šveitsis või Ühendkuningriigis kindlustatud isik, kes esitab* ***Euroopa ravikindlustuskaardi***  ***(EHIC) ülemaailmse ravikindlustuskaardi (GHIC)**** või* ***ajutise asendussertifikaadi (PRC)***
 
-*Kinnitaja on teises ELi või EMP riigis, Šveitsis või Ühendkuningriigis kindlustatud isik, kes esitab* ***Euroopa ravikindlustuskaardi***
-
-***(EHIC) ülemaailmse ravikindlustuskaardi (GHIC)**** või* ***ajutise asendussertifikaadi (PRC)***
-
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***
-
-***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***
-
-***Kopie des Anspruchnachweises ist nicht erforderlich.***
+***Hinweis an die Praxis: Das Original dieser Erklärung sowie***   ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***   ***Kopie des Anspruchnachweises ist nicht erforderlich.***
 
 Datum
 
@@ -642,21 +616,13 @@ Datum / *Päiväys*
 
 der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine
 
-**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**
-
-**Ersatzbescheinigung (PEB)** vorlegt.
+**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**  **Ersatzbescheinigung (PEB)** vorlegt.
 
 *jonka antaa muussa EU:n tai ETA:n jäsenvaltiossa, Sveitsissä tai Yhdistyneessä kuningaskunnassa vakuutettu henkilö,*
 
-*joka esittää* ***Eurooppalaisen sairausvakuutuskortin (EHIC) Maailmanlaajuisen sairaanhoitokortin (GHIC)*** *tai* ***Väliaikaisen***
+*joka esittää* ***Eurooppalaisen sairausvakuutuskortin (EHIC) Maailmanlaajuisen sairaanhoitokortin (GHIC)*** *tai* ***Väliaikaisen***  ***korvaustodistuksen (PRC)***
 
-***korvaustodistuksen (PRC)***
-
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***
-
-***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***
-
-***Kopie des Anspruchnachweises ist nicht erforderlich.***
+***Hinweis an die Praxis: Das Original dieser Erklärung sowie***   ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***   ***Kopie des Anspruchnachweises ist nicht erforderlich.***
 
 Datum
 
@@ -691,7 +657,7 @@ Unterschrift der Patientin / des Patienten
 
 *Signature du/de la patient(e)*
 
-## T T M M J J
+**T** **T** **M M** **J** **J**
 
 ***Bitte vollständig und leserlich ausfüllen. Veuillez remplir entièrement et lisiblement.***
 
@@ -749,21 +715,15 @@ oder
 
 Datum / *Date*
 
-*de la personne assurée dans un pays de l’UE, de l‘EEE, en Suisse ou au Royaume-Uni qui présente une* ***carte européenne***
+*de la personne assurée dans un pays de l’UE, de l‘EEE, en Suisse ou au Royaume-Uni qui présente une* ***carte européenne***  ***d’assurance maladie (CEAM)****, une* ***Global Health Insurance Card (GHIC)**** ou un* ***certificat provisoire de remplacement***  ***(CPR)***
 
-***d’assurance maladie (CEAM)****, une* ***Global Health Insurance Card (GHIC)**** ou un* ***certificat provisoire de remplacement***
-
-***(CPR)***
-
-## T T M M J J
+**T** **T** **M M** **J** **J**
 
 ### Französisch
 
 der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine
 
-**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**
-
-**Ersatzbescheinigung (PEB)** vorlegt.
+**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**  **Ersatzbescheinigung (PEB)** vorlegt.
 
 **Geschlecht /** ***sexe***
 
@@ -805,11 +765,7 @@ Nr.
 
 **Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
 
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***
-
-***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***
-
-***Kopie des Anspruchnachweises ist nicht erforderlich.***
+***Hinweis an die Praxis: Das Original dieser Erklärung sowie***   ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***   ***Kopie des Anspruchnachweises ist nicht erforderlich.***
 
 Datum
 
@@ -836,9 +792,9 @@ Unterschrift der Patientin / des Patienten
 
 *Υπογραφή* *της* *ασθενούς του* *ασθενούς*
 
-## T T M M J J
+**T** **T** **M M** **J** **J**
 
-***Bitte vollständig und leserlich ausfüllen. Παρακαλώ*** ***συμπληρώστε*** ***το*** ***έντυπο*** ***ευανάγνωστα*** ***και*** ***πλήρως***
+***Bitte vollständig und leserlich ausfüllen.*** ***Παρακαλώ*** ***συμπληρώστε*** ***το*** ***έντυπο*** ***ευανάγνωστα*** ***και*** ***πλήρως***
 
 Ich bestätige, dass ich nicht zum Zwecke der Behandlung nach Deutschland eingereist bin.
 
@@ -874,9 +830,9 @@ PLZ, Ort / *Τ Κ πόλη*
 
 Straße, Hausnummer / *Οδός αριθμός*
 
-c/o (Hotel, Familie etc.) / *c/o(Ξενοδοχείο οικογένεια* *κ ά..)*
+c/o (Hotel, Familie etc.) / *c/o(Ξενοδοχείο οικογένεια* *κ ά*
 
-Tel.-Nr./E-Mail / *Αρ τηλ./e-mail*
+Tel.-Nr./E-Mail / *Αρ τηλ e-mail*
 
 **Vorübergehende Aufenthaltsadresse in Deutschland**
 
@@ -888,21 +844,15 @@ oder
 
 Datum / *Ημερομηνία*
 
-*ασφαλισμένου ασφαλισμένης* *σε* *άλλη* *χώρα* *της* *ΕΕ* *ή* *του* *ΕΟΧ στην* *Ελβετία* *ή* *στο* *Ηνωμένο* *Βασίλειο προσκομίζοντας*
+*ασφαλισμένου ασφαλισμένης* *σε* *άλλη* *χώρα* *της* *ΕΕ* *ή* *του* *ΕΟΧ στην* *Ελβετία* *ή* *στο* *Ηνωμένο* *Βασίλειο προσκομίζοντας*  ***Ευρωπαϊκή*** ***Κάρτα*** ***Ασφάλισης*** ***Ασθένειας ΕΚΑΑ Παγκόσμια*** ***Κάρτα*** ***Ασφάλισης*** ***Ασθένειας GHIC*** *ή* ***Πιστοποιητικό***  ***Προσωρινής*** ***Αντικατάστασης ΠΠΑ***
 
-***Ευρωπαϊκή*** ***Κάρτα*** ***Ασφάλισης*** ***Ασθένειας ΕΚΑΑ Παγκόσμια*** ***Κάρτα*** ***Ασφάλισης*** ***Ασθένειας (GHIC)*** *ή* ***Πιστοποιητικό***
-
-***Προσωρινής*** ***Αντικατάστασης ΠΠΑ***
-
-## T T M M J J
+**T** **T** **M M** **J** **J**
 
 ### Griechisch
 
 der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine
 
-**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**
-
-**Ersatzbescheinigung (PEB)** vorlegt.
+**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**  **Ersatzbescheinigung (PEB)** vorlegt.
 
 **Geschlecht /** ***Φύλλο***
 
@@ -944,11 +894,7 @@ Nr.
 
 **Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
 
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***
-
-***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***
-
-***Kopie des Anspruchnachweises ist nicht erforderlich.***
+***Hinweis an die Praxis: Das Original dieser Erklärung sowie***   ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***   ***Kopie des Anspruchnachweises ist nicht erforderlich.***
 
 Datum
 
@@ -969,7 +915,7 @@ Unterschrift der Patientin / des Patienten
 
 *Firma della / del paziente*
 
-## T T M M J J
+**T** **T** **M M** **J** **J**
 
 ***Bitte vollständig und leserlich ausfüllen. Si prega di compilare il modul interamente e in modo leggibile.***
 
@@ -1027,19 +973,15 @@ oder
 
 Datum / *Data*
 
-*della persona assicurata in un altro paese dell’UE o del SEE, in Svizzera o nel Regno Unito, che presenta la* ***Tessera Europea***
+*della persona assicurata in un altro paese dell’UE o del SEE, in Svizzera o nel Regno Unito, che presenta la* ***Tessera Europea***  ***di Assicurazione Malattia (TEAM)****, la* ***Global Health Insurance Card (GHIC)**** o il* ***Certificato Sostitutivo Provvisorio (CSP)***
 
-***di Assicurazione Malattia (TEAM)****, la* ***Global Health Insurance Card (GHIC)**** o il* ***Certificato Sostitutivo Provvisorio (CSP)***
-
-## T T M M J J
+**T** **T** **M M** **J** **J**
 
 ### Italienisch
 
 der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine
 
-**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**
-
-**Ersatzbescheinigung (PEB)** vorlegt.
+**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**  **Ersatzbescheinigung (PEB)** vorlegt.
 
 **Geschlecht /** ***Sesso***
 
@@ -1081,11 +1023,7 @@ Nr.
 
 **Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
 
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***
-
-***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***
-
-***Kopie des Anspruchnachweises ist nicht erforderlich.***
+***Hinweis an die Praxis: Das Original dieser Erklärung sowie***   ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***   ***Kopie des Anspruchnachweises ist nicht erforderlich.***
 
 Datum
 
@@ -1112,9 +1050,9 @@ Unterschrift der Patientin / des Patienten
 
 *Potpis pacijentkinje / pacijenta*
 
-## T T M M J J
+**T** **T** **M M** **J** **J**
 
-***Bitte vollständig und leserlich ausfüllen. Molimo da potpuno ispunite tiskanicu čitkim slovima.***
+***Bitte vollständig und leserlich ausfüllen.*** ***Molimo da potpuno ispunite tiskanicu čitkim slovima***
 
 Ich bestätige, dass ich nicht zum Zwecke der Behandlung nach Deutschland eingereist bin.
 
@@ -1164,21 +1102,15 @@ oder
 
 Datum / *datum*
 
-*osobe osigurane u drugim državama EZ, odnosno EGP, u Švicarskoj ili u Ujedinjenom Kraljevstvu, koja prilaže* ***Karticu***
+*osobe osigurane u drugim državama EZ, odnosno EGP, u Švicarskoj ili u Ujedinjenom Kraljevstvu, koja prilaže* ***Karticu***  ***Europskog zdravstvenog osiguranja (EHIC)****, tzv.* ***Global Health Insurance Card (GHIC)**** ili* ***Privremeno uvjerenje kao***  ***nadomestak***
 
-***Europskog zdravstvenog osiguranja (EHIC)****, tzv.* ***Global Health Insurance Card (GHIC)**** ili* ***Privremeno uvjerenje kao***
-
-***nadomestak***
-
-## T T M M J J
+**T** **T** **M M** **J** **J**
 
 ### Kroatisch
 
 der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine
 
-**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**
-
-**Ersatzbescheinigung (PEB)** vorlegt.
+**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**  **Ersatzbescheinigung (PEB)** vorlegt.
 
 **Geschlecht /** ***spol***
 
@@ -1220,11 +1152,7 @@ Nr.
 
 **Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
 
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***
-
-***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***
-
-***Kopie des Anspruchnachweises ist nicht erforderlich.***
+***Hinweis an die Praxis: Das Original dieser Erklärung sowie***   ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***   ***Kopie des Anspruchnachweises ist nicht erforderlich.***
 
 Datum
 
@@ -1333,19 +1261,11 @@ Datum / *Datums*
 
 der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine
 
-**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**
+**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**  **Ersatzbescheinigung (PEB)** vorlegt.
 
-**Ersatzbescheinigung (PEB)** vorlegt.
+*kuru iesniedz kādā citā ES vai EEK dalībvalstī, Šveicē vai Apvienotajā Karalistē apdrošināta persona, kura izrāda* ***Eiropas***  ***veselības apdrošināšanas karti (EVAK) Global Health Insurance Card (GHIC)**** vai* ***Pagaidu aizstājējsertifikātu (PAS)***
 
-*kuru iesniedz kādā citā ES vai EEK dalībvalstī, Šveicē vai Apvienotajā Karalistē apdrošināta persona, kura izrāda* ***Eiropas***
-
-***veselības apdrošināšanas karti (EVAK) Global Health Insurance Card (GHIC)**** vai* ***Pagaidu aizstājējsertifikātu (PAS)***
-
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***
-
-***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***
-
-***Kopie des Anspruchnachweises ist nicht erforderlich.***
+***Hinweis an die Praxis: Das Original dieser Erklärung sowie***   ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***   ***Kopie des Anspruchnachweises ist nicht erforderlich.***
 
 Datum
 
@@ -1466,19 +1386,11 @@ Datum / *Data*
 
 der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine
 
-**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**
+**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**  **Ersatzbescheinigung (PEB)** vorlegt.
 
-**Ersatzbescheinigung (PEB)** vorlegt.
+*ES ar EEE užsienio šalyje, Šveicarijoje ar Jungtinėje Karalystėje apdraustas asmuo, pateikęs* ***Europos sveikatos draudimo***  ***kortelę (ESDK) Global Health Insurance Card (GHIC)**** arba* ***Laikinąjį pakaitinį sertifikatą (LPK)***
 
-*ES ar EEE užsienio šalyje, Šveicarijoje ar Jungtinėje Karalystėje apdraustas asmuo, pateikęs* ***Europos sveikatos draudimo***
-
-***kortelę (ESDK) Global Health Insurance Card (GHIC)**** arba* ***Laikinąjį pakaitinį sertifikatą (LPK)***
-
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***
-
-***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***
-
-***Kopie des Anspruchnachweises ist nicht erforderlich.***
+***Hinweis an die Praxis: Das Original dieser Erklärung sowie***   ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***   ***Kopie des Anspruchnachweises ist nicht erforderlich.***
 
 Datum
 
@@ -1513,7 +1425,7 @@ Unterschrift der Patientin / des Patienten
 
 *Handtekening van de patiënt*
 
-## T T M M J J
+**T** **T** **M M** **J** **J**
 
 ***Bitte vollständig und leserlich ausfüllen. s.v.p. volledig en leesbaar invullen***
 
@@ -1575,15 +1487,13 @@ Datum / *Datum*
 
 *van een persoon die verzekerd is in een ander land van de Europese Unie, de Europese Economische Ruimte, Zwitserland of*  *het Verenigd Koninkrijk en een Europese gezondheidskaart (EHIC), een Global Health Insurance Card (GHIC) of een voorlopig*  *vervangend ziekteverzekeringsbewijs overlegt.*
 
-## T T M M J J
+**T** **T** **M M** **J** **J**
 
 ### Niederländisch
 
 der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine
 
-**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**
-
-**Ersatzbescheinigung (PEB)** vorlegt.
+**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**  **Ersatzbescheinigung (PEB)** vorlegt.
 
 **Geschlecht /** ***Geslacht***
 
@@ -1625,11 +1535,7 @@ Nr.
 
 **Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
 
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***
-
-***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***
-
-***Kopie des Anspruchnachweises ist nicht erforderlich.***
+***Hinweis an die Praxis: Das Original dieser Erklärung sowie***   ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***   ***Kopie des Anspruchnachweises ist nicht erforderlich.***
 
 Datum
 
@@ -1656,9 +1562,9 @@ Unterschrift der Patientin / des Patienten
 
 *podpis pacjentki / pacjenta*
 
-## T T M M J J
+**T** **T** **M M** **J** **J**
 
-***Bitte vollständig und leserlich ausfüllen. Proszę wypełnić formularz w sposób pełny i czytelny.***
+***Bitte vollständig und leserlich ausfüllen.*** ***Proszę wypełnić formularz w sposób pełny i czytelny.***
 
 Ich bestätige, dass ich nicht zum Zwecke der Behandlung nach Deutschland eingereist bin.
 
@@ -1708,19 +1614,15 @@ oder
 
 Datum / *Data*
 
-*posiadającego ubezpieczenie w innym państwie UE, EOG, Szwajcarii lub Zjednoczonym Królestwie, legitymującego się*  ***Europejską Kartą Ubezpieczenia Zdrowotnego (EKUZ) Global Health Insurance Card (GHIC)**** lub* ***Certyfikatem***
+*posiadającego ubezpieczenie w innym państwie UE, EOG, Szwajcarii lub Zjednoczonym Królestwie, legitymującego się*  ***Europejską Kartą Ubezpieczenia Zdrowotnego (EKUZ) Global Health Insurance Card (GHIC)**** lub* ***Certyfikatem***  ***Zastępczym***
 
-***Zastępczym***
-
-## T T M M J J
+**T** **T** **M M** **J** **J**
 
 ### Polnisch
 
 der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine
 
-**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**
-
-**Ersatzbescheinigung (PEB)** vorlegt.
+**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**  **Ersatzbescheinigung (PEB)** vorlegt.
 
 **Geschlecht /** ***Płeć***
 
@@ -1762,11 +1664,7 @@ Nr.
 
 **Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
 
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***
-
-***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***
-
-***Kopie des Anspruchnachweises ist nicht erforderlich.***
+***Hinweis an die Praxis: Das Original dieser Erklärung sowie***   ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***   ***Kopie des Anspruchnachweises ist nicht erforderlich.***
 
 Datum
 
@@ -1843,7 +1741,7 @@ Straße, Hausnummer / *Rua, n.o*
 
 c/o (Hotel, Familie etc.) / *c/o (hotel, família, etc.)*
 
-Tel.-Nr./E-Mail / *N. de tel./e-mailo*
+Tel.-Nr./E-Mail / *N.o de tel./e-mail*
 
 **Vorübergehende Aufenthaltsadresse in Deutschland**
 
@@ -1873,21 +1771,13 @@ Datum / *Data*
 
 der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine
 
-**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**
-
-**Ersatzbescheinigung (PEB)** vorlegt.
+**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**  **Ersatzbescheinigung (PEB)** vorlegt.
 
 *da pessoa segurada num país estrangeiro da UE ou do EEE, na Suíça ou no Reino Unido, que apresenta um* ***Cartão***
 
-***Europeu de Seguro de Doença (CESD)****, um* ***Global Health Insurance Card (GHIC)**** ou um* ***Certificado Provisório de***
+***Europeu de Seguro de Doença (CESD)****, um* ***Global Health Insurance Card (GHIC)**** ou um* ***Certificado Provisório de***  ***Substituição (CPS)***
 
-***Substituição (CPS)***
-
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***
-
-***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***
-
-***Kopie des Anspruchnachweises ist nicht erforderlich.***
+***Hinweis an die Praxis: Das Original dieser Erklärung sowie***   ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***   ***Kopie des Anspruchnachweises ist nicht erforderlich.***
 
 Datum
 
@@ -1928,9 +1818,9 @@ Unterschrift der Patientin / des Patienten
 
 *Semnătura pacientei / pacientului*
 
-## T T M M J J
+**T** **T** **M M** **J** **J**
 
-***Bitte vollständig und leserlich ausfüllen. A se completa în întregime şi în mod lizibil.***
+***Bitte vollständig und leserlich ausfüllen.*** ***A se completa în întregime şi în mod lizibil.***
 
 Ich bestätige, dass ich nicht zum Zwecke der Behandlung nach Deutschland eingereist bin.
 
@@ -1980,19 +1870,15 @@ oder
 
 Datum / *dată*
 
-*a persoanei asigurate în UE, SEE, în Elveția sau în Regatul Unit, care posedă un* ***Card european de asigurări sociale de***
+*a persoanei asigurate în UE, SEE, în Elveția sau în Regatul Unit, care posedă un* ***Card european de asigurări sociale de***  ***sănătate (CEASS)****, un* ***Global Health Insurance Card (GHIC)**** sau un* ***Certificat provizoriu de înlocuire a CEASS***
 
-***sănătate (CEASS)****, un* ***Global Health Insurance Card (GHIC)**** sau un* ***Certificat provizoriu de înlocuire a CEASS***
-
-## T T M M J J
+**T** **T** **M M** **J** **J**
 
 ### Rumänisch
 
 der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine
 
-**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**
-
-**Ersatzbescheinigung (PEB)** vorlegt.
+**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**  **Ersatzbescheinigung (PEB)** vorlegt.
 
 **Geschlecht /** ***Sex***
 
@@ -2034,11 +1920,7 @@ Nr.
 
 **Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
 
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***
-
-***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***
-
-***Kopie des Anspruchnachweises ist nicht erforderlich.***
+***Hinweis an die Praxis: Das Original dieser Erklärung sowie***   ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***   ***Kopie des Anspruchnachweises ist nicht erforderlich.***
 
 Datum
 
@@ -2147,19 +2029,11 @@ Datum / *Datum*
 
 der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine
 
-**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**
+**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**  **Ersatzbescheinigung (PEB)** vorlegt.
 
-**Ersatzbescheinigung (PEB)** vorlegt.
+*för person som är försäkrad i ett annat EU- eller EES-land, i Schweiz eller i Förenade kungariket och uppvisar ett* ***europeiskt***  ***sjukförsäkringskort (EU-kort)****, ett* ***Global Health Insurance Card (GHIC)**** eller* ***ett provisorskt intyg (PI)***
 
-*för person som är försäkrad i ett annat EU- eller EES-land, i Schweiz eller i Förenade kungariket och uppvisar ett* ***europeiskt***
-
-***sjukförsäkringskort (EU-kort)****, ett* ***Global Health Insurance Card (GHIC)**** eller* ***ett provisorskt intyg (PI)***
-
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***
-
-***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***
-
-***Kopie des Anspruchnachweises ist nicht erforderlich.***
+***Hinweis an die Praxis: Das Original dieser Erklärung sowie***   ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***   ***Kopie des Anspruchnachweises ist nicht erforderlich.***
 
 Datum
 
@@ -2280,19 +2154,13 @@ Datum / * Dátum*
 
 der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine
 
-**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**
-
-**Ersatzbescheinigung (PEB)** vorlegt.
+**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**  **Ersatzbescheinigung (PEB)** vorlegt.
 
 *osoba poistená v inej krajine EÚ alebo EHP, vo Švajčiarsku alebo v Spojenom kráľovstve, ktorá je držiteľom* ***európskeho***
 
 ***preukazu zdravotného poistenia (EHIC) Global Health Insurance Card (GHIC)**** alebo* ***dočasného náhradného potvrdenia***
 
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***
-
-***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***
-
-***Kopie des Anspruchnachweises ist nicht erforderlich.***
+***Hinweis an die Praxis: Das Original dieser Erklärung sowie***   ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***   ***Kopie des Anspruchnachweises ist nicht erforderlich.***
 
 Datum
 
@@ -2413,19 +2281,11 @@ Datum / *Datum*
 
 der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine
 
-**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**
+**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**  **Ersatzbescheinigung (PEB)** vorlegt.
 
-**Ersatzbescheinigung (PEB)** vorlegt.
+*oseb, zavarovanih v drugi državi EU ali EGP, v Švici ali Združenem kraljestvu, ki predložijo* ***evropsko kartico zdravstvenega***  ***zavarovanja (EHIC) Global Health Insurance Card (GHIC)**** ali* ***začasno nadomestno potrdilo***
 
-*oseb, zavarovanih v drugi državi EU ali EGP, v Švici ali Združenem kraljestvu, ki predložijo* ***evropsko kartico zdravstvenega***
-
-***zavarovanja (EHIC) Global Health Insurance Card (GHIC)**** ali* ***začasno nadomestno potrdilo***
-
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***
-
-***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***
-
-***Kopie des Anspruchnachweises ist nicht erforderlich.***
+***Hinweis an die Praxis: Das Original dieser Erklärung sowie***   ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***   ***Kopie des Anspruchnachweises ist nicht erforderlich.***
 
 Datum
 
@@ -2448,25 +2308,41 @@ Nr.
 
 ---
 
+PRF.NR.
+
+(1.2024)
+
 ## Patientenerklärung Europäische Krankenversicherung
 
 ## Declaración del paciente seguro médico Europeo
 
-der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine
+Unterschrift der Patientin / des Patienten
 
-**Europäische Krankenversicherungskarte (EHIC)** **Ersatzbescheinigung (PEB)** vorlegt.
+*Firma del/de la paciente*
 
-*de la persona asegurada en la UE, en países del EEE, en Suiza o en el Reino Unido que presenta una*  ***Europea (TSE)****, una tarjeta**** Global Health Insurance Card (GHIC)***
+**T** **T** **M M** **J** **J**
 
 ***Bitte vollständig und leserlich ausfüllen. Por favor, rellene por completo y de forma legible.***
-
-Ich beabsichtige, mich bis zum
-
-*Tengo intención de permanecer en Alemania hasta el*
 
 Ich bestätige, dass ich nicht zum Zwecke der Behandlung nach Deutschland eingereist bin.
 
 *Confirmo no haber viajado a Alemania con la finalidad de recibir tratamiento.*
+
+Ich beabsichtige, mich bis zum
+
+in Deutschland aufzuhalten.
+
+*Tengo intención de permanecer en Alemania hasta el*
+
+**Ich bestätige die Richtigkeit meiner Angaben**
+
+***Confirmo que los datos facilitados anteriormente***
+
+***son correctos***
+
+**Durchreise**
+
+***Tránsito***
 
 **Gewählte aushelfende deutsche Krankenkasse**
 
@@ -2476,49 +2352,73 @@ Ich bestätige, dass ich nicht zum Zwecke der Behandlung nach Deutschland einger
 
 ***Apellidos, nombre de la paciente / del paciente***
 
+PLZ, Ort / *Código postal/Localidad*
+
+Straße, Hausnummer / *Calle, número*
+
+Land / *País*
+
 **Anschrift im Heimatstaat**
 
 ***Domicilio en el país de origen***
 
-Straße, Hausnummer / *Calle, número*
-
-, eine **Global Health Insurance Card (GHIC)**
-
-*o un* ***Certificado Provisional Sustitutorio (CPS)***
-
-## T T M M J J
-
 PLZ, Ort / *Código postal/Localidad*
 
-Land / *País*
+Straße, Hausnummer / *Calle, número*
+
+c/o (Hotel, Familie etc.) / *c/o (hotel, familia etc.)*
+
+Tel.-Nr./E-Mail / *No de tel./correo electrónico*
 
 **Vorübergehende Aufenthaltsadresse in Deutschland**
 
 ***Dirección provisional de residencia en Alemania***
 
-c/o (Hotel, Familie etc.) / *c/o (hotel, familia etc.)*
+oder
 
-Straße, Hausnummer / *Calle, número*
+*o*
 
-PLZ, Ort / *Código postal/Localidad*
+Datum / *Fecha*
 
-Tel.-Nr./E-Mail / *No de tel./correo electrónico*
+*de la persona asegurada en la UE, en países del EEE, en Suiza o en el Reino Unido que presenta una* ***Tarjeta Sanitaria***  ***Europea (TSE)****, una tarjeta**** Global Health Insurance Card (GHIC)**** o un* ***Certificado Provisional Sustitutorio (CPS)***
 
-Reisepass
+**T** **T** **M M** **J** **J**
 
-*Pasaporte*
+### Spanisch
 
-**Ich bestätige die Richtigkeit meiner Angaben**
+**Geschlecht /** ***sexo***
 
-***Confirmo que los datos facilitados anteriormente***
+**Geburtsdatum**
 
-***son correctos***
+***Fecha de nacimiento***
 
-**Name der behandelnden Ärztin / des behandelnden Arztes**
+weiblich
+
+*femenino*
+
+unbestimmt
+
+*indeterminado*
+
+divers
+
+*diverso*
+
+männlich
+
+*masculino*
+
+der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine
+
+**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**  **Ersatzbescheinigung (PEB)** vorlegt.
 
 Personalausweis
 
 *Carnet de Identidad*
+
+Reisepass
+
+*Pasaporte*
 
 Nr.
 
@@ -2526,69 +2426,15 @@ Nr.
 
 ***Ab hier von der Praxis auszufüllen.***
 
+**Name der behandelnden Ärztin / des behandelnden Arztes**
+
 **Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
 
-***Hinweis an die Praxis:***  ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***
-
-***gewählte deutsche Krankenkasse senden.*** ***Kopie des Anspruchnachweises ist nicht erforderlich.***
-
-***Das Original dieser Erklärung sowie***
-
-***Die Stempelung der***
-
-Datum / *Fecha*
-
-## T T M M J J
+***Hinweis an die Praxis: Das Original dieser Erklärung sowie***   ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***   ***Kopie des Anspruchnachweises ist nicht erforderlich.***
 
 Datum
 
-### Spanisch
-
-oder eine **Provisorische**
-
-***Tarjeta Sanitaria***
-
-in Deutschland aufzuhalten.
-
-**Geburtsdatum**
-
-***Fecha de nacimiento***
-
-**Geschlecht /** ***sexo***
-
-weiblich
-
-*femenino*
-
-männlich
-
-*masculino*
-
-divers
-
-*diverso*
-
-unbestimmt
-
-*indeterminado*
-
-oder
-
-**Durchreise**
-
-*o*
-
-***Tránsito***
-
-Unterschrift der Patientin / des Patienten
-
-*Firma del/de la paciente*
-
 Arztstempel / ärztliche Unterschrift
-
-PRF.NR.
-
-(1.2024)
 
 
 ---
@@ -2611,9 +2457,9 @@ Unterschrift der Patientin / des Patienten
 
 *Podpis pacientky / pacienta*
 
-## T T M M J J
+**T** **T** **M M** **J** **J**
 
-***Bitte vollständig und leserlich ausfüllen. Prosíme o úplné a čitelné vyplnění údajů.***
+***Bitte vollständig und leserlich ausfüllen.*** ***Prosíme o úplné a čitelné vyplnění údajů.***
 
 Ich bestätige, dass ich nicht zum Zwecke der Behandlung nach Deutschland eingereist bin.
 
@@ -2663,13 +2509,9 @@ oder
 
 Datum / *Datum*
 
-*osoba, která je pojištěna v některém ze členských států EU, resp. EHP, ve Švýcarsku nebo Spojeném království a je držitelem*
+*osoba, která je pojištěna v některém ze členských států EU, resp. EHP, ve Švýcarsku nebo Spojeném království a je držitelem*  ***Evropského průkazu zdravotního pojištění (EHIC) Global Health Insurance Card (GHIC)**** nebo* ***Potvrzení dočasně***  ***nahrazujícího Evropský průkaz zdravotního pojištění***
 
-***Evropského průkazu zdravotního pojištění (EHIC) Global Health Insurance Card (GHIC)**** nebo* ***Potvrzení dočasně***
-
-***nahrazujícího Evropský průkaz zdravotního pojištění***
-
-## T T M M J J
+**T** **T** **M M** **J** **J**
 
 ### Tschechisch
 
@@ -2697,9 +2539,7 @@ männlich
 
 der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine
 
-**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**
-
-**Ersatzbescheinigung (PEB)** vorlegt.
+**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**  **Ersatzbescheinigung (PEB)** vorlegt.
 
 Personalausweis
 
@@ -2719,11 +2559,7 @@ Nr.
 
 **Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
 
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***
-
-***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***
-
-***Kopie des Anspruchnachweises ist nicht erforderlich.***
+***Hinweis an die Praxis: Das Original dieser Erklärung sowie***   ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***   ***Kopie des Anspruchnachweises ist nicht erforderlich.***
 
 Datum
 
@@ -2750,9 +2586,9 @@ Unterschrift der Patientin / des Patienten
 
 *a beteg aláírása*
 
-## T T M M J J
+**T** **T** **M M** **J** **J**
 
-***Bitte vollständig und leserlich ausfüllen. Kérjük hiánytalanul és olvashatóan töltse ki.***
+***Bitte vollständig und leserlich ausfüllen.*** ***Kérjük hiánytalanul és olvashatóan töltse ki.***
 
 Ich bestätige, dass ich nicht zum Zwecke der Behandlung nach Deutschland eingereist bin.
 
@@ -2802,11 +2638,9 @@ oder
 
 Datum / *Dátum*
 
-*az Európai Unió, illetve az EGT más országában, Svájcban vagy az Egyesült Királyságban biztosított személy részére, aki ren-* *delkezik* ***Európai Egészségbiztosítási Kártyával (EHIC) Global Health Insurance Card-dal (GHIC)**** vagy**** ideiglenes***
+*az Európai Unió, illetve az EGT más országában, Svájcban vagy az Egyesült Királyságban biztosított személy részére, aki ren* *delkezik* ***Európai Egészségbiztosítási Kártyával (EHIC) Global Health Insurance Card-dal (GHIC)**** vagy**** ideiglenes***  ***helyettesítő igazolással***
 
-***helyettesítő igazolással***
-
-## T T M M J J
+**T** **T** **M M** **J** **J**
 
 ### Ungarisch
 
@@ -2834,9 +2668,7 @@ männlich
 
 der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine
 
-**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**
-
-**Ersatzbescheinigung (PEB)** vorlegt.
+**Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**  **Ersatzbescheinigung (PEB)** vorlegt.
 
 Personalausweis
 
@@ -2856,11 +2688,7 @@ Nr.
 
 **Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
 
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***
-
-***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***
-
-***Kopie des Anspruchnachweises ist nicht erforderlich.***
+***Hinweis an die Praxis: Das Original dieser Erklärung sowie***   ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***   ***Kopie des Anspruchnachweises ist nicht erforderlich.***
 
 Datum
 

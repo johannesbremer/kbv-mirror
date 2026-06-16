@@ -14,7 +14,7 @@
 
 **Datum**
 
-|  | **wird** |  | **wird** |  |
+|  | wird |  | wird |  |
 |---|---|---|---|---|
 |  | **vermieden** |  | **verkürzt** |  |
 

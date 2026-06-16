@@ -17,66 +17,44 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 ## INHALT
 
-**1** **ALLGEMEINES**
+**1**
 
-1.1 Rechtsgrundlage
+1.1 1.2 1.3 1.4 1.5 1.6
 
-1.2 Zertifizierungsablauf
+**2**
 
-1.3 Zertifizierungsportal
+2.1 2.2
 
-1.4 Zertifizierungsdokumente
+2.3
 
-1.5 Prüfunterlagen
+2.4 2.5
 
-1.6 Prüfvorgaben
+**3**
 
-**2** **PRÜFFÄLLE**
+**ALLGEMEINES**
 
-2.1 Voraussetzungen
+Rechtsgrundlage  Zertifizierungsablauf  Zertifizierungsportal  Zertifizierungsdokumente  Prüfunterlagen  Prüfvorgaben
 
-2.2 Versand eines eArztbriefes  2.2.1 Versand eines eArztbriefes ohne automatische Abrechnung
+**PRÜFFÄLLE**
 
-2.2.2 Versand eines eArztbriefes mit automatischer Abrechnung
+Voraussetzungen  Versand eines eArztbriefes  2.2.1 Versand eines eArztbriefes ohne automatische Abrechnung 2.2.2 Versand eines eArztbriefes mit automatischer Abrechnung Empfang eines eArztbriefes  2.3.2 Empfang eines eArztbriefes bei einem bekannten Patienten ohne Arzt Patientenkontakt im aktuellen Quartal  2.3.3 Empfang eines eArztbriefes bei einem unbekannten Patienten 2.3.4 Erweiterung Prüffall 5: Patient erscheint im laufenden Quartal Nachweis KIM, Audit und Interoperabilitätsworkshop  Interoperabilitätsprüfung [optional]
 
-2.3 Empfang eines eArztbriefes  2.3.2 Empfang eines eArztbriefes bei einem bekannten Patienten ohne Arzt Patientenkontakt im aktuellen Quartal
+**REFERENZIERTE DOKUMENTE**
 
-2.3.3 Empfang eines eArztbriefes bei einem unbekannten Patienten
+**4** 4 4 5 5 5 7 **8** 8 8 8
 
-2.3.4 Erweiterung Prüffall 5: Patient erscheint im laufenden Quartal
-
-2.4 Nachweis KIM, Audit und Interoperabilitätsworkshop
-
-2.5 Interoperabilitätsprüfung [optional]
-
-**3** **REFERENZIERTE DOKUMENTE**
-
-**4**
-
-4  4  5  5  5  7
-
-**8**
-
-8  8
-
-8
-
-9  10
-
-11
+9 10 11
 
 12
 
-12  13  13
-
-**15**
+12 13 13 **15**
 
 
 ---
 
 DOKUMENTENHISTORIE
 
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 3.6 | 15.11.2025 | KBV | Erweiterung Prüffall 01  Anpassung Prüffall 07  Entfall Prüffall 08 | Obligatorischer Nachweis | 8  13 |
 | 3.5 | 15.08.2024 | KBV | Klarstellung Beispiel Struktur |  | 5 |
@@ -90,7 +68,7 @@ DOKUMENTENHISTORIE
 | 1.20 | 14.12.2017 | KBV | Anpassung der einzureichenden | Anpassung der  redaktionelle | 9 |
 | 1.11 | 23.05.2017 | KBV | Komplettüberarbeitung des | Aktualisierung der | Alle |
 
-ZIP-Archiv Anpassung Prüffall 08 03, Fehlerkorrektur Prüffall 08 aufgenommen Prüfpakets Prüfpakets Zertifizierung Prüfunterlagen von PF02  Prüfpakets Audit, IOWS Workshop kv.digital 11, Anforderung P43-03 Kommunikationsdienstes der gematik (KIM) Anforderungen P44-03, P44-04 und P44-05 Zertifizierungsportales  Anforderung P50-01 Änderungen Zertifizierungsrichtlinie
+ZIP-Archiv Anpassung Prüffall 08 03, Fehlerkorrektur Prüffall 08 aufgenommen Prüfpakets Prüfpakets Zertifizierung Prüfunterlagen von PF02  Prüfpakets Audit, IOWS Workshop kv.digital 11, Anforderung P43-03 Kommunikationsdienstes der gematik (KIM) Anforderungen P44-03, P44-04 und P44-05 Zertifizierungsportales  Anforderung P50-01 Änderungen Zertifizierungsrichtlinie 
 
 
 ---
@@ -99,9 +77,7 @@ ZIP-Archiv Anpassung Prüffall 08 03, Fehlerkorrektur Prüffall 08 aufgenommen P
 
 Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich des „eArztbriefes“.
 
-Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet den
-
-Rahmen der Zertifizierung und ist zu beachten.
+Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet den  Rahmen der Zertifizierung und ist zu beachten.
 
 Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
 
@@ -113,62 +89,47 @@ Rechtliche Grundlage bildet § 383 des Fünften Buches Sozialgesetzbuch (SGB V).
 
 Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten.
 
-- 1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und
+- 1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.
 
-- unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.
-
-Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den
-
-Antrag auf Zertifizierung eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen und erst nach Erhalt der
-
-Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den vorab via Mail
-
-eingereichten Antrag auf Zertifizierung hochladen.
+Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  [Antrag auf Zertifizierung eingescannt per Mail (](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[) einreichen und erst nach Erhalt der](mailto:pruefstelle@kbv.de) Zugangsdaten den Prüfvorgang im Zertifizi[erungsportal initiieren und dort den vorab via Mail](mailto:pruefstelle@kbv.de) eingereichten Antrag auf Zertifizierung hochladen.
 
 - 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.
-
 - 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.
-
 - 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen durch das Referat Zertifizierung mit ein) kann dem Zertifizierungsgegenstand die  entsprechende Zulassung ausgesprochen werden.
 
 **HINWEIS**
 
 Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragsteller, müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist, kann die KBV das Zertifizierungsverfahren einstellen.
 
-
 ---
+
+- Eine eArztbrief-Lieferung bestehend aus PDF/A  und XML-Dokument
+- Eine oder mehrere Videodateien, welche den Ablauf einzelner Anforderungen zeigen
+- Screenshots ausgewählter Anforderungen
+- <PrüffallNr.>1 .pdf  z.B. **PF01.pdf**
+- <PrüffallNr.> .xml  z.B. **PF01.xml**
 
 ## 1.3 ZERTIFIZIERUNGSPORTAL
 
-Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
+[Das Zertifizierungsportal ist über](https://zertifizierungsportal2.kbv.de/)[https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/)[zu erreichen.](https://zertifizierungsportal2.kbv.de/)
 
-Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran  anschließenden manuellen Prüfung durch das Referat Zertifizierung.
+[Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran](https://zertifizierungsportal2.kbv.de/) anschließenden manuellen Prüfung durch das Referat Zertifizierung.
 
-Die Zugangsdaten können direkt über das Portal oder beim Referat Zertifizierung ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de))
-
-unter Angabe der System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert  werden. Bitte beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+[Die Zugangsdaten können direkt über das Portal oder beim Referat Zertifizierung (](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) [unter Angabe der System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert](mailto:pruefstelle@kbv.de) werden. Bitte beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
 
 Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema und den Antrag auf Zertifizierung  hochgeladen haben. Das Portal zeigt Ihnen in Form von Aufgaben (Menüpunkt: „Meine Aufgaben“) die  nächsten Arbeiten an, die von Ihnen durchzuführen sind. Immer wenn Aktivitäten der Zertifizierungsstelle  abgeschlossen wurden, wird für Sie eine neue Aufgabe generiert.
 
-Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im  Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur mit den von Ihnen erstellten
-
-Prüfunterlagen in Form einer ZIP-Datei archiviert werden.
+Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im  Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur mit den von Ihnen erstellten  Prüfunterlagen in Form einer ZIP-Datei archiviert werden.
 
 Die in das Portal integrierte Prüfautomatisierung führt neben einer inhaltlichen Prüfung auch eine Prüfung  auf Vollständigkeit der eingereichten Prüfunterlagen durch.
 
 Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, werden  Sie vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehler zu  beheben bzw. die Lieferung zu vervollständigen.
 
-Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im .html oder .xml -Format) erzeugt und
-
-Ihnen zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen durch
-
-das Referat Zertifizierung geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung  als fehlerfrei erkannt wurden, erfolgt die Prüfung durch das Referat Zertifizierung. Wird hierbei festgestellt,  dass Dateien fehlerhaft sind, werden Sie aufgefordert eine Korrekturlieferung hochzuladen.
+Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im .html oder .xml -Format) erzeugt und  Ihnen zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen durch  das Referat Zertifizierung geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung  als fehlerfrei erkannt wurden, erfolgt die Prüfung durch das Referat Zertifizierung. Wird hierbei festgestellt,  dass Dateien fehlerhaft sind, werden Sie aufgefordert eine Korrekturlieferung hochzuladen.
 
 ## 1.4 ZERTIFIZIERUNGSDOKUMENTE
 
-Alle erforderlichen Unterlagen stehen im Internet zum Download unter [https://update.kbv.de/ita-update/](https://update.kbv.de/ita-update/)
-
-bereit. In diesem Zusammenhang berücksichtigen Sie bitte das dritte Kapitel - Referenzierte Dokumente.
+Alle erforderlichen Unterlagen stehen im Internet zum Download unter [https://update.kbv.de/ita-update/](https://update.kbv.de/ita-update/)  bereit. In diesem Zusammenhang berücksichtigen Sie bitte das dritte Kapitel - Referenzierte Dokumente
 
 ## 1.5 PRÜFUNTERLAGEN
 
@@ -176,17 +137,7 @@ Das Prüfpaket umfasst Prüffälle zum Empfang und Versand eines eArztbriefes zw
 
 Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:
 
-- Eine eArztbrief-Lieferung bestehend aus PDF/A  und XML-Dokument
-
-- Eine oder mehrere Videodateien, welche den Ablauf einzelner Anforderungen zeigen
-
-- Screenshots ausgewählter Anforderungen
-
 Die Teile der eArztbrief-Lieferung sind im entsprechenden Dateiformat zu exportieren und unter folgender  Namenskonvention direkt in dem Hauptverzeichnis zu übertragen. Diese Dateien werden automatisiert  geprüft. Es ist zu beachten, dass pro Prüffall eine PDF- und eine XML-Datei versendet werden.
-
-- <PrüffallNr.>1 .pdf  z.B. **PF01.pdf**
-
-- <PrüffallNr.> .xml  z.B. **PF01.xml**
 
 1 Nr. des Prüffalls
 
@@ -195,26 +146,17 @@ Die Teile der eArztbrief-Lieferung sind im entsprechenden Dateiformat zu exporti
 
 - <PrüffallNr.> _[lfdNr.]2 3
 
-Die für den Versand sowie für den Empfang geforderten Videomitschnitte und Screenshots müssen in
-
-einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.
+Die für den Versand sowie für den Empfang geforderten Videomitschnitte und Screenshots müssen in  einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.
 
 2 Laufende Nr.
 
 3 Gängiges Bild- bzw. Videoformat
 
-Die gesammelten eArztbrief-Lieferungen und der Ordner „Dokumentation sind in einem zip-Archiv zu
+Die gesammelten eArztbrief-Lieferungen und der Ordner „Dokumentation sind in einem zip-Archiv zu  übermitteln. Das zip- Archiv muss mit „Zert_063_<SystemID>“ benannt werden. Die SystemID ergibt sich  aus den letzten drei Stellen der Prüfnummer.
 
-übermitteln. Das zip- Archiv muss mit „Zert_063_<SystemID>“ benannt werden. Die SystemID ergibt sich
-
-aus den letzten drei Stellen der Prüfnummer.
-
-Die Struktur des zip- Archives sollte die folgende Form aufweisen. **Dabei ist zu beachten, dass die Anzahl**
-
-**und Nummerierung der Dateien von der aktuellen Anzahl der einzureichenden Prüffälle gemäß dem**  **gültigen Prüfpaket abhängen.**
+Die Struktur des zip- Archives sollte die folgende Form aufweisen. **Dabei ist zu beachten, dass die Anzahl**  **und Nummerierung der Dateien von der aktuellen Anzahl der einzureichenden Prüffälle gemäß dem**  **gültigen Prüfpaket abhängen.**
 
 **Abbildung 1: Beispiel Struktur des zip-Archives.**
-
 
 ---
 
@@ -228,32 +170,21 @@ Die Verwendung dieser Import-Schnittstelle ist nur für Prüfzwecke erlaubt und 
 
 **HINWEIS**
 
-Die Archivdatei (VSD_5.2.0_Testfaelle_Vn.n4.zip) enthält für sämtliche Prüffälle die benötigten
-
-Patientendaten als XML-Dateien:
+Die Archivdatei (VSD_5.2.0_Testfaelle_Vn.n4.zip) enthält für sämtliche Prüffälle die benötigten  Patientendaten als XML-Dateien:
 
 - EF.VD = allgemeine Versicherungsdaten
-
 - EF.PD = persönliche Versichertendaten
-
 - EF.GVD = geschützte Versichertendaten
 
-Diese Dateien müssen von Ihrem PVS-System „eingelesen“ und unter Ber
+Diese Dateien müssen von Ihrem PVS-System „eingelesen“ und unter Ber Mappingtabelle [KVK-eGK KBV_ITA_VGEX_Mapping_KVK.pd
 
-Mappingtabelle [KVK-eGK KBV_ITA_VGEX_Mapping_KVK.pd
-
-ücksichtigung der Vorgaben der
-
-f] weiterverarbeitet werden.
+ücksichtigung der Vorgaben der  f] weiterverarbeitet werden.
 
 Für die nachfolgenden Prüffälle werden folgende Patienten benötigt:
 
 - „Karl Friederich Schaumberg“ (XML Verzeichnisname: XML_01)
-
 - „Brigitte Althaus“ (XML Verzeichnisname: XML_05)
-
 - „Brigitte Neuhaus“ (XML Verzeichnisname: XML_06)
-
 - und „Martin Frühstück“ (XML Verzeichnisname XML_07).
 
 4 In der aktuellen Version
@@ -261,8 +192,7 @@ Für die nachfolgenden Prüffälle werden folgende Patienten benötigt:
 
 ---
 
-- 1. Es muss die Möglichkeit bestehen von den Ein- und Ausgabemasken des zu prüfenden Systems - Screenshots zu erstellen.
-
+- 1. Es muss die Möglichkeit bestehen von den Ein- und Ausgabemasken des zu prüfenden Systems  Screenshots zu erstellen.
 - 2. Die eArztbrief-Lieferungen (z.B. PDF-Dateien) müssen exportierbar sein. Die exportierten Lieferungen  sind den einzureichenden Prüfunterlagen hinzuzufügen.
 
 |  |  |
@@ -274,30 +204,23 @@ Für die nachfolgenden Prüffälle werden folgende Patienten benötigt:
 | **Einzureichende** |  |
 
 - a) Auswahl Erstellung des eArztbriefes
-
 - b) Erfassung, Übernahme oder Einfügen der medizinischen Dokumentationen
-
-- c) Erstellung der qualifizierten, elektronischen Signatur - d)  Versand des eArztbriefes
+- c) Erstellung der qualifizierten, elektronischen Signatur
+- d)  Versand des eArztbriefes
 
 # 2 PRÜFFÄLLE
 
-Zur Überprüfung von Softwarefunktionalitäten oder dem softwareseitigen Erkennen von Fehleingaben  können mit einzelnen Prüffällen besondere Anforderungen verknüpft sein. Diese werden dem jeweiligen
-
-Prüffall vorangestellt bzw. der Prüffall selbst besteht nur aus diesen. Wie diese Prüffälle zu bearbeiten und  welche Prüfunterlagen einzureichen sind, kann den einzelnen Prüffällen entnommen werden.
+Zur Überprüfung von Softwarefunktionalitäten oder dem softwareseitigen Erkennen von Fehleingaben  können mit einzelnen Prüffällen besondere Anforderungen verknüpft sein. Diese werden dem jeweiligen  Prüffall vorangestellt bzw. der Prüffall selbst besteht nur aus diesen. Wie diese Prüffälle zu bearbeiten und  welche Prüfunterlagen einzureichen sind, kann den einzelnen Prüffällen entnommen werden.
 
 ## 2.1 VORAUSSETZUNGEN
 
 Folgende Voraussetzungen müssen im System geschaffen werden, um die in den Prüffällen gewünschten  Szenarien prüfen zu können.
 
-Es werden keine Vorgaben zu Sender und Empfänger, sowie Inhalt der eArztbrief-Lieferung vorgegeben. Die
-
-nachfolgenden Prüffälle prüfen lediglich die gestellten Anforderungen.
+Es werden keine Vorgaben zu Sender und Empfänger, sowie Inhalt der eArztbrief-Lieferung vorgegeben. Die  nachfolgenden Prüffälle prüfen lediglich die gestellten Anforderungen.
 
 ## 2.2 VERSAND EINES EARZTBRIEFES
 
-Mit den folgenden Prüffällen wird der Versand im Rahmen der Zertifizierung beurteilt. Jeder Prüffall ist so  aufzubereiten, dass die notwendigen Informationen enthalten sind, um einen nach den Anforderungen
-
-syntaktisch und semantisch korrekten eArztbrief zu versenden.
+Mit den folgenden Prüffällen wird der Versand im Rahmen der Zertifizierung beurteilt. Jeder Prüffall ist so  aufzubereiten, dass die notwendigen Informationen enthalten sind, um einen nach den Anforderungen  syntaktisch und semantisch korrekten eArztbrief zu versenden.
 
 1. Der Anwender erstellt einen eArztbrief. Dieser s oll auch medizinische Dokumentationen (Anamnese, Befunde, Diagnosen)  enthalten.  2. Der Anwender versendet den eArztbrief. 3. Der Anwender lehnt die automatische Abrechnung ab. 4. Der Anwender ändert seine vorherige Entscheidung zur automatischen Abrechnung. 1. Videodatei über den Ablauf. Es müssen enthalten sein: Prüfunterlagen ### 2.2.1 Versand eines eArztbriefes ohne automatische Abrechnung
 
@@ -402,14 +325,13 @@ Prüfunterlagen Patientenkontakt im aktuellen Quartal angelegt.  Lieferung zur P
 
 **Tabelle 6: Prüffalltabelle**
 
-- Anzeige, ob ein eArztbrief vorhanden ist - Das Abrufen des eArztbriefes
-
+- Anzeige, ob ein eArztbrief vorhanden ist
+- Das Abrufen des eArztbriefes
 - 2. PDF/A  und XML  Dokument der eArztbrief-Lieferung
 
 **Empfang eines eArztbriefes bei unbekannten Patienten**
 
 - Zuordnung des bereits im System vorhandenen eArztbriefes
-
 - 5. Abrechnungsdatei als CON-Datei
 
 **Erweiterung Prüffall 5 der Patient erscheint im laufenden Quartal**
@@ -424,7 +346,7 @@ Prüfunterlagen Lieferung zum Patienten „Martin Frühstück“ (XML_07) im Ori
 |---|---|
 | **Prüffall-ID** | PF07 |
 | **Testziel** | Nachweis des KIM Bestätigungsverfahrens der gematik sowie des eArztbrief Audits |
-| **Voraussetzung** | Bestehen des Bestätigungsverfahren der gematik Bestehen des Audits zum eArztbrief der kv.digital.  Teilnahme am Interoperabilitätsworkshop der kv.digital. |
+| **Voraussetzung** | Bestehen des Bestätigungsverfahren der gematik [gemLeit_Best_Konf_PS].  Bestehen des Audits zum eArztbrief der kv.digital.  Teilnahme am Interoperabilitätsworkshop der kv.digital. |
 | **Einzureichende** | Optional bis zum 30.09.2024: |
 
 **Tabelle 7: Prüffalltabelle**
@@ -438,17 +360,12 @@ Prüfunterlagen Lieferung zum Patienten „Martin Frühstück“ (XML_07) im Ori
 | **Voraussetzung** | Dieser Prüffall ist nur durchzuführen, wenn    Für die Interoperabilitätsprüfung wird von der kv.digital GmbH ein Test- und  Im Backend steht für die KIM-Anwendung eArztbrief V1.2 ein entsprechender    Das Backend ist nur über die Referenzumgebung (RU) der Telemat   Die Adresse des Backends für eArztbrief V1.2 der kv.digital in der RU der TI lautet:  **kv.digital-eArztbrief-V1.2@kv.digital.kim.telematik-test** |
 | **Aktion** |  |
 
-- 2. Bitte fügen Sie den Nachweis zum Bestehen des Audits eArztbrief der kv.digital als
-
-- PDF-Datei Ihren Prüfunterlagen bei.
-
+- 2. Bitte fügen Sie den Nachweis zum Bestehen des Audits eArztbrief der kv.digital als  PDF-Datei Ihren Prüfunterlagen bei.
 - 3. Bitte fügen Sie die Teilnahmebestätigung des Interoperabilitätsworkshops der  kv.digital als PDF-Datei Ihren Prüfunterlagen bei.
 
 **Einreichung KIM Bestätigungsschreiben der gematik**
 
-- 1. Der Anwender erstellt und versendet einen eArztbrief an das Backend (z.B. für
-
-Prüfunterlagen [optional] und des Interoperabilitätsworkshops der kv.digital [optional].  [gemLeit_Best_Konf_PS]. [optional] [optional] 1. Bitte fügen Sie das Bestätigung sschreiben der gematik - Bestätigung der Konformität des Primärsystems zur Konnektorschnittstelle: Funktionsumfang KIM  als pdf Ihren Prüfunterlagen bei. nicht  in Prüffall 07 die Teilnahmebestätigung an einem Interoperabilitätsworkshops der kv.digital übermittelt wurde. Zertifizierung-Backend (Backend) zur Verfügung gestellt. Prüfclient bereit, der die empfangenen eArztbrief -Lieferungen insbesondere auf die Einhaltung der Anforderung P43-03  überprüft. Die Ergebnisse der Prüfung werden in Prüfprotokollen dokumentiert und den Absender (Software -Systemen) zur Verfügung gestellt. Wurden bei der Prüfung keine Fehler festgestellt, wird vom Backend ein Test-eArztbrief zurückgesendet. ikinfrastruktur (TI) zu erreichen. - „Brigitte Neuhaus“ (XML_06)
+Prüfunterlagen [optional] und des Interoperabilitätsworkshops der kv.digital [optional]. [optional] [optional] 1. Bitte fügen Sie das Bestätigung sschreiben der gematik - Bestätigung der Konformität des Primärsystems zur Konnektorschnittstelle: Funktionsumfang KIM  als pdf Ihren Prüfunterlagen bei. nicht  in Prüffall 07 die Teilnahmebestätigung an einem Interoperabilitätsworkshops der kv.digital übermittelt wurde. Zertifizierung-Backend (Backend) zur Verfügung gestellt. Prüfclient bereit, der die empfangenen eArztbrief -Lieferungen insbesondere auf die Einhaltung der Anforderung P43-03  überprüft. Die Ergebnisse der Prüfung werden in Prüfprotokollen dokumentiert und den Absender (Software -Systemen) zur Verfügung gestellt. Wurden bei der Prüfung keine Fehler festgestellt, wird vom Backend ein Test-eArztbrief zurückgesendet. ikinfrastruktur (TI) zu erreichen. - 1. Der Anwender erstellt und versendet einen eArztbrief an das Backend (z.B. für  „Brigitte Neuhaus“ (XML_06)
 
 
 ---
@@ -468,10 +385,9 @@ Die Adresse des Backends für eArztbrief V1.2 der kv.digital in der RU der TI la
 
 **[kv.digital-eArztbrief-V1.2@kv.digital.kim.telematik](mailto:kv.digital-eArztbrief-V1.2@kv.digital.kim.telematik)-test**
 
-- Anzeige, ob ein eArztbrief vorhanden ist - Das Abrufen des eArztbriefes
-
+- Anzeige, ob ein eArztbrief vorhanden ist
+- Das Abrufen des eArztbriefes
 - Die Zuordnung des eArztbriefes zu einer Patientenakte
-
 - 3. PDF/A  und XML  Dokument der eArztbrief-Lieferung
 
 **Interoperabilitätsprüffall**
@@ -496,8 +412,6 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Kassenärztliche Bundesvereinigung
-
-Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
 
 Primärsystems zur Konnektorschnittst elle

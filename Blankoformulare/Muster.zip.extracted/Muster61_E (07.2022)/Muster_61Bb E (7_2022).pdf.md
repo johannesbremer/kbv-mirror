@@ -2,9 +2,7 @@
 
 **61 Teil B**
 
-## Verordnung von medizinischer
-
-## Rehabilitation
+## Verordnung von medizinischer  Rehabilitation
 
 Es handelt sich weder um eine Minderung / erhebliche Gefährdung  der Erwerbsfähigkeit noch um die Folgen eines Arbeitsunfalls / einer  Berufskrankheit
 
@@ -24,7 +22,7 @@ zu Lasten der GKV
 
 **I. Rehabilitationsbegründende und weitere Diagnosen**
 
-**II. Angaben zur Rehabilitationsbedürftigkeit und zum Verlauf der Krankenbehandlung**
+### II. Angaben zur Rehabilitationsbedürftigkeit und zum Verlauf der Krankenbehandlung
 
 Diagnoseschlüssel
 
@@ -56,13 +54,13 @@ ICD-10-GM Ursache *
 
 ***Ursachen zutrifft)***
 
-***1 = Arbeitsunfall einschl.***
+***1***  ***Arbeitsunfall einschl.***
 
 ***Wegeunfall***
 
-***2 = Berufskrankheit***
+***2***  ***Berufskrankheit***
 
-***3 = Schädigungsfolge***
+***3***  ***Schädigungsfolge***
 
 ***durch Einwirken***
 
@@ -70,11 +68,11 @@ ICD-10-GM Ursache *
 
 ***(z. B. Unfallfolgen)***
 
-***4 = Folgen von Kriegs-,***
+***4***  ***Folgen von Kriegs-,***
 
 ***Zivil- oder Wehrdienst***
 
-***5 = Meldepflichtige***
+***5***  ***Meldepflichtige***
 
 ***Erkrankung***
 
@@ -114,7 +112,7 @@ Datum
 
 Krankenkasse bzw. Kostenträger
 
-|  | **Kognition** | **SchmerzHerz-/LungenfunktionMobilität** |  |
+|  | Kognition | SchmerzHerz-/LungenfunktionMobilität |  |
 |---|---|---|---|
 | Chair |  | Schmerz- |  |
 | TUG sek **+** sek | MMST / 30 |  | WattErgometrie/10 |
@@ -123,6 +121,6 @@ Krankenkasse bzw. Kostenträger
 | kg **oder** kpa | GDS 15 / 15 |  | FEV1 % **+** VK % |
 | kraft |  |  |  |
 |  | Uhren- |  | NYHA- |
-| DEMMI / 100 Tinetti test/28 | / 7 |  | Stadium |
+| DEMMI / 100 testTinetti/28 | / 7 |  | Stadium |
 
 / 28

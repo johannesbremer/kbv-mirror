@@ -31,7 +31,7 @@ Anlage 4 DMP-A-RL 01.10.2023
 
 ---
 
-| **Brustkrebs ** | | | |
+| Brustkrebs | | | |
 |---|---|---|---|
 | Feld- | Dokumentations- | Ausprägung | **Plausibilitätsregeln ** |
 | Administrative Daten | | | |
@@ -86,12 +86,12 @@ histologischen Nachweises histologischen Nachweises diagnostischen Sicherung von
 | 23 | Bei Patientinnen unter | Auffällig/Unauffällig/Unb | -  Nur eine Angabe ist zulässig |
 | **Befunde und Therapie von Fernmetastasen ** | | | |
 | 24 | Lokalisation von | Knochen / viszeral/ | -  Mehrfachnennungen sind möglich |
-| 25 | Therapie bei | a)  Bisphosphonate: Ja    b)  b)   Denosumab: | -  Mehrfachnennungen sind möglich |
+| 25 | Therapie bei | a)    b) | -  Mehrfachnennungen sind möglich |
 | **Sonstige Befunde  ** | | | |
 | 26 | Symptomatisches | Ja, | -  Nur eine Antwort ist zulässig |
 | 27 | Empfehlung zu | Ja/ Nein | -  Nur eine Antwort ist zulässig |
 
-adjuvanter Therapie mit Aromataseinhibitoren, sofern die Absicht für eine spezifische medikamentöse Therapie einer Osteoporose besteht: DXA-Befund  Knochenmetastasen Lymphödem  regelmäßigem körperlichen Training abgegeben Therapie durchgeführt ekannt ZNS/ Andere  / Nein / Kontraindikation Ja / Nein / Kontraindikation Kompressionsarmstrum pftherapie erforderlich / Ja, keine Kompressionsarmstrum pftherapie erforderlich / Optionale Angabe Optionale Angabe Optionale Angabe Optionale Angabe Optionale Angabe
+adjuvanter Therapie mit Aromataseinhibitoren, sofern die Absicht für eine spezifische medikamentöse Therapie einer Osteoporose besteht: DXA-Befund  Knochenmetastasen Lymphödem  regelmäßigem körperlichen Training abgegeben Therapie durchgeführt ekannt ZNS/ Andere  Bisphosphonate: Ja / Nein / Kontraindikation b)   Denosumab:     Ja / Nein / Kontraindikation Kompressionsarmstrum pftherapie erforderlich / Ja, keine Kompressionsarmstrum pftherapie erforderlich / Optionale Angabe Optionale Angabe Optionale Angabe Optionale Angabe Optionale Angabe
 
 ---
 

@@ -34,11 +34,7 @@
 
 **Unfall,**
 
-**Versorgungs-**
-
-**Unfallfolgen leiden (BVG)**
-
-**Status**
+**Versorgungs-** **Unfallfolgen leiden (BVG)** **Status**
 
 **Nächsterreichbare, geeignete Krankenhäuser**
 

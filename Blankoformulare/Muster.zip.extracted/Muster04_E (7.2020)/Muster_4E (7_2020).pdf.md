@@ -18,9 +18,7 @@ Fahrten zu Hospizen:
 
 **e)**
 
-**ambulante Behandlung** bei Merkzeichen „aG“, „BI“, „H“, Pflegegrad 3 mit dauerhafter Mobilitäts-
-
-beeinträchtigung, Pflegegrad 4 oder 5 **nur Taxi/Mietwagen***** (Fahrt mit KTW ist unter f) zu verordnen)***
+**ambulante Behandlung** bei Merkzeichen „aG“, „BI“, „H“, Pflegegrad 3 mit dauerhafter Mobilitäts- beeinträchtigung, Pflegegrad 4 oder 5 **nur Taxi/Mietwagen***** (Fahrt mit KTW ist unter f) zu verordnen)***
 
 **b)**
 
@@ -64,7 +62,7 @@ vergleichbarer Ausnahmefall
 
 ***(Begründung unter 4. erforderlich)***
 
-**Genehmigungspflichtige Fahrten zu ambulanten Behandlungen***** (vor Fahrtantritt der Krankenkasse vorzulegen)***
+**Genehmigungspflichtige Fahrten zu ambulanten Behandlungen** ***(vor Fahrtantritt der Krankenkasse vorzulegen)***
 
 **hochfrequente Behandlung**
 
@@ -130,9 +128,13 @@ Datum
 
 Fahrtstrecke*** (von ... nach)***
 
+Unterschrift des Versicherten
+
+Rück-
+
 fahrt
 
-Hin- Rück- Unterschrift des Versicherten
+Hin-
 
 fahrt
 

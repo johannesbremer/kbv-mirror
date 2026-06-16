@@ -32,21 +32,15 @@ Ich willige in die Verarbeitung meiner im Programm erhobenen medizinischen und p
 
 Ich weiß, dass ich diese Einwilligung jederzeit bei meiner Krankenkasse mit Wirkung für die Zukunft widerrufen und aus dem  Programm austreten kann. Mir ist bekannt, dass dies nicht die Rechtmäßigkeit der bisher auf der Grundlage dieser  Einwilligung erfolgten Verarbeitung berührt. Die erhobenen und gespeicherten Daten werden bei meinem Ausscheiden aus  dem Programm gemäß der dann gültigen Rechtsvorschriften gelöscht.
 
-**zu 1.: Ja,** ich möchte gemäß den Ausführungen an einem Programm entsprechend der
+**zu 1.: Ja,** ich möchte gemäß den Ausführungen an einem Programm entsprechend der  nehmen und bestätige dies mit meiner Unterschrift.
 
-nehmen und bestätige dies mit meiner Unterschrift.
-
-**zu 2.: Ja,** ich habe die „Information zum Datenschutz “ (Fassung vom 25.05.2018) erhalten und zur Kenntnis genommen und
-
-weiß, dass ich detaillierte Informationen zeitnah mit meinen Einschreibungsunterlagen durch meine Krankenkasse bekom me. **Ich bin mit der darin beschriebenen Verarbeitung meiner Behandlungsdaten im Rahmen meiner Teilnahme am**  **Programm einverstanden und bestätige dies mit meiner Unterschrift.**
+**zu 2.: Ja,** ich habe die „Information zum Datenschutz “ (Fassung vom 25.05.2018) erhalten und zur Kenntnis genommen und  weiß, dass ich detaillierte Informationen zeitnah mit meinen Einschreibungsunterlagen durch meine Krankenkasse bekom me. **Ich bin mit der darin beschriebenen Verarbeitung meiner Behandlungsdaten im Rahmen meiner Teilnahme am**  **Programm einverstanden und bestätige dies mit meiner Unterschrift.**
 
 Bitte das heutige Datum eintragen. **T T M M J J J J**
 
 **– von der behandelnden Ärztin/vom behandelnden Arzt oder Krankenhausärztin/Krankenhausarzt auszufüllen –**
 
-Ich bestätige, dass für die vorgenannte Versicherte/den vorgenannten Versicherten die oben genannte(n) Diagnose(n)  sprechend den rechtlichen Anforderungen gesichert ist/sind und die indikationsspezifischen Einschreibekriterien überprüft
-
-wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit wirkung und Teilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung  profitieren kann.
+Ich bestätige, dass für die vorgenannte Versicherte/den vorgenannten Versicherten die oben genannte(n) Diagnose(n)  sprechend den rechtlichen Anforderungen gesichert ist/sind und die indikationsspezifischen Einschreibekriterien überprüft  wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit wirkung und Teilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung  profitieren kann.
 
 Bitte das heutige Datum eintragen. **T T M M J J J J** Unterschrift
 
@@ -64,13 +58,13 @@ oder
 
 COPD
 
-Brustkrebs
+Brustkrebs  Depression  Rheumatoide
 
-Rücken-  schmerz
+Arthritis
 
-Depression  Rheumatoide Arthritis
+Rücken-
 
-Osteoporose
+Osteoporose schmerz
 
 **oben genannten Diagnose(n)**
 
@@ -82,7 +76,7 @@ Stempel Ärztin/Arzt
 
 teil-
 
-ent -
+ent-
 
 Indikationsübergreifend 06.05.2020 TEEWE
 
@@ -123,21 +117,15 @@ Ich willige in die Verarbeitung meiner im Programm erhobenen medizinischen und p
 
 Ich weiß, dass ich diese Einwilligung jederzeit bei meiner Krankenkasse mit Wirkung für die Zukunft widerrufen und aus dem  Programm austreten kann. Mir ist bekannt, dass dies nicht die Rechtmäßigkeit der bisher auf der Grundlage dieser  Einwilligung erfolgten Verarbeitung berührt. Die erhobenen und gespeicherten Daten werden bei meinem Ausscheiden aus  dem Programm gemäß der dann gültigen Rechtsvorschriften gelöscht.
 
-**zu 1.: Ja,** ich möchte gemäß den Ausführungen an einem Programm entsprechend der
+**zu 1.: Ja,** ich möchte gemäß den Ausführungen an einem Programm entsprechend der  nehmen und bestätige dies mit meiner Unterschrift.
 
-nehmen und bestätige dies mit meiner Unterschrift.
-
-**zu 2.: Ja,** ich habe die „Information zum Datenschutz “ (Fassung vom 25.05.2018) erhalten und zur Kenntnis genommen und
-
-weiß, dass ich detaillierte Informationen zeitnah mit meinen Einschreibungsunterlagen durch meine Krankenkasse bekom me. **Ich bin mit der darin beschriebenen Verarbeitung meiner Behandlungsdaten im Rahmen meiner Teilnahme am**  **Programm einverstanden und bestätige dies mit meiner Unterschrift.**
+**zu 2.: Ja,** ich habe die „Information zum Datenschutz “ (Fassung vom 25.05.2018) erhalten und zur Kenntnis genommen und  weiß, dass ich detaillierte Informationen zeitnah mit meinen Einschreibungsunterlagen durch meine Krankenkasse bekom me. **Ich bin mit der darin beschriebenen Verarbeitung meiner Behandlungsdaten im Rahmen meiner Teilnahme am**  **Programm einverstanden und bestätige dies mit meiner Unterschrift.**
 
 Bitte das heutige Datum eintragen. **T T M M J J J J**
 
 **– von der behandelnden Ärztin/vom behandelnden Arzt oder Krankenhausärztin/Krankenhausarzt auszufüllen –**
 
-Ich bestätige, dass für die vorgenannte Versicherte/den vorgenannten Versicherten die oben genannte(n) Diagnose(n)  sprechend den rechtlichen Anforderungen gesichert ist/sind und die indikationsspezifischen Einschreibekriterien überprüft
-
-wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit wirkung und Teilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung  profitieren kann.
+Ich bestätige, dass für die vorgenannte Versicherte/den vorgenannten Versicherten die oben genannte(n) Diagnose(n)  sprechend den rechtlichen Anforderungen gesichert ist/sind und die indikationsspezifischen Einschreibekriterien überprüft  wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit wirkung und Teilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung  profitieren kann.
 
 Bitte das heutige Datum eintragen. **T T M M J J J J** Unterschrift
 
@@ -155,13 +143,13 @@ oder
 
 COPD
 
-Brustkrebs
+Brustkrebs  Depression  Rheumatoide
 
-Rücken-  schmerz
+Arthritis
 
-Depression  Rheumatoide Arthritis
+Rücken-
 
-Osteoporose
+Osteoporose schmerz
 
 **oben genannten Diagnose(n)**
 
@@ -173,7 +161,7 @@ Stempel Ärztin/Arzt
 
 teil-
 
-ent -
+ent-
 
 Indikationsübergreifend 06.05.2020 TEEWE
 
@@ -214,21 +202,15 @@ Ich willige in die Verarbeitung meiner im Programm erhobenen medizinischen und p
 
 Ich weiß, dass ich diese Einwilligung jederzeit bei meiner Krankenkasse mit Wirkung für die Zukunft widerrufen und aus dem  Programm austreten kann. Mir ist bekannt, dass dies nicht die Rechtmäßigkeit der bisher auf der Grundlage dieser  Einwilligung erfolgten Verarbeitung berührt. Die erhobenen und gespeicherten Daten werden bei meinem Ausscheiden aus  dem Programm gemäß der dann gültigen Rechtsvorschriften gelöscht.
 
-**zu 1.: Ja,** ich möchte gemäß den Ausführungen an einem Programm entsprechend der
+**zu 1.: Ja,** ich möchte gemäß den Ausführungen an einem Programm entsprechend der  nehmen und bestätige dies mit meiner Unterschrift.
 
-nehmen und bestätige dies mit meiner Unterschrift.
-
-**zu 2.: Ja,** ich habe die „Information zum Datenschutz “ (Fassung vom 25.05.2018) erhalten und zur Kenntnis genommen und
-
-weiß, dass ich detaillierte Informationen zeitnah mit meinen Einschreibungsunterlagen durch meine Krankenkasse bekom me. **Ich bin mit der darin beschriebenen Verarbeitung meiner Behandlungsdaten im Rahmen meiner Teilnahme am**  **Programm einverstanden und bestätige dies mit meiner Unterschrift.**
+**zu 2.: Ja,** ich habe die „Information zum Datenschutz “ (Fassung vom 25.05.2018) erhalten und zur Kenntnis genommen und  weiß, dass ich detaillierte Informationen zeitnah mit meinen Einschreibungsunterlagen durch meine Krankenkasse bekom me. **Ich bin mit der darin beschriebenen Verarbeitung meiner Behandlungsdaten im Rahmen meiner Teilnahme am**  **Programm einverstanden und bestätige dies mit meiner Unterschrift.**
 
 Bitte das heutige Datum eintragen. **T T M M J J J J**
 
 **– von der behandelnden Ärztin/vom behandelnden Arzt oder Krankenhausärztin/Krankenhausarzt auszufüllen –**
 
-Ich bestätige, dass für die vorgenannte Versicherte/den vorgenannten Versicherten die oben genannte(n) Diagnose(n)  sprechend den rechtlichen Anforderungen gesichert ist/sind und die indikationsspezifischen Einschreibekriterien überprüft
-
-wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit wirkung und Teilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung  profitieren kann.
+Ich bestätige, dass für die vorgenannte Versicherte/den vorgenannten Versicherten die oben genannte(n) Diagnose(n)  sprechend den rechtlichen Anforderungen gesichert ist/sind und die indikationsspezifischen Einschreibekriterien überprüft  wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit wirkung und Teilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung  profitieren kann.
 
 Bitte das heutige Datum eintragen. **T T M M J J J J** Unterschrift
 
@@ -246,13 +228,13 @@ oder
 
 COPD
 
-Brustkrebs
+Brustkrebs  Depression  Rheumatoide
 
-Rücken-  schmerz
+Arthritis
 
-Depression  Rheumatoide Arthritis
+Rücken-
 
-Osteoporose
+Osteoporose schmerz
 
 **oben genannten Diagnose(n)**
 
@@ -264,7 +246,7 @@ Stempel Ärztin/Arzt
 
 teil-
 
-ent -
+ent-
 
 Indikationsübergreifend 06.05.2020 TEEWE
 
@@ -275,15 +257,11 @@ Indikationsübergreifend 06.05.2020 TEEWE
 
 **1 Was ist ein strukturiertes Behandlungsprogramm der Krankenkasse?**
 
-Strukturierte Behandlungsprogramme richten sich an Personen, die eine oder mehrere bestimmte chronische Krankheiten haben.
-
-Mit diesen Behandlungsprogrammen will Ihre Krankenkasse gewährleisten, dass Sie jederzeit gut betreut werden.
+Strukturierte Behandlungsprogramme richten sich an Personen, die eine oder mehrere bestimmte chronische Krankheiten haben.   Mit diesen Behandlungsprogrammen will Ihre Krankenkasse gewährleisten, dass Sie jederzeit gut betreut werden.
 
 Ihre Krankenkasse bietet Ihnen eine Teilnahme an diesen strukturierten Behandlungsprogrammen an. Damit möchte sie Ihnen helfen,  besser mit Ihren krankheitsbedingten Problemen umzugehen und Ihre Lebensqualität zu verbessern. Näheres zu diesen Programmen  entnehmen Sie bitte der beiliegenden „Information für Patientinnen und Patienten“.
 
-Ihre Teilnahme an einem oder mehreren Programmen ist **freiwillig** und für Sie ohne zusätzliche Kosten. Sie ist jedoch nur möglich,
-
-wenn Sie in den nachfolgend beschriebenen Ablauf einwilligen.
+Ihre Teilnahme an einem oder mehreren Programmen ist **freiwillig** und für Sie ohne zusätzliche Kosten. Sie ist jedoch nur möglich,  wenn Sie in den nachfolgend beschriebenen Ablauf einwilligen.
 
 **2 Welche Daten werden erhoben?**
 
@@ -297,13 +275,9 @@ Angaben, aufgrund welcher Erkrankung Sie eingeschrieben werden
 
 Anamnese- und Befunddaten (z. B. Körpergröße, Blutdruck, Begleiterkrankungen)
 
- Daten zur Behandlungsplanung (z. B. Behandlungsziele, von Ihnen gewünschte Informationen zur Raucherentwöhnung oder
+ Daten zur Behandlungsplanung (z. B. Behandlungsziele, von Ihnen gewünschte Informationen zur Raucherentwöhnung oder  Ernährungsberatung, Angaben zu erfolgten Überweisungen oder Einweisungen in ein Krankenhaus)
 
-Ernährungsberatung, Angaben zu erfolgten Überweisungen oder Einweisungen in ein Krankenhaus)
-
- Angaben zu relevanten Ereignissen, die seit der letzten Dokumentation aufgetreten sind (z. B. Krankenhausaufenthalte oder
-
-Neuerkrankungen)
+ Angaben zu relevanten Ereignissen, die seit der letzten Dokumentation aufgetreten sind (z. B. Krankenhausaufenthalte oder  Neuerkrankungen)
 
 Angaben zu Medikamenten, die Sie einnehmen
 
@@ -317,13 +291,9 @@ Die Datenstelle ist für die weitere Bearbeitung der Daten zuständig und wird d
 
 Alternativ dazu besteht die Möglichkeit, dass Ihre Krankenkasse die Aufgaben der Gemeinsamen Einrichtung wahrnimmt. Für diesen  Fall entfällt die Notwendigkeit der Errichtung der Arbeitsgemeinschaft und der Gemeinsamen Einrichtung und damit der Weiterlei tung der Daten an diese. Das kann auch beinhalten, dass Ihre Krankenkasse die Aufgaben der Datenstelle in eigener Verantwortung  wahrnimmt.
 
-Der dargestellte Ablauf der Programme und die nachfolgend beschriebenen Aufgaben der Beteiligten sind gesetzlich vorgeschrieben.  Bei jedem Bearbeitungsschritt werden strengste gesetzliche Sicherheitsvorschriften beachtet. Die Verarbeitung Ihrer im Programm  erhobenen Daten erfolgt unter Beachtung der Datenschutzgrundverordnung (DS-GVO). Dadurch ist der Schutz Ihrer Daten immer
+Der dargestellte Ablauf der Programme und die nachfolgend beschriebenen Aufgaben der Beteiligten sind gesetzlich vorgeschrieben.  Bei jedem Bearbeitungsschritt werden strengste gesetzliche Sicherheitsvorschriften beachtet. Die Verarbeitung Ihrer im Programm  erhobenen Daten erfolgt unter Beachtung der Datenschutzgrundverordnung (DS-GVO). Dadurch ist der Schutz Ihrer Daten immer  gewährleistet! Bei allen Beteiligten haben nur speziell für das Programm ausgewählte und besonders geschulte Mitarbeiterinnen/ Mitarbeiter Zugang zu den Daten. Des Weiteren werden Ihre Daten entsprechend den gültigen Rechtsvorschriften aufbewahrt.
 
-gewährleistet! Bei allen Beteiligten haben nur speziell für das Programm ausgewählte und besonders geschulte Mitarbeiterinnen/ Mitarbeiter Zugang zu den Daten. Des Weiteren werden Ihre Daten entsprechend den gültigen Rechtsvorschriften aufbewahrt.
-
-Indikationsübergreifend
-
-**3.1 Was geschieht bei der Ärztin/dem Arzt mit den Daten?**
+Indikationsübergreifend  **3.1 Was geschieht bei der Ärztin/dem Arzt mit den Daten?**
 
 Ihre Ärztin/Ihr Arzt benötigt diese Daten für Ihre Behandlung und das Gespräch mit Ihnen. Ihre Ärztin/Ihr Arzt leitet die das Programm  betreffenden Daten in standardisierter Form an die Krankenkasse oder die Datenstelle weiter. Dazu benötigt Ihre Ärztin/Ihr Arzt im  Rahmen der Einschreibung Ihre einmalige schriftliche Einwilligung auf der beigefügten Teilnahme- und Einwilligungserklärung.
 
@@ -340,15 +310,11 @@ Für den Fall, dass Sie an einem Programm außerhalb des Zuständigkeitsbereichs
 
 **3.3 Was geschieht bei der beauftragten Datenstelle mit den Daten?**
 
-Es ist möglich, dass die Krankenkassen und die ärztlichen Teilnehmerinnen und Teilnehmer eine Datenstelle mit der Annahme und  Weiterleitung der Daten beauftragen. Dieser Vertrag mit der Datenstelle kann auch über eine Arbeitsgemeinschaft von Krankenkas sen und ärztlichen Teilnehmern (z. B. Kassenärztliche Vereinigung) geschlossen werden. Wenn eine Datenstelle beauftragt worden ist,  dann prüft diese unter Beachtung der strengen Datenschutzbestimmungen, ob die Daten vollständig und plausibel sind. Weiter wird  geschaut, ob die Daten zum richtigen Zeitpunkt erstellt und übermittelt worden sind. Anschließend leitet die Datenstelle die Daten an  die Krankenkasse und in pseudonymisierter Form an die Gemeinsame Einrichtung bzw. an die Kassenärztliche Vereinigung und an die  mit der Evaluation  beauftragte Institution im gesetzlich vorgegebenen Umfang weiter. Dazu werden die von der Krankenkasse erfassten Informationen  vor der Weiterleitung mit verschlüsselten Nummern versehen. Die Pseudonymisierung der Daten gewährleistet, dass niemand erken-
-
-nen kann, zu welcher Person diese Daten gehören.
+Es ist möglich, dass die Krankenkassen und die ärztlichen Teilnehmerinnen und Teilnehmer eine Datenstelle mit der Annahme und  Weiterleitung der Daten beauftragen. Dieser Vertrag mit der Datenstelle kann auch über eine Arbeitsgemeinschaft von Krankenkas sen und ärztlichen Teilnehmern (z. B. Kassenärztliche Vereinigung) geschlossen werden. Wenn eine Datenstelle beauftragt worden ist,  dann prüft diese unter Beachtung der strengen Datenschutzbestimmungen, ob die Daten vollständig und plausibel sind. Weiter wird  geschaut, ob die Daten zum richtigen Zeitpunkt erstellt und übermittelt worden sind. Anschließend leitet die Datenstelle die Daten an  die Krankenkasse und in pseudonymisierter Form an die Gemeinsame Einrichtung bzw. an die Kassenärztliche Vereinigung und an die  mit der Evaluation  beauftragte Institution im gesetzlich vorgegebenen Umfang weiter. Dazu werden die von der Krankenkasse erfassten Informationen  vor der Weiterleitung mit verschlüsselten Nummern versehen. Die Pseudonymisierung der Daten gewährleistet, dass niemand erken-  nen kann, zu welcher Person diese Daten gehören.
 
 **3.4 Was geschieht bei der Gemeinsamen Einrichtung mit den Daten?**
 
-Die Gemeinsame Einrichtung kann von den Krankenkassen und einer Gemeinschaft der ärztlichen Teilnehmerinnen und Teilnehmer
-
-(z. B. Kassenärztliche Vereinigung oder Hausärzteverband) zur Qualitätssicherung gegründet werden.
+Die Gemeinsame Einrichtung kann von den Krankenkassen und einer Gemeinschaft der ärztlichen Teilnehmerinnen und Teilnehmer   (z. B. Kassenärztliche Vereinigung oder Hausärzteverband) zur Qualitätssicherung gegründet werden.
 
 Für diese Qualitätssicherung erhält die Gemeinsame Einrichtung pseudonymisierte Daten. Die Daten aller teilnehmenden Ärztinnen  und Ärzte und eingeschriebenen Versicherten werden hier unter Beachtung der Datenschutzbestimmungen nach wissenschaftlichen  Methoden ausgewertet. Im Rahmen dieser Auswertung wird unter anderem untersucht, ob das Behandlungsprogramm die Behand lung der teilnehmenden Versicherten nachweislich verbessert. Ihre Ärztin/Ihr Arzt erhält einen Bericht über die Ergebnisse dieser  Auswertung.
 
@@ -359,17 +325,13 @@ Die im Rahmen strukturierter Behandlungsprogramme erfassten pseudonymisierten In
 
 ---
 
-**Anlage „Patientinnen- und Patienteninformation“**
-
-zur Durchführung eines strukturierten Behandlungsprogramms
+**Anlage „Patientinnen- und Patienteninformation“** zur Durchführung eines strukturierten Behandlungsprogramms
 
 # Strukturiertes Behandlungsprogramm
 
 ## Eine Information für Patientinnen und Patienten
 
-**Bei Ihnen wurde eine chronische Erkrankung diagnostiziert. Im Rahmen eines strukturierten Behandlungsprogramms (Disease-**
-
-**Management-Programm – DMP) möchte Ihre Krankenkasse Ihnen helfen, gut mit Ihrer Krankheit und mit eventuellen krank** **heitsbedingten Problemen umzugehen und Ihre Lebensqualität zu verbessern. Die Teilnahme an diesem Programm sichert Ihnen**  **eine optimale Behandlung, spezielle Informationen sowie eine umfassende ärztliche Betreuung. Nutzen Sie dieses Angebot Ihrer**  **Krankenkasse mit all seinen Vorteilen!**
+**Bei Ihnen wurde eine chronische Erkrankung diagnostiziert. Im Rahmen eines strukturierten Behandlungsprogramms (Disease-**  **Management-Programm – DMP) möchte Ihre Krankenkasse Ihnen helfen, gut mit Ihrer Krankheit und mit eventuellen krank** **heitsbedingten Problemen umzugehen und Ihre Lebensqualität zu verbessern. Die Teilnahme an diesem Programm sichert Ihnen**  **eine optimale Behandlung, spezielle Informationen sowie eine umfassende ärztliche Betreuung. Nutzen Sie dieses Angebot Ihrer**  **Krankenkasse mit all seinen Vorteilen!**
 
 **Was macht DMP zu einer besonderen Versorgungsform?**
 
@@ -383,11 +345,7 @@ Dafür bietet Ihre Krankenkasse die besondere Versorgung durch ein strukturierte
 
 **Behandlung auf dem aktuellen Stand der Wissenschaft**
 
-Das Wissen in der Medizin wächst täglich. Im Rahmen der Behandlungsprogramme sorgen alle Beteiligten dafür, dass Sie eine auf  Ihre Situation abgestimmte Behandlung erhalten, die auf aktuellen gesicherten wissenschaftlichen Erkenntnissen beruht. Ärzte,
-
-Wissenschaftler und Krankenkassen haben die Grundlagen der Behandlungsprogramme im gesetzlichen Auftrag gemeinsam  erarbeitet und überprüfen diese regelmäßig auf Aktualität. Damit unterliegen die Programme hohen Qualitätsanforderungen. Es
-
-werden nur solche medikamentösen und nicht-medikamentösen Maßnahmen sowie Verfahren empfohlen, deren positiver Effekt  und Sicherheit erwiesen sind. Diese sollen im Rahmen Ihrer Behandlung vorrangig zur Anwendung kommen. Die Anforderungen an die Behandlungsprogramme sind im Sozialgesetzbuch Fünftes Buch (SGB V), der Risikostrukturausgleichsver ordnung (RSAV) und insbesondere in der DMP-Anforderungen-Richtlinie des Gemeinsamen Bundesausschusses (G-BA) festgelegt.
+Das Wissen in der Medizin wächst täglich. Im Rahmen der Behandlungsprogramme sorgen alle Beteiligten dafür, dass Sie eine auf  Ihre Situation abgestimmte Behandlung erhalten, die auf aktuellen gesicherten wissenschaftlichen Erkenntnissen beruht. Ärzte,  Wissenschaftler und Krankenkassen haben die Grundlagen der Behandlungsprogramme im gesetzlichen Auftrag gemeinsam  erarbeitet und überprüfen diese regelmäßig auf Aktualität. Damit unterliegen die Programme hohen Qualitätsanforderungen. Es  werden nur solche medikamentösen und nicht-medikamentösen Maßnahmen sowie Verfahren empfohlen, deren positiver Effekt  und Sicherheit erwiesen sind. Diese sollen im Rahmen Ihrer Behandlung vorrangig zur Anwendung kommen. Die Anforderungen an die Behandlungsprogramme sind im Sozialgesetzbuch Fünftes Buch (SGB V), der Risikostrukturausgleichsver ordnung (RSAV) und insbesondere in der DMP-Anforderungen-Richtlinie des Gemeinsamen Bundesausschusses (G-BA) festgelegt.
 
 **Erhöhung Ihrer Selbstmanagementkompetenz und aktive Mitwirkung durch Sie**
 
@@ -399,7 +357,7 @@ Ihr Arzt oder Ihre Ärztin wird Sie über den Umgang mit weiteren gesundheitsgef
 
 Indikationsübergreifend
 
-Die von Ihnen gewählte Ärztin oder der von Ihnen gewählte Arzt koordiniert die Programmdurchführung und berät und unterstützt  Sie in allen Fragen. Voraussetzung für Ihre Teilnahme ist, dass diese Ärztin bzw. dieser Arzt selbst am Programm teilnimmt.  Ihre Ärztin oder Ihr Arzt wird mit Ihnen regelmäßige Untersuchungstermine vereinbaren, deren Inhalte und Abstände fest geregelt  06.05.2020
+Die von Ihnen gewählte Ärztin oder der von Ihnen gewählte Arzt koordiniert die Programmdurchführung und berät und unterstützt   Sie in allen Fragen. Voraussetzung für Ihre Teilnahme ist, dass diese Ärztin bzw. dieser Arzt selbst am Programm teilnimmt.  Ihre Ärztin oder Ihr Arzt wird mit Ihnen regelmäßige Untersuchungstermine vereinbaren, deren Inhalte und Abstände fest geregelt  06.05.2020
 
 sind. Sie bzw. er überprüft auch anhand festgelegter Kriterien, ob und welche Spezialisten oder Einrichtungen, die ebenfalls am Pro
 
@@ -416,9 +374,7 @@ Eine ausführliche Information über die Weitergabe und den Schutz Ihrer Daten e
 
 **Aktive Begleitung durch Ihre Krankenkasse**
 
-Ihre Krankenkasse unterstützt Sie mit Informationen zum Programm. Dazu erhalten Sie von Ihrer Krankenkasse insbesondere zu
-
-Beginn der Teilnahme nochmals spezifische Informationen zu Ihrer Erkrankung. Im weiteren Verlauf Ihrer Teilnahme stellt Ihnen  Ihre Krankenkasse anlassbezogen auf Ihre Behandlungssituation abgestimmte Informationen und Angebote zur Verfügung. Wenn  Sie es wünschen, erklären Ihnen die Mitarbeiter Ihrer Krankenkasse dies auch gerne in einem persönlichen Gespräch. Darüber hin aus bietet Ihnen Ihre Krankenkasse spezielle Serviceangebote an. Auf Wunsch können Ihnen alle Ärztinnen und Ärzte sowie Kran kenhäuser in Ihrer Umgebung, die am Programm teilnehmen, genannt werden. Sofern Sie an einem Programm außerhalb der Zuständigkeit Ihrer Krankenkasse teilnehmen wollen, z. B. wenn Ihr Wohnort oder die  Praxis Ihrer Ärztin bzw. Ihres Arztes in einem anderen Bundesland liegt, erfolgt ggf. die Betreuung im Programm durch die beauf tragte regionale Krankenkasse dieser Kassenart.
+Ihre Krankenkasse unterstützt Sie mit Informationen zum Programm. Dazu erhalten Sie von Ihrer Krankenkasse insbesondere zu   Beginn der Teilnahme nochmals spezifische Informationen zu Ihrer Erkrankung. Im weiteren Verlauf Ihrer Teilnahme stellt Ihnen  Ihre Krankenkasse anlassbezogen auf Ihre Behandlungssituation abgestimmte Informationen und Angebote zur Verfügung. Wenn  Sie es wünschen, erklären Ihnen die Mitarbeiter Ihrer Krankenkasse dies auch gerne in einem persönlichen Gespräch. Darüber hin aus bietet Ihnen Ihre Krankenkasse spezielle Serviceangebote an. Auf Wunsch können Ihnen alle Ärztinnen und Ärzte sowie Kran kenhäuser in Ihrer Umgebung, die am Programm teilnehmen, genannt werden. Sofern Sie an einem Programm außerhalb der Zuständigkeit Ihrer Krankenkasse teilnehmen wollen, z. B. wenn Ihr Wohnort oder die  Praxis Ihrer Ärztin bzw. Ihres Arztes in einem anderen Bundesland liegt, erfolgt ggf. die Betreuung im Programm durch die beauf tragte regionale Krankenkasse dieser Kassenart.
 
 **Was sind die Teilnahmevoraussetzungen für das Behandlungsprogramm?**
 
@@ -426,11 +382,7 @@ Sie sind bei einer Krankenkasse versichert, die dieses Programm anbietet, die Di
 
 Wenn Sie mehrere chronische Krankheiten haben, können Sie auch an mehreren Programmen gleichzeitig teilnehmen. Ausgenom men hiervon sind die gleichzeitige Teilnahme an den unterschiedlichen DMP für
 
-- Koronare Herzkrankheit und Herzinsuffizienz,
-
-- Asthma bronchiale und COPD,
-
-- Diabetes mellitus Typ 1 und Diabetes mellitus Typ 2.
+- Koronare Herzkrankheit und Herzinsuffizienz, - Asthma bronchiale und COPD, - Diabetes mellitus Typ 1 und Diabetes mellitus Typ 2.
 
 **Ihre Teilnahme am Behandlungsprogramm ist freiwillig und für Sie kostenfrei**
 

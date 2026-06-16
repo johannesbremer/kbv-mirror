@@ -7,13 +7,12 @@
 |  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  15. NOVEMBER 2021   VERSION: 1.40   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
-# SCHNITTSTELLENBESCHREIBUNG  SDKRW (KODIERREGELWERK-
-
-# STAMMDATEI)
+# SCHNITTSTELLENBESCHREIBUNG  SDKRW (KODIERREGELWERK- STAMMDATEI)
 
 ## [KBV_ITA_VGEX_SCHNITTSTELLE_SDKRW]
 
-BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
+BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
+
 
 ---
 
@@ -23,7 +22,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **8**
 
-| **2** | **KONVENTIONEN** | **8** |
+| 2 | KONVENTIONEN | 8 |
 |---|---|---|
 | 2.1 | Zeichensatz | 8 |
 | 2.2 | Namespace | 8 |
@@ -166,8 +165,6 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 32
 
--Stammdatei) / Version: 1.40
-
 
 ---
 
@@ -186,9 +183,6 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 **6** **REFERENZIERTE DOKUMENTE**
 
 **35**
-
--Stammdatei) / Version: 1.40 /
-
 
 ---
 
@@ -264,38 +258,55 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **ABBILDUNG 35:** KURZ_BESCHREIBUNG ........................................................................................................................... 34
 
-
 ---
 
 ## TABELLENVERZEICHNIS
 
-**TABELLE 1:** BESCHREIBUNG DER KARDINALITÄTEN EINES XML-ELEMENTS ....................................................................... 9
+**TABELLE 1:** BESCHREIBUNG DER KARDINALITÄTEN EINES XML-ELEMENTS
 
-**TABELLE 2:** BESCHREIBUNG DER STRUKTURELEMENT-SYMBOLE ...................................................................................... 9
+**TABELLE 2:** BESCHREIBUNG DER STRUKTURELEMENT-SYMBOLE
 
 **TABELLE 3:** BESCHREIBUNG SONSTIGER SYMBOLE .......................................................................................................... 10
 
-**TABELLE 4:** ZULÄSSIGE WERTE FÜR DAS ELEMENT REGELKATEGORIE ............................................................................. 17
+**TABELLE 4:** ZULÄSSIGE WERTE FÜR DAS ELEMENT REGELKA
 
-**TABELLE 5:** ZULÄSSIGE WERTE FÜR DAS ELEMENT REGELQUELLE ................................................................................... 18
+**TABELLE 5:** ZULÄSSIGE WERTE FÜR DAS ELEMENT REGELQU
 
-**TABELLE 6:** ZULÄSSIGE WERTE FÜR DAS ELEMENT REGELANWENDUNG ........................................................................ 20
+**TABELLE 6:** ZULÄSSIGE WERTE FÜR DAS ELEMENT REGELANWENDUNG ........................................................................
 
-**TABELLE 7:** SCHLÜSSELTABELLE DER KRW-BEZUGSRÄUME ............................................................................................. 21
+**TABELLE 7:** SCHLÜSSELTABELLE DER KRW-BEZUGSRÄUME .............................................................................................
 
-**TABELLE 8:** ZULÄSSIGE WERTE FÜR DAS ELEMENT ECHTZEITPRUEFUNG ........................................................................ 22
+**TABELLE 8:** ZULÄSSIGE WERTE FÜR DAS ELEMENT ECHTZEI
 
-**TABELLE 9:** ZULÄSSIGE WERTE FÜR DAS ELEMENT PRUEFGRUNDLAGE .......................................................................... 23
+**TABELLE 9:** ZULÄSSIGE WERTE FÜR DAS ELEMENT PRUEFGRUNDLAGE ..........................................................................
 
-**TABELLE 10:** SCHLÜSSELTABELLE FÜR DEN PARAMTERTYP [2] ........................................................................................ 25
+**TABELLE 10:** SCHLÜSSELTABELLE FÜR DEN PARAMTERTYP [2]
 
 **TABELLE 11:** ZULÄSSIGE WERTE FÜR DEN OPERATOR...................................................................................................... 26
 
-**TABELLE 12:** ZULÄSSIGE WERTE FÜR DAS EXISTENZKRITERIUM ...................................................................................... 26
+**TABELLE 12:** ZULÄSSIGE WERTE FÜR DAS EXISTENZKRITERIU
 
-**TABELLE 13:** ZULÄSSIGE WERTE FÜR DAS PRÜFEXISTENZKRITERIUM .............................................................................. 30
+**TABELLE 13:** ZULÄSSIGE WERTE FÜR DAS PRÜFEXISTENZKRI
 
-**TABELLE 14:** ERLAUBTE INHALTE BEI ELEMENT <REGEL> ................................................................................................. 34
+**TABELLE 14:** ERLAUBTE INHALTE BEI ELEMENT <REGEL>
+
+....................................................................... 9  ...................................................................................... 9
+
+TEGORIE ............................................................................. 17
+
+ELLE ................................................................................... 18 20
+
+21
+
+TPRUEFUNG ........................................................................ 22 23
+
+........................................................................................ 25
+
+M ...................................................................................... 26
+
+TERIUM .............................................................................. 30
+
+................................................................................................. 34
 
 
 ---
@@ -370,19 +381,19 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **XML-CODE 34:** KURZ_BESCHREIBUNG ............................................................................................................................. 34
 
-
 ---
 
 # DOKUMENTENHISTORIE
 
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.40 | 15.11.2021 | KBV | Textuelle Klarstellung der    Textuelle Klarstellung des    Hinweis zum Element |  | 28,  30      26        22 |
 | 1.40 | 23.09.2021 | KBV | Klarstellung der Elemente |  | 28,  30 |
 | 1.40 | 07.09.2021 | KBV | Aufnahme des Elementes | Element wurde in der | 14,  34 |
 | 1.40 | 19.04.2021 | KBV | Überarbeitung der KRW- |  | alle |
 
-Elemente <subbedingung> und <subpruefung> Hinweises bei dem Element <existenz> <echtzeitpruefung> aufgenommen <subbedingung> und <subpruefung> <kurz_beschreibung> Schnittstellenbeschreibung nicht aufgeführt Schnittstelle
+Elemente <subbedingung> und <subpruefung> Hinweises bei dem Element <existenz> <echtzeitpruefung> aufgenommen <subbedingung> und <subpruefung> <kurz_beschreibung> Schnittstellenbeschreibung nicht aufgeführt Schnittstelle 
+
 
 ---
 
@@ -420,9 +431,7 @@ datatyp ..... Datentyp, "Satzart", "ehd." ist optional als Vorsatz erlaubt;  Ent
 
 vv.vv ......... VersionsNr. der Datentypbeschreibung;  Entspricht dem Element *<version>* des Header-Elements *<interface>*
 
-sender ...... Absender der Lieferung, (nicht immer mit Erzeuger bzw. Erstlieferanten der Daten  identisch) bzw. wer hat die Daten geliefert;  Entspricht dem Element *<person>* oder dem Element *<organization>* des Header-Elements
-
-*<provider>*
+sender ...... Absender der Lieferung, (nicht immer mit Erzeuger bzw. Erstlieferanten der Daten  identisch) bzw. wer hat die Daten geliefert;  Entspricht dem Element *<person>* oder dem Element *<organization>* des Header-Elements  *<provider>*
 
 tf+..………… timeframe (YYYYqQ)
 
@@ -445,7 +454,7 @@ Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, dere
 
 Es existieren verschiedene Kardinalitäten:
 
-| **Kardinalität** | **Symbol** | **Beschreibung** |
+| Kardinalität | Symbol | Beschreibung |
 |---|---|---|
 | 0..1 |  | **Optionale Elemente ** Ein optionales Element wird als Rechteck mit gestrichelter |
 | 1 |  | **Obligatorische Elemente ** Elemente, welche als Rechteck mit durchgezogener Linie |
@@ -457,7 +466,7 @@ Es existieren verschiedene Kardinalitäten:
 
 Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente miteinander verknüpft.  In diesem Dokument werden zwei Strukturelemente verwendet:
 
-| **Symbol** | **Beschreibung** |
+| Symbol | Beschreibung |
 |---|---|
 |  | Das Strukturelement |
 |  | Das Strukturelement |
@@ -470,9 +479,8 @@ Beschreibung der Kardinalitäten eines XML-Elements
 
 ***<xs:choice>*** und ***<xs:sequence>***
 
-Beschreibung der Strukturelement-Symbole
+Linie dargestellt. Es kann keinmal oder einmal vorkommen. dargestellt sind, müssen genau einmal vorkommen. die erlaubte Anzahl rechts unter dem Symbol dargestellt. Die Werte können von 0 bis  (unbounded) reichen. <xs:choice> zeigt an, dass zwischen verschiedenen Kindelementen genau eins ausgewählt werden muss. <xs:sequence>  beschreibt, dass die Kindelemente in festgelegter Reihenfolge aufgeführt werden müssen. Beschreibung der Strukturelement-Symbole
 
-Linie dargestellt. Es kann keinmal oder einmal vorkommen. dargestellt sind, müssen genau einmal vorkommen. die erlaubte Anzahl rechts unter dem Symbol dargestellt. Die Werte können von 0 bis  (unbounded) reichen. <xs:choice> zeigt an, dass zwischen verschiedenen Kindelementen genau eins ausgewählt werden muss. <xs:sequence>  beschreibt, dass die Kindelemente in festgelegter Reihenfolge aufgeführt werden müssen.
 
 ---
 
@@ -480,7 +488,7 @@ Linie dargestellt. Es kann keinmal oder einmal vorkommen. dargestellt sind, müs
 
 Es werden außerdem folgende Diagramm-Symbole verwendet:
 
-| **Symbol** | **Beschreibung** |
+| Symbol | Beschreibung |
 |---|---|
 |  | **Element mit Kindelementen ** Ein Element mit einem oder mehreren Kindelementen wird durch ein |
 |  | **Referenzelement ** Der Pfeil links unten im Element zeigt an, dass das Element an anderer Stelle |
@@ -491,15 +499,14 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 Beschreibung sonstiger Symbole
 
-Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches mehrere Elemente zusammenfasst.
+Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches mehrere Elemente zusammenfasst. 
+
 
 ---
 
 # 3 EHD – ELEMENT (ROOT-ELEMENT)
 
-Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Kindelemente „header“ und  „body“, wie es in Abbildung 1: **/ehd (root-Element)** dargestellt ist. Ihm stehen die spezifischen
-
-Informationen der Schnittstelle zur Verfügung. Im body- Element werden die eigentlichen Daten hinterlegt.
+Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Kindelemente „header“ und  „body“, wie es in Abbildung 1: **/ehd (root-Element)** dargestellt ist. Ihm stehen die spezifischen  Informationen der Schnittstelle zur Verfügung. Im body- Element werden die eigentlichen Daten hinterlegt.
 
 Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen, die in diesem  Dokument beschrieben werden, ist es wichtig, die Groß-/Kleinschreibung zu beachten.
 
@@ -509,29 +516,20 @@ Das ***<ehd>*** - Element hat folgenden Aufbau:
 
 **<?xml version="1.0" encoding="ISO-8859-15"?>**
 
-**<ehd:ehd xmlns="urn:ehd/001"** xmlns="**urn:ehd/krw/001**" xmlns:xsi="**[http://www.w3.org/2001/XMLSchema-](http://www.w3.org/2001/XMLSchema-)**
+**<ehd:ehd xmlns="urn:ehd/001"** xmlns="**urn:ehd/krw/001**" xmlns:xsi="**[http://www.w3.org/2001/XMLSchema-](http://www.w3.org/2001/XMLSchema-)** **instance ehd_version ="...">**
 
-**instance ehd_version ="...">**
-
+```
 **<ehd:header>**
-
 **...**
-
 **</ehd:header>**
-
 **<ehd:body>**
-
 **...**
-
 **</ehd:body>**
-
 **<ehd:keytabs>**
-
 **...**
-
 **</ehd:keytabs>**
-
 **</ehd:ehd>**
+```
 
 **XML-Code 1**: /ehd
 
@@ -547,9 +545,7 @@ Der Namensraum für die ehd-Schnittstelle ist zwingend vorgeschrieben: „
 
 Im XML-File wird die Versionsnummer zur zugrundeliegenden ehd-Richtlinie bzw. des  verwendeten ehd-Schemas angeben. Der Wertebereich wird auf 0.00 bis 99.99 festgelegt,  anderenfalls wird der Parser Fehler melden.
 
-Um die Aufwärtskompatibilität zu gewährleisten, wird kein fester Wert für die Version
-
-vorgegeben.
+Um die Aufwärtskompatibilität zu gewährleisten, wird kein fester Wert für die Version  vorgegeben.
 
 Der Header ist ein Pflichtelement, hier befinden sich die Metadaten zu den im body  liegenden eigentlichen Inhaltsdaten.
 
@@ -591,9 +587,7 @@ Zur eindeutigen Kennzeichnung der Stammdatei beinhaltet das id -Element eine ein
 
 # 5 BODY (INHALTSDATEN)
 
-Das ***<body>*** Element beinhaltet alle KRW Stammdaten in einer strukturierten Hierarchie von
-
-Kindelementen. Die Hierarchieebenen der Kodierregeln gliedern sich in Bedingungen und Prüfungen.
+Das ***<body>*** Element beinhaltet alle KRW Stammdaten in einer strukturierten Hierarchie von  Kindelementen. Die Hierarchieebenen der Kodierregeln gliedern sich in Bedingungen und Prüfungen.
 
 Der Namensraum ist „urn:ehd/krw/001“.
 
@@ -605,17 +599,16 @@ Das Element <kodierregel_liste > ist ein Klammerelement für eine Liste von <kod
 
 Der XML-Code für das Element <kodierregel_liste> hat folgenden Aufbau:
 
-**<kodierregel_liste>**
+**kodierregel_liste**
 
-**<kodierregel>**
+**kodierregel**
 
-**</kodierregel>**
-
-**<kodierregel>**
-
-**</kodierregel>**
-
-**</kodierregel_liste>**
+```
+**kodierregel**
+**kodierregel**
+**kodierregel**
+**kodierregel_liste**
+```
 
 **XML-Code 2:** kodierregel_liste
 
@@ -628,56 +621,35 @@ Das Element <kodierregel> repräsentiert stets eine fachliche Kodierregel, dabei
 
 **Abbildung 4:** kodierregel
 
-
 ---
 
 Der XML-Code für das Element <kodierregel> hat folgenden Aufbau:
 
 **<kodierregel>**
 
+```
 **<id EX="** **01-01-001"/>**
-
 **<service_tmr V="2010-01-01..9999-12-31"/>**
-
-**<beschreibung V="Die Regel prüft das Verwenden eines Kodes für einen Akuten Myokardinfarkt mit**  **dem Kustand nach"ennzeichen "Z**
-
-**, da die ICD-10 einen nspezifische Kode für den Folgezustand (alter**
-
-**Myokardinfarkt) vorsieht."/>**
-
+**beschreibung V="Die Regel prüft das Verwenden eines Kodes für einen Akuten Myokardinfarkt mit**  **dem Kustand nach"ennzeichen "Z**
+**, da die ICD-10 einen nspezifische Kode für den Folgezustand (alter**  **Myokardinfarkt) vorsieht."/>**
 **<regelkategorie V="1" DN="Behandlungsfall-bezogen, ICD-getriggert"/>**
-
-**<regelquelle_liste>**
-
-**</regelquelle_liste>**
-
-**<regelanwendung V="1" DN=""Obligate Regel** **S=""1.2.276.0.76.3.1.1.5.2.52 />**
-
+**regelquelle_liste**
+**regelquelle_liste**
+**regelanwendung V="1" DN=""Obligate Regel** **S=""1.2.276.0.76.3.1.1.5.2.52 />**
 **<bezugsraum V="7" DN="" Behandlungsfall S=""/> 1.2.276.0.76.3.1.1.5.2.18**
-
-**<echtzeitpruefung_liste>**
-
-**</echtzeitpruefung_liste>**
-
-**<pruefgrundlage_liste>**
-
-**</pruefgrundlage_liste>**
-
-**<bedingung>**
-
-**</bedingung>**
-
-**<pruefung>**
-
-**</pruefung>**  **<fehlerbehandlung>**
-
-**</fehlerbehandlung>**
-
-**<kurz_beschreibung>**
-
-**</kurz_beschreibung>**
-
-**</kodierregel>**
+**echtzeitpruefung_liste**
+**echtzeitpruefung_liste**
+**pruefgrundlage_liste**
+**pruefgrundlage_liste**
+**bedingung**
+**bedingung**
+**pruefung**
+**pruefung** **fehlerbehandlung**
+**fehlerbehandlung**
+**kurz_beschreibung**
+**kurz_beschreibung**
+**kodierregel**
+```
 
 **XML-Code 3**: kodierregel
 
@@ -757,7 +729,7 @@ Der XML-Code für das Element <regelkategorie> hat folgenden Aufbau:
 
 **XML-Code 7:** regelkategorie
 
-| **Wert (V="...")** | **Bezeichner ( DN="...")** | **(S=""** |
+| Wert (V="...") | Bezeichner ( DN="...") | (S="" |
 |---|---|---|
 | 1 | Behandlungsfall-bezogen, ICD | wird durch einen ICD-Kode ausgelöst |
 | 3 | quartalsübergreifend, ICD getriggert | bezieht sich auf einen zurückliegenden |
@@ -774,11 +746,11 @@ Der XML-Code für das Strukturelement <regelquelle_liste> hat folgenden Aufbau:
 
 **<regelquelle_liste>**
 
+```
 **<regelquelle V="1" DN=""Kodiervorgaben nach § 295 SGB V S=""1.2.276.0.76.3.1.1.5.2.51 >**
-
 **</regelquelle>**
-
 **</regelquelle_liste>**
+```
 
 **XML-Code 8:** regelquelle_liste
 
@@ -796,15 +768,15 @@ Der XML-<Code für das Element regelquelle> hat folgenden Aufbau:
 
 **<regelquelle V="2" DN="ICD-10-GM">**
 
+```
 **<regelthema_liste>**
-
 **</regelthema_liste>**
-
 **</regelquelle>**
+```
 
 **XML-Code 9:** regelquelle
 
-| **Wert (V="...")** | **Bezeichner ( DN="...")** | **(S=""** |
+| Wert (V="...") | Bezeichner ( DN="...") | (S="" |
 |---|---|---|
 | 1 | Kodiervorgaben nach § 295 SGB V | Grundlage für die Regel ist der Beschluss der |
 | 2 | ICD-10-GM | Kodieranweisungen der ICD-10-GM |
@@ -821,17 +793,14 @@ Der XML-Code für das Strukturelement <regelthema_liste> hat folgenden Aufbau:
 
 **<regelquelle_liste>**
 
+```
 **<regelquelle V="..." DN="...">**
-
 **<regelthema_liste>**
-
 **<regelthema V="28" DN=""/> IX: Krankheiten des Kreislaufsystems**
-
 **</regelthema_liste>**
-
 **</regelquelle>**
-
 **</regelquelle_liste>**
+```
 
 **XML-Code 10:** regelthema_liste
 
@@ -839,7 +808,7 @@ Fachliche Bedeutung; OID  1.2.276.0.76.3.1.1.5.2.51 ) Vertreterversammlung (§ 2
 
 ---
 
-| **Wert (V="...")** | **Bezeichner ( DN="...")** | **Fachliche Bedeutung; OID** |
+| Wert (V="...") | Bezeichner ( DN="...") | Fachliche Bedeutung; OID |
 |---|---|---|
 | **5.10** | **Abbildung 12:** | **<regelthema V="28" DN=""** |
 |  | zu entnehmen sind. | DN: |
@@ -849,13 +818,13 @@ REGELTHEMA Das Element <regelthema> enthält das Kapitel aus Regelquelle, welche
 
 ---
 
-|  | **XML-Code 13:** | **Wert (V"...")** |
+|  | XML-Code 13: | Wert (V"...") |
 |---|---|---|
 | **Wert (V="...")** | **Bezeichner ( DN="...")** | **Fachliche Bedeutung; OID** |
 | 1 | Obligate Regel | Bedingung, dass die Kodierregel |
 | 2 | Fakultative Regel | Bedingung, dass die Kodierregel freiwillig |
 
-| **Wert (V"...")** | **Bezeichner ( DN="...")** | **Fachliche Bedeutung; OID (** |
+| Wert (V"...") | Bezeichner ( DN="...") | Fachliche Bedeutung; OID ( |
 |---|---|---|
 | 7 | Behandlungsfall | (Kode analog EBM, Definition laut §21 BMV-Ä) |
 | 21 | Quartal | nur für quartalsübergreifende Prüfung, die Anzahl |
@@ -866,7 +835,7 @@ Tabelle 6:  Zulässige Werte für das Element regelanwendung 5.12 BEZUGSRAUM Das
 
 ---
 
-|  | **</>** |  |
+|  | </> |  |
 |---|---|---|
 |  |  |  |
 |  |  |  |
@@ -891,7 +860,7 @@ Der XML-Code für das Element <echtzeitpruefung> hat folgenden Aufbau:
 
 **XML-Code 16:** echtzeitpruefung
 
-| **Wert (V="...")** | **Bezeichner ( DN="...")** | **Fachliche Bedeutung; OID** |
+| Wert (V="...") | Bezeichner ( DN="...") | Fachliche Bedeutung; OID |
 |---|---|---|
 | 1 | bei Kodierung | im Rahmen der Kodierung |
 | 2 | zur Abrechnung | im Rahmen der Übertragung in die |
@@ -899,9 +868,7 @@ Der XML-Code für das Element <echtzeitpruefung> hat folgenden Aufbau:
 
 **Tabelle 8:** Zulässige Werte für das Element echtzeitpruefung
 
-**Hinweis:** Der Wert dieses Elementes repräsentiert den Defaultwert der Kodierregeln für die Konfiguration
-
-der Regeln.
+**Hinweis:** Der Wert dieses Elementes repräsentiert den Defaultwert der Kodierregeln für die Konfiguration  der Regeln.
 
 ## 5.16 PRUEFGRUNDLAGE_LISTE
 
@@ -913,11 +880,11 @@ Das Element <pruefgrundlage_liste> gruppiert eine beliebige Liste von den Elemen
 
 ---
 
+```
 **<pruefgrundlage_liste>**
-
 **<pruefgrundlage V="1" DN="einzelfall" S=""/> 1.2.276.0.76.3.1.1.5.2.53**
-
 **</>pruefgrundlage_liste**
+```
 
 **XML-Code 17:** pruefgrundlage_liste
 
@@ -933,7 +900,7 @@ Der XML-Code für das Element <pruefgrundlage> hat folgenden Aufbau:
 
 **XML-Code 18:** pruefgrundlage
 
-| **Wert (V="...")** | **Bezeichner ( DN="...")** | **Fachliche Bedeutung; OID** |
+| Wert (V="...") | Bezeichner ( DN="...") | Fachliche Bedeutung; OID |
 |---|---|---|
 | 1 | Einzelfall | Prüfung, bei einem einzelnen Patienten |
 | 2 | Patientenstamm | Prüfung, aller Patienten derselben Arztpraxis    |
@@ -955,25 +922,18 @@ Der XML-Code für ein Element <bedingung> hat folgenden Aufbau:
 
 **<bedingung>**
 
-**<parameter V="ICD" S=""1.2.276.0.76.3.1.1.5.2.16 DN="ICD-Diagnose"/>**
-
+```
+**parameter V ICD S 1.2.276.0.76.3.1.1.5.2.16 DN ICD-Diagnose"/>**
 **<operator V="OR"/>**
-
 **<existenz V="TRUE"/>**
-
 **<value_liste>**
-
-** ...**
-
+**...**
 **</value_liste>**
-
 **<subbedingung >**
-
 ** ...**
-
 **</subbedingung >**
-
 **</bedingung>**
+```
 
 **XML-Code 19:** bedingung
 
@@ -990,11 +950,11 @@ Innerhalb einer Bedingung kann genau nur ein Parametertyp definiert werden. Werd
 
 Der XML-Code für das Element <parameter> hat folgenden Aufbau:
 
-**<parameter V="ICD" S=""1.2.276.0.76.3.1.1.5.2.16 DN="ICD-Diagnose"/>**
+**parameter V ICD S 1.2.276.0.76.3.1.1.5.2.16 DN ICD-Diagnose"/>**
 
 **XML-Code 20:** parameter
 
-| **Wert (V="...")** | **Bezeichner (optional DN="...")** | **OID (S="" Fachliche Bezug: Feldkennung(en)** |
+| Wert (V="...") | Bezeichner (optional DN="...") | OID (S="" Fachliche Bezug: Feldkennung(en) |
 |---|---|---|
 | ICD | ICD-Diagnose | 3673, 6001 |
 | DS | Diagnosesicherheit | 3674, 6003 |
@@ -1018,7 +978,7 @@ Der XML- Code für das optionale Element <operator> hat folgenden Aufbau:
 
 ---
 
-| **Wert (** | **Bedeutung** |
+| Wert ( | Bedeutung |
 |---|---|
 | AND | Bedingung setzt UND-Verknüpfung |
 | OR | Bedingung setzt OR-Verknüpfung |
@@ -1035,13 +995,14 @@ Der XML-Code für das Element <existenz> hat folgenden Aufbau:
 
 **<bedingung>**
 
+```
 **<existenz V="TRUE" />**
-
 **</bedingung>**
+```
 
 **XML-Code 22:** existenz
 
-| **Wert (** | **Bedeutung** |
+| Wert ( | Bedeutung |
 |---|---|
 | TRUE | Bedingung prüft auf Existenz der |
 | FALSE | Bedingung prüft auf Fehlen der |
@@ -1064,15 +1025,13 @@ Das Element <value_liste> gruppiert eine beliebige Liste von den Elementen <valu
 
 Der XML-Code für ein Element <value_liste> könnte folgendermaßen aussehen:
 
-**<value_liste>**
+**value_liste**
 
-**<value V="** **A04.70"/>**
-
-**<value V="** **A04.71"/>**
-
+```
+**value V="** **A04.70"/>**  **value V="** **A04.71"/>**
 **...**
-
-**</value_liste>**
+**value_liste**
+```
 
 **XML-Code 23:** value_list
 
@@ -1086,35 +1045,23 @@ Der XML-Code für ein Element <value> könnte folgendermaßen aussehen:
 
 **<bedingung>**
 
+```
 **<parameter V="ICD"/>**
-
 **<operator V="OR"/>**
-
 **<existenz V="TRUE"/>**
-
 **<value_liste>**
-
-**<value V="I20.0">**
-
-**<value V="I20.8">**
-
+**<value V="I20.0**
+**<value V="I20.8**
 **</value_liste>**
-
-**<subbedingung>**
-
+**subbedingung**
 **<parameter V="DS"/>**
-
 **<existenz V="TRUE"/>**
-
 **<value_liste>**
-
 **<value V="G"/>**
-
 **</value_liste>**
-
-**</subbedingung>**
-
+**subbedingung**
 **</bedingung>**
+```
 
 **XML-Code 24:** ICD-Code mit Diagnosensicherheit als Zusatzbedingung
 
@@ -1133,21 +1080,16 @@ Der XML-Code für ein Element <subbedingung> hat folgenden Aufbau:
 
 **<subbedingung>**
 
+```
 **<parameter V="DS"/>**
-
 **<operator V="AND"/>**
-
 **<existenz V="TRUE"/>**
-
 **<value_liste>**
-
 **<value V="Z"/>**
-
 **<value V="G"/>**
-
 **</value_liste>**
-
 **</subbedingung>**
+```
 
 **XML-Code 25:** subbedingung
 
@@ -1155,7 +1097,9 @@ Der XML-Code für ein Element <subbedingung> hat folgenden Aufbau:
 
 Das Element <pruefung> hält mit seinen Kindelementen <parameter>, <operator>, <existenz>,  <value_liste> und dem optionalen Element <subpruefung > eine generische Struktur zur Abbildung der  Kodierregel zugrundeliegenden Prüfung(en) bereit und erzeugt somit eine entsprechende Prüflogik.
 
-Das Element <pruefung> ähnelt im Aufbau und der Struktur dem Element <bedingung>. Mit der Ausnahme,  dass es statt dem Element <subbedingung > das Element <subpruefung > und statt dem Element <existenz>  das Element <pruefung_existenz> enthält. Alle weiteren Kindelemente sind analog zu Kapitel 5.19 bis 5.23  zu verwenden.
+Das Element <pruefung> ähnelt im Aufbau und der Struktur dem Element <bedingung>. Mit der Ausnahme,  dass es statt dem Element <subbedingung > das Element <subpruefung > und statt dem Element <existenz>  das Element <pruefung_existenz> enthält. Alle weiteren Kindelemente sind analog zu Kapitel 5.19 bis 5.23
+
+zu verwenden.
 
 
 ---
@@ -1166,33 +1110,24 @@ Der XML-Code für ein Element <pruefung> hat folgenden Aufbau:
 
 **<pruefung>**
 
+```
 **<parameter V="ICD" S=""/>1.2.276.0.76.3.1.1.5.2.16**
-
 **<operator V="AND"/>**
-
 **<existenz V="TRUE"/>**
-
 **<value_liste>**
-
 **...**
-
 **</value_liste>**
-
 **<subpruefung>**
-
 **...**
-
-**</subpruefung>**
-
+**subpruefung**
 **</pruefung>**
+```
 
 **XML-Code 26:** pruefung
 
 ## 5.26 PRUEFUNG_EXISTENZ
 
-Das Element <pruefung_existenz> definiert, ob ein Wert für den Prüfungsblock vorhanden oder nicht
-
-vorhanden .sein muss
+Das Element <pruefung_existenz> definiert, ob ein Wert für den Prüfungsblock vorhanden oder nicht  vorhanden .sein muss
 
 **Abbildung 28:** pruefung_existenz
 
@@ -1200,20 +1135,19 @@ Der XML-Code für das Element <pruefung_existenz> hat folgenden Aufbau:
 
 **<pruefung>**
 
+```
 **...**
-
 **<pruefung_existenz V="TRUE" />**
-
 **...**
-
-**</pruefung>**
+**pruefung**
+```
 
 **XML-Code 27:** pruefung_existenz
 
 
 ---
 
-| **Wert (** | **Bedeutung** |
+| Wert ( | Bedeutung |
 |---|---|
 | TRUE | Elemente |
 | FALSE | Elemente |
@@ -1230,19 +1164,15 @@ Der XML-Code für ein Element <subpruefung> hat folgenden Aufbau:
 
 **<subpruefung>**
 
+```
 **<parameter V="DS"/>**
-
 **<operator V="AND"/>**
-
 **<existenz V="TRUE"/>**
-
 **<value_liste>**
-
 **<value V="G"/>**
-
 **</value_liste>**
-
 **</subpruefung>**
+```
 
 **XML-Code 28:** subpruefung
 
@@ -1250,14 +1180,12 @@ Der XML-Code für ein Element <subpruefung> hat folgenden Aufbau:
 
 Das Element <fehlerbehandlung> ist ein Strukturelement, welches die notwendigen Informationen,  Hinweise und Vorschläge zur Fehlerbehandlung beinhaltet.
 
-Die Abarbeitung dieser Struktur setzt zwei Verarbeitungsschritte voraus:
+V="" ... prüft auf Existenz der Value- prüft auf Fehlen der Value-Die Abarbeitung dieser Struktur setzt zwei Verarbeitungsschritte voraus:
 
-V="" ... prüft auf Existenz der Value- prüft auf Fehlen der Value-
 
 ---
 
 - a) die Aussagen aller (Sub-)Bedingungen innerhalb der <bedingung> treffen zu (=WAHR),
-
 - b) die Aussagen aller (Sub-)Prüfungen innerhalb der <pruefung> (sofern vorhanden) treffen zu  (=WAHR).
 
 Neben den Hinweisen werden im Rahmen der Fehlerbehandlung zusätzlich Vorschläge zur Korrektur der  fehlerhaften Eingaben angeboten. In diesem Fall kommt das Element <korrektur> zum Einsatz, welches  einzelne Korrekturmaßnahmen umschließt.
@@ -1268,13 +1196,12 @@ Der XML-Code für die Struktur <fehlerbehandlung> hat folgenden Aufbau:
 
 **<fehlerbehandlung>**
 
+```
 **<hinweis V="..."/>**
-
 **<vorschlag V="..."/>**  **<korrektur>**    **...**
-
 **</korrektur>**
-
 **</>fehlerbehandlung**
+```
 
 **XML-Code 29:** fehlerbehandlung
 
@@ -1320,16 +1247,15 @@ Der XML-Code für die Struktur <korrektur> hat folgenden Aufbau:
 
 ---
 
-| **Wert (** | **Bedeutung** |
+| Wert ( | Bedeutung |
 |---|---|
 | ADD | Unter der value-Liste aufgeführte Parameter sollten in der |
 | DELETE | Der Anwender muss entscheiden, ob ein entsprechender |
-| **<parameter V="ICD" S="1.2.276.0.76.3.1.1.5.2.16"/>** |  |
+| **<parameter V="ICD" S="1.2.276.0.76.3.1.1.5.2.16"/>** | **DELETE** |
 |  |  |
 
-values (siehe Kapitel
+<korrektur> <regel V=" <value_liste>  ... </value_liste> <subkorrektur>         ...    </subkorrektur> </korrektur> XML-Code 32:  korrektur <parameter>: <regel>: <value_liste>: <subkorrektur>: 5.32 REGEL Das Element <regel> beschreibt die Korrekturmaßnahme insofern, dass der/die entsprechenden Parameter gelöscht, ersetzt oder ergänzt werden müssen. Definiert den Parametertyp der value Liste (siehe Kapitel 5.19 Das Element <regel> beschreibt die Korrektur-Maßnahme insofern, dass der/die entsprechenden Parameter gelöscht, ersetzt oder ergänzt werden müssen (siehe Kapitel 5.32 Klammerelement für die zur Auswahl gestellten Korrektur- 5.22 Analog zur <subbedingung> und <subpruefung> bestehend aus den Elementen <parameter> und <value_liste> (siehe Kapitel 5.19  und 5.22 Abbildung 34:  regel Der XML-Code für das Element <regel>: <regel V="ADD"/> XML-Code 33:  regel Für das V-Attribut sind folgende zulässige Inhalte definiert: V="" ... Dokumentation zu ergänzen vom Anwender ergänzt werden. Wert aus der Ergebnisanzeige entfernt werden kann.  values (siehe Kapitel
 
-<korrektur>    <regel V="DELETE"/> <value_liste>  ... </value_liste> <subkorrektur>         ...    </subkorrektur> </korrektur> XML-Code 32:  korrektur <parameter>: Definiert den Parametertyp der value Liste (siehe Kapitel 5.19) <regel>: Das Element <regel> beschreibt die Korrektur-Maßnahme insofern, dass der/die entsprechenden Parameter gelöscht, ersetzt oder ergänzt werden müssen (siehe Kapitel 5.32). <value_liste>: Klammerelement für die zur Auswahl gestellten Korrektur- 5.22) <subkorrektur>: Analog zur <subbedingung> und <subpruefung> bestehend aus den Elementen <parameter> und <value_liste> (siehe Kapitel 5.19 und 5.22).  5.32 REGEL Das Element <regel> beschreibt die Korrekturmaßnahme insofern, dass der/die entsprechenden Parameter gelöscht, ersetzt oder ergänzt werden müssen. Abbildung 34:  regel Der XML-Code für das Element <regel>: <regel V="ADD"/> XML-Code 33:  regel Für das V-Attribut sind folgende zulässige Inhalte definiert: V="" ... Dokumentation zu ergänzen vom Anwender ergänzt werden. Wert aus der Ergebnisanzeige entfernt werden kann.
 
 ---
 
@@ -1350,11 +1276,14 @@ Das Element <kurz_beschreibung> beinhaltet die fachliche Beschreibung der Kodier
 
 Der XML-Code für das Element <kurz_beschreibung>:
 
+```
 **kurz_beschreibung V=""/> Sachgerechte Kodierung eines Zustands nach akutem Myokardinfarkt**
+```
 
 **XML-Code 34:** kurz_beschreibung
 
-V="" ... Ersetzen einer identifizierten Diagnose verwendet werden.
+V="" ... Ersetzen einer identifizierten Diagnose verwendet werden.  
+
 
 ---
 
@@ -1372,6 +1301,4 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
-
-ehd – eHealthData Richtlinie: Grundstrukturen, Regeln und
+ehd – eHealthData Richtlinie: Grundstrukturen, Regeln und Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)

@@ -2,7 +2,10 @@
 
 ## Plausibilitätsrichtlinie
 
-## zur Prüfung der Dokumentationsdaten des strukturierten Behandlungsprogramms
+## zur Prüfung der Dokumentationsdaten
+
+## des strukturierten Behandlungsprogramms
+
 # KHK
 
 **Grundlage:**
@@ -10,6 +13,8 @@
 **Anlage 6 der DMP-A-RL**
 
 **gültig ab 01.04.2020**
+
+# Version: 4.0
 
 **Stand der Bearbeitung:**
 
@@ -19,14 +24,12 @@
 
 **01.04.2021**
 
-**Version: 4.0**
-
 
 ---
 
 #### Anlage 6: Datensatz für die indikationsspezifische Dokumentation: Koronare Herzkrankheit (KHK)
 
-| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
 |---|---|---|---|
 |  | **Ist in den indikationsübergreifenden Dokumentationsparametern gemäß** | | |
 |  | Anamnese- und Befunddaten | | |
@@ -40,7 +43,7 @@ Nr. sind die nachstehenden Felder der Anlage 2 entsprechend den Festlegungen der
 
 ---
 
-| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
 |---|---|---|---|
 |  |  |  | Die Angaben „Herzinfarkt“ |
 | 3a | Herzinfarkt innerhalb der letzten 12 | Ja / Nein | Pflichtfeld  Genau eine Angabe ist zulässig |
@@ -53,7 +56,7 @@ Nr. Monate wegen KHK seit der letzten Dokumentation  „Instabile Angina pectori
 
 ---
 
-| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
 |---|---|---|---|
 | 7 | Betablocker | Ja / Nein / Kontraindikation | Pflichtfeld;   Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich Erfolgt die Angabe „Ja“ ist keine weitere Ang   Die Angabe „ |
 | 8 | ACE-Hemmer | Ja / Nein / Kontraindikation | Pflichtfeld;   Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich   Die Angabe  Die Angabe „   Die Angabe „Kontraindikation“ kann auch alleine oder    Die Angabe „ |
@@ -64,7 +67,7 @@ Nr. Nein“ kann alleine oder gleichzeitig mit der Angabe „Kontraindikation“
 
 ---
 
-| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
 |---|---|---|---|
 | 9b | Aktuelle Therapiestrategie Statin | Feste Hochdosis | Bedingtes Pflichtfeld Genau eine Angabe ist zulässig.    Eine Angabe ist erforderlich   Eine Angabe ist nicht zulässig, wenn in |
 | 9c | Grund für moderate o | Aufdosierungsphase / LDL | Bedingtes Pflichtfeld Genau eine Angabe ist zulässig.   Eine Angabe ist erforderlich, wenn in Feld 9a die    Eine Angabe ist nicht zulässig, wenn in Feld 9a die Angabe |
@@ -78,7 +81,7 @@ Nr. -Strategie / Zielwert Strategie / Keine Strategie vereinbart -Zielwert der n
 
 ---
 
-| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
 |---|---|---|---|
 |  |  |  | zulässig |
 |  | Behandlungsplanung |  | |

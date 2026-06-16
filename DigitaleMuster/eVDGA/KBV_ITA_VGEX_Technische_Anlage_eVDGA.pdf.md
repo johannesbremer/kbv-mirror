@@ -55,13 +55,7 @@
 
 **FHIR®-DEFINITIONEN**
 
-Dateiname FHIR-Profile  Formularübergreifende Profile  spezifische Profile der elektronischen Verordnung digitaler Gesundheitsanwendungen 3.4 spezifische Valuesets und Codesysteme der elektronischen Verordnung digitaler
-
-Gesundheitsanwendungen  Vorgaben zur Verwendung der formularübergreifenden und spezifischen Profile 3.5.1 Allgemeine Vorgaben
-
-3.5.2 Erstellung der Instanz einer elektronischen Gesundheitsanwendungen
-
-1.1.2 Spezifische Vorgaben zum Umgang mit den Profilen einer elektronischen  Gesundheitsanwendungen-Verordnung
+Dateiname FHIR-Profile  Formularübergreifende Profile  spezifische Profile der elektronischen Verordnung digitaler Gesundheitsanwendungen 3.4 spezifische Valuesets und Codesysteme der elektronischen Verordnung digitaler  Gesundheitsanwendungen  Vorgaben zur Verwendung der formularübergreifenden und spezifischen Profile 3.5.1 Allgemeine Vorgaben  3.5.2 Erstellung der Instanz einer elektronischen Gesundheitsanwendungen 1.1.2 Spezifische Vorgaben zum Umgang mit den Profilen einer elektronischen  Gesundheitsanwendungen-Verordnung
 
 **ANFORDERUNGEN AN DAS SIGNIEREN DER ELEKTRONISCHEN VERORDNUNG DIGITALER**  **GESUNDHEITSANWENDUNGEN**
 
@@ -77,48 +71,18 @@ Gesundheitsanwendungen  Vorgaben zur Verwendung der formularübergreifenden und 
 
 **REFERENZIERTE DOKUMENTE**
 
-**7**
+**7**  **8**  **9**  9  10 10  11
 
-**8**
+11  11  -Verordnung 14  18
 
-**9**
-
-9  10
-
-10
-
-11
-
-11  11
-
--Verordnung 14
-
-18
-
-**24**
-
-**25**
-
-25  25
-
-**35**
-
-**54**
+**24**  **25**  25  25  **35**  **54**
 
 
 ---
 
 # TABELLENVERZEICHNIS
 
-Tabelle 1: KBV_PR_EVDGA_Bundle  Tabelle 2: KBV_PR_EVDGA_Composition
-
-Tabelle 3: KBV_PR_EVDGA_HealthAppRequest Tabelle 5: KBV_CS_EVDGA_Section_Type
-
-Tabelle 6: KBV_VS_EVDGA_Accident_Type
-
-Tabelle 7: Mapping KBV_PR_EVDGA_HealthAppRequest Tabelle 8: Referenzierte Instanzen KBV_PR_EVDGA_HealthAppRequest Tabelle 9: Mapping KBV_PR_EVDGA_Composition  Tabelle 10: Referenzierte Instanzen KBV_PR_EVDGA_Composition Tabelle 11: Mapping KBV_PR_EVDGA_Bundle
-
-Tabelle 12: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler  Gesundheitsanwendungen
+Tabelle 1: KBV_PR_EVDGA_Bundle  Tabelle 2: KBV_PR_EVDGA_Composition  Tabelle 3: KBV_PR_EVDGA_HealthAppRequest  Tabelle 5: KBV_CS_EVDGA_Section_Type  Tabelle 6: KBV_VS_EVDGA_Accident_Type  Tabelle 7: Mapping KBV_PR_EVDGA_HealthAppRequest Tabelle 8: Referenzierte Instanzen KBV_PR_EVDGA_HealthAppRequest Tabelle 9: Mapping KBV_PR_EVDGA_Composition  Tabelle 10: Referenzierte Instanzen KBV_PR_EVDGA_Composition Tabelle 11: Mapping KBV_PR_EVDGA_Bundle  Tabelle 12: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler  Gesundheitsanwendungen
 
 # ABBILDUNGSVERZEICHNIS
 
@@ -126,26 +90,24 @@ Abbildung 1: Exemplarischer „Ausdruck zur Einlösung
 
 Ihres E-Rezeptes Ihrer Verordnung: DIGA
 
-10  11  11  11  11  15  16  16  17  18 36
-
-27
+10  11  11  11  11  15  16  16  17  18  36 27
 
 
 ---
 
-\| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
-\| DOKUMENTENHISTORIE | Die Änderungen der Version 1.09 (gelb markiert) und 1.10 (grün markiert) | **Version** | **Datum** | **Autor** | **Änderung** |
-| DOKUMENTENHISTORIE | Die Änderungen der Version 1.09 (gelb markiert) und 1.10 (grün markiert) | **Version** | **Datum** | **Autor** | **Änderung** |
+\| Version | Datum | Autor | Änderung | Begründung | Seite |
+\| DOKUMENTENHISTORIE | Die Änderungen der Version 1.09 (gelb markiert) und 1.10 (grün markiert) | Version | Datum | Autor | Änderung |
+| DOKUMENTENHISTORIE | Die Änderungen der Version 1.09 (gelb markiert) und 1.10 (grün markiert) | Version | Datum | Autor | Änderung |
 |---|---|---|---|---|---|
-| 1.10 | 13.05.2026 | KBV | Anpassung des Patientenausdruckes Anpassung der Anforderung P62-15  Streichung der Anforderung P62-12 | Verbesserung der Pati- | 27    29  33 |
-| 1.09 | 09.02.2026 | KBV | Klarstellung der Bedingungen der Felder | eVerordnungs-über- | 42, 43    25, 26,  27, 29,  32, 32,  33, 33,  54 |
-| 1.08 | 18.12.2025 | KBV | Aktualisierung der Versionsnummer der      Anpassung der Bedingung des Feldes | Bereitstellung eines | 10, 11,  13    51 |
-| 1.07 | 25.03.2025 | KBV | Änderung der Anforderung P 35-21  Aufhebung der Streichung von Feld 52b |  | 14  18, 36 |
-| 1.06 | 24.02.2025 | KBV | Anpassungen der Versionsnummer der  Redaktionelle Anpassungen  Streichung der Extension  Aufnahme der Anforderung P35-14   Änderung der Anforderungen P 35-13,  Streichung der Anforderung P35-36  Anpassungen der Bedingungen der Fel- Umbenennung des Felds 19a Anpassung der Kardinalität der Felder 28 |  | 9, 10,  10, 11,  13  7, 9 **Fehler** 13  13, 14,  18, 20,  24 **Fehler** |
+| 1.10 | 13.05.2026 | KBV | Anpassung des Patientenausdruckes Anpassung der Anforderung P62-15  Streichung der Anforderung P62-12 | Verbesserung der Pati- | 27  29  33 |
+| 1.09 | 09.02.2026 | KBV | Klarstellung der Bedingungen der Felder | eVerordnungs-über- | 42, 43  25, 26,  27, 29,  32, 32,  33, 33,  54 |
+| 1.08 | 18.12.2025 | KBV | Aktualisierung der Versionsnummer der      Anpassung der Bedingung des Feldes | Bereitstellung eines | 10, 11,  13  51 |
+| 1.07 | 25.03.2025 | KBV | Änderung der Anforderung P35-21  Aufhebung der Streichung von Feld 52b |  | 14  18, 36 |
+| 1.06 | 24.02.2025 | KBV | Anpassungen der Versionsnummer der  Redaktionelle Anpassungen  Streichung der Extension  Aufnahme der Anforderung P35-14   Änderung der Anforderungen P35-13,  Streichung der Anforderung P35-36  Anpassungen der Bedingungen der Fel- Umbenennung des Felds 19a Anpassung der Kardinalität der Felder 28 |  | 9, 10,  10, 11,  13  7, 9 **Fehler** 13  13, 14,  18, 20,  24 **Fehler** |
 |  |  |  |  |  | **Begründung  Seite ** 1.10  13.05.2026  KBV  Anpassung des Patientenausdruckes Anpassung der Anforderung P62-15  Streichung der Anforderung P62-12  Verbesserung der Pati- |
-| 27 |  | 29 | 33 |  | 1.09  09.02.2026  KBV  Klarstellung der Bedingungen der Felder      eVerordnungs-über- 42, 43    25, 26, |
-|  | 27, 29, |  |  | 32, 32, | 33, 33, |
-| 54 |  | 1.08 | 18.12.2025  KBV  Aktualisierung der Versionsnummer der      Anpassung der Bedingung des Feldes  Bereitstellung eines  10, 11,  13    51  1.07 | 25.03.2025  KBV  Änderung der Anforderung P 35-21 | Aufhebung der Streichung von Feld 52b    14  18, 36  1.06  24.02.2025  KBV  Anpassungen der Versionsnummer der  Redaktionelle Anpassungen  Streichung der Extension  Aufnahme der Anforderung P35-14   Änderung der Anforderungen P 35-13,  Streichung der Anforderung P35-36  Anpassungen der Bedingungen der Fel- Umbenennung des Felds 19a Anpassung der Kardinalität der Felder 28    9, 10,  10, 11,  13 |
+| 27 |  | 29 | 33 |  | 1.09  09.02.2026  KBV  Klarstellung der Bedingungen der Felder      eVerordnungs-über- 42, 43  25, 26 |
+| , | 27 | , | 29, | 32, | 32,  33, 33, |
+| 54 |  | 1.08 | 18.12.2025  KBV  Aktualisierung der Versionsnummer der      Anpassung der Bedingung des Feldes  Bereitstellung eines  10, 11,  13  51  1.07 | 25.03.2025  KBV  Änderung der Anforderung P35-21 | Aufhebung der Streichung von Feld 52b    14  18, 36  1.06  24.02.2025  KBV  Anpassungen der Versionsnummer der  Redaktionelle Anpassungen  Streichung der Extension  Aufnahme der Anforderung P35-14   Änderung der Anforderungen P35-13,  Streichung der Anforderung P35-36  Anpassungen der Bedingungen der Fel- Umbenennung des Felds 19a Anpassung der Kardinalität der Felder 28    9, 10,  10, 11,  13 |
 |  |  |  |  |  | **Begründung  Seite ** 1.10  13.05.2026  KBV  Anpassung des Patientenausdruckes Anpassung der Anforderung P62-15  Streichung der Anforderung P62-12  Verbesserung der Pati- 27 |
 |  | 29 |  | 33 |  | 1.09 |
 
@@ -153,31 +115,31 @@ treten zum 01.07.2026 in Kraft. entenverständlichkeit 29, 36 greifende Vereinhe
 
 ---
 
-\| **Autor** | **Änderung** | **Begründung** | **Seite** | **defini** | 15, 36 |
-\| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+\| Autor | Änderung | Begründung | Seite | defini | 15 |
+\| Version | Datum | Autor | Änderung | Begründung | Seite |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-|  |  |  | 36  36 |  | 1.05  20.01.2025  KBV  Anpassungen der Versionsnummer der  Redaktionelle Anpassungen  Verzicht auf FHIRPath- |
-| 10, 11, |  |  |  | 36    7, 9, | 25, 36  1.04  04.11.2024  KBV  Anpassungen der Versionsnummer der  Ergänzung der Sonstigen Kostenträger Korrektur des FHIR- Vorbereitung der Nut- 10     16, 36  1.03  20.08.2024 |
-| KBV | Änderung der Anforderungen P 35-23, | Aufnahme der Anforderungen P35-36 | Streichung der Anforderung P62-02 und  Redaktionelle Korrekturen von Tabelle 6, |  | Tabelle 8 und Tabelle 11 (Block 50 und  Feld 61a)  Anpassung der Anforderungen P35-21,  Änderung von O35-34 in eine Pflicht- |
-| Anpassungen des Informationsmodells | Keine elektronische |  | Eine Verordnung pro  16, 19, |  | **Fehler** 21, 24, |
-| 36 |  |  | 15, 36    26    15, 16, |  | 36    14, 25,  30  20 |
-|  |  |  |  |  | **defini** 15, 36    36  36 |
-| 1.05 | 20.01.2025 | KBV | Anpassungen der Versionsnummer der  Redaktionelle Anpassungen | Verzicht auf FHIRPath- | 10, 11,  36    7, 9,  25, 36 |
-| 1.04 | 04.11.2024 | KBV | Anpassungen der Versionsnummer der  Ergänzung der Sonstigen Kostenträger | Korrektur des FHIR- Vorbereitung der Nut- | 10     16, 36 |
-| 1.03 | 20.08.2024 | KBV | Änderung der Anforderungen P 35-23,  Aufnahme der Anforderungen P35-36    Streichung der Anforderung P62-02 und  Redaktionelle Korrekturen von Tabelle 6,  Tabelle 8 und Tabelle 11 (Block 50 und  Feld 61a)  Anpassung der Anforderungen P35-21,  Änderung von O35-34 in eine Pflicht- Anpassungen des Informationsmodells | Keine elektronische    Eine Verordnung pro | 16, 19, **Fehler** 21, 24,  36    15, 36    26    15, 16,  36    14, 25,  30  20 |
-|  |  |  |  |  | **defini** 15, 36    36  36  1.05 |
-| 20.01.2025 | KBV | Anpassungen der Versionsnummer der | Redaktionelle Anpassungen | Verzicht auf FHIRPath- | 10, 11, |
+| , | 36 |  | 36  36 |  | 1.05  20.01.2025  KBV  Anpassungen der Versionsnummer der  Redaktionelle Anpassungen  Verzicht auf FHIRPath- |
+| 10 | , | 11 | , | 36  7 | , 9,  25, 36  1.04  04.11.2024  KBV  Anpassungen der Versionsnummer der  Ergänzung der Sonstigen Kostenträger Korrektur des FHIR- Vorbereitung der Nut- 10   16, 36  1.03  20.08.2024 |
+| KBV | Änderung der Anforderungen P35-23, | Aufnahme der Anforderungen P35-36 | Streichung der Anforderung P62-02 und  Redaktionelle Korrekturen von Tabelle | 6 | ,  Tabelle 8 und Tabelle 11 (Block 50 und  Anpassung der Anforderungen P35-21,  Änderung von O35-34 in eine Pflicht- |
+| Anpassungen des Informationsmodells | Keine elektronische |  | Eine Verordnung pro  16 | , | 19,  21, 24, |
+| 36 |  |  | 15, 36  26  15, 16 | , | 36  14, 25,  30  20 |
+|  |  |  |  |  | **defini** 15, 36  36  36 |
+| 1.05 | 20.01.2025 | KBV | Anpassungen der Versionsnummer der  Redaktionelle Anpassungen | Verzicht auf FHIRPath- | 10, 11,  36  7, 9,  25, 36 |
+| 1.04 | 04.11.2024 | KBV | Anpassungen der Versionsnummer der  Ergänzung der Sonstigen Kostenträger | Korrektur des FHIR- Vorbereitung der Nut- | 10   16, 36 |
+| 1.03 | 20.08.2024 | KBV | Änderung der Anforderungen P35-23,  Aufnahme der Anforderungen P35-36    Streichung der Anforderung P62-02 und  Redaktionelle Korrekturen von Tabelle 6,  Tabelle 8 und Tabelle 11 (Block 50 und  Anpassung der Anforderungen P35-21,  Änderung von O35-34 in eine Pflicht- Anpassungen des Informationsmodells | Keine elektronische    Eine Verordnung pro | 16, 19,  21, 24,  36    15, 36  26  15, 16,  36  14, 25,  30  20 |
+|  |  |  |  |  | **defini** 15, 36  36  36  1.05 |
+| 20.01.2025 | KBV | Anpassungen der Versionsnummer der | Redaktionelle Anpassungen | Verzicht auf FHIRPath- | 10 |
 
-FHIR-Profile FHIR-Profile P35-33 und P5-01 und P35-37 Aufnahme des Kennzeichens SER (Anfor- derungen P35-22) Anpassung der Anforderung P62-01 P62-01 und P62-08  funktion P35-34 (Anforderungen P35-13, P35-22, P35-23 und P35-31) ert. Funktion Low- Boundary() Profils KBV_PR_EVDGA_Bundl zung der FHIR-Profile für Versicherte der Verordnung zu Lasten von gesetzlichen Un- fallversicherungen, Textm sonstigen Kostenträ- arke gern und privaten nicht Krankenversicherun- ert. Ausdruck zur Einlösung
+FHIR-Profile FHIR-Profile P35-33 und P5-01 und P35-37 Aufnahme des Kennzeichens SER (Anfor- derungen P35-22) Anpassung der Anforderung P62-01 Feld 61a) P62-01 und P62-08  funktion P35-34 (Anforderungen P35-13, P35-22, P35-23 und P35-31) ert. Funktion Low- Boundary() Profils KBV_PR_EVDGA_Bundl zung der FHIR-Profile für Versicherte der Verordnung zu Lasten Fehler von gesetzlichen Un- fallversicherungen, Textm sonstigen Kostenträ- arke gern und privaten nicht Krankenversicherun- ert. Ausdruck zur Einlösung
 
 ---
 
-\| **Autor** | **Änderung** | **Begründung** | **Seite** | 13, 14, |  |
-\| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+\| Autor | Änderung | Begründung | Seite | 13 | , |
+\| Version | Datum | Autor | Änderung | Begründung | Seite |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-|  |  | 16, 18, |  | 35 | 0.90  12.10.2023  KBV  Erstellung der Spezifikation zur Kom- |
+| 14 | , | 16 | , 18, | 35 | 0.90  12.10.2023  KBV  Erstellung der Spezifikation zur Kom- |
 | alle |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
@@ -195,28 +157,12 @@ mentierung
 
 # 1 EINLEITUNG
 
-Der Gesetzgeber hat im Zuge des „Gesetzes für eine bessere Versorgung durch Digitalisierung und Innova-
-
-tion“ im Rahmen des § 33a SGB V festgelegt, dass Versicherte einen Leistungsanspruch auf Versorgung mit
-
-digitalen Gesundheitsanwendungen haben, welche Medizinprodukte niedriger Risikoklasse darstellen, de-
-
-ren Hauptfunktion wesentlich auf digitalen Technologien beruht und die dazu bestimmt sind, bei den Versi- cherten oder in der Versorgung durch Leistungserbringer die Erkennung, Überwachung, Behandlung oder  Linderung von Krankheiten oder die Erkennung, Behandlung, Linderung oder Kompensierung von Verlet-
-
-zungen oder Behinderungen zu unterstützen. Damit wurde der Kreis der auch digital verordnungsfähigen  Produkte und Leistungen gemäß § 86 SGB V Abs. 1 Satz 1 Nummer 2 auf digitale Gesundheitsanwendungen  erweitert. Die Vertragspartner des Bundesmantelvertrag-Ärzte (BMV-Ä) haben demgemäß entsprechende  Regelungen zu treffen, welche die Verordnung sonstiger in der vertragsärztlichen Versorgung verordnungs- fähiger Leistungen in elektronischer Form ermöglichen. Die generellen Vorgaben hierzu sind in der Anlage
-
-2b BMV-Ä [Anlage 2b] enthalten.
+Der Gesetzgeber hat im Zuge des „Gesetzes für eine bessere Versorgung durch Digitalisierung und Innova- tion“ im Rahmen des § 33a SGB V festgelegt, dass Versicherte einen Leistungsanspruch auf Versorgung mit  digitalen Gesundheitsanwendungen haben, welche Medizinprodukte niedriger Risikoklasse darstellen, de- ren Hauptfunktion wesentlich auf digitalen Technologien beruht und die dazu bestimmt sind, bei den Versi- cherten oder in der Versorgung durch Leistungserbringer die Erkennung, Überwachung, Behandlung oder  Linderung von Krankheiten oder die Erkennung, Behandlung, Linderung oder Kompensierung von Verlet- zungen oder Behinderungen zu unterstützen. Damit wurde der Kreis der auch digital verordnungsfähigen  Produkte und Leistungen gemäß § 86 SGB V Abs. 1 Satz 1 Nummer 2 auf digitale Gesundheitsanwendungen  erweitert. Die Vertragspartner des Bundesmantelvertrag-Ärzte (BMV-Ä) haben demgemäß entsprechende  Regelungen zu treffen, welche die Verordnung sonstiger in der vertragsärztlichen Versorgung verordnungs- fähiger Leistungen in elektronischer Form ermöglichen. Die generellen Vorgaben hierzu sind in der Anlage  2b BMV-Ä [Anlage 2b] enthalten.
 
 Um einen möglichst einheitlichen Prozess in den Arztpraxen zu ermöglichen, wird in der Technischen An- lage zur elektronischen Verordnung digitaler Gesundheitsanwendungen die elektronische Verordnung in  möglichst vielen Varianten unterstützt:
 
-- Elektronische Verordnungen digitaler Gesundheitsanwendungen zu Lasten der Berufsgenossenschaften  / Unfallkassen sind mit den hier definierten FHIR-Profilen möglich. Ob diese Anwendung finden, regelt
-
-- der Vertrag gemäß § 34 Absatz 3 SGB VII über die Durchführung der Heilbehandlung, die Vergütung der  Ärzte sowie die Art und Weise der Abrechnungen ärztlicher Leistungen.
-
-- Elektronische Verordnungen digitaler Gesundheitsanwendungen zu Lasten Sonstiger Kostenträger (SKT)  sind mit den hier definierten FHIR-Profilen möglich, sofern die Kostenträger dies unterstützen und in  den Verträgen mit der KBV und/oder den KVen regeln sowie die Kostenträger die Fachanwendungen der
-
-- TI unterstützen und für ihre Versicherten elektronische Gesundheitskarten (eGK) oder digitale Identitä- ten ausgestellt haben und entsprechend eine Versicherten-ID übertragen werden kann.
-
+- Elektronische Verordnungen digitaler Gesundheitsanwendungen zu Lasten der Berufsgenossenschaften  / Unfallkassen sind mit den hier definierten FHIR-Profilen möglich. Ob diese Anwendung finden, regelt  der Vertrag gemäß § 34 Absatz 3 SGB VII über die Durchführung der Heilbehandlung, die Vergütung der  Ärzte sowie die Art und Weise der Abrechnungen ärztlicher Leistungen.
+- Elektronische Verordnungen digitaler Gesundheitsanwendungen zu Lasten Sonstiger Kostenträger (SKT)  sind mit den hier definierten FHIR-Profilen möglich, sofern die Kostenträger dies unterstützen und in  den Verträgen mit der KBV und/oder den KVen regeln sowie die Kostenträger die Fachanwendungen der  TI unterstützen und für ihre Versicherten elektronische Gesundheitskarten (eGK) oder digitale Identitä- ten ausgestellt haben und entsprechend eine Versicherten-ID übertragen werden kann.
 - Eine elektronische Verordnung digitaler Gesundheitsanwendungen zu Lasten von privaten Krankenversi- cherungen ist mit den hier definierten FHIR-Profilen nicht möglich.
 
 Die Vorgaben zu den Prozessen und der technischen Architektur zur Übertragung der Verordnungen von  digitalen Gesundheitsanwendungen erfolgt dem gesetzlichen Auftrag folgend über die Telematikinfrastruk- tur (TI) und wird separat durch die gematik [gemF_eRp_DiGA] [gemSysL_eRp] definiert.
@@ -236,20 +182,21 @@ Dieses Dokument enthält Inhalte, die nicht in der Regelungshoheit der Partner d
 
 Die auszutauschenden Daten zwischen den beteiligten Systemen  definiert.
 
-- Die hierfür erforderlichen FHIR®-Definitionen sind in Kapitel 3 festgelegt.
-
+- Die hierfür erforderlichen FHIR®-Definitionen sind in Kapitel
 - Das Kapitel 2 enthält die Anforderungen an die Visualisierung und die Signatur.
-
 - Die Anforderungen an die Übertragung der Verordnung werden in
-
 - In Kapitel 4 sind weitere Vorgaben für Praxisverwaltungssysteme (PVS) beschrieben
-
 - Die zu übertragenden Inhalte sowie das Mapping auf die einzelnen FHIR® Kapitel 4 beschrieben.
 
-sind auf Basis des HL7 FHIR® R4 Standards -
+sind auf Basis des HL7 FHIR® R4 Standards
+
+- 3 festgelegt.
+
+```
+-
+```
 
 - Kapitel 3 genannt.
-
 - -Ressourcen werden in
 
 
@@ -257,47 +204,15 @@ sind auf Basis des HL7 FHIR® R4 Standards -
 
 # 3 FHIR®-DEFINITIONEN
 
-Die FHIR®-Spezifikation definiert eine Reihe von Basis-Ressourcen, welche in verschiedenen Bereichen des
+Die FHIR®-Spezifikation definiert eine Reihe von Basis-Ressourcen, welche in verschiedenen Bereichen des  Gesundheitswesens eingesetzt werden können. Für den Anwendungszweck der elektronischen Verordnung  digitaler Gesundheitsanwendungen wurden von den Partnern des Bundesmantelvertrag-Ärzte FHIR®-Pro- file erstellt, welche zum Teil von den deutschen Basis-Profilen und den KBV-Basisprofilen abgeleitet sind.  Folglich müssen diese Profile mit den deutschen Basis-Profilen und den KBV-Basisprofilen verwendet wer- den. Die FHIR®-Ressourcen und eine Zusammenstellung der in der FHIR®-Notation spezifizierten Elemente  [finden sich unter:](http://hl7.org/fhir/R4/)[http://hl7.org/fhir/R4/](http://hl7.org/fhir/R4/)[. Die deutschen FHIR®-Basisprofile sind nicht Gegenstand dieses](http://hl7.org/fhir/R4/) [Dokuments. Die Elemente dieser Profile sowie deren Kardinalitäten, Datentypen und weitere Eigenschaften](http://hl7.org/fhir/R4/) sind den FHIR®-XML-Definitionsdateien zu entnehmen [HL7-Basis-Profile
 
-Gesundheitswesens eingesetzt werden können. Für den Anwendungszweck der elektronischen Verordnung
+[Sie finden die Profile unter:](https://update.kbv.de/ita-update/DigitaleMuster/eVDGA/)[https://update.kbv.de/ita-update/DigitaleMuster/eVDGA/](https://update.kbv.de/ita-update/DigitaleMuster/eVDGA/)[sowie auf der Web-](https://update.kbv.de/ita-update/DigitaleMuster/eVDGA/) [seite Simplifier unter](https://simplifier.net/evdga)[https://simplifier.net/evdga](https://update.kbv.de/ita-update/DigitaleMuster/eVDGA/)
 
-digitaler Gesundheitsanwendungen wurden von den Partnern des Bundesmantelvertrag-Ärzte FHIR®-Pro-
+[In den definierten FHIR®-Profilen für die elektronische Verordnung digitaler Gesundheitsanwendungen](https://simplifier.net/evdga) kommen CodeSysteme und ValueSets zur Anwendung, welche nicht im Rahmen der elektronischen Verord- nung digitaler Gesundheitsanwendungen definiert und gepflegt werden. Diese CodeSysteme und ValueSets  müssen immer in der jeweils aktuellen und gültigen Fassung eingesetzt werden, ohne dass es einer Versi- onsänderung der Profile der elektronischen Verordnung digitaler Gesundheitsanwendungen bedarf. Die  [von der KBV verantworten übergreifenden CodeSysteme und ValueSets sind abrufbar unter](https://simplifier.net/kbvschluesseltabellen)[https://simpli-](https://simplifier.net/kbvschluesseltabellen) [fier.net/kbvschluesseltabellen](https://simplifier.net/kbvschluesseltabellen)
 
-file erstellt, welche zum Teil von den deutschen Basis-Profilen und den KBV-Basisprofilen abgeleitet sind.
+[Sollte eine Weiterentwicklung dieser Technischen Anlage zu Änderungen der FHIR®](https://simplifier.net/kbvschluesseltabellen)-Profile der elektroni- schen Verordnung digitaler Gesundheitsanwendungen und somit zu einer neuen Version der FHIR®-Profile  führen, dann wird das Inkrafttreten dieser Änderung - Stichtagsregelung oder Übergangsregelung - im Rah- men der Veröffentlichung definiert.
 
-Folglich müssen diese Profile mit den deutschen Basis-Profilen und den KBV-Basisprofilen verwendet wer-
-
-den. Die FHIR®-Ressourcen und eine Zusammenstellung der in der FHIR®-Notation spezifizierten Elemente
-
-finden sich unter: [http://hl7.org/fhir/R4/](http://hl7.org/fhir/R4/). Die deutschen FHIR®-Basisprofile sind nicht Gegenstand dieses  Dokuments. Die Elemente dieser Profile sowie deren Kardinalitäten, Datentypen und weitere Eigenschaften  sind den FHIR®-XML-Definitionsdateien zu entnehmen [HL7-Basis-Profile].
-
-Sie finden die Profile unter: [https://update.kbv.de/ita-update/DigitaleMuster/eVDGA/](https://update.kbv.de/ita-update/DigitaleMuster/eVDGA/) sowie auf der Web- seite Simplifier unter [https://simplifier.net/evdga](https://simplifier.net/evdga).
-
-In den definierten FHIR®-Profilen für die elektronische Verordnung digitaler Gesundheitsanwendungen  kommen CodeSysteme und ValueSets zur Anwendung, welche nicht im Rahmen der elektronischen Verord- nung digitaler Gesundheitsanwendungen definiert und gepflegt werden. Diese CodeSysteme und ValueSets
-
-müssen immer in der jeweils aktuellen und gültigen Fassung eingesetzt werden, ohne dass es einer Versi- onsänderung der Profile der elektronischen Verordnung digitaler Gesundheitsanwendungen bedarf. Die  von der KBV verantworten übergreifenden CodeSysteme und ValueSets sind abrufbar unter [https://simpli-](https://simpli-)
-
-fier.net/kbvschluesseltabellen.
-
-Sollte eine Weiterentwicklung dieser Technischen Anlage zu Änderungen der FHIR®-Profile der elektroni-
-
-schen Verordnung digitaler Gesundheitsanwendungen und somit zu einer neuen Version der FHIR®-Profile
-
-führen, dann wird das Inkrafttreten dieser Änderung - Stichtagsregelung oder Übergangsregelung - im Rah-
-
-men der Veröffentlichung definiert.
-
-Die Angabe der Profilversion im Element StructureDefinition.version erfolgt gemäß der FHIR-Versionierung
-
-basierend auf der Semantic-Versioning Syntax bestehend aus einer Major-Version, einer Minor-Version und
-
-einer Patch-Version: [MAJOR].[MINOR].[PATCH] (z.B. „1.2.0“) (FHIR Releases and Versioning). Das Referen-
-
-zieren der Profil-Version im eVDGA-FHIR-Projekt erfolgt ohne Angabe der Patch Version (z.B. „1.2“). Somit
-
-wird die in den FHIR-Instanzen referenzierte Profil-Version ohne Patch-Version angegeben. Durch das Weg- lassen der Patch-Version muss bei Versionserhöhungen aufgrund von kompatiblen Änderungen die Imple- mentierung der Erstellung der FHIR-Instanzen nicht angepasst werden, sofern die Erstellung bereits korrekt
-
-umgesetzt ist. Gleichzeitig ist die Nachvollziehbarkeit der Versionsnummer gegeben.
+Die Angabe der Profilversion im Element StructureDefinition.version erfolgt gemäß der FHIR-Versionierung  basierend auf der Semantic-Versioning Syntax bestehend aus einer Major-Version, einer Minor-Version und  einer Patch-Version: [MAJOR].[MINOR].[PATCH] (z.B. „1.2.0“) (FHIR Releases and Versioning). Das Referen- zieren der Profil-Version im eVDGA-FHIR-Projekt erfolgt ohne Angabe der Patch Version (z.B. „1.2“). Somit  wird die in den FHIR-Instanzen referenzierte Profil-Version ohne Patch-Version angegeben. Durch das Weg- lassen der Patch-Version muss bei Versionserhöhungen aufgrund von kompatiblen Änderungen die Imple- mentierung der Erstellung der FHIR-Instanzen nicht angepasst werden, sofern die Erstellung bereits korrekt  umgesetzt ist. Gleichzeitig ist die Nachvollziehbarkeit der Versionsnummer gegeben.
 
 ## 3.1 DATEINAME FHIR-PROFILE
 
@@ -305,62 +220,47 @@ Die Dateinamen der FHIR-Profile setzen sich wie folgt zusammen.
 
 - Kürzel_Kategorie_Thema_Bezeichnung
 
-Bedeutung: - Kürzel
+Bedeutung:
 
-- KBV steht für Kassenärztliche Bundesvereinigung und ist ein fester Wert - Kategorie
-
+- Kürzel
+- KBV steht für Kassenärztliche Bundesvereinigung und ist ein fester Wert
+- Kategorie
 - PR Profil
-
 - EX Extension
-
 - VS ValueSet
-
 - CS  CodeSystem
-
 - Thema
-
 - EVDGA steht für elektronische Gesundheitsanwendungen-Verordnung
 
 
 ---
 
 - FOR  steht für formularübergreifende Festlegungen
-
 - Bezeichnung - Bezeichnung für das entsprechende Thema
 
 **Beispiel:**
 
 - Dateiname: KBV_PR_FOR_Patient
-
-- URL: [https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient](https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient)
-
-- Abbildung der formularübergreifenden Patienteninformationen
+- [URL:](https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient)[https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient](https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient)[](https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient)
+- [Abbildung der formularübergreifenden Patienteninformationen](https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient)[](https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient)
 
 ## 3.2 FORMULARÜBERGREIFENDE PROFILE
 
-Die übergreifenden Profile, welche für alle elektronischen Verordnungen als FHIR® haben, sind im Technischen Handbuch Digitale Vordrucke [KBV_ITA_VGEX_Technisches_Handbuch_DiMus
+Die übergreifenden Profile, welche für alle elektronischen Verordnungen als FHIR®-Ressourcen Gültigkeit  haben, sind im Technischen Handbuch Digitale Vordrucke KBV_ITA_VGEX_Technisches_Handbuch_DiMus als FHIR®-Profile im Kapitel 4.2 „Übergreifende Regelungen für die Muster“ beschrieben.
 
-als FHIR®-Profile im Kapitel 4.2 „Übergreifende Regelungen für die Muster“ beschrieben.
-
-Für die elektronische Verordnung digitaler Gesundheitsanwendungen fenden Profile (inkl. der enthaltenen Extensions, CodeSysteme, ValueSets und NamingSysteme) der Version 1.2.1 zu verwenden:
+Für die elektronische Verordnung digitaler Gesundheitsanwendungen sind die folgenden formularübergrei- fenden Profile (inkl. der enthaltenen Extensions, CodeSysteme, ValueSets und NamingSysteme) der Version  1.2.1 zu verwenden:
 
 - KBV_PR_FOR_Patient gemäß P4-05
-
-- KBV_PR_FOR_Coverage gemäß P4-04
-
-- KBV_PR_FOR_Practitioner gemäß P4-01
-
-- KBV_PR_FOR_PractitionerRole gemäß P4-02
-
-- KBV_PR_FOR_Organization gemäß P4-03
+- KBV_PR_FOR_Coverage gemäß P4 04
+- [KBV_PR_FOR_Practitioner](https://simplifier.net/for/kbvprforpractitioner)[](https://simplifier.net/for/kbvprforpractitioner)gemäß P4 01
+- [KBV_PR_FOR_PractitionerRole](https://simplifier.net/for/kbvprforpractitioner)[](https://simplifier.net/for/kbvprforpractitionerrole)gemäß P4 02
+- [KBV_PR_FOR_Organization](https://simplifier.net/for/kbvprforpractitionerrole)[](https://simplifier.net/for/kbvprforpractitionerrole)[gemäß P4](https://simplifier.net/for/kbvprforpractitionerrole) 03
 
 ## 3.3 SPEZIFISCHE PROFILE DER ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUN- GEN
 
-Nachfolgend sind alle FHIR®-Profile gelistet, welche spezifisch für die Abbildung  nung digitaler Gesundheitsanwendungen notwendig sind. Diese Profile geben Auskunft darüber, wie die
+Nachfolgend sind alle FHIR®-Profile gelistet, welche spezifisch für die Abbildung der elektronischen Verord- nung digitaler Gesundheitsanwendungen notwendig sind. Diese Profile geben Auskunft darüber, wie die  Elemente mit welchen Erweiterungen sowie Einschränkungen zu verwenden sind, um die jeweilige Verord- nungssituation abzubilden. Die Identifikation der Profile erfolgt durch die Angabe einer kanonischen URL.
 
-Elemente mit welchen Erweiterungen sowie Einschränkungen zu verwenden sind, um die jeweilige Verord- nungssituation abzubilden. Die Identifikation der Profile erfolgt durch die Angabe einer kanon
-
-| **KBV_PR_EVDGA_BUNDLE** |  |
+| KBV_PR_EVDGA_BUNDLE |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_ |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/bundle.html |
@@ -368,24 +268,12 @@ Elemente mit welchen Erweiterungen sowie Einschränkungen zu verwenden sind, um 
 | Version | 1.2.2 |
 | Hinweis | Beinhaltet die Abbildung aller Instanzen der |
 
-**Tabelle 1: KBV_PR_EVDGA_Bundle**
-
--
-
--
-
--Ressourcen Gültigkeit
-
-sind die folgenden formularübergrei-
-
-der elektronischen Verord-
-
-Bundle zur Definition der gesamthaften Inhalte elektronischen Verordnung digitaler Gesundheitsanwendungen EVDGA_Bundle   der elektronischen Verordnung digi- benötigten Profile für die Inhalte der ischen URL.
+EVDGA_Bundle Bundle zur Definition der gesamthaften Inhalte der elektronischen Verordnung digi- elektronischen Verordnung digitaler Gesundheitsanwendungen benötigten Profile für die Inhalte der **Tabelle 1: KBV_PR_EVDGA_Bundle**
 
 
 ---
 
-| **KBV_PR_EVDGA_COMPOSITION** |  |
+| KBV_PR_EVDGA_COMPOSITION |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_EVDGA_Composition |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/composition.html |
@@ -394,7 +282,7 @@ Bundle zur Definition der gesamthaften Inhalte elektronischen Verordnung digital
 
 **Tabelle 2: KBV_PR_EVDGA_Composition**
 
-| **KBV_PR_EVDGA_HEALTHAPPREQUEST** |  |
+| KBV_PR_EVDGA_HEALTHAPPREQUEST |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_ |
 | FHIR®-Ressource | http://hl7.org/fhir/StructureDefinition/DeviceRequest |
@@ -407,7 +295,7 @@ Bundle zur Definition der gesamthaften Inhalte elektronischen Verordnung digital
 
 Die CodeSysteme definieren, welche Codes festgelegt wurden und was diese bedeuten. ValueSets hingegen  beinhalten einen Satz von Codes aus einem oder mehreren CodeSystem( in einem bestimmten Kontext verwendet werden können.
 
-| **KBV_CS_EVDGA_SECTION_TYPE** |  |
+| KBV_CS_EVDGA_SECTION_TYPE |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/CodeSystem/KBV_CS_ |
 | Definition | fils „ |
@@ -415,7 +303,7 @@ Die CodeSysteme definieren, welche Codes festgelegt wurden und was diese bedeute
 
 **Tabelle 4: KBV_CS_EVDGA_Section_Type**
 
-| **KBV_VS_EVDGA_ACCIDENT_TYPE** |  |
+| KBV_VS_EVDGA_ACCIDENT_TYPE |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/ValueSet/KBV_VS_EVDGA_Accident_Type |
 | Definition | Kennzeichnung der Art des Unfalls |
@@ -427,69 +315,44 @@ en), um anzugeben, welche Codes
 
 ## 3.5 VORGABEN ZUR VERWENDUNG DER FORMULARÜBERGREIFENDEN UND SPEZIFISCHEN PROFILE
 
-**3.5.1** **Allgemeine Vorgaben**
+**3.5.1**
 
-| **PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN** |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | **P35-11** | Verwendung der FOR- und EVDGA-Profile |
 
-Klammerung der fachlichen Daten für die elektronische Verordnung digitaler Ge- Darstellung der spezifischen Informationen der elektronischen Verordnung digitaler EVDGA_HealthAppRequest  Ausprägung der zulässigen Codes für das Element section.code.coding.code des Pro- KBV_PR_EVDGA_Composition EVDGA_Section_Type
+### Allgemeine Vorgaben
+
+Klammerung der fachlichen Daten für die elektronische Verordnung digitaler Ge- Darstellung der spezifischen Informationen der elektronischen Verordnung digitaler EVDGA_HealthAppRequest Ausprägung der zulässigen Codes für das Element section.code.coding.code des Pro- KBV_PR_EVDGA_Composition EVDGA_Section_Type
 
 ---
 
-Die spezifischen Profile der elektronischen Verordnung digitaler Gesundheitsanwendungen sowie die for-
-
-mularübergreifenden KBV-Profile müssen ohne jegliche Modifikation eingesetzt werden.
+Die spezifischen Profile der elektronischen Verordnung digitaler Gesundheitsanwendungen sowie die for- mularübergreifenden KBV-Profile müssen ohne jegliche Modifikation eingesetzt werden.
 
 **Begründung:**
 
-Die FHIR®-Spezifikation definiert eine Reihe von Basis-Ressourcen, welche in verschiedenen Bereichen des
+Die FHIR®-Spezifikation definiert eine Reihe von Basis-Ressourcen, welche in verschiedenen Bereichen des  Gesundheitswesens eingesetzt werden können. Diese wurden für den vorliegenden Anwendungsbereich  angepasst.
 
-Gesundheitswesens eingesetzt werden können. Diese wurden für den vorliegenden Anwendungsbereich
-
-angepasst.
-
-Für die Umsetzung der elektronischen Verordnung digitaler Gesundheitsanwendungen wurden KBV-Profile
-
-erstellt, welche zum Teil von den deutschen Basis-Profilen der FHIR®-Spezifikation abgeleitet sind. Die KBV- Profile geben Auskunft darüber, mit welchen Erweiterungen sowie Einschränkungen die FHIR®-Ressourcen
-
-zu verwenden sind.
+Für die Umsetzung der elektronischen Verordnung digitaler Gesundheitsanwendungen wurden KBV-Profile  erstellt, welche zum Teil von den deutschen Basis-Profilen der FHIR®-Spezifikation abgeleitet sind. Die KBV- Profile geben Auskunft darüber, mit welchen Erweiterungen sowie Einschränkungen die FHIR®-Ressourcen  zu verwenden sind.
 
 **Akzeptanzkriterium:**
 
-- 1. Für die Umsetzung der elektronischen Verordnung digitaler Gesundheitsanwendungen müssen die in - diesem Dokument genannten:
-
+- 1. Für die Umsetzung der elektronischen Verordnung digitaler Gesundheitsanwendungen müssen die in  diesem Dokument genannten:
 - KBV-Profile gemäß Kapitel 3.3
-
 - KBV-ValueSets gemäß Kapitel 3.4 und
-
 - KBV-CodeSysteme gemäß Kapitel 3.4
 
 eingesetzt werden.
 
-- 2. Zusätzlich müssen die formularübergreifenden KBV-Profile gemäß Kapitel 3.2 inklusive der enthaltenen
-
-- KBV-Extensions, KBV-ValueSets, KBV-NamingSysteme und KBV-CodeSysteme eingesetzt werden.
-
-- 3. Einschränkungen, Erweiterungen und jegliche Modifikationen der in Akzeptanzkriterien 1 und 2 genann-
-
-- ten Profile, Extensions, ValueSets, NamingSysteme und CodeSysteme sind nicht erlaubt.
-
-- 4. Die Vorgaben aus dem Technischen Handbuch Digitale Vordrucke [KBV_ITA_VGEX_Technisches_Hand-
-
-- buch_DiMus] im Kapitel 4.2 hinsichtlich des zu verwendenden Zeichensatzes sind einzuhalten.
+- 2. Zusätzlich müssen die formularübergreifenden KBV-Profile gemäß Kapitel 3.2 inklusive der enthaltenen  KBV-Extensions, KBV-ValueSets, KBV-NamingSysteme und KBV-CodeSysteme eingesetzt werden.
+- 3. Einschränkungen, Erweiterungen und jegliche Modifikationen der in Akzeptanzkriterien 1 und 2 genann- ten Profile, Extensions, ValueSets, NamingSysteme und CodeSysteme sind nicht erlaubt.
+- 4. Die Vorgaben aus dem Technischen Handbuch Digitale Vordrucke [KBV_ITA_VGEX_Technisches_Hand- buch_DiMus] im Kapitel 4.2 hinsichtlich des zu verwendenden Zeichensatzes sind einzuhalten.
 
 **HINWEIS**
 
-Die KBV-Profile bilden die Gesamtmenge von Attributen, die im Rahmen einer elektronischen Gesundheits- anwendungen-Verordnung vorliegen können. Die KBV-Profile sowie die darin enthaltenen Attribute sind
+Die KBV-Profile bilden die Gesamtmenge von Attributen, die im Rahmen einer elektronischen Gesundheits- anwendungen-Verordnung vorliegen können. Die KBV-Profile sowie die darin enthaltenen Attribute sind  immer dann zu verwenden, wenn die jeweilige Verordnungssituation diese zur Weiterverarbeitung benötigt  oder diese aus dem Kontext heraus erforderlich sind. Beispielsweise muss die Extension  KBV_EX_FOR_Accident nur dann verwendet werden, wenn die Verordnung im Kontext eines Unfalls er- folgt.
 
-immer dann zu verwenden, wenn die jeweilige Verordnungssituation diese zur Weiterverarbeitung benötigt
-
-oder diese aus dem Kontext heraus erforderlich sind. Beispielsweise muss die Extension  KBV_EX_FOR_Accident nur dann verwendet werden, wenn die Verordnung im Kontext eines Unfalls er-
-
-folgt.
-
-| **PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN** |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | **P35-12** | Umgang mit der Eigenschaft |
 
@@ -501,22 +364,18 @@ Eine wichtige Eigenschaft der KBV-Profile bildet "mustSupport". Hierbei handelt 
 
 **Akzeptanzkriterium:**
 
-- 1. Die Software, welche die Dateien erstellt, muss die mit „mustSupport“ gekennzeichneten FHIR®-Ele-
-
-„must Support“- mente (mustSupport value="true") in den KBV-Profilen unterstützen  befüllen und übermitteln können.
+„mustSupport“- 1. Die Software, welche die Dateien erstellt, muss die mit „mustSupport“ gekennzeichneten FHIR®-Ele- mente (mustSupport value="true") in den KBV-Profilen unterstützen  befüllen und übermitteln können.
 
 
 ---
 
-- 2. Die Software, welche FHIR-Dateien verarbeitet, muss die mit „must Support“ gekennzeichneten FHIR®
-
-- Elemente (mustSupport value="true") in den KBV-Profilen unterstützen  nen.
+- 2. Die Software, welche FHIR-Dateien verarbeitet, muss die mit „mustSupport“ gekennzeichneten FHIR® Elemente (mustSupport value="true") in den KBV-Profilen unterstützen  nen.
 
 **HINWEIS**
 
-- Konkrete Ausnahmen zu Akzeptanzkriterium 1 werden durch entsprechende Anforderungen definiert.
+- Konkrete Ausnahmen zu Akzeptanzkriterium
 
-| **PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN** |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | **P35-13** | Einsatz der deutschen Basis-Profile von HL7 sowie der KBV-Basis-Profile |
 
@@ -530,11 +389,10 @@ Da einige FHIR®-Profile von den deutschen Basis-Profilen von HL7 abgeleitet wur
 
 Die Software muss zur Validierung
 
-- 1.  die deutschen Basis-Profile von HL7 [HL7-Basis-Profile] in der Version 1.5.2
-
+- 1.  die deutschen Basis-Profile von HL7 [HL7-Basis-Profile
 - 2. sowie die KBV [KBV-Basis-Profile] in der Version 1.7.0 einbinden.
 
-| **PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN** |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | **P35-14** | Übergangsregelung für EVDGA-Verordnungsdatensätze in den Versionen 1. |
 
@@ -542,52 +400,45 @@ Die Vorgaben zur Übergangsregelung haben eine begrenzte Gültigkeit. Nach Ablau
 
 **Begründung:**
 
-Zum 1. Oktober 2025 wird die Aktualisierung der EVDGA ist es erforderlich, eine Übergangsregelung für den Fall zu schaffen, dass neben der gültigen Version 1.2.2  übergangsweise EVDGA-Verordnungsdatensätze in der Version 1.1.1 nach dem 1. Oktober 2025 akzeptiert
-
-werden.
+Zum 1. Oktober 2025 wird die Aktualisierung der EVDGA ist es erforderlich, eine Übergangsregelung für den Fall zu schaffen, dass neben der gültigen Version 1.2.2  übergangsweise EVDGA-Verordnungsdatensätze in  werden.
 
 **Akzeptanzkriterium**
 
 - 1. Die Übergangsregelung gilt vom 1. Oktober 2025 bis zum 31. März 2026.
-
 - a) Als entscheidendes Datum zur Feststellung der jeweils gültigen Vorgaben gilt das Datum der Ausstel- lung (im Profil KBV_PR_EVDGA_HealthAppRequest:DeviceRequest.authoredOn) des EVDGA nungsdatensatzes.
-
 - b) Im Zeitraum vom 1. Oktober 2025 bis zum 31. März 2026 werden EVDGA den Versionen 1.1.1 und 1.2.2 von den Krankenkassen verarbeitet.
-
-- 2. Nach dem Auslaufen der Übergangsregelung, ab dem 1. April 2026 (der Wert des Elementes gemäß Ak- zeptanzkriterium 1a) >= 01. April 2026), werden nur noch EVDGA 1.2.2 von den Krankenkassen verarbeitet. EVDGA-Verordnungsdatensätze in der Version 1.1.1 werden - als fehlerhaft abgewiesen.
+- 2. Nach dem Auslaufen der Übergangsregelung, ab dem 1. April 2026 (der Wert des Elementes gemäß Ak- zeptanzkriterium 1a) >= 01. April 2026), werden nur noch EVDGA 1.2.2 von den Krankenkassen verarbeitet. EVDGA als fehlerhaft abgewiesen.
 
 **HINWEIS**
 
 - auslesen und verarbeiten kön-
-
--
+- 1 werden durch entsprechende Anforderungen definiert.
 
 -Profile von HL7 sowie der
 
--FHIR-Profile eingeführt. In diesem Zusammenhang -
+- ] in der Version 1.5.2
+
+-FHIR-Profile eingeführt. In diesem Zusammenhang  der Version 1.1.1 nach dem 1. Oktober 2025 akzeptiert
+
+```
+-
+```
 
 - -Verord-
-
 - -Verordnungsdatensätze in
 
--
-
-2.2 - -Verordnungsdatensätze der Version
+2.2 - -Verordnungsdatensätze der Version  -Verordnungsdatensätze in der Version 1.1.1 werden
 
 
 ---
 
-Diese Funktion wird ebenso vom E-Rezept-Fachdienst der gematik und von den Softwaresystemen der
+Diese Funktion wird ebenso vom E-Rezept-Fachdienst der gematik und von den Softwaresystemen der  Krankenkassen umgesetzt.
 
-Krankenkassen umgesetzt.
-
-Verordnungen für Sonstige Kostenträger (z.B. Bundespolizei) können erst ab der Profilversion 1.2.2 ausge-
-
-stellt werden.
+Verordnungen für Sonstige Kostenträger (z.B. Bundespolizei) können erst ab der Profilversion 1.2.2 ausge- stellt werden.
 
 **3.5.2** **Erstellung der Instanz einer elektronischen Gesundheitsanwendungen-Verordnung**
 
-| **PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN** |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | **P35-21** | Erzeugung einer Instanz auf Basis der EVDGA |
 
@@ -595,39 +446,22 @@ Die Software erzeugt eine Instanz auf Basis der EVDGA-Profile und FOR-Profile im
 
 **Begründung:**
 
-Da der FHIR®-Standard die Übertragung der Instanzen im XML- sowie JSON-Format ermöglicht, ist eine
-
-Festlegung des zu verwendenden Formates für alle verarbeitenden Systeme notwendig, da so der Aufwand  im Rahmen der Umsetzung für alle Beteiligten verringert wird.
+Da der FHIR®-Standard die Übertragung der Instanzen im XML- sowie JSON-Format ermöglicht, ist eine  Festlegung des zu verwendenden Formates für alle verarbeitenden Systeme notwendig, da so der Aufwand  im Rahmen der Umsetzung für alle Beteiligten verringert wird.
 
 **Akzeptanzkriterium:**
 
-- 1. Die Software muss die Instanz der elektronischen Verordnung digitaler Gesundheitsanwendungen auf
-
-- Basis der spezifischen EVDGA-Profile (gemäß Kapitel 3) und der formularübergreifenden Profile (gemäß  Kapitel 2 [KBV_ITA_VGEX_Technisches_Handbuch_DiMus]) als eine Datei  sprich als vollständige In-
-
-- stanz des Profils KBV_PR_EVDGA_Bundle gemäß P35-24 - im XML-Format erstellen.
-
+- 1. Die Software muss die Instanz der elektronischen Verordnung digitaler Gesundheitsanwendungen auf  Basis der spezifischen EVDGA-Profile (gemäß Kapitel 3) und der formularübergreifenden Profile (gemäß  Kapitel 2 KBV_ITA_VGEX_Technisches_Handbuch_DiMus]) als eine Datei  sprich als vollständige In- stanz des Profils KBV_PR_EVDGA_Bundle gemäß P35-24 - im XML-Format erstellen.
 - 2. Die Software muss sicherstellen, dass als Identifikator des Versicherten im Profil KBV_PR_FOR_Patient  eine VersichertenID angeben wird, welche dem unveränderbaren Teil der Krankenversichertennummer  nach § 290 Absatz 1 Satz 2 entspricht.
-
-- 3. Die Software muss sicherstellen, dass in den Instanzen aller verwendeten EVDGA-Profile und FOR-Profile
-
-- das Element meta.profile genau einmal vorhanden ist, da der eRezept-Fachdienst der gematik die An-
-
-- gabe weiterer Profile nicht unterstützt und zurückweisen würde.
+- 3. Die Software muss sicherstellen, dass in den Instanzen aller verwendeten EVDGA-Profile und FOR-Profile  das Element meta.profile genau einmal vorhanden ist, da der eRezept-Fachdienst der gematik die An- gabe weiterer Profile nicht unterstützt und zurückweisen würde.
 
 **HINWEIS**
 
-- Die Informationen in einem Bundle bilden das eigentliche Dokument  die elektronische Verordnung
-
-- einer digitalen Gesundheitsanwendung.
-
+- Die Informationen in einem Bundle bilden das eigentliche Dokument  die elektronische Verordnung  einer digitalen Gesundheitsanwendung.
 - Der Inhalt des Bundles hängt immer von der jeweiligen Verordnungssituation ab.
-
 - Das Bundle enthält immer die Instanzen aller Profile, die direkt oder indirekt (über Referenzen in refe- renzierten Profilen) durch das Bundle selber oder durch die enthaltene Composition  (KBV_PR_EVDGA_Composition) referenziert werden.
-
 - Je Verordnung wird eine Instanz des Bundles KBV_PR_EVDGA_Bundle erstellt.
 
-| **PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN** |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | **P35-22** | Instanziierung KBV_PR_EVDGA_HealthAppRequest |
 
@@ -644,9 +478,9 @@ Die Software erzeugt eine Instanz auf Basis des Profils KBV_PR_EVDGA_HealthAppRe
 
 - 1. Das Mapping der Informationen aus  wie folgt erfolgen:
 
-| **KBV_PR_EVDGA_HEALTHAPPREQUEST** | | | |
+| KBV_PR_EVDGA_HEALTHAPPREQUEST | | | |
 |---|---|---|---|
-| **Daten** | **ID gemäß Ta- belle 11** | **FHIR®-Mapping** | **Bedingung  (Feldnr. = IDs gemäß Tabelle 11)** |
+| **Daten** | **ID gemäß  belle 11** | **FHIR®-Mapping** | **Bedingung  (Feldnr. = IDs gemäß Tabelle 11** |
 | Ausstellungsdatum | 80 | authoredOn |  |
 | SER | 84 | extension:SER.value[x]:value- Boolean |  |
 | Unfallinformationen | 72 | extension:Unfallinformationen |  |
@@ -659,41 +493,40 @@ Die Software erzeugt eine Instanz auf Basis des Profils KBV_PR_EVDGA_HealthAppRe
 
 **Tabelle 6: Mapping KBV_PR_EVDGA_HealthAppRequest**
 
-- 2. Die Software muss es ermöglichen, alle unter Akzeptanzkriterium - len.
-
+- 2. Die Software muss es ermöglichen, alle unter Akzeptanzkriterium
+- len.
 - a) Pflichtfelder sind unter Berücksichtigung der Vorgaben gemäß [
-
 - log_VDGA] zu befüllen.
-
 - b) Optionale Felder müssen befüllt werden können.
-
 - 3. Die Instanz des KBV_PR_EVDGA_HealthAppRequest muss die folgenden Instanzen referenzieren kön- nen:
+- Kapitel 4 auf das Profil KBV_PR_EVDGA_HealthAppRequest muss
 
-- Kapitel 4 auf das Profil KBV_PR_EVDGA_HealthAppRequest muss -
+```
+-
+```
 
 - 1 aufgeführten Datenfelder zu befül-
 
-daten (PZN) nen.extension:Unfallkennzei- chen.value[x]:valueCoding nen.extension:Unfalltag.va- lue[x]:valueDate nen.extension:Unfallbetrieb.va- lue[x]:valueString cept.text das Feld ID 73 gleich "1" oder "2" ist,  DANN  ist dieses Feld Pflicht. darf dieses Feld nicht übertra- gen werden. dieses Feld ein Datum enthält, DANN darf dieses nicht nach dem Ausstellungsdatum liegen. das Feld ID 73 gleich "2" ist, DANN  ist dieses Feld Pflicht. darf dieses Feld nicht übertra- gen werden. - EXT_ITA_VGEX_Anforderungskata-
+daten (PZN) Ta- nen.extension:Unfallkennzei- chen.value[x]:valueCoding nen.extension:Unfalltag.va- lue[x]:valueDate nen.extension:Unfallbetrieb.va- lue[x]:valueString cept.text das Feld ID 73 gleich "1" oder "2" ist,  DANN  ist dieses Feld Pflicht. darf dieses Feld nicht übertra- gen werden. dieses Feld ein Datum enthält, DANN darf dieses nicht nach dem Ausstellungsdatum liegen. das Feld ID 73 gleich "2" ist, DANN  ist dieses Feld Pflicht. darf dieses Feld nicht übertra- gen werden. - EXT_ITA_VGEX_Anforderungskata-
 
 
 ---
 
-- 1. Das Mapping der Informationen aus Kapitel 4 auf das Profil KBV_PR_EVDGA_Composition muss wie folgt  erfolgen:
+- 1. Das Mapping der Informationen aus Kapitel 4 erfolgen:
+- auf das Profil KBV_PR_EVDGA_Composition muss wie folgt
+- 2. Die Software muss es ermöglichen, alle unter Akzeptanzkriterium 1 len.
+- aufgeführten Datenfelder zu befül-
 
-- 2. Die Software muss es ermöglichen, alle unter Akzeptanzkriterium 1 aufgeführten Datenfelder zu befül-
-
-- len.
-
-| **KBV_PR_EVDGA_HEALTHAPPREQUEST** | | | |
+| KBV_PR_EVDGA_HEALTHAPPREQUEST | | | |
 |---|---|---|---|
-| **Referenzierte Instanz** | **ID gemäß Ta- belle 11** | **FHIR®-Element** | **Bedingung** |
-| KBV_PR_FOR_Coverage | 7 + 9-12 + | insurance.reference  = *<UUID der Instanz>* | Instanz gemäß P4-04 aus  sches_Handbuch_DiMus] |
-| KBV_PR_FOR_Patient | 19a-25 + 28- | subject.reference  = *<UUID der Instanz>* | Instanz gemäß P4-05 aus  sches_Handbuch_DiMus] |
-| KBV_PR_FOR_Practitioner | 41 + 42a/b/c | requester.reference  = *<UUID der Instanz>* | Instanz gemäß P4-01 aus  sches_Handbuch_DiMus] |
+| **Referenzierte Instanz** | **ID gemäß Ta-** | **FHIR®-Element** | **Bedingung** |
+| KBV_PR_FOR_Coverage | 7 + 9-12 + | insurance.reference  = *<UUID der Instanz>* | Instanz gemäß P4-04 aus  KBV_ITA_VGEX_Techni- ] |
+| KBV_PR_FOR_Patient | 19a-25 + 28- | subject.reference  = *<UUID der Instanz>* | Instanz gemäß P4-05 aus  KBV_ITA_VGEX_Techni- ] |
+| KBV_PR_FOR_Practitioner | 41 + 42a/b/c | requester.reference  = *<UUID der Instanz>* | Instanz gemäß P4-01 aus  KBV_ITA_VGEX_Techni- ] |
 
 **Tabelle 7: Referenzierte Instanzen KBV_PR_EVDGA_HealthAppRequest**
 
-| **PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN** |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | **P35-23** | Instanziierung KBV_PR_EVDGA_Composition |
 
@@ -705,135 +538,97 @@ Die Composition definiert die Gesamtheit von Informationen, die zu einem einzige
 
 **Akzeptanzkriterium:**
 
-| **KBV_PR_EVDGA_COMPOSITION** | | | |
+| KBV_PR_EVDGA_COMPOSITION | | | |
 |---|---|---|---|
 | **Daten** | **IDs gemäß  Tabelle 11** | **FHIR®-Mapping** | **Bedingung  (Feldnr. = IDs gemäß Tabelle 11)** |
 | Dokumententyp | 2 | type = „e16 |  |
 | Prüfnummer | 4 | author.type = „Device“    author.identifier | WENN         ANSONSTEN |
 | Kennzeichen Rechtsgrund- | 17 | extension:rechtsgrundlage.va- | WENN         ANSONSTEN |
 
-14-16 + 26 [KBV_ITA_VGEX_Techni- 33 + 35-38 [KBV_ITA_VGEX_Techni- + 44 - 49, 147 [KBV_ITA_VGEX_Techni- das Feld ID 7 gleich "GKV" oder „SKT“  oder "BG" oder "UK" ist,  DANN  ist dieses Feld Pflicht. ist dieses Feld optional. lue[x]:valueCoding.code das Feld ID 7 gleich "GKV" oder „SKT“  oder "BG" oder "UK" ist,  DANN  ist dieses Feld Pflicht. ist dieses Feld optional. **Tabelle 8: Mapping KBV_PR _EVDGA_Composition**
+belle 11 14-16 + 26 sches_Handbuch_DiMus 33 + 35-38 sches_Handbuch_DiMus + 44 - 49, 147 sches_Handbuch_DiMus das Feld ID 7 gleich "GKV" oder „SKT“  oder "BG" oder "UK" ist,  DANN  ist dieses Feld Pflicht. ist dieses Feld optional. lue[x]:valueCoding.code das Feld ID 7 gleich "GKV" oder „SKT“  oder "BG" oder "UK" ist,  DANN  ist dieses Feld Pflicht. ist dieses Feld optional. **Tabelle 8: Mapping KBV_PR _EVDGA Composition**
 
 
 ---
 
-- a) Pflichtfelder sind unter Berücksichtigung der Vorgaben gemäß [ log_VDGA] zu befüllen.
-
-- EXT_ITA_VGEX_Anforderungskata-
-
+- a) Pflichtfelder sind unter Berücksichtigung der Vorgaben gemäß [ log_VDGA
+- EXT_ITA_VGEX_Anforderungskata- ] zu befüllen.
 - b) Optionale Felder müssen befüllt werden können.
-
 - 3. Die Instanz des KBV_PR_EVDGA_Composition muss die folgenden Instanzen referenzieren können:
 
-| **KBV_PR_EVDGA_COMPOSITION** | | | |
+| KBV_PR_EVDGA_COMPOSITION | | | |
 |---|---|---|---|
-| **Referenzierte Instanz** | **ID gemäß Ta- belle 11** | **FHIR®-Element** | **Bedingung** |
+| **Referenzierte Instanz** | **ID gemäß Ta-** | **FHIR®-Element** | **Bedingung** |
 | KBV_PR_EVDGA_HealthAp | 72-75 + 77 + | section:Verordnung_e-   section:Verordnung_e- | Instanz gemäß P35-22 |
-| KBV_PR_FOR_Patient | 19a-25 + 28- | subject.reference = *<UUID der Instanz>* | Instanz gemäß P4-05 aus  sches_Handbuch_DiMus] |
-| KBV_PR_FOR_Practitioner | 41 + 42a/b/c | author.type = „Practitioner“    author.reference =   *<UUID der Instanz>* | Instanz gemäß P4-01 aus  sches_Handbuch_DiMus] |
-| KBV_PR_FOR_Practitioner | 51 + 52a/c | attester.party.reference = | Instanz gemäß P4-01 aus  sches_Handbuch_DiMus]    P35-31 ist zu berücksichtigen |
-| KBV_PR_FOR_Coverage | 7 + 9-12 + | section:Krankenversicherungs-   section:Krankenversicherungs- | Instanz gemäß P4-04 aus  sches_Handbuch_DiMus] |
-| KBV_PR_FOR_Organization | 61a/b/c/d/e | custodian.reference = *<UUID der  Instanz>* | Instanz gemäß P4-03 aus  sches_Handbuch_DiMus] |
-| KBV_PR_FOR_Practitioner- | 43 | section:ASV-Ausue- bung.code.coding.code =  „FOR_PractitionerRole“    section:ASV-Ausuebung.en- try.reference = *<UUID der In- stanz>* | Instanz gemäß P4-02 aus  sches_Handbuch_DiMus] |
+| KBV_PR_FOR_Patient | 19a-25 + 28- | subject.reference = *<UUID der Instanz>* | Instanz gemäß P4-05 aus  KBV_ITA_VGEX_Techni- ] |
+| KBV_PR_FOR_Practitioner | 41 + 42a/b/c | author.type = „Practitioner“    author.reference =   *<UUID der Instanz>* | Instanz gemäß P4-01 aus  KBV_ITA_VGEX_Techni- ] |
+| KBV_PR_FOR_Practitioner | 51 + 52a/c | attester.party.reference = | Instanz gemäß P4-01 aus  KBV_ITA_VGEX_Techni- ]    P35-31 ist zu berücksichtigen |
+| KBV_PR_FOR_Coverage | 7 + 9-12 + | section:Krankenversicherungs-   section:Krankenversicherungs- | Instanz gemäß P4-04 aus  KBV_ITA_VGEX_Techni- ] |
+| KBV_PR_FOR_Organization | 61a/b/c/d/e | custodian.reference = *<UUID der  Instanz>* | Instanz gemäß P4-03 aus  KBV_ITA_VGEX_Techni- ] |
+| KBV_PR_FOR_Practitioner- | 43 | section:ASV-Ausue- bung.code.coding.code =  „FOR_PractitionerRole“    section:ASV-Ausuebung.en- try.reference = *<UUID der In- stanz>* | Instanz gemäß P4-02 aus  KBV_ITA_VGEX_Techni- ] |
 
 **Tabelle 9: Referenzierte Instanzen KBV_PR_EVDGA_Composition**
 
-| **PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN** |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | **P35-24** | Instanziierung KBV_PR_EVDGA_Bundle |
 
-pRequest 80, 82-83 DiGA.code.coding.code = Prescription DiGA.entry.reference = 33 + 35-38 [KBV_ITA_VGEX_Techni- + 44 - 49, 147 [KBV_ITA_VGEX_Techni- 58, 149 [KBV_ITA_VGEX_Techni- 14-16 + 26 verhaeltnis.code.coding.code = verhaeltnis.entry.reference = [KBV_ITA_VGEX_Techni- - 71 [KBV_ITA_VGEX_Techni- [KBV_ITA_VGEX_Techni-Die Software erzeugt eine Instanz des Profils KBV_PR_EVDGA_Bundle.
+belle 11 pRequest 80, 82-83 DiGA.code.coding.code = Prescription DiGA.entry.reference = 33 + 35-38 sches_Handbuch_DiMus + 44 - 49, 147 sches_Handbuch_DiMus 58, 149 sches_Handbuch_DiMus 14-16 + 26 verhaeltnis.code.coding.code = verhaeltnis.entry.reference = sches_Handbuch_DiMus - 71 sches_Handbuch_DiMus sches_Handbuch_DiMusDie Software erzeugt eine Instanz des Profils KBV_PR_EVDGA_Bundle.
 
 
 ---
 
-- 1. Für die Übermittlung der elektronischen Verordnung digitaler Gesundheitsanwendungen muss die Soft-
-
-- ware ein Bundle gemäß KBV_PR_EVDGA_Bundle mit den vollständigen Instanzen der erforderlichen  KBV-Profile erstellen können.
-
-- a) Dieses Profil muss unter dem FHIR Element „entry.resource“ zuerst die Instanz des Profils
-
-- KBV_PR_EVDGA_Composition sowie nachfolgend alle in der Instanz dieser Composition direkt oder  indirekt referenzierten Instanzen als eigene Elemente enthalten.
-
-- 2. Das Mapping der Informationen aus Kapitel 4 auf das Profil KBV_PR_EVDGA_Bundle muss wie folgt er-
-
-- folgen:
-
-- 3. Die Software muss sicherstellen, dass alle unter Akzeptanzkriterium 2 aufgeführten Datenfelder automa-
-
-- tisch befüllt werden.
-
-- 1. Die Software muss in dem Profil KBV_PR_EVDGA_Composition ermöglichen, dass neben der ausstellen-
-
-- den Person (über Element „author.reference“ und Element „author.type = „Practitioner“) auch die ver-
-
-- antwortliche Person (über Element „attester.party.reference hinterlegt werden kann.
-
+- 1. Für die Übermittlung der elektronischen Verordnung digitaler Gesundheitsanwendungen muss die Soft- ware ein Bundle gemäß KBV_PR_EVDGA_Bundle mit den vollständigen Instanzen der erforderlichen  KBV-Profile erstellen können.
+- a) Dieses Profil muss unter dem FHIR Element „entry.resource“ zuerst die Instanz des Profils  KBV_PR_EVDGA_Composition sowie nachfolgend alle in der Instanz dieser Composition direkt oder  indirekt referenzierten Instanzen als eigene Elemente enthalten.
+- 2. Das Mapping der Informationen aus Kapitel 4 auf das Profil KBV_PR_EVDGA_Bundle muss wie folgt er- folgen:
+- 3. Die Software muss sicherstellen, dass alle unter Akzeptanzkriterium 2 aufgeführten Datenfelder automa- tisch befüllt werden.
+- 1. Die Software muss in dem Profil KBV_PR_EVDGA_Composition ermöglichen, dass neben der ausstellen- den Person (über Element „author.reference“ und Element „author.type = „Practitioner“) auch die ver- antwortliche Person (über Element „attester.party.reference hinterlegt werden kann.
 - a) Dies darf nur dann erfolgen, wenn in der Instanz des referenzierten Profils der ausstellenden Person  (Element „author.reference“ und Element „author.type = „Practitioner“ im Profil
 
 **Begründung:**
 
-Das Bundle ermöglicht das Zusammentragen von KBV-Profilen mit Kontext in einer einzigen Instanz. In
+Das Bundle ermöglicht das Zusammentragen von KBV-Profilen mit Kontext in einer einzigen Instanz. In  FHIR® wird dies als "Bündelung" der Ressourcen bezeichnet.
 
-FHIR® wird dies als "Bündelung" der Ressourcen bezeichnet.
-
-Das Bundle bildet die Grundlage für die Weiterverarbeitung und Übertragung der elektronischen Verord- nung digitaler Gesundheitsanwendungen in die TI gemäß den Vorgaben der gematik [gemSysL_eRp].
+Das Bundle bildet die Grundlage für die Weiterverarbeitung und Übertragung der elektronischen Verord- nung digitaler Gesundheitsanwendungen in die TI gemäß den Vorgaben der gematik [gemSysL_eRp
 
 **Akzeptanzkriterium:**
 
-| **KBV_PR_EVDGA_BUNDLE** | | | |
+| KBV_PR_EVDGA_BUNDLE | | | |
 |---|---|---|---|
 | **Daten** | **IDs gemäß  Tabelle 11** | **FHIR®-Mapping** | **Bedingung** |
-| Dokumenten-ID | 5 | identifier | gemäß den Vorgaben der gematik  nenten der TI    P35-32 ist zu berücksichtigen |
+| Dokumenten-ID | 5 | identifier | gemäß den Vorgaben der gematik  gemILF_PS_eRP] über die Kompo-   P35-32 ist zu berücksichtigen |
 
 **Tabelle 10: Mapping KBV_PR_EVDGA_Bundle**
 
 **3.5.3** **Spezifische Vorgaben zum Umgang mit den Profilen einer elektronischen Gesundheitsanwen-** **dungen-Verordnung**
 
-| **PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN** |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | **P35-31** | Abbildung verantwortliche Person in KBV_PR_EVDGA_ |
 
-Die elektronische Verordnung digitaler Gesundheitsanwendungen ermöglicht es neben der Person, welche
-
-die Verordnung ausstellt, auch zusätzlich eine für die Verordnung verantwortliche Person zu hinterlegen.
+Die elektronische Verordnung digitaler Gesundheitsanwendungen ermöglicht es neben der Person, welche  die Verordnung ausstellt, auch zusätzlich eine für die Verordnung verantwortliche Person zu hinterlegen.
 
 **Begründung:**
 
-Sofern es sich bei der die Verordnung ausstellende Person um einen Arzt in Weiterbildung handelt, ist es  ggfs. nötig, den zur Weiterbildung ermächtigten Arzt (im vertragsärztlichen Bereich und im Krankenhaus) zu
+Sofern es sich bei der die Verordnung ausstellende Person um einen Arzt in Weiterbildung handelt, ist es  ggfs. nötig, den zur Weiterbildung ermächtigten Arzt (im vertragsärztlichen Bereich und im Krankenhaus) zu  hinterlegen. Gleiches gilt im Rahmen von Vertretungssituationen. In Papierform ermöglicht bisher der Arzt- stempel eine Zuordnung zum verantwortlichen Vertragsarzt / Facharzt.
 
-hinterlegen. Gleiches gilt im Rahmen von Vertretungssituationen. In Papierform ermöglicht bisher der Arzt- stempel eine Zuordnung zum verantwortlichen Vertragsarzt / Facharzt.
-
-[gemILF_PS_eRP] über die Kompo- Composition **Akzeptanzkriterium:**
+nenten der TI Composition **Akzeptanzkriterium:**
 
 
 ---
 
-- KBV_PR_EVDGA_Composition) der Typ der ausstellenden Person (Element „qualifica-
-
-- tion.code.coding.value“ im Profil KBV_PR_FOR_Practitioner) mit dem Wert „03“ (Arzt in Weiterbil-
-
-- dung) oder „04“ (Arzt als Vertreter) belegt ist.
-
-- b) Dies darf nur dann erfolgen, wenn in der Instanz des referenzierten Profils der verantwortlichen Per-
-
-- son (Element „attester.party.reference“ im Profil KBV_PR_EVDGA_Composition) der Typ der verant- wortlichen Person (Element „qualification.code.coding.value“ im Profil KBV_PR_FOR_Practitioner)  nicht mit dem Wert „02“ oder „03“ belegt ist.
-
-- c) Dies muss erfolgen, wenn in der Instanz des referenzierten Profils der ausstellenden Person (Element  „author.reference“ und Element „author.type“ = „Practitioner“ im Profil KBV_PR_EVDGA_Composi- tion) der Typ der ausstellenden Person (Element „qualification.code.coding.value“ im Profil
-
-- KBV_PR_FOR_Practitioner) mit dem Wert „03“ (Arzt in Weiterbildung) belegt und kein Identifikator  (Element identifier im Profil KBV_PR_FOR_Practitioner) hinterlegt ist.
+- KBV_PR_EVDGA_Composition) der Typ der ausstellenden Person (Element „qualifica- tion.code.coding.value“ im Profil KBV_PR_FOR_Practitioner) mit dem Wert „03“ (Arzt in Weiterbil- dung) oder „04“ (Arzt als Vertreter) belegt ist.
+- b) Dies darf nur dann erfolgen, wenn in der Instanz des referenzierten Profils der verantwortlichen Per- son (Element „attester.party.reference“ im Profil KBV_PR_EVDGA_Composition) der Typ der verant- wortlichen Person (Element „qualification.code.coding.value“ im Profil KBV_PR_FOR_Practitioner)  nicht mit dem Wert „02“ oder „03“ belegt ist.
+- c) Dies muss erfolgen, wenn in der Instanz des referenzierten Profils der ausstellenden Person (Element  „author.reference“ und Element „author.type“ = „Practitioner“ im Profil KBV_PR_EVDGA_Composi- tion) der Typ der ausstellenden Person (Element „qualification.code.coding.value“ im Profil  KBV_PR_FOR_Practitioner) mit dem Wert „03“ (Arzt in Weiterbildung) belegt und kein Identifikator  (Element identifier im Profil KBV_PR_FOR_Practitioner) hinterlegt ist.
 
 **HINWEIS**
 
 - Die Angabe einer verantwortlichen Person ist in der zahnärztlichen Versorgung weder im Rahmen der  Weiterbildung noch im Vertretungsfall notwendig. Eine Klarstellung dieses Sachverhaltes ist in der Wei- terentwicklung der FHIR-Profile vorgesehen.
 
-| **PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN** |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | **P35-32** | Zu hinterlegender Identifikator in der Bundle-Instanz |
 
-Als Dokumenten-ID für einen Verordnungsdatensatz ist eine Rezept-ID, welche vom E-Rezept-Fachdienst
-
-der gematik bezogen wurde, als eindeutiger Identifikator im Bundle zu hinterlegen.
+Als Dokumenten-ID für einen Verordnungsdatensatz ist eine Rezept-ID, welche vom E-Rezept-Fachdienst  der gematik bezogen wurde, als eindeutiger Identifikator im Bundle zu hinterlegen.
 
 **Begründung:**
 
@@ -841,15 +636,9 @@ Durch die Verwendung einer Rezept-ID, welche vom E-Rezept-Fachdienst der gematik
 
 **Akzeptanzkriterium**
 
-- 1. Die Software muss für jede Instanz einer elektronische Gesundheitsanwendungen-Verordnung jeweils
+- 1. Die Software muss für jede Instanz einer elektronische Gesundheitsanwendungen-Verordnung jeweils  eine Rezept-ID der gematik gemäß der Anforderung A_19276 im Dokument [gemILF_PS_eRP] vom E- Rezept-Fachdienst der gematik abrufen und im Element „identifier“ in der Instanz des Profils  KBV_PR_EVDGA_Bundle hinterlegen.
 
-- eine Rezept-ID der gematik gemäß der Anforderung A_19276 im Dokument [gemILF_PS_eRP] vom E-
-
-- Rezept-Fachdienst der gematik abrufen und im Element „identifier“ in der Instanz des Profils
-
-- KBV_PR_EVDGA_Bundle hinterlegen.
-
-| **PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN** |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | **P35-33** | Vorgaben für die elektronische Verordnung zu Lasten einer gesetzlichen Unfallversicherung |
 
@@ -861,56 +650,35 @@ Die elektronische Verordnung von DiGA zu Lasten einer gesetzlichen Unfallversich
 
 **Akzeptanzkriterium:**
 
-- 4. Die Software muss die Erzeugung von FHIR-Instanz gemäß P35-21 zu Lasten der gesetzlichen Unfallversi-
-
-- cherung verhindern:
-
-- a) Die Software muss sicherstellen, dass das Element „type.coding.code“ im Profil
-
-- KBV_PR_FOR_Coverage nicht mit den Werten „BG“ oder „UK“ versehen werden kann.
+- 4. Die Software muss die Erzeugung von FHIR-Instanz gemäß P35-21 zu Lasten der gesetzlichen Unfallversi- cherung verhindern:
+- a) Die Software muss sicherstellen, dass das Element „type.coding.code“ im Profil  KBV_PR_FOR_Coverage nicht mit den Werten „BG“ oder „UK“ versehen werden kann.
 
 
 ---
 
 - b) Die Software muss sicherstellen, dass das Element „extension.extension.value[x]“ im Profil  KBV_PR_EVDGA_HealthAppRequest nicht mit den Werten „2“ (Arbeitsunfall) oder „4“ (Berufskrank- heit) versehen werden kann.
-
 - c) Die Software muss sicherstellen, dass das Element „payor.identifier.extension.value[x].value“ im Pro- fil KBV_PR_FOR_Coverage nicht angegeben werden kann.
 
-| **PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN** |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
-| **P 35-34** | Festlegung des Ausstellungsdatums zum Signaturzeitpunkt |
+| **P35-34** | Festlegung des Ausstellungsdatums zum Signaturzeitpunkt |
 
-Die Software muss sicherstellen, dass das in dem FHIR-Datensatz hinterlegte Ausstellungsdatum dem Da-
-
-tum der qualifizierten elektronischen Signatur entspricht. Wenn die beiden Datumsangaben zum Zeitpunkt
-
-der Signatur unterschiedlich sind, muss die Software das in dem FHIR-Datensatz hinterlegte Ausstellungsda-
-
-tum aktualisieren.
+Die Software muss sicherstellen, dass das in dem FHIR-Datensatz hinterlegte Ausstellungsdatum dem Da- tum der qualifizierten elektronischen Signatur entspricht. Wenn die beiden Datumsangaben zum Zeitpunkt  der Signatur unterschiedlich sind, muss die Software das in dem FHIR-Datensatz hinterlegte Ausstellungsda- tum aktualisieren.
 
 **Begründung**
 
-Um verschiedene Prozesse der Vorbereitung und Ausstellung von elektronischen Verordnungen digitaler
+Um verschiedene Prozesse der Vorbereitung und Ausstellung von elektronischen Verordnungen digitaler  Gesundheitsanwendungen durch die Mitarbeiter der Praxis zu unterstützen, muss es möglich sein, dass das  Ausstellungsdatum einer Verordnung zum tatsächlich Ausstellungszeitpunkt gesetzt wird bzw. gesetzt wer- den kann.
 
-Gesundheitsanwendungen durch die Mitarbeiter der Praxis zu unterstützen, muss es möglich sein, dass das  Ausstellungsdatum einer Verordnung zum tatsächlich Ausstellungszeitpunkt gesetzt wird bzw. gesetzt wer- den kann.
-
-Für eine valide Verordnung muss das Ausstellungsdatum dem Signaturdatum entsprechen. Wenn Ausstel- lungsdatum und Signaturzeitpunkt voneinander abweichen, wird der Verordnungsdatensatz vom E-Rezept-
-
-Fachdienst mit einem Fehler abgewiesen ([gemILF_PS_eRP] Anforderung A_22893).
+Für eine valide Verordnung muss das Ausstellungsdatum dem Signaturdatum entsprechen. Wenn Ausstel- lungsdatum und Signaturzeitpunkt voneinander abweichen, wird der Verordnungsdatensatz vom E-Rezept- Fachdienst mit einem Fehler abgewiesen ([gemILF_PS_eRP] Anforderung A_22893).
 
 **Akzeptanzkriterium:**
 
-- 1. Die Software prüft direkt vor der Anforderung einer Signatur gemäß P4-01, ob das Ausstellungsdatum
-
-- (DeviceRequest.authoredOn) in dem FHIR-Verordnungsdatensatz dem aktuellen Datum entspricht.
-
+- 1. Die Software prüft direkt vor der Anforderung einer Signatur gemäß P4-01, ob das Ausstellungsdatum  (DeviceRequest.authoredOn) in dem FHIR-Verordnungsdatensatz dem aktuellen Datum entspricht.
 - a) Sofern eine Abweichung vorliegt, aktualisiert das System automatisch das Ausstellungsdatum auf das  aktuelle Tagesdatum.
-
 - b) Im Anschluss startet automatisch der angeforderte Signaturvorgang.
-
 - 2. Die Datumsangabe muss in deutscher Zeit (Mitteleuropäische Zeitzone) erfasst werden.
 
-| **OPTIONALE FUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN** |  |
+| OPTIONALE FUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | **O35-35** | Festlegung der ausstellenden Person zum Signaturzeitpunkt |
 
@@ -918,48 +686,27 @@ Die Software darf zum Zeitpunkt der Anforderung der qualifizierten elektronische
 
 **Begründung**
 
-Um verschiedene Prozesse der Vorbereitung und Ausstellung von elektronischen Verordnungen digitaler
-
-Gesundheitsanwendungen durch die Mitarbeiter der Praxis zu unterstützen, muss es möglich sein, dass  zum Zeitpunkt der Ausstellung die korrekte ausstellende Person im FHIR-Verordnungsdatensatz gesetzt
-
-wird bzw. gesetzt werden kann
+Um verschiedene Prozesse der Vorbereitung und Ausstellung von elektronischen Verordnungen digitaler  Gesundheitsanwendungen durch die Mitarbeiter der Praxis zu unterstützen, muss es möglich sein, dass  zum Zeitpunkt der Ausstellung die korrekte ausstellende Person im FHIR-Verordnungsdatensatz gesetzt  wird bzw. gesetzt werden kann
 
 Für eine valide Verordnung muss, die im FHIR-Verordnungsdatensatz hinterlegte ausstellende Person iden- tisch mit der in der Signatur hinterlegten Person sein.
 
 **Akzeptanzkriterium:**
 
-- 1. Die Software ermöglicht es, direkt vor der Anforderung einer Signatur gemäß P4-01 die in dem FHIR-Ver-
-
-- ordnungsdatensatz hinterlegte ausstellende Person (unter Composition.author.reference referenzierte  Practioner-Instanz) durch den Anwender zu aktualisieren.
+- 1. Die Software ermöglicht es, direkt vor der Anforderung einer Signatur gemäß P4-01 die in dem FHIR-Ver- ordnungsdatensatz hinterlegte ausstellende Person (unter Composition.author.reference referenzierte  Practioner-Instanz) durch den Anwender zu aktualisieren.
 
 
 ---
 
-- a) Die Software darf ausschließlich die aktuell am System angemeldete Person, welche die Signatur  durchführen möchte, für die Aktualisierung der ausstellenden Person im FHIR-Verordnungsdatensatz - ermöglichen.
-
+- a) Die Software darf ausschließlich die aktuell am System angemeldete Person, welche die Signatur  durchführen möchte, für die Aktualisierung der ausstellenden Person im FHIR-Verordnungsdatensatz  ermöglichen.
 - b) Der Anwender bestätigt die Änderung.
-
-- c) Wenn die Bestätigung gemäß Akzeptanzkriterium 1.b) erfolgt, startet im Anschluss automatisch der
-
-- angeforderte Signaturvorgang.
-
-- d) Sofern keine Bestätigung der Änderung durch den Anwender gemäß Akzeptanzkriterium 1.b) erfolgt,
-
-- wird der Signaturvorgang mit einer entsprechenden Meldung für den Anwender abgelehnt.
-
-- 2. Die Software darf standardmäßig (nach Installation bzw. Bereitstellung der Funktion) eine automatische  Überschreibung der ausstellenden Person im FHIR-Verordnungsdatensatz ohne Einwilligung des Anwen-
-
-- ders nicht vornehmen.
-
-- 3. Die Software kann über geeignete Konfigurationseinstellungen eine automatische Aktualisierung der
-
-- ausstellenden Person im FHIR-Verordnungsdatensatz anbieten.
-
-- a) Auf eine Bestätigung gemäß Akzeptanzkriterium 1.b) kann verzichtet werden.
-
+- c) Wenn die Bestätigung gemäß Akzeptanzkriterium 1 b) erfolgt, startet im Anschluss automatisch der  angeforderte Signaturvorgang.
+- d) Sofern keine Bestätigung der Änderung durch den Anwender gemäß Akzeptanzkriterium 1 b) erfolgt,  wird der Signaturvorgang mit einer entsprechenden Meldung für den Anwender abgelehnt.
+- 2. Die Software darf standardmäßig (nach Installation bzw. Bereitstellung der Funktion) eine automatische  Überschreibung der ausstellenden Person im FHIR-Verordnungsdatensatz ohne Einwilligung des Anwen- ders nicht vornehmen.
+- 3. Die Software kann über geeignete Konfigurationseinstellungen eine automatische Aktualisierung der  ausstellenden Person im FHIR-Verordnungsdatensatz anbieten.
+- a) Auf eine Bestätigung gemäß Akzeptanzkriterium 1 b) kann verzichtet werden.
 - b) Standardmäßig (nach Installation bzw. Bereitstellung der Funktion) ist die automatische Aktualisie- rung zu deaktivieren.
 
-| **PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN** |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | **P35-37** | Vorgaben für die elektronische Verordnung zu Lasten einer privaten Krankenversicherung |
 
@@ -971,28 +718,29 @@ Die privaten Krankenversicherungen nehmen nicht am Verfahren der elektronischen 
 
 **Akzeptanzkriterium:**
 
-- 1. Die Software muss die Erzeugung von FHIR-Instanz gemäß P35-21 zu Lasten der privaten Krankenversi-
-
-- cherung verhindern:
-
+- 1. Die Software muss die Erzeugung von FHIR-Instanz gemäß P35-21 zu Lasten der privaten Krankenversi- cherung verhindern:
 - a) Die Software muss sicherstellen, dass das Element „type.coding.code“ im Profil  KBV_PR_FOR_Coverage nicht mit dem Wert „PKV“ versehen werden kann.
-
 - b) Die Software muss sicherstellen, dass das Element „identifier.type.coding.code“ im Profil  KBV_PR_FOR_Patient nicht mit dem Wert „PKV“ versehen werden kann.
-
 - c) Die Software muss sicherstellen, dass das Element „extension.value[x].system“ im Profil  KBV_PR_FOR_Composition nicht mit dem Wert „[https://fhir.kbv.de/CodeSys-](https://fhir.kbv.de/CodeSys-) tem/KBV_CS_SFHIR_KBV_PKV_TARIFF“ versehen werden kann.
-
 
 ---
 
+- 1. Die Software stellt sicher, dass die zu versendende Instanz auf Basis der EVDGA-Profile  sprich die In- stanz von KBV_PR_EVDGA_Bundle - mit einer qualifizierten elektronischen Signatur unter Verwendung  eines elektronischen Heilberufsausweises (eHBA) versehen wird.
+- 2. Der Anwender muss die folgenden Möglichkeiten haben:
+- a) Setzen einer Stapelsignatur auf die erzeugten Instanzen
+- b) Setzen einer Einzelsignatur auf die erzeugte Instanz
+- 3. Die Software muss eine Signaturerstellung mittels der Komponenten der TI (Basisfunktionalität des  Konnektors) ermöglichen und dabei alle zur Verfügung stehenden Signaturmodi (beispielweise einzelne  PIN-Eingabe und Komfortsignatur) unterstützen.
+- 4. Die weiteren Anforderungen an die Signatur sind den Vorgaben der gematik für die Fachanwendung E- Rezept [gemILF_PS_eRP] zu entnehmen.
+- 1. Der Anwender muss im Rahmen des Signaturvorgangs die Möglichkeit haben, sich die Inhalte einer oder  mehrerer zu signierenden Instanz(en) auf Basis des definierten Stylesheets eVDGA-Stylesheet] anzeigen  zu lassen.
+- 2. Die Software muss verhindern, dass ein unmittelbarer Ausdruck der xHTML-Repräsentation auf Basis  des Stylesheets [eVDGA-Stylesheet] ermöglicht wird.
+
 2 ANFORDERUNGEN AN DAS SIGNIEREN DER ELEKTRONISCHEN  VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN
 
-| **PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN** |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | **P4-01** | Auswahl der Signaturvarianten |
 
-Die Software stellt sicher, dass der Anwender die zu versendende elektronische Gesundheitsanwendungen-
-
-Verordnung entsprechend den Vorgaben des Bundesmantelvertrags-Ärzte Anlage 2b [Anlage 2b] signiert.
+Die Software stellt sicher, dass der Anwender die zu versendende elektronische Gesundheitsanwendungen- Verordnung entsprechend den Vorgaben des Bundesmantelvertrags-Ärzte Anlage 2b [Anlage 2b] signiert.
 
 **Begründung:**
 
@@ -1000,25 +748,7 @@ Aufgrund gesetzlicher Vorgaben ist der Einsatz einer qualifizierten elektronisch
 
 **Akzeptanzkriterium:**
 
-- 1. Die Software stellt sicher, dass die zu versendende Instanz auf Basis der EVDGA-Profile  sprich die In-
-
-- stanz von KBV_PR_EVDGA_Bundle - mit einer qualifizierten elektronischen Signatur unter Verwendung  eines elektronischen Heilberufsausweises (eHBA) versehen wird.
-
-- 2. Der Anwender muss die folgenden Möglichkeiten haben:
-
-- a) Setzen einer Stapelsignatur auf die erzeugten Instanzen
-
-- b) Setzen einer Einzelsignatur auf die erzeugte Instanz
-
-- 3. Die Software muss eine Signaturerstellung mittels der Komponenten der TI (Basisfunktionalität des
-
-- Konnektors) ermöglichen und dabei alle zur Verfügung stehenden Signaturmodi (beispielweise einzelne  PIN-Eingabe und Komfortsignatur) unterstützen.
-
-- 4. Die weiteren Anforderungen an die Signatur sind den Vorgaben der gematik für die Fachanwendung E-
-
-- Rezept [gemILF_PS_eRP] zu entnehmen.
-
-| **PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN** |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | **P4-02** | Darstellung der xHTML-Repräsentation vor Signierung |
 
@@ -1026,18 +756,9 @@ Die Software stellt sicher, dass der Anwender sich vor der Signierung die origin
 
 **Begründung:**
 
-Aufgrund gesetzlicher Vorgaben ist der Einsatz einer qualifizierten elektronischen Signatur im Rahmen der  Erstellung einer elektronischen Gesundheitsanwendungen-Verordnung notwendig. Der Anwender muss  dabei durch die Software in die Lage versetzt werden, sich die zu signierenden Inhalte der elektronischen  Verordnung digitaler Gesundheitsanwendungen vollständig in einer einheitlichen Art und Weise anzeigen
-
-zu lassen.
+Aufgrund gesetzlicher Vorgaben ist der Einsatz einer qualifizierten elektronischen Signatur im Rahmen der  Erstellung einer elektronischen Gesundheitsanwendungen-Verordnung notwendig. Der Anwender muss  dabei durch die Software in die Lage versetzt werden, sich die zu signierenden Inhalte der elektronischen  Verordnung digitaler Gesundheitsanwendungen vollständig in einer einheitlichen Art und Weise anzeigen  zu lassen.
 
 **Akzeptanzkriterium:**
-
-- 1. Der Anwender muss im Rahmen des Signaturvorgangs die Möglichkeit haben, sich die Inhalte einer oder  mehrerer zu signierenden Instanz(en) auf Basis des definierten Stylesheets [eVDGA-Stylesheet] anzeigen - zu lassen.
-
-- 2. Die Software muss verhindern, dass ein unmittelbarer Ausdruck der xHTML-Repräsentation auf Basis
-
-- des Stylesheets [eVDGA-Stylesheet] ermöglicht wird.
-
 
 ---
 
@@ -1045,18 +766,15 @@ zu lassen.
 
 - Die Software kann dem Anwender bei der Verwendung der Stapelsignatur anhand eines selbstgewähl- ten Algorithmus einzelne Instanzen anzeigen, und so die Prüfung erleichtern.
 
-
 ---
 
 3 ÜBERTRAGUNG DER ELEKTRONISCHEN VERORDNUNG DIGITALER  GESUNDHEITSANWENDUNGEN
 
-| **PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN** |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
-| **P5-01** | nung |
+| **P5-01** | Umsetzung der Vorgaben der gematik zur |
 
-Die Übertragung der elektronischen Verordnung digitaler Gesundheitsanwendungen erfolgt in der TI über
-
-die Fachanwendung E-Rezept. Die Software des Anwenders setzt dazu die definierten Anforderungen der  gematik zum E-Rezept um.
+Die Übertragung der elektronischen Verordnung digitaler Gesundheitsanwendungen erfolgt in der TI über  die Fachanwendung E-Rezept. Die Software des Anwenders setzt dazu die definierten Anforderungen der  gematik zum E-Rezept um.
 
 **Begründung:**
 
@@ -1064,45 +782,17 @@ Gemäß § 312 Absatz 1 Punkt 7 SGB V hat die gematik die Maßnahmen durchzufüh
 
 **Akzeptanzkriterium:**
 
-- 1. Die Software setzt die Vorgaben der gematik gemäß [gemILF_PS_eRP] für die Übermittlung der elektro-
-
-- nischen Verordnung digitaler Gesundheitsanwendungen im Rahmen der Fachanwendung E-Rezept in - der TI um.
-
-- 2. Die Software muss sicherstellen, dass der Versand einer elektronischen Gesundheitsanwendungen-Ver-
-
-- ordnung über die Fachanwendung E-Rezept nicht erfolgt, wenn der Versicherte bei einem „Sonstigen
-
-- Kostenträger“ versichert ist und für den Versicherten keine VersichertenID vorliegt (Informationsmodell
-
-- Nr. 19a). In diesem Fall erfolgt weiterhin eine Ausstellung eines Papier-Rezeptes (Muster 16) nach den
-
-- bestehenden Vorgaben  insbesondere [EXT_ITA_VGEX_Anforderungskatalog_VDGA] und [Anlage 2].
-
-- a) Identifizierung eines „Sonstigen Kostenträgers“:
-
-- Die Seriennummer der VKNR (siehe [SDKT]) ist immer >= 800 und der Kostenträger-Abrechnungsbe-
-
-- reich kann 00 - 09 sein.  **Beispiel:** Bundespolizei Zentr. Abr. Heilfürsorge, VKNR: 74860, Seriennummern-Kontingent 860 - 861
-
-- (= Kassenart „Bundespolizei (BPOL)“) = Sonstiger Kostenträger.
-
-- 3. Die Software muss sicherstellen, dass der Versand einer elektronischen Gesundheitsanwendungen-Ver-
-
-- ordnung über die Fachanwendung E-Rezept nicht erfolgt, wenn die Verordnung zu Lasten der gesetzli- chen Unfallversicherung erfolgt.
-
-- 4. Die Software muss sicherstellen, dass der Versand einer elektronischen Gesundheitsanwendungen-Ver-
-
-- ordnung über die Fachanwendung E-Rezept nicht erfolgt, wenn die Verordnung zu Lasten einer privaten  Krankenversicherung erfolgt.
+- 1. Die Software setzt die Vorgaben der gematik gemäß [gemILF_PS_eRP] für die Übermittlung der elektro- nischen Verordnung digitaler Gesundheitsanwendungen im Rahmen der Fachanwendung E-Rezept in  der TI um.
+- 2. Die Software muss sicherstellen, dass der Versand einer elektronischen Gesundheitsanwendungen-Ver- ordnung über die Fachanwendung E-Rezept nicht erfolgt, wenn der Versicherte bei einem „Sonstigen  Kostenträger“ versichert ist und für den Versicherten keine VersichertenID vorliegt (Informationsmodell  Nr. 19a). In diesem Fall erfolgt weiterhin eine Ausstellung eines Papier-Rezeptes (Muster 16) nach den  bestehenden Vorgaben  insbesondere [EXT_ITA_VGEX_Anforderungskatalog_VDGA] und [Anlage 2
+- a) Identifizierung eines „Sonstigen Kostenträgers“:   Die Seriennummer der VKNR (siehe [SDKT]) ist immer >= 800 und der Kostenträger-Abrechnungsbe- reich kann 00 - 09 sein.  **Beispiel:** Bundespolizei Zentr. Abr. Heilfürsorge, VKNR: 74860, Seriennummern-Kontingent 860 - 861  (= Kassenart „Bundespolizei (BPOL)“) = Sonstiger Kostenträger.
+- 3. Die Software muss sicherstellen, dass der Versand einer elektronischen Gesundheitsanwendungen-Ver- ordnung über die Fachanwendung E-Rezept nicht erfolgt, wenn die Verordnung zu Lasten der gesetzli- chen Unfallversicherung erfolgt.
+- 4. Die Software muss sicherstellen, dass der Versand einer elektronischen Gesundheitsanwendungen-Ver- ordnung über die Fachanwendung E-Rezept nicht erfolgt, wenn die Verordnung zu Lasten einer privaten  Krankenversicherung erfolgt.
 
 **HINWEIS**
 
-Gemäß dem Anforderungskatalog für Verordnungssoftware [EXT_ITA_VGEX_Anforderungskatalog_VDGA]
+Gemäß dem Anforderungskatalog für Verordnungssoftware EXT_ITA_VGEX_Anforderungskatalog_VDGA muss die Software die Verordnung auf Muster 16 in Papierform weiter ermöglichen. Im Kontext der Verord- nung von DiGA greift dies insbesondere im Rahmen von technischen Störungen oder bei mobilen Versor- gungssituationen, wie bspw. Haus- und Heimbesuchen.
 
-muss die Software die Verordnung auf Muster 16 in Papierform weiter ermöglichen. Im Kontext der Verord-
-
-nung von DiGA greift dies insbesondere im Rahmen von technischen Störungen oder bei mobilen Versor- gungssituationen, wie bspw. Haus- und Heimbesuchen.
-
-Umsetzung der Vorgaben der gematik zur elektronischen Gesundheitsanwendungen-Verord-
+elektronischen Gesundheitsanwendungen-Verord- nung 
 
 
 ---
@@ -1111,7 +801,7 @@ Umsetzung der Vorgaben der gematik zur elektronischen Gesundheitsanwendungen-Ver
 
 **4.1** **ÜBERGREIFENDE ANFORDERUNGEN**
 
-| **PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN** |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | **P61-01** | Erstellung von validen Dateien in der Software |
 
@@ -1119,21 +809,20 @@ Die Software muss sicherstellen, dass die erstellte und zu versendende  len ents
 
 **Begründung:**
 
-Für die fehlerfreie Weiterverarbeitung der elektronischen Verordnung digitaler Gesundheitsanwendungen in den nachfolgenden Systemen muss eine valide FHIR®-Instanz erstellt werden.
+Für die fehlerfreie Weiterverarbeitung der elektronischen Verordnung digitaler Gesundheitsanwendungen in den nachfolgenden Systemen muss eine valide FHIR®
 
 **Akzeptanzkriterium:**
 
-- 1. Die Software stellt auf geeignete Weise sicher, dass die erzeugten, zu signierenden und zu versenden- den Dateien valide sind und den EVDGA-FHIR-Profilen [EVDGA-Profile] entsprechen.
-
+- 1. Die Software stellt auf geeignete Weise sicher, dass die erzeugten, zu signierenden und zu versenden- den Dateien valide sind und den EVDGA-FHIR-Profilen [
 - 2. Die Software stellt sicher, dass bei der Erstellung der  gen des Informationsmodells eingehalten werden.
 
 **HINWEIS**
 
-- Zum Zwecke der Qualitätssicherung während des gesamten Entwicklungsprozesses von FHIR gen kann beispielweise der TI-Validator [https://fachportal.gematik.de/hersteller](https://fachportal.gematik.de/hersteller) teme/referenzvalidator verwendet werden.
+- Zum Zwecke der Qualitätssicherung während des gesamten Entwicklungsprozesses von FHIR [gen kann beispielweise der TI-Validator](https://fachportal.gematik.de/hersteller-anbieter/primaersysteme/referenzvalidator)[https://fachportal.gematik.de/hersteller](https://fachportal.gematik.de/hersteller-anbieter/primaersysteme/referenzvalidator) [teme/referenzvalidator](https://fachportal.gematik.de/hersteller-anbieter/primaersysteme/referenzvalidator)[verwendet werden.](https://fachportal.gematik.de/hersteller-anbieter/primaersysteme/referenzvalidator)
 
 **4.2** **BEREITSTELLUNG EINES PATIENTENAUSDRUCKS**
 
-| **PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN** |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | **P62-01** | Bereitstellung eines „Ausdruck zur Einlösung |
 
@@ -1141,39 +830,33 @@ Die Software muss die Möglichkeit eines Ausdrucks der Informationen zu einer el
 
 **Begründung:**
 
-Auf Wunsch des Versicherten muss die Einlösung einer elektronischen Gesundheitsanwendungen-Verord-
-
-nung durch den Erhalt eines Freischaltcodes von der Krankenkasse auch ohne Nutzung von digitalen An- wendungen und zusätzlicher Hardware möglich sein. Sofern ein Versicherter  gen-Verordnung nicht elektronisch verwalten kann oder möchte, erfolgt die Einlösung anhand eines ein- heitlichen Ausdrucks auf Basis des darauf enthaltenen 2D-Codes.
+Auf Wunsch des Versicherten muss die Einlösung einer elektronischen Gesundheitsanwendungen-Verord- nung durch den Erhalt eines Freischaltcodes von der Krankenkasse auch ohne Nutzung von digitalen An- wendungen und zusätzlicher Hardware möglich sein. Sofern ein Versicherter  gen-Verordnung nicht elektronisch verwalten kann oder möchte, erfolgt die Einlösung anhand eines ein- heitlichen Ausdrucks auf Basis des darauf enthaltenen 2D-Codes.
 
 **Akzeptanzkriterium:**
 
 - 1. Die Software muss einen Ausdruck der Informationen der möglichen.
-
 - 2. Der Ausdruck darf standardmäßig nur auf Anforderung des Anwenders erfolgen.
-
 - 3. Die Software kann die automatische Bereitstellung des Ausdrucks ermöglichen, wenn der Anwender  dies vorher per Konfiguration bspw. patientenindividuell hinterlegt hat.
-
 - 4. Die Software darf den Ausdruck erst ermöglichen, wenn jede signierte elektronische Verordnung für den  Versicherten erfolgreich in den Fachdienst eingestellt wurde.
-
 - a) Die Software muss den Ausdruck zu einem beliebigen Zeitpunkt ermöglichen.
 
 Instanz den EVDGA- und FOR-Profi-
 
+-Instanz erstellt werden.
+
+- EVDGA-Profile] entsprechen.
 - EVDGA-FHIR-Instanzen die definierten Bedingun-
-
-- -Umsetzun-
-
-- -anbieter/primaersys-
+- -Umsetzun- [-anbieter/primaersys-](https://fachportal.gematik.de/hersteller-anbieter/primaersysteme/referenzvalidator)
 
 die Gesundheitsanwendun-
 
 - elektronischen Verordnung gemäß P62-03 er-
 
+```
 -
-
 -
-
 -
+```
 
 Ihres E-Rezeptes Ihrer Verordnung: DIGA-
 
@@ -1181,26 +864,19 @@ Ihres E-Rezeptes Ihrer Verordnung: DIGA-
 ---
 
 - b) Auch ein wiederholter Ausdruck ist zu ermöglichen.
-
 - 5. Die Software muss sicherstellen, dass der Ausdruck nur Informationen zu einer elektronischen Gesund- heitsanwendungen-Verordnung enthält.
 
 **HINWEIS**
 
-- Der Ausdruck stellt keine allein gültige Verordnung dar. Er dient alleinig der alternativen Einlösung eine
-
-- elektronischen Gesundheitsanwendungen-Verordnung durch den Versicherten. Die rechtsgültige Ver- ordnung ist die signierte Instanz der elektronischen Verordnung digitaler Gesundheitsanwendungen welche elektronisch durch die ausstellende / verschreibende Person der Kapitel 2 und 0).
-
+- Der Ausdruck stellt keine allein gültige Veror elektronischen Gesundheitsanwendungen-Verordnung durch den Versicherten. Die rechtsgültige Ver- ordnung ist die signierte Instanz der elektronischen Verordnung digitaler Gesundheitsanwendungen welche elektronisch durch die ausstellende / verschreibende Person der Kapitel 2 und 0
 - Der Ausdruck muss aus diesem Grund nicht die vollständigen Angaben des Personalienfelds oder der  Verordnung beinhalten.
-
 - Des Weiteren ist der Ausdruck nicht durch die ausstellende / verschreibende Person
 
-| **PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN** |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | **P62-03** | Layout des „Ausdruck zur Einlösung |
 
-Die Software muss für das Layout des Ausdrucks zur Einlösung der elektronischen Verordnung einheitliche
-
-Vorgaben berücksichtigen.
+Die Software muss für das Layout des Ausdrucks  Vorgaben berücksichtigen.
 
 **Begründung:**
 
@@ -1208,48 +884,46 @@ Für eine systemübergreifende einheitliche Darstellung des Ausdrucks sind spezi
 
 **Akzeptanzkriterium:**
 
-- 1. Das Layout des Ausdrucks muss der in der [Vorlage Patientenausdruck] abgebildeten Form entsprechen  (siehe hierzu auch Abbildung 1).
-
+- 1. Das Layout des Ausdrucks muss der in der [ (siehe hierzu auch Abbildung 1
 - 2. Die Inhalte des Ausdrucks müssen den Vorgaben der Pflichtfunktionen
-
 - 3. Der Anwender muss die Möglichkeit haben, den Ausdruck im DIN cken.
-
 - a) Die Einstellung des zu verwendenden Papierformats muss konfigurierbar sein.
-
 - b) Eine Veränderung der Skalierung in Abhängigkeit des gewählten Formats ist nicht  muss auch beim Druck auf ein DIN-A4-Blatt der Ausdruck die Maße des DIN
-
-- 4. Die Software muss sicherstellen, dass die gemäß P62-05 bis P62-13 aufzudruckenden Informationen
-
-- nicht in die 2D-Codes und Ruhebereiche nach P62-10 und P62-11 gedruckt werden. Hierbei sind die
-
-- Höhe und Breite der vorgegebenen Druckbereiche in der [
-
+- 4. Die Software muss sicherstellen, dass die gemäß  nicht in die 2D-Codes und Ruhebereiche nach  Höhe und Breite der vorgegebenen Druckbereiche in der [
 - 5. Die Software muss sicherstellen, dass die Positionierung der 2D entspricht.
 
+```
+-
+```
+
+- dnung dar. Er dient alleinig der alternativen Einlösung eine
+
+zur Einlösung der elektronischen Verordnung einheitliche
+
+- Vorlage Patientenausdruck
+- P62-05 bis  P62-10 und
+- in die TI übermittelt wurde (gemäß
+- -A5- oder DIN-A4-Format auszudru-
+- P62-13 aufzudruckenden Informationen  P62-11 gedruckt werden. Hierbei sind die  Vorlage Patientenausdruck
+- -Codes der [
 - r
-
-- in die TI übermittelt wurde (gemäß - zu unterschreiben.
-
+- zu unterschreiben.
+- ] abgebildeten Form entsprechen
 - P62-05 bis P62-13 entsprechen.
 
-- -A5- oder DIN-A4-Format auszudru-
-
+```
 -
+```
 
-- zulässig. Somit
+- zulässig. Somit  -A5-Formats haben.
+- ] einzuhalten.
 
-- -A5-Formats haben.
-
-- Vorlage Patientenausdruck] einzuhalten.
-
-Ihres E-Rezeptes Ihrer Verordnung: DIGA- -Codes der [Vorlage Patientenausdruck]
+Ihres E-Rezeptes Ihrer Verordnung: DIGA- Vorlage Patientenausdruck
 
 
 ---
 
-Siehe P62-05
-
-Siehe P62-07
+Siehe P62-09
 
 Siehe P62-15
 
@@ -1261,58 +935,55 @@ Siehe P62-08
 
 Siehe P62-11
 
-Siehe P62-09
+Siehe P62-12
+
+Siehe P62-05
+
+Siehe P62-07
 
 Siehe P62-10
-
-Siehe P62-12
 
 **Abbildung 1: Exemplarischer „Ausdruck zur Einlösung Ihres E-Rezeptes Ihrer Verordnung: DIGA**
 
 **HINWEIS**
 
-- Das Layout des Ausdrucks ist so gewählt, dass insbesondere die 2D-Codes nicht auf Standard-Faltlinien
+- Das Layout des Ausdrucks ist so gewählt, dass insbesondere die 2D-Codes nicht auf Standard-Faltlinien  liegen. Somit soll die Unversehrtheit des 2D-Codes bei einem eventuellen Zusammenfalten des Aus- drucks gewährleistet werden. Die Positionierung ist somit zwingend einzuhalten.
+- Bei Druck auf ein DIN-A4-Blatt sollte die Ausrichtung des Ausdrucks „Hochformat“ voreingestellt sein, so  dass die Informationen in der oberen Hälfte des Blattes aufgedruckt werden
+- 1. Die Software muss bei der Verwendung des DIN-A4-Formats und der Notwendigkeit, dass mehr als ein  Patientenausdruck gedruckt werden muss, den Druck von zwei Patientenausdrucken untereinander auf  einem DIN-A4-Blatt im Hochformat unterstützen.
 
-- liegen. Somit soll die Unversehrtheit des 2D-Codes bei einem eventuellen Zusammenfalten des Aus-
-
-- drucks gewährleistet werden. Die Positionierung ist somit zwingend einzuhalten.
-
-- Bei Druck auf ein DIN-A4-Blatt sollte die Ausrichtung des Ausdrucks „Hochformat“ voreingestellt sein, so
-
-- dass die Informationen in der oberen Hälfte des Blattes aufgedruckt werden
-
-| **OPTIONALE FUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN** |  |
+| OPTIONALE FUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | **O62-04** | Zwei Patientenausdrucke einer Person auf einem DIN |
 
-Die Software kann den Ausdruck von zwei Patientenausdrucken einer Person auf einem DIN-A4-Blatt unter-
-
-stützen.
+Die Software kann den Ausdruck von zwei Patientenausdrucken einer Person auf einem DIN-A4-Blatt unter- stützen.
 
 **Begründung:**
 
 Um in den Praxen die Anzahl der bedruckten Blätter zu reduzieren, kann die Software das Aufdrucken  zweier Patientenausdrucke einer Person auf ein DIN-A4-Blatt unterstützen.
 
-**Akzeptanzkriterium:**
-
-- 1. Die Software muss bei der Verwendung des DIN-A4-Formats und der Notwendigkeit, dass mehr als ein
-
-- Patientenausdruck gedruckt werden muss, den Druck von zwei Patientenausdrucken untereinander auf
-
--A4-Blatt - einem DIN-A4-Blatt im Hochformat unterstützen.
+-A4-Blatt **Akzeptanzkriterium:**
 
 
 ---
 
 - a) Die Software muss sicherstellen, dass mittels dieser Funktionalität ausschließlich Patientenausdrucke  auf einem DIN-A4-Blatt zusammengefasst werden, welche Verordnungen für dieselbe Person enthal- ten.
+- b) Die beiden Patientenausdrucke müssen vollständig den inhaltlichen und formalen Vorgaben der [Vor- lage Patientenausdruck] entsprechen.
+- 2. Die Software muss dem Anwender über geeignete Konfigurationseinstellungen die Möglichkeit geben,  festzulegen, ob ein Ausdruck gemäß Akzeptanzkriterium 1 automatisch erfolgt oder ob eine Bestätigung  verlangt werden soll.
+- a) Der Softwarehersteller kann eine für die Praxis geeignete Default-Einstellung festlegen.
+- 1. In dem Bereich „für“ sind in bis zu drei Zeilen der vollständige Name des Versicherten bestehend aus  den folgenden Informationen (IDs gemäß Tabelle 11) aufzudrucken:
+- Titel des Versicherten    (ID 22)
+- Vorname des Versicherten   (ID 20)
+- Namenszusatz des Versicherten (ID 23)
+- Vorsatzwort des Versicherten  (ID 24)
+- Nachname des Versicherten  (ID 21)
+- a) Die Reihenfolge der Daten muss im Ausdruck entsprechend der Auflistung erfolgen.
+- b) Die einzelnen Informationen müssen mit einem Leerzeichen voneinander getrennt sein, sofern sie  vorhanden sind.
+- 2. Die Software muss eine Kürzung vornehmen, sofern der zur Verfügung stehende Platz unter Berücksich- tigung von P62-13 nicht für den Aufdruck aller Informationen gemäß Akzeptanzkriterium 1 ausreicht.
+- a) Die Software muss dabei sicherstellen, dass mindestens die folgenden Informationen (IDs gemäß Ta- belle 11) vollständig abgebildet werden:
+- Vorname des Versicherten   (ID 20)
+- Nachname des Versicherten  (ID 21)
 
-- b) Die beiden Patientenausdrucke müssen vollständig den inhaltlichen und formalen Vorgaben der [ lage Patientenausdruck] entsprechen.
-
-- 2. Die Software muss dem Anwender über geeignete Konfigurationseinstellungen die Möglichkeit geben,  festzulegen, ob ein Ausdruck gemäß Akzeptanzkriterium  verlangt werden soll.
-
-- a) Der Softwarehersteller kann eine für die Praxis geeignete Default
-
-| **PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN** |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | **P62-05** | Aufzudruckende Informationen in dem Bereich „für“ |
 
@@ -1324,27 +995,7 @@ Um eine Zuordnung des Ausdrucks zu einem Versicherten zu ermöglichen, muss der 
 
 **Akzeptanzkriterium:**
 
-- 1. In dem Bereich „für“ sind in bis zu drei Zeilen der vollständige Name des Versicherten bestehend aus
-
-- den folgenden Informationen (IDs gemäß Tabelle 11) aufzudrucken: - Titel des Versicherten
-
-- Vorname des Versicherten
-
-- Namenszusatz des Versicherten - Vorsatzwort des Versicherten
-
-- Nachname des Versicherten
-
-- a) Die Reihenfolge der Daten muss im Ausdruck entsprechend der Auflistung erfolgen.
-
-- b) Die einzelnen Informationen müssen mit einem Leerzeichen voneinander getrennt sein, sofern sie  vorhanden sind.
-
-- 2. Die Software muss eine Kürzung vornehmen, sofern der zur Verfügung stehende Platz unter Berücksich- tigung von P62-13 nicht für den Aufdruck aller Informationen gemäß Akzeptanzkriterium
-
-- a) Die Software muss dabei sicherstellen, dass mindestens die folgenden Informationen (IDs  belle 11) vollständig abgebildet werden: - Vorname des Versicherten
-
-- Nachname des Versicherten
-
-| **PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN** |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | **P62-06** | Aufzudruckende Informationen in dem Bereich „geb |
 
@@ -1352,43 +1003,16 @@ Die Software muss auf dem Ausdruck das Geburtsdatum des Versicherten aufdrucken.
 
 **Begründung:**
 
-Um eine Zuordnung des Ausdrucks zu einem Versicherten zu ermöglichen, muss das Geburtsdatum des  Versicherten auf dem Ausdruck erfasst werden.
+oren am“Um eine Zuordnung des Ausdrucks zu einem Versicherten zu ermöglichen, muss das Geburtsdatum des  Versicherten auf dem Ausdruck erfasst werden.
 
-- (ID 22)
-
-- (ID 20)
-
-- (ID 23)
-
-- (ID 24)
-
-- (ID 21)
-
--
-
-- (ID 20)
-
-- (ID 21)
-
-- 1 automatisch erfolgt oder ob eine Bestätigung - -Einstellung festlegen.
-
-- Vor-
-
--
-
-- 1 ausreicht.
-
-- gemäß Ta-
-
-oren am“
 
 ---
 
 **Akzeptanzkriterium:**
 
-- 1. In dem Bereich „geboren am“ ist das Geburtsdatum (ID 25 gemäß Tabelle 11) in der Form TT.MM.JJJJ zu - hinterlegen.
+- 1. In dem Bereich „geboren am“ ist das Geburtsdatum (ID 25 gemäß Tabelle 11) in der Form TT.MM.JJJJ zu  hinterlegen.
 
-| **PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN** | |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN | |
 |---|---|
 | **P62-14** | Aufzudruckende Informationen in dem Bereich "Versichertennummer" |
 
@@ -1401,16 +1025,13 @@ Um eine Zuordnung des Ausdrucks zu einem Versicherten zu ermöglichen, muss die 
 **Akzeptanzkriterium:**
 
 - 1. In dem Bereich "Versichertennummer" sind die folgenden Informationen aufzudrucken:
-
 - a) VersichertenID (ID 19a gemäß Tabelle 58)
 
-| **PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN** | |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN | |
 |---|---|
 | **P62-15** | Aufzudruckende Informationen in der Überschrift des Patientenausdruckes |
 
-Die Software muss auf dem Ausdruck im Bereich der Überschrift den Wert „ Digitale Gesundheitsanwen-
-
-dung (DiGA)“ aufdrucken.
+Die Software muss auf dem Ausdruck im Bereich der Überschrift den Wert „ Digitale Gesundheitsanwen- dung (DiGA)“ aufdrucken.
 
 **Begründung:**
 
@@ -1420,7 +1041,7 @@ Um einem Versicherten die Zuordnung des Patientenausdruckes zu ermöglichen, mus
 
 - 1. In dem Bereich der Überschrift muss hinter den Text „Ausdruck zur Einlösung Ihrer Verordnung:“ der  Text „ Digitale Gesundheitsanwendung (DiGA)“ aufgedruckt werden.
 
-| **PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN** |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | **P62-07** | Aufzudruckende Informationen in dem Bereich „ausgestellt von“ |
 
@@ -1432,23 +1053,16 @@ Um eine Zuordnung des Ausdrucks zu der verschreibenden Person zu ermöglichen, m
 
 **Akzeptanzkriterium:**
 
-- 2. In dem Bereich „ausgestellt von“ sind in bis zu fünf Zeilen die folgenden Angaben zu hinterlegen (IDs ge-
-
-- mäß Tabelle 11):
-
+- 2. In dem Bereich „ausgestellt von“ sind in bis zu fünf Zeilen die folgenden Angaben zu hinterlegen (IDs ge- mäß Tabelle 11
 - a) In der ersten und ggfs. zweiten Zeile ist der vollständige Name der verschreibenden Person beste- hend aus den folgenden Informationen aufzudrucken:
-
 - Titel der verschreibenden Person   (ID 46)
-
 - Vorname der verschreibenden Person   (ID 44)
-
 - Namenszusatz der verschreibenden Person (ID 47)
 
 
 ---
 
 - Vorsatzwort der verschreibenden Person
-
 - Nachname der verschreibenden Person
 
 Die Reihenfolge der Daten im Ausdruck muss entsprechend der Auflistung erfolgen.
@@ -1456,28 +1070,20 @@ Die Reihenfolge der Daten im Ausdruck muss entsprechend der Auflistung erfolgen.
 Die einzelnen Informationen müssen mit einem Leerzeichen voneinander getrennt sein, sofern sie  vorhanden sind.
 
 - b) In der auf den Namen folgenden Zeilen ist der Name der Einrichtung (ID 62) sofern vorhanden aufzu- drucken.
-
 - c) In der folgenden Zeile ist die Telefonnummer der
-
 - d) In der letzten Zeile ist die E-Mail-Adresse der Einrichtung (ID 71) aufzudrucken, sofern vorhanden.
-
 - 3. Die Software muss eine Kürzung vornehmen, sofern der zur Verfügung stehende Platz unter Berücksich- tigung von P62-13 nicht für den Aufdruck aller Informationen gemäß Akzeptanzkriterium
-
 - a) Die Software muss dabei sicherstellen, dass mindestens die folgenden Informationen (IDs  belle 11) vollständig abgebildet werden:
-
 - Vorname der verschreibenden Person
-
 - Nachname der verschreibenden Person
-
 - Telefonnummer der Einrichtung
 
 **HINWEIS**
 
 - Als Telefonnummer der Einrichtung (ID 69) muss nicht die zentrale Telefonnummer einer Einrichtung  angegeben werden; es kann bspw. auch die Telefonnummer eines Bereiches einer Einrichtung angege- ben werden, in welchem die Verordnung ausgestellt wurde.
-
 - Die E-Mail der Einrichtung (ID 71) muss nicht die zentrale E es kann bspw. auch die E-Mail-Adresse eines Bereiches einer Einrichtung angegeben werden, in wel- chem die Verordnung ausgestellt wurde.
 
-| **PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN** |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | **P62-08** | Aufzudruckende Informationen in dem Block |
 
@@ -1494,38 +1100,34 @@ Um eine zeitliche Zuordnung des Ausdrucks zu ermöglichen, muss diese Informatio
 **HINWEIS**
 
 - Sofern auf dem Ausdruck Verordnungen mit verschiedenen Ausstellungsdaten vorhanden sind, so ist  immer das aktuelle Datum aufzudrucken. Das Datum auf dem Ausdruck hat einen rein informativen Cha- rakter und führt zu keinen Änderungen der Informationen in den FHIR
-
 - Dies kann bspw. bei einem erneuten Ausdruck einer Verordnung aufgrund des Verlustes des vorange- gangenen Papierausdrucks erfolgen.
-
 -  (ID 48)
-
 - (ID 45)
-
 - Einrichtung (ID 69) aufzudrucken.
-
 - (ID 44)
-
 - (ID 45)
-
 - (ID 69)
 
+```
 -
+```
 
 - -Mail einer Einrichtung angegeben werden;
 
-- gemäß Tabelle 11) in der Form - -Instanzen.
-
+```
 -
+```
 
 - 2 ausreicht.
-
 - gemäß Ta-
+- gemäß Tabelle 11) in der Form
 
-„ausgestellt am“
+„ausgestellt am“- -Instanzen.
+
 
 ---
 
-| **PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN** |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | **P62-09** | Aufzudruckende Verordnungsdaten einer Gesundheitsanwendungen-Verordnung |
 
@@ -1533,104 +1135,79 @@ Auf dem Ausdruck müssen die notwendigen Verordnungsdaten einer Gesundheitsanwen
 
 **Begründung:**
 
-Der Ausdruck dient der alternativen Übermittlung der Zugriffsinformationen einer elektronischen nung digitaler Gesundheitsanwendungen durch den Versicherten an die Krankenkasse. Die dabei notwendi-
-
-gen Informationen sind in dem aufzudruckenden 2D ten.
+Der Ausdruck dient der alternativen Übermittlung der Zugriffsinformationen einer elektronischen nung digitaler Gesundheitsanwendungen durch den Versicherten an die Krankenkasse. Die dabei notwendi- gen Informationen sind in dem aufzudruckenden 2D ten.
 
 **Akzeptanzkriterium:**
 
-- 1. Als Verordnungsdaten einer elektronischen Gesundheitsanwendungen-Verordnung sind die folgenden  Angaben zu hinterlegen (IDs gemäß Tabelle 11):
-
-- a) Linksbündiger Aufdruck des 2D-Codes gemäß P62-10.
-
+- 1. Als Verordnungsdaten einer elektronischen Gesundheitsanwendungen-Verordnung sind die folgenden  Angaben zu hinterlegen (IDs gemäß Tabelle 11
+- a) Linksbündiger Aufdruck des 2D-Codes gemäß
 - b) Rechts neben dem 2D-Codes sind fortlaufend in einer Reihe die folgenden Informationen inkl. der  vorgegebenen Trennzeichen aufzudrucken, sofern diese vorhanden sind:
-
 - Kennzeichnung, dass es sich um die Verordnung einer Digitale Gesundheitsanwendung handelt
-
 - Fixer Wert als Aufschrift: „Digitale Gesundheitsanwendung“
-
-- Zeilenumbruch als Trennzeichen - Name der Verordnungseinheit
-
-- Schriftstärke „fett“ ist zu verwenden
-
-- Eine Zeile bis drei Zeilen mit Zeilenumbruch als Trennzeichen je nach Länge des Namens
-
-- PZN, nach dem folgenden Muster - Fixer Wert „PZN:“
-
-- ID der Verordnungseinheit (PZN)
-
 - Zeilenumbruch als Trennzeichen
-
+- Name der Verordnungseinheit
+- Schriftstärke „fett“ ist zu verwenden
+- Eine Zeile bis drei Zeilen mit Zeilenumbruch als Trennzeichen je nach Länge des Namens
+- PZN, nach dem folgenden Muster
+- Fixer Wert „PZN:“
+- ID der Verordnungseinheit (PZN)
+- Zeilenumbruch als Trennzeichen
 - c) Aufdruck des 2D-Codes für den Verordnungstoken gemäß
-
-- 2. Die Software muss eine rechtsseitige Kürzung vornehmen, sofern der zur Verfügung stehende Platz un- ter Berücksichtigung von P 62-13 nicht für den Aufdruck aller Informationen gemäß Akzeptanzkriterium ausreicht.
-
+- 2. Die Software muss eine rechtsseitige Kürzung vornehmen, sofern der zur Verfügung stehende Platz un- ter Berücksichtigung von P62-13 nicht für den Aufdruck aller Informationen gemäß Akzeptanzkriterium ausreicht.
 - a) Die Software muss dabei sicherstellen, dass mindestens die folgenden Informationen vollständig ab- gebildet werden:
-
-- Kennzeichnung, dass es sich um die Verordnung einer Digitale Gesundheitsanwendung handelt - PZN
+- Kennzeichnung, dass es sich um die Verordnung einer Digitale Gesundheitsanwendung handelt
+- PZN
 
 **HINWEIS**
 
 - Die Angaben zu Trennzeichen und fixen Werten erfolgt im Ausdruck ohne die Anführungszeichen „“.  Diese dienen in den Akzeptanzkriterien ausschließlich der Kenntlichmachung des Inhaltes und von Leer- zeichen.
 
--Code für den Verordnungstoken gemäß P62-11 enthal-
+-Code für den Verordnungstoken gemäß
 
+- P62-10
 - (ID 83)
-
 - (ID 82)
 
-Verord-
-
+```
 -
-
 -
+```
 
+- P62-11
+
+Verord- P62-11 enthal-
+
+```
 -
-
 -
-
-- P62-11.
+```
 
 - 1
 
+```
 -
-
+```
 
 ---
 
-| **PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN** |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | **P62-10** | Vorgaben für den 2D-Code-Aufdruck für den Einzeltoken |
 
-Der aufzudruckende 2D-Code der elektronischen Gesundheitsanwendungen-Verordnung enthält die techni- schen Informationen (Zugangs-Code), um die elektronischen Gesundheitsanwendungen-Verordnung bei
-
-den Krankenkassen einzulösen.
+Der aufzudruckende 2D-Code der elektronischen Gesundheitsanwendungen-Verordnung enthält die techni- schen Informationen (Zugangs-Code), um die elektronischen Gesundheitsanwendungen-Verordnung bei  den Krankenkassen einzulösen.
 
 **Begründung:**
 
-Nur durch den 2D-Code kann im Rahmen der Nutzung des Ausdrucks ein automatischer Abruf der Verord-
-
-nungsinformationen vom E-Rezept-Fachdienst der gematik erfolgen.
+Nur durch den 2D-Code kann im Rahmen der Nutzung des Ausdrucks ein automatischer Abruf der Verord- nungsinformationen vom E-Rezept-Fachdienst der gematik erfolgen.
 
 **Akzeptanzkriterium**
 
-- 1. Die Art des 2D-Codes muss je elektronischer Gesundheitsanwendungen-Verordnung gemäß den Vorga-
+- 1. Die Art des 2D-Codes muss je elektronischer Gesundheitsanwendungen-Verordnung gemäß den Vorga- ben der gematik gemäß Kapitel 2.3 in [gemSpec_DM_eRP] gewählt werden.
+- 2. Der Inhalt des 2D-Codes muss je elektronischer Gesundheitsanwendungen-Verordnung gemäß den Vor- gaben der gematik gemäß Kapitel 2.3 in [gemSpec_DM_eRP] gewählt werden.
+- 3. Der 2D-Code muss fest mit einer Größe von 2,8cm x 2,8cm 2 cm x 2 cm entsprechend der in [Vorlage  Patientenausdruck] abgebildeten Form und Positionierung aufgedruckt werden.
+- 4. Die Software muss sicherstellen, dass um den 2D-Codes zusätzlich umlaufend ein druckfreier Bereich  von mindestens 3mm vorhanden ist.
 
-- ben der gematik gemäß Kapitel 2.3 in [gemSpec_DM_eRP] gewählt werden.
-
-- 2. Der Inhalt des 2D-Codes muss je elektronischer Gesundheitsanwendungen-Verordnung gemäß den Vor-
-
-- gaben der gematik gemäß Kapitel 2.3 in [gemSpec_DM_eRP] gewählt werden.
-
-- 3. Der 2D-Code muss fest mit einer Größe von 2,8cm x 2,8cm 2 cm x 2 cm entsprechend der in [Vorlage
-
-- Patientenausdruck] abgebildeten Form und Positionierung aufgedruckt werden.
-
-- 4. Die Software muss sicherstellen, dass um den 2D-Codes zusätzlich umlaufend ein druckfreier Bereich
-
-- von mindestens 3mm vorhanden ist.
-
-| **PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN** |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | **P62-11** | Vorgaben für den 2D-Code-Aufdruck für den Sammeltoken |
 
@@ -1638,34 +1215,35 @@ Zusätzlich zu den einzelnen 2D-Codes je elektronischer Gesundheitsanwendungen-V
 
 **Begründung:**
 
-Der Sammeltoken ermöglicht die Einlösung der elektronischen Verordnungen digitaler Gesundheitsanwen- dungen bei den Krankenkassen. Sofern die Einlösungen aller auf dem Ausdruck enthalten elektronischen
-
-Gesundheitsanwendungen-Verordnungen erfolgen soll, muss nur dieser 2D-Code gescannt werden.
+Der Sammeltoken ermöglicht die Einlösung der elektronischen Verordnungen digitaler Gesundheitsanwen- dungen bei den Krankenkassen. Sofern die Einlösungen aller auf dem Ausdruck enthalten elektronischen  Gesundheitsanwendungen-Verordnungen erfolgen soll, muss nur dieser 2D-Code gescannt werden.
 
 **Akzeptanzkriterium:**
 
-- 1. Die Art des 2D-Codes muss gemäß den Vorgaben der gematik gemäß Kapitel 2.3 in [gemSpec_DM_eRP]
-
-- gewählt werden.
-
-- 2. Der Inhalt des 2D-Codes muss gemäß den Vorgaben der gematik gemäß Kapitel 2.3 in  [gemSpec_DM_eRP] gewählt werden.
-
-- 3. Der Inhalt des 2D-Codes muss ausschließlich die in dem Ausdruck bereits enthaltenen Token der aufge- druckten Einzelverordnungen umfassen. Entsprechend sind immer genau die (maximal drei) Token in  dem 2D-Code als Sammeltoken umfasst, welche gemäß P62-10 bereits für die 2D-Codes der Einzelver-
-
-- ordnungen erstellt sind.
-
-- 4. Der 2D-Code muss fest mit einer Größe von 5cm x 5cm 4,4 cm x 4,4 cm entsprechend der in [Vorlage
-
-- Patientenausdruck] abgebildeten Form und Positionierung aufgedruckt werden.
-
-- 5. Die Software muss sicherstellen, dass um den 2D-Code zusätzlich umlaufend ein druckfreier Bereich von
-
-- mindestens 3mm vorhanden ist.
+- 1. Die Art des 2D-Codes muss gemäß den Vorgaben der gematik gemäß Kapitel 2.3 in [gemSpec_DM_eRP gewählt werden.
+- 2. Der Inhalt des 2D-Codes muss gemäß den Vorgaben der gematik gemäß Kapitel 2.3 in  gemSpec_DM_eRP] gewählt werden.
+- 3. Der Inhalt des 2D-Codes muss ausschließlich die in dem Ausdruck bereits enthaltenen Token der aufge- druckten Einzelverordnungen umfassen. Entsprechend sind immer genau die (maximal drei) Token in  dem 2D-Code als Sammeltoken umfasst, welche gemäß P62-10 bereits für die 2D-Codes der Einzelver- ordnungen erstellt sind.
+- 4. Der 2D-Code muss fest mit einer Größe von 5cm x 5cm 4,4 cm x 4,4 cm entsprechend der in [Vorlage  Patientenausdruck] abgebildeten Form und Positionierung aufgedruckt werden.
+- 5. Die Software muss sicherstellen, dass um den 2D-Code zusätzlich umlaufend ein druckfreier Bereich von  mindestens 3mm vorhanden ist.
 
 
 ---
 
-| **PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN** |  |
+- 1. Der Inhalt und die Positionierung des Informationsbereiches muss in der [Vorlage Patientenausdruck abgebildeten Form aufgedruckt werden.
+- a) Der Text ist abweichend von den Vorgaben gemäß P62-13 in Schriftgröße 8 pt.
+- 2. Für die Abbildung der Grafiken (App-Logo und QR-Code) muss die bereitgestellte Vorlage [Vorlage Pati- entenausdruck] genutzt werden.
+- 3. Der enthaltene QR-Code muss:
+- a)  ausschließlich den folgenden Inhalt enthalten: [https://www.das-e-rezept-fuer-deutschland.de/aus-](https://www.das-e-rezept-fuer-deutschland.de/aus-) druck/ und
+- b) gemäß ISO/IEC 18004:2006 codiert sein.
+- 1. Die Software muss standardmäßig eine Schriftgröße von 12 pt für den Ausdruck verwenden.
+- a) Dies gilt nicht für die unter P62-12 Akzeptanzkriterium 1a beschriebene Ausnahme.
+- 2. Die Software muss die Schriftgröße automatisch skalieren, um die Informationen möglichst vollständig  abzubilden. Die minimale Schriftgröße ist 10 pt.
+- a) Dies gilt nicht für die unter P62-12 Akzeptanzkriterium 1a beschriebene Ausnahme.
+- 3. Die Software muss als Schriftart für den Ausdruck einheitlich Courier (ggf. artverwandt, d.h. nicht pro- portional und mit Serifen) verwenden.
+- 4. Die Software muss als Schriftschnitt für die aufzudruckenden Informationen standardmäßig „normal“  vorsehen, sofern gemäß den Vorgaben der [Vorlage Patientenausdruck] oder in dem Kapitel 4.2 keine  anderen Vorgaben definiert sind.
+- 5. Die Software muss sicherstellen, dass für die in der [Vorlage Patientenausdruck] vorgegebenen Texte  eine proportionale Schriftart ohne Serifen und der Schriftschnitt fett genutzt werden.
+- 6. Die Software muss sicherstellen, dass die aufzudruckenden Informationen innerhalb des Bereiches „für“,  innerhalb des Bereiches „ausgestellt von“ und die aufzudruckenden Verordnungsinformationen nach  P62-09 jeweils dieselbe Schriftgröße haben
+
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | **P62-12** | Vorgaben für den Informationsbereich |
 
@@ -1677,23 +1255,7 @@ Durch diese Informationen werden die Patienten in die Lage versetzt, sich selbst
 
 **Akzeptanzkriterium:**
 
-- 1. Der Inhalt und die Positionierung des Informationsbereiches muss in der [Vorlage Patientenausdruck]
-
-- abgebildeten Form aufgedruckt werden.
-
-- a) Der Text ist abweichend von den Vorgaben gemäß P62-13 in Schriftgröße 8 pt.
-
-- 2. Für die Abbildung der Grafiken (App-Logo und QR-Code) muss die bereitgestellte Vorlage [Vorlage Pati-
-
-- entenausdruck] genutzt werden.
-
-- 3. Der enthaltene QR-Code muss:
-
-- a)  ausschließlich den folgenden Inhalt enthalten: [https://www.das-e-rezept-fuer-deutschland.de/aus-](https://www.das-e-rezept-fuer-deutschland.de/aus-) - druck/ und
-
-- b) gemäß ISO/IEC 18004:2006 codiert sein.
-
-| **PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN** |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | **P62-13** | Vorgaben zu Schriftgröße und Schriftart |
 
@@ -1705,29 +1267,8 @@ Für ein einheitliches Layout und eine bestmögliche Lesbarkeit des Ausdrucks we
 
 **Akzeptanzkriterium:**
 
-- 1. Die Software muss standardmäßig eine Schriftgröße von 12 pt für den Ausdruck verwenden.
-
-- a) Dies gilt nicht für die unter P 62-12 Akzeptanzkriterium 1a beschriebene Ausnahme.
-
-- 2. Die Software muss die Schriftgröße automatisch skalieren, um die Informationen möglichst vollständig  abzubilden. Die minimale Schriftgröße ist 10 pt.
-
-- a) Dies gilt nicht für die unter P 62-12 Akzeptanzkriterium 1a beschriebene Ausnahme.
-
-- 3. Die Software muss als Schriftart für den Ausdruck einheitlich Courier (ggf. artverwandt, d.h. nicht pro- portional und mit Serifen) verwenden.
-
-- 4. Die Software muss als Schriftschnitt für die aufzudruckenden Informationen standardmäßig „normal“  vorsehen, sofern gemäß den Vorgaben der [Vorlage Patientenausdruck] oder in dem Kapitel 4.2 keine
-
-- anderen Vorgaben definiert sind.
-
-- 5. Die Software muss sicherstellen, dass für die in der [Vorlage Patientenausdruck] vorgegebenen Texte
-
-- eine proportionale Schriftart ohne Serifen und der Schriftschnitt fett genutzt werden.
-
-- 6. Die Software muss sicherstellen, dass die aufzudruckenden Informationen innerhalb des Bereiches „für“,  innerhalb des Bereiches „ausgestellt von“ und die aufzudruckenden Verordnungsinformationen nach  P62-09 jeweils dieselbe Schriftgröße haben
-
 
 ---
-
 
 
 
@@ -1737,69 +1278,52 @@ Für ein einheitliches Layout und eine bestmögliche Lesbarkeit des Ausdrucks we
 
 In der nachfolgenden Tabelle 11 sind sämtliche für die Abbildung der elektronischen Verordnung digitaler  Gesundheitsanwendungen relevanten Informationen in Form einer Felderliste enthalten.
 
-Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
+Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 
-- Fortlaufende Zeilen-Nummer zum besseren Mapping der Inhalte der Tabelle 11 - **1; 2; 3; 4; 5 und 6**
-
+- **ID**
+- Fortlaufende Zeilen-Nummer zum besseren Mapping der Inhalte der Tabelle 11
+- **1; 2; 3; 4; 5 und 6**
 - Darstellung von Hierarchieebenen, zur fachlogischen Gruppierung der einzelnen Feldinhalte zu Blö- cken
-
 - 6 entspricht der kleinsten Hierarchieebene, 1 entspricht der höchsten
-
 - Durch ein Kreuz in der entsprechenden Zeile erfolgt die Zuordnung zu einer Ebene.
-
 - **Feldname**
-
-- Kurze Bezeichnung des abzubildenden Feldes - **Länge**
-
-- Angabe zur zulässigen Zeilenlänge (Zeichenanzahl inklusive Leerzeichen) des Inhaltes; Besondere - Ausprägungen sind:
-
+- Kurze Bezeichnung des abzubildenden Feldes
+- **Länge**
+- Angabe zur zulässigen Zeilenlänge (Zeichenanzahl inklusive Leerzeichen) des Inhaltes; Besondere  Ausprägungen sind:
 - „Bool“:  sofern ein Boolean-Wert vorliegt
-
 - „Kodiert“:  sofern der Inhalt kodiert übertragen wird
-
-- Leer:  sofern es sich um einen Block handelt - **Wiederh.**
-
+- Leer:  sofern es sich um einen Block handelt
+- **Wiederh.**
 - Abbildung der Kardinalitäten; die folgenden Ausprägungen sind möglich:
-
-- 1..1 Feld muss genau einmal vorhanden sein, ggfs. in Abhängigkeit der Kardinalität bzw. Bedin-
-
-- gung des zugeordneten Blocks
-
-- 1..n Feld muss mindestens einmal vorhanden sein, ggfs. in Abhängigkeit der Kardinalität bzw.
-
-- Bedingung des zugeordneten Blocks
-
-- 0..1 Feld kann maximal einmal vorhanden sein, ggfs. in Abhängigkeit der dem Feld zugeordne-
-
-- ten Bedingung
-
+- 1..1 Feld muss genau einmal vorhanden sein, ggfs. in Abhängigkeit der Kardinalität bzw. Bedin- gung des zugeordneten Blocks
+- 1..n Feld muss mindestens einmal vorhanden sein, ggfs. in Abhängigkeit der Kardinalität bzw.  Bedingung des zugeordneten Blocks
+- 0..1 Feld kann maximal einmal vorhanden sein, ggfs. in Abhängigkeit der dem Feld zugeordne- ten Bedingung
 - **Beschreibung**
-
-- Ggfs. detaillierte Beschreibung des Feldes, sofern nötig - **Bedingung**
-
+- Ggfs. detaillierte Beschreibung des Feldes, sofern nötig
+- **Bedingung**
 - Logische Bedingung, an welche die Befüllung eines Feldes oder eines gesamten Blocks geknüpft ist
 
 
 ---
 
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **Tabelle 11: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler Gesundheitsanwendungen** | **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** |
-\| **Tabelle 11: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler Gesundheitsanwendungen** | **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** |
-\| **Tabelle 11: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler Gesundheitsanwendungen** | **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** |
-\| **Tabelle 11: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler Gesundheitsanwendungen** | **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** |
-\| **Tabelle 11: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler Gesundheitsanwendungen** | **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** |
-\| **Tabelle 11: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler Gesundheitsanwendungen** | **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** |
-\| **Tabelle 11: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler Gesundheitsanwendungen** | **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** |
-\| **Tabelle 11: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler Gesundheitsanwendungen** | **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** |
-\| **Tabelle 11: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler Gesundheitsanwendungen** | **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** |
-\| **Tabelle 11: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler Gesundheitsanwendungen** | **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** |
-\| **Tabelle 11: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler Gesundheitsanwendungen** | **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** |
-\| **Tabelle 11: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler Gesundheitsanwendungen** | **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** |
-\| **Tabelle 11: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler Gesundheitsanwendungen** | **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** |
-\| **Tabelle 11: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler Gesundheitsanwendungen** | **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** |
-\| **Tabelle 11: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler Gesundheitsanwendungen** | **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** |
-\| **Tabelle 11: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler Gesundheitsanwendungen** | **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** |
-| **Tabelle 11: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler Gesundheitsanwendungen** | **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| Tabelle 11: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler Gesundheitsanwendungen | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
+\| Tabelle 11: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler Gesundheitsanwendungen | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
+\| Tabelle 11: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler Gesundheitsanwendungen | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
+\| Tabelle 11: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler Gesundheitsanwendungen | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
+\| Tabelle 11: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler Gesundheitsanwendungen | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
+\| Tabelle 11: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler Gesundheitsanwendungen | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
+\| Tabelle 11: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler Gesundheitsanwendungen | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
+\| Tabelle 11: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler Gesundheitsanwendungen | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
+\| Tabelle 11: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler Gesundheitsanwendungen | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
+\| Tabelle 11: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler Gesundheitsanwendungen | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
+\| Tabelle 11: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler Gesundheitsanwendungen | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
+\| Tabelle 11: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler Gesundheitsanwendungen | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
+\| Tabelle 11: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler Gesundheitsanwendungen | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
+\| Tabelle 11: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler Gesundheitsanwendungen | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
+\| Tabelle 11: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler Gesundheitsanwendungen | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
+\| Tabelle 11: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler Gesundheitsanwendungen | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
+| Tabelle 11: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler Gesundheitsanwendungen | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | **1** | **x** |  |  |  |  |  | **Dokumenteninformationen** |  | **1..1** | **Dieser Block enthält Informationen** |  |
 | 2 |  | x |  |  |  |  | Dokumententyp | Kodiert | 1..1 | Dieses Feld enthält den Typ des Formu- |  |
@@ -1908,24 +1432,24 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 
 ---
 
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN ** 5 |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN  5 |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | x |  |  | Dokumenten-ID  22 | 1..1  Dieses Feld enthält eine eindeutige | Für den digitalen Vordruck "Verord- | **6** | **x** |  |  |  |  |
 |  |  |  | **Empfänger / Kostenträger** |  |  |  | **1..1** |  | **Dieser Block enthält Daten zum Kos-** |  |  |
@@ -1935,7 +1459,7 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 | **6** | **x** |  |  |  |  |  | **Empfänger / Kostenträger** |  | **1..1** | **Dieser Block enthält Daten zum Kos-** |  |
 | 7 |  | x |  |  |  |  | Kostenträgertyp | Kodiert | 1..1 | Dieses Feld enthält die Art des Kosten- | WENN          ANSONSTEN |
 | **8** |  | **x** |  |  |  |  | **Allgemeine Information** |  | **1..1** | **Dieser Block enthält allgemeine Infor-** |  |
-| 9 |  |  | x |  |  |  | IK der zuständigen Krankenkasse  9 |  | 0..1 | Dieses Feld enthält das Institutions- Siehe hierzu die Übertragungsregel | WENN         ANSONSTEN |
+| 9 |  |  | x |  |  |  | IK der zuständigen Krankenkasse | 9 | 0..1 | Dieses Feld enthält das Institutions- Siehe hierzu die Übertragungsregel | WENN         ANSONSTEN |
 | 5 |  | x |  |  |  |  | Dokumenten-ID | 22 | 1..1 | Dieses Feld enthält eine eindeutige | Für den digitalen Vordruck "Verord-  **6  x** |
 |  |  |  |  |  |  |  |  |  |  |  | **Empfänger / Kostenträger** |
 |  |  |  | **1..1** |  | **Dieser Block enthält Daten zum Kos-** |  |  | 7 |  | x |  |
@@ -1945,12 +1469,12 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 |  |  |  |  |  |  |  |  |  |  | **Empfänger / Kostenträger** | **1..1  Dieser Block enthält Daten zum Kos-** |
 |  | 7 | x |  | Kostenträgertyp | Kodiert  1..1 | Dieses Feld enthält die Art des Kosten- WENN |  |  | ANSONSTEN |  | **8 **   **x ** |
 |  |  | **Allgemeine Information** |  |  |  | **1..1** |  | **Dieser Block enthält allgemeine Infor-** |  |  | 9 |
-|  |  | x |  |  |  | IK der zuständigen Krankenkasse  9 |  | 0..1 | Dieses Feld enthält das Institutions- | Siehe hierzu die Übertragungsregel | WENN |
+|  |  | x |  |  |  | IK der zuständigen Krankenkasse | 9 | 0..1 | Dieses Feld enthält das Institutions- | Siehe hierzu die Übertragungsregel | WENN |
 | 5 |  | x |  |  |  |  | Dokumenten-ID | 22 | 1..1 | Dieses Feld enthält eine eindeutige | Für den digitalen Vordruck "Verord- |
 |  |  | **6** |  | **x** |  |  |  |  |  |  |  |
 |  |  |  |  | **Empfänger / Kostenträger** |  |  |  | **1..1** |  | **Dieser Block enthält Daten zum Kos-** |  |
 | 7 | x |  |  | Kostenträgertyp  Kodiert | 1..1  Dieses Feld enthält die Art des Kosten- | WENN |  | ANSONSTEN |  | **8** |  |
-|  | **x** |  |  |  |  | **Allgemeine Information** |  | **1..1** | **Dieser Block enthält allgemeine Infor-** | 9 | x        IK der zuständigen Krankenkasse  9  0..1  Dieses Feld enthält das Institutions- Siehe hierzu die Übertragungsregel  WENN |
+|  | **x** |  |  |  |  | **Allgemeine Information** |  | **1..1** | **Dieser Block enthält allgemeine Infor-** | 9 | x        IK der zuständigen Krankenkasse   9  0..1  Dieses Feld enthält das Institutions- Siehe hierzu die Übertragungsregel  WENN |
 |  |  |  | ANSONSTEN |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 5 |  | x |  |  |  |  | Dokumenten-ID | 22 | 1..1 | Dieses Feld enthält eine eindeutige | Für den digitalen Vordruck "Verord- |
@@ -1959,20 +1483,20 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 |  | 7 |  | x |  |  |  |  | Kostenträgertyp | Kodiert | 1..1 | Dieses Feld enthält die Art des Kosten- |
 | WENN |  |  |  |  | ANSONSTEN |  |  |  | **8** |  |  |
 |  | **x** |  |  |  |  |  |  |  |  |  | **Allgemeine Information** |
-|  | **1..1** | **Dieser Block enthält allgemeine Infor-** |  | 9 | x |  | IK der zuständigen Krankenkasse  9 | 0..1 | Dieses Feld enthält das Institutions- Siehe hierzu die Übertragungsregel | WENN | ANSONSTEN |
+|  | **1..1** | **Dieser Block enthält allgemeine Infor-** |  | 9 | x |  | IK der zuständigen Krankenkasse | 9  0..1 | Dieses Feld enthält das Institutions- Siehe hierzu die Übertragungsregel | WENN | ANSONSTEN |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 5 |  | x |  |  |  |  | Dokumenten-ID | 22 | 1..1 | Dieses Feld enthält eine eindeutige | Für den digitalen Vordruck "Verord-  **6  x ** |
 |  |  |  |  |  |  |  |  | **Empfänger / Kostenträger** |  |  |  |
 | **1..1** |  | **Dieser Block enthält Daten zum Kos-** |  |  | 7 |  | x |  |  |  |  |
 | Kostenträgertyp | Kodiert | 1..1 | Dieses Feld enthält die Art des Kosten- | WENN |  |  |  |  | ANSONSTEN |  |  |
 |  | **8** |  |  |  | **x** |  |  |  |  |  |  |
-|  | **Allgemeine Information** |  | **1..1** | **Dieser Block enthält allgemeine Infor-** |  | 9 | x |  | IK der zuständigen Krankenkasse  9 | 0..1 | Dieses Feld enthält das Institutions- Siehe hierzu die Übertragungsregel  WENN |
+|  | **Allgemeine Information** |  | **1..1** | **Dieser Block enthält allgemeine Infor-** |  | 9 | x |  | IK der zuständigen Krankenkasse | 9  0..1 | Dieses Feld enthält das Institutions- Siehe hierzu die Übertragungsregel  WENN |
 | 5 |  | x |  |  |  |  | Dokumenten-ID | 22  1..1 | Dieses Feld enthält eine eindeutige | Für den digitalen Vordruck "Verord- |  |
 |  | **6** |  | **x** |  |  |  |  |  |  |  | **Empfänger / Kostenträger **   **1..1** |
 |  | **Dieser Block enthält Daten zum Kos-** |  |  | 7 |  | x |  |  |  |  | Kostenträgertyp |
 | Kodiert | 1..1 | Dieses Feld enthält die Art des Kosten- | WENN |  |  |  |  | ANSONSTEN |  |  |  |
 | **8** |  | **x** |  |  |  |  | **Allgemeine Information** |  | **1..1** | **Dieser Block enthält allgemeine Infor-** | 9 |
-|  | x |  | IK der zuständigen Krankenkasse  9 | 0..1  Dieses Feld enthält das Institutions- | Siehe hierzu die Übertragungsregel  WENN |  | ANSONSTEN |  |  |  |  |
+|  | x |  | IK der zuständigen Krankenkasse   9 | 0..1  Dieses Feld enthält das Institutions- | Siehe hierzu die Übertragungsregel  WENN |  | ANSONSTEN |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 5 |  | x |  |  |  |  | Dokumenten-ID | 22 | 1..1 | Dieses Feld enthält eine eindeutige | Für den digitalen Vordruck "Verord- |
 |  |  | **6** |  | **x** |  |  |  |  |  |  |  |
@@ -2001,7 +1525,7 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 |  |  |  |  | ANSONSTEN |  |  |  | **8** |  |  |  |
 | **x** |  |  |  |  |  |  |  |  |  | **Allgemeine Information** |  |
 |  |  | **1..1** |  | **Dieser Block enthält allgemeine Infor-** |  |  | 9 |  |  | x |  |
-|  |  | IK der zuständigen Krankenkasse  9 |  | 0..1 | Dieses Feld enthält das Institutions- | Siehe hierzu die Übertragungsregel | WENN |  |  |  | ANSONSTEN |
+|  |  | IK der zuständigen Krankenkasse | 9 | 0..1 | Dieses Feld enthält das Institutions- | Siehe hierzu die Übertragungsregel | WENN |  |  |  | ANSONSTEN |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 5 | x |  | Dokumenten-ID | 22  1..1 | Dieses Feld enthält eine eindeutige  Für den digitalen Vordruck "Verord- |  | **6** | **x** |  |  |  |
 |  | **Empfänger / Kostenträger** |  |  | **1..1** |  | **Dieser Block enthält Daten zum Kos-** |  | 7 | x |  | Kostenträgertyp  Kodiert  1..1  Dieses Feld enthält die Art des Kosten- |
@@ -2018,7 +1542,7 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 |  | 7 |  | x |  |  |  |  | Kostenträgertyp | Kodiert | 1..1 | Dieses Feld enthält die Art des Kosten- |
 | WENN |  |  |  |  | ANSONSTEN |  |  |  | **8** |  |  |
 |  | **x** |  |  |  |  |  |  |  |  |  | **Allgemeine Information** |
-|  | **1..1** | **Dieser Block enthält allgemeine Infor-** |  | 9 | x |  | IK der zuständigen Krankenkasse  9 | 0..1 | Dieses Feld enthält das Institutions- Siehe hierzu die Übertragungsregel | WENN |  |
+|  | **1..1** | **Dieser Block enthält allgemeine Infor-** |  | 9 | x |  | IK der zuständigen Krankenkasse | 9  0..1 | Dieses Feld enthält das Institutions- Siehe hierzu die Übertragungsregel | WENN |  |
 | ANSONSTEN |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -2034,24 +1558,24 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 
 ---
 
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN ** 10 |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN  10 |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | x |  | IK des Kostenträgers  9 | 0..1  Dieses Feld enthält das Institutions- | WENN |  | ANSONSTEN | 11 | x |  | Name des Kostenträgers |
 | 1..45 | 1..1 | Dieses Feld enthält den Namen des |  | 12 |  |  | x |  |  |  | WOP |
@@ -2160,24 +1684,24 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 
 ---
 
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN ** 74 |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN  74 |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | x |  | Unfalltag  4..10 | 0..1  Dieses Feld enthält das Datum des Un- | WENN |  | ANSONSTEN | WENN  75 |  | x |  |
 | Name des Unfallbetriebs | 1..45 | 0..1 | Dieses Feld enthält den Namen des Ar- | WENN |  |  |  | ANSONSTEN |  |  | **13** |
@@ -2286,24 +1810,24 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 
 ---
 
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN ** 16 |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN  16 |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | x |  | DMP-Kennzeichen  Kodiert | 1..1  Dieses Feld enthält das Disease-Ma- | 17 |  | x |  | Kennzeichen Rechtsgrundlage  Kodiert | 1..1  Dieses Feld enthält die Rechtsgrund- | 26 |
 |  |  | x |  |  |  | Versicherungsschutz Ende | 10 | 0..1 | Dieses Feld enthält das Datum des En- |  |  |
@@ -2412,24 +1936,24 @@ cherten. (GRAU = BLOCK) DERH. nagement-Programm (DMP), in dem der Versicherte ei
 
 ---
 
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN ** 20 |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN  20 |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | x |  | Vorname des Versicherten  1..45 | 1..1  Dieses Feld enthält den Vornamen des | 21 |  | x |  | Nachname des Versicherten  1..45 | 1..1  Dieses Feld enthält den Nachnamen | 22 |
 |  |  | x |  |  |  | Titel des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den akademischen |  | 23 |
@@ -2538,24 +2062,24 @@ cherten. (GRAU = BLOCK) DERH. nagement-Programm (DMP), in dem der Versicherte ei
 
 ---
 
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN ** 29 |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN  29 |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | x |  | Postleitzahl der Versichertenan- 1..10 | 0..1  Dieses Feld enthält die Postleitzahl. | WENN |  | ANSONSTEN WENN | ANSONSTEN | 30 |  | x |
 |  |  | Ortsname der Versichertenan- | 1..40 | 0..1 | Dieses Feld enthält den Ortsnamen. |  | 31 |  |  | x |  |
@@ -2664,24 +2188,24 @@ cherten. (GRAU = BLOCK) DERH. nagement-Programm (DMP), in dem der Versicherte ei
 
 ---
 
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN ** 35 |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN  35 |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | x |  | Wohnsitzländercode der Versi- Kodiert | 1..3  0..1 | Dieses Feld enthält den Wohnsitzlän- | 36 | x |  | Postleitzahl der Versicherten- | 1..10  0..1 | Dieses Feld enthält die Postleitzahl.  WENN |
 |  |  |  | ANSONSTEN WENN |  |  | ANSONSTEN |  | 37 |  |  | x |
@@ -2790,24 +2314,24 @@ cherten. (GRAU = BLOCK) DERH. nagement-Programm (DMP), in dem der Versicherte ei
 
 ---
 
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN ** 41 |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN  41 |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | x |  | Typ der ausstellenden/ ver- Kodiert | 1..1  Dieses Feld enthält einen Typ zur Kenn- | 49 |  | x |  | Berufsbezeichnung der ausstel- 1..100 | 1..1  Dieses Feld enthält eine Freitextangabe | 147 |
 |  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV-Fachgrup- | WENN |  |
@@ -2916,24 +2440,24 @@ cherten. (GRAU = BLOCK) DERH. nagement-Programm (DMP), in dem der Versicherte ei
 
 ---
 
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN ** 42a |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN  42a |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | x |  | Arztnummer der ausstellenden/  9 | 0..1  Dieses Feld enthält als Identifikator der | WENN | ANSONSTEN   42b |  | x |  | Zahnarztnummer der der aus- 9 | 0..1  Dieses Feld enthält als Identifikator der |
 | WENN |  | ANSONSTEN | 42c |  |  |  | x |  |  | Telematik-ID der ausstellenden/ | 1..128 |
@@ -3042,24 +2566,24 @@ cherten. (GRAU = BLOCK) DERH. nagement-Programm (DMP), in dem der Versicherte ei
 
 ---
 
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | **141** |  |  | **x** |  |  |  | **Name der ausstellenden/ ver-** |  | **1..1** | **Dieser Block enthält den Namen der** | 44 |
 |  |  |  | x |  |  | Vorname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den Vornamen der |  | 45 |
@@ -3168,24 +2692,24 @@ cherten. (GRAU = BLOCK) DERH. nagement-Programm (DMP), in dem der Versicherte ei
 
 ---
 
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | **50** |  | **x** |  |  |  |  | **Verantwortliche Person** |  | **0..1** | **Dieser Block enthält die Daten der ver-** | **Der Block dient dazu, die entspre-** |
 | **das Feld „Typ der ausstellenden/ verschreiben-** |  | **ANSONSTEN WENN** |  |  |  |  |  | **ANSONSTEN** |  |  |  |
@@ -3294,24 +2818,24 @@ cherten. (GRAU = BLOCK) DERH. nagement-Programm (DMP), in dem der Versicherte ei
 
 ---
 
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN ** 149 |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN  149 |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | x |  | ASV-Fachgruppennummer der  9 | 0..1  Dieses Feld enthält die ASV-Fachgrup- | WENN | ANSONSTEN | **52 ** |  | **x ** |  | **Identifikator der verantwortli-** |
 |  |  | **0..1** |  | **Dieser Block enthält den Identifikator** |  | **verantwortlichen Person“ gleich „00“ oder „01“** |  |  |  | **ANSONSTEN WENN** |  |
@@ -3420,24 +2944,24 @@ cherten. (GRAU = BLOCK) DERH. nagement-Programm (DMP), in dem der Versicherte ei
 
 ---
 
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN ** 52b |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN  52b |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | x |  | Zahnarztnummer der verant- 9 | 0..1  Dieses Feld enthält als Identifikator der | WENN  ANSONSTEN | 52c |  | x | Telematik-ID der verantwortli- | 1..128  0..1 | Dieses Feld enthält als Identifikator der |
 |  | **142** |  |  |  |  |  | **x** |  |  |  |  |
@@ -3546,24 +3070,24 @@ cherten. (GRAU = BLOCK) DERH. nagement-Programm (DMP), in dem der Versicherte ei
 
 ---
 
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | **59** |  | **x** |  |  |  |  | **Einrichtung** |  | **1..1** | **Dieser Block enthält Daten der Einrich-** | **Für den zahnärztlichen Bereich gilt der** |
 |  |  | **61** |  |  |  | **x** |  |  |  |  | **Identifikator der Einrichtung** |
@@ -3672,24 +3196,24 @@ cherten. (GRAU = BLOCK) DERH. nagement-Programm (DMP), in dem der Versicherte ei
 
 ---
 
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN ** 61b |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN  61b |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | x |  | IK-Nummer  9 | 0..1  Dieses Feld enthält ein Institutions- | WENN  ANSONSTEN | 61c |  | x | KZV-Abrechnungsnummer | 9  0..1 | Dieses Feld enthält eine Abrechnungs- WENN |
 | ANSONSTEN | 61d |  |  |  | x |  |  | Standortnummer | 9 | 0..1 | Dieses Feld enthält eine Standortnum- |
@@ -3798,24 +3322,24 @@ cherten. (GRAU = BLOCK) DERH. nagement-Programm (DMP), in dem der Versicherte ei
 
 ---
 
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN ** 63 |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN  63 |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | x |  | Wohnsitzländercode der Ein- Kodiert | 0..1  Dieses Feld enthält den Wohnsitzlän- | 64 |  | x |  | Postleitzahl der Einrichtung  1..10 | 0..1  Dieses Feld enthält die Postleitzahl. | 65 |
 |  |  |  | x |  |  | Ortsname der Einrichtung | 1..40 | 1..1 | Dieses Feld enthält den Ortsnamen. |  | 66 |
@@ -3924,24 +3448,24 @@ cherten. (GRAU = BLOCK) DERH. nagement-Programm (DMP), in dem der Versicherte ei
 
 ---
 
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-\| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
+| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | **81 ** | **x** |  |  | **Spezifische Verordnungsdaten** |  | **1..1** | **Dieser Block enthält die spezifischen ** | 82 | x |  | Pharmazentralnummer Verord- |
 | Kodiert | 1..1 | In diesem Feld ist die 8-stellige Phar- | Sofern einer DiGA für unterschiedliche |  | 83 |  |  | x |  |  |  |
@@ -4058,21 +3582,21 @@ Verordnungsdaten. (GRAU = BLOCK) DERH. mazentralnummer (PZN) der DiGA Ver- ordnu
 | FHIR Releases and Versioning | FHIR Releases and Versioning  https://hl7.org/fhir/versions.html#versions |
 | HL7-Basis-Profile | HL7 Basis-Profile  https://simplifier.net/Basisprofil-DE-R4 |
 | KBV-Basis-Profile | KBV-Basis-Profile  https://simplifier.net/base1x0 |
-| FOR-Profile | Formularübergreifende Profile  https://update.kbv.de/ita-update/DigitaleMus- https://simplifier.net/for |
-| EVDGA-Profile | Spezifische Profile zur Abbildung der elektroni- https://update.kbv.de/ita-update/DigitaleMus- https://simplifier.net/evdga |
+| FOR-Profile | Formularübergreifende Profile  https://update.kbv.de/ita-update/DigitaleMus-   https://simplifier.net/for |
+| EVDGA-Profile | Spezifische Profile zur Abbildung der elektroni- https://update.kbv.de/ita-update/DigitaleMus-   https://simplifier.net/evdga |
 | eVDGA-Stylesheet | Stylesheet zur Visualisierung Daten der elektro- https://update.kbv.de/ita-update/DigitaleMus- |
 | Anlage 2 | Anlage 2 - Vereinbarung über die Vordrucke für  https://www.kbv.de/media/sp/02_Vordruck- |
 | Anlage 2b | Anlage 2b des Bundesmantelvertrages-Ärzte  https://www.kbv.de/media/sp/02b_Vordruck- |
 | Vorlage Patientenausdruck | Vorlage für das Layout des „ https://update.kbv.de/ita-update/DigitaleMus- |
 |  | **Referenz** |
 | Dokument | FHIR® R4  FHIR-Spezifikation Release R4  http://hl7.org/fhir/R4/ |
-|  | FHIR Releases and Versioning FHIR Releases and Versioning |
-|  | https://hl7.org/fhir/versions.html#versions |
+|  | FHIR Releases and Versioning FHIR |
+| Releases and Versioning | https://hl7.org/fhir/versions.html#versions |
 | HL7-Basis-Profile | HL7 Basis-Profile  https://simplifier.net/Basisprofil-DE-R4 |
 | KBV-Basis-Profile | KBV-Basis-Profile  https://simplifier.net/base1x0 |
 | FOR-Profile | Formularübergreifende Profile  https://update.kbv.de/ita-update/DigitaleMus- |
 
-REFERENZIERTE DOKUMENTE ter/FOR/ schen Verordnung digitaler Gesundheitsanwen- dungen ter/eVDGA/ nischen Verordnung digitaler Gesundheitsan- wendungen ter/eVDGA/ die vertragsärztliche Versorgung vereinbarung.pdf  vereinbarung_digitale_Vordrucke.pdf Ausdruck zur Einlö- sung Ihres E-Rezeptes Ihrer Verordnung: DIGA ter/eVDGA/
+REFERENZIERTE DOKUMENTE ter/FOR/ schen Verordnung digitaler Gesundheitsanwen- dungen ter/eVDGA/ nischen Verordnung digitaler Gesundheitsan- wendungen ter/eVDGA/ die vertragsärztliche Versorgung vereinbarung.pdf vereinbarung_digitale_Vordrucke.pdf Ausdruck zur Einlö- sung Ihres E-Rezeptes Ihrer Verordnung: DIGA ter/eVDGA/
 
 ---
 
@@ -4080,12 +3604,12 @@ REFERENZIERTE DOKUMENTE ter/FOR/ schen Verordnung digitaler Gesundheitsanwen- du
 |  |  |
 |---|---|
 | Technisches Handbuch Anlage 2b  https://update.kbv.de/ita-update/DigitaleMus- | EXT_ITA_VGEX_Anforderungskatalog_VDGA |
-| Anforderungskatalog nach § 73 SGB V Abs. 9 für | https://update.kbv.de/ita-update/Verordnun- gemSysL_eRp |
-| Systemspezifisches Konzept E-Rezept | https://gemspec.gema- gemILF_PS_eRP  Spezifikation Implementierungsleitfaden Pri- https://gemspec.gematik.de/docs/gemILF/ge- |
+| Anforderungskatalog nach § 73 SGB V Abs. 9 für | https://update.kbv.de/ita-update/Verordnun-    gemSysL_eRp |
+| Systemspezifisches Konzept E-Rezept | https://gemspec.gema-   gemILF_PS_eRP  Spezifikation Implementierungsleitfaden Pri- https://gemspec.gematik.de/docs/gemILF/ge- |
 | gemSpec_DM_eRP | Spezifikation Datenmodell E-Rezept   https://gemspec.gema- |
 | gemF_eRp_DiGA | Feature: Verordnung von Digitalen Gesund- https://gemspec.gema- |
-| SDKT | Kostenträgerstammdatei der KBV  https://update.kbv.de/ita-update/Stammda-  **Ansprechpartner:** |
-| Dezernat Digitalisierung und IT | IT in der Arztpraxis  Kassenärztliche Bundesvereinigung |
+| SDKT | Kostenträgerstammdatei der KBV  https://update.kbv.de/ita-update/Stammda-     **Ansprechpartner:** |
+| Dezernat Digitalisierung und IT | IT in der Arztpraxis  Kassenärztliche Bundesvereinigung www.kbv.de |
 |  |  |
 |  |  |
 |  |  |
@@ -4098,4 +3622,4 @@ REFERENZIERTE DOKUMENTE ter/FOR/ schen Verordnung digitaler Gesundheitsanwen- du
 | gemF_eRp_DiGA | Feature: Verordnung von Digitalen Gesund- https://gemspec.gema- |
 | SDKT | Kostenträgerstammdatei der KBV  https://update.kbv.de/ita-update/Stammda- |
 
-ter/KBV_ITA_VGEX_Technisches_Hand- buch_DiMus.pdf  Verordnungssoftware gen/VDGA/KBV_ITA_VGEX_Anforderungskata- log_VDGA.pdf  tik.de/docs/gemSysL/gemSysL_eRp/gemSysL_e Rp_V1.1.0/ märsysteme mILF_PS_eRp/latest/ tik.de/docs/gemSpec/gemSpec_DM_eRp/la- test/ heitsanwendungen tik.de/docs/gemF/gemF_eRp_DiGA/latest/ teien/KBV_Stammdateien/  Tel.: 030 4005-2077, ita@kbv.de  Herbert-Lewin-Platz 2, 10623 Berlin ita@kbv.de, www.kbv.de
+ter/KBV_ITA_VGEX_Technisches_Hand- buch_DiMus.pdf Verordnungssoftware gen/VDGA/KBV_ITA_VGEX_Anforderungskata- log_VDGA.pdf tik.de/docs/gemSysL/gemSysL_eRp/gemSysL_e Rp_V1.1.0/ märsysteme mILF_PS_eRp/latest/ tik.de/docs/gemSpec/gemSpec_DM_eRp/la- test/ heitsanwendungen tik.de/docs/gemF/gemF_eRp_DiGA/latest/ teien/KBV_Stammdateien/ Tel.: 030 4005-2077, ita@kbv.de  Herbert-Lewin-Platz 2, 10623 Berlin ita@kbv.de,

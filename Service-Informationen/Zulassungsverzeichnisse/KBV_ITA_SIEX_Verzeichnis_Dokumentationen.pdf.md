@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**07. JUNI 2026**
+**16. JUNI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -13,7 +13,7 @@
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -28,7 +28,7 @@
 |  | Y/53/2601/36/031 | 31.12.2028 | Hautkrebs-Screening |  |
 |  | Y/53/2601/36/081 | 31.12.2028 | Hautkrebs-Screening |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 07. Juni 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 16. Juni 2026
 
 Y/53/2601/36/062 31.12.2028 Hautkrebs-Screening
 
@@ -37,7 +37,7 @@ ACETOmed ACETO Softwareentwicklung GmbH Landsberger Straße 155 80687 München I
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -68,7 +68,7 @@ Praxis4More CoKom One GmbH John-F.-Kennedy-Straße 10 97877 Wertheim Internet: w
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -83,7 +83,7 @@ ALBIS CompuGroup Medical Deutschland AG Maria Trost 21 56070 Koblenz Internet: w
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -104,12 +104,12 @@ ALBIS CompuGroup Medical Deutschland AG Maria Trost 21 56070 Koblenz Internet: w
 
 Y/53/2507/36/060 30.06.2028 Hautkrebs-Screening
 
-CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG Karl-Wiechert-Allee 64 30625 Hannover Internet: www.medistar.de und www.cgm.com/de Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK Windows InterMediNet KVDT DBI Informatik, Dirk Blume Tieberg 7 31191 Algermissen Internet: www.dbi-informatik.de inSuite Doc Cirrus GmbH Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com Windows iOS/Android Linux Mac OS Sonstige WindowsWindows
+CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG Karl-Wiechert-Allee 64 30625 Hannover Internet: www.medistar.de und www.cgm.com/de Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK Windows InterMediNet DBI Informatik, Dirk Blume Tieberg 7 31191 Algermissen Internet: www.dbi-informatik.de inSuite Doc Cirrus GmbH Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com Windows iOS/Android Linux Mac OS Sonstige WindowsWindows
 
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -139,7 +139,7 @@ DURIA Duria eG Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de Epik
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -155,7 +155,7 @@ DURIA Duria eG Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de Epik
 |  | Y/53/2507/36/616 | 30.06.2028 | Hautkrebs-Screening |  |
 |  | Y/53/2507/36/701 | 30.06.2028 | Hautkrebs-Screening |  |
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 07. Juni 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 16. Juni 2026
 
 Y/53/2501/36/034 31.12.2027 Hautkrebs-Screening
 
@@ -164,7 +164,7 @@ QUINCY WIN Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -187,7 +187,7 @@ Medical Office INDAMED EDV-Entwicklung und Vertrieb GmbH Ziegeleiweg 1 19057 Sch
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -211,7 +211,7 @@ David Medat Computersysteme GmbH Albrechtstraße 14 80636 München Internet: www
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -235,7 +235,7 @@ Praxis-Programm medisoftware GmbH & Co. KG Steinstraße 1 24118 Kiel Internet: w
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -248,12 +248,12 @@ Praxis-Programm medisoftware GmbH & Co. KG Steinstraße 1 24118 Kiel Internet: w
 |  | Y/56/2401/36/015 | 31.12.2026 | QS Hörgeräteversorgung |  |
 |  | Y/53/2601/36/043 | 31.12.2028 | Hautkrebs-Screening |  |
 
-MEDVISION MedVision AG Heinrich-Hertz-Str. 9 59423 Unna Internet: www.medvision.de Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPHRO - PATIDOK AMBULANZ MEDYS MEDYS GmbH Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de Pro_Medico Neutz GmbH Systemhaus Schwabstraße 22 74189 Weinsberg Internet: www.neutz.net Windows Mac OS Windows WindowsSeite 11 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 07. Juni 2026
+MEDVISION MedVision AG Heinrich-Hertz-Str. 9 59423 Unna Internet: www.medvision.de Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPHRO - PATIDOK AMBULANZ MEDYS MEDYS GmbH Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de Pro_Medico Neutz GmbH Systemhaus Schwabstraße 22 74189 Weinsberg Internet: www.neutz.net Windows Mac OS Windows WindowsSeite 11 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 16. Juni 2026
 
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -283,7 +283,7 @@ PegaMed PEGA Elektronik GmbH Felix-Dahn-Straße 15 70597 Stuttgart Internet: www
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -307,7 +307,7 @@ PROFIMED PRO MEDISOFT AG Besselstraße 25 68219 Mannheim Internet: www.pro-medis
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -341,7 +341,7 @@ principa SIEGELE Software GmbH Wehrgasse 28/3+4 A-1050 Wien T2med T2med GmbH & C
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|  |  | Prüfnummer(n) |  | unterstützte |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
@@ -356,7 +356,7 @@ principa SIEGELE Software GmbH Wehrgasse 28/3+4 A-1050 Wien T2med T2med GmbH & C
 |  | Y/55/2402/36/457 | 31.01.2027 | QS Molekulargenetik |  |
 |  | Y/53/2603/37/768 | 31.03.2029 | Hautkrebs-Screening |  |
 
-Seite 15 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 07. Juni 2026
+Seite 15 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 16. Juni 2026
 
 Y/53/2501/36/313 31.12.2027 Hautkrebs-Screening
 

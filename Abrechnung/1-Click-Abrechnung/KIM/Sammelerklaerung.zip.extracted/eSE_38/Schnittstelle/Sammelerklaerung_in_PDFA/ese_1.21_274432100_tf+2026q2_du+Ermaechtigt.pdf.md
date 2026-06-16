@@ -1,4 +1,4 @@
-| **Sammelerklärung 2. Quartal 2026 \| Ermächtigte Ärzte** | |
+| Sammelerklärung 2. Quartal 2026 \| Ermächtigte Ärzte | |
 |---|---|
 | **Klinik für Orthopädie und Orthopädische Chirurgie mit  Sportmedizin Städtisches Krankenhaus Dr. med.  Hans  Schloedermann Facharzt für Orthopädie und Unfallchirurgie Hahnenweg  4 51371  Leverkusen** | BSNR: 274432100 Fallzahl: 1302 |
 
@@ -32,10 +32,10 @@
 | 8. | Die eingesetzte Software ist zertifiziert. |
 |---|---|
 
-\| **1\|2** Bundesausschusses in der jeweils geltenden Fassung wurden beachtet. 2. Die in Rechnung gestellten Leistungen habe ich selbst (persönlich) oder durch nichtärztliche Hilfskräfte unter |
+\| **1** Bundesausschusses in der jeweils geltenden Fassung wurden beachtet.**\|** 2.**2** Die in Rechnung gestellten Leistungen habe ich selbst (persönlich) oder durch nichtärztliche Hilfskräfte unter |
 \|---|
 
-Sammelerklärung 2. Quartal 2026 | Ermächtigte Ärzte 1|2
+Sammelerklärung 2. Quartal 2026 | Ermächtigte Ärzte
 
 ---
 

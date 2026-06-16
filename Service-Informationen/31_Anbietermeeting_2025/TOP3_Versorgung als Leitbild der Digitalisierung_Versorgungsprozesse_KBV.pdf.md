@@ -1,6 +1,8 @@
 # Versorgung als Leitbild der  Digitalisierung &  Versorgungsprozesse
 
-## Steffi Neumann Leiterin KIG
+## Steffi Neumann
+
+## Leiterin KIG
 
 **Dr. Florian Fuhrmann**
 
@@ -11,24 +13,36 @@
 
 # Was erwartet Sie heute?
 
-- **10:45-11:05 Uhr**
+- **10:45 11:05 Uhr**
 
-## Zukunft Ausrichtung KIG Steffi Neumann & Josephine Weiß - **11:05-11:20 Uhr**
+## - Zukunft Ausrichtung KIG
 
-## Zukunft der gematik
+## - Steffi Neumann & Josephine Weiß
 
-Dr. Florian Fuhrmann - **11:20-11:30 Uhr**
+- **11:05 11:20 Uhr**
 
-## Dialog Q & A
+## - Zukunft der gematik
+
+Dr. Florian Fuhrmann
+
+- **11:20 11:30 Uhr**
+
+## - Dialog
+
+Q & A
 
 
 ---
 
 # Zukunft KIG gematik
 
-## Steffi Neumann Leiterin KIG
+## Steffi Neumann
 
-## Josephine Weiß  Strategic Advisor KIG
+## Leiterin KIG
+
+## Josephine Weiß
+
+## Strategic Advisor KIG
 
 
 ---
@@ -37,40 +51,35 @@ Dr. Florian Fuhrmann - **11:20-11:30 Uhr**
 
 **2025**
 
-### Gemeinsam wirksamer:
+### Gemeinsam wirksamer: Das Kompetenzzentrum für
 
 ### Interoperabilität im Gesundheitswesen (KIG) verfolgt grundlegend
 
-### das Ziel, durch verbindliche Standards einen
+### das Ziel, durch verbindliche Standards einen reibungslosen
 
-### Datenfluss und ein besseres
+### Datenfluss und ein besseres Nutzererlebnis für Mediziner:innen
 
 ### und Forscher:innen zu ermöglichen. Dieses Ziel hat das KIG im
 
 ### Transformationsjahr 2024 schrittweise weiter vorangetrieben.
 
-### Das Kompetenzzentrum für
+### Zu den wichtigsten Entwicklungen gehören
 
-### reibungslosen
+- 1. Erste eML Empfehlung **innerhalb von 4 Monaten**
+- 2. Errichtung eines neuen Konformitätsbewertungsverfahrens
 
-### Nutzererlebnis für Mediziner:innen
+### - zur Gewährleistung einer größeren Interoperabilität zwischen
 
-### Zu den wichtigsten Entwicklungen gehören:
+### - Systemen
 
-1. Erste eML-Empfehlung **innerhalb von 4 Monaten**
+**innerhalb von 5 Monaten**
 
-2. Errichtung eines neuen Konformitätsbewertungsverfahrens
-
-### zur Gewährleistung einer größeren Interoperabilität zwischen
-
-### Systemen innerhalb von 5 Monaten
-
-**3. Einvernehmen 116117** mit kv digital
+- **3. Einvernehmen 116117** mit kv digital
 
 
 ---
 
-# KIG Kernaufgaben auf Basis der GIGV
+## KIG Kernaufgaben auf Basis der GIGV
 
 ### Aufgaben und Prozesse des KIGs
 
@@ -80,23 +89,21 @@ Eigenentwicklung, Beauftragen
 
 #### IOP Expertengremium & Kreis
 
-Beratung und Unterstützung in den  neuen Aufgaben, IOP-Arbeitskreise
+Beratung und Unterstützung in den  neuen Aufgaben, IOP Arbeitskreise
 
 #### Wissensplattform INA
 
-KOB-Antragsdaten, PVS-Positivliste,  KOB-Beschwerdestelle, C5-Testate
+KOB Antragsdaten, PVS Positivliste,  KOB Beschwerdestelle, C5 Testate
 
-- Eintrittskriterium auf 3 Jahre Berufserfahrung abgesenkt
+- [Eintrittskriterium auf 3 Jahre Berufserfahrung abgesenkt](https://www.ina.gematik.de/kig/unsere-basis)
 
 Verbindliche Festlegungen
 
 **5**
 
-#### Operationalisierung +  Prozessoptimierung in  Geschäfts- und
+#### [Operationalisierung +](https://www.ina.gematik.de/kig/unsere-basis) [Prozessoptimierung in](https://www.ina.gematik.de/kig/unsere-basis) [Geschäfts](https://www.ina.gematik.de/kig/unsere-basis) [und](https://www.ina.gematik.de/kig/unsere-basis) [Verfahrensordnung auf](https://www.ina.gematik.de/kig/unsere-basis)
 
-#### Verfahrensordnung auf
-
-### Anlagen
+### [Anlagen](https://www.ina.gematik.de/kig/unsere-basis)
 
 Gesetzliche Spezifikationsaufträge
 
@@ -112,48 +119,56 @@ Antrag, Zertifikat, Anzeigepflichten,  Beschwerdemöglichkeiten
 
 Unterstützung Bundesregierung,  Kompetenzbildung Reporting
 
-der IOP-Governance Verordnung
+der IOP Governance Verordnung
 
 
 ---
 
 # Die Struktur und Beziehungen des KIGs
 
-**IOP-Community** (Verbände, Start-ups,  SDOs, Industrie etc.)
-
-### Wissensplattform INA
-
-### Lernplattform L-INA
-
-* Diese Aufgaben stellen einen Teilbereich der Aufgaben des KIGs dar. Kernaufgaben sind weiterführend auf Seite 14 dargestellt.
-
 **6**
 
-**Betreibt**
+**Abstimmungsrelevante Akteure**
 
-### IOP-Arbeitskreise
-
-### Kompetenzzentrum für Interoperabilität im Gesundheitswesen
+(hier beispielhaft)
 
 ## Aufgabe des KIGs
 
-**pflegt Pool**
+K
 
-**richtet ein**
+I
+
+### im G
+
+### IOP Arbeitskreise
+
+**IOP Community**
+
+(Verbände, Start ups,  SDOs, Industrie etc.)
+
+### IOP Expertenkreis
+
+### Interop Council (Expertengremium)
+
+### Wissensplattform INA
+
+### Lernplattform L INA
+
+**Betreibt**
 
 **Auswahlverfahren**
 
-### IOP-Expertenkreis
-
-**KBV**
-
-**Abstimmungsrelevante Akteure** (hier beispielhaft)
-
 **setzt ein,**  **benennt &**  **kooperiert**
+
+**richtet ein**
 
 **mio42**
 
-### Interop Council (Expertengremium)
+**KBV**
+
+* Diese Aufgaben stellen einen Teilbereich der Aufgaben des KIGs dar. Kernaufgaben sind weiterführend auf Seite 14 dargestellt.
+
+**pflegt Pool**
 
 
 ---
@@ -165,16 +180,27 @@ der IOP-Governance Verordnung
 
 ---
 
-# Welchen Mehrwert bietet die KOB?
+Rückversicherung über
 
-## Short & Crisp
+Einhaltung von IOP Standards
 
-## Ansatz
+Harmonisierte
 
-### Prüfung, Autorisierung & Transparenz aktueller IOP- Standards Industrie
-Erhöhung der Produktqualität
+Versorgungsabläufe
 
-durch Sicherung aktueller IOP-
+Sicherheit des Daten austauschs
+
+Mündigkeit über
+
+Datenqualität
+
+### Patient:innen
+
+### Leistungs
+
+### erbringende
+
+Erhöhung der Produktqualität durch Sicherung aktueller IOP
 
 Standards
 
@@ -182,158 +208,145 @@ Bewegung im Markt &
 
 Innovationskraft
 
-### Leistungs- erbringende
+### Industrie
 
-Rückversicherung über
+## Welchen Mehrwert bietet die KOB?
 
-Einhaltung von IOP-Standards
+## Short & Crisp
 
-Harmonisierte
+## Ansatz
 
-Versorgungsabläufe
+### Prüfung,
 
-### Patient:innen
+### Autorisierung &
 
-Sicherheit des Daten-
+### Transparenz
 
-austauschs
+### aktueller IOP
 
-Mündigkeit über
-
-Datenqualität
+### Standards
 
 
 ---
 
 **63 Praxisverwaltungssysteme**
 
-## bestehen die KOB 96%
-
-## Marktabdeckung
+## bestehen die KOB 96%  Marktabdeckung
 
 
 ---
 
-# Erfolgreiche Etablierung des neuen Verfahrens in  Zusammenarbeit mit den Herstellern
-
-### Was & Wie - Instrument, **um neu**
-
-**festgelegte IOP-Standards**  **korrekten Anwendung in**  **Primärsystemen**  diese zu autorisieren
-
-- Langfristig werden mit Hilfe dieses
-
-Verfahrens **Versorgungsprozesse**
-
-ob ihrer
-
-zu prüfen und
-
-**interoperabel gestaltet**
-
-- **Niedrigschwelliges Verfahren**  durchetabliertes System zum KOB  Zertifikat
+## Erfolgreiche Etablierung des neuen Verfahrens in  Zusammenarbeit mit den Herstellern
 
 ### Ergebnisse & Learnings
 
-- **Regulatorik**: Verbindliche Frist für
-
-Umsetzung von Standards in  Primärsystemen
-
-- **Prozess:** Integration war ein Erfolg 62%
-
-berichteten, dass der Prozess ohne  größere Probleme durchlief
-
-- **Kommunikation**: Sprechstundenformat
-
-mit Herstellern als gutes Instrument
-
-gaben 67% der Befragten an
+- **Regulatorik** Verbindliche Frist für  Umsetzung von Standards in  Primärsystemen
+- **Prozess** Integration war ein Erfolg 62%  berichteten, dass der Prozess ohne  größere Probleme durchlief
+- **Kommunikation** Sprechstundenformat  mit Herstellern als gutes Instrument
+- gaben 67% der Befragten an
 
 ### Informieren & Melden
 
-- **Stand: 16.09.2025: 129 bestätigte**  **Primärsysteme**
+- **Stand: 16.09.2025 129 bestätigte**  **Primärsysteme**
 
-63
+### Was & Wie
+
+- Instrument, **um neu**  **festgelegte IOP Standards** ob ihrer  **korrekten Anwendung in**  **Primärsystemen** zu prüfen und  diese zu autorisieren
+- Langfristig werden mit Hilfe dieses
+- Verfahrens **Versorgungsprozesse**  **interoperabel gestaltet**
+- **Niedrigschwelliges Verfahren**  durch etabliertes System zum KOB  Zertifikat 63
 
 31
 
-14 12 7 2
+14 12
+
+7
+
+2
 
 
 ---
-
-## Use-Case-Fit
-
-## KOB & Praxisverfügbarkeit
-
-## Entwickeln
 
 ## Von Standard zu Abrechnung  „läuft in der Praxis“ gemeinsame Aufgabe
 
+## Entwickeln
+
+## KOB & Praxisverfügbarkeit
+
+## Use Case Fit
+
 
 ---
 
-# eMP und ISiK: Nächste  Konformitätsbewertungen werden geplant
+12
 
-### Vorbereitungen für KOB zur e PA 3.1.3 sind gestartet
+## eMP und ISiK: Nächste  Konformitätsbewertungen werden geplant
+
+### Vorbereitungen für KOB zur ePA 3.1.3 sind gestartet
 
 - **Identifikation der Anforderungen**, die in Empfehlungsprozess dem BMG zur
 
-### Verbindlichmachungübergeben werden
+### - Verbindlichmachung
+
+übergeben werden
 
 - Fokus: **erweiterter digital gestützter Medikationsprozess**
-
 - **Identifikation** der Zielgruppen für **bestätigungsrelevante Systeme**
-
 - **Empfehlungsdokument** wird auf INA veröffentlicht
-
 - Anschließend: **Notifizierungsverfahren** (mind. 3 Monate)
-
 - Timeline wird noch bekannt gegeben
-
 - Nach erfolgreicher Notifizierung: **Aktualisierung der Anlage 1**
 
-### Gesundheits-IT-Interoperabilitäts-Governance Verordnung
+### - Gesundheits
 
-- **KOB für e PA 3.0 / Medication Service ePA 3.0** wird durch
+**IT Interoperabilitäts Governance Verordnung**
 
-### kommende KOB für e PA 3.1.3 ersetzt
+- **KOB für ePA 3.0 / Medication Service ePA 3.0** wird durch
+
+### - kommende KOB für
+
+ePA 3.1.3 **ersetzt**
 
 - Operativer Prozess bleibt bestehen: Bereitstellung der **Testsuite**
 
-### über GitHub Einreichung der Testberichte und Nachweise über Titus 12
+### - über GitHub
+
+**Einreichung der Testberichte und Nachweise**
+
+### - über
+
+**Titus**
+
 
 ---
 
 # Alles Wissenswerte zur KOB…
 
-### Gemeinschaft & Co-Creation
+### Gemeinschaft & Co Creation
 
 - Gemeinschaft stärken & gemeinsam  effektiver sein mit einem neuen  Format als Ergänzung zu  bestehenden
+- Relevante Akteure bündeln ihre  Kräfte **18.09.2025** Kommen Sie  vorbei heute Abend!join forces
 
-- Relevante Akteure bündeln ihre  Kräfte **18.09.2025**- Kommen Sie
-
-vorbeiheute Abend!joinforces
-
-### Interoperabilitäts Navigator
+**Interoperabilitäts Navigator**
 
 - Erste Anlaufstelle für IOP im  Gesundheitsbereich
+- Dynamische Wissensplattform,  Grundlagen, Informations und  Partizipationsmöglichkeiten,  Publikationen zu Verbindlichkeiten  (KOB)
 
-- Dynamische Wissensplattform,  Grundlagen, Informations- und  Partizipationsmöglichkeiten,  Publikationen zu Verbindlichkeiten  (KOB)
-
-### Learning INA
+**Learning INA**
 
 - interaktive Lernplattform für  Interoperabilität im  Gesundheitswesen
-
 - Entscheidungshilfe, umfassende  Lernressourcen, Experten  gesteuerte Inhalte, kollaborative  Lernumgebung
 
 
 ---
 
+credits:istock.com CoreDesignKEY
+
+## Interoperabilitäts
+
+## Roadmap
+
 ### Hier geht es zur Umfrage an den Expertenkreis
-## Interoperabilitäts Roadmap
-
-credits:istock.com/CoreDesignKEY
-
 
 ---
 
@@ -358,7 +371,7 @@ credits:istock.com/CoreDesignKEY
 
 ---
 
-|  |  | **Versorgung** | **auf** |
+|  |  | Versorgung | auf |
 |---|---|---|---|
 |  | **dem** |  | **Land** |
 |  |  | **Bürokratie** | |
@@ -369,9 +382,9 @@ Versorgung auf dem Land## Kostendruck
 
 ---
 
-## Regulatorik
-
 ## Digitalisierung
+
+## Regulatorik
 
 
 ---
@@ -394,15 +407,26 @@ Versorgung auf dem Land## Kostendruck
 
 ---
 
-**5 zentrale Versorgungsprobleme**
+# 5 zentrale Versorgungsprobleme  ohne Digitalisierung schwer lösbar
 
-# ohne Digitalisierung schwer lösbar
+#### Unzureichende  Patient:innen sicherheit
 
-#### Unzureichende Daten- Attraktivität Patient:innen- austausch medizinischer Berufe sicherheit Individuelle Zeit für Medizin Patient:innen
+#### Individuelle  Medizin
+
+#### Attraktivität  medizinischer Berufe
+
+#### Daten
+
+#### austausch
+
+#### Zeit für
+
+#### Patient:innen
+
 
 ---
 
-| **Was** |  | **haben wir** |
+| Was |  | haben wir |
 |---|---|---|
 |  | **bereits** | **erreicht?** |
 |  | gematik \| KBV | Anbietermeeting 18.09.2025 \| öffentlich |
@@ -411,15 +435,13 @@ Was haben wir bereits erreicht?
 
 ---
 
-# Unsere digitalen Anwendungen und technischen Produkte
-
-Das haben wir geschafft. Digitalisierung gewinnt an Schwung
-
-**E-Rezept**
+# Unsere digitalen Anwendungen und technischen Produkte Das haben wir geschafft. Digitalisierung gewinnt an Schwung
 
 **Deutsches**
 
-**Elektronisches Melde-** **und Informationssystem**  **für den Infektionsschutz**  **(DEMIS)**
+**E Rezept**
+
+**Elektronisches Melde** **und Informationssystem**  **für den Infektionsschutz**  **(DEMIS)**
 
 **Notfalldaten**
 
@@ -429,11 +451,11 @@ Das haben wir geschafft. Digitalisierung gewinnt an Schwung
 
 **2025**
 
-**TI-Messenger**
+**TI Messenger**
 
-**Elektronische**  **Patientenakte**  **(ePA)**
+**Elektronische**  **Patientenakte**  **ePA**
 
-**Elektronische**  **Medikationsliste**  **(eML)**
+**Elektronische**  **Medikationsliste**  **eML**
 
 
 ---
@@ -449,20 +471,34 @@ Das haben wir geschafft. Digitalisierung gewinnt an Schwung
 
 **400 Mio.**
 
-## mit KIM versendete elektronische  Arbeitsunfähigkeits- bescheinigungen  (eAU) an  Krankenkassen
+## mit KIM versendete
+
+## elektronische  Arbeitsunfähigkeits bescheinigungen
+
+## eAU) an
+
+## Krankenkassen
+
 
 ---
 
 # Die Anwendungen der Telematikinfrastruktur Digitale Lösungen der gematik
 
+## über
+
+**1,7 Mio.**
+
+## Dokumenten
+
+## uploads
+
 ## mehr als
 
 **70 Mio.**
 
-## Elektronische  Patientenakten  angelegt über
-**1,7 Mio.**
+## Elektronische  Patientenakten
 
-## Dokumenten- uploads
+## angelegt
 
 
 ---
@@ -473,10 +509,19 @@ Das haben wir geschafft. Digitalisierung gewinnt an Schwung
 
 **11 Mio.**
 
-## geöffnete  elektronische Medikationslisten pro Woche fast
+## geöffnete
+
+## elektronische Medikationslisten
+
+## pro Woche
+
+## fast
+
 **1 Mrd.**
 
-## ausgestellte  E-Rezepte
+## ausgestellte
+
+**E Rezepte**
 
 
 ---
@@ -486,72 +531,87 @@ Das haben wir geschafft. Digitalisierung gewinnt an Schwung
 
 ---
 
-# Meilensteine des
+# Meilensteine des ePA Roll Outs
 
-### Konzeption  Implementierung Vorbereitungsphase
+### Konzeption  Implementierung
 
-# ePA Roll Outs
+### Vorbereitungsphase 01.10.25
 
-### GoLive 15.01.25 ePA-Einführung in  Modellregionen
+### Nutzungs verpflichtung
+
+Seit 29.04.25
+
+### Start bundesweiter  Roll Out
+
+### GoLive 15.01.25
+
+### ePA Einführung in  Modellregionen
 
 #### heute
-
-### Seit 29.04.25 Start bundesweiter  Roll Out 01.10.25
-
-### Nutzungs- verpflichtung
 
 
 ---
 
-# Status quo ePA Bundesweiter Roll Out vor
-
-## Letzten Wochen (Ø)
-
-## Spitzenwert
-
-**81 Tausend 1,7 Mio.**
-
-## Telematik IDs Zugriff =
-
-## Hochgeladene
-
-## Nutzung der ePA
-
-## Dokumente pro Woche
-
-**01.10.25**
+# Status quo ePA Bundesweiter Roll Out vor 01.10.25
 
 ## Roll Out
 
 **~ 83%**
 
-## Marktanteil der PVS-Hersteller die ePA-Update bereitgestellt  haben
+## Marktanteil der PVS Hersteller
+
+## die ePA Update bereitgestellt  haben
+
+## Spitzenwert
+
+**1,7 Mio.**
+
+## Hochgeladene  Dokumente pro Woche
+
+## Letzten Wochen (Ø)
+
+**81 Tausend**
+
+## Telematik IDs Zugriff =  Nutzung der ePA
 
 
 ---
 
-# Der gesetzliche Auftrag der Betriebsverantwortung für die TI
+# Der gesetzliche Auftrag der Betriebsverantwortung für die TI gemäß Sozialgesetzbuch (SGB) Fünftes Buch (V)
 
-### gemäß Sozialgesetzbuch (SGB) Fünftes Buch (V)
+## Das Gesetz unterscheidet zwischen
 
-## Das Gesetz unterscheidet zwischen operativer Betriebsleistung
-### Beauftragte Dienstleister oder zugelassene
+## operativer Betriebsleistung
 
-### Anbieter haben den störungsfreien Betrieb der TI-Produkte zu gewährleisten.
+### Beauftragte
+
+### Anbieter haben den störungsfreien Betrieb
+
+### der TI
+
+### Dienstleister oder zugelassene
+
+### Produkte zu gewährleisten.
+
 ## und Betriebsverantwortung.
 
 ### Die gematik nimmt zur Wahrnehmung
 
 ### der Betriebsverantwortung vor allem eine
 
-### Governance-Rolle ein
+### Governance Rolle ein
 
 
 ---
 
 # Betriebsstabilität steht aufgrund der steigenden  Versorgungsrelevanz viel mehr im Fokus
 
-### Beteiligte bei Anwendungen und Diensten der TI an Betriebsleistung und Betriebsverantwortung
+### Beteiligte bei Anwendungen
+
+### und Diensten der TI
+
+### an Betriebsleistung und Betriebsverantwortung
+
 ~ 70 Mio. Versicherte
 
 ### ~ 245.000 Verordnende
@@ -564,11 +624,13 @@ Das haben wir geschafft. Digitalisierung gewinnt an Schwung
 
 Anzahl August 2025
 
-Veränderung seit Jan 2022
+Veränderung
+
+seit Jan 2022
 
 ### Steigende Abhängigkeiten stellen hohe Anforderungen
 
-### TI-Teilnehmer1 127
+### TI Teilnehmer1 127
 
 +95%
 
@@ -581,15 +643,25 @@ Veränderung seit Jan 2022
 
 # Digitalisierung als Schlüssel  Reformen nachhaltig zum Erfolg bringen
 
-## Krankenhausreform Notfallreform Primärarztversorgung
+## Krankenhausreform
+
+## Notfallreform
+
+## Primärarztversorgung
+
 
 ---
 
 # Digitalisierung als Schlüssel  Reformen nachhaltig zum Erfolg bringen
 
+## Krankenhausreform
+
+## Notfallreform
+
+## Primärarztversorgung
+
 ## Gemeinsame Daten und digitale Prozesse  als Katalysator für diese wichtigen  Vorhaben
 
-## Krankenhausreform Notfallreform Primärarztversorgung
 
 ---
 
@@ -604,8 +676,10 @@ Veränderung seit Jan 2022
 
 ---
 
-# gematik. Gesunde Aussichten.
+# gematik Gesunde Aussichten.
 
 **Dr. Florian Fuhrmann**
 
-Geschäftsführer Friedrichstraße 136 10117 Berlin
+Geschäftsführer
+
+Friedrichstraße 136 10117 Berlin

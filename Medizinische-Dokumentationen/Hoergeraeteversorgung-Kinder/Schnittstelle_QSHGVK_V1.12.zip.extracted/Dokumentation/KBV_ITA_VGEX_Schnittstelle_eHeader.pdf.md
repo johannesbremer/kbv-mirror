@@ -1,41 +1,30 @@
-# IT in der Arztpraxis
+| *IT in* | *der* | *Arztpraxis* | |
+|---|---|---|---|
+|  |  | ***Schnittstellenbeschreibung*** | |
+| ***Header*** | ***für*** | ***eDMP*** | ***/ a-*** |
+|  | ***Datensatz*** |  |  |
+|  |  | [KBV_ITA_VGEX_Schnittstelle_eHeader] | |
+| Dezernat6 |  |  |  |
+|  | Informationstechnik, | | Telematik und Telemedizin |
+|  |  | 10623Berlin,Herbert-Lewin-Platz2 | |
+|  | Kassenärztliche |  | Bundesvereinigung |
+| Version | 2.12 |  |  |
+| Datum |  | 12.04.2019 |  |
+| Klassifizierung: | Extern |  |  |
+| Status: | In | Kraft |  |
+| © Kassenärztliche |  | Bundesvereinigung, | Berlin 2019 |
 
-# Schnittstellenbeschreibung  Header für eDMP / a-  Datensatz
-
-### [KBV_ITA_VGEX_Schnittstelle_eHeader]
-
-### Dezernat 6
-
-### Informationstechnik, Telematik und Telemedizin
-
-10623 Berlin, Herbert-Lewin-Platz 2
-
-### Kassenärztliche Bundesvereinigung
-
-Version 2.12
-
-Datum 12.04.2019
-
-Klassifizierung: Extern
-
-Status:
-
-In Kraft
-
-© Kassenärztliche Bundesvereinigung, Berlin 2019
-
+IT in der Arztpraxis Header für eDMP / a- Informationstechnik, Telematik und Telemedizin Kassenärztliche  Bundesvereinigung In Kraft © Kassenärztliche Bundesvereinigung, Berlin 2019
 
 ---
 
 ### D O K U M E N T E N H I S T O R I E
 
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 2.12 | 12.04.2019 | KBV | Erweiterung des | Anpassung an das | **25** |
 | 2.11 | 10.11.2015 | KBV | Erweiterung des | Anpassung an das | **25** |
 | 2.10 | 01.08.2012 | KBV | Red. |  |  |
-
-Header für eDMP / a-Datensatz
 
 Personenstandsgesetz Wertebereichs für den (PstG) Parameter Geschlecht des Patienten Personenstandsgesetz Wertebereichs für den (PstG) Parameter Geschlecht des Patienten Änderungen
 
@@ -51,7 +40,7 @@ Personenstandsgesetz Wertebereichs für den (PstG) Parameter Geschlecht des Pati
 
 **T A B E L L E N V E R Z E I C H N I S ......................................................................................... 6**
 
-**1** **Einleitung ............................................................................................................................... 7**
+**1** **Einleitung ...............................................................................................................................** **7**
 
 **2** **Dateinamen ........................................................................................................................... 8**
 
@@ -115,8 +104,6 @@ Patiententyp (patient.type_cd) .................................................
 
 Die Person Patient (person) ........................................................................................ 23
 
-Header für eDMP / a-Datensatz
-
 
 ---
 
@@ -154,7 +141,7 @@ VersichertenartMFR .............................................................
 
 6.9.5.10 Statusergaenzung ....................................................................................................... 29
 
-6.9.5.11 Bis DatumderGueltigkeit .............................................................................................. 29
+6.9.5.11 BisDatumderGueltigkeit .............................................................................................. 29
 
 6.9.5.12 KVKEinlesedatum ....................................................................................................... 29
 
@@ -198,50 +185,66 @@ Zusatzangabe zur XML-Schnittstelle (Software) ..................................
 
 6.10.6.7 Softwaretyp des XML-Prüfmoduls (SoftwareTyp) ....................................................... 35
 
-**7** **Glossar ................................................................................................................................. 36**
+**7** **Glossar ................................................................................................................................ 36**
 
 **8** **Referenzierte Dokumente ................................................................................................... 37**
-
-Header für eDMP / a-Datensatz
 
 
 ---
 
 ### A B B I L D U N G S V E R Z E I C H N I S
 
-###
+Abbildung 1 Grundstruktur levelone .........................................................................................
 
-Abbildung 1 Grundstruktur levelone ......................................................................................... 11
+Abbildung 2 Grundstruktur clinical_document_header
 
-Abbildung 2 Grundstruktur clinical_document_header ........................................................... 13
+Abbildung 3 Grundstruktur document_relationship
 
-Abbildung 3 Grundstruktur document_relationship ................................................................ 16
+Abbildung 4 Grundstruktur provider .........................................................................................
 
-Abbildung 4 Grundstruktur provider ......................................................................................... 17
+Abbildung 5 Grundstruktur person (Arzt) ................................................................................
 
-Abbildung 5 Grundstruktur person (Arzt) ................................................................................ 18
+Abbildung 6 Grundstruktur person_name (Arzt)
 
-Abbildung 6 Grundstruktur person_name (Arzt) ..................................................................... 19
+Abbildung 7 Grundstruktur addr (Arzt) ....................................................................................
 
-Abbildung 7 Grundstruktur addr (Arzt) .................................................................................... 21
+Abbildung 8 Grundstruktur patient ...........................................................................................
 
-Abbildung 8 Grundstruktur patient ........................................................................................... 22
+Abbildung 9 Grundstruktur person (Patient)
 
-Abbildung 9 Grundstruktur person (Patient) ........................................................................... 23
+Abbildung 10 Grundstruktur person_name (Patient)
 
-Abbildung 10 Grundstruktur person_name (Patient) ................................................................ 24
+Abbildung 11 Grundstruktur sciphox:GesetzlicheKrankenversicherung
 
-Abbildung 11 Grundstruktur sciphox:GesetzlicheKrankenversicherung .................................. 26
+Abbildung 12 Grundstruktur sciphox:Software
 
-Abbildung 12 Grundstruktur sciphox:Software ......................................................................... 30
+Abbildung 13 Grundstruktur Kontakt .........................................................................................
 
-Abbildung 13 Grundstruktur Kontakt ......................................................................................... 32
+Abbildung 14 Grundstruktur sciphox:Software
 
-Abbildung 14 Grundstruktur sciphox:Software ......................................................................... 34
+Abbildung 15 Grundstruktur sciphox:Software 11
 
-Abbildung 15 Grundstruktur sciphox:Software ......................................................................... 35
+........................................................... 13
 
-Header für eDMP / a-Datensatz
+................................................................ 16 17
+
+18
+
+..................................................................... 19 21
+
+22
+
+........................................................................... 23
+
+................................................................ 24
+
+................................ 26
+
+......................................................................... 30 32
+
+......................................................................... 34
+
+......................................................................... 35
 
 
 ---
@@ -274,8 +277,6 @@ Tabelle 11 Erläuterungen nm (Patient) .........................................
 
 Tabelle 12 SoftwareTyp ........................................................................................................ 32
 
-Header für eDMP / a-Datensatz
-
 
 ---
 
@@ -293,17 +294,13 @@ Diese Schnittstellenbeschreibung wird ausschließlich für EDV-gestützte Dokume
 
 Im Gegensatz zu früheren Schnittstellen der KBV ist diese nicht im xDT-Format sondern im  XML-Format beschrieben.
 
-Im Kapitel 6 *clinical_document_header (allgemein)* wird erklärt, welcher Schnittstellencode zu
-
-dem Header zu erzeugen ist.
+Im Kapitel 6 *clinical_document_header (allgemein)* wird erklärt, welcher Schnittstellencode zu  dem Header zu erzeugen ist.
 
 Diese Schnittstellenbeschreibung ist so angelegt, dass prinzipiell alle Ausfüllvarianten abbild-  bar sind. Dies schließt auch fehlerhafte Varianten ein. Zur Plausibilisierung des Datensatzes  muss das KBV-Prüfmodul XPM eingesetzt werden. Nur formal und inhaltlich korrekte Daten  sind zu übermitteln.
 
 Die Regeln zur Plausibilisierung sind in der jeweiligen Plausibilitätsrichtlinie hinterlegt. Her-  ausgeber und Verantwortlicher für diese Merkblätter sind die Spitzenverbände der Kranken-  kassen.
 
 ***Lediglich die genannten Plausibilitätsprüfungen sind Prüfungen des KBV-Prüfmoduls***  ***XPM.***
-
-Header für eDMP / a-Datensatz
 
 
 ---
@@ -312,43 +309,39 @@ Header für eDMP / a-Datensatz
 
 Das Konzept zur Gestaltung der XML-Dateien für den Datentransfer ist in einem Extradoku-  ment beschrieben [KBV_ITA_VGEX_XML-Schnittstellen].
 
-Für den Dateinamen einer einzelnen XML-Datei, welche die Daten einer Dokumentation ent-  halten soll, ist folgendes festgelegt: -  Das Präfix setzt sich aus
+Für den Dateinamen einer einzelnen XML-Datei, welche die Daten einer Dokumentation ent-  halten soll, ist folgendes festgelegt:
 
-- o 9 Stellen der (Neben-)Betriebsstättennummer bzw. dem 9-stelligen Kranken-  haus-Institutionskennzeichen (Absender der Dokumentationen) (siehe 6.8.3.1),
-
-- o der DMP-Fallnummer (siehe 6.9.2.1)
-
-- o und dem Datum (Kopfdaten) (siehe 6.6) - zusammen.
-
+-  Das Präfix setzt sich aus
+- o 9 Stellen der (Neben-)Betriebsstättennummer bzw. dem 9-stelligen Kranken-  haus-Institutionskennzeichen (Absender der Dokumentationen) (siehe 6.8.3.1
+- o der DMP-Fallnummer (siehe 6.9.2.1
+- o und dem Datum (Kopfdaten) (siehe 6.6
+- zusammen.
 -  Die drei Bestandteile des Präfix werden in o.g. Reihenfolge und durch Unterstriche ge-
 
-trennt notiert. Allgemein hat der Präfix also folgenden Aufbau: - o AAAAAAAAA_BBBBBBB_JJJJMMTT
+trennt notiert. Allgemein hat der Präfix also folgenden Aufbau:
+
+- o AAAAAAAAA_BBBBBBB_JJJJMMTT
 
 (die 7 Stellen für die DMP-Fallnummer sind nicht fest vorgeschrieben, es können auch  kürzere Nummern sein).
 
--  Für a-Datensätze wird zusätzlich die Angabe **_a** (Kleinbuchstabe a) nach dem Präfix - hinzugefügt.
+-  Für a-Datensätze wird zusätzlich die Angabe **_a** (Kleinbuchstabe a) nach dem Präfix  hinzugefügt.
 
 o AAAAAAAAA_BBBBBBB_JJJJMMTT_a
 
 Da zur Zeit keine bundesmantelvertragliche Abstimmung über die Formularbezeichnungen  existiert, wird folgende Suffixkonvention festgelegt:
 
 -  Für die elektronische erstmalige Dokumentation: EE
-
 -  Für die elektronische Verlaufsdokumentation: EV
-
 -  Gefolgt von zwei Buchstaben für die Kennzeichnung des DMP z.B.: D1 für Diabetes  mellitus Typ 1
 
 *Hinweis: Bei Brustkrebs bleibt die alte Namensgebung mit *.EBK und *.FBK.*
 
-Beispiele: -  123456789_123_20070301.EED1
+Beispiele:
 
+-  123456789_123_20070301.EED1
 -  123456789_123_20070601.EVD1
-
 -  123456789_123_20070301_a.EED1
-
 -  123456789_123_20070601_a.EVD1
-
-Header für eDMP / a-Datensatz
 
 
 ---
@@ -361,23 +354,12 @@ Die Daten für diese Schnittstelle stellen eine Untermenge der vorhandenen Volld
 
 Unterschiede im Header des a-Datensatzes zum Volldatensatz
 
--  Die Werte im V-Attribut des Elements *document_type_cd* enthalten entsprechend der
+-  Die Werte im V-Attribut des Elements *document_type_cd* enthalten entsprechend der  DMP- Schnittstelle die Tabellenwerte aus der Dokumenttypentabelle  (1.2.276.0.76.5.100).
+-  Die Elemente *person_name addr* und *telecom* entfallen sowohl für die Angaben zum  Arzt (*provider*), als auch zum Patienten (*patient*) vollständig.
+-  Das Element *Versichertennummer* darf im V-Attribut nur eine pseudonymisierte Versi-  chertennummer enthalten.
+-  Die Elemente *KostentraegerAbrechnungsbereich, KVBereich, AbrechnungsVKNR,*  *SKTZusatzangabe, VersichertenstatusKVK, VersichertenartMFR, Statusergaenzung,*  *BisDatumderGueltigkeit und KVKEinlesedatum* entfallen vollständig.
 
-- DMP- Schnittstelle die Tabellenwerte aus der Dokumenttypentabelle - (1.2.276.0.76.5.100).
-
--  Die Elemente *person_name addr* und *telecom* entfallen sowohl für die Angaben zum
-
-- Arzt (*provider*), als auch zum Patienten (*patient*) vollständig.
-
--  Das Element *Versichertennummer* darf im V-Attribut nur eine pseudonymisierte Versi-
-
-- chertennummer enthalten.
-
--  Die Elemente *KostentraegerAbrechnungsbereich, KVBereich, AbrechnungsVKNR,*
-
-- *SKTZusatzangabe, VersichertenstatusKVK, VersichertenartMFR, Statusergaenzung,*  *BisDatumderGueltigkeit und KVKEinlesedatum* entfallen vollständig.
-
-| **Volldatensatz** | **a-Datensatz** |
+| Volldatensatz | a-Datensatz |
 |---|---|
 | *document_type_cd V-Attribut :* | *document_type_cd V-Attribut:* |
 | *document_type_cd DN-Attribut:****Erstmalige Dokumentation Asthma bron-  bzw. Verlaufsdokumentation Asthma bronchia-*** | *document_type_cd DN-Attribut:****Erstmalige  Dokumentation  Asthma  bron-  bzw. Verlaufsdokumentation Asthma  bronchiale*** |
@@ -399,27 +381,20 @@ Unterschiede im Header des a-Datensatzes zum Volldatensatz
 
 **Tabelle 1**
 
-**Unterschiede Volldatensatz und a-Datensatz**
+Überblick-Unterschiede EDMP_ASTHMA_EE EDMP_ASTHMA_EV EDMP_ASTHMA_EE_A EDMP_ASTHMA_EV_A chiale a-Datensatz**Unterschiede Volldatensatz und a-Datensatz**
 
-Header für eDMP / a-Datensatz
-
-Überblick-Unterschiede EDMP_ASTHMA_EE EDMP_ASTHMA_EV EDMP_ASTHMA_EE_A EDMP_ASTHMA_EV_A chiale a-Datensatz
 
 ---
 
-Header für eDMP / a-Datensatz
-
 # 4 Semantik der verwendeten Diagramm-Symbole
 
-Zur Visualisierung der verwendeten XML- Schemata werden Diagramme verwendet, deren
-
-Symbole in den folgenden Kapiteln kurz erläutert werden.
+Zur Visualisierung der verwendeten XML- Schemata werden Diagramme verwendet, deren  Symbole in den folgenden Kapiteln kurz erläutert werden.
 
 **4.1 Kardinalität**
 
-| **Kardinalität** | **Symbol** | **Beschreibung** |
+| Kardinalität | Symbol | Beschreibung |
 |---|---|---|
-| 0..1 |  | Optionales Element: Element wird als Rechteck mit  mal vorkommen. |
+| 0..1 |  | Optionales Element: Element wird als Rechteck mit  Es kann kein oder ein- |
 | 1 |  | Musselement:  Rechteck mit durchgezogner Linie. Das |
 | n...m |  | Multielement enthält mindestens  n aber maximal m  ∞ drückt z.B. |
 
@@ -431,7 +406,7 @@ Symbole in den folgenden Kapiteln kurz erläutert werden.
 
 Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinander lo-  gisch verknüpft. In diesem Dokument werden zwei Strukturelement-Arten verwendet: Choice  und Sequence.
 
-| **Symbol** | **Beschreibung** |
+| Symbol | Beschreibung |
 |---|---|
 |  | Das  Strukturelement  Choice  zeigt  an,  dass  zwischen  verschiedenen  Kin- |
 |  | Das Strukturelement, Sequence beschreibt, dass verschiedene Kindelemente |
@@ -442,7 +417,7 @@ Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinand
 
 **4.3 Sonstige Symbole**
 
-| **Symbol** | **Beschreibung** |
+| Symbol | Beschreibung |
 |---|---|
 |  | Ein Element mit mehreren Kindelementen wird durch ein |
 |  | Referenzelement: Der Pfeil links unten im Element zeigt |
@@ -451,9 +426,8 @@ Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinand
 
 **Tabelle 4**
 
-**Beschreibung sonstiger Symbole**
+Es existieren verschiedene Kardinalitäten: gestrichelter Linie dargestellt. mal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1.. aus, dass das Element mindestens einmal vorkommen muss aber auch beliebig oft auftreten kann. delementen genau eins ausgewählt werden kann. in festgelegter Reihenfolge aufgeführt werden müssen. Es werden außerdem folgende Diagramm-Symbole verwendet: Pluszeichen am Rechteckrand symbolisiert. an, dass das Element an anderer Stelle im Schema defi- niert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein. links symbolisiert einen Datentyp. stellt ein Gruppenelement dar, welches verschiedene Elemente zusammenfasst. **Beschreibung sonstiger Symbole**
 
-Es existieren verschiedene Kardinalitäten: gestrichelter Linie dargestellt. Es kann kein oder ein- Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1.. aus, dass das Element mindestens einmal vorkommen muss aber auch beliebig oft auftreten kann. delementen genau eins ausgewählt werden kann. in festgelegter Reihenfolge aufgeführt werden müssen. Es werden außerdem folgende Diagramm-Symbole verwendet: Pluszeichen am Rechteckrand symbolisiert. an, dass das Element an anderer Stelle im Schema defi- niert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein. links symbolisiert einen Datentyp. stellt ein Gruppenelement dar, welches verschiedene Elemente zusammenfasst.
 
 ---
 
@@ -461,25 +435,21 @@ Es existieren verschiedene Kardinalitäten: gestrichelter Linie dargestellt. Es 
 
 Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen,  die in diesem Dokument beschrieben werden, ist es wichtig die Groß-/Kleinschreibung zu be-  achten. Sonderzeichen (wie &, <, >, ’ , “) werden durch ein „Entity“ ersetzt. Dazu wird das Zei-  chen & mit einer bestimmten Zeichenfolge kombiniert. Die folgende Liste gibt den Überblick  wie die Sonderzeichen in XML ersetzt werden:
 
-| **Sonderzeichen** | **Ersetzen durch** |  |
+| Sonderzeichen | Ersetzen durch |  |
 |---|---|---|
 | & | &amp; | |
 | < | &lt; | |
-| > | &gt; | beide Schreibweisen sind laut  1 erlaubt |
+| > | &gt; | beide Schreibweisen sind laut  1 |
 | ’ | &apos; | |
 | “ | &quot; | dieses Zeichen “ ist laut W3C- |
 
-**Tabelle 5**
-
 **Sonderzeichen in XML**
+
+**Tabelle 5**
 
 z.B. Der String „A & B“ wird in XML durch „A &amp; B“ dargestellt.
 
-Grundsätzlich besteht ein Dokument immer aus dem Wurzelelement *levelone*, welches sich
-
-aus den beiden Kindelementen *clinical_document_header* und *body* zusammensetzt, wie es
-
-in Abbildung 1 dargestellt ist. Alle Schemas, die in dieser Schnittstellenbeschreibung be-  schrieben werden, sind im Ordner „Schema“ in jedem Prüfmodul enthalten. Das Schema des  Elements <*clinical_document_header*> heißt clinical_document_header.xsd.
+Grundsätzlich besteht ein Dokument immer aus dem Wurzelelement *levelone*, welches sich  aus den beiden Kindelementen *clinical_document_header* und *body* zusammensetzt, wie es  in Abbildung 1 dargestellt ist. Alle Schemas, die in dieser Schnittstellenbeschreibung be-  schrieben werden, sind im Ordner „Schema“ in jedem Prüfmodul enthalten. Das Schema des  Elements <*clinical_document_header*> heißt clinical_document_header.xsd.
 
 **Abbildung 1 Grundstruktur levelone**
 
@@ -489,9 +459,7 @@ Folgender Code ist für diese Elemente zwingend vorgeschrieben, wobei die Angabe
 
 ***<levelone xmlns="urn::hl7-org/cda"***
 
-***xmlns:sciphox="urn::sciphox-org/sciphox"***  ***xmlns:xsi="[http://www.w3.org/2001/XMLSchema-instance"](http://www.w3.org/2001/XMLSchema-instance")***
-
-***xsi:schemaLocation="urn::hl7-org/cda Schema.xsd">***
+***xmlns:sciphox="urn::sciphox-org/sciphox"***  ***[xmlns:xsi="](http://www.w3.org/2001/XMLSchema-instance)[http://www.w3.org/2001/XMLSchema-instance](http://www.w3.org/2001/XMLSchema-instance)*** ***[xsi:schemaLocation="urn::hl7-org/cda Schema.xsd">](http://www.w3.org/2001/XMLSchema-instance)***[](http://www.w3.org/2001/XMLSchema-instance)
 
 ***<clinical_document_header>***
 
@@ -511,42 +479,33 @@ Folgender Code ist für diese Elemente zwingend vorgeschrieben, wobei die Angabe
 
 Der Wert für den im Codebeispiel angegebenen Platzhalter „Schema.xsd“ richtet sich nach  dem jeweiligen DMP, sowie ob es sich um eine erstmalige Dokumentation des Volldatensat-  zes, eine erstmalige Dokumentation des a-Datensatzes, eine Verlaufsdokumentation des  Volldatensatzes oder eine Verlaufsdokumentation des a-Datensatzes handelt.
 
-1 W3C-Spezifikation [http://www.w3.org/xml](http://www.w3.org/xml)
+```
+[](http://www.w3.org/xml)
+```
 
-Header für eDMP / a-Datensatz
-
-W3C-Spezifikation Spezifikation nur innerhalb der At- tributwerte nicht erlaubt
-
----
-
-Die Platzhalter (entsprechen immer drei Punkten "...") müssen durch die in den folgenden  Abschnitten beschriebenen Kindelemente von *clinical_document_header* und *body* ersetzt
-
-werden.
-
-Zu beachten ist, dass die erstmalige Dokumentation und die Verlaufsdokumentation gleiche  *clinical_document_header* besitzen. Strukturelle Unterschiede ergeben sich erst im *body* der
-
-beiden Dokumente. Das Kapitel 6 clinical_document_header (allgemein) ist somit sowohl für  die erstmalige als auch für die Verlaufsdokumentation gültig.
-
-Header für eDMP / a-Datensatz
+W3C-Spezifikation erlaubt Spezifikation nur innerhalb der At- tributwerte nicht erlaubt 1 [W3C-Spezifikation](http://www.w3.org/xml)[http://www.w3.org/xml](http://www.w3.org/xml)[](http://www.w3.org/xml)
 
 
 ---
 
-# 6 clinical_document_header (allgemein)
+Die Platzhalter (entsprechen immer drei Punkten "...") müssen durch die in den folgenden  Abschnitten beschriebenen Kindelemente von *clinical_document_header* und *body* ersetzt  werden.
 
-Mit Hilfe von *clinical_document_header* werden allgemeine Daten zur Dokumentation, zum
+Zu beachten ist, dass die erstmalige Dokumentation und die Verlaufsdokumentation gleiche  *clinical_document_header* besitzen. Strukturelle Unterschiede ergeben sich erst im *body* der  beiden Dokumente. Das Kapitel 6 clinical_document_header (allgemein) ist somit sowohl für  die erstmalige als auch für die Verlaufsdokumentation gültig.
 
-Arzt, zum Patienten und zum verwendeten Praxisverwaltungssystem übermittelt.
 
-Das Element *clinical_document_header* besteht aus den Kindelementen id, set_id, versi-
+---
 
-on_nbr, document_type_cd, service_tmr, origination_dttm, document_relationship, provider,  patient und local_header. Der grundsätzliche Aufbau dieses Elements ist in Abbildung 2 dar-  gestellt.
+# 6 clinical_document_header
+
+Mit Hilfe von *clinical_document_header* werden allgemeine Daten zur Dokumentation, zum  Arzt, zum Patienten und zum verwendeten Praxisverwaltungssystem übermittelt.
+
+Das Element *clinical_document_header* besteht aus den Kindelementen id, set_id, versi-  on_nbr, document_type_cd, service_tmr, origination_dttm, document_relationship, provider,  patient und local_header. Der grundsätzliche Aufbau dieses Elements ist in Abbildung 2 dar-  gestellt.
+
+# (allgemein)
 
 **Abbildung 2 Grundstruktur clinical_document_header**
 
-Der Coderahmen für das Element *clinical_document_header* einer XML-Datei sieht wie folgt
-
-aus:
+Der Coderahmen für das Element  aus:
 
 <clinical_document_header>
 
@@ -592,24 +551,16 @@ aus:
 
 </clinical_document_header>
 
-**XML-Code 2 clinical_document_header**
+*clinical_document_header* einer XML-Datei sieht wie folgt
 
-Header für eDMP / a-Datensatz
+**XML-Code 2 clinical_document_header**
 
 
 ---
 
 ## 6.1 Dokumenten-ID (id)
 
-In dem Element *id* muss ein weltweit eindeutiger Instanzenidentifikator eines jeden Doku-
-
-ments enthalten sein. Es besteht aus den Attributen *EX* und *RT*. Das *EX*-Attribut enthält als
-
-Wert eine für das Praxisverwaltungssystem eindeutige Kennzeichnung über alle mit diesem  System erzeugten Datensätze, die in Anlehnung an den Sciphox- Standard definiert sind. Es
-
-handelt sich dabei um einen String gemäß Zeichensatz ISO-8859-15. Das *RT*-Element enthält
-
-als Wert die Betriebsstättennummer oder die Krankenhaus-IK. Zusammen ergibt sich so eine  eindeutige ID. Als Beispiel sei hier folgender Code angegeben:
+In dem Element *id* muss ein weltweit eindeutiger Instanzenidentifikator eines jeden Doku-  ments enthalten sein. Es besteht aus den Attributen *EX* und *RT*. Das *EX*-Attribut enthält als  Wert eine für das Praxisverwaltungssystem eindeutige Kennzeichnung über alle mit diesem  System erzeugten Datensätze, die in Anlehnung an den Sciphox- Standard definiert sind. Es  handelt sich dabei um einen String gemäß Zeichensatz ISO-8859-15. Das *RT*-Element enthält  als Wert die Betriebsstättennummer oder die Krankenhaus-IK. Zusammen ergibt sich so eine  eindeutige ID. Als Beispiel sei hier folgender Code angegeben:
 
 <id EX="3ABC" RT="278012312"/>
 
@@ -617,17 +568,9 @@ als Wert die Betriebsstättennummer oder die Krankenhaus-IK. Zusammen ergibt sic
 
 ## 6.2 Dokumentenset-ID (set_id)
 
-In dem Element *set_id* muss ein weltweit eindeutiger Instanzenidentifikator eines jeden Do-
+In dem Element *set_id* muss ein weltweit eindeutiger Instanzenidentifikator eines jeden Do-  kumentensets enthalten sein. Diese Angabe dient der Zuordnung von Korrekturlieferungen.  Alle Korrekturdokumente müssen die gleiche set_id haben.
 
-kumentensets enthalten sein. Diese Angabe dient der Zuordnung von Korrekturlieferungen.  Alle Korrekturdokumente müssen die gleiche set_id haben.
-
-Der Aufbau des Elements ist mit der Dokumenten-ID identisch. Es besteht aus den Attributen  *EX* und *RT*. Das *EX*-Attribut enthält als Wert eine für das Praxisverwaltungssystem eindeutige
-
-Kennzeichnung über alle mit diesem System erzeugten Datensätze, die in Anlehnung an den  Sciphox-Standard definiert sind. Es handelt sich dabei um einen String gemäß Zeichensatz  ISO-8859-15. Wenn eine Korrektur eines Dokuments erfolgt, so wird dieser Wert des *EX-*
-
-Attributs nicht verändert. Das *RT*-Element enthält als Wert die Betriebsstättennummer oder
-
-die Krankenhaus-IK. (Wegen der Kompatibiltät mit alten Bögen wird die alte Vertragsarzt-  nummer ebenfalls akzeptiert). Zusammen ergibt sich so eine eindeutige ID. Als Beispiel sei  hier folgender Code angegeben:
+Der Aufbau des Elements ist mit der Dokumenten-ID identisch. Es besteht aus den Attributen  *EX* und *RT*. Das *EX*-Attribut enthält als Wert eine für das Praxisverwaltungssystem eindeutige  Kennzeichnung über alle mit diesem System erzeugten Datensätze, die in Anlehnung an den  Sciphox-Standard definiert sind. Es handelt sich dabei um einen String gemäß Zeichensatz  ISO-8859-15. Wenn eine Korrektur eines Dokuments erfolgt, so wird dieser Wert des *EX-*  Attributs nicht verändert. Das *RT*-Element enthält als Wert die Betriebsstättennummer oder  die Krankenhaus-IK. (Wegen der Kompatibiltät mit alten Bögen wird die alte Vertragsarzt-  nummer ebenfalls akzeptiert). Zusammen ergibt sich so eine eindeutige ID. Als Beispiel sei  hier folgender Code angegeben:
 
 <set_id EX="3ABC" RT="278012312"/>
 
@@ -635,11 +578,7 @@ die Krankenhaus-IK. (Wegen der Kompatibiltät mit alten Bögen wird die alte Ver
 
 ## 6.3 Dokumentversion (version_nbr)
 
-In dem Element *version_nbr* steht die Version des Dokuments. Diese Angabe dient der Zu-
-
-ordnung von Korrekturlieferungen. Bei jeder Korrekur wird die Version um eins hochgezählt.  Das *V* Attribut enthält als Wert eine Nummer, die Erstversion hat immer die Nummer „1“. Als
-
-Beispiel sei hier folgender Code angegeben:
+In dem Element *version_nbr* steht die Version des Dokuments. Diese Angabe dient der Zu-  ordnung von Korrekturlieferungen. Bei jeder Korrekur wird die Version um eins hochgezählt.  Das *V* Attribut enthält als Wert eine Nummer, die Erstversion hat immer die Nummer „1“. Als  Beispiel sei hier folgender Code angegeben:
 
 <version_nbr V="1"/>
 
@@ -647,24 +586,18 @@ Beispiel sei hier folgender Code angegeben:
 
 ## 6.4 Dokumententyp (document_type_cd)
 
-Der Code für das Element *document_type_cd* ist fest vorgeschrieben und zwingend erforder-
+Der Code für das Element *document_type_cd* ist fest vorgeschrieben und zwingend erforder-  lich. Hier steht die Information, welcher Dokumentations-Typ beschrieben wird. Es wird zwi-  schen erstmaliger Dokumentation und Verlaufsdokumentation unterschieden. Im *V*-Attribut  steht ein kodierter Wert z.B. EDMP_DIABETES1_EE, der aus einer Schlüsseltabelle2
 
-lich. Hier steht die Information, welcher Dokumentations-Typ beschrieben wird. Es wird zwi-  schen erstmaliger Dokumentation und Verlaufsdokumentation unterschieden. Im *V*-Attribut
+```
+[](http://www.kbv.de/keytabs/ita/schluesseltabellen.asp)
+```
 
-steht ein kodierter Wert z.B. EDMP_DIABETES1_EE, der aus einer Schlüsseltabelle2
-
-2 [http://www.kbv.de/keytabs/ita/schluesseltabellen.asp](http://www.kbv.de/keytabs/ita/schluesseltabellen.asp)
-
-Header für eDMP / a-Datensatz
+[2](http://www.kbv.de/keytabs/ita/schluesseltabellen.asp)[http://www.kbv.de/keytabs/ita/schluesseltabellen.asp](http://www.kbv.de/keytabs/ita/schluesseltabellen.asp)[](http://www.kbv.de/keytabs/ita/schluesseltabellen.asp)
 
 
 ---
 
-Header für eDMP / a-Datensatz
-
-(1.2.276.0.76.5.100) stammt. Der Wert EDMP_DIABETES1_EE entspricht: „Erstmalige Do-  kumentation Diabetes mellitus Typ 1“. Im *S* Attribut steht die eindeutige OID der Schlüsselta-
-
-belle. Die Bezeichnung des Systemnamens wird im  Attributs beschreibt den kodierten Wert des V-Attributs. Erlaubte Werte für das  nen aus der Schlüsseltabelle (1.2.276.0.76.5.100) entnommen werden. Das  *SN*-, und das *DN*-Attribut sind zwingend erforderlich. Das SN-Attribut hat den fixen Wert
+(1.2.276.0.76.5.100) stammt. Der Wert EDMP_DIABETES1_EE entspricht: „Erstmalige Do-  kumentation Diabetes mellitus Typ 1“. Im *S* Attribut steht die eindeutige OID der Schlüsselta-  belle. Die Bezeichnung des Systemnamens wird im  Attributs beschreibt den kodierten Wert des V-Attributs. Erlaubte Werte für das  nen aus der Schlüsseltabelle (1.2.276.0.76.5.100) entnommen werden. Das  *SN*-, und das *DN*-Attribut sind zwingend erforderlich. Das SN-Attribut hat den fixen Wert
 
 „KBV“.
 
@@ -686,9 +619,7 @@ DN="Verlaufsdokumentation Diabetes mellitus Typ 1"/>
 
 ## 6.5 Datum der Erstellung (service_tmr)
 
-Das Element *service_tmr* enthält als Wert das Datum der Erstellung der Dokumentation und
-
-bildet ab, wann die Behandlung des Patienten stattgefunden hat. Das Element muss einmal  vorhanden sein. Das Datumsformat lautet: JJJJ-MM-TT.
+Das Element *service_tmr* enthält als Wert das Datum der Erstellung der Dokumentation und  bildet ab, wann die Behandlung des Patienten stattgefunden hat. Das Element muss einmal  vorhanden sein. Das Datumsformat lautet: JJJJ-MM-TT.
 
 <service_tmr V="2007-07-12"/>
 
@@ -696,9 +627,7 @@ bildet ab, wann die Behandlung des Patienten stattgefunden hat. Das Element muss
 
 ## 6.6 Kopfdatum (origination_dttm)
 
-Das Element *origination_dttm* enthält als Wert das Kopfdatum der Dokumentation. Es ist das
-
-Kopfdatum, welches die Überschrift „Datum“ trägt. Das Datum hat das Format JJJJ-MM-TT.  Das Element muss genau einmal vorhanden sein.
+Das Element *origination_dttm* enthält als Wert das Kopfdatum der Dokumentation. Es ist das  Kopfdatum, welches die Überschrift „Datum“ trägt. Das Datum hat das Format JJJJ-MM-TT.  Das Element muss genau einmal vorhanden sein.
 
 <origination_dttm V="2007-07-12"/>
 
@@ -706,28 +635,22 @@ Kopfdatum, welches die Überschrift „Datum“ trägt. Das Datum hat das Format
 
 ## 6.7 Dokumentverweis (document_relationship)
 
-Bei einer Korrekturlieferung steht im Element  sprungsdokument. Diese Angabe ist optional und muss nur bei Korrekturlieferungen angege-  ben werden. Es ist ein komplexer Typ, der aus den Elementen  und *related_document* besteht.
+Bei einer Korrekturlieferung steht im Element *document_relationship*  sprungsdokument. Diese Angabe ist optional und muss nur bei Korrekturlieferungen angege-  ben werden. Es ist ein komplexer Typ, der aus den Elementen  und *related_document* besteht.
 
 Die Grundstruktur für dieses Element ist in Abbildung 3 dargestellt.
 
-*document_relationship*
+ein Verweis auf das Ur-
 
 *document_relationship.type_cd*
 
 *V*-Attribut kön-  *V-*, das *S*-, das
 
-ein Verweis auf das Ur-
-
 
 ---
 
-Header für eDMP / a-Datensatz
-
 **Abbildung 3 Grundstruktur document_relationship**
 
-Die Kindelemente *document_relationship.type_cd,* und *related_document* werden in den
-
-nächsten Abschnitten beschrieben.
+Die Kindelemente *document_relationship.type_cd,* und *related_document* werden in den  nächsten Abschnitten beschrieben.
 
 Der Code setzt sich wie folgt zusammen:
 
@@ -743,15 +666,13 @@ Der Code setzt sich wie folgt zusammen:
 
 </document_relationship>
 
-### 6.7.1 Korrekturkennzeichnung (document_relationship.type_cd)
-
-Bei einer Korrekturlieferung steht im V-Attribut des Elements
-
-der fixe Wert „RPLC“ (engl. Replace). Als Beispiel sei hier folgender Code angegeben:
-
 **XML-Code 10 document_relationship**
 
-*document_relationship.type_cd*
+### 6.7.1 Korrekturkennzeichnung (document_relationship.type_cd)
+
+Bei einer Korrekturlieferung steht im V-Attribut des Elements *document_relationship.type_cd*
+
+der fixe Wert „RPLC“ (engl. Replace). Als Beispiel sei hier folgender Code angegeben:
 
 <document_relationship.type_cd V="RPLC"/>
 
@@ -759,9 +680,7 @@ der fixe Wert „RPLC“ (engl. Replace). Als Beispiel sei hier folgender Code a
 
 ### 6.7.2 Dokumentverweis (related_document)
 
-Bei einer Korrekturlieferung steht im *id*-Element des Elements *related_document* der Verweis
-
-auf die Dokument-ID des Ursprungsdokuments (siehe Kapitel 6.1). (Wegen der Kompatibiltät  mit alten Bögen wird die alte Vertragsarztnummer im id-Element ebenfalls akzeptiert) Als Bei-  spiel sei hier folgender Code angegeben:
+Bei einer Korrekturlieferung steht im *id*-Element des Elements *related_document* der Verweis  auf die Dokument-ID des Ursprungsdokuments (siehe Kapitel 6.1). (Wegen der Kompatibiltät  mit alten Bögen wird die alte Vertragsarztnummer im id-Element ebenfalls akzeptiert) Als Bei-  spiel sei hier folgender Code angegeben:
 
 <related_document>
 
@@ -769,26 +688,22 @@ auf die Dokument-ID des Ursprungsdokuments (siehe Kapitel 6.1). (Wegen der Kompa
 
 </related_document>
 
+**XML-Code 12 related_document**
+
 ## 6.8 Arzt- und Krankenhausinformationen (provider)
 
 Der Erbringer des Dokuments kann ein Arzt in der Arztpraxis oder ein Arzt im Krankenhaus  sein. Das Element *provider* enthält die Daten zum untersuchenden Arzt und muss einmal vor-
 
-**XML-Code 12 related_document**
-
 
 ---
 
-handen sein. Es ist ein komplexer Typ, der aus den Elementen *provider.type_cd*, evtl. *func-*
-
-*tion_cd* und *person* besteht.
+handen sein. Es ist ein komplexer Typ, der aus den Elementen *provider.type_cd*, evtl. *func-*  *tion_cd* und *person* besteht.
 
 Die Grundstruktur für dieses Element ist in Abbildung 4 dargestellt.
 
 **Abbildung 4 Grundstruktur provider**
 
-Die Kindelemente *provider.type_cd, function_cd* und *person* werden in den nächsten Ab-
-
-schnitten beschrieben.
+Die Kindelemente *provider.type_cd, function_cd* und *person* werden in den nächsten Ab-  schnitten beschrieben.
 
 Der Code setzt sich wie folgt zusammen:
 
@@ -810,9 +725,7 @@ Der Code setzt sich wie folgt zusammen:
 
 ### 6.8.1 Providertyp (provider.type_cd)
 
-Für das Element *provider.type_cd* ist der Wert „PRF“ (engl. Performer) im *V*-Attribut fest vor-
-
-geschrieben. Der Code muss daher wie folgt aussehen:
+Für das Element *provider.type_cd* ist der Wert „PRF“ (engl. Performer) im *V*-Attribut fest vor-  geschrieben. Der Code muss daher wie folgt aussehen:
 
 <provider.type_cd V="PRF"/>
 
@@ -820,17 +733,7 @@ geschrieben. Der Code muss daher wie folgt aussehen:
 
 ### 6.8.2 Funktion des Arztes (function_cd)
 
-In das Element *function_cd* wird die Funktion des Arztes angegeben. Dabei wird zwischen
-
-dem bestehenden behandelnden Arzt und einer Vertretung und dem Arztwechsel unterschie-  den. Im *V*-Attribut steht ein kodierter Wert, der aus einer Schlüsseltabelle (1.2.276.0.76.5.105)
-
-stammt. Im *S*-Attribut steht die eindeutige OID der Schlüsseltabelle. Die Bezeichnung des
-
-Systemnamens wird im *SN*-Attribut angegeben. Der Wert des DN-Attributs beschreibt den
-
-kodierten Wert des V-Attributs. Das *V*- und das *S*-Attribut sind zwingend erforderlich. Das *SN-*
-
-und das *DN*-Attribut sind optional. Das *SN* Attributhat den fixen Wert „KBV“.
+In das Element *function_cd* wird die Funktion des Arztes angegeben. Dabei wird zwischen  dem bestehenden behandelnden Arzt und einer Vertretung und dem Arztwechsel unterschie-  den. Im *V*-Attribut steht ein kodierter Wert, der aus einer Schlüsseltabelle (1.2.276.0.76.5.105)  stammt. Im *S*-Attribut steht die eindeutige OID der Schlüsseltabelle. Die Bezeichnung des  Systemnamens wird im *SN*-Attribut angegeben. Der Wert des DN-Attributs beschreibt den  kodierten Wert des V-Attributs. Das *V*- und das *S*-Attribut sind zwingend erforderlich. Das *SN-*  und das *DN*-Attribut sind optional. Das *SN* Attribut hat den fixen Wert „KBV“.
 
 Aus der Schlüsseltabelle wird nur der Wert „VERTRETER“ benutzt. Bei Angabe zur „Vertre-  tung“, wird das Element mit entsprechendem Wert übertragen. Wird keine Angabe gemacht,  kann dieses Element wegfallen. Bei der Brustkrebs-Schnittstelle können weiterhin Angaben  zum Arztwechsel mit „ARZTW“ gemacht werden.
 
@@ -840,24 +743,14 @@ function_cd V="VERTRETER" S="1.2.276.0.76.5.105" SN="KBV" DN="Vertreter"/>
 
 **XML-Code 15 function_cd**
 
-Header für eDMP / a-Datensatz
-
 
 ---
 
-Header für eDMP / a-Datensatz
-
 ### 6.8.3 Die Person Arzt (person)
 
-Das Element *person* enthält die zwingend erforderlichen Kindelemente
+Das Element *person* enthält die zwingend erforderlichen Kindelemente  und *telecom*. Für a-Datensätze fallen Elemente  das Element *id* ist zu übermitteln. Die Struktur ist i
 
-und *telecom*. Für a-Datensätze fallen Elemente *person_name*
-
-das Element *id* ist zu übermitteln. Die Struktur ist in Abbildung 5 dargestellt.
-
-Die Elemente *id person_name*
-
-schrieben. Die Daten dafür können dem Arztstempel oder anderen Metainformationen ent-  nommen werden. Der Coderahmen für das Element
+Die Elemente *id person_name* schrieben. Die Daten dafür können dem Arztstempel oder anderen Metainformationen ent-  nommen werden. Der Coderahmen für das Element
 
 <person>
 
@@ -877,9 +770,13 @@ schrieben. Die Daten dafür können dem Arztstempel oder anderen Metainformation
 
 **Abbildung 5 Grundstruktur person (Arzt)**
 
-*addr* und *telecom* werden in den folgenden Abschnitten be-
+*addr* und *telecom*
 
-*person*
+*person_name*
+
+n Abbildung 5
+
+werden in den folgenden Abschnitten be-  *person*
 
 </addr>
 
@@ -893,47 +790,29 @@ schrieben. Die Daten dafür können dem Arztstempel oder anderen Metainformation
 
 ### 6.8.3.1 Arzt-ID oder Krankenhaus-ID (id)
 
-In dem Element *id* steht im *EX*-Attribut die Betriebsstättennummer bzw. Nebenbetriebsstät-
+In dem Element *id* steht im *EX*-Attribut die Betriebsstättennummer bzw. Nebenbetriebsstät-  tennummer des Leistungsortes und die lebenslange Arztnummer des Arztes oder die Kran-  kenhaus-IK des Krankenhauses.
 
-tennummer des Leistungsortes und die lebenslange Arztnummer des Arztes oder die Kran-  kenhaus-IK des Krankenhauses.
-
-Wenn der Patient in einer Arztpraxis behandelt wird, dann steht im  Arztnummer (LANR) des Arztes, die 9-stellig numerisch ist. Im  gegebene Wert “LANR“. Zusätzlich wird auch die Betriebsstättennummer (BSNR) bzw. Ne-  benbetriebsstättennummer (NBSNR) der Arztpraxis im zusätzlichen id-Element eingetragen.  Im *EX* Attribut steht dann die 9-stellige Betriebsstättennummer und im
-
-der fest vorgegebene Wert „BSNR“.
+Wenn der Patient in einer Arztpraxis behandelt wird, dann steht im  Arztnummer (LANR) des Arztes, die 9-stellig numerisch ist. Im  gegebene Wert “LANR“. Zusätzlich wird auch die Betriebsstättennummer (BSNR) bzw. Ne-  benbetriebsstättennummer (NBSNR) der Arztpraxis im zusätzlichen id-Element eingetragen.  Im *EX* Attribut steht dann die 9-stellige Betriebsstättennummer und im  der fest vorgegebene Wert „BSNR“.
 
 Der Arzt ist verpflichtet die BSNR und LANR ab 1.07 zu verwenden. Wenn die Dokumentation  nach 01.07.2008 (origination_dttm) erstellt wurde, so wird eine BSNR/LANR bzw. Kranken-  haus-IK erwartet.
 
 Falls in der Dokumentation eine Krankenhaus-IK eingetragen wurde, muss im  Krankenhaus-IK angegeben werden, das 9-stellig numerisch ist. Im  fest vorgegebene Wert „Krankenhaus-IK“.
 
-*id person_name addr*
-
-*addr* und *telecom* weg und nur
+*id person_name addr*  *addr* und *telecom* weg und nur  dargestellt.
 
 sieht in diesem Fall wie folgt aus:
 
-*EX*-Attribut die lebenslange
+*EX*-Attribut die lebenslange  *RT*-Attribut steht der fest vor-  *RT*-Attribut steht dann
 
-*RT*-Attribut steht der fest vor-
-
-*RT*-Attribut steht dann
-
-*EX*-Attribut das
-
-*RT*-Attribut steht dann der
+*EX*-Attribut das  *RT*-Attribut steht dann der
 
 
 ---
 
-Header für eDMP / a-Datensatz
-
-Das Element *id* darf max. dreimal auftreten, wenn die Angaben („LANR“, „BSNR“ und „Kran-
-
-kenhaus-IK“) gleichzeitig vorhanden sind. Es sind folgende Kombinationen möglich:
+Das Element *id* darf max. dreimal auftreten, wenn die Angaben („LANR“, „BSNR“ und „Kran-  kenhaus-IK“) gleichzeitig vorhanden sind. Es sind folgende Kombinationen möglich:
 
 - LANR und BSNR (2-mal id-Element)
-
 - LANR und BSNR und Krankenhaus-IK (3-mal id-Element)
-
 - Nur Krankenhaus-IK (1-mal id-Element)
 
 Der Code für den Vertragsarzt oder das Krankenhaus-IK könnte wie folgt aussehen:
@@ -948,11 +827,7 @@ Der Code für den Vertragsarzt oder das Krankenhaus-IK könnte wie folgt aussehe
 
 ### 6.8.3.2 Name des Arztes (person_name)
 
-In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element *per-*
-
-*son_name* enthält das Element *nm*, welches im nächsten Abschnitt konkretisiert wird. Die
-
-Grundstruktur dieses Elements ist in Abbildung 6 dargestellt.
+In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element *per-*  *son_name* enthält das Element *nm*, welches im nächsten Abschnitt konkretisiert wird. Die  Grundstruktur dieses Elements ist in Abbildung 6 dargestellt.
 
 **Abbildung 6 Grundstruktur person_name (Arzt)**
 
@@ -979,19 +854,17 @@ Der Coderahmen für dieses Element sieht wie folgt aus:
 
 6.8.3.2.1 Namensbestandteile des Arztes (nm)
 
-| **Element** | **Werte** | **Datentyp** | **Kard.** |
+| Element | Werte | Datentyp | Kard. |
 |---|---|---|---|
-| GIV | Vornamen der Person (mehrere Vornamen sind | Zeichen |  |
-| FAM | Familiennamen der Person | String  mit  max.  60 1..1 |  |
-| PFX | führender Namenszusatz, wie z.B. „Dr. med“, String  mit  max.  15 0..10 |  |  |
+| GIV | Vornamen der Person (mehrere Vornamen sind | String  mit  max.  60 | 0..1 |
+| FAM | Familiennamen der Person | String  mit  max.  60 | 1..1 |
+| PFX | wie | String  mit  max.  15 | 0..10 |
 
 **Tabelle 6 Erläuterungen nm (Arzt)**
 
-Zu dem Element *PFX* kann es zusätzlich zum *V*-Attribut das *QUAL*-Attribut mit den folgenden
+Zu dem Element *PFX* kann es zusätzlich zum *V*-Attribut das  Ausprägungen geben:
 
-Ausprägungen geben:
-
-| **Code** | **Definition** | **Ausprägung** |
+| Code | Definition | Ausprägung |
 |---|---|---|
 | AC | academic | sind durch Leerzeichen getrennt) |
 | NB | nobility | Adelszusatz zum Element PFX, z.B. „Gräfin“ und „von“ (mehrere |
@@ -1000,7 +873,7 @@ Ausprägungen geben:
 
 Die Speicherung der Namen entspricht der Spezifikation der Krankenversichertenkarte (KVK).  Die folgende Tabelle zeigt die Abbildung der Angaben der Versichertenkarte auf die entspre-
 
-| **Versichertenkarte** | **XML-Element** |
+| Versichertenkarte | XML-Element |
 |---|---|
 | Titel | <PFX V="..." QUAL="AC"/> |
 | Vorname | <GIV V="..."/> |
@@ -1009,9 +882,7 @@ Die Speicherung der Namen entspricht der Spezifikation der Krankenversichertenka
 
 **Tabelle 8 Abbildung von Personennamen entsprechend der KVK**
 
-Wenn es sich um eine Berufsausübungsgemeinschaft handelt, so wird der Name der Praxis  beim Element *FAM* eingetragen. Das Element *GIV* entfällt dann. Als Beispiel für den Namen
-
-des Arztes „Dr. med. Ernst August Graf von Oberberg“ ist hier folgender Code anzugeben:
+Wenn es sich um eine Berufsausübungsgemeinschaft handelt, so wird der Name der Praxis  beim Element *FAM* eingetragen. Das Element *GIV* entfällt dann. Als Beispiel für den Namen  des Arztes „Dr. med. Ernst August Graf von Oberberg“ ist hier folgender Code anzugeben:
 
 <nm>
 
@@ -1023,35 +894,31 @@ des Arztes „Dr. med. Ernst August Graf von Oberberg“ ist hier folgender Code
 
 <PFX V="Graf von" QUAL="NB"/>
 
-</nm>
+*QUAL*-Attribut mit den folgenden
 
-**XML-Code 19 nm (Beispiel Arzt)**
+</nm>
 
 ### 6.8.3.3 Adresse des Arztes/Krankenhauses (addr)
 
-In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element *addr* enthält
-
-die Kindelemente *ADL STR HNR ZIP, CTY* und *CNT*. Die Struktur dieses Elements ist in
+In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element  die Kindelemente *ADL STR*
 
 Abbildung 7 dargestellt.
 
-Header für eDMP / a-Datensatz
+**XML-Code 19 nm (Beispiel Arzt)**
 
-Das Element nm kann folgende Elemente enthalten: durch Bindestriche oder Leerzeichen getrennt) String  mit  max.  60 0..1 „Freiherr“ Zeichen und Adelsbezeichnungen, oder „von“ Akademischer Grad, Zusatz beim Element PFX (mehrere Titel Namenszusätze sind durch Leerzeichen getrennt) chenden XML-Elemente:
+*HNR ZIP, CTY*
+
+und *CNT* Die Struktur dieses Elements ist in *addr* enthält
+
+Das Element nm kann folgende Elemente enthalten: durch Bindestriche oder Leerzeichen getrennt) führender Namenszusatz, wie z.B. „Dr. med“, und Adelsbezeichnungen, z.B. „Freiherr“ oder „von“ Zeichen Zeichen Zeichen Akademischer Grad, Zusatz beim Element PFX (mehrere Titel Namenszusätze sind durch Leerzeichen getrennt) chenden XML-Elemente:
 
 ---
 
-Header für eDMP / a-Datensatz
-
 **Abbildung 7 Grundstruktur addr (Arzt)**
 
-Wenn das Dokument nicht in einer Arztpraxis, sondern in einem Krankenhaus erstellt wird, so  steht im *ADL-*Element die Bezeichnung des Krankenhauses (z.B.
+Wenn das Dokument nicht in einer Arztpraxis, sondern in einem Krankenhaus erstellt wird, so  steht im *ADL-*Element die Bezeichnung des Krankenhauses (z.B.  Krankenhaus"/>). Zusätzlich wird im zweiten *ADL-* das Dokument erstellt wurde, mit angegeben (z.B. <ADL V=""/>).  kument in einer Arztpraxis erstellt wird, dann kann das
 
-Krankenhaus"/>). Zusätzlich wird im zweiten *ADL-*
-
-das Dokument erstellt wurde, mit angegeben (z.B. <ADL V=""/>).  kument in einer Arztpraxis erstellt wird, dann kann das
-
-| **Element** | **Wert** | **Datentyp** | **Kard.** |
+| Element | Wert | Datentyp | Kard. |
 |---|---|---|---|
 | ADL | Name des Krankenhauses und  Name der Abteilung, wo die Behand- | String mit max. 60 Zeichen | 0..2 |
 | STR | Straße der Anschrift | String mit max. 60 Zeichen | 0..1 |
@@ -1090,32 +957,30 @@ In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element
 
 *V* und *USE*. Es dient dazu, Telefon- und Faxnummern, Emailad-
 
-<ADL
-
-Element die Krankenhausabteilung, in dem  Endoskopie
-
-*ADL-*Element wegfallen. In der Tabelle
+<ADL  Element die Krankenhausabteilung, in dem  Endoskopie *ADL-*Element wegfallen. In der
 
 V="Elisabeth
 
 Wenn das Do-
 
-9 sind die Kindelemente des Elements addr erläutert und ihre Kardinalitäten angegeben. lung stattgefunden hat *telecom*
+Tabelle
+
+9  sind die Kindelemente des Elements addr erläutert und ihre Kardinalitäten angegeben. lung stattgefunden hat *telecom*
 
 
 ---
 
-dem *V*-Attribut handelt es sich dabei um einen bis zu 150 Zeichen umfassenden String, der
+dem *V* mit dem Wert „tel“, „fax“ „mailto“, „http“ oder „ftp“ beginnen muss.
 
-mit dem Wert „tel“, „fax“ „mailto“, „http“ oder „ftp“ beginnen muss.
-
-| **Code** | **Definition** | **Beispiel** |
+| Code | Definition | Beispiel |
 |---|---|---|
 | tel | Telefon/Mobiltelefon | <telecom V="tel:(0221)4449-0" USE="WP"/> |
 | fax | Faxnummer | <telecom V="fax:(0221)4449-400" USE="WP"/> |
 | mailto | Emailadresse | <telecom V="mailto:info@kbv.de" USE="WP"/> |
 | http | Homepage | <telecom V="http://www.kbv.de" USE="WP"/> |
 | ftp | FTP-Server | <telecom V="ftp://ftp.kbv.de" USE="WP"/> |
+
+-Attribut handelt es sich dabei um einen bis zu 150 Zeichen umfassenden String, der
 
 **Tabelle 10**
 
@@ -1125,17 +990,15 @@ Das *USE*-Attribut darf hier nur den Wert „WP“ für working place aufweisen.
 
 ## 6.9 Patienteninformationen (patient)
 
-Das Element *patient* enthält die Daten des untersuchten Patienten und muss einmal vorhan-
-
-den sein. Es enthält die Kindelemente *patient.type_cd person birth_dttm administrati-*
-
-*ve_gender_cd* und *local_header*. Die grundsätzliche Struktur dieses Elements ist in der Abbil-
+Das Element *patient* enthält die Daten des untersuchten Patienten und muss einmal vorhan-  den sein. Es enthält die Kindelemente *patient.type_cd person birth_dttm* *ve_gender_cd* und *local_header*. Die grundsätzliche Struktur dieses Elements ist in der
 
 dung 8 dargestellt.
 
-**Abbildung 8 Grundstruktur patient**
+*administrati-*
 
-Der Coderahmen für das Element *patient* sieht wie folgt aus:
+Abbil-
+
+Der Coderahmen für das Element
 
 <patient>
 
@@ -1163,19 +1026,18 @@ Der Coderahmen für das Element *patient* sieht wie folgt aus:
 
 </patient>
 
-**XML-Code 21 patient**
+**Abbildung 8 Grundstruktur patient**
 
-Header für eDMP / a-Datensatz
+*patient* sieht wie folgt aus:
 
-Die Erläuterung für die verschiedenen Werte sind in der Tabelle 10 aufgeführt.
+Die Erläuterung für die verschiedenen Werte sind in der Tabelle 10  aufgeführt. **XML-Code 21 patient**
+
 
 ---
 
 ### 6.9.1 Patiententyp (patient.type_cd)
 
-Für das Element *patient.type_cd* ist der Wert „PATSBJ“ fest vorgeschrieben. Daher wird fol-
-
-gender Code verbindlich festgelegt:
+Für das Element *patient.type_cd* ist der Wert „PATSBJ“ fest vorgeschrieben. Daher wird fol-  gender Code verbindlich festgelegt:
 
 <patient.type_cd V="PATSBJ"/>
 
@@ -1183,17 +1045,11 @@ gender Code verbindlich festgelegt:
 
 ### 6.9.2 Die Person Patient (person)
 
-Das Element *person* enthält als Kindelemente *id person_name* und *addr*. Für a- Datensätze
-
-fallen Elemente *person_name* und *addr* weg und nur das Element *id* ist zu übermitteln. Die
-
-Struktur ist in Abbildung 9 dargestellt.
+Das Element *person* enthält als Kindelemente *id person_name* und *addr*. Für a- Datensätze fallen Elemente *person_name* und *addr* weg und nur das Element *id* ist zu übermitteln. Die  Struktur ist in Abbildung 9 dargestellt.
 
 **Abbildung 9 Grundstruktur person (Patient)**
 
-Die Elemente *id, person_name* und *addr* werden in den folgenden Abschnitten beschrieben.
-
-Der Coderahmen für das Element *person* sieht in diesem Fall wie folgt aus:
+Die Elemente *id, person_name* und *addr* werden in den folgenden Abschnitten beschrieben.  Der Coderahmen für das Element *person* sieht in diesem Fall wie folgt aus:
 
 <person>
 
@@ -1217,11 +1073,7 @@ Der Coderahmen für das Element *person* sieht in diesem Fall wie folgt aus:
 
 ### 6.9.2.1 Patienten-ID (id)
 
-In dem Element *id* steht im *EX*-Attribut die lokal eindeutige bis zu 7-stellige alphanumerische
-
-DMP-Fallnummer des Versicherten, die in der Dokumentation vermerkt wurde, und im *RT*
-
-Attribut steht das 9-stellige Krankenhaus-IK bzw. zur Einführung des VÄndG die 9-stellige  Bestriebsstättennummer, für welche die DMP-Fallnummer eindeutig sein muss. Folgender  Code sei hier als Beispiel angegeben:
+In dem Element *id* steht im *EX*-Attribut die lokal eindeutige bis zu 7-stellige alphanumerische  DMP-Fallnummer des Versicherten, die in der Dokumentation vermerkt wurde, und im *RT* Attribut steht das 9-stellige Krankenhaus-IK bzw. zur Einführung des VÄndG die 9-stellige  Bestriebsstättennummer, für welche die DMP-Fallnummer eindeutig sein muss. Folgender  Code sei hier als Beispiel angegeben:
 
 <id EX="1234567" RT="278012389"/>
 
@@ -1229,13 +1081,7 @@ Attribut steht das 9-stellige Krankenhaus-IK bzw. zur Einführung des VÄndG die
 
 ### 6.9.2.2 Name des Patienten (person_name)
 
-In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element *per-*
-
-*son_name* enthält das Element *nm*, welches im nächsten Abschnitt konkretisiert wird. Die
-
-Grundstruktur dieses Element ist in Abbildung 10 dargestellt.
-
-Header für eDMP / a-Datensatz
+In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element *per-*  *son_name* enthält das Element *nm*, welches im nächsten Abschnitt konkretisiert wird. Die  Grundstruktur dieses Element ist in Abbildung 10 dargestellt.
 
 
 ---
@@ -1262,11 +1108,11 @@ Der Coderahmen für dieses Element sieht wie folgt aus:
 
 6.9.2.2.1 Namensbestandteile des Patienten (nm)
 
-| **Element** | **Werte** | **Datentyp** | **Kard.** |
+| Element | Werte | Datentyp | Kard. |
 |---|---|---|---|
-| GIV | Vornamen der Person (mehrere Vornamen sind | String  mit  max.  28 1..1 |  |
-| FAM | Familiennamen der Person | Zeichen |  |
-| PFX | führender Namenszusatz, wie z.B. „Dr. med“, String  mit  max.  15 0..10 |  |  |
+| GIV | Vornamen der Person (mehrere Vornamen sind | String  mit  max.  28 | 1..1 |
+| FAM | Familiennamen der Person | Zeichen | 1..1 |
+| PFX | führender Namenszusatz, wie z.B. „Dr. med“, | String  mit  max.  15 | 0..10 |
 
 **Tabelle 11Erläuterungen nm (Patient)**
 
@@ -1274,21 +1120,16 @@ Unterschiede gegenüber den Angaben zum Arzt bestehen nur in Längenbegrenzungen
 
 ### 6.9.2.3 Adresse des Patienten (addr)
 
-In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: die Struktur des Ele-  ments *addr* entspricht hierbei dem *addr*- Element des Arztes, welches bereits im Abschnitt 6.8.3.3 erläutert wurde.
+In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: die Struktur des Ele-  ments *addr* entspricht hierbei dem *addr*- Element des Arztes, welches bereits im Abschnitt
 
-Header für eDMP / a-Datensatz
+Das Element nm kann folgende Elemente enthalten: durch Bindestriche oder Leerzeichen getrennt) und Adelsbezeichnungen, „Freiherr“ oder „von“ 6.8.3.3 erläutert wurde.
 
-Das Element nm kann folgende Elemente enthalten: durch Bindestriche oder Leerzeichen getrennt) und Adelsbezeichnungen, „Freiherr“ Zeichen oder „von“
 
 ---
 
-Header für eDMP / a-Datensatz
-
 ### 6.9.3 Geburtsdatum des Patienten (birth_dttm)
 
-Für die Angabe des Geburtsdatums wird das Element *birth_dttm* verwendet. Als Datumsfor-
-
-mat gilt: JJJJ-MM-TT
+Für die Angabe des Geburtsdatums wird das Element *birth_dttm* verwendet. Als Datumsfor-  mat gilt: JJJJ-MM-TT
 
 Folgender Code sei hier als Beispiel angegeben:
 
@@ -1298,11 +1139,7 @@ Folgender Code sei hier als Beispiel angegeben:
 
 ### 6.9.4 Geschlecht des Patienten (administrative_gender_cd)
 
-Die Angabe des Geschlechts des Patienten wird im Element *administrative_gender_cd* einge-
-
-tragen Im *V*-Attribut steht ein kodierter Wert, der aus einer Schlüsseltabelle stammt. Der Wert
-
-„ M“ entspricht dem männlichen, „F“ dem weiblichen, UN dem diversen und X dem  unbestimmten Geschlecht. Im S- Attribut steht die eindeutige OID der Schlüsseltabelle (2.16.840.1.113883.5.1).
+Die Angabe des Geschlechts des Patienten wird im Element *administrative_gender_cd* einge-  tragen Im *V*-Attribut steht ein kodierter Wert, der aus einer Schlüsseltabelle stammt. Der Wert  „ M“ entspricht dem männlichen, „F“ dem weiblichen, UN dem diversen und X dem  unbestimmten Geschlecht. Im S- Attribut steht die eindeutige OID der Schlüsseltabelle  (2.16.840.1.113883.5.1).
 
 <administrative_gender_cd V="M" S="2.16.840.1.113883.5.1"/>
 
@@ -1310,44 +1147,18 @@ tragen Im *V*-Attribut steht ein kodierter Wert, der aus einer Schlüsseltabelle
 
 ### 6.9.5 Kostenträgerinformation (local_header)
 
-Die Kostenträgerinformationen werden mittels der Sciphox-SSU *insurance v2* dargestellt. Das
-
-Element *sciphox:GesetzlicheKrankenversicherung* setzt sich aus den Kindelementen *sci-*
-
-*phox:Kostentraegerbezeichnung, sciphox:KrankenkassennummerIK sci-*
-
-*phox:KostentraegerAbrechnungsbereich*, evtl. *sciphox:KVBereich sci-*
-
-*phox:AbrechnungsVKNR*, evtl. *sciphox:SKTZusatzangabe sciphox:Versichertennummer sci-*
-
-*phox:VersichertenartMFR* oder *sciphox:VersichertenstatusKVK,* evtl. *sci-*
-
-*phox:Statusergaenzung*, evtl. *sciphox:BisDatumGueltigkeit* und evtl. *sci-*
-
-*phox:KVKEinlesedatum* zusammen. Die Elemente *sciphox:KVBereich*, s*ci-*
-
-*phox:SKTZusatzangabe sciphox:Statusergaenzung, sciphox:BisDatumGueltigkeit* und *sci-*
-
-*phox:KVKEinlesedatum* sind bedingte Pflichtfelder.
+Die Kostenträgerinformationen werden mittels der Sciphox-SSU *insurance v2* dargestellt. Das  Element *sciphox:GesetzlicheKrankenversicherung* setzt sich aus den Kindelementen *sci-*  *phox:Kostentraegerbezeichnung, sciphox:KrankenkassennummerIK sci-*  *phox:KostentraegerAbrechnungsbereich*, evtl. *sciphox:KVBereich sci-*  *phox:AbrechnungsVKNR*, evtl. *sciphox:SKTZusatzangabe sciphox:Versichertennummer sci-*  *phox:VersichertenartMFR* oder *sciphox:VersichertenstatusKVK,* evtl. *sci-*  *phox:Statusergaenzung*, evtl. *sciphox:BisDatumGueltigkeit* und evtl. *sci-*  *phox:KVKEinlesedatum* zusammen. Die Elemente *sciphox:KVBereich*, s*ci-*  *phox:SKTZusatzangabe sciphox:Statusergaenzung, sciphox:BisDatumGueltigkeit* und *sci-*  *phox:KVKEinlesedatum* sind bedingte Pflichtfelder.
 
 Die Plausibilitäten zu diesen Elementen müssen der KVDT-Beschreibung  [KBV_ITA_VGEX_Datensatzbeschreibung_KVDT] entnommen werden.
 
-In a-Datensätzen fallen die Elemente *KostentraegerAbrechnungsbereich, KVBereich, Abrech-*
-
-*nungsVKNR, SKTZusatzangabe, VersichertenstatusKVK, VersichertenartMFR, Statusergaen-*  *zung, BisDatumderGueltigkeit und KVKEinlesedatum* weg. Die konkrete Struktur für dieses
-
-Element ist in Abbildung 11 dargestellt.
+In a-Datensätzen fallen die Elemente *KostentraegerAbrechnungsbereich, KVBereich, Abrech-*  *nungsVKNR, SKTZusatzangabe, VersichertenstatusKVK, VersichertenartMFR, Statusergaen-*  *zung, BisDatumderGueltigkeit und KVKEinlesedatum* weg. Die konkrete Struktur für dieses  Element ist in Abbildung 11 dargestellt.
 
 
 ---
 
 **Abbildung 11 Grundstruktur sciphox:GesetzlicheKrankenversicherung**
 
-### Der Coderahmen für diese Sciphox-SSU würde dann wie folgt aussehen: Die Informationen
-
-müssen zum Teil aus der Kostenträgerstammdatei ermittelt werden. Die Angabe der OIDs ist
-
-### verpflichtend.
+### Der Coderahmen für diese Sciphox-SSU würde dann wie folgt aussehen: Die Informationen  müssen zum Teil aus der Kostenträgerstammdatei ermittelt werden. Die Angabe der OIDs ist  verpflichtend.
 
 <local_header ignore="all" descriptor="sciphox">
 
@@ -1393,16 +1204,10 @@ S="2.16.840.1.113883.3.7.1.16"/>
 
 Datentyp String. Als Beispiel sei hier folgender Code für dieses Element angegeben:
 
-3 Der Name ist dem Element *Bedruckungsname* aus der Kostenträger-Stammdatei zu entnehmen, sofern die KTS vor-
-
-handen ist.
-
-Header für eDMP / a-Datensatz
+3 Der Name ist dem Element *Bedruckungsname* aus der Kostenträger-Stammdatei zu entnehmen, sofern die KTS vor-  handen ist.
 
 
 ---
-
-Header für eDMP / a-Datensatz
 
 <sciphox:Kostentraegerbezeichnung V="AOK Rheinland"/>
 
@@ -1420,9 +1225,7 @@ Das Element  numerisch sein. Als Beispiel sei hier folgender Code für dieses El
 
 ### 6.9.5.3 Kostenträgerabrechnungsbereich (KostentraegerAbrechnungsbereich)
 
-In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element  *traegerAbrechnungsbereich* besteht aus den Attributen *V* und *S*. Im
-
-deutige OID der Schlüsseltabelle: „2.16.840.1.113883.3.7.1.16“. Der Standardwert für das  Attribut ist „00“. Eine andere Angabe aus der Schlüsseltabelle kann jedoch angegeben wer-  den. Als Beispiel sei hier folgender Code für dieses Element angegeben:
+In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element  *traegerAbrechnungsbereich* besteht aus den Attributen *V* und *S*. Im  deutige OID der Schlüsseltabelle: „2.16.840.1.113883.3.7.1.16“. Der Standardwert für das  Attribut ist „00“. Eine andere Angabe aus der Schlüsseltabelle kann jedoch angegeben wer-  den. Als Beispiel sei hier folgender Code für dieses Element angegeben:
 
 <sciphox:KostentraegerAbrechnungsbereich V="00" S="2.16.840.1.113883.3.7.1.16"/>
 
@@ -1432,9 +1235,7 @@ Zulässige Werte für die Kostenträgerabrechnungsbereiche können der Schlüsse
 
 ### 6.9.5.4 KV-Bereich (KVBereich)
 
-In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element  besteht aus den Attributen *V* und *S*. Im *S*-Attribut steht die eindeutige OID der Schlüsseltabel-
-
-le: „2.16.840.1.113883.3.7.1.17“. Das Element gibt es nur, wenn es sich um eine Kasse han-  delt, die dem Wohnortprinzip (WOP) unterliegt. Als Beispiel sei hier folgender Code für dieses
+In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element  besteht aus den Attributen *V* und *S*. Im *S*-Attribut steht die eindeutige OID der Schlüsseltabel-  le: „2.16.840.1.113883.3.7.1.17“. Das Element gibt es nur, wenn es sich um eine Kasse han-  delt, die dem Wohnortprinzip (WOP) unterliegt. Als Beispiel sei hier folgender Code für dieses
 
 Element angegeben:
 
@@ -1446,11 +1247,7 @@ Zulässige Werte für die KV-Bereiche können der Schlüsseltabelle entnommen we
 
 ### 6.9.5.5 Abrechnungs-VKNR (AbrechnungsVKNR)
 
-In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element  *nungsVKNR* enthält die Abrechnungs-VKNR der Kasse. Der Wert muss 5-stellig numerisch
-
-sein. Im *S* Attribut ist der Wert „AbrechnungsVKNR“ fest vorgegeben. Als Beispiel sei hier
-
-folgender Code für dieses Element angegeben:
+In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element  *nungsVKNR* enthält die Abrechnungs-VKNR der Kasse. Der Wert muss 5-stellig numerisch  sein. Im *S* Attribut ist der Wert „AbrechnungsVKNR“ fest vorgegeben. Als Beispiel sei hier  folgender Code für dieses Element angegeben:
 
 <sciphox:AbrechnungsVKNR V="24101" S="AbrechnungsVKNR"/>
 
@@ -1460,9 +1257,7 @@ folgender Code für dieses Element angegeben:
 
 In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element  *satzangabe* kann nur auftreten, wenn es sich bei dem Kostenträger um einen sonstigen Kos-
 
-*Kosten-*
-
-*S* Attribut steht die ein-  *V*
+*Kosten-*  *S* Attribut steht die ein-  *V*
 
 *KVBereich*
 
@@ -1473,11 +1268,7 @@ In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element
 
 ---
 
-Header für eDMP / a-Datensatz
-
-tenträger handelt. Im *V-*Attribut kann ein bis zu 60 Stellen umfassender alphanumerischer
-
-Wert eingetragen sein. Als Beispielcode sei hier aufgeführt:
+tenträger handelt. Im *V-*Attribut kann ein bis zu 60 Stellen umfassender alphanumerischer  Wert eingetragen sein. Als Beispielcode sei hier aufgeführt:
 
 <sciphox:SKTZusatzangabe V="Bezirksamt Pankow"/>
 
@@ -1485,42 +1276,34 @@ Wert eingetragen sein. Als Beispielcode sei hier aufgeführt:
 
 ### 6.9.5.7 Versichertennummer
 
-Die Versichertennummer wird im Element *Versichertennummer*
-
-die KVK-Karte eingelesen wurde. Es handelt sich hierbei um eine bis zu 12 Stellen lange al-  phanumerische Zeichenkette. Als Beispiel sei hier folgender Code für dieses Element ange-  geben:
+Die Versichertennummer wird im Element *Versichertennummer*  die KVK-Karte eingelesen wurde. Es handelt sich hierbei um eine bis zu 12 Stellen lange al-  phanumerische Zeichenkette. Als Beispiel sei hier folgender Code für dieses Element ange-  geben:
 
 <sciphox:Versichertennummer V="123456789999"/>
 
 **XML-Code 35 Versichertennummer**
 
-Für a- Datensätze ist die Versichertennummer pseudonymisiert zu übertragen. Für die pseu-
-
-donymisierte Versichertennummer wurde die Feldlänge auf 256 alphanummerische Zeichen  erweitert.
+Für a- Datensätze ist die Versichertennummer pseudonymisiert zu übertragen. Für die pseu-  donymisierte Versichertennummer wurde die Feldlänge auf 256 alphanummerische Zeichen  erweitert.
 
 ### 6.9.5.8 VersichertenstatusKVK
 
-In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: falls der Patient Mitglied  einer gesetzlichen Krankenversicherung und somit im Besitz einer Krankenversichertenkarte  ist, wird der Feldinhalt VersichertenstatusKVK in der Dokumentation eingetragen. Pflichtfeld,  wenn die KVK-Karte eingelesen wurde. Das Element  Attributen *V* und *S*. Im Attribut *V*
+In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: falls der Patient Mitglied  einer gesetzlichen Krankenversicherung und somit im Besitz einer Krankenversichertenkarte  ist, wird der Feldinhalt VersichertenstatusKVK in der Dokumentation eingetragen. Pflichtfeld,  wenn die KVK-Karte eingelesen wurde. Das Element  Attributen *V* und *S*. Im Attribut *V*  muss den Wert “2.16.840.1.113883.3.7.1.2“ aufweisen.
 
-muss den Wert “2.16.840.1.113883.3.7.1.2“ aufweisen.
-
-Als erste Ziffer des *V*-Attributwerts wird die „VersichertenartMFR“ gesetzt, siehe Schlüsseltab-
-
-elle mit OID: „2.16.840.1.113883.3.7.1.1“.
+Als erste Ziffer des *V*-Attributwerts wird die „VersichertenartMFR“ gesetzt, siehe Schlüsseltab-  elle mit OID: „2.16.840.1.113883.3.7.1.1“.
 
 Die zweite Stelle der Ziffer entspricht der Stichprobenzuordnung, siehe Schlüsseltabelle mit
-
-muss eine 4-stellige Zahl erfasst werden. Das
 
 OID: „1.2.276.0.76.5.113“.
 
 Die letzten beiden Ziffern (3.-4. Stelle) der vierstelligen  Geburtsjahr des Versicherten an.
 
-| **Wert** | **Beschreibung** |
+| Wert | Beschreibung |
 |---|---|
 | 00 in Verbindung mit Stelle 2 = 0 | Versicherter nimmt nicht an der Stichprobe |
 | 00-99 in Verbindung mit Stelle 2 > 0 | Geburtsjahr JJ |
 
 **Tabelle Stichprobenbezug-Geburtsjahr**
+
+muss eine 4-stellige Zahl erfasst werden. Das
 
 Folgender Beispielcode sei hier erwähnt:
 
@@ -1530,30 +1313,20 @@ Folgender Beispielcode sei hier erwähnt:
 
 ### 6.9.5.9 VersichertenartMFR
 
-In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: wenn es sich bei dem  Patienten z.B. um einen Sozialhilfeempfänger handelt, liegt keine Krankenversichertenkarte  und somit auch kein *VersichertenstatusKVK*
+In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: wenn es sich bei dem  Patienten z.B. um einen Sozialhilfeempfänger handelt, liegt keine Krankenversichertenkarte  und somit auch kein *VersichertenstatusKVK* vor. Stattdessen wird die
 
 aufgeführt. Pflichtfeld, wenn
 
-*VersichertenstatusKVK*
+*VersichertenstatusKVK* besteht aus den  *S*-Attribut
 
-*VersichertenstatusKVK*
-
-vor. Stattdessen wird die
-
-besteht aus den  *S*-Attribut
-
-geben das
+*VersichertenstatusKVK* geben das
 
 3.- 4. Stelle: Stichprobenbezug-Geburtsjahr teil. *VersichertenartMFR*
 
 
 ---
 
-Header für eDMP / a-Datensatz
-
-die z.B. einer Bescheinigung vom Sozialamt zu entnehmen ist, in der Dokumentation einge-  tragen. Das Element besteht aus dem *V*- und *S*
-
-OID:2.16.840.1.113883.3.7.1.1 aufgeführt.
+die z.B. einer Bescheinigung vom Sozialamt zu entnehmen ist, in der Dokumentation einge-  tragen. Das Element besteht aus dem *V*- und *S* Attribut. Die Werte sind in der Tabelle mit der  OID:2.16.840.1.113883.3.7.1.1 aufgeführt.
 
 Als Beispielcode sei hier aufgeführt:
 
@@ -1563,11 +1336,7 @@ Als Beispielcode sei hier aufgeführt:
 
 ### 6.9.5.10 Statusergaenzung
 
-In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element  *gaenzung* besteht aus den Attributen *V* und *S*. Im
-
-eingetragen sein. Für das *S*-Attribut ist der String „2.16.840.1.113883.3.7.1.3“ zu verwenden.
-
-Pflichtfeld, wenn die KVK-Karte eingelesen wurde.
+In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element *Statuser-*  *gaenzung* besteht aus den Attributen *V* und *S*. Im *V*-Attribut muss ein alphanumerischer Wert  eingetragen sein. Für das *S*-Attribut ist der String „2.16.840.1.113883.3.7.1.3“ zu verwenden.  Pflichtfeld, wenn die KVK-Karte eingelesen wurde.
 
 Als Code kann folgendes eingetragen werden:
 
@@ -1577,9 +1346,7 @@ Als Code kann folgendes eingetragen werden:
 
 ### 6.9.5.11 BisDatumderGueltigkeit
 
-In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element  *derGueltigkeit* enthält ein V-Attribut, in dem das Gültigkeitsdatum der Krankenversicherten-
-
-karte (KVK) im Format „JJJJ-MM“ einzutragen ist.
+In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element *BisDatum-*  *derGueltigkeit* enthält ein V-Attribut, in dem das Gültigkeitsdatum der Krankenversicherten-  karte (KVK) im Format „JJJJ-MM“ einzutragen ist.
 
 Der Code könnte folgende Gestalt annehmen:
 
@@ -1589,38 +1356,20 @@ Der Code könnte folgende Gestalt annehmen:
 
 ### 6.9.5.12 KVKEinlesedatum
 
-In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element  *sedatum* enthält ein *V* Attribut, in dem das Einlesedatum der KVK im Format „JJJJ-MM-TT“
+In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element *KVKEinle-*  *sedatum* enthält ein *V* Attribut, in dem das Einlesedatum der KVK im Format „JJJJ-MM-TT“  einzutragen ist. Das *KVKEinlesedatum* muss vorhanden sein, wenn eine Versichertenkarte  Der Beispielcode könnte folgendermaßen aussehen:
 
-einzutragen ist. Das *KVKEinlesedatum* muss vorhanden sein, wenn eine Versichertenkarte
-
-erfolgreich eingelesen wurde. Der Beispielcode könnte folgendermaßen aussehen:
+erfolgreich eingelesen wurde.
 
 <sciphox:KVKEinlesedatum V="2007-07-12"/>
 
 **XML-Code 40 KVKEinlesedatum**
 
-Attribut. Die Werte sind in der Tabelle mit der
-
-*Statuser-*
-
-*V*-Attribut muss ein alphanumerischer Wert
-
-*BisDatum-*
-
-*KVKEinle-*
-
 
 ---
 
-Header für eDMP / a-Datensatz
-
 ## 6.10 Software (local_header)
 
-Die Information über die Software und deren Verantwortliche wird mittels der Sciphox-SSU  *software v1* dargestellt. Das Element *sciphox:Software* setzt sich aus den Kindelementen *sci-*
-
-*phox:id sciphox:SoftwareName sciphox:SoftwareVersion sciphox:SoftwareTyp sci-*
-
-*phox:Kontakt* und *sciphox:Software* zusammen. Die Struktur für dieses Element ist in Abbil-
+Die Information über die Software und deren Verantwortliche wird mittels der Sciphox-SSU  *software v1* dargestellt. Das Element *sciphox:Software* setzt sich aus den Kindelementen *sci-*  *phox:id sciphox:SoftwareName sciphox:SoftwareVersion sciphox:SoftwareTyp sci-*  *phox:Kontakt* und *sciphox:Software* zusammen. Die Struktur für dieses Element ist in Abbil-
 
 dung 12 dargestellt.
 
@@ -1656,10 +1405,7 @@ Der Coderahmen für diese Sciphox-SSU sieht dann wie folgt aus:
 
 </sciphox:Software>
 
-
 ---
-
-Header für eDMP / a-Datensatz
 
 </sciphox:sciphox-ssu>
 
@@ -1669,13 +1415,9 @@ Header für eDMP / a-Datensatz
 
 ### 6.10.1 Software-ID (id)
 
-Das Element *sciphox:id* besteht aus den beiden Attributen
+Das Element *sciphox:id* besteht aus den beiden Attributen  als Wert die konkrete KBV-Prüfnummer für das Modul mit dem dieser Datensatz erzeugt wur-  de. Ab 01.01.2008 gelten für DMPs neue Prüfnummern im neuen
 
-als Wert die konkrete KBV-Prüfnummer für das Modul mit dem dieser Datensatz erzeugt wur-  de. Ab 01.01.2008 gelten für DMPs neue Prüfnummern im neuen
-
-„a/n[n][n]/JJMM/nn/ccc“. Wobei
-
-c=alphanummerische Zeichen. Das  Prüfnummer“. Es ist folgendes Code-Beispiel mit fiktiver KBV-Prüfnummer möglich:
+„a/n[n][n]/JJMM/nn/ccc“. Wobei  c=alphanummerische Zeichen. Das  Prüfnummer“. Es ist folgendes Code-Beispiel mit fiktiver KBV-Prüfnummer möglich:
 
 a=Softwareklasse,  *RT*-Attribut erhält als Wert den festen Wert „KBV-
 
@@ -1695,9 +1437,7 @@ J=Jahr, M=Monat,
 
 ### 6.10.2 Softwarename (SoftwareName)
 
-Das Element *sciphox:SoftwareName* erhält als Wert den konkreten Namen der Software. Es
-
-handelt sich dabei um einen String, der auf 60 Zeichen begrenzt wird.
+Das Element *sciphox:SoftwareName* erhält als Wert den konkreten Namen der Software. Es  handelt sich dabei um einen String, der auf 60 Zeichen begrenzt wird.
 
 Als Beispiel sei hier der folgende Code angegeben:
 
@@ -1707,9 +1447,7 @@ Als Beispiel sei hier der folgende Code angegeben:
 
 ### 6.10.3 Softwareversion (SoftwareVersion)
 
-Das Element *sciphox:SoftwareVersion* erhält als Wert die Versionsnummer der eingesetzten
-
-Software. Es handelt sich dabei um einen String, der auf 60 Zeichen begrenzt wird.
+Das Element *sciphox:SoftwareVersion* erhält als Wert die Versionsnummer der eingesetzten  Software. Es handelt sich dabei um einen String, der auf 60 Zeichen begrenzt wird.
 
 Als Beispiel sei hier der folgende Code angegeben:
 
@@ -1719,9 +1457,7 @@ Als Beispiel sei hier der folgende Code angegeben:
 
 ### 6.10.4 Softwaretyp (SoftwareTyp)
 
-Das Element *sciphox:SoftwareTyp* erhält als Wert den Typ der eingesetzten Software. Es wird
-
-zwischen PVS (Arztpraxissoftware), XSD (XML-Schnittstelle) und XPM (XML-Prüfmodul) un-  terschieden. Hier ist die Angabe „PVS“ fest vorgeschrieben. Als Beispiel sei hier der folgende  Code angegeben:
+Das Element *sciphox:SoftwareTyp* erhält als Wert den Typ der eingesetzten Software. Es wird  zwischen PVS (Arztpraxissoftware), XSD (XML-Schnittstelle) und XPM (XML-Prüfmodul) un-  terschieden. Hier ist die Angabe „PVS“ fest vorgeschrieben. Als Beispiel sei hier der folgende  Code angegeben:
 
 <sciphox:SoftwareTyp V="PVS"/>
 
@@ -1743,13 +1479,7 @@ zwischen PVS (Arztpraxissoftware), XSD (XML-Schnittstelle) und XPM (XML-Prüfmod
 
 ### 6.10.5 Softwarekontakt (Kontakt)
 
-Das Element *sciphox:Kontakt* enthält die zwingend erforderlichen Angaben zu dem Software-
-
-verantwortlichen und optional zu dem regionalen Systembetreuer der Software. Das Element  ist deshalb zwingend einmal erforderlich, kann jedoch zweimal angegeben werden. Es be-  steht aus den Komponenten *sciphox:Kontakttyp cda:organization.nm* evtl.
-
-*cda:person_name cda:addr* und *cda:telecom*, die zusammen alle die Gruppe *kontakt_gruppe*
-
-bilden. Die Grundstruktur ist in Abbildung 13 dargestellt.
+Das Element *sciphox:Kontakt* enthält die zwingend erforderlichen Angaben zu dem Software-  verantwortlichen und optional zu dem regionalen Systembetreuer der Software. Das Element  ist deshalb zwingend einmal erforderlich, kann jedoch zweimal angegeben werden. Es be-  steht aus den Komponenten *sciphox:Kontakttyp cda:organization.nm* evtl.  *cda:person_name cda:addr* und *cda:telecom*, die zusammen alle die Gruppe *kontakt_gruppe*  bilden. Die Grundstruktur ist in Abbildung 13 dargestellt.
 
 **Abbildung 13 Grundstruktur Kontakt**
 
@@ -1789,20 +1519,10 @@ Die Coderahmen für dieses Element sieht wie folgt aus:
 
 ### 6.10.5.1 Kontakttyp
 
-Hier wird der Kontakttyp im *V*-Attribut als kodierter Wert angegeben. Die Werte können aus
-
-der Schlüsseltabelle (1.2.276.0.76.3.1.1.5.2.3) entnommen werden. Im *S*-Attribut ist ein fester
-
-Wert für die Schlüsseltabelle vorgeschrieben. Der Wert des DN-Attributs beschreibt den ko-  dierten Wert des V-Attributs. Die Angabe zu dem Softwareverantwortlichen ist zwingend ein-  mal erforderlich. Deshalb muss genau einmal im Element *Kontakttyp* der Wert „SOFTV“ an-
-
-gegeben werden. Als Beispiel sei hier der folgende Code angegeben:
-
-Header für eDMP / a-Datensatz
+Hier wird der Kontakttyp im *V*-Attribut als kodierter Wert angegeben. Die Werte können aus  der Schlüsseltabelle (1.2.276.0.76.3.1.1.5.2.3) entnommen werden. Im *S*-Attribut ist ein fester  Wert für die Schlüsseltabelle vorgeschrieben. Der Wert des DN-Attributs beschreibt den ko-  dierten Wert des V-Attributs. Die Angabe zu dem Softwareverantwortlichen ist zwingend ein-  mal erforderlich. Deshalb muss genau einmal im Element *Kontakttyp* der Wert „SOFTV“ an-  gegeben werden. Als Beispiel sei hier der folgende Code angegeben:
 
 
 ---
-
-Header für eDMP / a-Datensatz
 
 <sciphox:Kontakttyp V="SOFTV" S="1.2.276.0.76.3.1.1.5.2.3" DN="Softwareverantwortlicher"/>
 
@@ -1810,9 +1530,7 @@ Header für eDMP / a-Datensatz
 
 ### 6.10.5.2 Name der Firma (organization.nm)
 
-Das Element *organization.nm* enthält als Wert den Namen der Firma. Es handelt sich dabei
-
-um einen String, der auf 60 Zeichen begrenzt wird.
+Das Element *organization.nm* enthält als Wert den Namen der Firma. Es handelt sich dabei  um einen String, der auf 60 Zeichen begrenzt wird.
 
 Als Beispiel sei hier der folgende Code angegeben:
 
@@ -1822,52 +1540,32 @@ Als Beispiel sei hier der folgende Code angegeben:
 
 ### 6.10.5.3 Name der Person (person_name)
 
-Das Element *person_name* enthält das Element *nm*, welches bereits im Abschnitt 6.8.3.2
-
-konkretisiert wurde.
+Das Element *person_name* enthält das Element *nm*, welches bereits im Abschnitt 6.8.3.2  konkretisiert wurde.
 
 #### 6.10.5.3.1Namensbestandteile der Person (nm)
 
-Das Element *nm* kann die Kindelemente *GIV, FAM* und *PFX* enthalten. Ein Beispiel dazu wur-
-
-de bereits im Abschnitt 6.8.3.2.1 angegeben.
+Das Element *nm* kann die Kindelemente *GIV, FAM* und *PFX* enthalten. Ein Beispiel dazu wur-  de bereits im Abschnitt 6.8.3.2.1 angegeben.
 
 ### 6.10.5.4 Adresse der Person (addr)
 
-Die Angaben entsprechen dem bereits unter Abschnitt 6.8.3.3 erklärten Element
+Die Angaben entsprechen dem bereits unter Abschnitt 6.8.3.3 erklärten Element *addr*
 
 ### 6.10.5.5 Kommunikationsmöglichkeiten (telecom)
 
-Das Element *telecom* ist zwingend erforderlich und besteht aus den Attributen
-
-dient dazu, Telefon- und Faxnummern, Emailadressen und Homepages aufzunehmen. Eine  Erläuterung erfolgte bereits im Abschnitt 6.8.3.4 bei den Kommunikationsmöglichkeiten des  Arztes.
+Das Element *telecom* ist zwingend erforderlich und besteht aus den Attributen *V* und *USE*. Es  dient dazu, Telefon- und Faxnummern, Emailadressen und Homepages aufzunehmen. Eine  Erläuterung erfolgte bereits im Abschnitt 6.8.3.4 bei den Kommunikationsmöglichkeiten des  Arztes.
 
 ### 6.10.6 Zusatzangabe zur XML-Schnittstelle (Software)
 
-Das Kindelement *Software* dient dazu, zusätzliche Informationen zur Schnittstelle und dem
+Das Kindelement *Software* dient dazu, zusätzliche Informationen zur Schnittstelle und dem  Prüfmodul zu sammeln. Die Angabe zur verwendeten (DMP)-Schnittstelle und Version ist ver-  pflichtend. Weitere Angaben zu dem XML-Prüfmodul können im zusätzlichen optionalen Kin-  delement *Software* vorgenommen werden. Das Element besteht aus den Pflichtelementen  Die
 
-Prüfmodul zu sammeln. Die Angabe zur verwendeten (DMP)-Schnittstelle und Version ist ver-  pflichtend. Weitere Angaben zu dem XML-Prüfmodul können im zusätzlichen optionalen Kin-  delement *Software* vorgenommen werden. Das Element besteht aus den Pflichtelementen
-
-*SoftwareName SoftwareVersion SoftwareTyp* und dem optionalen Element
-
-Grundstruktur ist in Abbildung 14 dargestellt.
-
-*addr*
-
-*V* und *USE*. Es
-
-Die
-
-*Software.*
+*SoftwareName SoftwareVersion SoftwareTyp* und dem optionalen Element *Software.*  Grundstruktur ist in Abbildung 14 dargestellt.
 
 
 ---
 
-Header für eDMP / a-Datensatz
+**Abbildung 14 Grundstruktur sciphox:Software**
 
-Ein Beispiel für dieses Element mit Informationen zur Schnittstelle und dem Prüfmodul sieht
-
-dann wie folgt aus:
+Ein Beispiel für dieses Element mit Informationen zur Schnittstelle und dem Prüfmodul sieht  dann wie folgt aus:
 
 <local_header ignore="all" descriptor="sciphox">
 
@@ -1880,8 +1578,6 @@ dann wie folgt aus:
 . . .
 
 <sciphox:Software>
-
-**Abbildung 14 Grundstruktur sciphox:Software**
 
 <sciphox:SoftwareName V="XSD_EDM2"/>
 
@@ -1911,36 +1607,32 @@ dann wie folgt aus:
 
 ### 6.10.6.1 Softwarename der XML-Schnittstelle (SoftwareName)
 
-Das Element *SoftwareName* wurde bereits ausführlich im Abschnitt 6.10.2 beschrieben. Zu-
-
-lässige Werte für die Bezeichnung der Schnittstelle stehen in der Tabelle mit der OID:
-
-(1.2.276.0.76.3.1.1.5.2.5). Eine gültige Angabe des Elements  Schnittstelle ist verpflichtend.
+Das Element *SoftwareName* wurde bereits ausführlich im Abschnitt  lässige Werte für die Bezeichnung der Schnittstelle stehen in der Tabelle mit der OID:  (1.2.276.0.76.3.1.1.5.2.5). Eine gültige Angabe des Elements  Schnittstelle ist verpflichtend.
 
 ### 6.10.6.2 Softwareversion der XML-Schnittstelle (SoftwareVersion)
 
-Das Element *SoftwareVersion* wurde bereits ausführlich im Abschnitt 6.10.3 beschrieben. Die
+Das Element *SoftwareVersion* wurde bereits ausführlich im Abschnitt  Version der Schnittstelle kann aus dem jeweiligen Schema zur software_ssu des DMP (z.B.  bei Diabetes mellitus Typ 1 -> DMP_DiabetesMellitus1_software_ssu.xsd) oder aus der Datei  ReleaseNotes.html im jeweilgen XPM-Prüfmodul entnommen werden.  angabe ist verpflichtend.
 
-Version der Schnittstelle kann aus dem jeweiligen Schema zur software_ssu des DMP (z.B.  bei Diabetes mellitus Typ 1 -> DMP_DiabetesMellitus1_software_ssu.xsd) oder aus der Datei  ReleaseNotes.html im jeweilgen XPM-Prüfmodul entnommen werden. Eine gültige Versions-  angabe ist verpflichtend.
+6.10.2 beschrieben. Zu-
 
-*SoftwareName* zur XML-
+*SoftwareName*
+
+6.10.3 beschrieben. Die
+
+Eine gültige Versions-
+
+zur XML-
 
 
 ---
 
-Header für eDMP / a-Datensatz
-
 ### 6.10.6.3 Softwaretyp der XML-Schnittstelle (SoftwareTyp)
 
-Das Element *SoftwareTyp* wurde bereits ausführlich im Abschnitt 6.10.4 beschrieben. Hier ist
-
-der Wert „XSD“ fest vorgeschrieben.
+Das Element *SoftwareTyp* wurde bereits ausführlich im Abschnitt 6.10.4 beschrieben. Hier ist  der Wert „XSD“ fest vorgeschrieben.
 
 ### 6.10.6.4 Zusatzangabe zum XPM-Prüfmodul (Software)
 
-Hier wird die optionale Angabe zu dem XPM-Prüfmodul (XPM-Paket) angegeben. Das Ele-  ment besteht aus den Pflichtelementen *SoftwareName SoftwareVersion* und *SoftwareTyp*
-
-Die Grundstruktur ist in Abbildung 15 dargestellt.
+Hier wird die optionale Angabe zu dem XPM-Prüfmodul (XPM-Paket) angegeben. Das Ele-  ment besteht aus den Pflichtelementen *SoftwareName SoftwareVersion* und *SoftwareTyp* Die Grundstruktur ist in Abbildung 15 dargestellt.
 
 **Abbildung 15 Grundstruktur sciphox:Software**
 
@@ -1980,32 +1672,34 @@ Ein Beispiel für dieses Element mit Informationen zu dem Prüfmodul sieht dann 
 
 ### 6.10.6.5 Softwarename des XML-Prüfmoduls (SoftwareName)
 
-Das Element *SoftwareName* wurde bereits ausführlich im Abschnitt 6.10.2 beschrieben. Zu-
-
-lässige Werte für die Bezeichnung des Prüfmoduls stehen in der Tabelle mit der OID  (1.2.276.0.76.3.1.1.5.2.5). Eine gültige Angabe des Elements  Prüfmodul ist verpflichtend.
+Das Element *SoftwareName* wurde bereits ausführlich im Abschnitt  lässige Werte für die Bezeichnung des Prüfmoduls stehen in der Tabelle mit der OID  (1.2.276.0.76.3.1.1.5.2.5). Eine gültige Angabe des Elements *SoftwareName*  Prüfmodul ist verpflichtend.
 
 ### 6.10.6.6 Softwareversion des XML-Prüfmoduls (SoftwareVersion)
 
-Das Element *SoftwareVersion* wurde bereits ausführlich im Abschnitt 6.10.3 beschrieben. Die
-
-Versionangabe zu dem XPM-Prüfmodul (XPM-Paket) steht in der Datei ReleaseNotes.html im  jeweiligen XPM-Prüfmodul oder ist der Bezeichnung der Archivdatei des XPM-Prüfmoduls zu  entnehmen.
+Das Element *SoftwareVersion* wurde bereits ausführlich im Abschnitt  Versionangabe zu dem XPM-Prüfmodul (XPM-Paket) steht in der Datei ReleaseNotes.html im  jeweiligen XPM-Prüfmodul oder ist der Bezeichnung der Archivdatei des XPM-Prüfmoduls zu  entnehmen.
 
 ### 6.10.6.7 Softwaretyp des XML-Prüfmoduls (SoftwareTyp)
 
-Das Element *SoftwareTyp* wurde bereits ausführlich im Abschnitt 6.10.4 beschrieben. Hier ist
+Das Element *SoftwareTyp* wurde bereits ausführlich im Abschnitt 6.10.4
 
 der Wert „XPM“ fest vorgeschrieben.
 
-*SoftwareName*
+6.10.2 beschrieben. Zu-
+
+6.10.3 beschrieben. Die
+
+beschrieben.
 
 zum XPM-
+
+Hier ist
 
 
 ---
 
 # 7 Glossar
 
-| **Kürzel** | **Beschreibung** |
+| Kürzel | Beschreibung |
 |---|---|
 | CDA | Clinical Document Architecture |
 | DMP | Disease Management Programm |
@@ -2024,17 +1718,13 @@ zum XPM-
 | U | U-Attribut (Unit) |
 | WOP | Wohnortprinzip |
 
-Header für eDMP / a-Datensatz
-
 Offices and Hospitals using XML between Information Systems in Physician
 
 ---
 
-Header für eDMP / a-Datensatz
-
 **8 Referenzierte Dokumente**
 
-| **Referenz** | **Dokument** |
+| Referenz | Dokument |
 |---|---|
 | [KBV_ITA_VGEX_XML-Schnittstellen] | Austausch von XML-Daten in der vertragsärztlichen |
 | [KBV_ITA_VGEX_Datensatzbeschreibung_KVDT] | KVDT Datensatzbeschreibung, Einheitlicher Daten- |

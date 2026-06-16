@@ -1,6 +1,6 @@
 **61 Teil E**
 
-**VIII. Inhalt der abgegebenen Einwilligungserklärungen und Angaben der/des Versicherten**
+### VIII. Inhalt der abgegebenen Einwilligungserklärungen und Angaben der/des Versicherten
 
 Datum
 
@@ -60,13 +60,11 @@ Krankenkasse an Angehörige und Vertrauenspersonen sowie Pflege- und Betreuungs-
 
 einrichtungen wurde erteilt.
 
-**A. Erteilte Einwillligungserklärungen**
+**A.** **Erteilte Einwillligungserklärungen**
 
-**B. Angaben der/des Versicherten**
+**B.** **Angaben der/des Versicherten**
 
-Angaben durch die Versicherte/den Versicherten zu Angehörigen und Vertrauenspersonen sowie Pflege- und
-
-Betreuungseinrichtungen, denen die Leistungsentscheidung durch die Krankenkasse übermittelt werden soll (VIII. A. 2.).
+Angaben durch die Versicherte/den Versicherten zu Angehörigen und Vertrauenspersonen sowie Pflege- und  Betreuungseinrichtungen, denen die Leistungsentscheidung durch die Krankenkasse übermittelt werden soll (VIII. A. 2.).
 
 ***Vor der Weiterleitung des Vordrucks an die Krankenkasse von der/dem Versicherten auszufüllen,***
 

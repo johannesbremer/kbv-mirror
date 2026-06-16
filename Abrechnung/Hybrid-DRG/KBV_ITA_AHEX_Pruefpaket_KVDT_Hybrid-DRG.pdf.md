@@ -11,22 +11,18 @@
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_KVDT_HYBRID-DRG]
 
-BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
+BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS     
 
 
 ---
 
 ## INHALT
 
-**1** **ALLGEMEINES**
+**1**
 
-**4**
+**2**
 
-**2** **TESTDATENVALIDIERUNG**
-
-**4**
-
-| **3** | **PRÜFVORGABEN** | **4** |
+| 3 | PRÜFVORGABEN | 4 |
 |---|---|---|
 | 3.1 | Prüfstammdateien | 4 |
 | 3.2 | Versichertendaten | 4 |
@@ -35,7 +31,17 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 | 3.3 | Praxisdaten | 6 |
 | 3.4 | XPM-Prüfmodul und Verschlüsselung | 6 |
 
-**4** **PRÜFFÄLLE**
+**4**
+
+**ALLGEMEINES**
+
+**4**
+
+**TESTDATENVALIDIERUNG**
+
+**4**
+
+**PRÜFFÄLLE**
 
 **8**
 
@@ -44,7 +50,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 DOKUMENTENHISTORIE
 
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.5 | 13.01.2025 | KBV | Aktualisierungen | Anpassungen für 2025 | S.9- |
 | 1.4 | 21.11.2024 | KBV | Aktualisierungen | Versichertendaten | S. 10 |
@@ -53,56 +59,42 @@ DOKUMENTENHISTORIE
 | 1.1 | 16.10.2024 | KBV | Aktualisierungen | - | Alle |
 | 1.0 | 17.09.2024 | KBV | Neues Dokument | Initiale Erstellung | Alle |
 
-Änderung der Vorgaben in Pruffall 1 und 2  Löschung von Prüffall 3 korrigiert
+Änderung der Vorgaben in Pruffall 1 und 2  Löschung von Prüffall 3 korrigiert 
 
 
 ---
 
 # 1 ALLGEMEINES
 
-Die Testdatenvalidierung des Zertifizierungsportals der KBV bietet die Möglichkeit mit Hilfe der in diesem  Dokument beschriebenen Prüffälle, die Umsetzung der KVDT-Anforderungen bezüglich der Abrechnung von
-
-Hybrid-DRG zu testen.
+Die Testdatenvalidierung des Zertifizierungsportals der KBV bietet die Möglichkeit mit Hilfe der in diesem  Dokument beschriebenen Prüffälle, die Umsetzung der KVDT-Anforderungen bezüglich der Abrechnung von  Hybrid-DRG zu testen.
 
 # 2 TESTDATENVALIDIERUNG
 
-Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) der Umsetzung des Hybrid-DRG-Datensatzes und der entsprechenden Anforderungen Hybrid-DRG“ ausgewählt werden. Nachdem das Thema ausgewählt wurde, ist das .ZIP-Archiv mit der
-
-verschlüsselten Abrechnungsdatei hochzuladen. Diese wird automatisi Korrektheit geprüft. Eine manuelle Prüfung der eingereichten Unterlagen d findet nicht statt. Für jeden zu prüfenden Testfall ist eine eigene Datei einzureichen.
+[Das Zertifizierungsportal ist über](https://zertifizierungsportal2.kbv.de/)[https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) [der Umsetzung des Hybrid-DRG-Datensatzes und der entsprechenden Anforderungen](https://zertifizierungsportal2.kbv.de/) Hybrid-DRG“ ausgewählt werden. Nachdem das Thema ausgewählt wurde, ist das .ZIP-Archiv mit der  verschlüsselten Abrechnungsdatei hochzuladen. Diese wird automatisi Korrektheit geprüft. Eine manuelle Prüfung der eingereichten Unterlagen d findet nicht statt. Für jeden zu prüfenden Testfall ist eine eigene Datei einzureichen.
 
 Die Abrechnungsdatei muss als .ZIP-Archiv mit der Bezeichnung  hochgeladen werden.
 
 # 3 PRÜFVORGABEN
 
-Werden in den Prüffällen keine Angaben zu verpflichtenden Feldkennungen (FK) der aktuell
-
-DRG-Datensatzes gemacht, so sind die Werte frei wählbar, z.B. FK 5028 (Erfassung des Datums des Beginns  der Leistung). In den Prüffällen nicht genannte bzw. nicht für den Prüffall notwendige optionale  Feldkennungen sind nicht zu übertragen.
+Werden in den Prüffällen keine Angaben zu verpflichtenden Feldkennungen (FK) der aktuell  DRG-Datensatzes gemacht, so sind die Werte frei wählbar, z.B. FK 5028 (Erfassung des Datums des Beginns  der Leistung). In den Prüffällen nicht genannte bzw. nicht für den Prüffall notwendige optionale  Feldkennungen sind nicht zu übertragen.
 
 Als Patientennummer (**FK 3000**) muss die Prüffall-ID (siehe Tabellen in Kapitel 4) eingetragen werden
 
 ## 3.1 PRÜFSTAMMDATEIEN
 
-Zur Realisierung der Prüffälle sind die regulären KBV-Stammdateien zu verwenden. Diese sind zu finden  unter: [https://update.kbv.de/ita-update/Stammdateien/](https://update.kbv.de/ita-update/Stammdateien/) .
+Zur Realisierung der Prüffälle sind die regulären KBV-Stammdateien zu verwenden. Diese sind zu finden  [unter:](https://update.kbv.de/ita-update/Stammdateien/)[https://update.kbv.de/ita-update/Stammdateien/](https://update.kbv.de/ita-update/Stammdateien/)
 
 ## 3.2 VERSICHERTENDATEN
 
-Die Versichertendaten der Testpatienten enthalten alle für  des Versicherten und werden auch als XML-Dateien
+Die Versichertendaten der Testpatienten enthalten alle für  des Versicherten und werden auch als XML-Dateien  (VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für die Prüffälle  [Versichertenstammdaten](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/VSD_5.2.0_Testfaelle_V2.3.zip)
 
-(VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für die Prüffälle
-
-Versichertenstammdaten:
-
-- EF.VD = allgemeine Versicherungsdaten
-
+- [](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/VSD_5.2.0_Testfaelle_V2.3.zip) [EF.VD](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/VSD_5.2.0_Testfaelle_V2.3.zip) [= allgemeine Versicherungsdaten](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/VSD_5.2.0_Testfaelle_V2.3.zip)
 - EF.PD = persönliche Versichertendaten
-
 - EF.GVD = geschützte Versichertendaten
 
-Die Erfassung der Patientendaten in den einzelnen Prüffällen kann entweder über das Einlesen (mit einer
+Die Erfassung der Patientendaten in den einzelnen Prüffällen kann entweder über das Einlesen (mit einer  sogenannten Import-Schnittstelle) der XML-Datei realisiert werden oder die Daten können im  Ersatzverfahren bzw. händisch erfasst werden.
 
-sogenannten Import-Schnittstelle) der XML-Datei realisiert werden oder die Daten können im  Ersatzverfahren bzw. händisch erfasst werden.
-
-zu erreichen. Für die Überprüfung  muss das Thema
+[zu erreichen. Für die Überprüfung](https://zertifizierungsportal2.kbv.de/) muss das Thema
 
 ert auf Vollständigkeit und  urch Mitarbeitende der KBV
 
@@ -110,16 +102,14 @@ ert auf Vollständigkeit und  urch Mitarbeitende der KBV
 
 gültigen Hybrid-
 
-jeden Prüffall die nötigen Angaben zu den Daten  zur Verfügung gestellt. Die Archivdatei
-
-die folgenden XML-Dateien mit
+jeden Prüffall die nötigen Angaben zu den Daten  zur Verfügung gestellt. Die Archivdatei  die folgenden XML-Dateien mit
 
 
 ---
 
 3.2.1.1 [XML_49]
 
-| **FELDER** | **INHALT** |
+| FELDER | INHALT |
 |---|---|
 | **Nachname** | Müller |
 | **Vorname** | Emil |
@@ -139,7 +129,7 @@ die folgenden XML-Dateien mit
 
 3.2.1.2 [XML_48]
 
-| **FELDER** | **INHALT** |
+| FELDER | INHALT |
 |---|---|
 | **Nachname** | Müller |
 | **Vorname** | Florian |
@@ -159,7 +149,7 @@ die folgenden XML-Dateien mit
 
 ---
 
-| **FELDER** | **INHALT** |
+| FELDER | INHALT |
 |---|---|
 | **Kostentraegerkennung** | 108939385 |
 
@@ -167,7 +157,7 @@ die folgenden XML-Dateien mit
 
 Sofern zur Bearbeitung der Prüffälle Praxisdaten benötigt werden, können die folgenden Praxisdaten  verwendet werden. Eine Abweichung von den hier abgebildeten Daten ist möglich.
 
-| **PRAXISDATEN (HAUPTSITZ - ABRECHNENDER ARZT)** | |
+| PRAXISDATEN (HAUPTSITZ - ABRECHNENDER ARZT) | |
 |---|---|
 | **Betriebsstättennummer (BSNR)** | 198212400 |
 | **BSNR-Bezeichnung** | Praxis Dr. med. Heribert Topp-Glücklich |
@@ -183,10 +173,10 @@ Sofern zur Bearbeitung der Prüffälle Praxisdaten benötigt werden, können die
 | **KV-Voreinstellungen** | KV: 20 (KV WL) |
 |  | Bezirkstelle: 19 (Münster) |
 
-| **ÜBERWEISER** |  |
+| ÜBERWEISER |  |
 |---|---|
 | **Betriebsstättennummer (BSNR):** | **198209700** |
-| **Lebenslange Arztnummer (LANR):** |  |
+| **Lebenslange Arztnummer (LANR):** | **004110101** |
 | **Name:** | House |
 | **Vorname:** | Gregory |
 | **Strasse:** | Herbert-Lewin-Platz 2 |
@@ -194,41 +184,37 @@ Sofern zur Bearbeitung der Prüffälle Praxisdaten benötigt werden, können die
 
 ## 3.4 XPM-PRÜFMODUL UND VERSCHLÜSSELUNG
 
-004110101 Bevor die Abrechnungsdateien (pro eingereichten Prüffall eine Datei) hochgeladen werden, müssen diese  unter Verwendung des XPM-Prüfmoduls für das erste Quartal 2025 fehlerfrei geprüft werden. Die Daten  sind anschließend mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen Testschlüssels zu
+Bevor die Abrechnungsdateien (pro eingereichten Prüffall eine Datei) hochgeladen werden, müssen diese  unter Verwendung des XPM-Prüfmoduls für das erste Quartal 2025 fehlerfrei geprüft werden. Die Daten  sind anschließend mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen Testschlüssels zu
 
 
 ---
 
-verschlüsseln. Die Verschlüsselung wird im Arbeitsmodus *TEST_Verschluesselung* vorgenommen. Hierfür ist
-
-der dazu bestimmte Testschlüssel zu verwenden.
-
+verschlüsseln. Die Verschlüsselung wird im Arbeitsmodus *TEST_Verschluesselung* vorgenommen. Hierfür ist  [der dazu bestimmte](https://update.kbv.de/ita-update/KBV-Software/Kryptomodul/Testschluessel.zip)[Testschlüssel](https://update.kbv.de/ita-update/KBV-Software/Kryptomodul/Testschluessel.zip)[zu verwenden.](https://update.kbv.de/ita-update/KBV-Software/Kryptomodul/Testschluessel.zip)
 
 ---
 
 # 4 PRÜFFÄLLE
 
-Durch das Feld „Versichertendaten“ jedes Prüffalls wird auf die zu verwendende XML-Datei verwiesen. Die
+Durch das Feld „Versichertendaten“ jedes Prüffalls wird auf die zu verwendende XML-Datei verwiesen. Die  Versichertendaten sind in der XML-Datei bzw. in den Tabellen unter Kapitel  Feldkennungen unter Vorgaben“ sind zu erfassen. Die Feldinhalt sind in Spalte drei angegeben. Einige  Felder sind dabei frei wählbar, diese sind entsprechend gekennzeichnet. bzw. nicht für den Prüffall notwendige optionale Feldkennungen sind nicht zu übertragen.
 
-Versichertendaten sind in der XML-Datei bzw. in den Tabellen unter Kapitel 3.2 vorgegeben. Die  Feldkennungen unter Vorgaben“ sind zu erfassen. Die Feldinhalt sind in Spalte drei angegeben. Einige
-
-Felder sind dabei frei wählbar, diese sind entsprechend gekennzeichnet. In den Prüffällen nicht genannte
-
-bzw. nicht für den Prüffall notwendige optionale Feldkennungen sind nicht zu übertragen.
-
-Bei Verwenden eines Groupers wird  abweichend von Regelungen für Krankenhäuser  die
-
-Grouperversion für den vertragsärztlichen Bereich mit der Jahreszahl des Tags der Durchführung der
-
-Leistung gemäß Anlage 1 zur Hybrid-DRG-Vereinbarung bestimmt. Wenn beispielsweise die Operation am
-
-09.01.2025 erfolgt, wäre die Grouperversion 2025 zu verwenden.
+Bei Verwenden eines Groupers wird  abweichend von Regelungen für Kranken Grouperversion für den vertragsärztlichen Bereich  Leistung gemäß Anlage 1 zur Hybrid-DRG-Vereinbarung bestimmt. Wenn beispielsweise die Operation am  09.01.2025 erfolgt, wäre die Grouperversion 2025 zu verwenden.
 
 Falls die verwendete Groupersoftware alternativ zu den Datumsangaben für Beginn und Ende der Leistung  die Verweildauer (in ganzzahligen Tagen) verarbeitet, sollte diese auf 1 gesetzt werden.
 
-Die Prüffälle wurden mit dem Webgrouper der DRG-Research-Group getestet ([https://www.drg-research-](https://www.drg-research-)
+Die Prüffälle wurden mit dem Webgrouper der DRG [group.de/index.php?option=com_webgrouper&view=webgrouper&Itemid=112](https://www.drg-research-group.de/index.php?option=com_webgrouper&view=webgrouper&Itemid=112)
 
-group.de/index.php?option=com_webgrouper&view=webgrouper&Itemid=112
+```
+[](https://www.drg-research-group.de/index.php?option=com_webgrouper&view=webgrouper&Itemid=112)
+[](https://www.drg-research-group.de/index.php?option=com_webgrouper&view=webgrouper&Itemid=112)
+```
+
+3.2 vorgegeben. Die
+
+In den Prüffällen nicht genannte
+
+häuser  die  mit der Jahreszahl des Tags der Durchführung der
+
+[-Research-Group getestet (](https://www.drg-research-group.de/index.php?option=com_webgrouper&view=webgrouper&Itemid=112)[https://www.drg-research-](https://www.drg-research-group.de/index.php?option=com_webgrouper&view=webgrouper&Itemid=112)
 
 
 ---
@@ -253,7 +239,7 @@ group.de/index.php?option=com_webgrouper&view=webgrouper&Itemid=112
 | **FK 6010** | Seitenlokalisation Hauptdiagnose | L |
 | **Einzureichende** | .XKM-Abrechnungsdatei mit Testschlüssel verschlüsselt | |
 
-Prüfunterlagen Leistungserbringung Vertragsarztes/
+Prüfunterlagen Leistungserbringung Vertragsarztes/ 
 
 
 ---

@@ -25,7 +25,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **2** **DATEINAMEN**
 
-| **3** | **SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE** | **12** |
+| 3 | SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE | 12 |
 |---|---|---|
 | 3.1 | Kardinalität | 12 |
 | 3.2 | Strukturelemente | 12 |
@@ -39,94 +39,20 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **6** **BODY DER „ERSTMALIGEN DOKUMENTATION“**
 
-6.1 Sektion (section)  6.1.1 caption 6.1.2 content
+6.1 Sektion (section)  6.1.1 caption  6.1.2 content  6.1.3 Sciphox-SSU observation  6.1.3.1 Parameter  6.1.3.2 Ergebnistext  6.1.3.3 Ergebniswert  6.1.3.4 Beobachtungen  6.1.4 Abschnitt „Administrative Daten“  6.1.4.1 Einschreibung wegen  6.1.5 Abschnitt „Anamnese und Befunddaten“  6.1.5.1 Körpergröße  6.1.5.2 Körpergewicht  6.1.5.3 Raucher  6.1.5.4 Blutdruck systolisch  6.1.5.5 Blutdruck diastolisch  6.1.5.6 Begleiterkrankungen  HbA1c  Pathologische Albumin Kreatinin Ratio  eGFR  Pulsstatus  Sensibilitätsprüfung  Weiteres Risiko für Ulcus  Ulkus  (Wund)Infektion  Injektionsstellen (bei Insulintherapie)  Intervall für künftige Fußinspektionen (bei Patientinnen und Patienten ab dem  vollendeten 18. Lebensjahr)  Spätfolgen  6.1.6 Abschnitt „Relevante Ereignisse“  Relevante Ereignisse
 
-6.1.3 Sciphox-SSU observation
+**10**  **11**  **14**  **15**
 
-6.1.3.1 Parameter
-
-6.1.3.2 Ergebnistext
-
-6.1.3.3 Ergebniswert
-
-6.1.3.4 Beobachtungen
-
-6.1.4 Abschnitt „Administrative Daten“
-
-6.1.4.1 Einschreibung wegen
-
-6.1.5 Abschnitt „Anamnese und Befunddaten“
-
-6.1.5.1 Körpergröße
-
-6.1.5.2 Körpergewicht
-
-6.1.5.3 Raucher
-
-6.1.5.4 Blutdruck systolisch
-
-6.1.5.5 Blutdruck diastolisch
-
-6.1.5.6 Begleiterkrankungen  HbA1c  Pathologische Albumin-Kreatinin-Ratio  eGFR  Pulsstatus  Sensibilitätsprüfung  Weiteres Risiko für Ulcus  Ulkus  (Wund)Infektion  Injektionsstellen (bei Insulintherapie)
-
-Intervall für künftige Fußinspektionen (bei Patientinnen und Patienten ab dem  vollendeten 18. Lebensjahr)  Spätfolgen
-
-6.1.6 Abschnitt „Relevante Ereignisse“
-
-Relevante Ereignisse
-
-**10**
-
-**11**
-
-**14**
-
-**15**
-
-15
-
-**15**
-
-16  17  18  19  20  20  20  20  21  21  22  23  24  24  24  25  25  25  26  26  27  27  28  29  29  29 30  30  31  31
+15  **15**  16  17  18  19  20  20  20  20  21  21  22  23  24  24  24  25  25  25  26  26  27  27  28  29  29  29 30  30  31  31
 
 
 ---
 
-6.1.7 Abschnitt „Medikamente“
-
-Thrombozytenaggregationshemmer  Betablocker  ACE-Hemmer  HMG-CoA-Reduktase-Hemmer  Thiaziddiuretika, einschließlich Chlorthalidon 6.1.8 Abschnitt „Schulung“
-
-Schulung empfohlen (bei aktueller Dokumentation)
-
-Schulung schon vor Einschreibung ins DMP bereits wahrgenommen
-
-6.1.9 Abschnitt „Behandlungsplanung“
-
-6.1.9.1 Vom Patienten gewünschte Informationsangebote der Krankenkasse
-
-6.1.9.2 Dokumentationsintervall
-
-6.1.9.3 HbA1c-Zielwert  Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifizierten  Einrichtung  Diabetesbezogene stationäre Einweisung
+6.1.7 Abschnitt „Medikamente“  Thrombozytenaggregationshemmer  Betablocker  ACE Hemmer  HMG-CoA-Reduktase-Hemmer  Thiaziddiuretika, einschließlich Chlorthalidon  6.1.8 Abschnitt „Schulung“  Schulung empfohlen (bei aktueller Dokumentation)  Schulung schon vor Einschreibung ins DMP bereits wahrgenommen 6.1.9 Abschnitt „Behandlungsplanung“  6.1.9.1 Vom Patienten gewünschte Informationsangebote der Krankenkasse 6.1.9.2 Dokumentationsintervall  6.1.9.3 HbA1c-Zielwert  Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifizierten  Einrichtung  Diabetesbezogene stationäre Einweisung
 
 **7** **BODY DER VERLAUFSDOKUMENTATION**
 
-7.1 Sektion (section)  7.1.1 Abschnitt „Relevante Ereignisse“
-
-Relevante Ereignisse  Schwere Hypoglykämien seit der letzten Dokumentation
-
-Stationäre notfallmäßige Behandlung wegen Diabetes mellitus seit der letzten  Dokumentation 7.1.2 Abschnitt „Schulung“
-
-Schulung empfohlen (bei aktueller Dokumentation)
-
-Empfohlene Schulung(en) wahrgenommen
-
-7.1.3 Abschnitt „Behandlungsplanung“
-
-7.1.3.1 Vom Patienten gewünschte Informationsangebote der Krankenkasse
-
-7.1.3.2 Dokumentationsintervall
-
-7.1.3.3 HbA1c-Zielwert  Ophthalmologische Netzhautuntersuchung seit letzter Dokumentation Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifizierten  Einrichtung  Diabetesbezogene stationäre Einweisung
+7.1 Sektion (section)  7.1.1 Abschnitt „Relevante Ereignisse“  Relevante Ereignisse  Schwere Hypoglykämien seit der letzten Dokumentation  Stationäre notfallmäßige Behandlung wegen Diabetes mellitus seit der letzten  Dokumentation  7.1.2 Abschnitt „Schulung“  Schulung empfohlen (bei aktueller Dokumentation)  Empfohlene Schulung(en) wahrgenommen  7.1.3 Abschnitt „Behandlungsplanung“  7.1.3.1 Vom Patienten gewünschte Informationsangebote der Krankenkasse 7.1.3.2 Dokumentationsintervall  7.1.3.3 HbA1c-Zielwert  Ophthalmologische Netzhautuntersuchung seit letzter Dokumentation Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifizierten  Einrichtung  Diabetesbezogene stationäre Einweisung
 
 **8** **GLOSSAR**
 
@@ -136,15 +62,9 @@ Empfohlene Schulung(en) wahrgenommen
 
 37  37
 
-38  39  39
+38  39  39  39  40
 
-39  40
-
-**41**
-
-41  41  41  41
-
-42  42  43  43  43
+**41**  41  41  41  41 42  42  43  43  43
 
 44  44  44
 
@@ -152,9 +72,7 @@ Empfohlene Schulung(en) wahrgenommen
 
 45  45
 
-**46**
-
-**47**
+**46**  **47**
 
 |  |  |
 |---|---|
@@ -164,13 +82,7 @@ Empfohlene Schulung(en) wahrgenommen
 
 ## ABBILDUNGSVERZEICHNIS
 
-**ABBILDUNG 1:** GRUNDSTRUKTUR LEVELONE .................................................................................................................. 14
-
-**ABBILDUNG 2:** GRUNDSTRUKTUR BODY .......................................................................................................................... 15
-
-**ABBILDUNG 3:** GRUNDSTRUKTUR SECTION ..................................................................................................................... 16
-
-**ABBILDUNG 4:** AUFBAU SCIPHOX-SSU OBSERVATION ..................................................................................................... 19
+**ABBILDUNG 1:** GRUNDSTRUKTUR LEVELONE .................................................................................................................. 14  **ABBILDUNG 2:** GRUNDSTRUKTUR BODY .......................................................................................................................... 15  **ABBILDUNG 3:** GRUNDSTRUKTUR SECTION ..................................................................................................................... 16  **ABBILDUNG 4:** AUFBAU SCIPHOX-SSU OBSERVATION ..................................................................................................... 19
 
 |  |  |
 |---|---|
@@ -180,79 +92,17 @@ Empfohlene Schulung(en) wahrgenommen
 
 ## TABELLENVERZEICHNIS
 
-**TABELLE 1:** BESCHREIBUNG DER KARDINALITÄTEN ......................................................................................................... 12
+**TABELLE 1:** BESCHREIBUNG DER KARDINALITÄTEN ......................................................................................................... 12  **TABELLE 2:** BESCHREIBUNG DER STRUKTURELEMENT-SYMBOLE .................................................................................... 12  **TABELLE 3:** BESCHREIBUNG SONSTIGER SYMBOLE .......................................................................................................... 13  **TABELLE 4:** WERTE BEI ERGEBNISTEXT (EINSCHREIBUNG WEGEN) .................................................................................. 22  **TABELLE 5:** WERTE BEI ERGEBNISTEXT (RAUCHER) .......................................................................................................... 24  **TABELLE 6:** WERTE BEI ERGEBNISTEXT (BEGLEITERKRANKUNGEN) ................................................................................. 25  **TABELLE 7:** WERTE BEI ERGEBNISWERT (HBA1C) ............................................................................................................. 26  **TABELLE 8:** WERTE BEI ERGEBNISTEXT (PATHOLOGISCHE ALBUMIN-KREATININ-RATIO) ................................................ 26  **TABELLE 9:** WERTE BEI ERGEBNISTEXT (PULSSTATUS) ..................................................................................................... 27  **TABELLE 10:** WERTE BEI ERGEBNISTEXT (SENSIBILITÄTSPRÜFUNG)................................................................................. 28  **TABELLE 11:** WERTE BEI ERGEBNISTEXT (WEITERES RISIKO FÜR ULCUS) ......................................................................... 28  **TABELLE 12:** WERTE BEI ERGEBNISTEXT (ULKUS) ............................................................................................................. 29  **TABELLE 13:** WERTE BEI ERGEBNISTEXT ((WUND)INFEKTION) ......................................................................................... 29  **TABELLE 14:** WERTE BEI ERGEBNISTEXT (INJEKTIONSSTELLEN (BEI INSULINTHERAPIE)) ................................................. 30  WERTE BEI ERGEBNISTEXT (INTERVALL FÜR KÜNFTIGE FUßINSPEKTIONEN (BEI PATIENTINNEN UND
 
-**TABELLE 2:** BESCHREIBUNG DER STRUKTURELEMENT-SYMBOLE .................................................................................... 12
+**TABELLE 15:** PATIENTEN AB DEM VOLLENDETEN 18. LEBENSJAHR)) ........................................................................................... 30  **TABELLE 16:** WERTE BEI ERGEBNISTEXT (SPÄTFOLGEN) .................................................................................................. 31  **TABELLE 17:** WERTE BEI ERGEBNISTEXT (RELEVANTE EREIGNISSE) ................................................................................. 32  **TABELLE 18:** WERTE BEI ERGEBNISTEXT (THROMBOZYTENAGGREGATIONSHEMMER) ................................................... 33  **TABELLE 19:** WERTE BEI ERGEBNISTEXT (BETABLOCKER) ................................................................................................. 34  **TABELLE 20:** WERTE BEI ERGEBNISTEXT (ACE-HEMMER) ................................................................................................. 34  **TABELLE 21:** WERTE BEI ERGEBNISTEXT (HMG COA REDUKTASE HEMMER ................................................................ 35  **TABELLE 22:** WERTE BEI ERGEBNISTEXT (THIAZIDDIURETIKA, EINSCHLIEßLICH CHLORTHALIDON ................................ 35  **TABELLE 19:** WERTE BEI ERGEBNISTEXT (SCHULUNG EMPFOHLEN (BEI AKTUELLER DOKUMENTATION ...................... 36  WERTE BEI ERGEBNISTEXT (
 
-**TABELLE 3:** BESCHREIBUNG SONSTIGER SYMBOLE .......................................................................................................... 13
+**TABELLE 20:**
 
-**TABELLE 4:** WERTE BEI ERGEBNISTEXT (EINSCHREIBUNG WEGEN) .................................................................................. 22
+SCHULUNG SCHON VOR EINSCHREIBUNG INS DMP BEREITS  WAHRGENOMMEN) ................................................................................................................................................. 37  **TABELLE 21:** KRANKENKASSE)  WERTE BEI ERGEBNISTEXT (VOM PATIENTEN GEWÜNSCHTE INFORMATIONSANGEBOTE DER  ....................................................................................................................................................... 38  **TABELLE 22:** WERTE BEI ERGEBNISTEXT (DOKUMENTATIONSINTERVALL) ...................................................................... 39  **TABELLE 23:** WERTE BEI ERGEBNISTEXT (HBA1C-ZIELWERT) ........................................................................................... 39  WERTE BEI ERGEBNISTEXT (BEHANDLUNG/MITBEHANDLUNG IN EINER FÜR DAS DIABETISCHE
 
-**TABELLE 5:** WERTE BEI ERGEBNISTEXT (RAUCHER) .......................................................................................................... 24
+**TABELLE 24:** FUßSYNDROM QUALIFIZIERTEN EINRICHTUNG) ...................................................................................................... 40  **TABELLE 25:** WERTE BEI ERGEBNISTEXT (DIABETESBEZOGENE STATIONÄRE EINWEISUNG) ........................................... 40  **TABELLE 26:** WERTE BEI PARAMETER (EMPFOHLENE SCHULUNG(EN) WAHRGENOMMEN) ........................................... 43  **TABELLE 27:** WERTE BEI ERGEBNISTEXT (EMPFOHLENE SCHULUNG(EN) WAHRGENOMMEN) ....................................... 43  WERTE BEI ERGEBNISTEXT (OPHTHALMOLOGISCHE NETZHAUTUNTERSUCHUNG SEIT LETZTER
 
-**TABELLE 6:** WERTE BEI ERGEBNISTEXT (BEGLEITERKRANKUNGEN) ................................................................................. 25
-
-**TABELLE 7:** WERTE BEI ERGEBNISWERT (HBA1C) ............................................................................................................. 26
-
-**TABELLE 8:** WERTE BEI ERGEBNISTEXT (PATHOLOGISCHE ALBUMIN-KREATININ-RATIO) ................................................ 26
-
-**TABELLE 9:** WERTE BEI ERGEBNISTEXT (PULSSTATUS) ..................................................................................................... 27
-
-**TABELLE 10:** WERTE BEI ERGEBNISTEXT (SENSIBILITÄTSPRÜFUNG)................................................................................. 28
-
-**TABELLE 11:** WERTE BEI ERGEBNISTEXT (WEITERES RISIKO FÜR ULCUS) ......................................................................... 28
-
-**TABELLE 12:** WERTE BEI ERGEBNISTEXT (ULKUS) ............................................................................................................. 29
-
-**TABELLE 13:** WERTE BEI ERGEBNISTEXT ((WUND)INFEKTION) ......................................................................................... 29
-
-**TABELLE 14:** WERTE BEI ERGEBNISTEXT (INJEKTIONSSTELLEN (BEI INSULINTHERAPIE)) ................................................. 30
-
-**TABELLE 15:** WERTE BEI ERGEBNISTEXT (INTERVALL FÜR KÜNFTIGE FUßINSPEKTIONEN (BEI PATIENTINNEN UND
-
-PATIENTEN AB DEM VOLLENDETEN 18. LEBENSJAHR)) ........................................................................................... 30
-
-**TABELLE 16:** WERTE BEI ERGEBNISTEXT (SPÄTFOLGEN) .................................................................................................. 31
-
-**TABELLE 17:** WERTE BEI ERGEBNISTEXT (RELEVANTE EREIGNISSE) ................................................................................. 32
-
-**TABELLE 18:** WERTE BEI ERGEBNISTEXT (THROMBOZYTENAGGREGATIONSHEMMER) ................................................... 33
-
-**TABELLE 19:** WERTE BEI ERGEBNISTEXT (BETABLOCKER) ................................................................................................. 34
-
-**TABELLE 20:** WERTE BEI ERGEBNISTEXT (ACE-HEMMER) ................................................................................................. 34
-
-**TABELLE 21:** WERTE BEI ERGEBNISTEXT (HMG-COA-REDUKTASE-HEMMER) .................................................................. 35
-
-**TABELLE 22:** WERTE BEI ERGEBNISTEXT (THIAZIDDIURETIKA, EINSCHLIEßLICH CHLORTHALIDON) ................................. 35
-
-**TABELLE 19:** WERTE BEI ERGEBNISTEXT (SCHULUNG EMPFOHLEN (BEI AKTUELLER DOKUMENTATION)) ...................... 36
-
-**TABELLE 20:** WERTE BEI ERGEBNISTEXT (SCHULUNG SCHON VOR EINSCHREIBUNG INS DMP BEREITS
-
-WAHRGENOMMEN) ................................................................................................................................................. 37
-
-**TABELLE 21:** WERTE BEI ERGEBNISTEXT (VOM PATIENTEN GEWÜNSCHTE INFORMATIONSANGEBOTE DER
-
-KRANKENKASSE) ....................................................................................................................................................... 38
-
-**TABELLE 22:** WERTE BEI ERGEBNISTEXT (DOKUMENTATIONSINTERVALL) ...................................................................... 39
-
-**TABELLE 23:** WERTE BEI ERGEBNISTEXT (HBA1C-ZIELWERT) ........................................................................................... 39
-
-**TABELLE 24:** WERTE BEI ERGEBNISTEXT (BEHANDLUNG/MITBEHANDLUNG IN EINER FÜR DAS DIABETISCHE
-
-FUßSYNDROM QUALIFIZIERTEN EINRICHTUNG) ...................................................................................................... 40
-
-**TABELLE 25:** WERTE BEI ERGEBNISTEXT (DIABETESBEZOGENE STATIONÄRE EINWEISUNG) ........................................... 40
-
-**TABELLE 26:** WERTE BEI PARAMETER (EMPFOHLENE SCHULUNG(EN) WAHRGENOMMEN) ........................................... 43
-
-**TABELLE 27:** WERTE BEI ERGEBNISTEXT (EMPFOHLENE SCHULUNG(EN) WAHRGENOMMEN) ....................................... 43
-
-**TABELLE 28:** WERTE BEI ERGEBNISTEXT (OPHTHALMOLOGISCHE NETZHAUTUNTERSUCHUNG SEIT LETZTER
-
-DOKUMENTATION) .................................................................................................................................................. 45
+**TABELLE 28:** DOKUMENTATION) .................................................................................................................................................. 45
 
 |  |  |
 |---|---|
@@ -262,115 +112,7 @@ DOKUMENTATION) .................................................................
 
 ## XML-CODE-VERZEICHNIS
 
-**XML-CODE 1:** LEVELONE ................................................................................................................................................... 14
-
-**XML-CODE 2**: BODY .......................................................................................................................................................... 15
-
-**XML-CODE 3:** SECTION ..................................................................................................................................................... 17
-
-**XML-CODE 4:** CONTENT MIT SCIPHOX-SSU (OBSERVATION) ........................................................................................... 18
-
-**XML-CODE 5:** BEOBACHTUNGEN ...................................................................................................................................... 19
-
-**XML-CODE 6:** PARAMETER ............................................................................................................................................... 20
-
-**XML-CODE 7:** ERGEBNISTEXT ........................................................................................................................................... 20
-
-**XML-CODE 8:** ERGEBNISWERT .......................................................................................................................................... 20
-
-**XML-CODE 9:** CONTENT (ADMINISTRATIVE DATEN) ........................................................................................................ 21
-
-**XML-CODE 10:** EINSCHREIBUNG WEGEN ......................................................................................................................... 21
-
-**XML-CODE 11:** CONTENT (ANAMNESE- UND BEFUNDDATEN) ........................................................................................ 23
-
-**XML-CODE 12:** KÖRPERGRÖßE ......................................................................................................................................... 24
-
-**XML-CODE 13:** KÖRPERGEWICHT ..................................................................................................................................... 24
-
-**XML-CODE 14:** RAUCHER .................................................................................................................................................. 24
-
-**XML-CODE 15:** BLUTDRUCK SYSTOLISCH .......................................................................................................................... 24
-
-**XML-CODE 16:** BLUTDRUCK DIASTOLISCH ........................................................................................................................ 25
-
-**XML-CODE 17:** BEGLEITERKRANKUNGEN ......................................................................................................................... 25
-
-**XML-CODE 18:** HBA1C ...................................................................................................................................................... 26
-
-**XML-CODE 19:** PATHOLOGISCHE ALBUMIN-KREATININ-RATIO ....................................................................................... 26
-
-**XML-CODE 20**: EGFR ......................................................................................................................................................... 27
-
-**XML-CODE 21:** EGFR ......................................................................................................................................................... 27
-
-**XML-CODE 22:** PULSSTATUS ............................................................................................................................................. 27
-
-**XML-CODE 23:** SENSIBILITÄTSPRÜFUNG .......................................................................................................................... 27
-
-**XML-CODE 24:** WEITERES RISIKO FÜR ULCUS................................................................................................................... 28
-
-**XML-CODE 25:** ULKUS ....................................................................................................................................................... 29
-
-**XML-CODE 26:** (WUND)INFEKTION .................................................................................................................................. 29
-
-**XML-CODE 27:** INJEKTIONSSTELLEN (BEI INSULINTHERAPIE) ........................................................................................... 30
-
-**XML-CODE 28:** INTERVALL FÜR KÜNFTIGE FUßINSPEKTIONEN (BEI PATIENTINNEN UND PATIENTEN AB DEM
-
-VOLLENDETEN 18. LEBENSJAHR) ............................................................................................................................. 30
-
-**XML-CODE 29:** SPÄTFOLGEN ............................................................................................................................................ 31
-
-**XML-CODE 30:** CONTENT (RELEVANTE EREIGNISSE) ........................................................................................................ 31
-
-**XML-CODE 31:** RELEVANTE EREIGNISSE ........................................................................................................................... 32
-
-**XML-CODE 32:** CONTENT (MEDIKAMENTE)...................................................................................................................... 33
-
-**XML-CODE 33:** THROMBOZYTENAGGREGATIONSHEMMER ............................................................................................ 33
-
-**XML-CODE 34:** BETABLOCKER .......................................................................................................................................... 34
-
-**XML-CODE 35:** ACE-HEMMER........................................................................................................................................... 34
-
-**XML-CODE 36:** HMG-COA-REDUKTASE-HEMMER ............................................................................................................ 35
-
-**XML-CODE 37:** THIAZIDDIURETIKA, EINSCHLIEßLICH CHLORTHALIDON .......................................................................... 35
-
-**XML-CODE 34:** CONTENT (SCHULUNG) ............................................................................................................................ 36
-
-**XML-CODE 35:** SCHULUNG EMPFOHLEN (BEI AKTUELLER DOKUMENTATION) ............................................................... 36
-
-**XML-CODE 36:** SCHULUNG SCHON VOR EINSCHREIBUNG INS DMP BEREITS WAHRGENOMMEN .................................. 37
-
-**XML-CODE 37:** CONTENT (BEHANDLUNGSPLANUNG) ..................................................................................................... 38
-
-**XML-CODE 38:** VOM PATIENTEN GEWÜNSCHTE INFORMATIONSANGEBOTE DER KRANKENKASSE ............................... 38
-
-**XML-CODE 39:** DOKUMENTATIONSINTERVALL ................................................................................................................ 39
-
-**XML-CODE 40:** HBA1C-ZIELWERT ..................................................................................................................................... 39
-
-**XML-CODE 41:** BEHANDLUNG/MITBEHANDLUNG IN EINER FÜR DAS DIABETISCHE FUßSYNDROM QUALIFIZIERTEN
-
-EINRICHTUNG........................................................................................................................................................... 40
-
-**XML-CODE 42:** DIABETESBEZOGENE STATIONÄRE EINWEISUNG ..................................................................................... 40
-
-**XML-CODE 43:** CONTENT (RELEVANTE EREIGNISSE) ........................................................................................................ 41
-
-**XML-CODE 44:** SCHWERE HYPOGLYKÄMIEN SEIT DER LETZTEN DOKUMENTATION ....................................................... 42
-
-**XML-CODE 45:** STATIONÄRE NOTFALLMÄßIGE BEHANDLUNG WEGEN DIABETES MELLITUS SEIT DER LETZTEN
-
-DOKUMENTATION ................................................................................................................................................... 42
-
-**XML-CODE 46:** CONTENT (SCHULUNG) ............................................................................................................................ 42
-
-**XML-CODE 47:** EMPFOHLENE SCHULUNG(EN) WAHRGENOMMEN ................................................................................. 43
-
-**XML-CODE 48:** CONTENT (BEHANDLUNGSPLANUNG) ..................................................................................................... 44
+**XML-CODE 1:** LEVELONE ................................................................................................................................................... 14  **XML-CODE 2**: BODY .......................................................................................................................................................... 15  **XML-CODE 3:** SECTION ..................................................................................................................................................... 17  **XML-CODE 4:** CONTENT MIT SCIPHOX-SSU (OBSERVATION) ........................................................................................... 18  **XML-CODE 5:** BEOBACHTUNGEN ...................................................................................................................................... 19  **XML-CODE 6:** PARAMETER ............................................................................................................................................... 20  **XML-CODE 7:** ERGEBNISTEXT ........................................................................................................................................... 20  **XML-CODE 8:** ERGEBNISWERT .......................................................................................................................................... 20  **XML-CODE 9:** CONTENT (ADMINISTRATIVE DATEN) ........................................................................................................ 21  **XML-CODE 10:** EINSCHREIBUNG WEGEN ......................................................................................................................... 21  **XML-CODE 11:** CONTENT (ANAMNESE- UND BEFUNDDATEN) ........................................................................................ 23  **XML-CODE 12:** KÖRPERGRÖßE ......................................................................................................................................... 24  **XML-CODE 13:** KÖRPERGEWICHT ..................................................................................................................................... 24  **XML-CODE 14:** RAUCHER .................................................................................................................................................. 24  **XML-CODE 15:** BLUTDRUCK SYSTOLISCH .......................................................................................................................... 24  **XML-CODE 16:** BLUTDRUCK DIASTOLISCH ........................................................................................................................ 25  **XML-CODE 17:** BEGLEITERKRANKUNGEN ......................................................................................................................... 25  **XML-CODE 18:** HBA1C ...................................................................................................................................................... 26  **XML-CODE 19:** PATHOLOGISCHE ALBUMIN-KREATININ-RATIO ....................................................................................... 26  **XML-CODE 20**: EGFR ......................................................................................................................................................... 27  **XML-CODE 21:** EGFR ......................................................................................................................................................... 27  **XML-CODE 22:** PULSSTATUS ............................................................................................................................................. 27  **XML-CODE 23:** SENSIBILITÄTSPRÜFUNG .......................................................................................................................... 27  **XML-CODE 24:** WEITERES RISIKO FÜR ULCUS................................................................................................................... 28  **XML-CODE 25:** ULKUS ....................................................................................................................................................... 29  **XML-CODE 26:** (WUND)INFEKTION .................................................................................................................................. 29  **XML-CODE 27:** INJEKTIONSSTELLEN (BEI INSULINTHERAPIE) ........................................................................................... 30  **XML-CODE 28:** INTERVALL FÜR KÜNFTIGE FUßINSPEKTIONEN (BEI PATIENTINNEN UND PATIENTEN AB DEM  VOLLENDETEN 18. LEBENSJAHR) ............................................................................................................................. 30  **XML-CODE 29:** SPÄTFOLGEN ............................................................................................................................................ 31  **XML-CODE 30:** CONTENT (RELEVANTE EREIGNISSE) ........................................................................................................ 31  **XML-CODE 31:** RELEVANTE EREIGNISSE ........................................................................................................................... 32  **XML-CODE 32:** CONTENT (MEDIKAMENTE)...................................................................................................................... 33  **XML-CODE 33:** THROMBOZYTENAGGREGATIONSHEMMER ............................................................................................ 33  **XML-CODE 34:** BETABLOCKER .......................................................................................................................................... 34  **XML-CODE 35:** ACE HEMMER........................................................................................................................................... 34  **XML-CODE 36:** HMG COA REDUKTASE HEMMER ............................................................................................................ 35  **XML-CODE 37:** THIAZIDDIURETIKA, EINSCHLIEßLICH CHLORTHALIDON .......................................................................... 35  **XML-CODE 34:** CONTENT (SCHULUNG) ............................................................................................................................ 36  **XML-CODE 35:** SCHULUNG EMPFOHLEN (BEI AKTUELLER DOKUMENTATION) ............................................................... 36  **XML-CODE 36:** SCHULUNG SCHON VOR EINSCHREIBUNG INS DMP BEREITS WAHRGENOMMEN .................................. 37  **XML-CODE 37:** CONTENT (BEHANDLUNGSPLANUNG) ..................................................................................................... 38  **XML-CODE 38:** VOM PATIENTEN GEWÜNSCHTE INFORMATIONSANGEBOTE DER KRANKENKASSE ............................... 38  **XML-CODE 39:** DOKUMENTATIONSINTERVALL ................................................................................................................ 39  **XML-CODE 40:** HBA1C-ZIELWERT ..................................................................................................................................... 39  **XML-CODE 41:** BEHANDLUNG/MITBEHANDLUNG IN EINER FÜR DAS DIABETISCHE FUßSYNDROM QUALIFIZIERTEN  EINRICHTUNG........................................................................................................................................................... 40  **XML-CODE 42:** DIABETESBEZOGENE STATIONÄRE EINWEISUNG ..................................................................................... 40  **XML-CODE 43:** CONTENT (RELEVANTE EREIGNISSE) ........................................................................................................ 41  **XML-CODE 44:** SCHWERE HYPOGLYKÄMIEN SEIT DER LETZTEN DOKUMENTATION ....................................................... 42  **XML-CODE 45:** STATIONÄRE NOTFALLMÄßIGE BEHANDLUNG WEGEN DIABETES MELLITUS SEIT DER LETZTEN  DOKUMENTATION ................................................................................................................................................... 42  **XML-CODE 46:** CONTENT (SCHULUNG) ............................................................................................................................ 42  **XML-CODE 47:** EMPFOHLENE SCHULUNG(EN) WAHRGENOMMEN ................................................................................. 43  **XML-CODE 48:** CONTENT (BEHANDLUNGSPLANUNG) ..................................................................................................... 44
 
 |  |  |
 |---|---|
@@ -388,7 +130,7 @@ DOKUMENTATION ..................................................................
 
 # DOKUMENTENHISTORIE
 
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 5.07 | 04.05.2023 | KBV | Anpassung an die | Beschluss des G-BA | 32,  34,  35 |
 | 5.06 | 03.02.2023 |  | Korrektur des Wertebereichs |  | 37 |
@@ -403,7 +145,7 @@ aktualisierten Plausibilitäten der Anlage 8 (Abschnitt „Medikamente für den 
 
 ---
 
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 |  |  |  |  | Parameter „Geschlecht des  Wertebereich „Körpergewicht“ | 24 |
 
@@ -417,9 +159,7 @@ Patienten“ dreistellig
 
 # 1 EINLEITUNG
 
-Diese Schnittstellenbeschreibung umfasst die Datenstruktur der Dokumentationen
-
-Management Programms (DMP) Diabetes mellitus Typ 1.
+Diese Schnittstellenbeschreibung umfasst die Datenstruktur der Dokumentationen  Management Programms (DMP) Diabetes mellitus Typ 1.
 
 Diese Schnittstellenbeschreibung wird ausschließlich für die
 
@@ -427,7 +167,7 @@ In den weiteren Kapiteln dieses Dokuments werden die einzelnen Abschnitte der Do
 
 Diese Schnittstellenbeschreibung ist so angelegt, dass prinzipiell alle Ausfüllvarianten abbildbar sind. Dies  schließt auch fehlerhafte Varianten ein. Zur Plausibilisierung des Date eingesetzt werden. Nur formal und inhaltlich korrekte Daten dürfen übermittelt werden.
 
-Die Regeln zur Plausibilisierung sind in der jeweiligen Plausibilitätsrichtlinie hinterlegt  [EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend] und [EXT_ITA_VGEX_Plausi_eDMP_DM1_DM2
+Die Regeln zur Plausibilisierung sind in der jeweiligen Plausibilitätsrichtlinie hinterlegt  EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend] und [EXT_ITA_VGEX_Plausi_eDMP_DM1_DM2
 
 Herausgeber und Verantwortlicher für diese Merkblätter sind die Spitzenverbände der Krankenkassen.
 
@@ -447,36 +187,31 @@ des Disease
 
 # 2 DATEINAMEN
 
-Das Konzept zur Gestaltung der XML-Dateien für den Datentransfer ist in einem Extradokument  beschrieben [KBV_ITA_VGEX_XML-Schnittstellen].
+Das Konzept zur Gestaltung der XML-Dateien für den Datentransfer ist in einem Extradokument  beschrieben [KBV_ITA_VGEX_XML-Schnittstellen
 
-Für den Dateinamen einer einzelnen XML-Datei ist folgendes festgelegt: - Das Präfix setzt sich aus
+Für den Dateinamen einer einzelnen XML-Datei ist folgendes festgelegt:
 
-- 9 Stellen der (Neben-) Betriebsstättennummer bzw. dem 9-stelligen
-
-- Krankenhaus-Institutionskennzeichen (Absender der Dokumentationen) - der DMP-Fallnummer
-
+- Das Präfix setzt sich aus
+- 9 Stellen der (Neben-) Betriebsstättennummer bzw. dem 9-stelligen  Krankenhaus-Institutionskennzeichen (Absender der Dokumentationen)
+- der DMP-Fallnummer
 - und dem Datum (Kopfdaten)
 
 zusammen.
 
-- Die drei Bestandteile des Präfixes werden in o.g. Reihenfolge und durch Unterstriche getrennt notiert.
+- Die drei Bestandteile des Präfixes werden in o.g. Reihenfolge und durch Unterstriche getrennt notiert.  Allgemein hat das Präfix den folgenden Aufbau:
+- AAAAAAAAA_BBBBBBB_JJJJMMTT
 
-- Allgemein hat das Präfix den folgenden Aufbau: - AAAAAAAAA_BBBBBBB_JJJJMMTT
-
-(die 7 Stellen für die DMP-Fallnummer sind nicht fest vorgeschrieben, es können auch kürzere Nummern
-
-sein).
+(die 7 Stellen für die DMP-Fallnummer sind nicht fest vorgeschrieben, es können auch kürzere Nummern  sein).
 
 Es sind die folgenden Suffixkonventionen festgelegt:
 
 - Für die elektronische erstmalige Dokumentation: EE
-
 - Für die elektronische Verlaufsdokumentation: EV
-
 - Gefolgt von zwei Buchstaben für die Kennzeichnung des DMP Diabetes mellitus Typ 1: D1
 
-Beispiele: - 123456789_123_20070301.EED1
+Beispiele:
 
+- 123456789_123_20070301.EED1
 - 123456789_123_20070301.EVD1
 
 |  |  |
@@ -487,9 +222,7 @@ Beispiele: - 123456789_123_20070301.EED1
 
 # 3 SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE
 
-Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, deren Symbole in den
-
-folgenden Kapiteln kurz erläutert werden sollen
+Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, deren Symbole in den  folgenden Kapiteln kurz erläutert werden sollen
 
 ## 3.1 KARDINALITÄT
 
@@ -550,17 +283,9 @@ Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. mbolisiert 
 
 Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen, die in diesem  Dokument beschrieben werden, ist es wichtig die Groß-/Kleinschreibung zu beachten.
 
-Grundsätzlich besteht ein Dokument immer aus dem Wurzelelement <levelone>, welches sich aus den
+Grundsätzlich besteht ein Dokument immer aus dem Wurzelelement <levelone>, welches sich aus den  beiden Kindelementen <clinical_document_header> und <body> zusammensetzt, wie es in Abbildung 1  dargestellt ist.
 
-beiden Kindelementen <clinical_document_header> und <body> zusammensetzt, wie es in Abbildung 1
-
-dargestellt ist.
-
-Alle Schemata, die in dieser Schnittstellenbeschreibung beschrieben werden, sind im Ordner „Schema“ in
-
-jedem Prüfmodul enthalten. Das Schema des Elements <levelone> Diabetes mellitus Typ 1 heißt
-
-DMP_DiabetesMellitus1.xsd.
+Alle Schemata, die in dieser Schnittstellenbeschreibung beschrieben werden, sind im Ordner „Schema“ in  jedem Prüfmodul enthalten. Das Schema des Elements <levelone> Diabetes mellitus Typ 1 heißt  DMP_DiabetesMellitus1.xsd.
 
 **Abbildung 1:** Grundstruktur levelone
 
@@ -571,9 +296,7 @@ Folgender Code ist für diese Elemente zwingend vorgeschrieben
 
 **XML-Code 1:** levelone
 
-Das Element <clinical_document_header> wird allgemein für alle DMP-Dokumentationen in dem  Dokument „Schnittstellenbeschreibung DMP Header“ [KBV_ITA_VGEX_Schnittstelle_eHeader] beschrieben.
-
-Spezielle Unterschiede werden in Kapitel 5 beschrieben.
+Das Element <clinical_document_header> wird allgemein für alle DMP-Dokumentationen in dem  Dokument „Schnittstellenbeschreibung DMP Header“ [KBV_ITA_VGEX_Schnittstelle_eHeader] beschrieben.  Spezielle Unterschiede werden in Kapitel 5 beschrieben.
 
 Die Struktur des Elements <body> wird in Kapitel 6 erläutert.
 
@@ -608,9 +331,7 @@ Der Coderahmen für das <body>-Element sieht wie folgt aus:
 
 Kodesystems AdministrativeGender
 
--Attributs ist gemäß Pflichtfunktion P2-52 des
-
-] durchzuführen.
+-Attributs ist gemäß Pflichtfunktion P2-52 des  ] durchzuführen.
 
 <body> selbst
 
@@ -622,17 +343,11 @@ Kodesystems AdministrativeGender
 
 ## 6.1 SEKTION (SECTION)
 
-Das <section>-Element setzt sich aus genau sechs <paragraph>-Elementen zusammen. Ein <paragraph>- Element beinhaltet die Kindelemente <caption> und <content>. Die Grundstruktur des <section>-Elements
-
-ist in Abbildung 3 dargestellt.
+Das <section>-Element setzt sich aus genau sechs <paragraph>-Elementen zusammen. Ein <paragraph>- Element beinhaltet die Kindelemente <caption> und <content>. Die Grundstruktur des <section>-Elements  ist in Abbildung 3 dargestellt.
 
 **Abbildung 3:** Grundstruktur section
 
-Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese und Befunddaten“, „Relevante
-
-Ereignisse“, „Medikamente“, „Schulung“ und „Behandlungsplanung“, die jeweils in einem <paragraph>-
-
-Element untergebracht sind.
+Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese und Befunddaten“, „Relevante  Ereignisse“, „Medikamente“, „Schulung“ und „Behandlungsplanung“, die jeweils in einem <paragraph>- Element untergebracht sind.
 
 |  |  |
 |---|---|
@@ -644,18 +359,12 @@ Element untergebracht sind.
 
 Das Element <caption> besteht nur aus dem erforderlichen Kindelement <caption_cd>. Im DN Elements <caption_cd> werden die jeweiligen Abschnittsüberschriften  und Befunddaten“, „Relevante Ereignisse“, „Medikamente“, „Schulu angegeben.
 
-Wenn in allen Abschnitten Daten enthalten sind, sieht der Coderahmen für das Element <section>
-
-aus (siehe XML-Code 3). Die Werte der einzelnen <caption_cd>-Elemente entsprechen dabei den  Abschnittsüberschrifte aus dem Datensatz.
+Wenn in allen Abschnitten Daten enthalten sind, sieht der Coderahmen für das Element <section>  aus (siehe XML-Code 3). Die Werte der einzelnen <caption_cd>-Elemente entsprechen dabei den  Abschnittsüberschrifte aus dem Datensatz.
 
 \| <section>**                                                                                 </paragraph>      <caption>**     </caption>**         </section> |
 \|---|
 
-Attribut des
-
-„Administrative Daten“, „Anamnese
-
-ng“ und „Behandlungsplanung“
+Attribut des  „Administrative Daten“, „Anamnese ng“ und „Behandlungsplanung“
 
 wie folgt
 
@@ -669,25 +378,9 @@ wie folgt
 
 ### 6.1.2 content
 
-Das Element <content> enthält das Kindelement <local_markup>, mit welchem eine sciphox-ssu verwendet  werden kann. Die eigentlichen Daten werden mit Hilfe der sciphox-ssu angegeben. Das Element
+Das Element <content> enthält das Kindelement <local_markup>, mit welchem eine sciphox-ssu verwendet  werden kann. Die eigentlichen Daten werden mit Hilfe der sciphox-ssu angegeben. Das Element  <local_markup> hat die erforderlichen Attribute *ignore* und *descriptor*. Das Attribut *ignore* hat den festen  Wert “all”. Um zu kennzeichnen, dass SCIPHOX-Elemente verwendet werden, ist für das *descriptor*-Attribut  der feste Wert „sciphox“ vorgeschrieben.
 
-<local_markup> hat die erforderlichen Attribute *ignore* und *descriptor*. Das Attribut *ignore* hat den festen
-
-Wert “all”. Um zu kennzeichnen, dass SCIPHOX-Elemente verwendet werden, ist für das *descriptor*-Attribut
-
-der feste Wert „sciphox“ vorgeschrieben.
-
-Für die Darstellung von Daten von Diabetes mellitus Typ 1 („erstmalige Dokumentation“ und
-
-Verlaufsdokumentation) in XML wird ausschließlich die Sciphox-SSU *observation* verwendet. Das Element
-
-<sciphox-ssu> hat drei Attribute, die mit den festen Werten vorbelegt sind: *type* =“observation“,
-
-*country*=“de“, *version*=“v1“. Damit wird gekennzeichnet, dass die Sciphox-SSU *observation* in Version v1
-
-verwendet wird. Der Coderahmen für das Element <content> mit Sciphox-SSU *observation* sieht demnach
-
-folgendermaßen aus:
+Für die Darstellung von Daten von Diabetes mellitus Typ 1 („erstmalige Dokumentation“ und  Verlaufsdokumentation) in XML wird ausschließlich die Sciphox-SSU *observation* verwendet. Das Element  <sciphox-ssu> hat drei Attribute, die mit den festen Werten vorbelegt sind: *type* =“observation“,  *country*=“de“, *version*=“v1“. Damit wird gekennzeichnet, dass die Sciphox-SSU *observation* in Version v1  verwendet wird. Der Coderahmen für das Element <content> mit Sciphox-SSU *observation* sieht demnach  folgendermaßen aus:
 
 \| <content>     <sciphox:sciphox-ssu type="observation" country="de" version="v1"> **     </content> |
 \|---|
@@ -704,9 +397,7 @@ folgendermaßen aus:
 
 ### 6.1.3 Sciphox-SSU observation
 
-Das Element <sciphox-ssu> (observation) enthält das Kindelement <sciphox:Beobachtungen>, das mehrere  Kindelemente <sciphox:Beobachtung> enthalten kann. Es muss mindestens ein Element
-
-<sciphox:Beobachtung> vorkommen. Das Element <sciphox: Beobachtung> setzt sich aus jeweils genau  einem Kindelement <sciphox:Parameter> und den optionalen Kindelementen <sciphox:Ergebniswert>,  <sciphox:Ergebnistext>, <sciphox:Beobachtungen> zusammen. Neben dem <sciphox:Parameter> Element  muss mindestens eins dieser optionalen Kindelemente angegeben werden. Um zu kennzeichnen, dass  keine Angaben zu einem bestimmten Parameter gemacht wurden, wird der komplette  <sciphox:Beobachtung>-Block mit dem jeweiligen Parameter weggelassen. Die Angabe einer  <sciphox:Beobachtung> mit nur einem Element <sciphox:Parameter> ist nicht zulässig.
+Das Element <sciphox-ssu> (observation) enthält das Kindelement <sciphox:Beobachtungen>, das mehrere  Kindelemente <sciphox:Beobachtung> enthalten kann. Es muss mindestens ein Element  <sciphox:Beobachtung> vorkommen. Das Element <sciphox: Beobachtung> setzt sich aus jeweils genau  einem Kindelement <sciphox:Parameter> und den optionalen Kindelementen <sciphox:Ergebniswert>,  <sciphox:Ergebnistext>, <sciphox:Beobachtungen> zusammen. Neben dem <sciphox:Parameter> Element  muss mindestens eins dieser optionalen Kindelemente angegeben werden. Um zu kennzeichnen, dass  keine Angaben zu einem bestimmten Parameter gemacht wurden, wird der komplette  <sciphox:Beobachtung>-Block mit dem jeweiligen Parameter weggelassen. Die Angabe einer  <sciphox:Beobachtung> mit nur einem Element <sciphox:Parameter> ist nicht zulässig.
 
 Der Aufbau dieser SSU ist nachfolgend beschrieben:
 
@@ -729,13 +420,9 @@ Der XML-Code zum Element <sciphox-ssu> sieht folgendermaßen aus:
 
 ### 6.1.3.1 Parameter
 
-Das Element <Parameter> enthält nur das *DN*-Attribut. Als Wert werden die Parameter aus dem Datensatz
+Das Element <Parameter> enthält nur das *DN*-Attribut. Als Wert werden die Parameter aus dem Datensatz  (z.B. „Körpergröße“), zu welchen eine Angabe gemacht werden muss, angegeben. Die einzelnen Angaben  werden im jeweiligen Element <Ergebnistext> und <Ergebniswert> untergebracht.
 
-(z.B. „Körpergröße“), zu welchen eine Angabe gemacht werden muss, angegeben. Die einzelnen Angaben  werden im jeweiligen Element <Ergebnistext> und <Ergebniswert> untergebracht.
-
-*Grundsätzlich wird der Text im Datensatz zu einem Parameter bzw. Wert in die XML-Schnittstelle 1:1 aus*
-
-*den Plausibilitäten übernommen, das heißt, dass gegebenenfalls alle Abkürzungen und Bindestriche in der*  *XML-Schnittstelle genauso angegeben werden.*
+*Grundsätzlich wird der Text im Datensatz zu einem Parameter bzw. Wert in die XML-Schnittstelle 1:1 aus*  *den Plausibilitäten übernommen, das heißt, dass gegebenenfalls alle Abkürzungen und Bindestriche in der*  *XML-Schnittstelle genauso angegeben werden.*
 
 Der XML-Code zum Element <Parameter> sieht folgendermaßen aus:
 
@@ -746,11 +433,7 @@ Der XML-Code zum Element <Parameter> sieht folgendermaßen aus:
 
 ### 6.1.3.2 Ergebnistext
 
-Das Element <Ergebnistext> enthält nur das *V-*Attribut. Einzelne Ausprägungen, die als Text im Datensatz
-
-hinterlegt sind (z.B. „Ja“ und „Nein“), werden in diesem Element, im *V-*Attribut, angegeben. Der XML-Code
-
-zum Element <Ergebnistext> sieht folgendermaßen aus:
+Das Element <Ergebnistext> enthält nur das *V-*Attribut. Einzelne Ausprägungen, die als Text im Datensatz  hinterlegt sind (z.B. „Ja“ und „Nein“), werden in diesem Element, im *V-*Attribut, angegeben. Der XML-Code  zum Element <Ergebnistext> sieht folgendermaßen aus:
 
 \| <sciphox:Beobachtung>**       </sciphox:Beobachtung>** |
 \|---|
@@ -759,13 +442,7 @@ zum Element <Ergebnistext> sieht folgendermaßen aus:
 
 ### 6.1.3.3 Ergebniswert
 
-Das Element <Ergebniswert> enthält nur das *V-* und *U*-Attribut. Einzelne Ausprägungen, die als Werte im
-
-Datensatz eingegeben werden (z.B. „1.80“), werden in diesem Element, im *V-*Attribut, angegeben. Als
-
-Dezimaltrennzeichen wird der Dezimalpunkt verwendet. Im U-Attribut (UNIT) wird die Einheit (z.B. m
-
-eingetragen. Der XML-Code zum Element <Ergebniswert> sieht folgendermaßen aus:
+Das Element <Ergebniswert> enthält nur das *V-* und *U*-Attribut. Einzelne Ausprägungen, die als Werte im  Datensatz eingegeben werden (z.B. „1.80“), werden in diesem Element, im *V-*Attribut, angegeben. Als  Dezimaltrennzeichen wird der Dezimalpunkt verwendet. Im U-Attribut (UNIT) wird die Einheit (z.B. m eingetragen. Der XML-Code zum Element <Ergebniswert> sieht folgendermaßen aus:
 
 \| <sciphox:Beobachtung>**       </sciphox:Beobachtung>** |
 \|---|
@@ -774,9 +451,7 @@ eingetragen. Der XML-Code zum Element <Ergebniswert> sieht folgendermaßen aus:
 
 ### 6.1.3.4 Beobachtungen
 
-In einigen Fällen ist es notwendig weitere Beobachtungen zu einem Parameter in einem
-
-Beobachtungsblock anzugeben. Das Element <Beobachtungen> enthält in diesen Fällen weitere  Kindelemente <Beobachtung>. Beide Elemente haben den gleichen Aufbau und Kindelemente, wie im  Kapitel 6.1.3 schon beschrieben wurde.
+In einigen Fällen ist es notwendig weitere Beobachtungen zu einem Parameter in einem  Beobachtungsblock anzugeben. Das Element <Beobachtungen> enthält in diesen Fällen weitere  Kindelemente <Beobachtung>. Beide Elemente haben den gleichen Aufbau und Kindelemente, wie im  Kapitel 6.1.3 schon beschrieben wurde.
 
 <sciphox:Parameter DN="..."/> <sciphox:Ergebnistext V="..."/> ... <sciphox:Ergebniswert V=". . ." U="..."/>
 
@@ -790,35 +465,25 @@ Beobachtungsblock anzugeben. Das Element <Beobachtungen> enthält in diesen Fäl
 
 Dieses Kapitel beschreibt den Abschnitt Administrative Daten
 
-Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
-
-6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element
-
-<sciphox:Beobachtungen> enthält genau ein Kindelement <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und
-
-mindestens ein Kindelement <sciphox:Ergebnistext
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau ein Kindelement <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  mindestens ein Kindelement <sciphox:Ergebnistext
 
 Der Coderahmen sieht wie folgt aus:
 
-\| <content>  **     <sciphox:Beobachtungen>**                 </content> |
+\| <content>   iptor="sciphox">**     <sciphox:Beobachtungen>**                 </content> |
 \|---|
 
 **XML-Code 9:** content (Administrative Daten)
 
 ### 6.1.4.1 Einschreibung wegen
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
-
-gemäß Tabelle 4. Wenn bei diesem Parameter mehrere Felder ausgewählt wurden, können mehrere
-
-Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 4. Wenn bei diesem Parameter mehrere Felder ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 \| <sciphox:Beobachtung>**     </sciphox:Beobachtung> |
 \|---|
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Diabetes mellitus Typ 1"/> <sciphox:Ergebnistext V="KHK"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Diabetes mellitus Typ 1"/>**XML-Code 10:** Einschreibung wegen
+<local_markup ignore="all" descr <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Diabetes mellitus Typ 1"/> <sciphox:Ergebnistext V="KHK"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Diabetes mellitus Typ 1"/>**XML-Code 10:** Einschreibung wegen
 
 |  |  |
 |---|---|
@@ -845,13 +510,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 Dieses Kapitel beschreibt den Abschnitt Anamnese- und Befunddaten
 
-Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
-
-6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element
-
-<sciphox:Beobachtungen> enthält minimal 9 bis maximal 17 Kindelemente <sciphox:Beobachtung>. Ein  Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter>
-
-und mindestens ein Kindelement <sciphox:Ergebnistext> bzw. <sciphox:Ergebniswert>.
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält minimal 9 bis maximal 17 Kindelemente <sciphox:Beobachtung>. Ein  Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter>  und mindestens ein Kindelement <sciphox:Ergebnistext> bzw. <sciphox:Ergebniswert>.
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
 
@@ -864,18 +523,16 @@ Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus
 
 ---
 
-\| <sciphox:Beobachtung>**     <sciphox:Ergebnistext V="Nicht untersucht"/>**             <sciphox:Beobachtung>**     <sciphox:Ergebnistext V="Unauffällig"/>**     <sciphox:Beobachtung>**     <sciphox:Ergebnistext V="Unauffällig"/>**     <sciphox:Beobachtung>**     <sciphox:Ergebnistext V="Hyperkeratose mit Einblutung"/>**     <sciphox:Beobachtung>**     <sciphox:Ergebnistext V="nein"/>**     <sciphox:Beobachtung>**     <sciphox:Ergebnistext V="ja"/>**     <sciphox:Beobachtung>**     <sciphox:Ergebnistext V="Unauffällig"/>**     <sciphox:Beobachtung>**     <sciphox:Ergebnistext V="Jährlich"/>**     <sciphox:Beobachtung>**  **   <sciphox:Ergebnistext V="Diabetische Nephropathie"/>**         </content> |
+\| <sciphox:Beobachtung>**     <sciphox:Ergebnistext V="Nicht untersucht"/>**             <sciphox:Beobachtung>**     <sciphox:Ergebnistext V="Unauffällig"/>**     <sciphox:Beobachtung>**     <sciphox:Ergebnistext V="Unauffällig"/>**     <sciphox:Beobachtung>**     <sciphox:Ergebnistext V="Hyperkeratose mit Einblutung"/>**     <sciphox:Beobachtung>**     <sciphox:Ergebnistext V="nein"/>**     <sciphox:Beobachtung>**     <sciphox:Ergebnistext V="ja"/>**     <sciphox:Beobachtung>**     <sciphox:Ergebnistext V="Unauffällig"/>**     <sciphox:Beobachtung>**     <sciphox:Ergebnistext V="Jährlich"/>**     <sciphox:Beobachtung>**   Spätfolgen"/>**   <sciphox:Ergebnistext V="Diabetische Nephropathie"/>**         </content> |
 \|---|
 
 **XML-Code 11:** content (Anamnese- und Befunddaten)
 
 ### 6.1.5.1 Körpergröße
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut die „Körpergröße“ und im
+Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut die „Körpergröße“ und im  *U* Attribut den fest vorgeschriebenen Wert „m“.
 
-*U* Attribut den fest vorgeschriebenen Wert „m“.
-
-<sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="KHK"/> </sciphox:Beobachtung> <sciphox:Parameter DN="HbA1c"/> <sciphox:Ergebniswert V="12.3" U="%"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Pathologische Albumin-Kreatinin-Ratio"/> </sciphox:Beobachtung> <sciphox:Parameter DN="eGFR"/> <sciphox:Ergebniswert V="67" U="ml/min/1,73m2KOF"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Pulsstatus"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Sensibilitätsprüfung"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Weiteres Risiko für Ulcus"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Ulkus"/> </sciphox:Beobachtung> <sciphox:Parameter DN="(Wund)Infektion"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Injektionsstellen (bei Insulintherapie)"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Intervall für künftige Fußinspektionen (bei Patientinnen und Patiente n ab dem vollendeten 18. Lebensjahr)"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Spätfolgen"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>Als Beispiel sei hier folgender Code angegeben:
+<sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="KHK"/> </sciphox:Beobachtung> <sciphox:Parameter DN="HbA1c"/> <sciphox:Ergebniswert V="12.3" U="%"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Pathologische Albumin-Kreatinin-Ratio"/> </sciphox:Beobachtung> <sciphox:Parameter DN="eGFR"/> <sciphox:Ergebniswert V="67" U="ml/min/1,73m2KOF"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Pulsstatus"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Sensibilitätsprüfung"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Weiteres Risiko für Ulcus"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Ulkus"/> </sciphox:Beobachtung> <sciphox:Parameter DN="(Wund)Infektion"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Injektionsstellen (bei Insulintherapie)"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Intervall für künftige Fußinspektionen (bei Patientinnen und Patiente n ab dem vollendeten 18. Lebensjahr)"/> </sciphox:Beobachtung> <sciphox:Parameter DN=" </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>Als Beispiel sei hier folgender Code angegeben:
 
 |  |  |
 |---|---|
@@ -890,9 +547,7 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut
 
 ### 6.1.5.2 Körpergewicht
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut das „Körpergewicht“ und
-
-im *U* Attribut den fest vorgeschriebenen Wert „kg“.
+Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut das „Körpergewicht“ und  im *U* Attribut den fest vorgeschriebenen Wert „kg“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -903,9 +558,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### 6.1.5.3 Raucher
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
-
-gemäß Tabelle 5.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 5
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -923,9 +576,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### 6.1.5.4 Blutdruck systolisch
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut den „systolischen Wert“
-
-und im *U* Attribut den fest vorgeschriebenen Wert „mmHg“.
+Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut den „systolischen Wert“  und im *U* Attribut den fest vorgeschriebenen Wert „mmHg“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -942,9 +593,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### 6.1.5.5 Blutdruck diastolisch
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut den „diastolischen Wert“
-
-und im *U* Attribut den fest vorgeschriebenen Wert „mmHg“.
+Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut den „diastolischen Wert“  und im *U* Attribut den fest vorgeschriebenen Wert „mmHg“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -955,9 +604,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### 6.1.5.6 Begleiterkrankungen
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
-
-gemäß Tabelle 6. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 6. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -981,9 +628,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### HbA1c
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut den „HbA1c -Wert und im
-
-<sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="110" U="mmHg"/> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="Arterielle Hypertonie"/> <sciphox:Ergebnistext V="KHK"/>*U*-Attribut die Feldbezeichnung gemäß Tabelle 7.
+<sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="110" U="mmHg"/> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="Arterielle Hypertonie"/> <sciphox:Ergebnistext V="KHK"/>Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut den „HbA1c -Wert und im  *U*-Attribut die Feldbezeichnung gemäß Tabelle 7
 
 |  |  |
 |---|---|
@@ -1005,11 +650,9 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 7:** Werte bei Ergebniswert (HbA1c)
 
-### Pathologische Albumin-Kreatinin-Ratio
+### Pathologische Albumin Kreatinin Ratio
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
-
-gemäß Tabelle 8.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 8
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1028,13 +671,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### eGFR
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut den „eGFR“ und im *U*
-
-Attribut den fest vorgeschriebenen Wert „ml/min/1,73m2KOF , wenn ein Wert gemessen wurde. Wenn
-
-kein Wert gemessen wurde, so wird anstelle von <sciphox:Ergebniswert> ein Element
-
-<sciphox:Ergebnistext> mit dem vorgeschriebenen V Attributwert „Nicht bestimmt“ verwendet.
+Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut den „eGFR“ und im *U* Attribut den fest vorgeschriebenen Wert „ml/min/1,73m2KOF , wenn ein Wert gemessen wurde. Wenn  kein Wert gemessen wurde, so wird anstelle von <sciphox:Ergebniswert> ein Element  <sciphox:Ergebnistext> mit dem vorgeschriebenen V Attributwert „Nicht bestimmt“ verwendet.
 
 <sciphox:Parameter DN="HbA1c"/> <sciphox:Ergebniswert V="10" U="mmol/mol"/> <sciphox:Parameter DN="Pathologische Albumin-Kreatinin-Ratio"/> <sciphox:Ergebnistext V="Nicht untersucht"/>Als Beispiel bei durchgeführter Messung sei hier folgender Code angegeben:
 
@@ -1044,7 +681,7 @@ kein Wert gemessen wurde, so wird anstelle von <sciphox:Ergebniswert> ein Elemen
 
 ---
 
-\| <sciphox:Beobachtung>      </sciphox:Beobachtung> |
+\| <sciphox:Beobachtung>      ml/min/1,73m2KOF"/>  </sciphox:Beobachtung> |
 \|---|
 
 **XML-Code 20**: eGFR
@@ -1058,9 +695,7 @@ Als Beispiel bei nicht durchgeführter Messung sei hier folgender Code angegeben
 
 ### Pulsstatus
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
-
-gemäß Tabelle 9.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 9
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1079,9 +714,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### Sensibilitätsprüfung
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
-
-gemäß Tabelle 10.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 10
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1090,7 +723,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 23:** Sensibilitätsprüfung
 
-<sciphox:Parameter DN="eGFR “/> <sciphox:Ergebniswert V="45 U="ml/min/1,73m2KOF"/> <sciphox:Parameter DN="eGFR"/> <sciphox:Ergebnistext V="Nicht bestimmt"/> <sciphox:Parameter DN="Pulsstatus"/> <sciphox:Ergebnistext V="Auffällig"/> <sciphox:Parameter DN="Sensibilitätsprüfung"/> <sciphox:Ergebnistext V="Auffällig"/>|  |  |
+<sciphox:Parameter DN="eGFR “/> <sciphox:Ergebniswert V="45 U=" <sciphox:Parameter DN="eGFR"/> <sciphox:Ergebnistext V="Nicht bestimmt"/> <sciphox:Parameter DN="Pulsstatus"/> <sciphox:Ergebnistext V="Auffällig"/> <sciphox:Parameter DN="Sensibilitätsprüfung"/> <sciphox:Ergebnistext V="Auffällig"/>|  |  |
 |---|---|
 
 
@@ -1106,9 +739,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### Weiteres Risiko für Ulcus
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
-
-gemäß Tabelle 11. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 11. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1139,7 +770,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### Ulkus
 
-Bei diesem Parameter enthält das Element gemäß Tabelle 12.
+Bei diesem Parameter enthält das Element gemäß Tabelle 12
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1161,7 +792,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### (Wund)Infektion
 
-Bei diesem Parameter enthält das Element gemäß Tabelle 13.
+Bei diesem Parameter enthält das Element gemäß Tabelle 13
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1180,7 +811,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### Injektionsstellen (bei Insulintherapie)
 
-Bei diesem Parameter enthält das Element gemäß Tabelle 14.
+Bei diesem Parameter enthält das Element gemäß Tabelle 14
 
 <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 
@@ -1209,16 +840,14 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### Intervall für künftige Fußinspektionen (bei Patientinnen und Patienten ab dem vollendeten 1 Lebensjahr)
 
-Bei diesem Parameter enthält das Element gemäß Tabelle 15.
+Bei diesem Parameter enthält das Element gemäß Tabelle 15
 
 Als Beispiel sei hier folgender Code angegeben:
 
 \| <sciphox:Beobachtung>**     </sciphox:Beobachtung> |
 \|---|
 
-**XML-Code 28:** Intervall für künftige Fußinspektio nen (bei Patientinnen und Patienten ab dem
-
-vollendeten 18. Lebensjahr)
+**XML-Code 28:** Intervall für künftige Fußinspektio nen (bei Patientinnen und Patienten ab dem  vollendeten 18. Lebensjahr)
 
 \| Wert bei Ergebnistext (V="...") |
 \|---|
@@ -1226,9 +855,7 @@ vollendeten 18. Lebensjahr)
 \| alle 6 Monate |
 \| alle 3 Monate oder häufiger |
 
-**Tabelle 15:** Werte bei Ergebnistext ( Intervall für künftige Fußinspektionen (bei Patientinnen und
-
-Patienten ab dem vollendeten 18. Lebensjahr) )
+**Tabelle 15:** Werte bei Ergebnistext ( Intervall für künftige Fußinspektion en (bei Patientinnen und  Patienten ab dem vollendeten 18. Lebensjahr) )
 
 ### Spätfolgen
 
@@ -1265,13 +892,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 Dieses Kapitel beschreibt den Abschnitt „Relevante Ereignisse“.
 
-Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
-
-6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element
-
-<sciphox:Beobachtungen> enthält genau ein Kindelement <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und
-
-mindestens ein Kindelement <sciphox:Ergebnistext>.
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau ein Kindelement <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  mindestens ein Kindelement <sciphox:Ergebnistext>.
 
 Der Coderahmen sieht wie folgt aus:
 
@@ -1282,9 +903,7 @@ Der Coderahmen sieht wie folgt aus:
 
 ### Relevante Ereignisse
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
-
-gemäß Tabelle 17. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 17. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 <sciphox:Parameter DN="Spätfolgen"/> <sciphox:Ergebnistext V="Diabetische Nephropathie"/> <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Relevante Ereignisse"/> <sciphox:Ergebnistext V="Erblindung"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>Als Beispiel sei hier folgender Code angegeben:
 
@@ -1314,13 +933,7 @@ gemäß Tabelle 17. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, 
 
 Dieses Kapitel beschreibt den Abschnitt „Medikamente“.
 
-Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
-
-6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element
-
-<sciphox:Beobachtungen> enthält genau fünf Kindelemente ein Kindelement <sciphox:Beobachtung>. Ein  Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter>
-
-und mindestens ein Kindelement <sciphox:Ergebnistext>.
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau fünf Kindelemente ein Kindelement <sciphox:Beobachtung>. Ein  Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter>  und mindestens ein Kindelement <sciphox:Ergebnistext>.
 
 <sciphox:Parameter DN="Relevante Ereignisse"/> <sciphox:Ergebnistext V="Nierenersatztherapie"/>Der Coderahmen sieht wie folgt aus:
 
@@ -1337,11 +950,7 @@ und mindestens ein Kindelement <sciphox:Ergebnistext>.
 
 ### Thrombozytenaggregationshemmer
 
-Bei diesem Parametern enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
-
-gemäß Tabelle 18. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere
-
-Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parametern enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 18. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1367,14 +976,14 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### Betablocker
 
-Bei diesem Parametern enthält das Element gemäß Tabelle 19. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parametern enthält das Element sciphox:Ergebnistext> im *V* Attribut die Feldbezeichnung  gemäß Tabelle 19. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 \| <sciphox:Beobachtung>**   <sciphox:Parameter DN="Betablocker"/>**   <sciphox:Ergebnistext V="Ja"/>  </sciphox:Beobachtung> |
 \|---|
 
-**XML-Code 34:** Betablocker
+**XML Code 34** Betablocker
 
 \| Wert bei Ergebnistext (V="...") |
 \|---|
@@ -1382,18 +991,18 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ja |
 \| Kontraindikation |
 
-**Tabelle 19:** Werte bei Ergebnistext (Betablocker)
+**Tabelle 19** Werte bei Ergebnistext (Betablocker
 
-### ACE-Hemmer
+### ACE Hemmer
 
-Bei diesem Parametern enthält das Element gemäß Tabelle 20. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parametern enthält das Element sciphox:Ergebnistext> im *V* Attribut die Feldbezeichnung  gemäß Tabelle 20. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 \| <sciphox:Beobachtung>**   <sciphox:Parameter DN="ACE-Hemmer"/>**   <sciphox:Ergebnistext V="Ja"/>  </sciphox:Beobachtung> |
 \|---|
 
-**XML-Code 35:** ACE-Hemmer
+**XML Code 35** ACE Hemmer
 
 \| Wert bei Ergebnistext (V="...") |
 \|---|
@@ -1402,11 +1011,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Kontraindikation |
 \| ARB |
 
-**Tabelle 20:** Werte bei Ergebnistext (ACE-Hemmer)
-
-<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
-
-<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
+**Tabelle 20** Werte bei Ergebnistext (ACE Hemmer
 
 |  |  |
 |---|---|
@@ -1414,18 +1019,16 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ---
 
-### HMG-CoA-Reduktase-Hemmer
+### HMG CoA Reduktase Hemmer
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
-
-gemäß Tabelle 21. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element sciphox:Ergebnistext> im *V* Attribut die Feldbezeichnung  gemäß Tabelle 21. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 \| <sciphox:Beobachtung>**   <sciphox:Parameter DN="HMG-CoA-Reduktase-Hemmer"/>**   <sciphox:Ergebnistext V="Ja"/>** </sciphox:Beobachtung> |
 \|---|
 
-**XML-Code 36:** HMG-CoA-Reduktase-Hemmer
+**XML Code 36** HMG CoA Reduktase Hemmer
 
 \| Wert bei Ergebnistext (V="...") |
 \|---|
@@ -1433,20 +1036,18 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ja |
 \| Kontraindikation |
 
-**Tabelle 21:** Werte bei Ergebnistext ( HMG-CoA-Reduktase-Hemmer)
+**Tabelle 21** Werte bei Ergebnistext ( HMG CoA Reduktase Hemmer
 
 ### Thiaziddiuretika, einschließlich Chlorthalidon
 
-Bei diesem Parametern enthält das Element gemäß Tabelle 22.
+Bei diesem Parametern enthält das Element sciphox:Ergebnistext> im *V* Attribut die Feldbezeichnung  gemäß Tabelle 22
 
 Als Beispiel sei hier folgender Code angegeben:
 
 \| <sciphox:Beobachtung>**   <sciphox:Parameter DN="Thiaziddiuretika, einschließlich Chlorthalidon"/>**   <sciphox:Ergebnistext V="Ja"/>** </sciphox:Beobachtung> |
 \|---|
 
-<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
-
-**XML-Code 37:** Thiaziddiuretika, einschließlich Chlorthalidon
+**XML Code 37** Thiaziddiuretika, einschließlich Chlorthalidon
 
 \| Wert bei Ergebnistext (V="...") |
 \|---|
@@ -1454,7 +1055,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ja |
 \| Kontraindikation |
 
-**Tabelle 22:** Werte bei Ergebnistext ( Thiaziddiuretika, einschließlich Chlorthalidon )
+**Tabelle 22** Werte bei Ergebnistext ( Thiaziddiuretika, einschließlich Chlorthalidon
 
 |  |  |
 |---|---|
@@ -1466,26 +1067,18 @@ Als Beispiel sei hier folgender Code angegeben:
 
 Dieses Kapitel beschreibt den Abschnitt „Schulung“
 
-Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
-
-6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element
-
-<sciphox:Beobachtungen> enthält genau zwei Kindelemente <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und
-
-mindestens ein Kindelement <sciphox:Ergebnistext>.
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau zwei Kindelemente <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  mindestens ein Kindelement <sciphox:Ergebnistext>.
 
 Der Coderahmen sieht wie folgt aus:
 
 \| <content>**       <sciphox:Beobachtungen>**             <sciphox:Parameter DN="Schulung empfohlen (bei aktueller Dokumentation)"/>**                 <sciphox:Parameter DN="Schulung schon vor Einschreibung ins DMP bereits wahrgenommen"/>**           </local_markup>** </content> |
 \|---|
 
-**XML-Code 38:** content (Schulung)
+**XML-Code 38:** content (Schulung
 
 ### Schulung empfohlen (bei aktueller Dokumentation)
 
-Bei diesem Parametern enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
-
-gemäß Tabelle 23. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parametern enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 23. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1500,7 +1093,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Diabetes-Schulung |
 \| Hypertonie-Schulung |
 
-**Tabelle 23:** Werte bei Ergebnistext (Schulung empfohlen (bei aktueller Dokumentation) )
+**Tabelle 23:** Werte bei Ergebnistext (Schulung empfohlen (bei aktueller Dokumentation)
 
 <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Ergebnistext V="Diabetes-Schulung"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Ergebnistext V="Hypertonie-Schulung"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V="Diabetes-Schulung"/>|  |  |
 |---|---|
@@ -1510,11 +1103,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### Schulung schon vor Einschreibung ins DMP bereits wahrgenommen
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im V-Attribut die Feldbezeichnung
-
-gemäß Tabelle 20. Mehrfachnennungen in diesem Parameter sind möglich. Wenn bei diesem Parameter
-
-mehrere Werte ausgewählt wurden, können mehrere Elemente  entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im V-Attribut die Feldbezeichnung  gemäß Tabelle 20. Mehrfachnennungen in diesem Parameter sind möglich. Wenn bei diesem Parameter  mehrere Werte ausgewählt wurden, können mehrere Elemente <sciphox:Ergebnistext> mit  entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1529,21 +1118,15 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Diabetes-Schulung |
 \| Hypertonie-Schulung |
 
-**Tabelle 24:** Werte bei Ergebnistext (Schulung schon vor Einschreibung ins DMP bereits
-
-wahrgenommen)
+**Tabelle 24:** Werte bei Ergebnistext (Schulung schon vor Einschreibung ins DMP bereits  wahrgenommen
 
 ### 6.1.9 Abschnitt „Behandlungsplanung“
 
 Dieses Kapitel beschreibt den Abschnitt „Behandlungsplanung“
 
-Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält minimal vier bis maximal fünf Kindelemente <sciphox:Beobachtung>. Ein  Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter>  und mindestens ein Kindelement <sciphox:Ergebnistext>.
 
-6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement < <sciphox:Beobachtungen> enthält minimal vier bis maximal fünf Kindelemente <sciphox:Beobachtung>. Ein  Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter>  und mindestens ein Kindelement <sciphox:Ergebnistext>.
-
-<sciphox:Ergebnistext> mit
-
-<sciphox:Parameter DN="Schulung schon vor Einschreibung ins DMP bereits wahrgenommen <sciphox:Ergebnistext V="Hypertonie-Schulung"/> "/>sciphox:Beobachtungen>. Das Element
+<sciphox:Parameter DN="Schulung schon vor Einschreibung ins DMP bereits wahrgenommen "/> <sciphox:Ergebnistext V="Hypertonie-Schulung"/>
 
 |  |  |
 |---|---|
@@ -1560,9 +1143,7 @@ Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus
 
 ### 6.1.9.1 Vom Patienten gewünschte Informationsangebote der Krankenkasse
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
-
-gemäß Tabelle 25. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 25. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1577,9 +1158,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ernährungsberatung |
 \| Körperliches Training |
 
-**Tabelle 25:** Werte bei Ergebnistext (Vom Patienten gewünschte Informationsangebote der
-
-Krankenkasse)
+**Tabelle 25:** Werte bei Ergebnistext (Vom Patienten gewünschte Informationsangebote der  Krankenkasse)
 
 <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="HbA1c-Zielwert"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifizierten Einrichtung"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Diabetesbezogene stationäre Einweisung"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote <sciphox:Ergebnistext V="Körperliches Training “/> der Krankenkasse "/>|  |  |
 |---|---|
@@ -1589,7 +1168,7 @@ Krankenkasse)
 
 ### 6.1.9.2 Dokumentationsintervall
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 26.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 26
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1607,7 +1186,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### 6.1.9.3 HbA1c-Zielwert
 
-Bei diesem Parameter enthält das Element < gemäß Tabelle 27.
+Bei diesem Parameter enthält das Element < gemäß Tabelle 27
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1644,9 +1223,7 @@ sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 \| <sciphox:Beobachtung>        </sciphox:Beobachtung> |
 \|---|
 
-**XML-Code 45:** Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifizierten
-
-Einrichtung
+**XML-Code 45:** Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifizierten  Einrichtung
 
 \| Wert bei Ergebnistext (V="...") |
 \|---|
@@ -1654,15 +1231,11 @@ Einrichtung
 \| Nein |
 \| Veranlasst |
 
-**Tabelle 28:** Werte bei Ergebnistext (Behandlung/Mitbehandlung in einer für das Diabetische
-
-Fußsyndrom qualifizierten Einrichtung
+**Tabelle 28:** Werte bei Ergebnistext (Behandlung/Mitbehandlung in einer für das Diabetische  Fußsyndrom qualifizierten Einrichtung
 
 ### Diabetesbezogene stationäre Einweisung
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
-
-gemäß Tabelle 29. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 29. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1689,19 +1262,17 @@ Als Beispiel sei hier folgender Code angegeben:
 
 # 7 BODY DER VERLAUFSDOKUMENTATION
 
-Der body der Verlaufsdokumentation enthält die gleichen Abschnitte un „erstmalige Dokumentation“ sowie zusätzliche Parameter, die nur für die Verlaufsdokumentationen gelten. In diesem Kapitel werden nur die speziellen Parameter für die Verlaufsdokumentation erläutert.
+Der body der Verlaufsdokumentation enthält die gleichen Abschnitte und fast alle Parameter wie die  „erstmalige Dokumentation“ sowie zusätzliche Parameter, die nur für die Verlaufsdokumentationen gelten.  In diesem Kapitel werden nur die speziellen Parameter für die Verlaufsdokumentation erläutert.
 
 ## 7.1 SEKTION (SECTION)
 
-Das <section>-Element hat die gleiche Struktur wie in der „erstmaligen Dokumentation“, siehe Kapitel
+Das <section>-Element hat die gleiche Struktur wie in der „erstmaligen Dokumentation“, siehe Kapitel 6.1
 
 ### 7.1.1 Abschnitt „Relevante Ereignisse“
 
 Dieses Kapitel beschreibt den Abschnitt „Relevante Ereignisse“.
 
-Im Element <content> wird die Sciphox-SSU  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement < <sciphox:Beobachtungen> enthält genau drei Kindelemente <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und
-
-mindestens ein Kindelement <sciphox:Ergebnistext> oder <sciphox:Ergebniswert>.
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau drei Kindelemente <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  mindestens ein Kindelement <sciphox:Ergebnistext> oder <sciphox:Ergebniswert>.
 
 Der Coderahmen sieht wie folgt aus:
 
@@ -1712,19 +1283,11 @@ Der Coderahmen sieht wie folgt aus:
 
 ### Relevante Ereignisse
 
-*observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  sciphox:Beobachtungen>. Das Element
-
-d fast alle Parameter wie die 6.1.
-
-Siehe Kapitel 6.1.6.1.
+Siehe Kapitel 6.1.6.1
 
 ### Schwere Hypoglykämien seit der letzten Dokumentation
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut die „Anzahl der schweren
-
-Hypoglykämien seit der letzten Dokumentation“ und im *U*-Attribut den fest vorgeschriebenen Wert
-
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Ergebnistext V="Erblindung"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Ergebniswert V="1" U </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Stationäre notfallmäßige Behandlung wegen Diabetes mellitus seit der letzten <sciphox:Ergebniswert V="1" U </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> Anzahl “/> Anzahl “/>„Anzahl“.
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Ergebnistext V="Erblindung"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Ergebniswert V="1" U Anzahl “/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Stationäre notfallmäßige Behandlung wegen Diabetes mellitus seit der letzten <sciphox:Ergebniswert V="1" U Anzahl “/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu>Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut die „Anzahl der schweren  Hypoglykämien seit der letzten Dokumentation“ und im *U*-Attribut den fest vorgeschriebenen Wert  „Anzahl“.
 
 |  |  |
 |---|---|
@@ -1741,32 +1304,20 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### Stationäre notfallmäßige Behandlung wegen Diabetes mellitus seit der letzten Dokumentation
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V*-Attribut die Anzahl stationärer
-
-Aufenthalte stationärer notfallmäßiger Behandlungen wegen Diabetes mellitus seit der letzten
-
-Dokumentation“ und im *U*-Attribut den fest vorgeschriebenen Wert „Anzahl
+Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V*-Attribut die Anzahl stationärer  Aufenthalte stationärer notfallmäßiger Behandlungen wegen Diabetes mellitus seit der letzten  Dokumentation“ und im *U*-Attribut den fest vorgeschriebenen Wert „Anzahl
 
 Als Beispiel sei hier folgender Code angegeben:
 
 \| <sciphox:Beobachtung>      </sciphox:Beobachtung> |
 \|---|
 
-**XML-Code 49:** Stationäre notfallmäßige Behandlung wegen Diabetes mellitus seit der letzten
-
-Dokumentation
+**XML-Code 49:** Stationäre notfallmäßige Behandlung wegen Diabetes mellitus seit der letzten  Dokumentation
 
 ### 7.1.2 Abschnitt „Schulung“
 
 Dieses Kapitel beschreibt den Abschnitt „Schulung“
 
-Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
-
-6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element
-
-<sciphox:Beobachtungen> enthält genau zwei Kindelemente <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und
-
-mindestens ein Kindelement <sciphox:Ergebnistext> oder <sciphox:Beobachtungen>.
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau zwei Kindelemente <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  mindestens ein Kindelement <sciphox:Ergebnistext> oder <sciphox:Beobachtungen>.
 
 Der Coderahmen sieht wie folgt aus:
 
@@ -1783,17 +1334,11 @@ Der Coderahmen sieht wie folgt aus:
 
 ### Schulung empfohlen (bei aktueller Dokumentation)
 
-Siehe Kapitel 6.1.8.1.
+Siehe Kapitel 6.1.8.1
 
 ### Empfohlene Schulung(en) wahrgenommen
 
-Bei diesem Parameter enthält das Element <sciphox:Beobachtungen> genau zwei Kindelemente
-
-<sciphox:Beobachtung>. Ein Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein  Kindelement <sciphox:Parameter> und genau ein Kindelement <sciphox:Ergebnistext>. Das Element
-
-<sciphox:Parameter> enthält im *DN*-Attribut die Feldbezeichnung gemäß Tabelle 30 und das Element
-
-<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung gemäß Tabelle 31.
+Bei diesem Parameter enthält das Element <sciphox:Beobachtungen> genau zwei Kindelemente  <sciphox:Beobachtung>. Ein Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein  Kindelement <sciphox:Parameter> und genau ein Kindelement <sciphox:Ergebnistext>. Das Element  <sciphox:Parameter> enthält im *DN*-Attribut die Feldbezeichnung gemäß Tabelle 30 und das Element  <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung gemäß Tabelle 31
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1828,13 +1373,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ---
 
-Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
-
-6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element
-
-<sciphox:Beobachtungen> enthält minimal fünf bis maximal sechs Kindelemente <sciphox:Beobachtung>.
-
-Ein Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement  <sciphox:Parameter> und mindestens ein Kindelement <sciphox:Ergebnistext>.
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält minimal fünf bis maximal sechs Kindelemente <sciphox:Beobachtung>.  Ein Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement  <sciphox:Parameter> und mindestens ein Kindelement <sciphox:Ergebnistext>.
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
 
@@ -1845,15 +1384,15 @@ Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus
 
 ### 7.1.3.1 Vom Patienten gewünschte Informationsangebote der Krankenkasse
 
-Siehe Kapitel 6.1.9.1.
+Siehe Kapitel 6.1.9.1
 
 ### 7.1.3.2 Dokumentationsintervall
 
-Siehe Kapitel 6.1.9.2.
+Siehe Kapitel 6.1.9.2
 
 ### 7.1.3.3 HbA1c-Zielwert
 
-Siehe Kapitel 6.1.9.3.
+Siehe Kapitel 6.1.9.3
 
 <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebo te der Krankenkasse"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="HbA1c-Zielwert"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Ophthalmologische Netzhautuntersuchung seit letzter Dokumentation "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifizierten Einrichtung"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Diabetesbezogene stationäre Einweisung"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>
 
@@ -1865,9 +1404,7 @@ Siehe Kapitel 6.1.9.3.
 
 ### Ophthalmologische Netzhautuntersuchung seit letzter Dokumentation
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im
-
-gemäß Tabelle 32. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 32. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1882,21 +1419,19 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Nicht durchgeführt |
 \| Veranlasst |
 
-**Tabelle 32:** Werte bei Ergebnistext ( Ophthalmologische Netzhautuntersuchung seit letzter
-
-Dokumentation)
+**Tabelle 32:** Werte bei Ergebnistext ( Ophthalmologische Netzhautuntersuchung seit letzter  Dokumentation)
 
 ### Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifizierten Einrichtung
 
-Siehe Kapitel 6.1.9.4.
+Siehe Kapitel 6.1.9.4
 
 ### Diabetesbezogene stationäre Einweisung
 
-Siehe Kapitel 6.1.9.5.
+Siehe Kapitel 6.1.9.5
 
-*V*-Attribut die Feldbezeichnung
+<sciphox:Parameter DN="Ophthalmologische Netzhautuntersuchung seit letzter Dokumentation "/> <sciphox:Ergebnistext V="Durchgeführt"/> <sciphox:Ergebnistext V="Veranlasst"/>
 
-<sciphox:Parameter DN="Ophthalmologische Netzhautuntersuchung seit letzter Dokumentation <sciphox:Ergebnistext V="Durchgeführt"/> <sciphox:Ergebnistext V="Veranlasst"/> "/> |  |  |
+|  |  |
 |---|---|
 
 
@@ -1954,9 +1489,7 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
-Kassenärztliche Bundesvereinigung
-
-Versorgung Dokumentationsdaten des indikationsübergreifenden allgemeine Datensatzes Dokumentationsdaten des strukturierten Behandlungsprogramms Diabetes mellitus Typ 1 und Typ 2 Volldatensatz / a-Datensatz Schnittstellenbeschreibung Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
+Versorgung Dokumentationsdaten des indikationsübergreifenden allgemeine Datensatzes Dokumentationsdaten des strukturierten Behandlungsprogramms Diabetes mellitus Typ 1 und Typ 2 Volldatensatz / a-Datensatz Schnittstellenbeschreibung Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
 
 |  |  |
 |---|---|

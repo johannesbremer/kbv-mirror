@@ -29,7 +29,7 @@
 
 ---
 
-| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitätsregeln** |
+| Lfd. | Parameter | Ausprägung | Plausibilitätsregeln |
 |---|---|---|---|
 |  | **Ist in der Anlage 2 in Feld 10 mindestens die Angabe „Asthma bronchiale“ erfolgt,** | | |
 |  | Anamnese- und Befunddaten |  | |
@@ -64,7 +64,7 @@ Nr.  sind die nachstehenden Felder der Anlage 10 entsprechend den Festlegungen d
 
 ---
 
-| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitätsregeln** |
+| Lfd. | Parameter | Ausprägung | Plausibilitätsregeln |
 |---|---|---|---|
 |  | Medikamente | | |
 |  | 4 | Inhalative Glukokortikosteroide | |
@@ -95,12 +95,11 @@ Nr.  sind die nachstehenden Felder der Anlage 10 entsprechend den Festlegungen d
 | Pflichtfeld; | Mindestens eine Angabe ist notwendig; | Mehrfachnennungen sind möglich | Bei Bedarf / Dauermedikation / Keine /  Mehrfachnennungen sind möglich |
 |  |  | - |  |
 
-Nr. 2-Sympathomimetika  2-Sympathomimetika   wenn „Keine“ und/oder „Kontraindikation“ angekreuzt ist, kann nicht „Bei Bedarf“ und/oder „Dauermedikation“ angekreuzt werden, „Bei Bedarf“ und „Dauermedikation“ können einzeln oder gemeinsam angekreuzt werden. angekreuzt werden wenn „Keine“ und/oder „Kontraindikation“ angekreuzt ist, kann nicht „Bei Bedarf“ und/oder „Dauermedikation“ angekreuzt werden, „Bei Bedarf“ und „Dauermedikation“ können einzeln oder gemeinsam angekreuzt werden. angekreuzt werden wenn „Keine“ und/oder „Kontraindikation“ angekreuzt ist, kann nicht „Bei Bedarf“ und/oder „Dauermedikation“ angekreuzt werden, „Bei Bedarf“ und „Dauermedikation“ können einzeln oder gemeinsam angekreuzt werden. angekreuzt werden wenn „Keine“ und/oder „Kontraindikation“ angekreuzt ist, -A-RL
-
+Nr. 2-Sympathomimetika  2-Sympathomimetika   wenn „Keine“ und/oder „Kontraindikation“ angekreuzt ist, kann nicht „Bei Bedarf“ und/oder „Dauermedikation“ angekreuzt werden, „Bei Bedarf“ und „Dauermedikation“ können einzeln oder gemeinsam angekreuzt werden. angekreuzt werden wenn „Keine“ und/oder „Kontraindikation“ angekreuzt ist, kann nicht „Bei Bedarf“ und/oder „Dauermedikation“ angekreuzt werden, „Bei Bedarf“ und „Dauermedikation“ können einzeln oder gemeinsam angekreuzt werden. angekreuzt werden wenn „Keine“ und/oder „Kontraindikation“ angekreuzt ist, kann nicht „Bei Bedarf“ und/oder „Dauermedikation“ angekreuzt werden, „Bei Bedarf“ und „Dauermedikation“ können einzeln oder gemeinsam angekreuzt werden. angekreuzt werden wenn „Keine“ und/oder „Kontraindikation“ angekreuzt ist,
 
 ---
 
-| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitätsregeln** |
+| Lfd. | Parameter | Ausprägung | Plausibilitätsregeln |
 |---|---|---|---|
 |  |  | | |
 | kann nicht „Bei Bedarf“ und/oder „Dauermedikation“ |  |  | |
@@ -135,7 +134,7 @@ Nr. Medikation  Andere   (bei aktueller Dokumentation)  Einschreibung in DMP ber
 
 ---
 
-| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitätsregeln** |
+| Lfd. | Parameter | Ausprägung | Plausibilitätsregeln |
 |---|---|---|---|
 | 11 | Schriftlicher | | |
 | Ja / Nein | Pflichtfeld; | genau eine Angabe ist zulässig; | |

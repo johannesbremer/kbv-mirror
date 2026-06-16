@@ -1,7 +1,6 @@
-# DIGITALISIERUNGSPROJEKTE – BEISPIEL
+# DIGITALISIERUNGSPROJEKTE – BEISPIEL  EHKP
 
-# EHKP 31. ANBIETERMEETING DER KBV
-
+31. ANBIETERMEETING DER KBV
 18. SEPTEMBER 2025
 
 ### LISA ESCHNER
@@ -16,8 +15,6 @@
 - **VERORDNUNG HÄUSLICHER KRANKENPFLEGE**
 
 # SOLL
-
-**- BEISPIEL EHKP**
 
 
 ---
@@ -41,8 +38,6 @@
 ## - TECHNISCHE ANLAGE
 
 ## - ZEITPLAN GEMATIK
-
-**- BEISPIEL EHKP**
 
 # - FRÜHERE DIGITALISIERUNGSPROJEKTE
 
@@ -69,8 +64,6 @@
 
 - **LESSONS LEARNED FRÜHERE DIGITALISIERUNGSPROJEKTE**
 
-**- BEISPIEL EHKP**
-
 
 ---
 
@@ -94,17 +87,11 @@
 
 - **DIGITALISIERUNGSPROJEKT EHKP**
 
-**- BEISPIEL EHKP**
-
-## › KBV: Vorbereitende Prozessanalyse
-
-## › Abstimmung mit GKV-SV, Pflegeverbände,
-
-## › Abstimmungsrunde gematik › Geeinte Darstellung Ist-Prozess
+## › Geeinte Darstellung Ist-Prozess
 
 ## › Einigung über digitalen Soll-Prozess
 
-## › Ergebnisse › Informationsmodell › Soll-Prozess › Datensätze
+## › Informationsmodell › Soll-Prozess › Datensätze
 
 
 ---
@@ -133,20 +120,27 @@
 
 - **DIGITALISIERUNGSPROJEKT EHKP**
 
-**- BEISPIEL EHKP**
-
 
 ---
 
-## Digitaler Soll-Prozess (vereinfacht)
+| Digitaler |  | Soll-Prozess | (vereinfacht) |
+|---|---|---|---|
+|  | **DIGITALISIERUNGSPROJEKTE -** | **BEISPIEL EHKP** |  |
+| 31. ANBIETERMEETING | DER KBV | AM 18. | SEPTEMBER 2025 |
 
 ## Nicht abgebildet
 
-## - Verfügbarkeitsanfrage bei  Pflegediensten
+## - Verfügbarkeitsanfrage bei
 
-## - Einlösen der Verordnung / Zuordnung  zum Pflegedienst
+## - Pflegediensten
 
-## - Rückgabe der Verordnung durch  Pflegedienst
+## - Einlösen der Verordnung / Zuordnung
+
+## - zum Pflegedienst
+
+## - Rückgabe der Verordnung durch
+
+## - Pflegedienst
 
 ## - Sonderfall Kostenerstattungsprinzip
 
@@ -160,17 +154,17 @@
 
 ## - Einreichen bei Kostenträger
 
-- **DIGITALISIERUNGSPROJEKT EHKP**
+Digitaler Soll- Prozess (vereinfacht)- **DIGITALISIERUNGSPROJEKT EHKP**
 
 
 ---
 
-| **Statusmodell** |  | **(vorläufig)** |
+| Statusmodell |  | (vorläufig) |
 |---|---|---|
-| **DIGITALISIERUNGSPROJEKTE-** | **BEISPIEL** | **EHKP** |
+| **DIGITALISIERUNGSPROJEKTE-** |  | **BEISPIEL EHKP** |
 | 31. ANBIETERMEETING | DER KBV AM | 18. SEPTEMBER 2025 |
 
-Statusmodell (vorläufig) - BEISPIEL EHKP- **DIGITALISIERUNGSPROJEKT EHKP**
+Statusmodell (vorläufig)- **DIGITALISIERUNGSPROJEKT EHKP**
 
 
 ---
@@ -183,15 +177,15 @@ Statusmodell (vorläufig) - BEISPIEL EHKP- **DIGITALISIERUNGSPROJEKT EHKP**
 
 ## - Korrekturanfrage
 
-## - Korrektur Verordnung
+## - Korrektur -Verordnung
 
-## - Blanko Verordnung der Pflege
+## - Blanko -Verordnung der Pflege
 
 ## - Entscheidungsdatensatz des Kostenträgers
 
-## - Datensatz des Pflegedienstes zur Leistungserbringung - **DATENSÄTZE**
+## - Datensatz des Pflegedienstes zur Leistungserbringung
 
-**- BEISPIEL EHKP**
+- **DATENSÄTZE**
 
 
 ---
@@ -209,16 +203,17 @@ Statusmodell (vorläufig) - BEISPIEL EHKP- **DIGITALISIERUNGSPROJEKT EHKP**
 ## - Leistungen der häuslichen Krankenpflege
 
 - Informationen je Leistung gemäß HKP-Richtlinie
-
 - Angabe von Häufigkeit und ggf. Verordnungsdauer, oder Angabe „Blankoverordnung“
 
-## - Ärztliche Informationen für die Pflege – noch in Abstimmung
+## - Ärztliche Informationen für die Pflege
 
-## - Blanko Verordnung des Pflegedienstes
+– noch in Abstimmung
 
-## - Angaben des Pflegedienstes zu Dauer und Häufigkeit - **DATENSÄTZE**
+## - Blanko -Verordnung des Pflegedienstes
 
-**- BEISPIEL EHKP**
+## - Angaben des Pflegedienstes zu Dauer und Häufigkeit
+
+- **DATENSÄTZE**
 
 
 ---
@@ -229,18 +224,18 @@ Statusmodell (vorläufig) - BEISPIEL EHKP- **DIGITALISIERUNGSPROJEKT EHKP**
 
 ## - Abstimmung der Anforderungen mit Prozessbeteiligten
 
-## - Veröffentlichung im Einvernehmen mit GKV-SV
+## - Veröffentlichung im Einvernehmen mit GKV -SV
 
-## - Kommentierung geplant - **WEITERES VORGEHEN**
+## - Kommentierung geplant
 
-**- BEISPIEL EHKP**
+- **WEITERES VORGEHEN**
 
 
 ---
 
-## Zeitplan gematik - **WEITERES VORGEHEN**
+## Zeitplan gematik
 
-**- BEISPIEL EHKP**
+- **WEITERES VORGEHEN**
 
 
 ---

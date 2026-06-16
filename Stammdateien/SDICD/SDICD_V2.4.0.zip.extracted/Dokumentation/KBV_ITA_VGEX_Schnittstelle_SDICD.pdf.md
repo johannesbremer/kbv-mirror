@@ -11,7 +11,8 @@
 
 ## [KBV_ITA_VGEX_SCHNITTSTELLE_]SDICD
 
-BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
+BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
+
 
 ---
 
@@ -25,21 +26,19 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **8**
 
-Zeichensatz 8
+Zeichensatz 8 Namenspace
 
-Namenspace 8
+8 Root-Schema
 
-Root-Schema 8
+8 Dateinamen
 
-Dateinamen 8
+8 Semantik der verwendeten Diagramm-Symbole 10 Kardinalität
 
-Semantik der verwendeten Diagramm-Symbole 10
+10 Strukturelemente
 
-Kardinalität 10
+10 Sonstige Symbole
 
-Strukturelemente 10
-
-Sonstige Symbole 11
+11
 
 **4** **EHD-ELEMENT (ROOT-ELEMENT)**
 
@@ -53,81 +52,76 @@ Sonstige Symbole 11
 
 **13**
 
-icd_stammdaten 13
+icd_stammdaten 13 kapitel_liste
 
-kapitel_liste 13
+13 Kapitel
 
-Kapitel 14
+14 nummer
 
-nummer 15
+15 von_icd_code
 
-von_icd_code 15
+15 bis_icd_code
 
-bis_icd_code 16
+16 bezeichnung
 
-bezeichnung 16
+16 gruppen_liste
 
-gruppen_liste 16
+16 gruppe
 
-gruppe 17
+17 von_icd_code
 
-von_icd_code 17
+17 bis_icd_code
 
-bis_icd_code 17
+17 bezeichnung
 
-bezeichnung 17
+17 diagnosen_liste
 
-diagnosen_liste 18
+18 diagnosen
 
-diagnosen 18
+18 diagnosethesaurus_liste
 
-diagnosethesaurus_liste 21
+21 diagnosethesaurus
 
-diagnosethesaurus 22
+22 arztgruppe_list
 
-arztgruppe_list 22
+22 arztgruppe
 
-arztgruppe 23
+23 verschluesselungsanleitung_liste
 
-verschluesselungsanleitung_liste 24
+24 verschluesselungsanleitung_ref 24 icd_code
 
-verschluesselungsanleitung_ref 24
+25 bezeichnung
 
-icd_code 25
+25 abrechenbar
 
-bezeichnung 25
+26 notationskennzeichen
 
-abrechenbar 26
+26 geschlechtsbezug
 
-notationskennzeichen 26
+27 geschlechtsbezug_fehlerart
 
-geschlechtsbezug 27
+28 untere_altergrenze
 
-geschlechtsbezug_fehlerart 28
+28 obere_altersgrenze
 
-untere_altergrenze 28
+29 altersbezug_fehlerart
 
-obere_altersgrenze 29
-
-altersbezug_fehlerart 30
-
-krankheit_in_mitteleuropa_sehr_selten 31
+30 krankheit_in_mitteleuropa_sehr_selten 31
 
 
 ---
 
-schlüsselnummer_mit_inhalt_belegt 31
+schlüsselnummer_mit_inhalt_belegt
 
-infektionsschutzgesetz_meldepflicht 32
+31 infektionsschutzgesetz_meldepflicht
 
-infektionsschutzgesetz_abrechnungsbesonderheiten 32
+32 infektionsschutzgesetz_abrechnungsbesonderheiten 32 keine_dauerdiagnose
 
-keine_dauerdiagnose 33
+33
 
 **7** **REFERENZIERTE DOKUMENTE**
 
 **34**
-
 
 ---
 
@@ -218,15 +212,11 @@ TABELLE 3: BESCHREIBUNG DER STRUKTURELEMENT-SYMBOLE ............................
 
 TABELLE 4: BESCHREIBUNG SONSTIGER SYMBOLE .......................................................................................................... 11
 
-DAS ELEMENT <ARZTGRUPPE> ENTHÄLT IM V-ATTRIBUT DIE KENNZEICH NICHT FÜR JEDEN ARZTGRUPPENCODE EIN ARZTGRUPPENTHESAURUS VORHANDEN.
-
-SOMIT EINER AUSWAHL DER SCHLÜSSELTABELLE S_EBM_ARZTGRUPPE (O
+DAS ELEMENT <ARZTGRUPPE> ENTHÄLT IM V-ATTRIBUT DIE KENNZEICH NICHT FÜR JEDEN ARZTGRUPPENCODE EIN ARZTGRUPPENTHESAURUS VORHANDEN.  SOMIT EINER AUSWAHL DER SCHLÜSSELTABELLE S_EBM_ARZTGRUPPE (O
 
 5. DAS ELEMENT IST NICHT OPTIONAL. ................................................................................................................... 23
 
-NUNG FÜR DIE EBM-ARZTGRUPPE. ES IST  DIE WERTE ENTSPRECHEN
-
-ID: 1.2.276.0.76.5.115), VGL. TABELLE
+NUNG FÜR DIE EBM-ARZTGRUPPE. ES IST  DIE WERTE ENTSPRECHEN  ID: 1.2.276.0.76.5.115), VGL. TABELLE
 
 TABELLE 6: AUSWAHL DER MÖGLICHEN AUSPRÄGUNGEN DER ATTRIBUTE DES ELEMENTS <ARZTGRUPPE> ................ 24
 
@@ -321,22 +311,22 @@ FORMEL 28: XML-CODE: INFEKTIONSSCHUTZGESETZ_ABRECHNUNGSBESONDERHEIT ............
 
 FORMEL 29: XML-CODE: KEINE_DAUERDIAGNOSE .......................................................................................................... 33
 
-
 ---
 
 1 DOKUMENTENHISTORIE
 
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 2.4.0 | 15.11.2021 | KBV | Ergänzung der Arztgruppe |  | **23** |
 | 2.4.0 | 14.04.2021 | KBV | Komplett Überarbeitung    Aufnahme der neuen Elemente:   <keine_dauerdiagnose>  <verschluesselungsanleitung_liste> <verschluesselungsanleitung_ref>   Die nicht verwendeten Elemente | Neues CD und Anpassungen | **Alle **    **19, 20,  24, 25,  33, 33** |
 | 2.3.0 | 26.07.2016 | KBV | Korrektur der Abbildung 11 Korrektur Kapitel 5.1 und 5.15 | Entfernung der optionalen  Einführung einer angleichen- | **18  13, 20** |
 
-Bereitschaftsdienst <kodierrichtlinien_liste> und <akr_ref> wurden aus der Dokumentation und dem Schema gestrichen. <diagnosethesaurus_liste> unterhalb des <icd- stammdaten> Elements  den Nummerierung der Paket- , Dokument- und Schemaversionen
+Bereitschaftsdienst <kodierrichtlinien_liste> und <akr_ref> wurden aus der Dokumentation und dem Schema gestrichen. <diagnosethesaurus_liste> unterhalb des <icd- stammdaten> Elements  den Nummerierung der Paket- , Dokument- und Schemaversionen #
+
 
 ---
 
-| **BESCHREIBUNG DER BESTANDTEILE DES DATEINAMENS** | |
+| BESCHREIBUNG DER BESTANDTEILE DES DATEINAMENS | |
 |---|---|
 | **Bestandteile des** | **Beschreibung** |
 | - | Trennungszeichen zwischen den Namenselementen |
@@ -380,7 +370,7 @@ Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, dere
 
 Es existieren verschiedene Kardinalitäten:
 
-| **BESCHREIBUNG DER KARDINALITÄTEN** | | |
+| BESCHREIBUNG DER KARDINALITÄTEN | | |
 |---|---|---|
 | **Kardinalität** | **Symbol** | **Beschreibung** |
 | 0..1 |  | Optionales Element  Element wird als Rechteck mit gestrichelter Linie |
@@ -393,7 +383,7 @@ Tabelle 2: Beschreibung der Kardinalitäten
 
 Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente miteinander verknüpft.  In diesem Dokument werden zwei Strukturelemente verwendet: ***<xs:choice>*** und ***<xs:sequence>***
 
-| **BESCHREIBUNG DER STRUKTURELEMENTE-SYMBOLE** | |
+| BESCHREIBUNG DER STRUKTURELEMENTE-SYMBOLE | |
 |---|---|
 | **Symbol** | **Beschreibung** |
 |  | Das Strukturelement |
@@ -401,7 +391,8 @@ Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mit
 
 Tabelle 3: Beschreibung der Strukturelement-Symbole
 
-dargestellt. Es kann kein oder einmal vorkommen. genau einmal vorkommen. durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. <xs:choice> zeigt an, dass zwischen verschiedenen Kindelementen genau eins ausgewählt werden muss. <xs:sequence>  beschreibt, dass die Kindelemente in festgelegter Reihenfolge aufgeführt werden müssen.
+dargestellt. Es kann kein oder einmal vorkommen. genau einmal vorkommen. durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. <xs:choice> zeigt an, dass zwischen verschiedenen Kindelementen genau eins ausgewählt werden muss. <xs:sequence>  beschreibt, dass die Kindelemente in festgelegter Reihenfolge aufgeführt werden müssen. 
+
 
 ---
 
@@ -409,7 +400,7 @@ dargestellt. Es kann kein oder einmal vorkommen. genau einmal vorkommen. durch d
 
 Es werden außerdem folgende Diagramm-Symbole verwendet:
 
-| **BESCHREIBUNG SONSTIGER SYMBOLE** | |
+| BESCHREIBUNG SONSTIGER SYMBOLE | |
 |---|---|
 | **Symbol** | **Beschreibung** |
 |  | Element mit Kindelementen  Ein Element mit einem oder mehreren Kindelementen wird durch ein |
@@ -419,7 +410,8 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 Tabelle 4: Beschreibung sonstiger Symbole
 
-Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches mehrere Elemente zusammenfasst.
+Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches mehrere Elemente zusammenfasst. 
+
 
 ---
 
@@ -454,7 +446,8 @@ Hier liegen die eigentlichen Inhalte der Datenlieferung.
 
 Der Namensraum für die ehd-„Schnittstelle ist zwingend vorgeschrieben: ***urn:ehd/001***
 
-xmlns="urn:ehd/sdda/001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ehd_version="...">
+xmlns="urn:ehd/sdda/001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ehd_version="..."> 
+
 
 ---
 
@@ -464,9 +457,7 @@ Für die Beschreibung der Inhalte und deren Ausprägungen der header -Elemente w
 
 # 6 BODY (INHALTSDATEN)
 
-Das ***<body*** Element beinhaltet alle ICD Stammdaten in einer strukturierten Hierarchie von Kindelementen.
-
-Die Hierarchieebenen der ICD Kodierungen gliedern sich in Kapitel, Gruppe, Diagnose und
+Das ***<body*** Element beinhaltet alle ICD Stammdaten in einer strukturierten Hierarchie von Kindelementen.  Die Hierarchieebenen der ICD Kodierungen gliedern sich in Kapitel, Gruppe, Diagnose und
 
 Diagnosethesaurus.
 
@@ -490,7 +481,6 @@ Formel 2: XML-Code: icd_stammdaten
 Das Element <kapitel_liste> umschließt eine Liste von <kapitel> Elementen.
 
 Abbildung 3: kapitel_liste
-
 
 ---
 
@@ -542,7 +532,6 @@ Der XML-Code für ein <von_icd_code> Element hat folgenden Aufbau:
 \|---|
 
 Formel 6: XML-Code: von_icd_code
-
 
 ---
 
@@ -604,7 +593,6 @@ vgl. Abschnitt 6.6
 
 vgl. Abschnitt 6.21
 
-
 ---
 
 ## DIAGNOSEN_LISTE
@@ -629,12 +617,12 @@ Abbildung 11 zeigt den prinzipiellen Aufbau des Elements <diagnose>. Weiterhin b
 
 ---
 
-Abbildung 11: diagnose prinzipieller Aufbau -10-GM-
+Abbildung 11: diagnose prinzipieller Aufbau
 
 
 ---
 
-\| **<diagnose>  <icd_code V="Z00.-"/>  <bezeichnung V="..."/>  <abrechenbar V="..."/>** |
+\| <diagnose>  <icd_code V="Z00.-"/>  <bezeichnung V="..."/>  <abrechenbar V="..."/> |
 \|---|
 \| Abbildung 12: diagnose optionale Elemente          Der XML-Code für ein <diagnose> Element hat folgenden Aufbau (im Beispiel wird die Kodierung ‚Z00,    **<diagnose>  <icd_code V="Z00.-"/>  <bezeichnung V="..."/>  <abrechenbar V="..."/>** |
 
@@ -642,13 +630,13 @@ Abbildung 11: diagnose prinzipieller Aufbau -10-GM-
 
 ---
 
-\| **<infektionsschutzgesetz_meldepflicht V="..."/>  <infektionsschutzgesetz_abrechnungsbesonderheit V="..."/>   <keine_dauerdiagnose V="..."" DN="..."/>  <diagnosen_liste>  <diagnose>** |
+\| <infektionsschutzgesetz_meldepflicht V="..."/>  <infektionsschutzgesetz_abrechnungsbesonderheit V="..."/>   <keine_dauerdiagnose V="..."" DN="..."/>  <diagnosen_liste>  <diagnose> |
 \|---|
 \| **<notationskennzeichen V="..."/>  <geschlechtsbezug V="..." DN="..."/>  <geschlechtsbezug_fehlerart V="..." DN="..."/>  <untere_altersgrenze V="..."/>  <obere_altersgrenze V="..."/>  <altersbezug_fehlerart V="..."/>  <krankheit_in_mitteleuropa_sehr_selten V="..."/>  <schlüsselnummer_mit_inhalt_belegt V="..."/>  <infektionsschutzgesetz_meldepflicht V="..."/>  <infektionsschutzgesetz_abrechnungsbesonderheit V="..."/>   <keine_dauerdiagnose V="..."" DN="..."/>  <diagnosen_liste>  <diagnose>  <icd_code V="Z00.0"/>  ...  </diagnose>  <diagnose>  <icd_code V="Z00.1"/>  ...  <diagnose>  ...  </diagnosen_liste>  <diagnosethesaurus_liste>  ...  </>  <verschluesselungsanleitung_liste>  ...  </>  </diagnose>**** |
 
 Formel 11: XML-Code: diagnose
 
-\| ****<diagnosethesaurus_liste>  <diagnosethesaurus V="...">  <arztgruppen_liste>  <arztgruppe V="..." DN="..."/>** |
+\| ** <diagnosethesaurus_liste>  <diagnosethesaurus V="...">  <arztgruppen_liste>  <arztgruppe V="..." DN="..."/> |
 \|---|
 \| **<notationskennzeichen V="..."/>  <geschlechtsbezug V="..." DN="..."/>  <geschlechtsbezug_fehlerart V="..." DN="..."/>  <untere_altersgrenze V="..."/>  <obere_altersgrenze V="..."/>  <altersbezug_fehlerart V="..."/>  <krankheit_in_mitteleuropa_sehr_selten V="..."/>  <schlüsselnummer_mit_inhalt_belegt V="..."/>  <infektionsschutzgesetz_meldepflicht V="..."/>  <infektionsschutzgesetz_abrechnungsbesonderheit V="..."/>   <keine_dauerdiagnose V="..."" DN="..."/>  <diagnosen_liste>** |
 
@@ -704,9 +692,7 @@ Formel 14: XML-Code: arztgruppen_liste
 
 ### arztgruppe
 
-Das Element <arztgruppe> enthält im V-Attribut die Kennzeichnung für die EBM-Arztgruppe. Es ist  nicht für jeden Arztgruppencode ein Arztgruppenthesaurus vorhanden. Die Werte entsprechen  somit einer Auswahl der Schlüsseltabelle S_EBM_ARZTGRUPPE (OID: 1.2.276.0.76.5.115), vgl.
-
-Tabelle 5. Das Element ist nicht optional.
+Das Element <arztgruppe> enthält im V-Attribut die Kennzeichnung für die EBM-Arztgruppe. Es ist  nicht für jeden Arztgruppencode ein Arztgruppenthesaurus vorhanden. Die Werte entsprechen  somit einer Auswahl der Schlüsseltabelle S_EBM_ARZTGRUPPE (OID: 1.2.276.0.76.5.115), vgl.  Tabelle 5. Das Element ist nicht optional.
 
 Abbildung 16: arztgruppe
 
@@ -717,10 +703,9 @@ Der XML-Code für ein <arztgruppe> Element hat folgenden Aufbau:
 
 Formel 15: XML-Code: arztgruppe
 
-
 ---
 
-| **ARZTGRUPPE** |  |
+| ARZTGRUPPE |  |
 |---|---|
 | **Wert (** | Bedeutung (optional |
 | 3 | Hausarzt |
@@ -738,9 +723,9 @@ Formel 15: XML-Code: arztgruppe
 
 Tabelle 6: Auswahl der möglichen Ausprägungen der Attribute des Elements <arztgruppe>
 
-Das Element <verschluesselungsanleitung_liste> umschließt eine Liste von <verschluesselungsanleitung>  Elementen. Alle einer Diagnose untergeordneten <verschluesselungsanleitung_ref> Elemente enthalten  eine Referenz auf einen Eintrag in der Verschlüsselungsanleitung-Stammdatei.
-
 ## VERSCHLUESSELUNGSANLEITUNG_LISTE
+
+Das Element <verschluesselungsanleitung_liste> umschließt eine Liste von <verschluesselungsanleitung>  Elementen. Alle einer Diagnose untergeordneten <verschluesselungsanleitung_ref> Elemente enthalten  eine Referenz auf einen Eintrag in der Verschlüsselungsanleitung-Stammdatei.
 
 Abbildung 17: verschluesselungsanleitung_liste
 
@@ -753,9 +738,8 @@ Formel 16: XML-Code: verschluesselungsanleitung _liste
 
 ### verschluesselungsanleitung_ref
 
-Das Element <verschluesselungsanleitung_ref> enthält eine Referenz auf einen Eintrag in der  Verschlüsselungsanleitung-Stammdatei.
+V="..." DN="..." Das Element <verschluesselungsanleitung_ref> enthält eine Referenz auf einen Eintrag in der  Verschlüsselungsanleitung-Stammdatei.
 
-V="..." DN="..."
 
 ---
 
@@ -773,7 +757,6 @@ Formel 17: XML-Code: verschluesselungsanleitung_ref
 Das Element <icd_code> befindet sich auf der untersten Hierarchieebene der ICD Kodierungssystematik  und enthält eine Diagnosekodierung. Enthalten sind hier Zeichenketten nach dem Muster:
 
 -  ein Zeichen A-Z und zweistellige Nummer
-
 -  (optional) '.' und ein- bis zweistellige Nummer und optional '*' oder '+' oder '-'
 
 Abbildung 19 : icd_code
@@ -812,7 +795,7 @@ Der XML-Code für ein <abrechenbar> Element hat folgenden Aufbau:
 \| ****Wert (** |
 \|---|
 
-| **ABRECHENBAR** |  |
+| ABRECHENBAR |  |
 |---|---|
 | j | ja |
 | n | nein |
@@ -838,7 +821,7 @@ Der XML-Code für ein <notationskennzeichen> Element hat folgenden Aufbau:
 
 Formel 21: XML-Code: notationskennzeichen
 
-| **NOTATIONSKENNZEICHEN** |  |
+| NOTATIONSKENNZEICHEN |  |
 |---|---|
 | **Wert (** | Bedeutung (optional |
 | + | Kreuzzeichen - Primärschlüssel |
@@ -858,7 +841,7 @@ Der XML-Code für ein <geschlechtsbezug> Element hat folgenden Aufbau:
 \| **<geschlechtsbezug V="..." DN="..."/>**** |
 \|---|
 
-| **GESCHLECHTSBEZUG** |  |
+| GESCHLECHTSBEZUG |  |
 |---|---|
 | **Wert (** | Bedeutung (optional |
 | w | weiblich |
@@ -891,7 +874,7 @@ Der XML-Code für ein <geschlechtsbezug_fehlerart> Element hat folgenden Aufbau:
 
 Formel 23: XML-Code: geschlechtsbezug_fehlerart
 
-| **GESCHLECHTSBEZUG_FEHLERART** |  |
+| GESCHLECHTSBEZUG_FEHLERART |  |
 |---|---|
 | **Wert (** | Bedeutung (optional |
 | k | k = Kann-Fehler |
@@ -901,17 +884,12 @@ Tabelle 10: Ausprägungen der Attribute des Elements <geschlechtsbezug_fehlerart
 
 ## UNTERE_ALTERGRENZE
 
-Das optionale Element <untere_altersgrenze> befindet sich auf der untersten Hierarchieebene der ICD  Kodierungssystematik und enthält die untere Altersgrenze, wenn die Diagnose altersspezifisch ist. Der  Inhalt des V-Attributs (**V="..."**) gibt einen Zahlenwert an, der Inhalt des U-Attributs (
-
-bestimmt die Zeiteinheit (‚Jahr’ oder ‚Tag’). Falls die Zeiteinheit. Jahr’ ( das V-Attribut eine Altersangabe in Jahren. Nur wenn die untere Altersgrenze kleiner als ein Jahr ist, wird  die Zeiteinheit ‚Tag’ verwendet (**U=""Tag** ) und das V-Attribut enthält eine Altersangabe im Bereich von 0
-
-bis 365 Tagen.
+Das optionale Element <untere_altersgrenze> befindet sich auf der untersten Hierarchieebene der ICD  Kodierungssystematik und enthält die untere Altersgrenze, wenn die Diagnose altersspezifisch ist. Der  Inhalt des V-Attributs (**V="..."**) gibt einen Zahlenwert an, der Inhalt des U-Attributs ( bestimmt die Zeiteinheit (‚Jahr’ oder ‚Tag’). Falls die Zeiteinheit. Jahr’ ( das V-Attribut eine Altersangabe in Jahren. Nur wenn die untere Altersgrenze kleiner als ein Jahr ist, wird  die Zeiteinheit ‚Tag’ verwendet (**U=""Tag** ) und das V-Attribut enthält eine Altersangabe im Bereich von 0  bis 365 Tagen.
 
 **U=""Jahr** ) verwendet wird, enthält
 
-**U="..."**
+V="..." DN="..." **U="..."**
 
-V="..." DN="..."
 
 ---
 
@@ -924,7 +902,7 @@ Der XML-Code für ein <untere_altersgrenze> Element hat folgenden Aufbau:
 
 Formel 24: XML-Code: untere_altersgrenze
 
-| **UNTERE_ALTERSGRENZE** |  |
+| UNTERE_ALTERSGRENZE |  |
 |---|---|
 | **Wert (** | |
 | Jahr | |
@@ -934,15 +912,12 @@ Tabelle 11: Ausprägungen der Attribute des Elements <untere_altersgrenze>
 
 ## OBERE_ALTERSGRENZE
 
-Das optionale Element <obere_altersgrenze> befindet sich auf der untersten Hierarchieebene der ICD  Kodierungssystematik und enthält die obere Altersgrenze, wenn die Diagnose altersspezifisch ist. Das  Format des Inhalts des V-Attributs (**V="..."**) und des U-Attributs (**U="..."**) folgt der gleichen
-
-Systematik wie beim Element <untere_altersgrenze>.
+Das optionale Element <obere_altersgrenze> befindet sich auf der untersten Hierarchieebene der ICD  Kodierungssystematik und enthält die obere Altersgrenze, wenn die Diagnose altersspezifisch ist. Das  Format des Inhalts des V-Attributs (**V="..."**) und des U-Attributs (**U="..."**) folgt der gleichen  Systematik wie beim Element <untere_altersgrenze>.
 
 Abbildung 26: obere_altersgrenze
 
-Der XML-Code für ein <obere_altersgrenze> Element hat folgenden Aufbau:
+U="..."Der XML-Code für ein <obere_altersgrenze> Element hat folgenden Aufbau:
 
-U="..."
 
 ---
 
@@ -951,7 +926,7 @@ U="..."
 
 Formel 25: XML-Code: obere_altersgrenze
 
-| **OBERE_ALTERSGRENZE** |  |
+| OBERE_ALTERSGRENZE |  |
 |---|---|
 | **Wert (** | |
 | Jahr | |
@@ -972,7 +947,7 @@ Der XML-Code für ein <altersbezug_fehlerart> Element hat folgenden Aufbau:
 
 Formel 26: XML-Code: altersbezug_fehlerart
 
-| **ALTERSBEZUG_FEHLERART** |  |
+| ALTERSBEZUG_FEHLERART |  |
 |---|---|
 | **Wert (** | Bedeutung (optional |
 | k | Kann-Fehler |
@@ -997,7 +972,7 @@ Der XML-Code für ein <krankheit_in_mitteleuropa_sehr_selten> Element hat folgen
 
 Formel 27: XML-Code: krankheit_in_mitteleuropa_sehr_selten
 
-| **KRANKHEIT_IN_MITTELEUROPA_SEHR_SELTEN** |  |
+| KRANKHEIT_IN_MITTELEUROPA_SEHR_SELTEN |  |
 |---|---|
 | **Wert (** | Bedeutung (optional |
 | j | ja |
@@ -1022,7 +997,7 @@ V="..." DN="..." V="..." DN="..."/>
 
 ---
 
-| **SCHLÜSSELNUMMER_MIT_INHALT_BELEGT** |  |
+| SCHLÜSSELNUMMER_MIT_INHALT_BELEGT |  |
 |---|---|
 | **Wert (** | Bedeutung (optional |
 | j | ja |
@@ -1043,7 +1018,7 @@ Der XML-Code für ein <infektionsschutzgesetz_meldepflicht> Element hat folgende
 
 Formel 29: XML_Code: infektionsschutzgesetz_meldepflicht
 
-| **INFEKTIONSSCHUTZGESETZ_MELDEPFLICHT** |  |
+| INFEKTIONSSCHUTZGESETZ_MELDEPFLICHT |  |
 |---|---|
 | **Wert (** | Bedeutung (optional |
 | j | ja |
@@ -1068,7 +1043,7 @@ Der XML-Code für ein <infektionsschutzgesetz_abrechnungsbesonderheit> Element h
 
 Formel 30: XML-Code: infektionsschutzgesetz_abrechnungsbesonderheit
 
-| **INFEKTIONSSCHUTZGESETZ_ABRECHNUNGSBESONDERHEIT** | |
+| INFEKTIONSSCHUTZGESETZ_ABRECHNUNGSBESONDERHEIT | |
 |---|---|
 | **Wert (** | Bedeutung (optional |
 | j | ja |
@@ -1089,7 +1064,7 @@ Der XML-Code für ein <keine_dauerdiagnose> Element hat folgenden Aufbau:
 
 Formel 31: XML-Code: keine_dauerdiagnose
 
-| **ICD_10_GM_CODE_KEINE_DAUERDIAGNOSE** | |
+| ICD_10_GM_CODE_KEINE_DAUERDIAGNOSE | |
 |---|---|
 | **Wert (** | Bedeutung (optional |
 | 1 | ist als Dauerdiagnose nicht geeignet |
@@ -1114,4 +1089,4 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)

@@ -26,15 +26,15 @@ Sonstiges
 
 ***z.B. Suchtmittel***
 
-**Häusliches Leben***** (z. B. Einkaufen, Mahlzeiten vorbereiten,***
+**Häusliches Leben** ***(z. B. Einkaufen, Mahlzeiten vorbereiten,***
 
 ***Hausarbeit verrichten, anderen Familienmitgliedern helfen)***
 
-**Interpersonelle Aktivitäten***** (z. B. Familienbeziehungen aufbauen***
+**Interpersonelle Aktivitäten** ***(z. B. Familienbeziehungen aufbauen***
 
 ***und aufrechterhalten, soziale Beziehungen aufnehmen)***
 
-**Bedeutende Lebensbereiche***** (z. B. Arbeit und Beschäftigung,***
+**Bedeutende Lebensbereiche** ***(z. B. Arbeit und Beschäftigung,***
 
 ***Erziehung und Bildung, wirtschaftliche Eigenständigkeit, sich beschäftigen***  ***können)***
 
@@ -104,7 +104,7 @@ nein
 
 **Der/die Patient/in verfügt über ausreichende physische und psychische Belastbarkeit**
 
-**III. Angaben zur Rehabilitationsfähigkeit**
+### III. Angaben zur Rehabilitationsfähigkeit
 
 BMI
 

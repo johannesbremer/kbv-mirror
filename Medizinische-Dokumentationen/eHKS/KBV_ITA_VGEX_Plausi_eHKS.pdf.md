@@ -1,4 +1,4 @@
-|  | ***IT in der Arztpraxis ****Plausibilitätenkatalog Haut- [KBV_ITA_VGEX_Plausi* |
+|  | *IT in der Arztpraxis  Plausibilitätenkatalog Haut- [KBV_ITA_VGEX_Plausi* |
 |---|---|
 |  | Dezernat Digitalisierung und IT |
 |  |  |
@@ -8,20 +8,20 @@
 |  | Version |
 |  |  |
 
-krebs-Screening (eHKS) _eHKS] 1.04 Datum: 29.01.2019 Kennzeichnung: Öffentlich Status: In Kraft
+krebs-Screening (eHKS) _eHKS] 1.04 Datum: 29.01.2019 Kennzeichnung: Öffentlich Status: In Kraft 
 
 
 ---
 
 **D** **O** **K** **U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O** **R** **I** **E**
 
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.04 | 29.01.2019 KBV |  | Korrektur |  | **8  9** |
-| 1.03 | 26.06.2018 KBV |  | Aufnahme von neuen F | Beschluss GBA | **alle** |
-| 1.02 | 02.08.2012 KBV |  | Red. Änderungen | entfällt | **alle** |
+| 1.04 | 29.01.2019 | KBV | Korrektur |  | **8** **9** |
+| 1.03 | 26.06.2018 | KBV | Aufnahme von neuen F | Beschluss GBA | **alle** |
+| 1.02 | 02.08.2012 | KBV | Red. Änderungen | entfällt | **alle** |
 
-eldern
+eldern 
 
 
 ---
@@ -44,42 +44,32 @@ eldern
 
 **3.2** **Dermatologen .................................................................................................................................6**
 
-
 ---
 
 # 1 Einleitung
 
 Der vorliegende Plausibilitätenkatalog konkretisiert die in der Änderung der Krebsfrüherken- nungsrichtline des Gemeinsamen Bundesausschuss (GBA) enthaltenen Plausibilitäten zum  „Hautkrebs Screening“ (kurz: eHKS) im Hinblick auf die technische Umsetzung
 
-- seitens des Praxissoftwareherstellers sowie - im Rahmen des Prüfmoduls
+- seitens des Praxissoftwareherstellers sowie
+- im Rahmen des Prüfmoduls
 
-Die Softwarehersteller sind angehalten, bereits bei der Datenerfassung Prüfungen der Plausi- bilität eingegebener Werte durchzuführen und den Anwender ggf. auf Verstöße gegen die  Plausibilitäten hinzuweisen.
+Die Softwarehersteller sind angehalten, bereits bei der Datenerfassung Prüfungen der Plaus i- bilität eingegebener Werte durchzuführen und den Anwender ggf. auf Verstöße gegen die  Plausibilitäten hinzuweisen.
 
 Das Dokument kann fortgeschrieben werden. Sollten sich Sachverhalte ergeben, die in dieser  Unterlage noch nicht abgebildet waren, so können diese ergänzt werden.
 
-Das Dokument wird dann mit neuer Version an alle Kassenärztlichen Vereinigungen und Sys- temanbieter verteilt.
+Das Dokument wird dann mit neuer Version an alle Kassenärztlichen Vereinigungen und Sy s- temanbieter verteilt.
 
 # 2 Grundlagen
 
 Die aufgeführten Plausibilitätsregeln orientieren sich an den Ergänzungen der Früherken- nungsrichtline Hautkrebs-Screening des GBA.
 
-Der Plausibilitätenkatalog der Krebsfrüherkennungsrichtlinie Hautkrebs-Screening stellt den  Entwicklern von PVS-Systemen oder Web-Anwendungssystemen ein Hilfsmittel zur Verfü- gung, welches die Anwendung, die Bedienung innerhal b der Anwendung und die fachlichen  Prüfungen im Rahmen der eDokumentation der Früherkennungsrichtlinie Hautkrebs-
+Der Plausibilitätenkatalog der Krebsfrüherkennungsrichtlinie Hautkrebs-Screening stellt den  Entwicklern von PVS-Systemen oder Web-Anwendungssystemen ein Hilfsmittel zur Verfü- gung, welches die Anwendung, die Bedienung innerhal b der Anwendung und die fachlichen  Prüfungen im Rahmen der eDokumentation der Früherkennungsrichtlinie Hautkrebs- Screening spezifiziert.
 
-Screening spezifiziert.
+Der hier beschriebene Plausibilitätenkatalog soll so verwendet werden, dass der Anwender  bei der Ausfüllung der Dokumentation interaktiv auf Inplausibilitäten aufmerksam gemacht  wird. Verstöße gegen die Plausibilitätsregeln führen zu einer Fehlermeldung des Prüfmoduls,  sofern bei der jeweiligen Regel nicht explizit angegeben ist, dass lediglich eine Warnung e r- folgen soll.
 
-Der hier beschriebene Plausibilitätenkatalog soll so verwendet werden, dass der Anwender  bei der Ausfüllung der Dokumentation interaktiv auf Inplausibilitäten aufmerksam gemacht  wird. Verstöße gegen die Plausibilitätsregeln führen zu einer Fehlermeldung des Prüfmoduls,  sofern bei der jeweiligen Regel nicht explizit angegeben ist, dass lediglich eine Warnung e r-
+Weitere Sachverhalte sind in dem Anforderungskatalog eDokumentation Hautkrebs- Screening“ enthalten. Die Anforderungsspezifikation ist Grundlage für die Zertifizierung der  Anwendung.
 
-folgen soll.
-
-Weitere Sachverhalte sind in dem Anforderungskatalog eDokumentation Hautkrebs-
-
-Screening“ enthalten. Die Anforderungsspezifikation ist Grundlage für die Zertifizierung der
-
-Anwendung.
-
-Wenn ein Wert zu einer Warnung führt, soll der An wender auf diesen Umstand hingewiesen
-
-werden, er muss aber die Möglichkeit haben, den Wert in die Dokumentation aufzunehmen.
+Wenn ein Wert zu einer Warnung führt, soll der An wender auf diesen Umst and hingewiesen  werden, er muss aber die Möglichkeit haben, den Wert in die Dokumentation aufzunehmen.
 
 
 ---
@@ -92,8 +82,8 @@ werden, er muss aber die Möglichkeit haben, den Wert in die Dokumentation aufzu
 
 | Feld-Nr. | *Dokumentationsparameter* | *Ausprägung* | *Plausibilitätenregel* |
 |---|---|---|---|
-| **1.1 ** | **Verdachtsdiagnose (Mehrfachangaben möglich)** | | |
-| 1.1.1 | Verdachtsdiagnose ND | Ja/Nein | Pflichtfeld,  nur eine Angabe ist möglich. |
+| **1.1** | **Verdachtsdiagnose** **(Mehrfachangaben möglich)** | | |
+| 1.1.1 | VerdachtsdiagnoseND | Ja/Nein | Pflichtfeld,  nur eine Angabe ist möglich. |
 | 1.1.2 | Malignes Melanom | Ja/Nein | Bedingtes Pflichtfeld,   Bei Angabe „Ja“ in 1.1 nur eine Angabe ist möglich. |
 | 1.1.3 | Basalzellkarzinom | Ja/Nein | Bedingtes Pflichtfeld,   Bei Angabe „Ja“ in 1.1 nur eine Angabe ist möglich. |
 | 1.1.4 | Spinozelluläres Karzinom | Ja/Nein | Bedingtes Pflichtfeld,   Bei Angabe „Ja“ in 1.1 nur eine Angabe ist möglich. |
@@ -102,7 +92,7 @@ werden, er muss aber die Möglichkeit haben, den Wert in die Dokumentation aufzu
 
 (zur hausärztlichen Versorgung
 
-dermatologisch Befund abklärungsbedürftiger /Datenformat .1, muss hier eine Angabe erfolgen. .1, muss hier eine Angabe erfolgen.  .1, muss hier eine Angabe erfolgen. .1, muss hier eine Angabe erfolgen., .1, muss hier zugelassene Praktische Ärzte, Ärzte ohne Gebietsbezeichnung,
+dermatologisch abklärungsbedürftiger Befund /Datenformat .1, muss hier eine Angabe erfolgen. .1, muss hier eine Angabe erfolgen.  .1, muss hier eine Angabe erfolgen. .1, muss hier eine Angabe erfolgen., .1, muss hier zugelassene Praktische Ärzte, Ärzte ohne Gebietsbezeichnung,
 
 
 ---
@@ -110,7 +100,7 @@ dermatologisch Befund abklärungsbedürftiger /Datenformat .1, muss hier eine An
 |  |  |  | eine Angabe erfolgen.,  nur eine Angabe ist möglich. |
 |---|---|---|---|
 | 1.1.7 | Screening-Teilnehmer wird an einen Dermatologen | Ja/Nein | Pflichtfeld,  nur eine Angabe ist möglich. |
-| **1.2.** | **Gesundheitsuntersuchung** | | |
+| **1.2. ** | **Gesundheitsuntersuchung** | | |
 | 1.2.1 | Gleichzeitig | Ja/Nein | Pflichtfeld,   nur eine Angabe ist möglich. |
 
 ## 3.2 Dermatologen
@@ -121,10 +111,10 @@ Alle Felder sind Pflichtfelder, falls nichts anderes angegeben ist.
 
 |  | *Dokumentationsparameter* | *Ausprägung* | *Plausibilitätenregel* |
 |---|---|---|---|
-| **2.1.** | **Überweisung im Rahmen des Hautkrebs-Screenings** | | |
+| **2.1. ** | **Überweisung im Rahmen des Hautkrebs-Screenings** | | |
 | 2.1.1 | Patient kommt auf Überweisung im Rahmen | Ja/Nein | Pflichtfeld,  nur eine Angabe ist möglich. |
 | 2.1.2 | Überweisender Arzt hat HKS durchgeführt | Ja/Nein | Pflichtfeld,  nur eine Angabe ist möglich. |
-| **2.2.** | **Angabe der Verdachtsdiagnose des überweisenden Arztes** **(Mehrfachangaben möglich)** | | |
+| **2.2. ** | **Angabe der Verdachtsdiagnose des überweisenden Arztes** **(Mehrfachangaben möglich)** | | |
 | 2.2.1 | Angabe über die Verdachtsdiagnose liegt vor | Ja/Nein | Bedingtes Pflichtfeld    Bei Angabe    Nur eine Angabe ist möglich. |
 | 2.2.2 | Malignes Melanom | Ja/Nein | Bedingtes Pflichtfeld    Bei Angabe „   Nur eine Angabe ist möglich. |
 
@@ -150,7 +140,7 @@ Alle Felder sind Pflichtfelder, falls nichts anderes angegeben ist.
 |---|---|---|---|
 | 2.3.5 | anderer Hautkrebs | Ja/Nein | Bedingtes Pflichtfeld,  Bei Angabe „Ja“ in 2.3   nur eine Angabe ist möglich. |
 | 2.3.6 | sonstiger mit Biopsie abklärungsbedürftiger | Ja/Nein | Bedingtes Pflichtfeld,  Bei Angabe „Ja“ in 2.3 nur eine Angabe ist möglich. |
-| **2.4.** | **Biopsie/Exzision** | | |
+| **2.4. ** | **Biopsie/Exzision** | | |
 | 2.4.1 | Biopsie zu Verdachtsdiagnose gemäß 2.3 ent- | Ja/Nein | Pflichtfeld,  nur eine Angabe ist möglich.    Bei Angabe „   Bei Angabe „ |
 | 2.4.2 | Anzahl der entnommenen Biopsien | Anzahl | Bedingtes Pflichtfeld,  eine Angabe ist erforderlich wenn in    eine Angabe ist nicht zulässig wenn in    Wertebereich: 0-99 |
 | 2.4.3 | anderweitige Therapie oder Diagnostik vorge- | Ja/Nein | Bedingtes Pflichtfeld, |

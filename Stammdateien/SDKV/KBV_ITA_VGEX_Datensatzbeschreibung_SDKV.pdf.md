@@ -1,4 +1,4 @@
-|  | ***IT in der Arztpraxis*** |
+|  | *IT in der Arztpraxis* |
 |---|---|
 |  | *Datensatzbeschreibung SDKV* |
 |  | [KBV_ITA_VGEX_Datensatzbeschreibung_SDKV |
@@ -13,16 +13,15 @@
 
 (KV-- Spezifika Stammdatei) -Lewin-Platz 2 3.56 Datum: 18.01.2021 Kennzeichnung: Öffentlich Status: In Kraft
 
-
 ---
 
 Dokumentenhistorie
 
 Die Änderungen vom 18.01.2021 treten zum 01.04.2021 in Kraft.
 
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 3.56 | 18.01.2021 KBV |  | • • • | - | 15    22  32 |
+| 3.56 | 18.01.2021 | KBV | • • • | - | 15  22  32 |
 
 Anpassung der Feldinhalte des Feldes FK 2018 an die Werte der Schlüsseltabelle S_KTS_KTGRUPPE (OID: 1.2.276.0.76.5.240) Regel 186: angepasst Erläuterung zur Satzart „kvx7: Beispiel entfallen
 
@@ -116,16 +115,13 @@ INHALTSVERZEICHNIS
 
 ## 1.1 Zielsetzung
 
-Diese SDKV-Satzbeschreibung ermöglicht es jeder Kassenärztlichen Vereinigung ihre  speziellen Abrechnungsbedingungen in einer KV--Spezifika Datei entsprechend dem xDT-
+Diese SDKV-Satzbeschreibung ermöglicht es jeder Kassenärztlichen Vereinigung ihre  speziellen Abrechnungsbedingungen in einer KV--Spezifika Datei entsprechend dem xDT- Format abzubilden.
 
-Format abzubilden.
+In der KVDT-Satzbeschreibung sind für die Felder
 
-In der KVDT-Satzbeschreibung sind für die Felder - Scheinuntergruppe (FK 4239)
-
+- Scheinuntergruppe (FK 4239)
 - Abrechnungsgebiet (FK 4122)
-
 - Kostenträger- Abrechnungsbereich (KTAB) (FK 4106)
-
 - Personenkreis / Untersuchungskategorie (FK 4123)
 
 **bundeseinheitliche** “Obermengen” (= Schlüsselwerte) definiert.
@@ -133,56 +129,38 @@ In der KVDT-Satzbeschreibung sind für die Felder - Scheinuntergruppe (FK 4239)
 Über die KV--Spezifika Dateien können dann im Abrechnungsprogramm
 
 -  die je nach KV-Bereich zulässigen Feldinhalte der Felder “Scheinuntergruppe”,  “Abrechnungsgebiet”, “Kostenträger-Abrechnungsbereich” und  Personenkreis/Untersuchungskategorie” abgeleitet werden,
-
 -  die für die ADT-Abrechnung der sonstigen Kostenträger zusätzlich erforderlichen  Abrechnungsinformationen (FK 4123 - FK 4126) angefordert werden,
-
 -  aufgrund von Handhabungshinweisen bezüglich “Tagtrennung”, “Übertragung  Doppelkilometer (DKM) bzw. Wegepauschale” und “Pseudo-GNR”
 
 die entsprechenden KV-Spezifika eindeutig und korrekt umgesetzt werden.
 
-Die KV--Spezifika Stammdateien der einzelnen KV´en werden im Rahmen der quartalsweisen
-
-Regelupdates der KBV veröffentlicht.
-
+Die KV--Spezifika Stammdateien der einzelnen KV´en werden im Rahmen der quartalsweisen  Regelupdates der KBV veröffentlicht.
 
 ---
 
 ## 1.2 Aufbau einer KV-Spezifika-Datei
 
-Eine KV-- Spezifika Datei ist in Sätze unterteilt. Folgende Sätze sind definiert: -  SDKV-Headersatz “kvx0”
+Eine KV-- Spezifika Datei ist in Sätze unterteilt. Folgende Sätze sind definiert:
 
+-  SDKV-Headersatz “kvx0”
 -  SDKV-Endesatz “kvx9”
-
 -  Handhabungshinweise “kvx1”
-
 -  Zulässige Feldinhalte “kvx2”
-
 -  SKT-Abrechnungs-Zusatzangaben “kvx3”
-
 -  Sortierung “kvx4” (nur für KV) 1
-
 -  Scheinabgabe “kvx5” (nur für KV)
-
 -  Klammerung “kvx6” (nur für KV)
-
 -  Abrechnungsart “kvx7” (nur für KV)
-
 -  Kommentierung / Zusatzinformation “kvx8”
 
-1 Die Sätze mit dem Zusatz *“(nur für KV)”* sind für KVDT-Softwareentwickler nicht relevant, können jedoch für interne Zwecke
-
-genutzt werden. Die Angaben in diesen Sätzen werden vom KVDT-Prüfmodul verarbeitet (vgl. entsprechende Erläuterungen  zu den jeweiligen Satzarten).
+1 Die Sätze mit dem Zusatz *“(nur für KV)”* sind für KVDT-Softwareentwickler nicht relevant, können jedoch für interne Zwecke  genutzt werden. Die Angaben in diesen Sätzen werden vom KVDT-Prüfmodul verarbeitet (vgl. entsprechende Erläuterungen  zu den jeweiligen Satzarten).
 
 Ein **Satz** ist unterteilt in **Felder**. Ein **Feld** ist die kleinste Einheit einer Datei. Es besteht aus:
 
 -  der Feldlängenangabe (3 Bytes)
-
 -  der Feldkennung (FK) (4 Bytes)
-
 -  dem eigentlichen Feldinhalt (variabel)
-
 -  der Feldendemarkierung (CR, LF) (2 Bytes)
-
 
 ---
 
@@ -223,35 +201,19 @@ Es werden Anordnung und Vorkommen der Felder innerhalb eines Satzes festgelegt. 
 
 Spalte “Vorkommen”:
 
-Die Häufigkeit des Feldes wird in der Spalte *Vorkommen* angegeben, wobei die Angabe “n”
-
-diejenigen Felder kennzeichnet, die beliebig oft vorhanden sein können. Darüber hinaus wird  in der Spalte *Vorkommen* jedem Feld eine Hierarchiestufe zugewiesen, d. h. das Auftreten
-
-des Feldes wird an die Existenz eines anderen Feldes geknüpft, nämlich genau an jenes  Feld, welches in der übergeordneten Hierarchiestufe referenziert wird.
+Die Häufigkeit des Feldes wird in der Spalte *Vorkommen* angegeben, wobei die Angabe “n”  diejenigen Felder kennzeichnet, die beliebig oft vorhanden sein können. Darüber hinaus wird  in der Spalte *Vorkommen* jedem Feld eine Hierarchiestufe zugewiesen, d. h. das Auftreten  des Feldes wird an die Existenz eines anderen Feldes geknüpft, nämlich genau an jenes  Feld, welches in der übergeordneten Hierarchiestufe referenziert wird.
 
 Spalte “Feldart”:
 
-In der Spalte *Feldart* wird angegeben, ob ein Feld in einem Satz vorhanden sein muss oder
-
-nicht, und ob dieses Vorhandensein an bestimmte Bedingungen geknüpft ist (die dann in der  Spalte *Bedingung* näher spezifiziert werden).
+In der Spalte *Feldart* wird angegeben, ob ein Feld in einem Satz vorhanden sein muss oder  nicht, und ob dieses Vorhandensein an bestimmte Bedingungen geknüpft ist (die dann in der  Spalte *Bedingung* näher spezifiziert werden).
 
 -  **M = unbedingtes Mussfeld**
 
-Ein unbedingtes Mussfeld muss in einem Satz vorhanden sein. Sollte in der Spalte  *Vorkommen* ein mehrfaches bzw. n-faches Auftreten zugelassen sein, so muss dieses Feld
-
-mindestens einmal in dem Satz vorkommen.
+Ein unbedingtes Mussfeld muss in einem Satz vorhanden sein. Sollte in der Spalte  *Vorkommen* ein mehrfaches bzw. n-faches Auftreten zugelassen sein, so muss dieses Feld  mindestens einmal in dem Satz vorkommen.
 
 -  **m = bedingtes Mussfeld**
 
-Bei einem bedingten Mussfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte  *Bedingungen*) oder an das Auftreten eines referenzierten Feldes auf einer übergeordneten
-
-Hierarchiestufe (s. Spalte *Vorkommen*) gebunden. Ein bedingtes Mussfeld muss in einem
-
-Satz vorhanden sein, wenn entweder in der Spalte *Bedingung* ein Eintrag vorhanden und
-
-erfüllt ist oder das auf der übergeordneten Hierarchiestufe (s. Spalte *Vorkommen*
-
-referenzierte Feld existiert.
+Bei einem bedingten Mussfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte  *Bedingungen*) oder an das Auftreten eines referenzierten Feldes auf einer übergeordneten  Hierarchiestufe (s. Spalte *Vorkommen*) gebunden. Ein bedingtes Mussfeld muss in einem  Satz vorhanden sein, wenn entweder in der Spalte *Bedingung* ein Eintrag vorhanden und  erfüllt ist oder das auf der übergeordneten Hierarchiestufe (s. Spalte *Vorkommen* referenzierte Feld existiert.
 
 -  **K = Kannfeld**
 
@@ -259,22 +221,13 @@ Ein Kannfeld kann in einem Satz auftreten, wobei das Vorkommen an keinerlei Bedi
 
 -  **k = bedingtes Kannfeld**
 
-Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte  *Bedingungen*) oder an das Auftreten eines referenzierten Feldes auf einer übergeordneten
-
-Hierarchiestufe (s. Spalte *Vorkommen*) gebunden. Ein bedingtes Kannfeld darf in einem Satz
-
-vorhanden sein, wenn entweder in der Spalte *Bedingung* ein Eintrag vorhanden und erfüllt ist
-
-oder das auf der übergeordneten Hierarchiestufe (s. Spalte *Vorkommen*) referenzierte Feld
-
-existiert.
-
+Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte  *Bedingungen*) oder an das Auftreten eines referenzierten Feldes auf einer übergeordneten  Hierarchiestufe (s. Spalte *Vorkommen*) gebunden. Ein bedingtes Kannfeld darf in einem Satz  vorhanden sein, wenn entweder in der Spalte *Bedingung* ein Eintrag vorhanden und erfüllt ist  oder das auf der übergeordneten Hierarchiestufe (s. Spalte *Vorkommen*) referenzierte Feld  existiert.
 
 ---
 
 **2.1 Definition der Satzart: SDKV**
 
-| **FK** | **Vorkommen** | **Bezeichnung** | **Feldart** | **Bedingung** | **Erläuterung** |
+| FK | Vorkommen | Bezeichnung | Feldart | Bedingung | Erläuterung |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzart | M |  | SDKV-Headersatz |
 | 9103 | 1 | Erstellungsdatum | M |  |  |
@@ -292,7 +245,7 @@ existiert.
 
 **2.2 Definition der Satzart: SDKV-Endesatz “kvx9”**
 
-| **FK** | **Vorkommen** | **Bezeichnung** | **Feldart** | **Bedingung** | **Erläuterung** |
+| FK | Vorkommen | Bezeichnung | Feldart | Bedingung | Erläuterung |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzart | M |  | SDKV-Endesatz |
 | 9219 | 1 | Version SDKV-Pflegeprogramm | M |  | nur für KBV-interne |
@@ -305,7 +258,7 @@ Datei Datei gültig 3 Zwecke: Versionsnummer des SDKV-- programms, mit der diese
 
 **2.3 Definition der Satzart: Handhabungshinweise “kvx1”**
 
-| **FK** | **Vorkommen** | **Bezeichnung** | **Feldart** | **Bedingung** | **Erläuterung** |
+| FK | Vorkommen | Bezeichnung | Feldart | Bedingung | Erläuterung |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzart | M |  | Satzart |
 | 9400 | 1 | Handhabung “Tagtrennung” | M |  |  |
@@ -317,7 +270,7 @@ Datei Datei gültig 3 Zwecke: Versionsnummer des SDKV-- programms, mit der diese
 
 **2.4 Definition der Satzart: Zulässige Feldinhalte “kvx2”**
 
-| **FK** | **Vorkommen** | **Bezeichnung** | **Feldart** | **Bedingung** | **Erläuterung** |
+| FK | Vorkommen | Bezeichnung | Feldart | Bedingung | Erläuterung |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzart | M |  | Satzart “Zulässige |
 | 4106 | n | Kostenträger-Abrechnungsbereich | M |  |  |
@@ -330,7 +283,7 @@ Datei Datei gültig 3 Zwecke: Versionsnummer des SDKV-- programms, mit der diese
 
 **2.5 Definition der Satzart: SKT-Abrechnungs-Zusatzangaben**  **“kvx3”**
 
-| **FK** | **Vorkommen** | **Bezeichnung** | **Feldart** | **Bedingung** | **Erläuterung** |
+| FK | Vorkommen | Bezeichnung | Feldart | Bedingung | Erläuterung |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzart | M |  | Satzart SKT- |
 | 2018 | n | Kostenträgergruppe | M |  | vgl. Regel 452 |
@@ -341,7 +294,7 @@ Datei Datei gültig 3 Zwecke: Versionsnummer des SDKV-- programms, mit der diese
 | 9406 |  | nicht zulässige Satzarten “010x” | m | Regel 453 |  |
 | 9407 |  | nicht zulässige Versichertenarten in | m | Regel 453 |  |
 
-| **FK** | **Vorkommen** | **Bezeichnung** | **Feldart** | **Bedingung** | **Erläuterung** |
+| FK | Vorkommen | Bezeichnung | Feldart | Bedingung | Erläuterung |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzidentifikation | M |  | Satzart Sortierung |
 | 9452 | n | Festlegung der Sortierkriterien | M |  |  |
@@ -365,9 +318,8 @@ Datei Datei gültig 3 Zwecke: Versionsnummer des SDKV-- programms, mit der diese
 
 2 Satz “kvx3” ist ein “Kann Satz”, vgl. Kapitel 5.4.
 
-## 2
+(KTAB) Werte in Feld “4123” (Personenkreis/ Untersuchungskategorie) “4124” (SKT-Zusatzangaben) Abrechnungsinformation SKT Feld “3108” Abrechnungs- Zusatzangaben ## 2
 
-(KTAB) Werte in Feld “4123” (Personenkreis/ Untersuchungskategorie) “4124” (SKT-Zusatzangaben) Abrechnungsinformation SKT Feld “3108” Abrechnungs- Zusatzangaben
 
 ---
 
@@ -391,9 +343,9 @@ Datei Datei gültig 3 Zwecke: Versionsnummer des SDKV-- programms, mit der diese
 | 4239 | n | Scheinuntergruppe | M |  |  |
 | 9451 |  | Text für Scheinuntergruppe | m |  |  |
 
-3 Satz “kvx5” ist ein “Kann Satz”.
+2.7 Definition der Satzart: Scheinabgabe “kvx5” 8000 9408 5001 Satzart Abgabe von Früherkennungsdokumenten GNR Betriebsstättennummernkontingent von ... Betriebsstättennummernkontingent bis ... Liste aller Überweisungsscheine  Liste aller abzugebenden Behandlungsscheine zzgl. aller Überweisungsscheine  Satzart 3 Satz “kvx5” ist ein “Kann Satz”.
 
-2.7 Definition der Satzart: Scheinabgabe “kvx5” 8000 9408 5001 Satzart Abgabe von Früherkennungsdokumenten GNR Betriebsstättennummernkontingent von ... Betriebsstättennummernkontingent bis ... Liste aller Überweisungsscheine  Liste aller abzugebenden Behandlungsscheine zzgl. aller Überweisungsscheine  Satzart | **FK** | **Vorkommen** | **Bezeichnung** | **Feldart** | **Bedingung** | **Erläuterung** |
+| FK | Vorkommen | Bezeichnung | Feldart | Bedingung | Erläuterung |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzart | M |  | Satzart |
 | 9408 | 1 | Abgabe von Früherkennungsdokumenten | K |  |  |
@@ -420,7 +372,7 @@ Datei Datei gültig 3 Zwecke: Versionsnummer des SDKV-- programms, mit der diese
 
 **2.8 Definition der Satzart: Klammerung “kvx6”**
 
-| **FK** | **Vorkommen** | **Bezeichnung** | **Feldart** | **Bedingung** | **Erläuterung** |
+| FK | Vorkommen | Bezeichnung | Feldart | Bedingung | Erläuterung |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzart | M |  | Satzart Klammerung |
 | 9463 | 1 | KV klammert | M |  |  |
@@ -436,7 +388,7 @@ Datei Datei gültig 3 Zwecke: Versionsnummer des SDKV-- programms, mit der diese
 
 **2.9 Definition der Satzart: Abrechnungsart**
 
-| **FK** | **Vorkommen** | **Bezeichnung** | **Feldart** | **Bedingung** | **Erläuterung** |
+| FK | Vorkommen | Bezeichnung | Feldart | Bedingung | Erläuterung |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzart | M |  | Satzart |
 | 9470 | n | VKNR-Seriennummer von ... | M |  |  |
@@ -446,18 +398,15 @@ Datei Datei gültig 3 Zwecke: Versionsnummer des SDKV-- programms, mit der diese
 
 **2.10 Definition der**  **“kvx84**
 
-| **FK** | **Vorkommen** | **Bezeichnung** | **Feldart** | **Bedingung** | **Erläuterung** |
+| FK | Vorkommen | Bezeichnung | Feldart | Bedingung | Erläuterung |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzart | M |  | Satzart Freitext |
 | 9472 | n | Freitext | M |  |  |
 
 4 Satz “kvx8” ist ein Kann Satz, vgl. Kap. 5.9
 
-## Satzart: Kommentierung / Zusatzinformation
+## Satzart: Kommentierung / Zusatzinformation 2 3 3 ## “kvx7”
 
-## “kvx7”
-
-2 3 3
 
 ---
 
@@ -465,9 +414,7 @@ Datei Datei gültig 3 Zwecke: Versionsnummer des SDKV-- programms, mit der diese
 
 In der Feldtabelle sind die Länge und der Datentyp einzelner Felder definiert. Darüber hinaus  wird bei bestimmten Feldern auf Regeln verwiesen, in denen weitere Vorgaben über diese  Felder festgelegt sind. Jeder Eintrag in der Feldtabelle ist eindeutig einem Feld zugeordnet.  Anhand der Eintragungen in der Feldtabelle können Feldinhalte geprüft werden. Bei  weitergehenden Prüfungen wird auf andere Tabellen (z. B. Regeltabelle) zugegriffen.
 
-Zu jedem Feld wird in der Spalte *Typ* vereinbart, welcher Zeichenvorrat für den Feldinhalt
-
-verwendet werden kann. Folgende Typen werden unterschieden:
+Zu jedem Feld wird in der Spalte *Typ* vereinbart, welcher Zeichenvorrat für den Feldinhalt  verwendet werden kann. Folgende Typen werden unterschieden:
 
 n numerischer Zahlenwert
 
@@ -477,24 +424,15 @@ d numerische Datumsangaben im Format *TTMMJJJJ*, wobei
 
 *TT* = 01 - 31, *MM* = 01 - 12, *JJJJ* = 0001 – 9999
 
-In der Spalte *Länge des Feldinhaltes* wird festgelegt, aus wie vielen Zeichen (Bytes) ein
+In der Spalte *Länge des Feldinhaltes* wird festgelegt, aus wie vielen Zeichen (Bytes) ein  Feldinhalt bestehen darf. Dabei gibt ein Zahlenwert eine feste Länge an, wobei auch  alternative Längen durch die Angabe unterschiedlicher Zahlenwerte vereinbart werden  können. Durch das -Zeichen mit nachfolgendem Zahlenwert wird der Feldinhalt auf eine  maximale Länge beschränkt.
 
-Feldinhalt bestehen darf. Dabei gibt ein Zahlenwert eine feste Länge an, wobei auch  alternative Längen durch die Angabe unterschiedlicher Zahlenwerte vereinbart werden  können. Durch das -Zeichen mit nachfolgendem Zahlenwert wird der Feldinhalt auf eine
-
-maximale Länge beschränkt.
-
-Zum besseren Verständnis ist zu jedem Feld in der Spalte *Beispiel* ein möglicher Feldinhalt
-
-aufgeführt. Die einzelnen Beispiel-Inhalte stehen untereinander in keinem direkten
-
-Zusammenhang.
-
+Zum besseren Verständnis ist zu jedem Feld in der Spalte *Beispiel* ein möglicher Feldinhalt  aufgeführt. Die einzelnen Beispiel-Inhalte stehen untereinander in keinem direkten  Zusammenhang.
 
 ---
 
 **3.1 Feldtabelle KV-Spezifika-Stammdatei**
 
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| FK | Feldbezeichnung | Länge | Typ | Regel | Bedeutung der erlaubten Inhalte | Beispiel |
 |---|---|---|---|---|---|---|
 | 2018 | Kostenträgergruppe | 2 | n | 186 | 01 = Primärkasse AOK Allgemeine  02 = Primärkasse LKK Landwirtschaftliche  03 = Primärkasse IKK Innungskrankenkasse (IKK)  04 = Primärkasse BKK Betriebskrankenkasse  05 =  ( 06 = Primärkasse ehem. See  11 = Ersatzkasse VdEK Verband der Ersatzkassen  12 = Ersatzkasse ehem. AEV  30 = Sonstige Kostenträger BVF  35 = Sonstige Kostenträger AUS Ausländische  59 = Sonstige Kostenträger SHT Sozialhilfeträger  71 = Sonstige Kostenträger BGS  72 = Sonstige Kostenträger ZIV  73 = Sonstige Kostenträger PFJ Polizei (POL)/  75 = Sonstige Kostenträger BW Bundeswehr (BW)  76 = Sonstige Kostenträger GSA  77 = Sonstige Kostenträger MDK Medizinischer  81 = Sonstige Kostenträger PBA  82 = Sonstige Kostenträger PBD  84 = Sonstige Kostenträger DBM  85 = Sonstige Kostenträger DBD  86 = Sonstige Kostenträger JAS  87 = Sonstige Kostenträger EA  88 = Sonstige Kostenträger UV Träger der | 03 |
 | 4106 | Kostenträger- | 2 | n | 174 | 00 = Primärabrechnung  01 = Sozialversicherungsabkommen (SVA)  02 = Bundesversorgungsgesetz (BVG)  03 = Bundesentschädigungsgesetz (BEG)  04 = Grenzgänger (GG)  05 = Rheinschiffer (RHS)  06 = Sozialhilfeträger, ohne Asylstellen (SHT)  07 = Bundesvertriebenengesetz (BVFG)  08 = Asylstellen (AS)  09 = Schwangerschaftsabbrüche | 01 |
@@ -560,7 +498,6 @@ Zusammenhang.
 
 452 457 Ortskrankenkasse (AOK) Krankenkasse (LKK) (BKK) Primärkasse KBS Knappschaft Bahn See) (VdEK) Kostenträger (AUS) (SHT) / Asylstelle (AS) Bundesgrenzschutz (BGS) Feuerwehr (FW)/ Justizvollzugsanstalt (JVA) Gesundheitsämter(GSA) Dienst der Krankenkassen (MDK) Postbeamtenkrankenkasse, Mitglieder A (PBA Abrechnungsbereich (KTAB) 440 452 457 441 442 Postbeamtenkrankenkasse, Dienstunfall (PBD Jugendarbeitsschutzuntersuchung (JAS) gesetzlichen Unfallversicherer (UV)
 
-
 ---
 
 |  |  |  |  |  |  | 4122 |
@@ -569,7 +506,7 @@ Zusammenhang.
 | 28 = Anforderungsschein für |  | 30 = Belegärztliche Behandlung | 31 = Belegärztliche Mitbehandlung | 32 = Urlaubs- bzw. Krankheitsvertretung bei | 41 = Ärztlicher Notfalldienst  42 = Urlaubs-/bzw. Krankheitsvertretung  43 = Notfall  44 = Notfalldienst mit Taxi  45 = Notarzt-/Rettungswagen (Rettungsdienst)  46 = Zentraler Notfalldienst  00  5001  GNR | 5,6 |
 |  |  | a | 042 |  | 8000  Satzart | 4 |
 | a | 103 |  | kvx0 | 9103 | Erstellungsdatum  8  d |  |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 4122 | Abrechnungsgebiet | 2 | n | 131 | 00 = Kein besonderes Abrechnungsgebiet  01 = Dialyse-Arztkosten  02 = Dialyse-Sachkosten  03 = Methadon-Substitutionsbehandlung  04 = persönlich erbrachte Notfallleistungen durch   05 = Sonstige Notfallleistungen durch ermächtigte    06 = Fremde Zytologie  07 = Diabetes  08 = Umweltmedizin  09 = Rheuma  10 = Hirnleistungsstörungen  14 = Ambulantes Operieren  15 = AOP nach §115b | 01 |
 | 4239 | Scheinuntergruppe | 2 | n | 197 | 00 = Ambulante Behandlung    20 = Selbstausstellung  21 = Auftragsleistungen  23 = Konsiliaruntersuchung  24 = Mit-/Weiterbehandlung  26 = Stationäre Mitbehandlung, Vergütung nach   27 = Überweisungs-/Abrechnungsschein für  28 = Anforderungsschein für    30 = Belegärztliche Behandlung   31 = Belegärztliche Mitbehandlung  32 = Urlaubs- bzw. Krankheitsvertretung bei     41 = Ärztlicher Notfalldienst  42 = Urlaubs-/bzw. Krankheitsvertretung  43 = Notfall  44 = Notfalldienst mit Taxi  45 = Notarzt-/Rettungswagen (Rettungsdienst)  46 = Zentraler Notfalldienst | 00 |
 | 5001 | GNR | 5,6 | a | 042 |  |  |
@@ -577,7 +514,7 @@ Zusammenhang.
 | 9103 | Erstellungsdatum | 8 | d |  |  | 20092016 |
 | 9106 | verwendeter | 1 | n | 182 | 4 = ISO 8859-15 | 4 |
 | 9111 | Gültigkeitsquartal | 5 | n | 016 |  | 32016 |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 4122 | Abrechnungsgebiet | 2 | n | 131 | 00 = Kein besonderes Abrechnungsgebiet  01 = Dialyse-Arztkosten  02 = Dialyse-Sachkosten  03 = Methadon-Substitutionsbehandlung  04 = persönlich erbrachte Notfallleistungen durch   05 = Sonstige Notfallleistungen durch ermächtigte    06 = Fremde Zytologie  07 = Diabetes  08 = Umweltmedizin  09 = Rheuma  10 = Hirnleistungsstörungen  14 = Ambulantes Operieren  15 = AOP nach §115b  01  4239  Scheinuntergruppe  2  n | 197 |
 | 00 = Ambulante Behandlung |  | 20 = Selbstausstellung | 21 = Auftragsleistungen | 23 = Konsiliaruntersuchung  24 = Mit-/Weiterbehandlung | 26 = Stationäre Mitbehandlung, Vergütung nach   27 = Überweisungs-/Abrechnungsschein für  28 = Anforderungsschein für |  |
 | 30 = Belegärztliche Behandlung | 31 = Belegärztliche Mitbehandlung | 32 = Urlaubs- bzw. Krankheitsvertretung bei |  | 41 = Ärztlicher Notfalldienst | 42 = Urlaubs-/bzw. Krankheitsvertretung | 43 = Notfall |
@@ -587,12 +524,12 @@ Zusammenhang.
 |  |  | 20092016 | 9106 | verwendeter | 1 | n |
 | 182 | 4 = ISO 8859-15 | 4  9111 | 5 | n | 016 |  |
 | 32016 |  |  |  |  |  |  |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 4122 | Abrechnungsgebiet | 2 | n | 131 | 00 = Kein besonderes Abrechnungsgebiet  01 = Dialyse-Arztkosten  02 = Dialyse-Sachkosten  03 = Methadon-Substitutionsbehandlung  04 = persönlich erbrachte Notfallleistungen durch   05 = Sonstige Notfallleistungen durch ermächtigte    06 = Fremde Zytologie  07 = Diabetes  08 = Umweltmedizin  09 = Rheuma | 10 = Hirnleistungsstörungen |
 | 14 = Ambulantes Operieren | 15 = AOP nach §115b | 01 | 4239 | Scheinuntergruppe  2 | n  197  00 = Ambulante Behandlung    20 = Selbstausstellung  21 = Auftragsleistungen  23 = Konsiliaruntersuchung  24 = Mit-/Weiterbehandlung  26 = Stationäre Mitbehandlung, Vergütung nach   27 = Überweisungs-/Abrechnungsschein für  28 = Anforderungsschein für | 30 = Belegärztliche Behandlung |
 | 31 = Belegärztliche Mitbehandlung | 32 = Urlaubs- bzw. Krankheitsvertretung bei |  | 41 = Ärztlicher Notfalldienst | 42 = Urlaubs-/bzw. Krankheitsvertretung  43 = Notfall | 44 = Notfalldienst mit Taxi  45 = Notarzt-/Rettungswagen (Rettungsdienst)  46 = Zentraler Notfalldienst  00  5001  GNR  5,6  a | 042 |
 |  |  | 8000 | Satzart | 4  a | 103    kvx0 | 9103 |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 4122 | Abrechnungsgebiet | 2 | n | 131 | 00 = Kein besonderes Abrechnungsgebiet  01 = Dialyse-Arztkosten  02 = Dialyse-Sachkosten | 03 = Methadon-Substitutionsbehandlung |
 | 04 = persönlich erbrachte Notfallleistungen durch | 05 = Sonstige Notfallleistungen durch ermächtigte | 06 = Fremde Zytologie | 07 = Diabetes | 08 = Umweltmedizin  09 = Rheuma | 10 = Hirnleistungsstörungen  14 = Ambulantes Operieren  15 = AOP nach §115b  01 | 4239 |
 | Scheinuntergruppe | 2 | n | 197 | 00 = Ambulante Behandlung | 20 = Selbstausstellung  21 = Auftragsleistungen  23 = Konsiliaruntersuchung | 24 = Mit-/Weiterbehandlung |
@@ -601,7 +538,7 @@ Zusammenhang.
 |  | 8000 | Satzart  4 | 103 |  | kvx0 | 9103 |
 | Erstellungsdatum | 8 | d |  |  | 20092016 | 9106 |
 | verwendeter | 1 | n | 182 | 4 = ISO 8859-15 | 4 | 9111 |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 4122 | Abrechnungsgebiet | 2 | n | 131 | 00 = Kein besonderes Abrechnungsgebiet  01 = Dialyse-Arztkosten  02 = Dialyse-Sachkosten  03 = Methadon-Substitutionsbehandlung  04 = persönlich erbrachte Notfallleistungen durch   05 = Sonstige Notfallleistungen durch ermächtigte    06 = Fremde Zytologie  07 = Diabetes  08 = Umweltmedizin | 09 = Rheuma |
 | 10 = Hirnleistungsstörungen | 14 = Ambulantes Operieren | 15 = AOP nach §115b | 01 | 4239 | Scheinuntergruppe | 2 |
 | n | 197 | 00 = Ambulante Behandlung |  | 20 = Selbstausstellung | 21 = Auftragsleistungen | 23 = Konsiliaruntersuchung |
@@ -617,7 +554,7 @@ Zusammenhang.
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 4122 | Abrechnungsgebiet | 2 | n | 131  00 = Kein besonderes Abrechnungsgebiet | 01 = Dialyse-Arztkosten  02 = Dialyse-Sachkosten  03 = Methadon-Substitutionsbehandlung | 04 = persönlich erbrachte Notfallleistungen durch |
 | 05 = Sonstige Notfallleistungen durch ermächtigte | 06 = Fremde Zytologie | 07 = Diabetes | 08 = Umweltmedizin | 09 = Rheuma | 10 = Hirnleistungsstörungen  14 = Ambulantes Operieren | 15 = AOP nach §115b |
 | 01 | 4239 | Scheinuntergruppe | 2 | n | 197 | 00 = Ambulante Behandlung |
@@ -627,10 +564,7 @@ Zusammenhang.
 |  | a | 042 |  |  | 8000  Satzart | 4 |
 | a | 103 |  | kvx0 | 9103 | Erstellungsdatum  8 | d |
 
-* Version 3.56
-
 443 (Defaultwert)  ermächtigte Krankenhausärzte Krankenhausärzte 444 ambulanten Grundsätzen Laboratoriumsuntersuchungen als Laboratoriumsuntersuchungen bei Laborgemeinschaften Zeichensatz 452  belegärztlicher Behandlung
-
 
 ---
 
@@ -640,7 +574,7 @@ Zusammenhang.
 | 6 = SADT-Datenpaket | 1 | 9136 | erstes zulässiges | 5 | n  016    31998  9137  letztes zulässiges  5   n  016 | 41998 |
 | 9138 | separate Datenpakete | 1 | n | 456 | 525  1 = ADT-Datenpaket  3 = Kurärztliches Abrechnungs-Datenpaket | 6 = SADT-Datenpaket |
 | 1 | 9139 | abweichende | 2 | n | 166  20 = KV Westfalen-Lippe  20 | 9212 |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9113 | KV-Geltungsbereich | 2 | n | 206 | 01 = Schleswig-Holstein  02 = Hamburg  03 = Bremen  17 = Niedersachsen  20 = Westfalen-Lippe  38 = Nordrhein  46 = Hessen  51 = Rheinland-Pfalz  52 = Baden-Württemberg  71 = Bayern  72 = Berlin  73 = Saarland  78 = Mecklenburg-Vorpommern | 83 = Brandenburg |
 | 88 = Sachsen-Anhalt | 93 = Thüringen | 98 = Sachsen | 99 = Bundesknappschaft | 01 | 9135  kombinierte  1  n  456  525  1 = ADT-Datenpaket  3 = Kurärztliches Abrechnungs-Datenpaket  6 = SADT-Datenpaket  1  9136  erstes zulässiges  5  n  016    31998  9137  letztes zulässiges  5 | n |
 | 016 |  | 41998  9138 | 1 | n | 456 | 525 |
@@ -648,7 +582,7 @@ Zusammenhang.
 | n | 166 | 20 = KV Westfalen-Lippe | 20 | 9212 | Version der | ≤ |
 | a | 031 | SDKV1015.01 |  | 9219 | Version SDKV- | ≤ |
 | 15 |  | a |  |  |  | 9400 |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9113 | KV-Geltungsbereich | 2 | n | 206 | 01 = Schleswig-Holstein  02 = Hamburg  03 = Bremen  17 = Niedersachsen  20 = Westfalen-Lippe  38 = Nordrhein  46 = Hessen  51 = Rheinland-Pfalz  52 = Baden-Württemberg  71 = Bayern  72 = Berlin  73 = Saarland  78 = Mecklenburg-Vorpommern  83 = Brandenburg  88 = Sachsen-Anhalt  93 = Thüringen  98 = Sachsen  99 = Bundesknappschaft | 01 |
 | 9135 | kombinierte | 1 | n | 456  525 | 1 = ADT-Datenpaket  3 = Kurärztliches Abrechnungs-Datenpaket  6 = SADT-Datenpaket | 1 |
 | 9136 | erstes zulässiges | 5 | n | 016 |  | 31998 |
@@ -658,12 +592,12 @@ Zusammenhang.
 | 9212 | Version der | ≤ | a | 031 | SDKV1015.01 |  |
 | 9219 | Version SDKV- | ≤ 15 | a |  |  |  |
 | 9400 | Handhabung | 1 | n | 112 | 1 = Ein Eintrag einer Uhrzeit (FK 5006) zur ersten  2 = Ein Eintrag einer Uhrzeit (FK 5006) zur ersten   **Hinweis** | 1 |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9113 | KV-Geltungsbereich | 2 | n | 206 | 01 = Schleswig-Holstein  02 = Hamburg  03 = Bremen  17 = Niedersachsen  20 = Westfalen-Lippe  38 = Nordrhein  46 = Hessen  51 = Rheinland-Pfalz  52 = Baden-Württemberg  71 = Bayern | 72 = Berlin |
 | 73 = Saarland | 78 = Mecklenburg-Vorpommern | 83 = Brandenburg | 88 = Sachsen-Anhalt | 93 = Thüringen  98 = Sachsen | 99 = Bundesknappschaft  01  9135  kombinierte  1  n  456  525  1 = ADT-Datenpaket  3 = Kurärztliches Abrechnungs-Datenpaket  6 = SADT-Datenpaket  1 | 9136 |
 | erstes zulässiges | 5 | n | 016 | 31998 | 9137  letztes zulässiges  5   n  016    41998  9138  separate Datenpakete  1 | n |
 | 456 | 525 | 1 = ADT-Datenpaket | 3 = Kurärztliches Abrechnungs-Datenpaket | 6 = SADT-Datenpaket  1 | 9139  abweichende  2 | n |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9113 | KV-Geltungsbereich | 2 | n | 206 | 01 = Schleswig-Holstein  02 = Hamburg  03 = Bremen | 17 = Niedersachsen |
 | 20 = Westfalen-Lippe | 38 = Nordrhein | 46 = Hessen | 51 = Rheinland-Pfalz | 52 = Baden-Württemberg  71 = Bayern | 72 = Berlin  73 = Saarland  78 = Mecklenburg-Vorpommern  83 = Brandenburg | 88 = Sachsen-Anhalt |
 | 93 = Thüringen | 98 = Sachsen | 99 = Bundesknappschaft | 01 | 9135  kombinierte | 1  n  456 | 525 |
@@ -672,7 +606,7 @@ Zusammenhang.
 | 525 | 1 = ADT-Datenpaket | 3 = Kurärztliches Abrechnungs-Datenpaket  6 = SADT-Datenpaket | 9139 | abweichende | 2 | n |
 | 166 | 20 = KV Westfalen-Lippe | 20 | 9212 | Version der | ≤ | a |
 | 031 | SDKV1015.01 |  | 9219 | Version SDKV- | ≤ | 15 |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9113 | KV-Geltungsbereich | 2 | n | 206 | 01 = Schleswig-Holstein  02 = Hamburg  03 = Bremen  17 = Niedersachsen  20 = Westfalen-Lippe  38 = Nordrhein  46 = Hessen  51 = Rheinland-Pfalz  52 = Baden-Württemberg | 71 = Bayern |
 | 72 = Berlin | 73 = Saarland | 78 = Mecklenburg-Vorpommern | 83 = Brandenburg | 88 = Sachsen-Anhalt | 93 = Thüringen | 98 = Sachsen |
 | 99 = Bundesknappschaft | 01 | 9135 | kombinierte | 1 | n | 456 |
@@ -688,7 +622,7 @@ Zusammenhang.
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9113 | KV-Geltungsbereich | 2 | n | 206  01 = Schleswig-Holstein | 02 = Hamburg  03 = Bremen  17 = Niedersachsen | 20 = Westfalen-Lippe |
 | 38 = Nordrhein | 46 = Hessen | 51 = Rheinland-Pfalz | 52 = Baden-Württemberg | 71 = Bayern | 72 = Berlin  73 = Saarland | 78 = Mecklenburg-Vorpommern |
 | 83 = Brandenburg | 88 = Sachsen-Anhalt | 93 = Thüringen | 98 = Sachsen | 99 = Bundesknappschaft | 01 | 9135 |
@@ -708,7 +642,7 @@ Datenpakete einer KVDT-Datei Abgabequartal Abgabequartal  einer KVDT-Datei empfa
 | 11 = Ergänzungsuntersuchung | 12 = Verfolgte | 01 | 9403 | erforderliche | ≤ n  168  453  1 = Grundlistennummer Versorgungsamt  2 = Registriernummer  3 = Aktenzeichen der Entschädigungsbehörde  4 = Aktenzeichen der Kostenstelle  5 = Name des Auslands  6 = Personalnummer | 7 = Personenkennnummer |
 | 8 = Dienststelle | 9 = Schule/Universität/Kindergarten | 10 = Personalnummer der Dienststelle | 1 | 9404 | zusätzlich  1  n | 453 |
 | 526 | 1 = Gültigkeitszeitraum unter FK 4125 erforderlich | 4 = Bemerkung der Entschädigungsbehörde unter |  | 1 |  |  |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9401 | Handhabung | ≤ | n | 168 | 1 = Wegepauschale  2 = Wegepauschale bis 2 Kilometer, DKM ab 2  3 = DKM  4 = Angabe “Zone bei Besuchen” nur einmal je SA  5 =  6 = DKM, Ausnahme: bei “Notfallpatienten” (SA  7 = Wegepauschale, Ausnahme: ärztlicher  8 = DKM (lt. Wegegeldliste der KV), Ausnahme:   9 = Wegepauschale,   10 = KV-interne GNR unter FK 5001; Angabe der  2  9402  zusätzlich | 2 |
 | n | 149 | 453 | 01 = Beschädigter | 02 = Schwerbeschädigter | 03 = Angehöriger  04 = Hinterbliebener  05 = Pflegeperson  06 = Tauglichkeitsuntersuchung  07 = ärztl. Versorgung  08 = Bewerber  09 = Erstuntersuchung  10 = Nachuntersuchung  11 = Ergänzungsuntersuchung  12 = Verfolgte  01  9403  erforderliche  ≤ n  168  453  1 = Grundlistennummer Versorgungsamt  2 = Registriernummer  3 = Aktenzeichen der Entschädigungsbehörde | 4 = Aktenzeichen der Kostenstelle |
 | 5 = Name des Auslands | 6 = Personalnummer | 7 = Personenkennnummer  8 = Dienststelle | 10 = Personalnummer der Dienststelle | 1 | 9404 | zusätzlich |
@@ -716,7 +650,7 @@ Datenpakete einer KVDT-Datei Abgabequartal Abgabequartal  einer KVDT-Datei empfa
 | 1 |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9401 | Handhabung | ≤ | n | 168 | 1 = Wegepauschale  2 = Wegepauschale bis 2 Kilometer, DKM ab 2  3 = DKM  4 = Angabe “Zone bei Besuchen” nur einmal je SA  5 =  6 = DKM, Ausnahme: bei “Notfallpatienten” (SA  7 = Wegepauschale, Ausnahme: ärztlicher  8 = DKM (lt. Wegegeldliste der KV), Ausnahme:   9 = Wegepauschale,   10 = KV-interne GNR unter FK 5001; Angabe der  2  9402  zusätzlich  2  n  149  453  01 = Beschädigter | 02 = Schwerbeschädigter |
 | 03 = Angehöriger | 04 = Hinterbliebener | 05 = Pflegeperson | 06 = Tauglichkeitsuntersuchung | 07 = ärztl. Versorgung  08 = Bewerber | 09 = Erstuntersuchung  10 = Nachuntersuchung  11 = Ergänzungsuntersuchung | 12 = Verfolgte |
 | 01 | 9403 | erforderliche | ≤ | n | 168 | 453 |
@@ -726,12 +660,12 @@ Datenpakete einer KVDT-Datei Abgabequartal Abgabequartal  einer KVDT-Datei empfa
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9401 | Handhabung | ≤ | n | 168 | 1 = Wegepauschale  2 = Wegepauschale bis 2 Kilometer, DKM ab 2  3 = DKM  4 = Angabe “Zone bei Besuchen” nur einmal je SA  5 =  6 = DKM, Ausnahme: bei “Notfallpatienten” (SA  7 = Wegepauschale, Ausnahme: ärztlicher  8 = DKM (lt. Wegegeldliste der KV), Ausnahme:   9 = Wegepauschale,   10 = KV-interne GNR unter FK 5001; Angabe der | 2 |
 | 9402 | zusätzlich | 2 | n | 149  453 | 01 = Beschädigter  02 = Schwerbeschädigter  03 = Angehöriger  04 = Hinterbliebener  05 = Pflegeperson  06 = Tauglichkeitsuntersuchung  07 = ärztl. Versorgung  08 = Bewerber  09 = Erstuntersuchung  10 = Nachuntersuchung  11 = Ergänzungsuntersuchung  12 = Verfolgte | 01 |
 | 9403 | erforderliche | ≤ | n | 168  453 | 1 = Grundlistennummer Versorgungsamt  2 = Registriernummer  3 = Aktenzeichen der Entschädigungsbehörde  4 = Aktenzeichen der Kostenstelle  5 = Name des Auslands  6 = Personalnummer  7 = Personenkennnummer  8 = Dienststelle  9 = Schule/Universität/Kindergarten  10 = Personalnummer der Dienststelle | 1 |
 | 9404 | zusätzlich | 1 | n | 453  526 | 1 = Gültigkeitszeitraum unter FK 4125 erforderlich  4 = Bemerkung der Entschädigungsbehörde unter | 1 |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9401 | Handhabung | ≤ | n | 168 | 1 = Wegepauschale  2 = Wegepauschale bis 2 Kilometer, DKM ab 2  3 = DKM | 4 = Angabe “Zone bei Besuchen” nur einmal je SA |
 | 5 = | 6 = DKM, Ausnahme: bei “Notfallpatienten” (SA | 7 = Wegepauschale, Ausnahme: ärztlicher | 8 = DKM (lt. Wegegeldliste der KV), Ausnahme: | 9 = Wegepauschale,   10 = KV-interne GNR unter FK 5001; Angabe der | 2  9402  zusätzlich  2 | n |
 | 149 | 453 | 01 = Beschädigter | 02 = Schwerbeschädigter | 03 = Angehöriger  04 = Hinterbliebener | 05 = Pflegeperson  06 = Tauglichkeitsuntersuchung  07 = ärztl. Versorgung | 08 = Bewerber |
@@ -740,7 +674,7 @@ Datenpakete einer KVDT-Datei Abgabequartal Abgabequartal  einer KVDT-Datei empfa
 | zusätzlich | 1 | n  453 | 1 = Gültigkeitszeitraum unter FK 4125 erforderlich | 4 = Bemerkung der Entschädigungsbehörde unter |  | 1 |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9401 | Handhabung | ≤ | n | 168 | 1 = Wegepauschale  2 = Wegepauschale bis 2 Kilometer, DKM ab 2  3 = DKM  4 = Angabe “Zone bei Besuchen” nur einmal je SA  5 =  6 = DKM, Ausnahme: bei “Notfallpatienten” (SA  7 = Wegepauschale, Ausnahme: ärztlicher  8 = DKM (lt. Wegegeldliste der KV), Ausnahme:   9 = Wegepauschale, | 10 = KV-interne GNR unter FK 5001; Angabe der |
 | 2 | 9402 | zusätzlich | 2 | n | 149 | 453 |
 | 01 = Beschädigter | 02 = Schwerbeschädigter | 03 = Angehöriger | 04 = Hinterbliebener | 05 = Pflegeperson | 06 = Tauglichkeitsuntersuchung | 07 = ärztl. Versorgung |
@@ -756,7 +690,7 @@ Datenpakete einer KVDT-Datei Abgabequartal Abgabequartal  einer KVDT-Datei empfa
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9401 | Handhabung | ≤ | n | 168  1 = Wegepauschale | 2 = Wegepauschale bis 2 Kilometer, DKM ab 2  3 = DKM  4 = Angabe “Zone bei Besuchen” nur einmal je SA | 5 = |
 | 6 = DKM, Ausnahme: bei “Notfallpatienten” (SA | 7 = Wegepauschale, Ausnahme: ärztlicher | 8 = DKM (lt. Wegegeldliste der KV), Ausnahme: | 9 = Wegepauschale, | 10 = KV-interne GNR unter FK 5001; Angabe der | 2  9402 | zusätzlich |
 | 2 | n | 149 | 453 | 01 = Beschädigter | 02 = Schwerbeschädigter | 03 = Angehöriger |
@@ -768,7 +702,6 @@ Datenpakete einer KVDT-Datei Abgabequartal Abgabequartal  einer KVDT-Datei empfa
 
 “Übertragung Doppelkilometer bzw. Wegepauschale nach E-GO” bei Ersatzkassen erforderliche, zulässige Werte in Feld “4123” (Personenkreis/ Untersuchungskate- gorie) Zusatzangabe in Feld “4124” (SKT- Zusatzangaben)  Abrechnungsinformati on SKT “010x”, Ausnahme: falls bei einzelnen Besuchen der Besuchsort und somit die Entfernung von dieser Zonenangabe abweicht, so ist die zutreffende Wegepauschale hinter dem entsprechenden Besuch zu erfassen Keine  Angabe, sondern Vorlage einer “handschriftlichen” Wegegeldliste bei der KV  8000 = 0104), dann auch Wegepauschale zulässig Notfalldienst, dann tatsächlich gefahrene DKM ärztlicher Notfalldienst, dann tatsächlich gefahrene DKM Ausnahme: im organisierten Notfalldienst  ab einer Entfernung von 0,5 Kilometern Angabe von  DKM. Anmerkung: der organisierte Notfalldienst kann bei den Satzarten 0101, 0102 und 0104 abgerechnet werden. Doppelkilometer (DKM) als Multiplikator unter FK 5005. (Die Feldkennung 5008 wird im Zusammenhang mit DKM hier nicht verwendet!) FK 4126 erforderlich
 
-
 ---
 
 |  |  |  |  |  |  | 9405 |
@@ -777,7 +710,7 @@ Datenpakete einer KVDT-Datei Abgabequartal Abgabequartal  einer KVDT-Datei empfa
 | 1 | n | 101 |  | 1 | 9409  Handhabung  ≤ n  168  1 = Wegepauschale  2 = Wegepauschale bis 2 Kilometer, DKM ab 2  3 = DKM  4 = Angabe “Zone bei Besuchen” nur einmal je SA  5 = | 6 = DKM, |
 | 7 = Wegepauschale, | 8 = DKM (lt. Wegegeldliste der KV), | 9 = Wegepauschale, | 10 = KV-interne GNR unter FK 5001; Angabe der | 2 | 9410  Pseudo-GNR  5,6 |  |
 |  | a | 042 |  |  | 9411  Erläuterung   ≤ | a |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9405 | Handhabung | 1 | n | 112 | 1 = Enthält der Behandlungstag (FK 5000) eine  2 = Enthält der Behandlungstag (FK 5000) eine **Hinweis** 2  9406  nicht zulässige  4  n  198  453  0101 = Ambulante Behandlung  0102 = Überweisung  0103 = Belegärztliche Behandlung | 0104 = Notfalldienst / Vertretung / Notfall |
 | 0101 | 9407 | nicht zulässige | 1 | n | 116  453  1 = Mitglied  3 = Familienversicherter  5 = Rentner  3  9408  Abgabe von  1  n  101    1  9409  Handhabung  ≤ n  168  1 = Wegepauschale  2 = Wegepauschale bis 2 Kilometer, DKM ab 2 | 3 = DKM |
 | 4 = Angabe “Zone bei Besuchen” nur einmal je SA | 5 = | 6 = DKM,  7 = Wegepauschale, | 9 = Wegepauschale, | 10 = KV-interne GNR unter FK 5001; Angabe der | 2 | 9410 |
@@ -785,7 +718,7 @@ Datenpakete einer KVDT-Datei Abgabequartal Abgabequartal  einer KVDT-Datei empfa
 |  | 9411 | Erläuterung | ≤ | a |  |  |
 |  | 9451 | Text für | 3 | a |  |  |
 | amb |  |  |  |  |  |  |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9405 | Handhabung | 1 | n | 112 | 1 = Enthält der Behandlungstag (FK 5000) eine  2 = Enthält der Behandlungstag (FK 5000) eine **Hinweis** 2  9406  nicht zulässige  4  n  198  453  0101 = Ambulante Behandlung  0102 = Überweisung  0103 = Belegärztliche Behandlung  0104 = Notfalldienst / Vertretung / Notfall  0101  9407  nicht zulässige  1 | n |
 | 116 | 453 | 1 = Mitglied | 3 = Familienversicherter | 5 = Rentner  3 | 9408  Abgabe von  1 | n |
 | 101 |  | 1 | 9409 | Handhabung | ≤ | n |
@@ -795,12 +728,12 @@ Datenpakete einer KVDT-Datei Abgabequartal Abgabequartal  einer KVDT-Datei empfa
 | a |  |  |  | 9451 | Text für | 3 |
 | a |  | amb |  |  |  |  |
 |  |  |  |  |  |  |  |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9405 | Handhabung | 1 | n | 112 | 1 = Enthält der Behandlungstag (FK 5000) eine  2 = Enthält der Behandlungstag (FK 5000) eine **Hinweis** 2  9406  nicht zulässige  4  n  198  453 | 0101 = Ambulante Behandlung |
 | 0102 = Überweisung | 0103 = Belegärztliche Behandlung | 0104 = Notfalldienst / Vertretung / Notfall | 0101 | 9407  nicht zulässige | 1  n  116  453  1 = Mitglied  3 = Familienversicherter  5 = Rentner  3  9408  Abgabe von  1  n | 101 |
 |  | 1 | 9409 | Handhabung | ≤ n | 168  1 = Wegepauschale  2 = Wegepauschale bis 2 Kilometer, DKM ab 2  3 = DKM  4 = Angabe “Zone bei Besuchen” nur einmal je SA  5 =  6 = DKM,  7 = Wegepauschale,  8 = DKM (lt. Wegegeldliste der KV),  9 = Wegepauschale, | 10 = KV-interne GNR unter FK 5001; Angabe der |
 | 2 | 9410 | Pseudo-GNR | 5,6 |  | a  042 |  |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9405 | Handhabung | 1 | n | 112 | 1 = Enthält der Behandlungstag (FK 5000) eine  2 = Enthält der Behandlungstag (FK 5000) eine **Hinweis** | 2 |
 | 9406 | nicht zulässige | 4 | n | 198  453 | 0101 = Ambulante Behandlung  0102 = Überweisung  0103 = Belegärztliche Behandlung  0104 = Notfalldienst / Vertretung / Notfall | 0101 |
 | 9407 | nicht zulässige | 1 | n | 116  453 | 1 = Mitglied  3 = Familienversicherter  5 = Rentner | 3 |
@@ -809,7 +742,7 @@ Datenpakete einer KVDT-Datei Abgabequartal Abgabequartal  einer KVDT-Datei empfa
 | 9410 | Pseudo-GNR | 5,6 | a | 042 |  |  |
 | 9411 | Erläuterung | ≤ | a |  |  |  |
 | 9451 | Text für | 3 | a |  |  | amb |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9405 | Handhabung | 1 | n | 112 | 1 = Enthält der Behandlungstag (FK 5000) eine  2 = Enthält der Behandlungstag (FK 5000) eine **Hinweis** 2  9406  nicht zulässige  4  n  198 | 453 |
 | 0101 = Ambulante Behandlung | 0102 = Überweisung | 0103 = Belegärztliche Behandlung | 0104 = Notfalldienst / Vertretung / Notfall | 0101 | 9407 | nicht zulässige |
 | 1 | n | 116 | 453 | 1 = Mitglied | 3 = Familienversicherter | 5 = Rentner |
@@ -825,7 +758,7 @@ Datenpakete einer KVDT-Datei Abgabequartal Abgabequartal  einer KVDT-Datei empfa
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9405 | Handhabung | 1 | n | 112  1 = Enthält der Behandlungstag (FK 5000) eine | 2 = Enthält der Behandlungstag (FK 5000) eine **Hinweis** 2 | 9406 |
 | nicht zulässige | 4 | n | 198 | 453 | 0101 = Ambulante Behandlung  0102 = Überweisung | 0103 = Belegärztliche Behandlung |
 | 0104 = Notfalldienst / Vertretung / Notfall | 0101 | 9407 | nicht zulässige | 1 | n | 116 |
@@ -837,7 +770,6 @@ Datenpakete einer KVDT-Datei Abgabequartal Abgabequartal  einer KVDT-Datei empfa
 
 "Übertragung Pseudo- GNR" Satzarten “010x” Versichertenarten in Feld “3108” Früherkennungsdoku menten “Übertragung Doppelkilometer bzw. Wegepauschale nach BMĔ bei Primärkassen  60 zur Pseudo-GNR Scheinuntergruppe GNR (FK 5001), muss  dem Feld “Sachkosten/ Materialkosten in Cent” (FK 5012) eine Pseudo- GNR für Kosten vorangehen. GNR (FK 5001), muss  dem Feld “Sachkosten/ Materialkosten in Cent” (FK 5012) keine Pseudo-GNR für Kosten vorangehen. : Darüber hinaus gilt: Enthält der Behandlungstag (FK 5000) keine GNR (FK 5001), so muss  dem Feld “Sachkosten/Materialkosten in Cent” (FK 5012) die Pseudo-GNR “88999” vorangehen, wenn nicht eine abweichende Regelung zur Pseudo-GNR unter den Feldkennungen 9410/9411 definiert ist. (vgl. auch P2-610 (2) a, Anforderungskatalog KVDT) “010x”, Ausnahme : falls bei einzelnen Besuchen der Besuchsort und somit die Entfernung von dieser Zonenangabe abweicht, so ist die zutreffende Wegepauschale hinter dem entsprechenden Besuch zu erfassen Keine  Angabe, sondern Vorlage einer “handschriftlichen” Wegegeldliste bei der KV  Ausnahme : bei “Notfallpatienten” (SA 8000 = 0104), dann auch Wegepauschale Ausnahme : ärztlicher Notfalldienst, dann tatsächlich gefahrene DKM Ausnahme ärztlicher Notfalldienst, dann tatsächlich gefahrene DKM Ausnahme: im organisierten Notfalldienst  ab einer Entfernung von 0,5 Kilometern Angabe von  DKM. Anmerkung: der organisierte Notfalldienst kann bei den Satzarten 0101, 0102 und 0104 abgerechnet werden. Doppelkilometer (DKM) als Multiplikator unter FK 5005. (Die Feldkennung 5008 wird im Zusammenhang mit DKM hier nicht verwendet!)
 
-
 ---
 
 |  |  |  |  |  |  | 9452 |
@@ -846,7 +778,7 @@ Datenpakete einer KVDT-Datei Abgabequartal Abgabequartal  einer KVDT-Datei empfa
 | n |  |  | 0 | 9456 | Wert des  2  n      00  9457  Wert der  1  n | 147 |
 | 0 = Gehört zur führenden Scheingruppe | 1 = Gehört zur nachgestellten Scheingruppe | 0 | 9458 | Festlegung der | 1  n  106 | 445 |
 | 1 = LQ_VQAZ | 2 = VQAZ_LQ | 3 = LQ_VQZA= VQZA_LQ |  | wobei | LQ = Laufendes Quartal  VQ = Vorquartal  ZA = Abfallend | AZ = Aufsteigend |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9452 | Festlegung der | 1 | n | 167 | 1 = KTAB  2 = AbrA  3 = GebO  4 = AbrG  5 = VKNR  6 = Status  7 = Name  8 = Quartal  9 = Scheinuntergruppe  1  9453  Wert der KTAB in  2 | n |
 |  |  | 00 | 9454 | Wert der | 1  n      1  9455  Wert der  1  n      0  9456  Wert des  2  n      00  9457 | Wert der |
 | 1 | n | 147  0 = Gehört zur führenden Scheingruppe | 0 | 9458 | Festlegung der | 1 |
@@ -854,7 +786,7 @@ Datenpakete einer KVDT-Datei Abgabequartal Abgabequartal  einer KVDT-Datei empfa
 | wobei | LQ = Laufendes Quartal | VQ = Vorquartal | ZA = Abfallend | AZ = Aufsteigend | 1 | 9459 |
 | Fallzählung | ≤ | n |  |  | 2 | 9460 |
 | Betriebsstättennumm | 9 | n |  |  |  | 9461 |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9452 | Festlegung der | 1 | n | 167 | 1 = KTAB  2 = AbrA  3 = GebO  4 = AbrG  5 = VKNR  6 = Status  7 = Name  8 = Quartal  9 = Scheinuntergruppe  1  9453  Wert der KTAB in  2  n      00  9454 | Wert der |
 | 1 | n |  |  | 1  9455 | Wert der  1  n |  |
 |  | 0 | 9456 | Wert des | 2 | n |  |
@@ -864,12 +796,12 @@ Datenpakete einer KVDT-Datei Abgabequartal Abgabequartal  einer KVDT-Datei empfa
 | AZ = Aufsteigend | 1 | 9459 | Fallzählung | ≤ | n |  |
 |  | 2 | 9460  Betriebsstättennumm | n |  |  |  |
 | 9461 | Betriebsstättennumm | 9 | n |  | 9462  Scheinabgabe | 1 |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9452 | Festlegung der | 1 | n | 167 | 1 = KTAB  2 = AbrA  3 = GebO  4 = AbrG  5 = VKNR  6 = Status  7 = Name  8 = Quartal  9 = Scheinuntergruppe  1 | 9453 |
 | Wert der KTAB in | 2 | n |  | 00 | 9454  Wert der  1  n      1  9455  Wert der  1  n |  |
 | 0 | 9456 | Wert des | 2 | n | 00  9457  Wert der  1  n   147  0 = Gehört zur führenden Scheingruppe  1 = Gehört zur nachgestellten Scheingruppe  0 | 9458 |
 | Festlegung der | 1 | n | 106 | 445  1 = LQ_VQAZ | 2 = VQAZ_LQ  3 = LQ_VQZA= VQZA_LQ | wobei |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9452 | Festlegung der | 1 | n | 167 | 1 = KTAB  2 = AbrA  3 = GebO | 4 = AbrG |
 | 5 = VKNR | 6 = Status | 7 = Name | 8 = Quartal | 9 = Scheinuntergruppe  1 | 9453  Wert der KTAB in  2  n |  |
 |  | 00 | 9454 | Wert der | 1  n | 1 | 9455 |
@@ -878,7 +810,7 @@ Datenpakete einer KVDT-Datei Abgabequartal Abgabequartal  einer KVDT-Datei empfa
 | 1 | n | 106  445 | 2 = VQAZ_LQ | 3 = LQ_VQZA= VQZA_LQ |  | wobei |
 | LQ = Laufendes Quartal | VQ = Vorquartal | ZA = Abfallend | AZ = Aufsteigend | 1 | 9459 | Fallzählung |
 | ≤ | n |  |  | 2 | 9460 | Betriebsstättennumm |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9452 | Festlegung der | 1 | n | 167 | 1 = KTAB  2 = AbrA  3 = GebO  4 = AbrG  5 = VKNR  6 = Status  7 = Name  8 = Quartal  9 = Scheinuntergruppe | 1 |
 | 9453 | Wert der KTAB in | 2 | n |  |  | 00 |
 | 9454 | Wert der | 1 | n |  |  | 1 |
@@ -894,7 +826,7 @@ Datenpakete einer KVDT-Datei Abgabequartal Abgabequartal  einer KVDT-Datei empfa
 | 9464 | Klammergruppe | 1 | a |  |  | a |
 | 9465 | Reihenfolge innerhalb | 1 | a |  | 0 = “Schwerpunktschein” ist führend | 1 |
 | 9467 | Status trennt | 1 | n | 147  458 | 0 = nein  1 = ja | 1 |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9452 | Festlegung der | 1 | n | 167  1 = KTAB | 2 = AbrA  3 = GebO  4 = AbrG | 5 = VKNR |
 | 6 = Status | 7 = Name | 8 = Quartal | 9 = Scheinuntergruppe | 1 | 9453  Wert der KTAB in | 2 |
 | n |  |  | 00 | 9454 | Wert der | 1 |
@@ -906,7 +838,6 @@ Datenpakete einer KVDT-Datei Abgabequartal Abgabequartal  einer KVDT-Datei empfa
 
 Sortierkriterien Sortierung Abrechnungsart im Rahmen der Sortierung Gebührenordnung im Rahmen der Sortierung Abrechnungsgebietes im Rahmen der Sortierung Scheinuntergruppe im Rahmen der Sortierung  Quartalsreihenfolge ernkontingent von ... ernkontingent bis ... der Klammergruppe eingelesen wurde bei defekter Versichertenkarte (Ersatzverfahren) bei manueller Übernahme der Daten von einem Überweisungsschein, bei Kostenträger, die keine Versichertenkarte ausgeben. Alle anderen Werte bezeichnen die Reihenfolge in der Klammerung.
 
-
 ---
 
 |  |  |  |  |  |  | 9468 |
@@ -915,7 +846,7 @@ Sortierkriterien Sortierung Abrechnungsart im Rahmen der Sortierung Gebührenord
 | 9472 | Freitext | ≤ | 60 |  | a        9473  Listensteuerung 1:  1  n  147  0 = nein | 1 = ja |
 |  | 9474 | Listensteuerung 2: | 1 | n | 147  0 = nein  1 = ja |  |
 | 9480 | Trenne | 1 | n | 147 | 0 = nein  1 = ja |  |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9468 | Status geklammerter | 1 | n | 107 | 458  0 = Status des führenden Scheins  1 = Status des ersten Scheins im Quartal  2 = Status des letzten Scheins im Quartal 2  9469  Trenne  1  n  147  0 = nein  1 = ja  1 | 9470 |
 | VKNR-Seriennummer | 3 | n |  |  | 700  9471  VKNR-Seriennummer  3  n      799  9472  Freitext  ≤ 60  a        9473  Listensteuerung 1:  1 | n |
 | 147 | 0 = nein | 1 = ja | Listensteuerung 2: | 1 | n | 147 |
@@ -923,7 +854,7 @@ Sortierkriterien Sortierung Abrechnungsart im Rahmen der Sortierung Gebührenord
 | 147 | 0 = nein | 1 = ja |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9468 | Status geklammerter | 1 | n | 107 | 458  0 = Status des führenden Scheins  1 = Status des ersten Scheins im Quartal  2 = Status des letzten Scheins im Quartal 2  9469  Trenne  1  n  147  0 = nein  1 = ja  1  9470  VKNR-Seriennummer  3  n |  |
 | 700 | 9471 | VKNR-Seriennummer | 3 | n | 799  9472 | Freitext |
 | ≤ | 60 |  | a |  |  |  |
@@ -933,12 +864,12 @@ Sortierkriterien Sortierung Abrechnungsart im Rahmen der Sortierung Gebührenord
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9468 | Status geklammerter | 1 | n | 107 | 458  0 = Status des führenden Scheins  1 = Status des ersten Scheins im Quartal  2 = Status des letzten Scheins im Quartal 2  9469  Trenne  1  n  147 | 0 = nein |
 | 1 = ja | 1 | 9470 | VKNR-Seriennummer | 3  n | 700  9471  VKNR-Seriennummer  3  n      799  9472  Freitext | ≤ |
 | 60 |  | a |  |  | 9473  Listensteuerung 1:  1  n  147  0 = nein  1 = ja    9474  Listensteuerung 2: | 1 |
 | n | 147 | 0 = nein | 1 = ja | 9480 | Trenne  1  n | 147 |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9468 | Status geklammerter | 1 | n | 107 | 458  0 = Status des führenden Scheins  1 = Status des ersten Scheins im Quartal | 2 = Status des letzten Scheins im Quartal |
 | 2 | 9469 | Trenne | 1 | n  147 | 0 = nein  1 = ja  1  9470 | VKNR-Seriennummer |
 | 3 | n |  |  | 700  9471 | VKNR-Seriennummer  3  n |  |
@@ -947,7 +878,7 @@ Sortierkriterien Sortierung Abrechnungsart im Rahmen der Sortierung Gebührenord
 | 147 | 0 = nein | 1 = ja | Trenne | 1 | n | 147 |
 | 0 = nein | 1 = ja |  |  |  |  |  |
 |  |  |  |  |  |  |  |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9468 | Status geklammerter | 1 | n | 107 | 458  0 = Status des führenden Scheins  1 = Status des ersten Scheins im Quartal  2 = Status des letzten Scheins im Quartal 2  9469  Trenne  1  n | 147 |
 | 0 = nein | 1 = ja | 1 | 9470 | VKNR-Seriennummer | 3 | n |
 |  |  | 700 | 9471 | VKNR-Seriennummer | 3 | n |
@@ -963,7 +894,7 @@ Sortierkriterien Sortierung Abrechnungsart im Rahmen der Sortierung Gebührenord
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
-| **FK** | **Feldbezeichnung** | **Länge  Typ** |  | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
+| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **Bedeutung der erlaubten Inhalte** | **Beispiel** |
 | 9468 | Status geklammerter | 1 | n | 107  458 | 0 = Status des führenden Scheins  1 = Status des ersten Scheins im Quartal  2 = Status des letzten Scheins im Quartal | 2 |
 | 9469 | Trenne | 1 | n | 147 | 0 = nein  1 = ja | 1 |
 | 9470 | VKNR-Seriennummer | 3 | n |  |  | 700 |
@@ -979,7 +910,7 @@ Scheine Überweisungsärzte von ... bis ... Liste aller Überweisungsscheine Lis
 
 **4 Regeltabelle**
 
-| **Regel-** | **Kategorie** | **Prüfung** | **Erläuterung** |
+| Regel- | Kategorie | Prüfung | Erläuterung |
 |---|---|---|---|
 | 016 | Format | QJJJJ | Q = Quartal, JJJJ = Jahr |
 | 031 | Format | [a]aaaMMJJ.nn | [a]aaa = Datenpaketkürzel, MM = |
@@ -1073,40 +1004,30 @@ nummer Reihenfolge der Scheinuntergruppen festgelegt werden.  Quartalsordnung fe
 
 ## 5.1 Erläuterung zur Satzart “kvx0”
 
-Eine KVDT-Datei kann aus maximal drei Datenpaketen (ADT-, KADT-, SADT-Datenpaket)  bestehen. Jede Kassenärztliche Vereinigung definiert über die Felder “9135” (kombinierte  Datenpakete einer KVDT--Datei) bzw. “9138” (separate Datenpakete einer KVDT Datei) ihre
-
-zulässigen Datenpaket-Kombinationen bzw. Datenpakete:
+Eine KVDT-Datei kann aus maximal drei Datenpaketen (ADT-, KADT-, SADT-Datenpaket)  bestehen. Jede Kassenärztliche Vereinigung definiert über die Felder “9135” (kombinierte  Datenpakete einer KVDT--Datei) bzw. “9138” (separate Datenpakete einer KVDT Datei) ihre  zulässigen Datenpaket-Kombinationen bzw. Datenpakete:
 
 -  Einträge in Feld “9135” legen fest, ob diese Datenpakete als eine KVDT-Datei übertragen  werden müssen,
-
 -  Einträge in Feld “9138” legen fest, ob diese Datenpakete als separate KVDT-Datei  übertragen werden müssen.
 
 Erlaubte Inhalte der Felder “9135”/”9138” sind 1 (= ADT-Datenpaket), 3 (= Kurärztliches  Abrechnungs-Datenpaket) und 6 (= SADT-Datenpaket).
 
-Die zugelassenen Datenpakete sind innerhalb einer KVDT-Datei in folgender Reihenfolge  anzuordnen: - 1. ADT- Datenpaket
+Die zugelassenen Datenpakete sind innerhalb einer KVDT-Datei in folgender Reihenfolge  anzuordnen:
 
-- 2. KADT-Datenpaket
-
-- 3. SADT-Datenpaket
+1. ADT- Datenpaket
+2. KADT-Datenpaket
+3. SADT-Datenpaket
 
 Die Felder “9136” (erstes zulässiges Abgabequartal) und “9137” (letztes zulässiges  Abgabequartal) dienen jeweils zur Übertragung des ersten bzw. letzten zulässigen Quartals,  ab dem bzw. bis zu dem ein Datenpaket in einer Kassenärztlichen Vereinigung “abgegeben”  werden kann.
 
 Besonderheit KADT-Datenpaket
 
-Bestimmungsort der kurärztlichen Abrechnung ist die kurärztliche Abrechnungsstelle der KV  Westfalen--Lippe, d.h. das KADT Datenpaket wird in der Regel von allen Kurärzten
-
-Deutschlands direkt als separate KVDT--Datei zur KV Westfalen Lippe gesandt. In diesem
-
-Fall ist ein Eintrag “20” (= KV Westfalen-Lippe) in Feld “9139” (abweichende empfangende  KV) notwendig.
+Bestimmungsort der kurärztlichen Abrechnung ist die kurärztliche Abrechnungsstelle der KV  Westfalen--Lippe, d.h. das KADT Datenpaket wird in der Regel von allen Kurärzten  Deutschlands direkt als separate KVDT--Datei zur KV Westfalen Lippe gesandt. In diesem  Fall ist ein Eintrag “20” (= KV Westfalen-Lippe) in Feld “9139” (abweichende empfangende  KV) notwendig.
 
 Falls eine Kassenärztliche Vereinigung die Weiterleitung des KADT-Datenpakets zur  kurärztlichen Abrechnungsstelle der KV Westfalen Lippe anbietet, darf das Feld “9139” nicht  übertragen werden.
 
 Gültigkeitsdatum (FK 9111)
 
-Die im aktuellen Quartal erstellte und ausgelieferte Version der KV--Spezifika Stammdatei gilt
-
-für den Einsatz ab dem Folgequartal und muss direkt zu Beginn des Folgequartals eingesetzt  werden. Das Gültigkeitsdatum (FK 9111) sollte also größer sein als das Quartal des  Erstellungsdatums (FK 9103).
-
+Die im aktuellen Quartal erstellte und ausgelieferte Version der KV--Spezifika Stammdatei gilt  für den Einsatz ab dem Folgequartal und muss direkt zu Beginn des Folgequartals eingesetzt  werden. Das Gültigkeitsdatum (FK 9111) sollte also größer sein als das Quartal des  Erstellungsdatums (FK 9103).
 
 ---
 
@@ -1114,14 +1035,14 @@ für den Einsatz ab dem Folgequartal und muss direkt zu Beginn des Folgequartals
 
 Beispielhafter Satz “kvx0” der KV Niedersachsen:
 
-| **Länge** | **FK** | **Feldinhalt** | **Feldbezeichnung** | **Bedeutung des Feldinhalts** |
+| Länge | FK | Feldinhalt | Feldbezeichnung | Bedeutung des Feldinhalts |
 |---|---|---|---|---|
 | 013 | 8000 | kvx0 | Satzart | SDKV-Headersatz |
 | 017 | 9103 | 17102015 | Erstellungsdatum |  |
 | 010 | 9106 | 4 | verwendeter Zeichensatz | ISO 8859-15 |
 | 014 | 9111 | 42015 | Gültigkeitsquartal | 4. Quartal 2015 |
 | 011 | 9113 | 17 | KV-Geltungsbereich | KV Niedersachsen |
-| 020 | 9212 | SDKV 1015.01 | Version der Satzbeschreibung |  |
+| 020 | 9212 | SDKV1015.01 | Version der Satzbeschreibung |  |
 | 010 | **9135** | **1** | kombinierte DP einer KVDT-Datei | **ADT-Datenpaket** |
 | 014 | 9136 | 42015 | erstes zulässiges Abgabequartal | 4. Quartal 2015 |
 | 010 | **9138** | **3** | separates DP einer KVDT-Datei | **KADT-Datenpaket** |
@@ -1132,8 +1053,9 @@ Beispielhafter Satz “kvx0” der KV Niedersachsen:
 
 ### Ein Vertragsarzt der KV Niedersachsen müsste - vorausgesetzt dieser ist Kurarzt (KADT) -
 
-gemäß dem o. g. Beispielsatz zwei KVDT-Dateien erstellen: -  KVDT--Datei: ADT Datenpaket
+gemäß dem o. g. Beispielsatz zwei KVDT-Dateien erstellen:
 
+-  KVDT--Datei: ADT Datenpaket
 -  KVDT--Datei: KADT Datenpaket.
 
 ### Empfänger der ersten KVDT-Datei wäre die KV Niedersachsen, Empfänger der  KVDT--Datei die KV Westfalen Lippe.
@@ -1145,36 +1067,21 @@ gemäß dem o. g. Beispielsatz zwei KVDT-Dateien erstellen: -  KVDT--Datei: ADT 
 
 ## 5.2 Erläuterung zur Satzart “kvx1”
 
-Die Satzart “kvx1” enthält KV-spezifische Handhabungshinweise bezüglich -  “Tagtrennung”,
+Die Satzart “kvx1” enthält KV-spezifische Handhabungshinweise bezüglich
 
+-  “Tagtrennung”,
 -  “Übertragung Doppelkilometer (DKM) bzw. Wegepauschale nach E-GO” bei  Ersatzkassen,
-
 -  “Übertragung Doppelkilometer (DKM) bzw. Wegepauschale nach BMÄ” bei  Primärkassen,
-
 -  “Übertragung Pseudo-Gebührennummer”,
 
 **Anmerkung**
 
-Für den Fall, dass der Behandlungstag keine GNR enthält, jedoch “Sachkosten
-
-Materialkosten in Cent” unter FK 5012 abgerechnet werden sollen, empfehlen wir aus  Gründen der einfacheren Lesbarkeit der 23 KV-Ausprägungen folgende Formulierung für den  Erläuterungstext unter FK 9411:
-
-“Enthält der Behandlungstag (FK 5000) keine GNR (FK 5001), so **muss** dem Feld
-
-“Sachkosten / Materialkosten in Cent” (FK 5012) die Pseudo-GNR “88999” vorangehen.”
+Für den Fall, dass der Behandlungstag keine GNR enthält, jedoch “Sachkosten  Materialkosten in Cent” unter FK 5012 abgerechnet werden sollen, empfehlen wir aus  Gründen der einfacheren Lesbarkeit der 23 KV-Ausprägungen folgende Formulierung für den  Erläuterungstext unter FK 9411:   “Enthält der Behandlungstag (FK 5000) keine GNR (FK 5001), so **muss** dem Feld  “Sachkosten / Materialkosten in Cent” (FK 5012) die Pseudo-GNR “88999” vorangehen.”
 
 Weitere Formulierungsvorschläge
 
--  Enthält der Behandlungstag (FK 5000) eine GNR (FK 5001), **muss** dem Feld
-
-- “Sachkosten / Materialkosten in Cent” (FK 5012) eine Pseudo-GNR (siehe *KV-Angabe*
-
-- *unter FK 9410)* für Kosten vorangehen.
-
--  Enthält der Behandlungstag (FK 5000) eine GNR (FK 5001), **muss** dem Feld
-
-- “Sachkosten / Materialkosten in Cent” (FK 5012) **keine** Pseudo-GNR für Kosten - vorangehen.
-
+-  Enthält der Behandlungstag (FK 5000) eine GNR (FK 5001), **muss** dem Feld  “Sachkosten / Materialkosten in Cent” (FK 5012) eine Pseudo-GNR (siehe *KV-Angabe*  *unter FK 9410)* für Kosten vorangehen.
+-  Enthält der Behandlungstag (FK 5000) eine GNR (FK 5001), **muss** dem Feld  “Sachkosten / Materialkosten in Cent” (FK 5012) **keine** Pseudo-GNR für Kosten  vorangehen.
 
 ---
 
@@ -1186,7 +1093,7 @@ In der KV Test gelten die folgenden Vorgaben bzgl. Tagtrennung/Übertragung
 
 Beispielhafter Satz “kvx1” der KV Test:
 
-| **Länge** | **FK** | **Feldinhalt** | **Feldbezeichnung** | **Bedeutung des Feldinhalts** |
+| Länge | FK | Feldinhalt | Feldbezeichnung | Bedeutung des Feldinhalts |
 |---|---|---|---|---|
 | 013 | 8000 | kvx1 | Satzart | Handhabungshinweise |
 | 010 | 9400 | 1 | Handhabung “Tagtrennung” | Ein Eintrag einer Uhrzeit muss zur ersten |
@@ -1214,13 +1121,9 @@ Textzeile 3 zu 9411: Pseudo-GNR “88999” vorangehen.
 
 ## 5.3 Erläuterung zur Satzart “kvx2”
 
-In der KVDT-Satzbeschreibung sind für die Felder “Scheinuntergruppe” (FK 4239),  “Abrechnungsgebiet” (FK 4122) und Kostenträger-Abrechnungsbereich (KTAB) (FK 4106)  bundeseinheitliche Obermengen (= erlaubte Inhalte und entsprechende Bedeutung)
+In der KVDT-Satzbeschreibung sind für die Felder “Scheinuntergruppe” (FK 4239),  “Abrechnungsgebiet” (FK 4122) und Kostenträger-Abrechnungsbereich (KTAB) (FK 4106)  bundeseinheitliche Obermengen (= erlaubte Inhalte und entsprechende Bedeutung)  vorgegeben.
 
-vorgegeben.
-
-Aufgrund vertraglicher Vereinbarungen auf KV-ssEbene kommt es vor, da nur eine
-
-“Untermenge” zulässig ist bzw. nur bestimmte Scheinuntergruppen-Abrechnungsgebiets- Kombinationen erlaubt sind.
+Aufgrund vertraglicher Vereinbarungen auf KV-ssEbene kommt es vor, da nur eine  “Untermenge” zulässig ist bzw. nur bestimmte Scheinuntergruppen-Abrechnungsgebiets- Kombinationen erlaubt sind.
 
 Mit der Satzart “kvx2” werden diese je nach KV-Bereich zulässigen Feldinhalte eindeutig  definiert. Das Abrechnungsprogramm muss sicherstellen, dass im Rahmen der ADT- Abrechnung/KVDT nur diese Feldinhalte dem Anwender zur Erfassung angeboten werden.
 
@@ -1231,25 +1134,17 @@ Auch für die Handhabung der Sonstigen Kostenträger (SKT) in der ADT-Abrechnung
 Die allgemeinen Abrechnungsvorgaben, die der entsprechende Kostenträger-Stammsatz zu  einem SKT festlegt, sind aus diesem Grund im Rahmen der ADT-Abrechnung nicht immer  ausreichend. Jede KV kann deshalb ihre zusätzlich erforderlichen Abrechnungsinformationen  und Restriktionen in einem Satz „kvx3“ definieren:
 
 -  Mittels der Felder 2018 (Kostenträgergruppe) und 4106 (Kostenträger- Abrechnungsbereich) werden die “Sonstigen Kostenträger” klassifiziert.
-
 -  Feld “9402” legt fest, welche Feldinhalte in Feld “4123” (Personenkreis /  Untersuchungskategorie) zulässig sind und vom Anwender im Abrechnungsdatensatz  übertragen werden sollte,
-
 -  Feld “9403” legt fest, welche Information (z.B. Name des Auslands) zusätzlich unter Feld  4124 (SKT-Zusatzangaben) vom Anwender im Abrechnungsdatensatz übertragen  werden sollte,
-
 -  Feld “9404” legt fest, welche Felder (z.Zt. FK 4125 und 4126) zusätzlich vom Anwender  im Abrechnungsdatensatz übertragen werden sollten,
-
 -  Feld “9406” gibt an, welche Satzarten “010x” bei diesem SKT **nicht** zulässig sind,
-
 -  Feld “9407” gibt an, welche Feldinhalte in Feld “Versichertenart” (FK 3108) beim  betreffenden Kostenträger **nicht** zulässig sind.
 
 **Anmerkung**: Satz “kvx3” ist ein Kann-Satz.
 
-
 ---
 
-Wenn in einer KV für die ADT-Abrechnung von Sonstigen Kostenträgern keine  Zusatzangaben notwendig sind **und** keine Einschränkungen bzgl. der zulässigen Satzarten
-
-bzw. Versichertenarten gelten, enthält die SDKV- Datei dieser KV keinen Satz “kvx3”!
+Wenn in einer KV für die ADT-Abrechnung von Sonstigen Kostenträgern keine  Zusatzangaben notwendig sind **und** keine Einschränkungen bzgl. der zulässigen Satzarten  bzw. Versichertenarten gelten, enthält die SDKV- Datei dieser KV keinen Satz “kvx3”!
 
 Für den Anwender bedeutet dies, dass keine Zusatzangaben (FK 4123, 4124, 4125, 4126)  erfasst werden müssen und alle Satzarten und Versichertenarten zulässig sind.
 
@@ -1272,19 +1167,15 @@ Als weiteres Muss-Feld in der Satzart für die Sortierung wird der Parameter Fal
 
 ---
 
-In der Satzart Sortierung “kvx4” muss unter der Feldkennung 9451 für jede  Scheinuntergruppe ein 3-stelliger Text eingegeben werden, wobei alle die  Scheinuntergruppen denselben Text haben müssen, die dieselben Wertekombinationen aller  vorkommenden Feldkennungen 9457 (Wert der Scheinuntergruppe im Rahmen der  Sortierung) besitzen. Wurde keine Feldkennung 9457 übertragen, so muss für alle  Scheinuntergruppen derselbe Text vergeben werden. Die Übertragung von Leerzeichen oder  Feldern ohne Inhalt ist gemäß x DT-Konvention nicht zulässig.
+In der Satzart Sortierung “kvx4” muss unter der Feldkennung 9451 für jede  Scheinuntergruppe ein 3-stelliger Text eingegeben werden, wobei alle die  Scheinuntergruppen denselben Text haben müssen, die dieselben Wertekombinationen aller  vorkommenden Feldkennungen 9457 (Wert der Scheinuntergruppe im Rahmen der  Sortierung) besitzen. Wurde keine Feldkennung 9457 übertragen, so muss für alle  Scheinuntergruppen derselbe Text vergeben werden. Die Übertragung von Leerzeichen oder  Feldern ohne Inhalt ist gemäß xDT-Konvention nicht zulässig.
 
 ## 5.6 Erläuterung zur Satzart “kvx5”
 
 Informationen zur Scheinabgabe werden in “kvx5” dargestellt. Diese Daten werden (in  konvertierter Form) nur vom KBV-Prüfmodul ausgewertet und sind für die Systemhäuser im  Rahmen des KVDT irrelevant, können aber bei Bedarf systemintern genutzt werden. Die  Scheinabgabeinformationen spiegeln sich in den vom KBV-Prüfmodul erzeugten Sortier- und  Klammerlisten wieder. Berücksichtigt werden ferner Informationen zur Abgabe von  Früherkennungsdokumenten in Abhängigkeit von Gebührennummern.
 
-Die Scheinabgabe kann in Abhängigkeit von Betriebsstättennummer, VKNR, KTAB und  Abrechnungsgebiet gesteuert werden. Jedes dieser Kriterien kann zusätzlich in Abhängigkeit  von der Scheinuntergruppe weiter spezifiziert werden.  **angegeben werden, bei denen eine Scheinabgabe erforderlich ist.** **Eintrag “Abgabe” (Wert 1 unter FK 9462) übersteuert den Eintrag “Abgabe, wenn keine**  **Versichertenkarte eingelesen wurde” (Wert 2 unter FK 9462).**  Schein für eine Scheinuntergruppe durch die VKNR-Seriennummer eine Abgabe in  Abhängigkeit von der Versichertenkarte angegeben ist, aber gleichzeitig ein
+Die Scheinabgabe kann in Abhängigkeit von Betriebsstättennummer, VKNR, KTAB und  Abrechnungsgebiet gesteuert werden. Jedes dieser Kriterien kann zusätzlich in Abhängigkeit  von der Scheinuntergruppe weiter spezifiziert werden.  **angegeben werden, bei denen eine Scheinabgabe erforderlich ist.** **Eintrag “Abgabe” (Wert 1 unter FK 9462) übersteuert den Eintrag “Abgabe, wenn keine**  **Versichertenkarte eingelesen wurde” (Wert 2 unter FK 9462).**  Schein für eine Scheinuntergruppe durch die VKNR-Seriennummer eine Abgabe in  Abhängigkeit von der Versichertenkarte angegeben ist, aber gleichzeitig ein  Abrechnungsgebiet vorliegt, bei dem eine unbedingte Abgabe gefordert ist, so muss der  Schein grundsätzlich mit abgegeben werden, unabhängig davon, ob die Karte eingelesen  wurde oder nicht.
 
-Abrechnungsgebiet vorliegt, bei dem eine unbedingte Abgabe gefordert ist, so muss der  Schein grundsätzlich mit abgegeben werden, unabhängig davon, ob die Karte eingelesen  wurde oder nicht.
-
-Die Feldkennungen **9473 und 9474** dienen zur Ausgabe von Scheinabgabelisten über das
-
-KVDT- Prüfmodul.
+Die Feldkennungen **9473 und 9474** dienen zur Ausgabe von Scheinabgabelisten über das  KVDT- Prüfmodul.
 
 Mit Inhalt "1" im Feld 9473 wird via KVDT-Prüfmodul eine Liste  **erzeugt**; liegt Inhalt "0" vor, wird diese Liste nicht generiert.
 
@@ -1296,9 +1187,7 @@ Beispiel: Wenn bei einem
 
 **aller Überweisungsscheine**
 
-**aller abzugebenden**
-
-angelegt; liegt Inhalt "0" vor, wird
+**aller abzugebenden**  angelegt; liegt Inhalt "0" vor, wird
 
 
 ---
@@ -1314,15 +1203,10 @@ Werden Klammerinformationen übertragen (Feld 9463 = 1), so müssen nicht alle  
 Alle Scheine, die denselben Eintrag in der Klammergruppe (Feld 9464) besitzen, werden  geklammert. Wobei gilt:
 
 -  Wenn das Feld “Status5 trennt” (FK 9467) den Inhalt
-
 - o 0 (= nein) hat, werden die Scheine unabhängig vom Status geklammert.
-
 - o 1 (= ja) hat, werden die Scheine nur geklammert, wenn der Status identisch ist.
-
 -  Wenn das Feld “Trenne Überweisungsärzte” (FK 9469) auf
-
-- o 0 (= nein) steht, wird Satzart “0102” (= Überweisung) mit Scheinuntergruppe 21 (FK  4239-) unabhängig von der überweisenden (N)BSNR/ASV Teamnummer (FK 4218) - geklammert.
-
+- o 0 (= nein) steht, wird Satzart “0102” (= Überweisung) mit Scheinuntergruppe 21 (FK  4239-) unabhängig von der überweisenden (N)BSNR/ASV Teamnummer (FK 4218)  geklammert.
 - o 1 (= ja) steht, wird Satzart “0102” (= Überweisung) mit Scheinuntergruppe 21 (FK  4239) nur geklammert, wenn die überweisende (N)BSNR/ASV-Teamnummer (FK  4218) identisch ist.
 
 5 Versichertenart
@@ -1330,17 +1214,12 @@ Alle Scheine, die denselben Eintrag in der Klammergruppe (Feld 9464) besitzen, w
 (Der Status der geklammerten Scheine wird über das Feld 9468 festgelegt)
 
 -  Wenn das Feld „Trenne Abrechnungsgebiete“ (FK 9480) auf
-
 - o 0 (=nein) steht, werden die Scheine für alle Abrechnungsgebiete geklammert,
-
 - o 1 (=ja) steht, werden die Scheine nur bei identischem Abrechnungsgebiet  geklammert.
 
-Die Reihenfolge der führenden Klammerscheine kann festgelegt werden. Der führende  Schein ist der Schein mit dem kleinsten Wert in Feld 9465. Steht in Feld 9465 allerdings der  Wert 0, so bedeutet dies, dass der Schein mit der höchsten Punktzahl
-
-**Schwerpunktschein**) der führende Schein im Rahmen der Sortierung sein soll.
+Die Reihenfolge der führenden Klammerscheine kann festgelegt werden. Der führende  Schein ist der Schein mit dem kleinsten Wert in Feld 9465. Steht in Feld 9465 allerdings der  Wert 0, so bedeutet dies, dass der Schein mit der höchsten Punktzahl  **Schwerpunktschein**) der führende Schein im Rahmen der Sortierung sein soll.
 
 Werden unterschiedliche Abrechnungsgebiete geklammert, wird über FK 9465 das führende  Abrechnungsgebiet bestimmt, wobei sich dieses aus dem kleinsten Wert in Feld 9465  ableitet.
-
 
 ---
 
@@ -1350,7 +1229,7 @@ Mittels Satzart “kvx7” definiert jede KV in Abhängigkeit von VKNR-- (FK 947
 
 Als Orientierung diene hierbei folgende beispielhafte Tabelle:
 
-| **KT-Gruppe Kassenart** |  | **Seriennummern-** | **Primärkasse (PKA)** |
+| KT-Gruppe | Kassenart | Seriennummern- | Primärkasse (PKA) |
 |---|---|---|---|
 | 01 | Primärkasse AOK Allgemeine Ortskrankenkasse (AOK) | 101 – 199 | **PKA** |
 | 02 | Primärkasse LKK Landwirtschaftliche Krankenkasse (LKK) | 201 – 299 | **PKA** |
@@ -1377,11 +1256,8 @@ Abrechnungsbereich (KTAB) (FK 4106) die ent
 
 Abrechnungsbereiche angegeben werden.
 
-Seriennummern Bereichen
+(FK 2018) (AUS) Asylstelle (AS) / Justizvollzugsanstalt (JVA) Krankenkassen (MDK) Mitglieder A (PBA) Dienstunfall (PBD) Jugendarbeitsschutzuntersuchung (JAS) Unfallversicherer (UV) Kontingent (3.-5. Stelle VKNR) Ersatzkasse (EKK) Sonst. KT (SKT) 651 – 659 849, 950 – 999 Abrechnungsart für KTAB = 00: Seriennummern Bereichen  **alle**
 
-**alle**
-
-(FK 2018) (AUS) Asylstelle (AS) / Justizvollzugsanstalt (JVA) Krankenkassen (MDK) Mitglieder A (PBA) Dienstunfall (PBD) Jugendarbeitsschutzuntersuchung (JAS) Unfallversicherer (UV) Kontingent (3.-5. Stelle VKNR) Ersatzkasse (EKK) Sonst. KT (SKT) 651 – 659 849, 950 – 999 Abrechnungsart für KTAB = 00:
 
 ---
 
@@ -1391,6 +1267,6 @@ Die Kassenärztlichen Vereinigungen können mit dieser Satzart in einem “Freit
 
 Anmerkung: Satz “kvx8” ist ein Kann-Satz!
 
-Sollen keine weiteren Kommentierungen / Zusatzinformationen mit der KV--Spezifika
+Sollen keine weiteren Kommentierungen / Zusatzinformationen mit der KV-- Stammdatei übermittelt werden, enthält die SDKV- Datei keinen Satz “kvx8”.
 
-Stammdatei übermittelt werden, enthält die SDKV- Datei keinen Satz “kvx8”.
+Spezifika

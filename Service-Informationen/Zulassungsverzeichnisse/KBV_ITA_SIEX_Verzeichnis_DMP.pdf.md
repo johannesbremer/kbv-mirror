@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**07. JUNI 2026**
+**16. JUNI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -35,7 +35,7 @@
 
 Saturnstrasse 14 85609 Aschheim Internet: www.asthenis.de
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 07. Juni 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 16. Juni 2026
 
 **Prüfnummer(n)**
 
@@ -92,7 +92,15 @@ Windows
 
 **CompuGroup Medical Deutschland AG** Maria Trost 23 56070 Koblenz Internet: www.turbomed.de
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 07. Juni 2026
+**CGM MEDISTAR BLACK PRO**
+
+**CompuGroup Medical Deutschland AG** Karl-Wiechert-Allee 64 30625 Hannover Internet: www.medistar.de und www.cgm.com/de
+
+Softwarevariante(n):
+
+- CGM MEDISTAR - CGM MEDISTAR BLACK
+
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 16. Juni 2026
 
 **Prüfnummer(n)**
 
@@ -102,6 +110,8 @@ Y/103/2407/36/346 Y/104/2407/36/346 Y/100/2401/36/346 Y/101/2401/36/346 Y/102/24
 
 Y/106/2410/24/112 Y/103/2407/36/112 Y/100/2401/36/112 Y/101/2401/36/112 Y/102/2401/36/112 Y/104/2401/36/112 Y/105/2401/36/112
 
+Y/106/2501/24/280 Y/103/2407/36/280 Y/100/2401/36/280 Y/101/2401/36/280 Y/102/2401/36/280 Y/104/2401/36/280 Y/105/2401/36/280
+
 **Prüfnummer(n)** **gültig bis**
 
 31.12.2028 30.06.2027 31.12.2026 31.12.2026 31.12.2026 31.12.2026 31.12.2026 31.12.2026
@@ -109,6 +119,8 @@ Y/106/2410/24/112 Y/103/2407/36/112 Y/100/2401/36/112 Y/101/2401/36/112 Y/102/24
 30.06.2027 30.06.2027 31.12.2026 31.12.2026 31.12.2026 31.12.2026
 
 30.09.2026 30.06.2027 31.12.2026 31.12.2026 31.12.2026 31.12.2026 31.12.2026
+
+31.12.2026 30.06.2027 31.12.2026 31.12.2026 31.12.2026 31.12.2026 31.12.2026
 
 **zertifizierte Komponente(n)**
 
@@ -118,7 +130,11 @@ eDMP Asthma bronchiale eDMP Diabetes melitus Typ 1 eDMP Diabetes melitus Typ 2 D
 
 eDMP Herzinsuffizienz eDMP Asthma bronchiale eDMP Diabetes melitus Typ 2 DMP Brustkrebs eDMP Koronare Herzkrankheit eDMP Diabetes melitus Typ 1 eDMP COPD
 
+eDMP Herzinsuffizienz eDMP Asthma bronchiale eDMP Diabetes melitus Typ 2 DMP Brustkrebs eDMP Koronare Herzkrankheit eDMP Diabetes melitus Typ 1 eDMP COPD
+
 **unterstützte** **Betriebssysteme**
+
+Windows
 
 Windows
 
@@ -129,47 +145,58 @@ Windows
 
 ---
 
-**Kontaktdaten**
+| Kontaktdaten | |  |  |
+|---|---|---|---|
+| **CGM** | **DMP-ASSIST** |  |  |
+|  | **CompuGroup** | **Medical Deutschland** | **AG** |
+| Maria | Trost 21 |  |  |
+| 56070 | Koblenz |  |  |
+| Internet: |  | www.cgm.com/de |  |
+| **Data-AL** |  |  |  |
+| **Data-AL** | **GmbH** |  |  |
+| Edisonallee | 25 |  |  |
+| 89231 | Neu-Ulm |  |  |
+| Internet: |  | www.data-al.de |  |
+| **DMP** | **Form** |  |  |
+| **Data** | **Experts GmbH** |  |  |
+| Woldegker | Str. 12 |  |  |
+| 17033 | Neubrandenburg | |  |
+| Internet: |  | www.data-experts.de |  |
+| **inSuite** |  |  |  |
+| **Doc** | **Cirrus GmbH** |  |  |
+| Pohlstraße | 20 |  |  |
+| 10785 | Berlin |  |  |
+| Internet: |  | www.doc-cirrus.com |  |
 
-**CGM DMP-ASSIST**
-
-**CompuGroup Medical Deutschland AG** Maria Trost 21 56070 Koblenz Internet: www.cgm.com/de
-
-**CGM MEDISTAR BLACK PRO**
-
-**CompuGroup Medical Deutschland AG** Karl-Wiechert-Allee 64 30625 Hannover Internet: www.medistar.de und www.cgm.com/de
-
-Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK
-
-**Data-AL**
-
-**Data-AL GmbH** Edisonallee 25 89231 Neu-Ulm Internet: www.data-al.de
-
-Seite 4 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 07. Juni 2026
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 16. Juni 2026
 
 **Prüfnummer(n)**
 
 X/110/2505/38/393 X/109/2501/36/393 X/106/2410/24/393 X/103/2407/36/393 X/107/2405/38/393 X/108/2404/36/393 X/100/2401/36/393 X/101/2401/36/393 X/102/2401/36/393 X/104/2401/36/393 X/105/2401/36/393
 
-Y/106/2501/24/280 Y/103/2407/36/280 Y/100/2401/36/280 Y/101/2401/36/280 Y/102/2401/36/280 Y/104/2401/36/280 Y/105/2401/36/280
-
 Y/102/2604/36/060 Y/103/2505/38/060 Y/105/2505/38/060 Y/106/2501/24/060 Y/101/2412/37/060 Y/109/2410/36/060
+
+X/101/2401/36/386
+
+Y/109/2603/37/488 Y/100/2501/36/488 Y/102/2501/36/488 Y/103/2501/36/488 Y/104/2501/36/488 Y/105/2501/36/488 Y/101/2307/36/488
 
 **Prüfnummer(n)** **gültig bis**
 
 30.06.2028 31.12.2027 30.09.2026 30.06.2027 30.06.2027 31.03.2027 31.12.2026 31.12.2026 31.12.2026 31.12.2026 31.12.2026
 
-31.12.2026 30.06.2027 31.12.2026 31.12.2026 31.12.2026 31.12.2026 31.12.2026
+31.03.2029 30.06.2028 30.06.2028 31.12.2026 31.12.2027 30.09.2027 31.12.2026
 
-31.03.2029 30.06.2028 30.06.2028 31.12.2026 31.12.2027 30.09.2027
+31.03.2029 31.12.2027 31.12.2027 31.12.2027 31.12.2027 31.12.2027 30.06.2026
 
 **zertifizierte Komponente(n)**
 
 eDMP Rheumatoide Arthritis eDMP Osteoporose eDMP Herzinsuffizienz eDMP Asthma bronchiale eDMP Rückenschmerz eDMP Depression eDMP Diabetes melitus Typ 2 DMP Brustkrebs eDMP Koronare Herzkrankheit eDMP Diabetes melitus Typ 1 eDMP COPD
 
-eDMP Herzinsuffizienz eDMP Asthma bronchiale eDMP Diabetes melitus Typ 2 DMP Brustkrebs eDMP Koronare Herzkrankheit eDMP Diabetes melitus Typ 1 eDMP COPD
-
 eDMP Koronare Herzkrankheit eDMP Asthma bronchiale eDMP COPD eDMP Herzinsuffizienz DMP Brustkrebs eDMP Osteoporose
+
+DMP Brustkrebs
+
+eDMP Osteoporose eDMP Diabetes melitus Typ 2 eDMP Koronare Herzkrankheit eDMP Asthma bronchiale eDMP Diabetes melitus Typ 1 eDMP COPD DMP Brustkrebs
 
 **unterstützte** **Betriebssysteme**
 
@@ -179,21 +206,12 @@ Windows
 
 Windows
 
+CGM DMP-ASSIST CompuGroup Medical Deutschland AG Maria Trost 21 56070 Koblenz Internet: www.cgm.com/de Data-AL GmbH Edisonallee 25 89231 Neu-Ulm Internet: www.data-al.de DMP Form Data Experts GmbH Woldegker Str. 12 17033 Neubrandenburg Internet: www.data-experts.de Doc Cirrus GmbH Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.comiOS/Android Linux Mac OS Sonstige Windows
+
 
 ---
 
-|  |  | **Prüfnummer(n)** |  | **unterstützte** |
-|---|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
-|  |  | **gültig bis** |  | **Betriebssysteme** |
-
-**DMP Form**
-
-**Data Experts GmbH** Woldegker Str. 12 17033 Neubrandenburg Internet: www.data-experts.de
-
-**inSuite**
-
-**Doc Cirrus GmbH** Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com
+**Kontaktdaten**
 
 **apraxos**
 
@@ -203,43 +221,6 @@ Windows
 
 **Duria eG** Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 07. Juni 2026
-
-X/101/2401/36/386
-
-Y/109/2603/37/488 Y/100/2501/36/488 Y/102/2501/36/488 Y/103/2501/36/488 Y/104/2501/36/488 Y/105/2501/36/488 Y/101/2307/36/488
-
-Y/100/2601/24/602 Y/102/2601/24/602 Y/103/2601/24/602 Y/104/2601/24/602 Y/105/2601/24/602 Y/106/2410/24/602
-
-Y/107/2507/36/086 Y/108/2507/36/086 Y/109/2507/36/086 Y/110/2507/36/086 Y/106/2501/24/086 Y/103/2407/36/086 Y/100/2401/36/086 Y/101/2401/36/086 Y/102/2401/36/086 Y/104/2401/36/086 Y/105/2401/36/086 31.12.2026
-
-31.03.2029 31.12.2027 31.12.2027 31.12.2027 31.12.2027 31.12.2027 30.06.2026
-
-31.12.2027 31.12.2027 31.12.2027 31.12.2027 31.12.2027 30.09.2026
-
-30.06.2028 30.06.2028 30.06.2028 30.06.2028 31.12.2026 30.06.2027 31.12.2026 31.12.2026 31.12.2026 31.12.2026 31.12.2026
-
-DMP Brustkrebs
-
-eDMP Osteoporose eDMP Diabetes melitus Typ 2 eDMP Koronare Herzkrankheit eDMP Asthma bronchiale eDMP Diabetes melitus Typ 1 eDMP COPD DMP Brustkrebs
-
-eDMP Diabetes melitus Typ 2 eDMP Koronare Herzkrankheit eDMP Asthma bronchiale eDMP Diabetes melitus Typ 1 eDMP COPD eDMP Herzinsuffizienz
-
-eDMP Rückenschmerz eDMP Depression eDMP Osteoporose eDMP Rheumatoide Arthritis eDMP Herzinsuffizienz eDMP Asthma bronchiale eDMP Diabetes melitus Typ 2 DMP Brustkrebs eDMP Koronare Herzkrankheit eDMP Diabetes melitus Typ 1 eDMP COPD
-
-Windows
-
-iOS/Android Linux Mac OS Sonstige Windows
-
-Linux
-
-Windows
-
-
----
-
-**Kontaktdaten**
-
 **Epikur**
 
 **Epikur Software GmbH & Co. KG** Franklinstraße 26 a 10587 Berlin Internet: www.epikur.de
@@ -247,6 +228,53 @@ Windows
 **INDICATION**
 
 **ET Software Developments GmbH** Hebelstraße 7 69214 Eppelheim Internet: www.indication.com
+
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 16. Juni 2026
+
+**Prüfnummer(n)**
+
+Y/100/2601/24/602 Y/102/2601/24/602 Y/103/2601/24/602 Y/104/2601/24/602 Y/105/2601/24/602 Y/106/2410/24/602
+
+Y/107/2507/36/086 Y/108/2507/36/086 Y/109/2507/36/086 Y/110/2507/36/086 Y/106/2501/24/086 Y/103/2407/36/086 Y/100/2401/36/086 Y/101/2401/36/086 Y/102/2401/36/086 Y/104/2401/36/086 Y/105/2401/36/086
+
+Y/103/2407/36/295 Y/100/2401/36/295 Y/101/2401/36/295 Y/102/2401/36/295 Y/104/2401/36/295 Y/105/2401/36/295
+
+Y/104/2604/24/223 Y/102/2410/36/223 Y/100/2307/36/223
+
+**Prüfnummer(n)** **gültig bis**
+
+31.12.2027 31.12.2027 31.12.2027 31.12.2027 31.12.2027 30.09.2026
+
+30.06.2028 30.06.2028 30.06.2028 30.06.2028 31.12.2026 30.06.2027 31.12.2026 31.12.2026 31.12.2026 31.12.2026 31.12.2026
+
+30.06.2027 31.12.2026 31.12.2026 31.12.2026 31.12.2026 31.12.2026
+
+31.03.2028 30.09.2027 30.06.2026
+
+**zertifizierte Komponente(n)**
+
+eDMP Diabetes melitus Typ 2 eDMP Koronare Herzkrankheit eDMP Asthma bronchiale eDMP Diabetes melitus Typ 1 eDMP COPD eDMP Herzinsuffizienz
+
+eDMP Rückenschmerz eDMP Depression eDMP Osteoporose eDMP Rheumatoide Arthritis eDMP Herzinsuffizienz eDMP Asthma bronchiale eDMP Diabetes melitus Typ 2 DMP Brustkrebs eDMP Koronare Herzkrankheit eDMP Diabetes melitus Typ 1 eDMP COPD
+
+eDMP Asthma bronchiale eDMP Diabetes melitus Typ 2 DMP Brustkrebs eDMP Koronare Herzkrankheit eDMP Diabetes melitus Typ 1 eDMP COPD
+
+eDMP Diabetes melitus Typ 1 eDMP Koronare Herzkrankheit eDMP Diabetes melitus Typ 2
+
+**unterstützte** **Betriebssysteme**
+
+Linux
+
+Windows
+
+Linux Mac OS Windows
+
+Windows
+
+
+---
+
+**Kontaktdaten**
 
 **medibit**
 
@@ -256,56 +284,48 @@ Windows
 
 **Frey ADV GmbH** Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 07. Juni 2026
+**Doctorly**
+
+**Frey ADV GmbH** Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de
+
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 16. Juni 2026
 
 **Prüfnummer(n)**
-
-Y/103/2407/36/295 Y/100/2401/36/295 Y/101/2401/36/295 Y/102/2401/36/295 Y/104/2401/36/295 Y/105/2401/36/295
-
-Y/104/2604/24/223 Y/102/2410/36/223 Y/100/2307/36/223
 
 Y/107/2405/38/034 Y/101/2401/36/034 Y/100/2307/36/034 Y/102/2307/36/034 Y/103/2307/36/034 Y/104/2307/36/034 Y/105/2307/36/034
 
 Y/110/2508/38/244 Y/106/2410/24/244 Y/103/2407/36/244 Y/107/2404/36/244 Y/108/2404/36/244 Y/100/2401/36/244 Y/101/2401/36/244 Y/102/2401/36/244 Y/104/2401/36/244 Y/105/2401/36/244 Y/109/2308/38/244
 
+Y/100/2504/36/616 Y/102/2504/36/616 Y/103/2504/36/616 Y/104/2504/36/616 Y/105/2504/36/616
+
 **Prüfnummer(n)** **gültig bis**
-
-30.06.2027 31.12.2026 31.12.2026 31.12.2026 31.12.2026 31.12.2026
-
-31.03.2028 30.09.2027 30.06.2026
 
 30.06.2027 31.12.2026 30.06.2026 30.06.2026 30.06.2026 30.06.2026 30.06.2026
 
 30.09.2028 30.09.2026 30.06.2027 31.03.2027 31.03.2027 31.12.2026 31.12.2026 31.12.2026 31.12.2026 31.12.2026 30.09.2026
 
+31.03.2028 31.03.2028 31.03.2028 31.03.2028 31.03.2028
+
 **zertifizierte Komponente(n)**
-
-eDMP Asthma bronchiale eDMP Diabetes melitus Typ 2 DMP Brustkrebs eDMP Koronare Herzkrankheit eDMP Diabetes melitus Typ 1 eDMP COPD
-
-eDMP Diabetes melitus Typ 1 eDMP Koronare Herzkrankheit eDMP Diabetes melitus Typ 2
 
 eDMP Rückenschmerz DMP Brustkrebs eDMP Diabetes melitus Typ 2 eDMP Koronare Herzkrankheit eDMP Asthma bronchiale eDMP Diabetes melitus Typ 1 eDMP COPD
 
 eDMP Rheumatoide Arthritis eDMP Herzinsuffizienz eDMP Asthma bronchiale eDMP Rückenschmerz eDMP Depression eDMP Diabetes melitus Typ 2 DMP Brustkrebs eDMP Koronare Herzkrankheit eDMP Diabetes melitus Typ 1 eDMP COPD eDMP Osteoporose
 
+eDMP Diabetes melitus Typ 2 eDMP Koronare Herzkrankheit eDMP Asthma bronchiale eDMP Diabetes melitus Typ 1 eDMP COPD
+
 **unterstützte** **Betriebssysteme**
 
-Linux Mac OS Windows
-
 Windows
 
 Windows
 
-Windows
+iOS/Android Linux Mac OS Windows
 
 
 ---
 
 **Kontaktdaten**
-
-**Doctorly**
-
-**Frey ADV GmbH** Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de
 
 **garrioPRO**
 
@@ -319,11 +339,9 @@ Windows
 
 **Haase, Dipl.-Ing. Silvia GbR** Lindenstr. 21 21465 Reinbek Internet: www.j-med.de
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 07. Juni 2026
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 16. Juni 2026
 
 **Prüfnummer(n)**
-
-Y/100/2504/36/616 Y/102/2504/36/616 Y/103/2504/36/616 Y/104/2504/36/616 Y/105/2504/36/616
 
 Y/100/2404/36/701 Y/104/2404/36/701 Y/106/2403/37/701 Y/101/2401/36/701 Y/102/2401/36/701 Y/103/2401/36/701 Y/105/2401/36/701 Y/108/2401/36/701
 
@@ -333,15 +351,11 @@ Y/101/2404/36/195
 
 **Prüfnummer(n)** **gültig bis**
 
-31.03.2028 31.03.2028 31.03.2028 31.03.2028 31.03.2028
-
 31.03.2027 31.03.2027 31.03.2027 31.12.2026 31.12.2026 31.12.2026 31.12.2026 31.12.2026
 
 30.09.2026 30.06.2027 31.12.2026 31.12.2026 31.12.2026 31.12.2026 31.12.2026 31.03.2027
 
 **zertifizierte Komponente(n)**
-
-eDMP Diabetes melitus Typ 2 eDMP Koronare Herzkrankheit eDMP Asthma bronchiale eDMP Diabetes melitus Typ 1 eDMP COPD
 
 eDMP Diabetes melitus Typ 2 eDMP Diabetes melitus Typ 1 eDMP Herzinsuffizienz DMP Brustkrebs eDMP Koronare Herzkrankheit eDMP Asthma bronchiale eDMP COPD eDMP Depression
 
@@ -350,8 +364,6 @@ eDMP Herzinsuffizienz eDMP Asthma bronchiale eDMP Diabetes melitus Typ 2 DMP Bru
 DMP Brustkrebs
 
 **unterstützte** **Betriebssysteme**
-
-iOS/Android Linux Mac OS Windows
 
 Linux Mac OS Windows
 
@@ -378,7 +390,7 @@ Windows
 
 **ITC Dipl. Ing. M. Schumann** Wilhelm-Raabe-Weg 3 a 35039 Marburg Internet: [http://www.itc-ms.de/](http://www.itc-ms.de/)
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 07. Juni 2026
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 16. Juni 2026
 
 **Prüfnummer(n)**
 
@@ -413,27 +425,27 @@ Windows
 
 ---
 
-| **Kontaktdaten** |  |  |
+| Kontaktdaten | |  |
 |---|---|---|
-| **EL - Elaphe** | **Longissima** |  |
-| **medatixx** | **GmbH &** | **Co. KG** |
+| **EL - Elaphe** | **Longissima** | |
+| **medatixx** | **GmbH** | **& Co. KG** |
 | Im | Kappelhof 1 |  |
 | 65343 | Eltville |  |
 | Internet: |  | www.medatixx.de |
 | **medatixx** |  |  |
-| **medatixx** | **GmbH &** | **Co. KG** |
+| **medatixx** | **GmbH** | **& Co. KG** |
 | Im | Kappelhof 1 |  |
 | 65343 | Eltville |  |
 | Internet: |  | www.medatixx.de |
 |  | Softwarevariante(n): |  |
 | - psyx |  |  |
 | **x.dmp** |  |  |
-| **medatixx** | **GmbH &** | **Co. KG** |
+| **medatixx** | **GmbH** | **& Co. KG** |
 | Im | Kappelhof 1 |  |
 | 65343 | Eltville |  |
 | Internet: |  | www.medatixx.de |
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 07. Juni 2026
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 16. Juni 2026
 
 **Prüfnummer(n)**
 
@@ -484,7 +496,7 @@ EL - Elaphe Longissima medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Inte
 
 **MEDYS GmbH** Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 07. Juni 2026
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 16. Juni 2026
 
 **Prüfnummer(n)**
 
@@ -535,7 +547,7 @@ Mac OS Windows
 
 **PRO MEDISOFT AG** Besselstraße 25 68219 Mannheim Internet: www.pro-medisoft.de
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 07. Juni 2026
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 16. Juni 2026
 
 **Prüfnummer(n)**
 
@@ -586,7 +598,7 @@ Windows
 
 **Schmidt Computersysteme** Chrysanthemenweg 4 02827 Görlitz Internet: www.arzt2000.de
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 07. Juni 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 16. Juni 2026
 
 **Prüfnummer(n)**
 
@@ -637,7 +649,7 @@ Windows
 
 **T2med GmbH & Co. KG** Bismarckallee 15 24105 Kiel Internet: www.t2med.de
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 07. Juni 2026
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 16. Juni 2026
 
 **Prüfnummer(n)**
 
@@ -674,7 +686,7 @@ iOS/Android Linux Mac OS Windows
 
 ---
 
-|  | **Kontaktdaten** |  |
+|  | Kontaktdaten |  |
 |---|---|---|
 | **Medi10** |  |  |
 | **UfP** | **Systemhaus** | **GmbH** |
@@ -687,7 +699,7 @@ iOS/Android Linux Mac OS Windows
 | 07745 | Jena |  |
 |  | Internet: | www.zollsoft.de |
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 07. Juni 2026
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 16. Juni 2026
 
 **Prüfnummer(n)**
 

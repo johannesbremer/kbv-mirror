@@ -6,7 +6,7 @@ Weitere Informationen zur Einlösung finden Sie unter: www.das-e-rezept-fuer-deu
 
 Patientenausdruck DIN A5 (7.2026)
 
-**ausgestellt von ausgestellt am**
+**ausgestellt von** **ausgestellt am**
 
 ### Ausdruck zur Einlösung Ihrer Verordnung:
 

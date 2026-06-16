@@ -2,13 +2,13 @@
 
 Name, Vorname, Geburtsdatum der Patientin / des Patienten
 
-Kundennummer: ___________________
+Kundennummer:
 
 Liquidations-ID:
 
-Patient/in befindet sich seit _____________
+Patient/in befindet sich seit
 
-# Letzte Behandlung am _________________
+# Letzte Behandlung am
 
 # Relevante Diagnose(n) in Bezug auf die im Anschreiben genannte Fragestellung (Spezieller Bedarf im  Rahmen der Wohnungsfürsorge nach § 22 SGB II)
 
@@ -16,19 +16,21 @@ Patient/in befindet sich seit _____________
 
 # Sofern zutreffend – je nach Fragestellung im Anschreiben:
 
-# Liegen aus ärztlicher Sicht Gründe vor, weshalb der Verbleib in der bisherigen Wohnung zwingend  erforderlich ist (z.B. Könnte durch einen Umzug die Erkrankung deutlich verschlechtert werden? Ist der
-
-# Wechsel in eine andere Wohnumgebung gesundheitlich nicht zumutbar?
+# Liegen aus ärztlicher Sicht Gründe vor, weshalb der Verbleib in der bisherigen Wohnung zwingend  erforderlich ist (z.B. Könnte durch einen Umzug die Erkrankung deutlich verschlechtert werden? Ist der  Wechsel in eine andere Wohnumgebung gesundheitlich nicht zumutbar?
 
 AM 6-ÄD – 1900.8_Befundbericht_BÄK_spezieller_Bedarf_Wohnungsfürsorge_2
 
-regelmäßig 1. 12
+regelmäßig
+
+1. 12
+
+BGL-Nummer:
+
+gelegentlich
 
 # 17 12.2021
 
-BGL-Nummer: ____________________
-
-gelegentlich  nicht in meiner Behandlung
+nicht in meiner Behandlung
 
 
 ---
@@ -45,17 +47,11 @@ gelegentlich  nicht in meiner Behandlung
 
 **Bitte senden Sie mir Ihr Gutachten / Ihre gutachterliche Äußerung zu** (Eine Erklärung der Patientin / des Patienten über die Entbindung des Ärztlichen Dienstes der  Bundesagentur für Arbeit von der ärztlichen Schweigepflicht lege ich bei oder reiche ich nach)
 
-**Bitte fügen Sie diesem Befundbericht relevante medizinische Unterlagen (Arztbriefe, Befundberichte,**
-
-**Laborbefunde, Krankenhaus-Entlassungsberichte, Reha-Entlassungsberichte, Gutachten u. ä.) als**
-
-**Kopie bei, vielen Dank.**
+**Bitte fügen Sie diesem Befundbericht relevante medizinische Unterlagen (Arztbriefe, Befundberichte,**  **Laborbefunde, Krankenhaus-Entlassungsberichte, Reha-Entlassungsberichte, Gutachten u. ä.) als**  **Kopie bei, vielen Dank.**
 
 Medizinische Unterlagen liegen bei
 
 Medizinische Unterlagen können ggf. angefordert werden bei:
-
-__________________________
 
 ___________________________
 
@@ -88,7 +84,7 @@ Agentur für Arbeit
 
 Für meine Bemühungen erlaube ich mir zu berechnen:
 
-| Fotokopierkosten:  **0,50 € 0,15 €** | ____  Seiten á  ____  Seiten á | = | **__________  €  ________  €** |
+| Fotokopierkosten:   0,50 € 0,15 € | ____  Seiten á  ____  Seiten á | = | __________  €  ________  € |
 |---|---|---|---|
 | Ausstellung des vollständigen Befundberichts und  Übermittlung an den Ärztlichen Dienst: |  | = | **€** |
 | Portokosten: |  | = | **€** |

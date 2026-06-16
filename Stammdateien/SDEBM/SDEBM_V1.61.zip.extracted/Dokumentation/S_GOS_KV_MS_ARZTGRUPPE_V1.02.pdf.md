@@ -8,7 +8,7 @@
 
 **gültig ab:**
 
-| **Code** | **Bezeichnung** |
+| Code | Bezeichnung |
 |---|---|
 | 01F09 | Fachärzte für Augenheilkunde mit GOP 06225 EBM |
 
@@ -57,7 +57,7 @@ fachärztlichen Versorgungsbereich angehören Fachärzte für Innere Medizin mit
 
 ---
 
-| **Code** | **Bezeichnung** |
+| Code | Bezeichnung |
 |---|---|
 | 01F37 | Fachärzte für Innere Medizin mit (Versorgungs-) Schwerpunkt |
 
@@ -344,7 +344,7 @@ psychotherapie Fachärzte für Mund-Kiefer-Gesichtschirurgie Fachärzte für Ner
 
 ---
 
-| **Code** | **Bezeichnung** |
+| Code | Bezeichnung |
 |---|---|
 | 5131 | psychologische Psychotherapeuten, psychotherapeutisch tätiger |
 
@@ -401,7 +401,7 @@ Sprach-, Stimm- und kindliche Hörstörung, Mehrfachzulassungen aus der Kombinat
 
 ---
 
-| **Code** | **Bezeichnung** |
+| Code | Bezeichnung |
 |---|---|
 | 710100 | Fachärzte für Innere Medizin ohne Schwerpunkt, die an der |
 
@@ -549,7 +549,7 @@ dem Versorgungsauftrag fachärztliche Innere Medizin mit SP Kardiologie FÄ für
 
 ---
 
-| **Code** | **Bezeichnung** |
+| Code | Bezeichnung |
 |---|---|
 | 88321 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit |
 
@@ -624,7 +624,7 @@ dem Versorgungsauftrag Urologie FÄ für Physikalische Rehabilitative Medizin 12
 
 ---
 
-| **Code** | **Bezeichnung** |
+| Code | Bezeichnung |
 |---|---|
 | 88590 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit |
 

@@ -26,7 +26,7 @@
 
 252 **CGM M1 PRO**
 
-498 **T 2med**
+498 **T2med**
 
 226 **CGM MEDICO**
 
@@ -36,9 +36,9 @@
 
 **Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-CompuGroup Medical Deutschland AG 1 706
+CompuGroup Medical Deutschland AG 1.706
 
-1 740
+1.740
 
 -34
 
@@ -94,7 +94,7 @@ CompuGroup Medical Deutschland AG 287
 
 -3
 
-T 2med GmbH & Co. KG 244
+T2med GmbH & Co. KG 244
 
 236
 

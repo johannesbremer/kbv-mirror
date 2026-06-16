@@ -1,4 +1,4 @@
-| **ABRECHNUNG** |  |  |
+| ABRECHNUNG |  |  |
 |---|---|---|
 | **Dokument** | **Erläuterung** | **Hinweise auf Änderungen** |
 | **Uebergreifend** |  |  |
@@ -107,8 +107,8 @@ III/2026 VOM 13. MAI 2026 Rezidivprophylaxe Rezidivprophylaxe zum vereinfachten 
 | KBV_ITA_VGEX_Mapping |  | Technische Anlage zur Anlage 4a (BMV-Ä) |
 |  | - |  |
 | -  EXT_ITA_AHEX_Erklaerung_EHIC_PEB.pdf | Patientenerklärung Europäische Krankenversicherung | KBV_ITA_AHEX_Mappingliste  Mapping-Liste zur- Überführung der GOPen |
-|  | xpm-kvdt-praxis-2026.3.0.zip |  |
-|  |  |  |
+|  | xpm- | kvdt- |
+| praxis- | 2026.3 | .0.zip |
 | EXT_ITA_AHEX_PTV3 | Leitfaden zum Erstellen des Berichts an die Gutachterin oder |  |
 | EXT_ITA_AHEX_PTV10 | Information für Patient*innen und Patient*en zur ambulanten |  |
 | KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung | Anforderungskatalog zur Formularbedruckung |  |
@@ -123,8 +123,8 @@ III/2026 VOM 13. MAI 2026 Rezidivprophylaxe Rezidivprophylaxe zum vereinfachten 
 | - | KBV_ITA_VGEX_Mapping |  |
 | Technische Anlage zur Anlage 4a (BMV-Ä) | - | -  EXT_ITA_AHEX_Erklaerung_EHIC_PEB.pdf |
 | Patientenerklärung Europäische Krankenversicherung | KBV_ITA_AHEX_Mappingliste  Mapping-Liste zur- Überführung der GOPen |  |
-| xpm-kvdt-praxis-2026.3.0.zip |  |  |
-|  |  |  |
+| xpm- | kvdt- | praxis- |
+| 2026.3 | .0.zip |  |
 | Prüfmodul KVDT III/2026 | - | **Hybird-DRG** |
 | EXT_ITA_AHEX_PTV3  Leitfaden zum Erstellen des Berichts an die Gutachterin oder | EXT_ITA_AHEX_PTV10 | Information für Patient*innen und Patient*en zur ambulanten |
 | KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung Anforderungskatalog zur Formularbedruckung |  | KBV_ITA_VGEX_Datensatzbeschreibung_KVDT |
@@ -287,13 +287,13 @@ Aktualisierung der Daten der KV Nordrhein zum zweiten Quartal 2026 Änderung [1C
 |  |  | KBV_ITA_VGEX_Technische_Anlage_eEB |
 |  | Technische Anlage eEB |  |
 | - |  | - |
-|  | **371-SCHNITTSTELLEN** | **Dokument  Erläuterung  Hinweise auf Änderungen  PVS-Archivierungs-Wechsel-Schnittstelle ** |
+|  | **371-** | **SCHNITTSTELLEN**     **Dokument  Erläuterung  Hinweise auf Änderungen  PVS-Archivierungs-Wechsel-Schnittstelle ** |
 | KBV_FHIR_AW.zip | FHIR Objekte |  |
 | KBV_ITA_SIEX_FAQ_AWS | FAQ-Dokument zur AW-SST |  |
 |  | KBV_ITA_VGEX_SST_Kollegensuche |  |
 | Beschreibung des KBV Webservices-Kollegensuche |  |  |
 |  | **Kodierunterstuetzung** |  |
-|  | KBV_ITA_AHEX_Pruefpaket_Kodierunterstuetzung | Prüfpaket Kodierunterstützung    KBV_ITA_FMEX_AAZ_Kodierunterstuetzung Antrag auf Zertifizierung    KBV_ITA_AHEX_Beispiele_Umsetzung_KRW Umsetzung Beispiele für die Kodierregeln   **eEB**     KBV_ITA_VGEX_Technische_Anlage_eEB  Technische Anlage eEB  -  -   **371-SCHNITTSTELLEN **    **Dokument  Erläuterung  Hinweise auf Änderungen  PVS-Archivierungs-Wechsel-Schnittstelle** |
+|  | KBV_ITA_AHEX_Pruefpaket_Kodierunterstuetzung | Prüfpaket Kodierunterstützung    KBV_ITA_FMEX_AAZ_Kodierunterstuetzung Antrag auf Zertifizierung    KBV_ITA_AHEX_Beispiele_Umsetzung_KRW Umsetzung Beispiele für die Kodierregeln   **eEB**     KBV_ITA_VGEX_Technische_Anlage_eEB  Technische Anlage eEB  -  -   **371-SCHNITTSTELLEN**     **Dokument  Erläuterung  Hinweise auf Änderungen  PVS-Archivierungs-Wechsel-Schnittstelle** |
 |  | KBV_FHIR_AW.zip | FHIR Objekte    KBV_ITA_SIEX_FAQ_AWS  FAQ-Dokument zur AW-SST |
 |  | KBV_ITA_SIEX_Kommentare_Benehmensherstellung | Übersicht der Kommentare zur Kommentierungsphase |
 |  | KBV_ITA_VGEX_Anforderungskatalog_AW_SST | Anforderungskatalog |
@@ -309,8 +309,8 @@ Aktualisierung der Daten der KV Nordrhein zum zweiten Quartal 2026 Änderung [1C
 |  |  |  |
 | KBV_ITA_VGEX_Technische_Anlage_eEB | Technische Anlage eEB | - |
 |  | - |  |
-|  | **371-SCHNITTSTELLEN** |  |
-|  |  |  |
+|  | **371** | **-** |
+| **SCHNITTSTELLEN** |  |  |
 |  |  |  |
 |  | **Dokument** |  |
 | **Erläuterung** | **Hinweise auf Änderungen** | **PVS-Archivierungs-Wechsel-Schnittstelle** |
@@ -326,8 +326,8 @@ Aktualisierung der Daten der KV Nordrhein zum zweiten Quartal 2026 Änderung [1C
 | KBV_ITA_AHEX_Pruefpaket_Kodierunterstuetzung Prüfpaket Kodierunterstützung | KBV_ITA_FMEX_AAZ_Kodierunterstuetzung | Antrag auf Zertifizierung |
 | KBV_ITA_AHEX_Beispiele_Umsetzung_KRW Umsetzung Beispiele für die Kodierregeln |  | **eEB**     KBV_ITA_VGEX_Technische_Anlage_eEB |
 | Technische Anlage eEB | - | - |
-|  | **371-SCHNITTSTELLEN** |  |
-|  |  |  |
+|  | **371** | **-** |
+| **SCHNITTSTELLEN** |  |  |
 |  |  |  |
 | **Dokument** | **Erläuterung** | **Hinweise auf Änderungen** |
 | **PVS-Archivierungs-Wechsel-Schnittstelle** |  |  |
@@ -344,7 +344,7 @@ Aktualisierung der Daten der KV Nordrhein zum zweiten Quartal 2026 Änderung [1C
 | **eEB** |  |  |
 | KBV_ITA_VGEX_Technische_Anlage_eEB | Technische Anlage eEB | -  - |
 
-Aufnahme der optionalen Anforderung O2 -02 Anpassung der P2-02 | **371-SCHNITTSTELLEN** |  |  |
+Aufnahme der optionalen Anforderung O2 -02 Anpassung der P2-02 | 371-SCHNITTSTELLEN |  |  |
 |---|---|---|
 | **Dokument** | **Erläuterung** | **Hinweise auf Änderungen** |
 | **PVS-Archivierungs-Wechsel-Schnittstelle** |  |  |
@@ -369,7 +369,7 @@ Aufnahme der optionalen Anforderung O2 -02 Anpassung der P2-02 | **371-SCHNITTST
 
 ---
 
-| **Dokument** | **Erläuterung** | **Hinweise auf Änderungen ** KBV_ITA_RLEX_Zert |
+| Dokument | Erläuterung | Hinweise auf Änderungen  KBV_ITA_RLEX_Zert |
 |---|---|---|
 | Zertifizierungsrichtlinie der KBV | KBV_ITA_FMEX_Softwarevarianten  Nutzung zur Meldung von Softwarevarianten |  |
 | KBV_ITA_SIEX_Inhalt_Update | Inhaltsverzeichnis | - |
@@ -380,7 +380,7 @@ Aufnahme der optionalen Anforderung O2 -02 Anpassung der P2-02 | **371-SCHNITTST
 |  | **Dokument** |  |
 | **Erläuterung** |  | **Hinweise auf Änderungen** |
 | KBV_ITA_AHEX_Kodiertabelle_BFB | „Kodiertabelle von PDF417 |  |
-| KBV_ITA_AHEX_Pruefpaket_BFB |  |  |
+| KBV_ITA_AHE | X | _Pruefpaket_BFB |
 | Service_Zur_Validierung.zip | FHIR Objekte zur Validierung |  |
 | **Verordnungssoftware-Schnittstelle** |  |  |
 | Beispiele_2.1.0.zip | FHIR Beispieldateien |  |
@@ -391,7 +391,7 @@ Aufnahme der optionalen Anforderung O2 -02 Anpassung der P2-02 | **371-SCHNITTST
 | Service_zur_Validierung_2.1.0.zip | FHIR Objekte zur Validierung |  |
 | Service_zur_Validierung_2.2.0.zip | FHIR Objekte zur Validierung (aktuelle |  |
 
-ALLGEMEIN Kommentierungsversion) Inhalt zum Update  Besonderheiten zum Update Codewörtern“ Prüfpaket Blankoformularbedruckung | **ALLGEMEIN** |  |  |
+ALLGEMEIN Kommentierungsversion) Inhalt zum Update  Besonderheiten zum Update Codewörtern“ Prüfpaket Blankoformularbedruckung | ALLGEMEIN |  |  |
 |---|---|---|
 | **Dokument** | **Erläuterung** | **Hinweise auf Änderungen** |
 | KBV_ITA_RLEX_Zert | Zertifizierungsrichtlinie der KBV |  |
@@ -399,7 +399,7 @@ ALLGEMEIN Kommentierungsversion) Inhalt zum Update  Besonderheiten zum Update Co
 | KBV_ITA_SIEX_Inhalt_Update | Inhaltsverzeichnis | - |
 | KBV_ITA_SIEX_Liesmich_Update | Rundschreiben der KBV | - |
 
-| **BLANKOFORMULARE** |  |  |
+| BLANKOFORMULARE |  |  |
 |---|---|---|
 | **Dokument** | **Erläuterung** | **Hinweise auf Änderungen** |
 | KBV_ITA_AHEX_Kodiertabelle_BFB | „Kodiertabelle von PDF417 |  |
@@ -417,7 +417,7 @@ ALLGEMEIN Kommentierungsversion) Inhalt zum Update  Besonderheiten zum Update Co
 
 ---
 
-|  | **Version_1.2** |  |
+|  | Version_1.2 |  |
 |---|---|---|
 | FOR_Beispieldaten_V1.2.1.zip | Beispieldatensätze FOR | KBV_FHIR_FOR_V1.2.1.zip  FHIR Profile für FOR (Formularübergreifende Regelungen) |
 |  |  |  |
@@ -432,7 +432,7 @@ ALLGEMEIN Kommentierungsversion) Inhalt zum Update  Besonderheiten zum Update Co
 | **Q4_2026** |  |  |
 | KBV_ITA_VGEX_Technisches_Handbuch_BFB | Technisches Handbuch | - |
 
-| **DIGITALE MUSTER** |  |  |
+| DIGITALE MUSTER |  |  |
 |---|---|---|
 | **Dokument** | **Erläuterung** | **Hinweise auf Änderungen** |
 | DigitaleMuster.zip | Muster für Digitale Vordrucke im PDF/A-Format |  |
@@ -591,7 +591,7 @@ Bereitstellung des aktualisierten Stylesheets
 | KBV_ITA_VGEX_Technische_Anlage_eVDGA | Technische Anlage eVDGA | - |
 | eVDGA_Beispieldaten_V1.2 | Beispieldatensätze |  |
 | eVDGA_Stylesheet_V1.2 | Stylesheets zur Visualisierung der eVDGA-Daten |  |
-| KBV_FHIR_eVDGA_V 1.2.2_zur_Validierung | Beispielhafte Verzeichnis zur Nutzung der Validierung |  |
+| KBV_FHIR_eVDGA_V1.2.2_zur_Validierung | Beispielhafte Verzeichnis zur Nutzung der Validierung |  |
 |  | KBV_FHIR_eRP_V1.4.2.zip |  |
 | FHIR Profile zur eRezept |  | Inkrafttreten zum 1. Juli 2026 |
 | eRP_Beispiele_V1.4.zip | Beispieldatensätze | Inkrafttreten zum 1. Juli 2026 |
@@ -603,7 +603,7 @@ Angepasst an den neuen
 
 ---
 
-|  |  | **Dokument** |
+|  |  | Dokument |
 |---|---|---|
 | **Erläuterung** | **Hinweise auf Änderungen** | **Kryptomodul** |
 |  |  |  |
@@ -656,7 +656,7 @@ Angepasst an den neuen
 | KBV_ITA_VGEX_Technische_Anlage_eVDGA | Technische Anlage eVDGA |  |
 | Vorlage_eVDGA_Patientenausdruck_07_2026.zip | Vorlage zur Erstellung des Patientenausdruckes der eVDGA |  |
 
-Verordnung Aktualisiert im Zusammenhang der Patientenverständlichkeit Verordnung Aktualisierung Umsetzung des Updates | **KBV-SOFTWARE** |  |  |
+Verordnung Aktualisiert im Zusammenhang der Patientenverständlichkeit Verordnung Aktualisierung Umsetzung des Updates | KBV-SOFTWARE |  |  |
 |---|---|---|
 | **Dokument** | **Erläuterung** | **Hinweise auf Änderungen** |
 | **Kryptomodul** |  |  |
@@ -687,7 +687,7 @@ Verordnung Aktualisiert im Zusammenhang der Patientenverständlichkeit Verordnun
 |  |  |  |
 |  | ReleaseNotes_Pruefassistent.html | Verzeichnis der Änderungen |
 
-LABOR EXT_ITA_VGEX_LDT 3_2_19_Gesamtdokument LDT3.2.19_Testdateien LDT-KBV KBV_ITA_AHEX_Pruefpaket_LDK Datensatzbeschreibung LDT in der Version 3.2.19 Testdateien für die Version 2.19.0 3.2.19 Anpassung der erlaubten der DMP -Kennzeichen | **LABOR** |  |  |
+LABOR EXT_ITA_VGEX_LDT 3_2_19_Gesamtdokument LDT3.2.19_Testdateien LDT-KBV KBV_ITA_AHEX_Pruefpaket_LDK Datensatzbeschreibung LDT in der Version 3.2.19 Testdateien für die Version 2.19.0 3.2.19 Anpassung der erlaubten der DMP -Kennzeichen | LABOR |  |  |
 |---|---|---|
 | **Dokument** | **Erläuterung** | **Hinweise auf Änderungen** |
 | **Labordatenkommunikation** |  |  |
@@ -702,7 +702,7 @@ LABOR EXT_ITA_VGEX_LDT 3_2_19_Gesamtdokument LDT3.2.19_Testdateien LDT-KBV KBV_I
 | **Q4_2026** |  |  |
 | EXT_ITA_VGEX_LDT 3_2_20_Gesamtdokument | Datensatzbeschreibung LDT in der Version 3.2.20 | - |
 
-| **LIZENZVEREINBARUNG** |  |  |
+| LIZENZVEREINBARUNG |  |  |
 |---|---|---|
 | **Dokument** | **Erläuterung** | **Hinweise auf Änderungen** |
 | KBV_ITA_VGEX_Lizenzvereinbarung | Lizenzvereinbarung -Software für Softwarehersteller- |  |
@@ -711,13 +711,13 @@ LABOR EXT_ITA_VGEX_LDT 3_2_19_Gesamtdokument LDT3.2.19_Testdateien LDT-KBV KBV_I
 
 ---
 
-| **eDokumentation_KIM** |  | eDokumentation_V2.0. |
+| eDokumentation_KIM |  | eDokumentation_V2.0. |
 |---|---|---|
 | KIM Spezifikation für den Dienst eDokumentation | Begleitdatei_V1.0.3  Schnittstellenbeschreibung für die Begleitdatei | Begleitdatei.zip |
 | Schema für die Begleitdatei |  |  |
 | KBV_ITA_VGEX_Lizenzvereinbarung_Stammdateien | Lizenzvereinbarung für Stammdateien |  |
 
-| **MEDIZINISCHE DOKUMENTATION** |  |  |
+| MEDIZINISCHE DOKUMENTATION |  |  |
 |---|---|---|
 | **Dokument** | **Erläuterung** | **Hinweise auf Änderungen** |
 | **Leitfaeden** |  |  |
@@ -953,7 +953,7 @@ MEDIZINISCHE DOKUMENTATION Leitfaeden Austausch_von_XML-Daten_V1.59.zip ehd-Rich
 
 ---
 
-| **Inkrafttreten 01.10.2026** | Austausch_von_XML-Daten_V1.60  Austausch von XML-Daten in der ärztl. Versorgung | EXT_ITA_AHEX_Teilnahme_eDMP_Uebergreifend |
+| Inkrafttreten 01.10.2026 | Austausch_von_XML-Daten_V1.60  Austausch von XML-Daten in der ärztl. Versorgung | EXT_ITA_AHEX_Teilnahme_eDMP_Uebergreifend |
 |---|---|---|
 | Teilnahmeerklärung zum Behandlungsprogramm | KBV_ITA_VGEX_Anforderungskatalog_eDMP  Anforderungskatalog eDMP | EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend |
 | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten | EXT_ITA_AHEX_Anleitung_eDMP_Uebergreifend  Ausfüllanleitung diagnoseübergreifenden allg. Datensatz |  |
@@ -962,13 +962,13 @@ MEDIZINISCHE DOKUMENTATION Leitfaeden Austausch_von_XML-Daten_V1.59.zip ehd-Rich
 | Ausfüllanleitung indikationsspezifischer Datensatz Adipositas |  | EXT_ITA_VGEX_Plausi_eDMP_ADERW |
 | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten | KBV_ITA_FMEX_AAZ_eDMP_ADERW | Antrag auf Zertifizierung |
 | Schnittstelle_ADERW_V1.00.zip | Schnittstelle Adipositas Erwachsene |  |
-| xpm-dmp-aderw-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-|  |  | XPM für eDMP Adipositas Erwachsene |
-| xpm-dmp-aderw-A-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-|  |  |  |
-|  | XPM A-Datensätze für eDMP Adipositas Erwachsene |  |
+| xpm | - | dmp |
+| - | aderw | - |
+| 2026.4.0- | BETA.zip | XPM für eDMP Adipositas Erwachsene |
+| xpm | - | dmp |
+| - | aderw | - |
+| A | - | 2026.4.0 |
+| -BETA.zip | XPM A-Datensätze für eDMP Adipositas Erwachsene |  |
 | **Adipositas_KiJu** |  |  |
 |  | **Inkrafttreten 01.10.2026** | EXT_ITA_AHEX_Anleitung_eDMP_ADKJ |
 | Ausfüllanleitung indikationsspezifischer Datensatz Adipositas |  | EXT_ITA_VGEX_Plausi_eDMP_Adipositas_KiJu |
@@ -995,10 +995,10 @@ MEDIZINISCHE DOKUMENTATION Leitfaeden Austausch_von_XML-Daten_V1.59.zip ehd-Rich
 |  | **Inkrafttreten 01.10.2026** | EXT_ITA_AHEX_Anleitung_eDMP_ADERW  Ausfüllanleitung indikationsspezifischer Datensatz Adipositas |
 |  | EXT_ITA_VGEX_Plausi_eDMP_ADERW |  |
 | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten |  | KBV_ITA_FMEX_AAZ_eDMP_ADERW |
-| Antrag auf Zertifizierung     Schnittstelle_ADERW_V1.00.zip  Schnittstelle Adipositas Erwachsene    xpm-dmp-aderw-2026.4.0-BETA.zip |  |  |
-| XPM für eDMP Adipositas Erwachsene | xpm-dmp-aderw-A-2026.4.0-BETA.zip |  |
-|  |  |  |
-|  | XPM A-Datensätze für eDMP Adipositas Erwachsene |  |
+| Antrag auf Zertifizierung     Schnittstelle_ADERW_V1.00.zip  Schnittstelle Adipositas Erwachsene    xpm-dmp-aderw-2026.4.0 | - | BETA.zip |
+| XPM für eDMP Adipositas Erwachsene | xpm | -dmp |
+| -aderw | -A | -2026.4.0 |
+| -BETA.zip | XPM A-Datensätze für eDMP Adipositas Erwachsene |  |
 | **Adipositas_KiJu** |  |  |
 | **Inkrafttreten 01.10.2026 ** EXT_ITA_AHEX_Anleitung_eDMP_ADKJ  Ausfüllanleitung indikationsspezifischer Datensatz Adipositas    EXT_ITA_VGEX_Plausi_eDMP_Adipositas_KiJu  Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten |  |  |
 |  |  |  |
@@ -1013,11 +1013,11 @@ MEDIZINISCHE DOKUMENTATION Leitfaeden Austausch_von_XML-Daten_V1.59.zip ehd-Rich
 |  | EXT_ITA_VGEX_Plausi_eDMP_ADERW |  |
 | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten |  | KBV_ITA_FMEX_AAZ_eDMP_ADERW |
 | Antrag auf Zertifizierung |  | Schnittstelle_ADERW_V1.00.zip |
-| Schnittstelle Adipositas Erwachsene |  | xpm-dmp-aderw-2026.4.0-BETA.zip |
-|  |  |  |
-|  |  |  |
-| XPM für eDMP Adipositas Erwachsene |  | xpm-dmp-aderw-A-2026.4.0-BETA.zip |
-|  |  | XPM A-Datensätze für eDMP Adipositas Erwachsene |
+| Schnittstelle Adipositas Erwachsene |  | xpm |
+| - | dmp | - |
+| aderw- | 2026.4.0- | BETA.zip |
+| XPM für eDMP Adipositas Erwachsene |  | xpm |
+| -dmp-aderw-A-2026.4.0-BETA.zip |  | XPM A-Datensätze für eDMP Adipositas Erwachsene |
 | **Adipositas_KiJu **  **Inkrafttreten 01.10.2026 ** EXT_ITA_AHEX_Anleitung_eDMP_ADKJ  Ausfüllanleitung indikationsspezifischer Datensatz Adipositas    EXT_ITA_VGEX_Plausi_eDMP_Adipositas_KiJu | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten |  |
 |  |  |  |
 |  |  |  |
@@ -1027,10 +1027,10 @@ MEDIZINISCHE DOKUMENTATION Leitfaeden Austausch_von_XML-Daten_V1.59.zip ehd-Rich
 | Austausch_von_XML-Daten_V1.60  Austausch von XML-Daten in der ärztl. Versorgung    EXT_ITA_AHEX_Teilnahme_eDMP_Uebergreifend  Teilnahmeerklärung zum Behandlungsprogramm    KBV_ITA_VGEX_Anforderungskatalog_eDMP  Anforderungskatalog eDMP    EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend  Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten | EXT_ITA_AHEX_Anleitung_eDMP_Uebergreifend | Ausfüllanleitung diagnoseübergreifenden allg. Datensatz |
 |  | **Adipositas_Erwachsene** |  |
 | **Inkrafttreten 01.10.2026** | EXT_ITA_AHEX_Anleitung_eDMP_ADERW | Ausfüllanleitung indikationsspezifischer Datensatz Adipositas |
-| EXT_ITA_VGEX_Plausi_eDMP_ADERW  Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten    KBV_ITA_FMEX_AAZ_eDMP_ADERW  Antrag auf Zertifizierung     Schnittstelle_ADERW_V1.00.zip  Schnittstelle Adipositas Erwachsene | xpm-dmp-aderw-2026.4.0-BETA.zip |  |
-| XPM für eDMP Adipositas Erwachsene    xpm-dmp-aderw-A-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-|  |  | XPM A-Datensätze für eDMP Adipositas Erwachsene |
+| EXT_ITA_VGEX_Plausi_eDMP_ADERW  Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten    KBV_ITA_FMEX_AAZ_eDMP_ADERW  Antrag auf Zertifizierung     Schnittstelle_ADERW_V1.00.zip  Schnittstelle Adipositas Erwachsene | xpm | - |
+| dmp-aderw-2026.4.0-BETA.zip  XPM für eDMP Adipositas Erwachsene    xpm- | dmp | - |
+| aderw- | A- | 2026.4.0- |
+| BETA.zip |  | XPM A-Datensätze für eDMP Adipositas Erwachsene |
 |  |  | **Adipositas_KiJu** |
 | **Inkrafttreten 01.10.2026 ** EXT_ITA_AHEX_Anleitung_eDMP_ADKJ  Ausfüllanleitung indikationsspezifischer Datensatz Adipositas    EXT_ITA_VGEX_Plausi_eDMP_Adipositas_KiJu  Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten |  |  |
 |  |  |  |
@@ -1047,14 +1047,14 @@ MEDIZINISCHE DOKUMENTATION Leitfaeden Austausch_von_XML-Daten_V1.59.zip ehd-Rich
 | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten    EXT_ITA_AHEX_Anleitung_eDMP_Uebergreifend  Ausfüllanleitung diagnoseübergreifenden allg. Datensatz   **Adipositas_Erwachsene **  **Inkrafttreten 01.10.2026** | EXT_ITA_AHEX_Anleitung_eDMP_ADERW  Ausfüllanleitung indikationsspezifischer Datensatz Adipositas | EXT_ITA_VGEX_Plausi_eDMP_ADERW |
 | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten | KBV_ITA_FMEX_AAZ_eDMP_ADERW | Antrag auf Zertifizierung |
 | Schnittstelle_ADERW_V1.00.zip | Schnittstelle Adipositas Erwachsene |  |
-| xpm-dmp-aderw-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-|  |  |  |
+| xpm | - | dmp |
+| - | aderw | - |
+| 2026.4.0 | - | BETA.zip |
 |  | XPM für eDMP Adipositas Erwachsene |  |
-| xpm-dmp-aderw-A-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| xpm | - | dmp |
+| - | aderw | - |
+| A | - | 2026.4.0 |
+| - | BETA.zip |  |
 | XPM A-Datensätze für eDMP Adipositas Erwachsene | **Adipositas_KiJu** |  |
 | **Inkrafttreten 01.10.2026** | EXT_ITA_AHEX_Anleitung_eDMP_ADKJ  Ausfüllanleitung indikationsspezifischer Datensatz Adipositas | EXT_ITA_VGEX_Plausi_eDMP_Adipositas_KiJu |
 |  | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten |  |
@@ -1064,9 +1064,9 @@ MEDIZINISCHE DOKUMENTATION Leitfaeden Austausch_von_XML-Daten_V1.59.zip ehd-Rich
 |  | **Q4_2026** |  |
 | **Inkrafttreten 01.10.2026 ** Austausch_von_XML-Daten_V1.60  Austausch von XML-Daten in der ärztl. Versorgung    EXT_ITA_AHEX_Teilnahme_eDMP_Uebergreifend  Teilnahmeerklärung zum Behandlungsprogramm    KBV_ITA_VGEX_Anforderungskatalog_eDMP  Anforderungskatalog eDMP | EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten |
 | EXT_ITA_AHEX_Anleitung_eDMP_Uebergreifend  Ausfüllanleitung diagnoseübergreifenden allg. Datensatz |  | **Adipositas_Erwachsene** |
-| **Inkrafttreten 01.10.2026 ** EXT_ITA_AHEX_Anleitung_eDMP_ADERW  Ausfüllanleitung indikationsspezifischer Datensatz Adipositas    EXT_ITA_VGEX_Plausi_eDMP_ADERW  Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten    KBV_ITA_FMEX_AAZ_eDMP_ADERW  Antrag auf Zertifizierung     Schnittstelle_ADERW_V1.00.zip  Schnittstelle Adipositas Erwachsene | xpm-dmp-aderw-2026.4.0-BETA.zip |  |
-| XPM für eDMP Adipositas Erwachsene    xpm-dmp-aderw-A-2026.4.0-BETA.zip |  |  |
-| XPM A-Datensätze für eDMP Adipositas Erwachsene   **Adipositas_KiJu **  **Inkrafttreten 01.10.2026 ** EXT_ITA_AHEX_Anleitung_eDMP_ADKJ  Ausfüllanleitung indikationsspezifischer Datensatz Adipositas    EXT_ITA_VGEX_Plausi_eDMP_Adipositas_KiJu | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten |  |
+| **Inkrafttreten 01.10.2026 ** EXT_ITA_AHEX_Anleitung_eDMP_ADERW  Ausfüllanleitung indikationsspezifischer Datensatz Adipositas    EXT_ITA_VGEX_Plausi_eDMP_ADERW  Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten    KBV_ITA_FMEX_AAZ_eDMP_ADERW  Antrag auf Zertifizierung     Schnittstelle_ADERW_V1.00.zip  Schnittstelle Adipositas Erwachsene | xpm | -dmp |
+| -aderw-2026.4.0-BETA.zip  XPM für eDMP Adipositas Erwachsene    xpm-dmp-aderw- | A- | 2026.4.0- |
+| BETA.zip  XPM A-Datensätze für eDMP Adipositas Erwachsene   **Adipositas_KiJu **  **Inkrafttreten 01.10.2026 ** EXT_ITA_AHEX_Anleitung_eDMP_ADKJ  Ausfüllanleitung indikationsspezifischer Datensatz Adipositas    EXT_ITA_VGEX_Plausi_eDMP_Adipositas_KiJu | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -1092,12 +1092,12 @@ MEDIZINISCHE DOKUMENTATION Leitfaeden Austausch_von_XML-Daten_V1.59.zip ehd-Rich
 | EXT_ITA_VGEX_Plausi_eDMP_ADERW |  | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten |
 |  | KBV_ITA_FMEX_AAZ_eDMP_ADERW | Antrag auf Zertifizierung |
 |  | Schnittstelle_ADERW_V1.00.zip | Schnittstelle Adipositas Erwachsene |
-|  | xpm-dmp-aderw-2026.4.0-BETA.zip |  |
-|  |  |  |
-|  |  |  |
-|  | XPM für eDMP Adipositas Erwachsene | xpm-dmp-aderw-A-2026.4.0-BETA.zip |
-|  |  |  |
-|  |  |  |
+|  | xpm | - |
+| dmp | - | aderw |
+| - | 2026.4.0 | - |
+| BETA.zip | XPM für eDMP Adipositas Erwachsene | xpm- |
+| dmp- | aderw- | A- |
+| 2026.4.0 | - | BETA.zip |
 | XPM A-Datensätze für eDMP Adipositas Erwachsene |  |  |
 | **Adipositas_KiJu** |  |  |
 | **Inkrafttreten 01.10.2026** | EXT_ITA_AHEX_Anleitung_eDMP_ADKJ | Ausfüllanleitung indikationsspezifischer Datensatz Adipositas |
@@ -1117,13 +1117,13 @@ MEDIZINISCHE DOKUMENTATION Leitfaeden Austausch_von_XML-Daten_V1.59.zip ehd-Rich
 | EXT_ITA_AHEX_Anleitung_eDMP_ADERW  Ausfüllanleitung indikationsspezifischer Datensatz Adipositas | EXT_ITA_VGEX_Plausi_eDMP_ADERW | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten |
 |  | KBV_ITA_FMEX_AAZ_eDMP_ADERW | Antrag auf Zertifizierung |
 |  | Schnittstelle_ADERW_V1.00.zip | Schnittstelle Adipositas Erwachsene |
-|  | xpm-dmp-aderw-2026.4.0-BETA.zip |  |
-|  |  |  |
-|  |  |  |
-|  |  | XPM für eDMP Adipositas Erwachsene |
-| xpm-dmp-aderw-A-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-|  |  |  |
+|  | xpm | - |
+| dmp | - | aderw |
+| - | 2026.4.0 | - |
+| BETA.zip |  | XPM für eDMP Adipositas Erwachsene |
+| xpm | -dmp | -aderw |
+| -A | - | 2026.4.0 |
+| - | BETA.zip |  |
 | XPM A-Datensätze für eDMP Adipositas Erwachsene |  |  |
 | **Adipositas_KiJu** |  |  |
 |  | **Q4_2026** |  |
@@ -1137,10 +1137,10 @@ MEDIZINISCHE DOKUMENTATION Leitfaeden Austausch_von_XML-Daten_V1.59.zip ehd-Rich
 | EXT_ITA_AHEX_Anleitung_eDMP_ADERW  Ausfüllanleitung indikationsspezifischer Datensatz Adipositas | EXT_ITA_VGEX_Plausi_eDMP_ADERW | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten |
 |  | KBV_ITA_FMEX_AAZ_eDMP_ADERW | Antrag auf Zertifizierung |
 | Schnittstelle_ADERW_V1.00.zip | Schnittstelle Adipositas Erwachsene |  |
-| xpm-dmp-aderw-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-|  |  |  |
-| XPM für eDMP Adipositas Erwachsene    xpm-dmp-aderw-A-2026.4.0-BETA.zip |  | XPM A-Datensätze für eDMP Adipositas Erwachsene |
+| xpm | - | dmp |
+| - | aderw | - |
+| 2026.4.0 | - | BETA.zip |
+| XPM für eDMP Adipositas Erwachsene    xpm-dmp-aderw-A-2026.4.0 | -BETA.zip | XPM A-Datensätze für eDMP Adipositas Erwachsene |
 |  | **Adipositas_KiJu** |  |
 | **Inkrafttreten 01.10.2026 ** EXT_ITA_AHEX_Anleitung_eDMP_ADKJ | Ausfüllanleitung indikationsspezifischer Datensatz Adipositas |  |
 | EXT_ITA_VGEX_Plausi_eDMP_Adipositas_KiJu | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten |  |
@@ -1154,9 +1154,9 @@ MEDIZINISCHE DOKUMENTATION Leitfaeden Austausch_von_XML-Daten_V1.59.zip ehd-Rich
 |  | EXT_ITA_VGEX_Plausi_eDMP_ADERW |  |
 | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten |  | KBV_ITA_FMEX_AAZ_eDMP_ADERW |
 | Antrag auf Zertifizierung |  | Schnittstelle_ADERW_V1.00.zip |
-| Schnittstelle Adipositas Erwachsene |  | xpm-dmp-aderw-2026.4.0-BETA.zip |
-| XPM für eDMP Adipositas Erwachsene    xpm-dmp-aderw-A-2026.4.0-BETA.zip |  |  |
-|  |  |  |
+| Schnittstelle Adipositas Erwachsene |  | xpm |
+| -dmp-aderw-2026.4.0-BETA.zip  XPM für eDMP Adipositas Erwachsene    xpm | -dmp | -aderw |
+| -A | -2026.4.0 | -BETA.zip |
 | XPM A-Datensätze für eDMP Adipositas Erwachsene |  |  |
 | **Adipositas_KiJu ** |  | **Inkrafttreten 01.10.2026** |
 | EXT_ITA_AHEX_Anleitung_eDMP_ADKJ | Ausfüllanleitung indikationsspezifischer Datensatz Adipositas |  |
@@ -1175,13 +1175,13 @@ MEDIZINISCHE DOKUMENTATION Leitfaeden Austausch_von_XML-Daten_V1.59.zip ehd-Rich
 | Ausfüllanleitung indikationsspezifischer Datensatz Adipositas | EXT_ITA_VGEX_Plausi_eDMP_ADERW | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten |
 | KBV_ITA_FMEX_AAZ_eDMP_ADERW | Antrag auf Zertifizierung |  |
 | Schnittstelle_ADERW_V1.00.zip | Schnittstelle Adipositas Erwachsene |  |
-| xpm-dmp-aderw-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-|  |  |  |
+| xpm | - | dmp |
+| - | aderw | - |
+| 2026.4.0 | - | BETA.zip |
 |  | XPM für eDMP Adipositas Erwachsene |  |
-| xpm-dmp-aderw-A-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-|  |  |  |
+| xpm- | dmp- | aderw- |
+| A | - | 2026.4.0 |
+| - | BETA.zip |  |
 | XPM A-Datensätze für eDMP Adipositas Erwachsene |  |  |
 | **Adipositas_KiJu** |  |  |
 
@@ -1189,41 +1189,41 @@ Kinder und Jugendliche
 
 ---
 
-| Schnittstelle Adipositas Kinder und Jugendliche | xpm-dmp-adkj-2026.4.0-BETA.zip  XPM für eDMP Adipositas Kinder und Jugendliche | xpm-dmp-adkj-A-2026.4.0-BETA.zip |
+| Schnittstelle Adipositas Kinder und Jugendliche | xpm-dmp-adkj-2026.4.0-BETA.zip  XPM für eDMP Adipositas Kinder und Jugendliche | xpm |
 |---|---|---|
-|  |  |  |
-|  |  | XPM A-Datensätze für eDMP Adipositas Kinder und |
+| -dmp | -adkj | -A |
+| -2026.4.0 | -BETA.zip | XPM A-Datensätze für eDMP Adipositas Kinder und |
 |  |  | **Asthma** |
 |  |  |  |
 | **Inkrafttreten 01.10.2026** | Schnittstelle_Asthma_V4.47.zip | Schnittstelle Asthma bronchiale |
-| xpm-dmp-asthma-2026.4.0-BETA.zip | XPM für eDMP Asthma | xpm-dmp-asthma-A-2026.4.0-BETA.zip |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| xpm-dmp-asthma-2026.4.0-BETA.zip | XPM für eDMP Asthma | xpm- |
+| dmp | - | asthma |
+| - | A | - |
+| 2026.4.0 | - | BETA.zip |
 | XPM für A-Datensätze eDMP Asthma |  | **Brustkrebs** |
 |  |  | **Inkrafttreten 01.10.2026** |
 |  | KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs |  |
 | Anforderungskatalog DMP Brustkrebs |  | - |
 | **COPD** |  | **Inkrafttreten 01.10.2026** |
 | Schnittstelle_COPD_V4.07.zip | Schnittstelle COPD |  |
-| xpm-dmp-copd-2026.4.0-BETA.zip |  |  |
-|  |  |  |
+| xpm | - | dmp |
+| - | copd | - |
 | KBV_ITA_FMEX_AAZ_eDMP_ADKJ  Antrag auf Zertifizierung | Schnittstelle_ADKJ_V1.00.zip | Schnittstelle Adipositas Kinder und Jugendliche |
 | xpm-dmp-adkj-2026.4.0-BETA.zip | XPM für eDMP Adipositas Kinder und Jugendliche |  |
-| xpm-dmp-adkj-A-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| xpm | - | dmp |
+| - | adkj | - |
+| A | - | 2026.4.0 |
+| - | BETA.zip |  |
 | XPM A-Datensätze für eDMP Adipositas Kinder und | **Asthma** |  |
 |  | **Inkrafttreten 01.10.2026** | Schnittstelle_Asthma_V4.47.zip |
 | Schnittstelle Asthma bronchiale | xpm-dmp-asthma-2026.4.0-BETA.zip | XPM für eDMP Asthma |
-|  | xpm-dmp-asthma-A-2026.4.0-BETA.zip |  |
-|  |  |  |
-| XPM für A-Datensätze eDMP Asthma | **Brustkrebs** |  |
+|  | xpm | - |
+| dmp | - | asthma |
+| -A-2026.4.0-BETA.zip  XPM für A-Datensätze eDMP Asthma | **Brustkrebs** |  |
 | **Inkrafttreten 01.10.2026 ** KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs  Anforderungskatalog DMP Brustkrebs  - **COPD** |  |  |
-| **Inkrafttreten 01.10.2026 ** Schnittstelle_COPD_V4.07.zip | Schnittstelle COPD | xpm-dmp-copd-2026.4.0-BETA.zip |
-|  |  |  |
-|  |  |  |
+| **Inkrafttreten 01.10.2026 ** Schnittstelle_COPD_V4.07.zip | Schnittstelle COPD | xpm- |
+| dmp | - | copd |
+| -2026.4.0 | - | BETA.zip |
 | KBV_ITA_FMEX_AAZ_eDMP_ADKJ | Antrag auf Zertifizierung |  |
 | Schnittstelle_ADKJ_V1.00.zip | Schnittstelle Adipositas Kinder und Jugendliche |  |
 | xpm-dmp-adkj-2026.4.0-BETA.zip | XPM für eDMP Adipositas Kinder und Jugendliche |  |
@@ -1241,50 +1241,50 @@ Kinder und Jugendliche
 | **Depression** |  | **Inkrafttreten 01.10.2026** |
 | Schnittstelle_Depression_V1.03.zip | Schnittstelle Depression |  |
 | xpm-dmp-depression-2026.4.0-BETA.zip | XPM für eDMP Depression |  |
-| KBV_ITA_FMEX_AAZ_eDMP_ADKJ  Antrag auf Zertifizierung     Schnittstelle_ADKJ_V1.00.zip  Schnittstelle Adipositas Kinder und Jugendliche    xpm-dmp-adkj-2026.4.0-BETA.zip  XPM für eDMP Adipositas Kinder und Jugendliche     xpm-dmp-adkj-A-2026.4.0-BETA.zip |  |  |
-|  |  |  |
+| KBV_ITA_FMEX_AAZ_eDMP_ADKJ  Antrag auf Zertifizierung     Schnittstelle_ADKJ_V1.00.zip  Schnittstelle Adipositas Kinder und Jugendliche    xpm-dmp-adkj-2026.4.0-BETA.zip  XPM für eDMP Adipositas Kinder und Jugendliche     xpm-dmp | - | adkj |
+| -A | -2026.4.0 | -BETA.zip |
 |  | XPM A-Datensätze für eDMP Adipositas Kinder und |  |
 |  | **Asthma** |  |
 |  |  | **Inkrafttreten 01.10.2026** |
 | Schnittstelle_Asthma_V4.47.zip | Schnittstelle Asthma bronchiale |  |
 | xpm-dmp-asthma-2026.4.0-BETA.zip | XPM für eDMP Asthma |  |
-| xpm-dmp-asthma-A-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-|  |  |  |
-|  | XPM für A-Datensätze eDMP Asthma |  |
+| xpm | - | dmp |
+| - | asthma | - |
+| A | - | 2026.4.0 |
+| -BETA.zip | XPM für A-Datensätze eDMP Asthma |  |
 | **Brustkrebs** |  |  |
 | **Inkrafttreten 01.10.2026 ** KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs  Anforderungskatalog DMP Brustkrebs  - **COPD** |  |  |
-| **Inkrafttreten 01.10.2026 ** Schnittstelle_COPD_V4.07.zip  Schnittstelle COPD    xpm-dmp-copd-2026.4.0-BETA.zip |  |  |
-| XPM für eDMP COPD | xpm-dmp-copd-A-2026.4.0-BETA.zip |  |
-|  |  |  |
-|  |  |  |
+| **Inkrafttreten 01.10.2026 ** Schnittstelle_COPD_V4.07.zip  Schnittstelle COPD    xpm-dmp-copd-2026.4.0 | - | BETA.zip |
+| XPM für eDMP COPD | xpm | -dmp |
+| - | copd | - |
+| A- | 2026.4.0 | - |
 | KBV_ITA_FMEX_AAZ_eDMP_ADKJ | Antrag auf Zertifizierung |  |
 | Schnittstelle_ADKJ_V1.00.zip | Schnittstelle Adipositas Kinder und Jugendliche |  |
-| xpm-dmp-adkj-2026.4.0-BETA.zip  XPM für eDMP Adipositas Kinder und Jugendliche     xpm-dmp-adkj-A-2026.4.0-BETA.zip |  |  |
+| xpm-dmp-adkj-2026.4.0-BETA.zip  XPM für eDMP Adipositas Kinder und Jugendliche     xpm-dmp-adkj-A-2026.4.0 | - | BETA.zip |
 | XPM A-Datensätze für eDMP Adipositas Kinder und |  | **Asthma** |
 |  |  | **Inkrafttreten 01.10.2026** |
-| Schnittstelle_Asthma_V4.47.zip   Schnittstelle Asthma bronchiale    xpm-dmp-asthma-2026.4.0-BETA.zip  XPM für eDMP Asthma    xpm-dmp-asthma-A-2026.4.0-BETA.zip |  |  |
-| XPM für A-Datensätze eDMP Asthma   **Brustkrebs ** | **Inkrafttreten 01.10.2026** |  |
+| Schnittstelle_Asthma_V4.47.zip   Schnittstelle Asthma bronchiale    xpm-dmp-asthma-2026.4.0-BETA.zip  XPM für eDMP Asthma    xpm-dmp-asthma | - | A |
+| -2026.4.0-BETA.zip  XPM für A-Datensätze eDMP Asthma   **Brustkrebs ** | **Inkrafttreten 01.10.2026** |  |
 | KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs | Anforderungskatalog DMP Brustkrebs | - |
 | **COPD** |  |  |
 |  | **Inkrafttreten 01.10.2026** | Schnittstelle_COPD_V4.07.zip |
 | Schnittstelle COPD    xpm-dmp-copd-2026.4.0-BETA.zip | XPM für eDMP COPD |  |
-| xpm-dmp-copd-A-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-|  |  |  |
-| XPM für A-Datensätze eDMP COPD   **Depression **  **Inkrafttreten 01.10.2026 ** Schnittstelle_Depression_V1.03.zip  Schnittstelle Depression    xpm-dmp-depression-2026.4.0-BETA.zip |  |  |
-|  |  |  |
+| xpm- | dmp- | copd- |
+| A | - | 2026.4.0 |
+| - | BETA.zip |  |
+| XPM für A-Datensätze eDMP COPD   **Depression **  **Inkrafttreten 01.10.2026 ** Schnittstelle_Depression_V1.03.zip  Schnittstelle Depression    xpm | - | dmp |
+| -depression | -2026.4.0 | -BETA.zip |
 |  | XPM für eDMP Depression |  |
 | KBV_ITA_FMEX_AAZ_eDMP_ADKJ  Antrag auf Zertifizierung |  | Schnittstelle_ADKJ_V1.00.zip |
 | Schnittstelle Adipositas Kinder und Jugendliche |  | xpm-dmp-adkj-2026.4.0-BETA.zip |
-| XPM für eDMP Adipositas Kinder und Jugendliche |  | xpm-dmp-adkj-A-2026.4.0-BETA.zip |
-|  |  |  |
-|  |  |  |
-| XPM A-Datensätze für eDMP Adipositas Kinder und   **Asthma ** | **Inkrafttreten 01.10.2026** | Schnittstelle_Asthma_V4.47.zip   Schnittstelle Asthma bronchiale |
-| xpm-dmp-asthma-2026.4.0-BETA.zip | XPM für eDMP Asthma | xpm-dmp-asthma-A-2026.4.0-BETA.zip |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| XPM für eDMP Adipositas Kinder und Jugendliche |  | xpm |
+| - | dmp | - |
+| adkj | - | A |
+| -2026.4.0-BETA.zip  XPM A-Datensätze für eDMP Adipositas Kinder und   **Asthma ** | **Inkrafttreten 01.10.2026** | Schnittstelle_Asthma_V4.47.zip   Schnittstelle Asthma bronchiale |
+| xpm-dmp-asthma-2026.4.0-BETA.zip | XPM für eDMP Asthma | xpm- |
+| dmp | - | asthma |
+| - | A | - |
+| 2026.4.0 | - | BETA.zip |
 |  | XPM für A-Datensätze eDMP Asthma |  |
 |  | **Brustkrebs** |  |
 |  |  | **Inkrafttreten 01.10.2026** |
@@ -1292,17 +1292,17 @@ Kinder und Jugendliche
 | Anforderungskatalog DMP Brustkrebs |  | - |
 |  | **COPD** |  |
 |  | **Inkrafttreten 01.10.2026 ** Schnittstelle_COPD_V4.07.zip | Schnittstelle COPD |
-| xpm-dmp-copd-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-| XPM für eDMP COPD |  | xpm-dmp-copd-A-2026.4.0-BETA.zip |
-|  |  |  |
-|  |  |  |
+| xpm- | dmp- | copd- |
+| 2026.4.0 | - | BETA.zip |
+| XPM für eDMP COPD |  | xpm |
+| - | dmp | - |
+| copd | - | A |
 | KBV_ITA_FMEX_AAZ_eDMP_ADKJ | Antrag auf Zertifizierung |  |
-| Schnittstelle_ADKJ_V1.00.zip  Schnittstelle Adipositas Kinder und Jugendliche    xpm-dmp-adkj-2026.4.0-BETA.zip  XPM für eDMP Adipositas Kinder und Jugendliche     xpm-dmp-adkj-A-2026.4.0-BETA.zip |  |  |
-|  | XPM A-Datensätze für eDMP Adipositas Kinder und |  |
-| **Asthma **  **Inkrafttreten 01.10.2026 ** Schnittstelle_Asthma_V4.47.zip   Schnittstelle Asthma bronchiale    xpm-dmp-asthma-2026.4.0-BETA.zip  XPM für eDMP Asthma    xpm-dmp-asthma-A-2026.4.0-BETA.zip |  |  |
-| XPM für A-Datensätze eDMP Asthma   **Brustkrebs **  **Inkrafttreten 01.10.2026 ** KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs | Anforderungskatalog DMP Brustkrebs | - |
-| **COPD **  **Inkrafttreten 01.10.2026 ** Schnittstelle_COPD_V4.07.zip  Schnittstelle COPD    xpm-dmp-copd-2026.4.0-BETA.zip |  | XPM für eDMP COPD |
+| Schnittstelle_ADKJ_V1.00.zip  Schnittstelle Adipositas Kinder und Jugendliche    xpm-dmp-adkj-2026.4.0-BETA.zip  XPM für eDMP Adipositas Kinder und Jugendliche     xpm-dmp-adkj | -A | -2026.4.0 |
+| -BETA.zip | XPM A-Datensätze für eDMP Adipositas Kinder und |  |
+| **Asthma **  **Inkrafttreten 01.10.2026 ** Schnittstelle_Asthma_V4.47.zip   Schnittstelle Asthma bronchiale    xpm-dmp-asthma-2026.4.0-BETA.zip  XPM für eDMP Asthma    xpm-dmp- | asthma- | A- |
+| 2026.4.0-BETA.zip  XPM für A-Datensätze eDMP Asthma   **Brustkrebs **  **Inkrafttreten 01.10.2026 ** KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs | Anforderungskatalog DMP Brustkrebs | - |
+| **COPD **  **Inkrafttreten 01.10.2026 ** Schnittstelle_COPD_V4.07.zip  Schnittstelle COPD    xpm-dmp-copd-2026.4.0 | -BETA.zip | XPM für eDMP COPD |
 | xpm-dmp-copd-A-2026.4.0-BETA.zip  XPM für A-Datensätze eDMP COPD | **Depression** |  |
 | **Inkrafttreten 01.10.2026 ** Schnittstelle_Depression_V1.03.zip  Schnittstelle Depression    xpm-dmp-depression-2026.4.0-BETA.zip | XPM für eDMP Depression |  |
 |  |  |  |
@@ -1322,40 +1322,40 @@ Kinder und Jugendliche
 | KBV_ITA_FMEX_AAZ_eDMP_ADKJ | Antrag auf Zertifizierung |  |
 | Schnittstelle_ADKJ_V1.00.zip | Schnittstelle Adipositas Kinder und Jugendliche |  |
 | xpm-dmp-adkj-2026.4.0-BETA.zip | XPM für eDMP Adipositas Kinder und Jugendliche |  |
-| xpm-dmp-adkj-A-2026.4.0-BETA.zip |  |  |
-|  | XPM A-Datensätze für eDMP Adipositas Kinder und |  |
+| xpm- | dmp-adkj- | A- |
+| 2026.4.0- | BETA.zip  XPM A-Datensätze für eDMP Adipositas Kinder und |  |
 | **Asthma** |  | **Inkrafttreten 01.10.2026 ** Schnittstelle_Asthma_V4.47.zip |
 | Schnittstelle Asthma bronchiale |  | xpm-dmp-asthma-2026.4.0-BETA.zip |
-| XPM für eDMP Asthma |  | xpm-dmp-asthma-A-2026.4.0-BETA.zip |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  | XPM für A-Datensätze eDMP Asthma |
+| XPM für eDMP Asthma |  | xpm |
+| - | dmp | - |
+| asthma | - | A |
+| - | 2026.4.0 | - |
+| BETA.zip |  | XPM für A-Datensätze eDMP Asthma |
 |  | **Brustkrebs** |  |
 | **Inkrafttreten 01.10.2026** | KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs | Anforderungskatalog DMP Brustkrebs |
 | - |  | **COPD** |
 |  |  | **Inkrafttreten 01.10.2026** |
-| Schnittstelle_COPD_V4.07.zip  Schnittstelle COPD |  | xpm-dmp-copd-2026.4.0-BETA.zip |
-|  |  |  |
-|  |  |  |
+| Schnittstelle_COPD_V4.07.zip  Schnittstelle COPD |  | xpm |
+| - | dmp | - |
+| copd-2026.4.0 | - | BETA.zip |
 | XPM für eDMP COPD    xpm-dmp-copd-A-2026.4.0-BETA.zip | XPM für A-Datensätze eDMP COPD   **Depression** |  |
-| **Inkrafttreten 01.10.2026** | Schnittstelle_Depression_V1.03.zip  Schnittstelle Depression | xpm-dmp-depression-2026.4.0-BETA.zip |
-|  |  |  |
+| **Inkrafttreten 01.10.2026** | Schnittstelle_Depression_V1.03.zip  Schnittstelle Depression | xpm |
+| - | dmp | - |
 | KBV_ITA_FMEX_AAZ_eDMP_ADKJ | Antrag auf Zertifizierung |  |
 | Schnittstelle_ADKJ_V1.00.zip | Schnittstelle Adipositas Kinder und Jugendliche |  |
 | xpm-dmp-adkj-2026.4.0-BETA.zip | XPM für eDMP Adipositas Kinder und Jugendliche |  |
-| xpm-dmp-adkj-A-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| xpm | - | dmp |
+| - | adkj | - |
+| A | - | 2026.4.0 |
+| - | BETA.zip |  |
 | XPM A-Datensätze für eDMP Adipositas Kinder und |  |  |
 | **Asthma** |  |  |
 | **Inkrafttreten 01.10.2026** | Schnittstelle_Asthma_V4.47.zip   Schnittstelle Asthma bronchiale | xpm-dmp-asthma-2026.4.0-BETA.zip |
-| XPM für eDMP Asthma |  | xpm-dmp-asthma-A-2026.4.0-BETA.zip |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  | XPM für A-Datensätze eDMP Asthma |
+| XPM für eDMP Asthma |  | xpm |
+| - | dmp | - |
+| asthma | - | A |
+| - | 2026.4.0 | - |
+| BETA.zip |  | XPM für A-Datensätze eDMP Asthma |
 |  |  | **Brustkrebs** |
 |  | **Inkrafttreten 01.10.2026** | KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs |
 | Anforderungskatalog DMP Brustkrebs |  | - |
@@ -1364,55 +1364,55 @@ Kinder und Jugendliche
 | Schnittstelle_COPD_V4.07.zip | Schnittstelle COPD |  |
 | KBV_ITA_FMEX_AAZ_eDMP_ADKJ | Antrag auf Zertifizierung |  |
 | Schnittstelle_ADKJ_V1.00.zip | Schnittstelle Adipositas Kinder und Jugendliche |  |
-| xpm-dmp-adkj-2026.4.0-BETA.zip  XPM für eDMP Adipositas Kinder und Jugendliche | xpm-dmp-adkj-A-2026.4.0-BETA.zip |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| xpm-dmp-adkj-2026.4.0-BETA.zip  XPM für eDMP Adipositas Kinder und Jugendliche | xpm | -dmp |
+| - | adkj | - |
+| A | - | 2026.4.0 |
+| - | BETA.zip |  |
 | XPM A-Datensätze für eDMP Adipositas Kinder und |  |  |
 | **Asthma** |  |  |
 | **Inkrafttreten 01.10.2026** | Schnittstelle_Asthma_V4.47.zip   Schnittstelle Asthma bronchiale | xpm-dmp-asthma-2026.4.0-BETA.zip |
-| XPM für eDMP Asthma |  | xpm-dmp-asthma-A-2026.4.0-BETA.zip |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| XPM für eDMP Asthma |  | xpm |
+| -dmp | - | asthma |
+| - | A | - |
+| 2026.4.0 | - | BETA.zip |
 |  | XPM für A-Datensätze eDMP Asthma |  |
 | **Brustkrebs **  **Inkrafttreten 01.10.2026 ** KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs  Anforderungskatalog DMP Brustkrebs  - | **COPD** |  |
-| **Inkrafttreten 01.10.2026** | Schnittstelle_COPD_V4.07.zip  Schnittstelle COPD | xpm-dmp-copd-2026.4.0-BETA.zip |
-|  |  |  |
-|  |  |  |
-| XPM für eDMP COPD |  | xpm-dmp-copd-A-2026.4.0-BETA.zip |
-|  |  |  |
-|  |  |  |
-| KBV_ITA_FMEX_AAZ_eDMP_ADKJ  Antrag auf Zertifizierung     Schnittstelle_ADKJ_V1.00.zip  Schnittstelle Adipositas Kinder und Jugendliche    xpm-dmp-adkj-2026.4.0-BETA.zip  XPM für eDMP Adipositas Kinder und Jugendliche     xpm-dmp-adkj-A-2026.4.0-BETA.zip |  |  |
-|  |  |  |
+| **Inkrafttreten 01.10.2026** | Schnittstelle_COPD_V4.07.zip  Schnittstelle COPD | xpm |
+| -dmp | - | copd |
+| -2026.4.0 | - | BETA.zip |
+| XPM für eDMP COPD |  | xpm |
+| -dmp | - | copd |
+| - | A | - |
+| KBV_ITA_FMEX_AAZ_eDMP_ADKJ  Antrag auf Zertifizierung     Schnittstelle_ADKJ_V1.00.zip  Schnittstelle Adipositas Kinder und Jugendliche    xpm-dmp-adkj-2026.4.0-BETA.zip  XPM für eDMP Adipositas Kinder und Jugendliche     xpm- | dmp- | adkj- |
+| A- | 2026.4.0- | BETA.zip |
 | XPM A-Datensätze für eDMP Adipositas Kinder und |  |  |
 | **Asthma ** |  | **Inkrafttreten 01.10.2026** |
 | Schnittstelle_Asthma_V4.47.zip | Schnittstelle Asthma bronchiale |  |
 | xpm-dmp-asthma-2026.4.0-BETA.zip | XPM für eDMP Asthma |  |
-| xpm-dmp-asthma-A-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-| XPM für A-Datensätze eDMP Asthma   **Brustkrebs ** | **Inkrafttreten 01.10.2026** | KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs |
+| xpm | - | dmp |
+| - | asthma | - |
+| A-2026.4.0-BETA.zip  XPM für A-Datensätze eDMP Asthma   **Brustkrebs ** | **Inkrafttreten 01.10.2026** | KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs |
 | Anforderungskatalog DMP Brustkrebs | - | **COPD** |
 |  |  | **Inkrafttreten 01.10.2026** |
-| Schnittstelle_COPD_V4.07.zip  Schnittstelle COPD | xpm-dmp-copd-2026.4.0-BETA.zip |  |
-|  |  |  |
-|  |  |  |
-| XPM für eDMP COPD | xpm-dmp-copd-A-2026.4.0-BETA.zip |  |
-|  |  |  |
-| XPM für A-Datensätze eDMP COPD   **Depression ** | **Inkrafttreten 01.10.2026** | Schnittstelle_Depression_V1.03.zip  Schnittstelle Depression |
-| xpm-dmp-depression-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-|  | XPM für eDMP Depression |  |
+| Schnittstelle_COPD_V4.07.zip  Schnittstelle COPD | xpm | - |
+| dmp | - | copd |
+| -2026.4.0- | BETA.zip |  |
+| XPM für eDMP COPD | xpm | - |
+| dmp | - | copd |
+| -A-2026.4.0-BETA.zip  XPM für A-Datensätze eDMP COPD   **Depression ** | **Inkrafttreten 01.10.2026** | Schnittstelle_Depression_V1.03.zip  Schnittstelle Depression |
+| xpm | -dmp | -depression |
+| - | 2026.4.0 | - |
+| BETA.zip | XPM für eDMP Depression |  |
 | KBV_ITA_FMEX_AAZ_eDMP_ADKJ | Antrag auf Zertifizierung |  |
 | Schnittstelle_ADKJ_V1.00.zip | Schnittstelle Adipositas Kinder und Jugendliche |  |
 | xpm-dmp-adkj-2026.4.0-BETA.zip | XPM für eDMP Adipositas Kinder und Jugendliche |  |
-| xpm-dmp-adkj-A-2026.4.0-BETA.zip |  |  |
-| XPM A-Datensätze für eDMP Adipositas Kinder und | **Asthma** |  |
+| xpm | - | dmp |
+| -adkj-A-2026.4.0-BETA.zip  XPM A-Datensätze für eDMP Adipositas Kinder und | **Asthma** |  |
 | **Inkrafttreten 01.10.2026 ** Schnittstelle_Asthma_V4.47.zip | Schnittstelle Asthma bronchiale | xpm-dmp-asthma-2026.4.0-BETA.zip  XPM für eDMP Asthma |
-|  | xpm-dmp-asthma-A-2026.4.0-BETA.zip |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+|  | xpm | - |
+| dmp | - | asthma |
+| - | A | - |
+| 2026.4.0 | - | BETA.zip |
 |  | XPM für A-Datensätze eDMP Asthma |  |
 |  | **Brustkrebs** |  |
 |  | **Inkrafttreten 01.10.2026** | KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs |
@@ -1425,9 +1425,9 @@ Aktualisiert
 
 ---
 
-|  |  |  |
+| depression- | A- | 2026.4.0- |
 |---|---|---|
-|  | XPM für A-Datensätze eDMP Depression | **Diabetes_m1_m2** |
+| BETA.zip | XPM für A-Datensätze eDMP Depression | **Diabetes_m1_m2** |
 |  | **Inkrafttreten 01.10.2026** | EXT_ITA_AHEX_Anleitung_eDMP_DM1_DM2 Ausfüllanleitung zu indikationsspez. Datensatz Dm1/Dm2 |
 |  | EXT_ITA_VGEX_Plausi_eDMP_DM1_DM2 | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten |
 |  | Schnittstelle_Diabetes1_V5.08.zip | Schnittstelle Diabetes mellitus Typ 1 |
@@ -1437,16 +1437,16 @@ Aktualisiert
 |  | xpm-dmp-dm2-A-2026.4.0-BETA.zip | XPM für A-Datensätze eDMP DM2 |
 |  |  | **Herzinsuffizienz** |
 |  | **Inkrafttreten 01.10.2026** | Schnittstelle_HI_V1.04.zip  Schnittstelle Herzinsuffizienz |
-|  | xpm-dmp-his-2026.4.0-BETA.zip |  |
-|  |  |  |
-|  |  |  |
-|  | XPM für eDMP Herzinsuffizienz | xpm-dmp-his-A-2026.4.0-BETA.zip |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-| xpm-dmp-depression-A-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-|  |  |  |
+|  | xpm | - |
+| dmp | - | his |
+| - | 2026.4.0 | - |
+| BETA.zip | XPM für eDMP Herzinsuffizienz | xpm- |
+| dmp | - | his |
+| - | A | - |
+| 2026.4.0 | - | BETA.zip |
+| xpm- | dmp- | depression- |
+| A | - | 2026.4.0 |
+| - | BETA.zip |  |
 | XPM für A-Datensätze eDMP Depression |  |  |
 | **Diabetes_m1_m2** |  |  |
 |  | **Inkrafttreten 01.10.2026** | EXT_ITA_AHEX_Anleitung_eDMP_DM1_DM2 |
@@ -1456,23 +1456,23 @@ Aktualisiert
 |  | xpm-dmp-dm1-A-2026.4.0-BETA.zip | XPM für A-Datensätze eDMP DM1 |
 |  | xpm-dmp-dm2-2026.4.0-BETA.zip | XPM für eDMP DM2 |
 | xpm-dmp-dm2-A-2026.4.0-BETA.zip  XPM für A-Datensätze eDMP DM2   **Herzinsuffizienz **  **Inkrafttreten 01.10.2026** | Schnittstelle_HI_V1.04.zip | Schnittstelle Herzinsuffizienz |
-| xpm-dmp-his-2026.4.0-BETA.zip  XPM für eDMP Herzinsuffizienz |  | xpm-dmp-his-A-2026.4.0-BETA.zip |
-|  |  |  |
-|  |  |  |
-|  | XPM für A-Datensätze eDMP Herzinsuffizienz |  |
-| xpm-dmp-depression-A-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-|  |  |  |
-| XPM für A-Datensätze eDMP Depression   **Diabetes_m1_m2 **  **Inkrafttreten 01.10.2026 ** EXT_ITA_AHEX_Anleitung_eDMP_DM1_DM2 | Ausfüllanleitung zu indikationsspez. Datensatz Dm1/Dm2 |  |
+| xpm-dmp-his-2026.4.0-BETA.zip  XPM für eDMP Herzinsuffizienz |  | xpm |
+| -dmp | -his | -A |
+| - | 2026.4.0 | - |
+| BETA.zip | XPM für A-Datensätze eDMP Herzinsuffizienz |  |
+| xpm | - | dmp |
+| - | depression | - |
+| A | - | 2026.4.0 |
+| -BETA.zip  XPM für A-Datensätze eDMP Depression   **Diabetes_m1_m2 **  **Inkrafttreten 01.10.2026 ** EXT_ITA_AHEX_Anleitung_eDMP_DM1_DM2 | Ausfüllanleitung zu indikationsspez. Datensatz Dm1/Dm2 |  |
 | EXT_ITA_VGEX_Plausi_eDMP_DM1_DM2  Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten | Schnittstelle_Diabetes1_V5.08.zip | Schnittstelle Diabetes mellitus Typ 1 |
 | Schnittstelle_Diabetes2_V6.08.zip | Schnittstelle Diabetes mellitus Typ 2 |  |
 | xpm-dmp-dm1-2026.4.0-BETA.zip | XPM für eDMP DM1 |  |
 | xpm-dmp-dm1-A-2026.4.0-BETA.zip  XPM für A-Datensätze eDMP DM1    xpm-dmp-dm2-2026.4.0-BETA.zip  XPM für eDMP DM2    xpm-dmp-dm2-A-2026.4.0-BETA.zip  XPM für A-Datensätze eDMP DM2   **Herzinsuffizienz** |  |  |
-| **Inkrafttreten 01.10.2026 ** Schnittstelle_HI_V1.04.zip | Schnittstelle Herzinsuffizienz | xpm-dmp-his-2026.4.0-BETA.zip |
-|  |  |  |
-|  | XPM für eDMP Herzinsuffizienz | xpm-dmp-his-A-2026.4.0-BETA.zip |
-|  |  |  |
-| XPM für A-Datensätze eDMP Herzinsuffizienz | **KHK** |  |
+| **Inkrafttreten 01.10.2026 ** Schnittstelle_HI_V1.04.zip | Schnittstelle Herzinsuffizienz | xpm- |
+| dmp- | his- | 2026.4.0- |
+| BETA.zip | XPM für eDMP Herzinsuffizienz | xpm- |
+| dmp | - | his |
+| -A-2026.4.0-BETA.zip  XPM für A-Datensätze eDMP Herzinsuffizienz | **KHK** |  |
 | **Inkrafttreten 01.10.202 ** EXT_ITA_AHEX_Anleitung_eDMP_KHK  Ausfüllanleitung zu indikationsspez. Datensatz KHK    EXT_ITA_VGEX_Plausi_eDMP_KHK  Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten |  |  |
 |  |  |  |
 |  |  |  |
@@ -1494,27 +1494,27 @@ Aktualisiert
 | **KHK** |  | **Inkrafttreten 01.10.202** |
 | EXT_ITA_AHEX_Anleitung_eDMP_KHK | Ausfüllanleitung zu indikationsspez. Datensatz KHK |  |
 | EXT_ITA_VGEX_Plausi_eDMP_KHK | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten |  |
-| xpm-dmp-depression-A-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-| XPM für A-Datensätze eDMP Depression   **Diabetes_m1_m2 ** |  | **Inkrafttreten 01.10.2026** |
+| xpm | - | dmp |
+| - | depression | - |
+| A-2026.4.0-BETA.zip  XPM für A-Datensätze eDMP Depression   **Diabetes_m1_m2 ** |  | **Inkrafttreten 01.10.2026** |
 | EXT_ITA_AHEX_Anleitung_eDMP_DM1_DM2 Ausfüllanleitung zu indikationsspez. Datensatz Dm1/Dm2 | EXT_ITA_VGEX_Plausi_eDMP_DM1_DM2 | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten |
 | Schnittstelle_Diabetes1_V5.08.zip | Schnittstelle Diabetes mellitus Typ 1 |  |
 | Schnittstelle_Diabetes2_V6.08.zip  Schnittstelle Diabetes mellitus Typ 2    xpm-dmp-dm1-2026.4.0-BETA.zip  XPM für eDMP DM1    xpm-dmp-dm1-A-2026.4.0-BETA.zip  XPM für A-Datensätze eDMP DM1    xpm-dmp-dm2-2026.4.0-BETA.zip  XPM für eDMP DM2 |  | xpm-dmp-dm2-A-2026.4.0-BETA.zip |
-| XPM für A-Datensätze eDMP DM2   **Herzinsuffizienz **  **Inkrafttreten 01.10.2026 ** Schnittstelle_HI_V1.04.zip  Schnittstelle Herzinsuffizienz    xpm-dmp-his-2026.4.0-BETA.zip |  |  |
-|  |  |  |
+| XPM für A-Datensätze eDMP DM2   **Herzinsuffizienz **  **Inkrafttreten 01.10.2026 ** Schnittstelle_HI_V1.04.zip  Schnittstelle Herzinsuffizienz    xpm | - | dmp |
+| -his | -2026.4.0 | -BETA.zip |
 |  | XPM für eDMP Herzinsuffizienz |  |
-| xpm-dmp-his-A-2026.4.0-BETA.zip |  |  |
-| XPM für A-Datensätze eDMP Herzinsuffizienz | **KHK** |  |
+| xpm | - | dmp |
+| -his-A-2026.4.0-BETA.zip  XPM für A-Datensätze eDMP Herzinsuffizienz | **KHK** |  |
 |  | **Inkrafttreten 01.10.202 ** EXT_ITA_AHEX_Anleitung_eDMP_KHK | Ausfüllanleitung zu indikationsspez. Datensatz KHK |
 | EXT_ITA_VGEX_Plausi_eDMP_KHK |  | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten |
 |  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
-| xpm-dmp-depression-A-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-|  |  |  |
-|  |  | XPM für A-Datensätze eDMP Depression |
+| xpm- | dmp | - |
+| depression | - | A |
+| - | 2026.4.0 | - |
+| BETA.zip |  | XPM für A-Datensätze eDMP Depression |
 |  |  | **Diabetes_m1_m2** |
 | **Inkrafttreten 01.10.2026 ** EXT_ITA_AHEX_Anleitung_eDMP_DM1_DM2 Ausfüllanleitung zu indikationsspez. Datensatz Dm1/Dm2    EXT_ITA_VGEX_Plausi_eDMP_DM1_DM2  Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten    Schnittstelle_Diabetes1_V5.08.zip | Schnittstelle Diabetes mellitus Typ 1 | Schnittstelle_Diabetes2_V6.08.zip  Schnittstelle Diabetes mellitus Typ 2 |
 | xpm-dmp-dm1-2026.4.0-BETA.zip | XPM für eDMP DM1 | xpm-dmp-dm1-A-2026.4.0-BETA.zip  XPM für A-Datensätze eDMP DM1 |
@@ -1523,21 +1523,21 @@ Aktualisiert
 |  |  | **Herzinsuffizienz** |
 |  |  |  |
 | **Inkrafttreten 01.10.2026** | Schnittstelle_HI_V1.04.zip | Schnittstelle Herzinsuffizienz |
-|  | xpm-dmp-his-2026.4.0-BETA.zip |  |
-|  |  |  |
-|  |  |  |
-|  |  | XPM für eDMP Herzinsuffizienz |
-| xpm-dmp-his-A-2026.4.0-BETA.zip |  |  |
-|  |  |  |
+|  | xpm | - |
+| dmp | - | his |
+| - | 2026.4.0 | - |
+| BETA.zip |  | XPM für eDMP Herzinsuffizienz |
+| xpm | -dmp | -his |
+| -A | -2026.4.0 | -BETA.zip |
 |  | XPM für A-Datensätze eDMP Herzinsuffizienz |  |
 | **KHK** |  |  |
 |  | **Inkrafttreten 01.10.202** | EXT_ITA_AHEX_Anleitung_eDMP_KHK |
 | Ausfüllanleitung zu indikationsspez. Datensatz KHK |  | EXT_ITA_VGEX_Plausi_eDMP_KHK |
-| xpm-dmp-depression-A-2026.4.0-BETA.zip |  |  |
-| XPM für A-Datensätze eDMP Depression | **Diabetes_m1_m2** |  |
+| xpm | - | dmp |
+| -depression-A-2026.4.0-BETA.zip  XPM für A-Datensätze eDMP Depression | **Diabetes_m1_m2** |  |
 | **Inkrafttreten 01.10.2026** | EXT_ITA_AHEX_Anleitung_eDMP_DM1_DM2 Ausfüllanleitung zu indikationsspez. Datensatz Dm1/Dm2 | EXT_ITA_VGEX_Plausi_eDMP_DM1_DM2 |
 | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten    Schnittstelle_Diabetes1_V5.08.zip  Schnittstelle Diabetes mellitus Typ 1    Schnittstelle_Diabetes2_V6.08.zip  Schnittstelle Diabetes mellitus Typ 2    xpm-dmp-dm1-2026.4.0-BETA.zip  XPM für eDMP DM1    xpm-dmp-dm1-A-2026.4.0-BETA.zip  XPM für A-Datensätze eDMP DM1    xpm-dmp-dm2-2026.4.0-BETA.zip | XPM für eDMP DM2 | xpm-dmp-dm2-A-2026.4.0-BETA.zip  XPM für A-Datensätze eDMP DM2 |
-| **Herzinsuffizienz **  **Inkrafttreten 01.10.2026 ** Schnittstelle_HI_V1.04.zip  Schnittstelle Herzinsuffizienz    xpm-dmp-his-2026.4.0-BETA.zip |  |  |
+| **Herzinsuffizienz **  **Inkrafttreten 01.10.2026 ** Schnittstelle_HI_V1.04.zip  Schnittstelle Herzinsuffizienz    xpm-dmp-his | -2026.4.0 | -BETA.zip |
 | XPM für eDMP Herzinsuffizienz    xpm-dmp-his-A-2026.4.0-BETA.zip | XPM für A-Datensätze eDMP Herzinsuffizienz | **KHK** |
 | **Inkrafttreten 01.10.202 ** EXT_ITA_AHEX_Anleitung_eDMP_KHK  Ausfüllanleitung zu indikationsspez. Datensatz KHK    EXT_ITA_VGEX_Plausi_eDMP_KHK  Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten |  |  |
 |  |  |  |
@@ -1555,10 +1555,10 @@ Aktualisiert
 |  |  |  |
 |  |  |  |
 |  |  |  |
-| xpm-dmp-depression-A-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-|  |  |  |
-|  | XPM für A-Datensätze eDMP Depression | **Diabetes_m1_m2** |
+| xpm | - | dmp |
+| - | depression | - |
+| A | - | 2026.4.0 |
+| -BETA.zip | XPM für A-Datensätze eDMP Depression | **Diabetes_m1_m2** |
 |  | **Inkrafttreten 01.10.2026 ** EXT_ITA_AHEX_Anleitung_eDMP_DM1_DM2 Ausfüllanleitung zu indikationsspez. Datensatz Dm1/Dm2 | EXT_ITA_VGEX_Plausi_eDMP_DM1_DM2 |
 | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten | Schnittstelle_Diabetes1_V5.08.zip  Schnittstelle Diabetes mellitus Typ 1 | Schnittstelle_Diabetes2_V6.08.zip |
 | Schnittstelle Diabetes mellitus Typ 2 |  | xpm-dmp-dm1-2026.4.0-BETA.zip |
@@ -1567,20 +1567,20 @@ Aktualisiert
 | XPM für eDMP DM2 |  | xpm-dmp-dm2-A-2026.4.0-BETA.zip |
 | XPM für A-Datensätze eDMP DM2 |  |  |
 | **Herzinsuffizienz** |  |  |
-| **Inkrafttreten 01.10.2026** | Schnittstelle_HI_V1.04.zip  Schnittstelle Herzinsuffizienz | xpm-dmp-his-2026.4.0-BETA.zip |
-|  |  |  |
-|  |  |  |
-| XPM für eDMP Herzinsuffizienz | xpm-dmp-his-A-2026.4.0-BETA.zip |  |
-|  |  |  |
-|  |  |  |
-|  | XPM für A-Datensätze eDMP Herzinsuffizienz |  |
+| **Inkrafttreten 01.10.2026** | Schnittstelle_HI_V1.04.zip  Schnittstelle Herzinsuffizienz | xpm |
+| -dmp | -his | -2026.4.0 |
+| - | BETA.zip |  |
+| XPM für eDMP Herzinsuffizienz | xpm | - |
+| dmp- | his | - |
+| A | - | 2026.4.0 |
+| -BETA.zip | XPM für A-Datensätze eDMP Herzinsuffizienz |  |
 | **KHK **  **Inkrafttreten 01.10.202 ** EXT_ITA_AHEX_Anleitung_eDMP_KHK  Ausfüllanleitung zu indikationsspez. Datensatz KHK    EXT_ITA_VGEX_Plausi_eDMP_KHK  Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten |  |  |
 |  |  |  |
 |  |  |  |
-| xpm-dmp-depression-A-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| xpm | - | dmp |
+| - | depression | - |
+| A | - | 2026.4.0 |
+| - | BETA.zip |  |
 | XPM für A-Datensätze eDMP Depression |  |  |
 | **Diabetes_m1_m2** |  |  |
 |  | **Inkrafttreten 01.10.2026** | EXT_ITA_AHEX_Anleitung_eDMP_DM1_DM2 |
@@ -1593,14 +1593,14 @@ Aktualisiert
 | XPM für A-Datensätze eDMP DM2 |  |  |
 | **Herzinsuffizienz** |  |  |
 |  | **Inkrafttreten 01.10.2026** | Schnittstelle_HI_V1.04.zip |
-| Schnittstelle Herzinsuffizienz | xpm-dmp-his-2026.4.0-BETA.zip |  |
-|  |  |  |
-|  |  | XPM für eDMP Herzinsuffizienz |
-|  | xpm-dmp-his-A-2026.4.0-BETA.zip |  |
-|  |  |  |
-| xpm-dmp-depression-A-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-|  |  |  |
+| Schnittstelle Herzinsuffizienz | xpm- | dmp- |
+| his- | 2026.4.0 | - |
+| BETA.zip |  | XPM für eDMP Herzinsuffizienz |
+|  | xpm | - |
+| dmp | - | his |
+| xpm | - | dmp |
+| - | depression | - |
+| A- | 2026.4.0- | BETA.zip |
 | XPM für A-Datensätze eDMP Depression |  |  |
 | **Diabetes_m1_m2** |  |  |
 |  | **Inkrafttreten 01.10.2026** | EXT_ITA_AHEX_Anleitung_eDMP_DM1_DM2 |
@@ -1612,10 +1612,10 @@ Aktualisiert
 |  | xpm-dmp-dm2-A-2026.4.0-BETA.zip | XPM für A-Datensätze eDMP DM2 |
 |  |  | **Herzinsuffizienz** |
 |  |  |  |
-| **Inkrafttreten 01.10.2026 ** Schnittstelle_HI_V1.04.zip  Schnittstelle Herzinsuffizienz    xpm-dmp-his-2026.4.0-BETA.zip |  | XPM für eDMP Herzinsuffizienz |
-| xpm-dmp-his-A-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-|  | XPM für A-Datensätze eDMP Herzinsuffizienz |  |
+| **Inkrafttreten 01.10.2026 ** Schnittstelle_HI_V1.04.zip  Schnittstelle Herzinsuffizienz    xpm-dmp-his-2026.4.0- | BETA.zip | XPM für eDMP Herzinsuffizienz |
+| xpm- | dmp- | his- |
+| A- | 2026.4.0 | - |
+| BETA.zip | XPM für A-Datensätze eDMP Herzinsuffizienz |  |
 | **KHK** |  |  |
 | **Inkrafttreten 01.10.202** | EXT_ITA_AHEX_Anleitung_eDMP_KHK | Ausfüllanleitung zu indikationsspez. Datensatz KHK |
 |  | EXT_ITA_VGEX_Plausi_eDMP_KHK |  |
@@ -1627,22 +1627,22 @@ Aktualisiert
 | xpm-dmp-dm1-2026.4.0-BETA.zip | XPM für eDMP DM1 |  |
 | xpm-dmp-dm1-A-2026.4.0-BETA.zip | XPM für A-Datensätze eDMP DM1 |  |
 | xpm-dmp-dm2-2026.4.0-BETA.zip | XPM für eDMP DM2 |  |
-| xpm-dmp-dm2-A-2026.4.0-BETA.zip  XPM für A-Datensätze eDMP DM2   **Herzinsuffizienz **  **Inkrafttreten 01.10.2026 ** Schnittstelle_HI_V1.04.zip  Schnittstelle Herzinsuffizienz | xpm-dmp-his-2026.4.0-BETA.zip |  |
-|  |  |  |
-| XPM für eDMP Herzinsuffizienz | xpm-dmp-his-A-2026.4.0-BETA.zip |  |
-|  |  |  |
-|  |  |  |
-| XPM für A-Datensätze eDMP Herzinsuffizienz |  |  |
+| xpm-dmp-dm2-A-2026.4.0-BETA.zip  XPM für A-Datensätze eDMP DM2   **Herzinsuffizienz **  **Inkrafttreten 01.10.2026 ** Schnittstelle_HI_V1.04.zip  Schnittstelle Herzinsuffizienz | xpm- | dmp- |
+| his- | 2026.4.0- | BETA.zip |
+| XPM für eDMP Herzinsuffizienz | xpm | - |
+| dmp-his | - | A |
+| - | 2026.4.0 | - |
+| BETA.zip  XPM für A-Datensätze eDMP Herzinsuffizienz |  |  |
 | **KHK** |  |  |
 | **Inkrafttreten 01.10.202** | EXT_ITA_AHEX_Anleitung_eDMP_KHK | Ausfüllanleitung zu indikationsspez. Datensatz KHK |
 | EXT_ITA_VGEX_Plausi_eDMP_KHK  Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
-| xpm-dmp-depression-A-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| xpm | - | dmp |
+| - | depression | - |
+| A | - | 2026.4.0 |
+| - | BETA.zip |  |
 | XPM für A-Datensätze eDMP Depression   **Diabetes_m1_m2 **  **Inkrafttreten 01.10.2026 ** EXT_ITA_AHEX_Anleitung_eDMP_DM1_DM2 Ausfüllanleitung zu indikationsspez. Datensatz Dm1/Dm2    EXT_ITA_VGEX_Plausi_eDMP_DM1_DM2 | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten | Schnittstelle_Diabetes1_V5.08.zip  Schnittstelle Diabetes mellitus Typ 1 |
 | Schnittstelle_Diabetes2_V6.08.zip | Schnittstelle Diabetes mellitus Typ 2 | xpm-dmp-dm1-2026.4.0-BETA.zip  XPM für eDMP DM1 |
 |  | xpm-dmp-dm1-A-2026.4.0-BETA.zip | XPM für A-Datensätze eDMP DM1 |
@@ -1651,81 +1651,81 @@ Aktualisiert
 |  |  | **Herzinsuffizienz** |
 |  |  |  |
 | **Inkrafttreten 01.10.2026** | Schnittstelle_HI_V1.04.zip | Schnittstelle Herzinsuffizienz |
-| xpm-dmp-his-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-|  |  | XPM für eDMP Herzinsuffizienz |
-|  | xpm-dmp-his-A-2026.4.0-BETA.zip |  |
-|  |  |  |
+| xpm | -dmp | -his |
+| - | 2026.4.0 | - |
+| BETA.zip |  | XPM für eDMP Herzinsuffizienz |
+|  | xpm | - |
+| dmp | - | his |
 
 
 ---
 
-| XPM für eDMP KHK | xpm-dmp-khk-A-2026.4.0-BETA.zip |  |
+| XPM für eDMP KHK | xpm- | dmp- |
 |---|---|---|
-|  |  |  |
-|  | XPM für A-Datensätze eDMP KHK | **Osteoporose** |
+| khk- | A- | 2026.4.0- |
+| BETA.zip | XPM für A-Datensätze eDMP KHK | **Osteoporose** |
 |  |  |  |
 | **Inkrafttreten 01.10.2026** | Schnittstelle_OST_V1.02.zip | Schnittstelle Osteoporose |
-|  | xpm-dmp-osteoporose-2026.4.0-BETA.zip |  |
-|  |  |  |
-|  |  |  |
-| XPM für eDMP Osteoporose |  | xpm-dmp-osteoporose-A-2026.4.0-BETA.zip |
-|  |  |  |
-|  |  |  |
-|  |  | XPM für A-Datensätze eDMP Osteoporose |
+|  | xpm | - |
+| dmp- | osteoporose | -2026.4.0 |
+| - | BETA.zip |  |
+| XPM für eDMP Osteoporose |  | xpm |
+| - | dmp | - |
+| osteoporose- | A- | 2026.4.0- |
+| BETA.zip |  | XPM für A-Datensätze eDMP Osteoporose |
 |  |  | **Rheumatoide-Arthritis** |
 |  |  |  |
 | **Inkrafttreten 01.10.2026 ** Schnittstelle_RA_V1.01.zip | Schnittstelle rheumatoide Arthritis | xpm-dmp-rheuma-2026.4.0-BETA.zip  XPM für eDMP rheumatoide Arthritis |
-|  | xpm-dmp-rheuma-A-2026.4.0-BETA.zip |  |
-|  |  |  |
-|  |  |  |
+|  | xpm | - |
+| dmp | - | rheuma |
+| - | A | - |
 | Schnittstelle_KHK_V4.17.zip  Schnittstelle KHK | xpm-dmp-khk-2026.4.0-BETA.zip | XPM für eDMP KHK |
-| xpm-dmp-khk-A-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| xpm | - | dmp |
+| - | khk | - |
+| A | - | 2026.4.0 |
+| - | BETA.zip |  |
 | XPM für A-Datensätze eDMP KHK |  |  |
 | **Osteoporose** |  | **Inkrafttreten 01.10.2026 ** Schnittstelle_OST_V1.02.zip |
-| Schnittstelle Osteoporose |  | xpm-dmp-osteoporose-2026.4.0-BETA.zip |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-| XPM für eDMP Osteoporose    xpm-dmp-osteoporose-A-2026.4.0-BETA.zip |  |  |
-| XPM für A-Datensätze eDMP Osteoporose   **Rheumatoide-Arthritis **  **Inkrafttreten 01.10.2026 ** Schnittstelle_RA_V1.01.zip  Schnittstelle rheumatoide Arthritis |  | xpm-dmp-rheuma-2026.4.0-BETA.zip |
-| XPM für eDMP rheumatoide Arthritis | xpm-dmp-rheuma-A-2026.4.0-BETA.zip |  |
-|  |  |  |
-|  |  |  |
+| Schnittstelle Osteoporose |  | xpm |
+| -dmp | - | o |
+| steoporose | - | 2026.4.0 |
+| - | BETA.zip |  |
+| XPM für eDMP Osteoporose    xpm-dmp-osteoporose-A- | 2026.4.0 | - |
+| BETA.zip  XPM für A-Datensätze eDMP Osteoporose   **Rheumatoide-Arthritis **  **Inkrafttreten 01.10.2026 ** Schnittstelle_RA_V1.01.zip  Schnittstelle rheumatoide Arthritis |  | xpm-dmp-rheuma-2026.4.0-BETA.zip |
+| XPM für eDMP rheumatoide Arthritis | xpm- | dmp- |
+| rheuma | - | A |
+| -2026.4.0 | - | BETA.zip |
 | Schnittstelle_KHK_V4.17.zip | Schnittstelle KHK |  |
 | xpm-dmp-khk-2026.4.0-BETA.zip | XPM für eDMP KHK |  |
-| xpm-dmp-khk-A-2026.4.0-BETA.zip |  |  |
-| XPM für A-Datensätze eDMP KHK | **Osteoporose** |  |
+| xpm | - | dmp |
+| -khk-A-2026.4.0-BETA.zip  XPM für A-Datensätze eDMP KHK | **Osteoporose** |  |
 |  | **Inkrafttreten 01.10.2026 ** Schnittstelle_OST_V1.02.zip | Schnittstelle Osteoporose |
-| xpm-dmp-osteoporose-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-| XPM für eDMP Osteoporose    xpm-dmp-osteoporose-A-2026.4.0-BETA.zip |  |  |
-|  |  | XPM für A-Datensätze eDMP Osteoporose |
+| xpm | - | dmp |
+| - | o | steoporose |
+| -2026.4.0-BETA.zip  XPM für eDMP Osteoporose    xpm-dmp-osteoporose | - | A |
+| -2026.4.0 | -BETA.zip | XPM für A-Datensätze eDMP Osteoporose |
 |  | **Rheumatoide-Arthritis** |  |
 | **Inkrafttreten 01.10.2026 ** Schnittstelle_RA_V1.01.zip | Schnittstelle rheumatoide Arthritis | xpm-dmp-rheuma-2026.4.0-BETA.zip  XPM für eDMP rheumatoide Arthritis |
-|  | xpm-dmp-rheuma-A-2026.4.0-BETA.zip |  |
-|  | XPM für A-Datensätze eDMP rheumatoide Arthritis |  |
-| **Rueckenschmerz **  **Inkrafttreten 01.10.2026 ** Schnittstelle_CR_V1.02.zip  Schnittstelle Rückenschmerz    xpm-dmp-ruecken-2026.4.0-BETA.zip  XPM für eDMP Rückenschmerz | xpm-dmp-ruecken-A-2026.4.0-BETA.zip |  |
-|  |  |  |
-|  |  |  |
+|  | xpm | - |
+| dmp-rheuma-A-2026.4.0-BETA.zip | XPM für A-Datensätze eDMP rheumatoide Arthritis |  |
+| **Rueckenschmerz **  **Inkrafttreten 01.10.2026 ** Schnittstelle_CR_V1.02.zip  Schnittstelle Rückenschmerz    xpm-dmp-ruecken-2026.4.0-BETA.zip  XPM für eDMP Rückenschmerz | xpm | - |
+| dmp- | ruecken- | A- |
+| 2026.4.0 | - | BETA.zip |
 | XPM für A-Datensätze eDMP Rückenschmerz   **Asthma **     EXT_ITA_AHEX_Anleitung_eDMP_Asthma | Ausfüllanleitung indikationsspezifischer Datensatz Asthma |  |
-| Schnittstelle_KHK_V4.17.zip  Schnittstelle KHK    xpm-dmp-khk-2026.4.0-BETA.zip  XPM für eDMP KHK    xpm-dmp-khk-A-2026.4.0-BETA.zip |  |  |
-|  |  | XPM für A-Datensätze eDMP KHK |
+| Schnittstelle_KHK_V4.17.zip  Schnittstelle KHK    xpm-dmp-khk-2026.4.0-BETA.zip  XPM für eDMP KHK    xpm-dmp-khk- | A | - |
+| 2026.4.0- | BETA.zip | XPM für A-Datensätze eDMP KHK |
 |  | **Osteoporose** |  |
 |  |  | **Inkrafttreten 01.10.2026** |
 | Schnittstelle_OST_V1.02.zip | Schnittstelle Osteoporose |  |
-| xpm-dmp-osteoporose-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-|  |  |  |
-|  |  | XPM für eDMP Osteoporose |
-|  | xpm-dmp-osteoporose-A-2026.4.0-BETA.zip |  |
-|  |  |  |
-|  |  |  |
+| xpm | - | dmp |
+| - | o | steoporose |
+| - | 2026.4.0 | - |
+| BETA.zip |  | XPM für eDMP Osteoporose |
+|  | xpm | - |
+| dmp- | osteoporose- | A- |
+| 2026.4.0 | - | BETA.zip |
 | XPM für A-Datensätze eDMP Osteoporose   **Rheumatoide-Arthritis **  **Inkrafttreten 01.10.2026 ** Schnittstelle_RA_V1.01.zip | Schnittstelle rheumatoide Arthritis |  |
-| xpm-dmp-rheuma-2026.4.0-BETA.zip  XPM für eDMP rheumatoide Arthritis    xpm-dmp-rheuma-A-2026.4.0-BETA.zip |  |  |
+| xpm-dmp-rheuma-2026.4.0-BETA.zip  XPM für eDMP rheumatoide Arthritis    xpm-dmp-rheuma-A-2026.4.0 | - | BETA.zip |
 | XPM für A-Datensätze eDMP rheumatoide Arthritis |  | **Rueckenschmerz** |
 |  |  | **Inkrafttreten 01.10.2026** |
 | Schnittstelle_CR_V1.02.zip  Schnittstelle Rückenschmerz |  | xpm-dmp-ruecken-2026.4.0-BETA.zip |
@@ -1747,35 +1747,35 @@ Aktualisiert
 | **Asthma** |  |  |
 | EXT_ITA_AHEX_Anleitung_eDMP_Asthma | Ausfüllanleitung indikationsspezifischer Datensatz Asthma |  |
 | Schnittstelle_KHK_V4.17.zip  Schnittstelle KHK |  | xpm-dmp-khk-2026.4.0-BETA.zip |
-| XPM für eDMP KHK |  | xpm-dmp-khk-A-2026.4.0-BETA.zip |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-| XPM für A-Datensätze eDMP KHK   **Osteoporose **  **Inkrafttreten 01.10.2026 ** Schnittstelle_OST_V1.02.zip | Schnittstelle Osteoporose | xpm-dmp-osteoporose-2026.4.0-BETA.zip |
-|  |  |  |
-|  |  |  |
-| XPM für eDMP Osteoporose |  | xpm-dmp-osteoporose-A-2026.4.0-BETA.zip |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  | XPM für A-Datensätze eDMP Osteoporose |
+| XPM für eDMP KHK |  | xpm |
+| - | dmp | - |
+| khk | - | A |
+| - | 2026.4.0 | - |
+| BETA.zip  XPM für A-Datensätze eDMP KHK   **Osteoporose **  **Inkrafttreten 01.10.2026 ** Schnittstelle_OST_V1.02.zip | Schnittstelle Osteoporose | xpm- |
+| dmp- | osteoporose | -2026.4.0 |
+| - | BETA.zip |  |
+| XPM für eDMP Osteoporose |  | xpm |
+| - | dmp | - |
+| osteoporose | - | A |
+| - | 2026.4.0 | - |
+| BETA.zip |  | XPM für A-Datensätze eDMP Osteoporose |
 |  |  | **Rheumatoide-Arthritis** |
 |  |  |  |
 | **Inkrafttreten 01.10.2026** | Schnittstelle_RA_V1.01.zip | Schnittstelle rheumatoide Arthritis |
-| xpm-dmp-rheuma-2026.4.0-BETA.zip | XPM für eDMP rheumatoide Arthritis | xpm-dmp-rheuma-A-2026.4.0-BETA.zip |
-|  |  |  |
-|  |  |  |
+| xpm-dmp-rheuma-2026.4.0-BETA.zip | XPM für eDMP rheumatoide Arthritis | xpm- |
+| dmp- | rheuma- | A- |
+| 2026.4.0 | - | BETA.zip |
 | XPM für A-Datensätze eDMP rheumatoide Arthritis |  |  |
 | **Rueckenschmerz** |  |  |
 |  | **Inkrafttreten 01.10.2026** | Schnittstelle_CR_V1.02.zip |
 | Schnittstelle_KHK_V4.17.zip | Schnittstelle KHK |  |
-| xpm-dmp-khk-2026.4.0-BETA.zip  XPM für eDMP KHK    xpm-dmp-khk-A-2026.4.0-BETA.zip |  |  |
+| xpm-dmp-khk-2026.4.0-BETA.zip  XPM für eDMP KHK    xpm-dmp-khk-A- | 2026.4.0- | BETA.zip |
 | XPM für A-Datensätze eDMP KHK | **Osteoporose** |  |
-| **Inkrafttreten 01.10.2026 ** Schnittstelle_OST_V1.02.zip  Schnittstelle Osteoporose    xpm-dmp-osteoporose-2026.4.0-BETA.zip | XPM für eDMP Osteoporose | xpm-dmp-osteoporose-A-2026.4.0-BETA.zip |
-| XPM für A-Datensätze eDMP Osteoporose   **Rheumatoide-Arthritis** |  | **Inkrafttreten 01.10.2026** |
-| Schnittstelle_RA_V1.01.zip  Schnittstelle rheumatoide Arthritis    xpm-dmp-rheuma-2026.4.0-BETA.zip  XPM für eDMP rheumatoide Arthritis    xpm-dmp-rheuma-A-2026.4.0-BETA.zip |  | XPM für A-Datensätze eDMP rheumatoide Arthritis |
-| **Rueckenschmerz **  **Inkrafttreten 01.10.2026 ** Schnittstelle_CR_V1.02.zip  Schnittstelle Rückenschmerz    xpm-dmp-ruecken-2026.4.0-BETA.zip  XPM für eDMP Rückenschmerz    xpm-dmp-ruecken-A-2026.4.0-BETA.zip |  |  |
-| XPM für A-Datensätze eDMP Rückenschmerz   **Asthma **     EXT_ITA_AHEX_Anleitung_eDMP_Asthma | Ausfüllanleitung indikationsspezifischer Datensatz Asthma |  |
+| **Inkrafttreten 01.10.2026 ** Schnittstelle_OST_V1.02.zip  Schnittstelle Osteoporose    xpm-dmp-osteoporose-2026.4.0-BETA.zip | XPM für eDMP Osteoporose | xpm |
+| -dmp-osteoporose-A-2026.4.0-BETA.zip  XPM für A-Datensätze eDMP Osteoporose   **Rheumatoide-Arthritis** |  | **Inkrafttreten 01.10.2026** |
+| Schnittstelle_RA_V1.01.zip  Schnittstelle rheumatoide Arthritis    xpm-dmp-rheuma-2026.4.0-BETA.zip  XPM für eDMP rheumatoide Arthritis    xpm-dmp-rheuma-A-2026.4.0 | -BETA.zip | XPM für A-Datensätze eDMP rheumatoide Arthritis |
+| **Rueckenschmerz **  **Inkrafttreten 01.10.2026 ** Schnittstelle_CR_V1.02.zip  Schnittstelle Rückenschmerz    xpm-dmp-ruecken-2026.4.0-BETA.zip  XPM für eDMP Rückenschmerz    xpm- | dmp- | ruecken- |
+| A-2026.4.0-BETA.zip  XPM für A-Datensätze eDMP Rückenschmerz   **Asthma **     EXT_ITA_AHEX_Anleitung_eDMP_Asthma | Ausfüllanleitung indikationsspezifischer Datensatz Asthma |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -1792,105 +1792,105 @@ Aktualisiert
 |  |  |  |
 | Schnittstelle_KHK_V4.17.zip | Schnittstelle KHK |  |
 | xpm-dmp-khk-2026.4.0-BETA.zip | XPM für eDMP KHK |  |
-| xpm-dmp-khk-A-2026.4.0-BETA.zip |  |  |
-|  |  |  |
+| xpm | - | dmp |
+| -khk | -A-2026.4.0 | -BETA.zip |
 | XPM für A-Datensätze eDMP KHK | **Osteoporose** |  |
-| **Inkrafttreten 01.10.2026** | Schnittstelle_OST_V1.02.zip  Schnittstelle Osteoporose | xpm-dmp-osteoporose-2026.4.0-BETA.zip |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| **Inkrafttreten 01.10.2026** | Schnittstelle_OST_V1.02.zip  Schnittstelle Osteoporose | xpm |
+| - | dmp | - |
+| o | steoporose | - |
+| 2026.4.0 | - | BETA.zip |
 |  | XPM für eDMP Osteoporose |  |
-| xpm-dmp-osteoporose-A-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-|  |  |  |
+| xpm | - | dmp |
+| - | osteoporose | - |
+| A- | 2026.4.0- | BETA.zip |
 | XPM für A-Datensätze eDMP Osteoporose | **Rheumatoide-Arthritis** |  |
 |  | **Inkrafttreten 01.10.2026** | Schnittstelle_RA_V1.01.zip |
 | Schnittstelle rheumatoide Arthritis | xpm-dmp-rheuma-2026.4.0-BETA.zip | XPM für eDMP rheumatoide Arthritis |
-| xpm-dmp-rheuma-A-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-|  |  |  |
-| XPM für A-Datensätze eDMP rheumatoide Arthritis   **Rueckenschmerz **  **Inkrafttreten 01.10.2026 ** Schnittstelle_CR_V1.02.zip  Schnittstelle Rückenschmerz    xpm-dmp-ruecken-2026.4.0-BETA.zip  XPM für eDMP Rückenschmerz | xpm-dmp-ruecken-A-2026.4.0-BETA.zip |  |
-|  |  |  |
+| xpm | - | dmp |
+| - | rheuma | - |
+| A-2026.4.0 | - | BETA.zip |
+| XPM für A-Datensätze eDMP rheumatoide Arthritis   **Rueckenschmerz **  **Inkrafttreten 01.10.2026 ** Schnittstelle_CR_V1.02.zip  Schnittstelle Rückenschmerz    xpm-dmp-ruecken-2026.4.0-BETA.zip  XPM für eDMP Rückenschmerz | xpm-dmp- | ruecken- |
+| A- | 2026.4.0- | BETA.zip |
 | XPM für A-Datensätze eDMP Rückenschmerz |  |  |
 | Schnittstelle_KHK_V4.17.zip | Schnittstelle KHK |  |
 | xpm-dmp-khk-2026.4.0-BETA.zip | XPM für eDMP KHK |  |
-| xpm-dmp-khk-A-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| xpm | - | dmp |
+| - | khk | - |
+| A | - | 2026.4.0 |
+| - | BETA.zip |  |
 | XPM für A-Datensätze eDMP KHK |  |  |
 | **Osteoporose** |  |  |
 |  | **Inkrafttreten 01.10.2026** | Schnittstelle_OST_V1.02.zip |
-| Schnittstelle Osteoporose | xpm-dmp-osteoporose-2026.4.0-BETA.zip |  |
-|  |  |  |
-|  |  |  |
+| Schnittstelle Osteoporose | xpm- | dmp- |
+| o | steoporose | - |
+| 2026.4.0 | - | BETA.zip |
 |  | XPM für eDMP Osteoporose |  |
-| xpm-dmp-osteoporose-A-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-|  |  |  |
-|  | XPM für A-Datensätze eDMP Osteoporose |  |
+| xpm | - | dmp |
+| - | osteoporose | - |
+| A | - | 2026.4.0 |
+| -BETA.zip | XPM für A-Datensätze eDMP Osteoporose |  |
 | **Rheumatoide-Arthritis** |  |  |
 | **Inkrafttreten 01.10.2026** | Schnittstelle_RA_V1.01.zip | Schnittstelle rheumatoide Arthritis |
 |  | xpm-dmp-rheuma-2026.4.0-BETA.zip | XPM für eDMP rheumatoide Arthritis |
-|  | xpm-dmp-rheuma-A-2026.4.0-BETA.zip |  |
+|  | xpm | - |
 | Schnittstelle_KHK_V4.17.zip | Schnittstelle KHK |  |
 | xpm-dmp-khk-2026.4.0-BETA.zip | XPM für eDMP KHK |  |
-| xpm-dmp-khk-A-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-|  |  |  |
+| xpm- | dmp- | khk- |
+| A | - | 2026.4.0 |
+| - | BETA.zip |  |
 | XPM für A-Datensätze eDMP KHK |  |  |
 | **Osteoporose** |  |  |
 |  | **Inkrafttreten 01.10.2026** | Schnittstelle_OST_V1.02.zip |
-| Schnittstelle Osteoporose | xpm-dmp-osteoporose-2026.4.0-BETA.zip |  |
-|  |  |  |
-|  |  |  |
-| XPM für eDMP Osteoporose |  | xpm-dmp-osteoporose-A-2026.4.0-BETA.zip |
-|  |  |  |
-|  |  |  |
-| XPM für A-Datensätze eDMP Osteoporose   **Rheumatoide-Arthritis ** | **Inkrafttreten 01.10.2026 ** Schnittstelle_RA_V1.01.zip | Schnittstelle rheumatoide Arthritis |
-| xpm-dmp-rheuma-2026.4.0-BETA.zip  XPM für eDMP rheumatoide Arthritis | xpm-dmp-rheuma-A-2026.4.0-BETA.zip |  |
-|  |  |  |
-|  |  |  |
+| Schnittstelle Osteoporose | xpm- | dmp- |
+| o | steoporose | - |
+| 2026.4.0- | BETA.zip |  |
+| XPM für eDMP Osteoporose |  | xpm |
+| - | dmp | - |
+| osteoporose | - | A |
+| -2026.4.0-BETA.zip  XPM für A-Datensätze eDMP Osteoporose   **Rheumatoide-Arthritis ** | **Inkrafttreten 01.10.2026 ** Schnittstelle_RA_V1.01.zip | Schnittstelle rheumatoide Arthritis |
+| xpm-dmp-rheuma-2026.4.0-BETA.zip  XPM für eDMP rheumatoide Arthritis | xpm | -dmp |
+| -rheuma | - | A |
+| -2026.4.0 | - | BETA.zip |
 | XPM für A-Datensätze eDMP rheumatoide Arthritis |  |  |
 | **Rueckenschmerz** |  |  |
 | **Inkrafttreten 01.10.2026** | Schnittstelle_CR_V1.02.zip | Schnittstelle Rückenschmerz |
-| Schnittstelle_KHK_V4.17.zip  Schnittstelle KHK    xpm-dmp-khk-2026.4.0-BETA.zip  XPM für eDMP KHK    xpm-dmp-khk-A-2026.4.0-BETA.zip |  |  |
-|  | XPM für A-Datensätze eDMP KHK |  |
+| Schnittstelle_KHK_V4.17.zip  Schnittstelle KHK    xpm-dmp-khk-2026.4.0-BETA.zip  XPM für eDMP KHK    xpm-dmp-khk | -A | -2026.4.0 |
+| -BETA.zip | XPM für A-Datensätze eDMP KHK |  |
 | **Osteoporose** |  |  |
 | **Inkrafttreten 01.10.2026 ** Schnittstelle_OST_V1.02.zip | Schnittstelle Osteoporose |  |
-| xpm-dmp-osteoporose-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-|  |  |  |
-|  |  | XPM für eDMP Osteoporose |
+| xpm | - | dmp |
+| - | o | steoporose |
+| - | 2026.4.0 | - |
+| BETA.zip |  | XPM für eDMP Osteoporose |
 | xpm-dmp-osteoporose-A-2026.4.0-BETA.zip | XPM für A-Datensätze eDMP Osteoporose |  |
 | **Rheumatoide-Arthritis** |  | **Inkrafttreten 01.10.2026 ** Schnittstelle_RA_V1.01.zip |
 | Schnittstelle rheumatoide Arthritis | xpm-dmp-rheuma-2026.4.0-BETA.zip | XPM für eDMP rheumatoide Arthritis |
-| xpm-dmp-rheuma-A-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-|  |  |  |
+| xpm- | dmp | - |
+| rheuma | - | A |
+| -2026.4.0- | BETA.zip |  |
 | XPM für A-Datensätze eDMP rheumatoide Arthritis |  | **Rueckenschmerz** |
 |  |  |  |
-| **Inkrafttreten 01.10.2026 ** Schnittstelle_CR_V1.02.zip  Schnittstelle Rückenschmerz    xpm-dmp-ruecken-2026.4.0-BETA.zip  XPM für eDMP Rückenschmerz    xpm-dmp-ruecken-A-2026.4.0-BETA.zip |  |  |
-|  | XPM für A-Datensätze eDMP Rückenschmerz | **Asthma** |
+| **Inkrafttreten 01.10.2026 ** Schnittstelle_CR_V1.02.zip  Schnittstelle Rückenschmerz    xpm-dmp-ruecken-2026.4.0-BETA.zip  XPM für eDMP Rückenschmerz    xpm-dmp-ruecken- | A- | 2026.4.0- |
+| BETA.zip | XPM für A-Datensätze eDMP Rückenschmerz | **Asthma** |
 |  |  |  |
 | EXT_ITA_AHEX_Anleitung_eDMP_Asthma | Ausfüllanleitung indikationsspezifischer Datensatz Asthma |  |
 | Schnittstelle_KHK_V4.17.zip | Schnittstelle KHK |  |
 | xpm-dmp-khk-2026.4.0-BETA.zip | XPM für eDMP KHK |  |
-| xpm-dmp-khk-A-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-| XPM für A-Datensätze eDMP KHK   **Osteoporose ** | **Inkrafttreten 01.10.2026** | Schnittstelle_OST_V1.02.zip  Schnittstelle Osteoporose |
-| xpm-dmp-osteoporose-2026.4.0-BETA.zip |  |  |
-|  |  |  |
-|  |  |  |
-| XPM für eDMP Osteoporose |  | xpm-dmp-osteoporose-A-2026.4.0-BETA.zip |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  | XPM für A-Datensätze eDMP Osteoporose | **Rheumatoide-Arthritis** |
+| xpm | - | dmp |
+| - | khk | - |
+| A-2026.4.0-BETA.zip  XPM für A-Datensätze eDMP KHK   **Osteoporose ** | **Inkrafttreten 01.10.2026** | Schnittstelle_OST_V1.02.zip  Schnittstelle Osteoporose |
+| xpm | -dmp | -o |
+| steoporose | - | 2026.4.0 |
+| - | BETA.zip |  |
+| XPM für eDMP Osteoporose |  | xpm |
+| - | dmp | - |
+| osteoporose | - | A |
+| - | 2026.4.0 | - |
+| BETA.zip | XPM für A-Datensätze eDMP Osteoporose | **Rheumatoide-Arthritis** |
 |  |  |  |
 | **Inkrafttreten 01.10.2026** | Schnittstelle_RA_V1.01.zip | Schnittstelle rheumatoide Arthritis |
 |  | xpm-dmp-rheuma-2026.4.0-BETA.zip | XPM für eDMP rheumatoide Arthritis |
-|  | xpm-dmp-rheuma-A-2026.4.0-BETA.zip |  |
+|  | xpm | - |
 
 
 ---
@@ -1898,9 +1898,9 @@ Aktualisiert
 | Schnittstelle_Asthma_V4.46.zip  Schnittstelle Asthma bronchiale | KBV_ITA_VGEX_Asthma_Kontrolle | Ergänzung Anforderungskatalog eDMP |
 |---|---|---|
 | KBV_ITA_FMEX_AAZ_eDMP_Asthma  Antrag auf Zertifizierung für eDMP-Asthma | KBV_ITA_AHEX_Pruefpaket_eDMP_Asthma | Prüfpaket Asthma |
-| xpm-dmp-asthma-2026.3.0.zip |  |  |
-|  |  |  |
-|  |  |  |
+| xpm | -dmp | -asthma |
+| - | 2026.3 | .0 |
+| .zip |  |  |
 | XPM für eDMP Asthma |  | - |
 | **Brustkrebs** |  |  |
 | EXT_ITA_AHEX_Anleitung_DMP_Brustkrebs | Ausfüllanleitung zur Erst- und Folgedokumentation |  |
@@ -1918,9 +1918,9 @@ Aktualisiert
 |  | KBV_ITA_VGEX_Asthma_Kontrolle | Ergänzung Anforderungskatalog eDMP |
 |  | KBV_ITA_FMEX_AAZ_eDMP_Asthma | Antrag auf Zertifizierung für eDMP-Asthma |
 |  | KBV_ITA_AHEX_Pruefpaket_eDMP_Asthma | Prüfpaket Asthma |
-|  |  | xpm-dmp-asthma-2026.3.0.zip |
-|  |  |  |
-|  |  |  |
+|  |  | xpm |
+| - | dmp | - |
+| asthma- | 2026.3.0 | .zip |
 |  | XPM für eDMP Asthma |  |
 | - | **Brustkrebs** |  |
 |  |  |  |
@@ -1933,8 +1933,8 @@ Aktualisiert
 | EXT_ITA_VGEX_Plausi_eDMP_Asthma |  | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten |
 |  | Schnittstelle_Asthma_V4.46.zip | Schnittstelle Asthma bronchiale |
 |  | KBV_ITA_VGEX_Asthma_Kontrolle | Ergänzung Anforderungskatalog eDMP |
-| KBV_ITA_FMEX_AAZ_eDMP_Asthma  Antrag auf Zertifizierung für eDMP-Asthma    KBV_ITA_AHEX_Pruefpaket_eDMP_Asthma  Prüfpaket Asthma    xpm-dmp-asthma-2026.3.0.zip |  |  |
-|  |  | XPM für eDMP Asthma |
+| KBV_ITA_FMEX_AAZ_eDMP_Asthma  Antrag auf Zertifizierung für eDMP-Asthma    KBV_ITA_AHEX_Pruefpaket_eDMP_Asthma  Prüfpaket Asthma    xpm-dmp- | asthma | - |
+| 2026.3.0 | .zip | XPM für eDMP Asthma |
 |  | - |  |
 | **Brustkrebs** |  |  |
 | EXT_ITA_AHEX_Anleitung_DMP_Brustkrebs  Ausfüllanleitung zur Erst- und Folgedokumentation    KBV_ITA_VGEX_Hinweise_BK_PNP  Hinweise zur PNP Dokumentation    EXT_ITA_VGEX_Plausi_ED_DMP_Brustkrebs  Plausibilitäten Prüfung der Dokumentation ED    EXT_ITA_VGEX_Plausi_BK_Erstdoku_pnp | Plausibilitäten Prüfung der Dokumentation ED pnp |  |
@@ -1948,9 +1948,9 @@ Aktualisiert
 |  |  |  |
 |  |  |  |
 | EXT_ITA_VGEX_Plausi_eDMP_Asthma  Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten    Schnittstelle_Asthma_V4.46.zip  Schnittstelle Asthma bronchiale    KBV_ITA_VGEX_Asthma_Kontrolle  Ergänzung Anforderungskatalog eDMP    KBV_ITA_FMEX_AAZ_eDMP_Asthma  Antrag auf Zertifizierung für eDMP-Asthma |  | KBV_ITA_AHEX_Pruefpaket_eDMP_Asthma |
-| Prüfpaket Asthma | xpm-dmp-asthma-2026.3.0.zip |  |
-|  |  |  |
-|  |  |  |
+| Prüfpaket Asthma | xpm | -dmp |
+| - | asthma | - |
+| 2026.3 | .0 | .zip |
 |  |  | XPM für eDMP Asthma |
 |  | - |  |
 | **Brustkrebs** |  |  |
@@ -1966,8 +1966,8 @@ Aktualisiert
 |  |  |  |
 | EXT_ITA_VGEX_Plausi_eDMP_Asthma |  | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten |
 |  | Schnittstelle_Asthma_V4.46.zip | Schnittstelle Asthma bronchiale |
-| KBV_ITA_VGEX_Asthma_Kontrolle  Ergänzung Anforderungskatalog eDMP    KBV_ITA_FMEX_AAZ_eDMP_Asthma  Antrag auf Zertifizierung für eDMP-Asthma    KBV_ITA_AHEX_Pruefpaket_eDMP_Asthma  Prüfpaket Asthma    xpm-dmp-asthma-2026.3.0.zip |  |  |
-|  |  |  |
+| KBV_ITA_VGEX_Asthma_Kontrolle  Ergänzung Anforderungskatalog eDMP    KBV_ITA_FMEX_AAZ_eDMP_Asthma  Antrag auf Zertifizierung für eDMP-Asthma    KBV_ITA_AHEX_Pruefpaket_eDMP_Asthma  Prüfpaket Asthma    xpm | - | dmp |
+| -asthma | -2026.3 | .0.zip |
 |  |  | XPM für eDMP Asthma |
 | - **Brustkrebs **     EXT_ITA_AHEX_Anleitung_DMP_Brustkrebs  Ausfüllanleitung zur Erst- und Folgedokumentation | KBV_ITA_VGEX_Hinweise_BK_PNP | Hinweise zur PNP Dokumentation |
 | EXT_ITA_VGEX_Plausi_ED_DMP_Brustkrebs  Plausibilitäten Prüfung der Dokumentation ED    EXT_ITA_VGEX_Plausi_BK_Erstdoku_pnp  Plausibilitäten Prüfung der Dokumentation ED pnp    EXT_ITA_VGEX_Plausi_BK_Folgedoku  Plausibilitäten zur Prüfung der Dokumentation FD    KBV_ITA_AHEX_Pruefpaket_DMP_Brustkrebs  Prüfpaket DMP Brustkrebs |  | KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs |
@@ -2004,9 +2004,9 @@ Aktualisiert
 | Schnittstelle_COPD_V4.06.zip | Schnittstelle COPD |  |
 | KBV_ITA_FMEX_AAZ_eDMP_COPD | Antrag auf Zertifizierung für eDMP-COPD |  |
 | EXT_ITA_VGEX_Plausi_eDMP_Asthma |  | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten |
-| Schnittstelle_Asthma_V4.46.zip  Schnittstelle Asthma bronchiale    KBV_ITA_VGEX_Asthma_Kontrolle  Ergänzung Anforderungskatalog eDMP    KBV_ITA_FMEX_AAZ_eDMP_Asthma  Antrag auf Zertifizierung für eDMP-Asthma    KBV_ITA_AHEX_Pruefpaket_eDMP_Asthma | Prüfpaket Asthma | xpm-dmp-asthma-2026.3.0.zip |
-|  |  |  |
-| XPM für eDMP Asthma   - **Brustkrebs **     EXT_ITA_AHEX_Anleitung_DMP_Brustkrebs  Ausfüllanleitung zur Erst- und Folgedokumentation | KBV_ITA_VGEX_Hinweise_BK_PNP | Hinweise zur PNP Dokumentation |
+| Schnittstelle_Asthma_V4.46.zip  Schnittstelle Asthma bronchiale    KBV_ITA_VGEX_Asthma_Kontrolle  Ergänzung Anforderungskatalog eDMP    KBV_ITA_FMEX_AAZ_eDMP_Asthma  Antrag auf Zertifizierung für eDMP-Asthma    KBV_ITA_AHEX_Pruefpaket_eDMP_Asthma | Prüfpaket Asthma | xpm |
+| -dmp | -asthma | -2026.3 |
+| .0.zip  XPM für eDMP Asthma   - **Brustkrebs **     EXT_ITA_AHEX_Anleitung_DMP_Brustkrebs  Ausfüllanleitung zur Erst- und Folgedokumentation | KBV_ITA_VGEX_Hinweise_BK_PNP | Hinweise zur PNP Dokumentation |
 | EXT_ITA_VGEX_Plausi_ED_DMP_Brustkrebs  Plausibilitäten Prüfung der Dokumentation ED    EXT_ITA_VGEX_Plausi_BK_Erstdoku_pnp  Plausibilitäten Prüfung der Dokumentation ED pnp    EXT_ITA_VGEX_Plausi_BK_Folgedoku  Plausibilitäten zur Prüfung der Dokumentation FD    KBV_ITA_AHEX_Pruefpaket_DMP_Brustkrebs  Prüfpaket DMP Brustkrebs    KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs Anforderungskatalog DMP Brustkrebs | Schnittstelle_Brustkrebs_V4.25.zip  Schnittstelle DMP Brustkrebs | KBV_ITA_FMEX_AAZ_DMP_Brustkrebs |
 | Antrag auf Zertifizierung für DMP Brustkrebs    xpm-dmp-bkr-2026.3.0.zip  Prüfmodul DMP Brustkrebs   - **COPD **     EXT_ITA_AHEX_Anleitung_eDMP_COPD | Ausfüllanleitung zum indikationsspez. Datensatz COPD | EXT_ITA_VGEX_Plausi_eDMP_COPD |
 | Plausibilitätsrichtlinie Prüfung der Dokumentation COPD    Schnittstelle_COPD_V4.06.zip  Schnittstelle COPD    KBV_ITA_FMEX_AAZ_eDMP_COPD  Antrag auf Zertifizierung für eDMP-COPD |  |  |
@@ -2029,8 +2029,8 @@ Aktualisiert
 |  | Schnittstelle_Asthma_V4.46.zip | Schnittstelle Asthma bronchiale |
 |  | KBV_ITA_VGEX_Asthma_Kontrolle | Ergänzung Anforderungskatalog eDMP |
 | KBV_ITA_FMEX_AAZ_eDMP_Asthma | Antrag auf Zertifizierung für eDMP-Asthma    KBV_ITA_AHEX_Pruefpaket_eDMP_Asthma  Prüfpaket Asthma |  |
-| xpm-dmp-asthma-2026.3.0.zip |  |  |
-|  |  | XPM für eDMP Asthma |
+| xpm- | dmp-asthma | -2026.3 |
+| .0.zip |  | XPM für eDMP Asthma |
 | - |  | **Brustkrebs** |
 |  |  |  |
 |  | EXT_ITA_AHEX_Anleitung_DMP_Brustkrebs | Ausfüllanleitung zur Erst- und Folgedokumentation |
@@ -2052,10 +2052,10 @@ Aktualisiert
 |  | KBV_ITA_VGEX_Asthma_Kontrolle | Ergänzung Anforderungskatalog eDMP |
 |  | KBV_ITA_FMEX_AAZ_eDMP_Asthma | Antrag auf Zertifizierung für eDMP-Asthma |
 |  | KBV_ITA_AHEX_Pruefpaket_eDMP_Asthma | Prüfpaket Asthma |
-|  |  | xpm-dmp-asthma-2026.3.0.zip |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+|  |  | xpm |
+| - | dmp | - |
+| asthma | - | 2026.3 |
+| .0 | .zip |  |
 | XPM für eDMP Asthma | - | **Brustkrebs** |
 |  |  |  |
 |  | EXT_ITA_AHEX_Anleitung_DMP_Brustkrebs | Ausfüllanleitung zur Erst- und Folgedokumentation |
@@ -2072,10 +2072,10 @@ Aktualisiert
 |  | Schnittstelle_Asthma_V4.46.zip | Schnittstelle Asthma bronchiale |
 | KBV_ITA_VGEX_Asthma_Kontrolle | Ergänzung Anforderungskatalog eDMP | KBV_ITA_FMEX_AAZ_eDMP_Asthma  Antrag auf Zertifizierung für eDMP-Asthma |
 |  | KBV_ITA_AHEX_Pruefpaket_eDMP_Asthma | Prüfpaket Asthma |
-|  |  | xpm-dmp-asthma-2026.3.0.zip |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+|  |  | xpm |
+| - | dmp | - |
+| asthma | - | 2026.3 |
+| .0 | .zip |  |
 | XPM für eDMP Asthma | - | **Brustkrebs** |
 |  |  |  |
 | EXT_ITA_AHEX_Anleitung_DMP_Brustkrebs | Ausfüllanleitung zur Erst- und Folgedokumentation |  |
@@ -2090,9 +2090,9 @@ Aktualisiert
 | Schnittstelle_COPD_V4.06.zip  Schnittstelle COPD |  | KBV_ITA_FMEX_AAZ_eDMP_COPD |
 | Antrag auf Zertifizierung für eDMP-COPD |  |  |
 | EXT_ITA_VGEX_Plausi_eDMP_Asthma  Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten    Schnittstelle_Asthma_V4.46.zip  Schnittstelle Asthma bronchiale    KBV_ITA_VGEX_Asthma_Kontrolle  Ergänzung Anforderungskatalog eDMP    KBV_ITA_FMEX_AAZ_eDMP_Asthma | Antrag auf Zertifizierung für eDMP-Asthma | KBV_ITA_AHEX_Pruefpaket_eDMP_Asthma  Prüfpaket Asthma |
-|  | xpm-dmp-asthma-2026.3.0.zip |  |
-|  |  |  |
-|  |  | XPM für eDMP Asthma |
+|  | xpm- | dmp- |
+| asthma | - | 2026.3 |
+| .0.zip |  | XPM für eDMP Asthma |
 |  | - |  |
 | **Brustkrebs** |  |  |
 |  |  | EXT_ITA_AHEX_Anleitung_DMP_Brustkrebs |
@@ -2113,7 +2113,7 @@ Aktualisiert
 |  | Schnittstelle_Asthma_V4.46.zip | Schnittstelle Asthma bronchiale |
 |  | KBV_ITA_VGEX_Asthma_Kontrolle | Ergänzung Anforderungskatalog eDMP |
 |  | KBV_ITA_FMEX_AAZ_eDMP_Asthma | Antrag auf Zertifizierung für eDMP-Asthma |
-| KBV_ITA_AHEX_Pruefpaket_eDMP_Asthma  Prüfpaket Asthma    xpm-dmp-asthma-2026.3.0.zip |  |  |
+| KBV_ITA_AHEX_Pruefpaket_eDMP_Asthma  Prüfpaket Asthma    xpm-dmp-asthma-2026.3 | .0.zip |  |
 | XPM für eDMP Asthma | - | **Brustkrebs** |
 |  |  |  |
 | EXT_ITA_AHEX_Anleitung_DMP_Brustkrebs | Ausfüllanleitung zur Erst- und Folgedokumentation |  |
@@ -2131,114 +2131,114 @@ Aktualisierung  Aktualisierung
 
 ---
 
-| xpm-dmp-copd-2026.3.0.zip |  |  |
+| xpm- | dmp- | copd- |
 |---|---|---|
-|  |  | Prüfmodul eDMP COPD |
+| 2026.3.0 | .zip | Prüfmodul eDMP COPD |
 | - | **Datenannahmestellen** |  |
 |  |  |  |
-| xpm-dmp-asthma-A-2026.2.0.zip |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| xpm | - | dmp |
+| - | asthma | - |
+| A- | 2026. | 2.0 |
+| .zip |  |  |
 | Prüfmodul Ab für Teildatensatz |  | - |
-|  | xpm-dmp-bkr-A-2026.2.0.zip |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+|  | xpm | - |
+| dmp- | bkr- | A- |
+| 202 | 6. | 2 |
+| .0 | .zip |  |
 |  | Prüfmodul BK für Teildatensatz |  |
-| - | xpm-dmp-copd-A-2026.2.0.zip |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-| KBV_ITA_AHEX_Pruefpaket_eDMP_COPD  Prüfpaket COPD |  | xpm-dmp-copd-2026.3.0.zip |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| - | xpm- | dmp- |
+| copd | - | A |
+| - | 202 | 6. |
+| 2 | .0 | .zip |
+| KBV_ITA_AHEX_Pruefpaket_eDMP_COPD  Prüfpaket COPD |  | xpm- |
+| dmp | - | copd |
+| - | 202 | 6.3.0 |
+| .zip |  |  |
 | Prüfmodul eDMP COPD |  | - |
 |  | **Datenannahmestellen** |  |
-|  |  | xpm-dmp-asthma-A-2026.2.0.zip |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-| Prüfmodul Ab für Teildatensatz   -  xpm-dmp-bkr-A-2026.2.0.zip |  |  |
-| Prüfmodul BK für Teildatensatz   -  xpm-dmp-copd-A-2026.2.0.zip |  |  |
-|  |  |  |
-|  |  |  |
-|  |  | Prüfmodul COPD für Teildatensatz |
+|  |  | xpm- |
+| dmp | - | asthma |
+| -A | - | 202 |
+| 6. | 2 | .0 |
+| .zip |  |  |
+| Prüfmodul Ab für Teildatensatz   -  xpm-dmp-bkr- | A | - |
+| 2026.2.0.zip  Prüfmodul BK für Teildatensatz   -  xpm | - | dmp |
+| -copd | -A | -202 |
+| 6. | 2 | .0 |
+| .zip |  | Prüfmodul COPD für Teildatensatz |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_COPD | Prüfpaket COPD |  |
-|  | xpm-dmp-copd-2026.3.0.zip |  |
-|  |  |  |
-| Prüfmodul eDMP COPD   - **Datenannahmestellen** |  |  |
-|  | xpm-dmp-asthma-A-2026.2.0.zip |  |
-|  |  |  |
-|  |  |  |
-| Prüfmodul Ab für Teildatensatz   -  xpm-dmp-bkr-A-2026.2.0.zip |  |  |
-|  |  |  |
-|  |  | Prüfmodul BK für Teildatensatz |
-| - | xpm-dmp-copd-A-2026.2.0.zip |  |
-|  |  |  |
-| Prüfmodul COPD für Teildatensatz | - |  |
-| xpm-dmp-depression-A-2026.2.0.zip |  |  |
-| Prüfmodul Depression für Teildatensatz | - | xpm-dmp-dm1-A-2026.2.0.zip |
-|  |  |  |
-|  |  | Prüfmodul DM1 für Teildatensatz |
-| KBV_ITA_AHEX_Pruefpaket_eDMP_COPD  Prüfpaket COPD    xpm-dmp-copd-2026.3.0.zip |  |  |
+|  | xpm | - |
+| dmp | - | copd |
+| -2026.3.0.zip  Prüfmodul eDMP COPD   - **Datenannahmestellen** |  |  |
+|  | xpm- | dmp- |
+| asthma | - | A |
+| - | 202 | 6. |
+| 2.0.zip  Prüfmodul Ab für Teildatensatz   -  xpm-dmp | - | bkr |
+| -A | -202 | 6.2 |
+| .0.zip |  | Prüfmodul BK für Teildatensatz |
+| - | xpm- | dmp- |
+| copd | - | A |
+| -2026.2.0.zip  Prüfmodul COPD für Teildatensatz | - |  |
+| xpm-dmp-depression-A-2026.2.0 | .zip |  |
+| Prüfmodul Depression für Teildatensatz | - | xpm |
+| - | dmp | - |
+| dm1-A-2026.2.0.zip |  | Prüfmodul DM1 für Teildatensatz |
+| KBV_ITA_AHEX_Pruefpaket_eDMP_COPD  Prüfpaket COPD    xpm-dmp-copd-2026.3.0 | .zip |  |
 | Prüfmodul eDMP COPD | - | **Datenannahmestellen** |
 |  |  |  |
-|  |  | xpm-dmp-asthma-A-2026.2.0.zip |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+|  |  | xpm |
+| - | dmp | - |
+| asthma | - | A |
+| - | 202 | 6. |
+| 2 | .0 | .zip |
 |  |  | Prüfmodul Ab für Teildatensatz |
 |  | - |  |
-| xpm-dmp-bkr-A-2026.2.0.zip |  |  |
-|  |  |  |
-| Prüfmodul BK für Teildatensatz   - | xpm-dmp-copd-A-2026.2.0.zip |  |
-|  |  | Prüfmodul COPD für Teildatensatz |
-| - | xpm-dmp-depression-A-2026.2.0.zip |  |
-|  |  |  |
-|  |  |  |
+| xpm- | dmp- | bkr- |
+| A | - | 202 |
+| 6.2.0.zip  Prüfmodul BK für Teildatensatz   - | xpm | - |
+| dmp-copd-A-2026.2.0.zip |  | Prüfmodul COPD für Teildatensatz |
+| - | xpm | -dmp |
+| - | depression | - |
+| A- | 202 | 6. |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_COPD | Prüfpaket COPD |  |
-|  | xpm-dmp-copd-2026.3.0.zip |  |
-| Prüfmodul eDMP COPD   - |  | **Datenannahmestellen** |
-|  |  | xpm-dmp-asthma-A-2026.2.0.zip |
-|  |  |  |
-|  | Prüfmodul Ab für Teildatensatz |  |
-| -  xpm-dmp-bkr-A-2026.2.0.zip |  |  |
-|  | Prüfmodul BK für Teildatensatz | - |
-|  | xpm-dmp-copd-A-2026.2.0.zip |  |
-|  |  |  |
-| Prüfmodul COPD für Teildatensatz | - |  |
-| xpm-dmp-depression-A-2026.2.0.zip |  |  |
-|  |  |  |
-|  |  |  |
-| Prüfmodul Depression für Teildatensatz   -  xpm-dmp-dm1-A-2026.2.0.zip |  |  |
-|  |  |  |
+|  | xpm | - |
+| dmp-copd-2026.3.0.zip  Prüfmodul eDMP COPD   - |  | **Datenannahmestellen** |
+|  |  | xpm |
+| - | dmp | - |
+| asthma-A-2026.2.0.zip | Prüfmodul Ab für Teildatensatz |  |
+| -  xpm-dmp-bkr-A-2026. | 2 | .0 |
+| .zip | Prüfmodul BK für Teildatensatz | - |
+|  | xpm | - |
+| dmp | - | copd |
+| -A-2026.2.0.zip  Prüfmodul COPD für Teildatensatz | - |  |
+| xpm- | dmp- | depression- |
+| A | - | 202 |
+| 6. | 2 | .0 |
+| .zip  Prüfmodul Depression für Teildatensatz   -  xpm-dmp-dm1 | - | A |
+| -202 | 6.2 | .0.zip |
 |  |  | Prüfmodul DM1 für Teildatensatz |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_COPD  Prüfpaket COPD |  |  |
-| xpm-dmp-copd-2026.3.0.zip |  |  |
-|  |  |  |
-|  |  |  |
+| xpm | - | dmp |
+| - | copd | - |
+| 202 | 6.3.0 | .zip |
 |  |  | Prüfmodul eDMP COPD |
-| - **Datenannahmestellen **     xpm-dmp-asthma-A-2026.2.0.zip |  |  |
-|  |  |  |
-|  |  |  |
+| - **Datenannahmestellen **     xpm- | dmp- | asthma- |
+| A- | 2026. | 2.0 |
+| .zip |  |  |
 | Prüfmodul Ab für Teildatensatz |  | - |
-|  | xpm-dmp-bkr-A-2026.2.0.zip |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+|  | xpm | - |
+| dmp | - | bkr |
+| - | A | - |
+| 202 | 6. | 2 |
+| .0 | .zip |  |
 |  | Prüfmodul BK für Teildatensatz |  |
-| - |  | xpm-dmp-copd-A-2026.2.0.zip |
-|  |  |  |
-|  |  |  |
+| - |  | xpm |
+| -dmp | -copd | -A |
+| -202 | 6.2 | .0.zip |
 |  |  | Prüfmodul COPD für Teildatensatz |
-| - |  | xpm-dmp-depression-A-2026.2.0.zip |
-|  |  |  |
-|  |  |  |
+| - |  | xpm |
+| - | dmp | - |
+| depression | - | A |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_COPD | Prüfpaket COPD |  |
 | xpm-dmp-copd-2026.3.0.zip | Prüfmodul eDMP COPD | - |
 | **Datenannahmestellen** |  |  |
@@ -2262,106 +2262,106 @@ Aktualisierung  Aktualisierung
 | Schnittstelle_Diabetes2_V6.07.zip | Schnittstelle Diabetes mellitus Typ 2 |  |
 | KBV_ITA_FMEX_AAZ_eDMP_DM1 | Antrag auf Zertifizierung für eDMP-DM1 |  |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_COPD | Prüfpaket COPD |  |
-|  | xpm-dmp-copd-2026.3.0.zip |  |
-|  |  |  |
-|  |  | Prüfmodul eDMP COPD |
+|  | xpm | - |
+| dmp | - | copd |
+| -202 | 6.3.0.zip | Prüfmodul eDMP COPD |
 | - | **Datenannahmestellen ** |  |
-| xpm-dmp-asthma-A-2026.2.0.zip |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| xpm | -dmp | -asthma |
+| - | A | - |
+| 202 | 6. | 2 |
+| .0 | .zip |  |
 |  | Prüfmodul Ab für Teildatensatz |  |
-| - |  | xpm-dmp-bkr-A-2026.2.0.zip |
-|  |  |  |
-|  |  |  |
-|  |  | Prüfmodul BK für Teildatensatz |
+| - |  | xpm |
+| - | dmp | - |
+| bkr- | A- | 2026. |
+| 2.0 | .zip | Prüfmodul BK für Teildatensatz |
 |  | - |  |
-| xpm-dmp-copd-A-2026.2.0.zip |  |  |
-|  |  |  |
-|  |  |  |
-|  |  | Prüfmodul COPD für Teildatensatz |
-| -  xpm-dmp-depression-A-2026.2.0.zip | Prüfmodul Depression für Teildatensatz | - |
-| xpm-dmp-dm1-A-2026.2.0.zip |  |  |
-|  |  |  |
+| xpm- | dmp | - |
+| copd- | A | - |
+| 202 | 6. | 2 |
+| .0.zip |  | Prüfmodul COPD für Teildatensatz |
+| -  xpm-dmp-depression-A-2026.2 | .0.zip  Prüfmodul Depression für Teildatensatz | - |
+| xpm | -dmp | -dm1 |
+| - | A | - |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_COPD | Prüfpaket COPD |  |
-|  | xpm-dmp-copd-2026.3.0.zip |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+|  | xpm | - |
+| dmp | - | copd |
+| - | 202 | 6.3.0 |
+| .zip |  |  |
 | Prüfmodul eDMP COPD |  | - |
 |  | **Datenannahmestellen** |  |
 |  |  |  |
-|  | xpm-dmp-asthma-A-2026.2.0.zip |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+|  | xpm | - |
+| dmp- | asthma- | A- |
+| 202 | 6. | 2 |
+| .0 | .zip |  |
 |  | Prüfmodul Ab für Teildatensatz |  |
-| - |  | xpm-dmp-bkr-A-2026.2.0.zip |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| - |  | xpm |
+| - | dmp | - |
+| bkr | - | A |
+| -202 | 6.2 | .0.zip |
 |  | Prüfmodul BK für Teildatensatz |  |
-| - |  | xpm-dmp-copd-A-2026.2.0.zip |
-|  |  |  |
-|  |  |  |
+| - |  | xpm |
+| - | dmp | - |
+| copd | - | A |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_COPD | Prüfpaket COPD |  |
-|  | xpm-dmp-copd-2026.3.0.zip |  |
-|  |  |  |
-|  |  |  |
+|  | xpm | - |
+| dmp- | copd- | 2026.3.0 |
+| .zip |  |  |
 | Prüfmodul eDMP COPD |  | - |
 |  | **Datenannahmestellen** |  |
 |  |  |  |
-|  | xpm-dmp-asthma-A-2026.2.0.zip |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+|  | xpm | - |
+| dmp- | asthma- | A- |
+| 202 | 6. | 2 |
+| .0.zip |  |  |
 | Prüfmodul Ab für Teildatensatz |  | - |
-|  | xpm-dmp-bkr-A-2026.2.0.zip |  |
-|  |  |  |
-| Prüfmodul BK für Teildatensatz | - | xpm-dmp-copd-A-2026.2.0.zip |
-|  |  |  |
-|  |  |  |
-|  |  | Prüfmodul COPD für Teildatensatz |
-| - |  | xpm-dmp-depression-A-2026.2.0.zip |
-|  |  |  |
-|  |  |  |
-| KBV_ITA_AHEX_Pruefpaket_eDMP_COPD  Prüfpaket COPD    xpm-dmp-copd-2026.3.0.zip |  |  |
+|  | xpm | - |
+| dmp | - | bkr |
+| -A-2026.2.0.zip  Prüfmodul BK für Teildatensatz | - | xpm- |
+| dmp- | copd- | A- |
+| 2026. | 2 | .0 |
+| .zip |  | Prüfmodul COPD für Teildatensatz |
+| - |  | xpm |
+| -dmp | - | depression |
+| - | A | - |
+| KBV_ITA_AHEX_Pruefpaket_eDMP_COPD  Prüfpaket COPD    xpm-dmp-copd-202 | 6.3.0.zip |  |
 | Prüfmodul eDMP COPD | - | **Datenannahmestellen** |
 |  |  |  |
-| xpm-dmp-asthma-A-2026.2.0.zip |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| xpm- | dmp | - |
+| asthma | - | A |
+| - | 202 | 6. |
+| 2 | .0 | .zip |
 |  |  | Prüfmodul Ab für Teildatensatz |
-| -  xpm-dmp-bkr-A-2026.2.0.zip |  |  |
+| -  xpm-dmp-bkr-A-202 | 6.2 | .0.zip |
 |  | Prüfmodul BK für Teildatensatz | - |
-| xpm-dmp-copd-A-2026.2.0.zip |  |  |
-|  |  |  |
-|  |  |  |
-|  | Prüfmodul COPD für Teildatensatz |  |
-| - | xpm-dmp-depression-A-2026.2.0.zip |  |
-|  |  |  |
-| Prüfmodul Depression für Teildatensatz   - | xpm-dmp-dm1-A-2026.2.0.zip |  |
-|  |  |  |
-|  |  |  |
-|  |  | Prüfmodul DM1 für Teildatensatz |
+| xpm- | dmp | - |
+| copd-A | - | 202 |
+| 6. | 2 | .0 |
+| .zip | Prüfmodul COPD für Teildatensatz |  |
+| - | xpm | - |
+| dmp | - | depression |
+| -A-2026.2.0.zip  Prüfmodul Depression für Teildatensatz   - | xpm | -dmp |
+| -dm1 | -A | -202 |
+| 6. | 2 | .0 |
+| .zip |  | Prüfmodul DM1 für Teildatensatz |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_COPD | Prüfpaket COPD |  |
-|  | xpm-dmp-copd-2026.3.0.zip |  |
-|  |  |  |
-|  |  |  |
-| Prüfmodul eDMP COPD   - **Datenannahmestellen ** | xpm-dmp-asthma-A-2026.2.0.zip |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+|  | xpm | - |
+| dmp | - | copd |
+| - | 202 | 6.3.0 |
+| .zip  Prüfmodul eDMP COPD   - **Datenannahmestellen ** | xpm | -dmp |
+| -asthma | -A | -202 |
+| 6. | 2 | .0 |
+| .zip |  |  |
 | Prüfmodul Ab für Teildatensatz |  | - |
-|  | xpm-dmp-bkr-A-2026.2.0.zip |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+|  | xpm | - |
+| dmp | - | bkr |
+| - | A | - |
+| 2026. | 2.0 | .zip |
 |  | Prüfmodul BK für Teildatensatz |  |
-| - |  | xpm-dmp-copd-A-2026.2.0.zip |
-|  |  |  |
-|  |  |  |
+| - |  | xpm |
+| - | dmp | - |
+| copd | - | A |
 
 Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung
 
@@ -2369,7 +2369,7 @@ Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktua
 
 | Prüfpaket Diabetes mellitus Typ 1 | KBV_ITA_AHEX_Pruefpaket_eDMP_DM2  Prüfpaket Diabetes mellitus Typ 2 |  |
 |---|---|---|
-| xpm-dmp-dm1-2026.3.0.zip | Prüfmodul e DMP Diabetes mellitus Typ 1 |  |
+| xpm-dmp-dm1-2026.3.0.zip | Prüfmodul eDMP Diabetes mellitus Typ 1 |  |
 | - | xpm-dmp-dm2-2026.3.0.zip | Prüfmodul eDMP Diabetes mellitus Typ 2 |
 |  | - |  |
 | **eHKS** |  |  |
@@ -2385,11 +2385,11 @@ Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktua
 | Ausfüllanleitung zu indikationsspez. Datensatz Herzinsuffizienz | EXT_ITA_VGEX_Plausi_eDMP_HI | Plausibilitätsrichtlinie zur Prüfung der Doku.-daten |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_HI |  | Prüfpaket Herzinsuffizienz |
 |  | KBV_ITA_FMEX_AAZ_eDMP_HI | Antrag auf Zertifizierung für Herzinsuffizienz |
-|  | Schnittstelle_HI_V1.03 |  |
+|  | Schnittstelle_HI_V1.0 | 3 |
 | KBV_ITA_FMEX_AAZ_eDMP_DM2  Antrag auf Zertifizierung für eDMP-DM2 | KBV_ITA_AHEX_Pruefpaket_eDMP_DM1 | Prüfpaket Diabetes mellitus Typ 1 |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_DM2 | Prüfpaket Diabetes mellitus Typ 2 |  |
 |  | xpm-dmp-dm1-2026.3.0.zip |  |
-| Prüfmodul e DMP Diabetes mellitus Typ 1 |  |  |
+| Prüfmodul | eDMP Diabetes mellitus Typ 1 |  |
 |  | - |  |
 | xpm-dmp-dm2-2026.3.0.zip |  | Prüfmodul eDMP Diabetes mellitus Typ 2 |
 |  | - | **eHKS** |
@@ -2400,12 +2400,12 @@ Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktua
 | Allgemeiner Datensatz Prävention    Schnittstelle_eHKS_V.2.33.zip  Schnittstelle Hautkrebs-Screening    KBV_ITA_FMEX_AAZ_eHKS  Antrag auf Zertifizierung für eHKS    xpm-hks-2026.3.0.zip |  | Prüfmodul Hautkrebs-Screening |
 | - **Herzinsuffizienz **     EXT_ITA_AHEX_Anleitung_eDMP_HI  Ausfüllanleitung zu indikationsspez. Datensatz Herzinsuffizienz    EXT_ITA_VGEX_Plausi_eDMP_HI |  | Plausibilitätsrichtlinie zur Prüfung der Doku.-daten |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_HI | Prüfpaket Herzinsuffizienz | KBV_ITA_FMEX_AAZ_eDMP_HI |
-| Antrag auf Zertifizierung für Herzinsuffizienz |  | Schnittstelle_HI_V1.03 |
-|  | Schnittstelle Herzinsuffizienz |  |
+| Antrag auf Zertifizierung für Herzinsuffizienz |  | Schnittstelle_HI_V1.0 |
+| 3 | Schnittstelle Herzinsuffizienz |  |
 | KBV_ITA_FMEX_AAZ_eDMP_DM2 | Antrag auf Zertifizierung für eDMP-DM2 |  |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_DM1 | Prüfpaket Diabetes mellitus Typ 1 |  |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_DM2 | Prüfpaket Diabetes mellitus Typ 2 |  |
-| xpm-dmp-dm1-2026.3.0.zip  Prüfmodul e DMP Diabetes mellitus Typ 1   -  xpm-dmp-dm2-2026.3.0.zip  Prüfmodul eDMP Diabetes mellitus Typ 2 |  |  |
+| xpm-dmp-dm1-2026.3.0.zip  Prüfmodul eDMP Diabetes mellitus Typ 1   -  xpm-dmp-dm2-2026.3.0.zip  Prüfmodul eDMP Diabetes mellitus Typ 2 |  |  |
 | - | **eHKS** |  |
 |  | KBV_ITA_AHEX_Pruefpaket_eHKS | Prüfpaket Hautkrebs-Screening |
 |  | KBV_ITA_VGEX_Anforderungskatalog_eHKS | Anforderungskatalog Hautkrebs-Screening |
@@ -2414,12 +2414,12 @@ Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktua
 | **Herzinsuffizienz** |  | EXT_ITA_AHEX_Anleitung_eDMP_HI |
 | Ausfüllanleitung zu indikationsspez. Datensatz Herzinsuffizienz | EXT_ITA_VGEX_Plausi_eDMP_HI | Plausibilitätsrichtlinie zur Prüfung der Doku.-daten |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_HI |  | Prüfpaket Herzinsuffizienz |
-| KBV_ITA_FMEX_AAZ_eDMP_HI  Antrag auf Zertifizierung für Herzinsuffizienz    Schnittstelle_HI_V1.03  Schnittstelle Herzinsuffizienz | xpm-dmp-his-2026.3.0 |  |
-|  | Prüfmodul eDMP Herzinsuffizienz |  |
+| KBV_ITA_FMEX_AAZ_eDMP_HI  Antrag auf Zertifizierung für Herzinsuffizienz    Schnittstelle_HI_V1.03  Schnittstelle Herzinsuffizienz | xpm | - |
+| dmp-his-2026.3.0 | Prüfmodul eDMP | Herzinsuffizienz |
 |  | - | **Hoergeraeteversorgung** |
 |  |  |  |
 | EXT_ITA_AHEX_Berechnung_APHAB_QSHGV  Formeln zur Berechnung des APHAB Nutzens |  |  |
-| KBV_ITA_FMEX_AAZ_eDMP_DM2  Antrag auf Zertifizierung für eDMP-DM2    KBV_ITA_AHEX_Pruefpaket_eDMP_DM1  Prüfpaket Diabetes mellitus Typ 1    KBV_ITA_AHEX_Pruefpaket_eDMP_DM2  Prüfpaket Diabetes mellitus Typ 2    xpm-dmp-dm1-2026.3.0.zip | Prüfmodul e DMP Diabetes mellitus Typ 1 |  |
+| KBV_ITA_FMEX_AAZ_eDMP_DM2  Antrag auf Zertifizierung für eDMP-DM2    KBV_ITA_AHEX_Pruefpaket_eDMP_DM1  Prüfpaket Diabetes mellitus Typ 1    KBV_ITA_AHEX_Pruefpaket_eDMP_DM2  Prüfpaket Diabetes mellitus Typ 2    xpm-dmp-dm1-2026.3.0.zip | Prüfmodul | eDMP Diabetes mellitus Typ 1 |
 |  | - | xpm-dmp-dm2-2026.3.0.zip |
 | Prüfmodul eDMP Diabetes mellitus Typ 2 |  |  |
 | - |  | **eHKS** |
@@ -2433,12 +2433,12 @@ Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktua
 |  | Prüfmodul Hautkrebs-Screening |  |
 | - **Herzinsuffizienz **     EXT_ITA_AHEX_Anleitung_eDMP_HI  Ausfüllanleitung zu indikationsspez. Datensatz Herzinsuffizienz | EXT_ITA_VGEX_Plausi_eDMP_HI |  |
 | Plausibilitätsrichtlinie zur Prüfung der Doku.-daten    KBV_ITA_AHEX_Pruefpaket_eDMP_HI  Prüfpaket Herzinsuffizienz    KBV_ITA_FMEX_AAZ_eDMP_HI  Antrag auf Zertifizierung für Herzinsuffizienz    Schnittstelle_HI_V1.03 | Schnittstelle Herzinsuffizienz |  |
-| xpm-dmp-his-2026.3.0 |  |  |
-|  |  |  |
-|  |  |  |
+| xpm | -dmp | -his |
+| - | 20 | 26 |
+| .3 | . | 0 |
 | KBV_ITA_FMEX_AAZ_eDMP_DM2 | Antrag auf Zertifizierung für eDMP-DM2 |  |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_DM1 | Prüfpaket Diabetes mellitus Typ 1 |  |
-| KBV_ITA_AHEX_Pruefpaket_eDMP_DM2  Prüfpaket Diabetes mellitus Typ 2    xpm-dmp-dm1-2026.3.0.zip  Prüfmodul e DMP Diabetes mellitus Typ 1   - | xpm-dmp-dm2-2026.3.0.zip |  |
+| KBV_ITA_AHEX_Pruefpaket_eDMP_DM2  Prüfpaket Diabetes mellitus Typ 2    xpm-dmp-dm1-2026.3.0.zip  Prüfmodul eDMP Diabetes mellitus Typ 1   - | xpm-dmp-dm2-2026.3.0.zip |  |
 | Prüfmodul eDMP Diabetes mellitus Typ 2 | - | **eHKS** |
 |  |  |  |
 | KBV_ITA_AHEX_Pruefpaket_eHKS  Prüfpaket Hautkrebs-Screening    KBV_ITA_VGEX_Anforderungskatalog_eHKS  Anforderungskatalog Hautkrebs-Screening    KBV_ITA_VGEX_Plausi_eHKS  Plausibilitätenkatalog Dokumentation HautkrebsScreening    KBV_ITA_VGEX_Plausi_Praevention_eHKS | Allgemeiner Datensatz Prävention |  |
@@ -2446,18 +2446,18 @@ Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktua
 |  |  | EXT_ITA_AHEX_Anleitung_eDMP_HI  Ausfüllanleitung zu indikationsspez. Datensatz Herzinsuffizienz |
 |  | EXT_ITA_VGEX_Plausi_eDMP_HI |  |
 | Plausibilitätsrichtlinie zur Prüfung der Doku.-daten |  | KBV_ITA_AHEX_Pruefpaket_eDMP_HI |
-| Prüfpaket Herzinsuffizienz    KBV_ITA_FMEX_AAZ_eDMP_HI  Antrag auf Zertifizierung für Herzinsuffizienz    Schnittstelle_HI_V1.03  Schnittstelle Herzinsuffizienz | xpm-dmp-his-2026.3.0 |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Prüfpaket Herzinsuffizienz    KBV_ITA_FMEX_AAZ_eDMP_HI  Antrag auf Zertifizierung für Herzinsuffizienz    Schnittstelle_HI_V1.03  Schnittstelle Herzinsuffizienz | xpm | - |
+| dmp- | his- | 2026 |
+| . | 3 | . |
+| 0 |  |  |
 | Prüfmodul eDMP Herzinsuffizienz   - **Hoergeraeteversorgung ** | EXT_ITA_AHEX_Berechnung_APHAB_QSHGV | Formeln zur Berechnung des APHAB Nutzens |
 |  |  |  |
 |  |  |  |
 | KBV_ITA_FMEX_AAZ_eDMP_DM2  Antrag auf Zertifizierung für eDMP-DM2 |  | KBV_ITA_AHEX_Pruefpaket_eDMP_DM1 |
 | Prüfpaket Diabetes mellitus Typ 1 |  | KBV_ITA_AHEX_Pruefpaket_eDMP_DM2 |
 | Prüfpaket Diabetes mellitus Typ 2 |  |  |
-| xpm-dmp-dm1-2026.3.0.zip |  | Prüfmodul e DMP Diabetes mellitus Typ 1 |
-|  |  |  |
+| xpm-dmp-dm1-2026.3.0.zip |  | Prüfmodul |
+| eDMP Diabetes mellitus Typ 1 |  |  |
 | -  xpm-dmp-dm2-2026.3.0.zip  Prüfmodul eDMP Diabetes mellitus Typ 2   - **eHKS** |  | KBV_ITA_AHEX_Pruefpaket_eHKS |
 | Prüfpaket Hautkrebs-Screening | KBV_ITA_VGEX_Anforderungskatalog_eHKS  Anforderungskatalog Hautkrebs-Screening | KBV_ITA_VGEX_Plausi_eHKS |
 | Plausibilitätenkatalog Dokumentation HautkrebsScreening |  | KBV_ITA_VGEX_Plausi_Praevention_eHKS |
@@ -2472,16 +2472,16 @@ Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktua
 | Plausibilitätsrichtlinie zur Prüfung der Doku.-daten | KBV_ITA_AHEX_Pruefpaket_eDMP_HI | Prüfpaket Herzinsuffizienz |
 | KBV_ITA_FMEX_AAZ_eDMP_HI | Antrag auf Zertifizierung für Herzinsuffizienz | Schnittstelle_HI_V1.03 |
 |  | Schnittstelle Herzinsuffizienz |  |
-| xpm-dmp-his-2026.3.0 |  |  |
-|  |  |  |
-|  |  |  |
+| xpm | - | dmp |
+| - | his | - |
+| 20 | 26 | . |
 | KBV_ITA_FMEX_AAZ_eDMP_DM2 | Antrag auf Zertifizierung für eDMP-DM2 |  |
-| KBV_ITA_AHEX_Pruefpaket_eDMP_DM1  Prüfpaket Diabetes mellitus Typ 1    KBV_ITA_AHEX_Pruefpaket_eDMP_DM2  Prüfpaket Diabetes mellitus Typ 2    xpm-dmp-dm1-2026.3.0.zip  Prüfmodul e DMP Diabetes mellitus Typ 1 |  | - |
+| KBV_ITA_AHEX_Pruefpaket_eDMP_DM1  Prüfpaket Diabetes mellitus Typ 1    KBV_ITA_AHEX_Pruefpaket_eDMP_DM2  Prüfpaket Diabetes mellitus Typ 2    xpm-dmp-dm1-2026.3.0.zip  Prüfmodul eDMP Diabetes mellitus Typ 1 |  | - |
 | xpm-dmp-dm2-2026.3.0.zip | Prüfmodul eDMP Diabetes mellitus Typ 2 | - |
 | **eHKS **     KBV_ITA_AHEX_Pruefpaket_eHKS  Prüfpaket Hautkrebs-Screening    KBV_ITA_VGEX_Anforderungskatalog_eHKS  Anforderungskatalog Hautkrebs-Screening    KBV_ITA_VGEX_Plausi_eHKS  Plausibilitätenkatalog Dokumentation HautkrebsScreening | KBV_ITA_VGEX_Plausi_Praevention_eHKS  Allgemeiner Datensatz Prävention | Schnittstelle_eHKS_V.2.33.zip |
 | Schnittstelle Hautkrebs-Screening    KBV_ITA_FMEX_AAZ_eHKS  Antrag auf Zertifizierung für eHKS    xpm-hks-2026.3.0.zip  Prüfmodul Hautkrebs-Screening   - **Herzinsuffizienz ** |  | EXT_ITA_AHEX_Anleitung_eDMP_HI  Ausfüllanleitung zu indikationsspez. Datensatz Herzinsuffizienz |
-| EXT_ITA_VGEX_Plausi_eDMP_HI  Plausibilitätsrichtlinie zur Prüfung der Doku.-daten    KBV_ITA_AHEX_Pruefpaket_eDMP_HI  Prüfpaket Herzinsuffizienz    KBV_ITA_FMEX_AAZ_eDMP_HI  Antrag auf Zertifizierung für Herzinsuffizienz    Schnittstelle_HI_V1.03 | Schnittstelle Herzinsuffizienz | xpm-dmp-his-2026.3.0 |
-| Prüfmodul eDMP Herzinsuffizienz |  | - |
+| EXT_ITA_VGEX_Plausi_eDMP_HI  Plausibilitätsrichtlinie zur Prüfung der Doku.-daten    KBV_ITA_AHEX_Pruefpaket_eDMP_HI  Prüfpaket Herzinsuffizienz    KBV_ITA_FMEX_AAZ_eDMP_HI  Antrag auf Zertifizierung für Herzinsuffizienz    Schnittstelle_HI_V1.03 | Schnittstelle Herzinsuffizienz | xpm |
+| -dmp-his-2026.3.0  Prüfmodul eDMP Herzinsuffizienz |  | - |
 | **Hoergeraeteversorgung **     EXT_ITA_AHEX_Berechnung_APHAB_QSHGV  Formeln zur Berechnung des APHAB Nutzens |  |  |
 |  |  |  |
 |  |  |  |
@@ -2500,7 +2500,7 @@ Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktua
 | KBV_ITA_FMEX_AAZ_eDMP_DM2 | Antrag auf Zertifizierung für eDMP-DM2 |  |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_DM1 | Prüfpaket Diabetes mellitus Typ 1 |  |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_DM2 | Prüfpaket Diabetes mellitus Typ 2 |  |
-| xpm-dmp-dm1-2026.3.0.zip | Prüfmodul e DMP Diabetes mellitus Typ 1 | - |
+| xpm-dmp-dm1-2026.3.0.zip | Prüfmodul eDMP Diabetes mellitus Typ 1 | - |
 | xpm-dmp-dm2-2026.3.0.zip | Prüfmodul eDMP Diabetes mellitus Typ 2 | - |
 | **eHKS** |  |  |
 | KBV_ITA_AHEX_Pruefpaket_eHKS | Prüfpaket Hautkrebs-Screening |  |
@@ -2523,7 +2523,7 @@ Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktua
 | KBV_ITA_AHEX_Pruefpaket_eDMP_DM1 | Prüfpaket Diabetes mellitus Typ 1 |  |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_DM2 | Prüfpaket Diabetes mellitus Typ 2 |  |
 |  | xpm-dmp-dm1-2026.3.0.zip |  |
-| Prüfmodul e DMP Diabetes mellitus Typ 1 |  |  |
+| Prüfmodul | eDMP Diabetes mellitus Typ 1 |  |
 |  | - |  |
 | xpm-dmp-dm2-2026.3.0.zip |  | Prüfmodul eDMP Diabetes mellitus Typ 2 |
 |  |  | - |
@@ -2543,7 +2543,7 @@ Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktua
 | KBV_ITA_FMEX_AAZ_eDMP_DM2 | Antrag auf Zertifizierung für eDMP-DM2 |  |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_DM1 | Prüfpaket Diabetes mellitus Typ 1 |  |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_DM2  Prüfpaket Diabetes mellitus Typ 2 |  | xpm-dmp-dm1-2026.3.0.zip |
-| Prüfmodul e DMP Diabetes mellitus Typ 1 |  |  |
+| Prüfmodul | eDMP Diabetes mellitus Typ 1 |  |
 |  | - |  |
 | xpm-dmp-dm2-2026.3.0.zip |  | Prüfmodul eDMP Diabetes mellitus Typ 2 |
 |  |  | - |
@@ -2556,12 +2556,12 @@ Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktua
 | Antrag auf Zertifizierung für eHKS |  |  |
 | xpm-hks-2026.3.0.zip  Prüfmodul Hautkrebs-Screening   - **Herzinsuffizienz **     EXT_ITA_AHEX_Anleitung_eDMP_HI | Ausfüllanleitung zu indikationsspez. Datensatz Herzinsuffizienz | EXT_ITA_VGEX_Plausi_eDMP_HI |
 | Plausibilitätsrichtlinie zur Prüfung der Doku.-daten | KBV_ITA_AHEX_Pruefpaket_eDMP_HI | Prüfpaket Herzinsuffizienz |
-| KBV_ITA_FMEX_AAZ_eDMP_HI  Antrag auf Zertifizierung für Herzinsuffizienz |  | Schnittstelle_HI_V1.03 |
-|  | Schnittstelle Herzinsuffizienz |  |
-| xpm-dmp-his-2026.3.0 |  |  |
-|  |  |  |
-|  |  |  |
-| KBV_ITA_FMEX_AAZ_eDMP_DM2  Antrag auf Zertifizierung für eDMP-DM2    KBV_ITA_AHEX_Pruefpaket_eDMP_DM1  Prüfpaket Diabetes mellitus Typ 1    KBV_ITA_AHEX_Pruefpaket_eDMP_DM2  Prüfpaket Diabetes mellitus Typ 2    xpm-dmp-dm1-2026.3.0.zip | Prüfmodul e DMP Diabetes mellitus Typ 1 |  |
+| KBV_ITA_FMEX_AAZ_eDMP_HI  Antrag auf Zertifizierung für Herzinsuffizienz |  | Schnittstelle_HI_V1.0 |
+| 3 | Schnittstelle Herzinsuffizienz |  |
+| xpm | - | dmp |
+| -his | - | 20 |
+| 26 | . | 3 |
+| KBV_ITA_FMEX_AAZ_eDMP_DM2  Antrag auf Zertifizierung für eDMP-DM2    KBV_ITA_AHEX_Pruefpaket_eDMP_DM1  Prüfpaket Diabetes mellitus Typ 1    KBV_ITA_AHEX_Pruefpaket_eDMP_DM2  Prüfpaket Diabetes mellitus Typ 2    xpm-dmp-dm1-2026.3.0.zip | Prüfmodul | eDMP Diabetes mellitus Typ 1 |
 | - | xpm-dmp-dm2-2026.3.0.zip | Prüfmodul eDMP Diabetes mellitus Typ 2 |
 |  |  | - |
 | **eHKS** |  |  |
@@ -2573,11 +2573,11 @@ Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktua
 |  | EXT_ITA_AHEX_Anleitung_eDMP_HI | Ausfüllanleitung zu indikationsspez. Datensatz Herzinsuffizienz |
 | EXT_ITA_VGEX_Plausi_eDMP_HI | Plausibilitätsrichtlinie zur Prüfung der Doku.-daten |  |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_HI  Prüfpaket Herzinsuffizienz |  | KBV_ITA_FMEX_AAZ_eDMP_HI |
-| Antrag auf Zertifizierung für Herzinsuffizienz |  | Schnittstelle_HI_V1.03 |
-| Schnittstelle Herzinsuffizienz |  |  |
-| xpm-dmp-his-2026.3.0 |  |  |
-|  |  |  |
-| Prüfmodul eDMP Herzinsuffizienz   - | **Hoergeraeteversorgung** |  |
+| Antrag auf Zertifizierung für Herzinsuffizienz |  | Schnittstelle_HI_V1.0 |
+| 3  Schnittstelle Herzinsuffizienz |  |  |
+| xpm- | dmp | - |
+| his | - | 20 |
+| 26.3.0  Prüfmodul eDMP Herzinsuffizienz   - | **Hoergeraeteversorgung** |  |
 |  | EXT_ITA_AHEX_Berechnung_APHAB_QSHGV  Formeln zur Berechnung des APHAB Nutzens |  |
 |  |  |  |
 |  |  |  |
@@ -2585,7 +2585,7 @@ Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktua
 | KBV_ITA_AHEX_Pruefpaket_eDMP_DM1 | Prüfpaket Diabetes mellitus Typ 1 |  |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_DM2 | Prüfpaket Diabetes mellitus Typ 2 |  |
 |  | xpm-dmp-dm1-2026.3.0.zip |  |
-| Prüfmodul e DMP Diabetes mellitus Typ 1   -  xpm-dmp-dm2-2026.3.0.zip  Prüfmodul eDMP Diabetes mellitus Typ 2   - | **eHKS** |  |
+| Prüfmodul eDMP Diabetes mellitus Typ 1   -  xpm-dmp-dm2-2026.3.0.zip  Prüfmodul eDMP Diabetes mellitus Typ 2   - | **eHKS** |  |
 |  | KBV_ITA_AHEX_Pruefpaket_eHKS  Prüfpaket Hautkrebs-Screening | KBV_ITA_VGEX_Anforderungskatalog_eHKS |
 | Anforderungskatalog Hautkrebs-Screening |  | KBV_ITA_VGEX_Plausi_eHKS |
 | Plausibilitätenkatalog Dokumentation HautkrebsScreening |  | KBV_ITA_VGEX_Plausi_Praevention_eHKS |
@@ -2838,7 +2838,7 @@ Aktualisierung  Aktualisierung  Aktualisierung  Aktualisierung
 
 ---
 
-| Antrag auf Zertifizierung für QS KE | **Holmium-Laser-Therapie** |  |
+| Antrag auf Zertifizierung für QS KE | Holmium-Laser-Therapie |  |
 |---|---|---|
 |  | KBV_ITA_AHEX_Pruefpaket_QSHLT  Prüfpaket QS HLT | KBV_ITA_VGEX_Anforderungskatalog_QSHLT |
 | Anforderungskatalog QS HLT | KBV_ITA_VGEX_Plausi_QSHLT  Plausibilitäten Dokumentationsbögen QS HLT | Schnittstelle_QSHLT_V1.00.zip |
@@ -2849,10 +2849,10 @@ Aktualisierung  Aktualisierung  Aktualisierung  Aktualisierung
 |  | Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten |  |
 | Schnittstelle_KHK_V4.16.zip | Schnittstelle KHK |  |
 | KBV_ITA_FMEX_AAZ_eDMP_KHK | Antrag auf Zertifizierung für eDMP KHK |  |
-| KBV_ITA_AHEX_Pruefpaket_eDMP_KHK  Prüfpaket KHK |  | xpm-dmp-khk-2026.3.0.zip |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| KBV_ITA_AHEX_Pruefpaket_eDMP_KHK  Prüfpaket KHK |  | xpm- |
+| dmp | - | khk |
+| - | 2026. | 3 |
+| .0 | .zip |  |
 | XPM eDMP Koronare Herzkrankheiten | - | **Osteoporose** |
 |  |  |  |
 |  | EXT_ITA_VGEX_Plausi_eDMP_Osteoporose |  |
@@ -2868,8 +2868,8 @@ Aktualisierung  Aktualisierung  Aktualisierung  Aktualisierung
 |  |  | EXT_ITA_AHEX_Anleitung_eDMP_KHK |
 | Ausfüllanleitung zum indikationsspez. Datensatz KHK |  | EXT_ITA_VGEX_Plausi_eDMP_KHK |
 |  | Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten |  |
-| Schnittstelle_KHK_V4.16.zip  Schnittstelle KHK    KBV_ITA_FMEX_AAZ_eDMP_KHK  Antrag auf Zertifizierung für eDMP KHK    KBV_ITA_AHEX_Pruefpaket_eDMP_KHK  Prüfpaket KHK | xpm-dmp-khk-2026.3.0.zip |  |
-| XPM eDMP Koronare Herzkrankheiten | - |  |
+| Schnittstelle_KHK_V4.16.zip  Schnittstelle KHK    KBV_ITA_FMEX_AAZ_eDMP_KHK  Antrag auf Zertifizierung für eDMP KHK    KBV_ITA_AHEX_Pruefpaket_eDMP_KHK  Prüfpaket KHK | xpm | - |
+| dmp-khk-2026.3.0.zip  XPM eDMP Koronare Herzkrankheiten | - |  |
 | **Osteoporose** |  | EXT_ITA_VGEX_Plausi_eDMP_Osteoporose |
 |  | Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten |  |
 | Schnittstelle_OST_V1.01 | Schnittstelle Osteoporose |  |
@@ -2881,8 +2881,8 @@ Aktualisierung  Aktualisierung  Aktualisierung  Aktualisierung
 |  |  |  |
 |  | EXT_ITA_AHEX_Anleitung_eDMP_KHK | Ausfüllanleitung zum indikationsspez. Datensatz KHK |
 | EXT_ITA_VGEX_Plausi_eDMP_KHK  Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten    Schnittstelle_KHK_V4.16.zip  Schnittstelle KHK    KBV_ITA_FMEX_AAZ_eDMP_KHK  Antrag auf Zertifizierung für eDMP KHK    KBV_ITA_AHEX_Pruefpaket_eDMP_KHK | Prüfpaket KHK |  |
-| xpm-dmp-khk-2026.3.0.zip |  |  |
-|  |  |  |
+| xpm | -dmp | -khk |
+| -2026. | 3.0 | .zip |
 | XPM eDMP Koronare Herzkrankheiten | - | **Osteoporose** |
 |  |  |  |
 | EXT_ITA_VGEX_Plausi_eDMP_Osteoporose  Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten    Schnittstelle_OST_V1.01  Schnittstelle Osteoporose    KBV_ITA_AHEX_Pruefpaket_eDMP_Osteoporose |  | Prüfpaket Osteoporose |
@@ -2901,8 +2901,8 @@ Aktualisierung  Aktualisierung  Aktualisierung  Aktualisierung
 | Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten |  | Schnittstelle_KHK_V4.16.zip |
 | Schnittstelle KHK |  | KBV_ITA_FMEX_AAZ_eDMP_KHK |
 | Antrag auf Zertifizierung für eDMP KHK | KBV_ITA_AHEX_Pruefpaket_eDMP_KHK  Prüfpaket KHK |  |
-| xpm-dmp-khk-2026.3.0.zip |  |  |
-| XPM eDMP Koronare Herzkrankheiten |  | - |
+| xpm | - | dmp |
+| -khk-2026.3.0.zip  XPM eDMP Koronare Herzkrankheiten |  | - |
 | **Osteoporose **     EXT_ITA_VGEX_Plausi_eDMP_Osteoporose  Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten    Schnittstelle_OST_V1.01 | Schnittstelle Osteoporose |  |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_Osteoporose | Prüfpaket Osteoporose | EXT_ITA_AHEX_Anleitung_eDMP_Osteoporose |
 | Ausfüllanleitung zum indikationsspez. Datensatz Osteoporose |  | KBV_ITA_FMEX_AAZ_eDMP_OST |
@@ -2913,8 +2913,8 @@ Aktualisierung  Aktualisierung  Aktualisierung  Aktualisierung
 | Schnittstelle_QSHLT_V1.00.zip | Schnittstelle QS HLT | KBV_ITA_FMEX_AAZ_HLT  Antrag auf Zertifizierung für QS HLT |
 |  |  | **KHK** |
 | EXT_ITA_AHEX_Anleitung_eDMP_KHK  Ausfüllanleitung zum indikationsspez. Datensatz KHK    EXT_ITA_VGEX_Plausi_eDMP_KHK  Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten | Schnittstelle_KHK_V4.16.zip | Schnittstelle KHK |
-| KBV_ITA_FMEX_AAZ_eDMP_KHK  Antrag auf Zertifizierung für eDMP KHK    KBV_ITA_AHEX_Pruefpaket_eDMP_KHK  Prüfpaket KHK    xpm-dmp-khk-2026.3.0.zip |  |  |
-|  |  |  |
+| KBV_ITA_FMEX_AAZ_eDMP_KHK  Antrag auf Zertifizierung für eDMP KHK    KBV_ITA_AHEX_Pruefpaket_eDMP_KHK  Prüfpaket KHK    xpm-dmp- | khk | - |
+| 2026.3 | .0.zip |  |
 | XPM eDMP Koronare Herzkrankheiten |  | - |
 |  | **Osteoporose** |  |
 | EXT_ITA_VGEX_Plausi_eDMP_Osteoporose  Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten    Schnittstelle_OST_V1.01  Schnittstelle Osteoporose    KBV_ITA_AHEX_Pruefpaket_eDMP_Osteoporose |  | Prüfpaket Osteoporose |
@@ -2935,10 +2935,10 @@ Aktualisierung  Aktualisierung  Aktualisierung  Aktualisierung
 | Schnittstelle_KHK_V4.16.zip | Schnittstelle KHK |  |
 | KBV_ITA_FMEX_AAZ_eDMP_KHK | Antrag auf Zertifizierung für eDMP KHK |  |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_KHK | Prüfpaket KHK |  |
-|  | xpm-dmp-khk-2026.3.0.zip |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+|  | xpm | - |
+| dmp | - | khk |
+| - | 2026. | 3 |
+| .0 | .zip |  |
 |  | XPM eDMP Koronare Herzkrankheiten |  |
 | - | **Osteoporose** |  |
 | EXT_ITA_VGEX_Plausi_eDMP_Osteoporose | Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten | Schnittstelle_OST_V1.01 |
@@ -2950,7 +2950,7 @@ Aktualisierung  Aktualisierung  Aktualisierung  Aktualisierung
 | KBV_ITA_FMEX_AAZ_QSKE  Antrag auf Zertifizierung für QS KE   **Holmium-Laser-Therapie **     KBV_ITA_AHEX_Pruefpaket_QSHLT  Prüfpaket QS HLT | KBV_ITA_VGEX_Anforderungskatalog_QSHLT | Anforderungskatalog QS HLT |
 | KBV_ITA_VGEX_Plausi_QSHLT  Plausibilitäten Dokumentationsbögen QS HLT | Schnittstelle_QSHLT_V1.00.zip | Schnittstelle QS HLT |
 | KBV_ITA_FMEX_AAZ_HLT  Antrag auf Zertifizierung für QS HLT   **KHK **     EXT_ITA_AHEX_Anleitung_eDMP_KHK  Ausfüllanleitung zum indikationsspez. Datensatz KHK    EXT_ITA_VGEX_Plausi_eDMP_KHK  Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten | Schnittstelle_KHK_V4.16.zip | Schnittstelle KHK |
-| KBV_ITA_FMEX_AAZ_eDMP_KHK  Antrag auf Zertifizierung für eDMP KHK    KBV_ITA_AHEX_Pruefpaket_eDMP_KHK  Prüfpaket KHK    xpm-dmp-khk-2026.3.0.zip |  |  |
+| KBV_ITA_FMEX_AAZ_eDMP_KHK  Antrag auf Zertifizierung für eDMP KHK    KBV_ITA_AHEX_Pruefpaket_eDMP_KHK  Prüfpaket KHK    xpm-dmp-khk-2026.3 | .0.zip |  |
 | XPM eDMP Koronare Herzkrankheiten  - **Osteoporose **     EXT_ITA_VGEX_Plausi_eDMP_Osteoporose  Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten    Schnittstelle_OST_V1.01 | Schnittstelle Osteoporose | KBV_ITA_AHEX_Pruefpaket_eDMP_Osteoporose |
 | Prüfpaket Osteoporose    EXT_ITA_AHEX_Anleitung_eDMP_Osteoporose  Ausfüllanleitung zum indikationsspez. Datensatz Osteoporose    KBV_ITA_FMEX_AAZ_eDMP_OST  Antrag auf Zertifizierung für eDMP Osteoporose |  |  |
 |  |  |  |
@@ -2980,8 +2980,8 @@ Aktualisierung  Aktualisierung  Aktualisierung  Aktualisierung
 |  | Schnittstelle_KHK_V4.16.zip | Schnittstelle KHK |
 |  | KBV_ITA_FMEX_AAZ_eDMP_KHK | Antrag auf Zertifizierung für eDMP KHK |
 |  | KBV_ITA_AHEX_Pruefpaket_eDMP_KHK | Prüfpaket KHK |
-|  | xpm-dmp-khk-2026.3.0.zip |  |
-|  |  |  |
+|  | xpm- | dmp- |
+| khk- | 2026.3 | .0.zip |
 |  |  | XPM eDMP Koronare Herzkrankheiten |
 | - |  | **Osteoporose** |
 |  |  |  |
@@ -3005,9 +3005,9 @@ Aktualisierung  Aktualisierung  Aktualisierung  Aktualisierung
 |  | Schnittstelle_KHK_V4.16.zip | Schnittstelle KHK |
 |  | KBV_ITA_FMEX_AAZ_eDMP_KHK | Antrag auf Zertifizierung für eDMP KHK |
 |  | KBV_ITA_AHEX_Pruefpaket_eDMP_KHK | Prüfpaket KHK |
-|  |  | xpm-dmp-khk-2026.3.0.zip |
-|  |  |  |
-|  |  |  |
+|  |  | xpm |
+| -dmp | -khk | -2026. |
+| 3.0 | .zip |  |
 |  | XPM eDMP Koronare Herzkrankheiten |  |
 | - |  | **Osteoporose** |
 |  |  |  |
@@ -3040,8 +3040,8 @@ Aktualisierung  Aktualisierung  Aktualisierung  Aktualisierung
 |  | EXT_ITA_AHEX_Anleitung_eDMP_KHK | Ausfüllanleitung zum indikationsspez. Datensatz KHK |
 |  | EXT_ITA_VGEX_Plausi_eDMP_KHK |  |
 | Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten |  | Schnittstelle_KHK_V4.16.zip |
-| Schnittstelle KHK    KBV_ITA_FMEX_AAZ_eDMP_KHK  Antrag auf Zertifizierung für eDMP KHK    KBV_ITA_AHEX_Pruefpaket_eDMP_KHK  Prüfpaket KHK    xpm-dmp-khk-2026.3.0.zip |  |  |
-|  |  | XPM eDMP Koronare Herzkrankheiten |
+| Schnittstelle KHK    KBV_ITA_FMEX_AAZ_eDMP_KHK  Antrag auf Zertifizierung für eDMP KHK    KBV_ITA_AHEX_Pruefpaket_eDMP_KHK  Prüfpaket KHK    xpm-dmp | -khk | -2026. |
+| 3.0 | .zip | XPM eDMP Koronare Herzkrankheiten |
 | - |  | **Osteoporose** |
 |  |  | EXT_ITA_VGEX_Plausi_eDMP_Osteoporose |
 |  | Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten |  |
@@ -3063,9 +3063,9 @@ Aktualisierung  Aktualisierung  Aktualisierung  Aktualisierung
 | Schnittstelle_KHK_V4.16.zip | Schnittstelle KHK |  |
 | KBV_ITA_FMEX_AAZ_eDMP_KHK | Antrag auf Zertifizierung für eDMP KHK |  |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_KHK | Prüfpaket KHK |  |
-|  | xpm-dmp-khk-2026.3.0.zip |  |
-|  |  |  |
-|  |  |  |
+|  | xpm | - |
+| dmp- | khk- | 2026.3 |
+| .0 | .zip |  |
 |  | XPM eDMP Koronare Herzkrankheiten |  |
 | - |  | **Osteoporose** |
 |  |  |  |
@@ -3074,121 +3074,121 @@ Aktualisierung
 
 ---
 
-|  |  |  |
+| -osteoporose | -2026. | 3.0.zip |
 |---|---|---|
 |  | XPM eDMP Osteoporose | - |
 | **Rueckenschmerz** |  | EXT_ITA_AHEX_Anleitung_eDMP_Rueckenschmerz |
-| Ausfüllanleitung zum indikationsspez. Datensatz |  | EXT_ITA_VGEX_Plausi_eDMP_Ruecken |
-|  |  | Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten |
+| Ausfüllanleitung zum indikationsspez. Datensatz |  | EXT_ITA_VGEX_Plausi_eDMP_ |
+| Ruecken |  | Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten |
 |  | Schnittstelle_CR_V1.01.zip | Schnittstelle Rückenschmerz |
 | KBV_ITA_FMEX_AAZ_eDMP_CR | Antrag auf Zertifizierung für eDMP Rückenschmerz | KBV_ITA_AHEX_Pruefpaket_eDMP_Ruecken  Prüfpaket Rückenschmerz |
 |  | KBV_ITA_VHEX_CPG-Fragebogen | CPG-Fragebogen zur Einschreibung in das eDMP |
-|  |  | xpm-dmp-ruecken-2026.3.0.zip |
-|  |  |  |
-|  |  |  |
+|  |  | xpm |
+| - | dmp | - |
+| ruecken- | 2026.3 | .0.zip |
 |  |  | XPM eDMP Rückenschmerz |
 |  | - |  |
 | **Depression** |  |  |
 |  | EXT_ITA_AHEX_Anleitung_eDMP_Depression | Ausfüllanleitung zum indikationsspez. Datensatz Depression |
-| EXT_ITA_VGEX_Plausi_eDMP_Depression |  |  |
+| EXT_ITA_VGEX_Plausi_eDMP_ | Depression |  |
 | Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten |  | Schnittstelle_Depression_V1.02.zip |
-| Schnittstelle Depression |  | KBV_ITA_FMEX_AAZ_eDMP_DE |
-| xpm-dmp-osteoporose-2026.3.0.zip |  |  |
-|  |  |  |
-|  |  |  |
+| Schnittstelle Depression |  | KBV_ITA_FMEX_AAZ_eDMP_ |
+| xpm | -dmp | -osteoporose |
+| - | 2026. | 3 |
+| .0.zip |  |  |
 | XPM eDMP Osteoporose |  | - |
 |  | **Rueckenschmerz** |  |
 |  |  |  |
-| EXT_ITA_AHEX_Anleitung_eDMP_Rueckenschmerz  Ausfüllanleitung zum indikationsspez. Datensatz | EXT_ITA_VGEX_Plausi_eDMP_Ruecken |  |
+| EXT_ITA_AHEX_Anleitung_eDMP_Rueckenschmerz  Ausfüllanleitung zum indikationsspez. Datensatz | EXT_ITA_VGEX_Plausi_eDMP_ | Ruecken |
 | Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten |  | Schnittstelle_CR_V1.01.zip |
 | Schnittstelle Rückenschmerz | KBV_ITA_FMEX_AAZ_eDMP_CR | Antrag auf Zertifizierung für eDMP Rückenschmerz |
 |  | KBV_ITA_AHEX_Pruefpaket_eDMP_Ruecken | Prüfpaket Rückenschmerz |
 |  | KBV_ITA_VHEX_CPG-Fragebogen | CPG-Fragebogen zur Einschreibung in das eDMP |
-| xpm-dmp-ruecken-2026.3.0.zip |  |  |
+| xpm-dmp-ruecken-2026.3 | .0 | .zip |
 | XPM eDMP Rückenschmerz  - **Depression **     EXT_ITA_AHEX_Anleitung_eDMP_Depression |  | Ausfüllanleitung zum indikationsspez. Datensatz Depression |
-| EXT_ITA_VGEX_Plausi_eDMP_Depression |  | Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten |
+| EXT_ITA_VGEX_Plausi_eDMP_ | Depression | Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten |
 | Schnittstelle_Depression_V1.02.zip | Schnittstelle Depression |  |
 | KBV_ITA_FMEX_AAZ_eDMP_DE |  | Antrag auf Zertifizierung für eDMP Depression |
-|  | xpm-dmp-osteoporose-2026.3.0.zip |  |
-|  |  |  |
-|  |  |  |
-| XPM eDMP Osteoporose  - **Rueckenschmerz ** | EXT_ITA_AHEX_Anleitung_eDMP_Rueckenschmerz | Ausfüllanleitung zum indikationsspez. Datensatz |
-| EXT_ITA_VGEX_Plausi_eDMP_Ruecken |  | Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten |
+|  | xpm | - |
+| dmp | - | osteoporose |
+| - | 2026. | 3 |
+| .0.zip  XPM eDMP Osteoporose  - **Rueckenschmerz ** | EXT_ITA_AHEX_Anleitung_eDMP_Rueckenschmerz | Ausfüllanleitung zum indikationsspez. Datensatz |
+| EXT_ITA_VGEX_Plausi_eDMP_ | Ruecken | Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten |
 | Schnittstelle_CR_V1.01.zip | Schnittstelle Rückenschmerz |  |
 | KBV_ITA_FMEX_AAZ_eDMP_CR | Antrag auf Zertifizierung für eDMP Rückenschmerz |  |
-| KBV_ITA_AHEX_Pruefpaket_eDMP_Ruecken  Prüfpaket Rückenschmerz    KBV_ITA_VHEX_CPG-Fragebogen  CPG-Fragebogen zur Einschreibung in das eDMP    xpm-dmp-ruecken-2026.3.0.zip |  |  |
-|  |  | XPM eDMP Rückenschmerz |
+| KBV_ITA_AHEX_Pruefpaket_eDMP_Ruecken  Prüfpaket Rückenschmerz    KBV_ITA_VHEX_CPG-Fragebogen  CPG-Fragebogen zur Einschreibung in das eDMP    xpm-dmp-ruecken | - | 2026. |
+| 3.0 | .zip | XPM eDMP Rückenschmerz |
 | - | **Depression** |  |
 |  | EXT_ITA_AHEX_Anleitung_eDMP_Depression | Ausfüllanleitung zum indikationsspez. Datensatz Depression |
-| EXT_ITA_VGEX_Plausi_eDMP_Depression |  |  |
+| EXT_ITA_VGEX_Plausi_eDMP_ | Depression |  |
 | Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten    Schnittstelle_Depression_V1.02.zip  Schnittstelle Depression    KBV_ITA_FMEX_AAZ_eDMP_DE  Antrag auf Zertifizierung für eDMP Depression | KBV_ITA_AHEX_Pruefpaket_eDMP_Depression |  |
-| Prüfpaket Depression    KBV_ITA_VHEX_PHQ-9-Fragebogen  PHQ-Fragebogen zur Einschreibung in das eDMP Depression    xpm-dmp-depression-2026.3.0.zip |  |  |
-|  |  | XPM eDMP Depression |
+| Prüfpaket Depression    KBV_ITA_VHEX_PHQ-9-Fragebogen  PHQ-Fragebogen zur Einschreibung in das eDMP Depression    xpm-dmp-depression | - | 2026. |
+| 3.0 | .zip | XPM eDMP Depression |
 |  | - |  |
 | **Rheumatoide Arthritis **     EXT_ITA_AHEX_Anleitung_eDMP_Rheuma  Ausfüllanleitung zum indikationsspez. Datensatz Rheumatoide    EXT_ITA_VGEX_Plausi_eDMP_Rheuma | Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten |  |
 | xpm-dmp-osteoporose-2026.3.0.zip | XPM eDMP Osteoporose |  |
 | - | **Rueckenschmerz** |  |
 |  | EXT_ITA_AHEX_Anleitung_eDMP_Rueckenschmerz | Ausfüllanleitung zum indikationsspez. Datensatz |
-|  | EXT_ITA_VGEX_Plausi_eDMP_Ruecken |  |
+|  | EXT_ITA_VGEX_Plausi_eDMP_ | Ruecken |
 |  | Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten |  |
 | Schnittstelle_CR_V1.01.zip | Schnittstelle Rückenschmerz |  |
 | KBV_ITA_FMEX_AAZ_eDMP_CR | Antrag auf Zertifizierung für eDMP Rückenschmerz |  |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_Ruecken | Prüfpaket Rückenschmerz |  |
 | KBV_ITA_VHEX_CPG-Fragebogen | CPG-Fragebogen zur Einschreibung in das eDMP |  |
-|  | xpm-dmp-ruecken-2026.3.0.zip |  |
-|  |  |  |
-|  |  |  |
+|  | xpm | - |
+| dmp- | ruecken- | 2026.3 |
+| .0 | .zip |  |
 | XPM eDMP Rückenschmerz  - **Depression ** | EXT_ITA_AHEX_Anleitung_eDMP_Depression |  |
 | Ausfüllanleitung zum indikationsspez. Datensatz Depression    EXT_ITA_VGEX_Plausi_eDMP_Depression  Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten    Schnittstelle_Depression_V1.02.zip  Schnittstelle Depression    KBV_ITA_FMEX_AAZ_eDMP_DE |  | Antrag auf Zertifizierung für eDMP Depression |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_Depression | Prüfpaket Depression | KBV_ITA_VHEX_PHQ-9-Fragebogen |
 | PHQ-Fragebogen zur Einschreibung in das eDMP Depression |  |  |
-| xpm-dmp-depression-2026.3.0.zip |  |  |
-|  | xpm-dmp-osteoporose-2026.3.0.zip |  |
-|  |  |  |
-| XPM eDMP Osteoporose  - **Rueckenschmerz** |  |  |
+| xpm- | dmp | - |
+|  | xpm | - |
+| dmp | - | osteoporose |
+| -2026.3.0.zip  XPM eDMP Osteoporose  - **Rueckenschmerz** |  |  |
 | EXT_ITA_AHEX_Anleitung_eDMP_Rueckenschmerz | Ausfüllanleitung zum indikationsspez. Datensatz | EXT_ITA_VGEX_Plausi_eDMP_Ruecken |
 |  | Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten |  |
 | Schnittstelle_CR_V1.01.zip  Schnittstelle Rückenschmerz    KBV_ITA_FMEX_AAZ_eDMP_CR  Antrag auf Zertifizierung für eDMP Rückenschmerz    KBV_ITA_AHEX_Pruefpaket_eDMP_Ruecken  Prüfpaket Rückenschmerz    KBV_ITA_VHEX_CPG-Fragebogen  CPG-Fragebogen zur Einschreibung in das eDMP |  |  |
 | xpm-dmp-ruecken-2026.3.0.zip | XPM eDMP Rückenschmerz |  |
 | - | **Depression** |  |
 |  | EXT_ITA_AHEX_Anleitung_eDMP_Depression |  |
-| Ausfüllanleitung zum indikationsspez. Datensatz Depression |  | EXT_ITA_VGEX_Plausi_eDMP_Depression |
-| Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten    Schnittstelle_Depression_V1.02.zip  Schnittstelle Depression    KBV_ITA_FMEX_AAZ_eDMP_DE  Antrag auf Zertifizierung für eDMP Depression | KBV_ITA_AHEX_Pruefpaket_eDMP_Depression |  |
+| Ausfüllanleitung zum indikationsspez. Datensatz Depression |  | EXT_ITA_VGEX_Plausi_eDMP_ |
+| Depression  Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten    Schnittstelle_Depression_V1.02.zip  Schnittstelle Depression    KBV_ITA_FMEX_AAZ_eDMP_DE  Antrag auf Zertifizierung für eDMP Depression | KBV_ITA_AHEX_Pruefpaket_eDMP_Depression |  |
 | Prüfpaket Depression | KBV_ITA_VHEX_PHQ-9-Fragebogen  PHQ-Fragebogen zur Einschreibung in das eDMP Depression |  |
-| xpm-dmp-depression-2026.3.0.zip |  |  |
-|  |  |  |
-| XPM eDMP Depression  - **Rheumatoide Arthritis** |  |  |
+| xpm | - | dmp |
+| - | d | epression |
+| -2026.3.0.zip  XPM eDMP Depression  - **Rheumatoide Arthritis** |  |  |
 |  | EXT_ITA_AHEX_Anleitung_eDMP_Rheuma  Ausfüllanleitung zum indikationsspez. Datensatz Rheumatoide | EXT_ITA_VGEX_Plausi_eDMP_Rheuma |
 |  | Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten |  |
-| xpm-dmp-osteoporose-2026.3.0.zip |  |  |
-|  |  |  |
-|  |  |  |
+| xpm | - | dmp |
+| - | osteoporose | - |
+| 2026. | 3 | .0.zip |
 |  |  | XPM eDMP Osteoporose |
 |  | - |  |
 | **Rueckenschmerz **     EXT_ITA_AHEX_Anleitung_eDMP_Rueckenschmerz  Ausfüllanleitung zum indikationsspez. Datensatz    EXT_ITA_VGEX_Plausi_eDMP_Ruecken | Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten | Schnittstelle_CR_V1.01.zip  Schnittstelle Rückenschmerz |
 | KBV_ITA_FMEX_AAZ_eDMP_CR | Antrag auf Zertifizierung für eDMP Rückenschmerz | KBV_ITA_AHEX_Pruefpaket_eDMP_Ruecken  Prüfpaket Rückenschmerz |
 |  | KBV_ITA_VHEX_CPG-Fragebogen | CPG-Fragebogen zur Einschreibung in das eDMP |
-|  |  | xpm-dmp-ruecken-2026.3.0.zip |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+|  |  | xpm |
+| - | dmp | - |
+| ruecken | - | 2026. |
+| 3 | .0 | .zip |
 |  |  | XPM eDMP Rückenschmerz |
 |  | - |  |
 | **Depression** |  |  |
 |  |  | EXT_ITA_AHEX_Anleitung_eDMP_Depression |
-| Ausfüllanleitung zum indikationsspez. Datensatz Depression | EXT_ITA_VGEX_Plausi_eDMP_Depression |  |
-| Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten | Schnittstelle_Depression_V1.02.zip  Schnittstelle Depression | KBV_ITA_FMEX_AAZ_eDMP_DE |
-|  |  | Antrag auf Zertifizierung für eDMP Depression |
+| Ausfüllanleitung zum indikationsspez. Datensatz Depression | EXT_ITA_VGEX_Plausi_eDMP_ | Depression |
+| Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten | Schnittstelle_Depression_V1.02.zip  Schnittstelle Depression | KBV_ITA_FMEX_AAZ_eDMP_ |
+| DE |  | Antrag auf Zertifizierung für eDMP Depression |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_Depression |  | Prüfpaket Depression |
 |  | KBV_ITA_VHEX_PHQ-9-Fragebogen | PHQ-Fragebogen zur Einschreibung in das eDMP Depression |
-|  |  | xpm-dmp-depression-2026.3.0.zip |
-|  | xpm-dmp-osteoporose-2026.3.0.zip |  |
-| XPM eDMP Osteoporose | - | **Rueckenschmerz** |
+|  |  | xpm |
+|  | xpm | - |
+| dmp-osteoporose-2026.3.0.zip  XPM eDMP Osteoporose | - | **Rueckenschmerz** |
 |  | EXT_ITA_AHEX_Anleitung_eDMP_Rueckenschmerz | Ausfüllanleitung zum indikationsspez. Datensatz |
-| EXT_ITA_VGEX_Plausi_eDMP_Ruecken  Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten    Schnittstelle_CR_V1.01.zip  Schnittstelle Rückenschmerz    KBV_ITA_FMEX_AAZ_eDMP_CR  Antrag auf Zertifizierung für eDMP Rückenschmerz    KBV_ITA_AHEX_Pruefpaket_eDMP_Ruecken  Prüfpaket Rückenschmerz    KBV_ITA_VHEX_CPG-Fragebogen | CPG-Fragebogen zur Einschreibung in das eDMP | xpm-dmp-ruecken-2026.3.0.zip |
-| XPM eDMP Rückenschmerz  - | **Depression** |  |
+| EXT_ITA_VGEX_Plausi_eDMP_Ruecken  Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten    Schnittstelle_CR_V1.01.zip  Schnittstelle Rückenschmerz    KBV_ITA_FMEX_AAZ_eDMP_CR  Antrag auf Zertifizierung für eDMP Rückenschmerz    KBV_ITA_AHEX_Pruefpaket_eDMP_Ruecken  Prüfpaket Rückenschmerz    KBV_ITA_VHEX_CPG-Fragebogen | CPG-Fragebogen zur Einschreibung in das eDMP | xpm |
+| -dmp-ruecken-2026.3.0.zip  XPM eDMP Rückenschmerz  - | **Depression** |  |
 | EXT_ITA_AHEX_Anleitung_eDMP_Depression  Ausfüllanleitung zum indikationsspez. Datensatz Depression    EXT_ITA_VGEX_Plausi_eDMP_Depression  Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten    Schnittstelle_Depression_V1.02.zip  Schnittstelle Depression    KBV_ITA_FMEX_AAZ_eDMP_DE | Antrag auf Zertifizierung für eDMP Depression | KBV_ITA_AHEX_Pruefpaket_eDMP_Depression |
-| Prüfpaket Depression    KBV_ITA_VHEX_PHQ-9-Fragebogen  PHQ-Fragebogen zur Einschreibung in das eDMP Depression    xpm-dmp-depression-2026.3.0.zip |  |  |
+| Prüfpaket Depression    KBV_ITA_VHEX_PHQ-9-Fragebogen  PHQ-Fragebogen zur Einschreibung in das eDMP Depression    xpm-dmp-depression-2026. | 3.0 | .zip |
 | XPM eDMP Depression  - **Rheumatoide Arthritis **     EXT_ITA_AHEX_Anleitung_eDMP_Rheuma  Ausfüllanleitung zum indikationsspez. Datensatz Rheumatoide    EXT_ITA_VGEX_Plausi_eDMP_Rheuma | Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten |  |
 |  |  |  |
 |  |  |  |
@@ -3204,70 +3204,70 @@ Aktualisierung
 |  |  |  |
 |  |  |  |
 |  |  |  |
-|  | xpm-dmp-osteoporose-2026.3.0.zip |  |
-|  |  |  |
-|  |  |  |
-|  | XPM eDMP Osteoporose  - | **Rueckenschmerz** |
+|  | xpm | - |
+| dmp | - | osteoporose |
+| - | 2026. | 3 |
+| .0.zip | XPM eDMP Osteoporose  - | **Rueckenschmerz** |
 |  | EXT_ITA_AHEX_Anleitung_eDMP_Rueckenschmerz | Ausfüllanleitung zum indikationsspez. Datensatz |
 | EXT_ITA_VGEX_Plausi_eDMP_Ruecken | Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten | Schnittstelle_CR_V1.01.zip |
 | Schnittstelle Rückenschmerz |  | KBV_ITA_FMEX_AAZ_eDMP_CR |
 | Antrag auf Zertifizierung für eDMP Rückenschmerz |  | KBV_ITA_AHEX_Pruefpaket_eDMP_Ruecken |
 | Prüfpaket Rückenschmerz |  | KBV_ITA_VHEX_CPG-Fragebogen |
 | CPG-Fragebogen zur Einschreibung in das eDMP |  |  |
-| xpm-dmp-ruecken-2026.3.0.zip |  |  |
-|  |  |  |
-|  |  |  |
+| xpm | - | dmp |
+| - | ruecken | - |
+| 2026.3 | .0.zip |  |
 | XPM eDMP Rückenschmerz | - | **Depression** |
 |  |  |  |
 | EXT_ITA_AHEX_Anleitung_eDMP_Depression | Ausfüllanleitung zum indikationsspez. Datensatz Depression |  |
 | EXT_ITA_VGEX_Plausi_eDMP_Depression |  | Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten |
 |  | Schnittstelle_Depression_V1.02.zip | Schnittstelle Depression |
 | KBV_ITA_FMEX_AAZ_eDMP_DE |  | Antrag auf Zertifizierung für eDMP Depression |
-| KBV_ITA_AHEX_Pruefpaket_eDMP_Depression  Prüfpaket Depression    KBV_ITA_VHEX_PHQ-9-Fragebogen  PHQ-Fragebogen zur Einschreibung in das eDMP Depression    xpm-dmp-depression-2026.3.0.zip |  |  |
+| KBV_ITA_AHEX_Pruefpaket_eDMP_Depression  Prüfpaket Depression    KBV_ITA_VHEX_PHQ-9-Fragebogen  PHQ-Fragebogen zur Einschreibung in das eDMP Depression    xpm-dmp-d | epression-2026.3.0 | .zip |
 | XPM eDMP Depression | - | **Rheumatoide Arthritis** |
 |  |  |  |
-|  | xpm-dmp-osteoporose-2026.3.0.zip |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+|  | xpm | - |
+| dmp | - | osteoporose |
+| - | 2026. | 3 |
+| .0.zip |  |  |
 | XPM eDMP Osteoporose |  | - |
 |  | **Rueckenschmerz** |  |
 |  |  |  |
 | EXT_ITA_AHEX_Anleitung_eDMP_Rueckenschmerz | Ausfüllanleitung zum indikationsspez. Datensatz |  |
-| EXT_ITA_VGEX_Plausi_eDMP_Ruecken |  |  |
+| EXT_ITA_VGEX_Plausi_eDMP_ | Ruecken |  |
 | Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten | Schnittstelle_CR_V1.01.zip  Schnittstelle Rückenschmerz | KBV_ITA_FMEX_AAZ_eDMP_CR |
 | Antrag auf Zertifizierung für eDMP Rückenschmerz |  | KBV_ITA_AHEX_Pruefpaket_eDMP_Ruecken |
 | Prüfpaket Rückenschmerz |  | KBV_ITA_VHEX_CPG-Fragebogen |
 | CPG-Fragebogen zur Einschreibung in das eDMP |  |  |
-| xpm-dmp-ruecken-2026.3.0.zip |  |  |
-|  |  |  |
-|  |  |  |
-|  | XPM eDMP Rückenschmerz | - |
+| xpm | - | dmp |
+| - | ruecken | - |
+| 2026. | 3 | .0 |
+| .zip | XPM eDMP Rückenschmerz | - |
 | **Depression** |  |  |
 |  |  | EXT_ITA_AHEX_Anleitung_eDMP_Depression |
 |  | Ausfüllanleitung zum indikationsspez. Datensatz Depression |  |
-| EXT_ITA_VGEX_Plausi_eDMP_Depression |  |  |
-|  | xpm-dmp-osteoporose-2026.3.0.zip |  |
-|  |  |  |
-|  |  |  |
+| EXT_ITA_VGEX_Plausi_eDMP_ | Depression |  |
+|  | xpm | - |
+| dmp | - | osteoporose |
+| -2026. | 3.0.zip |  |
 | XPM eDMP Osteoporose |  | - |
 |  | **Rueckenschmerz** |  |
 |  |  |  |
 | EXT_ITA_AHEX_Anleitung_eDMP_Rueckenschmerz | Ausfüllanleitung zum indikationsspez. Datensatz |  |
-| EXT_ITA_VGEX_Plausi_eDMP_Ruecken |  |  |
+| EXT_ITA_VGEX_Plausi_eDMP_ | Ruecken |  |
 | Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten | Schnittstelle_CR_V1.01.zip  Schnittstelle Rückenschmerz | KBV_ITA_FMEX_AAZ_eDMP_CR |
 | Antrag auf Zertifizierung für eDMP Rückenschmerz |  | KBV_ITA_AHEX_Pruefpaket_eDMP_Ruecken |
 | Prüfpaket Rückenschmerz | KBV_ITA_VHEX_CPG-Fragebogen | CPG-Fragebogen zur Einschreibung in das eDMP |
-|  |  | xpm-dmp-ruecken-2026.3.0.zip |
-|  |  |  |
-|  |  |  |
-| XPM eDMP Rückenschmerz  - **Depression ** |  | EXT_ITA_AHEX_Anleitung_eDMP_Depression |
+|  |  | xpm |
+| - | dmp | - |
+| ruecken | - | 2026. |
+| 3.0.zip  XPM eDMP Rückenschmerz  - **Depression ** |  | EXT_ITA_AHEX_Anleitung_eDMP_Depression |
 | Ausfüllanleitung zum indikationsspez. Datensatz Depression | EXT_ITA_VGEX_Plausi_eDMP_Depression | Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten |
 | Schnittstelle_Depression_V1.02.zip | Schnittstelle Depression |  |
 | KBV_ITA_FMEX_AAZ_eDMP_DE |  | Antrag auf Zertifizierung für eDMP Depression |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_Depression |  | Prüfpaket Depression |
 | KBV_ITA_VHEX_PHQ-9-Fragebogen | PHQ-Fragebogen zur Einschreibung in das eDMP Depression |  |
-|  | xpm-dmp-depression-2026.3.0.zip |  |
+|  | xpm | - |
 | xpm-dmp-osteoporose-2026.3.0.zip | XPM eDMP Osteoporose | - |
 | **Rueckenschmerz** |  |  |
 | EXT_ITA_AHEX_Anleitung_eDMP_Rueckenschmerz | Ausfüllanleitung zum indikationsspez. Datensatz |  |
@@ -3288,23 +3288,23 @@ Aktualisierung
 | **Rheumatoide Arthritis** |  |  |
 | EXT_ITA_AHEX_Anleitung_eDMP_Rheuma | Ausfüllanleitung zum indikationsspez. Datensatz Rheumatoide |  |
 | EXT_ITA_VGEX_Plausi_eDMP_Rheuma | Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten |  |
-|  | xpm-dmp-osteoporose-2026.3.0.zip |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+|  | xpm | - |
+| dmp | - | osteoporose |
+| - | 2026. | 3 |
+| .0.zip |  |  |
 | XPM eDMP Osteoporose  - **Rueckenschmerz **     EXT_ITA_AHEX_Anleitung_eDMP_Rueckenschmerz  Ausfüllanleitung zum indikationsspez. Datensatz | EXT_ITA_VGEX_Plausi_eDMP_Ruecken | Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten |
 | Schnittstelle_CR_V1.01.zip | Schnittstelle Rückenschmerz | KBV_ITA_FMEX_AAZ_eDMP_CR  Antrag auf Zertifizierung für eDMP Rückenschmerz |
 |  | KBV_ITA_AHEX_Pruefpaket_eDMP_Ruecken | Prüfpaket Rückenschmerz |
 |  | KBV_ITA_VHEX_CPG-Fragebogen | CPG-Fragebogen zur Einschreibung in das eDMP |
-|  |  | xpm-dmp-ruecken-2026.3.0.zip |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+|  |  | xpm |
+| - | dmp | - |
+| ruecken | - | 2026. |
+| 3 | .0 | .zip |
 |  | XPM eDMP Rückenschmerz | - |
 | **Depression** |  |  |
 |  |  | EXT_ITA_AHEX_Anleitung_eDMP_Depression |
 |  | Ausfüllanleitung zum indikationsspez. Datensatz Depression |  |
-| EXT_ITA_VGEX_Plausi_eDMP_Depression |  |  |
+| EXT_ITA_VGEX_Plausi_eDMP_ | Depression |  |
 
 Aktualisierung  Aktualisierung  Aktualisierung
 
@@ -3312,9 +3312,9 @@ Aktualisierung  Aktualisierung  Aktualisierung
 
 | Antrag auf Zertifizierung für eDMP Rheumatoide Arthritis | KBV_ITA_AHEX_Pruefpaket_eDMP_Rheuma  Prüfpaket Rheumatoide Arthritis | EXT_ITA_VGEX_Rheuma_DAS-28_Print |
 |---|---|---|
-| Grafik für das eDMP Rheumatoide Arthritis | xpm-dmp-rheuma-2026.3.0.zip |  |
-|  |  |  |
-|  |  |  |
+| Grafik für das eDMP Rheumatoide Arthritis | xpm | -dmp |
+| -rheuma | -2026. | 3.0 |
+| .zip |  |  |
 | XPM eDMP Rheumatoide Arthritis |  | - |
 |  | **Molekulargenetik** |  |
 |  | KBV_ITA_AHEX_Ausfuellhinweise_QSMG | Ausfüllhinweise zur Jahresstatistik QS MG |
@@ -3332,10 +3332,10 @@ Aktualisierung  Aktualisierung  Aktualisierung
 | Schnittstelle_RA_V1.00.zip  Schnittstelle Rheumatoide Arthritis | KBV_ITA_FMEX_AAZ_eDMP_RA | Antrag auf Zertifizierung für eDMP Rheumatoide Arthritis |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_Rheuma | Prüfpaket Rheumatoide Arthritis |  |
 | EXT_ITA_VGEX_Rheuma_DAS-28_Print | Grafik für das eDMP Rheumatoide Arthritis |  |
-|  | xpm-dmp-rheuma-2026.3.0.zip |  |
-|  |  |  |
-|  |  |  |
-|  |  | XPM eDMP Rheumatoide Arthritis |
+|  | xpm | - |
+| dmp | - | rheuma |
+| - | 2026. | 3 |
+| .0.zip |  | XPM eDMP Rheumatoide Arthritis |
 | - |  | **Molekulargenetik** |
 |  |  |  |
 | KBV_ITA_AHEX_Ausfuellhinweise_QSMG | Ausfüllhinweise zur Jahresstatistik QS MG |  |
@@ -3348,7 +3348,7 @@ Aktualisierung  Aktualisierung  Aktualisierung
 | Schnittstelle_RA_V1.00.zip | Schnittstelle Rheumatoide Arthritis |  |
 | KBV_ITA_FMEX_AAZ_eDMP_RA | Antrag auf Zertifizierung für eDMP Rheumatoide Arthritis |  |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_Rheuma | Prüfpaket Rheumatoide Arthritis |  |
-| EXT_ITA_VGEX_Rheuma_DAS-28_Print  Grafik für das eDMP Rheumatoide Arthritis    xpm-dmp-rheuma-2026.3.0.zip |  |  |
+| EXT_ITA_VGEX_Rheuma_DAS-28_Print  Grafik für das eDMP Rheumatoide Arthritis    xpm-dmp-rheuma-2026.3 | .0 | .zip |
 |  | XPM eDMP Rheumatoide Arthritis | - |
 | **Molekulargenetik** |  |  |
 |  |  | KBV_ITA_AHEX_Ausfuellhinweise_QSMG |
@@ -3362,9 +3362,9 @@ Aktualisierung  Aktualisierung  Aktualisierung
 |  |  |  |
 |  |  |  |
 |  |  |  |
-| Schnittstelle_RA_V1.00.zip  Schnittstelle Rheumatoide Arthritis    KBV_ITA_FMEX_AAZ_eDMP_RA  Antrag auf Zertifizierung für eDMP Rheumatoide Arthritis    KBV_ITA_AHEX_Pruefpaket_eDMP_Rheuma  Prüfpaket Rheumatoide Arthritis    EXT_ITA_VGEX_Rheuma_DAS-28_Print  Grafik für das eDMP Rheumatoide Arthritis |  | xpm-dmp-rheuma-2026.3.0.zip |
-|  |  |  |
-|  |  |  |
+| Schnittstelle_RA_V1.00.zip  Schnittstelle Rheumatoide Arthritis    KBV_ITA_FMEX_AAZ_eDMP_RA  Antrag auf Zertifizierung für eDMP Rheumatoide Arthritis    KBV_ITA_AHEX_Pruefpaket_eDMP_Rheuma  Prüfpaket Rheumatoide Arthritis    EXT_ITA_VGEX_Rheuma_DAS-28_Print  Grafik für das eDMP Rheumatoide Arthritis |  | xpm |
+| -dmp | -rheuma | -2026. |
+| 3 | .0 | .zip |
 |  |  | XPM eDMP Rheumatoide Arthritis |
 |  | - |  |
 | **Molekulargenetik** |  |  |
@@ -3381,8 +3381,8 @@ Aktualisierung  Aktualisierung  Aktualisierung
 |  |  |  |
 | Schnittstelle_RA_V1.00.zip | Schnittstelle Rheumatoide Arthritis |  |
 | KBV_ITA_FMEX_AAZ_eDMP_RA | Antrag auf Zertifizierung für eDMP Rheumatoide Arthritis |  |
-| KBV_ITA_AHEX_Pruefpaket_eDMP_Rheuma  Prüfpaket Rheumatoide Arthritis    EXT_ITA_VGEX_Rheuma_DAS-28_Print  Grafik für das eDMP Rheumatoide Arthritis    xpm-dmp-rheuma-2026.3.0.zip |  |  |
-|  |  | XPM eDMP Rheumatoide Arthritis |
+| KBV_ITA_AHEX_Pruefpaket_eDMP_Rheuma  Prüfpaket Rheumatoide Arthritis    EXT_ITA_VGEX_Rheuma_DAS-28_Print  Grafik für das eDMP Rheumatoide Arthritis    xpm-dmp-rheuma | - | 2026. |
+| 3.0 | .zip | XPM eDMP Rheumatoide Arthritis |
 |  | - |  |
 | **Molekulargenetik **     KBV_ITA_AHEX_Ausfuellhinweise_QSMG  Ausfüllhinweise zur Jahresstatistik QS MG    KBV_ITA_AHEX_Pruefpaket_QSMG  Prüfpaket QS Molekulargenetik | KBV_ITA_VGEX_Anforderungskatalog_QSMG | Anforderungskatalog QS Molekulargenetik |
 | KBV_ITA_VGEX_Plausi_QSMG  Berechnungsvorschriften zur Jahresstatistik QS MG    Schnittstelle_QSMG_V1.11.zip  Schnittstelle QS Molekulargenetik    KBV_ITA_FMEX_AAZ_QSMG  Antrag auf Zertifizierung für QS MG   **Zervix-Zytologie** |  |  |
@@ -3400,8 +3400,8 @@ Aktualisierung  Aktualisierung  Aktualisierung
 | Antrag auf Zertifizierung für eDMP Rheumatoide Arthritis |  | KBV_ITA_AHEX_Pruefpaket_eDMP_Rheuma |
 | Prüfpaket Rheumatoide Arthritis |  | EXT_ITA_VGEX_Rheuma_DAS-28_Print |
 | Grafik für das eDMP Rheumatoide Arthritis |  |  |
-| xpm-dmp-rheuma-2026.3.0.zip |  |  |
-| XPM eDMP Rheumatoide Arthritis | - | **Molekulargenetik** |
+| xpm | - | dmp |
+| -rheuma-2026.3.0.zip  XPM eDMP Rheumatoide Arthritis | - | **Molekulargenetik** |
 |  | KBV_ITA_AHEX_Ausfuellhinweise_QSMG | Ausfüllhinweise zur Jahresstatistik QS MG |
 | KBV_ITA_AHEX_Pruefpaket_QSMG | Prüfpaket QS Molekulargenetik |  |
 | KBV_ITA_VGEX_Anforderungskatalog_QSMG | Anforderungskatalog QS Molekulargenetik |  |
@@ -3419,8 +3419,8 @@ Aktualisierung  Aktualisierung  Aktualisierung
 | KBV_ITA_VGEX_Merkblatt_KVK | Merkblatt „Krankenversichertenkarte” |  |
 |  |  |  |
 | Schnittstelle_RA_V1.00.zip | Schnittstelle Rheumatoide Arthritis |  |
-| KBV_ITA_FMEX_AAZ_eDMP_RA  Antrag auf Zertifizierung für eDMP Rheumatoide Arthritis    KBV_ITA_AHEX_Pruefpaket_eDMP_Rheuma  Prüfpaket Rheumatoide Arthritis    EXT_ITA_VGEX_Rheuma_DAS-28_Print  Grafik für das eDMP Rheumatoide Arthritis    xpm-dmp-rheuma-2026.3.0.zip |  |  |
-|  |  |  |
+| KBV_ITA_FMEX_AAZ_eDMP_RA  Antrag auf Zertifizierung für eDMP Rheumatoide Arthritis    KBV_ITA_AHEX_Pruefpaket_eDMP_Rheuma  Prüfpaket Rheumatoide Arthritis    EXT_ITA_VGEX_Rheuma_DAS-28_Print  Grafik für das eDMP Rheumatoide Arthritis    xpm | -dmp | -rheuma |
+| -2026. | 3.0 | .zip |
 | XPM eDMP Rheumatoide Arthritis  - **Molekulargenetik **     KBV_ITA_AHEX_Ausfuellhinweise_QSMG  Ausfüllhinweise zur Jahresstatistik QS MG    KBV_ITA_AHEX_Pruefpaket_QSMG  Prüfpaket QS Molekulargenetik | KBV_ITA_VGEX_Anforderungskatalog_QSMG | Anforderungskatalog QS Molekulargenetik |
 | KBV_ITA_VGEX_Plausi_QSMG  Berechnungsvorschriften zur Jahresstatistik QS MG    Schnittstelle_QSMG_V1.11.zip  Schnittstelle QS Molekulargenetik    KBV_ITA_FMEX_AAZ_QSMG  Antrag auf Zertifizierung für QS MG   **Zervix-Zytologie ** | KBV_ITA_AHEX_Pruefpaket_QS_Zervix-Zytologie  Prüfpaket QS Zervix-Zytologie | KBV_ITA_VGEX_Anforderungskatalog_QS_Zervix- |
 | Anforderungskatalog QS Zervix-Zytologie    Schnittstelle_QSZervixZyto_V2.00.zip  Schnittstelle QS Zervix-Zytologie    KBV_ITA_FMEX_AAZ_QSZZ  Antrag auf Zertifizierung für QS ZZ     **SERVICEINFORMATIONEN ** | **Dokument** | **Erläuterung** |
@@ -3443,8 +3443,8 @@ Aktualisierung  Aktualisierung  Aktualisierung
 | Schnittstelle_RA_V1.00.zip | Schnittstelle Rheumatoide Arthritis |  |
 | KBV_ITA_FMEX_AAZ_eDMP_RA | Antrag auf Zertifizierung für eDMP Rheumatoide Arthritis |  |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_Rheuma | Prüfpaket Rheumatoide Arthritis |  |
-| EXT_ITA_VGEX_Rheuma_DAS-28_Print  Grafik für das eDMP Rheumatoide Arthritis | xpm-dmp-rheuma-2026.3.0.zip |  |
-|  |  |  |
+| EXT_ITA_VGEX_Rheuma_DAS-28_Print  Grafik für das eDMP Rheumatoide Arthritis | xpm- | dmp- |
+| rheuma- | 2026.3.0 | .zip |
 | XPM eDMP Rheumatoide Arthritis | - | **Molekulargenetik** |
 |  |  |  |
 |  | KBV_ITA_AHEX_Ausfuellhinweise_QSMG | Ausfüllhinweise zur Jahresstatistik QS MG |
@@ -3466,10 +3466,10 @@ Aktualisierung  Aktualisierung  Aktualisierung
 | KBV_ITA_FMEX_AAZ_eDMP_RA | Antrag auf Zertifizierung für eDMP Rheumatoide Arthritis |  |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_Rheuma | Prüfpaket Rheumatoide Arthritis |  |
 | EXT_ITA_VGEX_Rheuma_DAS-28_Print | Grafik für das eDMP Rheumatoide Arthritis |  |
-|  | xpm-dmp-rheuma-2026.3.0.zip |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+|  | xpm | - |
+| dmp | - | rheuma |
+| - | 2026. | 3 |
+| .0 | .zip |  |
 |  | XPM eDMP Rheumatoide Arthritis |  |
 | - | **Molekulargenetik** |  |
 |  | KBV_ITA_AHEX_Ausfuellhinweise_QSMG | Ausfüllhinweise zur Jahresstatistik QS MG |
@@ -3486,10 +3486,10 @@ Aktualisierung  Aktualisierung  Aktualisierung
 | Schnittstelle_RA_V1.00.zip | Schnittstelle Rheumatoide Arthritis |  |
 | KBV_ITA_FMEX_AAZ_eDMP_RA | Antrag auf Zertifizierung für eDMP Rheumatoide Arthritis |  |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_Rheuma  Prüfpaket Rheumatoide Arthritis | EXT_ITA_VGEX_Rheuma_DAS-28_Print | Grafik für das eDMP Rheumatoide Arthritis |
-|  | xpm-dmp-rheuma-2026.3.0.zip |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+|  | xpm | - |
+| dmp | - | rheuma |
+| - | 2026. | 3 |
+| .0 | .zip |  |
 |  | XPM eDMP Rheumatoide Arthritis |  |
 | - | **Molekulargenetik** |  |
 |  | KBV_ITA_AHEX_Ausfuellhinweise_QSMG | Ausfüllhinweise zur Jahresstatistik QS MG |
@@ -3504,9 +3504,9 @@ Aktualisierung  Aktualisierung  Aktualisierung
 | **Erläuterung** |  | **Hinweise auf Änderungen** |
 | KBV_ITA_VGEX_Merkblatt_KVK  Merkblatt „Krankenversichertenkarte” |  |  |
 |  |  |  |
-| Schnittstelle_RA_V1.00.zip  Schnittstelle Rheumatoide Arthritis    KBV_ITA_FMEX_AAZ_eDMP_RA  Antrag auf Zertifizierung für eDMP Rheumatoide Arthritis    KBV_ITA_AHEX_Pruefpaket_eDMP_Rheuma  Prüfpaket Rheumatoide Arthritis    EXT_ITA_VGEX_Rheuma_DAS-28_Print  Grafik für das eDMP Rheumatoide Arthritis |  | xpm-dmp-rheuma-2026.3.0.zip |
-|  |  |  |
-|  |  |  |
+| Schnittstelle_RA_V1.00.zip  Schnittstelle Rheumatoide Arthritis    KBV_ITA_FMEX_AAZ_eDMP_RA  Antrag auf Zertifizierung für eDMP Rheumatoide Arthritis    KBV_ITA_AHEX_Pruefpaket_eDMP_Rheuma  Prüfpaket Rheumatoide Arthritis    EXT_ITA_VGEX_Rheuma_DAS-28_Print  Grafik für das eDMP Rheumatoide Arthritis |  | xpm- |
+| dmp- | rheuma- | 2026.3 |
+| .0 | .zip |  |
 | XPM eDMP Rheumatoide Arthritis | - |  |
 | **Molekulargenetik** |  |  |
 |  |  | KBV_ITA_AHEX_Ausfuellhinweise_QSMG |
@@ -3542,17 +3542,17 @@ Aktualisierung  Aktualisierung  Aktualisierung
 | Schnittstelle_QSZervixZyto_V2.00.zip | Schnittstelle QS Zervix-Zytologie |  |
 | KBV_ITA_FMEX_AAZ_QSZZ | Antrag auf Zertifizierung für QS ZZ |  |
 
-Aktualisierung  | **SERVICEINFORMATIONEN** |  |  |
+Aktualisierung  | SERVICEINFORMATIONEN |  |  |
 |---|---|---|
 | **Dokument** | **Erläuterung** | **Hinweise auf Änderungen** |
 | KBV_ITA_VGEX_Merkblatt_KVK | Merkblatt „Krankenversichertenkarte” |  |
 | Schnittstelle_RA_V1.00.zip  Schnittstelle Rheumatoide Arthritis | KBV_ITA_FMEX_AAZ_eDMP_RA | Antrag auf Zertifizierung für eDMP Rheumatoide Arthritis |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_Rheuma | Prüfpaket Rheumatoide Arthritis |  |
 | EXT_ITA_VGEX_Rheuma_DAS-28_Print | Grafik für das eDMP Rheumatoide Arthritis |  |
-|  | xpm-dmp-rheuma-2026.3.0.zip |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+|  | xpm | - |
+| dmp | - | rheuma |
+| - | 2026. | 3 |
+| .0 | .zip |  |
 |  | XPM eDMP Rheumatoide Arthritis |  |
 | - |  | **Molekulargenetik** |
 |  |  |  |
@@ -3567,9 +3567,9 @@ Aktualisierung  | **SERVICEINFORMATIONEN** |  |  |
 | **SERVICEINFORMATIONEN** |  |  |
 | Schnittstelle_RA_V1.00.zip  Schnittstelle Rheumatoide Arthritis | KBV_ITA_FMEX_AAZ_eDMP_RA | Antrag auf Zertifizierung für eDMP Rheumatoide Arthritis |
 | KBV_ITA_AHEX_Pruefpaket_eDMP_Rheuma  Prüfpaket Rheumatoide Arthritis | EXT_ITA_VGEX_Rheuma_DAS-28_Print | Grafik für das eDMP Rheumatoide Arthritis |
-| xpm-dmp-rheuma-2026.3.0.zip |  |  |
-|  |  |  |
-|  |  | XPM eDMP Rheumatoide Arthritis |
+| xpm | -dmp | -rheuma |
+| - | 2026. | 3 |
+| .0.zip |  | XPM eDMP Rheumatoide Arthritis |
 | - |  | **Molekulargenetik** |
 |  |  | KBV_ITA_AHEX_Ausfuellhinweise_QSMG  Ausfüllhinweise zur Jahresstatistik QS MG |
 |  | KBV_ITA_AHEX_Pruefpaket_QSMG | Prüfpaket QS Molekulargenetik |
@@ -3627,7 +3627,7 @@ Einlagen_technische_Hilfen.pdf Ernaehrung.pdf Bedarf_Wohnungsfuersorge.pdf
 
 ---
 
-| **Hinweise auf Änderungen** | **KBV_Stammdateien** |  |
+| Hinweise auf Änderungen | KBV_Stammdateien |  |
 |---|---|---|
 |  | kbv_stammdateien.2026.3.0.jar | Alle Stammdateien der KBV für Q3/2026 |
 |  | - |  |
@@ -3666,7 +3666,7 @@ Einlagen_technische_Hilfen.pdf Ernaehrung.pdf Bedarf_Wohnungsfuersorge.pdf
 | TOP7_Roadmap.pdf | TOP 7 |  |
 | TOP8_Interoperabilitaet.pdf | TOP 8 |  |
 
-unabweisbare_Bedarfe (1).pdf Digitalisierung_Versorgungsprozesse_KBV.pdf 74E26104.sdhma.01.zip   Aktualisierung der Dateien: 74E26301.sdav.zip | **STAMMDATEIEN** |  |  |
+unabweisbare_Bedarfe (1).pdf Digitalisierung_Versorgungsprozesse_KBV.pdf 74E26104.sdhma.01.zip   Aktualisierung der Dateien: 74E26301.sdav.zip | STAMMDATEIEN |  |  |
 |---|---|---|
 | **Dokument** | **Erläuterung** | **Hinweise auf Änderungen** |
 | **KBV_Stammdateien** |  |  |
@@ -3759,12 +3759,12 @@ unabweisbare_Bedarfe (1).pdf Digitalisierung_Versorgungsprozesse_KBV.pdf 74E2610
 
 ---
 
-| **Stammdatei BVB/LHM** | SDHMA_V1.30.zip | Datensatzbeschreibung SDHMA |
+| Stammdatei BVB/LHM | SDHMA_V1.30.zip | Datensatzbeschreibung SDHMA |
 |---|---|---|
 | **SDICD** | **ICD-10-GM-Stammdatei** |  |
 | SDICD_V2.4.0.zip  Datensatzbeschreibung SDICD (ICD-Stammdatei) |  | **SDKH** |
 | **SDKH: Kodierhilfe** | SDKH_V1.01.zip  Datensatzbeschreibung SDKH (Kodierhilfe Stammdatei) |  |
-|  | Gesamtpaket_ARV_V4.02.zip  Datensatzbeschreibung ARV (Arzneimittelvereinbarungen)   **SDAV  Arztverzeichnis-Stammdatei **   KBV_ITA_VGEX_Datensatzbeschreibung_SDAV  Datensatzbeschreibung SDAV (Arztverzeichnis)   **SDDA Stammdatei Datenannahmestellen**   SDDA_V1.14.zip  Datensatzbeschreibung SDDA (Datenannahmestellen)   **SDEBM EBM-Stammdatei**   SDEBM_V1.61.zip  Datensatzbeschreibung SDEBM (EBM-Stammdatei) | Aktualisierung der Schlüsseltabelle  KBV_ITA_SIEX_Codierung_EBM_Zusatznummern  Codierungsziffern zu den Versichertenpauschalen    KBV_ITA_SIEX_Codierungstabelle_EBM_Zusatznummern_Narkos Codierungsziffern zu den EBM Zusatznummern Narkosen    GOP_Suffix_tf2026q 3_nr1.csv  Mit dieser Datei werden weitere Informationen zu abgleiteten |
+|  | Gesamtpaket_ARV_V4.02.zip  Datensatzbeschreibung ARV (Arzneimittelvereinbarungen)   **SDAV  Arztverzeichnis-Stammdatei **   KBV_ITA_VGEX_Datensatzbeschreibung_SDAV  Datensatzbeschreibung SDAV (Arztverzeichnis)   **SDDA Stammdatei Datenannahmestellen**   SDDA_V1.14.zip  Datensatzbeschreibung SDDA (Datenannahmestellen)   **SDEBM EBM-Stammdatei**   SDEBM_V1.61.zip  Datensatzbeschreibung SDEBM (EBM-Stammdatei) | -  KBV_ITA_SIEX_Codierung_EBM_Zusatznummern  Codierungsziffern zu den Versichertenpauschalen    KBV_ITA_SIEX_Codierungstabelle_EBM_Zusatznummern_Narkos Codierungsziffern zu den EBM Zusatznummern Narkosen    GOP_Suffix_tf2026q3_nr1.csv  Mit dieser Datei werden weitere Informationen zu abgleiteten |
 | - | **SDHM Stammdatei Heilmittelkatalog**   SDHM_V2.10.zip  Datensatzbeschreibung SDHM (Version 2.10)   **SDHMA Stammdatei BVB/LHM**   SDHMA_V1.30.zip  Datensatzbeschreibung SDHMA   **SDICD ICD-10-GM-Stammdatei**   SDICD_V2.4.0.zip  Datensatzbeschreibung SDICD (ICD-Stammdatei)   **SDKH SDKH: Kodierhilfe**   SDKH_V1.01.zip  Datensatzbeschreibung SDKH (Kodierhilfe Stammdatei) |  |
 |  |  |  |
 | Gesamtpaket_ARV_V4.02.zip | Datensatzbeschreibung ARV (Arzneimittelvereinbarungen) |  |
@@ -3773,10 +3773,10 @@ unabweisbare_Bedarfe (1).pdf Digitalisierung_Versorgungsprozesse_KBV.pdf 74E2610
 | **SDDA** | **Stammdatei Datenannahmestellen** |  |
 | SDDA_V1.14.zip | Datensatzbeschreibung SDDA (Datenannahmestellen) |  |
 | **SDEBM** | **EBM-Stammdatei** |  |
-| SDEBM_V1.61.zip | Datensatzbeschreibung SDEBM (EBM-Stammdatei) | Aktualisierung der Schlüsseltabelle |
+| SDEBM_V1.61.zip | Datensatzbeschreibung SDEBM (EBM-Stammdatei) | - |
 | KBV_ITA_SIEX_Codierung_EBM_Zusatznummern | Codierungsziffern zu den Versichertenpauschalen |  |
 | KBV_ITA_SIEX_Codierungstabelle_EBM_Zusatznummern_Narkos | Codierungsziffern zu den EBM Zusatznummern Narkosen |  |
-| GOP_Suffix_tf2026q 3_nr1.csv | Mit dieser Datei werden weitere Informationen zu abgleiteten | - |
+| GOP_Suffix_tf2026q3_nr1.csv | Mit dieser Datei werden weitere Informationen zu abgleiteten | - |
 | **SDHM** | **Stammdatei Heilmittelkatalog** |  |
 | SDHM_V2.10.zip | Datensatzbeschreibung SDHM (Version 2.10) |  |
 | **SDHMA** | **Stammdatei BVB/LHM** |  |
@@ -3791,9 +3791,9 @@ unabweisbare_Bedarfe (1).pdf Digitalisierung_Versorgungsprozesse_KBV.pdf 74E2610
 | **Stammdatei Datenannahmestellen** |  |  |
 | SDDA_V1.14.zip  Datensatzbeschreibung SDDA (Datenannahmestellen) |  | **SDEBM** |
 | **EBM-Stammdatei** |  |  |
-| SDEBM_V1.61.zip | Datensatzbeschreibung SDEBM (EBM-Stammdatei) | Aktualisierung der Schlüsseltabelle |
+| SDEBM_V1.61.zip | Datensatzbeschreibung SDEBM (EBM-Stammdatei) | - |
 | KBV_ITA_SIEX_Codierung_EBM_Zusatznummern  Codierungsziffern zu den Versichertenpauschalen | KBV_ITA_SIEX_Codierungstabelle_EBM_Zusatznummern_Narkos | Codierungsziffern zu den EBM Zusatznummern Narkosen |
-| GOP_Suffix_tf2026q 3_nr1.csv |  |  |
+| GOP_Suffix_tf2026q | 3_nr1 | .csv |
 |  | Mit dieser Datei werden weitere Informationen zu abgleiteten |  |
 | - | **SDHM** | **Stammdatei Heilmittelkatalog** |
 |  | SDHM_V2.10.zip | Datensatzbeschreibung SDHM (Version 2.10) |
@@ -3802,7 +3802,7 @@ unabweisbare_Bedarfe (1).pdf Digitalisierung_Versorgungsprozesse_KBV.pdf 74E2610
 |  | **SDICD** | **ICD-10-GM-Stammdatei** |
 | SDICD_V2.4.0.zip | Datensatzbeschreibung SDICD (ICD-Stammdatei) | **SDKH** |
 
-GOPen und deren Bedeutung bereitgestellt (Q3/2026)  S_EBM_BEZUGSRAUM und S_EBM_ZUSATZANGABE
+GOPen und deren Bedeutung bereitgestellt (Q3/2026)  Aktualisierung der Schlüsseltabelle S_EBM_BEZUGSRAUM und S_EBM_ZUSATZANGABE  Aktualisierung
 
 ---
 
@@ -3849,7 +3849,7 @@ GOPen und deren Bedeutung bereitgestellt (Q3/2026)  S_EBM_BEZUGSRAUM und S_EBM_Z
 | **SDHDRG** | **SDHDRG-Stammdatei** |  |
 | SDHDRG_V2.0.0.zip | Schnittstellenbeschreibung SDHDRG |  |
 
-Anpassung des Schemas an den KV -Connect wegfall | **SMCB** |  |  |
+Anpassung des Schemas an den KV -Connect wegfall | SMCB |  |  |
 |---|---|---|
 | **Dokument** | **Erläuterung** | **Hinweise auf Änderungen** |
 | KBV_ITA_AHEX_Pruefpaket_SMCB | Prüfpaket SMCB |  |
@@ -3868,7 +3868,7 @@ Anpassung des Schemas an den KV -Connect wegfall | **SMCB** |  |  |
 | KBV_ITA_VGEX_Schnittstelle_SMCB | Schnittstellenbeschreibung SMCB |  |
 | KBV_ITA_VGEX_Anforderungskatalog_SMC-B | Anforderungskatalog SMCB |  |
 
-| **TSS** |  |  |
+| TSS |  |  |
 |---|---|---|
 | **Dokument** | **Erläuterung** | **Hinweise auf Änderungen** |
 | **370A** |  |  |
@@ -3891,14 +3891,14 @@ Abrechnungsinformation_V1.0.2 Abs. 2 SGB V für dritte gemäß § 370a Abs. 2 SG
 
 ---
 
-| Daten für die Zertifizierung |  | **VERORDNUNGEN** |
+| Daten für die Zertifizierung |  | VERORDNUNGEN |
 |---|---|---|
 |  |  | **Dokument** |
 | **Erläuterung** | **Hinweise auf Änderungen** | **Arzneimittel** |
 |  | EXT_ITA_VGEX_Anforderungskatalog_AVWG | Anforderungskatalog AVWG Version 5.8 |
 | KBV_ITA_AHEX_AVWG_FAQ |  |  |
 | FAQ Anforderungskatalog Arzneimittelverordnungs-SW | - | KBV_ITA_FMEX_AAZ_AMV |
-| Antrag auf Zertifizierung AVWG | KBV_ITA_AHEX_Pruefpaket_AMV |  |
+| Antrag auf Zertifizierung AVWG | KBV_ITA_AHEX_Pruefpaket_A | MV |
 | BMP-Bestandteil des Zertifizierungsverfahrens AVWG |  |  |
 | **Logos** |  |  |
 |  |  | blaue_hand.zip |
@@ -3910,7 +3910,7 @@ Abrechnungsinformation_V1.0.2 Abs. 2 SGB V für dritte gemäß § 370a Abs. 2 SG
 | Testpatient_XML.zip | Testpatienten zum Zertifizierungsverfahren 116117 |  |
 | Daten_Terminservicestelle_V7.2.zip | Daten für die Zertifizierung |  |
 
-| **VERORDNUNGEN** |  |  |
+| VERORDNUNGEN |  |  |
 |---|---|---|
 | **Dokument** | **Erläuterung** | **Hinweise auf Änderungen** |
 | **Arzneimittel** |  |  |
@@ -3932,7 +3932,7 @@ Abrechnungsinformation_V1.0.2 Abs. 2 SGB V für dritte gemäß § 370a Abs. 2 SG
 |  |  | KBV_ITA_AHEX_AVWG_FAQ |
 |  |  | FAQ Anforderungskatalog Arzneimittelverordnungs-SW |
 | - | KBV_ITA_FMEX_AAZ_AMV  Antrag auf Zertifizierung AVWG |  |
-| KBV_ITA_AHEX_Pruefpaket_AMV |  |  |
+| KBV_ITA_AHEX_Pruefpaket_A | MV |  |
 | BMP-Bestandteil des Zertifizierungsverfahrens AVWG |  |  |
 | **Logos** |  |  |
 |  |  | blaue_hand.zip |
@@ -3974,42 +3974,29 @@ Abrechnungsinformation_V1.0.1 Vermittlungscode_V1.0.1 Abrechnungsinformationen A
 
 ---
 
-- 3. Kennzeichnung der Dokumentenart und Klassifizierung: - a. Richtlinie:
-
--
-
+- 3. Kennzeichnung der Dokumentenart und Klassifizierung:
+- a. Richtlinie:
 - b. Vorgabe:
-
 - c. Anhang:
-
 - d. Formular:
-
 - e. Service Informationen
-
 - 4. Kurzform des Dokumententitels
 
 Beispiel: KBV_ITA_VGEX_Anforderungskatalog_KVDT
 
 # HINWEISE ZUM DATENSCHUTZ
 
-Wir bitten Sie darauf zu achten, dass sich in Datenlieferungen zur KBV keine personenbezogenen Daten befinden. Die KBV überni Daten, welche von Dritten erhalten wurden. Bitte benutzen Sie, die von der KBV im Rahmen der Zertifizierungsverfahren zur Verfügung gestellten Testpatienten
+Wir bitten Sie darauf zu achten, dass sich in Datenlieferungen zur KBV keine personenbezogenen Daten befinden. Die KBV überni Daten, welche von Dritten erhalten wurden. Bitte benutzen Sie, die von der KBV im Rahmen der Zertifizierungsverfahren zur Verfügung gestellten Testpatienten [(VSD_5.2.0_Testfaelle_VX.X.zip) unter](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/)[https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/) [http://www.kbv.de/html/datenschutz.php](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/)
 
-(VSD_5.2.0_Testfaelle_VX.X.zip) unter [https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/) [http://www.kbv.de/html/datenschutz.php](http://www.kbv.de/html/datenschutz.php) -
+```
+-
+```
 
-- RLEX (Anforderungen zu Vorgaben zur Einhaltung bzw. Umsetzung im Sinne eines
-
-- grundlegenden, verbindlichen Regelwerkes innerhalb eines Geltungsbereiches)
-
+- RLEX (Anforderungen zu Vorgaben zur Einhaltung bzw. Umsetzung im Sinne eines          grundlegenden, verbindlichen Regelwerkes innerhalb eines Geltungsbereiches)
 - VGEX (verbindliche technische oder fachliche Dokumentationen)
-
 - AHEX (ergänzende Dokumente wie Handbücher, Vorlagen oder FAQs zur Vorgabe)
-
 - FMEX (ausfüllbares Dokument zur Beantragung oder Bestätigung eines Vorganges)
-
 - SIEX (Informationen mit organisatorischen, fachlichen oder technischen Inhalten)
-
 - (KBV Dokument des Themas ITA für Externe mit dem Titel: Anforderungskatalog KVDT)
 
-mmt keine Verantwortung für
-
-. Weitere Informationen finden Sie unter
+mmt keine Verantwortung für   [. Weitere Informationen finden Sie unter](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/)

@@ -20,11 +20,11 @@
 
 462 **medatixx**
 
-261 **S 3-Win**
+261 **S3-Win**
 
 243 **x.concept**
 
-498 **T 2med**
+498 **T2med**
 
 244 **QUINCY WIN**
 
@@ -76,7 +76,7 @@ medatixx GmbH & Co. KG 104
 
 2
 
-S 3 Praxiscomputer GmbH / Maximilian Flender 98 100
+S3 Praxiscomputer GmbH / Maximilian Flender 98 100
 
 -2
 
@@ -86,7 +86,7 @@ medatixx GmbH & Co. KG 85
 
 -3
 
-T 2med GmbH & Co. KG 82
+T2med GmbH & Co. KG 82
 
 80
 

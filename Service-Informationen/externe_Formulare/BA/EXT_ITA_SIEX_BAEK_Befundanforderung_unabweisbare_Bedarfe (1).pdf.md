@@ -1,18 +1,16 @@
-# BEFUNDBERICHT FÜR DEN ÄRZTLICHEN DIENST DER BUNDESAGENTUR FÜR ARBEIT  gem. Vereinbarung zwischen der Bundesagentur für Arbeit und der Bundesärztekammer vom 17 12.2021
+# BEFUNDBERICHT FÜR DEN ÄRZTLICHEN DIENST DER BUNDESAGENTUR FÜR ARBEIT  gem. Vereinbarung zwischen der Bundesagentur für Arbeit und der Bundesärztekammer vom
 
 Name, Vorname, Geburtsdatum der Patientin / des Patienten
 
-Kundennummer: ___________________
+Kundennummer:
 
 Liquidations-ID:
 
-Patient/in befindet sich seit _____________ regelmäßig  gelegentlich  nicht in meiner Behandlung
+Patient/in befindet sich seit
 
-# Letzte Behandlung am _________________
+# Letzte Behandlung am
 
-# Relevante Diagnose(n) in Bezug auf die im Anschreiben genannte Fragestellung – Mehrbedarf nach §21
-
-# SGB II Abs. 6 (Besonderer Bedarf an z.B. Pflege- oder Hygieneartikel, etc., die aus gesundheitlichen  Gründen laufend benötigt werden):
+# Relevante Diagnose(n) in Bezug auf die im Anschreiben genannte Fragestellung  SGB II Abs. 6 (Besonderer Bedarf an z.B. Pflege- oder Hygieneartikel, etc., die aus gesundheitlichen  Gründen laufend benötigt werden):
 
 # Aktuelle Beschwerden:
 
@@ -20,16 +18,22 @@ Patient/in befindet sich seit _____________ regelmäßig  gelegentlich  nicht in
 
 AM 6-ÄD – 1900.8_Befundbericht_BÄK_unabweisbare_Bedarfe_21. 12
 
-BGL-Nummer: _______________
+regelmäßig
+
+BGL-Nummer:
+
+gelegentlich
+
+# 17 12.2021
+
+nicht in meiner Behandlung
+
+# – Mehrbedarf nach §21
 
 
 ---
 
-**Bitte fügen Sie diesem Befundbericht relevante medizinische Unterlagen (Arztbriefe, Befundberichte,**
-
-**Laborbefunde, Krankenhaus-Entlassungsberichte, Reha-Entlassungsberichte, Gutachten u. ä.) als**
-
-**Kopie bei, vielen Dank.**
+**Bitte fügen Sie diesem Befundbericht relevante medizinische Unterlagen (Arztbriefe, Befundberichte,**  **Laborbefunde, Krankenhaus-Entlassungsberichte, Reha-Entlassungsberichte, Gutachten u. ä.) als**  **Kopie bei, vielen Dank.**
 
 Medizinische Unterlagen liegen bei
 
@@ -46,8 +50,6 @@ AM 6-ÄD – 1900.8_Befundbericht_BÄK_unabweisbare_Bedarfe_21. 12
 **Rückruf erbeten**
 
 **Bitte senden Sie mir Ihr Gutachten / Ihre gutachterliche Äußerung zu**  (Eine Erklärung der Patientin / des Patienten über die Entbindung des Ärztlichen Dienstes der  Bundesagentur für Arbeit von der ärztlichen Schweigepflicht lege ich bei oder reiche ich nach)
-
-__________________________
 
 
 ---
@@ -72,7 +74,7 @@ Agentur für Arbeit
 
 Für meine Bemühungen erlaube ich mir zu berechnen:
 
-| Fotokopierkosten:  **0,50 € 0,15 €** | ____  Seiten á  ____  Seiten á | = | **__________  €  __________  €** |
+| Fotokopierkosten:   0,50 € 0,15 € | ____  Seiten á  ____  Seiten á | = | __________  €  __________  € |
 |---|---|---|---|
 | Ausstellung des vollständigen Befundberichts und  Übermittlung an den Ärztlichen Dienst: |  | = | **€** |
 | Portokosten: |  | = | **€** |

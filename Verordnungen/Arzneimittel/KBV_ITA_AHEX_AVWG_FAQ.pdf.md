@@ -1,8 +1,6 @@
 **KASSENÄRZTLICHE**  **BUNDESVEREINIGUNG**
 
-**DEZERNAT DIGITALISIERUNG UND IT**
-
-**IT IN DER ARZTPRAXIS**
+**DEZERNAT DIGITALISIERUNG UND IT**  **IT IN DER ARZTPRAXIS**
 
 **13. MAI 2026**
 
@@ -12,8 +10,7 @@
 
 # FRAGEN UND ANTWORTEN ZUM  ANFORDERUNGSKATALOG NACH § 73  SGB V FÜR VERORDNUNGSSOFTWARE
 
-## [KBV_ITA_AHEX_AVWG_FAQ]
-
+## KBV_ITA_AHEX_AVWG_FAQ
 
 ---
 
@@ -38,12 +35,12 @@
 
 DOKUMENTENHISTORIE
 
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 5.13 | 13.05.2026 | KBV | Frage zu P3-730 im    Frage zur Anzeige von |  | **32 **    **11** |
+| 5.13 | 13.05.2026 | KBV | Frage zu P3-730 im    Frage zur Anzeige von |  | **32**   **11** |
 | 5.12 | 02.09.2025 | KBV | Fragestellung zu P3-625 | Klarstellung des | **20** |
 | 5.11 | 15.05.2025 | KBV | Fragestellung zu P3-360 |  | **24** |
-| 5.10 | 05.03.2025 | KBV | Bereitstellungszeitpunkt    Fragestellung zu P3-320    Fragestellung zu P3-141 | Sachverhalt in der | **7 **      **33** |
+| 5.10 | 05.03.2025 | KBV | Bereitstellungszeitpunkt    Fragestellung zu P3-320    Fragestellung zu P3-141 | Sachverhalt in der | **7**     **33** |
 | 5.9 | 27.02.2025 | KBV | Klarstellung des |  | **6** |
 | 5.8 | 15.05.2024 | KBV | Klarstellung zu P3-625 |  | **23, 31** |
 
@@ -51,34 +48,34 @@ Zusammenhang mit Hilfsmitteln Preisen bei Verbandmittel aufgenommen Akzeptanzkri
 
 ---
 
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| 1**BEZUG [**1 | **]** | **FRAGE** |
-\| 1**BEZUG [**1 | **]** | **FRAGE** |
-\| 1**BEZUG [**1 | **]** | **FRAGE** |
-\| 1**BEZUG [**1 | **]** | **FRAGE** |
-\| 1**BEZUG [**1 | **]** | **FRAGE** |
-\| 1**BEZUG [**1 | **]** | **FRAGE** |
-\| 1**BEZUG [**1 | **]** | **FRAGE** |
-\| 1**BEZUG [**1 | **]** | **FRAGE** |
-\| 1**BEZUG [**1 | **]** | **FRAGE** |
-\| 1**BEZUG [**1 | **]** | **FRAGE** |
-\| 1**BEZUG [**1 | **]** | **FRAGE** |
-\| 1**BEZUG [**1 | **]** | **FRAGE** |
-\| 1**BEZUG [**1 | **]** | **FRAGE** |
-\| 1**BEZUG [**1 | **]** | **FRAGE** |
-\| 1**BEZUG [**1 | **]** | **FRAGE** |
-\| 1**BEZUG [**1 | **]** | **FRAGE** |
-\| 1**BEZUG [**1 | **]** | **FRAGE** |
-\| 1**BEZUG [**1 | **]** | **FRAGE** |
-\| 1**BEZUG [**1 | **]** | **FRAGE** |
-\| 1**BEZUG [**1 | **]** | **FRAGE** |
-\| 1**BEZUG [**1 | **]** | **FRAGE** |
-\| 1**BEZUG [**1 | **]** | **FRAGE** |
-\| 1**BEZUG [**1 | **]** | **FRAGE** |
-\| 1**BEZUG [**1 | **]** | **FRAGE** |
-\| 1**BEZUG [**1 | **]** | **FRAGE** |
-\| 1**BEZUG [**1 | **]** | **FRAGE** |
-| 1**BEZUG [**1 | **]** | **FRAGE** |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| 1 BEZUG [1 | ] | FRAGE |
+\| 1 BEZUG [1 | ] | FRAGE |
+\| 1 BEZUG [1 | ] | FRAGE |
+\| 1 BEZUG [1 | ] | FRAGE |
+\| 1 BEZUG [1 | ] | FRAGE |
+\| 1 BEZUG [1 | ] | FRAGE |
+\| 1 BEZUG [1 | ] | FRAGE |
+\| 1 BEZUG [1 | ] | FRAGE |
+\| 1 BEZUG [1 | ] | FRAGE |
+\| 1 BEZUG [1 | ] | FRAGE |
+\| 1 BEZUG [1 | ] | FRAGE |
+\| 1 BEZUG [1 | ] | FRAGE |
+\| 1 BEZUG [1 | ] | FRAGE |
+\| 1 BEZUG [1 | ] | FRAGE |
+\| 1 BEZUG [1 | ] | FRAGE |
+\| 1 BEZUG [1 | ] | FRAGE |
+\| 1 BEZUG [1 | ] | FRAGE |
+\| 1 BEZUG [1 | ] | FRAGE |
+\| 1 BEZUG [1 | ] | FRAGE |
+\| 1 BEZUG [1 | ] | FRAGE |
+\| 1 BEZUG [1 | ] | FRAGE |
+\| 1 BEZUG [1 | ] | FRAGE |
+\| 1 BEZUG [1 | ] | FRAGE |
+\| 1 BEZUG [1 | ] | FRAGE |
+\| 1 BEZUG [1 | ] | FRAGE |
+\| 1 BEZUG [1 | ] | FRAGE |
+| 1 BEZUG [1 | ] | FRAGE |
 |---|---|---|
 | Allgemein | Müssen Vertragsärztinnen und | Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten  Der Zertifizierungsvorbehalt nach § 73 Abs. 9 SGB V richtet sich an „Vertragsärzte“. Unsere  Es liegt somit in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für  Zusammenfassend sind daher pauschale Aussagen nicht möglich |
 | **ANTWORT** | Allgemein | Müssen Vertragsärztinnen und |
@@ -166,34 +163,34 @@ FRAGEN UND ANTWORTEN ZUM ANFORDERUNGSKATALOG NACH § 73 SGB V FÜR VERORDNUNGSSO
 
 ---
 
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+| BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
 | Allgemein | Müssen  Psychologischen Psychotherapeutinnen und Psychotherapeuten ist es nach den | Allgemein  Warum richtet sich der |
 | Allgemein | Müssen | Psychologischen Psychotherapeutinnen und Psychotherapeuten ist es nach den |
@@ -396,34 +393,34 @@ P2-110 von sonstigen Produkten zur Wundbehandlung im Rahmen der Übergangsregelu
 
 ---
 
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+| BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
 | Einleitung | Wie ist die Aussage zu verstehen,  Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein | Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne  P2-130 |
 | Einleitung | Wie ist die Aussage zu verstehen, | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein |
@@ -511,34 +508,34 @@ dass Rabattvertragsangaben produktbezogen im Workflow anzugeben sind? BfArM wird
 
 ---
 
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+| BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
 | P1-040 | Wie ist das Wort " Alle geforderten Inhalte (zum Beispiel Daten aus regionalen | P2-100  Welcher |
 | P1-040 | Wie ist das Wort " | Alle geforderten Inhalte (zum Beispiel Daten aus regionalen |
@@ -626,34 +623,34 @@ unverzüglich im Kontext umfassender Freischaltung zu interpretieren? nach § 84
 
 ---
 
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+| BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
 | P2-110 | Müssen „reine Klinikwaren“ in  Die Arzneimittelstammdaten | Hingegen müssen in der Verordnungssoftware Arzneimittel mit dem Kennzeichen „keine  P2-110 |
 | P2-110 | Müssen „reine Klinikwaren“ in | Die Arzneimittelstammdaten |
@@ -741,149 +738,149 @@ angezeigt werden? Registrierungsnummer ist mit Merkmal 022  gemeint? Merkmale 02
 
 ---
 
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+| BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
-| P2-110 | Woher können die Informationen  Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a | Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von  Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: |
+| P2-110 | Woher können die Informationen  Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a | Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von  .../BE/QS_ATMP@value).   Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: |
 | P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a |
-| Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von | Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: | P2-110 |
+| Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von  .../BE/QS_ATMP@value | ).   Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: | P2-110 |
 | P3-120 | Sind folgende Merkmale zur | Ja, diese relevanten Merkmale sind als Inhalte der Arzneimittelstammdaten obligat, da sie |
 |  |  |  |
-| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P2-110  Woher können die Informationen  Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von  Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen:  P2-110 |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P2-110  Woher können die Informationen  Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von  .../BE/QS_ATMP@value).   Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen:  P2-110 |
 | P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von |
-|  | Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen:  P2-110  P3-120 | Sind folgende Merkmale zur  Ja, diese relevanten Merkmale sind als Inhalte der Arzneimittelstammdaten obligat, da sie  Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen:  P3-120  Sind folgende Merkmale zur  Ja, diese relevanten Merkmale sind als Inhalte der Arzneimittelstammdaten obligat, da sie |
+| .../BE/QS_ATMP@value). | Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen:  P2-110  P3-120 | Sind folgende Merkmale zur  Ja, diese relevanten Merkmale sind als Inhalte der Arzneimittelstammdaten obligat, da sie  ).   Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen:  P3-120  Sind folgende Merkmale zur  Ja, diese relevanten Merkmale sind als Inhalte der Arzneimittelstammdaten obligat, da sie |
 | P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a |
-| Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von | Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: |  |
+| Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von  .../BE/QS_ATMP@value | ).   Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: |  |
 | P2-110 | P3-120 | Sind folgende Merkmale zur |
 | Ja, diese relevanten Merkmale sind als Inhalte der Arzneimittelstammdaten obligat, da sie |  |  |
 |  |  |  |
 | P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von |
-|  | Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: | P2-110 |
+| .../BE/QS_ATMP@value). | Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: | P2-110 |
 | P3-120 | Sind folgende Merkmale zur | Ja, diese relevanten Merkmale sind als Inhalte der Arzneimittelstammdaten obligat, da sie |
-| P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von  Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: |
+| P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von  .../BE/QS_ATMP@value).   Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: |
 | P2-110  P3-120 | Sind folgende Merkmale zur | Ja, diese relevanten Merkmale sind als Inhalte der Arzneimittelstammdaten obligat, da sie |
-| P2-110  Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von | Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen:  P2-110 |
-| P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von |
-| Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: | P2-110 |  |
+| P2-110  Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von  .../BE/QS_ATMP@value). | Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen:  P2-110 |
+| P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von  .../BE/QS_ATMP@value |
+| ).   Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: | P2-110 |  |
 | P3-120  Sind folgende Merkmale zur  Ja, diese relevanten Merkmale sind als Inhalte der Arzneimittelstammdaten obligat, da sie |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
-| P2-110  Woher können die Informationen  Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von |  | Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: |
+| P2-110  Woher können die Informationen  Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von | .../BE/QS_ATMP@value). | Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: |
 | P2-110  P3-120 | Sind folgende Merkmale zur | Ja, diese relevanten Merkmale sind als Inhalte der Arzneimittelstammdaten obligat, da sie |
 |  |  |  |
-| P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von |
-| Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: | P2-110 |  |
+| P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von  .../BE/QS_ATMP@value |
+| ).   Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: | P2-110 |  |
 | P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a |
-| Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von | Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: |  |
+| Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von  .../BE/QS_ATMP@value | ).   Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: |  |
 | P2-110 | P3-120 | Sind folgende Merkmale zur  Ja, diese relevanten Merkmale sind als Inhalte der Arzneimittelstammdaten obligat, da sie |
 |  |  |  |
 |  |  |  |
 | P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a |
-| Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von | Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: |  |
+| Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von  .../BE/QS_ATMP@value | ).   Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: |  |
 | P2-110 | P3-120 | Sind folgende Merkmale zur |
 | Ja, diese relevanten Merkmale sind als Inhalte der Arzneimittelstammdaten obligat, da sie |  |  |
 |  |  |  |
 | P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von |
-|  | Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: | P2-110 |
+| .../BE/QS_ATMP@value). | Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: | P2-110 |
 | P3-120 | Sind folgende Merkmale zur  Ja, diese relevanten Merkmale sind als Inhalte der Arzneimittelstammdaten obligat, da sie |  |
 | P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a |
-| Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von | Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: | P2-110 |
+| Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von  .../BE/QS_ATMP@value | ).   Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: | P2-110 |
 | P3-120 | Sind folgende Merkmale zur | Ja, diese relevanten Merkmale sind als Inhalte der Arzneimittelstammdaten obligat, da sie |
-| P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von  Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: |
-| P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von  Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen:  P2-110 |
-| P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von  P2-110 |
-| P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von  Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen:  P2-110  P3-120  Sind folgende Merkmale zur  Ja, diese relevanten Merkmale sind als Inhalte der Arzneimittelstammdaten obligat, da sie  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von  Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen:  P2-110  P3-120  Sind folgende Merkmale zur  Ja, diese relevanten Merkmale sind als Inhalte der Arzneimittelstammdaten obligat, da sie |
+| P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von  .../BE/QS_ATMP@value).   Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: |
+| P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von  .../BE/QS_ATMP@value).   Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen:  P2-110 |
+| P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von  .../BE/QS_ATMP@value P2-110 |
+| P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von  .../BE/QS_ATMP@value).   Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen:  P2-110  P3-120  Sind folgende Merkmale zur  Ja, diese relevanten Merkmale sind als Inhalte der Arzneimittelstammdaten obligat, da sie  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von  .../BE/QS_ATMP@value).   Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen:  P2-110  P3-120  Sind folgende Merkmale zur  Ja, diese relevanten Merkmale sind als Inhalte der Arzneimittelstammdaten obligat, da sie |
 |  |  |  |
 |  |  |  |
 | P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von |
-|  | Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: | P2-110  P3-120 |
+| .../BE/QS_ATMP@value). | Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: | P2-110  P3-120 |
 | Sind folgende Merkmale zur | Ja, diese relevanten Merkmale sind als Inhalte der Arzneimittelstammdaten obligat, da sie |  |
-| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P2-110  Woher können die Informationen  Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von |
+| **BEZUG [** | 1**]** | **FRAGE  ANTWORT ** P2-110  Woher können die Informationen  Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von  .../BE/QS_ATMP@value). |
 |  |  | P2-110 |
-| Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von |  |
-| P2-110  Woher können die Informationen  Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von |  | Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen:  P2-110  P3-120  Sind folgende Merkmale zur  Ja, diese relevanten Merkmale sind als Inhalte der Arzneimittelstammdaten obligat, da sie |
+| Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von | .../BE/QS_ATMP@value |
+| P2-110  Woher können die Informationen  Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von | .../BE/QS_ATMP@value). | Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen:  P2-110  P3-120  Sind folgende Merkmale zur  Ja, diese relevanten Merkmale sind als Inhalte der Arzneimittelstammdaten obligat, da sie |
 |  |  |  |
 |  |  |  |
-| P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von |
-| Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: | P2-110 | P3-120 |
+| P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von  .../BE/QS_ATMP@value |
+| ).   Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: | P2-110 | P3-120 |
 | P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a |
 |  |  |  |
 |  |  |  |
-| P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von |
-| Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: | P2-110 | P3-120 |
+| P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von  .../BE/QS_ATMP@value |
+| ).   Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: | P2-110 | P3-120 |
 | Sind folgende Merkmale zur  Ja, diese relevanten Merkmale sind als Inhalte der Arzneimittelstammdaten obligat, da sie |  |  |
 | P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von |
-|  | Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: | P2-110  P3-120 |
+| .../BE/QS_ATMP@value). | Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: | P2-110  P3-120 |
 | Sind folgende Merkmale zur  Ja, diese relevanten Merkmale sind als Inhalte der Arzneimittelstammdaten obligat, da sie |  |  |
 |  |  |  |
 | P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a |
-| Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von | Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: | P2-110 |
+| Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von  .../BE/QS_ATMP@value | ).   Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: | P2-110 |
 | P3-120 | Sind folgende Merkmale zur  Ja, diese relevanten Merkmale sind als Inhalte der Arzneimittelstammdaten obligat, da sie |  |
-| P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von  Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: |
+| P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von  .../BE/QS_ATMP@value).   Merkmal 063 Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen: |
 | P2-110  P3-120 | Sind folgende Merkmale zur  Ja, diese relevanten Merkmale sind als Inhalte der Arzneimittelstammdaten obligat, da sie |  |
 |  |  |  |
 |  |  |  |
 | P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von |
 
-Merkmal 062 und 063 entnommen werden? SGB V vom G-BA entnehmen. Arzneimitteln für neuartige Therapien im Sinne von § 4 Absatz 9 des Arzneimittelgesetzes für Arzneimittel mit Kennzeichen 061 (Quelle: maschinenlesbare Fassung zu den Beschlüssen nach § 35a SGB V vom G-BA auf den Internetseiten des G-BA) entspricht dem 109 Richtlinie Qualitätssicherung „ATMP“ (XML -Element .../BE/QS_ATMP@value).  „Begleitende Datenerhebung mit Verordnungseinschränkung nach § 35a Absatz 3b SGB V/ Begleitende Datenerhebung ohne Verordnungseinschränkung nach § 35a Absatz 3b SGB V“ (Quelle: maschinenlesbare Fassung zu den Beschlüssen nach § 35a Absatz 3 SGB V vom G BA auf den Internetseiten des G-BA) entspricht dem Merkmal 128 Begleitende Datenerhebung nach §35a Absatz 3b SGBV (XML -Element …/ID_PAT_GR/BEGL_DAT_ERH@value). Produktklasse entsprechend des Preis- und Produktverzeichnisses in den Mindestangaben obligat: Arzneimittel (gemäß § 2 AMG), Medizinprodukt (gemäß § 3 MPG), Diätetikum gemäß § 31 Abs. 5 SGB V, sonstiges Diätetikum ? zur Entscheidung der Verordnungsfähigkeit zu Lasten der gesetzlichen Krankenversicherung für Vertragsärztinnen und -ärzte essentiell sind. Die Anzeige hat gemäß P3-120 Angaben bei erster und wiederholter Verordnung  Erste Ebene  zu erfolgen. Die Klarstellung dieser bereits in der Regel gelebten Praxis wird in der nächsten Version des Anforderungskataloges für Verordnungssoftware sowohl unter P2 -110 als auch unter P3- 120 Angaben bei erster und wiederholter Verordnung  Erste Ebene eingearbeitet.
+Merkmal 062 und 063 SGB V vom G-BA entnehmen. entnommen werden? Arzneimitteln für neuartige Therapien im Sinne von § 4 Absatz 9 des Arzneimittelgesetzes für Arzneimittel mit Kennzeichen 061 (Quelle: maschinenlesbare Fassung zu den Beschlüssen nach § 35a SGB V vom G-BA auf den Internetseiten des G-BA) entspricht dem 109 Richtlinie Qualitätssicherung „ATMP“ (XML -Element „Begleitende Datenerhebung mit Verordnungseinschränkung nach § 35a Absatz 3b SGB V/ Begleitende Datenerhebung ohne Verordnungseinschränkung nach § 35a Absatz 3b SGB V“ (Quelle: maschinenlesbare Fassung zu den Beschlüssen nach § 35a Absatz 3 SGB V vom G BA auf den Internetseiten des G-BA) entspricht dem Merkmal 128 Begleitende Datenerhebung nach §35a Absatz 3b SGBV (XML -Element …/ID_PAT_GR/BEGL_DAT_ERH@value). Produktklasse entsprechend des zur Entscheidung der Verordnungsfähigkeit zu Lasten der gesetzlichen Krankenversicherung Preis- und Produktverzeichnisses für Vertragsärztinnen und -ärzte essentiell sind. Die Anzeige hat gemäß P3-120 Angaben bei in den Mindestangaben obligat: erster und wiederholter Verordnung  Erste Ebene  zu erfolgen. Die Klarstellung dieser Arzneimittel (gemäß § 2 AMG), bereits in der Regel gelebten Praxis wird in der nächsten Version des Medizinprodukt (gemäß § 3 Anforderungskataloges für Verordnungssoftware sowohl unter P2 -110 als auch unter P3- MPG), Diätetikum gemäß § 31 120 Angaben bei erster und wiederholter Verordnung  Erste Ebene eingearbeitet. Abs. 5 SGB V, sonstiges Diätetikum ?
 
 ---
 
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+| BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
 | P2-110 | P3-120 | Laut den Vorgaben aus P2-110  Vor diesem Hintergrund stellt |
 | P2-110 | P3-120 |  |
@@ -971,34 +968,34 @@ und P3-120 sollen die Preise von Verbandmitteln sowie sonstigen Produkten zur Wu
 
 ---
 
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+| BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
 | P2-130 | Können von einzelnen  Die Verordnungssoftware muss stichtagsbezogen stets für sämtliche Arzneimittel die nach | Werden Änderungen an den Arzneimittelstammdaten vorgenommen, bestimmt der  Eine Aktualisierung des Datenbestandes ist demnach zulässig, muss aber den zum  P2-130 |
 | P2-130 | Können von einzelnen | Die Verordnungssoftware muss stichtagsbezogen stets für sämtliche Arzneimittel die nach |
@@ -1086,34 +1083,34 @@ Pharmaunternehmen gemeldete, zwischen den Updates auf den Markt kommende Produkt
 
 ---
 
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+| BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
 | P3-120 | P3-121 | Müssen alle aufgeführten  Nein. In P3-120 sind alle Attribute aufgeführt, die im Rahmen einer Erst |
 | P3-120 | P3-121 |  |
@@ -1201,34 +1198,34 @@ in jeder Verordnungsliste in Form einer Tabelle angezeigt werden? Kasse des Pati
 
 ---
 
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+| BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
 | P3-120 | Sollte das Rote-Hand-Logo und  Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher | Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen  Das Blaue-Hand-Logo kennzeichnet angeordnetes und behördlich seitens der zuständigen  P3-130 |
 | P3-120 | Sollte das Rote-Hand-Logo und | Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher |
@@ -1316,34 +1313,34 @@ das Blaue-Hand-Logo in der Software mit angezeigt werden? Sicht begrüßt und em
 
 ---
 
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+| BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
 | P3-130 | Wie sollen vollständige Texte  Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen | P3-200  Was ist mit „ |
 | P3-130 | Wie sollen vollständige Texte | Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen |
@@ -1431,34 +1428,34 @@ angezeigt werden, ohne den Workflow  zu unterbrechen? von Produktwerbung freie V
 
 ---
 
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+| BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
 | P3-325 | Nach welchen Kriterien kann eine  Da es bislang noch keine validen Vergleichskriterien für sonstige nach § 31 SGB V in die | K3-723  Darf ein |
 | P3-325 | Nach welchen Kriterien kann eine | Da es bislang noch keine validen Vergleichskriterien für sonstige nach § 31 SGB V in die |
@@ -1546,34 +1543,34 @@ Preisvergleichssuche für sonstige Arzneimittelversorgung einbezogene Produkte a
 
 ---
 
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+| BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
 | P3-621 | Welche Parameter werden in der  Bei der Verordnung von Arzneimitteln mit dem ATC | Geändert wird bei der Verordnung von Mitteln zur Behandlung der Opiatabhängigkeit  O3-623 |
 | P3-621 | Welche Parameter werden in der | Bei der Verordnung von Arzneimitteln mit dem ATC |
@@ -1661,34 +1658,34 @@ Regel in der Praxis bei  verändert? -Code N07BC (Mittel zur Behandlung der Opia
 
 ---
 
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+| BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
 | P3-625 | Ist es auch bei Verordnungen von  Eine Dosierungsanweisung (Dosierung bzw. das Kennzeichen >>Dj<<) für nicht | P3-625  Wie sieht das von der Software |
 | P3-625 | Ist es auch bei Verordnungen von | Eine Dosierungsanweisung (Dosierung bzw. das Kennzeichen >>Dj<<) für nicht |
@@ -1776,34 +1773,34 @@ nicht-verschreibungspflichtigen  Arzneimitteln und weiteren Produkten  erlaubt, 
 
 ---
 
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+| BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
 | P3-625 | Was gilt für  Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel | *Auf dem Betäubungsmittelrezept sind anzugeben: „[…] 5. Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, dass dem Patienten eine  § 9 Absatz 1 Nummer 5* |
 | P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel |
@@ -1891,34 +1888,34 @@ Betäubungsmittelrezepte bezüglich der Dosierungsangabe? Verschreibungsverordnu
 
 ---
 
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+| BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
 | P3-625 | Was gilt für  Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) | https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel  Punkt 29.2 Abschnitt 7.  Die KBV wird im Rahmen der Weiterentwicklung des Anforderungskataloges den Absatz *„Die Verordnungssoftware verhindert diese Auswahl (Akzeptanzkriterium 1.3) für die* |
 | P3-625 | Was gilt für | Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) |
@@ -2006,34 +2003,34 @@ Betäubungsmittelverordnungen bezüglich der Dosierungsangabe bei der Verordnung
 
 ---
 
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+| BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
 | P3-625 | Welche Möglichkeiten muss die  Pflichtanforderung: | Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem  Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  › |
 | P3-625 | Welche Möglichkeiten muss die | Pflichtanforderung: |
@@ -2121,34 +2118,34 @@ Verordnungssoftware bezüglich der Dosierungsangabe verpflichtend  anbieten? Wel
 
 ---
 
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+| BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
 | P3-625 | Was sind Beispiele für  Missverständlich Dosierungsanweisungen sind bspw.: | ›  › |
 | P3-625 | Was sind Beispiele für | Missverständlich Dosierungsanweisungen sind bspw.: |
@@ -2236,34 +2233,34 @@ missverständliche  zur Übernahme der Dosierungsanweisungen auf dem Rezept verw
 
 ---
 
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+| BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
 | P3-625 | Wie sollte idealerweise mit der  Grundsätzlich ist zu begrüßen, dass der Gesetzgeber die Ausstellung eines | Es wird empfohlen, dass eine Verordnung aus dem BMP heraus automatisch d.h. durch  P3-625 |
 | P3-625 | Wie sollte idealerweise mit der | Grundsätzlich ist zu begrüßen, dass der Gesetzgeber die Ausstellung eines |
@@ -2351,149 +2348,149 @@ Situation umgegangen werden, wenn dem Patienten bereits ein Medikationsplan bzw.
 
 ---
 
-\| P3-630  Was ist unter dem neuen Begriff  Mit einer neuen gesetzlichen Regelung wurde die sogenannte | Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
-| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte |  |
+\| P3-630  Was ist unter dem neuen Begriff  Mit einer neuen gesetzlichen Regelung wurde die sogenannte | Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte  BfArM | oder des PEI |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte | BfArM oder des |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte | BfArM oder des |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte | BfArM oder des |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte | BfArM oder des |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte | BfArM oder des |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte | BfArM oder des |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte | BfArM oder des |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte | BfArM oder des |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte | BfArM oder des |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte | BfArM oder des |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte | BfArM oder des |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte | BfArM oder des |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte | BfArM oder des |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte | BfArM oder des |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte | BfArM oder des |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte | BfArM oder des |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte | BfArM oder des |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte | BfArM oder des |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte | BfArM oder des |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte | BfArM oder des |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte | BfArM oder des |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte | BfArM oder des |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte | BfArM oder des |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte | BfArM oder des |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte | BfArM oder des |
+\| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte | BfArM oder des |
+| P3-630  Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte | BfArM oder des |
 |---|---|---|
-| Beispiel: Rote Hand Brief zum Rückruf des Adrenalin | -Autoinjektors Emerade®: Patienten  sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. | Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf  Es wird empfohlen, den Aufdruck |
-|  | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin-Autoinjektors Emerade®: Patienten | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. |
+| .   Beispiel: | Rote Hand Brief zum Rückruf des Adrenalin sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. | Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf  Es wird empfohlen, den Aufdruck |
+| PEI. | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. |
 | Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf | Es wird empfohlen, den Aufdruck |  |
 |  |  |  |
 |  |  |  |
-| P3-630 | Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte  Beispiel: Rote Hand Brief zum Rückruf des Adrenalin-Autoinjektors Emerade®: Patienten  sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen.   Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf  Es wird empfohlen, den Aufdruck |
-|  | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin-Autoinjektors Emerade®: Patienten | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. |
+| P3-630 | Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte  BfArM oder des PEI.   Beispiel: Rote Hand Brief zum Rückruf des Adrenalin sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen.   Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf  Es wird empfohlen, den Aufdruck |
+| PEI. | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. |
 | Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf  Es wird empfohlen, den Aufdruck |  | Es wird empfohlen, den Aufdruck |
-|  | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin-Autoinjektors Emerade®: Patienten | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. |
+| PEI. | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. |
 | Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf | Es wird empfohlen, den Aufdruck |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
-|  | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin-Autoinjektors Emerade®: Patienten | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. |
+| PEI. | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. |
 | Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf  Es wird empfohlen, den Aufdruck |  |  |
 |  |  |  |
-|  | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin-Autoinjektors Emerade®: Patienten | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen.   Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf  Es wird empfohlen, den Aufdruck |
+| PEI. | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen.   Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf  Es wird empfohlen, den Aufdruck |
 |  |  |  |
-| Beispiel: Rote Hand Brief zum Rückruf des Adrenalin-Autoinjektors Emerade®: Patienten | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen.   Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf  Es wird empfohlen, den Aufdruck |  |
-|  | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin-Autoinjektors Emerade®: Patienten | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen.   Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf |
+| PEI.   Beispiel: Rote Hand Brief zum Rückruf des Adrenalin | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen.   Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf  Es wird empfohlen, den Aufdruck |  |
+| PEI. | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen.   Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf |
 | Es wird empfohlen, den Aufdruck |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
-| Beispiel: Rote Hand Brief zum Rückruf des Adrenalin-Autoinjektors Emerade®: Patienten  sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. | Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf  Es wird empfohlen, den Aufdruck |  |
+| PEI.   Beispiel: Rote Hand Brief zum Rückruf des Adrenalin sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. | Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf  Es wird empfohlen, den Aufdruck |  |
 |  |  |  |
 |  |  |  |
-|  | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin-Autoinjektors Emerade®: Patienten | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen.   Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf |
+| PEI. | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen.   Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf |
 | Es wird empfohlen, den Aufdruck |  |  |
-|  | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin-Autoinjektors Emerade®: Patienten | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. |
+| PEI. | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. |
 | Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf | Es wird empfohlen, den Aufdruck |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
-|  | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin-Autoinjektors Emerade®: Patienten | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. |
+| PEI. | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. |
 | Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf | Es wird empfohlen, den Aufdruck |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
-|  | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin-Autoinjektors Emerade®: Patienten | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. |
+| PEI. | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. |
 | Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf  Es wird empfohlen, den Aufdruck |  |  |
 |  |  |  |
-|  | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin-Autoinjektors Emerade®: Patienten | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. |
+| PEI. | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. |
 | Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf | Es wird empfohlen, den Aufdruck |  |
 |  |  |  |
-|  | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin-Autoinjektors Emerade®: Patienten | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen.   Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf  Es wird empfohlen, den Aufdruck |
-|  | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin-Autoinjektors Emerade®: Patienten | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen.   Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf  Es wird empfohlen, den Aufdruck |
-|  | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin-Autoinjektors Emerade®: Patienten | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen.   Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf |
-|  | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin-Autoinjektors Emerade®: Patienten | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen.   Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf  Es wird empfohlen, den Aufdruck     Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf  Es wird empfohlen, den Aufdruck |
+| PEI. | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen.   Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf  Es wird empfohlen, den Aufdruck |
+| PEI. | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen.   Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf  Es wird empfohlen, den Aufdruck |
+| PEI. | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen.   Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf |
+| PEI. | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen.   Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf  Es wird empfohlen, den Aufdruck     Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf  Es wird empfohlen, den Aufdruck |
 |  |  |  |
 |  |  |  |
-|  | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin-Autoinjektors Emerade®: Patienten | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. |
+| PEI. | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. |
 | Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf  Es wird empfohlen, den Aufdruck |  |  |
 |  |  |  |
-| P3-630 | Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte  Beispiel: Rote Hand Brief zum Rückruf des Adrenalin-Autoinjektors Emerade®: Patienten  sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen.   Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf  Es wird empfohlen, den Aufdruck |
+| P3-630 | Was ist unter dem neuen Begriff | Mit einer neuen gesetzlichen Regelung wurde die sogenannte  Diese Information über einen Arzneimittelrückruf oder eine eingeschränkte  BfArM oder des PEI.   Beispiel: Rote Hand Brief zum Rückruf des Adrenalin sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen.   Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf  Es wird empfohlen, den Aufdruck |
+|  |  | .  PEI |
+| Beispiel: Rote Hand Brief zum Rückruf des Adrenalin | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. | Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf |
+| PEI.   Beispiel: Rote Hand Brief zum Rückruf des Adrenalin sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. | Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf  Es wird empfohlen, den Aufdruck |  |
 |  |  |  |
-| Beispiel: Rote Hand Brief zum Rückruf des Adrenalin-Autoinjektors Emerade®: Patienten | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. | Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf |
-| Beispiel: Rote Hand Brief zum Rückruf des Adrenalin-Autoinjektors Emerade®: Patienten  sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. | Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf  Es wird empfohlen, den Aufdruck |  |
 |  |  |  |
-|  |  |  |
-|  | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin-Autoinjektors Emerade®: Patienten | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen.   Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf |
+| PEI. | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen.   Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf |
 | Es wird empfohlen, den Aufdruck |  |  |
-|  | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin-Autoinjektors Emerade®: Patienten | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. |
+| PEI. | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. |
 |  |  |  |
 |  |  |  |
-|  | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin-Autoinjektors Emerade®: Patienten | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen.   Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf |
+| PEI. | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen.   Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf |
 | Es wird empfohlen, den Aufdruck |  |  |
 |  |  |  |
-|  | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin-Autoinjektors Emerade®: Patienten | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. |
+| PEI. | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. |
 | Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf  Es wird empfohlen, den Aufdruck |  |  |
 |  |  |  |
 |  |  |  |
-|  | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin-Autoinjektors Emerade®: Patienten | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. |
+| PEI. | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. |
 | Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf | Es wird empfohlen, den Aufdruck |  |
 |  |  |  |
-|  | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin-Autoinjektors Emerade®: Patienten | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen.   Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf  Es wird empfohlen, den Aufdruck |
+| PEI. | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen.   Die erneute Verordnung eines Arzneimittels oder eines vergleichbaren Arzneimittels ist auf  Es wird empfohlen, den Aufdruck |
 |  |  |  |
 |  |  |  |
 |  |  |  |
-|  | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin-Autoinjektors Emerade®: Patienten | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. |
+| PEI. | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. |
 
-Ersatzverordnung “ zu verstehen? Ersatzverordnung eingeführt. Wenn aufgrund eines Arzneimittelrückrufs oder aufgrund einer von der zuständigen Behörde bekannt gemachten Einschränkung der Verwendbarkeit erneut ein Arzneimittel in der Praxis verordnet werden muss, sieht die gesetzliche Vorg abe vor, dass die erneute Verordnung zu Lasten der gesetzlichen Krankenversicherung zuzahlungsfrei ist, wenn Patienten diese Verordnung in der Apotheke einlösen. Daher betrifft diese Kennzeichnung insbesondere Rezepte zu Lasten der gesetzlichen Krankenvers icherung. Dies umfasst auch BtM sowie T-Rezept-Arzneimittel. Verwendbarkeit erfolgt in der Regel über Rote Hand -Briefe des BfArM oder des PEI.  einem separaten Arzneimittelrezept vorzunehmen und wird von der Verordnungssoftware mit dem Aufdruck „Ersatzverordnung nach § 31 Absatz 3 Satz 7 SGB V“ versehen. Zusätzlich zu dem Aufdruck erfolgt eine automatische Kennzeichnung  über das Statusfeld im Personalienfeld. Ersatzverordnung nach § 31 Absatz 3 Satz 7 SGB V dem T-Rezept-Muster zwischen den beiden Ankreuzfeldern bzgl. der Einhaltung der Sicherheitsbestimmungen bzw. der Aushändigung des medizinischen Informationsmaterials an den/die Patient(in) und dem Vertragsarztstempel zu platzieren  siehe die rot markierte Position:
+Ersatzverordnung “ zu verstehen? Ersatzverordnung eingeführt. Wenn aufgrund eines Arzneimittelrückrufs oder aufgrund einer von der zuständigen Behörde bekannt gemachten Einschränkung der Verwendbarkeit erneut ein Arzneimittel in der Praxis verordnet werden muss, sieht die gesetzliche Vorg abe vor, dass die erneute Verordnung zu Lasten der gesetzlichen Krankenversicherung zuzahlungsfrei ist, wenn Patienten diese Verordnung in der Apotheke einlösen. Daher betrifft diese Kennzeichnung insbesondere Rezepte zu Lasten der gesetzlichen Krankenvers icherung. Dies umfasst auch BtM sowie T-Rezept-Arzneimittel. Verwendbarkeit erfolgt in der Regel über Rote Hand -Briefe des -Autoinjektors Emerade®: Patienten einem separaten Arzneimittelrezept vorzunehmen und wird von der Verordnungssoftware mit dem Aufdruck „Ersatzverordnung nach § 31 Absatz 3 Satz 7 SGB V“ versehen. Zusätzlich zu dem Aufdruck erfolgt eine automatische Kennzeichnung  über das Statusfeld im Personalienfeld. Ersatzverordnung nach § 31 Absatz 3 Satz 7 SGB V dem T-Rezept-Muster zwischen den beiden Ankreuzfeldern bzgl. der Einhaltung der Sicherheitsbestimmungen bzw. der Aushändigung des medizinischen Informationsmaterials an den/die Patient(in) und dem Vertragsarztstempel zu platzieren  siehe die rot markierte Position:
 
 ---
 
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+| BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
 |  | P3-630 | Sollte das Feld „ Es ist erlaubt und auch wünschenswert, dass das Feld „gebührenfrei“ automatisch gesetzt |
 |  | P3-630 |  |
@@ -2581,34 +2578,34 @@ Ersatzverordnung “ zu verstehen? Ersatzverordnung eingeführt. Wenn aufgrund e
 
 ---
 
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+| BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
 | P3-630 |  | P3-721  Wie ist der  Der Text „Ersatzverordnung |
 | P3-630 |  |  |
@@ -2696,34 +2693,34 @@ K3-722 Aufdruck zur  vorzunehmen? zwingend ein PZN-Bezug Produkt vorliegen? Frei
 
 ---
 
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+| BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
 | P3-710 | Muss die  Ja, die Verordnungssoftware muss eine vollständige Unterstützung der eRezept | Grundlage hierfür ist der §73 Absatz 9 SGB V. Hieraus ergibt sich, dass Vertragsärzt An dieser Stelle sei darauf hingewiesen, dass die KBV keine Vorgaben hinsichtlich der  P3-710 |
 | P3-710 | Muss die | Ja, die Verordnungssoftware muss eine vollständige Unterstützung der eRezept |
@@ -2811,34 +2808,34 @@ K3-722 Aufdruck zur  vorzunehmen? zwingend ein PZN-Bezug Produkt vorliegen? Frei
 
 ---
 
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+| BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
 | P3-710 | Für welche  Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: | ›  › |
 | P3-710 | Für welche | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen: |
@@ -2926,34 +2923,34 @@ BTM-Rezepte T-Rezepte Verordnung von sonstigen nach § 31 SGB V einbezogene Prod
 
 ---
 
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+| BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
 | P3-710 | Ist eine elektronische Verordnung  Die Arzneimittelverordnung | Die technischen Spezifikationen insbesondere die FHIR Ob die elektronische Verordnung möglich ist, regelt der Vertrag gemäß  P3-710 |
 | P3-710 | Ist eine elektronische Verordnung | Die Arzneimittelverordnung |
@@ -3041,34 +3038,34 @@ zu Lasten der Berufsgenossenschaften / Unfallkassen bspw. im Rahmen eines Arbeit
 
 ---
 
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+| BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
 | P3-720 | Darf auf dem Rezept der Zusatz  Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen. | Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die  P3-721 |
 | P3-720 | Darf auf dem Rezept der Zusatz | Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen. |
@@ -3156,34 +3153,34 @@ Verordnung nach § 27a SGB V (zur Erläuterung „Verordnung im Rahmen künstlic
 
 ---
 
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+| BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
 | K3-722 | Darf auf eine  Nein, Wirkstoffverordnungen sind vom PZN | P3-730  Wie ist im Rahmen der |
 | K3-722 | Darf auf eine | Nein, Wirkstoffverordnungen sind vom PZN |
@@ -3271,34 +3268,34 @@ gedruckt werden? Formularauswahl Verordnungsworkflow definiert bzw. ab wann lieg
 
 ---
 
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+| BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
 | P3-730 | Falls das AMV- | Sollte das AMV-Verordnungsmodul die Verordnung von Hilfsmitteln aus der AMV- Die Verordnung von in AMV-Datenbanken gelisteten Hilfsmitteln erfolgt bei GKV- |
 | P3-730 | Falls das AMV- |  |
@@ -3386,34 +3383,34 @@ unterstützt: Was muss bei der den AMV-Datenbanken beachtet werden?  Statistik-F
 
 ---
 
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-\| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
-| **BEZUG [**1**]** | **FRAGE** | **ANTWORT** |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+\| BEZUG [1] | FRAGE | ANTWORT |
+| BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
 | P3-141 | Müssen ausnahmslos alle Rote- Es ist ausreichend, alle Rote-Hand-Briefe, die nach dem 01.04.2023 veröffentlicht wurden, | Die Anforderung (1) in P3- |
 | P3-141 | Müssen ausnahmslos alle Rote- | Es ist ausreichend, alle Rote-Hand-Briefe, die nach dem 01.04.2023 veröffentlicht wurden, |
@@ -3503,32 +3500,25 @@ Hand-Briefe ohne zeitliche Eingrenzung im Archiv gemäß P3- 141 gelistet werden
 
 # 2 ABLAUFDIAGRAMME ZUR ANZEIGE DER BESCHLÜSSE DES G-BA  NACH § 35A SGB V
 
-Die im Folgenden dargestellten beispielhaften Abläufe der Anzeige der Beschlüsse des G-BA nach
-
-§ 35a SGB V sollen bei der Umsetzung des Kapitels 3.2 des Anforderungskatalogs als Hilfestellung dienen.
+Die im Folgenden dargestellten beispielhaften Abläufe der Anzeige der Beschlüsse des G-BA nach  § 35a SGB V sollen bei der Umsetzung des Kapitels 3.2 des Anforderungskatalogs als Hilfestellung dienen.
 
 Die Abläufe sind **nicht** als feste Vorgabe zur Umsetzung zu verstehen.
-
 
 ---
 
 ## GESAMTPROZESS: ANZEIGE VON BESCHLÜSSEN NACH § 35A SGB V
 
-
 ---
 
 ## TEILPROZESS: MANUELLE ANZEIGE DER BESCHLUSSÜBERSICHT
-
 
 ---
 
 ## TEILPROZESS: AUTOMATISCHE ANZEIGE VON NEUEN BESCHLÜSSEN
 
-
 ---
 
 ## TEILPROZESS: ANZEIGE DER INHALTE EINES BESCHLUSSES
-
 
 ---
 
@@ -3546,6 +3536,4 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Kassenärztliche Bundesvereinigung
-
-Verordnungssoftware Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+Verordnungssoftware Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)

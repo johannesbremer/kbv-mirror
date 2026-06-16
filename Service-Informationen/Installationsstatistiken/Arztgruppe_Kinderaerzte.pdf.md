@@ -20,7 +20,7 @@
 
 216 **x.isynet**
 
-498 **T 2med**
+498 **T2med**
 
 457 **tomedo**
 
@@ -76,7 +76,7 @@ medatixx GmbH & Co. KG 300
 
 0
 
-T 2med GmbH & Co. KG 252
+T2med GmbH & Co. KG 252
 
 236
 
@@ -161,9 +161,9 @@ Deutsche Telekom Clinical Solutions GmbH 77 72
 
 5
 
-261 **S 3-Win**
+261 **S3-Win**
 
-S 3 Praxiscomputer GmbH / Maximilian Flender 65 63
+S3 Praxiscomputer GmbH / Maximilian Flender 65 63
 
 2
 

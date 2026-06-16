@@ -10,7 +10,7 @@ Betriebsstätten-Nr. Arzt-Nr. Datum
 
 Durch eine stufenweise Wiederaufnahme seiner Tätigkeit kann der o. g. Versicherte nach aktueller Betrachtung stufenweise
 
-wieder in das Erwerbsleben eingegliedert werden. Nach meiner ärztlichen Beurteilung empfehle ich mit Einverständnis des  Versicherten und nach dessen Rücksprache mit dem Arbeitgeber folgenden Ablauf für die stufenweise Wiederaufnahme der  beruflichen Tätigkeit
+wieder in das Erwerbsleben eingegliedert werden. Nach meiner ärztlichen Beurteilung empfehle ich mit Einverständnis des Versicherten und nach dessen Rücksprache mit dem Arbeitgeber folgenden Ablauf für die stufenweise Wiederaufnahme der beruflichen Tätigkeit
 
 vom
 

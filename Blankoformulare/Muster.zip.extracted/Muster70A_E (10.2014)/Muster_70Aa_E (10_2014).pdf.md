@@ -36,17 +36,13 @@
 
 **Ärztliche Behandlung (EBM-Positionen)**
 
-**Summe Ärztliche**
-
-**Behandlung** **(Euro)**
+**Summe Ärztliche**  **Behandlung** **(Euro)**
 
 **(Euro)**
 
 **Sachkosten und** **Sprechstunden-**
 
-**kosten**
-
-**bedarf (Euro)**
+**kosten** **bedarf (Euro)**
 
 **Gesamtsumme** **für einmalig im** **Reproduktionsfall** **anfallende** **Leistungen (Euro)** **Ort**
 
@@ -56,39 +52,13 @@
 
 ### IV Genehmigung durch die Krankenkasse(n)
 
-**Die** **auf** **die** **jeweils** **zulässige** **Höchstzahl** **anzurechnenden**
+**Die** **auf** **die** **jeweils** **zulässige** **Höchstzahl** **anzurechnenden** **Vorbehandlungen** **sind** **zu** **berücksichtigen** **und** **verringern** **die** **Anzahl** **der** **genehmigten** **Zyklen.**
 
-**Vorbehandlungen** **sind** **zu** **berücksichtigen** **und** **verringern**
+**Werden** **mehrere** **Zyklen** **genehmigt,** **erlischt** **die** **Genehmi-** **gung,** **sobald** **die** **Gesamtzahl** **der** **Behandlungen** **(ein-** **schließlich** **Vorbehandlungen),** **die** **nicht** **zu** **einer** **klinisch** **nachgewiesenen** **Schwangerschaft** **geführt** **haben,** **die** **jeweils** **zulässige** **Höchstzahl** **erreicht** **hat.**
 
-**die** **Anzahl** **der** **genehmigten** **Zyklen.**
+**Nach**  **27a** **SGB** **V** **sind** **50%** **der** **entstehenden** **Kosten** **(inklusive** **Medikamentenkosten,** **siehe** **Abschnitt** **III**  **Eigenanteil** **des** **Patienten.** **Eine** **abschließende** **Berech-** **nung** **der** **Gesamtkosten** **kann**  **u.** **a.** **in** **Abhängigkeit** **des** **vertraglich** **vereinbarten** **Punktwertes** **in** **Cent** **bzw.** **Euro** **erst** **nach** **Beendigung** **der** **Behandlung** **erfolgen.**
 
-**Werden** **mehrere** **Zyklen** **genehmigt,** **erlischt** **die** **Genehmi-**
-
-**gung,** **sobald** **die** **Gesamtzahl** **der** **Behandlungen** **(ein-**
-
-**schließlich** **Vorbehandlungen),** **die** **nicht** **zu** **einer** **klinisch**
-
-**nachgewiesenen** **Schwangerschaft** **geführt** **haben,** **die**
-
-**jeweils** **zulässige** **Höchstzahl** **erreicht** **hat.**
-
-**Nach**  **27a** **SGB** **V** **sind** **50%** **der** **entstehenden** **Kosten**
-
-**(inklusive** **Medikamentenkosten,** **siehe** **Abschnitt** **III**
-
-**Eigenanteil** **des** **Patienten.** **Eine** **abschließende** **Berech-**
-
-**nung** **der** **Gesamtkosten** **kann**  **u.** **a.** **in** **Abhängigkeit** **des**
-
-**vertraglich** **vereinbarten** **Punktwertes** **in** **Cent** **bzw.** **Euro**
-
-**erst** **nach** **Beendigung** **der** **Behandlung** **erfolgen.**
-
-**Spätestens** **nach** **Ablauf** **eines** **Jahres** **seit** **der** **Genehmi-**
-
-**gung** **sowie** **bei** **Änderung** **der** **Behandlungsmethode**
-
-**ein** **neuer** **Folge-Behandlungsplan** **vorzulegen.**
+**Spätestens** **nach** **Ablauf** **eines** **Jahres** **seit** **der** **Genehmi-** **gung** **sowie** **bei** **Änderung** **der** **Behandlungsmethode**  **ein** **neuer** **Folge-Behandlungsplan** **vorzulegen.**
 
 **Ausfertigung nach Genehmigung zum Verbleib** **beim Vertragsarzt**
 
@@ -112,9 +82,7 @@
 
 **Intratubarer-Gameten-Transfer (gemäß Nr. 10.4)**
 
-**Intracytoplasmatische Spermieninjektion (gemäß Nr. 1 0.5)**
-
-**Anzahl und Art bereits ohne Eintritt einer klinisch nachgewiesenen** **Schwangerschaft erfolgter Behand-** **lungen (gemäß Nr. 10.1-10.5)**
+**Intracytoplasmatische Spermieninjektion (gemäß Nr. 1 0.5)** **Anzahl und Art bereits ohne Eintritt einer klinisch nachgewiesenen** **Schwangerschaft erfolgter Behand-** **lungen (gemäß Nr. 10.1-10.5)**
 
 **räglichen Änderung der diagnostischen und therapeut**
 
@@ -144,9 +112,7 @@
 
 **für maximal**
 
-**nicht genehmigt** **(separate Begründung** **anbei)**
-
-**Ort**
+**nicht genehmigt** **(separate Begründung** **anbei)** **Ort**
 
 **Datum**
 
@@ -156,13 +122,9 @@
 
 **für maximal**
 
-**nicht genehmigt**
+**nicht genehmigt** **ist**
 
-**ist**
-
-**(separate Begründung** **anbei)**
-
-**Ort**
+**(separate Begründung** **anbei)** **Ort**
 
 **PRF.NR.**
 

@@ -1,6 +1,6 @@
 Kassenärztliche Bundesvereinigung Dezernat 3 -Vergütung, Gebührenordnung und Morbiditätsorientierung
 
-| **Neustrukturierung Abschnitt** | **Neustrukturierung Abschnitt** | **Neustrukturierung Abschnitt** | | | |
+| Neustrukturierung Abschnitt | Neustrukturierung Abschnitt | Neustrukturierung Abschnitt | | | |
 |---|---|---|---|---|---|
 | **alt (2. Quartal)** | **neu (ab dem 3.** | **alt (2. Quartal)** | **neu (ab dem 3.** | **alt (2. Quartal)** | **neu (ab dem 3.** |
 | **Tiefenpsychologisch fundierte PT** | **Tiefenpsychologisch fundierte PT** | | | | |

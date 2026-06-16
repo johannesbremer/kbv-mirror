@@ -2,7 +2,7 @@
 
 **61 Teil E**
 
-**VIII. Inhalt der abgegebenen Einwilligungserklärungen und Angaben der/des Versicherten**
+### VIII. Inhalt der abgegebenen Einwilligungserklärungen und Angaben der/des Versicherten
 
 Datum
 
@@ -77,9 +77,7 @@ dem verordnenden Arzt widerrufen werden.
 
 **2.**
 
-Angaben durch die Versicherte/den Versicherten zu Angehörigen und Vertrauenspersonen sowie Pflege- und
-
-Betreuungseinrichtungen, denen die Leistungsentscheidung durch die Krankenkasse übermittelt werden soll (VIII. A. 2.).
+Angaben durch die Versicherte/den Versicherten zu Angehörigen und Vertrauenspersonen sowie Pflege- und  Betreuungseinrichtungen, denen die Leistungsentscheidung durch die Krankenkasse übermittelt werden soll (VIII. A. 2.).
 
 ***Vor der Weiterleitung des Vordrucks an die Krankenkasse von der/dem Versicherten auszufüllen,***
 
@@ -93,4 +91,4 @@ Kostenträgerkennung
 
 PRF.NR.
 
-Einwilligung der/des Versicherten zur Übermittlung der Leistungsentscheidung der  Krankenkasse an Angehörige und Vertrauenspersonen sowie Pflege- und Betreuungs- einrichtungen wurde erteilt.Muster 61 Teil Eb/E (7.2022)
+Einwilligung der/des Versicherten zur Übermittlung der Leistungsentscheidung der Krankenkasse an Angehörige und Vertrauenspersonen sowie Pflege- und Betreuungs- einrichtungen wurde erteilt.Muster 61 Teil Eb/E (7.2022)

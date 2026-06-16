@@ -1,57 +1,15 @@
-Krankenkasse bzw. Kostenträger
-
-Name, Vorname des Versicherten
-
-Kostenträgerkennung Versicherten-Nr.
-
-Arzt-Nr.
-
-Betriebsstätten-Nr.
-
-**I. Rehabilitationsbegründende und weitere Diagnosen**
-
-**A. Rehabilitationsbegründende Funktionsdiagnosen**
-
-1.
-
-2.
-
-3.
-
-**Weitere rehabilitationsrelevante DiagnosenB.**
-
-4.
-
-5.
-
 ## Beratung zu medizinischer
 
 ## Rehabilitation / Prüfung des zuständigen Rehabilitationsträgers
-geb. am
+**61 Teil A**
 
-***Hinweis an den Arzt zur Zuständigkeit der Krankenkasse***
+Stempel / Unterschrift der Krankenkasse
 
-Ist eine medizinische Rehabilitation erforderlich, weil krankheits-/behinderungsbedingt nicht  nur vorübergehende Beeinträchtigungen der Teilhabe am Leben in der Gesellschaft bestehen oder drohen, kann die Zuständigkeit der Krankenkasse bestehen (z. B. bei Altersrentnern,
-
-spezifischen Leistungen der medizinischen Rehabilitation für Mütter/Väter).
-
-Status
-
-Ist eine erhebliche Gefährdung oder Minderung der Erwerbsfähigkeit gegeben, besteht  grundsätzlich die Zuständigkeit der Rentenversicherung.
-
-Handelt es sich um die Folge eines Arbeitsunfalls / einer Berufskrankheit, ist grundsätzlich
-
-die Zuständigkeit der gesetzlichen Unfallversicherung gegeben.
-
-Datum
-
-***Bei Zuständigkeit der Krankenkasse bitte NUR Muster 61 Teil B-E ausfüllen.***
+Vertragsarztstempel / Unterschrift des Arztes
 
 Diagnoseschlüssel
 
 ICD-10-GM Ursache *
-
-**61 Teil A**
 
 ***Mögliche Ursache***
 
@@ -63,13 +21,13 @@ ICD-10-GM Ursache *
 
 ***Ursachen zutrifft)***
 
-***1 = Arbeitsunfall einschl.***
+***1***  ***Arbeitsunfall einschl.***
 
 ***Wegeunfall***
 
-***2 = Berufskrankheit***
+***2***  ***Berufskrankheit***
 
-***3 = Schädigungsfolge***
+***3***  ***Schädigungsfolge***
 
 ***durch Einwirken***
 
@@ -77,47 +35,41 @@ ICD-10-GM Ursache *
 
 ***(z. B. Unfallfolgen)***
 
-***4 = Folgen von Kriegs-,***
+***4***  ***Folgen von Kriegs-,***
 
 ***Zivil- oder Wehrdienst***
 
-***5 = Meldepflichtige***
-
-6.
-
-**II. Hinweis/Anfrage an die Krankenkasse**
-
-**Beratung der/des Versicherten**
-
-***Bitte NUR Teil A an die Krankenkasse übermitteln. Teil B-E ist NICHT auszufüllen.***
-
-Eine **Beratung der/des Versicherten** über Leistungen zur medizinischen Rehabilitation der Krankenkasse und/oder
-
-Rentenversicherung (z. B. bei gleichrangiger Zuständigkeit für Leistungen der Kinder-Rehabilitation oder onkologischen  Rehabilitation für Altersrentner) bzw. weitere Leistungen der Krankenkasse
-
-(z. B. zur medizinischen Vorsorge in anerkannten Kurorten)
-
-**Prüfung des zuständigen Rehabilitationsträgers**
-
-***Bitte NUR Teil A an die Krankenkasse übermitteln. Teil B-E ist NICHT auszufüllen.***
-
-Eine **medizinische Rehabilitation ist erforderlich**, weil krankheits-/behinderungs-
-
-bedingt eine Minderung der Erwerbsfähigkeit besteht oder droht.  **Prüfung des zuständigen Rehabilitationsträgers erbeten** rungsrechtlichen Voraussetzungen der Rentenversicherung nicht eindeutig beurteilt werden können.
-
-**ggf. weitere Anmerkungen**
-
-**ist angezeigt**
-
-, weil z. B. die versiche-
+***5***  ***Meldepflichtige***
 
 ***Erkrankung***
 
 ***(z. B. IfSG)***
 
-**Es wird die**
+1.
 
-**III. Im Original zurück an die Vertragsärztin / den Vertragsarzt**
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+**I. Rehabilitationsbegründende und weitere Diagnosen**
+
+**A. Rehabilitationsbegründende Funktionsdiagnosen**
+
+**B. Weitere rehabilitationsrelevante Diagnosen**
+
+### II. Hinweis/Anfrage an die Krankenkasse
+
+### III. Im Original zurück an die Vertragsärztin / den Vertragsarzt
+
+**ggf. weitere Anmerkungen**
+
+Datum
 
 Folgender Rehabilitationsträger ist zuständig
 
@@ -127,11 +79,49 @@ Rentenversicherung*** (Vordruck liegt bei)***
 
 Sonstiges
 
+***Hinweis an den Arzt zur Zuständigkeit der Krankenkasse***
+
+Ist eine medizinische Rehabilitation erforderlich, weil krankheits-/behinderungsbedingt nicht  nur vorübergehende Beeinträchtigungen der Teilhabe am Leben in der Gesellschaft bestehen  oder drohen, kann die Zuständigkeit der Krankenkasse bestehen (z. B. bei Altersrentnern,
+
+spezifischen Leistungen der medizinischen Rehabilitation für Mütter/Väter).
+
+Ist eine erhebliche Gefährdung oder Minderung der Erwerbsfähigkeit gegeben, besteht  grundsätzlich die Zuständigkeit der Rentenversicherung.
+
+Handelt es sich um die Folge eines Arbeitsunfalls / einer Berufskrankheit, ist grundsätzlich
+
+die Zuständigkeit der gesetzlichen Unfallversicherung gegeben.
+
+***Bei Zuständigkeit der Krankenkasse bitte NUR Muster 61 Teil B-E ausfüllen.***
+
+**Beratung der/des Versicherten**
+
+***Bitte NUR Teil A an die Krankenkasse übermitteln. Teil B-E ist NICHT auszufüllen.***
+
+Eine **Beratung der/des Versicherten** über Leistungen zur medizinischen Rehabilitation der Krankenkasse und/oder
+
+Rentenversicherung (z. B. bei gleichrangiger Zuständigkeit für Leistungen der Kinder-Rehabilitation oder onkologischen  Rehabilitation für Altersrentner) bzw. weitere Leistungen der Krankenkasse
+
+(z. B. zur medizinischen Vorsorge in anerkannten Kurorten) **ist angezeigt**
+
+**Prüfung des zuständigen Rehabilitationsträgers**
+
+***Bitte NUR Teil A an die Krankenkasse übermitteln. Teil B-E ist NICHT auszufüllen.***
+
+Eine **medizinische Rehabilitation ist erforderlich**, weil krankheits-/behinderungs bedingt eine Minderung der Erwerbsfähigkeit besteht oder droht. **Es wird die**  **Prüfung des zuständigen Rehabilitationsträgers erbeten**, weil z. B. die versiche rungsrechtlichen Voraussetzungen der Rentenversicherung nicht eindeutig beurteilt  werden können.
+
+Name, Vorname des Versicherten
+
+geb. am
+
+Kostenträgerkennung Versicherten-Nr.
+
+Status
+
+Betriebsstätten-Nr. Arzt-Nr.
+
 Datum
 
-Vertragsarztstempel / Unterschrift des Arztes
-
-Stempel / Unterschrift der Krankenkasse
+Krankenkasse bzw. Kostenträger
 
 PRF.NR.
 

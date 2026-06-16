@@ -31,7 +31,7 @@ Gültig ab 01.10.2023
 
 ---
 
-| **Brustkrebs ** | | | |
+| Brustkrebs | | | |
 |---|---|---|---|
 | Feld- | Dokumentations- | Ausprägung | **Plausibilitätsregeln ** |
 | Administrative Daten | | | |
@@ -39,7 +39,7 @@ Gültig ab 01.10.2023
 | 2 | Name der/des | Nachname, Vorname | Pflichtfeld |
 | 3 | Geburtsdatum der/des | TT.MM.JJJJ | Pflichtfeld; Das Datum muss kleiner dem Erstelldatum in Feld 32 sein |
 | 4 | Kostenträgername | Name der Krankenkasse | Pflichtfeld |
-| 5 | Kostenträgerkennung | 9 bzw. 7-stellige Nummer  Pflichtfeld, 7- oder 9-stellige numerische Angabe |  |
+| 5 | Kostenträgerkennung | 9 bzw. 7-stellige Nummer | Pflichtfeld, 7- oder 9-stellige numerische Angabe |
 | 6 | Versicherten-Nummer | Nummer (bis zu 12 | Pflichtfeld;  bis zu 12 Stellen, alphanumerische Angabe |
 | 7a | Vertragsarzt-Nummer1 1 2 | 9-stellige Nummer | Bedingtes Pflichtfeld; 9-stellige numerische Angabe  Wenn in Feld 8 eine Angabe erfolgt ist, ist hier keine Angabe notwendig |
 | 7b | Betriebsstätten- | 9-stellige Nummer | Bedingtes Pflichtfeld; 9-stellige numerische Angabe  Wenn in Feld 8 eine Angabe erfolgt ist, ist hier keine Angabe notwendig |
@@ -51,7 +51,7 @@ Erstdokumentation Nr. parameter Stellen, alphanumerisch)   Gemeint ist die Leben
 
 ---
 
-| **Einschreibung ** | | | |
+| Einschreibung | | | |
 |---|---|---|---|
 | **Mindestens eine der Zeilen 10 bis 13 muss für die Einschreibung ausgefüllt sein ** | | | |
 | **Zu den Datumsangaben in den Felder 10, 11, 12 und 13 gelten jeweils zusätzlich zu den feldspezifischen Regeln: ** -  -  - | | | |
@@ -120,7 +120,7 @@ adjuvanter Therapie mit Aromataseinhibitoren, sofern die Absicht für eine spezi
 | 29 | Körpergröße | m | Pflichtfeld;  Numerische Angabe mit zwei Stellen hinter dem |
 | 30 | Köpergewicht | kg | Pflichtfeld;  Numerische Angabe ohne Komma; Wertebereich 000 - 300 |
 | **Behandlungsplanung** | | | |
-| 31 | Dokumentationsinterval | Halbjährlich oder häufiger Pflichtfeld; | Nur eine Antwort ist zulässig |
+| 31 | Dokumentationsinterval | Halbjährlich oder häufiger | Pflichtfeld;   Nur eine Antwort ist zulässig |
 | 32 | Datum der Erstellung | TT.MM.JJJJ | Pflichtfeld;  Das Datum muss gleich oder kleiner dem Erfassungsdatum in der entgegennehmenden Stelle (z. B. |
 
 Lymphödem  regelmäßigem körperlichen Training abgegeben kardiotoxischer Tumortherapie  Kompressionsarmstrumpf therapie erforderlich / Ja, keine Kompressionsarmstrumpf therapie erforderlich / (Doxorubicin, Epirubicin) / Anti-HER2-Substanzen / linksthorakale Bestrahlung / Unbekannt / Jährlich „Ja“, „Nein“ und/oder „Kontraindikation“ kö nnen auch jeweils alleine angegeben werden. „Anthrazykline (Doxorubicin, Epirubicin „linksthorakale Bestrahlung“ können jeweils auch gemeinsam oder alleine angegeben werden. wenn „ Unbekannt angegeben wird, darf keine weitere Ausprägung angegeben werden wenn „Nein“ ange geben wird, darf keine weitere Ausprägung angegeben werden. Datenstelle) sein  )“ und/oder „ Anti-HER2-Substanzen “ und/oder Komma; Wertebereich 0,00  2,50

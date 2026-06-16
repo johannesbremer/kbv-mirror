@@ -7,15 +7,11 @@
 |  | **DEZERNAT  ABTEILUNG VERANLASSTE LEISTUNGEN  5. MÄRZ 2020 ** |
 |---|---|
 
-# ELEKTRONISCHE AUSFÜL LHILFE
-
-# MUSTER 4  VERORDNUNG EINER
-
-# KRANKENBEFÖRDERUNG
+# ELEKTRONISCHE AUSFÜL LHILFE  MUSTER 4  VERORDNUNG EINER  KRANKENBEFÖRDERUNG
 
 ## HINWEISTEXTE FÜR DIE ERSTELLUNG EINER ELEKTRONISCHEN  AUSFÜLLHILFE FÜR DIE VERORDNUNG EINER  KRANKENBEFÖRDERUNG
 
-VERSORGUNGSMANAGEMENT
+VERSORGUNGSMANAGEMENT 
 
 
 ---
@@ -46,15 +42,11 @@ Die Verordnung dieser Fahrten ist ohne vorherige Genehmigung der Krankenkasse zu
 
 ## ❺ GRUND DER BEFÖRDERUNG: GENEHMIGUNGSFREIE FAHRTEN: B) AMBULANTE BEHANDLUNG
 
-Seit 2019 ist für Patienten mit Merkzeichen „aG“, „Bl“, „H“ oder einem Pflegegrad 3 mit dauerhafter
-
-Mobilitätsbeeinträchtigung, Pflegegrad 4 oder 5 für Fahrten mit Taxi, oder Mietwagen keine Genehmigung  der Krankenkasse mehr erforderlich. Bei Patienten mit Pflegegrad 3 muss zusätzlich wegen dauerhafter  (mindestens über 6 Monate) körperlicher, kognitiver oder psychischer Beeinträchtigung ihrer Mobilität ein  Unterstützungsbedarf bei der Beförderung bestehen, sodass sie nicht eigenständig (z. B. mit öffentlichen  Verkehrsmitteln) zur ambulanten Behandlung fahren können. Fahrten im KTW verordnen Sie bitte unter f).
+Seit 2019 ist für Patienten mit Merkzeichen „aG“, „Bl“, „H“ oder einem Pflegegrad 3 mit dauerhafter  Mobilitätsbeeinträchtigung, Pflegegrad 4 oder 5 für Fahrten mit Taxi, oder Mietwagen keine Genehmigung  der Krankenkasse mehr erforderlich. Bei Patienten mit Pflegegrad 3 muss zusätzlich wegen dauerhafter  (mindestens über 6 Monate) körperlicher, kognitiver oder psychischer Beeinträchtigung ihrer Mobilität ein  Unterstützungsbedarf bei der Beförderung bestehen, sodass sie nicht eigenständig (z. B. mit öffentlichen  Verkehrsmitteln) zur ambulanten Behandlung fahren können. Fahrten im KTW verordnen Sie bitte unter f).
 
 ## ❻ GRUND DER BEFÖRDERUNG: GENEHMIGUNGSFREIE FAHRTEN: C) ANDERER GRUND
 
-Die Verordnung dieser Fahrten ist ohne vorherige Genehmigung der Krankenkasse zulässig, wenn es sich  um eine Fahrt ins Hospiz, in eine Kurzzeitpflegeeinrichtung als Leistung der Krankenkasse oder um eine  Fahrt zu einer stationsersetzenden ambulanten Operation, einschließlich Vor- oder Nachbehandlung,  handelt. Bei ambulanten Operationen ist Voraussetzung, dass dadurch eine aus medizinischen Gründen  notwendige stationäre Krankenhausbehandlung vermieden wird oder diese nicht ausführbar ist, weil der  Patient sich bewusst gegen die stationäre Krankenhausbehandlung entscheidet. Der Anlass der Fahrt ist in  der Freitextzeile ❻ zu erfassen. Die Begründung für eine stationsersetzende Durchführung sowie den
-
-Operationstag tragen Sie bitte im Freitextfeld unter 4. Begründung/Sonstiges ⓱ ein.
+Die Verordnung dieser Fahrten ist ohne vorherige Genehmigung der Krankenkasse zulässig, wenn es sich  um eine Fahrt ins Hospiz, in eine Kurzzeitpflegeeinrichtung als Leistung der Krankenkasse oder um eine  Fahrt zu einer stationsersetzenden ambulanten Operation, einschließlich Vor- oder Nachbehandlung,  handelt. Bei ambulanten Operationen ist Voraussetzung, dass dadurch eine aus medizinischen Gründen  notwendige stationäre Krankenhausbehandlung vermieden wird oder diese nicht ausführbar ist, weil der  Patient sich bewusst gegen die stationäre Krankenhausbehandlung entscheidet. Der Anlass der Fahrt ist in  der Freitextzeile ❻ zu erfassen. Die Begründung für eine stationsersetzende Durchführung sowie den  Operationstag tragen Sie bitte im Freitextfeld unter 4. Begründung/Sonstiges ⓱ ein.
 
 
 ---
@@ -85,16 +77,12 @@ Die Beförderung im KTW ist nur verordnungsfähig, wenn während der Fahrt eine 
 
 ## ⓭ ART UND AUSSTATTUNG DER BEFÖRDERUNG: ROLLSTUHL, TRAGESTUHL, LIEGEND
 
-„Rollstuhl“ ist anzukreuzen, wenn ein nicht gehfähiger Patient im eigenen Rollstuhl oder im
-
-Krankenfahrsessel befördert werden muss (Fahrzeug mit rollstuhlgerechter Ausstattung). „Tragestuhl“ ist  anzukreuzen, wenn es sich um einen nicht gehfähigen Patienten handelt, der sitzend befördert werden
+„Rollstuhl“ ist anzukreuzen, wenn ein nicht gehfähiger Patient im eigenen Rollstuhl oder im  Krankenfahrsessel befördert werden muss (Fahrzeug mit rollstuhlgerechter Ausstattung). „Tragestuhl“ ist  anzukreuzen, wenn es sich um einen nicht gehfähigen Patienten handelt, der sitzend befördert werden
 
 
 ---
 
-kann. Das Feld „liegend“ ist anzukreuzen, wenn ein Patient ausschließlich liegend transportiert werden
-
-kann.
+kann. Das Feld „liegend“ ist anzukreuzen, wenn ein Patient ausschließlich liegend transportiert werden  kann.
 
 ## ⓮ ART UND AUSSTATTUNG DER BEFÖRDERUNG: RTW
 
@@ -114,6 +102,6 @@ In diesem Freitextfeld können Sie weitere relevante Informationen zur Verordnun
 
 ## Mehr Informationen
 
-Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 550 KB)  www.kbv.de/media/sp/02_Erlaeuterungen.pdf
+Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 550 KB)  [www.kbv.de/media/sp/02_Erlaeuterungen.pdf](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)[](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)
 
-Informationen der KBV zum Thema Krankenbeförderung: [https://www.kbv.de/html/krankentransport.php](https://www.kbv.de/html/krankentransport.php)
+[Informationen der KBV zum Thema Krankenbeförderung: https://www.kbv.de/html/krankentransport.php](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)

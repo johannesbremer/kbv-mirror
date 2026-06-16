@@ -8,14 +8,14 @@ Bei ausgewählten Eingabefeldern sollen Ausfüllhinweise integriert werden.
 
 #### Liste der Infoboxen:
 
-| **Infobox** | **Text** |
+| Infobox | Text |
 |---|---|
 | Verordnung | Inhalt dieses Abschnitts ist die Untersuchung des Patienten bei Neuverord- |
-| Nachsorge | Inhalt dieses Abschnitts ist die erste Nachuntersuchung nach erfolgter Hör- |
+| Nachsorge | Inhalt dieses Abschnitts ist die erste Nachuntersuchung nach erfolgter Hö r- |
 
 #### Liste der Ausfüllhinweise:
 
-| **Nr.** | **Eingabefeld** | **Ausfüllhinweis** |
+| Nr. | Eingabefeld | Ausfüllhinweis |
 |---|---|---|
 | **Allgemeine Angaben** | | |
 | 1. | Patienten-ID | Bitte beachten Sie bei Ihren Angaben, dass die Pati- |

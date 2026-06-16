@@ -26,11 +26,7 @@ Englische Version: Patient Health Questionnaire-9 (PHQ-9)
 
 Deutsche Version: © Prof. Dr. Bernd Löwe, 2015, Universitätsklinikum Hamburg-Eppendorf
 
-**An**
-
-**Überhaupt einzelnen**
-
-**nicht** **Tagen**
+**An**  **Überhaupt einzelnen**  **nicht** **Tagen**
 
 0
 

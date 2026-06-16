@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**07. JUNI 2026**
+**16. JUNI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -13,11 +13,9 @@
 
 ---
 
-**Hinweis:** In der nachfolgenden Tabelle sind ausschließlich die Systeme gelistet, die alleinig eine Zertifizierung für das Verfahren "Kodierunterstützung" bei der KBV
+**Hinweis:** In der nachfolgenden Tabelle sind ausschließlich die Systeme gelistet, die alleinig eine Zertifizierung für das Verfahren "Kodierunterstützung" bei der KBV erfolgreich abgeschlossen haben. Sämtliche Systeme die eine Zertifizerung für die
 
-erfolgreich abgeschlossen haben. Sämtliche Systeme die eine Zertifizerung für die
-
-|  |  | **Prüfnummer** | **unterstützte** |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
@@ -30,12 +28,10 @@ erfolgreich abgeschlossen haben. Sämtliche Systeme die eine Zertifizerung für 
 |---|---|---|---|
 |  | Y/168/2309/36/756 | 31.08.2026 |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Kodierunterstützung / 07. Juni 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Kodierunterstützung / 16. Juni 2026
 
 Vertragsärztliche Abrechnung besitzen, erfüllen ebenfalls diese Anforderung.
 
 X/168/2504/36/690
 
-iOS/Android Linux
-
-DMRZ Deutsches Medizinrechenzentrum GmbH Werftstraße 16 40549 Düsseldorf Helmsauer Care Manager Helmsauer IT-Solutions GmbH Dürrenhofstraße 4 90402 Nürnberg Internet: www.helmsauer-gruppe.de Mac OS Windows Linux Mac OS Windows31.03.2028 Mac OS Windows
+DMRZ Deutsches Medizinrechenzentrum GmbH Werftstraße 16 40549 Düsseldorf Helmsauer Care Manager Helmsauer IT-Solutions GmbH Dürrenhofstraße 4 90402 Nürnberg Internet: www.helmsauer-gruppe.de Mac OS Windows Linux Mac OS WindowsiOS/Android Linux 31.03.2028 Mac OS Windows

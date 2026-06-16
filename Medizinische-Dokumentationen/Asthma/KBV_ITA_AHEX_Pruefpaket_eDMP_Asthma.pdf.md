@@ -11,14 +11,14 @@
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_EDMP_ASTHMA]
 
-BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
+BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS 
 
 
 ---
 
 INHALT
 
-| **ALLGEMEINES** | **6** |
+| ALLGEMEINES | 6 |
 |---|---|
 | 1.1 Rechtsgrundlage | 6 |
 | 1.2 Zertifizierungsablauf | 6 |
@@ -34,7 +34,7 @@ INHALT
 | 1.6.6 Stammdatei der Datenannahmestellen | (SDDA) 10 |
 | 1.6.7 Auflistung der Prüffälle | 11 |
 
-| **PRÜFFÄLLE** |  |  | **12** |
+| PRÜFFÄLLE |  |  | 12 |
 |---|---|---|---|
 | 2.1 Prüffälle |  | Dokumentation | 12 |
 | 2.1.1 | Prüffall | 9511 | 12 |
@@ -43,19 +43,15 @@ INHALT
 | 2.2 Prüffälle |  | Systemreaktion | 21 |
 | 2.2.1 | Prüffall | 9514 | 21 |
 | 2.2.2 | Prüffall | 9515 | 25 |
-| 2.3 Weitere | Prüffälle | zum Anforderungskatalog | 26 |
+| 2.3 Weitere |  | Prüffälle zum Anforderungskatalog | 26 |
 | 2.3.1 | Prüffall | 9530 | 26 |
 | 2.3.2 | Prüffall | 9540 | 27 |
 
 **TESTDATENVALIDIERUNG**
 
-**28**
+**28**  3.1 Prüffall TDV9518 29
 
-3.1 Prüffall TDV9518
-
-29
-
-|  | **ANHANG** |  | **31** |
+|  | ANHANG |  | 31 |
 |---|---|---|---|
 | 4.1 | Versichertendaten | 1– Ersatzverfahren | 31 |
 | 4.2 | Versichertendaten | 2– Ersatzverfahren | 32 |
@@ -71,20 +67,19 @@ Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentation Prüffall 95
 
 # ABBILDUNGSVERZEICHNIS
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung 8
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung
 
-Abbildung 2: Exemplarische Struktur der **Archivdatei** mit den Prüfunterlagen 8
+8  Abbildung 2: Exemplarische Struktur der **Archivdatei** mit den Prüfunterlagen
 
-Abbildung 3: Testdatenvalidierung 28
+8  Abbildung 3: Testdatenvalidierung
 
-Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 28
-
+28  Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 28
 
 ---
 
 DOKUMENTENHISTORIE
 
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.22 | 15.08.2023 | KBV | Datumsanpassungen der  Anpassung der | Datumsanpassungen | 12 |
 | 1.21 | 28.03.2023 | KBV | Korrektur der Daten der  Dokumentationen im  Prüffall 9514 |  | 21, 24 |
@@ -96,17 +91,17 @@ DOKUMENTENHISTORIE
 | 1.15 | 07.05.2018 | KBV | Anpassung der Prüffälle | Schnittstellenversion | Prüffälle |
 | 1.14 | 12.03.2018 | KBV | Einreichung des Antrags | Anpassung des | Zertifizier |
 
-Prüffälle. wegen der übergreifenden Medikamente im Prüffall Prüffälle (DM2- 6513 für DM2. 6.07 ist ab 01.10.2023 zu verwenden). Erstellung der Prüffälle. wegen der übergreifenden Umsetzung der Prüffälle. übergreifenden 4.46 ist ab 01.04.2023 zu verwenden Layouts Corporate Design wegen der übergreifenden Schnittstelle 4.45 Schnittstelle 4.44 an Schnittstellen 4.42 und 4.43 auf Zertifizierung 4.45 ist ab 01.04.2021 zu verwenden 4.44 ist ab 01.04.2019 zu verwenden 4.43 ist ab 01.07.2018 zu verwenden Zertifizierungsportales  ungsablau
+Prüffälle. Medikamente im Prüffall 6513 für DM2. Erstellung der Prüffälle. Umsetzung der übergreifenden Layouts wegen der übergreifenden Prüffälle (DM2- 6.07 ist ab 01.10.2023 zu verwenden). wegen der übergreifenden Prüffälle. 4.46 ist ab 01.04.2023 zu verwenden Corporate Design wegen der übergreifenden Schnittstelle 4.45 Schnittstelle 4.44 an Schnittstellen 4.42 und 4.43 auf Zertifizierung 4.45 ist ab 01.04.2021 zu verwenden 4.44 ist ab 01.04.2019 zu verwenden 4.43 ist ab 01.07.2018 zu verwenden Zertifizierungsportales  ungsablau
 
 ---
 
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 |  |  |  |  | Korrektur der | f    25 |
 | 1.12 | 13.02.2018 | KBV | Anpassung der Prüffälle  Aufnahme eines Testfalls | Schnittstellenversion    Schnittstellenversion | Prüffälle        Prüffall |
 | 1.11 | 23.05.2017 | KBV | Komplettüberarbeitung | Aktualisierung der | Alle |
 
-Nummerierung in Prüffall 9515 an 4.42 ist ab 01.04.2018 zu verwenden Schnittstellenversionen 4.41 und 4.42 für die 4.43 ist ab 01.07.2018 Testdatenvalidierung zur zu verwenden 4.43 TDV 9518 des Prüfpaketes Zertifizierungsrichtlinie
+Nummerierung in Prüffall 9515 an 4.42 ist ab 01.04.2018 zu verwenden Schnittstellenversionen 4.41 und 4.42 für die 4.43 ist ab 01.07.2018 Testdatenvalidierung zur zu verwenden 4.43 TDV9518 des Prüfpaketes Zertifizierungsrichtlinie 
 
 
 ---
@@ -115,9 +110,7 @@ Nummerierung in Prüffall 9515 an 4.42 ist ab 01.04.2018 zu verwenden Schnittste
 
 Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich des elektronischen Disease-Management-Programms Asthma
 
-Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragsstellers definiert, bildet
-
-den Rahmen der Zertifizierung und ist zu beachten.
+Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragsstellers definiert, bildet  den Rahmen der Zertifizierung und ist zu beachten.
 
 Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
 
@@ -127,84 +120,44 @@ Die Regelungen zur Zertifizierung werden auf Landesebene zwischen den Kassenärz
 
 ## 1.2 ZERTIFIZIERUNGSABLAUF
 
-Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer
+Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten
 
-Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten
-
-- 1. Der Antragssteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV
-
-- bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.
-
-Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per E-Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen. Erst nach Erhalt der
-
-Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und der vorab via E-Mail
-
-eingereichte Antrag auf Zertifizierung dort hochgeladen werden.
-
-- 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als
-
-- fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch Mitarbeitende der KBV.
-
-- 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragssteller
-
-- mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei
-
-- Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragssteller zur Sichtprüfung auffordern.
-
+- 1. Der Antragssteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.
+- 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch Mitarbeitende der KBV.
+- 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragssteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragssteller zur Sichtprüfung auffordern.
 - 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
+
+Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per [E-Mail (](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[) einreichen. Erst nach Erhalt der](mailto:pruefstelle@kbv.de) [Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiier](mailto:pruefstelle@kbv.de)[t und der vorab via E-Mail](mailto:pruefstelle@kbv.de) eingereichte Antrag auf Zertifizierung dort hochgeladen werden.
 
 **HINWEIS**
 
-Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des
-
-Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen  vorliegen. Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
-
+Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen  vorliegen. Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
 
 ---
 
 ## 1.3 ZERTIFIZIERUNGSPORTAL
 
-Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
+[Das Zertifizierungsportal ist über](https://zertifizierungsportal2.kbv.de/)[https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/)[zu erreichen.](https://zertifizierungsportal2.kbv.de/)
 
-Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran  anschließenden manuellen Prüfung.
+[Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran](https://zertifizierungsportal2.kbv.de/) anschließenden manuellen Prüfung.
 
-Die Zugangsdaten können direkt über das Portal oder per E-Mail an [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) unter Angabe der
+Die Zugangsdaten können direkt über das Portal oder per [E-Mail an](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[unter Angabe der](mailto:pruefstelle@kbv.de) System-ID (die letzten drei Stellen der Prüfnummer) o[der des Systemnamens angefordert werden. Bitte](mailto:pruefstelle@kbv.de) beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
 
-System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte
+Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragssteller in Form von Aufgaben (Menüpunkt:  „Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
 
-beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im  Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur zusammen mit den erstellten  Prüfunterlagen in Form einer ZIP-Datei archiviert werden.
 
-Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf
+Die in das Portal integrierte Prüfautomatisierung führt neben einer inhaltlichen Prüfung auch eine Prüfung  auf Vollständigkeit der eingereichten Prüfunterlagen durch.
 
-Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragssteller in Form von Aufgaben (Menüpunkt:
+Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, wird der  Antragssteller vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehler  zu beheben bzw. die Lieferung zu vervollständigen.
 
-„Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
-
-Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im  Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur zusammen mit den erstellten
-
-Prüfunterlagen in Form einer ZIP-Datei archiviert werden.
-
-Die in das Portal integrierte Prüfautomatisierung führt neben einer inhaltlichen Prüfung auch eine Prüfung
-
-auf Vollständigkeit der eingereichten Prüfunterlagen durch.
-
-Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, wird der
-
-Antragssteller vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehler  zu beheben bzw. die Lieferung zu vervollständigen.
-
-Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende
-
-Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im HTML- oder XML-Format) erzeugt und
-
-dem Antragssteller zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte  Lieferungen geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung als fehlerfrei  erkannt wurden, erfolgt die Prüfung. Wird hierbei festgestellt, dass Dateien fehlerhaft sind, werden die  Antragssteller aufgefordert, eine Korrekturlieferung hochzuladen
+Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im HTML- oder XML-Format) erzeugt und  dem Antragssteller zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte  Lieferungen geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung als fehlerfrei  erkannt wurden, erfolgt die Prüfung. Wird hierbei festgestellt, dass Dateien fehlerhaft sind, werden die  Antragssteller aufgefordert, eine Korrekturlieferung hochzuladen
 
 Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des Zertifizierungsportals  genutzt werden. Bitte beachten Sie, dass hierfür eine anschließende Prüfung nicht stattfindet. Des  Weiteren müssen für die Testdatenvalidierung die Hinweise in Kapitel 3 berücksichtigt werden.
 
 ## 1.4 ZERTIFIZIERUNGSDOKUMENTE
 
-Alle erforderlichen Unterlagen stehen im Internet zum Download unter ITA-Update bereit. In diesem
-
-Zusammenhang berücksichtigen Sie bitte das Kapitel Referenzierte Dokumente.
+[Alle erforderlichen Unterlagen stehen im Internet zum Download unter](https://update.kbv.de/ita-update/)[ITA-Update](https://update.kbv.de/ita-update/)[bereit. In diesem](https://update.kbv.de/ita-update/) Zusammenhang berücksichtigen Sie bitte das Kapitel [Referenzierte Dokumente](https://update.kbv.de/ita-update/)
 
 ## 1.5 PRÜFUNTERLAGEN
 
@@ -212,9 +165,7 @@ Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwart
 
 - **Asthma-Unterlagen bestehend aus XML-Dokumenten:**
 
-Je Betriebsstättennummer werden eine Begleitdatei und eine Archivdatei (*.zip.XKM), welche die  einzelnen XML-Dateien im entsprechenden Verzeichnis enthält, erwartet. Diese müssen fehlerfrei gegen  das jeweils aktuelle, von der KBV vorgegebene, Prüfschema validierbar sein. Entsprechende Vorgaben
-
-für die Bildung der Dateinamen, die Verzeichnisstruktur und die weiteren Angaben entnehmen Sie bitte  dem Dokument KBV_ITA_VGEX_XML-Schnittstellen.
+Je Betriebsstättennummer werden eine Begleitdatei und eine Archivdatei (*.zip.XKM), welche die  einzelnen XML-Dateien im entsprechenden Verzeichnis enthält, erwartet. Diese müssen fehlerfrei gegen  das jeweils aktuelle, von der KBV vorgegebene, Prüfschema validierbar sein. Entsprechende Vorgaben  für die Bildung der Dateinamen, die Verzeichnisstruktur und die weiteren Angaben entnehmen Sie bitte  dem Dokument KBV_ITA_VGEX_XML-Schnittstellen
 
 
 ---
@@ -226,20 +177,15 @@ für die Bildung der Dateinamen, die Verzeichnisstruktur und die weiteren Angabe
 Die geforderten Videomitschnitte, Screenshots sowie die Teilnahmeerklärung (Prüffall 9540)  einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.
 
 - [PrüffallNr.]1_[lfdNr.]2 3
-
 - Teilnahmeerklärung (Prüffall 9540): TE_EWE_AB.pdf
 
-Alle Prüfunterlagen (Asthma-Unterlagen und der Ordner „Dokumentation“
+Alle Prüfunterlagen (Asthma-Unterlagen und der Ordner „Dokumentation“ übermitteln. Die Asthma-Unterlagen werden direkt in dem Hauptverzeichnis übertragen und nicht  gesondert in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft.  „Dokumentation“ enthält Videoaufzeichnungen, ggf. Screenshots sowie die Teilnahmeerklärung  ebenfalls direkt in dem Hauptverzeichnis übertragen. Das ZIP- Archiv muss wie folgt benannt werden:
 
-übermitteln. Die Asthma-Unterlagen werden direkt in dem Hauptverzeichnis übertragen und nicht  gesondert in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft.  „Dokumentation“ enthält Videoaufzeichnungen, ggf. Screenshots sowie die Teilnahmeerklärung
-
-ebenfalls direkt in dem Hauptverzeichnis übertragen. Das ZIP- Archiv muss wie folgt benannt werden: - Zert_103_SystemID.zip
+- Zert_103_SystemID.zip
 
 Die SystemID ergibt sich aus den letzten drei Stellen der Prüfnummer.
 
-Das ZIP-Archiv kann je nach Komponentenzulassung (KHK und/oder DM2) unterschiedliche Strukturen
-
-aufweisen. Im Folgenden wird beispielhaft die Verzeichnisstruktur ohne zusätzliche Zulassungen (die  alleinige Umsetzung von Asthma bronchiale) dargestellt.
+Das ZIP-Archiv kann je nach Komponentenzulassung (KHK und/oder DM2) unterschiedliche Strukturen  aufweisen. Im Folgenden wird beispielhaft die Verzeichnisstruktur ohne zusätzliche Zulassungen (die  alleinige Umsetzung von Asthma bronchiale) dargestellt.
 
 Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung
 
@@ -288,21 +234,17 @@ Für die Zertifizierung müssen die für die Prüfung speziell entwickelten  wer
 
 ### 1.6.2 Versichertendaten
 
-Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffa Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei
-
-(VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für jeden Prüffall in einem jeweils separaten Verzeichnis die  folgenden XML-Dateien mit Versichertenstammdaten
+Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffa Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei  (VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für jeden Prüffall in einem jeweils separaten Verzeichnis die  folgenden XML-Dateien mit Versichertenstammdaten
 
 - EF.VD = allgemeine Versicherungsdaten
-
 - EF.PD = persönliche Versichertendaten
-
 - EF.GVD = geschützte Versichertendaten
 
 ### 1.6.3 Praxisdaten/ Arztstempel
 
 Folgende Angaben sind für die Zertifizierung zu verwenden:
 
-| **BEZEICHNUNG** | **INHALT** |
+| BEZEICHNUNG | INHALT |
 |---|---|
 | **Betriebsstättennummer (BSNR)** | 391234511 |
 | **Lebenslange Arztnummer (LANR)** | 838382202 |
@@ -313,13 +255,13 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | **Telefon** | 06151 / 1111111 |
 | **Telefax** | 06151 / 2222222 |
 
-(Feld 22, „service_tmr“)
+(Feld 22, „service_tmr“)  Das gleiche Datum sollte auch als Kopfdatum (Feld
 
-Das gleiche Datum sollte auch als Kopfdatum (Feld
-
-Prüfstammdateien verwendet -Kryptomodul (XKM)
+Prüfstammdateien -Kryptomodul (XKM)
 
 eingesetzt
+
+verwendet
 
 ll nötigen Angaben zu den
 
@@ -328,11 +270,9 @@ ll nötigen Angaben zu den
 
 ### 1.6.4 Krankenhausdaten
 
-Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der Begleitdatei als Absender bzw.  dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. Für die Angabe des  dokumentierenden Arztes, der auch hier genannt werden muss, ist der oben genannte Arztname zu  verwenden. Herr Topp-Glücklich ist also für die „Krankenhausfälle“ Angestellter des Krankenhauses und
+Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der Begleitdatei als Absender bzw.  dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. Für die Angabe des  dokumentierenden Arztes, der auch hier genannt werden muss, ist der oben genannte Arztname zu  verwenden. Herr Topp-Glücklich ist also für die „Krankenhausfälle“ Angestellter des Krankenhauses und  betreut den Patienten im eDMP. Es soll hier seine Telefonnummer ang Vertragsarztnummer spielt hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind  demzufolge zwei Absender (Krankenhaus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete  und zwei Begleitdateien einzureichen.
 
-betreut den Patienten im eDMP. Es soll hier seine Telefonnummer ang Vertragsarztnummer spielt hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind  demzufolge zwei Absender (Krankenhaus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete  und zwei Begleitdateien einzureichen.
-
-| **BEZEICHNUNG** | **INHALT** |
+| BEZEICHNUNG | INHALT |
 |---|---|
 | **Krankenhaus-IK** | 856215715 |
 | **Name des Krankenhauses** | Test-Krankenhaus, Pneumologie |
@@ -344,10 +284,10 @@ betreut den Patienten im eDMP. Es soll hier seine Telefonnummer ang Vertragsarzt
 
 ### 1.6.5 Prüfnummer
 
-Folgende Default-Prüfnummern sind bei der Zertifizierung zu verwenden: - Asthma = X/103/2202/36/000
+Folgende Default-Prüfnummern sind bei der Zertifizierung zu verwenden:
 
+- Asthma = X/103/2202/36/000
 - KHK = X/102/2202/36/000
-
 - DM2 = X/100/2202/36/000
 
 ### 1.6.6 Stammdatei der Datenannahmestellen (SDDA)
@@ -365,17 +305,17 @@ mit Hilfe der
 
 Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
-| **PRÜFFALL-ID** | **NAME** | **VERZEICHNISNAME** |
+| PRÜFFALL-ID | NAME | VERZEICHNISNAME |
 |---|---|---|
 | **9511** | Erna Müller | XML_14 |
 | **9512** | Ludger Königsstein | XML_15 |
 | **9540** | Lija Malta | XML_36 |
 | **TDV9518** | Brigitte Althaus | XML_05 |
 | **Ersatzverfahren** | | |
-| **6513** | Ingrid Schimmelpfennig- | Ersatzverfahren (s. Versichertendaten 1– |
-| **9513** | Martin Gruber | Ersatzverfahren (s. Versichertendaten 2– |
+| **6513** | Ingrid Schimmelpfennig- | Ersatzverfahren (s. Versichertendaten 1 |
+| **9513** | Martin Gruber | Ersatzverfahren (s. Versichertendaten 2 ) |
 
-Hammerschmidt Federmannssohn Ersatzverfahren)
+Hammerschmidt Federmannssohn
 
 ---
 
@@ -403,7 +343,7 @@ Die Versichertendaten von **Erna Müller (XML_14)**
 
 - **2.** **Anlegen einer Erst- und einer Verlaufsdokumentation**
 
-| **INDIKATIONSÜBERGREIFENDE DATEN** | | |
+| INDIKATIONSÜBERGREIFENDE DATEN | | |
 |---|---|---|
 | **Administrative Daten** | **Erstdokumentation** | **Verlaufsdokumentation** |
 | DMP-Fallnummer | 9511 | 9511 |
@@ -425,13 +365,12 @@ Die Versichertendaten von **Erna Müller (XML_14)**
 
 einlesen und speichern.
 
--
+Informationsangebote der Krankenkasse AVK -
 
-Informationsangebote der Krankenkasse AVK
 
 ---
 
-| **INDIKATIONSPEZIFISCHE DATEN** | | |
+| INDIKATIONSPEZIFISCHE DATEN | | |
 |---|---|---|
 | **Anamnese- und Befunddaten** | **Erstdokumentation** | **Verlaufsdokumentation** |
 | In den letzten 4 Wochen: Häufigkeit von Asthma | Häufiger als 2 mal | Keine |
@@ -478,7 +417,7 @@ Die Versichertendaten von Ludger Königsstein (XML_15) einlesen und speichern.
 
 - 2. Anlegen einer Erst- und einer Verlaufsdokumentation
 
-| **INDIKATIONSÜBERGREIFENDE DATEN** | | |
+| INDIKATIONSÜBERGREIFENDE DATEN | | |
 |---|---|---|
 | **Administrative Daten** | **Erstdokumentation** | **Verlaufsdokumentation** |
 | DMP-Fallnummer | 9512 | 9512 |
@@ -498,13 +437,12 @@ Die Versichertendaten von Ludger Königsstein (XML_15) einlesen und speichern.
 | Dokumentationsintervall | Quartalsweise | Quartalsweise |
 | Datum der Erstellung | 06.07.2023 06.10.2023 | 06.10.2023 06.12.2023 |
 
--
+der Krankenkasse -
 
-der Krankenkasse
 
 ---
 
-| **INDIKATIONSPEZIFISCHE DATEN** | | |
+| INDIKATIONSPEZIFISCHE DATEN | | |
 |---|---|---|
 | **Anamnese- und Befunddaten** | **Erstdokumentation** | **Verlaufsdokumentation** |
 | In den letzten 4 Wochen: Häufigkeit von Asthma | Keine | 2 mal wöchentlich |
@@ -529,7 +467,7 @@ der Krankenkasse
 | Schriftlicher Selbstmanagementplan | Nein | Ja |
 | Therapieanpassung | Keine | Reduktion der Medikation |
 
-Symptomen tagsüber der Bedarfsmedikation Aktivitäten im Alltag wegen Asthma bronchiale des Nachtschlafes stationär) ärztliche Behandlung wegen Asthma bronchiale seit der letzten Dokumentation Sympathomimetika Sympathomimetika Dokumentation) bereits wahrgenommen Wertes Antagonisten Wertes
+Symptomen tagsüber der Bedarfsmedikation Aktivitäten im Alltag wegen Asthma bronchiale des Nachtschlafes stationär) ärztliche Behandlung wegen Asthma bronchiale seit der letzten Dokumentation Sympathomimetika Sympathomimetika Dokumentation) bereits wahrgenommen Wertes Antagonisten Wertes 
 
 
 ---
@@ -542,7 +480,7 @@ Symptomen tagsüber der Bedarfsmedikation Aktivitäten im Alltag wegen Asthma br
 | **Prüfunterlagen** | › › 1. 2.2. 6513 **2.1.3 Hinweis ** Sofern das System eine Zulassung für die Indikatoren KHK und/oder DM2 **Aktionen, die durch den Antragssteller durchgeführt werden:** 1. |
 | **Hinweis** | Sofern das System eine Zulassung für die Indikatoren KHK und/oder DM2 |
 
-| **INDIKATIONSÜBERGREIFENDE DATEN** | | |
+| INDIKATIONSÜBERGREIFENDE DATEN | | |
 |---|---|---|
 | **Administrative Daten** | **Erstdokumentation** | **Verlaufsdokumentation** |
 | DMP-Fallnummer | 6513 | 6513 |
@@ -557,7 +495,7 @@ Symptomen tagsüber der Bedarfsmedikation Aktivitäten im Alltag wegen Asthma br
 | Blutdruck | 120 / 70 mmHg | 124 / 76 mmHg |
 | Raucher | Ja | Nein |
 
-Prüffall 6513 Einschreibung müssen die entsprechenden Daten ebenfalls dokumentiert werden. System keine der beiden Zulassungen besitzen, dann sind nur die Asthma bronchiale-Daten zu übermitteln. Versichertendaten: Die Versichertendaten von Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn (Versichertendaten 1 Anlegen einer Erst- und einer Verlaufsdokumentation AB: - die Schnittstellenversion 4.46 DM2: - die Schnittstellenversion 6.07 KHK: - die Schnittstellenversion 4.16 Asthma bronchiale-Dokumentationsunterlagen zusätzlich DM2- und/oder KHK-Dokumentationsunterlagen  Ersatzverfahreneinlesen und speichern. verfügt, Sollte das Asthma bronchiale, KHK Asthma bronchiale, KHK
+Prüffall 6513 Einschreibung müssen die entsprechenden Daten ebenfalls dokumentiert werden. System keine der beiden Zulassungen besitzen, dann sind nur die Asthma bronchiale-Daten zu übermitteln. Versichertendaten: Die Versichertendaten von Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn Versichertendaten 1 Anlegen einer Erst- und einer Verlaufsdokumentation AB: - die Schnittstellenversion 4.46 DM2: - die Schnittstellenversion 6.07 KHK: - die Schnittstellenversion 4.16 Asthma bronchiale-Dokumentationsunterlagen zusätzlich DM2- und/oder KHK-Dokumentationsunterlagen  Ersatzverfahren einlesen und speichern. verfügt, Sollte das Asthma bronchiale, KHK Asthma bronchiale, KHK
 
 ---
 
@@ -568,7 +506,7 @@ Prüffall 6513 Einschreibung müssen die entsprechenden Daten ebenfalls dokument
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung | 06.07.2023 06.10.2023 | 06.10.2023 06.12.2023 |
 
-| **INDIKATIONSPEZIFISCHE DATEN** | | | |
+| INDIKATIONSPEZIFISCHE DATEN | | | |
 |---|---|---|---|
 | **Anamnese- und Befunddaten** | **Erstdokumentation** | **Verlaufsdokumentation** | |
 | Asthma | In den letzten 4 Wochen: Häufigkeit von | Keine | Häufiger als 2 mal |
@@ -667,12 +605,12 @@ Chlorthalidon Dokumentation) in DMP bereits wahrgenommen wahrgenommen Dokumentat
 |  | | | |
 | KHK | Regelmäßiges sportliches Training | Nein | Ja |
 
-Dokumentation) wahrgenommen Netzhautuntersuchung seit der letzten Dokumentation das Diabetische Fußsyndrom qualifizierten Einrichtung Medikation
+Dokumentation) wahrgenommen Netzhautuntersuchung seit der letzten Dokumentation das Diabetische Fußsyndrom qualifizierten Einrichtung Medikation 
 
 
 ---
 
-| **2.2.1** |  |
+| 2.2.1 |  |
 |---|---|
 |  | **Prüffall-ID** |
 | 9514 | **Testziel** |
@@ -680,7 +618,7 @@ Dokumentation) wahrgenommen Netzhautuntersuchung seit der letzten Dokumentation 
 | **Prüfunterlagen** | Screenshots / Videodateien und ggf. Erläuterungen, wie das Softwaresyst   Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten  1.1. 2.**Prüffall-ID  2.2 2.2.1** Dokumentieren Sie durch Video(s) die Eingaben   Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
 | Dokumentieren Sie durch Video(s) die Eingaben |  |
 
-| **INDIKATIONSÜBERGREIFENDE DATEN** | | |
+| INDIKATIONSÜBERGREIFENDE DATEN | | |
 |---|---|---|
 | **Administrative Daten** | **Erstdokumentation** | **Aktion  Screenshot** |
 | DMP-Fallnummer | 9514 |  |
@@ -707,13 +645,13 @@ PRÜFFÄLLE SYSTEMREAKTION Prüffall 9514  bzw. Prüfung, dass manche Fehleingab
 
 ---
 
-| **Behandlungsplanung** | | |
+| Behandlungsplanung | | |
 |---|---|---|
 | Vom Patienten gewünschte Informationsangebote der |  |  |
 | Dokumentationsintervall | Quartalsweise |  |
 | Datum der Erstellung | 06.07.2023 06.10.2023 |  |
 
-| **INDIKATIONSPEZIFISCHE DATEN** | | |
+| INDIKATIONSPEZIFISCHE DATEN | | |
 |---|---|---|
 | **Anamnese- und Befunddaten** | **Erstdokumentation** | **Aktion  Screenshot** |
 | In den letzten 4 Wochen: Häufigkeit von Asthma | Wöchentlich | Nr. 5 |
@@ -756,7 +694,7 @@ Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstd
 
 ---
 
-| 4. | **INDIKATIONSÜBERGREIFENDE DATEN** |
+| 4. | INDIKATIONSÜBERGREIFENDE DATEN |
 |---|---|
 | **Anamnese- und Befunddaten** | **Verlaufsdokumentation** |
 | **Aktion** |  |
@@ -764,7 +702,7 @@ Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstd
 | 1 mal wöchentlich | In den letzten 4 Wochen: Einschränkung von Aktivitäten im  Nein  Aktueller FEV1-Wert (mindestens alle 12 Monate) Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche **Verlaufsdokumentation** 4. In den letzten 4 Wochen: Asthmabedingte Störung des  Ja    Aktueller FEV1-Wert (mindestens alle 12 Monate) |
 | In den letzten 4 Wochen: Asthmabedingte Störung des | Ja |
 
-| **INDIKATIONSÜBERGREIFENDE DATEN** | | |
+| INDIKATIONSÜBERGREIFENDE DATEN | | |
 |---|---|---|
 | **Anamnese- und Befunddaten** | **Verlaufsdokumentation** | **Aktion  Screenshot** |
 | In den letzten 4 Wochen: Häufigkeit von Asthma | 2 mal wöchentlich |  |
@@ -789,7 +727,8 @@ Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstd
 | Schriftlicher Selbstmanagementplan | Ja |  |
 | Therapieanpassung | Keine |  |
 
-Anlegen einer Verlaufsdokumentation am 06.10.2023 06.12 -Symptomen tagsüber  Bedarfsmedikation wegen Asthma bronchiale Nachtschlafes Relevante Ereignisse Behandlung wegen Asthma bronchiale seit der letzten Dokumentation .2023: Alltag 009,9 Prozent des Nr. 17 Sollwertes möglich
+Anlegen einer Verlaufsdokumentation am 06.10.2023 06.12 -Symptomen tagsüber  Bedarfsmedikation wegen Asthma bronchiale Nachtschlafes Relevante Ereignisse Behandlung wegen Asthma bronchiale seit der letzten Dokumentation .2023: Alltag 009,9 Prozent des Nr. 17 Sollwertes möglich 
+
 
 ---
 
@@ -798,10 +737,10 @@ Anlegen einer Verlaufsdokumentation am 06.10.2023 06.12 -Symptomen tagsüber  Be
 | **Prüffall-ID** | 9515 |
 | **Testziel** | Kontrolle einer Erstdokumentation mit fehlerhafter Einschreibung |
 | **Voraussetzung** | sein, COPD zu dokumentieren **Prüfunterlagen** |
-| Screenshots / Videodateien und ggf. | **Hinweis ** Nach der Fehlermeldung 20 muss das Geburtsdatum auf den 23.10.1982 geändert  2.**Screenshot ** 9515 **2.2.2** 1. –   2. |
-| **Aktionen, die durch den Antragssteller durchgeführt werden:** 1. | – |
+| Screenshots / Videodateien und ggf. | **Hinweis ** Nach der Fehlermeldung 20 muss das Geburtsdatum auf den 23.10.1982 geändert  2.**Screenshot ** 9515 **2.2.2** 1. Versichertendaten 2 ) im Ersatzverfahren erfassen. 2. |
+| **Aktionen, die durch den Antragssteller durchgeführt werden:** 1. | Versichertendaten 2 |
 
-| **INDIKATIONSÜBERGREIFENDE DATEN** | | |
+| INDIKATIONSÜBERGREIFENDE DATEN | | |
 |---|---|---|
 | **Administrative Daten** | **Erstdokumentation** | **Screenshot** |
 | DMP-Fallnummer | 9515 |  |
@@ -822,7 +761,9 @@ Anlegen einer Verlaufsdokumentation am 06.10.2023 06.12 -Symptomen tagsüber  Be
 | Dokumentationsintervall | Quartalsweise |  |
 | Datum der Erstellung | 06.10.2023 |  |
 
-Prüffall 9515 Für die Erzeugung der Fehlermeldung Eingabefehler verhindert werden, um dann die Fehlermeldungen Versichertendaten: Martin Gruber (Versichertendaten 2  Ersatzverfahren) im Ersatzverfahren erfassen. Anlegen einer Erstdokumentation INDIKATIONSÜBERGREIFENDE DATEN Administrative Daten 21 muss die Software ebenfalls in der Erläuterungen, wie das Softwaresystem die 21 zu erzeugen Lage Asthma bronchiale. Keine der genannten |  |  |
+Prüffall 9515 Für die Erzeugung der Fehlermeldung Eingabefehler verhindert werden, um dann die Fehlermeldungen Versichertendaten: Martin Gruber ( Anlegen einer Erstdokumentation INDIKATIONSÜBERGREIFENDE DATEN Administrative Daten 21 muss die Software ebenfalls in der Lage Erläuterungen, wie das Softwaresystem die 21 zu erzeugen Asthma bronchiale. Keine der genannten
+
+|  |  |
 |---|---|
 | **Prüffall-ID** | 9515 |
 | **Testziel** | Kontrolle einer Erstdokumentation mit fehlerhafter Einschreibung |
@@ -845,18 +786,19 @@ Prüffall 9515 Für die Erzeugung der Fehlermeldung Eingabefehler verhindert wer
 | **Prüfunterlagen** | Screenshots und ggf. Erläuterungen zum Nachweis der korrekten |
 | **Hinweis** | Dieser Testfall ist unterteilt in drei Szenarien |
 
-\| **SZENARIEN** |
+\| SZENARIEN |
 \|---|
 \| **Szenario 1** |
-\| Es wird eine Erstdokumentation für einen noch nicht im System existierenden Patienten angelegt. Bei  vergebene DMP-Fallnummer nicht akzeptieren. |
+\| Es wird eine Erstdokumentation für einen noch nicht im System existierenden Patienten angelegt. Bei  KBV_ITA_VGEX_Anforderungskatalog_eDMP) die bereits |
 \|  |
 \| **Szenario 2** |
-\| Der Patient wechselt den Arzt, z.B. aufgrund einer Vertretungsregelung. Nach Kenntnisnahme einer  ), |
+\| Der Patient wechselt den Arzt, z.B. aufgrund einer Vertretungsregelung. Nach Kenntnisnahme einer  KBV_ITA_VGEX_Anforderungskatalog_eDMP), |
 \|  |
 \| **Szenario 3** |
 \| Die Daten werden vom Anwender für den Versand vorbereitet. Das System erzeugt eine  KBV_ITA_VGEX_Anforderungskatalog_eDMP) nachgewiesen |
 
-Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges Systemfunktionalität Angabe der DMP-Fallnummer ist eine bereits existierende Nummer (z.B. 9511) einzugeben. Das System darf entsprechend der Anforderung P1-10 (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP) die bereits entsprechenden Warnung gemäß Anforderung P1 -12 (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP dass zu diesem Patienten keine Erstdokumentation vorliegt, wird eine Verlaufsdokumentation angelegt. Hinweismeldung (Bildschirmkopie beilegen) bezüglich der Datenträgerbeschriftung und druckt einen Transportbegleitzettel aus (Bildschirmkopie oder PDF beilegen). Hier soll die Umsetzung der Anforderungen KP4-40 und KP4-41 (siehe werden.
+Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges Systemfunktionalität Angabe der DMP-Fallnummer ist eine bereits existierende Nummer (z.B. 9511) einzugeben. Das System darf entsprechend der Anforderung P1-10 (siehe vergebene DMP-Fallnummer nicht akzeptieren. entsprechenden Warnung gemäß Anforderung P1 -12 (siehe dass zu diesem Patienten keine Erstdokumentation vorliegt, wird eine Verlaufsdokumentation angelegt. Hinweismeldung (Bildschirmkopie beilegen) bezüglich der Datenträgerbeschriftung und druckt einen Transportbegleitzettel aus (Bildschirmkopie oder PDF beilegen). Hier soll die Umsetzung der Anforderungen KP4-40 und KP4-41 (siehe werden.
+
 
 ---
 
@@ -876,9 +818,7 @@ Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges Systemfun
 
 Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 
-- **2.** **Erstellen der Teilnahmeerklärung (Exemplar für die Datenstelle)** gemäß Kapitel 3 des
-
-- Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) mit den folgenden Daten:
+- **2.** **Erstellen der Teilnahmeerklärung (Exemplar für die Datenstelle)** gemäß Kapitel 3 des  Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) mit den folgenden Daten:
 
 |  |  |
 |---|---|
@@ -887,33 +827,22 @@ Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 | DMP-Fallnummer | 1010 |
 | Datum | 05.04.2023 |
 
-Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP Falls Ihr System die optionale Anforderung O7 -10 (Ausdruck des Barcodes auf der - und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
+Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP Falls Ihr System die optionale Anforderung O7 -10 (Ausdruck des Barcodes auf der - und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken. 
+
 
 ---
 
 # TESTDATENVALIDIERUNG
 
-Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können
-
-auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden. Eine Ausnahme bildet der
-
-multimorbide Fall „Prüffall 6513“.
+Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können  auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden. Eine Ausnahme bildet der  multimorbide Fall „Prüffall 6513“.
 
 Zusätzlich kann optional auch der Prüffall TDV9518 in der Testdatenvalidierung genutzt werden.
 
-Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine
-
-manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV findet nicht statt,
-
-demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der
-
-Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das ZIP-Archiv mit den Prüfunterlagen  hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
+Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV findet nicht statt,  demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das ZIP-Archiv mit den Prüfunterlagen  hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
 
 Abbildung 3: Testdatenvalidierung
 
-Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives. Beachten Sie, dass der Dateinamen
-
-des Archivs mit „**Test**_103“ beginnen muss, sonst schlägt die Validierung fehl.
+Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives. Beachten Sie, dass der Dateinamen  des Archivs mit „**Test**_103“ beginnen muss, sonst schlägt die Validierung fehl.
 
 Abbildung 4: Exemplarische Verzeichn isstruktur für die Testdatenvalidierung
 
@@ -930,10 +859,10 @@ Abbildung 4: Exemplarische Verzeichn isstruktur für die Testdatenvalidierung
 | **Prüfunterlagen** | › 1. 2. |
 | **Hinweis** |  |
 
-| **INDIKATIONSÜBERGREIFENDE DATEN** | |
+| INDIKATIONSÜBERGREIFENDE DATEN | |
 |---|---|
 | **Administrative Daten** | **Erstdokumentation** |
-| DMP-Fallnummer | TDV 9518 |
+| DMP-Fallnummer | TDV9518 |
 | Krankenhaus-IK |  |
 | Dokumentation in Vertretung erstellt |  |
 | Datum | 05.04.2022 |
@@ -950,7 +879,7 @@ Abbildung 4: Exemplarische Verzeichn isstruktur für die Testdatenvalidierung
 | Dokumentationsintervall | Quartalsweise |
 | Datum der Erstellung | 05.04.2022 |
 
-| **INDIKATIONSPEZIFISCHE DATEN** | |
+| INDIKATIONSPEZIFISCHE DATEN | |
 |---|---|
 | **Anamnese- und Befunddaten** | **Erstdokumentation** |
 | In den letzten 4 Wochen: Häufigkeit von Asthma-Symptomen | 2 mal wöchentlich |
@@ -979,7 +908,7 @@ Asthma bronchiale-Dokumentationsunterlagen Versichertendaten: Die Versichertenda
 | Schriftlicher Selbstmanagementplan | Ja |
 | Therapieanpassung | Reduktion der Medikation |
 
-Alltag wegen Asthma bronchiale Nachtschlafes
+Alltag wegen Asthma bronchiale Nachtschlafes 
 
 
 ---
@@ -988,7 +917,7 @@ Alltag wegen Asthma bronchiale Nachtschlafes
 
 ## 4.1 VERSICHERTENDATEN 1 ERSATZVERFAHREN
 
-| **PERSONALIEN** | | |
+| PERSONALIEN | | |
 |---|---|---|
 | **3100** | **Namenszusatz** | Erbprinzessin Przin |
 | **3120** | **Vorsatzwort** | von und zu der |
@@ -1011,13 +940,14 @@ Alltag wegen Asthma bronchiale Nachtschlafes
 | **4131** | **BesonderePersonengruppe** | 00 |
 | **4132** | **DMP_Kennzeichnung** | 06 |
 
-Federmannssohn Plaetzchen
+Federmannssohn Plaetzchen  
+
 
 ---
 
 ## 4.2 VERSICHERTENDATEN 2 ERSATZVERFAHREN
 
-| **PERSONALIEN** | | |
+| PERSONALIEN | | |
 |---|---|---|
 | **3100** | **Namenszusatz** |  |
 | **3120** | **Vorsatzwort** |  |
@@ -1040,7 +970,8 @@ Federmannssohn Plaetzchen
 | **4131** | **BesonderePersonengruppe** | 00 |
 | **4132** | **DMP_Kennzeichnung** | 06 |
 
-und Georg-von-Groscurth-Plaetzchen
+und Georg-von-Groscurth-Plaetzchen  
+
 
 ---
 
@@ -1077,6 +1008,4 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Kassenärztliche Bundesvereinigung
-
-Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)

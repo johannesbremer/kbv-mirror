@@ -16,7 +16,7 @@
 
 226 **CGM MEDICO**
 
-439 **e RIS**
+439 **eRIS**
 
 314 **IMedOne**
 

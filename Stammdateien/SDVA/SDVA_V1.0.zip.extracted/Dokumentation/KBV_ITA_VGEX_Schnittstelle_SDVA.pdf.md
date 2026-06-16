@@ -7,13 +7,12 @@
 |  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  21. APRIL 2021   VERSION: 1.0   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
-# SCHNITTSTELLENBESCHREIBUNG SDVA  (VERSCHLÜSSELUNGSANLEITUNG-
-
-# STAMMDATEI)
+# SCHNITTSTELLENBESCHREIBUNG SDVA  (VERSCHLÜSSELUNGSANLEITUNG- STAMMDATEI)
 
 ## [KBV_ITA_VGEX_SCHNITTSTELLE_SDVA]
 
-BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
+BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
+
 
 ---
 
@@ -23,7 +22,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **7**
 
-| **2** | **KONVENTIONEN** | **7** |
+| 2 | KONVENTIONEN | 7 |
 |---|---|---|
 | 2.1 | Zeichensatz | 7 |
 | 2.2 | Namenspace | 7 |
@@ -193,7 +192,6 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **26**
 
-
 ---
 
 ## ABBILDUNGSVERZEICHNIS
@@ -243,7 +241,6 @@ ABBILDUNG 21: BR ...............................................................
 ABBILDUNG 22: TITEL ....................................................................................................................................................... 25
 
 ABBILDUNG 23: NR ........................................................................................................................................................... 25
-
 
 ---
 
@@ -324,16 +321,17 @@ ENT-SYMBOLE ....................................................................
 
 DOKUMENTENHISTORIE
 
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.0 | 20.04.2021 | KBV | Erweiterung der Datenstruktur zur |  | **alle** |
 | 1.0 | 01.02.2021 | KBV | Initiale Erstellung |  | **alle** |
 
-Abbildung von Kapitelstruktur, Absätzen, Tabellen, Listenelementen und der jährlichen Änderung der ICD- Stammdatei
+Abbildung von Kapitelstruktur, Absätzen, Tabellen, Listenelementen und der jährlichen Änderung der ICD- Stammdatei #
+
 
 ---
 
-| **BESCHREIBUNG DER BESTANDTEILE DES DATEINAMENS** | |
+| BESCHREIBUNG DER BESTANDTEILE DES DATEINAMENS | |
 |---|---|
 | **Bestandteile des** | **Beschreibung** |
 | - | Trennungszeichen zwischen den Namenselementen |
@@ -379,7 +377,7 @@ Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, dere
 
 Es existieren verschiedene Kardinalitäten:
 
-| **BESCHREIBUNG DER KARDINALITÄTEN** | | |
+| BESCHREIBUNG DER KARDINALITÄTEN | | |
 |---|---|---|
 | **Kardinalität** | **Symbol** | **Beschreibung** |
 | 0..1 |  | Optionales Element  Element wird als Rechteck mit gestrichelter Linie |
@@ -392,7 +390,7 @@ Tabelle 2: Beschreibung der Kardinalitäten
 
 Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente miteinander verknüpft.  In diesem Dokument werden zwei Strukturelemente verwendet: ***<xs:choice>*** und ***<xs:sequence>***
 
-| **BESCHREIBUNG DER STRUKTURELEMENTE-SYMBOLE** | |
+| BESCHREIBUNG DER STRUKTURELEMENTE-SYMBOLE | |
 |---|---|
 | **Symbol** | **Beschreibung** |
 |  | Das Strukturelement |
@@ -400,7 +398,8 @@ Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mit
 
 Tabelle 3: Beschreibung der Strukturelement-Symbole
 
-dargestellt. Es kann kein oder einmal vorkommen. genau einmal vorkommen. durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. <xs:choice> zeigt an, dass zwischen verschiedenen Kindelementen genau eins ausgewählt werden muss. <xs:sequence>  beschreibt, dass die Kindelemente in festgelegter Reihenfolge aufgeführt werden müssen.
+dargestellt. Es kann kein oder einmal vorkommen. genau einmal vorkommen. durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. <xs:choice> zeigt an, dass zwischen verschiedenen Kindelementen genau eins ausgewählt werden muss. <xs:sequence>  beschreibt, dass die Kindelemente in festgelegter Reihenfolge aufgeführt werden müssen. 
+
 
 ---
 
@@ -408,7 +407,7 @@ dargestellt. Es kann kein oder einmal vorkommen. genau einmal vorkommen. durch d
 
 Es werden außerdem folgende Diagramm-Symbole verwendet:
 
-| **BESCHREIBUNG SONSTIGER SYMBOLE** | |
+| BESCHREIBUNG SONSTIGER SYMBOLE | |
 |---|---|
 | **Symbol** | **Beschreibung** |
 |  | Element mit Kindelementen  Ein Element mit einem oder mehreren Kindelementen wird durch ein |
@@ -418,7 +417,8 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 Tabelle 4: Beschreibung sonstiger Symbole
 
-Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches mehrere Elemente zusammenfasst.
+Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches mehrere Elemente zusammenfasst. 
+
 
 ---
 
@@ -449,7 +449,8 @@ Der Header ist ein Pflichtelement, hier befinden sich die Metadaten zu den im bo
 
 Der Namensraum für die ehd-„Schnittstelle ist zwingend vorgeschrieben: ***urn:ehd/001***
 
-xmlns="urn:ehd/sdva/001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ehd_version="...">
+xmlns="urn:ehd/sdva/001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ehd_version="..."> 
+
 
 ---
 
@@ -459,9 +460,7 @@ Für die Beschreibung der Inhalte und deren Ausprägungen der header -Elemente w
 
 # 5 BODY (INHALTSDATEN)
 
-Das ***<body*** Element beinhaltet alle Stammdaten in einer strukturierten Hierarchie von Kindelementen. Die
-
-Hierarchieebenen gliedern sich in Verschlüsselungsanleitungen und die Informationen zu den wesentlichen
+Das ***<body*** Element beinhaltet alle Stammdaten in einer strukturierten Hierarchie von Kindelementen. Die  Hierarchieebenen gliedern sich in Verschlüsselungsanleitungen und die Informationen zu den wesentlichen
 
 Änderungen der ICD.
 
@@ -519,27 +518,28 @@ Der Coderahmen für das <haupt_zweig>- Element sieht wie folgt aus:
 
 Formel 4: XML-Code: haupt_zweig
 
-=“Anleitung zur Verschlüsselung“ Anleitung zur Verschlüsselung />
+=“Anleitung zur Verschlüsselung“ Anleitung zur Verschlüsselung /> 
+
 
 ---
 
-| **HAUPT_ZWEIG** |  |
+| HAUPT_ZWEIG |  |
 |---|---|
 | **Wert (** | Bedeutung ( |
 | 1 | Anleitung zur Verschlüsselung |
-| 2 | wesentliche jährliche Änderungen der ICD-10-GM- Daten |
+| 2 | wesentliche jährliche Änderungen Daten |
 
 ### 5.2.2 titel
 
-Siehe Kapitel 5.4.
+Siehe Kapitel 5.4
 
 ### 5.2.3 nr
 
-Siehe Kapitel 5.5.
+Siehe Kapitel 5.5
 
 ### 5.2.4 beschreibung
 
-Siehe Kapitel 5.3.
+Siehe Kapitel 5.3
 
 ### 5.2.5 hauptkapitel_liste
 
@@ -560,9 +560,8 @@ Formel 5: XML-Code: hauptkapitel_liste
 
 Das Element <hauptkapitel> stellt ein Hauptkapitel der darzustellenden Information dar. Im V-Attribut des  Elementes ist die ID der Information für eine mögliche Referenzierung von einem bestimmten ICD-10-GM- Kode in der ICD-Stammdatei auf das Hauptkapitel enthalten.
 
-Das Element <hauptkapitel> enthält immer die Kinderelemente <titel> und <nr>. Es kann die Kindelemente  <beschreibung> und <kapitel_liste> enthalten.
+DN  der ICD-10-GM-Das Element <hauptkapitel> enthält immer die Kinderelemente <titel> und <nr>. Es kann die Kindelemente  <beschreibung> und <kapitel_liste> enthalten.
 
-DN
 
 ---
 
@@ -577,15 +576,15 @@ Formel 6: XML-Code: hauptkapitel
 
 ### 5.2.7 titel
 
-Siehe Kapitel 5.4.
+Siehe Kapitel 5.4
 
 ### 5.2.8 nr
 
-Siehe Kapitel 5.5.
+Siehe Kapitel 5.5
 
 ### 5.2.9 beschreibung
 
-Siehe Kapitel 5.3.
+Siehe Kapitel 5.3
 
 ### 5.2.10 kapitel_liste
 
@@ -595,9 +594,8 @@ Das Element <kapitel_liste> enthält immer min. ein Kindelement <kapitel>.
 
 Abbildung 7: kapitel_liste
 
-Der XML-Code für ein <kapitel_liste> Element hat folgenden Aufbau:
+Was ist zu verschlüsseln?“ /> hauptkapitel>Der XML-Code für ein <kapitel_liste> Element hat folgenden Aufbau:
 
-Was ist zu verschlüsseln?“ /> hauptkapitel>
 
 ---
 
@@ -623,19 +621,18 @@ Formel 8: XML-Code: kapitel
 
 ### 5.2.12 titel
 
-Siehe Kapitel 5.4.
+Gesetzliche Bestimmungen /> _liste _listeSiehe Kapitel 5.4
 
-Gesetzliche Bestimmungen /> _liste _liste
 
 ---
 
 ### 5.2.13 nr
 
-Siehe Kapitel 5.5.
+Siehe Kapitel 5.5
 
 ### 5.2.14 beschreibung
 
-Siehe Kapitel 5.3.
+Siehe Kapitel 5.3
 
 ### 5.2.15 unterkapitel_liste
 
@@ -672,15 +669,15 @@ Formel 10: XML-Code: unterkapitel
 
 ### 5.2.17 titel
 
-Siehe Kapitel 5.4.
+Siehe Kapitel 5.4
 
 ### 5.2.18 nr
 
-Siehe Kapitel 5.5.
+Siehe Kapitel 5.5
 
 ### 5.2.19 beschreibung
 
-Siehe Kapitel 5.3.
+Siehe Kapitel 5.3
 
 ## 5.3 BESCHREIBUNG
 
@@ -690,9 +687,8 @@ Im Rahmen der Anzeige muss die tatsächliche Reihenfolge der Kindelemente zwinge
 
 Abbildung 11: beschreibung
 
-Der XML-Code für ein <beschreibung> Element hat folgenden Aufbau:
+Gesetzliche Bestimmungen /> kapitel>Der XML-Code für ein <beschreibung> Element hat folgenden Aufbau:
 
-Gesetzliche Bestimmungen /> kapitel>
 
 ---
 
@@ -711,9 +707,8 @@ Im Rahmen der Anzeige muss die tatsächliche Reihenfolge der Kindelemente zwinge
 
 Abbildung 12: div
 
-Der XML-Code für ein <div> Element hat folgenden Aufbau:
+<p>      der ICD-10-GM zu verwenden, also Kodes, die keine Subkodes mehr enthalten. Endständige       Schlüsselnummern können dreistellig, vierstellig oder fünfstellig sein. Von dieser Grundregel       der endständigen Verschlüsselung gibt es die folgenden Ausnahmen: <p>    <ul> Der XML-Code für ein <div> Element hat folgenden Aufbau:
 
-<p>      der ICD-10-GM zu verwenden, also Kodes, die keine Subkodes mehr enthalten. Endständige       Schlüsselnummern können dreistellig, vierstellig oder fünfstellig sein. Von dieser Grundregel       der endständigen Verschlüsselung gibt es die folgenden Ausnahmen: <p>    <ul>
 
 ---
 
@@ -739,9 +734,8 @@ Formel 13: XML-Code: ul
 
 Mithilfe des Elementes <li> wird ein einzelner Listeneintrag abgebildet. Die Struktur des Elementes ist an  den Standard HTML angelehnt.
 
-Es kann die Kindelemente für verschachtelte Listen <ul> und <ol> sowie die Kindelemente, <br>, <p> oder  <div> zur Strukturierung enthalten.
+<p> Grundsätzlich gilt: Zur Verschlüsselung sind die endständigen (terminalen) Schlüsselnummern      der ICD-10-GM zu verwenden, also Kodes, die keine Subkodes mehr enthalten. Endständige       Schlüsselnummern können dreistellig, vierstellig oder fünfstellig sein. Von dieser Grundregel       n: der endständigen Verschlüsselung gibt es die folgenden Ausnahme <p> In der ambulanten Versorgung (§ 295 SGB V) kann auf die fünfte Stelle verzichtet werden    <ul> fachärztlichen Versorgung für DiagnEs kann die Kindelemente für verschachtelte Listen <ul> und <ol> sowie die Kindelemente, <br>, <p> oder  <div> zur Strukturierung enthalten.
 
-<p> Grundsätzlich gilt: Zur Verschlüsselung sind die endständigen (terminalen) Schlüsselnummern      der ICD-10-GM zu verwenden, also Kodes, die keine Subkodes mehr enthalten. Endständige       Schlüsselnummern können dreistellig, vierstellig oder fünfstellig sein. Von dieser Grundregel       n: der endständigen Verschlüsselung gibt es die folgenden Ausnahme <p> In der ambulanten Versorgung (§ 295 SGB V) kann auf die fünfte Stelle verzichtet werden    <ul> fachärztlichen Versorgung für Diagn
 
 ---
 
@@ -873,9 +867,8 @@ Formel 21: XML-Code: br
 
 ## 5.4 TITEL
 
-Mit dem Element <titel> wird der Titel eines Kapitels repräsentiert. Im V-Attribut des Elementes ist der Titel  enthalten.
+ursprüngliche Terminologie der WHO-Fassung angeglichen und die Kodes, bei denen eine Divertikelkrankheit mit Perforation/Abszedierung der Kategorie Divertikulose zugeordnet war, gestrichen und auf die entsprechenden Kodes der Kategorie Divertikulitis übergeleitet. Mit dem Element <titel> wird der Titel eines Kapitels repräsentiert. Im V-Attribut des Elementes ist der Titel  enthalten.
 
-ursprüngliche Terminologie der WHO-Fassung angeglichen und die Kodes, bei denen eine Divertikelkrankheit mit Perforation/Abszedierung der Kategorie Divertikulose zugeordnet war, gestrichen und auf die entsprechenden Kodes der Kategorie Divertikulitis übergeleitet.
 
 ---
 
@@ -903,9 +896,8 @@ Formel 23: XML-Code: nr
 
 > Element hat folgenden Aufbau:
 
-Attribut des Elementes ist
+Divertikelkrankheit des Darmes /> Attribut des Elementes ist
 
-Divertikelkrankheit des Darmes />
 
 ---
 
@@ -922,4 +914,4 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)

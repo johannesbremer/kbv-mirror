@@ -36,7 +36,7 @@
 
 **DS-WIN-PLUS (DS-WIN-MED)**
 
-**Z 1**
+**Z1**
 
 **Medi10**
 

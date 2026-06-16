@@ -1,13 +1,8 @@
-# TECHNISCH-ORGANISATORISCHE MAßNAHMEN FÜR DIE SCHNITTSTELLE FÜR DRITTE GEMÄß § 370A ABS.
-
-# 2 SGB V
+# TECHNISCH-ORGANISATORISCHE MAßNAHMEN FÜR DIE SCHNITTSTELLE FÜR DRITTE GEMÄß § 370A ABS.  2 SGB V
 
 **[KBV_ITV_FMEX_TOM_370a**
 
-Die Technisch-Organisatorische Maßnahmen (TOMs) zur Nutzung des elektronischen Systems zur Vermittlung von Behandlungsterminen und telemedizinischen  Leistungen durch Nutzer der Schnittstellesind im Rahmen der Zertifizierung der Schnittstelle für Dritte gemäß § 370A Abs. 2 SGB V auszufüllen, einzureichen und
-
-werden im Zertifizierungsverfahren geprüft.
-
+Die Technisch-Organisatorische Maßnahmen (TOMs) zur Nutzung des elektronischen Systems zur Vermittlung von Behandlungsterminen und telemedizinischen  Leistungen durch Nutzer der Schnittstellesind im Rahmen der Zertifizierung der Schnittstelle für Dritte gemäß § 370A Abs. 2 SGB V auszufüllen, einzureichen und  werden im Zertifizierungsverfahren geprüft.
 
 ---
 
@@ -51,24 +46,23 @@ werden im Zertifizierungsverfahren geprüft.
 
 **10 REGELMÄßIGEN ÜBERPRÜFUNG, BEWERTUNG UND EVALUIERUNG DER WIRKSAMKEIT DER TECHNISCH-ORGANISATORISCHEN MAßNAHMEN 42**
 
-
 ---
 
 1 MAßNAHMEN ZUM ZUTRITT ZU SYSTEMEN
 
-|  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | | | | | | | | | | | | | |
+|  | FRAGE | SCHUTZ- STUFE | MINDESTANFORDERUNG | ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES AUFTRAGNEHMERS | | | | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **1.1** | Werden personenbezogene Daten  ☐ ja   ☐ nein | A |  |  | | | | | | | | | | | | | | | | | | | |
-|  | **Wenn 1.1 nein: **In diesem Fall müssen  beantwortet werden die Fragen ab 2. Auch die Fragen zu 6 |  |  |  | | | | | | | | | | | | | | | | | | | |
+|  | **Wenn 1.1 nein: ** beantwortet werden die Fragen ab 2. Auch die Fragen zu 6 |  |  |  | | | | | | | | | | | | | | | | | | | |
 | **1.2** | Standort(e) an denen der  bitte angeben | B | Der Standort muss in   • • • • |  |  |  |  |  |  |  |  |  | | | | | | | | | | | |
 |  | | | | | | | | | | | | | | | | | | | | | | | |
 |  | ja   A |  |  |  | | | | | | | | | | | | | | | | | | | |
 |  |  |  | **1.2** |  | | | | | | | | | | | | | | | | | | | |
 | B |  |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  | **MINDESTANFORDERUNG  ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ | ☐ | In diesem Fall müssen | beantwortet werden | • |  |  |  | | | | | | | | | | | | | | | |
+|  | **MINDESTANFORDERUNG  ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ | ☐ | **nein:** | beantwortet werden | • |  |  |  | | | | | | | | | | | | | | | |
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | |
 |  | | | | | | | | | | | | | | | | | | | | | | | |
-|  | nein   **Wenn 1.1 nein: ** |  |  |  | | | | | | | | | | | | | | | | | | | |
+|  | nein   **Wenn ** |  |  |  | | | | | | | | | | | | | | | | | | | |
 |  | Der Standort muss in | • |  |  | | | | | | | | | | | | | | | | | | | |
 | • | **FRAGE  SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER** | **MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | |
@@ -82,14 +76,14 @@ werden im Zertifizierungsverfahren geprüft.
 |  | Werden personenbezogene Daten |  |  |  | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  | Standort(e) an denen der | | | | | | | | | | | | | | | | | | | |
 |  | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER ** ☐ beantwortet werden | • |  |  | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | • |  |  | **FRAGE** |  |  |  | **Wenn 1.1 nein:** |  |  | **MINDESTANFORDERUNG  ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER ** bitte angeben | Der Standort muss in |  |  |  | •**MAßNAHMEN DES AUFTRAGNEHMERS** |  |  |  |
+|  |  |  |  |  | • |  |  | **FRAGE** |  |  |  | **Wenn** | **1.1** |  | **MINDESTANFORDERUNG  ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER ** bitte angeben | Der Standort muss in |  |  |  | •**MAßNAHMEN DES AUFTRAGNEHMERS** |  |  |  |
 | **SCHUTZ- STUFE  1.1** |  |  | ja |  | nein |  | A | **1.1** | | | | | | | | | | | | | | | |
 
-Serverräumen oder Rechenzentren (zwischen-)gespeichert oder weitergeleitet, die von dem Auftragnehmer verantwortet werden? die weiteren Fragen zu 1 nicht , sondern sogleich und 7 entfallen. Auftragnehmer die Systeme  betreibt: der EU,  des Europäischen Wirtschaftsraums, der Schweiz, oder  in einem Drittstaat nur, sofern ein Angemessenheitsbeschluss gemäß Artikel 45 DSGVO vorliegt und zusätzlich die sich aus dem Angemessenheitsbeschluss ergebenden Voraussetzungen (wie zum Beispiel erforderliche Zertifizierungen) vorliegen,
+Serverräumen oder Rechenzentren (zwischen-)gespeichert oder weitergeleitet, die von dem Auftragnehmer verantwortet werden? In diesem Fall müssen die weiteren Fragen zu 1 nicht , sondern sogleich und 7 entfallen. Auftragnehmer die Systeme  betreibt: der EU,  des Europäischen Wirtschaftsraums, der Schweiz, oder  in einem Drittstaat nur, sofern ein Angemessenheitsbeschluss gemäß Artikel 45 DSGVO vorliegt und zusätzlich die sich aus dem Angemessenheitsbeschluss ergebenden Voraussetzungen (wie zum Beispiel erforderliche Zertifizierungen) vorliegen,
 
 ---
 
-|  |  |  | **Wenn 1.5 nein:** | Wie sind die Fenster | | | | | | | | | | | | | | | | | | | |
+|  |  |  | Wenn | 1.5 nein: | | | | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  | bitte angeben  Sind die personenbezogenen Daten auf  B | nein |  | B | | | | | | | | | | | | | | | | | | | |
 |  | EN 1627-1630:11 erfüllen. | **1.4** |  |  | | | | | | | | | | | | | | | | | | | |
@@ -98,60 +92,60 @@ Serverräumen oder Rechenzentren (zwischen-)gespeichert oder weitergeleitet, die
 | **1.3** | Sind die personenbezogenen Daten auf  ☐ ja ☐ nein | B |  |  | | | | | | | | | | | | | | | | | | | |
 | **1.4** | Aus welchem Material bestehen die  bitte angeben | B | Alle Bauelemente der Gebäudehülle |  | | | | | | | | | | | | | | | | | | | |
 | **1.5** | Sind Serverräume fensterlos?  ☐ ja ☐ nein | B |  |  | | | | | | | | | | | | | | | | | | | |
-| **1.6** | **Wenn 1.5 nein:** Wie sind die Fenster  bitte angeben | B  B | EN 1627-1630:11 erfüllen. |  |  |  |  | Sind Serverräume / RZ mittels einer | | | | | | | | | | | | | | | |
+| **1.6** | **Wenn 1.5 nein:** bitte angeben | B  B | EN 1627-1630:11 erfüllen. |  |  |  |  | Sind Serverräume / RZ mittels einer | | | | | | | | | | | | | | | |
 | ☐ | ☐ | ☐ ☐ |  |  | | | | | | | | | | | | | | | | | | | |
 |  | | | | | | | | | | | | | | | | | | | | | | | |
 |  | ja**1.4** |  |  | Aus welchem Material bestehen die | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  | nein | | | | | | | | | | | | | | | | | | | |
-|  |  | **Wenn 1.5 nein:** |  | Wie sind die Fenster | | | | | | | | | | | | | | | | | | | |
+|  |  | **Wenn** | **1.5** | **nein:** | | | | | | | | | | | | | | | | | | | |
 |  | **STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER** | **MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | | | | | | | | | | | | | |
 | B | Einbruchmeldeanlage muss vorhanden |  |  | **FRAGE  SCHUTZ-** | | | | | | | | | | | | | | | | | | | |
 | liegen. **STUFE  MINDESTANFORDERUNG  ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER** | | | | | | | | | | | | | | | | | | | | | | | |
 |  | **MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ |  |  |  | | | | | | | | | | | | | | | | | | | |
 |  | **1.5** |  |  | Sind Serverräume fensterlos? | | | | | | | | | | | | | | | | | | | |
-|  | ☐**1.6** ☐ | **Wenn 1.5 nein:** |  | Wie sind die Fenster | | | | | | | | | | | | | | | | | | | |
+|  | ☐**1.6** ☐ | **Wenn** | **1.5** | **nein:** | | | | | | | | | | | | | | | | | | | |
 |  |  | Sind Serverräume / RZ mittels einer |  | ja |  | nein B |  |  | | | | | | | | | | | | | | | |
 | **FRAGE** | **SCHUTZ-** | **STUFE  MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER** | **MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ | | | | | | | | | | | | | | | | | | | |
 |  | ☐ ☐ |  | B |  | | | | | | | | | | | | | | | | | | | |
 |  | ☐ bitte angeben  ☐ |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  | bitte angeben |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  | B | Einbruchmeldeanlage muss vorhanden | **1.6** |  |  |  |  |  | ja | B |  |  |  |  | **Wenn 1.5 nein:** |  |  |  |  | Wie sind die Fenster   nein | B |  |  |
+|  | **1.5** bitte angeben |  |  |  | | | | | | | | | | | | | | | | | | | |
+|  | B | Einbruchmeldeanlage muss vorhanden | **1.6** |  |  |  |  |  | ja | B |  |  |  |  | **Wenn 1.5** |  |  |  |  | **nein:**  nein | B |  |  |
 |  | **1.3** |  | Sind die personenbezogenen Daten auf |  | ja |  | nein | B **1.3** | | | | | | | | | | | | | | | |
 
-Einbruchmeldeanlage (EMA) alarmgesichert? sein. mehr als einem System je Standort verteilt (z. B. für Backup / Datenreplikation / Nutzung von Cloud- Dienstleistungen)? Zugangstüren zu den Serverräumen (Stahl oder sonstiges Material)? müssen mindestens RC 2 gemäß DIN vor Einbruch geschützt? müssen mindestens RC 2 gemäß DIN
+Einbruchmeldeanlage (EMA) alarmgesichert? sein. mehr als einem System je Standort verteilt (z. B. für Backup / Datenreplikation / Nutzung von Cloud- Dienstleistungen)? Zugangstüren zu den Serverräumen (Stahl oder sonstiges Material)? müssen mindestens RC 2 gemäß DIN  Wie sind die Fenster vor Einbruch geschützt? müssen mindestens RC 2 gemäß DIN
 
 ---
 
-| **Wenn 1.9 ja:** |  | Wie lange werden die  bitte angeben | B | Die Videoaufzeichnungen müssen | | | | | | | | | | | | | | | | | | | |
+| Wenn | 1.9 | ja: bitte angeben | B | Die Videoaufzeichnungen müssen | | | | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  |  | beauftragter Wachdienst |  | | | | | | | | | | | | | | | | | | | |
+|  | **1.7** |  | beauftragter Wachdienst |  | | | | | | | | | | | | | | | | | | | |
 |  | Leiter IT | Sonstiges: bitte angeben |  | C | | | | | | | | | | | | | | | | | | | |
 |  |  |  | Sind Serverräume / RZ  B **1.11 1.10** A |  |  |  | Existiert ein Prozess zur Vergabe von | Ein definierter Freigabeprozess ist |  | **STUFE** |  | **1.12** | | | | | | | | | | | |
 |  | | | | | | | | | | | | | | | | | | | | | | | |
-|  | **Wenn 1.7 ja: ** |  |  | Administrator | | | | | | | | | | | | | | | | | | | |
+|  | **Wenn ** |  |  | Administrator | | | | | | | | | | | | | | | | | | | |
 | Sonstiges: bitte angeben |  |  |  |  | | | | | | | | | | | | | | | | | | | |
 |  | **FRAGE  SCHUTZ-** |  |  |  | | | | | | | | | | | | | | | | | | | |
 |  | B  Die Videoaufzeichnungen müssen |  |  |  | **1.11** | Wie viele Personen haben Zutritt zu  bitte angeben | B |  | | | | | | | | | | | | | | | |
 |  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | | | | | | | | | | | | | |
 | ☐ nein | | | | | | | | | | | | | | | | | | | | | | | |
-| **1.8** | **Wenn 1.7 ja: **Wer wird informiert,  ☐ beauftragter Wachdienst  ☐ Administrator  ☐ Leiter IT  ☐ Sonstiges: bitte angeben | C | Eine Alarmaufschaltung ist  Mindestens eine der zu alarmierenden |  | | | | | | | | | | | | | | | | | | | |
+| **1.8** | **Wenn 1.7 ja: ** ☐ beauftragter Wachdienst  ☐ Administrator  ☐ Leiter IT  ☐ Sonstiges: bitte angeben | C | Eine Alarmaufschaltung ist  Mindestens eine der zu alarmierenden |  | | | | | | | | | | | | | | | | | | | |
 | **1.9** | Sind Serverräume / RZ  ☐ ja  ☐ nein | B | Eine Videoüberwachung ist |  | | | | | | | | | | | | | | | | | | | |
-| **1.10** | **Wenn 1.9 ja:** Wie lange werden die  bitte angeben | B | Die Videoaufzeichnungen müssen  personengebunden vergeben werden. |  | | | | | | | | | | | | | | | | | | | |
+| **1.10** | **Wenn 1.9 ja:** bitte angeben | B | Die Videoaufzeichnungen müssen  personengebunden vergeben werden. |  | | | | | | | | | | | | | | | | | | | |
 | **1.12** | Existiert ein Prozess zur Vergabe von | A | Ein definierter Freigabeprozess ist |  | | | | | | | | | | | | | | | | | | | |
 |  |  | **1.12** |  |  | | | | | | | | | | | | | | | | | | | |
 | Existiert ein Prozess zur Vergabe von  A  Ein definierter Freigabeprozess ist **1.8** | | | | | | | | | | | | | | | | | | | | | | | |
-| Wer wird informiert, | Administrator |  | C | Eine Alarmaufschaltung ist | | | | | | | | | | | | | | | | | | | |
+| **ja:** | Administrator |  | C | Eine Alarmaufschaltung ist | | | | | | | | | | | | | | | | | | | |
 |  | Sind Serverräume / RZ | ja |  |  | | | | | | | | | | | | | | | | | | | |
-|  | **1.10**  **FRAGE **  Wie lange werden die | B | Die Videoaufzeichnungen müssen |  | | | | | | | | | | | | | | | | | | | |
+|  | **1.10**  **FRAGE   ja:** | B | Die Videoaufzeichnungen müssen |  | | | | | | | | | | | | | | | | | | | |
 | **1.11** | Wie viele Personen haben Zutritt zu  bitte angeben  B  personengebunden vergeben werden. |  |  |  |  | Eine Videoüberwachung ist |  |  | | | | | | | | | | | | | | | |
 |  |  | Existiert ein Prozess zur Vergabe von  A | Ein definierter Freigabeprozess ist |  | | | | | | | | | | | | | | | | | | | |
-|  | **1.8**  **FRAGE ** Wer wird informiert, | beauftragter Wachdienst |  |  | | | | | | | | | | | | | | | | | | | |
+|  | **1.8**  **FRAGE   ja:** | beauftragter Wachdienst |  |  | | | | | | | | | | | | | | | | | | | |
 |  | Mindestens eine der zu alarmierenden **SCHUTZ- STUFE** | **1.9** |  |  | | | | | | | | | | | | | | | | | | | |
-| **Wenn 1.9 ja:** | Die Videoaufzeichnungen müssen **MINDESTANFORDERUNG  ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER** | **1.11** |  |  | | | | | | | | | | | | | | | | | | | |
-| personengebunden vergeben werden. |  |  | **1.12** |  | **1.10** |  |  | **Wenn 1.9 ja:** | **Wenn 1.7 ja:** | Administrator |  | Leiter IT |  | Mindestens eine der zu alarmierenden | B **1.9** Die Videoaufzeichnungen müssen | Sind Serverräume / RZ |  | ja | nein | B |  |  |  |
-| Wie lange werden die   nein  bitte angeben |  |  |  |  | **Wenn 1.7 ja:** | Wer wird informiert, | beauftragter Wachdienst | nein **1.8** | | | | | | | | | | | | | | | |
+| **Wenn** | Die Videoaufzeichnungen müssen **MINDESTANFORDERUNG  ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER** | **1.11** |  |  | | | | | | | | | | | | | | | | | | | |
+| personengebunden vergeben werden. |  |  | **1.12** |  | **1.10** |  |  | **Wenn 1.9** | **Wenn** | Administrator |  | Leiter IT |  | Mindestens eine der zu alarmierenden | B **1.9** Die Videoaufzeichnungen müssen | Sind Serverräume / RZ |  | ja | nein | B |  |  |  |
+| **ja:**  nein  bitte angeben |  |  |  |  | **Wenn 1.7** | **ja:** | beauftragter Wachdienst | nein **1.8** | | | | | | | | | | | | | | | |
 
-wenn die EMA auslöst? Mehrfachantworten möglich! videoüberwacht? Bilddaten gespeichert? den Serverräumen und welche Funktionen haben diese inne? Zutrittsberechtigungen bei der Neueinstellung und beim Ausscheiden verpflichtend.  Stellen muss 24/7 erreichbar sein und reagieren. verpflichtend. mindestens 24 h vorgehalten werden. Nur ausgewählte, berechtigte Personen dürfen Zutritt erlangen. Die Zutrittsberechtigung darf nur erforderlich.
+Wer wird informiert, wenn die EMA auslöst? Mehrfachantworten möglich! videoüberwacht?  Wie lange werden die Bilddaten gespeichert? den Serverräumen und welche Funktionen haben diese inne? Zutrittsberechtigungen bei der Neueinstellung und beim Ausscheiden verpflichtend.  Stellen muss 24/7 erreichbar sein und reagieren. verpflichtend. mindestens 24 h vorgehalten werden. Nur ausgewählte, berechtigte Personen dürfen Zutritt erlangen. Die Zutrittsberechtigung darf nur erforderlich.
 
 ---
 
@@ -159,98 +153,98 @@ wenn die EMA auslöst? Mehrfachantworten möglich! videoüberwacht? Bilddaten ge
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | |
 |  |  |  | B | Ein elektronisches Schließsystem ist | | | | | | | | | | | | | | | | | | | |
-|  | **Wenn 1.13 ja:** |  | Welche Zutrittstechnik  Charakteristika) sind für den Zutritt **1.16 Wenn 1.13 ja:** ☐ |  | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER** | **MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ | ☐ ☐ |  | B | **FRAGE** | **SCHUTZ-** | | | | | | | | | | | |
+|  | **Wenn** | **1.13** | **ja:** Mindestens zwei aus drei **1.16 Wenn ** ☐ |  | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER** | **MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ | ☐ ☐ |  | B | **FRAGE** | **SCHUTZ-** | | | | | | | | | | | |
 | von Mitarbeitenden bzw. bei | | | | | | | | | | | | | | | | | | | | | | | |
 |  | ☐ ☐ |  |  | Sind Serverräume mit einem | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  | **1.14** | | | | | | | | | | | | | | | | | | | |
-|  | ☐ |  |  |  | | | | | | | | | | | | | | | | | | | |
-| ja | B |  |  |  | **1.16** | **Wenn 1.15 ja:** | Wie lange werden die | B | | | | | | | | | | | | | | | |
+| **1.13** | ☐ |  |  |  | | | | | | | | | | | | | | | | | | | |
+| ja | B |  |  |  | **1.16** | **Wenn 1.15** | **ja:** | B | | | | | | | | | | | | | | | |
 | ☐ | ☐ |  |  |  | | | | | | | | | | | | | | | | | | | |
 |  | | | | | | | | | | | | | | | | | | | | | | | |
 | Sonstige Vergabeweise: bitte | **1.13** Sind Serverräume mit einem | Ein elektronisches Schließsystem ist |  |  | | | | | | | | | | | | | | | | | | | |
-|  | Welche Zutrittstechnik  B |  |  |  | | | | | | | | | | | | | | | | | | | |
-| **Wenn 1.13 ja:** | nein | B | bitte angeben |  | | | | | | | | | | | | | | | | | | | |
+|  | **ja:** B |  |  |  | | | | | | | | | | | | | | | | | | | |
+| **Wenn** | nein | B | bitte angeben |  | | | | | | | | | | | | | | | | | | | |
 | **SCHUTZ-** | ☐ | ☐ | ☐ | ☐ | | | | | | | | | | | | | | | | | | | |
 |  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | | | | | | | | | | | | | |
 | von Mitarbeitenden bzw. bei  ☐ definierter Freigabeprozess  ☐ kein definierter Freigabeprozess, auf  ☐ Sonstige Vergabeweise: bitte | | | | | | | | | | | | | | | | | | | | | | | |
 | **1.13** | Sind Serverräume mit einem  ☐ ja  ☐ nein | B | Ein elektronisches Schließsystem ist |  | | | | | | | | | | | | | | | | | | | |
-| **1.14** | **Wenn 1.13 ja:** Welche Zutrittstechnik  bitte angeben | B | Charakteristika) sind für den Zutritt |  | | | | | | | | | | | | | | | | | | | |
-| **1.15** | **Wenn 1.13 ja:** Werden die Zutritte zu  ☐ ja  ☐ nein | B |  |  | | | | | | | | | | | | | | | | | | | |
-| **1.16** | **Wenn 1.15 ja:** Wie lange werden die  bitte angeben | B |  |  | Charakteristika) sind für den Zutritt | **1.15** |  |  | | | | | | | | | | | | | | | |
+| **1.14** | **Wenn 1.13 ja:** bitte angeben | B | Mindestens zwei aus drei |  | | | | | | | | | | | | | | | | | | | |
+| **1.15** | **Wenn 1.13 ja:** ☐ ja  ☐ nein | B |  |  | | | | | | | | | | | | | | | | | | | |
+| **1.16** | **Wenn 1.15 ja:** bitte angeben | B |  |  | Mindestens zwei aus drei | **1.15** |  |  | | | | | | | | | | | | | | | |
 | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER** | **MAßNAHMEN DES AUFTRAGNEHMERS** | ☐ ☐ | ☐ | ☐ ☐ | | | | | | | | | | | | | | | | | | | |
 |  | Sonstige Vergabeweise: bitte  ☐ ☐**1.13** |  |  |  | | | | | | | | | | | | | | | | | | | |
 | nein | **1.14** |  |  |  | | | | | | | | | | | | | | | | | | | |
 |  |  | **1.16** |  |  | | | | | | | | | | | | | | | | | | | |
-| bitte angeben |  | **FRAGE** | **SCHUTZ-**  ja | **STUFE** | **Wenn 1.13 ja:** |  | Werden die Zutritte zu |  |  | Sind Serverräume mit einem | ja |  |  |  | **1.14** B   **Wenn 1.13 ja:** | Welche Zutrittstechnik | bitte angeben | B |  |  |  |  |  |
+| bitte angeben |  | **FRAGE** | **SCHUTZ-**  ja | **STUFE** | **Wenn** | **1.13** | **ja:** |  |  | Sind Serverräume mit einem | ja |  |  |  | **1.14** B   **Wenn** | **ja:** | bitte angeben | B |  |  |  |  |  |
 | nein |  |  |  |  |  | **1.13** |  | Sonstige Vergabeweise: bitte | | | | | | | | | | | | | | | |
 
-organisatorischen Veränderungen? Zuruf elektronischen Schließsystem versehen? kommt zum Einsatz? Mehrfachantworten möglich! Serverräumen protokolliert?  Zutrittsdaten gespeichert? erforderlich. Mindestens zwei aus drei Authentifizierungskomponenten (Besitz, Wissen oder biometrische erforderlich.
+organisatorischen Veränderungen? Zuruf elektronischen Schließsystem versehen?  Welche Zutrittstechnik kommt zum Einsatz? Mehrfachantworten möglich!  Werden die Zutritte zu Serverräumen protokolliert?   Wie lange werden die Zutrittsdaten gespeichert? erforderlich. Authentifizierungskomponenten (Besitz, Wissen oder biometrische Charakteristika) sind für den Zutritt erforderlich.
 
 ---
 
-| **1.20** |  |  |  | Existiert ein Pförtnerdienst / | | | | | | | | | | | | | | | | | | | |
+| 1.20 |  |  |  | Existiert ein Pförtnerdienst / | | | | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | ja |  | B |  | | | | | | | | | | | | | | | | | | | |
+|  | **1.15**  ja |  | B |  | | | | | | | | | | | | | | | | | | | |
 |  | nein |  |  |  | | | | | | | | | | | | | | | | | | | |
 |  |  |  | **1.19** B **STUFE** |  |  |  | **FRAGE  SCHUTZ-** | **MINDESTANFORDERUNG  ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER** |  | ☐ | A |  | | | | | | | | | | | |
 |  | | | | | | | | | | | | | | | | | | | | | | | |
 |  | **MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ |  |  |  | | | | | | | | | | | | | | | | | | | |
 |  | ja |  |  | nein | | | | | | | | | | | | | | | | | | | |
-|  | ☐ ☐ | bitte angeben | B |  | | | | | | | | | | | | | | | | | | | |
+|  | ☐ ☐**1.17** | bitte angeben | B |  | | | | | | | | | | | | | | | | | | | |
 |  | Existiert ein Pförtnerdienst /   ja | Werden die Serverräume neben ihrer |  | nein | B |  |  |  | | | | | | | | | | | | | | | |
 | ☐ | ☐ | ☐ ☐ | ☐ | ☐ | | | | | | | | | | | | | | | | | | | |
 |  | | | | | | | | | | | | | | | | | | | | | | | |
-| **Wenn 1.15 ja:** | nein B |  | Ist der Zutritt zu den Serverräumen |  | | | | | | | | | | | | | | | | | | | |
-| B |  |  | **Wenn 1.17 ja:** |  | | | | | | | | | | | | | | | | | | | |
+| **Wenn** | nein B |  | Ist der Zutritt zu den Serverräumen |  | | | | | | | | | | | | | | | | | | | |
+| B |  |  | **Wenn** | **1.17** | | | | | | | | | | | | | | | | | | | |
 |  | **1.20** |  | Existiert ein Pförtnerdienst / **1.21** |  | | | | | | | | | | | | | | | | | | | |
 |  | **SCHUTZ-** | **STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER** | | | | | | | | | | | | | | | | | | | |
 | Werden die Serverräume neben ihrer | A |  |  | **FRAGE** | | | | | | | | | | | | | | | | | | | |
-| **SCHUTZ- STUFE  MINDESTANFORDERUNG  Wenn 1.15 ja:** | | | | | | | | | | | | | | | | | | | | | | | |
+| **SCHUTZ- STUFE  MINDESTANFORDERUNG  Wenn** | | | | | | | | | | | | | | | | | | | | | | | |
 | nein | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES AUFTRAGNEHMERS  1.18** |  |  |  | | | | | | | | | | | | | | | | | | | |
 | nein |  |  | **1.19** |  | | | | | | | | | | | | | | | | | | | |
-| Wo werden die | ☐ ☐ |  | Existiert ein Pförtnerdienst / |  | | | | | | | | | | | | | | | | | | | |
-| B | **1.21** |  |  |  | **1.19** | **Wenn 1.17 ja:** Wo werden die  bitte angeben | B |  | | | | | | | | | | | | | | | |
+| **ja:** | ☐ ☐ |  | Existiert ein Pförtnerdienst / |  | | | | | | | | | | | | | | | | | | | |
+| B | **1.21** |  |  |  | **1.19** | **Wenn 1.17 ja:** bitte angeben | B |  | | | | | | | | | | | | | | | |
 |  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | | | | | | | | | | | | | |
-| **1.17** | **Wenn 1.15 ja:** Werden die Protokolle  ☐ ja  ☐ nein | B |  |  | | | | | | | | | | | | | | | | | | | |
+| **1.17** | **Wenn 1.15 ja:** ☐ ja  ☐ nein | B |  |  | | | | | | | | | | | | | | | | | | | |
 | **1.18** | Ist der Zutritt zu den Serverräumen  ☐ ja  ☐ nein | B |  |  | | | | | | | | | | | | | | | | | | | |
 | **1.20** | Existiert ein Pförtnerdienst /  ☐ ja  ☐ nein | B |  |  | | | | | | | | | | | | | | | | | | | |
-| **1.21** | Werden die Serverräume neben ihrer | A |  |  |  |  |  | **1.20** |  |  |  |  |  | Ist der Zutritt zu den Serverräumen | nein  B  Existiert ein Pförtnerdienst / |  |  |  |  |  | bitte angeben | B |  |
-|  |  |  |  | ja |  | nein | B | **Wenn 1.15 ja:** | | | | | | | | | | | | | | | |
+| **1.21** | Werden die Serverräume neben ihrer | A |  |  |  |  |  | **1.20** |  |  |  |  |  | Ist der Zutritt zu den Serverräumen | nein  B  Existiert ein Pförtnerdienst / |  |  |  |  | **1.17** | bitte angeben | B |  |
+|  |  |  |  | ja |  | nein | B | **Wenn** | | | | | | | | | | | | | | | |
 
-regelmäßig ausgewertet? (auch) mechanisch mit Schlüssel möglich? Schlüssel aufbewahrt und wer gibt sie aus? Wachdienst / besetzter Empfangsbereich o. ä. zum Rechenzentrum/Serverraum eigentlichen Funktion noch für andere Zwecke genutzt?
+Werden die Protokolle regelmäßig ausgewertet? (auch) mechanisch mit Schlüssel möglich?  Wo werden die Schlüssel aufbewahrt und wer gibt sie aus? Wachdienst / besetzter Empfangsbereich o. ä. zum Rechenzentrum/Serverraum eigentlichen Funktion noch für andere Zwecke genutzt?
 
 ---
 
-| **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER** | **MAßNAHMEN DES AUFTRAGNEHMERS** | ☐ ☐ | ☐ | ☐ ☐ | | | | | | | | | | | | | | | | | | | |
+| ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER | MAßNAHMEN DES AUFTRAGNEHMERS | ☐ ☐ | ☐ | ☐ ☐ | | | | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| nein |  |  |  | **Wenn 1.19 ja:** | | | | | | | | | | | | | | | | | | | |
+| nein |  |  |  | **Wenn** | | | | | | | | | | | | | | | | | | | |
 | bitte angeben |  |  |  |  | | | | | | | | | | | | | | | | | | | |
 |  | nein |  | A **Sind die dokumentierten Maßnahmen ** | **STUFE** |  |  |  |  |  |  |  |  | | | | | | | | | | | |
 |  | | | | | | | | | | | | | | | | | | | | | | | |
-| B | **1.22** | **Wenn 1.19 ja:** |  | Für welche Zwecke | | | | | | | | | | | | | | | | | | | |
+| B | **1.22** | **Wenn** | **1.19** | **ja:** | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  | Gibt es offizielle Zutrittsregelung für | | | | | | | | | | | | | | | | | | | |
 |  | geeignet |  | Es muss bestätigt werden, dass die |  | | | | | | | | | | | | | | | | | | | |
 | **MINDESTANFORDERUNG** | ☐ ☐ ☐ |  |  |  |  |  |  |  | | | | | | | | | | | | | | | |
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | |
 | ja | | | | | | | | | | | | | | | | | | | | | | | |
-|  | **1.22**  Für welche Zwecke |  | **1.23** |  | | | | | | | | | | | | | | | | | | | |
+|  | **1.22  ja:** |  | **1.23** |  | | | | | | | | | | | | | | | | | | | |
 | ja, bitte angeben | A | **Sind die dokumentierten Maßnahmen** |  | geeignet | | | | | | | | | | | | | | | | | | | |
 |  | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ ☐ | ☐ | ☐ | ☐ | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | |
 |  | | | | | | | | | | | | | | | | | | | | | | | |
-|  | Für welche Zwecke  B |  |  |  | | | | | | | | | | | | | | | | | | | |
+|  | **ja:** B |  |  |  | | | | | | | | | | | | | | | | | | | |
 | Gibt es offizielle Zutrittsregelung für | nein A  Eine offizielle Zutrittsregelung für |  |  |  | | | | | | | | | | | | | | | | | | | |
 |  | **FRAGE  SCHUTZ- MINDESTANFORDERUNG ** ☐ | ☐ | ☐ | ☐ | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  |  | geeignet | Es muss bestätigt werden, dass die |  | | | | | | | | | | | | | | | |
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  |  |  | **Wenn 1.19 ja:** |  | | | | | | | | | | | | | | | | | | | |
+|  |  |  | **Wenn** | **1.19** | | | | | | | | | | | | | | | | | | | |
 |  | **1.23** Gibt es offizielle Zutrittsregelung für | ja, bitte angeben |  |  | | | | | | | | | | | | | | | | | | | |
 | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER** | ☐ |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  |  |  | **MINDESTANFORDERUNG** |  |  | **FRAGE** | **SCHUTZ- STUFE** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES AUFTRAGNEHMERS** | **1.22** | **Wenn 1.19 ja:** Für welche Zwecke  bitte angeben | B |  |  | **1.23** | Gibt es offizielle Zutrittsregelung für  ☐ ja, bitte angeben ☐ nein | A | Eine offizielle Zutrittsregelung für |  |  | **Sind die dokumentierten Maßnahmen ** ☐ geeignet |  | Es muss bestätigt werden, dass die |  |
-| ☐ ja  ☐ nein | B | Die Nutzung von Serverräumen für |  |  | **1.22** |  |  | **Wenn 1.19 ja:**  ja   nein  B  Die Nutzung von Serverräumen für | | | | | | | | | | | | | | | |
+|  |  |  | **MINDESTANFORDERUNG** |  |  | **FRAGE** | **SCHUTZ- STUFE** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES AUFTRAGNEHMERS** | **1.22** | **Wenn 1.19 ja:** bitte angeben | B |  |  | **1.23** | Gibt es offizielle Zutrittsregelung für  ☐ ja, bitte angeben ☐ nein | A | Eine offizielle Zutrittsregelung für |  |  | **Sind die dokumentierten Maßnahmen ** ☐ geeignet |  | Es muss bestätigt werden, dass die |  |
+| ☐ ja  ☐ nein | B | Die Nutzung von Serverräumen für |  |  | **1.22** |  |  | **Wenn **  ja **1.19**  nein  B  Die Nutzung von Serverräumen für | | | | | | | | | | | | | | | |
 
-werden die Serverräume noch genutzt? betriebsfremde Personen (bspw. Besucher) zu den Serverräumen? betriebsfremde Personen ist zwingend erforderlich. aus Ihrer Sicht unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen. andere Zwecke ist nicht erlaubt.
+Für welche Zwecke werden die Serverräume noch genutzt? betriebsfremde Personen (bspw. Besucher) zu den Serverräumen? betriebsfremde Personen ist zwingend erforderlich. aus Ihrer Sicht unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen. andere Zwecke ist nicht erlaubt.
 
 ---
 
@@ -283,114 +277,112 @@ werden die Serverräume noch genutzt? betriebsfremde Personen (bspw. Besucher) z
 |  |  |  |  |  |  |  |  |  | **SCHUTZ-** | ☐ ☐ |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | begrenzt geeignet  ungeeignet |  | Begründung: |  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES AUFTRAGNEHMERS** | ☐ begrenzt geeignet ☐ ungeeignet     Begründung:  bitte angeben | | | | | | | | | | | | | | | |
 
-] /
-
 
 ---
 
 2 MAßNAHMEN ZUM ZUTRITT ZU BÜRORÄUMEN
 
-|  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | | | | | | | | | | |
+|  | FRAGE | SCHUTZ- STUFE | MINDESTANFORDERUNG | ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **2.1** | An welchen Standorten wird über  bitte angeben | A |  |  | | | | | | | | | | | | | | | | |
 | **2.2** | Existiert ein Pförtnerdienst /  ☐ ja  ☐ nein | B |  |  | | | | | | | | | | | | | | | | |
 | **2.3** | Ist das Gebäude oder sind die  ☐ ja  ☐ nein | C | Einbruchmeldeanlage muss vorhanden |  | | | | | | | | | | | | | | | | |
-| **2.4** | **Wenn 2.3 ja:** Wer wird informiert,  ☐ beauftragter Wachdienst  ☐ Administrator  ☐ Leiter IT ☐ | C | Eine Alarmaufschaltung ist  Mindestens eine der zu alarmierenden |  | ☐ |  |  |  | Mindestens eine der zu alarmierenden | **SCHUTZ- STUFE  MINDESTANFORDERUNG  MAßNAHMEN DES AUFTRAGNEHMERS** | ☐ | ☐ | | | | | | | | |
+| **2.4** | **Wenn 2.3 ja:** ☐ beauftragter Wachdienst  ☐ Administrator  ☐ Leiter IT ☐ | C | Eine Alarmaufschaltung ist  Mindestens eine der zu alarmierenden |  | ☐ |  |  |  | Mindestens eine der zu alarmierenden | **SCHUTZ- STUFE  MINDESTANFORDERUNG  MAßNAHMEN DES AUFTRAGNEHMERS** | ☐ | ☐ | | | | | | | | |
 |  | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | Existiert ein Pförtnerdienst / |  | | | | | | | | | | | | | | | | |
 | B | **2.3** |  |  |  | | | | | | | | | | | | | | | | |
-|  | **Wenn 2.3 ja:** | Wer wird informiert,  ☐ |  | beauftragter Wachdienst | | | | | | | | | | | | | | | | |
+|  | **Wenn** | **ja:** ☐ |  | beauftragter Wachdienst | | | | | | | | | | | | | | | | |
 | Administrator |  |  |  |  | **2.4** | | | | | | | | | | | | | | | |
 |  |  |  |  |  | | | | | | | | | | | | | | | | |
 | **2.1** | An welchen Standorten wird über | bitte angeben | | | | | | | | | | | | | | | | | | |
 |  | B |  |  |  | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | |
-|  | Administrator   Leiter IT  Eine Alarmaufschaltung ist |  |  |  | | | | | | | | | | | | | | | | |
-| **MAßNAHMEN DES AUFTRAGNEHMERS** | ☐ ☐ |  |  |  | Einbruchmeldeanlage muss vorhanden | **2.4** |  |  |  | Wer wird informiert, |  | Eine Alarmaufschaltung ist   **FRAGE** | **STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN** | ☐ | ☐ | ☐ | ☐ | ☐ |
+| **2.3** | Administrator   Leiter IT  Eine Alarmaufschaltung ist |  |  |  | | | | | | | | | | | | | | | | |
+| **MAßNAHMEN DES AUFTRAGNEHMERS** | ☐ ☐ |  |  |  | Einbruchmeldeanlage muss vorhanden | **2.4** |  |  | **2.3** | **ja:** |  | Eine Alarmaufschaltung ist   **FRAGE** | **STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN** | ☐ | ☐ | ☐ | ☐ | ☐ |
 |  |  |  |  |  | | | | | | | | | | | | | | | | |
 |  | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  | Existiert ein Pförtnerdienst / | | | | | | | | | | | | | | | | |
 |  |  | **2.3** |  |  |  |  | **2.2** |  |  | Existiert ein Pförtnerdienst /  bitte angeben  A |  | | | | | | | | | |
 
-Clientarbeitsplätze auf personenbezogene Daten zugegriffen? Wachdienst / besetzter Empfangsbereich o. ä. zum Gebäude bzw. zu Ihren Büros? Büroräume mittels einer Einbruchmeldeanlage (EMA) alarmgesichert? wenn die EMA auslöst? Mehrfachantworten möglich! sein. verpflichtend.  Stellen muss 24/7 erreichbar sein und reagieren. ODER DARSTELLUNG GLEICHWERTIGER
+Clientarbeitsplätze auf personenbezogene Daten zugegriffen? Wachdienst / besetzter Empfangsbereich o. ä. zum Gebäude bzw. zu Ihren Büros? Büroräume mittels einer Einbruchmeldeanlage (EMA) alarmgesichert?  Wer wird informiert, wenn die EMA auslöst? Mehrfachantworten möglich! sein. verpflichtend.  Stellen muss 24/7 erreichbar sein und reagieren. ODER DARSTELLUNG GLEICHWERTIGER
 
 ---
 
-|  |  | **Wenn 2.7 ja:** | Welche Zutrittstechnik | RFID | | | | | | | | | | | | | | | | |
+|  |  | Wenn 2.7 | ja: | RFID | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  |  |  |  | Werden das Bürogebäude bzw. seine | | | | | | | | | | | | | | | | |
 |  | A | **2.6** |  |  | | | | | | | | | | | | | | | | |
 | bitte angeben |  |  |  | Sind die Räumlichkeiten mit einem | | | | | | | | | | | | | | | | |
-|  | nein  A      C **FRAGE FRAGE** |  | **2.8** |  |  | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | **2.8** | **Wenn 2.7 ja:** Welche Zutrittstechnik  ☐ RFID | A |  | | | | | | | | |
+|  | nein  A      C **FRAGE FRAGE** |  | **2.8** |  |  | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | **2.8** | **Wenn 2.7 ja:** ☐ RFID | A |  | | | | | | | | |
 | ☐ Sonstiges: bitte angeben | | | | | | | | | | | | | | | | | | | | |
 | **2.5** | Werden das Bürogebäude bzw. seine  ☐ ja, ohne Bildaufzeichnung  ☐ ja, mit Bildaufzeichnung  ☐ nein | B |  |  | | | | | | | | | | | | | | | | |
-| **2.6** | **Wenn 2.5 „ja, mit Bildaufzeichnung“:**  bitte angeben | B |  |  | | | | | | | | | | | | | | | | |
+| **2.6** | **Wenn 2.5 „ja, mit Bildaufzeichnung“:** bitte angeben | B |  |  | | | | | | | | | | | | | | | | |
 | **2.7** | Sind die Räumlichkeiten mit einem  ☐ ja, die Büroräume sind elektronisch  ☐ ja, die Büroetagen sind elektronisch  ☐ ja, das gesamte Gebäude ist  ☐ nein | A |  |  | | | | | | | | | | | | | | | | |
 | C | Ein elektronisches Schließsystem ist | Sind die Räumlichkeiten mit einem   ja, die Büroräume sind elektronisch |  | ja, die Büroetagen sind elektronisch |  | | | | | | | | | | | | | | | |
 | ☐ | ☐ | ☐ ☐ | ☐ | ☐ ☐ | | | | | | | | | | | | | | | | |
 | ☐  Sonstiges: bitte angeben ☐ |  |  | | | | | | | | | | | | | | | | | | |
-|  | nein B   **2.6** | **Wenn 2.5 „ja, mit Bildaufzeichnung“:** |  |  | | | | | | | | | | | | | | | | |
+|  | nein B   **2.6** | **Wenn** | **2.5** | **„ja, mit Bildaufzeichnung“:** | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | |
 |  | C  Ein elektronisches Schließsystem ist |  |  |  | | | | | | | | | | | | | | | | |
-| RFID | **FRAGE** | **STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN** | ☐ ☐ |  | ja, das gesamte Gebäude ist |  |  | A | Ein elektronisches Schließsystem ist | ☐ |  | Welche Zutrittstechnik |  | A |  |  |  | **FRAGE** |
+| RFID | **FRAGE** | **STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN** | ☐ ☐ |  | ja, das gesamte Gebäude ist |  |  | A | Ein elektronisches Schließsystem ist | ☐ | **2.7** | **ja:** |  | A |  |  |  | **FRAGE** |
 | **STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | ☐ | ☐ ☐ | | | | | | | | | | | | | | | | |
 | ☐  Sonstiges: bitte angeben | | | | | | | | | | | | | | | | | | | | |
 | **2.5** | Werden das Bürogebäude bzw. seine   ja, ohne Bildaufzeichnung  ☐ ☐ |  | B |  | | | | | | | | | | | | | | | | |
 |  | **Wenn 2.5 „ja, mit Bildaufzeichnung“:** | bitte angeben | B |  |  |  | ja, mit Bildaufzeichnung |  | nein | B     **2.5** | Werden das Bürogebäude bzw. seine | | | | | | | | | |
 
-Zugänge videoüberwacht? Wie lange werden die Bilddaten gespeichert? elektronischen Schließsystem versehen? verschlossen. verschlossen. elektronisch verschlossen kommt zum Einsatz?  ODER DARSTELLUNG GLEICHWERTIGER erforderlich.
+Zugänge videoüberwacht? Wie lange werden die Bilddaten gespeichert? elektronischen Schließsystem versehen? verschlossen. verschlossen. elektronisch verschlossen  Welche Zutrittstechnik kommt zum Einsatz?  ODER DARSTELLUNG GLEICHWERTIGER erforderlich.
 
 ---
 
-|  |  |  |  | **2.12** | | | | | | | | | | | | | | | | |
+|  |  |  |  | 2.12 | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Biometrie | C  Techniken müssen genutzt werden. |  |  |  | | | | | | | | | | | | | | | | |
+| Biometrie | C  Mindestens zwei verschiedene |  |  |  | | | | | | | | | | | | | | | | |
 |  |  | ja, aber nur erfolglose |  |  | | | | | | | | | | | | | | | | |
-|  |  |  |  | **Wenn 2.9 ja:** | | | | | | | | | | | | | | | | |
-|  | **2.11** Existiert ein mechanisches Schlo ja ja ja |  | nein | B |  | A |  |  |  | ☐**2.12** |  |  | | | | | | | | |
+|  |  |  |  | **Wenn** | | | | | | | | | | | | | | | | |
+|  | **2.11** Existiert ein mechanisches Schlo**2.9** ja ja ja |  | nein | B |  | A |  |  |  | ☐**2.12** |  |  | | | | | | | | |
 | PIN | | | | | | | | | | | | | | | | | | | | |
-|  | **FRAGE  SCHUTZ- STUFE  Wenn 2.7 ja:** | Werden die Zutritte im |  | ja, sowohl erfolgreiche als auch | | | | | | | | | | | | | | | | |
+|  | **FRAGE  SCHUTZ- STUFE  Wenn** | **ja:** |  | ja, sowohl erfolgreiche als auch | | | | | | | | | | | | | | | | |
 | ja, aber nur erfolglose | A |  | C | Es muss mindestens ein „Ja“ | | | | | | | | | | | | | | | | |
-| **2.10** | **Wenn 2.9 ja: MINDESTANFORDERUNG **  Wie lange werden diese **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ |  |  |  | | | | | | | | | | | | | | | | |
-|  | Werden die Protokolle | **Wenn 2.9 ja:** Wie lange werden diese  bitte angeben | B |  |  | | | | | | | | | | | | | | | |
+| **2.10** | **Wenn  MINDESTANFORDERUNG   ja: ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ |  |  |  | | | | | | | | | | | | | | | | |
+| **2.9** | **ja:** | **Wenn 2.9 ja:** bitte angeben | B |  |  | | | | | | | | | | | | | | | |
 |  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | | | | | | | | | | |
-| ☐ PIN ☐ Biometrie ☐ Sonstiges: bitte angeben | C | Techniken müssen genutzt werden. | | | | | | | | | | | | | | | | | | |
-| **2.9** | **Wenn 2.7 ja:** Werden die Zutritte im ☐ ja, sowohl erfolgreiche als auch ☐ ja, aber nur erfolgreiche ☐ ja, aber nur erfolglose ☐ nein, das Schloss wird nur | A |  |  | | | | | | | | | | | | | | | | |
+| ☐ PIN ☐ Biometrie ☐ Sonstiges: bitte angeben | C | Mindestens zwei verschiedene | | | | | | | | | | | | | | | | | | |
+| **2.9** | **Wenn 2.7 ja:** ☐ ja, sowohl erfolgreiche als auch ☐ ja, aber nur erfolgreiche ☐ ja, aber nur erfolglose ☐ nein, das Schloss wird nur | A |  |  | | | | | | | | | | | | | | | | |
 | C | Es muss mindestens ein „Ja“ | | | | | | | | | | | | | | | | | | | |
-| **2.11** | **Wenn 2.9 ja:** Werden die Protokolle  ☐ ja ☐ nein | B |  |  | | | | | | | | | | | | | | | | |
-| **2.12** | Existiert ein mechanisches Schlo ☐ ja | A |  |  | **MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ B |  |  |  | **2.11** |  | Werden die Protokolle | nein ☐ B  ☐ |  |  |  |  |  | Existiert ein mechanisches Schlo |  | ja |
+| **2.11** | **Wenn 2.9 ja:** ☐ ja ☐ nein | B |  |  | | | | | | | | | | | | | | | | |
+| **2.12** | Existiert ein mechanisches Schlo ☐ ja | A |  |  | **MAßNAHMEN DES AUFTRAGNEHMERS  2.9** ☐ B |  |  |  | **2.11** |  | **ja:** | nein ☐ B  ☐ |  |  |  |  |  | Existiert ein mechanisches Schlo |  | ja |
 | A |  |  |  | **FRAGE  SCHUTZ-** | | | | | | | | | | | | | | | | |
 | **STUFE ** PIN | | | | | | | | | | | | | | | | | | | | |
-|  | **MINDESTANFORDERUNG  ERLÄUTERUNGEN** |  | Werden die Zutritte im |  | | | | | | | | | | | | | | | | |
-|  | A |  |  | C | **2.9** |  |  |  | **Wenn 2.7 ja:** | Werden die Zutritte im ja, sowohl erfolgreiche als auch Techniken müssen genutzt werden. |  | | | | | | | | | |
+|  | **MINDESTANFORDERUNG  ERLÄUTERUNGEN** | **2.7** | **ja:** |  | | | | | | | | | | | | | | | | |
+|  | A |  |  | C | **2.9** |  |  |  | **Wenn 2.7** | **ja:** ja, sowohl erfolgreiche als auch Mindestens zwei verschiedene |  | | | | | | | | | |
 
-Protokolldaten aufbewahrt? ODER DARSTELLUNG GLEICHWERTIGER Mindestens zwei verschiedene Zutrittssystem protokolliert?  erfolglose Zutrittsversuche Zutrittsversuche Zutrittsversuche freigegeben oder nicht ausgewählt werden. regelmäßig ausgewertet? ss für die Gebäude / Büroräume?
+Wie lange werden diese Protokolldaten aufbewahrt? ODER DARSTELLUNG GLEICHWERTIGER Techniken müssen genutzt werden.  Werden die Zutritte im Zutrittssystem protokolliert?  erfolglose Zutrittsversuche Zutrittsversuche Zutrittsversuche freigegeben oder nicht ausgewählt werden.  Werden die Protokolle regelmäßig ausgewertet? ss für die Gebäude / Büroräume?
 
 ---
 
 |  | nein | A | Eine offizielle Zutrittsregelung für |  | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  |  |  | **Wenn 2.12 ja:** | | | | | | | | | | | | | | | | |
+|  |  |  |  | **Wenn** | | | | | | | | | | | | | | | | |
 |  |  |  |  |  | | | | | | | | | | | | | | | | |
 | A | **Sind die dokumentierten Maßnahmen** |  | Werden die Zutrittsrechte/Schlüssel zu |  | | | | | | | | | | | | | | | | |
 | A | B  Personenbezogene    Es muss bestätigt werden, dass die |  | Gibt es offizielle Zutrittsregelung für | ja, bitte angeben | Es muss bestätigt werden, dass die |  | **FRAGE** | **SCHUTZ- STUFE** |  | A  Eine offizielle Zutrittsregelung für  ☐ |  |  | | | | | | | | |
 | **MINDESTANFORDERUNG **  nein | | | | | | | | | | | | | | | | | | | | |
-| **2.13** | **Wenn 2.12 ja: ERLÄUTERUNGEN **  Wird die Ausgabe der **MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ |  |  |  | | | | | | | | | | | | | | | | |
-|  | Wer gibt die  bitte angeben A | Es muss festgeleg |  |  | | | | | | | | | | | | | | | | |
+| **2.13** | **Wenn  ERLÄUTERUNGEN   ja: MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ |  |  |  | | | | | | | | | | | | | | | | |
+|  | **2.12 ja:** bitte angeben A | Es muss festgeleg |  |  | | | | | | | | | | | | | | | | |
 |  | ☐ ☐ ☐   ☐ | Personenbezogene **Sind die dokumentierten Maßnahmen** |  |  | | | | | | | | | | | | | | | | |
 |  | **2.16** | ja | nein |  | A | | | | | | | | | | | | | | | |
 | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN** | **MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ | ☐ | ☐ ☐ | | | | | | | | | | | | | | | | |
 | ☐  nein  ☐ ☐ |  |  | | | | | | | | | | | | | | | | | | |
-|  | A |  | Wer gibt die | bitte angeben | | | | | | | | | | | | | | | | |
+|  | A | **2.12** | **ja:** | bitte angeben | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | |
 | B | **2.16** Gibt es offizielle Zutrittsregelung für | ja, bitte angeben |  |  | | | | | | | | | | | | | | | | |
 |  |  |  | **FRAGE** | **SCHUTZ-** | Werden die Zutrittsrechte/Schlüssel zu  ☐ ja  ☐ nein | A |  |  | B | Personenbezogene | **2.16** | Gibt es offizielle Zutrittsregelung für  ☐ ja, bitte angeben ☐ nein | A | Eine offizielle Zutrittsregelung für |  |  | **Sind die dokumentierten Maßnahmen** |  | Es muss bestätigt werden, dass die |  |
 |  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | | | | | | | | | | |
 | ☐ nein | | | | | | | | | | | | | | | | | | | | |
-| **2.13** | **Wenn 2.12 ja:** Wird die Ausgabe der  ☐ ja, bitte angeben ☐ nein | A |  |  | | | | | | | | | | | | | | | | |
-| **2.14 2.15** | **Wenn 2.12 ja:** Wer gibt die  bitte angeben | A | Es muss festgeleg |  |  | ja, bitte angeben |  | nein | A | **2.13** | **Wenn 2.12 ja:** | | | | | | | | | |
+| **2.13** | **Wenn 2.12 ja:** ☐ ja, bitte angeben ☐ nein | A |  |  | | | | | | | | | | | | | | | | |
+| **2.14 2.15** | **Wenn 2.12 ja:** bitte angeben | A | Es muss festgeleg |  |  | ja, bitte angeben |  | nein | A | **2.13** | **Wenn** | | | | | | | | | |
 
-(mechanischen und/oder elektronischen) Schlüssel protokolliert? (mechanischen und/oder elektronischen) Schlüssel aus? Büros personenbezogen vergeben? betriebsfremde Personen (bspw. Besucher) zu den Büroräumen? aus Ihrer Sicht unter Berücksichtigung t sein, wer eine Schlüsselausgabe vornehmen darf. Zutrittsrechte/Schlüssel sind zwingend erforderlich. betriebsfremde Personen ist zwingend erforderlich. getroffenen Maßnahmen geeignet ODER DARSTELLUNG GLEICHWERTIGER
+Wird die Ausgabe der (mechanischen und/oder elektronischen) Schlüssel protokolliert?  Wer gibt die (mechanischen und/oder elektronischen) Schlüssel aus? Büros personenbezogen vergeben? betriebsfremde Personen (bspw. Besucher) zu den Büroräumen? aus Ihrer Sicht unter Berücksichtigung t sein, wer eine Schlüsselausgabe vornehmen darf. Zutrittsrechte/Schlüssel sind zwingend erforderlich. betriebsfremde Personen ist zwingend erforderlich. getroffenen Maßnahmen geeignet ODER DARSTELLUNG GLEICHWERTIGER
 
 ---
 
@@ -422,7 +414,7 @@ ODER DARSTELLUNG GLEICHWERTIGER Implementierungskosten, der Art, des Umfangs, de
 
 3 MAßNAHMEN ZUM ZUGANG UND ZUGRIFF
 
-|  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | FRAGE | SCHUTZ- STUFE | MINDESTANFORDERUNG | ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **3.1** | Existiert ein Prozess zur Vergabe von  ☐ definierter Freigabeprozess ☐ kein definierter Freigabeprozess, auf ☐ Sonstige Vergabeweise: bitte | A | Ein definierter Freigabeprozess ist |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | **3.2** | Werden die Vergabe bzw. Änderungen  ☐ ja ☐ nein | B | Eine Protokollierung ist erforderlich. |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -478,7 +470,7 @@ ODER DARSTELLUNG GLEICHWERTIGER Passwortparameter im Unternehmen? erforderlich. 
 
 ---
 
-|  |  | **3.9** |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  | 3.9 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  | Zwingt das IT System den Nutzer zur  Gibt es eine Begrenzung von  A | B | Die IT-technische Unterstützung der |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | **3.7** | Wird der Bildschirm bei Inaktivität des     ja, nach bitte Anzahl angeben  Es muss eine Anmeldesperre   nein | A | Die Bildschirmsperre muss |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -506,47 +498,47 @@ ODER DARSTELLUNG GLEICHWERTIGER automatisch nach spätestens 10 Minuten Inaktivi
 
 ---
 
-|  |  | **Wenn 3.11 ja:** |  | A | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  | Wenn 3.11 |  | A | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| nein | Mindestens eine aus drei |  | Wie lange bleiben |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| nein | Mindestens eine aus drei | **3.9** | **ja:** |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | A | Zugänge müssen bis zur manuellen |  | **3.11** |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | ja | A **FRAGE **  **SCHUTZ-** |  | **3.12** |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  | **3.12** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | **3.10** |  |  | ☐☐ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | **Wenn 3.11 ja:** |  |  | Ist der Zugriff auf Daten aus dem | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **Wenn 3.11** |  |  | Ist der Zugriff auf Daten aus dem | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | A **MAßNAHMEN DES AUFTRAGNEHMERS MAßNAHMEN DES AUFTRAGNEHMERS** |  |  | Ist der Zugriff auf Daten aus dem | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN** | ☐ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| B | ☐**3.10** ☐**Wenn 3.9 ja:** |  | Wie lange bleiben |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| A | Wie erfolgt die  Zugänge müssen bis zur manuellen  ☐ |  | **3.11** |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| B | ☐**3.10** ☐**Wenn** | **3.9** | **ja:** |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| A | **ja:** Zugänge müssen bis zur manuellen  ☐ |  | **3.11** |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  | **3.12** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | Mindestens eine aus drei |  | **FRAGE  MINDESTANFORDERUNG** | **SCHUTZ-** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **3.11** | Mindestens eine aus drei |  | **FRAGE  MINDESTANFORDERUNG** | **SCHUTZ-** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | **FRAGE** | **SCHUTZ- STUFE** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | ☐ ja, nach bitte Anzahl angeben  ☐ nein | B | Es muss eine Anmeldesperre | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| **3.10** | **Wenn 3.9 ja:** Wie lange bleiben  ☐ Die Zugänge bleiben bis zur  ☐ Die Zugänge bleiben für bitte Anzahl | A |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| **3.10** | **Wenn 3.9 ja:** ☐ Die Zugänge bleiben bis zur  ☐ Die Zugänge bleiben für bitte Anzahl | A |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | C | Zugänge müssen bis zur manuellen | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | **3.11** | Ist der Zugriff auf Daten aus dem  ☐ ja  ☐ nein | A |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| **3.12** | **Wenn 3.11 ja:** Wie erfolgt die  ☐ ☐ | A | Mindestens eine aus drei |  | ☐ ☐ |  |  |  |  | ☐ Ist der Zugriff auf Daten aus dem | nein |  | A |  |  |  | A |  | **FRAGE** | **SCHUTZ-** | | | | | | | | | | | | | | | |
+| **3.12** | **Wenn 3.11 ja:** ☐ ☐ | A | Mindestens eine aus drei |  | ☐ ☐ |  |  |  |  | ☐ Ist der Zugriff auf Daten aus dem | nein |  | A |  |  |  | A |  | **FRAGE** | **SCHUTZ-** | | | | | | | | | | | | | | | |
 | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN** | **MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ | ☐ | ☐ ☐ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | Wie erfolgt die **Wenn 3.9 ja:** ☐ |  | Die Zugänge bleiben für bitte Anzahl |  |  |  | A | Mindestens eine aus drei |  |  | **FRAGE  3.10** |  |  |  |  | **SCHUTZ-**  **STUFE ** C |  |  |  |  | **MINDESTANFORDERUNG **  nein **ERLÄUTERUNGEN ** |  |  |  | **3.12** |  |  |  | **Wenn 3.11 ja:** |  |  | **Wenn 3.9 ja:** |  | Wie lange bleiben | Die Zugänge bleiben bis zur |
+|  | **ja: Wenn ** ☐ |  | Die Zugänge bleiben für bitte Anzahl |  |  |  | A | Mindestens eine aus drei |  |  | **FRAGE  3.10** |  |  |  |  | **SCHUTZ-**  **STUFE ** C |  |  |  |  | **MINDESTANFORDERUNG **  nein **ERLÄUTERUNGEN ** |  |  |  | **3.12** |  |  |  | **Wenn** |  |  | **Wenn** | **3.9** | **ja:** | Die Zugänge bleiben bis zur |
 
-erfolglosen Versuchen. Zugänge gesperrt, wenn die maximale Zahl erfolgloser Anmeldeversuche erreicht wurde?  manuellen Aufhebung der Sperre gesperrt. angeben Minuten gesperrt. Internet (z. B. im Home Office) möglich? Authentisierung:  (RSA) Token  VPN-Zertifikat  spätestens nach 10 erfolglosen Anmeldeversuchen eingerichtet sein. Aufhebung gesperrt bleiben. Authentifizierungskomponenten (Besitz, Wissen oder biometrische Charakteristika) sind für den Zugriff erforderlich. ODER DARSTELLUNG GLEICHWERTIGER
+erfolglosen Versuchen.  Wie lange bleiben Zugänge gesperrt, wenn die maximale Zahl erfolgloser Anmeldeversuche erreicht wurde?  manuellen Aufhebung der Sperre gesperrt. angeben Minuten gesperrt. Internet (z. B. im Home Office) möglich?  Wie erfolgt die Authentisierung:  (RSA) Token  VPN-Zertifikat  spätestens nach 10 erfolglosen Anmeldeversuchen eingerichtet sein. Aufhebung gesperrt bleiben. Authentifizierungskomponenten (Besitz, Wissen oder biometrische Charakteristika) sind für den Zugriff erforderlich. ODER DARSTELLUNG GLEICHWERTIGER
 
 ---
 
 |  |  |  | Werden Firewalls eingesetzt? | ja | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | **3.13 Wenn 3.11 ja:**  nein |  |  | nein | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | A |  |  | **Wenn 3.13 ja:** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | **3.13 Wenn **  nein |  |  | nein | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | A |  |  | **Wenn** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | Firewalls sind zwingend erforderlich. |  |  |  | Die Zugänge bleiben für bitte Anzahl | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | C | Zugänge müssen bis zur manuellen |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| Mindestens zwei aus drei | **3.15** |  | Gibt es eine Begrenzung | **ERLÄUTERUNGEN ERLÄUTERUNGEN** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| A | B  Es muss eine Anmeldesperre  Werden Firewalls eingesetzt?  **Wenn 3.13 ja:** | Wie lange bleiben |  | Die Zugänge bleiben bis zur | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| Mindestens zwei aus drei | **3.15** | **3.11** | **ja:** | **ERLÄUTERUNGEN ERLÄUTERUNGEN** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| A | B  Es muss eine Anmeldesperre  Werden Firewalls eingesetzt?  **Wenn** | **ja:** |  | Die Zugänge bleiben bis zur | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | **SCHUTZ-SCHUTZ-** |  |  | Die Zugänge bleiben bis zur | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | **FRAGE** | **MINDESTANFORDERUNG** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | ☐ ☐  Gibt es eine Begrenzung   ja, bitte Anzahl angeben Versuche |  |  | nein | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | ☐ ☐ |  |  | **Wenn 3.13 ja:** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | ☐ ☐**ja:**  ja, bitte Anzahl angeben Versuche |  |  | nein | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | ☐ ☐ |  |  | **Wenn** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | Zugänge müssen bis zur manuellen |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | A |  | nein | A  Firewalls sind zwingend erforderlich. |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | Firewalls sind zwingend erforderlich. |  | **FRAGE  SCHUTZ-** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -554,15 +546,15 @@ erfolglosen Versuchen. Zugänge gesperrt, wenn die maximale Zahl erfolgloser Anm
 |  | ja, bitte Anzahl angeben Versuche **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS ** Es muss eine Anmeldesperre |  | B | Es muss eine Anmeldesperre | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | Die Zugänge bleiben bis zur  ☐ ☐ A |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | ☐ ☐ ☐ | ja |  | nein | ☐ ☐ | Mindestens zwei aus drei | B | Es muss eine Anmeldesperre | **3.14** | **Wenn 3.13 ja:** Wie lange bleiben  ☐ Die Zugänge bleiben bis zur  ☐ Die Zugänge bleiben für bitte Anzahl | A |  |  | C | Zugänge müssen bis zur manuellen | **3.15** | Werden Firewalls eingesetzt?   ☐ ja  ☐ nein | A | Firewalls sind zwingend erforderlich. |  | | | | | | | | | | | | | | | |
+|  | ☐ ☐ ☐ | ja |  | nein | ☐ ☐ | Mindestens zwei aus drei | B | Es muss eine Anmeldesperre | **3.14** | **Wenn 3.13 ja:** ☐ Die Zugänge bleiben bis zur  ☐ Die Zugänge bleiben für bitte Anzahl | A |  |  | C | Zugänge müssen bis zur manuellen | **3.15** | Werden Firewalls eingesetzt?   ☐ ja  ☐ nein | A | Firewalls sind zwingend erforderlich. |  | | | | | | | | | | | | | | | |
 |  | **FRAGE** | **SCHUTZ- STUFE ** B | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| **3.13** | **Wenn 3.11 ja:** Gibt es eine Begrenzung  ☐ ja, bitte Anzahl angeben Versuche  ☐ nein | A | Es muss eine Anmeldesperre |  | Werden Firewalls eingesetzt? |  | ja |  | nein | Mindestens zwei aus drei | A  Firewalls sind zwingend erforderlich. |  | Gibt es eine Begrenzung |  | A | Es muss eine Anmeldesperre |  | **3.14** |  | Wie lange bleiben | Die Zugänge bleiben für bitte Anzahl    A**FRAGE** | C | Zugänge müssen bis zur manuellen |  |  | **3.15** |  |  |  |  | Gibt es eine Begrenzung | ja, bitte Anzahl angeben Versuche |  | nein | B  A |
+| **3.13** | **Wenn 3.11 ja:** ☐ ja, bitte Anzahl angeben Versuche  ☐ nein | A | Es muss eine Anmeldesperre |  | Werden Firewalls eingesetzt? |  | ja |  | nein | Mindestens zwei aus drei | A  Firewalls sind zwingend erforderlich. | **3.11** | **ja:** |  | A | Es muss eine Anmeldesperre |  | **3.14** |  | **ja:** | Die Zugänge bleiben für bitte Anzahl    A**FRAGE** | C | Zugänge müssen bis zur manuellen |  |  | **3.15** |  |  |  | **3.11** | **ja:** | ja, bitte Anzahl angeben Versuche |  | nein | B  A |
 
-pre-shared key  Benutzeraccount Authentifizierungskomponenten (Besitz, Wissen oder biometrische Charakteristika) sind für den Zugriff spätestens nach 10 erfolglosen Anmeldeversuchen eingerichtet sein. Zugänge gesperrt, wenn die maximale Zahl erfolgloser Anmeldeversuche erreicht worden ist? manuellen Aufhebung der Sperre gesperrt angeben Minuten gesperrt. Aufhebung gesperrt bleiben. ODER DARSTELLUNG GLEICHWERTIGER von erfolglosen Anm eldeversuchen bei Fernzugängen? pro Tag eingerichtet sein.
+pre-shared key  Benutzeraccount Authentifizierungskomponenten (Besitz, Wissen oder biometrische Charakteristika) sind für den Zugriff spätestens nach 10 erfolglosen Anmeldeversuchen eingerichtet sein.  Wie lange bleiben Zugänge gesperrt, wenn die maximale Zahl erfolgloser Anmeldeversuche erreicht worden ist? manuellen Aufhebung der Sperre gesperrt angeben Minuten gesperrt. Aufhebung gesperrt bleiben. ODER DARSTELLUNG GLEICHWERTIGER  Gibt es eine Begrenzung von erfolglosen Anm eldeversuchen bei Fernzugängen? pro Tag eingerichtet sein.
 
 ---
 
-|  | Es muss bestätigt werden, dass die |  |  | **FRAGE  SCHUTZ-** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | Es muss bestätigt werden, dass die |  |  | FRAGE  SCHUTZ- | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  | **STUFE  MINDESTANFORDERUNG  ERLÄUTERUNGEN** |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | **MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -620,7 +612,7 @@ ODER DARSTELLUNG GLEICHWERTIGER geeignet, um ein dem Risiko angemessenes Schutzn
 
 4 MAßNAHMEN ZUM UMGANG MIT DATENTRÄGERN (ANALOG & DIGITAL)
 
-|  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | | | | | |
+|  | FRAGE | SCHUTZ- STUFE | MINDESTANFORDERUNG | ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **4.1** | Erfolgt eine Klassifizierung und ggf.  ☐ ja  ☐ nein | B | Sensible Informationen müssen |  | | | | | | | | | | | |
 | **4.2** | Wie werden nicht mehr benötigte  ☐ Altpapier / Restmüll  ☐ Es stehen hierfür Schredder zur  ☐ Es sind verschlossene Datentonnen  ☐ Sonstiges: bitte angeben | A | Es ist eine datenschutzkonforme |  | | | | | | | | | | | |
@@ -636,7 +628,7 @@ Kennzeichnung sensibler Informationen? Papier-Unterlagen mit personenbezogenen D
 
 ---
 
-|  | C | Die Verwendung ist auf |  | **FRAGE  SCHUTZ** | | | | | | | | | | | |
+|  | C | Die Verwendung ist auf |  | FRAGE  SCHUTZ | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Physische Zerstörung durch | **STUFE  MINDESTANFORDERUNG** |  | **4.4** |  | | | | | | | | | | | |
 | ja | A **ERLÄUTERUNGEN **  **MAßNAHMEN DES AUFTRAGNEHMERS ** ☐**4.5** ☐ | Dürfen die Mitarbeitenden private |  | ja, aber Mitarbeitende sind | | | | | | | | | | | |
@@ -686,7 +678,7 @@ ODER DARSTELLUNG GLEICHWERTIGER gewährleisten?
 
 5 MAßNAHMEN ZUR DATENÜBERTRAGUNG
 
-|  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | | |
+|  | FRAGE | SCHUTZ- STUFE | MINDESTANFORDERUNG | ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  | Werden keine personenbezogenen |  |  |  | | | | | | | | |
 | **5.1** | Erfolgt der Transfer  ☐ ja:   ☐ per verschlüsselter Datei als  ☐ per PGP / SMime  ☐ per verschlüsseltem Datenträger  ☐ per VPN  ☐ per https / TLS  ☐ per SFTP  ☐ Sonstiges: bitte angeben ☐ nein | A | Beim Transfer personenbezogener |  | | | | | | | | |
@@ -704,15 +696,15 @@ Daten übertragen,  müssen die Fragen zu 5 nicht beantwortet werden personenbez
 |  |  |  |  |  | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | ja |  | nein |  |  | | | | | | | | |
-|  | bitte angeben **Wenn 5.3 ja:**  ja, über eine Security Information |  | nein, eine Auswertung wäre aber im |  | | | | | | | | |
+|  | **5.3** bitte angeben **Wenn 5.3**  ja, über eine Security Information |  | nein, eine Auswertung wäre aber im |  | | | | | | | | |
 |  | begrenzt geeignet Es muss bestätigt werden, dass die | **SCHUTZ-** | **STUFE** | **MINDESTANFORDERUNG** | | | | | | | | |
 | ☐ | **FRAGE** |  |  |  |  | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** |  | **Sind die dokumentierten Maßnahmen ** ☐ geeignet ☐ begrenzt geeignet | Es muss bestätigt werden, dass die |  |
 | ☐ ja  ☐ nein | | | | | | | | | | | | |
-| **5.4** | **Wenn 5.3 ja:** Wie lange werden diese  bitte angeben | A |  |  | | | | | | | | |
-| **5.5** | **Wenn 5.3 ja:** Werden die Protokolle  ☐ ja, über eine Security Information  ☐ nein, eine Auswertung wäre aber im | A |  |  | **Wenn 5.3 ja:**  ja   nein | | | | | | | |
+| **5.4** | **Wenn 5.3 ja:** bitte angeben | A |  |  | | | | | | | | |
+| **5.5** | **Wenn 5.3 ja:** ☐ ja, über eine Security Information  ☐ nein, eine Auswertung wäre aber im | A |  |  | **Wenn **  ja   nein | | | | | | | |
 |  |  | **5.4** |  |  | | | | | | | | |
 
-ODER DARSTELLUNG GLEICHWERTIGER aus Ihrer Sicht unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen. Protokolldaten aufbewahrt? regelmäßig ausgewertet? and Event Management-Lösung (SIEM) Bedarfsfall möglich
+ODER DARSTELLUNG GLEICHWERTIGER aus Ihrer Sicht unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen.  Wie lange werden diese Protokolldaten aufbewahrt?  Werden die Protokolle regelmäßig ausgewertet? and Event Management-Lösung (SIEM) Bedarfsfall möglich
 
 ---
 
@@ -727,16 +719,14 @@ ODER DARSTELLUNG GLEICHWERTIGER aus Ihrer Sicht unter Berücksichtigung des Stan
 |  |  |  |  |  | ☐ ungeeignet     Begründung:  bitte angeben | | | | | | | |
 |  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | | |
 
-] / Version: 1.12.1
-
-ODER DARSTELLUNG GLEICHWERTIGER
+ODER DARSTELLUNG GLEICHWERTIGER 
 
 
 ---
 
 6 MAßNAHMEN FÜR SICHERE SERVERRÄUME / RECHENZENTRUMSGEBÄUDE
 
-|  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | | |
+|  | FRAGE | SCHUTZ- STUFE | MINDESTANFORDERUNG | ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS | | |
 |---|---|---|---|---|---|---|
 | **6.1** | Verfügen die Serverräume über  ☐ ja  ☐ nein | B | Zugangstüren müssen |  | | |
 | **6.2** | Sind die Serverräume / RZ mit  ☐ ja  ☐ nein | B | Es müssen Rauchmelder vorhanden |  | | |
@@ -762,19 +752,19 @@ ODER DARSTELLUNG GLEICHWERTIGER feuerfeste bzw. feuerhemmende Zugangstüren?  fe
 |  |  | erforderlich. |  |  | | |
 |  | C | Der Einsatz einer USV ist zwingend |  |  | | |
 |  | ja  Passwort, 2FA,…) und    B |  |  |  | | |
-|  | 6.6, 6.7 und 6.8, sofern vorhanden, |  |  |  | | |
+|  | ,  ,    6.6 | 6.7 | und | 6.8 | | |
 | nein |  |  |  |  | Passwort, 2FA,…) und |  |
 |  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | | |
 | **6.6** | Sind die Serverräume / RZ klimatisiert?   ☐ ja  ☐ nein | B | erforderlich. |  | | |
 | **6.7** | Verfügen die Serverräume / RZ über  ☐ ja  ☐ nein | B | Der Einsatz einer USV ist zwingend |  | | |
 | **6.8** | Wird die Stromversorgung der  ☐ ja  ☐ nein | B |  |  | | |
-| **6.9** | Werden die Funktionalität 6.2, 6.3, 6.4,  6.6, 6.7 und 6.8, sofern vorhanden,  regelmäßig getestet?  ☐ ja  ☐ nein  C | B |  |  | | |
+| **6.9** | Werden die Funktionalität 6.2, 6.3, 6.4,  6.6, 6.7 und 6.8, sofern vorhanden,  ☐ ja  ☐ nein  C | B |  |  | | |
 | **6.10** | Sind die internen | B | Es muss mindestens eine logische |  | | |
 | ja |  | nein |  | B  Der Einsatz einer USV ist zwingend | | |
 |  |  | | | | | |
 |  | nein  erforderlich. **6.7** |  |  |  | | |
 
-eine unterbrechungsfreie Stromversorgung (USV)?  Serverräume / RZ zusätzlich über ein Dieselaggregat abgesichert?  Managementnetze/Betriebsnetze (z. B. zur Gebäudeleittechnik, Videoüberwachung, Zutrittskontrolle) vor externem Zugriff geschützt? Die Klimatisierung ist zwingend Trennung der Netze erfolgen.  Ein zusätzlicher Schutz durch angemessenes Zugriffs- (z. B. ODER DARSTELLUNG GLEICHWERTIGER
+eine unterbrechungsfreie Stromversorgung (USV)?  Serverräume / RZ zusätzlich über ein Dieselaggregat abgesichert?  regelmäßig getestet? Managementnetze/Betriebsnetze (z. B. zur Gebäudeleittechnik, Videoüberwachung, Zutrittskontrolle) vor externem Zugriff geschützt? Die Klimatisierung ist zwingend Trennung der Netze erfolgen.  Ein zusätzlicher Schutz durch angemessenes Zugriffs- (z. B. ODER DARSTELLUNG GLEICHWERTIGER
 
 ---
 
@@ -801,19 +791,19 @@ ODER DARSTELLUNG GLEICHWERTIGER gewährleisten. aus Ihrer Sicht unter Berücksic
 
 7 MAßNAHMEN ZUM BACKUP
 
-|  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | |
+|  | FRAGE | SCHUTZ- STUFE | MINDESTANFORDERUNG | ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES AUFTRAGNEHMERS | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **7.1** | Existiert ein Backupkonzept für  ☐ ja  ☐ nein | A |  |  | | | | | | |
 | B | Ein Backupkonzept muss vorhanden | | | | | | | | | |
-| **7.2** | **Wenn 7.1 nein: **fortfahren mit 8.1 |  |  |  | | | | | | |
+| **7.2** | **Wenn 7.1 nein: ** 8.1 |  |  |  | | | | | | |
 | **7.3** | Wird die Funktionalität der Backup /  ☐ ja  ☐ nein | A |  |  | | | | | | |
 | **7.4** | In welchem Rhythmus werden Backups  bitte angeben | A |  |  | | | | | | |
 | **7.5** | **Im Falle eines Transports der Backups:** bitte angeben | C |  |  | | | | | | |
-| Sind die Backups verschlüsselt? | A |  |  | nein |  | A | B | **Wenn 7.1 nein:** |  | fortfahren mit 8.1 |
+| Sind die Backups verschlüsselt? | A |  |  | nein |  | A | B | **Wenn** | **7.1** | **nein:** |
 | **7.2 7.4** | Existiert ein Backupkonzept für | nein |  | | | | | | | |
 |  | Wird die Funktionalität der Backup / |  | ja |  | **7.1** |  |  |  | Existiert ein Backupkonzept für |  |
 
-Systeme, auf denen personenbezogene Daten gespeichert sind Wiederherstellung regelmäßig getestet? von Systemen angefertigt, auf denen personenbezogene Daten gespeichert werden?  Wie wird dieser durchgeführt? sein.
+Systeme, auf denen personenbezogene Daten gespeichert sind Wiederherstellung regelmäßig getestet? fortfahren mit von Systemen angefertigt, auf denen personenbezogene Daten gespeichert werden?  Wie wird dieser durchgeführt? sein.
 
 ---
 
@@ -845,27 +835,25 @@ Brandabschnitt bzw. Gebäudeteil aufbewahrt werden. der Backups in einem (von de
 |  | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER** |  |  | | | | | | | |
 |  |  |  |  |  |  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES AUFTRAGNEHMERS** | bitte angeben |
 
-] / Version: 1.12.1
-
 
 ---
 
 8 MAßNAHMEN ZUR ABWEHR VON ANGRIFFEN
 
-|  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | | | | | | | | | | | | | | | | |
+|  | FRAGE | SCHUTZ- STUFE | MINDESTANFORDERUNG | ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES AUFTRAGNEHMERS | | | | | | | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **8.1** | Sind die IT Systeme technisch vor  ☐ ja  ☐ nein | A |  |  | | | | | | | | | | | | | | | | | | | | | | |
-| **8.2** | **Wenn 8.1 ja:** Wer ist für die  bitte angeben | A |  |  | | | | | | | | | | | | | | | | | | | | | | |
+| **8.2** | **Wenn 8.1 ja:** bitte angeben | A |  |  | | | | | | | | | | | | | | | | | | | | | | |
 | **8.3** | Erfolgt eine Separierung von Netzen  ☐ ja  ☐ nein | A | Eine Netztrennung ist zwingend |  | | | | | | | | | | | | | | | | | | | | | | |
 | **8.4** | Werden Systeme gehärtet? ☐ ja:  ☐ Patchmanagement  ☐ Deaktivierung unnötiger  ☐ Aktivierung hardwarenaher  ☐ Sicherheitskonfiguration | B | Systeme müssen durch mehrere |  | | | | | | | | | | | | | | | | | | | | | | |
 | C | Systeme müssen durch möglichst alle |  |  | Deaktivierung unnötiger |  | Aktivierung hardwarenaher | | | | | | | | | | | | | | | | | | | | |
 | Sicherheitskonfiguration **8.1** B  Systeme müssen durch mehrere    A | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | A  C  Systeme müssen durch möglichst alle |  |  | Erfolgt eine Separierung von Netzen | | | | | | | | | | | | | | | | | | | | | | |
+|  | **8.1** A  C  Systeme müssen durch möglichst alle |  |  | Erfolgt eine Separierung von Netzen | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | nein | | | | | | | | | | | | | | | | | | | | | | | | |
 | Eine Netztrennung ist zwingend |  |  | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | ja: |  |  |  | Erfolgt eine Separierung von Netzen | ja |  | nein A  Eine Netztrennung ist zwingend   ja     nein | A |  |  |  |  |  |  | A |  | **8.3** |  | **8.1** |  |  |  | Sind die IT Systeme technisch vor |  |
+|  |  | ja: |  |  |  | Erfolgt eine Separierung von Netzen | ja |  | nein A  Eine Netztrennung ist zwingend   ja     nein | A |  |  |  |  |  |  | **8.1** A |  | **8.3** |  | **8.1** |  |  |  | Sind die IT Systeme technisch vor |  |
 
-Angriffen geschützt? Aktualisierung von Virenschutz, Anti- Spyware und Spamfilter zuständig? unterschiedlichen Schutzbedarfs (z. B. DMZ und Intern)? Komponenten Schutzfunktionen erforderlich. Maßnahmen gehärtet werden. aufgeführten Maßnahmen gehärtet werden. Nicht umgesetzte Maßnahmen müssen begründet werden.
+Angriffen geschützt?  Wer ist für die Aktualisierung von Virenschutz, Anti- Spyware und Spamfilter zuständig? unterschiedlichen Schutzbedarfs (z. B. DMZ und Intern)? Komponenten Schutzfunktionen erforderlich. Maßnahmen gehärtet werden. aufgeführten Maßnahmen gehärtet werden. Nicht umgesetzte Maßnahmen müssen begründet werden.
 
 ---
 
@@ -916,17 +904,14 @@ informiert? inklusive Rollen- und Kommunikationsvorgaben Informationssicherheits
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  |  |  |  |  | bitte angeben   **FRAGE  MINDESTANFORDERUNG** |  |  |  |  |  |  |  |  |  |  |  |  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES AUFTRAGNEHMERS** | bitte angeben |
 
-] / Version: 1.12.1
-
-
 ---
 
 9 WEITERE MAßNAHMEN ZUR PRÄVENTION UND REAKTION
 
-|  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** |
+|  | FRAGE | SCHUTZ- STUFE | MINDESTANFORDERUNG | ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS |
 |---|---|---|---|---|
 | **9.1** | Existiert ein dokumentierter Prozess  ☐ ja  ☐ nein | B | Ein Update der Systeme ist |  |
-| **9.2** | **Wenn 9.1 ja:** Wer ist für die Installation  bitte angeben | B |  |  |
+| **9.2** | **Wenn 9.1 ja:** bitte angeben | B |  |  |
 | **9.3** | Existiert ein Prozess zum  ☐ ja, dieser wird gelebt  ☐ ja, dieser ist dokumentiert und wird  ☐ nein | B | Ein Assetmangementprozess ist |  |
 | C | Der Assetmanagementprozess ist |  | | |
 | **9.4** | Werden regelmäßige  ☐ ja  ☐ nein | B | Regelmäßige |  |
@@ -937,9 +922,9 @@ informiert? inklusive Rollen- und Kommunikationsvorgaben Informationssicherheits
 |  | Ein Assetmangementprozess ist **SCHUTZ- STUFE ** Der Assetmanagementprozess ist |  |  |  |
 |  | **MINDESTANFORDERUNG **  nein **ERLÄUTERUNGEN ** Regelmäßige |  |  |  |
 |  |  | **9.2** |  |  |
-|  | **9.1 Wenn 9.1 ja:**  nein |  | B | Ein Update der Systeme ist |
+|  | **9.1 Wenn 9.1**  nein |  | B | Ein Update der Systeme ist |
 
-zum Software- bzw. Patchmanagement? von Updates bzw. Patches zuständig? Assetmanagement? Schwachstellenprüfungen durchgeführt? Notfallmaßnahmen bei regelmäßig erforderlich. vorhanden. vorhanden und dokumentiert Schwachstellenprüfungen sind erforderlich. ODER DARSTELLUNG GLEICHWERTIGER
+zum Software- bzw. Patchmanagement?  Wer ist für die Installation von Updates bzw. Patches zuständig? Assetmanagement? Schwachstellenprüfungen durchgeführt? Notfallmaßnahmen bei regelmäßig erforderlich. vorhanden. vorhanden und dokumentiert Schwachstellenprüfungen sind erforderlich. ODER DARSTELLUNG GLEICHWERTIGER
 
 ---
 
@@ -985,18 +970,18 @@ aus Ihrer Sicht unter Berücksichtigung des Stands der Technik, der Implementier
 
 10 REGELMÄßIGEN ÜBERPRÜFUNG, BEWERTUNG UND EVALUIERUNG DER WIRKSAMKEIT DER  TECHNISCH-ORGANISATORISCHEN MAßNAHMEN
 
-|  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | |
+|  | FRAGE | SCHUTZ- STUFE | MINDESTANFORDERUNG | ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| **10.1** | **Wenn 8.4 ja:** Werden die Maßnahmen  ☐ ja  ☐ nein | B |  |  | | | | | | | |
+| **10.1** | **Wenn 8.4 ja:** ☐ ja  ☐ nein | B |  |  | | | | | | | |
 | **10.2** | Findet eine unabhängige Überprüfung  ☐ ja:  ☐ Penetrationstests ☐ Sonstiges: bitte angeben ☐ nein | B |  |  |  |  |  |  | **FRAGE** | **SCHUTZ-** | |
 | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN** | **MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ | ☐ | ☐ ☐ | | | | | | | |
-|  | ☐ ☐  ja   nein   Findet eine unabhängige Überprüfung   nein | Penetrationstests |  |  | nein |  | B |  |  | Werden die Maßnahmen | ja |
+|  | ☐ ☐  ja   nein   Findet eine unabhängige Überprüfung   nein | Penetrationstests |  |  | nein |  | B |  |  | **8.4 ja:** | ja |
 
-zur Härtung von Servern regelmäßig bei in Betrieb befindlichen Systemen überprüft? der IT-Systeme oder des Netzwerkes statt? ODER DARSTELLUNG GLEICHWERTIGER
+Werden die Maßnahmen zur Härtung von Servern regelmäßig bei in Betrieb befindlichen Systemen überprüft? der IT-Systeme oder des Netzwerkes statt? ODER DARSTELLUNG GLEICHWERTIGER
 
 ---
 
-|  | Es muss bestätigt werden, dass die |  |  | **FRAGE  SCHUTZ-** | | | | | | | |
+|  | Es muss bestätigt werden, dass die |  |  | FRAGE  SCHUTZ- | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | **STUFE **  Überprüfung durch **MINDESTANFORDERUNG **  Interne Revision |  | Prüfung durch Compliance- |  | | | | | | | |
 |  | Sonstiges: bitte angeben**ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS ** B  ☐ ☐ Es muss durch mindestens zwei |  |  |  | C |  | **Sind die dokumentierten Maßnahmen** |  | Es muss bestätigt werden, dass die |  | |

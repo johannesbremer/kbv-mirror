@@ -59,29 +59,13 @@ Asthmakontrolle (Angaben aus den letzten 4 Wochen) Alltagsaktivitäten Mindesten
 
 Genau eine Angabe ist erforderlich.
 
-Bitte geben Sie hier die Häufigkeit der tagsüber aufgetretenen Asthma-Symptome an. Die Angabe  bezieht sich dabei auf die Einschätzung
+Bitte geben Sie hier die Häufigkeit der tagsüber aufgetretenen Asthma-Symptome an. Die Angabe  bezieht sich dabei auf die Einschätzung  Dokumentationszeitpunkt rückblickend für die letzten 4 Wochen und dient u. a. der Beurteilung der  Asthmakontrolle.
 
-Dokumentationszeitpunkt rückblickend für die letzten 4 Wochen und dient u. a. der Beurteilung der  Asthmakontrolle.
-
-- **Häufiger als 2 mal wöchentlich**“ geben Sie bitte an, wenn
-
-- gemäß ihrer bzw. seiner Einschätzung jede Woche an mehr als zwei Tagen auftretende  Symptome angibt, die eindeutig dem Asthma bronchiale zuzuordnen sind.
-
-- **2 mal wöchentlich**“ geben Sie bitte an, wenn Ihre Patientin bzw. Ihr Patient gemäß ihrer
-
-- bzw. seiner Einschätzung jede Woche an zwei Tagen auftretende Symptome angibt, die  eindeutig dem Asthma bronchiale zuzuordnen sind.
-
-- **1 mal wöchentlich** geben Sie bitte an, wenn Ihre Patientin bzw. Ihr Patient gemäß ihrer
-
-- bzw. seiner Einschätzung jede Woche an einem Tag auftretende Symptome angibt, die  eindeutig dem Asthma bronchiale zuzuordnen sind.
-
-- **< 1 mal wöchentlich**“ ist anzugeben, wenn
-
-- bzw. seiner Einschätzung in 3 unterschiedlichen Wochen an maximal einem Tag pro Woche  tagsüber auftretende Symptome angibt, die eindeutig dem Asthma bronchiale zuzuordnen  sind
-
-- **Keine** ist anzukreuzen, wenn Ihre Patientin bzw. Ihr Patient gemäß ihrer bzw. seiner
-
-- Einschätzung keine Asthma-typischen Symptome hatte
+- **Häufiger als 2 mal wöchentlich**“ geben Sie bitte an, wenn  gemäß ihrer bzw. seiner Einschätzung jede Woche an mehr als zwei Tagen auftretende  Symptome angibt, die eindeutig dem Asthma bronchiale zuzuordnen sind.
+- **2 mal wöchentlich**“ geben Sie bitte an, wenn Ihre Patientin bzw. Ihr Patient gemäß ihrer  bzw. seiner Einschätzung jede Woche an zwei Tagen auftretende Symptome angibt, die  eindeutig dem Asthma bronchiale zuzuordnen sind.
+- **1 mal wöchentlich** geben Sie bitte an, wenn Ihre Patientin bzw. Ihr Patient gemäß ihrer  bzw. seiner Einschätzung jede Woche an einem Tag auftretende Symptome angibt, die  eindeutig dem Asthma bronchiale zuzuordnen sind.
+- **< 1 mal wöchentlich**“ ist anzugeben, wenn  bzw. seiner Einschätzung in 3 unterschiedlichen Wochen an maximal einem Tag pro Woche  tagsüber auftretende Symptome angibt, die eindeutig dem Asthma bronchiale zuzuordnen  sind
+- **Keine** ist anzukreuzen, wenn Ihre Patientin bzw. Ihr Patient gemäß ihrer bzw. seiner  Einschätzung keine Asthma-typischen Symptome hatte
 
 #### In den letzten 4 Wochen: Häufigkeit des Einsatzes der Bedarfsmedikation
 
@@ -93,45 +77,40 @@ Bitte beachten Sie bei den folgenden Angaben, dass der prophylaktische Einsatz e
 
 Ihrer Patientin
 
-- Ihre Patientin bzw. Ihr Patient -
+- Ihre Patientin bzw. Ihr Patient
 
+```
 -
+-
+```
 
-- Ihre Patientin bzw. Ihr Patienten gemäß ihrer -
+- Ihre Patientin bzw. Ihr Patienten gemäß ihrer
 
-bzw. Ihres Patienten zum -
+```
+-
+```
+
+bzw. Ihres Patienten zum
+
+```
+-
+```
 
 Asthmakontrolle (Angaben aus den letzten 4 Wochen) Alltagsaktivitäten Mindestens 3 der 4 kontrollierten Asthmas
 
 ---
 
-- **Häufiger als 2 mal wöchentlich**“ geben Sie bitte an, wenn Ihre Patientin bzw. Ihr Patient
-
-- gemäß ihrer bzw. seiner Einschätzung jede Woche an mehr als zwei Tagen angibt, seine  Asthma-spezifische Bedarfsmedikation verwendet zu haben.
-
-- **„2 mal wöchentlich**“ geben Sie bitte an, wenn Ihre Patientin bzw. Ihr Patient gemäß ihrer
-
-- bzw. seiner Einschätzung jede Woche an zwei Tagen angibt, ihre bzw. seine Asthma- spezifische Bedarfsmedikation verwendet zu haben.
-
-- **1 mal wöchentlich**“ geben Sie bitte an, wenn Ihre Patientin bzw. Ihr Patient gemäß ihrer
-
-- bzw. seiner Einschätzung jede Woche an einem Tag angibt, ihre bzw. seine Asthma- spezifische Bedarfsmedikation verwendet zu haben.
-
-- **< 1 mal wöchentlich**“ ist anzugeben, wenn Ihre Patientin bzw. Ihr Patient gemäß ihrer bzw.
-
-- seiner Einschätzung in 3 unterschiedlichen Wochen an maximal einem Tag pro Woche angibt,  ihre bzw. seine Asthma-spezifische Bedarfsmedikation verwendet zu haben.
-
-- **Keine**“ ist anzukreuzen, wenn Ihre Patientin bzw. Ihr Patient gemäß ihrer bzw. seiner
-
-- Einschätzung keine Asthma-spezifische Bedarfsmedikation verwendet.
+- **Häufiger als 2 mal wöchentlich**“ geben Sie bitte an, wenn Ihre Patientin bzw. Ihr Patient  gemäß ihrer bzw. seiner Einschätzung jede Woche an mehr als zwei Tagen angibt, seine  Asthma-spezifische Bedarfsmedikation verwendet zu haben.
+- **„2 mal wöchentlich**“ geben Sie bitte an, wenn Ihre Patientin bzw. Ihr Patient gemäß ihrer  bzw. seiner Einschätzung jede Woche an zwei Tagen angibt, ihre bzw. seine Asthma- spezifische Bedarfsmedikation verwendet zu haben.
+- **1 mal wöchentlich**“ geben Sie bitte an, wenn Ihre Patientin bzw. Ihr Patient gemäß ihrer  bzw. seiner Einschätzung jede Woche an einem Tag angibt, ihre bzw. seine Asthma- spezifische Bedarfsmedikation verwendet zu haben.
+- **< 1 mal wöchentlich**“ ist anzugeben, wenn Ihre Patientin bzw. Ihr Patient gemäß ihrer bzw.  seiner Einschätzung in 3 unterschiedlichen Wochen an maximal einem Tag pro Woche angibt,  ihre bzw. seine Asthma-spezifische Bedarfsmedikation verwendet zu haben.
+- **Keine**“ ist anzukreuzen, wenn Ihre Patientin bzw. Ihr Patient gemäß ihrer bzw. seiner  Einschätzung keine Asthma-spezifische Bedarfsmedikation verwendet.
 
 #### In den letzten 4 Wochen: Einschränkung von Aktivitäten im Alltag wegen Asthma  bronchiale
 
 Genau eine Angabe ist erforderlich.
 
-Geben Sie bitte hier an, ob es bei Ihrer Patientin bzw. Ihrem Patienten zu Einschränkungen von
-
-Aktivitäten im Alltag gekommen ist, die durch ihr bzw. sein Asthma bronchiale bedingt waren. Die  Angabe bezieht sich dabei auf die Einschätzung des Patienten zum Dokumentationszeitpunkt  rückblickend für die letzten 4 Wochen und dient u. a. der Beurteilung der Asthmakontrolle.
+Geben Sie bitte hier an, ob es bei Ihrer Patientin bzw. Ihrem Patienten zu Einschränkungen von  Aktivitäten im Alltag gekommen ist, die durch ihr bzw. sein Asthma bronchiale bedingt waren. Die  Angabe bezieht sich dabei auf die Einschätzung des Patienten zum Dokumentationszeitpunkt  rückblickend für die letzten 4 Wochen und dient u. a. der Beurteilung der Asthmakontrolle.
 
 #### In den letzten 4 Wochen: Asthmabedingte Störung des Nachschlafes
 
@@ -145,11 +124,7 @@ Die Durchführung einer Lungenfunktionsmessung wird ab dem vollendeten 5. Lebens
 
 Genau eine Angabe ist erforderlich.
 
-Geben Sie hier bitte den aktuell gemessenen FEV -Wert Ihrer Patientin bzw. Ihres Patienten als 1
-
-Prozent-Wert des Sollwertes“ mit drei Stellen vor und einer Stelle hinter dem Komma oder „ Nicht
-
-durchgeführt“ an.
+Geben Sie hier bitte den aktuell gemessenen FEV -Wert Ihrer Patientin bzw. Ihres Patienten als 1 Prozent-Wert des Sollwertes“ mit drei Stellen vor und einer Stelle hinter dem Komma oder „ Nicht  durchgeführt“ an.
 
 Die Angabe „Nicht durchgeführt“ kann auch dann verwendet werden, wenn eine FEV -Messung z. 1
 
@@ -159,9 +134,7 @@ B. aufgrund des Alters bei Kindern nicht valide durchgeführt werden kann.
 
 #### Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen  Asthma bronchiale seit der letzten Dokumentation
 
-Eine Angabe zu diesem Feld ist nur im Rahmen einer **Folgedokumentation** möglich und ist hier
-
-verpflichtend.
+Eine Angabe zu diesem Feld ist nur im Rahmen einer **Folgedokumentation** möglich und ist hier  verpflichtend.
 
 
 ---
@@ -176,9 +149,7 @@ Die Angaben können - je nach Praxissoftware - direkt aus der Vordokumentation �
 
 Die Angaben „Bei Bedarf“ und „Dauermedikation“ sind gemeinsam möglich.
 
-Vorrangig sollen unter Berücksichtigung
-
-Medikamente verwendet werden, deren positiver Effekt und Sicherheit im Hinblick auf die Therapieziele  des DMP in prospektiven, randomisierten kontrollierten Studien diejenigen Wirkstoffe oder Wirkstoffgruppen oder Kombinationen bevorzugt werden, die diesbezüglich  den größten Nutzen erbringen.
+Vorrangig sollen unter Berücksichtigung  Medikamente verwendet werden, deren positiver Effekt und Sicherheit im Hinblick auf die Therapieziele  des DMP in prospektiven, randomisierten kontrollierten Studien diejenigen Wirkstoffe oder Wirkstoffgruppen oder Kombinationen bevorzugt werden, die diesbezüglich  den größten Nutzen erbringen.
 
 In der medikamentösen Behandlung des Asthma bronchiale werden Dauertherapeutika  (Medikamente, die regelmäßig eingenommen werden) und Bedarfstherapeutika (Medikamente, die bei  Bedarf, z. B. zur Behandlung von akuten Symptomen, z. B. Atemnot und insbesondere bei Asthma- Anfällen eingesetzt werden) unterschieden.
 
@@ -202,9 +173,7 @@ der Kontraindikationen und der Patientenpräferenzen
 
 nachgewiesen wurden. Dabei sollen
 
-, LABA: Lang wirkende Beta-2-Sympathomimetika,
-
-Dauertherapie) Zulassungseinschränkungen individuell geprüft werden. Überweisung zur qualifizierten fachärztlichen Ebene: Zur Indikationsstellung und gegebenenfalls Therapie mit geeigneten Monoklonalen Antikörper -2-Sympathomimetika, OCS: orale Glukokortikosteroide)
+Dauertherapie) Zulassungseinschränkungen individuell geprüft werden. Überweisung zur qualifizierten fachärztlichen Ebene: Zur Indikationsstellung und gegebenenfalls Therapie mit geeigneten Monoklonalen Antikörper , LABA: Lang wirkende Beta-2-Sympathomimetika,  -2-Sympathomimetika, OCS: orale Glukokortikosteroide)
 
 
 ---
@@ -249,10 +218,7 @@ ab dem vollendeten zwölften Lebensjahr Überweisung zu einer pädiatrischen Pne
 
 Bei unzureichendem Ansprechen kommen sowohl bei Erwachsenen als auch bei Kindern und  Jugendlichen in Betracht:
 
-- der kurzfristige Einsatz systemischer
-
-- zwei Wochen). In der Regel ist bei Kindern ein Einsatz für drei bis fünf Tage, bei Erwachsenen  für fünf bis sieben Tage ausreichend.
-
+- der kurzfristige Einsatz systemischer  zwei Wochen). In der Regel ist bei Kindern ein Einsatz für drei bis fünf Tage, bei Erwachsenen  für fünf bis sieben Tage ausreichend.
 - kurz wirkende Anticholinergika
 
 Die Asthma-Exazerbation kann durch Infekte, Allergenexposition, Medikamentenunverträglichkeit,  irritativ-toxische Ursachen sowie körperliche Belastung hervorgerufen werden. Die Gabe von  Antibiotika ist bei der Asthma-Exazerbation in der Regel nicht indiziert.
@@ -261,33 +227,25 @@ Die Asthma-Exazerbation kann durch Infekte, Allergenexposition, Medikamentenunve
 
 Eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.
 
-Geben Sie bitte an, ob eine Bedarfs- und/oder Dauertherapie mit inhalativen Glukokortikosteroiden  durchgeführt wird. Bitte geben Sie bei
-
-Kontraindikation gegen die Gabe eines inhalativen Glukokortikosteroids besteht. Diese Angabe ist  für die Qualitätssicherung notwendig.
+Geben Sie bitte an, ob eine Bedarfs- und/oder Dauertherapie mit inhalativen Glukokortikosteroiden  durchgeführt wird. Bitte geben Sie bei  Kontraindikation gegen die Gabe eines inhalativen Glukokortikosteroids besteht. Diese Angabe ist  für die Qualitätssicherung notwendig.
 
 #### Inhalative lang wirksame Beta-2-Sympathomimetika
 
 Eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.
 
-Geben Sie bitte an, ob eine Bedarfs- und/oder Dauertherapie mit inhalativen lang wirksamen Beta- 2-Sympathomimetika durchgeführt wird. Bitte geben Sie bei „ ob eine Kontraindikation gegen die Gabe
-
-Sympathomimetikums besteht. Diese Angabe ist für die Qualitätssicherung notwendig.
+Geben Sie bitte an, ob eine Bedarfs- und/oder Dauertherapie mit inhalativen lang wirksamen Beta- 2-Sympathomimetika durchgeführt wird. Bitte geben Sie bei „ ob eine Kontraindikation gegen die Gabe  Sympathomimetikums besteht. Diese Angabe ist für die Qualitätssicherung notwendig.
 
 #### Kurz wirksame inhalative Beta-2-Sympathomimetika
 
 Eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.
 
-Geben Sie bitte an, ob eine Bedarfs- und/oder Dauertherapie mit kurz wirksamen inhalativen Beta- 2-Sympathomimetika durchgeführt wird. Bitte geben Sie bei „ ob eine Kontraindikation gegen die Gabe
-
-Sympathomimetikums besteht. Diese Angabe ist für die Qualitätssicherung notwendig.
+Geben Sie bitte an, ob eine Bedarfs- und/oder Dauertherapie mit kurz wirksamen inhalativen Beta- 2-Sympathomimetika durchgeführt wird. Bitte geben Sie bei „ ob eine Kontraindikation gegen die Gabe  Sympathomimetikums besteht. Diese Angabe ist für die Qualitätssicherung notwendig.
 
 #### Systemische Glukokortikosteroide
 
 Eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.
 
-Geben Sie bitte an, ob eine Bedarfs- und/oder Dauertherapie mit systemischen (oralen)  Glukokortikosteroiden durchgeführt wird. Bitte geben Sie bei „
-
-ob eine Kontraindikation gegen die Gabe eines systemischen Glukokortikosteroids besteht. Diese  Angabe ist für die Qualitätssicherung notwendig.
+Geben Sie bitte an, ob eine Bedarfs- und/oder Dauertherapie mit systemischen (oralen)  Glukokortikosteroiden durchgeführt wird. Bitte geben Sie bei „ ob eine Kontraindikation gegen die Gabe eines systemischen Glukokortikosteroids besteht. Diese  Angabe ist für die Qualitätssicherung notwendig.
 
 #### Sonstige asthmaspezifische Medikation
 
@@ -309,13 +267,9 @@ Geben Sie hier bitte an, ob Sie dies bei der heutigen Konsultation getan haben.
 
 Keine“ gegebenenfalls zusätzlich an, ob eine
 
-Keine“ gegebenenfalls zusätzlich an,
+Keine“ gegebenenfalls zusätzlich an,  eines inhalativen lang wirksamen Beta-2-
 
-eines inhalativen lang wirksamen Beta-2-
-
-Keine“ gegebenenfalls zusätzlich an,
-
-eines kurz wirksamen inhalativen Beta-2-
+Keine“ gegebenenfalls zusätzlich an,  eines kurz wirksamen inhalativen Beta-2-
 
 Keine“ gegebenenfalls zusätzlich an,
 
@@ -328,11 +282,7 @@ Keine“ gegebenenfalls zusätzlich an,
 
 Eine Angabe ist erforderlich.
 
-Wenn Sie Ihrer Patientin bzw. Ihrem Patienten aktuell (am Tage der Konsultation) die Teilnahme an
-
-einem Schulungsprogramm empfohlen haben, geben Sie dies bitte hier mit „Ja“ an. Wenn Sie
-
-bereits zuvor eine Schulung empfohlen haben, diese aber aktuell noch nicht stattfinden konnte,  sprechen Sie die Empfehlung bitte erneut aus und kreuzen hier „Ja“ an.
+Wenn Sie Ihrer Patientin bzw. Ihrem Patienten aktuell (am Tage der Konsultation) die Teilnahme an  einem Schulungsprogramm empfohlen haben, geben Sie dies bitte hier mit „Ja“ an. Wenn Sie  bereits zuvor eine Schulung empfohlen haben, diese aber aktuell noch nicht stattfinden konnte,  sprechen Sie die Empfehlung bitte erneut aus und kreuzen hier „Ja“ an.
 
 Wurde *keine Schulung* empfohlen (z. B. weil Ihre Patientin bzw. Ihr Patient bereits eine Schulung
 
@@ -340,47 +290,28 @@ wahrgenommen hat), geben Sie dies bitte entsprechend mit „Nein“ an.
 
 #### Asthma-Schulung schon vor Einschreibung in DMP bereits wahrgenommen
 
-Bitte geben Sie an, ob Ihre Patientin bzw. Ihr Patient (bzw. bei (Klein)Kindern ggf. die Eltern bzw.  die Bezugspersonen) bereits vor ihrer bzw. seiner Teilnahme am DMP Asthma an einer Asthma Schulung teilgenommen hat. Eine Angabe zu diesem Feld ist nur im Rahmen einer
-
-**Erstdokumentation** möglich und ist hier verpflichtend. Bei der **Folgedokumentation** ist hier keine
-
-Angabe möglich.
+Bitte geben Sie an, ob Ihre Patientin bzw. Ihr Patient (bzw. bei (Klein)Kindern ggf. die Eltern bzw.  die Bezugspersonen) bereits vor ihrer bzw. seiner Teilnahme am DMP Asthma an einer Asthma Schulung teilgenommen hat. Eine Angabe zu diesem Feld ist nur im Rahmen einer  **Erstdokumentation** möglich und ist hier verpflichtend. Bei der **Folgedokumentation** ist hier keine  Angabe möglich.
 
 Gemeint sind hierbei folgende Schulungsmaßnahmen:
 
-- a) akkreditierte und für das DMP zugelassene Schulungen, sowie - b)
-
-- die Eltern bzw. Bezugspersonen) durch den Erwerb von Kenntnissen und Fertigkeiten über  andere Schulungsmaßnahmen, die der Patientin bzw. den Patienten (oder bei (Klein)Kindern
-
-- die Erkrankung und deren Behandlung in die Lage versetzt haben, auf der Basis eigener  Entscheidungen das Asthma bestmöglich in das eigene Leben zu integrieren, akute oder  langfristige negative Konsequenzen des Asthmas zu vermeiden und die Lebensqualität zu  erhalten.
+- a) akkreditierte und für das DMP zugelassene Schulungen, sowie
+- b) andere Schulungsmaßnahmen, die der Patientin bzw. den Patienten (oder bei (Klein)Kindern  die Eltern bzw. Bezugspersonen) durch den Erwerb von Kenntnissen und Fertigkeiten über  die Erkrankung und deren Behandlung in die Lage versetzt haben, auf der Basis eigener  Entscheidungen das Asthma bestmöglich in das eigene Leben zu integrieren, akute oder  langfristige negative Konsequenzen des Asthmas zu vermeiden und die Lebensqualität zu  erhalten.
 
 Sofern eine Teilnahme stattgefunden hat, geben Sie dies bitte hier mit „Ja“ an. Eine erneute  Teilnahme an einer Schulung ist dadurch NICHT ausgeschlossen!
 
-Wurde vor der Einschreibung in das DMP keine Schulung wahrgenommen, dokumentieren Sie dies
-
-bitte mit der Angabe „Nein“.
+Wurde vor der Einschreibung in das DMP keine Schulung wahrgenommen, dokumentieren Sie dies  bitte mit der Angabe „Nein“.
 
 #### Empfohlene Asthma-Schulung wahrgenommen
 
 Eine Angabe ist erforderlich.
 
-Die Angaben zur Schulung beziehen sich hier ausschließlich rückblickend auf eine Schulung, die
-
-Sie Ihrer Patientin bzw. Ihrem Patienten bei dem letzten Dokumentationstermin empfohlen haben,  und sind daher nur im Rahmen einer **Folgedokumentation** möglich und verpflichtend. Bei der
-
-Erstdokumentation ist hier keine Angabe möglich
+Die Angaben zur Schulung beziehen sich hier ausschließlich rückblickend auf eine Schulung, die  Sie Ihrer Patientin bzw. Ihrem Patienten bei dem letzten Dokumentationstermin empfohlen haben,  und sind daher nur im Rahmen einer **Folgedokumentation** möglich und verpflichtend. Bei der  Erstdokumentation ist hier keine Angabe möglich
 
 Hat die Patientin bzw. der Patient die empfohlene Schulung wahrgenommen, geben Sie dies bitte  mit „Ja“ an.
 
-Sollte Ihre Patientin bzw. Ihr Patient eine empfohlene Schulung ohne einen für Sie
+Sollte Ihre Patientin bzw. Ihr Patient eine empfohlene Schulung ohne einen für Sie  nachvollziehbaren Grund nicht wahrgenommen haben, geben Sie bitte „ Nein“ an. Diese Angabe  kann bei wiederholter Angabe zum Ausschluss der/des Versicherten aus dem Programm führen!
 
-nachvollziehbaren Grund nicht wahrgenommen haben, geben Sie bitte „ Nein“ an. Diese Angabe
-
-kann bei wiederholter Angabe zum Ausschluss der/des Versicherten aus dem Programm führen!
-
-Die Ausprägung „War aktuell nicht möglich“ ist anzukreuzen, wenn die Schulung innerhalb des
-
-Dokumentationsintervalls (jedes Quartal oder jedes zweite Quartal) wegen nachvollziehbarer  Gründe nicht wahrgenommen werden konnte. Solche Gründe können z. B. sein: Fehlende  Schulungskapazität, Krankenhausaufenthalt der Patientin bzw. des Patienten, private Gründe. Die  Beurteilung, ob die Gründe nachvollziehbar sind, obliegt alleine Ihnen und der Patientin bzw. dem  Patienten.
+Die Ausprägung „War aktuell nicht möglich“ ist anzukreuzen, wenn die Schulung innerhalb des  Dokumentationsintervalls (jedes Quartal oder jedes zweite Quartal) wegen nachvollziehbarer  Gründe nicht wahrgenommen werden konnte. Solche Gründe können z. B. sein: Fehlende  Schulungskapazität, Krankenhausaufenthalt der Patientin bzw. des Patienten, private Gründe. Die  Beurteilung, ob die Gründe nachvollziehbar sind, obliegt alleine Ihnen und der Patientin bzw. dem  Patienten.
 
 
 ---
@@ -407,9 +338,7 @@ Eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.
 
 Bitte geben Sie hier, ob Sie eine Anpassung der asthmaspezifischen Therapie vorgenommen  haben.
 
-Es soll regelmäßig, insbesondere vor einer Steigerung der medikamentösen Therapie, die richtige  Anwendung überprüft werden. Geben Sie bitte „Verbesserung der Anwendung der Medikation“ an,
-
-wenn die Patientin bzw. der Patient in einer verbesserten Anwendung unterwiesen wurde. Diese  Angabe kann gemeinsam mit „Steigerung der Medikation“ sowie mit „Reduktion der  erfolgen.
+Es soll regelmäßig, insbesondere vor einer Steigerung der medikamentösen Therapie, die richtige  Anwendung überprüft werden. Geben Sie bitte „Verbesserung der Anwendung der Medikation“ an,  wenn die Patientin bzw. der Patient in einer verbesserten Anwendung unterwiesen wurde. Diese  Angabe kann gemeinsam mit „Steigerung der Medikation“ sowie mit „Reduktion der  erfolgen.
 
 Geben Sie bitte „Steigerung der Medikation“ an, wenn Sie die Dosis oder die Anzahl der verordneten  Medikamente erhöht haben.
 

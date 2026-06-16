@@ -31,9 +31,7 @@
 **II. Vorsorgebedürftigkeit**
 **A. Kurze Angaben zur Anamnese**
 
-**B. Vorübergehende Beeinträchtigungen der Aktivitäten/Teilhabe in Folge der unter I. B. genannten Erkrankungen** ***(beispielsweise Entscheidungen treffen, mit Stress umgehen, auf die eigene Gesundheit und Ernährung ac***
-
-***häusliches Leben organisieren, Familien-/soziale Beziehungen pflegen, einer Beschäftigung sowie eigene***
+**B. Vorübergehende Beeinträchtigungen der Aktivitäten/Teilhabe in Folge der unter I. B. genannten Erkrankungen** ***(beispielsweise Entscheidungen treffen, mit Stress umgehen, auf die eigene Gesundheit und Ernährung ac*** ***häusliches Leben organisieren, Familien-/soziale Beziehungen pflegen, einer Beschäftigung sowie eigene***
 
 **C. Kontextfaktoren, die für die mütter-/väterspezifische Problemkonstellation relevant sind** **Mehrfachbelastung**
 
@@ -89,9 +87,7 @@
 
 **chronisch erkrankte, verhaltensauffällige oder behinderte**
 
-**der Frau / des Mannes in der**
-
-**Kinder, frühgeborene Kinder, Mehrlingsgeburten**
+**der Frau / des Mannes in der** **Kinder, frühgeborene Kinder, Mehrlingsgeburten**
 
 **andere Kontextfaktoren; ggf. nähere Erläuterungen**
 

@@ -46,7 +46,7 @@
 
 **Prognose**
 
-|  | **wird** |  | **wird** |  |
+|  | wird |  | wird |  |
 |---|---|---|---|---|
 |  | **vermieden** |  | **verkürzt** |  |
 
@@ -56,9 +56,7 @@
 
 ***Der soziotherapeutische Betreuungsplan ist beigefügt!***
 
-**Für das Ausstellen der** ***Erst*****verordnung ist die Nr. 30810 EBM berechnungsfähig.**
-
-**Für das Ausstellen der** ***Folge*****verordnung ist die Nr. 30811 EBM berechnungsfähig.**
+**Für das Ausstellen der** ***Erst*****verordnung ist die Nr. 30810 EBM berechnungsfähig.** **Für das Ausstellen der** ***Folge*****verordnung ist die Nr. 30811 EBM berechnungsfähig.**
 
 ***Diese Ausfertigung bitte zusammen mit dem***
 

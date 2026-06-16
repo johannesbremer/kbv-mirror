@@ -7,13 +7,11 @@
 |  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  14. FEBRUAR 2022   VERSION: 1.06   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
-# EMPFEHLUNG Z UR ERWEITERUNG DES
-
-# LDT2
+# EMPFEHLUNG Z UR ERWEITERUNG DES  LDT2
 
 ## [KBV_ITA_VGEX_EMPFEHLUNG_BEI_LDT2]
 
-BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
+BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
 
 
 ---
@@ -26,38 +24,35 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **2** **ERWEITERUNG DES LDT2-DATENSATZES**
 
-**5**
+**5**  2.1 Erweiterung der Satzart 8218
 
-2.1 Erweiterung der Satzart 8218 5
+5  2.2 Erweiterung der Satzart 8201
 
-2.2 Erweiterung der Satzart 8201 8
-
-2.3 Erweiterung der Satzart 8203 10
-
+8  2.3 Erweiterung der Satzart 8203 10
 
 ---
 
 DOKUMENTENHISTORIE
 
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.06 | 14.02.2022 | KBV | FK 8632 aus den Satzarten | Änderung des Musters | 5, 8, 10 |
 | 1.05 | 09.04.2021 | KBV | Feldart der FK 8631 und FK | Klarstellung der Regeln | 5, 8, 10 |
-| 1.04 | 19.03.2021 | KBV | Anpassung der erlaubten In- Aufnahme der Feldkennung | Änderung des Musters | 5    5, 8, 10 |
-| 1.03 | 13.11.2020 | KBV | Nutzung der Feldkennung  Aufnahme der Feldkennung  Anpassung der erlaubten In- Anpassung der Feldart der  Anpassung der Bedingungen | Änderung der Muster | 5    8, 10    5, 8, 10    5, 8, 10    5, 8, 10 |
-| 1.02 | 30.07.2020 | KBV | Aufnahme der Feldkennun- Anpassung der erlaubten In- Aufnahme der Feldkennun- Anpassung des Vorkommens | Änderung des Musters    Anpassung an die Vorga- Anpassung an Muster | 5      8, 10    5 |
+| 1.04 | 19.03.2021 | KBV | Anpassung der erlaubten In- Aufnahme der Feldkennung | Änderung des Musters | 5  5, 8, 10 |
+| 1.03 | 13.11.2020 | KBV | Nutzung der Feldkennung  Aufnahme der Feldkennung  Anpassung der erlaubten In- Anpassung der Feldart der  Anpassung der Bedingungen | Änderung der Muster | 5  8, 10  5, 8, 10  5, 8, 10  5, 8, 10 |
+| 1.02 | 30.07.2020 | KBV | Aufnahme der Feldkennun- Anpassung der erlaubten In- Aufnahme der Feldkennun- Anpassung des Vorkommens | Änderung des Musters    Anpassung an die Vorga- Anpassung an Muster | 5    8, 10  5 |
 
 8201, 8203 und 8218 gestri- chen 8632 in den Satzarten 8201, 8203 und 8218 geändert halte der Feldkennung 8617 8631 und 8632 in die Satzar- ten 8201, 8203 und 8218 4111 in der Satzart 8218 4111 in die Satzarten 8201 und 8203 halte der Feldkennungen 8617, 8624 und 8626 Feldkennung 8620 der Feldkennungen 8626, 8627, 8617, 8618, 8619, 8620 gen 8626 und 8627 halte und des Vorkommens der Feldkennung 8617 gen 8616, 8617, 8618, 8619, 8620, 8623, 8625, 8626, 8627 in die Satzarten 8201 und 8203 der Feldkennung 8620 OEGD zur Befüllung der Felder Beauftragungsgrund, Be- stätigungsdiagnostik und Virusvariantendiagnostik des Musters OEGD und deren Abbildung auf die TestV-Datensatzart LAB- TEST OEGD 10C und OEGD OEGD ben zu den Pflichten der Leistungserbringer 10C und OEGD
 
 ---
 
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 |  |  |  |  |  | Anpassung der Feldart der |
 | 1.01 | 26.06.2020 | KBV | Korrektur der Länge der |  | 7 |
 | 1.00 | 25.06.2020 | KBV |  |  | Alle |
 
-Feldkennungen 8617, 8618, 8620 und 8624 GUID in der Satzart 8218
+Feldkennungen 8617, 8618, 8620 und 8624 GUID in der Satzart 8218 
 
 
 ---
@@ -74,11 +69,9 @@ Diese Empfehlung ist nicht als Weiterentwicklung des LDT 2
 
 ## 2.1 ERWEITERUNG DER SATZART 8218
 
-Zwischen den Feldkennungen **4208** und **4217** sollten die nachfolgenden Feldkennung zur Übermittlung der
+Zwischen den Feldkennungen **4208** und **4217** sollten die nachfolgenden Feldkennung zur Übermittlung der  Daten bzgl. des Muster 10C oder OEDG aufgenommen werden:
 
-Daten bzgl. des Muster 10C oder OEDG aufgenommen werden:
-
-| **FK** | **VORKOMMEN  1  2  3  4** | **FELDBEZEICHNUNG** | **FELDART** | **BEDINGUNG** |
+| FK | VORKOMMEN  1  2  3  4 | FELDBEZEICHNUNG | FELDART | BEDINGUNG |
 |---|---|---|---|---|
 | **8616** | 1 | Testungen | K |  |
 | **8626** | 1 | Rechtsgrundlage der | k | Entweder darf FK 8626 oder FK 8624  Wenn Inhalt von FK 8626 = 2, muss  Wenn Inhalt von FK 8626 = 1 oder 3,  Wenn Inhalt von FK 8626 = 3, darf FK  Wenn Inhalt von FK 8626 = 1, muss FK |
@@ -95,7 +88,7 @@ vorhanden sein.  entweder FK 8627 oder FK 4111 vor- handen sein. Beide Feldkennu
 
 ---
 
-| **FK** | **VORKOMMEN  1  2  3  4** | **FELDBEZEICHNUNG** | **FELDART** | **BEDINGUNG** |
+| FK | VORKOMMEN  1  2  3  4 | FELDBEZEICHNUNG | FELDART | BEDINGUNG |
 |---|---|---|---|---|
 | **8631** | 1 | Bestätigungsdiagnostik | m | Wenn Inhalt von FK 8626 = 1, muss  Es kann eine beliebige Kombination |
 |  | **8632** | 1 | Virusvariantendiagnostik | m |
@@ -111,7 +104,7 @@ vorhanden sein.  entweder FK 8627 oder FK 4111 vor- handen sein. Beide Feldkennu
 
 Für die Feldkennung  Regel zusätzlich anzuwenden:
 
-| **FK** | **VORKOMMEN  1  2  3  4** | **FELDBEZEICHNUNG** | **FELDART** | **BEDINGUNG** |
+| FK | VORKOMMEN  1  2  3  4 | FELDBEZEICHNUNG | FELDART | BEDINGUNG |
 |---|---|---|---|---|
 | **4111** | 1 | Kostentraegerkennung | m | Wenn Inhalt von FK 8626 = 2, muss  Wenn Inhalt von FK 8626 = 1 oder 3, |
 
@@ -124,7 +117,7 @@ chen ÖGD testeten min. die FK 8617 oder FK 8631 oder FK 8632 vorhanden sein.  d
 
 ---
 
-| **FK** | **FELDBEZEICH- NUNG** | **LÄNGE** | **TYP** | **ERLAUBTE INHALTE UND DEREN BE- DEUTUNG** | **VERWENDUNG BEI  DER BEAUFTRAGUNG** |
+| FK | FELDBEZEICH- NUNG | LÄNGE | TYP | ERLAUBTE INHALTE UND DEREN BE- DEUTUNG | VERWENDUNG BEI  DER BEAUFTRAGUNG |
 |---|---|---|---|---|---|
 | **7330** | Telefonnum- | ≤ 60 | alnum |  | Muster 10C  Muster OEDG |
 | **8616** | Testungen | 1 | num | 1 = Ersttestung  2 = weitere Testung | Muster 10C |
@@ -137,11 +130,11 @@ chen ÖGD testeten min. die FK 8617 oder FK 8631 oder FK 8632 vorhanden sein.  d
 | **8621** | Einverständnis | 1 | num | 1 = ja | Muster 10C  Muster OEDG |
 | **8622** | Corona-GUID | 43 | alnum | Die eindeutige GUID wird nach den   o   | Muster 10C  Muster OEDG |
 
-mer des Getes- teten grund gebracht in / CWA 3 = Test nach § 3 TestV Ausbruchsge- schehen 4 = Test nach § 4 Abs. 1 Nr. 1 und 2 TestV Verhütung der Verbreitung TestV nach positivem Antigentest folgenden Vorgaben erzeugt:  Aufbau ist GUID: <XXXXXX>- <UUID>. Komplette Form des Strings: XXXXXX- XXXXXXXX-XXXX-XXXX- XXXX-XXXXXXXXXXXX. <UUID> wird gemäß RFC4122 Version 4 erzeugt mit den zu- gehörigen Separatoren er- zeugt.  <XXXXXX> wird eine 6-stellige hexadezimale Zufallszahl er- zeugt, welche ggf. linksbündig mit “0” gefüllt werden kann.
+mer des Getes- teten grund / CWA 3 = Test nach § 3 TestV Ausbruchsge- schehen 4 = Test nach § 4 Abs. 1 Nr. 1 und 2 TestV Verhütung der Verbreitung TestV nach positivem Antigentest gebracht in folgenden Vorgaben erzeugt:  Aufbau ist GUID: <XXXXXX>- <UUID>. Komplette Form des Strings: XXXXXX- XXXXXXXX-XXXX-XXXX- XXXX-XXXXXXXXXXXX. <UUID> wird gemäß RFC4122 Version 4 erzeugt mit den zu- gehörigen Separatoren er- zeugt.  <XXXXXX> wird eine 6-stellige hexadezimale Zufallszahl er- zeugt, welche ggf. linksbündig mit “0” gefüllt werden kann.
 
 ---
 
-| **FK** | **FELDBEZEICH- NUNG** | **LÄNGE** | **TYP** | **ERLAUBTE INHALTE UND DEREN BE- DEUTUNG** | **VERWENDUNG BEI  DER BEAUFTRAGUNG** |
+| FK | FELDBEZEICH- NUNG | LÄNGE | TYP | ERLAUBTE INHALTE UND DEREN BE- DEUTUNG | VERWENDUNG BEI  DER BEAUFTRAGUNG |
 |---|---|---|---|---|---|
 |  |  |  |  |  | Beispiel einer erzeugten GUID: |
 | **8623** | Identifika- | ≤ 22 | alnum |  | Muster OEDG |
@@ -150,29 +143,23 @@ mer des Getes- teten grund gebracht in / CWA 3 = Test nach § 3 TestV Ausbruchsg
 | **8626** | Rechtsgrund- | 1 | num | 1 = TestV | Muster OEDG |
 | **8627** | KV-Sonderziffer | 1 | alnum |  | Muster OEDG |
 
-Wenn die Satzart 8218 die Informationen des Musters OEDG transportieren soll, dann können die folgen- den Felder nicht befüllt werden, da diese Informationen auf dem Muster nicht enthalten sind - 3116
+Wenn die Satzart 8218 die Informationen des Musters OEDG transportieren soll, dann können die folgen- den Felder nicht befüllt werden, da diese Informationen auf dem Muster nicht enthalten sind
 
+- 3116
 - 3108
-
 - 2002
-
 - 4104
-
 - 4106
-
 - 4109
-
 - 4131
-
 - 4132
-
 - 8403
 
 ## 2.2 ERWEITERUNG DER SATZART 8201
 
 Nach der Feldkennung **8311** sollte die folgende Feldkennung ergänzt werden:
 
-| **FK** | **VORKOMMEN  1  2  3  4** | **FELDBEZEICHNUNG** | **FELDART** | **BEDINGUNG** |
+| FK | VORKOMMEN  1  2  3  4 | FELDBEZEICHNUNG | FELDART | BEDINGUNG |
 |---|---|---|---|---|
 | **8616** | 1 | Testungen | K |  |
 | **8626** | 1 | Rechtsgrundlage der Tes- | K | Wenn Inhalt von FK 8626 = 2, muss  Wenn Inhalt von FK 8626 = 1 oder 3,  Wenn Inhalt von FK 8626 = 3, darf  Wenn Inhalt von FK 8626 = 1, muss |
@@ -181,7 +168,7 @@ Nach der Feldkennung **8311** sollte die folgende Feldkennung ergänzt werden:
 
 ---
 
-| **FK** | **VORKOMMEN  1  2  3  4** | **FELDBEZEICHNUNG** | **FELDART** | **BEDINGUNG** |
+| FK | VORKOMMEN  1  2  3  4 | FELDBEZEICHNUNG | FELDART | BEDINGUNG |
 |---|---|---|---|---|
 | **8627** | 1 | KV-Sonderziffer | m | Wenn Inhalt von FK 8626 = 2, muss  Wenn Inhalt von FK 8626 = 1 oder 3, |
 | **8617** | 1 | Beauftragungsgrund | m | Wenn Inhalt von FK 8626 = 1, muss  Wenn Inhalt von FK 8626 = 3, darf |
@@ -200,7 +187,7 @@ entweder FK 8627 oder FK 4111 vorhanden sein. Beide Feldkennun- gen dürfen glei
 
 ---
 
-| **FK** | **FELDBEZEICH- NUNG** | **LÄNGE** | **TYP** | **ERLAUBTE INHALTE UND DEREN   BEDEUTUNG** | **VERWENDUNG  BEI DER   BEAUFTRAGUNG** |
+| FK | FELDBEZEICH- NUNG | LÄNGE | TYP | ERLAUBTE INHALTE UND DEREN   BEDEUTUNG | VERWENDUNG  BEI DER   BEAUFTRAGUNG |
 |---|---|---|---|---|---|
 | **8616** | Testungen | Siehe Kapitel 2.1 | Muster OEDG | | |
 |  |  | **8617** | Beauftragungs- | | |
@@ -219,7 +206,7 @@ entweder FK 8627 oder FK 4111 vorhanden sein. Beide Feldkennun- gen dürfen glei
 
 Nach der Feldkennung **8311** sollte die folgende Feldkennung ergänzt werden:
 
-| **FK** | **VORKOMMEN  1  2  3  4** | **FELDBEZEICHNUNG** | **FELDART** | **BEDINGUNG** |
+| FK | VORKOMMEN  1  2  3  4 | FELDBEZEICHNUNG | FELDART | BEDINGUNG |
 |---|---|---|---|---|
 | **8616** | 1 | Testungen | K |  |
 | **8626** | 1 | Rechtsgrundlage der Tes- | K | Wenn Inhalt von FK 8626 = 2, muss  Wenn Inhalt von FK 8626 = 1 oder 3,  Wenn Inhalt von FK 8626 = 3, darf |
@@ -228,7 +215,7 @@ bracht in richtung richtung tenzeichen ÖGD der Testung entweder FK 8627 oder FK
 
 ---
 
-| **FK** | **VORKOMMEN** **1  2  3  4** | **FELDBEZEICHNUNG** | **FELDART** | **BEDINGUNG** |
+| FK | VORKOMMEN  1  2  3  4 | FELDBEZEICHNUNG | FELDART | BEDINGUNG |
 |---|---|---|---|---|
 |  |  |  |  | Wenn Inhalt von FK 8626 = 1, muss |
 | **8627** | 1 | KV-Sonderziffer | m | Wenn Inhalt von FK 8626 = 2, muss  Wenn Inhalt von FK 8626 = 1 oder 3, |
@@ -249,7 +236,7 @@ FK 8617 vorhanden sein. entweder FK 8627 oder FK 4111 vorhanden sein. Beide Feld
 
 Die Feldkennungen sollten wie folgt definiert werden:
 
-| **FK** | **FELDBEZEICH- NUNG** | **LÄNGE** | **TYP** | **ERLAUBTE INHALTE UND DEREN ** **BEDEUTUNG** | **VERWENDUNG  BEI DER   BEAUFTRAGUNG** |
+| FK | FELDBEZEICH- NUNG | LÄNGE | TYP | ERLAUBTE INHALTE UND DEREN   BEDEUTUNG | VERWENDUNG  BEI DER   BEAUFTRAGUNG |
 |---|---|---|---|---|---|
 | **8616** | Testungen | Siehe Kapitel 2.1 | Muster OEDG | | |
 |  |  | **8617** | Beauftragungs- | | |
@@ -270,6 +257,4 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Kassenärztliche Bundesvereinigung
-
-bracht in richtung richtung tenzeichen ÖGD der Testung Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+bracht in richtung richtung tenzeichen ÖGD der Testung Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)

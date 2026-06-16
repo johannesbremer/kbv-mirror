@@ -68,15 +68,14 @@ anwendung (Anwendung)...........................................................
 
 ---
 
-| 6 keytabs | (Schlüsseltabellen) | ............................................................................................ 25 |
-|---|---|---|
-| 6.1 keytabs | (Schlüsseltabellen)...................................................................................................................... | 25 |
-| 6.1.1 keytab | (Schlüsseltabelle) | .............................................................................................................................................................. 25 |
-| key | (Schlüssel) ................................................................................................................................................................................... | 25 |
-| 7 | Anhang.................................................................................................................................... | 27 |
-| 7.1 Zuordnung | OID - Schlüsseltabelle | ........................................................................................................ 27 |
+6 keytabs (Schlüsseltabellen) ............................................................................................ 25 6.1 keytabs (Schlüsseltabellen)...................................................................................................................... 25
 
-keytabs (Schlüsseltabellen) ............................................................................................ 25 keytabs (Schlüsseltabellen)...................................................................................................................... 25 6.1.1 keytab (Schlüsseltabelle) .............................................................................................................................................................. 25 key (Schlüssel) ................................................................................................................................................................................... 25 Anhang.................................................................................................................................... 27 Zuordnung OID - Schlüsseltabelle ........................................................................................................ 27
+6.1.1 keytab (Schlüsseltabelle) .............................................................................................................................................................. 25
+
+key (Schlüssel) ................................................................................................................................................................................... 25
+
+7 Anhang.................................................................................................................................... 27 7.1 Zuordnung OID - Schlüsseltabelle ........................................................................................................ 27
+
 
 ---
 
@@ -100,29 +99,17 @@ Seite
 
 **Datum Autor**
 
-08.05.20 kv.digital
+08.05.20 kv.digital  26
 
-26
+GmbH 15.03.20 kv.digital  24
 
-GmbH 15.03.20 kv.digital
+GmbH 11.01.20 kv.digital  23
 
-24
+GmbH 15.01.20 kv.digital  21
 
-GmbH 11.01.20 kv.digital
+GmbH 25.03.20 kv.digital GmH 20
 
-23
-
-GmbH 15.01.20 kv.digital
-
-21
-
-GmbH 25.03.20 kv.digital GmH
-
-20
-
-14.01.20 KV Telematik
-
-19
+14.01.20 KV Telematik  19
 
 GmbH
 
@@ -154,9 +141,7 @@ alle redaktionelle Änderungen 5
 
 Aufnahme Element <kim_test_email> Anpassung Abbildung 11 5
 
-Aufnahme Element <kim_email> Anpassung Abbildung 11
-
-Änderung Element <anwendungsspezifika> Löschen <dmp_liste> Anpassung Abbildung 12 7 Anpassung Tabelle 21
+Aufnahme Element <kim_email> Anpassung Abbildung 11 Änderung Element <anwendungsspezifika> Löschen <dmp_liste> Anpassung Abbildung 12 7 Anpassung Tabelle 21
 
 alle Änderungen im Kontext der Umfirmierung der KV Telematik  GmbH in kv.digital GmbH 4
 
@@ -191,9 +176,7 @@ Aufnahme Attribut-Gruppe gueltigkeit 18
 
 GmbH
 
-Anpassung Abbildung 11 Anpassung Tabelle 16
-
-<version> Angabe von max. 2 Elementen möglich gueltigkeit kann gesetzt werden Anpassung Tabelle 15
+Anpassung Abbildung 11 Anpassung Tabelle 16 <version> Angabe von max. 2 Elementen möglich gueltigkeit kann gesetzt werden Anpassung Tabelle 15
 
 0.3 07.11.20 KV Telematik alle Überarbeitung nach interner Kommentierung 16
 
@@ -201,17 +184,15 @@ GmbH
 
 0.2 25.10.20 KV Telematik alle redaktionelle Änderungen 16
 
-GmbH 0.1 24.10.20 KV Telematik alle
+GmbH
 
-16
+0.1 24.10.20 KV Telematik alle 16
 
 GmbH
 
 **Herausgeber:** kv.digital GmbH
 
-**Die Spezifikation untersteht den Lizenzbestimmungen für die untentgeltliche Nutzung von Spezifikationen**  **der kv.digital GmbH. Den vollständigen Text finden Sie unter dem nachfolgenden Link:**  für die unentgeltliche Nutzung von Spezifikationen der kv.digital GmbH [https://partnerportal.kv-telematik.de/](https://partnerportal.kv-telematik.de/)
-
-pages/viewpage.action?pageId=71075847
+**Die Spezifikation untersteht den Lizenzbestimmungen für die untentgeltliche Nutzung von Spezifikationen**  **[der kv.digital GmbH. Den vollständigen Text finden Sie unter dem nachfolgenden Link:](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847)** [für die unentgeltliche Nutzung von Spezifikationen der kv.digital GmbH](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847) [https://partnerportal.kv-telematik.de/](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847) [pages/viewpage.action?pageId=71075847](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847)
 
 Seite
 
@@ -225,7 +206,7 @@ außer  Kraft
 
 initiale  Erstellun g
 
-Lizenzbestimmungen 5 von 27
+[Lizenzbestimmungen](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847) 5 von 27
 
 
 ---
@@ -242,13 +223,7 @@ Die Schnittstellen für den Datenaustausch liegen im XML-Format vor. Sie sind ko
 
 ***Referenzen***
 
-[ehd]: ehd-Richtlinie (ftp://ftp.kbv.de/ita-update/Medizinische-Dokumentationen/) https:// update.kbv.de/ita-update/Medizinische-Dokumentationen/Leitfaeden/ehd-Richtlinie_V1.40.zip [1Click]: Spezifikation 1-Click-Abrechnung via KV-Connect (Tabelle Spezifikation, https://
-
-partnerportal.kv-telematik.de/pages/viewpage.action?pageId=11927560) Spezifikation 1ClickAbrechnung via KIM, [https://update.kbv.de/ita-update/Abrechnung/1-Click-](https://update.kbv.de/ita-update/Abrechnung/1-Click-) Abrechnung/KIM/
-
-*[HybridDRG]: Spezifikation 1ClickHybridDRG,* [https://update.kbv.de/ita-update/Abrechnung/1-Click-](https://update.kbv.de/ita-update/Abrechnung/1-Click-)
-
-Abrechnung/HybridDRG/ [Versionierung]: Versionierung von Spezifikationen, [https://partnerportal.kv-telematik.de/pages/](https://partnerportal.kv-telematik.de/pages/) viewpage.action?pageId=24215708
+[[ehd]: ehd-Richtlinie (ftp://ftp.kbv.de/ita-update/Medizinische-Dokumentationen/) https://](ftp://ftp.kbv.de/ita-update/Medizinische-Dokumentationen/) [update.kbv.de/ita-update/Medizinische-Dokumentationen/Leitfaeden/ehd-Richtlinie_V1.40.zip](ftp://ftp.kbv.de/ita-update/Medizinische-Dokumentationen/) [[1Click]:](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/Leitfaeden/ehd-Richtlinie_V1.40.zip) [](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=11927560) [Spezifikation 1-Click-Abrechnung via KV-Connect (Tabelle Spezifikation,](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=11927560)[https://](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=11927560) [partnerportal.kv-telematik.de/pages/viewpage.action?pageId=11927560)](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=11927560) [Spezifikation 1ClickAbrechnung via KIM, https://update.kbv.de/ita-update/Abrechnung/1-Click-](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=11927560) [Abrechnung/KIM/](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/) *[[HybridDRG]: Spezifikation 1ClickHybridDRG,](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/)*[https://update.kbv.de/ita-update/Abrechnung/1-Click-](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/) [Abrechnung/HybridDRG/](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/HybridDRG/) [[Versionierung]: Versionierung von Spezifikationen, https://partnerportal.kv-telematik.de/pages/](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/HybridDRG/) [viewpage.action?pageId=24215708](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=24215708)
 
 Seite 6 von 27
 
@@ -318,7 +293,7 @@ Seite 7 von 27
 
 ---
 
-| **Namepart** | **Erläuterung** |
+| Namepart | Erläuterung |
 |---|---|
 | <val> | value - Erwarteter Wert |
 | **1 Tabelle:** | **Dateinamenskonvention** |
@@ -334,15 +309,7 @@ Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
 
 Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
 
-**3 ehd-Element (root-Element)** Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Unterelemente „header“ und „body“
-
-*und "keytabs"*, wie es in Abbildung 1 dargestellt ist. Im „header“-Element stehen die spezifischen Informationen
-
-zur Schnittstelle. Im „body“-Element werden die eigentlichen Daten hinterlegt.* Im "keytabs"-Element werden die*
-
-*Schlüsseltabellen definiert, welche für die Referenzierung innerhalb der XML-Datei verwendet werden.*
-
-Für die XML-Dateien ist der Zeichensatz UTF-8 vorgeschrieben. Bei allen Elementen, die in diesem Dokument  beschrieben werden, ist es wichtig, die Groß-/Kleinschreibung zu beachten.
+**3 ehd-Element (root-Element)** Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Unterelemente „header“ und „body“  *und "keytabs"*, wie es in Abbildung 1 dargestellt ist. Im „header“-Element stehen die spezifischen Informationen  zur Schnittstelle. Im „body“-Element werden die eigentlichen Daten hinterlegt.* Im "keytabs"-Element werden die*  *Schlüsseltabellen definiert, welche für die Referenzierung innerhalb der XML-Datei verwendet werden.*  Für die XML-Dateien ist der Zeichensatz UTF-8 vorgeschrieben. Bei allen Elementen, die in diesem Dokument  beschrieben werden, ist es wichtig, die Groß-/Kleinschreibung zu beachten.
 
 Das Element hat folgenden Aufbau:
 
@@ -418,9 +385,7 @@ Das Element hat folgenden Aufbau:
 
 attributes V
 
-xs:nonNegati required
-
-veInteger
+xs:nonNegati required veInteger
 
 example <ehd:version_nbr V="1"/>
 
@@ -1050,7 +1015,7 @@ xs:dateTime optional
 
 *xs:dateTime optional*
 
-*kim.telematik" gueltig_ab="2026-06-20T00:00:00"/>*
+*[kim.telematik" gueltig_ab="2026-06-20T00:00:00"/>](http://kv-safenet.de)*
 
 Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
 
@@ -1113,9 +1078,7 @@ Das Element hat folgenden Aufbau:
 
 attributes V
 
-kvca:oneclick required
-
-funktion
+kvca:oneclick required funktion
 
 RT
 
@@ -1280,7 +1243,7 @@ id (kv)
 
 *state*
 
-**22 Tabelle: Zuordnung OID - Schlüsseltabelle** Die Schlüsseltabellen werden hier verwaltet.
+**22 Tabelle: Zuordnung OID - Schlüsseltabelle** [Die Schlüsseltabellen werden hier verwaltet.](https://applications.kbv.de/)
 
 Seite
 

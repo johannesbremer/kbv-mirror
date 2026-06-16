@@ -26,53 +26,27 @@
 
 **Ärztliche Behandlung (EBM-Positionen)**
 
-**Summe Ärztliche**
-
-**Behandlung** **(Euro)**
+**Summe Ärztliche**  **Behandlung** **(Euro)**
 
 **(Euro)**
 
 **Sachkosten und** **Sprechstunden-**
 
-**kosten**
-
-**bedarf (Euro)**
+**kosten** **bedarf (Euro)**
 
 **Gesamtsumme** **für einmalig im** **Reproduktionsfall** **anfallende** **Leistungen (Euro)** **Ort**
 
 ### IV Genehmigung durch die Krankenkasse(n)
 
-**Die** **auf** **die** **jeweils** **zulässige** **Höchstzahl**
+**Die** **auf** **die** **jeweils** **zulässige** **Höchstzahl** **Vorbehandlungen** **sind** **zu** **berücksichtigen** **die** **Anzahl** **der** **genehmigten** **Zyklen.**
 
-**Vorbehandlungen** **sind** **zu** **berücksichtigen**
-
-**die** **Anzahl** **der** **genehmigten** **Zyklen.**
-
-**Bei** **einer** **Genehmigung** **für** **3** **IVF-** **oder**
-
-**der** **3.** **IVF-** **oder** **ICSI-Zyklus** **unter** **dem**
-
-**einem** **von** **2** **Behandlungszyklen** **eine**
-
-**gefunden** **hat.** **Bei** **Inseminationen** **im**
-
-**die** **Genehmigung** **für** **bis** **zu** **8** **in** **Folge**
+**Bei** **einer** **Genehmigung** **für** **3** **IVF-** **oder** **der** **3.** **IVF-** **oder** **ICSI-Zyklus** **unter** **dem** **einem** **von** **2** **Behandlungszyklen** **eine** **gefunden** **hat.** **Bei** **Inseminationen** **im** **die** **Genehmigung** **für** **bis** **zu** **8** **in** **Folge**
 
 **auf beiden Ausfertigungen**
 
 **erteilt werden.**
 
-**Nach**  **27a** **SGB** **V** **sind** **50%** **der**
-
-**(inklusive** **Medikamentenkosten,** **siehe**
-
-**Eigenanteil** **des** **Patienten.** **Eine** **abschließende**
-
-**nung** **der** **Gesamtkosten** **kann**  **u.** **a.**
-
-**vertraglich** **vereinbarten** **Punktwertes**
-
-**erst** **nach** **Beendigung** **der** **Behandlung**
+**Nach**  **27a** **SGB** **V** **sind** **50%** **der**  **(inklusive** **Medikamentenkosten,** **siehe** **Eigenanteil** **des** **Patienten.** **Eine** **abschließende** **nung** **der** **Gesamtkosten** **kann**  **u.** **a.** **vertraglich** **vereinbarten** **Punktwertes** **erst** **nach** **Beendigung** **der** **Behandlung**
 
 **geb. am**
 
@@ -90,33 +64,13 @@
 
 **anzurechnenden** **und** **verringern**
 
-**ICSI-Zyklen** **steht**
+**ICSI-Zyklen** **steht** **Vorbehalt,** **dass** **in** **Befruchtung** **statt-** **Spontanzyklus** **kann** **geplante** **Zyklen**
 
-**Vorbehalt,** **dass** **in**
-
-**Befruchtung** **statt-**
-
-**Spontanzyklus** **kann**
-
-**geplante** **Zyklen**
-
-**entstehenden** **Kosten**
-
-**Abschnitt** **III** **b)**
-
-**Berech-**
-
-**in** **Abhängigkeit** **des**
-
-**in** **Cent** **bzw.** **Euro**
-
-**erfolgen.**
+**entstehenden** **Kosten** **Abschnitt** **III** **b)** **Berech-** **in** **Abhängigkeit** **des** **in** **Cent** **bzw.** **Euro**  **erfolgen.**
 
 ## Behandlungsplan
 
-**70**
-
-**für Maßnahmen zur künstlichen Befruchtung gemäß § 2 7a SGB V** **sowie der ,,Richtlinien über künstliche Befruchtung" des** **Gemeinsamen Bundesausschusses für die hier genannten Ehegatten**
+**70** **für Maßnahmen zur künstlichen Befruchtung gemäß § 2 7a SGB V** **sowie der ,,Richtlinien über künstliche Befruchtung" des** **Gemeinsamen Bundesausschusses für die hier genannten Ehegatten**
 
 ### Indikation(en)I
 
@@ -156,9 +110,7 @@
 
 **für maximal**
 
-**nicht genehmigt** **(separate Begründung** **anbei)**
-
-**Ort**
+**nicht genehmigt** **(separate Begründung** **anbei)** **Ort**
 
 **für maximal**
 
@@ -172,13 +124,9 @@
 
 **Zyklen/Zyklusgenehmigt**
 
-**nicht genehmigt**
+**nicht genehmigt** **Bei** **Änderungen** **der** **Behandlungsmethode** **(siehe** **Abschnitt**
 
-**Bei** **Änderungen** **der** **Behandlungsmethode** **(siehe** **Abschnitt**
-
-**(separate Begründung**
-
-**II)** **sowie** **spätestens** **nach** **Ablauf** **eines** **Jahres** **seit** **der**
+**(separate Begründung** **II)** **sowie** **spätestens** **nach** **Ablauf** **eines** **Jahres** **seit** **der**
 
 **anbei)**
 

@@ -1,4 +1,4 @@
-|  | ***IT in der Arztpraxis ****Plausibilitätenkatalog Prävent [KBV_ITA_VGEX_Plausi_Praevention_eHKS]* |
+|  | *IT in der Arztpraxis  Plausibilitätenkatalog Prävent [KBV_ITA_VGEX_Plausi_Praevention_eHKS]* |
 |---|---|
 |  | Dezernat Digitalisierung und IT |
 |  | ** |
@@ -7,19 +7,20 @@
 |  | Version |
 |  |  |
 
-i- on (eHKS) -Lewin-Platz 2 1.04 Datum: 129 .08.201 Kennzeichnung: Öffentlich Status: In Kraft
+i- on (eHKS) -Lewin-Platz 2 1.04 Datum: 129 .08.201 Kennzeichnung: Öffentlich Status: In Kraft 
 
 
 ---
 
 ### DOKUMENTENHISTORIE
 
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.04 | 12.08.2019 KBV |  | Erweiterung des Wertebereichs |  | **5** |
-| 1.03 | 02.08.2012 KBV |  | Red. Änderungen | entfällt | **alle** |
+| 1.04 | 12.08.2019 | KBV | Erweiterung des Wertebereichs |  | **5** |
+| 1.03 | 02.08.2012 | KBV | Red. Änderungen | entfällt | **alle** |
 
-für den Parameter „Geschlecht der/des Versicherten“
+für den Parameter „Geschlecht der/des Versicherten“ 
+
 
 ---
 
@@ -37,14 +38,14 @@ für den Parameter „Geschlecht der/des Versicherten“
 
 **5**
 
-
 ---
 
 # 1 Einleitung
 
 Der vorliegende Plausibilitätenkatalog des allgemeinen Datensatzes „Prävention“ konkretisiert  die enthaltenen Plausibilitäten des Gemeinsamen Bundesausschuss (GBA) im Hinblick auf  die technische Umsetzung
 
-- seitens des Praxissoftwareherstellers sowie - im Rahmen des Prüfmoduls.
+- seitens des Praxissoftwareherstellers sowie
+- im Rahmen des Prüfmoduls.
 
 Die Softwarehersteller sind angehalten, bereits bei der Datenerfassung Prüfungen der Plausi- bilität eingegebener Werte durchzuführen und den Anwender ggf. auf Verstöße gegen die  Plausibilitäten hinzuweisen.
 
@@ -54,15 +55,11 @@ Das Dokument wird dann mit neuer Version an alle Kassenärztlichen Vereinigungen
 
 # 2 Grundlagen
 
-Der Plausibilitätenkatalog des allgemeinen Datensatzes „Prävention“ stellt den Entwicklern  von PVS--, Systemen oder Web Anwendungssystemen ein Hilfsmittel zur Verfügung welches
-
-die Anwendung, die Bedienung innerhalb der Anwendung und die fachlichen Prüfungen im  Rahmen der Präventions-eDokumentation spezifiziert.
+Der Plausibilitätenkatalog des allgemeinen Datensatzes „Prävention“ stellt den Entwicklern  von PVS--, Systemen oder Web Anwendungssystemen ein Hilfsmittel zur Verfügung welches  die Anwendung, die Bedienung innerhalb der Anwendung und die fachlichen Prüfungen im  Rahmen der Präventions-eDokumentation spezifiziert.
 
 Der hier beschriebene Plausibilitätenkatalog soll so verwendet werden, dass der Anwender  bei der Ausfüllung der Dokumentation interaktiv auf Inplausibilitäten aufmerksam gemacht  wird. Verstöße gegen die Plausibilitätsregeln führen zu einer Fehlermeldung des Prüfmoduls,  sofern bei der jeweiligen Regel nicht explizit angegeben ist, dass lediglich eine Warnung er- folgen soll.
 
-Weitere Sachverhalte sind in den entsprechenden Anforderungskatalogen der jeweiligen Prä- ventions-i-eDokumentation enthalten. Die Anforderungsspezifikation ist Grundlage für die Zert
-
-fizierung der Anwendung.
+Weitere Sachverhalte sind in den entsprechenden Anforderungskatalogen der jeweiligen Prä- ventions-i-eDokumentation enthalten. Die Anforderungsspezifikation ist Grundlage für die Zert fizierung der Anwendung.
 
 Wenn ein Wert zu einer Warnung führt, soll der Anwender auf diesen Umstand hingewiesen  werden, er muss aber die Möglichkeit haben, den Wert in die Dokumentation aufzunehmen.
 
@@ -86,7 +83,6 @@ Wenn ein Wert zu einer Warnung führt, soll der Anwender auf diesen Umstand hing
 | **3 Plausibilitätsprüfungen** | | | |
 
 Nr. (LANR) (BSNR) cherten  der/des Versicherten kann auch das Alter der/des Versi- cherten angegeben werden Allgemeiner Datensatz tersuchungsdatum (1.2.4) sein. gerstammdatei entnommen werden.  dem Systemdatum sein. 1.2.1 minus der Datumsangabe in Feld 1.3 ein Le- bensalter von < 35 Jahren, ist die Angabe der Prä-
-
 
 ---
 

@@ -1,4 +1,4 @@
-|  | ***IT in der Arztpraxis*** |
+|  | *IT in der Arztpraxis* |
 |---|---|
 |  | *Schnittstellenbeschreibung QS* |
 |  | [KBV_ITA_VGEX_Schnittstelle_QS |
@@ -11,22 +11,19 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-Holmium -Laser-Therapie HLT] Digitalisierung und IT -Lewin-Platz 2 1.00 Datum: 01.04.2014 Kennzeichnung: Öffentlich  Status: In Kraft
+Holmium -Laser-Therapie HLT] Digitalisierung und IT -Lewin-Platz 2 1.00 Datum: 01.04.2014 Kennzeichnung: Öffentlich  Status: In Kraft 
 
 
 ---
 
-Holmium-Laser-Therapie
-
 ### DOKUMENTENHISTORIE
 
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 | 1.00 | 01.04.2014 | KBV | neues Dokument |  |  |
-
 
 ---
 
@@ -104,8 +101,6 @@ Holmium-Laser-Therapie
 
 4.3.9 anzahl_harnstrahlmessung_0 ............................................................................................. 20
 
-Holmium-Laser-Therapie
-
 
 ---
 
@@ -129,7 +124,7 @@ Holmium-Laser-Therapie
 
 4.3.19 anzahl_interventionspflichtige_nachblutungen_ohne_transfusion .................................. 21
 
-4.3.20 anzahl_interventionspflichtige_nachblutungen_mit_transfusion ..................................... 21
+4.3.20 anzahl_interventionspflichtige_nachblutungen_mit_transfus ion ..................................... 21
 
 4.3.21 anzahl_andere_interventionspflichtige_fruehkomplikationen .......................................... 21
 
@@ -155,28 +150,29 @@ Holmium-Laser-Therapie
 
 **23**
 
-Holmium-Laser-Therapie
-
-
 ---
 
-| **IT in** | **der Arztpraxis** | |  |  |
-|---|---|---|---|---|
-|  | Schnittstellenbeschreibung | | QS Holmium-Laser-Therapie |  |
-|  |  |  | **ABBILDUNGSVERZEICHNIS** |  |
-|  | **Abbildung 1** | **- Element** | **ehd** | **................................................................................................. 12** |
-| **Abbildung** | **2 -** | **Element id** | **....................................................................................................** | **13** |
-| **Abbildung** | **3 -** | **Element** | **document_type_cd** | **....................................................................... 13** |
-|  | **Abbildung 4** | **- Element** | **document_relationship** | **................................................................. 13** |
-| **Abbildung** | **5 -** | **Element provider** | **.........................................................................................** | **14** |
-| **Abbildung** | **6** | **- Element** | **interface** | **......................................................................................... 14** |
-|  | **Abbildung 7** | **- Element** | **sciphox:Software** | **.......................................................................... 15** |
-|  | **Abbildung 8** | **- Element** | **body** | **............................................................................................... 17** |
-|  | **Abbildung 9** | **- Element** | **qshlt_dokumentation Teil 1** | **.......................................................... 17** |
-|  | **Abbildung 10** | **- Element** | **qshlt_dokumentation Teil 2** | **........................................................ 18** |
-|  |  | KBV_ITA_VGEX_Schnittstelle_QSHLT | * Version 1.00 | Seite 5 von 23 |
+#### ABBILDUNGSVERZEICHNIS
 
-Abbildung 1 - Element ehd Abbildung 2 - Element id .................................................................................................... Abbildung 3 - Element document_type_cd ................................................................ Abbildung 4 - Element document_relationship Abbildung 5 - Element provider ................................................................ Abbildung 6 - Element interface Abbildung 7 - Element sciphox:Software Abbildung 8 - Element body Abbildung 9 - Element qshlt_dokumentation Teil 1 Abbildung 10 - Element qshlt_dokumentation Teil 2
+**Abbildung 1 - Element ehd ................................................................................................. 12**
+
+**Abbildung 2 - Element id .................................................................................................... 13**
+
+**Abbildung 3 - Element document_type_cd ................................................................ ....... 13**
+
+**Abbildung 4 - Element document_relationship ................................................................. 13**
+
+**Abbildung 5 - Element provider ................................................................ ......................... 14**
+
+**Abbildung 6 - Element interface ................................................................ ......................... 14**
+
+**Abbildung 7 - Element sciphox:Software ................................................................ .......... 15**
+
+**Abbildung 8 - Element body ................................................................ ............................... 17**
+
+**Abbildung 9 - Element qshlt_dokumentation Teil 1 .......................................................... 17**
+
+**Abbildung 10 - Element qshlt_dokumentation Teil 2 ........................................................ 18**
 
 ---
 
@@ -187,9 +183,6 @@ Abbildung 1 - Element ehd Abbildung 2 - Element id .............................
 **Tabelle 2 – Beschreibung der Strukturelement-Symbole ................................................. 10**
 
 **Tabelle 3 – Beschreibung sonstiger Symbole ................................................................... 11**
-
-Holmium-Laser-Therapie
-
 
 ---
 
@@ -207,12 +200,7 @@ Holmium-Laser-Therapie
 
 **XML-Code 6 - qshlt dokumentation................................ .................................................... 19**
 
-Holmium-Laser-Therapie
-
-
 ---
-
-Holmium-Laser-Therapie
 
 # 1. Einleitung
 
@@ -220,11 +208,11 @@ Im Rahmen von QS-Vereinbarung Holmium-Laser-Therapie [1] wird jährlich eine Sta
 
 Die Schnittstelle QS Holmium-Laser-Therapie ermöglicht es einem Arztinformationssystem  (AIS) bzw. Praxisverwaltungssystem (PVS), die Statistik an die Datenannahmestelle zu über- tragen.
 
-Dieses Dokument beschreibt die Schnittstelle QS Holmium-Laser-Therapie. Die Schnittstelle  ist gemäß der EHD-Spezifikation [KBV_ITA_VGEX_eHD] konzipiert und beschreibt die XML- Struktur von XSD-Schemata [2].
+Dieses Dokument beschreibt die Schnittstelle QS Holmium-Laser-Therapie. Die Schnittstelle  ist gemäß der EHD-Spezifikation [KBV_ITA_VGEX_eHD] konzipiert und beschreibt die XML- Struktur von XSD-Schemata [2]
 
 ## 1.1 Zweck des Dokuments
 
-Das vorliegende Dokument erklärt dem Leser, wie die Schnittstelle e Doku-Portal aussieht, wie  sie funktioniert und wie er sie aufrufen kann.
+Das vorliegende Dokument erklärt dem Leser, wie die Schnittstelle eDoku-Portal aussieht, wie  sie funktioniert und wie er sie aufrufen kann.
 
 Der Leser soll erfahren was er tun muss, um die Jahresstatistik über die Schnittstelle einzu- reichen. Dazu gehört sowohl das technische Verständnis für die Schnittstelle, als auch das  fachliche Wissen darüber, wie valide Daten aussehen und in welcher Form sie von der  Schnittstelle erwartet werden.
 
@@ -235,8 +223,6 @@ Das Dokument richtet sich an Hersteller von Praxisverwaltungs- bzw. Arztinformat
 
 ---
 
-Holmium-Laser-Therapie
-
 # 2. Dateinamen
 
 Der Dateiname basiert auf dem Dateinamenskonzept der EHD-Spezifikation 1.40
@@ -244,6 +230,8 @@ Der Dateiname basiert auf dem Dateinamenskonzept der EHD-Spezifikation 1.40
 **qshlt** ... Datentyp der ehd-Schnittstelle
 
 **[v]v.vv** ......... Version der Schnittstelle; Entspricht dem Element  Elements ***<interface>***
+
+***<version>*** des Header-
 
 **sender** ...... Absender der Lieferung, entspricht der LANR des Arztes.
 
@@ -255,12 +243,8 @@ Beispiel:
 
 -  qshlt_1.00_555333222_du+20120520140200.xml
 
-***<version>*** des Header-
-
 
 ---
-
-Holmium-Laser-Therapie
 
 # 3. Semantik der verwendeten Diagramm-Symbole
 
@@ -270,7 +254,7 @@ Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, dere
 
 Es existieren verschiedene Kardinalitäten:
 
-| **Kardinalität** | **Symbol** | **Beschreibung** |
+| Kardinalität | Symbol | Beschreibung |
 |---|---|---|
 | 0..1 |  | Optionales Element: Element wird als Rechteck mit |
 | 1 |  | Musselement: Rechteck mit durchgezogener Linie. |
@@ -282,7 +266,7 @@ Es existieren verschiedene Kardinalitäten:
 
 Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinander lo- gisch verknüpft. In diesem Dokument werden zwei Strukturelement-Arten verwendet: Choice  und Sequence.
 
-| **Symbol** | **Beschreibung** |
+| Symbol | Beschreibung |
 |---|---|
 |  | Das Strukturelement Choice zeigt an, dass zwischen verschiedenen Kind- |
 |  | Das Strukturelement Sequence beschreibt, dass verschiedene Kindelemente |
@@ -297,7 +281,7 @@ gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen.  Existier
 
 Es werden außerdem folgende Diagramm-Symbole verwendet:
 
-| **Symbol** | **Beschreibung** |
+| Symbol | Beschreibung |
 |---|---|
 |  | Ein Element mit mehreren Kindelementen wird durch ein Plus- |
 |  | Referenzelement: Der Pfeil links unten im Element zeigt an, dass |
@@ -306,17 +290,13 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 **Tabelle 3 – Beschreibung sonstiger Symbole**
 
-Holmium-Laser-Therapie
-
 zeichen am Rechteckrand symbolisiert. das Element an anderer Stelle im Schema definiert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein. siert einen Datentyp.  Gruppenelement dar, welches verschiedene Elemente zusam- menfasst.
 
 ---
 
-Holmium-Laser-Therapie
-
 # 4. Beschreibung der ehd-Schnittstelle
 
-Die Schnittstelle „QS Holmium-Laser-Therapie“ basiert auf [KBV_ITA_VGEX_eHD]. Damit  entspricht die XML-Struktur vom header genau den Vorgaben der EHD-Richtlinie. Im Body- Bereich werden eigene Elemente definiert, die im Kapitel 4.2 beschrieben werden.
+Die Schnittstelle „QS Holmium-Laser-Therapie“ basiert auf  entspricht die XML-Struktur vom header genau den Vorgaben der EHD-Richtlinie. Im Body- Bereich werden eigene Elemente definiert, die im Kapitel
 
 Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen,  die in diesem Dokument beschrieben werden, ist es wichtig die Groß-/Kleinschreibung zu be- achten.
 
@@ -342,7 +322,7 @@ Folgender Code ist für diese Elemente zwingend vorgeschrieben:
 
 </ehd>
 
-Das Attribut ehd_version gibt die Version der EHD-Spezifikation [KBV_ITA_VGEX_eHD] an,  auf der diese Schnittstelle aufbaut.
+Das Attribut ehd_version gibt die Version der EHD-Spezifikation  auf der diese Schnittstelle aufbaut.
 
 *header* und *body* zusammensetzt, wie es in Abbildung 1 darge-
 
@@ -350,51 +330,45 @@ Das Attribut ehd_version gibt die Version der EHD-Spezifikation [KBV_ITA_VGEX_eH
 
 **XML-Code 1 - ehd Beispiel**
 
+[KBV_ITA_VGEX_eHD]
+
+4.2 beschrieben werden.
+
+. Damit
+
 *ehd*, welches sich aus
+
+[KBV_ITA_VGEX_eHD] an,
 
 
 ---
 
 ## 4.1 Element header
 
-Der header ist eine Untermenge vom header der EHD-Spezifikation [KBV_ITA_VGEX_eHD].  Die genaue Beschreibung der Elemente können Sie der EHD-Spezifikation
+Der header ist eine Untermenge vom header der EHD-Spezifikation [KBV_ITA_VGEX_eHD]
 
-[KBV_ITA_VGEX_eHD] entnehmen. Für die hier definierte Schnittstelle wurden folgende Ele-
+Die genaue Beschreibung der Elemente können Sie der EHD-Spezifikation
 
-mente eingeschränkt:
+[KBV_ITA_VGEX_eHD] entnehmen. Für die hier definierte Schnittstelle wurden folgende Ele- mente eingeschränkt:
 
 -  *Id*-Element: Die ID muss eindeutig sein. Dazu werden in die Attribute folgende Daten  eingetragen:
-
 - o Im EX-Attribut steht eine eindeutige id (GUID)
-
 - o Im RT-Attribut steht die lebenslange Arztnummer (LANR)
 
 **Abbildung 2 - Element id**
 
 -  Im *document_type_cd*-Element wurde der Dokumenttyp festgelegt:
-
 - o im V-Attribut ist der Wert: „QSHLT“ fest vorgeschrieben.
 
 **Abbildung 3 - Element document_type_cd**
 
 -  Das  eine Korrekturlieferung erfolgt.  *document_relationship*-Element ist ein optionales Element und wird gefüllt, wenn
-
-- o Das Element *document_relationship/document_relationship.type_cd*
-
-- V-Attribut den Wert „RPLC“
-
+- o Das Element *document_relationship/document_relationship.type_cd* V-Attribut den Wert „RPLC“
 - enthält im
-
-- o Das Element *document_relationship/related_document/id*
-
-- auf das *id*-Element des Ursprungsdokuments.
-
+- o Das Element *document_relationship/related_document/id*  auf das *id*-Element des Ursprungsdokuments.
 - enthält den Verweis
 
 **Abbildung 4 - Element document_relationship**
-
-Holmium-Laser-Therapie
-
 
 ---
 
@@ -404,7 +378,6 @@ Holmium-Laser-Therapie
 **XML-Code 2 - document_relationship**
 
 -   Betriebsstätte (BSNR).  Das *provider*-Element ist Pflichtelement und enthält Angaben zum Arzt (LANR) und
-
 - o Die Vorgaben im *provider/person*-Element enthalten:
 
 Lebenslange Arztnummer, (id-Element EX-Attribut enthält die lebenslange  Arztnummer, RT-Attribut enthält den String „1.2.276.0.76.4.16“)
@@ -416,22 +389,12 @@ Betriebsstättennummer, (id-Element EX-Attribut enthält die Betriebsstätten- n
 **Abbildung 5 - Element provider**
 
 -  Im *Interface*-Element werden die Schnittstellendaten eingegeben:
-
-- o *id*-Element im EX-Attribut ist der Wert „QSHLT“ fest vorgeschrieben. RT-
-
-- Attribut enthält den Wert: „1.2.276.0.76.5.109“.
-
-- o *interface.nm*-Element im V-Attribut ist der Wert: „QS Holmium-Laser-Therapie“
-
-- fest vorgeschrieben.
-
+- o *id*-Element im EX-Attribut ist der Wert „QSHLT“ fest vorgeschrieben. RT- Attribut enthält den Wert: „1.2.276.0.76.5.109“.
+- o *interface.nm*-Element im V-Attribut ist der Wert: „QS Holmium-Laser-Therapie“  fest vorgeschrieben.
 - o *version* im V-Attribut wird die Version der Schemata eingetragen (z.B. „1.00“).
 
-**Abbildung 6 - Element interface**
+id EX=" ag111105-2d51-4016-831e-cbd9e1a318h9 " RT="278012312"/> **Abbildung 6 - Element interface**
 
-Holmium-Laser-Therapie
-
-id EX=" ag111105-2d51-4016-831e-cbd9e1a318h9 " RT="278012312"/>
 
 ---
 
@@ -444,17 +407,9 @@ XML-Beispiel
 
 ### 4.1.1 Software (local_header)
 
-Die Information über die Software und deren Verantwortliche wird mittels der Sciphox-SSU
-
-*software* *v1* dargestellt. Die Angabe *local_header/sciphox-ssu* ist optional. Das Element *sci-*
-
-*phox:Software* hat den Namespace urn::sciphox-org/sciphox und hat das Kindelement *sci-*
-
-*phox:id*. Die Struktur für dieses Element ist in Abbildung 7 dargestellt.
+Die Information über die Software und deren Verantwortliche wird mittels der Sciphox-SSU  *software* *v1* dargestellt. Die Angabe *local_header/sciphox-ssu* ist optional. Das Element *sci-* *phox:Software* hat den Namespace urn::sciphox-org/sciphox und hat das Kindelement *sci-* *phox:id*. Die Struktur für dieses Element ist in Abbildung 7 dargestellt.
 
 **Abbildung 7 - Element sciphox:Software**
-
-Holmium-Laser-Therapie
 
 <ehd:header> <ehd:id RT="555333222" EX="ag111105-2d51-4016-831e-cbd9e1a318h9"/> <ehd:document_type_cd V="QSHLT"/> <ehd:origination_dttm V="2013-02-02"/> <ehd:provider> <ehd:person> <ehd:id EX="555333222" RT="1.2.276.0.76.4.16"/> <ehd:organization> <ehd:id EX="123456789" RT="1.2.276.0.76.4.17"/> </ehd:provider> <ehd:interface> <ehd:id EX="QSHLT" RT="1.2.276.0.76.5.109"/> <ehd:interface.nm V="QS Holmium-Laser-Therapie"/> <ehd:version V="1.00"/> <ehd:/interface> <sciphox:sciphox-ssu type="software" country="de" version="v1"> <sciphox:Software> <sciphox:id  EX="..." RT="KBV-Prüfnummer"/>  </sciphox:Software> </sciphox:sciphox-ssu> </ehd:local_heaer>
 
@@ -480,19 +435,13 @@ Der Coderahmen für diese Sciphox-SSU sieht dann wie folgt aus:
 
 #### 4.1.1.1 Software-ID (id)
 
-Das Element *sciphox:id* besteht aus den beiden Attributen *EX* und *RT*. Das *EX*-Attribut erhält
-
-als Wert die konkrete KBV-Prüfnummer für das Modul mit dem dieser Datensatz erzeugt wur- de. Ab 01.01.2008 gelten neue Prüfnummern im Format: „a/n[n][n]/JJMM/nn/ccc“. Wobei  a=Softwareklasse, n=Nummer, J=Jahr, M=Monat, c=alphanumerische Zeichen. Das *RT*
-
-Attribut erhält als Wert den festen Wert „KBV-Prüfnummer“.
+Das Element *sciphox:id* besteht aus den beiden Attributen *EX* und *RT*. Das *EX*-Attribut erhält  als Wert die konkrete KBV-Prüfnummer für das Modul mit dem dieser Datensatz erzeugt wur- de. Ab 01.01.2008 gelten neue Prüfnummern im Format: „a/n[n][n]/JJMM/nn/ccc“. Wobei  a=Softwareklasse, n=Nummer, J=Jahr, M=Monat, c=alphanumerische Zeichen. Das *RT* Attribut erhält als Wert den festen Wert „KBV-Prüfnummer“.
 
 Als Beispiel sei hier der folgende Code mit fiktiver KBV-Prüfnummer angegeben:
 
 <sciphox:id EX="X/55/0801/36/103" RT="KBV-Prüfnummer"/>
 
 **XML-Code 5 - id (Software)**
-
-Holmium-Laser-Therapie
 
 
 ---
@@ -501,19 +450,23 @@ Holmium-Laser-Therapie
 
 Das *body*-Element enthält benutzerdefinierte Elemente und Typen für diese Schnittstelle.
 
+Das body-Element hat den benutzerdefinierten Typ  sem Typ wird im Kapitel  det sich vom ehd-Namensraum und lautet wie folgt: „urn:ehd/qshlt/001“.
+
+## 4.3 Element qshlt_
+
+Das Element *qshlt_dokumentation*
+
 **Abbildung 8 - Element body**
 
-Das body-Element hat den benutzerdefinierten Typ *qshlt_body_typ*. Das Kindelement in die-
+4.3 beschrieben. Der Namensraum für die Kindelemente unterschei-
 
-sem Typ wird im Kapitel 4.3 beschrieben. Der Namensraum für die Kindelemente unterschei- det sich vom ehd-Namensraum und lautet wie folgt: „urn:ehd/qshlt/001“.
+## dokumentation
 
-## 4.3 Element qshlt_ dokumentation
-
-Das Element *qshlt_dokumentation* enthält die QS Holmium-Laser-Therapie Jahresstatistik.
+enthält die QS Holmium-Laser-Therapie Jahresstatistik.
 
 **Abbildung 9 - Element qshlt_dokumentation Teil 1**
 
-Holmium-Laser-Therapie
+*qshlt_body_typ*. Das Kindelement in die-
 
 
 ---
@@ -522,17 +475,15 @@ Holmium-Laser-Therapie
 \|---|
 \| **Abbildung 10 - Element qshlt_dokumentation** XML-Beispiel (ohne Anspruch auf Vollständigkeit)  <qshlt:qshlt_dokumentation> |
 
-Holmium-Laser-Therapie
-
 Teil 2 <anzahl_ersteingriffe V="10"/> <anzahl_folgeeingriffe V="10"/> <anzahl_eingriffe_mit_absoluter_op_indikation V="5"/> <anzahl_eingriffe_mit_relativer_op_indikation V="15"/> <anzahl_prostatavolumen_0_2 4 V="2"/> <anzahl_prostatavolumen_25_49 V="3"/> <anzahl_prostatavolumen_50_69 V="15"/> <anzahl_prostatavolumen_70 V="0"/> <anzahl_harnstrahlmessung_0 V="3"/> <anzahl_harnstrahlmessung_0_9 V="2"/> <anzahl_harnstrahlmessung_10_15 V="15"/> <anzahl_harnstrahlmessung_16 V="5"/> <anzahl_blasenverletzungen V="3"/> <anzahl_verletzung_harnleiterostien V="2"/> <anzahl_einschwemmung V="1"/> <anzahl_andere_intraoperative_komplikationen V="0"/> <anzahl_umstiege_turp V="3"/>
 
 ---
 
-Holmium-Laser-Therapie
-
-\| </qshlt:qshlt_dokumentation>    **XML-Code 6 - qshlt dokumentation **  **4.3.1 ** Die Anzahl (nonNegativeInteger  **4.3.2 ** Die Anzahl (nonNegativeInteger) der Folgeeingriffe wird hier im V-Attribut angegeben. Der |
+\| </qshlt:qshlt_dokumentation>     XML-Code 6 - qshlt dokumentation    4.3.1  Die Anzahl (nonNegativeInteger   4.3.2  Die Anzahl (nonNegativeInteger) der Folgeeingriffe wird hier im V-Attribut angegeben. Der |
 \|---|
 \| </qshlt:qshlt_dokumentation> |
+
+1 Gemäß der W3C Spezifikation [2] nur ganze Zahlen im positiven Bereich inklusive „0“.
 
 ### 4.3.3 anzahl_ eingriffe_mit_absoluter_op_indikation
 
@@ -548,11 +499,8 @@ Die Anzahl (nonNegativeInteger) der präoperativ sonografisch gemessenen Prostat
 
 ### 4.3.6 anzahl_prostatavolumen_25_49
 
-Die Anzahl (nonNegativeInteger) der präoperativ sonografisch gemessenen Prostatavolumina  zwischen 25 und 49 ml wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und  99999 liegen.
+<anzahl_umstiege_konventionelle_op V="5"/> <anzahl_interventionspflichtige_nachblutungen_ohne_transfusion V="1"/> <anzahl_interventionspflichtige_nachblutungen_mit_transfusion V="2"/> <anzahl_andere_interventionspflichtige_fruehkomplikationen V="0"/> <anzahl_operationszeit_0_59 V="4"/> <anzahl_operationszeit_60_89 V="15"/> <anzahl_operationszeit_90 V="1"/> <anzahl_resektionsgewicht_0 V="0"/> <anzahl_resektionsgewicht_0_9 V="4"/> <anzahl_resektionsgewicht_10_19 V="6"/> <anzahl_resektionsgewicht_20_39 V="10"/> <anzahl_resektionsgewicht_40 V="0"/> anzahl_ersteingriffe ) der Ersteingriffe wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen. anzahl_folgeeingriffe Wert muss zwischen 0 und 99999 liegen. Die Anzahl (nonNegativeInteger) der präoperativ sonografisch gemessenen Prostatavolumina  zwischen 25 und 49 ml wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und  99999 liegen.
 
-1 Gemäß der W3C Spezifikation [2] nur ganze Zahlen im positiven Bereich inklusive „0“.
-
-<anzahl_umstiege_konventionelle_op V="5"/> <anzahl_interventionspflichtige_nachblutungen_ohne_transfusion V="1"/> <anzahl_interventionspflichtige_nachblutungen_mit_transfusion V="2"/> <anzahl_andere_interventionspflichtige_fruehkomplikationen V="0"/> <anzahl_operationszeit_0_59 V="4"/> <anzahl_operationszeit_60_89 V="15"/> <anzahl_operationszeit_90 V="1"/> <anzahl_resektionsgewicht_0 V="0"/> <anzahl_resektionsgewicht_0_9 V="4"/> <anzahl_resektionsgewicht_10_19 V="6"/> <anzahl_resektionsgewicht_20_39 V="10"/> <anzahl_resektionsgewicht_40 V="0"/> anzahl_ersteingriffe ) der Ersteingriffe wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen. anzahl_folgeeingriffe Wert muss zwischen 0 und 99999 liegen.
 
 ---
 
@@ -592,8 +540,6 @@ Die Anzahl (nonNegativeInteger) der intraoperativ aufgetretenen Komplikationen d
 
 Die Anzahl (nonNegativeInteger) der intraoperativ aufgetretenen Komplikationen durch Ein- schwemmung wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 lie- gen.
 
-Holmium-Laser-Therapie
-
 ### anzahl_prostatavolumen_50_69
 
 ### anzahl_prostatavolumen_70
@@ -614,8 +560,6 @@ Holmium-Laser-Therapie
 
 
 ---
-
-Holmium-Laser-Therapie
 
 ### 4.3.16 anzahl_andere_interoperative_komplikationen
 
@@ -680,8 +624,6 @@ Die Anzahl (nonNegativeInteger) der Eingriffe mit einem Resektionsgewicht von 40
 
 Die Anzahl (nonNegativeInteger) der Entlassungen mit Spontanmiktion wird hier im V-Attribut  angegeben. Der Wert muss zwischen 0 und 99999 liegen.
 
-Holmium-Laser-Therapie
-
 ### anzahl_resektionsgewicht_0
 
 ### anzahl_resektionsgewicht_0_9
@@ -697,11 +639,9 @@ Holmium-Laser-Therapie
 
 ---
 
-Holmium-Laser-Therapie
-
 # 5. Referenzierte Dokumente
 
-| **Referenz** | **Dokument** |
+| Referenz | Dokument |
 |---|---|
 | [KBV_ITA_VGEX_eHD] | Richtlinie ehd - eHealthData |
 | [1] | Qualitätssicherungsvereinbarung Holmium-Laser-Therapie |

@@ -19,41 +19,25 @@ Bitte geben Sie hier den Heilmittelbereich an
 
 - **2.** **Behandlungsrelevante Diagnose(n)**
 
-Bitte geben Sie den therapierelevanten ICD-10-GM-Code an. Die Angabe eines weiteren ICD
+Bitte geben Sie den therapierelevanten ICD-10-GM-Code an. Die Angabe eines weiteren ICD nur notwendig, wenn ein besonderer Verordnungsbedarf geltend gemacht
 
-nur notwendig, wenn ein besonderer Verordnungsbedarf geltend gemacht - **3.** **Diagnosegruppe**
+- **3.** **Diagnosegruppe**
 
 Bitte geben Sie eine Diagnosegruppe nach Maßgabe des Heilmittelkataloges
 
 - **4.** **Leitsymptomatik gemäß Heilmittelkatalog**
 
-Bitte geben Sie eine oder mehrere buchstabencodierte verordnungsbegründende Leitsymptomatik/en nach
-
-Maßgabe des Heilmittelkataloges an. Alternativ kann eine patientenindividuelle Leitsymptomatik
-
-angegeben werden.
+Bitte geben Sie eine oder mehrere buchstabencodierte verordnungsbegründende Leitsymptomatik/en nach  Maßgabe des Heilmittelkataloges an. Alternativ kann eine patientenindividuelle Leitsymptomatik  angegeben werden.
 
 - **5.** **Heilmittel nach Maßgabe des Kataloges**
 
-Bitte geben Sie Heilmittel nach Maßgabe des Heilmittelkataloges an. Es können auch mehrere (bis zu drei
-
-rangige Heilmittel verordnet werden. Soweit medizinisch erforderlich, kann zu vorrangigen Heilmitteln maxi-
-
-mal ein im Heilmittelkatalog genanntes ergänzendes Heilmittel verordnet werden.
+Bitte geben Sie Heilmittel nach Maßgabe des Heilmittelkataloges an. Es können auch mehrere (bis zu drei rangige Heilmittel verordnet werden. Soweit medizinisch erforderlich, kann zu vorrangigen Heilmitteln maxi- mal ein im Heilmittelkatalog genanntes ergänzendes Heilmittel verordnet werden.
 
 - **6.** **Behandlungseinheiten**
 
-Bei Angabe der Verordnungsmenge darf der Wert der Höchstmenge je Verordnung gemäß Heilmi nicht überschritten werden. Nur bei Verordnungen aufgrund eines „besonderer Verordnungsbedarfs“ oder
+Bei Angabe der Verordnungsmenge darf der Wert der Höchstmenge je Verordnung gemäß Heilmi nicht überschritten werden. Nur bei Verordnungen aufgrund eines „besonderer Verordnungsbedarfs“ oder  „langfristigen Heilmittelbedarfs“ kann die Bemessung der Behandlungseinheiten je Verordnung erfolgen.
 
-„langfristigen Heilmittelbedarfs“ kann die Bemessung der Behandlungseinheiten je Verordnung
-
-erfolgen.
-
-Bei Verordnung mehrerer vorrangiger Heilmittel sind die Behandlungseinheiten aufzuteilen. Die maximale Ver-
-
-ordnungsmenge für ergänzende Heilmittel richtet sich nach dem vorrangigen Heilmittel bzw. der Summe der
-
-verordneten Behandlungseinheiten der vorrangigen Heilmittel.
+Bei Verordnung mehrerer vorrangiger Heilmittel sind die Behandlungseinheiten aufzuteilen. Die maximale Ver- ordnungsmenge für ergänzende Heilmittel richtet sich nach dem vorrangigen Heilmittel bzw. der Summe der  verordneten Behandlungseinheiten der vorrangigen Heilmittel.
 
 - **7.** **Therapiefrequenz**
 
@@ -91,9 +75,7 @@ als Freitext
 
 ) vor-
 
-ttel-Richtlinie
-
-auf 12 Wochen
+ttel-Richtlinie  auf 12 Wochen
 
 Podolo-
 
@@ -104,8 +86,6 @@ en Therapeuten nicht
 
 **Mehr Informationen**
 
-Themenseite Heilmittel: [http://www.kbv.de/html/heilmittel.php](http://www.kbv.de/html/heilmittel.php)
+[Themenseite Heilmittel:](http://www.kbv.de/html/heilmittel.php)[http://www.kbv.de/html/heilmittel.php](http://www.kbv.de/html/heilmittel.php)[](http://www.kbv.de/html/heilmittel.php)
 
-Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 2,52 MB):
-
-www.kbv.de/media/sp/02_Erlaeuterungen.pdf
+[Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 2,52 MB):](http://www.kbv.de/html/heilmittel.php)  [www.kbv.de/media/sp/02_Erlaeuterungen.pdf](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)[](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)

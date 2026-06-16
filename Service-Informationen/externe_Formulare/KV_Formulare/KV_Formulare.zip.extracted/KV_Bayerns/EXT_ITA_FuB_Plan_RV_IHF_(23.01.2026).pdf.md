@@ -4,15 +4,11 @@ Zuzah- lungs-
 
 frei
 
-Zuzah- Name, Vorname des Versicherten
-
-lungs- pflicht
+Zuzah- Name, Vorname des Versicherten lungs- pflicht
 
 Unfall- folgen
 
-Kostenträgerkennung
-
-BVG
+Kostenträgerkennung  BVG
 
 Betriebsstätten-Nr.
 

@@ -1,4 +1,4 @@
-- - Anlage 2*
+## - Anlage 2
 
 ## Plausibilitätsrichtlinie
 
@@ -6,7 +6,9 @@
 
 ## des indikationsübergreifenden, allgemeinen Datensatzes
 
-# - nur gültig in Verbindung mit der jeweiligen  indikationsbezogenen Dokumentation
+- **nur gültig in Verbindung mit der jeweiligen**
+
+# - indikationsbezogenen Dokumentation
 
 **der Anlage 6*, 8*, 10*, 12*, 14*, 16*, 18*, 20, 22*, 24* oder**  **26* der DMP-A-RL -**
 
@@ -22,7 +24,7 @@
 
 **Version anzuwenden ab:**
 
-# Version: 8 0
+# Version: 8.0
 
 **01.08.2025**
 
@@ -31,7 +33,7 @@
 
 ---
 
-| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitätsregeln** |
+| Lfd. | Parameter | Ausprägung | Plausibilitätsregeln |
 |---|---|---|---|
 |  | Administrative Daten | | |
 | 1 | DMP-Fallnummer | Nummer | Pflichtfeld;  bis zu 7 Stellen; alphanumerische Angabe |

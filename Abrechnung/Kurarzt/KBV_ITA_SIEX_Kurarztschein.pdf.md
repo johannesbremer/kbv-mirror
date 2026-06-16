@@ -6,13 +6,9 @@ Name, Vorname des Versicherten
 
 Kostenträgerkennung Versicherten-Nr.
 
-**- Kurarztschein -**
+**- Kurarztschein -** Behandlungsausweis für kurärztliche Behandlung
 
-Behandlungsausweis für kurärztliche Behandlung
-
-**Original**
-
-**Mitgegebene**
+**Original** **Mitgegebene**
 
 geb. am
 
@@ -46,11 +42,7 @@ Ambulante Vorsorgeleistung für Kinder
 
 **Nein** **Ja - welche:**
 
-- **Dauermedikamente sind ausreichend zu verordnen! -**
-
-Durchführung als Kompaktkur
-
-Kurort:
+- **Dauermedikamente sind ausreichend zu verordnen! -**  Durchführung als Kompaktkur Kurort:
 
 Dauer in
 
@@ -64,9 +56,7 @@ Ja Nein
 
 ### Zur Beachtung für den Versicherten!
 
-Hinweise/Risiken/Einschränkungen:
-
-Bitte den Kurarztschein ca. 1 Woche vor Beginn vom behandelnden Arzt ausfüllen lassen
+Hinweise/Risiken/Einschränkungen: Bitte den Kurarztschein ca. 1 Woche vor Beginn vom behandelnden Arzt ausfüllen lassen
 
 Bitte unbedingt die Krankenversichertenkarte für den Kurarzt mitnehmen Verhaltenspräventive Maßnahmen empfohlen?
 
@@ -76,9 +66,7 @@ Ja Nein
 
 Datum
 
-Vertragsarztstempel / Unterschrift des Arztes
-
-Datum
+Vertragsarztstempel / Unterschrift des Arztes Datum
 
 Krankenkassenstempel und Unterschrift (1.2015)
 
@@ -87,9 +75,7 @@ Krankenkassenstempel und Unterschrift (1.2015)
 
 Anreise am
 
-**Datum der durchgeführten Untersuchung bzw. des Arzt-/Patientenkontaktes**
-
-Abreise am
+**Datum der durchgeführten Untersuchung bzw. des Arzt-/Patientenkontaktes** Abreise am
 
 **1**
 
@@ -125,9 +111,7 @@ Verhaltenspräventive Maßnahmen angeregt
 
 **Freigabe 05.11.2014**
 
-Durchführung als
-
-durchgeführt
+Durchführung als durchgeführt
 
 Kompaktkur nicht möglich
 

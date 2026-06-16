@@ -24,9 +24,7 @@
 
 **Scheitel-**
 
-**Zylinder**
-
-**R** **FL**
+**Zylinder** **R** **FL**
 
 **R** **NL**
 
@@ -72,9 +70,7 @@
 
 **leiden (BVG)**
 
-**Sehbehinderung** **Reparatur**
-
-**mindestens WHO 1**
+**Sehbehinderung** **Reparatur** **mindestens WHO 1**
 
 **10-stellige**
 
@@ -150,8 +146,6 @@
 
 **PRF.NR.**
 
-**nicht gestattet.**
-
-**sbaren Daten.**
+**nicht gestattet.** **sbaren Daten.**
 
 **Muster 8/E (10.2014)**

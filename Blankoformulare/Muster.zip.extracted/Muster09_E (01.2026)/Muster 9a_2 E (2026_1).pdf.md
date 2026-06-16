@@ -1,4 +1,4 @@
-Name, Vorname des Versicherten Kostenträgerkennung Versicherten-Nr.
+Name, Vorname des Versicherten
 
 **Hiermit beantrage ich die Auszahlung von Mutterschaftsgeld bzw. die Verlängerung der** **Schutzfrist aufgrund der Behinderung meines Kindes**
 
@@ -28,7 +28,7 @@ Künstlerin/Publizistin
 
 ***Erklärung***
 
-Im Fall einer Fehlgeburt erkläre ich, dass ich meinen Arbeitgeber bzw. die Bundesagentur für Arbeit über die Fehlgeburt informiert habe. Wenn ich meine  Beschäftigung/Tätigkeit vor dem Ende der Schutzfrist wieder aufnehme, teile ich  dies der Krankenkasse umgehend mit.
+Im Fall einer Fehlgeburt erkläre ich, dass ich meinen Arbeitgeber bzw. die Bundesagentur für Arbeit über die Fehlgeburt informiert habe. Wenn ich meine Beschäftigung/Tätigkeit vor dem Ende der Schutzfrist wieder aufnehme, teile ich dies der Krankenkasse umgehend mit.
 
 Vorname
 
@@ -37,6 +37,8 @@ Versichertennummer
 Kontoinhaber
 
 Datum
+
+Kostenträgerkennung Versicherten-Nr.
 
 (falls abweichend von antragstellender Person)
 

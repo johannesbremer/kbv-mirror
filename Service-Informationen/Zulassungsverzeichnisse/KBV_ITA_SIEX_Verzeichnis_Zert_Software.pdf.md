@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**07. JUNI 2026**
+**16. JUNI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -37,29 +37,23 @@ ACETO Softwareentwicklung GmbH
 
 **MAP Software für Laborärzte**
 
-x
-
-Andaco Consulting & Trading GmbH
+x Andaco Consulting & Trading GmbH
 
 **APRIS**
 
-x
-
-APRIS Praxiscomputer GmbH
+x APRIS Praxiscomputer GmbH
 
 **Arztpraxis Wiegand** APW-Wiegand - Med. Software Entwicklung und
 
-x
-
-Vertrieb GmbH
+x Vertrieb GmbH
 
 **ODSeasy**
 
 asthenis GmbH
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 07. Juni 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 16. Juni 2026
 
-**Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
+**Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) eArztbrief](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) eTerminservice (Link)**
 
 x
 
@@ -158,7 +152,7 @@ x
 
 **CGM VT** CGM LAB International GmbH
 
-**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
+**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) eArztbrief](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) eTerminservice (Link)**
 
 x
 
@@ -237,7 +231,7 @@ x
 
 ---
 
-| **Name** | **der Software** | **und** | **Anbieter** |
+| Name | der Software | und | Anbieter |
 |---|---|---|---|
 | **CGM** | **CHANNEL** |  |  |
 | CGM LAB | International | GmbH |  |
@@ -264,7 +258,7 @@ x
 | **TURBOMED** |  |  |  |
 | CompuGroup | | Medical Deutschland | AG |
 
-**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
+**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) eArztbrief](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) eTerminservice (Link)**
 
 x
 
@@ -351,7 +345,7 @@ Name der Software und Anbieter CGM CHANNEL CGM LAB International GmbH CGM LAB In
 
 ---
 
-| **Name** | **der Software und Anbieter** |
+| Name | der Software und Anbieter |
 |---|---|
 | **ALBIS** |  |
 | CompuGroup | Medical Deutschland AG |
@@ -359,11 +353,11 @@ Name der Software und Anbieter CGM CHANNEL CGM LAB International GmbH CGM LAB In
 | CompuGroup | Medical Deutschland AG |
 | **CGM** | **M1 PRO** |
 | CompuGroup | Medical Deutschland AG |
+| **CGM** | **MEDISTAR BLACK PRO** |
+| CompuGroup | Medical Deutschland AG |
 | **CGM** | **DMP-ASSIST** |
 | CompuGroup | Medical Deutschland AG |
 | **CGM** | **Praxis** |
-| CompuGroup | Medical Deutschland AG |
-| **CGM** | **MEDISTAR BLACK PRO** |
 | CompuGroup | Medical Deutschland AG |
 | **INFINITYQ** | **HEALTH** |
 | CROSSSOFT. | GmbH |
@@ -373,12 +367,12 @@ Name der Software und Anbieter CGM CHANNEL CGM LAB International GmbH CGM LAB In
 | Data-AL | GmbH |
 | **DMP** | **Form** |
 | Data | Experts GmbH |
-| **InterMediNet** | **KVDT** |
+| **InterMediNet** | |
 | DBI | Informatik, Dirk Blume |
 | **ORBIS®** |  |
 | Dedalus | HealthCare GmbH |
 
-**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
+**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) eArztbrief](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) eTerminservice (Link)**
 
 x
 
@@ -522,7 +516,7 @@ x
 
 x
 
-Name der Software und Anbieter CompuGroup Medical Deutschland AG DATA VITAL CompuGroup Medical Deutschland AG CGM M1 PRO CompuGroup Medical Deutschland AG CGM DMP-ASSIST CompuGroup Medical Deutschland AG CGM Praxis CompuGroup Medical Deutschland AG CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG INFINITYQ HEALTH CROSSSOFT. GmbH DS-WIN-PLUS (DS-WIN-MED) DAMPSOFT GmbH Data-AL GmbH DMP Form Data Experts GmbH InterMediNet KVDT DBI Informatik, Dirk Blume Dedalus HealthCare GmbHx
+Name der Software und Anbieter CompuGroup Medical Deutschland AG DATA VITAL CompuGroup Medical Deutschland AG CGM M1 PRO CompuGroup Medical Deutschland AG CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG CGM DMP-ASSIST CompuGroup Medical Deutschland AG CGM Praxis CompuGroup Medical Deutschland AG INFINITYQ HEALTH CROSSSOFT. GmbH DS-WIN-PLUS (DS-WIN-MED) DAMPSOFT GmbH Data-AL GmbH DMP Form Data Experts GmbH DBI Informatik, Dirk Blume Dedalus HealthCare GmbHx
 
 
 ---
@@ -553,7 +547,7 @@ Doctolib GmbH
 
 **Limport** Dr. Eissing und Partner GmbH
 
-**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
+**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) eArztbrief](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) eTerminservice (Link)**
 
 x
 
@@ -650,7 +644,7 @@ x
 
 ---
 
-| **Name** | **der Software** | **und Anbieter** |  |
+| Name | der Software | und Anbieter |  |
 |---|---|---|---|
 | **DURIA** |  |  |  |
 | Duria | eG |  |  |
@@ -677,7 +671,7 @@ x
 | **theHub** |  |  |  |
 | Fresenius | Medical | Care Deutschland | GmbH |
 
-**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
+**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) eArztbrief](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) eTerminservice (Link)**
 
 x
 
@@ -856,7 +850,7 @@ HASOMED GmbH
 
 **Helmsauer Care Manager** Helmsauer IT-Solutions GmbH
 
-**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
+**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) eArztbrief](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) eTerminservice (Link)**
 
 x
 
@@ -955,7 +949,7 @@ x
 
 ---
 
-| **Name** | **der Software** | **und Anbieter** |  |
+| Name | der Software | und Anbieter |  |
 |---|---|---|---|
 | **Skymed** |  |  |  |
 | henova | GmbH |  |  |
@@ -981,7 +975,7 @@ x
 | **Medical** | **Office** |  |  |
 | INDAMED | EDV-Entwicklung | und | Vertrieb GmbH |
 
-**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
+**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) eArztbrief](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) eTerminservice (Link)**
 
 x
 
@@ -1082,7 +1076,7 @@ Name der Software und Anbieter henova GmbH ID Information und Dokumentation im G
 
 **smartLIS Laborinformationssystem** **Abrechnungsmodul** labdock GmbH
 
-**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
+**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) eArztbrief](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) eTerminservice (Link)**
 
 x
 
@@ -1187,7 +1181,7 @@ x
 
 **lab@ccess** LIMETEC Biotechnologies GmbH
 
-**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
+**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) eArztbrief](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) eTerminservice (Link)**
 
 x
 
@@ -1276,9 +1270,9 @@ x
 
 **Ashvins xIS** MedicalCommunications GmbH
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 07. Juni 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 16. Juni 2026
 
-**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
+**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) eArztbrief](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) eTerminservice (Link)**
 
 x
 
@@ -1405,7 +1399,7 @@ x
 
 ---
 
-| **Name** | **der Software** | **und** | **Anbieter** |
+| Name | der Software | und | Anbieter |
 |---|---|---|---|
 |  | **Klinik-Assistent** |  |  |
 |  | Medical-Software | Frank Savini |  |
@@ -1432,7 +1426,7 @@ x
 | **RadCentre** | **Billing** | **(OPD)** |  |
 | Mesalvo | Mannheim | GmbH |  |
 
-**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
+**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) eArztbrief](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) eTerminservice (Link)**
 
 x
 
@@ -1593,7 +1587,7 @@ Name der Software und Anbieter Medical-Software Frank Savini medicalvalues Order
 
 **dc-pathos/dc-ross** NEXUS / DIGITAL PATHOLOGY GmbH
 
-**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
+**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) eArztbrief](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) eTerminservice (Link)**
 
 x
 
@@ -1728,7 +1722,7 @@ PRO MEDISOFT AG
 
 **psyprax** psyprax GmbH
 
-**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
+**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) eArztbrief](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) eTerminservice (Link)**
 
 x
 
@@ -1827,7 +1821,7 @@ x
 
 ---
 
-| **Name der** | **Software und** | **Anbieter** |  |
+| Name der | Software und | Anbieter |  |
 |---|---|---|---|
 | **QS-LAB** |  |  |  |
 | QS QualitySoft | GmbH |  |  |
@@ -1854,7 +1848,7 @@ x
 | **star.net®** | **Labor** |  |  |
 | Sonic | Healthcare Germany | GmbH & | Co. KG |
 
-**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
+**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) eArztbrief](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) eTerminservice (Link)**
 
 x
 
@@ -2021,7 +2015,7 @@ UNISOLO® GmbH
 
 **PDV-FR** Universitätsklinikum Freiburg AdöR
 
-**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
+**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) eArztbrief](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) eTerminservice (Link)**
 
 x
 
@@ -2114,9 +2108,9 @@ x
 
 **tomedo.air** Zollsoft GmbH
 
-Seite 18 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 07. Juni 2026
+Seite 18 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 16. Juni 2026
 
-**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) Digitale Muster (Link) Blankoformular-bedruckung (Link) eArztbrief (Link) eTerminservice (Link)**
+**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) eArztbrief](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) eTerminservice (Link)**
 
 x
 

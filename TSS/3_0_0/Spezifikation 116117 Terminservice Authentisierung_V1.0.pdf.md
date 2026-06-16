@@ -4,24 +4,24 @@
 
 Herbert-Lewin-Platz 2 10623 Berlin
 
-www.kbv.de
+[www.kbv.de](http://www.kbv.de/)
 
 
 ---
 
-| **Inhalt** |  |  |  |
-|---|---|---|---|
-| **1** | **EINLEITUNG** | **...............................................................................................................** | **4** |
-| **2** |  | **GRUNDSÄTZLICHES...................................................................................................** | **5** |
-| **3** |  | **VORAUSSETZUNG......................................................................................................** | **6** |
-| **4 USE** |  | **CASES.................................................................................................................** | **7** |
-| **4.1** | **Praxisverwaltungssystem** |  | **(Primärsystem).............................................................................................7** |
-| **4.2 Online-Dienst** |  | **........................................................................................................................................7** | |
-| **5** | **ANFORDERUNGEN** | **.....................................................................................................** | **8** |
-| **5.1** |  | **Grundlage..............................................................................................................................................8** | |
-| **5.2 Übergreifende** | **Festlegung** |  | **.....................................................................................................................8** |
-| **5.3** |  | **Änderungen...........................................................................................................................................8** | |
-| **6** |  | **REFERENZEN............................................................................................................** | **14** |
+| Inhalt |  |  |  |  |
+|---|---|---|---|---|
+| **1** | **EINLEITUNG** | | **...............................................................................................................** | **4** |
+| **2** |  |  | **GRUNDSÄTZLICHES...................................................................................................** | **5** |
+| **3** |  |  | **VORAUSSETZUNG......................................................................................................** | **6** |
+| **4** | **USE** |  | **CASES.................................................................................................................** | **7** |
+| **4.1** |  | **Praxisverwaltungssystem** | | **(Primärsystem).............................................................................................7** |
+| **4.2** | **Online-Dienst** |  | **........................................................................................................................................7** | |
+| **5** |  | **ANFORDERUNGEN** | **.....................................................................................................** | **8** |
+| **5.1** |  |  | **Grundlage..............................................................................................................................................8** | |
+| **5.2** | **Übergreifende** | **Festlegung** | | **.....................................................................................................................8** |
+| **5.3** |  |  | **Änderungen...........................................................................................................................................8** | |
+| **6** |  |  | **REFERENZEN............................................................................................................** | **14** |
 
 EINLEITUNG ............................................................................................................... 4 GRUNDSÄTZLICHES................................................................................................... 5 VORAUSSETZUNG...................................................................................................... 6 USE CASES................................................................................................................. 7 4.1 Praxisverwaltungssystem (Primärsystem).............................................................................................7 4.2 Online-Dienst ........................................................................................................................................7 ANFORDERUNGEN ..................................................................................................... 8 5.1 Grundlage..............................................................................................................................................8 5.2 Übergreifende Festlegung .....................................................................................................................8 5.3 Änderungen...........................................................................................................................................8 REFERENZEN............................................................................................................ 14
 
@@ -41,9 +41,7 @@ EINLEITUNG .....................................................................
 
 redaktionelle Änderungen nach
 
-in Kraft
-
-Kommentierung 3
+in Kraft Kommentierung 3
 
 Ergänzung Voraussetzungen um  Praxisausweis (SMC-B oder SMB) und TI- Gateway 4
 
@@ -89,9 +87,7 @@ Seite 5 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung
 
 Praxen müssen folgende Voraussetzungen für die Nutzung des Authentisierungsverfahrens erfüllen:
 
-die Praxis benötigt einen Zugang zur Telematikinfrastruktur (TI), die Praxis benötigt einen gültigen Praxisausweis (SMC-B oder SMB), der Praxisausweis muss im Verzeichnisdienst der TI mit telematikID beginnend mit "1-20" und ihre BSNR  als domainID hinterlegt sein, die Praxis muss Zugriff auf ihren Konnektor oder ihr TI-Gateway haben und
-
-die Praxis muss Zugriff auf das Schlüsselmaterial und die Zertifikate des Praxisausweises über ihren  Konnektor bzw. TI-Gateway haben.
+die Praxis benötigt einen Zugang zur Telematikinfrastruktur (TI), die Praxis benötigt einen gültigen Praxisausweis (SMC-B oder SMB), der Praxisausweis muss im Verzeichnisdienst der TI mit telematikID beginnend mit "1-20" und ihre BSNR  als domainID hinterlegt sein, die Praxis muss Zugriff auf ihren Konnektor oder ihr TI-Gateway haben und die Praxis muss Zugriff auf das Schlüsselmaterial und die Zertifikate des Praxisausweises über ihren  Konnektor bzw. TI-Gateway haben.
 
 Seite 6 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung
 
@@ -110,9 +106,7 @@ Das erste Use Case ist, dass in einer Praxis ein Praxisverwaltungssystem (Primä
 
 **4.2 ONLINE-DIENST**
 
-Im zweiten Use Case nutzen Praxismitarbeitende einen Online-Dienst über einen Browser. Der Online-Dienst  hat keinen direkten Zugriff auf den Konnektor oder das TI-Gateway der Praxis und damit auch keinen direkten
-
-Zugriff auf den Praxisausweis (SMC-B oder SMB). Der Online-Dienst kann im "Namen der Praxis" direkt mit  dem 116117 Terminservice kommunizieren.
+Im zweiten Use Case nutzen Praxismitarbeitende einen Online-Dienst über einen Browser. Der Online-Dienst  hat keinen direkten Zugriff auf den Konnektor oder das TI-Gateway der Praxis und damit auch keinen direkten  Zugriff auf den Praxisausweis (SMC-B oder SMB). Der Online-Dienst kann im "Namen der Praxis" direkt mit  dem 116117 Terminservice kommunizieren.
 
 **2 Use Case Online-Dienst**
 
@@ -135,9 +129,7 @@ Es gelten alle Anforderungen aus "Kapitel 5.1 Allgemein" und seinen Unterkapitel
 
 In allen Anforderungen wird "E-Rezept" durch "116117 Terminservice" ersetzt.
 
-**SPEZIFIKATION ANFORDERUNG**
-
-**SKAPITEL**
+**SPEZIFIKATION ANFORDERUNG** **SKAPITEL**
 
 5.1.1  Kommunikation  zu den Diensten  der TI
 
@@ -194,20 +186,14 @@ Anforderung entfällt und muss nicht umgesetzt werden.
 
 erp-user
 
-A_21569 - PS: Anforderung entfällt und muss nicht umgesetzt werden.
+A_21569 - PS: Anforderung entfällt und muss nicht umgesetzt werden. HTTP-Header X- erp-resource
 
-HTTP-Header X- erp-resource
-
-A_19741 - PS: Anforderung entfällt und muss nicht umgesetzt werden.
-
-Umsetzung  sicherer Kanal  zur VAU des E- Rezept- Fachdienstes
+A_19741 - PS: Anforderung entfällt und muss nicht umgesetzt werden. Umsetzung  sicherer Kanal  zur VAU des E- Rezept- Fachdienstes
 
 
 ---
 
-**SPEZIFIKATION ANFORDERUNG**
-
-**SKAPITEL**
+**SPEZIFIKATION ANFORDERUNG** **SKAPITEL**
 
 5.1.3  Zertifikatsprüfun g
 
@@ -225,31 +211,21 @@ von:
 
 TLS-
 
-nein
-
-Verbindungsauf bau zum E-Rezept- Fachdienst
+nein Verbindungsauf bau zum E-Rezept- Fachdienst
 
 TLS-
 
-nein
-
-Verbindungsauf bau zum  Verzeichnisdien st
+nein Verbindungsauf bau zum  Verzeichnisdien st
 
 der TI
 
 TLS-
 
-nein
+nein Verbindungsauf bau zum IDP
 
-Verbindungsauf bau zum IDP
+Aufbau sicherer ja Kanal zur VAU des E- Rezept- Fachdienstes
 
-Aufbau sicherer ja
-
-Kanal zur VAU des E- Rezept- Fachdienstes
-
-Nur für PS der ja
-
-abgebenden LEI: Signaturzertifika t Fachdienst
+Nur für PS der ja abgebenden LEI: Signaturzertifika t Fachdienst
 
 zu:
 
@@ -259,13 +235,9 @@ zu:
 
 TLS-
 
-nein
+nein Verbindungsauf bau zum 116117  Terminservice  Dienst
 
-Verbindungsauf bau zum 116117  Terminservice  Dienst
-
-**ZERTIFIKAT ROLLEN- NUTZU**
-
-**STYP**
+**ZERTIFIKAT ROLLEN- NUTZU** **STYP**
 
 **OID**
 
@@ -273,33 +245,21 @@ Verbindungsauf bau zum 116117  Terminservice  Dienst
 
 TLS Internet n/a
 
-aktiv
-
-Zertifikat
+aktiv Zertifikat
 
 TLS Internet n/a
 
-aktiv
-
-Zertifikat
+aktiv Zertifikat
 
 TLS Internet n/a
 
-aktiv
+aktiv Zertifikat
 
-Zertifikat
+C.FD.ENC oid_erp- aktiv vau
 
-C.FD.ENC oid_erp- aktiv
+C.FD.SIG oid_ereze aktiv pt
 
-vau
-
-C.FD.SIG oid_ereze aktiv
-
-pt
-
-**ZERTIFIKAT ROLLEN- NUTZU**
-
-**STYP**
+**ZERTIFIKAT ROLLEN- NUTZU** **STYP**
 
 **OID**
 
@@ -307,9 +267,7 @@ pt
 
 TLS Internet n/a
 
-aktiv
-
-Zertifikat
+aktiv Zertifikat
 
 
 ---
@@ -334,25 +292,17 @@ A_20764 - PS:  Prüfung TI- Zertifikate
 
 TLS-
 
-nein
-
-Verbindungsauf bau zum  Verzeichnisdien st
+nein Verbindungsauf bau zum  Verzeichnisdien st
 
 der TI
 
 TLS-
 
-nein
+nein Verbindungsauf bau zum IDP der  kv.digital
 
-Verbindungsauf bau zum IDP der  kv.digital
+Aufbau sicherer ja Kanal zur VAU des E- Rezept- Fachdienstes
 
-Aufbau sicherer ja
-
-Kanal zur VAU des E- Rezept- Fachdienstes
-
-Nur für PS der ja
-
-abgebenden LEI: Signaturzertifika
+Nur für PS der ja abgebenden LEI: Signaturzertifika
 
 t Fachdienst
 
@@ -368,9 +318,7 @@ zu:
 
 "Hierfür wird am Authorization-Endpunkt des IDP-Dienstes ein  "AUTHORIZATION_CODE" beantragt, der nach erfolgreicher Verifikation am  Token-Endpunkt des IDP-Dienstes gegen ein "ID_TOKEN" und ein  "ACCESS_TOKEN" getauscht wird."
 
-**ZERTIFIKAT ROLLEN- NUTZU**
-
-**STYP**
+**ZERTIFIKAT ROLLEN- NUTZU** **STYP**
 
 **OID**
 
@@ -378,23 +326,15 @@ zu:
 
 TLS Internet n/a
 
-aktiv
-
-Zertifikat
+aktiv Zertifikat
 
 TLS Internet n/a
 
-aktiv
+aktiv Zertifikat
 
-Zertifikat
+C.FD.ENC oid_erp- aktiv vau
 
-C.FD.ENC oid_erp- aktiv
-
-vau
-
-C.FD.SIG oid_ereze aktiv
-
-pt
+C.FD.SIG oid_ereze aktiv pt
 
 
 ---
@@ -516,11 +456,8 @@ Anforderung entfällt und muss nicht umgesetzt werden.
 6 REFERENZEN
 
 - [gemILF_PS_eRp]: Spezifikation Implementierungsleitfaden Primärsysteme - E-Rezept,
-
-- aktuelle Version: [https://gemspec.gematik.de/docs/gemILF/gemILF_PS_eRp/latest/](https://gemspec.gematik.de/docs/gemILF/gemILF_PS_eRp/latest/)
-
-- Version 1.10.0: [https://gemspec.gematik.de/docs/gemILF/gemILF_PS_eRp/](https://gemspec.gematik.de/docs/gemILF/gemILF_PS_eRp/) gemILF_PS_eRp_V1.10.0/
-
-- Kapitel 5.1 in Version 1.10.0: [https://gemspec.gematik.de/docs/gemILF/gemILF_PS_eRp/](https://gemspec.gematik.de/docs/gemILF/gemILF_PS_eRp/) gemILF_PS_eRp_V1.10.0/#5.1
+- [aktuelle Version: https://gemspec.gematik.de/docs/gemILF/gemILF_PS_eRp/latest/](https://gemspec.gematik.de/docs/gemILF/gemILF_PS_eRp/latest/)
+- [Version 1.10.0: https://gemspec.gematik.de/docs/gemILF/gemILF_PS_eRp/](https://gemspec.gematik.de/docs/gemILF/gemILF_PS_eRp/gemILF_PS_eRp_V1.10.0/) [gemILF_PS_eRp_V1.10.0/](https://gemspec.gematik.de/docs/gemILF/gemILF_PS_eRp/gemILF_PS_eRp_V1.10.0/)
+- [Kapitel 5.1 in Version 1.10.0: https://gemspec.gematik.de/docs/gemILF/gemILF_PS_eRp/](https://gemspec.gematik.de/docs/gemILF/gemILF_PS_eRp/gemILF_PS_eRp_V1.10.0/) [gemILF_PS_eRp_V1.10.0/#5.1](https://gemspec.gematik.de/docs/gemILF/gemILF_PS_eRp/gemILF_PS_eRp_V1.10.0/#5.1)
 
 Seite 14 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung

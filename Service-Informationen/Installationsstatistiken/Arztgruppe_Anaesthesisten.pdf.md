@@ -159,9 +159,9 @@ CompuGroup Medical Deutschland AG 47
 
 3
 
-498 **T 2med**
+498 **T2med**
 
-T 2med GmbH & Co. KG 45
+T2med GmbH & Co. KG 45
 
 45
 
@@ -187,9 +187,9 @@ Deutsche Telekom Clinical Solutions GmbH 35 34
 
 1
 
-261 **S 3-Win**
+261 **S3-Win**
 
-S 3 Praxiscomputer GmbH / Maximilian Flender 34 35
+S3 Praxiscomputer GmbH / Maximilian Flender 34 35
 
 -1
 

@@ -1,4 +1,4 @@
-| **Plausibilitäten Dokumentationsbogen QS Hörgeräteversorgung Kinder** | | | | | |
+| Plausibilitäten Dokumentationsbogen QS Hörgeräteversorgung Kinder | | | | | |
 |---|---|---|---|---|---|
 | **Nr.** | **Item** | **Ausprägung / Datenformat** | **Pflichtfeld** | **Antwortmöglichkeiten** | **optional Plausibiilitäten** |
 | | | | | | |

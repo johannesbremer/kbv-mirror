@@ -24,9 +24,7 @@
 
 **Aus Datenschutzgründen freibleibend**
 
-**Aufgrund** **somatischer/psychiatrischer** **Befunde** **bestehen** **derzeit** **Kontra-**
-
-**indikationen** **für** **eine** **psychotherapeutische** **Behandlung** **(Begründung** **s.** **o.)**
+**Aufgrund** **somatischer/psychiatrischer** **Befunde** **bestehen** **derzeit** **Kontra-** **indikationen** **für** **eine** **psychotherapeutische** **Behandlung** **(Begründung** **s.** **o.)**
 
 **Ärztliche Mitbehandlung ist erforderlich** **Art der Maßnahme:**
 

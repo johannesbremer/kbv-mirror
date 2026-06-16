@@ -6,13 +6,11 @@ Kundennummer:
 
 Liquidations-ID:
 
-Patient/in befindet sich seit _____________
+Patient/in befindet sich seit
 
-# Letzte Behandlung am _________________
+# Letzte Behandlung am
 
-## Welche Leistung wird beantragt (Frage ist nur zu beantworten, falls die aktuelle Verordnung durch Sie
-
-## erfolgt ist)?
+## Welche Leistung wird beantragt (Frage ist nur zu beantworten, falls die aktuelle Verordnung durch Sie  erfolgt ist)?
 
 Einlagen
 
@@ -20,54 +18,53 @@ technische Hilfe (bitte näher beschreiben):
 
 # Nähere Beschreibung der technischen Hilfen:
 
-## Beschwerden/Behinderungen mit Auswirkung auf die beantragte Leistung: - Rückenschmerzen:
+## Beschwerden/Behinderungen mit Auswirkung auf die beantragte Leistung:
 
+- Rückenschmerzen:
 - Beinverkürzung:
-
 - Beckenschiefstand:
-
 - Kniebeschwerden:
 
-Sonstige (bitte benennen): ____________________________________________________________
+Sonstige (bitte benennen):
 
-_____________________________________________________________________________________
+____
 
-_____________________________________________________________________________________
+____
 
-_____________________________________________________________________________________
+____
 
-_____________________________________________________________________________________
+____
 
 AM 6-ÄD – 1900.8_Befundbericht_BÄK_ Fußschutz_Einlagen_Technische_Hilfen_21.
 
 regelmäßig
 
-Schuhzurichtung - HWS
+Schuhzurichtung
 
-12
+- HWS 12
 
 BGL-Nummer:
 
-gelegentlich  nicht in meiner Behandlung
+gelegentlich
 
-manuell - BWS
+manuell
 
+- BWS
+- rechts
+- rechts
 - rechts
 
-- rechts
-
-- rechts
+nicht in meiner Behandlung
 
 # 17 12.2021
 
 Maßschuhe
 
-elektrisch - LWS
+elektrisch
 
+- LWS
 - links
-
 - links
-
 - links
 
 
@@ -75,9 +72,9 @@ elektrisch - LWS
 
 # Begründung der Notwendigkeit (beispielweise: Diagnose, Funktionseinschränkungen, etc.) des  Fußschutzes oder der technischen Hilfen
 
-## Sofern orthopädisches Schuhwerk oder Einlagen beantragt wurde: Muss das Schuhwerk bzw. die
+## Sofern orthopädisches Schuhwerk oder Einlagen beantragt wurde: M Einlagen ganztags getragen werden?
 
-## Einlagen ganztags getragen werden?
+## uss das Schuhwerk bzw. die
 
 ja
 
@@ -85,7 +82,7 @@ nein
 
 ## Seit wann besteht die gesundheitliche Beeinträchtigung?
 
-Seit: _______________
+Seit: _
 
 # Bisher verordnete Hilfsmittel (beispielweise Orthesen, Prothesen, Bandagen, etc.). Bitte geben Sie auch  einen Hinweis, weshalb diese aus Ihrer Sicht nicht ausreichend sind:
 
@@ -94,11 +91,7 @@ AM 6-ÄD – 1900.8_Befundbericht_BÄK_ Fußschutz_Einlagen_Technische_Hilfen_21
 
 ---
 
-**Bitte fügen Sie diesem Befundbericht relevante medizinische Unterlagen (Arztbriefe, Befundberichte,**
-
-**Laborbefunde, Krankenhaus-Entlassungsberichte, Reha-Entlassungsberichte, Gutachten u. ä.) als**
-
-**Kopie bei, vielen Dank.**
+**Bitte fügen Sie diesem Befundbericht relevante medizinische Unterlagen (Arztbriefe, Befundberichte,**  **Laborbefunde, Krankenhaus-Entlassungsberichte, Reha-Entlassungsberichte, Gutachten u. ä.) als**  **Kopie bei, vielen Dank.**
 
 Medizinische Unterlagen liegen bei
 
@@ -115,8 +108,6 @@ AM 6-ÄD – 1900.8_Befundbericht_BÄK_ Fußschutz_Einlagen_Technische_Hilfen_21
 **Rückruf erbeten**
 
 **Bitte senden Sie mir Ihr Gutachten / Ihre gutachterliche Äußerung zu** (Eine Erklärung der Patientin / des Patienten über die Entbindung des Ärztlichen Dienstes der  Bundesagentur für Arbeit von der ärztlichen Schweigepflicht lege ich bei oder reiche ich nach)
-
-__________________________
 
 
 ---
@@ -141,7 +132,7 @@ Agentur für Arbeit
 
 Für meine Bemühungen erlaube ich mir zu berechnen:
 
-| Fotokopierkosten:  **0,50 € 0,15 €** | ____  Seiten á  ____  Seiten á | = | **__________  €  __________  €** |
+| Fotokopierkosten:   0,50 € 0,15 € | ____  Seiten á  ____  Seiten á | = | __________  €  __________  € |
 |---|---|---|---|
 | Ausstellung des vollständigen Befundberichts und  Übermittlung an den Ärztlichen Dienst: |  | = | **€** |
 | Portokosten: |  | = | **€** |

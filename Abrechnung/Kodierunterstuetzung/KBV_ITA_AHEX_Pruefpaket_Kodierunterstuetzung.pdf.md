@@ -11,14 +11,14 @@
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_KODIERUNTERSTUETZUNG]
 
-BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
+BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS     
 
 
 ---
 
 INHALT
 
-| **1 ALLGEMEINES** | **4** |
+| 1 ALLGEMEINES | 4 |
 |---|---|
 | 1.1 Rechtsgrundlage | 4 |
 | 1.2 Zertifizierungsablauf | 4 |
@@ -35,28 +35,34 @@ INHALT
 | 1.6.4 Praxisdaten | 10 |
 | 1.6.5 Falldarstellung | 11 |
 
-**2** **PRÜFFÄLLE FÜR SELEKTIVVERTRAGLICHE SYSTEME, DIE DIE DAUERHAFTE BEHANDLUNG VON**  **ERKRANKTEN MIT CHRONISCHEN DIAGNOSEN UNTERSTÜTZEN**
+**2**
+
+**3**
+
+**4**
+
+**5**
+
+**PRÜFFÄLLE FÜR SELEKTIVVERTRAGLICHE SYSTEME, DIE DIE DAUERHAFTE BEHANDLUNG VON**  **ERKRANKTEN MIT CHRONISCHEN DIAGNOSEN UNTERSTÜTZEN**
 
 **12**
 
-**3** **PRÜFFÄLLE FÜR REINE SELEKTIVVERTRAGLICHE SYSTEME**
+**PRÜFFÄLLE FÜR REINE SELEKTIVVERTRAGLICHE SYSTEME**
+
+**PRÜFFÄLLE FÜR §§ 115B, 116B UND 120 ABS. 3 SGB V**
+
+**REFERENZIERTE DOKUMENTE**
 
 **18**
 
-**4** **PRÜFFÄLLE FÜR §§ 115B, 116B UND 120 ABS. 3 SGB V**
-
-**20**
-
-**5** **REFERENZIERTE DOKUMENTE**
-
-**25**
+**20** **25**
 
 
 ---
 
 DOKUMENTENHISTORIE
 
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.07 | 27.01.2025 | KBV | Aktualisierung diverser | Auslauf von | Kap. |
 | 1.06 | 15.11.2022 | KBV | Ausschluss der Systeme  verwendet werden. | Kodierunterstützung | alle |
@@ -67,7 +73,7 @@ DOKUMENTENHISTORIE
 | 1.01 | 13.09.2021 | KBV | Ergänzung der      Kleine Anpassungen der | Konkretisierung der zu | 11  17    Alle |
 | 1.0 | 28.06.2021 | KBV | Neues Dokument | Initiale Erstellung | Alle |
 
-Kodierregeln; Aufnahme 2-4 Kodierregeln in den neuer Kodierregeln in Prüfvorgaben die Stammdatei wird im Prüfvorgang welche nicht KVDT geprüft ausschließlich für die Abrechnung gemäß § 57a, Abs. 2 BMV-Ä oder für die Direktabrechnung gemäß §§ 115b, 116b und 120 Abs. 3 SGB V und  der Systeme welche für die Abrechnung gemäß § 57a, Abs. 2 BMV-Ä Ergänzungen der Prüffälle PF01, erwarteten PF02, PF07, PF10, PF11 und Dokumentation PF17 18, 19, ICD-10-GM-Kodes J44.90 Ergänzungen der Prüffälle PF 01, Anforderungsänderung PF02, PF04, PF11, PF12 Anforderungskatalog und den Beispieldaten Prüffälle erwarteten Dokumentation Kapitelbeschreibung bearbeitenden Prüffälle Prüffälle
+Kodierregeln; Aufnahme 2-4 Kodierregeln in den neuer Kodierregeln in Prüfvorgaben die Stammdatei wird im Prüfvorgang welche nicht KVDT geprüft ausschließlich für die Abrechnung gemäß § 57a, Abs. 2 BMV-Ä oder für die Direktabrechnung gemäß §§ 115b, 116b und 120 Abs. 3 SGB V und  der Systeme welche für die Abrechnung gemäß § 57a, Abs. 2 BMV-Ä Ergänzungen der Prüffälle PF01, erwarteten PF02, PF07, PF10, PF11 und Dokumentation PF17 18, 19, ICD-10-GM-Kodes J44.90 Ergänzungen der Prüffälle PF01, Anforderungsänderung PF02, PF04, PF11, PF12 Anforderungskatalog und den Beispieldaten Prüffälle erwarteten Dokumentation Kapitelbeschreibung bearbeitenden Prüffälle Prüffälle
 
 ---
 
@@ -81,32 +87,22 @@ Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten u
 
 **HINWEIS**
 
-- 1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und
-
-- unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.
-
+- 1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.
 - 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als .ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch Mitarbeitende der KBV.
-
 - 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.
-
 - 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten Unterlagen  durch Mitarbeitende der KBV mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung  ausgesprochen werden.
 
-Falls der Zertifizierungsgegenstand für das Zertifizierungsthema KVDT zertifiziert wird, wird der Bereich
-
-Kodierunterstützung im Prüfvorgang KVDT geprüft.
+Falls der Zertifizierungsgegenstand für das Zertifizierungsthema KVDT zertifiziert wird, wird der Bereich  Kodierunterstützung im Prüfvorgang KVDT geprüft.
 
 ## 1.1 RECHTSGRUNDLAGE
 
-Die rechtliche Grundlage bildet § 295 Absatz 4 Satz 3 und 5 SGB V des Fünften Buches Sozialgesetzbuch (SGB
-
-V).
+Die rechtliche Grundlage bildet § 295 Absatz 4 Satz 3 und 5 SGB V des Fünften Buches Sozialgesetzbuch (SGB  V).
 
 ## 1.2 ZERTIFIZIERUNGSABLAUF
 
 Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten.
 
-Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den Antrag  auf Zertifizierung eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen und erst nach Erhalt der  Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den vorab via Mail  eingereichten Antrag auf Zertifizierung hochladen.
-
+Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den Antrag  [auf Zertifizierung eingescannt per Mail (](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[) einreichen und erst nach Erhalt der](mailto:pruefstelle@kbv.de) [Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den vorab via Mail](mailto:pruefstelle@kbv.de) eingereichten Antrag auf Zertifizierung hochladen.
 
 ---
 
@@ -116,36 +112,25 @@ Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizieru
 
 ## 1.3 ZERTIFIZIERUNGSPORTAL
 
-Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
+[Das Zertifizierungsportal ist über](https://zertifizierungsportal2.kbv.de/)[https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/)[zu erreichen.](https://zertifizierungsportal2.kbv.de/)
 
-Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran  anschließenden manuellen Prüfung durch Mitarbeitende der KBV.
+[Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran](https://zertifizierungsportal2.kbv.de/) anschließenden manuellen Prüfung durch Mitarbeitende der KBV.
 
-Die Zugangsdaten können direkt über das Portal oder über das Prüfstellen -Postfach ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de))
+Die Zugangsdaten können direkt über das Portal oder [über das Prüfstellen -Postfach (](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) [unter Angabe der System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert](mailto:pruefstelle@kbv.de) werden. Bitte beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
 
-unter Angabe der System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert  werden. Bitte beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
-
-Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung hochgeladen haben. Das Portal zeigt Ihnen in Form von Aufgaben (Menüpunkt: „Meine  Aufgaben“) die nächsten Arbeiten an, die von Ihnen durchzuführen sind. Immer wenn Aktivitäten der
-
-Zertifizierungsstelle abgeschlossen wurden, wird für Sie eine neue Aufgabe generiert.
+Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung hochgeladen haben. Das Portal zeigt Ihnen in Form von Aufgaben (Menüpunkt: „Meine  Aufgaben“) die nächsten Arbeiten an, die von Ihnen durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird für Sie eine neue Aufgabe generiert.
 
 Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im  Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur mit den von Ihnen erstellten  Prüfunterlagen in Form einer ZIP-Datei archiviert werden.
 
 Die in das Portal integrierte Prüfautomatisierung führt neben einer inhaltlichen Prüfung auch eine Prüfung  auf Vollständigkeit der eingereichten Prüfunterlagen durch.
 
-Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, werden Sie
+Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, werden Sie  vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehler zu beheben  bzw. die Lieferung zu vervollständigen.
 
-vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehler zu beheben  bzw. die Lieferung zu vervollständigen.
-
-Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende
-
-Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im .HTML oder .XML -Format) erzeugt und  Ihnen zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen durch  Mitarbeitende der KBV geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung als
-
-fehlerfrei erkannt wurden, erfolgt die Prüfung durch Mitarbeitende der KBV. Wird hierbei festgestellt, dass  Dateien fehlerhaft sind, werden Sie aufgefordert eine Korrekturlieferung hochzuladen.
+Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im .HTML oder .XML -Format) erzeugt und  Ihnen zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen durch  Mitarbeitende der KBV geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung als  fehlerfrei erkannt wurden, erfolgt die Prüfung durch Mitarbeitende der KBV. Wird hierbei festgestellt, dass  Dateien fehlerhaft sind, werden Sie aufgefordert eine Korrekturlieferung hochzuladen.
 
 ## 1.4 ZERTIFIZIERUNGSDOKUMENTE
 
-Den Anforderungskatalog finden Sie unter [https://update.kbv.de/ita-update/Abrechnung/](https://update.kbv.de/ita-update/Abrechnung/). In diesem  Zusammenhang berücksichtigen Sie bitte auch das dritte Kapitel - Referenzierte Dokumente hier sind die  Verzeichnisse der notwendigen Stammdateien angegeben
-
+Den Anforderungskatalog finden Sie unter [https://update.kbv.de/ita-update/Abrechnung/](https://update.kbv.de/ita-update/Abrechnung/)[. In diesem](https://update.kbv.de/ita-update/Abrechnung/) [Zusammenhang berücksichtigen Sie bitte auch das dritte Kapitel -](https://update.kbv.de/ita-update/Abrechnung/)[Referenzierte Dokumente](https://update.kbv.de/ita-update/Abrechnung/)[hier sind die](https://update.kbv.de/ita-update/Abrechnung/) Verzeichnisse der notwendigen Stammdateien angegeben
 
 ---
 
@@ -154,9 +139,7 @@ Den Anforderungskatalog finden Sie unter [https://update.kbv.de/ita-update/Abrec
 Das Prüfpaket bildet die erforderlichen Prüffälle zum Nachweis der umgesetzten Anforderungen ab. Die  Prüffälle sind grundsätzlich in die folgenden drei Bereich unterteilt:
 
 - Prüffälle für Systeme, welche ausschließlich zur Erstellung von selektivvertraglichen Abrechnungen  verwendet werden, die die dauerhafte Behandlung von Erkra unterstützen (Kapitel 2)
-
 - Prüffälle für Systeme, welche ausschließlich zur Erstellung von selektivvertraglichen Abrechnungen in  einem spezifischen Bereich und ohne die dauerhafte Behandlung von Erkrankten mit chronischen  Diagnosen verwendet werden (Kapitel 3)
-
 - Prüffälle für Systeme, welche ausschließlich für die Direktabrechnung gemäß §§ 115b 3 SGB V verwendet werden und die nicht für die vertragsärztliche Abrechnung zugelassen sind
 
 Die von Ihnen umzusetzenden Prüffälle ergeben sich aus Ihrer Angabe zum Einsatzzweck der Software aus  dem Antrag auf Zertifizierung.
@@ -167,19 +150,13 @@ Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwart
 
 Die geforderten Videomitschnitte müssen im Hauptverzeichnis übermittelt werden und mit einem  Dateinamen, der nach folgender Namenskonvention aufgebaut ist:
 
-***PrüffallNr*****.> _[*****Aktion Nr.*** **1 2** ** z.B. PF01_1.mp4**
+***PrüffallNr*****.> _[*****AktionNr.*** **1 2** ** z.B. PF01_1.mp4**
 
-Die geforderten Screenshots sind entsprechend der Reihenfolge der Anweisungen des Prüffalls in  zu hinterlegen. Die Screenshots sind im PDF-Format bereitzustellen. Es ist zu beachten, dass pro Prüffall eine
-
-PDF-Datei bereitzustellen ist. Die PDF-Dateien müssen folgende Namenskonvention erfüllen und ebenfalls  direkt in dem Hauptverzeichnis übertragen werden.
+Die geforderten Screenshots sind entsprechend der Reihenfolge der Anweisungen des Prüffalls in  zu hinterlegen. Die Screenshots sind im PDF-Format bereitzustellen. Es ist zu beachten, dass pro Prüffall eine  PDF-Datei bereitzustellen ist. Die PDF-Dateien müssen folgende Namenskonvention erfüllen und ebenfalls  direkt in dem Hauptverzeichnis übertragen werden.
 
 ***PrüffallNr*** **3 .pdf  z.B. PF01.pdf**
 
-Die gesammelten Dateien sind in einem .ZIP-Archiv
-
-„Zert_168_<*SystemID*>“ benannt werden. Die *SystemID* ergibt sich aus den letzten drei Stellen der
-
-Prüfnummer.
+Die gesammelten Dateien sind in einem .ZIP-Archiv  „Zert_168_<*SystemID*>“ benannt werden. Die *SystemID* ergibt sich aus den letzten drei Stellen der  Prüfnummer.
 
 Abbildung 1 zeigt die einzureichende Struktur und Inhalte des
 
@@ -192,9 +169,7 @@ Abbildung 1 zeigt die einzureichende Struktur und Inhalte des
 2 Gängiges Bild- bzw. Videoformat 3 Nr. des Prüffalls
 
 - nkten mit chronischen Diagnosen
-
 - , 116b und 120 Abs.  (Kapitel 4).
-
 - je nach Prüffall).
 
 einer Datei
@@ -208,40 +183,29 @@ zu übermitteln. Das .ZIP-Archiv muss mit
 
 **HINWEIS**
 
-Die Gesamtheit der im Zertifizierungsverfahren bereitgestellten Prüfunterlagen darf eine maximale Größe
+- EF.VD [= allgemeine Versicherungsdaten](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/VSD_5.2.0_Testfaelle_V2.3.zip)[](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/VSD_5.2.0_Testfaelle_V2.3.zip)
+- EF.PD = persönliche Versichertendaten
+- EF.GVD = geschützte Versichertendaten
 
-von 500 MB nicht überschreiten. Es wird daher empfohlen, die Videodateien in hocheffizienter Kodierung  zu erstellen.
+Die Gesamtheit der im Zertifizierungsverfahren bereitgestellten Prüfunterlagen darf eine maximale Größe  von 500 MB nicht überschreiten. Es wird daher empfohlen, die Videodateien in hocheffizienter Kodierung  zu erstellen.
 
 ## 1.6 PRÜFVORGABEN
 
 ### 1.6.1 Prüfstammdaten
 
-Zur Realisierung der Prüffälle müssen die Beispieldaten der veröffentl und SDVA verwendet werden.
+Zur Realisierung der Prüffälle müssen die Beispieldaten der veröffentlichten Schnittstellen der SDICD SDKRW  und SDVA verwendet werden.
 
 ### 1.6.2 Versichertendaten
 
-Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden auch als XML-Dateien zur Verfügung gestellt. Die Archivdatei  (VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für jeden Prüffall (siehe Kapitel  Verzeichnis die folgenden XML-Dateien mit Versichertenstammdaten:
+Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden auch als XML-Dateien zur Verfügung gestellt. Die Archivdatei  (VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für jeden Prüffall (siehe Kapitel 1.6.3) in einem jeweils separaten  [Verzeichnis die folgenden XML-Dateien mit](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/VSD_5.2.0_Testfaelle_V2.3.zip)[Versichertenstammdaten](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/VSD_5.2.0_Testfaelle_V2.3.zip)
 
-- EF.VD = allgemeine Versicherungsdaten
-
-- EF.PD = persönliche Versichertendaten
-
-- EF.GVD = geschützte Versichertendaten
-
-Die Erfassung der Patientendaten in den einzelnen Prüffällen kann entweder über das Einlesen (mit einer
-
-sogenannten Import-Schnittstelle) der XML-Datei realisiert werden oder die Daten können im  Ersatzverfahren bzw. händisch erfasst werden.
-
-ichten Schnittstellen der SDICD, SDKRW
-
-1.6.3) in einem jeweils separaten
-
+Die Erfassung der Patientendaten in den einzelnen Prüffällen kann entweder über das Einlesen (mit einer  sogenannten Import-Schnittstelle) der XML-Datei realisiert werden oder die Daten können im  Ersatzverfahren bzw. händisch erfasst werden.
 
 ---
 
 ### 1.6.3 Patientendaten für die Prüffälle 1.6.3.1 [XML_42]
 
-| **FELDER** | **INHALT** |
+| FELDER | INHALT |
 |---|---|
 | **Nachname** | Müller |
 | **Vorname** | Marion |
@@ -261,7 +225,7 @@ ichten Schnittstellen der SDICD, SDKRW
 
 1.6.3.2 [XML_34]
 
-| **FELDER** | **INHALT** |
+| FELDER | INHALT |
 |---|---|
 | **Namenszusatz** | Frhr. Gr |
 | **Vorsatzwort** | in't |
@@ -279,7 +243,7 @@ ichten Schnittstellen der SDICD, SDKRW
 
 ---
 
-| **FELDER** | **INHALT** |
+| FELDER | INHALT |
 |---|---|
 | **WOP** | 83 |
 | **Versichertenart** | 1 |
@@ -292,7 +256,7 @@ ichten Schnittstellen der SDICD, SDKRW
 
 1.6.3.3 [XML_43]
 
-| **FELDER** | **INHALT** |
+| FELDER | INHALT |
 |---|---|
 | **Name** | Gonzales |
 | **Vorname** | Leonie |
@@ -313,7 +277,7 @@ ichten Schnittstellen der SDICD, SDKRW
 
 1.6.3.4 [XML_44]
 
-| **FELDER** | **INHALT** |
+| FELDER | INHALT |
 |---|---|
 | **Name** | Gonzales |
 | **Vorname** | Rodrigo |
@@ -321,7 +285,7 @@ ichten Schnittstellen der SDICD, SDKRW
 
 ---
 
-| **FELDER** | **INHALT** |
+| FELDER | INHALT |
 |---|---|
 | **Geburtsdatum** | 03.11.1963 |
 | **Versicherten_ID** | G123456744 |
@@ -340,7 +304,7 @@ ichten Schnittstellen der SDICD, SDKRW
 
 Sofern zur Bearbeitung der Prüffälle Praxisdaten benötigt werden, können die folgenden Praxisdaten  verwendet werden. Eine Abweichung von den hier abgebildeten Daten ist möglich.
 
-| **PRAXISDATEN (ABRECHNENDER ARZT)** |  |
+| PRAXISDATEN (ABRECHNENDER ARZT) |  |
 |---|---|
 | **Betriebsstättennummer (BSNR)** | 198212400 |
 | **BSNR-Bezeichnung** | Praxis Dr. med. Heribert Topp-Glücklich |
@@ -354,7 +318,7 @@ Sofern zur Bearbeitung der Prüffälle Praxisdaten benötigt werden, können die
 | **Telefax** | 0251 / 2222222 |
 | **E-Mail-Adresse** | Dr.Heribert.Topp-Gluecklich@KBV- |
 
-Testpraxis.de
+Testpraxis.de 
 
 
 ---
@@ -364,19 +328,12 @@ Testpraxis.de
 Jeder Prüffall ist nach dem folgenden Schema aufgebaut.
 
 - **Prüffall-ID**
-
 - Die Prüffall-ID (z.B. PF01) ist die lfd. Nummer der Prüffälle des Prüfpaketes.  Dateinamens der einzureichenden Video- oder PDF-Datei zu verwenden.
-
 - **Testziel**
-
 - Grund oder Zweck für den Aufbau und die Ausführung von Aktionen in einem Prüffall.
-
 - **Aktion**
-
 - Es wird in diesem Bereich beschrieben, welche Tätigkeiten in dem entsprechenden Prüffall  durchgeführt werden sollen.
-
 - **Einzureichende Prüfunterlagen**
-
 - Es wird beschrieben, welche Prüfunterlagen einzureichen sind.
 
 **HINWEIS**
@@ -386,20 +343,22 @@ Beim Aufbau der Dokumentation in Form der eingereichten Video Aktionsschritte ei
 Software-seitige Hinweis-, Fehlermeldungen und Eingabemasken müssen durch separate Screenshots  verdeutlich werden. Dabei ist zu beachten, dass auch das gesamte Applikationsfenster im Screenshot zu  sehen ist. Bitte verwenden Sie zwischen den einzelnen Anweisungen immer eine entsprechende  Kennzeichnung/Überschrift.
 
 - **Geprüfte Anforderungen**
-
 - In diesem Bereich werden die wesentlichen Anforderungen benannt (z.B.: KP10-650  der behandlungsfallbezogenen Kodierregeln), welche durch den jeweiligen Prüffall betroffen sind.
 
+```
 -
-
 -
+```
 
 - Diese ist beim Aufbau des
 
+```
 -
-
 -
+```
 
-- bzw. Screenshot-Dateien müssen alle - Konfiguration
+- bzw. Screenshot-Dateien müssen alle
+- Konfiguration
 
 
 ---
@@ -476,7 +435,7 @@ KP10-542 Kennzeichnung „ungeeignet als Dauerdiagnose“ Prüffall-ID PF04 Test
 
 ---
 
-| **PF05** | **Testziel ** Übernahme von Dauerdiagnosen und Anwendung von behandlungsfallbezogenen |
+| PF05 | Testziel  Übernahme von Dauerdiagnosen und Anwendung von behandlungsfallbezogenen |
 |---|---|
 | **Voraussetzung** | Für den Patienten Viktor Werner wurden in den letzten 4 Quartalen die in der |
 |  |  |
@@ -541,7 +500,7 @@ In diesem Kapitel werden die Prüffälle für Systeme definiert, welche  Selekti
 | **Einzureichende** | Dokumentieren Sie durch Screenshots die Meldung des Systems |
 | **Geprüfte** | › › › › › ›  **Aktion** |
 
-| **Einzureichende** | Dokumentieren Sie durch Screenshots die Meldung des Systems |
+| Einzureichende | Dokumentieren Sie durch Screenshots die Meldung des Systems |
 |---|---|
 | **Geprüfte ** › | › |
 | › › | › |
@@ -555,7 +514,7 @@ Aktion Prüfunterlagen Anforderungen Der Anwender erfasst für Leonie Gonzales i
 
 ---
 
-|  | **Prüffall-ID  PF09** |
+|  | Prüffall-ID  PF09 |
 |---|---|
 | **Testziel** | Prüfen und sicherstellen, dass die Plausibilitäten der ICD-Stammdatei korrekt |
 | **Voraussetzung** |  |
@@ -593,14 +552,14 @@ In diesem Kapitel werden die Prüffälle für Systeme definiert, welche ausschli
 
 |  |  |
 |---|---|
-| **Prüffall-ID** | **PF 11** |
+| **Prüffall-ID** | **PF11** |
 | **Testziel** | Übersicht und Konfiguration der behandlungsfallbezogenen |
 | **Voraussetzung** |  |
 | **Aktion** | sollen   **Hinweis: Bitte achten Sie darauf, dass alle Texte (z.B. Diagnosenklartext,** |
 | **Einzureichende** | Dokumentieren Sie durch ein Video die kompletten Konfigurationsschritte |
 | **Geprüfte** | Insbesondere folgende Pflichtfunktionen sind betroffen:  › › 1. a)      **Prüffall-ID ** Übersicht und Konfiguration der behandlungsfallbezogenen **Voraussetzung ** 1. 2. b) |
 
-| sollen | **Hinweis: Bitte achten Sie darauf, dass alle Texte (z.B. Diagnosenklartext,** |
+| sollen | Hinweis: Bitte achten Sie darauf, dass alle Texte (z.B. Diagnosenklartext, |
 |---|---|
 | **Einzureichende ** Dokumentieren Sie durch ein Video die kompletten Konfigurationsschritte |  |
 | **Geprüfte ** Insbesondere folgende Pflichtfunktionen sind betroffen: | › |
@@ -628,7 +587,7 @@ Aktion Prüfunterlagen Anforderungen Zur Konfiguration aller behandlungsfallbezo
 | h) |  |
 | i) | › |
 |  |  |
-|  | **Prüffall-ID  PF 13 ** c) d) e) f) g) h) i) 2. 3. |
+|  | **Prüffall-ID  PF13 ** c) d) e) f) g) h) i) 2. 3. |
 
 |  |  |
 |---|---|
@@ -638,12 +597,12 @@ Aktion Prüfunterlagen Anforderungen Zur Konfiguration aller behandlungsfallbezo
 
 |  |  |
 |---|---|
-| **Prüffall-ID** | **PF 13** |
+| **Prüffall-ID** | **PF13** |
 | **Testziel** | Prüfen und sicherstellen, dass ein vom Anwender |
 | **Voraussetzung** |  |
 | **Aktion** | Diagnosensicherheit: G  Diagnosensicherheit: G |
 
-ICD-10-GM-Kode: I63.5  Diagnosensicherheit: G ICD-10-GM-Kode: I21.9 Diagnosensicherheit: G ICD-10-GM-Kode: I10.90 Diagnosensicherheit: G ICD-10-GM-Kode: J44.90 Diagnosensicherheit: G ICD-10-GM-Kode: T88.7 Diagnosensicherheit: G ICD-10-GM-Kode: I11.00 Diagnosensicherheit: G ICD-10-GM-Kode: G46.0 Diagnosensicherheit: G  Es soll als zusätzliche Erläuterung der Text Herzinsuffizienz“ zu der Behandlungsdiagnose I11.00 G für die Abrechnung erfasst werden.  Sofern Korrekturhinweise durch eine Kodierregel angezeigt werden, soll vom Anwender frei entschieden werden, welche Änderung vorgenommen wird. Einzureichende Dokumentieren Sie durch ein Video die Prüfunterlagen einer möglichen Hinweissteuerung. Geprüfte KP10-700  - Ausführung der behandlungsfallbezogenen Kodierregeln Anforderungen KP10-710  - Validierung von Behandlungsdiagnosen gegen die behandlungsfallbezogenen Kodierregeln KP 10-750  - Erzeugung eines Hinweises und Korrekturvorschlages Verarbeitung und Anzeige des Korrekturvorschlages 770  oder KP10-780 „Hypertonie ursächlich für Schritte einschließlich der Ergebnisse nach gemäß KP10-760  oder KP10- Testziel Voraussetzung Aktion Prüfen und sicherstellen, dass ein vom Anwender der aktuellen ICD-10-GM-Stammdatei vorhanden ist. Der Anwender erfasst für Leonie Gonzales im Rahmen der Behandlung die folgenden ICD-10-GM-Kodes. Sofern ein ICD-10-GM-Kode nicht existiert, soll dieser wieder aus der Dokumentation entfernt werden ICD-10-GM-Kode: X17.4  Diagnosensicherheit: G ICD-10-GM-Kode: E66.00 eingegebener ICD-10-GM-Kode in
+ICD-10-GM-Kode: I63.5  Diagnosensicherheit: G ICD-10-GM-Kode: I21.9 Diagnosensicherheit: G ICD-10-GM-Kode: I10.90 Diagnosensicherheit: G ICD-10-GM-Kode: J44.90 Diagnosensicherheit: G ICD-10-GM-Kode: T88.7 Diagnosensicherheit: G ICD-10-GM-Kode: I11.00 Diagnosensicherheit: G ICD-10-GM-Kode: G46.0 Diagnosensicherheit: G  Es soll als zusätzliche Erläuterung der Text Herzinsuffizienz“ zu der Behandlungsdiagnose I11.00 G für die Abrechnung erfasst werden.  Sofern Korrekturhinweise durch eine Kodierregel angezeigt werden, soll vom Anwender frei entschieden werden, welche Änderung vorgenommen wird. Einzureichende Dokumentieren Sie durch ein Video die Prüfunterlagen einer möglichen Hinweissteuerung. Geprüfte KP10-700  - Ausführung der behandlungsfallbezogenen Kodierregeln Anforderungen KP10-710  - Validierung von Behandlungsdiagnosen gegen die behandlungsfallbezogenen Kodierregeln KP10-750  - Erzeugung eines Hinweises und Korrekturvorschlages Verarbeitung und Anzeige des Korrekturvorschlages 770  oder KP10-780 „Hypertonie ursächlich für Schritte einschließlich der Ergebnisse nach gemäß KP10-760  oder KP10- Testziel Voraussetzung Aktion Prüfen und sicherstellen, dass ein vom Anwender der aktuellen ICD-10-GM-Stammdatei vorhanden ist. Der Anwender erfasst für Leonie Gonzales im Rahmen der Behandlung die folgenden ICD-10-GM-Kodes. Sofern ein ICD-10-GM-Kode nicht existiert, soll dieser wieder aus der Dokumentation entfernt werden ICD-10-GM-Kode: X17.4  Diagnosensicherheit: G ICD-10-GM-Kode: E66.00 eingegebener ICD-10-GM-Kode in
 
 ---
 
@@ -689,7 +648,7 @@ Prüfunterlagen Anforderungen Testziel Voraussetzung Aktion Prüfunterlagen Anfo
 |  | **Prüffall-ID** |
 | **PF16** | **Testziel ** Ausführung von behandlungsfallbezogenen **Voraussetzung ** Die vorangegangenen Prüffälle wurden durchgeführt.  1. a)   b)   c)   d)   e)   f)   g)   2. |
 
-Aktion Prüfunterlagen Geprüfte Anforderungen Der Patient Viktor Werner wird bei dem Arzt behandelt. Es sollen die folgenden ICD-10-GM-Kodes als Behandlungsdiagnosen für die Abrechnung erfasst werden: ICD-10-GM-Kode: E11.40  Diagnosensicherheit: G ICD-10-GM-Kode: I25.12  Diagnosensicherheit: G ICD-10-GM-Kode: I60.7 Diagnosensicherheit: G ICD-10-GM-Kode: I21.9 Diagnosensicherheit: Z ICD-10-GM-Kode: I10.90 Diagnosensicherheit: G  ICD-10-GM-Kode: J30.1 Diagnosensicherheit: G ICD-10-GM-Kode: L24.2 Diagnosensicherheit: G Sofern Korrekturhinweise durch eine Kodierregel angezeigt werden, soll vom Anwender frei entschieden werden, welche Änderung vorgenommen wird. einer möglichen Hinweissteuerung. KP10-700  - Ausführung der behandlungsfallbezogenen Kodierregeln KP10-750  - Erzeugung eines Hinweises und Korrekturvorschlages Verarbeitung und Anzeige des Korrekturvorschlages gemäß KP10-760  oder KP 10- 770  oder KP10-780 Kodierregeln mit dem Prüfzeitpunkt „zur Abrechnung“. Es soll die Abrechnung für alle in den Prüffällen erfassten Patienten erstellt werden. Sofern Korrekturhinweise durch eine Kodierregel angezeigt werden, soll vom Anwender frei entschieden werden, welche Änderung vorgenommen wird|  |  |
+Aktion Prüfunterlagen Geprüfte Anforderungen Der Patient Viktor Werner wird bei dem Arzt behandelt. Es sollen die folgenden ICD-10-GM-Kodes als Behandlungsdiagnosen für die Abrechnung erfasst werden: ICD-10-GM-Kode: E11.40  Diagnosensicherheit: G ICD-10-GM-Kode: I25.12  Diagnosensicherheit: G ICD-10-GM-Kode: I60.7 Diagnosensicherheit: G ICD-10-GM-Kode: I21.9 Diagnosensicherheit: Z ICD-10-GM-Kode: I10.90 Diagnosensicherheit: G  ICD-10-GM-Kode: J30.1 Diagnosensicherheit: G ICD-10-GM-Kode: L24.2 Diagnosensicherheit: G Sofern Korrekturhinweise durch eine Kodierregel angezeigt werden, soll vom Anwender frei entschieden werden, welche Änderung vorgenommen wird. einer möglichen Hinweissteuerung. KP10-700  - Ausführung der behandlungsfallbezogenen Kodierregeln KP10-750  - Erzeugung eines Hinweises und Korrekturvorschlages Verarbeitung und Anzeige des Korrekturvorschlages gemäß KP10-760  oder KP10- 770  oder KP10-780 Kodierregeln mit dem Prüfzeitpunkt „zur Abrechnung“. Es soll die Abrechnung für alle in den Prüffällen erfassten Patienten erstellt werden. Sofern Korrekturhinweise durch eine Kodierregel angezeigt werden, soll vom Anwender frei entschieden werden, welche Änderung vorgenommen wird|  |  |
 |---|---|
 | **Prüffall-ID** | **PF16** |
 | **Testziel** | Ausführung von behandlungsfallbezogenen |
@@ -737,8 +696,4 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Kassenärztliche Bundesvereinigung
-
-Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
-
--10] Stammdatei, in aktueller Version Version aktueller Version  (SDVA), in aktueller Version
+-10] Stammdatei, in aktueller Version Version aktueller Version  (SDVA), in aktueller Version Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)

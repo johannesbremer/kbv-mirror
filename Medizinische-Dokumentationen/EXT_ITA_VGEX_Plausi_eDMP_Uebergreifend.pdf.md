@@ -6,13 +6,17 @@
 
 ## des indikationsübergreifenden, allgemeinen Datensatzes
 
-# - nur gültig in Verbindung mit der jeweiligen  indikationsbezogenen Dokumentation
+# - nur gültig in Verbindung mit der jeweiligen
+
+# - indikationsbezogenen Dokumentation
 
 **der Anlage 6*, 8*, 10*, 12*, 14*, 16*, 18*, 20 oder 22* der**
 
 **Grundlage:**
 
+```
 -
+```
 
 # DMP-A-RL -
 
@@ -24,7 +28,7 @@
 
 **gültig ab 01.10.2022**
 
-**Version:** **7 0**
+# Version: 7.0
 
 **22.02.2023**
 
@@ -33,7 +37,7 @@
 
 ---
 
-| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitätsregeln** |
+| Lfd. | Parameter | Ausprägung | Plausibilitätsregeln |
 |---|---|---|---|
 |  | Administrative Daten | | |
 | 1 | DMP-Fallnummer | Nummer | Pflichtfeld;  bis zu 7 Stellen; alphanumerische Angabe |

@@ -1,32 +1,35 @@
-- Anlage 8* -
+## zur Prüfung der Dokumentationsdaten
 
-## Plausibilitätsrichtlinie
+## der strukturierten Behandlungsprogramme
 
-## zur Prüfung der Dokumentationsdaten der strukturierten Behandlungsprogramme
 # Diabetes mellitus Typ 1 und Typ 2
 
 **Grundlage:**
+
+**Stand der Bearbeitung:**
+
+**Version anzuwenden ab:**
+
+- Anlage 8* -
+
+## Plausibilitätsrichtlinie
 
 **DMP-A-RL**
 
 **gültig ab 01.10.2022**
 
-**Stand der Bearbeitung:**
+# Version: 5 0
 
 **22.02.2023**
 
-**Version anzuwenden ab:**
-
 **01.10.2023**
-
-**Version: 5.0**
 
 
 ---
 
 #### Anlage 8:
 
-| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
 |---|---|---|---|
 |  | **Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2*** | | |
 |  | Anamnese- und Befunddaten |  | |
@@ -40,7 +43,7 @@ Nr. Typ 1“ oder „Diabetes mellitus Typ 2“ Plausibilitätsregeln auszufüll
 
 ---
 
-| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
 |---|---|---|---|
 |  |  |  | nummerischer Wert; Angabe ohne Nachkommastelle  Wertebereich 0 bis 200 |
 | 3 | Fußstatus | 1.  Unauffällig / Auffällig / Nicht untersucht     2.  Unauffällig / Auffällig / Nicht untersucht     3.  Fußdeformität / Hyperkeratose mit  ja / nein / nicht untersucht      4.  oberflächlich / tief/ nein / nicht untersucht    5.  ja / nein / nicht untersucht | Bedingtes Pflichtfeld    Wenn die Differenz aus der Datumsangabe in Feld 22 der  -        UND  -  -        UND  -  -    Zu 1. Pulsstatus: genau eine Angabe ist zulässig.    Zu 2. Sensibilitätsprüfung: genau eine Angabe ist    Zu 3. Weiteres Risiko für Ulcus: mindestens eine Angabe    Wenn die Angab Wenn die Angabe „   zu 4. Ulkus: genau eine Angabe ist zulässig.    Zu 5. (Wund)Infektion: genau eine Angabe ist zulässig. |
@@ -49,7 +52,7 @@ Nr. Einblutung / Z. n. Ulkus /Z. n. Amputation / Plausibilitätsregeln zur Anlag
 
 ---
 
-| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
 |---|---|---|---|
 | 3a | Injektionsstellen (bei | Unauffällig / Auffällig / Nicht untersucht | Bedingtes Pflichtfeld   Genau eine Angabe ist zulässig.    Eine Angabe ist erforderlich, wenn  – ODER  –   Eine Angabe ist nicht zulässig, wenn    in Feld 10 der Anlage 2* mindestens die Angabe |
 | 3b | Intervall für künftige | Jährlich / alle 6 Monate / alle 3 Monate oder | Bedingtes Pflichtfeld   Genau eine Angabe ist zulässig.    Eine Angabe ist erforderlich, wenn die Differenz aus der |
@@ -61,7 +64,7 @@ Nr. Insulintherapie) Fußinspektionen (bei Patientinnen und Patienten ab dem vol
 
 ---
 
-| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
 |---|---|---|---|
 |  |  |  | Alle anderen Kombinationen sind zulässig. |
 | 6 | Schwere Hypoglykämien seit der | Anzahl | Bedingtes Pflichtfeld  numerische Angabe    Eine Angabe ist erforderlich, wenn die Anlage 8* im    Eine Angabe im Rahmen einer Erstdokumentation ist    Angabe muss gleich oder größer „0“ sein und kleiner oder |
@@ -74,7 +77,7 @@ Nr. letzten Dokumentation Behandlung wegen Diabetes mellitus seit der letzten Do
 
 ---
 
-| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
 |---|---|---|---|
 |  |  |  | Eine Angabe ist nicht zulässig, wenn in Feld 10 der |
 | 10 | (weggefallen) | (weggefallen) |  |
@@ -86,7 +89,7 @@ Nr. Metformin  Sonstige antidiabetische Medikation Anlage 2* die Angabe „Diabe
 
 ---
 
-| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
 |---|---|---|---|
 |  |  |  | Mindestens eine Angabe ist erforderlich, wenn in Feld 10    Die An   Die Angabe „   Eine Angabe ist nicht zulässig, wenn in Feld 10 der |
 | 12b | Nur bei Diabetes mellitus Typ 2:  GLP-1-Rezeptoragonist | Ja / Nein/ Kontraindikation | Bedingtes Pflichtfeld   Mehrfachnennungen sind möglich.    Mindestens eine Angabe ist erforderlich, wenn in Feld 10    Die Angabe „   Die Angabe „   Eine Angabe ist nicht zulässig, wenn in Feld 10 der |
@@ -96,7 +99,7 @@ Nr. der Anlage 2* mindestens eine Angabe zu „Diabetes p 2“ erfolgt ist Ja“
 
 ---
 
-| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
 |---|---|---|---|
 |  |  |  | Antikoagulation“ erfolgen   Die Angabe „   Die Angabe „Kontraindikation“ kann auch alleine oder    Die Angabe „ |
 | 14 | (weggefallen) | (weggefallen) |  |
@@ -110,7 +113,7 @@ Nr. Dokumentation)   Keine  Nein“ kann alleine oder gleic  und/oder erfolgen. 
 
 ---
 
-| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
 |---|---|---|---|
 | 18a | Schulung schon vor Einschreibung | Diabetes-Schulung / Hypertonie-Schulung  / | Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich.    Mindestens eine Angabe ist erforderlich, wenn die Anlage    Wenn die Angabe    Die Angabe „Diabetes |
 | 19 | Empfohlene Schulung(en) | Diabetes-Schulung:  Ja / Nein / War aktuell nicht möglich / Bei letzter      Hypertonie-Schulung:  Ja / Nein / War aktuell nicht möglich / Bei letzter | Bedingtes Pflichtfeld     Eine Angabe ist erforderlich, wenn die Anlage 8* im  Eine Angabe im Rahmen einer Erstdokumentation ist    Genau jeweils eine Angabe ist für die "Diabetes-   Genau jeweils eine Angabe    Die Angaben zu „Diabetes Schulung“ und „Hypertonie |
@@ -121,7 +124,7 @@ Nr. ins DMP bereits wahrgenommen Keine wahrgenommen  Dokumentation keine Schulun
 
 ---
 
-| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
 |---|---|---|---|
 | 21 | Ophthalmologische | Durchgeführt / Nicht durchgeführt / Veranlasst | Bedingtes Pflichtfeld   Mindestens eine Angabe ist erforderlich.  Mehrfachnennungen sind möglich.    Eine Angabe ist erforderlich, wenn die Anlage 8* im  Eine Angabe im Rahmen einer Erstdokumentation ist    Wenn „   Wenn „ |
 | 22 | Behandlung/Mitbehandlung in einer | Ja / Nein / Veranlasst | Pflichtfeld  Mindestens eine Angabe ist erforderlich.    Wenn „ „Ja“ kann auch gleichzeitig mit „ |

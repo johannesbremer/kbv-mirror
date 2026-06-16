@@ -32,7 +32,7 @@ Maßnahmen der Therapieoptimierung ***(ggf. Einweisung in spezialisierte Einrich
 
 sowie weitere Hinweise zum klinischen Status
 
-Innerhalb von mindestens zwei Jahren wurde zweimal in Folge im Rahmen einer  unmittelbar persönlichen Erhebung festgestellt, dass keine Aussicht auf nachhaltige  Besserung der zu Grunde liegenden Funktionsstörung besteht und eine Entwöhnung  oder Dekanülierung dauerhaft nicht möglich ist. Eine regelmäßige Erhebung des  Beatmungsentwöhnungs- bzw. Dekanülierungspotenzials ist nicht mehr angezeigt.
+Innerhalb von mindestens zwei Jahren wurde zweimal in Folge im Rahmen einer unmittelbar persönlichen Erhebung festgestellt, dass keine Aussicht auf nachhaltige Besserung der zu Grunde liegenden Funktionsstörung besteht und eine Entwöhnung oder Dekanülierung dauerhaft nicht möglich ist. Eine regelmäßige Erhebung des Beatmungsentwöhnungs- bzw. Dekanülierungspotenzials ist nicht mehr angezeigt.
 
 Eine Erhebung zum Zwecke der Therapieoptimierung und zur Verbesserung
 
@@ -54,11 +54,11 @@ zur Beatmungsentwöhnung
 
 zur Beatmungsentwöhnung
 
-Ergebnis der Erhebung  festgestellt am
+Ergebnis der Erhebung festgestellt am
 
 Erneute Erhebung  geplant am
 
-Der Barcode enthält keine auf dem  Formular nicht lesbaren Daten.
+Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.
 
 zur Dekanülierung
 

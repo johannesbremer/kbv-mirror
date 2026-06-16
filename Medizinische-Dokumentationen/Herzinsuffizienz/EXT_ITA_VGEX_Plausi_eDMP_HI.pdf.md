@@ -14,7 +14,7 @@
 
 **gültig ab 01.10.2024**
 
-# Version: 2 0
+# Version: 2.0
 
 **Stand der Bearbeitung:**
 
@@ -29,7 +29,7 @@
 
 #### Anlage 14: Datensatz für die indikationsspezifische Dokumentation:
 
-| **Lfd** | **Dokumentationsparameter** | **Ausprägung** | **Plausibilitäten** |
+| Lfd | Dokumentationsparameter | Ausprägung | Plausibilitäten |
 |---|---|---|---|
 |  | **Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2*** | | |
 |  | Anamnese- und Befunddaten | | |
@@ -45,7 +45,7 @@ Nr. Herzinsuffizienz “ erfolgt, sind die nachstehenden Felder der Anlage auszu
 
 ---
 
-| **Lfd** | **Dokumentationsparameter** | **Ausprägung** | **Plausibilitäten** |
+| Lfd | Dokumentationsparameter | Ausprägung | Plausibilitäten |
 |---|---|---|---|
 |  |  |  | Mehrfachnennungen sind möglich.  •  •  • |
 | 4a | Evidenzbasierte Zieldosis | Erreicht / Nicht erreicht /  Titrationsphase | Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich.    Eine Angabe ist erforderlich und nur dann zulässig, wenn in  •  •  •  •    Eine Angabe ist nicht zulässig, wenn in Feld 4 zum Parameter  - nur  - nur  - |
@@ -54,7 +54,7 @@ Nr. Wenn d ie Angabe „Ja“ erfolgt ist, kann gleichzeitig keine andere Angabe
 
 ---
 
-| **Lfd** | **Dokumentationsparameter** | **Ausprägung** | **Plausibilitäten** |
+| Lfd | Dokumentationsparameter | Ausprägung | Plausibilitäten |
 |---|---|---|---|
 | 5 | Betablocker | Ja / Nein / Kontraindikation | Pflichtfeld  Mindestens eine Angabe ist erforderlich.  Mehrfachnennungen sind möglich.  •  • |
 | 5a | Evidenzbasierte Zieldosis  Betablocker | Erreicht / Nicht erreicht /  Titrationsphase | Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich.    Eine Angabe ist erforderlich und nur dann zulässig, wenn in  •  •  •    •    Eine Angabe ist nicht zulässig, wenn in Feld 5 zum Parameter  - |
@@ -64,7 +64,7 @@ Nr. Wenn d ie Angabe „Ja“ erfolgt ist, kann gleichzeitig keine andere Angabe
 
 ---
 
-| **Lfd** | **Dokumentationsparameter** | **Ausprägung** | **Plausibilitäten** |
+| Lfd | Dokumentationsparameter | Ausprägung | Plausibilitäten |
 |---|---|---|---|
 |  |  |  | • • |
 | 6a | Evidenzbasierte Zieldosis  MRA | Erreicht / Nicht erreicht / Titrationsphase / Max. tolerierte Dosis erreicht | Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich.    Eine Angabe ist erforderlich und nur dann zulässig, wenn in  • • • •   Eine Angabe ist nicht zulässig, wenn in Feld 6 zum Parameter  Angaben erfolgt sind:  - |
@@ -74,7 +74,7 @@ Nr. Wenn die Angabe „Ja“ erfolgt ist, kann gleichzeitig keine andere Angabe 
 
 ---
 
-| **Lfd** | **Dokumentationsparameter** | **Ausprägung** | **Plausibilitäten** |
+| Lfd | Dokumentationsparameter | Ausprägung | Plausibilitäten |
 |---|---|---|---|
 |  | Schulung | | |
 | 8 | Herzinsuffizienz-spezifische | Ja / Nein | Pflichtfeld  Genau eine Angabe ist zulässig. |
@@ -88,7 +88,7 @@ Nr. Schulung empfohlen (bei aktueller Dokumentation)  DMP an einer spezifische S
 
 ---
 
-| **Lfd** | **Dokumentationsparameter** | **Ausprägung** | **Plausibilitäten** |
+| Lfd | Dokumentationsparameter | Ausprägung | Plausibilitäten |
 |---|---|---|---|
 |  |  |  | Wenn die Angabe „Ja“ erfolgt ist, kann gleichzeitig  Die Angaben „Nein“ und „Nicht erforderlich“ können einzeln |
 

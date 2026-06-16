@@ -11,18 +11,18 @@
 
 ## [KBV_ITA_FAQ_VDGA]
 
-BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
+BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS 
 
 
 ---
 
 ## INHALT
 
+**1** **FRAGEN UND ANTWORTEN ZUM ANFORDERUNGSKATALOG NACH § 73 ABS.** **VERORDNUNG VON DIGA**
+
+**9 SGB V FÜR**
+
 **5**
-
-**1** **FRAGEN UND ANTWORTEN ZUM ANFORDERUNGSKATALOG NACH § 73 ABS. 9 SGB V FÜR**
-
-**VERORDNUNG VON DIGA**
 
 **2** **REFERENZIERTE DOKUMENTE**
 
@@ -33,14 +33,14 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 DOKUMENTENHISTORIE
 
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.11 | 04.08.2025 | KBV | Aufnahme der Abbildung des  Aufnahme der Abbildung der  Klarstellung zur Abbildung von | Erweiterung des DiGA-API durch  Anpassung des | 8    8    14 |
-| 1.10 | 11.10.2024 | KBV | Aufnahme der Abbildung der  Klarstellung der Umsetzung |  | 13    14 |
-| 1.09 | 11.04.2024 | KBV | Klarstellung des frühest- Erweiterung der Abbildung der | Erweiterung des DiGA-API durch | 6    9 |
+| 1.11 | 04.08.2025 | KBV | Aufnahme der Abbildung des  Aufnahme der Abbildung der  Klarstellung zur Abbildung von | Erweiterung des DiGA-API durch  Anpassung des | 8  8  14 |
+| 1.10 | 11.10.2024 | KBV | Aufnahme der Abbildung der  Klarstellung der Umsetzung |  | 13  14 |
+| 1.09 | 11.04.2024 | KBV | Klarstellung des frühest- Erweiterung der Abbildung der | Erweiterung des DiGA-API durch | 6  9 |
 | 1.08 | 12.03.2024 | KBV | Klarstellung der möglichen |  | 13, 14 |
 | 1.07 | 01.03.2024 | KBV | Klarstellung der möglichen |  | 13 |
-| 1.06 | 20.02.2024 | KBV | Präzisierung der Antworten zur  Verweis auf die Informationen |  | 5    13 |
+| 1.06 | 20.02.2024 | KBV | Präzisierung der Antworten zur  Verweis auf die Informationen |  | 5  13 |
 | 1.05 | 19.01.2024 | KBV | Streichung der Einträge zu den | Veröffentlichung des |  |
 | 1.04 | 09.01.2024 | KBV | Anpassung der Selektion der  „positiver | Klarstellung durch das BfArM | 7 |
 
@@ -48,7 +48,7 @@ Kommentars zur Bezeichnung einer Altersgruppe der Ziel- /Patientengruppen  Nutzu
 
 ---
 
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.02 | 26.10.2023 | KBV | Klarstellung der Anforderung | Geplante Anpassung des |  |
 | 1.01 | 16.10.2023 | KBV | Ankündigung von Regeln zur | Geplante Anpassung des |  |
@@ -58,11 +58,9 @@ P4-210 Akzeptanzkriterium 2 Abkürzung der Namen der DiGA-Verordnungseinheiten i
 
 ---
 
-# 1 FRAGEN UND ANTWORTEN ZUM ANFORDERUNGSKATALOG NACH § 73 ABS. 9 SGB V FÜR
+1 FRAGEN UND ANTWORTEN ZUM ANFORDERUNGSKATALOG NACH § 73 ABS. 9 SGB V FÜR  VERORDNUNG VON DIGA
 
-VERORDNUNG VON DIGA
-
-| **BEZUG [1]** | **FRAGE** | **ANTWORT** |
+| BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
 | Allgemein | Müssen Vertragsärztinnen und | Ja, spätestens ab dem 1. Oktober 2024 ist bei der Verordnung mittels elektronischer Programme (§ 72  Es liegt in der Verantwortung eines jeden Normadressaten des § 73 Abs. 9 SGB V, für  Zusammenfassend sind daher pauschale Aussagen nicht möglich |
 | Allgemein | Müssen | Psychologischen Psychotherapeutinnen und Psychotherapeuten ist es nach den gesetzlichen |
@@ -72,7 +70,7 @@ Vertragsärzte für die Verordnung von digitalen Gesundheitsanwendungen zertifiz
 
 ---
 
-| **BEZUG [1]** | **FRAGE** | **ANTWORT** |
+| BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
 | Allgemein | Kann für die Umsetzung der | Ja, dies ist grundsätzlich zulässig. |
 | Allgemein | Ab wann kann eine zertifizierte | Zertifizierte Verordnungssoftware kann sofort eingesetzt werden. |
@@ -81,10 +79,10 @@ Zertifizierung Anforderungen ein Modul von Dritten  verwendet werden?  Im Rahmen
 
 ---
 
-| P2-020 | Wie werden die zur Verfügung zu | Die einzelnen Informationen einer Digitalen Gesundheitsanwendung (DiGA) **INFORMATIONSMERKMAL  ELEMENT-ID ** PZN  HealthAppPrescriptionUnit.code.coding.code  Hinweis:   Entgegen der im FHIR-Profil definierten Kardinalität ist  Name der DiGA-Verordnungseinheit   HealthAppPrescriptionUnit.title  Hinweis:  Entgegen der im FHIR-Profil definierten Kardinalität ist  DiGA-Modul-Name  HealthAppModule.deviceName:model-name.name  DiGA-Name  HealthApp.deviceName:user-friendly-name.name  Indikationen  ICD-10-GM-Kodes:  HealthAppPrescriptionUnit.extension:indikation.extension: ICD-10-GM-Diagnoseklartexte:  HealthAppPrescriptionUnit.extension:indikation.extension: Redaktioneller Steckbrief  HealthApp.extension:summaries.extension:steckbrief.valu Kontraindikationen  Ausschlusskriterien:  HealthAppPrescriptionUnit.extension:kontraindikation.ext ICD-10-GM-Kodes: |
+| P2-020 | Wie werden die zur Verfügung zu | Die einzelnen Informationen einer Digitalen Gesundheitsanwendung (DiGA)  https://simplifier.net/bfarm) **INFORMATIONSMERKMAL  ELEMENT-ID ** PZN  HealthAppPrescriptionUnit.code.coding.code  Hinweis:   Entgegen der im FHIR-Profil definierten Kardinalität ist  Name der DiGA-Verordnungseinheit   HealthAppPrescriptionUnit.title  Hinweis:  Entgegen der im FHIR-Profil definierten Kardinalität ist  DiGA-Modul-Name  HealthAppModule.deviceName:model-name.name  DiGA-Name  HealthApp.deviceName:user-friendly-name.name  Indikationen  ICD-10-GM-Kodes:  HealthAppPrescriptionUnit.extension:indikation.extension: ICD-10-GM-Diagnoseklartexte:  HealthAppPrescriptionUnit.extension:indikation.extension: Redaktioneller Steckbrief  HealthApp.extension:summaries.extension:steckbrief.valu Kontraindikationen  Ausschlusskriterien:  HealthAppPrescriptionUnit.extension:kontraindikation.ext ICD-10-GM-Kodes: |
 |---|---|---|
 
-stellenden Informationen für Digitale Gesundheits- anwendungen im DiGA- Verzeichnis abgebildet? verschiedenen Objekten zusammen, die durch das werden. In der folgenden Tabelle werden zu jedem Informationsmerkmale die entsprechenden Element-IDs bezogen auf den spezifischen Namen der FHIR-Ressource für die Version 2.0 des logischen Datenmodells des DiGA-API angegeben. (https://simplifier.net/bfarm) setzen sich aus  logische Datenmodell des DiGA-API dargestellt der zur Verfügung zu stellendem dieses Informationsmerkmal immer vorhanden. dieses Informationsmerkmal immer vorhanden. diagnose.value[x]:valueCoding.code diagnose.value[x]:valueCoding.display e[x].valueString ension:ausschlusskriterien.value[x]:valueString
+stellenden Informationen für Digitale Gesundheits- anwendungen im DiGA- Verzeichnis abgebildet? verschiedenen Objekten zusammen, die durch das werden. In der folgenden Tabelle werden zu jedem Informationsmerkmale die entsprechenden Element-IDs bezogen auf den spezifischen Namen der FHIR-Ressource für die Version 2.0 des logischen Datenmodells des DiGA-API angegeben. setzen sich aus  logische Datenmodell des DiGA-API dargestellt der zur Verfügung zu stellendem dieses Informationsmerkmal immer vorhanden. dieses Informationsmerkmal immer vorhanden. diagnose.value[x]:valueCoding.code diagnose.value[x]:valueCoding.display e[x].valueString ension:ausschlusskriterien.value[x]:valueString
 
 ---
 
@@ -116,14 +114,14 @@ für den Höchstpreis:  t.code.coding.code == „maximum amount“ t.amount.valu
 
 ---
 
-|  |  | Aktuell werden bspw. die folgenden Varianten von value[x]  HealthAppQuestionnaireResponse.item.item.item.answer. oder  HealthAppQuestionnaireResponse.item.item.item.answer. und  HealthAppQuestionnaireResponse.item.item.item.answer. oder  HealthAppQuestionnaireResponse.item.item.item.answer. und  HealthAppQuestionnaireResponse.item.item.item.answer. Die Zuordnung der Antworten zu den Fragen erfolgt mittels  HealthAppQuestionnaireResponse.item.item. Jeder Antwortdatensatz verweist auf die URL eines  HealthAppQuestionnaireResponse.questionnaire Die angegebene URL kann mit der folgenden Abfrage  https://diga.bfarm.de/api/fhir/v2.0/Questionnaire?_url=<u Verfügbare Sprachversionen  HealthAppModule.languageCode.coding.display |
+|  |  | Aktuell werden bspw. die folgenden Varianten von value[x]  HealthAppQuestionnaireResponse.item.item.item.answer. oder  HealthAppQuestionnaireResponse.item.item.item.answer. und  HealthAppQuestionnaireResponse.item.item.item.answer. oder  HealthAppQuestionnaireResponse.item.item.item.answer. und  HealthAppQuestionnaireResponse.item.item.item.answer. Die Zuordnung der Antworten zu den Fragen erfolgt mittels  HealthAppQuestionnaireResponse.item.item. Jeder Antwortdatensatz verweist auf die URL eines  HealthAppQuestionnaireResponse.questionnaire Die angegebene URL kann mit der folgenden Abfrage  https://diga.bfarm.de/api/fhir/v2.0/Questionnaire?_url=<u   Verfügbare Sprachversionen  HealthAppModule.languageCode.coding.display |
 |---|---|---|
 
 verwendet: value[x].valueString value[x].valueCoding.code value[x].valueCoding.display value[x].valueAttachment.title value[x].valueAttachment.url der linkId: item.linkId == HealthAppQuestionnaire.item.item.item .linkId konkreten Fragenkatalogs, welche nicht zwingend eine direkt erreichbare URL sein muss: genutzt werden, um den Fragenkatalog zu einem Antwortdatensatz zu erhalten: rl>
 
 ---
 
-| **BEZUG [1]** | **FRAGE** | **ANTWORT** |
+| BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
 |  |  | Informationen zum positiven  Fragen:  HealthAppQuestionnaire.item.item.item.text  Selektion der Fragen zu den „ HealthAppQuestionnaire.item.linkId == "19"  HealthAppQuestionnaire.item.item.linkId == "59"  Antworten:  Siehe Informationen zu Datenschutz und Datensicherheit Gültigkeitsdauer  ChargeItemDefinition.effectivePeriod Hinweis: Gemäß der in den FHIR-Profilen definierten Kardinalitäten können die |
 | P2-020 | Wie erhält man Zugriff auf das | Die Informationen hierzu stellt das BfArM unter diesem Link bereit:  api.bfarm.de/de/nutzerkonto-anlegen |
@@ -134,7 +132,7 @@ DiGA-Verzeichnis des BfArM? Verordnung benutzt werden? „Informationen zu Daten
 
 ---
 
-| **BEZUG [1]** | **FRAGE** | **ANTWORT** |
+| BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
 | P4-342 | Die PZN muss auf Muster 16 in | In Abstimmung mit dem GKV-SV wurde festgestellt, dass die PZN in der Form 01234567 oder  Aufgrund der deutlich geringeren Informationsmenge gegenüber einer Arzneimittel |
 | P4-342 | Auf Muster 16 müssen in drei | Die Trennstriche sollen aus Sicherheitsgründen verhindern, dass nach dem Ausdruck weitere |
@@ -157,4 +155,4 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Verordnung von DiGA Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+Verordnung von DiGA Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)

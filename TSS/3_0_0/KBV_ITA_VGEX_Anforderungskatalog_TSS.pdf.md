@@ -17,27 +17,35 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 ## INHALT
 
-**1** **EINLEITUNG**
+**1**
 
-1.1 Zielbestimmung
+1.1 1.2
 
-1.2 Pflichtfunktionen und optionale Funktionen der Software
+**2**
 
-**2** **UMSETZUNG DER SPEZIFIKATION**
+**3**
 
-**3** **UMSETZUNG DER BEDRUCKUNG**
+**4**
 
-**4** **UMSETZUNG DER SPEZIFIKATION**
-
-4.1 Suchfunktionen für TSS-Abrechnungsinformationen
-
-**5** **REFERENZIERTE DOKUMENTE**
+4.1
 
 **5**
 
-5
+**EINLEITUNG**
 
-5
+Zielbestimmung  Pflichtfunktionen und optionale Funktionen der Software
+
+**UMSETZUNG DER SPEZIFIKATION**
+
+**UMSETZUNG DER BEDRUCKUNG**
+
+**UMSETZUNG DER SPEZIFIKATION**
+
+Suchfunktionen für TSS-Abrechnungsinformationen
+
+**REFERENZIERTE DOKUMENTE**
+
+**5** 5 5
 
 **- 116117 TERMINSERVICE VERMITTLUNGSCODE**
 
@@ -45,18 +53,14 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **6**
 
-**TSS-116117 TERMINSERVICE ABRECHNUNGSINFORMATION** **9**
-
-9
-
-**15**
+**TSS-116117 TERMINSERVICE ABRECHNUNGSINFORMATION** **9** 9 **15**
 
 
 ---
 
 # DOKUMENTENHISTORIE
 
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 3.0.0 | 19.12.2024 | KBV | Anpassung der Anforderungen:  P2-01  P3-05  P3-06  P4-01  P4-02  P4-04  P4-06  Streichung der Anforderung   P2-02  O3-07 | Neue Spezifikationen der | 6  7  8  9  9  11  13    6  7 |
 | 2.0.7 | 15.05.2023 | KBV | Anpassung der Anforderung  P4-04 |  | 11 |
@@ -73,20 +77,18 @@ Terminservice- Schnittstellen Vermittlungscode bei Muster 6 und PTV 11 03 PTV 11
 
 ---
 
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 |  |  |  |  |  | Bedruckung bei P3-05 und P3- |
 
-06
+06 
 
 
 ---
 
 # 1 EINLEITUNG
 
-Gemäß § 75 SGB V und Anlage 28 des Bundesmantelvertrages müssen Vertragsärzten- und -
-
-psychotherapeuten mittels einer definierten Schnittstelle mit den Terminservicestellen kommunizieren  können.
+Gemäß § 75 SGB V und Anlage 28 des Bundesmantelvertrages müssen Vertragsärzten- und - psychotherapeuten mittels einer definierten Schnittstelle mit den Terminservicestellen kommunizieren  können.
 
 ## 1.1 ZIELBESTIMMUNG
 
@@ -98,44 +100,37 @@ Der vorliegende Anforderungskatalog differenziert zwischen Pflichtfunktionen, ko
 
 Eine **Pflichtfunktion** bedeutet, dass die entsprechende Anforderung zwingend umgesetzt werden muss.
 
-Eine **konditionale Pflichtfunktion** dagegen muss nur dann umgesetzt werden, wenn alle notwendigen
+Eine **konditionale Pflichtfunktion** dagegen muss nur dann umgesetzt werden, wenn alle notwendigen  Bedingungen zutreffen. Diese werden am Ende direkt nach Festlegung der Anforderung beschrieben.
 
-Bedingungen zutreffen. Diese werden am Ende direkt nach Festlegung der Anforderung beschrieben.
-
-Bei den **optionalen Funktionen** handelt es sich um Anforderungen, die umgesetzt werden können. Die
-
-Entscheidung hierzu liegt im Ermessen des jeweiligen Softwareherstellers.
+Bei den **optionalen Funktionen** handelt es sich um Anforderungen, die umgesetzt werden können. Die  Entscheidung hierzu liegt im Ermessen des jeweiligen Softwareherstellers.
 
 Pflichtfunktionen sind wie folgt gekennzeichnet:
 
-| **PFLICHTFUNKTION** |  |
+| PFLICHTFUNKTION |  |
 |---|---|
 | **P4-10** | Funktionsbezeichnung |
 
 Konditionale Pflichtfunktionen sind wie folgt gekennzeichnet:
 
-| **KONDITIONALE PFLICHTFUNKTION** |  |
+| KONDITIONALE PFLICHTFUNKTION |  |
 |---|---|
 | **KP4-15** | Funktionsbezeichnung |
 
 Optionale Funktionen sind wie folgt gekennzeichnet:
 
-| **OPTIONALE FUNKTION** |  |
+| OPTIONALE FUNKTION |  |
 |---|---|
 | **O4-20** | Funktionsbezeichnung |
-
 
 ---
 
 2 UMSETZUNG DER SPEZIFIKATION - 116117 TERMINSERVICE  VERMITTLUNGSCODE
 
-| **PFLICHTFUNKTION** |  |
+| PFLICHTFUNKTION |  |
 |---|---|
 | **P2-01** | Basis von KV-Connect |
 
-Die Software muss dem Anwender die Funktionen des eTerminservices auf Basis von KV-Connect
-
-bereitstellen, um Vermittlungscodes vom 116117 Terminservice anfordern zu können.
+Die Software muss dem Anwender die Funktionen des eTerminservices auf Basis von KV-Connect  bereitstellen, um Vermittlungscodes vom 116117 Terminservice anfordern zu können.
 
 **Begründung:**
 
@@ -145,11 +140,11 @@ Gemäß § 75 SGB V und Anlage 28 des Bundesmantelvertrages müssen Vertragsärz
 
 Die Software stellt dem Anwender die Funktionen gemäß den folgenden Anforderungsdokumenten bereit:
 
-- Spezifikation KV-Connect Anwendungsdienst eTerminservice Vermittlungscode in der Version 2.0 stets aktuellen Version [ Spec_Vermittlungscode]
+- Spezifikation KV-Connect Anwendungsdienst eTerminservice Vermittlungscode in der Version 2.0 stets aktuellen Version [
 
 **HINWEIS**
 
-| **DER NACHWEIS DER UMSETZUNG ERFOLGT IM RAHMEN EINES** |  |
+| DER NACHWEIS DER UMSETZUNG ERFOLGT IM RAHMEN EINES |  |
 |---|---|
 | **P2-02** | Lesbarkeit des Vermittlungscode |
 
@@ -162,12 +157,11 @@ Um die Lesbarkeit des übermittelten Vermittlungscode zu erhöhen, muss der Verm
 **Akzeptanzkriterium:**
 
 - Die Software muss einen Vermittlungscode bei der Ausgabe durch Minus Zeichen optisch strukturieren.
-
 - Die Minus-Zeichen dürfen nicht gespeichert werden.
 
 3 UMSETZUNG DER BEDRUCKUNG
 
-| **PFLICHTFUNKTION** |  |
+| PFLICHTFUNKTION |  |
 |---|---|
 | **P3-04** | Verwendung des Vermittlungscodes auf Muster 6 |
 
@@ -179,23 +173,21 @@ Um dem Patienten sowie dem empfangenden Arzt den Vermittlungscode mitzuteilen, m
 
 **Akzeptanzkriterium:**
 
-- Spezifikation 116117 Terminservice
+-psycho-
+
+- Spezifikation 116117 Terminservice  Spec_Vermittlungscode
 
 darstellen.
 
 - -Zeichen "-" nach jeweils 4
 
--psycho-
-
 Umsetzung der Terminservicestellen-Schnittstelle zur Anforderung von Vermittlungscodes auf AUDITS DER KV.DIGITAL GMBH. PFLICHTFUNKTION
 
 ---
 
-Wenn der Anwender die Überweisung (Muster 6) als "dringend" einstuft, muss die Software einen
+Wenn der Anwender die Überweisung (Muster 6) als  Vermittlungscode verwenden und diesen auf Muster 6 drucken.
 
-Vermittlungscode verwenden und diesen auf Muster 6 drucken.
-
-| **PFLICHTFUNKTION** |  |
+| PFLICHTFUNKTION |  |
 |---|---|
 | **P3-05** | Bedruckung des Vermittlungscodes auf Muster 6 |
 
@@ -207,25 +199,18 @@ Um dem Patienten sowie dem empfangenden Arzt den Vermittlungscode mitzuteilen, m
 
 **Akzeptanzkriterium:**
 
-- 1. Die Software muss die zurückgegebenen Werte für den Vermittlungscode und URL des  Terminservices mit Angabe der Internetadresse des eTerminservice (www.116117.de) sowie die  bundesweit einheitlichen Rufnummer 116117 des Ärztlichen Notdiensts Bereitschaftsdienstes in die
-
-- erste Zeile des Feldes „Auftrag“ auf Muster 6 drucken.
-
+- 1. Die Software muss die zurückgegebenen Werte für den Vermittlungscode und URL des  [Terminservices mit Angabe der Internetadresse des eTerminservice (](http://www.116117.de/) bundesweit einheitlichen Rufnummer 116117 des Ärztlichen  erste Zeile des Feldes „Auftrag“ auf Muster 6 drucken.
 - a.  Sollte die erste Zeile des Feldes „Auftrag“ für die Bedr nachfolgenden Zeilen verwendet werden.
 
 **Beispiel:**
 
 Zu 1.
 
-en.
-
-- uckung nicht ausreichen, können die
-
 **HINWEIS**
 
 Für den Fall, das aufgrund eines Fehlers z.B. fehlerhafte Internetverbindung, kein Vermittlungscode  abgerufen werden konnte, entfällt nur der Vermittlungscode
 
-| **OPTIONALE FUNKTION** |  |
+| OPTIONALE FUNKTION |  |
 |---|---|
 | **O3-07** | Bedruckung des Vermittlungscodes auf Muster 6 |
 
@@ -239,11 +224,22 @@ Um dem Patienten weitere Informationen mitzuteilen, kann die zusätzliche Qualif
 
 Das System kann die im FHIR-Bundle "Vermittlungscode-Anforderung-Muster06" angegebene weitere  zusätzliche Qualifikationals zusätzliche Information für den Patienten oder der Terminservicestelle in das  Feld "Auftrag" drucken.
 
-| **PFLICHTFUNKTION** |  |
+| PFLICHTFUNKTION |  |
 |---|---|
-| **P 3-08** | Verwendung des Vermittlungscodes auf dem Muster PTV 11 |
+| **P3-08** | Verwendung des Vermittlungscodes auf dem Muster PTV 11 |
+
+"dringend" einstuft, muss die Software einen
+
+```
+-
+```
 
 und die URL bei der Bedruckung.
+
+en.
+
+- [www.116117.de](http://www.116117.de/)[) sowie die](http://www.116117.de/) [Notdiensts Bereitschaftsdienstes in die](http://www.116117.de/)
+- uckung nicht ausreichen, können die
 
 
 ---
@@ -256,15 +252,13 @@ Um dem Patienten sowie dem empfangenden Arzt den Vermittlungscode mitzuteilen, m
 
 **Akzeptanzkriterium:**
 
-Wenn der Anwender eine akute und/ oder probatorisch ambulante Psychotherapie bei einem  Psychotherapeuten als zeitnah erforderlich einstuft, muss die Software einen Vermittlung
+Wenn der Anwender eine akute und/ oder probatorisch ambulante Psychotherapie bei einem  Psychotherapeuten als zeitnah erforderlich einstuft, muss die Software einen Vermittlungscode verwenden  und diesen auf PTV11 drucken.
 
-und diesen auf PTV11 drucken.
-
-| **PFLICHTFUNKTION** |  |
+| PFLICHTFUNKTION |  |
 |---|---|
 | **P3-06** | Bedruckung des Vermittlungscodes auf PTV 11 |
 
-Die Software muss den Vermittlungscode auf Musters PTV 11
+Die Software muss den Vermittlungscode auf Musters PTV 11 drucken.
 
 **Begründung:**
 
@@ -272,7 +266,7 @@ Um dem Patienten sowie dem empfangenden Arzt den Vermittlungscode mitzuteilen, m
 
 **Akzeptanzkriterium:**
 
-- 1. Das System muss die zurückgegebenen Werte für den Vermittlungscode Terminservices der Internetadresse des eTerminservice  einheitlichen Rufnummer 116117 des Ärztlichen  „Ihr nächster Termin“ auf PTV11 drucken.
+- 1. Das System muss die zurückgegebenen Werte für den Vermittlungscode und URL des  Terminservices der Internetadresse des eTerminservice [www.116117.de](http://www.116117.de/)[) sowie der bundesweit](http://www.116117.de/) einheitlichen Rufnummer 116117 des Ärztlichen [Notdienst Bereitschaftsdienstes in das Freitextfeld](http://www.116117.de/) „Ihr nächster Termin“ auf PTV11 drucken.
 
 **Beispiel:**
 
@@ -280,34 +274,17 @@ Zu 1:
 
 **HINWEIS**
 
-Für den Fall, das aufgrund eines Fehlers z.B. fehlerhafte Internetverbindung, kein Vermittlungscode  abgerufen werden konnte, entfällt nur der Vermittlungscode
-
-drucken.
-
-- (www.116117.de) sowie der bundesweit
-
-- Notdienst Bereitschaftsdienstes in das Freitextfeld
-
-und die URL bei der Bedruckung.
-
-scode verwenden - und URL des
-
+Für den Fall, das aufgrund eines Fehlers z.B. fehlerhafte Internetverbindung, kein Vermittlungscode  abgerufen werden konnte, entfällt nur der Vermittlungscode und die URL bei der Bedruckung.
 
 ---
 
-# 4 UMSETZUNG DER SPEZIFIKATION  TSS-116117 TERMINSERVICE
+4 UMSETZUNG DER SPEZIFIKATION  TSS-116117 TERMINSERVICE  ABRECHNUNGSINFORMATION
 
-ABRECHNUNGSINFORMATION
-
-| **PFLICHTFUNKTION** |  |
+| PFLICHTFUNKTION |  |
 |---|---|
 | **P4-01** | Umsetzung der eTerminservicestellen-Schnittstelle zur Anforderung von |
 
-Die Software muss dem Anwender die Schnittstellen-Funktionen des eTerminservices  TSS-
-
-Abrechnungsinformation auf Basis von KV-Connect bereitstellen, um abrechnungsrelevante Informationen  für Behandlungen aufgrund von Terminbuchungen (= Terminvermittlung) über die Terminservicestellen
-
-anzufordern.
+Die Software muss dem Anwender die Schnittstellen-Funktionen des eTerminservices  TSS- Abrechnungsinformation auf Basis von KV-Connect bereitstellen, um abrechnungsrelevante Informationen  für Behandlungen aufgrund von Terminbuchungen (= Terminvermittlung) über die Terminservicestellen  anzufordern.
 
 **Begründung:**
 
@@ -317,9 +294,7 @@ Gemäß § 87a Absatz 3 SGB V erfolgt eine extrabudgetäre Vergütung für Behan
 
 Die Software stellt dem Anwender die Funktionen gemäß folgender Anforderungsdokumente bereit:
 
-- „Spezifikation KV-Connect Anwendungsdienst eTerminservice  TSS-116117 Terminservice -
-
-- Abrechnungsinformation“ in der stets aktuellen Version Version 2.0 [Spec_Terminservice_Abr - Spec_Abrechnungsinformation]
+- „Spezifikation KV-Connect Anwendungsdienst eTerminservice  TSS-116117 Terminservice -  Abrechnungsinformation“ in der stets aktuellen Version Version 2.0 [Spec_Terminservice_Abr  Spec_Abrechnungsinformation
 
 **HINWEIS**
 
@@ -327,13 +302,11 @@ Der Nachweis der Umsetzung erfolgt im Rahmen eines Audits der kv.digital GmbH.
 
 **4.1** **SUCHFUNKTIONEN FÜR TSS-ABRECHNUNGSINFORMATIONEN**
 
-| **PFLICHTFUNKTION** |  |
+| PFLICHTFUNKTION |  |
 |---|---|
 | **P4-02** | Abfrage von gebuchten Terminen bei der Terminservicestelle |
 
-Der Anwender muss die Möglichkeit haben, sich die von der Terminservicestelle gebuchten Termine für
-
-seine Praxis aus dem System heraus abzurufen.
+Der Anwender muss die Möglichkeit haben, sich die von der Terminservicestelle gebuchten Termine für  seine Praxis aus dem System heraus abzurufen.
 
 **Begründung:**
 
@@ -342,18 +315,10 @@ Um den Anwender bei seinem Praxismanagement sowie der Abrechnung zu unterstütze
 **Akzeptanzkriterium:**
 
 - 1) Die Software stellt dem Anwender über die Schnittstelle nach P4-01 die Suchparameter zur Verfügung.
-
 - a) Die Software speichert alle abgefragten Termine der Terminservicestelle.
-
-- i) Die Software stellt dabei sicher, dass keine doppelten Termine (erkenntlich an dem
-
-- Vermittlungscode) in der Software gespeichert werden.
-
-- 2) Alle aus Akzeptanzkriterium (1) umgesetzten Suchparameter können vom Anwender beliebig - kombiniert werden.
-
-- 3) Der Anwender hat stets Zugriff, auf die in der Software hinterlegten Ergebnisse, ohne dass eine erneute
-
-- Abfrage bei der Terminservicestelle erfolgen muss.
+- i) Die Software stellt dabei sicher, dass keine doppelten Termine (erkenntlich an dem  Vermittlungscode) in der Software gespeichert werden.
+- 2) Alle aus Akzeptanzkriterium (1) umgesetzten Suchparameter können vom Anwender beliebig  kombiniert werden.
+- 3) Der Anwender hat stets Zugriff, auf die in der Software hinterlegten Ergebnisse, ohne dass eine erneute  Abfrage bei der Terminservicestelle erfolgen muss.
 
 TSS- Abrechnungsinformationen auf Basis von KV-Connect  - a) Dem Anwender wird das Datum und die Uhrzeit der letzten Aktualisierung angezeigt.
 
@@ -362,7 +327,7 @@ TSS- Abrechnungsinformationen auf Basis von KV-Connect  - a) Dem Anwender wird d
 
 - 4) Die Software stellt die Ergebnisse der Abfrage nach der Anforderung P4-03 dar.
 
-| **PFLICHTFUNKTION** |  |
+| PFLICHTFUNKTION |  |
 |---|---|
 | **P4-03** | Darstellung der Abfrageergebnisse |
 
@@ -370,76 +335,35 @@ Die Software stellt dem Anwender die Ergebnisse der Abfrage in einer übersichtl
 
 **Begründung:**
 
-Um den Anwender beim seinem Praxismanagement sowie der Abrechnung zu unterstützen, muss der
-
-Anwender die Möglichkeit haben, die über die Terminservicestelle gebuchten Termine in der eigenen
-
-Software anzuzeigen.
+Um den Anwender beim seinem Praxismanagement sowie der Abrechnung zu unterstützen, muss der  Anwender die Möglichkeit haben, die über die Terminservicestelle gebuchten Termine in der eigenen  Software anzuzeigen.
 
 **Akzeptanzkriterium:**
 
-- 1) Die Software stellt dem Anwender nach der initialen Synchronisation (ohne Aktion durch den  Anwender) Die Software stellt dem Anwender die Abfrageergebnisse bei der Terminservicestelle in  einer übersichtlichen Form dar. Dabei müssen für den Anwender in einer Übersicht mindestens die
-
-- folgenden Informationen ersichtlich sein:
-
-- a) Startzeitpunkt des gebuchten Termins (Parameter „Appointment.start“ der entsprechenden - FHIR-Ressource),
-
-- b) Vermittlungscode des Termins (Parameter „Appointment.basedOn.identifier der
-
-- entsprechenden FHIR-Ressource) und
-
-- i) Die Software kann einen Vermittlungscode bei der Ausgabe durch Minus-Zeichen "-" nach
-
-- jeweils 4 Zeichen optisch strukturieren sofern der Vermittlungscode nicht nach jeweils 4
-
-- Zeichen ein Minus-Zeichen enthält.
-
-- c) Patientennamen“ (Parameter Patient.name.family und „Patient.name.given“ der
-
-- entsprechenden FHIR-Ressource) sowie
-
+- 1) Die Software stellt dem Anwender nach der initialen Synchronisation (ohne Aktion durch den  Anwender) Die Software stellt dem Anwender die Abfrageergebnisse bei der Terminservicestelle in  einer übersichtlichen Form dar. Dabei müssen für den Anwender in einer Übersicht mindestens die  folgenden Informationen ersichtlich sein:
+- a) Startzeitpunkt des gebuchten Termins (Parameter „Appointment.start“ der entsprechenden  FHIR-Ressource),
+- b) Vermittlungscode des Termins (Parameter „Appointment.basedOn.identifier der  entsprechenden FHIR-Ressource) und
+- i) Die Software kann einen Vermittlungscode bei der Ausgabe durch Minus-Zeichen "-" nach  jeweils 4 Zeichen optisch strukturieren sofern der Vermittlungscode nicht nach jeweils 4  Zeichen ein Minus-Zeichen enthält.
+- c) Patientennamen“ (Parameter Patient.name.family und „Patient.name.given“ der  entsprechenden FHIR-Ressource) sowie
 - d) ob bereits eine Zuordnung zu einem Schein stattgefunden hat.
-
 - i) Bereits zugeordnete Termine werden per Default in der Übersicht ausgeblendet. Der Anwender  muss die Möglichkeit haben sich diese Termine wieder einzublenden.
-
-- 2) Die Software stellt dem Anwender nach der kontinuierlichen Synchronisation in einer übersichtlichen
-
-- Form die Änderungen aller kontinuierlichen Synchronisationen mindestens seit dem letzten Aufruf der
-
-- Übersicht gemäß dem Akzeptanzkriterium 1 dar.
-
+- 2) Die Software stellt dem Anwender nach der kontinuierlichen Synchronisation in einer übersichtlichen  Form die Änderungen aller kontinuierlichen Synchronisationen mindestens seit dem letzten Aufruf der  Übersicht gemäß dem Akzeptanzkriterium 1 dar.
 - a) Weiterführende Übersichtsfunktionen können umgesetzt werden.
-
 - 3) Die Software bietet dem Anwender die Möglichkeit eine Synchronisation manuell anzustoßen.
-
 - a) Die Software stellt dem Anwender in einer übersichtlichen Form die Änderungen innerhalb der im  Akzeptanzkriterium 1 vorgegebenen Übersicht dar.
-
 - 4) Der Anwender muss die Möglichkeiten haben:
-
 - a) alle weiteren Informationen eines Termins einzusehen
-
 - b) einen Termin aus der Übersicht einem Schein eines Patienten nach P4-04 zuzuordnen
-
-- c) die Ansicht, der in der Software hinterlegten Termine nach allen den in der Schnittstellen-
-
-- Spezifikation vorgegebenen Parametern vorliegenden Informationen eines Termins zu filtern und  zu sortieren
-
-- 5) Die Software bietet dem Anwender mindestens die Möglichkeiten, sich alle nicht zugeordneten
-
-- Termine der Terminservicestelle nach den folgenden Kriterien anzeigen zu lassen, um die Termine
-
-- manuell einem Schein zuzuordnen:
+- c) die Ansicht, der in der Software hinterlegten Termine nach allen den in der Schnittstellen- Spezifikation vorgegebenen Parametern vorliegenden Informationen eines Termins zu filtern und  zu sortieren
+- 5) Die Software bietet dem Anwender mindestens die Möglichkeiten, sich alle nicht zugeordneten  Termine der Terminservicestelle nach den folgenden Kriterien anzeigen zu lassen, um die Termine  manuell einem Schein zuzuordnen:
 
 
 ---
 
 - a) Nach dem aktuellen Tag
-
 - b) Für das laufende Quartal
-
 - c) Für das vorherige Quartal
 
-| **PFLICHTFUNKTION** |  |
+| PFLICHTFUNKTION |  |
 |---|---|
 | **P4-04** | Übernahme der Termindaten bei Zuordnung eines Termins zu einem Schein eines Patienten |
 
@@ -447,207 +371,91 @@ Die Software übernimmt bei der Zuordnung eines Termins zu einem Schein des Pati
 
 **Begründung:**
 
-Um den Anwender bei der Abrechnung zu unterstützen, sollen die Informationen zu einem Termin der
-
-Terminservicestelle automatisch nach einer Bestätigung des Anwenders in die Abrechnung übernommen  werden.
+Um den Anwender bei der Abrechnung zu unterstützen, sollen die Informationen zu einem Termin der  Terminservicestelle automatisch nach einer Bestätigung des Anwenders in die Abrechnung übernommen  werden.
 
 **Akzeptanzkriterium:**
 
 - 1) Die Software übernimmt die Daten des Termins zu einem Schein eines Patienten nach den folgenden  Bedingungen:
+- a) Die „Dringlichkeit des Termins“ (Parameter  „Appointment.priority.extension:gebuchteDringlichkeit.value[x].code“ in der entsprechenden FHIR- Ressource) gemappt in die KVDT-Feldkennung 4103. Hierbei gilt das folgende Mapping
 
-- a) Die „Dringlichkeit des Termins“ (Parameter  „Appointment.priority.extension:gebuchteDringlichkeit.value[x].code“ in der entsprechenden FHIR-
-
-- Ressource) gemappt in die KVDT-Feldkennung 4103. Hierbei gilt das folgende Mapping
-
-| **FHIR-Code** | **FHIR-Displaywert** | **Ausprägung FK 4103** |
+| FHIR-Code | FHIR-Displaywert | Ausprägung FK 4103 |
 |---|---|---|
 | 709122007 | As soon as possible | 2 |
 | 103391001 | Urgent | 1 |
 | 50811001 | Routine | 6 |
 
-- b) Den „Tag der Terminvermittlung“ (Parameter „Appointment.created“ in der entsprechenden FHIR-
-
-- Ressource) in die KVDT-Feldkennung 4115.
-
-- c) Den „Vermittlungscode“ (Parameter „Appointment.created“ in der entsprechenden FHIR-
-
-- Ressource) in die KVDT-Feldkennung 4114.
-
-- d) Wenn die „Dringlichkeit des Termins“ (Parameter Appointment.extension.priorityCoding
-
-- Appointment.priority.extension:gebuchteDringlichkeit.value[x].code der entsprechenden FHIR-
-
-- Ressource) gleich „asap“ ist und der Leistungstag (FK 5000) minus der Tagesangaben „Tag der
-
-- Terminvermittlung“ (aus dem Parameter „Appointment.created“ der entsprechenden FHIR-
-
-- Ressource) kleiner gleich 1 Tag ist, dann werden die folgenden Informationen übernommen:
-
+- b) Den „Tag der Terminvermittlung“ (Parameter „Appointment.created“ in der entsprechenden FHIR- Ressource) in die KVDT-Feldkennung 4115.
+- c) Den „Vermittlungscode“ (Parameter „Appointment.created“ in der entsprechenden FHIR- Ressource) in die KVDT-Feldkennung 4114.
+- d) Wenn die „Dringlichkeit des Termins“ (Parameter Appointment.extension.priorityCoding  Appointment.priority.extension:gebuchteDringlichkeit.value[x].code der entsprechenden FHIR- Ressource) gleich „asap“ ist und der Leistungstag (FK 5000) minus der Tagesangaben „Tag der  Terminvermittlung“ (aus dem Parameter „Appointment.created“ der entsprechenden FHIR- Ressource) kleiner gleich 1 Tag ist, dann werden die folgenden Informationen übernommen:
 - i) Wert in der KVDT-Feldkennung (KVDT-FK) 4103 ist 2 (TSS-Akut)
-
-- ii) Vorschlag des zeitgestaffelten Zuschlags auf Grundlage der KVDT-Anforderung KP2-513
-
-- Akzeptanzkriterium (1) und (2) und (4)
-
-- e) Wenn die „Dringlichkeit des Termins“ (Parameter Appointment.extension.priorityCoding der
-
-- entsprechenden FHIR-Ressource) gleich „asap“ ist und der Leistungstag (FK 5000) minus der
-
-- Tagesangaben „Tag der Terminvermittlung“ (aus dem Parameter „Appointment.created“ der
-
-- entsprechenden FHIR-Ressource) größer 1 Tag ist, dann erhält der Anwender die folgende  Warnmeldung und es erfolgt keine automatische Übernahme in die Abrechnung:
+- ii) Vorschlag des zeitgestaffelten Zuschlags auf Grundlage der KVDT-Anforderung KP2-513  Akzeptanzkriterium (1) und (2) und (4)
+- e) Wenn die „Dringlichkeit des Termins“ (Parameter Appointment.extension.priorityCoding der  entsprechenden FHIR-Ressource) gleich „asap“ ist und der Leistungstag (FK 5000) minus der  Tagesangaben „Tag der Terminvermittlung“ (aus dem Parameter „Appointment.created“ der  entsprechenden FHIR-Ressource) größer 1 Tag ist, dann erhält der Anwender die folgende  Warnmeldung und es erfolgt keine automatische Übernahme in die Abrechnung:
 
 
 ---
 
-- i) Warnmeldung: „Der TSS-Akutfall wurde nicht wie vorgeschrieben am aktuellen Tag oder
-
-- Folgetag behandelt und ist folglich weder als TSS-Akutfall noch als TSS-Terminfall - kennzeichenbar.
-
-- f) Wenn die „Dringlichkeit des Termins“ (Parameter „Appointment.extension.priorityCoding
-
-- Appointment.priority.extension:gebuchteDringlichkeit der entsprechenden FHIR-Ressource) gleich
-
-- Urgent“ ist und der Leistungstag (FK 5000) minus der Tagesangaben „Tag der Terminvermittlung
-
-- (aus dem Parameter „Appointment.created“ der entsprechenden FHIR-Ressource) kleiner 35 Tage
-
-- ist, dann werden die folgenden Informationen übernommen
-
+- i) Warnmeldung: „Der TSS-Akutfall wurde nicht wie vorgeschrieben am aktuellen Tag oder  Folgetag behandelt und ist folglich weder als TSS-Akutfall noch als TSS-Terminfall  kennzeichenbar.
+- f) Wenn die „Dringlichkeit des Termins“ (Parameter „Appointment.extension.priorityCoding  Appointment.priority.extension:gebuchteDringlichkeit der entsprechenden FHIR-Ressource) gleich  Urgent“ ist und der Leistungstag (FK 5000) minus der Tagesangaben „Tag der Terminvermittlung (aus dem Parameter „Appointment.created“ der entsprechenden FHIR-Ressource) kleiner 35 Tage  ist, dann werden die folgenden Informationen übernommen
 - i) Wert in der KVDT-FK 4103 ist 1 (TSS-Terminfall)
-
-- ii) Vorschlag des zeitgestaffelten Zuschlags auf Grundlage der KVDT-Anforderung KP2-513
-
-- Akzeptanzkriterium (1) und (3) und (4)
-
-- g) Wenn die „Dringlichkeit des Termins“ (Parameter „Appointment.extension.priorityCoding der
-
-- entsprechenden FHIR-Ressource) gleich „urgent“ ist und der Leistungstag (FK 5000) minus der
-
-- Tagesangaben „Tag der Terminvermittlung“ (aus dem Parameter „Appointment.created“ der
-
-- entsprechenden FHIR-Ressource) größer gleich 35 Tage ist, dann erhält der Anwender die folgende  Warnmeldung und es erfolgt keine Übernahme in die Abrechnung:
-
-- i) Warnmeldung: Es ist kein zeitgestaffelter Zuschlag mehr abrechenbar, da die 35-Tage-Frist - verstrichen ist.“
-
-- h) Wenn die „Dringlichkeit des Termins“ (Parameter „Appointment.extension.priorityCoding
-
-- Appointment.priority.extension:gebuchteDringlichkeit der entsprechenden FHIR-Ressource) gleich
-
-- Routine“ ist und der Leistungstag (FK 5000) minus der Tagesangaben „Tag der Terminvermittlung
-
-- (aus dem Parameter „Appointment.created“ der entsprechenden FHIR-Ressource) kleiner 35 Tage
-
-- ist, dann werden die folgenden Informationen übernommen
-
+- ii) Vorschlag des zeitgestaffelten Zuschlags auf Grundlage der KVDT-Anforderung KP2-513  Akzeptanzkriterium (1) und (3) und (4)
+- g) Wenn die „Dringlichkeit des Termins“ (Parameter „Appointment.extension.priorityCoding der  entsprechenden FHIR-Ressource) gleich „urgent“ ist und der Leistungstag (FK 5000) minus der  Tagesangaben „Tag der Terminvermittlung“ (aus dem Parameter „Appointment.created“ der  entsprechenden FHIR-Ressource) größer gleich 35 Tage ist, dann erhält der Anwender die folgende  Warnmeldung und es erfolgt keine Übernahme in die Abrechnung:
+- i) Warnmeldung: Es ist kein zeitgestaffelter Zuschlag mehr abrechenbar, da die 35-Tage-Frist  verstrichen ist.“
+- h) Wenn die „Dringlichkeit des Termins“ (Parameter „Appointment.extension.priorityCoding  Appointment.priority.extension:gebuchteDringlichkeit der entsprechenden FHIR-Ressource) gleich  Routine“ ist und der Leistungstag (FK 5000) minus der Tagesangaben „Tag der Terminvermittlung (aus dem Parameter „Appointment.created“ der entsprechenden FHIR-Ressource) kleiner 35 Tage  ist, dann werden die folgenden Informationen übernommen
 - i) Wert in der KVDT-FK 4103 ist 6 (TSS-Routine-Termin)
-
-- ii) Vorschlag des zeitgestaffelten Zuschlags auf Grundlage der KVDT-Anforderung KP2-513
-
-- Akzeptanzkriterium (1) und (3) und (4)
-
-- i) Wenn die „Dringlichkeit des Termins“ (Parameter „Appointment.extension.priorityCoding der
-
-- entsprechenden FHIR-Ressource) gleich „routine“ ist und der Leistungstag (FK 5000) minus der
-
-- Tagesangaben „Tag der Terminvermittlung“ (aus dem Parameter „Appointment.created“ der
-
-- entsprechenden FHIR-Ressource) größer gleich 35 Tage ist, dann erhält der Anwender die folgende  Warnmeldung und es erfolgt keine Übernahme in die Abrechnung:
-
-- i) Warnmeldung: Es ist kein zeitgestaffelter Zuschlag mehr abrechenbar, da die 35-Tage-Frist - verstrichen ist.“
-
-- j) Wenn die Bedingungen des Akzeptanzkriterium 1)a) oder 1)c) oder 1)e) erfüllt sind, dann werden
-
-- die folgenden Daten in die Abrechnung übernommen:
-
-- i) Wert in der KVDT-FK 4114 (Vermittlungscode) ist „Vermittlungscode des Termins“ (aus dem
-
-- Parameter „Appointment.basedOn.identifier“ der entsprechenden FHIR-Ressource)
-
+- ii) Vorschlag des zeitgestaffelten Zuschlags auf Grundlage der KVDT-Anforderung KP2-513  Akzeptanzkriterium (1) und (3) und (4)
+- i) Wenn die „Dringlichkeit des Termins“ (Parameter „Appointment.extension.priorityCoding der  entsprechenden FHIR-Ressource) gleich „routine“ ist und der Leistungstag (FK 5000) minus der  Tagesangaben „Tag der Terminvermittlung“ (aus dem Parameter „Appointment.created“ der  entsprechenden FHIR-Ressource) größer gleich 35 Tage ist, dann erhält der Anwender die folgende  Warnmeldung und es erfolgt keine Übernahme in die Abrechnung:
+- i) Warnmeldung: Es ist kein zeitgestaffelter Zuschlag mehr abrechenbar, da die 35-Tage-Frist  verstrichen ist.“
+- j) Wenn die Bedingungen des Akzeptanzkriterium 1)a) oder 1)c) oder 1)e) erfüllt sind, dann werden  die folgenden Daten in die Abrechnung übernommen:
+- i) Wert in der KVDT-FK 4114 (Vermittlungscode) ist „Vermittlungscode des Termins“ (aus dem  Parameter „Appointment.basedOn.identifier“ der entsprechenden FHIR-Ressource)
 - (1) In der Abrechnung muss der Vermittlungscode ohne Bindestriche übertragen werden.
-
-- ii) Wert in der KVDT-FK 4115 (Tag der Terminvermittlung) „Tag der Terminvermittlung“ (aus dem
-
-- Parameter „Appointment.created“ der entsprechenden FHIR-Ressource)
-
-- 2) Der Anwender muss die Möglichkeit haben, die Angaben, welche in die Abrechnung übernommen
-
-- werden, zu ändern oder Daten manuell zu erfassen.
+- ii) Wert in der KVDT-FK 4115 (Tag der Terminvermittlung) „Tag der Terminvermittlung“ (aus dem  Parameter „Appointment.created“ der entsprechenden FHIR-Ressource)
+- 2) Der Anwender muss die Möglichkeit haben, die Angaben, welche in die Abrechnung übernommen  werden, zu ändern oder Daten manuell zu erfassen.
 
 **HINWEIS**
 
 
 ---
 
-An welchem Tag der Termin durchgeführt wird, wird in der Abrechnung mit der Feldkennung 5000 (Leistungstag) abgebildet.
+An welchem Tag der Termin durchgeführt wird, wird in der Abrechnung mit der Feldkennung 5000  (Leistungstag) abgebildet.
 
 Ebenso obliegt es dem Anwender zu entscheiden, ob und welcher Schein bzw. welche Satzart im KVDT  angelegt werden soll. Softwaresysteme können den Anwender mit Vorschlägen unterstützen.
 
-Die Ermittlung der Vorschläge der zeitgestaffelten Zuschläge erfolgt gemäß der KVDT-Anforderung KP2-513
+Die Ermittlung der Vorschläge der zeitgestaffelten Zuschläge erfolgt gemäß der KVDT-Anforderung KP2-513  Akzeptanzkriterium (1) und (2) und (4).
 
-Akzeptanzkriterium (1) und (2) und (4).
-
-| **PFLICHTFUNKTION** |  |
+| PFLICHTFUNKTION |  |
 |---|---|
 | **P4-06** | Automatische Zuordnung eines Termins zu einem |
 
-Die Software prüft bei der Erfassung eines Patienten, ob für diesen ein Termin der Terminservicestelle
-
-vorliegt.
+Die Software prüft bei der Erfassung eines Patienten, ob für diesen ein Termin der Terminservicestelle  vorliegt.
 
 **Begründung:**
 
-Um den Anwender bei seinem Praxismanagement sowie der Abrechnung zu unterstützen, soll die Software
-
-prüfen, ob anhand der vorliegenden Kriterien eine automatische Zuordnung möglich ist.
+Um den Anwender bei seinem Praxismanagement sowie der Abrechnung zu unterstützen, soll die Software  prüfen, ob anhand der vorliegenden Kriterien eine automatische Zuordnung möglich ist.
 
 **Akzeptanzkriterium:**
 
-- 1) Wenn ein Patient durch Einlesen einer Versichertenkarte oder im Rahmen der manuellen Erfassung  erfasst wird, prüft die Software mindestens anhand der folgenden Kriterien, ob ein Termin der
-
-- Terminservicestelle in der Software für den Patienten vorliegt:
-
+- 1) Wenn ein Patient durch Einlesen einer Versichertenkarte oder im Rahmen der manuellen Erfassung  erfasst wird, prüft die Software mindestens anhand der folgenden Kriterien, ob ein Termin der  Terminservicestelle in der Software für den Patienten vorliegt:
 - a) VersichertenID (FK 3119) oder Versichertennummer (FK 3105) ==  Patient.identifier:versichertenId_GKV.value OR Patient.identifier:versichertennummer_kvk.value
-
 - b) Nachname (FK 3101) == Patient.name.family && Vorname (FK 3102) == Patient.name.given &&  Geburtsdatum (FK 3103) == Patient.birthDate
-
 - c) Nachname (FK 3101) == Patient.name.family && Vorname (FK 3102) == Patient.name.given
-
 - d) Geburtsdatum (FK 3103) == Patient.birthDate
-
 - e) Ggf. eingegebener Vermittlungscode (FK 4114) == Appointment.basedOn.identifier
-
 - 2) Wenn ein passender Termin für den Patienten nach Akzeptanzkriterium (1) identifiziert wurde:
-
-- a) Dann bietet die Software die direkte Zuordnung der Daten mit einem Klick oder einem Short-Cut
-
-- oder ähnlichen Aktionen nach den Vorgaben der Anforderung P4-04 an.
-
-- b) Der Anwender hat die Möglichkeit die Auswahl zu übersteuern und manuell einen TSS-Termin nach
-
-- P4-04 dem Patienten zuzuordnen.
-
+- a) Dann bietet die Software die direkte Zuordnung der Daten mit einem Klick oder einem Short-Cut  oder ähnlichen Aktionen nach den Vorgaben der Anforderung P4-04 an.
+- b) Der Anwender hat die Möglichkeit die Auswahl zu übersteuern und manuell einen TSS-Termin nach  P4-04 dem Patienten zuzuordnen.
 - 3) Wenn nach Akzeptanzkriterium (1) kein passender gebuchter Termin identifiziert werden konnte:
-
-- a) Dann hat der Anwender die Möglichkeit manuell einen Termin nach P4-04 aus der Liste P4-03 dem - Patienten zuzuordnen.
-
-- b) Oder einen Vermittlungscode einzugeben und nach diesem in den gespeicherten Terminen (in der
-
-- Software) mithilfe des „Vermittlungscodes“ zu suchen.
-
+- a) Dann hat der Anwender die Möglichkeit manuell einen Termin nach P4-04 aus der Liste P4-03 dem  Patienten zuzuordnen.
+- b) Oder einen Vermittlungscode einzugeben und nach diesem in den gespeicherten Terminen (in der  Software) mithilfe des „Vermittlungscodes“ zu suchen.
 - i) Wird ein passender Termin zurückgegeben, dann wird dieser nach einer Bestätigung des  Anwenders nach P4-04 zugeordnet.
 
 **HINWEIS**
 
-Da sich das Format des Geburtsdatums von der Terminservicestelle (YYYY-MM-DD) und im KVDT
-
-Schein eines Patienten unterscheiden, muss hier ein geeignetes Format vom Hersteller eingesetzt werden. Bei der Suche mit den
+Schein eines Patienten Da sich das Format des Geburtsdatums von der Terminservicestelle (YYYY-MM-DD) und im KVDT  unterscheiden, muss hier ein geeignetes Format vom Hersteller eingesetzt werden. Bei der Suche mit den
 
 
 ---
 
 Parametern Nachname und Vorname kann eine Phonetische Suche verwendet und alle potentielle Treffer  angezeigt werden.
-
 
 ---
 
@@ -656,20 +464,20 @@ Parametern Nachname und Vorname kann eine Phonetische Suche verwendet und alle p
 |  |  |
 |---|---|
 | **Referenz** | **Dokument** |
-| [Anbindung_KV_Connect] | Anforderungskatalog „Anbindung an KV    Dieses Dokument wird in dem Verzeichnis  https://update.kbv.de/ita-update/KV- |
-| [Spec_eTerminservice] | Spezifikation „Spezifikation KV    Dieses Dokument wird in dem Verzeichnis  https://update.kbv.de/ita-update/TSS  bereitgestellt. |
-| [Spec_eTerminservice_Abr] | Spezifikation „Spezifikation KV    Dieses Dokument wird in dem Verzeichnis  https://update.kbv.de/ita-update/TSS/    bereitgestellt. |
-| [Spec_Vermittlungscode] | Spezifikation „Spezifikation 116117    „   Diese Dokumente werden in dem  update/TSS/3_0_0   bereitgestellt. |
-| [Spec_Abrechnungsinformation] | Spezifikation „Spezifikation 116117    „Technische Anlage zur Spezifikation    Diese Dokumente werden in dem  update/TSS/3_0_0   bereitgestellt. |
+| [Anbindung_KV_Connect] | Anforderungskatalog „Anbindung an KV    Dieses Dokument wird in dem Verzeichnis  https://update.kbv.de/ita-update/KV-  bereitgestellt. |
+| [Spec_eTerminservice] | Spezifikation „Spezifikation KV    Dieses Dokument wird in dem Verzeichnis  https://update.kbv.de/ita-update/TSS |
+| [Spec_eTerminservice_Abr] | Spezifikation „Spezifikation KV    Dieses Dokument wird in dem Verzeichnis  https://update.kbv.de/ita-update/TSS/ |
+| [Spec_Vermittlungscode] | Spezifikation „Spezifikation 116117    „   Diese Dokumente werden in dem  https://update.kbv.de/ita-    bereitgestellt. |
+| [Spec_Abrechnungsinformation] | Spezifikation „Spezifikation 116117    „Technische Anlage zur Spezifikation    Diese Dokumente werden in dem  https://update.kbv.de/ita-    bereitgestellt. |
 
-Connect“ in der stets aktuellen Version  Connect/ bereitgestellt. -Connect Anwendungsdienst eTerminservice“ in der stets aktuellen Version   -Connect Anwendungsdienst eTerminservice  TSS- Abrechnungsinformation“ in der stets aktuellen Version   Vermittlungscode“ in der stets aktuellen Version _116117 Terminservice “ in der stets aktuellen Version Verzeichnis https://update.kbv.de/ita- in der stets aktuellen Version _116117 Terminservice Abrechnungsinformation“ in der stets aktuellen Version Verzeichnis https://update.kbv.de/ita-# NTE
+Connect“ in der stets aktuellen Version  Connect/ -Connect Anwendungsdienst eTerminservice“ in der stets aktuellen Version   -Connect Anwendungsdienst eTerminservice  TSS- Abrechnungsinformation“ in der stets aktuellen Version   Vermittlungscode“ in der stets aktuellen Version _116117 Terminservice “ in der stets aktuellen Version update/TSS/3_0_0 in der stets aktuellen Version _116117 Terminservice Abrechnungsinformation“ in der stets aktuellen Version update/TSS/3_0_0# NTE
 
 
 ---
 
 |  |  |
 |---|---|
-|  | Spezifikation  in der stets aktuellen Version    Dieses Dokument wird in dem Verzeichnis  https://update.kbv.de/ita- |
+|  | Spezifikation  in der stets aktuellen Version    Dieses Dokument wird in dem Verzeichnis  https://update.kbv.de/ita-    bereitgestellt. |
 | KBV_ITA_RLEX_Zert.pdf | Zertifizierungsrichtlinie der KBV https://update.kbv.de/ita- |
 
 **Ansprechpartner:**
@@ -678,6 +486,4 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
-Kassenärztliche Bundesvereinigung
-
-Spezifikation 116117 Terminservice Authentisierung update/TSS/3_0_0   bereitgestellt. update/Allgemein/ Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
+Spezifikation 116117 Terminservice Authentisierung update/TSS/3_0_0 update/Allgemein/Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)

@@ -1,14 +1,6 @@
-#### AUSFÜLLHINWEISE ZUR BETRIEBSSTÄTTENBEZOGENEN JAHRESSTATIS-
+#### AUSFÜLLHINWEISE ZUR BETRIEBSSTÄTTENBEZOGENEN JAHRESSTATIS- TIK FÜR MOLEKULARGENETIK
 
-#### TIK FÜR MOLEKULARGENETIK
-
-Die Qualitätssicherungs-Vereinbarung Molekulargenetik nach § 135 Abs. 2 SGB V sieht
-
-vor, dass Labore eine Jahresstatistik erstellen. Der § 8 Abs. 1 gibt vor, welche Angaben
-
-für die Statistik erforderlich sind. Nachfolgend erhalten Sie Definitionen zentraler Begriff-
-
-lichkeiten.
+Die Qualitätssicherungs-Vereinbarung Molekulargenetik nach § 135 Abs. 2 SGB V sieht  vor, dass Labore eine Jahresstatistik erstellen. Der § 8 Abs. 1 gibt vor, welche Angaben  für die Statistik erforderlich sind. Nachfolgend erhalten Sie Definitionen zentraler Begrif f- lichkeiten.
 
 | Behandlungsfall | In der Jahresstatistik sind lediglich die abgeschlossenen |
 |---|---|

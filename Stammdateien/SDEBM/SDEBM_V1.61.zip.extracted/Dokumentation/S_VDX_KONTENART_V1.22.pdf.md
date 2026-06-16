@@ -95,7 +95,7 @@ Empfängnisregelung, Sterilisation, Schwangerschaftsabbruch, (Ärztliche Behandl
 
 ---
 
-| **Code** | **Bezeichnung** |
+| Code | Bezeichnung |
 |---|---|
 | 531 | Empfängnisregelung, Sterilisation, Schwangerschaftsabbruch, |
 

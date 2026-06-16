@@ -1,4 +1,4 @@
-\| ***Elektronische Sammelerklä rung (eSE)*** |
+\| *Elektronische Sammelerklä rung (eSE)* |
 \|---|
 \| *Schnittstellenbeschreibung* |
 \| © kv.digital GmbH |
@@ -9,10 +9,10 @@
 
 ---
 
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung ** GmbH  Umfirmung KV Telematik GmbH | **Seite** |
+| Version | Datum | Autor | Änderung | Begründung  kv.digital  Umfirmung KV Telematik GmbH | Seite |
 |---|---|---|---|---|---|
-| 1.21L | 10.02.2020 kv.digital | GmbH | Umfirmung KV Telematik GmbH   Anpassung URL |  | Alle    68 |
-| 1.21L | 30.01.2019 KV | Telematik | Lizenzbestimmungen |  | 3 |
+| 1.21L | 10.02.2020 | kv.digital | Umfirmung KV Telematik GmbH  Anpassung URL |  | Alle    68 |
+| 1.21L | 30.01.2019 | KV | Lizenzbestimmungen |  | 3 |
 | 1.21 | 11.11.2014 |  | Redaktionelle Änderungen |  |  |
 | 1.21 | 31.12.2013 |  | Neues Element angestel- | Neue Anforderung |  |
 | 1.20  1.10 | 18.11.2010 |  | Generische Ausrichtung der  Berücksichtigung weiterer An- | gesteigerte Wiederverwendbar-  Kommentierungsphase |  |
@@ -30,211 +30,115 @@ kv.digital GmbH
 
 für die unentgeltliche Nutzung von Spezifikationen der
 
-kv.digital GmbH, Herbert-Lewin-Platz 2, 10623 Berlin („Lizenzgeberin“) - 1. Vertragsgegenstand
+kv.digital GmbH, Herbert-Lewin-Platz 2, 10623 Berlin („Lizenzgeberin“)
 
-- 1.1. Die Lizenzgeberin hat für verschiedene ihrer Anwendungen Spezifikationen erstellt  („Werke“), die sie unentgeltlich zur Implementierung in Primärsysteme (z.B.
-
-- Praxisverwaltungs-, Labor- oder Krankenhausinformationssysteme) durch interessierte  Dritte zur Verfügung stellt.
-
-- 1.2. Wenn das jeweilige Werk auf diese Lizenzbestimmungen ausdrücklich verweist, gelten für  dessen Nutzung ausschließlich die nachfolgenden Bedingungen. Ein unter diese Lizenz  gestelltes Werk darf insbesondere nur dann verwendet werden, wenn die Anwendung  ausschließlich im Zusammenhang mit einer Nutzung des Kommunikationsdienstes KV Connect der Lizenzgeberin [[https://partnerportal.kv](https://partnerportal.kv)-telematik.de/x/CAC2] verwendet wird - (s. Ziff. 3.2).
-
+1. Vertragsgegenstand
+- 1.1. Die Lizenzgeberin hat für verschiedene ihrer Anwendungen Spezifikationen erstellt  („Werke“), die sie unentgeltlich zur Implementierung in Primärsysteme (z.B.  Praxisverwaltungs-, Labor- oder Krankenhausinformationssysteme) durch interessierte  Dritte zur Verfügung stellt.
+- 1.2. Wenn das jeweilige Werk auf diese Lizenzbestimmungen ausdrücklich verweist, gelten für  dessen Nutzung ausschließlich die nachfolgenden Bedingungen. Ein unter diese Lizenz  gestelltes Werk darf insbesondere nur dann verwendet werden, wenn die Anwendung  ausschließlich im Zusammenhang mit einer Nutzung des Kommunikationsdienstes KV Connect der Lizenzgeberin [[https://partnerportal.kv](https://partnerportal.kv)-telematik.de/x/CAC2] verwendet wird  (s. Ziff. 3.2).
 - 1.3. Eine Nutzung für andere Zwecke und zu anderen Bedingungen ist ohne ausdrückliche  Vereinbarung mit der Lizenzgeberin nicht zulässig.
-
-- 2. Vertragsschluss
-
+2. Vertragsschluss
 - 2.1. Das Angebot zum Abschluss des Lizenzvertrages richtet sich an jede Person, die an der  Nutzung des Werks zu den Bedingungen dieser Lizenz bereit ist („Lizenznehmer“).
-
 - 2.2. Der Lizenznehmer erklärt seine Zustimmung zum Abschluss dieser Lizenz, indem er das  Werk vervielfältigt, dessen Bestandteile in Software implementiert oder das Werk auf  andere Weise nutzt. Ab diesem Zeitpunkt ist diese Lizenz als rechtlich verbindlicher  Vertrag zwischen Lizenzgeberin und Lizenznehmer geschlossen, ohne dass es eines  Zugangs der Annahmeerklärung bei der Lizenzgeberin bedarf.
-
-- 3. Rechteeinräumung
-
-- 3.1. Die Lizenzgeberin räumt dem Lizenznehmer das nicht-ausschließliche, zeitlich und örtlich
-
-- unbeschränkte Recht ein, die Werke im vertraglich eingeräumten Umfang zu nutzen.
-
-- 3.2. Die Nutzung ist inhaltlich wie folgt beschränkt: Der Lizenznehmer darf das Werk nur zur
-
-- Erstellung oder Bearbeitung von Softwareprodukten einsetzen, die den  Kommunikationsdienst KV-Connect der Lizenzgeberin [[https://partnerportal.kv](https://partnerportal.kv) telematik.de/x/CAC2] verwenden. Zugleich darf die Nutzung auch dann nur zur Anbindung
-
-- der Softwareprodukte an diesen Kommunikationsdienst erfolgen. Die Nutzung des Werks  und seiner Bestandteile für andere Kommunikationsdienste ist nicht zulässig. Die  vorstehenden Regelungen gelten auch für eine Nutzung zu kommerziellen Zwecken.
-
+3. Rechteeinräumung
+- 3.1. Die Lizenzgeberin räumt dem Lizenznehmer das nicht-ausschließliche, zeitlich und örtlich  unbeschränkte Recht ein, die Werke im vertraglich eingeräumten Umfang zu nutzen.
+- 3.2. Die Nutzung ist inhaltlich wie folgt beschränkt: Der Lizenznehmer darf das Werk nur zur  Erstellung oder Bearbeitung von Softwareprodukten einsetzen, die den  Kommunikationsdienst KV-Connect der Lizenzgeberin [[https://partnerportal.kv](https://partnerportal.kv) telematik.de/x/CAC2] verwenden. Zugleich darf die Nutzung auch dann nur zur Anbindung  der Softwareprodukte an diesen Kommunikationsdienst erfolgen. Die Nutzung des Werks  und seiner Bestandteile für andere Kommunikationsdienste ist nicht zulässig. Die  vorstehenden Regelungen gelten auch für eine Nutzung zu kommerziellen Zwecken.
 - 3.3. Die Übertragung der eingeräumten Rechte sowie die Einräumung von Unterlizenzen sind  nicht zulässig. Auch ein Bearbeitungsrecht steht dem Lizenznehmer nicht zu.
-
-- 4. Gewährleistung, Haftung
-
-- 4.1. Wegen etwaiger Mängel kann die Lizenzgeberin nur in Anspruch genommen werden,
-
-- wenn sie den Mangel arglistig verschwiegen hat.
-
+4. Gewährleistung, Haftung
+- 4.1. Wegen etwaiger Mängel kann die Lizenzgeberin nur in Anspruch genommen werden,  wenn sie den Mangel arglistig verschwiegen hat.
 - 4.2. Die Lizenzgeberin hat nur Vorsatz und grobe Fahrlässigkeit zu vertreten (§ 521 BGB).
-
 
 ---
 
-- 5. Freistellung
-
+5. Freistellung
 - 5.1. Für den Fall, dass die Lizenzgeberin aufgrund oder im Zusammenhang mit der Nutzung  des Werks durch den Lizenznehmer von Dritten wegen einer (vermeintlichen) Verletzung  von deren Rechten in Anspruch genommen wird, hat der Lizenznehmer die Lizenzgeberin  sowie ihre jeweiligen Geschäftsführer, von jeglichen hieraus resultierenden Ansprüchen,  Kosten, Schäden, Verlusten und Aufwendungen (einschließlich angemessener  Rechtsanwaltskosten) freizustellen und schadlos zu halten sowie dagegen zu verteidigen.  Der Lizenznehmer ist unmittelbar nach der Inanspruchnahme der Lizenzgeberin durch den  Dritten zu informieren. Die Lizenzgeberin kann nach eigenem Ermessen entscheiden, ob  sie selbst die Verteidigung übernimmt oder vom Lizenznehmer auf dessen Kosten diese  Verteidigung übernehmen lässt. Die vorstehenden Regelungen gelten nicht, wenn und  soweit ein Haftungs- oder Gewährleistungsfall nach Ziff. 4 vorliegt.
+- 5.2. Keine der Parteien wird ohne vorherige schriftliche Zustimmung der jeweils anderen einen  Vergleich abschließen, die Forderung anerkennen oder auf andere Weise dem Dritten  Zahlungen in Aussicht stellen oder vereinbaren
+6. Schlussbestimmungen
 
-- 5.2. Keine der Parteien wird ohne vorherige schriftliche Zustimmung der jeweils anderen einen  Vergleich abschließen, die Forderung anerkennen oder auf andere Weise dem Dritten  Zahlungen in Aussicht stellen oder vereinbaren - 6. Schlussbestimmungen
-
-Auf diesen Vertrag findet deutsches Recht unter Ausschluss des UN-Kaufrechts Anwendung.
-
-Erfüllungsort ist Berlin. Bei Streitigkeiten aus oder in Verbindung mit diesem Vertrag ist der  Gerichtsstand am Landgericht Berlin, wenn der Lizenznehmer Kaufmann, eine juristische Person
-
-des öffentlichen Rechts oder öffentlich rechtlichen Sondervermögen ist. Jede Vertragspartei kann  jedoch auch an ihrem allgemeinen Gerichtsstand in Anspruch genommen werden. Diese  Gerichtsstandsvereinbarung gilt nicht für Rechtsstreitigkeiten die nichtvermögensrechtliche  Ansprüche betreffen, die den Amtsgerichten ohne Rücksicht auf den Wert des Streitgegenstandes  zugewiesen sind oder wenn ein ausschließlicher Gerichtsstand begründet ist.
+Auf diesen Vertrag findet deutsches Recht unter Ausschluss des UN-Kaufrechts Anwendung.  Erfüllungsort ist Berlin. Bei Streitigkeiten aus oder in Verbindung mit diesem Vertrag ist der  Gerichtsstand am Landgericht Berlin, wenn der Lizenznehmer Kaufmann, eine juristische Person  des öffentlichen Rechts oder öffentlich rechtlichen Sondervermögen ist. Jede Vertragspartei kann  jedoch auch an ihrem allgemeinen Gerichtsstand in Anspruch genommen werden. Diese  Gerichtsstandsvereinbarung gilt nicht für Rechtsstreitigkeiten die nichtvermögensrechtliche  Ansprüche betreffen, die den Amtsgerichten ohne Rücksicht auf den Wert des Streitgegenstandes  zugewiesen sind oder wenn ein ausschließlicher Gerichtsstand begründet ist.
 
 
 ---
 
 - **1 EINLEITUNG**
-
 - **10**
-
 - **2 KONVENTIONEN**
-
 - **10**
-
 - **2.1 Zeichensatz .................................................................................................................................. 10**
-
 - **2.2 Namespace................................................................................................................................... 10**
-
 - **2.3 Root-Schema ............................................................................................................................... 10**
-
 - **2.4 Dateinamen .................................................................................................................................. 10**
-
 - **2.5 Semantik der verwendeten Diagrammsymbole ....................................................................... 11**
-
 - 2.5.1 Kardinalität ........................................................................................................................... 11
-
 - 2.5.2 Strukturelemente ................................................................................................................. 12
-
 - 2.5.3 Sonstige Symbole ................................................................................................................ 12
-
 - **3 EHD  ELEMENT (ROOT-ELEMENT)**
-
 - **13**
-
 - **4 HEADER**
-
 - **14**
-
 - **4.1 id (Identifikator) ........................................................................................................................... 15**
-
 - **4.2 version_nbr (Lieferungsnummer) .............................................................................................. 15**
-
 - **4.3 document_type_cd (Dokumentart) ............................................................................................ 16**
-
 - **4.4 service_tmr (Gültigkeit) .............................................................................................................. 16**
-
 - **4.5 origination_dttm (Erstellungsdatum) ........................................................................................ 17**
-
 - **4.6 intended_recipient (Zielgruppe)................................................................................................. 17**
-
 - 4.6.1 organization ......................................................................................................................... 18
-
 - *4.6.1.1 organization.nm .................................................................................................... 18*
-
 - **4.7 originator (Urheber) .................................................................................................................... 19**
-
 - 4.7.1 organization ......................................................................................................................... 19
-
 - *4.7.1.1 id (Identifikator) ..................................................................................................... 20*
-
 - *4.7.1.2 organization.nm (organisationsname) .................................................................. 20*
-
 - *4.7.1.3 addr (Adresse) ...................................................................................................... 21*
-
 - *4.7.1.4 telecom ................................................................................................................. 22*
-
 - **4.8 provider (Lieferant/Sender) ........................................................................................................ 22**
-
 - 4.8.1 person .................................................................................................................................. 23
-
 - *4.8.1.1 id (Personenidentifikator) ...................................................................................... 24*
-
 - *4.8.1.2 person_name ........................................................................................................ 24*
-
 - 4.8.2 addr (Adresse) ..................................................................................................................... 26
 
 
 ---
 
 - 4.8.3 telecom ................................................................................................................................ 26
-
 - 4.8.4 local_header (lokale Erweiterungen) ................................................................................... 26
-
 - *4.8.4.1 fachgruppenbezeichnung (Fachgruppenbezeichnung) ........................................ 27*
-
 - 4.8.5 organization (Betriebsstätte) ................................................................................................ 27
-
 - **4.9 interface (Schnittstellenversion) ............................................................................................... 28**
-
 - **5 BODY (INHALTSDATEN)**
-
 - **29**
-
-- **5.1 fall_statistik (Gesamtaufstellung) ...............................................................................................31**
-
+- **5.1 fall_statistik (Gesamtaufstellung) ............................................................................................... 31**
 - 5.1.1 titel ........................................................................................................................................32
-
-- 5.1.2 text_liste ................................................................................................................................33
-
-- *5.1.2.1 text .........................................................................................................................33*
-
-- 5.1.3 anzahl_gkv ............................................................................................................................34
-
-- 5.1.4 anzahl_skt .............................................................................................................................34
-
-- 5.1.5 anzahl_kov ............................................................................................................................34
-
-- 5.1.6 anzahl_gesamt .....................................................................................................................34
-
+- 5.1.2 text_liste ................................................................................................................................ 33
+- *5.1.2.1 text ......................................................................................................................... 33*
+- 5.1.3 anzahl_gkv ............................................................................................................................ 34
+- 5.1.4 anzahl_skt ............................................................................................................................. 34
+- 5.1.5 anzahl_kov ............................................................................................................................ 34
+- 5.1.6 anzahl_gesamt ..................................................................................................................... 34
 - **5.2 vertretungszeit_liste (Dokumentation der Vertretungszeiten) .................................................35**
-
 - 5.2.1 bool_komplex (Entscheidungsbaum - komplex) ...................................................................36
-
-- *5.2.1.1 komplex..................................................................................................................37*
-
-- **5.3 schliesszeit_liste (Dokumentation der Schließzeiten) ..............................................................42**
-
+- *5.2.1.1 komplex.................................................................................................................. 37*
+- **5.3 schliesszeit_liste (Dokumentation der Schließzeiten) .............................................................. 42**
 - **5.4 org_notdienstzeit_liste (Dokumentation der Teilnahme am organisierten Notfalldienst)... 44**
-
 - **5.5 assistent_liste (Dokumentation zur Assistententätigkeit) .......................................................45**
-
 - **5.6 angestellter_arzt_liste (Dokumentation zur Beschäftigung eines angestellten Arztes) .......47**
-
 - **5.7 praxisgemeinschaft_liste (Dokumentation einer Praxisgemeinschaft) ..................................48**
-
 - **5.8 bestaetigungen (Rechtsverbindliche Erklärungen) ..................................................................49**
-
-- 5.8.1 abrechnung_erklaerung (Erklärung zur Abrechnung) ..........................................................50
-
-- *5.8.1.1 bool_einfach (Entscheidungsbaum - einfach) .......................................................51*
-
+- 5.8.1 abrechnung_erklaerung (Erklärung zur Abrechnung) .......................................................... 50
+- *5.8.1.1 bool_einfach (Entscheidungsbaum - einfach) ....................................................... 51*
 - 5.8.2 ueberweisungsscheine (Erklärung zur Abrechnung von Überweisungsscheinen) ...............52
-
 - 5.8.3 abrechnung_edv (Erklärung zur EDV-gestützten Abrechnung) ...........................................53
-
 - *5.8.3.1 bool_software (Entscheidungsbaum - Softwareeinsatz) .......................................54*
-
 - 5.8.4 abrechnung_allgemeinlabor (Erklärung zum Allgemeinlabor) ..............................................56
-
 - *5.8.4.1 bool_labor (Entscheidungsbaum - Allgemeinlabor) ...............................................57*
-
-- 5.8.5 avwg_erklaerung (Erklärung zum Einsatz einer AVS)..........................................................58
-
+- 5.8.5 avwg_erklaerung (Erklärung zum Einsatz einer AVS).......................................................... 58
 - *5.8.5.1 bool_software (Entscheidungsbaum - Softwareeinsatz) .......................................60*
-
 - **5.9 ankreuzfeld_liste (Generische Bestätigung) .............................................................................60**
-
 - 5.9.1 Beispiel für eine generische Bestätigung mit hoher Komplexität ..........................................62
-
 - **5.10 xslt_hash .......................................................................................................................................64**
 
 
 ---
 
-| **I N H A** | **L T S V E R** | **Z E I C H N I S** |
+| I N H A | L T S V E R | Z E I C H N I S |
 |---|---|---|
 | **6** | **QUELLENVERWEISE** |  |
 | Schnittstellenbeschreibung | | Elektronische Sammelerklärung (eSE) |
@@ -342,7 +246,7 @@ Abbildung 55: xslt_hash ........................................................
 
 ---
 
-| Tabelle 1:  .............................. 12 | Tabelle 2:  ............................................. 12 | Tabelle 3:  .............................................................. 13 | Tabelle 4  ..................................................................... 22 | Tabelle 5:  ...................................................................... 39 **T A B E L L E N V E R Z E I C H N I S** | Tabelle 6:  ............................................................. 41 |
+| Tabelle 1:  .............................. | Tabelle 2:  ............................................. | Tabelle 3:  .............................................................. | Tabelle 4  ..................................................................... | Tabelle 5:  ......................................................................  T A B E L L E N V E R Z E I C H N I S | Tabelle 6:  ............................................................. |
 |---|---|---|---|---|---|
 |  |  | **T A B E L L E N V E R Z E I C H N I S** |  |  |  |
 |  |  |  |  |  |  |
@@ -351,18 +255,18 @@ Abbildung 55: xslt_hash ........................................................
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 
-Beschreibung der Kardinalitäten eines XML-Elements Beschreibung der Strukturelement-Symbole Beschreibung sonstiger Symbole Erläuterungen zu <telecom> Ausprägungen von <grund> Ausprägungen von <function_cd>
+Beschreibung der Kardinalitäten eines XML-Elements 12 Beschreibung der Strukturelement-Symbole 12 Beschreibung sonstiger Symbole 13 Erläuterungen zu <telecom> 22 Ausprägungen von <grund> 39 Ausprägungen von <function_cd> 41
 
 ---
 
-| ........................................................................................................... 13  XML-Code 2: | ............................................................................................................... 15  XML-Code 3: | ............................................................................................... 15  XML-Code 4: | ............................................................................................... 16  XML-Code 5: | ............................................................................................... 16  XML-Code 6:  18 | 17  XML-Code 7: |
+| ...........................................................................................................    XML-Code 2: | ...............................................................................................................    XML-Code 3: | ...............................................................................................    XML-Code 4: | ...............................................................................................    XML-Code 5: | ...............................................................................................    XML-Code 6: | ........................................................................................    XML-Code 7: |
 |---|---|---|---|---|---|
-| 17  XML-Code 8: | .............................................................................................. | 18 | **X M L - C O D E - V E R Z E I C H N I S ** XML-Code 9: |  | 18  XML-Code 10: |
-| 19  XML-Code 11: | .............................................................................................. | 19 |  | XML-Code 12: | ............................................................................................................... |
-| XML-Code 13: | 20 |  | XML-Code 14: |  | 21 |
-| XML-Code 15:  ..................................................................................................... 22 |  | XML-Code 16: | ..................................................................................................... | 23 |  |
-| ....................................................................................................... 24  XML-Code 18: | ....................................................................................................... | 24 | XML-Code 19: | ............................................................................................ 25 |  |
-| ............................................................................................................. 26 | XML-Code 21: |  | 26 |  | XML-Code 22: |
+| .....................    XML-Code 8: | .............................................................................................. |  | **X M L -** **C O D E -** **V E R Z E I C H N I S**  XML-Code 9: | ........................................................................................ | XML-Code 10: |
+| ...    XML-Code 11: | .............................................................................................. |  |  | XML-Code 12: | ............................................................................................................... |
+| XML-Code 13:  ........................................................................................ |  |  | XML-Code 14: | ................................................................................................ | .......... |
+| XML-Code 15:  ..................................................................................................... |  | XML-Code 16: | ................................................................................................ | ..... |  |
+| .......................................................................................................    XML-Code 18: | ................................................................................................ | ....... | XML-Code 19: | ............................................................................................ |  |
+| ............................................................................................................. | XML-Code 21: | ................................ | ....... |  | XML-Code 22: |
 
 XML-Code 23:
 
@@ -396,25 +300,25 @@ XML-Code 37:
 
 organization ..............................................................................................
 
-body ..........................................................................................................
+body ................................................................................................
 
 fall_statistik ...............................................................................................
 
-titel ............................................................................................................
+titel ................................................................................................
 
-text_liste....................................................................................................
+text_liste................................................................................................
 
 text ............................................................................................................
 
-vertretungszeit_liste ..................................................................................
+vertretungszeit_liste ................................................................
 
 bool_komplex ............................................................................................
 
 Verzweigung „true“ im Entscheidungsbaum
 
-komplex ....................................................................................................
+komplex ................................................................................................
 
-grund ........................................................................................................
+grund ................................................................................................
 
 zeitraum_tmr .............................................................................................
 
@@ -426,23 +330,23 @@ person (lokaler Typ) ...........................................................
 
 28
 
-30
+.......... 30
 
 31
 
-33
+............ 33
+
+.... 33
 
 33
 
-33
+.................. 36
 
 36
 
-36
+- komplex .............................. 37 .... 38
 
-- komplex .............................. 37 38
-
-38
+........ 38
 
 39
 
@@ -450,7 +354,7 @@ person (lokaler Typ) ...........................................................
 
 41
 
-XML-Code 1: XML-Code 17: XML-Code 20: /ehd id version_nbr version_nbr service_tmr origination_dttm ........................................................................................ intended_recipient organization organization.nm ........................................................................................ originator organization id organization.nm ........................................................................................ addr .......................................................................................................... telecom provider person person person_name nm local_header mit einem beliebigen Kindelement ....................................... organization (Betriebsstätte) ..................................................................... 27 42
+XML-Code 1: XML-Code 17: XML-Code 20: /ehd id version_nbr version_nbr service_tmr origination_dttm intended_recipient organization organization.nm originator organization id organization.nm addr telecom provider person person person_name nm local_header mit einem beliebigen Kindelement organization (Betriebsstätte) 17 17 20 20 23 24 24 25 26 26 2742
 
 
 ---
@@ -496,9 +400,7 @@ Ziel der folgenden Schnittstelle ist es, die papiergebundenen Sammelerklärungen
 
 Im Fokus stand dabei nicht nur die rein papierlose Übertragung, sondern gleichzeitig die mög -  lichst strukturierte Erfassung der Inhalte, um eine weitgehend maschinelle Verarbeitung in der  KV zu ermöglichen.
 
-Aufgrund der Vielschichtigkeit der Anforderungen als auch der Randbedingung, jederzeit neue  Sachverhalte abbilden zu müssen, ist vielfach auf generische Strukturen zurückgegriffen wor-  den. In deren Konsequenz ist der jeweilige Kontext im Einzelfall nur unter Berücksichtigung der  jeweilig vorhandenen Meta -Informationen ableitbar. Im Gegenzug ist die Schnittstelle da robuster gegenüber neuen Anforderungen, da sie innerhalb eines bestimmten Rahmens flexibel
-
-neue Anforderungen aufnehmen kann.
+Aufgrund der Vielschichtigkeit der Anforderungen als auch der Randbedingung, jederzeit neue  Sachverhalte abbilden zu müssen, ist vielfach auf generische Strukturen zurückgegriffen wor-  den. In deren Konsequenz ist der jeweilige Kontext im Einzelfall nur unter Berücksichtigung der  jeweilig vorhandenen Meta -Informationen ableitbar. Im Gegenzug ist die Schnittstelle da robuster gegenüber neuen Anforderungen, da sie innerhalb eines bestimmten Rahmens flexibel  neue Anforderungen aufnehmen kann.
 
 - für
 
@@ -543,39 +445,23 @@ vv.vv ......... VersionsNr. der Datentypbeschreibung;
 
 Entspricht dem Element *<version>* des Header-Elements *<interface>*
 
-sender ...... Absender der Lieferung (initial die KV-Nummer); nach Bearbeitung durch die
-
-Arztpraxis die Betriebsstättennummer der Arztpraxis
+sender ...... Absender der Lieferung (initial die KV-Nummer); nach Bearbeitung durch die  Arztpraxis die Betriebsstättennummer der Arztpraxis
 
 Entspricht dem Element *<organization>* des Header-Elements *<provider>*
 
-re+ …………. receiver - (optionaler Namepart) Empfänger der Lieferung, falls die Lieferung für
+re+ …………. receiver - (optionaler Namepart) Empfänger der Lieferung, falls die Lieferung für  einen eingeschränkten Empfängerkreis vorgesehen ist.
 
-einen eingeschränkten Empfängerkreis vorgesehen ist.
+empfänger…. Schränkt die Sammelerklärung für einen speziellen Empfängerkreis (Arzt, Er mächtigte, Krankenhäuser) ein; entspricht dem Element Element ***<organization>***  des Header-Elements ***<intended_recipient>***
 
-empfänger…. Schränkt die Sammelerklärung für einen speziellen Empfängerkreis (Arzt, Er
+tf+..………… timeframe (YYYYqQ); Angabe von Jahr und Quartal, für das die Sammelerklä-  rungs(-vorlage) gültig ist.
 
-mächtigte, Krankenhäuser) ein; entspricht dem Element Element ***<organization>***
-
-des Header-Elements ***<intended_recipient>***
-
-tf+..………… timeframe (YYYYqQ); Angabe von Jahr und Quartal, für das die Sammelerklä-
-
-rungs(-vorlage) gültig ist.
-
-YYYY ........ Jahr
-
-q ............... fix
+YYYY ........ Jahr  q ............... fix
 
 Q .............. Quartal (1-4)
 
-nr+ ............ number  optional die Nummer der Lieferung, falls zu einem Zeitraum mehrere
+nr+ ............ number  optional die Nummer der Lieferung, falls zu einem Zeitraum mehrere  Lieferungen erfolgen
 
-Lieferungen erfolgen
-
-du+ ............ dummy  optionaler Platzhalter z.B. für Tests, kann auch mehrmals verwendet
-
-werden
+du+ ............ dummy  optionaler Platzhalter z.B. für Tests, kann auch mehrmals verwendet  werden
 
 Beispiel Vorlagedatei der KV:
 
@@ -587,15 +473,13 @@ ese_01.10_123456789_tf+2010q3_nr+1.xml
 
 ## 2.5 Semantik der verwendeten Diagrammsymbole
 
-Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, deren
-
-Symbole in den folgenden Kapiteln kurz erläutert werden.
+Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, deren  Symbole in den folgenden Kapiteln kurz erläutert werden.
 
 ### 2.5.1 Kardinalität
 
 Es existieren verschiedene Kardinalitäten:
 
-| **Kardinalität** | **Symbol** | **Beschreibung** |
+| Kardinalität | Symbol | Beschreibung |
 |---|---|---|
 | 0..1 |  | **Optionale Elemente ** Ein optionales Element wird als Rechteck mit gestri- |
 
@@ -603,7 +487,7 @@ chelter Linie dargestellt. Es kann keinmal oder einmal vorkommen.
 
 ---
 
-| 1 |  | **Obligatorische Elemente ** Elemente, welche als Rechteck mit durchgezogener |
+| 1 |  | Obligatorische Elemente  Elemente, welche als Rechteck mit durchgezogener |
 |---|---|---|
 | n...m |  | **Mehrfache Elemente ** Bei Elementen, welche mehrfach vorkommen kön- |
 
@@ -617,7 +501,7 @@ Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mit
 
 ***<xs:choice>***
 
-| **Symbol** | **Beschreibung** |
+| Symbol | Beschreibung |
 |---|---|
 |  | Das Strukturelement |
 |  | Das Strukturelement |
@@ -630,7 +514,7 @@ Beschreibung der Strukturelement-Symbole
 
 Es werden außerdem folgende Diagramm-Symbole verwendet:
 
-| **Symbol** | **Beschreibung** |
+| Symbol | Beschreibung |
 |---|---|
 |  | **Element mit Kindelementen ** Ein Element mit einem oder mehreren Kindelementen wird durch ein |
 |  | **Referenzelement ** Der Pfeil links unten im Element zeigt an, dass das Element an ande |
@@ -640,7 +524,7 @@ Linie dargestellt sind, müssen genau einmal vorkom men. nen, wird die erlaubte 
 
 ---
 
-| **Symbol** | **Beschreibung** |
+| Symbol | Beschreibung |
 |---|---|
 |  | **Gruppenelement ** Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement |
 
@@ -664,7 +548,7 @@ Das ***<ehd>*** - Element hat folgenden Aufbau:
 
 **<?xml version="1.0" encoding="ISO-8859-15"?>**
 
-**<ehd:ehd xmlns="urn:ehd/001"** xmlns="urn:ehd/ega/001" xmlns:xsi="[http://www.w3.org/2001/XMLSchema](http://www.w3.org/2001/XMLSchema)
+**<ehd:ehd xmlns="urn:ehd/001"** [xmlns="urn:ehd/ega/001" xmlns:xsi="](http://www.w3.org/2001/XMLSchema-instance)[http://www.w3.org/2001/XMLSchema](http://www.w3.org/2001/XMLSchema-instance)
 
 **ehd_version="...">**
 
@@ -688,9 +572,7 @@ ehd_version: Im XML-File wird die Versionsnummer zur zugrundeliegenden ehd bzw. 
 
 Um die Aufwärtskompatibilität zu gewährleisten, wird kein fester Wert für die  Version vorgegeben.
 
-***<header>*** Der Header ist ein Pflichtelement, hier befinden sich die Metadaten zu den im
-
-body liegenden eigentlichen Inhaltsdaten.
+***<header>*** Der Header ist ein Pflichtelement, hier befinden sich die Metadaten zu den im  body liegenden eigentlichen Inhaltsdaten.
 
 ***<body>***
 
@@ -698,9 +580,7 @@ Hier werden die Bewegungsdaten abgebildet
 
 Der Namensraum für die ehd-Schnittstelle ist zwingend vorgeschrieben:„
 
--instance"
-
--Richtlinie
+[-instance](http://www.w3.org/2001/XMLSchema-instance) -Richtlinie
 
 dar, welches mehrere Elemente zusammenfasst.***urn:ehd/001***
 
@@ -736,9 +616,7 @@ Definiert die jeweilige Dokumentart (fix: eSE).
 
 ***<origination_dttm>*** Gibt das Erstellungsdatum des Dokumentes an.
 
-***<intended_recipient>*** Angabe eines bestimmten Empfängerkreises; insbesondere relevant,
-
-wenn Datenlieferung über Zwischenstationen
+***<intended_recipient>*** Angabe eines bestimmten Empfängerkreises; insbesondere relevant,  wenn Datenlieferung über Zwischenstationen
 
 ***<originator>*** Urheber des Dokuments (Standard: KV)
 
@@ -799,9 +677,7 @@ Version
 
 ## 4.3 document_type_cd (Dokumentart)
 
-Das Element <document_type_cd > gibt des Dokumenttyp dieser Schnittstelle an. Im V-
-
-Attribut ist zwingend das Kürzel „ese“ anzugeben.
+Das Element <document_type_cd > gibt des Dokumenttyp dieser Schnittstelle an. Im V-  Attribut ist zwingend das Kürzel „ese“ anzugeben.
 
 Alle weiteren Attribute sind optional.
 
@@ -815,7 +691,7 @@ Der XML-Code für das Element <document_type_cd> hat folgenden Aufbau:
 
 V Dokumenttyp: ese
 
-S optional: OID der Schlüsseltabelle mit allen Dokumenttypen-Definitionen (1.2.276.0.76.5.100)
+S optional: OID der Schlüsseltabelle mit allen Dokumenttypen-Definitionen  (1.2.276.0.76.5.100)
 
 DN optional: Dokumenttyp im Klartext
 
@@ -835,9 +711,7 @@ Der XML-Code für das Element <service_tmr> hat folgenden Aufbau:
 
 **XML-Code 5:** service_tmr
 
-V: hier wird der Gültigkeitszeitraum z.B. im Format „YYYY-MM-DD..YYYY-MM-DD“ ange
-
-geben.
+V: hier wird der Gültigkeitszeitraum z.B. im Format „YYYY-MM-DD..YYYY-MM-DD“ ange  geben.
 
 Das erste Datum steht dabei für den Anfang, das zweite Datum für das Ende des Gül  tigkeitszeitraums.
 
@@ -948,9 +822,7 @@ In Kassenärztlichen Vereinigungen, in denen keine Unterscheidung für die betre
 
 ## 4.7 originator (Urheber)
 
-Das Element <originator> beinhaltet Informationen zum Urheber des Dokuments. Da die initia-
-
-len Vorlagedateien von den Kassenärztlichen Vereinigungen zur Verfügung gestellt werden, ist  unter dieser Struktur stets die verantwortliche KV anzugeben.
+Das Element <originator> beinhaltet Informationen zum Urheber des Dokuments. Da die initia-  len Vorlagedateien von den Kassenärztlichen Vereinigungen zur Verfügung gestellt werden, ist  unter dieser Struktur stets die verantwortliche KV anzugeben.
 
 **Abbildung 11: originator**
 
@@ -1043,7 +915,7 @@ Der XML-Code für das Element <organization.nm> hat folgenden Aufbau:
 
 V Name der Organisationseinheit (Name der
 
-1  Siehe [http://www.kbv.de/keytabs/ita/schluesseltabellen.asp](http://www.kbv.de/keytabs/ita/schluesseltabellen.asp)
+1  [Siehe](http://www.kbv.de/keytabs/ita/schluesseltabellen.asp)[http://www.kbv.de/keytabs/ita/schluesseltabellen.asp](http://www.kbv.de/keytabs/ita/schluesseltabellen.asp)
 
 **organization.nm**
 
@@ -1051,14 +923,15 @@ organization.nm 1
 
 KV)
 
+```
+[](http://www.kbv.de/keytabs/ita/schluesseltabellen.asp)
+```
 
 ---
 
 ### 4.7.1.3 addr (Adresse)
 
-Das Element <addr> beinhaltet die Adressinformationen der KV. Die Angabe der Adressin-
-
-formation ist optional.
+Das Element <addr> beinhaltet die Adressinformationen der KV. Die Angabe der Adressin-  formation ist optional.
 
 **Abbildung 15: addr**
 
@@ -1117,7 +990,7 @@ V Kommunikationstyp mit Nummer/Adresse
 
 Die Präfixe sind gemäß folgender Tabelle definiert:
 
-| **Code** | **Erläuterung** | **Beispiel** |
+| Code | Erläuterung | Beispiel |
 |---|---|---|
 | tel | Telefon/Mobiltelefon | <telecom V="tel:(0221)4449-0" /> |
 | fax | Faxnummer | <telecom V="fax:(0221)4449-400"/> |
@@ -1309,9 +1182,7 @@ Zusatzname
 
 ***<PFX>***
 
-Präfix, führender Namenszusatz, wie z.B. „Dr. med“, und Adelsbezeichnungen,
-
-wie z.B. „Freiherr“ oder „von
+Präfix, führender Namenszusatz, wie z.B. „Dr. med“, und Adelsbezeichnungen,  wie z.B. „Freiherr“ oder „von
 
 ***<SFX>***
 
@@ -1323,11 +1194,11 @@ im Namen vorkommt. Ein Trennzeichen hat keine führenden und nachfolgen den Leer
 
 ### 4.8.2 addr (Adresse)
 
-Aufbau und Struktur des Elements <addr> sind identisch zu den Adressangaben zum Urheber  (siehe 4.7.1.3).
+Aufbau und Struktur des Elements <addr> sind identisch zu den Adressangaben zum Urheber  (siehe 4.7.1.3
 
 ### 4.8.3 telecom
 
-Aufbau und Struktur des Elements <telecom> sind identisch zu den Kontaktinformationen zum  Urheber (siehe 4.7.1.4).
+Aufbau und Struktur des Elements <telecom> sind identisch zu den Kontaktinformationen zum  Urheber (siehe 4.7.1.4
 
 ### 4.8.4 local_header (lokale Erweiterungen)
 
@@ -1456,9 +1327,7 @@ Version der Schnittstelle
 
 # 5 body (Inhaltsdaten)
 
-Das ***<body>*** Element beinhaltet die Bewegungsdaten der Sammelerklärung. Mit dem lokalen
-
-root-Element <ese_data> wird in den lokalen Namensraum „urn:ehd/ese/001“ gewechselt.
+Das ***<body>*** Element beinhaltet die Bewegungsdaten der Sammelerklärung. Mit dem lokalen  root-Element <ese_data> wird in den lokalen Namensraum „urn:ehd/ese/001“ gewechselt.
 
 Unterhalb des root-Elements sind die thematisch strukturierten Bereiche angesiedelt.
 
@@ -1521,7 +1390,7 @@ Der XML-Code für das Element <body> hat folgenden Aufbau:
 
 Sammelelement für strukturierte Bewegungsdaten
 
-Die Bewegungsdaten werden in thematisch zusammengefasste Bereiche kategorisiert. Die  Anforderungen der KVen sind in der Regel äußerst heterogen, sodass fast alle Bereiche opti -  onal definiert sind.
+Die Bewegungsdaten werden in thematisch zusammengefasste Bereiche kategorisiert. Die  Anforderungen der KVen sind in der Regel äußerst het erogen, sodass fast alle Bereiche opti -  onal definiert sind.
 
 ***<fall_statistik>***
 
@@ -1606,7 +1475,7 @@ Der XML-Code für das Element <fall_statistik> hat folgenden beispielhaften Aufb
 
 **<text V="Ersatz- und Primärkassen"/>**
 
-**<text V="Sonstiger Kostenträger (Polizei, Bundeswehr, Zivildienst, Bundespolizei, SHT), Postbeamte A, Entschädi-**
+**<text V="Sonstiger Kostenträger (Polizei, Bundeswehr, Zivildienst, Bundespolizei, SHT), Postbeamte A, Ent schädi-**
 
 **gungsamt Berlin"/>**
 
@@ -1659,9 +1528,7 @@ Quelle: Sammelerklärung KVNO, Stand 2009
 
 ### 5.1.1 titel
 
-Das Element <titel> ist eine Meta-Information und gibt den zu bestätigenden Sachverhalt grob
-
-wieder.
+Das Element <titel> ist eine Meta-Information und gibt den zu bestätigenden Sachverhalt grob  wieder.
 
 **Abbildung 27: titel**
 
@@ -1690,7 +1557,7 @@ Der XML-Code für das Element <text_liste> hat folgenden Aufbau:
 
 **<text V="KOV-Bundesbehandlung (BVG/BEG), Auslandsabkommen, Grenzgänger, Rheinschiffer "/>**
 
-**<text V="Sonstiger Kostenträger (Polizei, Bundeswehr, Zivildienst, Bundespolizei, SHT), Postbeamte A, Entschädigungsamt**
+**<text V="Sonstiger Kostenträger (Polizei, Bundeswehr, Zivildienst, Bundespolizei, SHT), Po stbeamte A, Entschädigungsamt**
 
 **Berlin"/>**
 
@@ -1742,9 +1609,7 @@ e Struktur angeboten, unter der es möglich
 
 **Abbildung 30:**
 
-Die Struktur <bool_komplex> beinhaltet abhängig von der jeweiligen Logik weitere Struktu
-
-relemente.
+Die Struktur <bool_komplex> beinhaltet abhängig von der jeweiligen Logik weitere Struktu relemente.
 
 Im nachfolgenden Code-Beispiel wird die gesamte Struktur beispielhaft dargestellt:
 
@@ -1890,7 +1755,7 @@ chkeit
 
 Das Element <false> ist ein Zweig des Entscheidungsbaumes und beinhaltet keine weiteren  Felder. Im übertragenen Sinne bedeutet dies, dass der jeweilige Sachverhalt nicht zutreffend  ist bzw. abgelehnt wird.
 
-Das Element <true> ist ein weiterer Zweig des Entscheidungsbaumes, an dem weitere Infor mationsfelder geknüpft sind. In der nächsten Hierarchie -Ebene ist ein Klammerelement <zeit -  raum> (n-fach) definiert, welches jeweils einen konkreten Zeitraum mit weiteren Abhängigkei-  ten aufnehmen kann.
+Das Element <true> ist ein weiterer Zweig des Entscheidungsbaumes, an dem weitere Infor mationsfelder geknüpft sind. In der nächsten Hierarchie -Ebene ist ein Klammerelement <zeit -  raum> (n-fach) definiert, welches jeweils einen konkreten Zeitraum mit weite ren Abhängigkei-  ten aufnehmen kann.
 
 **Abbildung 32: Verzweigung im Entscheidungsbaum „true“**
 
@@ -1939,9 +1804,7 @@ Angabe eines Grundes für den im Kontext stehenden Zeitraum
 
 ***<provider>***
 
-Lokal eingeschränkter Provider-Typ zur Identifizierung von Betriebsstät-
-
-ten und Ärzten
+Lokal eingeschränkter Provider-Typ zur Identifizierung von Betriebsstät-  ten und Ärzten
 
 #### 5.2.1.1.1 grund
 
@@ -2050,7 +1913,9 @@ Im Beispiel-Code wird ein Arzt in der Rolle eines Vertreters definiert:
 
 Identifikation als Arzt
 
-***<organization>*** Identifikation als Betriebsstätte - *5.2.1.1.3.1 function_cd*
+***<organization>*** Identifikation als Betriebsstätte
+
+- *5.2.1.1.3.1 function_cd*
 
 Das Element <function_cd> beschreibt die Rolle der jeweiligen Person und/oder Organisation.  Im Rahmen der Dokumentation der Vertretungszeiten kann es KV-spezifisch erforderlich sein,  dass nicht nur der vertretende Arzt (=Standard) dokumentiert wird, sondern auch derjenige, der  vertreten wurde.
 
@@ -2091,9 +1956,7 @@ Als repräsentativer XML-Code dient folgendes Beispiel:
 
 - *5.2.1.1.3.2 person (lokal)*
 
-Das Element <person> ist vom ehd-Typ soweit für die lokale Verwendung eingeschränkt wor
-
-delnden Arzt; spiegelt im aktuellen Kontext den Arzt wieder, der vertre- ten wurde (Default) -Arzt den, wie es für die Identifizierung einer Person als Arzt notwendig und sinnvoll ist.
+delnden Arzt; spiegelt im aktuellen Kontext den Arzt wieder, der vertre- ten wurde (Default) -Arzt Das Element <person> ist vom ehd-Typ soweit für die lokale Verwendung eingeschränkt wor den, wie es für die Identifizierung einer Person als Arzt notwendig und sinnvoll ist.
 
 
 ---
@@ -2132,9 +1995,7 @@ Identifikation der Person mittels ID (LANR)
 
 - 5.2.1.1.3.2.1 id (lokaler Typ)
 
-Das lokale Element <id> ist vorgesehen, um eine Person eindeutig mittels LANR als Arzt iden tifizieren zu können. Das RT-Attribut beinhaltet eine fixe OID, welche das EX-Attribut als LANR
-
-definiert.
+Das lokale Element <id> ist vorgesehen, um eine Person eindeutig mittels LANR als Arzt iden tifizieren zu können. Das RT-Attribut beinhaltet eine fixe OID, welche das EX-Attribut als LANR  definiert.
 
 Folgende Attribute sind erlaubt:
 
@@ -2146,7 +2007,7 @@ RTV Version (kann entfallen)
 
 - *5.2.1.1.3.2.1.1 person_name*
 
-Beschreibung der Namensbestandteile einer Person. Die genaue Beschreibung als auch Kin delemente siehe 4.8.1.2.
+Beschreibung der Namensbestandteile einer Person. Die genaue Beschreibung als auch Kin delemente siehe 4.8.1.2
 
 - *5.2.1.1.3.2.1.2 organization.nm*
 
@@ -2154,7 +2015,7 @@ Mittels Element <organization.nm> kann zu der Person eine Organisationseinheit a
 
 ## 5.3 schliesszeit_liste (Dokumentation der Schließzeiten)
 
-Das Element <schliesszeiten_liste> ist strukturell wie die <vertretungszeiten_liste> aufgebaut,  bildet aber einen anderen Kontext ab. Anstatt der Vertretungszeiten sind mit dieser Regel die  Schließzeiten der Praxis zu dokumentieren, weshalb unter dem <bool_komplex> wiederum  mehrere Zeiträume mit dem jeweiligen Grund der Schließung und/oder mit dem jeweiligen  Provider kombiniert werden können. Die Verwendung des Providers ist nur dann notwendig,  wenn die Schließzeiten personen- und/oder betriebsstättenbezogen dokumentiert werden  sollen. Für die Dokumentation des Elements <bool_komplex> sei auf Kapitel 5.2.1 ff. verwie-  sen.
+Das Element <schliesszeiten_liste> ist strukturell wie die <vertretungszeiten_liste> aufgebaut,  bildet aber einen anderen Kontext ab. Anstatt der Vertretungszeiten sind mit dieser Regel die  Schließzeiten der Praxis zu dokumentieren, weshalb unter dem <bool_komplex> wiederum  mehrere Zeiträume mit dem jeweiligen Grund der Schließung und/oder mit dem jeweiligen  Provider kombiniert werden können. Die Verwendung des Providers ist nur dann notwendig,  wenn die Schließzeiten personen- und/oder betriebsstättenbezogen dokumentiert werden  sollen. Für die Dokumentation des Elemen ts <bool_komplex> sei auf Kapitel 5.2.1 ff. verwie-  sen.
 
 
 ---
@@ -2171,9 +2032,7 @@ Der XML-Code für das Element <schliesszeit_liste> hat folgenden beispielhaften 
 
 **<text V="3. Nichtausübung der Praxistätigkeit"/>**
 
-**<text V="Ich/Wir habe(n) meine/unsere Praxistätigkeit wegen Krankheit, Urlaub, Fortbildung, Schwangerschaft,**
-
-**Entbindung, Elternzeit, oder Wehrübung nicht ausgeübt: "/>**
+**<text V="Ich/Wir habe(n) meine/unsere Praxistätigkeit wegen Krankheit, Urlaub, Fortbildun g, Schwangerschaft,**  **Entbindung, Elternzeit, oder Wehrübung nicht ausgeübt: "/>**
 
 **</text_liste>**
 
@@ -2246,9 +2105,7 @@ Der XML-Code für das Element <org_notdienstzeit_liste> könnte folgendermaßen 
 
 **<text V="Ich versichere/Wir versichern, "/>**
 
-**<text V="abgerechneten Leistungen selbst oder durch einen Vertreter als Leistungen im organisierten Notfalldienst**
-
-**in eigener Praxis bzw. in einer von KVNo und ÄKNo genehmigten Notfallpraxis erbracht zu haben."/>**
+**<text V="abgerechneten Leistungen selbst oder durch einen Vertreter als Leistungen im organisierten Notfalldienst**  **in eigener Praxis bzw. in einer von KVNo und ÄKNo genehmigten Notfallpraxis erbracht zu haben."/>**
 
 **</text_liste>**
 
@@ -2365,15 +2222,11 @@ Quelle: Sammelerklärung KVWL, Stand 2010
 
 ---
 
-## 5.6 angestellter_arzt_liste (Dokumentation zur Beschäftigung eines
-
-## angestellten Arztes)
+## 5.6 angestellter_arzt_liste (Dokumentation zur Beschäftigung eines  angestellten Arztes)
 
 Das Element <angestellter_arzt_liste> ist strukturell wie die <vertretungszeiten_liste> aufge-  baut, bildet aber einen anderen Kontext ab. Anstatt der Vertretungszeiten sind mit dieser Re gel die Zeiträume zu dokumentieren, bei denen ein angestellter Arzt beschäftigt wurde. Unter  dem <bool_komplex> sind die jeweiligen Zeiträume personenbezogen anzugeben, d.h. die  Angabe des Providers/person ist in diesem Sachzusammenhang zwingend erforderlich und  kennzeichnet den angestellten Arzt.
 
-Die Angabe des optionalen Feldes <grund> ist in diesem Zusammenhang nicht relevant. So fern die Tätigkeit des angestellten Arztes auf bestimmte Betriebstätten beschränkt ist, kann der  <provider> zusätzlich zu <person> um die Struktur <organization> ergänzt werden. Für nähere
-
-Informationen zur Struktur <bool_komplex> sei auf Kapitel 5.2.1 ff. verwiesen.
+Die Angabe des optionalen Feldes <grund> ist in diesem Zusammenhang nicht relevant. So fern die Tätigkeit des angestellten Arztes auf bestimmte Betriebstätten beschränkt ist, kann der  <provider> zusätzlich zu <person> um die Struktur <organization> ergänzt werden. Für nähere  Informationen zur Struktur <bool_komplex> sei auf Kapitel 5.2.1 ff. verwiesen.
 
 **Abbildung 41: angestellter_arzt_liste**
 
@@ -2436,11 +2289,7 @@ Der XML-Code für das Element <angesteller_arzt_liste> könnte folgendermaßen a
 
 ## 5.7 praxisgemeinschaft_liste (Dokumentation einer Praxisgemein schaft)
 
-Das Element <praxisgemeinschaft_liste> ist strukturell wie die <vertretungszeiten_liste> auf-  gebaut, bildet aber einen anderen Kontext ab. Anstatt der Vertretungszeiten sind mit dieser  Regel evtl. vorhandene Praxisgemeinschaften zu dokumentieren. Da selbst die Praxisge-  meinschaften einer gewissen Dynamik unterworfen sein können, sodass diese innerhalb eines
-
-Quartals differieren können, wurde wiederum der gleiche Typ (bool_komplex_typ) ver- wendet,
-
-der es erlaubt, mehrere Zeiträume und daran gekoppelt die jeweils geltenden Praxis-  gemeinschaften definieren zu können. Standardmäßig ist davon auszugehen, dass die Kons -  tellation einer Praxisgemeinschaft über einen längeren Zeitraum konstant bleibt, sodass der  Gültigkeitszeitraum /bool_komplex/true/zeitraum/zeitraum_tmr defaultmäßig mit dem jeweili-  gen Quartal vorbelegt sein kann. Unter /bool_komplex/true/zeitraum/provider sind die jeweilige  Praxisgemeinschaft mit <organization> und ggf. die in der Praxisgemeinschaft tätigen Ärzte  über die Struktur <person> zu spezifizieren. Die Angabe des optionalen Feldes <grund> ist in  diesem Zusammenhang nicht relevant. Für nähere Informationen zur Struktur
+Das Element <praxisgemeinschaft_liste> ist strukturell wie die <vertretungszeiten_liste> auf-  gebaut, bildet aber einen anderen Kontext ab. Anstatt der Vertretungszeiten sind mit dieser  Regel evtl. vorhandene Praxisgemeinschaften zu dokumentieren. Da selbst die Praxisge-  meinschaften einer gewissen Dynamik unterworfen sein können, sodass diese innerhalb eines  Quartals differieren können, wurde wiederum der gleiche Typ (bool_komplex_typ) ver- wendet,  der es erlaubt, mehrere Zeiträume und daran gekoppelt die jeweils geltenden Praxis-  gemeinschaften definieren zu können. Standardmäßig ist davon auszugehen, dass die Kons -  tellation einer Praxisgemeinschaft über einen längeren Zeitraum konstant bleibt, sodass der  Gültigkeitszeitraum /bool_komplex/true/zeitraum/zeitraum_tmr defaultmäßig mit dem jeweili-  gen Quartal vorbelegt sein kann. Unter /bool_komplex/true/zeitraum/provider sind die jeweilige  Praxisgemeinschaft mit <organization> und ggf. die in der Praxisgemeinschaft tätigen Ärzte  über die Struktur <person> zu spezifizieren. Die Angabe des optionalen Feldes <grund> ist in  diesem Zusammenhang nicht relevant. Für nähere Informationen zur Struktur
 
 <bool_komplex> sei auf Kapitel 5.2.1 ff. verwiesen.
 
@@ -2554,9 +2403,7 @@ k der möglichen Erklärungen.
 
 Unter dem Element <abrechnung_erklaerung> bestätigt der Anwender, die Voraussetzungen  und die Vorgaben in Zusammenhang mit der elektronischen Abrechnung eingehalten zu ha ben.
 
-Der konkrete Wortlaut der Erklärung ist durch die Elemente <titel> und <text_liste> definiert. Die
-
-Bestätigung dieses Sachverhaltes erfolgt mittels dem Element <bool_einfach>; ein Ent-  scheidungsbaum, der in die Endpunkte <true> oder <false> verzweigt, um die Bestätigung oder  Ablehnung des Sachverhaltes durch den Anwender zu dokumentieren.
+Der konkrete Wortlaut der Erklärung ist durch die Elemente <titel> und <text_liste> definiert. Die  Bestätigung dieses Sachverhaltes erfolgt mittels dem Element <bool_einfach>; ein Ent-  scheidungsbaum, der in die Endpunkte <true> oder <false> verzweigt, um die Bestätigung oder  Ablehnung des Sachverhaltes durch den Anwender zu dokumentieren.
 
 **Abbildung 44: abrechnung_erklaerung**
 
@@ -2607,9 +2454,7 @@ Textuelle Beschreibung des zu erklärenden Sachverhaltes
 
 ***<bool_einfach>*** Einfacher Entscheidungsbaum zur Bestätigung oder Ablehnung der Er  klärung
 
-Für die Beschreibung der Elemente <titel> und <text_liste> sei auf Kapitel 5.1.1 und 5.1.2
-
-verwiesen.
+Für die Beschreibung der Elemente <titel> und <text_liste> sei auf Kapitel 5.1.1 und 5.1.2  verwiesen.
 
 Formularbeispiel:
 
@@ -2628,9 +2473,7 @@ Der Entscheidungsbaum gliedert sich in die Zweige <true > und <false>. Beide Ele
 
 ---
 
-Im Kontext wird diese Struktur verwendet, um bspw. ein Ankreuzfeld auf einem Formular zu
-
-realisieren.
+Im Kontext wird diese Struktur verwendet, um bspw. ein Ankreuzfeld auf einem Formular zu  realisieren.
 
 Der XML-Code für eine solche Struktur könnte folgendermaßen aussehen:
 
@@ -2658,13 +2501,9 @@ Der XML-Code für das Element <ueberweisungsscheine> könnte wie folgt aussehen:
 
 **<text_liste>**
 
-**<text V="Ich versichere/Wir versichern, nur vollständig gekennzeichnete Überweisungsscheine zur Abrechnung**
+**<text V="Ich versichere/Wir versichern, nur vollständig gekennzeichnete Überweisungsscheine zur Abrechnung**  **gebracht zu haben. "/>**
 
-**gebracht zu haben. "/>**
-
-**<text V="Ich versichere/wir versichern, dass in den von mir/uns zur Abrechnung gebrachten Zuweisungsfällen die**
-
-**mir/uns erteilten Aufträge nicht überschritten wurden."/>**
+**<text V="Ich versichere/wir versichern, dass in den von mir/uns zur Abrechnung gebrachten Zuweisungsfällen die**  **mir/uns erteilten Aufträge nicht überschritten wurden."/>**
 
 **</text_liste>**
 
@@ -2676,7 +2515,7 @@ Der XML-Code für das Element <ueberweisungsscheine> könnte wie folgt aussehen:
 
 </ueberweisungsscheine>
 
-**XML-Code 46:** ueberweisungsscheine 5.8.1.
+**XML-Code 46:** ueberweisungsscheine 5.8.1
 
 
 ---
@@ -2699,17 +2538,11 @@ Der XML-Code für das Element <abrechnung_edv> könnte wie folgt aussehen:
 
 **<text_liste>**
 
-**<text V="Hiermit bestätige(n) ich/wir, dass durch entsprechende organisatorische und technische Maßnahmen eine**
+**<text V="Hiermit bestätige(n) ich/wir, dass durch entsprechende organisatorische und technische Maßnahmen eine**  **Erfassung jeder einzelnen Leistung zur Abrechnung erst nach deren vollständiger Erbringung erfolgt ist. "/>**
 
-**Erfassung jeder einzelnen Leistung zur Abrechnung erst nach deren vollständiger Erbringung erfolgt ist. "/>**
+**<text V="Das verwendete Abrechnungssystem ist von der KBV zertifiziert und gültig. D er zuständigen Bezirksstelle**  **der Kassenärztlichen Vereinigung Nordrhein ist die Abrechnung mittels EDV angezeigt worden. "/>**
 
-**<text V="Das verwendete Abrechnungssystem ist von der KBV zertifiziert und gültig. D er zuständigen Bezirksstelle**
-
-**der Kassenärztlichen Vereinigung Nordrhein ist die Abrechnung mittels EDV angezeigt worden. "/>**
-
-**<text V="Ich versichere/Wir versichern, dass alle gemäß den aktuell gültigen DTA -Richtlinien einzureichenden**
-
-**Abrechnungsbelege an die zuständige Bezirksstelle termingerecht übersandt wurden. "/>**
+**<text V="Ich versichere/Wir versichern, dass alle gemäß den aktuell gültigen DTA -Richtlinien einzureichenden**  **Abrechnungsbelege an die zuständige Bezirksstelle termingerecht übersandt wurden. "/>**
 
 **<text V="Art der Abrechnung"/>**
 
@@ -2754,13 +2587,11 @@ Quelle: Sammelerklärung KVWL, Stand 2010
 
 Hinweis:
 
-Ab 2011 gilt die Onlineübertragung der Abrechnung verpflichtend. Die Angabe des Abrech-  nungsmediums, welche in einigen Sammelerklärungen gefordert wird, ist daher in der vorlie genden Schnittstelle nicht mehr berücksichtigt worden.
+Ab 2011 gilt die Onlineübertragung der Abrechnung verpflichtend. Die Angabe des Abrech-  nungsmediums, welche in einigen Sammele rklärungen gefordert wird, ist daher in der vorlie genden Schnittstelle nicht mehr berücksichtigt worden.
 
 ### 5.8.3.1 bool_software (Entscheidungsbaum - Softwareeinsatz)
 
-Das Element <bool_software> ist vom Typ „bool_software_typ“ und kommt zur Anwendung,  wenn es darum geht, den Einsatz einer Software zu bestätigen und diese ggf. zu spezifizie
-
-Die Beschreibung der Software erfolgt durch eine standardisierte Sciphox
+Das Element <bool_software> ist vom Typ „bool_software_typ“ und kommt zur Anwendung,  wenn es darum geht, den Einsatz einer Software zu bestätigen und diese ggf. zu spezifizie Die Beschreibung der Software erfolgt durch eine standardisierte Sciphox
 
 **Abbildung 48: bool_software**
 
@@ -2774,16 +2605,12 @@ Textbausteine
 
 Software 5.1.1 und 5.1.2
 
-- ren.
-
--ssu.
+- ren.  -ssu.
 
 
 ---
 
-Die erste Ebene von <bool_software> entspricht dem Aufbau aller bool-Typen und verzweigt
-
-in die Ausprägungen <true> und <false>.
+Die erste Ebene von <bool_software> entspricht dem Aufbau aller bool-Typen und verzweigt  in die Ausprägungen <true> und <false>.
 
 Ein beispielhafter XML-Code könnte folgendermaßen aussehen:
 
@@ -2864,9 +2691,7 @@ Der XML-Code für das Element <abrechnung_allgemeinlabor> könnte folgendermaße
 
 **<text V="Ich/Wir sind Mitglied der Laborgemeinschaft (BSNR): "/>**
 
-**<text V="Ich/wir erkläre(n), dass die von mir/uns über Muster 10 A bezogenen und von der Laborgemeinschaft**
-
-**abzurechnenden Analysekosten dem erteilten Auftrag entsprechen und nicht Bestandteil meiner/unserer Abrechnung sind. "/>**
+**<text V="Ich/wir erkläre(n), dass die von mir/uns über Muster 10 A bezogenen und von der Laborgemeinschaft**  **abzurechnenden Analysekosten dem erteilten Auftrag entsprechen und nicht Bestandteil meiner/unserer Abrechnung sind. "/>**
 
 **</text_liste>**
 
@@ -2919,7 +2744,7 @@ Textbausteinen
 
 ***<bool_labor>***
 
-Für die Beschreibung der Elemente <titel> und <text_liste> sei auf Kapitel 5.1.1 und 5.1.2  verwiesen.
+Für die Beschreibung der Elemente <titel> und <text_liste> sei auf Kapitel  verwiesen.
 
 Formularbeispiel:
 
@@ -2935,11 +2760,11 @@ Das Element <bool_labor> bildet den Entscheidungsbaum in Zusammenhang mit der Ab
 
 **Abbildung 51: bool_labor**
 
-Mit dem Element <true> wird der Sachverhalt zum Allgemeinlabor bestätigt. Über das Kin-  delement <provider> besteht die Möglichkeit, die Zugehörigkeit zu einer Laborgemeinschaft zu
-
-dokumentieren, über die die allgemeinen Laborleistungen veranlasst
+Mit dem Element <true> wird der Sachverhalt zum Allgemeinlabor bestätigt. Über das Kin-  delement <provider> besteht die Möglichkeit, die Zugehörigkeit zu einer Laborgemeinschaft zu  dokumentieren, über die die allgemeinen Laborleistungen veranlasst
 
 Alternativ oder zusätzlich kann über das Kindelement <qualifikation_labor> bestätigt werden,  dass eine entsprechende Qualifikation zur Erbringung und Abrechnung von Leistungen des  Allgemeinlabors im eigenen Präsenzlabor vorliegt.
+
+5.1.1 und 5.1.2
 
 wurden.
 
@@ -2972,9 +2797,7 @@ Hier ein beispielhafter XML-Code zu diesem Sachverhalt:
 
 ehd-Struktur für Aufnahme einer Organisationseinheit
 
-***<organization>*** Beschreibung einer Organisationseinheit “Laborgemeinschaft“; Ein
-
-schränkung des Providers auf <organization>
+***<organization>*** Beschreibung einer Organisationseinheit “Laborgemeinschaft“; Ein  schränkung des Providers auf <organization>
 
 ***<id>***
 
@@ -2982,17 +2805,13 @@ Eindeutige Kennzeichnung der Laborgemeinschaft durch Betriebsstät-  tennummer i
 
 ***<organization.nm>*** Name der Laborgemeinschaft
 
-***<qualifikation_labor>*** Qualifikation zur Erbringung Allgemeiner Laborleistungen im
-
-Präsenzlabor (Bool)
+***<qualifikation_labor>*** Qualifikation zur Erbringung Allgemeiner Laborleistungen im  Präsenzlabor (Bool)
 
 ### 5.8.5 avwg_erklaerung (Erklärung zum Einsatz einer AVS)
 
 Unter Element <avwg_erklaerung> bestätigt der Anwender mittels <true>, dass ausschließlich  zertifizierte Arzneimittelverordnungssoftware für Verordnungen zu Lasten der GKV eingesetzt  worden ist.
 
-Der Entscheidungsbaum beginnt mit dem bekannten Element <bool_software>, welches bei
-
-Bestätigung des Software-Einsatzes eine Identifizierung der Software nach sich zieht.
+Der Entscheidungsbaum beginnt mit dem bekannten Element <bool_software>, welches bei  Bestätigung des Software-Einsatzes eine Identifizierung der Software nach sich zieht.
 
 
 ---
@@ -3007,13 +2826,9 @@ Der XML-Code für das Element <avwg_erklaerung> hat folgenden beispielhaften Auf
 
 **<text_liste>**
 
-**<text V="Ich versichere/Wir versichern, dass ich/wir zur Verordnung von Arzneimitteln ausschließlich**
+**<text V="Ich versichere/Wir versichern, dass ich/wir zur Verordnung von Arzneimitteln ausschließlich**  **zertifizierte Arzneimittel-Datenbanken und Software-Versionen eingesetzt habe(n)."/>**
 
-**zertifizierte Arzneimittel-Datenbanken und Software-Versionen eingesetzt habe(n)."/>**
-
-**<text V="Hierbei wurde folgende nach § 29 Abs. 3 BMV-Ä/§ 15 Abs. 3 EKV zugelassene Arzneimittel-Datenbank und**
-
-**zu ihrer Nutzung zugelassene Software angewendet: "/>**
+**<text V="Hierbei wurde folgende nach § 29 Abs. 3 BMV-Ä/§ 15 Abs. 3 EKV zugelassene Arzneimittel-Datenbank und**  **zu ihrer Nutzung zugelassene Software angewendet: "/>**
 
 **</text_liste>**
 
@@ -3072,7 +2887,7 @@ Quelle: Sammelerklärung KVWL, Stand 2010
 
 Unter dem Element <bool_software> ist ein Entscheidungsbaum abgebildet, der den Sach-  verhalt zum Einsatz einer bestimmten Software darstellt. Im hier genannten Kontext ist zu  bestätigen, ob im Rahmen der Verordnung eine AVWG Arzneimittelverordnungssoftware (AVS) zum Einsatz gekommen ist. Im Anschluss an diese  Bestätigung ist diese zu spezifizieren.
 
-Näher Informationen siehe unter 5.8.3.1.
+Näher Informationen siehe unter 5.8.3.1
 
 ## 5.9 ankreuzfeld_liste (Generische Bestätigung)
 
@@ -3113,9 +2928,7 @@ Der XML-Code für das Element <ankreuzfeld_liste> hat folgenden beispielhaften A
 
 **<text_liste>**
 
-**<text V="Ich habe bei der Abrechnung folgender Leistungen mit den ebenfalls tätigen Ärzten eine verein -**
-
-**barung getroffen, wonach nur ich allein die Leistungen des entsprechenden Abschnittes des EBM abrechne: ..."/>**
+**<text V="Ich habe bei der Abrechnung folgender Leistungen mit den ebenfalls tätigen Ärzten eine verein -**  **barung getroffen, wonach nur ich allein die Leistungen des entsprechenden Abschnittes d es EBM abrechne: ..."/>**
 
 **</text_liste>**
 
@@ -3198,7 +3011,7 @@ Unter der generischen Struktur lassen sich auch Sachverhalte abbilden, die mit w
 
 Es handelt sich hierbei genau genommen um zwei Bestätigungen, einmal für Kapitel 31 und  einmal für Kapitel 36. Um diese Sachverhalte innerhalb des vorgegebenen Rahmens abbilden  zu können, sind diese zuvor in zwei generische Bestätigungen aufzubrechen, wie es im XML--  Code beispielhaft für die u.a. Formulardarstellung umgesetzt werden könnte.
 
-5.1.1, 5.1.2 und 5.8.1.1 ver-
+5.1.1 5.1.2 und 5.8.1.1 ver-
 
 
 ---
@@ -3329,12 +3142,7 @@ Der XML-Code für das Element <xslt_hash> hat folgenden beispielhaften Aufbau:
 
 # 6 Quellenverweise
 
-- [1] ehd  eHealthData, Richtlinie, Version 1.40
-
-- [http://www.kbv.de/ita/4287.html](http://www.kbv.de/ita/4287.html)
-
-- [2] Schlüsseltabellen der KBV  [https://applications.kbv.de/](https://applications.kbv.de/)
-
-- [3] Im Rahmen der Schnittstellenentwicklung wurden folgende Sammelerklärungen analy siert und sind zum Teil beispielhaft in der Dokumentation verwendet worden: KVSH,
-
-- KVHB, KVH, KVN, KVNO, KVT, KVWL, KVB
+- [1] ehd  eHealthData, Richtlinie, Version 1.40  [http://www.kbv.de/ita/4287.html](http://www.kbv.de/ita/4287.html)[](http://www.kbv.de/ita/4287.html)
+- [2] Schlüsseltabellen der KBV  [https://applications.kbv.de/](https://applications.kbv.de/)[](https://applications.kbv.de/)
+- [3] Im Rahmen der Schnittstellenentwicklung wurden folgende Sammelerklärungen analy siert und sind zum Teil beispielhaft in der Dokumentation verwend KVHB, KVH, KVN, KVNO, KVT, KVWL, KVB
+- et worden: KVSH,

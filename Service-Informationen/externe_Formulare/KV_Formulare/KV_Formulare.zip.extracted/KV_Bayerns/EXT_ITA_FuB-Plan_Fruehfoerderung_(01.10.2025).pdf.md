@@ -4,9 +4,7 @@ Zuzah- lungs-
 
 frei
 
-Zuzah- Name, Vorname des Versicherten
-
-lungs-
+Zuzah- Name, Vorname des Versicherten lungs-
 
 pflicht
 
@@ -16,9 +14,7 @@ Unfall- folgen
 
 Kostenträgerkennung Versicherten-Nr.
 
-Status
-
-BVG
+Status BVG
 
 Betriebsstätten-Nr. Arzt-Nr.
 
@@ -36,17 +32,11 @@ Telefonnummer
 
 und Frühförderung behinderter und von Behinderung bedrohter Kinder in interdisziplinären Frühförderstellen in Bayern (RV IFS)  - für **Ärztin / Arzt** / Frühförderstelle / Personensorgeberechtigte / Kostenträger
 
-o Erstausstellung  o Folgeplanung o Änderungsplanung
-
-voraussichtliche Behandlungsdauer in Monaten: _______________ voraussichtlicher
+oErstausstellung  o Folgeplanung o Änderungsplanung voraussichtliche Behandlungsdauer in Monaten: _______________ voraussichtlicher
 
 **Zusammenfassendes Ergebnis der (Eingangs-) Diagnostik und Bedarfsermittlung**
 
-**Ärztin / Arzt:** Diagnose/Befund (unter Angabe der Leitsymptomatik und Beschreibung der betroffenen/relevanten
-
-Körperfunktionen und –strukturen):
-
-________________________________________________________________________________________________________________________________
+**Ärztin / Arzt:** Diagnose/Befund (unter Angabe der Leitsymptomatik und Beschreibung der betroffenen/relevanten  Körperfunktionen und –strukturen):  ________________________________________________________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________________
 
@@ -58,21 +48,15 @@ Eine Behinderung der Selbstbestimmung und/oder gleichberechtigten Teilhabe an de
 
 droht
 
-liegt vor
-
-körperlichen Beeinträchtigung
+liegt vor körperlichen Beeinträchtigung
 
 o
 
-o
-
-geistigen Beeinträchtigung
+o geistigen Beeinträchtigung
 
 o
 
-o
-
-o
+o o
 
 o
 
@@ -82,9 +66,7 @@ o
 
 o
 
-Offenes Beratungsangebot wurde durchgeführt oja
-
-Komplexleistung ist notwendig
+Offenes Beratungsangebot wurde durchgeführt oja Komplexleistung ist notwendig
 
 oja
 
@@ -122,9 +104,7 @@ onein onein
 
 ambulante  **Gruppen**behandlung
 
-__ BE o je Monat
-
-__ BE o je Monat
+__ BE o je Monat  __ BE o je Monat
 
 __ BE o je Monat
 
@@ -142,23 +122,15 @@ gemäß Rahmenvertrag zur Früherkennung
 
 o Behandlung SIFS* erforderlich
 
-**mobile**
+**mobile**  **Einzel**behandlung  gemäß § 6a FrühV
 
-**Einzel**behandlung
-
-gemäß § 6a FrühV
-
-__ BE o je Monat
-
-__ BE o je Monat
+__ BE o je Monat  __ BE o je Monat
 
 __ BE o je Monat
 
 __ BE (im Bewilligungszeitraum)
 
-kann als  **Doppel-BE** er-
-
-bracht werden
+kann als  **Doppel-BE** er- bracht werden
 
 o o
 
@@ -170,6 +142,6 @@ o
 |  | ___________________________________ | _______________________________________________________________ |
 |---|---|---|
 | **Ärztin / Arzt** (Stempel, | Unterschrift, Datum) | **Interdisziplinäre Frühförderstelle / SIFS*** (Stempel, Unterschrift, Datum) |
-| * SIFS = sinnesbehinderungsspezifische, | überregionale | interdisziplinäre Frühförderstellen |
+| * SIFS = | sinnesbehinderungsspezifische, überregionale | interdisziplinäre Frühförderstellen |
 
 * SIFS = sinnesbehinderungsspezifische, überregionale interdisziplinäre Frühförderstellen

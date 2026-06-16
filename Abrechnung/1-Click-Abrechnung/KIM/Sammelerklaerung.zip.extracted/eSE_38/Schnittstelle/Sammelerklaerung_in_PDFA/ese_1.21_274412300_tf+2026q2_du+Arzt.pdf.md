@@ -1,4 +1,4 @@
-| **Sammelerklärung 2. Quartal 2026** | |
+| Sammelerklärung 2. Quartal 2026 | |
 |---|---|
 | **Gemeinschaftspraxis Dres. Hans Test Fritz Sauber Dr. med.  Hans  Test Facharzt f. Innere Medizin -Angiologie- Dr. med.  Fritz  Sauber Facharzt für Hals-Nasen-Ohrenheilkunde Facharzt für Phoniatrie u. Pädaudiologie**  **51371  Leverkusen** | BSNR: 274412300 Fallzahl: 2754 |
 
@@ -42,10 +42,9 @@
 | **Sammelerklärung 2. Quartal 2026** | **Gemeinschaftspraxis Dres. Hans Test Fritz Sauber** | **Dr. med.  Hans  Test** |
 | **Facharzt f. Innere Medizin -Angiologie-** | **Dr. med.  Fritz  Sauber** | **Facharzt für Hals-Nasen-Ohrenheilkunde** |
 
-\| **1\|3 Facharzt für Phoniatrie u. Pädaudiologie** von   bis**51371  Leverkusen** Dr. med.  Sabine  Hannah  Angestellte |
+\| **1 Facharzt für Phoniatrie u. Pädaudiologie** von**\|**   bis**3 51371  Leverkusen** Dr. med.  Sabine  Hannah  Angestellte |
 \|---|
 
-1|3
 
 ---
 
@@ -95,5 +94,5 @@ Formularversion 22.04.2026
 |---|---|---|
 | Datum |  | Unterschrift des Vertragsarztes/Vertragspsychotherapeuten (bei Berufsausübungsgemeinschaften ggf. eines Partners - ansonsten auf  gesondertem Blatt - bzw. für ein Medizinisches Versorgungszentrum der  ärztliche Leiter bzw. für Notfallpraxen der jeweils verantwortliche Arzt) |
 
-\| 6.**3\|3** Die Befunderhebung für Untersuchungen des Abschnitts 32.3 und entsprechende laboratoriumsmedizinische  Leistungen der Abschnitte 1.7, 11.3 und 11.4 des EBM wurden durch mich persönlich erbracht. |
+\| 6.**3** Die Befunderhebung für Untersuchungen des Abschnitts 32.3 und entsprechende laboratoriumsmedizinische **\|** Leistungen der Abschnitte 1.7, 11.3 und 11.4 des EBM wurden durch mich persönlich erbracht.**3** |
 \|---|

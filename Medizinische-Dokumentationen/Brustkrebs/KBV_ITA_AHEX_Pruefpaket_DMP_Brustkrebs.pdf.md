@@ -6,9 +6,7 @@ Seite 1 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 20
 
 **KASSENÄRZTLICHE**  **BUNDESVEREINIGUNG**
 
-**DEZERNAT DIGITALISIERUNG UND IT**
-
-**IT IN DER ARZTPRAXIS**
+**DEZERNAT DIGITALISIERUNG UND IT**  **IT IN DER ARZTPRAXIS**
 
 **14. AUGUST 2024**
 
@@ -27,51 +25,25 @@ Seite 1 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 20
 
 1.1 Rechtsgrundlage
 
-6
+6  1.2 Zertifizierungsablauf
 
-1.2 Zertifizierungsablauf
+6  1.3 Zertifizierungsportal
 
-6
+7  1.4 Zertifizierungsdokumente 7  1.5 Prüfunterlagen
 
-1.3 Zertifizierungsportal
+7  1.6 Prüfvorgaben
 
-7
+9  1.6.1 Prüfstammdaten
 
-1.4 Zertifizierungsdokumente
+9  1.6.2 Versichertendaten
 
-7
+9  1.6.3 Praxisdaten/ Arztstempel 9  1.6.4 Krankenhausdaten
 
-1.5 Prüfunterlagen
+10  1.6.5 Prüfnummer
 
-7
+10  1.6.6 Stammdatei der Datenannahmestellen (SDDA)
 
-1.6 Prüfvorgaben
-
-9
-
-1.6.1 Prüfstammdaten
-
-9
-
-1.6.2 Versichertendaten
-
-9
-
-1.6.3 Praxisdaten/ Arztstempel
-
-9
-
-1.6.4 Krankenhausdaten
-
-10
-
-1.6.5 Prüfnummer
-
-10
-
-1.6.6 Stammdatei der Datenannahmestellen (SDDA) 10
-
-1.6.7 Auflistung der Prüffälle 10
+10  1.6.7 Auflistung der Prüffälle 10
 
 **PRÜFFÄLLE**
 
@@ -79,51 +51,25 @@ Seite 1 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 20
 
 2.1 Prüffälle Dokumentation
 
-11
+11  2.1.1 Prüffall 2612
 
-2.1.1 Prüffall 2612
+11  2.1.2 Prüffall 2613
 
-11
+14  2.1.3 Prüffall 2614
 
-2.1.2 Prüffall 2613
+18  2.1.4 Prüffall 2615
 
-14
+21  2.1.5 Prüffall 2616
 
-2.1.3 Prüffall 2614
+24  2.1.6 Prüffall 2617
 
-18
+27  2.2 Prüffälle Systemreaktion 30  2.2.1 Prüffall 2618
 
-2.1.4 Prüffall 2615
+30  2.2.2 Prüffall 2619
 
-21
+32  2.3 Weitere Prüffälle zum Anforderungskatalog 36  2.3.1 Prüffall 2621
 
-2.1.5 Prüffall 2616
-
-24
-
-2.1.6 Prüffall 2617
-
-27
-
-2.2 Prüffälle Systemreaktion
-
-30
-
-2.2.1 Prüffall 2618
-
-30
-
-2.2.2 Prüffall 2619
-
-32
-
-2.3 Weitere Prüffälle zum Anforderungskatalog 36
-
-2.3.1 Prüffall 2621
-
-36
-
-2.3.2 Prüffall 2640
+36  2.3.2 Prüffall 2640
 
 37
 
@@ -139,9 +85,9 @@ Seite 1 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 20
 
 **41**
 
-4.1 Versichertendaten 1 Ersatzverfahren 41
+4.1 Versichertendaten 1 Ersatzverfahren
 
-4.2 Versichertendaten 2 Ersatzverfahren 42
+41  4.2 Versichertendaten 2 Ersatzverfahren 42
 
 **REFERENZIERTE DOKUMENTE**
 
@@ -149,14 +95,11 @@ Seite 1 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 20
 
 Seite 2 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
 
-
 ---
 
 ## ABBILDUNGSVERZEICHNIS
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung 2: Exemplarische Struktur der  Abbildung 3: Testdatenvalidierung
-
-Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung 2: Exemplarische Struktur der  Abbildung 3: Testdatenvalidierung  Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 **Archivdatei** mit den Prüfunterlagen 8  8  38
 
@@ -187,7 +130,7 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 Seite 4 von 44 / KBV / Pruefpaket DMP-Brustkrebs
 
-| **Datum** | **Autor** | **Änderung** | **Begründung** |
+| Datum | Autor | Änderung | Begründung |
 |---|---|---|---|
 | 14.08.2024 | KBV | Anpassung an | Schnittstellenversion |
 
@@ -218,9 +161,7 @@ Seite 4 von 44 / KBV / Pruefpaket DMP-Brustkrebs
 
 **Seite**
 
-Alle
-
-Schnittstelle 4.25 4.25 ist ab 01.10.2024
+Alle  Schnittstelle 4.25 4.25 ist ab 01.10.2024
 
 zu verwenden
 
@@ -228,9 +169,9 @@ zu verwenden
 
 den Prüffällen.
 
-TDV- Testfall zur 39
+TDV- Testfall zur
 
-Überprüfung der alten  Schnittstellenversion  4.23
+39  Überprüfung der alten  Schnittstellenversion  4.23
 
 Alle 37
 
@@ -238,9 +179,7 @@ Alle 37
 
 27
 
-Alle
-
-Layouts
+Alle  Layouts
 
 Corporate Design
 
@@ -254,28 +193,22 @@ Beschluss GBA mit  Wirkung zum  01.10.2018
 
 Einreichung des Antrag Anpassung des
 
-Zertifizier
-
-auf Zertifizierung
+Zertifizier auf Zertifizierung
 
 Zertifizierungsportales ungsablau f
 
-Aufnahme eines Testfalls Personalienfeldanpass
-
-zur Überprüfung der ung zum 1. Juli 2018
-
-neuen  Schnittstellenversion
+Aufnahme eines Testfalls Personalienfeldanpass  zur Überprüfung der ung zum 1. Juli 2018  neuen  Schnittstellenversion
 
 / Version: 4.28 / 14. August 2024
 
-Anpassung an
+Anpassung an 
 
 
 ---
 
 **Version**
 
-| **Datum** | **Autor** | **Änderung** | **Begründung** |
+| Datum | Autor | Änderung | Begründung |
 |---|---|---|---|
 |  |  | 4.21 |  |
 | 23.05.2017 | KBV | Komplettüberarbeitung | Aktualisierung der |
@@ -294,102 +227,49 @@ Alle
 
 Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich des Disease-Management-Programms Brustkrebs [BK]
 
-Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragsstellers definiert, bildet
+Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragsstellers definiert, bildet  den Rahmen der Zertifizierung und ist zu beachten.
 
-den Rahmen der Zertifizierung und ist zu beachten.
-
-Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung
-
-weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
+Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
 
 **1.1** **RECHTSGRUNDLAGE**
 
-Die Regelungen zur Zertifizierung werden auf Landesebene zwischen den Kassenärztlichen Vereinigungen
-
-und Krankenkassen getroffen.
+Die Regelungen zur Zertifizierung werden auf Landesebene zwischen den Kassenärztlichen Vereinigungen  und Krankenkassen getroffen.
 
 **1.2** **ZERTIFIZIERUNGSABLAUF**
 
 Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten
 
-1. Der Antragssteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV
-
-bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und
-
-unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.  Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per E-Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen. Erst nach Erhalt der
-
-Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und der vorab via E-Mail
-
-eingereichte Antrag auf Zertifizierung dort hochgeladen werden.  2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen
-
-Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch Mitarbeitende der KBV.
-
-3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragssteller
-
-mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei
-
-Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragssteller zur Sichtprüfung auffordern.
-
-4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen
-
-werden.
+1. Der Antragssteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.  Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per [E-Mail (pruefstelle@kbv.de) einreichen. Erst nach Erhalt der](mailto:pruefstelle@kbv.de) [Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiier](mailto:pruefstelle@kbv.de)[t und der vorab via E-Mail](mailto:pruefstelle@kbv.de) eingereichte Antrag auf Zertifizierung dort hochgeladen werden.  2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch Mitarbeitende der KBV.  3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragssteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragssteller zur Sichtprüfung auffordern.  4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
 
 **HINWEIS**
 
-Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des
-
-Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.
-
-Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
-
+Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
 
 ---
 
 **1.3** **ZERTIFIZIERUNGSPORTAL**
 
-Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
+[Das Zertifizierungsportal ist über https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/)[zu erreichen.](https://zertifizierungsportal2.kbv.de/)
 
-Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran  anschließenden manuellen Prüfung.
+[Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran](https://zertifizierungsportal2.kbv.de/) anschließenden manuellen Prüfung.
 
-Die Zugangsdaten können direkt über das Portal oder per E-Mail an [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) unter Angabe der
+Die Zugangsdaten können direkt über das Portal oder per [E-Mail an pruefstelle@kbv.de unter Angabe der](mailto:pruefstelle@kbv.de) [System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte](mailto:pruefstelle@kbv.de) beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
 
-System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte  beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragssteller in Form von Aufgaben (Menüpunkt:  „Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
 
-Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf
+Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im  Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur zusammen mit den erstellten  Prüfunterlagen in Form einer ZIP-Datei archiviert werden.
 
-Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragssteller in Form von Aufgaben (Menüpunkt:
-
-„Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten der
-
-Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
-
-Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im  Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur zusammen mit den erstellten
-
-Prüfunterlagen in Form einer ZIP-Datei archiviert werden.
-
-Die in das Portal integrierte Prüfautomatisierung führt neben einer inhaltlichen Prüfung auch eine Prüfung
-
-auf Vollständigkeit der eingereichten Prüfunterlagen durch.
+Die in das Portal integrierte Prüfautomatisierung führt neben einer inhaltlichen Prüfung auch eine Prüfung  auf Vollständigkeit der eingereichten Prüfunterlagen durch.
 
 Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, wird der  Antragssteller vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehler  zu beheben bzw. die Lieferung zu vervollständigen.
 
-Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende
+Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im HTML- oder XML-Format) erzeugt und  dem Antragssteller zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte  Lieferungen geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung als fehlerfrei  erkannt wurden, erfolgt die Prüfung. Wird hierbei festgestellt, dass Dateien fehlerhaft sind, werden die  Antragssteller aufgefordert, eine Korrekturlieferung hochzuladen.
 
-Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im HTML- oder XML-Format) erzeugt und
-
-dem Antragssteller zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte  Lieferungen geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung als fehlerfrei  erkannt wurden, erfolgt die Prüfung. Wird hierbei festgestellt, dass Dateien fehlerhaft sind, werden die
-
-Antragssteller aufgefordert, eine Korrekturlieferung hochzuladen.
-
-Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des Zertifizierungsportals  genutzt werden. Bitte beachten Sie, dass hierfür eine anschließende Prüfung nicht stattfindet. Des
-
-Weiteren müssen für die Testdatenvalidierung die Hinweise in Kapitel 3 berücksichtigt werden.
+Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des Zertifizierungsportals  genutzt werden. Bitte beachten Sie, dass hierfür eine anschließende Prüfung nicht stattfindet. Des  Weiteren müssen für die Testdatenvalidierung die Hinweise in Kapitel 3 berücksichtigt werden.
 
 **1.4** **ZERTIFIZIERUNGSDOKUMENTE**
 
-Alle erforderlichen Unterlagen stehen im Internet zum Download unter ITA-Update bereit. In diesem
-
-Zusammenhang berücksichtigen Sie bitte das Kapitel Referenzierte Dokumente.
+[Alle erforderlichen Unterlagen stehen im Internet zum Download unter](https://update.kbv.de/ita-update/)[ITA-Update bereit. In diesem](https://update.kbv.de/ita-update/) Zusammenhang berücksichtigen Sie bitte das Kapitel[Referenzierte Dokumente.](https://update.kbv.de/ita-update/)
 
 **1.5** **PRÜFUNTERLAGEN**
 
@@ -397,43 +277,23 @@ Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwart
 
 **Brustkrebs-Unterlagen bestehend aus XML-Dokumenten:**  Je Betriebsstättennummer werden eine Begleitdatei und eine Archivdatei (*.zip.XKM), welche die  einzelnen XML-Dateien im entsprechenden Verzeichnis enthält, erwartet. Diese müssen fehlerfrei gegen  das jeweils aktuelle, von der KBV vorgegebene, Prüfschema validierbar sein. Entsprechende Vorgaben  für die Bildung der Dateinamen, die Verzeichnisstruktur und die weiteren Angaben entnehmen Sie bitte  dem Dokument KBV_ITA_VGEX_XML-Schnittstellen.
 
-
 ---
 
-**Videodateien, Screenshots ausgewählter Anforderungen und Teilnahmeerklärung:**
+**Videodateien, Screenshots ausgewählter Anforderungen und Teilnahmeerklärung:**  Die geforderten Videomitschnitte, Screenshots sowie die Teilnahmeerklärung (Prüffall 2640) müssen in  einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.  [PrüffallNr.]1_[lfdNr.]2 3  Teilnahmeerklärung (Prüffall 2640): TE_EWE_BK.pdf
 
-Die geforderten Videomitschnitte, Screenshots sowie die Teilnahmeerklärung (Prüffall 2640) müssen in
-
-einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.
-
-[PrüffallNr.]1_[lfdNr.]2 3
-
-Teilnahmeerklärung (Prüffall 2640): TE_EWE_BK.pdf
-
-Alle Prüfunterlagen (BK-Unterlagen und der Ordner „Dokumentation“ sind in einem ZIP-Archiv zu
-
-übermitteln. Die BK-Unterlagen werden direkt in dem Hauptverzeichnis übertragen und nicht gesondert in  einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Der Ordner „Dokumentation“
-
-enthält Videoaufzeichnungen, ggf. Screenshots sowie die Teilnahmeerklärung und wird ebenfalls direkt in
-
-dem Hauptverzeichnis übertragen. Das ZIP- Archiv muss wie folgt benannt werden:
+Alle Prüfunterlagen (BK-Unterlagen und der Ordner „Dokumentation“ sind in einem ZIP-Archiv zu  übermitteln. Die BK-Unterlagen werden direkt in dem Hauptverzeichnis übertragen und nicht gesondert in  einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Der Ordner „Dokumentation“  enthält Videoaufzeichnungen, ggf. Screenshots sowie die Teilnahmeerklärung und wird ebenfalls direkt in  dem Hauptverzeichnis übertragen. Das ZIP- Archiv muss wie folgt benannt werden:
 
 Zert_101_SystemID.zip
 
 Die SystemID ergibt sich aus den letzten drei Stellen der Prüfnummer.
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung  391234511_20250430101010_1_BK_425.zip.XKM XKM-Datei  Brustkrebs
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung  391234511_20250430101010_1_BK_425.zip.XKM XKM-Datei  Brustkrebs      Dokumentation
 
-Dokumentation
-
-Dateiordner
-
-Dateiordner
+Dateiordner      Dateiordner
 
 Abbildung 2: Exemplarische Struktur der **Archivdatei** mit den Prüfunterlagen
 
 ________________  **1 Nummer des Prüffalls**  **2 Laufende Nummer**  **3 Gängiges Bild- bzw. Videoformat**
-
 
 ---
 
@@ -441,29 +301,17 @@ ________________  **1 Nummer des Prüffalls**  **2 Laufende Nummer**  **3 Gängi
 
 Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
 
-Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum  werden, welches bei der Dokumentation der Prüffälle angegeben ist. Das gleiche Datum sollte auch als
-
-Kopfdatum (Feld 9, „origination_dttm“) benutzt werden.
+Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum  werden, welches bei der Dokumentation der Prüffälle angegeben ist. Das gleiche Datum sollte auch als  Kopfdatum (Feld 9, „origination_dttm“) benutzt werden.
 
 **1.6.1** **Prüfstammdaten**
 
-Für die Zertifizierung müssen die für die Prüfung speziell e werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung
-
-bzw. der Dateiname mit „PRF” gekennzeichnet.
+Für die Zertifizierung müssen die für die Prüfung speziell e werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung  bzw. der Dateiname mit „PRF” gekennzeichnet.
 
 **1.6.2** **Versichertendaten**
 
-Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei
+Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei  (VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für jeden Prüffall in einem jeweils separaten Verzeichnis die  folgenden XML-Dateien mit Versichertenstammdaten
 
-(VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für jeden Prüffall in einem jeweils separaten Verzeichnis die
-
-folgenden XML-Dateien mit Versichertenstammdaten
-
-EF.VD = allgemeine Versicherungsdaten
-
-EF.PD = persönliche Versichertendaten
-
-EF.GVD = geschützte Versichertendaten
+EF.VD = allgemeine Versicherungsdaten  EF.PD = persönliche Versichertendaten  EF.GVD = geschützte Versichertendaten
 
 **1.6.3** **Praxisdaten/ Arztstempel**
 
@@ -522,11 +370,7 @@ eingesetzt
 
 **1.6.4** **Krankenhausdaten**
 
-Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der Begleitdatei als Absender bzw.  dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. Für die Angabe des  dokumentierenden Arztes, der auch hier genannt werden muss,  verwenden. Herr Topp-Glücklich ist also für die „Krankenhausfälle“ Angestellter des Krankenhauses und
-
-betreut den Patienten im eDMP. Es soll hier seine Telefonnummer angegeben werden. Die  Vertragsarztnummer spielt hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind
-
-demzufolge zwei Absender (Krankenhaus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete  und zwei Begleitdateien einzureichen.
+Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der Begleitdatei als Absender bzw.  dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. Für die Angabe des  dokumentierenden Arztes, der auch hier genannt werden muss,  verwenden. Herr Topp-Glücklich ist also für die „Krankenhausfälle“ Angestellter des Krankenhauses und  betreut den Patienten im eDMP. Es soll hier seine Telefonnummer angegeben werden. Die  Vertragsarztnummer spielt hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind  demzufolge zwei Absender (Krankenhaus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete  und zwei Begleitdateien einzureichen.
 
 **BEZEICHNUNG**
 
@@ -620,9 +464,7 @@ XML_16
 
 XML_36
 
-Ersatzverfahren (s. Versichertendaten 1
-
-Ersatzverfahren)
+Ersatzverfahren (s. Versichertendaten 1  Ersatzverfahren)
 
 
 ---
@@ -677,9 +519,7 @@ Kontralateraler Brustkrebs Datum der histologischen Sicherung
 
 Lokoregionäres Rezidiv Datum der histologischen Sicherung
 
-Fernmetastasen Datum der diagnostischen Sicherung von
-
-Fernmetastasen
+Fernmetastasen Datum der diagnostischen Sicherung von  Fernmetastasen
 
 **Anamnese und Behandlungsstatus des Primärtumors / kontralateralen Brustkrebses**
 
@@ -689,13 +529,11 @@ Operative Therapie
 
 **VERZEICHNISNAME**
 
-Ersatzverfahren (s. Versichertendaten 2
-
-Ersatzverfahren)
+Ersatzverfahren (s. Versichertendaten 2  Ersatzverfahren)
 
 **Erstdokumentation**
 
-PRF 2612 15.04.2023 15.10.2024
+PRF2612 15.04.2023 15.10.2024
 
 Halbjährlich oder häufiger 170 1,70
 
@@ -769,9 +607,7 @@ Anthrazykline (Doxorubicin,  Epirubicin), Anti-HER2- Substanzen, linksthorakale 
 
 ---
 
-**3.** **Anlegen einer Folgedokumentation**
-
-**DATEN ZUR FOLGEDOKUMENTATION BRUSTKREBS**
+**3.** **Anlegen einer Folgedokumentation**   **DATEN ZUR FOLGEDOKUMENTATION BRUSTKREBS**
 
 **Administrative Daten**
 
@@ -825,7 +661,7 @@ Therapie bei Knochenmetastasen (Denosumab)
 
 **Folgedokumentation**
 
-PRF 2612 15.10.2023 15.04.2025
+PRF2612 15.10.2023 15.04.2025
 
 Halbjährlich oder häufiger 170 1,70
 
@@ -884,11 +720,7 @@ DMP-Fallnummer
 
 Datum der Erstellung 2613
 
-Dieser Prüffall spiegelt die Möglichkeit einer „postoperativen Erstdokumentation  nach vorheriger präoperativer Einschreibung“ (pnp) wider. Es ist also nach der  präoperativen Erstdokumentation eine postoperative Erstdokumentation
-
-nachzureichen. Anschließend ist noch eine Folgedokumentation zu erstellen. Für  die Bearbeitung dieses Prüffalls müssen also drei Dokumentationsdateien  erzeugt werden.  Für diesen Prüffall werden zusätzliche Screenshots zu folgenden Sachverhalten
-
-erwartet:  Für diesen Prüffall wird ein Video erwartet, aus dem folgender Sachverhalt  sichtbar wird:  1. Der Anwender wählt vor Dateneingabe die auszufüllende Variante der  Erstdokumentation.  2. Die Felder, die in der pnp nicht angegeben werden dürfen, sind zu  sperren.
+Dieser Prüffall spiegelt die Möglichkeit einer „postoperativen Erstdokumentation  nach vorheriger präoperativer Einschreibung“ (pnp) wider. Es ist also nach der  präoperativen Erstdokumentation eine postoperative Erstdokumentation  nachzureichen. Anschließend ist noch eine Folgedokumentation zu erstellen. Für  die Bearbeitung dieses Prüffalls müssen also drei Dokumentationsdateien  erzeugt werden.  Für diesen Prüffall werden zusätzliche Screenshots zu folgenden Sachverhalten erwartet:  Für diesen Prüffall wird ein Video erwartet, aus dem folgender Sachverhalt  sichtbar wird:  1. Der Anwender wählt vor Dateneingabe die auszufüllende Variante der  Erstdokumentation.  2. Die Felder, die in der pnp nicht angegeben werden dürfen, sind zu  sperren.
 
 Brustkrebs Dokumentationsunterlagen
 
@@ -912,7 +744,7 @@ Lokoregionäres Rezidiv Datum der histologischen Sicherung
 
 **Erstdokumentation**
 
-PRF 2613 15.04.2023 15.10.2024
+PRF2613 15.04.2023 15.10.2024
 
 Halbjährlich oder häufiger 165 1,65
 
@@ -1048,7 +880,7 @@ Therapie bei Knochenmetastasen (Bisphosphonate)
 
 **Erstdokumentation**
 
-PRF 2613 29.06.2023 29.12.2024
+PRF2613 29.06.2023 29.12.2024
 
 165 1,65
 
@@ -1137,7 +969,7 @@ Nein
 
 **Folgedokumentation**
 
-PRF 2613 15.10.2023 15.04.2025
+PRF2613 15.10.2023 15.04.2025
 
 Halbjährlich oder häufiger 165 1,65
 
@@ -1182,9 +1014,7 @@ Brustkrebs -Dokumentationsunterlagen
 
 **Hinweis**
 
-**Aktionen, die durch den Antragssteller durchgeführt werden:** **1.** Versichertendaten:  Die Versichertendaten von Monika Kleinjung (XML_08) einlesen und speichern.   **2.** Anlegen einer Erstdokumentation
-
-**DATEN ZUR ERSTDOKUMENTATION BRUSTKREBS**
+**Aktionen, die durch den Antragssteller durchgeführt werden:** **1.** Versichertendaten:  Die Versichertendaten von Monika Kleinjung (XML_08) einlesen und speichern.   **2.** Anlegen einer Erstdokumentation   **DATEN ZUR ERSTDOKUMENTATION BRUSTKREBS**
 
 **Administrative Daten**
 
@@ -1278,9 +1108,7 @@ Nein
 
 ---
 
-**3.** **Anlegen einer Folgedokumentation**
-
-**DATEN ZUR FOLGEDOKUMENTATION BRUSTKREBS**
+**3.** **Anlegen einer Folgedokumentation**   **DATEN ZUR FOLGEDOKUMENTATION BRUSTKREBS**
 
 **Administrative Daten**
 
@@ -1336,7 +1164,7 @@ Therapie bei Knochenmetastasen (Denosumab)
 
 **Folgedokumentation**
 
-PRF 2614 856215715
+PRF2614 856215715
 
 15.10.2023 15.04.2025
 
@@ -1483,9 +1311,7 @@ Unbekannt
 
 ---
 
-**3.** **Anlegen einer Folgedokumentation**
-
-**DATEN ZUR FOLGEDOKUMENTATION BRUSTKREBS**
+**3.** **Anlegen einer Folgedokumentation**   **DATEN ZUR FOLGEDOKUMENTATION BRUSTKREBS**
 
 **Administrative Daten**
 
@@ -1584,9 +1410,7 @@ Brustkrebs -Dokumentationsunterlagen
 
 **Hinweis**
 
-**Aktionen, die durch den Antragssteller durchgeführt werden:** **1.** Versichertendaten:  Die Versichertendaten von Maria Eichendorf (XML_16) einlesen und speichern.   **2.** Anlegen einer Erstdokumentation
-
-**DATEN ZUR ERSTDOKUMENTATION BRUSTKREBS**
+**Aktionen, die durch den Antragssteller durchgeführt werden:** **1.** Versichertendaten:  Die Versichertendaten von Maria Eichendorf (XML_16) einlesen und speichern.   **2.** Anlegen einer Erstdokumentation   **DATEN ZUR ERSTDOKUMENTATION BRUSTKREBS**
 
 **Administrative Daten**
 
@@ -1688,9 +1512,7 @@ Unbekannt
 
 ---
 
-**3.** **Anlegen einer Folgedokumentation**
-
-**DATEN ZUR FOLGEDOKUMENTATION BRUSTKREBS**
+**3.** **Anlegen einer Folgedokumentation**   **DATEN ZUR FOLGEDOKUMENTATION BRUSTKREBS**
 
 **Administrative Daten**
 
@@ -1787,9 +1609,7 @@ Brustkrebs -Dokumentationsunterlagen
 
 **Hinweis**
 
-**Aktionen, die durch den Antragssteller durchgeführt werden:** **1.** Versichertendaten:  Viktoria Werner im Ersatzverfahren erfassen (Versichertendaten 1  **2.** Anlegen einer Erstdokumentation
-
-**DATEN ZUR ERSTDOKUMENTATION BRUSTKREBS**
+**Aktionen, die durch den Antragssteller durchgeführt werden:** **1.** Versichertendaten:  Viktoria Werner im Ersatzverfahren erfassen (Versichertendaten 1  **2.** Anlegen einer Erstdokumentation   **DATEN ZUR ERSTDOKUMENTATION BRUSTKREBS**
 
 **Administrative Daten**
 
@@ -1994,19 +1814,13 @@ Nachfolgend sind verschiedene Einschreibekonstellationen aufgeführt, die alle  
 
 Datum der Erstellung: 15.04.2023 15.10.2024
 
-Screenshots / Videodateien und ggf. oder Erläuterungen, wie das
-
-**Prüfunterlagen**
+Screenshots / Videodateien und ggf. oder Erläuterungen, wie das  **Prüfunterlagen**
 
 Softwaresystem die Eingabefehler verhindert
 
-Dieser Testfall ist unterteilt in fünf Szenarien
+Dieser Testfall ist unterteilt in fünf Szenarien  **Hinweis**
 
-**Hinweis**
-
-**Aktionen, die durch den Antragssteller durchgeführt werden:**
-
-**1.** Versichertendaten:  Die Versichertendaten von Eva Kluge (XML_03) einlesen und speichern.   **2.** Daten zur Erstdokumentation:
+**Aktionen, die durch den Antragssteller durchgeführt werden:**  **1.** Versichertendaten:  Die Versichertendaten von Eva Kluge (XML_03) einlesen und speichern.   **2.** Daten zur Erstdokumentation:
 
 #### Szenario 1
 
@@ -2035,7 +1849,6 @@ Lokoregionäres Rezidiv Datum der histologischen Sicherung
 Fernmetastasen Datum der diagnostischen Sicherung von
 
 Fernmetastasen
-
 
 ---
 
@@ -2089,7 +1902,6 @@ Fernmetastasen Datum der diagnostischen Sicherung von  Fernmetastasen 10.04.2023
 
 01.07.2022 01.01.2024
 
-
 ---
 
 **2.2.2** **Prüffall 2619**
@@ -2104,9 +1916,7 @@ Fernmetastasen Datum der diagnostischen Sicherung von  Fernmetastasen 10.04.2023
 
 **Hinweis**
 
-**Aktionen, die durch den Antragssteller durchgeführt werden:**
-
-**1.** Daten zur Erstdokumentation:
+**Aktionen, die durch den Antragssteller durchgeführt werden:**   **1.** Daten zur Erstdokumentation:
 
 #### Szenario 1
 
@@ -2252,9 +2062,9 @@ Körpergewicht
 
 Seite 34 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 /
 
-Sicherung 14. August 2024
+Sicherung
 
-01.08.2024
+14. August 2024 01.08.2024
 
 01.09.2024
 
@@ -2329,9 +2139,7 @@ Primärtumors / Kontralateralen Brustkrebses / Lokoregionären Rezidivs / Fernme
 
 **Testziel**
 
-Dieser Prüffall dient zur Kontrolle der korrekten Umsetzung von Teilen des  Anforderungskataloges DMP Brustkrebs (siehe  KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs). Es sind einzelne
-
-Szenarien beschrieben, für die ein klares Systemverhalten vorgeschrieben ist. Für  den korrekten Nachweis sind für die beschriebenen Szenarien Screenshots, die  das geforderte Systemverhalten aufzeigen, einzureichen.
+Dieser Prüffall dient zur Kontrolle der korrekten Umsetzung von Teilen des  Anforderungskataloges DMP Brustkrebs (siehe  KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs). Es sind einzelne  Szenarien beschrieben, für die ein klares Systemverhalten vorgeschrieben ist. Für  den korrekten Nachweis sind für die beschriebenen Szenarien Screenshots, die  das geforderte Systemverhalten aufzeigen, einzureichen.
 
 **Voraussetzung**
 
@@ -2339,9 +2147,7 @@ Szenario 3: Ihr System unterstützt die Datenübermittlung mit Datenträgern.  W
 
 **Prüfunterlagen**
 
-Video (Szenario 2) bzw. Screenshots / PDFs (Szenario 1 und Szenario 3) und ggf.  Erläuterungen zum Nachweis der korrekten Systemfunktionalität
-
-Screenshots und ggf. Erläuterungen zum Nachweis der korrekten  Systemfunktionalität
+Video (Szenario 2) bzw. Screenshots / PDFs (Szenario 1 und Szenario 3) und ggf.  Erläuterungen zum Nachweis der korrekten Systemfunktionalität   Screenshots und ggf. Erläuterungen zum Nachweis der korrekten  Systemfunktionalität
 
 **Hinweis**
 
@@ -2349,28 +2155,15 @@ Dieser Testfall ist unterteilt in drei Szenarien
 
 #### Szenario 1
 
-Für eine der Dokumentationen der Prüffälle 2612-2617 ist ein Ausdruck des Bogens der Erst- und
-
-Folgedokumentation einzureichen.   Bitte reichen Sie einen Ausdruck des Bogens der Erst- und der Folgedokumentation für den Prüffall 2612
-
-ein. Hier soll die Umsetzung der Anforderungen P3-10 und P3-12 (siehe
-
-KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs) nachgewiesen werden.
+Für eine der Dokumentationen der Prüffälle 2612-2617 ist ein Ausdruck des Bogens der Erst- und  Folgedokumentation einzureichen.   Bitte reichen Sie einen Ausdruck des Bogens der Erst- und der Folgedokumentation für den Prüffall 2612  ein. Hier soll die Umsetzung der Anforderungen P3-10 und P3-12 (siehe  KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs) nachgewiesen werden.
 
 #### Szenario 2
 
-Es wird eine Erstdokumentation für einen noch nicht im System existierenden Patienten angelegt. Bei  Angabe der DMP-Fallnummer ist eine bereits existierende Nummer (z.B. PRF2613) einzugeben. Das  System muss entsprechend der Anforderung P1-30 (siehe
-
-KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs) reagieren.
+Es wird eine Erstdokumentation für einen noch nicht im System existierenden Patienten angelegt. Bei  Angabe der DMP-Fallnummer ist eine bereits existierende Nummer (z.B. PRF2613) einzugeben. Das  System muss entsprechend der Anforderung P1-30 (siehe  KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs) reagieren.
 
 #### Szenario 3
 
-Die Daten werden vom Anwender für den Versand vorbereitet. Das System erzeugt eine  **Hinweismeldung bezüglich der Datenträgerbeschriftung** und druckt einen **Transportbegleitzettel** aus.
-
-Hier soll die Umsetzung der Anforderungen P4-35 und P4-36 (siehe
-
-KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs nachgewiesen werden.
-
+Die Daten werden vom Anwender für den Versand vorbereitet. Das System erzeugt eine  **Hinweismeldung bezüglich der Datenträgerbeschriftung** und druckt einen **Transportbegleitzettel** aus.  Hier soll die Umsetzung der Anforderungen P4-35 und P4-36 (siehe  KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs nachgewiesen werden.
 
 ---
 
@@ -2388,25 +2181,15 @@ Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP  (KB
 
 **Prüfunterlagen**
 
-PDF-Datei „TE_EWE_BK.pdf“ der indikationsübergreifenden Teilnahme- und
-
-Einwilligungserklärung
+PDF-Datei „TE_EWE_BK.pdf“ der indikationsübergreifenden Teilnahme- und  Einwilligungserklärung
 
 **Hinweis**
 
-Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der  indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist
-
-ein Barcode aufzudrucken.
+Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der  indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist  ein Barcode aufzudrucken.
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-**1.** **Versichertendaten**
-
-Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
-
-**2.** **Erstellen der Teilnahmeerklärung (Exemplar für die Datenstelle)** gemäß Kapitel 3 des
-
-Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) mit den folgenden Daten:
+**1.** **Versichertendaten**  Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.   **2.** **Erstellen der Teilnahmeerklärung (Exemplar für die Datenstelle)** gemäß Kapitel 3 des  Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) mit den folgenden Daten:
 
 **Administrative Daten**
 
@@ -2418,35 +2201,17 @@ DMP-Fallnummer 1010
 
 Datum 05.04.2023
 
-
 ---
 
 ## TESTDATENVALIDIERUNG
 
-Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können
-
-auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden.
-
-Zusätzlich kann optional auch der Prüffall **TDV2630** in der Testdatenvalidierung genutzt werden.
-
-Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV das Referat Zertifizierung
-
-findet nicht statt, demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht
-
-Gegenstand der Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das ZIP-Archiv mit
-
-den Prüfunterlagen hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse
-
-gesendet.
+Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können  auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden.  Zusätzlich kann optional auch der Prüffall **TDV2630** in der Testdatenvalidierung genutzt werden.  Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV das Referat Zertifizierung  findet nicht statt, demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht  Gegenstand der Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das ZIP-Archiv mit  den Prüfunterlagen hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse  gesendet.
 
 Abbildung 3: Testdatenvalidierung
 
-
 ---
 
-Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives. Beachten Sie, dass der Dateinamen
-
-des Archivs mit „**Test**_101“ beginnen muss, sonst schlägt die Validierung fehl.
+Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives. Beachten Sie, dass der Dateinamen  des Archivs mit „**Test**_101“ beginnen muss, sonst schlägt die Validierung fehl.
 
 Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
@@ -2460,7 +2225,7 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 **Prüfunterlagen**
 
-TDV 2630
+TDV2630
 
 Anlage einer Erstdokumentation mit der Schnittstellenversion
 
@@ -2470,9 +2235,7 @@ Brustkrebs-Dokumentationsunterlagen
 
 **Hinweis**
 
-1. Versichertendaten:  Viktoria Werner im Ersatzverfahren erfassen  4.2)Versichertendaten 1 Ersatzverfahren.
-
-2. Anlegen einer Erstdokumentation
+1. Versichertendaten:  Viktoria Werner im Ersatzverfahren erfassen  4.2)Versichertendaten 1 Ersatzverfahren.   2. Anlegen einer Erstdokumentation
 
 **DATEN ZUR ERSTDOKUMENTATION BRUSTKREBS**
 
@@ -2500,7 +2263,7 @@ Fernmetastasen Datum der diagnostischen Sicherung von  Fernmetastasen
 
 Operative Therapie
 
-**4 23**
+**4.23**
 
 Ersatzverfahren
 
@@ -2816,37 +2579,37 @@ IKK Classic
 
 **Referenz**
 
-[Austausch_von_XML-Daten_V(n.nn ).ZIP]
+[[Austausch_von_XML-Daten_V(n.nn ).ZIP]](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/Leitfaeden/)
 
-[EXT_ITA_AHEX_Anleitung_DMP_Brustkreb]s
+[[EXT_ITA_AHEX_Anleitung_DMP_Brustkreb](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/Brustkrebs/EXT_ITA_AHEX_Anleitung_DMP_Brustkrebs.pdf)[]s](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/Brustkrebs/EXT_ITA_AHEX_Anleitung_DMP_Brustkrebs.pdf)
 
-[EXT_ITA_AHEX_Teilnahme_DMP_Brustkrebs
+[[EXT_ITA_AHEX_Teilnahme_DMP_Brustkrebs](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/Brustkrebs/EXT_ITA_AHEX_Teilnahme_DMP_Brustkrebs.pdf)
 
-[EXT_ITA_VGEX_Plausi_ED_DMP_Brustkrebs]
+[[EXT_ITA_VGEX_Plausi_ED_DMP_Brustkr](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/Brustkrebs/EXT_ITA_VGEX_Plausi_ED_DMP_Brustkrebs.pdf)[ebs]](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/Brustkrebs/EXT_ITA_VGEX_Plausi_ED_DMP_Brustkrebs.pdf)
 
-[EXT_ITA_VGEX_Plausi_BK_Erstdoku_pnp]
+[[EXT_ITA_VGEX_Plausi_BK_Erstdoku_pnp]](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/Brustkrebs/EXT_ITA_VGEX_Plausi_BK_Erstdoku_pnp.pdf)
 
-[EXT_ITA_VGEX_Plausi_BK_Folgedoku]
+[[EXT_ITA_VGEX_Plausi_BK_Folgedoku]](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/Brustkrebs/EXT_ITA_VGEX_Plausi_BK_Folgedoku.pdf)
 
-[KBV_ITA_FMEX_AAZ_DMP_Brustkrebs]
+[[KBV_ITA_FMEX_AAZ_DMP_Brustkrebs]](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/Brustkrebs/KBV_ITA_FMEX_AAZ_DMP_Brustkrebs.pdf)
 
-[KBV_ITA_RLEX_Zert]
+[[KBV_ITA_RLEX_Zert]](https://update.kbv.de/ita-update/Allgemein/KBV_ITA_RLEX_Zert.pdf)
 
-KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs
+[KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/Brustkrebs/KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs.pdf)
 
-[KBV_ITA_VGEX_Schnittstelle_DMP_Brustkrebs
+[[KBV_ITA_VGEX_Schnittstelle_DMP_Brustkrebs](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/Brustkrebs/)
 
-[KBV_ITA_VGEX_Schnittstelle_SDDA]
+[[KBV_ITA_VGEX_Schnittstelle_SDDA]](https://update.kbv.de/ita-update/Stammdateien/SDDA)
 
-[KBV_ITA_VGEX_Schnittstelle_SDKT]
+[[KBV_ITA_VGEX_Schnittstelle_SDKT]](https://update.kbv.de/ita-update/Stammdateien/SDKT/)
 
-[KBV-Kryptomodul (XKM) und öffentlicher Testschlüssel
+[[KBV-Kryptomodul (XKM) und öffentlicher Testschlüssel](https://update.kbv.de/ita-update/KBV-Software/Kryptomodul/)
 
-[Prüfstammdateien]
+[[Prüfstammdateien]](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/)
 
-[VSD_5.2.0_Testfaelle_Vn.n.zip (eGK Daten im XML
+[[VSD_5.2.0_Testfaelle_Vn.n.zip (eGK Daten im XML](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/)
 
-[XPM-Paket_Brustkrebs]
+[[XPM-Paket_Brustkrebs]](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/Brustkrebs/KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs.pdf)
 
 Seite 43 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 /
 
@@ -2878,10 +2641,13 @@ Datensatzbeschreibung SDKT
 
 KBV-Kryptomodul
 
-Alle für das Verfahren ggf. relevanten  Prüfstammdateien -Format) eGK Daten
+Alle für das Verfahren ggf. relevanten  Prüfstammdateien
 
-Prüfmodul Brustkrebs 14. August 2024
+[-Format)](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/) eGK Daten
 
+Prüfmodul Brustkrebs
+
+14. August 2024
 
 ---
 
@@ -2891,8 +2657,6 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Kassenärztliche Bundesvereinigung
-
-Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de, www.kbv.de](http://www.kbv.de/)
 
 Seite 44 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024

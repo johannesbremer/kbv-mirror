@@ -19,9 +19,7 @@ Datum: 20.07.2012  Klassifizierung: Extern  Status: In Kraft
 
 ---
 
-**IT in der Arztpraxis**
-
-Merkblatt Krankenversichertenkarte
+**IT in der Arztpraxis**  Merkblatt Krankenversichertenkarte
 
 ### DOKUMENTENHISTORIE
 
@@ -48,9 +46,7 @@ Seite 2 von 25
 
 ---
 
-**IT in der Arztpraxis**
-
-Merkblatt Krankenversichertenkarte
+**IT in der Arztpraxis**  Merkblatt Krankenversichertenkarte
 
 #### INHALTSVERZEICHNIS
 
@@ -117,9 +113,7 @@ KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
 ---
 
-**IT in der Arztpraxis**
-
-Merkblatt Krankenversichertenkarte
+**IT in der Arztpraxis**  Merkblatt Krankenversichertenkarte
 
 **ABBILDUNGSVERZEICHNIS**
 
@@ -138,9 +132,7 @@ KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
 ---
 
-**IT in der Arztpraxis**
-
-Merkblatt Krankenversichertenkarte
+**IT in der Arztpraxis**  Merkblatt Krankenversichertenkarte
 
 **TABELLENVERZEICHNIS**
 
@@ -165,9 +157,7 @@ KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
 ---
 
-**IT in der Arztpraxis**
-
-Merkblatt Krankenversichertenkarte
+**IT in der Arztpraxis**  Merkblatt Krankenversichertenkarte
 
 **1 Die Verarbeitung der Daten der KVK**  Sämtliche Überprüfungen der Konsistenz der Daten erfolgen im Lesegerät, das in Absprache  mit dem Bundesbeauftragten für den Datenschutz vom Bundesamt für die Sicherheit in der  Informationstechnik oder einer anderen autorisierten Stelle diesbezüglich zertifiziert werden
 
@@ -201,13 +191,7 @@ Festformat).
 
 '84' 2-15 Titel (mehrere Titel sind durch Blank getrennt)
 
-VorName2) (mehrere Vornamen sind durch Bindestrich oder Blank
-
-'85' 1-28  getrennt)  NamensZuatz/VorsatzWort2) (mehrere Namenszusätze sind durch
-
-'86' 1-15  Blank getrennt)
-
-'87' 2-28 FamilienName  '88' 8 GeburtsDatum (TTMMJJJJ)
+VorName2) (mehrere Vornamen sind durch Bindestrich oder Blank  '85' 1-28  getrennt)  NamensZuatz/VorsatzWort2) (mehrere Namenszusätze sind durch  '86' 1-15  Blank getrennt)  '87' 2-28 FamilienName  '88' 8 GeburtsDatum (TTMMJJJJ)
 
 | '89' | 2-28 | StraßenName&HausNummer (durch Blank getrennt) | O |  |  |  |
 |---|---|---|---|---|---|---|
@@ -221,9 +205,7 @@ VorName2) (mehrere Vornamen sind durch Bindestrich oder Blank
 
 (mehrere Namensbestandteile durch Blank oder
 
-OrtsName3)
-
-Sonderzeichen getrennt)
+OrtsName3) Sonderzeichen getrennt)
 
 | '8D' | 4 | GültigkeitsDatum (MMJJ) |  |  |  |  |
 |---|---|---|---|---|---|---|
@@ -247,27 +229,20 @@ O AN
 
 O AN
 
-AN
+AN  N
 
-N
-
-AN
-
-tag length Daten- typ '8A' 1-3 WohnsitzLänderCode AN AN '8D' 4 GültigkeitsDatum (MMJJ)  N AN
+tag length Daten- typ '8A' 1-3 WohnsitzLänderCode AN AN '8D' 4 GültigkeitsDatum (MMJJ)  N AN  AN
 
 
 ---
 
-**IT in der Arztpraxis**
-
-Merkblatt Krankenversichertenkarte
+**IT in der Arztpraxis**  Merkblatt Krankenversichertenkarte
 
 **Anmerkungen:**
 
 **Erläuterung der Tabelle zur Datenstruktur des Application-file**
 
 1) Um Karten mit einem älteren Stand der Datenstruktur annehmen zu können, müssen  Karten ohne die Felder "VKNR“ bzw. "WOP-Kennzeichen" und "StatusErgänzung /  DMP-Kennzeichnung" sowie mit dem Feld "VersichertenStatus" bei einer Länge 1  verarbeitet werden. Eine Erläuterung des Versichertenstatusses befindet sich in der  Anlage.
-
 2) Die Datenobjekte '84' Titel, '85' VorName und '86' NamensZusatz/VorsatzWort  können zusammen mit den Blanks, welche die Datenobjekte trennen, im einzeiligen  Ausdruck auf den Vordrucken der kassenärztlichen Versorgung nicht mehr als 28  Zeichen annehmen.  Da die Blanks, welche im Ausdruck die Datenobjekte trennen, durch die  Druckersteuerung eingeschoben werden, nicht aber im Chip gespeichert sind,  ergeben sich für die Summen der Value-Felder folgende Maximallängen:
 
 **1 Datenobjekt**
@@ -315,13 +290,9 @@ Merkblatt Krankenversichertenkarte
 
 **5**
 
-**numerisch**
+**numerisch**  **VersichertenStatus 4 numerisch**  **StatusErgänzung / DMP-**
 
-**VersichertenStatus 4 numerisch**  **StatusErgänzung / DMP-**
-
-**3 alphanumerisch**
-
-**Kennzeichnung**  **Titel 15 alphanumerisch**  **VorName 28 alphanumerisch**  **NamensZusatz/VorsatzWort 15 alphanumerisch**  **FamilienName 28 alphanumerisch**  **Geburtsdatum 8 ttmmjjjj**  **StraßenName&HausNummer 28 alphanumerisch**  **WohnsitzLänderCode 3 alphanumerisch**  **Postleitzahl 7 alphanumerisch**  **OrtsName 23 alphanumerisch**  **GültigkeitsDatum 4 mmjj**  **PrüfSumme 1 XOR**
+**3 alphanumerisch**  **Kennzeichnung**  **Titel 15 alphanumerisch**  **VorName 28 alphanumerisch**  **NamensZusatz/VorsatzWort 15 alphanumerisch**  **FamilienName 28 alphanumerisch**  **Geburtsdatum 8 ttmmjjjj**  **StraßenName&HausNummer 28 alphanumerisch**  **WohnsitzLänderCode 3 alphanumerisch**  **Postleitzahl 7 alphanumerisch**  **OrtsName 23 alphanumerisch**  **GültigkeitsDatum 4 mmjj**  **PrüfSumme 1 XOR**
 
 **Tabelle 2: Datenstruktur der Versichertendaten (Festformat)**
 
@@ -366,43 +337,23 @@ ALPHA
 
 KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
-Hex- Zeichen Bezeichnung
-
-Code
-
-Leerzeichen (Space)
+Hex- Zeichen Bezeichnung  Code  Leerzeichen (Space)
 
 '20'  '27'  '29'  '2D'  '2F'
 
 **Tabelle 3: DIN 66003 Sonderzeichen**
 
-20 21 22 23 24 25 26 27 28
+20 21 22 23 24 25 26 27.28 32 33 34 35 36 37 38 39.40 SP
 
-32 33 34 35 36 37 38 39 40
+30 31 32 33 34 35 36.37 48 49 50 51 52 53 54.55 0 1 2 3 4 5 6 7
 
-SP 30 31 32 33 34 35 36 37
+41 42 43 44 45 46.47 65 66 67 68 69 70.71 A B C D E F G
 
-48 49 50 51 52 53 54 55
+50 51 52 53 54 55 56.57 80 81 82 83 84 85 86.87 P Q R S T U V W
 
-0 1 2 3 4 5 6 7
+61 62 63 64 65 66.67 97 98 99 10.10 10.10 0 1 2 3  a b c d e f g 70 71 72 73 74 75 76.77
 
-41 42 43 44 45 46 47
-
-65 66 67 68 69 70 71
-
-A B C D E F G 50 51 52 53 54 55 56 57
-
-80 81 82 83 84 85 86 87
-
-P Q R S T U V W 61 62 63 64 65 66 67
-
-97 98 99 10 10 10 10
-
-0 1 2 3
-
-a b c d e f g 70 71 72 73 74 75 76 77
-
-11 11 11 11 11 11 11 11
+11.11 11.11 11.11 11.11
 
 2 3 4 5 6 7 8 9
 
@@ -410,49 +361,35 @@ p q r s t u v w
 
 **Tabelle 4: DIN 66003 zulässige Zeichen**
 
-kommerzielles Und
-
-( Klammer auf  + plus  . Punkt  _ Unterstreichung 29  41
+kommerzielles Und  ( Klammer auf  + plus  . Punkt  _ Unterstreichung 29  41
 
 38.39  56.57  8 9
 
-48 49 72 73 H I
+48.49 72.73 H I
 
-58 59 88 89 X Y
+58.59 88.89 X Y
 
-68 69 10 10 4 5
+68.69 10.10 4 5  h i
 
-h i 78 79
+78.79
 
-12 12
+12.12
 
 0 1
 
-x y 2A 2B 2C
+x y 2A 2B 2C 42.43 44 + - . /
 
-42.43 44 + - . /
+3A 3B 3C  58 59 60
 
-3A 3B 3C
+4A 4B 4C 74.75 76 J K L
 
-58 59 60
+5A 5B 5C 90.91 92
 
-4A 4B 4C
-
-74 75 76
-
-J K L 5A 5B 5C
-
-90 91 92
-
-Z Ä Ö 6A 6B 6C
-
-10 10 10 10
-
-6 7 8
+Z Ä Ö 6A 6B 6C 10.10 10.10 6 7 8
 
 j k l 7A 7B 7C
 
-12 12 12 12
+12.12 12.12
 
 2 3 4
 
@@ -460,25 +397,19 @@ z ä ö
 
 Hex- Code  '26'  '28'  '2B'  '2E'  '5F'
 
-2D 2E 2F
-
-45 46 47
+2D 2E 2F  45 46 47
 
 3D 3E 3F  61 62 63
 
-4D 4E 4F
+4D 4E 4F  77 78 79  M N O
 
-77 78 79
+5D 5E 5F  93 94 95  Ü _
 
-M N O 5D 5E 5F  93 94 95  Ü _
+6D 6E 6F  11.11 9 0 1  m n o
 
-6D 6E 6F
+7D 7E 7F
 
-11 11 9 0 1
-
-m n o 7D 7E 7F
-
-12 12
+12.12
 
 5 6 7
 
@@ -487,9 +418,7 @@ m n o 7D 7E 7F
 
 ---
 
-**IT in der Arztpraxis**
-
-Merkblatt Krankenversichertenkarte
+**IT in der Arztpraxis**  Merkblatt Krankenversichertenkarte
 
 **2 Festlegung zur Übertragungsschnittstelle zwischen Host und**
 
@@ -503,23 +432,7 @@ Geschwindigkeit (Baud Rate): 9600 Baud
 
 Zeichenrahmen (Character-Frame): 1 Startbit, 8 Datenbits, 1 Parity bit (Even
 
-Parity),
-
-Stopbit: Bit b1 ist das 'least significant bit (lsb)', Bit b8 das 'most significant bit  (msb)'; das lsb-Bit wird stets zuerst übertragen.
-
-Zu unterstützende Größe des Informationsfeldes in einem Übertragungsblock  (Information Field Size CardTerminal IFST): 0 - 254 Bytes.
-
-Maximale Wartezeit auf einen Übertragungsblock mit der Rückantwort zu einem  vorher gesandten Kommando (Block Waiting Time BWT): 1000 ms.
-
-Maximaler Zeitabstand zwischen zwei Zeichen eines Übertragungsblocks  (Character Waiting Time CWT): 100 ms.
-
-Minimale Wartezeit zwischen Empfang des letzten Zeichens eines Blocks und  Aussenden des ersten Zeichens des Antwort-Blocks (Block Guard Time BGT):  2 ms.
-
-Prüfsumme (Error Detection Code EDC): XOR (Exclusiv-Oder-Verknüpfung).
-
-RTS- und CTS-Leitungen: RTS- und CTS-Leitungen werden von der Host- Software nicht überwacht. Es ist daher ein gebrücktes Kabel zu verwenden.
-
-**2.1.1 Übertragungs-Protokoll**  Als Übertragungsprotokoll wird das standardisierte asynchrone 'Block Transmission Protocol  T=1' (ISO/IEC 7816-3/AM 1) verwendet. Abb. 1 zeigt den allgemeinen Aufbau eines  Übertragungsblocks.
+Parity),  Stopbit: Bit b1 ist das 'least significant bit (lsb)', Bit b8 das 'most significant bit  (msb)'; das lsb-Bit wird stets zuerst übertragen.  Zu unterstützende Größe des Informationsfeldes in einem Übertragungsblock  (Information Field Size CardTerminal IFST): 0 - 254 Bytes.  Maximale Wartezeit auf einen Übertragungsblock mit der Rückantwort zu einem  vorher gesandten Kommando (Block Waiting Time BWT): 1000 ms.  Maximaler Zeitabstand zwischen zwei Zeichen eines Übertragungsblocks  (Character Waiting Time CWT): 100 ms.  Minimale Wartezeit zwischen Empfang des letzten Zeichens eines Blocks und  Aussenden des ersten Zeichens des Antwort-Blocks (Block Guard Time BGT):  2 ms.  Prüfsumme (Error Detection Code EDC): XOR (Exclusiv-Oder-Verknüpfung).  RTS- und CTS-Leitungen: RTS- und CTS-Leitungen werden von der Host- Software nicht überwacht. Es ist daher ein gebrücktes Kabel zu verwenden.   **2.1.1 Übertragungs-Protokoll**  Als Übertragungsprotokoll wird das standardisierte asynchrone 'Block Transmission Protocol  T=1' (ISO/IEC 7816-3/AM 1) verwendet. Abb. 1 zeigt den allgemeinen Aufbau eines  Übertragungsblocks.
 
 **NAD PCB LEN**
 
@@ -536,9 +449,7 @@ KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
 ---
 
-**IT in der Arztpraxis**
-
-Merkblatt Krankenversichertenkarte
+**IT in der Arztpraxis**  Merkblatt Krankenversichertenkarte
 
 Im folgenden werden die Funktionen und Leistungsmerkmale des T=1-Protokolls  beschrieben, die für die Krankenversicherten-Anwendung obligatorisch sind. Die übrigen  Funktionen müssen, wenn sie implementiert werden, ebenfalls standard-konform realisiert  werden.
 
@@ -562,27 +473,19 @@ Commands an das Karten-Terminal gesendet werden)
 
 '2'
 
-Host (PC bzw. Workstation)
-
-Die Codierungen, die daher im NAD-Byte auftreten können, zeigt Tab. 1.
+Host (PC bzw. Workstation)  Die Codierungen, die daher im NAD-Byte auftreten können, zeigt Tab. 1.
 
 **Block-Übertragungs-**
 
-**N A D**
+**N A D**  **Richtung**
 
-**Richtung**
+**(DAD/SAD)**  **Host  CT**
 
-**(DAD/SAD)**
-
-**Host  CT**
-
-**'12'**
-
-**Host  CT**
+**'12'**  **Host  CT**
 
 **'02'**
 
-| **Host**  **CT** | **'21'** | **Response of CardTerminal Control Command** |
+| Host  CT | '21' | Response of CardTerminal Control Command |
 |---|---|---|
 | **Host**  **CT** | **'20'** | **Response of KVK-Application Command** |
 
@@ -599,9 +502,7 @@ KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
 ---
 
-**IT in der Arztpraxis**
-
-Merkblatt Krankenversichertenkarte
+**IT in der Arztpraxis**  Merkblatt Krankenversichertenkarte
 
 **2.1.1.1 Fehlerfreie Übertragung**  Die Karten-Terminal-Steuerungs-Kommandos und die Anwendungs-Kommandos sowie  deren zugehörige Antworten werden im sog. I-Block (Information-Block) übertragen  (siehe Abb. 2).
 
@@ -629,15 +530,7 @@ Die PCB-Codierung des I-Blocks zeigt Abb. 3.
 
 **0 x x 0 0 0 0 0**
 
-**RFU (not used)**
-
-**More data bit (M-bit):**  **0 = last or only block**  **1 = subsequent block(s) follow**
-
-**Send sequence number**
-
-**I-Block indication**
-
-**Abbildung 3: PCB-Codierung eines Information-Blocks (I-Block)**
+**RFU (not used)**  **More data bit (M-bit):**  **0 = last or only block**  **1 = subsequent block(s) follow**   **Send sequence number**  **I-Block indication**  **Abbildung 3: PCB-Codierung eines Information-Blocks (I-Block)**
 
 Der Sende-Sequenz-Zähler ist ein Sicherheitsmerkmal zur Erkennung des Verlustes eines  Übertragungsblocks und ist daher zu unterstützen. Er nimmt alternierend die Werte 0 und 1  an, d.h. der erste vom Host gesendete Block hat im PCB-Byte die Codierung '00', der 2. die  Codierung '40', der 3. wieder '00' usw..
 
@@ -648,9 +541,7 @@ KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
 ---
 
-**IT in der Arztpraxis**
-
-Merkblatt Krankenversichertenkarte
+**IT in der Arztpraxis**  Merkblatt Krankenversichertenkarte
 
 Da beim Senden aufeinander folgender Informationsblöcke Flußkontrolle benötigt wird, ist ein  I-Block mit M-Bit=1 mit einem Receive Ready-Block (R-Block) zu quittieren. Abb. 4 zeigt  einen Kommunikationsablauf mit Chaining.
 
@@ -658,13 +549,12 @@ Da beim Senden aufeinander folgender Informationsblöcke Flußkontrolle benötig
 
 **(PC oder**
 
-I-Block
+I-Block  **Workstation)**
 
-**Workstation)**
-
+```
 I-Block   R-Block
-
 I-Block
+```
 
 **Abbildung 4: Kommunikation mit Chaining**
 
@@ -678,9 +568,7 @@ Die PCB-Codierung des R-Blocks zeigt Abb. 5. Das Informationsfeld ist bei einem 
 
 **RFU**
 
-**RFU**   **Send sequence number of next expected I-block**
-
-**R-Block indication**  **Abbildung 5: PCB-Codierung des R-Blocks**
+**RFU**   **Send sequence number of next expected I-block**   **R-Block indication**  **Abbildung 5: PCB-Codierung des R-Blocks**
 
 KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
@@ -693,9 +581,7 @@ KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
 ---
 
-**IT in der Arztpraxis**
-
-Merkblatt Krankenversichertenkarte
+**IT in der Arztpraxis**  Merkblatt Krankenversichertenkarte
 
 **2.1.1.2 Übertragung**  Wird ein fehlerhafter I-Block empfangen, ist dies dem Kommunikationspartner mit einem R- Block anzuzeigen (siehe Abb. 6). Hierbei hat Bit b5 des R-Blocks den Wert der Send  Sequence Number des Blocks, der wiederholt werden soll.
 
@@ -703,29 +589,25 @@ Merkblatt Krankenversichertenkarte
 
 **mit Fehlerbehandlung**
 
+```
 I-Block
-
 R-Block
+```
 
 **Card-**
 
 I-Block **Terminal**
 
+```
 I-Block
-
-I-Block  I-Block
-
-R-Block
-
-I-Block
+I-Block  I-Block   R-Block   I-Block
+```
 
 **Host**
 
 **(PC oder**
 
-**Card-**
-
-**Workstation)**
+**Card-**  **Workstation)**
 
 **Terminal**
 
@@ -737,7 +619,9 @@ Tritt ein Fehler zum zweiten Mal hintereinander auf, ist vom Host her eine Resyn
 
 KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
+```
 **Fehlerhafter**  **I-Block Host/CT:**
+```
 
 **1. CT sendet R-Block**
 **2. Host wiederholt I-Block**
@@ -749,21 +633,23 @@ KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
 ---
 
-**IT in der Arztpraxis**
-
-Merkblatt Krankenversichertenkarte
+**IT in der Arztpraxis**  Merkblatt Krankenversichertenkarte
 
 **b8 b7 b6 b5 b4 b3 b2 b1**
 
 **1 1 0 0 0 0 1 1**
 
+```
 S-Block indication
+```
 
 **b8 b7 b6 b5 b4 b3 b2 b1**
 
 **1 1 1 0 0 0 1 1**
 
+```
 S-Block indication
+```
 
 **Abb. 7. PCB-Codierung der S-Blöcke für Waiting Time Extension request/response**
 
@@ -773,16 +659,14 @@ Ein WTX request kann auch vom Host abgelehnt werden. In diesem Fall wird als Ant
 
 KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
+```
 WTX request
-
 WTX response
-
+```
 
 ---
 
-**IT in der Arztpraxis**
-
-Merkblatt Krankenversichertenkarte
+**IT in der Arztpraxis**  Merkblatt Krankenversichertenkarte
 
 **b8 b7 b6 b5 b4 b3 b2 b1**
 
@@ -805,16 +689,16 @@ Im Informationsfeld wird das Kommando bzw. die Antwort auf das Kommando übertra
 KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
 #### RESYNCH S-Block indication RESYNCH S-Block indication
+```
 **request**
+```
 
 #### response
 
 
 ---
 
-**IT in der Arztpraxis**
-
-Merkblatt Krankenversichertenkarte
+**IT in der Arztpraxis**  Merkblatt Krankenversichertenkarte
 
 **3 Beschreibung der Kommandos für die KVK-Anwendung und zur**
 
@@ -884,7 +768,9 @@ CLA INS P1
 
 '20' '11' 'FU' 'CQ' '00'
 
+```
 RESET CT
+```
 
 **Response:**  SW1 SW2
 
@@ -892,18 +778,16 @@ KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
 P2 L
 
+```
 Command Qualifier:  '00' = No response data
-
 Functional Unit:  '00' = Card Terminal
+```
 
 **Tabelle 7: Reset CT**  Status Bytes:  '9000' = Reset successful '6400' = Reset not successful
 
-
 ---
 
-**IT in der Arztpraxis**
-
-Merkblatt Krankenversichertenkarte
+**IT in der Arztpraxis**  Merkblatt Krankenversichertenkarte
 
 **3.2 REQUEST ICC**
 
@@ -911,13 +795,12 @@ Mit diesem Kommando wird die Chipkarte angefordert. Nach Einführung der Chipkar
 
 **Command:**
 
-Lc  CLA INS P1 P2
+Lc  CLA INS P1 P2  '20' '12' 'FU' 'CQ' Lc
 
-'20' '12' 'FU' 'CQ' Lc
-
+```
 REQUEST ICC
-
 Functional Unit:  '01' = CardTerminal port 1
+```
 
 **Response:**
 
@@ -927,32 +810,24 @@ KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
 L   T
 
-Optional data field:  Time in seconds  (1 byte, default value 60  sec)  for presenting the ICC
-
-Command Qualifier:  '00' = No response data
-
-Status Bytes:  '9000' = synchronous ICC presented,  reset successful
-
-'6200' = Warning: no card presented  within specified time
-
-'6400' = Reset not successful
-
+```
+Optional data field:  Time in seconds  (1 byte, default value 60  sec)  for presenting the ICC Command Qualifier:  '00' = No response data
+Status Bytes:  '9000' = synchronous ICC presented,  reset successful  '6200' = Warning: no card presented  within specified time  '6400' = Reset not successful
+```
 
 ---
 
-**IT in der Arztpraxis**
-
-Merkblatt Krankenversichertenkarte
+**IT in der Arztpraxis**  Merkblatt Krankenversichertenkarte
 
 **3.3 EJECT ICC**
 
 Das Kommando steuert die Kontaktiereinheit und ggf. vorhandene Signalgeber. Der Timer T  ist auf '01' (=1 Sekunde) zu setzen. Im L-Byte ist dann ebenfalls '01' (Length = 1 Byte)  anzugeben. Gesetzte Indikatoren (LEDs und/oder akustisches Signal) werden nach  Herausnahme der Karte bzw. nach Ablauf des Application Timers, wenn die Karte nicht  entnommen wurde, gelöscht.
 
-**Command:**  Lc  CLA INS P1 P2
+**Command:**  Lc  CLA INS P1 P2  '20' '15' 'FU' 'CQ' Lc
 
-'20' '15' 'FU' 'CQ' Lc
-
+```
 EJECT ICC
+```
 
 **Response:**
 
@@ -962,22 +837,16 @@ KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
 L  T Optional data field:  Time in seconds  (1 byte, default value 60 sec) for removing the ICC
 
+```
 Command Qualifier:  '00' = without acoustic signal  '01' = with acoustic signal
-
 Functional Unit:  '01' = CardTerminal port 1
-
-Status Bytes:  '9000' = Command successful  '9001' = Command successful, card  removed
-
-'6200' = Warning: Card not removed
-
+Status Bytes:  '9000' = Command successful  '9001' = Command successful, card  removed  '6200' = Warning: Card not removed
 within specified time
-
+```
 
 ---
 
-**IT in der Arztpraxis**
-
-Merkblatt Krankenversichertenkarte
+**IT in der Arztpraxis**  Merkblatt Krankenversichertenkarte
 
 **4 KVK-Anwendungs-Kommandos**
 
@@ -989,23 +858,17 @@ Mit dem SELECT FILE-Kommando wird die KVK-Anwendung selektiert. Das Kommando wir
 
 CLA INS P1 P2 L
 
-Lc
-
-'00' 'A4' 'SC' '00' Lc
+Lc  '00' 'A4' 'SC' '00' Lc
 
 Application Id. (AID)
 
+```
 SELECT File
-
-AID der Krankenversicherten-
-
-'06' Anwendung: 'D27600000101'*) bzw.
-
+AID der Krankenversicherten-  '06' Anwendung: 'D27600000101'*) bzw.
 'D28000000101'
-
 Selection Control:
-
 '04' = Application ID (AID)
+```
 
 **Die AID hat sich durch neueste ISO-Bestimmungen geändert.Da die**  **Versichertenkarten teilweise schon mit der alten AID ('D28000000101') in Umlauf**  **sind, sind für das Chipkarten-Terminal beide AID's zugelassen.**
 
@@ -1013,22 +876,19 @@ Response:
 
 SW1 SW2
 
+```
 Status Bytes:
-
 '9000' = Command successful
-
 '6A82' = Application not found or
-
 ATR/DIR data incorrect
+```
 
 KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
 
 ---
 
-**IT in der Arztpraxis**
-
-Merkblatt Krankenversichertenkarte
+**IT in der Arztpraxis**  Merkblatt Krankenversichertenkarte
 
 **4.2 READ BINARY**
 
@@ -1038,7 +898,9 @@ Das Kommando dient zum Lesen des VersichertenDatenTemplates. Das Offset wird  fo
 
 CLA INS P1  '00' 'BO' 'xx'
 
+```
 READ BINARY
+```
 
 **Response:**   **Data to be read**
 
@@ -1050,30 +912,25 @@ Als Offset ist im READ BINARY-Kommando  Adresse '0000' (= Anfangsadresse der Anw
 
 KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
-P2 L
+P2 L  'xx' Le
 
-'xx' Le
-
+```
 Length of data to be read  ('00' = read available data  until End-of-File (EOF)  out max. up to 256 bytes)
-
 Offset ('0000' = Logical start  address of the file)
+```
 
 **SW2**
 
-Status Bytes:  '9000' = Command successful  '6282' = Warning, end of file  reached before reading  Le bytes
-
-'6501' = Memory failure or data  corrupted
-
-'6B00' = Wrong offset
+```
+Status Bytes:  '9000' = Command successful  '6282' = Warning, end of file  reached before reading  Le bytes  '6501' = Memory failure or data  corrupted  '6B00' = Wrong offset
+```
 
 '0000' anzugeben, d.h. es soll ab logischer
 
 
 ---
 
-**IT in der Arztpraxis**
-
-Merkblatt Krankenversichertenkarte
+**IT in der Arztpraxis**  Merkblatt Krankenversichertenkarte
 
 b) Lesen des VD-Templates mit mehreren READ BINARY-Kommandos
 
@@ -1086,9 +943,7 @@ KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
 ---
 
-**IT in der Arztpraxis**
-
-Merkblatt Krankenversichertenkarte
+**IT in der Arztpraxis**  Merkblatt Krankenversichertenkarte
 
 **5 Ablauf der KVK-Anwendung**  Nach dem Start der KVK-Anwendung müssen zuerst die Übertragungs-Protokollautomaten  durch Austausch von RESYNCH request/response auf einen definierten Ausgangswert  zurückgesetzt werden. Danach werden auf Anwendungsebene folgende Kommandos  gesendet:
 
@@ -1100,9 +955,7 @@ Merkblatt Krankenversichertenkarte
 
 **KrankenVersichertenDatenTemplate lesen (der**  **Befehl wird ggf. mehrfach mit Fortschaltung des**  **Lesebereichs gegeben)**
 
-**4. EJECT ICC**
-
-Dieser Kommando-Zyklus wird dann jeweils nach Bedarf wiederholt. Das  RESET CT-Kommando wird nur dann gegeben, wenn  Karten-Terminal auf Anwendungsebene eine Situation eingestellt hat, die ein  RESET CT-Kommando erfordert.
+**4. EJECT ICC**    Dieser Kommando-Zyklus wird dann jeweils nach Bedarf wiederholt. Das  RESET CT-Kommando wird nur dann gegeben, wenn  Karten-Terminal auf Anwendungsebene eine Situation eingestellt hat, die ein  RESET CT-Kommando erfordert.
 
 Weiterhin gelten folgende Hinweise:
 
@@ -1124,9 +977,7 @@ Der PC sendet bis zum Ablauf einer Default-Wartezeit von 60 Sekunden (diese Zeit
 
 **4. Ablauf der Default-Wartezeit**
 
-**5. Sonstiger Kommunikationsfehler (z.B. Ablauf der BWT ohne Antwort)**
-
-Bei Abbruch-Bedingung 2) bis 5) folgt der weiter oben geschilderte RESYNCH - und RESET  CT -Zyklus.
+**5. Sonstiger Kommunikationsfehler (z.B. Ablauf der BWT ohne Antwort)**   Bei Abbruch-Bedingung 2) bis 5) folgt der weiter oben geschilderte RESYNCH - und RESET  CT -Zyklus.
 
 KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
@@ -1139,9 +990,7 @@ sich bei der Kommunikation mit dem
 
 ---
 
-**IT in der Arztpraxis**
-
-Merkblatt Krankenversichertenkarte
+**IT in der Arztpraxis**  Merkblatt Krankenversichertenkarte
 
 **6 Serielle Schnittstelle**
 
@@ -1159,19 +1008,9 @@ Schnittstelle am Gerät, male 9
 
 6 7
 
-Stift Nr. Signalname
+Stift Nr. Signalname  1 CD Carrier Detect  2 RxD Receive Data  3 TxD Transmit Data  4 DTR Data Terminal Ready  5 Signal Ground  6 DSR Data Set Ready  7 RTS Request to Send  8 CTS Clear to Send  9 RI
 
-1 CD Carrier Detect  2 RxD Receive Data  3 TxD Transmit Data  4 DTR Data Terminal Ready
-
-5 Signal Ground  6 DSR Data Set Ready 7 RTS Request to Send
-
-8 CTS Clear to Send
-
-9 RI
-
-Ring indicator
-
-Leitungen 1 und 9 sind optional, sie werden für die Anwendung nicht genutzt.  **Tabelle 8: Serielle Schnittstelle**
+Ring indicator  Leitungen 1 und 9 sind optional, sie werden für die Anwendung nicht genutzt.  **Tabelle 8: Serielle Schnittstelle**
 
 KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
@@ -1183,17 +1022,11 @@ Karten  Terminal 1 2 3 4 5
 
 6
 
-6
+6 7
 
-7
+7 8
 
-7
-
-8
-
-8
-
-9
+8 9
 
 9
 

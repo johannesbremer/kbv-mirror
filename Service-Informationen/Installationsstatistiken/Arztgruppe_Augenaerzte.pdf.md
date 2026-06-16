@@ -161,9 +161,9 @@ MEDYS GmbH 14
 
 0
 
-261 **S 3-Win**
+261 **S3-Win**
 
-S 3 Praxiscomputer GmbH / Maximilian Flender 13 14
+S3 Praxiscomputer GmbH / Maximilian Flender 13 14
 
 -1
 

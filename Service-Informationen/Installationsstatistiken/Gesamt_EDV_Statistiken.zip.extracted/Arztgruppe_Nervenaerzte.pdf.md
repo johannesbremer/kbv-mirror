@@ -52,7 +52,7 @@
 
 **ORBIS®**
 
-**T 2med**
+**T2med**
 
 **Elefant**
 
@@ -78,7 +78,7 @@ medatixx GmbH & Co. KG
 
 Dedalus HealthCare GmbH
 
-T 2med GmbH & Co. KG
+T2med GmbH & Co. KG
 
 HASOMED GmbH 1
 

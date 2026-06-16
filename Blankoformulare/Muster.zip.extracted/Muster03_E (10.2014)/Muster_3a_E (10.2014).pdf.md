@@ -54,9 +54,7 @@
 
 **mutmaßlichen Tag** **der Entbindung**
 
-**Ausfertigung für die Krankenkasse**
-
-**geb. am**
+**Ausfertigung für die Krankenkasse** **geb. am**
 
 **Vertragsarztstempel / Unterschrift des Arztes**
 

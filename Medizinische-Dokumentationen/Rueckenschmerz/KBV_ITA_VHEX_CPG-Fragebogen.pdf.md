@@ -1,10 +1,6 @@
 ### CPG-Fragebogen
 
-1 Wie würden Sie Ihre **momentanen** Rückenschmerzen, d.h.
-
-Skala einschätzen, wenn *0 = kein Schmerz* und *10 = stärkster vorstellbarer Schmerz*
-
-[0] [1] [2] [3] [4] [5]
+1 Wie würden Sie Ihre **momentanen** Rückenschmerzen, d.h.  Skala einschätzen, wenn *0 = kein Schmerz* und *10 = stärkster vorstellbarer Schmerz*  [0] [1] [2] [3] [4] [5]
 
 Kein
 
@@ -64,9 +60,7 @@ Beeinträchtigung
 
 In welchem Maße haben Rückenschmerzen in den letzten 3 Monaten Ihre
 
-**6.**  oder Unternehmungen im** Familien- und Freundeskreis**
-
-*Beeinträchtigung* und *10 = keine Aktivitäten mehr möglich*
+**6.**  oder Unternehmungen im** Familien- und Freundeskreis**  *Beeinträchtigung* und *10 = keine Aktivitäten mehr möglich*
 
 [0] [1] [2] [3] [4] [5]
 
@@ -150,9 +144,7 @@ Keine Aktivität mehr möglich
 
 [9] [10]
 
-Stärkster
-
-vorstellbarer  Schmerz
+Stärkster   vorstellbarer  Schmerz
 
 [9] [10]   Stärkster
 
@@ -160,9 +152,7 @@ vorstellbarer  Schmerz
 
 , wenn
 
-[9] [10]   Stärkster
-
-vorstellbarer  Schmerz
+[9] [10]   Stärkster   vorstellbarer  Schmerz
 
 [9] [10]
 

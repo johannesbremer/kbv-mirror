@@ -12,69 +12,69 @@
 
 112 **TURBOMED**
 
-CompuGroup Medical Deutschland AG 1 991
+CompuGroup Medical Deutschland AG 1.991
 
-2 060
+2.060
 
 -69
 
-280 **CGM MEDISTAR BLACK PRO** CompuGroup Medical Deutschland AG 1 951
+280 **CGM MEDISTAR BLACK PRO** CompuGroup Medical Deutschland AG 1.951
 
-1 942
+1.942
 
 9
 
 462 **medatixx**
 
-medatixx GmbH & Co. KG 1 675
+medatixx GmbH & Co. KG 1.675
 
-1 617
+1.617
 
 58
 
 216 **x.isynet**
 
-medatixx GmbH & Co. KG 1 576
+medatixx GmbH & Co. KG 1.576
 
-1 601
+1.601
 
 -25
 
-498 **T 2med**
+498 **T2med**
 
-T 2med GmbH & Co. KG 1 556
+T2med GmbH & Co. KG 1.556
 
-1 504
+1.504
 
 52
 
 210 **Medical Office**
 
-INDAMED EDV-Entwicklung und Vertrieb GmbH 1 508 1 494
+INDAMED EDV-Entwicklung und Vertrieb GmbH 1.508 1.494
 
 14
 
 243 **x.concept**
 
-medatixx GmbH & Co. KG 1 232
+medatixx GmbH & Co. KG 1.232
 
-1 267
+1.267
 
 -35
 
 203 **ALBIS**
 
-CompuGroup Medical Deutschland AG 1 107
+CompuGroup Medical Deutschland AG 1.107
 
-1 133
+1.133
 
 -26
 
 244 **QUINCY WIN**
 
-Frey ADV GmbH 1 056
+Frey ADV GmbH 1.056
 
-1 072
+1.072
 
 -16
 
@@ -117,7 +117,7 @@ CompuGroup Medical Deutschland AG 702
 
 060 **Data-AL**
 
-261 **S 3-Win**
+261 **S3-Win**
 
 488 **inSuite**
 
@@ -137,7 +137,7 @@ PEGA Elektronik GmbH
 
 Data-AL GmbH
 
-S 3 Praxiscomputer GmbH / Maximilian Flender
+S3 Praxiscomputer GmbH / Maximilian Flender
 
 Doc Cirrus GmbH
 
@@ -359,9 +359,9 @@ CompuGroup Medical Deutschland AG 47
 
 3
 
-498 **T 2med**
+498 **T2med**
 
-T 2med GmbH & Co. KG 45
+T2med GmbH & Co. KG 45
 
 45
 
@@ -387,9 +387,9 @@ Deutsche Telekom Clinical Solutions GmbH 35 34
 
 1
 
-261 **S 3-Win**
+261 **S3-Win**
 
-S 3 Praxiscomputer GmbH / Maximilian Flender 34 35
+S3 Praxiscomputer GmbH / Maximilian Flender 34 35
 
 -1
 
@@ -569,9 +569,9 @@ MEDYS GmbH 14
 
 0
 
-261 **S 3-Win**
+261 **S3-Win**
 
-S 3 Praxiscomputer GmbH / Maximilian Flender 13 14
+S3 Praxiscomputer GmbH / Maximilian Flender 13 14
 
 -1
 
@@ -719,9 +719,9 @@ NEXUS AG 61
 
 5
 
-498 **T 2med**
+498 **T2med**
 
-T 2med GmbH & Co. KG 52
+T2med GmbH & Co. KG 52
 
 48
 
@@ -800,7 +800,7 @@ medatixx GmbH & Co. KG 29
 
 252 **CGM M1 PRO**
 
-498 **T 2med**
+498 **T2med**
 
 226 **CGM MEDICO**
 
@@ -810,9 +810,9 @@ medatixx GmbH & Co. KG 29
 
 **Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-CompuGroup Medical Deutschland AG 1 706
+CompuGroup Medical Deutschland AG 1.706
 
-1 740
+1.740
 
 -34
 
@@ -868,7 +868,7 @@ CompuGroup Medical Deutschland AG 287
 
 -3
 
-T 2med GmbH & Co. KG 244
+T2med GmbH & Co. KG 244
 
 236
 
@@ -992,7 +992,7 @@ MEDYS GmbH 2
 
 210 **Medical Office**
 
-498 **T 2med**
+498 **T2med**
 
 243 **x.concept**
 
@@ -1000,7 +1000,7 @@ MEDYS GmbH 2
 
 086 **DURIA**
 
-261 **S 3-Win**
+261 **S3-Win**
 
 252 **CGM M1 PRO**
 
@@ -1048,7 +1048,7 @@ INDAMED EDV-Entwicklung und Vertrieb GmbH 126 124
 
 2
 
-T 2med GmbH & Co. KG 113
+T2med GmbH & Co. KG 113
 
 109
 
@@ -1072,7 +1072,7 @@ Duria eG 85
 
 -1
 
-S 3 Praxiscomputer GmbH / Maximilian Flender 85 86
+S3 Praxiscomputer GmbH / Maximilian Flender 85 86
 
 -1
 
@@ -1174,11 +1174,11 @@ PEGA Elektronik GmbH 28
 
 462 **medatixx**
 
-261 **S 3-Win**
+261 **S3-Win**
 
 243 **x.concept**
 
-498 **T 2med**
+498 **T2med**
 
 244 **QUINCY WIN**
 
@@ -1230,7 +1230,7 @@ medatixx GmbH & Co. KG 104
 
 2
 
-S 3 Praxiscomputer GmbH / Maximilian Flender 98 100
+S3 Praxiscomputer GmbH / Maximilian Flender 98 100
 
 -2
 
@@ -1240,7 +1240,7 @@ medatixx GmbH & Co. KG 85
 
 -3
 
-T 2med GmbH & Co. KG 82
+T2med GmbH & Co. KG 82
 
 80
 
@@ -1356,7 +1356,7 @@ MediSoftware Computersysteme für Ärzte 24
 
 243 **x.concept**
 
-498 **T 2med**
+498 **T2med**
 
 254 **ORBIS®**
 
@@ -1372,31 +1372,31 @@ MediSoftware Computersysteme für Ärzte 24
 
 **Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-CompuGroup Medical Deutschland AG 1 595
+CompuGroup Medical Deutschland AG 1.595
 
-1 606
+1.606
 
 -11
 
-medatixx GmbH & Co. KG 1 401
+medatixx GmbH & Co. KG 1.401
 
-1 431
+1.431
 
 -30
 
-CompuGroup Medical Deutschland AG 1 360
+CompuGroup Medical Deutschland AG 1.360
 
-1 402
+1.402
 
 -42
 
-medatixx GmbH & Co. KG 1 040
+medatixx GmbH & Co. KG 1.040
 
-1 001
+1.001
 
 39
 
-INDAMED EDV-Entwicklung und Vertrieb GmbH 1 028 1 007
+INDAMED EDV-Entwicklung und Vertrieb GmbH 1.028 1.007
 
 21
 
@@ -1412,7 +1412,7 @@ medatixx GmbH & Co. KG 855
 
 -20
 
-T 2med GmbH & Co. KG 818
+T2med GmbH & Co. KG 818
 
 781
 
@@ -1649,9 +1649,9 @@ INDAMED EDV-Entwicklung und Vertrieb GmbH 32 29
 
 252 **CGM M1 PRO**
 
-498 **T 2med**
+498 **T2med**
 
-261 **S 3-Win**
+261 **S3-Win**
 
 266 **x.comfort**
 
@@ -1669,9 +1669,9 @@ medatixx GmbH & Co. KG
 
 CompuGroup Medical Deutschland AG
 
-T 2med GmbH & Co. KG
+T2med GmbH & Co. KG
 
-S 3 Praxiscomputer GmbH / Maximilian Flender
+S3 Praxiscomputer GmbH / Maximilian Flender
 
 medatixx GmbH & Co. KG
 
@@ -1756,7 +1756,7 @@ Data-AL GmbH
 
 216 **x.isynet**
 
-498 **T 2med**
+498 **T2med**
 
 457 **tomedo**
 
@@ -1812,7 +1812,7 @@ medatixx GmbH & Co. KG 300
 
 0
 
-T 2med GmbH & Co. KG 252
+T2med GmbH & Co. KG 252
 
 236
 
@@ -1897,9 +1897,9 @@ Deutsche Telekom Clinical Solutions GmbH 77 72
 
 5
 
-261 **S 3-Win**
+261 **S3-Win**
 
-S 3 Praxiscomputer GmbH / Maximilian Flender 65 63
+S3 Praxiscomputer GmbH / Maximilian Flender 65 63
 
 2
 
@@ -2315,7 +2315,7 @@ INDAMED EDV-Entwicklung und Vertrieb GmbH 1
 
 023 **DATA VITAL**
 
-261 **S 3-Win**
+261 **S3-Win**
 
 **Anbieter**
 
@@ -2325,7 +2325,7 @@ MediSoftware Computersysteme für Ärzte
 
 CompuGroup Medical Deutschland AG
 
-S 3 Praxiscomputer GmbH / Maximilian Flender 2
+S3 Praxiscomputer GmbH / Maximilian Flender 2
 
 **Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
@@ -2394,7 +2394,7 @@ S 3 Praxiscomputer GmbH / Maximilian Flender 2
 
 **DS-WIN-PLUS (DS-WIN-MED)**
 
-**Z 1**
+**Z1**
 
 **Medi10**
 
@@ -2662,7 +2662,7 @@ MediSoftware Computersysteme für Ärzte 2
 
 **ORBIS®**
 
-**T 2med**
+**T2med**
 
 **Elefant**
 
@@ -2688,7 +2688,7 @@ medatixx GmbH & Co. KG
 
 Dedalus HealthCare GmbH
 
-T 2med GmbH & Co. KG
+T2med GmbH & Co. KG
 
 HASOMED GmbH 1
 
@@ -2888,7 +2888,7 @@ Duria eG 2
 
 226 **CGM MEDICO**
 
-498 **T 2med**
+498 **T2med**
 
 203 **ALBIS**
 
@@ -2916,7 +2916,7 @@ medatixx GmbH & Co. KG
 
 CGM Clinical Europe GmbH
 
-T 2med GmbH & Co. KG
+T2med GmbH & Co. KG
 
 CompuGroup Medical Deutschland AG
 
@@ -3021,7 +3021,7 @@ CompuGroup Medical Deutschland AG 1
 
 266 **x.comfort**
 
-261 **S 3-Win**
+261 **S3-Win**
 
 **Anbieter**
 
@@ -3037,7 +3037,7 @@ Duria eG
 
 medatixx GmbH & Co. KG
 
-S 3 Praxiscomputer GmbH / Maximilian Flender 2
+S3 Praxiscomputer GmbH / Maximilian Flender 2
 
 **Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
@@ -3112,7 +3112,7 @@ S 3 Praxiscomputer GmbH / Maximilian Flender 2
 
 216 **x.isynet**
 
-439 **e RIS**
+439 **eRIS**
 
 343 **SAP Ambulatory Care Management**
 
@@ -3245,7 +3245,7 @@ Abasoft EDV-Programme GmbH 1
 
 314 **IMedOne**
 
-498 **T 2med**
+498 **T2med**
 
 230 **QMED.PRAXIS**
 
@@ -3261,7 +3261,7 @@ Zollsoft GmbH
 
 Deutsche Telekom Clinical Solutions Gmb
 
-T 2med GmbH & Co. KG
+T2med GmbH & Co. KG
 
 Schwerdtner Medizin-Software GmbH 2
 
@@ -3344,7 +3344,7 @@ H 3
 
 343 **SAP Ambulatory Care Management**
 
-498 **T 2med**
+498 **T2med**
 
 **Anbieter**
 
@@ -3420,7 +3420,7 @@ SAP SE 115
 
 -2
 
-T 2med GmbH & Co. KG 108
+T2med GmbH & Co. KG 108
 
 108
 
@@ -3475,9 +3475,9 @@ medatixx GmbH & Co. KG 44
 
 1
 
-261 **S 3-Win**
+261 **S3-Win**
 
-S 3 Praxiscomputer GmbH / Maximilian Flender 35 38
+S3 Praxiscomputer GmbH / Maximilian Flender 35 38
 
 -3
 
@@ -3746,7 +3746,7 @@ Bitron GmbH Technologiesysteme 2
 
 210 **Medical Office**
 
-498 **T 2med**
+498 **T2med**
 
 086 **DURIA**
 
@@ -3776,7 +3776,7 @@ CompuGroup Medical Deutschland AG
 
 INDAMED EDV-Entwicklung und Vertrieb GmbH
 
-T 2med GmbH & Co. KG
+T2med GmbH & Co. KG
 
 Duria eG
 
@@ -3879,19 +3879,14 @@ medatixx GmbH & Co. KG 1
 
 ---
 
-**Id Praxissoftware**
-
-348 **psyprax**
-
-078 **Med7**
-
-081 **Arztpraxis Wiegand**
-
-457 **tomedo**
-
-083 **PegaMed**
-
-261 **S 3-Win**
+| Id | Praxissoftware |
+|---|---|
+| 348 | **psyprax** |
+| 078 **Med7** |  |
+| 081 | **Arztpraxis Wiegand** |
+| 457 **tomedo** |  |
+| 083 | **PegaMed** |
+| 261 **S3-Win** |  |
 
 **Anbieter**
 
@@ -3905,7 +3900,7 @@ Zollsoft GmbH
 
 PEGA Elektronik GmbH
 
-S 3 Praxiscomputer GmbH / Maximilian Flender 2
+S3 Praxiscomputer GmbH / Maximilian Flender 2
 
 **Installationen 2.Q.2025**
 
@@ -4036,33 +4031,33 @@ Frey ADV GmbH 1
 
 **Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-10 652
+10.652
 
-10 667
+10.667
 
 -15
 
-10 283
+10.283
 
-10 339
+10.339
 
 -56
 
-5 594
+5.594
 
-5 499
+5.499
 
 95
 
-4 440
+4.440
 
-4 375
+4.375
 
 65
 
-1 709
+1.709
 
-1 703
+1.703
 
 6
 
@@ -4200,7 +4195,7 @@ MEDYS GmbH 24
 
 226 **CGM MEDICO**
 
-439 **e RIS**
+439 **eRIS**
 
 314 **IMedOne**
 
@@ -4660,7 +4655,7 @@ CompuGroup Medical Deutschland AG 2
 
 244 **QUINCY WIN**
 
-498 **T 2med**
+498 **T2med**
 
 252 **CGM M1 PRO**
 
@@ -4728,7 +4723,7 @@ Frey ADV GmbH 86
 
 -1
 
-T 2med GmbH & Co. KG 86
+T2med GmbH & Co. KG 86
 
 84
 

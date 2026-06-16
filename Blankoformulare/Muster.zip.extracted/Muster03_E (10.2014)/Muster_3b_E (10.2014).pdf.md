@@ -1,6 +1,6 @@
-\| **Krankenkasse bzw. Kostenträger** | | |
-\| **Name, Vorname des Versicherten** | | |
-| **Kostenträgerkennung** | **Versicherten-Nr.** | |
+\| Krankenkasse bzw. Kostenträger | | |
+\| Name, Vorname des Versicherten | | |
+| Kostenträgerkennung | Versicherten-Nr. | |
 |---|---|---|
 | **Betriebsstätten-Nr.** | **Arzt-Nr.** | |
 
@@ -14,7 +14,7 @@
 
 **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
 
-| **Zeugnis** | **über** | **den** |  |
+| Zeugnis | über | den |  |
 |---|---|---|---|
 |  |  | **3mutmaßlichenTag** | |
 | **der** | **Entbindung** |  |  |

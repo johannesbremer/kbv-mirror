@@ -14,7 +14,7 @@ Betriebsstätten-Nr Arzt-Nr
 
 **Medikament**
 
-**morgensmittags**
+**morgens mittags**
 
 geb. am
 
@@ -122,7 +122,7 @@ nein
 
 bis:
 
-**morgensmittags abends nachts** t g u ezr e  si x ar ptzr
+**morgens mittags abends nachts** t g u ezr e  si x ar ptzr
 
 A r e d  ni r e k c ur dr e s a L  sl etti m  e dr u w r al u mr o F  s e s ei D
 

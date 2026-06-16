@@ -24,7 +24,7 @@
 
 216 **x.isynet**
 
-439 **e RIS**
+439 **eRIS**
 
 343 **SAP Ambulatory Care Management**
 
@@ -157,7 +157,7 @@ Abasoft EDV-Programme GmbH 1
 
 314 **IMedOne**
 
-498 **T 2med**
+498 **T2med**
 
 230 **QMED.PRAXIS**
 
@@ -173,7 +173,7 @@ Zollsoft GmbH
 
 Deutsche Telekom Clinical Solutions Gmb
 
-T 2med GmbH & Co. KG
+T2med GmbH & Co. KG
 
 Schwerdtner Medizin-Software GmbH 2
 

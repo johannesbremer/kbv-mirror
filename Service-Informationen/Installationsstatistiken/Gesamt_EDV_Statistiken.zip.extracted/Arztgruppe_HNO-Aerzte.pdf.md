@@ -20,7 +20,7 @@
 
 210 **Medical Office**
 
-498 **T 2med**
+498 **T2med**
 
 243 **x.concept**
 
@@ -28,7 +28,7 @@
 
 086 **DURIA**
 
-261 **S 3-Win**
+261 **S3-Win**
 
 252 **CGM M1 PRO**
 
@@ -76,7 +76,7 @@ INDAMED EDV-Entwicklung und Vertrieb GmbH 126 124
 
 2
 
-T 2med GmbH & Co. KG 113
+T2med GmbH & Co. KG 113
 
 109
 
@@ -100,7 +100,7 @@ Duria eG 85
 
 -1
 
-S 3 Praxiscomputer GmbH / Maximilian Flender 85 86
+S3 Praxiscomputer GmbH / Maximilian Flender 85 86
 
 -1
 

@@ -4,9 +4,7 @@
 \|  |
 \|---|
 
-## MUSTER 20  STUFENWEISE WIEDEREINGLIEDERUNG IN DAS
-
-## ERWERBSLEBEN (WIEDEREINGLIEDERUNGSPLAN)
+## MUSTER 20  STUFENWEISE WIEDEREINGLIEDERUNG IN DAS  ERWERBSLEBEN (WIEDEREINGLIEDERUNGSPLAN)
 
 # HINWEISTEXTE FÜR DIE ERSTELLUNG EINER ELEKTRONISCHEN  AUSFÜLLHILFE
 
@@ -33,6 +31,6 @@ Der Arbeitgeber bestätigt sein Einverständnis und ergänzt die entsprechenden 
 
 ## MEHR INFORMATIONEN
 
-Themenseite Arbeitsunfähigkeit: [http://www.kbv.de/629405](http://www.kbv.de/629405)
+[Themenseite Arbeitsunfähigkeit:](http://www.kbv.de/629405)[](http://www.kbv.de/629405)[http://www.kbv.de/629405](http://www.kbv.de/629405)[](http://www.kbv.de/629405)
 
-Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 550 KB):  www.kbv.de/media/sp/02_Erlaeuterungen.pdf
+[Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 550 KB):](http://www.kbv.de/629405) www.kbv.de/media/sp/02_Erlaeuterungen.pdf

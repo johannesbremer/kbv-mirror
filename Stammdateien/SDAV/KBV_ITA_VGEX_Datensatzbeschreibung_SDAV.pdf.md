@@ -1,4 +1,4 @@
-|  | ***IT in der Arztpraxis*** |
+|  | *IT in der Arztpraxis* |
 |---|---|
 |  | *Datensatzbeschreibung* |
 |  | [KBV_ITA_VGEX_Datensatzbeschreibung_SDAV |
@@ -11,19 +11,16 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-© Kassenärztliche Bundesvereinigung, Berlin 2018
+Arztverzeichnis-Stammdatei -Lewin-Platz 2 1.08 Datum: 01.02.2016 Kennzeichnung: Öffentlich Status: In Kraft 
 
-Arztverzeichnis-Stammdatei -Lewin-Platz 2 1.08 Datum: 01.02.2016 Kennzeichnung: Öffentlich Status: In Kraft
 
 ---
 
 ### DOKUMENTENHISTORIE
 
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.08 | 01.02.2016 | KBV | **AV-Stammsatz ** • | Anpassung gemäß Anlage | **8  10  10  11** |
-
-1.08
+| 1.08 | 01.02.2016 | KBV | **AV-Stammsatz ** • | Anpassung gemäß Anlage | **8** **10** **10** **11** |
 
 Felder FK 0201 (BSNR) / FK 0200 (NBSNR)  - Aufnahme der Regeln 061, 826 - Aufnahme Kapitel 5.3  28 BMV-Ä
 
@@ -89,8 +86,6 @@ Felder FK 0201 (BSNR) / FK 0200 (NBSNR)  - Aufnahme der Regeln 061, 826 - Aufnah
 
 **13**
 
-1.08
-
 
 ---
 
@@ -106,10 +101,10 @@ Die Datei wird in der KBV anhand des Bundesarztregisters erzeugt und enthält di
 
 ## 1.2 Aufbau der AV-Stammdatei
 
-Eine AV-Stammdatei ist in einzelne Sätze unterteilt, wobei folgende Satzarten (SA)  klassifiziert sind: -  AV-Headersatz (SA AVS0)
+Eine AV-Stammdatei ist in einzelne Sätze unterteilt, wobei folgende Satzarten (SA)  klassifiziert sind:
 
+-  AV-Headersatz (SA AVS0)
 -  AV-Stammsatz (SA 1450)
-
 -  AV- Endesatz (SA AVS9)
 
 Eine AV-Stammdatei beginnt mit einem AV-Headersatz und endet mit einem AV-Endesatz,  dazwischen können eine beliebige Anzahl AV- Stammsätze auftreten.
@@ -117,34 +112,24 @@ Eine AV-Stammdatei beginnt mit einem AV-Headersatz und endet mit einem AV-Endesa
 Ein Satz ist unterteilt in Felder, die die kleinste Einheit einer Arzt-Stammdatei bilden. Ein Feld  besteht aus
 
 -  der Feldlängenangabe (3 Bytes)
-
 -  der Feldkennung (FK) (4 Bytes)
-
 -  dem eigentlichen Feldinhalt (variabel)
-
 -  Feldendemarkierung (CR, LF) (2 Bytes)
 
 Demzufolge ergibt sich für die Längenberechnung eines Feldes:
 
 *Feldinhalt + 9* Bytes
 
-Anmerkung: Die Reihenfolge der Betriebsstätten-/Arztnummern ergibt sich aus einem  Zeichenkettenvergleich der Nummern, *nicht* durch einen numerischen Vergleich. Hierdurch
-
-wird insbesondere dem Umstand Rechnung getragen, dass Betriebsstätten- /Arztnummern
-
-führende Nullen besitzen können. Durch diese Sortierweise ist gewährleistet, dass die  Datensätze zusätzlich aufsteigend nach KV-Kennungen angeordnet sind, da die ersten  beiden Stellen der Betriebsstättennummer diese Kennung darstellen.
-
-1.08
-
+Anmerkung: Die Reihenfolge der Betriebsstätten-/Arztnummern ergibt sich aus einem  Zeichenkettenvergleich der Nummern, *nicht* durch einen numerischen Vergleich. Hierdurch  wird insbesondere dem Umstand Rechnung getragen, dass Betriebsstätten- /Arztnummern führende Nullen besitzen können. Durch diese Sortierweise ist gewährleistet, dass die  Datensätze zusätzlich aufsteigend nach KV-Kennungen angeordnet sind, da die ersten  beiden Stellen der Betriebsstättennummer diese Kennung darstellen.
 
 ---
 
-| **1.3** | **Dateiname** |  | **der** | **AV-Stammdatei** |
+| 1.3 | Dateiname | der |  | AV-Stammdatei |
 |---|---|---|---|---|
 | Es | gilt folgende | Struktur | für | die Dateinamensbildung: |
-| n n n | n a a _ v . q | j j |  |  |
+| n n n | n a a _ v . | q j j |  |  |
 | wobei | die Zeichen | als Platzhalter | | fungieren: |
-| nnnn: | Name der | Datei, | SDAV für | Stammdatei-Arztverzeichnis |
+| nnnn: | Name | der Datei, | SDAV für | Stammdatei-Arztverzeichnis |
 | aa: | Absender, | 74 für KBV |  |  |
 | v: | Version | der | Datenlieferung | innerhalb eines Quartals |
 | q: | Quartal |  |  |  |
@@ -155,7 +140,7 @@ führende Nullen besitzen können. Durch diese Sortierweise ist gewährleistet, 
 |  |  |  |  | +-----+--------------------------+--------------------------+-----+ |
 | \| | \| 0 | 1 2 3 | 4 | 5 6 7 \| 8 9 A B C D E F \| |
 |  |  |  |  | +-----+--------------------------+--------------------------+-----+ |
-| \| | 0 \| | 0 | @ | P ` p \| ° À Ð à ð \| |
+| \| | 0 \| | 0 | @ | P ` p \| ° À Ð à ð \| 0 \| |
 | \| | 1 \| | ! 1 | A | Q a q \| ¡ ± Á Ñ á ñ \| |
 | \| | 2 \| | " 2 | B | R b r \| ¢ ² Â Ò â ò \| |
 | \| | 3 \| | # 3 | C | S c s \| £ ³ Ã Ó ã ó \| |
@@ -164,11 +149,11 @@ führende Nullen besitzen können. Durch diese Sortierweise ist gewährleistet, 
 | \| | 6 \| | & 6 | F | V f v \| ¦ ¶ Æ Ö æ ö \| |
 | \| | 7 \| | ' 7 | G | W g w \| § · Ç × ç ÷ \| |
 | \| | 8 \| | ( 8 | H | X h x \| ¨ ¸ È Ø è ø \| |
-| \| | 9 \| | ) 9 | I | Y i y \| © ¹ É Ù é ù \| |
+| \| | 9 \| | ) 9 | I | Y i y \| © ¹ É Ù é ù \| 9 \| |
 | \| | A \| | * : | J | Z j z \| ª º Ê Ú ê ú \| |
 | \| | B \| | + ; | K | [ k { \| « » Ë Û ë û \| |
-| \| | C \| | , < | L | \ l \| \| ¬ ¼ Ì Ü ì ü \| |
-| \| | D \| | - = | M | ] m } \| ½ Í Ý í ý \| |
+| \| | C \| | , < | L | \ l \| \| ¬ ¼ Ì Ü ì ü \| C \| |
+| \| | D \| | - = | M | ] m } \| ½ Í Ý í ý \| D \| |
 | \| | E \| | . > | N | ^ n ~ \| ® ¾ Î Þ î þ \| |
 | \| | F \| | / ? | O | _ o \| ¯ ¿ Ï ß ï ÿ \| |
 |  |  |  |  | +-----+--------------------------+--------------------------+-----+ |
@@ -180,9 +165,8 @@ führende Nullen besitzen können. Durch diese Sortierweise ist gewährleistet, 
 |  | Position |  |  |  |
 | A0 | das feste | Leerzeichen | | und AD den Silbentrennstrich. |
 
-1.08
+1.3 Dateiname der AV-Stammdatei Es gilt folgende Struktur für die Dateinamensbildung: n n n n a a _ v . q j j  wobei die Zeichen als Platzhalter fungieren: Name der Datei, SDAV für Stammdatei-Arztverzeichnis Absender, 74 für KBV Version der Datenlieferung innerhalb eines Quartals 2-stellige Jahresangabe Für die erste Lieferung des Quartals 3/04 ergibt sich also z.B.: 1.4 Zeichensatztabelle ISO 8859 Latin 1 |     |  0  1  2  3  4  5  6  7  |  8  9  A  B  C  D  E  F  |     | |  0  |           0  @  P  `  p  |           °  À  Ð  à  ð  |  0  | |  1  |        !  1  A  Q  a  q  |        ¡  ±  Á  Ñ  á  ñ  |  1  | |  2  |        "  2  B  R  b  r  |        ¢  ²  Â  Ò  â  ò  |  2  | |  3  |        #  3  C  S  c  s  |        £  ³  Ã  Ó  ã  ó  |  3  | |  4  |        $  4  D  T  d  t  |        ¤  ´  Ä  Ô  ä  ô  |  4  | |  5  |        %  5  E  U  e  u  |        ¥  µ  Å  Õ  å  õ  |  5  | |  6  |        &  6  F  V  f  v  |        ¦  ¶  Æ  Ö  æ  ö  |  6  | |  7  |        '  7  G  W  g  w  |        §  ·  Ç  ×  ç  ÷  |  7  | |  8  |        (  8  H  X  h  x  |        ¨  ¸  È  Ø  è  ø  |  8  | |  9  |        )  9  I  Y  i  y  |        ©  ¹  É  Ù  é  ù  |  9  | |  A  |        *  :  J  Z  j  z  |        ª  º  Ê  Ú  ê  ú  |  A  | |  B  |        +  ;  K  [  k  {  |        «  »  Ë  Û  ë  û  |  B  | |  C  |        ,  <  L  \  l  |  |        ¬  ¼  Ì  Ü  ì  ü  |  C  | |  D  |        -  =  M  ]  m  }  |           ½  Í  Ý  í  ý  |  D  | |  E  |        .  >  N  ^  n  ~  |        ®  ¾  Î  Þ  î  þ  |  E  | |  F  |        /  ?  O  _  o     |        ¯  ¿  Ï  ß  ï  ÿ  |  F  | |     |  0  1  2  3  4  5  6  7  |  8  9  A  B  C  D  E  F  |     | Die Spalten 0, 1, 8 und 9 sowie Position 7F enthalten Steuerzeichen, A0 das feste Leerzeichen und AD den Silbentrennstrich. 
 
-1.3 Dateiname der AV-Stammdatei Es gilt folgende Struktur für die Dateinamensbildung: n n n n a a _ v . q j j  wobei die Zeichen als Platzhalter fungieren: Name der Datei, SDAV für Stammdatei-Arztverzeichnis Absender, 74 für KBV Version der Datenlieferung innerhalb eines Quartals 2-stellige Jahresangabe Für die erste Lieferung des Quartals 3/04 ergibt sich also z.B.: 1.4 Zeichensatztabelle ISO 8859 Latin 1 |     |  0  1  2  3  4  5  6  7  |  8  9  A  B  C  D  E  F  |     | |  0  |           0  @  P  `  p  |           °  À  Ð  à  ð  |  0  | |  1  |        !  1  A  Q  a  q  |        ¡  ±  Á  Ñ  á  ñ  |  1  | |  2  |        "  2  B  R  b  r  |        ¢  ²  Â  Ò  â  ò  |  2  | |  3  |        #  3  C  S  c  s  |        £  ³  Ã  Ó  ã  ó  |  3  | |  4  |        $  4  D  T  d  t  |        ¤  ´  Ä  Ô  ä  ô  |  4  | |  5  |        %  5  E  U  e  u  |        ¥  µ  Å  Õ  å  õ  |  5  | |  6  |        &  6  F  V  f  v  |        ¦  ¶  Æ  Ö  æ  ö  |  6  | |  7  |        '  7  G  W  g  w  |        §  ·  Ç  ×  ç  ÷  |  7  | |  8  |        (  8  H  X  h  x  |        ¨  ¸  È  Ø  è  ø  |  8  | |  9  |        )  9  I  Y  i  y  |        ©  ¹  É  Ù  é  ù  |  9  | |  A  |        *  :  J  Z  j  z  |        ª  º  Ê  Ú  ê  ú  |  A  | |  B  |        +  ;  K  [  k  {  |        «  »  Ë  Û  ë  û  |  B  | |  C  |        ,  <  L  \  l  |  |        ¬  ¼  Ì  Ü  ì  ü  |  C  | |  D  |        -  =  M  ]  m  }  |           ½  Í  Ý  í  ý  |  D  | |  E  |        .  >  N  ^  n  ~  |        ®  ¾  Î  Þ  î  þ  |  E  | |  F  |        /  ?  O  _  o     |        ¯  ¿  Ï  ß  ï  ÿ  |  F  | |     |  0  1  2  3  4  5  6  7  |  8  9  A  B  C  D  E  F  |     | Die Spalten 0, 1, 8 und 9 sowie Position 7F enthalten Steuerzeichen, A0 das feste Leerzeichen und AD den Silbentrennstrich.
 
 ---
 
@@ -194,9 +178,7 @@ führende Nullen besitzen können. Durch diese Sortierweise ist gewährleistet, 
 
 diejenigen Felder kennzeichnet, die beliebig oft vorhanden sein können. Darüber hinaus wird
 
-### in der Spalte Vorkommen jedem Feld eine Hierarchiestufe zugewiesen, d. h. das Auftreten
-
-### des Feldes wird an die Existenz eines anderen Feldes geknüpft, nämlich genau an jenes  Feld, welches in der übergeordneten Hierarchiestufe referenziert wird.
+### in der Spalte Vorkommen jedem Feld eine Hierarchiestufe zugewiesen, d. h. das Auftreten  des Feldes wird an die Existenz eines anderen Feldes geknüpft, nämlich genau an jenes  Feld, welches in der übergeordneten Hierarchiestufe referenziert wird.
 
 ### Beispiel:
 
@@ -214,9 +196,7 @@ diejenigen Felder kennzeichnet, die beliebig oft vorhanden sein können. Darübe
 |  | ... |  | ... |  |
 |  | 0429 | 1 | ... | Feld 0429 kann einmal je Feld 0420 vorkommen |
 
-### In der Spalte Feldart wird angegeben, ob ein Feld in einem Satz vorhanden sein muß oder
-
-### nicht, und ob dieses Vorhandensein an bestimmte Bedingungen geknüpft ist (die dann in der  Spalte Bedingung näher spezifiziert werden).
+### In der Spalte Feldart wird angegeben, ob ein Feld in einem Satz vorhanden sein muß oder  nicht, und ob dieses Vorhandensein an bestimmte Bedingungen geknüpft ist (die dann in der  Spalte Bedingung näher spezifiziert werden).
 
 ### Folgende Feldarten werden unterschieden:
 
@@ -224,9 +204,7 @@ diejenigen Felder kennzeichnet, die beliebig oft vorhanden sein können. Darübe
 
 Ein unbedingtes Mussfeld muss in einem Satz vorhanden sein. Sollte in der Spalte
 
-### Vorkommen ein mehrfaches bzw. n-faches Auftreten zugelassen sein, so muss dieses
-
-### Feld mindestens einmal in dem Satz vorkommen.
+### Vorkommen ein mehrfaches bzw. n-faches Auftreten zugelassen sein, so muss dieses  Feld mindestens einmal in dem Satz vorkommen.
 
 ### m = bedingtes Mussfeld
 
@@ -252,8 +230,6 @@ Bedingungen geknüpft ist. Sollte jedoch die entsprechende Information vorliegen
 
 ### ) referenzierte Feld existiert.
 
-1.08
-
 
 ---
 
@@ -271,18 +247,18 @@ Bedingungen geknüpft ist. Sollte jedoch die entsprechende Information vorliegen
 
 **2.1 Definition der Satzart: AV-Headersatz “AVS0”**
 
-| **FK** | **Vorkommen  1    2    3    4** | **Feldbezeichnung** | **Feldart** | **Bedingung** | **Erläuterung** |
+| FK | Vorkommen  1    2    3    4 | Feldbezeichnung | Feldart | Bedingung | Erläuterung |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzart | M |  | AVS0 = AV- |
 | 9103 | 1 | Erstellungsdatum | M |  | Datum, wann die |
 | 9106 | 1 | Verwendeter Zeichensatz | M |  | verwendeter |
 | 9111 | 1 | Gültigkeitsquartal | M |  | erstes Quartal der |
-| 9212 | 1 | Version der Satzbeschreibung M |  |  | Version der |
+| 9212 | 1 | Version der Satzbeschreibung | M |  | Version der |
 | 9222 | 1 | ADT-Referenzversion | M |  | referenzierte ADT- |
 
 **2.2 Definition der Satzart: AV-Stammsatz “1450”**
 
-| **FK** | **Vorkommen  1** | **Feldbezeichnung** | **Feldart** | **Bedingung** | **Erläuterung** |
+| FK | Vorkommen  1 | Feldbezeichnung | Feldart | Bedingung | Erläuterung |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzart | M |  | 1450=AV- |
 | 0201 | 1 | BSNR | M |  | 9-stellige |
@@ -292,12 +268,10 @@ Bedingungen geknüpft ist. Sollte jedoch die entsprechende Information vorliegen
 
 **2.3 Definition der Satzart: AV-Endesatz “AVS9”**
 
-| **FK** | **Vorkommen  1    2    3    4** | **Feldbezeichnung** | **Feldart** | **Bedingung** | **Erläuterung** |
+| FK | Vorkommen  1    2    3    4 | Feldbezeichnung | Feldart | Bedingung | Erläuterung |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzart | M |  | AVS9 = AV- |
 | 9208 | 1 | Gesamtzahl | M |  | Zahl für KV |
-
-1.08
 
 ) gebunden. Ein bedingtes
 
@@ -316,13 +290,11 @@ Felder festgelegt sind. Jeder Eintrag in der Feldtabelle ist eindeutig einem Fel
 
 ### Zu jedem Feld wird in der Spalte
 
-verwendet werden kann. Folgende Typen werden unterschieden: -  num numerischer Zahlenwert
+verwendet werden kann. Folgende Typen werden unterschieden:
 
+-  num numerischer Zahlenwert
 -  alnum alphanumerische Zeichen
-
--  datum numerische Datumsangaben im Format
-
-- 01 - 12, *JJJJ* = 0001 - 9999
+-  datum numerische Datumsangaben im Format  01 - 12, *JJJJ* = 0001 - 9999
 
 ### In der Spalte Länge des Feldinhaltes
 
@@ -342,7 +314,7 @@ aufgeführt. Die einzelnen Beispiel-Inhalte stehen untereinander in keinem direk
 
 **3.1 Feldtabelle: AV-Stammdatei**
 
-| **Feld** | **Feldbezeichnung** | **Läng** | **Typ** | **Regel erlaubte Inhalte und Beschreibung** |  | **Beispiel** |
+| Feld | Feldbezeichnung | Läng | Typ | Regel | erlaubte Inhalte und Beschreibung | Beispiel |
 |---|---|---|---|---|---|---|
 | 0201 | BSNR | 9 | num | 049  061  826 |  | 010123400 |
 | 0200 | NBSNR | 9 | num | 049  061  826 |  | 010123401 |
@@ -358,13 +330,15 @@ aufgeführt. Die einzelnen Beispiel-Inhalte stehen untereinander in keinem direk
 
 ### Typ vereinbart , welcher Zeichenvorrat für den Feldinhalt
 
-### wird festgelegt, aus wie vielen Zeichen (Bytes) ein 1.08
+### wird festgelegt, aus wie vielen Zeichen (Bytes) ein
 
 ### - TTMMJJJJ
 
 ### Beispiel
 
-### - , wobei TT = 01 - 31, MM
+### - , wobei
+
+*TT* = 01 - 31, *MM*
 
 kenn (LANR) Betriebsstättendatensätze  60 ### ein möglicher Feldinhalt
 
@@ -405,14 +379,13 @@ Regelnummer Regelinhalt
 
 Feldtabelle
 
-Regeltabelle 1.08
-
+Regeltabelle
 
 ---
 
 **4.1 Regeltabelle: AV-Stammdatei**
 
-| **Regel-** | **Kategorie** | **Prüfung** | **Erläuterung** |
+| Regel- | Kategorie | Prüfung | Erläuterung |
 |---|---|---|---|
 | 008 | Format | TTMMJJJJ | TT=Tag;MM=Monat; |
 | 016 | Format | QJJJJ | Q=Quartal;JJJJ=Jahr |
@@ -426,8 +399,6 @@ Regeltabelle 1.08
 | 826 | Kontext | Wenn der Inhalt der Stellen 1-2 des Feldes  Wenn der Inhalt der Stellen 1-2 des Feldes |  |
 | 999 | besondere | sollte beim Import überlesen werden, kann | Für Exportprogramme für interne |
 
-1.08
-
 Hinweise BAR-Schlüsselverzeichnisses „999999900“ Rahmen von § 75 Absatz 1a SGB V erbringen  81, 83, 85-91, 93-96, 98, 99 0200 bzw. des Feldes 0201  = 35, dann gilt für den Inhalt des Feldes 0200 bzw. des Feldes 0201 die Formatregel 061. 0200 bzw. des Feldes 0201 ≠ 35, dann gilt für den Inhalt des Feldes 0200 bzw. des Feldes 0201 die Formatregel 049. mehrfach vorkommen  12, 01 (Anlage 28 BMV-Ä) Kennzeichnungszwecke   88)
 
 ---
@@ -436,7 +407,7 @@ Hinweise BAR-Schlüsselverzeichnisses „999999900“ Rahmen von § 75 Absatz 1a
 
 ## 5.1 Aufbau der lebenslangen Vertragsarztnummer (LANR)
 
-| 1-6 | 7 | 8-9 |  | **Lebenslange Arztnummer (LANR)** |
+| 1-6 | 7 | 8-9 |  | Lebenslange Arztnummer (LANR) |
 |---|---|---|---|---|
 | nnnnnn | m | ff |  |  |
 |  |  |  |  | **ID** |
@@ -448,7 +419,7 @@ Hinweise BAR-Schlüsselverzeichnisses „999999900“ Rahmen von § 75 Absatz 1a
 
 ## 5.2 Aufbau der (Neben-)Betriebsstättennummer
 
-| 1-2 | 3-7 | 8-9 |  | **Betriebsstättennummer ((N)BSNR)** |
+| 1-2 | 3-7 | 8-9 |  | Betriebsstättennummer ((N)BSNR) |
 |---|---|---|---|---|
 | kk | nnnnn | mm |  |  |
 |  |  |  |  | **UKV bzw. OKV bei nicht untergliederten KVen** |
@@ -460,7 +431,7 @@ Hinweise BAR-Schlüsselverzeichnisses „999999900“ Rahmen von § 75 Absatz 1a
 
 ## 5.3 Aufbau der (Neben-)Betriebsstättennummer Terminservicestelle  (Anlage 28 BMV-Ä)
 
-| 1-2 | 3-4 | 5-9 |  | **Betriebsstättennummer ((N)BSNR)** |
+| 1-2 | 3-4 | 5-9 |  | Betriebsstättennummer ((N)BSNR) |
 |---|---|---|---|---|
 | 35 | kk | nnnnn |  |  |
 |  |  |  |  | **Krankenhäuser, die Leistungen im Rahmen** |
@@ -476,10 +447,7 @@ Hinweise BAR-Schlüsselverzeichnisses „999999900“ Rahmen von § 75 Absatz 1a
 
 ### Die Datei enthält historische (N)BSNR und LANR, die innerhalb der letzten acht Quartale  abgelaufen sind.
 
-1.08
-
 Terminservicestelle  von § 75 Absatz 1a SGB V erbringen
-
 
 ---
 
@@ -491,9 +459,6 @@ Import im Allgemeinen nicht berücksichtigt werden . Dieses Feld kann in jeder S
 
 ### beliebiger Stelle in beliebiger Anzahl übertragen werden.
 
-1.08
-
-
 ---
 
 # 6 Schlussbemerkungen
@@ -501,5 +466,3 @@ Import im Allgemeinen nicht berücksichtigt werden . Dieses Feld kann in jeder S
 Mit dem Export der Datensätze in ein Softwaresystem geht der amtliche Charakter der Daten  verloren und die Kassenärztliche Bundesvereinigung übernimmt danach keine Gewähr für die  Richtigkeit und Vollständigkeit der Daten.
 
 Die vorliegende Datensatzbeschreibung der Arzt-Stammdatei richtet sich nach den  etablierten Standards der xDT-Datensatzbeschreibung. Im Hinblick auf gesetzliche und  vertragliche Bestimmungen sowie Beschlüsse der ärztlichen Selbstverwaltungsorgane  bleiben Änderungen der vorliegenden Richtlinien vorbehalten.
-
-1.08

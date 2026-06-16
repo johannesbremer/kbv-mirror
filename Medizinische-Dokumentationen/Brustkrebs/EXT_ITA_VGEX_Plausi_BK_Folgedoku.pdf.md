@@ -27,7 +27,7 @@ gültig ab 01.10.2023 19.04.2024
 
 ---
 
-| **Brustkrebs** | | | |
+| Brustkrebs | | | |
 |---|---|---|---|
 | Feld- | Dokumentations- | Ausprägung | Plausibilitätsregeln |
 | **Administrative Daten** | | | |
@@ -51,28 +51,28 @@ Folgedokumentation Nr. parameter Krankenkasse  alphanumerisch)   Gemeint ist die
 
 ---
 
-| 11 | Aktuelle adjuvante | Aromataseinhibitoren / | Bedingtes Pflichtfeld;   Mehrfachnennungen sind möglich    Eine Angabe ist erforderlich, wenn in Feld 10    Eine Angabe ist nicht zulässig   -  Wenn „ -  Wenn „Aromataseinhibitoren“ angegeben ist, kann zusätzlich „Andere“ angegeben  -  Wenn „Aromataseinhibitoren“ angegeben wird, ist eine gleichzeitige Angabe von    -  Wenn „Tamoxifen“ angegeben ist, kann zusätzlich „Andere“ angegeben werden. -  Wenn „Tamoxifen“ angegeben ist, ist eine gleichzeitige Angabe von    -  Wenn „Andere“ angegeben ist, ist eine gleichzeitige -  Wenn „Keine“ angegeben ist, kann |
+| 11 | Aktuelle adjuvante | Aromataseinhibitoren / | Bedingtes Pflichtfeld;   Mehrfachnennungen sind möglich    Eine Angabe ist erforderlich, wenn in Feld 10    Eine Angabe ist nicht zulässig   -  -  -    -  -    -  - |
 |---|---|---|---|
 
-| 12 | Nebenwirkungen der | Nein / nicht belastend / | Bedingtes Pflichtfeld;   Nur eine Antwort ist zulässig  -  Eine Angabe ist erforderlich, wenn in Feld 11  -  Eine Angabe ist nicht zulässig, wenn in Feld 11 |
+| 12 | Nebenwirkungen der | Nein / nicht belastend / | Bedingtes Pflichtfeld;   Nur eine Antwort ist zulässig  -  - |
 |---|---|---|---|
 
 \| **Behandlungsstatus nach operativer Therapie des Primärtumors / kontralateralen Brustkrebses (adjuvante Therapie)** |
 \|---|
 
-endokrine Therapie  Tamoxifen / Andere / Keine / Endokrine Therapie geplant Brustkrebses“ erfolgt ist , wenn in Feld 10 die Angabe „Lokoregionären Rezidivs“ oder „Fernmetastase“ erfolgt ist. “ angegeben ist, ist genau eine Angabe in Feld 14 erforderlich „Tamoxifen“ und/oder „Keine“ und/oder „Endokrine Therapie geplant“ nicht zulässig. „Aromataseinhibitoren“ und/oder „Keine“ und/oder „Endokrine Therapie geplant“ nicht zulässig. „Endokrine Therapie geplant“ nicht zulässig. die Angabe „Primärtumor“ oder „ zusätzlich ausschließlich Kontralateralen Angabe von „Keine“ und/oder „Endokrine Therapie geplant“ aktuellen adjuvanten endokrinen Therapie  mäßig belastend / stark belastend / nicht erfragt und/oder „Andere“ angegeben ist. geplant“ angegeben ist  oder zu Feld 11 keine Angabe erfolgt ist. „Aromataseinhibitoren“ oder „Tamoxifen“ „Keine“ und/oder „Endokrine Therapie
+endokrine Therapie  Tamoxifen / Andere / Keine / Endokrine Therapie geplant die Angabe „Primärtumor“ oder „ Brustkrebses“ erfolgt ist , wenn in Feld 10 die Angabe „Lokoregionären Rezidivs“ oder „Fernmetastase“ erfolgt ist. Wenn „ “ angegeben ist, ist genau eine Angabe in Feld 14 erforderlich Wenn „Aromataseinhibitoren“ angegeben ist, kann zusätzlich „Andere“ angegeben werden. Wenn „Aromataseinhibitoren“ angegeben wird, ist eine gleichzeitige Angabe von „Tamoxifen“ und/oder „Keine“ und/oder „Endokrine Therapie geplant“ nicht zulässig. Wenn „Tamoxifen“ angegeben ist, kann zusätzlich „Andere“ angegeben werden. Wenn „Tamoxifen“ angegeben ist, ist eine gleichzeitige Angabe von „Aromataseinhibitoren“ und/oder „Keine“ und/oder „Endokrine Therapie geplant“ nicht zulässig. Wenn „Andere“ angegeben ist, ist eine gleichzeitige „Endokrine Therapie geplant“ nicht zulässig. Wenn „Keine“ angegeben ist, kann zusätzlich ausschließlich angegeben werden. Kontralateralen Angabe von „Keine“ und/oder „Endokrine Therapie geplant“ aktuellen adjuvanten endokrinen Therapie  mäßig belastend / stark belastend / nicht erfragt Eine Angabe ist erforderlich, wenn in Feld 11 und/oder „Andere“ angegeben ist. Eine Angabe ist nicht zulässig, wenn in Feld 11 geplant“ angegeben ist  oder zu Feld 11 keine Angabe erfolgt ist. „Aromataseinhibitoren“ oder „Tamoxifen“ „Keine“ und/oder „Endokrine Therapie
 
 ---
 
 | 13 | Fortführung der | Vor dem abgeschlossenen | Bedingtes Pflichtfeld;   Nur eine Antwort ist zulässig    Eine Angabe ist erforderlich, wenn in Feld 10 die Angabe „Primärtumor“ oder „   Eine Angabe ist nicht zulässig |
 |---|---|---|---|
-| 14 | Bei Patientinnen unter Auffällig / Unauffällig / | Unbekannt | Bedingtes Pflichtfeld;   Nur eine Antwort ist zulässig    - |
+| 14 | Bei Patientinnen unter | Auffällig / Unauffällig / | Bedingtes Pflichtfeld;   Nur eine Antwort ist zulässig    - |
 | **Seit der letzten Dokumentation neu aufgetretene Ereignisse** | | | |
 | 15 | Lokoregionäres  (Datum der | TT.MM.JJJJ / Nein | Pflichtfeld;   Nur eine Angabe ist zulässig  - |
 | 16 | Kontralateraler  (Datum der | TT.MM.JJJJ / Nein | Pflichtfeld;   Nur eine Angabe ist zulässig  - |
 | 17 | Lokalisation von  (Datum der | TT.MM.JJJJ / Knochen / | Pflichtfeld   Mehrfachnennungen sind möglich  -      - |
 
-adjuvanten endokrinen Therapie seit der letzten 5. Jahr abgebrochen / Regulär nach 5 Jahren abgeschlossen / Aktuell andauernd, seit weniger als 5 Jahren / Aktuell andauernd, Fortführung über 5 Jahre hinaus / Keine endokrine Therapie durchgeführt Brustkrebses“ erfolgt ist Kontralateralen , wenn in Feld 10 die Angabe „Lokoregionären Rezidivs“ oder „Fernmetastase“ erfolgt ist. adjuvanter Therapie mit Aromataseinhibitoren, sofern die Absicht für eine spezifische medikamentöse Therapie einer Osteoporose besteht: DXA-Befund Eine Angabe ist nur dann erforderlich und zulässig, wenn in Feld 11 mindestens die Angabe „Aromataseinhibitoren“ erfolgt ist Rezidiv histologischen Sicherung) Das Datum  (TT.MM.JJJJ) muss kleiner oder gleich sein dem Datum in Feld 2 6 (Datum der Erstellung) Brustkrebs histologischen Sicherung) Das Datum (TT.MM.JJJJ) muss kleiner oder gleich sein dem Datum in Feld 2 6 (Datum der Erstellung). Fernmetastasen diagnostischen Sicherung) viszeral / ZNS / Andere / Das Datum (TT.MM.JJJJ) muss kleiner oder gleich sein dem Datum in Feld 2 6 (Datum der Erstellung). Wenn eine Angabe zu „viszeral“ und/oder „ZNS“ und/oder „Andere“ ange „TT.MM.JJJJ“ erfolgt ist , muss auch mindestens „Knochen“ und/oder geben werden
+adjuvanten endokrinen Therapie seit der letzten 5. Jahr abgebrochen / Regulär nach 5 Jahren abgeschlossen / Aktuell andauernd, seit weniger als 5 Jahren / Aktuell andauernd, Fortführung über 5 Jahre hinaus / Keine endokrine Therapie durchgeführt Brustkrebses“ erfolgt ist Kontralateralen , wenn in Feld 10 die Angabe „Lokoregionären Rezidivs“ oder „Fernmetastase“ erfolgt ist. adjuvanter Therapie mit Aromataseinhibitoren, sofern die Absicht für eine spezifische medikamentöse Therapie einer Osteoporose besteht: DXA-Befund Unbekannt Eine Angabe ist nur dann erforderlich und zulässig, wenn in Feld 11 mindestens die Angabe „Aromataseinhibitoren“ erfolgt ist Rezidiv histologischen Sicherung) Das Datum  (TT.MM.JJJJ) muss kleiner oder gleich sein dem Datum in Feld 2 6 (Datum der Erstellung) Brustkrebs histologischen Sicherung) Das Datum (TT.MM.JJJJ) muss kleiner oder gleich sein dem Datum in Feld 2 6 (Datum der Erstellung). Fernmetastasen diagnostischen Sicherung) viszeral / ZNS / Andere / Das Datum (TT.MM.JJJJ) muss kleiner oder gleich sein dem Datum in Feld 2 6 (Datum der Erstellung). Wenn eine Angabe zu „viszeral“ und/oder „ZNS“ und/oder „Andere“ ange „TT.MM.JJJJ“ erfolgt ist , muss auch mindestens „Knochen“ und/oder geben werden
 
 ---
 

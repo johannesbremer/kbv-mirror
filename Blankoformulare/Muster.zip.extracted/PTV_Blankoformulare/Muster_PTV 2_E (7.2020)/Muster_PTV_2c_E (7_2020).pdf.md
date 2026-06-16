@@ -38,8 +38,9 @@ Vor der jetzigen Behandlung wurde innerhalb der letzten
 
 Durchführung von
 
-zwei probatorischen Sitzungen: 1. Sitzung am
+zwei probatorischen Sitzungen:
 
+1. Sitzung am
 2. Sitzung am
 
 **Bisheriger Behandlungsumfang**
@@ -66,7 +67,7 @@ Name
 
 **Erklärung Therapeut*in**
 
-Ich führe die beantragte Psychotherapie nach den jeweils geltenden Bestimmungen  der vertragsärztlichen Versorgung durch und habe von der zuständigen Kassenärztlichen Vereinigung die hierfür erforderliche Abrechnungsgenehmigung.
+Ich führe die beantragte Psychotherapie nach den jeweils geltenden Bestimmungen der vertragsärztlichen Versorgung durch und habe von der zuständigen Kassenärztlichen Vereinigung die hierfür erforderliche Abrechnungsgenehmigung.
 
 **Ausfertigung Therapeut*in**
 

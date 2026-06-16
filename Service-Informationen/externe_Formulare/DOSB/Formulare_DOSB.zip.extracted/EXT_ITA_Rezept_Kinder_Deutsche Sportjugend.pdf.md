@@ -39,9 +39,7 @@ E-Mail: [gesundheit@dosb.de](mailto:gesundheit@dosb.de)
 
 ## BEWEGUNGSEMPFEHLUNG FÜR KINDER UND JUGENDLICHE
 
-Grundsätzlich gilt: So viel Alltags- und kindgerechte Bewegung wie möglich!
-
-Bewegungsarme Kinder schrittweise an Bewegung heranführen!
+Grundsätzlich gilt: So viel Alltags- und kindgerechte Bewegung wie möglich!  Bewegungsarme Kinder schrittweise an Bewegung heranführen!
 
 **Säuglinge und**
 
@@ -91,8 +89,6 @@ Kraft und Ausdauer stärken
 
 **Ärztin:**
 
-**Ihr e Patient in hat an unserem**
-
-**Bewegungsangebot teilgenommen.**
+**Ihr e Patient in hat an unserem** **Bewegungsangebot teilgenommen.**
 
 Stempel und Unterschrift des Vereins

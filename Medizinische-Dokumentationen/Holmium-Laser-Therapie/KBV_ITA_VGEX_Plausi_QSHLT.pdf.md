@@ -1,4 +1,4 @@
-|  | ***IT in der Arztpraxis*** |
+|  | *IT in der Arztpraxis* |
 |---|---|
 |  | *Plausibilitätenkatalog Holmium* |
 |  | [KBV_ITA_VGEX_Plausi_QSHLT ] |
@@ -15,16 +15,14 @@ Laser-Therapie Digitalisierung und IT -Lewin-Platz 2 1.01 Datum: 11.02.2016 Kenn
 
 ---
 
-Holmium-Laser-Therapie
-
 ### DOKUMENTENHISTORIE
 
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.01 | 11.02.2016 | KBV | Ergänzung von Bedi |  | **5ff** |
 | 1.00 | 31.03.2014 | KBV |  | Einführung der Schnitt- |  |
 
-n- gungen bei den Feldern: 6, 7, 16,17,18,19, 20, 21,  22, 23, 24, 25, 26, 27, 28, 29, 30, 31 und 32 stelle QS Holmium-Laser- Therapie
+n- gungen bei den Feldern: 6, 7, 16,17,18,19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31 und 32 stelle QS Holmium-Laser- Therapie
 
 ---
 
@@ -48,18 +46,13 @@ n- gungen bei den Feldern: 6, 7, 16,17,18,19, 20, 21,  22, 23, 24, 25, 26, 27, 2
 
 **3** **REFERENZIERTE DOKUMENTE __________________________________________ 9**
 
-Holmium-Laser-Therapie
-
-
 ---
-
-Holmium-Laser-Therapie
 
 # 1 Präambel
 
 ## 1.1 Qualitätssicherungsvereinbarung Holmium-Laser-Therapie
 
-Dieser Plausibilitätenkatalog gilt für die Daten, welche im Rahmen der Qualitätssicherungs- vereinbarung Holmium-Laser-Therapie (QSHLT) [1] erhoben werden. Es wird eine arztbezo- gene Jahresstatistik an die zuständige Datenannahmestelle übermittelt.
+Dieser Plausibilitätenkatalog gilt für die Daten, welche im Rahmen der Qualitätssicherungs- vereinbarung Holmium-Laser-Therapie (QSHLT)  gene Jahresstatistik an die zuständige Datenannahmestelle übermittelt.
 
 ## 1.2 Hinweise zum Verständnis dieses Dokuments
 
@@ -69,6 +62,8 @@ Zum Verständnis der unten stehenden Plausibilitätstabelle sind die Hinweise in
 
 In der Spalte „Art“ wird über ein Buchstabenkürzel angegeben, ob ein Feld in einem Formular  vorhanden sein muss oder nicht und ob dieses Vorhandensein an eine bestimmte Bedingung  geknüpft ist. Diese Bedingung ist dann in der Spalte „Beschreibung“ näher zu spezifizieren.
 
+[1] erhoben werden. Es wird eine arztbezo-
+
 **M = Mussfeld (Pflichtfeld)**
 
 Ein Mussfeld muss in einem Formular vorhanden sein.
@@ -77,9 +72,7 @@ Ein Mussfeld muss in einem Formular vorhanden sein.
 
 Bei einem bedingten Mussfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte „Be- schreibung“) gebunden. Ein bedingtes Mussfeld muss in einem Formular vorhanden sein,  wenn die zugehörige Bedingung in der Spalte „Beschreibung“ erfüllt ist.
 
-**Hinweis:** Soll ein bedingtes Pflichtfeld nicht vorhanden sein, wenn die zugehörige Bedingung
-
-nicht erfüllt ist, so wird dies in der Spalte „Beschreibung“ angegeben.
+**Hinweis:** Soll ein bedingtes Pflichtfeld nicht vorhanden sein, wenn die zugehörige Bedingung  nicht erfüllt ist, so wird dies in der Spalte „Beschreibung“ angegeben.
 
 **K = Kannfeld (optionales Feld)**
 
@@ -87,9 +80,7 @@ Ein Kannfeld kann in einem Formular auftreten, wobei das Vorkommen an keinerlei 
 
 **k = bedingtes Kannfeld (bedingtes optionales Feld)**
 
-Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte „Be- schreibung“) gebunden. Ein bedingtes Kannfeld kann in einem Formular vorhanden sein,  wenn die zugehörige Bedingung in der Spalte „Beschreibung“ erfüllt ist. Ein bedingtes Kann- feld **darf nicht** vorhanden sein, wenn die zugehörige Bedingung in der Spalte „Beschreibung“
-
-**nicht** erfüllt ist.
+Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte „Be- schreibung“) gebunden. Ein bedingtes Kannfeld kann in einem Formular vorhanden sein,  wenn die zugehörige Bedingung in der Spalte „Beschreibung“ erfüllt ist. Ein bedingtes Kann- feld **darf nicht** vorhanden sein, wenn die zugehörige Bedingung in der Spalte „Beschreibung“  **nicht** erfüllt ist.
 
 ### 1.2.2 Beschreibung der Begriffe „Fehler“ und „Warnung“
 
@@ -104,9 +95,7 @@ Eine Warnung beschreibt einen Zustand, in welchem die Daten dennoch angenommen w
 
 ---
 
--Laser-Therapie
-
-| **Nr.** | **Feldbezeichnung** | **Ausprägung/Datenformat** | **Art** | **Beschreibung (Bedingung/Plausibilität/Erläuterung)** |
+| Nr. | Feldbezeichnung | Ausprägung/Datenformat | Art | Beschreibung (Bedingung/Plausibilität/Erläuterung) |
 |---|---|---|---|---|
 | 1 | Jahr | 4-stellige Jahreszahl JJJJ | M | Jahr des Berichtszeitraums, berechnet als “<aktuelles Jahr> - 1“ |
 | 2 | LANR | Numerischer String; 9 Zeichen  000000000-999999999 | M |  |
@@ -124,16 +113,16 @@ Eine Warnung beschreibt einen Zustand, in welchem die Daten dennoch angenommen w
 | 11 | 70 und mehr ml | Ganzzahl 0-99999 | M | |
 | **2 ** | **Nr.** | **Feldbezeichnung** | **Ausprägung/Datenformat** | **Art** |
 | **Beschreibung (Bedingung/Plausibilität/Erläuterung)** | | | | |
-|  |  | Jahr | 4-stellige Jahreszahl JJJJ | M  Jahr des Berichtszeitraums, berechnet als “<aktuelles Jahr> - 1“  2  LANR Numerischer String; 9 Zeichen  000000000-999999999  M    3  BSNR Numerischer String; 9 Zeichen  000000000-999999999  M   **Anzahl Eingriffe ** 4  Anzahl Ersteingriffe Ganzzahl 0-99999  M  Fehler, wenn (Feld 4 + Feld 5) = 0, |
-|  |  | 5 |  | |
+|  |  | Jahr | 4-stellige Jahreszahl JJJJ | M  Jahr des Berichtszeitraums, berechnet als “<aktuelles Jahr> - 1“  2  LANR Numerischer String; 9 Zeichen  000000000-999999999  M    3  BSNR Numerischer String; 9 Zeichen  000000000-999999999  M   **Anzahl Eingriffe ** 4  Anzahl Ersteingriffe Ganzzahl 0-99999  M  Fehler, wenn (Feld 4 |
+| ) = 0, |  | 5 |  | |
 | Ganzzahl 0-99999 |  |  | 6 | |
-| Anzahl |  | Warnung, wenn | (Feld 6 + Feld 7) < (Feld 4 + Feld 5) | |
-|  | | | | |
-|  | (Feld 6 + Feld 7) > (Feld 4 + Feld 5) |  |  | 7 |
+| Anzahl |  | Warnung, wenn | (Feld 6 + Feld 7) < (Feld | |
+| 4 | | | | |
+| ) | (Feld 6 + Feld 7) > (Feld | 4 | + Feld | 5)    7 |
 | Ganzzahl 0-99999 |  |  | 8 | weniger als 25 ml  Ganzzahl 0-99999  M |
-| Warnung, wenn |  |  |  |  |
-| Fehler, wenn |  |  |  |  |
-|  | | | | |
+| Warnung, wenn | + Feld | 9 | + Feld | 10 + Feld 11) < (Feld 4 + Feld 5 |
+| Fehler, wenn | + Feld | 9 | + Feld | 10 + Feld 11) > (Feld 4 + Feld 5 |
+| ) | | | | |
 |  |  | 25 – 49 ml | Ganzzahl 0-99999 | M  10            50 – 69 ml  Ganzzahl 0-99999 |
 |  |  | 70 und mehr ml |  | |
 |  | | | | |
@@ -142,8 +131,8 @@ Eine Warnung beschreibt einen Zustand, in welchem die Daten dennoch angenommen w
 | M |  | 3 |  | |
 | Numerischer String; 9 Zeichen |  | **Anzahl Eingriffe** |  | |
 |  | | | | |
-|  | M | Fehler, wenn (Feld 4 + Feld 5) = 0, |  | in diesem Fall muss keine Jahresstatistik eingereicht werden  5  Anzahl Folgeeingriffe Ganzzahl 0-99999  M **OP-Indikationen ** 6  Anzahl  Ganzzahl 0-99999  M    Warnung, wenn  (Feld 6 + Feld 7) < (Feld 4 + Feld 5) |
-| Fehler, wenn |  |  |  | |
+|  | M | Fehler, wenn (Feld | 4 | + Feld 5) = 0,  in diesem Fall muss keine Jahresstatistik eingereicht werden  5  Anzahl Folgeeingriffe Ganzzahl 0-99999  M **OP-Indikationen ** 6  Anzahl  Ganzzahl 0-99999  M    Warnung, wenn  (Feld 6 + Feld 7) < (Feld 4 + Feld 5 |
+| Fehler, wenn | + Feld | 5 | ) | |
 |  |  | Anzahl | Ganzzahl 0-99999 | |
 | M | | | | |
 |  |  | weniger als 25 ml | Ganzzahl 0-99999 | M          Warnung, wenn  (Feld 8 + Feld 9 + Feld 10 + Feld 11) < (Feld 4 + Feld 5)    Fehler, wenn  (Feld 8 + Feld 9 + Feld 10 + Feld 11) > (Feld 4 + Feld 5) |
@@ -155,28 +144,25 @@ Eine Warnung beschreibt einen Zustand, in welchem die Daten dennoch angenommen w
 | **2 ** | **Nr.** | **Feldbezeichnung** | **Ausprägung/Datenformat** | **Art** |
 |  |  |  | Jahr | 4-stellige Jahreszahl JJJJ  M  Jahr des Berichtszeitraums, berechnet als “<aktuelles Jahr> - 1“  2 |
 
-Beschreibung der Felder und Plausibilitäten Eingriffe mit absoluter Eingriffe mit relativer **5** von **9**
-
+Beschreibung der Felder und Plausibilitäten Eingriffe mit absoluter Eingriffe mit relativer
 
 ---
 
--Laser-Therapie
-
-|  |  |  |  | **Harnstrahlmessungen** |
+|  |  |  |  | Harnstrahlmessungen |
 |---|---|---|---|---|
 |  | Ganzzahl 0-99999 | M |  |  |
-|  |  |  |  |  |
-|  | Fehler, wenn | (Feld 12 + Feld 13 + Feld 14 + Feld 15) > (Feld 4 + Feld 5) |  |  |
-|  | | | | |
-|  |  |  |  | 13 |
+| 12 | + Feld | 14 + Feld | 15 | ) < (Feld |
+| 5 | Fehler, wenn | (Feld 12 | + Feld | 13 |
+| + Feld | | | | |
+| 15 | + Feld | 5 | ) | 13 |
 | Ganzzahl 0-99999 |  | 14 |  | |
 |  | | | | |
-| M | 15 |  |  | mehr als 15 ml/s  Ganzzahl 0-99999  M **intraoperativ aufgetretene Komplikationen gemäß § 6 Abs. 1 Nr. 2 ** 16  Blasenverletzungen  Ganzzahl 0-99999  M  Fehler, wenn  Feld 16 > (Feld 4 + Feld 5) |
-|  |  | 17 |  | |
+| M | 15 |  |  | mehr als 15 ml/s  Ganzzahl 0-99999  M **intraoperativ aufgetretene Komplikationen gemäß § 6 Abs. 1 Nr. 2 ** 16  Blasenverletzungen  Ganzzahl 0-99999  M  Fehler, wenn  Feld 16 > (Feld 4 |
+| ) |  | 17 |  | |
 |  | | | | |
-| M |  |  |  | 18  Einschwemmung  Ganzzahl 0-99999  M  Fehler, wenn  Feld 18 > (Feld 4 + Feld 5)    19  andere  Ganzzahl 0-99999  M  Fehler, wenn  Feld 19 > (Feld 4 + Feld 5)   **Umstiege** |
+| M | 4 | + Feld | 5 | )    18  Einschwemmung  Ganzzahl 0-99999  M  Fehler, wenn  Feld 18 > (Feld 4 + Feld 5)    19  andere  Ganzzahl 0-99999  M  Fehler, wenn  Feld 19 > (Feld 4 + Feld 5)   **Umstiege** |
 |  | Ganzzahl 0-99999 | M |  | |
-|  |  |  |  | |
+| 4 | ) |  |  | |
 |  | Ganzzahl 0-99999  M **Interventionspflichtige Frühkomplikationen gemäß § 6 Abs. 1 Nr. 3b** |  |  | |
 | **Nr.** | **Feldbezeichnung** | **Ausprägung/Datenformat** | **Art** | **Beschreibung (Bedingung/Plausibilität/Erläuterung)** |
 | **Harnstrahlmessungen** | | | | |
@@ -194,59 +180,56 @@ Beschreibung der Felder und Plausibilitäten Eingriffe mit absoluter Eingriffe m
 | 21 | Anzahl Umstiege auf konven- | Ganzzahl 0-99999 | M | |
 | **Interventionspflichtige Frühkomplikationen gemäß § 6 Abs. 1 Nr. 3b** | | | | |
 | **Nr.** | **Feldbezeichnung** | **Ausprägung/Datenformat** | **Art** | **Beschreibung (Bedingung/Plausibilität/Erläuterung)** |
-|  | 0 ml/s (Harnverhalt) | Ganzzahl 0-99999 | M | Warnung, wenn  (Feld 12 + Feld 13 + Feld 14 + Feld 15) < (Feld 4 + Feld 5) |
-|  |  |  |  | |
-| (Feld 12 + Feld 13 + Feld 14 + Feld 15) > (Feld 4 + Feld 5) |  |  |  | |
+|  | 0 ml/s (Harnverhalt) | Ganzzahl 0-99999 | M | Warnung, wenn  (Feld 12 + Feld 13 + Feld |
+| 15 | + Feld | 5 | ) | |
+| (Feld | 13 | + Feld | 14 | |
+| + Feld | | | | |
+| 4 | ) |  |  | 13            >0 – 9,9 ml/s  Ganzzahl 0-99999  M  14            10-15 ml/s  Ganzzahl 0-99999  M  15            mehr als 15 ml/s  Ganzzahl 0-99999  M **intraoperativ aufgetretene Komplikationen gemäß § 6 Abs. 1 Nr. 2** |
+|  | M | Fehler, wenn | Feld 16 > (Feld | |
+| 5 |  |  | 17 | |
 |  | | | | |
-|  |  |  |  | 13            >0 – 9,9 ml/s  Ganzzahl 0-99999  M  14            10-15 ml/s  Ganzzahl 0-99999  M  15            mehr als 15 ml/s  Ganzzahl 0-99999  M **intraoperativ aufgetretene Komplikationen gemäß § 6 Abs. 1 Nr. 2** |
-|  | M | Fehler, wenn | Feld 16 > (Feld 4 + Feld 5) | |
-|  |  |  | 17 | |
-|  | | | | |
-| Ganzzahl 0-99999 | Feld 17 > (Feld 4 + Feld 5) |  |  | 18  Einschwemmung  Ganzzahl 0-99999  M  Fehler, wenn  Feld 18 > (Feld 4 + Feld 5)    19  andere  Ganzzahl 0-99999  M  Fehler, wenn  Feld 19 > (Feld 4 + Feld 5)   **Umstiege ** 20 |
-| Anzahl der Umstiege auf |  | Fehler, wenn | (Feld 20 + Feld 21) >(Feld 4 + Feld 5) | |
-|  |  |  | 21 | |
+| Ganzzahl 0-99999 | Feld 17 > (Feld | 4 | + Feld | 5)    18  Einschwemmung  Ganzzahl 0-99999  M  Fehler, wenn  Feld 18 > (Feld 4 + Feld 5)    19  andere  Ganzzahl 0-99999  M  Fehler, wenn  Feld 19 > (Feld 4 + Feld 5)   **Umstiege ** 20 |
+| Anzahl der Umstiege auf |  | Fehler, wenn | (Feld 20 + Feld 21) >(Feld | |
+| 5 |  |  | 21 | |
 | Anzahl Umstiege auf konven- | **Interventionspflichtige Frühkomplikationen gemäß § 6 Abs. 1 Nr. 3b** |  |  | |
 |  |  |  |  | |
 |  | | | | |
 | **Nr.** | **Feldbezeichnung** | **Ausprägung/Datenformat** | **Art** | **Beschreibung (Bedingung/Plausibilität/Erläuterung)** |
-|  |  | 0 ml/s (Harnverhalt) | Ganzzahl 0-99999 | M      Warnung, wenn  (Feld 12 + Feld 13 + Feld 14 + Feld 15) < (Feld 4 + Feld 5) |
+|  |  | 0 ml/s (Harnverhalt) | Ganzzahl 0-99999 | M      Warnung, wenn  (Feld 12 + Feld |
 
-tien TURP -Verfahren tionelle OP**6** von **9**
-
+tien TURP -Verfahren tionelle OP
 
 ---
-
--Laser-Therapie
 
 |  |  |  |  |  |
 |---|---|---|---|---|
 |  | Ganzzahl 0-99999 | M |  | Fehler, wenn |
-|  |  |  | 23 |  |
+| + Feld |  |  | 23 |  |
 | Ganzzahl 0-99999 |  | 24 |  | andere |
 | Ganzzahl 0-99999 | | | | |
-|  |  |  | 0 - 59 Minuten | Ganzzahl 0-99999  M    Warnung, wenn  (Feld 25 + Feld 26 + Feld 27) < (Feld 4 + Feld 5) |
-|  |  |  |  | |
-|  | | | | |
-| (Feld 25 + Feld 26 + Feld 27) > (Feld 4 + Feld 5) |  |  |  | 26            60 – 89 Minuten  Ganzzahl 0-99999  M |
+|  |  |  | 0 - 59 Minuten | Ganzzahl 0-99999  M    Warnung, wenn  (Feld 25 |
+| + Feld | 4 | + Feld | 5 | |
+| ) | | | | |
+| (Feld | 26 | + Feld | 27 | ) > (Feld 4 + Feld 5)    26            60 – 89 Minuten  Ganzzahl 0-99999  M |
 |  | Ganzzahl 0-99999 | M | **Resektionsgewicht** | |
 |  | | | | |
-|  | Ganzzahl 0-99999 | M |  | Warnung, wenn  (Feld 28 + Feld 29 + Feld 30 + Feld 31 + Feld 32) < (Feld 4 + Feld 5)    Fehler, wenn  (Feld 28 + Feld 29 + Feld 30 + Feld 31 + Feld 32) > (Feld 4 + Feld 5) |
+|  | Ganzzahl 0-99999 | M |  | Warnung, wenn  (Feld 28 + Feld 29 + Feld 30 + Feld 31 + Feld 32) < (Feld 4 + Feld 5)    Fehler, wenn  (Feld 28 + Feld 29 + Feld 30 + Feld 31 + Feld 32) > (Feld 4 + Feld |
 |  |  |  | >0 – 9,9g | |
 |  |  |  | 10 – 19,9g | |
 |  | 20 – 39,9g | Ganzzahl 0-99999 | M | |
 | **Nr.** | **Feldbezeichnung** | **Ausprägung/Datenformat** | **Art** | **Beschreibung (Bedingung/Plausibilität/Erläuterung)** |
 |  | | | | |
 |  |  | Ganzzahl 0-99999 | M | Fehler, wenn  (Feld 22 + Feld 23 + Feld 24) > (Feld 4 + Feld 5)    23  Anzahl interventionspflichtige  Ganzzahl 0-99999  M  24  andere  Ganzzahl 0-99999  M **Operationszeit ** 25            0 - 59 Minuten  Ganzzahl 0-99999  M |
-| (Feld 25 + Feld 26 + Feld 27) < (Feld 4 + Feld 5) |  |  |  | |
-|  |  | Fehler, wenn | (Feld 25 + Feld 26 + Feld 27) > (Feld 4 + Feld 5) | |
-|  |  |  |  | |
-|  | | | | |
+| (Feld | 26 | + Feld | 27 | |
+| + Feld |  | Fehler, wenn | (Feld | |
+| 26 | ) > (Feld | 4 | + Feld | |
+| 5 | | | | |
 |  |  |  | 60 – 89 Minuten | Ganzzahl 0-99999  M  27 |
 | M |  | 28 |  | 0g (Abbruch)  Ganzzahl 0-99999  M |
-| (Feld 28 + Feld 29 + Feld 30 + Feld 31 + Feld 32) < (Feld 4 + Feld 5) |  |  |  |  |
-|  |  |  |  |  |
-|  | | | | |
-|  | 29 |  |  | >0 – 9,9g  Ganzzahl 0-99999  M  30 |
+| (Feld | 29 | + Feld | 30 | + Feld 31 + Feld 32) < (Feld 4 + Feld |
+|  | 28 | + Feld | 29 | + Feld 30 + Feld 31 + Feld 32) > (Feld |
+| 4 | | | | |
+| ) | 29 |  |  | >0 – 9,9g  Ganzzahl 0-99999  M  30 |
 | M | 31 |  |  | |
 | 20 – 39,9g | | | | |
 | **Nr.** | **Feldbezeichnung** | **Ausprägung/Datenformat** | **Art** | **Beschreibung (Bedingung/Plausibilität/Erläuterung)** |
@@ -265,19 +248,16 @@ tien TURP -Verfahren tionelle OP**6** von **9**
 | 32 | 40g und mehr | Ganzzahl 0-99999 | M | |
 | **Spontanmiktion** | | | | |
 | **Nr.** | **Feldbezeichnung** | **Ausprägung/Datenformat** | **Art** | **Beschreibung (Bedingung/Plausibilität/Erläuterung)** |
-| 22 | Anzahl interventionspflichtige |  | Ganzzahl 0-99999 | M    Fehler, wenn  (Feld 22 + Feld 23 + Feld 24) > (Feld 4 + Feld 5) |
+| 22 | Anzahl interventionspflichtige |  | Ganzzahl 0-99999 | M    Fehler, wenn  (Feld 22 + Feld 23 + Feld 24) > (Feld 4 + Feld 5 |
 
-Nachblutungen ohne Transf sion Nachblutungen mit Transfus u- i-**7** von **9**
-
+Nachblutungen ohne Transf sion Nachblutungen mit Transfus u- i-
 
 ---
 
--Laser-Therapie
-
 |  |  |  |  |  |
 |---|---|---|---|---|
-|  | M | Fehler, wenn Feld 33 > (Feld 4 + Feld 5) |  |  |
-|  |  |  |  |  |
+|  | M | Fehler, wenn Feld | 33 | > (Feld |
+| 5 |  |  |  |  |
 |  |  |  |  |  |
 |  | | | | |
 |  |  |  |  |  |
@@ -292,7 +272,7 @@ Nachblutungen ohne Transf sion Nachblutungen mit Transfus u- i-**7** von **9**
 |  |  |  |  | |
 | **Nr.** | **Feldbezeichnung** | **Ausprägung/Datenformat** | **Art** | **Beschreibung (Bedingung/Plausibilität/Erläut** |
 |  | | | | |
-|  | Ganzzahl 0-99999 | M | Fehler, wenn Feld 33 > (Feld 4 + Feld 5) |  |
+|  | Ganzzahl 0-99999 | M | Fehler, wenn Feld | 33 > (Feld 4 + Feld 5) |
 |  |  |  |  | |
 |  |  |  |  | |
 |  |  |  |  | |
@@ -306,7 +286,7 @@ Nachblutungen ohne Transf sion Nachblutungen mit Transfus u- i-**7** von **9**
 |  |  |  |  | |
 |  | | | | |
 | **Nr.** | **Feldbezeichnung** | **Ausprägung/Datenformat** | **Art** | **Beschreibung (Bedingung/Plausibilität/Erläut** |
-|  | Spontanmiktion Ganzzahl 0-99999 | M | Fehler, wenn Feld 33 > (Feld 4 + Feld 5) |  |
+|  | Spontanmiktion Ganzzahl 0-99999 | M | Fehler, wenn Feld | 33 > (Feld 4 + Feld 5) |
 |  |  |  |  | |
 |  |  |  |  | |
 |  | | | | |
@@ -323,17 +303,14 @@ Nachblutungen ohne Transf sion Nachblutungen mit Transfus u- i-**7** von **9**
 | **Nr.** | **Feldbezeichnung** | **Ausprägung/Datenformat** | **Art** | **Beschreibung (Bedingung/Plausibilität/Erläut** |
 |  | Spontanmiktion | Ganzzahl 0-99999 | M | Fehler, wenn Feld 33 > (Feld 4 + Feld 5) |
 
-Anzahl Entlassungen mit erung) **8** von **9**
-
+Anzahl Entlassungen mit erung)
 
 ---
 
 # 3 Referenzierte Dokumente
 
-| **Referenz** | **Dokument** |
+| Referenz | Dokument |
 |---|---|
 | [1] | Qualitätssicherungsvereinbarung |
-
--Laser-Therapie
 
 Holmium-Laser- Therapie

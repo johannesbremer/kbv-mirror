@@ -29,47 +29,19 @@ Ansprechpartner KV Nordrhein:
 
 **6**
 
-**3.1** **Ausfüllhinweise zum header-Bereich .......................................................................................... 6**
-
-3.1.1 Quartalsbezug ........................................................................................................................ 6
-
-3.1.2 Erstellungsdatum der Sammelerklärung ................................................................................ 6
-
-3.1.3 Zuständige Kassenärztliche Vereinigung ............................................................................... 7
-
-3.1.4 Ausprägung Arzt ..................................................................................................................... 7
-
-**3.2** **Ausfüllhinweise zum body-Bereich .............................................................................................. 8**
-
-3.2.1 Fallstatistik .............................................................................................................................. 8
-
-3.2.2 Vertretung ............................................................................................................................... 8
-
-3.2.3 Angestellte Ärzte .................................................................................................................... 9
-
-3.2.4 Organisierter Notfalldienst ....................................................................................................10
-
-3.2.5 Assistenten ...........................................................................................................................11
+**3.1** **Ausfüllhinweise zum header-Bereich .......................................................................................... 6**  3.1.1 Quartalsbezug ........................................................................................................................ 6  3.1.2 Erstellungsdatum der Sammelerklärung ................................................................................ 6  3.1.3 Zuständige Kassenärztliche Vereinigung ............................................................................... 7  3.1.4 Ausprägung Arzt ..................................................................................................................... 7  **3.2** **Ausfüllhinweise zum body-Bereich .............................................................................................. 8**  3.2.1 Fallstatistik .............................................................................................................................. 8  3.2.2 Vertretung ............................................................................................................................... 8  3.2.3 Angestellte Ärzte .................................................................................................................... 9  3.2.4 Organisierter Notfalldienst ....................................................................................................10  3.2.5 Assistenten ...........................................................................................................................11
 
 **4** **AUFBAU DER SAMMELERKLÄRUNG ERMÄCHTIGTE ÄRZTE**
 
 **13**
 
-**4.1** **Unterschiede im Bereich header-Element .................................................................................13**
-
-4.1.1 Ausprägung ermächtigte Ärzte .............................................................................................13
-
-**4.2** **Unterschiede im Bereich body-Element ....................................................................................13**
+**4.1** **Unterschiede im Bereich header-Element .................................................................................13**  4.1.1 Ausprägung ermächtigte Ärzte .............................................................................................13  **4.2** **Unterschiede im Bereich body-Element ....................................................................................13**
 
 **5** **AUFBAU DER SAMMELERKLÄRUNG KRANKENHÄUSER**
 
 **15**
 
-**5.1** **Unterschiede im Bereich header-Element .................................................................................15**
-
-5.1.1 Ausprägung Krankenhaus ....................................................................................................15
-
-**5.2** **Unterschiede im Bereich body-Element ....................................................................................16**
+**5.1** **Unterschiede im Bereich header-Element .................................................................................15**  5.1.1 Ausprägung Krankenhaus ....................................................................................................15  **5.2** **Unterschiede im Bereich body-Element ....................................................................................16**
 
 **6** **ERZEUGUNG EINER SAMMELERKLÄRUNG IM PDF/A-1B FORMAT**
 
@@ -90,22 +62,20 @@ Ansprechpartner KV Nordrhein:
 | **8** | **ANLAGE** | **A** |
 | Seite 3 | von 20 |  |
 
-**20**
+**20**  **20**
 
-**20**
-
-ANLAGE A
+ANLAGE A 
 
 
 ---
 
 **1 Änderungsdokumentation**
 
-| **Datum** | **Version** | **Kommentar** |
+| Datum | Version | Kommentar |
 |---|---|---|
 | 12.05.2014 | 1.0 | Erstellung des Dokuments |
 | 13.07.2016 | 1.1 | - Expliziter Hinweis, dass das PDF/A-1b Format erzeugt werden muss. |
-| 10.08.2022 | 1 2 | Anpassungen von Dateinamen und Versionsnummern. Logo ausgetauscht |
+| 10.08.2022 | 1.2 | Anpassungen von Dateinamen und Versionsnummern. Logo ausgetauscht |
 | 23.04.2026 | 1.2.1 | Redaktionelle Anpassungen (u.a. Kontaktdaten auf Seite 1) |
 
 Anpassen des Dateinamens des XSL-Stylesheets. - Hinweis, dass bei Einsatz des Apache FOP Formatters, dieser in der Version   2.1 zu verwenden ist.
@@ -114,47 +84,25 @@ Anpassen des Dateinamens des XSL-Stylesheets. - Hinweis, dass bei Einsatz des Ap
 
 # 2 Vorbemerkungen
 
-Die Kassenärztliche Vereinigung Nordrhein bietet allen ihren Mitgliedern die Möglich- keit eine elektronische Sammelerklärung (eSammelerklärung) als Teil der Quar- talsabrechnung, die online über den E-Mail Dienst der Telematikinfrastruktur KIM1 an
-
-die KV Nordrhein gesendet wird, einzureichen. Die eSammelerklärung muss im  PDF/A-1b2 Format erstellt sein und ist mit einer Signaturkarte qualifiziert zu signie-
-
-ren.
+Die Kassenärztliche Vereinigung Nordrhein bietet allen ihren Mitgliedern die Möglich- keit eine elektronische Sammelerklärung (eSammelerklärung) als Teil der Quar- talsabrechnung, die online über den E-Mail Dienst der Telematikinfrastruktur KIM1 an  die KV Nordrhein gesendet wird, einzureichen. Die eSammelerklärung muss im  PDF/A-1b2 Format erstellt sein und ist mit einer Signaturkarte qualifiziert zu signie- ren.
 
 Die Sammelerklärung ist im Honorarverteilungsmaßstab der Kassenärztlichen Verei- nigung Nordrhein (HVM) geregelt. Die Sammelerklärung stellt die rechtsverbindliche  Erklärung des Arztes dar, dass seine Abrechnung ordnungsgemäß und vollständig  erbracht wurde. Da die Sammelerklärung die Abbildung vertraglicher Bestimmungen  zwischen den Kassen und der KV Nordrhein ist, diese sich in unregelmäßigen Zeitin- tervallen ändern, ändert sich ggf. auch der Inhalt der Sammelerklärung.
 
 Es werden drei Varianten der Sammelerklärung unterschieden:
 
-- 1. Sammelerklärung für Vertragsärzte bzw. Vertragspsychotherapeuten bzw.
-
-- MVZ
-
+- 1. Sammelerklärung für Vertragsärzte bzw. Vertragspsychotherapeuten bzw.  MVZ
 - 2. Sammelerklärung für ermächtigte Ärzte
-
 - 3. Sammelerklärung für Krankenhäuser (Unterschrift durch den ärztl. Leiter)
 
-Zur Übermittlung einer elektronischen Sammelerklärung sind die variablen Daten zur  Sammelerklärung in einer XML-Datei zu erfassen. In den nachfolgenden Kapiteln  wird der Aufbau der XML-Datei(en) beschrieben. **Es wird nur die erste Variante**
+Zur Übermittlung einer elektronischen Sammelerklärung sind die variablen Daten zur  Sammelerklärung in einer XML-Datei zu erfassen. In den nachfolgenden Kapiteln  wird der Aufbau der XML-Datei(en) beschrieben. **Es wird nur die erste Variante**  **Sammelerklärung** **Vertragsärzte“ komplett beschrieben. Bezüglich der Varian-** **ten „Sammelerklärung** **Ermächtige Ärzte“ und „Sammelerklärung** **Krankenhäu-** **ser“ werden nur die Unterschiede zur „**Sammelerklärung **Vertragsärzte“ be-** **schrieben.** Die Unterschiede der drei Schnittstellen sind so gering, dass diese Vor- gehensweise sinnvoll ist.
 
-**Sammelerklärung** **Vertragsärzte“ komplett beschrieben. Bezüglich der Varian-**
-
-**ten „Sammelerklärung** **Ermächtige Ärzte“ und „Sammelerklärung** **Krankenhäu-**
-
-**ser“ werden nur die Unterschiede zur „**Sammelerklärung **Vertragsärzte“ be-**
-
-**schrieben.** Die Unterschiede der drei Schnittstellen sind so gering, dass diese Vor-
-
-gehensweise sinnvoll ist.
-
-Basis für den Aufbau der Sammelerklärung ist die Schnittstellenbeschreibung „elekt-
-
-ronische Sammelerklärung (eSE)“3 der kv.digital.
-
-Das vorliegende Dokument führt die Strukturelemente auf, die von der KV Nordrhein  gefordert werden und sich in der genannten Schnittstelle wiederfinden; die Vorgaben  der KV Nordrhein beziehen sich nur auf Teile der genannten Schnittstelle.
+Basis für den Aufbau der Sammelerklärung ist die Schnittstellenbeschreibung „elekt- ronische Sammelerklärung (eSE)“3 der kv.digital.   Das vorliegende Dokument führt die Strukturelemente auf, die von der KV Nordrhein  gefordert werden und sich in der genannten Schnittstelle wiederfinden; die Vorgaben  der KV Nordrhein beziehen sich nur auf Teile der genannten Schnittstelle.
 
 1 Kommunikation im Medizinwesen
 
 2 PDF/A ist ein Standard für die Langzeitarchivierung des Portable Document Formats (PDF). Siehe auch  [http://de.wikipedia.org/wiki/PDF/A](http://de.wikipedia.org/wiki/PDF/A)
 
-3 [https://update.kbv.de/ita](https://update.kbv.de/ita)-update/Abrechnung/1-Click-Abrechnung/KIM/Sammelerklaerung.zip
+[3](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/Sammelerklaerung.zip)[](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/Sammelerklaerung.zip)[https://update.kbv.de/ita](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/Sammelerklaerung.zip)[-update/Abrechnung/1-Click-Abrechnung/KIM/Sammelerklaerung.zip](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/Sammelerklaerung.zip)[](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/Sammelerklaerung.zip)[](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/Sammelerklaerung.zip)
 
 
 ---
@@ -167,19 +115,13 @@ Folgende XML-Elemente können in der Sammelerklärung  rhein auftreten:
 
 ### 3.1.1 Quartalsbezug
 
-Mit dem Element service_tmr ist der Quartalsbezug anzugeben. Es ist der erste Tag und
-
-der letzte Tag des Quartals anzugeben. Aus diesen Angaben wird für die PDF Sammelerklärung (auf Basis des XSL-FO Stylesheets) das entsprechende Quartal ermittelt.
+Mit dem Element service_tmr ist der Quartalsbezug anzugeben. Es ist der erste Tag und  der letzte Tag des Quartals anzugeben. Aus diesen Angaben wird für die PDF Sammelerklärung (auf Basis des XSL-FO Stylesheets) das entsprechende Quartal ermittelt.
 
 Das Element ist wie folgt zu verwenden:
 
 ### 3.1.2 Erstellungsdatum der Sammelerklärung
 
-Mit dem Element origination_dttm wird das Erstellungsdatum der Sammelerklärung an-
-
-gegeben. Das Datum wird bei der PDF-Darstellung der Sammelerklärung (auf Basis des XSL
-
-FO Stylesheets) berücksichtigt.
+Mit dem Element origination_dttm wird das Erstellungsdatum der Sammelerklärung an- gegeben. Das Datum wird bei der PDF-Darstellung der Sammelerklärung (auf Basis des XSL FO Stylesheets) berücksichtigt.
 
 Das Element ist wie folgt zu verwenden:
 
@@ -194,33 +136,23 @@ Das Element ist wie folgt zu verwenden:
 
 ### 3.1.3 Zuständige Kassenärztliche Vereinigung
 
-Mit dem Element originator ist anzugeben, dass die Vorgaben der KV Nordrhein für die
-
-konkrete Sammelerklärung berücksichtigt werden sollen. Das Element ist wie folgt zu verwen- den:
+Mit dem Element originator ist anzugeben, dass die Vorgaben der KV Nordrhein für die  konkrete Sammelerklärung berücksichtigt werden sollen. Das Element ist wie folgt zu verwen- den:
 
 ### 3.1.4 Ausprägung Arzt
 
-Mit dem Element intended_recipient wird bestimmt, wie der Typ der Sammelerklärung
+Mit dem Element intended_recipient wird bestimmt, wie der Typ der Sammelerklärung  lautet. Die KV Nordrhein kennt drei Varianten bzw. Ausprägungen der Sammelerklärung:
 
-lautet. Die KV Nordrhein kennt drei Varianten bzw. Ausprägungen der Sammelerklärung:
-
-1. Vertragsärzte und Vertragspsychotherapeuten sowie MVZs 2. ermächtigte Ärzte
-
+1. Vertragsärzte und Vertragspsychotherapeuten sowie MVZs
+2. ermächtigte Ärzte
 3. Krankenhäuser (z.Bsp. Notfallambulanzen)
 
-Die KV Nordrhein gibt Templates für jede dieser drei Varianten vor. Sie unterscheiden sich  durch die Überschriften (Sammelerklärung, Sammelerklärung|Ermächtigte Ärzte und Sam- melerklärung|Krankenhäuser) und aufgrund der Inhalte. Die drei Templates sind in der An-
+Die KV Nordrhein gibt Templates für jede dieser drei Varianten vor. Sie unterscheiden sich  durch die Überschriften (Sammelerklärung, Sammelerklärung|Ermächtigte Ärzte und Sam- melerklärung|Krankenhäuser) und aufgrund der Inhalte. Die drei Templates sind in der An- lage 8 Anlage A abgebildet.
 
-lage 8 Anlage A abgebildet.
+Die eigentliche Information, welche Ausprägung der Sammelerklärung vorliegt, wird über die  Kindelemente organization/organization.nm des Elements intended_recipient  übertragen (siehe auch Kapitel 4.6 in eSE
 
-Die eigentliche Information, welche Ausprägung der Sammelerklärung vorliegt, wird über die  Kindelemente organization/organization.nm des Elements intended_recipient
+Im Attribut V des Elements organization.nm ist der Ausprägungswert einzutragen. Das  Attribut muss einen der drei folgenden Werte beinhalten (Klein- und Großschreibung ist rele- vant).
 
-übertragen (siehe auch Kapitel 4.6 in eSE
-
-Im Attribut V des Elements organization.nm ist der Ausprägungswert einzutragen. Das
-
-Attribut muss einen der drei folgenden Werte beinhalten (Klein- und Großschreibung ist rele- vant).
-
-Definition des V-Attributs des Elements organization.nm
+Definition des V Attributs des Elements organization.nm
 
 | Datentyp: | Alphanumerisch |
 |---|---|
@@ -234,28 +166,21 @@ Das Element ist wie folgt zu verwenden:
 
 ## 3.2 Ausfüllhinweise zum body-Bereich
 
-Die Inhalte der KV Nordrhein spezifischen Sammelerklärung erfordern nicht die Umsetzung  aller Elemente, die in der Schnittstellenbeschreibung „elektronische Sammelerklärung (eSE)“
-
-definiert sind. Für die Anforderungen der KV Nordrhein sind folgende Elemente zu berück- sichtigen:
+Die Inhalte der KV Nordrhein spezifischen Sammelerklärung erfordern nicht die Umsetzung  aller Elemente, die in der Schnittstellenbeschreibung „elektronische Sammelerklärung (eSE)“  definiert sind. Für die Anforderungen der KV Nordrhein sind folgende Elemente zu berück- sichtigen:
 
 ### 3.2.1 Fallstatistik
 
-Mit dem Element fall_statistik ist anzugeben, wie viele Behandlungsfälle die Praxis ins-
-
-gesamt abrechnet. Das Element ist wie folgt zu verwenden:
+Mit dem Element fall_statistik ist anzugeben, wie viele Behandlungsfälle die Praxis ins- gesamt abrechnet. Das Element ist wie folgt zu verwenden:
 
 ### 3.2.2 Vertretung
 
-Mit dem Element vertretungszeit_liste werden sowohl die Vertretungszeiten als auch
-
-die Personen genannt, die in der eigenen Praxis eine Vertretung übernommen haben.  Haben keine Vertretungen stattgefunden, kann dies auf zwei Arten angezeigt werden. Zum  einen kann das Element vertretungszeit_liste komplett fehlen, zum anderen kann fol-
-
-gende Struktur verwendet werden:
+Mit dem Element vertretungszeit_liste werden sowohl die Vertretungszeiten als auch  die Personen genannt, die in der eigenen Praxis eine Vertretung übernommen haben.  Haben keine Vertretungen stattgefunden, kann dies auf zwei Arten angezeigt werden. Zum  einen kann das Element vertretungszeit_liste komplett fehlen, zum anderen kann fol- gende Struktur verwendet werden:
 
 Haben Vertretungen stattgefunden, muss der Zeitraum der Vertretung angegeben werden  und die Person, die die Vertretung durchgeführt hat. Es können beliebig viele Zeiträume mit  den dazugehörigen Vertretern angegeben werden; pro Vertretungszeitraum ist ein  Element als Kindelement zum Element true anzulegen.
 
+```
 komplex
-
+```
 
 ---
 
@@ -263,17 +188,9 @@ Das Element vertretungszeit_liste ist wie folgt zu verwenden:
 
 ### 3.2.3 Angestellte Ärzte
 
-Mit dem Element angestellter_arzt_liste werden sowohl die Zeiten als auch die Per-
+Mit dem Element angestellter_arzt_liste werden sowohl die Zeiten als auch die Per- sonen genannt, die in der eigenen Praxis als angestellte Ärzte tätig waren.   Wurden keine angestellten Ärzte beschäftigt, kann dies auf zwei Arten angezeigt werden.  Zum einen kann das Element angestellter_arzt_liste komplett fehlen, zum anderen  kann folgende Struktur verwendet werden:
 
-sonen genannt, die in der eigenen Praxis als angestellte Ärzte tätig waren.
-
-Wurden keine angestellten Ärzte beschäftigt, kann dies auf zwei Arten angezeigt werden.  Zum einen kann das Element angestellter_arzt_liste komplett fehlen, zum anderen
-
-kann folgende Struktur verwendet werden:
-
-Haben Beschäftigungen stattgefunden, muss der Zeitraum der Beschäftigung angegeben  werden und die Person, die beschäftigt wurde. Es können beliebig viele Zeiträume mit den  dazugehörigen angestellten Ärzten angegeben werden; pro Beschäftigungszeitraum ist ein
-
-komplex Element als Kindelement zum Element true anzulegen.
+Haben Beschäftigungen stattgefunden, muss der Zeitraum der Beschäftigung angegeben  werden und die Person, die beschäftigt wurde. Es können beliebig viele Zeiträume mit den  dazugehörigen angestellten Ärzten angegeben werden; pro Beschäftigungszeitraum ist ein  komplex Element als Kindelement zum Element true anzulegen.
 
 
 ---
@@ -282,17 +199,9 @@ Das Element angestellter_arzt_liste ist wie folgt zu verwenden:
 
 ### 3.2.4 Organisierter Notfalldienst
 
-Mit dem Element org_notdienstzeit_liste werden die Notfalldienstzeiten angegeben,
+Mit dem Element org_notdienstzeit_liste werden die Notfalldienstzeiten angegeben,  an denen die Ärzte der Praxis teilgenommen haben.   Wurde an keinem Notfalldienst teilgenommen, kann dies auf zwei Arten angezeigt werden.  Zum einen kann das Element org_notdienstzeit_liste komplett fehlen, zum anderen  kann folgende Struktur verwendet werden:
 
-an denen die Ärzte der Praxis teilgenommen haben.
-
-Wurde an keinem Notfalldienst teilgenommen, kann dies auf zwei Arten angezeigt werden.  Zum einen kann das Element org_notdienstzeit_liste komplett fehlen, zum anderen
-
-kann folgende Struktur verwendet werden:
-
-Wurde hingegen am Notdienst teilgenommen, muss der Zeitraum bzw. der Tag, an dem der  Notdienst stattfand, angegeben werden. Es können beliebig viele Zeiträume bzw. Tage an- gegeben werden; pro Zeitangabe ist ein komplex Element als Kindelement zum Element
-
-true anzulegen.
+Wurde hingegen am Notdienst teilgenommen, muss der Zeitraum bzw. der Tag, an dem der  Notdienst stattfand, angegeben werden. Es können beliebig viele Zeiträume bzw. Tage an- gegeben werden; pro Zeitangabe ist ein komplex Element als Kindelement zum Element  true anzulegen.
 
 
 ---
@@ -309,23 +218,19 @@ Das Element org_notdienstzeit_liste ist wie folgt zu verwenden:
 
 ### 3.2.5 Assistenten
 
-Mit dem Element assistent_liste werden sowohl die Zeiten als auch die Personen ge-
+Mit dem Element assistent_liste werden sowohl die Zeiten als auch die Personen ge- nannt, die in der eigenen Praxis als Assistenten tätig waren.   Wurden keine Assistenten beschäftigt, kann dies auf zwei Arten angezeigt werden. Zum ei- nen kann das Element assistent_liste komplett fehlen, zum anderen kann folgende  Struktur verwendet werden:
 
-nannt, die in der eigenen Praxis als Assistenten tätig waren.
-
-Wurden keine Assistenten beschäftigt, kann dies auf zwei Arten angezeigt werden. Zum ei- nen kann das Element assistent_liste komplett fehlen, zum anderen kann folgende
-
-Struktur verwendet werden:
-
-Haben Beschäftigungen stattgefunden, muss der Zeitraum der Beschäftigung angegeben  werden und die Person, die beschäftigt wurde. Es können beliebig viele Zeiträume mit den  dazugehörigen Assistenten angegeben werden; pro Beschäftigungszeitraum ist ein komplex
-
-bis 17.04.2014 01:00 Uhr vom 23.06.2014 Element als Kindelement zum Element true anzulegen.
+bis 17.04.2014 01:00 Uhr vom 23.06.2014 Haben Beschäftigungen stattgefunden, muss der Zeitraum der Beschäftigung angegeben  werden und die Person, die beschäftigt wurde. Es können beliebig viele Zeiträume mit den  dazugehörigen Assistenten angegeben werden; pro Beschäftigungszeitraum ist ein komplex  Element als Kindelement zum Element true anzulegen.
 
 
 ---
 
-Das Element assistent_liste ist wie folgt zu verwenden:
+| Elektronische | Sammelerklärung |
+|---|---|
+| Das | Element assistent_liste ist wie folgt zu verwenden: |
+| Seite 12 | von 20 |
 
+Das Element
 
 ---
 
@@ -333,31 +238,25 @@ Das Element assistent_liste ist wie folgt zu verwenden:
 
 #### Wichtiger Hinweis:
 
-Die nachfolgende Beschreibung zur Erstellung einer Sammelerklärungsdatei im  XML-Format gilt nur für ermächtigte Ärzte. Die Schnittstelle wird hier nicht erschöp- fend beschrieben, weil sie nur in geringen Teilen von der in Kapitel 3 Aufbau der  Sammelerklärung Vertragsärzte beschriebenen Schnittstelle abweicht. In diesem Ka- pitel werden nur die Unterschiede zur im Kapitel 3 beschriebenen Schnittstelle er- wähnt.
+Die nachfolgende Beschreibung zur Erstellung einer Sammelerklärungsdatei im  XML-Format gilt nur für ermächtigte Ärzte. Die Schnittstelle wird hier nicht erschöp- fend beschrieben, weil sie nur in geringen Teilen von der in Kapitel  Sammelerklärung Vertragsärzte beschriebenen Schnittstelle abweicht. In diesem Ka- pitel werden nur die Unterschiede zur im Kapitel 3 beschriebenen Schnittstelle er- wähnt.
 
 ## 4.1 Unterschiede im Bereich header-Element
 
 ### 4.1.1 Ausprägung ermächtigte Ärzte
 
-Mit dem Element intended_recipient wird bestimmt, wie der Typ der Sammelerklärung
+Mit dem Element intended_recipient wird bestimmt, wie der Typ der Sammelerklärung  lautet. Die KV Nordrhein kennt drei Varianten bzw. Ausprägungen der Sammelerklärung:
 
-lautet. Die KV Nordrhein kennt drei Varianten bzw. Ausprägungen der Sammelerklärung:
-
-1. Vertragsärzte und Vertragspsychotherapeuten sowie MVZs 2. ermächtigte Ärzte
-
+1. Vertragsärzte und Vertragspsychotherapeuten sowie MVZs
+2. ermächtigte Ärzte
 3. Krankenhäuser (z.Bsp. Notfallambulanzen)
 
 Die KV Nordrhein gibt Templates für jede dieser drei Varianten vor. Sie unterscheiden sich  durch die Überschriften (Sammelerklärung, Sammelerklärung|Ermächtigte Ärzte und Sam- melerklärung|Krankenhäuser) und aufgrund der Inhalte. Die drei Templates sind in d lage 8 Anlage A abgebildet.
 
-Die eigentliche Information, welche Ausprägung der Sammelerklärung vorliegt, wird über die  Kindelemente organization/organization.nm
+Die eigentliche Information, welche Ausprägung der Sammelerklärung vorliegt, wird über die  Kindelemente organization/organization.nm des Elements  übertragen (siehe auch Kapitel 4.6 in eSE
 
-übertragen (siehe auch Kapitel 4.6 in eSE
+Im Attribut V des Elements organization.nm ist der Ausprägungswert einzutragen Attribut muss einen der drei folgenden Werte beinhalten (Klein vant).
 
-Im Attribut V des Elements organization.nm
-
-Attribut muss einen der drei folgenden Werte beinhalten (Klein vant).
-
-Definition des V-Attributs des Elements
+Definition des V Attributs des Elements organization.nm
 
 | Datentyp: | Alphanumerisch |
 |---|---|
@@ -366,34 +265,26 @@ Definition des V-Attributs des Elements
 
 Das Element ist wie folgt zu verwenden:
 
-ist der Ausprägungswert einzutragen
-
-organization.nm
-
 ## 4.2 Unterschiede im Bereich body-Element
 
-Für die Ausprägung *ermächtigte Ärzte* ist nur das Element
+Für die Ausprägung *ermächtigte Ärzte* ist nur das Element fall_statistik tieren. Alle weiteren im Kapitel 3 beschriebenen body-Elemente treten in dieser Ausprägung  der Sammelerklärung **nicht** auf.
 
-tieren. Alle weiteren im Kapitel 3 beschriebenen body-Elemente treten in dieser Ausprägung  der Sammelerklärung **nicht** auf.
-
-des Elements intended_recipient
-
-- und Großschreibung ist rele-
-
-fall_statistik
+3 Aufbau der
 
 er An-
 
-. Das
+```
+intended_recipient
+```
+
+. Das  - und Großschreibung ist rele-
 
 zu implemen-
 
 
 ---
 
-Demnach treten folgende XML Elemente in der Sammelerklärung Ausprägung ermächti-
-
-gete Ärzte - der KV Nordrhein auf:
+Demnach treten folgende XML Elemente in der Sammelerklärung Ausprägung ermächti- gete Ärzte - der KV Nordrhein auf:
 
 
 ---
@@ -402,44 +293,46 @@ gete Ärzte - der KV Nordrhein auf:
 
 #### Wichtiger Hinweis:
 
-Die nachfolgende Beschreibung zur Erstellung einer Sammelerklärungsdatei im  XML-Format gilt nur für Krankenhäuser. Die Schnittstelle wird hier nicht erschöpfend  beschrieben, weil sie nur in geringen Teilen von der in Kapitel 3 Aufbau der Sammel- erklärung Vertragsärzte beschriebenen Schnittstelle abweicht. In diesem Kapitel wer- den nur die Unterschiede zur im Kapitel 3 beschriebenen Schnittstelle erwähnt.
+Die nachfolgende Beschreibung zur Erstellung einer Sammelerklärungsdatei im  XML-Format gilt nur für Krankenhäuser. Die Schnittstelle wird hier nicht erschöpfend  beschrieben, weil sie nur in geringen Teilen von der in Kapitel  erklärung Vertragsärzte beschriebenen Schnittstelle abweicht. In diesem Kapitel wer- den nur die Unterschiede zur im Kapitel 3 beschriebenen Schnittstelle erwähnt.
 
 ## 5.1 Unterschiede im Bereich header-Element
 
 ### 5.1.1 Ausprägung Krankenhaus
 
-Mit dem Element intended_recipient wird bestimmt, wie der Typ der Sammelerklärung
+Mit dem Element intended_recipient wird bestimmt, wie der Typ der Sammelerklärung  lautet. Die KV Nordrhein kennt drei Varianten bzw. Ausprägungen der Sammelerklärung:
 
-lautet. Die KV Nordrhein kennt drei Varianten bzw. Ausprägungen der Sammelerklärung:
-
-1. Vertragsärzte und Vertragspsychotherapeuten sowie MVZs 2. ermächtigte Ärzte
-
+1. Vertragsärzte und Vertragspsychotherapeuten sowie MVZs
+2. ermächtigte Ärzte
 3. Krankenhäuser (z.Bsp. Notfallambulanzen)
 
 Die KV Nordrhein gibt Templates für jede dieser drei Varianten vor. Sie unterscheiden sich  durch die Überschriften (Sammelerklärung, Sammelerklärung|Ermächtigte Ärzte und Sam- melerklärung|Krankenhäuser) und aufgrund der Inhalte. Die drei Templates sind in d lage 8 Anlage A abgebildet.
 
-Die eigentliche Information, welche Ausprägung der Sammelerklärung vorliegt, wird über die  Kindelemente organization/organization.nm
+Die eigentliche Information, welche Ausprägung der Sammelerklärung vorliegt, wird über die  Kindelemente organization/organization.nm übertragen (siehe auch Kapitel 4.6 in eSE
 
-übertragen (siehe auch Kapitel 4.6 in eSE
+Im Attribut V des Elements organization.nm Attribut muss einen der drei folgenden Werte beinhalten (Klein vant).
 
-Im Attribut V des Elements organization.nm ist der Ausprägungswert einzutragen
-
-Attribut muss einen der drei folgenden Werte beinhalten (Klein vant).
-
-Definition des V-Attributs des Elements organization.nm
+Definition des V Attributs des Elements
 
 | Datentyp: | Alphanumerisch |
 |---|---|
 | Werte: | Arzt, Ermächtigt, Krankenhaus |
 | Kardinalität: | 1..1 |
 
-Das Element ist wie folgt zu verwenden:
+des Elements
 
-des Elements intended_recipient
+ist der Ausprägungswert einzutragen - und Großschreibung ist rele-
 
-- und Großschreibung ist rele-
+```
+organization.nm
+```
+
+Das Element ist wie folgt zu verwenden: 3 Aufbau der Sammel-
 
 er An-
+
+```
+intended_recipient
+```
 
 . Das
 
@@ -448,13 +341,9 @@ er An-
 
 ## 5.2 Unterschiede im Bereich body-Element
 
-Für die Ausprägung *Krankenhaus* ist nur das Element fall_statistik zu implementieren.
+Für die Ausprägung *Krankenhaus* ist nur das Element fall_statistik zu implementieren.  Alle weiteren im Kapitel 3 beschriebenen body-Elemente treten in dieser Ausprägung der  Sammelerklärung **nicht** auf.
 
-Alle weiteren im Kapitel 3 beschriebenen body-Elemente treten in dieser Ausprägung der  Sammelerklärung **nicht** auf.
-
-Demnach treten folgende XML-Elemente in der Sammelerklärung - Ausprägung Kranken-
-
-haus - der KV Nordrhein auf:
+Demnach treten folgende XML-Elemente in der Sammelerklärung - Ausprägung Kranken- haus - der KV Nordrhein auf:
 
 
 ---
@@ -469,15 +358,8 @@ Nachfolgende Skizze gibt einen Überblick zur Vorgehensweise:
 
 Grundlage zur Erstellung einer PDF/A-Datei Sammelerklärung, ist das Vorliegen der variab- len Daten zur Sammelerklärung im XML-Format. Es werden dabei 3 Varianten unterschieden  (siehe oben). Für die Generierung einer PDF ante vorliegt. Aus diesem Grund wird im Weiteren stets von der  chen, egal ob die Sammelerklärung Vertragsärzte, Ermächtigte Ärzte oder Krankenhaus ge- meint ist.
 
-- 1) Erstellung der XML-Datei Sammelerklärung nach den Vorgaben der Schnittstellenbe-
-
-- schreibung „elektronische Sammelerklärung (eSE)“ ments durch das Praxisverwaltungssystem (PVS).
-
-- 2) Die Vorgabe für die Bildung des Dateinamens zur Sammelerklärung im XML-Format
-
-- basiert auf der Definition zur Schnittstellenbeschreibung „elektronische Sammelerklä-
-
-- rung (eSE)“ ese_{Version Schnittstelle}_{BSNR}_tf+{Quartal}.xml
+- 1) Erstellung der XML-Datei Sammelerklärung nach den Vorgaben der Schnittstellenbe- schreibung „elektronische Sammelerklärung (eSE)“ ments durch das Praxisverwaltungssystem (PVS).
+- 2) Die Vorgabe für die Bildung des Dateinamens zur Sammelerklärung im XML-Format  basiert auf der Definition zur Schnittstellenbeschreibung „elektronische Sammelerklä- rung (eSE)“ ese_{Version Schnittstelle}_{BSNR}_tf+{Quartal}.xml
 
 /A-Datei ist es dabei unerheblich welche Vari-
 
@@ -492,63 +374,20 @@ Sammelerklärung gespro-
 
 ---
 
-- wobei für den Platzhalter {Version Schnittstelle}, eine gültige Versionsnummer zur
-
-- Schnittstelle ab Version 1.21 zu verwenden ist wobei für den Platzhalter {BSNR}, eine konkrete BSNR einzusetzen ist und wobei für den Platzhalter {Quartal}, eine Quartalsangabe im Format JJ setzen ist (4-stellige Jahreszahl, fixer Buchstabe ‚q‘ und 1
-
--  Ein beispielhafter Dateiname wäre: ese_1.21_274412300_tf+2014q4.xml
-
-- 3) Validierung der XML-Datei mit der zugehörigen Schemadatei.
-
-- Sammelerklärung werden mit demselben XSD-Schema validiert. Die Schemadateien  wurden durch die KV Telematik ARGE erstellt - und
-
-- -stellige Quartalszahl).
-
-- . Das Wurzel-Schema ist die Datei -
-
-- JJ’q‘Q einzu-
-
--
-
-- Alle drei Varianten der
-
--
-
-- eSE_root.xsd
-
-- 4) Vorliegen der Stylesheetdatei kvnoSammelFOfuerPDFA-1b.xsl, der JPG-Datei
-
-- KVNO_Logo_FIN_RGB_Claim.jpg und der JPG-Datei aufzaehlung.jpg die von
-
-- der KV Nordrhein bereitgestellt werden.
-
-- 5) Transformierung der XML-Datei auf Basis des kvnoSammelFOfuerPDFA-1b.xsl
-
-- Stylesheets in die Datei _ese_1.21_274412300_tf+2014q4.fo (beispielhafter
-
-- Dateiname). Zur Transformierung ist ein XSLT-Prozessor notwendig.
-
-- Die Datei _ese_1.21_274412300_tf+2014q4.fo als Zwischenprodukt ist ein Do-
-
-- kument nach dem XSL Formatting Objects (XSL-FO) Standard.
-
-- 6) Generierung der PDF/A-Datei mit einem XSL Formatter. Als Inputdatei erhält der XSL
-
-- Formatter die Datei _ese_1.21_274412300_tf+2014q4.fo. PDF/A ist ein Archi-
-
-- vierungsformat nach ISO 19005-1:2005; weitere Informationen bzgl. des PDF/A Stan- dards finden sie unter [pdfa] .
+- wobei für den Platzhalter {Version Schnittstelle}, eine gültige Versionsnummer zur  Schnittstelle ab Version 1.21 zu verwenden ist und  wobei für den Platzhalter {BSNR}, eine konkrete BSNR einzusetzen ist und  wobei für den Platzhalter {Quartal}, eine Quartalsangabe im Format JJJJ’q‘Q einzu- setzen ist (4-stellige Jahreszahl, fixer Buchstabe ‚q‘ und 1-stellige Quartalszahl).   Ein beispielhafter Dateiname wäre: ese_1.21_274412300_tf+2014q4.xml
+- 3) Validierung der XML-Datei mit der zugehörigen Schemadatei. Alle drei Varianten der  Sammelerklärung werden mit demselben XSD-Schema validiert. Die Schemadateien  wurden durch die KV Telematik ARGE erstellt. Das Wurzel-Schema ist die Datei   eSE_root.xsd
+- 4) Vorliegen der Stylesheetdatei kvnoSammelFOfuerPDFA-1b.xsl, der JPG-Datei  KVNO_Logo_FIN_RGB_Claim.jpg und der JPG-Datei aufzaehlung.jpg die von  der KV Nordrhein bereitgestellt werden.
+- 5) Transformierung der XML-Datei auf Basis des kvnoSammelFOfuerPDFA-1b.xsl  Stylesheets in die Datei _ese_1.21_274412300_tf+2014q4.fo (beispielhafter  Dateiname). Zur Transformierung ist ein XSLT-Prozessor notwendig.  Die Datei _ese_1.21_274412300_tf+2014q4.fo als Zwischenprodukt ist ein Do- kument nach dem XSL Formatting Objects (XSL-FO) Standard.
+- 6) Generierung der PDF/A-Datei mit einem XSL Formatter. Als Inputdatei erhält der XSL  Formatter die Datei _ese_1.21_274412300_tf+2014q4.fo. PDF/A ist ein Archi- vierungsformat nach ISO 19005-1:2005; weitere Informationen bzgl. des PDF/A Stan- [dards finden sie unter](http://de.wikipedia.org/wiki/PDF/A)[[pdfa]](http://de.wikipedia.org/wiki/PDF/A)
 
 ## 6.2 Unterschiede zwischen PDF und PDF/A
 
 Das zu erzeugende PDF/A-1b Dokument unterscheidet sich in zwei Ausprägungen bezüglich  eines normalen PDF-Dokuments.
 
-- 1. Zum einen muss das PDF/A Dokument Metainformationen im XMP Format enthalten.  Die notwendigen Informationen sind bereits im Styelsheet  fuerPDFA-1b.xsl enthalten (siehe Element
+- 1. Zum einen muss das PDF/A Dokument Metainformationen im XMP Format enthalten.  Die notwendigen Informationen sind bereits im Styelsheet kvnoSammelFO- fuerPDFA-1b.xsl enthalten (siehe Element <declarations>
+- 2. Zum anderen wird im Stylesheet kvnoSammelFOfuerPDFA-1b.xsl nur die Schrift- art arial verwendet mit den Eigenschaften „fett“ und/oder „kursiv“. Die Schriftart a- rial ist in das zu erstellende PDF-Dokument einzubetten.
 
-- 2. Zum anderen wird im Stylesheet  art arial verwendet mit den Eigenschaften „fett“ und/oder „kursiv“. Die Schriftart
-
-- rial ist in das zu erstellende PDF-Dokument einzubetten.
-
-Sind diese beiden Bedingungen erfüllt,
+Sind diese beiden Bedingungen erfüllt, wird das Dokument als PDF/A Dokument erkannt.
 
 ## 6.3 Hinweise zu verwendbaren Tools
 
@@ -556,41 +395,27 @@ Nachfolgend sind einige Tools zur Erzeugung einer PDF/A Datei genannt. Diese Too
 
 **Kostenfreie XSLT Prozessoren:**
 
-- 1. Xalan Java der Apache Software Foundation (
-
-- 2. MSXSL.exe der Microsoft Corporation ([https://www.microsoft.com/en](https://www.microsoft.com/en) load/details.aspx?id=21714 ) -
+- 1. Xalan [Java der Apache Software Foundation (](http://xalan.apache.org/)[http://xalan.apache.org](http://xalan.apache.org/)
+- 2. [MSXSL.exe der Microsoft Corporation (](https://www.microsoft.com/en-us/download/details.aspx?id=21714)[https://www.microsoft.com/en](http://xalan.apache.org/) [us/down-](https://www.microsoft.com/en-us/download/details.aspx?id=21714) [load/details.aspx?id=21714](https://www.microsoft.com/en-us/download/details.aspx?id=21714)[](https://www.microsoft.com/en-us/download/details.aspx?id=21714)  [](https://www.microsoft.com/en-us/download/details.aspx?id=21714)
 
 **kostenfreier XSL Formatter:**
-
-- kvnoSammelFOfuerPDFA-1b.xsl
-
-wird das Dokument als PDF/A Dokument erkannt.
-
-- kvnoSammelFO-
-
-- <declarations>
-
-- nur die Schrift- a-
-
-- [http://xalan.apache.org)](http://xalan.apache.org)) - -us/down-
 
 
 ---
 
--  Formatting Objects Processor (FOP) der Apache Software Foundation ( [http://xml-](http://xml-)
+-  Formatting Objects Processor (FOP[) der Apache Software Foundation (](http://xmlgraphics.apache.org/fop/)[http://xml-](http://xmlgraphics.apache.org/fop/) [graphics.apache.org/fop/](http://xmlgraphics.apache.org/fop/)[](http://xmlgraphics.apache.org/fop/)) verwendet. **[Falls der Formatter Apache FOP verwendet](http://xmlgraphics.apache.org/fop/)** **[wird, ist die](http://xmlgraphics.apache.org/fop/)*****[Version 2.7](http://xmlgraphics.apache.org/fop/)*****[relevant.](http://xmlgraphics.apache.org/fop/)**
 
-- graphics.apache.org/fop/ ) verwendet. **Falls der Formatter Apache FOP verwendet**
+[Weitere XSL-FO Prozessoren bieten zum Beispiel die Firmen AntennaHouse (](http://www.antennahouse.com/)[http://www.an-](http://www.antennahouse.com/) [tennahouse.com/](http://www.antennahouse.com/)[) und RenderX (](http://www.antennahouse.com/)[http://www.renderx.com/](http://www.renderx.com/)[) an.](http://www.renderx.com/)
 
-- **wird, ist die** ***Version 2.7***** relevant.**
+```
+[](http://www.antennahouse.com/)
+```
 
-Weitere XSL-FO Prozessoren bieten zum Beispiel die Firmen AntennaHouse ([http://www.an-](http://www.an-)
+Weitere Informationen [auch zu Produkten - finden Sie unter](http://xmlgraphics.apache.org/fop/resources.html)[http://xmlgra-](http://xmlgraphics.apache.org/fop/resources.html) [phics.apache.org/fop/resources.html](http://xmlgraphics.apache.org/fop/resources.html)[](http://xmlgraphics.apache.org/fop/resources.html)
 
-tennahouse.com/) und RenderX ([http://www.renderx.com/](http://www.renderx.com/)) an.
-
-Weitere Informationen  auch zu Produkten - finden Sie unter [http://xmlgra-](http://xmlgra-)
-
-phics.apache.org/fop/resources.html
-
+```
+[](http://xmlgraphics.apache.org/fop/resources.html)
+```
 
 ---
 
@@ -598,10 +423,14 @@ phics.apache.org/fop/resources.html
 
 [eSE] Elektronische Sammelerklärung (eSE) Schnittstellenbeschreibung, der kv.digital GmbH  [https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/Sammelerklaerung.zip](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/Sammelerklaerung.zip)
 
-[pdfa] Beschreibung des PDF/A Standards  [http://de.wikipedia.org/wiki/PDF/A](http://de.wikipedia.org/wiki/PDF/A)
+[pdfa] Beschreibung des PDF/A Standards  [http://de.wikipedia.org/wiki/PDF/A](http://de.wikipedia.org/wiki/PDF/A)[](http://de.wikipedia.org/wiki/PDF/A)
 
 # 8 Anlage A
 
-In einem separaten Zip-Archiv werden PDF-Vorlagen zu den drei Ausprägungen der Sam-
+In einem separaten Zip-Archiv werden PDF-Vorlagen zu den drei Ausprägungen der  melerklärung mitgeliefert.
 
-melerklärung mitgeliefert.
+```
+[](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/Sammelerklaerung.zip)
+```
+
+Sam-

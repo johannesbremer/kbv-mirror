@@ -12,69 +12,69 @@
 
 112 **TURBOMED**
 
-CompuGroup Medical Deutschland AG 1 991
+CompuGroup Medical Deutschland AG 1.991
 
-2 060
+2.060
 
 -69
 
-280 **CGM MEDISTAR BLACK PRO** CompuGroup Medical Deutschland AG 1 951
+280 **CGM MEDISTAR BLACK PRO** CompuGroup Medical Deutschland AG 1.951
 
-1 942
+1.942
 
 9
 
 462 **medatixx**
 
-medatixx GmbH & Co. KG 1 675
+medatixx GmbH & Co. KG 1.675
 
-1 617
+1.617
 
 58
 
 216 **x.isynet**
 
-medatixx GmbH & Co. KG 1 576
+medatixx GmbH & Co. KG 1.576
 
-1 601
+1.601
 
 -25
 
-498 **T 2med**
+498 **T2med**
 
-T 2med GmbH & Co. KG 1 556
+T2med GmbH & Co. KG 1.556
 
-1 504
+1.504
 
 52
 
 210 **Medical Office**
 
-INDAMED EDV-Entwicklung und Vertrieb GmbH 1 508 1 494
+INDAMED EDV-Entwicklung und Vertrieb GmbH 1.508 1.494
 
 14
 
 243 **x.concept**
 
-medatixx GmbH & Co. KG 1 232
+medatixx GmbH & Co. KG 1.232
 
-1 267
+1.267
 
 -35
 
 203 **ALBIS**
 
-CompuGroup Medical Deutschland AG 1 107
+CompuGroup Medical Deutschland AG 1.107
 
-1 133
+1.133
 
 -26
 
 244 **QUINCY WIN**
 
-Frey ADV GmbH 1 056
+Frey ADV GmbH 1.056
 
-1 072
+1.072
 
 -16
 
@@ -117,7 +117,7 @@ CompuGroup Medical Deutschland AG 702
 
 060 **Data-AL**
 
-261 **S 3-Win**
+261 **S3-Win**
 
 488 **inSuite**
 
@@ -137,7 +137,7 @@ PEGA Elektronik GmbH
 
 Data-AL GmbH
 
-S 3 Praxiscomputer GmbH / Maximilian Flender
+S3 Praxiscomputer GmbH / Maximilian Flender
 
 Doc Cirrus GmbH
 

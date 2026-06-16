@@ -9,9 +9,7 @@
 
 **Heilmittel zur Erreichung des Behandlungsziels nicht ausreichend / nicht zielführend**
 
-**B. Bisherige andere Maßnahmen***** (z. B. Patientenschulungen, Rehabilitationssport/***
-
-***Selbsthilfeangeboten, Angaben zu Maßnahmen in eigen***
+**B. Bisherige andere Maßnahmen***** (z. B. Patientenschulungen, Rehabilitationssport/*** ***Selbsthilfeangeboten, Angaben zu Maßnahmen in eigen***
 
 **IV. Vorsorgeziele** **Vorsorgeziele in Bezug auf die genannten Gesundheitsstörungen/Erkrankungen, Kontext- und Risikofaktoren**
 
@@ -67,9 +65,7 @@
 
 **Mutter-Kind-Leistung**
 
-**s. Attest Kind**
-
-**insbes. bei** **Behandlungs-**
+**s. Attest Kind**  **insbes. bei** **Behandlungs-**
 
 **Betreuung**
 

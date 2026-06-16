@@ -1,4 +1,4 @@
-|  | **Plausibilitäten Dokumentationsbogen QS Hörgeräteversorgung** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | Plausibilitäten Dokumentationsbogen QS Hörgeräteversorgung | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **Nr.** | **Item** | **Ausprägung / Datenformat** | **Vollständigkeit** | **Antwortmöglichkeiten** | **Wertebereich** | **optionale Plausibiilitäten** |  |  |  |  |  |  | ja |  |  |  |  |  |  | ja |  |  |  |  |  |  | ja |  |  |  |  |  |  | ja |  |  |  |  |  |  | ja |
 | **Pflichtfeld** |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |

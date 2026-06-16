@@ -11,14 +11,14 @@
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_ERP]
 
-BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
+BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS 
 
 
 ---
 
 INHALT
 
-| **1 ALLGEMEINES** | **4** |
+| 1 ALLGEMEINES | 4 |
 |---|---|
 | 1.1 Rechtsgrundlage | 4 |
 | 1.2 Zertifizierungsablauf | 4 |
@@ -35,29 +35,17 @@ INHALT
 
 **2** **PRÜFFÄLLE**
 
-**10**
+**10**  2.1 Voraussetzungen 11  2.2 Erstellen eines eRP
 
-2.1 Voraussetzungen
+11  2.3 Erstellen eines eRP  Konditionale Prüffälle
 
-11
+17  2.4 Erstellen eines eRP  Prüffälle für weitere Verordnungsszenarien
 
-2.2 Erstellen eines eRP
-
-11
-
-2.3 Erstellen eines eRP  Konditionale Prüffälle 17
-
-2.4 Erstellen eines eRP  Prüffälle für weitere Verordnungsszenarien 19
-
-2.5 Bestätigung der gematik zum Funktionsumfang E-Rezept 19
+19  2.5 Bestätigung der gematik zum Funktionsumfang E-Rezept 19
 
 **3** **TESTDATENVALIDIERUNG**
 
-**20**
-
-3.1 Testfälle eRezept
-
-21
+**20**  3.1 Testfälle eRezept 21
 
 **4** **REFERENZIERTE DOKUMENTE**
 
@@ -68,27 +56,25 @@ INHALT
 
 # DOKUMENTENHISTORIE
 
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 3.6 | 11.11.2025 | KBV | Korrektur PF06    Aktualisierung der Grafik der |  | 14    6 |
 | 3.5 | 30.09.2025 | KBV | Aktualisierung der Prüffälle auf |  | Alle |
-| 3.4 | 08.01.2025 | KBV | Anpassung von Kapitel 1.6.4      Aufnahme von Kapitel 1.6.6 | Streichung der | 7      9 |
+| 3.4 | 08.01.2025 | KBV | Anpassung von Kapitel 1.6.4      Aufnahme von Kapitel 1.6.6 | Streichung der | 7    9 |
 | 3.3 | 03.04.2024 | KBV | Anpassung PF08 |  | 15 |
 | 3.2 | 20.09.2023 | KBV | Klarstellung PF10 |  | 17 |
 | 3.1 | 10.07.2023 | KBV | Klarstellung PF08 |  | 15 |
 | 3.0 | 26.05.2023 | KBV | Verwendung der neuen FHIR    Aufnahme des Prüffalls PF08 |  | 10-20      15 |
 | 2.0 | 17.12.2021 | KBV | Klarstellung der Verwendung    Klarstellung in PF07    Verwendung der neuen FHIR | Vereinheitlichung der      Ablauf der Gültigkeit der | alle      14    10-20 |
 
-einzureichenden Prüfunterlagen die Profilversion 1.3.2 Wertevorgaben zu Arztnamen Profile in der Version 1.1.0 dieses Prüfpakts Verfahren AMV und eRezept Profile in der Version 1.0.2 Profile Version 1.0.1
+einzureichenden Prüfunterlagen die Profilversion 1.3.2 Wertevorgaben zu Arztnamen Profile in der Version 1.1.0 dieses Prüfpakts Verfahren AMV und eRezept Profile in der Version 1.0.2 Profile Version 1.0.1  
 
 
 ---
 
 # 1 ALLGEMEINES
 
-Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich der Arzneimittelverordnung (AMV)  konkret die elektronische
-
-Arzneimittelverordnung (e16A) in Form des elektronischen Rezepts (eRP)
+Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich der Arzneimittelverordnung (AMV)  konkret die elektronische  Arzneimittelverordnung (e16A) in Form des elektronischen Rezepts (eRP)
 
 Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet den  Rahmen der Zertifizierung und ist zu beachten.
 
@@ -96,11 +82,7 @@ Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten u
 
 **HINWEIS**
 
-Dieses Prüfverfahren ist nur durch Systeme durchführbar, welche eine Zertifizierung für das
-
-Zertifizierungsthema „Verordnung von Arzneimitteln“ anstreben, siehe auch
-
-[KBV_ITA_AHEX_PRUEFPAKET_AMV].
+Dieses Prüfverfahren ist nur durch Systeme durchführbar, welche eine Zertifizierung für das  Zertifizierungsthema „Verordnung von Arzneimitteln“ anstreben, siehe auch  KBV_ITA_AHEX_PRUEFPAKET_AMV
 
 ## 1.1 RECHTSGRUNDLAGE
 
@@ -110,44 +92,33 @@ Rechtliche Grundlage bildet §73 Absatz 9 des Fünften Buches Sozialgesetzbuch (
 
 Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten.
 
-- 1. Der Antragsteller muss im Zertifizierungsportal den Prüfvorgang AMV-eRezept sowie den Prüfvorgang
-
-- AMV-Sichtprüfung initiieren. Die genaue Vorgehensweise wird im Prüfpaket Arzneimittelverordnung
-
-- [KBV_ITA_AHEX_PRUEFPAKET_AMV] beschrieben.
-
+- 1. Der Antragsteller muss im Zertifizierungsportal den Prüfvorgang AMV-eRezept sowie den Prüfvorgang  AMV-Sichtprüfung initiieren. Die genaue Vorgehensweise wird im Prüfpaket Arzneimittelverordnung  KBV_ITA_AHEX_PRUEFPAKET_AMV] beschrieben.
 - 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als zip-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.
-
 - 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.
-
-- 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen durch das Referat Zertifizierung mit ein) von beiden Prüfvorgängen kann dem
-
-- Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen werden
+- 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen durch das Referat Zertifizierung mit ein) von beiden Prüfvorgängen kann dem  Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen werden
 
 **HINWEIS**
 
-Nach Bestätigung des Eingangs und der Korrektheit des Antrags auf Zertifizierung AMV bei der KBV oder
-
-des Fehlerbriefs beim Antragsteller, müssen der KBV innerhalb von vier Wochen die Prüfunterlagen
-
-vorliegen. Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
-
+Nach Bestätigung des Eingangs und der Korrektheit des Antrags auf Zertifizierung AMV bei der KBV oder  des Fehlerbriefs beim Antragsteller, müssen der KBV innerhalb von vier Wochen die Prüfunterlagen  vorliegen. Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
 
 ---
 
+- Signierte eRP-Dateien
+- XML-Dateien der eRP-Dateien
+- PDF-Dateien des Patientenausdrucks des eRP
+- Screenshots ausgewählter Anforderungen
+- Videoaufzeichnungen ausgewählter Anforderungen
+- Bestätigungsschreiben der gematik für den Funktionsumfang E-Rezept
+
 ## 1.3 ZERTIFIZIERUNGSPORTAL
 
-Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
+[Das Zertifizierungsportal ist über](https://zertifizierungsportal2.kbv.de/)[https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/)[zu erreichen.](https://zertifizierungsportal2.kbv.de/)
 
-Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran  anschließenden manuellen Prüfung durch das Referat Zertifizierung.
+[Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran](https://zertifizierungsportal2.kbv.de/) anschließenden manuellen Prüfung durch das Referat Zertifizierung.
 
-Die Zugangsdaten können direkt über das Portal oder beim Referat Zertifizierung ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de))
+[Die Zugangsdaten können direkt über das Portal oder beim Referat Zertifizierung (](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) [unter Angabe der System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert](mailto:pruefstelle@kbv.de) werden. Bitte beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
 
-unter Angabe der System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert  werden. Bitte beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
-
-Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema und den Antrag auf Zertifizierung  AMV hochgeladen haben. Das Portal zeigt Ihnen in Form von Aufgaben (Menüpunkt: „Meine Aufgaben“)
-
-die nächsten Arbeiten an, die von Ihnen durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird für Sie eine neue Aufgabe generiert.
+Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema und den Antrag auf Zertifizierung  AMV hochgeladen haben. Das Portal zeigt Ihnen in Form von Aufgaben (Menüpunkt: „Meine Aufgaben“)  die nächsten Arbeiten an, die von Ihnen durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird für Sie eine neue Aufgabe generiert.
 
 Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im  Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur mit den von Ihnen erstellten  Prüfunterlagen in Form einer zip-Datei archiviert werden.
 
@@ -155,58 +126,35 @@ Die in das Portal integrierte Prüfautomatisierung führt neben einer inhaltlich
 
 Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, werden  Sie vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehler zu  beheben bzw. die Lieferung zu vervollständigen.
 
-Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im .html oder .xml -Format) erzeugt und
-
-Ihnen zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen durch
-
-das Referat Zertifizierung geprüft.
+Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im .html oder .xml -Format) erzeugt und  Ihnen zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen durch  das Referat Zertifizierung geprüft.
 
 Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung als fehlerfrei erkannt wurden erfolgt die Prüfung durch das Referat Zertifizierung. Wird hierbei festgestellt, dass Dateien fehlerhaft sind,  werden Sie aufgefordert eine Korrekturlieferung hochzuladen.
 
 ## 1.4 ZERTIFIZIERUNGSDOKUMENTE
 
-Alle erforderlichen Unterlagen stehen im Internet zum Download unter [Testdaten_eRP] bereit. In diesem
-
-Zusammenhang berücksichtigen Sie bitte das Kapitel Referenzierte Dokumente.
+Alle erforderlichen Unterlagen stehen im Internet zum Download unter Testdaten_eRP] bereit. In diesem  Zusammenhang berücksichtigen Sie bitte das Kapitel Referenzierte Dokumente
 
 ## 1.5 PRÜFUNTERLAGEN
 
 Das Prüfpaket umfasst Prüffälle zum Erstellen und Signieren von eRP-Dateien.
 
-Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet: - Signierte eRP-Dateien
+Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:
 
-- XML-Dateien der eRP-Dateien
-
-- PDF-Dateien des Patientenausdrucks des eRP
-
-- Screenshots ausgewählter Anforderungen
-
-- Videoaufzeichnungen ausgewählter Anforderungen
-
-- Bestätigungsschreiben der gematik für den Funktionsumfang E-Rezept
-
-Die Teile der Lieferung, welche eine eRP-Datei darstellen, sind im entsprechenden Dateiformat zu  exportieren und unter folgender Namenskonvention direkt in dem Hauptverzeichnis zu übertragen. Diese  Dateien werden automatisiert geprüft. Es ist zu beachten, dass pro betroffenem Prüffall eine XML-Datei
-
-sowie bei ausgewählten Prüffällen eine signierte Datei eingereicht werden muss
+Die Teile der Lieferung, welche eine eRP-Datei darstellen, sind im entsprechenden Dateiformat zu  exportieren und unter folgender Namenskonvention direkt in dem Hauptverzeichnis zu übertragen. Diese  Dateien werden automatisiert geprüft. Es ist zu beachten, dass pro betroffenem Prüffall eine XML-Datei  sowie bei ausgewählten Prüffällen eine signierte Datei eingereicht werden muss
 
 
 ---
 
-- <PrüffallNr.>1
+- <PrüffallNr.>1.xml  z.B. PF01.xml
+- <PrüffallNr.>.p7s  z.B. PF01.p7s
 
-- 1 Nr. des Prüffalls
+Die geforderten Screenshots, ersichtlich am Prüffall, müssen in einem gesonderten Ordner  „Dokumentation“ übermittelt werden und folgender Namenskonvention entsprechen. Diese werden durch  die prüfende Person begutachtet. Die Screenshots können in einem gängigen Bildformat oder im PDF
 
-- <PrüffallNr.>_[lfdNr.].pdf  z.B. PF01_01.pdf - .xml  z.B. PF01.xml
+Format übermittelt werden.
 
-- <PrüffallNr.>.p 7s  z.B. PF01.p7s
+- <PrüffallNr.>_[lfdNr.].pdf  z.B. PF01_01.pdf
 
-Die geforderten Screenshots, ersichtlich am Prüffall, müssen in einem gesonderten Ordner  „Dokumentation“ übermittelt werden und folgender Namenskonvention entsprechen. Diese werden durch  die prüfende Person begutachtet. Die Screenshots können in einem gängigen Bildformat oder im PDF Format übermittelt werden.
-
-Die gesammelten Dateien und der Ordner „Dokumentation“ sind in einem zip-Archiv zu übermitteln. Das
-
-zip- Archiv muss mit „Zert_410_<SystemID>“ benannt werden. Wenn bereits eine Prüfnummer vergeben
-
-wurde, ergibt sich die SystemID aus den letzten drei Stellen der Prüfnummer.
+Die gesammelten Dateien und der Ordner „Dokumentation“ zip- Archiv muss mit „Zert_410_<SystemID>“ benannt werden.  wurde, ergibt sich die SystemID aus den letzten drei Stellen der Prüfnummer.
 
 Die Struktur des zip- Archives sollte folgende Form aufweisen:
 
@@ -214,16 +162,16 @@ Die Struktur des zip- Archives sollte folgende Form aufweisen:
 
 **HINWEIS**
 
-Die Prüfunterlagen für die Prüffalle PF10 und PF11 sind nur einzureichen, sofern die optionalen Funktionen  gemäß Antrag auf Zertifizierung [KBV_ITA_FMEX_AAZ_AMV] unterstützt werden.
+Die Prüfunterlagen für die Prüffalle PF10 und PF11 sind nur einzureichen, sofern die optionalen Funktionen  gemäß Antrag auf Zertifizierung [KBV_ITA_FMEX_AAZ_AMV
+
+- 1 Nr. des Prüffalls
+
+sind in einem zip-Archiv zu übermitteln. Das  Wenn bereits eine Prüfnummer vergeben
+
+] unterstützt werden.
 
 
 ---
-
-- EF.VD = allgemeine Versicherungsdaten
-
-- EF.PD persönliche Versichertendaten
-
-- EF.GVD = geschützte Versichertendaten
 
 ## 1.6 PRÜFVORGABEN
 
@@ -231,21 +179,19 @@ Die Prüfunterlagen für die Prüffalle PF10 und PF11 sind nur einzureichen, sof
 
 Für die Zertifizierung können die für die Prüfung speziell entwickelten  werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung  bzw. der Dateiname mit „PRF” gekennzeichnet. Stammdaten für den „produktiv“ Betrieb verwendet werden.
 
-Prüfstammdateien verwendet
-
-Neben den speziellen Prüfstammdateien können auch die
-
 ### 1.6.2 Versichertendaten
 
-Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei
+Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei  VSD_5.2.0_Testfaelle_Vn.n.zip] enthält für jeden Prüffall (siehe Kapitel  Verzeichnis die folgenden XML-Dateien mit Versichertenstammdaten:
 
-[VSD_5.2.0_Testfaelle_Vn.n.zip] enthält für jeden Prüffall (siehe Kapitel 1.6.3) in einem jeweils separaten  Verzeichnis die folgenden XML-Dateien mit Versichertenstammdaten:
+- EF.VD = allgemeine Versicherungsdaten
+- EF.PD persönliche Versichertendaten
+- EF.GVD = geschützte Versichertendaten
 
 ### 1.6.3 Auflistung der Prüffälle
 
 Prüffälle als XML-Dateien
 
-| **NAME** | **VERZEICHNISNAME** |
+| NAME | VERZEICHNISNAME |
 |---|---|
 | **Karl-Friederich Schaumberg** | XML_01 |
 | **Viktor Müller** | XML_09 |
@@ -259,7 +205,7 @@ Die Verwendung einer Import-Schnittstelle für die XML-Dateien ist nur für Prü
 
 **1.6.4** **Praxisdaten/ Arztstempel**
 
-| **ÄRZTIN 1** |  |
+| ÄRZTIN 1 |  |
 |---|---|
 | **Bezeichnung** | **Inhalt/ Bedingung zum Inhalt** |
 | **Typ** | Arzt |
@@ -269,11 +215,21 @@ Die Verwendung einer Import-Schnittstelle für die XML-Dateien ist nur für Prü
 | **Vorname** | <kann beliebig gewählt werden> |
 | **Titel** | Dr. |
 
-Federmannssohn
+Neben den speziellen Prüfstammdateien können auch die
+
+```
+-
+-
+```
+
+Prüfstammdateien verwendet
+
+Federmannssohn 1.6.3) in einem jeweils separaten
+
 
 ---
 
-| **ÄRZTIN 1** |  |
+| ÄRZTIN 1 |  |
 |---|---|
 | **Namenzusatz** | <optionale Angabe, kann beliebig gewählt werden> |
 | **Vorsatzwort** | <optionale Angabe, kann beliebig gewählt werden> |
@@ -288,7 +244,7 @@ Federmannssohn
 | **Telefax** | <kann beliebig gewählt werden> |
 | **E-Mail-Adresse** | AM@Testpraxis.de |
 
-| **ARZT 2 (ALS VERTRETER)** |  |
+| ARZT 2 (ALS VERTRETER) |  |
 |---|---|
 | **Bezeichnung** | **Inhalt/ Bedingung zum Inhalt** |
 | **Typ** | Arzt als persönliche Vertretung |
@@ -314,39 +270,25 @@ Federmannssohn
 
 ### 1.6.5 Version der zu verwendenden FHIR-Profile
 
-Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eRezept-FHIR-Profile in der
-
-Version 1.3.2 zu erstellen.
+Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eRezept-FHIR-Profile in der  Version 1.3.2 zu erstellen.
 
 ### 1.6.6 Signierung von Verordnungen
 
 Im Rahmen einiger Prüffälle ist eine qualifizierte elektronische Signatur (QES) mittels eines eHBAs oder  eines Test-eHBAs zu erzeugen und einzureichen.
 
-Nähere Information zum Bezug und der Nutzung von Test-eHBAs finden Sie bei der gematik
-
-[gemTest_Karten].
-
+Nähere Information zum Bezug und der Nutzung von Test-eHBAs finden Sie bei der gematik  gemTest_Karten
 
 ---
 
 # 2 PRÜFFÄLLE
 
-Zur Überprüfung von Softwarefunktionalitäten oder dem softwareseitigen Erkennen von Fehleingaben  können mit einzelnen Prüffällen besondere Anforderungen verknüpft sein. Diese werden dem jeweiligen  Prüffall vorangestellt bzw. der Prüffall selbst besteht nur aus diesen. Wie diese Prüffälle zu bearbeiten und
-
-welche Prüfunterlagen einzureichen sind, kann den einzelnen Prüffällen entnommen werden.
+Zur Überprüfung von Softwarefunktionalitäten oder dem softwareseitigen Erkennen von Fehleingaben  können mit einzelnen Prüffällen besondere Anforderungen verknüpft sein. Diese werden dem jeweiligen  Prüffall vorangestellt bzw. der Prüffall selbst besteht nur aus diesen. Wie diese Prüffälle zu bearbeiten und  welche Prüfunterlagen einzureichen sind, kann den einzelnen Prüffällen entnommen werden.
 
 **HINWEIS**
 
-In den XML-Dateien des eRP wird ein Bundle-Identifier erwartet, der dem Aufbau der E-Rezept-ID
+In den XML-Dateien des eRP wird ein Bundle-Identifier erwartet, der dem Aufbau der E-Rezept-ID  entspricht  gemäß dem Datenmodell E-Rezept der gematik [gemSpec_DM_eRp
 
-entspricht  gemäß dem Datenmodell E-Rezept der gematik [gemSpec_DM_eRp].
-
-Der bei den Prüffällen zu PZN-Verordnungen angegebene Handelsname des Medikaments ist informativ. Da  der Handelsname je nach Arzneimitteldatenbank geringfügig unterschiedlich sein kann, erfolgt bei den
-
-eingereichten Dateien keine Prüfung dieses Wertes auf Übereinstimmung mit den hier aufgeführten
-
-Handelsnamen.
-
+Der bei den Prüffällen zu PZN-Verordnungen angegebene Handelsname des Medikaments ist informativ. Da  der Handelsname je nach Arzneimitteldatenbank geringfügig unterschiedlich sein kann, erfolgt bei den  eingereichten Dateien keine Prüfung dieses Wertes auf Übereinstimmung mit den hier aufgeführten  Handelsnamen.
 
 ---
 
@@ -456,7 +398,9 @@ Prüfunterlagen Verordnung) für den Patienten „Viktor Müller“ Ärztin 1 is
 
 **Tabelle 7: Prüffalltabelle**
 
+```
 -
+```
 
 **Signieren mehrerer Verordnungen für Patient „Viktor Müller**
 
@@ -502,16 +446,16 @@ Prüfunterlagen Ingrid Schimmelpfennig- Hammerschmidt Federmannssohn  im Rahmen 
 
 ---
 
-| **2.3** Bedingung für den Prüffall PF10: | Der nachfolgende Prüffall ist nur durchzuführen, sofern das zu prüfende Systeme eine Wirkstoffverordnung  WG] unterstützt. Dies ist |
+| 2.3 Bedingung für den Prüffall PF10: | Der nachfolgende Prüffall ist nur durchzuführen, sofern das zu prüfende Systeme eine Wirkstoffverordnung  EXT_ITA_VGEX_Anforderungskatalog_AV |
 |---|---|
-| im Antrag auf Zertifizierung [KBV_ITA_FMEX_AAZ_AMV] anzugeben. |  |
+| im Antrag auf Zertifizierung [KBV_ITA_FMEX_AAZ_AMV | ] anzugeben. |
 |  |  |
 |  | **Prüffall-ID ** PF10 |
 | **Testziel** |  |
-|  | Erstellen eines eRP (Wirkstoffverordnung**Voraussetzung ** ›  › **Aktion ** 1.  a)  b)  c)  d) 1.  a)  b)  c)  d)  e)  f)  g)  h) **2.** **3.**  Erstellen eines eRP (Wirkstoffverordnung**Voraussetzung ** ›  › **Aktion ** 1.  a)  b)  c)  d)  e)  f)  g)  h) **2.** **3.** **Einzureichende ** ›  › **Hinweis ** Für die Zertifizierung sind die einzureichenden XML**Tabelle 10: Prüffalltabelle ** Bedingung für den Prüffall PF11:  Der nachfolgende Prüffall ist nur durchzuführen, sofern das zu prüfende Systeme eine Rezepturverordnung  WG] unterstützt. Dies ist  im Antrag auf Zertifizierung [KBV_ITA_FMEX_AAZ_AMV] anzugeben.   **Voraussetzung ** ›  › **Aktion ** 1.  a) **Voraussetzung ** ›  › **Aktion ** 1.  a)  Für die Zertifizierung sind die einzureichenden XML**Tabelle 10: Prüffalltabelle ** Bedingung für den Prüffall PF11:  Der nachfolgende Prüffall ist nur durchzuführen, sofern das zu prüfende Systeme eine Rezepturverordnung  WG] unterstützt. Dies ist  im Antrag auf Zertifizierung [KBV_ITA_FMEX_AAZ_AMV] anzugeben. |
+|  | Erstellen eines eRP (Wirkstoffverordnung**Voraussetzung ** ›  › **Aktion ** 1.  a)  b)  c)  d) 1.  a)  b)  c)  d)  e)  f)  g)  h) **2.** **3.**  Erstellen eines eRP (Wirkstoffverordnung**Voraussetzung ** ›  › **Aktion ** 1.  a)  b)  c)  d)  e)  f)  g)  h) **2.** **3.** **Einzureichende ** ›  › **Hinweis ** Für die Zertifizierung sind die einzureichenden XML**Tabelle 10: Prüffalltabelle ** Bedingung für den Prüffall PF11:  Der nachfolgende Prüffall ist nur durchzuführen, sofern das zu prüfende Systeme eine Rezepturverordnung  EXT_ITA_VGEX_Anforderungskatalog_AV im Antrag auf Zertifizierung [KBV_ITA_FMEX_AAZ_AMV] anzugeben.   **Voraussetzung ** ›  › **Aktion ** 1.  a) **Voraussetzung ** ›  › **Aktion ** 1.  a)  Für die Zertifizierung sind die einzureichenden XML**Tabelle 10: Prüffalltabelle ** Bedingung für den Prüffall PF11:  Der nachfolgende Prüffall ist nur durchzuführen, sofern das zu prüfende Systeme eine Rezepturverordnung  EXT_ITA_VGEX_Anforderungskatalog_AV im Antrag auf Zertifizierung [KBV_ITA_FMEX_AAZ_AMV] anzugeben. |
 |  |  |
 
-ERSTELLEN EINES ERP gemäß den Vorgaben in dem Dokument Prüfunterlagen gemäß den Vorgaben in dem Dokument  KONDITIONALE PRÜFFÄLLE [EXT_ITA_VGEX_Anforderungskatalog_AV ) für die Patientin „ Hammerschmidt Federmannssohn Ärztin 1 ist als ausstellende Ärztin im System ausgewählt  Patientin Ingrid Schimmelpfennig -Hammerschmidt Federmannssohn System ausgewählt Der Anwender erstellt eine Verordnung mit den folgenden Daten: Wirkstoffnummer = 5682 oder 05682 Darreichungsform Freitext = Tabletten Packungsgröße nach abgeteilter Menge = 20 Packungsgröße Einheit = Stück Anzahl der verordneten Packungen = 1 Kennzeichen Dosierung = true Dosieranweisung = 1-0-1-0 Zuzahlungsstatus = von Zuzahlungspflicht befreit Der Anwender signiert das eRP. Der Anwender erzeugt einen Patientenausdruck XML-Datei des eRP PDF-Datei mit Patientenausdruck des eRP FHIR-Profile in der Version 1.3.2 zu erstellen.  für Patientin „ Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn [EXT_ITA_VGEX_Anforderungskatalog_AV Ingrid Schimmelpfennig-  des eRP. -Dateien auf Basis der eRezept “ ist im |  |  |
+Der Anwender erstellt eine Verordnung mit den folgenden Daten: Wirkstoffnummer = 5682 oder 05682 Darreichungsform Freitext = Tabletten Packungsgröße nach abgeteilter Menge = 20 Packungsgröße Einheit = Stück Anzahl der verordneten Packungen = 1 Kennzeichen Dosierung = true Dosieranweisung = 1-0-1-0 Zuzahlungsstatus = von Zuzahlungspflicht befreit Der Anwender signiert das eRP. Der Anwender erzeugt einen Patientenausdruck  des eRP. ERSTELLEN EINES ERP  KONDITIONALE PRÜFFÄLLE gemäß den Vorgaben in dem Dokument WG ] unterstützt. Dies ist ) für die Patientin „ Ingrid Schimmelpfennig- Hammerschmidt Federmannssohn Ärztin 1 ist als ausstellende Ärztin im System ausgewählt  Patientin Ingrid Schimmelpfennig -Hammerschmidt Federmannssohn “ ist im System ausgewählt Prüfunterlagen XML-Datei des eRP PDF-Datei mit Patientenausdruck des eRP -Dateien auf Basis der eRezept FHIR-Profile in der Version 1.3.2 zu erstellen.  für Patientin „ Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn gemäß den Vorgaben in dem Dokument WG ] unterstützt. Dies ist |  |  |
 |---|---|
 | **Prüffall-ID** | PF10 |
 | **Testziel** | Erstellen eines eRP (Wirkstoffverordnung |
@@ -543,21 +487,21 @@ ERSTELLEN EINES ERP gemäß den Vorgaben in dem Dokument Prüfunterlagen gemäß
 
 **Tabelle 11: Prüffalltabelle  Rezepturverordnung für Patientin „Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn**
 
-) für die Patientin „ Ingrid Schimmelpfennig- Hammerschmidt Federmannssohn Ärztin 1 ist als ausstellende Ärztin im System ausgewählt  Patientin Ingrid Schimmelpfennig -Hammerschmidt Federmannssohn “ ist im System ausgewählt Der Anwender erstellt eine Verordnung mit den folgenden Daten: Rezepturname = Viskose Aluminiumchlorid-Hexahydrat-Lösung 20 % (NRF 11.132.) Gesamtmenge der Rezeptur = 100 Einheit der Gesamtmenge = g Herstellungsanweisung = M.D.S. Verpackung = Deo-Roller Darreichungsform Freitext = Gel Gebrauchsanweisung = Jeden 2. Tag vorm Schlafen dünn auf Achselhöhle auftragen Zuzahlungsstatus = von Zuzahlungspflicht befreit Anzahl der verordneten Packungen = 1 Folgende drei Bestandteile: Die Verordnung enthält ein Bestandteil mit folgenden Daten: Name = Aluminiumchlorid-Hexahydrat PZN = 10206346 Menge = 50 Einheit = g Die Verordnung enthält ein Bestandteil mit folgenden Daten: Name = Hydroxyethylcellulose 250 Darreichungsform Freitext = Pulver Menge = 2 Einheit = g Die Verordnung enthält ein Bestandteil mit folgenden Daten: Name = Gereinigtes Wasser Menge und Einheit Freitext = Ad 100 g Der Anwender signiert das eRP. Der Anwender erzeugt einen Patientenausdruck  des eRP. XML-Datei des eRP Prüfunterlagen PDF-Datei mit Patientenausdruck des eRP FHIR-Profile in der Version 1.3.2 zu erstellen.
+) für die Patientin „ Ingrid Schimmelpfennig- Hammerschmidt Federmannssohn Ärztin 1 ist als ausstellende Ärztin im System ausgewählt  Patientin Ingrid Schimmelpfennig -Hammerschmidt Federmannssohn “ ist im System ausgewählt Der Anwender erstellt eine Verordnung mit den folgenden Daten: Rezepturname = Viskose Aluminiumchlorid-Hexahydrat-Lösung 20 % (NRF 11.132.) Gesamtmenge der Rezeptur = 100 Einheit der Gesamtmenge = g Herstellungsanweisung = M.D.S. Verpackung = Deo-Roller Darreichungsform Freitext = Gel Gebrauchsanweisung = Jeden 2. Tag vorm Schlafen dünn auf Achselhöhle auftragen Zuzahlungsstatus = von Zuzahlungspflicht befreit Anzahl der verordneten Packungen = 1 Folgende drei Bestandteile: Die Verordnung enthält ein Bestandteil mit folgenden Daten: Name = Aluminiumchlorid-Hexahydrat PZN = 10206346 Menge = 50 Einheit = g Die Verordnung enthält ein Bestandteil mit folgenden Daten: Name = Hydroxyethylcellulose 250 Darreichungsform Freitext = Pulver Menge = 2 Einheit = g Die Verordnung enthält ein Bestandteil mit folgenden Daten: Name = Gereinigtes Wasser Menge und Einheit Freitext = Ad 100 g Der Anwender signiert das eRP. Der Anwender erzeugt einen Patientenausdruck  des eRP. XML-Datei des eRP Prüfunterlagen PDF-Datei mit Patientenausdruck des eRP FHIR-Profile in der Version 1.3.2 zu erstellen.  
 
 
 ---
 
-| **2.4** |  |
+| 2.4 |  |
 |---|---|
 |  | **Prüffall-ID** |
 | PF12 | **Testziel** |
 | Nachweis, dass die Erstellung eines BtM-Rezept als eRP nicht möglich ist | **Voraussetzung ** › |
 | › Patient „Viktor Müller“ ist im System ausgewählt |  |
-|  | **Aktion  1.** **2.**  a)  b) **3.** **Einzureichende ** › **Tabelle 12: Prüffalltabelle **   b) **3.** **Einzureichende ** › **Tabelle 12: Prüffalltabelle **  **2.5**    **Prüffall-ID ** PF13 **Testziel ** Bestätigungsschreiben der gematik zum Funktionsumfang E-Rezept **Voraussetzung  Aktion  1.** **2.**  a)  b) **3.** **Einzureichende ** › **Tabelle 12: Prüffalltabelle **  **2.5**    **Prüffall-ID ** PF13 **Testziel ** Bestätigungsschreiben der gematik zum Funktionsumfang E-Rezept **Voraussetzung ** Bestehen des Bestätigungsverfahren der gematik**Einzureichende ** ›**Tabelle 13: Prüffalltabelle **  **1.** **2.**  a)  b) **3.** **1.** **2.**  a)  b) **3.** **Tabelle 13: Prüffalltabelle ** |
+|  | **Aktion  1.** **2.**  a)  b) **3.** **Einzureichende ** › **Tabelle 12: Prüffalltabelle **   b) **3.** **Einzureichende ** › **Tabelle 12: Prüffalltabelle **  **2.5**    **Prüffall-ID ** PF13 **Testziel ** Bestätigungsschreiben der gematik zum Funktionsumfang E-Rezept **Voraussetzung  Aktion  1.** **2.**  a)  b) **3.** **Einzureichende ** › **Tabelle 12: Prüffalltabelle **  **2.5**    **Prüffall-ID ** PF13 **Testziel ** Bestätigungsschreiben der gematik zum Funktionsumfang E-Rezept **Voraussetzung ** Bestehen des Bestätigungsverfahren der gematik gemLeit_Best_Konf_eRP] **Einzureichende ** ›**Tabelle 13: Prüffalltabelle **  **1.** **2.**  a)  b) **3.** **1.** **2.**  a)  b) **3.** **Tabelle 13: Prüffalltabelle ** |
 |  |  |
 
-ERSTELLEN EINES ERP Prüfunterlagen BESTÄTIGUNG DER GEMATIK ZUM FUNKTIONSUMFANG E-REZEPT  Prüfunterlagen  PRÜFFÄLLE FÜR WEITERE VERORDNUNGS Ärztin 1 ist als ausstellende Ärztin im System ausgewählt Bitte starten Sie die Videoaufzeichnung Ihres Bildschirms Der Anwender erstellt eine Verordnung mit den folgenden Daten: PZN = 06973620 (Ritalin® Adult 30 mg 56 Hartkapseln mit veränderter Wirkstofffreisetzung N2)  Kennzeichen Dosierung = false Bitte beenden Sie die Videoaufzeichnung Ihres Bildschirms Videoaufzeichnung des Bildschirms  PZN-Verordnung für Patient „  Bestätigungsschreiben der gematik - Bestätigung der Konformität des Primärsystems zum Funktionsumfang E-Rezept  Einreichung Bestätigungsschreiben der gematik SZENARIEN  [gemLeit_Best_Konf_eRP] |  |  |
+ERSTELLEN EINES ERP Prüfunterlagen BESTÄTIGUNG DER GEMATIK ZUM FUNKTIONSUMFANG E-REZEPT  Prüfunterlagen  PRÜFFÄLLE FÜR WEITERE VERORDNUNGS Ärztin 1 ist als ausstellende Ärztin im System ausgewählt Bitte starten Sie die Videoaufzeichnung Ihres Bildschirms Der Anwender erstellt eine Verordnung mit den folgenden Daten: PZN = 06973620 (Ritalin® Adult 30 mg 56 Hartkapseln mit veränderter Wirkstofffreisetzung N2)  Kennzeichen Dosierung = false Bitte beenden Sie die Videoaufzeichnung Ihres Bildschirms Videoaufzeichnung des Bildschirms  PZN-Verordnung für Patient „  Bestätigungsschreiben der gematik - Bestätigung der Konformität des Primärsystems zum Funktionsumfang E-Rezept  Einreichung Bestätigungsschreiben der gematik SZENARIEN |  |  |
 |---|---|
 | **Prüffall-ID** | PF12 |
 | **Testziel** | Nachweis, dass die Erstellung eines BtM-Rezept als eRP nicht möglich ist |
@@ -569,7 +513,7 @@ ERSTELLEN EINES ERP Prüfunterlagen BESTÄTIGUNG DER GEMATIK ZUM FUNKTIONSUMFANG
 |---|---|
 | **Prüffall-ID** | PF13 |
 | **Testziel** | Bestätigungsschreiben der gematik zum Funktionsumfang E-Rezept |
-| **Voraussetzung** | Bestehen des Bestätigungsverfahren der gematik |
+| **Voraussetzung** | Bestehen des Bestätigungsverfahren der gematik gemLeit_Best_Konf_eRP] |
 | **Einzureichende** | › |
 
 
@@ -579,13 +523,7 @@ ERSTELLEN EINES ERP Prüfunterlagen BESTÄTIGUNG DER GEMATIK ZUM FUNKTIONSUMFANG
 
 Für die in Kapitel 2 sowie in Kapitel 3.1 beschriebenen Prüffälle und Testfälle, für welche XML-Dateien  (FHIR-Instanzen) einzureichen sind, kann auch die Testdatenvalidierung des Zertifizierungsportals genutzt  werden.
 
-Die übermittelten Testdaten (XML-Datei des eRP) werden gegen FHIR-Profile validiert. Zusätzlich zu den  deutschen Basis-Profilen, den KBV-Basis-Profilen, den formularübergreifenden und eRP-spezifischen FHIR-
-
-Profilen werden die Testdaten gegen prüffall-spezifische Soll-Profile validiert  und somit die
-
-Vollständigkeit und Korrektheit geprüft. Es erfolgt ausschließlich die Prüfung der FHIR-Instanzen. Eine
-
-Prüfung der signierten Dateien, Screenshots und weiteren Unterlagen durch das Referat Zertifizierung  findet nicht statt.
+Die übermittelten Testdaten (XML-Datei des eRP) werden gegen FHIR-Profile validiert. Zusätzlich zu den  deutschen Basis-Profilen, den KBV-Basis-Profilen, den formularübergreifenden und eRP-spezifischen FHIR- Profilen werden die Testdaten gegen prüffall-spezifische Soll-Profile validiert  und somit die  Vollständigkeit und Korrektheit geprüft. Es erfolgt ausschließlich die Prüfung der FHIR-Instanzen. Eine  Prüfung der signierten Dateien, Screenshots und weiteren Unterlagen durch das Referat Zertifizierung  findet nicht statt.
 
 Nachdem das Zertifizierungsthema ausgewählt wurde, kann die Verzeichnisstruktur mit den Prüfunterlagen  hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
 
@@ -598,18 +536,18 @@ Bitte beachten Sie die folgende Verzeichnisstruktur des zip-Archivs.
 
 ---
 
-| **3.1** |  |
+| 3.1 |  |
 |---|---|
 |  | **Prüffall-ID** |
-| TF 01 | **Testziel** |
+| TF01 | **Testziel** |
 | Erstellen eines eRP (PZN-Verordnung) für den Patiente | **Voraussetzung ** › |
 | › |  |
-| › | **Hinweis ** Für die Testdatenvalidierung sind die einzureichenden XML-Dateien auf Basis der **Tabelle 15: Prüffalltabelle **  **Aktion  1.**  a)  b)  c) **2.** **Einzureichende ** › **Hinweis ** c) **2.** **Einzureichende ** › **Hinweis ** Für die Testdatenvalidierung sind die einzureichenden XML-Dateien auf Basis der **Tabelle 14: Prüffalltabelle **      **Prüffall-ID ** TF 02 **Testziel ** Erstellen eines eRP (PZN-**Aktion  1.**  a)  b)  c) **2.** **Einzureichende ** › **Hinweis ** Für die Testdatenvalidierung sind die einzureichenden XML-Dateien auf Basis der **Tabelle 14: Prüffalltabelle **      **Prüffall-ID ** TF 02 **Testziel ** Erstellen eines eRP (PZN-**Voraussetzung ** ›  › Patientin „Brigitte Althaus“ ist im System ausgewählt**Aktion  1.**  a)  b)  c)  d) **2.** **Einzureichende ** › **Hinweis  1.**  a)  b)  c) **2.** **1.**  a)  b)  c) **2.** **1.**  a)  b)  c)  d) **2.** |
+| › | **Hinweis ** Für die Testdatenvalidierung sind die einzureichenden XML-Dateien auf Basis der **Tabelle 15: Prüffalltabelle **  **Aktion  1.**  a)  b)  c) **2.** **Einzureichende ** › **Hinweis ** c) **2.** **Einzureichende ** › **Hinweis ** Für die Testdatenvalidierung sind die einzureichenden XML-Dateien auf Basis der **Tabelle 14: Prüffalltabelle **      **Prüffall-ID ** TF02 **Testziel ** Erstellen eines eRP (PZN-**Aktion  1.**  a)  b)  c) **2.** **Einzureichende ** › **Hinweis ** Für die Testdatenvalidierung sind die einzureichenden XML-Dateien auf Basis der **Tabelle 14: Prüffalltabelle **      **Prüffall-ID ** TF02 **Testziel ** Erstellen eines eRP (PZN-**Voraussetzung ** ›  › Patientin „Brigitte Althaus“ ist im System ausgewählt**Aktion  1.**  a)  b)  c)  d) **2.** **Einzureichende ** › **Hinweis  1.**  a)  b)  c) **2.** **1.**  a)  b)  c) **2.** **1.**  a)  b)  c)  d) **2.** |
 |  |  |
 
 TESTFÄLLE EREZEPT Prüfunterlagen Prüfunterlagen Ernesto Müller Ärztin 1 ist als ausstellende Ärztin im System ausgewählt Patienten Ernesto Müller Der Anwender erstellt eine Verordnung mit den folgenden Daten: PZN = 03428402 (Sortis 80 mg Eurim 100 Filmtabletten N3) Anzahl der verordneten Packungen = 1 Kennzeichen Dosierung = false Der Anwender signiert das eRP. XML-Datei des eRP eRezept-FHIR-Profile in der Version 1.3.2 zu erstellen.   PZN-Verordnung für Patienten Ernesto Müller Verordnung) für die Patientin „Brigitte Althaus“ Ärztin 1 ist als ausstellende Ärztin im System ausgewählt Der Anwender erstellt eine Verordnung mit den folgenden Daten: PZN = 16578267 (Fintepla 2,2 mg/ml Lösung zum Einnehmen 60ml) Verschreiber-ID =  428549185 Anzahl der verordneten Packungen = 1 Kennzeichen Dosierung = false Der Anwender signiert das eRP. XML-Datei des eRP eRezept-FHIR-Profile in der Version 1.3.2 zu erstellen.  für Patientin „|  |  |
 |---|---|
-| **Prüffall-ID** | TF 01 |
+| **Prüffall-ID** | TF01 |
 | **Testziel** | Erstellen eines eRP (PZN-Verordnung) für den Patiente |
 | **Voraussetzung** | ›  › |
 | **Aktion** |  |
@@ -618,7 +556,7 @@ TESTFÄLLE EREZEPT Prüfunterlagen Prüfunterlagen Ernesto Müller Ärztin 1 ist
 
 |  |  |
 |---|---|
-| **Prüffall-ID** | TF 02 |
+| **Prüffall-ID** | TF02 |
 | **Testziel** | Erstellen eines eRP (PZN- |
 | **Voraussetzung** | ›  › Patientin „Brigitte Althaus“ ist im System ausgewählt |
 | **Aktion** |  |
@@ -643,7 +581,7 @@ TESTFÄLLE EREZEPT Prüfunterlagen Prüfunterlagen Ernesto Müller Ärztin 1 ist
 | VSD_5.2.0_Testfaelle_Vn.n.zip | Testdaten VSD in der aktuellen Version https://update.kbv.de/ita- |
 | Testdaten_eRP | Testdaten eRP in der aktuellen Version  https://update.kbv.de/ita- |
 
-update/Allgemein/KBV_ITA_RLEX_Zert.pdf update/DigitaleMuster/ERP/KBV_ITA_VGEX _Technische_Anlage_ERP.pdf  update/DigitaleMuster/KBV_ITA_VGEX_Tec hnisches_Handbuch_DiMus.pdf  Arzneimitteln (AMV) update/Verordnungen/Arzneimittel/KBV_IT A_FMEX_AAZ_AMV.pdf update/Verordnungen/Arzneimittel/KBV_IT A_AHEX_Pruefpaket_AMV.pdf WG Verordnungssoftware update/Verordnungen/Arzneimittel/EXT_IT A_VGEX_Anforderungskatalog_AVWG.pdf Primärsystems zum Funktionsumfang E- Rezept anbieter/primaersysteme/best-konf-ps-ti update/Abrechnung/Pruefverfahren/  update/DigitaleMuster/ERP/
+update/Allgemein/KBV_ITA_RLEX_Zert.pdf update/DigitaleMuster/ERP/KBV_ITA_VGEX _Technische_Anlage_ERP.pdf update/DigitaleMuster/KBV_ITA_VGEX_Tec hnisches_Handbuch_DiMus.pdf Arzneimitteln (AMV) update/Verordnungen/Arzneimittel/KBV_IT A_FMEX_AAZ_AMV.pdf update/Verordnungen/Arzneimittel/KBV_IT A_AHEX_Pruefpaket_AMV.pdf WG Verordnungssoftware update/Verordnungen/Arzneimittel/EXT_IT A_VGEX_Anforderungskatalog_AVWG.pdf Primärsystems zum Funktionsumfang E- Rezept anbieter/primaersysteme/best-konf-ps-ti update/Abrechnung/Pruefverfahren/ update/DigitaleMuster/ERP/
 
 ---
 
@@ -658,6 +596,4 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Kassenärztliche Bundesvereinigung
-
-/gemSpec_DM_eRp/latest/  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+/gemSpec_DM_eRp/latest/Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)

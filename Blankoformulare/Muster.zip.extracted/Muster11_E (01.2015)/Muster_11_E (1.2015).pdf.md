@@ -4,7 +4,7 @@
 
 **11**
 
-**Bericht für den Medizinischen Dienst** ***Der behandelnde Arzt wird gebeten, den nachstehenden Berichtsvordruck auszufüllen und Röntgen-, Labor- und andere*** ***Spezialbefunde sowie Kankenhausberichte und dergleichen dem Medizinischen Dienst zur Verfügung zu stellen.*** ***Dieser Vordruck ist dann nicht auszufüllen, wenn spätestens am Tage der Begutachtung durch den Medizinischen Dienst die*** ***Arbeitsunfähigkeit beendet ist.***
+**Bericht für den Medizinischen Dienst** ***Der behandelnde Arzt wird gebeten, den nachstehende n Berichtsvordruck auszufüllen und Röntgen-, Labor- und andere*** ***Spezialbefunde sowie Kankenhausberichte und derglei chen dem Medizinischen Dienst zur Verfügung zu stel len.*** ***Dieser Vordruck ist dann nicht auszufüllen, wenn sp ätestens am Tage der Begutachtung durch den Medizin ischen Dienst die*** ***Arbeitsunfähigkeit beendet ist.***
 
 **Datum der letzten Untersuchung**
 
@@ -34,7 +34,7 @@
 
 **Folgendes ist mit der Bitte um Rückgabe beigefügt:**
 
-|  | **Röntgen-** |  | **Ultraschall-** |  |
+|  | Röntgen- |  | Ultraschall- |  |
 |---|---|---|---|---|
 |  | **befund** |  | **befund** |  |
 
@@ -44,9 +44,7 @@
 
 **Labor-**
 
-**Arzt- oder**
-
-**befund**
+**Arzt- oder** **befund**
 
 **Krankenhausbericht**
 

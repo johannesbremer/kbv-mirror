@@ -1,6 +1,4 @@
-### Bereitstellung von Texten für eine elektronische Ausfüllhilfe für die
-
-### vereinbarten Vordrucke
+### Bereitstellung von Texten für eine elektronische Ausfüllhilfe für die vereinbarten Vordrucke
 
 ### Hinweise für PVS-Hersteller
 
@@ -10,10 +8,12 @@ Die KBV möchte den Ärzten zukünftig niederschwellig und medienbruchfrei Infor
 
 Wie die Texte konkret eingebunden werden, ist Ihnen überlassen. Denkbar ist, dass direkt  neben den auszufüllenden Feldern ein Button eingefügt wird (s. Abbildung), bei dem sich  durch Anklicken ein Informationsfenster öffnet, in dem die Ausfüllanleitung zu dem jeweiligen  Feld erscheint. Möglich sind auch Mouse-over-Felder.
 
-Wichtig ist aus Sicht der KBV, dass die Ausfüllhilfen die Ärzte nicht beim Ausfüllen der Mus-
-
-ter behindern und ggf. deaktiviert werden können, wenn keine Hilfe gewünscht ist. Zudem  sollte die Zuordnung der Ausfüllhinweise zu den jeweiligen Feldern auf dem Vordruck ein- deutig sein, damit keine Missverständnisse entstehen können.
+Wichtig ist aus Sicht der KBV, dass die Ausfüllhilfen die Ärzte nicht beim Ausfüllen der Mu ter behindern und ggf. deaktiviert werden können, wenn keine Hilfe gewünscht ist. Zudem  sollte die Zuordnung der Ausfüllhinweise zu den jeweiligen Feldern auf dem Vordruck ein- deutig sein, damit keine Missverständnisse entstehen können.
 
 Die elektronischen Ausfüllhilfen werden für alle Formulare erstellt, die ab dem 1. Januar  2016 überarbeitet oder neu eingeführt werden.
 
-Für Rückfragen steht Ihnen Frau Holthusen ([IHolthusen@kbv.de](mailto:IHolthusen@kbv.de), Tel.: 030/4005-1416) ger- ne zur Verfügung.
+[Für Rückfragen steht Ihnen Frau Holthusen (](mailto:IHolthusen@kbv.de) ne zur Verfügung.
+
+s-
+
+[IHolthusen@kbv.de](mailto:IHolthusen@kbv.de)[, Tel.: 030/4005-1416) ger-](mailto:IHolthusen@kbv.de)

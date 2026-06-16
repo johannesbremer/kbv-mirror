@@ -26,7 +26,7 @@
 
 244 **QUINCY WIN**
 
-498 **T 2med**
+498 **T2med**
 
 252 **CGM M1 PRO**
 
@@ -94,7 +94,7 @@ Frey ADV GmbH 86
 
 -1
 
-T 2med GmbH & Co. KG 86
+T2med GmbH & Co. KG 86
 
 84
 

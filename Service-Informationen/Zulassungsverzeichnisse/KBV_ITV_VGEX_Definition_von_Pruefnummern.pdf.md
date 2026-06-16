@@ -19,24 +19,21 @@ BUNDESVEREINIGUNG   IT IN DER VERSORGUNG
 
 **1** **EINLEITUNG**
 
-**4**
-
-1.1 Definition der Prüfnummern der KBV zur Zertifizierung von Praxsisoftware 4
+**4**  1.1 Definition der Prüfnummern der KBV zur Zertifizierung von Praxsisoftware 4
 
 **2** **REFERENZIERTE DOKUMENTE**
 
 **6**
 
-
 ---
 
 **DOKUMENTENSTATUS**
 
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.0 | 15.11.2023 | KBV | Initiales Dokument | Bereitstellung der | alle |
 
-Definition von Prüfnummern
+Definition von Prüfnummern  
 
 
 ---
@@ -57,7 +54,7 @@ Wobei die Stellen im Einzelnen folgendes bedeuten:
 
 **Softwareklasse:**
 
-| **WERT** | **BEDEUTUNG** |
+| WERT | BEDEUTUNG |
 |---|---|
 | X | System |
 | Y | Praxisverwaltungssystem |
@@ -66,7 +63,7 @@ Wobei die Stellen im Einzelnen folgendes bedeuten:
 
 **Komponente**
 
-| **WERT** | **NAME** |
+| WERT | NAME |
 |---|---|
 | 1 | KVDT ADT |
 | 2 | KVDT KADT |
@@ -90,9 +87,7 @@ Wobei die Stellen im Einzelnen folgendes bedeuten:
 | 500 | KVDT SADT |
 | 806-808 | KV-SafeNet Versionen 3.1-3.3 |
 
-in der Regel für 36
-
-en erneuert werden.
+in der Regel für 36  en erneuert werden.
 
 ist:
 
@@ -102,7 +97,7 @@ Deutsche Krankenhausgesellschaft
 
 ---
 
-| **WERT** | **NAME** |
+| WERT | NAME |
 |---|---|
 | 820-821 | Richtlinie KV |
 
@@ -135,8 +130,6 @@ Diese identifizieren das System des Herstellers bei der KBV.
 
 Dezernat Digitalisierung und IT  IT in der Versorgung, Tel.: 030 4005-0, [ita@kbv.de](mailto:ita@kbv.de)
 
-Kassenärztliche Bundesvereinigung
-
-Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
 
 date/Allgemein/KBV_ITA_RLEX_Zert.pdf

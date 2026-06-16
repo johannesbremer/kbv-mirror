@@ -1,4 +1,4 @@
-| **Sammelerklärung 2. Quartal 2026** | |
+| Sammelerklärung 2. Quartal 2026 | |
 |---|---|
 | **Gemeinschaftspraxis Dres. Hans Test Fritz Sauber Dr. med.  Hans  Test Facharzt f. Innere Medizin -Angiologie- Dr. med.  Fritz  Sauber Facharzt für Hals-Nasen-Ohrenheilkunde Facharzt für Phoniatrie u. Pädaudiologie Hahnenweg  4 51371  Leverkusen** | BSNR: 274412400 Fallzahl: 2453 |
 
@@ -40,10 +40,9 @@
 |---|---|---|
 | 1.) 28.05.2026 | 2.) | 3.) |
 
-\| **1\|2** von bis Dr. med.  Sabine  Hannah  Angestellte |
+\| **1** von**\|** bis**2** Dr. med.  Sabine  Hannah  Angestellte |
 \|---|
 
-1|2
 
 ---
 

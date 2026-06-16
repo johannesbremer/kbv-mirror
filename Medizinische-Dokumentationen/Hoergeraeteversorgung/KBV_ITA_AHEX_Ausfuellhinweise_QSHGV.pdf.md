@@ -1,4 +1,4 @@
-| **Nr.** | **Eingabefeld** | **Ausfüllhinweis** |
+| Nr. | Eingabefeld | Ausfüllhinweis |
 |---|---|---|
 | **Allgemeine Angaben** | | |
 | 1. | Patienten-ID | Bitte beachten Sie bei Ihren Angaben, dass die Pati- |
@@ -16,7 +16,7 @@
 |  |  | **Liste der Infoboxen:** |
 |  |  | **Infobox** |
 | **Text** | (Vor) Verordnung | Inhalt dieses Abschnitts ist die Untersuchung des Patienten bei Neuverord- |
-| Nach Verordnung | Inhalt dieses Abschnitts ist die erste Nachuntersuchung nach erfolgter Hör- | APHAB-Bogen |
+| Nach Verordnung | Inhalt dieses Abschnitts ist die erste Nachuntersuchung nach erfolgter Hö r- | APHAB-Bogen |
 | Der APHAB-Bogen (Abbreviated Profile of Hearing Aid Benefit) ist ein In- | | |
 |  |  | **Liste der Ausfüllhinweise:** |
 |  |  | **Nr.  Eingabefeld** |
@@ -25,10 +25,10 @@
 | Sprachverstehen | | |
 | Am schlechteren Ohr gemessen | 9b | dB  Freiburger Einsilber / Freiburger Zahlen   - Der Punkt des besten Hörverstehens des  Eingabe bitte ohne Nachkommastellen.  9c  % (E/Z)  Freiburger Einsilber / Freiburger Zahlen  Bitte entnehmen Sie die Werte aus dem Audio- |
 
-| **Infobox** | **Text** |
+| Infobox | Text |
 |---|---|
 | (Vor) Verordnung | Inhalt dieses Abschnitts ist die Untersuchung des Patienten bei Neuverord- |
-| Nach Verordnung | Inhalt dieses Abschnitts ist die erste Nachuntersuchung nach erfolgter Hör- |
+| Nach Verordnung | Inhalt dieses Abschnitts ist die erste Nachuntersuchung nach erfolgter Hö r- |
 | APHAB-Bogen | Der APHAB-Bogen (Abbreviated Profile of Hearing Aid Benefit) ist ein In- |
 
 nung eines Hörgerätes / von Hörgeräten beim Jugendlichen oder Erwachse- nen bei Schwerhörigkeit (entsprechend der GOP 09372). geräteversorgung beim Jugendlichen oder Erwachsenen (entsprechend der GOP 09373). strument zur Bewertung der Qualität der Hörgeräteversorgung. Der Bogen wurde 1995 in den USA von Cox. Et al. entwickelt und wird dort bereits seit Jahren eingesetzt (Cox RM, Alexander GC (1995) The Abbreviated Profile of Hearing Aid Benefit. Ear Hear 16: 176–86). weise eingefügt. enten für Sie ggf. reidentifizierbar sein müssen. opt Patienten. gramm.

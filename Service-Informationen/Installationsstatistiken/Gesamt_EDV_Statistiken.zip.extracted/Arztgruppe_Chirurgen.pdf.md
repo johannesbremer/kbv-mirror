@@ -129,9 +129,9 @@ NEXUS AG 61
 
 5
 
-498 **T 2med**
+498 **T2med**
 
-T 2med GmbH & Co. KG 52
+T2med GmbH & Co. KG 52
 
 48
 

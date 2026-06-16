@@ -23,7 +23,9 @@
 
 ---
 
-## Timeline Koalitionsvertrag - **KOALITIONSVERTRAG**
+## Timeline Koalitionsvertrag
+
+- **KOALITIONSVERTRAG**
 
 06.11.2024
 
@@ -49,11 +51,9 @@
 
 ---
 
-## Kapitel „Gesundheit und Pflege“ des Koalitionsvertrages - **KOALITIONSVERTRAG**
+## Kapitel „Gesundheit und Pflege“ des Koalitionsvertrages
 
-## und verbessern die
-
-## Die eierlegende Wollmilchsau für das Gesundheitswesen
+- **KOALITIONSVERTRAG**
 
 
 ---
@@ -62,9 +62,7 @@
 
 - **AMBULANTE VERSORGUNG**
 
-## „Zu einer möglichst zielgerichteten Versorgung der Patientinnen und Patienten und für eine  schnellere Terminvergabe setzen wir auf ein verbindliches Primärarztsystem bei freier
-
-## Arztwahl durch Haus- und Kinderärzte in der Hausarztzentrierten Versorgung und im  Kollektivvertrag.“
+## „Zu einer möglichst zielgerichteten Versorgung der Patientinnen und Patienten und für eine  schnellere Terminvergabe setzen wir auf ein verbindliches Primärarztsystem bei freier  Arztwahl durch Haus- und Kinderärzte in der Hausarztzentrierten Versorgung und im  Kollektivvertrag.“
 
 
 ---
@@ -81,33 +79,34 @@
 
 *Ärzten. Doppeldokumentationen vermeiden wir.“*
 
-## „Rahmenbedingungen und Honorierung für Videosprechstunden, Telemonitoring und
-
-## Telepharmazie verbessern wir, um die Versorgung flächendeckend sicherzustellen.“
-
-## im ärztlichen Bereich mit dem Ziel, die Anzahl nicht
-
-*-Patienten-Kontakten.“*
+## „Rahmenbedingungen und Honorierung für Videosprechstunden, Telemonitoring und  Telepharmazie verbessern wir, um die Versorgung flächendeckend sicherzustellen.“
 
 
 ---
 
 ## Gesundheits-Etat
 
-## - Keine nachhaltige Stabilisierung der Finanzen von GKV und SPV durch die kostendeckende
+## - Keine
+
+nachhaltige Stabilisierung der Finanzen von GKV und SPV durch die kostendeckende
 
 ## - Refinanzierung der Gesundheitsversorgung von Bürgergeld
 
-## - Keine vollständige Erstattung der vorgestreckten Corona-Kosten
+## - Keine
+
+vollständige Erstattung der vorgestreckten Corona-Kosten
 
 ## - ABER: Teilbeträge auf Darlehensbasis
 
-## - Wie im Koa-Vertrag angekündigt: Einrichtung einer Kommission
+## - Wie im Koa-Vertrag angekündigt:
+
+**Einrichtung einer Kommission**
 
 ## - Rückzahlung wann und mit was?
 
-## - Sozialstaatsreform - **HAUSHALT**
+## - Sozialstaatsreform
 
+- **HAUSHALT**
 - -Beziehenden durch den Bund
 
 
@@ -120,17 +119,29 @@
 
 ## „Ambulant passgenau versorgt“: Kernpunkte
 
-## - Steuerung durch Hausärzte, Kinder und Jugendärzte sowie  Gynäkologen
+## - Steuerung durch Hausärzte, Kinder
 
-## - Ausnahmen von der Steuerung für Fachärzte für Augenheilkunde,  ärztliche und psychotherapeutische Psychotherapeuten
+- und Jugendärzte sowie
 
-## - Alternativ: Steuerung durch Zuweisung über die 116117 mit  medizinischer Ersteinschätzung
+## - Gynäkologen
 
-## - Eigenbeteiligung bei ungesteuertem Direktzugang
+## - Ausnahmen von der Steuerung für Fachärzte für Augenheilkunde,
 
-- Entbudgetierung für mit- und weiterbehandelnde Fachärzte
+## - ärztliche und psychotherapeutische Psychotherapeuten
 
-|  | ↗ | **STEUERUNG** |  |
+## - Alternativ: Steuerung durch Zuweisung über die 116117 mit
+
+## - medizinischer Ersteinschätzung
+
+## - Eigenbeteiligung bei ungesteuertem
+
+## - Direktzugang
+
+## - Entbudgetierung für mit- und weiterbehandelnde
+
+- Fachärzte
+
+|  | ↗ | STEUERUNG |  |
 |---|---|---|---|
 |  | **Veröffentlicht** | **am** | **26.05.** |
 |  |  |  | SEITE 11 |
@@ -141,17 +152,21 @@ Veröffentlicht am 26.05.
 
 ## Not- und Akutversorgung außerhalb der Praxisöffnungszeiten
 
-## - Wichtig: verpflichtender Einsatz standardisierter Ersteinschätzungssysteme; Patienten ohne
+## - Wichtig:
+
+**verpflichtender Einsatz standardisierter Ersteinschätzungssysteme**; Patienten ohne
 
 ## - dringlichen Bedarf werden in die Regelversorgung vermittelt.
 
-## - Weiterentwicklung und Ausbau der 116117 als „digitale Multi-Channel-Versorgungsplattform“;
+## - Weiterentwicklung und Ausbau der 116117
+
+als „digitale Multi-Channel-Versorgungsplattform“;
 
 ## - mehr Möglichkeiten für Versicherte, ihr Anliegen selbst digital in die Hand zu nehmen.
 
-## - Für die ambulante Akut- und Notdienstversorgung bedarf es einer angemessenen
+## - Für die ambulante Akut
 
-- **Vorhaltefinanzierung, inkl. digitaler Zugänge**
+- und Notdienstversorgung bedarf es einer angemessenen  **Vorhaltefinanzierung, inkl. digitaler Zugänge**
 
 ## - Bürgerinnen und Bürger müssen noch stärker über das Angebot der 116117 informiert werden.
 
@@ -160,39 +175,43 @@ Veröffentlicht am 26.05.
 
 ---
 
-|  |  |  | ↗ **DIGITAL UND NAH** |
+|  |  |  | ↗ DIGITAL UND NAH |
 |---|---|---|---|
-|  |  | **Positionspapier Digitalisierung** | **beschlossen auf der VV im Mai 2025** |
+|  | **Positionspapier** | **Digitalisierung** | **beschlossen auf der VV im Mai 2025** |
 |  |  |  | **SIEBEN THEMENFELDER** |
 | *Erarbeitet in* | *einem* | *gemeinsamen* |  |
 | *Prozess mit* | *der VV* | *12/24-05/25* |  |
 | Weitere | Informationen | unter www.kbv.de/digitalisierung |  |
 |  |  |  | Plus **FÜNF KERNFORDERUNGEN** |
-| **AKTUELLE** | | **BUNDESGESETZGEBUNG** | SEITE 13 |
+| **AKTUELLE** |  | **BUNDESGESETZGEBUNG** | SEITE 13 |
 | 31. | ANBIETERMEETING | AM 18. SEPTEMBER 2025 |  |
 
 Positionspapier Digitalisierung beschlossen auf der VV im Mai 2025
 
 ---
 
-## Digital und nah - **DIGITAL UND NAH**
+## Digital und nah
+
+- **DIGITAL UND NAH**
 
 ## Hier online abrufbar
 
 
 ---
 
-## PraxisWissen Künstliche Intelligenz: Hinweise zum Einsatz in Praxen - **KI-LEITFADEN**
+## PraxisWissen Künstliche Intelligenz: Hinweise zum Einsatz in Praxen
+
+- **KI-LEITFADEN**
 
 ## ANFORDERUNGEN BEI DER  IMPLEMENTIERUNG UND DEM BETRIEB
 
-## Das PraxisWissen der KBV gibt einen Überblick zu den wichtigsten
+## Das PraxisWissen der KBV gibt einen  Regelungen und Anforderungen Lösungen in Praxen.
 
-## Regelungen und Anforderungen beim Einsatz von KI-basierten
-
-## Lösungen in Praxen.
+## Überblick zu den wichtigsten  beim Einsatz von KI-basierten
 
 #### Veröffentlicht am 26.05.
+
+[www.kbv.de/digitalisierung](http://www.kbv.de/digitalisierung)
 
 
 ---
@@ -212,9 +231,7 @@ Parteitag CSU
 
 12.-13. Dezember 2025 (München)
 
-Bundesparteitag  Bündnis 90/Die Grünen
-
-28.-30. November 2025 (Hannover)
+Bundesparteitag  Bündnis 90/Die Grünen  28.-30. November 2025 (Hannover)
 
 **Landtagswahl**
 
@@ -228,9 +245,7 @@ Bundesparteitag CDU
 
 20.-21. Februar 2026 (Stuttgart)
 
-### Gesetz zur Reform der
-
-### Notfallversorgung / Rettungsdienst
+### Gesetz zur Reform der  Notfallversorgung / Rettungsdienst
 
 ### Primärarztsystem
 
@@ -286,7 +301,7 @@ Bundesparteitag CDU
 
 ### Nov Dez
 
-### Okt 17
+### Okt
 
 
 ---

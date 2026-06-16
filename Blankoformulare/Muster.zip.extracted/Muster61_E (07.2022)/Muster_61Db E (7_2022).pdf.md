@@ -12,9 +12,7 @@ eingeschränkt, hinsichtlich*** (z. B. Erreichbarkeit***
 
 **B. Rehabilitationsziele aus Sicht der Patientin / des Patienten, sofern ABWEICHEND von den zuvor genannten**
 
-Unter Berücksichtigung des bisherigen Verlaufs und der individuell vorhandenen bzw. förderungsfähigen Ressourcen besteht
-
-eine **positive Prognose** für die unter IV. A. und IV. B. benannten Rehabilitationsziele
+Unter Berücksichtigung des bisherigen Verlaufs und der individuell vorhandenen bzw. förderungsfähigen Ressourcen besteht  eine **positive Prognose** für die unter IV. A. und IV. B. benannten Rehabilitationsziele
 
 ambulant
 
@@ -32,17 +30,13 @@ als Vater-Kind-Leistung
 
 **A. Empfohlene Rehabilitationsform**
 
-**C. Weitere Bemerkungen/Begründungen***** (u. a. Anforderungen an die Einrichtung z. B. Barrierefreiheit auch für körper-, seh-, hör- oder***
-
-***sprachbehinderte Menschen, klimatische Anforderungen, Allergiefaktoren, besondere Kostformen, fremdsprachliche Betreuung, besondere***
-
-***Therapieformen)***
+**C. Weitere Bemerkungen/Begründungen***** (u. a. Anforderungen an die Einrichtung z. B. Barrierefreiheit auch für körper-, seh-, hör- oder*** ***sprachbehinderte Menschen, klimatische Anforderungen, Allergiefaktoren, besondere Kostformen, fremdsprachliche Betreuung, besondere***  ***Therapieformen)***
 
 pflegende/r  Angehörige/r
 
 andere
 
-### IV.Rehabilitationsziele
+### IV. Rehabilitationsziele
 
 **V. Rehabilitationsprognose**
 

@@ -7,12 +7,9 @@
 |  | **DEZERNAT ÄRZTLICHE UND  ABTEILUNG VERANLASSTE LEISTUNGEN  1. APRIL 2025 ** |
 |---|---|
 
-# MUSTER 52  BERICHT FÜR DIE
-
-# KRANKEN KASSE BEI FORTBESTEHEN  DER ARBEITSUNFÄHIGKEIT
+# MUSTER 52  BERICHT FÜR DIE  KRANKEN KASSE BEI FORTBESTEHEN  DER ARBEITSUNFÄHIGKEIT
 
 ## HINWEISTEXTE FÜR DIE ERSTELLUNG EINER ELEKTRONISCHEN  AUSFÜLLHILFE
-
 
 ---
 
@@ -46,4 +43,4 @@ Hier ist anzugeben, ob Hinweise auf eine bestehende oder drohende Erwerbsminderu
 
 **Mehr Informationen**
 
-Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 15,5 MB):  www.kbv.de/media/sp/02_Erlaeuterungen.pdf
+Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 15,5 MB):  [www.kbv.de/media/sp/02_Erlaeuterungen.pdf](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)[](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)

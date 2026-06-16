@@ -14,7 +14,7 @@
 
 **Datum**
 
-|  | **wird** |  | **wird** |  |
+|  | wird |  | wird |  |
 |---|---|---|---|---|
 |  | **vermieden** |  | **verkürzt** |  |
 
@@ -76,6 +76,4 @@
 
 **Vertragsarztstempel / Unterschrift des Arztes**
 
-**Stempel und Unterschrift**
-
-**des soziotherapeutischen Leistungserbringers**
+**Stempel und Unterschrift** **des soziotherapeutischen Leistungserbringers**

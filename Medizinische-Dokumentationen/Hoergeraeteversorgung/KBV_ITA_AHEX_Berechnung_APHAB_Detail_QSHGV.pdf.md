@@ -83,19 +83,9 @@ A 1 2 3
 
 52 53 Es gelten die folgenden Voraussetzungen für die Berechnung: 54 55
 
-56 57
+56 57  58 59  60 61 62  63  64
 
-58 59
-
-60 61 62
-
-63
-
-64
-
-65
-
-66 67 68 69
+65  66 67 68 69
 
 70 71
 
@@ -103,31 +93,11 @@ A 1 2 3
 
 76 77 78 79 80
 
-81 82
+81 82  83  84  85  86  87  88
 
-83
+89  90 91 92  93
 
-84
-
-85
-
-86
-
-87
-
-88
-
-89
-
-90 91 92
-
-93
-
-94
-
-95
-
-96 97 98 99
+94  95  96 97 98 99
 
 100 101 102 103 104
 
@@ -136,9 +106,7 @@ A 1 2 3
 B
 
 - Die Antwort-Buchstaben bedeuten für die Berechnung: A = 99% ("immer"), B = 87% ("fast immer"), C = 75% ("häufig"), D = 50% ("zur Hälfte"),
-
 - Bei Fragenummern: 1, 9, 11, 16, 19, 21 sind die Werte für Buchstaben invertiert
-
 - Die Fragen sind nach Kategorien gruppiert:
 
 zu Kategorie EC gehören Fragenummern: 4, 10, 12, 14, 15, 23
@@ -151,16 +119,14 @@ zu Kategorie AV gehören Fragenummern: 3, 8, 13, 17, 20, 22
 
 - Aus jeder Kategorie müssen mindestens 4 der 6 Fragen beantwortet werden.
 
+```
 -
+```
 
 - Es gehen in die Auswertung nur die Fragen ein, die vor und nach der Hörgeräteversorgung beantwortet wurden.
-
 - Es müssen mindestens 4 gleiche Fragen pro Kategorie (Vor und Nachverordnung) beantwortet werden, damit eine  Auswertung möglich ist. Bei weniger als 4 gleichen Fragen darf die Kategorie nicht errechnet werden.
-
 - Wenn mindestens eine der Kategorien EC, BN oder RV nicht berechnet werden können, dürfen auch die Gesamtbewertung (EC, BN, RV ) (
-
 - Alle berechneten Werte ohne Nachkommastellen (kaufmännisch gerundet)
-
 - Berechnung der Mittelwerte der Kategorien (einschl. Gesamtbewertung):
 
 Feld F42 (Kategorie EC Vor Hörgeräteverodnung)= Summe Antworten in (%) / Anzahl Anworten (0 werden nicht mit berechnet)
@@ -193,10 +159,8 @@ Feld H45 Mittelwert der Kategorie AV (Vorverordnung) - Mittelwert der Kategorie 
 
 Feld
 
-- Berechnung des Gesamtbewertung der Hörgeräteversorgung (H46):  Feld H46 = Mittelwert Gesamtbewertung vor Hörgeräteversorgung (F46) - Mittelwert Gesamtbewertung nach Hörgeräteversorgung (G46) -
-
-- Berechnung der Verbesserung der Hörfähigkeit:  Feld G49 = 100% * Gesamtnutzen (H46) / Gesamtbewertung Vorverordnung (F46) -
-
+- Berechnung des Gesamtbewertung der Hörgeräteversorgung (H46):  Feld H46 = Mittelwert Gesamtbewertung vor Hörgeräteversorgung (F46) - Mittelwert Gesamtbewertung nach Hörgeräteversorgung (G46)
+- Berechnung der Verbesserung der Hörfähigkeit:  Feld G49 = 100% * Gesamtnutzen (H46) / Gesamtbewertung Vorverordnung (F46)
 - Es sind auch negative Werte für den Nutzen der Hörgeräteversorgung und die Verbesserung der Hörfähigkeit möglich.
 
 C
@@ -219,6 +183,11 @@ E=75% ("gelegentlich"), F=87% ("selten"), G=99% ("nie")
 
 H
 
-N O P Q R -
+N O P Q R
 
-- ("häufig"), D=50%  ("zur Hälfte") - Feld H46)
+```
+-
+```
+
+- ("häufig"), D=50%  ("zur Hälfte")
+- Feld H46)

@@ -14,9 +14,7 @@ Versicherten-Nr.
 
 Status.
 
-Bearbeiter
-
-Vertragsarzt-Nr.
+Bearbeiter Vertragsarzt-Nr.
 
 VK gültig bis
 
@@ -24,23 +22,17 @@ Datum
 
 ### Anweisung:
 
-Bitte wählen Sie die Anwort, die Ihrer alltäglichen Erfahrung am nächsten kommt. Wenn Sie eine bestimmte Situation nicht erlebt haben, stellen Sie sich vor, wie Sie in einer ähnlichen
-
-Situation antworten würden.
+Bitte wählen Sie die Anwort, die Ihrer alltäglichen Erfahrung am nächsten kommt. Wenn Sie eine bestimmte Situation nicht erlebt haben, stellen Sie sich vor, wie Sie in einer ähnlichen Situation antworten würden.
 
 ### Zeitpunkt der Befragung:
 
 ## Vor der Hörgeräte-Versorgung
 
-**Wenn** **ich** **in** **einem** **belebten** **Lebensmittelgeschäft**
-
-**der** **Kassiererin** **spreche,** **kann** **ich** **dem**
+**Wenn** **ich** **in** **einem** **belebten** **Lebensmittelgeschäft** **der** **Kassiererin** **spreche,** **kann** **ich** **dem**
 
 1 **mit** **Gespräch** **folgen.**
 
-**Es** **entgeht** **mir** **viel** **Information,** **wenn** **ich** **einen**
-
-2
+**Es** **entgeht** **mir** **viel** **Information,** **wenn** **ich** **einen** 2
 
 ### B CD G
 
@@ -50,15 +42,11 @@ A
 
 **Vortrag** **anhöre.**
 
-**Unerwartete** **Geräusche,** **wie** **einen** **Rauchmelder**
-
-**eine** **Alarmanlage,** **empfinde** **ich** **als**
+**Unerwartete** **Geräusche,** **wie** **einen** **Rauchmelder** **eine** **Alarmanlage,** **empfinde** **ich** **als**
 
 3 **oder** **unangenehm** **laut.**
 
-**Ich** **habe** **Schwierigkeiten,** **zu** **Hause** **einem**
-
-**mit** **einem** **Familienangehörigen** **zu**
+**Ich** **habe** **Schwierigkeiten,** **zu** **Hause** **einem** **mit** **einem** **Familienangehörigen** **zu**
 
 4 **Gespräch** **folgen.**
 
@@ -70,15 +58,11 @@ A
 
 5 **Theater** **zu** **verstehen.**
 
-**Wenn** **ich** **am** **Autoradio** **die** **Nachrichten** **höre**
-
-**sich** **Familienmitglieder** **dabei** **unterhalten**
+**Wenn** **ich** **am** **Autoradio** **die** **Nachrichten** **höre** **sich** **Familienmitglieder** **dabei** **unterhalten**
 
 6 **und** **habe** **ich** **Mühe,** **die** **Nachrichten** **zu** **verstehen.**
 
-**Wenn** **ich** **mit** **mehreren** **Personen** **beim** **Essen** **sitze,**
-
-**ich** **mich** **mit** **einer** **Person** **unterhalten** **möchte,**
+**Wenn** **ich** **mit** **mehreren** **Personen** **beim** **Essen** **sitze,** **ich** **mich** **mit** **einer** **Person** **unterhalten** **möchte,**
 
 7 **und** **ist** **es** **für** **mich** **schwierig,** **zu** **verstehen.**
 
@@ -88,9 +72,7 @@ A
 
 ### EFG 8 **Verkehrslärm**
 
-**Wenn** **ich** **mit** **jemanden** **spreche,** **der** **sich** **am**
-
-**Ende** **eines** **großen** **leeren** **Raumes**
+**Wenn** **ich** **mit** **jemanden** **spreche,** **der** **sich** **am** **Ende** **eines** **großen** **leeren** **Raumes**
 
 ### B CD G
 
@@ -151,27 +133,17 @@ G
 
 #### dem Gespräch zu folgen.
 
-**Wenn** **ich** **im** **Kino** **oder** **Theater** **bin** **und** **die** **Leute**
-
-**mich** **herum** **flüstern** **und** **mit** **Papier** **rascheln,**
+**Wenn** **ich** **im** **Kino** **oder** **Theater** **bin** **und** **die** **Leute** **mich** **herum** **flüstern** **und** **mit** **Papier** **rascheln,**
 
 11 **um** **kann** **ich** **dem** **Dialog** **immer** **noch** **folgen.**
 
-**Wenn** **ich** **mich** **mit** **einem** **Freund** **in** **einer** **ruhigen**
-
-**unterhalte,** **habe** **ich** **Schwierigkeiten,**
+**Wenn** **ich** **mich** **mit** **einem** **Freund** **in** **einer** **ruhigen** **unterhalte,** **habe** **ich** **Schwierigkeiten,**
 
 12 **Umgebung** **zu** **verstehen.**
 
-**Die** **Geräusche** **von** **fließendem** **Wasser,** **wie** **eine**
+**Die** **Geräusche** **von** **fließendem** **Wasser,** **wie** **eine** 13 **Toilettenspülung** **oder** **Dusche,** **sind** **mir** **unangenehm** **laut.**
 
-13 **Toilettenspülung** **oder** **Dusche,** **sind** **mir**
-
-**unangenehm** **laut.**
-
-**Wenn** **ein** **Sprecher** **zu** **einer** **kleinen** **Gruppe** **spricht**
-
-**alle** **ruhig** **zuhören,** **muss** **ich** **mich** **anstrengen,**
+**Wenn** **ein** **Sprecher** **zu** **einer** **kleinen** **Gruppe** **spricht** **alle** **ruhig** **zuhören,** **muss** **ich** **mich** **anstrengen,**
 
 14 **und** **um** **zu** **verstehen.**
 
@@ -181,9 +153,7 @@ G
 
 **dem** **Gespräch** **zu** **folgen.**
 
-**Ich** **kann** **einer** **Unterhaltung** **folgen,** **auch** **wenn**
-
-16
+**Ich** **kann** **einer** **Unterhaltung** **folgen,** **auch** **wenn** 16
 
 ## B CDA
 
@@ -199,13 +169,9 @@ G
 
 18 **EsVorträgen** **oder** **in** **der** **Kirche** **gesprochen** **wird.**
 
-**Ich** **kann** **mich** **mit** **anderen** **unterhalten,**
+**Ich** **kann** **mich** **mit** **anderen** **unterhalten,** 19 **wenn** **wir** **in** **einer** **Menschenmenge** **sind.**
 
-19 **wenn** **wir** **in** **einer** **Menschenmenge** **sind.**
-
-**Die** **Sirene** **eines** **nahen** **Feuerwehrfahrzeugs**
-
-20 **ist** **so** **laut,** **dass** **ich** **meine** **Ohren** **zuhalten** **muss.**
+**Die** **Sirene** **eines** **nahen** **Feuerwehrfahrzeugs** 20 **ist** **so** **laut,** **dass** **ich** **meine** **Ohren** **zuhalten** **muss.**
 
 **Gottesdienst** **kann** **ich** **die** **Worte**
 
@@ -215,9 +181,7 @@ G
 
 22 **Dasist** **mir** **unangenehm** **laut.**
 
-**Ich** **muss** **den** **Gesprächspartner** **bitten,**
-
-**zu** **wiederholen,** **wenn** **wir** **uns** **zu** **zweit**
+**Ich** **muss** **den** **Gesprächspartner** **bitten,** **zu** **wiederholen,** **wenn** **wir** **uns** **zu** **zweit**
 
 ## B CDA
 
@@ -225,9 +189,7 @@ G
 
 23 **sich** **in** **einem** **ruhigen** **Raum** **unterhalten.**
 
-**Ich** **habe** **Mühe,** **andere** **zu** **verstehen,**
-
-**gleichzeitig** **eine** **Klimaanlage** **oder**
+**Ich** **habe** **Mühe,** **andere** **zu** **verstehen,** **gleichzeitig** **eine** **Klimaanlage** **oder**
 
 24 **wenn** **ein** **Ventilator** **läuft.**
 

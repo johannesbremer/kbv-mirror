@@ -167,7 +167,7 @@ INDAMED EDV-Entwicklung und Vertrieb GmbH 1
 
 023 **DATA VITAL**
 
-261 **S 3-Win**
+261 **S3-Win**
 
 **Anbieter**
 
@@ -177,7 +177,7 @@ MediSoftware Computersysteme für Ärzte
 
 CompuGroup Medical Deutschland AG
 
-S 3 Praxiscomputer GmbH / Maximilian Flender 2
+S3 Praxiscomputer GmbH / Maximilian Flender 2
 
 **Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 

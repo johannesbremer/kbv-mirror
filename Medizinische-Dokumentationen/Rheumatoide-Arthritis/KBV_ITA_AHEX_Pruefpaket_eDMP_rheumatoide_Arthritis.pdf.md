@@ -6,9 +6,7 @@ Seite 1 von 30 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.03 / 1
 
 **KASSENÄRZTLICHE**  **BUNDESVEREINIGUNG**
 
-**DEZERNAT DIGITALISIERUNG UND IT**
-
-**IT IN DER ARZTPRAXIS**
+**DEZERNAT DIGITALISIERUNG UND IT**  **IT IN DER ARZTPRAXIS**
 
 **15. AUGUST 2025**
 
@@ -21,7 +19,7 @@ Seite 1 von 30 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.03 / 1
 
 INHALT
 
-| **ALLGEMEINES** | **4** |
+| ALLGEMEINES | 4 |
 |---|---|
 | 1.1 Rechtsgrundlage | 4 |
 | 1.2 Zertifizierungsablauf | 4 |
@@ -39,11 +37,11 @@ INHALT
 | 1.6.8 Stammdatei der Datenannahmestellen | (SDDA) 9 |
 | 1.6.9 Auflistung der Prüffälle | 9 |
 
-| **PRÜFFÄLLE** |  |  | **10** |
+| PRÜFFÄLLE |  |  | 10 |
 |---|---|---|---|
 | 2.1 Prüffälle |  | Dokumentation | 10 |
 | 2.1.1 | Prüffall | 7211 | 10 |
-| 2.1.2 |  | Prüffall 7212 | 13 |
+| 2.1.2 | Prüffall | 7212 | 13 |
 | 2.1.3 | Prüffall | 7220 | 16 |
 | 2.2 Prüffall |  | Systemreaktion | 20 |
 | 2.2.1 | Prüffall | 7214 | 20 |
@@ -67,15 +65,14 @@ INHALT
 
 Version: 1.03 / 15. August 2025
 
-Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentation Prüffall 7211 Prüffall 7220 Prüffall Systemreaktion Prüffall 7214 Weitere Prüffälle zum Anforderungskatalog Prüffall 7230 Prüffall 7240
+Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentation Prüffall 7211 Prüffall 7212 Prüffall 7220 Prüffall Systemreaktion Prüffall 7214 Weitere Prüffälle zum Anforderungskatalog Prüffall 7230 Prüffall 7240 
+
 
 ---
 
 ## ABBILDUNGSVERZEICHNIS
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung 2: Exemplarische Struktur der Archivdatei mit den Prüfunterlagen Abbildung 3: Testdatenvalidierung
-
-Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung 2: Exemplarische Struktur der Archivdatei mit den Prüfunterlagen Abbildung 3: Testdatenvalidierung  Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 ## DOKUMENTENHISTORIE
 
@@ -89,7 +86,7 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 1.00
 
-| **Datum** | **Autor** | **Änderung** | **Begründung** |
+| Datum | Autor | Änderung | Begründung |
 |---|---|---|---|
 | 15.08.2025 | KBV | Datumsanpassung im | Änderung der |
 
@@ -117,9 +114,7 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 **Seite**
 
-26
-
-Prüffall 7240
+26  Prüffall 7240
 
 Barcodeversion ab  1.1.2025 7  2.1   20   24
 
@@ -129,18 +124,13 @@ Alle
 
 / Version: 1.03 / 15. August 2025
 
-
 ---
 
 ## ALLGEMEINES
 
-Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich des elektronischen Disease-Management-Programms rheumatoide
+Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich des elektronischen Disease-Management-Programms rheumatoide  Arthritis RA
 
-Arthritis RA
-
-Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet den
-
-Rahmen der Zertifizierung und ist zu beachten.
+Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet den  Rahmen der Zertifizierung und ist zu beachten.
 
 Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
 
@@ -152,129 +142,59 @@ Die Regelungen zur Zertifizierung werden auf Landesebene zwischen den Kassenärz
 
 Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten
 
-1. Der Antragssteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV
-
-bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht
-
-werden.  Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per E-Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen. Erst nach Erhalt der
-
-Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und den vorab via E-Mail
-
-eingereichten Antrag auf Zertifizierung dort hochgeladen werden.
-
-2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als
-
-fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch Mitarbeitende der KBV.
-
-3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragssteller
-
-mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen.
-
-4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
+1. Der Antragssteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.  Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per [E-Mail (pruefstelle@kbv.de) einreichen. Erst nach Erhalt der](mailto:pruefstelle@kbv.de) [Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiier](mailto:pruefstelle@kbv.de)[t und den vorab via E-Mail](mailto:pruefstelle@kbv.de) eingereichten Antrag auf Zertifizierung dort hochgeladen werden.  2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch Mitarbeitende der KBV.  3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragssteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen.  4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
 
 **HINW EIS**
 
-Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des
-
-Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
+Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
 
 / Version: 1.03 / 15. August 2025
-
 
 ---
 
 **1.3** **ZERTIFIZIERUNGSPORTAL**
 
-Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
+[Das Zertifizierungsportal ist über https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/)[zu erreichen.](https://zertifizierungsportal2.kbv.de/)
 
-Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran  anschließenden manuellen Prüfung.
+[Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran](https://zertifizierungsportal2.kbv.de/) anschließenden manuellen Prüfung.
 
-Die Zugangsdaten können direkt über das Portal oder per E-Mail an [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) unter Angabe der
+Die Zugangsdaten können direkt über das Portal oder per [E-Mail an pruefstelle@kbv.de unter Angabe der](mailto:pruefstelle@kbv.de) [System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte](mailto:pruefstelle@kbv.de) beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
 
-System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte  beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragssteller in Form von Aufgaben (Menüpunkt:  „Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
 
-Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf
+Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im  Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur zusammen mit den erstellten  Prüfunterlagen in Form einer ZIP-Datei archiviert werden.
 
-Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragssteller in Form von Aufgaben (Menüpunkt:
+Die in das Portal integrierte Prüfautomatisierung führt neben einer inhaltlichen Prüfung auch eine Prüfung  auf Vollständigkeit der eingereichten Prüfunterlagen durch.
 
-„Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
+Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, wird der  Antragssteller vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehler  zu beheben bzw. die Lieferung zu vervollständigen.
 
-Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im  Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur zusammen mit den erstellten
+Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende Fehlermeldungs- benachrichtigungen (sogenannte Log-Dateien im HTML- oder XML-Format) erzeugt und dem Antragssteller  zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen geprüft. Erst  wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung als fehlerfrei erkannt wurden, erfolgt  die Prüfung. Wird hierbei festgestellt, dass Dateien fehlerhaft sind, werden die Antragssteller aufgefordert,  eine Korrekturlieferung hochzuladen.
 
-Prüfunterlagen in Form einer ZIP-Datei archiviert werden.
-
-Die in das Portal integrierte Prüfautomatisierung führt neben einer inhaltlichen Prüfung auch eine Prüfung
-
-auf Vollständigkeit der eingereichten Prüfunterlagen durch.
-
-Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, wird der  Antragssteller vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehler
-
-zu beheben bzw. die Lieferung zu vervollständigen.
-
-Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende Fehlermeldungs-
-
-benachrichtigungen (sogenannte Log-Dateien im HTML- oder XML-Format) erzeugt und dem Antragssteller
-
-zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen geprüft. Erst  wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung als fehlerfrei erkannt wurden, erfolgt  die Prüfung. Wird hierbei festgestellt, dass Dateien fehlerhaft sind, werden die Antragssteller aufgefordert,
-
-eine Korrekturlieferung hochzuladen.
-
-Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des Zertifizierungsportals  genutzt werden. Bitte beachten Sie, dass hierfür eine anschließende Prüfung nicht stattfindet. Des
-
-Weiteren müssen für die Testdatenvalidierung die Hinweise in Kapitel 3 berücksichtigt werden.
+Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des Zertifizierungsportals  genutzt werden. Bitte beachten Sie, dass hierfür eine anschließende Prüfung nicht stattfindet. Des  Weiteren müssen für die Testdatenvalidierung die Hinweise in Kapitel 3 berücksichtigt werden.
 
 **1.4** **ZERTIFIZIERUNGSDOKUMENTE**
 
-Alle erforderlichen Unterlagen stehen im Internet zum Download unter ITA-Update bereit. In diesem
-
-Zusammenhang berücksichtigen Sie bitte das Kapitel Referenzierte Dokumente.
+[Alle erforderlichen Unterlagen stehen im Internet zum Download unter](https://update.kbv.de/)[ITA-Update bereit. In diesem](https://update.kbv.de/) Zusammenhang berücksichtigen Sie bitte das Kapitel [Referenzierte Dokumente.](https://update.kbv.de/)
 
 **1.5** **PRÜFUNTERLAGEN**
 
 Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:
 
-**RA-Unterlagen bestehend aus XML-Dokumenten:**  Je Betriebsstättennummer werden eine Begleitdatei und eine Archivdatei (*.zip.XKM), welche die  einzelnen XML-Dateien im entsprechenden Verzeichnis enthält, erwartet. Diese müssen fehlerfrei gegen  das jeweils aktuelle, von der KBV vorgegebene, Prüfschema validierbar sein. Entsprechende Vorgaben
+**RA-Unterlagen bestehend aus XML-Dokumenten:**  Je Betriebsstättennummer werden eine Begleitdatei und eine Archivdatei (*.zip.XKM), welche die  einzelnen XML-Dateien im entsprechenden Verzeichnis enthält, erwartet. Diese müssen fehlerfrei gegen  das jeweils aktuelle, von der KBV vorgegebene, Prüfschema validierbar sein. Entsprechende Vorgaben  für die Bildung der Dateinamen, die Verzeichnisstruktur und die weiteren Angaben entnehmen Sie bitte  dem Dokument Austausch_von_XML-Daten_V(n.nn).ZIP.
 
-für die Bildung der Dateinamen, die Verzeichnisstruktur und die weiteren Angaben entnehmen Sie bitte  dem Dokument Austausch_von_XML-Daten_V(n.nn).ZIP.
-
-[Konditional] Multimorbider Fall: Sofern Ihr System eine Zulassung für eine oder mehrere der in dem
-
-Prüffall 7220 genannten Indikationen verfügt, müssen die entsprechenden Daten ebenfalls
+[Konditional] Multimorbider Fall: Sofern Ihr System eine Zulassung für eine oder mehrere der in dem  Prüffall 7220 genannten Indikationen verfügt, müssen die entsprechenden Daten ebenfalls
 
 / Version: 1.03 / 15. August 2025
 
-
 ---
 
-dokumentiert werden. Dabei müssen die Dateien entsprechend den Vorgaben als eine Archivdatei
+dokumentiert werden. Dabei müssen die Dateien entsprechend den Vorgaben als eine Archivdatei  verschlüsselt (*.zip.XKM) direkt in dem Hauptverzeichnis des zip-Archives abgelegt werden.
 
-verschlüsselt (*.zip.XKM) direkt in dem Hauptverzeichnis des zip-Archives abgelegt werden.
-
-**Videodateien Videomitschnitte oder Screenshots ausgewählter Anforderungen und**
-
-**Teilnahmeerklärung:**  Die geforderten Videomitschnitte, Screenshots sowie die Teilnahmeerklärung (Prüffall 7240) müssen in
-
-einem gesonderten Ordner „**Dokumentation**“ übermittelt werden und folgender Namenskonvention
-
-entsprechen. Diese werden durch den Prüfer begutachtet.
-
-PrüffallNr. 1_[lfdNr.]2 3
-
-Teilnahmeerklärung (Prüffall 7240): TE_EWE_RA.pdf   Alle Prüfunterlagen (RA-Unterlagen und der Ordner „Dokumentation“) sind in einem ZIP-Archiv zu
-
-übermitteln. Die RA-Unterlagen werden direkt in dem Hauptverzeichnis übertragen und nicht gesondert  in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Der Ordner
-
-„Dokumentation“ enthält Videoaufzeichnungen, ggf. Screenshots sowie die Teilnahmeerklärung und
-
-wird ebenfalls direkt in dem Hauptverzeichnis übertragen. Das ZIP- Archiv muss wie folgt benannt
-
-werden:  Zert_110_SystemID.zip
+**Videodateien Videomitschnitte oder Screenshots ausgewählter Anforderungen und**  **Teilnahmeerklärung:**  Die geforderten Videomitschnitte, Screenshots sowie die Teilnahmeerklärung (Prüffall 7240) müssen in  einem gesonderten Ordner „**Dokumentation**“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.  PrüffallNr. 1_[lfdNr.]2 3  Teilnahmeerklärung (Prüffall 7240): TE_EWE_RA.pdf   Alle Prüfunterlagen (RA-Unterlagen und der Ordner „Dokumentation“) sind in einem ZIP-Archiv zu  übermitteln. Die RA-Unterlagen werden direkt in dem Hauptverzeichnis übertragen und nicht gesondert  in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Der Ordner  „Dokumentation“ enthält Videoaufzeichnungen, ggf. Screenshots sowie die Teilnahmeerklärung und  wird ebenfalls direkt in dem Hauptverzeichnis übertragen. Das ZIP- Archiv muss wie folgt benannt  werden:  Zert_110_SystemID.zip
 
 Die SystemID ergibt sich aus den letzten drei Stellen der Prüfnummer.
 
-Das ZIP-Archiv kann je nach Komponentenzulassung (DM2) unterschiedliche Strukturen aufweisen. Im  Folgenden wird beispielhaft die Verzeichnisstruktur ohne zusätzliche Zulassungen (die alleinige Umsetzung
-
-von rheumatoide Arthritis) dargestellt.
+Das ZIP-Archiv kann je nach Komponentenzulassung (DM2) unterschiedliche Strukturen aufweisen. Im  Folgenden wird beispielhaft die Verzeichnisstruktur ohne zusätzliche Zulassungen (die alleinige Umsetzung  von rheumatoide Arthritis) dargestellt.
 
 Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung
 
@@ -286,42 +206,19 @@ ________________
 
 / Version: 1.03 / 15. August 2025
 
-
 ---
 
 **1.6** **PRÜFVORGABEN**
 
-Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung des  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV-Kryptomodul (XKM)
-
-unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
+Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung des  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV-Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
 
 **1.6.1** **Schnittstellenversionen**
 
-Indikation **Rheumatoide Arthritis:**
-
-Ab dem **1. April 2022** muss die Schnittstellenversion **1.00** verwendet werden.
-
-Indikation **Diabetes mellitus Typ 2:**
-
-Ab dem **1. Oktober 2023** muss die Schnittstellenversion **6.07** verwendet werden
+Indikation **Rheumatoide Arthritis:**  Ab dem **1. April 2022** muss die Schnittstellenversion **1.00** verwendet werden.   Indikation **Diabetes mellitus Typ 2:**  Ab dem **1. Oktober 2023** muss die Schnittstellenversion **6.07** verwendet werden
 
 **1.6.2** **Datumseingaben**
 
-**Gültigkeitsdatum:** Das „letzte Datum“ **ab** dem alle in diesem Prüfpaket verwendeten Schnittstellen
-
-(siehe oben Kapitel 1.6.1) gelten bzw. zu verwenden sind (hier wäre es der **01.10.2023**
-
-**Erstdokumentationsdatum**: Das Datum der Erstellung der Erstdokumentation ist jeweils der 15. des
-
-Monats, der sechs Monate vor dem aktuellen Monat liegt.  Zum Beispiel: **Aktuelle Monat** ist **April 2025** **==>** **Erstdokumentationsdatum** ist der **15.10.2024**
-
-**Ausnahme** Wenn das Gültigkeitsdatum nach dem Erstdokumentationsdatum liegen würde, dann ist das  Erstdokumentationsdatum (**auch in der Zukunft**) der 15. des jeweiligen Gültigkeitsmonats.
-
-**Folgedokumentationsdatum:** Das Datum der Erstellung der Folgedokumentation ist der 15. des Monats
-
-sechs Monate nach dem Erstdokumentationsdatum.   **Einlesedatum:** Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22,
-
-„service_tmr“) eingesetzt werden, welches bei der Dokumentation der Prüffälle angegeben ist. Das  gleiche Datum sollte auch als Kopfdatum (Feld 9, „origination_dttm“) benutzt werden.
+**Gültigkeitsdatum:** Das „letzte Datum“ **ab** dem alle in diesem Prüfpaket verwendeten Schnittstellen  (siehe oben Kapitel 1.6.1) gelten bzw. zu verwenden sind (hier wäre es der **01.10.2023**  **Erstdokumentationsdatum**: Das Datum der Erstellung der Erstdokumentation ist jeweils der 15. des  Monats, der sechs Monate vor dem aktuellen Monat liegt.  Zum Beispiel: **Aktuelle Monat** ist **April 2025** **==>** **Erstdokumentationsdatum** ist der **15.10.2024** **Ausnahme** Wenn das Gültigkeitsdatum nach dem Erstdokumentationsdatum liegen würde, dann ist das  Erstdokumentationsdatum (**auch in der Zukunft**) der 15. des jeweiligen Gültigkeitsmonats.   **Folgedokumentationsdatum:** Das Datum der Erstellung der Folgedokumentation ist der 15. des Monats  sechs Monate nach dem Erstdokumentationsdatum.   **Einlesedatum:** Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22,  „service_tmr“) eingesetzt werden, welches bei der Dokumentation der Prüffälle angegeben ist. Das  gleiche Datum sollte auch als Kopfdatum (Feld 9, „origination_dttm“) benutzt werden.
 
 **1.6.3** **Prüfstammdaten**
 
@@ -329,20 +226,11 @@ Im Rahmen der Prüfung sind die regulären Stammdateien zu verwenden.
 
 **1.6.4** **Versichertendaten**
 
-Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den
+Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei  (VSD_Testfaelle_DMP_V1.0.zip) enthält für jeden Prüffall in einem jeweils separaten Verzeichnis die  folgenden XML-Dateien mit Versichertenstammdaten
 
-Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei
-
-(VSD_Testfaelle_DMP_V1.0.zip) enthält für jeden Prüffall in einem jeweils separaten Verzeichnis die  folgenden XML-Dateien mit Versichertenstammdaten
-
-EF.VD = allgemeine Versicherungsdaten
-
-EF.PD = persönliche Versichertendaten
-
-EF.GVD = geschützte Versichertendaten
+EF.VD = allgemeine Versicherungsdaten  EF.PD = persönliche Versichertendaten  EF.GVD = geschützte Versichertendaten
 
 / Version: 1.03 / 15. August 2025
-
 
 ---
 
@@ -372,9 +260,7 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 
 **1.6.6** **Krankenhausdaten**
 
-Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der  dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. Für die Angabe des dokumen tierenden Arztes, der auch hier genannt werden muss, ist der oben genannte Arztname zu verwenden. Herr  Topp-Glücklich ist also für die „Krankenhausfälle“ Angestellter des Krankenhauses und betreut den
-
-Patienten im DMP. Es soll hier seine Telefonnummer angegeben werden. Die Vertragsarztnummer spielt  hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind demzufolge zwei A haus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete und zwei Begleitdateien einzu reichen.
+Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der  dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. Für die Angabe des dokumen tierenden Arztes, der auch hier genannt werden muss, ist der oben genannte Arztname zu verwenden. Herr  Topp-Glücklich ist also für die „Krankenhausfälle“ Angestellter des Krankenhauses und betreut den  Patienten im DMP. Es soll hier seine Telefonnummer angegeben werden. Die Vertragsarztnummer spielt  hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind demzufolge zwei A haus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete und zwei Begleitdateien einzu reichen.
 
 **BEZEICHNUNG**
 
@@ -436,7 +322,6 @@ bsender (Kranken-
 
 / Version: 1.03 / 15. August 2025
 
-
 ---
 
 **1.6.8** ** Stammdatei der Datenannahmestellen (SDDA)**
@@ -447,7 +332,7 @@ Der Empfänger der elektronischen Dokumentationen muss, soweit möglich, automat
 
 Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
-| **PRÜFFALL-ID** | **NAME** |
+| PRÜFFALL-ID | NAME |
 |---|---|
 | **7211** | Katarina Maier |
 | **7212** | Peter Pan |
@@ -485,9 +370,7 @@ Anlage einer Erst- und einer Folgedokumentation
 
 **Voraussetzung**
 
-**Einzureichende** 1. eDMP rheumatoide Arthritis Dokumentationsunterlagen
-
-**Prüfunterlagen**
+**Einzureichende** 1. eDMP rheumatoide Arthritis Dokumentationsunterlagen  **Prüfunterlagen**
 
 **Hinweis**
 
@@ -495,25 +378,15 @@ Bei der Erfassung der Daten für den Prüffall kann Prüffall 7230 Szenario 3  a
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-**1.** **Versichertendaten**
-
-Die Versichertendaten von **Katarina Maier (XML_12)**
-
-**2.** **Bestimmung des DAS-28-Scores und Übernahme in die Dokumentation sowie Anlage einer Erst** **einer Folgedokumentation**  Erfassen Sie vor der Erst- und Folgedokumentation die Antworten auf die Fragen des DAS den DAS-28-Score berechnen und in die Dokumentation übernehmen. Erfassen Sie jeweils eine Erst- und Folgedokumentation (s.u.,  „Indikationsspezifische Daten“).
+**1.** **Versichertendaten**  Die Versichertendaten von **Katarina Maier (XML_12)**  **2.** **Bestimmung des DAS-28-Scores und Übernahme in die Dokumentation sowie Anlage einer Erst** **einer Folgedokumentation**  Erfassen Sie vor der Erst- und Folgedokumentation die Antworten auf die Fragen des DAS den DAS-28-Score berechnen und in die Dokumentation übernehmen. Erfassen Sie jeweils eine Erst- und Folgedokumentation (s.u.,  „Indikationsspezifische Daten“).
 
 **DAS-28-Wert Fragebogen**
 
-**1. Anzahl geschwollener Gelenke (sw28)**
+**1. Anzahl geschwollener Gelenke (sw28)**   **(Wertebereich: 0  28)**
 
-**(Wertebereich: 0  28)**
+**2. Anzahl druckschmerzhafter Gelenke (t28)**   **(Wertebereich 0 - 28)**
 
-**2. Anzahl druckschmerzhafter Gelenke (t28)**
-
-**(Wertebereich 0 - 28)**
-
-**3. Subjektive Krankheitsaktivität (VAS)**
-
-**(Wertebereich 0  100)**
+**3. Subjektive Krankheitsaktivität (VAS)**   **(Wertebereich 0  100)**
 
 **4. Blutsenkungsgeschwindigkeit (BSG) (mm/h)**
 
@@ -639,21 +512,15 @@ Jedes zweite Quartal 15.mm.jjjj
 
 **Anamnese- und Befunddaten**
 
-Aktuelle Krankheitsaktivität - DAS-28-Wert
+Aktuelle Krankheitsaktivität - DAS-28-Wert   Das System muss den Wert des berechneten DAS 28-Scores übernehmen
 
-Das System muss den Wert des berechneten DAS 28-Scores übernehmen
-
-Erkrankungsdauer der rheumatoiden Arthritis
-
-(zum Zeitpunkt der aktuellen Dokumentation)
+Erkrankungsdauer der rheumatoiden Arthritis  (zum Zeitpunkt der aktuellen Dokumentation)
 
 Klinische Einschätzung des Osteoporoserisikos  durchgeführt
 
 **Medikamentöse und sonstige Maßnahmen**
 
-Aktuelle Glukokortikoidtherapie wegen
-
-rheumatoider Arthritis
+Aktuelle Glukokortikoidtherapie wegen  rheumatoider Arthritis
 
 Aktuelle DMARD-Therapie
 
@@ -661,9 +528,7 @@ Regelmäßige körperliche Aktivität
 
 **Schulung**
 
-Bereits vor Einschreibung in das DMP an einer
-
-Rheuma-Schulung teilgenommen
+Bereits vor Einschreibung in das DMP an einer  Rheuma-Schulung teilgenommen
 
 Rheuma-Schulung empfohlen (bei aktueller  Dokumentation)
 
@@ -728,33 +593,21 @@ Anlage einer Erst- und einer Folgedokumentation
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-**1.** **Versichertendaten**
-
-Die Versichertendaten von **Peter Pan (XML_13)**
-
-**2.** **Bestimmung des DAS-28-Scores und Übernahme in die Dokumentation sowie Anlage einer Erst** **einer Folgedokumentation**  Erfassen Sie vor der Erst- und Folgedokumentation die Antworten auf den DAS-28-Score berechnen und in die Dokumentation übernehmen. Erfassen Sie jeweils eine Erst- und Folgedokumentation  „Indikationsspezifische Daten“).
+**1.** **Versichertendaten**  Die Versichertendaten von **Peter Pan (XML_13)**  **2.** **Bestimmung des DAS-28-Scores und Übernahme in die Dokumentation sowie Anlage einer Erst** **einer Folgedokumentation**  Erfassen Sie vor der Erst- und Folgedokumentation die Antworten auf den DAS-28-Score berechnen und in die Dokumentation übernehmen. Erfassen Sie jeweils eine Erst- und Folgedokumentation  „Indikationsspezifische Daten“).
 
 **DAS-28-Wert Fragebogen**
 
-**1. Anzahl geschwollener Gelenke (sw28)**
+**1. Anzahl geschwollener Gelenke (sw28)**   **(Wertebereich: 0  28)**
 
-**(Wertebereich: 0  28)**
+**2. Anzahl druckschmerzhafter Gelenke (t28)**   **(Wertebereich 0 - 28)**
 
-**2. Anzahl druckschmerzhafter Gelenke (t28)**
-
-**(Wertebereich 0 - 28)**
-
-**3. Subjektive Krankheitsaktivität (VAS)**
-
-**(Wertebereich 0  100)**
+**3. Subjektive Krankheitsaktivität (VAS)**   **(Wertebereich 0  100)**
 
 **4. Blutsenkungsgeschwindigkeit (BSG) (mm/h)**
 
 einlesen und speichern.
 
-die Fragen des DAS-28, lassen Sie
-
-(s.u., “Indikationsübergreifende Daten“ und
+die Fragen des DAS-28, lassen Sie   (s.u., “Indikationsübergreifende Daten“ und
 
 **Erstdokumentation**
 
@@ -874,17 +727,13 @@ Quartalsweise 15.mm.jjjj
 
 Aktuelle Krankheitsaktivität - DAS-28-Wert
 
-Erkrankungsdauer der rheumatoiden Arthritis
-
-(zum Zeitpunkt der aktuellen Dokumentation)
+Erkrankungsdauer der rheumatoiden Arthritis  (zum Zeitpunkt der aktuellen Dokumentation)
 
 Klinische Einschätzung des Osteoporoserisikos  durchgeführt
 
 **Medikamentöse und sonstige Maßnahmen**
 
-Aktuelle Glukokortikoidtherapie wegen
-
-rheumatoider Arthritis
+Aktuelle Glukokortikoidtherapie wegen  rheumatoider Arthritis
 
 Aktuelle DMARD-Therapie
 
@@ -960,25 +809,15 @@ Sofern das System eine Zulassung für die Indikation  verfügt, müssen die ents
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-**1.** **Versichertendaten**
-
-Die Versichertendaten von **Helga Aufgelöst** (4.1) im Ersatzverfahren erfassen.
-
-**2.** **Bestimmung des DAS-28-Scores und Übernahme in die Dokumentation sowie Anlage einer Erst** **einer Folgedokumentation**  Erfassen Sie vor der Erst- und Folgedokumentation die Antworten auf die Fragen des DAS den DAS-28-Score berechnen und in die Dokumentation übernehmen. Erfassen Sie jeweils eine Erst- und Folgedokumentation  „Indikationsspezifische Daten“).
+**1.** **Versichertendaten**  Die Versichertendaten von **Helga Aufgelöst** (4.1) im Ersatzverfahren erfassen.  **2.** **Bestimmung des DAS-28-Scores und Übernahme in die Dokumentation sowie Anlage einer Erst** **einer Folgedokumentation**  Erfassen Sie vor der Erst- und Folgedokumentation die Antworten auf die Fragen des DAS den DAS-28-Score berechnen und in die Dokumentation übernehmen. Erfassen Sie jeweils eine Erst- und Folgedokumentation  „Indikationsspezifische Daten“).
 
 **DAS-28-Wert Fragebogen**
 
-**1. Anzahl geschwollener Gelenke (sw28)**
+**1. Anzahl geschwollener Gelenke (sw28)**   **(Wertebereich: 0  28)**
 
-**(Wertebereich: 0  28)**
+**2. Anzahl druckschmerzhafter Gelenke (t28)**   **(Wertebereich 0 - 28)**
 
-**2. Anzahl druckschmerzhafter Gelenke (t28)**
-
-**(Wertebereich 0 - 28)**
-
-**3. Subjektive Krankheitsaktivität (VAS)**
-
-**(Wertebereich 0  100)**
+**3. Subjektive Krankheitsaktivität (VAS)**   **(Wertebereich 0  100)**
 
 **4. Blutsenkungsgeschwindigkeit (BSG) (mm/h)**
 
@@ -1051,54 +890,30 @@ Dokumentationsintervall
 
 Datum der Erstellung (siehe Kap. 1.6.2)
 
-**Erstdokumentation**
-
-7220
-
-856215715
-
-15.mm.jjjj
-
-rheumatoide Arthritis,  Diabetes mellitus Typ 2
-
-Weiblich 1,72 m
-
-63 kg
-
-120 / 70 mmHg
-
-Ja
-
-Nach Funktion P1-47 des Anforderungskatalogs  müssen die anderen eingeschriebenen Indikationen  automatisch übernommen werden. Für die  rheumatoide Arthritis-Dokumentation ist dies  Diabetes mellitus.
-
-Ernährungsberatung
-
-Quartalsweise 15.mm.jjjj
+| Erstdokumentation | Folgedokumentation |
+|---|---|
+| 7220 | 7220 |
+| 856215715 | 856215715 |
+| 15.mm.jjjj | 15.mm.jjjj |
+| rheumatoide | Arthritis, rheumatoide Arthritis, |
+| Diabetes mellitus | Typ 2 Diabetes mellitus Typ 2 |
+| Weiblich | Weiblich |
+| 1,72 m | 1,72 m |
+| 63 kg | 61 kg |
+| 120 / 70 mmHg | 119 / 65 mmHg |
+| Ja | Ja |
+| Nach Funktion | P1-47 des Anforderungskatalogs |
+| müssen die | anderen eingeschriebenen Indikationen |
+| automatisch | übernommen werden. Für die |
+| rheumatoide | Arthritis-Dokumentation ist dies |
+| Diabetes mellitus. |  |
+| Ernährungsberatung | Tabakverzicht |
+| Quartalsweise | Jedes zweite Quartal |
+| 15.mm.jjjj | 15.mm.jjjj |
 
 / Version: 1.03 / 15. August 2025
 
-**Folgedokumentation**
-
-7220
-
-856215715
-
-15.mm.jjjj
-
-rheumatoide Arthritis,  Diabetes mellitus Typ 2
-
-Weiblich 1,72 m
-
-61 kg
-
-119 / 65 mmHg
-
-Ja
-
-Tabakverzicht
-
-Jedes zweite Quartal 15.mm.jjjj
-
+Nach Funktion P1-47 des Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die rheumatoide Arthritis-Dokumentation ist dies
 
 ---
 
@@ -1150,9 +965,7 @@ RA
 
 Aktuelle Krankheitsaktivität - DAS-28-Wert
 
-Erkrankungsdauer der rheumatoiden
-
-Arthritis (zum Zeitpunkt der aktuellen  Dokumentation)
+Erkrankungsdauer der rheumatoiden  Arthritis (zum Zeitpunkt der aktuellen  Dokumentation)
 
 Klinische Einschätzung des  Osteoporoserisikos durchgeführt
 
@@ -1288,27 +1101,19 @@ DM2
 
 **Schulung**
 
-RA Bereits vor Einschreibung in das DMP an Ja
-
-einer Rheuma-Schulung teilgenommen
+RA Bereits vor Einschreibung in das DMP an Ja  einer Rheuma-Schulung teilgenommen
 
 RA Rheuma-Schulung empfohlen (bei
 
-Ja
-
-aktueller Dokumentation)
+Ja  aktueller Dokumentation)
 
 RA Rheuma-Schulung wahrgenommen
 
 DM2 Schulung empfohlen (bei aktueller
 
-Diabetes-Schulung
+Diabetes-Schulung  Dokumentation)
 
-Dokumentation)
-
-DM2 Schulung schon vor Einschreibung ins Hypertonie-Schulung
-
-DMP bereits wahrgenommen
+DM2 Schulung schon vor Einschreibung ins Hypertonie-Schulung  DMP bereits wahrgenommen
 
 DM2 Empfohlene Diabetes-Schulung
 
@@ -1388,9 +1193,7 @@ Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben  
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-**1.** **Versichertendaten**
-
-Die Personalien zu dem Testfall sind frei wählbar.
+**1.** **Versichertendaten**  Die Personalien zu dem Testfall sind frei wählbar.
 
 **2.** **Anlegen einer Erstdokumentation**
 
@@ -1440,7 +1243,9 @@ Je nach Auswahl des  Patienten 1,68 m
 
 120 / 90 mmHg
 
-Keine der genannten  Erkrankungen - bzw.
+Keine der genannten  Erkrankungen
+
+- bzw.
 
 **Aktion**
 
@@ -1459,9 +1264,7 @@ Datum der Erstellung (siehe Kap. 1.6.2)
 
 **Anamnese- und Befunddaten**
 
-Aktuelle Krankheitsaktivität - DAS-28-Wert
-
-Pflichtfeld
+Aktuelle Krankheitsaktivität - DAS-28-Wert  Pflichtfeld
 
 Erkrankungsdauer der rheumatoiden Arthritis (zum  Zeitpunkt der aktuellen Dokumentation)
 
@@ -1576,9 +1379,7 @@ Klinische Einschätzung des Osteoporoserisikos  durchgeführt
 
 rheumatoide Arthritis
 
-Je nach Auswahl des
-
-Patienten 1,68 m
+Je nach Auswahl des   Patienten 1,68 m
 
 79 kg
 
@@ -1605,7 +1406,6 @@ Zwei Jahre oder mehr
 Ja
 
 Version: 1.03 / 15. August 2025
-
 
 ---
 
@@ -1670,33 +1470,11 @@ Dieser Testfall ist unterteilt in drei Szenarien
 
 **Szenario 1**
 
-Es wird eine Folgedokumentation angelegt. Zeigen Sie, wie das System die Datenübernahme  Aktuelle DMARD-Therapie mit weiteren Anamnese- und Befunddaten aus einer vorherigen
-
-Dokumentation, gemäß **Anforderung P1-50** (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP
-
-vornimmt.
+Es wird eine Folgedokumentation angelegt. Zeigen Sie, wie das System die Datenübernahme  Aktuelle DMARD-Therapie mit weiteren Anamnese- und Befunddaten aus einer vorherigen  Dokumentation, gemäß **Anforderung P1-50** (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP vornimmt.
 
 **Szenario 2**
 
-Bitte verwenden Sie für dieses Szenario die Daten aus Prüffall 7211.   1. Es wird eine Erstdokumentation angelegt.
-
-a) Zeigen Sie, dass der Anwender vor der Erstellung einer Erstdokumentation für das eDMP  rheumatoide Arthritis die Bestimmung des Disease Activity Scores 28 (DAS **Anforderung KP2-20** genannten Parameter durchgeführt haben muss. Dokumentieren Sie auch die
-
-Fehler- und Hinweismeldungen des Systems.
-
-b) Zeigen Sie auch, dass das System aus diesen Parameterwerten den DAS berechnet, anzeigt sowie in die Dokumentation übernimmt (siehe auch  c) Zeigen Sie, dass das System dem Anwender einen Hinweistext nach der Erfassung des Parameters  „Aktuelle Krankheitsaktivität – DAS-28-Wert“ anzeigt. Dies muss erfolgen, ohne dass der Workflow
-
-unterbrochen wird (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP **Akzeptanzkriterium 1**
-
-2. Es wird eine Folgedokumentation angelegt.
-
-a) Zeigen Sie, dass der Anwender vor der Erstellung einer Fo rheumatoide Arthritis die Bestimmung des Disease Activity Scores 28 (DAS **Anforderung KP2-20** genannten Parameter durchgeführt haben muss. Dokumentieren Sie auch die
-
-Fehler- und Hinweismeldungen des Systems.
-
-b) Zeigen Sie auch, dass das System aus diesen Parameterwerten den DAS berechnet, anzeigt sowie in die Dokumentation übernimmt (siehe auch  c) Zeigen Sie, dass das System dem Anwender nach der Erfassung des Parameters
-
-Krankheitsaktivität  DAS-28-Wert“
+Bitte verwenden Sie für dieses Szenario die Daten aus Prüffall 7211.   1. Es wird eine Erstdokumentation angelegt.   a) Zeigen Sie, dass der Anwender vor der Erstellung einer Erstdokumentation für das eDMP  rheumatoide Arthritis die Bestimmung des Disease Activity Scores 28 (DAS **Anforderung KP2-20** genannten Parameter durchgeführt haben muss. Dokumentieren Sie auch die  Fehler- und Hinweismeldungen des Systems.  b) Zeigen Sie auch, dass das System aus diesen Parameterwerten den DAS berechnet, anzeigt sowie in die Dokumentation übernimmt (siehe auch  c) Zeigen Sie, dass das System dem Anwender einen Hinweistext nach der Erfassung des Parameters  „Aktuelle Krankheitsaktivität – DAS-28-Wert“ anzeigt. Dies muss erfolgen, ohne dass der Workflow  [unterbrochen wird (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP](https://update.kbv.de/ita-update/Ankuendigung/DMP/KBV_ITA_VGEX_Anforderungskatalog_eDMP.pdf) **Akzeptanzkriterium 1** 2. Es wird eine Folgedokumentation angelegt.   a) Zeigen Sie, dass der Anwender vor der Erstellung einer Fo rheumatoide Arthritis die Bestimmung des Disease Activity Scores 28 (DAS **Anforderung KP2-20** genannten Parameter durchgeführt haben muss. Dokumentieren Sie auch die  Fehler- und Hinweismeldungen des Systems.  b) Zeigen Sie auch, dass das System aus diesen Parameterwerten den DAS berechnet, anzeigt sowie in die Dokumentation übernimmt (siehe auch  c) Zeigen Sie, dass das System dem Anwender nach der Erfassung des Parameters  Krankheitsaktivität  DAS-28-Wert“
 
 / Version: 1.03 / 15. August 2025
 
@@ -1704,7 +1482,7 @@ der -28) mittels aller vier in
 
 -28-Score automatisch  **Anforderung KP2-30**
 
-, Anforderung **KP2-01,**
+[, Anforderung](https://update.kbv.de/ita-update/Ankuendigung/DMP/KBV_ITA_VGEX_Anforderungskatalog_eDMP.pdf)**KP2-01,**
 
 lgedokumentation für das eDMP  -28) mittels aller vier in
 
@@ -1715,19 +1493,15 @@ lgedokumentation für das eDMP  -28) mittels aller vier in
 
 **SZENARIEN**
 
-die Differenz zum Wert dieses Parameters aus der vorhergehenden verfügbaren anzeigt. Dies muss  erfolgen, ohne dass der Workflow unterbrochen wird (siehe  KBV_ITA_VGEX_Anforderungskatalog_eDMP, Anforderung **KP2-01, Akzeptanzkriterium 2**
-
-einen Hinweistext anzeigt. Dies muss erfolgen, ohne dass der Workflow unterbrochen wird (siehe  KBV_ITA_VGEX_Anforderungskatalog_eDMP, Anforderung **KP2-01, Akzeptanzkriterium 3**
+die Differenz zum Wert dieses Parameters aus der vorhergehenden verfügbaren anzeigt. Dies muss  erfolgen, ohne dass der Workflow unterbrochen wird (siehe  [KBV_ITA_VGEX_Anforderungskatalog_eDMP](https://update.kbv.de/ita-update/Ankuendigung/DMP/KBV_ITA_VGEX_Anforderungskatalog_eDMP.pdf)[, Anforderung](https://update.kbv.de/ita-update/Ankuendigung/DMP/KBV_ITA_VGEX_Anforderungskatalog_eDMP.pdf)**KP2-01, Akzeptanzkriterium 2** [einen Hinweistext anzeigt. Dies muss erfolgen, ohne dass der Workflow unterbrochen wird (siehe](https://update.kbv.de/ita-update/Ankuendigung/DMP/KBV_ITA_VGEX_Anforderungskatalog_eDMP.pdf) [KBV_ITA_VGEX_Anforderungskatalog_eDMP](https://update.kbv.de/ita-update/Ankuendigung/DMP/KBV_ITA_VGEX_Anforderungskatalog_eDMP.pdf)[, Anforderung](https://update.kbv.de/ita-update/Ankuendigung/DMP/KBV_ITA_VGEX_Anforderungskatalog_eDMP.pdf)**KP2-01, Akzeptanzkriterium 3**
 
 **Szenario 3**
 
-Zeigen Sie, dass das System dem Anwender den Ausdruck des Disease Activity Score (DAS gemäß **Anforderung** **KP2-10** ermöglicht (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP
-
-Zeigen Sie auch, dass der Anwender die vier Parameter mit den Daten aus dem  Berechnung des DAS-28-Scores eintragen kann.
+Zeigen Sie, dass das System dem Anwender den Ausdruck des Disease Activity Score (DAS gemäß **Anforderung** **KP2-10**[ermöglicht (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP](https://update.kbv.de/ita-update/Ankuendigung/DMP/KBV_ITA_VGEX_Anforderungskatalog_eDMP.pdf) [Zeigen Sie auch, dass der Anwender die vier Parameter mit den Daten aus dem](https://update.kbv.de/ita-update/Ankuendigung/DMP/KBV_ITA_VGEX_Anforderungskatalog_eDMP.pdf) Berechnung des DAS-28-Scores eintragen kann.
 
 / Version: 1.03 / 15. August 2025 -28)
 
-Prüffall **7212** zur
+[Prüffall](https://update.kbv.de/ita-update/Ankuendigung/DMP/KBV_ITA_VGEX_Anforderungskatalog_eDMP.pdf)**[7212](https://update.kbv.de/ita-update/Ankuendigung/DMP/KBV_ITA_VGEX_Anforderungskatalog_eDMP.pdf)** zur
 
 
 ---
@@ -1744,25 +1518,15 @@ Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP  (KB
 
 **Voraussetzung**
 
-**Prüfunterlagen** PDF-Datei „TE_EWE_RA.pdf“ der indikationsübergreifenden Teilnahme- und
-
-Einwilligungserklärung
+**Prüfunterlagen** PDF-Datei „TE_EWE_RA.pdf“ der indikationsübergreifenden Teilnahme- und  Einwilligungserklärung
 
 **Hinweis**
 
-Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der  indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein
-
-Barcode aufzudrucken.
+Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der  indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein  Barcode aufzudrucken.
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-**1.** **Versichertendaten**
-
-Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
-
-**2.** **Erstellen der Teilnahmeerklärung (Exemplar für die Datenstelle)** gemäß Kapitel 3 des
-
-Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) mit den folgenden Daten:
+**1.** **Versichertendaten**  Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.   **2.** **Erstellen der Teilnahmeerklärung (Exemplar für die Datenstelle)** gemäß Kapitel 3 des  Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) mit den folgenden Daten:
 
 **Administrative Daten**
 
@@ -1776,22 +1540,13 @@ Datum 05.04.2023 15.08.2025
 
 / Version: 1.03 / 15. August 2025
 
-
 ---
 
 ## TESTDATENVALIDIERUNG
 
-Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können
+Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können  auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden. Eine Ausnahme bildet der  multimorbide Fall „Prüffall 7220
 
-auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden. Eine Ausnahme bildet der
-
-multimorbide Fall „Prüffall 7220
-
-Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV findet nicht statt,
-
-demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das zip-Archiv mit den Prüfunterlagen
-
-hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
+Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV findet nicht statt,  demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das zip-Archiv mit den Prüfunterlagen  hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
 
 Abbildung 3: Testdatenvalidierung
 
@@ -1802,7 +1557,6 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 -Archives. Beachten Sie, dass der Dateinamen
 
 / Version: 1.03 / 15. August 2025
-
 
 ---
 
@@ -1916,72 +1670,65 @@ W 109719018
 
 Version: 1.03 / 15. August 2025
 
-
 ---
 
 ## REFERENZIERTE DOKUMENTE
 
 **Referenz**
 
-KBV_ITA_VGEX_Anforderungskatalog_eDMP
+[KBV_ITA_VGEX_Anforderungskatalog_eDMP](https://update.kbv.de/ita-update/Ankuendigung/DMP_Rheuma_II_2023/KBV_ITA_VGEX_Anforderungskatalog_eDMP.pdf)
 
-KBV_ITA_VHEX_DAS-Wert-Fragebogen
+[KBV_ITA_VHEX_DAS-Wert-Fragebogen](https://update.kbv.de/ita-update/Ankuendigung/DMP_Rheuma_II_2023/EXT_ITA_VGEX_Rheuma_DAS-28_Print.pdf)[](https://update.kbv.de/ita-update/Ankuendigung/DMP_Rheuma_II_2023/EXT_ITA_VGEX_Rheuma_DAS-28_Print.pdf)
 
-EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend
+[EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend](https://update.kbv.de/ita-update/Ankuendigung/DMP_Rheuma_II_2023/EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend.pdf)
 
-EXT_ITA_VGEX_Plausi_eDMP_Rheuma
+[EXT_ITA_VGEX_Plausi_eDMP_Rheuma](https://update.kbv.de/ita-update/Ankuendigung/DMP_Rheuma_II_2023/EXT_ITA_VGEX_Plausi_eDMP_Rheuma.pdf)[](https://update.kbv.de/ita-update/Ankuendigung/DMP_Rheuma_II_2023/EXT_ITA_VGEX_Plausi_eDMP_Rheuma.pdf)
 
-EXT_ITA_VGEX_Plausi_eDMP_DM1_DM2
+[EXT_ITA_VGEX_Plausi_eDMP_DM1_DM2](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/Diabetes_m1_m2/EXT_ITA_VGEX_Plausi_eDMP_DM1_DM2.pdf)[](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/Diabetes_m1_m2/EXT_ITA_VGEX_Plausi_eDMP_DM1_DM2.pdf)
 
-KBV_ITA_VGEX_Schnittstelle_eDMP_Rheuma
+[KBV_ITA_VGEX_Schnittstelle_eDMP_Rheuma](https://update.kbv.de/ita-update/Ankuendigung/DMP_Rheuma_II_2023/Schnittstelle_RA_V1.00.zip)
 
-KBV_ITA_VGEX_Schnittstelle_eDMP_DM2
+[KBV_ITA_VGEX_Schnittstelle_eDMP_](https://update.kbv.de/ita-update/Ankuendigung/DMP_Rheuma_II_2023/Schnittstelle_Diabetes2_V6.06.zip)[DM2](https://update.kbv.de/ita-update/Ankuendigung/DMP_Rheuma_II_2023/Schnittstelle_Diabetes2_V6.06.zip)
 
-KBV_ITA_VGEX_Schnittstelle_eHeader
+[KBV_ITA_VGEX_Schnittstelle_eHeader](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/Leitfaeden/)[](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/Leitfaeden/)
 
-XPM-Paket_RA
+[XPM-Paket_RA](https://update.kbv.de/ita-update/Ankuendigung/DMP_Rheuma_II_2023/xpm-dmp-rheuma-2023.2.0_Beta.zip)
 
-XPM-Paket_DM2
+[XPM-Paket_DM2](https://update.kbv.de/ita-update/Ankuendigung/DMP_Rheuma_II_2023/xpm-dmp-dm2-2023.2.0_Beta.zip)
 
-Austausch_von_XML-Daten_Vn.nn.ZIP4
+[Austausch_von_XML-Daten_Vn.nn.ZIP](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/Leitfaeden/Austausch_von_XML-Daten_V1.53.zip)[4](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/Leitfaeden/Austausch_von_XML-Daten_V1.53.zip)
 
-KBV_ITA_RLEX_Zert
+[KBV_ITA_RLEX_Zert](https://update.kbv.de/ita-update/Allgemein/)
 
-KBV_ITA_FMEX_AAZ_eDMP_RA
+[KBV_ITA_FMEX_AAZ_eDMP_RA](https://update.kbv.de/ita-update/Ankuendigung/DMP_Rheuma_II_2023/KBV_ITA_FMEX_AAZ_eDMP_RA.pdf)
 
-Stammdateien
+[Stammdateien](https://update.kbv.de/ita-update/Stammdateien/)
 
-KBV-Kryptomodul (XKM) und öffentlicher Test schlüssel
+[KBV-Kryptomodul (XKM) und öffentlicher Test](https://update.kbv.de/ita-update/KBV-Software/Kryptomodul/) [schlüssel](https://update.kbv.de/ita-update/KBV-Software/Kryptomodul/)
 
-VSD_Testfaelle_DMP_Vn.n.zip5
+[VSD_Testfaelle_DMP_Vn.n.zip](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/)[5](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/)
 
-KBV_ITA_VGEX_Schnittstelle_SDDA
+[KBV_ITA_VGEX_Schnittstelle_SDDA](https://update.kbv.de/ita-update/Stammdateien/SDDA)[](https://update.kbv.de/ita-update/Stammdateien/SDDA)
 
-KBV_ITA_VGEX_Schnittstelle_SDKT
+[KBV_ITA_VGEX_Schnittstelle_SDKT](https://update.kbv.de/ita-update/Stammdateien/SDKT/)[](https://update.kbv.de/ita-update/Stammdateien/SDKT/)
 
 ________________  4 n.nn steht für die aktuelle Versionsnummer, zum Beispiel 1.5 5 n.n steht für die aktuelle Versionsnummer, zum Beispiel 1.0
 
 **Dokument**
 
-Anforderungskatalog eDMP
+[](https://update.kbv.de/ita-update/Ankuendigung/DMP_Rheuma_II_2023/KBV_ITA_VGEX_Anforderungskatalog_eDMP.pdf) Anforderungskatalog eDMP
 
 DAS-28-Wert Fragebogen
 
-Plausibilitätsrichtlinie zur Prüfung der  Dokumentationsdaten des indikationsübergreifenden  allgemeinen Datensatzes
+[](https://update.kbv.de/ita-update/Ankuendigung/DMP_Rheuma_II_2023/EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend.pdf) Plausibilitätsrichtlinie zur Prüfung der  Dokumentationsdaten des indikationsübergreifenden  allgemeinen Datensatzes
 
 Plausibilitätsrichtlinie zur Prüfung der Dokumentations daten des strukturierten Behandlungsprogramms  rheumatoide Arthritis
 
-Plausibilitätsrichtlinie zur Prüfung der Dokumentations daten des strukturierten Behandlungsprogramms
+Plausibilitätsrichtlinie zur Prüfung der Dokumentations daten des strukturierten Behandlungsprogramms  rheumatoide Arthritis
 
-rheumatoide Arthritis
+Dokumentation Schnittstellenbeschreibung eDMP  rheumatoide Arthritis
 
-Dokumentation Schnittstellenbeschreibung eDMP
-
-rheumatoide Arthritis
-
-Dokumentation Schnittstellenbeschreibung eDMP
-
-Diabetes mellitus 2
+Dokumentation Schnittstellenbeschreibung eDMP  Diabetes mellitus 2
 
 Dokumentation eHeader-Schnittstellenbeschreibung
 
@@ -2005,7 +1752,6 @@ Datensatzbeschreibung SDKT 8
 
 / Version: 1.03 / 15. August 2025
 
-
 ---
 
 **Ansprechpartner:**
@@ -2014,8 +1760,6 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Kassenärztliche Bundesvereinigung
-
-Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de, www.kbv.de](http://www.kbv.de/)
 
 / Version: 1.03 / 15. August 2025

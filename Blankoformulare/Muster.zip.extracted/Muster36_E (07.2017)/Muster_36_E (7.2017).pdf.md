@@ -8,9 +8,7 @@
 
 **Arzt-Nr.**
 
-***Bitte informieren Sie sich bei Ihrer Krankenkasse über die*** ***geprüften*** ***und*** ***anerkannten*** ***Präventionsangebote***
-
-***Fördervoraussetzungen.***
+***Bitte informieren Sie sich bei Ihrer Krankenkasse über die*** ***geprüften*** ***und*** ***anerkannten*** ***Präventionsangebote*** ***Fördervoraussetzungen.***
 
 **Hinweise des behandelnden Arztes (z.B. Kontraindikationen,** **Konkretisierung zur Präventionsempfehlung)**
 
@@ -20,17 +18,11 @@
 
 **Empfehlung**
 
-**36**
+**36** **zur verhaltensbezogenen Primär-** **prävention gem. § 20 Abs. 5 SGB V**
 
-**zur verhaltensbezogenen Primär-** **prävention gem. § 20 Abs. 5 SGB V**
+**Bewegungsgewohnheiten** **geb. am**
 
-**Bewegungsgewohnheiten**
-
-**geb. am**
-
-**Ernährung** **Stressmanagement** **Suchtmittelkonsum**
-
-**Status**
+**Ernährung** **Stressmanagement** **Suchtmittelkonsum** **Status**
 
 **Sonstiges**
 

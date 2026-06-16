@@ -20,7 +20,7 @@
 
 243 **x.concept**
 
-498 **T 2med**
+498 **T2med**
 
 254 **ORBIS®**
 
@@ -36,31 +36,31 @@
 
 **Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
 
-CompuGroup Medical Deutschland AG 1 595
+CompuGroup Medical Deutschland AG 1.595
 
-1 606
+1.606
 
 -11
 
-medatixx GmbH & Co. KG 1 401
+medatixx GmbH & Co. KG 1.401
 
-1 431
+1.431
 
 -30
 
-CompuGroup Medical Deutschland AG 1 360
+CompuGroup Medical Deutschland AG 1.360
 
-1 402
+1.402
 
 -42
 
-medatixx GmbH & Co. KG 1 040
+medatixx GmbH & Co. KG 1.040
 
-1 001
+1.001
 
 39
 
-INDAMED EDV-Entwicklung und Vertrieb GmbH 1 028 1 007
+INDAMED EDV-Entwicklung und Vertrieb GmbH 1.028 1.007
 
 21
 
@@ -76,7 +76,7 @@ medatixx GmbH & Co. KG 855
 
 -20
 
-T 2med GmbH & Co. KG 818
+T2med GmbH & Co. KG 818
 
 781
 

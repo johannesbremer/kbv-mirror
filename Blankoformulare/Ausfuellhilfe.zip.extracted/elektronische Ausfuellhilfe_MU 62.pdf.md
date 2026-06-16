@@ -1,11 +1,7 @@
 **Muster 62A: Ergebnis der Erhebung des Beatmungsentwöhnungs- bzw. Dekanülierungs-** **potenzials gemäß AKI-Richtlinie des G-BA**
 
-**- bzw. Dekanülierungspotenzials**
-
 
 ---
-
-**- bzw. Dekanülierungspotenzials**
 
 - **(1)** **Maßnahmen zur Prüfung des Potenzials oder der Therapieoptimierung**
 
@@ -21,15 +17,11 @@ Ob und welche Felder in diesem Abschnitt anzukreuzen sind, hängt individuell vo
 
 - **(4)** **Maßnahmen zur Therapieoptimierung**
 
-Die Prüfung einer Therapieoptimierung ist bei allen Versicherten notwendig, insbesondere dann,  wenn dauerhaft kein Potenzial auf Beatmungsentwöhnung oder Dekanülierung vorhanden ist. In  diesem Feld sollen Maßnahmen angegeben werden, die aus ärztlicher Sicht notwendig sind, um
-
-die Therapie zu optimieren.
+Die Prüfung einer Therapieoptimierung ist bei allen Versicherten notwendig, insbesondere dann,  wenn dauerhaft kein Potenzial auf Beatmungsentwöhnung oder Dekanülierung vorhanden ist. In  diesem Feld sollen Maßnahmen angegeben werden, die aus ärztlicher Sicht notwendig sind, um  die Therapie zu optimieren.
 
 - **(5)** **Innerhalb von mindestens zwei Jahren […] regelmäßige Erhebung des Beat -** **mungsentwöhnungspotenzials bzw. Dekanülierungspotenzials ist nicht mehr angezeigt.**
 
-W ennkeine Aussicht auf nachhaltige Besserung der zu Grunde liegenden Funktionsstörung  besteht und eine Dekanülierung oder Beatmungsentwöhnung dauerhaft nicht möglich ist, kann
-
-die Erhebung entfallen. Voraussetzung ist, dass dies innerhalb eines Gesamtverordnungszeitraums  der Potenzialbeobachtung von mindestens zwei Jahren zweimal in Folge auf der Grundlage einer  unmittelbar persönlichen (nicht telemedizinischen) Erhebung durch die potenzialerhebende Ärztin  oder den potenzialerhebenden Arzt festgestellt und dokumentiert wurde.
+W enn keine Aussicht auf nachhaltige Besserung der zu Grunde liegenden Funktionsstörung  besteht und eine Dekanülierung oder Beatmungsentwöhnung dauerhaft nicht möglich ist, kann  die Erhebung entfallen. Voraussetzung ist, dass dies innerhalb eines Gesamtverordnungszeitraums  der Potenzialbeobachtung von mindestens zwei Jahren zweimal in Folge auf der Grundlage einer  unmittelbar persönlichen (nicht telemedizinischen) Erhebung durch die potenzialerhebende Ärztin  oder den potenzialerhebenden Arzt festgestellt und dokumentiert wurde.
 
 - **(6)** **Eine Erhebung zum Zwecke der Therapieoptimierung […] ist nicht mehr angezeigt**
 
@@ -49,8 +41,6 @@ Hier ist das Datum der Untersuchung anzugeben. Werden die Untersuchungen an mehr
 - **(9)** **Erneute Erhebung geplant am**
 
 Hier ist anzugeben, wann die nächste Erhebung terminiert wurde. Dieses Datum berücksichtigt die  verordnende Ärztin oder den verordnenden Arzt bei Ausstellung der Verordnung auf Muster 62B.
-
-**- bzw. Dekanülierungspotenzials**
 
 
 ---
@@ -101,9 +91,7 @@ Anzugeben ist die täglich erforderliche Anzahl der Stunden, in denen die ständ
 
 - **9.)** **Innerhalb von mindestens zwei Jahren […] regelmäßige Erhebung des Beat -** **mungsentwöhnungspotenzials bzw. Dekanülierungspotenzials ist nicht mehr angezeigt.**
 
-Hier können die Ausführungen des Musters **62A** aus dem Feld „Innerhalb von mindestens zwei
-
-Jahren […] regelmäßige Erhebung des Beatmungsentwöhnungspotenzials bzw.  Dekanülierungspotenzials ist nicht mehr angezeigt.“ übernommen werden.
+Hier können die Ausführungen des Musters **62A** aus dem Feld „Innerhalb von mindestens zwei  Jahren […] regelmäßige Erhebung des Beatmungsentwöhnungspotenzials bzw.  Dekanülierungspotenzials ist nicht mehr angezeigt.“ übernommen werden.
 
 Wenn keine Aussicht auf nachhaltige Besserung der zu Grunde liegenden Funktionsstörung  besteht und eine Dekanülierung oder Beatmungsentwöhnung dauerhaft nicht möglich ist, kann  die Erhebung entfallen. Voraussetzung ist, dass dies innerhalb eines Gesamtverordnungszeitraums  der Potenzialbeobachtung von mindestens zwei Jahren zweimal in Folge auf der Grundlage einer  unmittelbar persönlichen (nicht telemedizinischen) Erhebung durch die potenzialerhebende Ärztin  oder den potenzialerhebenden Arzt festgestellt und dokumentiert wurde.
 
@@ -126,9 +114,7 @@ Vertragsärztinnen und Vertragsärzte, die nicht auf die die AKI auslösende Erk
 
 ---
 
-Hier ist die Angabe weiterer relevanter Hinweise insbesondere im Hinblick auf die eingeschränkte
-
-Kommunikation, Mitwirkungsfähigkeit oder Nahrungsaufnahme möglich.
+Hier ist die Angabe weiterer relevanter Hinweise insbesondere im Hinblick auf die eingeschränkte  Kommunikation, Mitwirkungsfähigkeit oder Nahrungsaufnahme möglich.
 
 
 ---
